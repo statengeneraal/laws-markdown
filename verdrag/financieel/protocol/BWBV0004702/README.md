@@ -30,7 +30,7 @@ b) in beginsel in alle sectoren van de economie investeringsprojecten worden gef
 ### Artikel  3  
 
 1.  Met betrekking tot de verzoeken waarop gunstig is beschikt, geschiedt de financiering door middel van leningen van de Europese Investeringsbank, handelend in opdracht van de Lid-Staten der Gemeenschap.   
-2.  Het totale bedrag van deze leningen kan 195 miljoen rekeneenheden belopen en kan vastgelegd worden in de loop van een periode welke verstrijkt op 23 mei 1976. Het na het verstrijken van die periode eventueel overblijvende bedrag zal, totdat het volledig is verbruikt, worden aangewend op de wijze als in dit Protocol is voorzien.   
+2.  Het totale bedrag van deze leningen kan 242 miljoen rekeneenheden belopen en kan vastgelegd worden in de loop van een periode welke verstrijkt op 23 mei 1976. Het na het verstrijken van die periode eventueel overblijvende bedrag zal, totdat het volledig is verbruikt, worden aangewend op de wijze als in dit Protocol is voorzien.   
 3.  De elk jaar uit hoofde van de toegekende leningen vast te leggen bedragen dienen zo regelmatig mogelijk te worden verdeeld over de gehele periode waarin dit Protocol van toepassing is. In het eerste gedeelte van de toepassingsperiode evenwel mogen deze vastgelegde bedragen - binnen redelijke perken - naar verhouding hoger liggen.   
 4.  Het in lid 2 hierboven bedoelde bedrag wordt vermeerderd met het niet gestorte gedeelte van de uit hoofde van het eerste Financiële Protocol vastgelegde kredieten, welke waren komen te vervallen voordat de desbetreffende stortingen geheel of ten dele waren verricht.   
 
