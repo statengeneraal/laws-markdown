@@ -1,0 +1,81 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Protocol inzake toetreding van de Portugese Republiek en het Koninkrijk Spanje tot het Verdrag van economische, sociale en culturele samenwerking en collectieve zelfverdediging, ondertekend te Brussel op 17 maart 1948, zoals gewijzigd bij het Potocol tot wijziging en aanvulling van het Verdrag van Brussel, ondertekend te Parijs op 23 oktober 1954
+
+####Protocol for the accession of the Portuguese Republic and the Kingdom of Spain to the Treaty of Economic, Social and Cultural Collaboration and Collective Self-Defence, signed at Brussels on 17 March 1948, as amended by the "Protocol modifying and completing the Brussels Treaty", signed at Paris on 23 October 1954
+
+The Parties to the Treaty of Economic, Social and Cultural Collaboration and Collective Self-Defence signed at Brussels on 17 March 1948, as modified and completed by the Protocol signed at Paris on 23 October 1954 and the other Protocols and Annexes which form an integral part thereof, hereinafter referred to as "the Treaty", on the one hand, and the Portuguese Republic and the Kingdom of Spain, on the other, Reaffirming the common destiny which binds their countries and recalling their commitment to build a European union in accordance with the Single European Act; Convinced that the construction of an integrated Europe will remain incomplete as long as it does not include security and defence; Determined to develop a more cohesive European defence identity which will translate more effectively into practice the obligations of solidarity contained in the Treaty and in the North Atlantic Treaty; Noting that the Portuguese Republic and the Kingdom of Spain, which are fully committed to the process of European construction and are members of the Atlantic Alliance, have formally stated that they are prepared to accede to the Treaty; Noting that these two States accept unreservedly and in their entirety the Rome Declaration of 27 October 1984 and the Platform on European Security Interests adopted in The Hague on 27 October 1987 and that they are prepared to participate fully in their implementation; Recalling the invitation issued on 19 April 1988 by the Council of Ministers of Western European Union to the Portuguese Republic and the Kingdom of Spain to open discussions with a view of their possible accession to the Treaty; Noting the satisfactory conclusion of the discussions which followed this invitation; Noting that the Portuguese Republic and the Kingdom of Spain have acknowledged the agreements, resolutions, decisions and rules of whatever nature adopted in the framework of Western European Union in conformity with the provisions of the Treaty; Noting the invitation to accede to the Treaty issued to the Portuguese Republic and to the Kingdom of Spain on 14 November 1988; Noting the Political Declaration adopted on 14 November 1988; Considering that the enlargement of Western European Union to include the Portuguese Republic and the Kingdom of Spain represents a significant step in the development of European solidarity in the field of security and defence; Have agreed as follows:    
+
+### Article  I  
+
+By the present Protocol, the Portuguese Republic and the Kingdom of Spain accede to the Treaty.  
+
+### Article  II  
+
+By their accession to the Treaty, the Portuguese Republic and the Kingdom of Spain become Parties to the Agreements concluded between the member States in fulfilment of the Treaty, listed by way of annex to the present Protocol.  
+
+### Article  III  
+
+Each of the signatory States shall notify the Belgian Government of the acceptance, approval or ratification of the present Protocol, which shall enter into force on the day of the receipt of the last of these notifications. The Belgian Government shall inform the signatory States of each such notification and of the entry into force of the Protocol.  
+
+IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed the present Protocol. DONE at London this fourteenth day of November, 1988, in two texts, in the English and French languages, each text being equally authoritative, in a single copy which shall remain deposited in the archives of the Belgian Government and certified copies of which shall be transmitted by that Government to each of the other signatories.  *For the Government of the Kingdom of Belgium:*  (sd.) L. TINDEMANS  *For the Government of the French Republic:*  (sd.) ROLAND DUMAS  *For the Government of the Federal Republic of Germany:*  (sd.) HANS-DIETRICH GENSCHER  *For the Government of the Italian Republic:*  (sd.) GIULIO ANDREOTTI  *For the Government of the Grand Duchy of Luxemburg:*  (sd.) JACQUES POOS  *For the Government of the Kingdom of the Netherlands:*  (sd.) H. VAN DEN BROEK  *For the Government of the Portuguese Republic:*  (sd.) JOAO DE DEUS PINHEIRO  *For the Government of the Kingdom of Spain:*  (sd.) FRANCISCO FERNÁNDEZ ORDOÑEZ  *For the Government of the United Kingdom of Great Britain and Northern Ireland*  (sd.) GEOFFREY HOWE  
+
+### Annex  
+
+Agreements concluded between the Member States in fulfilment of the Treaty: 
+
+1. Agreement on the Status of Western European Union, National Representatives and International Staff, signed at Paris on 11 May 1955.  
+
+2. Agreement drawn up in implementation of Article V of Protocol No II to the Treaty, signed at Paris on 14 December 1957.     
+
+### Nr.  I  
+
+####EL. MINISTRO DE ASUNTOS EXTERIORES
+
+Madrid, November 14, 1988 Your Excellency, I have the honour to refer to the Protocol signed this day for the accession of the Portuguese Republic and the Kingdom of Spain to the Treaty of Economic, Social and Cultural Collaboration and Collective Self-Defense, signed at Brussels on 17 March 1948, as amended by the Protocol modifying and completing the Brussels Treaty, signed at Paris on 23 October 1954, and to communicate the following in connection with Article X of the said Treaty, hereinafter referred to as "the Treaty". The Government of the Kingdom of Spain proposes in this connection that the Kingdom of Spain shall not, as a consequence of its accession to the Treaty, be obliged to submit to the International Court of Justice, without its consent, any dispute between Spain and another Party to the Treaty existing prior to the entry into force of the Treaty for Spain or relating to facts or situations existing before that date. I should be grateful if Your Excellency would confirm that Your Government is in agreement with the above and that the exchange of letters thus effected will be considered as an Annex to the Protocol of Accession which will enter into force simultaneously therewith. Accept, Your Excellency, the renewed assurance of my highest consideration, (sd.) F. F. ORDOÑEZ Francisco Fernández Ordoñez  *H.E. Mr. Hans van den Broek*   *Minister of Foreign Affairs of the*   *Kingdom of the Netherlands*    
+
+### Nr.  II  
+
+####MINISTER FOR FOREIGN AFFAIRS
+
+London, 14 November 1988 Your Excellency, I have the honour to acknowledge receipt of your communication of today's date referring to the Protocol for the Accession of the Portuguese Republic and the Kingdom of Spain to the Treaty of Economic, Social and Cultural Collaboration and Collective Self-Defence, signed at Brussels on 17 March 1948, as amended by the Protocol modifying and completing the Brussels Treaty, signed at Paris on 23 October 1954 and in particular to Article X of the said Treaty, hereinafter referred to as "the Treaty". I have the honour in reply to confirm that, in the view of my Government, the Kingdom of Spain shall not, as a consequence of its accession to the Treaty, be obliged to submit to the International Court of Justice, without its consent, any dispute between Spain and another Party to the Treaty existing prior to the entry into force of the Treaty for Spain or relating to facts or situations existing before that date and that the present exchange of letters will be considered as an Annex to the Protocol of Accession, which will enter into force simultaneously therewith; Accept, Your Excellency, the assurances of my highest consideration. (sd.) H. VAN DEN BROEK H. van den Broek Minister for Foreign Affairs of the Kingdom of the Netherlands  *His Excellency*   *Mr. Francisco Fernández-Ordoñez*   *Minister for Foreign Affairs of the Kingdom of Spain*    
+
+####Protocol inzake toetreding van de Portugese Republiek en het Koninkrijk Spanje tot het Verdrag van economische, sociale en culturele samenwerking en collectieve zelfverdediging, ondertekend te Brussel op 17 maart 1948, zoals gewijzigd bij het Protocol tot wijziging en aanvulling van het Verdrag van Brussel, ondertekend te Parijs op 23 oktober 1954
+
+De Partijen bij het Verdrag van economische, sociale en culturele samenwerking en collectieve zelfverdediging, ondertekend te Brussel op 17 maart 1948, zoals gewijzigd en aangevuld bij het Protocol ondertekend te Parijs op 23 oktober 1954 en de andere Protocollen en Bijlagen die daarvan een integrerend deel uitmaken, hierna te noemen „het Verdrag”, enerzijds, en de Portugese Republiek en het Koninkrijk Spanje, anderzijds, Bevestigend de lotsverbondenheid van hun landen en herinnerend aan hun verplichting een Europese Unie tot stand te brengen in overeenstemming met de Europese Akte; Ervan overtuigd dat de opbouw van een geïntegreerd Europa onvolledig blijft zolang deze zich niet uitstrekt tot veiligheid en verdediging; Vastbesloten op het gebied van de verdediging een meer samenhangende Europese identiteit te ontwikkelen, die de verplichtingen van saamhorigheid die zijn vervat in het Verdrag en in het Noordatlantisch Verdrag doeltreffender in praktijk brengt; Nota nemend van het feit dat de Portugese Republiek en het Koninkrijk Spanje, die het Europese eenwordingsproces volledig zijn toegedaan en lid zijn van het Atlantisch Bondgenootschap, formeel te kennen hebben gegeven dat zij bereid zijn toe te treden tot het Verdrag; Nota nemend van het feit dat deze beide Staten de verklaring van Rome van 27 oktober 1984 en het Platform inzake Europese veiligheidsbelangen, aangenomen te 's-Gravenhage op 27 oktober 1987, zonder voorbehoud en in al hun onderdelen aanvaarden en bereid zijn ten volle aan de tenuitvoerlegging daarvan deel te nemen; Herinnerend aan de op 19 april 1988 door de Raad van Ministers van de Westeuropese Unie aan de Portugese Republiek en het Koninkrijk Spanje gerichte uitnodiging om besprekingen aan te gaan met het oog op hun mogelijke toetreding tot het Verdrag; Nota nemend van de bevredigende afloop van de besprekingen die op deze uitnodiging zijn gevolgd; Overwegende dat de Portugese Republiek en het Koninkrijk Spanje de overeenkomsten, resoluties, besluiten en regelingen, van welke aard dan ook, die in het kader van de Westeuropese Unie in overeenstemming met de bepalingen van het Verdrag zijn aangenomen, hebben erkend; Nota nemend van de op 14 november 1988 aan de Portugese Republiek en het Koninkrijk Spanje gerichte uitnodiging om toe te treden tot het Verdrag; Nota nemend van de op 14 november 1988 aangenomen Politieke Verklaring; Overwegende dat de uitbreiding van de Westeuropese Unie met de Portugese Republiek en het Koninkrijk Spanje een belangrijke stap vormt in de ontwikkelingen van Europese saamhorigheid op het gebied van veiligheid en verdediging; Zijn het volgende overeengekomen:    
+
+### Artikel  I  
+
+Bij dit Protocol treden de Portugese Republiek en het Koninkrijk Spanje toe tot het Verdrag.  
+
+### Artikel  II  
+
+Door hun toetreding tot het Verdrag worden de Portugese Republiek en het Koninkrijk Spanje Partij bij de ter uitvoering van het Verdrag tussen de lidstaten gesloten overeenkomsten, welke in een bijlage bij dit Protocol zijn genoemd.  
+
+### Artikel  III  
+
+Elke Staat die heeft ondertekend, stelt de Belgische Regering in kennis van de aanvaarding, goedkeuring of bekrachtiging van dit Protocol, dat in werking treedt op de dag van ontvangst van de laatste van deze kennisgevingen. De Belgische Regering doet de Staten die hebben ondertekend mededeling van elk van deze kennisgevingen en van de inwerkingtreding van dit Protocol.  
+
+TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Protocol hebben ondertekend. GEDAAN te Londen op 14 november 1988 in de Franse en de Engelse taal, zijnde beide teksten gelijkelijk gezaghebbend, in een enkel exemplaar, dat zal worden nedergelegd in de archieven van de Belgische Regering en waarvan een voor eensluidend gewaarmerkt afschrift door deze Regering zal worden toegezonden aan alle andere Staten die hebben ondertekend.  
+
+### Bijlage  
+
+Ter uitvoering van het Verdrag tussen de Lidstaten gesloten Overeenkomsten: 
+
+1. Verdrag nopens de rechtspositie van de Westeuropese Unie, van de nationale vertegenwoordigers bij haar organen en van haar internationale staf, ondertekend te Parijs op 11 mei 1955.  
+
+2. Overeenkomst ter uitvoering van artikel V van Protocol II bij het Verdrag, ondertekend te Parijs op 14 december 1957.     
+
+### Nr.  I  
+
+####DE MINISTER VAN BUITENLANDSE ZAKEN
+
+###Madrid, 14 november 1988
+
+Excellentie, Ik heb de eer te verwijzen naar het heden ondertekende Protocol inzake de toetreding van de Portugese Republiek en het Koninkrijk Spanje tot het Verdrag van economische, sociale en culturele samenwerking en collectieve zelfverdediging, ondertekend te Brussel op 17 maart 1948, zoals gewijzigd bij het Protocol tot wijziging en aanvulling van het Verdrag van Brussel, ondertekend te Parijs op 23 oktober 1954, en U het volgende mede te delen in verband met artikel X van genoemd Verdrag, hierna te noemen „het Verdrag”. De Regering van het Koninkrijk Spanje stelt in dit verband voor dat het Koninkrijk Spanje niet verplicht zal zijn, als gevolg van zijn toetreding tot het Verdrag, zonder zijn toestemming enig geschil tussen Spanje en een andere Partij bij het Verdrag dat reeds bestaat vóór de inwerkingtreding daarvan voor Spanje, of dat betrekking heeft op feiten of omstandigheden die zich vóór die datum hebben voorgedaan, te onderwerpen aan het Internationale Gerechtshof. Ik zou Uwe Excellentie erkentelijk zijn indien U zoudt willen bevestigen dat Uw Regering instemt met het bovenstaande en dat de daardoor tot stand gekomen briefwisseling zal worden beschouwd als een bijlage bij het Protocol van toetreding en dat tegelijkertijd in werking zal treden. Gelief, Excellentie, de verzekering van mijn zeer bijzondere hoogachting wel te willen aanvaarden. (wg.) F. F. ORDOÑEZ Francisco Fernández Ordoñez.  *Z.E. Hans van den Broek,*   *Minister van Buitenlandse Zaken van het Koninkrijk der Nederlanden*    
+
+### Nr.  II  
+
+####MINISTER VAN BUITENLANDSE ZAKEN VAN HET KONINKRIJK DER NEDERLANDEN
+
+Londen, 14 november 1988. Excellentie, Ik heb de eer de ontvangst te bevestigen van uw mededeling van heden betreffende het Protocol inzake toetreding van de Portugese Republiek en het Koninkrijk Spanje tot het Verdrag van economische, sociale en culturele samenwerking en collectieve zelfverdediging, ondertekend te Brussel op 17 maart 1948, zoals gewijzigd bij het Protocol tot wijziging en aanvulling van het Verdrag van Brussel, ondertekend te Parijs op 23 oktober 1954, en in het bijzonder betreffende artikel X van genoemd Verdrag, hierna te noemen „het Verdrag”. Ik heb de eer U in antwoord daarop te bevestigen dat, volgens het standpunt van mijn Regering, het Koninkrijk Spanje niet verplicht zal zijn, als gevolg van zijn toetreding tot het Verdrag, zonder zijn toestemming enig geschil tussen Spanje en een andere Partij bij het Verdrag dat reeds bestaat vóór de inwerkingtreding daarvan voor Spanje, of dat betrekking heeft op feiten of omstandigheden die zich vóór die datum hebben voorgedaan, te onderwerpen aan het Internationale Gerechtshof, en dat deze briefwisseling zal worden beschouwd als bijlage bij het Protocol van toetreding en tegelijkertijd in werking zal treden. Gelief, Excellentie, de verzekering van mijn zeer bijzondere hoogachting wel te willen aanvaarden. (wg.) H. VAN DEN BROEK H. van den Broek, Minister van Buitenlandse Zaken van het Koninkrijk der Nederlanden  *Aan Zijne Excellentie*   *Francisco Fernández Ordoñez*   *Minister van Buitenlandse Zaken van het Koninkrijk Spanje*    
