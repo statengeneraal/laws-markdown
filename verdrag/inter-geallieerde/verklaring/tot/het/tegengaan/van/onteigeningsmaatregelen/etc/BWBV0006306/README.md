@@ -1,0 +1,9 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Inter-Geallieerde verklaring tot het tegengaan van onteigeningsmaatregelen in gebieden onder vijandelijke bezetting of controle
+
+####Inter-Allied Declaration against Acts of Dispossession Committed in Territories under Enemy Occupation or Control.
+
+Approved at London, January 5, 1943  
+
+The Governments of the Union of South Africa; the United States of America; Australia; Belgium; Canada; China; the Czechoslovak Republic; the United Kingdom of Great Britain and Northern Ireland; Greece; India; Luxemburg; the Netherlands; New Zealand; Norway; Poland; the Union of Soviet Socialist Republics; Yugoslavia; and the French National Committee; Hereby issue a formal warning to all concerned, and in particular to persons in neutral countries, that they intend to do their utmost to defeat the methods of dispossession practised by the Governments with which they are at war against the countries and peoples who have been so wantonly assaulted and despoiled. Accordingly, the Governments making this Declaration and the French National Committee reserve all their rights to declare invalid any transfers of, or dealings with, property, rights and interests of any description whatsoever which are, or have been, situated in the territories which have come under the occupation or control, direct or indirect, of the Governments with which they are at war, or which belong, or have belonged, to persons (including juridical persons) resident in such territories. This warning applies whether such transfers or dealings have taken the form of open looting or plunder, or of transactions apparently legal in form, even when they purport to be voluntarily effected. The Governments making this Declaration and the French National Committee solemnly record their silodarity in this matter. London, January 5, 1943.   
