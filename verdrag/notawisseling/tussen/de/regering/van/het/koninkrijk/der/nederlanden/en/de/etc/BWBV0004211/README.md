@@ -1,0 +1,31 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Pakistan betreffende de wederzijdse erkenning van meetbrieven voor koopvaardijschepen
+
+### Nr.  I  
+
+EMBASSY OF PAKISTAN S. 178/65 The Embassy of Pakistan presents its compliments to the Ministry of Foreign Affairs of the Kingdom of the Netherlands and has the honour to refer to previous consultations on the mutual recognition of Tonnage Certificates of Merchant Ships by the Government of Pakistan and the Government of the Kingdom of the Netherlands. On behalf of the Pakistan Government the Embassy proposes: 
+
+1. Pakistan ships furnished with certificates of registry or other national documents denoting tonnage duly issued by the competent authorities of Pakistan shall be deemed by the Netherlands authorities, without remeasurement of the ships, to be of the tonnage denoted in those certificates or documents.  
+
+2. Similarly, ships registered in the Netherlands and furnished with certificates of registry or other national documents denoting tonnage duly issued by the competent authorities of the Netherlands shall be deemed by the authorities of Pakistan without remeasurement of the ships, to be of the tonnage denoted in those certificates or documents.  
+
+3. If, in either country, the regulations governing the measurement of tonnage are modified, the Government of that country shall without delay inform the Government of the other country of the modification.   If the foregoing terms are acceptable to the Government of the Kingdom of the Netherlands, the Embassy has the honour to propose that this Note and the Ministry's affirmative reply thereto shall be deemed to constitute an agreement beween the two Governments that will enter into force on the sixteenth day following the day on which the Government of the Kingdom of the Netherlands has informed the Government of Pakistan that the approval constitutionally required in the Netherlands has been obtained. The agreement shall remain in force for an indefinite period. It may be terminated by one of the Governments by giving twelve months' notice to the other Government to do so. It is understood that, as regards the Kingdom of the Netherlands, the agreement shall apply to the part of the Kingdom in Europe. The Hague, 13 December 1968.  *The Ministry of Foreign Affairs*   *of the Kingdom of the Netherlands*   *at The Hague*    
+
+### Nr.  II  
+
+MINISTRY OF FOREIGN AFFAIRS Treaty Department DVE/VV-220421 The Ministry of Foreign Affairs presents its compliments to the Embassy of Pakistan and has the honour to acknowledge receipt of the Latter's Note No. S. 178/65 of 13 December 1968, which reads as follows:  (zoals in Nr. I )  The Ministry has the honour to inform the Embassy that the Government of the Kingdom of the Netherlands accepts the proposals and confirms the understanding set out in the Embassy's Note and affirms that the Latter's Note and this Note are regarded as a placing on record of the agreement between the two Governments in this matter. The Hague, 13 December 1968.  *The Embassy of Pakistan,*   *The Hague*    
+
+### Nr.  I  
+
+AMBASSADE VAN PAKISTAN S. 178/65 De Ambassade van Pakistan biedt het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden haar complimenten aan en heeft de eer te verwijzen naar het eerder gevoerde overleg betreffende de wederzijdse erkenning van meetbrieven van koopvaardijschepen door de Regering van Pakistan en de Regering van het Koninkrijk der Nederlanden. Namens de Regering van Pakistan stelt de Ambassade voor: 
+
+1. Pakistaanse schepen die beschikken over registratiebewijzen of andere nationale documenten waarin de tonnage staat vermeld, die zijn afgegeven door de bevoegde autoriteiten van Pakistan, worden door de Nederlandse autoriteiten, zonder hermeting van de schepen, geacht de tonnage te hebben die in deze bewijzen of documenten staat vermeld.  
+
+2. Omgekeerd worden in Nederland geregistreerde schepen die beschikken over registratiebewijzen of andere nationale documenten waarin de tonnage staat vermeld, die zijn afgegeven door de bevoegde autoriteiten van Nederland, door de Pakistaanse autoriteiten, zonder hermeting van de schepen, geacht de tonnage te hebben die in deze bewijzen of documenten staat vermeld.  
+
+3. Indien in een van beide landen de voorschriften betreffende de meting van de tonnage worden gewijzigd, stelt de Regering van dat land onverwijld de Regering van het andere land van de wijziging in kennis.   De Ambassade heeft de eer voor te stellen dat, indien het bovenstaande voor de Regering van het Koninkrijk der Nederlanden aanvaardbaar is, deze Nota en het bevestigende antwoord geacht worden een overeenkomst te vormen tussen de twee Regeringen, die in werking zal treden op de zestiende dag volgend op de dag waarop de Regering van het Koninkrijk der Nederlanden de Regering van Pakistan heeft medegedeeld dat de in Nederland constitutioneel vereiste goedkeuring is verkregen. De overeenkomst blijft voor onbepaalde tijd van kracht. Zij kan door elk der Regeringen worden beëindigd, en wel door hiervan twaalf maanden van te voren kennis te geven aan de andere Regering. Het is wel te verstaan dat wat het Koninkrijk der Nederlanden betreft, de overeenkomst van toepassing is op het in Europa gelegen deel van het Koninkrijk. 's-Gravenhage, 13 december 1968.  *Het Ministerie van Buitenlandse Zaken*   *van het Koninkrijk der Nederlanden,*   *'s-Gravenhage*    
+
+### Nr.  II  
+
+MINISTERIE VAN BUITENLANDSE ZAKEN Directie Verdragen DVE/VV-220421 Het Ministerie van Buitenlandse Zaken biedt de Ambassade van Pakistan zijn complimenten aan en heeft de eer de ontvangst te bevestigen van Nota No. S. 178/65 van 13 december 1968, die als volgt luidt:  (zoals in Nr. I)  Het Ministerie heeft de eer de Ambassade mede te delen dat de Regering van het Koninkrijk der Nederlanden de in de Nota van de Ambassade vervatte voorstellen aanvaardt en met de daarin uiteengezette regeling instemt, en bevestigt dat de Nota van de Ambassade en de onderhavige Nota worden beschouwd als vast te leggen de overeenkomst ter zake tussen de twee Regeringen. 's-Gravenhage, 13 december 1968.  *De Ambassade van Pakistan,*   *'s-Gravenhage*    
