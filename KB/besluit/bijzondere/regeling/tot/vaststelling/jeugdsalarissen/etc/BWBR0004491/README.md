@@ -6,12 +6,12 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, van 30 december 1988, nr. 88MO11261 en van de Staatssecretaris van Financiën van 15 september 1988, nr. 588-9633, directie Personeel van de Belastingdienst, en Onze Minister van Binnenlandse Zaken van 23 december 1988, nr. AB88/415/U2, directoraat-generaal Management en Personeelsbeleid, directie Arbeidsvoorwaarden, afdeling Financiële Arbeidsvoorwaarden Rijkspersoneel;
 
-Gelet op [artikel 26 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md);
+Gelet op artikel 26 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984;
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
 
-Ten aanzien van ambtenaren, werkzaam bij de Belastingdienst, worden in de salarisschalen 7 en 8 van bijlage B van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) geacht de salarisnummers J 21, J 20, J 19, J 18 en J 17 voor te komen.  
+Ten aanzien van ambtenaren, werkzaam bij de Belastingdienst, worden in de salarisschalen 7 en 8 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 geacht de salarisnummers J 21, J 20, J 19, J 18 en J 17 voor te komen.  
 
 ### Artikel  II  
 
