@@ -1,0 +1,29 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Aanvullend Protocol voor procedureregels inzake de ontwikkelingssamenwerking ingevolge artikel 11 van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname betreffende ontwikkelingssamenwerking
+
+####Aanvullend Protocol voor procedureregels inzake de ontwikkelingssamenwerking ingevolge artikel 11 van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname betreffende ontwikkelingssamenwerking
+
+| --- | --- |
+|:---|:---|
+| De Minister van Financiën van de Republiek Suriname,  | De Minister voor Ontwikkelingssamenwerking van Nederland,  |
+
+Overwegende dat het, met verwijzing naar het terzake gestelde in de gemeenschappelijke verklaring naar aanleiding van het Ministersoverleg van juli 1988, gewenst is krachtens artikel 17 van bovengenoemd protocol voor procedureregels enkele veranderingen daarin en aanvullingen daarop aan te brengen teneinde de voorbereiding, uitvoering en financiële afwikkeling van projecten en programma's te bespoedigen, zijn het volgende overeengekomen. <sup> 1)  [Red: Bedoeld wordt het Protocol voor procedureregels van 25 november 1975 (tekst in *Trb.* 1976, 8, rubriek J).]  </sup> 
+
+1. Beide partijen bevestigen de afspraak zoals gemaakt tijdens het Ministersoverleg in juli 1988, inhoudende dat het overleg van de Commissie Ontwikkelingssamenwerking Nederland-Suriname (CONS) bedoeld in artikel 8 e.v. van de Overeenkomst en in het Protocol voor Procedureregels vervangen wordt door een tenminste twee maal per jaar op hoog ambtelijk niveau te houden BELEIDSOVERLEG, hetwelk zal worden voorbereid door de Stichting Planbureau Suriname en de Ambassade van het Koninkrijk der Nederlanden te Paramaribo, en hetwelk bij voorkeur zal plaatsvinden in de maanden mei en november.  
+
+2. Projecten en programma's kunnen het gehele jaar door de Stichting Planbureau Suriname voor financiering ten laste van de verdragsmiddelen in aanmerking worden gebracht en aan de Regeringen van Suriname en Nederland worden aangeboden, op basis waarvan tijdens het Beleidsoverleg gemeenschappelijk genomen reserverings- en committeringbesluiten genomen kunnen worden over de voorbereiding- en uitvoeringmodaliteiten en de financiering per project en programma. Daarnaast kunnen in gezamenlijk overleg namens beide Regeringen het gehele jaar door terzake besluiten worden genomen. De voorgestelde projecten en programma's zullen elk vergezeld gaan van een korte inhoudelijke omschrijving in termen van doeleinden, activiteiten en middelen alsmede van de geschatte kosten per jaar en voor het totaal. In aanvulling op de toetsing aan de doelstellingen vermeld in de overeenkomst betreffende ontwikkelingssamenwerking zal als gemeenschappelijk toetsingscriterium voor goedkeuring worden gehanteerd financiële, economische, technische en institutionele haalbaarheid, een en ander overeenkomstig de interne richtlijnen van partijen.  
+
+3. De Nederlandse Regering houdt ten laste van de verdragsmiddelen een jaarlijkse allocatie voor Suriname beschikbaar waaruit de voorbereiding, de uitvoering, de begeleiding, de controle, de evaluatie van de gezamenlijk goedgekeurde projecten en programma's en de eindverantwoording kunnen worden gefinancierd met inbegrip van lokale kosten, dit laatste via de gegenereerde tegenwaardefondsen. Indien blijkt dat de tegenwaardefondsen daarvoor onvoldoende zullen zijn dan zal nader overleg tussen partijen plaatsvinden om te komen tot een voor beide partijen bevredigende oplossing.  
+
+4. Bij de voorbereiding, uitvoering en begeleiding van projecten en programma's gefinancierd ten laste van de verdragsmiddelen zal de financiële hulpprocedure worden gehanteerd, hetgeen impliceert dat contractering van derden door Suriname geschiedt, dan wel de technische hulpprocedure, hetgeen impliceert dat contractering van derden door Nederland geschiedt. Contractsluiting kan eerst plaatsvinden indien beide partijen hebben ingestemd met de contractvoorwaarden. Welke procedure zal worden gevolgd, zal per project en programma in onderling overleg tussen partijen worden bepaald. De verantwoordelijkheid van partijen voor de realisatie van projecten en programma's zal tot uiting komen in de van gezamenlijke overleg te maken afspraken over de voorbereiding van projectdocumenten met inbegrip van waar nodig voor voorbereidende studies en de goedkeuring van uitvoeringsplannen, op basis waarvan tot financiering van de uitvoering kan worden besloten, de verwerving van goederen en diensten, de begeleiding en monitoring van en de controle op de uitvoering, de betaling van de geleverde prestaties en de evaluatie.  
+
+5. Ten einde de uitvoering van projecten en programma's te bespoedigen is voor opdrachten beneden de tegenwaarden in Surinaams courant van Hfl. 400 000,- geen openbare aanbesteding vereist.  
+
+6. De verstrekking van gelden door of vanwege Nederland geschiedt direct en per project aan de desbetreffende gecontracteerde opdrachtnemers.  
+
+7. De administratie en rapportage terzake van de uitvoering van werken en de levering van goederen en diensten zal aan accountantscontrole onderworpen worden. Daartoe benoemt elk der partijen een accountantskantoor. Het zal hier dienen te gaan om gerenommeerde kantoren. Zij zullen in onderling overleg de werkzaamheden zodanig regelen, dat gekomen kan worden tot een verklaring bij de rapportage, waarbij elk de ongedeelde verantwoordelijkheid kan dragen. De controle-opdracht wordt door beide partijen gezamenlijk gegeven in het kader van een af te sluiten Raamovereenkomst.  
+
+8. Dit aanvullend Protocol treedt in werking op de datum van ondertekening.     
+GEDAAN te 's-Gravenhage op 10 juli 1989 in twee exemplaren, in de Nederlandse taal. De Minister voor Ontwikkelingssamenwerking van Nederland (w.g.) P. BUKMAN De Minister van Financiën van de Republiek Suriname (w.g.) S. Ch. MUNGRA  
+
