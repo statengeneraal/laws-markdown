@@ -247,20 +247,3 @@ B. Canada Routes te exploiteren door een luchtvaartmaatschappij of luchtvaartmaa
 | Opmerking 5:  | Indien uit hoofde van artikel IV van deze Overeenkomst een tweede Canadese luchtvaartmaatschappij wordt aangewezen, zijn de vijfde-vrijheidsrechten die beschikbaar zijn voor de tweede aangewezen luchtvaartmaatschappij beperkt tot twee door Canada te noemen punten. Eenmaal gekozen kunnen bedoelde punten slechts met instemming van de luchtvaartautoriteiten van Nederland worden gewijzigd.  |
 | Opmerking 6:  | Indien uit hoofde van artikel IV van deze Overeenkomst door Nederland een tweede luchtvaartmaatschappij wordt aangewezen, exploiteert de tweede aangewezen luchtvaartmaatschappij slechts de dienst naar/van twee van de punten in Canada genoemd in Routetabel A hierboven.  |
 
-### Nr.  1  
-
-####DEPARTMENT OF EXTERNAL AFFAIRS
-
-CANADA  
-
-Ottawa, June 2, 1989 No. JLA-5162 Excellency, With reference to the Air Transport Agreement between the Government of Canada and the Government of the Kingdom of the Netherlands, signed today at Ottawa, I have the honour to propose the following understanding between our two Governments: 
-
-1. During the time that air services are operated between Amsterdam and Toronto by a designated airline of the Netherlands, the long established services between Montreal and the Netherlands (in Europe) will be maintained, short of force majeure, by their designated airlines in a manner and at a level that, following consultations between the designated airlines and approved by the aeronautical authorities, ensures that the needs of the market and the convenience of the travelling public and of shippers continue to be fully met;  
-
-2. With reference to Article XVIII of the Agreement, the contracting Parties share the understanding that statistical data will continue to be provided to appropriate authorities in accordance with existing arrangements or as modified in accordance with arrangements which may from time to time be agreed by the authorities of both sides, taking into account technological developments. Consideration will also be given, as appropriate, to refinements which would enhance the quality of information provided.   If the above proposals are acceptable to your Government, I have the honour to propose that this Note, which is authentic in English and French, and your reply to that effect, will constitute an understanding between our two Governments which will come into effect on the date of your reply. Accept, Excellency, the renewed assurances of my highest consideration. (sd.) JOE CLARK Secretary of State for External Affairs  *His Excellency Jan Frederick Evert Breman,*   *Ambassador of the Kingdom of the Netherlands,*   *Ottawa.*    
-
-### Nr.  2  
-
-####ROYAL NETHERLANDS EMBASSY
-
-Ottawa, 2 June 1989 No. 20174 Dear Minister, I have the honour to acknowledge receipt of your note of today, no. JLA-5162, the text of which reads as follows:  (zoals in Nr. 1)  I have furthermore the honour to confirm that the above proposals are acceptable to my Government and that your Note and this reply, which are authentic in English and French, constitute an understanding between our two Governments, which comes into effect on the date of this reply. Please accept, Mr. Minister, the renewed assurance of my highest consideration. (sd.) JAN BREMAN Jan F.E. Breman Ambassador  *The Right Honourable Joe Clark*   *Secretary of State for External Affairs*   *Ottawa*    
