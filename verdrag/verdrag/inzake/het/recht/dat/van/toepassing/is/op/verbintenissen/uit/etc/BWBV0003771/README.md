@@ -4,7 +4,7 @@
 
 ####Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst
 
-Preambule De Hoge Verdragsluitende Partijen bij het Verdrag tot oprichting van de Europese Economische Gemeenschap, Geleid door de wens om op het gebied van het internationaal privaatrecht verder te gaan met de in de Gemeenschap reeds begonnen eenmaking van het recht, met name ter zake van de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen, Verlangende eenvormige regels op te stellen voor het recht dat van toepassing is op verbintenissen uit overeenkomst,   Hebben overeenstemming bereikt omtrent de volgende bepalingen:    
+Preambule De Hoge Verdragsluitende Partijen bij het [Verdrag tot oprichting van de Europese Economische Gemeenschap](../../../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md), Geleid door de wens om op het gebied van het internationaal privaatrecht verder te gaan met de in de Gemeenschap reeds begonnen eenmaking van het recht, met name ter zake van de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen, Verlangende eenvormige regels op te stellen voor het recht dat van toepassing is op verbintenissen uit overeenkomst,   Hebben overeenstemming bereikt omtrent de volgende bepalingen:    
 
 ### TITEL  I  
 
@@ -57,7 +57,7 @@ Het door dit Verdrag aangewezen recht is toepasselijk, ongeacht de vraag of het 
 
 1.  Een overeenkomst wordt beheerst door het recht dat partijen hebben gekozen. De rechtskeuze moet uitdrukkelijk zijn gedaan of voldoende duidelijk blijken uit de bepalingen van de overeenkomst of de omstandigheden van het geval. Bij hun keuze kunnen partijen het toepasselijke recht aanwijzen voor de overeenkomst in haar geheel of voor slechts een onderdeel daarvan.   
 2.  Partijen kunnen te allen tijde overeenkomen de overeenkomst aan een ander recht te onderwerpen dan het recht dat deze voorheen, hetzij op grond van een vroegere rechtskeuze overeenkomstig dit artikel, hetzij op grond van een andere bepaling van dit Verdrag, beheerste. Een wijziging in de rechtskeuze door partijen na de totstandkoming van de overeenkomst is niet van invloed op de formele geldigheid van de overeenkomst in de zin van artikel 9 en doet geen afbreuk aan rechten van derden.   
-3.  De keuze door partijen van een buitenlands recht, al dan niet gepaard gaande met de aanwijzing van een buitenlandse rechter, Iaat, wanneer alle overige elementen van het geval op het tijdstip van deze keuze met een enkel land zijn verbonden, onverlet de bepalingen waarvan volgens het recht van dat land niet bij overeenkomst mag worden afgeweken, hierna „dwingende bepalingen” te noemen.   
+3.  De keuze door partijen van een buitenlands recht, al dan niet gepaard gaande met de aanwijzing van een buitenlandse rechter, laat, wanneer alle overige elementen van het geval op het tijdstip van deze keuze met een enkel land zijn verbonden, onverlet de bepalingen waarvan volgens het recht van dat land niet bij overeenkomst mag worden afgeweken, hierna „dwingende bepalingen” te noemen.   
 4.  De vraag of er overeenstemming tussen partijen tot stand is gekomen over de keuze van het toepasselijke recht en of deze overeenstemming geldig is, wordt beheerst door de artikelen 8, 9 en 11.   
 
 ### Artikel  4  
@@ -263,7 +263,7 @@ c) is dit Verdrag van toepassing op de Nederlandse Antillen, indien het Koninkri
 
 ### Artikel  28  
 
-1.  Dit Verdrag staat met ingang van 19 juni 1980 open voor ondertekening door de Staten die Partij zijn bij het Verdrag tot oprichting van de Europese Economische Gemeenschap.   
+1.  Dit Verdrag staat met ingang van 19 juni 1980 open voor ondertekening door de Staten die Partij zijn bij het [Verdrag tot oprichting van de Europese Economische Gemeenschap](../../../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md).   
 2.  Dit Verdrag wordt door de ondertekenende Staten bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van de Europese Gemeenschappen.   
 
 ### Artikel  29  
@@ -280,7 +280,7 @@ c) is dit Verdrag van toepassing op de Nederlandse Antillen, indien het Koninkri
 
 ### Artikel  31  
 
-De Secretaris-Generaal van de Raad van de Europese Gemeenschappen stelt de Staten die Partij zijn bij het Verdrag tot oprichting van de Europese Economische Gemeenschap in kennis van: 
+De Secretaris-Generaal van de Raad van de Europese Gemeenschappen stelt de Staten die Partij zijn bij het [Verdrag tot oprichting van de Europese Economische Gemeenschap](../../../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) in kennis van: 
 
 a) de ondertekeningen:  
 
@@ -304,10 +304,18 @@ TEN BLIJKE WAARVAN, de ondergetekenden, daartoe behoorlijk gemachtigd, hun handt
 
 ### Protocol  
 
-De Hoge Verdragsluitende Partijen hebben overeenstemming bereikt over onderstaande bepaling die aan het Verdrag wordt gehecht: Ongeacht de bepalingen van het Verdrag kan Denemarken artikel 169 van de „sølov” (wet op het zeerecht) betreffende het recht dat van toepassing is op kwesties in verband met het goederenvervoer over zee, handhaven en wijzigen zonder de procedure van artikel 23 van het Verdrag te volgen.   
+Ongeacht de bepalingen van het Verdrag kunnen Denemarken, Zweden en Finland de nationale bepalingen betreffende het recht dat van toepassing is op kwesties in verband met het goederenvervoer over zee, handhaven en wijzigen zonder de procedure van artikel 23 van het Verdrag van Rome te volgen. Dit betreft de volgende nationale bepalingen: 
+
+- in Denemarken: artikel 252 en artikel 321, leden 3 en 4 van de Sølov (zeewet);  
+
+- in Zweden: hoofdstuk 13, artikel 2, leden 1 en 2, en hoofdstuk 14, artikel 1, lid 3, van sjölagen (zeewet);  
+
+- in Finland: hoofdstuk 13, artikel 2, leden 1 en 2, en hoofdstuk 14, artikel 1, punt 3, van de merilaki/sjölagen (zeewet).     
 TEN BLIJKE WAARVAN, de ondergetekenden, daartoe behoorlijk gemachtigd, hun handtekening onder dit Protocol hebben geplaatst. GEDAAN te Rome, de negentiende juni negentienhonderdtachtig.  
 
 ####Gemeenschappelijke Verklaring
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 Op het tijdstip van de ondertekening van het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst, hebben de Regeringen van het Koninkrijk België, van het Koninkrijk Denemarken, van de Bondsrepubliek Duitsland, van de Franse republiek, van Ierland, van de Italiaanse republiek, van het Groothertogdom Luxemburg, van het Koninkrijk der Nederlanden en van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, 
 
@@ -319,6 +327,8 @@ III. als hun mening tot uitdrukking gebracht dat, gezien de bijdrage van het Ver
 TEN BLIJKE WAARVAN, de ondergetekenden, daartoe behoorlijk gemachtigd, hun handtekening onder deze Verklaring hebben geplaatst. GEDAAN te Rome, de negentiende juni negentienhonderdtachtig.  
 
 ####Gemeenschappelijke Verklaring
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 De Regeringen van het Koninkrijk België, van het Koninkrijk Denemarken, van de Bondsrepubliek Duitsland, van de Franse Republiek, van Ierland, van de Italiaanse Republiek, van het Groothertogdom Luxemburg, van het Koninkrijk der Nederlanden en van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, op het ogenblik van de ondertekening van het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst, geleid door de wens een zo doeltreffend mogelijke toepassing van de bepalingen van dit Verdrag te verzekeren, verlangende te voorkomen dat verschillen in uitlegging van het Verdrag afbreuk doen aan de eenheid van dit Verdrag; verklaren zich bereid: 
 
