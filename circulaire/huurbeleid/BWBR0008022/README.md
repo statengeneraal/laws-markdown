@@ -1,0 +1,23 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Huurbeleid
+
+Geacht College,     Met deze circulaire stel ik u op de hoogte van de laatste ontwikkelingen op het gebied van het huurbeleid. Ik verzoek u het onderstaande onder de aandacht te brengen van zowel de sociale als de particuliere verhuurders en zo mogelijk de huurdersorganisaties in uw gemeente.   
+
+####Wetsvoorstel procesvereisten
+
+Op 2 april heeft de Eerste Kamer het wetsvoorstel ’procesvereisten’ verworpen. Dit betekent dat deze vereisten op de huurverhogingen van en na 1 juli 1996 niet van toepassing zijn. De Landelijke Centrales van woningcorporaties, de Raad voor Onroerende Zaken en de Woonbond zijn evenwel van oordeel, dat regels en procedures voor het overleg tussen verhuurders en huurdersorganisaties nodig zijn. De Landelijke Centrales hebben hun leden gewezen op de wenselijkheid om bij huurverhoging overeenkomstig de procesvereisten te handelen. Hierover hebben zij hun leden voorgelicht. Verder heeft de Raad voor Onroerende Zaken zijn leden opgeroepen toepassing te geven aan de model-omgangscode die de Raad samen met de Woonbond voor de particuliere huursector heeft ontwikkeld. Overigens zijn voor de huurverhogingen vanaf 1 juli 1996 de bestaande vormvereisten voor de voorstellen tot wijziging van de huurprijs (de zogenaamde huuraanzegging) van zelfstandige woonruimte onder de huursombenadering ongewijzigd gebleven (artikel 19 Huurprijzenwet woonruimte (HPW)). Dit betekent onder meer dat verhuurders bij een huuraanzegging van meer dan 5,5 % gebruik moeten maken van het voorgeschreven huurverhogingsformulier (model 2.2340.2500.4) en deze huurverhoging dienen toe te lichten aan de hand van de woningwaardering (model 2.2340.2500.5) dan wel een naar inhoud en indeling overeenkomend formulier. Overigens kunnen verhuurders die het oude formulierensetje nog in voorraad hebben, eerst deze formulieren opmaken alvorens de huidige formulieren te gebruiken.    
+
+####Huurprijzen na ingrijpende verbetering van woningen
+
+De Tweede Kamer heeft het zogenaamde Huursomwetsvoorstel aanvaard. Het voorstel ligt thans ter behandeling bij de Eerste Kamer. Indien het wetsvoorstel na tot wet te zijn verheven op 1 juli 1996 van kracht wordt, houdt dit in tegenstelling tot het gestelde in bijlage II van circulaire MG 96-03 het volgende in ten aanzien van de ministeriële huurprijsvaststelling bij ingrijpende verbetering. De huurprijs van ingrijpend verbeterde woningen waarvoor op of ná 1 juli 1996 geldelijke steun is toegekend wordt dezerzijds niet meer vastgesteld. Er zijn voor die gevallen geen verplichte huurverhogingen meer. Voor reeds eerder ingrijpend verbeterde woningen die nog één of meer van de verplichte vijf huurverhogingen hadden moeten krijgen, is de facultatieve huurverhoging van toepassing. Facultatieve huurverhogingen kunnen elkaar iedere twaalf maanden opvolgen, ook als er tussendoor een huurverhoging wegens woningverbetering heeft plaatsgevonden. Als overgangsmaatregel geldt dat de huurprijs dezerzijds nog wel wordt vastgesteld voor woningen waarvoor vóór 1 juli 1996 subsidie is toegekend. In dit geval vervalt eveneens de verplichte huurverhoging en kan de eerste (facultatieve) huurverhoging ingaan op 1 juli van het jaar waarin het op 1 juli minstens één jaar geleden is, dat de verbetering is gereedgekomen. Is een woning bijvoorbeeld vóór 1 juli 1995 ingrijpend verbeterd, dan vindt de eerste (facultatieve) huurverhoging plaats op of na 1 juli 1996. Vindt de oplevering op of ná 1 juli 1995 plaats, dan mag de huurprijs niet per 1 juli 1996 worden verhoogd.    
+
+####Wijziging huurprijzenwet in verband met woningaanpassing voor gehandicapten
+
+Per 1 april 1996 is een wijziging van artikel 10 HPW van kracht geworden. De wijziging houdt verband met gesubsidieerde woningaanpassingen voor gehandicapten, waarbij de aanpassingskosten meer dan f 45.000,– bedragen. Van deze kosten wordt 75% gesubsidieerd door de Ziekenfondsraad. Het niet-subsidiabele deel kan – indien de verhuurder dit betaalt – worden doorberekend in de huur. Indien huurder en verhuurder na het gereedkomen van de aanpassing alsnog een geschil mochten krijgen over de oorspronkelijk overeengekomen huurverhoging dan kan de huurcommissie om advies dan wel een uitspraak worden gevraagd. Deze kan dan per elke f 500,– door de verhuurder bestede kosten één waarderingspunt toekennen. Uitgangspunt daarbij is, dat de kosten in een redelijke verhouding staan tot de geboden kwaliteit. Voor nadere informatie over deze circulaire kunt u zich richten tot de secretariaten van de huurcommissies.      
+
+Hoogachtend, 
+
+De 
+Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
+D.K.J.Tommel    
