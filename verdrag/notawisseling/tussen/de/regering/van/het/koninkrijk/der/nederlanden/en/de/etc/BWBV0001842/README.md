@@ -1,0 +1,13 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Oekraïne inzake de uitbreiding van het Europees Verdrag betreffende uitlevering tot de Nederlandse Antillen en Aruba
+
+### Nr.  I  
+
+###THE ROYAL NETHERLANDS EMBASSY AT KYIV
+
+Kyiv, 13 October 1999 No. 376/99 The Royal Netherlands Embassy presents its compliments to the Ministry of Foreign Affairs of Ukraine and has the honour to propose that the application of the European Convention on Extradition of 13 December 1957, in accordance with Article 27, paragraph 4, be extended to the Netherlands Antilles and Aruba, and that the declarations and reservations that apply in relations between the Kingdom of the Netherlands, in respect of the Kingdom in Europe, and Ukraine, shall also apply in relations between Ukraine and the Kingdom of the Netherlands in respect of the Netherlands Antilles and Aruba. If this proposal is acceptable to the Ukrainian side, the Embassy has the honour further to propose that this note and the Ministry's affirmative reply shall constitute an arrangement as provided for in Article 2, paragraph 4, of the Convention, which shall enter into force on the first day of the third month following the date on which the Embassy receives the Ministry's reply. The Royal Netherlands Embassy avails itself of the opportunity to renew to the Ministry of Foreign Affairs of Ukraine the assurances of its highest consideration.    *The Ministry of Foreign Affairs of Ukraine*   *Treaties Department*    
+
+### Nr.  II  
+
+Kyiv, "22" October 1999 No. 4.3/37-1156 The Ministry of Foreign Affairs of Ukraine presents its compliments to the Royal Netherlands Embassy to Ukraine and has the honour to refer to the Embassy's Note, No. 376/99 dated 13 October 1999, which reads as follows:  (Zoals in Nr. I)  The Ministry of Foreign Affairs of Ukraine has the honour to inform the Embassy that the foregoing proposal is acceptable to the Ukrainian side and that the Embassy's Note and the present Note shall constitute an arrangement as provided for in Article 27, paragraph 4, of the Convention, which shall enter into force on the first day of the third month following the date on which the Embassy receives the present Note. The Ministry kindly requests the Embassy to confirm the 1 January 2000 as the date of the entering into force of the arrangement. The Ministry of Foreign Affairs of Ukraine avails itself of this opportunity to renew to the Royal Netherlands Embassy to Ukraine the assurances of its highest consideration.    *The Royal Netherlands*   *Embassy to Ukraine*   *Kyiv*    
