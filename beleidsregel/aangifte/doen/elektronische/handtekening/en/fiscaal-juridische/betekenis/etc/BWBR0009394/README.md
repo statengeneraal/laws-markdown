@@ -1,0 +1,34 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Aangifte doen, elektronische handtekening en fiscaal-juridische betekenis (EDItax)
+
+De Directeur-Generaal der Belastingen heeft namens de Staatssecretaris van Financiën het volgende besloten.     
+### 1  
+
+####Inleiding
+
+De Belastingdienst biedt faciliteiten aan voor het op elektronische wijze aanleveren van aangiften voor onder andere de inkomstenbelasting, vermogensbelasting, loonbelasting en omzetbelasting (EDltax). EDltax is met name geschikt voor fiscale intermediairs, zoals bijvoorbeeld belastingadviseurs en accountants. Voor het werken met EDltax is een vergunning vereist. Het op elektronische wijze doen van aangifte is gebaseerd op artikel 20 van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen. Mij hebben signalen bereikt dat bij belastingadviseurs en accountants vragen bestaan over de fiscaal-juridische betekenis van de elektronische handtekening in verhouding tot de op de papieren aangifte te plaatsen handtekening van de belastingplichtige of zijn gemachtigde. Dit Besluit beoogt hierop een toelichting te geven.    
+### 2  
+
+####Ondertekening elektronische aangifte
+
+Anders dan bij de papieren aangifte ontbreekt bij de elektronische aangifte de mogelijkheid deze te voorzien van een geschreven handtekening van de belastingplichtige of zijn gemachtigde. Als alternatief voor de geschreven handtekening is voor de elektronische aangifte via EDltax gekozen voor een zogenoemde elektronische handtekening. Na installatie van het EDltax-pakket vraagt de fiscale intermediair bij de servicedesk een certificaat aan waarmee de digitale handtekening bij de Belastingdienst wordt geregistreerd. Met deze gecertificeerde digitale handtekening kan de fiscale intermediair elektronische aangiften inzenden namens de cliënt. De aangifteprocedure bij het doen van elektronische aangifte via EDltax verloopt globaal bezien als volgt. De gebruiker van EDltax verzendt ten behoeve van zijn cliënten de aangiften via datacommunicatie naar de Belastingdienst. De aangiften worden vóór het verzenden door EDltax versleuteld. De Belastingdienst gebruikt de registratie van de digitale handtekening om de aangiften weer te ontsleutelen. De Belastingdienst kan de ontvangst van het bericht bevestigen, waardoor de gebruiker/verzender kan verifiëren of zijn bericht ongeschonden is aangekomen.    
+### 3  
+
+####Fiscaal-juridische betekenis elektronische handtekening
+
+### 3.1  
+
+####Relatie Belastingdienst/gemachtigde
+
+Ingevolge artikel 8 van de Algemene wet inzake rijksbelastingen (hierna: AWR) is een ieder die is uitgenodigd tot het doen van aangifte, gehouden aangifte te doen door onder meer de in de uitnodiging gevraagde gegevens duidelijk, stellig en zonder voorbehoud in te vullen, te ondertekenen en in te leveren of toe te zenden. Voor het voldoen aan de aangifteplicht maakt het geen verschil of de aangifte wordt ingezonden door de belastingplichtige zelf of door zijn gemachtigde. Evenmin is van belang of de aangifte schriftelijk wordt gedaan of op elektronische wijze. Ingevolge artikel 6 van de AWR is het in alle gevallen de (vermoedelijk) belastingplichtige die wordt uitgenodigd tot het doen van aangifte, zodat de (vermoedelijk) belastingplichtige derhalve is gehouden op de voorgeschreven wijze aangifte te doen. Op grond van artikel 41 e.v. van de AWR, betreffende de vertegenwoordiging van de belastingplichtige, in samenhang met de civiele regelgeving ter zake, kan een belastingadviseur of accountant namens de belastingplichtige een aangifte ondertekenen. In dat geval wordt de ondertekening van de aangifte geacht te zijn verricht door de belastingplichtige. De belastingplichtige blijft dus verantwoordelijk voor de juistheid van zijn aangifte. Dat de in het belastingrecht geldende regels inzake de vertegenwoordiging evenzeer ten aanzien van (het doen van) de aangifte van toepassing zijn, ongeacht of deze aangifte op elektronische dan wel op schriftelijke wijze plaatsvindt, is al eerder genoemd in de nota naar aanleiding van het verslag op het wetsvoorstel elektronische aangifte (kamerstukken II, 1995/96, 24 341, nr. 5, blz. 5). Een en ander heen tot gevolg dat bij onjuistheid of onvolledigheid van de aangifte, de Belastingdienst de belastingplichtige daarvoor in fiscaal-bestuursrechtelijke zin verantwoordelijk houdt. Daarbij is niet van belang of een aangifte door de belastingplichtige zelf of een gemachtigde namens de belastingplichtige is ondertekend. Overigens gaat de Belastingdienst bij het gebruik van EDltax in het algemeen ervan uit, net als bij de papieren aangifte, dat een door een belastingadviseur of accountant ingezonden aangifte namens de belastingplichtige is verzorgd. Dit uitgangspunt vindt zijn grondslag in het civiele recht waarbij op basis van gebleken feiten en omstandigheden mag worden aangenomen dat sprake is van (gewekte schijn van) vertegenwoordiging.    
+### 3.2  
+
+####Relatie gemachtigde/aangifteplichtige
+
+Zoals eerder aangegeven, blijft de belastingplichtige verantwoordelijk voor de juistheid van zijn aangifte. Tussen de belastingplichtige en diens gemachtigde kan zich evenwel de vraag voordoen wie civielrechtelijk aansprakelijk is voor een onjuistheid of onvolledigheid in de aangifte. Dit betreft uitsluitend de civielrechtelijke relatie tussen de belastingplichtige en zijn gemachtigde.     
+### 4  
+
+####Verklaring ‘geen accountantscontrole toegepast’
+
+De beroepsgroep Accountants-Administratieconsulenten en het Koninklijk Nederlands Instituut van Registeraccountants hebben gewezen op artikel 6 van de Gedragsregels- en Beroepsregels Accountants-Administratieconsulenten (GBAA) en artikel 6 van Gedrags- en Beroepsregels Registeraccountants (GBR) die voor hen mogelijk een drempel opwerpen om op elektronische wijze voor hun cliënten de aangifte te verzorgen. In deze artikelen is de verplichting opgenomen voor de accountant om onder omstandigheden op elk zelfstandig bruikbaar deel van de betrokken verantwoording de bewoordingen te vermelden ‘geen accountantscontrole toegepast’. Omdat de aangifte een verantwoordingskarakter heeft in de zin van vorengenoemde bepaling, zou dan ook op de elektronische aangifte de vermelding ‘geen accountantscontrole toegepast’ moeten komen, aldus de gedachte van genoemde beroepsgroepen. Deze verplichting zou niet bestaan als de belastingplichtige zijn aangifte zelf ondertekent. De Belastingdienst gaat er, gelet op het feit dat de aangifte geacht wordt te zijn gedaan door de belastingplichtige, van uit dat op een aangifte geen accountantscontrole is toegepast. Hierbij is niet van belang of de aangifte op papieren wijze dan wel op elektronische wijze is gedaan. Evenmin is van belang of de ondertekening van de aangifte door belastingplichtige zelf heen plaatsgevonden dan wel namens hem.     
