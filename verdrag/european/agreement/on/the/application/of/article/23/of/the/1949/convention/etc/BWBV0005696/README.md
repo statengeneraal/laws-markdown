@@ -46,7 +46,7 @@ IN FAITH WHEREOF the undersigned representatives, having communicated their full
 ####ROADS OPEN TO VEHICLES THE MAXIMUM DIMENSIONS AND WEIGHTS OF WHICH ARE NOT IN EXCESS OF THOSE SET FORTH IN ANNEX 7 TO THE 1949 CONVENTION ON ROAD TRAFFIC
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | --- | LUXEMBOURG  | --- |
 |  *Road*   | --- |  *Km.*   |
 | 1  | Luxembourg - Trier .........................  | 33.788  |
@@ -104,6 +104,31 @@ IN FAITH WHEREOF the undersigned representatives, having communicated their full
 | --- | Karlovac - Zagreb ...................  | 60  |
 | --- | Zagreb - Cakovec ......................  | 89  |
 | --- | Total ................  | 1,158  |
+
+| --- |
+|---|
+| BELGIUM:  |
+| All Belgian Roads  |
+
+| --- | --- |
+|---|---|
+| FRANCE:  |
+| Main arteries, as defined by decree and shown on the 1 : 1,000,000 map published by Michelin Company, *except the following roads:*  |
+|  *Roads*   | --- |
+| N. 6  | between Lanslebourg and the Col du Mont-Cenis  |
+| N. 21  | between Lourdes and Pierrefitte-Nestalas and N. 21 *c*  between Pierrefitte-Nestalas and the Pont d'Espagne  |
+| N. 90  | between Bourg-St. Maurice and the Petit St. Bernard  |
+| N. 152  | from Briare to Angers along the right bank of the Loire  |
+| N. 202  | between N. 7 near Nice and R.N. 207 at the Gueydan bridges  |
+| N. 207  | between N. 85 (at Bareme) and N. 202 (at the Gueydan bridges)  |
+| N. 204  | between Pointe de Contes and the Italian frontier  |
+| N. 491  | between Aix-les-Bains and Chindrieux  |
+| N. 798  | from Laval to Avranches  |
+
+| --- |
+|---|
+| NETHERLANDS:  |
+| All roads and bridges in the Netherlands will be open to the vehicles mentioned in Article 1 of the European Agreement on the application of Article 23 of the 1949 Convention on Road Traffic, with the exception of roads and bridges indicated by signs imposing restrictions, in which case they are only open to vehicles the weights and dimensions of which do not surpass the limits mentioned on the signs.  |
 
 ####Europese Overeenkomst houdende toepassing van artikel 23 van het Verdrag nopens het wegverkeer van 1949, betreffende de afmetingen en gewichten der op bepaalde wegen van de Overeenkomstsluitende Partijen toegelaten voertuigen
 
@@ -148,63 +173,4 @@ TEN BLIJKE WAARVAN de ondergetekende vertegenwoordigers, nadat zij elkander hun 
 
 ####WEGEN WAAROP VOERTUIGEN MOGEN RIJDEN WAARVAN DE MAXIMUM-AFMETINGEN EN -GEWICHTEN NIET GROTER ZIJN DAN DIE, AANGEGEVEN IN BIJLAGE 7 VAN HET VERDRAG NOPENS HET WEGVERKEER VAN 1949
 
-| --- | --- | --- | --- |
-|:---|:---|:---|:---|
-| --- | LUXEMBOURG  | --- |
-|  *Road*   | --- |  *Km.*   |
-| 1  | Luxembourg - Trier .........................  | 33.788  |
-| 2  | Luxembourg - Remich .........................  | 22.813  |
-| 3  | Luxembourg - Thionville .........................  | 13.355  |
-| 4  | Luxembourg - Esch .........................  | 19.655  |
-| 5  | Luxembourg - Longwy .........................  | 25.027  |
-| 6  | Luxembourg - Arlon .........................  | 18.118  |
-| 7  | Luxembourg - Diekirch .........................  | 36.187  |
-| 8  | Mersch - Arlon .........................  | 21.000  |
-| 9  | Mersch - Larochette .........................  | 10.398  |
-| 10  | Remich - Grevenmacher, known as the *“route de la Moselle”*..................................................  | 27.492  |
-| 11  | Luxembourg - Echternach .........................  | 33.364  |
-| 12  | Luxembourg - St. Vith, known as the *“route du nord”*.........................  | 88.900  |
-| 13  | Bous - Windhof, known as the *“route des 3 cantons”*.........................  | 41.450  |
-| 14  | Diekirch - Grevenmacher .........................  | 32.575  |
-
-|
-|
-|  *Road*   | --- |  *Km.*   |
-| 15  | Ettelbruck - Bastogne .........................  | 30.720  |
-| 16  | Diekirch - Stavelot .........................  | 44.100  |
-| 17  | Diekirch - Vianden .........................  | 11.024  |
-| 18  | Marburg - Antoniushof .........................  | 13.470  |
-| 19  | Diekirch - Wasserbillig, known as the *“route de la Sûre”*.........................  | 49.118  |
-| 20  | Cruchten - Medernsch .........................  | 5.500  |
-| 21  | Feulen - Grosbous .........................  | 6.826  |
-| 22  | Arlon - Colmar, known as the *“route de l'Aftert”*.........................  | 27.760  |
-| 23  | Reichlange - Martelange .........................  | 19.300  |
-| 24  | Useldange - Oberpallen .........................  | 11.820  |
-| 25  | Wiltz - Kautenbach .........................  | 10.240  |
-| 26  | Mersch - Colmar, known as the *“route du Rost”*.........................  | 8.370  |
-| 27  | Ettelbruck - Friedhof .........................  | 5.253  |
-| 28  | Allerborn - Bastogne .........................  | 2.174  |
-| 29  | Wiltz - Nothumb .........................  | 4.550  |
-| 30  | Sandweiler - Bous, formerly known as the *“route de Remisch”*.........................  | 10.980  |
-| 31  | Ehlerange - Bascharage .........................  | 6.715  |
-| 32  | Pétange - Athus .........................  | 2.830  |
-| 33  | Rodange - Athus .........................  | 0.370  |
-| --- | Total .........  | 695.242  |
-
-|
-|
-| --- | YUGOSLAVIA  | --- |
-|  *Road*   | --- |  *Km.*   |
-| 1  | Horgoč - Subotica - Belgrade - Kragujevac ...........  | 326  |
-| 4  | Jesonice - Ljubljana .............  | 58  |
-| --- | Ljubljana - Rudnik ...............  | 4  |
-| --- | Zagreb - Belgrade ..................  | 387  |
-| --- | Belgrade - Pančevo ......................  | 16  |
-| 5  | Trieste - Planina .............................  | 58  |
-| --- | Vrhnika - Ljubljana - Domžale .........................  | 39  |
-| --- | Zalec - Maribor - St. Ilj ........................  | 87  |
-| 6  | Sušak - Mrzlo Vodice ..........................  | 34  |
-| --- | Karlovac - Zagreb ...................  | 60  |
-| --- | Zagreb - Cakovec ......................  | 89  |
-| --- | Total ................  | 1,158  |
-
+De tekst van de vertaling is niet beschikbaar.    
