@@ -28,7 +28,7 @@ Comme le principe de l'intégralité des communes ne semble avoir été appliqu�
 
 ### Art.  5  
 
-En conséquence de ces deux principes, Oberbillig, situé sur la rive droite de la Moselle, appartiendra au Royaume des Pays-Bas, comme étant une dépendance de Wasserbillig, avec lequel il ne forme qu'une seule commune et un même endroit. — En sorte que la ligne de démarcation, arrivée à la banlieue de Wasserbillig sur la rive droite, quittera la Moselle et fera le tour de cette banlieue. La commune de Vianden, située à cheval sur l'Oure, appartiendra également au Royaume des Pays-Bas, avec toute sa banlieue, dont la ferme dite Scheuerhoff est reconnu faire partie; de sorte que la ligne de démarcation quittera ici l'Oure comme elle a quitté la Moselle à Wasserbillig, et tournera autour de la partie de banlieue de Vianden, située sur la rive gauche, et viendra ensuite reprendre le cours de la rivière. Toutes les autres communes dont les banlieues seules sont traversées, tant par la Moselle que par la Sure et l'Oure, et notamment celles de Langsur, Meesdorff, Born, Ralingen, Echtimach, Bollendorff, Dilgen, Wallendorff, Amildingen, Bivels, Valkenstein, Gemund, Dasbourg, et même Wasserbillig pour da petite partie de banlieue située sur la rive gauche de la Sure, seront placées dans la deuxième cathégorie, et leurs parties coupées par la rivière resteront séparées, de manière que la rivière même servira dans tous ces cas de frontière aux deux Etats.  
+En conséquence de ces deux principes, Oberbillig, situé sur la rive droite de la Moselle, appartiendra au Royaume des Pays-Bas, comme étant une dépendance de Wasserbillig, avec lequel il ne forme qu'une seule commune et un même endroit. — En sorte que la ligne de démarcation, arrivée à la banlieue de Wasserbillig sur la rive droite, quittera la Moselle et fera le tour de cette banlieue. La commune de Vianden, située à cheval sur l'Oure, appartiendra également au Royaume des Pays-Bas, avec toute sa banlieue, dont la ferme dite Scheuerhoff est reconnu faire partie; de sorte que la ligne de démarcation quittera ici l'Oure comme elle a quitté la Moselle à Wasserbillig, et tournera autour de la partie de banlieue de Vianden, située sur la rive gauche, et viendra ensuite reprendre le cours de la rivière. Toutes les autres communes dont les banlieues seules sont traversées, tant par la Moselle que par la Sure et l'Oure, et notamment celles de Langsur, Meesdorff, Born, Ralingen, Echtimach, Bollendorff, Dilgen, Wallendorff, Amildingen, Bivels, Valkenstein, Gemund, Dasbourg, et même Wasserbillig pour la petite partie de banlieue située sur la rive gauche de la Sure, seront placées dans la deuxième cathégorie, et leurs parties coupées par la rivière resteront séparées, de manière que la rivière même servira dans tous ces cas de frontière aux deux Etats.  
 
 ### Art.  6  
 
@@ -150,11 +150,11 @@ Les cultivateurs dont les propriétés sont situées partie en deça et partie a
 
 ### Art.  34  
 
-Les fabricans de draps, ou autres manufacturiers, qui possèdent des établissemens également situés sur le territoire des deux états et dépendans l'un de l'autre, ou qui d'un état envoyent dans l'autre les matières premières, pour être manufacturées ou préparées, trouveront des avantages analogues à ceux stipulés par l'article précédent en faveur des cultivateurs, dans un traité de commerce que les deux hautes parties contractantes se proposent de conclure incessamment. — En attendant des mesures provisoires ont été arrêtées par les deux commissions, qui serviront de règle aussi longtems qu'elles ne seront point revoquées ni modifiées par l'un ou l'autre des gouvernements.  
+Les fabricans de draps, ou autres manufacturiers, qui possèdent des établissemens également situés sur le territoire des deux états et dépendans l'un de l'autre, ou qui d'un état envoyent dans l'autre les matières premières, pour être manufacturées ou préparées, trouveront des avantages analogues à ceux stipulés par l'article précédent en faveur des cultivateurs, dans un traité de commerce que les deux hautes parties contractantes se proposent de conclure incessamment. — En attendant des mesures provisoires ont été arrêtées par les deux commissions, qui serviront de règle aussi longtems qu'elles ne seront point révoquées ni modifiées par l'un ou l'autre des gouvernements.  
 
 ### Art.  35  
 
-On pourra de part et d'autre acheter sur le territoire voisin, et exporter franc de tout droit, pierres, sables et autres matériaux nécessaires aux construction et à l'entretien des chemins limitrophes.  
+On pourra de part et d'autre acheter sur le territoire voisin, et exporter franc de tout droit, pierres, sables et autres matériaux nécessaires aux constructions et à l'entretien des chemins limitrophes.  
 
 ### Art.  36  
 
@@ -179,10 +179,6 @@ Les endroits respectivement cédés ou échangés ou devant être restitués, se
 ### Art.  41  
 
 Les archives, cartes et autres documens relatifs à l'administration des mairies ou communes, qui en vertu du présent traité passeront d'une domination sous l'autre, seront remis aux nouvelles autorités en même tems que les territoires mêmes. Au cas qu'une partie de commune ou de mairie seulement fut cédée ou échangée, les archives resteront à la partie où se trouvera le chef-lieu, à charge d'y donner accès à l'autre partie chaque fois qu'elle en aura besoin.  
-
-### Art.  42  
-
-Dans les quinze jours après l'évacuation et la remise dont il s'agit à l'article précédent on commencera à planter les poteaux. — Ces poteaux seront de bois de chêne de la longueur de 12 pieds du Rhin, huit hors de terre et quatre en terre; — ils seront quarrés; la partie en terre sera de 12 pouces d'épaisseur au moins, et celle hors de terre de 8, — ils seront peints du côté de la Prusse en noir et blanc, et du côté des Pays-Bas en orange et blanc; — ils seront numérotés encommençant à la Moselle. Il en sera planté autant que les Commissaires le trouveront nécessaire pour ne laisser aucune incertitude sur aucune partie de la frontière. — Au cas qu'une rivière ou chemin fasse limite, il en sera chaque fois planté deux, savoir l'un du côté de la Prusse, l'autre du côté des Pays-Bas. — Ces deux poteaux ne porteront qu'un seul n°. et ne seront peints qu'aux seules couleurs adoptées pour les territoires respectifs.  
 
 ### Art.  43  
 
@@ -367,10 +363,6 @@ De onderscheidene, afgestane of verruilde plaatsen, of die terug zullen moeten g
 ### Art.  41  
 
 De archieven, kaarten en andere stukken, betrekkelijk de administratie der meijerijen of gemeenten, die, ingevolge het tegenwoordig tractaat, van het eene beheer onder het andere zullen overgaan, zullen tegelijk met het grondgebied zelve worden overgeleverd. Ingeval slechts een gedeelte eener gemeente of meijerij afgestaan of verruild wierd, zullen de archieven aan dat gedeelte verblijven, alwaar de hoofdplaats zich bevinden zal, onder verband, om er aan het andere gedeelte, zoo dikwerf zulks noodig zal zijn, inzage van te geven.  
-
-### Art.  42  
-
-Binnen de veertien dagen, na de ontruiming en de overgave, van welke bij het voorgaande artikel melding is gemaakt, zal men met het plaatsen der grenspalen beginnen. Deze palen zullen van eikenbout zijn, ter lengte van 12 voet Rijnlandsche maat, acht boven en vier onder den grond, zij zullen vierkant zijn, het gedeelte in den grond zal ten minste van 12 duim dikte wezen, en dat boven den grond 8 duim, zij zullen aan den kant van Pruissen, zwart en wit, en aan den kant der Nederlanden oranje en wit geverwd zijn, zij zullen, tebeginnen van de Moezel, genommerd wezen. Er zullen zoo vele palen geplant worden, als de Commissarissen noodig zullen oordeelen, om geene onzekerheid wegens eenig gedeelte der grenzen te laten. Indien eene rivier of weg de grensscheiding uitmaakt, zullen er telkens twee geplant worden, namelijk eene aan den kant van Pruissen en de anderen aan den kant der Nederlanden. Deze beide palen zullen slechts één nummer hebben, en zullen geverwd worden alleen met kleuren voor de respectieve territoiren aangenomen.  
 
 ### Art.  43  
 

@@ -206,10 +206,6 @@ Les endroits respectivement cèdés ou échangés ou devant être restitués, se
 
 Les archives, cartes et autres documens relatifs à l'administration des mairies ou communes, qui, en vertu du présent traité, passeront d'une domination sous l'autre, seront remis aux nouvelles autorités en même tems que les territoires mêmes. — Au cas qu'une partie de commune ou de mairie seulement fut cèdée ou échangée, les archives resteront à la partie où se trouve le chef-lieu, à charge d'y donner accès à l'autre partie, chaque fois qu'elle en aura besoin.  
 
-### Art.  45  
-
-Dans les quinze jours après l'évacuation et la remise, dont il s'agit à l'art. précédent, on commencera à planter les poteaux. — Ces poteaux seront de bois de chêne, de la longueur de douze pieds du Rhin, huit hors de terre et quatre en terre. — Ils seront carrés; la partie en terre sera de douze pouces d'épaisseur au moins, et celle hors de terre de huit pouces. —- Ils seront peints du côté de la Prusse en noir et blanc, et du côté des Pays-Bas en orange et blanc; ils seront numérotés et leurs numéros suivront la serie de ceux à planter entre les deux États depuis les limites de la France jusqu'à l'ancien territoire Hollandais près de Mook. Il en sera planté autant que les Commissaires le trouveront nécessaire, pour ne laisser aucune incertitude sur aucune partie de la frontière. — Au cas qu'une rivière ou chemin fasse limite, il en sera chaque fois planté deux, savoir: l'un du côté de la Prusse, l'autre du côté des Pays-Bas, ces deux poteaux ne porteront qu'un seul n°. et ne seront peints qu'aux seules couleurs adoptées pour les territoires respectifs.  
-
 ### Art.  46  
 
 Le présent traité sera soumis aux deux Cours, à l'effet d'être ratifié, et les ratifications seront échangées dans deux mois après la signature, ou plustôt si possible.  
@@ -419,10 +415,6 @@ De onderscheidene afgestane of verruilde plaatsen, of die terug zullen moeten ge
 ### Art.  44  
 
 De archieven, kaarten en andere stukken, betrekkelijk de administratien der meijerijen of gemeenten, die, ingevolge het tegenwoordige tractaat, van het eene beheer onder het andere zullen overgaan, zullen tegelijk met het grondgebied zelve overgeleverd worden. Ingeval slechts een gedeelte eener gemeente of meijerij afgestaan of verruild wierd, zullen de archieven aan dat gedeelte verblijven, alwaar de hoofdplaats zich bevinden zal, onder verband, om er aan het andere gedeelte, zoo dikwerf zulks zal noodig zijn, inzage van te geven.  
-
-### Art.  45  
-
-Binnen de veertien dagen na de ontruiming en de overgave van welke bij het voorgaande artikel melding gemaakt is, zal men met het plaatsen der grenspalen beginnen. Deze palen zullen van eikenhout zijn, ter lengte van 12 voet Rijnlandsche maat, acht boven en vier onder den grond; zij zullen vierkant zijn; het gedeelte in den grond zal ten minste van 12 duim dikte wezen, en dat boven den grond 8 duim; zij zullen aan den kant van Pruissen zwart en wit, en aan den kant der Nederlanden oranje en wit geverwd zijn. Zij zullen genummerd worden en hare nummers zullen de reeks volgen dergene tusschen de beide Staten van de Fransche grenzen tot aan het oude Hollandsche grondgebied nabij Mook, te planten. Er zullen zoo vele palen geplant worden, als de Commissarissen noodig zullen oordeelen, om geene onzekerheid wegens eenig gedeelte der grenzen te laten. Indien eene rivier of weg de grensscheiding verstrekt, zullen er telkens twee geplant worden, namelijk: eene aan den kant van Pruissen en de andere aan den kant der Nederlanden. Deze beide palen zullen slechts één nommer hebben, en zullen geverwd worden alleen met de kleuren voor de respectieve territoiren aangenomen.  
 
 ### Art.  46  
 
