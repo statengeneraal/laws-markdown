@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Luchtvaartovereenkomst tussen het Koninkrijk der Nederland en en Ierland
+##Luchtvaartovereenkomst tussen het Koninkrijk der Nederlanden en Ierland
 
 ####Luchtvaartovereenkomst tussen Nederland en Ierland
 
@@ -66,8 +66,10 @@ B. Ierse luchtvaartmaatschappijen, aangewezen krachtens deze Overeenkomst, hebbe
 
 Dublin — een punt in de Midlands van Engeland — Amsterdam en verder gelegen punten, in beide richtingen.  
 
-Shannon-Amsterdam en verder gelegen punten in beide richtingen.     Aan Nederlandse luchtvaartmaatschappijen, aangewezen op grond van deze overeenkomst, worden op Iers grondgebied, bij het uitvoeren van overeengekomen diensten op de route Amsterdam, Shannon, Gander, punten in Noord-Amerika en verder gelegen punten, in beide richtingen, verleend: 
+Shannon-Amsterdam en verder gelegen punten in beide richtingen.   Aan Nederlandse luchtvaartmaatschappijen, aangewezen op grond van deze overeenkomst, worden op Iers grondgebied, bij het uitvoeren van overeengekomen diensten op de route Amsterdam, Shannon, Gander, punten in Noord-Amerika en verder gelegen punten, in beide richtingen, verleend: 
 
 a) het recht om op de Luchthaven Shannon te landen en aldaar passagiers, goederen en post voor internationaal verkeer af te zetten en aan boord te nemen en  
 
-b) het recht om voor en na de landing op de Luchthaven Shannon over Iers grondgebied te vliegen, echter uitsluitend bij het uitvoeren van de overeengekomen diensten.     
+b) het recht om voor en na de landing op de Luchthaven Shannon over Iers grondgebied te vliegen, echter uitsluitend bij het uitvoeren van de overeengekomen diensten.    
+
+C. De tussenliggende punten en verder gelegen punten op enige route aangegeven in de delen A en B kunnen naar goeddunken van de aangewezen luchtvaartmaatschappijen op enige of alle vluchten worden overgeslagen.     
