@@ -1,0 +1,35 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Heffing van omzetbelasting met betrekking tot cadeaubonnen
+
+De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.     
+### §  1  
+
+####Inleiding
+
+Het Besluit van 22 december 1992, nr. VB 92/2060, boekwerk Omzetbelasting 1968 Besluiten, onderdeel 2.03.40, bevat aanwijzingen met betrekking tot de heffing van omzetbelasting bij de verstrekking van cadeaubonnen. De op dit terrein ontstane jurisprudentie en de vragen die mij daarover hebben bereikt, geven onder meer aanleiding dit besluit aan te passen. De aanpassing betreft in de eerste plaats het buiten toepassing laten van het besluit op kortingskaarten. Dit zijn kaarten die de houder het recht geven om goederen en diensten tegen gereduceerde prijzen aan te schaffen. In tegenstelling tot cadeaubonnen hebben kortingskaarten niet het karakter van waardepapieren in de zin van artikel 11, eerste lid, onderdeel i, 2°, van de Wet op de omzetbelasting 1968 (hierna: Wet). Zie in dit verband de uitspraak van het Gerechtshof te Amsterdam van 29 april 1997, nr 94/4380, V-N 1998/37.10. Ook anderszins zijn kortingskaarten niet gelijk te stellen met cadeaubonnen nu dergelijke kaarten de leverancier of dienstverrichter niet de mogelijkheid bieden ze om te wisselen tegen geld. Verder is het besluit aangepast door ook boekenbonnen eronder te laten vallen. Hiermee is het onderscheid weggenomen tussen deze bonnen en andere cadeau-bonnen voor wat betreft de BTW-voordruk op de aanmaak of aankoop ervan.    
+### §  2  
+
+####Cadeaubonnen
+
+Cadeaubonnen – zijnde bonnen die de houder het recht geven deze tot de daarop vermelde nominale bedragen voor de aankoop van goederen en diensten in betaling te geven – hebben naar mijn oordeel, anders dan de zogenoemde kortingszegels of kortingskaarten, het karakter van waardepapieren in de zin van artikel 11, eerste lid, onderdeel i, 2°, van de Wet. Bij dit oordeel heb ik mede in aanmerking genomen de in de rechtspraak omtrent het begrip ‘waardepapieren’ ontwikkelde criteria. Een en ander brengt mee dat waar de in genoemde wetsbepaling vervatte vrijstelling ziet op handelingen inzake waardepapieren, dit in gelijke mate geldt voor de op cadeaubonnen betrekking hebbende handelingen. Onder deze handelingen zijn bijvoorbeeld te rangschikken de verkoop c.q. de uitgifte van cadeaubonnen aan de klant alsook al die prestaties die zich richten, al naar gelang het gekozen verstrekkingssysteem, op de aanmaak, de afrekening en de verrekening van de cadeaubonnen. Bij deze laatste prestaties wordt met name gedacht aan overkoepelende organisaties van ondernemers dan wel specifiek in het kader van de verstrekking van cadeaubonnen in het leven geroepen centrales die ten behoeve van de aangesloten cadeaubonnen-verstrekkende ondernemers zorgdragen voor het (laten) functioneren van het verstrekkingssysteem. Tot de hiervoor bedoelde cadeaubonnen zijn o.m. te rekenen boekenbonnen, platen- en CD-bonnen, theater-, concert- en bioscoopbonnen en VVV-geschenkbonnen.    
+### §  3  
+
+####Verschuldigdheid van omzetbelasting en maatstaf van heffing
+
+Het gestelde in § 2 betekent dat ter zake van de uitgifte van cadeaubonnen geen omzetbelasting is verschuldigd, ongeacht of de desbetreffende ondernemer ‘eigen’ cadeaubonnen uitgeeft of cadeaubonnen die ook door andere ondernemers worden uitgeven. De betaling door de klant wordt niet aangemerkt als een vooruitbetaling. Verschuldigdheid van omzetbelasting treedt eerst op wanneer de cadeaubon wordt aangeboden ter betaling van aangekochte goederen of diensten. De omzetbelasting is alsdan verschuldigd door de ondernemer die de goederen en diensten heeft verkocht tegen betaling/ inwisseling van de cadeaubon. Bij de berekening van de verschuldigde omzetbelasting heeft als vergoeding in de zin van artikel 8 van de Wet te gelden de nominale waarde van de cadeaubon, dat wil zeggen het bedrag dat op die bon is vermeld, eventueel verminderd met het bedrag dat aan de klant als wisselgeld wordt teruggegeven dan wel vermeerderd met het bedrag dat de klant bijbetaalt. Zie in dit verband de uitspraak van het Gerechtshof te Amsterdam van 15 januari 1985, nr. 975/83, BNB 1986/329. De ingenomen cadeaubon doet in feite dienst als kasgeld. De eventuele provisie die de ondernemer in verband met de financiële afwikkeling van de cadeaubon moet betalen aan de overkoepelende organisatie of de cadeaubonnencentrale dan wel aan een collega-ondernemer mag niet in mindering worden gebracht op de belastbare vergoeding.    
+### §  4  
+
+####Organisaties met betrekking tot cadeaubonnen
+
+Het gestelde in § 2 betekent ook dat in gevallen waarin sprake is van cadeaubonnen die niet door één ondernemer maar door verschillende ondernemers worden uitgegeven, de organisatie of centrale die zich ten behoeve van die ondernemers bezighoudt met de organisatie en de financiële afwikkeling van het verstrekkingssysteem voor de desbetreffende verrichtingen en werkzaamheden is vrijgesteld, ook al bestaan die handelingen enkel uit het (doen) aanmaken van de cadeaubonnen en de verkoop ervan aan de aangesloten ondernemers. Is dat laatste het geval, dan vinden de afrekening en de verrekening van de cadeaubonnen doorgaans plaats tussen de ondernemers onderling. De terzake ontvangen provisie is bij de desbetreffende collega-ondernemer eveneens vrijgesteld van omzetbelasting.    
+### §  5  
+
+####Aftrek van voorbelasting
+
+Omdat handelingen inzake waardepapieren zijn vrijgesteld van omzetbelasting, bestaat terzake geen aanspraak op de aftrek van voorbelasting op de voet van artikel 15 van de Wet. In aanmerking nemende dat het de cadeaubonnen verstrekkende ondernemer primair te doen is om de verkoop van zijn artikelen of het verrichten van zijn diensten, kan ik mij er in vinden dat de inperking van de aftrek beperkt blijft tot de omzetbelasting die rechtstreeks drukt op de aanmaak of aankoop van de cadeaubonnen. Dit geldt in beginsel voor alle bij het cadeaubonnen-verstrekkingssysteem betrokken ondernemers. Wat betreft de cadeaubonnen-centrales en andere organisaties van ondernemers die zich naast de aanmaak en de verkoop van cadeaubonnen ook bezighouden met de financiële afwikkeling van de bonnen, ben ik van mening dat de wettelijke regels inzake de aftrek waaronder ook de toerekenings-, herrekenings- en herzieningsregels in de artikelen 11 tot en met 14 van de Uitvoeringsbeschikking omzetbelasting 1968, op hen onverkort van toepassing zijn.    
+### §  6  
+
+####Slot
+
+Dit besluit treedt heden in werking. Het Besluit van 22 december 1992, nr. VB 92/2060, wordt ingetrokken en kan uit het boekwerk Omzetbelasting 1968 Besluiten worden verwijderd. Ten aanzien van boekenbonnen wordt goedgekeurd dat dit besluit eerst wordt toegepast met ingang van 1 juli 2000. Het antwoord op vraag nr. 25, opgenomen in de band Vragen en Antwoorden omzetbelasting 1968, wordt per 1 juli 2000 ingetrokken en kan op dat moment uit de band worden verwijderd.     
