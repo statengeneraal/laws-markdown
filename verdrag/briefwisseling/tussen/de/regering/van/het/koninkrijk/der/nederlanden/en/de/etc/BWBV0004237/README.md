@@ -1,0 +1,36 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Sultanaat Muscate en Oman inzake consulaire betrekkingen
+
+### *Déclaration* 
+
+Le Gouvernement de Sa Majesté le Roi des Pays-Bas et le Gouvernement de Son Altesse le Sultan de Mascate, voulant établir sur des bases stables les rapports de bonne harmonie qui existent entre eux, et favoriser le développement des relations commerciales entre les deux pays, les soussignés, dûment autorisés à cet effet, ont déclaré ce qui suit: 
+
+1°. En considération du traitement de la nation la plus favorisée, accordé par la législation du Royaume des Pays-Bas et de ses colonies aux sujets et au pavillon de Son Altesse le Sultan de Mascate, les sujets et le pavillon dudit Royaume et de ses colonies jouiront égaler ment du traitement de la nation la plus favorisée dans les Etats de Son Altesse le Sultan de Mascate.  
+
+2°. Les marchandises originaires ou provenant de ces derniers États étant admises dans le Royaume des Pays-Bas et ses colonies contre paiement des mêmes droits que ceux perçus des produits similaires de la nation étrangère la plus favorisée, ce traitement est réciproquement accordé dans les Etats précités aux marchandises originaires ou provenant du Royaume des Pays-Bas ou de ses colonies.  
+
+3°. Les déclarations précédentes concernant l'application réciproque du régime de la nation étrangère la plus favorisée sont également applicables à tout ce qui regarde l'exportation et le transit.     
+EN FOI DE QUOI, les soussignés ont signé la présente déclaration en double expédition et y ont apposé le sceau de leurs armes. FAIT à La Haye le 7 Avril 1877/Mascate le 27 Août 1877  *Le Ministre des Affaires Etrangères de*   *Sa Majesté le Roi des Pays-Bas,*  (s.) VAN DER DOES DE WILLEBOIS (s.) SEYID TURKÏ IBN SA'ID  
+
+### Nr.  I  
+
+### *MINISTRY OF FOREIGN AFFAIRS* 
+
+'s-Gravenhage, April 9, 1968 Your Highness, I have the honour to inform Your Highness that in view of the excellent relations existing between our two countries and with regard to the increasing number of Netherlands nationals, residing in the Sultanate of Muscat and Oman, Her Majesty's Government has expressed the desire to establish consular relations between the Sultanate of Muscat and Oman and the Kingdom of the Netherlands. It is therefore with great satisfaction that I have learned, following the interview which Your Highness has graciously granted to Her Majesty's Ambassador in Baghdad in January 1968, that Your Highness has consented to an exchange of letters establishing such relations. On behalf of Her Majesty's Government I, therefore, have the honour to propose to Your Highness the establishment of consular relations between the Kingdom of the Netherlands and the Sultanate of Muscat and Oman, on a basis of reciprocity. It is the intention of Her Majesty's Government that a member of Her Majesty's Embassy in Baghdad shall be charged in a consular capacity with the performance of these consular duties. It also suggests that he be granted general permission to visit the Sultanate of Muscat and Oman at any time that his presence may be required in order to discharge his consular tasks. Likewise Her Majesty's Government shall be pleased and honoured to receive a consular representative which Your Highness may desire to charge with consular duties in the Kingdom of the Netherlands on behalf of the Sultanate. If Your Highness can agree to these proposals, I suggest that this letter and Your letter in reply thereto shall constitute an arrangement in this matter to take effect as from the date of the said reply. Accept, Your Highness, the assurance of my highest consideration. (sd.) J. LUNS Dr. J. M. A. H. Luns Minister for Foreign Affairs  *Sultan Said bin Taimur,*   *Sultan of Muscat and Oman,*   *Salalah,*   *Dhofar*    
+
+### Nr.  II  
+
+Salalah August 25, 1968 Your Excellency, We have received your Excellency's letter of the 9th April 1968, and thank you for the kind sentiments which you have expressed on behalf of Her Majesty's Government, and which we most cordially reciprocate. We are pleased to learn that it is now desired to complete an arrangement to establish consular relations between our two countries, and we therefore, confirm that we shall welcome the appointment of a Senior member of Her Majesty's Embassy in Baghdad to be charged in a consular capacity with the performance of a consular duties as may be required in the Sultanate on behalf of the Kingdom of the Netherlands. We would of course, expect to know his identity in advance. We further confirm that the said official shall enjoy a general permission to visit our Capital at Muscat at any time; and such other place in the Sultanate as might be necessary subject to our approval at that time. Finally we are pleased to note that Her Majesty's Government shall be pleased to receive our Consular representative in the same way should we so desire, and we confirm that this exchange of letters shall constitute the arrangement in this matter from this date. Accept, Your Excellency, the assurance of our highest consideration. (sd.) SAID BIN TAIMUR Sultan of Muscat and Oman.  *His Excellency Dr. J. M. A. H. Luns,*   *Minister Foreign Affairs,*   *of the Government of the Netherlands,*   *'s-Gravenhage,*   *Netherlands.*    
+
+### *Verklaring* 
+
+Aangezien de Regering van Zijne Majesteit de Koning der Nederlanden en de Regering van Zijne Hoogheid de Sultan van Muscate vervuld zijn van de wens de goede verstandhouding die tussen hen bestaat, op vaste grondslagen te vestigen en de ontwikkeling der handelsbetrekkingen tussen de beide landen te bevorderen, hebben de ondergetekenden, daartoe behoorlijk gemachtigd, het volgende verklaard: 
+
+1°. Daar de behandeling op de voet der meestbegunstigde natie door de wetgeving van het Koninkrijk der Nederlanden en van zijn koloniën aan de onderdanen en aan de vlag van Zijne Hoogheid de Sultan van Muscate wordt toegekend, zullen de onderdanen en de vlag van het genoemde Koninkrijk en van zijn koloniën evenzeer het genot hebben der behandeling op de voet der meestbegunstigde natie in de Staten van Zijne Hoogheid de Sultan van Muscate.  
+
+2°. Daar de koopwaren van oorsprong uit of herkomstig van laatstgemelde Staten in het Koninkrijk der Nederlanden en zijn koloniën toegelaten worden tegen betaling van dezelfde rechten als geheven worden voor de gelijksoortige voortbrengselen der meestbegunstigde vreemde natie, wordt deze behandeling wederkerig in die Staten toegekend ten aanzien der koopwaren van oorsprong uit of herkomstig van het Koninkrijk der Nederlanden of zijn koloniën.  
+
+3°. De bovenstaande verklaringen omtrent de wederkerige toepassing van het stelsel der behandeling op de voet der meestbegunstigde vreemde natie zijn eveneens van toepassing op alles wat de uiten de doorvoer betreft.     
+TEN BLIJKE WAARVAN de ondergetekenden deze Verklaring in tweevoud hebben ondertekend en van hun zegels voorzien. GEDAAN te Den Haag, de 7de april 1877/Muscate de 27ste augustus 1877  *De Minister van Buitenlandse*   *Zaken van Zijne Majesteit de*   *Koning der Nederlanden,*  (w.g.) VAN DER DOES DE WILLEBOIS (w.g.) SEYID TURKÏ IBN SA'ID  
+
