@@ -59,15 +59,17 @@ Onder maatregel wordt in deze wet begrepen een voorschrift, een beslissing alsme
 
 ### Artikel  8  
 
-1.   Dit lid is nog niet in werking getreden.    
+1.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  Onze Minister van Binnenlandse Zaken en de commissaris van de Koning zijn bevoegd het vertoeven in de open lucht te beperken.   
 2.  Bij algemene maatregel van bestuur worden nadere regels gegeven met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.   
+3.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  Onze Minister van Binnenlandse Zaken is bevoegd in spoedeisende gevallen regels te geven waarbij wordt afgeweken van de regels, bedoeld in het tweede lid, of deze buiten werking worden gesteld. De door Onze voornoemde Minister gegeven regels worden op een door hem te bepalen wijze bekendgemaakt en treden na deze bekendmaking terstond in werking. Deze regels worden in ieder geval geplaatst in de Staatscourant.   
 
 ### Artikel  9  
 
-1.   Dit lid is nog niet in werking getreden.    
-2.   Dit lid is nog niet in werking getreden.    
-3.   Dit lid is nog niet in werking getreden.    
+1.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  Onze Minister van Binnenlandse Zaken en de commissaris van de Koning zijn bevoegd aan personen ten aanzien van wie ernstig vermoeden bestaat dat zij de openbare orde en veiligheid in gevaar zullen brengen, te bevelen een gebied te verlaten of te verbieden zich daarheen te begeven of daarin terug te keren.   
+2.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  Onze Minister van Binnenlandse Zaken is bevoegd aan degene op wie het eerste lid is toegepast, een tegemoetkoming toe te kennen in de kosten van het levensonderhoud van hem en van degenen in wier onderhoud hij voorziet.   
+3.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  Indien iemand ingevolge het eerste lid niet in zijn woonplaats kan verblijven, is Onze Minister van Binnenlandse Zaken bevoegd hem op diens verzoek onderdak, verzorging en verpleging voor rekening van het Rijk te verschaffen.   
 4.  Bij algemene maatregel van bestuur worden nadere regels gegeven met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste en tweede lid.   
+5.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  Onze Minister van Binnenlandse Zaken is bevoegd in spoedeisende gevallen regels te geven waarbij wordt afgeweken van de regels, bedoeld in het vierde lid, of deze buiten werking worden gesteld. De door Onze voornoemde Minister gegeven regels worden op een door hem te bepalen wijze bekendgemaakt en treden na deze bekendmaking terstond in werking. Deze regels worden in ieder geval geplaatst in de Staatscourant.   
 
 ### Artikel  10  
 
@@ -93,26 +95,27 @@ Onze Minister van Binnenlandse Zaken is bevoegd de vertoning in het openbaar, da
 
 ### Artikel  14  
 
-1.   Dit lid is nog niet in werking getreden.    
+1.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  De autoriteiten die daartoe door Onze Minister van Binnenlandse Zaken in overeenstemming met Onze Minister van Justitie zijn aangewezen, zijn bevoegd elk aan de post of aan andere instellingen van vervoer of aan een inrichting van telecommunicatie toevertrouwd stuk of bericht in beslag te nemen, af te luisteren of op te nemen, te onderzoeken, achter te houden, geheel of gedeeltelijk te vernietigen, te wijzigen, onleesbaar te maken of te verhinderen dat het zijn bestemming bereikt.   
 2.  Onze Minister van Binnenlandse Zaken geeft in overeenstemming met Onze Minister van Justitie nadere regels met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.   
 
 ### Artikel  15  
 
-1.   Dit lid is nog niet in werking getreden.    
+1.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  De burgemeester is bevoegd een ieder aan zijn kleding en degene die de openbare orde en veiligheid verstoort of ten aanzien van wie een gegrond vermoeden bestaat dat hij zich daaraan schuldig zal maken, ook aan zijn lichaam te onderzoeken.   
 2.  Onze Minister van Binnenlandse Zaken geeft in overeenstemming met Onze Minister van Justitie nadere regels met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.   
+3.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  Indien een of meer van de [artikelen 9 tot en met 53 van de Oorlogswet voor Nederland](../../../../../../../wet/oorlogswet/voor/nederland/BWBR0007983/README.md) in werking zijn gesteld, wordt van de bevoegdheid, bedoeld in het eerste lid, geen gebruik gemaakt jegens militairen.   
 
 ### Artikel  16  
 
-1.   Dit lid is nog niet in werking getreden.    
-2.   Dit lid is nog niet in werking getreden.    
-3.   Dit lid is nog niet in werking getreden.    
+1.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  De burgemeester is bevoegd alle plaatsen, ook tegen de wil van de rechthebbende, te betreden dan wel door ambtenaren van politie of buitengewone opsporingsambtenaren te doen betreden en aldaar onderzoek of een doorzoeking te verrichten of door die ambtenaren te doen verrichten, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich de toegang met behulp van de sterke arm.   
+2.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  De ambtenaren, bedoeld in het eerste lid, zijn bevoegd zich bij het betreden door andere personen te doen vergezellen.   
+3.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  Een machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](../../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) kan worden gegeven voor een groter aantal woningen dan bedoeld in [artikel 5, eerste lid, van die wet](../../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md). Het verslag, bedoeld in [artikel 10 van de Algemene wet op het binnentreden](../../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md), wordt mede toegezonden aan Onze Minister van Binnenlandse Zaken.   
 4.  Onze Minister van Binnenlandse Zaken geeft in overeenstemming met Onze Minister van Justitie nadere regels met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.   
 
 ### Artikel  17  
 
-1.   Dit lid is nog niet in werking getreden.    
-2.   Dit lid is nog niet in werking getreden.    
-3.   Dit lid is nog niet in werking getreden.    
+1.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  De autoriteiten die daartoe door Onze Minister van Binnenlandse Zaken zijn aangewezen, zijn bevoegd alle voorwerpen ten aanzien waarvan ernstig vermoeden bestaat dat zij zullen dienen tot verstoring van de openbare orde en veiligheid, of waaruit aanwijzingen kunnen worden verkregen omtrent een mogelijke verstoring van de openbare orde, te onderzoeken, in beslag te nemen, dan wel het gebruik daarvan te beperken of geheel te verbieden.   
+2.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  Van elke inbeslagneming wordt proces-verbaal opgemaakt. Dit proces-verbaal, dat mede de redenen van de inbeslagneming vermeldt, wordt binnen tweemaal vierentwintig uren aan Onze Minister van Binnenlandse Zaken en aan de belanghebbende in afschrift medegedeeld, voor zover mededeling aan de belanghebbende niet strijdig kan worden geoordeeld met het belang van de staat. Voorts wordt van elke beperking en elk verbod aan Onze voornoemde Minister onverwijld kennis gegeven, onder opgave van de redenen die tot deze maatregel hebben geleid.   
+3.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  Tegen elke inbeslagneming, elke beperking of elk verbod kan door belanghebbenden beroep worden ingesteld bij Onze Minister van Binnenlandse Zaken. Onze Minister beslist hierop zo spoedig mogelijk, doch in elk geval binnen acht weken.   
 4.  Onze Minister van Binnenlandse Zaken geeft in overeenstemming met Onze Minister van Justitie nadere regels met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.   
 
 ### Artikel  18  
@@ -138,7 +141,7 @@ a. de bloed- of aanverwanten van de geïnterneerde in de rechte lijn, de bloed- 
 b. zij die tot geheimhouding verplicht zijn uit hoofde van hun ambt, beroep of betrekking omtrent hetgeen hun in die hoedanigheid is toevertrouwd.     
 7.  De getuige kan zich verschonen van het beantwoorden van een hem gestelde vraag, indien hij daardoor of zichzelf, of een van zijn bloed- of aanverwanten in de rechte lijn of in de zijlijn tot de derde graad ingesloten of zijn echtgenoot of vroegere echtgenoot aan het gevaar van een strafrechtelijke veroordeling ter zake van een misdrijf zou blootstellen.   
 8.  De rechtbank kan bevelen dat getuigen niet zullen worden gehoord dan na het afleggen van een eed of belofte. De getuige legt in dat geval in handen van de voorzitter de eed of belofte af dat hij de waarheid en niets dan de waarheid zal zeggen.   
-9.  Getuigen, deskundigen en tolken, opgeroepen ingevolge het derde lid, ontvangen desverlangd voor reis- en verblijfkosten alsmede wegens tijdverzuim en daarmee verband houdende noodzakelijke kosten, een vergoeding uit ’s Rijks kas overeenkomstig het bij of krachtens de [Wet tarieven in burgerlijke zaken](../../../../../../../wet/wet/tarieven/in/burgerlijke/zaken/BWBR0001852/README.md) bepaalde.   
+9.  Getuigen, deskundigen en tolken, opgeroepen ingevolge het derde lid, ontvangen desverlangd voor reis- en verblijfkosten alsmede wegens tijdverzuim en daarmee verband houdende noodzakelijke kosten, een vergoeding uit ’s Rijks kas overeenkomstig het bij of krachtens de [Wet griffierechten burgerlijke zaken](../../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) bepaalde.   
 10.  De behandeling geschiedt ter openbare terechtziting, maar de rechtbank kan gehele of gedeeltelijke behandeling met gesloten deuren bevelen in het belang van de openbare orde of ’s lands veiligheid, of ter bescherming van de persoonlijke levenssfeer van de geïnterneerde. De uitspraak geschiedt in het openbaar.   
 11.  De rechtbank beslist zo spoedig mogelijk op het verzoekschrift, doch uiterlijk binnen twee maanden na de indiening daarvan. Deze termijn kan met ten hoogste een maand worden verlengd. De beschikking van de rechtbank is met redenen omkleed, behoudens voor zover het belang van de staat zich tegen vermelding van deze redenen verzet. Indien de rechtbank de internering onrechtmatig oordeelt, gelast zij de onmiddellijke invrijheidstelling.   
 12.  De griffier verzendt terstond een afschrift van de beschikking aan de geïnterneerde en aan Onze Minister van Binnenlandse Zaken. De aan de geïnterneerde en aan de Minister gezonden afschriften van de beschikking vermelden de datum van verzending.   
@@ -174,11 +177,11 @@ Onverminderd de artikelen 19, 21 en 22 wordt een geïnterneerde in vrijheid gest
 ### Artikel  26  
 
 1.  Bij algemene maatregel van bestuur worden nadere regels gegeven met betrekking tot de uitoefening van de bevoegdheid, bedoeld in artikel 18, eerste lid.   
-2.   Dit lid is nog niet in werking getreden.    
+2.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  Onze Minister van Binnenlandse Zaken is bevoegd in spoedeisende gevallen, in overeenstemming met Onze Minister van Justitie, regels te geven waarbij wordt afgeweken van de regels, bedoeld in het eerste lid, of deze buiten werking worden gesteld. De door Onze Minister gegeven regels worden op een door hem te bepalen wijze bekendgemaakt en treden na deze bekendmaking terstond in werking. Deze regels worden in ieder geval geplaatst in de Staatscourant.   
 
 ### Artikel  27  
 
-In zaken betreffende een verzoek als bedoeld in artikel 19, eerste lid, en betreffende beroep in cassatie als bedoeld in artikel 22 is geen recht ingevolge de [Wet tarieven in burgerlijke zaken](../../../../../../../wet/wet/tarieven/in/burgerlijke/zaken/BWBR0001852/README.md) verschuldigd.  
+In zaken betreffende een verzoek als bedoeld in artikel 19, eerste lid, en betreffende beroep in cassatie als bedoeld in artikel 22 is geen griffierecht ingevolge de [Wet griffierechten burgerlijke zaken](../../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) verschuldigd.  
 
 ### Artikel  28  
 
