@@ -1,0 +1,5 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Verkrijging krachtens besch. reconstructie oude glastuinbouwgebieden
+
+De vrijstelling van art. 15, lid 1, letter l WBR kan geen toepassing vinden t.z.v. verkrijgingen van onr. goed die plaatsvinden krachtens de Beschikking reconstructie oude glastuinbouwgebieden van 29-03-1979/nr. J 1119 (Stcrt. 30-03-1979, nr. 64). Wel ben ik bereid m.b.t. een verkrijging die plaatsvindt ingevolge de voornoemde Beschikking reconstructie oude glastuinbouwgebieden op een daartoe ingediend verzoek met toepassing van art. 63 AWR de bevoegde Insp. der R. en S. te machtigen om art. 15, lid 1, letter l WBR analoog toe te passen, mits de verkrijging is voorzien in het vastgestelde reconstructieplan en onr. goed gelegen binnen het aangewezen reconstructiegebied betreft. Aan deze tegemoetkoming zal de bepaling worden verbonden, dat zij vervalt, v.z.v. o.g.v. het verschuldigd zijn van het niet geheven bedrag aanspraak op vermindering van belasting ingevolge art. 13 WBR is of mocht worden gemaakt.    
