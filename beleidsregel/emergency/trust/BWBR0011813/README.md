@@ -1,0 +1,11 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Emergency trust
+
+De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.     Dit besluit dient ter vervanging van het besluit van 15 juni 1988, nr. DB88/3940 en is opnieuw uitgebracht naar aanleiding van de Belastingherziening 2001. Hiermee is geen inhoudelijke wijziging beoogd. Ik ben van oordeel dat het onder trustverband brengen en houden van vermogensbestanddelen in een zgn. emergency trust voor de Nederlandse belastingheffing geen betekenis heeft gedurende de periode voor het ontstaan van de noodsituatie, als tot dat tijdstip het volledige economische belang bij en de zeggenschap over de desbetreffende vermogensbestanddelen bij de insteller van de trust blijven. Of daarvan sprake is zal in ieder individueel geval concreet moeten worden beoordeeld. Als aan die voorwaarden wordt voldaan wordt het in trustverband brengen van vermogensbestanddelen niet als vervreemding aangemerkt, zodat er geen sprake is van onttrekking, winstrealisatie of van desinvestering in de zin van artikel 3.47 van de Wet inkomstenbelasting 2001. Met betrekking tot de fiscaalrechtelijke gevolgen van het intreden van een noodsituatie constateer ik dat daarover verschillende visies denkbaar zijn. Ik geef er de voorkeur aan op dat vlak thans geen standpunt in te nemen. Wel verklaar ik mij bereid in voorkomende gevallen verzoeken om aan het inroepen en bestaan van de noodtoestand geen gevolgen te verbinden indien de noodtoestand binnen een bepaalde periode (de afkoelingsperiode) weer ongedaan wordt gemaakt in welwillende overweging te nemen mits deze afkoelingsperiode niet langer dan zes maanden heeft geduurd. Als voorwaarden voor inwilliging van een dergelijk verzoek zullen tenminste de volgende omstandigheden gelden: 
+
+– in de afkoelingsperiode worden geen uitkeringen gedaan, anders dan aan crediteuren als zodanig;  
+
+– in de afkoelingsperiode vinden geen mutaties plaats in het onder trustverband gebrachte vermogen, behoudens voor zover die het gevolg zijn van de normale bedrijfsuitoefening;  
+
+– in de personen die belang hebben bij het onder trustverband gestelde vermogen en in de omvang van hun belang is gedurende de afkoelingsperiode geen wijziging gekomen.   Dit besluit treedt in werking met ingang van het belastingjaar 2001.    

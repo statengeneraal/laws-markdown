@@ -1,0 +1,13 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Schuldsanering natuurlijke personen
+
+De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.     Dit besluit is opnieuw uitgebracht voor de toepassing van de Wet IB 2001. Hiermee is geen inhoudelijke wijziging beoogd ten opzichte van de regeling die gold voor de toepassing van de Wet IB 1964, Besluit van 8 januari 1999, nr. DB98/4444M. Blijkens Koninklijk Besluit van 9 november 1998, Stb. 1998, 622, zijn op 1 december 1998 diverse wetten in werking getreden die betrekking hebben op schuldsanering van natuurlijke personen: 
+
+– de Wet van 25 juni 1998 tot wijziging van de Faillissementswet in verband met de sanering van schulden van natuurlijke personen, Stb. 1998, 445,  
+
+– de Wet van 25 juni 1998 tot inwerkingtreding van en aanpassing van wetgeving aan de wijziging van de Faillissementswet in verband met de sanering van schulden van natuurlijke personen (Invoeringswet schuldsaneringsregeling natuurlijke personen), Stb. 1998, 446,  
+
+– de Wet van 25 juni 1998 tot wijziging van enige onderdelen van de wet van 25 juni 1998, Stb. 445 tot wijziging van de Faillissementswet in verband met de sanering van schulden van natuurlijke personen, Stb. 1998, 447 en  
+
+– de Wet van 1 juli 1998 tot aanpassing van wetgeving aan de wijziging van Faillissementswet in verband met de sanering van schulden van natuurlijke personen (Tweede invoeringswet schuldsaneringsregeling natuurlijke personen), Stb. 1998, 448.   Op grond van deze wetgeving kunnen schuldeisers een natuurlijk persoon die in een problematische financiële positie is terechtgekomen, niet tot in lengte van jaren achtervolgen (de zogenoemde ’schone-leigedachte’). De vraag is opgekomen of de kwijtscheldingswinstregeling van artikel 3.13, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001 van toepassing is indien de schuldsaneringsregeling is beëindigd zonder dat een akkoord met de schuldeisers is bereikt. Dan ontstaat immers voor het onvoldane deel van de schuld op grond van artikel 358, eerste lid, van de Faillissementswet van rechtswege een natuurlijke verbintenis waardoor in zoverre geen sprake is van het prijsgeven van niet voor verwezenlijking vatbare rechten door schuldeisers. Om onzekerheid op dit punt weg te nemen, keur ik, vooruitlopend op wetswijziging terzake, goed dat het bepaalde in artikel 3.13, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001 van overeenkomstige toepassing is voor zover ingevolge artikel 358, eerste lid, van de Faillissementswet vorderingen niet langer afdwingbaar worden. Dit besluit treedt in werking met ingang van het belastingjaar 2001.    
