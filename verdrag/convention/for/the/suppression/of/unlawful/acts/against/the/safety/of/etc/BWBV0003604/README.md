@@ -19,9 +19,14 @@ The States Parties to this Convention Considering that unlawful acts against the
 (d) destroys or damages air navigation facilities or interferes with their operation, if any such act is likely to endanger the safety of aircraft in flight; or  
 
 (e) communicates information which he knows to be false, thereby endangering the safety of an aircraft in flight.     
+1 bis.  Any person commits an offence if he unlawfully and intentionally, using any device, substance or weapon: 
+
+(a) performs an act of violence against a person at an airport serving international civil aviation which causes or is likely to cause serious injury or death; or  
+
+(b) destroys or seriously damages the facilities of an airport serving international civil aviation or aircraft not in service located thereon or disrupts the services of the airport,   if such an act endangers or is likely to endanger safety at that airport.   
 2.  Any person also commits an offence if he: 
 
-(a) attempts to commit any of the offences mentioned in paragraph 1 of this Article: or  
+(a) attempts to commit any of the offences mentioned in paragraph 1 or paragraph 1 *bis* of this Article: or  
 
 (b) is an accomplice of a person who commits or attempts to commit any such offence.     
 
@@ -62,6 +67,7 @@ Each Contracting State undertakes to make the offences mentioned in Article 1 pu
 
 (d) when the offence is committed against or on board an aircraft leased without crew to a lessee who has his principal place of business or, if the lessee has no such place of business, his permanent residence, in that State.     
 2.  Each Contracting State shall likewise take such measures as may be necessary to establish its jurisdiction over the offences mentioned in Article 1, paragraph 1 (a), (b) and (c), and in Article 1, paragraph 2, in so far as that paragraph relates to those offences, in the case where the alleged offender is present in its territory and it does not extradite him pursuant to Article 8 to any of the States mentioned in paragraph 1 of this Article.   
+2 bis.  Each Contracting State shall likewise take such measures as may be necessary to establish its jurisdiction over the offences mentioned in Article 1, paragraph 1 *bis,* and in Article 1, paragraph 2, in so far as that paragraph relates to those offences, in the case where the alleged offender is present in its territory and it does not extradite him pursuant to Article 8 to the State mentioned in paragraph 1 (a) of this Article.   
 3.  This Convention does not exclude any criminal jurisdiction exercised in accordance with national law.   
 
 ### Article  6  
@@ -149,9 +155,14 @@ c. in een luchtvaartuig in bedrijf, op welke wijze dan ook, een voorwerp of subs
 d. hulpmiddelen ten behoeve van de luchtvaart vernielt of beschadigt, dan wel hun werking hindert, indien een van deze gedragingen van zodanige aard is dat daardoor de veiligheid van luchtvaartuigen tijdens de vlucht in gevaar wordt gebracht;  
 
 e. gegevens doorgeeft waarvan hij weet dat zij onjuist zijn, daardoor de veiligheid van een luchtvaartuig tijdens de vlucht in gevaar brengend.     
+1 bis.  Aan een strafbaar feit maakt zich schuldig hij die wederrechtelijk en opzettelijk, met gebruikmaking van welk voorwerp, welke substantie of welk wapen dan ook: 
+
+(a) ad van geweld begaat tegen een persoon op een luchthaven voor de internationale burgerluchtvaart, die ernstig letsel of de dood veroorzaakt of kan veroorzaken; of  
+
+(b) de voorzieningen van een luchthaven voor de internationale urgerluchtvaart of aldaar geplaatste luchtvaartuigen die niet in edrijf zijn, vernielt of daaraan ernstige schade toebrengt of de diensten van de luchthaven verstoort,   indien een zodanige daad de veiligheid op die luchthaven in gevaar brengt of kan brengen.   
 2.  Aan een strafbaar feit maakt zich eveneens schuldig hij die: 
 
-a. een poging doet een der in het eerste lid van dit artikel genoemde strafbare feiten te plegen; of  
+a. een poging doet een der in het eerste lid of eerste lid *bis* van dit artikel genoemde strafbare feiten te plegen; of  
 
 b. medeplichtige is van een persoon die een zodanig feit pleegt of poogt te plegen.     
 
@@ -192,11 +203,12 @@ c. indien het luchtvaartuig aan boord waarvan het strafbare feit is gepleegd op 
 
 d. indien het strafbare feit is gepleegd tegen of aan boord van een luchtvaartuig dat zonder bemanning is verhuurd aan een huurder die de hoofdzetel van zijn bedrijf, of, indien de huurder niet een zodanige zetel heeft, zijn vaste verblijfplaats heeft in die Staat.     
 2.  Elke Verdragsluitende Staat neemt eveneens de maatregelen die nodig zijn om zijn bevoegdheid tot kennisneming vast te leggen van de strafbare feiten genoemd in artikel 1, eerste lid, letters *a, b* en *c,* en in artikel 1, tweede lid, voor zover dat lid op deze strafbare feiten betrekking heeft, in het geval waarin de vermoedelijke dader zich op zijn grondgebied bevindt en deze Staat hem niet ingevolge artikel 8 uitlevert aan een van de Staten genoemd in het eerste lid van dit artikel.   
+2 bis.  Elke Verdragsluitende Staat neemt eveneens de maatregelen die nodig zijn om zijn bevoegdheid tot kennisneming vast te leggen van de strafbare feiten genoemd in artikel 1, eerste lid *bis* en in artikel 1, tweede lid, voor zover dat lid op deze strafbare feiten betrekking heeft, in het geval waarin de vermoedelijke dader zich op zijn grondgebied bevindt en deze Staat hem niet ingevolge artikel 8 uitlevert aan de Staat genoemd in het eerste lid, letter (a), van dit artikel.   
 3.  Dit Verdrag sluit geen enkele bevoegdheid in strafzaken uit, die wordt uitgeoefend krachtens de nationale wet.   
 
 ### Artikel  6  
 
-1.  Een Verdragsluitende Staat op het grondgebied waarvan de dader of de vermoedelijke dader zich bevindt neemt deze, indien hij ervan overtuigd is dat de omstandigheden zulks wettigen, in hechtenis of neemt andere maatregelen ter verzekering van diens aanwezigheid. De inhechtenisneming en andere maatregelen dienen in overeenstemming te zijn met de wet van de betrokken Staat, doch mogen niet langer duren dan noodzakelijk is voor het instellen van een straf vervolging of uitleveringsprocedure.   
+1.  Een Verdragsluitende Staat op het grondgebied waarvan de dader of de vermoedelijke dader zich bevindt neemt deze, indien hij ervan overtuigd is dat de omstandigheden zulks wettigen, in hechtenis of neemt andere maatregelen ter verzekering van diens aanwezigheid. De inhechtenisneming en andere maatregelen dienen in overeenstemming te zijn met de wet van de betrokken Staat, doch mogen niet langer duren dan noodzakelijk is voor het instellen van een strafvervolging of uitleveringsprocedure.   
 2.  Deze Staat stelt terstond een voorlopig onderzoek in naar de feiten.   
 3.  Een ieder die ingevolge het eerste lid van dit artikel in hechtenis is genomen, wordt de gelegenheid gegeven zich onmiddellijk in verbinding te stellen met de dichtstbijzijnde daarvoor in aanmerking komende vertegenwoordiger van de Staat waarvan hij onderdaan is.   
 4.  Wanneer een Staat krachtens het bepaalde in dit artikel een persoon in hechtenis heeft genomen, verwittigt hij onmiddellijk de Staten bedoeld in artikel 5, eerste lid, de Staat waarvan de in hechtenis genomen persoon onderdaan is en, indien hij dit nodig oordeelt, iedere andere belanghebbende Staat van het feit dat de betrokken persoon in hechtenis is genomen en van de omstandigheden die zijn hechtenis rechtvaardigen. De Staat die het voorlopig onderzoek bedoeld in het tweede lid van dit artikel instelt, deelt zijn bevindingen onverwijld mede aan genoemde Staten en geeft tevens aan of hij voornemens is zijn rechtsmacht uit te oefenen.   
@@ -207,7 +219,7 @@ De Verdragsluitende Staat op het grondgebied waarvan de vermoedelijke dader word
 
 ### Artikel  8  
 
-1.  De strafbare feiten worden geacht in elk tussen de Verdragsluitende Staten bestaand uitleveringsverdrag te zijn begrepen als uitleveringsdelicten. De Verdragsluitende Staten verplichten zich ertoe de strafbare feiten op te nemen als uitleverings delicten in ieder uitleveringsverdrag dat tussen hen wordt gesloten.   
+1.  De strafbare feiten worden geacht in elk tussen de Verdragsluitende Staten bestaand uitleveringsverdrag te zijn begrepen als uitleveringsdelicten. De Verdragsluitende Staten verplichten zich ertoe de strafbare feiten op te nemen als uitleveringsdelicten in ieder uitleveringsverdrag dat tussen hen wordt gesloten.   
 2.  Indien een Verdragsluitende Staat, welke uitlevering afhankelijk stelt van het bestaan van een verdrag, een verzoek om uitlevering ontvangt van een andere Verdragsluitende Staat waarmede hij geen uitleveringsverdrag heeft gesloten, kan hij, indien hij dat verkiest, dit Verdrag beschouwen als de wettelijke basis voor uitlevering wegens strafbare feiten. De uitlevering is onderworpen aan de overige voorwaarden waarin het recht van de aangezochte Staat voorziet.   
 3.  De Verdragsluitende Staten, welke uitlevering niet afhankelijk stellen van het bestaan van een verdrag, erkennen de strafbare feiten onderling als uitleveringsdelicten, onderworpen aan de voorwaarden waarin het recht van de aangezochte Staat voorziet.   
 4.  Voor uitlevering tussen Verdragsluitende Staten wordt elk van de strafbare feiten beschouwd als niet alleen begaan op de plaats waar het is gepleegd, maar ook op het grondgebied van de Staten die overeenkomstig het eerste lid, letters *b, c* en *d,* van artikel 5 rechtsmacht dienen uit te oefenen.   
@@ -243,7 +255,7 @@ c. de maatregelen genomen ten aanzien van de dader of de vermoedelijke dader, en
 ### Artikel  14  
 
 1.  Elk geschil tussen Verdragsluitende Staten inzake de uitleg of toepassing van dit Verdrag dat niet door onderhandelingen kan worden beslecht, wordt op verzoek van een der Partijen onderworpen aan arbitrage. Indien Partijen er binnen zes maanden na het verzoek om arbitrage niet in zijn geslaagd overeenstemming te bereiken over de vorm van deze arbitrage, kan ieder der betrokken Partijen het geschil voorleggen aan het Internationale Gerechtshof, door middel van een verzoek overeenkomstig het Statuut van het Hof.   
-2.  Elke Staat kan op het tijdstip van ondertekening, bekrachtiging of toetreding verklaren dat hij zich niét gebonden acht door het voorgaande lid. De andere Verdragsluitende Staten zijn door het voorgaande lid niet gebonden tegenover een Verdragsluitende Staat die zulk een voorbehoud heeft gemaakt.   
+2.  Elke Staat kan op het tijdstip van ondertekening, bekrachtiging of toetreding verklaren dat hij zich niet gebonden acht door het voorgaande lid. De andere Verdragsluitende Staten zijn door het voorgaande lid niet gebonden tegenover een Verdragsluitende Staat die zulk een voorbehoud heeft gemaakt.   
 3.  Een Verdragsluitende Staat die een voorbehoud heeft gemaakt als bedoeld in het voorgaande lid, kan dit voorbehoud te allen tijde intrekken door daarvan mededeling te doen aan de Depotregeringen.   
 
 ### Artikel  15  
