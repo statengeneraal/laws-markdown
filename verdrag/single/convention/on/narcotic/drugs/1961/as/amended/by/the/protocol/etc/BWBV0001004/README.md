@@ -12,53 +12,53 @@ The Parties, Concerned with the health and welfare of mankind, Recognizing that 
 
 1.  Except where otherwise expressly indicated or where the context otherwise requires, the following definitions shall apply throughout the Convention: 
 
-(a) *"Board"* means the International Narcotics Control Board.  
+(a) *“Board”* means the International Narcotics Control Board.  
 
-(b) *"Cannabis"* means**the flowering or fruiting tops of the cannabis plant (excluding the seeds and leaves when not accompanied by the tops) from which the resin has not been extracted, by whatever name they may be designated.  
+(b) *“Cannabis”* means**the flowering or fruiting tops of the cannabis plant (excluding the seeds and leaves when not accompanied by the tops) from which the resin has not been extracted, by whatever name they may be designated.  
 
-(c) *"Cannabis plant"* means any plant of the genus Cannabis.  
+(c) *“Cannabis plant”* means any plant of the genus Cannabis.  
 
-(d) *"Cannabis resin"* means the separated resin, whether crude or purified, obtained from the cannabis plant.  
+(d) *“Cannabis resin”* means the separated resin, whether crude or purified, obtained from the cannabis plant.  
 
-(e) *"Coca bush"* means the plant of any species of the genus Erythroxylon.  
+(e) *“Coca bush”* means the plant of any species of the genus Erythroxylon.  
 
-(f) *"Coca leaf"* means the leaf of the coca bush except a leaf from which all ecgonine, cocaine and any other ecgonine alkaloids have been removed.  
+(f) *“Coca leaf”* means the leaf of the coca bush except a leaf from which all ecgonine, cocaine and any other ecgonine alkaloids have been removed.  
 
-(g) *"Commission"* means the Commission on Narcotic Drugs of the Council.  
+(g) *“Commission”* means the Commission on Narcotic Drugs of the Council.  
 
-(h) *"Council"* means the Economic and Social Council of the United Nations.  
+(h) *“Council”* means the Economic and Social Council of the United Nations.  
 
-(i) *"Cultivation "* means the cultivation of the opium poppy, coca bush or cannabis plant.  
+(i) *“Cultivation”* means the cultivation of the opium poppy, coca bush or cannabis plant.  
 
-(j) *"Drug"* means any of the substances in Schedules I and II, whether natural or synthetic.  
+(j) *“Drug”* means any of the substances in Schedules I and II, whether natural or synthetic.  
 
-(k) *"General Assembly”* means the General Assembly of the United Nations.  
+(k) *“General Assembly”* means the General Assembly of the United Nations.  
 
-(l) *"Illicit traffic"* means cultivation or trafficking in drugs contrary to the provisions of this Convention.  
+(l) *“Illicit traffic”* means cultivation or trafficking in drugs contrary to the provisions of this Convention.  
 
-(m) *"Import" and "export"* mean in their respective connotations the physical transfer of drugs from one State to another State, or from one territory to another territory of the same State.  
+(m) *“Import” and “export”* mean in their respective connotations the physical transfer of drugs from one State to another State, or from one territory to another territory of the same State.  
 
-(n) *"Manufacture"* means all processes, other than production, by which drugs may be obtained and includes refining as well as the formation of drugs into other drugs.  
+(n) *“Manufacture”* means all processes, other than production, by which drugs may be obtained and includes refining as well as the formation of drugs into other drugs.  
 
-(o) *"Medicinal opium"* means opium which has undergone the processes necessary to adapt it for medicinal use.  
+(o) *“Medicinal opium”* means opium which has undergone the processes necessary to adapt it for medicinal use.  
 
-(p) *"Opium"* means the coagulated juice of the opium poppy.  
+(p) *“Opium”* means the coagulated juice of the opium poppy.  
 
-(q) *"Opium poppy"* means the plant of the species Papaver somniferum L.  
+(q) *“Opium poppy”* means the plant of the species Papaver somniferum L.  
 
-(r) *"Poppy straw"* means all parts (except the seeds) of the opium poppy, after mowing.  
+(r) *“Poppy straw”* means all parts (except the seeds) of the opium poppy, after mowing.  
 
-(s) *"Preparation"* means a mixture, solid or liquid, containing a drug.  
+(s) *“Preparation”* means a mixture, solid or liquid, containing a drug.  
 
-(t) *"Production"* means the separation of opium, coca leaves, cannabis and cannabis resin from the plants from which they are obtained.  
+(t) *“Production”* means the separation of opium, coca leaves, cannabis and cannabis resin from the plants from which they are obtained.  
 
-(u) *"Schedule!", "Schedule II", "Schedule III"* and *"Schedule IV"* mean the correspondingly numbered list of drugs or preparations annexed to this Convention, as amended from time to time in accordance with article 3.  
+(u) *“Schedule I”, “Schedule II”, “Schedule III”* and *“Schedule IV”* mean the correspondingly numbered list of drugs or preparations annexed to this Convention, as amended from time to time in accordance with article 3.  
 
-(v) *"Secretary-General"* means the Secretary-General of the United Nations.  
+(v) *“Secretary-General”* means the Secretary-General of the United Nations.  
 
-(w) *"Special stocks"* means the amounts of drugs held in a country or territory by the Government of such country or territory for special government purposes and to meet exceptional circumstances; and the expression "special purposes" shall be construed accordingly.  
+(w) *“Special stocks”* means the amounts of drugs held in a country or territory by the Government of such country or territory for special government purposes and to meet exceptional circumstances; and the expression “special purposes" shall be construed accordingly.  
 
-(x) *"Stocks"* means the amounts of drugs held in a country or territory and intended for: 
+(x) *“Stocks”* means the amounts of drugs held in a country or territory and intended for: 
 
 (i) Consumption in the country or territory for medical and scientific purposes,  
 
@@ -68,10 +68,10 @@ The Parties, Concerned with the health and welfare of mankind, Recognizing that 
 
 (iv) By retail pharmacists or other authorized retail distributors and by institutions or qualified persons in the duly authorized exercise of therapeutic or scientific functions, or  
 
-(v) As "special stocks".    
+(v) As “special stocks”.    
 
-(y) *"Territory"* means any part of a State which is treated as a separate entity for the application of the system of import certificates and export authorizations provided for in article 31. This definition shall not apply to the term "territory" as used in articles 42 and 46.     
-2.  For the purposes of this Convention a drug shall be regarded as "consumed" when it has been supplied to any person or enterprise for retail distribution, medical use or scientific research; and *"consumption "* shall be construed accordingly.   
+(y) *“Territory”* means any part of a State which is treated as a separate entity for the application of the system of import certificates and export authorizations provided for in article 31. This definition shall not apply to the term “territory” as used in articles 42 and 46.     
+2.  For the purposes of this Convention a drug shall be regarded as “consumed” when it has been supplied to any person or enterprise for retail distribution, medical use or scientific research; and *“consumption”* shall be construed accordingly.   
 
 ### Article  2  
 
@@ -797,7 +797,7 @@ This Convention shall apply to all non-metropolitan territories for the internat
 
 (i) The report referred to in paragraph 3 (a) within six months after the end of the year to which the information relates;  
 
-(ii) The estimates rereferredffered to in paragraph 3 (b) within three months after the date fixed for that purpose by the Board in accordance with article 12, paragraph 1:  
+(ii) The estimates reffered to in paragraph 3 (b) within three months after the date fixed for that purpose by the Board in accordance with article 12, paragraph 1:  
 
 (iii) The statistics referred to in paragraph 3 (b) within three months after the date on which they are due in accordance with article 20, paragraph 2,   the Board or the Secretary-General, as the case may be, shall send to the Party concerned a notification of the delay, and shall request such information within a period of three months after the receipt of that notification.  
 
@@ -831,7 +831,7 @@ The Secretary-General shall notify to all the States referred to in paragraph 1 
 
 *List of drugs included in Schedule I*   
 
-<sup> 1)  Zoals gewijzigd per 8 februari 1982.  </sup>   ACETORPHINE (3-0-acetyltetrahydro-7 a-( 1 -hydroxy-1 -methylbutyl)-6, 14-endoetheno-oripavine) ACETYLMETHADOL (3-acetoxy-6-dimethylamino-4,4-diphenylheptane) ALLYLPRODINE (3-allyl-1-methyl-4-phenyl-4-propionoxypiperidine) ALPHACETYLMETHADOL (alpha-3-acetoxy-6-dimethylamino-4, 4-diphenylheptane) ALPHAMEPRODINE (alpha-3-ethyl-1 -methyl-4-phenyl-4-propionoxypiperidine) ALPHAMETHADOL (aIpha-6-dimethylamino-4,4-diphenyl-3-heptanol) ALPHAPRODINE (alpha-1,3-dimethyI-4-phenyl-4-propionoxypiperidine) ANILERIDINE (1-para-aminophenethyl-4-phenylpiperidine-4-carboxylic acid ethyl ester) BENZETHIDINE (1-(2-benzyloxyethyl)-4-phenylpiperidine-4-carboxylic acid ethyl ester) BENZYLMORPHINE (3-benzylmorphine) BETACETYLMETHADOL (beta-3-acetoxy-6-dimethylamino-4,4-diphenylheptane) BETAMEPRODINE (beta-3-ethyl-1 -methyl-4-phenyl-4-propionoxypiperidine) BETAMETHADOL (beta-6-dimethylamino-4,4-diphenyl-3-heptanol) BETAPRODINE (beta-1,3-dimethyl-4-phenyl-4-propionoxypiperidine) BEZITRAMIDE (1 -(3-cyano-3,3-diphenylpropyl)-4-(2-oxo-3-propionyl-1 -benzimidazolinyl)- piperidine) CANNABIS and CANNABIS RESIN and EXTRACTS and TINCTURES of CANNABIS CLONITAZENE (2-para-chlorbenzyl-1-diethylaminoethyl-5-nitrobenzimidazole) COCA LEAF COCAINE (methyl ester of benzoylecgonine) CODOXIME (dihydrocodeinone-6-carboxymethyloxime) CONCENTRATE OF POPPY STRAW (the material arising when poppy straw has entered into a process for the concentration of its alkaloids when such material is made available in trade) DESOMORPHINE (dihydrodeoxymorphine) DEXTROMORAMIDE ((+)-4-[2-methyl-4-oxo-3,3-diphenyl-4-(1-pyrrolidinyl) butyl] morpholine) DIAMPROMIDE (N-[2-methylphenethyIamino propyl] propionanilide) DIETHYLTHIAMBUTENE (3-diethylamino-1,1 -di-(2'-thienyl)-1 -butene) DIFENOXIN (1-(3-cyano-3,3-diphenylpropyl)-4-phenylisonipecotic acid) DIHYDROMORPHINE DIMENOXADOL (2-dimethylaminoethyl-1 -ethoxy-1,1 -diphenylacetate) DIMEPHEPTANOL (6-dimethylamino-4,4-diphenyl-3-heptanol) DIMETHYLTHIAMBUTENE (3-dimethylamino-1,1 -di-(2'-thienyl)-1-butene) DIOXAPHETYL BUTYRATE (ethyl-4-morpholino-2,2-diphenylbutyrate) DIPHENOXYLATE (1 -(3-cyano-3,3-diphenylpropyl)-4-phenylpiperidine-4-carboxylic acid ethyl ester) DIPIPANONE (4,4-diphenyl-6-piperidine-3-heptanone) DROTEBANOL (3,4-dimethoxy-17-methyImorphinan-6ß, 14-diol) ECGONINE, its esters and derivatives which are convertible to ecgonine and cocaine ETHYLMETHYLTHIAMBUTENE (3-ethylmethylamino-1,1 -di-(2'-thienyl)-1 -butene) ETONITAZENE (1-diethylaminoethyl-2-para-ethoxybenzyl-5-nitrobenzimidazole) ETORPHINE (tetrahydro-7a-(1-hydroxy-1-methylbutyl)-6,14-enrdoetheno-oripavine) ETOXERIDINE (1-[2-(2-hydroxyethoxy)-ethyl]-4-phenylpiperidine-4-carboxylic acid ethyl ester) FENTANYL (1-phenethyl-4-N-propionylanilinopiperidine) FURETHIDINE (1 -(2-tetrahydrofurfuryloxyethyl)-4-phenylpiperidine-4-carboxylic acid ethyl ester) HEROIN (diacetylmorphine) HYDROCODONE (dihydrocodeinone) HYDROMORPHINOL (14-hydroxydihydromorphine) HYDROMORPHONE (dihydromorphinone) HYDROXYPETHIDINE (4-me/a-hydroxyphenyl-l-methylpiperidine-4-carboxyIic acid ethyl ester) ISOMETHADONE (6-dimethylamino-5-methyl-4,4-diphenyl-3-hexanone) KETOBEMIDONE (4-meta-hydroxyphenyI-1-methyl-4-propionylpiperidine) LEVOMETHORPHAN <sup> *)  Dextromethorphan (( + )-3-methoxy-N-methylmorphinan) and dextrorphan (( + )-3-hydroxy-N-methylmorphinan) are specifically excluded from this Schedule.  </sup> ((-)-3-methoxy-N-methylmorphinan) LEVOMORAMIDE ((-)-4-[2-methyl-4-oxo-3,3-diphenyl-4-( 1 -pyrrolidinyl) butyl] morpholine) LEVOPHENACYLMORPHAN ((-)-3-hydroxy-N-phenacylmorphinan) LEVORPHANOL <sup> *)  Dextromethorphan (( + )-3-methoxy-N-methylmorphinan) and dextrorphan (( + )-3-hydroxy-N-methylmorphinan) are specifically excluded from this Schedule.  </sup> ((-)-3-hydroxy-N-methylmorphinan) METAZOCINE (2'-hydroxy-2,5,9-trimethyl-6,7-benzomorphan) METHADONE (6-dimethylamino-4,4-diphenyl-3-heptanone) METHADONE INTERMEDIATE (4-cyano-2-dimethylamino-4,4-diphenylbutane) METHYLDESORPHINE (6-methyl-deIta-6-deoxymorphine) METHYLDIHYDROMORPHINE (6-methyldihydromorphine) METOPON (5-methyldihydromorphinone) MORAMIDE INTERMEDIATE (2-methyl-3-morpholino-1,1-diphenylpropane carboxylic acid) MORPHERIDINE (1-(2-morpholinoethyl)-4-phenylpiperidine-4-carboxylic acid ethyl ester) MORPHINE MORPHINE METHOBROMIDE and other pentavalent nitrogen morphine derivatives MORPHINE-N-OXIDE MYROPHINE (myristylbenzylmorphine) NICOMORPHINE (3,6-dinicotinylmorphine) NORACYMETHADOL ((± )-alpha-3-acetoxy-6-methylamino-4,4-diphenylheptane) NORLEVORPHANOL ((-)-3-hydroxymorphinan) NORMETHADONE (6-dimethylamino-4,4-diphenyl-3-hexanone) NORMORPHINE (demethylmorphine) NORPIPANONE (4,4-diphenyl-6-piperidino-3-hexanone) OPIUM OXYCODONE (14-hydroxydihydrocodeinone) OXYMORPHONE (14-hydroxydihydromorphinone) PETHIDINE (1-methyl-4-phenylpiperidine-4-carboxylic acid ethyl ester) PETHIDINE INTERMEDIATE A (4-cyano-1-methyl-4-phenylpiperidine) PETHIDINE INTERMEDIATE B (4-phenylpiperidine-4-carboxylic acid ethyl ester) PETHIDINE INTERMEDIATE C (1 -methyl-4-phenylpiperidine-4-carboxylic acid) PHENADOXONE (6-morpholino-4,4-diphenyl-3-heptanone) PHENAMPROMIDE (N-( 1 -methyl-2-piperidinoethyl) propionanilide) PHENAZOCINE (2'-hydroxy-5,9-dimethyl-2-phenethyl-6,7-benzomorphan) PHENOMORPHAN (3-hydroxy-N-phenethylmorphinan) PHENOPERIDINE (1 -(3-hydroxy-3-phenylpropyl)-4-phenylpiperidine-4-carboxylic acid ethyl ester) PIMINODINE (4-phenyl-1-(3-phenylaminopropyl) piperidine-4-carboxylic acid ethyl ester) PIRITRAMIDE (1-(3-cyano-3,3-diphenylpropyl)-4-(1-piperidino)-piperidine-4-carboxylic acid amide) PROPHEPTAZINE (1,3-dimethyl-4-phenyl-4-propionoxyazacycloheptane) PROPERIDINE (1-methyl-4-phenylpiperidine-4-carboxylic acid isopropyl ester) RACEMETHORPHAN ((± )-3-methoxy-N-methylmorphinan) RACEMORAMIDE ((± )-4-[2-methyl-4-oxo-3,3-diphenyl-4-(1-pyrrolidinyl) butyl] morpholine) RACEMORPHAN ((±)-3-hydroxy-N-methylmorphinan) SUFENTANIL (N-[4-(methoxymethyl)-1-[2-(2-thienyl)ethyl]-4-piperidyl] propionanilide) THEBACON (acetyldihydrocodeinone) THEBAINE TILIDINE ((±)-ethyl trans-2-(dimethylamino)-1 -phenyl-3-cyclohexene-1 -carboxylate) TRIMEPERIDINE (1,2,5-trimethyl-4-phenyl-4-propionoxypiperidine); and The isomers, unless specifically excepted, of the drugs in this Schedule whenever the existence of such isomers is possible within the specific chemical designation; The esters and ethers, unless appearing in another Schedule, of the drugs in this Schedule whenever the existence of such esters or ethers is possible; The salts of the drugs listed in this Schedule, including the salts of esters, ethers and isomers as provided above whenever the existence of such salts is possible. 
+ACETORPHINE (3-0-acetyltetrahydro-7 a-( 1 -hydroxy-1 -methylbutyl)-6, 14-endoetheno-oripavine) ACETYL-ALPHA-METHYLFENTANYL (N-[l-(a-methylphenethyl)-4-piperidyI] acetanilide); ACETYLMETHADOL (3-acetoxy-6-dimethylamino-4,4-diphenylheptane) ALLYLPRODINE (3-allyl-1-methyl-4-phenyl-4-propionoxypiperidine) ALPHACETYLMETHADOL (alpha-3-acetoxy-6-dimethylamino-4, 4-diphenylheptane) ALPHAMEPRODINE (alpha-3-ethyl-1 -methyl-4-phenyl-4-propionoxypiperidine) ALPHAMETHADOL (aIpha-6-dimethylamino-4,4-diphenyl-3-heptanol) ALPHA-METHYLFENTANYL (N-[l-(a-methylphenethyl)-4-piperidyl] propionanilide); ALPHAPRODINE (alpha-1,3-dimethyI-4-phenyl-4-propionoxypiperidine) ANILERIDINE (1-para-aminophenethyl-4-phenylpiperidine-4-carboxylic acid ethyl ester) BENZETHIDINE (1-(2-benzyloxyethyl)-4-phenylpiperidine-4-carboxylic acid ethyl ester) BENZYLMORPHINE (3-benzylmorphine) BETACETYLMETHADOL (beta-3-acetoxy-6-dimethylamino-4,4-diphenylheptane) BETAMEPRODINE (beta-3-ethyl-1 -methyl-4-phenyl-4-propionoxypiperidine) BETAMETHADOL (beta-6-dimethylamino-4,4-diphenyl-3-heptanol) BETAPRODINE (beta-1,3-dimethyl-4-phenyl-4-propionoxypiperidine) BEZITRAMIDE (1 -(3-cyano-3,3-diphenylpropyl)-4-(2-oxo-3-propionyl-1 -benzimidazolinyl)- piperidine) CANNABIS and CANNABIS RESIN and EXTRACTS and TINCTURES of CANNABIS CLONITAZENE (2-para-chlorbenzyl-1-diethylaminoethyl-5-nitrobenzimidazole) COCA LEAF COCAINE (methyl ester of benzoylecgonine) CODOXIME (dihydrocodeinone-6-carboxymethyloxime) CONCENTRATE OF POPPY STRAW (the material arising when poppy straw has entered into a process for the concentration of its alkaloids when such material is made available in trade) DESOMORPHINE (dihydrodeoxymorphine) DEXTROMORAMIDE ((+)-4-[2-methyl-4-oxo-3,3-diphenyl-4-(1-pyrrolidinyl) butyl] morpholine) DIAMPROMIDE (N-[2-methylphenethyIamino propyl] propionanilide) DIETHYLTHIAMBUTENE (3-diethylamino-1,1 -di-(2'-thienyl)-1 -butene) DIFENOXIN (1-(3-cyano-3,3-diphenylpropyl)-4-phenylisonipecotic acid) DIHYDROMORPHINE DIMENOXADOL (2-dimethylaminoethyl-1 -ethoxy-1,1 -diphenylacetate) DIMEPHEPTANOL (6-dimethylamino-4,4-diphenyl-3-heptanol) DIMETHYLTHIAMBUTENE (3-dimethylamino-1,1 -di-(2'-thienyl)-1-butene) DIOXAPHETYL BUTYRATE (ethyl-4-morpholino-2,2-diphenylbutyrate) DIPHENOXYLATE (1 -(3-cyano-3,3-diphenylpropyl)-4-phenylpiperidine-4-carboxylic acid ethyl ester) DIPIPANONE (4,4-diphenyl-6-piperidine-3-heptanone) DROTEBANOL (3,4-dimethoxy-17-methyImorphinan-6ß, 14-diol) ECGONINE, its esters and derivatives which are convertible to ecgonine and cocaine ETHYLMETHYLTHIAMBUTENE (3-ethylmethylamino-1,1 -di-(2'-thienyl)-1 -butene) ETONITAZENE (1-diethylaminoethyl-2-para-ethoxybenzyl-5-nitrobenzimidazole) ETORPHINE (tetrahydro-7a-(1-hydroxy-1-methylbutyl)-6,14-enrdoetheno-oripavine) ETOXERIDINE (1-[2-(2-hydroxyethoxy)-ethyl]-4-phenylpiperidine-4-carboxylic acid ethyl ester) FENTANYL (1-phenethyl-4-N-propionylanilinopiperidine) FURETHIDINE (1 -(2-tetrahydrofurfuryloxyethyl)-4-phenylpiperidine-4-carboxylic acid ethyl ester) HEROIN (diacetylmorphine) HYDROCODONE (dihydrocodeinone) HYDROMORPHINOL (14-hydroxydihydromorphine) HYDROMORPHONE (dihydromorphinone) HYDROXYPETHIDINE (4-me/a-hydroxyphenyl-l-methylpiperidine-4-carboxyIic acid ethyl ester) ISOMETHADONE (6-dimethylamino-5-methyl-4,4-diphenyl-3-hexanone) KETOBEMIDONE (4-meta-hydroxyphenyI-1-methyl-4-propionylpiperidine) LEVOMETHORPHAN <sup> *)  Dextromethorphan (( + )-3-methoxy-N-methylmorphinan) and dextrorphan (( + )-3-hydroxy-N-methylmorphinan) are specifically excluded from this Schedule.  </sup> ((-)-3-methoxy-N-methylmorphinan) LEVOMORAMIDE ((-)-4-[2-methyl-4-oxo-3,3-diphenyl-4-( 1 -pyrrolidinyl) butyl] morpholine) LEVOPHENACYLMORPHAN ((-)-3-hydroxy-N-phenacylmorphinan) LEVORPHANOL <sup> *)  Dextromethorphan (( + )-3-methoxy-N-methylmorphinan) and dextrorphan (( + )-3-hydroxy-N-methylmorphinan) are specifically excluded from this Schedule.  </sup> ((-)-3-hydroxy-N-methylmorphinan) METAZOCINE (2'-hydroxy-2,5,9-trimethyl-6,7-benzomorphan) METHADONE (6-dimethylamino-4,4-diphenyl-3-heptanone) METHADONE INTERMEDIATE (4-cyano-2-dimethylamino-4,4-diphenylbutane) 3-METHYLFENTANYL (N-(3-methyl-l-phenethyI-4-piperidyl) propionanilide) in its two isomeric forms as-N-[3-methyl-1-(2-phenylethyl)-4-piperidyl] propionanilide and *trans* -N-[3-methyl-1-(2-phenylethyl)-4-piperidyl] propionanilide; METHYLDESORPHINE (6-methyl-deIta-6-deoxymorphine) METHYLDIHYDROMORPHINE (6-methyldihydromorphine) METOPON (5-methyldihydromorphinone) MORAMIDE INTERMEDIATE (2-methyl-3-morpholino-1,1-diphenylpropane carboxylic acid) MORPHERIDINE (1-(2-morpholinoethyl)-4-phenylpiperidine-4-carboxylic acid ethyl ester) MORPHINE MORPHINE METHOBROMIDE and other pentavalent nitrogen morphine derivatives MORPHINE-N-OXIDE MPPP (l-methyl-4-phenyl-4-piperidinol propionate (ester)). MYROPHINE (myristylbenzylmorphine) NICOMORPHINE (3,6-dinicotinylmorphine) NORACYMETHADOL ((± )-alpha-3-acetoxy-6-methylamino-4,4-diphenylheptane) NORLEVORPHANOL ((-)-3-hydroxymorphinan) NORMETHADONE (6-dimethylamino-4,4-diphenyl-3-hexanone) NORMORPHINE (demethylmorphine) NORPIPANONE (4,4-diphenyl-6-piperidino-3-hexanone) OPIUM OXYCODONE (14-hydroxydihydrocodeinone) OXYMORPHONE (14-hydroxydihydromorphinone) PEPAP (I-phenethyl-4-phenyl-4-piperidinol acetate (ester)); and PETHIDINE (1-methyl-4-phenylpiperidine-4-carboxylic acid ethyl ester) PETHIDINE INTERMEDIATE A (4-cyano-1-methyl-4-phenylpiperidine) PETHIDINE INTERMEDIATE B (4-phenylpiperidine-4-carboxylic acid ethyl ester) PETHIDINE INTERMEDIATE C (1 -methyl-4-phenylpiperidine-4-carboxylic acid) PHENADOXONE (6-morpholino-4,4-diphenyl-3-heptanone) PHENAMPROMIDE (N-( 1 -methyl-2-piperidinoethyl) propionanilide) PHENAZOCINE (2'-hydroxy-5,9-dimethyl-2-phenethyl-6,7-benzomorphan) PHENOMORPHAN (3-hydroxy-N-phenethylmorphinan) PHENOPERIDINE (1 -(3-hydroxy-3-phenylpropyl)-4-phenylpiperidine-4-carboxylic acid ethyl ester) PIMINODINE (4-phenyl-1-(3-phenylaminopropyl) piperidine-4-carboxylic acid ethyl ester) PIRITRAMIDE (1-(3-cyano-3,3-diphenylpropyl)-4-(1-piperidino)-piperidine-4-carboxylic acid amide) PROPHEPTAZINE (1,3-dimethyl-4-phenyl-4-propionoxyazacycloheptane) PROPERIDINE (1-methyl-4-phenylpiperidine-4-carboxylic acid isopropyl ester) RACEMETHORPHAN ((± )-3-methoxy-N-methylmorphinan) RACEMORAMIDE ((± )-4-[2-methyl-4-oxo-3,3-diphenyl-4-(1-pyrrolidinyl) butyl] morpholine) RACEMORPHAN ((±)-3-hydroxy-N-methylmorphinan) SUFENTANIL (N-[4-(methoxymethyl)-1-[2-(2-thienyl)ethyl]-4-piperidyl] propionanilide) THEBACON (acetyldihydrocodeinone) THEBAINE TILIDINE ((±)-ethyl trans-2-(dimethylamino)-1 -phenyl-3-cyclohexene-1 -carboxylate) TRIMEPERIDINE (1,2,5-trimethyl-4-phenyl-4-propionoxypiperidine); and The isomers, unless specifically excepted, of the drugs in this Schedule whenever the existence of such isomers is possible within the specific chemical designation; The esters and ethers, unless appearing in another Schedule, of the drugs in this Schedule whenever the existence of such esters or ethers is possible; The salts of the drugs listed in this Schedule, including the salts of esters, ethers and isomers as provided above whenever the existence of such salts is possible. 
 ### *List of drugs included in Schedule II* 
 
 ACETYLDIHYDROCODEINE CODEINE (3-methylmorphine) DEXTROPROPOXYPHENE (a-( + )-4-dimethylamino-1,2-diphenyl-3-methyI-2-butanol propionate) DIHYDROCODEINE ETHYLMORPHINE (3-ethylmorphine) NICOCODINE (6-nicotinylcodeine) NICODICODINE (6-nicotinyldihydrocodeine) NORCODEINE (N-demethylcodeine) PHOLCODINE (morpholinylethylmorphine) PROPIRAM (N-(1-methyl-2-piperidinoethyl)-N-2-pyridylpropionamide); and The isomers, unless specifically excepted, of the drugs in this Schedule whenever the existence of such isomers is possible within the specific chemical designation; The salts of the drugs listed in this Schedule, including the salts of the isomers as provided above whenever the existence of such salts is possible. 
@@ -856,7 +856,7 @@ Codeine, Dihydrocodeine, Ethylmorphine, Nicocodine, Nicodicodine, Norcodeine and
 8. Preparations conforming to any of the formulae listed in this Schedule and mixtures of such preparations with any material which contains no drug.   
 ### *List of drugs included in Schedule IV* 
 
-ACETORPHINE (3-0-acetyltetrahydro-7a-(1-hydroxy-1-methylbutyl)-6,14-endoethenooripavine) CANNABIS and CANNABIS RESIN DESOMORPHINE (dihydrodeoxymorphine) ETORPHINE (tetrahydro-7a-( 1 -hydroxy-1 -methylbutyl)-6,14-endoetheno-oripavine) HEROIN (diacetylmorphine) KETOBEMIDONE (4-meta-hydroxyphenyl-1-methyl-4-propionylpiperidine); and The salts of the drugs listed in this Schedule whenever the formation of such salts is possible.   
+ACETYL-ALPHA-METHYLFENTANYL (N-[l-(a-methylphenethyl)-4-piperidyI] acetanilide); ALPHA-METHYLFENTANYL (N-[l-(a-methylphenethyl)-4-piperidyl] propionanilide); 3-METHYLFENTANYL (N-(3-methyl-1-phenethyI-4-piperidyl) propionanilide) in its two isomeric forms as-N-[3-methyl-1-(2-phenylethyl)-4-piperidyl] propionanilide and *trans* -N-[3-methyl-1-(2-phenylethyl)-4-piperidyl] propionanilide; PEPAP (I-phenethyl-4-phenyl-4-piperidinol acetate (ester)); and MPPP (l-methyl-4-phenyl-4-piperidinol propionate (ester)). ACETORPHINE (3-0-acetyltetrahydro-7a-(1-hydroxy-1-methylbutyl)-6,14-endoethenooripavine) CANNABIS and CANNABIS RESIN DESOMORPHINE (dihydrodeoxymorphine) ETORPHINE (tetrahydro-7a-( 1 -hydroxy-1 -methylbutyl)-6,14-endoetheno-oripavine) HEROIN (diacetylmorphine) KETOBEMIDONE (4-meta-hydroxyphenyl-1-methyl-4-propionylpiperidine); and The salts of the drugs listed in this Schedule whenever the formation of such salts is possible.   
 
 ####Enkelvoudig Verdrag inzake verdovende middelen, 1961, zoals gewijzigd door het Protocol tot wijziging van het Enkelvoudig Verdrag inzake verdovende middelen, 1961
 
@@ -868,53 +868,53 @@ Preambule De Partijen, Bezorgd om de gezondheid en het welzijn der mensheid, Erk
 
 1.  Behalve voorzover uitdrukkelijk anders is bepaald of waar het zinsverband een andere uitleg vereist, gelden in het gehele Verdrag de volgende definities: 
 
-(a) *„Comité"* betekent het Internationale Comité van Toezicht op verdovende middelen.  
+(a) *„Comité”* betekent het Internationale Comité van Toezicht op verdovende middelen.  
 
-(b) *„Cannabis"* betekent de bloeiende of vruchtdragende toppen van de cannabisplant (met uitzondering van de zaden en bladeren indien deze niet vergezeld gaan van de toppen) waaruit de hars niet is geëxtraheerd, met welke naam ook aangeduid.  
+(b) *„Cannabis”* betekent de bloeiende of vruchtdragende toppen van de cannabisplant (met uitzondering van de zaden en bladeren indien deze niet vergezeld gaan van de toppen) waaruit de hars niet is geëxtraheerd, met welke naam ook aangeduid.  
 
-(c) *„Cannabisplant"* betekent iedere plant van het geslacht Cannabis.  
+(c) *„Cannabisplant”* betekent iedere plant van het geslacht Cannabis.  
 
-(d) *„Cannabishars"* betekent de afgescheiden hars, ruw of gezuiverd, verkregen uit de cannabisplant.  
+(d) *„Cannabishars”* betekent de afgescheiden hars, ruw of gezuiverd, verkregen uit de cannabisplant.  
 
-(e) *„Cocaplant"* tekent de plant van een der soorten van het geslacht Erythroxylon.  
+(e) *„Cocaplant”* tekent de plant van een der soorten van het geslacht Erythroxylon.  
 
-(f) *„Cocablad"* betekent het blad van de cocaplant met uitzondering van een blad waaruit alle ecgonine, cocaïne en alle andere ecgonine alkaloïden zijn verwijderd.  
+(f) *„Cocablad”* betekent het blad van de cocaplant met uitzondering van een blad waaruit alle ecgonine, cocaïne en alle andere ecgonine alkaloïden zijn verwijderd.  
 
-(g) *„Commissie"* betekent de Commissie voor verdovende middelen van de Raad.  
+(g) *„Commissie”* betekent de Commissie voor verdovende middelen van de Raad.  
 
-(h) *„Raad"* betekent de Economische en Sociale Raad van de Verenigde Naties.  
+(h) *„Raad”* betekent de Economische en Sociale Raad van de Verenigde Naties.  
 
-(i) *„Verbouw"* betekent de verbouw van papaver, cocaplant of cannabisplant.  
+(i) *„Verbouw”* betekent de verbouw van papaver, cocaplant of cannabisplant.  
 
-(j) *„Verdovend middel"* betekent elk der stoffen genoemd in de Lijsten I en II, hetzij natuurlijk hetzij synthetisch.  
+(j) *„Verdovend middel”* betekent elk der stoffen genoemd in de Lijsten I en II, hetzij natuurlijk hetzij synthetisch.  
 
-(k) *„Algemene Vergadering"* betekent de Algemene Vergadering van de Verenigde Naties.  
+(k) *„Algemene Vergadering”* betekent de Algemene Vergadering van de Verenigde Naties.  
 
-(l) *,,Sluikhandel"* betekent de verbouw van of de handel in verdovende middelen in strijd met de bepalingen van dit Verdrag.  
+(l) *„Sluikhandel”* betekent de verbouw van of de handel in verdovende middelen in strijd met de bepalingen van dit Verdrag.  
 
-(m) *„Invoer"* en *„uitvoer"* betekenen, al naar het zinsverband, de daadwerkelijke overbrenging van verdovende middelen van de ene Staat naar de andere of, binnen dezelfde Staat, van het ene gebied naar het andere.  
+(m) *„Invoer”* en *„uitvoer”* betekenen, al naar het zinsverband, de daadwerkelijke overbrenging van verdovende middelen van de ene Staat naar de andere of, binnen dezelfde Staat, van het ene gebied naar het andere.  
 
-(n) *„Vervaardiging"* betekent alle bewerkingen, met uitzondering van produktie, waarbij verdovende middelen kunnen worden verkregen, met inbegrip van zowel zuivering als omzetting van verdovende middelen in andere verdovende middelen.  
+(n) *„Vervaardiging”* betekent alle bewerkingen, met uitzondering van produktie, waarbij verdovende middelen kunnen worden verkregen, met inbegrip van zowel zuivering als omzetting van verdovende middelen in andere verdovende middelen.  
 
-(o) *„Medicinaal opium"* betekent opium dat de bewerkingen heeft ondergaan die nodig zijn om het geschikt te maken voor geneeskundig gebruik.  
+(o) *„Medicinaal opium”* betekent opium dat de bewerkingen heeft ondergaan die nodig zijn om het geschikt te maken voor geneeskundig gebruik.  
 
-(p) ,, *Opium"* betekent het gestremde sap van de papaver.  
+(p) *„Opium”* betekent het gestremde sap van de papaver.  
 
-(q) *Papaver"* betekent de plant van de soort Papaver somniferum L.  
+(q) *Papaver”* betekent de plant van de soort Papaver somniferum L.  
 
-(r) *„Bolkaf"* betekent alle delen (met uitzondering van de zaden) van de papaver, na het maaien.  
+(r) *„Bolkaf”* betekent alle delen (met uitzondering van de zaden) van de papaver, na het maaien.  
 
-(s) *„Preparaat"* betekent een vast of vloeibaar mengsel dat een verdovend middel bevat.  
+(s) *„Preparaat”* betekent een vast of vloeibaar mengsel dat een verdovend middel bevat.  
 
-(t) *„Produktie"* betekent de afscheiding van opium, cocabladeren, cannabis en cannabishars van de planten waaruit zij worden verkregen.  
+(t) *„Produktie”* betekent de afscheiding van opium, cocabladeren, cannabis en cannabishars van de planten waaruit zij worden verkregen.  
 
-(u) *„Lijst I", „Lijst II", „Lijst III"* en *„Lijst IV"* betekenen de overeenkomstig genummerde lijsten van verdovende middelen of preparaten, die aan dit Verdrag zijn gehecht, zoals van tijd tot tijd overeenkomstig artikel 3 gewijzigd.  
+(u) *„Lijst I”, „Lijst II”, „Lijst III”* en *„Lijst IV”* betekenen de overeenkomstig genummerde lijsten van verdovende middelen of preparaten, die aan dit Verdrag zijn gehecht, zoals van tijd tot tijd overeenkomstig artikel 3 gewijzigd.  
 
-(v) *„Secretaris-Generaal"* betekent de Secretaris-Generaal van de Verenigde Naties.  
+(v) *„Secretaris-Generaal”* betekent de Secretaris-Generaal van de Verenigde Naties.  
 
-(w) *„Bijzondere voorraden"* betekent de hoeveelheid verdovende middelen die in een land of gebied wordt aangehouden door de regering van dat land of gebied voor bijzondere regeringsdoeleinden en om het hoofd te bieden aan bijzondere omstandigheden; de uitdrukking *„bijzondere doeleinden"* wordt op overeenkomstige wijze uitgelegd.  
+(w) *„Bijzondere voorraden”* betekent de hoeveelheid verdovende middelen die in een land of gebied wordt aangehouden door de regering van dat land of gebied voor bijzondere regeringsdoeleinden en om het hoofd te bieden aan bijzondere omstandigheden; de uitdrukking *„bijzondere doeleinden”* wordt op overeenkomstige wijze uitgelegd.  
 
-(x) *„Voorraden"* betekent de in een land of gebied aangehouden hoeveelheden verdovende middelen die bestemd zijn voor: 
+(x) *„Voorraden”* betekent de in een land of gebied aangehouden hoeveelheden verdovende middelen die bestemd zijn voor: 
 
 (i) verbruik in het land of gebied voor geneeskundige en wetenschappelijke doeleinden,  
 
@@ -924,10 +924,10 @@ Preambule De Partijen, Bezorgd om de gezondheid en het welzijn der mensheid, Erk
 
 (iv) door apothekers of andere daartoe gemachtigde kleinhandelaren en door instellingen of bevoegde personen die behoorlijk gemachtigd zijn tot de uitoefening van therapeutische of wetenschappelijke functies, of  
 
-(v) als „bijzondere voorraden".    
+(v) als „bijzondere voorraden”.    
 
-(y) *„Gebied"* betekent ieder deel van een Staat dat, wat het in artikel 31 vervatte systeem van invoercertificaten en uitvoervergunningen betreft, behandeld wordt als een afzonderlijke eenheid. Deze definitie geldt niet voor de uitdrukking „gebied" zoals deze wordt gebruikt in de artikelen 42 en 46.     
-2.  In dit Verdrag wordt een verdovend middel als „verbruikt" beschouwd, wanneer het is geleverd aan een persoon of onderneming voor afgifte in het klein, voor geneeskundig gebruik of voor wetenschappelijk onderzoek; de uitdrukking *„verbruik"* wordt op overeenkomstige wijze uitgelegd.   
+(y) *„Gebied”* betekent ieder deel van een Staat dat, wat het in artikel 31 vervatte systeem van invoercertificaten en uitvoervergunningen betreft, behandeld wordt als een afzonderlijke eenheid. Deze definitie geldt niet voor de uitdrukking „gebied” zoals deze wordt gebruikt in de artikelen 42 en 46.     
+2.  In dit Verdrag wordt een verdovend middel als „verbruikt” beschouwd, wanneer het is geleverd aan een persoon of onderneming voor afgifte in het klein, voor geneeskundig gebruik of voor wetenschappelijk onderzoek; de uitdrukking *„verbruik”* wordt op overeenkomstige wijze uitgelegd.   
 
 ### Artikel  2  
 
@@ -1242,7 +1242,7 @@ Partijen dienen te beschikken over een bijzondere administratie belast met de to
 ####Bijzondere bepaling van toepassing op de verbouw
 
 1.  In alle gevallen waarin, gezien de in het land of het gebied van een Partij heersende omstandigheden, het verbod van de verbouw van de papaver, de cocaplant of de cannabisplant naar de mening van die Partij de meest geschikte maatregel is om de volksgezondheid en het openbaar welzijn te beschermen en om te verhinderen dat verdovende middelen een weg vinden naar de sluikhandel, verbiedt de betrokken Partij de verbouw.   
-2.   Een Partij die de verbouw van de papaver of de cannabisplant verbiedt, neemt passende maatregelen tot inbeslagneming en vernietiging van clandestien verbouwde planten, met uitzondering van kleine hoeveelheden die de Partij nodig heeft voor wetenschappelijke doeleinden of voor onderzoek.  
+2.  Een Partij die de verbouw van de papaver of de cannabisplant verbiedt, neemt passende maatregelen tot inbeslagneming en vernietiging van clandestien verbouwde planten, met uitzondering van kleine hoeveelheden die de Partij nodig heeft voor wetenschappelijke doeleinden of voor onderzoek.   
 
 ### Artikel  23  
 
@@ -1251,7 +1251,7 @@ Partijen dienen te beschikken over een bijzondere administratie belast met de to
 1.  Een Partij die de verbouw van papaver voor de produktie van opium toelaat, richt, indien zij dit niet reeds heeft gedaan, een of meer regeringsbureaus (hierna in dit artikel te noemen Bureau) op en houdt deze in stand om de in dit artikel vereiste werkzaamheden uit te voeren.   
 2.  Elke zodanige Partij past de volgende bepalingen toe op de verbouw van de papaver voor de produktie van opium en op opium: 
 
-(a) het Bureau geeft de gebieden aan waarin, en de stukken land arop, de verbouw van de papaver voor de produktie van opium is toegelaten;  
+(a) het Bureau geeft de gebieden aan waarin, en de stukken land waarop, de verbouw van de papaver voor de produktie van opium is toegelaten;  
 
 (b) alleen verbouwers die een desbetreffende vergunning van het Bureau hebben ontvangen zijn gerechtigd de verbouw uit te oefenen;  
 
@@ -1279,7 +1279,7 @@ Partijen dienen te beschikken over een bijzondere administratie belast met de to
 
 (ii) de naam van het land of van de landen waarnaar zij opium denkt uit te voeren;   het Comité kan een dergelijke mededeling goedkeuren of de Partij aanbevelen geen opium voor uitvoer te produceren.  
 
-(b) Indien een andere Partij dan die bedoeld in lid 3, opium voor uitvoer wenst te produceren in hoeveelheden die meer bedragen dan vijf ton per jaar, stelt zij de Raad hiervan in kennis en verstrekt ij de terzake dienende gegevens, waaronder begrepen: 
+(b) Indien een andere Partij dan die bedoeld in lid 3, opium voor uitvoer wenst te produceren in hoeveelheden die meer bedragen dan vijf ton per jaar, stelt zij de Raad hiervan in kennis en verstrekt hierbij de terzake dienende gegevens, waaronder begrepen: 
 
 (i) de raming der hoeveelheden die voor uitvoer geproduceerd moeten worden;  
 
@@ -1295,7 +1295,7 @@ Partijen dienen te beschikken over een bijzondere administratie belast met de to
 
 (ii) een Partij die mededeling heeft gedaan aan het Comité zoals bepaald in alinea (*a*) van lid 2; of  
 
-(iii) een Partij die de goedkeuring van de Raad heeft verkregen zoals bepaald in alinea (*b* van lid 2.    
+(iii) een Partij die de goedkeuring van de Raad heeft verkregen zoals bepaald in alinea (*b*) van lid 2.    
 
 (b) Ondanks het bepaalde in alinea (*a*) van dit lid, mag een Partij opium invoeren, die geproduceerd werd door een land dat opium produceerde en uitvoerde gedurende een periode van tien jaar voorafgaande aan 1 januari 1961, indien zulk een land een nationaal orgaan of bureau van toezicht als bedoeld in artikel 23 heeft opgericht en onderhoudt en over doeltreffende middelen beschikt om ervoor te zorgen, dat de door haar geproduceerde opium niet zijn weg in de sluikhandel vindt.     
 5.  De bepalingen van dit Verdrag beletten een Partij niet: 
@@ -1562,7 +1562,7 @@ Dit Verdrag is van toepassing op alle buiten het moederland gelegen gebieden voo
 
 1.  De bepalingen van dit Verdrag beëindigen en vervangen, bij de inwerkingtreding daarvan tussen de Partijen daarbij, de bepalingen van de volgende verdragen: 
 
-(a) het Internationaal Opiumverdrag, ondertekend te 's-Gravenge op 23 januari 1912;  
+(a) het Internationaal Opiumverdrag, ondertekend te 's-Gravenhage op 23 januari 1912;  
 
 (b) de Overeenkomst nopens de vervaardiging van, de binnenlandse handel in en het gebruik van bereid opium, ondertekend te Genève op 11 februari 1925;  
 
@@ -1570,16 +1570,16 @@ Dit Verdrag is van toepassing op alle buiten het moederland gelegen gebieden voo
 
 (d) het Verdrag tot beperking van de vervaardiging en tot regeling van de distributie van verdovende middelen, ondertekend te Genève op 13 juli 1931;  
 
-(e) de Overeenkomst nopens het toezicht op het opiumschuivenin het Verre-Oosten, ondertekend te Bangkok op 27 november 1931;  
+(e) de Overeenkomst nopens het toezicht op het opiumschuiven in het Verre-Oosten, ondertekend te Bangkok op 27 november 1931;  
 
 (f) het op 11 december 1946 te Lake Success ondertekende Protocol tot wijziging van de Overeenkomsten, Verdragen en Protocollen inzake verdovende middelen, gesloten te 's-Gravenhage op 23 januari 1912, te Genève op 11 februari 1925, 19 februari 1925 en 13 juli 1931, te Bangkok op 27 november 1931 en te Genève op 26 juni 1936, behalve voor zover dit op laatstgenoemd Verdrag betrekking heeft;  
 
-(g) de in de alinea's (a ) tot en met (e ) bedoelde Verdragen en Overeenkomsten zoals deze zijn gewijzigd bij het in alinea (ƒ ) genoemde Protocol van 1946;  
+(g) de in de alinea's (*a*) tot en met (*e*) bedoelde Verdragen en Overeenkomsten zoals deze zijn gewijzigd bij het in alinea (*f*) genoemde Protocol van 1946;  
 
 (h) het op 19 november 1948 te Parijs ondertekende Protocol tot het onder internationaal toezicht brengen van verdovende middelen welke buiten de werking vallen van het Verdrag van 13 juli 1931 tot beperking van de vervaardiging en tot regeling van de distributie van verdovende middelen, zoals gewijzigd bij het op 11 december 1946 te Lake Success ondertekende Protocol;  
 
 (i) het Protocol tot beperking en regeling van de verbouw van de papaver, alsmede van de produktie van, de internationale handel en groothandel in, en het gebruik van opium, ondertekend te New York op 23 juni 1953, indien dit Protocol in werking mocht zijn getreden.     
-2.  Bij de inwerkingtreding van dit Verdrag wordt artikel 9 van het Verdrag tot onderdrukking van de sluikhandel in verdovende middelen, ondertekend te Genève op 26 juni 1936, tussen Partijen daarbij die eveneens Partij bij dit Verdrag zijn, beëindigd en vervangen door lid 2(b ) van artikel 36 van dit Verdrag, met dien verstande dat zulk een Partij door middel van een kennisgeving aan de Secretaris-Generaal kan bepalen, dat bovenbedoeld artikel 9 van kracht blijft.   
+2.  Bij de inwerkingtreding van dit Verdrag wordt artikel 9 van het Verdrag tot onderdrukking van de sluikhandel in verdovende middelen, ondertekend te Genève op 26 juni 1936, tussen Partijen daarbij die eveneens Partij bij dit Verdrag zijn, beëindigd en vervangen door lid 2(*b*) van artikel 36 van dit Verdrag, met dien verstande dat zulk een Partij door middel van een kennisgeving aan de Secretaris-Generaal kan bepalen, dat bovenbedoeld artikel 9 van kracht blijft.   
 
 ### Artikel  45  
 
@@ -1628,7 +1628,7 @@ Dit Verdrag is van toepassing op alle buiten het moederland gelegen gebieden voo
 
 (d) het gebruik van cannabis, cannabishars, extracten en tincturen van cannabis voor niet-geneeskundige doeleinden; en  
 
-(e) produktie en vervaardiging van en de handel in de onder (a) t/m (d) bedoelde verdovende middelen voor de daarin vermelde doeleinden.     
+(e) produktie en vervaardiging van en de handel in de onder (*a*) t/m (*d*) bedoelde verdovende middelen voor de daarin vermelde doeleinden.     
 2.  De voorbehouden krachtens lid 1 zijn onderworpen aan de volgende beperkingen: 
 
 (a) de in lid 1 vermelde handelingen zijn slechts toegestaan voor zover zij in de gebieden ten aanzien waarvan het voorbehoud is gemaakt van oudsher gebruikelijk en op 1 januari 1961 geoorloofd waren;  
@@ -1646,20 +1646,20 @@ Dit Verdrag is van toepassing op alle buiten het moederland gelegen gebieden voo
 (g) de produktie en de vervaardiging van en de handel in de in lid 1 bedoelde verdovende middelen voor elk der daarin genoemde handelingen moeten worden verminderd en tenslotte afgeschaft gelijktijdig met de vermindering en afschaffing van die handelingen.     
 3.  Een Partij die een voorbehoud maakt krachtens lid 1 dient: 
 
-(a) in het jaarverslag aan de Secretaris-Generaal overeenkomstig artikel 18, lid 1( ), een uiteenzetting te geven van de in het voorfgaande jaar gemaakte vorderingen ten aanzien van de afschaffing van het gebruik, de produktie, vervaardiging of handel als bedoeld in lid 1; en  
+(a) in het jaarverslag aan de Secretaris-Generaal overeenkomstig artikel 18, lid 1(*a*), een uiteenzetting te geven van de in het voorafgaande jaar gemaakte vorderingen ten aanzien van de afschaffing van het gebruik, de produktie, vervaardiging of handel als bedoeld in lid 1; en  
 
 (b) het Comité afzonderlijke ramingen (artikel 19) en statistieken (artikel 20) te doen toekomen op de wijze en in de vorm door het Comité voorgeschreven met betrekking tot de handelingen ten aanzien waarvan een voorbehoud werd gemaakt.     
 4.  
 
 (a) Indien een Partij die een voorbehoud maakt krachtens lid 1 de volgende gegevens niet verstrekt: 
 
-(i) het in lid 3 (a ) bedoelde verslag, en wel binnen zes maanden na het verstrijken van het jaar waarop de gegevens betrekking hebben;  
+(i) het in lid 3 (*a*) bedoelde verslag, en wel binnen zes maanden na het verstrijken van het jaar waarop de gegevens betrekking hebben;  
 
-(ii) de in lid 3(*b* bedoelde ramingen, en wel binnen drie maanden na de door het Comité voor dat doel overeenkomstig artikel 12, lid 1, vastgestelde datum;  
+(ii) de in lid 3 (*b*) bedoelde ramingen, en wel binnen drie maanden na de door het Comité voor dat doel overeenkomstig artikel 12, lid 1, vastgestelde datum;  
 
-(iii) de in lid 3 (b ) bedoelde statistieken, en wel binnen drie maanden na de datum waarop zij overeenkomstig artikel 20, lid 2, dienen te worden verstrekt,   geeft het Comité of de Secretaris-Generaal, al naar de omstandigheden, aan de betrokken Partij kennis van de vertraging en verzoekt daarbij toezending van die gegevens binnen een termijn van drie maanden na ontvangst van die kennisgeving.  
+(iii) de in lid 3 (*b*) bedoelde statistieken, en wel binnen drie maanden na de datum waarop zij overeenkomstig artikel 20, lid 2, dienen te worden verstrekt,   geeft het Comité of de Secretaris-Generaal, al naar de omstandigheden, aan de betrokken Partij kennis van de vertraging en verzoekt daarbij toezending van die gegevens binnen een termijn van drie maanden na ontvangst van die kennisgeving.  
 
-(b) Indien de Partij nalaat binnen deze termijn te voldoen aan het verzoek van het Comité of de Secretaris-Generaal, houdt het desetreffende krachtens lid 1 gemaakte voorbehoud op van kracht te zijn.     
+(b) Indien de Partij nalaat binnen deze termijn te voldoen aan het verzoek van het Comité of de Secretaris-Generaal, houdt het desbetreffende krachtens lid 1 gemaakte voorbehoud op van kracht te zijn.     
 5.  Een Staat die voorbehouden heeft gemaakt kan deze voorbehouden te allen tijde door middel van een schriftelijke kennisgeving geheel of gedeeltelijk intrekken.   
 
 ### Artikel  50  
