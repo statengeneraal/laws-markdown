@@ -220,6 +220,13 @@ In witness whereof the undersigned plenipotentiaries have signed the present Agr
 
 On signing the Agreement of today's date regarding the Status of the North Atlantic Treaty Organisation, National Representatives and International Staff, the Plenipotentiaries of the Kingdom of Belgium, the Grand Duchy of Luxembourg and the Kingdom of the Netherlands make the following Declaration: The nationals of the Kingdom of Belgium, the Grand Duchy of Luxembourg and the Kingdom of the Netherlands may not avail themselves of the provisions of the present Agreement to claim in the territory of one of these afore-mentioned Powers any exemption which they do not enjoy in their own territory with respect to duties, taxes and other dues which have been or will be standardised by virtue of conventions which have been or will be concluded for the purposes of bringing about the Economic Union of Belgium, Luxembourg and the Netherlands.   
 
+####Agreement on the Status of the North Atlantic Treaty Organization, National Representatives and International Staff
+
+Agreed minute  
+
+The North Atlantic Council Deputies, Considering that under the Agreement on the Status of the North Atlantic Treaty Organization, National Representatives and International Staff, signed at Ottawa on the 20th September, 1951, certain functions are vested in the Chairman of the Council Deputies; And considering that, in consequence of the reorganization of the North Atlantic Treaty Organization, the office of Chairman of the Council Deputies will be abolished on the 4th April, 1952; Agree on behalf of their Governments that the said functions shall from that date be exercised by the Secretary-General of the Organization, or in his absence by his Deputy, or by such other person as the North Atlantic Council may decide.   
+Dated this fourth day of April 1952.  
+
 ####Verdrag nopens de rechtspositie van de Noord-Atlantische Verdragsorganisatie, van de nationale vertegenwoordigers bij haar organen en van haar internationale staf
 
 De Staten die dit Verdrag ondertekenen, Overwegende dat het voor de uitoefening van hun functies en de vervulling van hun zending noodzakelijk is dat de Noord-Atlantische Verdragsorganisatie, haar internationale staf en de vertegenwoordigers van Staten-Leden, die vergaderingen bijwonen van de Noord-Atlantische Verdragsorganisatie, de status hebben welke hieronder vermeld is, Zijn overeengekomen als volgt:    
