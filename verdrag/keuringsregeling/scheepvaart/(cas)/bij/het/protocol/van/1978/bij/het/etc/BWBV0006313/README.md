@@ -4,15 +4,11 @@
 
 ####Condition Assessment Scheme
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 ### 1  
 
 ####PREAMBLE
 
-Treedt in werking op een nader te bepalen tijdstip   
-
-1.1 The Condition Assessment Scheme (CAS) is intended to complement the requirements of Annex B of the Guidelines on the enhanced programme of inspections during surveys of bulk carriers and oil tankers (hereinafter called Enhanced Survey Programme), adopted by the Assembly of the International Maritime Organization by resolution A.744(18), as amended. The CAS is to verify that the structural condition of single hull oil tankers at the time of survey is acceptable and, provided subsequent periodical surveys are satisfactorily completed and effective maintenance is carried out by the ship's operator, will continue to be acceptable for a continued period of operation, as indicated in the Statement of Compliance.  
+1.1 The Condition Assessment Scheme (CAS) is intended to complement the requirements of Annex B of the Guidelines on the enhanced programme of inspections during surveys of bulk carriers and oil tankers (hereinafter called Enhanced Survey Programme), adopted by the Assembly of the International Maritime Organization by resolution A.744(18), as amended. The CAS is to verify that the structural condition of single hull oil tankers at the time of survey is acceptable and, provided subsequent periodical surveys are satisfactorily completed and effective maintenance is carried out by the ship's operator, will continue to be acceptable for a continued period of operation, as indicated in the Statement of Compliance, or Interim Statement of Compliance, as applicable.  
 
 1.2 The requirements of the CAS include enhanced and transparent verification of the reported structural condition and of the ship and verification that the documentary and survey procedures have been properly carried out and completed.  
 
@@ -25,14 +21,10 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####PURPOSE
 
-Treedt in werking op een nader te bepalen tijdstip   
-
-The purpose of the Condition Assessment Scheme is to provide an international standard to meet the requirements of regulation 13G(7) of Annex I of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, as amended by resolution MEPC.99(46).    
+The purpose of the Condition Assessment Scheme is to provide an international standard to meet the requirements of regulations 13G(6) and (7) and 13H(6)(a) of Annex I of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, as amended by resolution MEPC.99(46).    
 ### 3  
 
 ####DEFINITIONS
-
-Treedt in werking op een nader te bepalen tijdstip   
 
 For the purpose of the CAS, unless expressly provided otherwise: 
 
@@ -40,86 +32,80 @@ For the purpose of the CAS, unless expressly provided otherwise:
 
 3.2 “Regulation” means the regulations contained in Annex I of MARPOL 73/78.  
 
-3.3 “Resolution A.744(18), as amended” means the Guidelines on the Enhanced Programme of Inspections during Surveys of Bulk Carriers and Oil tankers adopted by the Assembly of the International Maritime Organization by resolution A.744(18), as amended by Resolution 2 of the 1997 SOLAS Conference and by resolutions MSC.49(66) and MSC.105(73).  
+3.3 “Recognised Organization (RO)” means an organization recognized by the Administration to perform the surveys in accordance with the provisions of regulation 4(3) of Annex I of MARPOL 73/78 . <sup> *  Under Regulation XI/1 of SOLAS 74, as amended, resolutions A.739(18) and A.789(19) are applicable to Recognized Organizations.  </sup>  
 
-3.4 “Recognised Organization (RO)” means an organization recognized by the Administration to perform the surveys in accordance with the provisions of regulation 4(3) of Annex I of MARPOL 73/78 . <sup> *  Under Regulation XI/1 of SOLAS 74, as amended, resolutions A.739(18) and A.789(19) are applicable to Recognized Organizations.  </sup>  
+3.4 “Administration” means the Government of the State as defined in Article 2(5) of MARPOL 73/78.  
 
-3.5 “Administration” means the Government of the State as defined in Article 2(5) of MARPOL 73/78.  
+3.5 “Category 2 oil tanker” means an oil tanker of 20,000 tons deadweight and above carrying crude oil, fuel oil, heavy diesel oil or lubricating oil as cargo, and of 30,000 tons deadweight and above carrying oil other than the above, which complies with the requirements for new oil tankers as defined in regulation 1(26) of Annex I of MARPOL 73/78.  
 
-3.6 “Category 1 oil tanker” means an oil tanker of 20,000 tons deadweight and above carrying crude oil, fuel oil, heavy diesel oil or lubricating oil as cargo, and of 30,000 tons deadweight and above carrying oil other than the above, which does not comply with the requirements for new oil tankers as defined in regulation 1(26) of Annex I of MARPOL 73/78.  
+3.6 'Category 3 oil tanker' means an oil tanker of 5,000 tons deadweight and above but less than that specified in regulation 13G(3)(a) or (b) of Annex I of MARPOL 73/78.  
 
-3.7 “Category 2 oil tanker” means an oil tanker of 20,000 tons deadweight and above carrying crude oil, fuel oil, heavy diesel oil or lubricating oil as cargo, and of 30,000 tons deadweight and above carrying oil other than the above, which complies with the requirements for new oil tankers as defined in regulation 1(26) of Annex I of MARPOL 73/78.  
+3.7 “Company” means the owner of the ship or any other organization or person such as the manager or the bareboat charterer, who has assumed the responsibility for the operation of the ship from the owner of the ship and who, on assuming such responsibility, has agreed to take over all duties and responsibilities imposed by the International Safety Management (ISM) Code.  
 
-3.8 “Company” means the owner of the ship or any other organization or person such as the manager or the bareboat charterer, who has assumed the responsibility for the operation of the ship from the owner of the ship and who, on assuming such responsibility, has agreed to take over all duties and responsibilities imposed by the International Safety Management (ISM) Code.  
+3.8 “Substantial corrosion” means an extent of corrosion such that the assessment of the corrosion pattern indicates wastage in excess of 75% of the allowable margins, but within acceptable limits.  
 
-3.9 “Substantial corrosion” means an extent of corrosion such that the assessment of the corrosion pattern indicates wastage in excess of 75% of the allowable margins, but within acceptable limits.  
+3.9 “GOOD condition” means a coating condition with only minor spot rusting.  
 
-3.10 “GOOD condition” means a coating condition with only minor spot rusting.  
+3.10 “Thickness Measurement (TM) Firm” means a qualified company certified by a RO in accordance with the principles stipulated in annex 7 to Annex B to resolution A.744(18), as amended.  
 
-3.11 “Thickness Measurement (TM) Firm” means a qualified company certified by a RO in accordance with the principles stipulated in annex 7 to Annex B to resolution A.744(18), as amended.  
+3.11 “Critical Structural Areas” are locations which have been identified from calculations to require monitoring or from the service history of the subject ship or from similar or sister ships to be sensitive to cracking, buckling or corrosion which would impair the structural integrity of the ship.  
 
-3.12 “Critical Structural Areas” are locations which have been identified from calculations to require monitoring or from the service history of the subject ship or from similar or sister ships to be sensitive to cracking, buckling or corrosion which would impair the structural integrity of the ship.  
+3.12 “Suspect Areas” are locations showing substantial corrosion and/or are considered by the attending surveyor to be prone to rapid wastage.  
 
-3.13 “Suspect Areas” are locations showing substantial corrosion and/or are considered by the attending surveyor to be prone to rapid wastage.  
-
-3.14 Organization” means the International Maritime Organization.      
+3.13 Organization” means the International Maritime Organization.      
 ### 4  
 
 ####GENERAL PROVISIONS
-
-Treedt in werking op een nader te bepalen tijdstip   
 
 4.1 The Administration shall issue, or cause to be issued, detailed instructions to the RO which shall ensure that the CAS surveys are carried out in accordance with the provisions of sections 5 through 10 of this Scheme.  
 
 4.2 Nothing in this Scheme shall prevent an Administration from carrying out the CAS surveys itself, provided that such surveys are at least as effective as those prescribed in sections 5 through 10 in this Scheme.  
 
-4.3 The Administration shall require Category 1 and Category 2 oil tankers flying its flag to remain out of service during the periods referred to in paragraphs 5.1.1 and 5.1.2 respectively, until these oil tankers are issued with a valid Statement of Compliance.      
+4.3 The Administration shall require Category 2 and Category 3 oil tankers flying its flag which are subject to the provisions of regulation 13G(7) to remain out of service during the periods referred to in paragraph 5.1.2, until these oil tankers are issued with a valid Statement of Compliance.      
 ### 5  
 
 ####APPLICATION, SCOPE AND TIMING
-
-Treedt in werking op een nader te bepalen tijdstip   
 
 ### 5.1  
 
 ####Application
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 The requirements of the CAS apply to: 
 
-.1 Category 1 oil tankers, as defined in section 3, where authorization is requested for continued service beyond the anniversary of the date of delivery of the ship in 2005, through to the date as specified in the schedule indicated for compliance with the double hull requirements of regulation 13F, detailed in regulation 13G.  
+.1 oil tankers of 5,000 tons deadweight and above and of 15 years and over after date of delivery of the ship, in accordance with regulation 13G(6);  
 
-.2 Category 2 oil tankers, as defined in section 3, where authorization is requested for continued service beyond the anniversary of the date of delivery of the ship in 2010, through to the date as specified in schedule indicated for compliance with the double hull requirements of regulation 13F, detailed in regulation 13G.      
+.2 oil tankers subject to the provisions of regulation 13G(7), where authorization is requested for continued service beyond the anniversary of the date of delivery of the ship in 2010; and  
+
+.3 oil tankers of 5,000 tons deadweight and above and of 15 years and over after date of delivery of the ship, carrying crude oil as cargo having a density at 15 ° C higher than 900 kg/m3 but lower than 945 kg/m3, in accordance with regulation 13H(6)(a).      
 ### 5.2  
 
 ####Scope of the CAS
-
-Treedt in werking op een nader te bepalen tijdstip   
 
 The CAS shall apply to surveys of the hull structure in way of cargo tanks, pump rooms, cofferdams, pipe tunnels, void spaces within the cargo area and all ballast tanks.    
 ### 5.3  
 
 ####Timing
 
-Treedt in werking op een nader te bepalen tijdstip   
+5.3.1 The CAS survey shall be aligned to the Enhanced Programme of Inspection.  
 
-5.3.1 The first CAS survey shall be aligned to the Enhanced Survey Programme of Inspection and shall be carried out concurrent with the scheduled intermediate or renewal survey due prior to the anniversary of the date of delivery of the ship in 2005 for Category 1 oil tankers and prior to the anniversary of the date of delivery of the ship in 2010 for Category 2 oil tankers.  
+5.3.2 The first CAS survey in accordance with regulation 13G(6) shall be carried out concurrent with the first scheduled intermediate or renewal survey after 5 April 2005, or when the ship reaches the 15 years of age, whichever occurs later.  
 
-5.3.2 Any subsequent CAS surveys, required for the renewal of the Statement of Compliance shall be carried out concurrently with the intermediate or renewal survey which has to be completed by the date of expiry of the Statement of Compliance.  
+5.3.3 The first CAS survey in accordance with regulation 13G(7) shall be carried out concurrent with the scheduled intermediate or renewal survey due prior to the anniversary of the date of delivery of the ship in 2010.  
 
-5.3.3 Notwithstanding the above, the Company may, with the agreement of the Administration, opt to carry out the first CAS survey at a different time from that of the due survey referred to above, provided that all the requirements of the CAS are complied with.       
+5.3.4 The first CAS survey in accordance with regulation 13H(6)(a) shall be carried out concurrent with the first scheduled intermediate or renewal survey after 5 April 2005.  
+
+5.3.5 In the case where the Statement of Compliance issued following the first CAS survey under 5.3.2 is valid beyond the anniversary of the date of delivery of the ship in 2010, that CAS may be treated as the first CAS carried out in compliance with regulation 13G(7).  
+
+5.3.6 Any subsequent CAS survey, required for the renewal of the Statement of Compliance, shall be carried out at intervals not exceeding 5 years and 6 months.  
+
+5.3.7 Notwithstanding the above, the Company may, with the agreement of the Administration, opt to carry out the CAS survey at a date earlier than the due date of the survey referred to above, provided that all the requirements of the CAS are complied with.       
 ### 6  
 
 ####SURVEY PLANNING REQUIREMENTS
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 ### 6.1  
 
 ####Preparations for the CAS survey
-
-Treedt in werking op een nader te bepalen tijdstip   
 
 6.1.1 General procedures 
 
@@ -139,7 +125,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 6.1.1.6 In special circumstances, such as re-activation from lay-up or unexpected events such as an extended stoppage period for hull or machinery damage, the Administration may, on a case by case basis, relax the time frame, outlined in 6.1.1.2 to 6.1.1.5, for commencement of CAS procedures.  
 
-6.1.1.7 Such relaxation shall, at all times, be subject to the RO having sufficient time to complete the CAS survey and for the Administration to review the CAS Final Report and issue the Statement of Compliance prior to the dates referred to in 5.1.    
+6.1.1.7 Such relaxation shall, at all times, be subject to the RO having sufficient time to complete the CAS survey and issue the Interim Statement of Compliance under regulation 13G(6) or 13H(6)(a), or the Administration to review the CAS Final Report and issue the Statement of Compliance under regulation 13G(7), as applicable, prior to re-entry of the ship to service.    
 
 6.1.2 Survey Plan for the CAS 
 
@@ -149,8 +135,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### 6.2  
 
 ####Survey Plan documentation
-
-Treedt in werking op een nader te bepalen tijdstip   
 
 6.2.1 In developing the Survey Plan, the following documentation shall be collected and reviewed with a view to identifying tanks, areas and structural elements to be examined: 
 
@@ -216,27 +200,28 @@ Treedt in werking op een nader te bepalen tijdstip
 
 .12 damage experience related to the ship in question; and  
 
-.13 critical Structural Areas and Suspect Areas, where relevant.        
+.13 critical Structural Areas and Suspect Areas, where relevant.    
+
+6.2.3 The Survey Plan shall be developed using the Model Survey Plan for CAS set out in Appendix 3.      
 ### 6.3  
 
 ####Documentation on board
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 6.3.1 The Company shall ensure that, in addition to the agreed Survey Plan, all other documents used in the development of the Survey Plan referred to in 6.2.1 are available on board at the time of the CAS survey.  
 
-6.3.2 Prior to the commencement of any part of the CAS survey, the attending surveyor(s) shall examine and ascertain the completeness of the on board documentation and shall review its contents with a view to ensuring that the Survey Plan remains relevant.       
+6.3.2 Prior to the commencement of any part of the CAS survey, the attending surveyor(s) shall examine and ascertain the completeness of the on board documentation and shall review its contents with a view to ensuring that the Survey Plan remains relevant.      
+### 6.4  
+
+####Conduct of CAS Surveys
+
+6.4.1 The conditions for CAS Survey, the conditions and method of access to the structures, the equipment for CAS Survey and the communication arrangements implemented during the CAS Survey shall meet the Mandatory Requirements for the Safe Conduct of CAS Surveys set out in Appendix 4.       
 ### 7  
 
 ####CAS SURVEY REQUIREMENTS
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 ### 7.1  
 
 ####General
-
-Treedt in werking op een nader te bepalen tijdstip   
 
 7.1.1 Prior to the commencement of any part of the CAS survey a meeting shall be held between the attending surveyor(s), the Company's representative(s) in attendance, the TM Firm Operator (as applicable) and the master of the ship for the purpose of ascertaining that all the arrangements envisaged in the Survey Plan are in place, so as to ensure the safe and efficient execution of the survey work to be carried out.  
 
@@ -255,23 +240,21 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Extent of overall and close-up surveys
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 7.2.1  *Overall survey*  An overall survey of all spaces set out in 5.2 shall be carried out at the CAS survey.  
 
 7.2.2  *Close-up survey*  The requirements for close-up surveys at the CAS survey are set out in the table below.  Table 7.2.2 
 
 | --- |
-|---|
+|:---|
 | Close up Survey Requirements  |
 | All web frame rings, in all ballast tanks (see note 1)  |
 | All web frame rings, in a cargo wing tank (see note 1)  |
-| A minimum of 30% of all web frame rings, in each remaining cargo wing tank (see note 1)  |
+| A minimum of 30% of all web frame rings, in each remaining cargo wing tank (see note 1 and 3)  |
 | All transverse bulkheads, in all cargo and ballast tanks (see note 2)  |
-| A minimum of 30% of deck and bottom transverses including adjacent structural members, in eac cargo centre tank  |
+| A minimum of 30% of deck and bottom transverses including adjacent structural members, in eac cargo centre tank (see note 3)  |
 | Additional complete transverse web frame rings or deck and bottom transverse including adjacent structural members as considered necessary by the attending surveyor  |
 
-Notes: 1 Complete transverse web frame ring including adjacent structural members. 2 Complete transverse bulkhead, including girder and stiffener systems and adjacent members.  
+Notes: 1 Complete transverse web frame ring including adjacent structural members. 2 Complete transverse bulkhead, including girder and stiffener systems and adjacent members. 3 The 30% shall be rounded up to the next whole integer.  
 
 7.2.3 The attending surveyors may extend the scope of the close-up survey as considered necessary, taking into account the Survey Plan, the condition of the spaces under survey, the condition of the corrosion prevention system and also the following: 
 
@@ -284,8 +267,6 @@ Notes: 1 Complete transverse web frame ring including adjacent structural member
 
 ####Extent of thickness measurements
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 7.3.1 The thickness measurements shall be recorded using the tables contained in Appendix 2 of Annex 10 of Annex B of resolution A.744(18), as amended. It is recommended that these records be kept in an electronic medium.  
 
 7.3.2 The thickness measurements shall be carried out either prior to or, to the maximum extent possible, concurrently with the close-up survey.  
@@ -293,7 +274,7 @@ Treedt in werking op een nader te bepalen tijdstip
 7.3.3 The minimum requirements for thickness measurements for the CAS surveys shall be those set out in the table below:  Table 7.3.3 
 
 | Thickness Measurements Requirements  |
-|---|
+|:---|
 | 1. Within the cargo area:  .1 Each deck plate  .2 Three transverse sections  .3 Each bottom plate  |
 | 2. Measurements of structural members subject to close-up survey according to 7.2.2, for general assessment and recording of corrosion pattern  |
 | 3. Suspect areas  |
@@ -315,14 +296,10 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####ACCEPTANCE CRITERIA
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 The acceptance criteria for the CAS shall be those set out in resolution A.744(18), as amended.    
 ### 9  
 
 ####CAS SURVEY REPORTS
-
-Treedt in werking op een nader te bepalen tijdstip   
 
 9.1 A survey report shall be completed for the CAS survey. The report shall indicate the date, location (place), and where relevant, whether or not the CAS survey was carried out in dry-dock afloat or at sea. When the CAS survey is split between different survey stations, a report shall be made for each portion of the CAS survey.  
 
@@ -371,13 +348,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####CAS FINAL REPORT TO THE ADMINISTRATION
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 ### 10.1  
 
 ####Review of the CAS by the RO
-
-Treedt in werking op een nader te bepalen tijdstip   
 
 10.1.1 The RO Headquarters shall carry out a verification review of the CAS survey reports, the documents, photographs and other records relating to the CAS, as specified in section 9, for the purpose of ascertaining and confirming that the requirements of the CAS have been met.  
 
@@ -386,11 +359,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####CAS Final Report to the Administration
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 10.2.1 The RO shall prepare a CAS Final Report to the Administration upon completion of the CAS survey and following the review of the CAS survey reports by the RO's Headquarters, as specified in paragraph 10.1.1.  
 
-10.2.2 The CAS Final Report shall be submitted by the RO to the Administration without delay and in any case not later than 2 months prior to the date the ship is required to be issued with a Statement of Compliance.  
+10.2.2 The CAS Final Report shall be submitted by the RO to the Administration without delay and: 
+
+.1 in the case of the CAS survey in accordance with regulation 13G(6) or 13H(6)(a), not later than 3 months after the completion of the CAS survey; or  
+
+.2 in the case of the CAS survey in accordance with regulation 13G(7), not later than 3 months after the completion of the CAS survey, or 2 months prior to the date the ship is required to be issued with a Statement of Compliance, whichever occurs earlier.    
 
 10.2.3 The CAS Final Report shall, at least, include: 
 
@@ -425,9 +400,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####VERIFICATION OF THE CAS BY THE ADMINISTRATION
 
-Treedt in werking op een nader te bepalen tijdstip   
-
-11.1 In addition to any instructions the Administration may have issued to the RO authorized to carry out surveys under the Enhance Survey Programme on its behalf, the Administration shall issue instructions to the RO and to Companies operating Category 1 and Category 2 oil tankers flying its flag, so that the Administration is able to monitor the performance of and verify compliance with the CAS.  
+11.1 In addition to any instructions the Administration may have issued to the RO authorized to carry out surveys under the Enhance Survey Programme on its behalf, the Administration shall issue instructions to the RO and to Companies operating Category 2 and Category 3 oil tankers flying its flag, so that the Administration is able to monitor the performance of and verify compliance with the CAS.  
 
 11.2 The Administration, for the purpose of ensuring uniform and consistent implementation of the CAS, shall establish, at least, procedures through which it will: 
 
@@ -454,8 +427,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####RE-ASSESSMENT OF SHIPS FOLLOWING FAILURE TO MEET THE REQUIREMENTS OF THE CAS
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 12.1 A ship which, in the opinion of the Administration, has failed to meet the requirements of the CAS, may be submitted for the CAS re-assessment. In such a case the grounds on which Administration declined the issue of a Statement of Compliance to the ship shall be addressed and dealt with and the remedial actions shall, thereafter, be reviewed for the purpose of ascertaining whether the requirements of the CAS have been complied with.  
 
 12.2 Such re-assessment, as a rule, shall be carried out by the RO and by the Administration who carried out the previous CAS.  
@@ -467,9 +438,11 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####STATEMENT OF COMPLIANCE
 
-Treedt in werking op een nader te bepalen tijdstip   
+13.1 The Administration shall, in accordance with its procedures, issue to each ship which completes the CAS to the satisfaction of the Administration, the Statement of Compliance. Such Statement shall be issued: 
 
-13.1 The Administration shall, in accordance with its procedures, issue to each ship which completes the CAS to the satisfaction of the Administration, a Statement of Compliance.  
+.1 in the case of the CAS in accordance with regulation 13G(6) or 13H(6)(a), not later than 5 months after the completion of the CAS survey; or  
+
+.2 in the case of the CAS in accordance with regulation 13G(7), not later than 5 months after the completion of the CAS survey, or the anniversary of the date of delivery of the ship in 2010, whichever occurs earlier, for the first CAS survey, and not later than the expiry date of the Statement of Compliance for any subsequent CAS survey.    
 
 13.2 The Statement of Compliance shall be drawn up in the official language of the issuing Administration in a form corresponding to the model given in Appendix 1. If the language used is neither English, French or Spanish, the text shall include a translation into one of these languages.  
 
@@ -479,17 +452,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 13.5 A certified copy of the Statement of Compliance and a copy of the Review Record, specified in paragraph 11.3, shall be forwarded by the Administration to the RO and shall be kept together with the CAS Final Report.  
 
-13.6 The Statement of Compliance shall be valid, following the completion of the CAS survey, until the earlier date of either: 
+13.6 The validity of the Statement of Compliance shall not exceed 5 years and 6 months from the date of completion of the CAS survey.  
 
-.1 the earlier date by which the ship is required to complete: 
-
-.1 an intermediate survey, in accordance with regulation 4(1)(c); or  
-
-.2 a renewal survey, in accordance with regulation 4(1)(b); or    
-
-.2 the date by which the vessel is required, in accordance with regulation 13G, to comply with the requirements of regulation 13F.    
-
-13.7 If the Statement of Compliance expires prior to the date by which the ship is required, in accordance with regulation 13G, to comply with the requirements of regulation 13F, that ship, in order to continue operating after the expiry of its Statement of Compliance, shall carry out a renewal CAS survey in accordance with the requirements of sections 5 to 10.  
+13.7 The RO which has carried out the CAS survey in accordance with regulation 13G(6) or 13H(6)(a), upon satisfactory completion of the survey, shall issue an Interim Statement of Compliance in a form corresponding to the model given in appendix 1, for a period not exceeding 5 months. It shall remain valid until its expiry date or the date of issue of a Statement of Compliance, whichever is the earlier date, and shall be accepted by other Parties to MARPOL 73/78.  
 
 13.8 The Administration may consider and declare that the Statement of Compliance of a ship remains valid and in full force and effect if: 
 
@@ -516,8 +481,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####COMMUNICATION OF INFORMATION TO THE ORGANIZATION
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 14.1 The Administration shall communicate to the Organization: 
 
 .1 particulars of the Statements of Compliance issued;  
@@ -532,17 +495,22 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Form of Statement of Compliance
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 ###Statement of Compliance
 
-Issued under the provisions of the Condition Assessment Scheme (CAS) adopted by the Organization by resolution MEPC (46) under the authority of the Government of: ......................................................................  *(full designation of the country)*   *Particulars of ship*  Name of ship .............................................. Distinctive number or letters .............................................. Port of registry .............................................. Gross tonnage .............................................. Deadweight of ship (metric tons) .............................................. IMO number .............................................. Category of tanker .............................................. THIS IS TO CERTIFY: 1 That the ship has been surveyed in accordance with the requirements of CAS (resolution MEPC (46); 2 That the survey showed that the structural condition of the ship is in all respects satisfactory and the ship complied with the requirements of the CAS. This Statement of Compliance is valid until .............................................. Issued at .............................................. (Place of issue) ........................................................................  *(Date of issue) (Signature of duly authorized official issuing the Statement)*   *(Seal or stamp of the authority, as appropriate).*    
+Issued under the provisions of the Condition Assessment Scheme (CAS) adopted by the Organization by resolution MEPC (46) under the authority of the Government of: ......................................................................  *(full designation of the country)*   *Particulars of ship*  Name of ship .............................................. Distinctive number or letters .............................................. Port of registry .............................................. Gross tonnage .............................................. Deadweight of ship (metric tons) .............................................. IMO number .............................................. Category of tanker .............................................. THIS IS TO CERTIFY: 1 That the ship has been surveyed in accordance with the requirements of CAS (resolution MEPC (46); 2 That the survey showed that the structural condition of the ship is in all respects satisfactory and the ship complied with the requirements of the CAS. Date of completion of the CAS survey: dd/mm/yyyy. This Statement of Compliance is valid until .............................................. Issued at .............................................. (Place of issue) ........................................................................  *(Date of issue) (Signature of duly authorized official issuing the Statement)*   *(Seal or stamp of the authority, as appropriate).*  
+###Form of Interim Statement of Compliance
+
+###Interim Statement of Compliance
+
+Issued under the provisions of the Condition Assessment Scheme (resolution MEPC.94(46), as amended) by: “ ....................................................................................................  *(full name of the Recognized Organization)*  Particular of ship .................................................................................................... Name of ship .................................................................................................... Distinctive number or letters .................................................................................................... Port of registry .................................................................................................... Gross tonnage .................................................................................................... Deadweight of ship (metric tons) .................................................................................................... IMO number .................................................................................................... Category of tanker .................................................................................................... THIS IS TO CERTIFY: 
+
+1. That the ship has been surveyed in accordance with the requirements of the Condition Assessment Scheme (CAS) (resolution MEPC.94(46), as amended);  
+
+2. That the survey showed that the structural conditions of the ship covered by CAS are in all respects satisfactory and the ship complies with the survey requirements of CAS.   Date of completion of the CAS survey: dd/mm/yyyy. This Statement is valid until ...................., or the date of issue of the Statement of Compliance, whichever is the earlier date. Issued at ....................................................................................................  *(Place of issue of the Statement)*  .................................................... ....................................................................................................  *(Date of issue) (Signature of duly authorized official issuing the Statement)*   *(Seal or stamp of the Recognized Organization, as appropriate)*    
 
 ### Appendix  2  
 
 ####Survey Planning Questionnaire
-
-Treedt in werking op een nader te bepalen tijdstip   
 
 The following information will enable the Company in co-operation with the RO to develop a Survey Plan complying with the requirements of the CAS. It is essential that the Company provides, when completing the present questionnaire, up-to-date information. The present questionnaire, when completed, shall provide all information and material required by the CAS. 
 ###Particulars
@@ -550,7 +518,7 @@ The following information will enable the Company in co-operation with the RO to
 Ship's name: IMO number: Flag State: Port of registry: Gross tonnage: Deadweight (metric tonnes): Summer load line draught: Date of delivery: Category of ship: Date for compliance with regulation 13F: Company: Report identification reference:  *Information on access provision for close-up surveys and thickness measurement:*  The Company is requested to indicate, in the table below, the means of access to the structures subject to close-up survey and thickness measurement. A *Close-up survey* is an examination where the details of structural components are within the close visual inspection range of the attending surveyor, i.e. preferably within reach of hand.  
 
 |--- | Space  | Temporary Staging  | Rafts  | Ladders  | Direct Access  | Other means (please specify)  |
-|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|
 | --- | Fore Peak  | --- | --- | --- | --- | --- |
 | Wing Tanks  | Under deck  | --- | --- | --- | --- | --- |
 | Side shell  | --- | --- | --- | --- | --- |
@@ -563,7 +531,7 @@ Ship's name: IMO number: Flag State: Port of registry: Gross tonnage: Deadweight
 | Transverse  | --- | --- | --- | --- | --- |
 
 |  *Tank Cleaning Procedures:*   |
-|---|
+|:---|
 | Indicate the frequency of the tank washing especially in way of uncoated tanks:  |
 | --- |
 | --- |
@@ -575,20 +543,20 @@ Ship's name: IMO number: Flag State: Port of registry: Gross tonnage: Deadweight
 | --- | Other medium (specify):  | --- |
 
 | *Inert Gas System* installed: Yes/No  |
-|---|
+|:---|
 | Indicate average oxygen content during inerting:  |
 | Details of use of the inert case plant:  |
 | --- |
 
 |  *Cargo history for the last 3 years together with indication as to whether cargo was heated*   |--- |
-|---|---|
+|:---|:---|
 | --- |
 | --- |
 | --- |
 | --- |
 
 |  *Ballast history for the last 3 years.*   |--- |
-|---|---|
+|:---|:---|
 | --- |
 | --- |
 | --- |
@@ -596,7 +564,7 @@ Ship's name: IMO number: Flag State: Port of registry: Gross tonnage: Deadweight
 *Inspections by the Company*  Using a format similar to that of the table below (which is given as an example), the Companyshould provide details of the results of their inspections, for the last 3 years – in accordance with the requirements of resolution A.744(18), as amended, and of the CAS – on all CARGO and BALLAST tanks and VOID spaces within the cargo area.  
 
 | Spaces(include frame numbers and p or s)  | Corrosion protection(1)  | Coating Extent(2)  | Coating Condition(3)  | Structural deterioration(4)  | Tank History(5)  |
-|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|
 |  *Cargo Centre Tanks*   | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- |
@@ -638,7 +606,7 @@ Ship's name: IMO number: Flag State: Port of registry: Gross tonnage: Deadweight
 5) D R=Damage & Repair L=Leakages CV=Conversion CPS=Corrosion protection system (reports to be attached)   Company: ............................ Name/Signature: ............................ Date: ............................  *Reports of port State control inspections*   
 
 | List the reports of port State control of inspection containing hull related deficiencies and relevant information on the deficiencies:  |
-|---|
+|:---|
 | --- |
 | --- |
 | --- |
@@ -649,7 +617,7 @@ Ship's name: IMO number: Flag State: Port of registry: Gross tonnage: Deadweight
 *Safety Management System*   
 
 | List non-conformities related to hull maintenance, including the associated corrective actions:  |
-|---|
+|:---|
 | --- |
 | --- |
 | --- |
@@ -659,15 +627,403 @@ Ship's name: IMO number: Flag State: Port of registry: Gross tonnage: Deadweight
 
 *Name of the Thickness Measurement (TM) firm*    
 
-####Keuringsreglement scheepvaart
+### Appendix  3  
 
-Treedt in werking op een nader te bepalen tijdstip   
+####Model Survey Plan for CAS
+
+####Basic Information and Particulars
+
+| Name of Ship  | :  |--- |
+|:---|:---|:---|
+| IMO Number  | :  | --- |
+| Flag State  | :  | --- |
+| Port of Registry  | :  | --- |
+| Gross Tonnage  | :  | --- |
+| Deadweight (metric tonnes)  | :  | --- |
+| Length Between Perpendiculars (m)  | :  | --- |
+| Breadth (m)  | :  | --- |
+| Depth (m)  | :  | --- |
+| Summer load line draught (m)  | :  | --- |
+| Builder  | :  | --- |
+| Hull Number  | :  | --- |
+| Recognised Organisation (RO)  | :  | --- |
+| RO Identity  | :  | --- |
+| Class Notation  | :  | --- |
+| Date of delivery  | :  | --- |
+| Category of Ship (1 or 2)  | :  | --- |
+| Date for compliance with Regulation 13F  | :  | --- |
+| Company  | :  | --- |
+| Thickness Measurement Firm  | :  | --- |
+
+### 1  
+
+####Preamble
+
+### 1.1  
+
+####Scope
+
+1.1.1. The present CAS Survey Plan covers the minimum extent of overall surveys, close-up surveys, thickness measurements and pressure testing within the cargo area, ballast tanks, including fore and aft peak tanks, required by the CAS adopted by resolution MEPC.94(46) as amended, for this ship.  
+
+1.1.2. The practical aspects of any part of the CAS survey shall be acceptable to the attending surveyor(s).      
+### 1.2  
+
+####Documentation
+
+All documents used in the development of the CAS survey plan shall be available onboard during the CAS survey as required by paragraph 6.3.1 of the CAS.     
+### 2  
+
+####Arrangement of Tanks
+
+This section of the Plan shall provide information (either in the form of plans or text) on the arrangement of tanks that fall within the scope of the CAS survey.    
+### 3  
+
+####List of tanks with information on their use, extent of coatings and corrosion protection system
+
+This section of the Plan shall indicate any changes relating to (and shall update) the information on the use of the tanks of the ship, the extent of coatings and the corrosion protective system provided in the Survey Planning Questionnaire.    
+### 4  
+
+####Conditions for survey (e.g. information regarding tank cleaning, gas freeing, ventilation, lighting etc.)
+
+This section of the Plan shall indicate any changes relating to (and shall update) the information on the conditions for survey provided in the Survey Planning Questionnaire.    
+### 5  
+
+####Provisions and method of access to structures
+
+This section of the Plan shall indicate any changes relating to (and shall update) the information on the provisions and methods of access to structures provided in the Survey Planning Questionnaire. The Mandatory Requirements for the Safe Conduct of CAS Surveys are contained in Appendix 3 to this Plan.    
+### 6  
+
+####List of equipment for survey (to be provided by the Company and supplemented by the Recognised Organisation, as necessary)
+
+This section of the Plan shall identify and list the equipment that will be made available for carrying out the CAS survey and the required thickness measurements.    
+### 7  
+
+####Survey requirements
+
+### 7.1  
+
+####Overall survey
+
+*The CAS requirements*  Paragraph 7.2.1 (and 5.2) of the CAS require that the hull structures in way of cargo tanks, pump rooms, cofferdams, pipe tunnels, void spaces within the cargo area and all ballast tanks shall undergo an overall survey.  *The Plan*  This section of the Plan shall identify and list the spaces that shall undergo an overall survey for this ship.    
+### 7.2  
+
+####Close up survey
+
+*The CAS requirements*  Paragraph 7.2.2 (and Table 7.2.2) of the CAS state the hull structures that shall undergo a close up survey. These are:  
+
+|  *Close up survey requirements*   |
+|:---|
+| All web frame rings, in all ballast tanks (see note 1)  |
+| All web frame rings, in a cargo wing tank, (see note 1)  |
+| A minimum of 30% of all web frame rings, in each remaining cargo wing tank (see notes 1 and 3)  |
+| All transverse bulkheads, in all cargo and ballast tanks (see note 2)  |
+| A minimum of 30 % of the deck and bottom transverses, including adjacent structural members, in each cargo centre tank (see note 3)  |
+| Additional complete transverse web frame rings or deck and bottom transverse including adjacent structural members as considered necessary by the surveyor  |
+
+Notes: <sup>1</sup> Complete transverse web frame ring including adjacent structural member. <sup>2</sup> Complete transverse bulkhead, including girder and stiffener systems and adjacent members <sup>3</sup> The 30% shall be rounded up to the next whole integer. In addition paragraphs 7.2.3 and 7.2.4 of the CAS provide further guidance as far as the extent and scope of the close up survey.  *The Plan*  This section of the Plan shall identify and list, using paragraph 7.2.2 (and Table 7.2.2) of the CAS, the hull structures that shall undergo a close up survey for this ship. In particular it shall: 
+
+.1 identify the cargo wing tank in which all web frame rings will undergo close up survey and indicate the number of web frame rings involved;  
+
+.2 identify the remaining cargo wing tanks in which a minimum of 30 % of the web frame rings will undergo a close up survey and indicate, for each tank, the number of web frame rings involved; and  
+
+.3 identify the cargo centre tanks in which a minimum of 30 % of the deck and bottom transverses, including adjacent structural members, in each cargo centre tank will undergo close up survey and indicate, for each tank, the number of the deck and bottom transverses, including adjacent structural members, involved.       
+### 8  
+
+####Identifications of tanks for tank testing
+
+*The CAS requirements*  Paragraph 6.2.2.9 of the CAS states that the tank testing shall be as per annex 3 of Annex B of resolution A.744(18) as amended.  *The Plan*  This section of the Plan shall identify and list the tanks that shall undergo tank testing for this ship.    
+### 9  
+
+####Identification of areas and sections for thickness measurements
+
+*The CAS requirements*  Paragraph 7.3.3 (and Table 7.3.3) of the CAS specify the minimum requirements for thickness measurements for CAS survey. These are as follows:  
+
+|  *Thickness measurement requirements*   |
+|:---|
+| 1. Within the cargo area: .1 Each deck plate .2 Three transverse sections .3 Each bottom plate  |
+| 2. Measurements of structural members subject to close-up survey according to the table above (for close up survey), for general assessment and recording of corrosion pattern  |
+| 3. Suspect areas  |
+| 4. Selected wind and water strakes outside the cargo area  |
+| 5. All wind and water strakes within the cargo area  |
+| 6. Internal structure in the fore and aft peak tanks  |
+| 7. All exposed main deck plates outside the cargo area and all exposed first tier superstructure deck plates  |
+
+Guidance Notes: <sup>1</sup> The attending surveyor(s) may increase the extent of thickness measurements as deemed necessary (see paragraph 7.3.5 of the CAS). <sup>2</sup> Transverse sections for thickness measurements shall be chosen where the largest material reductions are expected to `occur or are revealed from deck plating measurements (see section 7.3.8 of the CAS). <sup>3</sup> Where substantial corrosion is found, the extent of thickness measurements shall be increased accordingly (see paragraph 7.3.4 of the CAS). In addition paragraphs 7.3.4 to 7.3.8 of the CAS provide further guidance on the extent and increase of the thickness measurements to be taken.  *The Plan*  This section of the Plan shall identify and list, using paragraph 7.3.3 (and Table 7.3.3) of the CAS, the areas and sections where thickness measurements shall be taken.    
+### 10  
+
+####Hull Materials (to be specified by the Recognised Organisation)
+
+This section of the Plan shall identify, using a format similar to that of the table below, the materials used in the hull structures that fall within the scope of the CAS for the purpose of providing a concise reference.  
+
+|  *Location*   |  *Plating*   |  *Longitudinals and Stiffeners*   |  *Longitudinal Girders/Stringers*   |  *Transverse Girders/Web Frames/Stringers/Floors*   |
+|:---|:---|:---|:---|:---|
+| Deck  | --- | --- | --- | --- |
+| Bottom  | --- | --- | --- | --- |
+| Inner bottom  | --- | --- | --- | --- |
+| Side shell  | --- | --- | --- | --- |
+| Longitudinal bulkhead  | --- | --- | --- | --- |
+| Transverse bulkheads  | --- | --- | --- | --- |
+| Fore Peak  | --- | --- | --- | --- |
+| Aft Peak  | --- | --- | --- | --- |
+
+Guidance Notes: <sup>1</sup> Material grade is Mild Steel (MS) where not shown otherwise. <sup>2</sup> Material grade HTS indicates High Tensile Steel; SS indicates Stainless Steel; and CS indicates Clad Steel. <sup>3</sup> In case of repairs, material, grade, type and the extent shall be verified from drawings.    
+### 11  
+
+####Minimum thickness of hull structures (to be specified by the Recognised Organisation)
+
+This section of the Plan shall specify the minimum thickness* for hull structures of this ship that are subject to the CAS (indicate either (a) or preferably (b), if such information are available): 
+
+a) □ Determined from the attached wastage allowance table and the original thickness according to the hull structure plans of the ship; <sup> *  The wastage allowance tables shall be attached to the CAS Survey Plan.  </sup>  
+
+b) □ Given in the following table(s)    
+
+|  *Area or Location*   |  *Original Thickness (mm)*   |  *Minimum Thickness (mm)*   |  *Substantial Corrosion Thickness (mm)*   |
+|:---|:---|:---|:---|
+|  *Deck*   | --- | --- | --- |
+| Plating  | --- | --- | --- |
+| Longitudinals  | --- | --- | --- |
+| Longitudinal girders  | --- | --- | --- |
+|  *Bottom*   | --- | --- | --- |
+| Plating  | --- | --- | --- |
+| Longitudinals  | --- | --- | --- |
+| Longitudinal girders  | --- | --- | --- |
+|  *Ship side*   | --- | --- | --- |
+| Plating  | --- | --- | --- |
+| Longitudinals  | --- | --- | --- |
+| Longitudinal girders  | --- | --- | --- |
+|  *Longitudinal bulkhead*   | --- | --- | --- |
+| Plating  | --- | --- | --- |
+| Longitudinals  | --- | --- | --- |
+| Longitudinal girders  | --- | --- | --- |
+|  *Inner bottom*   | --- | --- | --- |
+| Plating  | --- | --- | --- |
+| Longitudinals  | --- | --- | --- |
+| Longitudinal girders  | --- | --- | --- |
+|  *Transverse bulkheads*   | --- | --- | --- |
+| Plating  | --- | --- | --- |
+| Stiffeners  | --- | --- | --- |
+|  *Transverse web frames, floors and stringers*   | --- | --- | --- |
+| Plating  | --- | --- | --- |
+| Flanges  | --- | --- | --- |
+| Stiffeners  | --- | --- | --- |
+|  *Cross ties*   | --- | --- | --- |
+| Flanges  | --- | --- | --- |
+| Webs  | --- | --- | --- |
+
+### 12  
+
+####Thickness Measurement (TM) Firm
+
+This section of the Plan shall identify changes, if any, relating to the information on the Thickness Measurement (TM) Firm provided in the Survey Planning Questionnaire.    
+### 13  
+
+####Damage experience related to the ship
+
+This section of the Plan shall, using the tables provided below, provide details of the hull damages for at least the last three years in way of the cargo and ballast tanks areas and void spaces within the cargo area. These damages are subject to CAS survey. Hull damages sorted by location for this ship (to be provided by the Company and supplemented by the Recognised Organisation, as necessary)  
+
+|  *Tank Number or Area*   |  *Possible cause, if known*   |  *Description of the damages*   |  *Location*   |  *Repair*   |  *Date of repair*   |
+|:---|:---|:---|:---|:---|:---|
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+
+Hull damages for sister or similar ships (if available) in the case of design related damage (to be provided by the Company and supplemented by the Recognised Organisation, as necessary)  
+
+|  *Tank Number or Area*   |  *Possible cause if known*   |  *Description of the damages*   |  *Location*   |  *Repair*   |  *Date of repair*   |
+|:---|:---|:---|:---|:---|:---|
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+
+### 14  
+
+####Areas identified with substantial corrosion from previous surveys (to be provided by the Recognised Organisation)
+
+This section of the Plan shall identify and list the areas of substantial corrosion from previous surveys.    
+### 15  
+
+####Critical structural areas and suspect areas(to be provided by Company and supplemented by the Recognised Organisation, as necessary)
+
+This section of the Plan shall identify and list the critical structural areas and the suspect areas, when such information is available.    
+### 16  
+
+####Other relevant comments and information(to be provided by the Company and supplemented by the Recognised Organisation)
+
+This section of the Plan shall provide any other relevant, to the CAS survey, comments and information.    
+
+####Appendices
+
+### Appendix  1  
+
+####– List of Plans
+
+Paragraph 6.2.2.2 of CAS requires that main structural plans of cargo and ballast tanks (scantling drawings), including information on regarding use of high tensile steel (HTS) to be provided. This Appendix of the Plan shall identify and list the main structural plans which form part of the Plan and which are attached to the Plan.    
+### Appendix  2  
+
+####– Survey Planning Questionnaire
+
+The Survey Planning Questionnaire, which has been submitted by the Company, shall be appended to the Plan.    
+### Appendix  3  
+
+####– Mandatory Requirements for the Safe Conduct of CAS Surveys
+
+The Mandatory Requirement for the Safe Conduct of CAS Surveys, which is contained in Appendix 4 shall be appended to the Plan.    
+### Appendix  4  
+
+####– CAS Schedule
+
+The CAS Schedule shall be attached to the Plan <sup> *  The CAS Schedule is contained in annex 3 to MEPC/Circ.390. The solwe purpose of the CAS Schedule is to aid Companies and Recognized Organizations in the preparation of CAS Survey and scholl be read and used for this purpose only.  </sup>    
+### Appendix  5  
+
+####– Other documentation
+
+This part of the Plan shall identify and list any other documentation that forms part of the Plan. Prepared on behalf of the Company by ........................ Date: ........................ ................................................................................................ (name and signature of authorised representative) Reviewed by the Recognized Organization for compliance with paragraph 6.2.2 of the CAS. Date: ........................ ................................................................................................ (name and signature of authorised representative)     
+
+### Appendix  4  
+
+####Mandatory Requirements for the Safe Conduct of CAS Surveys
+
+### 1  
+
+####General
+
+1.1. The present mandatory requirements have been developed for the safe conduct of CAS Surveys. Although the mandatory requirements make explicit reference to the CAS survey and to attending surveyor(s) it shall be used also in connection with any thickness measurement work required by the CAS.      
+### 2  
+
+####Conditions for survey
+
+2.1. The Company shall provide the necessary facilities for a safe conduct of the CAS survey.  
+
+2.2. In cases where the provisions of safety and required access are judged by the attending surveyors not to be adequate, the CAS survey of the spaces involved shall not proceed.  
+
+2.3. In order to enable the attending surveyors to carry out the CAS survey, provisions for proper and safe access, shall be agreed between Company and Recognised Organisation.  
+
+2.4. Details of the means of access are provided in the Survey Planning Questionnaire.  
+
+2.5. Tanks and spaces shall be safe for access . Tanks and spaces shall be gas free and shall be ventilated. Prior to entering a tank, void or enclosed space, it shall be verified that the atmosphere in the tank is free from hazardous gas and contains sufficient oxygen. <sup> *  Reference is made to chapter 10 of the International Safety Guide for Oil Tankers and Terminals (ISGOTT) - Entry into and working in enclosed spaces.  </sup>  
+
+2.6. Tanks and spaces shall be sufficiently clean and free from water, scale, dirt, oil residues, corrosion scale, sediments etc., to reveal significant corrosion, deformation, fractures, damages or other structural deterioration as well as the condition of the coating.  
+
+2.7. Sufficient illumination shall be provided to reveal significant corrosion, deformation, fractures, damages or other structural deterioration as well as the condition of the coating.  
+
+2.8. Where soft coatings have been applied, safe access shall be provided for the attending surveyor(s) to verify the effectiveness of the coating and to carry out an assessment of the conditions of internal structures, which may include spot removal of the coating. Where the presence of soft coating inhibits safe access, the soft coating shall be removed.  
+
+2.9. The attending surveyor(s) shall always be accompanied by at least one responsible person assigned by the Company experienced in tank and enclosed spaces inspection. In addition a backup team of at least two experienced persons shall be stationed at the hatch opening of the tank or space that is being surveyed. The back-up team shall continuously observe the work in the tank or space and shall keep lifesaving and evacuation equipment ready for use.      
+### 3  
+
+####Access to structures
+
+3.1. For overall survey, means shall be provided to enable the attending surveyors to examine the structure in a safe and practical way.  
+
+3.2. For close-up survey, one or more of the following means for access, acceptable to the attending surveyors, shall be provided: 
+
+– permanent staging and passages through structures  
+
+– temporary staging and passages through structures  
+
+– lifts and moveable platforms  
+
+– rafts or boats  
+
+– other equivalent means.    
+
+3.3. Surveys of tanks or spaces by means of rafts or boats may only be undertaken with the agreement of the attending surveyors, who shall take into account the safety arrangements provided, including weather forecasting and ship response in reasonable sea conditions.  
+
+3.4. When rafts or boats will be used for close up survey the following conditions shall be observed: 
+
+.1 only rough duty, inflatable rafts or boats, having satisfactory residual buoyancy and stability even if one chamber is ruptured, shall be used;  
+
+.2 the boat or raft shall be tethered to the access ladder and an additional person shall be stationed down the access ladder with a clear view of the boat or raft;  
+
+.3 appropriate lifejackets shall be available for all participants;  
+
+.4 the surface of water in the tank shall be calm (under all foreseeable conditions the expected rise of water within the tank shall not exceed 0.25 m) and the water level either stationary or falling. On no account shall the level of the water be rising while the boat or raft is in use;  
+
+.5 the tank or space must contain clean ballast water only. Even a thin sheen of oil on the water is not acceptable;  
+
+.6 at no time shall the water level be allowed to be within 1 m of the deepest under deck web face flat so that the survey team is not isolated from a direct escape route to the tank hatch. Filling to levels above the deck transverses shall only be contemplated if a deck access manhole is fitted and open in the bay being examined, so that an escape route for the survey party is available at all times;  
+
+.7 if the tanks (or spaces) are connected by a common venting system, or Inert Gas system, the tank in which the boat or raft is to be used shall be isolated to prevent a transfer of gas from other tanks (or spaces).    
+
+3.5. In addition to the above rafts or boats alone may be allowed for inspection of the under deck areas for tanks or spaces, if the depth of the webs are 1.5 m or less.  
+
+3.6. If the depth of the webs is more than 1.5 m, rafts or boats alone may be allowed only: 
+
+.1 when the coating of the under deck structure is in GOOD condition and there no evidence of wastage; or  
+
+.2 if a permanent means of access is provided in each bay to allow safe entry and exit. This means of access is to be direct from the deck via a vertical ladder and a small platform shall be fitted approximately 2 m below the deck.   If neither of the above conditions are met then staging shall be provided for the survey of the under deck area.      
+### 4  
+
+####Equipment for survey
+
+4.1. Thickness measurement shall normally be carried out by means of ultrasonic test equipment. The accuracy of the equipment shall be proven to the attending surveyor(s) as required.  
+
+4.2. One or more of the following fracture detection procedures may be required if deemed necessary by the attending surveyor(s): 
+
+– radiographic equipment  
+
+– ultrasonic equipment  
+
+– magnetic particle equipment  
+
+– dye penetrant  
+
+– other equivalent means.    
+
+4.3. Explosimeter, oxygen-meter, breathing apparatus, lifelines, riding belts with rope and hook and whistles together with instructions and guidance on their use shall be made available during the CAS survey. A safety check-list shall be provided.  
+
+4.4. Adequate and safe lighting shall be provided for the safe and efficient conduct of the CAS survey.  
+
+4.5. Adequate protective clothing shall be made available and used (e.g. safety helmet, gloves, safety shoes, etc) during the CAS survey.      
+### 5  
+
+####Meetings and Communication Arrangements
+
+5.1. The establishment of proper preparation and the close co-operation between the attending surveyors and the Company's representatives onboard prior to and during the CAS survey are an essential part in the safe and efficient conduct of the CAS survey. During the CAS survey on board safety meetings shall be held regularly.  
+
+5.2. Prior to commencement of the CAS survey a survey meeting shall be held between the attending surveyors the Company's representative(s) in attendance, the TM Firm Operator (as applicable) and the Master of the ship for the purpose to ascertain that all the arrangements envisaged in the Survey Plan are in place, so as to ensure the safe and efficient conduct of the survey work to be carried out.  
+
+5.3. The following is an indicative list of items that shall be addressed in the meeting: 
+
+.1 schedule of the vessel (i.e. the voyage, docking and undocking manoeuvres, periods alongside, cargo and ballast operations etc.);  
+
+.2 provisions and arrangements for thickness measurements (i.e. access, cleaning/de-scaling, illumination, ventilation, personal safety);  
+
+.3 extent of the thickness measurements;  
+
+.4 acceptance criteria (refer to the list of minimum thicknesses);  
+
+.5 extent of close up survey and thickness measurement considering the coating condition and suspect areas/areas of substantial corrosion;  
+
+.6 execution of thickness measurements;  
+
+.7 taking representative readings in general and where uneven corrosion/pitting is found;  
+
+.8 mapping of areas of substantial corrosion;  
+
+.9 communication between attending surveyor(s) the TM operator(s) and Company representative(s) concerning findings.    
+
+5.4. A communication system shall be arranged between the survey party in the tank or space being examined, the responsible officer on deck and, as the case may be, the navigation bridge. This system shall also include the personnel in charge of handling the ballast pump(s) if rafts or boats are used. The communication arrangements shall be maintained throughout the CAS survey.      
+
+####Keuringsreglement scheepvaart
 
 ### 1  
 
 ####PREAMBULE
-
-Treedt in werking op een nader te bepalen tijdstip   
 
 1.1 Met de keuringsregeling scheepvaart (Condition Assessment Scheme, CAS) wordt beoogd de vereisten aan te vullen van Bijlage B bij de richtlijnen inzake het uitgebreide inspectieprogramma bij inspecties van bulkschepen en olietankschepen (hierna te noemen het uitgebreide inspectieprogramma), aangenomen door de Vergadering van de Internationale Maritieme Organisatie bij resolutie A.744(18), zoals gewijzigd. Met de keuringsregeling scheepvaart dient te worden geverifieerd of de toestand van de constructie van enkelwandige olietankschepen ten tijde van de inspectie aanvaardbaar is en, mits de resultaten van de daarop volgende periodieke inspecties bevredigend afgerond zijn en de exploitant doelmatig onderhoud verricht aan het schip, aanvaardbaar zal blijven indien het schip langer in de vaart blijft, zoals vermeld in de verklaring van naleving.  
 
@@ -682,14 +1038,10 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####DOEL
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 Doel van de keuringsregeling scheepvaart is te voorzien in een internationale norm teneinde te voldoen aan de vereisten van Voorschrift 13G, zevende lid, van Bijlage I bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd bij het Protocol daarbij van 1978, zoals gewijzigd bij resolutie MEPC.99(46).    
 ### 3  
 
 ####BEGRIPSOMSCHRIJVINGEN
-
-Treedt in werking op een nader te bepalen tijdstip   
 
 Voor de toepassing van de keuringsregeling scheepvaart wordt, tenzij uitdrukkelijk anders bepaald, verstaan onder: 
 
@@ -724,8 +1076,6 @@ Voor de toepassing van de keuringsregeling scheepvaart wordt, tenzij uitdrukkeli
 
 ####ALGEMENE BEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 4.1 De Administratie verstrekt gedetailleerde instructies, of doet deze verstrekken, aan de erkende organisatie teneinde te waarborgen dat de CAS-inspecties worden uitgevoerd in overeenstemming met de bepalingen van de delen 5 tot en met 10 van deze regeling.  
 
 4.2 Niets uit deze regeling belet een Administratie de CAS-inspecties zelf uit te voeren, mits deze ten minste even doeltreffend zijn als de inspecties omschreven in de delen 5 tot en met 10 van deze regeling.  
@@ -735,13 +1085,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####TOEPASSING, REIKWIJDTE EN PLANNING
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 ### 5.1  
 
 ####Toepassing
-
-Treedt in werking op een nader te bepalen tijdstip   
 
 De vereisten van de keuringsregeling scheepvaart zijn van toepassing op: 
 
@@ -752,14 +1098,10 @@ De vereisten van de keuringsregeling scheepvaart zijn van toepassing op:
 
 ####Reikwijdte van de keuringsregeling scheepvaart
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 De keuringsregeling scheepvaart is van toepassing op inspecties van de rompconstructie wat betreft ladingtanks, pompkamers, kofferdammen, pijpentunnels, lege ruimtes binnen het ladinggedeelte en alle ballasttanks.    
 ### 5.3  
 
 ####Planning
-
-Treedt in werking op een nader te bepalen tijdstip   
 
 5.3.1 De eerste CAS-inspectie wordt afgestemd op het uitgebreide inspectieprogramma en voor olietankschepen van categorie 1 uitgevoerd in combinatie met de geplande tussentijdse inspectie of herkeuring voorafgaand aan de verjaardatum van de oplevering van het schip in 2005 en voor olietankschepen van categorie 2 voorafgaand aan de verjaardatum van de oplevering van het schip in 2010.  
 
@@ -770,13 +1112,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####VEREISTEN VOOR DE PLANNING VAN INSPECTIES
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 ### 6.1  
 
 ####Voorbereidingen voor CAS-inspecties
-
-Treedt in werking op een nader te bepalen tijdstip   
 
 6.1.1  *Algemene procedures*  
 
@@ -806,8 +1144,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### 6.2  
 
 ####Documenten voor het inspectieplan
-
-Treedt in werking op een nader te bepalen tijdstip   
 
 6.2.1 Bij het opstellen van het inspectieplan dienen de volgende documenten te worden verzameld en beoordeeld teneinde vast te stellen welke tanks, zones en onderdelen van de constructie dienen te worden onderzocht: 
 
@@ -878,8 +1214,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Documenten aan boord
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 6.3.1 De reder zorgt ervoor dat, behalve het overeengekomen inspectieplan, alle andere documenten die zijn gebruikt bij het opstellen van het inspectieplan bedoeld in 6.2.1, aan boord zijn ten tijde van de CAS-inspectie.  
 
 6.3.2 Alvorens met een onderdeel van de CAS-inspectie te beginnen, vergewist of vergewissen de aanwezige inspecteur of inspecteurs zich er steeds van of de documentatie aan boord compleet is en controleert of controleren de inhoud ervan om te waarborgen dat het inspectieplan relevant blijft.**       
@@ -887,13 +1221,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####VEREISTEN TEN AANZIEN VAN CAS-INSPECTIES
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 ### 7.1  
 
 ####Algemeen
-
-Treedt in werking op een nader te bepalen tijdstip   
 
 7.1.1 Voor het begin van ieder onderdeel van de CAS-inspectie komen de aanwezige inspecteur(s), de aanwezige vertegenwoordiger(s) van de reder, de medewerker van de firma voor diktemetingen (indien van toepassing) en de kapitein van het schip bijeen om vast te stellen of alle beoogde voorzieningen uit het inspectieplan zijn getroffen, zodat de inspectiewerkzaamheden op veilige en efficiënte wijze kunnen worden uitgevoerd.  
 
@@ -912,14 +1242,12 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Omvang van algemene en gedetailleerde inspecties
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 7.2.1  *Algemene inspectie*  Tijdens de CAS-inspectie dient een algemene inspectie van alle in 5.2 genoemde ruimten plaats te vinden.  
 
 7.2.2  *Gedetailleerde inspectie*  De vereisten voor gedetailleerde inspecties in het kader van de CAS-inspectie zijn vermeld in de onderstaande tabel.  Tabel 7.2.2 
 
 |  *Vereisten voor gedetailleerde inspecties*   |
-|---|
+|:---|
 | Alle webspanten in alle ballasttanks (zie noot 1)  |
 | Alle webspanten in een zijtank voor lading (zie noot 1)  |
 | Ten minste 30% van alle webspanten, in elke overige zijtanks voor lading (zie noot 1)  |
@@ -940,8 +1268,6 @@ Opmerkingen: 1 Gehele dwars- of webspanten met inbegrip van aangrenzende structu
 
 ####Omvang van de diktemetingen
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 7.3.1 De diktemetingen worden geregistreerd met behulp van de tabellen vervat in Aanhangsel 2 van Bijlage 10 van Bijlage B van resolutie A.744(18), zoals gewijzigd. Aanbevolen wordt deze rapporten te bewaren in een elektronisch medium.  
 
 7.3.2 De diktemetingen worden voorafgaand aan of zoveel mogelijk tegelijkertijd met de gedetailleerde inspectie uitgevoerd.  
@@ -949,7 +1275,7 @@ Treedt in werking op een nader te bepalen tijdstip
 7.3.3 De minimumvereisten voor diktemetingen voor de CAS-inspecties zijn vervat in de onderstaande tabel:  Tabel 7.3.3 
 
 |  *Vereisten voor diktemetingen*   |
-|---|
+|:---|
 | 1. Binnen het ladinggedeelte:  .1 elke dekplaat  .2 drie componenten overdwars  .3 elke bodemplaat  |
 | 2. Metingen van structurele componenten die vallen onder de gedetailleerde inspectie volgens 7.2.2, voor de algemene beoordeling en registratie van het corrosiepatroon  |
 | 3. Verdachte plekken  |
@@ -971,14 +1297,10 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####CRITERIA VOOR GOEDKEURING
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 De goedkeuringscriteria voor de keuringsregeling scheepvaart zijn die vervat in resolutie A.744(18), zoals gewijzigd.    
 ### 9  
 
 ####CAS-INSPECTIERAPPORTEN
-
-Treedt in werking op een nader te bepalen tijdstip   
 
 9.1 Van de CAS-inspectie dient een inspectierapport te worden opgesteld. In het rapport dienen de datum en lokatie (plaats) te worden vermeld en, indien relevant, of de CAS-inspectie heeft plaatsgevonden in een droogdok, te water of op zee. Indien de CAS-inspectie op verschillende inspectieposten heeft plaatsgevonden, dient voor elk deel van de inspectie een afzonderlijk rapport te worden opgesteld.  
 
@@ -1027,13 +1349,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####DEFINITIEF CAS-RAPPORT VOOR DE ADMINISTRATIE
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 ### 10.1  
 
 ####Toetsing van de CAS-inspectie door de erkende organisatie
-
-Treedt in werking op een nader te bepalen tijdstip   
 
 10.1.1 Het hoofdkantoor van de erkende organisatie toetst de CAS-inspectierapporten, de documenten, foto's en andere dossiers die verband houden met de CAS, zoals omschreven in punt 9, teneinde vast te stellen en te bevestigen dat aan alle vereisten van de keuringsregeling scheepvaart is voldaan.  
 
@@ -1041,8 +1359,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### 10.2  
 
 ####Definitief CAS-rapport voor de Administratie
-
-Treedt in werking op een nader te bepalen tijdstip   
 
 10.2.1 Zoals omschreven in 10.1.1 stelt de erkende organisatie na afronding van de CAS-inspectie en de toetsing van de inspectierapporten door het hoofdkantoor van de erkende organisatie een definitief CAS-rapport op voor de Administratie.  
 
@@ -1081,8 +1397,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####VERIFICATIE VAN DE CAS DOOR DE ADMINISTRATIE
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 11.1 Behalve de instructies die de Administratie kan hebben gegeven aan de erkende organisatie die namens haar bevoegd is tot het uitvoeren van de inspecties uit hoofde van het uitgebreide inspectieprogramma, dient de Administratie ook instructies uit te vaardigen aan de erkende organisatie en aan de reders die olietankschepen van de eerste en de tweede categorie onder haar vlag exploiteren, zodat de Administratie in staat is het functioneren van de keuringsregeling scheepvaart te volgen en de naleving ervan te verifiëren.  
 
 11.2 De Administratie dient, ten behoeve van een uniforme en consistente uitvoering van de keuringsregeling scheepvaart ten minste procedures vast te stellen aan de hand waarvan zij 
@@ -1110,8 +1424,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####HERKEURING VAN SCHEPEN DIE NIET VOLDOEN AAN DE VEREISTEN VAN DE KEURINGSREGELING SCHEEPVAART
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 12.1 Een schip dat naar het oordeel van de Administratie niet voldoet aan de vereisten van de keuringsregeling scheepvaart, kan worden voorgedragen voor een herkeuring uit hoofde van de keuringsregeling scheepvaart. In dergelijke gevallen worden de redenen op grond waarvan de Administratie de afgifte van een verklaring van naleving voor het schip heeft geweigerd, aangepakt en daarna worden de herstelmaatregelen getoetst teneinde vast te stellen of aan de vereisten van de keuringsregeling scheepvaart is voldaan.  
 
 12.2 Deze herkeuringen worden als regel uitgevoerd door de erkende organisatie en door de Administratie die de vorige CAS-inspectie heeft uitgevoerd.  
@@ -1122,8 +1434,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### 13  
 
 ####VERKLARING VAN NALEVING
-
-Treedt in werking op een nader te bepalen tijdstip   
 
 13.1 In overeenstemming met haar procedures geeft de Administratie voor elk schip waarvoor de keuring ten genoegen van de Administratie is afgerond een verklaring van naleving af.  
 
@@ -1172,8 +1482,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####OVERDRACHT VAN INFORMATIE AAN DE ORGANISATIE
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 14.1 De Administratie stelt de Organisatie in kennis van: 
 
 .1 de bijzonderheden van de afgegeven verklaringen van naleving;  
@@ -1188,8 +1496,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Model van verklaring van naleving
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 ###Verklaring van naleving
 
 Afgegeven uit hoofde van de bepalingen van de keuringsregeling scheepvaart (CAS), aangenomen door de Organisatie bij resolutie MEPC .... (46) onder de bevoegdheid van de Regering van: ................................................  *(volledige officiële aanduiding van het land)*   *Gegevens van het schip*  Naam van het schip Onderscheidingsnummer of -letters Haven van registratie Bruto-tonnage Draagvermogen van het schip (in metrieke tonnen) IMO-nummer Categorie van tankschip HIERBIJ WORDT VERKLAARD: 1 dat het schip is geïnspecteerd in overeenstemming met de vereisten van de keuringsregeling scheepvaart (resolutie MEPC ... (46); 2 dat bij de inspectie is gebleken dat de toestand van de constructie van het schip in alle opzichten voldoende is en dat het schip voldoet aan de vereisten van de keuringsregeling scheepvaart. Deze verklaring van naleving is geldig tot Afgegeven te  *(Plaats van afgifte)*  .................................  *(Datum van afgifte) (handtekening van bevoegde ambtenaar die de verklaring afgeeft)*   *(zegel of stempel van de instantie, naar gelang wat van toepassing is)*    
@@ -1198,15 +1504,13 @@ Afgegeven uit hoofde van de bepalingen van de keuringsregeling scheepvaart (CAS)
 
 ####Vragenlijst ten behoeve van inspectieplanning
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 De volgende informatie stelt de reder in staat in samenwerking met de erkende organisatie een inspectieplan te ontwikkelen dat voldoet aan de vereisten van de keuringsregeling scheepvaart. Het is van essentieel belang dat de reder bij het invullen van deze vragenlijst actuele informatie verschaft. Na invulling dient deze vragenlijst alle krachtens de keuringsregeling scheepvaart vereiste informatie en materiaal te verschaffen. 
 ###Bijzonderheden
 
 Naam van het schip: IMO-nummer Vlaggestaat Thuishaven Bruto-tonnage Draagvermogen (in metrieke tonnen) Diepgang op de zomerlastlijn Datum van oplevering Scheepscategorie Datum waarop moet zijn voldaan aan Voorschrift 13F Reder Referentienummer rapport  *Informatie betreffende toegang voor gedetailleerde inspecties en diktemetingen*  De reder wordt verzocht in de onderstaande tabel aan te geven op welke wijze toegang wordt verschaft tot de structuren waar gedetailleerde inspecties en diktemetingen dienen plaats te vinden. Een gedetailleerde inspectie is een onderzoek waarbij de details van de onderdelen van de constructie van dichtbij aan een visuele inspectie door de aanwezige inspecteur kunnen worden onderworpen, dat wil zeggen bij voorkeur binnen handbereik zijn.  
 
 |--- | Ruimte  | Tijdelijke steigers  | Vlotten  | Ladders  | Directe toegang  | Andere middelen (svp aangeven)  |
-|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|
 | --- | Voorpiek  | --- | --- | --- | --- | --- |
 | In de lengterichting  | Benedendeks  | --- | --- | --- | --- | --- |
 | Zijwand  | --- | --- | --- | --- | --- |
@@ -1219,7 +1523,7 @@ Naam van het schip: IMO-nummer Vlaggestaat Thuishaven Bruto-tonnage Draagvermoge
 | Centrale tanks  | --- | --- | --- | --- | --- |
 
 |  *Procedures voor tankreiniging*   |
-|---|
+|:---|
 | Vermeld hoe vaak de tanks worden gereinigd, met name tanks zonder coating  |
 | --- |
 | --- |
@@ -1229,13 +1533,13 @@ Naam van het schip: IMO-nummer Vlaggestaat Thuishaven Bruto-tonnage Draagvermoge
 | --- | Ander middel (aangeven)  | --- |
 
 | Inertgasinstallatie aanwezig: Ja/neen  |
-|---|
+|:---|
 | Vermeld het gemiddelde zuurstofgehalte tijdens het inertiseren.  |
 | Gegevens van het gebruik van de inertgasinstallatie  |
 | --- |
 
 |  *Overzicht van de vervoerde ladingen gedurende de afgelopen drie jaar (svp aangeven of de lading verwarmd werd).*   |
-|---|
+|:---|
 | --- |
 | --- |
 | --- |
@@ -1244,7 +1548,7 @@ Naam van het schip: IMO-nummer Vlaggestaat Thuishaven Bruto-tonnage Draagvermoge
 | --- |
 
 |  *Overzicht van de ballast gedurende de afgelopen drie jaar*   |
-|---|
+|:---|
 | --- |
 | --- |
 | --- |
@@ -1255,7 +1559,7 @@ Naam van het schip: IMO-nummer Vlaggestaat Thuishaven Bruto-tonnage Draagvermoge
 *Inspecties door de reder*  Aan de hand van een tabel zoals die hieronder (deze geldt als voorbeeld) dient de reder gegevens te verschaffen over de bevindingen bij zijn inspecties gedurende de afgelopen drie jaar – in overeenstemming met de vereisten van resolutie A.744(18), zoals gewijzigd, en die van de keuringsregeling scheepvaart – inzake alle LADING- en BALLASTtanks en LEGE ruimtes binnen het laadgedeelte.  
 
 | Ruimten(vermeld ook de spantnummers en aanduiding bakboord of stuurboord)  | Corrosie- bescherming(1)  | Omvang Coating(2)  | Toestand Coating (3)  | Verslechtering van constructie(4)  | Historisch overzicht van schades, reparaties, lekkages, etc.(5)  |
-|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|
 |  *Centrale ladingtanks*   | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- |
@@ -1297,7 +1601,7 @@ Naam van het schip: IMO-nummer Vlaggestaat Thuishaven Bruto-tonnage Draagvermoge
 5) D R = schade en reparatie L = lekkages CV = verandering CPS = corrosiebeschermingssysteem (rapporten bijvoegen)   Reder: ......................................... Naam/handtekening: ......................................... Datum: .........................................  *Inspectierapporten van de havenstaat*   
 
 | Vermeld de inspectierapporten van de havenstaat, waarin gebreken aan de romp en relevante informatie daarover zijn vermeld.  |
-|---|
+|:---|
 | --- |
 | --- |
 | --- |
@@ -1306,7 +1610,7 @@ Naam van het schip: IMO-nummer Vlaggestaat Thuishaven Bruto-tonnage Draagvermoge
 *Veiligheidsbeleidssysteem*   
 
 | Vermeld punten waarop niet voldaan is aan de vereisten inzake het onderhoud van de romp, met inbegrip van de desbetreffende corrigerende maatregelen  |
-|---|
+|:---|
 | --- |
 | --- |
 | --- |
