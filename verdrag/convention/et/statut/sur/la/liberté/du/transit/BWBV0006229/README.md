@@ -20,7 +20,7 @@ La présente Convention, dont les textes français et anglais font également fo
 
 ### Article  4  
 
-La présente Convention est sujette à ratification. Les instruments de ratification seront transmis au Secrétaire-Général de la Société des Nations, qui en notifiera la réception aux autres Membres de la Société, ainsi qu'aux Etats admis à signer la Convention. Les instruments de ratification seront déposés aux archives du Secrétariat. Pour déférer aux prescriptions de l'article 18 du Pacte de la Société des Nations, le Secrétaire-Général procédera à l'enregistrement de la présente Convention, dés le dépôt de la première ratification.  
+La présente Convention est sujette à ratification. Les instruments de ratification seront transmis au Secrétaire-Général de la Société des Nations, qui en notifiera la réception aux autres Membres de la Société, ainsi qu'aux Etats admis à signer la Convention. Les instruments de ratification seront déposés aux archives du Secrétariat. Pour déférer aux prescriptions de l'article 18 du Pacte de la Société des Nations, le Secrétaire-Général procédera à l'enregistrement de la présente Convention, dès le dépôt de la première ratification.  
 
 ### Article  5  
 
@@ -36,7 +36,7 @@ Un recueil spécial sera tenu par le Secrétaire-Général de la Société des N
 
 ### Article  8  
 
-Sous réserve des dispositions de l'article 2 de la présente Convention, celle-ci peut être dénoncée par l'une quelconque des parties, après l'expiration d'un délai de cinq ans, à partir de la date de son entrée en vigueur pour ladite Partie. La dénonciation sera faite sous forme de notification écrite, adressée au Secrétaire-Général de la Société des nations. Copie de cette notification, informant toutes les autres Parties de la date à laquelle elle a été reçue, leur sera immédiatement transmise par le Secrétaire-Général. La dénonciation prendra effet un an après la date à laquelle elle aura été reçue par le Secrétaire-Général et ne sera opérante qu'en ce qui concerne la Puissance qui l'aura notifiée.  
+Sous réserve des dispositions de l'article 2 de la présente Convention, celle-ci peut être dénoncée par l'une quelconque des parties, après l'expiration d'un délai de cinq ans, à partir de la date de son entrée en vigueur pour ladite Partie. La dénonciation sera faite sous forme de notification écrite, adressée au Secrétaire-Général de la Société des Nations. Copie de cette notification, informant toutes les autres Parties de la date à laquelle elle a été reçue, leur sera immédiatement transmise par le Secrétaire-Général. La dénonciation prendra effet un an après la date à laquelle elle aura été reçue par le Secrétaire-Général et ne sera opérante qu'en ce qui concerne la Puissance qui l'aura notifiée.  
 
 ### Article  9  
 
@@ -44,7 +44,7 @@ La revision de la présente Convention peut être demandée à toute époque par
 
 En foi de quoi, les Plénipotentiaires susnommés ont signé la présente Convention. Fait à Barcelone, le vingt avril mil neuf cent vingt-et-un, en un seul exemplaire qui restera déposé dans les archives de la Société des Nations.  
 
-####Statut sur la liberté du tranpit.
+####Statut sur la liberté du transit.
 
 ### Article  premier  
 
@@ -56,7 +56,7 @@ Sous réserve des autres stipulations du présent Statut, les mesures de réglem
 
 ### Article  3  
 
-Les transports en transit ne seront soumis à aucuns droits ou taxes spéciaux à raison de leur transit (entrée et sortie comprises). Toutefois pourront être perçus sur ces transports en transit des droits on taxes exclusivement affectés à couvrir les dépenses de surveillance et d'administration qu'imposerait ce transit. Le taux de tous droits ou taxes de cette nature devra correspondre autant que possible à la dépense qu'ils ont pour objet de couvrir, et lesdits droits ou taxes seront appliqués dans les conditions d'égalité définies à l'article précédent, sauf que, sur certaines voies, ces droits ou taxes pourront être réduits ou même supprimés, à raison de différences dans le coût de la surveillance.  
+Les transports en transit ne seront soumis à aucuns droits ou taxes spéciaux à raison de leur transit (entrée et sortie comprises). Toutefois pourront être perçus sur ces transports en transit des droits ou taxes exclusivement affectés à couvrir les dépenses de surveillance et d'administration qu'imposerait ce transit. Le taux de tous droits ou taxes de cette nature devra correspondre autant que possible à la dépense qu'ils ont pour objet de couvrir, et lesdits droits ou taxes seront appliqués dans les conditions d'égalité définies à l'article précédent, sauf que, sur certaines voies, ces droits ou taxes pourront être réduits ou même supprimés, à raison de différences dans le coût de la surveillance.  
 
 ### Article  4  
 
@@ -64,7 +64,7 @@ Les Etats contractants s'engagent à appliquer aux transports en transit, sur le
 
 ### Article  5  
 
-Aucun des Etats contractants ne sera tenu, par le présent Statut, d'assurer le transit des voyageurs dont l'entrée sur ses territoires sera prohibée ou des marchandises d'une catégorie dont l'importation est interdite, soit pour raison de santé ou de sécurité publiques, soit comme précaution centre les maladies des animaux ou des végétaux. Chaque Etat contractant aura le droit de prendre les précautions nécessaires pour s'assurer que les personnes, bagages, marchandises, et notamment les marchandises soumises à un monopole, les navires, bateaux, voitures, wagons, ou autres instruments de transport, sont réellement en transit, ainsi que pour s'assurer que les voyageurs en transit sont en mesure de terminer leur voyage et pour éviter que la sécurité des voies et moyens de communication soit compromise. Rien, dans le présent Statut, ne saurait affecter les mesures qu'un quelconque des Etats contractants est ou pourra être amené à prendre en vertu de conventions internationales générales auxquelles il est partie ou qui pourraient être conclues ultérieurement, en particulier celles conclues sous les auspices de la Société des Nations, relativement au transit, à l'exportation ou à l'importation d'une catégorie particulière de marchandises telles que l'opium ou autres drogues nuisibles, les armes ou le produit de pêcheries, ou bien de conventions générales qui auraient pour objet de prévenir toute infraction aux droits de propriété industrielle, littéraire ou artistique, ou qui auraient trait aux fausses marques, fausses indications d'origine ou autres méthodes de commerce déloyal. Dans le cas où des services de traction monopolisés seraient établis sur les voies navigables utilisées pour le transit, l'organisation de ces services devra être telle qu'elle n'apporte pas d'entrave au transit des navires et bateaux.  
+Aucun des Etats contractants ne sera tenu, par le présent Statut, d'assurer le transit des voyageurs dont l'entrée sur ses territoires sera prohibée ou des marchandises d'une catégorie dont l'importation est interdite, soit pour raison de santé ou de sécurité publiques, soit comme précaution contre les maladies des animaux ou des végétaux. Chaque Etat contractant aura le droit de prendre les précautions nécessaires pour s'assurer que les personnes, bagages, marchandises, et notamment les marchandises soumises à un monopole, les navires, bateaux, voitures, wagons, ou autres instruments de transport, sont réellement en transit, ainsi que pour s'assurer que les voyageurs en transit sont en mesure de terminer leur voyage et pour éviter que la sécurité des voies et moyens de communication soit compromise. Rien, dans le présent Statut, ne saurait affecter les mesures qu'un quelconque des Etats contractants est ou pourra être amené à prendre en vertu de conventions internationales générales auxquelles il est partie ou qui pourraient être conclues ultérieurement, en particulier celles conclues sous les auspices de la Société des Nations, relativement au transit, à l'exportation ou à l'importation d'une catégorie particulière de marchandises telles que l'opium ou autres drogues nuisibles, les armes ou le produit de pêcheries, ou bien de conventions générales qui auraient pour objet de prévenir toute infraction aux droits de propriété industrielle, littéraire ou artistique, ou qui auraient trait aux fausses marques, fausses indications d'origine ou autres méthodes de commerce déloyal. Dans le cas où des services de traction monopolisés seraient établis sur les voies navigables utilisées pour le transit, l'organisation de ces services devra être telle qu'elle n'apporte pas d'entrave au transit des navires et bateaux.  
 
 ### Article  6  
 
