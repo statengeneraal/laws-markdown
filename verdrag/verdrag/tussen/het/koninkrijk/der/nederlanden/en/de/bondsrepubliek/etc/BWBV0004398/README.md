@@ -54,7 +54,7 @@ TEN BLIJKE WAARVAN de onderscheiden gevolmachtigden, na uitwisseling van hun in 
 
 4) Enschede—Gronau  
 
-5) Broekheurne—Alstätte  
+5)  Vervallen   
 
 6) Winterswijk—Borken  
 
