@@ -566,63 +566,65 @@ Each Contracting State may declare that it reserves the right:
 
 (f) to accept the application of Part III in respect of one of its two sections only.     
 
-### APPENDIX  II  
+### Appendix  II  
 
 ####List of offences other than offences dealt with under criminal law
 
 The following offences shall be assimilated to offences under criminal law: 
 
-- in France: Any unlawful behaviour sanctioned by a "contravention de grande voirie".  
+– in France: Any unlawful behaviour sanctioned by a “contravention de grande voirie”.  
 
-- in the Federal Republic of Germany: Any unlawful behaviour dealt with according to the procedure laid down in Act on violations of Regulations (Gesetz über Ordnungswidrigkeiten) of 24 May 1968 (BGBL 1968,1 481).  
+– in the Federal Republic of Germany: Any unlawful behaviour dealt with according to the procedure laid down in Act on violations of Regulations (*Gesetz Uber Ordnungswidrigkeiten*) of 24 May 1968 (BGBL 1968, I 481).  
 
-- in Italy: Any unlawful behaviour to which is applicable Act No. 317 of 3 March 1967.     
+– in Italy: Any unlawful behaviour to which is applicable Act No. 317 of 3 March 1967.  
 
-### APPENDIX  III  
+– in the Netherlands: Any unlawful behaviour to which the Traffic Regulations (Administrative Enforcement) Act (*Wet administratiefrechtelijke handhaving verkeersvoorschriften*) of 3 July 1989 (Bulletin of Act, Orders and Decrees, 300) is applicable.     
 
-####List of "Ordonnances Pénales"
+### Appendix  III  
 
-AUSTRIA *Strafverfügung* (Articles 460—62 of the Code of Criminal Procedure). DENMARK *Bødeforelaeg* or *Udenretlig bødevedtagelse* (Article 931 of the Administration of Justice Act 8.) FRANCE 
+####“Ordonnance pénale” (see Article 1)
 
-1. *Amende de Composition* (Articles 524—528 of the Code of Criminal Procedure supplemented by Articles R 42—R 50).  
+AUSTRIA *Strafverfügung* (Articles 460-62 of the Code of Criminal Procedure). DENMARK *Bødeforelaeg or Udenretlig bødevedtagelse* (Article 931 of the Administration of Justice Act). FRANCE 
 
-2. *Ordonnance pénale* applied only in the departments of the Bas-Rhin, the Haut-Rhin and the Moselle.   FEDERAL REPUBLIC OF GERMANY 
+1. *Amende de Composition* (Articles 524-528 of the Code of Criminal Procedure supplemented by Articles R 42 – R 50).  
 
-1. *Strafbefehl* (Articles 407—412 of the Code of Criminal Procedure).  
+2. *Ordonnance pénale* applied only in the departments of the *Bas-Rhin*, the *Haut-Rhin* and the Mossele.   FEDERAL REPUBLIC OF GERMANY 
 
-2. *Strafverfügung* (Article 413 of the Code of Criminal Procedure).  
+1. *Strafbefehl* (Articles 407-412 of the Code of Criminal Procedure).  
 
-3. *Bussgeldbescheid* (Articles 65—66 of Act of 24 May 1968 - BGBL 19681,481).   ITALY 
+2. *Strafverfügung* (Articles 413 of the Code of Criminal Procedure).  
 
-1. *Decreto penale* (Articles 506—10 of the Code of Criminal Procedure).  
+3. *Bussgeldbescheid* (Articles 65-66 of Act of 24 May 1968 -BGBL 1968 I, 481).   ICELAND “ *Ordonnances Pénales* ” according to Icelandic legislation are: “ *Lögreglustjórasektir* ” (Article 115 of the Act on Law of Criminal Procedure). ITALY 
 
-2. *Decreto penale* in fiscal matters (Act of 7 January 1929, No. 4).  
+1. *Decreto penale* (Articles 506-10 of the Code of Criminal Procedure).  
 
-3. *Decreto penale* in navigational matters (Articles 1242—43 of the Code of Navigation).  
+2. *Decreto penale* in fiscal matters (Act of 7 January 1929, No.4).  
 
-4. Decision rendered in pursuance of Act No. 317 of 3 March 1967,   LUXEMBOURG 
+3. *Decreto penale* in navigational matters (Articles 1242-43 of the Code of Navigation).  
 
-1. *Ordonnance pénale* (Act of 31 July 1924 on the organisation of "ordonnances pénales")  
+4. Decision rendered in pursuance of Act No.317 of 3 March 1967.   LUXEMBOURG 
+
+1. *Ordonnance pénale* (Act of 31 July 1924 on the organisation of “ordonnances pénales”).  
 
 2. *Ordonnance pénale* (Article 16 of Act of 14 February 1955 on the Traffic on Public Highways).   NORWAY 
 
-1. *Forelegg* (Articles 287—290 of the Act on Judicial Procedure in Penal Cases).  
+1. *Forelegg* (Articles 287-290 of the Act on Judicial Procedure in Penal Cases).  
 
-2. *Forenklet forelegg* (Article 31 B of Traffic Code of 18 June 1965).   SWEDEN 
+2. *Forenklet forelegg* (Article 31B of Traffic Code of 18 June 1965).   SWEDEN 
 
 1. *Strafföreläggande* (Chapter 48 of the Code of Procedure).  
 
 2. *Föreläggande av ordningsbot* (Chapter 48 of the Code of Procedure).   SWITZERLAND 
 
-1. *Strafbefehl* (Aargau, Bale-Country, Bale-Town, Schaffhausen, Schwyz, Uri, Zug, Zurich). *Ordonnance penale* (Fribourg, Valais).  
+1. *Strafbefehl* (Aargau, Bâle-Country, Bâle-Town, Schaffhausen, Schwyz, Uri, Zug, Zurich). Ordonnance pénale (Fribourg, Valais).  
 
 2. *Strafantrag* (Lower Unterwalden).  
 
 3. *Strafbescheid* (St. Gallen).  
 
-4. *Strafmandat* (Bern, Graublinden, Solothurn, Upper Unterwalden).  
+4. *Strafmandat* (Bern, Graubünden, Solothurn, Upper Unterwalden).  
 
-5. *Strafverfiigung* (Appenzell Outer Rhoden, Glarus, Schaffhausen, Thurgau).  
+5. *Strafverfügung* (Appenzell Outer Rhoden, Glarus, Schaffhausen, Thurgau).  
 
 6. *Abwandlungserkenntnis* (Lucerne).  
 
@@ -630,15 +632,15 @@ AUSTRIA *Strafverfügung* (Articles 460—62 of the Code of Criminal Procedure).
 
 8. *Ordonnance de condamnation* (Vaud).  
 
-9. *Mandat de répression* (Neuchâtel).  
+9. *Mandat de repression* (Neuchâtel).  
 
 10. *Avis de contravention* (Geneva, Vaud).  
 
-11. *Prononcé préfectoral* (Vaud).  
+11. *Prononcé prefectoral* (Vaud).  
 
 12. *Prononcé de contravention* (Valais).  
 
-13. *Decreto di accusa* (Ticino).   TURKEY *Ceza Kararnamesi* (Articles 386—91 of the Code of Criminal Procedure) and all other decisions by which administrative authorities impose sanctions.   
+13. *Decreto di accusa* (Ticino).   TURKEY *Ceza Kararnamesi* (Articles 386-91 of the Code of Criminal Procedure) and all other decisions by which administrative authorities impose sanctions.   
 
 ####Europees Verdrag inzake de internationale geldigheid van strafvonnissen
 
@@ -1204,25 +1206,27 @@ Elke Verdragsluitende Staat kan verklaren zich het recht voor te behouden :
 
 (f) de toepassing van Hoofdstuk III slechts te aanvaarden voor een van beide Afdelingen.     
 
-### BIJLAGE  II  
+### Bijlage  II  
 
 ####Lijst van feiten, die niet in de strafwet strafbaar zijn gesteld
 
-Met feiten, die in de strafwet strafbaar zijn gesteld moet worden gelijkgesteld : 
+Met feiten, die in de strafwet strafbaar zijn gesteld moet worden gelijkgesteld: 
 
-- in Frankrijk: onwettig gedrag dat wordt bestempeld als een „contravention de grande voirie";  
+– in Frankrijk: Elke wederrechtelijke gedraging die wordt bestempeld als een „contravention de grande voirie”.  
 
-- in de Bondsrepubliek Duitsland: onwettig gedrag waarvoor een procedure is geschapen bij het „Gesetz über Ordnungswidrigkeiten" van 24 mei 1968 (BGBL 1968,1 481);  
+– in de Bondsrepubliek Duitsland: Elke wederrechtelijke gedraging waarvoor een procedure is geschapen bij het „Gesetz über Ordnungswidrigkeiten” van 24 mei 1968 (BGBL 1968,1 481).  
 
-- in Italië: onwettig gedrag waarop de wet No. 317 van 3 maart 1967 van toepassing is.     
+– in Italië: Elke wederrechtelijke gedraging waarop de wet No. 317 van 3 maart 1967 van toepassing is.  
 
-### BIJLAGE  III  
+– in Nederland: Elke wederrechtelijke gedraging waarop de wet administratiefrechtelijke handhaving verkeersvoorschriften van 3 juli 1989 (*Stb.* 300) van toepassing is.     
+
+### Bijlage  III  
 
 ####Lijst van straf beschikkingen
 
 OOSTENRIJK *Strafverfügung* (Artikelen 460-62 van het Wetboek van Strafprocesrecht). DENEMARKEN *Bødeforelaeg* of *Udenretlig bødevedtagelse* (Artikel 931 van de wet op de organisatie van de rechtspraak). FRANKRIJK 
 
-1. *Amende de composition* (Artikelen 524-528 van het Wetboek van Strafprocesrecht en de artikelen R42—R50).  
+1. *Amende de composition* (Artikelen 524-528 van het Wetboek van Strafprocesrecht en de artikelen R 42–R 50).  
 
 2. *Ordonnance pénale,* slechts van toepassing in de departementen Bas-Rhin, Haut-Rhin en Moselle.   BONDSREPUBLIEK DUITSLAND 
 
@@ -1230,9 +1234,9 @@ OOSTENRIJK *Strafverfügung* (Artikelen 460-62 van het Wetboek van Strafprocesre
 
 2. *Strafverfügung* (Artikel 413 van het Wetboek van Strafprocesrecht).  
 
-3. *Bussgeldbescheid* (Artikelen 65-66 van de wet van 24 mei 1968 BGBL 1968 I, 481).   ITALIË 
+3. *Bussgeldbescheid* (Artikelen 65-66 van de wet van 24 mei 1968 BGBL 1968 I, 481).   IJSLAND Onder „ *Ordonnances Pénales* ” wordt volgens de IJslandse wetgeving verstaan: „ *Lögreglustjórasektir* ” (artikel 115 van de Wet op het Strafprocesrecht). ITALIË 
 
-1. *Decreto penale* (Artikelen 506-5.10 van het Wetboek van Strafprocesrecht).  
+1. *Decreto penale* (Artikelen 506-10 van het Wetboek van Strafprocesrecht).  
 
 2. *Decreto penale,* voor fiscale zaken (wet van 7 januari 1929, No. 4).  
 
@@ -1248,7 +1252,7 @@ OOSTENRIJK *Strafverfügung* (Artikelen 460-62 van het Wetboek van Strafprocesre
 
 2. *Forenklet forelegg* (Artikel 31B van de Verkeerswetgeving van 18 juni 1965).   ZWEDEN 
 
-1. *Strafförelaggande* (Hoofdstuk 48 van het Wetboek van Procesrecht).  
+1. *Strafföreläggande* (Hoofdstuk 48 van het Wetboek van Procesrecht).  
 
 2. *Föreläggande av ordningsbot* (Hoofdstuk 48 van het Wetboek van Procesrecht).   ZWITSERLAND 
 
@@ -1268,7 +1272,7 @@ OOSTENRIJK *Strafverfügung* (Artikelen 460-62 van het Wetboek van Strafprocesre
 
 8. *Ordonnance de condamnation* (Vaud).  
 
-9. *Mandat de répression* (Neuchatel).  
+9. *Mandat de répression* (Neuchâtel).  
 
 10. *Avis de contravention* (Genève, Vaud).  
 
@@ -1276,4 +1280,4 @@ OOSTENRIJK *Strafverfügung* (Artikelen 460-62 van het Wetboek van Strafprocesre
 
 12. *Prononcé de contravention* (Valais).  
 
-13. *Decreto di accusa* (Ticino),   TURKIJE *Ceza Kararnamesi* (Artikelen 386-91 van het Wetboek van Strafprocesrecht) en alle andere besluiten waarbij de administratieve autoriteiten straffen opleggen.   
+13. *Decreto di accusa* (Ticino),   TURKIJE Ceza Kararnamesi (Artikelen 386-91 van het Wetboek van Strafprocesrecht) en alle andere besluiten waarbij de administratieve autoriteiten straffen opleggen.   
