@@ -1,0 +1,5 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Interpretatie begrip "gelieerd persoon" in art. 36 Verdrag met de Verenigde Staten
+
+De Directeur-Generaal voor Fiscale Zaken heeft namens de Staatssecretaris van Financiën het volgende besloten.    Aan mij is de vraag voorgelegd hoe het begrip "gelieerd persoon" in artikel 36, lid 2, van het belastingverdrag tussen Nederland en de Verenigde Staten van Amerika van 1992 moet worden geïnterpreteerd. Na daarover met de Amerikaanse autoriteiten te hebben overlegd heb ik geantwoord dat zowel Nederland als de Verenigde Staten van Amerika zich op het standpunt stellen dat het begrip "gelieerd persoon" in artikel 36 dient te worden opgevat overeenkomstig het gelijkluidende begrip "gelieerd persoon" in artikel 35, lid 2 van dat verdrag met inachtneming van de toelichting in de briefwisseling van 13 oktober 1993 die is gevoerd bij het protocol van dezelfde datum tot wijziging van het verdrag (Kamerstukken l/ll 1993/94, 23 496, nrs. 130 en 1).    
