@@ -31,16 +31,12 @@ b) hetzij door middel van gelden die de Bank bijeen kan brengen door:
 
 ### Artikel  4  
 
-Het in artikel 3 van het Financiële Protocol genoemde bedrag van 195 miljoen rekeneenheden wordt als volgt over de Lid-Staten omgeslagen:  
+Het bedrag van 242 miljoen rekeneenheden genoemd in het bij artikel 8 van het Complementaire Protocol gewijzigde artikel 3, lid 2, van het Financiële Protocol wordt als volgt over de Lid-Staten omgeslagen:  
 
 |
 |
-| - België . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  | 14,3 miljoen rekeneenheden  |
-| - Bondsrepubliek Duitsland . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  | 65,2 miljoen rekeneenheden  |
-| - Frankrijk. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  | 65,2 miljoen rekeneenheden  |
-| - Italië. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  | 35,7 miljoen rekeneenheden  |
-| - Luxemburg. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  | 0,3 miljoen rekeneenheden  |
-| - Nederland.... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  | 14,3 miljoen rekeneenheden  |
+| --- | miljoen rekeneenheden  |
+| -België  -Denemarken  -Bondsrepubliek Duitsland  -Frankrijk  -Ierland  -Italië  -Luxemburg  -Nederland  -Verenigd Koninkrijk  | 14,3  5  65,2  65,2  1  35,7  0,3  14,3  41  |
 
 Iedere Lid-Staat verplicht zich de Bank overeenkomstig de in artikel 5 gestelde voorwaarden de voor het toekennen van de leningen benodigde middelen te verstrekken tot een bedrag evenredig aan bovengenoemd aandeel.  
 
@@ -74,16 +70,11 @@ Voor zover zij niet in het Financiële Protocol zijn neergelegd worden de algeme
 
 ### Artikel  10  
 
-De leningen worden verstrekt door de Bank volgens dezelfde procedure als die welke voor haar normale verrichtingen door haar statuten is vastgesteld, behoudens de volgende bepalingen: De verzoeken om een lening waarover door de Turkse Regering een gunstig advies is uitgebracht, worden, vergezeld van alle ter zake dienende opmerkingen, door de Bank aan de Lid-Staten en aan de Commissie doorgezonden. Het verzoek om een lening wordt geacht niet op bezwaren te stuiten, indien de Bank binnen vier weken na het doorzenden van de documenten geen verzoek van een Lid-Staat om overleg tussen de Lid-Staten ontvangt. In het tegenovergestelde geval onderzoekt een Comité waarin een vertegenwoordiger van iedere Lid-Staat zitting heeft en waaraan een vertegenwoordiger van de Commissie deelneemt, de ontvankelijkheid van het verzoek. Het Comité nodigt deskundigen van de Bank uit zijn vergaderingen bij te wonen. Het Comité spreekt zich uit met een gekwalificeerde meerderheid van 67 stemmen volgens de volgende verdeling:  
+De leningen worden verstrekt door de Bank volgens dezelfde procedure als die welke voor haar normale verrichtingen door haar statuten is vastgesteld, behoudens de volgende bepalingen: De verzoeken om een lening waarover door de Turkse Regering een gunstig advies is uitgebracht, worden, vergezeld van alle ter zake dienende opmerkingen, door de Bank aan de Lid-Staten en aan de Commissie doorgezonden. Het verzoek om een lening wordt geacht niet op bezwaren te stuiten, indien de Bank binnen vier weken na het doorzenden van de documenten geen verzoek van een Lid-Staat om overleg tussen de Lid-Staten ontvangt. In het tegenovergestelde geval onderzoekt een Comité waarin een vertegenwoordiger van iedere Lid-Staat zitting heeft en waaraan een vertegenwoordiger van de Commissie deelneemt, de ontvankelijkheid van het verzoek. Het Comité nodigt deskundigen van de Bank uit zijn vergaderingen bij te wonen. Het Comité spreekt zich uit met een gekwalificeerde meerderheid van 101 stemmen volgens de volgende verdeling:  
 
 |
 |
-| - België. . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  | 8  |
-| - Bondsrepubliek Duitsland. . . . . . . . . . . . . . . . . . . . . . . . . . . . .  | 33  |
-| - Frankrijk. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  | 33  |
-| - Italië. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  | 17  |
-| - Luxemburg. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  | 1  |
-| - Nederland. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  | 8  |
+| -België  -Denemarken  -Bondsrepubliek Duitsland  -Frankrijk  -Ierland  -Italië  -Luxemburg  -Nederland  -Verenigd Koninkrijk  | 8  5  33  33  1  17  1  8  33  |
 
 ### HOOFDSTUK  II  
 
