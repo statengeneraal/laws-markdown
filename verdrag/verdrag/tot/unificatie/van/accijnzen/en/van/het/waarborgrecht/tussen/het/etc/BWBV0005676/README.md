@@ -49,51 +49,30 @@ Par. 6.  De totale hoeveelheid alcohol, vervaardigd door de in het Groothertogdo
 
 ### Artikel  4  
 
-§ 1.  Bij invoer in Nederland en in de Belgisch-Luxemburgse Economische Unie wordt op ethylalcohol en op ethylalcoholhoudende produkten, andere dan bier en dan wijn en andere gegiste dranken waarop de in de artikelen 9 *bis* of 10 *bis* van dit Verdrag vervatte regeling van toepassing is, een accijns geheven, welke als volgt wordt vastgesteld: 
+§ 1.  Bij invoer in Nederland en in de Belgisch-Luxemburgse Economische Unie wordt op ethylalcohol en op ethylalcoholhoudende produkten, met uitsluiting van bier en andere gegiste dranken dan die bedoeld in § 2, no's 1 tot en met 3, een accijns geheven welke als volgt wordt vastgesteld:  
 
-a. Ethylalcohol en gedistilleerde dranken:  
+| --- | --- |
+|:---|:---|
+| *a.* Ethylalcohol en gedistilleerde dranken:  1. met een sterkte volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius, van niet meer dan 65 graden en ingevoerd in verpakkingen, inhoudende niet meer dan 2 liter... per hl  | f 775,20 of  fr. 10.200,-;  |
+| 2. andere, voor elke graad van de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius... per hl  | f 11,93 of  fr. 157,-;  |
+| *b.* Likeuren en andere gezoete alcoholische dranken, ook indien gearomatiseerd:  1. met een sterkte volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius, van niet meer dan 15 graden... per hl  | f 178,95 of  fr, 2.355,-;  |
+| 2. met een sterkte volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius, van meer dan 15 graden en niet meer dan 65 graden... per hl  | f 775,20 of  fr. 10.200,-;  |
+| 3, andere, voor elke graad van de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius... per hl  | f 11,93 of  fr. 157 -;  |
+| *c.* Alle andere ethylalcoholhoudende produkten, met een sterkte volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius, van:  | --- |
+| 1. meer dan 5 graden en niet meer dan 10 graden... per hl  | f 119,30 of  fr. 1.570,-;  |
+| 2. meer dan 10 graden en niet meer dan 20 graden... per hl  | f 238,60 of  fr. 3.140,-;  |
+| 3. meer dan 20 graden en niet meer dan 35 graden... per hl  | f 417,55 of  fr. 5.495,-;  |
+| 4. meer dan 35 graden en niet meer dan 50 graden... per hl  | f 596,50 of  fr. 7.850,-;  |
+| 5. meer dan 50 graden en niet meer dan 75 graden...per hl  | f 894,75 of  fr. 11.775,-;  |
+| 6. meer dan 75 graden ...per hl  | f 1.193,- of  fr 15.700,-;  |
 
-| --- | --- | --- | --- |
-|:---|:---|:---|:---|
-| 1.  | met een sterkte volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius, van niet meer dan 65 graden en ingevoerd in verpakkingen, inhoudende niet meer dan 2 liter ................................... per hl  | f 775,20 of  fr. 10.200,-;  |
-| --- | --- | --- |
-| 2.  | andere, voor elke graad van de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius .................................. per hl  | f 11,93 of  fr. 157,-.  |
-| --- | --- | --- |
+§ 2.  Bij invoer in Nederland en in de Belgisch-Luxemburgse Economische Unie is de in § 1, letter *b,* bedoelde heffing mede van toepassing op: 
 
-b. Likeuren en andere gezoete alcoholische dranken, ook indien gearomatiseerd:  
-
-|
-|
-| 1.  | met een sterkte volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius, van niet meer dan 15 graden .. per hl  | --- |
-| --- | --- | f 178,95 of  fr. 2.355.-;  |
-| 2.  | met een sterkte volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius van meer dan 15 graden en niet meer dan 65 graden .............................. per hl  | --- |
-| --- | --- | f 775,20 of  fr. 10.200,-;  |
-| 3.  | andere, voor elke graad van de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius ............................ per hl  | --- |
-| --- | --- | f 11,93 of  fr. 157,-.  |
-
-c. Alle andere ethylalcoholhoudende produkten, met een sterkte volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius, van:  
-
-|
-|
-| 1.  | meer dan 5 graden en niet meer dan 10 graden ...........................  | per hl  | f 119,30 of  fr. 1.570,-;  |
-| --- | --- | --- | --- |
-| 2.  | meer dan 10 graden en niet meer dan 20 graden ...........................  | per hl  | f 238,60 of  fr. 3.140,-;  |
-| --- | --- | --- | --- |
-| 3.  | meer dan 20 graden en niet meer dan 35 graden ........................... . .  | per hl  | f 417,55 of  fr. 5.495,-;  |
-| --- | --- | --- | --- |
-| 4.  | meer dan 35 graden en niet meer dan 50 graden ...........................  | per hl  | f 596,50 of  fr. 7.850,-;  |
-| --- | --- | --- | --- |
-| 5.  | meer dan 50 graden en niet meer dan 75 graden ........................... .  | per hl  | f 894,75 of  fr. 11.775,-;  |
-| --- | --- | --- | --- |
-| 6.  | meer dan 75 graden ...........................  | per hl  | f 1.193,- of  fr. 15.700,-.  |
-
-§ 2.  Bij invoer in Nederland en in de Belgisch-Luxemburgse Economische Unie is de in § 1, letter *b*, bedoelde heffing mede van toepassing op: 
-
-1. wijn van verse druiven, gedeeltelijk gegiste druivenmost en druivenmost waarvan de gisting door toevoegen van alcohol is gestuit (mistella daaronder begrepen), alsmede vermout en andere wijn van verse druiven, bereid met aromatische planten of met aromatische stoffen, mits de hiervoor bedoelde dranken volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius, een sterkte hebben van meer dan 21 graden;  
+1. wijn van verse druiven, gedeeltelijk gegiste druivenmost en druivenmost waarvan de gisting door toevoegen van alcohol is gestuit (mistella daaronder begrepen), alsmede vermout en andere wijn van verse druiven, bereid met aromatische planten of met aromatische stoffen, mits de hiervoor bedoelde dranken volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius, een sterkte hebben van meer dan 22 graden;  
 
 2. wijn van verse druiven en druivenmost waarvan de gisting door toevoegen van alcohol is gestuit (mistella daaronder begrepen), ongeacht de sterkte, welke wegens kleurloosheid het uiterlijk aanzien hebben van overgehaalde alcohol;  
 
-3. andere gegiste dranken dan bier en dan die, bedoeld onder 1, mits deze dranken volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius een sterkte hebben van meer dan 15 graden.     
+3. andere gegiste dranken dan bier en dan die, bedoeld onder 1, mits deze dranken volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15. graden Celsius een sterkte hebben van meer dan 15 graden.     
 
 ### Artikel  5  
 
@@ -126,70 +105,53 @@ Bij invoer in Nederland en in de Belgisch-Luxemburgse Economische Unie wordt op 
 
 ### Artikel  9  
 
-In Nederland en in de Belgisch-Luxemburgse Economische Unie wordt op de dranken, welke aldaar worden verkregen door gisting van sap of most van vruchten, met of zonder toevoeging van water of suiker, en welke volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius, geen hogere sterkte hebben dan 15 graden, een accijns geheven van fl. 45,60 of fr. 600,— per hectoliter. Indien bedoelde dranken volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius, een sterkte hebben van meer dan 12 graden, is voor elke tiende graad boven 12 graden een aanvullende accijns verschuldigd van fl. 0,81 of fr. 10,60 per hectoliter. De bevoegde Ministers kunnen, op voorstel van de Administratieve Raad voor de Douaneregelingen, onder de nodige door hen te stellen voorwaarden, vrijstelling van de in beide vorige leden bedoelde accijnzen verlenen voor de dranken, vervaardigd uit sap of most van verse vruchten, welke in de fabriek zelf worden verwerkt.  
+§ 1.  In Nederland, in België en in Luxemburg wordt, met inachtneming van artikel 80, tweede lid, van het Verdrag tot instelling van de Benelux Economische Unie, gewijzigd bij Protocol van 26 januari 1976, van de aldaar vervaardigde of ingevoerde gegiste dranken van druiven, krenten of rozijnen, per hectoliter geheven: 
+
+a) in Nederland en in België: een accijns van f 33,76 of F 600 en een complementaire accijns van f 49 of F 871;  
+
+b) in Luxemburg: een accijns van F 600.     
+§ 2.  Indien de in § 1 bedoelde dranken, bij een temperatuur van 20 graden Celsius, een alcoholgehalte hebben van meer dan 12 volumepercenten, wordt in de drie landen de accijns vermeerderd met een aanvullende accijns, welke per hectoliter, voor elk 1/10 volumepercent boven 12 volumepercenten, als volgt wordt vastgesteld: 
+
+a) f 0,75 of F 13,30, indien zij een alcoholgehalte hebben van niet meer dan 15 volumepercenten;  
+
+b) f 1,18 of F 21, indien zij een alcoholgehalte hebben van meer dan 15 volumepercenten.     
 
 ### Artikel  9bis  
 
-Bij invoer in Nederland en in de Belgisch-Luxemburgse Economische Unie wordt, met inachtneming van het bepaalde in artikel 4, § 2 van dit Verdrag, op wijn van verse druiven op gedeeltelijk gegiste druivenmost en op druivenmost waarvan de gisting door toevoegen van alcohol is gestuit (mistella daaronder begrepen), niet mousserend, alsmede op vermout en andere wijn van verse druiven, bereid met aromatische planten of met aromatische stoffen, een accijns geheven, welke als volgt wordt vastgesteld: 
+§ 1.  In Nederland, in België en in Luxemburg wordt van de aldaar vervaardigde of ingevoerde gegiste dranken van andere vruchten dan druiven, krenten of rozijnen evenals van de andere aldaar vervaardigde of ingevoerde gegiste dranken die door de bevoegde Ministers, op voorstel van de Commissie voor douane en belastingen, daarmede zijn gelijkgesteld, per hectoliter geheven: 
 
-a. Wijn van verse druiven, gedeeltelijk gegiste druivenmost en druivenmost waarvan de gisting door toevoegen van alcohol is gestuit (mistella daaronder begrepen), niet mousserend:  
+a) in Nederland en in België: een accijns van f 33,76 of F 600 en een complementaire accijns van f 49 of F 871;  
 
-| --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
-| 1.in verpakkingen inhoudende meer dan 2 liter .................................. per hl  | f 45,60 of  fr. 600,-.  |
-
-Indien de dranken volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius, een sterkte hebben van meer dan 12 graden, is voor elk 1/10 graad boven 12 graden een aanvullend recht verschuldigd van: 
-
-A. f 0,81 of fr. 10,60 per hectoliter, indien zij een sterkte hebben van niet meer dan 15 graden;  
-
-B. f 1,19 of fr. 15,70 per hectoliter, indien zij een sterkte hebben van meer dan 15 graden.    
-
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|:---|:---|
-| 2. in verpakkingen inhoudende niet meer dan 2 liter:  |
-| --- | A. met een sterkte van niet meer dan 14 graden ....................  | per  | hl  | f  | 61,80 of  |
-| --- | --- | --- | --- | fr.  | 812,-;  |
-| --- | B. overige ....................  | per  | hl  | f  | 152,70 of  |
-| --- | --- | --- | --- | fr.  | 2.013,-.  |
-
-b. Vermout en andere wijn van verse druiven, bereid met aromatische planten of met aromatische stoffen:  
-
-| --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|
-| 1. in verpakkingen inhoudende meer dan 2 liter:  |
-| --- | A. met een sterkte van niet meer dan 18 graden ....................  | per  | hl  | f  | 117,- of  |
-| --- | --- | --- | --- | fr.  | 1.542,-;  |
-| --- | B. overige ....................  | per  | hl  | f  | 152,70 of  |
-| --- | --- | --- | --- | fr.  | 2.013,-.  |
-| 2.  | in verpakkingen inhoudende niet meer dan 2 liter ....................  | per  | hl  | f  | 152,70 of  |
-| --- | --- | --- | --- | fr.  | 2.013,-.  |
+b) in Luxemburg: een accijns van F 600.     
+§ 2.  Indien de in § 1 bedoelde dranken, bij een temperatuur van 20 graden Celsius, een alcoholgehalte hebben van meer dan 12 volumepercenten, wordt de accijns vermeerderd met een aanvullende accijns van f 0,75 of F 13,30 per hectoliter voor elk 1/10 volumepercent boven 12 volumepercenten.   
+§ 3.  De bevoegde Ministers kunnen, op voorstel van de Commissie voor douane en belastingen, voor de door hen aan te wijzen dranken en onder de nodige door hen te stellen voorwaarden, gehele of gedeeltelijke vrijstelling van de in de §§ 1 en 2 bedoelde accijnzen verlenen.   
 
 ####Mousserende gegiste dranken
 
 ### Artikel  10  
 
-In Nederland en in de Belgisch-Luxemburgse Economische Unie wordt op de gegiste dranken — met uitsluiting van bier — welke aldaar mousserend worden gemaakt of vanzelf mousserend worden, een accijns geheven, welke als volgt wordt vastgesteld: 
+§ 1.  In Nederland, in België en in Luxemburg wordt van gegiste dranken welke aldaar mousserend worden gemaakt of vanzelf mousserend worden en van ingevoerde mousserende gegiste dranken - met uitzondering van bier en van dranken waarop de accijns van artikel 3 of artikel 4 van toepassing is - per hectoliter geheven: 
 
-a. Appeldrank of perendrank: fl. 11,40 of fr. 150,— per hectoliter. Onder appeldrank of perendrank wordt verstaan de drank, bekomen door gisting van appelsap of perensap, zonder toevoeging van suiker.  
+a) dranken, welke bij een temperatuur van 20 graden Celsius, een lcoholgehalte hebben van niet meer dan 6 volumepercenten: 
 
-b. Dranken, niet vallende onder *a*, vervaardigd uit andere vruchten dan druiven, krenten of rozijnen: fl. 57,— of fr. 750,— per hectoliter.  
+- in Nederland en in België: een accijns van f 8,44 of F 150 en een complementaire accijns van f 1,91 of F 34;  
 
-c. Andere mousserende gegiste dranken: fl. 114,— of fr. 1.500,— per hectoliter.   De letters *a* en *b* vinden slechts toepassing op dranken, ten aanzien waarvan de voorwaarden zijn in acht genomen, welke door de bevoegde Ministers, op voorstel van de Administratieve Raad voor de Douaneregelingen, zijn vastgesteld.  
+- in Luxemburg: een accijns van F 150;    
 
-### Artikel  10bis  
+b) dranken, welke bij een temperatuur van 20 graden Celsius, een alcoholgehalte hebben van meer dan 6 volumepercenten: 
 
-Bij invoer in Nederland en in de Belgisch-Luxemburgse Economische Unie wordt, met inachtneming van het bepaalde in artikel 4, § 2, van dit Verdrag, op de mousserende gegiste dranken - met uitzondering van bier - een accijns geheven, welke als volgt wordt vastgesteld:  
+1) vervaardigd van druiven, krenten of rozijnen: 
 
-|
-|
-|  *a.*   | Appeldrank of peredrank ...................  | per hl  | f  | 11,40 of  |
-| --- | --- | --- | fr.  | 150,-;  |
-|  *b.*   | Dranken, niet vallende onder *a*, vervaardigd uit andere vruchten dan druiven, krenten of rozijnen ...........................  | per hl  | f  | 57,- of  |
-| --- | --- | --- | fr.  | 750,-;  |
-|  *c.*   | Honigdrank ..............................  | per hl  | f  | 114,- of  |
-| --- | --- | --- | fr.  | 1.500,-;  |
-|  *d.*   | Wijn van verse druiven en dranken vervaardigd uit krenten of rozijnen ........................  | per hl  | f  | 159,60 of  |
-| --- | --- | --- | fr.  | 2,100,-.  |
+- in Nederland en in België: een accijns van f 84,39 of F 1.500 en een complementaire accijns van f 122,49 of F 2.178;  
+
+- in Luxemburg: een accijns van F 1.500:    
+
+2) andere 
+
+- in Nederland en in België: een accijns van f 42,19 of F 750 en een complementaire accijns van f 9,53 of F 169;  
+
+- in Luxemburg: een accijns van F 750.         
+§ 2.  Van mousserende gegiste dranken worden, benevens de bij § 1 bedoelde accijnzen, ook de bij artikel 9 of bij artikel 9bis bedoelde accijnzen geheven.   
 
 ####Suiker
 
