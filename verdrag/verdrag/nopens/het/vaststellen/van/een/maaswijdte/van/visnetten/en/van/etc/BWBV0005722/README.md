@@ -48,7 +48,7 @@ Notwithstanding the provisions of Article 5, vessels fishing for mackerel, clupe
 (1).  No vessel while operating shall use any device by means of which the mesh in any part to a fishing net to which Article 5 of this Convention applies is obstructed or otherwise in effect diminished.   
 (2).  Notwithstanding the provisions of the foregoing paragraph it shall not be deemed unlawful: 
 
-(i) to attach to the underside of the cod-end of a trawl net any canvas, netting, or other material, for the purpose of preventing or reducing wear or tear; and as from 1st January, 1959, and until 1ste June, 1965, and only for trawl nets with a mesh of 100 mm. or more:  
+(i) to attach to the underside of the cod-end of a trawl net any canvas, netting, or other material, for the purpose of preventng or reducing wear or tear; and as from 1st January, 1959, and until 1ste June, 1965, and only for trawl nets with a mesh of 100 mm. or more:  
 
 (ii) to attach a rectangular piece of netting to the upper side of the cod-end of a trawl net to reduce and prevent damage so long as such netting conforms to the following conditions: 
 
@@ -175,7 +175,7 @@ b) as from 1st June, 1964 that shown in Table II.
 The fish to which Articles 6, 8 and 9 of this Convention apply and the sizes below which such fish may not be retained on board, landed, or sold and exposed or offered for sale are as follows:  
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | --- |  *Size limit for whole fish measured from tip of snout to extreme end of tail fin*   |
 |  *Fish*   |  *Cm.*   |
 | --- | --- |
@@ -192,7 +192,7 @@ The fish to which Articles 6, 8 and 9 of this Convention apply and the sizes bel
 | Whitings *(Gadus merlangus)*.......  | 23  |
 | Dabs *(Pleuronectes limanda)*.......  | 20  |
 
-provided that in any waters in which at any time a minimum size of mesh of nets of 110 mm is specified the sizes below which cod and haddock may not be retained on board or landed shall be 34 cm and 31 cm respectively.   
+provided that in any waters in which at any time a minimum size of mesh of nets of 120 mm is specified the sizes below which cod and haddock may not be retained on board or landed shall be 34 cm and 31 cm respectively.   
 
 ### ANNEX  III  (Until 1st June 1966)  
 
@@ -201,3 +201,112 @@ In the fisheries set out in Article 6 of this Convention, 10 per cent, by weight
 ### ANNEX  IV  
 
 Notwithstanding the provisions of the Convention, for an experimental period of three years ending on 31st May, 1964, vessels of bhp not exceeding 150, fishing for whiting in the Convention area east of a line drawn from Hanstholm to Lindesnes may use nets with mesh sizes less than those prescribed in the Convention and may land whiting of a size below that prescribed in Annex II without restriction as to quantity. Such catches must not include fish of species listed in Annex II other than whiting.   
+
+### Conventie  
+
+*Inleiding.*   De tekst van de vertaling is niet beschikbaar.      
+### Deel  I  
+
+####Het gebied, dat door de Conventie wordt bestreken
+
+### Artikel  1  
+
+De tekst van de vertaling is niet beschikbaar.   
+
+### Artikel  2  
+
+De tekst van de vertaling is niet beschikbaar.   
+
+### Artikel  3  
+
+De tekst van de vertaling is niet beschikbaar.   
+
+### Deel  II  
+
+####Vaststelling van de maaswijdte van visnetten en de minimum-maten op vis
+
+### Artikel  4  
+
+De tekst van de vertaling is niet beschikbaar.   
+
+### Artikel  5  
+
+De tekst van de vertaling is niet beschikbaar.   
+
+### Artikel  6  
+
+De tekst van de vertaling is niet beschikbaar.   
+
+### Artikel  7  
+
+De tekst van de vertaling is niet beschikbaar.   
+
+### Artikel  8  
+
+De tekst van de vertaling is niet beschikbaar.   
+
+### Artikel  9  
+
+De tekst van de vertaling is niet beschikbaar.   
+
+### Artikel  10  
+
+De tekst van de vertaling is niet beschikbaar.   
+
+### Artikel  11  
+
+De tekst van de vertaling is niet beschikbaar.   
+
+### Deel  III  
+
+####Instelling van een Permanente Commissie
+
+### Artikel  12  
+
+De tekst van de vertaling is niet beschikbaar.   
+
+### Artikel  13  
+
+De tekst van de vertaling is niet beschikbaar.   
+
+### Artikel  14  
+
+De tekst van de vertaling is niet beschikbaar.   
+
+### Artikel  15  
+
+De tekst van de vertaling is niet beschikbaar.   
+
+### Deel  IV  
+
+####Algemeen
+
+### Artikel  16  
+
+De tekst van de vertaling is niet beschikbaar.   
+
+### Artikel  17  
+
+De tekst van de vertaling is niet beschikbaar.   
+
+### Artikel  18  
+
+De tekst van de vertaling is niet beschikbaar.   
+
+De tekst van de vertaling is niet beschikbaar.   
+
+### BIJLAGE  I  
+
+De tekst van de vertaling is niet beschikbaar.    
+
+### BIJLAGE  II  
+
+De tekst van de vertaling is niet beschikbaar.    
+
+### BIJLAGE  III  
+
+De tekst van de vertaling is niet beschikbaar.    
+
+### BIJLAGE  IV  
+
+De tekst van de vertaling is niet beschikbaar.    
