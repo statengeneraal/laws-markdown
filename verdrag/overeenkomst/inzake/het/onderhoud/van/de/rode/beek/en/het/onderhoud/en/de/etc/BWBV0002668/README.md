@@ -4,17 +4,13 @@
 
 ####Overeenkomst inzake het onderhoud van de Rode Beek en het onderhoud en de instandhouding van de afvoerregulerende kunstwerken bij de Dalheimer Molenvijver
 
-Treedt in werking op een nader te bepalen tijdstip   
-
 De stad Wassenberg, vertegenwoordigd door de Stadtdirektor Windeln en de stad Wegberg, vertegenwoordigd door de Stadtdirektor Soemers alsook het waterschap Roer en Overmaas, gevestigd te Sittard, vertegenwoordigd door de voorzitter, drs. F. W. G. Laarakker; verder Partijen genoemd, sluiten, gelet op Hoofdstuk 4, artikel 59, lid 2, van het op 8 april 1960 tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden gesloten Grensverdrag, de volgende overeenkomst:    
 
-### Artikel  1   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  1  
 
 De partijen verplichten zich de Rode Beek tussen grenssteen 373 tot grenssteen 377 te onderhouden voor wat betreft het op de bijgevoegde overzichtskaart aangeduide beekgedeelte, de meanderende staat van de waterlossing in de toekomst te behouden en het afvoerprofiel vrij te houden. De overzichtskaart - schaal 1:25.000 - maakt deel uit van deze overeenkomst (Bijlage 1).  
 
-### Artikel  2   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  2  
 
 1.  Het onderhoud omvat: 
 
@@ -37,8 +33,7 @@ c. bedrijfshandeling.
 3.  Tot het onderhoud van de zandvang bij de Effelder Waldsee wordt tevens gerekend het verwijderen en het, zonder schade aan te richten, opruimen van het bij het onderhoud vrijkomende materiaal. Het leeghalen van de zandvang dient naar behoefte, doch tenminste lx per jaar te geschieden.   
 4.  De noodzakelijke omvang van de onderhoudswerkzaamheden wordt bij de jaarlijkse gemeenschappelijke schouw over de waterlossing vastgelegd. Afvoerobstakels, welke tot schade aan de bodem, de taluds en de kunstwerken kunnen leiden, dan wel tot wijzigingen van het beekverloop, dienen onmiddellijk door de onderhoudsplichtigen te worden opgeruimd. Het tijdstip van het uitvoeren van de gezamenlijk vastgelegde onderhoudswerkzaamheden dient met de landschapsinstanties te worden afgestemd.   
 
-### Artikel  3   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  3  
 
 1.  Voor wat betreft de beekvakken en de kunstwerken, welke geheel op Duits of Nederlands gebied liggen, is telkens die partij onderhoudsplichtig, in wiens gebied het betreffende gedeelte of kunstwerk ligt.   
 2.  Voor het op de overzichtskaart aangegeven grensvormende beekgedeelte en kunstwerken is onderhoudsplichtig: 
@@ -51,8 +46,7 @@ c. vanaf punt B - station 5.675 - tot grenssteen 377 - station 6.000 met inbegri
 3.  In het geval, dat kunstwerken, in afwijking van lid 1 en lid 2, op andere eigendom zijn gelegen, blijft de eigenaar onderhoudsplichtig.   
 4.  De partijen verplichten zich, het in haar gebied ertoe te leiden, dat de niet door haar te onderhouden werken in en aan de waterlossing, door de daartoe verplichte derden worden onderhouden.   
 
-### Artikel  4   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  4  
 
 1.  Voor het toezicht op het onderhoud wordt een commissie van vier leden gevormd. Zij bestaat uit een vertegenwoordiger van de stad Wassenberg en een vertegenwoordiger van de stad Wegberg en twee vertegenwoordigers van het Waterschap Roer en Overmaas. Het voorzitterschap wordt jaarlijks afwisselend bekleed door een vertegenwoordiger van de Duitse en de Nederlandse partij. De toezichthoudende organen - Kreis Heinsberg, 5138 Heinsberg, en de Provincie Limburg, Postbus 5700, 6202 MA Maastricht, alsmede het Staatliches Amt für Wasser- und Abfallwirtschaft te Aken worden voor de schouwvoering uitgenodigd.   
 2.  Op de werkzaamheden van de schouwcommissie is van toepassing het Reglement van orde van de permanente Nederlands-Duitse grenswaterencommissie, voor zover dit geldt voor de door deze commissie ingestelde subcommissies.   
@@ -64,19 +58,16 @@ Treedt in werking op een nader te bepalen tijdstip
 8.  De commissieleden zijn bevoegd te allen tijde de in artikel 3, lid 2, genoemde beekvakken te bezichtigen.   
 9.  De partijen verbinden zich elkaar behulpzaam te zijn bij het verkrijgen van de vereiste grensbescheiden voor de leden van de schouwcommissie en de deskundigen die hun terzijde staan.   
 
-### Artikel  5   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  5  
 
 Wijzigingen in de overeenkomst behoeven de goedkeuring van de regeringen van de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden.  
 
-### Artikel  6   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  6  
 
 1.  De overeenkomt wordt gesloten voor de tijdsduur van tien jaren. Wordt zij niet drie jaren voor de expiratiedatum opgezegd, dan wordt zij geacht stilzwijgend te zijn verlengd met telkens tien jaren.   
 2.  De opzegging dient te geschieden bij aangetekend schrijven.   
 
-### Artikel  7   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  7  
 
 Deze overeenkomst behoeft de goedkeuring van de regeringen van de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden. Zij treedt in werking een maand na ontvangst van de laatste kennisgeving van goedkeuring bij één van de partijen. De partijen stellen het tijdstip van inwerkingtreding schriftelijk vast.  
 
