@@ -122,7 +122,7 @@ IN WITNESS WHEREOF the undersigned, duly authorised thereto by their respective 
 
 ### *Issued in pursuance of the European Agreement on Travel by Young Persons on collective Passports, opened for signature by member countries of the Council of Europe on 16th December 1961* 
 
-![10000054076](http://wetten.overheid.nl/Illustration/10000054076)
+![]()
 
 ####Europese Overeenkomst betreffende het reizen van jeugdige personen op collectieve paspoorten tussen de landen die lid zijn van de Raad van Europa
 
@@ -162,7 +162,7 @@ Alle personen die voorkomen op een collectief reisdocument moeten bij elkaar bli
 
 ### Artikel  7  
 
-Indien, in tegenstelling tot de bepalingen van artikel 6, een der leden van de groep die voorkomt op het collectieve reisdocument voor jeugdige personen gescheiden wordt van de groep of, om welke reden dan ook, niet met de andere leden van de groep terugkeert in het land dat het collectieve reisdocument heeft af gegeven moet de leider van de groep dit onverwijld melden aan de plaatselijke autoriteiten en, voor zover mogelijk, aan de diplomatieke of consulaire vertegenwoordiger van het land dat genoemd document heeft afgegeven. Bij het verlaten van het land moet hij ïn ieder geval de grenspost ervan op de hoogte stellen. Het lid dat niet met zijn groep het land verlaat moet, indien dit noodzakelijk is, een individueel reisdocument aanvragen bij de vertegenwoordiger van zijn land.  
+Indien, in tegenstelling tot de bepalingen van artikel 6, een der leden van de groep die voorkomt op het collectieve reisdocument voor jeugdige personen gescheiden wordt van de groep of, om welke reden dan ook, niet met de andere leden van de groep terugkeert in het land dat het collectieve reisdocument heeft af gegeven moet de leider van de groep dit onverwijld melden aan de plaatselijke autoriteiten en, voor zover mogelijk, aan de diplomatieke of consulaire vertegenwoordiger van het land dat genoemd document heeft afgegeven. Bij het verlaten van het land moet hij in ieder geval de grenspost ervan op de hoogte stellen. Het lid dat niet met zijn groep het land verlaat moet, indien dit noodzakelijk is, een individueel reisdocument aanvragen bij de vertegenwoordiger van zijn land.  
 
 ### Artikel  8  
 
@@ -244,5 +244,5 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd door hun on
 
 ### *Afgegeven ingevolge de Europese Overeenkomst betreffende het reizen van Jeugdige personen op collectieve paspoorten, opengesteld ter ondertekening door de Lid-Staten van de Raad van Europa op 16 december 1961* 
 
-![10000054076](http://wetten.overheid.nl/Illustration/10000054076)
+![]()
 
