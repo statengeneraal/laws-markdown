@@ -27,16 +27,24 @@ DONE at Geneva, on the sixteenth day of September, nineteen hundred and fifty, i
 
 ####LIST AND NUMBERS OF THE ROADS OF THE INTERNATIONAL NETWORK
 
-###A. MAIN ARTERIES
+<sup> 1)  In this annex geographical names and the spelling of names of towns are those now used locally and are not necessarily recognized and accepted by the Parties to the Declaration.  </sup>   
+###A. MAIN INTERNATIONAL TRAFFIC ARTERIES
 
-*E1 London - Paris - Nice - Rome - Palermo:*  London - Southampton (boat to Le Havre). Le Havre - Paris - Sens - Avallon - Chagny - Mâcon - Lyons - Valence - Bollene - Aix-en-Provence - St. Raphaël - Nice - Ventimiglia - Savona - Genoa - La Spezia - Apuania - Migliarino - Pisa - Leghorn - Rome - Ponte Garigliano - Via Domiziana - Naples - Pompei - Salerno - Catanzaro - Reggio Calabria (ferry from Villa San Giovanni and from Reggio Calabria to Messina). Messina - Palermo.  *E2 London - Lausanne - Milan - Brindisi:*  London - Folkestone - Dover (ferry to Calais). Calais - Laon - Rheims - Vitry-le-François - St. Dizier - Dijon - Dôle - Vallorbe - Lausanne - Martigny - Simplon - Arona - Milan - Placenza - Parma - Modena - Bologna - Forli - Cesena - Rimini - Ancona - Pescara - Foggia - Bari - Brindisi.  *E3 Lisbon - Paris - Stockholm:*  Lisbon - V. Franca de Xira - Coimbra - Celorico da Beira - Vilar Formoso. Hendaye - Bordeaux - Tours - Paris - Lille - Courtrai - Ghent - Antwerp - Hechtel - Venlo - Oberhausen - Hamm - Bielefeld - Oeynhausen - Hanover - Hamburg - Neumunster - Schleswig - Flensburg - Kolding - Vejle - Frederikshavn (ferry to Göteborg and to Larvik, boat to Oslo). Göteborg - Orebro - Arboga - Södertälje - Stockholm.  *E4 Lisbon - Berne - Copenhagen - Stockholm - Helsinki:*  (Lisbon) - Cacilhas - Pegoes - Flvas. Le Perthus - Narbonne - Nîmes - Montélimar - Valence - Chambéry - Geneva - Nyon - Lausanne - Berne - Olten - Basle - Karlsruhe - Mannheim - Frankfurt-on-the-Main - Giessen - Hersfeld - Kassel - Göttingen - Northeim - Hanover - Hamburg - Lübeck - Fehmarn - Vordingborg - Køge - Copenhagen - Elsinor (ferry to Hälsingborg). Hälsingborg - Värnamo - Jonköping - Linköping - Norrköping - Södertälje - Stockholm - Uppsala - Gävle - Hamrånge - Söderhamm - Sundsvall - Umeå - Haparanda - Tornio - Vaase - Tampere - Helsinki.  *E5 London - Vienna - Budapest - Belgrade - Alexandroupolis:*  London - Folkestone - Dover (ferry to Calais and to Ostend). Calais - Ostend - Ghent - Brussels - St. Trond - Liège - Aachen - Cologne - Frankfurt-on-the-Main - Aschaffenburg - Würzburg - Nuremberg - Regensburg - Straubing - Passau - Linz - Melk - Vienna - Nickelsdorf - Gyor - Budapest - Szeged - Belgrade - Gevgeli - Salonika - Cavalla - Alexandroupolis.  *E6 Rome - Berlin - Oslo - Skibotten:*  Rome - Siena - Florence - Pistoia - Bologna - Modena - Verona - Trento - Bolzano - Brenner - Innsbruck - Griessen - Munich - Nuremberg - Hof - Leipzig - Berlin - Neubrandenburg - Stralsund - Sassnitz (ferry to Trälleborg). Trälleborg - Malmö - Hälsingborg - Falkenberg - Göteborg - Uddevalla - Svìnesund - Moss - Oslo - Eidsvoll - Hamar - Otta - Dombås - Trondheim - Levanger - Narvik - Skibotten.  *E7 Rome - Vienna - Warsaw:*  Rome - Orte - Perugia - Cesena - Forli - Bologna - Ferrara - Padua - Mestre - Cervignano - Udine - Tarvis - Villach - Bruck - Vienna - Drasenhofen - Brno - Olomouc - C. Tesin - Cracow - Radom - Warsaw.  *E8 London - The Hague - Berlin - Warsaw - (USSR):*  London - Colchester - Harwich (ferry to Hook of Holland and to Antwerp, boat to Esbjerg). Hook of Holland - The Hague - Gouda - Utrecht - Amersfoort - Oldenzaal - Osnabrück - Oeynhausen - Hanover - Magdeburg - Berlin - Poznan - Krosniewice - Lowicz - Warsaw - (USSR).  *E9 Amsterdam - The Hague - Basle - Genoa:*  Amsterdam - Utrecht - Eindhoven - Maastricht - Liège - Bastogne - Arlon - Luxembourg - Metz - Sarrebourg - Strasbourg - Mulhouse - Basle - Olten - Lucerne - Arth - Andermatt - Lugano - Chiasso - Como - Milan - Casteggio - Tortona - Serravalle - Genoa.  *E10 Paris - Brussels - The Hague - Amsterdam:*  Paris - Bapaume - Cambrai - Mons - Brussels - Antwerp - Breda - Rotterdam - The Hague - Amsterdam.  *E11 Paris - Salzburg:*  Paris - Vitry-le-François - St. Dizier - Ligny-en-Barrois - Nancy - Sarrebourg - Strasbourg - Karlsruhe - Stuttgart - Augsburg - Munich - Rosenheim - Salzburg.  *E12 (Paris) - Prague - Warsaw - (Leningrad and Moscow):*  (Paris) - Ligny-en-Barrois - Metz - Saarbrücken - Mannheim - Heilbronn; - Schwäb. Hall - Nuremberg - Neustadt - Pilsen - Prague - Hradec Kralove - Nachod - Klodzko - Wroclaw - Lodz - Lowicz - Warsaw - Bialystok - (USSR - Leningrad and Moscow).  *E13 Lyons - Venice:*  Lyons - Chambery - Modane - Turin - Milan - Brescia - Verona - Vicenza - Padua - Mestre - Venice.  *E14 Trieste - Prague - Szczecin:*  Trieste - Ronchi - Udine - Tarvis - Villach - Salzburg - Linz - Tabor - Prague - Mlada Boleslav - Jablonec - Novy Svet - Jelenia Gora - Szczecin.  *E15 Hamburg - Berlin - Prague - (Budapest):*  Hamburg - Perleberg - Berlin - Dresden - Cinvald - Prague - Brno - Breclav - Bratislava - (Budapest).  *E16 Bratislava - Gdynia:*  Bratislava - Zilina - C. Tesin - Katowice - Piotrkow - Lodz - Swiecie - Gdansk - Gdynia.  *E17 Chagny - Salzburg:*  Chagny - Dijon - Belfort - Basle - Olten - Zürich - Winterthur - St. Gallen - St. Margrethen - Innsbruck - Wörgl - Salzburg.  *E18 Stavanger - Oslo - Stockholm:*  Stavanger - Egersund - Kristiansund - Larvik - Horten - Drammen - Oslo - Orje - Karlstad - Orebro - Arboga - Linköping - Enköping - Stockholm.  *E19 (Albania) - Janina - Corinth:*  (Albania) - Janina - Arta - Agrinion - Antirion - Rion - Corinth.  *E20 Koritza - Sofia:*  Koritza - Fiorina - Vevi - Edessa - Salonika - Seres - Sofia. *E21* Aosta - Turin - Savona and Genoa. *E21a* Martigny - Grand St. Bernard - Aosta. *E21b* Geneva - Bonneville - Mt. Blanc - Aosta. *E22* Berlin - Wroclaw - Katowice - Cracow - Rzeszow - Przemysl - (USSR). 
-###B. BRANCH OR LINK ROADS
+*E1 London - Paris - Nice - Roma - Palermo:*  London - Southampton (boat to Le Havre). Le Havre - Paris - Sens - Avallon - Chagny - Mâcon - Lyon - Valence - Bollène - Aix-en-Provence - Saint-Raphaël - Nice - Ventimiglia - Savona - Genova - La Spezia - Massa Carrara - Migliarino - Pisa-Livorno - Roma - Ponte Garigliano - Mondragone - Napoli - Pompei - Salerno - Cosenza - Reggio Calabria (ferry from Villa-San-Giovanni and from Reggio Calabria to Messina) - Messina - Palermo.  *E2 London - Lausanne - Milano - Brindisi:*  London - Folkestone - Dover (ferry to Calais). Calais - Laon - Reims - Vitry-le-François - Saint-Dizier - Dijon - Dole - Vallorbe - Lausanne - Martigny - Simplon - Arona - Milano Piacenza - Parma - Modena - Bologna - Forli - Cesena - Rimini Ancona - Pescara - Foggia - Bari - Brindisi.  *E3 Lisboa - Paris - Stockholm:*  Lisboa - Vila Franca de Xira - Coímbra - Celorico da Beira - Vilar Formoso - Salamanca - Valladolid - Burgos - San-Sebastián - Hendaye - Bordeaux - Tours - Paris - Lille - Kortrijk - Gent - Antwerpen - Eindhoven - Venlo - Oberhausen - Hamm - Bielefeld - Bad Oeynhausen - Hannover - Hamburg - Neumünster - Schleswig - Flensburg - Kolding - Vejle - Frederikshavn (ferry to Göteborg and to Larvik, boat to Oslo) - Göteborg - Örebro - Arboga - Södertälje - Stockholm.  *E4 Lisboa - Bern - Köbenhavn - Stockholm - Helsinki:*  Lisboa (Cacilhas) - Pegões - Elvas - Badajoz - Mérida - Trujillo - Madrid - Zaragoza - Lérida - Barcelona - Le Perthus - Narbonne - Nîmes - Bollène - Valence - Chambéry - Genève - Nyon Lausanne - Bern - Olten - Basel - Karlsruhe - Mannheim - Frankfurt a/M - Giessen - Hersfeld - Kassel - Göttingen - Northeim - Hannover - Hamburg - Lübeck - Fehmarn - Vordingborg - Koge - Köbenhavn - Helsingör (ferry to Hälsingborg). Hälsingborg - Värnamo - Jönköping - Linköping - Norrköping - Södertälje - Stockholm - Uppsala - Gävle - Hamrånge - Söderhamn Sundsvall - Umea - Haparanda - Tornio - Oulu-Jyyäskylä - Lahti - Helsinki.  *E5 London - Wien - BudapestBeograd - Alexandroupolis - Istanbul - Ankara - Turkish-Syrian frontier:*  London - Folkestone - Dover (ferry to Calais and Oostende) - Calais - Oostende - Gent - Bruxelles - Saint-Trond - Liège - Aachen - Frankfurt a/M - Aschaffenburg - Würzburg - Nürnberg Regensburg - Straubing - Passau - Linz - Melk - Wien - Nickels - Györ - Budapest - Szeged - Beograd - Niš -  
 
-*E31* London - St. Albans - Northampton - Doncaster - Scotch-corner - Carlisle - Abington - Glasgow. *E32* Abington - Edinburgh. *E33* Northampton - Coventry - Cannock - Warrington - Liverpool. *E34* Cannock - Shrewsbury - Corwen - Holyhead. *E35* Amsterdam - Amersfoort - Zwolle - Groningen - Winschoten - Oldenburg - Bremen - Hamburg. *E36* Hook of Holland - Rotterdam - Gouda - Utrecht - Arnhem - Oberhausen - Cologne. *E37* Breda - Goringhem (Utrecht). *E38* Breda - Eindhoven. *E39* Hechtel - Heerlen - Aachen. *E40* Brussels - Namur - Bastogne. *E41* (Calais) - Valenciennes - Mons - Charleroi - Namur - Liège. *E42* Saarbrücken - Luxembourg - Echternach - (Cologne). *E43* Avallon - Dijon. *E44* Belfort - Mulhouse. *E45* Dôle - Nyon. *E46* Lyons - Ambérieu - Geneva. *E47* Aix-en-Provence - Marseilles. *E48* Nîmes - Marseilles. *E49* Bordeaux - Toulouse - Narbonne. *E50* Porto - Coimbra. *E51* Albergaria - Vizeu - Celorico da Beira. *E52* V. Franca de Xira - (Elvas). *E53* Torino - Asti - Alessandria - Tortona. *E54* Casteggio - Placenza. *E55* (Pisa) - Migliarino - Pistoia. *E56* Ponte Garigliano - Caserta - Foggia. *E57* Naples - Arienzo. *E58* Bari - Taranto. *E59* Messina - Syracuse. *E60* Arth - Zürich. *E61* St. Margrethen - Bregenz - Lindau - Munich. *E62* Hof - Chemnitz - Leipzig - Halle - Magdeburg. *E63* Hamm - Kassel - Herleshausen - Erfurt - Chemnitz - Dresden. *E64* (Berlin) - Neubrandenburg - Rostock - Warnemünde (ferry to Gedser). Gedser - Nyköbing - Vordingborg - Copenhagen. *E65* Lubeck - Rostock - Stralsund. *E66* Esbjerg - Kolding - Middelfart - Nyborg (ferry to Korsör). Korsör - Copenhagen (ferry to Malmö). *E67* Vejle - Middelfart. *E68* Bergen - Gudvangen - Loerdalsören - Tyin - Fagernes - Oslo. *E69* Aalesund - Andalsnes - Dombås. *E70* Winterthur - Schaffhausen - Donaueschingen - Tübingen - Stuttgart - Heilbronn - Schwäb. Hall - Würzburg - Fulda - Hersfeld - Herleshausen. *E71* Hanover - Bremen - Bremerhaven. *E72* Oldenzaal - Lingen - Bremen. *E73* Cologne - Hamme. *E74* Berlin - Szczecin. *E75* Levanger - Sandvika - Brunflo - Hamrånge. *E76* Brunflo - Sundsvall. *E77* Skibotten - Kilpisjärvi - Karesuando - Haparanda. *E78* Haparanda - Kilpisjärvi. *E79* Tornio - Rovaniemi - Virtaniemi. *E80* Turku (Abo) - Helsinki - Lappeenranta - (Viipuri). *E81* Tczew - Malbork - Grudziadz - Warsaw - Lublin - (USSR). *E82* Piotrkow - Warsaw. *E83* Jelenia Gora - Wroclaw - Poznan - Swiecie - Grudziadz. *E84* (Prague) - Jihlava - Znojmo - Vienna. *E85* Olomouc - Zilina - Presov - Kosice - (USSR). *E86* Wörgl - Rosenheim. *E87* Janina - Trikkala - Larissa - Volos. *E88* (Janina) - Preveza. *E89* Rion - Patras. *E90* Vevi -Kozani. *E91* Cervignano - Ronchi. *E92* (Salonika - St. Athanasios) - Verria - Kozani - Larissa - Lamia - Athens - Corinth - Argos - Kalamai.   
+| --- | --- |
+|:---|:---|
+| Northern itinerary (E5 <sup>N</sup>)  | Niš - Dimitrovgrad - Sofia - Plovdiv - Haskovo - Edirne - Babaeski - Silivri  |
+| Southern itinerary (E5 <sup>S</sup>)  | Niš - Skopje - Gevgelija - Thessaloniki - Kavalla - Komotini - Alexandroupolis - Pherrai - Ipsala - Tekirdağ - Silivri  |
+
+Silivri - Istanbul - Izmit - Adapazarí - Bolu - Gerede - Ankara - Aksaray - Adana - Iskenderun - (Turkish-Syrian frontier).  *E6 Roma - Berlin - Oslo - Stjördal:*  Roma - Siena - Firenze - Bologna - Modena - Verona - Trento - Passo del Brennero/Brenner Pass - Innsbruck - Griesen - München - Nürnberg - Hof - Leipzig -- Berlin .- Neubrandenburg - Stralsund - Sassnitz (ferry to Trelleborg) - Trelleborg - Malmö - Hälsingborg - Falkenberg - Göteborg - Uddevalla - Svinesund - Moss - Oslo - Eidsvoll - Hamar - Otta - Dombås - Trondheim - Stjördal.  *E7 Roma - Wien - Warszawa:*  Roma - Todi - Ponte San Giovanni (Perugia) - Cesena - Forlì - Bologna - Ferrara - Padova - Mestre - Cervignano - Udine - Tarvision - Villach - Bruck an der Mur - Wien - Drasenhofen - Brno - Olomouc - Český Tĕšin - Kraków - Radom - Warszawa.  *E8 London - Den Haag - Berlin - Warszawa -(USSR):*  Londen - Colchester - Harwich (ferry to Hoek van Holland) - Hoek van Holland - Den Haag - Gouda - Utrecht - Amersfoort - Oldenzaal - Osnabrück - Bad Oeynhausen - Hannover - Magdeburg - Berlin - Poznan - Krosniewice - Lowicz - Warszawa - (USSR).  *E9 Amsterdam - Basel - Genova:*  Amsterdam - Utrecht - Eindhoven - Maastricht - Liège - Bastogne - Arlon - Luxembourg - Metz - Sarrebourg - Strasbourg - Mulhouse - Basel - Olten - Luzern - Arth - Andermatt - Lugano - Chiasso - Como - Milano - Tortona - Serravalle - Genova.  *E1O Paris - Bruxelles - Den Haag - Amsterdam:*  Paris - Bapaume - Cambrai - Mons - Bruxelles - Antwerpen - Breda - Rotterdam - Den Haag - Amsterdam - Den Oever (via Afsluitdijk) - Leeuwarden - Groningen.  *E11 Paris - Salzburg:*  Paris - Vitry-le-François - Saint-Dizier -. Ligny-en-Barrois - Nancy - Sarrebourg - Strasbourg - Karlsruhe - Stuttgart - Augsburg - München - Rosenheim - Salzburg.  *E12 (Paris) - Praha - Warszawa - (Leningrad and Moskva):*  (Paris) - Ligny-en-Barrois - Metz - Saarbrücken - Mannheim - Heilbronn - Schwäb; Hall - Nürnberg - Plzeň - Praha - Hradec Králové - Náchod - Klodzko - Wroclaw - Lódź - Lowicz - Warszawa - Biálystok - (USSR - Leningrad and Moskva).  *E13 Lyon - Venezia:*  Lyon - Chambéry - Modane - Torino - Milano - Brescia - Verona - Vicenza - Padova - Mestre - Venezia.  *E14 Trieste - Praha - Szczecin:*  Trieste - Ronchi - Udine - Tarvisio - Villach - Salzburg - Linz - Tabor - Praha - Mlada Boleslav - Železný Brod - Nový Svèt - Jelenia Gora - Szczecin.  *E15 Hamburg - Berlin - Praha - Budapest - Bucuresti - Constanta:*  Hamburg - Perleberg - Berlin - Dresden - Cínovec - Praha - Kolín - Brno - Břeclav - Bratislava - Rajka - Mosonmagyarovar - Budapest (section shared with E5) - Puspökládany - Oradea - Cluj - Turda - Tirgu - Mures - Brasov - Ploesti - Bucuresti - Urziceni - Slobozia - Hirsova - Constanta. *E15a* Turda - Sebes - Sibiu - Pitesti - Bucuresti.  *E16 Bratislava - Gdynia:*  Bratislava - Žilina - Český Tĕšin - Katowice - Piotrków - Lódź - Swiecie - Gdańsk - Gdynia.  *E17 Chagny - Salzburg:*  Chagny - Dijon - Belfort - Basel - Olten - Zürich - Winterthur - St. Gallen - St. Margrethen - Innsbruck - Wörgl - Salzburg.  *E18 Stavanger - Oslo - Stockholm:*  Stavanger - Kxistiansand - Larvik - Drammen - Oslo - Örje - Karlstad - Örebro - Arboga - Köping - Enköping - Stockholm.  *E19 Igoumenitsa - Ioannina - Korinthos:*  Igoumenitsa - Ioannina - Arta - Agrinion - Antirion - Rion - Korinthos  *E20 (Greco-Yugoslav frontier) - Sofia - Bucuresti - (USSR):*  (Greco-Yugoslav frontier) - Fiorina - Vevi - Edessa - Thessaloniki - Serrai - Blagojevgrad - Sofia - Pleven - Bjala- Ruse - Giurgiu - Bucuresti - Urziceni - (section shared with El5) - Buzau - Bacau - Roman - Suceava - Siret - (USSR). *E21* Aosta - Torino - Savona. *E21a* Martigny - Grand Saint-Bernard - Aosta. *E21b* Genève - Bonneville - Mont-Blanc - Aosta. *E22* Berlin - Wroclaw - Opole - By torn - Krakow - Rzeszow - Przemysl - (USSR).  *E23 Izmir - Ankara - Turkish-Iranian frontier:*  Izmir - Afyon - Ankara - Yozgat - Sivas - Erzincan - Erzurum - Ağri - (Turkish-Iranian frontier).  *E24 Keşan - Izmir - Adana - (Turkish-Iraqi frontier):*  Keşan - Canakkale - Izmir - Ay din - Antalya - Adana (section shared with E5) - Gaziantep - Urfa - Mardin - Cizre - Hakkari - Bajirge - (Turkish-Iraqi frontier). *E24a* Gizre - (Turkish-Iranian frontier). *E25* Burgos - Madrid - Bailén - Sevilla - Cádiz - Algeciras. *E26* Barcelona - Tarragona - Castellón de la Plana - Valencia - Granada - Málaga - Algeciras. *E27 Trieste* - *Varna:* Trieste - Rijeka - Split - Dubrovnik - Titograd - Skopje - Kumanovo - Kjustendil - Sofia - Jablanitza - Veliko Tirnovo - Choumen - Varna. 
+###B. BRANCH AND LINK ROADS
+
+*E31* London - St. Albans - Northampton - Doncaster - Scotch-Corner - Carlisle - Abington - Glasgow. *E32* Abington - Edinburgh. *E33* Northampton - Coventry - Cannock - Warrington - Liverpool. *E34* Cannock - Shrewsbury - Corwen - Holyhead. *E35* Amsterdam - Amersfoort - Zwolle - Groningen - Winschoten - Oldenburg - Bremen - Hamburg. *E36* Hoek van Holland - Rotterdam - Gouda - Utrecht - Arnhem - Oberhausen - Köln. *E37* Breda - Gorinchem - (Utrecht). *E38* Breda - Eindhoven. *E39* Antwerpen - Heerlen - Aachen. *E40* Bruxelles - Namur - Bastogne. *E41* (Calais) - Valenciennes - Mons - Charleroi - Namur - Liège. *E42* Phalsbourg - Sarreguemines - Saarbrücken - Luxembourg - Echternach - Bitburg - Prüm - Euskirchen - Köln. *E43* Avallon - Dijon. *E44* Belfort - Mulhouse. *E45* Dole - La Cure - La Faucille - Gex - Genève. *E46* Lyon - Ambérieu - Genève. *E47* Aix-en-Provence - Marseille. *E48* Nîmes - Marseille. *E49* Bordeaux - Toulouse - Narbonne. *E50* Coímbra - Porto - Vigo - La Coroña - Oviedo - Santander - Bílbao - San Sebastián. *E51* Albergaria a Velha - Vizeu - Celorico da Beira. *E52* Vila Franca de Xira - Pegões - Beja - Vila Verde de Ficalho - Rosal de la Frontera - Sevilla. *E53* Torino - Asti - Alessandria - Tortona. *E54* Tortona - Casteggio - Piacenza. *E55* Migliarino (Pisa) - Pistoia - Firenze. *E56* Ponte-Garigliano - Caserta - Foggia. *E57* Napoli - Arienzo. *E58* Bari - Taranto. *E59* Messina - Siracusa. *E60* Arth - Zurich. *E61* Bellinzona - San Bernardino - Chur - St. Margrethen - Bregenz - Lindau - München. *E62* Hof - Karl-Marx-Stadt - Leipzig - Halle - Magdeburg. *E63* Hamm - Kassel - Herleshausen - Erfurt - Karl-Marx-Stadt - Dresden. *E64* (Berlin) - Neubrandenburg - Rostock - Warnemünde (ferry to Gedser) - Gedser - Nyköbing - Vordingborg - Köbenhavn. *E65* Lübeck - Rostock - Stralsund. *E66* Esbjerg - Kolding - Middelfart - Nyborg (ferry to Korsör) - Korsör - Köbenhavn (ferry to Malmö) - Malmö. *E67* Vejle - Middelfart. *E68* Bergen - Gudvangen - Laerdalsöyra - Nystua - Fagernes - Oslo. *E69* Ålesund - Åndalsnes - Dombås. *E70* Winterthur - Schaffhausen - Donaueschingen - Tübingen - Stuttgart - Heilbronn -. Schwäb. Hall - Würzburg - Fulda - Hersfeld - Herleshausen. *E71* Hannover - Bremen - Bremerhaven. *E72* Oldenzaal - Lingen - Bremen. *E73* Köln - Hamm. *E74* Berlin - Szczecin. *E75* Stjordal - Storlien - Östersund (- Brunflo) - Sundsvall.  *E76*  *E77* Feldkirch - Buchs. *E78* Totnio - Kilpisjärvi. *E79* Vaasa - Tampere - Helsinki. *E80* Turku (Åbo) - Helsinki - Lappeenranta - Imatra. *E81* Gdańsk - Elblag - Ostróda - Mlawa - Warszawa - Lublin - (USSR). *E82* Piotrków - Warszawa. *E83* Jelenia Gora - Wroclaw - Poznań - Swiecie - Grudziadz. *E84* (Praha) - Jihlava - Znojmo - Wien. *E85* Olomouc - Zilina - Prešov-Košice - (USSR), *E86* Wörgl - Rosenheim. *E87* Ioannina - Trikkala - Larissa - Volos. *E88* (Ioannina) - Preveza. *E89* Rion - Patrai. *E90* Vevi - Kozani - Larissa. *E91* Cervignano - Ronchi. *E92* Junction with road E 20 near Verria - Larissa - Almyros - Lamia - Athinai - Korinthos - Argos - Kalamai. *E93* Bruck an der Mur - Graz - Spielfeld - Šentilj - Maribor - Ljubljana- (Trieste). *E94* Klagenfurt - (Loibl-Ljubelj tunnel) - Ljubljana - Zagreb- Beograd - Vrsač - Stamora - Moravita - Timisoara - Caransebes - Turnu - Severin - Craiova - Pitesti. *E95* Constanta - Mangalia - Varna - Burgas - Mitchourin - Malko Tirnovo - Kirklareli - Babaeski. *E96* Rijeka - Zagreb - Čakovec - Gorican - Nagykanizsa - Siofok - Budapest - Miskolc - Tornyosnémeti - Košice. *E97* Bjala - Veliko Tirnovo - Gabrovo - Stara Zagora - Haskovo - Podkova - Komotini. *E98* Ruse - Razgrad - Choumen. *E99* Kömürler (Road E24.) - Moras - Maltya - Elaziğ - Tunceli - Mutu (Road E23). *E100* Trabzon - Gümüshane - Askale - Karabiyik. *E101* Madrid - Valencia. *E102* Badajoz - Sevilla. *E103* Bailén - Granada - Motril - Málaga.   
 
 ### Annex  II  
 
-####CONDITIONS TO WHICH THE MAIN INTERNATIONAL TRAFFIC ARTERIES SHALL CONFORM
+####Conditions to which the main international traffic arteries shall conform
 
 ### A  
 
@@ -46,120 +54,96 @@ DONE at Geneva, on the sixteenth day of September, nineteen hundred and fifty, i
 
 ####General
 
-1. The characteristics which constitute the basic standards for the design of the main international traffic arteries, hereinafter designated as “international arteries”, apply to roads in open country and, except where provided otherwise, also to those in built-up areas.  
+1. The fundamental characteristics of the design and construction of the main international traffic arteries, hereinafter designated as “international roads”, are dealt with in the following provisions. They apply only to the sections of these roads outside built-up areas. The latter should be by-passed if they constitute a hindrance or danger.  
 
-2.  *Density of traffic*  The construction of roads shall be related to the density of traffic. For the purpose of assessing this density, the 30th peak hour, i.e., the hourly flow attained during at least thirty hours in the course of the year, shall be taken as a basis.    
+2. It is always desirable to adopt maximum dimensional characteristics whenever this is possible without undue expenditure; those indicated hereinafter as a rule represent the minimum. However, in some exceptional cases (unfrequented roads, mountainous areas, very difficult terrain, etc.), reduced dimensional characteristics adapted to local conditions may be allowed, subject to the fullest possible observance of the spirit of the directions given below, and in particular of those relating to homogeneity of alignment.  
+
+3. The roads are built according to the volume and the composition of the traffic to be accommodated and with reference to a suitably selected design speed. The volume and composition of traffic to be considered are those of some definite peak hour, excluding peaks occurring with low frequency, so as to limit the hours of congestion to an acceptable number with due regard to the probable development of traffic. The design speed chosen is as high as possible with due regard to the importance of the road, the topography of the region traversed, and other local conditions.    
 
 ### II  
 
-####Roads
+####Types and categories of roads
 
-1.  *Carriageways and their width*  International arteries shall conform with the following categories: 
-
-(a) *Category I:* one carriageway of 7 metres in width with two lanes each of 3.50 metres, it being understood that, in mountainous country, the width may exceptionally be reduced to 6 metres. For mixed traffic roads of this category, the maximum permissible density should not exceed 600 vehicles per hour, it being understood that this maximum may be reasonably increased on roads exclusively reserved to motor traffic and wherever alterations would give rise to special difficulties. The figure of 600 vehicles per hour is based on the assumption of a maximum speed of flow of 55 km. for the peak hour under consideration. It applies to traffic which does not include an abnormal percentage of slow or heavy vehicles. Should the speed of flow during peak-hours be higher, the traffic figure would have to be accordingly reduced.  
-
-(b) *Category II:* roads with two carriageways each of at least 7 metres wide, separated by a central strip, each carriageway consisting of two lanes, with shoulders stabilized where necessary. As a rule, category II roads should be built where the density of traffic exceeds the figure indicated in paragraph 1, *(a).*  
-
-(c) *Category III* (provisional): taking into account topographical, economic and financial considerations, it is necessary provisionally to provide for roads with three lanes of a total width of 10.50 metres or, exceptionally, of 9 metres. On these roads, the three lanes shall be clearly marked except at curves and summits, where the traffic shall, if necessary, be channelled into two marked lanes.    
-
-2.  *Crossfall on the straight sections*  The cross section of the carriageway shall comprise one or two planes. When the cross section comprises two planes, they can be adjusted to the road axis by a curve over a maximum distance of 2 metres. On the straight sections of the road, the crossfall shall be as slight as is consistent with the speedy carrying off of water and taking into account both the longitudinal gradient and the rugosity of the surface. This crossfall shall not exceed 3 per cent, except in the gutter where it may be increased to 4 per cent.  
-
-3.  *Cycle tracks and footpaths*  In addition to the carriageways, separate cycle tracks and footpaths shall be provided wherever the density of traffic either of this type or of other types makes it necessary.  
-
-4.  *Gradient*  A distinction should be made between international arteries in flat or fairly level country and those in mountainous country. In the first case, gradients should not exceed 5 per cent, or, in exceptional cases, 6 per cent over short sections. In the second case, it should not exceed 8 per cent or, in exceptional cases, 10 per cent.  
-
-5.  *Alignment*  Roads should be divided, for the purposes of alignment, into sections of adequate length, each sufficiently homogeneous to be characterized by certain essential norms. The general alignment should be such as to accomplish the transition from the characteristics of one section to those of the neighbouring sections (if the transition does not occur at a well-defined geographical point, for instance, an important town) over a limited distance and with some gradation, especially in the case of radii of bends. Alignments are to be grouped in three classes: 
-### *First class* 
-
-Alignments on easy or fairly even ground where there are a number of built-up areas and intersections which may need careful handling. The following characteristics should be noted: Design speed: from 100 to 120 km/h. Radius of horizontal curve: normal 500 metres; minimum 300 metres. Visibility : normal 230 metres; minimum 150 metres. <sup> 1)  That is, visibility near summits, for a driver whose eye-level is 1.35 metres above the carriageway, of an obstacle 0.10 metre in thickness placed on the carriageway.  </sup> Radius of vertical summit curve: normal 5,000 metres; minimum 2,500 metres. 
-### *Second class* 
-
-Alignments in hilly, broken country where the minimum radius of 300 metres is not likely to be practicable because of the high cost which its adoption would entail. The following characteristics should be noted: Design speed: 80 km/h. Radius of horizontal curve: normal 300 metres; minimum 200 metres. Visibility : normal 150 metres; minimum 110 metres. <sup> 1)  That is, visibility near summits, for a driver whose eye-level is 1.35 metres above the carriageway, of an obstacle 0.10 metre in thickness placed on the carriageway.  </sup> Radius of vertical summit curve: normal 2,500 metres; minimum 1,200 metres. 
-### *Third class* 
-
-Alignments in particularly difficult country, e.g. mountainous country. The following characteristics should be noted: Design speed: 60 km/h. Radius of horizontal curve: normal 200 metres; minimum 100 metres. Visibility : normal 110 metres; minimum 60 metres. <sup> 1)  That is, visibility near summits, for a driver whose eye-level is 1.35 metres above the carriageway, of an obstacle 0.10 metre in thickness placed on the carriageway.  </sup> Radius of vertical summit curve: normal 1,000 metres; minimum 400 metres. It is understood that, in particularly difficult country, lower radii and visibility ranges may exceptionally be permitted for particularly difficult sections. In any case, however, it must always be possible for two vehicles of maximum permitted dimensions to meet and pass each other on curves of the smallest radius. The characteristics of the three classes mentioned above are summarized in the following table:  
-
-|
-|
-| Class  | Speed of  travel in km/h  | Radii of horizontal curves  | --- | Visibility in longitudinal profile  | --- | Radii of vertical curves  | --- |
-| --- | --- | Normal  | Minimum  | Normal  | Minimum  | Normal  | Minimum  |
-| 1st ..  | 100/120  | 500  | 300  | 230  | 150  | 5,000  | 2,500  |
-| 2nd ..  | 80  | 300  | 200  | 150  | 110  | 2,500  | 1,200  |
-| 3rd ..  | 60  | 200  | 100  | 110  | 60  | 1,000  | 400  |
-
-The term “normal radius of curve” shall be taken to mean the minimum normally to be adopted for radii of curves, the figure for “minimum radius of curve” being that below which no radius must fall. The radii of vertical curves in the low stretches, or sags, should be equal to at least one-half of the corresponding radii of the neighbouring summits.  
-
-6.  *Superelevation*  On bends with radius less than a figure to be determined according to local conditions, and which might well vary between 1,500 and 1,000 metres, the carriageway must be raised. The extent of superelevation depends on traffic speed, the radius of the bend and the rugosity of the surface of the carriageway. On roads where the danger of icing in winter is non-existent, a maximum superelevation of 10 per cent for bends of small radius seems permissible.  
-
-7.  *Extra width on curves*  Extra width on curves should be provided to allow free passage for vehicles of the largest dimensions when meeting or overtaking.  
-
-8.  *Bearing capacity*  All roads should be constructed so as to ensure reasonable safety standards for vehicles of the maximum permissible weight.  
-
-9.  *Surfaces and pavements*  Roads should be provided with such surfacing as would render them uniformly dustless and smooth but skid-resistant.  
-
-10.  *Parking*  Where required, laybys and staggered bus stops should be provided off the carriageway.  
-
-11.  *Lighting*  Those parts of the network which form main approaches to, or traverse, important centres of population and on which during hours of darkness there is appreciable general traffic, including pedestrians, should be lighted to a standard which provides an ample margin of safety to all road users without the use of the headlights by motor vehicles.    
+International roads are classified into the following categories:  *A. Ordinary type roads*  (*a*) *Category I:* Roads having a single carriageway with two traffic lanes each at least 3.50 metres wide These roads can normally accommodate volumes not in excess of 600 vehicles/hour with 30 per cent heavy vehicles or 900 vehicles/ hour without heavy vehicles, provided the geometric characteristics of the road ensure good passing sight distance on the greater part of the length of the road and crossings at grade are not too numerous. (*b*) *Category II:* Roads having more than two traffic lanes each at least 3.50 metres wide Under the same conditions as above these roads can normally accommodate volumes not in excess of 900-1300 vehicles/hour for 3-lane roads. Four-lane roads can accommodate 1500-3000 vehicles /hour according as the percentage of heavy vehicles is high or low and the traffic in the two directions even or uneven. It is also recommended that, for greater safety, separate one-way carriageways be provided whenever possible where the intensity of traffic exceeds 600-900 vehicles/hour. In the case of 3-lane roads, longitudinal marking is especially necessary.  *B. Motorways*  Motorways are roads for automobile traffic only; they are accessible only from specially designed interchanges and have no crossings at grade. These roads generally have two separate and independent one-way carriageways each carriageway having at least two traffic lanes each with a minimum width of 3.5 metres.  
 
 ### III  
 
-####Access and crossing facilities
+####Standards
 
-1.  *Suppression of intersections*  All intersections and accesses to the road which are not strictly necessary should be suppressed. If this is not possible in the case of existing roads, an attempt should be made to achieve it at any rate in the case of new roads by diverting local traffic to neighbouring roads. It would be desirable for laws to be passed in each country to facilitate this measure.  
+(a).   *Cross-section*  
 
-2.  *Grade separation*  If the suppression of intersections is not practicable, topographical conditions will often enable an overpass or underpass to be built without excessive expense instead of an intersection, the two roads not to be connected. In the case of new roads, if intersections with other major roads appear inevitable, the provision of crossings at different levels would be justified when the product of the average daily traffic on the two roads exceeds 3 million. At existing intersections where the product of the average daily traffic on the two roads exceeds 3 million, an examination should be made as to the advisability of providing crossings at different levels. At connected crossings at different levels, it is important for traffic on the international road that vehicles should leave and enter it on the right-hand side , so as to obviate the intersection of the trajectories of the vehicles in the main traffic lanes. <sup> 1)  In countries where traffic keeps to the right.  </sup>  
+1. *Shoulders* In addition to the carriageways, international roads are provided with shoulders at least 2.5 metres wide. Clear lateral areas free from any obstacle are provided over at least 1 metre from the edge of the carriageway.  
 
-3.  *Level intersections*  At level intersections, vehicles on the road intersected must be prevented from crossing the carriageway of the international road at too high a speed and, if necessary, should be required to stop. If the adjacent roads are diverted, staggered outlets should be avoided, so as to obviate the necessity of traffic from those roads using the international road. It should be noted that it would be advisable to instal a dual carriageway on international roads at important intersections in order to ensure that drivers leaving the international road to the left need not come to a standstill on the main carriageway while waiting for a vehicle coming from the opposite direction to pass. <sup> 1)  In countries where traffic keeps to the right.  </sup> Roundabouts and crossroads with light signals cause loss of time and fatigue drivers. They should therefore be avoided as far as possible on international routes. 
-###Deceleration and acceleration lanes
+2. *Special paths* Special paths for the exclusive use of pedestrians or cyclists are also provided on the shoulders of ordinary type roads whenever a daily volume of 500 pedestrians or cyclists (or road-users of a similar category) is reached.  
 
-At level intersections in the open country and at road intersections where the international road can be left, it is desirable, wherever this can be done, to construct alongside the carriageway additional strips for slowing down. These strips should be clearly distinguishable from the carriageway, e.g. by the different colour of their surface, and should be about 3 metres wide and 50 to 100 metres in length. These strips enable a driver to leave the main road before slowing down, thus leaving the road free for fast traffic only and avoiding the risk of collision. Similar strips are recommended for vehicles entering the international road; they enable drivers to attain sufficient speed before joining in the traffic on the main artery. 
-###Visibility triangles
+3. *Trams and railways* Trams and railways are excluded from the carriageway o± ordinary type roads and from within the formation of motorways.  
 
-At level intersections, unobstructed visibility triangles of dimensions varying according to the authorized speeds on each particular road should be provided. Where there is no speed limit on the international route, the sides of these triangles might be about 150 metres long on the international road and about 50 metres long on another road.  
+4. *Crossfall* On straight sections the cross-section of the carriageway consists of one or two planes with as small a crossfall as possible and 3 per cent maximum. The minimum radius below which bends must be raised is 1000 metres. The maximum superelevation is 8 per cent.  
 
-4.  *Level-crossings*  As a rule, level-crossings shall be suppressed. The construction of new international roads should exclude the provision of level-crossings. On existing international roads, they should be removed if they hamper appreciably the flow of traffic or if, by reason of their position, they constitute a special danger to traffic.    
+5. *Extra width on curves* Extra width is provided on curves to ensure the free passage of the largest authorised vehicles when meeting.     
+(b).   *Horizontal and vertical alignment*  
+
+1. *Homogeneity of alignment* International roads present homogeneous characteristics over sufficiently long sections. Changes in characteristics are made at points where they are normally obvious to a driver (such as passing through a built-up area or a change in topography). If this is not possible they are introduced progressively.  
+
+2. *Geometric characteristics* The principal geometric characteristics of the international roads are summarized in the following table.  
+
+|
+|
+| Design Speed (in kms/hr)  | --- | 120  | 100  | 80  | 60  |
+| Gradient (% which should not be exceeded)  | --- | 4  | 5  | 6  | 8  |
+| Minimum radii in  convex vertical curves (in metres) <sup>(1)</sup>  | one-way carriageway  | 8000  | 4000  | 2000  | -  |
+| --- | two-way carriageway  | -  | 6000  | 2500  | 1000  |
+| Radii of horizontal curves (in metres)  | --- | 500  | 300  | 200  | 100  |
+
+(<sup>1</sup>) The minimum radii of convex vertical curves given in the table relate to approach gradients which are approximately equal and of contrary sense, the difference in slopes being moreover sufficient to limit the visibility.   The design speed of 120 kms/hour is only chosen if the carriageways are separated and if most of the accesses are specially designed. The figures (given for the radii of convex vertical curves are absolute minima. They ensure, for the given design speed, strictly sufficient visibility distances under normal traffic conditions and in the absence of unfavourable factors (such as smooth tyres or wet roads). Concave curves are such that, for the given design speed, acceleration may not exceed 0.50 m/sec <sup>2</sup>. The figures for the radii of horizontal curves are the minimum needed to ensure the stability of the vehicle. They should be increased by at least 50 per cent for easy and comfortable travel. The curved and straight sections of the horizontal alignment are connected by gradual bends. The horizontal and vertical visibilities provided are such as to give the same degree of safety, taking gradients into account, if any. It is often possible to achieve a favourable solution by doubling the carriageway at summits and bends. On two-way carriageways with 2 or 3 lanes the necessary passing sight distance is ensured on a percentage of the total length of the road as high as possible and distributed with the utmoss uniformity. This percentage must be at least 50 for the traffic volumes mentioned in chapter II for the ordinary type roads of category I and for the 3-lane roads of category II.     
+(c).   *Special measures*  
+
+1. *Stopping and parking* Stopping and parking are prohibited on motorways. The shoulders of these roads are shaped with a minimum width of 2.5 metres to permit vehicles to stop in an emergency. In order to reduce the stopping and parking of vehicles on the carriageways of ordinary type roads carrying average daily volumes in excess of 1500 vehicles the following should be provided off the carriageway: 
+
+(*a*) lay-bys; their spacing is governed by local factors such as the number of adjoining properties and the volume of traffic;  
+
+(*b*) draw-ins for buses.    
+
+2. *Lighting* The lighting provided on sections carrying important night traffic is uniform and sufficient to enable motorized traffic to travel without headlights.     
 
 ### IV  
 
-####Bypassing of cities, towns and villages and ribbon development
+####Intersections and accesses
 
-1.  *Bypasses*  The international roads should bypass built-up areas, except where a village is small and the traffic relatively light, or where the existing road is satisfactory in width and alignment or can conveniently be made so. Easy access and egress should be provided for main centres.  
+1.   *Elimination of secondary intersections*  The crossing at grade of ordinary type international roads by local roads of secondary importance is avoided as far as possible.   
+2.   *Intersections and interchanges*  The intersections on an international road should be specially designed for the traffic using them. Such designs include: 
 
-2.  *Through express roads*  Large urban agglomerations should be bypassed where the purposes of through traffic justify it or, alternatively, through express roads shall be provided.  
+(*a*) *for motorways* roads at different levels with a connected system of entrances and exits avoiding any traffic cut on the motorway. The system of connecting roads includes, where necessary, acceleration and deceleration lanes distinguishable from the carriageway of the motorway and of sufficient length to enable drivers to execute the required manoeuvre and to change the speed of their vehicles to get from one road to another without interfering with traffic on the motorway.  
 
-3.  *Development*  Development with direct individual access to the bypasses or the through express roads shall not be allowed.  
-
-4.  *Access*  Bypasses and through express roads shall be accessible only at points specially provided and designated.    
+(*b*) *for ordinary type roads* arrangements for crossing and for connection according to the principles given in (*a*)**above when the traffic flows are of sufficient importance. If a grade-separated intersection is not justified directional islands are provided to canalise the traffic crossing on the secondary road. If necessary, the carriageway of the international road should be duplicated to provide an adequate waiting zone for vehicles between the opposing directions of travel. The mutual visibility between roads entering an intersection is sufficient to permit a safe approach and crossing of the intersection. The intersection is designed so as to reduce, as may be necessary, the speed of vehicles coming from the side road, account being taken in particular of the visibility. Acceleration and deceleration lanes contiguous with the carriageway of the international road are provided at important intersections particularly when there are dual carriageways.   Roundabouts and light signals should in general be avoided.   
+3.   *Access to adjoining property*  Direct access of adjoining property is not allowed on motorways. For ordinary type roads it would be desirable for laws to be passed to permit the limitation and control of access to adjoining property,   
+4.   *Railway level-crossings*  Railway level-crossings should not be used on international roads.   
 
 ### V  
 
-####Bridges, tunnels, galleries, etc.
+####Structures
 
-1.  *Width*  Throughout each road, the width of the carriageway, or carriageways, and of the separate track, or tracks, provided for cyclists and pedestrians should be maintained on bridges and on approaches to bridges, except in very special cases. Where there are no separate tracks for cyclists and pedestrians, adequate space should be provided on either side of the carriageway or carriageways to permit the full use of the width of the carriageway or carriageways.  
-
-2.  *Headroom*  The minimum clearance for overhead constructions should be 4.50 metres. In the case, however, of existing structures and of new constructions where the provision of this clearance would meet with exceptional difficulties, the height may be 4.20 metres. Overhead constructions allowing less than 4.50 metres headroom should be indicated by the special sign for that purpose.  
-
-3.  *Bearing capacity*  The bearing capacity of the bridges throughout the network should be at least sufficient to ensure, under the normal standards of safety applied by each government, the passage of vehicles of the maximum permissible dimensions and weight.    
+1.  *Alignment and cross-sections:* No modification of the characteristics of the carriageway and, if appropriate, of cycle-tracks or footpaths is allowed over and under structures. The clear margins are retained.   
+2.  *Overhead clearance:* The minimum overhead clearance for new or rebuilt structures is 4.5 metres.   
 
 ### VI  
 
 ####Landscaping
 
-1. Due regard should be paid to the landscaping of the roads of the network so that the alignment may provide for harmony of vertical and horizontal curves.  
-
-2. Hoardings should be prohibited.    
+1.  Road design should ensure the harmony of the curves in vertical and horizontal alignment.   
+2.  Roadside hoardings should be prohibited.   
 
 ### B  
 
 ####ANCILLARY SERVICES
 
-1.  *Frontier crossings*  Adequate road facilities for the accommodation and clearance of normal traffic shall be provided at frontiers. Commercial and tourist traffic should be separated, where required, and combined frontier posts be established, wherever necessary.  
+1. *Frontier crossings* Adequate road facilities are provided at frontiers for the accommodation and clearance of normal traffic. Where required commercial and tourist traffic should be separated and combined frontier posts established.  
 
-2.  *Garage and other accommodation*  Adequate garage and workshop accommodation and also accommodation for rest and meals should be provided at suitable intervals on the network and particularly in less developed areas. These installations should be so located as to be easily accessible to the users of the road and not restrict the flow of traffic.  
+2. *Garages and other accommodation* Parking space is provided near motorways where the access roads are very far apart. In less developed areas filling stations and where necessary garages and workshops and accommodation for rest and meals are provided in proximity to the international road.  
 
-3.  *First-aid*  Standardized first-aid posts, properly staffed and equipped in accordance with the recommendations of the Standing International Commission on Highway First-Aid and of the League of Red Cross Societies, should be provided at frequent intervals along the international roads.  
+3. *First-aid* First-aid posts are provided along international roads to supplement local facilities where necessary. They are equipped in accordance with the recommendations of the Standing International Commission on Highway First-Aid and of the League of Red Cross Societies.  
 
-4.  *Telecommunications*  The international roads should be equipped with telephone booths at regular intervals, provided with multilingual instructions.      
+4. *Telecommunications* International roads are equipped with emergency telephone posts at regular intervals, provided with multilingual instructions.      
 
 ### Annex  III  
 
@@ -200,12 +184,7 @@ GEDAAN te Genève, de zestiende September negentienhonderd vijftig, in één exe
 
 ####LIJST EN NUMMERS VAN DE WEGEN VAN HET INTERNATIONALE WEGENNET
 
-###A. MAIN ARTERIES
-
-*E1 London - Paris - Nice - Rome - Palermo:*  London - Southampton (boat to Le Havre). Le Havre - Paris - Sens - Avallon - Chagny - Mâcon - Lyons - Valence - Bollene - Aix-en-Provence - St. Raphaël - Nice - Ventimiglia - Savona - Genoa - La Spezia - Apuania - Migliarino - Pisa - Leghorn - Rome - Ponte Garigliano - Via Domiziana - Naples - Pompei - Salerno - Catanzaro - Reggio Calabria (ferry from Villa San Giovanni and from Reggio Calabria to Messina). Messina - Palermo.  *E2 London - Lausanne - Milan - Brindisi:*  London - Folkestone - Dover (ferry to Calais). Calais - Laon - Rheims - Vitry-le-François - St. Dizier - Dijon - Dôle - Vallorbe - Lausanne - Martigny - Simplon - Arona - Milan - Placenza - Parma - Modena - Bologna - Forli - Cesena - Rimini - Ancona - Pescara - Foggia - Bari - Brindisi.  *E3 Lisbon - Paris - Stockholm:*  Lisbon - V. Franca de Xira - Coimbra - Celorico da Beira - Vilar Formoso. Hendaye - Bordeaux - Tours - Paris - Lille - Courtrai - Ghent - Antwerp - Hechtel - Venlo - Oberhausen - Hamm - Bielefeld - Oeynhausen - Hanover - Hamburg - Neumunster - Schleswig - Flensburg - Kolding - Vejle - Frederikshavn (ferry to Göteborg and to Larvik, boat to Oslo). Göteborg - Orebro - Arboga - Södertälje - Stockholm.  *E4 Lisbon - Berne - Copenhagen - Stockholm - Helsinki:*  (Lisbon) - Cacilhas - Pegoes - Flvas. Le Perthus - Narbonne - Nîmes - Montélimar - Valence - Chambéry - Geneva - Nyon - Lausanne - Berne - Olten - Basle - Karlsruhe - Mannheim - Frankfurt-on-the-Main - Giessen - Hersfeld - Kassel - Göttingen - Northeim - Hanover - Hamburg - Lübeck - Fehmarn - Vordingborg - Køge - Copenhagen - Elsinor (ferry to Hälsingborg). Hälsingborg - Värnamo - Jonköping - Linköping - Norrköping - Södertälje - Stockholm - Uppsala - Gävle - Hamrånge - Söderhamm - Sundsvall - Umeå - Haparanda - Tornio - Vaase - Tampere - Helsinki.  *E5 London - Vienna - Budapest - Belgrade - Alexandroupolis:*  London - Folkestone - Dover (ferry to Calais and to Ostend). Calais - Ostend - Ghent - Brussels - St. Trond - Liège - Aachen - Cologne - Frankfurt-on-the-Main - Aschaffenburg - Würzburg - Nuremberg - Regensburg - Straubing - Passau - Linz - Melk - Vienna - Nickelsdorf - Gyor - Budapest - Szeged - Belgrade - Gevgeli - Salonika - Cavalla - Alexandroupolis.  *E6 Rome - Berlin - Oslo - Skibotten:*  Rome - Siena - Florence - Pistoia - Bologna - Modena - Verona - Trento - Bolzano - Brenner - Innsbruck - Griessen - Munich - Nuremberg - Hof - Leipzig - Berlin - Neubrandenburg - Stralsund - Sassnitz (ferry to Trälleborg). Trälleborg - Malmö - Hälsingborg - Falkenberg - Göteborg - Uddevalla - Svìnesund - Moss - Oslo - Eidsvoll - Hamar - Otta - Dombås - Trondheim - Levanger - Narvik - Skibotten.  *E7 Rome - Vienna - Warsaw:*  Rome - Orte - Perugia - Cesena - Forli - Bologna - Ferrara - Padua - Mestre - Cervignano - Udine - Tarvis - Villach - Bruck - Vienna - Drasenhofen - Brno - Olomouc - C. Tesin - Cracow - Radom - Warsaw.  *E8 London - The Hague - Berlin - Warsaw - (USSR):*  London - Colchester - Harwich (ferry to Hook of Holland and to Antwerp, boat to Esbjerg). Hook of Holland - The Hague - Gouda - Utrecht - Amersfoort - Oldenzaal - Osnabrück - Oeynhausen - Hanover - Magdeburg - Berlin - Poznan - Krosniewice - Lowicz - Warsaw - (USSR).  *E9 Amsterdam - The Hague - Basle - Genoa:*  Amsterdam - Utrecht - Eindhoven - Maastricht - Liège - Bastogne - Arlon - Luxembourg - Metz - Sarrebourg - Strasbourg - Mulhouse - Basle - Olten - Lucerne - Arth - Andermatt - Lugano - Chiasso - Como - Milan - Casteggio - Tortona - Serravalle - Genoa.  *E10 Paris - Brussels - The Hague - Amsterdam:*  Paris - Bapaume - Cambrai - Mons - Brussels - Antwerp - Breda - Rotterdam - The Hague - Amsterdam.  *E11 Paris - Salzburg:*  Paris - Vitry-le-François - St. Dizier - Ligny-en-Barrois - Nancy - Sarrebourg - Strasbourg - Karlsruhe - Stuttgart - Augsburg - Munich - Rosenheim - Salzburg.  *E12 (Paris) - Prague - Warsaw - (Leningrad and Moscow):*  (Paris) - Ligny-en-Barrois - Metz - Saarbrücken - Mannheim - Heilbronn; - Schwäb. Hall - Nuremberg - Neustadt - Pilsen - Prague - Hradec Kralove - Nachod - Klodzko - Wroclaw - Lodz - Lowicz - Warsaw - Bialystok - (USSR - Leningrad and Moscow).  *E13 Lyons - Venice:*  Lyons - Chambery - Modane - Turin - Milan - Brescia - Verona - Vicenza - Padua - Mestre - Venice.  *E14 Trieste - Prague - Szczecin:*  Trieste - Ronchi - Udine - Tarvis - Villach - Salzburg - Linz - Tabor - Prague - Mlada Boleslav - Jablonec - Novy Svet - Jelenia Gora - Szczecin.  *E15 Hamburg - Berlin - Prague - (Budapest):*  Hamburg - Perleberg - Berlin - Dresden - Cinvald - Prague - Brno - Breclav - Bratislava - (Budapest).  *E16 Bratislava - Gdynia:*  Bratislava - Zilina - C. Tesin - Katowice - Piotrkow - Lodz - Swiecie - Gdansk - Gdynia.  *E17 Chagny - Salzburg:*  Chagny - Dijon - Belfort - Basle - Olten - Zürich - Winterthur - St. Gallen - St. Margrethen - Innsbruck - Wörgl - Salzburg.  *E18 Stavanger - Oslo - Stockholm:*  Stavanger - Egersund - Kristiansund - Larvik - Horten - Drammen - Oslo - Orje - Karlstad - Orebro - Arboga - Linköping - Enköping - Stockholm.  *E19 (Albania) - Janina - Corinth:*  (Albania) - Janina - Arta - Agrinion - Antirion - Rion - Corinth.  *E20 Koritza - Sofia:*  Koritza - Fiorina - Vevi - Edessa - Salonika - Seres - Sofia. *E21* Aosta - Turin - Savona and Genoa. *E21a* Martigny - Grand St. Bernard - Aosta. *E21b* Geneva - Bonneville - Mt. Blanc - Aosta. *E22* Berlin - Wroclaw - Katowice - Cracow - Rzeszow - Przemysl - (USSR). 
-###B. BRANCH OR LINK ROADS
-
-*E31* London - St. Albans - Northampton - Doncaster - Scotch-corner - Carlisle - Abington - Glasgow. *E32* Abington - Edinburgh. *E33* Northampton - Coventry - Cannock - Warrington - Liverpool. *E34* Cannock - Shrewsbury - Corwen - Holyhead. *E35* Amsterdam - Amersfoort - Zwolle - Groningen - Winschoten - Oldenburg - Bremen - Hamburg. *E36* Hook of Holland - Rotterdam - Gouda - Utrecht - Arnhem - Oberhausen - Cologne. *E37* Breda - Goringhem (Utrecht). *E38* Breda - Eindhoven. *E39* Hechtel - Heerlen - Aachen. *E40* Brussels - Namur - Bastogne. *E41* (Calais) - Valenciennes - Mons - Charleroi - Namur - Liège. *E42* Saarbrücken - Luxembourg - Echternach - (Cologne). *E43* Avallon - Dijon. *E44* Belfort - Mulhouse. *E45* Dôle - Nyon. *E46* Lyons - Ambérieu - Geneva. *E47* Aix-en-Provence - Marseilles. *E48* Nîmes - Marseilles. *E49* Bordeaux - Toulouse - Narbonne. *E50* Porto - Coimbra. *E51* Albergaria - Vizeu - Celorico da Beira. *E52* V. Franca de Xira - (Elvas). *E53* Torino - Asti - Alessandria - Tortona. *E54* Casteggio - Placenza. *E55* (Pisa) - Migliarino - Pistoia. *E56* Ponte Garigliano - Caserta - Foggia. *E57* Naples - Arienzo. *E58* Bari - Taranto. *E59* Messina - Syracuse. *E60* Arth - Zürich. *E61* St. Margrethen - Bregenz - Lindau - Munich. *E62* Hof - Chemnitz - Leipzig - Halle - Magdeburg. *E63* Hamm - Kassel - Herleshausen - Erfurt - Chemnitz - Dresden. *E64* (Berlin) - Neubrandenburg - Rostock - Warnemünde (ferry to Gedser). Gedser - Nyköbing - Vordingborg - Copenhagen. *E65* Lubeck - Rostock - Stralsund. *E66* Esbjerg - Kolding - Middelfart - Nyborg (ferry to Korsör). Korsör - Copenhagen (ferry to Malmö). *E67* Vejle - Middelfart. *E68* Bergen - Gudvangen - Loerdalsören - Tyin - Fagernes - Oslo. *E69* Aalesund - Andalsnes - Dombås. *E70* Winterthur - Schaffhausen - Donaueschingen - Tübingen - Stuttgart - Heilbronn - Schwäb. Hall - Würzburg - Fulda - Hersfeld - Herleshausen. *E71* Hanover - Bremen - Bremerhaven. *E72* Oldenzaal - Lingen - Bremen. *E73* Cologne - Hamme. *E74* Berlin - Szczecin. *E75* Levanger - Sandvika - Brunflo - Hamrånge. *E76* Brunflo - Sundsvall. *E77* Skibotten - Kilpisjärvi - Karesuando - Haparanda. *E78* Haparanda - Kilpisjärvi. *E79* Tornio - Rovaniemi - Virtaniemi. *E80* Turku (Abo) - Helsinki - Lappeenranta - (Viipuri). *E81* Tczew - Malbork - Grudziadz - Warsaw - Lublin - (USSR). *E82* Piotrkow - Warsaw. *E83* Jelenia Gora - Wroclaw - Poznan - Swiecie - Grudziadz. *E84* (Prague) - Jihlava - Znojmo - Vienna. *E85* Olomouc - Zilina - Presov - Kosice - (USSR). *E86* Wörgl - Rosenheim. *E87* Janina - Trikkala - Larissa - Volos. *E88* (Janina) - Preveza. *E89* Rion - Patras. *E90* Vevi -Kozani. *E91* Cervignano - Ronchi. *E92* (Salonika - St. Athanasios) - Verria - Kozani - Larissa - Lamia - Athens - Corinth - Argos - Kalamai.   
+De tekst van de vertaling is niet beschikbaar.    
 
 ### Bijlage  II  
 
@@ -219,156 +198,43 @@ GEDAAN te Genève, de zestiende September negentienhonderd vijftig, in één exe
 
 ####Algemeen
 
-1. De normen voor de internationale hoofdverkeerswegen, hierna te noemen „internationale wegen”, zijn buiten bebouwde kommen op deze wegen van toepassing, alsmede, tenzij anders is bepaald, eveneens binnen bebouwde kommen.  
-
-2.  *Verkeersintensiteit*  De constructie der wegen moet verband houden met de verkeersintensiteit. Voor het vaststellen van die intensiteit wordt het 30ste spitsuur, d.w.z. het verkeersvolume per uur dat gedurende minstens dertig uren in de loop van het jaar wordt bereikt, als basis genomen.    
+De tekst van de vertaling is niet beschikbaar.   
 
 ### II  
 
 ####Wegen
 
-1.  *De rijbanen en hun breedte*  De internationale wegen vallen onder de volgende categorieën: 
-
-(a) *Categorie I:* één rijbaan van 7 meter breedte met twee rijstroken elk van 3,50 meter, met dien verstande dat in bergachtige streken de breedte bij uitzondering tot 6 meter mag worden verminderd. Op de wegen van deze categorie met gemengd verkeer dient de toegelaten maximumintensiteit niet meer te bedragen dan 600 voertuigen per uur, terwijl een redelijke verhoging van dit maximum is toegestaan op wegen, welke uitsluitend voor motorverkeer zijn bestemd en op wegen, waar veranderingen op speciale moeilijkheden zouden stuiten. Het getal van 600 voertuigen per uur is gebaseerd op de aanname, dat de maximum snelheid van het verkeer tijdens het betreffende spitsuur *55* km per uur zal bedragen. Het geldt voor een verkeer dat geen abnormaal percentage langzame of zware voertuigen omvat. Zou de snelheid van het verkeer gedurende de spitsuren groter zijn, dan zou het getal 600 dienovereenkomstig verminderd moeten worden.  
-
-(b) *Categorie II:* wegen met twee rijbanen, elk ten minste 7 meter breed, gescheiden door een middenberm, waarbij elke rijbaan bestaat uit twee rijstroken met bermen welke, waar zulks nodig is, verhard zijn. In beginsel dienen wegen van categorie II te worden aangelegd waar de verkeersintensiteit het in paragraaf 1 (a) aangegeven getal overschrijdt.  
-
-(c) *Categorie III* (voorlopig): rekening houdend met topografische, economische en financiële overwegingen, is het nodig voorlopig wegen welke drie rijstroken van een gezamenlijke breedte van 10,50 meter, bij uitzondering van 9 meter bezitten, toe te staan. Op die wegen moeten de drie rijstroken duidelijk worden aangeduid behalve in bochten en op toppen van hellingen, waar het verkeer zo nodig in twee gemarkeerde rijstroken moet worden geleid.    
-
-2.  *Dwarshelling in de rechte vakken*  Het dwarsprofiel van de rijbaan zal uit één of twee platte vlakken bestaan. Wanneer dit profiel twee platte vlakken bevat, kunnen die vlakken in de as van de weg over een afstand van ten hoogste 2 meter door een boog worden verbonden. In de rechte vakken van de weg moet de dwarshelling van de platte vlakken zo flauw zijn als de vlugge afvoer van het water nog toelaat, waarbij zowel met de langshelling als met de ruwheid van het wegdek rekening moet worden gehouden. Deze dwarshelling zal ten hoogste 3 % mogen bedragen, behalve in de goten waar ze tot 4 % mag worden opgevoerd.  
-
-3.  *Rijwielpaden en voetpaden*  Overal waar de intensiteit van het rijwielverkeer, van het voetverkeer of van enig ander verkeer dit nodig mocht maken moeten naast de rijbanen afzonderlijke rijwielpaden en voetpaden worden aangelegd.  
-
-4.  *Hellingen*  Er dient onderscheid te worden gemaakt tussen internationale wegen in vlakke of licht heuvelachtige streken en in bergachtige streken. In het eerste geval dient de helling in het algemeen niet meer te bedragen dan 5 %, welk cijfer in uitzonderingsgevallen over korte vakken tot 6 % kan worden opgevoerd. In het tweede geval dient de helling niet meer te bedragen dan 8 %, welk cijfer in uitzonderingsgevallen tot 10 % kan worden opgevoerd.  
-
-5.  *Tracé*  Wat het tracé betreft dient éénzelfde weg te zijn onderverdeeld in voldoende lange opeenvolgende vakken die elk zo homogeen zijn, dat zij aan bepaalde essentiële normen beantwoorden. Het algemeen tracé moet zodanig zijn, dat de overgang van de normen van een vak naar die van de aanliggende vakken (zo die overgang niet geschiedt op duidelijk bepaalde geografische punten, b.v. een belangrijke stad) over een beperkte afstand plaats heeft en met zekere progressie vooral ten aanzien van stralen der bogen. Men onderscheidt drie klassen van tracé's: 
-###Eerste klasse
-
-Tracé's in gemakkelijk of weinig heuvelachtig terrein met enkele bebouwde kommen of kruisingen, welke bepaalde aandacht kunnen vereisen. De volgende normen dienen in acht te worden genomen:  
-
-|
-|
-| Verkeerssnelheid:  | 100 tot 120 km/h  |
-| Straal in horizontale bogen:  | normaal 500 meter  |
-| --- | minimum 300 meter  |
-| Uitzicht <sup>1</sup>):  | normaal 230 meter  |
-| --- | minimum 150 meter  |
-| Afrondingsstraal aan de toppen van het langsprofiel:  | normaal 5000 meter  |
-| --- | minimum 2500 meter  |
-
-<sup>1</sup>) Dit wil zeggen uitzicht in de nabijheid van toppen voor een bestuurder wiens oog zich op 1,35 meter boven de rijbaan bevindt, op een 0,10 meter hoge hindernis op de rijbaan. 
-###Tweede klasse
-
-Tracé's in een met tamelijk veel dalen doorsneden heuvelachtig terrein waar de minimumstraal van 300 meter bezwaarlijk kan worden toegepast wegens de hoge kosten welke daarmede gepaard zouden gaan. De volgende normen dienen in acht te worden genomen:  
-
-|
-|
-| Verkeerssnelheid:  | 80 km/h  |
-| Straal in horizontale bogen:  | normaal 300 meter  |
-| --- | minimum 200 meter  |
-| Uitzicht <sup>1</sup>):  | normaal 150 meter  |
-| --- | minimum 110 meter  |
-| Afrondingsstraal aan de toppen van het langsprofiel:  | normaal 2500 meter  |
-| --- | minimum 1200 meter  |
-
-###Derde klasse
-
-Tracé's in bijzonder moeilijk terrein, b.v. in bergstreken. De volgende normen dienen in acht te worden genomen:  
-
-|
-|
-| Verkeerssnelheid:  | 60 km/h  |
-| Straal in horizontale bogen:  | normaal 200 meter  |
-| --- | minimum 100 meter  |
-| Uitzicht <sup>1</sup>):  | normaal 110 meter  |
-| --- | minimum 60 meter  |
-| Afrondingsstraal aan de  | --- |
-| toppen van het langsprofiel:  | normaal 1000 meter  |
-| --- | minimum 400 meter  |
-
-Een en ander met dien verstande, dat in uitzonderingsgevallen in bijzonder moeilijk terrein kleinere stralen en zichtafstanden aanvaard mogen worden. In elk geval moet het echter voor twee voertuigen met de grootste toegestane afmetingen mogelijk zijn elkaar in bochten met de kleinste kromtestraal te passeren. De normen der drie klassen zijn samengevat in de volgende tabel:  
-
-|
-|
-| Klasse  | Verkeerssnelheid in km/h  | Straal in horizontale bogen  | --- | Uitzicht in langsprofiel  | --- | Afrondingsstraal aan de toppen van het langsprofiel  | --- |
-| --- | --- | norm.  | minimum  | norm.  | minimum  | norm.  | minimum  |
-| 1ste ..  | 100/120  | 500  | 300  | 230  | 150  | 5000  | 2500  |
-| 2de ..  | 80  | 300  | 200  | 150  | 110  | 2500  | 1200  |
-| 3de ..  | 60  | 200  | 100  | 110  | 60  | 1000  | 400  |
-
-<sup>1</sup>) Dit wil zeggen uitzicht in de nabijheid van toppen voor een bestuurder wiens oog zich op 1,35 meter boven de rijbaan bevindt, op een 0,10 meter hoge hindernis op de rijbaan. De uitdrukking „normale straal” heeft betrekking op het minimum, dat normaal voor de stralen moet worden aangehouden, terwijl het onder „minimum straal” aangegeven getal de maat aangeeft waar beneden geen kromtestraal mag dalen. De verticale afrondingsstralen in de dalen of aan de voet van hellingen moeten minstens gelijk zijn aan de helft van de overeenkomstige stralen aan de naburige toppen.  
-
-6.  *Verkanting*  De rijbaan moet worden verkant in bogen, waarvan de straal blijft beneden een aan de hand van plaatselijke omstandigheden te bepalen minimum, hetwelk kan schommelen tussen 1500 meter en 1000 meter. De grootte van de verkanting hangt zowel af van de verkeerssnelheid, als van de straal van de boog en van de stroefheid van het wegdek. Voor wegen waarop in de winter geen gevaar van ijzelvorming bestaat, schijnt in bochten met kleine straal een verkanting van 10 % toelaatbaar.  
-
-7.  *Bochtenverbreding*  Teneinde de vrije doortocht te verzekeren wanneer voertuigen met de grootste afmetingen elkaar tegenkomen of inhalen dient een bochtverbreding in de bogen te worden aangebracht.  
-
-8.  *Draagvermogen*  Alle wegen dienen zodanig te worden gebouwd, dat voertuigen van het maximaal toegelaten gewicht daarop onder redelijke veiligheidsomstandigheden kunnen rijden.  
-
-9.  *Wegverharding*  De wegen dienen te worden voorzien van een zodanige verharding, dat zij stofvrij en vlak, maar niet slipgevaarlijk zijn.  
-
-10.  *Parkeren*  Waar nodig dienen buiten de rijbanen verspringende parkeerplaatsen en stopplaatsen voor autobussen te worden aangelegd.  
-
-11.  *Verlichting*  Die delen van het net welke hoofdtoegangen vormen naar belangrijke bevolkingscentra of welke daar doorheen lopen, en waarop tijdens de uren van duisternis een belangrijk algemeen verkeer is, waaronder voetgangersverkeer, dienen zodanig te worden verlicht, dat al de weggebruikers een ruime veiligheidsmarge hebben zonder dat de motorvoertuigen verplicht zijn hun koplampen te gebruiken.    
+De tekst van de vertaling is niet beschikbaar.   
 
 ### III  
 
 ####Aansluitpunten en kruispunten
 
-1.  *Opheffing der kruisingen*  Alle niet volstrekt nodige kruisingen met en aansluitingen aan de weg moeten worden opgeheven. Indien dit voor bestaande wegen niet meer mogelijk is, dient er in alle geval naar te worden gestreefd dit voor nieuwe wegen te verwezenlijken door het plaatselijk verkeer om te leiden langs naburige wegen. Het is gewenst dat in elk land wetten worden aangenomen, die deze maatregel mogelijk maken.  
-
-2.  *Ongelijkvloerse kruisingen*  Indien het opheffen van kruisingen niet mogelijk is, zal de plaatselijke situatie het veelal mogelijk maken zonder al te hoge uitgaven over te gaan tot het opheffen van een gelijkvloerse kruising door de bouw van een overbrugging of een onderdoorgang, zonder aansluitingen tussen de beide wegen. Daar waar bij de aanleg van nieuwe wegen kruisingen met andere belangrijke wegen niet kunnen worden vermeden, zal het maken van ongelijkvloerse kruisingen in aanmerking komen wanneer het product van het gemiddeld dagelijks verkeer op elk der beide wegen meer is dan 3 millioen. Voor bestaande kruisingen dient, wanneer het product van het gemiddeld dagelijks verkeer op elk der beide wegen meer is dan 3 millioen, te worden onderzocht of het niet wenselijk is ongelijkvloerse kruisingen aan te leggen. Bij ongelijkvloerse kruisingen met aansluitingen tussen de beide wegen, is het voor het verkeer op de internationale weg van belang dat de voertuigen deze weg aan de rechterzijde verlaten en bereiken; op deze wijze voorkomt men het kruisen van de rijbanen der voertuigen op de hoofdweg. <sup> 1)  In de landen, waar het verkeer rechts houdt.  </sup>  
-
-3.  *Gelijkvloerse kruisingen*  Bij gelijkvloerse kruisingen moet worden vermeden dat van de gekruiste weg komende voertuigen de rijbaan van de internationale weg met een te grote snelheid oversteken; desnoods moeten die voertuigen tot stoppen worden verplicht. Indien de aansluitende wegen plaatselijk zijn omgelegd, dienen verspringende aansluitingen te worden vermeden om te voorkomen dat het verkeer van die wegen de internationale weg zou moeten volgen. Er dient te worden gewezen op de wenselijkheid de rijbaan van de internationale wegen bij belangrijke kruisingen te verdubbelen om te voorkomen dat de bestuurders die de internationale weg naar links willen verlaten op de hoofdrijbaan zouden moeten stoppen om een uit de tegenovergestelde richting komend voertuig voorrang te verlenen. <sup> 1)  In de landen, waar het verkeer rechts houdt.  </sup> Verkeerspleinen en kruispunten met lichtsignalen veroorzaken tijdverlies en vermoeien de bestuurders. Derhalve dienen zij op de internationale wegen zoveel mogelijk te worden vermeden. 
-###Uitvoegstroken en invoegstroken
-
-Bij gelijkvloerse kruisingen buiten de bebouwde kommen en bij kruispunten waar men de internationale weg kan verlaten, is het wenselijk, waar dit enigszins mogelijk is, uitvoegstroken langs de rijbaan aan te leggen. Deze dienen duidelijk te onderscheiden te zijn van de rijbaan, bijv. door verschil in kleur van het wegdek; zij moeten ongeveer 3 meter breed zijn en 50 tot 100 meter lang. Deze stroken stellen de bestuurder in staat de hoofdrijbaan te verlaten alvorens vaart te minderen, waardoor de weg voor het snelverkeer vrij wordt gehouden en het gevaar van achteroprijden wordt vermeden. Het verdient aanbeveling overeenkomstige stroken aan te leggen voor voertuigen die de internationale weg oprijden. Zij stellen de bestuurders in staat voldoende snelheid te ontwikkelen alvorens zich bij het verkeer op de hoofdweg te voegen. 
-###Uitzichtsdriehoeken
-
-Bij gelijkvloerse kruisingen moeten uitzichtsdriehoeken worden opengehouden, waarvan de afmetingen afhankelijk zijn van de snelheid welke voor elke weg wordt verwacht. Wanneer er geen snelheidsbeperking voor de internationale weg is vastgesteld kunnen de zijden van die driehoeken langs de internationale weg een lengte van ongeveer 150 meter bezitten, langs de andere weg een lengte van ongeveer 50 meter.  
-
-4.  *Gelijkvloerse spoorwegovergangen*  Als regel geldt, dat gelijkvloerse spoorwegovergangen in de internationale wegen dienen te worden opgeheven. Derhalve mogen in nieuwe internationale wegen geen gelijkvloerse spoorwegovergangen voorkomen. Gelijkvloerse spoorwegovergangen in bestaande internationale wegen moeten zo spoedig mogelijk worden opgeheven, indien zij het verkeer merkbaar hinderen of indien zij door hun situatie een bijzonder gevaar voor het verkeer opleveren.    
+De tekst van de vertaling is niet beschikbaar.   
 
 ### IV  
 
 ####Omleggingen om steden en dorpen en lintbebouwing
 
-1.  *Omleggingen*  De internationale wegen dienen om de bebouwde kommen heen te lopen, behalve indien het kleine dorpen betreft en het verkeer van betrekkelijk geringe omvang is, of waar de bestaande weg een voldoende breedte en een bevredigend tracé heeft, of waar deze gemakkelijk kunnen worden verkregen. De voornaamste centra dienen van gemakkelijke toegangswegen en uitvalswegen te worden voorzien.  
-
-2.  *Doorgaand verkeer langs speciale autowegen*  Indien het doorgaand verkeer zulks rechtvaardigt dienen omleggingen langs grote bebouwde kommen te worden aangelegd. Wanneer men de voorkeur geeft aan een andere oplossing dienen voor het doorgaand verkeer langs de traverse speciale autowegen te worden aangelegd.  
-
-3.  *Lintbebouwing*  Langs de omleggingen en de speciale autowegen zal geen bebouwing met rechtstreekse uitweg naar die wegen worden toegestaan.  
-
-4.  *Aansluiting aan de omleggingen en de speciale autowegen*  Aansluiting aan de omleggingen en de speciale autowegen zal slechts op speciaal daarvoor aangewezen en ingerichte plaatsen tot stand worden gebracht.    
+De tekst van de vertaling is niet beschikbaar.   
 
 ### V  
 
 ####Bruggen, tunnels, galerijen, enz.
 
-1.  *Breedte*  Behoudens in speciale gevallen moet de breedte van de rijbaan, of van de rijbanen, en van het afzonderlijke pad, of van de afzonderlijke paden, aangelegd voor wielrijders en voetgangers, op bruggen en hun toeritten dezelfde zijn als op het overige gedeelte van de weg. Waar geen afzonderlijke paden voor wielrijders en voetgangers bestaan, moet aan elke zijde van de rijbaan of rijbanen voldoende ruimte worden gelaten opdat de gehele breedte van de rijbaan of van de rijbanen gebruikt kan worden.  
-
-2.  *Vrije hoogte*  De minimum vrije hoogte onder constructies over de wegen moet 4,50 meter bedragen. Voor bestaande constructies en nieuwe constructies voor welke het scheppen van een dergelijke vrije hoogte aanleiding zou geven tot moeilijkheden of buitengewone lasten, kan de minimum hoogte echter tot 4,20 meter worden beperkt. Daar waar de minimum vrije hoogte boven de weg minder dan 4,50 meter bedraagt, wordt dit door middel van het daartoe bestemde verkeersbord aangeduid.  
-
-3.  *Draagvermogen*  Het draagvermogen der bruggen moet over het gehele net voldoende zijn om het passeren van voertuigen van de maximum toegestane afmetingen en gewichten onder de normale, door elke regering toegepaste veiligheidsnormen mogelijk te maken.    
+De tekst van de vertaling is niet beschikbaar.   
 
 ### VI  
 
 ####Landschapszorg
 
-1. Aan het plan van de wegen van het net moet de nodige zorg worden besteed opdat verticale en horizontale krommingen met elkander harmoniëren.  
-
-2. Het aanbrengen van reclameborden langs de wegen zal zijn verboden.    
+De tekst van de vertaling is niet beschikbaar.   
 
 ### B  
 
 ####HULPDIENSTEN
 
-1.  *Grensovergangen*  Aan de grenzen moeten wegvoorzieningen aanwezig zijn, die voldoende zijn voor het opnemen en afvoeren van het normale verkeer. Waar zulks nodig is, moeten handels- en toeristenverkeer worden gescheiden en moeten gecombineerde grensposten worden opgericht.  
-
-2.  *Garages en andere inrichtingen*  Er moet langs de wegen worden gezorgd voor voldoende garages en werkplaatsen alsmede voor gelegenheden om te rusten en te eten op passende afstanden van elkaar en vooral in de minder ontwikkelde streken. Deze inrichtingen moeten gemakkelijk door de weggebruikers kunnen worden bereikt, en zij mogen het verkeer op geen enkele wijze hinderen.  
-
-3.  *Diensten voor eerste-hulp*  Er moet langs de internationale wegen worden gezorgd voor gestandaardiseerde eerste-hulpposten welke niet ver van elkaar zijn verwijderd, met het nodige personeel en de vereiste uitrusting volgens de aanbevelingen van de Permanente Internationale Commissie voor Eerste-Hulp bij Wegongevallen en van de Liga van Rode Kruis Verenigingen.  
-
-4.  *Telefoonverbindingen*  De internationale wegen moeten op regelmatige afstanden zijn voorzien van telefooncellen waarin aanwijzingen in verschillende talen zijn aangebracht.      
+De tekst van de vertaling is niet beschikbaar.     
 
 ### Bijlage  III  
 
