@@ -1,0 +1,89 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Algemeen: Samenloop belastingheffing en strafrechtelijke ontneming
+
+De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.     Dit besluit is een herziene versie van het besluit van 1 december 1997, nr. AFZ97/2041M. Het besluit is herzien in verband met de vervanging van de gulden door de euro per 1 januari 2002 en bevat, naast geactualiseerde verwijzingen in de paragrafen 2.3 en 5, geen inhoudelijke wijzigingen.   
+
+####Inleiding
+
+Op 1 maart 1993 is in werking getreden de Wet van 10 december 1992 tot wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering en enkele andere wetten ter verruiming van de mogelijkheden tot toepassing van de maatregel van ontneming van wederrechtelijk verkregen voordeel en andere vermogenssancties. (Stb. 1993, nr. 11), de zogenaamde ontnemings- of Plukze-wetgeving. Door deze wet is het onder meer beter mogelijk met criminele activiteiten verkregen vermogen(sbestanddelen) te ontnemen. In het besluit van 1 oktober 1997, Stcrt. 1997/223, van het College van Procureurs-generaal, hierna: ontnemingsrichtlijn, wordt het Openbaar Ministerie (OM) geïnstrueerd hoe om te gaan met de Plukze-wetgeving. In overleg met de Directeur-generaal der belastingen zijn in de ontnemingsrichtlijn passages opgenomen die betrekking hebben op de afstemming tussen het OM en de Belastingdienst. Hierna zullen voor de Belastingdienst van belang zijnde punten worden belicht.    
+### 1  
+
+####Wederrechtelijk verkregen voordeel
+
+Ontneming van wederrechtelijk verkregen voordeel is mogelijk op grond van art. 36e, eerste en/of tweede lid, van het Wetboek van Strafrecht (Sr) dan wel op grond van art. 36e, derde lid, Sr. Deze ontneming vindt op vordering van het OM plaats bij rechterlijke beslissing. De procedure die leidt tot ontneming van wederrechtelijk verkregen voordeel staat los van de procedure inzake de strafzaak zelf. De Officier van Justitie (OvJ) kan er ook voor kiezen met een verdachte c.q. veroordeelde een schikking of een transactie te sluiten ter ontneming van wederrechtelijk verkregen voordeel. Een schikking heeft alleen betrekking op ontneming van wederrechtelijk verkregen voordeel. Een transactie heeft mede betrekking op de strafzaak. In een transactie of schikking wordt door de OvJ nauwkeurig omschreven op welk strafbaar feit of strafbare feiten de transactie of schikking betrekking heeft. Tevens wordt in een transactie nauwkeurig omschreven tot welk bedrag de transactie dient ter ontneming van wederrechtelijk verkregen voordeel c.q. welke vermogensbestanddelen worden overgedragen ter ontneming van wederrechtelijk verkregen voordeel.    
+### 2  
+
+####Samenhang met fiscaliteit
+
+### 2.1  
+
+####Plukze-wetgeving niet van toepassing op fiscale delicten
+
+De belasting- en douanewetgeving heeft in de vorm van navordering en naheffing een eigen instrumentarium om tot een juiste belastingheffing te komen. In verband daarmee is in artikel 74 van de Algemene wet inzake rijksbelastingen (AWR) geregeld dat ontneming van wederrechtelijk verkregen voordeel niet kan worden toegepast ter zake van feiten die bij de belastingwet of de douanewet strafbaar zijn gesteld ook al zou vervolging (mede) kunnen plaatsvinden op basis van het commune strafrecht, bijvoorbeeld wegens het commune delict valsheid in geschrifte (art. 225 Sr). Dit laatste kan zich bijvoorbeeld voordoen in het geval van het gebruik van valse facturen bij BTW-teruggaven of het doen van een onjuiste aangifte.    
+### 2.2  
+
+####Wederzijdse beïnvloeding ontneming wederrechtelijk verkregen voordeel en belastingheffing
+
+In het maatschappelijk verkeer genoten voordelen leiden in beginsel tot belastingheffing. Dat is niet anders als de voordelen wederrechtelijk zijn verkregen. Anderzijds kan ontneming van wederrechtelijk verkregen voordelen – voorzover deze zich niet in de vermogenssfeer afspeelt – leiden tot negatieve inkomsten. In de wetsgeschiedenis van de Plukze-wetgeving (Tweede Kamer, vergaderjaar 1989–1990, 21 504, nr. 3, blz. 79–82, nr. 5, blz. 39/40 en nr. 8, blz. 25/26) is het voorgaande bevestigd. Met betrekking tot de fiscale gevolgen van de ontneming van wederrechtelijk verkregen voordeel stelt de inspecteur zich voorshands op het standpunt dat ontneming van wederrechtelijk verkregen voordelen zich niet in de vermogenssfeer afspeelt. Dit betekent dat hij de ontnomen voordelen niet zal belasten en, zo al aanslagen zijn opgelegd waarin wederrechtelijk verkregen voordelen zijn begrepen, hij aftrek van de ontnomen voordelen zal toestaan in het jaar waarin de verdachte/veroordeelde zijn verplichtingen in verband met de ontneming nakomt. Mijn uitgangspunt hierbij is dat uitsluitend indien de wederrechtelijk verkregen voordelen eerder daadwerkelijk in de belastingheffing zijn betrokken, ontneming daarvan kan leiden tot een aftrekpost. Nadat meer ervaring is opgedaan met de wederzijdse beïnvloeding van ontneming van wederrechtelijk verkregen voordelen en belastingheffing over die voordelen, zal ik mij nader beraden hoe alsdan met betrekking tot dat punt dient te worden gehandeld. Wellicht ten overvloede merk ik op dat dit Besluit niet ziet op betalingen op grond van artikel 36f Sr.    
+### 2.3  
+
+####Afstemming tussen OM en Belastingdienst
+
+Voorkomen moet worden dat de belastingheffing ter zake van wederrechtelijk verkregen voordelen en de ontneming van die voordelen op een ongewenste wijze op elkaar inwerken. Daarom is met het OM afgesproken dat de Belastingdienst de strafrechtelijke sanctionering en ontneming van wederrechtelijk verkregen voordelen zo min mogelijk belemmert. Vergelijk par. 8.2 van het besluit van 25 april 1996, nr. AFZ96/1608M-1, Boekwerk Belastingen Algemeen, 15.70.00. Om in ontnemingszaken tot goede afstemming te komen tussen OM en Belastingdienst treedt de OvJ in een zo vroeg mogelijk stadium van een onderzoek in contact met de Belastingdienst. In zaken met beduidende maatschappelijke impact neemt de OvJ contact op met het Directoraat-Generaal Belastingdienst, team Handhavingsbeleid (DGBel) van het Ministerie van Financiën. DGBel zal in die gevallen in overleg met de inspecteur, de doelgroepdirectie en de FIOD bezien of een consultatiegroep in de desbetreffende zaak de inspecteur zal ondersteunen. In andere gevallen wendt de OvJ zich tot de fraudecoördinator van de desbetreffende eenheid. In het overleg tussen OM en Belastingdienst wordt gezamenlijk bezien of het fiscale traject, het strafrechtelijke traject dan wel een combinatie van beide wordt gekozen voor de afroming van de criminele voordelen. Bij de beoordeling of wordt gekozen voor het ontnemingsinstrumentarium dan wel voor het fiscale instrumentarium wordt mede bezien welk traject onder de gegeven omstandigheden het meest efficiënt is. Hierbij zijn onder meer van belang de bewijsrechtelijke eisen die binnen de onderscheidene gebieden gelden; uit een oogpunt van bewijsvoering of verhaal op vermogensbestanddelen is belastingheffing in veel gevallen de meest efficiënte weg om de verdachte/veroordeelde te treffen. Verder is van belang de beschikbare capaciteit van de respectievelijke organisaties. Ten slotte spelen een rol aspecten als buitenlandse verhaalsmogelijkheden, afdracht van eigen middelen aan de EU en de aan- of afwezigheid van andere schuldeisers.    
+### 2.4  
+
+####Registratie
+
+Indien in overleg met het OM wordt gekozen voor onder meer het fiscale traject legt de fraudecoördinator dit vast in een aan te leggen administratie, waarin hij ten minste de volgende gegevens opneemt: het SoFi-nummer van de betrokkene; een korte beschrijving van de zaak, inclusief de aard van de relevante voordelen; een onderbouwde en per jaar uitgesplitste schatting van het bedrag waarvoor de OvJ heeft afgezien van toepassing van de ontnemingswetgeving.    
+### 2.5  
+
+####Voornemen OvJ tot schikking of transactie; procedureafspraak over afstemming
+
+Onverlet hetgeen hiervóór is gesteld over zaken met een maatschappelijke impact pleegt de OvJ vóórdat hij een schikking of transactie aangaat met een verdachte of veroordeelde overleg met de fraudecoördinator van de desbetreffende eenheid. Afhankelijk van het bedrag van de voorgenomen schikking dan wel het deel van de voorgenomen transactie dat ziet op ontneming van wederrechtelijk verkregen voordeel, kan dit op twee manieren. 
+
+a. Bij een voorgenomen schikkingsbedrag van minder dan € 45.378 meldt de OvJ zijn voornemen bij de fraudecoördinator. In de melding geeft de OvJ aan hoe hoog hij het wederrechtelijk verkregen voordeel in de relevante periode heeft geschat, met daarbij zo mogelijk een onderverdeling per jaar. Behoudens een tegenbericht van de Belastingdienst binnen vier weken zal de OvJ er van uitgaan dat dit bedrag ook door de Belastingdienst als winst c.q. inkomen over de periode die door de schikking/transactie wordt bestreken in aanmerking wordt genomen. Na volledige voldoening van het schikkingsbedrag behoeven met betrekking tot de in de schikking/transactie afgedane feiten met betrekking tot de jaren die in de schikking/transactie zijn begrepen geen bedragen meer te worden belast.  
+
+b. Bij een voorgenomen schikkingsbedrag van meer dan € 45.378 vindt overleg plaats tussen de OvJ en de fraudecoördinator, in welk overleg het geschatte bedrag van het wederrechtelijk verkregen voordeel wordt vastgelegd. Stemt de fraudecoördinator in met het bedrag van het wederrechtelijk verkregen voordeel, dan geldt ook hier dat na volledige voldoening van het schikkingsbedrag met betrekking tot de in de schikking/transactie afgedane feiten met betrekking tot de jaren die in de schikking/transactie zijn begrepen geen bedragen meer behoeven te worden belast. De fraudecoördinator dient bij het vermelde onder A en B het volgende te bedenken. In verband met de onder punt 2.3 vermelde afspraak dient het uitgangspunt van het handelen van de fraudecoördinator te zijn dat de Belastingdienst een schikking niet belemmert. De fraudecoördinator gaat dan ook akkoord met een redelijke schikking. De fraudecoördinator dient tevens bedacht te zijn op de aanwezigheid van andere inkomensbestanddelen, welke niet zijn begrepen in de door de OvJ voorgestelde schikking. Deze inkomensbestanddelen dienen onafhankelijk van het tot stand komen van een eventuele schikking, te worden belast. Teneinde misverstanden met de OvJ te voorkomen dient de fraudecoördinator ingeval hij twijfelt aan de juistheid van de voorgestelde schikking of indien hij reden heeft aan te nemen dat er andere inkomensbestanddelen zijn, dit tijdig te melden aan de OvJ. Zonder tegenbericht zal deze er in de gevallen bedoeld onder A na vier weken immers van uitgaan dat de inspecteur instemt met de door hem voorgestelde schikking en dat van belastingheffing wordt afgezien.      
+### 2.6  
+
+####Afhandeling van voorgenomen schikking/transactie door de Belastingdienst
+
+Ingeval de OvJ voornemens is een schikking/transactie aan te gaan, handelt de fraudecoördinator in voorkomend geval als volgt: Na een melding van de OvJ inzake zijn voornemen beoordeelt de fraudecoördinator vanuit zijn gezichtspunt en kennis de voorgenomen schikking/transactie en gaat hij na of er andere inkomensbestanddelen bekend zijn dan wel er aanleiding is andere inkomensbestanddelen te veronderstellen. Indien de fraudecoördinator gegronde redenen heeft te twijfelen aan de juistheid van de voorgenomen schikking/transactie of weet dan wel aanleiding heeft te veronderstellen dat er andere inkomensbestanddelen zijn, meldt hij dit tijdig aan de OvJ indien sprake is van een voorgenomen schikkingsbedrag van minder dan € 45.378. Is sprake van een voorgenomen schikkingsbedrag van meer dan € 45.378 dan brengt hij zijn bevindingen in in het overleg met de OvJ. Zijn de OvJ en de fraudecoördinator het eens over de modaliteiten van de voorgenomen schikking/transactie dan geldt het volgende. De Belastingdienst is geen partij bij een schikking/transactie tussen het OM en de verdachte/veroordeelde. Toch zal het voor de totstandkoming van een schikking/transactie veelal nodig zijn dat er duidelijkheid bestaat omtrent het standpunt van de Belastingdienst. In overleg met de fraudecoördinator geeft de bevoegde inspecteur bij gelegenheid van het tot stand komen van de schikking de verdachte/veroordeelde derhalve een verklaring welke, afhankelijk van de situatie, onder meer de volgende elementen kan bevatten. Een verklaring van de inspecteur dat hij met betrekking tot de activiteiten die hebben geleid tot de voorgenomen schikking/transactie met betrekking tot de in de schikking/transactie betrokken jaren geen bedragen tot de winst c.q. het inkomen zal rekenen, mits de verdachte/veroordeelde de verplichtingen uit hoofde van de schikking/transactie volledig nakomt en verklaart ter zake van die nakoming in geen enkel jaar enige aftrek op de winst c.q. het inkomen te zullen toepassen. In de verklaring geeft de inspecteur aan dat de schikking/transactie niet in de weg staat aan het belasten van al bekende of mogelijk later nog blijkende inkomensbestanddelen die buiten de schikking/transactie staan. Vóórdat de inspecteur definitief afziet van belastingheffing over de bedragen ter zake waarvan een schikking/transactie is aangegaan vergewist hij zich ervan dat de verdachte/veroordeelde de verplichtingen uit hoofde van de schikking/transactie volledig is nagekomen.    
+### 2.7  
+
+####Ontneming van wederrechtelijk verkregen voordeel nadat een aanslag is opgelegd
+
+Het is mogelijk dat de inspecteur al een aanslag heeft opgelegd vóórdat de OvJ besluit in die casus ontneming van wederrechtelijk verkregen voordelen na te streven. Ook in die situatie dient de strafrechtelijke sanctionering en ontneming van wederrechtelijk verkregen voordelen zo min mogelijk door de Belastingdienst te worden belemmerd. Als in een dergelijk geval de OvJ te kennen geeft te streven naar een schikking/transactie kan de inspecteur in overleg met de fraudecoördinator zich bereid verklaren de betaling van bedragen in verband met de nakoming van een schikking/transactie die de verdachte/veroordeelde aangaat met de OvJ in het jaar van betaling te accepteren als negatieve post bij de vaststelling van de winst c.q. het inkomen. Ik wijs nogmaals op mijn uitgangspunt dat uitsluitend indien de wederrechtelijk verkregen voordelen eerder daadwerkelijk in de belastingheffing zijn betrokken, ontneming daarvan kan leiden tot een aftrekpost.    
+### 2.8  
+
+####Verstrijken van de termijn binnen welke een (navorderings)aanslag moet worden opgelegd
+
+Het is mogelijk dat lopende een procedure inzake een ontnemingszaak of lopende besprekingen van de OvJ inzake een voorgenomen schikking/transactie de termijn dreigt te verlopen binnen welke een (navorderings)aanslag dient te worden opgelegd. Is dat het geval dan legt de inspecteur in overleg met de fraudecoördinator tijdig voor het verstrijken van de termijn een (navorderings)aanslag op. Indien er sprake is van een lopende gerechtelijke procedure geeft hij daarbij aan dat hij met inachtneming van het gestelde onder punt 4.3 aftrek zal toestaan van de ontnomen voordelen in het jaar waarin de verdachte/veroordeelde zijn verplichtingen in verband met de ontneming nakomt. Is er sprake van een voorgenomen schikking/transactie dan kan de inspecteur zich onder de voorwaarden opgenomen in punt 4.6, voor gemachtigd houden de (navorderings)aanslag te verminderen door het ontnomen voordeel alsnog in aftrek toe te laten. In alle gevallen stelt de fraudecoördinator de OvJ op de hoogte van de genomen stappen.     
+### 3  
+
+####Invorderingsaspecten
+
+Indien al aanslagen zijn opgelegd voordat bij de inspecteur bekend is dat er een strafrechtelijk ontnemingstraject is gestart kunnen invorderingsaspecten aan de orde komen. Ook indien de inspecteur niet langer kan wachten met het opleggen van aanslagen in verband met het verloop van termijnen kunnen invorderingsaspecten aan de orde komen. Indien in dergelijke situaties de Belastingdienst door het OM in kennis wordt gesteld van een ontnemingszaak en van het geschatte wederrechtelijk verkregen voordeel van een verdachte/veroordeelde wordt als volgt gehandeld: 
+
+– de ontvanger treft invorderingsmaatregelen met een conservatoir karakter;  
+
+– de ontvanger gaat (nog) niet over tot daadwerkelijke uitwinning van vermogensbestanddelen dan nadat hij, in overleg met de fraudecoördinator overleg daarover heeft gehad met de OvJ. Indien de belangen van de Belastingdienst worden geschaad door opschorting van uitwinning gaat de ontvanger echter wel over tot uitwinning. Hierbij kan onder meer, doch niet uitsluitend, worden gedacht aan een situatie waarin door de daadwerkelijke uitwinning van het inbeslaggenomene niet ter hand te nemen de verhaalswaarde daarvan in onevenredige mate vermindert (denk hierbij onder meer aan voorraden, personenauto's, e.d.) of aan een situatie waarin het niet uitwinnen van de beslagen zaak leidt tot een schade-actie, hetzij van de zijde van de belastingschuldige, hetzij van de zijde van de mede-crediteuren.   Ook indien de verdachte/veroordeelde naast illegaal inkomen nog belastingschuld(en) over legaal inkomen heeft kan de ontvanger wel tot daadwerkelijke uitwinning van die vermogensbestanddelen overgaan die niet dankzij onderzoek van politie of OM boven water zijn gekomen.    
+### 4  
+
+####Inzending gegevens
+
+(Vervallen)    
+### 5  
+
+####Niet geregelde situaties
+
+In gevallen waarin dit besluit niet voorziet of bij concrete vragen in bepaalde situaties kan contact worden opgenomen met het Directoraat-Generaal Belastingdienst, team Handhavingsbeleid.    
+
+####Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van 1 januari 2002.    
+
+####Vervallen besluit
+
+Het besluit van 1 december 1997, nr. AFZ97/2041M vervalt per 1 januari 2002.     
