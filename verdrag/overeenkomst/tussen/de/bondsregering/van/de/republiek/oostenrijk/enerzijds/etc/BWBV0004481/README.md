@@ -1,0 +1,74 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Overeenkomst tussen de Bondsregering van de Republiek Oostenrijk, enerzijds, en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, anderzijds, betreffende de overname van personen aan de grens
+
+####Overeenkomst tussen de Bondsregering van de Republiek Oostenrijk, enerzijds, en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, anderzijds, betreffende de overname van personen aan de grens
+
+Met het doel het wederzijds overnemen van personen aan de grens in een geest van vriendschap te regelen, zijn de Bondsregering van de Republiek Oostenrijk enerzijds, en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, die op grond van de op 11 april 1960 tussen hen gesloten Overeenkomst inzake de verlegging van de personencontrole naar de buitengrenzen van het Benelux-gebied, gemeenschappelijk optreden, anderzijds, als volgt overeengekomen:    
+
+### Artikel  1  
+
+a).  De bevoegde autoriteiten van de Republiek Oostenrijk nemen Oostenrijkse onderdanen, die de Belgische, Luxemburgse of Nederlandse autoriteiten voornemens zijn te verwijderen, over zonder formaliteiten en zonder tussenkomst van de bevoegde Oostenrijkse vertegenwoordiging in België, Luxemburg of Nederland mits hun nationaliteit kan worden aangetoond of aannemelijk kan worden gemaakt.   
+b).  De Oostenrijkse nationaliteit kan worden aangetoond door middel van een akte van nationaliteit, een nationaliteitsbewijs of een besluit krachtens hetwelk de Oostenrijkse nationaliteit is verworven of vastgesteld; zij kan aannemelijk worden gemaakt door middel van een paspoort of een identiteitsbewijs, afgegeven door de Oostenrijkse autoriteiten, ook indien deze documenten ten onrechte zijn afgegeven of niet langer dan tien jaar verlopen zijn.   
+c).  De Belgische, Luxemburgse of Nederlandse Regering neemt personen die krachtens lid a) zijn overgenomen, binnen zes maanden na de overname weer op haar grondgebied terug, indien de Oostenrijkse autoriteiten hebben geconstateerd dat zij op het tijdstip van hun verwijdering de Oostenrijkse nationaliteit niet bezaten, tenzij de Republiek Oostenrijk op grond van artikel 2 tot overname is verplicht, althans daartoe op het tijdstip van de overname verplicht was.   
+d).  Indien de bepalingen van lid a) op een Oostenrijkse onderdaan die de leeftijd van 21 jaar nog niet heeft bereikt, worden toegepast, dienen de autoriteiten van de Staat die deze maatregel ten uitvoer legt, de bevoegde Oostenrijkse vertegenwoordiging hiervan in kennis te stellen.   
+e).  Indien de Oostenrijkse nationaliteit niet krachtens de leden a) en b) kan worden aangetoond of aannemelijk gemaakt, doch er niettemin omstandigheden aanwezig zijn die het vermoeden opleveren dat de betrokkene de Oostenrijkse nationaliteit bezit, dan geschiedt de overname op grond van een formele verklaring van overname. Het verzoek tot overname moet worden ingediend bij de bevoegde Oostenrijkse diplomatieke vertegenwoordiging in België, Luxemburg of Nederland, die binnen een maand na de datum van indiening van dit verzoek het Ministerie van Buitenlandse Zaken van de desbetreffende Staat de verklaring van overname doet toekomen of dit Ministerie mededeling doet van de redenen waarom overname niet kan plaatsvinden.   
+
+### Artikel  2  
+
+a).  De bevoegde autoriteiten van de Republiek Oostenrijk nemen personen die geen onderdaan zijn van een der Overeenkomstsluitende Staten, over op verzoek van de Belgische, Luxemburgse of Nederlandse autoriteiten, indien deze personen ten hoogste zes maanden vóór de indiening van dit verzoek Oostenrijk na een verblijf van tenminste twee weken hebben verlaten, en België, Luxemburg of Nederland op ongeoorloofde wijze zijn binnengekomen.   
+b).  Overname door de Republiek Oostenrijk geschiedt op grond van een door de bevoegde Oostenrijkse diplomatieke vertegenwoordiging afgegeven laissez-passer. De geldigheidsduur van dit laissez-passer bedraagt twaalf maanden.   
+c).  Een verzoek tot afgifte van het laissez-passer moet worden ingediend bij de bevoegde Oostenrijkse diplomatieke vertegenwoordiging in België, Luxemburg of Nederland, die, binnen een termijn van twee maanden na de indiening van dit verzoek, aan het Ministerie van Buitenlandse Zaken van de desbetreffende Staat het laissez-passer doet toekomen of dit Ministerie mededeling doet van de redenen waarom overname niet kan plaatsvinden.   
+d).  Een geldige verblijfsontzegging of uitwijzing of verwijdering van Oostenrijks grondgebied vormt geen beletsel voor de afgifte van een laissez-passer.   
+e).  De verplichting tot overname bestaat niet ten aanzien van onderdanen van een derde Staat die een gemeenschappelijke grens met België, Luxemburg of Nederland heeft, tenzij gegronde redenen aanwezig zijn om niet tot hun verwijdering naar het grondgebied van die Staat over te gaan.   
+
+### Artikel  3  
+
+a).  Belgische, Luxemburgse of Nederlandse onderdanen die de Oostenrijkse autoriteiten voornemens zijn te verwijderen, worden, mits hun nationaliteit kan worden aangetoond of aannemelijk kan worden gemaakt, door hun respectieve Regeringen zonder formaliteiten en zonder tussenkomst van de bevoegde vertegenwoordiging in Oostenrijk overgenomen.   
+b).  De Belgische nationaliteit kan worden aangetoond door middel van een nationaliteitsbewijs of een uittreksel uit het register van de burgerlijke stand betreffende de verkrijging van deze nationaliteit; zij kan aannemelijk worden gemaakt door middel van een paspoort of een identiteitskaart afgegeven door de Belgische autoriteiten, ook indien deze documenten ten onrechte zijn afgegeven of niet langer dan tien jaar verlopen zijn; voorts door middel van een geldig identiteitsbewijs voor vreemdelingen afgegeven door de bevoegde autoriteiten in Frankrijk, Luxemburg of Zwitserland ten behoeve van Belgische onderdanen die aldaar hun vaste verblijfplaats hebben, en waaruit de Belgische nationaliteit van de houder blijkt.   
+c).  De Luxemburgse nationaliteit kan worden aangetoond door middel van een nationaliteitsbewijs of een rechtskracht bezittende gerechtelijke beslissing betreffende het bezit van deze nationaliteit; zij kan aannemelijk worden gemaakt door middel van een paspoort of een identiteitskaart afgegeven door de Luxemburgse autoriteiten, ook indien deze documenten ten onrechte zijn afgegeven of niet langer dan tien jaar verlopen zijn; voorts door middel van een geldig identiteitsbewijs voor vreemdelingen afgegeven door de bevoegde autoriteiten in België, Frankrijk, Zwitserland of Liechtenstein ten behoeve van Luxemburgse onderdanen die aldaar hun vaste verblijfplaats hebben, en waaruit de Luxemburgse nationaliteit van de houder blijkt.   
+d).  De Nederlandse nationaliteit kan worden aangetoond door middel van een nationaliteitsbewijs; zij kan aannemelijk worden gemaakt door middel van een paspoort of een identiteitskaart (toeristenkaart) afgegeven door de Nederlandse autoriteiten, ook indien deze documenten ten onrechte zijn afgegeven of niet langer dan tien jaar verlopen zijn; voorts door middel van een geldig Belgisch of Luxemburgs identiteitsbewijs voor vreemdelingen, waaruit de Nederlandse nationaliteit van de houder blijkt.   
+e).  De bevoegde autoriteiten van de Republiek Oostenrijk nemen personen die krachtens lid a) zijn overgenomen, binnen zes maanden na de overname weer op Oostenrijks grondgebied terug, indien de Belgische, Luxemburgse of Nederlandse autoriteiten hebben geconstateerd dat zij op het tijdstip van hun verwijdering de nationaliteit op grond waarvan overneming was geschied, niet bezaten, tenzij het Koninkrijk België, het Groothertogdom Luxemburg of het Koninkrijk der Nederlanden op grond van artikel 4 tot overname verplicht is, althans daartoe op het tijdstip van de overname verplicht was.   
+f).  Indien de bepalingen van lid a) op een Belgische, Luxemburgse of Nederlandse onderdaan die de leeftijd van 21 jaar nog niet heeft bereikt, worden toegepast, dienen de Oostenrijkse autoriteiten de bevoegde vertegenwoordiging in Oostenrijk hiervan in kennis te stellen; indien het een Luxemburgse onderdaan betreft, dient het Consulaat-Generaal van Luxemburg hiervan in kennis te worden gesteld.   
+g).  Indien de Belgische, Luxemburgse of Nederlandse nationaliteit niet krachtens de leden a) tot en met d) kan worden aangetoond of aannemelijk gemaakt, doch er niettemin omstandigheden aanwezig zijn, die het vermoeden opleveren dat de betrokkene een van deze nationaliteiten bezit, dan geschiedt de overname op grond van een formele verklaring van overname. Het verzoek tot overname dient bij de Belgische of Nederlandse diplomatieke vertegenwoordiging of bij het Luxemburgse Consulaat-Generaal in Oostenrijk, naar gelang de aard van het geval, te worden ingediend. De betrokken autoriteiten doen binnen een maand na de datum van indiening van het verzoek het Bondsministerie van Buitenlandse Zaken van de Republiek Oostenrijk de verklaring van overname toekomen of doen dit Ministerie mededeling van de redenen waarom overname niet kan plaatsvinden.   
+
+### Artikel  4  
+
+a).  De Belgische, Luxemburgse of Nederlandse Regering, naar gelang de aard van het geval, zal personen die geen onderdaan van een der Overeenkomstsluitende Staten zijn, op verzoek van de Oostenrijkse autoriteiten overnemen, indien deze personen minder dan zes maanden vóór de indiening van dit verzoek België, Luxemburg of Nederland na een verblijf van tenminste twee weken hebben verlaten en Oostenrijk op ongeoorloofde wijze zijn binnengekomen.   
+b).  Overname door de Belgische, Luxemburgse of Nederlandse Regering geschiedt op grond van een door de bevoegde vertegenwoordiging in Oostenrijk afgegeven laissez-passer. De geldigheidsduur van dit laissez-passer bedraagt twaalf maanden.   
+c).  Een verzoek tot afgifte van het laissez-passer moet worden ingediend bij de Belgische of Nederlandse diplomatieke vertegenwoordiging of bij het Luxemburgse Consulaat-Generaal in Oostenrijk, naar gelang de aard van het geval. De betrokken autoriteiten doen binnen een termijn van twee maanden na de indiening van dit verzoek het Bondsministerie van Buitenlandse Zaken van de Republiek Oostenrijk het laissez-passer toekomen of doen dit Ministerie mededeling van de redenen waarom overname niet kan plaatsvinden.   
+d).  Een maatregel tot verwijdering uit het Belgische, Luxemburgse of Nederlandse grondgebied vormt geen beletsel voor de afgifte van een laissez-passer.   
+e).  De verplichting tot overname bestaat niet ten aanzien van onderdanen van een Staat die een gemeenschappelijke grens met de Republiek Oostenrijk heeft, tenzij gegronde redenen aanwezig zijn om niet tot hun verwijdering naar het grondgebied van die Staat over te gaan.   
+
+### Artikel  5  
+
+a).  De Bondsregering van de Republiek Oostenrijk enerzijds, en de Belgische, Luxemburgse en Nederlandse Regering, anderzijds, verklaren zich bereid te voldoen aan verzoeken van de autoriteiten van de andere Partij tot doorgeleiding van personen die niet de nationaliteit van een der Overeenkomstsluitende Staten bezitten en ten aanzien van wie een administratieve maatregel tot verwijdering wordt toegepast, indien overname door de Staat van bestemming en, in voorkomende gevallen, de doorreis door andere Staten verzekerd is.   
+b).  Doorgeleiding kan worden geweigerd, indien de betrokken persoon: 
+
+1) bij doorreis door het gebied van de Staat waaraan het verzoek is gericht bloot zou staan aan strafvervolging of aan de tenuitvoerlegging van een strafvonnis, of  
+
+2) in een andere Staat van doorreis of in de Staat van bestemming bloot zou staan aan gevaar van vervolging om politieke redenen, danwel aan strafvervolging of aan de tenuitvoerlegging van een strafvonnis.     
+c).  Een verzoek tot doorgeleiding wordt door de diplomatieke vertegenwoordiging van de verzoekende Staat ingediend bij het Ministerie van Buitenlandse Zaken van de Staat waaraan het verzoek is gericht; een verzoek ten behoeve van de Luxemburgse Regering wordt door het Consulaat-Generaal van dat land in Oostenrijk gedaan.   
+d).  De voor doorgeleiding overgenomen persoon kan te allen tijde aan de autoriteiten van de Staat die de verwijdering heeft gelast worden teruggegeven, indien later feiten bekend worden of zich voordoen, die doorgeleiding in de weg staan of indien een andere Staat van doorreis of de Staat van bestemming weigert de betrokkene over te nemen.   
+
+### Artikel  6  
+
+De kosten van verwijdering tot aan de grens van de Staat van bestemming, daarbij inbegrepen de kosten verbonden aan de doorgeleiding aan derde Staten, alsmede de kosten verbonden aan een eventuele terugwijzing, worden gedragen door de Staat die de verwijdering heeft gelast. <sup> 1)  [Red: Lees: door.]  </sup>  
+
+### Artikel  7  
+
+De voorgaande bepalingen maken in geen enkel opzicht inbreuk op de regelingen betreffende uitlevering tussen de Republiek Oostenrijk, enerzijds, en het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, anderzijds.  
+
+### Artikel  8  
+
+Ten aanzien van het Koninkrijk der Nederlanden geldt deze Overeenkomst slechts voor het in Europa gelegen deel van deze Staat. Zij kan evenwel met wederzijds goedvinden, vastgelegd in een notawisseling tussen de Bondsregering van de Republiek Oostenrijk en de Regering van het Koninkrijk der Nederlanden, tot elk der buiten Europa gelegen delen van het Koninkrijk der Nederlanden worden uitgebreid. In deze notawisseling wordt het tijdstip bepaald waarop deze uitbreiding van kracht wordt; dit wordt aan de andere Overeenkomstsluitende Staten medegedeeld.  
+
+### Artikel  9  
+
+1).  Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand volgende op de datum van ondertekening. De Overeenkomst geldt voor de duur van een jaar; indien zij niet een maand voor het verstrijken van deze termijn wordt opgezegd, is zij voor onbepaalde tijd van kracht.   
+2).  Na afloop van het eerste jaar kan de Overeenkomst met inachtneming van een termijn van drie maanden worden opgezegd.   
+3).  De opzegging door de Bondsregering van de Republiek Oostenrijk dient gelijktijdig aan de Regeringen van de andere Overeenkomstsluitende Staten te worden gericht.   
+4).  De opzegging door de Regering van het Koninkrijk België, het Groothertogdom Luxemburg of het Koninkrijk der Nederlanden dient aan de Bondsregering van de Republiek Oostenrijk te worden gericht. Als gevolg van de opzegging door een van deze drie Regeringen of door de Bondsregering van de Republiek Oostenrijk treedt de Overeenkomst na het verstrijken van de lopende opzeggingstermijn buiten werking.   
+
+GEDAAN te Wenen, de vijftiende februari 1965 in vier exemplaren, elk in de Duitse, de Franse en de Nederlandse taal, zijnde de drie teksten gelijkelijk authentiek.  
+
