@@ -15,9 +15,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 1.  Wij behouden Ons voor, bij algemene maatregel van bestuur, de wetgeving inzake invoerrechten en accijnzen met het Koninkrijk verbindende internationale overeenkomsten en besluiten van volkenrechtelijke organisaties in overeenstemming te brengen.   
 2.  Indien bij het Koninkrijk verbindende internationale overeenkomsten of besluiten van volkenrechtelijke organisaties het uitoefenen van bevoegdheden inzake de douane en de accijnzen is opgedragen aan de bevoegde autoriteiten van de Staten, worden die bevoegdheden voor zoveel het Koninkrijk betreft, uitgeoefend door de door Onze Minister aangewezen ambtenaren.   
 
+### Artikel  2a  
+
+De in artikel 81, eerste en tweede lid, van het Verdrag tot instelling van de Benelux Economische Unie (Trb. 1958, 18) bedoelde wijzigingen van de tarieven kunnen bij ministeriële regeling worden vastgesteld.  
+
 ### Artikel  3  
 
-Bij een besluit hetwelk krachtens een der vorige artikelen wordt genomen, kunnen andere wettelijke bepalingen inzake van rijkswege door de rijksbelastingdienst geheven belastingen, waarin naar de in die artikelen bedoelde wetgeving wordt verwezen of welke daarmede samenhangen, in overeenstemming met de aangebrachte wijzigingen worden gebracht.  
+Bij een algemene maatregel van bestuur of ministeriële regeling die krachtens een der vorige artikelen wordt genomen, kunnen andere wettelijke bepalingen inzake van rijkswege door de rijksbelastingdienst geheven belastingen, waarin naar de in die artikelen bedoelde wetgeving wordt verwezen of welke daarmede samenhangen, in overeenstemming met de aangebrachte wijzigingen worden gebracht.  
+
+### Artikel  3a  
+
+Een krachtens dit hoofdstuk tot stand gekomen algemene maatregel van bestuur of vastgestelde ministeriële regeling die heeft geleid tot aanpassing van bij de wet gestelde regels, wordt, vergezeld van een toelichting, door Onze Minister onverwijld aan beide kamers der Staten-Generaal gezonden.  
 
 ### Hoofdstuk  II  
 
