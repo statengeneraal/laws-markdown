@@ -1,0 +1,50 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Circulaire afspraken inzake arbeidsongeschikten met een arbeidsongeschiktheidspercentage lager dan 35%
+
+####Inleiding
+
+Werknemers met een arbeidsongeschiktheidspercentage lager dan 35% vallen niet onder de uitkeringsregelingen van de [Wet Werk en Inkomen naar Arbeidsvermogen](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) (WIA). Voor deze groep is in het sectoroverleg Rijk van 5 juli 2006 met de samenwerkende centrales van overheidspersoneel (SCO) afgesproken dat werkgever en werknemer al het mogelijke moeten doen om de werknemer in dienst te houden dan wel elders herplaatst te krijgen. Verder zijn afspraken gemaakt over de compensatie van mogelijk inkomensverlies voor deze groep. N.B. Bij de [WIA](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) staat ‘werken naar vermogen’ centraal. Ofwel: ‘Het gaat niet om wat men niet meer kan... maar om wat men nog wel kan.’ De systematiek van de [WIA](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) gaat dan ook uit van de mate van arbeidsgeschiktheid. Omdat de rijksregeling voor ambtenaren met een arbeidsongeschiktheidspercentage lager dan 35% juist focust op het inkomensverlies als gevolg van gedeeltelijke arbeidsongeschiktheid, is er voor gekozen om in de rijksregeling niet uit te gaan van de mate van arbeidsgeschiktheid. Wel staat zeker ook in de rijksregeling het werken naar vermogen voorop. De desbetreffende ambtenaar dient aan het werk te blijven en mag dan ook in beginsel niet worden ontslagen.    
+
+####Afspraken sector Rijk over arbeidsongeschikten met een arbeidsongeschiktheidspercentage van minder dan 35%
+
+### 1  
+
+####Geen ontslag tenzij sprake is van zwaarwegend dienstbelang
+
+Uitgangspunt is dat de ambtenaar die door het UWV minder dan 35% arbeidsongeschikt is bevonden ook na twee jaar arbeidsongeschiktheid niet kan worden ontslagen. Alleen indien een zwaarwegend belang zich verzet tegen het in dienst houden, behoort ontslag van ambtenaren met een arbeidsongeschiktheidspercentage van minder dan 35% tot de mogelijkheden. Deeltijdontslag is mogelijk in het geval dat een ambtenaar vanwege zijn beperkingen niet langer het oorspronkelijke aantal uren kan werken. In het geval dan een ambtenaar vanwege zijn beperkingen deels wordt ontslagen bestaat in beginsel geen recht op WW. De desbetreffende ambtenaar is immers voor dat deel niet beschikbaar voor de arbeidsmarkt. Mocht er bij deeltijdontslag toch sprake zijn van een WW-uitkering en/of bovenwettelijke WW-uitkering, dan zal deze uitkering (conform [ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md)) in mindering worden gebracht op de in paragraaf 2 toegelichte compensatie van inkomensverlies. In geval van ontslag voor de gehele arbeidsduur zal er in de meeste gevallen sprake zijn van een aanspraak op een WW- en/of bovenwettelijke WW-uitkering. Het in dit verband genoemde ‘zwaarwegend dienstbelang’ zal zich binnen de sector Rijk niet snel voordoen, gezien de binnen de sector bestaande mogelijkheden tot herplaatsing. Ik noem hier ook de eerder voor de sector gemaakte afspraak om zonodig een functie voor een arbeidsongeschikte te creëren. Het gaat daarbij om het, binnen de bestaande formatie, komen tot een andere verdeling van taken, waardoor een functie met gewijzigde inhoud ontstaat.    
+### 2  
+
+####Compensatieregeling voor evt. inkomensverlies
+
+De ambtenaar die voor minder dan 35% arbeidsongeschikt is, heeft met ingang van 29 december 2005, ingeval sprake is van inkomensverlies omdat hij minder uren moet werken, toelagen/toeslagen verliest of op een lager salarisniveau moet werken, voor een periode van maximaal vijf jaar recht op een uitkering. De uitkering bedraagt 70% van het verschil tussen: 
+
+– de bezoldiging, vermeerderd met de vakantie-uitkering en de eindejaarsuitkering zoals die zou zijn op de dag voor zijn herplaatsing indien de ambtenaar op die dag niet ongeschikt zou zijn geweest tot werken; en  
+
+– de bezoldiging na herplaatsing vermeerderd met de vakantie-uitkering en de eindejaarsuitkering.   Met bezoldiging wordt bedoeld de bezoldiging zoals beschreven in [artikel 2 van het BBRA 1984](../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). De uitkering zelf is geen onderdeel van de bezoldiging. De uitkering maakt deel uit van het pensioengevende inkomen en behoort tot het loon voor de berekening van de loonheffingen. Een toegekende uitkering wordt bij een algemene salarisherziening herzien door het hiervoor beschreven verschil opnieuw vast te stellen, rekening houdend met de algemene salarisherziening. Ook een algemene verhoging van de eindejaarsuitkering wordt hierin betrokken. Dit zal er in de praktijk toe leiden dat de uitkering wordt verhoogd met het percentage van de algemene salarisherziening en de herziening van de eindejaarsuitkering. Andere verhogingen van de bezoldiging in de nieuwe functie gaan ten koste van de uitkering, met uitzondering van periodieken. Periodieken, verkregen in de nieuwe functie, leiden niet tot herberekening van de uitkering en leiden derhalve niet tot een korting op de uitkering. Voorwaarde voor toekenning van de aanvullende uitkering is dat er een keuring is van het UWV met als uitkomst een arbeidsongeschiktheidspercentage van minder dan 35%. Daarnaast moet er sprake zijn van een daling van de bezoldiging door plaatsing in de eigen functie of een andere gelijkgewaardeerde functie voor minder uren, door verlaging of niet langer van toepassing zijn van toeslagen/toelagen, dan wel inkomensverlies door herplaatsing (al dan niet voor minder uren) in een functie waaraan een lagere salarisschaal is verbonden dan aan de oude functie. De genoemde periode van maximaal 5 jaar geldt voor iedere ambtenaar die tussen 29 december 2005 en 1 januari 2011 op basis van een beslissing van het UWV minder dan 35% arbeidsongeschikt is en herplaatst is. Een onderbreking van de uitkeringsperiode in verband met – onder andere – een periode van buitengewoon verlof zonder behoud van bezoldiging, het opnemen van levensloopverlof of de situatie dat de betrokken ambtenaar tijdelijk een zodanige bezoldiging ontvangt dat deze op of boven zijn oorspronkelijke bezoldiging ligt, schort de periode van maximaal 5 jaar niet op, noch doet dit een nieuwe periode van 5 jaar aanvangen. Voor de ambtenaar die als gevolg van een dienstongeval of beroepsziekte arbeidsongeschikt is geworden geldt deze maximumduur van 5 jaar niet.    
+### 3  
+
+####Monitoring compensatieregeling
+
+De bedrijfsarts zal de betreffende ambtenaar minimaal één maal per jaar blijven zien. De werkgever zal blijven zorgen voor begeleiding en zal zich inspannen om, indien uitbreiding van uren/verdienvermogen mogelijk is, daartoe mogelijkheden te bieden. De werkgever is hierop aanspreekbaar door de werknemer. Voorts wordt, in het kader van het jaarlijkse functioneringsgesprek tussen de leidinggevende en de ambtenaar expliciet aandacht besteed aan het feit dat de ambtenaar deels arbeidsongeschikt is. In het kader van de terugblik dient expliciet de vraag aan de orde te komen of er al dan niet sprake is van te weinig inspanningen van de werkgever of de ambtenaar om tot uitbreiding van uren/verdienvermogen te komen. Beide partijen zijn verplicht om al het mogelijke te doen om te komen tot een uitbreiding van uren/verdienvermogen mits de (medische) situatie van de ambtenaar dit mogelijk maakt. Het gaat immers om een vergaande inspanningsverplichting van beide partijen. Van het functioneringsgesprek wordt een verslag gemaakt, dat beiden ondertekenen.    
+### 4  
+
+####Duur en evaluatie regeling
+
+De hiervoor aangegeven regeling is overeengekomen voor een periode van vijf jaar, derhalve voor instromers in de periode van 29 december 2005 tot en met 31 december 2010. In 2010 zal het Sectoroverleg Rijk de regeling evalueren. Het is nodig om in 2010 te evalueren, aangezien eind 2010 duidelijk dient te zijn wat gaat gelden voor de nieuwe instroom vanaf 1 januari 2011 en voor degenen die al vijf jaar van deze regeling gebruik hebben gemaakt. Afgesproken is dat de werkgever ervoor zorgt dat de groep ambtenaren met een arbeidsongeschiktheidspercentage van minder dan 35% in de loop van de jaren (2006–2010) wordt gevolgd. Aan de werkgevers van de sector Rijk worden daarom expliciet verzocht om de gegevens van de desbetreffende groep ambtenaren te registreren en daarover te rapporteren. Over de wijze waarop de gegevens door de werkgever centraal beschikbaar dienen te worden gesteld, zullen de directies P&O nog nader worden geïnformeerd door BZK. BZK is voornemens te zorgen voor een centrale monitoring, ten behoeve van de evaluatie in 2010. Overigens wordt de re-integratie van deze groep ook landelijk onderzocht, in opdracht van de Stichting van de Arbeid. Bij de evaluatie zal in ieder geval aan de orde zijn: 
+
+– in hoeverre het, conform de afspraak, lukt om de ambtenaren met een arbeidsongeschiktheidspercentage van minder dan 35% te herplaatsen, bij de eigen werkgever of elders.  
+
+– de mate (het percentage) van de gevallen waarin vervolgens sprake is van uitbreiding van uren/verdienvermogen.  
+
+– de mate (het percentage) waarin sprake is van te weinig inspanningen van partij(en).   Hierover zal in 2010 van het Sectoroverleg Rijk een beleidsoordeel worden gevraagd: is er op grond van de bijgehouden gegevens reden om de regeling te heroverwegen.    
+### 5  
+
+####Slotopmerkingen
+
+Zodra de formalisering van de overeengekomen maatregelen (in het [ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md)) tot stand is gekomen, zal ik u daarover informeren. Vooruitlopend daarop verzoek ik u om zo nodig vast uitvoering te geven aan de in deze circulaire genoemde maatregelen.      
+
+De 
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
+directeur-generaal Management Openbare Sector, 
+R.IJ.M.Kuipers   
