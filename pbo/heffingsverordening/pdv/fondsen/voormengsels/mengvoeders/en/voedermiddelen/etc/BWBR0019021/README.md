@@ -54,7 +54,7 @@ voor vochtige voeders (moist): € 0,01 per 1000 kg vermenigvuldigd met de omrek
 2.  De heffing op vochtrijke voedermiddelen, bedoeld in artikel 2, tweede lid, is bestemd voor het Fonds veevoedkundig onderzoek, bedoeld in de [Verordening PDV fonds veevoedkundig onderzoek 2003](../../../../../../../../../../pbo/verordening/pdv/fonds/veevoedkundig/onderzoek/2003/BWBR0014703/README.md): € 0,062   
 3.  De heffing op concentraten, voormengsels of mengvoeder voor landbouwhuisdieren, bedoeld in artikel 3, eerste lid, is bestemd voor: 
 
-a. Fonds sociale aangelegenheden bedoeld in de [Verordening PDV fonds sociale aangelegenheden 2003](../../../../../../../../../../pbo/verordening/pdv/algemene/bepalingen/2003/BWBR0014694/README.md): € 0,01  
+a. Fonds sociale aangelegenheden bedoeld in de [Verordening PDV fonds sociale aangelegenheden 2003](../../../../../../../../../../pbo/verordening/pdv/fonds/sociale/aangelegenheden/2003/BWBR0014702/README.md): € 0,01  
 
 b. Fonds veevoedkundig onderzoek bedoeld in de [Verordening PDV fonds veevoedkundig onderzoek 2003](../../../../../../../../../../pbo/verordening/pdv/fonds/veevoedkundig/onderzoek/2003/BWBR0014703/README.md): € 0,054.     
 4.  De heffing op huisdiervoeders, bedoeld in artikel 3, tweede lid, is bestemd voor het Fonds sociale aangelegenheden, bedoeld in de [Verordening PDV fonds sociale aangelegenheden 2003](../../../../../../../../../../pbo/verordening/pdv/algemene/bepalingen/2003/BWBR0014694/README.md).   
