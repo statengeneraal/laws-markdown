@@ -199,21 +199,6 @@ c. gedurende ten minste twee jaren van de verklaring geen gebruik is gemaakt.
 
 ####Slotbepalingen
 
-### Artikel  25  
-
-1.  In afwijking van artikel 14 mag een partij in depot zijn bemonsterd overeenkomstig de volgende bepalingen: 
-
-a. De partij wordt in het depot bemonsterd overeenkomstig: 
-
-1°. VKB-protocol 1018, of  
-
-2°. het accreditatieprogramma bouwstoffenbesluit (AP04) voor de monstername conform het schema voor de monsterneming ten behoeve van het handhavingsprotocol schone grond.    
-
-b. Bij het gebruik van VKB-protocol 1018 wordt bemonsterd overeenkomstig de doelstelling ‘keuring schone grond’ zoals opgenomen in tabel 1 van hoofdstuk 6 van genoemd protocol;  
-
-c. Bij het gebruik van VKB-protocol 1018 wordt ten aanzien van het nemen van grepen de strategie 2 maal 50 grepen gevolgd, overeenkomstig hoofdstuk 6 van genoemd protocol, met uitzondering van de paragrafen 6.2.2 tot en met 6.2.6.     
-2.  Dit artikel vervalt met ingang van 1 juli 2006.   
-
 ### Artikel  26  
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
@@ -232,9 +217,9 @@ P.L.B.A. vanGeel
 
 ### Bijlage  1  
 
-![168995](http://wetten.overheid.nl/Illustration/168995)
-![168995](http://wetten.overheid.nl/Illustration/168995)
-![168995](http://wetten.overheid.nl/Illustration/168995)
+![168992](http://wetten.overheid.nl/Illustration/168992)
+![168993](http://wetten.overheid.nl/Illustration/168993)
+![168994](http://wetten.overheid.nl/Illustration/168994)
 ![168995](http://wetten.overheid.nl/Illustration/168995)
 
 #### *Verontreinigingstypen* 
