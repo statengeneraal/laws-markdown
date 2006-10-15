@@ -13,7 +13,7 @@ The contracting parties, Committed to the fundamental principles of multiparty d
 
 ####Purpose
 
-In contributing to economic progress and reconstruction, the purpose of the Bank shall be to foster the transition towards open market oriented economies and to promote private and entrepreneurial initiative in the Central and Eastern European countries committed to and applying the principles of multiparty democracy, pluralism and market economics.  
+In contributing to economic progress and reconstruction, the purpose of the Bank shall be to foster the transition towards open market-oriented economies and to promote private and entrepreneurial initiative in the Central and Eastern European countries committed to and applying the principles of multiparty democracy, pluralism and market economics. The purpose of the Bank may also be carried out in Mongolia subject to the same conditions. Accordingly, any reference in this Agreement and its annexes to ‘‘Central and Eastern European countries’’, ‘‘countries from Central and Eastern Europe’’, ‘‘recipient country (or countries)’’ or ‘‘recipient member country (or countries)’’ shall refer to Mongolia as well.  
 
 ### Article  2  
 
@@ -1031,7 +1031,7 @@ De Overeenkomstsluitende Partijen, Trouw aan de grondbeginselen van de democrati
 
 ####Doel
 
-De Bank heeft met haar bijdrage aan de economische vooruitgang en het herstel ten doel de overgang naar een open markteconomie te bevorderen en het particuliere initiatief en de ondernemingsgeest aan te moedigen in de Midden- en Oosteuropese landen die de beginselen van een democratie met een meerpartijenstelsel, pluralisme en een markteconomie aanhangen en toepassen.  
+De Bank heeft met haar bijdrage aan de economische vooruitgang en het herstel ten doel de overgang naar een open markteconomie te bevorderen en het particuliere initiatief en de ondernemingsgeest aan te moedigen in de Midden- en Oost-Europese landen die de beginselen van een democratie met een meerpartijenstelsel, pluralisme en een markteconomie aanhangen en toepassen. Het doel van de Bank kan met inachtneming van dezelfde voorwaarden ook in Mongolië worden verwezenlijkt. Dienovereenkomstig heeft elke verwijzing in deze Overeenkomst en de Bijlagen daarbij naar „Midden- en Oost-Europese landen”, “landen in Midden- en Oost-Europa”, „ontvangend land (of ontvangende landen)” of „ontvangende lidstaat (of lidstaten)” tevens betrekking op Mongolië.  
 
 ### Artikel  2  
 
