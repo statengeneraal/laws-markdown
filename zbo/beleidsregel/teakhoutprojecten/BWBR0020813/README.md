@@ -1,0 +1,28 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Beleidsregel Wet op het financieel toezicht 06-16 van de Stichting Autoriteit Financiële Markten van 12 december 2006 inzake de vraag of bij teakhoutprojecten sprake is van een collectieve dan wel individuele belegging (Beleidsregel Teakhoutprojecten)
+
+####Wettelijk kader
+
+De [Wet op het financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) (Wft) bepaalt in [artikel 1:1](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) dat een beleggingsinstelling een beleggingsfonds of een beleggingsmaatschappij is, die gelden of andere goederen ter collectieve belegging vraagt of verkrijgt teneinde de deelnemers in de opbrengst van de belegging te doen delen. Daarnaast bepaalt de [Wft](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in [artikel 2:65, eerste en tweede lid, Wft](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) dat het verboden is om in Nederland een recht van deelneming in een beleggingsinstelling aan te bieden, zonder dat de beheerder van de beleggingsinstelling een door de AFM verleende vergunning heeft; of, indien het een beleggingsmaatschappij betreft die geen aparte beheerder heeft, zonder dat de beleggingsmaatschappij een door de AFM verleende vergunning heeft. Ten aanzien van teakhoutprojecten is het beleid van de Autoriteit Financiële Markten (AFM) reeds in een eerder stadium bekend gemaakt . Deze beleidsregel kan worden aangemerkt als een technische en beleidsneutrale omzetting in het kader van de [Wft](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en is vastgesteld door middel van het Besluit tot vaststelling van beleidsregels in het kader van de [Wet op het financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van 12 december 2006. <sup> 1  Beleidsregel Wet toezicht beleggingsinstellingen 05-03 van de Stichting Autoriteit Financiële Markten van 10 augustus 2005 inzake de vraag of bij teakhoutprojecten sprake is van een collectieve dan wel individuele belegging (Beleidsregel Teakhoutprojecten), Staatscourant 2005, 153.  </sup> Dit is een beleidsregel als bedoeld in [artikel 1:3, vierde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (Awb). De bevoegdheid van de AFM tot het vaststellen van deze beleidsregel is gebaseerd op [artikel 4:81, eerste lid, Awb](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
+
+####Kader beleidsregel
+
+Op de markt voor beleggingsproducten verschijnen aanbiedingen voor beleggingen in teakhoutprojecten. Op grote schaal worden advertenties geplaatst waarin gelden worden gevraagd waarin over beleggen wordt gesproken. Aangezien onduidelijkheid heerst of deze projecten onder enige vorm van toezicht staan, is hierover beleid gevormd.    
+
+####Beleidsregel
+
+In het geval van teakhout is het van belang of de verkoopopbrengsten van de te zijner tijd te kappen bomen collectief of individueel worden bepaald. Dit zal uit een overeenkomst tussen de aanbieder van het teakhoutproject en de belegger blijken. Hetzelfde geldt voor de manier waarop het risico door de participanten wordt gedragen. Uit genoemde overeenkomst dient te blijken of de opbrengst van de ene participant op het moment van de kap als gevolg van verschillen in kwaliteit van de bomen kan afwijken van die van de ander of dat de verkoopopbrengst eenvoudigweg naar rato van deelname over de participanten wordt verdeeld. Ten aanzien van de risicoverdeling kan iedere participant het risico van beschadiging of verlies gedurende de looptijd van het project voor zijn bomen dragen, dan wel hiervoor worden gecompenseerd door de andere participanten. Wanneer in de bepalingen ten aanzien van de opbrengsten en risicodeling onvoldoende expliciet is aangegeven dat er sprake is van een individuele belegging, dan wordt een aanbieder van een teakhoutproject aangemerkt als beheerder in de zin van de [Wft](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). Dit betekent dat de beheerder van het project een vergunning dient aan te vragen. De beheerder van een project behoeft geen vergunning aan te vragen wanneer er geen sprake is van collectief beleggen, maar van individueel beleggen. Daartoe dient uit de aan (potentiële) participanten aangeboden contracten, brochures en dergelijke te blijken dat een toewijzing van de bomen c.q. een perceel met bomen individueel is geschied. In geval van een perceel dient deze te zijn aangegeven op een bij het contract gevoegde kaart en (eventueel) kadastraal te zijn geregistreerd. Tevens dient uit contractuele bepalingen te blijken dat de verkoopopbrengst van de betreffende teakhoutbomen per deelnemer is geïndividualiseerd. Individualisering per boom (‘rugnummers’) is niet noodzakelijk. Voldoende is de bomen te individualiseren door bijvoorbeeld de percelen af te bakenen. Indien niet – zoals het meeste voorkomt – percelen met bomen worden toegewezen, maar ‘losse’ bomen worden aangeboden, kan nummering van de bomen in overweging worden genomen. Tevens zal aannemelijk moeten worden gemaakt dat deze, op de individualisering van de beleggingen gerichte maatregelen in de praktijk worden nageleefd.    
+
+####Slotbepalingen
+
+De bekendmaking van deze beleidsregel geschiedt door publicatie in de Staatscourant. De beleidsregel treedt in werking op 1 januari 2007. Deze beleidsregel wordt aangehaald als Beleidsregel Teakhoutprojecten.      
+
+Amsterdam 
+12 december 2006   
+
+Bestuurslid, 
+A.W.Kist 
+
+Bestuurslid, 
+P.M.Koster   
