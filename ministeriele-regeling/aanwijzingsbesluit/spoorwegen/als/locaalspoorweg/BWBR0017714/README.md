@@ -3,7 +3,7 @@
 ##Aanwijzingsbesluit spoorwegen als locaalspoorweg
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 1, eerste lid, van de Locaalspoor- en Tramwegwet](../../../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) (Stb. 1900, 118);
+Gelet op artikel 1, eerste lid, van de Locaalspoor- en Tramwegwet (Stb. 1900, 118);
 Besluit:    
 
 ### Artikel  1  
@@ -12,7 +12,7 @@ De volgende spoorwegen worden als locaalspoorwegen beschouwd als bedoeld in de L
 
 a. Nieuw Amsterdam–Schoonebeek;  
 
-b. Leusden–De Haar;  
+b.  vervallen;   
 
 c. Boxtel–Veghel;  
 
@@ -34,7 +34,7 @@ k. Schin op Geul–Simpelveld–Grens.
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van het tijdstip waarop de [artikelen 16 tot en met 23 van de Spoorwegwet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) (2003, 264) in werking treden.  
+Dit besluit treedt in werking met ingang van het tijdstip waarop de artikelen 16 tot en met 23 van de Spoorwegwet (2003, 264) in werking treden.  
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
