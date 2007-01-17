@@ -130,43 +130,7 @@ The benefit specified in Article 10 shall, in a contingency covered, be secured 
 
 ####Sickness Benefit
 
-### Article  13  
-
-Each Member for which this Part of this Convention is in force shall secure to the persons protected the provision of sickness benefit in accordance with the following Articles of this Part.  
-
-### Article  14  
-
-The contingency covered shall include incapacity for work resulting from a morbid condition and involving suspension of earnings, as defined by national laws or regulations.  
-
-### Article  15  
-
-The persons protected shall comprise 
-
-(a) prescribed classes of employees, constituting not less than 50 per cent, of all employees; or  
-
-(b) prescribed classes of the economically active population, constituting not less than 20 per cent, of all residents; or  
-
-(c) all residents whose means during the contingency do not exceed limits prescribed in such a manner as to comply with the requirements of Article 67; or  
-
-(d) where a declaration made in virtue of Article 3 is in force, prescribed classes of employees, constituting not less than 50 per cent, of all employees in industrial workplaces employing 20 persons or more.    
-
-### Article  16  
-
-1.  Where classes of employees or classes of the economically active population are protected, the benefit shall be a periodical payment calculated in such a manner as to comply either with the requirements of Article 65 or with the requirements of Article 66.   
-2.  Where all residents whose means during the contingency do not exceed prescribed limits are protected, the benefit shall be a periodical payment calculated in such a manner as to comply with the requirements of Article 67.   
-
-### Article  17  
-
-The benefit specified in Article 16 shall, in a contingency covered, be secured at least to a person protected who has completed such qualifying period as may be considered necessary to preclude abuse.  
-
-### Article  18  
-
-1.  The benefit specified in Article 16 shall be granted throughout the contingency, except that the benefit may be limited to 26 weeks in each case of sickness, in which event it need not be paid for the first three days of suspension of earnings.   
-2.  Where a declaration made in virtue of Article 3 is in force, the duration of the benefit may be limited 
-
-(a) to such period that the total number of days for which the sickness benefit is granted in any year is not less than ten times the average number of persons protected in that year; or  
-
-(b) to 13 weeks in each case of sickness, in which event it need not be paid for the first three days of suspension of earnings.     
+Vervallen per 17-01-2007   
 
 ### PART  IV  
 
@@ -214,133 +178,13 @@ The benefit specified in Article 22 shall, in a contingency covered, be secured 
 
 ####Old-Age Benefit
 
-### Article  25  
-
-Each Member for which this Part of this Convention is in force shall secure to the persons protected the provision of old-age benefit in accordance with the following Articles of this Part.  
-
-### Article  26  
-
-1.  The contingency covered shall be survival beyond a prescribed age.   
-2.  The prescribed age shall be not more than 65 years or such higher age as may be fixed by the competent authority with due regard to the working ability of elderly persons in the country concerned.   
-3.  National laws or regulations may provide that the benefit of a person otherwise entitled to it may be suspended if such person is engaged in any prescribed gainful activity or that the benefit, if contributory, may be reduced where the earnings of the beneficiary exceed a prescribed amount and, if non-contributory, may be reduced where the earnings of the beneficiary or his other means or the two taken together exceed a prescribed amount.   
-
-### Article  27  
-
-The persons protected shall comprise 
-
-(a) prescribed classes of employees, constituting not less than 50 per cent, of all employees; or  
-
-(b) prescribed classes of the economically active population, constituting not less than 20 per cent, of all residents; or  
-
-(c) all residents whose means during the contingency do not exceed limits prescribed in such a manner as to comply with the requirements of Article 67; or  
-
-(d) where a declaration made in virtue of Article 3 is in force, prescribed classes of employees, constituting not less than 50 per cent, of all employees in industrial workplaces employing 20 persons or more.    
-
-### Article  28  
-
-The benefit shall be a periodical payment calculated as follows: 
-
-(a) where classes of employees or classes of the economically active population are protected, in such a manner as to comply either with the requirements of Article 65 or with the requirements of Article 66;  
-
-(b) where all residents whose means during the contingency do not exceed prescribed limits are protected, in such a manner as to comply with the requirements of Article 67.    
-
-### Article  29  
-
-1.  The benefit specified in Article 28 shall, in a contingency covered, be secured at least 
-
-(a) to a person protected who has completed, prior to the contingency, in accordance with prescribed rules, a qualifying period which may be 30 years of contribution or employment, or 20 years of residence; or  
-
-(b) where, in principle, all economically active persons are protected, to a person protected who has completed a prescribed qualifying period of contribution and in respect of whom, while he was of working age, the prescribed yearly average number of contributions has been paid.     
-2.  Where the benefit referred to in paragraph 1 is conditional upon a minimum period of contribution or employment, a reduced benefit shall be secured at least 
-
-(a) to a person protected who has completed, prior to the contingency, in accordance with prescribed rules, a qualifying period of 15 years of contribution or employment; or  
-
-(b) where, in principle, all economically active persons are protected, to a person protected who has completed a prescribed qualifying period of contribution and in respect of whom, while he was of working age, half the yearly average number of contributions prescribed in accordance with subparagraph *(b)* of paragraph 1 of this Article has been paid.     
-3.  The requirements of paragraph 1 of this Article shall be deemed to be satisfied where a benefit calculated in conformity with the requirements of Part XI but at a percentage of ten points lower than shown in the Schedule appended to that Part for the standard beneficiary concerned is secured at least to a person protected who has completed, in accordance with prescribed rules, ten years of contribution or employment, or five years of residence.   
-4.  A proportional reduction of the percentage indicated in the Schedule appended to Part XI may be effected where the qualifying period for the benefit corresponding to the reduced percentage exceeds ten years of contribution or employment but is less than 30 years of contribution or employment; if such qualifying period exceeds 15 years, a reduced benefit shall be payable in conformity with paragraph 2 of this Article.   
-5.  Where the benefit referred to in paragraphs 1, 3 or 4 of this Article is conditional upon a minimum period of contribution or employment, a reduced benefit shall be payable under prescribed conditions to a person protected who, by reason only of his advanced age when the provisions concerned in the application of this Part come into force, has not satisfied the conditions prescribed in accordance with paragraph 2 of this Article, unless a benefit in conformity with the provisions of paragraphs 1, 3 or 4 of this Article is secured to such person at an age higher than the normal age.   
-
-### Article  30  
-
-The benefits specified in Articles 28 and 29 shall be granted throughout the contingency.  
+Vervallen per 27-10-1970   
 
 ### PART  VI  
 
 ####Employment Injury Benefit
 
-### Article  31  
-
-Each Member for which this Part of this Convention is in force shall secure to the persons protected the provision of employment injury benefit in accordance with the following Articles of this Part.  
-
-### Article  32  
-
-The contingencies covered shall include the following where due to accident or a prescribed disease resulting from employment: 
-
-(a) a morbid condition;  
-
-(b) incapacity for work resulting from such a condition and involving suspension of earnings, as defined by national laws or regulations;  
-
-(c) total loss of earning capacity or partial loss thereof in excess of a prescribed degree, likely to be permanent, or corresponding loss of faculty; and  
-
-(d) the loss of support suffered by the widow or child as the result of the death of the breadwinner; in the case of a widow, the right to benefit may be made conditional on her being presumed, in accordance with national laws or regulations, to be incapable of self-support.    
-
-### Article  33  
-
-The persons protected shall comprise 
-
-(a) prescribed classes of employees, constituting not less than 50 per cent, of all employees, and, for benefit in respect of death of the breadwinner, also their wives and children; or  
-
-(b) where a declaration made in virtue of Article 3 is in force, prescribed classes of employees, constituting not less than 50 per cent, of all employees in industrial workplaces employing 20 persons or more, and, for benefit in respect of death of the breadwinner, also their wives and children.    
-
-### Article  34  
-
-1.  In respect of a morbid condition, the benefit shall be medical care as specified in paragraphs 2 and 3 of this Article.   
-2.  The medical care shall comprise 
-
-(a) general practitioner and specialist in-patient care and out-patient care, including domiciliary visiting;  
-
-(b) dental care;  
-
-(c) nursing care at home or in hospital or other medical institutions;  
-
-(d) maintenance in hospitals, convalescent homes, sanatoria or other medical institutions;  
-
-(e) dental, pharmaceutical and other medical or surgical supplies, including prosthetic appliances, kept in repair, and eyeglasses; and  
-
-(f) the care furnished by members of such other professions as may at any time be legally recognised as allied to the medical profession, under the supervision of a medical or dental practitioner.     
-3.  Where a declaration made in virtue of Article 3 is in force, the medical care shall include at least 
-
-(a) general practitioner care, including domiciliary visiting;  
-
-(b) specialist care at hospitals for in-patients and out-patients, and such specialist care as may be available outside hospitals;  
-
-(c) the essential pharmaceutical supplies as prescribed by a medical or other qualified practitioner; and  
-
-(d) hospitalisation where necessary.     
-4.  The medical care provided in accordance with the preceding paragraphs shall be afforded with a view to maintaining, restoring or improving the health of the person protected and his ability to work and to attend to his personal needs.   
-
-### Article  35  
-
-1.  The institutions or Government departments administering the medical care shall co-operate, wherever appropriate, with the general vocational rehabilitation services, with a view to the re-establishment of handicapped persons in suitable work.   
-2.  National laws or regulations may authorise such institutions or departments to ensure provision for the vocational rehabilitation of handicapped persons.   
-
-### Article  36  
-
-1.  In respect of incapacity for work, total loss of earning capacity likely to be permanent or corresponding loss of faculty, or the death of the breadwinner, the benefit shall be a periodical payment calculated in such a manner as to comply either with the requirements of Article 65 or with the requirements of Article 66.   
-2.  In case of partial loss of earning capacity likely to be permanent, or corresponding loss of faculty, the benefit, where payable, shall be a periodical payment representing a suitable proportion of that specified for total loss of earning capacity or corresponding loss of faculty.   
-3.  The periodical payment may be commuted for a lump sum 
-
-(a) where the degree of incapacity is slight; or  
-
-(b) where the competent authority is satisfied that the lump sum will be properly utilised.     
-
-### Article  37  
-
-The benefit specified in Articles 34 and 36 shall, in a contingency covered, be secured at least to a person protected who was employed in the territory of the Member at the time of the accident if the injury is due to accident or at the time of contracting the disease if the injury is due to a disease and, for periodical payments in respect of death of the breadwinner, to the widow and children of such person.  
-
-### Article  38  
-
-The benefit specified in Articles 34 and 36 shall be granted throughout the contingency, except that, in respect of incapacity for work, the benefit need not be paid for the first three days in each case of suspension of earnings.  
+Vervallen per 02-08-1967   
 
 ### PART  VII  
 
@@ -441,105 +285,13 @@ The benefit specified in Articles 49 and 50 shall be granted throughout the cont
 
 ####Invalidity Benefit
 
-### Article  53  
-
-Each Member for which this Part of this Convention is in force shall secure to the persons protected the provision of invalidity benefit in accordance with the following Articles of this Part.  
-
-### Article  54  
-
-The contingency covered shall include inability to engage in any gainful activity, to an extent prescribed, which inability is likely to be permanent or persists after the exhaustion of sickness benefit.  
-
-### Article  55  
-
-The persons protected shall comprise 
-
-(a) prescribed classes of employees, constituting not less than 50 per cent, of all employees; or  
-
-(b) prescribed classes of the economically active population, constituting not less than 20 per cent, of all residents; or  
-
-(c) all residents whose means during the contingency do not exceed limits prescribed in such a manner as to comply with the requirements of Article 67; or  
-
-(d) where a declaration made in virtue of Article 3 is in force, prescribed classes of employees, constituting not less than 50 per cent, of all employees in industrial workplaces employing 20 persons or more.    
-
-### Article  56  
-
-The benefit shall be a periodical payment calculated as follows: 
-
-(a) where classes of employees or classes of the economically active population are protected, in such a manner as to comply either with the requirements of Article 65 or with the requirements of Article 66;  
-
-(b) where all residents whose means during the contingency do not exceed prescribed limits are protected, in such a manner as to comply with the requirements of Article 67.    
-
-### Article  57  
-
-1.  The benefit specified in Article 56 shall, in a contingency covered, be secured at least 
-
-(a) to a person protected who has completed, prior to the contingency, in accordance with prescribed rules, a qualifying period which may be 15 years of contribution or employment, or 10 years of residence; or  
-
-(b) where, in principle, all economically active persons are protected, to a person protected who has completed a qualifying period of three years of contribution and in respect of whom, while he was of working age, the prescribed yearly average number of contributions has been paid.     
-2.  Where the benefit referred to in paragraph 1 is conditional upon a minimum period of contribution or employment, a reduced benefit shall be secured at least 
-
-(a) to a person protected who has completed, prior to the contingency, in accordance with prescribed rules, a qualifying period of five years of contribution or employment; or  
-
-(b) where, in principle, all economically active persons are protected, to a person protected who has completed a qualifying period of three years of contribution and in respect of whom, while he was of working age, half the yearly average number of contributions prescribed in accordance with subparagraph *(b)* of paragraph 1 of this Article has been paid.     
-3.  The requirements of paragraph 1 of this Article shall be deemed to be satisfied where a benefit calculated in conformity with the requirements of Part XI but at a percentage of ten points lower than shown in the Schedule appended to that Part for the standard beneficiary concerned is secured at least to a person protected who has completed, in accordance with prescribed rules, five years of contribution, employment or residence.   
-4.  A proportional reduction of the percentage indicated in the Schedule appended to Part XI may be effected where the qualifying period for the pension corresponding to the reduced percentage exceeds five years of contribution or employment but is less than 15 years of contribution or employment; a reduced pension shall be payable in conformity with paragraph 2 of this Article.   
-
-### Article  58  
-
-The benefit specified in Articles 56 and 57 shall be granted throughout the contingency or until an old-age benefit becomes payable.  
+Vervallen per 27-10-1970   
 
 ### PART  X  
 
 ####Survivors' Benefit
 
-### Article  59  
-
-Each Member for which this Part of this Convention is in force shall secure to the persons protected the provision of survivors' benefit in accordance with the following Articles of this Part.  
-
-### Article  60  
-
-1.  The contingency covered shall include the loss of support suffered by the widow or child as the result of the death of the breadwinner; in the case of a widow, the right to benefit may be made conditional on her being presumed, in accordance with national laws or regulations, to be incapable of self-support.   
-2.  National laws or regulations may provide that the benefit of a person otherwise entitled to it may be suspended if such person is engaged in any prescribed gainful activity or that the benefit, if contributory, may be reduced where the earnings of the beneficiary exceed a prescribed amount, and, if non-contributory, may be reduced where the earnings of the beneficiary or his other means or the two taken together exceed a prescribed amount.   
-
-### Article  61  
-
-The persons protected shall comprise 
-
-(a) the wives and the children of breadwinners in prescribed classes of employees, which classes constitute not less than 50 per cent, of all employees; or  
-
-(b) the wives and the children of breadwinners in prescribed classes of the economically active population, which classes constitute not less than 20 per cent, of all residents; or  
-
-(c) all resident widows and resident children who have lost their breadwinner and whose means during the contingency do not exceed limits prescribed in such a manner as to comply with the requirements of Article 67; or  
-
-(d) where a declaration made in virtue of Article 3 is in force, the wives and the children of breadwinners in prescribed classes of employees, which classes constitute not less than 50 per cent, of all employees in industrial workplaces employing 20 persons or more.    
-
-### Article  62  
-
-The benefit shall be a periodical payment calculated as follows: 
-
-(a) where classes of employees or classes of the economically active population are protected, in such a manner as to comply either with the requirements of Article 65 or with the requirements of Article 66;  
-
-(b) where all residents whose means during the contingency do not exceed prescribed limits are protected, in such a manner as to comply with the requirements of Article 67.    
-
-### Article  63  
-
-1.  The benefit specified in Article 62 shall, in a contingency covered, be secured at least 
-
-(a) to a person protected whose breadwinner has completed, in accordance with prescribed rules, a qualifying period which may be 15 years of contribution or employment, or 10 years of residence; or  
-
-(b) where, in principle, the wives and children of all economically active persons are protected, to a person protected whose breadwinner has completed a qualifying period of three years of contribution and in respect of whose breadwinner, while he was of working age, the prescribed yearly average number of contributions has been paid.     
-2.  Where the benefit referred to in paragraph 1 is conditional upon a minimum period of contribution or employment, a reduced benefit shall be secured at least 
-
-(a) to a person protected whose breadwinner has completed, in accordance with prescribed rules, a qualifying period of five years of contribution or employment; or  
-
-(b) where, in principle, the wives and children of all economically active persons are protected, to a person protected whose breadwinner has completed a qualifying period of three years of contribution and in respect of whose breadwinner, while he was of working age, half the yearly average number of contributions prescribed in accordance with subparagraph *(b)* of paragraph 1 of this Article has been paid.     
-3.  The requirements of paragraph 1 of this Article shall be deemed to be satisfied where a benefit calculated in conformity with the requirements of Part XI but at a percentage of ten points lower than shown in the Schedule appended to that Part for the standard beneficiary concerned is secured at least to a person protected whose breadwinner has completed, in accordance with prescribed rules, five years of contribution, employment or residence.   
-4.  A proportional reduction of the percentage indicated in the Schedule appended to Part XI may be effected where the qualifying period for the benefit corresponding to the reduced percentage exceeds five years of contribution or employment but is less than 15 years of contribution or employment; a reduced benefit shall be payable in conformity with paragraph 2 of this Article.   
-5.  In order that a childless widow presumed to be incapable of self-support may be entitled to a survivor's benefit, a minimum duration of the marriage may be required.   
-
-### Article  64  
-
-The benefit specified in Articles 62 and 63 shall be granted throughout the contingency.  
+Vervallen per 27-10-1970   
 
 ### PART  XI  
 
@@ -1022,43 +774,7 @@ De in artikel 10 vermelde verstrekkingen moeten in een door verzekering gedekt g
 
 ####Uitkering van ziekengeld
 
-### Artikel  13  
-
-Elk Lid, te wiens aanzien dit Deel van het Verdrag van kracht is, moet overeenkomstig de navolgende bepalingen van dit Deel aan de beschermde personen de uitkering van ziekengeld waarborgen.  
-
-### Artikel  14  
-
-Het door verzekering gedekte geval moet omvatten ongeschiktheid tot werken, welke voortspruit uit een ziektetoestand en welke derving van inkomsten uit arbeid met zich brengt, zoals nader geregeld bij de nationale wetgeving.  
-
-### Artikel  15  
-
-Tot de beschermde personen moeten worden gerekend: 
-
-a) voorgeschreven groepen van loontrekkenden, welke in totaal ten minste 50 procent uitmaken van de gezamenlijke loontrekkenden; of  
-
-b) voorgeschreven groepen van de werkende bevolking, welke in totaal ten minste 20 procent uitmaken van de gezamenlijke inwoners; of  
-
-c) alle inwoners, wier inkomsten tijdens het door verzekering gedekte geval grenzen, voorgeschreven overeenkomstig de bepalingen van artikel 67, niet overschrijden; of  
-
-d) wanneer een verklaring is afgelegd op grond van artikel 3, voorgeschreven groepen van loontrekkenden, welke in totaal ten minste 50 procent uitmaken van de gezamenlijke loontrekkenden in industriële ondernemingen, waarin ten minste 20 personen werkzaam zijn.    
-
-### Artikel  16  
-
-1.  Wanneer groepen van loontrekkenden of groepen van de werkende bevolking beschermd worden zal de uitkering bestaan in een periodieke betaling, berekend overeenkomstig de bepalingen hetzij van artikel 65, hetzij van artikel 66.   
-2.  Wanneer alle inwoners, wier inkomsten tijdens het door verzekering gedekte geval voorgeschreven grenzen niet overschrijden, beschermd zijn, zal de uitkering bestaan in een periodieke betaling, berekend overeenkomstig de bepalingen van artikel 67.   
-
-### Artikel  17  
-
-De in artikel 16 vermelde uitkering moet in het door verzekering gedekte geval ten minste worden gewaarborgd aan de beschermde personen, die een wachttijd hebben vervuld, welke noodzakelijk kan worden geacht om misbruiken te voorkomen.  
-
-### Artikel  18  
-
-1.  De in artikel 16 vermelde uitkering moet gedurende de gehele duur van het door verzekering gedekte geval worden verleend, met dien verstande, dat de duur van de uitkering kan worden beperkt tot 26 weken per ziektegeval, met de mogelijkheid om de uitkering niet te verstrekken gedurende de eerste drie dagen van inkomstenderving.   
-2.  Wanneer een verklaring is afgelegd op grond van artikel 3 kan de duur van de uitkering worden beperkt: 
-
-a) hetzij tot een zodanig tijdvak, dat het totale aantal dagen, waarover in de loop van een jaar uitkering van ziekengeld wordt verstrekt, niet minder bedraagt dan tien maal het gemiddelde aantal beschermde personen gedurende dat jaar;  
-
-b) hetzij tot 13 weken per ziektegeval met de mogelijkheid de uitkering niet te verstrekken gedurende de eerste drie dagen van inkomstenderving.     
+Vervallen per 17-01-2007   
 
 ### DEEL  IV  
 
@@ -1106,133 +822,13 @@ b) wanneer alle inwoners beschermd worden, wier inkomsten tijdens het door verze
 
 ####Ouderdomsuitkeringen
 
-### Artikel  25  
-
-Elk Lid, te wiens aanzien dit Deel van het Verdrag van kracht is, moet overeenkomstig de navolgende bepalingen van dit Deel de betaling van ouderdomsuitkeringen aan de beschermde personen waarborgen.  
-
-### Artikel  26  
-
-1.  Het door verzekering gedekte geval bestaat in het overschreden hebben van een voorgeschreven leeftijd.   
-2.  De voorgeschreven leeftijd mag niet hoger worden gesteld dan 65 jaar. Nochtans mag een hogere leeftijd worden vastgesteld door de bevoegde autoriteiten, rekening houdende met de geschiktheid tot werken van bejaarde personen in het desbetreffende land.   
-3.  De nationale wetgeving kan bepalen, dat de uitkeringen worden geschorst indien degene, die daarop recht zou hebben gehad, bepaalde voorgeschreven werkzaamheden verricht; de uitkeringen, waarvoor premie is betaald, kunnen krachtens de nationale wetgeving worden verminderd, wanneer de inkomsten uit arbeid van de gerechtigde een voorgeschreven bedrag overschrijden; de uitkeringen, welke niet op premiebetaling gebaseerd zijn, kunnen eveneens verminderd worden wanneer de inkomsten uit arbeid van de gerechtigde of zijn overige inkomsten, dan wel beide tezamen een voorgeschreven bedrag overschrijden.   
-
-### Artikel  27  
-
-Tot de beschermde personen moeten worden gerekend: 
-
-a) voorgeschreven groepen van loontrekkenden, welke in totaal ten minste 50 procent uitmaken van de gezamenlijke loontrekkenden; of  
-
-b) voorgeschreven groepen van de werkende bevolking, welke in totaal ten minste 20 procent uitmaken van de gezamenlijke inwoners; of  
-
-c) alle inwoners, wier inkomsten tijdens het door verzekering gedekte geval grenzen, voorgeschreven overeenkomstig de bepalingen van artikel 67, niet overschrijden; of  
-
-d) wanneer een verklaring is afgelegd op grond van artikel 3, voorgeschreven groepen van loontrekkenden, welke in totaal ten minste 50 procent uitmaken van de gezamenlijke loontrekkenden in industriële ondernemingen, waarin ten minste 20 personen werkzaam zijn.    
-
-### Artikel  28  
-
-De uitkering zal bestaan in een periodieke betaling, berekend als volgt: 
-
-a) wanneer groepen van loontrekkenden of groepen van de werkende bevolking beschermd worden, overeenkomstig de bepalingen hetzij van artikel 65, hetzij van artikel 66;  
-
-b) wanneer alle inwoners beschermd worden, wier inkomsten tijdens het door verzekering gedekte geval voorgeschreven grenzen niet overschrijden, overeenkomstig de bepalingen van artikel 67.    
-
-### Artikel  29  
-
-1.  De in artikel 28 vermelde uitkering moet tijdens het door verzekering gedekte geval ten minste worden gewaarborgd: 
-
-a) aan een beschermd persoon, die vóór het intreden van het door verzekering gedekte geval, overeenkomstig voorgeschreven regelen een wachttijd heeft vervuld, welke kan bestaan hetzij in 30 jaren van premiebetaling of arbeid, hetzij in 20 jaren van verblijf;  
-
-b) wanneer in beginsel alle werkende personen beschermd worden, aan een beschermd persoon, die een voorgeschreven wachttijd van premiebetaling heeft vervuld en te wiens name, in de loop van de actieve periode van zijn leven, premiën zijn betaald, waarvan het gemiddelde aantal per jaar een voorgeschreven aantal bereikt.     
-2.  Wanneer de toekenning van de in het eerste lid vermelde uitkering afhankelijk is gesteld van de vervulling van een minimumtijdvak van premiebetaling of van arbeid, moet ten minste een verminderde uitkering worden gewaarborgd: 
-
-a) aan een beschermd persoon, die vóór het intreden van het door verzekering gedekte geval overeenkomstig voorgeschreven regelen een wachttijd van 15 jaren van premiebetaling of arbeid heeft vervuld;  
-
-b) wanneer in beginsel alle werkende personen beschermd worden, aan een beschermd persoon, die een voorgeschreven wachttijd van premiebetaling heeft vervuld en te wiens name, in de loop van de actieve periode van zijn leven, de helft van het voorgeschreven gemiddelde aantal premiën per jaar is betaald, bedoeld in alinea *b)* van het eerste lid van dit artikel.     
-3.  Aan het bepaalde in het eerste lid van dit artikel wordt geacht te zijn voldaan, wanneer een uitkering, berekend overeenkomstig Deel XI, doch naar een percentage, hetwelk 10 eenheden minder bedraagt dan dat, hetwelk in de bij dat Deel gevoegde tabel is aangegeven voor de model-gerechtigde, ten minste gewaarborgd wordt aan ieder beschermd persoon, die overeenkomstig voorgeschreven regelen hetzij 10 jaren van premiebetaling of van arbeid, hetzij 5 jaren van verblijf heeft vervuld.   
-4.  Een evenredige vermindering van het percentage, aangegeven in de bij Deel XI gevoegde tabel, kan worden toegepast, wanneer de wachttijd voor de met het verminderde percentage overeenkomende uitkering meer bedraagt dan 10 jaren van premiebetaling of van arbeid, doch minder dan 30 jaren van premiebetaling of van arbeid. Wanneer bedoelde wachttijd meer bedraagt dan 15 jaren moet een verminderde uitkering worden toegekend overeenkomstig het tweede lid van dit artikel.   
-5.  Wanneer de toekenning van de uitkering, bedoeld in de leden 1, 3 of 4 van dit artikel, afhankelijk is gesteld van de vervulling van een minimum-tijdvak van premiebetaling of van arbeid, moet overeenkomstig voorgeschreven regelen een verminderde uitkering worden gewaarborgd aan een beschermd persoon, die enkel tengevolge van het feit, dat hij op het tijdstip, waarop de regeling, welke het mogelijk maakte dit Deel van het Verdrag toe te passen, van kracht is geworden, een gevorderde leeftijd had bereikt, de voorgeschreven voorwaarden van het tweede lid van dit artikel niet heeft kunnen vervullen; het bepaalde in de vorige zinsnede vindt geen toepassing, indien een uitkering overeenkomstig de bepalingen van de leden 1, 3 of 4 van dit artikel wordt toegekend aan een zodanig persoon op een hogere dan de normale leeftijd.   
-
-### Artikel  30  
-
-De in de artikelen 28 en 29 vermelde uitkeringen moeten worden toegekend tijdens de gehele duur van het door verzekering gedekte geval.  
+Vervallen per 27-10-1970   
 
 ### DEEL  VI  
 
 ####Verstrekkingen hij arbeidsongevallen en beroepsziekten
 
-### Artikel  31  
-
-Elk Lid, te wiens aanzien dit Deel van het Verdrag van kracht is, moet overeenkomstig de navolgende bepalingen van dit Deel aan de beschermde personen verstrekkingen in geval van arbeidsongevallen en beroepsziekten waarborgen.  
-
-### Artikel  32  
-
-Onder de door verzekering gedekte gevallen moeten de volgende gevallen worden begrepen, wanneer deze het gevolg zijn van een arbeidsongeval of van een beroepsziekte: 
-
-a) ziektetoestand;  
-
-b) ongeschiktheid tot werken, welke voortspruit uit een ziektetoestand en welke derving van inkomsten uit arbeid met zich brengt, zoals nader geregeld bij de nationale wetgeving;  
-
-c) algeheel verlies van de geschiktheid om inkomsten uit arbeid te verwerven of gedeeltelijk verlies van zodanige geschiktheid, uitgaande boven een voorgeschreven minimum, wanneer het waarschijnlijk is, dat dit geheel of gedeeltelijk verlies blijvend zal zijn, alsmede overeenkomstige vermindering van de lichaamsgesteldheid;  
-
-d) verlies van middelen van bestaan door de weduwe of door de kinderen tengevolge van het overlijden van de kostwinner; wat betreft de weduwe kan in overeenstemming met de nationale wetgeving het recht op uitkering afhankelijk worden gesteld van het vermoeden, dat zij niet in staat is om in haar eigen behoeften te voorzien.    
-
-### Artikel  33  
-
-Tot de beschermde personen moeten worden gerekend: 
-
-a) voorgeschreven groepen van loontrekkenden, welke in totaal ten minste 50 procent uitmaken van de gezamenlijke loontrekkenden, alsmede echtgenoten en kinderen van de tot deze groepen behorende loontrekkenden wat betreft de uitkeringen, waarop het overlijden van de kostwinner rechten doet ontstaan; of  
-
-b) wanneer een verklaring op grond van artikel 3 is afgelegd, voorgeschreven groepen van loontrekkenden, welke in totaal ten minste 50 procent uitmaken van de gezamenlijke loontrekkenden in industriële ondernemingen, waarin ten minste 20 personen werkzaam zijn, alsmede echtgenoten en kinderen van de tot deze groepen behorende loontrekkenden wat betreft de uitkeringen, waarop het overlijden van de kostwinner rechten doet ontstaan.    
-
-### Artikel  34  
-
-1.  In geval van ziektetoestand moeten de verstrekkingen de in de leden 2 en 3 van dit artikel aangegeven geneeskundige zorg omvatten.   
-2.  De geneeskundige zorg moet omvatten: 
-
-a) hulp van algemene artsen en specialisten aan personen, die al dan niet in een ziekenhuis zijn opgenomen, met inbegrip van bezoeken aan huis;  
-
-b) tandheelkundige zorg;  
-
-c) verpleging, hetzij aan huis, hetzij in een ziekenhuis of in een andere geneeskundige inrichting;  
-
-d) kosten van opname in een ziekenhuis, herstellingsoord, sanatorium of andere geneeskundige inrichting;  
-
-e) tandheelkundige, pharmaceutische en andere medische of chirurgische verstrekkingen, met inbegrip van prothesen en het onderhoud daarvan, alsmede brillen;  
-
-f) de diensten, verleend door een beoefenaar van een ander beroep, hetwelk wettelijk erkend is als verwant aan het beroep van medicus, onder toezicht van een medicus of van een tandarts.     
-3.  Wanneer een verklaring is afgelegd op grond van artikel 3, moet de geneeskundige hulp ten minste het volgende omvatten: 
-
-a) de hulp van algemene artsen, met inbegrip van bezoeken aan huis;  
-
-b) de hulp van specialisten, verleend in ziekenhuizen, aan personen, die al dan niet in een ziekenhuis zijn opgenomen, alsmede de hulp van specialisten, welke buiten een ziekenhuis kan worden verleend;  
-
-c) de verstrekking van noodzakelijke geneesmiddelen op voorschrift van een geneeskundige of van een andere daartoe bevoegde persoon;  
-
-d) de opneming in een ziekenhuis, wanneer deze noodzakelijk is.     
-4.  De geneeskundige zorg, verleend overeenkomstig de voorgaande leden, moet strekken tot instandhouding, herstel of verbetering van de gezondheid van de beschermde persoon, alsmede van diens geschiktheid om te werken en om te voorzien in zijn persoonlijke behoeften.   
-
-### Artikel  35  
-
-1.  De regeringsdepartementen of de instellingen, belast met de verstrekking van de geneeskundige zorg, moeten samenwerken met de algemene diensten voor beroepsrevalidatie, wanneer zulks dienstig is, teneinde minder valide personen weder geschikt te maken voor hun passende arbeid.   
-2.  De nationale wetgeving kan de bedoelde departementen of instellingen machtigen tot het nemen van maatregelen met het oog op de beroepsrevalidatie van minder valide personen.   
-
-### Artikel  36  
-
-1.  In geval van ongeschiktheid om te werken, van algeheel verlies van de geschiktheid om inkomsten uit arbeid te verwerven indien dit verlies waarschijnlijk blijvend zal zijn of van een overeenkomstige vermindering van de lichaamsgesteldheid, of van het overlijden van de kostwinner zal de uitkering bestaan in een periodieke betaling, berekend overeenkomstig de bepalingen hetzij van artikel 65, hetzij van artikel 66.   
-2.  Wanneer bij gedeeltelijk verlies van de geschiktheid om inkomsten uit arbeid te verwerven dit verlies waarschijnlijk blijvend zal zijn, alsmede in geval van een overeenkomstige vermindering van de lichaamsgesteldheid, zal de verschuldigde uitkering bestaan in een periodieke betaling, vastgesteld in een passende verhouding tot die, welke verstrekt wordt bij algeheel verlies van de geschiktheid om inkomsten uit arbeid te verwerven of bij een overeenkomstige vermindering van de lichaamsgesteldheid.   
-3.  De periodieke betaling kan worden vervangen door betaling van een som ineens: 
-
-a) wanneer de mate van ongeschiktheid gering is; of  
-
-b) wanneer een oordeelkundig gebruik van die som ineens gewaarborgd wordt ten genoege van de bevoegde autoriteiten.     
-
-### Artikel  37  
-
-De in de artikelen 34 en 36 vermelde verstrekkingen en uitkeringen moeten tijdens het door verzekering gedekte geval ten minste worden gewaarborgd aan de beschermde personen, die ten tijde van het ongeval of ten tijde van het ontstaan van de beroepsziekte als loontrekkende werkzaam waren op het grondgebied van het Lid, en indien het periodieke betalingen terzake van het overlijden van de kostwinner betreft, aan diens weduwe en diens kinderen.  
-
-### Artikel  38  
-
-De in de artikelen 34 en 36 vermelde verstrekkingen en uitkeringen moeten worden verleend tijdens de gehele duur van het door verzekering gedekte geval; nochtans behoeft in geval van ongeschiktheid tot werken de uitkering niet te worden verstrekt over de eerste drie dagen van elk geval van derving van inkomsten uit arbeid.  
+Vervallen per 02-08-1967   
 
 ### DEEL  VII  
 
@@ -1333,105 +929,13 @@ De in de artikelen 49 en 50 bedoelde verstrekkingen moeten worden verleend tijde
 
 ####Uitkeringen bij invaliditeit
 
-### Artikel  53  
-
-Elk Lid, te wiens aanzien dit Deel van het Verdrag van kracht is, moet overeenkomstig de navolgende bepalingen van dit Deel aan de beschermde personen invaliditeitsuitkeringen waarborgen.  
-
-### Artikel  54  
-
-Het door verzekering gedekte geval omvat de ongeschiktheid om beroepsmatige arbeid in bepaalde mate te verrichten, wanneer die ongeschiktheid waarschijnlijk blijvend zal zijn, dan wel wanneer zij voortbestaat na de beëindiging van de uitkering van ziekengeld.  
-
-### Artikel  55  
-
-Tot de beschermde personen moeten worden gerekend: 
-
-a) voorgeschreven groepen van loontrekkenden, welke in totaal ten minste 50 procent uitmaken van de gezamenlijke loontrekkenden; of  
-
-b) voorgeschreven groepen van de werkende bevolking, welke in totaal ten minste 20 procent uitmaken van de gezamenlijke inwoners; of  
-
-c) alle inwoners, wier inkomsten tijdens het door verzekering gedekte geval grenzen, voorgeschreven overeenkomstig de bepalingen van artikel 67, niet overschrijden; of  
-
-d) wanneer een verklaring is afgelegd op grond van artikel 3, voorgeschreven groepen van loontrekkenden, welke in totaal ten minste 50 procent uitmaken van de gezamenlijke loontrekkenden in industriële ondernemingen, waarin ten minste 20 personen werkzaam zijn.    
-
-### Artikel  56  
-
-De uitkering zal bestaan in een periodieke betaling, berekend als volgt: 
-
-a) overeenkomstig de bepalingen hetzij van artikel 65, hetzij van artikel 66, wanneer groepen van loontrekkenden of groepen van de werkende bevolking worden beschermd;  
-
-b) overeenkomstig de bepalingen van artikel 67, wanneer de beschermde personen alle inwoners omvatten, wier inkomsten tijdens de door verzekering gedekte gevallen voorgeschreven grenzen niet overschrijden.    
-
-### Artikel  57  
-
-1.  De in artikel 56 bedoelde uitkering moet tijdens het door verzekering gedekte geval ten minste worden gewaarborgd: 
-
-a) aan een beschermd persoon, die vóór het intreden van het door verzekering gedekte geval overeenkomstig voorgeschreven regelen een wachttijd heeft vervuld, welke kan bestaan hetzij in 15 jaren van premiebetaling of van arbeid, hetzij in 10 jaren van verblijf;  
-
-b) wanneer in beginsel alle werkende personen onder de regeling vallen, aan een beschermd persoon, die een wachttijd van drie jaren van premiebetaling heeft vervuld en te wiens name, in de loop van de actieve periode van zijn leven, premiën zijn betaald, waarvan het gemiddelde aantal per jaar een voorgeschreven aantal bereikt.     
-2.  Wanneer de toekenning van de in het eerste lid bedoelde uitkering afhankelijk is gesteld van de vervulling van een minimumtijdvak van premiebetaling of van arbeid, moet ten minste een verminderde uitkering worden gewaarborgd: 
-
-a) aan een beschermd persoon, die vóór het intreden van het door verzekering gedekte geval overeenkomstig voorgeschreven regelen een wachttijd van vijf jaren van premiebetaling of van arbeid heeft vervuld;  
-
-b) wanneer in beginsel alle werkende personen onder de regeling vallen, aan een beschermd persoon, die een wachttijd heeft vervuld van drie jaren van premiebetaling en te wiens name, in de loop van de actieve periode van zijn leven, de helft van het voorgeschreven gemiddelde aantal premiën per jaar, bedoeld in alinea *b)* van het eerste lid van dit artikel, is betaald.     
-3.  Aan het bepaalde in het eerste lid van dit artikel wordt geacht te zijn voldaan, wanneer een uitkering, berekend overeenkomstig Deel XI, doch naar een percentage, hetwelk 10 eenheden minder bedraagt dan dat, hetwelk in de bij dat Deel gevoegde tabel is aangegeven voor de model-gerechtigde, ten minste gewaarborgd wordt aan ieder beschermd persoon, die overeenkomstig voorgeschreven regelen vijf jaren van premiebetaling, van arbeid of van verblijf heeft vervuld.   
-4.  Een evenredige vermindering van het percentage, aangegeven in de bij Deel XI gevoegde tabel, kan worden toegepast, wanneer de wachttijd voor de met het verminderde percentage overeenkomende uitkering meer bedraagt dan vijf jaren van premiebetaling of van arbeid, doch minder dan 15 jaren van premiebetaling of van arbeid. De verminderde uitkering zal worden toegekend overeenkomstig het tweede lid van dit artikel.   
-
-### Artikel  58  
-
-De in de artikelen 56 en 57 bedoelde uitkeringen moeten worden verleend tijdens de gehele duur van het door verzekering gedekte geval, dan wel tot het tijdstip, waarop zij worden vervangen door een ouderdomsuitkering.  
+Vervallen per 27-10-1970   
 
 ### DEEL  X  
 
 ####Uitkeringen aan nagelaten betrekkingen
 
-### Artikel  59  
-
-Elk Lid, te wiens aanzien dit Deel van het Verdrag van kracht is, moet overeenkomstig de navolgende bepalingen van dit Deel aan de beschermde personen de uitbetaling van uitkeringen aan nagelaten betrekkingen waarborgen.  
-
-### Artikel  60  
-
-1.  Het door verzekering gedekte geval moet omvatten het verlies van bestaansmiddelen door de weduwe of door de kinderen tengevolge van het overlijden van hun kostwinner; wat betreft de weduwe kan in overeenstemming met de nationale wetgeving het recht op uitkering afhankelijk worden gesteld van het vermoeden, dat zij niet in staat is in haar eigen behoeften te voorzien.   
-2.  De nationale wetgeving kan bepalen, dat de uitkering wordt geschorst indien degene, die daarop recht zou hebben gehad, zekere voorgeschreven betaalde werkzaamheden verricht; de uitkeringen, waarvoor premie is betaald, kunnen worden verminderd, wanneer de inkomsten uit arbeid een voorgeschreven bedrag overschrijden; de uitkeringen, die niet op premiebetaling zijn gebaseerd, kunnen eveneens worden verminderd, wanneer de inkomsten uit arbeid van de gerechtigde of zijn overige inkomsten, dan wel beide tezamen een voorgeschreven bedrag overschrijden.   
-
-### Artikel  61  
-
-Tot de beschermde personen moeten worden gerekend: 
-
-a) de echtgenoten en de kinderen van kostwinners, behorende tot voorgeschreven groepen van loontrekkenden, welke groepen in totaal ten minste 50 procent uitmaken van de gezamenlijke loontrekkenden; of  
-
-b) de echtgenoten en de kinderen van kostwinners, behorende tot voorgeschreven groepen van de werkende bevolking, welke groepen ten minste 20 procent uitmaken van de gezamenlijke inwoners; of  
-
-c) wanneer zij de hoedanigheid van inwoner bezitten, alle weduwen en alle kinderen, die hun kostwinner hebben verloren en wier inkomsten tijdens het door verzekering gedekte geval grenzen, voorgeschreven overeenkomstig de bepalingen van artikel 67, niet overschrijden; of  
-
-d) wanneer een verklaring is afgelegd op grond van artikel 3, de echtgenoten en de kinderen van kostwinners, behorende tot voorgeschreven groepen van loontrekkenden, welke in totaal ten minste 50 procent uitmaken van de gezamenlijke loontrekkenden in industriële ondernemingen, waarin ten minste 20 personen werkzaam zijn.    
-
-### Artikel  62  
-
-De uitkering zal bestaan in een periodieke betaling, berekend als volgt: 
-
-a) overeenkomstig de bepalingen hetzij van artikel 65, hetzij van artikel 66, wanneer groepen van loontrekkenden of groepen van de werkende bevolking beschermd worden;  
-
-b) overeenkomstig de bepalingen van artikel 67, wanneer alle inwoners beschermd worden, wier inkomsten tijdens het door verzekering gedekte geval voorgeschreven grenzen niet overschrijden.    
-
-### Artikel  63  
-
-1.  De in artikel 62 bedoelde uitkering moet tijdens het door verzekering gedekte geval ten minste worden gewaarborgd: 
-
-a) aan een beschermd persoon, wiens kostwinner overeenkomstig voorgeschreven regelen een wachttijd heeft vervuld, welke kan bestaan in 15 jaren van premiebetaling of van arbeid, hetzij in 10 jaren van verblijf:  
-
-b) wanneer in beginsel de vrouwen en de kinderen van alle werkende personen onder de regeling vallen, aan een beschermd persoon, wiens kostwinner een wachttijd heeft vervuld van 3 jaren van premiebetaling en te wiens name, in de loop van de actieve periode van zijn leven, premiën zijn betaald, waarvan het gemiddelde aantal per jaar een voorgeschreven aantal bereikt.     
-2.  Wanneer de toekenning van de in het eerste lid bedoelde uitkering afhankelijk is gesteld van de vervulling van een minimumtijdvak van premiebetaling of van arbeid, moet ten minste een verminderde uitkering worden gewaarborgd: 
-
-a) aan een beschermd persoon, wiens kostwinner overeenkomstig voorgeschreven regeling een wachttijd heeft vervuld van 5 jaren van premiebetaling of van arbeid;  
-
-b) wanneer in beginsel de vrouwen en de kinderen van alle werkende personen onder de regeling vallen, aan een beschermd persoon, wiens kostwinner een wachttijd heeft vervuld van 3 jaren van premiebetaling en te wiens name, in de loop van de actieve periode van zijn leven, de helft van het voorgeschreven gemiddelde aantal per jaar is betaald, bedoeld in alinea *b)* van het eerste lid van dit artikel.     
-3.  Aan het bepaalde in het eerste lid van dit artikel wordt geacht te zijn voldaan, wanneer een uitkering, berekend overeenkomstig Deel XI, doch naar een percentage, hetwelk 10 eenheden minder bedraagt dan dat, hetwelk in de bij dat Deel gevoegde tabel is aangegeven voor de model-gerechtigde, ten minste gewaarborgd wordt aan ieder beschermd persoon, wiens kostwinner overeenkomstig voorgeschreven regelen 5 jaren van premiebetaling, van arbeid of van verblijf heeft vervuld.   
-4.  Een evenredige vermindering van het percentage, aangegeven in de bij Deel XI gevoegde tabel, kan worden toegepast, wanneer de wachttijd voor de met het verminderde percentage overeenkomende uitkering meer bedraagt dan 5 jaren van premiebetaling of van arbeid, doch minder dan 15 jaren van premiebetaling of van arbeid. Een verminderde uitkering zal worden toegekend overeenkomstig het tweede lid van dit artikel.   
-5.  Opdat een weduwe zonder kinderen, die niet in staat wordt geacht te voorzien in haar eigen behoeften, aanspraak kan doen gelden op een uitkering aan nagelaten betrekkingen, kan een minimumduur van het huwelijk voorgeschreven worden.   
-
-### Artikel  64  
-
-De in de artikelen 62 en 63 bedoelde uitkeringen moeten worden toegekend tijdens de gehele duur van het door verzekering gedekte geval.  
+Vervallen per 27-10-1970   
 
 ### DEEL  XI  
 
