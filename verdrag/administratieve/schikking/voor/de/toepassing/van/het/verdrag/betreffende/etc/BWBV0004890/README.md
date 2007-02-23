@@ -93,7 +93,7 @@ f) ingeval volgens de wetgeving van een Verdragsluitende Partij bepaalde tijdvak
 
 a) indien het een rijnvarende betreft, die in loondienst is en voor wie de zesdaagse werkweek gold of indien het een rijnvarende betreft die zelfstandige is, 
 
-i) geldt een dag als acht uren en omgekeerd  
+i) geldt een dag als acht uren en omgekeerd;  
 
 ii) gelden zes dagen als een week en omgekeerd;  
 
@@ -381,7 +381,7 @@ Voor de behandeling van de aanvragen om uitkeringen maakt het behandelende orgaa
 
 1.  Het behandelende orgaan vermeldt op het in artikel 33 van deze Schikking bedoelde formulier de tijdvakken van verzekering die krachtens de door dit orgaan toegepaste wetgeving zijn vervuld, en zendt een exemplaar van dit formulier aan het orgaan van de invaliditeits- of ouderdomsverzekering of de verzekering bij overlijden (pensioenen) van iedere Verdragsluitende Partij waarbij de belanghebbende of de overledene aangesloten is geweest, in voorkomend geval onder bijvoeging van de bewijzen van verrichte arbeid die de aanvrager heeft overgelegd.   
 2.  Indien er slechts een ander orgaan bij betrokken is, vult dit orgaan het hem overeenkomstig het vorige lid toegezonden formulier aan met de vermelding van de tijdvakken van verzekering welke krachtens de door dit orgaan toegepaste wetgeving zijn vervuld. Vervolgens stelt dit orgaan, rekening houdende met artikel 32 van het Verdrag, vast welke rechten op grond van deze wetgeving bestaan en vermeldt op dit formulier het bedrag van de uitkering, berekend overeenkomstig artikel 33, tweede, derde, vierde of vijfde lid van het Verdrag, alsmede eventueel het bedrag van de uitkering waarop de aanvrager aanspraak zou kunnen maken uitsluitend op grond van de krachtens de door dit orgaan toegepaste wetgeving vervulde tijdvakken, zonder dat de artikelen 32 tot en met 36 van het Verdrag worden toegepast. Genoemd formulier wordt aan het behandelende orgaan teruggezonden.   
-3.  Indien er twee of meer andere organen bij betrokken zijn, vult elk van deze organen het hem overeenkomstig het eerste lid van dit artikel toegezonden formulier aan met de vermelding van de tijdvakken van verzekering welke krachtens de door dit orgaan toegepaste wetgeving zijn vervuld en zendt het aan het behandelende orgaan terug. Dit orgaan zendt het aldus aangevulde formulier aan alle betrokken organen; elke van deze organen stelt, rekening houdende met artikel 32 van het Verdrag, vast welke rechten op grond van de door dit orgaan toegepaste wetgeving bestaan en vermeldt op dit formulier het bedrag van de uitkering, berekend overeenkomstig artikel 33, tweede, derde, vierde of vijfde lid van het Verdrag, alsmede eventueel het bedrag van de uitkering waarop de aanvrager aanspraak zou kunnen maken uitsluitend op grond van de krachtens de door dit orgaan dan het behandelende orgaan deze uitkeringen rechtstreeks tikelen 32 tot en met 36 van het Verdrag worden toegepast. Bedoeld formulier wordt aan het behandelende orgaan teruggezonden.   
+3.  Indien er twee of meer andere organen bij betrokken zijn, vult elk van deze organen het hem overeenkomstig het eerste lid van dit artikel toegezonden formulier aan met de vermelding van de tijdvakken van verzekering welke krachtens de door dit orgaan toegepaste wetgeving zijn vervuld en zendt het aan het behandelende orgaan terug. Dit orgaan zendt het aldus aangevulde formulier aan alle betrokken organen; elke van deze organen stelt, rekening houdende met artikel 32 van het Verdrag, vast welke rechten op grond van de door dit orgaan toegepaste wetgeving bestaan en vermeldt op dit formulier het bedrag van de uitkering, berekend overeenkomstig artikel 33, tweede, derde, vierde of vijfde lid van het Verdrag, alsmede eventueel het bedrag van de uitkering waarop de aanvrager aanspraak zou kunnen maken uitsluitend op grond van de krachtens de door dit orgaan toegepaste wetgeving vervulde tijdvakken, zonder dat de artikelen 32 tot en met 36 van het Verdrag worden toegepast. Bedoeld formulier wordt aan het behandelende orgaan teruggezonden.   
 4.  Wanneer het behandelende orgaan vaststelt dat aan de in artikel 24, tweede lid van het Verdrag vermelde voorwaarden niet wordt voldaan stelt zij de overige betrokken organen hiervan in kennis.   
 5.  Wanneer het behandelend orgaan in het bezit is van alle in het tweede of het derde lid van dit artikel bedoelde gegevens, stelt dit orgaan, rekening houdende met artikel 32 van het Verdrag, op zijn beurt vast welke rechten op grond van de door dit orgaan toegepaste wetgeving bestaan en berekent, overeenkomstig artikel 33, tweede, derde, vierde of vijfde lid van het Verdrag, het bedrag van de uitkering dat dit orgaan verschuldigd is, alsmede eventueel het bedrag van de uitkering waarop de aanvrager aanspraak zou kunnen maken uitsluitend op grond van de krachtens de door dit orgaan toegepaste wetgeving vervulde tijdvakken, zonder dat de artikelen 32 tot en met 36 van het Verdrag worden toegepast.   
 6.  Zodra het behandelende orgaan bij ontvangst van de in het tweede of derde lid van dit artikel bedoelde gegevens vaststelt dat artikel 35, tweede of derde lid of artikel 37, eerste lid van het Verdrag moet worden toegepast, stelt het de overige betrokken organen hiervan in kennis.   
@@ -483,7 +483,7 @@ De rechthebbende op uitkeringen welke krachtens de wetgevingen van een of meer V
 2.  Het orgaan van de verblijfplaats richt zich onverwijld tot het bevoegde orgaan, teneinde te vernemen of de belanghebbende aan de voorwaarden voor het ingaan van het recht op verstrekkingen voldoet. Het is verplicht deze verstrekkingen te verlenen totdat antwoord van het bevoegde orgaan is ontvangen en ten hoogste gedurende dertig dagen.   
 3.  Het bevoegde orgaan zendt het orgaan van de verblijfplaats antwoord binnen tien dagen na ontvangst van het verzoek van dit orgaan. Indien dit antwoord bevestigend luidt, zet het orgaan van de verblijfplaats het verlenen van bedoelde verstrekkingen voort.   
 4.  In plaats van de verklaring, bedoeld in het eerste lid van dit artikel, kan de rijnvarende aan het orgaan van de verblijfplaats het in artikel 45, eerste lid van deze Schikking bedoelde bewijs overleggen. In dit geval zijn de voorgaande leden van dit artikel niet van toepassing.   
-5.  Bij opneming in een ziekenhuis bericht het orgaan van de verblijfplaats, zodra het zulks heeft vernomen, aan het bevoegde orgaan de datum van opneming in het ziekenhuis, de vermoedelijke verblijfsduur en de datum van ontslag. Deze mededeling behoeft evenwel niet te worden gedaan wanneer de kosten van de verstrekkingen met een vast bedrag worden vergoed aan het orgaan van de verblijfplaats of wanneer een vergoeding wordt afgezien.   
+5.  Bij opneming in een ziekenhuis bericht het orgaan van de verblijfplaats, zodra het zulks heeft vernomen, aan het bevoegde orgaan de datum van opneming in het ziekenhuis, de vermoedelijke verblijfsduur en de datum van ontslag. Deze mededeling behoeft evenwel niet te worden gedaan wanneer de kosten van de verstrekkingen met een vast bedrag worden vergoed aan het orgaan van de verblijfplaats of wanneer van vergoeding wordt afgezien.   
 6.  Het orgaan van de verblijfplaats stelt het bevoegde orgaan vooraf in kennis van iedere beslissing die betrekking heeft op het verlenen van belangrijke verstrekkingen. Het bevoegde orgaan kan hiertegen onder opgave van redenen binnen vijftien dagen, gerekend vanaf de verzending van deze mededeling, verzet aantekenen. Het orgaan van de verblijfplaats verleent de verstrekkingen als na het verstrijken van deze termijn geen verzet is aangetekend. In onmiskenbare spoedgevallen verleent het orgaan van de verblijfplaats de verstrekkingen onverwijld en stelt het het bevoegde orgaan hiervan onmiddellijk op de hoogte. Dit verzet onder opgave van redenen behoeft evenwel niet te worden aangetekend wanneer de kosten van de verstrekkingen met een vast bedrag worden vergoed aan het orgaan van de verblijfplaats of wanneer van vergoeding wordt afgezien.   
 7.  Het Administratief Centrum stelt de lijst op van de in het vorige lid bedoelde verstrekkingen.   
 
@@ -509,7 +509,7 @@ De rechthebbende op uitkeringen welke krachtens de wetgevingen van een of meer V
 1.  Om krachtens artikel 40, eerste lid, sub a)ii) van het Verdrag in aanmerking te komen voor andere uitkeringen dan renten, wendt de rijnvarende zich binnen drie dagen na het begin van de arbeidsongeschiktheid tot het orgaan van de verblijfplaats en legt, indien de wetgeving die door het bevoegde orgaan of het orgaan van de verblijfplaats wordt toegepast hierin voorziet, een door de behandelende arts afgegeven bewijs van arbeidsongeschiktheid over. Bovendien deelt hij zijn adres in het land waar hij verblijft mede, alsmede de naam en het adres van het bevoegde orgaan.   
 2.  Wanneer de behandelende artsen van het land van de verblijfplaats geen bewijzen van arbeidsongeschiktheid afgeven, wendt de rijnvarende zich rechtstreeks tot het orgaan van de verblijfplaats binnen de termijn welke is gesteld in de door dit orgaan toegepaste wetgeving. Dit orgaan laat onmiddellijk de arbeidsongeschiktheid medisch vaststellen en het in het vorige lid bedoelde bewijs uitschrijven.   
 3.  Het orgaan van de verblijfplaats zendt de in de voorgaande leden van dit artikel bedoelde documenten onverwijld door aan het bevoegde orgaan, onder vermelding van de vermoedelijke duur van de arbeidsongeschiktheid.   
-4.  Zo spoedig mogelijk oefent het orgaan van de verblijfplaats de medische en administratieve controle op de rijnvarende uit en deelt het resultaat daarvan onverwijld mede aan het bevoegde orgaan, dat de bevoegdheid houdt belanghebbende voor eigen rekening te doen onderzoeken door een arts van eigen keuze. Indien laatstbedoeld orgaan besluit de uitkeringen te weigeren, omdat de rijnvarende de controlevoorschriften niet heeft nageleefd, stelt dit orgaan hem in kennis van deze beslissing en zendt het gelijktijdig een afschrift daarvan aan het orgaan van de verblijfplaats.   
+4.  Zo spoedig mogelijk oefent het orgaan van de verblijfplaats de medische en administratieve controle op de rijnvarende uit en deelt het resultaat daarvan onverwijld mede aan het bevoegde orgaan, dat de bevoegdheid houdt de belanghebbende voor eigen rekening te doen onderzoeken door een arts van eigen keuze. Indien laatstbedoeld orgaan besluit de uitkeringen te weigeren, omdat de rijnvarende de controlevoorschriften niet heeft nageleefd, stelt dit orgaan hem in kennis van deze beslissing en zendt het gelijktijdig een afschrift daarvan aan het orgaan van de verblijfplaats.   
 5.  Onverwijld wordt de rijnvarende van het einde van de arbeidsongeschiktheid in kennis gesteld door het orgaan van de verblijfplaats dat daaromtrent het bevoegde orgaan onmiddellijk inlicht. Wanneer laatstbedoeld orgaan zelf beslist dat de rijnvarende weer arbeidsgeschikt is geworden, stelt het hem in kennis van deze beslissing en zendt het gelijktijdig een afschrift daarvan aan het orgaan van de verblijfplaats.   
 6.  Indien, in hetzelfde geval, voor het einde van de arbeidsongeschiktheid twee verschillende data zijn vastgesteld onderscheidenlijk door het orgaan van de verblijfplaats en door het bevoegdeorgaan, wordt de door het bevoegde orgaan vastgestelde datum aangehouden.   
 7.  Wanneer de rijnvarende het werk hervat, geeft hij hiervan bericht aan het bevoegde orgaan, indien de door dit orgaan toegepaste wetgeving hierin voorziet.   
@@ -535,7 +535,7 @@ De rechthebbende op uitkeringen welke krachtens de wetgevingen van een of meer V
 1.  Om in aanmerking te komen voor andere uitkeringen dan renten krachtens artikel 41, eerste lid, sub b) van het Verdrag, wendt de rijnvarende zich binnen drie dagen na het begin van de arbeidsongeschiktheid tot het orgaan van de woonplaats onder overlegging van een kennisgeving van arbeidsonderbreking of, indien de wetgeving die door het bevoegde orgaan of het orgaan van de woonplaats wordt toegepast hierin voorziet, een door de behandelende arts afgegeven bewijs van arbeidsongeschiktheid. Bovendien is hij verplicht alle andere krachtens de wetgeving van de bevoegde Staat vereiste documenten over te leggen, naar gelang van de aard van de aangevraagde uitkeringen.   
 2.  Wanneer de behandelende artsen van het land van de woonplaats geen bewijzen van arbeidsongeschiktheid afgeven, is artikel 47, tweede lid van deze Schikking van overeenkomstige toepassing.   
 3.  Het orgaan van de woonplaats zendt de in de voorgaande leden van dit artikel bedoelde documenten onverwijld door aan het bevoegde orgaan, onder vermelding van de vermoedelijke duur van de arbeidsongeschiktheid.   
-4.  Artikel 47, vierde tot en met negende lid van deze Stichting is van overeenkomstige toepassing.   
+4.  Artikel 47, vierde tot en met negende lid van deze Schikking is van overeenkomstige toepassing.   
 
 ####Toepassing van artikel 42 van het Verdrag
 
@@ -583,7 +583,7 @@ b) stelt bedoeld orgaan de belanghebbende gelijktijdig in kennis van zijn beslis
 
 ####Uitwisseling van inlichtingen tussen organen en beroep tegen een afwijzende beslissing - betaling van voorschotten bij een dergelijk beroep
 
-1.  Indien beroep wordt ingesteld tegen een afwijzende beslissing van het orgaan van een Verdragsluitende Partij onder de wetgeving waarvan de getroffene werkzaamheden heeft verricht waardoor de betreffende beroepsziekte kon ontstaan, is dit orgaan verplicht het orgaan waaraan de aangifte volgens de procedure van artikel 53, derde lid van deze Schikking werd doorgezonden hierop in kennis te stellen en het later op de hoogte te stellen van de definitieve beslissing.   
+1.  Indien beroep wordt ingesteld tegen een afwijzende beslissing van het orgaan van een Verdragsluitende Partij onder de wetgeving waarvan de getroffene werkzaamheden heeft verricht waardoor de betreffende beroepsziekte kon ontstaan, is dit orgaan verplicht het orgaan waaraan de aangifte volgens de procedure van artikel 53, derde lid van deze Schikking werd doorgezonden hiervan in kennis te stellen en het later op de hoogte te stellen van de definitieve beslissing.   
 2.  Indien krachtens de wetgeving, toegepast door het orgaan waaraan de aangifte volgens de procedure van artikel 53, derde lid van deze Schikking werd doorgezonden, met inachtneming van artikel 44, tweede, derde en vierde lid van het Verdrag, recht op uitkeringen is ingegaan, betaalt dit orgaan de belanghebbende voorschotten waarvan de hoogte wordt vastgesteld in overleg met het orgaan tegen de beslissing waarvan beroep werd ingesteld. Indien het ingestelde beroep tot gevolg heeft dat laatstbedoeld orgaan de uitkeringen moet verlenen, stort dit het bedrag der betaalde voorschotten terug aan eerstbedoeld orgaan en houdt een gelijk bedrag in op de aan de belanghebbende verschuldigde uitkeringen.   
 
 ####Toepassing van artikel 45 van het Verdrag
@@ -765,7 +765,7 @@ b) indien de wetgeving van de eerste Verdragsluitende Partij voorziet in toekenn
 
 1.  Indien de rijnvarende in de loop van een kalendermaand of kalenderkwartaal achtereenvolgens onderworpen is geweest aan de wetgeving van twee Verdragsluitende Partijen, wordt de toekenning van gezinsbijslagen waarop hij aanspraak kan maken krachtens de wetgeving van elk van deze Partijen volgens de volgende regels vastgesteld: 
 
-a) indien een van deze Verdragsluitende Partijen wordt vermeld in Bijlage VII, afdeling 2, van het Verdrag of indien zij, hoewel zij vermeld wordt in afdeling 1 van genoemde bijlage, de gezinsbijslagen per dag toekent worden de gezinsbijslagen die ten laste komen van het bevoegde orgaan van de andere Verdragsluitende Partij vastgesteld naar verhouding van de duur gedurende welke de rijnvarende aan de wetgeving van die Verdragsluitende Partij onderworpen is geweest ten opzichte van de door bedoelde wetgeving voorziene duur van de maandelijkse of drie-maandelijkse periode;  
+a) indien een van deze Verdragsluitende Partijen wordt vermeld in Bijlage VII, afdeling 2, van het Verdrag of indien zij, hoewel zij vermeld wordt in afdeling 1 van genoemde bijlage, de gezinsbijslagen per dag toekent worden de gezinsbijslagen die ten laste komen van het bevoegde orgaan van de andere Verdragsluitende Partij vastgesteld naar verhouding van de duur gedurende welke de rijnvarende aan de wetgeving van die Verdragsluitende Partij onderworpen is geweest ten opzichte van de door bedoelde wetgeving voorziene duur van de maandelijkse of driemaandelijkse periode;  
 
 b) in alle andere gevallen blijven de gezinsbijslagen voor de duur van de maand of het kwartaal voor rekening van het bevoegde orgaan ten laste waarvan de gezinsbijslagen aan het begin van de betreffende maand of het betreffende kwartaal kwamen, naar gelang de wetgeving die door genoemd orgaan wordt toegepast voor de toekenning van gezinsbijslagen in een maandelijkse dan wel in een drie-maandelijkse periode voorziet.     
 2.  Indien het orgaan van een Verdragsluitende Partij de gezinsbijslagen heeft verleend voor een periode, terwijl deze bijslagen voor rekening van het orgaan van een andere Verdragsluitende Partij kwamen, zullen de door het eerste orgaan ten onrechte verleende bijslagen worden vergoed.   
@@ -817,7 +817,7 @@ b) indien het werkelijke bedrag der prestaties niet blijkt uit de boekhouding va
 c) de vergoedingen vinden per kalender-halfjaar door tussenkomst van de verbindingsorganen plaats;  
 
 d) de schuldvorderingen, die op de laatste dag van het betreffende halfjaar zijn vastgesteld in de munteenheid van de Verdragsluitende Partij op het grondgebied waarvan het orgaan dat de vordering heeft zich bevindt, moeten voor het einde van het volgende kwartaal betaald worden volgens de op de dag, waarop de gelden worden overgemaakt, geldende wisselkoers.     
-2.  Twee Verdragsluitende Partijen kunnen in onderlinge overeenstemming de toepassing van de regels betreffende vergoedingen op basis van vaste bedragen en van toepassing zijnde tussen hen op de dag voorafgaande aan de inwerkingtreding van het Verdrag, uitbreiden tot de vergoedingen op basis van vaste bedragen bedoeld in artikel 23, derde lid, artikel 49, derde lid en artikel 70, tweede lid van het Verdrag, onder kennisgeving hiervan aan het Administratief Centrum, hetzelfde geldt voor de regels betreffende het afzien van vergoedingen.   
+2.  Twee Verdragsluitende Partijen kunnen in onderlinge overeenstemming de toepassing van de regels betreffende vergoedingen op basis van vaste bedragen en van toepassing zijnde tussen hen op de dag voorafgaande aan de inwerkingtreding van het Verdrag, uitbreiden tot de vergoedingen op basis van vaste bedragen bedoeld in artikel 23, derde lid, artikel 49, derde lid en artikel 70, tweede lid van het Verdrag, onder kennisgeving hiervan aan het Administratief Centrum. Hetzelfde geldt voor de regels betreffende het afzien van vergoedingen.   
 3.  Verstrekkingen die zijn verleend krachtens artikel 21, vierde lid, tweede volzin en zevende lid van het Verdrag komen slechts ten laste van het orgaan van de woonplaats indien tussen dit orgaan en het bevoegde orgaan een overeenkomst inzake vergoeding op basis van vaste bedragen dan wel inzake het afzien van vergoedingen bestaat. Indien een zodanige overeenkomst niet bestaat, dan komen deze verstrekkingen ten laste van het bevoegde orgaan.   
 4.  Voor de toepassing van artikel 70, eerste lid van het Verdrag worden de gezinsbijslagen, voorzien in de wetgeving van een Verdragsluitende Partij, beschouwd als overeenkomend met de bijslagen die worden voorzien in de wetgeving van een andere Verdragsluitende Partij, wanneer de gezinsbijslagen die worden voorzien door elk der beide wetgevingen hetzij kinderbijslagen zijn, hetzij zwangerschapsuitkeringen, hetzij uitkeringen bij geboorte, hetzij uitkeringen voor gebrekkige of gehandicapte kinderen, hetzij wezenuitkeringen, hetzij andere uitkeringen van dezelfde aard die zouden worden voorzien door de wetgevingen van tenminste twee Verdragsluitende Partijen.   
 
@@ -833,7 +833,7 @@ d) de schuldvorderingen, die op de laatste dag van het betreffende halfjaar zijn
 
 ####Regels voor omrekening, toe te passen door de organen van de Lid-Staten van de Europese Gemeenschappen en door de Zwitserse organen
 
-De inkomsten, beloningen en uitkeringen welke voor de toepassing vna de artikelen 37, 73 en 74 van het Verdrag, en van artikel 40, tweede lid van deze Schikking alsmede voor de betaling van uitkeringen voorzien in artikel 13, achtste lid en in artikel 47, achtste lid van genoemde Schikking in aanmerking dienen te worden genomen en in de munteenheid van een andere Verdragsluitenden Partij luiden, worden als volgt omgerekend: 
+De inkomsten, beloningen en uitkeringen welke voor de toepassing van de artikelen 37, 73 en 74 van het Verdrag, en van artikel 40, tweede lid van deze Schikking alsmede voor de betaling van uitkeringen voorzien in artikel 13, achtste lid en in artikel 47, achtste lid van genoemde Schikking in aanmerking dienen te worden genomen en in de munteenheid van een andere Verdragsluitende Partij luiden, worden als volgt omgerekend: 
 
 a) door de organen van de Lid-Staten van de Europese Gemeenppen 
 
@@ -930,7 +930,7 @@ Van de overeenkomsten welke worden gesloten krachtens artikel 84, derde lid en a
 ####Inwerkingtreding van de Schikking
 
 1.  Deze Schikking treedt in werking op dezelfde datum als het Verdrag nadat alle Verdragsluitende Partijen het Administratief Centrum ervan in kennis hebben gesteld dat de binnenlandse voorwaarden voor de inwerkingtreding zijn vervuld.   
-2.  Met ingang van de inwerkingtreding van deze Schikking, houden de bepalingen van het Administratief Akkoord van ter uitvoering van het Verdrag van 13 februari 1961 betreffende de sociale zekerheid van Rijnvarenden (herzien) op van kracht te zijn.   
+2.  Met ingang van de inwerkingtreding van deze Schikking, houdende bepalingen van het Administratief Akkoord van ter uitvoering van het Verdrag van 13 februari 1961 betreffende de sociale zekerheid van Rijnvarenden (herzien) op van kracht te zijn.   
 
 ### Artikel  92  
 
@@ -971,7 +971,7 @@ E.  *Nederland:*
 
 1. Minister van Sociale Zaken en Werkgelegenheid, Den Haag  
 
-2. Minister van Welzijn, Volksgezondheid en Cultuur, Rijswijk    
+2. Minister van Volksgezondheid, Welzijn en Sport, Den Haag    
 
 F.  *Zwitserland:*   
 
@@ -1079,8 +1079,9 @@ E.  *Nederland*
 |
 |
 | 1. *Ziekte, moederschap:*  | --- |
-| a) verstrekkingen:  | Ziekenfonds waarbij de betrokkene aangesloten is  |
+| a) verstrekkingen:  |   –  Voor de categorie personen genoemd in onderdeel 1, onder a, i), van bijlage VIII bij het Verdrag: de zorgverzekeraar waarmee betrokkene een zorgverzekering in de zin van de Zorgverzekeringswet heeft gesloten.     –  Voor de categorie personen genoemd in onderdeel 1, onder a, ii), van bijlage VIII bij het Verdrag:    1.  Voor de registratie en de heffing van de wettelijke bijdrage: het College voor zorgverzekeringen in Diemen;     2.  Voor het inroepen van zorg: de zorgverzekeraar aangewezen door de bevoegde autoriteit.          |
 | b) uitkeringen:  | Bedrijfsvereniging waarbij de werkgever van de verzekerde aangesloten is  |
+| c) zorgtoeslagen:  | Belastingdienst Toeslagen in Utrecht.  |
 | 2. *Invaliditeit:*  | --- |
 | a) wanneer de belanghebbende ook zonder toepassing van het Verdrag uitsluitend krachtens de Nederlandse wetgeving aanspraak op uitkeringen heeft:  | --- |
 | i) voor werknemers:  | Bedrijfsvereniging waarbij de werkgever van de verzekerde aangesloten is  |
@@ -1176,8 +1177,8 @@ E.  *Nederland*
 |
 | 1. *Ziekte, moederschap, arbeidsongevallen, beroepsziekten:*  | --- |
 | a) verstrekkingen:  | --- |
-| i) organen van de woonplaats:  | naar keuze van de belanghebbende één van de voor zijn woonplaats bevoegde ziekenfondsen  |
-| ii) organen van de verblijfplaats:  | Algemeen Nederlands Onderling Ziekenfonds (ANOZ), Utrecht  |
+| i) orgaan van de woonplaats:  | de zorgverzekeraar aangewezen door de bevoegde autoriteit  |
+| ii) orgaan van de verblijfplaats:  | de zorgverzekeraar aangewezen door de bevoegde autoriteit  |
 | b) uitkeringen:  | Nieuwe Algemene Bedrijfsvereniging, Amsterdam  |
 | 2. *Invaliditeit:*  | --- |
 | a) wanneer de belanghebbende ook zonder toepassing van het Verdrag uitsluitend krachtens de Nederlandse wetgeving aanspraak op uitkeringen heeft:  | de bevoegde Bedrijfsvereniging  |
@@ -1250,8 +1251,9 @@ E.  *Nederland*
 |
 |
 | 1. *Ziekte, moederschap, arbeidsongevallen, beroepsziekten en werkloosheid:*  | --- |
-| a) verstrekkingen:  | Ziekenfondsraad, Amstelveen  |
-| b) uitkeringen:  | Nieuwe Algemene Bedrijfsvereniging, Amsterdam  |
+| a) verstrekkingen:  | College voor zorgverzekeringen, Diemen  |
+| b) Zorgtoeslag:  | Belastingdienst toeslagen, Utrecht.  |
+| c) uitkeringen:  | Nieuwe Algemene Bedrijfsvereniging, Amsterdam  |
 | 2. *Ouderdom, overlijden (pensioenen), gezinsbijslagen:*  | --- |
 | a) in het algemeen:  | Sociale Verzekeringsbank, Amsterdam  |
 | b) in de betrekkingen met België:  | Bureau voor Belgische Zaken de sociale verzekering betreffende, Breda  |
@@ -1373,7 +1375,7 @@ E.  *Nederland*
 |
 | 1. Voor de toepassing van de artikelen 18, eerste lid, 25, 56, 67 en 83 van de Schikking:  | Nieuwe Algemene Bedrijfsvereniging, Amsterdam  |
 | 2. Voor de toepassing van artikel 68, tweede lid van de Schikking:  | Sociale Verzekeringsbank, Amsterdam  |
-| 3. Voor de toepassing van artikel 79, tweede lid van de Schikking:  | Ziekenfondsraad, Amstelveen  |
+| 3. Voor de toepassing van artikel 79, tweede lid van de Schikking:  | College voor zorgverzekeringen, Diemen  |
 
 F.  *Zwitserland*   
 
