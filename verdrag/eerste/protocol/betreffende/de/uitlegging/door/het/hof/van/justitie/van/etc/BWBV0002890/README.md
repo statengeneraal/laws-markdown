@@ -26,6 +26,8 @@ a)
 
 - in de Tsjechische Republiek: Nejvyšší soud České republiky Nejvyšší správní soud,  
 
+- in Bulgarije: *Върховен касационен съд* et *Върховен административен съд,*,  
+
 - in Denemarken: Hojesteret,  
 
 - in de Bondsrepubliek Duitsland: die obersten Gerichtshöfe des Bundes,  
@@ -36,7 +38,7 @@ a)
 
 - in Spanje: el Tribunal Supremo,  
 
-- in Frankrijk: la Cour de Cassation en Ie Conseil d'Etat,  
+- in Frankrijk: la Cour de Cassation en le Conseil d'Etat,  
 
 - in Ierland: the Supreme Court,  
 
@@ -56,15 +58,23 @@ a)
 
 - in Nederland: de Hoge Raad,  
 
-- in Portugal: o Supremo Tribunal de Justica en o Supremo Tribunal Administrativo,  
+- in Oostenrijk, het *Oberste Gerichtshof, het Verwaltungsgerichtshof en het Verfassungsgerichtshof*,  
 
 - in Polen: Sąd Najwyższy Naczelny Sąd Administracyjny,  
 
-- in het Verenigd Koninkrijk: The House of Lords en de andere rechterlijke instanties tegen welker beslissingen geen rechtsmiddel openstaat:  
+- in Portugal: o Supremo Tribunal de Justica en o Supremo Tribunal Administrativo,  
+
+- in Roemenië: *Înalta Curte de Casaţie şi Justiţie*,  
 
 - in Slovenië: Ustavno sodišče Republike Slovenije Vrhovno sodišče Republike Slovenije,  
 
-- in Slowakije: Najvyšší súd Slovenskej republiky.    
+- in Slowakije: Najvyšší súd Slovenskej republiky,  
+
+- in Finland het *korkein oikeus/högsta domstolen, het korkein hallinto-oikeus/högsta förvaltningsdomstolen, het markkinatuomioistuin/ marknadsdomstolen, en het työtuomioistuin/arbetsdomstolen*,  
+
+- in Zweden *Högsta domstolen, Regeringsrätten, Arbetsdomstolen en Marknadsdomstolen*,  
+
+- in het Verenigd Koninkrijk: The House of Lords en de andere rechterlijke instanties tegen welker beslissingen geen rechtsmiddel openstaat.    
 
 b) de rechterlijke instanties van de Verdragsluitende Staten wanneer zij in beroep uitspraak doen.    
 
