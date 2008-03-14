@@ -1,0 +1,18 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Circulaire inzake vermelding gegevens nationaliteit in afschriften gemeentelijke basisadministratie persoonsgegevens (GBA)
+
+### 1  
+
+####Aanleiding
+
+Deze circulaire vraagt uw medewerking om te bewerkstelligen dat in afschriften uit de GBA die door een burger worden aangevraagd, vermelding van de in de GBA opgenomen gegevens omtrent de verschillende nationaliteit(en) van de betrokkene, in beginsel achterwege blijft. De aanleiding voor deze circulaire is de maatschappelijke en politieke discussie over het behoud van een vreemde nationaliteit naast de Nederlandse nationaliteit en de vermelding van de meervoudige nationaliteit van personen in overheidsregistraties. Gebleken is dat sommige burgers die een meervoudige nationaliteit bezitten, zich storen aan het feit dat ook registratie plaatsvindt van hun niet-Nederlandse nationaliteit(en). De burger wordt in de praktijk vooral met het gegeven van de vreemde nationaliteit geconfronteerd bij het opvragen van afschriften uit de GBA die hij voor zichzelf, dan wel ter overlegging bij een andere overheidsinstantie, nodig heeft. Weliswaar worden de afschriften uit de GBA opgesteld naar gelang het doel waarvoor zij gevraagd worden, maar het blijkt regelmatig voor te komen dat, bijvoorbeeld als gevolg van het gebruik van een standaardmodel, in het afschrift gegevens omtrent zowel de Nederlandse als de vreemde nationaliteit worden vermeld terwijl dat niet altijd strikt nodig is. Omdat het kabinet de wens van de burger wil respecteren om hem niet met onwelgevallige gegevens te confronteren en ook wil helpen te voorkomen dat deze gegevens op enigerlei wijze een rol gaan spelen in het rechtsverkeer waar dit niet gewenst is, heeft de minister van Justitie bij brief van 12 oktober 2007 aan de Tweede Kamer aangekondigd dat op dit punt bij circulaire een richtlijn aan de gemeenten zal worden gegeven.    
+### 2  
+
+####De vermelding van gegevens omtrent de nationaliteit in uittreksels uit de GBA
+
+De hoofdregel is dat de in de GBA opgenomen gegevens omtrent de nationaliteit(en) van een persoon, in beginsel niet worden vermeld in het schriftelijke afschrift dat op diens verzoek uit de GBA wordt verstrekt. Dit geldt zowel voor de in de GBA geregistreerde Nederlandse nationaliteit als voor de vreemde nationaliteit(en) van betrokkene. Vermelding van gegevens omtrent de nationaliteit in het uittreksel dient slechts plaats te vinden, indien wettelijke verplichtingen met betrekking tot het doel waarvoor het uittreksel wordt aangevraagd deze vermelding noodzakelijk maken, dan wel de ingeschrevene daar zelf om verzoekt. Daarbij wordt tevens nagegaan of met vermelding van het Nederlanderschap kan worden volstaan (hetgeen meestal het geval zal zijn). Indien betrokkene naast de Nederlandse nationaliteit ook over een andere nationaliteit beschikt, kan derhalve in beginsel worden volstaan met de volgende formulering: Nationaliteit: Uit de GBA blijkt dat betrokkene de Nederlandse nationaliteit bezit Teneinde de instantie aan wie het afschrift eventueel wordt overgelegd opmerkzaam te maken op het feit, dat in het afschrift niet alle gegevens zullen zijn vermeld die over de betrokken persoon in de GBA zijn opgenomen wordt u verzocht standaard in ieder afschrift de volgende passage op te nemen: Over betrokkene zijn nog andere gegevens over de burgerlijke staat of de nationaliteit in de GBA opgenomen dan in dit afschrift zijn vermeld. Indien u nog vragen heeft over de inhoud van deze circulaire kunt u contact opnemen met de Servicedesk van het Agentschap BPR: telefoonnummer 088-9001000.     
+
+De 
+Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, 
+A.Th.B.Bijleveld-Schouten   
