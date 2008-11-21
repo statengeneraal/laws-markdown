@@ -4,15 +4,15 @@
 
 ####Agreement Establishing the International Institute for Democracy and Electoral Assistance
 
-The Parties signatory hereto, Noting that the concepts of democracy, pluralism and free and fair elections are taking root worldwide; Noting that democracy is essential for promoting and guaranteeing human rights and that participation in political life, including government, is part of human rights, proclaimed and guaranteed by international treaties and declarations; Noting also that the ideas of sustainable democracy, good governance, accountability and transparency have become central to policies for national and international development; Recognizing that strengthening democratic institutions, nationally, regionally and globally is conducive to preventive diplomacy, thereby promoting the establishment of a better world order; Understanding that democratic and electoral processes require continuity and a long-term perspective; Wishing to advance and implement universally held norms, values and practices; Aware that pluralism presupposes actors and national and international organizations with disinctly different tasks and mandates that cannot be subsumed by others; Realizing that a meeting place for all those involved would sustain and advance professionalism and systematic capacity building; Considering that a complementary international institute in this field is required. Have agreed as follows:    
+The Parties signatory hereto, Noting that the concepts of democracy, pluralism and free and fair elections are taking root worldwide; Noting that democracy is essential for promoting and guaranteeing human rights and that participation in political life, including government, is part of human rights, proclaimed and guaranteed by international treaties and declarations; Noting also that the ideas of sustainable democracy, good governance, accountability and transparency have become central to policies for national and international development; Recognizing that strengthening democratic institutions, nationally, regionally and globally is conducive to preventive diplomacy, thereby promoting the establishment of a better world order; Understanding that democratic and electoral processes require continuity and a long term perspective; Wishing to advance and implement universally held norms, values and practices; Aware that pluralism presupposes actors and national and international organizations with distinctly different tasks and mandates that cannot be subsumed by others; Realizing that a meeting place for all those involved would sustain and advance professionalism and systematic capacity building; Considering that a complementary international institute in this field is required.   Have agreed as follows:    
 
 ### Article  I  
 
 ####Establishment, location and status
 
-1.  The Parties to this Agreement hereby establish the International Institute for Democracy and Electoral Assistance, as an international organisation, hereinafter referred to as the Institute or International IDEA.   
-2.  The headquarters of the Institute shall be in Stockholm, unless the Council decides to relocate the Institute elsewhere. The Institute may establish offices in other locations as required to support its programs.   
-3.  International IDEA shall possess full juridical personality and enjoy such capacities as may be necessary to exercise its functions and fulfil its objectives, inter alia, the capacity to: 
+1.  The Parties to this Agreement hereby establish the International Institute for Democracy and Electoral Assistance, as an inter-governmental organization, hereinafter referred to as the Institute.   
+2.  The headquarters of the Institute shall be in Stockholm, unless the Council decides to relocate the Institute elsewhere. The Institute may establish offices in other locations as required to support its programme.   
+3.  The Institute shall possess full juridical personality and enjoy such capacities as may be necessary to exercise its functions and fulfill its objectives, inter alia, the capacity to: 
 
 a) acquire and dispose of real and personal property;  
 
@@ -32,209 +32,196 @@ f) take other lawful action necessary to accomplish the objectives of the Instit
 
 1.  The objectives of the Institute are: 
 
-a) To promote and advance sustainable democracy worldwide;  
+a) to promote and advance sustainable democracy worldwide;  
 
-b) To improve and consolidate democratic electoral processes worldwide;  
+b) to improve and consolidate democratic electoral processes worldwide;  
 
-c) To broaden the understanding and promote the implementation and dissemination of the norms, rules and guidelines that apply to multi-party pluralism and democratic processes;  
+c) to broaden the understanding and promote the implementation and dissemination of the norms, rules and guidelines that apply to multi-party pluralism and democratic processes;  
 
-d) To strengthen and support national capacity to develop the full range of democratic instruments;  
+d) to strengthen and support national capacity to develop the full range of democratic instruments;  
 
-e) To provide a meeting-place for exchanges between all those involved in electoral processes in the context of democratic institution-building;  
+e) to provide a meeting-place for exchanges between all those involved in electoral processes in the context of democratic institution-building;  
 
-f) To increase knowledge and enhance learning about democratic electoral processes;  
+f) to increase knowledge and enhance learning about democratic electoral processes; and  
 
-g) To promote transparency and accountability, professionalism and efficiency in the electoral process in the context of democratic development.     
+g) to promote transparency and accountability, professionalism and efficiency in the electoral process in the context of democratic development.     
 2.  In order to accomplish the foregoing objectives, the Institute may engage in the following type of activities: 
 
-a) Develop networks globally in the sphere of electoral processes;  
+a) develop networks globally in the sphere of electoral processes;  
 
-b) Establish and maintain information services;  
+b) establish and maintain information services;  
 
-c) Provide advice, guidance and support on the role of government and opposition, political parties, electoral commissions, an independent judiciary, the media and other aspects of the electoral process in a pluralistic democratic context;  
+c) provide advice, guidance and support on the role of government and opposition, political parties, electoral commissions, an independent judiciary, the media and other aspects of the electoral process in a pluralistic democratic context;  
 
-d) Encourage research and the dissemination and application of research findings withing the institute's sphere of competence;  
+d) encourage research and the dissemination and application of research findings within the Institute’s sphere of competence;  
 
-e) Organize and facilitate seminars, workshops and training on free and fair elections in the context of pluralistic democratic systems;  
+e) organize and facilitate seminars, workshops and training on free and fair elections in the context of pluralistic democratic systems; and  
 
-f) Engage in other activities related to elections and democracy as the need arises.     
-3.  The members and associate members subscribe to the objectives and activities of the Institute as stated in this article and undertake to further them and assist the Institute to carry out its program of work.   
+f) engage in other activities related to elections and democracy as the need arises.     
 
 ### Article  III  
 
 ####Cooperative relationships
 
-The Institute may establish cooperative relationships with other institutions.  
+1.  The Institute may establish cooperative relationships with other organizations, including international, inter-governmental and non-governmental organisations, with a view to furthering the objectives of the Institute.   
+2.  The Institute may also invite organizations with which it shares similar objectives in democracy building, to enter into a strategic partnership for mutual cooperation on a medium or long term basis.   
 
 ### Article  IV  
 
 ####Membership
 
-1.  Members of the Institute are: 
+1.  Members of the Institute are Governments of States Parties to this Agreement.   
+2.  To qualify for membership, States need to: 
 
-a) Governments of States Parties to this Agreement;  
+a) subscribe to the objectives and activities of the Institute, as stated in Article II, undertake to further these objectives and support activities and to assist the Institute to carry out its programme of work;  
 
-b) Inter-governmental organizations parties to this Agreement.     
-2.  Associate members of the Institute are International non-governmental organizations. Such organizations must have as members properly constituted organizations or a combination of organizations and individuals, with defined rules governing the admission of members. The organization must include members from at least seven States. The organization should have a functional and professional role relevant to the Institute's sphere of activity.   
-3.  An International Non-governmental Organization may at any time notify the Secretary General of its request to become an Associate member of the Institute.   
-4.  At no time shall the number of associate members exceed that of members of the Institute.   
+b) demonstrate, by example in their own State, their commitment to the rule of law, human rights, the basic principles of democratic pluralism and strengthening democracy  
+
+c) undertake to engage in the governance of the Institute and share in the financing responsibility, in accordance with Article V.     
+3.  Membership may be suspended for members who no longer meet the requirements of paragraph 2 of this Article. A decision on suspension is taken by the Council by a two thirds majority.   
 
 ### Article  V  
 
 ####Finance
 
-1.  The Institute shall obtain its financial resources through such means as voluntary contributions and donations by governments and others; publications and other service revenue, interest income from trusts, endowments and bank accounts.   
-2.  The Parties to this Agreement shall not be required to provide financial support to the Institute beyond voluntary contributions. Nor shall they be responsible, individually or collectively, for any debts, liabilities or obligations of the Institute.   
-3.  The Institute shall establish arrangements satisfactory to the Government of the country in which the headquarters are located with a view to ensuring the Institute's ability to meet its obligations.   
+1.  The Institute shall obtain its financial resources through such means as voluntary contributions and donations by governments and others; programme sponsorship or project funding; publications and other revenue; interest income from trusts, endowments and investments.   
+2.  Members are encouraged to support the Institute by annual contributions, programme sponsorship, project funding and/or other means.   
+3.  Members shall not be responsible, individually or collectively, for any debts, liabilities or obligations of the Institute.   
 
 ### Article  VI  
 
 ####Organs
 
-The Institute shall consist of a Council, a Nominating Committee, a Board of Directors (“Board"), a Secretary General and a Secretariat.  
+The Institute shall consist of a Council, a Board of Advisers and a Secretariat.  
 
 ### Article  VII  
 
 ####The Council
 
-1.  The Council shall be composed of one representative of each member and associate member of the Institute.   
-2.  The Council shall meet once a year in ordinary sessions. An extraordinary session of the Council shall be convened: 
+1.  The Council shall be composed of one representative of each Member.   
+2.  The Council shall meet once a year in ordinary sessions. An extraordinary session of the Council be convened upon the initiative of one-fifth of its Members.   
+3.  The Council shall adopt its rules of procedure.   
+4.  The Council shall 
 
-a) upon the invitation of the Board of Directors  
+a) elect one Chair and two Vice Chairs;  
 
-b) upon the initiative of one third of the Council's members.     
-3.  Observers may be invited to Council meetings, but have no right to vote. Associate members shall be invited to Council meetings. They have the right to take part in and to address Council meetings, but have no right to vote or to participate otherwise in decision taking in the Council.   
-4.  The Council shall adopt its own rules of procedure, and elect a chairman for each meeting.   
+b) appoint the Secretary-General, for a term of up to five years, subject to renewal;  
+
+c) appoint individuals to the Institute’s Board of Advisers;  
+
+d) appoint the Auditors     
 5.  The Council shall: 
 
-a) Give the overall direction of the Institute's work  
+a) give the overall direction to the Institute’s work  
 
-b) Review the activities of the Institute  
+b) review progress in meeting its objectives;  
 
-c) Approve by a two-thirds majority new members and associate members of the Institute, upon recommendation by the Board  
+c) approve the annual work programme and budget;  
 
-d) Consider and decide by a two-thirds majority on suspension of members and associate members, upon recommendation by the Board.  
+d) approve the audited financial statements;  
 
-e) Appoint the members and the Chairman of the Board  
+e) approve new Members by two-thirds majority;  
 
-f) Appoint the Nominating Committee  
+f) approve suspension of Members by a two-thirds majority  
 
-g) Appoint the auditors  
+g) issue by-laws and guidelines, as required; and  
 
-h) Approve the audited financial statements     
-6.  Decisions of the Council shall be taken by consensus. If all efforts have been made and no consensus is reached the Chairman may decide to proceed to a formal vote. A formal vote shall also be held if so requested by a voting member. Except when this agreement provides otherwise, a formal vote of the Council shall be made by a simple majority of the votes cast. Each member of the Council shall be entitled to one vote, and in the case of an equality of votes, the Chairman of the meeting may cast the deciding vote.   
+h) set up committees and/or working groups, as required,  
+
+i) and perform all other functions necessary to promote and protect the interests of the Institute.     
+6.  The Council shall in principle take decisions by consensus. If no consensus is reached, despite efforts made, the Chair may decide to proceed to a vote. A vote shall also be held if so requested by a Member. Except where this Agreement provides otherwise, a decision shall be taken by a simple majority of the votes cast. Each Member shall be entitled to one vote, and in the case of an equality of votes, the Chair may cast the deciding vote. Between Council meetings, decisions may be taken by written procedure.   
+7.  The Council may invite observers to its meetings.   
+8.  The Council shall appoint a Steering Committee composed of the Council Chair and the two Vice Chairs, the Chair and Vice-Chair of the Board of Advisers and a representative of the country in which the Institute has its headquarters. The Secretary-General shall be an ex-officio member of the Steering Committee. The Council may appoint other individuals to serve on the Steering Committee. The Steering Committee shall prepare meetings of the Council and act to further the interests of the Institute between Council meetings. The Council may delegate matters to the Steering Committee.   
 
 ### Article  VIII  
 
-####The Nominating Committee
+####The Board of Advisers
 
-1.  The Council shall elect one representative of the members and one representative of the associate members and one member of the Board of Directors to serve as members of the Nominating Committee.   
-2.  The Nominating Committee shall: 
-
-a) Nominate distinguished personalities to serve as members or as Chairman of the Board for appointment by the Council.  
-
-b) Nominate external auditors for appointment by the Council.     
+1.  The Institute shall be assisted by a Board of Advisers of up to 15 members who shall be eminent personalities or experts from a wide variety of backgrounds. They shall be selected on the basis of their accomplishments and experience, whether professional or academic, in areas of importance for the activities of the Institute such as the field of law, electoral processes, politics, political science, peace building, conflict management and civil society. They shall serve in their personal capacities and not as representatives of governments or organizations. A member of the Board of Advisers shall be appointed for a term of up to three years and may be reappointed.   
+2.  Members of the Board of Advisers shall be invited to perform tasks to strengthen the Institute and its mission and to enhance the quality and impact of its programme. They may be invited to represent the Institute and in other ways contribute to its activities. The Institute may organize an annual forum with the Board of Advisers and may also arrange meetings at national and/or regional level.   
+3.  The Board of Advisers shall elect among themselves a Chair and a Vice-Chair who will also be members of the Steering Committee. The members of the Board of Advisers may particularly be invited to comment and give advice on membership issues and on the selection of the Secretary General.   
 
 ### Article  IX  
 
-####The Board
+####The Secretary-General and the Secretariat
 
-1.  The Institute shall operate under the direction of a Board of Directors consisting of between nine (9) and fifteen (15) members. One member of the Board shall be appointed by the country in which the Institute has its headquarters (Permanent Representative). The Chairman of the Board shall be elected by the Council. Board members shall be selected on the basis of accomplishment in the fields of law, electoral techniques, politics, relevant research, political science, economics and other areas of importance for the work of the Institute. They shall serve in their personal capacities and not as representatives of governments or organizations.   
-2.  The term of appointment of a member and of the Chairman of the Board, shall be three years (3), subject to renewal. The terms of the first members of the Board shall be staggered in order to establish gradual transition of membership.   
-3.  The Board shall meet as often as it finds necessary to carry out its functions. At its first meeting every year the Board will appoint a Vice-Chairman.   
-4.  The Board shall also: 
+1.  The Institute shall have a Secretariat headed by a Secretary-General who shall be responsible to the Council   
+2.  The Secretary-General shall in particular: 
 
-a) Issue by-laws for the governance of the Institute in accordance with this Agreement;  
+a. provide strategic leadership for the Institute  
 
-b) Develop the policy of the institute based on the overall direction given by the Council;  
+b. report on the overall implementation of the Institute’s activities  
 
-c) Appoint the Secretary General of the Institute;  
-
-d) Approve the Institute's annual work programs and budget;  
-
-e) Recommend new members of the Institute for approval by the Council;  
-
-f) Recommend the suspension of Members and Associate Members deemed to be failing to adhere to Article II, paragraph 3 above.  
-
-g) Comment on the audited financial statements;  
-
-h) Perform all other functions necessary to carry out the powers delegated to the Board.     
+c. represent the Institute externally and develop strong relations with Member States and other constituencies     
+3.  The Secretary-General shall appoint staff as required to carry out the programme of the Institute.   
 
 ### Article  X  
 
-####The Secretary General and The Secretariat
+####Status, privileges and immunities
 
-1.  The Institute shall be headed by a Secretary General who shall be appointed by the Board for a term of five (5) years, subject to renewal.   
-2.  The Secretary General shall appoint such Professional and General Service Staff as may be required to carry out the objectives of the Institute in accordance with personnel policies approved by the Board.   
-3.  The Secretary General shall be responsible to the Board.   
+The Institute and its officials shall enjoy status, privileges and immunities comparable to those set out in the Convention on the Privileges and Immunities of the United Nations of 13 February 1946. The status, privileges and immunities of the Institute and its officials in the host country shall be specified in a headquarters agreement. The status, privileges and immunities of the Institute and its officials in other countries shall be specified in separate agreements concluded between the Institute and the country in which the Institute performs its functions.  
 
 ### Article  XI  
 
-####Rights, Privileges and Immunities
+####External auditors
 
-The Institute and its staff shall, in the country of its headquarters, enjoy such rights, privileges and immunities as shall be stipulated in a headquarters Agreement. Other countries may grant comparable rights, privileges and immunities in support of the Institute's activities in such countries.  
+A financial audit of the operations of the Institute shall be conducted on an annual basis by an independent international accounting firm in accordance with international auditing standards.  
 
 ### Article  XII  
 
-####External Auditor
+####Depositary
 
-A full financial audit of the operations of the Institute shall be conducted on an annual basis by an independent international accounting firm selected by the Council after recommendation by the Nominating Committee. The result of such audits shall be made available to the Board and the Council.  
+1.  The Secretary-General shall be the Depositary of this Agreement.   
+2.  The Secretary-General shall communicate all notifications relating to the Agreement to all Members.   
+3.  The Secretary-General shall communicate to all members the date of entry into force of amendments in accordance with Article XIV paragraph 2.   
 
 ### Article  XIII  
 
-####Depositary
-
-1.  The Secretary General of the Institute shall be the Depositary of this Agreement.   
-2.  The Depositary shall communicate all notifications relating to the Agreement to all members and associate members.   
-
-### Article  XIV  
-
 ####Dissolution
 
-1.  The Institute may be dissolved, if a four-fifths majority of all members and associate members determines that the Institute is no longer required or that it will no longer be able to function effectively.   
-2.  In case of dissolution, any assets of the Institute which remain after payment of its legal obligations shall be distributed to institutions having objectives similar to those of the Institute as decided by the Council in consultation with the Board.   
+1.  The Institute may be dissolved, if a four-fifths majority of all Member States determines that the Institute is no longer required or that it is no longer able to function effectively.   
+2.  In case of dissolution, any assets of the Institute which remain after payment of its legal obligations shall be distributed to institutions having objectives similar to those of the Institute as decided by the Council.   
 
-### Article  XV  
+### Article  XIV  
 
 ####Amendments
 
 1.  This Agreement may be amended by a two-thirds majority vote of all the Parties to it. A proposal for such an amendment shall be circulated at least eight weeks in advance.   
-2.  The amendment will enter into force thirty days after the date on which two-thirds of the Parties have notified the Depositary that they have fulfilled the formalities required by national legislation with respect to the amendment. It shall then be binding on all members and associate members.   
+2.  Amendments will enter into force thirty days after the dated on which two-thirds of the Parties have notified the Depositary that they have fulfilled the formalities required by national legislation with respect to the amendments. It shall then be binding on all Members.   
 
-### Article  XVI  
+### Article  XV  
 
 ####Withdrawal
 
-1.  Any Party to this Agreement may withdraw from it. Such withdrawal shall become effective three months after the date on which this has been notified to the Depositary.   
-2.  Any associate member may withdraw its membership from the Institute. Such withdrawal shall become effective the day on which this has been notified to the Depositary.   
+1.  Any Party to this Agreement may withdraw from it. A Party wishing to withdraw from this Agreement, shall give written notice to the Depositary six months in advance of its formal notification, to allow the Institute to inform the other Parties to this Agreement and to initiate discussions as required.   
+2.  A formal decision to withdraw shall become effective six months after the date on which this has been notified to the Depositary.   
+
+### Article  XVI  
+
+####Entry into force
+
+1.  The original agreement between the founding Members of the Institute was open for signature by States participating in the Founding Conference, held in Stockholm on the 27th February 1995, and entered into force on the 28th of February 1995.th February 1995, and entered into force on the 28th of February 1995.   
+2.  Article VII of the Statutes was amended in accordance with Article XIV (then Article XV). The amendment entered into force on 17 July 2003.   
 
 ### Article  XVII  
 
-####Entry into Force
-
-1.  This Agreement shall be open for signature by States participating in the Founding Conference, held in Stockholm on the 27th of February 1995, until the date of the second Council meeting.   
-2.  This Agreement shall enter into force on the day upon which at least three States have signed it and provided each other with notification that the formalities required by their national legislation have been completed.   
-3.  For those States which can not provide such notification on the day of its entry into force, the Agreement shall enter into force thirty days after receipt by the Depositary of notification that the formalities required by national legislation have been completed.   
-
-### Article  XVIII  
-
 ####Accession
 
-Any State or Inter-governmental Organization may at any time notify the Secretary General of its request to accede to this Agreement. If the request is approved by the Council the Agreement will enter into force for that State or Intergovernmental Organization thirty days after the date of the deposit of its instrument of accession.  
+Any State may at any time notify the Secretary-General of its request to accede to this Agreement. If the request is approved by the Council, the Agreement will enter into force for that State thirty days after the date of the deposit of its instrument of accession.  
 
 IN WITNESS WHEREOF, the undersigned being duly authorised thereto, have signed this Agreement in a single original in the English language, which shall be deposited with the Secretary General who shall send copies thereof to all the Members of the Institute. DONE in the English language at Stockholm on the 27th of February 1995.  
 
 ####Verdrag tot oprichting van het Internationaal Instituut voor democratie en verkiezingsondersteuning
 
-De Partijen die ondertekenaar zijn van dit Verdrag, Vaststellende dat de begrippen democratie, pluralisme, en vrije en eerlijke verkiezingen wereldwijd vaste voet aan de grond krijgen; Vaststellende dat democratie van wezenlijk belang is voor het bevorderen en waarborgen van de mensenrechten en dat deelname aan het politieke leven, waaronder de regering, deel uitmaakt van de mensenrechten, vastgelegd in en gewaarborgd door internationale verdragen en verklaringen; Tevens vaststellende dat duurzame democratie, behoorlijk bestuur, verantwoording en openbaarheid een centrale plaats zijn gaan innemen in het beleid voor nationale en internationale ontwikkeling; Erkennende dat versterking van de democratische instellingen op nationale, regionale en mondiale schaal een gunstig klimaat schept voor preventieve diplomatie, waarmede de totstandbrenging van een betere wereldorde wordt bevorderd; Beseffende dat democratische en verkiezingsprocessen continuïteit en toekomstperspectief vereisen; Geleid door de wens alom gehanteerde normen, waarden en gebruiken meer ingang te doen vinden en in praktijk te brengen; Zich ervan bewust dat pluralisme veronderstelt dat er actoren en nationale en internationale organisaties zijn met duidelijk onderscheiden taken en mandaten, die niet bij andere kunnen worden ondergebracht; Beseffende dat een ontmoetingsplaats voor alle betrokkenen zou kunnen leiden tot instandhouding en bevordering van deskundigheid en systematische vergroting van capaciteit; Overwegende dat er behoefte is aan een aanvullend internationaal instituut op dit gebied; Zijn het volgende overeengekomen:    
+De Partijen die ondertekenaar zijn van dit Verdrag, Vaststellende dat de begrippen democratie, pluralisme en vrije en eerlijke verkiezingen wereldwijd vaste voet aan de grond krijgen; Vaststellende dat democratie van wezenlijk belang is voor het bevorderen en waarborgen van de mensenrechten en dat deelname aan het politieke leven, waaronder de regering, deel uitmaakt van de mensenrechten, vastgelegd in en gewaarborgd door internationale verdragen en verklaringen; Tevens vaststellende dat duurzame democratie, behoorlijk bestuur, verantwoording en transparantie een centrale plaats zijn gaan innemen in het beleid voor nationale en internationale ontwikkeling; Erkennende dat versterking van de democratische instellingen op nationale, regionale en mondiale schaal een gunstig klimaat schept voor preventieve diplomatie, waarmee de totstandbrenging van een betere wereldorde wordt bevorderd; Beseffende dat democratische en verkiezingsprocessen continuïteit en toekomstperspectief vereisen; Geleid door de wens alom gehanteerde normen, waarden en gebruiken meer ingang te doen vinden en in de praktijk te brengen; Zich ervan bewust dat pluralisme veronderstelt dat er actoren en nationale en internationale organisaties zijn met duidelijk onderscheiden taken en mandaten, die niet bij andere kunnen worden ondergebracht; Beseffende dat een ontmoetingsplaats voor alle betrokkenen zou kunnen leiden tot instandhouding en bevordering van deskundigheid en systematische vergroting van capaciteit; Overwegende dat er behoefte is aan een aanvullend internationaal instituut op dit gebied.   Zijn het volgende overeengekomen:    
 
-### Artikel  1  
+### Artikel  I  
 
 ####Oprichting, vestigingsplaats en rechtspositie
 
-1.  De Partijen bij dit Verdrag richten hierbij het Internationale Instituut voor democratie en verkiezingsondersteuning op als internationale organisatie, hierna te noemen „het Instituut" of „Internationaal IDEA".   
-2.  De zetel van het Instituut is gevestigd te Stockholm, tenzij de Raad besluit het Instituut naar elders te verplaatsen. Het Instituut kan in andere plaatsen kantoren vestigen, indien nodig ter ondersteuning van zijn programma's.   
-3.  Internationaal IDEA bezit volledige rechtspersoonlijkheid en heeft de bevoegdheden die noodzakelijk zijn om zijn taken te verrichten en zijn doelstellingen te verwezenlijken, onder meer de bevoegdheid om: 
+1.  De Partijen bij dit Verdrag richten hierbij het Internationaal Instituut voor democratie en verkiezingsondersteuning op als een intergouvernementele organisatie, hierna te noemen „het Instituut’’.   
+2.  De zetel van het Instituut is gevestigd te Stockholm, tenzij de Raad besluit het Instituut naar elders te verplaatsen. Het Instituut kan in andere plaatsen kantoren vestigen, indien nodig ter ondersteuning van zijn programma.   
+3.  Het Instituut bezit volledige rechtspersoonlijkheid en heeft de bevoegdheden die noodzakelijk zijn om zijn taken te verrichten en zijn doelstellingen te verwezenlijken, onder meer de bevoegdheid om: 
 
 a. onroerende en roerende zaken te verkrijgen en te vervreemden;  
 
@@ -260,13 +247,13 @@ b. het verbeteren en versterken van democratische verkiezingsprocessen over de g
 
 c. het verruimen van het besef van, en het bevorderen van de toepassing en verbreiding van normen, regels en richtlijnen ter zake van pluralisme, meerpartijenstelsels en democratische processen;  
 
-d. het versterken en ondersteunen van de nationale capaciteit om de hele scala van democratische instrumenten tot stand te brengen;  
+d. het versterken en ondersteunen van de nationale capaciteit om het hele scala van democratische instrumenten tot stand te brengen;  
 
 e. het bieden van een ontmoetingsplaats voor uitwisselingen tussen allen die zijn betrokken bij verkiezingsprocessen, in de context van de totstandbrenging van democratische instellingen;  
 
-f. het vergroten van de kennis van, en op grotere schaal vertrouwd maken met democratische verkiezingsprocessen;  
+f. het vergroten van de kennis van, en op grotere schaal vertrouwd raken met democratische verkiezingsprocessen; en  
 
-g. het bevorderen van openbaarheid en verantwoording, deskundigheid en doelmatigheid in het verkiezingsproces, in de context van democratische ontwikkeling.     
+g. het bevorderen van transparantie en verantwoording, deskundigheid en doelmatigheid in het verkiezingsproces, in de context van democratische ontwikkeling.     
 2.  Teneinde de bovenstaande doelstellingen te verwezenlijken kan het Instituut de volgende soorten werkzaamheden verrichten: 
 
 a. over de gehele wereld netwerken opzetten op het gebied van verkiezingsprocessen;  
@@ -277,172 +264,159 @@ c. advies en richtsnoeren geven en ondersteuning bieden met betrekking tot de ro
 
 d. onderzoek en de verspreiding en toepassing van onderzoeksresultaten stimuleren binnen de grenzen van de bevoegdheden van het Instituut;  
 
-e. seminars, workshops en vorming met betrekking tot vrije en eerlijke verkiezingen in de context van pluralistische democratische stelsels organiseren en vergemakkelijken;  
+e. seminars, workshops en vorming met betrekking tot vrije en eerlijke verkiezingen in de context van pluralistische democratische stelsels organiseren en vergemakkelijken; en  
 
-f. zich bezighouden met andere werkzaamheden met betrekking tot verkiezingen en democratie, naar gelang de behoefte.     
-3.  De leden en geassocieerde leden onderschrijven de doelstellingen en werkzaamheden van het Instituut als vermeld in dit artikel en verplichten zich ertoe deze te bevorderen en het Instituut te helpen om zijn werkprogramma uit te voeren.   
+f. zich bezighouden met andere werkzaamheden met betrekking tot verkiezingen en democratie, naargelang de behoefte.     
 
 ### Artikel  III  
 
 ####Samenwerkingsverbanden
 
-Het Instituut kan samenwerkingsverbanden met andere instellingen aangaan.  
+1.  Het Instituut kan samenwerkingsverbanden met andere organisaties aangaan, met inbegrip van internationale, intergouvernementele en niet-gouvernementele organisaties, teneinde de doelstellingen van het Instituut te bevorderen.   
+2.  Het Instituut kan tevens organisaties uitnodigen die vergelijkbare doelstellingen nastreven op het gebied van de opbouw van democratie, teneinde een strategisch partnerschap aan te gaan voor wederzijdse samenwerking op middellange en lange termijn.   
 
 ### Artikel  IV  
 
 ####Lidmaatschap
 
-1.  Leden van het Instituut zijn: 
+1.  Leden van het Instituut zijn Regeringen van Staten die Partij zijn bij dit Verdrag.   
+2.  Om voor lidmaatschap in aanmerking te komen dienen Staten: 
 
-a. Regeringen van Staten die Partij zijn bij dit Verdrag;  
+a. de doelstellingen en werkzaamheden van het Instituut, zoals vermeld in artikel II, te onderschrijven, zich ertoe te verbinden deze doelstellingen te bevorderen en werkzaamheden te ondersteunen en het Instituut te helpen zijn werkprogramma uit te voeren;  
 
-b. Intergouvernementele organisaties die Partij zijn bij dit Verdrag.     
-2.  Geassocieerde leden van het Instituut zijn internationale niet-gouvernementele organisaties. Deze organisaties moeten op de juiste wijze opgerichte organisaties, of een combinatie van organisaties en natuurlijke personen, als leden hebben, met vastgelegde regels betreffende de toelating van leden. De organisatie moet leden uit ten minste zeven Staten omvatten. De organisatie dient een functionele en professionele rol te vervullen, die van belang is voor het werkterrein van het Instituut.   
-3.  Een internationale niet-gouvernementele organisatie kan de Secretaris-Generaal te allen tijde in kennis stellen van haar verzoek om geassocieerd lid van het Instituut te worden.   
-4.  Het aantal geassocieerde leden mag nimmer groter zijn dan het aantal leden van het Instituut.   
+b. aan te tonen, met voorbeeld in hun eigen staat, dat zij de rechtsstaat, mensenrechten, de basisbeginselen van de pluriforme democratie en de versterking van de democratie ten volle ondersteunen;  
+
+c. verbinden zich deel te nemen aan het besturen van het Instituut en een deel van de verantwoordelijkheid voor de financiering op zich te nemen, in overeenstemming met artikel V.     
+3.  Het lidmaatschap van Leden die niet langer voldoen aan de bepalingen van het tweede lid van dit artikel, kan worden opgeschort. Een besluit tot opschorting wordt door de Raad met een tweederdemeerderheid genomen.   
 
 ### Artikel  V  
 
 ####Financiën
 
-1.  Het Instituut verkrijgt zijn financiële middelen uit o.a. vrijwillige bijdragen en donaties van regeringen en anderen, publikaties en andere baten van dienstverlening, rente-opbrengsten van in beheer gegeven vermogen, giften en bankrekeningen.   
-2.  De Partijen bij dit Verdrag zijn niet verplicht financiële steun aan het Instituut te geven buiten hun vrijwillige bijdragen. Zij zijn evenmin afzonderlijk of gezamenlijk aansprakelijk voor schulden, verplichtingen of verbintenissen van het Instituut.   
-3.  Het Instituut treft, ten genoegen van de Regering van het land waarin zijn zetel is gevestigd, regelingen om te verzekeren dat het Instituut in staat is aan zijn verplichtingen te voldoen.   
+1.  Het Instituut verkrijgt zijn financiële middelen uit onder andere vrijwillige bijdragen en donaties van regeringen en anderen; sponsoring van programma’s of projectfinanciering; publicaties en andere opbrengsten; renteopbrengsten van in beheer gegeven vermogen, giften en investeringen.   
+2.  De Leden worden aangemoedigd het Instituut te ondersteunen met jaarlijkse bijdragen, het sponsoren van programma’s, projectfinanciering en/of andere middelen.   
+3.  De Leden zijn niet afzonderlijk of gezamenlijk aansprakelijk voor schulden, verplichtingen of verbintenissen van het Instituut.   
 
 ### Artikel  VI  
 
 ####Organen
 
-Het Instituut bestaat uit een Raad, een Commissie van Voordracht, een Raad van Bestuur („het Bestuur"), een Secretaris-Generaal en een Secretariaat.  
+Het Instituut bestaat uit een Raad, een Commissie van adviseurs en een Secretariaat.  
 
 ### Artikel  VII  
 
 ####De Raad
 
-1.  De Raad bestaat uit één vertegenwoordiger van elk lid en elk geassocieerd lid van het Instituut.   
-2.  De Raad komt eenmaal per jaar in gewone zitting bijeen. Een buitengewone zitting van de Raad wordt belegd: 
+1.  De Raad bestaat uit één vertegenwoordiger van elk Lid.   
+2.  De Raad komt eenmaal per jaar in gewone zitting bijeen. Een buitengewone zitting van de Raad wordt belegd op initiatief van een vijfde van de leden van de Raad.   
+3.  De Raad neemt zijn eigen reglement van orde aan.   
+4.  De Raad 
 
-a. op verzoek van het Bestuur  
+a. kiest een voorzitter en twee vicevoorzitters;  
 
-b. op initiatief van een derde van de leden van de Raad.     
-3.  Tot vergaderingen van de Raad kunnen waarnemers worden uitgenodigd, maar zij hebben geen stemrecht. Geassocieerde Leden worden uitgenodigd tot vergaderingen van de Raad. Zij hebben het recht deel te nemen aan vergaderingen van de Raad en deze toe te spreken, maar zij hebben geen stemrecht noch het recht anderszins deel te nemen aan de besluitvorming van de Raad.   
-4.  De Raad neemt zijn eigen reglement van orde aan en kiest voor elke vergadering een voorzitter.   
+b. benoemt de Secretaris-Generaal voor een termijn van ten hoogste vijf jaar, met een mogelijkheid tot verlenging;  
+
+c. benoemt natuurlijke personen tot lid van de Commissie van adviseurs van het Instituut;  
+
+d. benoemt de accountants.     
 5.  De Raad 
 
-a. bepaalt algemene lijnen voor het werk van het Instituut;  
+a. bepaalt de algemene lijnen voor het werk van het Instituut;  
 
-b. beziet de werkzaamheden van het Instituut;  
+b. beziet de voortgang bij het verwezenlijken van zijn doelstellingen;  
 
-c. hecht, met een meerderheid van tweederde, zijn goedkeuring aan nieuwe leden en geassocieerde leden van het Instituut, op aanbeveling van het Bestuur;  
+c. keurt het jaarlijkse werkprogramma en de begroting goed;  
 
-d. bestudeert en besluit met een meerderheid van tweederde over de schorsing van leden en geassocieerde leden, op aanbeveling van het Bestuur;  
+d. keurt de door accountants gecontroleerde jaarstukken goed;  
 
-e. benoemt de leden en de voorzitter van het Bestuur;  
+e. hecht met een tweederdemeerderheid goedkeuring aan nieuwe Leden;  
 
-f. benoemt de Commissie van Voordracht;  
+f. hecht met een tweederdemeerderheid goedkeuring aan de schorsing van Leden;  
 
-g. benoemt de accountants;  
+g. vaardigt wanneer nodig regels en richtlijnen uit; en  
 
-h. keurt de van een accountantsverklaring voorziene financiële overzichten goed.     
-6.  Besluiten van de Raad worden bij consensus genomen. Indien alle pogingen daartoe zijn ondernomen en geen consensus wordt bereikt, kan de voorzitter besluiten om tot formele stemming over te gaan. Een formele stemming vindt ook plaats indien daarom wordt verzocht door een stemgerechtigd lid. Behalve wanneer in dit Verdrag anders is bepaald, geschiedt formele besluitvorming in de Raad bij een gewone meerderheid van de uitgebrachte stemmen. Elk lid van de Raad heeft recht op één stem en indien de stemmen staken, kan de voorzitter van de vergadering de beslissende stem uitbrengen.   
+h. stelt commissies en/of werkgroepen in, wanneer nodig;  
+
+i. en verricht alle andere taken die nodig zijn om de belangen van het Instituut te bevorderen en te beschermen.     
+6.  De Raad neemt in beginsel besluiten bij consensus. Indien ondanks pogingen daartoe geen consensus wordt bereikt, kan de voorzitter besluiten tot stemming over te gaan. Een stemming vindt ook plaats indien daarom wordt verzocht door een Lid. Behalve wanneer in dit Verdrag anders is bepaald, worden besluiten genomen met een gewone meerderheid van de uitgebrachte stemmen. Elk Lid heeft recht op één stem en indien de stemmen staken, kan de voorzitter de beslissende stem uitbrengen. In de periode tussen vergaderingen van de Raad kunnen besluiten genomen worden door middel van schriftelijke procedures.   
+7.  De Raad kan waarnemers bij zijn vergaderingen uitnodigen.   
+8.  De Raad benoemt een Stuurgroep die bestaat uit de voorzitter en twee vicevoorzitters van de Raad, de voorzitter en vicevoorzitter van de Commissie van adviseurs en een vertegenwoordiger van het land waarin het Instituut zijn zetel heeft. De Secretaris-Generaal is ambtshalve lid van de Stuurgroep. De Raad kan andere natuurlijke personen benoemen tot lid van de Stuurgroep. De Stuurgroep bereidt vergaderingen van de Raad voor en verricht handelingen om de belangen van het Instituut in de periode tussen vergaderingen van de Raad te bevorderen. De Raad kan zaken aan de Stuurgroep delegeren.   
 
 ### Artikel  VIII  
 
-####De Commissie van Voordracht
+####De Commissie van adviseurs
 
-1.  De Raad kiest één vertegenwoordiger van de leden, één vertegenwoordiger van de geassocieerde leden en één lid van het Bestuur tot lid van de Commissie van Voordracht.   
-2.  De Commissie van Voordracht: 
-
-a. draagt eminente personen voor ter benoeming door de Raad als leden of als voorzitter van het Bestuur;  
-
-b. draagt externe accountants voor ter benoeming door de Raad.     
+1.  Het Instituut wordt ondersteund door een Commissie van adviseurs van ten hoogste 15 leden, allen eminente personen of deskundigen met zeer uiteenlopende achtergronden. Zij worden verkozen op grond van hun verdiensten en ervaring, zij het beroepsmatig of op academisch gebied, op terreinen die voor het werk van het Instituut van belang zijn, waaronder het recht, verkiezingsprocessen, politiek, politieke wetenschappen, vredesopbouw, conflictbeheersing en het maatschappelijk middenveld. Zij nemen op persoonlijke titel zitting en niet als vertegenwoordiger van een regering of organisatie. Een lid van de Commissie van adviseurs wordt voor een termijn van ten hoogste drie jaar benoemd en kan worden herbenoemd.   
+2.  Leden van de Commissie van adviseurs worden uitgenodigd taken te verrichten ter versterking van het Instituut en zijn missie en ter verbetering van de kwaliteit en de invloed van zijn programma. Zij kunnen worden gevraagd het Instituut te vertegenwoordigen en op andere wijzen een bijdrage aan zijn werkzaamheden te leveren. Het Instituut kan een jaarlijks forum met de Commissie van adviseurs organiseren en kan tevens vergaderingen op nationaal en/of regionaal niveau organiseren.   
+3.  De Commissie van adviseurs kiest uit zijn midden een voorzitter en een vicevoorzitter, die tevens in de Stuurgroep zitting zullen nemen. De leden van de Commissie van adviseurs kunnen met name worden uitgenodigd commentaar en advies te geven inzake lidmaatschapskwesties en de keuze van de Secretaris-Generaal.   
 
 ### Artikel  IX  
 
-####Het Bestuur
+####De Secretaris-Generaal en het Secretariaat
 
-1.  Het Instituut werkt onder de leiding van een Bestuur, bestaande uit ten minste negen (9) en ten hoogste vijftien (15) leden. Eén lid van het Bestuur wordt benoemd door het land waarin het Instituut zijn zetel heeft (de permanente vertegenwoordiger). De voorzitter van het Bestuur wordt gekozen door de Raad. Leden van het Bestuur worden gekozen op grond van hun verdiensten op het gebied van het recht, verkiezingsmethoden, politiek, relevant onderzoek, politieke wetenschappen, economie en andere gebieden die voor het werk van het Instituut van belang zijn. Zij nemen op persoonlijke titel zitting en niet als vertegenwoordiger van een regering of organisatie.   
-2.  De ambtstermijn van een lid en van de voorzitter van het Bestuur beloopt drie (3) jaar, met een mogelijkheid tot verlenging. De eerste leden van het Bestuur hebben een variërende ambtstermijn, teneinde een geleidelijke overgang van het lidmaatschap te bewerkstelligen.   
-3.  Het Bestuur vergadert zo vaak als het zulks noodzakelijk acht om zijn taken te verrichten. Op de eerste vergadering van elk jaar benoemt het Bestuur een vice-voorzitter.   
-4.  Het Bestuur heeft tevens tot taak: 
+1.  Het Instituut beschikt over een Secretariaat onder leiding van een Secretaris-Generaal die verantwoording verschuldigd is aan de Raad.   
+2.  De Secretaris-Generaal heeft met name de taak: 
 
-a. additionele regelgeving uit te vaardigen ten behoeve van het beheer van het Instituut in overeenstemming met dit Verdrag;  
+a. strategisch leiderschap te bieden aan het Instituut;  
 
-b. het beleid van het Instituut te ontwikkelen, op basis van de door de Raad bepaalde algemene lijnen;  
+b. verslag te doen van de algemene uitvoering van de werkzaamheden van het Instituut;  
 
-c. de Secretaris-Generaal van het Instituut te benoemen;  
-
-d. de jaarlijkse werkprogramma's en de begroting van het Instituut goed te keuren;  
-
-e. nieuwe leden van het Instituut aan te bevelen ter goedkeuring door de Raad;  
-
-f. de schorsing aan te bevelen van leden en geassocieerde leden die artikel II, derde lid, niet naleven;  
-
-g. commentaar te geven op de gecontroleerde financiële overzichten;  
-
-h. alle andere taken te verrichten die noodzakelijk zijn ter uitoefening van de aan het Bestuur gedelegeerde bevoegdheden.     
+c. het Instituut extern te vertegenwoordigen en goede betrekkingen op te bouwen met de Lidstaten en andere partijen.     
+3.  De Secretaris-Generaal benoemt de personeelsleden die nodig zijn om het programma van het Instituut uit te voeren.   
 
 ### Artikel  X  
 
-####De Secretaris-Generaal en het Secretariaat
+####Rechtspositie, voorrechten en immuniteiten
 
-1.  Het Instituut wordt geleid door een Secretaris-Generaal, die wordt benoemd door het Bestuur voor een termijn van vijf (5) jaar, met mogelijkheid tot verlenging.   
-2.  De Secretaris-Generaal benoemt de specialisten en ondersteunende personeelsleden die nodig zijn ter verwezenlijking van de doelstellingen van het Instituut, zulks in overeenstemming met het door het Bestuur goedgekeurde personeelsbeleid.   
-3.  De Secretaris-Generaal is verantwoording verschuldigd aan het Bestuur.   
+Het Instituut en zijn functionarissen beschikken over de rechtspositie en genieten de voorrechten en immuniteiten die vergelijkbaar zijn met die vastgelegd in het Verdrag nopens de voorrechten en immuniteiten van de Verenigde Naties van 13 februari 1946. De rechtspositie, voorrechten en immuniteiten van het Instituut en zijn functionarissen in het gastheerland worden vastgelegd in een zetelovereenkomst. De rechtspositie, voorrechten en immuniteiten van het Instituut en zijn functionarissen in andere landen worden vastgelegd in afzonderlijke overeenkomsten tussen het Instituut en het land waarin het Instituut zijn taken verricht.  
 
 ### Artikel  XI  
 
-####Rechten, voorrechten en immuniteiten
+####Externe accountants
 
-Het Instituut en zijn personeel genieten in het land waarin zijn zetel is gevestigd de rechten, voorrechten en immuniteiten zoals vastgelegd in de zetelovereenkomst. Andere landen kunnen vergelijkbare rechten, voorrechten en immuniteiten verlenen ter ondersteuning van de werkzaamheden van het Instituut in die landen.  
+Er wordt jaarlijks een financiële controle van de verrichtingen van het Instituut uitgevoerd door een onafhankelijk internationaal accountantskantoor in overeenstemming met internationale controlenormen.  
 
 ### Artikel  XII  
 
-####Externe accountant
+####Depositaris
 
-Er wordt jaarlijks een volledige financiële controle van de verrichtingen van het Instituut uitgevoerd door een onafhankelijk internationaal accountantskantoor, gekozen door de Raad op aanbeveling van de Commissie van Voordracht. De resultaten van deze controles worden ter beschikking gesteld van het Bestuur en de Raad.  
+1.  De Secretaris-Generaal is depositaris van dit Verdrag.   
+2.  De Secretaris-Generaal doet mededeling van alle kennisgevingen met betrekking tot dit Verdrag aan alle Leden.   
+3.  De Secretaris-Generaal stelt alle Leden in kennis van de datum van inwerkingtreding van wijzigingen in overeenstemming met artikel XIV, tweede lid.   
 
 ### Artikel  XIII  
 
-####Depositaris
+####Ontbinding
 
-1.  De Secretaris-Generaal van het Instituut is depositaris van dit Verdrag.   
-2.  De depositaris doet mededeling van alle kennisgevingen met betrekking tot het Verdrag aan alle leden en geassocieerde leden.   
+1.  Het Instituut kan worden ontbonden indien een meerderheid van vier vijfde van alle Lidstaten besluit dat het Instituut niet langer nodig is of dat het niet langer in staat is doelmatig te functioneren.   
+2.  In geval van ontbinding worden eventuele activa van het Instituut die overblijven na voldoening van zijn wettelijke verplichtingen verdeeld onder instellingen die doelstellingen hebben die vergelijkbaar zijn met die van het Instituut, zoals besloten door de Raad.   
 
 ### Artikel  XIV  
 
-####Ontbinding
+####Wijzigingen
 
-1.  Het Instituut kan worden ontbonden indien een meerderheid van viervijfde van alle leden en geassocieerde leden besluit dat het Instituut niet langer nodig is of dat het niet langer in staat is doelmatig te functioneren.   
-2.  In geval van ontbinding worden eventuele activa van het Instituut die overblijven na voldoening van zijn wettelijke verplichtingen verdeeld onder instellingen die doelstellingen hebben die vergelijkbaar zijn met die van het Instituut, zoals besloten door de Raad in overleg met het Bestuur.   
+1.  Dit Verdrag kan worden gewijzigd bij een besluit van twee derde van de Partijen bij het Verdrag. Een wijzigingsvoorstel wordt ten minste acht weken van tevoren rondgezonden.   
+2.  Wijzigingen worden van kracht dertig dagen na de datum waarop twee derde van de Partijen de depositaris ervan in kennis hebben gesteld dat zij de op grond van hun nationale wetgeving vereiste formaliteiten met betrekking tot de wijzigingen hebben vervuld. De wijziging is dan bindend voor alle Leden.   
 
 ### Artikel  XV  
 
-####Wijzigingen
+####Opzegging
 
-1.  Dit Verdrag kan worden gewijzigd bij een besluit van tweederde van alle Partijen bij het Verdrag. Een wijzigingsvoorstel wordt ten minste acht weken van tevoren rondgezonden.   
-2.  De wijziging wordt van kracht dertig dagen na de datum waarop tweederde van de Partijen de depositaris ervan in kennis hebben gesteld dat zij de op grond van hun nationale wetgeving vereiste formaliteiten met betrekking tot de wijziging hebben vervuld. De wijziging is dan bindend voor alle leden en geassocieerde leden.   
+1.  Elke Partij bij dit Verdrag kan het opzeggen. Een Partij die dit Verdrag wenst op te zeggen, stelt de depositaris hiervan schriftelijk in kennis zes maanden voor de formele kennisgeving teneinde het Instituut in staat te stellen de andere Partijen bij dit Verdrag op de hoogte te stellen en zo nodig gesprekken te initiëren.   
+2.  Het formele besluit tot opzegging wordt van kracht zes maanden na de datum waarop dit besluit ter kennis van de depositaris is gebracht.   
 
 ### Artikel  XVI  
 
-####Opzegging
+####Inwerkingtreding
 
-1.  Elke Partij bij dit Verdrag kan dit opzeggen. De opzegging wordt van kracht drie maanden na de datum waarop hiervan kennisgeving is gedaan aan de depositaris.   
-2.  Een geassocieerd lid kan zijn lidmaatschap van het Instituut opzeggen. De opzegging wordt van kracht op de datum waarop hiervan kennisgeving is gedaan aan de depositaris.   
+1.  Het oorspronkelijke verdrag tussen de Leden die het Instituut hebben opgericht stond open voor ondertekening door de Staten die deelnamen aan de oprichtingsconferentie, gehouden in Stockholm op 27 februari 1995, en is op 28 februari 1995 van kracht geworden.   
+2.  Artikel VII van de Statuten is gewijzigd in overeenstemming met artikel XIV (het toenmalige artikel XV). De wijziging is op 17 juli 2003 van kracht geworden.   
 
 ### Artikel  XVII  
 
-####Inwerkingtreding
-
-1.  Dit Verdrag staat open voor ondertekening door Staten die deelnemen aan de oprichtingsconferentie, gehouden te Stockholm op 27 februari 1995, tot aan de datum van de tweede vergadering van de Raad.   
-2.  Dit Verdrag treedt in werking op de dag waarop ten minste drie Staten het hebben ondertekend en elkaar ervan in kennis hebben gesteld dat de op grond van hun nationale wetgeving vereiste formaliteiten zijn vervuld.   
-3.  Voor de Staten die op de datum van inwerkingtreding bedoelde kennisgeving niet kunnen doen, treedt het Verdrag in werking dertig dagen na ontvangst door de depositaris van de kennisgeving dat de op grond van de nationale wetgeving vereiste formaliteiten zijn vervuld.   
-
-### Artikel  XVIII  
-
 ####Toetreding
 
-Elke Staat of intergouvernementele organisatie kan de Secretaris-Generaal te allen tijde in kennis stellen van zijn c.q. haar verzoek om tot dit Verdrag toe te treden. Indien het verzoek wordt goedgekeurd door de Raad, treedt het Verdrag voor die Staat of intergouvernementele organisatie in werking dertig dagen na de datum van nederlegging van zijn c.q. haar akte van toetreding.  
+Elke Staat kan de Secretaris-Generaal te allen tijde in kennis stellen van zijn verzoek tot dit Verdrag toe te mogen treden. Indien het verzoek wordt goedgekeurd door de Raad, treedt het Verdrag voor die Staat in werking dertig dagen na de datum van de nederlegging van zijn akte van toetreding.  
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend in één exemplaar in de Engelse taal, dat zal worden nedergelegd bij de Secretaris-Generaal, die voor eensluidend gewaarmerkte afschriften zal doen toekomen aan alle leden van het Instituut. GEDAAN in de Engelse taal te Stockholm op 27 februari 1995.  
 
