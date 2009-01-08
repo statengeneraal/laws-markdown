@@ -53,7 +53,7 @@ Met ingang van 2006 vindt de uitbetaling van de eindejaarsuitkering plaats in de
 ###c. Uitbetaling procentuele eindejaarsuitkering betreffende het jaar 2007
 
 In november 2007 wordt de procentuele eindejaarsuitkering betaald van 1,6% van het maandsalaris over de periode van december 2006 tot en met november van 2007.    
-### 2.3  
+### 2.3 
 
 ####Nominale eindejaarsuitkering
 
@@ -63,12 +63,12 @@ Ook voor de nominale eindejaarsuitkering zal de jaarlijkse betaalmaand wijzigen 
 ###b. Verhoging nominale eindejaarsuitkering vanaf 2007
 
 In november 2007 wordt de nominale eindejaarsuitkering betaald van € 1100,00. Deze uitkering wordt over de periode van december 2006 tot en met november van 2007 opgebouwd met € 91,67 (= € 1100/12) per maand. Het bedrag van de nominale eindejaarsuitkering wordt vanaf 2007 geïndexeerd met het percentage van de algemene salariswijziging voor het personeel werkzaam in de sector Rijk.    
-### 2.4  
+### 2.4 
 
 ####Doorwerking naar uitkeringen en pensioenen
 
 Zowel de structurele salarisverhoging als de structurele verhoging van de procentuele en nominale eindejaarsuitkering hebben een algemeen karakter en werken daarom door naar alle voor 1 januari 2006 ingegane ontslaggebonden uitkeringen, zoals de wachtgelden op basis van het [Rijkswachtgeldbesluit 1959](../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md) en de uitkeringen op basis van de [Uitkeringsregeling 1966](../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md), de [Suppletieregeling gedeeltelijk arbeidsongeschikten sector Rijk](../../../../../../../AMvB/suppletieregeling/gedeeltelijk/arbeidsongeschikten/sector/rijk/BWBR0007758/README.md), het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk](../../../../../../../AMvB/besluit/bovenwettelijke/uitkeringen/bij/werkloosheid/voor/de/sector/rijk/BWBR0008114/README.md) en het [Besluit ontslaguitkering substantieel bezwarende functies](../../../../../../../ministeriele-regeling/besluit/ontslaguitkering/substantieel/bezwarende/functies/BWBR0011088/README.md). Met het UWV vindt overleg plaats over de precieze uitvoering van de aan te passen uitkeringen. De structurele verhogingen van het salaris en de eindejaarsuitkering zijn pensioengevend.    
-### 2.5  
+### 2.5 
 
 ####Levensloopregeling rijkspersoneel
 
@@ -96,12 +96,12 @@ De rijksregeling voor doorbetaald ouderschapsverlof beoogt de ambtenaar een inko
 
 ####Ad 3. Vaste eindejaarsuitkering en tegemoetkoming [Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md)
 
-### 3.1  
+### 3.1 
 
-####Nominale eindejaarsuitkering
+#### Nominale eindejaarsuitkering
 
 Zie hiervoor onderdeel 2.3    
-### 3.2  
+### 3.2 
 
 ####Tegemoetkoming
 
@@ -111,13 +111,13 @@ Met ingang van 1 januari 2006 komt het [Btzr](../../../../../../../AMvB/besluit
 ###b. Eenmalige uitkering voor partners e.d.
 
 Ambtenaren die in december 2005 recht hadden op een Btzr-tegemoetkoming voor een partner als bedoeld in [artikel 1, eerste lid, onderdeel b, onder 1°, van de Btzr](../../../../../../../AMvB/besluit/tegemoetkoming/ziektekosten/rijkspersoneel/BWBR0006855/README.md) ontvangen in februari 2006 een eenmalige bruto uitkering van € 450,00 vermenigvuldigd met de deeltijdfactor, zoals die gold op 1 december 2005. De deeltijdfactor mag niet groter zijn dan één. De eenmalige uitkering behoort tot de variabele toelagen, die tot het pensioengevend inkomen horen per 1 januari van het jaar volgend op het jaar waarin deze zijn genoten. 
-###c. Intrekking [Regeling ziektekostenvoorziening rijkspersoneel](../../../../../../../AMvB/regeling/ziektekostenvoorziening/rijkspersoneel/BWBR0008818/README.md) (Zvr-regeling)
+###c. Intrekking [Regeling ziektekostenvoorziening rijkspersoneel ](../../../../../../../AMvB/regeling/ziektekostenvoorziening/rijkspersoneel/BWBR0008818/README.md)(Zvr-regeling)
 
 Met ingang van 1 januari 2006 komt de [Zvr-regeling](../../../../../../../AMvB/regeling/ziektekostenvoorziening/rijkspersoneel/BWBR0008818/README.md) te vervallen. Ambtenaren en andere betrokkenen in de zin van de [Zvr-regeling](../../../../../../../AMvB/regeling/ziektekostenvoorziening/rijkspersoneel/BWBR0008818/README.md) kunnen ook over 2005 dan wel over een resterende periode over 2005 nog een aanvraag voor een Zvr-tegemoetkoming indienen.     
 
 ####Ad 4. Aanvulling in het eerste ziektejaar
 
-Omdat het op grond van de [WIA](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) mogelijk is tot een versnelde arbeidsongeschikt-heidskeuring over te gaan, is in de Arbeidsvoorwaardenovereenkomst de afspraak gemaakt dat indien deze keuring leidt tot een IVA-uitkering deze uitkering gedurende het eerste ziektejaar wordt aangevuld tot 100%.    
+Omdat het op grond van de[ WIA](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) mogelijk is tot een versnelde arbeidsongeschikt-heidskeuring over te gaan, is in de Arbeidsvoorwaardenovereenkomst de afspraak gemaakt dat indien deze keuring leidt tot een IVA-uitkering deze uitkering gedurende het eerste ziektejaar wordt aangevuld tot 100%.    
 
 ####Ad 6. Regeling kinderopvang
 
@@ -152,7 +152,7 @@ In de praktijk blijken de wettelijke voorzieningen en rechten van ondernemingsra
 
 ####Overige onderwerpen
 
-Voor de onderwerpen uit de paragrafen 3 het 6 <sup>e</sup> punt, 5, 7, 8, 10 en 12 t/m 14 van de arbeidsvoorwaardenovereenkomst treft u geen nadere toelichting aan in deze circulaire, maar verwijs ik u naar de tekst van de overeenkomst.    
+Voor de onderwerpen uit de paragrafen 3 het 6<sup>e</sup> punt, 5, 7, 8, 10 en 12 t/m 14 van de arbeidsvoorwaardenovereenkomst treft u geen nadere toelichting aan in deze circulaire, maar verwijs ik u naar de tekst van de overeenkomst.    
 ### IV  
 
 ####Slotopmerkingen
@@ -170,7 +170,7 @@ Zodra de formalisering, voor zover noodzakelijk, van de overeengekomen maatregel
 | 2.5.b.3 Levensloop  | Wilmar Hagg  | 070 426 7663  | Wilmar.Hagg@minbzk.nl  |
 | 2.5.c/d Levensloop  | John van Baarle  | 070 426 7661  | John.Baarle@minbzk.nl  |
 | 3.2 Btzr/Zvr  | Chris van Ogtrop  | 070 426 6900  | Chris.Ogtrop@minbzk.nl  |
-| 4 Aanvulling 1 <sup>e</sup> ziektejaar  | Wilmar Hagg  | 070 426 7663  | Wilmar.Hagg@minbzk.nl  |
+|  4 Aanvulling 1<sup>e</sup> ziektejaar  | Wilmar Hagg  | 070 426 7663  | Wilmar.Hagg@minbzk.nl  |
 | 5 Regeling SBF  | Wilmar Hagg  | 070 426 7663  | Wilmar.Hagg@minbzk.nl  |
 | 6 Reg. kinderopvang  | Nelly Riksen  | 070 426 6450  | Nelly.Riksen@minbzk.nl  |
 | 7 Verg. dienstreizen  | Coen Terbrack  | 070 426 7514  | Coen.Terbrack@minbzk.nl  |
@@ -185,25 +185,25 @@ Zodra de formalisering, voor zover noodzakelijk, van de overeengekomen maatregel
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze: de 
 Directeur-Generaal Management Openbare Sector, 
-R.IJ.M.Kuipers  
+R.IJ.M. Kuipers    
 
 ### Bijlage  1  
 
 ####Arbeidsvoorwaardenovereenkomst Sector Rijk 2005–2006
 
+![229037](http://wetten.overheid.nl/Illustration/229037)
+![229038](http://wetten.overheid.nl/Illustration/229038)
+![229039](http://wetten.overheid.nl/Illustration/229039)
+![229040](http://wetten.overheid.nl/Illustration/229040)
+![229041](http://wetten.overheid.nl/Illustration/229041)
+![229042](http://wetten.overheid.nl/Illustration/229042)
+![229043](http://wetten.overheid.nl/Illustration/229043)
 ![229044](http://wetten.overheid.nl/Illustration/229044)
-![229044](http://wetten.overheid.nl/Illustration/229044)
-![229044](http://wetten.overheid.nl/Illustration/229044)
-![229044](http://wetten.overheid.nl/Illustration/229044)
-![229044](http://wetten.overheid.nl/Illustration/229044)
-![229044](http://wetten.overheid.nl/Illustration/229044)
-![229044](http://wetten.overheid.nl/Illustration/229044)
-![229044](http://wetten.overheid.nl/Illustration/229044)
-![229044](http://wetten.overheid.nl/Illustration/229044)
-![229044](http://wetten.overheid.nl/Illustration/229044)
-![229044](http://wetten.overheid.nl/Illustration/229044)
+![229045](http://wetten.overheid.nl/Illustration/229045)
+![229046](http://wetten.overheid.nl/Illustration/229046)
+![229047](http://wetten.overheid.nl/Illustration/229047)
 
-### Bijlage  2  
+### Bijlage  2 
 
 ####Inpassingstabel per 1 januari 2006 voor de salarisbedragen
 
@@ -274,7 +274,7 @@ R.IJ.M.Kuipers
 | B  | 8838,15  | 9014,91  |
 | C  | 9422,06  | 9610,50  |
 
-### Bijlage  3  
+### Bijlage 3 
 
 ####Schalen van het [BBRA 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) per 1 januari 2006 ( 2%-stijging)
 

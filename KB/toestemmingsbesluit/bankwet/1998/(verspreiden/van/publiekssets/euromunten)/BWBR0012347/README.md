@@ -13,7 +13,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Wij verlenen goedkeuring aan De Nederlandsche Bank N.V. om werkzaamheden te verrichten ten behoeve van het ter gewenning aan het publiek ter beschikking stellen van euromunten, voorafgaand aan de invoering van de chartale euro.  
+Wij verlenen goedkeuring aan De Nederlandsche Bank N.V. om werkzaamheden te verrichten ten behoeve van het ter gewenning aan het publiek ter beschikking stellen van euromunten, voorafgaand aan de invoering van de chartale euro. 
 
 ### Artikel  2  
 

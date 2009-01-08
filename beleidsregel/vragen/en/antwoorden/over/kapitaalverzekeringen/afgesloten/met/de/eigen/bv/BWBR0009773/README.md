@@ -8,23 +8,23 @@ De plv. Directeur-Generaal der Belastingen heeft namens de Staatssecretaris van 
 
 Bij Besluit van 10 augustus 1995, nr. DB95/3186M, Infobulletin 1995/722 (hierna ook: het Besluit), is een richtsnoer voor de uitvoeringspraktijk gegeven voor kapitaalverzekeringen die door directeuren/ grootaandeelhouders (hierna: digra’s) worden overeengekomen met een zogenoemde eigen besloten vennootschap (hierna: de BV). Hiermee is beoogd de onzekerheid over de fiscale behandeling van dergelijke kapitaalverzekeringen zoveel mogelijk weg te nemen. Voorts is het oogmerk daarvan geweest voor de digra's en de adviespraktijk een bruikbaar handvat te bieden voor een zodanige vormgeving van de kapitaalverzekering met de BV dat bij navolging daarvan van de zijde van de fiscus geen problemen zijn te verwachten. Met het oog op de uitvoering van het besluit en voor de behandeling van bepaalde individuele gevallen heeft de Belastingdienst de Werkgroep Kapitaalverzekering met de eigen BV (hierna: de Werkgroep) ingesteld. Sedert haar oprichting heeft de Werkgroep een aantal individuele gevallen behandeld en vele vragen over de feitelijke toepassing van het Besluit beantwoord. Deze werkzaamheden hebben inzicht gegeven in de vragen die in de praktijk nog bestaan over de wijze van toepassen van het besluit in bepaalde situaties. Ten behoeve van de uitvoeringspraktijk geef ik hierna de antwoorden weer van de Werkgroep op de meest gestelde vragen over kapitaalverzekeringen overeengekomen met de eigen BV. Ook deze antwoorden kunnen als richtsnoer voor de uitvoeringspraktijk fungeren. Opgemerkt zij dat de vragen en antwoorden zijn gerangschikt conform de indeling op hoofdthema's van het Besluit van 10 augustus 1995. Dit houdt de volgende indeling in: 
 
-A. Tijdstip totstandkoming.  
+A.Tijdstip totstandkoming.
 
-B. Formele criteria: begrip levensverzekering.  
+B.Formele criteria: begrip levensverzekering.
 
-C. Materiële criteria: realiteitsgehalte.  
+C.Materiële criteria: realiteitsgehalte.
 
-D. Gevolgen niet voldoen aan criteria.  
+D.Gevolgen niet voldoen aan criteria.
 
-E. Uitdelingsaspecten.  
+E.Uitdelingsaspecten.
 
-F. Polisbelening en premiefinanciering.  
+F.Polisbelening en premiefinanciering.
 
-G. Winstbepaling vennootschap.  
+G.Winstbepaling vennootschap.
 
-H. Overgangsaspecten.  
+H.Overgangsaspecten.
 
-I. Overige aspecten.   Van de Werkgroep heb ik vernomen dat gelet op de grote aantallen kapitaalverzekeringen die met een eigen BV zijn gesloten, het in de praktijk niet altijd mogelijk is gebleken overeenkomsten die niet voldoen aan de richtlijnen van het Besluit, aan te passen vóór 1 juli 1996. In paragraaf 11 van het Besluit is goedgekeurd dat aanpassing van de overeenkomst vóór die datum ertoe zal leiden dat de kapitaalverzekering vanaf het tijdstip van ontstaan daarvan geacht wordt te voldoen aan de in het Besluit neergelegde richtlijnen. Gelet op de in de praktijk gerezen problemen heb ik aanleiding gevonden de periode van aanpassing te verlengen tot 1 januari 1999. Aangezien het genoemde Besluit tezamen met de onderhavige vragen en antwoorden voldoende houvast biedt voor de uitvoeringspraktijk van de materie kapitaalverzekering met de eigen BV, is de Werkgroep thans opgeheven. Belanghebbenden en hun adviseurs dienen nieuwe vragen met betrekking tot dit onderwerp in beginsel voor te leggen aan de bevoegde inspecteur. De inspecteur dient zich te wenden tot de vakgroepcoördinator, het technisch team of de actuarieel deskundige van de eenheid.    
+I.Overige aspecten. Van de Werkgroep heb ik vernomen dat gelet op de grote aantallen kapitaalverzekeringen die met een eigen BV zijn gesloten, het in de praktijk niet altijd mogelijk is gebleken overeenkomsten die niet voldoen aan de richtlijnen van het Besluit, aan te passen vóór 1 juli 1996. In paragraaf 11 van het Besluit is goedgekeurd dat aanpassing van de overeenkomst vóór die datum ertoe zal leiden dat de kapitaalverzekering vanaf het tijdstip van ontstaan daarvan geacht wordt te voldoen aan de in het Besluit neergelegde richtlijnen. Gelet op de in de praktijk gerezen problemen heb ik aanleiding gevonden de periode van aanpassing te verlengen tot 1 januari 1999. Aangezien het genoemde Besluit tezamen met de onderhavige vragen en antwoorden voldoende houvast biedt voor de uitvoeringspraktijk van de materie kapitaalverzekering met de eigen BV, is de Werkgroep thans opgeheven. Belanghebbenden en hun adviseurs dienen nieuwe vragen met betrekking tot dit onderwerp in beginsel voor te leggen aan de bevoegde inspecteur. De inspecteur dient zich te wenden tot de vakgroepcoördinator, het technisch team of de actuarieel deskundige van de eenheid.    
 ### A  
 
 ####Tijdstip totstandkoming

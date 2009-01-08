@@ -8,11 +8,11 @@ Overwegende dat het gewenst is een bijzondere regeling te treffen voor het verri
 Gelet op artikel 17, lid 9, 23, lid 11 en 25 [lid 1](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md);
 
 Gehoord de Bijzondere Commissie van het ministerie van Onderwijs, Cultuur en Wetenschappen;
-Besluiten:    
+Besluiten:     
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder:   a.  *ROB:*   Rijksdienst voor het Oudheidkundig Bodemonderzoek;    b.  *NISA:*   Nederlands Instituut voor Scheeps- en onderwater Archeologie;    c.  *bevoegd gezag:*   directeur van de ROB;    d.  *veldwerkdag:*   ingeplande duikdag waarop door de medewerkers van het duikteam, ten behoeve van het archeologisch onderzoek onder water, arbeid wordt verricht.     
+In dit besluit wordt verstaan onder: a.*ROB:* Rijksdienst voor het Oudheidkundig Bodemonderzoek;b.*NISA:* Nederlands Instituut voor Scheeps- en onderwater Archeologie;c.*bevoegd gezag:* directeur van de ROB;d.*veldwerkdag:* ingeplande duikdag waarop door de medewerkers van het duikteam, ten behoeve van het archeologisch onderzoek onder water, arbeid wordt verricht.  
 
 ### Artikel  2  
 
@@ -40,12 +40,12 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 
 ### Artikel  7  
 
-Dit besluit kan worden aangehaald als ’Besluit overwerkvergoeding en onregelmatigheidstoeslag duikteam ROB/NISA’.  
+Dit besluit kan worden aangehaald als ’Besluit overwerkvergoeding en onregelmatigheidstoeslag duikteam ROB/NISA’. 
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschappen, 
-L.M.L.H.A.Hermans 
+L.M.L.H.A. Hermans  
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+Minister van Binnenlandse Zaken en Koninkrijksrelaties,
 A.Peper    

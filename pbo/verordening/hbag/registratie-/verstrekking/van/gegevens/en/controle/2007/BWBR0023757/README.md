@@ -15,7 +15,7 @@ Besluit:
 
 In deze verordening wordt overgenomen de terminologie van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel en wordt verder verstaan onder: 
 
-– commissie: de commissie pootaardappelen, de commissie consumptie-, fabrieks- en voeraardappelen, de commissie bloemkwekerijproducten, respectievelijk de commissie groenten en fruit van het hoofdbedrijfschap.    
+– commissie: de commissie pootaardappelen, de commissie consumptie-, fabrieks- en voeraardappelen, de commissie bloemkwekerijproducten, respectievelijk de commissie groenten en fruit van het hoofdbedrijfschap.   
 
 ### §  2  
 
@@ -34,7 +34,7 @@ In deze verordening wordt overgenomen de terminologie van het Instellingsbesluit
 a. uitsluitend worden gebruikt ter vervulling van de taak van het hoofdbedrijfschap respectievelijk van de commissies;  
 
 b. niet, onder vermelding of aanduiding van de persoon en/of onderneming waarop zij betrekking hebben, worden bekendgemaakt aan anderen dan personeelsleden van het hoofdbedrijfschap respectievelijk de betrokken commissie alsmede - voor zover het kennis nemen van de gegevens voor die controle noodzakelijk is - aan de door het dagelijks bestuur van het hoofdbedrijfschap respectievelijk van de betrokken commissie met de controle op het financiële beheer van het hoofdbedrijfschap respectievelijk de betrokken commissie belaste registeraccountants en hun personeel.     
-8.  Bij deze verordening is gevoegd een bijlage betreffende de sector van de bloemkwekerijproducten, welke een uitgewerkte lijst van gegevens bevat die zijn opgenomen in het betreffende register.   
+8.  Bij deze verordening is gevoegd een bijlage betreffende de sector van de bloemkwekerijproducten, welke een uitgewerkte lijst van gegevens bevat die zijn opgenomen in het betreffende register.  
 
 ### §  3  
 
@@ -109,7 +109,7 @@ f. De importeurs en importagenten in groenten en fruit, uitoefenend de import en
 
 – wordt hij voor deze ex- en import niet geacht te behoren tot genoemde functiegroepen e of f, maar wordt deze omzet gevoegd bij zijn omzet in de genoemde functiegroepen, waarin hij voor het overige de hoogste omzet heeft behaald.    
 
-* bij andere gegevens als bedoeld in het eerste lid sub f van dit artikel mede begrepen de veilinglocatie(s) als plaats van verhandeling.     
+* bij andere gegevens als bedoeld in het eerste lid sub f van dit artikel mede begrepen de veilinglocatie(s) als plaats van verhandeling.    
 
 ### §  4  
 
@@ -127,7 +127,7 @@ c) het telefoonnummer;
 
 d) eventueel het lidmaatschap van de privaatrechtelijke organisatie die gerechtigd is tot het benoemen van een lid/leden van een commissie.  
 
-e) andere door het bestuur van het hoofdbedrijfschap respectievelijk van een commissie aan te wijzen gegevens die voor de vervulling van de taak van het hoofdbedrijfschap respectievelijk van de betrokken commissie van belang zijn.    
+e) andere door het bestuur van het hoofdbedrijfschap respectievelijk van een commissie aan te wijzen gegevens die voor de vervulling van de taak van het hoofdbedrijfschap respectievelijk van de betrokken commissie van belang zijn.   
 
 ### §  5  
 
@@ -141,7 +141,7 @@ a) het nummer waaronder de onderneming wordt geregistreerd (registratienummer);
 
 b) de lijst van gegevens zoals die worden opgenomen in het register;  
 
-c) het beheer van de gegevens.    
+c) het beheer van de gegevens.   
 
 ### §  6  
 
@@ -172,7 +172,7 @@ f) een zelfstandig door het hoofdbedrijfschap c.q. een commissie ingesteld onder
 
 g) een combinatie van de hiervoor genoemde bronnen.     
 5.  De gegevens over het lidmaatschap van de privaatrechtelijke organisatie die gerechtigd is tot het benoemen van een lid/leden van een commissie kunnen worden ontleend aan de opgave van die organisatie.   
-6.  De secretaris van het hoofdbedrijfschap respectievelijk de secretaris van een commissie is bevoegd de ondernemer op te dragen de gevraagde gegevens te verstrekken of doen verstrekken aan een door hem aangewezen publiekrechtelijk lichaam, overheidsstichting of ander lichaam dat met een publiekrechtelijke taak is belast, dan wel een natuurlijk of rechtspersoon, waarvan de directie en het personeel tot geheimhouding van aan hen bekend geworden zaken- en bedrijfsgeheimen of andere vertrouwelijke gegevens van de ondernemers zijn verplicht respectievelijk die aangesloten is bij een organisatie welke haar leden aan tuchtrecht onderwerpt.   
+6.  De secretaris van het hoofdbedrijfschap respectievelijk de secretaris van een commissie is bevoegd de ondernemer op te dragen de gevraagde gegevens te verstrekken of doen verstrekken aan een door hem aangewezen publiekrechtelijk lichaam, overheidsstichting of ander lichaam dat met een publiekrechtelijke taak is belast, dan wel een natuurlijk of rechtspersoon, waarvan de directie en het personeel tot geheimhouding van aan hen bekend geworden zaken- en bedrijfsgeheimen of andere vertrouwelijke gegevens van de ondernemers zijn verplicht respectievelijk die aangesloten is bij een organisatie welke haar leden aan tuchtrecht onderwerpt.  
 
 ### §  7  
 
@@ -182,7 +182,7 @@ g) een combinatie van de hiervoor genoemde bronnen.
 
 1.  De ondernemer is verplicht toe te staan, dat door of vanwege het hoofdbedrijfschap c.q. de commissies - voor zover nodig in verband met de uitvoering onderscheidenlijk het toezicht op de naleving van de verordeningen en besluiten van het hoofdbedrijfschap c.q. een commissie - inzage wordt genomen van boeken en bescheiden van een door hem gedreven onderneming, dan wel de bedrijfsmiddelen of voorraden van die onderneming worden bezichtigd en opgenomen. Hij is gehouden aan de inzage, bezichtiging of opneming de nodige medewerking te verlenen.   
 2.  De inzage, bezichtiging of opneming vindt slechts plaats door de secretaris van het hoofdbedrijfschap c.q. de secretaris van een commissie of personen, die daartoe aan de ondernemer een schriftelijke opdracht van de secretaris van het hoofdbedrijfschap respectievelijk de secretaris van een commissie kunnen overleggen, welke opdracht het doel waarvoor de inzage, bezichtiging of opname plaatsvindt dient te vermelden.   
-3.  De secretaris van het hoofdbedrijfschap c.q. de secretaris van een commissie geeft opdrachten als bedoeld in het voorgaande lid uitsluitend aan personeelsleden van het hoofdbedrijfschap respectievelijk van de betrokken commissie en aan de directie of het personeel van het accountantskantoor dat door het dagelijks bestuur van het hoofdbedrijfschap respectievelijk van de betrokken commissie is belast met de controle op het financieel beheer van het hoofdbedrijfschap respectievelijk van de betrokken commissie dan wel aan door het bestuur van het hoofdbedrijfschap respectievelijk van de betrokken commissie aangewezen accountantskantoren, aangesloten bij een organisatie, die haar leden aan tuchtrecht onderwerpt.   
+3.  De secretaris van het hoofdbedrijfschap c.q. de secretaris van een commissie geeft opdrachten als bedoeld in het voorgaande lid uitsluitend aan personeelsleden van het hoofdbedrijfschap respectievelijk van de betrokken commissie en aan de directie of het personeel van het accountantskantoor dat door het dagelijks bestuur van het hoofdbedrijfschap respectievelijk van de betrokken commissie is belast met de controle op het financieel beheer van het hoofdbedrijfschap respectievelijk van de betrokken commissie dan wel aan door het bestuur van het hoofdbedrijfschap respectievelijk van de betrokken commissie aangewezen accountantskantoren, aangesloten bij een organisatie, die haar leden aan tuchtrecht onderwerpt.  
 
 ### §  8  
 
@@ -191,7 +191,7 @@ g) een combinatie van de hiervoor genoemde bronnen.
 ### Artikel  8  
 
 1.  Op overtreding door de ondernemer van het bepaalde bij of krachtens deze verordening kunnen tuchtrechtelijke maatregelen worden gesteld.   
-2.  Het bevoegde tuchtgerecht is het tuchtgerecht van het Hoofdproductschap Akkerbouw.   
+2.  Het bevoegde tuchtgerecht is het tuchtgerecht van het Hoofdproductschap Akkerbouw.  
 
 ### §  9  
 
@@ -199,15 +199,15 @@ g) een combinatie van de hiervoor genoemde bronnen.
 
 ### Artikel  9  
 
-Deze verordening vervangt de [HBAG-Registratie-, enquête- en controleverordening 2003](../../../../../../../../../../../pbo/hbag-registratie-/enquête-/en/controleverordening/2003/BWBR0014580/README.md).  
+Deze verordening vervangt de [HBAG-Registratie-, enquête- en controleverordening 2003](../../../../../../../../../../../pbo/hbag-registratie-/enquête-/en/controleverordening/2003/BWBR0014580/README.md). 
 
 ### Artikel  10  
 
-Deze verordening treedt in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie.  
+Deze verordening treedt in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie. 
 
 ### Artikel  11  
 
-Deze verordening kan worden aangehaald als: Verordening HBAG registratie-, verstrekking van gegevens en controle 2007.  
+Deze verordening kan worden aangehaald als: Verordening HBAG registratie-, verstrekking van gegevens en controle 2007. 
 
 Aalsmeer 
 21 december 2006   
@@ -218,7 +218,7 @@ voorzitter
 P.M.M. van Ostaijen  
 secretaris   
 
-### Bijlage  
+### Bijlage 
 
 ####betreffende de sector van de bloemkwekerijproducten
 
@@ -259,14 +259,14 @@ Deze gegevens zijn opgenomen in het register onder:
 | Handelsregisternummer  | Het nummer van het dossier bij de K.v.K., waarin de vestiging is opgenomen.  |
 | --- | --- |
 | Grootteklasse  | Klassenindeling fulltime en parttime werkzame personen. Een code die de omvangsklasse aangeeft van het aantal fulltime werkzame personen enerzijds en het aantal parttime werkzame personen anderzijds.  |
-| --- | Grootteklasse  | 1 = minder dan 2 personen  |
-| --- | --- | 2 = 2 tot 5  | ”  |
-| --- | --- | 3 = 5 tot 10  | ”  |
-| --- | --- | 4 = 10 tot 20  | ”  |
-| --- | --- | 6 = 50 tot 100  | ”  |
-| --- | --- | 7 = 100 tot 200  | ”  |
-| --- | --- | 8 = 200 tot 500  | ”  |
-| --- | --- | 9 = 500 en meer  | ”  |
+| --- | Grootteklasse   | 1 = minder dan 2 personen  |
+| --- | --- | 2 = 2 tot 5   | ”  |
+| --- | --- | 3 = 5 tot 10   | ”  |
+| --- | --- | 4 = 10 tot 20   | ”  |
+| --- | --- | 6 = 50 tot 100   | ”  |
+| --- | --- | 7 = 100 tot 200   | ”  |
+| --- | --- | 8 = 200 tot 500   | ”  |
+| --- | --- | 9 = 500 en meer   | ”  |
 | --- | --- |
 | Rechtsvorm  | Een code die de vorm aangeeft waarin de onderneming, waartoe de vestiging behoort, aan het economisch verkeer deelneemt.  Code l = eenmanszaak  Code 2 = vennootschap onder firma  Code 3 = besloten vennootschap  Code 4 = naamloze vennootschap  Code 5 = coöperatieve vereniging  Code 6 = stichting  Code 7 = maatschap  Code 8 = commanditair vennootschap  Code 9 = rechtsvorm naar niet-Nederlands recht.  |
 | --- | --- |

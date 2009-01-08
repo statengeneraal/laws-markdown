@@ -13,13 +13,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####Wijziging [Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)
 
-Wijzigt de Wet op het voortgezet onderwijs.   
+Wijzigt de Wet op het voortgezet onderwijs. 
 
 ### Artikel  II  
 
 ####Wijziging [WEB](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md)
 
-Wijzigt de Wet educatie en beroepsonderwijs.   
+Wijzigt de Wet educatie en beroepsonderwijs. 
 
 ### Artikel  III  
 
@@ -40,23 +40,23 @@ Wijzigt de Wet educatie en beroepsonderwijs.
 13.  Onverminderd het twaalfde lid wordt een nevenvestiging die is gevormd bij of krachtens de [Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) zoals luidend voor de inwerkingtreding van deze wet aangemerkt als een nevenvestiging op grond van [artikel 16, tweede lid, van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) zoals luidend door artikel I, onderdeel L, van deze wet.   
 14.  Een tijdelijke nevenvestiging mavo die voor een bepaald tijdvak is gevormd op grond van een beleidsregel ex [artikel 75 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) zoals luidend voor de inwerkingtreding van deze wet, wordt voor de resterende duur van dat tijdvak aangemerkt als een tijdelijke nevenvestiging middelbaar algemeen voortgezet onderwijs op grond van deze wet onder de voorwaarde dat de instelling de vereiste gegevens verstrekt over het effect op de doorstroming in de beroepskolom en de groene invulling van de theoretische leerweg die nodig zijn voor de evaluatie van het experiment.   
 15.  Op geschillen die in bezwaar, beroep of hoger beroep aanhangig zijn of binnen de bezwaar- dan wel beroepstermijn dan wel verschoonbaar daarbuiten aanhangig worden gemaakt tegen besluiten die zijn genomen door de Minister van Onderwijs, Cultuur en Wetenschap of de Minister van Landbouw, Natuur en Voedselkwaliteit op grond van het eerste lid of op grond van [titel III, afdelingen I](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [III, van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en daarop berustende bepalingen zoals luidend op de dag voor de inwerkingtreding van de desbetreffende onderdelen van deze wet blijven de op die datum geldende regelingen van toepassing. Indien de uitspraak op een beroep als bedoeld in [artikel 72 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) zoals luidend voor de inwerkingtreding van deze wet strekt tot opneming van een school in het plan van scholen, is het tweede lid van overeenkomstige toepassing. De eerste volzin is hangende het bezwaar, beroep of hoger beroep van overeenkomstige toepassing op de bevoegdheid tot het intrekken en vervangen van besluiten die tot de aldaar bedoelde geschillen hebben geleid. De tweede volzin is van overeenkomstige toepassing op een afdeling voor voorbereidend beroepsonderwijs.   
-16.  Bij ministeriële regeling kunnen nadere voorschriften worden vastgesteld ten behoeve van een goede invoering van deze wet.   
+16.  Bij ministeriële regeling kunnen nadere voorschriften worden vastgesteld ten behoeve van een goede invoering van deze wet.  
 
 ### Artikel  IV  
 
-Vervallen.  
+Vervallen. 
 
 ### Artikel  V  
 
 ####Evaluatie
 
-Onze Minister van Onderwijs, Cultuur en Wetenschap zendt, in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit, binnen vijf jaar nadat deze wet in werking is getreden aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister van Onderwijs, Cultuur en Wetenschap zendt, in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit, binnen vijf jaar nadat deze wet in werking is getreden aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  VI  
 
 ####Inwerkingtreding
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -64,13 +64,13 @@ Tavarnelle
 11 juli 2008  
 Beatrix  
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-J. M. vanBijsterveldt-Vliegenthart 
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap , 
+J. M. van Bijsterveldt-Vliegenthart   
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit, 
-G.Verburg 
+De Minister van Landbouw, Natuur en Voedselkwaliteit , 
+G. Verburg   
 
 de *vierentwintigste* juli 2008 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

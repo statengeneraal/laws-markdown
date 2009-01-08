@@ -15,28 +15,28 @@ Hebben goedgevonden en verstaan:
 
 ### ARTIKEL  I  
 
-Wijzigt het Formatiebesluit WPO.   
+Wijzigt het Formatiebesluit WPO.  
 
 ### ARTIKEL  II  
 
-Wijzigt het Bekostigingsbesluit WPO.   
+Wijzigt het Bekostigingsbesluit WPO.  
 
 ### ARTIKEL  III  
 
-Wijzigt het Besluit trekkende bevolking WPO.   
+Wijzigt het Besluit trekkende bevolking WPO.  
 
 ### ARTIKEL  IV  
 
-Wijzigt het Rechtspositiebesluit onderwijspersoneel.   
+Wijzigt het Rechtspositiebesluit onderwijspersoneel.  
 
 ### ARTIKEL  V  
 
 1.  De in artikel I van dit besluit opgenomen wijzigingen van het [Formatiebesluit WPO](../../../../../../../../../../AMvB/formatiebesluit/wpo/BWBR0005441/README.md) zijn voor wat betreft de vaststelling van de formatie voor de eerste maal van toepassing op het schooljaar 2000–2001.   
-2.  De in artikel II van dit besluit opgenomen wijzigingen van het [Bekostigingsbesluit WPO](../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md) zijn voor wat betreft de vaststelling van de vergoedingen voor de materiële instandhouding voor de eerste maal van toepassing op het kalenderjaar 2001, met uitzondering van het nieuwe artikel 35, dat van toepassing is op de periode van 1 augustus 2000 tot en met 31 december 2000.   
+2.  De in artikel II van dit besluit opgenomen wijzigingen van het [Bekostigingsbesluit WPO](../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md) zijn voor wat betreft de vaststelling van de vergoedingen voor de materiële instandhouding voor de eerste maal van toepassing op het kalenderjaar 2001, met uitzondering van het nieuwe artikel 35, dat van toepassing is op de periode van 1 augustus 2000 tot en met 31 december 2000.  
 
 ### ARTIKEL  VI  
 
-De [artikelen 19a tot en met 19c van het Formatiebesluit WPO](../../../../../../../../../../AMvB/formatiebesluit/wpo/BWBR0005441/README.md) zoals die luidden op de dag voorafgaand aan de inwerkingtreding van dit besluit, blijven van toepassing voor de berekening van of geschillen betreffende de formatie voor de schooljaren waarop die artikelen betrekking hadden.  
+De [artikelen 19a tot en met 19c van het Formatiebesluit WPO](../../../../../../../../../../AMvB/formatiebesluit/wpo/BWBR0005441/README.md) zoals die luidden op de dag voorafgaand aan de inwerkingtreding van dit besluit, blijven van toepassing voor de berekening van of geschillen betreffende de formatie voor de schooljaren waarop die artikelen betrekking hadden. 
 
 ### ARTIKEL  VII  
 
@@ -44,18 +44,18 @@ In [artikel 19b, vierde lid, van het Formatiebesluit WPO](../../../../../../../.
 
 ### ARTIKEL  VIII  
 
-De tekst van het [Formatiebesluit WPO](../../../../../../../../../../AMvB/formatiebesluit/wpo/BWBR0005441/README.md) wordt in het Staatsblad geplaatst.  
+De tekst van het [Formatiebesluit WPO](../../../../../../../../../../AMvB/formatiebesluit/wpo/BWBR0005441/README.md) wordt in het Staatsblad geplaatst. 
 
 ### ARTIKEL  IX  
 
 1.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van de artikelen II en III.   
-2.  De artikelen II en III van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip. Laatstbedoeld besluit wordt niet genomen voordat vier weken zijn verstreken nadat het onderhavige besluit is overgelegd aan de Tweede Kamer der Staten-Generaal, en evenmin indien binnen die termijn door of namens de Tweede Kamer de wens te kennen wordt gegeven dat het in de artikelen II en III van dit besluit geregelde onderwerp bij wet wordt geregeld.   
+2.  De artikelen II en III van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip. Laatstbedoeld besluit wordt niet genomen voordat vier weken zijn verstreken nadat het onderhavige besluit is overgelegd aan de Tweede Kamer der Staten-Generaal, en evenmin indien binnen die termijn door of namens de Tweede Kamer de wens te kennen wordt gegeven dat het in de artikelen II en III van dit besluit geregelde onderwerp bij wet wordt geregeld.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 12 april 2000  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, 
 K. Y. I. J. Adelmund   
@@ -63,4 +63,4 @@ K. Y. I. J. Adelmund
 de *negende* mei 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

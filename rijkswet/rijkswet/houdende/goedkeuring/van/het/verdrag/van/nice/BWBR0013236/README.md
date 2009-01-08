@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Artikel  1  
 
-Het op 26 februari 2001 te Nice tot stand gekomen Verdrag van Nice houdende wijziging van het Verdrag betreffende de Europese Unie, de Verdragen tot oprichting van de Europese Gemeenschappen en sommige bijbehorende akten, met Protocollen, waarvan de tekst is geplaatst in Tractatenblad 2001, 47, wordt goedgekeurd voor het gehele Koninkrijk.  
+Het op 26 februari 2001 te Nice tot stand gekomen Verdrag van Nice houdende wijziging van het Verdrag betreffende de Europese Unie, de Verdragen tot oprichting van de Europese Gemeenschappen en sommige bijbehorende akten, met Protocollen, waarvan de tekst is geplaatst in Tractatenblad 2001, 47, wordt goedgekeurd voor het gehele Koninkrijk. 
 
 ### Artikel  2  
 

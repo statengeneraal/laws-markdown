@@ -4,11 +4,11 @@
 
 De Minister-President,  
 Handelende in overeenstemming met het gevoelen van de ministerraad;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder:   a. ambtelijke commissie:  de commissie genoemd in artikel 2;    b. ministeriële commissie:  de commissie genoemd in artikel 1 van het Instellingsbesluit ministeriële commissie voor martkwerking, deregulering en wetgevingskwaliteit.     
+In dit besluit wordt verstaan onder:   a. ambtelijke commissie:   de commissie genoemd in artikel 2;    b. ministeriële commissie:   de commissie genoemd in artikel 1 van het Instellingsbesluit ministeriële commissie voor martkwerking, deregulering en wetgevingskwaliteit.     
 
 ### Artikel  2  
 
@@ -18,9 +18,9 @@ Er is een ambtelijke commissie voor marktwerking, deregulering en wetgevingskwal
 
 1.  De ambtelijke commissie heeft, met het oog op de verbetering van de wetgevingskwaliteit, waarin begrepen de rechtshandhaving, de verbetering van de marktwerking en de vermindering van uit wet- en regelgeving voortvloeiende onevenredig zware lasten voor burgers, bedrijven en instellingen, tot taak: 
 
-a. het onderzoek van de door de ministeriële commissie akkoord bevonden onderwerpen te organiseren en te begeleiden;  
+a.  het onderzoek van de door de ministeriële commissie akkoord bevonden onderwerpen te organiseren en te begeleiden;  
 
-b. adviezen over deze onderwerpen uit te brengen aan de ministeriële commissie.     
+b.  adviezen over deze onderwerpen uit te brengen aan de ministeriële commissie.     
 2.  Hiernaast kan de ambtelijke commissie met eigen voorstellen komen ter verbetering van de wetgevingskwaliteit, ter verbetering van de marktwerking en ter vermindering van uit wet- en regelgeving voortvloeiende onevenredig zware lasten.   
 3.  De activiteiten kunnen betrekking hebben op zowel bestaande als voorgenomen wet- en regelgeving.   
 
@@ -28,17 +28,17 @@ b. adviezen over deze onderwerpen uit te brengen aan de ministeriële commissie.
 
 1.  Leden van de ambtelijke commissie zijn: 
 
-a. mr. L. A. Geelhoed, Ministerie van Economische Zaken, tevens voorzitter;  
+a.  mr. L. A. Geelhoed, Ministerie van Economische Zaken, tevens voorzitter;  
 
-b. mr. drs. R. K. Visser, Ministerie van Algemene Zaken;  
+b.  mr. drs. R. K. Visser, Ministerie van Algemene Zaken;  
 
-c. mr. D. van Dijk, Ministerie van Justitie;  
+c.  mr. D. van Dijk, Ministerie van Justitie;  
 
-d. mr. J. H. van Kreveld, Ministerie van Justitie;  
+d.  mr. J. H. van Kreveld, Ministerie van Justitie;  
 
-e. drs. H. Brouwer, Ministerie van Financiën;  
+e.  drs. H. Brouwer, Ministerie van Financiën;  
 
-f. mr. W. de Boer, Ministerie van Economische Zaken.     
+f.  mr. W. de Boer, Ministerie van Economische Zaken.     
 2.  Indien in de ambtelijke commissie een onderwerp aan de orde komt waarvoor geen van de in het eerste lid genoemde ministeries als eerste verantwoordelijke draagt, kan de minister die daarvoor wèl eerstverantwoordelijk is een vertegenwoordiger aanwijzen die voor de behandeling van dit onderwerp participeert in de ambtelijke commissie.   
 
 ### Artikel  5  
@@ -75,7 +75,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ### Artikel  12  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit ambtelijke commissie voor marktwerking, deregulering en wetgevingskwaliteit.  
+Dit besluit wordt aangehaald als: Instellingsbesluit ambtelijke commissie voor marktwerking, deregulering en wetgevingskwaliteit. 
 Dit besluit zal met de toelichting in de Nederlandse Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -83,4 +83,4 @@ Dit besluit zal met de toelichting in de Nederlandse Staatscourant worden geplaa
 
 De 
 Minister-President, 
-W.Kok    
+W. Kok      

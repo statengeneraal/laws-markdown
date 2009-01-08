@@ -43,6 +43,6 @@ Indien de burgemeester momenteel deelneemt aan een publiekrechtelijke ziektekost
 Informatie die betrekking heeft op politieke ambtsdragers, kunt u vinden op de internetsite van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties: www.minbzk.nl, openbaar bestuur, politieke ambtsdragers. Informatie over de Zorgverzekeringswet is te vinden op www.denieuwezorgverzekering.nl     
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze: de 
-directeur-generaal Koninkrijksrelaties en Bestuur, 
-L.A.M. vanHalder   
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze:de 
+directeur-generaal Koninkrijksrelaties en Bestuur,
+L.A.M. van Halder     

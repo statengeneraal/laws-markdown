@@ -8,14 +8,14 @@ Gelet op [artikel 1 van het Koninklijk besluit van 1 mei 1981](../../../../../..
 De Nederlandsche Bank N.V. gehoord;
 Besluit:    
 
-### Artikel  1  
+###Artikel  1  
 
-Het [besluit ondertoezichtstelling overige kapitaalmarktinstellingen](../../../../../../../../../../../../AMvB/besluit/ondertoezichtstelling/overige/kapitaalmarktinstellingen/BWBR0003397/README.md) is met van toepassing op de Nederlandse Waterschapsbank N.V.  
+Het [besluit ondertoezichtstelling overige kapitaalmarktinstellingen](../../../../../../../../../../../../AMvB/besluit/ondertoezichtstelling/overige/kapitaalmarktinstellingen/BWBR0003397/README.md) is met van toepassing op de Nederlandse Waterschapsbank N.V. 
 
-### Artikel  2  
+###Artikel  2  
 
-Deze beschikking, die in de Nederlandse Staatscourant wordt geplaatst, treedt in werking met ingang van 1 juli 1982.  
+Deze beschikking, die in de Nederlandse Staatscourant wordt geplaatst, treedt in werking met ingang van 1 juli 1982. 
 
 De 
 Minister van Financiën, 
-Van derStee    
+Van derStee      

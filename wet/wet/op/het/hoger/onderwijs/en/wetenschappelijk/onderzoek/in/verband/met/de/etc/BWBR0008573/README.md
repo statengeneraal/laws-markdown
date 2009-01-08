@@ -13,43 +13,43 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### ARTIKEL  I  
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  
 
 ### ARTIKEL  II  
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  
 
 ### ARTIKEL  III  
 
-Wijzigt de Wet op de ondernemingsraden.   
+Wijzigt de Wet op de ondernemingsraden.  
 
 ### ARTIKEL  IV  
 
-Wijzigt de wet van 4 juli 1996 (Stb. 434).   
+Wijzigt de wet van 4 juli 1996 (Stb. 434).  
 
 ### ARTIKEL  V  
 
-Wijzigt de wet van 28 maart 1996 (Stb. 226).   
+Wijzigt de wet van 28 maart 1996 (Stb. 226).  
 
 ### ARTIKEL  VI  
 
-Wijzigt de Wet op de studiefinanciering.   
+Wijzigt de Wet op de studiefinanciering.  
 
 ### ARTIKEL  XII  
 
 1.  Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst, met uitzondering van de in het tweede, derde en vierde lid genoemde bepalingen.   
 2.  Artikel I onderdeel N, derde lid, treedt in werking met ingang van 1 juli 1998.   
 3.  Artikel I onderdeel R, wat artikel 9.36 betreft, en artikel II treden in werking op een bij koninklijk besluit te bepalen tijdstip.   
-4.  Artikel IV treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin deze wet wordt geplaatst, en werkt terug tot en met 3 september 1996.   
+4.  Artikel IV treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin deze wet wordt geplaatst, en werkt terug tot en met 3 september 1996.  
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 27 februari 1997  
-Beatrix  
+Beatrix   
 
 De Minister van Onderwijs, Cultuur en Wetenschappen, 
-J. M. M. Ritzen   
+J. M. M. Ritzen    
 
 De Minister van Landbouw, Natuurbeheer en Visserij, 
 J. J. van Aartsen   

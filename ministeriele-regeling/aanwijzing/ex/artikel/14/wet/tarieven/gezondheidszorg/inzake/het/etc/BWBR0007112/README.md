@@ -20,26 +20,26 @@ a. voor zover die prestaties worden geleverd in de ziekenfondspraktijk een aanpa
 
 b. voor zover die prestaties worden geleverd in de particuliere praktijk een aanpassing van de maximumtarieven een opbrengst van f 204 mln. voor 1995 bewerkstelligt. Het aanvaardbaar kostenniveau voor de medisch specialistische hulp in de particuliere praktijk van het totaal van de in rekening te brengen tarieven is over 1995 maximaal f 1054.5 mln. (exclusief loon- en prijsbijstellingen en autonome volumegroei). Uitgaande van ongewijzigd beleid en een gelijkblijvend volume ten opzicht van 1993, zou het totaal van de in rekening te brengen tarieven f 204,5 mln. meer bedragen dan het aanvaardbare kostenniveau van f 1054,5 mln;  
 
-c. voor zover die prestaties worden geleverd in het kader van de [AWBZ](../../../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) -praktijk (zelfstandig declarerende psychiaters) een aanpassing van de maximumtarieven een opbrengst van f 47 mln. voor 1995 bewerkstelligt. Het aanvaardbaar kostenniveau voor de medisch specialistische hulp in de [AWBZ](../../../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) -praktijk van het totaal van de in rekening te brengen tarieven is over 1995 maximaal f 80 mln. Uitgaande van ongewijzigd beleid en een gelijkblijvend volume ten opzichte van 1993, zou het totaal van de in rekening te brengen tarieven f 62,5 mln. meer bedragen dan het aanvaardbare kostenniveau van f 80 mln. Revalidatie-geneeskunde is begrepen in 1 a en 1 b.     
+c. voor zover die prestaties worden geleverd in het kader van de [AWBZ](../../../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)-praktijk (zelfstandig declarerende psychiaters) een aanpassing van de maximumtarieven een opbrengst van f 47 mln. voor 1995 bewerkstelligt. Het aanvaardbaar kostenniveau voor de medisch specialistische hulp in de [AWBZ](../../../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)-praktijk van het totaal van de in rekening te brengen tarieven is over 1995 maximaal f 80 mln. Uitgaande van ongewijzigd beleid en een gelijkblijvend volume ten opzichte van 1993, zou het totaal van de in rekening te brengen tarieven f 62,5 mln. meer bedragen dan het aanvaardbare kostenniveau van f 80 mln.  Revalidatie-geneeskunde is begrepen in 1 a en 1 b.     
 2.  De afzonderlijke richtlijnen maken onderscheid naar specialisme indien VWS daartoe bij addendum bij deze aanwijzing op een nader te bepalen tijdstip voor definitieve vaststelling van de nieuwe tarieven opdracht geeft. In dit addendum wordt de wijze en het niveau van differentiatie aangegeven. Onderscheid naar specialisme of een niet generieke neerwaartse aanpassing, is ook mogelijk op basis van voorstellen van partijen terzake aan het Cotg en het Cotg daartoe besluit.   
-3.  In de bedoelde richtlijnen ter uitvoering van onderhavige aanwijzing wordt bepaald dat het Cotg bij het ontbreken van een verzoek tot goedkeuring of vaststelling van tarieven, ambtshalve gewijzigde tarieven vaststelt.   
+3.  In de bedoelde richtlijnen ter uitvoering van onderhavige aanwijzing wordt bepaald dat het Cotg bij het ontbreken van een verzoek tot goedkeuring of vaststelling van tarieven, ambtshalve gewijzigde tarieven vaststelt.  
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. 
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
 
-E. Borst-Eilers   
+E.Borst-Eilers  
 
 De 
 Minister van Economische Zaken, 
 
-G.J. Wijers   
+G.J.Wijers   
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschappen, 
 
-J.M.M. Ritzen      
+J.M.M.  Ritzen     

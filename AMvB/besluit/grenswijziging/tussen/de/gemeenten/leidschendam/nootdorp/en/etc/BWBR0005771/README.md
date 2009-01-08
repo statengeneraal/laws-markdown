@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Met ingang van de datum van herindeling wordt de grens tussen de gemeenten Leidschendam en Nootdorp als volgt gewijzigd: 
+1.  Met ingang van de datum van herindeling wordt de grens tussen de gemeenten Leidschendam en Nootdorp als volgt gewijzigd:  
 
 a. vanaf het snijpunt van de grens tussen de gemeenten Leidschendam en Rijswijk met de percelen, kadastraal bekend gemeente Stompwijk, sectie G, nrs. 1331 en 1340, volgt de nieuwe gemeentegrens de grens tussen de percelen, kadastraal bekend gemeente Stompwijk, sectie G, nrs. 1331 enerzijds en 1340, 1337 en 1338 anderzijds tot het noordoostelijk hoekpunt van laatstgenoemd perceel;  
 
@@ -28,16 +28,16 @@ d. van daar af volgt de nieuwe gemeentegrens in noordoostelijke richting een rec
 e. van daar af volgt de nieuwe gemeentegrens in zuidoostelijke richting de grens tussen de percelen, kadastraal bekend gemeente Stompwijk, sectie F, nrs. 3194 en 2078 tot de bestaande grens tussen de gemeenten Leidschendam en Nootdorp.  
 
 f. van daar af volgt de nieuwe gemeentegrens de grenzen tussen de percelen, kadastraal bekend gemeente Nootdorp, sectie A, nrs. 1764, 1596, 1544, 3087, 1465, 1844, 1845, 1846, 1468 en wederom 1846 enerzijds en 1763, 1781, 1015, 1459, 1017, 1192, 1044, 1847, 1066, 1783 en 1470 anderzijds tot aan de bestaande grens tussen Nootdorp en Zoetermeer.     
-2.  Met ingang van de datum van herindeling wordt de grens tussen de gemeenten Leidschendam en Zoetermeer als volgt gewijzigd: 
+2.   Met ingang van de datum van herindeling wordt de grens tussen de gemeenten Leidschendam en Zoetermeer als volgt gewijzigd:  
 
 a. vanaf het punt dat in het eerste lid het laatst is beschreven volgt de nieuwe gemeentegrens in noordwestelijke richting de bestaande grens tussen de gemeenten Nootdorp en Zoetermeer tot het noordwestelijke hoekpunt van het perceel, kadastraal bekend gemeente Zoetermeer, sectie H, nr. 297;  
 
 b. van daar af volgt de nieuwe gemeentegrens in oostelijke richting de grens tussen de percelen, kadastraal bekend gemeente Zoetermeer, sectie H, nrs. 296 enerzijds en 297, 290, 292, 294 en 295 anderzijds en vervolgens in noordoostelijke richting de grenzen tussen de percelen, kadastraal bekend gemeente Zoetermeer, sectie H, nrs. 296, 293, 175 en 280 enerzijds en sectie G, nrs. 333, 351, 285, 238 en 237 anderzijds tot aan de bestaande grens tussen de gemeenten Leidschendam en Zoetermeer.     
-3.  Met ingang van de datum van herindeling wordt de grens tussen de gemeenten Nootdorp en Zoetermeer als volgt gewijzigd: vanaf het punt dat in het eerste lid het laatst is vermeld volgt de nieuwe gemeentegrens in oostelijke richting de grens tussen de percelen, kadastraal bekend gemeente Zoetermeer, sectie H, nrs. 263 en 298 enerzijds en de percelen, kadastraal bekend gemeente Zoetermeer, sectie H, nrs. 264, 268, 269 en 210 anderzijds en vervolgens de grens tussen de percelen, kadastraal bekend gemeente Nootdorp, sectie B, nrs. 892, 689, 897 en 895 enerzijds en 898 anderzijds tot de bestaande grens tussen de gemeenten Nootdorp en Zoetermeer.   
+3.   Met ingang van de datum van herindeling wordt de grens tussen de gemeenten Nootdorp en Zoetermeer als volgt gewijzigd: vanaf het punt dat in het eerste lid het laatst is vermeld volgt de nieuwe gemeentegrens in oostelijke richting de grens tussen de percelen, kadastraal bekend gemeente Zoetermeer, sectie H, nrs. 263 en 298 enerzijds en de percelen, kadastraal bekend gemeente Zoetermeer, sectie H, nrs. 264, 268, 269 en 210 anderzijds en vervolgens de grens tussen de percelen, kadastraal bekend gemeente Nootdorp, sectie B, nrs. 892, 689, 897 en 895 enerzijds en 898 anderzijds tot de bestaande grens tussen de gemeenten Nootdorp en Zoetermeer.  
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

@@ -19,17 +19,17 @@ de brief van het Ambtenarencentrum van 15 februari 1994, nr. 47;     Besluit:
 
 Er is een Buitengewone Bijzondere Commissie USZO die, met inachtneming van de ter zake neergelegde bepalingen in het [Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), het [Burgerlijk Ambtenarenreglement Defensie](../../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), het Algemeen Rechtspositiereglement Informatie Beheer Groep en het Arbeidsvoorwaardenreglement-Abp en de hieruit voortvloeiende uitvoeringsbepalingen, tot taak heeft te adviseren inzake de voorgenomen samenvoeging en verzelfstandiging van: 
 
-a. de Dienst Uitvoering Ontslaguitkeringsregelingen van het ministerie van Binnenlandse Zaken;  
+a. de Dienst Uitvoering Ontslaguitkeringsregelingen van het ministerie van Binnenlandse Zaken; 
 
-b. de Dienst Sociale Zekerheid Militairen van het ministerie van Defensie;  
+b. de Dienst Sociale Zekerheid Militairen van het ministerie van Defensie; 
 
-c. de produktgroep Uitkeringen Onderwijspersoneel van de Informatie Beheer Groep;  
+c. de produktgroep Uitkeringen Onderwijspersoneel van de Informatie Beheer Groep; 
 
-d. de bedrijfseenheid Sociale Zekerheid van het Algemeen burgerlijk pensioenfonds.    
+d. de bedrijfseenheid Sociale Zekerheid van het Algemeen burgerlijk pensioenfonds.  
 
 ### Artikel  2  
 
-Overleg wordt gevoerd namens de onder artikel 1, onder a, tot en met d, genoemde diensteenheden met name Buitengewone Bijzondere Commissie door de voorzitter van de Stuurgroep USZO.  
+Overleg wordt gevoerd namens de onder artikel 1, onder a, tot en met d, genoemde diensteenheden met name Buitengewone Bijzondere Commissie door de voorzitter van de Stuurgroep USZO. 
 
 ### Artikel  3  
 
@@ -39,7 +39,7 @@ de secretaris van de Stuurgroep USZO;
 
 de hoofddirecteur van de Uitvoeringsinstelling Sociale Zekerheid voor Overheid en onderwijs;  
 
-andere personen, waarvan de voorzitter van de stuurgroep het wenselijk acht dat zij aan het overleg deelnemen. In het secretariaat zal worden voorzien door het ministerie van Binnenlandse Zaken, directoraat-generaal Management en Personeelsbeleid.    
+andere personen, waarvan de voorzitter van de stuurgroep het wenselijk acht dat zij aan het overleg deelnemen. In het secretariaat zal worden voorzien door het ministerie van Binnenlandse Zaken, directoraat-generaal Management en Personeelsbeleid.   
 
 ### Artikel  4  
 
@@ -65,11 +65,11 @@ de Bijzondere Commissie van de Informatie Beheer Groep;
 
 het Georganiseerd Overleg van het Algemeen burgerlijk pensioenfonds;  
 
-de in dit besluit genoemde functionarissen.    
+de in dit besluit genoemde functionarissen.   
 
 's-Gravenhage 
 1 september 1994    
 
 De 
 Minister van Binnenlandse Zaken, 
-H. F.Dijkstal    
+H. F. Dijkstal      

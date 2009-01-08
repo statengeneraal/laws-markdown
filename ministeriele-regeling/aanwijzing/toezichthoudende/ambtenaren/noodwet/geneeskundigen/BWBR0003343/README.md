@@ -10,15 +10,15 @@ Besluit:
 
 ### Artikel  1  
 
-Als ambtenaren, belast met het inwinnen van gegevens in het belang van de uitvoering van de [Noodwet Geneeskundigen](../../../../../../../wet/noodwet/geneeskundigen/BWBR0002758/README.md) en met het toezicht op de naleving van het bij of krachtens die wet bepaalde, worden aangewezen de regionale geneeskundige inspecteurs van het Staatstoezicht op de Volksgezondheid en de regionale inspecteurs voor de geneesmiddelen van het Staatstoezicht op de Volksgezondheid en de onder de bevelen van die regionale geneeskundige inspecteurs, onderscheidenlijk regionale inspecteurs voor de geneesmiddelen werkzame ambtenaren die daartoe door ben zijn aangewezen.  
+Als ambtenaren, belast met het inwinnen van gegevens in het belang van de uitvoering van de [Noodwet Geneeskundigen](../../../../../../../wet/noodwet/geneeskundigen/BWBR0002758/README.md) en met het toezicht op de naleving van het bij of krachtens die wet bepaalde, worden aangewezen de regionale geneeskundige inspecteurs van het Staatstoezicht op de Volksgezondheid en de regionale inspecteurs voor de geneesmiddelen van het Staatstoezicht op de Volksgezondheid en de onder de bevelen van die regionale geneeskundige inspecteurs, onderscheidenlijk regionale inspecteurs voor de geneesmiddelen werkzame ambtenaren die daartoe door ben zijn aangewezen. 
 
 ### Artikel  2  
 
-Dit besluit wordt in de Staatscourant geplaatst en treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het is geplaatst.  
+Dit besluit wordt in de Staatscourant geplaatst en treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het is geplaatst. 
 
 Leidschendam 
 26 september 1980    
 
 De 
-Staatssecretaris voornoemd, 
-E.Veder-Smit    
+Staatssecretaris voornoemd,
+E.  Veder-Smit      

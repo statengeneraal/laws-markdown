@@ -15,24 +15,24 @@ Hebben goedgevonden en verstaan:
 
 ### ARTIKEL  I  
 
-Wijzigt het Besluit voorkoming dubbele belasting 1989.   
+Wijzigt het Besluit voorkoming dubbele belasting 1989.  
 
 ### ARTIKEL  II  
 
-1.  Artikel 10 van het Besluit voorkoming dubbele belasting 1989 zoals dat luidt op de dag voorafgaand aan de inwerkingtreding van dit besluit blijft met betrekking tot een Mogendheid van toepassing voorzover ten aanzien van een belastingplichtige een op de voet van artikel 3, vierde lid, van het Besluit voorkoming dubbele belasting 1989 naar het jaar waarin dit besluit in werking treedt overgebracht bedrag aan negatief buitenlands onzuiver inkomen uit die Mogendheid bij de berekening van de vermindering, bedoeld in het eerste lid van dat artikel in aanmerking kan worden genomen.   
-2.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de toepassing van artikel 10 van het Besluit voorkoming dubbele belasting 1989 zoals dat luidt op de dag voorafgaand aan de inwerkingtreding van dit Besluit op een op de voet van artikel II, tweede, derde of zevende lid, van het Besluit van 23 december 1994 tot wijziging van het Besluit voorkoming dubbele belasting 1989 (*Stb.* 1994, 964) in aanmerking te nemen bedrag.   
+1.   Artikel 10 van het Besluit voorkoming dubbele belasting 1989 zoals dat luidt op de dag voorafgaand aan de inwerkingtreding van dit besluit blijft met betrekking tot een Mogendheid van toepassing voorzover ten aanzien van een belastingplichtige een op de voet van artikel 3, vierde lid, van het Besluit voorkoming dubbele belasting 1989 naar het jaar waarin dit besluit in werking treedt overgebracht bedrag aan negatief buitenlands onzuiver inkomen uit die Mogendheid bij de berekening van de vermindering, bedoeld in het eerste lid van dat artikel in aanmerking kan worden genomen.   
+2.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de toepassing van artikel 10 van het Besluit voorkoming dubbele belasting 1989 zoals dat luidt op de dag voorafgaand aan de inwerkingtreding van dit Besluit op een op de voet van artikel II, tweede, derde of zevende lid, van het Besluit van 23 december 1994 tot wijziging van het Besluit voorkoming dubbele belasting 1989 (*Stb.* 1994, 964) in aanmerking te nemen bedrag.  
 
 ### ARTIKEL  III  
 
 1.  Dit Besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.   
 2.  Artikel I, onderdelen A.1, A.2, A.3 en C.1, werkt terug tot en met 1 januari 1997.   
-3.  De artikelen I, onderdelen D.1 tot en met D.6, en II vinden voor het eerst toepassing met betrekking tot de heffing van de vennootschapsbelasting over het jaar dat aanvangt op of na 1 januari 1999.   
+3.  De artikelen I, onderdelen D.1 tot en met D.6, en II vinden voor het eerst toepassing met betrekking tot de heffing van de vennootschapsbelasting over het jaar dat aanvangt op of na 1 januari 1999.  
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting met de bijlage 1 in het *Staatsblad* zal worden geplaatst.   
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting met de bijlage 1 in het *Staatsblad *zal worden geplaatst.   
 
 's-Gravenhage 
 5 juli 1997  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Financiën, 
 W. A. F. G. Vermeend   

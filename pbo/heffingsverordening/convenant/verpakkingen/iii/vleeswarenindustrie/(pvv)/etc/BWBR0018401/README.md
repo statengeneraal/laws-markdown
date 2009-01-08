@@ -24,16 +24,16 @@ Deze verordening neemt over de begripsbepalingen van de [Verordening algemene be
 a. € 300,- indien de ondernemer uit hoofde van het Convenant Verpakkingen III monitorplichtig is;  
 
 b. € 150,- in alle ander gevallen.     
-2.  De ondernemer die ten genoegen van het productschap aantoont dat hij reeds op andere wijze dan via het productschap deelneemt aan het Convenant Verpakkingen III is vrijgesteld van de in het eerste lid genoemde heffing.   
+2.  De ondernemer die ten genoegen van het productschap aantoont dat hij reeds op andere wijze dan via het productschap deelneemt aan het Convenant Verpakkingen III is vrijgesteld van de in het eerste lid genoemde heffing.  
 
 ### Artikel  3  
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md).  
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md). 
 
 ### Artikel  4  
 
 1.  Deze verordening wordt aangehaald als: Heffingsverordening Convenant Verpakkingen III vleeswarenindustrie (PVV) 2005.   
-2.  Deze verordening treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst.   
+2.  Deze verordening treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst.  
 
 Zoetermeer 
 8 juni 2005   

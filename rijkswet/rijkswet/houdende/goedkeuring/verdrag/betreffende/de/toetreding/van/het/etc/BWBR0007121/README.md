@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Artikel  1  
 
-Het op 24 juni 1994 te Korfoe tot stand gekomen Verdrag inzake de toetreding van het Koninkrijk Noorwegen, de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie, met toetredingsakte, bijlagen en protocollen, waarvan de Nederlandse tekst is geplaatst in *Tractatenblad* 1994, 200, wordt goedgekeurd voor het gehele Koninkrijk.  
+Het op 24 juni 1994 te Korfoe tot stand gekomen Verdrag inzake de toetreding van het Koninkrijk Noorwegen, de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie, met toetredingsakte, bijlagen en protocollen, waarvan de Nederlandse tekst is geplaatst in *Tractatenblad* 1994, 200, wordt goedgekeurd voor het gehele Koninkrijk. 
 
 ### Artikel  2  
 
-De goedkeuring door de Staten-Generaal van de verdragen, welke als noodzakelijk en rechtstreeks gevolg van het in artikel 1 genoemde Verdrag gesloten worden tussen de lid-staten van de Europese Unie onderling, danwel tussen de lid-staten, al dan niet gezamenlijk met de Europese Gemeenschappen enerzijds en derde staten of internationale organisaties anderzijds, is niet vereist.  
+De goedkeuring door de Staten-Generaal van de verdragen, welke als noodzakelijk en rechtstreeks gevolg van het in artikel 1 genoemde Verdrag gesloten worden tussen de lid-staten van de Europese Unie onderling, danwel tussen de lid-staten, al dan niet gezamenlijk met de Europese Gemeenschappen enerzijds en derde staten of internationale organisaties anderzijds, is niet vereist. 
 
 ### Artikel  3  
 
-Deze rijkswet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad*, waarin zij wordt geplaatst.  
+Deze rijkswet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad*, waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad*, in het *Publicatieblad van de Nederlandse Antillen* en in het *Afkondigingsblad van Aruba* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

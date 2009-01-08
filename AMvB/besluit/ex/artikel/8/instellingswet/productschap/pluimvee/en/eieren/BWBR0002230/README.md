@@ -17,15 +17,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Voor de toepassing van de Instellingswet Productschap voor Pluimvee en Eieren (*Stb.* 1955, 187) en van de [artikelen 94](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), derde lid, en [104, tweede lid, van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (*Stb.* 1950, K 22) ten aanzien van het Produktschap voor Pluimvee en Eieren wordt Onze Minister van Economische Zaken mede als betrokken Minister aangemerkt, voor zoveel betreft 
+Voor de toepassing van de Instellingswet Productschap voor Pluimvee en Eieren (*Stb.* 1955, 187) en van de [artikelen 94](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), derde lid, en [104, tweede lid, van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (*Stb.* 1950, K 22) ten aanzien van het Produktschap voor Pluimvee en Eieren wordt Onze Minister van Economische Zaken mede als betrokken Minister aangemerkt, voor zoveel betreft  
 
 a. verordeningen, die bindende regelen inhouden voor het poeliersbedrijf, de detailhandel in eieren of de detailhandel in geconserveerd pluimvee of wild of geconserveerde tamme konijnen;  
 
-b. verordeningen, die regelen inhouden, welke de mededinging beperken tussen degenen, die ondernemingen drijven op het gebied van de be- of verwerking van of de handel in pluimvee, eieren, wild, tamme konijnen of daaruit verkregen produkten.    
+b. verordeningen, die regelen inhouden, welke de mededinging beperken tussen degenen, die ondernemingen drijven op het gebied van de be- of verwerking van of de handel in pluimvee, eieren, wild, tamme konijnen of daaruit verkregen produkten.   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking op het tijdstip van in werking treden van de Instellingswet Productschap Pluimvee en Eieren.  
+Dit besluit treedt in werking op het tijdstip van in werking treden van de Instellingswet Productschap Pluimvee en Eieren. 
 
 Onze Ministers voor Publiekrechtelijke Bedrijfsorganisatie, van Landbouw, Visserij en Voedselvoorziening en van Economische Zaken zijn belast met de uitvoering van dit besluit, hetwelk in het *Staatsblad* zal worden geplaatst, en waarvan afschrift zal worden gezonden aan de Raad van State.   
 

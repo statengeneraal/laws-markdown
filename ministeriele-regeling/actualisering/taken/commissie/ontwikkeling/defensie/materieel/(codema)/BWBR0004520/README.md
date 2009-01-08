@@ -8,7 +8,7 @@ Handelende in overeenstemming met de ministers van Buitenlandse Zaken, van Econo
 Overwegende dat de intstellingsbeschikking van de Commissie Ontwikkeling Defensie Materieel (CODEMA) van 20 november 1978 dient te worden geactualiseerd;
 Besluit:    
 
-### Artikel  1  
+###Artikel  1  
 
 ####Doelstelling en taken CODEMA
 
@@ -21,9 +21,9 @@ b. vaststelling van de financiering;
 
 c. het geven van richtlijnen en aanwijzingen aan het krijgsmachtdeel of aan een andere daartoe aangewezen instantie, belast met de contractafsluiting;  
 
-d. het formuleren van het beleid inzake ontwikkelingsprojecten en het geven van richtlijnen ten aanzien van de uitvoering van dat beleid. Deze richtlijnen worden bekend gesteld in de vorm van de CODEMA-werkwijze.     
+d. het formuleren van het beleid inzake ontwikkelingsprojecten en het geven van richtlijnen ten aanzien van de uitvoering van dat beleid. Deze richtlijnen worden bekend gesteld in de vorm van de CODEMA-werkwijze.    
 
-### Artikel  2  
+###Artikel  2  
 
 ####Samenstelling CODEMA
 
@@ -49,24 +49,24 @@ b. de sous-chef Beleid van de directie Materieel Koninklijke Landmacht;
 
 c. de sous-chef Plannen en Management van de directie Materieel Koninklijke Luchtmacht.     
 4.  De ad-hoc leden kunnen zich doen vervangen dan wel laten bijstaan door het hoofd Wetenschappelijk Onderzoek van hun krijgsmachtdeel.   
-5.  Andere niet-leden kunnen ter vergadering worden uitgenodigd voor het geven van toelichting/advies.   
+5.  Andere niet-leden kunnen ter vergadering worden uitgenodigd voor het geven van toelichting/advies.  
 
-### Artikel  3  
+###Artikel  3  
 
 ####Secretariaat en werkwijze
 
 1.  De CODEMA komt naar behoefte bijeen voor overleg en besluitvorming.   
 2.  Een functionaris van het directoraat-generaal Materieel is belast met het secretariaat van de CODEMA.   
 3.  De vastgestelde CODEMA-werkwijze ligt ter inzage bij het directoraat-generaal Materieel van het ministerie van Defensie (Plein 4, 's-Gravenhage, kamer D 257).   
-4.  De krijgsmachtdelen zijn verantwoordelijk voor de voorbereiding en uitvoering van de CODEMA-projecten.   
+4.  De krijgsmachtdelen zijn verantwoordelijk voor de voorbereiding en uitvoering van de CODEMA-projecten.  
 
-### Artikel  4  
+###Artikel  4  
 
-De beschikking van de minister van Defensie, dd. 20 november 1978, nr. 391694/Q, laatstelijk gewijzigd bij beschikking van 7 oktober 1980, nr. 391694/T, wordt ingetrokken.  
+De beschikking van de minister van Defensie, dd. 20 november 1978, nr. 391694/Q, laatstelijk gewijzigd bij beschikking van 7 oktober 1980, nr. 391694/T, wordt ingetrokken. 
 
-### Artikel  5  
+###Artikel  5  
 
-Deze beschikking treedt in werking met ingang van 3 april 1989. Afschrift van deze beschikking wordt gezonden aan: de minister van Buitenlandse zaken, de minister van Financiën, de minister van Economische Zaken, de staatssecretaris van Defensie, de voorzitter van de Adviesraad militaire produktie, de voorzitter, de leden en ad-hoc leden van de CODEMA.  
+Deze beschikking treedt in werking met ingang van 3 april 1989. Afschrift van deze beschikking wordt gezonden aan: de minister van Buitenlandse zaken, de minister van Financiën, de minister van Economische Zaken, de staatssecretaris van Defensie, de voorzitter van de Adviesraad militaire produktie, de voorzitter, de leden en ad-hoc leden van de CODEMA. 
 
 's-Gravenhage 
 3 april 1989    
@@ -79,4 +79,4 @@ voor deze,
 De 
 directeur-generaal Materieel, 
 
-H. Boekenoogen      
+H. Boekenoogen     

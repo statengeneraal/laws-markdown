@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### art  1  
 
-Waar in wetten, besluiten, beschikkingen en akten wordt genoemd Onze Minister van Wederopbouw en Volkshuisvesting, wordt van 13 oktober 1956 af onder die benaming verstaan Onze Minister van Volkshuisvesting en Bouwnijverheid.  
+Waar in wetten, besluiten, beschikkingen en akten wordt genoemd Onze Minister van Wederopbouw en Volkshuisvesting, wordt van 13 oktober 1956 af onder die benaming verstaan Onze Minister van Volkshuisvesting en Bouwnijverheid. 
 
 Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

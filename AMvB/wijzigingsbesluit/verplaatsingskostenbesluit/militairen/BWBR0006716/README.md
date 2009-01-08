@@ -15,37 +15,37 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Het Besluit havenvergoeding militairen zeemacht wordt ingetrokken.  
+Het Besluit havenvergoeding militairen zeemacht wordt ingetrokken. 
 
 ### Artikel  IV  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  V  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VI  
 
-Voor dienstplichtigen die voor 1 januari 1994 voor eerste oefening in dienst zijn gekomen voor wie de duur van de eerste oefening 11 maanden of meer bedraagt, blijven de bepalingen van het Reglement rechtstoestand dienstplichtigen zoals die golden tot het moment van inwerkingtreding van dit besluit van toepassing voor de duur van hun verblijf in werkelijke dienst voor eerste oefening.  
+Voor dienstplichtigen die voor 1 januari 1994 voor eerste oefening in dienst zijn gekomen voor wie de duur van de eerste oefening 11 maanden of meer bedraagt, blijven de bepalingen van het Reglement rechtstoestand dienstplichtigen zoals die golden tot het moment van inwerkingtreding van dit besluit van toepassing voor de duur van hun verblijf in werkelijke dienst voor eerste oefening. 
 
 ### Artikel  VII  
 
-Dit besluit treedt in werking: 
+Dit besluit treedt in werking:  
 
 - voor wat betreft artikel I, IV, onderdeel A, en VI met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 januari 1994;  
 
 - voor wat betreft artikel V met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt voor dienstplichtigen van de Koninklijke landmacht en de Koninklijke luchtmacht voor wie de duur van de eerste oefening is vastgesteld op 9 maanden, terug tot en met 1 januari 1994;  
 
-- voor wat betreft de artikelen II, III en IV, onderdeel B, met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.    
+- voor wat betreft de artikelen II, III en IV, onderdeel B, met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.   
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

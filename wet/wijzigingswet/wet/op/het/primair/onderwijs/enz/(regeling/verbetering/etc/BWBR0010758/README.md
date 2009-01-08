@@ -15,48 +15,48 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-####Wijziging [Wet op het primair onderwijs](../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md)
+####Wijziging [Wet op het primair onderwijs](../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) 
 
-Wijzigt de Wet op het primair onderwijs.   
+Wijzigt de Wet op het primair onderwijs.  
 
 ### Artikel  II  
 
-####Wijziging [Wet op de expertisecentra](../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md)
+####Wijziging [Wet op de expertisecentra](../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) 
 
-Wijzigt de Wet op de expertisecentra.   
+Wijzigt de Wet op de expertisecentra.  
 
 ### Artikel  III  
 
-####Wijziging [Wet op het voortgezet onderwijs](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)
+####Wijziging [Wet op het voortgezet onderwijs](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) 
 
-Wijzigt de Wet op het voortgezet onderwijs.   
+Wijzigt de Wet op het voortgezet onderwijs.  
 
 ### Artikel  IV  
 
-####Wijziging [Wet educatie en beroepsonderwijs](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md)
+####Wijziging [Wet educatie en beroepsonderwijs](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) 
 
-Wijzigt de Wet educatie en beroepsonderwijs.   
+Wijzigt de Wet educatie en beroepsonderwijs.  
 
 ### Artikel  V  
 
-####Voorziening [WEB](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) i.v.m. de [Wet van 1 juli 1998 (Stb. 431)](../../../../../../../../../../../../wet/wijzigingswet/wet/educatie/en/beroepsonderwijs/(regeling/decentralisatie/etc/BWBR0009749/README.md)
+####Voorziening [WEB](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) i.v.m. de [Wet van 1 juli 1998 (Stb. 431)](../../../../../../../../../../../../wet/wijzigingswet/wet/educatie/en/beroepsonderwijs/(regeling/decentralisatie/etc/BWBR0009749/README.md) 
 
-Tot het tijdstip waarop de algemene maatregelen van bestuur op grond van de [artikelen 2.2.1](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [2.4.1 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) in werking treden, is [artikel 2.2.4a van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) zoals luidend ingevolge deze wet, van toepassing met dien verstande dat in artikel 2.2.4a, eerste en vierde lid, voor «artikel 2.2.1, vijfde lid» telkens wordt gelezen: [artikel IA van de Wet van 1 juli 1998 (Stb. 431)](../../../../../../../../../../../../wet/wijzigingswet/wet/educatie/en/beroepsonderwijs/(regeling/decentralisatie/etc/BWBR0009749/README.md).  
+Tot het tijdstip waarop de algemene maatregelen van bestuur op grond van de [artikelen 2.2.1](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en[ 2.4.1 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) in werking treden, is [artikel 2.2.4a van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) zoals luidend ingevolge deze wet, van toepassing met dien verstande dat in artikel 2.2.4a, eerste en vierde lid, voor «artikel 2.2.1, vijfde lid» telkens wordt gelezen: [artikel IA van de Wet van 1 juli 1998 (Stb. 431)](../../../../../../../../../../../../wet/wijzigingswet/wet/educatie/en/beroepsonderwijs/(regeling/decentralisatie/etc/BWBR0009749/README.md). 
 
 ### Artikel  VI  
 
 ####Inwerkingtreding
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 6 oktober 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Onderwijs, Cultuur en Wetenschappen, 
-L. M. L. H. A. Hermans   
+L. M. L. H. A. Hermans    
 
 De Minister van Landbouw, Natuurbeheer en Visserij, 
 L. J. Brinkhorst   

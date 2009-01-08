@@ -15,20 +15,20 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Bekostigingsbesluit cultuuruitingen.   
+Wijzigt het Bekostigingsbesluit cultuuruitingen. 
 
 ### Artikel  II  
 
 1.  Op de subsidies die op grond van het [Bekostigingsbesluit cultuuruitingen](../../../../../../../AMvB/bekostigingsbesluit/cultuuruitingen/BWBR0006759/README.md) zijn verleend voor de inwerkingtreding van dit besluit blijven de regels van toepassing die golden onmiddellijk voor de inwerkingtreding van dit besluit.   
-2.  In afwijking van [artikel 37 van het Bekostigingsbesluit cultuuruitingen](../../../../../../../AMvB/bekostigingsbesluit/cultuuruitingen/BWBR0006759/README.md) zoals [dat artikel](../../../../../../../AMvB/bekostigingsbesluit/cultuuruitingen/BWBR0006759/README.md) luidde op de dag voorafgaand aan de inwerkingtreding van dit besluit, stelt Onze Minister van Onderwijs, Cultuur en Wetenschap de subsidie vast binnen tien maanden na ontvangst van de in [dat artikel](../../../../../../../AMvB/bekostigingsbesluit/cultuuruitingen/BWBR0006759/README.md) bedoelde gegevens.   
+2.  In afwijking van [artikel 37 van het Bekostigingsbesluit cultuuruitingen](../../../../../../../AMvB/bekostigingsbesluit/cultuuruitingen/BWBR0006759/README.md) zoals [dat artikel](../../../../../../../AMvB/bekostigingsbesluit/cultuuruitingen/BWBR0006759/README.md) luidde op de dag voorafgaand aan de inwerkingtreding van dit besluit, stelt Onze Minister van Onderwijs, Cultuur en Wetenschap de subsidie vast binnen tien maanden na ontvangst van de in [dat artikel](../../../../../../../AMvB/bekostigingsbesluit/cultuuruitingen/BWBR0006759/README.md) bedoelde gegevens.  
 
 ### Artikel  III  
 
-Wijzigt het Besluit archeologische monumentenzorg.   
+Wijzigt het Besluit archeologische monumentenzorg. 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

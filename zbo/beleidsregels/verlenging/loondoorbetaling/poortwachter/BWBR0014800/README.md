@@ -2,9 +2,9 @@
 
 ##Beleidsregels verlenging loondoorbetaling poortwachter
 
-Het Uitvoeringsinstituut werknemersverzekeringen,  
+Het Uitvoeringsinstituut werknemersverzekeringen,
 Gelet op de artikelen 34a, eerste lid, 71a, negende lid, en 71b, derde lid, van de Wet op de arbeidsongeschiktheidsverzekering en de Regeling procesgang eerste ziektejaar;
-Besluit:    
+Besluit:  
 
 ### Artikel  1  
 
@@ -30,11 +30,11 @@ h. looninhouding: het niet betalen van het loon, bedoeld in [artikel 629, eerste
 
 i. loondoorbetalingsperiode: het tijdvak waarin de werknemer ingevolge [artikel 71a, negende lid, van de wet](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) jegens de werkgever recht op loon heeft op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), dan wel aanspraak op bezoldiging op grond van [artikel XV, tweede lid, van de Wet terugdringing ziekteverzuim](../../../../../../wet/wet/terugdringing/ziekteverzuim/BWBR0006355/README.md).    
 
-### Artikel  1a  
+### Artikel 1a 
 
 ####Grondslag
 
-Dit besluit berust mede op [artikel 123b, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).  
+Dit besluit berust mede op [artikel 123b, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md). 
 
 ### Artikel  2  
 
@@ -111,15 +111,15 @@ d. de werknemer niet in de gelegenheid heeft gesteld passende arbeid te gaan ver
 3.  De totale duur van de opeenvolgende loondoorbetalingsperioden bedraagt niet meer dan het maximum dat is vastgesteld op grond van artikel 4, derde of vierde lid, tenzij er sprake is van nieuwe feiten.   
 4.  De nieuwe loondoorbetalingsperiode luidt in een geheel aantal maanden, wordt niet afgerond op een kalendermaand, en wordt zo vastgesteld dat het maximum genoemd in [artikel 629, twaalfde lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet wordt overschreden.   
 
-### Artikel  7  
+###Artikel 7 
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de tweede dag na de publicatie van de Staatscourant waarin het is geplaatst.  
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.   
+Dit besluit treedt in werking met ingang van de tweede dag na de publicatie van de Staatscourant waarin het is geplaatst.
+Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
 
-Amsterdam 
-12 maart 2003    
+Amsterdam
+12 maart 2003
 
 T.H.J.Joustra, 
-voorzitter Raad van bestuur UWV    
+voorzitter Raad van bestuur UWV  

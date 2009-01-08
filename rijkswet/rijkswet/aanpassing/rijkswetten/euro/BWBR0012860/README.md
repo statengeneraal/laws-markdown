@@ -7,14 +7,14 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
 Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de rijkswetgeving aan te passen in verband met de vervanging van de gulden door de euro;
-Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het [Statuut voor het Koninkrijk](../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md) in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
+Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het [Statuut voor het Koninkrijk](../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md) in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:   
 ### Hoofdstuk  I  
 
 ####Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
 ### Artikel  1  
 
-Wijzigt de Wet herziening Wet instelling Militaire Willems-Orde.   
+Wijzigt de Wet herziening Wet instelling Militaire Willems-Orde.  
 
 ### Hoofdstuk  II  
 
@@ -22,7 +22,7 @@ Wijzigt de Wet herziening Wet instelling Militaire Willems-Orde.
 
 ### Enig  artikel  
 
-Wijzigt de Wet op de Kanselarijrechten 1948.   
+Wijzigt de Wet op de Kanselarijrechten 1948.  
 
 ### Hoofdstuk  III  
 
@@ -30,7 +30,7 @@ Wijzigt de Wet op de Kanselarijrechten 1948.
 
 ### Enig  artikel  
 
-Wijzigt de Marinescheepsongevallenwet 1935 en de Wet militair tuchtrecht .   
+Wijzigt de Marinescheepsongevallenwet 1935 en de Wet militair tuchtrecht .  
 
 ### Hoofdstuk  IV  
 
@@ -38,7 +38,7 @@ Wijzigt de Marinescheepsongevallenwet 1935 en de Wet militair tuchtrecht .
 
 ### Enig  Artikel  
 
-Wijzigt de Rijksoctrooiwet.   
+Wijzigt de Rijksoctrooiwet.  
 
 ### Hoofdstuk  V  
 
@@ -46,15 +46,15 @@ Wijzigt de Rijksoctrooiwet.
 
 ### Artikel  1  
 
-Wijzigt de Rijkswet Noodvoorzieningen Scheepvaart, de Schepenwet en de Wet behoud scheepsruimte 1939.   
+Wijzigt de Rijkswet Noodvoorzieningen Scheepvaart, de Schepenwet en de Wet behoud scheepsruimte 1939.  
 
 ### Artikel  2  
 
-Wijzigt de Rijkswet Noodvoorzieningen Scheepvaart.   
+Wijzigt de Rijkswet Noodvoorzieningen Scheepvaart.  
 
 ### Artikel  3  
 
-Wijzigt de Schepenwet.   
+Wijzigt de Schepenwet.  
 
 ### Hoofdstuk  VI  
 
@@ -62,15 +62,15 @@ Wijzigt de Schepenwet.
 
 ### Artikel  1  
 
-Indien het bedrag van een door een bestuursorgaan op te leggen geldboete, dan wel van een tuchtrechtelijke geldboete, ingevolge deze wet of een ander wettelijk voorschrift in verband met de vervanging van de gulden door de euro wordt gewijzigd, is [artikel 1, tweede lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) van overeenkomstige toepassing.  
+Indien het bedrag van een door een bestuursorgaan op te leggen geldboete, dan wel van een tuchtrechtelijke geldboete, ingevolge deze wet of een ander wettelijk voorschrift in verband met de vervanging van de gulden door de euro wordt gewijzigd, is [artikel 1, tweede lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) van overeenkomstige toepassing. 
 
 ### Artikel  2  
 
-Deze wet treedt in werking met ingang van 1 januari 2002.  
+Deze wet treedt in werking met ingang van 1 januari 2002. 
 
 ### Artikel  3  
 
-Deze wet wordt aangehaald als: Rijkswet aanpassing rijkswetten euro.  
+Deze wet wordt aangehaald als: Rijkswet aanpassing rijkswetten euro. 
 
 Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

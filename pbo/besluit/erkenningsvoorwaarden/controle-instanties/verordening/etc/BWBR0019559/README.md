@@ -28,18 +28,18 @@ h. Op de controle-activiteiten is een aansprakelijkheidsverzekering met een adeq
 
 i. De controle-instantie verbindt zich ertoe de gegevens die naar aanleiding van de controles op de naleving van de verordening worden gegenereerd niet aan derden te verstrekken;  
 
-j. De controle-instantie beschikt over een klachtenprocedure.    
+j. De controle-instantie beschikt over een klachtenprocedure.   
 
 ### Artikel  2  
 
 1.  Dit besluit wordt aangehaald als: Besluit erkenningsvoorwaarden controle-instanties Verordening welzijnsnormen nertsen (PPE) 2003, Verordening welzijnsnormen vleeskalkoenen 2003 en Verordening welzijnsnormen vleeskuikenouderdieren 2003 (PPE) 2006.   
-2.  Dit besluit treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningblad Bedrijfsorganisatie waarin het wordt geplaatst.   
+2.  Dit besluit treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningblad Bedrijfsorganisatie waarin het wordt geplaatst.  
 
 Zoetermeer 
 9 februari 2006   
 
-J.J. Ramekers  
+J.J. Ramekers 
 voorzitter  
 
-S.B.M. Jongerius  
+S.B.M. Jongerius
 secretaris    

@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Loodsplichtbesluit 1995.   
+Wijzigt het Loodsplichtbesluit 1995.  
 
 ### Artikel  II  
 
-Wijzigt het Besluit verklaringhouders Scheepvaartverkeerswet.   
+Wijzigt het Besluit verklaringhouders Scheepvaartverkeerswet.  
 
 ### Artikel  III  
 
@@ -27,19 +27,19 @@ Wijzigt het Besluit verklaringhouders Scheepvaartverkeerswet.
 
 a. examens en herexamens, waarvan de datum is bepaald voor de datum van inwerkingtreding van artikel II, onderdelen L, M en N, van dit besluit, en,  
 
-b. examens en herexamens waarvan de datum wordt bepaald gedurende zes maanden na de datum van inwerkingtreding van artikel II, onderdelen L, M en N, van dit besluit.    
+b. examens en herexamens waarvan de datum wordt bepaald gedurende zes maanden na de datum van inwerkingtreding van artikel II, onderdelen L, M en N, van dit besluit.   
 
 ### Artikel  IV  
 
-Onverminderd het overigens in [artikel 3, eerste lid, onderdeel c, van het Besluit verklaringhouders Scheepvaartverkeerswet](../../../../../../../../../AMvB/besluit/verklaringhouders/scheepvaartverkeerswet/BWBR0007513/README.md) bepaalde, zoals dat artikel komt te luiden op het tijdstip van inwerkingtreding van dit besluit, blijven getuigschriften, bedoeld in dat artikel, behaald op grond van een examen dat is afgenomen op grond van het [Besluit verklaringhouders Scheepvaartverkeerswet](../../../../../../../../../AMvB/besluit/verklaringhouders/scheepvaartverkeerswet/BWBR0007513/README.md), zoals dit luidde voor de inwerkingtreding van dit besluit, hun geldigheid behouden.  
+Onverminderd het overigens in [artikel 3, eerste lid, onderdeel c, van het Besluit verklaringhouders Scheepvaartverkeerswet](../../../../../../../../../AMvB/besluit/verklaringhouders/scheepvaartverkeerswet/BWBR0007513/README.md) bepaalde, zoals dat artikel komt te luiden op het tijdstip van inwerkingtreding van dit besluit, blijven getuigschriften, bedoeld in dat artikel, behaald op grond van een examen dat is afgenomen op grond van het [Besluit verklaringhouders Scheepvaartverkeerswet](../../../../../../../../../AMvB/besluit/verklaringhouders/scheepvaartverkeerswet/BWBR0007513/README.md), zoals dit luidde voor de inwerkingtreding van dit besluit, hun geldigheid behouden. 
 
 ### Artikel  V  
 
-Onze Minister van Verkeer en Waterstaat zendt binnen achttien maanden na de datum van inwerkingtreding van dit besluit aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk.  
+Onze Minister van Verkeer en Waterstaat zendt binnen achttien maanden na de datum van inwerkingtreding van dit besluit aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk. 
 
 ### Artikel  VI  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -56,4 +56,6 @@ De Minister van Justitie,
 A. H. Korthals    
 
 ####Bijlage als bedoeld in de artikelen 4, tweede lid, en 5 van het Loodsplichtbesluit 1995.
+
+Treedt in werking op een nader te bepalen tijdstip 
 

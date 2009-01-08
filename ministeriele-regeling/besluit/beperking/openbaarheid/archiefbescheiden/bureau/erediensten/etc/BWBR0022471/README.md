@@ -8,26 +8,26 @@ Besluit:
 
 ### Artikel  1  
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer, alsmede op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden worden aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van het Bureau Erediensten 1940-1988 met de inventarisnummers zoals opgenomen in de Bijlage, de in het volgende lid genoemde beperkingen gesteld voor een termijn van vijftig jaren gerekend vanaf de datum vermeld op archiefbescheiden, echter minimaal durende tot 2015 en maximaal durende tot 2036.  
+Met het oog op de eerbiediging van de persoonlijke levenssfeer, alsmede op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden worden aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van het Bureau Erediensten 1940-1988 met de inventarisnummers zoals opgenomen in de Bijlage, de in het volgende lid genoemde beperkingen gesteld voor een termijn van vijftig jaren gerekend vanaf de datum vermeld op archiefbescheiden, echter minimaal durende tot 2015 en maximaal durende tot 2036. 
 
 ### Artikel  2  
 
-Raadpleging van de in het vorige lid genoemde bescheiden is slechts mogelijk nadat de directeur van het Nationaal Archief daarmee heeft ingestemd. Voor het doen van het verzoek tot instemming wordt gebruikt gemaakt van het door het Nationaal Archief voorgeschreven formulier voor toestemming tot raadpleging van niet-openbare archieven.  
+Raadpleging van de in het vorige lid genoemde bescheiden is slechts mogelijk nadat de directeur van het Nationaal Archief daarmee heeft ingestemd. Voor het doen van het verzoek tot instemming wordt gebruikt gemaakt van het door het Nationaal Archief voorgeschreven formulier voor toestemming tot raadpleging van niet-openbare archieven. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt gepubliceerd.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt gepubliceerd. 
 
 De 
-Minister van Financiën, namens deze: de 
-plv. Secretaris-generaal, 
-A.S.M.Koeleman  
+Minister van Financiën, namens deze:de 
+plv. Secretaris-generaal,
+A.S.M. Koeleman    
 
-### Bijlage  
+### Bijlage 
 
 ####Inventarisnummers Erediensten 1940-1983 Beperkt openbaar
 
-| Inv.Nr.  | Sluitingsjaar  Dossier  | Aantal jaren  beperkt  | Beperkt tot  1 januari  |
+| Inv.Nr.  | Sluitingsjaar  Dossier  | Aantal jaren   beperkt  | Beperkt tot   1 januari  |
 |:---:|:---:|:---:|:---:|
 | 236  | 1972  | 50  | 2022  |
 | 244  | 1983  | 50  | 2033  |

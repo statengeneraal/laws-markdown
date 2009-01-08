@@ -4,7 +4,7 @@
 
 De Minister van Financiën, handelende in overeenstemming met de Minister van Economische Zaken;  
 Gelet op artikel 9, eerste en tweede lid, van de Regeling herverzekering investeringen;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -12,14 +12,14 @@ Het bedrag van de maximale aanvangswaarde van de investering, waarvoor herverzek
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van 15 oktober 1997.  
+Deze regeling treedt in werking met ingang van 15 oktober 1997. 
 
 De 
-Minister van Financiën, 
+Minister van Financiën,  
 
 G. Zalm   
 
 De 
 Staatssecretaris van Economische Zaken, 
 
-A. Van Dok-Van Weele      
+A. VanDok-Van Weele     

@@ -11,23 +11,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  V  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VI  
 
@@ -37,7 +37,7 @@ Bevat wijzigingen in andere regelgeving.
 2.  Een verzoek tot toelating tot de vrijwillige verzekering als bedoeld in het eerste lid dient te worden ingediend binnen twaalf weken na de dag, waarop deze wet in werking treedt.   
 3.  het Landelijk instituut sociale verzekeringen is bevoegd te verklaren, dat een verzoek om toelating, ingediend na afloop van de in het tweede lid gestelde termijn, geacht wordt tijdig te zijn ingekomen, indien de persoon die het verzoek heeft gedaan, redelijkerwijs niet geacht kan worden in verzuim te zijn geweest.   
 4.  het Landelijk instituut sociale verzekeringen doet de vrijwillige verzekering als bedoeld in het eerste lid aanvangen op de dag van ontvangst van het verzoek tot toelating.   
-5.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de termijn waarbinnen een beschikking op aanvraag ingevolge dit hoofdstuk dient te worden gegeven. Deze algemene maatregel van bestuur vervalt vijf jaar na de dag van inwerkingtreding van de wet waarbij dit lid werd ingevoegd.   
+5.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de termijn waarbinnen een beschikking op aanvraag ingevolge dit hoofdstuk dient te worden gegeven. Deze algemene maatregel van bestuur vervalt vijf jaar na de dag van inwerkingtreding van de wet waarbij dit lid werd ingevoegd.  
 
 ### Artikel  VII  
 
@@ -46,19 +46,19 @@ Bevat wijzigingen in andere regelgeving.
 3.  het Landelijk instituut sociale verzekeringen is bevoegd te verklaren, dat een verzoek om toelating, ingediend na afloop van de in het tweede lid gestelde termijn, geacht wordt tijdig te zijn ingekomen, indien de persoon die het verzoek heeft gedaan, redelijkerwijs niet geacht kan worden in verzuim te zijn geweest.   
 4.  het Landelijk instituut sociale verzekeringen doet de vrijwillige verzekering als bedoeld in het eerste lid aanvangen op de dag van ontvangst van het verzoek tot toelating.   
 5.  De persoon, die met toepassing van het eerste lid wordt toegelaten tot de vrijwillige werkloosheidsverzekering wordt vanaf de aanvang van zijn in het eerste lid bedoelde werkzaamheden, voorzover deze na 1 januari 1987 zijn verricht, geacht als werknemer arbeid te hebben verricht.   
-6.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de termijn waarbinnen een beschikking op aanvraag ingevolge dit hoofdstuk dient te worden gegeven. Deze algemene maatregel van bestuur vervalt vijf jaar na de dag van inwerkingtreding van de wet waarbij dit lid werd ingevoegd.   
+6.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de termijn waarbinnen een beschikking op aanvraag ingevolge dit hoofdstuk dient te worden gegeven. Deze algemene maatregel van bestuur vervalt vijf jaar na de dag van inwerkingtreding van de wet waarbij dit lid werd ingevoegd.  
 
 ### Artikel  VIII  
 
-De termijnen voor de duur van de werkzaamheden in het buitenland als bedoeld in [artikel 53, eerste lid, onderdeel *a*, van de Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [artikel 64, tweede lid, onderdeel *a*, van de Ziektewet](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) en [artikel 81, tweede lid, onderdeel *a*, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) worden voor de persoon, die reeds vrijwillig verzekerd was dan wel met toepassing van het bepaalde in artikel VII wordt toegelaten tot de vrijwillige verzekering, gerekend vanaf de datum van inwerkingtreding van deze wet.  
+De termijnen voor de duur van de werkzaamheden in het buitenland als bedoeld in [artikel 53, eerste lid, onderdeel *a*, van de Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [artikel 64, tweede lid, onderdeel *a*, van de Ziektewet](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) en [artikel 81, tweede lid, onderdeel *a*, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) worden voor de persoon, die reeds vrijwillig verzekerd was dan wel met toepassing van het bepaalde in artikel VII wordt toegelaten tot de vrijwillige verzekering, gerekend vanaf de datum van inwerkingtreding van deze wet. 
 
 ### Artikel  IX  
 
-De persoon die op de datum van inwerkingtreding van deze wet reeds vrijwillig verzekerd is, maar op grond van het bepaalde in [artikel 53, eerste lid, onderdeel *b*, van de Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [artikel 64, tweede lid, onderdeel *b*, van de Ziektewet](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) en [artikel 81, tweede lid, onderdeel *b*, van de Wet op de Arbeidsongeschiktheidsverzekering](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) na inwerkingtreding van deze wet niet kan worden toegelaten tot de vrijwillige verzekering, blijft vrijwillig verzekerd.  
+De persoon die op de datum van inwerkingtreding van deze wet reeds vrijwillig verzekerd is, maar op grond van het bepaalde in [artikel 53, eerste lid, onderdeel *b*, van de Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [artikel 64, tweede lid, onderdeel *b*, van de Ziektewet](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) en [artikel 81, tweede lid, onderdeel *b*, van de Wet op de Arbeidsongeschiktheidsverzekering](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) na inwerkingtreding van deze wet niet kan worden toegelaten tot de vrijwillige verzekering, blijft vrijwillig verzekerd. 
 
 ### Artikel  X  
 
-Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

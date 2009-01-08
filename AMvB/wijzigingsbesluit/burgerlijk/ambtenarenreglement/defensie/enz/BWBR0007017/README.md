@@ -15,31 +15,31 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Voor de gewezen ambtenaar, bedoeld in artikel I, onderdeel B, van wie het invaliditeitspensioen wordt berekend met inachtneming van een middelsom van berekeningsgrondslagen die geldt voor een diensttijd die eindigt voor 1 januari 1986, wordt de middelsom, vermeld in artikel 65, eerste lid, van het Burgerlijke ambtenarenreglement defensie verhoogd met 10%.  
+Voor de gewezen ambtenaar, bedoeld in artikel I, onderdeel B, van wie het invaliditeitspensioen wordt berekend met inachtneming van een middelsom van berekeningsgrondslagen die geldt voor een diensttijd die eindigt voor 1 januari 1986, wordt de middelsom, vermeld in artikel 65, eerste lid, van het Burgerlijke ambtenarenreglement defensie verhoogd met 10%. 
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  V  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VI  
 
-De artikelen van de in dit besluit gewijzigde regelingen en besluiten, zoals deze luidden op 31 juli 1993, blijven van toepassing op de ambtenaar in de zin van die regelingen en besluiten voor zover die ambtenaar verkeert in een overeenkomstige situatie, als de situaties omschreven in [Hoofdstuk III van de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](../../../../../../../wet/wet/terugdringing/beroep/op/de/arbeidsongeschiktheidsregelingen/BWBR0006072/README.md).  
+De artikelen van de in dit besluit gewijzigde regelingen en besluiten, zoals deze luidden op 31 juli 1993, blijven van toepassing op de ambtenaar in de zin van die regelingen en besluiten voor zover die ambtenaar verkeert in een overeenkomstige situatie, als de situaties omschreven in [Hoofdstuk III van de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](../../../../../../../wet/wet/terugdringing/beroep/op/de/arbeidsongeschiktheidsregelingen/BWBR0006072/README.md). 
 
 ### Artikel  VII  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte in het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 augustus 1993.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte in het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 augustus 1993. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

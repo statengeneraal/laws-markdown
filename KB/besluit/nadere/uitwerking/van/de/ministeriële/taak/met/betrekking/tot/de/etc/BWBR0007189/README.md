@@ -11,11 +11,11 @@ Hebben goedgevonden en verstaan:
 
 ### artikel  1  
 
-Met ingang van 1 januari 1995 gaan over op het Ministerie van Onderwijs, Cultuur en Wetenschappen: 
+Met ingang van 1 januari 1995 gaan over op het Ministerie van Onderwijs, Cultuur en Wetenschappen:  
 
 1. de verplichtingen voor het Ministerie van Volksgezondheid, Welzijn en Sport voortvloeiend uit het dienstverband met het personeel van de centrale- en stafafdelingen van het voormalige Ministerie van Welzijn, Volksgezondheid en Cultuur voorzover behorende tot het Directoraat-Generaal voor Culturele Zaken;  
 
-2. De verplichtingen voor het Ministerie van Volksgezondheid, Welzijn en Sport voortvloeiend uit het dienstverband met het personeel van de centrale- en stafafdelingen van het voormalige Ministerie van Welzijn, Volksgezondheid en Cultuur, voorzover dat personeel overeenkomstig de door de Minister van Volksgezondheid, Welzijn en Sport en de Minister van Onderwijs, Cultuur en Wetenschappen vastgestelde plaatsingsprocedure wordt geplaatst.    
+2. De verplichtingen voor het Ministerie van Volksgezondheid, Welzijn en Sport voortvloeiend uit het dienstverband met het personeel van de centrale- en stafafdelingen van het voormalige Ministerie van Welzijn, Volksgezondheid en Cultuur, voorzover dat personeel overeenkomstig de door de Minister van Volksgezondheid, Welzijn en Sport en de Minister van Onderwijs, Cultuur en Wetenschappen vastgestelde plaatsingsprocedure wordt geplaatst.   
 
 Onze Ministers van Volksgezondheid, Welzijn en Sport en van Onderwijs, Cultuur en Wetenschappen zijn belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Hoge Colleges van Staat, de ministerraad, de Gevolmachtigde Ministers van de Nederlandse Antillen en van Aruba en de ministeries.   
 

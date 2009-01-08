@@ -8,17 +8,17 @@ Besluiten:
 
 ### Artikel  1  
 
-Met de opsporing van de bij de [Wet inzake bloedvoorziening](../../../../../../../../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md) strafbaar gestelde feiten zijn belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane.  
+Met de opsporing van de bij de [Wet inzake bloedvoorziening](../../../../../../../../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md) strafbaar gestelde feiten zijn belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-J.F.Hoogervorst 
+J.F. Hoogervorst   
 
 De 
 Minister van Justitie, 
-J.P.H.Donner    
+J.P.H. Donner      

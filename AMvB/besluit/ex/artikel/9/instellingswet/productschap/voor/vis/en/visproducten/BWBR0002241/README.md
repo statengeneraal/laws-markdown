@@ -17,15 +17,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Voor de toepassing van de Instellingswet Produktschap voor Vis en Visprodukten (*Stb.* 1956, 332) en van de [artikelen 94](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), derde lid, en [104, tweede lid, van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (*Stb.* 1950, K 22) ten aanzien van het Productschap voor Vis en Visproducten wordt Onze Minister van Economische Zaken mede als betrokken Minister aangemerkt voor zoveel betreft 
+Voor de toepassing van de Instellingswet Produktschap voor Vis en Visprodukten (*Stb.* 1956, 332) en van de [artikelen 94](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), derde lid, en [104, tweede lid, van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (*Stb.* 1950, K 22) ten aanzien van het Productschap voor Vis en Visproducten wordt Onze Minister van Economische Zaken mede als betrokken Minister aangemerkt voor zoveel betreft  
 
 a. verordeningen, die bindende regelen inhouden voor de detailhandel in vis en visconserven;  
 
-b. verordeningen, die regelen inhouden, welke de mededinging beperken tussen degenen, die ondernemingen drijven op het gebied van de be- of verwerking van vis, de groothandel in vis en met die handel verwante bedrijven of de groothandel en de werkzaamheid van tussenpersonen in visconserven.    
+b. verordeningen, die regelen inhouden, welke de mededinging beperken tussen degenen, die ondernemingen drijven op het gebied van de be- of verwerking van vis, de groothandel in vis en met die handel verwante bedrijven of de groothandel en de werkzaamheid van tussenpersonen in visconserven.   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking op het tijdstip van in werking treden van de [Instellingswet Productschap voor Vis en Visproducten](../../../../../../../../../../../../wet/instellingswet/productschap/voor/vis/en/visproducten/BWBR0002220/README.md).  
+Dit besluit treedt in werking op het tijdstip van in werking treden van de [Instellingswet Productschap voor Vis en Visproducten](../../../../../../../../../../../../wet/instellingswet/productschap/voor/vis/en/visproducten/BWBR0002220/README.md). 
 
 Onze Ministers van Binnenlandse Zaken, Bezitsvorming en Publiekrechtelijke Bedrijfsorganisatie, van Landbouw, Visserij en Voedselvoorziening en van Economische Zaken zijn belast met de uitvoering van dit besluit, hetwelk in het *Staatsblad* zal worden geplaatst, en waarvan afschrift zal worden gezonden aan de Raad van State.   
 

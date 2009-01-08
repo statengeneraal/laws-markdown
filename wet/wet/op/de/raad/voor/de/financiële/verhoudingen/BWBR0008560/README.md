@@ -12,15 +12,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 ### Artikel  1  
 
 1.  Er is een Raad voor de financiële verhoudingen.   
-2.  De Raad bestaat uit een voorzitter en ten hoogste acht andere leden.   
+2.  De Raad bestaat uit een voorzitter en ten hoogste acht andere leden.  
 
 ### Artikel  2  
 
-De Raad heeft tot taak de regering en de beide kamers der Staten-Generaal te adviseren over de wetgeving inzake de financiële verhoudingen, in het bijzonder die van het Rijk met de gemeenten en met de provincies alsmede over de uitvoering van die wetgeving. Deze adviezen kunnen zowel van uitvoerende als van beleidsmatige aard zijn.  
+De Raad heeft tot taak de regering en de beide kamers der Staten-Generaal te adviseren over de wetgeving inzake de financiële verhoudingen, in het bijzonder die van het Rijk met de gemeenten en met de provincies alsmede over de uitvoering van die wetgeving. Deze adviezen kunnen zowel van uitvoerende als van beleidsmatige aard zijn. 
 
 ### Artikel  3  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1997.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1997. 
 
 ### Artikel  4  
 
@@ -30,10 +30,10 @@ Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle 
 
 Gegeven te Lech 
 21 februari 1997  
-Beatrix  
+Beatrix   
 
 De Minister van Binnenlandse Zaken, 
-H. F. Dijkstal   
+H. F. Dijkstal    
 
 De Minister van Financiën, 
 G. Zalm   

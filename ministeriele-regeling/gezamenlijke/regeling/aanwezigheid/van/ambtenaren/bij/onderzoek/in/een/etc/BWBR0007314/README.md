@@ -4,7 +4,7 @@
 
 De Staatssecretaris van Financiën van Nederland, de Minister van Financiën van de Nederlandse Antillen en de Minister van Financiën van Aruba;  
 Gelet op [artikel 37, tweede lid, van de Belastingregeling voor het Koninkrijk](../../../../../../../../../../../../rijkswet/belastingregeling/voor/het/koninkrijk/BWBR0002464/README.md),
-Besluiten:    
+Besluiten:     
 
 ### Artikel  1  
 
@@ -60,29 +60,29 @@ Deze regeling treedt in werking met ingang van de eerste dag van de maand volgen
 
 ### Artikel  14  
 
-Deze regeling kan worden aangehaald als: Gezamenlijke regeling aanwezigheid van ambtenaren bij onderzoek in een ander land van het Koninkrijk. Deze regeling zal in de Nederlandse Staatscourant, de Curaçaosche Courant en de Landscourant van Aruba worden geplaatst.  
+Deze regeling kan worden aangehaald als: Gezamenlijke regeling aanwezigheid van ambtenaren bij onderzoek in een ander land van het Koninkrijk. Deze regeling zal in de Nederlandse Staatscourant, de Curaçaosche Courant en de Landscourant van Aruba worden geplaatst. 
 
 Den Haag 
 31 maart 1995    
 
 De 
-Staatssecretaris van Financiën van Nederland, 
-W.A.Vermeend   
+Staatssecretaris  van Financiën van Nederland,
+W.A.  Vermeend    
 
 De 
-Minister van Financiën van de Nederlandse Antillen, 
+Minister van Financiën van de Nederlandse Antillen,
 
-namens deze, 
+namens deze,
 
-De Gevolmachtigde 
+De Gevolmachtigde
 Minister van de Nederlandse Antillen, 
-C.P.de Haseth.   
+C.P. de Haseth.
 
-De 
-Minister van Financiën van Aruba, 
+De
+Minister van Financiën van Aruba,
 
-namens deze, 
+namens deze,
 
 De Gevolmachtigde 
 Minister van Aruba, A.G. 
-Croes.    
+Croes.   

@@ -13,7 +13,7 @@ Besluit:
 
 ### Artikel  1  
 
-In dit reglement wordt verstaan onder:   a. betrokkene:  de medewerker, werkzaam bij het ministerie van Binnenlandse Zaken, die op grond van [artikel 12, tweede lid, van het Verplaatsingskostenbesluit 1989](../../../../../../../../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) recht heeft op een tegemoetkoming in de kosten voor het dagelijks reizen tussen de woning en de plaats van tewerkstelling;    b. vervoercoördinator:  de functionaris, werkzaam onder verantwoordelijkheid van de directeur Personeelszaken, die belast is met de uitvoering van het vervoerplan.     
+In dit reglement wordt verstaan onder: a. betrokkene:   de medewerker, werkzaam bij het ministerie van Binnenlandse Zaken, die op grond van [artikel 12, tweede lid, van het Verplaatsingskostenbesluit 1989](../../../../../../../../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) recht heeft op een tegemoetkoming in de kosten voor het dagelijks reizen tussen de woning en de plaats van tewerkstelling;  b. vervoercoördinator:   de functionaris, werkzaam onder verantwoordelijkheid van de directeur Personeelszaken, die belast is met de uitvoering van het vervoerplan.   
 
 ### Paragraaf  2  
 
@@ -24,7 +24,7 @@ In dit reglement wordt verstaan onder:   a. betrokkene:  de medewerker, werkzaam
 1.  Aan betrokkene die vier dagen of meer per week werkt en die voor het woon-werkverkeer gebruik maakt van het openbaar vervoer en dit door het overleggen van een kopie van een jaarabonnement kan aantonen, wordt op verzoek een toelage per maand toegekend.   
 2.  Aan betrokkene die drie dagen of minder per week werkt en die voor het woon-werkverkeer gebruik maakt van het openbaar vervoer en dit door een kopie van een jaarabonnement, dan wel bij het ontbreken daarvan door het overleggen van andere bewijsstukken kan aantonen, wordt op verzoek een toelage per maand toegekend.   
 3.  De toelage wordt vastgesteld aan de hand van de in bijlage I vermelde tabel.   
-4.  Indien betrokkene niet aantoonbaar met het openbaar vervoer reist, dan wel heeft gereisd, vervalt het recht op de in het eerste en tweede lid bedoelde toelage met ingang van de maand waarin het reizen met het openbaar vervoer niet meer aantoonbaar is.   
+4.  Indien betrokkene niet aantoonbaar met het openbaar vervoer reist, dan wel heeft gereisd, vervalt het recht op de in het eerste en tweede lid bedoelde toelage met ingang van de maand waarin het reizen met het openbaar vervoer niet meer aantoonbaar is.  
 
 ### Paragraaf  3  
 
@@ -36,7 +36,7 @@ In dit reglement wordt verstaan onder:   a. betrokkene:  de medewerker, werkzaam
 2.  Betrokkene die op grond van in artikel 2, eerste lid, een toelage wenst te ontvangen, dient bij de aanvraag een kopie van het jaarabonnement te overleggen bij de vervoercoördinator.   
 3.  Betrokkene die op grond van artikel 2, tweede lid, een toelage wenst te ontvangen, dient een verklaring te ondertekenen dat hij met het openbaar vervoer reist en dat hij op verzoek van de vervoercoördinator de bewijsstukken zal overleggen.   
 4.  Betrokkene die op grond van artikel 2, tweede lid, een toelage wenst te ontvangen dient de bewijsstukken ten minste drie maanden te bewaren, en deze op verzoek van de vervoercoördinator te allen tijde te overleggen.   
-5.  Wijzigingen van de persoonlijke gegevens dienen door de betrokkene die het aangaat, onverwijld te worden doorgegeven aan de vervoercoördinator.   
+5.  Wijzigingen van de persoonlijke gegevens dienen door de betrokkene die het aangaat, onverwijld te worden doorgegeven aan de vervoercoördinator.  
 
 ### Paragraaf  4  
 
@@ -44,21 +44,21 @@ In dit reglement wordt verstaan onder:   a. betrokkene:  de medewerker, werkzaam
 
 ### Artikel  4  
 
-Indien de prijzen van het openbaar vervoer wijzigen kan de directeur Personeelszaken de in bijlage I vermelde tabel overeenkomstig bijstellen.  
+Indien de prijzen van het openbaar vervoer wijzigen kan de directeur Personeelszaken de in bijlage I vermelde tabel overeenkomstig bijstellen. 
 
 ### Artikel  5  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1995 en vervalt met ingang van 1 januari 1997.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1995 en vervalt met ingang van 1 januari 1997. 
 
 ### Artikel  6  
 
-Deze regeling kan worden aangehaald als het Reglement Toelage Openbaar-Vervoer woon-werkverkeer van het ministerie van Binnenlandse Zaken.  
+Deze regeling kan worden aangehaald als het Reglement Toelage Openbaar-Vervoer woon-werkverkeer van het ministerie van Binnenlandse Zaken. 
 
 De 
 Minister van Binnenlandse Zaken, 
-H. F.Dijkstal   
+H. F. Dijkstal     
 
-### Bijlage  
+### Bijlage 
 
 ####Reglement Toelage Openbaar-Vervoer woon-werkverkeer
 

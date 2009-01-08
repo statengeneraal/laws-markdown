@@ -13,28 +13,28 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-####Wijziging [Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)
+####Wijziging [Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) 
 
-Wijzigt de Wet op het voortgezet onderwijs.   
+Wijzigt de Wet op het voortgezet onderwijs.  
 
 ### Artikel  II  
 
-####Wijziging [Wet educatie en beroepsonderwijs](../../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md)
+####Wijziging [Wet educatie en beroepsonderwijs](../../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) 
 
-Wijzigt de Wet educatie en beroepsonderwijs.   
+Wijzigt de Wet educatie en beroepsonderwijs.  
 
 ### Artikel  IIa  
 
 ####Tijdelijke bekostigingsregels landelijke organen
 
-De bekostiging van de landelijke organen voor het beroepsonderwijs ten behoeve van hun taken, geregeld in [artikel 10b4 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) zoals luidend ingevolge artikel I, onderdeel A, van deze wet, geschiedt tot een bij koninklijk besluit te bepalen tijdstip volgens bij ministeriële regeling vast te stellen voorschriften.  
+De bekostiging van de landelijke organen voor het beroepsonderwijs ten behoeve van hun taken, geregeld in [artikel 10b4 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) zoals luidend ingevolge artikel I, onderdeel A, van deze wet, geschiedt tot een bij koninklijk besluit te bepalen tijdstip volgens bij ministeriële regeling vast te stellen voorschriften. 
 
 ### Artikel  III  
 
 ####Inwerkingtreding
 
 1.  Deze wet treedt, behoudens het bepaalde in het tweede lid, in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
-2.  Artikel IIb vervalt twee jaar na de datum waarop het in artikel I, onderdeel A, opgenomen [artikel 10b4 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) in werking is getreden.   
+2.  Artikel IIb vervalt twee jaar na de datum waarop het in artikel I, onderdeel A, opgenomen [artikel 10b4 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) in werking is getreden.  
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -43,10 +43,10 @@ Gegeven te 's-Gravenhage
 Beatrix  
 
 De Minister van Onderwijs, Cultuur en Wetenschappen, 
-M. J. A. van der Hoeven   
+M. J. A. van der Hoeven    
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit, 
-C. P. Veerman   
+C. P. Veerman    
 
 de vijftiende juli 2003 
 

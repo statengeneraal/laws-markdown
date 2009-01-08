@@ -6,7 +6,7 @@ De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen,
 Handelende in overeenstemming met het gevoelen van de Raad van ministers:
 
 Gelet op artikel 97 van de Wet gemeenschappelijk regelingen;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -18,8 +18,8 @@ De uit de gemeenschappelijke regeling voortvloeiende kosten worden onder aftrek 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, 
-A.Nuis    
+A. Nuis      

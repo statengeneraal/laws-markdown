@@ -14,14 +14,14 @@ Vast te stellen ’lijst van categorieën te bewaren en te vernietigen archiefbe
 
 ### Artikel  2  
 
-Dit Besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het is gepubliceerd.  
+Dit Besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het is gepubliceerd. 
 
 Oktober 1997    
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, 
-A.Nuis. 
+A. Nuis .  
 
 De 
 Minister van Binnenlandse Zaken, 
-H.F.Dijkstal.    
+H.F.Dijkstal .    

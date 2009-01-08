@@ -11,23 +11,23 @@ dat om deze reden de beschikking van 31 oktober 1973 zou moeten worden gewijzigd
 
 dat die wijzigingen van zodanige aard zijn, dat vervanging van bovenbedoelde beschikking de voorkeur verdient boven wijziging,     Besluit:    
 
-### Artikel  1  
+### Artikel 1  
 
-Er is een ‘Coördinatiecommissie scholengemeenschappen v.w.o.-h.a.v.o.-m.a.v.o.-beroepsonderwijs’.  
+Er is een ‘Coördinatiecommissie scholengemeenschappen v.w.o.-h.a.v.o.-m.a.v.o.-beroepsonderwijs’. 
 
-### Artikel  2  
+### Artikel 2  
 
-De commissie heeft als taak: 
+De commissie heeft als taak:  
 
 a. de ontwikkelingen te begeleiden, te stimuleren en te coördineren, die binnen de verschillende scholengemeenschappen voor voorbereidend wetenschappelijk en/of algemeen voortgezet onderwijs met beroepsonderwijs gaande zijn, teneinde ook onderwijskundig te komen tot de ene school, bedoeld in [artikel 19 van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), een en ander binnen het kader van het algehele ontwikkelings- en vernieuwingsbeleid;  
 
 b. na te gaan welke voorwaarden van juridische en administratieve aard moeten worden vervuld om tot dat doel te geraken;  
 
-c. hem ten aanzien van zowel a. als b. te adviseren en eventueel aanbevelingen te doen.    
+c. hem ten aanzien van zowel a. als b. te adviseren en eventueel aanbevelingen te doen.   
 
-### Artikel  3  
+### Artikel 3  
 
-De commissie is als volgt samengesteld: 
+De commissie is als volgt samengesteld:  
 
 a.  *voorzitter:*  S. P. den Hollander;  
 
@@ -37,17 +37,17 @@ c.  *de leden:*  J. H. Kleine; A. Klop en C. F. de Wit, namens het Directeurenco
 
 d.  *de waarnemers:*  drs. M. C. Onneweer, namens de directie VO/AV van het Ministerie van Onderwijs en Wetenschappen; C. Notenboom, namens de directie VO/LMB van het Ministerie van Onderwijs en Wetenschappen; G. L. van der Weide, namens de directie Landbouwonderwijs van het Ministerie van Landbouw en Visserij;  
 
-e.  *de ambtelijk adjunct-secretaris:*  F. H. Konings van de afdeling VO/AV/AVB van het Ministerie van Onderwijs en Wetenschappen.    
+e.  *de ambtelijk adjunct-secretaris:*  F. H. Konings van de afdeling VO/AV/AVB van het Ministerie van Onderwijs en Wetenschappen.   
 
-### Artikel  4  
+### Artikel 4  
 
-De commissie kan ter uitvoering van haar taken, omschreven in punt 2 onder a. en b., werkgroepen uit haar midden instellen en deze zonodig met deskundigen van buitenaf doen aanvullen. Een zodanige werkgroep wordt in ieder geval ingesteld voor de taak als bedoeld onder punt 2b. Deze werkgroep kan in overleg treden met de departementale werkgroep scholengemeenschappen ten einde tot voorstellen te komen welke als oplossing kunnen dienen voor onder meer de bekostigingsproblemen, welke ontstaan (zijn) als gevolg van het samengaan van het voorbereidend wetenschappelijk en/of het algemeen voortgezet onderwijs met het beroepsonderwijs.  
+De commissie kan ter uitvoering van haar taken, omschreven in punt 2 onder a. en b., werkgroepen uit haar midden instellen en deze zonodig met deskundigen van buitenaf doen aanvullen.  Een zodanige werkgroep wordt in ieder geval ingesteld voor de taak als bedoeld onder punt 2b. Deze werkgroep kan in overleg treden met de departementale werkgroep scholengemeenschappen ten einde tot voorstellen te komen welke als oplossing kunnen dienen voor onder meer de bekostigingsproblemen, welke ontstaan (zijn) als gevolg van het samengaan van het voorbereidend wetenschappelijk en/of het algemeen voortgezet onderwijs met het beroepsonderwijs. 
 
-### Artikel  5  
+### Artikel 5  
 
-De leden van de commissie en de deskundigen genoemd in punt 4 wordt overeenkomstig de bepalingen van het Reisbesluit 1971 een vergoeding van reis- en verblijfkosten toegekend.  
+De leden van de commissie en de deskundigen genoemd in punt 4 wordt overeenkomstig de bepalingen van het Reisbesluit 1971 een vergoeding van reis- en verblijfkosten toegekend. 
 
-### Artikel  6  
+### Artikel 6  
 
 De beschikking van 31 oktober 1973, kenmerk DGV 4975, zoals die sedertdien is gewijzigd, laatstelijk bij beschikking van 2 maart 1978, kenmerk DGVO 9311, wordt ingetrokken.  
 

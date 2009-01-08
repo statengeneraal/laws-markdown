@@ -1,23 +1,23 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Instelling Stuurgroep wapenbeheersing en nucleaire bewapening
+##Instelling Stuurgroep wapenbeheersing en nucleaire bewapening 
 
 De Minister van Buitenlandse Zaken en de Minister van Defensie,  Besluiten:     
 
-1. Ingesteld wordt de Stuurgroep wapenbeheersing en nucleaire bewapening.  
+1. Ingesteld wordt de Stuurgroep wapenbeheersing en nucleaire bewapening. 
 
-2. Taak, samenstelling en werkwijze van de Stuurgroep zijn vervat in de bij deze beschikking gevoegde bijlage.  
+2. Taak, samenstelling en werkwijze van de Stuurgroep zijn vervat in de bij deze beschikking gevoegde bijlage. 
 
-3. Deze beschikking zal, met de daarbij behorende bijlage, in de Nederlandse Staatscourant worden geplaatst en treedt in werking met ingang van de dag van publikatie.       
+3. Deze beschikking zal, met de daarbij behorende bijlage, in de Nederlandse Staatscourant worden geplaatst en treedt in werking met ingang van de dag van publikatie.      
 
 's-Gravenhage 
 30 september 1981    
 
 De 
 Minister van Buitenlandse Zaken, 
-M. van derStoel. De 
+M. van der Stoel.  De 
 Minister van Defensie, 
-H. A. F. M. O. vanMierlo   
+H. A. F. M. O. van  Mierlo     
 
 ### Bijlage  
 

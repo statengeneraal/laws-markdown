@@ -8,13 +8,13 @@ Besluit:
 
 ### Artikel  1  
 
-De termijn van twaalf maanden, bedoeld in de [tweede volzin van artikel 80, vierde lid, van de Wet toezicht accountantsorganisaties](../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), wordt verlengd met een half jaar.  
+De termijn van twaalf maanden, bedoeld in de [tweede volzin van artikel 80, vierde lid, van de Wet toezicht accountantsorganisaties](../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), wordt verlengd met een half jaar. 
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van 1 oktober 2007.  
+Deze regeling treedt in werking met ingang van 1 oktober 2007. 
 De regeling wordt met de toelichting in de Staatscourant geplaatst.  
 
 De 
 Minister van Financiën, 
-W.J.Bos   
+W.J. Bos     

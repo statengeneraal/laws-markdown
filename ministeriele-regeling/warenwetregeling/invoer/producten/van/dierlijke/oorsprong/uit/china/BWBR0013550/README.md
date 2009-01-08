@@ -10,21 +10,21 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. beschikking 2002/69/EG:  beschikking nr. 2002/69/EG van de Commissie van de Europese Gemeenschappen van 30 januari 2002 betreffende beschermende maatregelen ten aanzien van uit China ingevoerde producten van dierlijke oorsprong (PbEG L 30).     
+In deze regeling wordt verstaan onder: a. beschikking 2002/69/EG:   beschikking nr. 2002/69/EG van de Commissie van de Europese Gemeenschappen van 30 januari 2002 betreffende beschermende maatregelen ten aanzien van uit China ingevoerde producten van dierlijke oorsprong (PbEG L 30).   
 
 ### Artikel  2  
 
-Eet- en drinkwaren van dierlijke oorsprong, van herkomst of van oorsprong uit China, worden slechts binnen Nederlands grondgebied gebracht met inachtneming van de bij beschikking 2002/69/EG gestelde voorschriften.  
+Eet- en drinkwaren van dierlijke oorsprong, van herkomst of van oorsprong uit China, worden slechts binnen Nederlands grondgebied gebracht met inachtneming van de bij beschikking 2002/69/EG gestelde voorschriften. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Warenwetregeling Invoer producten van dierlijke oorsprong uit China.  
+Deze regeling wordt aangehaald als: Warenwetregeling Invoer producten van dierlijke oorsprong uit China. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-E.Borst-Eilers    
+E. Borst-Eilers      

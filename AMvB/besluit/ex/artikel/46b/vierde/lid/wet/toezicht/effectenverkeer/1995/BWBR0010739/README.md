@@ -13,17 +13,17 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De aanwijzing, opgenomen in artikel 3 van de Regeling melding en reglementering transacties in effecten 1999, wordt goedgekeurd.  
+De aanwijzing, opgenomen in artikel 3 van de Regeling melding en reglementering transacties in effecten 1999, wordt goedgekeurd. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin hij is geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 27 september 1999  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Financiën, 
 W. A. F. G. Vermeend   
@@ -31,4 +31,4 @@ W. A. F. G. Vermeend
 de dertigste september 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

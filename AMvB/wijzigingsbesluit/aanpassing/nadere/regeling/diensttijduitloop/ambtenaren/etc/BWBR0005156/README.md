@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-De salarisnummers, als bedoeld in het koninklijk besluit van 14 februari 1985 (*Stb.* 1985, 106), zoals die luidden op 31 december 1988, beginnend met de letter U, worden vernummerd naar de salarisnummers beginnend met de letter U, zoals bedoeld in artikel I van dit besluit, met dezelfde salarisschaal en hetzelfde salaris, die voor de ambtenaar ingevolge dit besluit gelden op 1 januari 1989.  
+De salarisnummers, als bedoeld in het koninklijk besluit van 14 februari 1985 (*Stb.* 1985, 106), zoals die luidden op 31 december 1988, beginnend met de letter U, worden vernummerd naar de salarisnummers beginnend met de letter U, zoals bedoeld in artikel I van dit besluit, met dezelfde salarisschaal en hetzelfde salaris, die voor de ambtenaar ingevolge dit besluit gelden op 1 januari 1989. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin dit besluit wordt geplaatst en werkt terug tot en met 1 januari 1989.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin dit besluit wordt geplaatst en werkt terug tot en met 1 januari 1989. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.   
 

@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Aanwijzing volkenrechtelijke organisaties in het buitenland
+##Aanwijzing volkenrechtelijke organisaties in het buitenland 
 
 De staatssecretaris van Sociale Zaken en Werkgelegenheid, de staatssecretaris van Welzijn, Volksgezondheid en Cultuur en de minister van Binnenlandse Zaken,  
 Gelet op artikel 3, derde lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1989 (Stb. 1989, 164);
@@ -56,7 +56,7 @@ Als volkenrechtelijke organisatie als bedoeld in artikel 3, derde lid, van het B
 
 23. de Wereldbank;  
 
-24. de Inter-Amerikaanse Ontwikkelingsbank;  
+24.  de Inter-Amerikaanse Ontwikkelingsbank;  
 
 25. de Europese Investeringsbank;  
 
@@ -66,23 +66,23 @@ Als volkenrechtelijke organisatie als bedoeld in artikel 3, derde lid, van het B
 
 28. de Caraïbische Ontwikkelingsbank;  
 
-29. de Europese Bank voor Wederopbouw en Ontwikkeling.    
+29.  de Europese Bank voor Wederopbouw en Ontwikkeling.   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 juli 1989.  
+Dit besluit treedt in werking met ingang van 1 juli 1989. 
 
-'s-Gravenhage 
+'s-Gravenhage  
 6 juni 1989    
 
 De 
 staatssecretaris van Sociale Zaken en Werkgelegenheid, 
-L. deGraaf. 
+L. deGraaf.  
 
 De 
 staatssecretaris van Welzijn, Volksgezondheid en Cultuur, 
-D. J. D.Dees. 
+D. J. D.Dees.  
 
 De 
 minister van Binnenlandse Zaken, 
-C. P. vanDijk.    
+C. P. van Dijk.     

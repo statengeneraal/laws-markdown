@@ -12,9 +12,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*WPO:*[Wet op het primair onderwijs](../../../../../../../../../wet/wbo/BWBR0003420/README.md),  
+*WPO:* [Wet op het primair onderwijs](../../../../../../../../../wet/wbo/BWBR0003420/README.md),  
 
-*WEC:*[Wet op de expertisecentra](../../../../../../../../../wet/isovso/BWBR0003549/README.md),  
+*WEC:* [Wet op de expertisecentra](../../../../../../../../../wet/isovso/BWBR0003549/README.md),  
 
 *basisschool:* een school voor basisonderwijs als bedoeld in [artikel 1 van de WPO](../../../../../../../../../wet/wbo/BWBR0003420/README.md),  
 
@@ -28,9 +28,9 @@ In deze regeling wordt verstaan onder:
 
 *inspecteur:* de inspecteur bedoeld in [artikel 1 van de WPO](../../../../../../../../../wet/wbo/BWBR0003420/README.md) en [artikel 1 van de WEC](../../../../../../../../../wet/isovso/BWBR0003549/README.md),  
 
-*richtlijn:*Richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (Pb EU L 255),  
+*richtlijn:* Richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (Pb EU L 255),  
 
-*IB-groep:* Informatie Beheer Groep als bedoeld in de [Wet verzelfstandiging Informatiseringsbank](../../../../../../../../../wet/wet/verzelfstandiging/informatiseringsbank/BWBR0006320/README.md).    
+*IB-groep:* Informatie Beheer Groep als bedoeld in de [Wet verzelfstandiging Informatiseringsbank](../../../../../../../../../wet/wet/verzelfstandiging/informatiseringsbank/BWBR0006320/README.md).   
 
 ### Artikel  2  
 
@@ -49,7 +49,7 @@ b. hij de Nederlandse taal in voldoende mate beheerst, hetgeen blijkt uit het be
 3. het diploma Nederlands als Tweede taal, programma II, dan wel het certificaat Nederlands als Tweede taal op het tweede niveau, afgegeven voor 1 januari 1994, of  
 
 4. een diploma voortgezet wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs of een diploma van een opleiding middelbaar beroepsonderwijs die uitsluitend of mede is gericht op doorstroming naar het hoger beroepsonderwijs of een daarmee vergelijkbaar diploma behaald in het Nederlandstalige onderwijs in België.       
-2.  Het eerste lid is niet van toepassing op een onderdaan van een Lidstaat van de Europese Unie of een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland, die in het bezit is van een diploma als bedoeld in de richtlijn.   
+2.  Het eerste lid is niet van toepassing op een onderdaan van een Lidstaat van de Europese Unie of een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland, die in het bezit is van een diploma als bedoeld in de richtlijn.  
 
 ### Artikel  3  
 
@@ -68,28 +68,28 @@ b. hij de Nederlandse taal in voldoende mate beheerst, hetgeen blijkt uit het be
 3. het diploma Nederlands als Tweede taal, programma II, dan wel het certificaat Nederlands als Tweede taal op het tweede niveau, afgegeven voor 1 januari 1994, en  
 
 4. een diploma voortgezet wetenschappelijk onderwijs, hoger algemeen voortgezet onderwijs, of een diploma van een opleiding middelbaar beroepsonderwijs die uitsluitend of mede is gericht op doorstroming naar het hoger beroepsonderwijs, of een daarmee vergelijkbaar diploma behaald in het Nederlandstalige onderwijs in België.       
-2.  Het eerste lid is niet van toepassing op een onderdaan van een Lidstaat van de Europese Unie of een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland, die in het bezit is van een diploma als bedoeld in de richtlijn.   
+2.  Het eerste lid is niet van toepassing op een onderdaan van een Lidstaat van de Europese Unie of een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland, die in het bezit is van een diploma als bedoeld in de richtlijn.  
 
 ### Artikel  4  
 
 ####Voorwaarden verkrijgen bevoegdheid voor onbepaalde tijd
 
 1.  Degene aan wie op grond van artikel 2 de bevoegdheid voor bepaalde tijd is verleend, wordt op zijn verzoek voor onbepaalde tijd de bevoegdheid verleend tot het geven van onderwijs aan een school voor basisonderwijs, een speciale school voor basisonderwijs of een school voor (voortgezet) speciaal onderwijs indien hij 40 schoolweken als groepsleraar of leraar werkzaam is geweest aan een school voor basisonderwijs, een speciale school voor basisonderwijs of een school voor (voortgezet) speciaal onderwijs en de inspectie over zijn functioneren een positief advies heeft uitgebracht.   
-2.  Degene aan wie op grond van artikel 3 de bevoegdheid tot het geven van onderwijs in een vak voor bepaalde tijd is verleend, wordt voor onbepaalde tijd de bevoegdheid verleend tot het geven van onderwijs in dat vak aan scholen voor basisonderwijs, speciale scholen voor basisonderwijs en voor (voortgezet) speciaal onderwijs indien hij 40 schoolweken als vakleraar werkzaam is geweest aan een school voor basisonderwijs, een speciale school voor basisonderwijs of een school voor (voortgezet) speciaal onderwijs en de inspectie over zijn functioneren een positief advies heeft uitgebracht.   
+2.  Degene aan wie op grond van artikel 3 de bevoegdheid tot het geven van onderwijs in een vak voor bepaalde tijd is verleend, wordt voor onbepaalde tijd de bevoegdheid verleend tot het geven van onderwijs in dat vak aan scholen voor basisonderwijs, speciale scholen voor basisonderwijs en voor (voortgezet) speciaal onderwijs indien hij 40 schoolweken als vakleraar werkzaam is geweest aan een school voor basisonderwijs, een speciale school voor basisonderwijs of een school voor (voortgezet) speciaal onderwijs en de inspectie over zijn functioneren een positief advies heeft uitgebracht.  
 
 ### Artikel  5  
 
 ####Inwerkingtreding en geldigheidsduur
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  6  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Beleidsregel bevoegdheid basisonderwijs, speciaal basisonderwijs en (voortgezet) speciaal onderwijs voor buitenlandse diploma’s.  
+Deze regeling wordt aangehaald als: Beleidsregel bevoegdheid basisonderwijs, speciaal basisonderwijs en (voortgezet) speciaal onderwijs voor buitenlandse diploma’s. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-S.A.M.Dijksma   
+S.A.M. Dijksma     

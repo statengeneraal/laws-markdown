@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Warenwetbesluit Toevoeging micro-voedingsstoffen aan levensmiddelen.   
+Wijzigt het Warenwetbesluit Toevoeging micro-voedingsstoffen aan levensmiddelen.
 
 ### Artikel  II  
 
-Eet- en drinkwaren die voldoen aan [artikel 9a van het Warenwetbesluit Toevoeging micro-voedingsstoffen aan levensmiddelen](../../../../../../../../AMvB/warenwetbesluit/toevoeging/micro-voedingsstoffen/aan/levensmiddelen/BWBR0008065/README.md) zoals dat luidde onmiddellijk voor de inwerkingtreding van dit besluit, mogen bereid en verhandeld worden tot 20 juni 2009.  
+Eet- en drinkwaren die voldoen aan [artikel 9a van het Warenwetbesluit Toevoeging micro-voedingsstoffen aan levensmiddelen](../../../../../../../../AMvB/warenwetbesluit/toevoeging/micro-voedingsstoffen/aan/levensmiddelen/BWBR0008065/README.md) zoals dat luidde onmiddellijk voor de inwerkingtreding van dit besluit, mogen bereid en verhandeld worden tot 20 juni 2009. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van 20 juni 2008.  
+Dit besluit treedt in werking met ingang van 20 juni 2008. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -31,10 +31,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 13 juni 2008  
 Beatrix  
 
-De Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink 
+De Minister van Volksgezondheid, Welzijn en Sport , 
+A. Klink   
 
 de *achtste* juli 2008 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

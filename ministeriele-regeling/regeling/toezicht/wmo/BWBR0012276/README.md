@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling toezicht WMO
+##Regeling toezicht WMO 
 
 De Minister van Volksgezondheid, Welzijn en Sport;  
 Gelet op [artikel 28 van de Wet medisch-wetenschappelijk onderzoek met mensen](../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md),
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -16,9 +16,9 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als Regeling toezicht WMO.  
+Deze regeling wordt aangehaald als Regeling toezicht WMO. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-E.Borst-Eilers    
+E.  Borst-Eilers      

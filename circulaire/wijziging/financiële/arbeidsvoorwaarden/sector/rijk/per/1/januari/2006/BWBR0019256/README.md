@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 2006
+##Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 2006 
 
 ####Inleiding/managementinformatie
 
@@ -103,11 +103,11 @@ In de bijlage vindt u een overzicht van de in dit jaar tot stand gekomen (wijzig
 Ik verzoek u met het vorenstaande rekening te houden en daaraan voor zoveel nodig uitvoering te geven.      Deze circulaire is eveneens geplaatst op intranet en op internet. Voor het laatste geldt als adres: http://www.minbzk.nl en vervolgens klikken op ‘Overheidspersoneel’, Arbeidsvoorwaarden Rijksoverheid’, en ‘publicaties’. Inlichtingen, uitsluitend voor de afdelingen Personeelszaken van geadresseerden, kunnen worden verkregen bij de heer Martens (telefoon 070-426 6904; e-mailadres: Halbe.Martens@minbzk.nl). Bij geen gehoor kunt u ook contact opnemen met het secretariaat van de afdeling Arbeidsvoorwaarden, telefoon 070-426 6996; e-mailadres: Postbus infobzk.  
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze: de 
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze:de 
 directeur-generaal Management Openbare Sector, 
-R.IJ.M.Kuipers  
+R.IJ.M. Kuipers    
 
-### Bijlage  
+### Bijlage 
 
 ####behorende bij de circulaire d.d. 13 december 2005
 
@@ -121,7 +121,7 @@ R.IJ.M.Kuipers
 
 3. Besluit houdende wijziging van het ARAR en enkele andere besluiten i.v.m. de formalisering van de Arbeidsvoorwaardenovereenkomst sector Rijk 2004 en de implementatie van de Wet verlenging loondoorbetalingsverplichting bij ziekte 2003 (Stb. 2005, 591).  
 
-4. Besluit van 7 december 2005 (Stb. 2005, 637) houdende wijziging van het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk en de Suppletieregeling gedeeltelijk arbeidsongeschikten sector Rijk in verband met de afschaffing van de vervolguitkering in de Werkloosheidswet.    
+4. Besluit van 7 december 2005 (Stb. 2005, 637) houdende wijziging van het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk en de Suppletieregeling gedeeltelijk arbeidsongeschikten sector Rijk in verband met de afschaffing van de vervolguitkering in de Werkloosheidswet.   
 
 #### *II. Ministeriële regelingen* 
 
@@ -137,7 +137,7 @@ R.IJ.M.Kuipers
 
 6. [Levensloopregeling rijkspersoneel](../../../../../../../../../../../ministeriele-regeling/levensloopregeling/rijkspersoneel/BWBR0018979/README.md) van 3 november 2005, nr. 2005-266589 (Stcrt. 2005, 222).  
 
-7. Besluit van 28 november 2005, nr. 2005-237935 (Stcrt. 2005, 237), inzake wijziging van de Reisregeling binnenland.    
+7. Besluit van 28 november 2005, nr. 2005-237935 (Stcrt. 2005, 237), inzake wijziging van de Reisregeling binnenland.   
 
 #### *III. Circulaires* 
 
@@ -157,5 +157,5 @@ R.IJ.M.Kuipers
 
 8. [Circulaire van 25 oktober 2005, nr. 2005-255562 (Stcrt. 2005, 213) inzake nieuwe datum loonbetaling betreffende het tweede ziektejaar](../../../../../../../../../../../circulaire/circulaire/nieuwe/datum/loonbetaling/tweede/ziektejaar/BWBR0018917/README.md).  
 
-9. Circulaire van 13 december 2005, nr. 2005-237751 (Stcrt. 2005, …), inzake (Wijziging in de) financiële arbeidsvoorwaarden sector Rijk per 1 januari 2006.    
+9. Circulaire van 13 december 2005, nr. 2005-237751 (Stcrt. 2005, …), inzake (Wijziging in de) financiële arbeidsvoorwaarden sector Rijk per 1 januari 2006.   
 

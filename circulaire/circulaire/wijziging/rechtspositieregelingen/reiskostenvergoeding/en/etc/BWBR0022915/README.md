@@ -41,25 +41,25 @@ Informatie die betrekking heeft op politieke ambtsdragers, kunt u vinden op de i
 Hoogachtend, 
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelatiesvoor deze: de 
+Minister van Binnenlandse Zaken en Koninkrijksrelaties voor deze:de 
 wnd. directeur-generaal Bestuur, 
-P.P.L. vanKalmthout  
+P.P.L. van Kalmthout    
 
 ### Bijlage  
 
-Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 november 2007, nr. 2007-0000443938, houdende wijziging van een aantal rechtspositionele regelingen in verband met de reiskostenvergoeding en de verhuiskostenvergoeding De Minister van Binnenlandse Zaken en Koninkrijksrelaties, Gelet op de [artikelen 8](../../../../../../../../AMvB/rechtspositiebesluit/commissarissen/van/de/koning/BWBR0006738/README.md) en [8a van het Rechtspositiebesluit commissarissen van de Koning](../../../../../../../../AMvB/rechtspositiebesluit/commissarissen/van/de/koning/BWBR0006738/README.md), de [artikelen 18](../../../../../../../../AMvB/rechtspositiebesluit/gedeputeerden/BWBR0006533/README.md) en [19 van het Rechtspositiebesluit](../../../../../../../../AMvB/rechtspositiebesluit/gedeputeerden/BWBR0006533/README.md) gedeputeerden, de [artikelen 31](../../../../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md), [32](../../../../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md) en [34 van het Rechtspositiebesluit burgemeesters](../../../../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md) en de [artikelen 22](../../../../../../../../AMvB/rechtspositiebesluit/wethouders/BWBR0006535/README.md) en [23 van het Rechtspositiebesluit wethouders](../../../../../../../../AMvB/rechtspositiebesluit/wethouders/BWBR0006535/README.md); Besluit: 
+Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 november 2007, nr. 2007-0000443938, houdende wijziging van een aantal rechtspositionele regelingen in verband met de reiskostenvergoeding en de verhuiskostenvergoeding De Minister van Binnenlandse Zaken en Koninkrijksrelaties, Gelet op de [artikelen 8](../../../../../../../../AMvB/rechtspositiebesluit/commissarissen/van/de/koning/BWBR0006738/README.md) en [8a van het Rechtspositiebesluit commissarissen van de Koning](../../../../../../../../AMvB/rechtspositiebesluit/commissarissen/van/de/koning/BWBR0006738/README.md), de [artikelen 18](../../../../../../../../AMvB/rechtspositiebesluit/gedeputeerden/BWBR0006533/README.md) en [19 van het Rechtspositiebesluit](../../../../../../../../AMvB/rechtspositiebesluit/gedeputeerden/BWBR0006533/README.md) gedeputeerden, de [artikelen 31](../../../../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md), [32](../../../../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md) en [34 van het Rechtspositiebesluit burgemeesters](../../../../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md) en de [artikelen 22](../../../../../../../../AMvB/rechtspositiebesluit/wethouders/BWBR0006535/README.md) en [23 van het Rechtspositiebesluit wethouders](../../../../../../../../AMvB/rechtspositiebesluit/wethouders/BWBR0006535/README.md);  Besluit:  
 
-#### *Artikel I* 
+####*Artikel I*
 
-De [Regeling rechtspositie commissarissen van de Koning](../../../../../../../../ministeriele-regeling/regeling/rechtspositie/commissarissen/van/de/koning/BWBR0016419/README.md) wordt als volgt gewijzigd: 
+De [Regeling rechtspositie commissarissen van de Koning ](../../../../../../../../ministeriele-regeling/regeling/rechtspositie/commissarissen/van/de/koning/BWBR0016419/README.md)wordt als volgt gewijzigd: 
 ###A
 
 In [artikel 3, onderdeel b](../../../../../../../../ministeriele-regeling/regeling/rechtspositie/commissarissen/van/de/koning/BWBR0016419/README.md), wordt ‘andere direct uit de verhuizing voortvloeiende kosten’ vervangen door: andere direct uit de verhuizing voortvloeiende kosten, waaronder begrepen de kosten van het in- en uitpakken van breekbare zaken’. 
 ###B
 
-In de [artikelen 5, onderdeel b](../../../../../../../../ministeriele-regeling/regeling/rechtspositie/commissarissen/van/de/koning/BWBR0016419/README.md), en [6, onderdeel c](../../../../../../../../ministeriele-regeling/regeling/rechtspositie/commissarissen/van/de/koning/BWBR0016419/README.md), wordt ‘€ 0,28’ vervangen door: € 0,37.  
+In de [artikelen 5, onderdeel b](../../../../../../../../ministeriele-regeling/regeling/rechtspositie/commissarissen/van/de/koning/BWBR0016419/README.md), en [6, onderdeel c](../../../../../../../../ministeriele-regeling/regeling/rechtspositie/commissarissen/van/de/koning/BWBR0016419/README.md), wordt ‘€ 0,28’ vervangen door: € 0,37. 
 
-#### *Artikel II* 
+####*Artikel II*
 
 De [Regeling rechtspositie gedeputeerden](../../../../../../../../ministeriele-regeling/regeling/rechtspositie/gedeputeerden/BWBR0016416/README.md) wordt als volgt gewijzigd: 
 ###A
@@ -67,9 +67,9 @@ De [Regeling rechtspositie gedeputeerden](../../../../../../../../ministeriele-r
 In [artikel 2, onderdeel b](../../../../../../../../ministeriele-regeling/regeling/rechtspositie/gedeputeerden/BWBR0016416/README.md), wordt ‘andere direct uit de verhuizing voortvloeiende kosten’ vervangen door: andere direct uit de verhuizing voortvloeiende kosten, waaronder begrepen de kosten van het in- en uitpakken van breekbare zaken’. 
 ###B
 
-In [artikel 4, onderdeel b](../../../../../../../../ministeriele-regeling/regeling/rechtspositie/gedeputeerden/BWBR0016416/README.md), wordt ‘€ 0,28’ vervangen door: € 0,37.  
+In [artikel 4, onderdeel b](../../../../../../../../ministeriele-regeling/regeling/rechtspositie/gedeputeerden/BWBR0016416/README.md), wordt ‘€ 0,28’ vervangen door: € 0,37. 
 
-#### *Artikel III* 
+####*Artikel III*
 
 De [Regeling rechtspositie burgemeesters](../../../../../../../../ministeriele-regeling/regeling/rechtspositie/burgemeesters/BWBR0016417/README.md) wordt als volgt gewijzigd: 
 ###A
@@ -83,9 +83,9 @@ In [artikel 3, onderdeel b](../../../../../../../../ministeriele-regeling/regeli
 In [artikel 6, derde lid, onderdeel b](../../../../../../../../ministeriele-regeling/regeling/rechtspositie/burgemeesters/BWBR0016417/README.md), wordt ‘€ 0,28’ vervangen door: € 0,37. 
 ###D
 
-In [artikel 7, onderdeel c](../../../../../../../../ministeriele-regeling/regeling/rechtspositie/burgemeesters/BWBR0016417/README.md), wordt ‘€ 0,28’ vervangen door: € 0,37.  
+In [artikel 7, onderdeel c](../../../../../../../../ministeriele-regeling/regeling/rechtspositie/burgemeesters/BWBR0016417/README.md), wordt ‘€ 0,28’ vervangen door: € 0,37. 
 
-#### *Artikel IV* 
+####*Artikel IV*
 
 De [Regeling rechtspositie wethouders](../../../../../../../../ministeriele-regeling/regeling/rechtspositie/wethouders/BWBR0016420/README.md) wordt als volgt gewijzigd: 
 ###A
@@ -93,12 +93,12 @@ De [Regeling rechtspositie wethouders](../../../../../../../../ministeriele-rege
 In [artikel 2, onderdeel b](../../../../../../../../ministeriele-regeling/regeling/rechtspositie/wethouders/BWBR0016420/README.md), wordt ‘andere direct uit de verhuizing voortvloeiende kosten’ vervangen door: andere direct uit de verhuizing voortvloeiende kosten, waaronder begrepen de kosten van het in- en uitpakken van breekbare zaken’. 
 ###B
 
-In [artikel 4, onderdeel b](../../../../../../../../ministeriele-regeling/regeling/rechtspositie/wethouders/BWBR0016420/README.md), wordt: ‘€ 0,28’ vervangen door: € 0,37.  
+In [artikel 4, onderdeel b](../../../../../../../../ministeriele-regeling/regeling/rechtspositie/wethouders/BWBR0016420/README.md), wordt: ‘€ 0,28’ vervangen door: € 0,37. 
 
 #### *Artikel V* 
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de onderdelen B van de artikelen I tot en met IV, alsmede artikel III, onderdelen C en D, terugwerken tot en met 1 januari 2006. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de onderdelen B van de artikelen I tot en met IV, alsmede artikel III, onderdelen C en D, terugwerken tot en met 1 januari 2006. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. 
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-G. terHorst  
+G. ter  Horst    

@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Algemene militaire pensioenwet.   
+Wijzigt de Algemene militaire pensioenwet.  
 
 ### Artikel  II  
 
@@ -30,4 +30,4 @@ H. A. L. van Hoof
 de dertigste januari 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

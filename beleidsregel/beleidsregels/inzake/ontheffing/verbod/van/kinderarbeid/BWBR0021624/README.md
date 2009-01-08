@@ -10,7 +10,7 @@ Besluit:
 
 ####Ontheffing verbod van kinderarbeid
 
-Een ontheffing van het verbod van kinderarbeid, bedoeld in [artikel 3:3, eerste lid, van de Arbeidstijdenwet](../../../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) wordt, met inachtneming van [artikel 3:5, tweede lid, van genoemde wet](../../../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), op verzoek van de werkgever verleend, indien de niet-industriële arbeid van lichte aard, bestaat uit het deelnemen aan uitvoeringen van culturele, wetenschappelijke, opvoedkundige of artistieke aard, aan modeshows, aan audio-, visuele of audio-visuele opnamen en daarmee vergelijkbare niet-industriële arbeid van lichte aard.  
+Een ontheffing van het verbod van kinderarbeid, bedoeld in [artikel 3:3, eerste lid, van de Arbeidstijdenwet](../../../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) wordt, met inachtneming van [artikel 3:5, tweede lid, van genoemde wet](../../../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), op verzoek van de werkgever verleend, indien de niet-industriële arbeid van lichte aard, bestaat uit het deelnemen aan uitvoeringen van culturele, wetenschappelijke, opvoedkundige of artistieke aard, aan modeshows, aan audio-, visuele of audio-visuele opnamen en daarmee vergelijkbare niet-industriële arbeid van lichte aard. 
 
 ### Artikel  2  
 
@@ -26,7 +26,7 @@ c. een onafgebroken rusttijd heeft van ten minste 14 uren in elke aaneengesloten
 
 d. niet langer dan 2 uren per dag op dagen dat onderwijs wordt gevolgd en 4 uren per dag op andere dagen arbeid verricht, en  
 
-e. zowel voor, tijdens als na de uitvoering deskundig wordt begeleid.    
+e. zowel voor, tijdens als na de uitvoering deskundig wordt begeleid.   
 
 ### Artikel  3  
 
@@ -51,7 +51,7 @@ g. zowel voor, tijdens als na de uitvoering deskundig wordt begeleid.
 
 a. ten hoogste 15 maal per jaar met een maximum van 3 maal per week arbeid verricht, en  
 
-b. niet langer dan 7 uren per dag en 12 uren per week arbeid verricht.   Indien op een dag langer arbeid wordt verricht dan 4,5 uur dan wordt de arbeid afgewisseld met een pauze van ten minste een half uur aaneengesloten.   
+b. niet langer dan 7 uren per dag en 12 uren per week arbeid verricht.   Indien op een dag langer arbeid wordt verricht dan 4,5 uur dan wordt de arbeid afgewisseld met een pauze van ten minste een half uur aaneengesloten.  
 
 ### Artikel  4  
 
@@ -85,31 +85,31 @@ a. de noodzaak van het schoolverzuim aangetoond;
 b. een verklaring gevoegd waaruit blijkt dat het schoolhoofd voor dat schoolverzuim toestemming geeft, en  
 
 c. aangegeven op welke wijze huiswerkbegeleiding en het contact met de leerkracht is georganiseerd.     
-5.  Aan een ontheffing kunnen voorschriften worden verbonden omtrent de maximaal toegestane totale duur van de niet-industriële arbeid van lichte aard.   
+5.  Aan een ontheffing kunnen voorschriften worden verbonden omtrent de maximaal toegestane totale duur van de niet-industriële arbeid van lichte aard.  
 
 ### Artikel  5  
 
 ####Voorarbeid
 
-Bij de in deze beleidsregels bedoelde niet-industriële arbeid van lichte aard is de zogenoemde voorarbeid, zoals onder meer de noodzakelijke repetities en de wacht- en rusttijden, inbegrepen.  
+Bij de in deze beleidsregels bedoelde niet-industriële arbeid van lichte aard is de zogenoemde voorarbeid, zoals onder meer de noodzakelijke repetities en de wacht- en rusttijden, inbegrepen. 
 
 ### Artikel  6  
 
 ####Intrekking oude beleidsregels
 
-De Beleidsregels inzake ontheffing verbod van kinderarbeid van 13 december 1995 (Stcrt. 246) worden ingetrokken.  
+De Beleidsregels inzake ontheffing verbod van kinderarbeid van 13 december 1995 (Stcrt. 246) worden ingetrokken. 
 
 ### Artikel  7  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 april 2007.  
+Dit besluit treedt in werking met ingang van 1 april 2007. 
 
 ### Artikel  8  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Beleidsregels inzake ontheffing verbod van kinderarbeid.  
+Dit besluit wordt aangehaald als: Beleidsregels inzake ontheffing verbod van kinderarbeid. 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -117,4 +117,4 @@ Den Haag
 
 De 
 Minister van Sociale Zaken en Werkgelegenheid, 
-J.P.H.Donner   
+J.P.H. Donner     

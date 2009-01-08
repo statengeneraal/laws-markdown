@@ -11,11 +11,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Er wordt een herinneringsteken ingesteld, dat de naam zal dragen van "Verzetsherdenkingskruis".  
+Er wordt een herinneringsteken ingesteld, dat de naam zal dragen van "Verzetsherdenkingskruis". 
 
 ### Artikel  2  
 
-1.  Het Verzetsherdenkingskruis wordt toegekend aan: 
+1.  Het Verzetsherdenkingskruis wordt toegekend aan:  
 
 a. een ieder die behoorde tot een in het Koninklijk besluit van 5 september 1944 *Stb.* E 62 genoemde erkende verzetsgroep of tot een andere bij de Buitengewone Pensioenraad dan wel de Stichting 1940-1945 bekende verzetsgroep.  
 
@@ -28,33 +28,33 @@ d. de militairen die hebben behoord tot de Nederlandse Binnenlandse Strijdkracht
 e. een ieder, die tijdens de Tweede Wereldoorlog in Oost-Azië op door Japan bezet gebied of Japans gebied aan naar het oordeel van het betreffende comité, bedoeld in artikel 4, als verzet tegen de vijand aan te merken handelingen heeft deelgenomen.  
 
 f. een ieder die, niet vallende onder de bepalingen van *a* tot en met *e*, naar het oordeel van het comité als bedoeld in artikel 4 eveneens als verzetsdeelnemer kan worden beschouwd.     
-2.  Toekenning zal niet geschieden aan degene die zich tijdens de bezetting van het Koninkrijk uit Nederlands nationaal oogpunt beschouwd onwaardig heeft gedragen.   
+2.   Toekenning zal niet geschieden aan degene die zich tijdens de bezetting van het Koninkrijk uit Nederlands nationaal oogpunt beschouwd onwaardig heeft gedragen.  
 
 ### Artikel  3  
 
-Toekenning kan posthuum geschieden.  
+Toekenning kan posthuum geschieden. 
 
 ### Artikel  4  
 
-De toekenning geschiedt door een voor het voormalig verzet representatief te achten comité, waarvan samenstelling en werkwijze bij ministerieel besluit van Onze Ministers van Binnenlandse Zaken, van Defensie en van Cultuur, Recreatie en Maatschappelijk Werk worden geregeld.  
+De toekenning geschiedt door een voor het voormalig verzet representatief te achten comité, waarvan samenstelling en werkwijze bij ministerieel besluit van Onze Ministers van Binnenlandse Zaken, van Defensie en van Cultuur, Recreatie en Maatschappelijk Werk worden geregeld. 
 
 ### Artikel  5  
 
-De vormgeving van het in artikel 1 bedoelde versiersel en het daaraan verbonden lint wordt nader door Ons bepaald.  
+De vormgeving van het in artikel 1 bedoelde versiersel en het daaraan verbonden lint wordt nader door Ons bepaald. 
 
 ### Artikel  6  
 
 1.  Het is de begiftigde vergund het kruis dan wel het lint alleen te dragen.   
-2.  Het is degene die gerechtigd is tot het dragen van het herdenkingskruis vergund het kruis van verkleind model te dragen.   
-3.  Het kruis of lint kan op het militaire uniform gedragen worden.   
+2.   Het is degene die gerechtigd is tot het dragen van het herdenkingskruis vergund het kruis van verkleind model te dragen.   
+3.   Het kruis of lint kan op het militaire uniform gedragen worden.  
 
 ### Artikel  7  
 
-Bij de toekenning van het herdenkingskruis ontvangt de begiftigde een op naam gestelde oorkonde.  
+Bij de toekenning van het herdenkingskruis ontvangt de begiftigde een op naam gestelde oorkonde. 
 
 ### Artikel  8  
 
-Dit besluit treedt in werking met ingang van 31 december 1980.  
+Dit besluit treedt in werking met ingang van 31 december 1980. 
 
 Onze Ministers van Binnenlandse Zaken, van Defensie en van Cultuur, Recreatie en Maatschappelijk Werk zijn, ieder voor zover hem betreft, belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselier der Nederlandse Orden.   
 

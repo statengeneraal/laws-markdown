@@ -2,7 +2,7 @@
 
 ##Instellingsregeling Begeleidingscommissie DIMS
 
-De Minister van Volksgezondheid, Welzijn en Sport,   Besluit:     
+De Minister van Volksgezondheid, Welzijn en Sport,   Besluit:      
 ### §  1  
 
 ####Definities
@@ -11,9 +11,9 @@ De Minister van Volksgezondheid, Welzijn en Sport,   Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. de minister: de Minister van Volksgezondheid, Welzijn en Sport;  
+a.  de minister: de Minister van Volksgezondheid, Welzijn en Sport;  
 
-b. de begeleidingscommissie: de begeleidingscommissie van het Drugs Informatie en Monitoring Systeem, hieronder te noemen DIMS, genoemd in artikel 2.    
+b.  de begeleidingscommissie: de begeleidingscommissie van het Drugs Informatie en Monitoring Systeem, hieronder te noemen DIMS, genoemd in artikel 2.    
 
 ### §  2  
 
@@ -24,9 +24,9 @@ b. de begeleidingscommissie: de begeleidingscommissie van het Drugs Informatie e
 1.  Er is een begeleidingscommissie DIMS.   
 2.  De begeleidingscommissie DIMS heeft tot taak: 
 
-a. de activiteiten van het DIMS primair vanuit het perspectief van de volksgezondheid te begeleiden;  
+a.  de activiteiten van het DIMS primair vanuit het perspectief van de volksgezondheid te begeleiden;  
 
-b. het toetsen en bewaken van de voortgang en de kwaliteit van het DIMS.     
+b.  het toetsen en bewaken van de voortgang en de kwaliteit van het DIMS.     
 
 ### §  3  
 
@@ -40,9 +40,9 @@ b. het toetsen en bewaken van de voortgang en de kwaliteit van het DIMS.
 
 1.  De begeleidingscommissie DIMS bestaat uit: 
 
-a. een voorzitter, tevens lid;  
+a.  een voorzitter, tevens lid;  
 
-b. zes andere leden.     
+b.  zes andere leden.     
 2.  De benoeming van de leden geschiedt voor ten hoogste vier jaar. Herbenoeming kan twee maal en telkens voor ten hoogste vier jaar plaats vinden.   
 3.  De begeleidingscommissie DIMS wijst uit haar midden een plaatsvervangend voorzitter aan.   
 
@@ -72,8 +72,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ### Artikel  9  
 
-Deze regeling wordt aangehaald als: Instellingsregeling begeleidingscommissie DIMS.  
+Deze regeling wordt aangehaald als: Instellingsregeling begeleidingscommissie DIMS. 
 Van dit besluit wordt mededeling gedaan in de Staatscourant.   
 
 De Minister van Volksgezondheid, 
-E. Borst-Eilers      
+E.  Borst-Eilers      

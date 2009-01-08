@@ -8,13 +8,13 @@ Besluit:
 
 ### Artikel  1  
 
-De in [artikel 2, eerste en tweede lid, van de Tijdelijke wet verkorting erkenningenduur publieke omroep](../../../../../../../../../wet/tijdelijke/wet/verkorting/erkenningenduur/publieke/omroepen/BWBR0018325/README.md) bedoelde periode van drie jaren wordt verlengd met twee jaren.  
+De in [artikel 2, eerste en tweede lid, van de Tijdelijke wet verkorting erkenningenduur publieke omroep](../../../../../../../../../wet/tijdelijke/wet/verkorting/erkenningenduur/publieke/omroepen/BWBR0018325/README.md) bedoelde periode van drie jaren wordt verlengd met twee jaren. 
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, 
-M.J.A. van derHoeven   
+M.J.A. van der  Hoeven     

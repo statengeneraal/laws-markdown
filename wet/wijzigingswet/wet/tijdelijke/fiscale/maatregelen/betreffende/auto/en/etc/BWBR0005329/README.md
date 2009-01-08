@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Met betrekking tot na 31 maart 1986 doch vóór 1 januari 1992 in gebruik genomen personenauto's blijft artikel 2, eerste tot en met negende lid van de Wet tijdelijke fiscale maatregelen betreffende auto en milieu na 1988 van toepassing zoals dit luidt op 31 december 1991.  
+Met betrekking tot na 31 maart 1986 doch vóór 1 januari 1992 in gebruik genomen personenauto's blijft artikel 2, eerste tot en met negende lid van de Wet tijdelijke fiscale maatregelen betreffende auto en milieu na 1988 van toepassing zoals dit luidt op 31 december 1991. 
 
 ### Artikel  IV  
 
-Deze wet treedt in werking op 1 januari 1992.  
+Deze wet treedt in werking op 1 januari 1992. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

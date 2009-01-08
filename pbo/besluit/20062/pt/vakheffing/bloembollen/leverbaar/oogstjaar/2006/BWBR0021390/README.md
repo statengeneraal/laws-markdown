@@ -22,15 +22,15 @@ d. in [artikel 8, tweede lid](../../../../../../../../../../pbo/verordening/pt/v
 
 e. in [artikel 9, tweede lid](../../../../../../../../../../pbo/verordening/pt/vakheffing/bloembollen/leverbaar/oogstjaar/2006/BWBR0019838/README.md), 2,1% wordt vervangen door: 1,6%;  
 
-f. in [artikel 10](../../../../../../../../../../pbo/verordening/pt/vakheffing/bloembollen/leverbaar/oogstjaar/2006/BWBR0019838/README.md), 2,1% wordt vervangen door: 1,6%.    
+f. in [artikel 10](../../../../../../../../../../pbo/verordening/pt/vakheffing/bloembollen/leverbaar/oogstjaar/2006/BWBR0019838/README.md), 2,1% wordt vervangen door: 1,6%.   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie.  
+Dit besluit treedt in werking met ingang van de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie. 
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Besluit 2006/2 PT vakheffing bloembollen leverbaar oogstjaar 2006.  
+Dit besluit wordt aangehaald als: Besluit 2006/2 PT vakheffing bloembollen leverbaar oogstjaar 2006. 
 Dit besluit en de daarbij behorende toelichting wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
 
 Zoetermeer 

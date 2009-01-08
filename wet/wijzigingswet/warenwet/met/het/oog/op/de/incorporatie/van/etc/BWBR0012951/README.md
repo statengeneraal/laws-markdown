@@ -11,13 +11,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Warenwet.   
+Wijzigt de Warenwet.  
 
 ### Artikel  II  
 
 1.  De [Wet op de gevaarlijke werktuigen](../../../../../../../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md) wordt ingetrokken.   
 2.  De [Stoomwet](../../../../../../../../../../../../wet/stoomwet/BWBR0002108/README.md) wordt ingetrokken.   
-3.  Na de inwerkingtreding van deze wet berusten de op grond van de [Wet op de gevaarlijke werktuigen](../../../../../../../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), en de op grond van de in het vierde lid genoemde algemene maatregelen van bestuur verrichte keuringen, afgegeven certificaten van goedkeuring, aangebrachte merken van goedkeuring, verleende ontheffingen, gegeven beschikkingen en genomen besluiten op de [artikelen 1](../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md), [1a](../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md), [3 tot en met 11a](../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md), [14](../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md) en [16 van de Warenwet](../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md).   
+3.  Na de inwerkingtreding van deze wet berusten de op grond van de [Wet op de gevaarlijke werktuigen](../../../../../../../../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), en de op grond van de in het vierde lid genoemde algemene maatregelen van bestuur verrichte keuringen, afgegeven certificaten van goedkeuring, aangebrachte merken van goedkeuring, verleende ontheffingen, gegeven beschikkingen en genomen besluiten op de [artikelen 1](../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md), [1a](../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md), [3 tot en met 11a](../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md), [14](../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md) en [16 van de Warenwet](../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md).    
 4.  Na de inwerkingtreding van deze wet berusten de volgende algemene maatregelen van bestuur en ministeriële regelingen op de [artikelen 1](../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md), [1a](../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md), [3 tot en met 11a](../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md), [13](../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md), [14](../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md) en [16 van de Warenwet](../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md): 
 
 a. het [Besluit schiethamers](../../../../../../../../../../../../AMvB/besluit/schiethamers/BWBR0002558/README.md);  
@@ -46,19 +46,19 @@ l. de regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van
 
 m. het [Besluit drukapparatuur](../../../../../../../../../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md);  
 
-n. de regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 23 november 1999, nr. 99/71 647, houdende nadere regels ten aanzien van drukapparatuur (Stcrt. 232).     
+n. de regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 23 november 1999, nr. 99/71 647, houdende nadere regels ten aanzien van drukapparatuur (Stcrt. 232).    
 
 ### Artikel  III  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten.  
 
 ### Artikel  IV  
 
-De tekst van de [Warenwet](../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md) wordt in het Staatsblad geplaatst.  
+De tekst van de [Warenwet](../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md) wordt in het Staatsblad geplaatst. 
 
 ### Artikel  V  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

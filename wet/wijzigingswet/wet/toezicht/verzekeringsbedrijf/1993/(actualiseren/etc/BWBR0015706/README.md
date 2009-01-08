@@ -11,16 +11,16 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet toezicht verzekeringsbedrijf 1993.   
+Wijzigt de Wet toezicht verzekeringsbedrijf 1993.  
 
 ### Artikel  II  
 
-1.  Op verzekeraars die op 20 maart 2002 in het bezit waren van een vergunning om het verzekeringsbedrijf uit te oefenen, blijven tot 20 maart 2007 de bij of krachtens de [artikelen 68](../../../../../../../../../wet/wet/toezicht/verzekeringsbedrijf/1993/BWBR0006509/README.md) of  [96 van de Wet toezicht verzekeringsbedrijf 1993](../../../../../../../../../wet/wet/toezicht/verzekeringsbedrijf/1993/BWBR0006509/README.md) gestelde eisen van toepassing zoals deze luidden op het tijdstip van inwerkingtreding van deze wet.   
-2.  Indien een verzekeraar als bedoeld in het eerste lid op 20 maart 2007 nog niet volledig voldoet aan de eisen die bij of krachtens de [artikelen 68](../../../../../../../../../wet/wet/toezicht/verzekeringsbedrijf/1993/BWBR0006509/README.md) of  [96 van de Wet toezicht verzekeringsbedrijf 1993](../../../../../../../../../wet/wet/toezicht/verzekeringsbedrijf/1993/BWBR0006509/README.md) gelden, kan de Pensioen- & Verzekeringskamer daartoe een aanvullende termijn van ten hoogste twee jaar toestaan, mits de verzekeraar voor genoemde datum de maatregelen die hij voornemens is te nemen om de vereiste solvabiliteitsmarge te bereiken overeenkomstig [artikel 138](../../../../../../../../../wet/wet/toezicht/verzekeringsbedrijf/1993/BWBR0006509/README.md) of  [144 van de Wet toezicht verzekeringsbedrijf 1993](../../../../../../../../../wet/wet/toezicht/verzekeringsbedrijf/1993/BWBR0006509/README.md) ter toestemming bij de Pensioen- & Verzekeringskamer heeft ingediend en zij die toestemming heeft verleend.   
+1.  Op verzekeraars die op 20 maart 2002 in het bezit waren van een vergunning om het verzekeringsbedrijf uit te oefenen, blijven tot 20 maart 2007 de bij of krachtens de [artikelen 68](../../../../../../../../../wet/wet/toezicht/verzekeringsbedrijf/1993/BWBR0006509/README.md) of [96 van de Wet toezicht verzekeringsbedrijf 1993](../../../../../../../../../wet/wet/toezicht/verzekeringsbedrijf/1993/BWBR0006509/README.md) gestelde eisen van toepassing zoals deze luidden op het tijdstip van inwerkingtreding van deze wet.   
+2.  Indien een verzekeraar als bedoeld in het eerste lid op 20 maart 2007 nog niet volledig voldoet aan de eisen die bij of krachtens de [artikelen 68](../../../../../../../../../wet/wet/toezicht/verzekeringsbedrijf/1993/BWBR0006509/README.md) of [96 van de Wet toezicht verzekeringsbedrijf 1993](../../../../../../../../../wet/wet/toezicht/verzekeringsbedrijf/1993/BWBR0006509/README.md) gelden, kan de Pensioen- & Verzekeringskamer daartoe een aanvullende termijn van ten hoogste twee jaar toestaan, mits de verzekeraar voor genoemde datum de maatregelen die hij voornemens is te nemen om de vereiste solvabiliteitsmarge te bereiken overeenkomstig [artikel 138](../../../../../../../../../wet/wet/toezicht/verzekeringsbedrijf/1993/BWBR0006509/README.md) of [144 van de Wet toezicht verzekeringsbedrijf 1993](../../../../../../../../../wet/wet/toezicht/verzekeringsbedrijf/1993/BWBR0006509/README.md) ter toestemming bij de Pensioen- & Verzekeringskamer heeft ingediend en zij die toestemming heeft verleend.  
 
 ### Artikel  III  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. De in deze wet vervatte voorschriften worden voor het eerst toegepast met betrekking tot het boekjaar dat op 1 januari 2004 of gedurende dat kalenderjaar begint.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. De in deze wet vervatte voorschriften worden voor het eerst toegepast met betrekking tot het boekjaar dat op 1 januari 2004 of gedurende dat kalenderjaar begint. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -34,4 +34,4 @@ G. Zalm
 de vierde november 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

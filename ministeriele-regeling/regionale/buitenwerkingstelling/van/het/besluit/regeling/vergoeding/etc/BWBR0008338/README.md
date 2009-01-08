@@ -4,7 +4,7 @@
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
 Gelet op [artikel 2, tweede en derde lid, van het Besluit regeling vergoeding Bijzondere Ziektekostenverzekering](../../../../../../../../../../AMvB/besluit/regeling/vergoeding/bijzondere/ziektekostenverzekering/BWBR0002777/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -14,7 +14,7 @@ het rayon Zeeland.
 
 ### Artikel  2  
 
-Deze beschikking wordt met de daarbij behorende toelichting in de Staatscourant geplaatst en treedt in werking met ingang van 1 maart 1997.  
+Deze beschikking wordt met de daarbij behorende toelichting in de Staatscourant geplaatst en treedt in werking met ingang van 1 maart 1997. 
 
 De 
 Minister voornoemd, 
@@ -23,4 +23,4 @@ namens deze,
 
 de 
 Directeur Verzekeringen en Prijsvorming Zorgsector, 
-S.G.Rijpma    
+S.G. Rijpma      

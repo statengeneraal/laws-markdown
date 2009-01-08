@@ -20,7 +20,7 @@ d. dienstongeval: een dienstongeval als bedoeld in [artikel 1, eerste lid, onder
 
 e. invaliditeit: het objectief medisch vast te stellen blijvende gehele of gedeeltelijke functieverlies van een orgaan of enig ander deel van het lichaam;  
 
-f. smartengeld: een vergoeding ter hoogte van een met inachtneming van deze regeling vast te stellen uitkeringspercentage van het bedrag genoemd in [artikel 54a, eerste lid, van het besluit](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md).    
+f. smartengeld: een vergoeding ter hoogte van een met inachtneming van deze regeling vast te stellen uitkeringspercentage van het bedrag genoemd in [artikel 54a, eerste lid, van het besluit](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md).   
 
 ### Artikel  2  
 
@@ -41,14 +41,14 @@ a. hij in redelijkheid aantoont dat de ontstane invaliditeit uitsluitend het gev
 
 b. het bevoegd gezag als gevolg van dit verzuim niet in zijn belangen is geschaad.     
 3.  Een ander kan namens de ambtenaar voldoen aan het eerste lid, onderdelen a en b, en het tweede lid, onderdeel a, mits die ander geacht kan worden de belangen van de ambtenaar te vertegenwoordigen.   
-4.  Onderzoekskosten die voortvloeien uit het tweede lid, onderdeel a, komen voor rekening van de ambtenaar.   
+4.  Onderzoekskosten die voortvloeien uit het tweede lid, onderdeel a, komen voor rekening van de ambtenaar.  
 
 ### Artikel  3  
 
 1.  Het bevoegd gezag wijst een deskundige aan die de als gevolg van het dienstongeval ontstane mate van invaliditeit van de ambtenaar vaststelt aan de hand van de Guides to the Evaluation of Permanent Impairment van de American Medical Association. De vaststelling vindt plaats zodra voorzienbaar is dat de toestand van de ambtenaar niet meer zal verbeteren of verslechteren, doch uiterlijk twee jaar na het dienstongeval.   
 2.  Het smartengeld is gelijk aan de in procenten vastgestelde mate van invaliditeit, tenzij op grond van artikel 4 een hoger uitkeringspercentage wordt vastgesteld.   
 3.  Indien de ambtenaar anders dan als gevolg van het dienstongeval overlijdt voordat het uitkeringspercentage kan worden vastgesteld, wordt uitgekeerd naar het bedrag dat naar verwachting zou zijn uitgekeerd.   
-4.  Het bevoegd gezag draagt de kosten van de vaststelling, bedoeld in het eerste lid.   
+4.  Het bevoegd gezag draagt de kosten van de vaststelling, bedoeld in het eerste lid.  
 
 ### Artikel  4  
 
@@ -110,7 +110,7 @@ b. het bevoegd gezag als gevolg van dit verzuim niet in zijn belangen is geschaa
 | De smaak  | 10%  |
 
 2.  Bij gedeeltelijke amputatie of gedeeltelijk verlies van het gebruiksvermogen wordt een evenredig deel van het genoemde uitkeringspercentage vastgesteld. Bij amputatie of volledig verlies van het gebruiksvermogen van één of meer vingers van een hand bedraagt het uitkeringspercentage nooit meer dan bij verlies van de arm tussen pols en ellebooggewricht.   
-3.  Het bevoegd gezag wijst een deskundige voor de vaststelling van het uitkeringspercentage op grond van dit artikel.   
+3.  Het bevoegd gezag wijst een deskundige voor de vaststelling van het uitkeringspercentage op grond van dit artikel.  
 
 ### Artikel  5  
 
@@ -138,13 +138,13 @@ b. het bevoegd gezag als gevolg van dit verzuim niet in zijn belangen is geschaa
 | 65 < 80  | 80  |
 | 80 of meer  | 100  |
 
-4.  Het bevoegd gezag draagt de kosten van de vaststelling, bedoeld in het tweede lid.   
+4.  Het bevoegd gezag draagt de kosten van de vaststelling, bedoeld in het tweede lid.  
 
 ### Artikel  6  
 
 1.  Bij een post-whiplashsyndroom ten gevolge van een dienstongeval waarbij medisch objectief geen lichamelijke afwijkingen kunnen worden vastgesteld, wordt slechts smartengeld toegekend indien overeenkomstig de richtlijnen van de Nederlandse Vereniging voor Neurologie sprake is van invaliditeit als bedoeld in die richtlijnen.   
 2.  Het bevoegd gezag wijst een deskundige aan die de in het eerste lid bedoelde mate van invaliditeit vaststelt. Het uitkeringspercentage is gelijk aan de vastgestelde mate van invaliditeit.   
-3.  Het bevoegd gezag draagt de kosten van de vaststelling, bedoeld in het tweede lid.   
+3.  Het bevoegd gezag draagt de kosten van de vaststelling, bedoeld in het tweede lid.  
 
 ### Artikel  7  
 
@@ -155,27 +155,27 @@ a. een zesde deel van het in [artikel 54a, eerste lid, van het besluit](../../..
 
 b. het in [artikel 54a, tweede lid, van het besluit](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) genoemde bedrag aan zijn nabestaanden uitgekeerd indien hij binnen 20 jaar als gevolg van de besmetting overlijdt.     
 3.  De ambtenaar maakt de keuze, bedoeld in het tweede lid, binnen acht weken nadat is vast komen te staan dat seroconversie heeft plaatsgevonden.   
-4.  Het bevoegd gezag draagt de kosten van de in het eerste lid bedoelde testen.   
+4.  Het bevoegd gezag draagt de kosten van de in het eerste lid bedoelde testen.  
 
 ### Artikel  8  
 
 1.  De in artikel 2, eerste lid, onder a, en artikel 7, eerste lid, bedoelde meldingen gelden als aanvraag tot vergoeding van smartengeld.   
 2.  Indien sprake is van een dienstongeval wordt de beschikking op de aanvraag genomen uiterlijk drie weken nadat de mate van invaliditeit is vastgesteld, tenzij met toepassing van artikel 5 een tweede uitkeringspercentage wordt vastgesteld. In dat geval wordt de beschikking uiterlijk drie weken na de vaststelling van het tweede uitkeringspercentage genomen.   
-3.  Indien sprake is van een verzoek als bedoeld in artikel 5, eerste lid, wordt de beschikking genomen uiterlijk drie weken nadat de mate van invaliditeit is vastgesteld of, indien het verzoek na vaststelling van de invaliditeit is ingediend, uiterlijk drie weken na het verzoek.   
+3.  Indien sprake is van een verzoek als bedoeld in artikel 5, eerste lid, wordt de beschikking genomen uiterlijk drie weken nadat de mate van invaliditeit is vastgesteld of, indien het verzoek na vaststelling van de invaliditeit is ingediend, uiterlijk drie weken na het verzoek.  
 
 ### Artikel  9  
 
-In het geval geheel of gedeeltelijk ten onrechte smartengeld is toegekend op grond van door de ambtenaar of zijn vertegenwoordiger, bedoeld in van artikel 2, derde lid, verstrekte gegevens waarvan zij wisten of moesten weten dat deze gegevens onjuist waren, kan het bevoegd gezag het besluit tot toekenning van smartengeld herzien of intrekken.  
+In het geval geheel of gedeeltelijk ten onrechte smartengeld is toegekend op grond van door de ambtenaar of zijn vertegenwoordiger, bedoeld in van artikel 2, derde lid, verstrekte gegevens waarvan zij wisten of moesten weten dat deze gegevens onjuist waren, kan het bevoegd gezag het besluit tot toekenning van smartengeld herzien of intrekken. 
 
 ### Artikel  10  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  11  
 
-Deze regeling wordt aangehaald als: Regeling smartengeld dienstongevallen politie.  
+Deze regeling wordt aangehaald als: Regeling smartengeld dienstongevallen politie. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-G. terHorst   
+G. ter  Horst     

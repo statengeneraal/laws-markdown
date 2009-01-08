@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-Er is een werkgroep fiscaal-technische herziening van de loon- en inkomstenbelasting.  
+Er is een werkgroep fiscaal-technische herziening van de loon- en inkomstenbelasting. 
 
 ### Artikel  2  
 
@@ -48,7 +48,7 @@ de budgettaire aspecten van de voorstellen dienen nadrukkelijk in de afweging te
 
 de werkgroep doet geen voorstellen met betrekking tot de tariefstructuur, met uitzondering van de bijzondere tarieven;  
 
-de voorstellen dienen naar het mogelijke bij te dragen aan het vergroten van de aanvaardbaarheid van de belastingwetgeving, ook door het verminderen van het aantal potentiële geschilpunten tussen fiscus en belastingplichtige en het verminderen van de administratieve lasten.     
+de voorstellen dienen naar het mogelijke bij te dragen aan het vergroten van de aanvaardbaarheid van de belastingwetgeving, ook door het verminderen van het aantal potentiële geschilpunten tussen fiscus en belastingplichtige en het verminderen van de administratieve lasten.    
 
 ### §  2  
 
@@ -60,61 +60,61 @@ de voorstellen dienen naar het mogelijke bij te dragen aan het vergroten van de 
 2.  Tot lid, tevens secretaris van de werkgroep wordt benoemd: mr. C.W.M. Van Ballegooijen   
 3.  Tot leden van de werkgroep worden benoemd: 
 
-prof. mr. E. Aardema  
+prof. mr. E. Aardema 
 
-prof. dr. T. Blokland  
+prof. dr. T. Blokland 
 
-prof. dr. S. Cnossen  
+prof. dr. S. Cnossen 
 
-prof. dr. P.H.J. Essers  
+prof. dr. P.H.J. Essers 
 
-prof. dr. J.A.G. Van der Geld  
+prof. dr. J.A.G. Van der Geld 
 
-prof. mr. J.F.M. Giele  
+prof. mr. J.F.M. Giele 
 
-dr. A.M. Haberham  
+dr. A.M. Haberham 
 
-prof. dr. J.J.M. Kremers  
+prof. dr. J.J.M. Kremers 
 
-mw. dr. C.L. van Lindonk  
+mw. dr. C.L. van Lindonk 
 
-mr. G.J. Van Muijen  
+mr. G.J. Van Muijen 
 
-prof. dr. R.E.C.M. Niessen  
+prof. dr. R.E.C.M. Niessen 
 
-prof. dr. M.P. Van Overbeeke RA C. Petiet  
+prof. dr. M.P. Van Overbeeke RA C. Petiet 
 
-prof. mr. H.M.N. Schonis  
+prof. mr. H.M.N. Schonis 
 
-drs. J.P.M. Simons  
+drs. J.P.M. Simons 
 
-prof. dr. L.G.M. Stevens  
+prof. dr. L.G.M. Stevens 
 
-mr. H.B.A. Verhoeven  
+mr. H.B.A. Verhoeven 
 
-mw. mr. I.J.F.A. Van Vijfeijken  
+mw. mr. I.J.F.A. Van Vijfeijken 
 
-mw. mr. A.M.L. Wekking  
+mw. mr. A.M.L. Wekking 
 
-mw. mr. N.J.M. Wijnsma  
+mw. mr. N.J.M. Wijnsma 
 
-prof. dr. J.W. Zwemmer     
+prof. dr. J.W. Zwemmer  
 
 ### Artikel  4  
 
-Ter uitvoering van haar taak kan de werkgroep zich rechtstreeks tot derden wenden voor het verkrijgen van inlichtingen en hen zo nodig ter vergadering uitnodigen om hun mening nader uiteen te laten zetten.  
+Ter uitvoering van haar taak kan de werkgroep zich rechtstreeks tot derden wenden voor het verkrijgen van inlichtingen en hen zo nodig ter vergadering uitnodigen om hun mening nader uiteen te laten zetten. 
 
 ### Artikel  5  
 
-De werkgroep kan uit haar midden – en met instemming van de Staatssecretaris van Financiën ook aangevuld met personen die geen zitting hebben in de werkgroep – subwerkgroepen instellen om een of meer deelgebieden te bewerken. Deze subwerkgroepen, waarvan de voorzitter door de Staatssecretaris van Financiën wordt aangewezen, rapporteren aan de werkgroep.  
+De werkgroep kan uit haar midden – en met instemming van de Staatssecretaris van Financiën ook aangevuld met personen die geen zitting hebben in de werkgroep – subwerkgroepen instellen om een of meer deelgebieden te bewerken. Deze subwerkgroepen, waarvan de voorzitter door de Staatssecretaris van Financiën wordt aangewezen, rapporteren aan de werkgroep. 
 
 ### Artikel  6  
 
-De werkgroep brengt op verzoek van de Staatssecretaris van Financiën tussentijds verslag uit.  
+De werkgroep brengt op verzoek van de Staatssecretaris van Financiën tussentijds verslag uit. 
 
 ### Artikel  7  
 
-De werkgroep legt haar laatste voorstellen uiterlijk per 1 april 1996 aan de Staatssecretaris van Financiën over.  
+De werkgroep legt haar laatste voorstellen uiterlijk per 1 april 1996 aan de Staatssecretaris van Financiën over. 
 
 ### §  3  
 
@@ -122,20 +122,20 @@ De werkgroep legt haar laatste voorstellen uiterlijk per 1 april 1996 aan de Sta
 
 ### Artikel  8  
 
-De leden van de werkgroep, voor zover geen ambtenaar, ontvangen vacatiegelden alsmede een vergoeding voor de reis- en verblijfkosten volgens de bestaande rijksregelingen, voor zover niet uit anderen hoofde een vergoeding van deze kosten wordt verleend uit 's-Rijks kas.  
+De leden van de werkgroep, voor zover geen ambtenaar, ontvangen vacatiegelden alsmede een vergoeding voor de reis- en verblijfkosten volgens de bestaande rijksregelingen, voor zover niet uit anderen hoofde een vergoeding van deze kosten wordt verleend uit 's-Rijks kas. 
 
 ### Artikel  9  
 
-Een ieder die betrokken is bij de werkzaamheden van de werkgroep en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan behoudens voor zover wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij deze werkzaamheden de noodzaak tot bekendmaking voortvloeit.  
+Een ieder die betrokken is bij de werkzaamheden van de werkgroep en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan behoudens voor zover wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij deze werkzaamheden de noodzaak tot bekendmaking voortvloeit. 
 
 ### Artikel  10  
 
 1.  Dit besluit wordt bekend gemaakt in de Staatscourant.   
-2.  Afschrift van dit besluit wordt gezonden aan de Algemene Rekenkamer.   
+2.  Afschrift van dit besluit wordt gezonden aan de Algemene Rekenkamer.  
 
 's-Gravenhage 
 22 december 1994    
 
 De 
 Staatssecretaris van Financiën, 
-W.A.Vermeend    
+W.A. Vermeend      

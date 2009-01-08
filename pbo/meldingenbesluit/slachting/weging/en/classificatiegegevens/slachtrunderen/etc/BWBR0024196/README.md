@@ -19,12 +19,12 @@ In dit besluit wordt verstaan onder:
 
 1.  De melding van gegevens als bedoeld in [artikel 25, tweede lid, van de verordening](../../../../../../../../../pbo/verordening/slachting/weging/en/classificatie/slachtrunderen/(pvv)/2008/BWBR0024129/README.md) geschiedt via de electronische postbus aan het hiertoe ingerichte centrale computersysteem van het productschap, volgens de door het productschap vastgestelde specificaties.   
 2.  De door het slachthuis aangeleverde bestanden moeten voor 23.00 uur in de electronische postbus van het productschap zijn ontvangen op de dag dat de betreffende slachtrunderen geslacht zijn.   
-3.  De specificaties als bedoeld in het eerste lid dienen bij het productschap te worden aangevraagd.   
+3.  De specificaties als bedoeld in het eerste lid dienen bij het productschap te worden aangevraagd.  
 
 ### Artikel  3  
 
 1.  Dit besluit kan worden aangehaald als: Meldingenbesluit slachting, weging en classificatiegegevens slachtrunderen (PVV) 2008.   
-2.  Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van het Verordeningenblad Bedrijfsorganisatie waarin het wordt geplaatst.   
+2.  Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van het Verordeningenblad Bedrijfsorganisatie waarin het wordt geplaatst.  
 
 Zoetermeer 
 12 maart 2008   

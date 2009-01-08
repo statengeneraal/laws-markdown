@@ -21,22 +21,22 @@ Met het oog op de bescherming van de persoonlijke levenssfeer worden de in de ar
 
 ### Artikel  2  
 
-Raadpleging van de in artikel 1 bedoelde archiefbescheiden is slechts mogelijk na ondertekening van het door het Nationaal Archief gehanteerde ‘Formulier voor toestemming tot raadpleging van niet-openbare archieven’; een exemplaar van dit formulier is als bijlage bij dit besluit gevoegd.  
+Raadpleging van de in artikel 1 bedoelde archiefbescheiden is slechts mogelijk na ondertekening van het door het Nationaal Archief gehanteerde ‘Formulier voor toestemming tot raadpleging van niet-openbare archieven’; een exemplaar van dit formulier is als bijlage bij dit besluit gevoegd. 
 
 ### Artikel  3  
 
-Het is niet toegestaan reproducties te vervaardigen van archiefbescheiden uit dossiers waarop deze beperkende bepalingen van toepassing zijn, zonder toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan voorwaarden verbinden aan het verlenen van zijn toestemming.  
+Het is niet toegestaan reproducties te vervaardigen van archiefbescheiden uit dossiers waarop deze beperkende bepalingen van toepassing zijn, zonder toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan voorwaarden verbinden aan het verlenen van zijn toestemming. 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd. 
 Deze regeling zal in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-J.F.Hoogervorst  
+J.F. Hoogervorst    
 
-### Bijlage  
+###Bijlage 
 
 ![217037](http://wetten.overheid.nl/Illustration/217037)
 

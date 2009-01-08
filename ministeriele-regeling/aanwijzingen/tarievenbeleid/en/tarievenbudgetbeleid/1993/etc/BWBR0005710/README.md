@@ -20,17 +20,17 @@ Gelet op [artikel 14 van de Wet tarieven gezondheidszorg](../../../../../../../.
 Gehoord het Centraal orgaan tarieven gezondheidszorg (advies van 22 oktober 1992, kenmerk HV/th/A/92/074) vastgesteld in de vergadering van 19 oktober 1992;
 
 Na schriftelijke mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brief van 27 oktober 1992, kenmerk VMP/O-922852);
-Besluiten:      
+Besluiten:     
 1.  Aan het Centraal orgaan tarieven gezondheidszorg wordt de in de bijlage bij dit besluit neergelegde aanwijzing als bedoeld in [artikel 14 van de Wet tarieven gezondheidszorg](../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md) (Stb. 1980, 646), gegeven, betrekking hebbend op de in de vrijgevestigde praktijk werkzame fysiotherapeuten.   
-2.  Dit besluit met bijbehorende bijlage wordt in de Staatscourant geplaatst.      
+2.  Dit besluit met bijbehorende bijlage wordt in de Staatscourant geplaatst.     
 
 De 
 Staatssecretaris van Welzijn, Volksgezondheid en Cultuur, 
-Hans J.Simons 
+Hans J.Simons  
 
 De 
 Minister van Economische Zaken, 
-J.E.Andriessen   
+J.E. Andriessen   
 
 ####Aanwijzing op grond van [artikel 14 van de Wet tarieven gezondheidszorg](../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md)
 

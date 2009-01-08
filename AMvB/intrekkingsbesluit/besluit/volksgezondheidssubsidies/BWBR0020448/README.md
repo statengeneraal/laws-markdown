@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Het [Besluit volksgezondheidssubsidies](../../../../../AMvB/besluit/volksgezondheidssubsidies/BWBR0009696/README.md) wordt ingetrokken.  
+Het [Besluit volksgezondheidssubsidies](../../../../../AMvB/besluit/volksgezondheidssubsidies/BWBR0009696/README.md) wordt ingetrokken. 
 
 ### Artikel  II  
 
-Op subsidies en specifieke uitkeringen die voor de inwerkingtreding van dit besluit zijn verleend of vastgesteld blijven de regels gesteld bij of krachtens het [Besluit volksgezondheidssubsidies](../../../../../AMvB/besluit/volksgezondheidssubsidies/BWBR0009696/README.md) van toepassing.  
+Op subsidies en specifieke uitkeringen die voor de inwerkingtreding van dit besluit zijn verleend of vastgesteld blijven de regels gesteld bij of krachtens het [Besluit volksgezondheidssubsidies](../../../../../AMvB/besluit/volksgezondheidssubsidies/BWBR0009696/README.md) van toepassing. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking op 1 januari 2007.  
+Dit besluit treedt in werking op 1 januari 2007. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -31,10 +31,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 20 oktober 2006  
 Beatrix  
 
-De Minister van Volksgezondheid, Welzijn en Sport, 
-J. F.Hoogervorst 
+De Minister van Volksgezondheid, Welzijn en Sport , 
+J. F. Hoogervorst   
 
 de *zestiende* november 2006 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

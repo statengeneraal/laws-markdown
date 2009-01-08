@@ -69,6 +69,6 @@ Den Haag
 9 december 2008   
 
 De 
-staatssecretaris van Financiën, namens deze: de 
+staatssecretaris van Financiën, namens deze:de 
 directeur-generaal Belastingdienst, 
-M.A.Ruys   
+M.A. Ruys     

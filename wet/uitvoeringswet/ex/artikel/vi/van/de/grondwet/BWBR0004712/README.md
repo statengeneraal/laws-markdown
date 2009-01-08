@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-De termijn waarna [artikel 10, eerste lid, van de Grondwet](../../../../../../../../../wet/grondwet/BWBR0001840/README.md) in werking treedt, wordt, voor wat betreft verzamelingen van persoonsgegevens aangelegd ten dienste van de uitvoering van de politietaak, verlengd tot 17 februari 1991.  
+De termijn waarna [artikel 10, eerste lid, van de Grondwet](../../../../../../../../../wet/grondwet/BWBR0001840/README.md) in werking treedt, wordt, voor wat betreft verzamelingen van persoonsgegevens aangelegd ten dienste van de uitvoering van de politietaak, verlengd tot 17 februari 1991. 
 
 ### Artikel  3  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

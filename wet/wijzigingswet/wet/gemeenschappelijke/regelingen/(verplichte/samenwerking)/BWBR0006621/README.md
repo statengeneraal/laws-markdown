@@ -11,27 +11,27 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Ten aanzien van aanwijzings-, opleggings- en uitnodigingsbesluiten die zijn genomen voor het tijdstip van inwerkingtreding van deze wet, blijven de regels zoals die gelden voor het tijdstip van inwerkingtreding van deze wet van toepassing.  
+Ten aanzien van aanwijzings-, opleggings- en uitnodigingsbesluiten die zijn genomen voor het tijdstip van inwerkingtreding van deze wet, blijven de regels zoals die gelden voor het tijdstip van inwerkingtreding van deze wet van toepassing. 
 
 ### Artikel  IV  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  V  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VI  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

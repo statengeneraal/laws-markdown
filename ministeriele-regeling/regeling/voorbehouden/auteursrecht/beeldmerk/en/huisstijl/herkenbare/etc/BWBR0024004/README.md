@@ -8,16 +8,16 @@ Besluit:
 
 ### Artikel  1  
 
-De Staat der Nederlanden (Ministerie van Algemene Zaken) maakt een voorbehoud als bedoeld in [artikel 15b van de Auteurswet](../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md) met betrekking tot het ontwerp van het van nu af aan algemeen geldend Rijkslogo en huisstijl, als opgenomen in de bijlage bij deze regeling.  
+De Staat der Nederlanden (Ministerie van Algemene Zaken) maakt een voorbehoud als bedoeld in [artikel 15b van de Auteurswet](../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md) met betrekking tot het ontwerp van het van nu af aan algemeen geldend Rijkslogo en huisstijl, als opgenomen in de bijlage bij deze regeling. 
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. Deze regeling zal met de toelichting en bijlage in de Staatscourant worden geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. Deze regeling zal met de toelichting en bijlage in de Staatscourant worden geplaatst. 
 
 De 
 Minister-President, 
 Minister van Algemene Zaken, 
-J.P.Balkenende  
+J.P.  Balkenende    
 
 ### Bijlage  
 
@@ -32,7 +32,7 @@ Het beeldmerk bevat een lint met een uitgespaarde illustratie geïnspireerd op h
 
 #### *2. Het woordmerk* 
 
-Naast het lint staat de naam van de organisatie vanuit wie gesproken wordt zodat duidelijk is wie de afzender is. Dat past bij een herkenbare en toegankelijke overheid. De naam van de organisatie wordt geschreven met een speciaal voor de Rijksoverheid ontworpen lettertype.  
+Naast het lint staat de naam van de organisatie vanuit wie gesproken wordt zodat duidelijk is wie de afzender is. Dat past bij een herkenbare en toegankelijke overheid. De naam van de organisatie wordt geschreven met een speciaal voor de Rijksoverheid ontworpen lettertype. 
 
 #### *Afzenderstructuur* 
 
@@ -40,15 +40,15 @@ Naast het lint staat de naam van de organisatie vanuit wie gesproken wordt zodat
 
 #### *Laag 1 – Moeder* 
 
-Op basis van de besluitvorming in de ministerraad is de eerste laag van de merkarchitectuur de ‘Rijksoverheid’. Waar het vanuit de ontvanger logisch is om als één afzender op te treden, treedt de Rijksoverheid op als afzender. Hierbij gaat het in beginsel om voorlichting aan het grote publiek.   ![243221](http://wetten.overheid.nl/Illustration/243221)
+Op basis van de besluitvorming in de ministerraad is de eerste laag van de merkarchitectuur de ‘Rijksoverheid’. Waar het vanuit de ontvanger logisch is om als één afzender op te treden, treedt de Rijksoverheid op als afzender. Hierbij gaat het in beginsel om voorlichting aan het grote publiek.  ![243221](http://wetten.overheid.nl/Illustration/243221)
 
 #### *Laag 2 – Dochter* 
 
-In relatie tot de Rijksoverheid zijn de departementen de dochters. Ook de organisaties die een relatieve onafhankelijke positie hebben ten op zicht van het moederdepartement krijgen de status van dochter (zoals het Openbaar Ministerie en de planbureaus). Daarnaast zijn (tijdelijke) interdepartementale samenwerkingsverbanden waarvoor meerdere ministers verantwoordelijk zijn ook een dochter.   ![243222](http://wetten.overheid.nl/Illustration/243222)
+In relatie tot de Rijksoverheid zijn de departementen de dochters. Ook de organisaties die een relatieve onafhankelijke positie hebben ten op zicht van het moederdepartement krijgen de status van dochter (zoals het Openbaar Ministerie en de planbureaus). Daarnaast zijn (tijdelijke) interdepartementale samenwerkingsverbanden waarvoor meerdere ministers verantwoordelijk zijn ook een dochter.  ![243222](http://wetten.overheid.nl/Illustration/243222)
 
 #### *Laag 3 – Kleindochter* 
 
-De diensten en agentschappen worden als een kleindochter aan het logo toegevoegd. De naam van de kleindochter komt boven en de naam van het departement italic eronder.  
+De diensten en agentschappen worden als een kleindochter aan het logo toegevoegd. De naam van de kleindochter komt boven en de naam van het departement italic eronder. 
 
 #### *Logo toepassing* 
 
@@ -61,11 +61,11 @@ De overheid neemt een centrale plaats in de samenleving in en staat boven alle p
 
 #### *Logoniveau* 
 
-Voor het lint zijn vijf tinten blauw geselecteerd.   ![243231](http://wetten.overheid.nl/Illustration/243231)
+Voor het lint zijn vijf tinten blauw geselecteerd.  ![243231](http://wetten.overheid.nl/Illustration/243231)
 
 #### *Steunkleuren* 
 
-Naast de blauwtinten die we gebruiken in het logo, wordt er gewerkt aan een pallet van steunkleuren.  
+Naast de blauwtinten die we gebruiken in het logo, wordt er gewerkt aan een pallet van steunkleuren. 
 
 #### *Typografie* 
 
@@ -81,7 +81,7 @@ Als tekstletter is gekozen voor de OverheidSerif. De OverheidSerif wordt toegepa
 
 – Koppen groter dan 18 punten  
 
-– Kantoorautomatisering     ![243227](http://wetten.overheid.nl/Illustration/243227)
+– Kantoorautomatisering    ![243227](http://wetten.overheid.nl/Illustration/243227)
 
 #### *Kopletter* 
 
@@ -89,5 +89,5 @@ Er is gekozen voor een schreefloze kopletter als contrast met het traditionele k
 
 – Communicatieniveau  
 
-– Kopteksten vanaf 18pt.    
+– Kopteksten vanaf 18pt.   
 

@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs.   
+Wijzigt het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs. 
 
 ### Artikel  II  
 
 ####Overgangsbepaling
 
-[Artikel 9 van het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs](../../../../../../../../AMvB/besluit/bovenwettelijke/werkloosheidsregeling/voor/onderwijspersoneel/etc/BWBR0012177/README.md), zoals dat luidde op de dag voor de datum van inwerkingtreding van dit besluit, blijft van toepassing op de betrokkene die op die datum een recht op uitkering heeft waaraan een recht op aansluitende uitkering is verbonden.  
+[Artikel 9 van het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs](../../../../../../../../AMvB/besluit/bovenwettelijke/werkloosheidsregeling/voor/onderwijspersoneel/etc/BWBR0012177/README.md), zoals dat luidde op de dag voor de datum van inwerkingtreding van dit besluit, blijft van toepassing op de betrokkene die op die datum een recht op uitkering heeft waaraan een recht op aansluitende uitkering is verbonden. 
 
 ### Artikel  III  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 januari 2008.  
+Dit besluit treedt in werking met ingang van 1 januari 2008. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -35,10 +35,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 27 november 2007  
 Beatrix  
 
-De Minister van Onderwijs, Cultuur en Wetenschap , 
+De Minister van Onderwijs, Cultuur en Wetenschap ,  
 R. H. A. Plasterk   
 
 de *zesde* december 2007 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    

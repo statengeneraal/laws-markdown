@@ -26,11 +26,11 @@ Besluiten:
 
 De 
 Staatssecretaris van Welzijn, Volksgezondheid en Cultuur, 
-Hans J.Simons   
+Hans J.Simons     
 
 De 
 Minister van Economische Zaken, 
-J.E.Andriessen   
+J.E. Andriessen    
 
 ####Aanwijzing op grond van [artikel 14 van de Wet tarieven gezondheidszorg](../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md)
 

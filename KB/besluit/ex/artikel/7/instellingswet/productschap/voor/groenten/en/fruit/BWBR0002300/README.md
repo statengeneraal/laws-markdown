@@ -13,7 +13,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Onder aangelegenheden, verband houdende met het economisch verkeer tussen verschillende stadia van voortbrenging en afzet, als bedoeld in artikel 7, eerste lid, onder *a*, van de [Instellingswet Productschap voor Groenten en Fruit](../../../../../../../../../../../../wet/instellingswet/productschap/voor/groenten/en/fruit/BWBR0002148/README.md) (*Stb.* 1954, 446), zijn begrepen: 
+1.  Onder aangelegenheden, verband houdende met het economisch verkeer tussen verschillende stadia van voortbrenging en afzet, als bedoeld in artikel 7, eerste lid, onder *a*, van de [Instellingswet Productschap voor Groenten en Fruit](../../../../../../../../../../../../wet/instellingswet/productschap/voor/groenten/en/fruit/BWBR0002148/README.md) (*Stb.* 1954, 446), zijn begrepen:  
 
 a. de prijzen, waarboven het veilen van groenten en fruit niet mag worden gestaakt;  
 
@@ -22,11 +22,11 @@ b. de prijzen, welke een veiling ten hoogste in rekening mag brengen voor het ve
 c. de prijzen, waartegen groenten en fruit aan buitenlandse afnemers ten minste moeten worden afgezet;  
 
 d. de huurprijzen van fust.     
-2.  Een verordening tot regeling of nadere regeling van het onderwerp, bedoeld in het eerste lid, onder *a*, wordt slechts vastgesteld, indien de belangen van afnemers door het ontbreken daarvan gevaar zouden lopen.   
+2.   Een verordening tot regeling of nadere regeling van het onderwerp, bedoeld in het eerste lid, onder *a*, wordt slechts vastgesteld, indien de belangen van afnemers door het ontbreken daarvan gevaar zouden lopen.  
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 januari 1959.  
+Dit besluit treedt in werking met ingang van 1 januari 1959. 
 
 Onze Ministers van Binnenlandse Zaken, Bezitsvorming en Publiekrechtelijke Bedrijfsorganisatie, van Landbouw, Visserij en Voedselvoorziening en van Economische Zaken zijn belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst.   
 

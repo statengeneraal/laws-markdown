@@ -20,19 +20,19 @@ d. regiomanager van de afdeling Fraudeonderzoek & Opsporing;
 
 e. beleidsmedewerker/analist van de afdeling Fraudeonderzoek & Opsporing;  
 
-f. afdelingshoofd van de afdeling Fraudeonderzoek & Opsporing.    
+f. afdelingshoofd van de afdeling Fraudeonderzoek & Opsporing.   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Besluit Toezichthouders SVB.  
+Dit besluit wordt aangehaald als: Besluit Toezichthouders SVB. 
 
 Amstelveen 
 7 mei 2008   
 
 De 
 voorzitter Raad van bestuur SVB, 
-E.F.Stoové   
+E.F. Stoové     

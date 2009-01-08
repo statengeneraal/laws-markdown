@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan te bepalen:
 
 ### Artikel  1  
 
-Met betrekking tot het nemen van monsters van andere artikelen, die voor den handel bestemd of in den handel gebracht zijn - geen "waren" zijnde in den zin van artikel 1, onder 1°., der [Warenwet](../../../../../../../wet/warenwet/BWBR0001969/README.md) (*Staatsblad* 1935, n°. 793) -, vinden de bepalingen, vastgesteld bij of krachtens de artikelen 21-26 der [Warenwet](../../../../../../../wet/warenwet/BWBR0001969/README.md) (*Staatsblad* 1935, n°. 793) overeenkomstige toepassing, echter met dien verstande, dat in plaats van den laatsten zin van het eerste lid van artikel 23 der wet de volgende bepaling geldt: "Het monster wordt in dit laboratorium of in andere door Onze Ministers van Sociale Zaken en van Handel, Nijverheid en Scheepvaart daarvoor aan te wijzen laboratoria zoo spoedig mogelijk onderzocht".  
+Met betrekking tot het nemen van monsters van andere artikelen, die voor den handel bestemd of in den handel gebracht zijn - geen "waren" zijnde in den zin van artikel 1, onder 1°., der [Warenwet](../../../../../../../wet/warenwet/BWBR0001969/README.md) (*Staatsblad* 1935, n°. 793) -, vinden de bepalingen, vastgesteld bij of krachtens de artikelen 21-26 der [Warenwet](../../../../../../../wet/warenwet/BWBR0001969/README.md) (*Staatsblad* 1935, n°. 793) overeenkomstige toepassing, echter met dien verstande, dat in plaats van den laatsten zin van het eerste lid van artikel 23 der wet de volgende bepaling geldt: "Het monster wordt in dit laboratorium of in andere door Onze Ministers van Sociale Zaken en van Handel, Nijverheid en Scheepvaart daarvoor aan te wijzen laboratoria zoo spoedig mogelijk onderzocht". 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van den tweeden dag na dien der dagteekening van het *Staatsblad*, waarin het is geplaatst.  
+Dit besluit treedt in werking met ingang van den tweeden dag na dien der dagteekening van het *Staatsblad*, waarin het is geplaatst. 
 
 Onze Ministers van Sociale Zaken en van Handel, Nijverheid en Scheepvaart zijn belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan den Raad van State.   
 

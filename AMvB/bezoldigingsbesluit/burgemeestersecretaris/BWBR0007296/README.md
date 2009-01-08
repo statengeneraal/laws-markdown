@@ -15,9 +15,9 @@ Hebben goedgevonden en verstaan
 
 ### Artikel  1  
 
-####Begripsbepalingen
+#### Begripsbepalingen
 
-In dit besluit wordt verstaan onder: 
+In dit besluit wordt verstaan onder:  
 
 a. Onze Minister: Onze Minister van Binnenlandse Zaken;  
 
@@ -25,7 +25,7 @@ b. burgemeester/secretaris: de burgemeester die tevens het ambt van secretaris b
 
 c. bezoldiging: het bedrag per maand, waarop een burgemeester/secretaris met inachtneming van de artikelen 2 en 3 van dit besluit aanspraak kan maken;  
 
-d. het aantal inwoners van een gemeente: het aantal inwoners volgens de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers per 1 januari.    
+d. het aantal inwoners van een gemeente: het aantal inwoners volgens de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers per 1 januari.   
 
 ### Artikel  2  
 
@@ -37,15 +37,15 @@ b. in de inwonersklasse 4001 – 8000 : € 4 703,89.
 
 ### Artikel  4  
 
-De in dit besluit bedoelde bedragen worden herzien op de wijze, bepaald in [artikel 8, derde lid, van het Rechtspositiebesluit burgemeesters 1994](../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md).  
+De in dit besluit bedoelde bedragen worden herzien op de wijze, bepaald in [artikel 8, derde lid, van het Rechtspositiebesluit burgemeesters 1994](../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md). 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 januari 1994.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 januari 1994. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Bezoldigingsbesluit burgemeester/secretaris.  
+Dit besluit wordt aangehaald als: Bezoldigingsbesluit burgemeester/secretaris. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 
@@ -69,9 +69,9 @@ Bezoldiging van de burgemeester/secretaris per 1 januari 1994
 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |---|---|---|---|---|---|---|---|---|
-| Inwonersklasse  | Salarisanciënniteit  |
-| --- | --- | 0  | 1  | 2  | 3  | 4  | 5  | 6  |
-| 1.  | 0-2 000  | 7073  | 7256  | 7439  | 7623  | 7852  | 7973  | 8088  |
-| 2.  | 2 001-4 000  | 7852  | 7973  | 8088  | 8318  | 8548  | 8795  | 9037  |
-| 3.  | 4 001-8 000  | 8318  | 8548  | 8795  | 9037  | 9287  | 9543  | 9851  |
+|Inwonersklasse | Salarisanciënniteit  |
+| --- | --- | 0  |1  |2  |3  |4  |5  |6  |
+|1.  | 0-2 000  |7073  |7256  |7439  |7623  |7852  |7973  |8088  |
+|2.  | 2 001-4 000  |7852  |7973  |8088  |8318  |8548  |8795  |9037  |
+|3.  | 4 001-8 000   |8318  |8548  |8795  |9037  |9287  |9543  |9851 |
 

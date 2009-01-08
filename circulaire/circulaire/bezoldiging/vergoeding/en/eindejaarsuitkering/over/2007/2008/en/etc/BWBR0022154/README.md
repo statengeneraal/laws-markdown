@@ -2,57 +2,57 @@
 
 ##Circulaire Bezoldiging, vergoeding en eindejaarsuitkering over 2007, 2008 en 2009 voor burgemeesters resp. wethouders; ziektekostentegemoetkoming raadsleden
 
-In deze circulaire wordt uiteengezet wat de gevolgen zijn voor de rechtspositie van burgemeesters en wethouders van de arbeidsvoorwaardenovereenkomst voor het rijkspersoneel (die is overeengekomen voor de periode 1 januari 2007 tot en met 31 december 2010).   
-### A  
+In deze circulaire wordt uiteengezet wat de gevolgen zijn voor de rechtspositie van burgemeesters en wethouders van de arbeidsvoorwaardenovereenkomst voor het rijkspersoneel (die is overeengekomen voor de periode 1 januari 2007 tot en met 31 december 2010).    
+### A 
 
 ####Burgemeesters
 
-### 1  
+### 1 
 
 ####Bezoldiging burgemeesters
 
 a. Verhoging van de salarisbedragen met de nominale eindejaarsuitkering In het Sectoroverleg rijkspersoneel is het volgende overeengekomen. Partijen hebben afgesproken, dat de nominale eindejaarsuitkering met ingang van 1 december 2006 komt te vervallen. Daarvoor in de plaats worden de bestaande salarisbedragen van het [BBRA 1984](../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) met ingang van 1 januari 2007 verhoogd met € 91,25 en vervolgens (eveneens per 1 januari 2007) met 2,3%. Het bedrag van € 91,25 is vastgesteld, door het bestaande bedrag van de nominale eindejaarsuitkering van € 1.100,– te verhogen met de in het akkoord afgesproken € 100,– en die € 1.200,– vervolgens terug te rekenen tot een maandelijks salarisbedrag exclusief vakantie-uitkering en exclusief de procentuele eindejaarsuitkering. De salarissystemen zullen een herrekening tot en met 1 december 2006 toepassen, waarmee de reservering voor de nominale eindejaarsuitkering ongedaan zal worden gemaakt. De herrekening wordt ook toegepast op burgemeesters, die na 1 december 2006 zijn ontslagen. De afspraken in de overeenkomst over de inkomensontwikkeling, die met terugwerkende kracht worden toegepast, mogen echter niet leiden tot een inkomensachteruitgang. Is het ambt van een burgemeester na 1 december 2006 beëindigd, dan is de nominale eindejaarsuitkering al uitbetaald. De herrekening, in combinatie met de hierna te noemen salarisverhoging en verhoging van de procentuele eindejaarsuitkering, kan dan tot een vordering op de voormalige burgemeester leiden. Het is echter uitdrukkelijk niet de bedoeling, dat daadwerkelijk tot terugvordering wordt overgegaan. 
 ###Procentuele salarisverhoging
 
-De bestaande salarisbedragen van het [BBRA 1984](../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) worden met ingang van 1 januari 2007 met 2,3% (na de verhoging met € 91,25), per 1 april 2008 met 2% en per 1 april 2009 met 2% verhoogd. Op grond van [artikel 8, derde lid, van het Rechtspositiebesluit burgemeesters](../../../../../../../../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md) wordt de bezoldiging van burgemeesters herzien overeenkomstig de wijziging van de bezoldiging van het personeel in de sector Rijk. Het gestelde onder A1 van deze circulaire geldt dus ook voor burgemeesters. Voor de definitieve bezoldigingsbedragen verwijs ik u naar bijlage 1, 2 en 3 bij deze circulaire.    
-### 2  
+De bestaande salarisbedragen van het [BBRA 1984](../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) worden met ingang van 1 januari 2007 met 2,3% (na de verhoging met € 91,25), per 1 april 2008 met 2% en per 1 april 2009 met 2% verhoogd.Op grond van [artikel 8, derde lid, van het Rechtspositiebesluit burgemeesters](../../../../../../../../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md) wordt de bezoldiging van burgemeesters herzien overeenkomstig de wijziging van de bezoldiging van het personeel in de sector Rijk. Het gestelde onder A1 van deze circulaire geldt dus ook voor burgemeesters.Voor de definitieve bezoldigingsbedragen verwijs ik u naar bijlage 1, 2 en 3 bij deze circulaire.   
+### 2 
 
 ####Procentuele eindejaarsuitkering burgemeesters
 
-In het Sectoroverleg rijkspersoneel is het volgende overeengekomen. De procentuele eindejaarsuitkering wordt in vier jaar zodanig verhoogd, dat in het jaar 2010 sprake is van een volledige 13 <sup>e</sup> maand. Aangezien de eindejaarsuitkering wordt berekend over de periode beginnend met de maand december, worden de percentages jaarlijks met ingang van 1 december als volgt verhoogd: 1 december 2006: van 1,6% naar 2,8% 1 december 2007: van 2,8% naar 4,0% 1 december 2008: van 4,0% naar 5,4% 1 december 2009: van 5,4% naar 8,3%. De eindejaarsuitkering wordt jaarlijks uitbetaald in de maand november. Gelet op [artikel 15a van het Rechtspositiebesluit burgemeesters](../../../../../../../../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md) heeft de burgemeester recht op een eindejaarsuitkering waarvan de hoogte wordt bekend gemaakt in de Staatscourant. Deze circulaire wordt in de Staatscourant gepubliceerd. Voor burgemeesters houdt bovengenoemde afspraak in het Sectoroverleg rijkspersoneel het volgende in. De eindejaarsuitkering wordt berekend over de periode beginnend met de maand december. De percentages worden om die reden jaarlijks met ingang van 1 december verhoogd zoals is afgesproken in het Sectoroverleg rijkspersoneel. Daarnaast geldt voor de burgemeester een verhoogde eindejaarsuitkering van 1,5%. Dat houdt in dat de totale verhoging van de procentuele eindejaarsuitkering voor burgemeesters als volgt is: 1 december 2006: van 1,6% naar 2,8% + 1,5%, totaal 4,3%. 1 december 2007: van 2,8% naar 4,0% + 1,5%, totaal 5,5%. 1 december 2008: van 4,0% naar 5,4% + 1,5%, totaal 6,9%. 1 december 2009: van 5,4% naar 8,3% + 1,5%, totaal 9,8%. De eindejaarsuitkering wordt jaarlijks uitbetaald in de maand november.    
-### 3  
+In het Sectoroverleg rijkspersoneel is het volgende overeengekomen.  De procentuele eindejaarsuitkering wordt in vier jaar zodanig verhoogd, dat in het jaar 2010 sprake is van een volledige 13<sup>e</sup> maand. Aangezien de eindejaarsuitkering wordt berekend over de periode beginnend met de maand december, worden de percentages jaarlijks met ingang van 1 december als volgt verhoogd: 1 december 2006: van 1,6% naar 2,8% 1 december 2007: van 2,8% naar 4,0% 1 december 2008: van 4,0% naar 5,4% 1 december 2009: van 5,4% naar 8,3%. De eindejaarsuitkering wordt jaarlijks uitbetaald in de maand november. Gelet op [artikel 15a van het Rechtspositiebesluit burgemeesters](../../../../../../../../../../../../AMvB/rechtspositiebesluit/burgemeesters/BWBR0006743/README.md) heeft de burgemeester recht op een eindejaarsuitkering waarvan de hoogte wordt bekend gemaakt in de Staatscourant. Deze circulaire wordt in de Staatscourant gepubliceerd. Voor burgemeesters houdt bovengenoemde afspraak in het Sectoroverleg rijkspersoneel het volgende in. De eindejaarsuitkering wordt berekend over de periode beginnend met de maand december. De percentages worden om die reden jaarlijks met ingang van 1 december verhoogd zoals is afgesproken in het Sectoroverleg rijkspersoneel. Daarnaast geldt voor de burgemeester een verhoogde eindejaarsuitkering van 1,5%. Dat houdt in dat de totale verhoging van de procentuele eindejaarsuitkering voor burgemeesters als volgt is: 1 december 2006: van 1,6% naar 2,8% + 1,5%, totaal 4,3%. 1 december 2007: van 2,8% naar 4,0% + 1,5%, totaal 5,5%. 1 december 2008: van 4,0% naar 5,4% + 1,5%, totaal 6,9%. 1 december 2009: van 5,4% naar 8,3% + 1,5%, totaal 9,8%. De eindejaarsuitkering wordt jaarlijks uitbetaald in de maand november.    
+### 3 
 
 ####Doorwerking naar uitkeringen en pensioenen
 
 In het Sectoroverleg Rijk is verder nog het volgende overeengekomen. Zowel de salarisverhoging als de verhoging van de eindejaarsuitkering hebben een algemeen karakter en werken daarom door naar alle voor 1 januari 2007 ingegane ontslaggebonden uitkeringen, zoals de wachtgelden op basis van het [Rijkswachtgeldbesluit 1959](../../../../../../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md) en de uitkeringen op basis van het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk](../../../../../../../../../../../../AMvB/besluit/bovenwettelijke/uitkeringen/bij/werkloosheid/voor/de/sector/rijk/BWBR0008114/README.md). De verhogingen van het salaris en de eindejaarsuitkering zijn pensioengevend. Voor de berekening van het pensioengevende inkomen wordt uitgegaan van het inkomen, zoals dat op 1 januari van elk kalenderjaar bekend is. Wijzigingen later in het jaar zijn daarop niet van invloed. Genoemde verhogingen, evenals de salarisverhogingen in april 2008 en april 2009, zullen daardoor in het lopende kalenderjaar niet pensioengevend zijn. Het bovenstaande is ook van toepassing op burgemeesters.     
-### B  
+### B 
 
 ####Wethouders
 
-### 1  
+### 1 
 
 ####Vergoeding wethouders
 
 a. Verhoging van de salarisbedragen met de nominale eindejaarsuitkering In het Sectoroverleg rijkspersoneel is het volgende overeengekomen.. Partijen hebben afgesproken, dat de nominale eindejaarsuitkering met ingang van 1 december 2006 komt te vervallen. Daarvoor in de plaats worden de bestaande salarisbedragen van het [BBRA 1984](../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) met ingang van 1 januari 2007 verhoogd met € 91,25 en vervolgens (eveneens per 1 januari 2007) met 2,3%. Het bedrag van € 91,25 is vastgesteld, door het bestaande bedrag van de nominale eindejaarsuitkering van € 1.100,– te verhogen met de in het akkoord afgesproken € 100,– en die € 1.200,– vervolgens terug te rekenen tot een maandelijks salarisbedrag exclusief vakantie-uitkering en exclusief de procentuele eindejaarsuitkering. De salarissystemen zullen een herrekening tot en met 1 december 2006 toepassen, waarmee de reservering voor de nominale eindejaarsuitkering ongedaan zal worden gemaakt. De herrekening wordt ook toegepast op wethouders, die na 1 december 2006 hun ambt hebben neergelegd. De afspraken in de overeenkomst over de inkomensontwikkeling, die met terugwerkende kracht worden toegepast, mogen echter niet leiden tot een inkomensachteruitgang. Heeft een wethouder na 1 december 2006 zijn ambt neergelegd, dan is de nominale eindejaarsuitkering al uitbetaald. De herrekening, in combinatie met de hierna te noemen salarisverhoging en verhoging van de procentuele eindejaarsuitkering, kan dan tot een vordering op de voormalige wethouder leiden. Het is echter uitdrukkelijk niet de bedoeling, dat daadwerkelijk tot terugvordering wordt overgegaan. 
 ###Procentuele salarisverhoging
 
-De bestaande salarisbedragen van het [BBRA 1984](../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) worden met ingang van 1 januari 2007 met 2,3% (na de verhoging met € 91,25), per 1 april 2008 met 2% en per 1 april 2009 met 2% verhoogd. Op grond van [artikel 3, tweede lid](../../../../../../../../../../../../AMvB/rechtspositiebesluit/wethouders/BWBR0006535/README.md), en [artikel 3a, tweede lid, van het Rechtspositiebesluit wethouders](../../../../../../../../../../../../AMvB/rechtspositiebesluit/wethouders/BWBR0006535/README.md) worden de bedragen genoemd in de tabel bij het rechtspositiebesluit herzien overeenkomstig de wijziging die de bezoldiging van het personeel in de sector Rijk ondergaat. Het gestelde onder B1 van deze circulaire geldt dus ook voor wethouders. Voor de definitieve vergoedingsbedragen verwijs ik u naar bijlage 4 bij deze circulaire.    
-### 2  
+De bestaande salarisbedragen van het [BBRA 1984](../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) worden met ingang van 1 januari 2007 met 2,3% (na de verhoging met € 91,25), per 1 april 2008 met 2% en per 1 april 2009 met 2% verhoogd.Op grond van [artikel 3, tweede lid](../../../../../../../../../../../../AMvB/rechtspositiebesluit/wethouders/BWBR0006535/README.md), en [artikel 3a, tweede lid, van het Rechtspositiebesluit wethouders](../../../../../../../../../../../../AMvB/rechtspositiebesluit/wethouders/BWBR0006535/README.md) worden de bedragen genoemd in de tabel bij het rechtspositiebesluit herzien overeenkomstig de wijziging die de bezoldiging van het personeel in de sector Rijk ondergaat. Het gestelde onder B1 van deze circulaire geldt dus ook voor wethouders.Voor de definitieve vergoedingsbedragen verwijs ik u naar bijlage 4 bij deze circulaire.   
+### 2 
 
 ####Procentuele eindejaarsuitkering wethouders
 
-In het Sectoroverleg rijkspersoneel is het volgende overeengekomen. De procentuele eindejaarsuitkering wordt in vier jaar zodanig verhoogd, dat in het jaar 2010 sprake is van een volledige 13 <sup>e</sup> maand. Aangezien de eindejaarsuitkering wordt berekend over de periode beginnend met de maand december, worden de percentages jaarlijks met ingang van 1 december als volgt verhoogd: 1 december 2006: van 1,6% naar 2,8% 1 december 2007: van 2,8% naar 4,0% 1 december 2008: van 4,0% naar 5,4% 1 december 2009: van 5,4% naar 8,3% De eindejaarsuitkering wordt jaarlijks uitbetaald in de maand november. Gelet op [artikel 3, derde lid, van het Rechtspositiebesluit wethouders](../../../../../../../../../../../../AMvB/rechtspositiebesluit/wethouders/BWBR0006535/README.md) geniet een wethouder een eindejaarsuitkering overeenkomstig de bepalingen welke daaromtrent voor het personeel in de sector Rijk zijn vastgesteld. Het gestelde onder B2 van deze circulaire geldt dus ook voor wethouders.    
-### 3  
+In het Sectoroverleg rijkspersoneel is het volgende overeengekomen.  De procentuele eindejaarsuitkering wordt in vier jaar zodanig verhoogd, dat in het jaar 2010 sprake is van een volledige 13<sup>e</sup> maand. Aangezien de eindejaarsuitkering wordt berekend over de periode beginnend met de maand december, worden de percentages jaarlijks met ingang van 1 december als volgt verhoogd: 1 december 2006: van 1,6% naar 2,8% 1 december 2007: van 2,8% naar 4,0% 1 december 2008: van 4,0% naar 5,4% 1 december 2009: van 5,4% naar 8,3% De eindejaarsuitkering wordt jaarlijks uitbetaald in de maand november. Gelet op [artikel 3, derde lid, van het Rechtspositiebesluit wethouders](../../../../../../../../../../../../AMvB/rechtspositiebesluit/wethouders/BWBR0006535/README.md) geniet een wethouder een eindejaarsuitkering overeenkomstig de bepalingen welke daaromtrent voor het personeel in de sector Rijk zijn vastgesteld. Het gestelde onder B2 van deze circulaire geldt dus ook voor wethouders.    
+### 3 
 
 ####Doorwerking naar uitkeringen en pensioenen
 
 In het Sectoroverleg is overeengekomen dat zowel de salarisverhoging als de verhoging van de eindejaarsuitkering een algemeen karakter hebben en daarom doorwerken naar alle voor 1 januari 2007 ingegane uitkeringen. Dit geldt ook voor al ingegane APPA-wachtgelduitkeringen. De verhogingen van het salaris en de eindejaarsuitkering zijn pensioengevend voor zover de datum van ontslag/aftreden uit het politiek ambt is gelegen na de datum van de verschillende salariswijzigingen. Ligt de datum van ontslag/aftreden op of voor de datum van de verschillende salariswijzigingen dan is voor de berekening van het nog toe te kennen APPA-pensioen de laatstelijk genoten wedde bepalend. Reeds ingegane APPA-pensioenen worden aangepast overeenkomstig de stijgingen (indexatie) van de ABP-pensioenen.     
-### C  
+### C 
 
 ####Tegemoetkoming in de kosten van een ziektekostenverzekering
 
 In [artikel 11 van het Rechtspositiebesluit raads- en commissieleden](../../../../../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) is bepaald dat de raad bij verordening kan bepalen dat een lid van de raad ten laste van de gemeente een tegemoetkoming in de kosten van een ziektekostenverzekering ontvangt van € 175,– per jaar. Indien de nominale eindejaarsuitkering van het personeel werkzaam bij de sector Rijk wijziging ondergaat, wordt het in het eerste lid genoemde bedrag naar evenredigheid gewijzigd. De nominale eindejaarsuitkering wordt met ingang van 1 januari 2007 verhoogd van € 1.100,– tot € 1.200,– een verhoging van 9,1%. Vervolgens wordt de nominale eindejaarsuitkering met ingang van 1 januari 2007 verhoogd met 2,3%. Dit betekent dat de tegemoetkoming in de kosten van een ziektekostenverzekering voor raadsleden met ingang van 1 januari 2007 naar evenredigheid wordt verhoogd tot € 195,32. Omdat de nominale eindejaarsuitkering in de sector Rijk wordt opgenomen in de schaalbedragen wordt deze vervolgens jaarlijks aangepast aan de inkomensontwikkeling in de sector Rijk. Dat betekent dat de tegemoetkoming in de kosten van een ziektekostenverzekering voor raadsleden per 1 april 2008 wordt verhoogd met 2% tot € 199,23. Het bedrag van de tegemoetkoming dat over het jaar 2008 wordt toegepast is dan € 198,25 (3/12 × € 195,32 + 9/12 × 199,23). Per 1 april 2009 wordt de tegemoetkoming in de ziektekostenverzekering verhoogd met 2% tot € 203,21. Het bedrag van de tegemoetkoming dat over het jaar 2009 wordt toegepast is dan € 202,22 (3/12 × 199,23 + 9/12 × € 203,21).    
-### D  
+### D 
 
 ####Informatie op internet
 
@@ -61,9 +61,9 @@ Informatie die betrekking heeft op politieke ambtsdragers, kunt u vinden op de i
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
 wnd. directeur-generaal Koninkrijksrelaties en Bestuur, 
-P.P.L. vanKalmthout  
+P.P.L. van Kalmthout    
 
-### Bijlage  1  
+### Bijlage 1  
 
 Bezoldiging burgemeesters 
 
@@ -108,7 +108,7 @@ Bezoldiging burgemeesters
 | --- | --- | --- | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | --- |
 | --- | --- | --- | Vergelijkbaar niveau [BBRA 1984](../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md)  | --- |
 
-### Bijlage  2  
+### Bijlage 2  
 
 Bezoldiging burgemeesters 
 
@@ -153,7 +153,7 @@ Bezoldiging burgemeesters
 | --- | --- | --- | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | --- |
 | --- | --- | --- | Vergelijkbaar niveau [BBRA 1984](../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md)  | --- |
 
-### Bijlage  3  
+### Bijlage 3  
 
 Bezoldiging burgemeesters 
 
@@ -198,11 +198,11 @@ Bezoldiging burgemeesters
 | --- | --- | --- | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | --- |
 | --- | --- | --- | Vergelijkbaar niveau [BBRA 1984](../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md)  | --- |
 
-### Bijlage  4  
+### Bijlage 4  
 
 Tabel Bezoldiging wethouders, bedoeld in artikel 3, eerste lid, van het Rechtspositiebesluit wethouders 
 
-| Kl.  | Inwonertal  | Tijdbestedingsnorm in %  | Rgl.-nr. BBRA-schaal  | Bezold. per 1-1-2006  | Bezold. per 1-1-2007  | Bezold. per 1-4-2008  | Bezold. per 1-4-2009  |
+|  Kl.   |  Inwonertal   |  Tijdbestedingsnorm in %   |  Rgl.-nr. BBRA-schaal   |  Bezold. per 1-1-2006  | Bezold. per 1-1-2007  |  Bezold. per 1-4-2008  |  Bezold. per 1-4-2009  |
 |:---|:---|:---|:---|:---|:---|:---|:---|
 | 1  | t/m 2.000  | 45%  | 32  | 3.168,61  | 3.334,84  | 3.401,54  | 3.469,57  |
 | --- | --- | --- | --- | 45%= 1.425,87  | 45%= 1.500,68  | 45%= 1.530,69  | 45%= 1.561,31  |
@@ -224,7 +224,7 @@ Tabel Bezoldiging wethouders, bedoeld in artikel 3, eerste lid, van het Rechtspo
 
 Tabel II. Bezoldiging wethouders, bedoeld in artikel 3a, eerste lid onder a, van het Rechtspositiebesluit wethouders 
 
-| Kl.  | Inwonertal  | Aantal wethouders  | Tijdbestedingsnorm in %  | Bezold. per 1-1-2006  | Bezold. per 1-1-2007  | Bezold. per 1-4-2008  | Bezold. per 1-4-2009  |
+|  Kl.   |  Inwonertal   | Aantal wethouders  |  Tijdbestedingsnorm in %   |  Bezold. per 1-1-2006  | Bezold. per 1-1-2007  |  Bezold. per 1-4-2008  |  Bezold. per 1-4-2009  |
 |:---|:---|:---|:---|:---|:---|:---|:---|
 | 3  | 6.001–8.000  | 2  | 80%  | 4.024,69  | 4.210,61  | 4.294,82  | 4.380,72  |
 | --- | --- | --- | --- | 80%= 3.219,75  | 80%= 3.368,49  | 80%= 3.435,86  | 80%= 3.504,58  |
@@ -235,7 +235,7 @@ Tabel II. Bezoldiging wethouders, bedoeld in artikel 3a, eerste lid onder a, van
 
 Tabel III. Bezoldiging wethouders, bedoeld in artikel 3a, eerste lid onder b, van het Rechtspositiebesluit wethouders 
 
-| Kl.  | Inwonertal  | Aantal wethouders  | Tijdbestedingsnorm in %  | Bezold. per 1-1-2006  | Bezold. per 1-1-2007  | Bezold. per 1-4-2008  | Bezold. per 1-4-2009  |
+|  Kl.   |  Inwonertal   | Aantal wethouders  |  Tijdbestedingsnorm in %   |  Bezold. per 1-1-2006  | Bezold. per 1-1-2007  |  Bezold. per 1-4-2008  |  Bezold. per 1-4-2009  |
 |:---|:---|:---|:---|:---|:---|:---|:---|
 | 3  | 6.001–8.000  | 3  | 50%  | 4.024,69  | 4.210,61  | 4.294,82  | 4.380,72  |
 | --- | --- | --- | --- | 50% = 2.012,35  | 50% = 2.105,31  | 50% = 2.147,41  | 50% = 2.190,36  |

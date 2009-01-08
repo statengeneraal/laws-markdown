@@ -4,7 +4,7 @@
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 in overeenstemming met de Minister van Justitie;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -14,40 +14,40 @@ Er is een Bovenregionaal Advies College management development politie, hierna t
 
 Het BRC heeft als taak aan de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie te adviseren over: 
 
-a. de verdere ontwikkeling, implementatie, evaluatie en bijstelling van het landelijk en interregionaal management development beleid ten behoeve van de Nederlandse politie;  
+a.  de verdere ontwikkeling, implementatie, evaluatie en bijstelling van het landelijk en interregionaal management development beleid ten behoeve van de Nederlandse politie;  
 
-b. de aansluiting van het regionale en interregionale management development op het landelijk management development door onder meer het ontwikkelen van landelijk gedragen criteria voor functies binnen de politieorganisatie;  
+b.  de aansluiting van het regionale en interregionale management development op het landelijk management development door onder meer het ontwikkelen van landelijk gedragen criteria voor functies binnen de politieorganisatie;  
 
-c. de ontwikkeling en invoering van instrumenten om dit gezamenlijke beleid te ondersteunen;  
+c.  de ontwikkeling en invoering van instrumenten om dit gezamenlijke beleid te ondersteunen;  
 
-d. de selectie van kandidaten voor het landelijk management development bestand van strategische functies binnen de politieorganisatie;  
+d.  de selectie van kandidaten voor het landelijk management development bestand van strategische functies binnen de politieorganisatie;  
 
-e. de periodieke toetsing en registratie van de individuele ontwikkelingen van de geselecteerde kandidaten.    
+e.  de periodieke toetsing en registratie van de individuele ontwikkelingen van de geselecteerde kandidaten.    
 
 ### Artikel  3  
 
 Ter uitvoering van zijn taken stelt het BRC tweejaarlijks een werkplan op en zendt dit ter goedkeuring aan de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie.  
 
-### Artikel  4  
+###Artikel 4 
 
-1.  Het BRC is als volgt samengesteld: 
+1. Het BRC is als volgt samengesteld:
 
-a. de heer drs. H.J. Meijer, korpsbeheerder van het regionale politiekorps IJsselland, voorzitter;  
+a.de heer drs. H.J. Meijer, korpsbeheerder van het regionale politiekorps IJsselland, voorzitter;
 
-b. de plaatsvervangend directeur-generaal Veiligheid van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties, lid;  
+b.de plaatsvervangend directeur-generaal Veiligheid van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties, lid;
 
-c. mevrouw mr. H.W. Samsom-Geerlings, hoofdofficier van justitie van het arrondissementsparket Utrecht, lid;  
+c.mevrouw mr. H.W. Samsom-Geerlings, hoofdofficier van justitie van het arrondissementsparket Utrecht, lid;
 
-d. mevrouw A.J. Brink-Grootoonk, korpschef van het regionale politiekorps Noord-Holland-Noord, lid;  
+d.mevrouw A.J. Brink-Grootoonk, korpschef van het regionale politiekorps Noord-Holland-Noord, lid;
 
-e. de heer P.J. van Zunderd, korpschef van het Korps Landelijke Politiediensten;  
+e.de heer P.J. van Zunderd, korpschef van het Korps Landelijke Politiediensten;
 
-f. de heer J.J. Hoogendoorn MPA, korpschef van het regionale politiekorps Noord- en Oost-Gelderland, lid;  
+f.de heer J.J. Hoogendoorn MPA, korpschef van het regionale politiekorps Noord- en Oost-Gelderland, lid;
 
-g. de heer mr. J.H. van den Heuvel, directeur Opsporingsbeleid van het ministerie van Justitie, lid;  
+g.de heer mr. J.H. van den Heuvel, directeur Opsporingsbeleid van het ministerie van Justitie, lid;
 
-h. mevrouw drs. A.M. Miedema, hoofd van het Bureau landelijk management development politie en brandweer van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties, secretaris.     
-2.  De minister van Binnenlandse Zaken en Koninkrijksrelaties voorziet in overeenstemming met de minister van Justitie in de opvolging en tussentijdse vervanging van de leden. Voor zover het de leden betreft genoemd in het eerste lid, onder c tot en met f, geschiedt dit op voordracht van de Raad van Hoofdcommissarissen indien het een korpschef betreft, op voordracht van het Korpsbeheerdersberaad indien het een korpsbeheerder betreft en op voordracht van het OM-politieberaad, indien het een hoofdofficier van justitie betreft.   
+h.mevrouw drs. A.M. Miedema, hoofd van het Bureau landelijk management development politie en brandweer van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties, secretaris.
+2. De minister van Binnenlandse Zaken en Koninkrijksrelaties voorziet in overeenstemming met de minister van Justitie in de opvolging en tussentijdse vervanging van de leden. Voor zover het de leden betreft genoemd in het eerste lid, onder c tot en met f, geschiedt dit op voordracht van de Raad van Hoofdcommissarissen indien het een korpschef betreft, op voordracht van het Korpsbeheerdersberaad indien het een korpsbeheerder betreft en op voordracht van het OM-politieberaad, indien het een hoofdofficier van justitie betreft.
 
 ### Artikel  5  
 
@@ -87,8 +87,8 @@ de voorzitter van het Korpsbeheerdersberaad
 
 de voorzitter van de Raad van Hoofdcommissarissen  
 
-de voorzitter van het OM Politieberaad.    
+de voorzitter van het OM Politieberaad.   
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-K.G. deVries    
+K.G. de Vries      

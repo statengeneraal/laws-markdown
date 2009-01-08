@@ -37,7 +37,7 @@ Besluit:
 1.  De ondernemer, die in het jaar 2000 een onderneming drijft waarin uien worden geteeld, is voor dat jaar aan het productschap een heffing verschuldigd.   
 2.  De berekening van de heffing, bedoeld in het eerste lid, vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de ‘Verordening PT Registratie en verstrekking van gegevens 1997’ verstrekte gegevens.   
 3.  De heffing, bedoeld in het eerste lid, is verschuldigd ten behoeve van afzetbevordering, onderzoek en milieuprojecten.   
-4.  De heffing, bedoeld in het eerste lid, wordt opgelegd bij wege van een aanslag, met inachtneming van het in de volgende artikelen bepaalde.   
+4.  De heffing, bedoeld in het eerste lid, wordt opgelegd bij wege van een aanslag, met inachtneming van het in de volgende artikelen bepaalde.  
 
 ### §  3  
 
@@ -45,7 +45,7 @@ Besluit:
 
 ### Artikel  3  
 
-De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, een en ander overeenkomstig de volgende artikelen.  
+De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, een en ander overeenkomstig de volgende artikelen. 
 
 ### Artikel  4  
 
@@ -68,7 +68,7 @@ c. in gebruik is ontvangen, of
 
 d. door de ondernemer wordt beteeld voor contractteelt.     
 2.  Voor de toepassing van artikel 4 wordt cultuurgrond gerekend naar de gemeten maat.   
-3.  Voor de toepassing van artikel 4 worden met betrekking tot de groepen 20 en 21 gedeelten van een hectare belast in evenredigheid met de voor die groepen bedoelde bedragen. Gedeelten van een hectare worden naar beneden afgerond tot een veelvoud van aren.   
+3.  Voor de toepassing van artikel 4 worden met betrekking tot de groepen 20 en 21 gedeelten van een hectare belast in evenredigheid met de voor die groepen bedoelde bedragen. Gedeelten van een hectare worden naar beneden afgerond tot een veelvoud van aren.  
 
 ### §  4  
 
@@ -76,7 +76,7 @@ d. door de ondernemer wordt beteeld voor contractteelt.
 
 ### Artikel  6  
 
-Indien een heffingplichtige gegevens, die hem krachtens deze verordening of de Verordening PT Registratie en verstrekking van gegevens 1997 ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing wordt verhoogd met fl. 90,– (40 euro) in verband met administratiekosten.  
+Indien een heffingplichtige gegevens, die hem krachtens deze verordening of de Verordening PT Registratie en verstrekking van gegevens 1997 ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing wordt verhoogd met fl. 90,– (40 euro) in verband met administratiekosten. 
 
 ### Artikel  7  
 
@@ -88,11 +88,11 @@ a. naam en adres van de heffingplichtige;
 b. een specificatie of toelichting omtrent de wijze waarop de heffing is berekend;  
 
 c. het totaal van de heffing.     
-3.  In afwijking van het eerste lid kan de heffingplichtige een voorlopige heffing worden opgelegd tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.   
+3.  In afwijking van het eerste lid kan de heffingplichtige een voorlopige heffing worden opgelegd tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.  
 
 ### Artikel  8  
 
-Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in artikel 6 niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.  
+Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in artikel 6 niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd. 
 
 ### Artikel  9  
 
@@ -103,15 +103,15 @@ a. zodra het faillissement van de heffingplichtige is aangevraagd;
 
 b. zodra de ondernemer het drijven van de onderneming beëindigt of van het voornemen daartoe blijkt of  
 
-c. zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van het voornemen daartoe blijkt.     
+c. zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van het voornemen daartoe blijkt.    
 
 ### Artikel  10  
 
-Aan de heffingplichtige, die niet of niet geheel binnen de in artikel 9 bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van maximaal fl. 50,– (22,50 euro) in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning, bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).  
+Aan de heffingplichtige, die niet of niet geheel binnen de in artikel 9 bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van maximaal fl. 50,– (22,50 euro) in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning, bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
 
 ### Artikel  11  
 
-De voorzitter is belast met de oplegging en inning van de heffing en de daarmee samenhangende kosten, als bedoeld in de artikelen 6 tot en met 10.  
+De voorzitter is belast met de oplegging en inning van de heffing en de daarmee samenhangende kosten, als bedoeld in de artikelen 6 tot en met 10. 
 
 ### §  5  
 
@@ -119,14 +119,14 @@ De voorzitter is belast met de oplegging en inning van de heffing en de daarmee 
 
 ### Artikel  12  
 
-Deze verordening treedt in werking op de dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en is van toepassing op het kalenderjaar 2000.  
+Deze verordening treedt in werking op de dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en is van toepassing op het kalenderjaar 2000. 
 
 ### Artikel  13  
 
-Deze verordening wordt aangehaald als Verordening PT Bijzondere heffing uien 2000.  
+Deze verordening wordt aangehaald als Verordening PT Bijzondere heffing uien 2000. 
 
-Zoetermeer, 
-J. van derVeen
-voorzitter
-C.Kuijvenhoven
-secretaris   
+Zoetermeer,
+J. van der Veen  
+voorzitter 
+C. Kuijvenhoven  
+secretaris    

@@ -11,20 +11,20 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-In afwijking van het bepaalde in [artikel 17 *b*, eerste lid, van de Wet op de studiefinanciering](../../../../../../../../../../../../wet/wet/op/de/studiefinanciering/BWBR0003955/README.md) kan Onze Minister van Onderwijs en Wetenschappen tot uiterlijk 1 september 1996 aan een onderwijsinstelling naar aanleiding van een jaarlijks door het bestuur van die instelling schriftelijk in te dienen verzoek, toestaan dat uitsluitend ten behoeve van de beoordeling van de studievoortgang in dat studiejaar, in plaats van studiepunten een andere norm wordt gehanteerd. Deze norm dient gelijkwaardig te zijn aan de norm uitgedrukt in studiepunten.  
+In afwijking van het bepaalde in [artikel 17*b*, eerste lid, van de Wet op de studiefinanciering](../../../../../../../../../../../../wet/wet/op/de/studiefinanciering/BWBR0003955/README.md) kan Onze Minister van Onderwijs en Wetenschappen tot uiterlijk 1 september 1996 aan een onderwijsinstelling naar aanleiding van een jaarlijks door het bestuur van die instelling schriftelijk in te dienen verzoek, toestaan dat uitsluitend ten behoeve van de beoordeling van de studievoortgang in dat studiejaar, in plaats van studiepunten een andere norm wordt gehanteerd. Deze norm dient gelijkwaardig te zijn aan de norm uitgedrukt in studiepunten. 
 
 ### Artikel  IV  
 
 1.  Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.   
-2.  In afwijking van het bepaalde in artikel I, onderdeel A onder 1, wordt voor instellingen voor hoger beroepsonderwijs onder het studiejaar 1993-1994 verstaan het tijdvak dat aanvangt op 1 augustus 1993 en eindigt op 31 augustus 1994.   
+2.   In afwijking van het bepaalde in artikel I, onderdeel A onder 1, wordt voor instellingen voor hoger beroepsonderwijs onder het studiejaar 1993-1994 verstaan het tijdvak dat aanvangt op 1 augustus 1993 en eindigt op 31 augustus 1994.  
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

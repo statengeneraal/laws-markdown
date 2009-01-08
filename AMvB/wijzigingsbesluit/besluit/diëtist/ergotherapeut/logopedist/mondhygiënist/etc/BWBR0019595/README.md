@@ -17,19 +17,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit diëtist, ergotherapeut, logopedist, mondhygiënist, oefentherapeut, orthoptist en podotherapeut.   
+Wijzigt het Besluit diëtist, ergotherapeut, logopedist, mondhygiënist, oefentherapeut, orthoptist en podotherapeut.
 
 ### Artikel  II  
 
-Wijzigt het Besluit functionele zelfstandigheid.   
+Wijzigt het Besluit functionele zelfstandigheid. 
 
 ### Artikel  III  
 
-Degene aan wie ingevolge [artikel 14 van het Besluit diëtist, ergotherapeut, logopedist, mondhygiënist, oefentherapeut, orthoptist en podotherapeut](../../../../../../../../../AMvB/besluit/diëtist/ergotherapeut/logopedist/mondhygiënist/oefentherapeut/etc/BWBR0008975/README.md), zoals dit luidde voor de inwerkingtreding van dit besluit, het recht is toegekend de titel van mondhygiënist te voeren, behoudt dit recht.  
+Degene aan wie ingevolge [artikel 14 van het Besluit diëtist, ergotherapeut, logopedist, mondhygiënist, oefentherapeut, orthoptist en podotherapeut](../../../../../../../../../AMvB/besluit/diëtist/ergotherapeut/logopedist/mondhygiënist/oefentherapeut/etc/BWBR0008975/README.md), zoals dit luidde voor de inwerkingtreding van dit besluit, het recht is toegekend de titel van mondhygiënist te voeren, behoudt dit recht. 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

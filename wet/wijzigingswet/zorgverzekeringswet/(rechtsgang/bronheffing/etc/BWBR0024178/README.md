@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Zorgverzekeringswet.   
+Wijzigt de Zorgverzekeringswet. 
 
 ### Artikel  II  
 
@@ -22,11 +22,11 @@ a. bezwaar is ingediend waarop nog geen beslissing is genomen door het bevoegde 
 
 b. een beslissing op bezwaar is genomen, geldt deze beslissing als een beslissing van het College zorgverzekeringen.     
 3.  Tegen een voor de inwerkingtreding van deze wet door een pensioenfonds of een werkgever verrichte inhouding van de bijdrage bedoeld in het eerste lid, staat, tot dertien weken na de inwerkingtreding van deze wet, bezwaar open bij het College zorgverzekeringen.   
-4.  Indien over de inhouding van de bijdrage een geschil aanhangig is gemaakt bij een civiele rechter, is deze rechter, in afwijking van het eerste lid, bevoegd.   
+4.  Indien over de inhouding van de bijdrage een geschil aanhangig is gemaakt bij een civiele rechter, is deze rechter, in afwijking van het eerste lid, bevoegd.  
 
 ### Artikel  III  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -62,7 +62,7 @@ a. ter financiering van een naar maatschappelijke opvattingen redelijke afvloeii
 
 b. voor de vestiging of de verbetering van pensioenrechten van werknemers of van vroegere werknemers van de vennootschap mits er sprake is of blijft van een pensioenregeling in de zin van hoofdstuk IIB van de Wet op de loonbelasting 1964;  
 
-c. voor het doen van schenkingen aan een of meer binnen Nederland gevestigde instellingen als bedoeld in artikel 6.33, onderdeel b, van de Wet.      
+c. voor het doen van schenkingen aan een of meer binnen Nederland gevestigde instellingen als bedoeld in artikel 6.33, onderdeel b, van de Wet.    
 
 B. Aan de verlening van de faciliteiten worden voorts nog de volgende voorwaarden verbonden 
 

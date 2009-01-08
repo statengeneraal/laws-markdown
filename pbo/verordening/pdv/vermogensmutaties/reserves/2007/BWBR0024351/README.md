@@ -7,21 +7,21 @@ Besluit:
 
 ### Artikel  1  
 
-De specificatie van de vermogensmutaties van de reserves 2007 luidt als opgenomen in hoofdstuk E van de jaarrekening 2007.  
+De specificatie van de vermogensmutaties van de reserves 2007 luidt als opgenomen in hoofdstuk E van de jaarrekening 2007. 
 
 ### Artikel  2  
 
-Deze verordening wordt geplaatst in het Verordeningenblad Bedrijfsorganisatie.  
+Deze verordening wordt geplaatst in het Verordeningenblad Bedrijfsorganisatie. 
 
 ### Artikel  3  
 
-Deze verordening wordt aangehaald als: Verordening PDV vermogensmutaties reserves 2007.  
+Deze verordening wordt aangehaald als: Verordening PDV vermogensmutaties reserves 2007. 
 
 Den Haag 
 26 maart 2008   
 
-Th.A.M. Meijer  
+Th.A.M.  Meijer  
 voorzitter  
 
-J. den Hartog  
+J. den  Hartog  
 secretaris    

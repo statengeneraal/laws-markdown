@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Artikel  1  
 
-Het op 25 april 2005 te Luxemburg totstandgekomen Verdrag betreffende de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie (met Akte, Protocol, Slotakte en Bijlagen), waarvan de Nederlandse tekst is geplaatst in Tractatenblad 2005, 196, wordt goedgekeurd voor het gehele Koninkrijk.  
+Het op 25 april 2005 te Luxemburg totstandgekomen Verdrag betreffende de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie (met Akte, Protocol, Slotakte en Bijlagen), waarvan de Nederlandse tekst is geplaatst in Tractatenblad 2005, 196, wordt goedgekeurd voor het gehele Koninkrijk. 
 
 ### Artikel  2  
 
-De goedkeuring door de Staten-Generaal van de verdragen, welke als noodzakelijk en rechtstreeks gevolg van het in artikel 1 genoemde Verdrag gesloten worden tussen de lid-staten van de Europese Unie onderling, danwel tussen de lid-staten, al dan niet gezamenlijk met de Europese Gemeenschappen enerzijds en derde staten of internationale organisaties anderzijds, is niet vereist.  
+De goedkeuring door de Staten-Generaal van de verdragen, welke als noodzakelijk en rechtstreeks gevolg van het in artikel 1 genoemde Verdrag gesloten worden tussen de lid-staten van de Europese Unie onderling, danwel tussen de lid-staten, al dan niet gezamenlijk met de Europese Gemeenschappen enerzijds en derde staten of internationale organisaties anderzijds, is niet vereist. 
 
 ### Artikel  3  
 
-Deze rijkswet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze rijkswet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -27,19 +27,19 @@ Gegeven te ’s-Gravenhage
 15 juni 2006  
 Beatrix  
 
-De Minister-President, Minister van Algemene Zaken, 
-J. P.Balkenende 
+De Minister-President, Minister van Algemene Zaken , 
+J. P. Balkenende   
 
-De Minister van Buitenlandse Zaken, 
-B. R.Bot 
+De Minister van Buitenlandse Zaken , 
+B. R. Bot   
 
-De Minister van Financiën, 
-G.Zalm 
+De Minister van Financiën , 
+G. Zalm   
 
-De Staatssecretaris van Buitenlandse Zaken, 
-A.Nicolaï 
+De Staatssecretaris van Buitenlandse Zaken , 
+A. Nicolaï   
 
 de *vierde* juli 2006 
 
-De Minister van Justitie, 
-J. P. H.Donner  
+De Minister van Justitie , 
+J. P. H. Donner    

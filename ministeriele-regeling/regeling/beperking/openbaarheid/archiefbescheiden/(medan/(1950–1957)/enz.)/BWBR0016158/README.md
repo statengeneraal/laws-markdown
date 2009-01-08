@@ -107,27 +107,27 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn van de archi
 
 ### Artikel  2  
 
-Raadpleging of gebruik van de archiefbescheiden geborgen onder de in de tabel bij artikel 1 genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief met een verzoek tot inzage. Indiening van een verzoek tot inzage geschiedt door ondertekening door de verzoeker van het *‘Formulier voor toestemming tot raadpleging van niet openbare archieven’*; een exemplaar van dit formulier is als bijlage bij dit besluit gevoegd. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.  
+Raadpleging of gebruik van de archiefbescheiden geborgen onder de in de tabel bij artikel 1 genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief met een verzoek tot inzage. Indiening van een verzoek tot inzage geschiedt door ondertekening door de verzoeker van het *‘Formulier voor toestemming tot raadpleging van niet openbare archieven’*; een exemplaar van dit formulier is als bijlage bij dit besluit gevoegd. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden. 
 
 ### Artikel  3  
 
-Het vervaardigen van reproducties van documenten uit de archiefbescheiden geborgen onder de in de tabel bij artikel 1 genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationale archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.  
+Het vervaardigen van reproducties van documenten uit de archiefbescheiden geborgen onder de in de tabel bij artikel 1 genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationale archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden. 
 
 ### Artikel  4  
 
-Publicatie van gegevens uit de archief bescheiden geborgen onder de in de tabel bij artikel 1 genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.  
+Publicatie van gegevens uit de archief bescheiden geborgen onder de in de tabel bij artikel 1 genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal worden bekendgemaakt door kennisgeving daarvan in de Staatscourant. Dit besluit zal als bijlage bij de *‘Verklaring van Overbrenging van de archieven van de commissariaten te Medan (1950–1957), Bandung (1950–1957), Semarang (1950–1957), Bandjarmasin (1951–1957), Makassar (1950–1957) en Palembang (1950–1957)’* worden gevoegd.   
 
 De 
-Minister van Buitenlandse Zaken
-B.R.Bot   
+Minister van Buitenlandse Zaken 
+B.R. Bot     
 
 ####Bijlage
 
-![65503](http://wetten.overheid.nl/Illustration/65503)
+![65502](http://wetten.overheid.nl/Illustration/65502)
 ![65503](http://wetten.overheid.nl/Illustration/65503)
 

@@ -10,7 +10,7 @@ Gelet op Verordening (EG) nr. 254/2003 van de Raad van de Europese Unie van 11 f
 Gelet op Verordening (EG) nr. 257/2003 van de Commissie van de Europese Gemeenschappen van 11 februari 2003 tot wijziging van Verordening (EG) nr. 2368/2002 van de Raad tot uitvoering van de Kimberleyprocescertificering voor de internationale handel in ruwe diamant (Pb EG L 36);
 
 Gelet op de [artikelen 2, tweede lid](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md), en [3 van de Sanctiewet 1977](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -23,9 +23,9 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Sanctieregeling conflictdiamanten 2003.  
+Deze regeling wordt aangehaald als: Sanctieregeling conflictdiamanten 2003. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Buitenlandse Zaken, 
-J.G. deHoop Scheffer    
+J.G. de Hoop Scheffer      

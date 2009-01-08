@@ -10,26 +10,26 @@ Besluit:
 
 ### Artikel  1  
 
-Als normen bedoeld in [artikel 4, eerste lid, onderdeel a, van het Warenwetbesluit elektrotechnische produkten](../../../../../../../AMvB/warenwetbesluit/elektrotechnische/produkten/BWBR0005587/README.md), worden aangewezen de normen zoals vermeld in bijlage 1 van deze regeling.  
+Als normen bedoeld in [artikel 4, eerste lid, onderdeel a, van het Warenwetbesluit elektrotechnische produkten](../../../../../../../AMvB/warenwetbesluit/elektrotechnische/produkten/BWBR0005587/README.md), worden aangewezen de normen zoals vermeld in bijlage 1 van deze regeling. 
 
 ### Artikel  2  
 
 1.  Als normen bedoeld in [artikel 4, eerste lid, onderdeel c, van het Warenwetbesluit elektrotechnische produkten](../../../../../../../AMvB/warenwetbesluit/elektrotechnische/produkten/BWBR0005587/README.md), worden aangewezen de normen zoals vermeld in bijlage 2 van deze regeling.   
 2.  Als normen bedoeld in [artikel 4, eerste lid, onderdeel c, van het Warenwetbesluit elektrotechnische produkten](../../../../../../../AMvB/warenwetbesluit/elektrotechnische/produkten/BWBR0005587/README.md), worden tevens aangewezen de normen voor elektrotechnische produkten, die in de lidstaten van de Europese Economische Gemeenschap zijn gepubliceerd door de normalisatie-instituten die overeenkomstig artikel 11 van de richtlijn zijn aangewezen, voor zover die normen een vertaling zijn van de internationale normen, waarvan de Nederlandse vertaling ingevolge artikel 1 is aangewezen.   
-3.  In het tweede lid wordt onder internationale normen verstaan ‘publication’ van de International Electrotechnical Commission (IEC) en ‘Specification’ en ‘publication’ van de International Commission on rules for the Approval of Electrical Equipment (CEE).   
+3.  In het tweede lid wordt onder internationale normen verstaan ‘publication’ van de International Electrotechnical Commission (IEC) en ‘Specification’ en ‘publication’ van de International Commission on rules for the Approval of Electrical Equipment (CEE).  
 
 ### Artikel  3  
 
 1.  Deze regeling, die met de daarbij behorende toelichting en bijlagen in de Staatscourant zal worden geplaatst, treedt in werking op het tijdstip waarop het [Warenwetbesluit elektrotechnische produkten](../../../../../../../AMvB/warenwetbesluit/elektrotechnische/produkten/BWBR0005587/README.md) in werking treedt.   
-2.  Deze regeling kan worden aangehaald als Warenwetregeling aanwijzing normen elektrotechnische produkten.   
+2.  Deze regeling kan worden aangehaald als Warenwetregeling aanwijzing normen elektrotechnische produkten.  
 
 De 
 Staatssecretaris Van Welzijn, Volksgezondheid en Cultuur, 
-H. J.Simons   
+H. J. Simons     
 
 ### Bijlage  1  
 
-### Tabel  I  
+### Tabel I  
 
 | HD  | Referentiedocument en titel  |
 |---|---|
@@ -44,33 +44,33 @@ H. J.Simons
 | 21.2 S2/A3:1993  |
 | 21.2 S2/A4:1993  |
 | 21.3 S2:1990  | IEC 227-3:1979  Met wijzigingen  Leidingen met aderisolatie van polyvinylchloride en nominale spanning tot en met 450/750 V  Deel 3: Leidingen zonder mantel voor vaste aanleg  |
-| 21.5 S2:1990  | IEC 227-5:1979  Met wijzigingen  Leidingen met aderisolatie van polyvinylchloride en een nominale spanning tot en met 450/750 V  Deel 5: Buigzame leidingen  |
+| 21.5 S2:1990  | IEC 227-5:1979   Met wijzigingen  Leidingen met aderisolatie van polyvinylchloride en een nominale spanning tot en met 450/750 V  Deel 5: Buigzame leidingen  |
 | 21.5 S2/A4:1991  |
 | 21.7 S1:1990  | Leidingen met aderisolatie van polyvinylchloride en een nominale spanning tot en met 450/750 V  Deel 7: Vinylmontagedraad voor geleidertemperaturen van ten hoogste 90 °C  |
 | 21.7 S1/A1:1992  |
 | 21.7 S1/A2:1993  |
 | 21.8 S1:1990  | Leidingen met aderisolatie van polyvinylchloride en een nominale spanning tot en met 450/750 V  Deel 8: Snoer voor verlichtingsgarnituren  |
-| 21.9 S1:1990  | Leidingen met aderisolatie van polyvinylchloride met een nominale spanning tot en met 450/750 V  Deel 9: Installatiedraad voor aanleg bij lage temperaturen  |
+| 21.9 S1:1990  | Leidingen met aderisolatie van polyvinylchloride met een nominale spanning tot en met 450/750 V   Deel 9: Installatiedraad voor aanleg bij lage temperaturen  |
 | 21.10 S1:1993  | Leidingen met aderisolatie van polyvinylchloride en een nominale spanning tot en met 450/750 V  Deel 10: Krulsnoeren  |
-| 22.1 S2:1992  | IEC 245-1:1980  Met wijzigingen  Leidingen met aderisolatie van rubber en een nominale spanning tot en met 450/750 V  Deel 1: Algemene bepalingen  |
+| 22.1 S2:1992  | IEC 245-1:1980   Met wijzigingen  Leidingen met aderisolatie van rubber en een nominale spanning tot en met 450/750 V  Deel 1: Algemene bepalingen  |
 | 22.1 S2/A11:1992  |
 | 22.1 S2/A12:1992  |
 | 22.1 S2/A13:1992  |
 | 22.1 S2/A15:1993  |
-| 22.2 S2:1992  | IEC 245-2:1980  Met wijzigingen  Leidingen met aderisolatie van rubber en een nominale spanning tot en met 450/750 V  Deel 2: Beproevingsmethoden  |
+| 22.2 S2:1992  | IEC 245-2:1980   Met wijzigingen  Leidingen met aderisolatie van rubber en een nominale spanning tot en met 450/750 V  Deel 2: Beproevingsmethoden  |
 | 22.2 S2/A5:1992  |
 | 22.2 S2/A6:1992  |
 | 22.2 S2/A7:1992  |
 | 22.2 S2/A8:1993  |
-| 22.3 S2:1992  | IEC 245-3:1980  Met wijzigingen  Leidingen met aderisolatie van rubber en een nominale spanning tot en met 450/750 V  Deel 3: Hittevaste leidingen met isolatie van siliconenrubber  |
+| 22.3 S2:1992  | IEC 245-3:1980   Met wijzigingen  Leidingen met aderisolatie van rubber en een nominale spanning tot en met 450/750 V  Deel 3: Hittevaste leidingen met isolatie van siliconenrubber  |
 | 22.4 S2:1992  | IEC 245-4:1980  Met wijzigingen  Leidingen met aderisolatie van rubber en een nominale spanning tot en met 450/750 V  Deel 4: Buigzame leidingen  |
 | 22.4 S2/A6:1992  |
-| 22.6 S1:1990  | Leidingen met aderisolatie van rubber en een nominale spanning tot en met 450/750 V  Deel 6: Laskabels  |
+| 22.6 S1:1990  | Leidingen met aderisolatie van rubber en een nominale spanning tot en met 450/750 V   Deel 6: Laskabels  |
 | 22.6 S1/A1:1992  |
-| 22.7 S1:1992  | Leidingen met aderisolatie van rubber en een nominale spanning tot en met 450/750 V  Deel 7: Leidingen met verhoogde warmtevastheid voor geleidertemperaturen van ten hoogste 110 °C  |
-| 22.8 S1:1992  | Leidingen met aderisolatie van rubber en een nominale spanning tot en met 450/750 V  Deel 8: Polychloropreenmantelleidingen voor verlichtingsgarnituren  |
+| 22.7 S1:1992  | Leidingen met aderisolatie van rubber en een nominale spanning tot en met 450/750 V   Deel 7: Leidingen met verhoogde warmtevastheid voor geleidertemperaturen van ten hoogste 110 °C  |
+| 22.8 S1:1992  | Leidingen met aderisolatie van rubber en een nominale spanning tot en met 450/750 V   Deel 8: Polychloropreenmantelleidingen voor verlichtingsgarnituren  |
 | 22.8 S1/A2:1992  |
-| 22.9 S1:1992  | Leidingen met aderisolatie van rubber en een nominale spanning tot en met 450/750 V  Deel 9: Eenaderige leidingen zonder mantel voor vaste aanleg met een geringe ontwikkeling van rook en corrosiegassen bij brand  |
+| 22.9 S1:1992  | Leidingen met aderisolatie van rubber en een nominale spanning tot en met 450/750 V   Deel 9: Eenaderige leidingen zonder mantel voor vaste aanleg met een geringe ontwikkeling van rook en corrosiegassen bij brand  |
 | 41 S3:1989  | IEC 172:1987  Gelakt wikkeldraad  Bepaling van de temperatuurindex  IEC 61-1G:1977  IEC 61-1H:1977  IEC 61-1J:1980  IEC 61-1K:1983  |
 | 65.2 S1:1978  | IEC 61-2:1969  Lampvoeten en lamphouders alsmede kalibers voor controle van de uitwisselbaarheid en veiligheid  Deel 2: Lamphouders  IEC 61-2E:1977  IEC 61-2F:1980  IEC 61-2G:1983  |
 | 65.3 S1:1978  | IEC 61-3:1969  Lampvoeten en lamphouders alsmede kalibers voor controle van de uitwisselbaarheid en veiligheid  Deel 3: Kalibers  IEC 61-3G:1977  IEC 61-3H:1980  IEC 61-3J:1983  |
@@ -113,7 +113,7 @@ H. J.Simons
 | 384.7.708 S1:1992  | IEC 364-7-708:1988  Elektrische installaties van gebouwen  Deel 7: Eisen voor bijzondere installaties of ruimten – Sectie 708: Elektrische installaties op recreatieterreinen en caravans  |
 | 400.1 S1:1980  | CEE 20 Part I:1973  Met wijzigingen  Handgereedschap met elektrische aandrijving  Deel I: Algemene bepalingen  |
 | 400.1 S1/A1:1991  | CEE 20 Part I:1973  Met wijzigingen  |
-| 400.2A S1:1980  | CEE 20 Part II Section A:1975  Met wijzigingen  Handgereedschap met elektrische aandrijving  Deel II: Bijzondere bepalingen  Sectie A: Boormachines  |
+| 400.2A S1:1980  | CEE 20 Part II Section A:1975   Met wijzigingen  Handgereedschap met elektrische aandrijving  Deel II: Bijzondere bepalingen  Sectie A: Boormachines  |
 | 400.2B S1:1980  | CEE 20 Part II Section B:1975  Met wijzigingen  Handgereedschap met elektrische aandrijving  Deel II: Bijzondere bepalingen  Sectie B: Schroevedraaiers en slagschroevedraaiers  |
 | 400.2C S1:1980  | CEE 20 Part II Section C:1975  Met wijzigingen  Handgereedschap met elektrische aandrijving  Deel II: Bijzondere bepalingen  Sectie C: Slijpmachines, polijstmachines en schijfschuurmachines  |
 | 400.2C S1/A1:1991  | CEE 20 Part II Section C:1975  Met wijzigingen  |
@@ -146,7 +146,7 @@ H. J.Simons
 | 491.1S1:1988  | IEC 519-1:1984  Veiligheid van elektrowarmte-installaties  Deel 1: Algemene bepalingen  |
 | 491.3S1:1990  | IEC 519-3:1988  Met wijzigingen  Veiligheid van elektrowarmte-installaties  Deel 3: Bijzondere eisen voor inductieve en conductieve verwarming en inductieve smeltinstallaties  |
 | 491.9S1:1991  | IEC 519-9:1987  Met wijzigingen  Veiligheid van elektrowarmte-installaties  Bijzondere eisen voor hoogfrequent diëlectrische warmte-installaties  |
-| 505.1.1 S3:1991  | IEC 811-1-1:1985 + A1:1988 + A2:1989  Elektrische leidingen – Isolatie- en mantelmaterialen – Deel 1: Algemene beproevingsmethoden – Sectie 1: Dikten en buitenafmetingen – Mechanische eigenschappen  |
+| 505.1.1 S3:1991  | IEC 811-1-1:1985 + A1:1988 + A2:1989   Elektrische leidingen – Isolatie- en mantelmaterialen – Deel 1: Algemene beproevingsmethoden – Sectie 1: Dikten en buitenafmetingen – Mechanische eigenschappen  |
 | 505.1.2 S2:1991  | IEC 811-1-2:1985 + A1:1989  Elektrische leidingen – Isolatie- en mantelmaterialen – Deel 1: Algemene beproevingsmethoden – Sectie 2: Thermische verouderingen  |
 | 505.1.3 S2:1991  | IEC 811-1-3:1985 + A1:1990  Elektrische leidingen – Isolatie- en mantelmaterialen – Deel 1: Algemene beproevingsmethoden – Sectie 3: Dichtheid waterabsorbtie – Krimp  |
 | 505.1.4 S1:1988  | IEC 811-1-4:1985  Elektrische leidingen – Isolatie- en mantelmaterialen – Deel 1: Algemene beproevingsmethoden – Sectie 4: Beproeving bij lage temperaturen  |
@@ -191,7 +191,7 @@ H. J.Simons
 | 60320-1/A1:1989  | IEC 320:1981/A3:1987  |
 | 60320-2-1:1987  | IEC 320-2-1:1984  Met wijzigingen  Toestelstopcontacten voor huishoudelijk en dergelijk algemeen gebruik  Deel 2: Toestelstopcontacten voor naaimachines  |
 | 60 320-2-2:1991  | IEC 320-2-2:1990  Met wijzigingen  Toestelstopcontacten voor huishoudelijk en dergelijk algemeen gebruik  Deel 2: Toestelkoppelstopcontacten voor huishoudelijke en soortgelijke toestellen  |
-| 60335-1:1988  | IEC 335-1:1976, second impression 1983, incl. A1:1977, A2:1979, A3:1982  Met wijzigingen  Veiligheid van huishoudelijke en soortgelijke elektrische toestellen  Deel 1: Algemene eisen  |
+| 60335-1:1988  | IEC 335-1:1976, second impression 1983, incl. A1:1977, A2:1979, A3:1982   Met wijzigingen  Veiligheid van huishoudelijke en soortgelijke elektrische toestellen  Deel 1: Algemene eisen  |
 | 60335-1/A2:1988  | IEC 335-1:1976/A4:1984  Met wijzigingen  |
 | 60335-1/A5:1989  | IEC 335-1:1976/A5:1986  Met wijzigingen  |
 | 60335-1/A6:1989  | IEC 335-1:1976/A6:1988  Met wijzigingen  |
@@ -256,7 +256,7 @@ H. J.Simons
 | 60335-2-29:1991  | IEC 335-2-29:1987 + A1:1989  Met wijzigingen  Veiligheid van huishoudelijke en soortgelijke elektrische toestellen  Deel 2: Bijzondere eisen voor acculaders  |
 | 60335-2-31:1990  | IEC 335-2-31:1988  Met wijzigingen  Veiligheid van huishoudelijke en soortgelijke elektrische toestellen  Deel 2: Bijzondere eisen voor afzuigkappen  |
 | 60335-2-31/A1:1991  | IEC 335-2-31:1988/A1:1990  |
-| 60335-2-32:1990  | IEC 335-2-32:1987  Met wijzigingen  Veiligheid van huishoudelijke en soortgelijke elektrische toestellen  Deel 2: Bijzondere eisen voor massagetoestellen  |
+| 60335-2-32:1990  | IEC 335-2-32:1987   Met wijzigingen  Veiligheid van huishoudelijke en soortgelijke elektrische toestellen  Deel 2: Bijzondere eisen voor massagetoestellen  |
 | 60335-2-33:1990  | IEC 335-2-33:1987  Met wijzigingen  Veiligheid van huishoudelijke en soortgelijke elektrische toestellen  Deel 2: Bijzondere eisen voor koffiemolens  |
 | 60335-2-36:1989  | IEC 335-2-36:1986  Met wijzigingen  Veiligheid van huishoudelijke en soortgelijke elektrische toestellen  Deel 2: Bijzondere eisen voor fornuizen, ovens en kookelementen voor bedrijfsgebruik  |
 | 60335-2-36/A1:1992  | IEC 335-2-36:1986/A1:1990  Met wijzigingen  |
@@ -307,7 +307,7 @@ H. J.Simons
 | 60360:1989  | IEC 360:1987  Methode voor het meten van de temperatuurstijging van lampvoeten  |
 | 60400:1992  | IEC 400:1991  Met wijzigingen  Lamphouders voor buisvormige fluorescentielampen en starterhouders  |
 | 60432:1988  | IEC 432:1984  Gloeilampen met wolfraamdraad voor huishoudelijke en soortgelijke algemene verlichtingsdoeleinden-  Veiligheidsbepalingen en keuring  |
-| 60432/A1:1989  | A1:1985 + A2:1987 to  IEC 432:1984  |
+| 60432/A1:1989  | A1:1985 + A2:1987 to   IEC 432:1984  |
 | 60439-1:1990  | IEC 439-1:1985  met wijzigingen  Laagspannings schakel- en verdeelinrichtingen  deel 1: eisen voor samenstellingen met gehele of gedeeltelijke type goedkeuring  |
 | 60439-2:1993  | IEC 439-2:1987  met wijzigingen  Laagspannings schakel- en verdeelinrichtingen  deel 2: Bijzondere eisen voor railkokersystemen  |
 | 60439-3:1991  | IEC 439-3:1990  met wijzigingen  Laagspannings schakel- en verdeelinrichtingen  deel 3: Bijzondere eisen voor laagspanningsschakel- en verdeelinrichtingen voor gebruik in ruimtes toegankelijk voor ondeskundig personeel. Verdeelborden  |
@@ -355,7 +355,7 @@ H. J.Simons
 | 60901/A1:1990  | IEC 901:1987 + A1:1989  |
 | 60920:1991  | IEC 920:1990  Voorschakelapparaten voor buisvormige fluorescentielampen.  Algemene en veiligheidseisen  |
 | 60922:1991  | IEC 922:1989  Voorschakelapparatuur voor ontladingslampen (m.u.v. buisvormige fluorescentielampen) – Algemene en veiligheidseisen  |
-| 60922/A1:1992  | IEC 922:1989/A1:1990  Voorschakelapparatuur voor ontladingslampen (m.u.v. buisvormige fluorescentielampen) – Algemene en veiligheidseisen  |
+| 60922/A1:1992  | IEC 922:1989/A1:1990   Voorschakelapparatuur voor ontladingslampen (m.u.v. buisvormige fluorescentielampen) – Algemene en veiligheidseisen  |
 | 60924:1991  | IEC 924:1990  Elektronische voorschakelapparaten met gelijkstroomvoeding voor buisvormige fluorescentielampen.  Algemene en veiligheidseisen  |
 | 60926:1990  | IEC 926:1990  Met wijzigingen  Startapparaten (uitgezonderd glimlichtstarters);  algemene en veiligheidseisen  |
 | 60928:1991  | IEC 928:1990  Elektronische voorschakelapparater met wisselspanningvoeding voor buisvormige fluorescentielampen.  Algemene en veiligheidseisen  |
@@ -385,28 +385,28 @@ H. J.Simons
 | 61058-1:1992  | IEC 1058-1:1990  Toestelschakelaars  Deel 1: Algemene eisen  |
 | 61058-2-1:1993  | IEC 1058-2-1:1992  Toestelschakelaars  Deel 2-1: Bijzondere eisen voor snoerschakelaars  |
 
-### Bijlage  2  
+###Bijlage 2 
 
-*Tabel I*  
+*Tabel I*
 
-| Nummer en jaar van de totstandkoming van de norm  | Citeertitel  |
+|Nummer en jaar van de totstandkoming van de norm |Citeertitel |
 |:---|:---|
-| NEN 1020:1987  | Contactdozen en contactstoppen voor huishoudelijk en algemeen gebruik  |
-| NEN 1020:1987/A1:1998  | --- |
-| NEN 1020:1987/A2:2004  | --- |
-| NEN 2231:1973  | Montageplaten van isolatiemateriaal voor elektrische installaties  |
+|NEN 1020:1987 |Contactdozen en contactstoppen voor huishoudelijk en algemeen gebruik |
+|NEN 1020:1987/A1:1998 | --- |
+|NEN 1020:1987/A2:2004 | --- |
+|NEN 2231:1973 |Montageplaten van isolatiemateriaal voor elektrische installaties |
 | --- | --- |
-| NEN 3113:1974  | Lasdozen, langwerpige trekdozen en montagedozen voor elektrische installaties  |
-| NEN 3113:1974/A1:1990  | --- |
-| NEN 3174:1968  | Voorschriften voor schuifbuis van hard polyvinylchloride (hard PVC) voor elektrische installaties  |
-| NEN 3241:1971  | Voorschriften voor D-Smeltveiligheden voor huishoudelijk en dergelijk algemeen gebruik  |
-| NEN 3241:1971/A1:1974  | --- |
-| NEN 3530:1970  | Flexibele niet-metalen buis voor elektrische installaties  |
+|NEN 3113:1974 |Lasdozen, langwerpige trekdozen en montagedozen voor elektrische installaties |
+|NEN 3113:1974/A1:1990 | --- |
+|NEN 3174:1968 |Voorschriften voor schuifbuis van hard polyvinylchloride (hard PVC) voor elektrische installaties |
+|NEN 3241:1971 |Voorschriften voor D-Smeltveiligheden voor huishoudelijk en dergelijk algemeen gebruik |
+|NEN 3241:1971/A1:1974 | --- |
+|NEN 3530:1970 |Flexibele niet-metalen buis voor elektrische installaties |
 | --- | --- |
-| NEN-EN 50075:1998  | Contactstoppen voor huishoudelijk en dergelijk algemeen gebruik – Platte niet-demonteerbare contactstoppen 2,5 A 250 V met snoer voor toestellen van klasse II  |
-| IEC 60384-14:1993  | Vaste condensatoren voor elektronische apparatuur – Deel 14: Groepsspecificatie voor vaste condensatoren voor radiostoringsonderdrukking. Selectie van beproevingsmethoden en algemene keuringseisen  |
-| IEC 60384-14:1993/A1:1995  | --- |
-| NEN 15013-2:1971  | Leidingen met aderisolatie van polyvinylchloride voor vaste aanleg  |
-| NEN 15013-2:1971/A1:1981  | --- |
-| IEC 61008-2-2:1990  | Aardlekschakelaars zonder ingebouwde overstroombeveiliging voor huishoudelijk en soortgelijk gebruik Toepasbaarheid van de algemene eisen op aardlekschakelaars, waarvan de werking afhankelijk is van de netspanning  |
+|NEN-EN 50075:1998 |Contactstoppen voor huishoudelijk en dergelijk algemeen gebruik – Platte niet-demonteerbare contactstoppen 2,5 A 250 V met snoer voor toestellen van klasse II |
+|IEC 60384-14:1993 |Vaste condensatoren voor elektronische apparatuur – Deel 14: Groepsspecificatie voor vaste condensatoren voor radiostoringsonderdrukking. Selectie van beproevingsmethoden en algemene keuringseisen |
+|IEC 60384-14:1993/A1:1995 | --- |
+|NEN 15013-2:1971 |Leidingen met aderisolatie van polyvinylchloride voor vaste aanleg |
+|NEN 15013-2:1971/A1:1981 | --- |
+|IEC 61008-2-2:1990 |Aardlekschakelaars zonder ingebouwde overstroombeveiliging voor huishoudelijk en soortgelijk gebruik Toepasbaarheid van de algemene eisen op aardlekschakelaars, waarvan de werking afhankelijk is van de netspanning |
 

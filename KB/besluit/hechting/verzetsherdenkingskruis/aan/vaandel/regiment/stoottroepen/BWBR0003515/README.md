@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Het Verzetsherdenkingskruis wordt aan het vaandel van het Regiment Stoottroepen gehecht.  
+Het Verzetsherdenkingskruis wordt aan het vaandel van het Regiment Stoottroepen gehecht. 
 
 ### Artikel  II  
 
-Dit besluit treedt in werking met ingang van 31 augustus 1982.  
+Dit besluit treedt in werking met ingang van 31 augustus 1982. 
 
 Onze Minister van Defensie is belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselier der Nederlandse Orden en aan Onze Adjudant-Generaal, tevens Chef van Ons Militaire Huis.   
 

@@ -1,26 +1,26 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Verlening takenbevoegdheid aan SAIP
+##Verlening takenbevoegdheid aan SAIP 
 
-De Minister van Binnenlandse Zaken,  Besluit:    
+De Minister van Binnenlandse Zaken,  Besluit:     
 
 ### Artikel  1  
 
 De Stichting Administratie Indonesische Pensioenen (SAIP) wordt de bevoegdheid verleend om namens de Minister van Binnenlandse Zaken besluiten te nemen inzake de uitvoering van: 
 
-a. de Wet instelling Bijstandskorps (Stb. 1962, 196);  
+a.  de Wet instelling Bijstandskorps (Stb. 1962, 196); 
 
-b. het Bijstandsambtenarenreglement (Stb. 1962, 360) en de daarmee verband houdende rechtspositie- en afvloeiingsregelingen;  
+b.  het Bijstandsambtenarenreglement (Stb. 1962, 360) en de daarmee verband houdende rechtspositie- en afvloeiingsregelingen; 
 
-c. de Ordonnantie tot vaststelling van het Pensioenreglement Nederlands Nieuw-Guinea (G.B. 1958, 83);  
+c.  de Ordonnantie tot vaststelling van het Pensioenreglement Nederlands Nieuw-Guinea (G.B. 1958, 83); 
 
-d. de Toeslagregeling pensioenen Suriname, de Nederlandse Antillen en Aruba (Stb. 1967, 260);  
+d.  de Toeslagregeling pensioenen Suriname, de Nederlandse Antillen en Aruba (Stb. 1967, 260); 
 
-e. de Overbruggingsregeling Surinaamse pensioenen (Stb. 1975, 725);  
+e.  de Overbruggingsregeling Surinaamse pensioenen (Stb. 1975, 725); 
 
-f. de [Garantiewet burgerlijk overheidspersoneel Indonesië](../../../../../../wet/garantiewet/burgerlijk/overheidspersoneel/indonesië/BWBR0002060/README.md) (Stb. 1950, K 178) en de daarmee verband houdende Indische pensioen-, rechtspositie- en afvloeiingsregelingen;  
+f.  de [Garantiewet burgerlijk overheidspersoneel Indonesië](../../../../../../wet/garantiewet/burgerlijk/overheidspersoneel/indonesië/BWBR0002060/README.md) (Stb. 1950, K 178) en de daarmee verband houdende Indische pensioen-, rechtspositie- en afvloeiingsregelingen; 
 
-g. de [Garantiewet Militairen KNIL](../../../../../../wet/garantiewet/militairen/k.n.i.l./BWBR0002077/README.md) (Stb. 1951, 239) en de daarmee verband houdende Indische pensioen-, rechtspositie- en afvloeiingsregelingen militairen KNIL.    
+g.  de [Garantiewet Militairen KNIL ](../../../../../../wet/garantiewet/militairen/k.n.i.l./BWBR0002077/README.md)(Stb. 1951, 239) en de daarmee verband houdende Indische pensioen-, rechtspositie- en afvloeiingsregelingen militairen KNIL.   
 
 ### Artikel  2  
 
@@ -32,8 +32,8 @@ De SAIP wordt de bevoegdheid verleend om namens de Minister van Binnenlandse Zak
 
 ### Artikel  4  
 
-Dit besluit zal in de Staatscourant worden geplaatst.  
+Dit besluit zal in de Staatscourant worden geplaatst. 
 
 De 
 Minister van Binnenlandse Zaken, 
-H. F.Dijkstal    
+H. F.  Dijkstal      

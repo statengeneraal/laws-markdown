@@ -15,15 +15,15 @@ In deze wet wordt verstaan onder:
 
 a. de wet van 26 mei 1870: de wet van 26 mei 1870 tot regeling van het onderwijs van Rijkswege in de beeldende kunsten (Stb. 78);  
 
-b. de Rijksakademie: de Rijksakademie van beeldende kunsten, genoemd in artikel 1 van de wet van 26 mei 1870.    
+b. de Rijksakademie: de Rijksakademie van beeldende kunsten, genoemd in artikel 1 van de wet van 26 mei 1870.   
 
 ### Artikel  2  
 
-De wet van 26 mei 1870 wordt ingetrokken.  
+De wet van 26 mei 1870 wordt ingetrokken. 
 
 ### Artikel  3  
 
-Onze Minister van Onderwijs, Cultuur en Wetenschap is belast met het privaatrechtelijk beheer van de museale verzamelingen of museale voorwerpen die eigendom zijn van de Staat dan wel aan de zorg van de Staat zijn toevertrouwd en die tot het tijdstip van intrekking van de wet van 26 mei 1870 in beheer waren bij de Rijksakademie.  
+Onze Minister van Onderwijs, Cultuur en Wetenschap is belast met het privaatrechtelijk beheer van de museale verzamelingen of museale voorwerpen die eigendom zijn van de Staat dan wel aan de zorg van de Staat zijn toevertrouwd en die tot het tijdstip van intrekking van de wet van 26 mei 1870 in beheer waren bij de Rijksakademie. 
 
 ### Artikel  4  
 
@@ -31,13 +31,13 @@ De docenten en de directeur van de Rijksakademie, die ingevolge artikel 5 van de
 
 ### Artikel  5  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 22 december 1999  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, 
 F. van der Ploeg   

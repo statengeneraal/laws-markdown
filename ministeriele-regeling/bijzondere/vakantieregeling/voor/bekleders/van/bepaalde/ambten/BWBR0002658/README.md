@@ -11,7 +11,7 @@ Besluit: In te trekken de beschikking van de Minister van Binnenlandse Zaken van
 ####Algemene bepaling
 
 1.  Hetgeen in deze beschikking nopens de duur van de vakantie van de bekleder van enig ambt of van enige betrekking is bepaald, geldt slechts voor de ambtenaar en de arbeider, op wie onderscheidenlijk [hoofdstuk V van het Algemeen Rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en paragraaf 3 van hoofdstuk III van het Arbeidsovereenkomstenbesluit van toepassing is en die in het kalenderjaar, waarover de aanspraak op vakantie bestaat, gedurende langer dan zes maanden in dat ambt of in die betrekking werkzaam zijn.   
-2.  Tenzij deze aanspraak lager is, treedt de aanspraak op vakantie, toegekend in de artikelen 2 tot en met 5, in de plaats van die, welke voortvloeit uit [artikel 24, eerste lid, van het Algemeen Rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of uit artikel 23, eerste lid, van het Arbeidsovereenkomstenbesluit.   
+2.  Tenzij deze aanspraak lager is, treedt de aanspraak op vakantie, toegekend in de artikelen 2 tot en met 5, in de plaats van die, welke voortvloeit uit [artikel 24, eerste lid, van het Algemeen Rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of uit artikel 23, eerste lid, van het Arbeidsovereenkomstenbesluit.  
 
 ### Artikel  2  
 
@@ -19,13 +19,13 @@ Besluit: In te trekken de beschikking van de Minister van Binnenlandse Zaken van
 
 De duur van de vakantie bedraagt: 
 
-a. voor leerling-verplegenden en verplegenden: 18 dienstdagen;  
+a. voor leerling-verplegenden en verplegenden:  18 dienstdagen; 
 
-b. voor verplegenden, die studeren voor de zogenaamde A-akte of B-akte, voor verplegenden A/waarnemend eerste verplegenden, voor eerste verplegenden, alsmede voor eerste verplegenden A/waarmemend hoofdverplegenden: 20 dienstdagen;  
+b. voor verplegenden, die studeren voor de zogenaamde A-akte of B-akte, voor verplegenden A/waarnemend eerste verplegenden, voor eerste verplegenden, alsmede voor eerste verplegenden A/waarmemend hoofdverplegenden:  20 dienstdagen; 
 
-c. voor hoofdverplegenden, voor de adjunct-directrice van een militair- of marinehospitaal alsmede voor de meesteressevroedvrouw, werkzaam bij de Rijkskweekschool voor vroedvrouwen te Rotterdam: 21 dienstdagen;  
+c. voor hoofdverplegenden, voor de adjunct-directrice van een militair- of marinehospitaal alsmede voor de meesteressevroedvrouw, werkzaam bij de Rijkskweekschool voor vroedvrouwen te Rotterdam:  21 dienstdagen; 
 
-d. voor de inwonend assistent-verloskundige, werkzaam bij de Rijkskweekschool voor vroedvrouwen te Rotterdam: 23 dienstdagen.    
+d. voor de inwonend assistent-verloskundige, werkzaam bij de Rijkskweekschool voor vroedvrouwen te Rotterdam:  23 dienstdagen.  
 
 ### Artikel  3  
 
@@ -33,7 +33,7 @@ d. voor de inwonend assistent-verloskundige, werkzaam bij de Rijkskweekschool vo
 
 1.  De duur van de vakantie voor röntgenlaboranten bedraagt 23 dienstdagen.   
 2.  De in het eerste lid bedoelde vakantie wordt zodanig gesplitst, dat een vakantietijdvak van ten minste 14 aaneengesloten kalenderdagen in de periode, gelegen tussen 30 april en 1 oktober, en een vakantietijdvak van ten minste 7 aaneengesloten kalenderdagen in de periode, gelegen tussen 30 september en 1 mei, valt.   
-3.  Tussen de in het tweede lid bedoelde vakantietijdvakken moet een periode van tenminste 4 maanden liggen.   
+3.  Tussen de in het tweede lid bedoelde vakantietijdvakken moet een periode van tenminste 4 maanden liggen.  
 
 ### Artikel  4  
 
@@ -41,23 +41,23 @@ d. voor de inwonend assistent-verloskundige, werkzaam bij de Rijkskweekschool vo
 
 De duur van de vakantie voor personeel bij het Gevangeniswezen en de Psychopatenzorg bedraagt: 
 
-a. voor personeel werkzaam, bij de dienstvakken bewaking, algemene dienst, arbeid, keukendienst en magazijndienst: 18 dienstdagen;  
+a. voor personeel werkzaam, bij de dienstvakken bewaking, algemene dienst, arbeid, keukendienst en magazijndienst:  18 dienstdagen; 
 
-b. voor personeel werkzaam bij de rijksasielen voor psychopaten als: 
+b. voor personeel werkzaam bij de rijksasielen voor psychopaten als:  
 
-1. sociotherapeutisch medewerker, bezoldigd volgens schaal 43 van bijlage A I van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1948: 18 dienstdagen;  
+1. sociotherapeutisch medewerker, bezoldigd volgens schaal 43 van bijlage A I van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1948:  18 dienstdagen; 
 
-2. sociotherapeutisch medewerker, bezoldigd volgens schaal 57 of 71 van evenbedoelde bijlage A I: 20 dienstdagen;  
+2. sociotherapeutisch medewerker, bezoldigd volgens schaal 57 of 71 van evenbedoelde bijlage A I:  20 dienstdagen; 
 
-3. afdelingshoofd, bezoldigd volgens schaal 89 van evenbedoelde bijlage A I: 21 dienstdagen;    
+3. afdelingshoofd, bezoldigd volgens schaal 89 van evenbedoelde bijlage A I:  21 dienstdagen;  
 
-c. voor personeel werkzaam bij de gevangenissen en huizen van bewaring als 
+c. voor personeel werkzaam bij de gevangenissen en huizen van bewaring als  
 
-1. groepsassistent of assistent-groepsleider: 18 dienstdagen;  
+1. groepsassistent of assistent-groepsleider:  18 dienstdagen; 
 
-2. groepsleider; 19 dienstdagen;  
+2. groepsleider;  19 dienstdagen; 
 
-3. hoofdgroepsleider of paviljoenshoofd: 20 dienstdagen.      
+3. hoofdgroepsleider of paviljoenshoofd:  20 dienstdagen.   
 
 ### Artikel  5  
 
@@ -73,7 +73,7 @@ werkmeester
 
 groepsleider  
 
-vakleider.    
+vakleider.   
 
 ### Artikel  6  
 
@@ -81,15 +81,15 @@ vakleider.
 
 1.  Indien naar het oordeel van het gezag, dat bevoegd is tot verlening van de vakantie, het dienstbelang het onvermijdelijk maakt, dat een ambtenaar of arbeider die werkzaam is bij het Staatsbedrijf der Posterijen, Telegrafie en Telefonie, de vakantie geheel of gedeeltelijk wordt verleend in de periode, gelegen tussen 30 september en 1 mei, heeft de desbetreffende ambtenaar of arbeider voor elke vakantiedag, welke hem dientengevolge, in deze periode wordt verleend, aanspraak op verlenging van zijn vakantie met een halve dag.   
 2.  Voor de toepassing van het eerste lid wordt onder vakantie verstaan de vakantie, waarop aanspraak bestaat ingevolge de [artikelen 24](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [25 eerste lid, onder *a, b* of *c* van het Algemeen. Rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), onderscheidenlijk de artikelen 23 en 24, eerste lid, onder *a, b* of *c* van het Arbeidsovereenkomstenbesluit.   
-3.  Het eerste lid geldt voorts met dien verstande, dat de daar bedoelde verlenging nimmer meer dan 6 dienstdagen mag bedragen en dat de totale duur der vakantie dientengevolge niet mag overschrijden het aantal van 29 dienstdagen.   
+3.  Het eerste lid geldt voorts met dien verstande, dat de daar bedoelde verlenging nimmer meer dan 6 dienstdagen mag bedragen en dat de totale duur der vakantie dientengevolge niet mag overschrijden het aantal van 29 dienstdagen.  
 
 ### Artikel  7  
 
-Deze beschikking vindt voor het eerst toepassing ten aanzien van de vakantie, waarop over het jaar 1969 aanspraak bestaat, en zal worden bekend gemaakt in de *Nederlandse Staatscourant*.  
+Deze beschikking vindt voor het eerst toepassing ten aanzien van de vakantie, waarop over het jaar 1969 aanspraak bestaat, en zal worden bekend gemaakt in de *Nederlandse Staatscourant*. 
 
 's-Gravenhage 
 6 juni 1969    
 
 De 
 Staatssecretaris van Binnenlandse Zaken, 
-C. vanVeen    
+C. van Veen      

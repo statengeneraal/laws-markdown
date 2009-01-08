@@ -3,12 +3,12 @@
 ##Loonheffing, financiële regelingen bij ontslag in relatie tot het begrip regeling voor vervroegde uittreding
 
 *De Staatssecretaris van Financiën heeft het volgende besloten:*      
-### 1  
+### 1 
 
 ####Inleiding
 
 Op 1 september 2005 heeft in de Tweede Kamer een algemeen overleg plaatsgevonden over de precieze reikwijdte van het besluit van 26 mei 2005, nr. DGB 2005/3299M. In dat besluit gaat het over de toepassing van [artikel 32aa van de Wet op de loonbelasting 1964](../../../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) (Wet LB) op ontslagvergoedingen (waaronder stamrechtregelingen). Gelet op de ontstane onduidelijkheid is bij besluit van 8 juni 2005, nr. DGB 2005/3620M het besluit van 26 mei jl. tot een nader te bepalen datum opgeschort. In dit besluit geef ik een nadere toelichting op dit onderwerp. In onderdeel 5 van dit besluit is vermeld met ingang van welke datum de toets aan [artikel 32aa](../../../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) op ontslaguitkeringen (waaronder stamrechtregelingen) zal plaatsvinden.    
-### 2  
+### 2 
 
 ####Toepassing van [artikel 32aa van de Wet LB](../../../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)
 
@@ -17,7 +17,7 @@ Het kabinetsbeleid is gericht op de bevordering van de arbeidsparticipatie van o
 ####Bewijslast
 
 In de meeste reguliere ontslagsituaties zal hetzij op grond van dit besluit, hetzij op grond van het besluit van 26 mei jl. worden vastgesteld dat geen sprake is van een regeling voor vervroegde uittreding. [Artikel 32aa van de Wet LB](../../../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) is dan niet van toepassing. Als geen van beide besluiten tot de conclusie leidt dat geen sprake is van een regeling voor vervroegde uittreding, dan zal in eerste instantie de inhoudingsplichtige moeten beoordelen of de (VUT-)eindheffing van [artikel 32aa](../../../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) van toepassing is. Om zekerheid te krijgen of eindheffing moet worden afgedragen, kan de inhoudingsplichtige de situatie voorleggen aan de bevoegde inspecteur. Bij verschil van inzicht met de inhoudingsplichtige zal de inspecteur op grond van de feiten en omstandigheden aannemelijk moeten maken dat sprake is van een regeling voor vervroegde uittreding. De bewijslast ligt in dat geval dus bij de inspecteur. Indien sprake is van een regeling voor vervroegde uittreding vindt de eindheffing plaats bij de inhoudingsplichtige en niet bij de werknemer die de uitkering ontvangt. De inhoudingsplichtige heeft hiervoor geen verhaalsrecht op de betrokken werknemer.     
-### 3  
+### 3 
 
 ####Aangrijpingspunt bij de kwalitatieve benadering: de redenen voor ontslag
 
@@ -30,12 +30,12 @@ Een reorganisatie vindt bijvoorbeeld plaats als een bedrijf een afslankingsopera
 ####Geen (VUT-)eindheffing bij niet-leeftijdgerelateerd individueel ontslag
 
 Ook een uitkering bij een individueel ontslag zal in het algemeen niet geraakt worden door [artikel 32aa van de Wet LB](../../../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md). Bijvoorbeeld een vergoeding bij ontslag wegens disfunctioneren heeft in beginsel niet tot doel een inkomensoverbrugging te geven tot het ingaan van een pensioen- of AOW-uitkering. Hetzelfde geldt voor andere niet-leeftijdgerelateerde ontslaggronden, zoals onenigheid over het te voeren beleid of onverenigbaarheid van karakters. De hoogte van dergelijke uitkeringen wordt veelal bepaald met behulp van de kantonrechtersformule. Deze uitkeringen vallen in de geschetste omstandigheden buiten de reikwijdte van [artikel 32aa van de Wet LB](../../../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md). Dat geldt uiteraard niet als blijkt dat de betrokken werkgever voornamelijk werknemers van of boven een bepaalde leeftijd (bijvoorbeeld 55, 60 of 62) wegens een bovengenoemde omstandigheid ontslaat. Ook in dat geval zal de inspecteur bij verschil van inzicht met de inhoudingsplichtige het bewijs kunnen leveren dat feitelijk sprake is van een vermomde regeling voor vervroegd uittreden.     
-### 4  
+### 4 
 
 ####Niet onder dit besluit vallende ontslagregelingen
 
 Voor de situaties waarin het onderhavige besluit geen oplossing biedt, mag de financiële regeling bij ontslag nog worden getoetst op basis van het besluit van 26 mei jl.. Op grond van de daarin opgenomen kwantitatieve toets kan de conclusie alsnog zijn dat geen sprake is van een regeling voor vervroegde uittreding. Als geen van beide besluiten tot de conclusie leidt dat geen sprake is van een regeling voor vervroegde uittreding heeft de inspecteur (bij verschil van inzicht met de inhoudingsplichtige) de bewijslast om aannemelijk moeten maken dat de eindheffing moet worden toegepast. Zie daarvoor ook onderdeel 2. In het besluit van 26 mei jl. is aangegeven op welke wijze de kwantitatieve toetsen plaatsvinden. Mede gelet op het met de Tweede Kamer gevoerde algemeen overleg van 1 september jl. kan bij toepassing van de kwantitatieve toetsen worden volstaan met één beoordeling, te weten bij de ontbinding van de arbeidsovereenkomst. Als de ingangsdatum van de stamrechtuitkeringen op dat moment nog niet vaststaat, kan men rekenen vanaf de ontbinding van de arbeidsovereenkomst. Als op dat moment [artikel 32aa](../../../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) niet van toepassing is, dan staat daarmee vast dat geen eindheffing zal worden opgelegd. Latere veranderingen kunnen dan níet teweegbrengen dat nogmaals moet worden getoetst.    
-### 5  
+### 5 
 
 ####Inwerkingtreding
 

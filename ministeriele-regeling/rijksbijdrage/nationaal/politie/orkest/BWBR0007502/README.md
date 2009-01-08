@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Rijksbijdrage Nationaal Politie Orkest
+##Rijksbijdrage Nationaal Politie Orkest 
 
 De Minister van Binnenlandse Zaken,  
 Gelet op het verzoek van de Stichting Nationaal Politie Orkest van 6 februari 1995;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -22,19 +22,19 @@ De minister van Binnenlandse Zaken kan een voorschot op de subsidie toekennen op
 
 Aan de verlening van de subsidie zijn de volgende voorwaarden verbonden: 
 
-a. De Stichting dient jaarlijks voor 1 juli een jaarrekening in bij de minister van Binnenlandse Zaken over het voorafgaande jaar.  
+a.  De Stichting dient jaarlijks voor 1 juli een jaarrekening in bij de minister van Binnenlandse Zaken over het voorafgaande jaar. 
 
-b. De jaarrekening omvat ten minste een rekening van baten en lasten met toelichting, een balans met toelichting, alsmede een verslag van de in het betreffende jaar ontplooide activiteiten. De jaarrekening gaat vergezeld van een verklaring van een registeraccountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).  
+b.  De jaarrekening omvat ten minste een rekening van baten en lasten met toelichting, een balans met toelichting, alsmede een verslag van de in het betreffende jaar ontplooide activiteiten. De jaarrekening gaat vergezeld van een verklaring van een registeraccountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). 
 
-c. De jaarrekening wordt op zodanige wijze ingericht dat daaruit blijkt welke voorschotten van de minister van Binnenlandse Zaken zijn ontvangen, en hoe deze zijn besteed.  
+c.  De jaarrekening wordt op zodanige wijze ingericht dat daaruit blijkt welke voorschotten van de minister van Binnenlandse Zaken zijn ontvangen, en hoe deze zijn besteed. 
 
-d. De Stichting doet zo spoedig mogelijk onder overlegging van relevante stukken schriftelijk mededeling aan de minister van Binnenlandse Zaken, indien: 
+d.  De Stichting doet zo spoedig mogelijk onder overlegging van relevante stukken schriftelijk mededeling aan de minister van Binnenlandse Zaken, indien: 
 
 de statuten worden gewijzigd;  
 
-zich omstandigheden voordoen die van invloed zijn op enige beslissing omtrent (de hoogte van) de subsidie.    
+zich omstandigheden voordoen die van invloed zijn op enige beslissing omtrent (de hoogte van) de subsidie.   
 
-e. De Stichting verzorgt, om niet, jaarlijks twee uitvoeringen ten behoeve van het ministerie van Binnenlandse Zaken.    
+e.  De Stichting verzorgt, om niet, jaarlijks twee uitvoeringen ten behoeve van het ministerie van Binnenlandse Zaken.   
 
 ### Artikel  5  
 
@@ -47,17 +47,17 @@ Na vaststelling van de subsidie betaalt de Stichting het te veel ontvangen voors
 
 ### Artikel  7  
 
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal in de Staatscourant en in het Algemeen Politieblad worden geplaatst. Afschrift van dit besluit wordt gezonden aan de Algemene Rekenkamer.   
 
 ’s-Gravenhage 
 3 augustus 1995    
 
-De 
+De
 Minister van Binnenlandse Zaken, 
 
 voor deze, 
 
-de 
-wnd. Directeur-Generaal voor de Openbare Orde en Veiligheid, 
-G. N.Roes    
+de
+wnd. Directeur-Generaalvoor de Openbare Orde en Veiligheid, 
+G. N.  Roes      

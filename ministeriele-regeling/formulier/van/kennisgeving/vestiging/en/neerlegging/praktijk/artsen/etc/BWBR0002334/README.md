@@ -2,9 +2,9 @@
 
 ##Formulier van Kennisgeving Vestiging en Neerlegging Praktijk Artsen, Tandartsen, Apothekers Vroedvrouwen en Tandheelkundigen
 
-De Minister van Sociale Zaken en Volksgezondheid,  
+De Minister van Sociale Zaken en Volksgezondheid,
 Gelet op [artikel 3 van het Koninklijk besluit van 14 juli 1959, Stb. 284, tot uitvoering van artikel 42 van de Gezondheidswet (Besluit kennisgeving mutaties Gezondheidswet)](../../../../../../../../../../../AMvB/besluit/kennisgeving/mutaties/gezondheidswet/BWBR0002322/README.md),
-Besluit:     vast te stellen het model van het formulier van kennisgeving van vestiging en van neerlegging van de praktijk door artsen, tandartsen, apothekers, vroedvrouwen en tandheelkundigen, welk model bij deze beschikking is gevoegd.     
+Besluit:   vast te stellen het model van het formulier van kennisgeving van vestiging en van neerlegging van de praktijk door artsen, tandartsen, apothekers, vroedvrouwen en tandheelkundigen, welk model bij deze beschikking is gevoegd.     
 
 's-Gravenhage 
 18 november 1959    
@@ -16,7 +16,7 @@ Voor deze:
 
 De 
 secretaris-generaal, 
-J. H.Klatte   
+J. H. Klatte    
 
 FORMULIER van kennisgeving van vestiging en neerlegging van de praktijk door artsen, tandartsen, apothekers, vroedvrouwen en tandheelkundigen, zoals bedoeld in artikel 3 van het Koninklijk besluit van 14 juli 1959, *Stb.* 284 (Besluit kennisgeving mutaties Gezondheidswet). Bestemd voor de geneeskundige/farmaceutische hoofdinspecteur van de volksgezondheid, te 's-Gravenhage.  
 
@@ -30,10 +30,10 @@ FORMULIER van kennisgeving van vestiging en neerlegging van de praktijk door art
 | Datum neerlegging praktijk:  | --- |
 | Gemeente:  Datum:  Ondertekening:  | --- |
 
-Behoort bij beschikking van de Minister van Sociale Zaken en Volksgezondheid van 18 november 1959, nr. 17351, Directie Volksgezondheid, afdeling Medische Beroepen en Ziektenbestrijding.  
+Behoort bij beschikking van de Minister van Sociale Zaken en Volksgezondheid van 18 november 1959, nr. 17351, Directie Volksgezondheid, afdeling Medische Beroepen en Ziektenbestrijding.
 
 Mij bekend, 
 
 De 
 secretaris-generaal, 
-J. H.Klatte  
+J. H.Klatte   

@@ -27,6 +27,6 @@ U dient het teveel ingehouden premiebedrag, zoals gespecificeerd in de door u va
 – Op de internetsite van de Belastingdienst vindt u meer informatie.       
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze:de 
 directeur-generaal Organisatie en Bedrijfsvoering Rijk, 
-R.IJ.M.Kuipers   
+R.IJ.M. Kuipers     

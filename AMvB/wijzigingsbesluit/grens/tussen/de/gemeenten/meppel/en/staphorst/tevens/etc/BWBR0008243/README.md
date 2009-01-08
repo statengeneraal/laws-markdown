@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Met ingang van de datum van herindeling wordt de grens tussen de gemeenten Meppel en Staphorst, tevens provinciegrens tussen Drenthe en Overijssel, gewijzigd als aangegeven op de bij dit besluit behorende kaart.  
+Met ingang van de datum van herindeling wordt de grens tussen de gemeenten Meppel en Staphorst, tevens provinciegrens tussen Drenthe en Overijssel, gewijzigd als aangegeven op de bij dit besluit behorende kaart. 
 
 ### Artikel  2  
 
@@ -25,7 +25,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 's-Gravenhage 
 19 september 1996  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Binnenlandse Zaken, 
 A. G. M. van de Vondervoort   
@@ -33,7 +33,7 @@ A. G. M. van de Vondervoort
 de tiende oktober 1996 
 
 De Minister van Justitie, 
-W. Sorgdrager    
+W. Sorgdrager     
 
 ####Kaart behorende bij het besluit houdende wijziging van de grens tussen de gemeenten Meppel en Staphorst, tevens provinciegrens tussen Drenthe en Overijssel
 

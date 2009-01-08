@@ -26,19 +26,19 @@ f. de directeur FEZ: de directeur Financieel-Economische Zaken van het betrokken
 
 g. budgethouder: een aangewezen persoon als bedoeld in [artikel 22, vierde lid, van de Comptabiliteitswet 2001](../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md);  
 
-h. a.o.-beschrijving: beschrijving van de administratieve organisatie.    
+h. a.o.-beschrijving: beschrijving van de administratieve organisatie.   
 
 ### Artikel  2  
 
 1.  Ten behoeve van een rechtmatig en doelmatig vorderingenbeheer leggen de ministers de a.o.-beschrijving met betrekking tot het vorderingenbeheer vast en dragen zij zorg voor de toepassing van de in die beschrijving vastgelegde procedures.   
-2.  Voor verschillende categorieën vorderingen kunnen verschillende a.o.-beschrijvingen worden vastgelegd.   
+2.  Voor verschillende categorieën vorderingen kunnen verschillende a.o.-beschrijvingen worden vastgelegd.  
 
 ### Artikel  3  
 
 1.  Tot kwijtschelden wordt niet overgegaan dan nadat daartoe de instemming is verkregen van de directeur FEZ of, in het geval de directeur FEZ de kwijtschelding namens de betrokken minister verricht, van de betrokken secretaris-generaal.   
 2.  Onverminderd het bij of krachtens de wet bepaalde, kan tot kwijtschelden worden besloten op grond van billijkheid, doelmatigheid of om een beleidsmatige reden.   
 3.  Het kwijtgescholden bedrag wordt in de vorderingenadministratie afgeboekt.   
-4.  Na afloop van elk jaar stelt de betrokken budgethouder aan de directeur FEZ de door deze te bepalen gegevens beschikbaar over de verleende kwijtscheldingen waartoe hij in het voorafgaande jaar heeft besloten.   
+4.  Na afloop van elk jaar stelt de betrokken budgethouder aan de directeur FEZ de door deze te bepalen gegevens beschikbaar over de verleende kwijtscheldingen waartoe hij in het voorafgaande jaar heeft besloten.  
 
 ### Artikel  4  
 
@@ -47,7 +47,7 @@ h. a.o.-beschrijving: beschrijving van de administratieve organisatie.
 a. andere mogelijkheden tot invordering openstaan, waaronder het aanspreken van een eventuele borg of het verrekenen van de vordering met een schuld van het Rijk aan de betrokken debiteur;  
 
 b. het bedrag van de vordering opweegt tegen de nader te maken kosten van de invordering, waaronder de kosten van invordering langs gerechtelijke weg.     
-2.  Een besluit tot invordering langs gerechtelijke weg wordt niet genomen, dan nadat daarover juridisch advies is ingewonnen.   
+2.  Een besluit tot invordering langs gerechtelijke weg wordt niet genomen, dan nadat daarover juridisch advies is ingewonnen.  
 
 ### Artikel  5  
 
@@ -58,7 +58,7 @@ a. boven een eerste door de Minister van Financiën vast te stellen bedrag niet 
 
 b. boven een tweede door de Minister van Financiën vast te stellen bedrag niet besloten dan nadat daarvoor tevens de instemming van de Minister van Financiën is verkregen.     
 3.  Van een voorlopig buiten invordering gestelde vordering wordt gedurende een periode van vijf jaar tenminste een maal per jaar nagegaan of intussen de mogelijkheid van invordering alsnog is ontstaan.   
-4.  Een voorlopig buiten invordering gesteld bedrag kan geheel of gedeeltelijk worden kwijtgescholden, indien daarmee zekerheid wordt verkregen over de invordering van het resterende bedrag of van andere vorderingen op dezelfde debiteur.   
+4.  Een voorlopig buiten invordering gesteld bedrag kan geheel of gedeeltelijk worden kwijtgescholden, indien daarmee zekerheid wordt verkregen over de invordering van het resterende bedrag of van andere vorderingen op dezelfde debiteur.  
 
 ### Artikel  6  
 
@@ -76,35 +76,35 @@ d. de definitieve toepassing van de schuldsanering is uitgesproken.   Het bepaal
 
 a. de betrokken directeur FEZ bij vorderingen tot en met het bedrag, bedoeld in artikel 5, tweede lid, onder b, of de secretaris-generaal in het geval de directeur FEZ tot de buiteninvorderingstelling besluit;  
 
-b. de Minister van Financiën bij vorderingen boven het bedrag, bedoeld in artikel 5, tweede lid, onder b.     
+b. de Minister van Financiën bij vorderingen boven het bedrag, bedoeld in artikel 5, tweede lid, onder b.    
 
 ### Artikel  7  
 
-Het bepaalde in de artikelen 4 tot en met 6 laat onverlet hetgeen elders bij of krachtens de wet omtrent buiteninvorderingstelling is bepaald.  
+Het bepaalde in de artikelen 4 tot en met 6 laat onverlet hetgeen elders bij of krachtens de wet omtrent buiteninvorderingstelling is bepaald. 
 
 ### Artikel  8  
 
 1.  Het bedrag dat met een definitieve buiteninvorderingstelling is gemoeid, wordt in de vorderingenadministratie afgeboekt.   
 2.  Van een voorlopige en van een definitieve buiteninvorderingstelling wordt de betrokken debiteur niet in kennis gesteld.   
-3.  Het bepaalde in artikel 3, vierde lid, is voor voorlopige en definitieve buiteninvorderingstellingen van overeenkomstige toepassing.   
+3.  Het bepaalde in artikel 3, vierde lid, is voor voorlopige en definitieve buiteninvorderingstellingen van overeenkomstige toepassing.  
 
 ### Artikel  9  
 
 1.  Een ingestelde vordering waarvan achteraf blijkt dat deze geheel of gedeeltelijk ten onrechte is ingesteld, wordt geheel respectievelijk gedeeltelijk ingetrokken. De betrokken debiteur wordt daarvan schriftelijk mededeling gedaan.   
-2.  Het bedrag dat met de intrekking is gemoeid, wordt in de vorderingenadministratie afgeboekt.   
+2.  Het bedrag dat met de intrekking is gemoeid, wordt in de vorderingenadministratie afgeboekt.  
 
 ### Artikel  10  
 
 1.  Met de schriftelijke toestemming van de Minister van Financiën kan in bijzondere gevallen worden afgeweken van de bepalingen van deze regeling.   
-2.  Van zodanige afwijkingen doet de Minister van Financiën schriftelijk mededeling aan de Algemene Rekenkamer.   
+2.  Van zodanige afwijkingen doet de Minister van Financiën schriftelijk mededeling aan de Algemene Rekenkamer.  
 
 ### Artikel  11  
 
 1.  De Regeling Kwijtschelding en Buiteninvorderingstelling 1997 wordt ingetrokken.   
 2.  Deze regeling wordt aangehaald als: Regeling kwijtschelding en buiteninvorderingstelling 2004.   
-3.  Zij treedt in werking met ingang van 1 april 2004.   
+3.  Zij treedt in werking met ingang van 1 april 2004.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Financiën, 
-G.Zalm    
+G. Zalm      

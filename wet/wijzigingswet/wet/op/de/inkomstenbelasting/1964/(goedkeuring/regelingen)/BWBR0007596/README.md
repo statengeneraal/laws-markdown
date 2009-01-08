@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-De Regeling buiten toepassing stellen willekeurige afschrijving milieu-investeringen en de regeling van 23 december 1994, nr. WDB 94/494M, *Stcrt.* 250, houdende wijziging van de Regeling buiten toepassing stellen willekeurige afschrijving milieu-investeringen, worden goedgekeurd.  
+De Regeling buiten toepassing stellen willekeurige afschrijving milieu-investeringen en de regeling van 23 december 1994, nr. WDB 94/494M, *Stcrt.* 250, houdende wijziging van de Regeling buiten toepassing stellen willekeurige afschrijving milieu-investeringen, worden goedgekeurd. 
 
 ### Artikel  2  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  3  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

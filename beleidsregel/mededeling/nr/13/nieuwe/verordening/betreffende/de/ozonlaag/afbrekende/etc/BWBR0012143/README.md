@@ -108,6 +108,6 @@ Het in het vrije verkeer brengen of vrijgeven voor actieve veredeling, het op de
 Voor de taak van de ambtenaren wordt kortheidshalve verwezen naar de paragrafen 12 tot en met 14 van het Voorschrift Douanetaken wet milieugevaarlijke stoffen . Opgemerkt wordt dat paragraaf 15 alleen toepassing kan vinden voor zover de in het Besluit inzake stoffen die de ozonlaag aantasten opgenomen bepalingen in overeenstemming zijn met de verordening; dit betekent dat ingeval het besluit niet is aangepast aan nieuwe verboden de sancties beperkt blijven tot het niet aanvaarden van de aangiften voor het in het vrije verkeer brengen, voor de plaatsing onder de regeling actieve veredeling of de uitvoer. In voorkomende gevallen dient contact te worden opgenomen met de meldkamer van het ministerie van VROM. De Inspectie Milieuhygiëne van dit ministerie zal het betrokken bedrijf verzoeken om de betreffende partij op vrijwillige basis terug te voeren. Het telefaxbericht WD2000/807 M, van 9 oktober 2000, heeft hiermede zijn belang verloren.      
 
 De 
-Staatsecretaris van Financiënnamens deze:
-De plv. Directeur-Generaal Fiscale Zaken
-J.C. deWaard   
+Staatsecretaris van Financiën namens deze: 
+De plv. Directeur-Generaal Fiscale Zaken 
+J.C. de  Waard     

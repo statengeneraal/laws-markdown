@@ -6,4 +6,4 @@ Zoals u bekend heeft het kabinet onlangs een standpunt geformuleerd omtrent het 
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-G. terHorst   
+G. ter Horst     

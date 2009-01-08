@@ -47,4 +47,4 @@ Zodra de formalisering van de overeengekomen maatregelen (in het [ARAR](../../..
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
 directeur-generaal Management Openbare Sector, 
-R.IJ.M.Kuipers   
+R.IJ.M. Kuipers     

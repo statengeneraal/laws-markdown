@@ -11,23 +11,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Gemeentewet.   
+Wijzigt de Gemeentewet. 
 
 ### Artikel  II  
 
-Indien de gemeenteraad vóór de dag van inwerkingtreding van deze wet overeenkomstig [artikel 61, tweede lid, van de Gemeentewet](../../../../../../../wet/gemeentewet/BWBR0005416/README.md) heeft besloten dat een raadplegend referendum deel van de procedure uitmaakt, blijven de [artikelen 61](../../../../../../../wet/gemeentewet/BWBR0005416/README.md), [61c](../../../../../../../wet/gemeentewet/BWBR0005416/README.md) en [61e van die wet](../../../../../../../wet/gemeentewet/BWBR0005416/README.md) van toepassing.  
+Indien de gemeenteraad vóór de dag van inwerkingtreding van deze wet overeenkomstig [artikel 61, tweede lid, van de Gemeentewet](../../../../../../../wet/gemeentewet/BWBR0005416/README.md) heeft besloten dat een raadplegend referendum deel van de procedure uitmaakt, blijven de [artikelen 61](../../../../../../../wet/gemeentewet/BWBR0005416/README.md), [61c](../../../../../../../wet/gemeentewet/BWBR0005416/README.md) en [61e van die wet](../../../../../../../wet/gemeentewet/BWBR0005416/README.md) van toepassing. 
 
 ### Artikel  III  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 4 december 2008  
 Beatrix  
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties , 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties ,  
 G. ter Horst   
 
 De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties , 

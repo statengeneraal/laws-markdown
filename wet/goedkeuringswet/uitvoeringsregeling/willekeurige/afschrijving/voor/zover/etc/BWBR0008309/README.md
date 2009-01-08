@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### ARTIKEL  I  
 
-De artikelen 6, 8, 13 en 14 van de Uitvoeringsregeling willekeurige afschrijving worden goedgekeurd.  
+De artikelen 6, 8, 13 en 14 van de Uitvoeringsregeling willekeurige afschrijving worden goedgekeurd. 
 
 ### ARTIKEL  II  
 
-Voor de toepassing van artikel 10, derde lid, onderdeel *b*, van de Wet op de inkomstenbelasting 1964, wordt tot en met 31 december 1998 onder de gemeenten, bedoeld in artikel 13, eerste lid, van de Uitvoeringsregeling willekeurige afschrijving, tevens de gemeente Landgraaf begrepen.  
+Voor de toepassing van artikel 10, derde lid, onderdeel *b*, van de Wet op de inkomstenbelasting 1964, wordt tot en met 31 december 1998 onder de gemeenten, bedoeld in artikel 13, eerste lid, van de Uitvoeringsregeling willekeurige afschrijving, tevens de gemeente Landgraaf begrepen. 
 
 ### ARTIKEL  III  
 
@@ -25,7 +25,7 @@ Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle 
 
 Gegeven te 's-Gravenhage 
 31 oktober 1996  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Financiën, 
 W. A. F. G. Vermeend   

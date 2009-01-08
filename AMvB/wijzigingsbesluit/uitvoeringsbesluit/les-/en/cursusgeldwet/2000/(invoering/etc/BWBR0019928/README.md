@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Uitvoeringsbesluit Les- en cursusgeldwet 2000.   
+Wijzigt het Uitvoeringsbesluit Les- en cursusgeldwet 2000. 
 
 ### Artikel  II  
 
-Deelnemers die zich vóór 1 augustus 2006 aan een opleiding Nederlands als tweede taal hebben ingeschreven en zonder onderbreking die opleiding volgen, zijn in het cursusjaar 2006–2007 voor die opleiding geen cursusgeld verschuldigd.  
+Deelnemers die zich vóór 1 augustus 2006 aan een opleiding Nederlands als tweede taal hebben ingeschreven en zonder onderbreking die opleiding volgen, zijn in het cursusjaar 2006–2007 voor die opleiding geen cursusgeld verschuldigd. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van 1 augustus 2006.  
+Dit besluit treedt in werking met ingang van 1 augustus 2006. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -31,13 +31,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 31 mei 2006  
 Beatrix  
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-M.Rutte 
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap , 
+M. Rutte   
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit, 
-C. P.Veerman 
+De Minister van Landbouw, Natuur en Voedselkwaliteit , 
+C. P. Veerman   
 
 de *zevenentwintigste* juli 2006 
 
-De Minister van Justitie a.i., 
-S. M.Dekker  
+De Minister van Justitie a.i. , 
+S. M. Dekker    

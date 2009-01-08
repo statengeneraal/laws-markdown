@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van de Minister van Buitenlandse Zaken van 17 december 2003, nr. DDI/ST/reg 6/2003, houdende beperking van de openbaarheid van de archieven van diplomatieke en consulaire posten (1856) 1945–1954 (1963)
+##Besluit van de Minister van Buitenlandse Zaken van 17 december 2003, nr. DDI/ST/reg 6/2003, houdende beperking van de openbaarheid van de archieven van diplomatieke en consulaire posten (1856) 1945–1954 (1963) 
 
 De Minister van Buitenlandse Zaken,  
 Gelet op [artikel 15, eerste lid, onder a, van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
@@ -12,7 +12,7 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn van de archi
 
 | 1. Inventaris-  nummer  | 2. Geheel openbaar met ingang van  1 januari:  |
 |:---|:---|
-|  *Nederlandse ambassade te Bonn*    *1945–1954*   | --- |
+|  *Nederlandse ambassade te Bonn *    *1945–1954*   | --- |
 | 182  | 2030  |
 | 183  | 2030  |
 | 184  | 2030  |
@@ -213,26 +213,26 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn van de archi
 
 ### Artikel  2  
 
-Raadpleging of gebruik van de archiefbescheiden geborgen onder de in de tabel bij artikel 1 genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief met een verzoek tot inzage. Indiening van een verzoek tot inzage geschiedt door ondertekening door de verzoeker van het *‘Formulier voor toestemming tot raadpleging van niet openbare archieven’*; een exemplaar van dit formulier is als bijlage bij dit besluit gevoegd. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.  
+Raadpleging of gebruik van de archiefbescheiden geborgen onder de in de tabel bij artikel 1 genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief met een verzoek tot inzage. Indiening van een verzoek tot inzage geschiedt door ondertekening door de verzoeker van het *‘Formulier voor toestemming tot raadpleging van niet openbare archieven’*; een exemplaar van dit formulier is als bijlage bij dit besluit gevoegd. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden. 
 
 ### Artikel  3  
 
-Het vervaardigen van reproducties van documenten uit de archiefbescheiden geborgen onder de in de tabel bij artikel 1 genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationale archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.  
+Het vervaardigen van reproducties van documenten uit de archiefbescheiden geborgen onder de in de tabel bij artikel 1 genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationale archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden. 
 
 ### Artikel  4  
 
-Publicatie van gegevens uit de archief bescheiden geborgen onder de in de tabel bij artikel 1 genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.  
+Publicatie van gegevens uit de archief bescheiden geborgen onder de in de tabel bij artikel 1 genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt bekendgemaakt door kennisgeving daarvan in de Staatscourant. Dit besluit zal als bijlage bij de *‘Verklaring van Overbrenging van de archieven van diplomatieke en consulaire posten (1856) 1945–1954 (1963)’* worden gevoegd.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt bekendgemaakt door kennisgeving daarvan in de Staatscourant. Dit besluit zal als bijlage bij de *‘Verklaring van Overbrenging van de archieven van diplomatieke en consulaire posten (1856) 1945–1954 (1963)’* worden gevoegd. 
 
 De 
-Minister van Buitenlandse Zaken, 
-B.R.Bot   
+Minister van Buitenlandse Zaken,
+B.R. Bot     
 
 ####Bijlage
 
-![65500](http://wetten.overheid.nl/Illustration/65500)
+![65499](http://wetten.overheid.nl/Illustration/65499)
 ![65500](http://wetten.overheid.nl/Illustration/65500)
 

@@ -4,19 +4,19 @@
 
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid, mr. A.E. Verstand-Bogaert,  
 Gelet op [artikel 3 van de Kaderwet SZW-subsidies](../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md),
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
 De Minister van Sociale Zaken en Werkgelegenheid, hierna te noemen de minister, kan aan rechtspersonen subsidies verstrekken voor activiteiten in het kader van experimentele projecten, die ten doel hebben het combineren van arbeid en zorg te vergemakkelijken, door middel van: 
 
-het verbeteren van de afstemming van arbeidstijden met de openingstijden van onderwijs-, kinderopvang- en vrijetijdsvoorzieningen, winkels en andere vormen van publieke dienstverlening;  
+het verbeteren van de afstemming van arbeidstijden met de openingstijden van onderwijs-, kinderopvang- en vrijetijdsvoorzieningen, winkels en andere vormen van publieke dienstverlening;
 
-het verbeteren van de bereikbaarheid van deze voorzieningen;  
+het verbeteren van de bereikbaarheid van deze voorzieningen;
 
-het ontwikkelen van nieuwe vormen van persoonlijke dienstverlening en zorgondernemerschap;  
+het ontwikkelen van nieuwe vormen van persoonlijke dienstverlening en zorgondernemerschap;
 
-het ontwikkelen van een andere werk-privé balans in arbeidsorganisaties.    
+het ontwikkelen van een andere werk-privé balans in arbeidsorganisaties.  
 
 ### Artikel  2  
 
@@ -34,19 +34,19 @@ In de subsidie-aanvraag dient met name aandacht te worden besteed aan en dienen,
 2.  Met betrekking tot aanvragen, waarop gelijktijdig wordt beslist vóór 1 oktober 1999, 1 februari 2000 onderscheidenlijk 1 februari 2001 wordt een subsidieplafond vastgesteld van fl. 14.370.000,-, fl. 23.950.000,- onderscheidenlijk fl. 9.580.000,-.   
 3.  Bij de vergelijking wordt gelet op 
 
-de mate waarin het project bijdraagt aan voorwaarden voor het realiseren van een dagindeling die aansluit bij de behoeften van de taakcombineerder en aan het vergemakkelijken van het combineren van arbeid en zorg;  
+de mate waarin het project bijdraagt aan voorwaarden voor het realiseren van een dagindeling die aansluit bij de behoeften van de taakcombineerder en aan het vergemakkelijken van het combineren van arbeid en zorg;
 
-de mate waarin en de wijze waarop met anderen wordt samengewerkt en de mate van nieuwheid van de samenwerkingsvorm;  
+de mate waarin en de wijze waarop met anderen wordt samengewerkt en de mate van nieuwheid van de samenwerkingsvorm;
 
-de mate waarin waarborgen zijn opgenomen voor overdraagbaarheid en verspreiding van het projectresultaat;  
+de mate waarin waarborgen zijn opgenomen voor overdraagbaarheid en verspreiding van het projectresultaat;
 
-de mate waarin het projectresultaat kan worden ingebed in het reguliere beleid van bedrijven, instellingen en overheden;  
+de mate waarin het projectresultaat kan worden ingebed in het reguliere beleid van bedrijven, instellingen en overheden;
 
-de mate waarin het project een vernieuwend karakter heeft (originaliteit);  
+de mate waarin het project een vernieuwend karakter heeft (originaliteit);
 
-de mate waarin een project zich richt op meer terreinen, genoemd in artikel 1;  
+de mate waarin een project zich richt op meer terreinen, genoemd in artikel 1;
 
-de spreiding van de projecten over het land, over grote steden, kleine steden en plattelandsgebieden, over grote en kleine bedrijven, en, wat de beoogde doelgroepen betreft, over taakcombineerders uit hogere en lagere inkomensgroepen en over taakcombineerders met zorgtaken voor hun kinderen en zorgtaken voor anderen.     
+de spreiding van de projecten over het land, over grote steden, kleine steden en plattelandsgebieden, over grote en kleine bedrijven, en, wat de beoogde doelgroepen betreft, over taakcombineerders uit hogere en lagere inkomensgroepen en over taakcombineerders met zorgtaken voor hun kinderen en zorgtaken voor anderen.   
 
 ### Artikel  5  
 
@@ -61,12 +61,12 @@ de spreiding van de projecten over het land, over grote steden, kleine steden en
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als Subsidieregeling Dagindeling; zij treedt in werking met ingang van de dag na die van haar bekendmaking in de Staatscourant.  
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.   
+Deze regeling wordt aangehaald als Subsidieregeling Dagindeling; zij treedt in werking met ingang van de dag na die van haar bekendmaking in de Staatscourant. 
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst. 
 
 ’s-Gravenhage 
 19 maart 1999    
 
 De 
-Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
-A.E.Verstand-Bogaert    
+Staatssecretaris van Sociale Zaken en Werkgelegenheid,
+A.E. Verstand-Bogaert      

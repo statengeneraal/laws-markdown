@@ -135,4 +135,4 @@ D. Onverlet de algemene bevoegdheid van de minister om van de aan hem gedane aan
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-J.W.Remkes   
+J.W. Remkes     

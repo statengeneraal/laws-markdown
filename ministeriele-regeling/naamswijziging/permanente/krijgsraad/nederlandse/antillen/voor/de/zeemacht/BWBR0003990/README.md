@@ -10,21 +10,21 @@ dat bij koninklijk besluit van 30 augustus 1985 (Stb. 476) is bepaald dat genoem
 dat het in verband met het vorenstaande gewenst is de benaming ‘permanente krijgsraad Nederlandse Antillen voor de zeemacht’ te wijzigen;
 Besluit:    
 
-### Artikel  1  
+###Artikel  1  
 
-De benaming ‘permanente krijgsraad Nederlandse Antillen voor de zeemacht’ wordt gewijzigd in: permanente krijgsraad Nederlandse Antillen en Aruba voor de zeemacht.  
+De benaming ‘permanente krijgsraad Nederlandse Antillen voor de zeemacht’ wordt gewijzigd in: permanente krijgsraad Nederlandse Antillen en Aruba voor de zeemacht. 
 
-### Artikel  2  
+###Artikel  2  
 
-De voorschriften, waarin de benaming van voornoemde permanente krijgsraad voorkomt, worden aangepast.  
+De voorschriften, waarin de benaming van voornoemde permanente krijgsraad voorkomt, worden aangepast. 
 
-### Artikel  3  
+###Artikel  3  
 
-Deze beschikking treedt in werking met ingang van de datum van ondertekening en zal in de Nederlandse Staatscourant worden geplaatst. Afschrift van deze beschikking zal worden gezonden volgens de als bijlage bij deze beschikking gevoegde verzendlijst.  
+Deze beschikking treedt in werking met ingang van de datum van ondertekening en zal in de Nederlandse Staatscourant worden geplaatst. Afschrift van deze beschikking zal worden gezonden volgens de als bijlage bij deze beschikking gevoegde verzendlijst. 
 
 's-Gravenhage 
 26 juni 1986    
 
 De 
 minister voornoemd, 
-J. deRuiter    
+J. de Ruiter      

@@ -2,7 +2,7 @@
 
 ##Nato airborne early warning and controlprogramme management agency (NAPMA)
 
-De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.   
+De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.    
 ### 1.0.1  
 
 ####Inleiding

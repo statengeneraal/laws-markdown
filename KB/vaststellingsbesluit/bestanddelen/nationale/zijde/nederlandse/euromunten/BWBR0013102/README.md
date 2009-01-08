@@ -15,7 +15,7 @@ De beeldenaar van de muntstukken van twee euro en één euro is op de Nederlands
 
 ### Artikel  2  
 
-Het randschrift van het muntstuk van twee euro is GOD * ZIJ * MET * ONS *.  
+Het randschrift van het muntstuk van twee euro is GOD * ZIJ * MET * ONS *. 
 
 ### Artikel  3  
 
@@ -23,7 +23,7 @@ De beeldenaar van de muntstukken van 50 eurocent, 20 eurocent, 10 eurocent, 5 eu
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de dag waarop de [Muntwet 2002](../../../../../../../../wet/muntwet/2002/BWBR0013064/README.md) in werking treedt.  
+Dit besluit treedt in werking met ingang van de dag waarop de [Muntwet 2002](../../../../../../../../wet/muntwet/2002/BWBR0013064/README.md) in werking treedt. 
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in het Staatsblad en de Staatscourant zal worden geplaatst.   
 

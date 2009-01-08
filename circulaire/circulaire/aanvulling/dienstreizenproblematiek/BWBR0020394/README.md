@@ -33,4 +33,4 @@ Het [Reisbesluit binnenland](../../../../../AMvB/reisbesluit/binnenland/BWBR0005
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
 Directeur-Generaal Management Openbare Sector, 
-R.IJ.M.Kuipers   
+R.IJ.M. Kuipers     

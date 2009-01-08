@@ -8,13 +8,13 @@ Besluit:
 
 ### Artikel  1  
 
-De regeling inzake de instelling van specialismen volgend op het basisberoep van gezondheidszorgpsycholoog, vastgesteld door de Federatie van Gezondheidszorgpsychologen van 15 april 2003, wordt goedgekeurd.  
+De regeling inzake de instelling van specialismen volgend op het basisberoep van gezondheidszorgpsycholoog, vastgesteld door de Federatie van Gezondheidszorgpsychologen van 15 april 2003, wordt goedgekeurd. 
 
 ### Artikel  2  
 
-De titels, verbonden aan de specialismen die krachtens de in het eerste lid van bedoelde regeling in het leven zijn geroepen, worden aangemerkt als wettelijk erkende specialistentitels.  
+De titels, verbonden aan de specialismen die krachtens de in het eerste lid van bedoelde regeling in het leven zijn geroepen, worden aangemerkt als wettelijk erkende specialistentitels. 
 Dit besluit en de regeling inzake de instelling van specialismen volgend op het basisberoep van gezondheidszorgpsycholoog zullen in de Staatscourant worden geplaatst.   
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport, 
-J.F.Hoogervorst    
+Minister van Volksgezondheid, Welzijn en Sport,
+J.F. Hoogervorst      

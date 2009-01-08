@@ -28,37 +28,37 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 ### Artikel  2  
 
 1.  Het is verboden te handelen in strijd met de eisen gesteld bij of krachtens de artikelen 2, 3, 4, 5 en 8, van verordening (EG) 2991/94.   
-2.  Het is verboden de in de bijlage bij verordening (EG) 2991/94, onder B en C, bedoelde vetten te bereiden of te verhandelen die niet voldoen aan de eisen bij dit besluit gesteld met betrekking tot hun samenstelling.   
+2.  Het is verboden de in de bijlage bij verordening (EG) 2991/94, onder B en C, bedoelde vetten te bereiden of te verhandelen die niet voldoen aan de eisen bij dit besluit gesteld met betrekking tot hun samenstelling.  
 
 ### Artikel  3  
 
-In de in de bijlage bij de verordening (EG) 2991/94, onder B en C, bedoelde vetten is het gehalte aan erucazuur niet hoger dan 5% en het gehalte aan erucazuur en zijn isomeren niet hoger dan 6,5%, een en ander berekend op het totale gehalte aan vetzuren in de vetfase.  
+In de in de bijlage bij de verordening (EG) 2991/94, onder B en C, bedoelde vetten is het gehalte aan erucazuur niet hoger dan 5% en het gehalte aan erucazuur en zijn isomeren niet hoger dan 6,5%, een en ander berekend op het totale gehalte aan vetzuren in de vetfase. 
 
 ### Artikel  4  
 
-Wijzigt het Warenwetbesluit Toevoeging microvoedingsstoffen aan levensmiddelen.   
+Wijzigt het Warenwetbesluit Toevoeging microvoedingsstoffen aan levensmiddelen.  
 
 ### Artikel  5  
 
-Het Margarinebesluit (Warenwet) wordt ingetrokken.  
+Het Margarinebesluit (Warenwet) wordt ingetrokken. 
 
 ### Artikel  6  
 
-Wijzigt het Warenwetbesluit Zuivel.   
+Wijzigt het Warenwetbesluit Zuivel.  
 
 ### Artikel  7  
 
-Dit besluit treedt in werking met ingang van 1 december 1999.  
+Dit besluit treedt in werking met ingang van 1 december 1999. 
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Warenwetbesluit Smeerbare vetproducten.  
+Dit besluit wordt aangehaald als: Warenwetbesluit Smeerbare vetproducten. 
 
 Lasten en bevelen dat dit besluit met de daarbij horende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 22 september 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Volksgezondheid, Welzijn en Sport, 
 E. Borst-Eilers   
@@ -66,4 +66,4 @@ E. Borst-Eilers
 de *veertiende* oktober 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

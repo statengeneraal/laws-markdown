@@ -8,19 +8,19 @@ De Nederlandse Zorgautoriteit (NZa), Gelet op [artikelen 37](../../../../../../w
 
 ####Algemeen
 
-a. Deze regeling is van toepassing op zorg of dienst als omschreven bij of krachtens de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of de [Zvw](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en wordt geleverd door ziekenhuizen (voor zover het de psychiatrische afdelingen betreft), zorgaanbieders die zijn toegelaten voor zorg aan verzekerden met een psychiatrische aandoening of zorgaanbieders van wie de zorgverlening is gericht op verzekerden met een psychiatrische aandoening. b. Het in deze regeling bepaalde is op grond van [artikel 44 Wmg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) mede van toepassing ten aanzien van degene die voor een zorgaanbieder een administratie voert alsmede ten aanzien van degene die een administratie voert ten behoeve van of in verband met het aanbieden, overeenkomen, leveren, in rekening brengen, betalen of vergoeden aan derden van een prestatie of een tarief of het ontvangen van een betaling.  
+a. Deze regeling is van toepassing op zorg of dienst als omschreven bij of krachtens de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of de [Zvw](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en wordt geleverd door ziekenhuizen (voor zover het de psychiatrische afdelingen betreft), zorgaanbieders die zijn toegelaten voor zorg aan verzekerden met een psychiatrische aandoening of zorgaanbieders van wie de zorgverlening is gericht op verzekerden met een psychiatrische aandoening. b. Het in deze regeling bepaalde is op grond van [artikel 44 Wmg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) mede van toepassing ten aanzien van degene die voor een zorgaanbieder een administratie voert alsmede ten aanzien van degene die een administratie voert ten behoeve van of in verband met het aanbieden, overeenkomen, leveren, in rekening brengen, betalen of vergoeden aan derden van een prestatie of een tarief of het ontvangen van een betaling. 
 
 ### Artikel  2  
 
 ####Definitie GGZ-aanbieder
 
-Een op basis van de [WTZi](../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) toegelaten zorgaanbieder, waarbij de zorgverlening voornamelijk gericht is op verzekerden met een psychiatrische aandoening.  
+Een op basis van de [WTZi](../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) toegelaten zorgaanbieder, waarbij de zorgverlening voornamelijk gericht is op verzekerden met een psychiatrische aandoening. 
 
 ### Artikel  3  
 
 ####Doel
 
-Het doel van deze regeling is dat gegevens beschikbaar komen met het oog op de overheveling in 2008 van de op genezing gerichte geestelijke gezondheidszorg van [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) naar [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). Vanaf 1 januari 2008 worden zorgverzekeraars en zorgaanbieders die geestelijke gezondheidszorg leveren contractpartners. Vanaf dat moment zenden zorgaanbieders rekeningen voor de geleverde zorg aan de zorgverzekeraars op basis van Diagnose Behandeling Combinaties (DBC’s) ter financiering van het budget van de onder artikel 1.a genoemde zorgaanbieder. Voor het inzicht van de zorgverzekeraars in de mate waarin verzekerden gebruik maken van geestelijke gezondheidszorg die onder de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) valt en voor de verdere ontwikkeling van het model van risicoverevening is het noodzakelijk een bron van gegevens beschikbaar te hebben ten behoeve van gegevensuitwisseling tussen zorgverzekeraars en zorgaanbieders in 2007. De levering van gegevens is verplicht voor alle zorgaanbieders die geestelijke gezondheidszorg leveren.  
+Het doel van deze regeling is dat gegevens beschikbaar komen met het oog op de overheveling in 2008 van de op genezing gerichte geestelijke gezondheidszorg van [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) naar [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). Vanaf 1 januari 2008 worden zorgverzekeraars en zorgaanbieders die geestelijke gezondheidszorg leveren contractpartners. Vanaf dat moment zenden zorgaanbieders rekeningen voor de geleverde zorg aan de zorgverzekeraars op basis van Diagnose Behandeling Combinaties (DBC’s) ter financiering van het budget van de onder artikel 1.a genoemde zorgaanbieder. Voor het inzicht van de zorgverzekeraars in de mate waarin verzekerden gebruik maken van geestelijke gezondheidszorg die onder de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) valt en voor de verdere ontwikkeling van het model van risicoverevening is het noodzakelijk een bron van gegevens beschikbaar te hebben ten behoeve van gegevensuitwisseling tussen zorgverzekeraars en zorgaanbieders in 2007. De levering van gegevens is verplicht voor alle zorgaanbieders die geestelijke gezondheidszorg leveren. 
 
 ### Artikel  4  
 
@@ -38,7 +38,7 @@ Onderstaande door de zorgaanbieders aan te leveren basisgegevens worden maandeli
 * Verzekeraarscode   
 ###4.2 Indicatiegegevens
 
-* Soort verwijzer  
+*  Soort verwijzer  
 
 * Diagnose in DSM-IV  
 
@@ -59,22 +59,22 @@ Onderstaande door de zorgaanbieders aan te leveren basisgegevens worden maandeli
 
 * Tariefcode NZa 2007  
 
-* Omvang tariefcode (aantal eenheden)    
+* Omvang tariefcode (aantal eenheden)   
 
 ### Artikel  5  
 
-####Overzicht van bekostigingsbedragen en toerekening naar [ZVW](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) / [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)
+####Overzicht van bekostigingsbedragen en toerekening naar [ZVW](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md)/[AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)
 
-Onderstaand overzicht wordt gebruikt voor de vertaling naar de geleverde zorg in kosten en voor de vaststelling van de zorg/kosten die wordt overgeheveld naar de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). De verwijzing naar [zvw](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) / [awbz](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) is globaal van aard en voor statistische doeleinden.  
+Onderstaand overzicht wordt gebruikt voor de vertaling naar de geleverde zorg in kosten en voor de vaststelling van de zorg/kosten die wordt overgeheveld naar de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). De verwijzing naar [zvw](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md)/[awbz](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) is globaal van aard en voor statistische doeleinden.  
 
-| Zorgprestatie  | Code  | Bedrag  | [Zvw](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) / [awbz](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)  |
+| Zorgprestatie  | Code  | Bedrag  | [Zvw](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md)/[awbz](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)  |
 |:---|:---|:---|:---|
 | Eerste opnamen  |
 | Eerste opname kinder- en  jeugdpsychiatrie  | F001  | 355,60  | zvw  |
 | Eerste opname alcohol- en drugsverslaafden  | F002  | 355,60  | zvw  |
 | Eerste opname  volwassenen algemene  psychiatrie  | F003  | 1.002,30  | zvw  |
-| Eerste opname  forensische kliniek  | F004  | 2.900,00  | zvw  <sup> 4)   De zorgprestaties ten aanzien van de forensische psychiatrie hebben alleen betrekking op de forensische zorg zonder strafrechtelijke titel. Forensische zorg die geleverd wordt op grond van een strafrechtelijke titel is op 1 januari 2007 overgeheveld naar de begroting van het Ministerie van Justitie.    </sup> |
-| Eerste opname  forensische afdeling  | F005  | 1.401,70  | zvw  <sup> 4)   De zorgprestaties ten aanzien van de forensische psychiatrie hebben alleen betrekking op de forensische zorg zonder strafrechtelijke titel. Forensische zorg die geleverd wordt op grond van een strafrechtelijke titel is op 1 januari 2007 overgeheveld naar de begroting van het Ministerie van Justitie.    </sup> |
+| Eerste opname  forensische kliniek  | F004  | 2.900,00  | zvw <sup>4) De zorgprestaties ten aanzien van de forensische psychiatrie hebben alleen betrekking op de forensische zorg zonder strafrechtelijke titel. Forensische zorg die geleverd wordt op grond van een strafrechtelijke titel is op 1 januari 2007 overgeheveld naar de begroting van het Ministerie van Justitie. </sup>  |
+| Eerste opname  forensische afdeling  | F005  | 1.401,70  | zvw <sup>4) De zorgprestaties ten aanzien van de forensische psychiatrie hebben alleen betrekking op de forensische zorg zonder strafrechtelijke titel. Forensische zorg die geleverd wordt op grond van een strafrechtelijke titel is op 1 januari 2007 overgeheveld naar de begroting van het Ministerie van Justitie. </sup>  |
 | Face-to-face-contacten m.b.t. volwassenen  |
 | Nieuwe inschrijving  | F101  | 21,60  | zvw  |
 | Intakecontact  | F102  | 207,40  | zvw  |
@@ -119,7 +119,7 @@ Onderstaand overzicht wordt gebruikt voor de vertaling naar de geleverde zorg in
 | Crisiscontact binnen  kantooruren  | F158  | 217,30  | zvw  |
 | Crisiscontact buiten  kantooruren  | F159  | 813,30  | zvw  |
 | Toeslag contact buiten  de instelling  | F160  | 31,30  | zvw  |
-| Face-to-face-contacten m.b.t. forensische psychiatrie <sup>4)</sup>  |
+| Face-to-face-contacten m.b.t. forensische psychiatrie<sup>4)</sup>   |
 | Nieuwe inschrijving  | F201  | 21,60  | zvw  |
 | Intakecontact  | F202  | 396,60  | zvw  |
 | Psychotherapiecontact  | F204  | 208,80  | zvw  |
@@ -132,7 +132,7 @@ Onderstaand overzicht wordt gebruikt voor de vertaling naar de geleverde zorg in
 | Telefonisch  behandeling/  begeleidingscontact  ouderen  | F222  | 49,70  | zvw  |
 | Telefonisch  behandeling/  begeleidingscontact  verslaafden  | F223  | 49,70  | zvw  |
 | Telefonisch  behandeling/  begeleidingscontact  kinderen/jeugd  | F224  | 52,60  | zvw  |
-| Telefonisch  behandeling/  begeleidingscontact for.  psychiatrie <sup>4)</sup>  | F225  | 62,00  | zvw  |
+| Telefonisch  behandeling/  begeleidingscontact for.  psychiatrie<sup>4)</sup>   | F225  | 62,00  | zvw  |
 | Psychiatrische deeltijdbehandeling  |
 | Deeltijdbehandeling  verslavingszorg (4-6 uur)  | F451  | 66,10  | zvw  |
 | Deeltijdbehandeling  verslavingszorg (6-8 uur)  | F452  | 132,30  | zvw  |
@@ -182,7 +182,7 @@ Onderstaand overzicht wordt gebruikt voor de vertaling naar de geleverde zorg in
 | Veranderingsgericht  met beperkte  begeleiding  | V.2.3  | 137,70  | zvw/ na 1  jaar awbz  |
 | Veranderingsgericht  met intensieve  begeleiding  | V.2.4  | 188,20  | zvw/ na 1  jaar awbz  |
 | Crisisbehandeling met  intensieve begeleiding/  bescherming  | V.2.5  | 238,20  | zvw/ na 1  jaar awbz  |
-| Verpleegdagen voor forensische psychiatrie  <sup> 4)   De zorgprestaties ten aanzien van de forensische psychiatrie hebben alleen betrekking op de forensische zorg zonder strafrechtelijke titel. Forensische zorg die geleverd wordt op grond van een strafrechtelijke titel is op 1 januari 2007 overgeheveld naar de begroting van het Ministerie van Justitie.    </sup> |
+| Verpleegdagen voor forensische psychiatrie <sup>4) De zorgprestaties ten aanzien van de forensische psychiatrie hebben alleen betrekking op de forensische zorg zonder strafrechtelijke titel. Forensische zorg die geleverd wordt op grond van een strafrechtelijke titel is op 1 januari 2007 overgeheveld naar de begroting van het Ministerie van Justitie. </sup>  |
 | Resocialisatie FPA  | F.1.1  | 301,30  | zvw/na 1  jaar awbz  |
 | Behandeling FPA  | F.1.2  | 371,30  | zvw/na 1  jaar awbz  |
 | Long stay (basis) FPK  | F.1.3  | 340,50  | zvw/na 1  jaar awbz  |
@@ -192,28 +192,28 @@ Onderstaand overzicht wordt gebruikt voor de vertaling naar de geleverde zorg in
 | Verpleegdagen voor klinisch intensieve behandeling  |
 | Klinisch intensieve  behandeling  | KIB  | 530,50  | zvw/na 1  jaar awbz  |
 | Verzorgingsdag voor beschermd wonen  |
-| Structuur biedend met  beperkte begeleiding  | VZ2.1  | 60,50  | awbz  <sup> 1)   Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW.    </sup> |
-| Structuur biedend met  volledige begeleiding  | VZ2.2  | 111,30  | awbz  <sup> 1)   Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW.    </sup> |
-| Veranderingsgericht  met beperkte  begeleiding  | VZ2.3  | 73,00  | awbz  <sup> 1)   Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW.    </sup> |
-| Veranderingsgericht  met volledige  begeleiding  | VZ2.4  | 121,50  | awbz  <sup> 1)   Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW.    </sup> |
-| Jeugdigen in RIBW’s  | VZ2.5  | 154,60  | awbz  <sup> 1)   Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW.    </sup> |
+| Structuur biedend met  beperkte begeleiding  | VZ2.1  | 60,50  | awbz <sup>1) Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW. </sup>  |
+| Structuur biedend met  volledige begeleiding  | VZ2.2  | 111,30  | awbz <sup>1) Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW. </sup>  |
+| Veranderingsgericht  met beperkte  begeleiding  | VZ2.3  | 73,00  | awbz <sup>1) Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW. </sup>  |
+| Veranderingsgericht  met volledige  begeleiding  | VZ2.4  | 121,50  | awbz<sup>1) Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW. </sup>   |
+| Jeugdigen in RIBW’s  | VZ2.5  | 154,60  | awbz <sup>1) Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW. </sup>  |
 | Overig  |
 | Activerende  psychiatrische thuiszorg  | F120  | 133,20  | zvw  |
 | Psychiatrische  intensieve thuiszorg  | F121  | 133,20  | zvw  |
 | Psychiatrische  crisisinterventie thuis  | F122  | 151,10  | zvw  |
-| Uren gespecialiseerde  begeleiding (begeleid  zelfstandig wonen)  | F123  | 79,10  | awbz  <sup> 1)   Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW.    </sup> |
-| Uren dienstverlening  | F124  | 72,70  | zvw  <sup> 2)   Dit betreft dienstverlening exclusief Openbare GGZ en individuele preventie. De Openbare GGZ en collectieve preventie zijn per 1 januari 2007 overgeheveld naar de Wet Maatschappelijke Opvang.    </sup> |
-| Uren individuele  preventie  | F128  | 72,70  | zvw  <sup> 2)   Dit betreft dienstverlening exclusief Openbare GGZ en individuele preventie. De Openbare GGZ en collectieve preventie zijn per 1 januari 2007 overgeheveld naar de Wet Maatschappelijke Opvang.    </sup> |
-| Cliënturen  dagactiviteiten  (educatief, recreatief en arbeidsmatig)  | F125  | 9,20  | awbz  <sup> 1)   Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW.    </sup> |
-| Vervoer dagactiviteiten /deeltijdbehandelingen  | F126  | 15,10  | awbz  <sup> 1)   Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW.    </sup> |
+| Uren gespecialiseerde  begeleiding (begeleid  zelfstandig wonen)  | F123  | 79,10  | awbz <sup>1) Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW. </sup>  |
+| Uren dienstverlening  | F124  | 72,70  | zvw <sup>2) Dit betreft dienstverlening exclusief Openbare GGZ en individuele preventie. De Openbare GGZ en collectieve preventie zijn per 1 januari 2007 overgeheveld naar de Wet Maatschappelijke Opvang. </sup>  |
+| Uren individuele  preventie  | F128  | 72,70  | zvw <sup>2) Dit betreft dienstverlening exclusief Openbare GGZ en individuele preventie. De Openbare GGZ en collectieve preventie zijn per 1 januari 2007 overgeheveld naar de Wet Maatschappelijke Opvang. </sup>  |
+| Cliënturen  dagactiviteiten  (educatief, recreatief en arbeidsmatig)  | F125  | 9,20  | awbz <sup>1) Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW. </sup>  |
+| Vervoer dagactiviteiten /deeltijdbehandelingen  | F126  | 15,10  | awbz <sup>1) Het is ook mogelijk dat zorgprestaties op beperkte schaal ten laste komen van de ZVW. </sup>   |
 | Uren aanbod  inloopfunctie  | F129  | 61,20  | awbz  |
 | Cliënten in  zorgcoördinatie op de  1e dag van de maand  | F130  | 137,20  | zvw  |
 | Cliënten  methadonverstrekking  op de 1e dag v.d.  maand  | F127  | 90,70  | zvw  |
-| Kosten  zorgvernieuwingsprojecten  <sup> 3)   Ten behoeve van de productiecontrole heeft het zorgkantoor inzicht nodig in de hoogte van het bedrag dat omgaat in zorgvernieuwing. In verband daarmee zijn de kosten van zorgvernieuwingsprojecten opgenomen in de lijst van de te verstrekken gegevens.    </sup> | KZP  | --- | zvw  <sup> 3)   Ten behoeve van de productiecontrole heeft het zorgkantoor inzicht nodig in de hoogte van het bedrag dat omgaat in zorgvernieuwing. In verband daarmee zijn de kosten van zorgvernieuwingsprojecten opgenomen in de lijst van de te verstrekken gegevens.    </sup> |
+| Kosten  zorgvernieuwingsprojecten<sup>3) Ten behoeve van de productiecontrole heeft het zorgkantoor inzicht nodig in de hoogte van het bedrag dat omgaat in zorgvernieuwing. In verband daarmee zijn de kosten van zorgvernieuwingsprojecten opgenomen in de lijst van de te verstrekken gegevens. </sup>  | KZP  | --- | zvw <sup>3) Ten behoeve van de productiecontrole heeft het zorgkantoor inzicht nodig in de hoogte van het bedrag dat omgaat in zorgvernieuwing. In verband daarmee zijn de kosten van zorgvernieuwingsprojecten opgenomen in de lijst van de te verstrekken gegevens. </sup>  |
 
 ### Artikel  6  
 
 ####Slotbepaling
 
-De regeling kan worden aangehaald als ‘Regeling bepalingen GGZ-prestaties 2007’.  
+De regeling kan worden aangehaald als ‘Regeling bepalingen GGZ-prestaties 2007’. 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. Met de inwerkingtreding van deze Regeling wordt de Regeling GG/NR-100.033 beëindigd.     

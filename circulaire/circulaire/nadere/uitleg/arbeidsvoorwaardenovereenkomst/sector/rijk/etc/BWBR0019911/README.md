@@ -39,6 +39,6 @@ De bedrijfsarts bekijkt hoeveel uren de desbetreffende ambtenaar kan werken; der
 Bij de hiervoor genoemde specifieke rechten en plichten gedurende de eerste twee jaar van ziekte, gaat het steeds om beslissingen van het bevoegd gezag. Het spreekt vanzelf dat hierbij voor de ambtenaar het reguliere bezwaar- en beroepsproces open staat. Hierbij wijs ik ook op [artikel 40b, vijfde lid, ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md). Daar staat dat de ambtenaar die van mening is dat het bevoegd gezag de reïntegratieverplichtingen niet of onvoldoende nakomt, bij zijn verzoek tot nakoming aan het bevoegd gezag een deskundigenoordeel van het UWV overlegt.     
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze:de 
 Directeur-Generaal Management Openbare Sector, 
-R.IJ.M.Kuipers   
+R.IJ.M. Kuipers     

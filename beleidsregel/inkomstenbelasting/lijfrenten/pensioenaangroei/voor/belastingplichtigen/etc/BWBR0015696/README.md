@@ -20,7 +20,7 @@ Dit besluit geldt voor belastingjaren met ingang van 2001. Onherroepelijk vastst
 
 Ten aanzien van personen op wie bovenstaande goedkeuring van toepassing is, kan bij de berekening van de aangroei van het bedrag van de jaarlijkse uitkeringen van de aanspraken volgens een Belgisch rustpensioen voorzover deze aangroei het gevolg is van de toeneming van de diensttijd in een jaar, op deze aangroei in mindering worden gebracht:  
 
-| M.b.t. de aangroei in  | Iin mindering te brengen bedrag  |
+|  M.b.t. de aangroei in   | Iin mindering te brengen bedrag   |
 |:---|:---|
 | 2001  | f 319 / € 145  |
 | 2002  | € 151  |

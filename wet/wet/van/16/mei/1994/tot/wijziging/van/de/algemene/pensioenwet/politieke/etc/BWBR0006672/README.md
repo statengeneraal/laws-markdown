@@ -11,23 +11,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-[Artikel 54, derde lid, tweede volzin, van de Algemene pensioenwet politieke ambtsdragers](../../../../../../../../../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md), zoals dat luidt vóór het tijdstip van inwerkingtreding van deze wet, blijft gelden voor de verrekening ingevolge dat artikel van inkomsten met een uitkering die is toegekend ter zake van een aftreden voor het tijdstip van inwerkingtreding van deze wet.  
+[Artikel 54, derde lid, tweede volzin, van de Algemene pensioenwet politieke ambtsdragers](../../../../../../../../../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md), zoals dat luidt vóór het tijdstip van inwerkingtreding van deze wet, blijft gelden voor de verrekening ingevolge dat artikel van inkomsten met een uitkering die is toegekend ter zake van een aftreden voor het tijdstip van inwerkingtreding van deze wet. 
 
 ### Artikel  V  
 
-Deze wet treedt in werking met ingang van de eerste dag van de eerste kalendermaand na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de eerste dag van de eerste kalendermaand na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

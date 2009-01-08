@@ -15,23 +15,23 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-Artikel I, onderdeel C, vindt op verzoek geen toepassing ten aanzien van prestaties van onderwijsinstellingen, voor zover ter zake van onderwijsprestaties vóór 1 juli 1993 een overeenkomst is gesloten voor een tijdvak dat is aangevangen vóór 1 juli 1993 en dat niet langer is dan één jaar.  
+Artikel I, onderdeel C, vindt op verzoek geen toepassing ten aanzien van prestaties van onderwijsinstellingen, voor zover ter zake van onderwijsprestaties vóór 1 juli 1993 een overeenkomst is gesloten voor een tijdvak dat is aangevangen vóór 1 juli 1993 en dat niet langer is dan één jaar. 
 
 ### Artikel  V  
 
-Dit besluit treedt in werking met ingang van de eerste kalendermaand na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, met uitzondering van de artikelen I, onderdeel C, en IV, die in werking treden met ingang van 1 juli 1993.  
+Dit besluit treedt in werking met ingang van de eerste kalendermaand na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, met uitzondering van de artikelen I, onderdeel C, en IV, die in werking treden met ingang van 1 juli 1993. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

@@ -1,8 +1,8 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling mandaatverlening directeur Waarborgfonds Motorverkeer inzake uitvoering vrijstellingsregeling Wam voor gemoedsbezwaarden
+##Regeling mandaatverlening directeur Waarborgfonds Motorverkeer inzake uitvoering vrijstellingsregeling Wam voor gemoedsbezwaarden 
 
-De Minister van Financiën,  Besluit:    
+De Minister van Financiën,  Besluit:     
 
 ### Artikel  1  
 
@@ -30,9 +30,9 @@ Het Waarborgfonds Motorverkeer dient er voor zorg te dragen dat de geheimhouding
 
 ### Artikel  7  
 
-Deze regeling treedt in werking met ingang van 1 september 1998.  
+Deze regeling treedt in werking met ingang van 1 september 1998. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Financiën, 
-G.Zalm    
+G.  Zalm      

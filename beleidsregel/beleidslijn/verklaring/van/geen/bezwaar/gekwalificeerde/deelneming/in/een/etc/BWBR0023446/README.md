@@ -36,4 +36,4 @@ In het tussen de bevoegde toezichthouders op Euronext NV gesloten Memorandum of 
 
 De 
 Minister van Financiën, 
-W.J.Bos   
+W.J. Bos     

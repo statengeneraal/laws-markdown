@@ -55,20 +55,20 @@ Dit besluit treedt in werking met ingang van heden.
 
 Het besluit van 30 maart 2001, nr. RTB 2001/1365M vervalt per heden.    
 
-### Bijlage  
+### Bijlage 
 
 ####bij het besluit van 11 augustus 2004, nr. DGB2004/1339M
 
 | Naam  | Tijdsbeslag  | Kantoor  |
 |:---|:---|:---|
 | drs. R.P.J. van den Brekel RE RA (voorzitter)  | 1,0 fte  | Rijnmond/kantoor Rotterdam  |
-| Regio Noordwest:  Amsterdam, Holland-Midden, Holland-Noord, Utrecht-Gooi  | --- | --- |
+| Regio Noordwest:   Amsterdam, Holland-Midden, Holland-Noord, Utrecht-Gooi  | --- | --- |
 | S. Bakker RA  | 0,5 fte  | Amsterdam  |
 | W.J.A.C. Bins*  | 0,8 fte  | Amsterdam  |
 | J.T. van Egdom RA  | 0,6 fte  | Amsterdam  |
 | B.J. Nagtegaal  | 0,8 fte  | Utrecht-Gooi/kantoor Utrecht  |
 | Mw. A.A.M. van Veldhuizen RA  | 0,4 fte  | Utrecht-Gooi/kantoor Utrecht  |
-| Regio Zuidwest:  Rijnmond, Zuidwest Haaglanden  | --- | --- |
+| Regio Zuidwest:   Rijnmond, Zuidwest Haaglanden  | --- | --- |
 | R.G.H. Cremers RA  | 0,8 fte  | Zuidwest/kantoor Breda  |
 | mw. drs. Y. Koster*  | 1,0 fte  | Rijnmond/kantoor Rotterdam  |
 | E.H.J.G. Nelissen RA  | 0,5 fte  | Zuidwest/kantoor Breda  |

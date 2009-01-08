@@ -13,11 +13,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Onder aangelegenheden, verband houdende met het economisch verkeer tussen verschillende stadia van voortbrenging en afzet, als bedoeld in artikel 4, eerste lid, onder *a*, van de [Instellingswet Productschap voor Zuivel](../../../../../../../../../../../wet/instellingswet/productschap/voor/zuivel/BWBR0002205/README.md) (*Stb.* 1956, 93) zijn begrepen de prijzen, waartegen kaas aan buitenlandse afnemers ten minste moet worden afgezet.  
+Onder aangelegenheden, verband houdende met het economisch verkeer tussen verschillende stadia van voortbrenging en afzet, als bedoeld in artikel 4, eerste lid, onder *a*, van de [Instellingswet Productschap voor Zuivel](../../../../../../../../../../../wet/instellingswet/productschap/voor/zuivel/BWBR0002205/README.md) (*Stb.* 1956, 93) zijn begrepen de prijzen, waartegen kaas aan buitenlandse afnemers ten minste moet worden afgezet. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 januari 1959.  
+Dit besluit treedt in werking met ingang van 1 januari 1959. 
 
 Onze Ministers van Binnenlandse Zaken, Bezitsvorming en Publiekrechtelijke Bedrijfsorganisatie, van Landbouw, Visserij en Voedselvoorziening en van Economische Zaken zijn belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst.   
 

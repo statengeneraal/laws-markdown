@@ -99,19 +99,19 @@ Aan een schriftelijke verklaring van de afnemer als bedoeld in de eerste alinea 
 ####Individuele gevallen
 
 De wijze waarop een leverancier in een concreet geval met de daartoe vereiste zorgvuldigheid het intracommunautaire karakter van een door hem verrichte levering kan vaststellen, is afhankelijk van de omstandigheden, zoals die gelden voor het desbetreffende bedrijf en de desbetreffende levering. Als de toepassing van dit besluit vragen over de toepassing van het nultarief in concrete situaties onbeantwoord laat, kan de desbetreffende ondernemer zich wenden tot de inspecteur.    
-### 7  
+### 7 
 
 ####Inwerkingtreding en evaluatie
 
 Dit besluit treedt heden in werking. Ik behoud mij het recht voor om de toepassing van dit besluit op een nader te bepalen tijdstip te evalueren en, afhankelijk van de uitkomsten van die evaluatie, dit besluit dienovereenkomstig te wijzigen. Dit besluit dient ter vervanging van het besluit van 10 november 1995, nr. VB 95/3447    
 
-### Bijlage  1  
+### Bijlage 1  
 
 ####Verklaring als bedoeld in onderdeel 4.3 van Besluit DGB 2002/4947M
 
-Ondergetekende, ................................................................... (naam van degene die de goederen in ontvangst neemt) Verklaart (voor zoveel nodig, namens de afnemer): 1. dat de goederen die zijn vermeld op de door de leverancier: Naam: ............................................................................................. (naam leverancier) Adres/⁠Plaats: .................................................................................. (bedrijfsadres leverancier) afgegeven factuur met nummer: .................... d.d. .......................... (factuurnummer) (factuurdatum) en die zijn geleverd aan: ................................................................. (naam van de buitenlandse afnemer) met het BTW-⁠identificatienummer: .................................................. (buitenlandse BTW-identificatienummer van de afnemer) met een vervoermiddel met het kenteken: ...................................... (indien van toepassing: kenteken vermelden) zijn/⁠zullen worden vervoerd naar: ................................................... (plaats van bestemming) in de Lid-⁠Staat: ............................................................................... (Lid-Staat van bestemming) 2. dat de afnemer bereid is op verzoek van de Nederlandse Belastingdienst nadere informatie te verstrekken omtrent de bestemming van de goederen. ............................................................... (plaats) ............................................................... (datum) ............................................................... (handtekening van degene die de goederen in ontvangst neemt)  
+Ondergetekende, ................................................................... (naam van degene die de goederen in ontvangst neemt) Verklaart (voor zoveel nodig, namens de afnemer): 1. dat de goederen die zijn vermeld op de door de leverancier: Naam: ............................................................................................. (naam leverancier) Adres/⁠Plaats: .................................................................................. (bedrijfsadres leverancier) afgegeven factuur met nummer: .................... d.d. .......................... (factuurnummer) (factuurdatum) en die zijn geleverd aan: ................................................................. (naam van de buitenlandse afnemer) met het BTW-⁠identificatienummer: .................................................. (buitenlandse BTW-identificatienummer van de afnemer) met een vervoermiddel met het kenteken: ...................................... (indien van toepassing: kenteken vermelden) zijn/⁠zullen worden vervoerd naar: ................................................... (plaats van bestemming) in de Lid-⁠Staat: ............................................................................... (Lid-Staat van bestemming) 2. dat de afnemer bereid is op verzoek van de Nederlandse Belastingdienst nadere informatie te verstrekken omtrent de bestemming van de goederen. ............................................................... (plaats) ............................................................... (datum) ............................................................... (handtekening van degene die de goederen in ontvangst neemt) 
 
-### Bijlage  2  
+### Bijlage 2  
 
 ####Verklaring als bedoeld in onderdeel 4.5 van Besluit DGB 2002/4947M
 
@@ -125,5 +125,5 @@ c. dat hij/zij onmiddellijk na overbrenging van het pleziervaartuig naar (land v
 
 d. dat hij/zij ervan op de hoogte is dat de leverancier de Nederlandse belastingdienst dient te informeren wanneer de onder c bedoelde kopieën niet tijdig worden ontvangen, dan wel wanneer na de levering feiten ter kennis komen van de leverancier waaruit deze redelijkerwijs moet concluderen dat deze verklaring geen juist beeld geeft van de feitelijke situatie op het moment van levering;  
 
-e. dat hij/zij bereid is op verzoek aan de Nederlandse belastingdienst nadere informatie te verstrekken omtrent de bestemming van het vaartuig.   (plaats en datum) (handtekening afnemer/gemachtigde van de afnemer)  
+e. dat hij/zij bereid is op verzoek aan de Nederlandse belastingdienst nadere informatie te verstrekken omtrent de bestemming van het vaartuig.   (plaats en datum) (handtekening afnemer/gemachtigde van de afnemer) 
 

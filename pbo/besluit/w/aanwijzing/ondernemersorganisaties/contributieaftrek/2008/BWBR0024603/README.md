@@ -16,11 +16,11 @@ Als ondernemersorganisaties, bedoeld in [artikel 10A, tweede lid van de Verorden
 
 3. Vereniging Drankenhandel Nederland (VDN)  
 
-4. Vereniging SlijtersUnie    
+4. Vereniging SlijtersUnie   
 
 ### Artikel  2  
 
-Dit besluit wordt aangehaald als: Besluit W aanwijzing ondernemersorganisaties contributieaftrek 2008.  
+Dit besluit wordt aangehaald als: Besluit W aanwijzing ondernemersorganisaties contributieaftrek 2008. 
 
 Den Haag 
 14 mei 2008   

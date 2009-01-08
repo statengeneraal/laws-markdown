@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit zorgverzekering.   
+Wijzigt het Besluit zorgverzekering. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit prudentiële regels Wft.   
+Wijzigt het Besluit prudentiële regels Wft. 
 
 ### Artikel  III  
 
-Het [Besluit zorgverzekering](../../../../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) zoals dat luidde op 14 september 2008, blijft van toepassing op de toekenning en vaststelling van vereveningsbijdragen over jaren gelegen voor 2009.  
+Het [Besluit zorgverzekering](../../../../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) zoals dat luidde op 14 september 2008, blijft van toepassing op de toekenning en vaststelling van vereveningsbijdragen over jaren gelegen voor 2009. 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 15 september 2008.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 15 september 2008. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

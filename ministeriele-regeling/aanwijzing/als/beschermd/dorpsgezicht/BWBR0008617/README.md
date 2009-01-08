@@ -18,8 +18,8 @@ Besluiten:     Het gebied in de gemeenten Beesel en Belfeld zoals is aangegeven 
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, 
-A.Nuis 
+A. Nuis  
 
 De 
-Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
+Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
 Margaretha deBoer    

@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In het kader van het beëindigen van de taak van De Nederlandsche Bank N.V. tot het reguleren en zoveel mogelijk stabiliseren van de waarde van de gulden en de invoering van de euro, verkrijgt De Nederlandsche Bank N.V. toestemming om eenmalig aan de Stichting Nationaal Fonds Kunstbezit gevestigd te Amsterdam een bedrag te schenken dat op eenzelfde wijze wordt berekend als het deel van de winst dat over het boekjaar 1998 zonder deze schenking met toepassing van de uit 1974 daterende regeling aan de reserve zou worden toegevoegd, onder de voorwaarde dat de daarmee aangekochte of aan te kopen kunstwerken eigendom worden van de Staat ten behoeve van openbare collecties, alsmede om alle met deze schenking verband houdende werkzaamheden te verrichten.  
+In het kader van het beëindigen van de taak van De Nederlandsche Bank N.V. tot het reguleren en zoveel mogelijk stabiliseren van de waarde van de gulden en de invoering van de euro, verkrijgt De Nederlandsche Bank N.V. toestemming om eenmalig aan de Stichting Nationaal Fonds Kunstbezit gevestigd te Amsterdam een bedrag te schenken dat op eenzelfde wijze wordt berekend als het deel van de winst dat over het boekjaar 1998 zonder deze schenking met toepassing van de uit 1974 daterende regeling aan de reserve zou worden toegevoegd, onder de voorwaarde dat de daarmee aangekochte of aan te kopen kunstwerken eigendom worden van de Staat ten behoeve van openbare collecties, alsmede om alle met deze schenking verband houdende werkzaamheden te verrichten. 
 
 ### Artikel  2  
 
@@ -25,7 +25,7 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat me
 
 's-Gravenhage 
 7 april 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Financiën, 
 G. Zalm   
@@ -33,4 +33,4 @@ G. Zalm
 de *twintigste* april 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

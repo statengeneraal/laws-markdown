@@ -18,30 +18,30 @@ Hebben goedgevonden en verstaan:
 ### Artikel  1  
 
 1.  Wanneer in geval van buitengewone omstandigheden krachtens [artikel 19 van de Kaderwet dienstplicht](../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md) dienstplichtigen in werkelijke dienst worden opgeroepen, komen niet of voorlopig niet krachtens die oproeping in werkelijke dienst de personen behorend tot de groepen, onderscheidenlijk vermeld in de bij dit besluit behorende lijsten A en B.   
-2.  Ten aanzien van elken persoon, die behoort tot een der groepen, welke in geval van buitengewone omstandigheden niet of voorloopig niet in werkelijken dienst komen, gaat de vrijstelling van opkomst in met ingang van een door Onze Minister van Defensie te bepalen datum.   
+2.   Ten aanzien van elken persoon, die behoort tot een der groepen, welke in geval van buitengewone omstandigheden niet of voorloopig niet in werkelijken dienst komen, gaat de vrijstelling van opkomst in met ingang van een door Onze Minister van Defensie te bepalen datum.  
 
 ### Artikel  2  
 
 1.  De voorloopige vrijstelling van opkomst, in art. 1, eerste lid, bedoeld, van hen, die behooren tot een der in lijst *B* vermelde groepen, wordt, naar gelang Onze Minister van Defensie daartoe termen aanwezig acht, verleend òf voor onbepaalden tijd òf voor een door dien Minister te bepalen maximum-duur.   
-2.  Voor zoover dit genoemden Minister noodig blijkt, worden reeds verleende voorloopige vrijstellingen herzien met toepassing van den regel, in het eerste lid vervat.   
+2.   Voor zoover dit genoemden Minister noodig blijkt, worden reeds verleende voorloopige vrijstellingen herzien met toepassing van den regel, in het eerste lid vervat.  
 
 ### Artikel  3  
 
-Onze Minister van Defensie is bevoegd om in werkelijken dienst zijnde dienstplichtigen, die blijken of komen te behooren tot een der in lijst *A* of lijst *B* vermelde groepen, op dien grond huiswaarts te doen zenden.  
+Onze Minister van Defensie is bevoegd om in werkelijken dienst zijnde dienstplichtigen, die blijken of komen te behooren tot een der in lijst *A* of lijst *B* vermelde groepen, op dien grond huiswaarts te doen zenden. 
 
 ### Artikel  4  
 
 1.  Houdt een dienstplichtige op tot een der in lijst *A* of lijst *B* vermelde groepen te behooren, of kan hij in zijn in lijst *B* bedoelden werkkring zonder overwegend bezwaar worden gemist of vervangen, dan is hij verplicht, zoodra dit geval zich voordoet, den werkelijken dienst te vervullen, waartoe hij dan nog verplicht zou zijn, indien hij niet tot een dezer groepen had behoord.   
-2.  Onze Minister van Defensie kan in bijzondere gevallen bepalen, dat het eerste lid niet wordt toegepast.   
+2.   Onze Minister van Defensie kan in bijzondere gevallen bepalen, dat het eerste lid niet wordt toegepast.  
 
 ### Artikel  6  
 
-Dit besluit kan worden aangehaald onder den titel van "Mobilisatie-vrijstellings-besluit".  
+Dit besluit kan worden aangehaald onder den titel van "Mobilisatie-vrijstellings-besluit". 
 
 ### Artikel  7  
 
 1.  Dit besluit treedt in werking met ingang van den tweeden dag na dien der dagteekening van het *Staatsblad*, waarin het is geplaatst.   
-2.  Alsdan vervalt Ons besluit van 3 April 1923 (*Staatsblad* nr. 119).   
+2.   Alsdan vervalt Ons besluit van 3 April 1923 (*Staatsblad* nr. 119).  
 
 Onze Minister van Defensie is belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan den Raad van State.   
 
@@ -59,33 +59,33 @@ C. GOSELING.
 
 ### Lijst  A  
 
-####Groepen van dienstplichtigen, die in geval van buitengewone omstandigheden niet in werkelijke dienst behoeven te komen.
+#### Groepen van dienstplichtigen, die in geval van buitengewone omstandigheden niet in werkelijke dienst behoeven te komen.
 
-Algemeene Rekenkamer. 
+Algemeene Rekenkamer.  
 
-1. Leden van de Algemeene Rekenkamer.   Departementen. 
+1. Leden van de Algemeene Rekenkamer.   Departementen.  
 
-2. Hoofden van Departementen van algemeen bestuur.   Diplomatieke en consulaire dienst. 
+2. Hoofden van Departementen van algemeen bestuur.   Diplomatieke en consulaire dienst.  
 
 3. Ambtenaren in Nederlandschen diplomatieken of consulairen dienst.  
 
-4. Personen, werkzaam bij of verbonden aan een Nederlandsch gezantschap of consulaat of werkzaam bij het secretariaat van den Volkenbond.   Gemeenten. 
+4. Personen, werkzaam bij of verbonden aan een Nederlandsch gezantschap of consulaat of werkzaam bij het secretariaat van den Volkenbond.   Gemeenten.  
 
 5. Gemeentesecretarissen.  
 
-6. Wethouders.   Kabinet der Koningin. 
+6. Wethouders.   Kabinet der Koningin.  
 
-7. Directeur van het Kabinet der Koningin.   Provinciën. 
+7. Directeur van het Kabinet der Koningin.   Provinciën.  
 
 8. Commissarissen der Koningin.  
 
-9. Leden van Gedeputeerde Staten.   Raad van State. 
+9. Leden van Gedeputeerde Staten.   Raad van State.  
 
-10. Leden van den Raad van State.   Rechterlijke macht. 
+10. Leden van den Raad van State.   Rechterlijke macht.  
 
-11. Leden van de rechterlijke macht.   Rijksveldwacht. 
+11. Leden van de rechterlijke macht.   Rijksveldwacht.  
 
-12. De ambtenaren van het korps bezoldigde rijksveldwacht.   Staten-Generaal. 
+12. De ambtenaren van het korps bezoldigde rijksveldwacht.   Staten-Generaal.  
 
 13. Leden van de Staten-Generaal.  
 
@@ -95,19 +95,19 @@ Algemeene Rekenkamer.
 
 ####Groepen van dienstplichtigen, die in geval van buitengewone omstandigheden voorlopig niet in werkelijke dienst behoeven te komen.
 
-Financiën 
+Financiën  
 
 1. Thesaurier-generaal bij het Departement van Financiën.  
 
 2. Agent van het Ministerie van Financiën, directeur van de grootboeken der nationale schuld.  
 
-3. Het personeel van de administratie der belastingen, voor zooveel het niet behoort tot een der jongste 7 lichtingen gewone dienstplichtigen en niet werkzaam is op arbeidsovereenkomst.   Gemeentepolitie 
+3. Het personeel van de administratie der belastingen, voor zooveel het niet behoort tot een der jongste 7 lichtingen gewone dienstplichtigen en niet werkzaam is op arbeidsovereenkomst.   Gemeentepolitie  
 
-4. De hoofdambtenaren, ambtenaren en bezoldigde beambten bij de gemeentelijke politie, wier werkkring uitsluitend tot het politiewezen beperkt is.   Rijksmunt. 
+4. De hoofdambtenaren, ambtenaren en bezoldigde beambten bij de gemeentelijke politie, wier werkkring uitsluitend tot het politiewezen beperkt is.   Rijksmunt.  
 
-5. Muntmeester van 's rijks munt.   Spoorwegen. 
+5. Muntmeester van 's rijks munt.   Spoorwegen.  
 
-6. Bestuurders, beambten en bedienden eener spoorwegonderneming, voor zoover in vasten dienst der onderneming.   Waterstaat. 
+6. Bestuurders, beambten en bedienden eener spoorwegonderneming, voor zoover in vasten dienst der onderneming.   Waterstaat.  
 
 7. Ingenieurs van den waterstaat, havenmeesters, haven- en sluispersoneel, voor zoover als zoodanig in vasten dienst van het rijk.  
 

@@ -10,21 +10,21 @@ Besluit:
 
 De volgende enzymen mogen worden toegevoegd aan meel en bij de bereiding van brood: 
 
-a. glucose-oxidase;  
+a.  glucose-oxidase; 
 
-b. lipase;  
+b.  lipase; 
 
-c. asparaginase van Aspergillus niger.    
+c. asparaginase van Aspergillus niger. 
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Warenwetregeling Enzymen in meel en brood.  
+Deze regeling wordt aangehaald als: Warenwetregeling Enzymen in meel en brood. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-E.Borst-Eilers    
+E. Borst-Eilers      

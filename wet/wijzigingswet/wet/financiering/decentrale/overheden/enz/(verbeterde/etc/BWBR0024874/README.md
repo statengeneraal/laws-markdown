@@ -11,35 +11,35 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet financiering decentrale overheden.   
+Wijzigt de Wet financiering decentrale overheden. 
 
 ### Artikel  II  
 
-Wijzigt de Provinciewet.   
+Wijzigt de Provinciewet. 
 
 ### Artikel  III  
 
-Wijzigt de Gemeentewet.   
+Wijzigt de Gemeentewet. 
 
 ### Artikel  IV  
 
-Wijzigt de Waterschapswet.   
+Wijzigt de Waterschapswet. 
 
 ### Artikel  V  
 
-Artikel I, onderdeel B, is niet van toepassing op de contracten met betrekking tot hypothecaire leningen of garanties op de verstrekking van hypothecaire leningen door andere financiële instellingen, zoals die op de dag voor de datum van inwerkingtreding van deze wet ten aanzien van het personeel en politieke ambtsdragers van openbare lichamen zijn afgesloten.  
+Artikel I, onderdeel B, is niet van toepassing op de contracten met betrekking tot hypothecaire leningen of garanties op de verstrekking van hypothecaire leningen door andere financiële instellingen, zoals die op de dag voor de datum van inwerkingtreding van deze wet ten aanzien van het personeel en politieke ambtsdragers van openbare lichamen zijn afgesloten. 
 
 ### Artikel  VI  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 30 oktober 2008  
 Beatrix  
 
-De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties , 
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties ,  
 A. Th. B. Bijleveld-Schouten   
 
 De Minister van Financiën , 

@@ -11,25 +11,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### ARTIKEL  I  
 
-Wijzigt de Wet op het specifiek cultuurbeleid.   
+Wijzigt de Wet op het specifiek cultuurbeleid.  
 
 ### ARTIKEL  II  
 
-Wijzigt de Wet tot behoud van cultuurbezit.   
+Wijzigt de Wet tot behoud van cultuurbezit.  
 
 ### ARTIKEL  III  
 
-De Tijdelijke commissie informatiebeleid, bedoeld in artikel 2 van het Besluit Tijdelijke commissie informatiebeleid, wordt in afwijking van [artikel 34, tweede lid, van de Kaderwet adviescolleges](../../../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) met ingang van 1 januari 1997 aangemerkt als een college als bedoeld in artikel 5, eerste lid, van die wet.  
+De Tijdelijke commissie informatiebeleid, bedoeld in artikel 2 van het Besluit Tijdelijke commissie informatiebeleid, wordt in afwijking van [artikel 34, tweede lid, van de Kaderwet adviescolleges](../../../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) met ingang van 1 januari 1997 aangemerkt als een college als bedoeld in artikel 5, eerste lid, van die wet. 
 
 ### ARTIKEL  IV  
 
-Deze wet treedt in werking met ingang van 1 januari 1997. Indien het *Staatsblad* waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 1996, treedt zij in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 1997.  
+Deze wet treedt in werking met ingang van 1 januari 1997. Indien het *Staatsblad* waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 1996, treedt zij in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 1997. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 14 november 1996  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, 
 A. Nuis   

@@ -11,39 +11,39 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet toezicht beleggingsinstellingen.   
+Wijzigt de Wet toezicht beleggingsinstellingen.  
 
 ### Artikel  II  
 
-Wijzigt de Wet toezicht effectenverkeer 1995.   
+Wijzigt de Wet toezicht effectenverkeer 1995.  
 
 ### Artikel  III  
 
-Wijzigt de Wet toezicht kredietwezen 1992.   
+Wijzigt de Wet toezicht kredietwezen 1992.  
 
 ### Artikel  IV  
 
-Wijzigt de Wet toezicht natura-uitvaartverzekeringsbedrijf.   
+Wijzigt de Wet toezicht natura-uitvaartverzekeringsbedrijf.  
 
 ### Artikel  V  
 
-Wijzigt de Wet toezicht verzekeringsbedrijf 1993.   
+Wijzigt de Wet toezicht verzekeringsbedrijf 1993.  
 
 ### Artikel  VI  
 
-Wijzigt de Wet melding zeggenschap 1996.   
+Wijzigt de Wet melding zeggenschap 1996.  
 
 ### Artikel  VII  
 
-Wijzigt de Wet financiële betrekkingen buitenland 1994.   
+Wijzigt de Wet financiële betrekkingen buitenland 1994.  
 
 ### Artikel  VIII  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten.  
 
 ### Artikel  IX  
 
-Wijzigt de Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds.   
+Wijzigt de Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds.  
 
 ### Artikel  X  
 
@@ -51,27 +51,27 @@ Ingeval voor het tijdstip van inwerkingtreding van deze wet:
 
 a. de in [artikel 66, eerste lid, van de Wet toezicht natura-uitvaartverzekeringsbedrijf](../../../../../../../../wet/wet/toezicht/natura-uitvaartverzekeringsbedrijf/BWBR0007477/README.md) bedoelde noodregeling is uitgesproken; of  
 
-b. de in [artikel 156, eerste lid, van de Wet toezicht verzekeringsbedrijf 1993](../../../../../../../../wet/wet/toezicht/verzekeringsbedrijf/1993/BWBR0006509/README.md) bedoelde noodregeling is uitgesproken,   blijven op de noodregeling de bepalingen van de [Wet toezicht natura-uitvaartverzekeringsbedrijf](../../../../../../../../wet/wet/toezicht/natura-uitvaartverzekeringsbedrijf/BWBR0007477/README.md) onderscheidenlijk [Wet toezicht verzekeringsbedrijf 1993](../../../../../../../../wet/wet/toezicht/verzekeringsbedrijf/1993/BWBR0006509/README.md) van toepassing die voor dat tijdstip golden.  
+b. de in [artikel 156, eerste lid, van de Wet toezicht verzekeringsbedrijf 1993](../../../../../../../../wet/wet/toezicht/verzekeringsbedrijf/1993/BWBR0006509/README.md) bedoelde noodregeling is uitgesproken,   blijven op de noodregeling de bepalingen van de [Wet toezicht natura-uitvaartverzekeringsbedrijf](../../../../../../../../wet/wet/toezicht/natura-uitvaartverzekeringsbedrijf/BWBR0007477/README.md) onderscheidenlijk [Wet toezicht verzekeringsbedrijf 1993](../../../../../../../../wet/wet/toezicht/verzekeringsbedrijf/1993/BWBR0006509/README.md) van toepassing die voor dat tijdstip golden. 
 
 ### Artikel  XI  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.  
 
 ### Artikel  XII  
 
-Wijzigt de Kaderwet financiële verstrekkingen Financiën.   
+Wijzigt de Kaderwet financiële verstrekkingen Financiën.  
 
 ### Artikel  XIII  
 
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.   
+Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.  
 
 ### Artikel  XIV  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  XV  
 
-Deze wet wordt aangehaald als: Wet actualisering en harmonisatie financiële toezichtswetten.  
+Deze wet wordt aangehaald als: Wet actualisering en harmonisatie financiële toezichtswetten. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -85,4 +85,4 @@ J. F. Hoogervorst
 de twintigste februari 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

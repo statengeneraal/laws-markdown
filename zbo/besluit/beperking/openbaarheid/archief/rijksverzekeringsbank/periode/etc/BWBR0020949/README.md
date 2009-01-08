@@ -6,7 +6,7 @@ De Voorzitter van de Raad van Bestuur,
 Gelet op [artikel 10 van het archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md);
 Besluit:    
 
-### Enig  artikel  
+###Enig artikel 
 
 Met het oog op de bescherming van de persoonlijke levenssfeer van nog levende personen, worden op grond van [artikel 15, eerste lid, onder a, van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), aan de openbaarheid van de over te brengen archiefbescheiden van het archief van de Rijksverzekeringsbank 1901–1956 de volgende beperkingen gesteld; 
 
@@ -20,11 +20,11 @@ Met het oog op de bescherming van de persoonlijke levenssfeer van nog levende pe
 
 3. Het is niet toegestaan reproducties te vervaardigen van documenten uit de dossiers, waarop deze beperkende bepalingen van toepassing zijn, zonder toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan voorwaarden verbinden aan het verlenen van zijn toestemming.  
 
-4. Publicatie van gegevens uit de ter inzage gegeven archiefbescheiden is slechts mogelijk na voorafgaande schriftelijk verkregen toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan publicatie zijn toestemming onthouden.    
+4. Publicatie van gegevens uit de ter inzage gegeven archiefbescheiden is slechts mogelijk na voorafgaande schriftelijk verkregen toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan publicatie zijn toestemming onthouden.  
 
 Amstelveen 
 24 november 2006   
 
 De 
-Voorzitter van de Raad van Bestuur, 
-E.F.Stoové   
+Voorzitter van de Raad van Bestuur,
+E.F. Stoové     

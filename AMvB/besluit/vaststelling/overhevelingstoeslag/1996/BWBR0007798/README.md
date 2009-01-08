@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De overhevelingstoeslag over het jaar 1996 is gelijk aan 10% van het loon van de werknemer, met een maximum van f 7735,-.  
+De overhevelingstoeslag over het jaar 1996 is gelijk aan 10% van het loon van de werknemer, met een maximum van f 7735,-. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 januari 1996.  
+Dit besluit treedt in werking met ingang van 1 januari 1996. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

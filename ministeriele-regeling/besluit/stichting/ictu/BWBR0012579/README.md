@@ -2,13 +2,13 @@
 
 ##Besluit Stichting ICTU
 
-De Minister voor Grote Steden- en Integratiebeleid,  Besluit:    
+De Minister voor Grote Steden- en Integratiebeleid,  Besluit:     
 
-### Artikel  1  
+###Artikel  1  
 
-In dit Besluit wordt verstaan onder:   a.  *de minister:*   de minister voor Grote Steden- en Integratiebeleid;    b.  *de stichting:*   de Stichting ICTU, een gezamenlijke ICT-implementatie-organisatie van en voor overheidsorganisaties welke op 11 april 2001 is opgericht door de Staat en de Vereniging voor Nederlandse Gemeenten;    c.  *het ministerie:*   het ministerie van Binnenlandse Zaken en Koninkrijksrelaties.     
+In dit Besluit wordt verstaan onder: a.*de minister:* de minister voor Grote Steden- en Integratiebeleid;b.*de stichting:* de Stichting ICTU, een gezamenlijke ICT-implementatie-organisatie van en voor overheidsorganisaties welke op 11 april 2001 is opgericht door de Staat en de Vereniging voor Nederlandse Gemeenten;c.*het ministerie:* het ministerie van Binnenlandse Zaken en Koninkrijksrelaties.  
 
-### Artikel  2  
+###Artikel  2  
 
 1.  De minister verstrekt in 2001 een eenmalige startbijdrage van f 4.000.000,- aan de stichting.   
 2.  De stichting zal deze startbijdrage gebruiken voor de financiering van de noodzakelijke initiële investeringen en uitgaven om ICTU operationeel te krijgen. Daarbij gaat het om investeringen ten behoeve van de nieuwe huisvesting inclusief de bijbehorende ICT-infra-structuur en uitgaven om de organisatie in te richten en op orde te krijgen.   
@@ -21,7 +21,7 @@ In dit Besluit wordt verstaan onder:   a.  *de minister:*   de minister voor Gro
 9.  Indien de in het tweede lid genoemde investeringen en uitgaven meer zullen bedragen dan f 4.000.000,- zal de startbijdrage alleen met dit meerdere worden verhoogd indien de in artikel 3 genoemde overbruggingsbijdrage daarvoor nog ruimte biedt en ten hoogste tot het bedrag van die ruimte conform hetgeen daarover in het achtste lid van artikel 3 is bepaald.   
 10.  Op de verstrekking van de startbijdrage zijn verder van toepassing de voorwaarden zoals die worden omschreven in de statuten van de stichting en in het Overdrachtsprotocol ten behoeve van de overgang van ICT-programma's en programmabureaus naar de Stichting ICTU dat zal worden afgesloten tussen de minister en de stichting.   
 
-### Artikel  3  
+###Artikel  3  
 
 1.  De minister verstrekt een eenmalige overbruggingsbijdrage van f 6.500.000,- aan de stichting.   
 2.  De stichting zal deze overbruggingsbijdrage gebruiken voor de (mede)financiering van de structurele exploitatiekosten van personele en materiele voorzieningen welke voor de oprichting van de stichting door het ministerie werden gefaciliteerd en waarin nu door de stichting zelf moet worden voorzien danwel van nieuwe personele en materiele voorzieningen welke noodzakelijkerwijs voortvloeien uit de private rechtsvorm van de stichting en die vooralsnog niet ten laste van de door ICTU uit voeren programma's kunnen worden gebracht omdat met die exploitatiekosten bij de vaststelling van de programmabudgetten nog geen rekening is gehouden.   
@@ -34,10 +34,10 @@ In dit Besluit wordt verstaan onder:   a.  *de minister:*   de minister voor Gro
 9.  In 2004 zal de overbruggingsbijdrage definitief worden vastgesteld. Indien daarbij blijkt dat de totale exploitatiekosten van de in het tweede lid genoemde voorzieningen in de jaren 2001 t/m 2003 minder bedragen dan het in het eerste lid genoemde bedrag, zal het deel van het totale voorschot over de jaren 2001 t/m 2003 dat teveel is betaald, door de stichting worden terug betaald aan het ministerie.   
 10.  Op de verstrekking van de overbruggingsbijdrage zijn verder van toepassing de voorwaarden zoals die worden omschreven in de statuten van de stichting en in het Overdrachtsprotocol ten behoeve van de overgang van ICT-programma's en programmabureaus naar de Stichting ICTU dat zal worden afgesloten tussen de minister en de stichting.   
 
-### Artikel  4  
+###Artikel  4  
 
-[Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op de in de artikel 3 genoemde overbruggingsbijdrage.  
+[Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op de in de artikel 3 genoemde overbruggingsbijdrage. 
 
 De 
 Minister voor Grote Steden- en Integratiebeleid, 
-R.H.L.M. vanBoxtel    
+R.H.L.M. van Boxtel      

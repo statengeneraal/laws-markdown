@@ -42,5 +42,5 @@ c. Stichting Bevolkingsonderzoek Borstkanker Zuidwest-Nederland (SBBZWN) te Rott
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, namens deze, de 
-directeurPublieke Gezondheid, 
-D.Ruwaard   
+directeur  Publieke Gezondheid,
+D. Ruwaard     

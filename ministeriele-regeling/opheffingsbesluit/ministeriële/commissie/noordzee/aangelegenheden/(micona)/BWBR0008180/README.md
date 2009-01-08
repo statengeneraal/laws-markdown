@@ -6,7 +6,7 @@ De Minister-President,
 Handelende in overeenstemming met het gevoelen van de ministerraad,
 
 Gelet op [artikel 25, eerste lid, van het Reglement van Orde voor de Ministerraad](../../../../../../../../rijksKB/reglement/van/orde/voor/de/ministerraad/BWBR0006501/README.md),
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -22,7 +22,7 @@ Dit besluit treedt in werking met ingang van de eerste dag van de tweede maand n
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Opheffingsbesluit Ministeriële Commissie Noordzee Aangelegenheden (MICONA).  
+Dit besluit wordt aangehaald als: Opheffingsbesluit Ministeriële Commissie Noordzee Aangelegenheden (MICONA). 
 Dit besluit zal met de toelichting in de Nederlandse Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -30,4 +30,4 @@ Dit besluit zal met de toelichting in de Nederlandse Staatscourant worden geplaa
 
 De 
 Minister-President, 
-W.Kok    
+W. Kok      

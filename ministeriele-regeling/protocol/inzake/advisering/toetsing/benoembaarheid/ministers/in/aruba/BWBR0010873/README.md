@@ -8,7 +8,7 @@ overwegende: dat het gewenst is door een commissie van deskundigen te doen onder
 handelende in overeenstemming met het gevoelen van de raad van ministers van het Koninkrijk;
 
 gelet op [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](../../../../../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md);
-Besluiten:    
+Besluiten:     
 
 ### Artikel  1  
 
@@ -56,15 +56,15 @@ Er is een Commissie van deskundigen inzake de toetsing van benoembaarheid van Ar
 
 ####Slotbepaling
 
-Het besluit wordt geplaatst in de Staatscourant en in de Landscourant van Aruba.  
+Het besluit wordt geplaatst in de Staatscourant en in de Landscourant van Aruba. 
 
 Den Haag 
 12 november 1999    
 
 De Gevolmachtigde 
 Minister van Aruba, 
-A.G.Croes. 
+A.G.Croes  . 
 
 De 
 staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, 
-G.M. deVries.    
+G.M. de Vries  .    

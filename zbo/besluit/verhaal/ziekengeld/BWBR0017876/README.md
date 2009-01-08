@@ -2,9 +2,9 @@
 
 ##Besluit verhaal ziekengeld
 
-Het Uitvoeringsinstituut werknemersverzekeringen,  
+Het Uitvoeringsinstituut werknemersverzekeringen,
 Gelet op [artikel 39a, eerste lid, van de Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md);
-Besluit:    
+Besluit:
 
 ### Artikel  1  
 
@@ -22,11 +22,11 @@ Indien de werknemer de bedongen arbeid gedeeltelijk heeft hervat of passende arb
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van 1 maart 2005.  
-Dit besluit wordt, na goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, met de toelichting in de Staatscourant geplaatst.   
+Dit besluit treedt in werking met ingang van 1 maart 2005. 
+Dit besluit wordt, na goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, met de toelichting in de Staatscourant geplaatst.
 
-Amsterdam 
-4 januari 2005    
+Amsterdam
+4 januari 2005
 
-J.M. Linthorst  
-voorzitter Raad van bestuur UWV     
+J.M.Linthorst
+voorzitter Raad van bestuur UWV

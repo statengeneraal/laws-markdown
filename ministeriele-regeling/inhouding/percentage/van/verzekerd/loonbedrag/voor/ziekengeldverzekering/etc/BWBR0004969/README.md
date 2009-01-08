@@ -15,4 +15,4 @@ b. de CAO voor de Bitumineuze dakbedekkingsbedrijven van toepassing is, op het l
 De 
 Staatssecretaris van Sociale Zaken en Werkgelegenheid, namens deze, de 
 hoofddirecteur Sociale Verzekeringen, 
-P. F. vanLoo    
+P. F. van Loo      

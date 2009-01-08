@@ -10,12 +10,12 @@ Besluit:
 
 ### Artikel  1  
 
-Het door de provincies te heffen aantal opcenten voor de periode 1 april 2008 tot en met 31 maart 2009 bedraagt ten hoogste 107,9.  
+Het door de provincies te heffen aantal opcenten voor de periode 1 april 2008 tot en met 31 maart 2009 bedraagt ten hoogste 107,9. 
 
 ### Artikel  2  
 
 1.  Deze regeling treedt in werking met ingang van 1 april 2008.   
-2.  Deze regeling wordt aangehaald als: Regeling maximum aantal provinciale opcenten motorrijtuigenbelasting 2008.   
+2.  Deze regeling wordt aangehaald als: Regeling maximum aantal provinciale opcenten motorrijtuigenbelasting 2008.  
 De regeling zal met toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -23,4 +23,4 @@ Den Haag
 
 De 
 Staatssecretaris van Financiën, 
-J.C. deJager   
+J.C. de Jager     

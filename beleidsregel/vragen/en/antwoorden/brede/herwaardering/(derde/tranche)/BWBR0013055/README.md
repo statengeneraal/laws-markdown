@@ -33,10 +33,10 @@ De eerbiedigende werking blijft behouden als het bedrag van de premies van een o
 
 ###Vraag
 
-Art. 25, dertiende lid, Wet IB1964 biedt de mogelijkheid om een lijfrente zonder heffing van belasting om te zetten in een andere zodanige lijfrente. Is het ook mogelijk om de afkoopsom van een afgekochte kapitaalverzekering met lijfrenteclausule, die onder de eerbiedigende werking valt, te gebruiken voor de aankoop van een lijfrente als bedoeld in art. 45, eerste lid, onderdeel g, onder 1 <sup>e</sup> tot en met 5 <sup>e</sup>, Wet IB 1964? 
+Art. 25, dertiende lid, Wet IB1964 biedt de mogelijkheid om een lijfrente zonder heffing van belasting om te zetten in een andere zodanige lijfrente. Is het ook mogelijk om de afkoopsom van een afgekochte kapitaalverzekering met lijfrenteclausule, die onder de eerbiedigende werking valt, te gebruiken voor de aankoop van een lijfrente als bedoeld in art. 45, eerste lid, onderdeel g, onder 1<sup>e</sup> tot en met 5<sup>e</sup>, Wet IB 1964? 
 ###Antwoord
 
-Ja, op basis van het Besluit van 31 juli 1995, DB95/1106M, is het ook mogelijk de afkoopsom van een eenmaal afgekochte lijfrente die onder de eerbiedigende werking valt en waarvoor geopteerd is dan wel geopteerd wordt voor de toepassing van het nieuwe regime, in het jaar van afkoop te benutten voor de aankoop van een lijfrente als bedoeld in art. 45, eerste lid, onderdeel g, onder 1 <sup>e</sup> tot en met 5 <sup>e</sup>, Wet IB 1964. Het is namelijk sinds 31 juli 1995 op grond van het genoemde besluit niet meer vereist dat de uitbetaling van de afkoopsom tegen de wil van belastingplichtige heeft plaats gevonden.     
+Ja, op basis van het Besluit van 31 juli 1995, DB95/1106M, is het ook mogelijk de afkoopsom van een eenmaal afgekochte lijfrente die onder de eerbiedigende werking valt en waarvoor geopteerd is dan wel geopteerd wordt voor de toepassing van het nieuwe regime, in het jaar van afkoop te benutten voor de aankoop van een lijfrente als bedoeld in art. 45, eerste lid, onderdeel g, onder 1<sup>e</sup> tot en met 5<sup>e</sup>, Wet IB 1964. Het is namelijk sinds 31 juli 1995 op grond van het genoemde besluit niet meer vereist dat de uitbetaling van de afkoopsom tegen de wil van belastingplichtige heeft plaats gevonden.     
 ### B  
 
 ####Lijfrenten; regime Brede herwaardering

@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### ARTIKEL  I  
 
-Wijzigt het koninklijk besluit van 9 augustus 1948 tot uitvoering van artikel 12 van de Wet buitengewoon pensioen 1940–1945 (Stb. I 362).   
+Wijzigt het koninklijk besluit van 9 augustus 1948 tot uitvoering van artikel 12 van de Wet buitengewoon pensioen 1940–1945 (Stb. I 362).  
 
 ### ARTIKEL  II  
 
-Wijzigt het koninklijk besluit van 6 september 1949 tot uitvoering van artikel 11 van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers (Stb. J 418).   
+Wijzigt het koninklijk besluit van 6 september 1949 tot uitvoering van artikel 11 van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers (Stb. J 418).  
 
 ### ARTIKEL  III  
 
-De definitieve vaststelling van de inkomsten, bedoeld in [artikel 12 van de Wet buitengewoon pensioen 1940–1945](../../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md) en [artikel 11 van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md), over de jaren 1997 tot en met 1999 geschiedt met toepassing van [artikel 2, eerste lid, van de koninklijke besluiten van 9 augustus 1948 tot uitvoering van artikel 12 van de Wet buitengewoon pensioen 1940–1945 (Stb. I 362)](../../../../../../../../../../../../../AMvB/besluit/tot/uitvoering/van/artikel/12/der/wet/buitengewoon/pensioen/etc/BWBR0002042/README.md) en van [6 september 1949 tot uitvoering van artikel 11 van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers (Stb. J 418)](../../../../../../../../../../../../../AMvB/besluit/ex/artikel/11/wet/buitengewoon/pensioen/etc/BWBR0002049/README.md), zoals deze luidden tot aan de inwerkingtreding van dit besluit.  
+De definitieve vaststelling van de inkomsten, bedoeld in [artikel 12 van de Wet buitengewoon pensioen 1940–1945](../../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md) en [artikel 11 van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md), over de jaren 1997 tot en met 1999 geschiedt met toepassing van [artikel 2, eerste lid, van de koninklijke besluiten van 9 augustus 1948 tot uitvoering van artikel 12 van de Wet buitengewoon pensioen 1940–1945 (Stb. I 362)](../../../../../../../../../../../../../AMvB/besluit/tot/uitvoering/van/artikel/12/der/wet/buitengewoon/pensioen/etc/BWBR0002042/README.md) en van [6 september 1949 tot uitvoering van artikel 11 van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers (Stb. J 418)](../../../../../../../../../../../../../AMvB/besluit/ex/artikel/11/wet/buitengewoon/pensioen/etc/BWBR0002049/README.md), zoals deze luidden tot aan de inwerkingtreding van dit besluit. 
 
 ### ARTIKEL  IV  
 
@@ -33,7 +33,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 's-Gravenhage 
 6 december 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Volksgezondheid, Welzijn en Sport, 
 E. Borst-Eilers   
@@ -41,4 +41,4 @@ E. Borst-Eilers
 de *veertiende* december 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

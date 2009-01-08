@@ -4,7 +4,7 @@
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
 Gelet op [artikel 62, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg](../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -16,9 +16,9 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling vacatiegelden secretaris CMT.  
+Deze regeling wordt aangehaald als: Regeling vacatiegelden secretaris CMT. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-E.Borst-Eilers    
+E. Borst-Eilers      

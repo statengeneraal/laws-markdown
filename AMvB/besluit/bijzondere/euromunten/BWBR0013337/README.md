@@ -48,15 +48,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  2  
 
-De bijzondere munten, bedoeld in [artikel 2 van de Muntwet 2002](../../../../../wet/muntwet/2002/BWBR0013064/README.md), hebben in Nederland de hoedanigheid van wettig betaalmiddel tot een bedrag van € 2 500 voor vijftig-euromunten, € 1 000 voor twintig-euromunten, € 500 voor tien-euromunten en € 250 voor vijf-euromunten.  
+De bijzondere munten, bedoeld in [artikel 2 van de Muntwet 2002](../../../../../wet/muntwet/2002/BWBR0013064/README.md), hebben in Nederland de hoedanigheid van wettig betaalmiddel tot een bedrag van € 2 500 voor vijftig-euromunten, € 1 000 voor twintig-euromunten, € 500 voor tien-euromunten en € 250 voor vijf-euromunten. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de dag waarop de [Muntwet 2002](../../../../../wet/muntwet/2002/BWBR0013064/README.md) in werking treedt.  
+Dit besluit treedt in werking met ingang van de dag waarop de [Muntwet 2002](../../../../../wet/muntwet/2002/BWBR0013064/README.md) in werking treedt. 
 
 ### Artikel  4  
 
-Dit besluit kan worden aangehaald als: Besluit bijzondere euromunten.  
+Dit besluit kan worden aangehaald als: Besluit bijzondere euromunten. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -65,7 +65,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het St
 Beatrix  
 
 De Staatssecretaris van Financiën, 
-W. J. Bos   
+W. J. Bos    
 
 de *tweeëntwintigste* januari 2002 
 

@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Degene die op 1 januari 1995 politieke ambtsdrager is of gewezen politieke ambtsdrager met recht op uitkering ter zake van zijn ontslag dan wel aftreden als zodanig, en op die datum 58 of ouder is, wordt in aanmerking gebracht voor de verlaging, bedoeld in artikel 2, derde lid , van de besluiten, genoemd in de artikelen I en II van dit besluit, zoals die besluiten zijn gewijzigd bij dit besluit, ongeacht of vorenbedoelde persoon een keuze heeft gemaakt voor die verlaging.  
+Degene die op 1 januari 1995 politieke ambtsdrager is of gewezen politieke ambtsdrager met recht op uitkering ter zake van zijn ontslag dan wel aftreden als zodanig, en op die datum 58 of ouder is, wordt in aanmerking gebracht voor de verlaging, bedoeld in artikel 2, derde lid , van de besluiten, genoemd in de artikelen I en II van dit besluit, zoals die besluiten zijn gewijzigd bij dit besluit, ongeacht of vorenbedoelde persoon een keuze heeft gemaakt voor die verlaging. 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking met ingang van 1 januari 1995. Indien het *Staatsblad* waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 1994, treedt het in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 1995.  
+Dit besluit treedt in werking met ingang van 1 januari 1995. Indien het *Staatsblad* waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 1994, treedt het in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 1995. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

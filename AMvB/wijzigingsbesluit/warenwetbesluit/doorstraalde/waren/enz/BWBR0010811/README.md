@@ -21,11 +21,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Warenwetbesluit Doorstraalde waren.   
+Wijzigt het Warenwetbesluit Doorstraalde waren.  
 
 ### Artikel  II  
 
-Wijzigt het Warenwetbesluit Etikettering van levensmiddelen.   
+Wijzigt het Warenwetbesluit Etikettering van levensmiddelen.  
 
 ### Artikel  III  
 
@@ -35,7 +35,7 @@ Lasten len bevelen dat dit besluit met de daarbij behorende nota van toelichting
 
 's-Gravenhage 
 29 oktober 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Volksgezondheid, Welzijn en Sport, 
 E. Borst-Eilers   
@@ -43,4 +43,4 @@ E. Borst-Eilers
 de *tweede* december 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

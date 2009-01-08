@@ -8,17 +8,17 @@ Besluit:
 
 ### Artikel  1  
 
-Het totaalbedrag van de bijdragen, bedoeld in [artikel 1 van het Besluit bijdrage AWBZ-gemeenten](../../../../../../AMvB/besluit/bijdrage/awbz-gemeenten/BWBR0013062/README.md), bedraagt voor het kalenderjaar 2006 € 23.321.099,–.  
+Het totaalbedrag van de bijdragen, bedoeld in [artikel 1 van het Besluit bijdrage AWBZ-gemeenten](../../../../../../AMvB/besluit/bijdrage/awbz-gemeenten/BWBR0013062/README.md), bedraagt voor het kalenderjaar 2006 € 23.321.099,–. 
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling bijdrage AWBZ-gemeenten 2006.  
+Deze regeling wordt aangehaald als: Regeling bijdrage AWBZ-gemeenten 2006. 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.  
 
 De 
 Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
-C.I.J.M.Ross-van Dorp   
+C.I.J.M. Ross-van Dorp     

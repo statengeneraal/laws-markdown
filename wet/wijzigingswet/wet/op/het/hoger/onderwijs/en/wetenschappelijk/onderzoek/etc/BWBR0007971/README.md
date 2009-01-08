@@ -15,28 +15,28 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  
 
 ### Artikel  II  
 
-Wijzigt de Wet op de studiefinanciering.   
+Wijzigt de Wet op de studiefinanciering.  
 
 ### Artikel  III  
 
-De Wet van 7 juli 1988 (*Stb*. 334) wordt ingetrokken.  
+De Wet van 7 juli 1988 (*Stb*. 334) wordt ingetrokken. 
 
 ### ARTIKEL  VIII  
 
-Deze wet treedt in werking met ingang van 1 september 1996.  
+Deze wet treedt in werking met ingang van 1 september 1996. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 28 maart 1996  
-Beatrix  
+Beatrix   
 
 De Minister van Onderwijs, Cultuur en Wetenschappen, 
-J. M. M. Ritzen   
+J. M. M. Ritzen    
 
 De Minister van Landbouw, Natuurbeheer en Visserij, 
 J. J. van Aartsen   

@@ -11,34 +11,34 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Warenwet.   
+Wijzigt de Warenwet. 
 
 ### Artikel  II  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten. 
 
 ### Artikel  III  
 
-[Artikel 27, eerste lid, van de Warenwet](../../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md), zoals dat luidde direct voorafgaande aan het tijdstip waarop artikel I, onderdeel C, in werking treedt, blijft van toepassing ten aanzien van technische voortbrengselen waar op dat tijdstip een merk van afkeuring op is aangebracht, tot het tijdstip waarop het merk wordt verwijderd, dan wel, indien dat merk van afkeuring onderwerp is van een juridische procedure, tot daarin onherroepelijk is beslist.  
+[Artikel 27, eerste lid, van de Warenwet](../../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md), zoals dat luidde direct voorafgaande aan het tijdstip waarop artikel I, onderdeel C, in werking treedt, blijft van toepassing ten aanzien van technische voortbrengselen waar op dat tijdstip een merk van afkeuring op is aangebracht, tot het tijdstip waarop het merk wordt verwijderd, dan wel, indien dat merk van afkeuring onderwerp is van een juridische procedure, tot daarin onherroepelijk is beslist. 
 
 ### Artikel  IV  
 
-Wijzigt de Warenwet en de Aanpassingswet vierde tranche Awb (Kst. 31124).   
+Wijzigt de Warenwet en de Aanpassingswet vierde tranche Awb (Kst. 31124). 
 
 ### Artikel  V  
 
-Wijzigt de Vierde tranche Algemene wet bestuursrecht (Kst. 29702).   
+Wijzigt de Vierde tranche Algemene wet bestuursrecht (Kst. 29702). 
 
 ### Artikel  VI  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  VII  
 
 1.  Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.   
-2.  Indien deze wet inwerking treedt op een tijdstip voordat artikel 11 van het voorstel van wet tot aanpassing van bijzondere wetten aan de vierde tranche van de Algemene wet bestuursrecht (Aanpassingswet vierde tranche Awb) (TK 2006–2007, 31 124, nr. 2) tot wet is verheven en in werking is getreden, treedt artikel I, onderdeel H, in afwijking van het eerste lid, in werking op het tijdstip dat dat artikel 11 in werking treedt.   
+2.  Indien deze wet inwerking treedt op een tijdstip voordat artikel 11 van het voorstel van wet tot aanpassing van bijzondere wetten aan de vierde tranche van de Algemene wet bestuursrecht (Aanpassingswet vierde tranche Awb) (TK 2006–2007, 31 124, nr. 2) tot wet is verheven en in werking is getreden, treedt artikel I, onderdeel H, in afwijking van het eerste lid, in werking op het tijdstip dat dat artikel 11 in werking treedt.  
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 2 oktober 2008  

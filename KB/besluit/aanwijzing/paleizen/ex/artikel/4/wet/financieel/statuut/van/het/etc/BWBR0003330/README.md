@@ -15,15 +15,15 @@ Hebben goegevonden en verstaan:
 
 ### Artikel  1  
 
-De paleizen, bedoeld in [artikel 4 van de Wet financieel statuut van het Koninklijk Huis](../../../../../../../../../../../../../../wet/wet/financieel/statuut/van/het/koninklijk/huis/BWBR0002845/README.md) zijn: a. het Paleis Noordeinde te ’s-Gravenhage; b. het Paleis Huis ten Bosch te ’s-Gravenhage; c. het Paleis op de Dam te Amsterdam.  
+De paleizen, bedoeld in [artikel 4 van de Wet financieel statuut van het Koninklijk Huis](../../../../../../../../../../../../../../wet/wet/financieel/statuut/van/het/koninklijk/huis/BWBR0002845/README.md) zijn: a. het Paleis Noordeinde te ’s-Gravenhage; b. het Paleis Huis ten Bosch te ’s-Gravenhage; c. het Paleis op de Dam te Amsterdam. 
 
 ### Artikel  2  
 
-Het Koninklijk besluit van 24 december 1970, houdende aanwijzing van paleizen, bedoeld in [artikel 23 van de Grondwet](../../../../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) (*Stb.* 1970, 629) wordt ingetrokken.  
+Het Koninklijk besluit van 24 december 1970, houdende aanwijzing van paleizen, bedoeld in [artikel 23 van de Grondwet](../../../../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) (*Stb.* 1970, 629) wordt ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, en werkt terug tot 1 mei 1980.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, en werkt terug tot 1 mei 1980. 
 
 Onze Minister-President, Minister van Algemene Zaken, en Onze Ministers van Financiën en van Volkshuisvesting en Ruimtelijke Ordening zijn belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst, en waarvan afschrift zal worden gezonden aan de Algemene Rekenkamer.   
 

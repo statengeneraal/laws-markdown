@@ -10,20 +10,20 @@ Besluit:
 
 ####Begripsbepalingen
 
-In deze beschikking wordt verstaan onder:    *registratie:*   de geautomatiseerde verzameling van gegevens met betrekking tot de toepassing van het militaire tuchtrecht     *houder:*   bevelhebber der Landstrijdkrachten     *bewerker:*   de directeur Personeel Koninklijke Landmacht     *uitvoerder:*   hoofd van het Duyverman Computer Centrum.     
+In deze beschikking wordt verstaan onder:   *registratie:*   de geautomatiseerde verzameling van gegevens met betrekking tot de toepassing van het militaire tuchtrecht    *houder:*   bevelhebber der Landstrijdkrachten    *bewerker:*   de directeur Personeel Koninklijke Landmacht    *uitvoerder:*   hoofd van het Duyverman Computer Centrum.    
 
 ### Artikel  2  
 
 ####Doelstelling en gebruik
 
 1.  Het doel van de registratie is het vervaardigen van overzichten ten behoeve van het nemen van rechtspositionele- en justitiële beslissingen en het uitoefenen van controle op de juiste wetstoepassing.   
-2.  De in de registratie opgenomen gegevens worden voor geen andere doeleinden gebruikt dan die met de in het eerste lid omschreven doelstelling verenigbaar zijn.   
+2.  De in de registratie opgenomen gegevens worden voor geen andere doeleinden gebruikt dan die met de in het eerste lid omschreven doelstelling verenigbaar zijn.  
 
 ### Artikel  3  
 
 ####In de registratie opgenomen gegevens
 
-De registratie kan ten hoogste bevatten de gegevens die in bijlage A zijn vermeld.  
+De registratie kan ten hoogste bevatten de gegevens die in bijlage A zijn vermeld. 
 
 ### Artikel  4  
 
@@ -31,7 +31,7 @@ De registratie kan ten hoogste bevatten de gegevens die in bijlage A zijn vermel
 
 1.  De bewerker ontvangt de desbetreffende opgemaakte formulieren, vertaalt een aantal verbale gegevens in code en controleert de ingevulde rubrieken op volledigheid. De bewerker verzorgt de omzetting van de aangeboden formulieren naar een machinaal leesbare gegevensdrager en draagt deze over aan de uitvoerder. De uitvoerder handelt overeenkomstig de voorschriften die de houder na overleg met hem opstelt.   
 2.  De uitvoerder draagt zorg voor de verwerking van de mutaties. Hij handelt hierbij overeenkomstig de voorschriften die de bewerker na overleg met hem opstelt. De bewerker draagt zorg voor een verantwoorde controle, zowel op de nauwkeurigheid van de mutaties als op de verwerking daarvan in het bestand.   
-3.  De gestrafte wordt bij het uitreiken van het desbetreffende straffenformulier gewezen op het recht van kennisneming en van correctie als bedoeld in de artikelen 7 en 8.   
+3.  De gestrafte wordt bij het uitreiken van het desbetreffende straffenformulier gewezen op het recht van kennisneming en van correctie als bedoeld in de artikelen 7 en 8.  
 
 ### Artikel  5  
 
@@ -40,19 +40,19 @@ De registratie kan ten hoogste bevatten de gegevens die in bijlage A zijn vermel
 1.  De in de registratie opgenomen gegevens worden door de houder in het kader van de in artikel 2 aangegeven doelstellingen gebruikt.   
 2.  Verstrekking van gegevens vindt – op aanvraag – plaats aan: 
 
-a. De directeur Personeel Koninklijke Landmacht uitsluitend voor het nemen van rechtspositionele beslissingen;  
+a. De directeur Personeel Koninklijke Landmacht uitsluitend voor het nemen van rechtspositionele beslissingen; 
 
-b. andere daarvoor door mij aangewezen instanties van het Ministerie van Defensie, zoals vermeld in bijlage B;  
+b. andere daarvoor door mij aangewezen instanties van het Ministerie van Defensie, zoals vermeld in bijlage B; 
 
-c. militair rechterlijke colleges, uitsluitend voor het nemen van justitiële beslissingen;  
+c. militair rechterlijke colleges, uitsluitend voor het nemen van justitiële beslissingen; 
 
-d. de geregistreerde, op diens verzoek, voor zover het gaat om uitoefening van het in artikel 7 geregelde recht op kennisneming.     
+d. de geregistreerde, op diens verzoek, voor zover het gaat om uitoefening van het in artikel 7 geregelde recht op kennisneming.   
 
 ### Artikel  6  
 
 ####Toegang tot de registratie
 
-Rechtstreeks toegang tot de registratie hebben uitsluitend en slechts binnen het kader van de hun opgedragen werkzaamheden, de door de houder aangewezen personen alsmede ambtenaren van de Algemene Rekenkamer.  
+Rechtstreeks toegang tot de registratie hebben uitsluitend en slechts binnen het kader van de hun opgedragen werkzaamheden, de door de houder aangewezen personen alsmede ambtenaren van de Algemene Rekenkamer. 
 
 ### Artikel  7  
 
@@ -60,7 +60,7 @@ Rechtstreeks toegang tot de registratie hebben uitsluitend en slechts binnen het
 
 1.  De geregistreerde heeft recht op kosteloze kennisneming van de omtrent hem geregistreerde gegevens, op de wijze als in de volgende leden bepaald.   
 2.  Een geregistreerde, die wil kennisnemen van de omtrent hem geregistreerde gegevens, wendt zich schriftelijk tot de houder.   
-3.  De houder verstrekt de aanvrager een afschrift van de gegevens, zonodig van een nadere toelichting.   
+3.  De houder verstrekt de aanvrager een afschrift van de gegevens, zonodig van een nadere toelichting.  
 
 ### Artikel  8  
 
@@ -70,20 +70,20 @@ Rechtstreeks toegang tot de registratie hebben uitsluitend en slechts binnen het
 2.  Indien de geregistreerde gebruik wil maken van zijn recht om correctie te vragen, dient hij een verzoek in bij de houder. In dat verzoek vermeldt hij de gegevens, die naar zijn mening niet juist in de registratie zijn vermeld danwel verwijderd of opgenomen moeten worden, met vermelding van de reden van de gewenste correctie.   
 3.  De houder onderzoekt de juistheid van de gevraagde correctie en draagt er zorg voor dat: 
 
-a. indien hij van oordeel is dat de correctie moet plaatsvinden, de uitvoerder de noodzakelijke verbetering, aanvulling of verwijdering zo spoedig mogelijk verricht;  
+a. indien hij van oordeel is dat de correctie moet plaatsvinden, de uitvoerder de noodzakelijke verbetering, aanvulling of verwijdering zo spoedig mogelijk verricht; 
 
-b. indien correctie heeft plaatsgevonden, verzoeker daarvan zo spoedig mogelijk in kennis wordt gesteld;  
+b. indien correctie heeft plaatsgevonden, verzoeker daarvan zo spoedig mogelijk in kennis wordt gesteld; 
 
-c. indien aan een verzoek tot correctie van de geregistreerde wordt voldaan, aan hen van wie hij kan nagaan dat zij onjuiste niet ter zake doende of onvolledige gegevens hebben ontvangen, mededeling wordt gedaan van de verbetering, verwijdering of aanvulling van gegevens. Het voorgaande geldt niet indien de verzoeker desgevraagd te kennen heeft gegeven op het doen van die mededeling geen prijs te stellen;  
+c. indien aan een verzoek tot correctie van de geregistreerde wordt voldaan, aan hen van wie hij kan nagaan dat zij onjuiste niet ter zake doende of onvolledige gegevens hebben ontvangen, mededeling wordt gedaan van de verbetering, verwijdering of aanvulling van gegevens. Het voorgaande geldt niet indien de verzoeker desgevraagd te kennen heeft gegeven op het doen van die mededeling geen prijs te stellen; 
 
-d. indien hij van mening is dat er geen aanleiding bestaat de registratie te corrigeren, dit zo spoedig mogelijk – met reden omkleed – aan verzoeker wordt meegedeeld.     
-4.  Verzoeker kan zich tot de minister van Defensie wenden met bezwaren tegen een afwijzende beslissing van de houder. De minister brengt zijn beslissing ter kennis van de verzoeker en de houder.   
+d. indien hij van mening is dat er geen aanleiding bestaat de registratie te corrigeren, dit zo spoedig mogelijk – met reden omkleed – aan verzoeker wordt meegedeeld.    
+4.  Verzoeker kan zich tot de minister van Defensie wenden met bezwaren tegen een afwijzende beslissing van de houder. De minister brengt zijn beslissing ter kennis van de verzoeker en de houder.  
 
 ### Artikel  9  
 
 ####Beveiliging
 
-De houder en de bewerker zien er op toe dat ten aanzien van de organisatie en beveiliging alle maatregelen genomen worden die zijn voorgeschreven in de Aanwijzingen van de minister-president van 16 juli 1982 (Stcrt. 1982, 156), inzake de bescherming van de persoonlijke levenssfeer in verband met geautomatiseerde systemen waarin persoonsgegevens zijn opgenomen bij de Rijksoverheid, met dien verstande dat met betrekking tot het Duyverman Computer Centrum de uitvoerder op een en ander toeziet.  
+De houder en de bewerker zien er op toe dat ten aanzien van de organisatie en beveiliging alle maatregelen genomen worden die zijn voorgeschreven in de Aanwijzingen van de minister-president van 16 juli 1982 (Stcrt. 1982, 156), inzake de bescherming van de persoonlijke levenssfeer in verband met geautomatiseerde systemen waarin persoonsgegevens zijn opgenomen bij de Rijksoverheid, met dien verstande dat met betrekking tot het Duyverman Computer Centrum de uitvoerder op een en ander toeziet. 
 
 ### Artikel  10  
 
@@ -93,11 +93,11 @@ De houder en de bewerker zien er op toe dat ten aanzien van de organisatie en be
 2.  De tuchtrechtelijke gegevens worden op onderdeelsniveau na 4 jaren verwijderd.   
 3.  Op het bepaalde in het eerste en tweede lid gelden de volgende uitzonderingen; 
 
-a. de gegevens worden verwijderd bij vertrek met groot verlof, ontslag uit militaire dienst of overlijden;  
+a. de gegevens worden verwijderd bij vertrek met groot verlof, ontslag uit militaire dienst of overlijden; 
 
-b. de gegevens worden verwijderd bij het al dan niet met goed gevolg hebben beëindigd van de opleiding tot de functie waarvoor de vrijwillig dienende militair bij zijn aanstelling is bestemd (initiële opleiding);  
+b. de gegevens worden verwijderd bij het al dan niet met goed gevolg hebben beëindigd van de opleiding tot de functie waarvoor de vrijwillig dienende militair bij zijn aanstelling is bestemd (initiële opleiding); 
 
-c. de gegevens worden verwijderd bij een effectieve bevordering van een vrijwillig dienende militair, uitgezonderd de initiële opleiding.     
+c. de gegevens worden verwijderd bij een effectieve bevordering van een vrijwillig dienende militair, uitgezonderd de initiële opleiding.   
 
 ### Artikel  11  
 
@@ -105,20 +105,20 @@ c. de gegevens worden verwijderd bij een effectieve bevordering van een vrijwill
 
 1.  Deze regeling ligt voor iedereen ter inzage bij: 
 
-a. de Sectie Juridische Zaken van de Landmachtstaf  
+a. de Sectie Juridische Zaken van de Landmachtstaf 
 
-b. de Directie Voorlichting bij het Ministerie van Defensie  
+b. de Directie Voorlichting bij het Ministerie van Defensie 
 
-c. de Centrale Bibliotheek van het Ministerie van Justitie     
+c. de Centrale Bibliotheek van het Ministerie van Justitie    
 2.  Deze regeling zal worden vermeld in het Voorschrift Toepassing Militair Straf- en Tuchtrecht (VS 27-1).   
-3.  Deze regeling zal worden opgenomen in de bundel MP 31-100/112 (Rechtspositie militairen).   
+3.  Deze regeling zal worden opgenomen in de bundel MP 31-100/112 (Rechtspositie militairen).  
 
 ### Artikel  12  
 
 ####Slotbepalingen
 
 1.  Deze beschikking kan worden aangehaald als ‘Privacy-regeling centrale registratie tuchtrechtelijke gegevens Koninklijke Landmacht 1985’ en vervangt mijn beschikking van 17 februari 1980, nr. C80/025/40.   
-2.  Deze regeling treedt in werking met ingang van 1 november 1985 en zal worden gepubliceerd in de Nederlandse Staatscourant.   
+2.  Deze regeling treedt in werking met ingang van 1 november 1985 en zal worden gepubliceerd in de Nederlandse Staatscourant.  
 
 's-Gravenhage 
 22 oktober 1985    
@@ -129,55 +129,55 @@ minister voornoemd,
 Voor deze, 
 
 De 
-secretaris-generaal
-P. C. deMan   
+secretaris-generaal 
+P. C. de Man     
 
 ### Bijlage  A  
 
 ####Samenstelling registratie
 
-a. elconr.  
+a. elconr. 
 
-b. suffix  
+b. suffix 
 
-c. volgnummer   
+c. volgnummer  
 
-1.  *Gestrafte*  
+1.  *Gestrafte* 
 
-a. registratienummer  
+a. registratienummer 
 
-b. geslachtsnaam (tot max. van 15 posities)  
+b. geslachtsnaam (tot max. van 15 posities) 
 
-c. voorzetsels (verkort)  
+c. voorzetsels (verkort) 
 
-d. voorletters  
+d. voorletters 
 
-e. rang  
+e. rang 
 
-f. categorie  
+f. categorie 
 
-g. elementair codenummer    
+g. elementair codenummer  
 
-2.  *Strafoplegger*  elementair codenummer  
+2.  *Strafoplegger* elementair codenummer 
 
-3.  *Strafoplegging*  
+3.  * Strafoplegging* 
 
-a. datum uitreiking uitspraak  
+a. datum uitreiking uitspraak 
 
-b. datum waarop feit begaan  
+b. datum waarop feit begaan 
 
-c. datum onderzoek op rapport  
+c. datum onderzoek op rapport 
 
-d. opgelegde/gewijzigde straf  
+d. opgelegde/gewijzigde straf 
 
-e. (gewijzigde) strafreden en bijz. omstandigheden  
+e. (gewijzigde) strafreden en bijz. omstandigheden 
 
-f. datum melding ingevolge art. 10 RLLu    
+f. datum melding ingevolge art. 10 RLLu  
 
-4.  *Vertrouwensman*  
+4.  * Vertrouwensman* 
 
-a. wel/geen vertrouwensman     
+a. wel/geen vertrouwensman   
 
-### Bijlage  B  
+### Bijlage   B  
 
 P.M. 

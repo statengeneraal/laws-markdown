@@ -2,9 +2,9 @@
 
 ##Wet van 26 maart 1998, houdende regels inzake gemeenschappelijke wisselkoersarrangementen van de euro, alsmede wijziging van enkele andere wetten
 
-Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
+Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz. 
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
 Alzo Wij in overweging genomen hebben, dat het noodzakelijk is met het oog op de deelneming van Nederland aan de derde fase van de Economische en Monetaire Unie wetgeving aan te passen en daarbij een nieuwe voorziening te treffen met betrekking tot de wisselkoers van de euro ten opzichte van de valuta van lid-staten die niet tot het eurogebied behoren;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
@@ -12,15 +12,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-In deze wet wordt verstaan onder: 
+In deze wet wordt verstaan onder:  
 
-a. wisselkoersarrangementen: regelingen betreffende de wisselkoers als bedoeld in artikel IV, sectie 2, van de Artikelen van Overeenkomst van het Internationale Monetaire Fonds;  
+a. wisselkoersarrangementen: regelingen betreffende de wisselkoers als bedoeld in artikel IV, sectie 2, van de Artikelen van Overeenkomst van het Internationale Monetaire Fonds;   
 
-b. lid-staat: een staat die lid is van de Europese Gemeenschap;  
+b. lid-staat: een staat die lid is van de Europese Gemeenschap;   
 
-c. lid-staten van het eurogebied; lid-staten die, conform artikel 109J, lid 4, of artikel 109K, lid 2, van het Verdrag tot oprichting van de Europese Gemeenschap, de gemeenschappelijke munt genaamd euro hebben aangenomen;  
+c. lid-staten van het eurogebied; lid-staten die, conform artikel 109J, lid 4, of artikel 109K, lid 2, van het Verdrag tot oprichting van de Europese Gemeenschap, de gemeenschappelijke munt genaamd euro hebben aangenomen;   
 
-d. Onze Minister: Onze Minister van Financiën;  
+d. Onze Minister: Onze Minister van Financiën;   
 
 e. de Bank: De Nederlandsche Bank N.V.    
 
@@ -38,23 +38,23 @@ De Wet inzake de wisselkoers van de gulden wordt ingetrokken.
 
 ### HOOFDSTUK  2  
 
-####WIJZIGING VAN ANDERE WETTEN
+####WIJZIGING VAN ANDERE WETTEN 
 
 ### Artikel  5  
 
-Wijzigt de Wet financiële betrekkingen buitenland 1994.   
+Wijzigt de Wet financiële betrekkingen buitenland 1994.  
 
 ### Artikel  6  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten.  
 
 ### Artikel  7  
 
-Wijzigt de Wet toezicht effectenverkeer 1995.   
+Wijzigt de Wet toezicht effectenverkeer 1995.  
 
 ### HOOFDSTUK  3  
 
-####SLOTBEPALING
+####SLOTBEPALING 
 
 ### Artikel  8  
 
@@ -63,13 +63,13 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
-26 maart 1998  
-Beatrix  
+26 maart 1998   
+Beatrix   
 
-De Minister van Financiën, 
-G. Zalm   
+De Minister van Financiën,  
+G. Zalm    
 
-de *negende* april 1998 
+de *negende* april 1998  
 
-De Minister van Justitie, 
-W. Sorgdrager    
+De Minister van Justitie,  
+W. Sorgdrager     

@@ -8,7 +8,7 @@ Gelet op [artikel 14 van de Wet tarieven gezondheidszorg](../../../../../../../.
 Gelezen de brief van het Centraal orgaan tarieven gezondheidszorg, (brief van 22 oktober 1997, kenmerk HV/tbk/A/97/121), vastgesteld in de vergadering van 20 oktober 1997;
 
 Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brief van 27 april 1998, kenmerk VPZ/P-981372);
-Besluiten:    
+Besluiten:     
 
 ### Artikel  1  
 
@@ -28,13 +28,13 @@ De aanwijzing van 5 december 1997 (VPZ/P-974432) wordt ingetrokken.
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-E.Borst-Eilers 
+E. Borst-Eilers  
 
 De 
-Minister van Economische Zaken, a.i. 
+Minister van Economische Zaken, a.i.
 G.Zalm    

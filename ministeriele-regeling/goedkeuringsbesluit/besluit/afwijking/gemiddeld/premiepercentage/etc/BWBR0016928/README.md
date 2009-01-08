@@ -10,5 +10,5 @@ Den Haag
 29 juni 2004    
 
 De 
-Minister van Sociale Zaken en Werkgelegenheid
-A.J. deGeus    
+Minister van Sociale Zaken en Werkgelegenheid 
+A.J. de Geus      

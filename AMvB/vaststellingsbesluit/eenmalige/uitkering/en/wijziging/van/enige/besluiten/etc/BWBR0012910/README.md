@@ -15,43 +15,43 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Algemeen militair ambtenarenreglement.   
+Wijzigt het Algemeen militair ambtenarenreglement.  
 
 ### Artikel  II  
 
-Wijzigt het Besluit dienstreizen defensie.   
+Wijzigt het Besluit dienstreizen defensie.  
 
 ### Artikel  III  
 
-Wijzigt het Besluit personenchauffeurs defensie.   
+Wijzigt het Besluit personenchauffeurs defensie.  
 
 ### Artikel  IV  
 
-Wijzigt het Bezoldigingsbesluit burgerlijke ambtenaren defensie.   
+Wijzigt het Bezoldigingsbesluit burgerlijke ambtenaren defensie.  
 
 ### Artikel  V  
 
-Wijzigt het Burgerlijk ambtenarenreglement Defensie.   
+Wijzigt het Burgerlijk ambtenarenreglement Defensie.  
 
 ### Artikel  VI  
 
-Wijzigt het Inkomstenbesluit militairen.   
+Wijzigt het Inkomstenbesluit militairen.  
 
 ### Artikel  VII  
 
-Wijzigt de Premieregeling en aanvullende voorzieningen beroepsmilitairen van de krijgsmacht.   
+Wijzigt de Premieregeling en aanvullende voorzieningen beroepsmilitairen van de krijgsmacht.  
 
 ### Artikel  VIII  
 
-Wijzigt de Regeling ziektekostenvoorziening defensiepersoneel.   
+Wijzigt de Regeling ziektekostenvoorziening defensiepersoneel.  
 
 ### Artikel  IX  
 
-Wijzigt de Toelageregeling afschaffing tariefbeloning defensie.   
+Wijzigt de Toelageregeling afschaffing tariefbeloning defensie.  
 
 ### Artikel  X  
 
-Wijzigt het Verplaatsingskostenbesluit militairen.   
+Wijzigt het Verplaatsingskostenbesluit militairen.  
 
 ### Artikel  XI  
 
@@ -85,11 +85,11 @@ B. De betrokkene, bedoeld in onderdeel A, onder b, 1 tot en met 3, heeft aanspra
 
 C. De betrokkene, bedoeld in onderdeel A, onder b, 4 en 5, heeft aanspraak op een eenmalige uitkering ter grootte van 12% van de voor hem geldende berekeningsbasis.  
 
-D. De eenmalige uitkering als bedoeld onder B en C heeft geen algemeen karakter en wordt niet gerekend tot de bezoldiging of het salaris in de zin van de bezoldigingsvoorschriften. De eenmalige uitkering maakt evenmin deel uit van de bij het vaststellen van de pensioengrondslag bedoeld in artikel C1 van de Algemeen militaire pensioenwet in beschouwing te nemen inkomsten en emolumenten, waarop de gewezen militair aanspraak had of zou hebben gehad.    
+D. De eenmalige uitkering als bedoeld onder B en C heeft geen algemeen karakter en wordt niet gerekend tot de bezoldiging of het salaris in de zin van de bezoldigingsvoorschriften. De eenmalige uitkering maakt evenmin deel uit van de bij het vaststellen van de pensioengrondslag bedoeld in artikel C1 van de Algemeen militaire pensioenwet in beschouwing te nemen inkomsten en emolumenten, waarop de gewezen militair aanspraak had of zou hebben gehad.   
 
 ### Artikel  XII  
 
-####Overgangsbepalingen
+#### Overgangsbepalingen
 
 A. In afwijking van de [artikelen 54d, tweede lid](../../../../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md), en [artikel 54e, derde lid, van het Algemeen militair ambtenarenreglement](../../../../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) en [artikel 30da, tweede lid](../../../../../../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), en [artikel 30db, tweede lid, van het Burgerlijk ambtenarenreglement defensie](../../../../../../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), dient een aanvraag voor een tijdelijke verlenging of verkorting van de arbeidsduur van het rooster voor het resterende deel van het kalenderjaar 2001 vóór 15 mei 2001 te zijn ingediend bij de commandant of het bevoegd gezag. B. In afwijking van artikel I, onderdeel J, geldt ten aanzien van het eerste en tweede lid van [artikel 71a van het Algemeen militair ambtenarenreglement](../../../../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) voor de periode van 1 juni 2001 tot 1 juli 2001 het volgende: 
 
@@ -109,7 +109,7 @@ A. In afwijking van de [artikelen 54d, tweede lid](../../../../../../../../../..
 | J19  | f 1 870,–  | f 1 910,–  |
 | J18  | f 1 603,–  | f 1 637,–  |
 
-F. In afwijking van artikel IV, onderdeel G wordt in [artikel 22, tweede lid, van het Bezoldigingsbesluit burgerlijke ambtenaren defensie](../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/ambtenaren/defensie/BWBR0006038/README.md) voor de periode van 1 augustus 2000 tot 1 januari 2001 het minimumbedrag van de vakantieuitkering bepaald op: f 274,18. G. In afwijking van artikel IV, onderdeel I, gelden ten aanzien van de salarisschalen, opgenomen in bijlage B van het [Bezoldigingsbesluit burgerlijke ambtenaren defensie](../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/ambtenaren/defensie/BWBR0006038/README.md) voor de periode van 1 augustus 2000 tot 1 januari 2001 de salarisschalen opgenomen als bijlage 6 bij dit besluit. H. In afwijking van artikel IV, onderdeel B, geldt ten aanzien van de salarisschaal, opgenomen in [artikel 7a van het Bezoldigingsbesluit burgerlijke ambtenaren defensie](../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/ambtenaren/defensie/BWBR0006038/README.md) voor de periode van 1 januari 2001 tot 1 juni 2001 de volgende salarisschaal:  
+F. In afwijking van artikel IV, onderdeel G wordt in[ artikel 22, tweede lid, van het Bezoldigingsbesluit burgerlijke ambtenaren defensie](../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/ambtenaren/defensie/BWBR0006038/README.md) voor de periode van 1 augustus 2000 tot 1 januari 2001 het minimumbedrag van de vakantieuitkering bepaald op: f 274,18. G. In afwijking van artikel IV, onderdeel I, gelden ten aanzien van de salarisschalen, opgenomen in bijlage B van het [Bezoldigingsbesluit burgerlijke ambtenaren defensie](../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/ambtenaren/defensie/BWBR0006038/README.md) voor de periode van 1 augustus 2000 tot 1 januari 2001 de salarisschalen opgenomen als bijlage 6 bij dit besluit. H. In afwijking van artikel IV, onderdeel B, geldt ten aanzien van de salarisschaal, opgenomen in [artikel 7a van het Bezoldigingsbesluit burgerlijke ambtenaren defensie](../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/ambtenaren/defensie/BWBR0006038/README.md) voor de periode van 1 januari 2001 tot 1 juni 2001 de volgende salarisschaal:  
 
 |--- | Schaal 1  | Schaal 2  |
 |:---|:---|:---|
@@ -121,7 +121,7 @@ F. In afwijking van artikel IV, onderdeel G wordt in [artikel 22, tweede lid, va
 
 I. In afwijking van artikel V, onderdeel E, vervalt in artikel 66 het vierde lid, zoals dat luidde op 31 december 2000, voor de periode van 1 januari 2001 tot de datum van inwerkingtreding van artikel V, onderdeel E. J. In afwijking van artikel VI, onderdeel D, geldt ten aanzien van de salarisschaal, opgenomen in [artikel 5a van het Inkomstenbesluit militairen](../../../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) voor de periode van 1 augustus 2000 tot 1 januari 2001 de volgende salarisschaal:  
 
-| diensttijd  | matr3/sld  | matr2/sld1  |
+|  diensttijd  | matr3/sld  | matr2/sld1  |
 |:---|:---|:---|
 | J18  | f 1 710,–  | f 1 745,–  |
 | J19  | f 1 995,–  | f 2 036,–  |
@@ -132,7 +132,7 @@ I. In afwijking van artikel V, onderdeel E, vervalt in artikel 66 het vierde lid
 
 K. In afwijking van artikel VI, onderdeel K, wordt in [artikel 14, tweede lid, van het Inkomstenbesluit militairen](../../../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) voor de periode van 1 augustus 2000 tot 1 januari 2001 het minimumbedrag van de vakantieuitkering bepaald op: f 274,18. L. In afwijking van artikel VI, onderdeel P, gelden ten aanzien van de salarisschalen, opgenomen in [bijlagen A](../../../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) en [B van het Inkomstenbesluit militairen](../../../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) voor de periode van 1 augustus 2000 tot 1 januari 2001 de salarisschalen opgenomen als bijlagen 7 en 8 bij dit besluit. M. In afwijking van artikel VI, onderdelen Q en R, gelden ten aanzien van de tabellen 1 tot en met 3 opgenomen in [bijlage C van het Inkomstenbesluit militairen](../../../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) voor de periode van 1 augustus 2000 tot 1 januari 2001 de tabellen opgenomen als bijlagen 9 tot en met 11 bij dit besluit. N. In afwijking van artikel IV, onderdeel I, gelden ten aanzien van de salarisschalen, opgenomen in [bijlage B van het Bezoldigingsbesluit burgerlijke ambtenaren defensie](../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/ambtenaren/defensie/BWBR0006038/README.md) voor de periode van 1 januari 2001 tot 1 juni 2001 de salarisschalen opgenomen als bijlage 12 bij dit besluit. O. In afwijking van artikel VI, onderdeel D, geldt ten aanzien van de salarisschaal, opgenomen in [artikel 5a van het Inkomstenbesluit militairen](../../../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) voor de periode van 1 januari 2001 tot 1 juni 2001 de volgende salarisschaal:  
 
-| diensttijd  | matr3/sld  | matr2/sld1  |
+|  diensttijd  | matr3/sld  | matr2/sld1  |
 |:---|:---|:---|
 | J18  | f 1 742,–  | f 1 778,–  |
 | J19  | f 2 033,–  | f 2 075,–  |
@@ -153,7 +153,7 @@ b. bij een verplichting van drie tot vier jaar: 23%;
 
 c. bij een verplichting van twee tot drie jaar: 21%;  
 
-d. bij een verplichting van minder dan twee jaar: 20%.      
+d. bij een verplichting van minder dan twee jaar: 20%.     
 
 ### Artikel  XIII  
 
@@ -171,11 +171,11 @@ d. artikel I, onderdeel AA; artikel III onderdeel B; artikel IV onderdeel G, ond
 
 e. artikel I, onderdeel Z; en artikel VIII, terugwerken tot en met 1 maart 2001;  
 
-f. artikel I, onderdelen G tot en met L, onderdelen N tot en met T en onderdelen V tot en met X; artikel II; artikel V“V” moet zijn “IV”, onderdelen A tot en met E, onderdeel G onder 2, en onderdeel I; artikel V, onderdelen F en H; artikel VI, onderdelen A tot en met H, onderdeel J, onderdeel K, onder 2, en onderdelen M tot en met Q; artikel VII, onderdelen A t /m C en F; en artikel X, terugwerken tot en met 1 juni 2001;  
+f. artikel I, onderdelen G tot en met L, onderdelen N tot en met T en onderdelen V tot en met X; artikel II; artikel V “V” moet zijn “IV”, onderdelen A tot en met E, onderdeel G onder 2, en onderdeel I; artikel V, onderdelen F en H; artikel VI, onderdelen A tot en met H, onderdeel J, onderdeel K, onder 2, en onderdelen M tot en met Q; artikel VII, onderdelen A t/m C en F; en artikel X, terugwerken tot en met 1 juni 2001;  
 
-g. artikel I, onderdelen C t /m F, M en U; artikel V, onderdelen B t /m E; en artikel VII, onderdeel D, terugwerken tot en met 1 juli 2001;  
+g. artikel I, onderdelen C t/m F, M en U; artikel V, onderdelen B t/m E; en artikel VII, onderdeel D, terugwerken tot en met 1 juli 2001;  
 
-h. artikel I, onderdelen A en B; en artikel VI, onderdeel I, in werking treden met ingang van 1 januari 2002.    
+h. artikel I, onderdelen A en B; en artikel VI, onderdeel I, in werking treden met ingang van 1 januari 2002.   
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -189,7 +189,7 @@ H. A. L. van Hoof
 de *zesde* november 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     
 
 ### Bijlage  1  
 
@@ -199,7 +199,7 @@ Wijzigt het Bezoldigingsbesluit burgerlijke ambtenaren defensie.
 
 ### Bijlage  2  
 
-####behorende bij artikel VI onder O 
+#### behorende bij artikel VI onder O 
 
 Wijzigt het Inkomstenbesluit militairen.  
 
@@ -230,10 +230,10 @@ Wijzigt het Inkomstenbesluit militairen.
 van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader (hoofd- en niveaugroepen) waarbinnen aard en niveau van de functies worden bepaald, alsmede de daarbij behorende salarisschalen voor de ambtenaren 
 ###Per 1 augustus 2000
 
-| HOOFDGROEP I (maandbedragen in guldens)  |
+|  HOOFDGROEP I (maandbedragen in guldens)  |
 |:---|
 | Niveaugroep Ia  | Niveaugroep Ib  | Niveaugroep Ic  |
-| Schaal 1  | Schaal 2  | Schaal 3  |
+| Schaal 1  | Schaal 2   | Schaal 3  |
 | --- | –  | --- | –  | 9  | 3 820  |
 | --- | –  | --- | –  | 8  | 3 716  |
 | --- | –  | 7  | 3 500  | 7  | 3 608  |
@@ -243,19 +243,19 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 | 3  | 2 961  | 3  | 3 090  | 3  | 3 090  |
 | 2  | 2 907  | 2  | 2 961  | 2  | 2 961  |
 | 1  | 2 788  | 1  | 2 850  | 1  | 2 850  |
-| 0  | 2 482  | 0  | 2 603  | 0  | 2 788  |
-| J 21  | 2 171  | J 21  | 2 233  | J 21  | 2 509  |
-| J 20  | 1 923  | J 20  | 1 985  | J 20  | 2 230  |
-| J 19  | 1 675  | J 19  | 1 737  | J 19  | 1 952  |
-| J 18  | 1 427  | J 18  | 1 489  | J 18  | 1 673  |
-| J 17  | 1 335  | J 17  | 1 364  | J 17  | 1 394  |
-| J 16  | 1 335  | J 16  | 1 364  | J 16  | 1 394  |
+| 0  | 2 482  | 0  | 2 603  | 0  | 2 788   |
+| J 21  | 2 171  | J 21  | 2 233  | J 21  | 2 509   |
+| J 20  | 1 923  | J 20  | 1 985  | J 20  | 2 230   |
+| J 19  | 1 675  | J 19  | 1 737  | J 19  | 1 952   |
+| J 18  | 1 427  | J 18  | 1 489  | J 18  | 1 673   |
+| J 17  | 1 335  | J 17  | 1 364  | J 17  | 1 394   |
+| J 16  | 1 335  | J 16  | 1 364  | J 16  | 1 394   |
 | J 15  | 1 335  | J 15  | 1 364  | --- | –  |
 
-| HOOFDGROEP II (maandbedragen in guldens)  |
+|  HOOFDGROEP II (maandbedragen in guldens)  |
 |:---|
 | Niveaugroep IIa  | Niveaugroep IIb  | Niveaugroep IIc  | Niveaugroep IId  |
-| Schaal 3  | Schaal 4  | Schaal 5  | Schaal 6  |
+| Schaal 3  | Schaal 4   | Schaal 5  | Schaal 6  |
 | --- | –  | 10  | 4 027  | 10  | 4 234  | 10  | 4 436  |
 | 9  | 3 820  | 9  | 3 924  | 9  | 4 127  | 9  | 4 337  |
 | 8  | 3 716  | 8  | 3 820  | 8  | 4 027  | 8  | 4 234  |
@@ -266,18 +266,18 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 | 3  | 3 090  | 3  | 3 174  | 3  | 3 500  | 3  | 3 716  |
 | 2  | 2 961  | 2  | 3 024  | 2  | 3 271  | 2  | 3 500  |
 | 1  | 2 850  | 1  | 2 907  | 1  | 3 090  | 1  | 3 271  |
-| 0  | 2 788  | 0  | 2 850  | 0  | 2 961  | 0  | 3 174  |
-| J 21  | 2 509  | J 21  | 2 565  | J 21  | 2 665  | --- | –  |
-| J 20  | 2 230  | J 20  | 2 280  | J 20  | 2 369  | --- | –  |
-| J 19  | 1 952  | J 19  | 1 995  | J 19  | 2 073  | --- | –  |
-| J 18  | 1 673  | J 18  | 1 710  | J 18  | 1 777  | --- | –  |
-| J 17  | 1 394  | J 17  | 1 425  | J 17  | 1 481  | --- | –  |
+| 0  | 2 788  | 0  | 2 850  | 0  | 2 961  | 0  | 3 174   |
+| J 21  | 2 509  | J 21  | 2 565  | J 21  | 2 665  | --- | –   |
+| J 20  | 2 230  | J 20  | 2 280  | J 20  | 2 369  | --- | –   |
+| J 19  | 1 952  | J 19  | 1 995  | J 19  | 2 073  | --- | –   |
+| J 18  | 1 673  | J 18  | 1 710  | J 18  | 1 777  | --- | –   |
+| J 17  | 1 394  | J 17  | 1 425  | J 17  | 1 481  | --- | –   |
 | J 16  | 1 394  | J 16  | 1 425  | --- | –  | --- | –  |
 
-| HOOFDGROEP III (maandbedragen in guldens)  |
+|  HOOFDGROEP III (maandbedragen in guldens)  |
 |:---|
-| Niveaugroep IIIa  | Niveaugroep IIIb  | Niveaugroep IIIc  |
-| Schaal 5  | Schaal 6  | Schaal 7  |
+| Niveaugroep IIIa  | Niveaugroep IIIb  | Niveaugroep IIIc   |
+| Schaal 5  | Schaal 6   | Schaal 7  |
 | 10  | 4 234  | 10  | 4 436  | 10  | 4 893  |
 | 9  | 4 127  | 9  | 4 337  | 9  | 4 765  |
 | 8  | 4 027  | 8  | 4 234  | 8  | 4 652  |
@@ -289,32 +289,32 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 | 2  | 3 271  | 2  | 3 500  | 2  | 3 924  |
 | 1  | 3 090  | 1  | 3 271  | 1  | 3 716  |
 | 0  | 2 961  | 0  | 3 174  | 0  | 3 608  |
-| J 21  | 2 665  | --- | –  | --- | –  |
-| J 20  | 2 369  | --- | –  | --- | –  |
+| J 21  | 2 665  | --- | –  | --- | –   |
+| J 20  | 2 369  | --- | –  | --- | –   |
 | J 19  | 2 073  | --- | –  | --- | –  |
-| J 18  | 1 777  | --- | –  | --- | –  |
+| J 18  | 1 777  | --- | –  | --- | –   |
 | J 17  | 1 481  | --- | –  | --- | –  |
 
-| HOOFDGROEP III (maandbedragen in guldens)  |
+|  HOOFDGROEP III (maandbedragen in guldens)  |
 |:---|
 | Niveaugroep IIId  | Niveaugroep IIIe  | --- |
 | Schaal 8  | Schaal 9  | --- |
 | 10  | 5 542  | --- | –  | --- | --- |
-| 9  | 5 444  | --- | –  | --- | --- |
+| 9  | 5 444  | --- | –   | --- | --- |
 | 8  | 5 338  | 8  | 6 271  | --- | --- |
-| 7  | 5 224  | 7  | 6 065  | --- | --- |
+| 7  | 5 224  | 7  | 6 065   | --- | --- |
 | 6  | 5 113  | 6  | 5 841  | --- | --- |
-| 5  | 5 011  | 5  | 5 641  | --- | --- |
+| 5  | 5 011  | 5  | 5 641   | --- | --- |
 | 4  | 4 893  | 4  | 5 444  | --- | --- |
-| 3  | 4 765  | 3  | 5 224  | --- | --- |
+| 3  | 4 765  | 3  | 5 224   | --- | --- |
 | 2  | 4 543  | 2  | 5 011  | --- | --- |
-| 1  | 4 337  | 1  | 4 765  | --- | --- |
+| 1  | 4 337  | 1  | 4 765   | --- | --- |
 | 0  | 4 127  | 0  | 4 543  | --- | --- |
 
-| HOOFDGROEP IV (maandbedragen in guldens)  |
+|  HOOFDGROEP IV (maandbedragen in guldens)  |
 |:---|
-| Niveaugroep IVa  | Niveaugroep IVb  | Niveaugroep IVc  |
-| Schaal 8  | Schaal 9  | Schaal 10  |
+| Niveaugroep IVa  | Niveaugroep IVb  | Niveaugroep IVc   |
+| Schaal 8  | Schaal 9   | Schaal 10  |
 | --- | –  | --- | –  | 12  | 6 876  |
 | --- | –  | --- | –  | 11  | 6 661  |
 | 10  | 5 542  | --- | –  | 10  | 6 469  |
@@ -329,27 +329,27 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 | 1  | 4 337  | 1  | 4 765  | 1  | 4 543  |
 | 0  | 4 127  | 0  | 4 543  | 0  | 4 337  |
 
-| HOOFDGROEP IV (maandbedragen in guldens)  |
+|  HOOFDGROEP IV (maandbedragen in guldens)  |
 |:---|
 | Niveaugroep IVd  | Niveaugroep IVe  | --- |
 | Schaal 11  | Schaal 12  | --- |
 | 11  | 8 039  | --- | –  | --- | --- |
-| 10  | 7 930  | 10  | 9 162  | --- | --- |
+| 10  | 7 930  | 10  | 9 162   | --- | --- |
 | 9  | 7 727  | 9  | 9 033  | --- | --- |
-| 8  | 7 517  | 8  | 8 769  | --- | --- |
+| 8  | 7 517  | 8  | 8 769   | --- | --- |
 | 7  | 7 307  | 7  | 8 558  | --- | --- |
-| 6  | 7 096  | 6  | 8 356  | --- | --- |
+| 6  | 7 096  | 6  | 8 356   | --- | --- |
 | 5  | 6 876  | 5  | 8 145  | --- | --- |
-| 4  | 6 661  | 4  | 7 930  | --- | --- |
+| 4  | 6 661  | 4  | 7 930   | --- | --- |
 | 3  | 6 469  | 3  | 7 727  | --- | --- |
-| 2  | 6 271  | 2  | 7 517  | --- | --- |
+| 2  | 6 271  | 2  | 7 517   | --- | --- |
 | 1  | 6 065  | 1  | 7 307  | --- | --- |
 | 0  | 5 841  | 0  | 7 096  | --- | --- |
 
-| HOOFDGROEP V (maandbedragen in guldens)  |
+|  HOOFDGROEP V (maandbedragen in guldens)  |
 |:---|
-| Niveaugroep Va  | Niveaugroep Vb  | Niveaugroep Vc  |
-| Schaal 10  | Schaal 11  | Schaal 12  |
+| Niveaugroep Va  | Niveaugroep Vb  | Niveaugroep Vc   |
+| Schaal 10  | Schaal 11   | Schaal 12  |
 | 12  | 6 876  | --- | –  | --- | –  |
 | 11  | 6 661  | 11  | 8 039  | --- | –  |
 | 10  | 6 469  | 10  | 7 930  | 10  | 9 162  |
@@ -364,10 +364,10 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 | 1  | 4 543  | 1  | 6 065  | 1  | 7 307  |
 | 0  | 4 337  | 0  | 5 841  | 0  | 7 096  |
 
-| HOOFDGROEP V (maandbedragen in guldens)  |
+|  HOOFDGROEP V (maandbedragen in guldens)  |
 |:---|
-| Niveaugroep Vd  | Niveaugroep Ve  | Niveaugroep Vf  |
-| Schaal 13  | Schaal 14  | Schaal 15  |
+| Niveaugroep Vd  | Niveaugroep Ve  | Niveaugroep Vf   |
+| Schaal 13  | Schaal 14   | Schaal 15  |
 | 10  | 10 226  | 10  | 11 298  | 10  | 12 427  |
 | 9  | 10 087  | 9  | 10 945  | 9  | 12 039  |
 | 8  | 9 950  | 8  | 10 651  | 8  | 11 663  |
@@ -380,10 +380,10 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 | 1  | 8 356  | 1  | 8 769  | 1  | 9 559  |
 | 0  | 8 145  | 0  | 8 558  | 0  | 9 295  |
 
-| HOOFDGROEP VI (maandbedragen in guldens)  |
+|  HOOFDGROEP VI (maandbedragen in guldens)  |
 |:---|
 | Niveaugroep VIa  | Niveaugroep VIb  | Niveaugroep VIc  | Niveaugroep VId  |
-| Schaal 13  | Schaal 14  | Schaal 15  | Schaal 16  |
+| Schaal 13  | Schaal 14   | Schaal 15  | Schaal 16  |
 | 10  | 10 226  | 10  | 11 298  | 10  | 12 427  | 10  | 13 479  |
 | 9  | 10 087  | 9  | 10 945  | 9  | 12 039  | 9  | 13 242  |
 | 8  | 9 950  | 8  | 10 651  | 8  | 11 663  | 8  | 12 828  |
@@ -404,7 +404,7 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 
 (IBM, artikel 4, eerste lid) Salarisschalen voor de militairen van de Koninklijke marine (met ingang van 1 augustus 2000)  
 
-| diensttijd  | matr3  | matr2  | matr1  | kpl  | sgt  | smjr  | aoo  | ltz3  | ltz2  | ltz2oc  | ltz1  | kltz  | ktz  | cdr  | sbn  | vadm  | ltadm vadm∗  |
+|  diensttijd  | matr3  | matr2  | matr1  | kpl  | sgt  | smjr  | aoo  | ltz3  | ltz2  | ltz2oc  | ltz1  | kltz  | ktz  | cdr  | sbn  | vadm  | ltadm vadm∗  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | J16  | 1 425  | 1 455  | 1 704  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
 | J17  | 1 425  | 1 455  | 1 704  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
@@ -457,7 +457,7 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 
 (IBM, artikel 4, eerste lid) Salarisschalen voor de militairen van de Koninklijke landmacht en de Koninklijke luchtmacht (met ingang van 1 augustus 2000)  
 
-| dienst- tijd  | sld  | sld1  | kpl  | kpl1  | sgt  | sgt1  | sm  | aoo  | opz  | kap  | tlnt  | elnt  | kap  | maj  | lkol  | kol  | bgen  | genm  | lgen genm∗∗  | gen lgen∗  |
+|  dienst- tijd  | sld  | sld1  | kpl  | kpl1  | sgt  | sgt1  | sm  | aoo  | opz  | kap  | tlnt  | elnt  | kap  | maj  | lkol  | kol  | bgen  | genm  | lgen genm∗∗  | gen lgen∗  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | J16  | 1 425  | 1 455  | 1 514  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
 | J17  | 1 425  | 1 455  | 1 514  | 1 604  | 1 696  | –  | –  | 1 831  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
@@ -511,11 +511,11 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 (IBM, artikelen 4, 5 en 24) Bedragen met ingang van 1 augustus 2000 
 ###Tabel 1: Verlenging salarisschaal Ltz1 (IBM, artikel 4, tweede lid)
 
-| diensttijd  | bedrag  |
+|  diensttijd  | bedrag  |
 |:---|:---|
-| 25 . . . . .  | 9 250  |
-| 26 . . . . .  | 9 333  |
-| 27 . . . . .  | 9 563  |
+| 25 . . . . .   | 9 250   |
+| 26 . . . . .   | 9 333  |
+| 27 . . . . .   | 9 563  |
 
 ### Bijlage  10  
 
@@ -523,13 +523,13 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 
 ###Tabel 2: Verhoging salaris (IBM, artikel 5, derde lid)
 
-| aantal jaren dat aanspraak heeft bestaan op het hoogste bedrag van de geldende schaal  | Koninklijke Marine  | Koninklijke landmacht en Koninklijke luchtmacht  |--- |
+|  aantal jaren dat aanspraak heeft bestaan op het hoogste bedrag van de geldende schaal  | Koninklijke Marine  | Koninklijke landmacht en Koninklijke luchtmacht  |--- |
 |:---|:---|:---|:---|
 | hoogste bedrag van de geldende schaal  | matr1  | kpl  | kpl  | kpl1  | sgt  |
-| 6 of meer  | 84  | 84  | 48  | 84  | 84  |
-| 8 of meer  | 167  | 167  | 99  | 167  | 167  |
-| 10 of meer  | 252  | –  | 142  | 252  | –  |
-| 14 of meer  | 252  | –  | –  | 338  | –  |
+| 6 of meer  | 84  | 84  | 48  | 84  | 84   |
+| 8 of meer  | 167  | 167  | 99  | 167  | 167   |
+| 10 of meer  | 252  | –  | 142  | 252  | –   |
+| 14 of meer  | 252  | –  | –  | 338  | –   |
 | 18 of meer  | 338  | –  | –  | –  | –  |
 
 ### Bijlage  11  
@@ -538,7 +538,7 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 
 ###Tabel 3: Verlenging salarischaal (IBM, artikel 24)
 
-| De salarisschalen worden verlengd met ten hoogste drie verhogingen, elk van hetgeen resulteert in de volgende bedragen: f 157  |
+|  De salarisschalen worden verlengd met ten hoogste drie verhogingen, elk van hetgeen resulteert in de volgende bedragen: f 157  |
 |:---|
 | tlnt  | elnt  | kap  |
 | diensttijd  | bedrag  | diensttijd  | bedrag  | diensttijd  | bedrag  |
@@ -555,10 +555,10 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader (hoofd- en niveaugroepen) waarbinnen aard en niveau van de functies worden bepaald, alsmede de daarbij behorende salarisschalen voor de ambtenaren 
 ###Per 1 januari 2001
 
-| HOOFDGROEP I (maandbedragen in guldens)  |
+|  HOOFDGROEP I (maandbedragen in guldens)  |
 |:---|
-| Niveaugroep Ia  | Niveaugroep Ib  | Niveaugroep Ic  |
-| Schaal 1  | Schaal 2  | Schaal 3  |
+| Niveaugroep Ia  | Niveaugroep Ib  | Niveaugroep Ic   |
+| Schaal 1  | Schaal 2   | Schaal 3  |
 | --- | –  | --- | –  | 10  | 3 999  |
 | --- | –  | --- | –  | 9  | 3 892  |
 | --- | –  | 8  | 3 676  | 8  | 3 787  |
@@ -569,19 +569,19 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 | 3  | 3 018  | 3  | 3 149  | 3  | 3 149  |
 | 2  | 2 962  | 2  | 3 018  | 2  | 3 018  |
 | 1  | 2 841  | 1  | 2 904  | 1  | 2 904  |
-| 0  | 2 529  | 0  | 2 652  | 0  | 2 841  |
-| J 21  | 2 212  | J 21  | 2 276  | J 21  | 2 557  |
-| J 20  | 1 960  | J 20  | 2 023  | J 20  | 2 273  |
-| J 19  | 1 707  | J 19  | 1 770  | J 19  | 1 989  |
-| J 18  | 1 454  | J 18  | 1 517  | J 18  | 1 705  |
-| J 17  | 1 361  | J 17  | 1 390  | J 17  | 1 421  |
-| J 16  | 1 361  | J 16  | 1 390  | J 16  | 1 421  |
+| 0  | 2 529  | 0  | 2 652  | 0  | 2 841   |
+| J 21  | 2 212  | J 21  | 2 276  | J 21  | 2 557   |
+| J 20  | 1 960  | J 20  | 2 023  | J 20  | 2 273   |
+| J 19  | 1 707  | J 19  | 1 770  | J 19  | 1 989   |
+| J 18  | 1 454  | J 18  | 1 517  | J 18  | 1 705   |
+| J 17  | 1 361  | J 17  | 1 390  | J 17  | 1 421   |
+| J 16  | 1 361  | J 16  | 1 390  | J 16  | 1 421   |
 | J 15  | 1 361  | J 15  | 1 390  | --- | –  |
 
-| HOOFDGROEP II (maandbedragen in guldens)  |
+|  HOOFDGROEP II (maandbedragen in guldens)  |
 |:---|
 | Niveaugroep IIa  | Niveaugroep IIb  | Niveaugroep IIc  | Niveaugroep IId  |
-| Schaal 3  | Schaal 4  | Schaal 5  | Schaal 6  |
+| Schaal 3  | Schaal 4   | Schaal 5  | Schaal 6  |
 | --- | –  | 11  | 4 206  | 11  | 4 419  | 11  | 4 629  |
 | 10  | 3 999  | 10  | 4 103  | 10  | 4 314  | 10  | 4 520  |
 | 9  | 3 892  | 9  | 3 999  | 9  | 4 206  | 9  | 4 419  |
@@ -593,18 +593,18 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 | 3  | 3 149  | 3  | 3 234  | 3  | 3 566  | 3  | 3 787  |
 | 2  | 3 018  | 2  | 3 082  | 2  | 3 333  | 2  | 3 566  |
 | 1  | 2 904  | 1  | 2 962  | 1  | 3 149  | 1  | 3 333  |
-| 0  | 2 841  | 0  | 2 904  | 0  | 3 018  | 0  | 3 234  |
-| J 21  | 2 557  | J 21  | 2 614  | J 21  | 2 716  | --- | –  |
-| J 20  | 2 273  | J 20  | 2 323  | J 20  | 2 414  | --- | –  |
-| J 19  | 1 989  | J 19  | 2 033  | J 19  | 2 113  | --- | –  |
-| J 18  | 1 705  | J 18  | 1 742  | J 18  | 1 811  | --- | –  |
-| J 17  | 1 421  | J 17  | 1 452  | J 17  | 1 509  | --- | –  |
+| 0  | 2 841  | 0  | 2 904  | 0  | 3 018  | 0  | 3 234   |
+| J 21  | 2 557  | J 21  | 2 614  | J 21  | 2 716  | --- | –   |
+| J 20  | 2 273  | J 20  | 2 323  | J 20  | 2 414  | --- | –   |
+| J 19  | 1 989  | J 19  | 2 033  | J 19  | 2 113  | --- | –   |
+| J 18  | 1 705  | J 18  | 1 742  | J 18  | 1 811  | --- | –   |
+| J 17  | 1 421  | J 17  | 1 452  | J 17  | 1 509  | --- | –   |
 | J 16  | 1 421  | J 16  | 1 452  | --- | –  | --- | –  |
 
-| HOOFDGROEP III (maandbedragen in guldens)  |
+|  HOOFDGROEP III (maandbedragen in guldens)  |
 |:---|
-| Niveaugroep IIIa  | Niveaugroep IIIb  | Niveaugroep IIIc  |
-| Schaal 5  | Schaal 6  | Schaal 7  |
+| Niveaugroep IIIa  | Niveaugroep IIIb  | Niveaugroep IIIc   |
+| Schaal 5  | Schaal 6   | Schaal 7  |
 | 11  | 4 419  | 11  | 4 629  | 11  | 5 106  |
 | 10  | 4 314  | 10  | 4 520  | 10  | 4 986  |
 | 9  | 4 206  | 9  | 4 419  | 9  | 4 855  |
@@ -616,33 +616,33 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 | 3  | 3 566  | 3  | 3 787  | 3  | 4 206  |
 | 2  | 3 333  | 2  | 3 566  | 2  | 3 999  |
 | 1  | 3 149  | 1  | 3 333  | 1  | 3 787  |
-| 0  | 3 018  | 0  | 3 234  | 0  | 3 676  |
-| J 21  | 2 716  | --- | –  | --- | –  |
+| 0  | 3 018  | 0  | 3 234  | 0  | 3 676   |
+| J 21  | 2 716  | --- | –  | --- | –   |
 | J 20  | 2 414  | --- | –  | --- | –  |
-| J 19  | 2 113  | --- | –  | --- | –  |
-| J 18  | 1 811  | --- | –  | --- | –  |
+| J 19  | 2 113  | --- | –  | --- | –   |
+| J 18  | 1 811  | --- | –  | --- | –   |
 | J 17  | 1 509  | --- | –  | --- | –  |
 
-| HOOFDGROEP III (maandbedragen in guldens)  |
+|  HOOFDGROEP III (maandbedragen in guldens)  |
 |:---|
 | Niveaugroep IIId  | Niveaugroep IIIe  | --- |
 | Schaal 8  | Schaal 9  | --- |
 | 10  | 5 647  | --- | –  | --- | --- |
-| 9  | 5 548  | --- | –  | --- | --- |
+| 9  | 5 548  | --- | –   | --- | --- |
 | 8  | 5 439  | 8  | 6 391  | --- | --- |
-| 7  | 5 323  | 7  | 6 181  | --- | --- |
+| 7  | 5 323  | 7  | 6 181   | --- | --- |
 | 6  | 5 210  | 6  | 5 952  | --- | --- |
-| 5  | 5 106  | 5  | 5 748  | --- | --- |
+| 5  | 5 106  | 5  | 5 748   | --- | --- |
 | 4  | 4 986  | 4  | 5 548  | --- | --- |
-| 3  | 4 855  | 3  | 5 323  | --- | --- |
+| 3  | 4 855  | 3  | 5 323   | --- | --- |
 | 2  | 4 629  | 2  | 5 106  | --- | --- |
-| 1  | 4 419  | 1  | 4 855  | --- | --- |
+| 1  | 4 419  | 1  | 4 855   | --- | --- |
 | 0  | 4 206  | 0  | 4 629  | --- | --- |
 
-| HOOFDGROEP IV (maandbedragen in guldens)  |
+|  HOOFDGROEP IV (maandbedragen in guldens)  |
 |:---|
-| Niveaugroep IVa  | Niveaugroep IVb  | Niveaugroep IVc  |
-| Schaal 8  | Schaal 9  | Schaal 10  |
+| Niveaugroep IVa  | Niveaugroep IVb  | Niveaugroep IVc   |
+| Schaal 8  | Schaal 9   | Schaal 10  |
 | --- | –  | --- | –  | 12  | 7 007  |
 | --- | –  | --- | –  | 11  | 6 788  |
 | 10  | 5 647  | --- | –  | 10  | 6 592  |
@@ -657,27 +657,27 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 | 1  | 4 419  | 1  | 4 855  | 1  | 4 629  |
 | 0  | 4 206  | 0  | 4 629  | 0  | 4 419  |
 
-| HOOFDGROEP IV (maandbedragen in guldens)  |
+|  HOOFDGROEP IV (maandbedragen in guldens)  |
 |:---|
 | Niveaugroep IVd  | Niveaugroep IVe  | --- |
 | Schaal 11  | Schaal 12  | --- |
 | 11  | 8 173  | --- | –  | --- | --- |
-| 10  | 8 064  | 10  | 9 296  | --- | --- |
+| 10  | 8 064  | 10  | 9 296   | --- | --- |
 | 9  | 7 861  | 9  | 9 167  | --- | --- |
-| 8  | 7 651  | 8  | 8 903  | --- | --- |
+| 8  | 7 651  | 8  | 8 903   | --- | --- |
 | 7  | 7 441  | 7  | 8 692  | --- | --- |
-| 6  | 7 230  | 6  | 8 490  | --- | --- |
+| 6  | 7 230  | 6  | 8 490   | --- | --- |
 | 5  | 7 007  | 5  | 8 279  | --- | --- |
-| 4  | 6 788  | 4  | 8 064  | --- | --- |
+| 4  | 6 788  | 4  | 8 064   | --- | --- |
 | 3  | 6 592  | 3  | 7 861  | --- | --- |
-| 2  | 6 391  | 2  | 7 651  | --- | --- |
+| 2  | 6 391  | 2  | 7 651   | --- | --- |
 | 1  | 6 181  | 1  | 7 441  | --- | --- |
 | 0  | 5 952  | 0  | 7 230  | --- | --- |
 
-| HOOFDGROEP V (maandbedragen in guldens)  |
+|  HOOFDGROEP V (maandbedragen in guldens)  |
 |:---|
-| Niveaugroep Va  | Niveaugroep Vb  | Niveaugroep Vc  |
-| Schaal 10  | Schaal 11  | Schaal 12  |
+| Niveaugroep Va  | Niveaugroep Vb  | Niveaugroep Vc   |
+| Schaal 10  | Schaal 11   | Schaal 12  |
 | 12  | 7 007  | --- | –  | --- | –  |
 | 11  | 6 788  | 11  | 8 173  | --- | –  |
 | 10  | 6 592  | 10  | 8 064  | 10  | 9 296  |
@@ -692,10 +692,10 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 | 1  | 4 629  | 1  | 6 181  | 1  | 7 441  |
 | 0  | 4 419  | 0  | 5 952  | 0  | 7 230  |
 
-| HOOFDGROEP V (maandbedragen in guldens)  |
+|  HOOFDGROEP V (maandbedragen in guldens)  |
 |:---|
-| Niveaugroep Vd  | Niveaugroep Ve  | Niveaugroep Vf  |
-| Schaal 13  | Schaal 14  | Schaal 15  |
+| Niveaugroep Vd  | Niveaugroep Ve  | Niveaugroep Vf   |
+| Schaal 13  | Schaal 14   | Schaal 15  |
 | 10  | 10 360  | 10  | 11 432  | 10  | 12 561  |
 | 9  | 10 221  | 9  | 11 079  | 9  | 12 173  |
 | 8  | 10 084  | 8  | 10 785  | 8  | 11 797  |
@@ -708,10 +708,10 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 | 1  | 8 490  | 1  | 8 903  | 1  | 9 693  |
 | 0  | 8 279  | 0  | 8 692  | 0  | 9 429  |
 
-| HOOFDGROEP VI (maandbedragen in guldens)  |
+|  HOOFDGROEP VI (maandbedragen in guldens)  |
 |:---|
 | Niveaugroep VIa  | Niveaugroep VIb  | Niveaugroep VIc  | Niveaugroep VId  |
-| Schaal 13  | Schaal 14  | Schaal 15  | Schaal 16  |
+| Schaal 13  | Schaal 14   | Schaal 15  | Schaal 16  |
 | 10  | 10 360  | 10  | 11 432  | 10  | 12 561  | 10  | 13 613  |
 | 9  | 10 221  | 9  | 11 079  | 9  | 12 173  | 9  | 13 376  |
 | 8  | 10 084  | 8  | 10 785  | 8  | 11 797  | 8  | 12 962  |
@@ -732,7 +732,7 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 
 (IBM, artikel 4, eerste lid) Salarisschalen voor de militairen van de Koninklijke marine met ingang van 1 januari 2001  
 
-| diensttijd  | matr3  | matr2  | matr1  | kpl  | sgt  | smjr  | aoo  | ltz3  | ltz2  | ltz2oc  | ltz1  | kltz  | ktz  | cdr  | sbn  | vadm  | ltadm vadm∗  |
+|  diensttijd  | matr3  | matr2  | matr1  | kpl  | sgt  | smjr  | aoo  | ltz3  | ltz2  | ltz2oc  | ltz1  | kltz  | ktz  | cdr  | sbn  | vadm  | ltadm vadm∗  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | J16  | 1 452  | 1 482  | 1 736  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
 | J17  | 1 452  | 1 482  | 1 736  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
@@ -785,7 +785,7 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 
 (IBM, artikel 4, eerste lid) Salarisschalen voor de militairen van de Koninklijke landmacht en de Koninklijke luchtmacht met ingang van 1 januari 2001  
 
-| dienst-tijd  | sld  | sld1  | kpl  | kpl1  | sgt  | sgt1  | sm  | aoo  | opz  | kap  | tlnt  | elnt  | kap  | maj  | lkol  | kol  | bgen  | genm  | lgen genm∗∗  | gen lgen∗  |
+|  dienst-tijd  | sld  | sld1  | kpl  | kpl1  | sgt  | sgt1  | sm  | aoo  | opz  | kap  | tlnt  | elnt  | kap  | maj  | lkol  | kol  | bgen  | genm  | lgen genm∗∗  | gen lgen∗  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | J16  | 1 452  | 1 482  | 1 543  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
 | J17  | 1 452  | 1 482  | 1 543  | 1 634  | 1 728  | –  | –  | 1 866  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
@@ -839,11 +839,11 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 (IBM, artikelen 4, 5 en 24) Bedragen met ingang van 1 januari 2001 
 ###Tabel 1: Verlenging salarisschaal Ltz1 (IBM, artikel 4, tweede lid)
 
-| diensttijd  | bedrag  |
+|  diensttijd  | bedrag  |
 |:---|:---|
-| 25 . . . . .  | 9 379  |
-| 26 . . . . .  | 9 462  |
-| 27 . . . . .  | 9 692  |
+| 25 . . . . .   | 9 379   |
+| 26 . . . . .   | 9 462  |
+| 27 . . . . .   | 9 692  |
 
 ### Bijlage  16  
 
@@ -851,13 +851,13 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 
 ###Tabel 2: Verhoging salaris (IBM, artikel 5, derde lid)
 
-| aantal jaren dat aanspraak heeft bestaan op het hoogste bedrag van de geldende schaal  | Koninklijke Marine  | Koninklijke landmacht en Koninklijke luchtmacht  |--- |
+|  aantal jaren dat aanspraak heeft bestaan op het hoogste bedrag van de geldende schaal  | Koninklijke Marine  | Koninklijke landmacht en Koninklijke luchtmacht  |--- |
 |:---|:---|:---|:---|
 | --- | matr1  | kpl  | kpl  | kpl1  | sgt  |
-| 6 of meer  | 86  | 86  | 49  | 86  | 86  |
-| 8 of meer  | 170  | 170  | 100  | 170  | 170  |
-| 10 of meer  | 257  | –  | 145  | 257  | –  |
-| 14 of meer  | 257  | –  | –  | 344  | –  |
+| 6 of meer  | 86  | 86  | 49  | 86  | 86   |
+| 8 of meer  | 170  | 170  | 100  | 170  | 170   |
+| 10 of meer  | 257  | –  | 145  | 257  | –   |
+| 14 of meer  | 257  | –  | –  | 344  | –   |
 | 18 of meer  | 344  | –  | –  | –  | –  |
 
 ### Bijlage  17  
@@ -866,7 +866,7 @@ van het Bezoldigingsbesluit burgerlijke ambtenaren defensie bevattende het kader
 
 ###Tabel 3: Verlenging salarischaal (IBM, artikel 24)
 
-| De salarisschalen worden verlengd met ten hoogste drie verhogingen, elk van hetgeen resulteert in de volgende bedragen: f 160  |
+|  De salarisschalen worden verlengd met ten hoogste drie verhogingen, elk van hetgeen resulteert in de volgende bedragen: f 160  |
 |:---|
 | tlnt  | elnt  | kap  |
 | diensttijd  | bedrag  | diensttijd  | bedrag  | diensttijd  | bedrag  |

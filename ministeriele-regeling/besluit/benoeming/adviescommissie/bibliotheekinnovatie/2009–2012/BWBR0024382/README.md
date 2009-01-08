@@ -8,24 +8,24 @@ Besluit:
 
 ### Artikel  1  
 
-Er is een adviescommissie bibliotheekinnovatie 2009–2012, hierna te noemen de commissie.  
+Er is een adviescommissie bibliotheekinnovatie 2009–2012, hierna te noemen de commissie. 
 
 ### Artikel  2  
 
-De commissie bestaat uit de volgende leden: mevrouw. drs. J.S. Calff, voorzitter; de heer dr. J.A. Brandenbarg, lid; de heer drs. J.J.J. Kloprogge, lid; de heer A.W. Mulder, lid; de heer J.A. van Soelen, lid.  
+De commissie bestaat uit de volgende leden: mevrouw. drs. J.S. Calff, voorzitter; de heer dr. J.A. Brandenbarg, lid; de heer drs. J.J.J. Kloprogge, lid; de heer A.W. Mulder, lid; de heer J.A. van Soelen, lid. 
 
 ### Artikel  3  
 
-De commissie zal, volgens de in de bijlage beschreven taakomschrijving, door het opstellen van een innovatieplan de Minister van Onderwijs, Cultuur en Wetenschap adviseren over de bibliotheekvernieuwing 2009–2012. De Minister brengt het advies in bij het bestuurlijk overleg bibliotheekvernieuwing.  
+De commissie zal, volgens de in de bijlage beschreven taakomschrijving, door het opstellen van een innovatieplan de Minister van Onderwijs, Cultuur en Wetenschap adviseren over de bibliotheekvernieuwing 2009–2012. De Minister brengt het advies in bij het bestuurlijk overleg bibliotheekvernieuwing. 
 
 ### Artikel  4  
 
 1.  De commissie bepaalt haar eigen werkwijze.   
-2.  De Minister stelt een werkbudget beschikbaar aan de commissie voor eventuele inzet van ondersteuning door derden.   
+2.  De Minister stelt een werkbudget beschikbaar aan de commissie voor eventuele inzet van ondersteuning door derden.  
 
 ### Artikel  5  
 
-De leden en de voorzitter van de commissie ontvangen voor het bijwonen van vergaderingen en overige bijeenkomsten in het kader van hun werkzaamheden vacatiegelden overeenkomstig het [Vacatiegeldenbesluit 1988](../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) en de [Regeling maximumbedragen vacatiegeld 2004](../../../../../../../ministeriele-regeling/regeling/maximumbedragen/vacatiegeld/2004/BWBR0017556/README.md). Een voorzitter ontvangt € 260,– en een lid ontvangt € 200,– per vergadering. De commissie wordt, volgens het [Vacatiegeldenbesluit 1988](../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md), ingedeeld in de categorie zwaar.  
+De leden en de voorzitter van de commissie ontvangen voor het bijwonen van vergaderingen en overige bijeenkomsten in het kader van hun werkzaamheden vacatiegelden overeenkomstig het [Vacatiegeldenbesluit 1988](../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) en de [Regeling maximumbedragen vacatiegeld 2004](../../../../../../../ministeriele-regeling/regeling/maximumbedragen/vacatiegeld/2004/BWBR0017556/README.md). Een voorzitter ontvangt € 260,– en een lid ontvangt € 200,– per vergadering. De commissie wordt, volgens het [Vacatiegeldenbesluit 1988](../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md), ingedeeld in de categorie zwaar. 
 
 ### Artikel  6  
 
@@ -37,24 +37,24 @@ a. de kosten voor vergaderingen en voor secretariële ondersteuning;
 b. de kosten voor het inschakelen van externe deskundigheid en het laten verrichten van onderzoek;  
 
 c. de kosten voor publicatie van rapportages.     
-3.  De commissie declareert achteraf op basis van werkelijk gemaakte kosten. De laatste declaraties dienen binnen drie maanden na het verstrijken van de periode zoals genoemd in artikel 8 te zijn ingediend. Declaraties die zijn ingediend na de gestelde termijn worden niet uitbetaald.   
+3.  De commissie declareert achteraf op basis van werkelijk gemaakte kosten. De laatste declaraties dienen binnen drie maanden na het verstrijken van de periode zoals genoemd in artikel 8 te zijn ingediend. Declaraties die zijn ingediend na de gestelde termijn worden niet uitbetaald.  
 
 ### Artikel  7  
 
-De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden de bescheiden betreffende die werkzaamheden over aan het archief van de directie Media, Letteren en Bibliotheken van het Ministerie van Onderwijs, Cultuur en Wetenschap.  
+De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden de bescheiden betreffende die werkzaamheden over aan het archief van de directie Media, Letteren en Bibliotheken van het Ministerie van Onderwijs, Cultuur en Wetenschap. 
 
 ### Artikel  8  
 
-De commissie wordt ingesteld voor de tijdsduur van maximaal een half jaar, te rekenen vanaf bovengenoemde datum van de instellingsbeschikking.  
+De commissie wordt ingesteld voor de tijdsduur van maximaal een half jaar, te rekenen vanaf bovengenoemde datum van de instellingsbeschikking. 
 
 ### Artikel  9  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, 
-R.H.A.Plasterk  
+R.H.A. Plasterk    
 
 ### Bijlage  
 
@@ -84,6 +84,6 @@ R.H.A.Plasterk
 
 – de toewijzing van rollen, taken en verantwoordelijkheden aan de drie overheden per actielijn.    
 
-– Bij opstelling van het plan dienen ten minste te worden betrokken: de eindrapportage van de stuurgroep (incl. SCP-rapport en Monitor bibliotheekvernieuwing 2007), de provinciale marsrouteplannen (t/m 2007) en bibliotheekplannen 2008, recente adviezen van de Raad voor Cultuur, het Regeerakkoord, het Bestuursakkoord ‘Samen aan de Slag’ van het kabinet en VNG en de deelakkoorden en verwante convenanten voor zover deze akkoorden en convenanten raken aan het bibliotheekwerk. <sup> 1  Verwante convenanten zijn: Convenant Laaggeletterdheid 2007–2015 (2007); Samenwerkingsafspraken VOB/MEE Nederland/GGD Nederland en VNG (inzake één digitale sociale kaart Nederland); Brief van de Minister over Mediawijsheid (Instituut voor Mediawijsheid); Convenant voor- en vroegschoolse educatie (VVE) gesloten door Staatssecretaris OCW, en VNG; De wettelijke verplichting tot het maken van locale educatieve agenda’s met als doel onderwijsachterstanden terug te dringen; Nieuwe Wet Inburgering (waarin met inburgering meer gekeken wordt naar de sociale omgeving).  </sup>  
+– Bij opstelling van het plan dienen ten minste te worden betrokken: de eindrapportage van de stuurgroep (incl. SCP-rapport en Monitor bibliotheekvernieuwing 2007), de provinciale marsrouteplannen (t/m 2007) en bibliotheekplannen 2008, recente adviezen van de Raad voor Cultuur, het Regeerakkoord, het Bestuursakkoord ‘Samen aan de Slag’ van het kabinet en VNG en de deelakkoorden en verwante convenanten voor zover deze akkoorden en convenanten raken aan het bibliotheekwerk.<sup>1 Verwante convenanten zijn: Convenant Laaggeletterdheid 2007–2015 (2007); Samenwerkingsafspraken VOB/MEE Nederland/GGD Nederland en VNG (inzake één digitale sociale kaart Nederland); Brief van de Minister over Mediawijsheid (Instituut voor Mediawijsheid); Convenant voor- en vroegschoolse educatie (VVE) gesloten door Staatssecretaris OCW, en VNG; De wettelijke verplichting tot het maken van locale educatieve agenda’s met als doel onderwijsachterstanden terug te dringen; Nieuwe Wet Inburgering (waarin met inburgering meer gekeken wordt naar de sociale omgeving). </sup>   
 
 – Bijzondere aandacht bij opstelling van het plan wordt gevraagd voor de relatie met beleid op aan-palende terreinen, waarbij met name kan worden gedacht aan: wetenschappelijke informatievoorziening (universiteitsbibliotheken, Koninklijke Bibliotheek), omroepen, erfgoedsector, zorg-, onderwijs- en welzijnssector.   

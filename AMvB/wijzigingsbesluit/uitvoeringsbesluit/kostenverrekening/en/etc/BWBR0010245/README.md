@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### ARTIKEL  I  
 
-Wijzigt het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.   
+Wijzigt het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.  
 
 ### ARTIKEL  II  
 
@@ -23,13 +23,13 @@ De bijlage zoals die gold op 31 december 1998 kan nog na die datum worden toegep
 
 ### ARTIKEL  III  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 1999.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 1999. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 28 januari 1999  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Financiën, 
 W. A. F. G. Vermeend   
@@ -37,10 +37,10 @@ W. A. F. G. Vermeend
 de *negende* februari 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     
 
 ### Bijlage  
 
-####als bedoeld in [artikel 7 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken](../../../../../../../AMvB/uitvoeringsbesluit/kostenverrekening/en/gegevensuitwisseling/wet/etc/BWBR0007230/README.md)
+####als bedoeld in [artikel 7 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken](../../../../../../../AMvB/uitvoeringsbesluit/kostenverrekening/en/gegevensuitwisseling/wet/etc/BWBR0007230/README.md) 
 
 Wijzigt het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.  

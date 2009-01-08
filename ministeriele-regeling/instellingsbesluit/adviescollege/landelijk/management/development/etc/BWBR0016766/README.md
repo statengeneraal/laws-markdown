@@ -6,7 +6,7 @@ De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  Besluit:
 
 ### Artikel  1  
 
-Er is een Adviescollege Landelijk management development brandweer.  
+Er is een Adviescollege Landelijk management development brandweer. 
 
 ### Artikel  2  
 
@@ -18,11 +18,11 @@ b. relevante ontwikkelingen en eventuele onderzoeksvragen in het kader van (L)MD
 
 c. het uitdragen van de beleidsuitgangspunten voor het LMD brandweer naar de achterban;  
 
-d. het bevorderen van de synergie tussen het LMD brandweer enerzijds en regionaal en gemeentelijk MD brandweer anderzijds.    
+d. het bevorderen van de synergie tussen het LMD brandweer enerzijds en regionaal en gemeentelijk MD brandweer anderzijds.   
 
 ### Artikel  3  
 
-Het Adviescollege LMD Brandweer is als volgt samengesteld: 
+Het Adviescollege LMD Brandweer is als volgt samengesteld:
 
 a. de heer dr. R.L. Vreeman, burgemeester van gemeente Tilburg, voorzitter veiligheidsregio Midden en West Brabant, voorzitter;  
 
@@ -42,32 +42,32 @@ h. de heer mr. D.K.W. Hendriks, gemeentesecretaris Edam-Volendam, lid;
 
 i. mevrouw mr. A.L.C. Roelofs, directeur Brandweer en GHOR van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties te ’s-Gravenhage, lid;  
 
-j. mevrouw ing. H.W.M. Blaauw, hoofd unit Landelijk Management Development Brandweer van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties te ’s-Gravenhage, secretaris.    
+j. mevrouw ing. H.W.M. Blaauw, hoofd unit Landelijk Management Development Brandweer van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties te ’s-Gravenhage, secretaris.   
 
 ### Artikel  4  
 
-Een ieder die betrokken is bij de werkzaamheden van het Adviescollege Landelijk management development brandweer en daarbij de beschikking krijgt over gegevens waarvan hij/zij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij deze werkzaamheden de noodzaak tot bekendmaking voortvloeit.  
+Een ieder die betrokken is bij de werkzaamheden van het Adviescollege Landelijk management development brandweer en daarbij de beschikking krijgt over gegevens waarvan hij/zij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij deze werkzaamheden de noodzaak tot bekendmaking voortvloeit. 
 
 ### Artikel  5  
 
-Het Adviescollege Landelijk management development brandweer kan een huishoudelijk reglement opstellen met betrekking tot de inrichting van de procesgang, werkwijze en administratieve organisatie.  
+Het Adviescollege Landelijk management development brandweer kan een huishoudelijk reglement opstellen met betrekking tot de inrichting van de procesgang, werkwijze en administratieve organisatie. 
 
 ### Artikel  6  
 
-Op de leden van het Adviescollege Landelijk management development brandweer is het [Reisbesluit Binnenland](../../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) van toepassing.  
+Op de leden van het Adviescollege Landelijk management development brandweer is het [Reisbesluit Binnenland](../../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) van toepassing. 
 
 ### Artikel  7  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Adviescollege Landelijk management development brandweer.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Adviescollege Landelijk management development brandweer. 
 Dit besluit zal met de toelichting worden geplaatst in de Staatscourant. Afschrift van dit besluit wordt gezonden aan: – de voorzitter en de leden van het College; – de voorzitters van de Eerste en Tweede Kamer der Staten-Generaal; – de Algemene Rekenkamer; – de Inspectie van de Rijksfinanciën; – de Vereniging van Nederlandse Gemeenten (VNG); – de voorzitter van de Koninklijke Nederlandse Vereniging voor Brandweer en Hulpverlening (KNVBH); – de voorzitter van de Nederlandse Vereniging voor Brandweer en Rampenbestrijding (NVBR); – de voorzitter van de Raad van Regionaal Commandanten; – de Vereniging van Gemeentesecretarissen (VGS).   
 
 Den Haag 
 27 mei 2004    
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties
-J.W.Remkes    
+Minister van Binnenlandse Zaken en Koninkrijksrelaties 
+J.W. Remkes      

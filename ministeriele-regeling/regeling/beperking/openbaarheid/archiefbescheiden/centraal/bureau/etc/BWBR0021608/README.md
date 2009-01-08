@@ -19,19 +19,19 @@ b. de onderzoeker kan aantonen dat de persoon in wiens dossier hij inzage wil he
 c. de onderzoeker een verklaring kan overleggen waaruit blijkt dat de persoon op wie het dossier betrekking heeft toestemming geeft tot inzage;  
 
 d. er in de gevraagde dossiers geen namen van nog levende personen voorkomen.     
-3.  Het formulier, bedoeld in het eerste lid, blijft achterwege indien een periode van 75 jaar na afsluiting van het betrokken dossier is verstreken.   
+3.  Het formulier, bedoeld in het eerste lid, blijft achterwege indien een periode van 75 jaar na afsluiting van het betrokken dossier is verstreken.  
 
 ### Artikel  2  
 
-De directeur van het Algemeen Rijksarchief verplicht zich de archiefbescheiden in goede staat te bewaren of te doen bewaren, in overeenstemming met het bij of krachtens de [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) bepaalde.  
+De directeur van het Algemeen Rijksarchief verplicht zich de archiefbescheiden in goede staat te bewaren of te doen bewaren, in overeenstemming met het bij of krachtens de [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) bepaalde. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd. 
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-G.ter Horst  
+G. ter Horst    
 
 ### Bijlage  
 

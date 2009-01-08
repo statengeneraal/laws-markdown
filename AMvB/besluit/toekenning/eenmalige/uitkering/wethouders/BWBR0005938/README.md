@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Indien artikel 7, tweede lid, van het besluit van 3 juli 1986 tot uitvoering van artikel 100, derde lid, van de gemeentewet, houdende regels betreffende andere financiële voorzieningen die verband houden met de vervulling van het wethoudersambt, van toepassing is op wethouders, wordt aan hen een eenmalige uitkering toegekend van 11,3% over de geldende wedde op 30 september 1992, met een maximum van f 431,-, vermenigvuldigd met de tijdfactor zoals deze voor de betreffende wethouder op 30 september 1992 geldt.  
+Indien artikel 7, tweede lid, van het besluit van 3 juli 1986 tot uitvoering van artikel 100, derde lid, van de gemeentewet, houdende regels betreffende andere financiële voorzieningen die verband houden met de vervulling van het wethoudersambt, van toepassing is op wethouders, wordt aan hen een eenmalige uitkering toegekend van 11,3% over de geldende wedde op 30 september 1992, met een maximum van f 431,-, vermenigvuldigd met de tijdfactor zoals deze voor de betreffende wethouder op 30 september 1992 geldt. 
 
 ### Artikel  2  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt, voor wat betreft artikel 2, terug tot en met 1 januari 1991.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt, voor wat betreft artikel 2, terug tot en met 1 januari 1991. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

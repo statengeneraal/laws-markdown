@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Niet als openbare vermakelijkheden in de zin van de [Zondagswet](../../../../../../../../../../../../../../../wet/zondagswet/BWBR0002120/README.md) zullen worden beschouwd: toneelvoorstellingen, filmvoorstellingen, concerten en andere openbare bijeenkomsten, welke in besloten ruimten worden gehouden en de geestelijke, zedelijke of culturele verheffing of ontwikkeling van het publiek ten doel hebben.  
+Niet als openbare vermakelijkheden in de zin van de [Zondagswet](../../../../../../../../../../../../../../../wet/zondagswet/BWBR0002120/README.md) zullen worden beschouwd: toneelvoorstellingen, filmvoorstellingen, concerten en andere openbare bijeenkomsten, welke in besloten ruimten worden gehouden en de geestelijke, zedelijke of culturele verheffing of ontwikkeling van het publiek ten doel hebben. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking op de tweede dag na die zijner afkondiging.  
+Dit besluit treedt in werking op de tweede dag na die zijner afkondiging. 
 
 Onze Minister van Binnenlandse Zaken is belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.   
 

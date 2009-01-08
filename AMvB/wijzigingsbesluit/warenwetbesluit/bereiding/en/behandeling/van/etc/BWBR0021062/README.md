@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt de Warenwetbesluit Bereiding en behandeling van levensmiddelen.   
+Wijzigt de Warenwetbesluit Bereiding en behandeling van levensmiddelen. 
 
 ### Artikel  II  
 
-Wijzigt het Warenwetbesluit bestuurlijke boeten.   
+Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 ### Artikel  III  
 
-Na de inwerkingtreding van dit besluit berust de [Regeling residuen van bestrijdingsmiddelen](../../../../../../../../../ministeriele-regeling/regeling/residuen/van/bestrijdingsmiddelen/BWBR0003658/README.md) op [artikel 13a, derde lid, onder a, van het Warenwetbesluit Bereiding en behandeling van levensmiddelen](../../../../../../../../../AMvB/warenwetbesluit/bereiding/en/behandeling/van/levensmiddelen/BWBR0005758/README.md).  
+Na de inwerkingtreding van dit besluit berust de [Regeling residuen van bestrijdingsmiddelen](../../../../../../../../../ministeriele-regeling/regeling/residuen/van/bestrijdingsmiddelen/BWBR0003658/README.md) op [artikel 13a, derde lid, onder a, van het Warenwetbesluit Bereiding en behandeling van levensmiddelen](../../../../../../../../../AMvB/warenwetbesluit/bereiding/en/behandeling/van/levensmiddelen/BWBR0005758/README.md). 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Bestrijdingsmiddelenwet 1962](../../../../../../../../../wet/bestrijdingsmiddelenwet/1962/BWBR0002380/README.md) wordt ingetrokken.  
+Dit besluit treedt in werking op het tijdstip waarop de [Bestrijdingsmiddelenwet 1962](../../../../../../../../../wet/bestrijdingsmiddelenwet/1962/BWBR0002380/README.md) wordt ingetrokken. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -35,10 +35,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 19 december 2006  
 Beatrix  
 
-De Minister van Volksgezondheid, Welzijn en Sport, 
-J. F.Hoogervorst 
+De Minister van Volksgezondheid, Welzijn en Sport , 
+J. F. Hoogervorst   
 
 de *drieëntwintigste* januari 2006 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet op het primair onderwijs.   
+Wijzigt de Wet op het primair onderwijs.  
 
 ### Artikel  II  
 
-De in artikel I van deze wet opgenomen wijziging is voor de eerste maal van toepassing op de vaststelling van de formatie voor het schooljaar 2003–2004.  
+De in artikel I van deze wet opgenomen wijziging is voor de eerste maal van toepassing op de vaststelling van de formatie voor het schooljaar 2003–2004. 
 
 ### Artikel  III  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -33,4 +33,4 @@ M. J. A. van der Hoeven
 de zevenentwintigste mei 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

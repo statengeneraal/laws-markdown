@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Mandaatsbesluit Rijksdienst voor het Wegverkeer
+##Mandaatsbesluit Rijksdienst voor het Wegverkeer 
 
 De Minister van Financiën,  
 Gelet op [artikel 10:3 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md),
@@ -10,10 +10,10 @@ Den Haag
 30 juni 1999.    
 
 De 
-Minister van Financiën, 
+Minister van Financiën,  
 
-Namens deze, 
+Namens deze,  
 
 De 
 directeur-generaal der Belastingen 
-J.N. vanLunteren    
+J.N. van Lunteren      

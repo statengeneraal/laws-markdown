@@ -16,7 +16,7 @@ De regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 14 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -24,15 +24,15 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 De 
 Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
-J.F.Hoogervorst   
+J.F. Hoogervorst     
 
 ### Bijlage  
 
-![36066](http://wetten.overheid.nl/Illustration/36066)
-![36066](http://wetten.overheid.nl/Illustration/36066)
-![36066](http://wetten.overheid.nl/Illustration/36066)
-![36066](http://wetten.overheid.nl/Illustration/36066)
-![36066](http://wetten.overheid.nl/Illustration/36066)
-![36066](http://wetten.overheid.nl/Illustration/36066)
+![36060](http://wetten.overheid.nl/Illustration/36060)
+![36061](http://wetten.overheid.nl/Illustration/36061)
+![36062](http://wetten.overheid.nl/Illustration/36062)
+![36063](http://wetten.overheid.nl/Illustration/36063)
+![36064](http://wetten.overheid.nl/Illustration/36064)
+![36065](http://wetten.overheid.nl/Illustration/36065)
 ![36066](http://wetten.overheid.nl/Illustration/36066)
 

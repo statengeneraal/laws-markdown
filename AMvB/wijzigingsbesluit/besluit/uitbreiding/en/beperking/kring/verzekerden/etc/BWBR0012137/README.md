@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999.   
+Wijzigt het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999.  
 
 ### Artikel  II  
 
-Indien in de periode gelegen tussen 1 januari 1999 en de datum van inwerkingtreding van dit besluit, aan de persoon die op grond van [artikel 21, tweede, derde en vierde lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](../../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md) niet verzekerd is op grond van de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), verstrekkingen zijn verleend die ten laste zijn gebracht van het Algemeen Fonds Bijzondere Ziektekosten, worden de kosten daarvan niet teruggevorderd.  
+Indien in de periode gelegen tussen 1 januari 1999 en de datum van inwerkingtreding van dit besluit, aan de persoon die op grond van [artikel 21, tweede, derde en vierde lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](../../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md) niet verzekerd is op grond van de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), verstrekkingen zijn verleend die ten laste zijn gebracht van het Algemeen Fonds Bijzondere Ziektekosten, worden de kosten daarvan niet teruggevorderd. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 1999.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 1999. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -37,4 +37,4 @@ E. Borst-Eilers
 de *achttiende* januari 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

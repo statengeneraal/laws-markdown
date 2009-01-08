@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  1  
 
-Het subsidieplafond voor projecten als bedoeld in [artikel 3, eerste lid, onderdelen a tot en met c en e tot en met g, van de Subsidieregeling ESF-3](../../../../../../../ministeriele-regeling/subsidieregeling/esf-3/BWBR0012598/README.md) wordt met ingang van 28 oktober 2005, 09.00 uur, vastgesteld op € 0,00.  
+Het subsidieplafond voor projecten als bedoeld in [artikel 3, eerste lid, onderdelen a tot en met c en e tot en met g, van de Subsidieregeling ESF-3](../../../../../../../ministeriele-regeling/subsidieregeling/esf-3/BWBR0012598/README.md) wordt met ingang van 28 oktober 2005, 09.00 uur, vastgesteld op € 0,00. 
 
 ### Artikel  2  
 
-Dit besluit zal in de Staatscourant worden geplaatst.  
+Dit besluit zal in de Staatscourant worden geplaatst. 
 
 Den Haag 
 27 oktober 2005   
 
 De 
 Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
-H.A.L. vanHoof   
+H.A.L. van Hoof     

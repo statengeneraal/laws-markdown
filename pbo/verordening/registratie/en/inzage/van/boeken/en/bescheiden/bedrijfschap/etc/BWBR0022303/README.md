@@ -19,13 +19,13 @@ In deze verordening wordt verstaan onder:
 
 ### Artikel  2  
 
-Deze Verordening is van toepassing op de ondernemers die een onderneming drijven waarin een in [artikel 2 van het Instellingsbesluit Bedrijfschap Afbouw](../../../../../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/afbouw/BWBR0020865/README.md) bedoeld bedrijf wordt uitgeoefend.  
+Deze Verordening is van toepassing op de ondernemers die een onderneming drijven waarin een in [artikel 2 van het Instellingsbesluit Bedrijfschap Afbouw](../../../../../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/afbouw/BWBR0020865/README.md) bedoeld bedrijf wordt uitgeoefend. 
 
 ### Artikel  3  
 
 1.  Er is een register van ondernemingen, waarin gegevens worden opgenomen ten behoeve van de vervulling van de taak van het bedrijfschap.   
 2.  Het bestuur is verantwoordelijke in de zin van de [Wet bescherming persoonsgegevens](../../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
-3.  Het register is niet openbaar.   
+3.  Het register is niet openbaar.  
 
 ### Artikel  4  
 
@@ -39,7 +39,7 @@ c. mutaties in de rechtsvorm, waarin de onderneming wordt gedreven.
 
 d. wijzigingen in de aard en omvang van de onderneming.     
 2.  De ondernemer verstrekt de in het registratieformulier, bedoeld in artikel 5, gevraagde gegevens.   
-3.  De ondernemer dient het registratieformulier binnen twee weken na ontvangst volledig en juist ingevuld en ondertekend bij het bedrijfschap in.   
+3.  De ondernemer dient het registratieformulier binnen twee weken na ontvangst volledig en juist ingevuld en ondertekend bij het bedrijfschap in.  
 
 ### Artikel  5  
 
@@ -56,19 +56,19 @@ c. de naam van de ondernemer;
 
 d. het bedrijf of de bedrijven die de onderneming uitoefent;  
 
-e. overige aangelegenheden van belang voor een doelmatige registratie.     
+e. overige aangelegenheden van belang voor een doelmatige registratie.    
 
 ### Artikel  6  
 
 1.  Het bedrijfschap neemt na ontvangst van het registratieformulier de onderneming op in het register.   
 2.  Indien geen of een onvolledige ingevulde registratieformulier is ingediend, is het bedrijfschap bevoegd de onderneming ambtshalve te registreren.   
-3.  Het bedrijfschap stelt de ondernemer binnen 4 weken schriftelijk op de hoogte van de registratie van de onderneming.   
+3.  Het bedrijfschap stelt de ondernemer binnen 4 weken schriftelijk op de hoogte van de registratie van de onderneming.  
 
 ### Artikel  7  
 
 1.  Indien geen onderneming meer wordt uitgeoefend, wordt de registratie beëindigd.   
 2.  Het bedrijfschap stelt de betrokkene schriftelijk op de hoogte van de beëindiging van de registratie.   
-3.  Het bedrijfschap besluit binnen tien weken op een schriftelijk verzoek tot beëindiging van de registratie.   
+3.  Het bedrijfschap besluit binnen tien weken op een schriftelijk verzoek tot beëindiging van de registratie.  
 
 ### Artikel  8  
 
@@ -77,27 +77,27 @@ e. overige aangelegenheden van belang voor een doelmatige registratie.
 a. het toezicht op de naleving van deze verordening en andere door het bedrijfschap vastgestelde verordeningen; of  
 
 b. voor het verkrijgen van gegevens die de ondernemers in strijd met de in onderdeel a. bedoelde verordeningen niet heeft verstrekt.     
-2.  De inzage vindt slechts plaats door personen die daartoe schriftelijk opdracht van het bedrijfschap kunnen overleggen. De opdracht vermeldt het doel waarvoor de inzage plaatsvindt.   
+2.  De inzage vindt slechts plaats door personen die daartoe schriftelijk opdracht van het bedrijfschap kunnen overleggen. De opdracht vermeldt het doel waarvoor de inzage plaatsvindt.  
 
 ### Artikel  9  
 
-(gereserveerd)  
+(gereserveerd) 
 
 ### Artikel  10  
 
-Het in deze verordening bedoelde register treedt in in de plaats van het register dat op grond van de [Verordening registratie en inzage van boeken en bescheiden Hoofdbedrijfschap Afbouw en Onderhoud](../../../../../../../../../../../../pbo/verordening/registratie/en/inzage/van/boeken/en/bescheiden/etc/BWBR0014995/README.md) is ingesteld.  
+Het in deze verordening bedoelde register treedt in in de plaats van het register dat op grond van de [Verordening registratie en inzage van boeken en bescheiden Hoofdbedrijfschap Afbouw en Onderhoud](../../../../../../../../../../../../pbo/verordening/registratie/en/inzage/van/boeken/en/bescheiden/etc/BWBR0014995/README.md) is ingesteld. 
 
 ### Artikel  11  
 
-Deze verordening treedt in werking op de dag na publicatie in het Verordeningenblad Bedrijfsorganisatie.  
+Deze verordening treedt in werking op de dag na publicatie in het Verordeningenblad Bedrijfsorganisatie. 
 
 ### Artikel  12  
 
-De [Verordening registratie en inzage van boeken en bescheiden Hoofdbedrijfschap Afbouw en Onderhoud](../../../../../../../../../../../../pbo/verordening/registratie/en/inzage/van/boeken/en/bescheiden/etc/BWBR0014995/README.md) wordt hiermee ingetrokken.  
+De [Verordening registratie en inzage van boeken en bescheiden Hoofdbedrijfschap Afbouw en Onderhoud](../../../../../../../../../../../../pbo/verordening/registratie/en/inzage/van/boeken/en/bescheiden/etc/BWBR0014995/README.md) wordt hiermee ingetrokken. 
 
 ### Artikel  13  
 
-Deze verordening kan worden aangehaald als Verordening registratie en inzage van boeken en bescheiden bedrijfschap Afbouw 2007.  
+Deze verordening kan worden aangehaald als Verordening registratie en inzage van boeken en bescheiden bedrijfschap Afbouw 2007. 
 
 Rijswijk 
 16 mei 2007   

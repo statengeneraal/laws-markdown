@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt het Ontslagbesluit.   
+Wijzigt het Ontslagbesluit.
 
 ### Artikel  II  
 
@@ -19,11 +19,11 @@ a. verzoeken om toestemming voor opzegging van de arbeidsverhouding die zijn ing
 b. verzoeken om toestemming voor opzegging van de arbeidsverhouding die zijn ingediend op of na die datum van inwerkingtreding maar voor 1 oktober 2006 en die voortvloeien uit een voor die datum van inwerkingtreding gemeld collectief ontslag als bedoeld in [artikel 3, eerste lid, van de Wet melding collectief ontslag](../../../../../../../../wet/wet/melding/collectief/ontslag/BWBR0003026/README.md); en  
 
 c. verzoeken om toestemming tot opzegging van de arbeidsverhouding die zijn ingediend op of na 1 oktober 2006 maar voor 1 januari 2007 en die voortvloeien uit een na die datum van inwerkingtreding maar voor 1 oktober 2006 gemeld collectief ontslag als bedoeld in [artikel 3, eerste lid, van de Wet melding collectief ontslag](../../../../../../../../wet/wet/melding/collectief/ontslag/BWBR0003026/README.md), mits de werkgever voor die datum van inwerkingtreding met de aldaar bedoelde belanghebbende verenigingen van werknemers de toepassing van genoemde bepalingen van en bijlagen bij het [Ontslagbesluit](../../../../../../../../ministeriele-regeling/ontslagbesluit/BWBR0010062/README.md) is overeengekomen.     
-2.  [Artikel 5:2, eerste lid, onderdeel b, van het Ontslagbesluit](../../../../../../../../ministeriele-regeling/ontslagbesluit/BWBR0010062/README.md), zoals dit luidde voor de datum van inwerkingtreding van artikel I, onderdeel D, is van toepassing op verzoeken om toestemming voor opzegging van de arbeidsverhouding die zijn ingediend voor de datum van inwerkingtreding van artikel I, onderdeel D.   
+2.  [Artikel 5:2, eerste lid, onderdeel b, van het Ontslagbesluit](../../../../../../../../ministeriele-regeling/ontslagbesluit/BWBR0010062/README.md), zoals dit luidde voor de datum van inwerkingtreding van artikel I, onderdeel D, is van toepassing op verzoeken om toestemming voor opzegging van de arbeidsverhouding die zijn ingediend voor de datum van inwerkingtreding van artikel I, onderdeel D.  
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van 1 maart 2006 met uitzondering van artikel I, onderdeel D dat in werking treedt met ingang van 1 januari 2006.  
+Deze regeling treedt in werking met ingang van 1 maart 2006 met uitzondering van artikel I, onderdeel D dat in werking treedt met ingang van 1 januari 2006. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -31,4 +31,4 @@ Den Haag
 
 De 
 Minister van Sociale Zaken en Werkgelegenheid, 
-A.J. deGeus   
+A.J. de Geus     

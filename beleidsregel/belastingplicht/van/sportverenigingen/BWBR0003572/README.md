@@ -28,7 +28,7 @@ d. het exploitatieresultaat wordt uitsluitend aangewend ten behoeve van de prima
 
 8. De Nederlandse Sport Federatie heeft toegezegd te zullen bevorderen dat ook (de) andere sportbonden komen tot overeenkomsten met het Bedrijfschap Horeca. Indien de inhoud van deze overeenkomsten zodanig is dat sportverenigingen, die de bepalingen van de overeenkomst naleven, naar mijn oordeel voldoen aan de in het zesde lid omschreven voorwaarden, zal ik u daarvan in kennis stellen.     
 
-### 1  Bijlage  
+### 1 Bijlage 
 
 ####Overeenkomst
 
@@ -36,49 +36,49 @@ De Koninklijke Nederlandsche Voetbalbond, gevestigd te Zeist en ten deze vertege
 
 #### *Artikel 1* 
 
-Ervan uitgaande, dat de doelstelling van een in de aanhef bedoelde vereniging is het doen beoefenen en het bevorderen van de voetbalsport, alsmede het stimuleren en organiseren van activiteiten die in het kader van de voetbalsport de ontwikkeling, vorming en recreatie van de mens beogen, dient het exploiteren van een kantine uitsluitend te geschieden in het kader van die doelstelling.  
+Ervan uitgaande, dat de doelstelling van een in de aanhef bedoelde vereniging is het doen beoefenen en het bevorderen van de voetbalsport, alsmede het stimuleren en organiseren van activiteiten die in het kader van de voetbalsport de ontwikkeling, vorming en recreatie van de mens beogen, dient het exploiteren van een kantine uitsluitend te geschieden in het kader van die doelstelling. 
 
 #### *Artikel 2* 
 
-Een vereniging onthoudt zich van commerciële horeca-activiteiten, alsmede van het aantrekken van activiteiten, die niet in overeenstemming zijn met haar doelstelling. Het Bestuur van de vereniging dient erop toe te zien, dat de kantine uitsluitend wordt benut voor het houden van bijeenkomsten, welke gerekend kunnen worden te vallen binnen haar doelstelling.  
+Een vereniging onthoudt zich van commerciële horeca-activiteiten, alsmede van het aantrekken van activiteiten, die niet in overeenstemming zijn met haar doelstelling. Het Bestuur van de vereniging dient erop toe te zien, dat de kantine uitsluitend wordt benut voor het houden van bijeenkomsten, welke gerekend kunnen worden te vallen binnen haar doelstelling. 
 
 #### *Artikel 3* 
 
-Buiten de doelstelling van een vereniging vallen: bruiloften, alsmede (feestelijke) bijeenkomsten voor niet-leden alsmede recepties en partijen voorzover deze worden gehouden wegens gebeurtenissen in de persoonlijke sfeer.  
+Buiten de doelstelling van een vereniging vallen: bruiloften, alsmede (feestelijke) bijeenkomsten voor niet-leden alsmede recepties en partijen voorzover deze worden gehouden wegens gebeurtenissen in de persoonlijke sfeer. 
 
 #### *Artikel 4* 
 
-De vereniging zal slechts in het kader van de plaatsvindende activiteiten, welke verband houden met de doelstelling en uitsluitend aan personen, die actief dan wel passief bij deze activiteiten betrokken zijn, consumpties verstrekken.  
+De vereniging zal slechts in het kader van de plaatsvindende activiteiten, welke verband houden met de doelstelling en uitsluitend aan personen, die actief dan wel passief bij deze activiteiten betrokken zijn, consumpties verstrekken. 
 
 #### *Artikel 5* 
 
-Voorzover niet binnen de doelstelling vallend, zal de kantine en/of de inventaris, met name het meubilair en het serviesgoed, niet door de vereniging aan derden worden verhuurd of ter beschikking gesteld.  
+Voorzover niet binnen de doelstelling vallend, zal de kantine en/of de inventaris, met name het meubilair en het serviesgoed, niet door de vereniging aan derden worden verhuurd of ter beschikking gesteld. 
 
 #### *Artikel 6* 
 
-De verstrekking van consumpties in de kantine geschiedt behoudens bijzondere omstandigheden, uitsluitend een uur vóór, tijdens en een uur na het wedstrijdgebeuren, of trainingsuren dan wel tijdens de andere activiteiten binnen het kader van de doelstelling van de vereniging. Onder het wedstrijdgebeuren wordt mede verstaan de activiteiten die duidelijk verbonden zijn aan de wedstrijd, zoals het omkleden en het opruimen van de kleedkamers.  
+De verstrekking van consumpties in de kantine geschiedt behoudens bijzondere omstandigheden, uitsluitend een uur vóór, tijdens en een uur na het wedstrijdgebeuren, of trainingsuren dan wel tijdens de andere activiteiten binnen het kader van de doelstelling van de vereniging. Onder het wedstrijdgebeuren wordt mede verstaan de activiteiten die duidelijk verbonden zijn aan de wedstrijd, zoals het omkleden en het opruimen van de kleedkamers. 
 
 #### *Artikel 7* 
 
-Het Bedrijfschap Horeca erkent, dat de verstrekking van consumpties bij activiteiten, welke in het kader van de doelstelling der vereniging plaatsvinden, een normaal onderdeel uitmaakt van de exploitatie van de kantine, voorzover deze verstrekking geschiedt met inachtneming van het in deze overeenkomst bepaalde, en derhalve als niet-bedrijfsmatig en niet-concurrerend beschouwd moet worden, hetgeen in het algemeen niet leidt tot een verplichte inschrijving bij het Bedrijfschap.  
+Het Bedrijfschap Horeca erkent, dat de verstrekking van consumpties bij activiteiten, welke in het kader van de doelstelling der vereniging plaatsvinden, een normaal onderdeel uitmaakt van de exploitatie van de kantine, voorzover deze verstrekking geschiedt met inachtneming van het in deze overeenkomst bepaalde, en derhalve als niet-bedrijfsmatig en niet-concurrerend beschouwd moet worden, hetgeen in het algemeen niet leidt tot een verplichte inschrijving bij het Bedrijfschap. 
 
 #### *Artikel 8* 
 
-Overtreding van het bepaalde in deze overeenkomst kan door het Bedrijfschap Horeca gemeld worden bij de KNVB, welke instelling de geëigende maatregelen neemt om de betreffende vereniging te wijzen op haar verantwoordelijkheid, en de mogelijke consequenties van het handelen in strijd met deze overeenkomst.  
+Overtreding van het bepaalde in deze overeenkomst kan door het Bedrijfschap Horeca gemeld worden bij de KNVB, welke instelling de geëigende maatregelen neemt om de betreffende vereniging te wijzen op haar verantwoordelijkheid, en de mogelijke consequenties van het handelen in strijd met deze overeenkomst. 
 
 #### *Artikel 9* 
 
-In geval van twijfel kan een vereniging in overleg treden met de KNVB, welke, zo nodig na overleg met het Bedrijfschap Horeca, de vereniging zal informeren over de bedoeling van deze overeenkomst.  
+In geval van twijfel kan een vereniging in overleg treden met de KNVB, welke, zo nodig na overleg met het Bedrijfschap Horeca, de vereniging zal informeren over de bedoeling van deze overeenkomst. 
 
 #### *Artikel 10* 
 
-De KNVB verbindt zich te bevorderen, dat de in deze overeenkomst opgenomen bepalingen zoveel mogelijk worden overgenomen door de verenigingen.  
+De KNVB verbindt zich te bevorderen, dat de in deze overeenkomst opgenomen bepalingen zoveel mogelijk worden overgenomen door de verenigingen. 
 
 #### *Artikel 11* 
 
-Deze overeenkomst laat onverlet de eigen verantwoordelijkheid van de vereniging ten aanzien van de naleving van de bepalingen van de Drank- en Horecawet, de gemeentelijke verordeningen, alsmede van de met gemeentelijke instanties of anderen aangegane overeenkomsten.  
+Deze overeenkomst laat onverlet de eigen verantwoordelijkheid van de vereniging ten aanzien van de naleving van de bepalingen van de Drank- en Horecawet, de gemeentelijke verordeningen, alsmede van de met gemeentelijke instanties of anderen aangegane overeenkomsten. 
 
 #### *Artikel 12* 
 
-Deze overeenkomst is aangegaan voor de duur van één jaar ingaande 1 juli 1982. De overeenkomst zal worden geacht te zijn verlengd, telkens voor de periode van één jaar, indien geen der partijen uiterlijk vóór 1 april van enig jaar de overeenkomst schriftelijk heeft opgezegd.  
+Deze overeenkomst is aangegaan voor de duur van één jaar ingaande 1 juli 1982. De overeenkomst zal worden geacht te zijn verlengd, telkens voor de periode van één jaar, indien geen der partijen uiterlijk vóór 1 april van enig jaar de overeenkomst schriftelijk heeft opgezegd. 
 Aldus overeengekomen en voor accoord ondertekend, namens het Bedrijfschap Horeca namens de KNVB 

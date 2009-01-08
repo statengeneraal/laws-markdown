@@ -15,30 +15,30 @@ Hebben goedgevonden en verstaan:
 
 ### ARTIKEL  I  
 
-Wijzigt het Besluit rijkssubsidiëring onderhoud monumenten.   
+Wijzigt het Besluit rijkssubsidiëring onderhoud monumenten.  
 
 ### ARTIKEL  II  
 
-Wijzigt het Besluit rijkssubsidiëring historische buitenplaatsen.   
+Wijzigt het Besluit rijkssubsidiëring historische buitenplaatsen.  
 
 ### ARTIKEL  IV  
 
-1.  In afwijking van het ingevolge artikel I, onderdeel D, ingevoegde [artikel 2 *b* van het Besluit rijkssubsidiëring onderhoud monumenten](../../../../../../../../../../AMvB/besluit/rijkssubsidiëring/onderhoud/monumenten/BWBR0004654/README.md) verleent Onze minister bij de verdeling van de voor de verstrekking van subsidie als bedoeld in artikel 11 beschikbare bedragen voorrang aan de aanvragen met betrekking tot die kerkgebouwen waarvoor reeds eerder een dergelijke subsidie is aangevraagd, maar waarvoor om budgettaire redenen uitsluitend subsidie is verleend in de kosten van het bij die eerdere aanvraag gevoegde onderhoudsplan.   
-2.  Onze minister verdeelt de voor de verstrekking van subsidie als bedoeld in het eerste lid beschikbare bedragen in de volgorde van ontvangst van de in het eerste lid bedoelde eerdere aanvragen.   
+1.  In afwijking van het ingevolge artikel I, onderdeel D, ingevoegde [artikel 2*b* van het Besluit rijkssubsidiëring onderhoud monumenten](../../../../../../../../../../AMvB/besluit/rijkssubsidiëring/onderhoud/monumenten/BWBR0004654/README.md) verleent Onze minister bij de verdeling van de voor de verstrekking van subsidie als bedoeld in artikel 11 beschikbare bedragen voorrang aan de aanvragen met betrekking tot die kerkgebouwen waarvoor reeds eerder een dergelijke subsidie is aangevraagd, maar waarvoor om budgettaire redenen uitsluitend subsidie is verleend in de kosten van het bij die eerdere aanvraag gevoegde onderhoudsplan.   
+2.  Onze minister verdeelt de voor de verstrekking van subsidie als bedoeld in het eerste lid beschikbare bedragen in de volgorde van ontvangst van de in het eerste lid bedoelde eerdere aanvragen.  
 
 ### ARTIKEL  V  
 
-In afwijking van het ingevolge artikel II, onderdeel E, gewijzigde subsidiepercentage in [artikel 4 van het Besluit rijkssubsidiëring historische buitenplaatsen](../../../../../../../../../../AMvB/besluit/rijkssubsidiëring/historische/buitenplaatsen/BWBR0006058/README.md), geldt voor subsidieaanvragen die op grond van genoemd besluit vóór 1 februari 1997 bij Onze minister zijn ingediend een subsidiepercentage van 80%.  
+In afwijking van het ingevolge artikel II, onderdeel E, gewijzigde subsidiepercentage in [artikel 4 van het Besluit rijkssubsidiëring historische buitenplaatsen](../../../../../../../../../../AMvB/besluit/rijkssubsidiëring/historische/buitenplaatsen/BWBR0006058/README.md), geldt voor subsidieaanvragen die op grond van genoemd besluit vóór 1 februari 1997 bij Onze minister zijn ingediend een subsidiepercentage van 80%. 
 
 ### ARTIKEL  VI  
 
-Dit besluit treedt in werking met ingang van de negende week na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de negende week na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het* Staatsblad* zal worden geplaatst.   
 
 's-Gravenhage 
 5 juli 1997  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, 
 A. Nuis   

@@ -26,15 +26,15 @@ Besluit:
 
 – inventarisnummer 111 op 1 januari 2009  
 
-– inventarisnummer 122 op 1 januari 2018     
+– inventarisnummer 122 op 1 januari 2018    
 
 ### Artikel  2  
 
-Deze regeling wordt aangehaald als: Archiefregeling historische personeelsdossiers Ministerie van Sociale Zaken en Werkgelegenheid.  
+Deze regeling wordt aangehaald als: Archiefregeling historische personeelsdossiers Ministerie van Sociale Zaken en Werkgelegenheid. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd. 
 
 Den Haag 
 1 mei 2007   
@@ -42,4 +42,4 @@ Den Haag
 De 
 Minister van Sociale Zaken en Werkgelegenheid, namens deze: de 
 plaatsvervangend Secretaris-Generaal, 
-P.Hennephof   
+P. Hennephof     

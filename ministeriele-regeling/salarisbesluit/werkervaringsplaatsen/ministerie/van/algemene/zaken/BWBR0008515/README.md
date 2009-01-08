@@ -6,7 +6,7 @@ De Minister van Algemene Zaken,
 Handelende in overeenstemming met de minister van Binnenlandse Zaken;
 
 Gelet op [artikel 12](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) juncto [artikel 25, eerste lid, van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -35,13 +35,13 @@ de hoofden van dienst;
 
 de secretaris van de Bijzondere Commissie;  
 
-de secretaris van de Ondernemingsraad.    
+de secretaris van de Ondernemingsraad.   
 
 De 
-Minister van Algemene Zaken, 
+Ministervan Algemene Zaken,  
 
 voor deze: 
 
 De 
 Secretaris-Generaal, 
-T. van deGraaf    
+T. van de Graaf      

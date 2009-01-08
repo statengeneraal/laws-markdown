@@ -13,21 +13,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-####Wijziging [Wet op het voortgezet onderwijs](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)
+####Wijziging [Wet op het voortgezet onderwijs](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) 
 
-Wijzigt de Wet op het voortgezet onderwijs.   
+Wijzigt de Wet op het voortgezet onderwijs.  
 
 ### Artikel  II  
 
-####WIjziging Wet tegemoetkoming studiekosten
+####WIjziging Wet tegemoetkoming studiekosten 
 
-Wijzigt de Wet tegemoetkoming studiekosten.   
+Wijzigt de Wet tegemoetkoming studiekosten.  
 
 ### Artikel  III  
 
-####Wijziging Wet tegemoetkoming studiekosten
+####Wijziging Wet tegemoetkoming studiekosten 
 
-Wijzigt de Wet tegemoetkoming studiekosten.   
+Treedt in werking op een nader te bepalen tijdstip 
+
+Wijzigt de Wet tegemoetkoming studiekosten.  
 
 ### Artikel  IV  
 

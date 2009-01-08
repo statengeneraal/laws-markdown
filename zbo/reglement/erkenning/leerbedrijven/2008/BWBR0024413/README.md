@@ -32,13 +32,13 @@ In dit reglement wordt verstaan onder:
 
 12. SH&M (Stichting Hout & Meubel) Kenniscentrum beroepsonderwijs bedrijfsleven voor de timmer- en meubelindustrie, houthandel, parketbranche en aanverwante branches.  
 
-13. Opleidingsadviseur SH&M De adviseur van SH&M ondersteunt het leerbedrijf om structureel te werken aan een goede kwaliteit van leren. Tevens bewaakt SH&M de kwaliteit van het leren in de praktijk.    
+13. Opleidingsadviseur SH&M De adviseur van SH&M ondersteunt het leerbedrijf om structureel te werken aan een goede kwaliteit van leren. Tevens bewaakt SH&M de kwaliteit van het leren in de praktijk.   
 
 ### Artikel  2  
 
 ####Doel
 
-Uitsluitend bedrijven en organisaties die voldoen aan de bepalingen in dit reglement en die door het kenniscentrum als zodanig erkend zijn, mogen optreden als leerbedrijf, praktijkcentrum of uitzendorganisatie.  
+Uitsluitend bedrijven en organisaties die voldoen aan de bepalingen in dit reglement en die door het kenniscentrum als zodanig erkend zijn, mogen optreden als leerbedrijf, praktijkcentrum of uitzendorganisatie. 
 
 ### Artikel  3  
 
@@ -47,7 +47,7 @@ Uitsluitend bedrijven en organisaties die voldoen aan de bepalingen in dit regle
 1.  Met inachtneming van de bepalingen in dit reglement wordt een erkenning afgegeven op verzoek van het bedrijf, de deelnemer, de onderwijsinstelling, de organisatie of SH&M die de beroepspraktijkvorming wil verzorgen of als uit- zendorganisatie op wil treden.   
 2.  De aanvraag heeft betrekking op één of meerdere (onderdelen van) kwalificaties.   
 3.  Een aanvraag wordt uitsluitend in behandeling genomen indien dit een eerste aanvraag betreft of indien na een eerdere aanvraag tenminste zes maanden verstreken zijn.   
-4.  SH&M verlangt dat het verzoek tot erkenning door een vertegenwoordiger van SH&M tijdens het bezoek aan leerbedrijf of de organisatie wordt geactiveerd.   
+4.  SH&M verlangt dat het verzoek tot erkenning door een vertegenwoordiger van SH&M tijdens het bezoek aan leerbedrijf of de organisatie wordt geactiveerd.  
 
 ### Artikel  4  
 
@@ -56,7 +56,7 @@ Uitsluitend bedrijven en organisaties die voldoen aan de bepalingen in dit regle
 1.  Het kenniscentrum verleent de erkenning indien naar haar oordeel aan de, in dit reglement, genoemde voorwaarden is voldaan.   
 2.  Het kenniscentrum stelt vast of het een erkenning is als leerbedrijf, als praktijkcentrum of als uitzendorganisatie.   
 3.  Onverminderd het bepaalde in lid 1 kan het kenniscentrum op grond van zwaarwegende redenen besluiten om de erkenning niet te verlenen.   
-4.  Aan de beoordeling van de aanvraag is het bedrijf of de organisatie verplicht zijn medewerking te verlenen.   
+4.  Aan de beoordeling van de aanvraag is het bedrijf of de organisatie verplicht zijn medewerking te verlenen.  
 
 ### Artikel  5  
 
@@ -95,7 +95,7 @@ In het kader van de [Wet educatie en beroepsonderwijs](../../../../../../wet/wet
 Met behulp van de checklisten wordt geïnventariseerd welke werkprocessen in het bedrijf uitgevoerd kunnen worden en welke ontbreken. De ontbrekende werkprocessen (praktijkvervangende afspraken) worden voorgelegd aan de organisatie, die verantwoordelijk is dit elders, onder verantwoording van de organisatie, uit te (laten) voeren. De werkprocessen en de ontbrekende werkprocessen worden via de website aan derden getoond. 
 ###Aanvullende artikelen voor samenwerkingsverbanden en uitzendorganisaties.
 
-Aanvulling ad. 1 en 2. Hier wordt met het leerbedrijf bedoeld het uitlenende leerbedrijf. Het samenwerkingsverband of de uitzendorganisatie verplicht zich tot het plaatsen van de deelnemer bij bedrijven die in het register van erkende leerbedrijven van SH&M zijn opgenomen. Bij een samenwerkingsverband is er in beginsel sprake van dat dit samenwerkingsverband valt onder de werkingssfeer van de CAO voor de houthandel, meubelindustrie- of timmerindustrie. Bij een uitzendorganisatie voldoet de organisatie aan de wettelijke bepalingen die zijn vastgelegd in de [wet van 14 mei 1998, houdende regels voor de niet-openbare arbeidsbemiddeling en het ter beschikking stellen van arbeidskrachten Wet allocatie arbeidskrachten door intermediairs](../../../../../../wet/wet/allocatie/arbeidskrachten/door/intermediairs/BWBR0009616/README.md), zoals gepubliceerd in het staatsblad (Staatsblad 1998-306). Het plaatsen van deelnemers vanuit een uitzendorganisatie bij erkende leerbedrijven bedraagt ten minste een periode van zes maanden. Het samenwerkingsverband of de uitzendorganisatie houdt de opleidingsadviseur van SH&M op de hoogte van de locatie waar de BPV van de deelnemer plaatsvindt.  
+Aanvulling ad. 1 en 2. Hier wordt met het leerbedrijf bedoeld het uitlenende leerbedrijf. Het samenwerkingsverband of de uitzendorganisatie verplicht zich tot het plaatsen van de deelnemer bij bedrijven die in het register van erkende leerbedrijven van SH&M zijn opgenomen. Bij een samenwerkingsverband is er in beginsel sprake van dat dit samenwerkingsverband valt onder de werkingssfeer van de CAO voor de houthandel, meubelindustrie- of timmerindustrie. Bij een uitzendorganisatie voldoet de organisatie aan de wettelijke bepalingen die zijn vastgelegd in de [wet van 14 mei 1998, houdende regels voor de niet-openbare arbeidsbemiddeling en het ter beschikking stellen van arbeidskrachten Wet allocatie arbeidskrachten door intermediairs](../../../../../../wet/wet/allocatie/arbeidskrachten/door/intermediairs/BWBR0009616/README.md), zoals gepubliceerd in het staatsblad (Staatsblad 1998-306). Het plaatsen van deelnemers vanuit een uitzendorganisatie bij erkende leerbedrijven bedraagt ten minste een periode van zes maanden. Het samenwerkingsverband of de uitzendorganisatie houdt de opleidingsadviseur van SH&M op de hoogte van de locatie waar de BPV van de deelnemer plaatsvindt. 
 
 ### Artikel  6  
 
@@ -105,7 +105,7 @@ Aanvulling ad. 1 en 2. Hier wordt met het leerbedrijf bedoeld het uitlenende lee
 2.  De erkenning wordt verleend op vestigingsniveau.   
 3.  Van de beslissing als bedoeld in het eerste lid wordt het bedrijf of de organisatie binnen 20 werkdagen schriftelijk op de hoogte gesteld. De organisatie heeft daarna bij onjuistheden binnen een termijn van 10 werkdagen de mogelijkheid schriftelijk te reageren. Indien de orgnisatie niet reageert, gaat deze akkoord met de door SH&M vastgelegde gegevens en afspraken.   
 4.  De erkenning wordt verleend voor één of meerdere kwalificaties of delen daarvan.   
-5.  De erkenning is geldig voor een periode van vier jaar.   
+5.  De erkenning is geldig voor een periode van vier jaar.  
 
 ### Artikel  7  
 
@@ -113,7 +113,7 @@ Aanvulling ad. 1 en 2. Hier wordt met het leerbedrijf bedoeld het uitlenende lee
 
 1.  Na het verstrijken van de in artikel 6 lid 5 genoemde periode, wordt de erkenning voor dezelfde duur verleend. Artikel 4 is van overeenkomstige toepassing.   
 2.  Van de beslissing over de verlenging wordt het leerbedrijf, het praktijkcentrum, danwel de uitzendorganisatie, in kennis gesteld. Indien de verlenging geweigerd wordt, wordt het leerbedrijf, het praktijkcentrum, danwel de uitzendorganisatie schriftelijk met opgave van redenen van deze beslissing op de hoogte gebracht.   
-3.  Indien het kenniscentrum niet binnen drie maanden na het verstrijken van de in artikel 6 lid 5 genoemde termijn de beslissing over de verlenging aan het leerbedrijf heeft kenbaar gemaakt, kan de erkenning geacht worden te zijn verlengd voor de periode van vier jaar.   
+3.  Indien het kenniscentrum niet binnen drie maanden na het verstrijken van de in artikel 6 lid 5 genoemde termijn de beslissing over de verlenging aan het leerbedrijf heeft kenbaar gemaakt, kan de erkenning geacht worden te zijn verlengd voor de periode van vier jaar.  
 
 ### Artikel  8  
 
@@ -123,7 +123,7 @@ Aanvulling ad. 1 en 2. Hier wordt met het leerbedrijf bedoeld het uitlenende lee
 2.  Van intrekking van de erkenning wordt het leerbedrijf schriftelijk onder opgave van redenen door het kenniscentrum op de hoogte gebracht.   
 3.  Ook kan de erkenning worden ingetrokken als uit de evaluatie kwaliteitszorg BPV blijkt dat de erkenning niet langer verleend kan worden.   
 4.  Indien de begeleiding c.q. de invulling van het praktijkopleiderschap tekort schiet kan de erkenning worden ingetrokken.   
-5.  Bij faillissement of overname vervalt de erkenning.   
+5.  Bij faillissement of overname vervalt de erkenning.  
 
 ### Artikel  9  
 
@@ -132,22 +132,22 @@ Aanvulling ad. 1 en 2. Hier wordt met het leerbedrijf bedoeld het uitlenende lee
 1.  Indien de erkenning geweigerd, ingetrokken of niet verlengd wordt, kan het bedrijf of de organisatie tegen de beslissing als bedoeld in de artikelen 6 lid 1, 7 lid 2 en 8 lid 1 bezwaar maken bij het kenniscentrum.   
 2.  Op de bezwaarprocedure is de [Algemene Wet Bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
 3.  Het bezwaar dient schriftelijk en voorzien van een handtekening en dagtekening binnen 6 weken na dagtekening van de genoemde beslissing te worden ingediend.   
-4.  Het bezwaarschrift bevat in ieder geval: een opgave van naam, adres en vestigingsplaats van het leerbedrijf, evenals de naam van degene die het bedrijf vertegenwoordigt en diens correspondentie adres, de dagtekening, de omschrijving van het besluit waartegen het bezwaar zich richt en de gronden van het bezwaar. Bij het bezwaarschrift dient te worden overlegd: een afschrift van de beslissing waartegen het bezwaar zich richt, en de afschriften van de voornaamste, op de zaak betrekking hebbende besluiten.   
+4.  Het bezwaarschrift bevat in ieder geval: een opgave van naam, adres en vestigingsplaats van het leerbedrijf, evenals de naam van degene die het bedrijf vertegenwoordigt en diens correspondentie adres, de dagtekening, de omschrijving van het besluit waartegen het bezwaar zich richt en de gronden van het bezwaar. Bij het bezwaarschrift dient te worden overlegd: een afschrift van de beslissing waartegen het bezwaar zich richt, en de afschriften van de voornaamste, op de zaak betrekking hebbende besluiten.  
 
 ### Artikel  10  
 
 ####Onvoorziene omstandigheden
 
-In alle gevallen waarin dit reglement niet voorziet beslist het kenniscentrum.  
+In alle gevallen waarin dit reglement niet voorziet beslist het kenniscentrum. 
 
 ### Artikel  11  
 
 ####Inwerkingtreding
 
-Dit reglement treedt in werking met ingang van 1 augustus 2008  
+Dit reglement treedt in werking met ingang van 1 augustus 2008 
 
 ### Artikel  12  
 
 ####Wijzigingen
 
-Wijzigingen in het reglement worden vastgesteld door het kenniscentrum.  
+Wijzigingen in het reglement worden vastgesteld door het kenniscentrum. 

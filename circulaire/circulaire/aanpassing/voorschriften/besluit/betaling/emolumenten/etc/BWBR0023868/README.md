@@ -28,4 +28,4 @@ De ministeriële regeling, waarin de hiervoor genoemde bedragen zijn opgenomen i
 De 
 Minister van Binnenlandse Zaken van Koninkrijksrelaties, voor deze: de 
 directeur-generaal Organisatie en Bedrijfsvoering Rijk, 
-R.IJ.M.Kuipers   
+R.IJ.M. Kuipers     

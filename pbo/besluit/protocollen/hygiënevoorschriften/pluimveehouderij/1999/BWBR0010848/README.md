@@ -2,241 +2,241 @@
 
 ##Besluit Protocollen hygiënevoorschriften pluimveehouderij 1999
 
-Het Bestuur van het Productschap Pluimvee en Eieren heeft,  
+Het Bestuur van het Productschap Pluimvee en Eieren heeft,
 gelet op de [Verordening hygiënevoorschriften pluimveehouderij 1999](../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/1999/BWBR0010849/README.md),
-op 11 november 1999 vastgesteld het navolgende BESLUIT    
+op 11 november 1999 vastgesteld het navolgendeBESLUIT
 
-### Artikel  1  
+###Artikel 1 
 
-Dit besluit neemt de terminologie, als omschreven in [artikel 1 van de Verordening hygiënevoorschriften pluimveehouderij 1999](../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/1999/BWBR0010849/README.md), over.  
+Dit besluit neemt de terminologie, als omschreven in [artikel 1 van de Verordening hygiënevoorschriften pluimveehouderij 1999](../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/1999/BWBR0010849/README.md), over.
 
-### Artikel  2  
+###Artikel 2 
 
-Ten aanzien van de aanwezigheid en het gebruik van drinkwatersystemen op pluimveebedrijven dienen de voorschriften die zijn gesteld in het in bijlage I opgenomen Protocol in acht worden genomen.  
+Ten aanzien van de aanwezigheid en het gebruik van drinkwatersystemen op pluimveebedrijven dienen de voorschriften die zijn gesteld in het in bijlage I opgenomen Protocol in acht worden genomen.
 
-### Artikel  3  
+###Artikel 3 
 
-Ieder bedrijf dat hygiëne-onderzoeken, onderzoeken op de aanwezigheid van Salmonella en/of Campylobacter in de stal op pluimveebedrijven en/of kuikenbroederijen of drinkwateronderzoeken verricht en dat erkend wil worden door de Voorzitter, dient te voldoen aan de eisen van het in bijlage II opgenomen Protocol.  
+Ieder bedrijf dat hygiëne-onderzoeken, onderzoeken op de aanwezigheid van Salmonella en/of Campylobacter in de stal op pluimveebedrijven en/of kuikenbroederijen of drinkwateronderzoeken verricht en dat erkend wil worden door de Voorzitter, dient te voldoen aan de eisen van het in bijlage II opgenomen Protocol.
 
-### Artikel  4  
+###Artikel 4 
 
-Ieder bedrijf dat hygiëne-onderzoeken op pluimveebedrijven verricht en dat erkend wil worden door de Voorzitter dient het hygiëne-onderzoek uit te voeren volgens de voorschriften van het in bijlage III opgenomen Protocol.  
+Ieder bedrijf dat hygiëne-onderzoeken op pluimveebedrijven verricht en dat erkend wil worden door de Voorzitter dient het hygiëne-onderzoek uit te voeren volgens de voorschriften van het in bijlage III opgenomen Protocol.
 
-### Artikel  5  
+###Artikel 5 
 
-Ieder bedrijf dat onderzoeken op de aanwezigheid van Salmonella en/of Campylobacter in de stal op pluimveebedrijven verricht en dat erkend wil worden door de Voorzitter dient het onderzoek uit te voeren volgens de voorschriften van het in bijlage IV opgenomen Protocol.  
+Ieder bedrijf dat onderzoeken op de aanwezigheid van Salmonella en/of Campylobacter in de stal op pluimveebedrijven verricht en dat erkend wil worden door de Voorzitter dient het onderzoek uit te voeren volgens de voorschriften van het in bijlage IV opgenomen Protocol.
 
-### Artikel  6  
+###Artikel 6 
 
-Laboratoria die erkend willen worden, als bedoeld in artikel 4, achtste lid, van de verordening, dienen te voldoen aan de in Bijlage V opgenomen erkenningsvoorwaarden. Erkende laboratoria dienen de analyse van de monsters uit te voeren overeenkomstig de voorschriften opgenomen in Bijlage VI, VII, VIII en IX.  
+Laboratoria die erkend willen worden, als bedoeld in artikel 4, achtste lid, van de verordening, dienen te voldoen aan de in Bijlage V opgenomen erkenningsvoorwaarden.Erkende laboratoria dienen de analyse van de monsters uit te voeren overeenkomstig de voorschriften opgenomen in Bijlage VI, VII, VIII en IX.
 
-### Artikel  7  
+###Artikel 7 
 
-De door het Bestuur in Bijlage X aangewezen instantie(s) is (zijn) belast met de controle op de naleving van het bepaalde bij of krachtens de [Verordening hygiënevoorschriften pluimveehouderij 1999](../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/1999/BWBR0010849/README.md).  
+De door het Bestuur in Bijlage X aangewezen instantie(s) is (zijn) belast met de controle op de naleving van het bepaalde bij of krachtens de [Verordening hygiënevoorschriften pluimveehouderij 1999](../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/1999/BWBR0010849/README.md).
 
-### Artikel  8  
+###Artikel 8 
 
-1.  Dit besluit kan worden aangehaald als "Besluit Protocollen hygiënevoorschriften pluimveehouderij 1999".   
-2.  Dit besluit treedt in werking met ingang van de dag van inwerkingtreding van de [Verordening hygiënevoorschriften pluimveehouderij 1999](../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/1999/BWBR0010849/README.md).   
+1. Dit besluit kan worden aangehaald als "Besluit Protocollen hygiënevoorschriften pluimveehouderij 1999".
+2. Dit besluit treedt in werking met ingang van de dag van inwerkingtreding van de [Verordening hygiënevoorschriften pluimveehouderij 1999](../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/1999/BWBR0010849/README.md).
 
 Voor het Bestuur, 
 R.J. Tazelaar  
 Voorzitter  
 
 S.B.M. Jongerius  
-Secretaris    
+Secretaris   
 
 ####Besluit Protocollen Hygiënevoorschriften Pluimveehouderij 1999, bijlagen.
 
-Inhoudsopgave 
+Inhoudsopgave
 
 | --- | --- |
 |:---|:---|
-|  Bijlage I    | Voorschriften drinkwateronderzoek.  |
-|  Bijlage II    | Erkenningsvoorwaarden betreffende uitvoering hygiëne-onderzoek, Onderzoek op aanwezigheid van Salmonella en/of Campybacter in Pluimveestallen en/of drinkwateronderzoek op pluimveebedrijven.  |
-|  Bijlage III    | Uitvoering Hygiëne-onderzoeken.  |
-|  Bijlage IV    | Uitvoering onderzoek op de aanwezigheid van Salmonella en/of Campylobacter. (swab-onderzoek)  |
-|  Bijlage V    | Erkenningsvoorwaarden voor laboratoria die de analyses van Monsters op de aan- of afwezigheid van Salmonella en/of Campylobacter uitvoeren.  |
-|  Bijlage VI    | Analysemethoden voor het aantonen van Salmonella en Campylobacter in pluimvee(vlees) en eieren.  |
-|  Bijlage VII    | Vermeldingswijze van de resultaten van Salmonella onderzoeken.  |
-|  Bijlage VIII    | Serologische bevestiging en serotypering.  |
-|  Bijlage IX    | Opmerkingen opdrachtgever bij aanleveren afwijkende monsters, Acceptatiecriteria  |
-|  Bijlage X    | Aangewezen instanties belast met de controle op de naleving van de Verordening  |
+|Bijlage I  |Voorschriften drinkwateronderzoek. |
+|Bijlage II  |Erkenningsvoorwaarden betreffende uitvoering hygiëne-onderzoek, Onderzoek op aanwezigheid van Salmonella en/of Campybacter in Pluimveestallen en/of drinkwateronderzoek op pluimveebedrijven. |
+|Bijlage III  |Uitvoering Hygiëne-onderzoeken. |
+|Bijlage IV  |Uitvoering onderzoek op de aanwezigheid van Salmonella en/of Campylobacter. (swab-onderzoek) |
+|Bijlage V  |Erkenningsvoorwaarden voor laboratoria die de analyses van Monsters op de aan- of afwezigheid van Salmonella en/of Campylobacter uitvoeren. |
+|Bijlage VI  |Analysemethoden voor het aantonen van Salmonella en Campylobacter in pluimvee(vlees) en eieren. |
+|Bijlage VII  |Vermeldingswijze van de resultaten van Salmonella onderzoeken. |
+|Bijlage VIII  |Serologische bevestiging en serotypering. |
+|Bijlage IX  |Opmerkingen opdrachtgever bij aanleveren afwijkende monsters, Acceptatiecriteria |
+|Bijlage X  |Aangewezen instanties belast met de controle op de naleving van de Verordening |
 
-### Bijlage  I  
+###Bijlage I 
 
 ####: Voorschriften drinkwateronderzoek
 
-### A  
+###A 
 
 ####Omschrijvingen
 
-### A.1  
+###A.1 
 
 ####Gesloten drinkwatersysteem
 
-Een gesloten drinkwatersysteem heeft een reduceerventiel, vlotterbak of een voorraadtank en is verder gesloten tot aan de nippels, cups of torens. Voor het toedienen van medicijnen mag hierop een dosator, voorraad- of mengvat worden aangesloten. Deze dienen echter wel voorzien te zijn van een goed sluitende deksel. Tevens mogen er geen andere open verbindingen zijn. Kort samengevat moet de drinkwateraanvoerlijn tot aan het drinkpunt in de stal gesloten zijn.  
+Een gesloten drinkwatersysteem heeft een reduceerventiel, vlotterbak of een voorraadtank en is verder gesloten tot aan de nippels, cups of torens. Voor het toedienen van medicijnen mag hierop een dosator, voorraad- of mengvat worden aangesloten. Deze dienen echter wel voorzien te zijn van een goed sluitende deksel. Tevens mogen er geen andere open verbindingen zijn. Kort samengevat moet de drinkwateraanvoerlijn tot aan het drinkpunt in de stal gesloten zijn.
 
-### A.2  
+###A.2 
 
 ####Open drinkwatersysteem
 
-Een open drinkwatersysteem maakt gebruik van vlotterbakken of voorraadtanken, die geen goed sluitende deksel en/of andere open verbindingen hebben.  
+Een open drinkwatersysteem maakt gebruik van vlotterbakken of voorraadtanken, die geen goed sluitende deksel en/of andere open verbindingen hebben.
 
-### B  
+###B 
 
 ####Drinkwatersystemen
 
 | --- | --- | --- | --- | --- |
 |---|---|---|---|---|
-| --- | ja  | --- | ja  | --- |
-| Gesloten drinkwatersysteem?  | --- | Leidingwater?  | --- | Optie 1: elke leegstand drinkwatersysteem reinigen en ontsmetten (alle stallen)  |
-| nee  | --- | nee  | --- | --- |
-| --- | --- | --- | --- | Optie 2: jaarlijks bacteriologisch drinkwateronderzoek (één stal)  |
-| --- | --- | --- | ja  | --- |
-| --- | --- | Eigen bron  | --- | Jaarlijks chemisch drinkwateronderzoek (per bron) en bacteriologisch drinkwateronderzoek (per bron één stal)  |
+| --- |ja | --- |ja | --- |
+|Gesloten drinkwatersysteem? | --- |Leidingwater? | --- |Optie 1: elke leegstand drinkwatersysteem reinigen en ontsmetten (alle stallen) |
+|nee | --- |nee | --- | --- |
+| --- | --- | --- | --- |Optie 2: jaarlijks bacteriologisch drinkwateronderzoek (één stal) |
+| --- | --- | --- |ja | --- |
+| --- | --- |Eigen bron | --- |Jaarlijks chemisch drinkwateronderzoek (per bron) en bacteriologisch drinkwateronderzoek (per bron één stal) |
 | --- | --- | --- | --- | --- |
-| --- | --- | --- | ja  | --- |
-| Open drinkwatersysteem?  | --- | Leidingwater?  | --- | Jaarlijks bacteriologisch drinkwateronderzoek (alle stallen)  |
-| --- | --- | nee  | --- | --- |
-| --- | --- | eigen bron  | --- | Jaarlijks chemisch drinkwateronderzoek (per bron) en bacteriologisch drinkwateronderzoek (alle stallen)  |
+| --- | --- | --- |ja | --- |
+|Open drinkwatersysteem? | --- |Leidingwater? | --- |Jaarlijks bacteriologisch drinkwateronderzoek (alle stallen) |
+| --- | --- |nee | --- | --- |
+| --- | --- |eigen bron | --- |Jaarlijks chemisch drinkwateronderzoek (per bron) en bacteriologisch drinkwateronderzoek (alle stallen) |
 
-Toelichting Ingeval er een drinkwateronderzoek dient plaats te vinden, dient dit éénmaal per jaar, d.w.z. 6 weken voor het ruimen van een koppel pluimvee, te worden verricht. Op deze wijze kan de monstername voor het bloedonderzoek S.e./S.t. bij (opfok-)leghennenbedrijven worden gecombineerd met de monstername voor het drinkwateronderzoek. Aangezien vleeskuikens op een leeftijd van ongeveer 6 weken leeftijd worden afgeleverd, mag het jaarlijkse drinkwateronderzoek op vleeskuikenbedrijven op elke dag van het jaar worden uitgevoerd. Indien er drinkwateronderzoek in het kader van de KKM-regeling, de regeling voor IKB-varkens of IKB-rund wordt verricht kan hierbij worden aangesloten, mits de monstername is verricht conform deze bijlage en alle gehaltes zijn bepaald conform deze bijlage. De monsters voor het bacteriologisch drinkwateronderzoek dienen aan het einde van het drinkwatersysteem te worden genomen. Monstername voor het bacteriologisch drinkwateronderzoek mag bij de bron worden verricht, indien het drinkwatersysteem tijdens elke leegstandperiode wordt gereinigd en ontsmet. De monsters voor het drinkwater-onderzoek mogen door de pluimveehouder zelf worden genomen.  
+Toelichting Ingeval er een drinkwateronderzoek dient plaats te vinden, dient dit éénmaal per jaar, d.w.z. 6 weken voor het ruimen van een koppel pluimvee, te worden verricht. Op deze wijze kan de monstername voor het bloedonderzoek S.e./S.t. bij (opfok-)leghennenbedrijven worden gecombineerd met de monstername voor het drinkwateronderzoek. Aangezien vleeskuikens op een leeftijd van ongeveer 6 weken leeftijd worden afgeleverd, mag het jaarlijkse drinkwateronderzoek op vleeskuikenbedrijven op elke dag van het jaar worden uitgevoerd. Indien er drinkwateronderzoek in het kader van de KKM-regeling, de regeling voor IKB-varkens of IKB-rund wordt verricht kan hierbij worden aangesloten, mits de monstername is verricht conform deze bijlage en alle gehaltes zijn bepaald conform deze bijlage. De monsters voor het bacteriologisch drinkwateronderzoek dienen aan het einde van het drinkwatersysteem te worden genomen. Monstername voor het bacteriologisch drinkwateronderzoek mag bij de bron worden verricht, indien het drinkwatersysteem tijdens elke leegstandperiode wordt gereinigd en ontsmet. De monsters voor het drinkwater-onderzoek mogen door de pluimveehouder zelf worden genomen. 
 
-### C  
+###C 
 
 ####Tabellen verplichte onderzoeken
 
-### C.1  
+###C.1 
 
-####Tabel 1: Chemisch onderzoek
+####Tabel 1: Chemisch onderzoek 
 
-|  *analyse*   |  *norm*   |
+|*analyse* |*norm* |
 |:---|:---|
-| zuurgraad (pH)  | tussen 4 en 9  |
-| hardheid  | max. 20 ° D  |
-| ijzergehalte (Fe)  | max. 2,5 mg/l  |
-| nitriet  | max. 1,0 mg/l  |
-| mangaan (Mn)  | max. 2,0 mg/l  |
+|zuurgraad (pH) |tussen 4 en 9 |
+|hardheid |max. 20 ° D |
+|ijzergehalte (Fe) |max. 2,5 mg/l |
+|nitriet |max. 1,0 mg/l |
+|mangaan (Mn) |max. 2,0 mg/l |
 
-### C.2  
+###C.2 
 
-####Tabel 2: Microbiologisch onderzoek
+####Tabel 2: Microbiologisch onderzoek 
 
-|  *analyse*   |  *Norm*   |
+|*analyse* |*Norm* |
 |:---|:---|
-| totaal kiemgetal  | max. 100.000 kve/ml  |
-| E. coli  | max. 100 kve/ml  |
+|totaal kiemgetal |max. 100.000 kve/ml |
+|E. coli |max. 100 kve/ml |
 
-### D  
+###D 
 
 ####Acties bij afwijkingen
 
-Wanneer het drinkwateronderzoek niet voldoet aan de gestelde normen, dienen de volgende maatregelen te worden genomen, in ieder geval direct na het afleveren van het koppel pluimvee: 
+Wanneer het drinkwateronderzoek niet voldoet aan de gestelde normen, dienen de volgende maatregelen te worden genomen, in ieder geval direct na het afleveren van het koppel pluimvee:
 
-### D1  
+###D1 
 
 ####Chemisch onderzoek
 
-Wanneer het drinkwateronderzoek niet voldoet aan de chemische normen, dienen passende maatregelen worden genomen, waarna opnieuw een drinkwateronderzoek moet plaatsvinden, waaruit blijkt dat het water nu wel aan de norm voldoet.  
+Wanneer het drinkwateronderzoek niet voldoet aan de chemische normen, dienen passende maatregelen worden genomen, waarna opnieuw een drinkwateronderzoek moet plaatsvinden, waaruit blijkt dat het water nu wel aan de norm voldoet.
 
-### D2  
+###D2 
 
 ####Bacteriologisch onderzoek
 
-Wanneer het drinkwateronderzoek niet voldoet aan de bacteriologische norm, dient het drinkwatersysteem te worden gereinigd en gedesinfecteerd.  
+Wanneer het drinkwateronderzoek niet voldoet aan de bacteriologische norm, dient het drinkwatersysteem te worden gereinigd en gedesinfecteerd.
 
-### Bijlage  II  
+###Bijlage II 
 
 ####: Erkenningsvoorwaarden betreffende uitvoering hygiëne- onderzoek, onderzoek op de aanwezigheid van Salmonella en/of Campylobacter in pluimveestallen en/of drinkwateronderzoek op pluimveebedrijven
 
-### A  
+###A 
 
 ####Algemene voorwaarden
 
-A1. Om in aanmerking te komen voor een erkenning dient de organisatie zich schriftelijk aan te melden bij het Productschap.  
+A1.Om in aanmerking te komen voor een erkenning dient de organisatie zich schriftelijk aan te melden bij het Productschap.
 
-A2. Het bedrijf dient blijk te geven van goed management en dient zodanig te zijn georganiseerd dat het vermogen om haar werkzaamheden op goede wijze te vervullen, op peil blijft. Tevens dient de eigenaar/beheerder volledige medewerking te verlenen aan de erkennings- en toezichtswerkzaamheden, die in het kader van deze regeling worden uitgevoerd.  
+A2.Het bedrijf dient blijk te geven van goed management en dient zodanig te zijn georganiseerd dat het vermogen om haar werkzaamheden op goede wijze te vervullen, op peil blijft.Tevens dient de eigenaar/beheerder volledige medewerking te verlenen aan de erkennings- en toezichtswerkzaamheden, die in het kader van deze regeling worden uitgevoerd.
 
-A3. Per bedrijf dient minstens één persoon op directieniveau of een directiegedelegeerde en liefst zonder productie verantwoordelijkheid, verantwoordelijk te zijn voor de uitvoering van deze regeling. Het dient aannemelijk gemaakt te worden dat deze persoon, hetzij door opleiding, hetzij door ervaring, in staat is om deze taak te vervullen.  
+A3.Per bedrijf dient minstens één persoon op directieniveau of een directiegedelegeerde en liefst zonder productie verantwoordelijkheid, verantwoordelijk te zijn voor de uitvoering van deze regeling. Het dient aannemelijk gemaakt te worden dat deze persoon, hetzij door opleiding, hetzij door ervaring, in staat is om deze taak te vervullen.
 
-A4. Het bedrijf dient over een door het Productschap goedgekeurd kwaliteitsbeheersingssysteem te beschikken, dat is vastgelegd in een handboek of kwaliteitsdocumentatie. Dit systeem dient tenminste de volgende onderdelen te bevatten: 
+A4.Het bedrijf dient over een door het Productschap goedgekeurd kwaliteitsbeheersingssysteem te beschikken, dat is vastgelegd in een handboek of kwaliteitsdocumentatie.Dit systeem dient tenminste de volgende onderdelen te bevatten:
 
-doelstelling en relevante eisen voor hygiëne-onderzoek  
+doelstelling en relevante eisen voor hygiëne-onderzoek
 
-beschrijving van taken/verantwoordelijkheden van alle betrokken functies en de hierarchische structuur (organisatieschema) van het bedrijf  
+beschrijving van taken/verantwoordelijkheden van alle betrokken functies en de hierarchische structuur (organisatieschema) van het bedrijf
 
-beschrijving van het administratieve systeem (procedures) m.b.t. monstername en onderzoek in het kader van deze regeling  
+beschrijving van het administratieve systeem (procedures) m.b.t. monstername en onderzoek in het kader van deze regeling
 
-beschrijving van de interne kwaliteitsborging monstername en laboratorium-onderzoek  
+beschrijving van de interne kwaliteitsborging monstername en laboratorium-onderzoek
 
-procedures voor het beheer van het handboek.    
+procedures voor het beheer van het handboek.
 
-A5. Het bedrijf heeft behoudens de normale “opdrachtgever uitvoerder” relatie geen andere banden, in welke vorm dan ook met de partijen waar hygiëne-onderzoek wordt uitgevoerd. Dit houdt in dat het bedrijf geen deel mag uitmaken van enige organisatie die belangen heeft bij de te controleren partij. Maatregelen moeten zijn genomen om zekerheid te verschaffen dat partijen buiten het bedrijf de resultaten van de uitgevoerde monstername niet kunnen beïnvloeden. Haar medewerkers moeten vrij zijn van enige commerciële, financiële of andere druk die de uitvoering van hun werkzaamheden zouden kunnen beïnvloeden. Deze controle-werkzaamheden worden steeds gescheiden uitgevoerd van de overige, al dan niet aanverwante activiteiten van het bedrijf. Het verband tussen deze activiteiten dient duidelijk te worden beschreven.  
+A5.Het bedrijf heeft behoudens de normale “opdrachtgever uitvoerder” relatie geen andere banden, in welke vorm dan ook met de partijen waar hygiëne-onderzoek wordt uitgevoerd. Dit houdt in dat het bedrijf geen deel mag uitmaken van enige organisatie die belangen heeft bij de te controleren partij. Maatregelen moeten zijn genomen om zekerheid te verschaffen dat partijen buiten het bedrijf de resultaten van de uitgevoerde monstername niet kunnen beïnvloeden.Haar medewerkers moeten vrij zijn van enige commerciële, financiële of andere druk die de uitvoering van hun werkzaamheden zouden kunnen beïnvloeden.Deze controle-werkzaamheden worden steeds gescheiden uitgevoerd van de overige, al dan niet aanverwante activiteiten van het bedrijf. Het verband tussen deze activiteiten dient duidelijk te worden beschreven.
 
-A6. Personeel belast met de uitvoering van de monsternames en/of het laboratoriumonderzoek, beschikken over de juiste technische kwalificaties, de nodige opleiding, scholing en ervaring alsmede over voldoende kennis van de voorschriften nodig om de werkzaamheden te kunnen uitvoeren. Voor wat betreft het uitvoeren van de monsternames dient het personeel de basiscursus “Monstername hygiëne-onderzoek” van het Productschap te hebben gevolgd of een gelijkwaardige opleiding.  
+A6.Personeel belast met de uitvoering van de monsternames en/of het laboratoriumonderzoek, beschikken over de juiste technische kwalificaties, de nodige opleiding, scholing en ervaring alsmede over voldoende kennis van de voorschriften nodig om de werkzaamheden te kunnen uitvoeren.Voor wat betreft het uitvoeren van de monsternames dient het personeel de basiscursus “Monstername hygiëne-onderzoek” van het Productschap te hebben gevolgd of een gelijkwaardige opleiding.
 
-A7. Het bedrijf moet over een opleidingssysteem beschikken, zodanig dat verzekerd is dat de opleiding van de medewerkers met betrekking tot de technische aspecten van het werk aan de eisen blijft voldoen.    
+A7.Het bedrijf moet over een opleidingssysteem beschikken, zodanig dat verzekerd is dat de opleiding van de medewerkers met betrekking tot de technische aspecten van het werk aan de eisen blijft voldoen.
 
-### B  
+###B 
 
 ####Bijzondere voorwaarden
 
-### B1  
+###B1 
 
 ####Monstername hygiëne-onderzoek
 
-B1.1 De uitvoering van de werkzaamheden dient te gebeuren overeenkomstig de voorschriften voor bemonsteringen en laboratoriumwerkzaamheden zoals vastgesteld in bijlage III.  
+B1.1De uitvoering van de werkzaamheden dient te gebeuren overeenkomstig de voorschriften voor bemonsteringen en laboratoriumwerkzaamheden zoals vastgesteld in bijlage III.
 
-B1.2 De monsters worden direct na monstername van een unieke identificatie voorzien ten einde te voorkomen dat erop enig moment verwarring kan ontstaan omtrent de identiteit van de monsters. Een beschrijving van het toegepaste identificatiesysteem moet beschikbaar zijn.  
+B1.2De monsters worden direct na monstername van een unieke identificatie voorzien ten einde te voorkomen dat erop enig moment verwarring kan ontstaan omtrent de identiteit van de monsters. Een beschrijving van het toegepaste identificatiesysteem moet beschikbaar zijn.
 
-B1.3 Het bedrijf dient over op schrift gestelde procedures en/of voorschriften te beschikken voor ontvangst, opslag, behandeling en verwijdering van monsters. De behandeling van monsters moet te allen tijde zodanig zijn dat hun conditie zo goed mogelijk onveranderd blijft.    
+B1.3Het bedrijf dient over op schrift gestelde procedures en/of voorschriften te beschikken voor ontvangst, opslag, behandeling en verwijdering van monsters. De behandeling van monsters moet te allen tijde zodanig zijn dat hun conditie zo goed mogelijk onveranderd blijft.
 
-### B2  
+###B2 
 
 ####Monstername stalhygiëne-onderzoek na een Salmonella- en/of Campylobacterbesmetting
 
-B2.1 De uitvoering van de werkzaamheden dient te gebeuren overeenkomstig het werkvoorschrift voor het nemen van swabmonsters in pluimveestallen, zoals beschreven in bijlage IV.  
+B2.1De uitvoering van de werkzaamheden dient te gebeuren overeenkomstig het werkvoorschrift voor het nemen van swabmonsters in pluimveestallen, zoals beschreven in bijlage IV.
 
-B2.2 Het bedrijf dient in overleg met de pluimveehouder een afspraak te maken voor het uitvoeren van de monstername.  
+B2.2Het bedrijf dient in overleg met de pluimveehouder een afspraak te maken voor het uitvoeren van de monstername.
 
-B2.3 De swabmonsters worden direct na monstername van een unieke identificatie voorzien ten einde te voorkomen dat erop enig moment verwarring kan ontstaan omtrent de identiteit van de monsters. Een beschrijving van het toegepaste identificatiesysteem moet beschikbaar zijn.  
+B2.3De swabmonsters worden direct na monstername van een unieke identificatie voorzien ten einde te voorkomen dat erop enig moment verwarring kan ontstaan omtrent de identiteit van de monsters. Een beschrijving van het toegepaste identificatiesysteem moet beschikbaar zijn.
 
-B2.4 Het bedrijf dient over op schrift gestelde procedures en/of voorschriften te beschikken betreffende 
+B2.4Het bedrijf dient over op schrift gestelde procedures en/of voorschriften te beschikken betreffende
 
-de te nemen beschermende maatregelen;  
+de te nemen beschermende maatregelen;
 
-de ontvangst, opslag, behandeling en verwijdering van de swab-monsters. De behandeling van de monsters moet te allen tijde zodanig zijn dat hun conditie zo goed mogelijk onveranderd blijft.      
+de ontvangst, opslag, behandeling en verwijdering van de swab-monsters. De behandeling van de monsters moet te allen tijde zodanig zijn dat hun conditie zo goed mogelijk onveranderd blijft.
 
-### B3  
+###B3 
 
 ####Laboratorium-onderzoek
 
-B3.1 Het bedrijf dient via een kwaliteitsborgingssysteem gebaseerd op de eisen vervat in de norm EN-45001 aantoonbaar te maken dat het uitvoeren van monstername en analyse op zodanige wijze gebeurt dat de betrouwbaarheid van de geproduceerde resultaten op een voldoende niveau wordt beheerst en geborgd. Dit wordt voldoende aantoonbaar gemaakt, indien het bedrijf een van de volgende erkenningen heeft: STERIN, ISO/IEC 17025, ISO-9002, Labcode van het Productschap Diervoeder. De monstername en/of het laboratoriumonderzoek moeten deel uitmaken van het erkenningsgebied.  
+B3.1Het bedrijf dient via een kwaliteitsborgingssysteem gebaseerd op de eisen vervat in de norm EN-45001 aantoonbaar te maken dat het uitvoeren van monstername en analyse op zodanige wijze gebeurt dat de betrouwbaarheid van de geproduceerde resultaten op een voldoende niveau wordt beheerst en geborgd.Dit wordt voldoende aantoonbaar gemaakt, indien het bedrijf een van de volgende erkenningen heeft: STERIN, ISO/IEC 17025, ISO-9002, Labcode van het Productschap Diervoeder. De monstername en/of het laboratoriumonderzoek moeten deel uitmaken van het erkenningsgebied.
 
-B3.2. Indien het bedrijf wel de monstername verzorgt, maar de analysewerkzaamheden uitbesteedt, dient het bedrijf er voor te zorgen dat dit gebeurt bij een laboratorium dat een erkenning heeft (STERIN , ISO/IEC 17025, ISO-9000 voor laboratoria, Labcode van het Productschap Diervoeder).    
+B3.2.Indien het bedrijf wel de monstername verzorgt, maar de analysewerkzaamheden uitbesteedt, dient het bedrijf er voor te zorgen dat dit gebeurt bij een laboratorium dat een erkenning heeft (STERIN , ISO/IEC 17025, ISO-9000 voor laboratoria, Labcode van het Productschap Diervoeder).
 
-### B4  
+###B4 
 
 ####Administratie
 
-B4.1 Het bedrijf dient een duidelijke en volledige administratie te voeren. Deze administratie dient tenminste het volgende te omvatten. 
+B4.1Het bedrijf dient een duidelijke en volledige administratie te voeren. Deze administratie dient tenminste het volgende te omvatten.
 
-alle correspondentie betreffende het verzoek tot uitvoeren van een monstername  
+alle correspondentie betreffende het verzoek tot uitvoeren van een monstername
 
-alle registraties van waarnemingen, ongeacht de vorm (ruwe data)  
+alle registraties van waarnemingen, ongeacht de vorm (ruwe data)
 
-alle eventueel gemaakte berekeningen en afgeleide gegevens  
+alle eventueel gemaakte berekeningen en afgeleide gegevens
 
-het eindrapport, inclusief eventuele aanvullingen en/of wijzigingen  
+het eindrapport, inclusief eventuele aanvullingen en/of wijzigingen
 
-voorschriften bemonsteringen en laboratoriumwerkzaamheden voor hygiëne- onderzoek.  
+voorschriften bemonsteringen en laboratoriumwerkzaamheden voor hygiëne- onderzoek.
 
-resultaten interne kwaliteitscontroles (ringonderzoek e.d.) uitgevoerd door het bedrijf en de resultaten van eventuele herstelacties.    
+resultaten interne kwaliteitscontroles (ringonderzoek e.d.) uitgevoerd door het bedrijf en de resultaten van eventuele herstelacties.
 
-B4.2 Het bedrijf heeft een systeem voor het bewaren van alle relevante gegevens. De gegevens moeten voldoende zijn om de uitgevoerde monstername op hun waarde te beoordelen. Deze informatie dient tot minimaal 2 jaar na uitvoering beschikbaar te blijven.    
+B4.2Het bedrijf heeft een systeem voor het bewaren van alle relevante gegevens. De gegevens moeten voldoende zijn om de uitgevoerde monstername op hun waarde te beoordelen. Deze informatie dient tot minimaal 2 jaar na uitvoering beschikbaar te blijven.
 
-### Bijlage  III  
+### Bijlage III 
 
 ####: Uitvoering hygiëne-onderzoeken
 
@@ -246,11 +246,11 @@ De werkwijze die in dit voorschrift is vastgelegd, heeft enkel betrekking op het
 
 ####Bemonsteringen
 
-### a  
+### a 
 
 ####Te gebruiken materialen.
 
-1.  *Agar*  Plate count agar (PL-agar) voor totaal koloniegetal telling. Aangezien er restanten ontsmettingsmiddel op de te bemonsteren oppervlakken aanwezig kunnen zijn, dienen ter inactivering hiervan aan deze agar de volgende stoffen in de aangegeven hoeveelheden per liter te worden toegevoegd:  
+1.*Agar*Plate count agar (PL-agar) voor totaal koloniegetal telling.Aangezien er restanten ontsmettingsmiddel op de te bemonsteren oppervlakken aanwezig kunnen zijn, dienen ter inactivering hiervan aan deze agar de volgende stoffen in de aangegeven hoeveelheden per liter te worden toegevoegd: 
 
 | --- | --- |
 |:---|:---|
@@ -262,9 +262,9 @@ De werkwijze die in dit voorschrift is vastgelegd, heeft enkel betrekking op het
 | Lecithine  | 2 gram  |
 | L-Histidine  | 1 gram  |
 
-2.  *Vullen*  Deze agar dient in steriele Rodac-plaatjes te worden gegoten en wel zodanig dat de agar het volledige plaatje vult met een bolle spiegel. De datum waarop de plaatjes zijn aangemaakt dient op elke verpakking aangegeven te worden, tenzij door de fabrikant op elke verpakking een "THT-datum" vermeld wordt, die aangeeft tot wanneer de Rodac-plaatjes uiterlijk te gebruiken zijn.  
+2.*Vullen*Deze agar dient in steriele Rodac-plaatjes te worden gegoten en wel zodanig dat de agar het volledige plaatje vult met een bolle spiegel.De datum waarop de plaatjes zijn aangemaakt dient op elke verpakking aangegeven te worden, tenzij door de fabrikant op elke verpakking een "THT-datum" vermeld wordt, die aangeeft tot wanneer de Rodac-plaatjes uiterlijk te gebruiken zijn.
 
-3.  *Opslag*  De in voorraad klaargemaakte Rodac-plaatjes moeten worden opgeslagen bij een temperatuur tussen 0°C en 20°C. Tocht en temperatuurschommelingen moeten voorkomen worden. De plaatjes dienen altijd met de agar aan de bovenzijde te worden geplaatst. De op voorraad klaargemaakte Rodac-plaatjes kunnen niet meer gebruikt worden wanneer: 
+3.*Opslag*De in voorraad klaargemaakte Rodac-plaatjes moeten worden opgeslagen bij een temperatuur tussen 0°C en 20°C. Tocht en temperatuurschommelingen moeten voorkomen worden. De plaatjes dienen altijd met de agar aan de bovenzijde te worden geplaatst. De op voorraad klaargemaakte Rodac-plaatjes kunnen niet meer gebruikt worden wanneer:
 
 zij bewaard zijn geweest bij een temperatuur lager dan 0°C of hoger dan 25°C, of  
 
@@ -276,9 +276,9 @@ wanneer er groei op de agar waar te nemen is, of
 
 wanneer de plaatjes langer dan 30 dagen geleden zijn aangemaakt, tenzij de door de fabrikant vermelde "THT-datum" nog niet is verstreken, of  
 
-wanneer het plaatje een breuk bevat of gebroken is.    
+wanneer het plaatje een breuk bevat of gebroken is.  
 
-4.  *Codering*  Elk individueel plaatje is vooraf voorzien van het nummer of wordt voorafgaand aan het afdrukken voorzien van het nummer dat correspondeert met de bemonsteringsplaats, zoals aangegeven in onderdeel 1a, blad 2, 1b, blad 2 of 1c, blad 2 "Bemonsteringsschema". Kies het schema voor het betreffende staltype.    
+4.*Codering*Elk individueel plaatje is vooraf voorzien van het nummer of wordt voorafgaand aan het afdrukken voorzien van het nummer dat correspondeert met de bemonsteringsplaats, zoals aangegeven in onderdeel 1a, blad 2, 1b, blad 2 of 1c, blad 2 "Bemonsteringsschema". Kies het schema voor het betreffende staltype. 
 
 ####b. Monstername en visuele controle.
 
@@ -294,15 +294,15 @@ wanneer het plaatje een breuk bevat of gebroken is.
 
 6. Naast de hiervoor genoemde bemonsteringen, dient één plaatje niet bemonsterd te worden (negatief monster) en één plaatje binnen de "poort van het bedrijf", maar buiten de stal (positief monster). De analyse van deze twee plaatjes dienen als referentie voor de stalmonsters. De uitslagen van deze monsters dienen op het hiervoor bestemde formulier vermeld te worden.  
 
-7. Visuele controle: De monsternemer beoordeelt de stal op de volgende aspecten:  
+7.Visuele controle: De monsternemer beoordeelt de stal op de volgende aspecten: 
 
 | --- | --- |
 |---|---|
 | reinheid inventaris  | : goed/voldoende/matig/slecht  |
 | reinheid vloer  | : goed/voldoende/matig/slecht  |
 | reinheid muren/plafond  | : goed/voldoende/matig/slecht  |
-| ongediertewering  | : goed/voldoende/matig/slecht  |
-| ongediertesporen  | : afwezig/schade/uitwerpselen/kevers/vliegen/larven  |
+|ongediertewering  |: goed/voldoende/matig/slecht  |
+|ongediertesporen  |: afwezig/schade/uitwerpselen/kevers/vliegen/larven |
 
 De norm voor de visuele beoordeling is als volgt:  
 
@@ -313,35 +313,35 @@ De norm voor de visuele beoordeling is als volgt:
 | matig  | : algemeen voorkomen van losliggend vuil en incidenteel vuil vastzittend in scheuren, kieren of gaten of diverse weringsproblemen, diersporen aanwezig.  |
 | slecht  | : algemeen voorkomen van vastzittend vuil / grote weringsproblemen / levend(e) ongedierte, kevers, vliegen of uitwerpselen aanwezig.  |
 
-### c  
+### c 
 
 ####Vervoer van de afdrukken naar het laboratorium.
 
 1. Verpak en vervoer de plaatjes dusdanig dat zij niet herbesmet kunnen worden.  
 
-2. Vervoer en eventuele opslag (gedurende maximaal 12 uur) dient bij een temperatuur tussen 0°C en 20°C plaats te vinden. Bij hogere temperaturen dienen de plaatjes binnen 4 uur verder verwerkt te worden. Wanneer vervoer en eventuele opslag langer duurt dan 12 uur dient hiervoor een afgeleid voorschrift vooraf ter goedkeuring het Productschap voorgelegd te worden.    
+2. Vervoer en eventuele opslag (gedurende maximaal 12 uur) dient bij een temperatuur tussen 0°C en 20°C plaats te vinden. Bij hogere temperaturen dienen de plaatjes binnen 4 uur verder verwerkt te worden. Wanneer vervoer en eventuele opslag langer duurt dan 12 uur dient hiervoor een afgeleid voorschrift vooraf ter goedkeuring het Productschap voorgelegd te worden.   
 
 ### 2  
 
 ####Werkzaamheden in laboratorium
 
-### a  
+### a 
 
 ####Bebroeden van genomen afdrukken.
 
-De Rodac-plaatjes worden gedurende 18-24 uur bij 37°C (± 1°C) bebroed.  
+De Rodac-plaatjes worden gedurende 18-24 uur bij 37°C (± 1°C) bebroed. 
 
-### b  
+### b 
 
 ####Aflezing van bebroede afdrukken.
 
 1. Lees de Rodac plaatjes direct na 18-24 uur bebroeding af of plaats de plaatjes gedurende maximaal 24 uur in een koelkast bij een temperatuur tussen 2 en 8°C.  
 
-2. Lees de Rodac plaatjes af en tel het aantal kolonies (kve = kolonie vormende eenheid). Let op de aanwezigheid van schimmelgroei. Wanneer duidelijk blijkt dat de plaat overgroeid is door één enkele spreider dient dit als één kolonie beschouwd te worden. Wanneer door het optreden van schimmelgroei het plaatje niet meer eenvoudig af te lezen is, dient deze als ongeschikt geclassificeerd te worden en niet meegeteld te worden voor de berekening van het gemiddelde. Wanneer drie of meer plaatjes als ongeschikt geclassificeerd worden, wordt het volledige onderzoek als ongeschikt beschouwd.    
+2. Lees de Rodac plaatjes af en tel het aantal kolonies (kve = kolonie vormende eenheid). Let op de aanwezigheid van schimmelgroei. Wanneer duidelijk blijkt dat de plaat overgroeid is door één enkele spreider dient dit als één kolonie beschouwd te worden. Wanneer door het optreden van schimmelgroei het plaatje niet meer eenvoudig af te lezen is, dient deze als ongeschikt geclassificeerd te worden en niet meegeteld te worden voor de berekening van het gemiddelde. Wanneer drie of meer plaatjes als ongeschikt geclassificeerd worden, wordt het volledige onderzoek als ongeschikt beschouwd.   
 
-### c  
+### c 
 
-####Interpretatie.
+#### Interpretatie.
 
 1. 
 | --- | --- | --- |
@@ -351,23 +351,23 @@ De Rodac-plaatjes worden gedurende 18-24 uur bij 37°C (± 1°C) bebroed.
 | 41 t/m 120  | kolonies (kve) per plaatje  | score: 2  |
 | 121 t/m 400  | kolonies (kve) per plaatje  | score: 3  |
 | > 400  | kolonies (kve) per plaatje  | score: 4  |
-| ontelbaar  | kolonies (kve) per plaatje  | score: 5  |
+| ontelbaar  |kolonies (kve) per plaatje | score: 5  |
 
-2. De afzonderlijke scores worden op het formulier "Hygiëne-onderzoek" vermeld. De uitslag wordt berekend door de som van de afzonderlijke monsters te delen door het aantal genomen monsters. De uitslag wordt op één cijfer achter de komma afgerond en op het formulier vermeld.    
+2. De afzonderlijke scores worden op het formulier "Hygiëne-onderzoek" vermeld. De uitslag wordt berekend door de som van de afzonderlijke monsters te delen door het aantal genomen monsters. De uitslag wordt op één cijfer achter de komma afgerond en op het formulier vermeld.   
 
-### d  
+### d 
 
 ####Afvoer van afgelezen afdrukken.
 
 1. Na aflezing worden de plaatjes gedurende minstens 20 minuten bij een temperatuur van 120°C geplaatst, teneinde alle kiemen te doden.  
 
-2. Bebroede Rodac-plaatjes dienen beschouwd te worden als chemisch afval en dienovereenkomstig te worden afgevoerd of verwerkt. Afhankelijk van de plaatselijke gemeentelijke verordening, kunnen Rodac-plaatjes die gesteriliseerd zijn, afgevoerd worden met het gewone afval.    
+2. Bebroede Rodac-plaatjes dienen beschouwd te worden als chemisch afval en dienovereenkomstig te worden afgevoerd of verwerkt. Afhankelijk van de plaatselijke gemeentelijke verordening, kunnen Rodac-plaatjes die gesteriliseerd zijn, afgevoerd worden met het gewone afval.   
 
 ### 3  
 
 ####Berichtgeving.
 
-Berichtgeving aan de pluimveehouder vindt uiterlijk 4 dagen na aflezing plaats. Hiertoe wordt het volledig ingevulde formulier "Hygiëne-onderzoek" of een ander, analoog aan dit formulier, aan de pluimveehouder geretourneerd. Het formulier dient voorzien te zijn van een adresstempel van het laboratorium. Wanneer de uitslag op briefpapier van het laboratorium wordt afgedrukt, kan de adresstempel van het laboratorium achterwege blijven. Verder dient de uitslag voorzien te zijn van naam en handtekening van een medewerker van het laboratorium.  
+Berichtgeving aan de pluimveehouder vindt uiterlijk 4 dagen na aflezing plaats. Hiertoe wordt het volledig ingevulde formulier "Hygiëne-onderzoek" of een ander, analoog aan dit formulier, aan de pluimveehouder geretourneerd. Het formulier dient voorzien te zijn van een adresstempel van het laboratorium. Wanneer de uitslag op briefpapier van het laboratorium wordt afgedrukt, kan de adresstempel van het laboratorium achterwege blijven. Verder dient de uitslag voorzien te zijn van naam en handtekening van een medewerker van het laboratorium. 
 
 ####Onderdeel 1.a, blad 1 "Hygiëne-onderzoek in grondstallen"
 
@@ -402,7 +402,7 @@ Visuele beoordeling: goed/matig/voldoende/slecht (doorhalen wat niet van toepass
 | 8  | Voorruimte  | --- | Nvt  | nvt  | nvt  | nvt  | nvt  |
 | UITSLAG: .........  |
 
-De uitslag wordt bepaald door de som van de afzonderlijke monsters te delen door het aantal genomen monsters. De uitslag van de voorruimte wordt niet in de einduitslag meegenomen. Deze uitslag is alleen geldig indien voorzien van een stempel van het laboratorium en handtekening .  
+De uitslag wordt bepaald door de som van de afzonderlijke monsters te delen door het aantal genomen monsters. De uitslag van de voorruimte wordt niet in de einduitslag meegenomen. Deze uitslag is alleen geldig indien voorzien van een stempel van het laboratorium en handtekening . 
 
 ####Onderdeel 1.a, blad 2 “Bemonsteringsschema hygiëne-onderzoek in grondstallen”
 
@@ -422,7 +422,7 @@ De delen van de stal die bemonsterd moeten worden, worden hierin beschreven. Ied
 
 7. Er wordt van een willekeurige voerhopper een afdruk gemaakt van de binnenkant, die genummerd is als 7.1.  
 
-8. Er wordt van een willekeurige plaats van de vloer van de voorruimte een afdruk gemaakt, die genummerd is als 8.1. De uitslag van de voorruimte wordt niet in de einduitslag meegenomen. Indien er sprake is van meerdere stallen en meerdere leeftijden met een gezamenlijke voorruimte, wordt de voorruimte niet bemonsterd.    Schema: 
+8. Er wordt van een willekeurige plaats van de vloer van de voorruimte een afdruk gemaakt, die genummerd is als 8.1. De uitslag van de voorruimte wordt niet in de einduitslag meegenomen. Indien er sprake is van meerdere stallen en meerdere leeftijden met een gezamenlijke voorruimte, wordt de voorruimte niet bemonsterd.    Schema:
 
 | --- | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -468,7 +468,7 @@ Visuele beoordeling: goed/matig/voldoende/slecht (doorhalen wat niet van toepass
 | 11  | eierbewaarlokaal  | --- | nvt  | nvt  | nvt  | nvt  | nvt  |
 | UITSLAG: ..........  |
 
-De uitslag wordt bepaald door de som van de afzonderlijke monsters te delen door het aantal genomen monsters. De uitslag van de voorruimte wordt niet in de einduitslag meegenomen. Deze uitslag is alleen geldig indien voorzien van een stempel van het laboratorium en handtekening .  
+De uitslag wordt bepaald door de som van de afzonderlijke monsters te delen door het aantal genomen monsters. De uitslag van de voorruimte wordt niet in de einduitslag meegenomen. Deze uitslag is alleen geldig indien voorzien van een stempel van het laboratorium en handtekening . 
 
 ####Onderdeel 1.b, blad 2 "Bemonsteringsschema hygiëne-onderzoek in batterijstallen"
 
@@ -494,7 +494,7 @@ De delen van de stal die bemonsterd moeten worden, worden hierin beschreven. Ied
 
 10. Van elk deel 1 en 3 wordt een afdruk gemaakt van de eierband, genummerd als 10.1 en 10.2.  
 
-11. Er wordt van een willekeurige plaats van de vloer van het eierbewaarlokaal een afdruk gemaakt, die genummerd is als 11.1. De uitslag van het eierbewaarlokaal wordt niet in de einduitslag meegenomen. Indien er sprake is van meerdere stallen en meerdere leeftijden met een gezamenlijk eierbewaarlokaal, wordt het eierbewaarlokaal niet bemonsterd.    Schema: 
+11. Er wordt van een willekeurige plaats van de vloer van het eierbewaarlokaal een afdruk gemaakt, die genummerd is als 11.1. De uitslag van het eierbewaarlokaal wordt niet in de einduitslag meegenomen. Indien er sprake is van meerdere stallen en meerdere leeftijden met een gezamenlijk eierbewaarlokaal, wordt het eierbewaarlokaal niet bemonsterd.    Schema:
 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -540,7 +540,7 @@ Visuele beoordeling: goed/matig/voldoende/slecht (doorhalen wat niet van toepass
 | 11  | eierbewaarlokaal  | --- | nvt  | nvt  | nvt  | nvt  | nvt  |
 | UITSLAG: .........  |
 
-De uitslag wordt bepaald door de som van de afzonderlijke monsters te delen door het aantal genomen monsters. De uitslag van de voorruimte wordt niet in de einduitslag meegenomen. Deze uitslag is alleen geldig indien voorzien van een stempel van het laboratorium en handtekening.  
+De uitslag wordt bepaald door de som van de afzonderlijke monsters te delen door het aantal genomen monsters. De uitslag van de voorruimte wordt niet in de einduitslag meegenomen. Deze uitslag is alleen geldig indien voorzien van een stempel van het laboratorium en handtekening. 
 
 ####Onderdeel 1.c, blad 2 "Bemonsteringsschema hygiëne-onderzoek in roosterstallen en volièrestallen "
 
@@ -566,7 +566,7 @@ De delen van de stal die bemonsterd moeten worden, worden hierin beschreven. Ied
 
 10. Van elk deel AB, CD en EF wordt één afdruk gemaakt van een legnest, waarbij twee afdrukken worden gemaakt in segment 1 en één afdruk in segment 2, die genummerd zijn van 10.1 t/m 10.3  
 
-11. Er wordt van een willekeurige plaats van de vloer van het eierbewaarlokaal een afdruk gemaakt, die genummerd is als 11.1. De uitslag van het eierbewaarlokaal wordt niet in de einduitslag meegenomen. Indien er sprake is van meerdere stallen en meerdere leeftijden met een gezamenlijk eierbewaarlokaal, wordt het eierbewaarlokaal niet bemonsterd.    Schema: 
+11. Er wordt van een willekeurige plaats van de vloer van het eierbewaarlokaal een afdruk gemaakt, die genummerd is als 11.1. De uitslag van het eierbewaarlokaal wordt niet in de einduitslag meegenomen. Indien er sprake is van meerdere stallen en meerdere leeftijden met een gezamenlijk eierbewaarlokaal, wordt het eierbewaarlokaal niet bemonsterd.    Schema:
 
 | --- | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -574,99 +574,99 @@ De delen van de stal die bemonsterd moeten worden, worden hierin beschreven. Ied
 | 1  | --- | --- | --- | --- | --- | --- |
 | 2  | --- | --- | --- | --- | --- | --- |
 
-### Bijlage  IV  
+###Bijlage IV 
 
 ####: Uitvoering onderzoek op de aanwezigheid van Salmonella en/of Campylobacter (Swab-onderzoek)
 
 ####Doel van het onderzoek
 
-Het onderzoek is bedoeld voor de controle van pluimveestallen op de aanwezigheid van Salmonella en/of Campylobacter na reiniging en ontsmetting.  
+Het onderzoek is bedoeld voor de controle van pluimveestallen op de aanwezigheid van Salmonella en/of Campylobacter na reiniging en ontsmetting.
 
 ####Benodigdheden
 
-wattenstaafjes  
+wattenstaafjes
 
-fysiologisch zoutoplossing  
+fysiologisch zoutoplossing
 
-plastic potten of individuele verpakkingen  
+plastic potten of individuele verpakkingen
 
-etiketten  
+etiketten
 
-plastic handschoenen    
+plastic handschoenen
 
 ####Werkwijze bemonstering
 
 ####Algemeen
 
-De te onderzoeken ruimte dient na een ontsmetting volledig afgesloten te zijn. De duur van de periode dat de ruimte afgesloten moet blijven is afhankelijk van het gebruikte ontsmettingsmiddel.  
+De te onderzoeken ruimte dient na een ontsmetting volledig afgesloten te zijn. De duur van de periode dat de ruimte afgesloten moet blijven is afhankelijk van het gebruikte ontsmettingsmiddel.
 
-Wanneer een ruimte moet worden bemonsterd die daarvoor gedesinfecteerd is, mag het onderzoek pas worden uitgevoerd nadat de ruimte minstens twee uur is gelucht.  
+Wanneer een ruimte moet worden bemonsterd die daarvoor gedesinfecteerd is, mag het onderzoek pas worden uitgevoerd nadat de ruimte minstens twee uur is gelucht.
 
-Neem beschermende maatregelen voordat de stal betreden wordt (gasmasker)    
+Neem beschermende maatregelen voordat de stal betreden wordt (gasmasker)
 
 ####Aantal en locaties te nemen monsters
 
-Voor Salmonella- of Campylobacteronderzoek moeten 2 x 25 swabs per stal worden genomen. Deel hiervoor de stal overlangs in twee gelijke segmenten (1 en 2). Neem in elk segment 25 monsters.  
+Voor Salmonella- of Campylobacteronderzoek moeten 2 x 25 swabs per stal worden genomen. Deel hiervoor de stal overlangs in twee gelijke segmenten (1 en 2). Neem in elk segment 25 monsters.
 
-De monsters worden genomen op plaatsen waar het op het oog niet geheel schoon lijkt te zijn, hiermee wordt bedoeld dat in eerste instantie gezocht moet worden naar plaatsen waar zich nog resterend vuil bevindt. Indien deze plaatsen reeds bemonsterd zijn en swabs nog niet zijn gebruikt of indien deze plaatsen met resterend vuil niet aanwezig zijn moeten in ieder geval monsters genomen worden op de locaties die per stalsoort beschreven staan in bijlage III: “Uitvoering hygiëne-onderzoek”.    
+De monsters worden genomen op plaatsen waar het op het oog niet geheel schoon lijkt te zijn, hiermee wordt bedoeld dat in eerste instantie gezocht moet worden naar plaatsen waar zich nog resterend vuil bevindt. Indien deze plaatsen reeds bemonsterd zijn en swabs nog niet zijn gebruikt of indien deze plaatsen met resterend vuil niet aanwezig zijn moeten in ieder geval monsters genomen worden op de locaties die per stalsoort beschreven staan in bijlage III: “Uitvoering hygiëne-onderzoek”.
 
 ####Uitvoering monstername
 
-Bevochtig een wattenstaafje in fysiologisch zout oplossing.  
+Bevochtig een wattenstaafje in fysiologisch zout oplossing.
 
-Strijk met het wattenstaafje over het te bemonsteren oppervlak ter grootte van een Rodac-plaatje (5,5 cm), indien mogelijk op een op het oog niet geheel schoon oppervlak.  
+Strijk met het wattenstaafje over het te bemonsteren oppervlak ter grootte van een Rodac-plaatje (5,5 cm), indien mogelijk op een op het oog niet geheel schoon oppervlak.
 
-Plaats het wattenstaafje in een plastic pot en breek het bovenste deel van het stokje af (daar waar de handen het stokje hebben geraakt), of plaats de SWAB terug in de individuele verpakking.  
+Plaats het wattenstaafje in een plastic pot en breek het bovenste deel van het stokje af (daar waar de handen het stokje hebben geraakt), of plaats de SWAB terug in de individuele verpakking.
 
-Herhaal dit met de andere wattenstaafjes.  
+Herhaal dit met de andere wattenstaafjes.
 
-Plaats maximaal 25 wattenstaafjes in één pot.  
+Plaats maximaal 25 wattenstaafjes in één pot.
 
-Sluit iedere pot direct na het vullen af.  
+Sluit iedere pot direct na het vullen af.
 
-Voorzie de pot van een etiket met daarop minimaal de volgende gegevens: monsterdatum, KIP-nummer en stalnummer.    
+Voorzie de pot van een etiket met daarop minimaal de volgende gegevens: monsterdatum, KIP-nummer en stalnummer.
 
 ####Verzending monsters
 
-Vervoer van de swabs naar het laboratorium moet plaatsvinden zoals beschreven in bijlage III: ”Uitvoering hygiëne-onderzoek”. Indien de swabs voor gebruik in steriel water worden gedoopt en na bemonstering van de stal in een potje worden gestopt mag er maximaal 48 uur tussen bemonstering en ontvangst op het laboratorium zijn. Analyse van de monsters moet plaatsvinden op door een de Voorzitter van het Productschap erkend laboratorium.  
+Vervoer van de swabs naar het laboratorium moet plaatsvinden zoals beschreven in bijlage III: ”Uitvoering hygiëne-onderzoek”. Indien de swabs voor gebruik in steriel water worden gedoopt en na bemonstering van de stal in een potje worden gestopt mag er maximaal 48 uur tussen bemonstering en ontvangst op het laboratorium zijn.Analyse van de monsters moet plaatsvinden op door een de Voorzitter van het Productschap erkend laboratorium.
 
 ####Analyse
 
-Voor de analyse op het laboratorium wordt voor Salmonella verwezen naar de “PVE branchemethode voor het aantonen van Salmonella in dons, faeces, vellen en eindproduct afkomstig van pluimvee” en voor Campylobacter “Bepaling van de aan- of afwezigheid van thermofiele Campylobacter spp. in pluimvee, pluimveeproducten en omgevingsmonsters” die in bijlage VI bij dit besluit zijn opgenomen.  
+Voor de analyse op het laboratorium wordt voor Salmonella verwezen naar de “PVE branchemethode voor het aantonen van Salmonella in dons, faeces, vellen en eindproduct afkomstig van pluimvee” en voor Campylobacter “Bepaling van de aan- of afwezigheid van thermofiele Campylobacter spp. in pluimvee, pluimveeproducten en omgevingsmonsters” die in bijlage VI bij dit besluit zijn opgenomen.
 
-### Bijlage  V  
+###Bijlage V 
 
 ####: Erkenningsvoorwaarden voor laboratoria die de analyses van monsters op de aan- of afwezigheid van Salmonella en/of Campylobacter uitvoeren.
 
-A. Sinds 1 juli 2000 dienen de laboratoria de laboratoria geaccrediteerd te zijn voor de door de branche opgestelde analyse methode inzake de bepaling van Salmonella en per 1 januari 2005 voor de bepaling van Campylobacter Dat wil zeggen dat het laboratorium met ingang van deze datum over een accreditatiecertificaat op basis van de norm ISO/IEC 17025 moet beschikken die door de Raad voor Accreditatie te Utrecht (hierna te noemen RvA) wordt verleend. Hieronder dient tenminste de bepaling van Salmonella in de matrix mest volgens de door de branche opgestelde analyse methode te vallen.  
+A.Sinds 1 juli 2000 dienen de laboratoria de laboratoria geaccrediteerd te zijn voor de door de branche opgestelde analyse methode inzake de bepaling van Salmonella en per 1 januari 2005 voor de bepaling van Campylobacter Dat wil zeggen dat het laboratorium met ingang van deze datum over een accreditatiecertificaat op basis van de norm ISO/IEC 17025 moet beschikken die door de Raad voor Accreditatie te Utrecht (hierna te noemen RvA) wordt verleend. Hieronder dient tenminste de bepaling van Salmonella in de matrix mest volgens de door de branche opgestelde analyse methode te vallen.
 
-B. voor laboratoria die in het buitenland zijn gevestigd zal geen Nederlandse accreditatie door de RvA vereist zijn maar een gelijkwaardige erkenning van het betreffende land.  
+B.voor laboratoria die in het buitenland zijn gevestigd zal geen Nederlandse accreditatie door de RvA vereist zijn maar een gelijkwaardige erkenning van het betreffende land.
 
-C. de laboratoria dienen voor de bepaling van Salmonella en Campylobacter gebruik te maken van door de branche opgestelde analyse methodes. De analyse methodes zijn bij dit besluit opgenomen. Aangezien de RvA volledig gevalideerde analysemethoden accrediteert, dienen de branche-methodes van een validatie rapport te worden voorzien. Het Productschap draagt zorg, op basis van het aangeleverde validatierapport, voor de beoordeling van de methode door de RvA inzake zijn geschiktheid voor accreditatie als branchemethode.  
+C.de laboratoria dienen voor de bepaling van Salmonella en Campylobacter gebruik te maken van door de branche opgestelde analyse methodes. De analyse methodes zijn bij dit besluit opgenomen. Aangezien de RvA volledig gevalideerde analysemethoden accrediteert, dienen de branche-methodes van een validatie rapport te worden voorzien. Het Productschap draagt zorg, op basis van het aangeleverde validatierapport, voor de beoordeling van de methode door de RvA inzake zijn geschiktheid voor accreditatie als branchemethode.
 
-D. Het laboratorium heeft de mogelijkheid tot het gebruik van één van de toegelaten methoden. Er mogen, om te bepalen of het monster al dan niet besmet is met Salmonella, niet meerdere testen naast elkaar toegepast worden. Om verder te kunnen serotyperen dient echter bij toepassing van één van de snelle detectiemethoden een positief monster worden geïsoleerd middels de MSRV-methode.  
+D.Het laboratorium heeft de mogelijkheid tot het gebruik van één van de toegelaten methoden. Er mogen, om te bepalen of het monster al dan niet besmet is met Salmonella, niet meerdere testen naast elkaar toegepast worden. Om verder te kunnen serotyperen dient echter bij toepassing van één van de snelle detectiemethoden een positief monster worden geïsoleerd middels de MSRV-methode.
 
-E. Indien het laboratorium bij toepassing van een snelle detectiemethode een positieve bepaling wordt gedaan en het monster ten behoeve van de serotypering niet verder geïsoleerd kan worden, moet op het uitslagenformulier hiervan melding worden gemaakt.  
+E.Indien het laboratorium bij toepassing van een snelle detectiemethode een positieve bepaling wordt gedaan en het monster ten behoeve van de serotypering niet verder geïsoleerd kan worden, moet op het uitslagenformulier hiervan melding worden gemaakt.
 
-F. Alle laboratoria dienen mee te doen met Salmonella-ringonderzoek, tot nu toe georganiseerd door het Rijksinstituut voor Volksgezondheid en Milieuhygiëne te Bilthoven (hierna te noemen RIVM). Zodra een ringonderzoek voor Campylobacter is opgezet, dient een laboratorium ook aan dit ringonderzoek mee te doen.  
+F.Alle laboratoria dienen mee te doen met Salmonella-ringonderzoek, tot nu toe georganiseerd door het Rijksinstituut voor Volksgezondheid en Milieuhygiëne te Bilthoven (hierna te noemen RIVM). Zodra een ringonderzoek voor Campylobacter is opgezet, dient een laboratorium ook aan dit ringonderzoek mee te doen.
 
-G. Het laboratorium verstrekt het Productschap elk kwartaal een overzicht waarop is aangegeven hoeveel koppels of hoeveel analyses door het betreffende laboratorium zijn onderzocht respectievelijk zijn uitgevoerd. Tevens geeft het laboratorium aan hoeveel koppels of analyses hiervan positief waren. Voor zover afgesproken met de pluimveehouder/broederij of slachterij zendt het laboratorium op aanvraag de resultaten van analyses door aan het Productschap (bijvoorbeeld Salmonella paratyphi B var. Java)  
+G.Het laboratorium verstrekt het Productschap elk kwartaal een overzicht waarop is aangegeven hoeveel koppels of hoeveel analyses door het betreffende laboratorium zijn onderzocht respectievelijk zijn uitgevoerd. Tevens geeft het laboratorium aan hoeveel koppels of analyses hiervan positief waren. Voor zover afgesproken met de pluimveehouder/broederij of slachterij zendt het laboratorium op aanvraag de resultaten van analyses door aan het Productschap (bijvoorbeeld Salmonella paratyphi B var. Java)
 
-H. Jaarlijks moeten de laboratoria monsters Salmonella enteritidis (S.e.) of Salmonella typhimurium (S.t.) opsturen naar het RIVM. Dit ten behoeve van het faagtyperingsonderzoek, dat het RIVM uitvoert in het kader van de EU- Zoönoserapportage.  
+H.Jaarlijks moeten de laboratoria monsters Salmonella enteritidis (S.e.) of Salmonella typhimurium (S.t.) opsturen naar het RIVM. Dit ten behoeve van het faagtyperingsonderzoek, dat het RIVM uitvoert in het kader van de EU- Zoönoserapportage.
 
-I. De serotypering van Salmonella enteritidis en Salmonella typhimurium mag door ieder erkend laboratorium worden uitgevoerd. De serotypering van de overige Salmonella serotypen mag uitsluitend uitgevoerd worden door de erkende laboratoria die voor deze verrichting uiterlijk op 1 januari 2005 een erkenning hebben bij de RvA. Het betreft serotypen die op een door het Productschap opgestelde lijst van veel vòòrkomende serotypen in pluimvee staan vermeld. De op deze lijst vermelde serotypen kunnen worden gewijzigd als de in pluimvee/pluimveeproducten vòòrkomende serotypen wijzigen.  
+I.De serotypering van Salmonella enteritidis en Salmonella typhimurium mag door ieder erkend laboratorium worden uitgevoerd. De serotypering van de overige Salmonella serotypen mag uitsluitend uitgevoerd worden door de erkende laboratoria die voor deze verrichting uiterlijk op 1 januari 2005 een erkenning hebben bij de RvA. Het betreft serotypen die op een door het Productschap opgestelde lijst van veel vòòrkomende serotypen in pluimvee staan vermeld. De op deze lijst vermelde serotypen kunnen worden gewijzigd als de in pluimvee/pluimveeproducten vòòrkomende serotypen wijzigen.
 
-J. De laboratoria die de serotyperingen uitvoeren zijn verplicht: 
+J.De laboratoria die de serotyperingen uitvoeren zijn verplicht:
 
-de serotyperingen uit te voeren conform het antigenen schema van Kaufmann White;  
+de serotyperingen uit te voeren conform het antigenen schema van Kaufmann White;
 
-jaarlijks maximaal 10 isolaten door te sturen naar het RIVM ter serotypering. Dit is een duplo onderzoek om de kwaliteit van het serotyperen te toetsen;  
+jaarlijks maximaal 10 isolaten door te sturen naar het RIVM ter serotypering. Dit is een duplo onderzoek om de kwaliteit van het serotyperen te toetsen;
 
-deel te nemen aan ringonderzoeken, die de kwaliteit van het serotyperen eveneens testen;  
+deel te nemen aan ringonderzoeken, die de kwaliteit van het serotyperen eveneens testen;
 
-isolaten, afkomstig van andere erkende laboratoria die geen serotypering van de typen met uitzondering van S.e. en S.t. kunnen uitvoeren, te analyseren. Hiervoor mogen geen afwijkende tarieven in rekening worden gebracht.     
+isolaten, afkomstig van andere erkende laboratoria die geen serotypering van de typen met uitzondering van S.e. en S.t. kunnen uitvoeren, te analyseren. Hiervoor mogen geen afwijkende tarieven in rekening worden gebracht.
 
-### Bijlage  VI  
+### Bijlage VI 
 
 ####: Analysemethoden voor het aantonen van Salmonella en Campylobacter in pluimvee(vlees) en eieren
 
@@ -674,15 +674,15 @@ Voor het aantonen van Salmonella en/of Campylobacter in pluimvee(vlees) en eiere
 
 1. PVE Branchemethode MSRV voor het aantonen van Salmonella in dons, faeces, vellen en eindproduct afkomstig van pluimvee.  
 
-2. Alternatieve PVE Branchemethode Probelia <sup>TM</sup> PCR voor het aantonen van Salmonella in dons, faeces, vellen en eindproduct afkomstig van pluimvee.  
+2. Alternatieve PVE Branchemethode Probelia<sup>TM</sup> PCR voor het aantonen van Salmonella in dons, faeces, vellen en eindproduct afkomstig van pluimvee.  
 
-4. PVE Branchemethode voor de bepaling van de aan- of afwezigheid van thermotolerante Campylobacter spp . in monsters pluimvee, pluimveeproducten en omgevingsmonsters.  
+4. PVE Branchemethode voor de bepaling van de aan- of afwezigheid van thermotolerante Campylobacter spp . in monsters pluimvee, pluimveeproducten en omgevingsmonsters. 
 
 3. Alternatieve PVE Branchemethode VIDAS SLM voor het aantonen van Salmonella in dons afkomstig van pluimvee.  
 
 5. Alternatieve PVE Branchemethode voor het aantonen van thermotolerante Campylobacter spp. met behulp van de VIDAS CAM test in pluimveeproducten.  
 
-5. K.B.B.L. Franchise B.V. (ISA Nederland).  
+5.K.B.B.L. Franchise B.V. (ISA Nederland).
 
 6. Alternatieve PVE Branchemethode iQtm real-time PCR voor het aantonen van Salmonella in dons, mest en vlees afkomstig van pluimvee.   
 
@@ -692,19 +692,19 @@ Voor het aantonen van Salmonella en/of Campylobacter in pluimvee(vlees) en eiere
 
 ####Onderwerp
 
-Dit protocol beschrijft een methode voor het aantonen van Salmonella in dons, faeces (mest) en vellen en eindproduct afkomstig van pluimvee. De Raad voor Accreditatie heeft de methode goedgekeurd voor de matrix mest, dons, vellen en eindproduct.  
+Dit protocol beschrijft een methode voor het aantonen van Salmonella in dons, faeces (mest) en vellen en eindproduct afkomstig van pluimvee. De Raad voor Accreditatie heeft de methode goedgekeurd voor de matrix mest, dons, vellen en eindproduct. 
 
 ### 2  
 
 ####Definities
 
-Salmonella: micro-organismen die de voor deze bacteriën karakteristieke groei vertonen en specifieke biochemische en serologische reacties vertonen wanneer wordt gekweekt respectievelijk getest volgens de beschreven werkwijze. Detectie van Salmonella: bepalen van de aan- of afwezigheid van deze micro-organismen als het onderzoek wordt uitgevoerd volgens de beschreven werkwijze.  
+Salmonella: micro-organismen die de voor deze bacteriën karakteristieke groei vertonen en specifieke biochemische en serologische reacties vertonen wanneer wordt gekweekt respectievelijk getest volgens de beschreven werkwijze. Detectie van Salmonella: bepalen van de aan- of afwezigheid van deze micro-organismen als het onderzoek wordt uitgevoerd volgens de beschreven werkwijze. 
 
 ### 3  
 
 ####Principe
 
-Na voorincubatie van de te onderzoeken matrix in een voorophopingsmedium, wordt geënt op een half-vast medium, waarna wordt afgestreken op een selectief isolatiemedium.  
+Na voorincubatie van de te onderzoeken matrix in een voorophopingsmedium, wordt geënt op een half-vast medium, waarna wordt afgestreken op een selectief isolatiemedium. 
 
 ### 4  
 
@@ -727,7 +727,7 @@ Alle gebruikte grondstoffen en het gedestilleerde water moeten van analysekwalit
 
 ####Salmonella polyvalent agglutinatie serum
 
-De samenstelling en bereiding van media en reagentia is opgenomen in bijlage 1. Er mag echter ook gebruik gemaakt worden van media die commercieel verkrijgbaar zijn.  
+De samenstelling en bereiding van media en reagentia is opgenomen in bijlage 1. Er mag echter ook gebruik gemaakt worden van media die commercieel verkrijgbaar zijn. 
 
 ### 5  
 
@@ -751,7 +751,7 @@ Gesteriliseerde materialen voor éénmalig gebruik mogen worden toegepast.
 
 5.6. Petrischalen met een middellijn van ca. 9 cm.  
 
-5.7. Cultuurbuizen van 17/18 x 150 mm en van 8 x 160 mm.    
+5.7. Cultuurbuizen van 17/18 x 150 mm en van 8 x 160 mm.   
 
 ### 6  
 
@@ -761,7 +761,7 @@ De monsters dienen binnen 4 uur na ontvangst ingezet te worden. Indien de monste
 
 ####Voorbehandeling van het monster
 
-Verdun het monster 1:10 in BPw. In de volgende tabel is ter illustratie de relatie tussen de verschillende monsterhoeveelheden en het volume BPw weergegeven: <sup> 1  Noot: standaard monsters in 225 ml BPw mag ook uitgevoerd worden. Het gaat er om erminimaal een 1:10 verdunning gemaakt worden. Een ruimere verdunning dan 1:10 is toegestaan, een kleinere verdunning dan 1:10 is niet toegestaan.  </sup>  
+Verdun het monster 1:10 in BPw. In de volgende tabel<sup>1Noot: standaard monsters in 225 ml BPw mag ook uitgevoerd worden. Het gaat er om erminimaal een 1:10 verdunning gemaakt worden. Een ruimere verdunning dan 1:10 is toegestaan, een kleinere verdunning dan 1:10 is niet toegestaan.</sup> is ter illustratie de relatie tussen de verschillende monsterhoeveelheden en het volume BPw weergegeven:  
 
 |  *aantallen*   |  *(hoeveelheid (circa))*   |  *BPw*   |  *type monster*   |
 |:---|:---|:---|:---|
@@ -777,39 +777,39 @@ Verdun het monster 1:10 in BPw. In de volgende tabel is ter illustratie de relat
 | 25  gram  | (25 gram)  | 225 ml  | vel van de borstkap  |
 | 40  stukjes  | (60 gram)  | 540 ml  | inlegvellen  |
 
-Incubeer de potten BPw 18 ± 2 uur bij 37 ° C ± 1 ° C. De potten mogen tussentijds gedurende 2 dagen in de koelkast bewaard worden, deze ‘koudestap’ is mogelijk.  
+Incubeer de potten BPw 18 ± 2 uur bij 37 ° C ± 1 ° C. De potten mogen tussentijds gedurende 2 dagen in de koelkast bewaard worden, deze ‘koudestap’ is mogelijk. 
 
 ####Beënting en bebroeding
 
-Breng 0,1 ml BPw-cultuur op een MSRV plaat (bij 9 cm platen 3 druppels, met een gezamenlijk volume van 0,1 ml in een driehoek. Incubeer de platen 1 x 24 ± 2 uur bij 42 ° C ± 0,5 ° C. De platen moeten met het deksel van de petrischaal naar boven geïncubeerd worden, aangezien het een half-vast medium is. Niet verdachte of negatieve platen dienen nogmaals 1 x 24 ± 2 uur bij 42 ° C ± 0,5 ° C bebroed te worden. Een verdachte MSRV-plaat vertoont groei in de agar (zwerming vanuit de entingsplaats) en heeft een wit/grijze kleur. Verdachte platen worden afgeënt door aan de rand van de zwermzone met een öse materiaal uit de agar te nemen en daarmee een gedroogde BGA plaat te beënten. Incubeer deze platen gedurende 24 ± 2 uur bij 37 ° C ± 1 ° C.  
+Breng 0,1 ml BPw-cultuur op een MSRV plaat (bij 9 cm platen 3 druppels, met een gezamenlijk volume van 0,1 ml in een driehoek. Incubeer de platen 1 x 24 ± 2 uur bij 42 ° C ± 0,5 ° C. De platen moeten met het deksel van de petrischaal naar boven geïncubeerd worden, aangezien het een half-vast medium is. Niet verdachte of negatieve platen dienen nogmaals 1 x 24 ± 2 uur bij 42 ° C ± 0,5 ° C bebroed te worden. Een verdachte MSRV-plaat vertoont groei in de agar (zwerming vanuit de entingsplaats) en heeft een wit/grijze kleur. Verdachte platen worden afgeënt door aan de rand van de zwermzone met een öse materiaal uit de agar te nemen en daarmee een gedroogde BGA plaat te beënten. Incubeer deze platen gedurende 24 ± 2 uur bij 37 ° C ± 1 ° C. 
 
 ####Beoordeling
 
-Controleer de bebroede BGA-platen op de vorming van roze kolonies. Dergelijke kolonies worden als ‘vermoedelijk positief’ aangemerkt.  
+Controleer de bebroede BGA-platen op de vorming van roze kolonies. Dergelijke kolonies worden als ‘vermoedelijk positief’ aangemerkt. 
 
 ####Bevestiging
 
-Voor de bevestiging uit met minimaal 1 tot maximaal 3 specifieke kolonies per plaat in geval van reincultuur en tot 5 specifieke kolonies (indien aanwezig) in geval van mengcultuur totdat een positief resultaat wordt verkregen. De kolonies worden vanaf de BGA plaat geënt in UA middels het afstrijken op het oppervlak van de agar en in TSI middels ladderen over het schuingestolde oppervlak en een steekenting tot op de bodem van de buis. Beënt tevens een buis LDC door een hoeveelheid koloniemateriaal tegen de wand van de buis net onder het vloeistof oppervlak af te strijken. De buizen worden 24 ± 2 uur bij 37 ° C ± 1 ° C geïncubeerd.  *Opmerking :*  Wanneer geen goed losliggende kolonies op de BGA plaat zijn verkregen of bij de aanwezigheid van veel spreidende of overgroeiende stoorflora is het nodig ter zuivering een nieuwe reinstrijk op een gedroogde BGA- of nutriëntenagarplaat te maken. Bij verontreiniging van de Salmonella- kolonie met andere bacteriën wordt een afwijkend biochemisch patroon verkregen. Het is toegestaan om eerst de bevestigingstest met de TSI uit te voeren, en bij een verdachte uitslag door te gaan met ureum en LDC. Na incubatie geven voor Salmonella verdachte kolonies de volgende biochemische resultaten:  
+Voor de bevestiging uit met minimaal 1 tot maximaal 3 specifieke kolonies per plaat in geval van reincultuur en tot 5 specifieke kolonies (indien aanwezig) in geval van mengcultuur totdat een positief resultaat wordt verkregen. De kolonies worden vanaf de BGA plaat geënt in UA middels het afstrijken op het oppervlak van de agar en in TSI middels ladderen over het schuingestolde oppervlak en een steekenting tot op de bodem van de buis. Beënt tevens een buis LDC door een hoeveelheid koloniemateriaal tegen de wand van de buis net onder het vloeistof oppervlak af te strijken. De buizen worden 24 ± 2 uur bij 37 ° C ± 1 ° C geïncubeerd. *Opmerking :*Wanneer geen goed losliggende kolonies op de BGA plaat zijn verkregen of bij de aanwezigheid van veel spreidende of overgroeiende stoorflora is het nodig ter zuivering een nieuwe reinstrijk op een gedroogde BGA- of nutriëntenagarplaat te maken. Bij verontreiniging van de Salmonella- kolonie met andere bacteriën wordt een afwijkend biochemisch patroon verkregen. Het is toegestaan om eerst de bevestigingstest met de TSI uit te voeren, en bij een verdachte uitslag door te gaan met ureum en LDC.Na incubatie geven voor Salmonella verdachte kolonies de volgende biochemische resultaten: 
 
 | --- | --- | --- |
 |:---|:---|:---|
 |  *TSI agar*   | --- | --- |
-| onderin de buis  | - geel  | - glucose positief *(100%)*  |
-| --- | - zwart  | - vorming van H 2 S *(91,6%)*  |
-| --- | - bellen/scheuren  | - gasvorming van glucose *(91,9%)*  |
-| schuine gedeelte  | - rood/onveranderd  | - lactose en/of sucrose negatief *(resp. 99,2% en 99,5%)*  |
+| onderin de buis  | - geel  | - glucose positief *(100%)*   |
+| --- | - zwart  | - vorming van H 2 S *(91,6%)*   |
+| --- | - bellen/scheuren  | - gasvorming van glucose *(91,9%)*   |
+| schuine gedeelte  | - rood/onveranderd  | - lactose en/of sucrose negatief *(resp. 99,2% en 99,5%)*   |
 
 | --- | --- | --- |
 |:---|:---|:---|
-|  *Ureum agar*   | --- | --- |
-| --- | - geen kleuromslag van het medium  | - negatief *(100%)*  |
+| *Ureum agar*  | --- | --- |
+| --- |- geen kleuromslag van het medium |- negatief *(100%)*  |
 
 | --- | --- | --- |
 |:---|:---|:---|
-|  *LDC*   | --- | --- |
-| --- | - paarse kleur en groei in medium  | - positief *(94,6%)*  |
+| *LDC*  | --- | --- |
+| --- |- paarse kleur en groei in medium |- positief *(94,6%)*  |
 
-Het gebruik van biochemische kits (zoals API, Crystal) is ook toegestaan. Biochemisch verdachte kolonies dienen serologisch bevestigd te worden met een polyvalent serum. Dit werkvoorschrift is opgenomen in bijlage 3.1. De totale beoordeling van biochemische en serologische resultaten is als volgt:  
+Het gebruik van biochemische kits (zoals API, Crystal) is ook toegestaan.Biochemisch verdachte kolonies dienen serologisch bevestigd te worden met een polyvalent serum. Dit werkvoorschrift is opgenomen in bijlage 3.1.De totale beoordeling van biochemische en serologische resultaten is als volgt: 
 
 |  *Biochemische reacties*   |  *Auto-agglutinatietabel*   |  *Agglutinatie met serum*   |  *Werkwijze / Resultaat*   |
 |:---|:---|:---|:---|
@@ -817,25 +817,25 @@ Het gebruik van biochemische kits (zoals API, Crystal) is ook toegestaan. Bioche
 | pos  | neg  | neg  | RIVM  |
 | pos  | pos  | --  | RIVM  |
 
-Indien een stam alleen biochemisch verdacht is, wordt deze opgestuurd naar het RIVM. Een andere mogelijkheid is het inzetten van een zogenaamde ‘lange bonte rij’ of een biochemische kit. Op het resultaat van het RIVM hoeft niet gewacht te worden, alvorens een uitslag wordt afgegeven. Voor de donsmonsters en faecesmonsters vindt serotypering plaats voor de 4 hoofdgroepen van Salmonella (B, C, D en E) en indien van toepassing identificatie van Salmonella Enteritidis en Salmonella Typhimurium. (indien nog niet bij pluimveehouder het serotype nog niet bekend is). In bijlage VIII is het werkvoorschrift opgenomen.  
+Indien een stam alleen biochemisch verdacht is, wordt deze opgestuurd naar het RIVM. Een andere mogelijkheid is het inzetten van een zogenaamde ‘lange bonte rij’ of een biochemische kit. Op het resultaat van het RIVM hoeft niet gewacht te worden, alvorens een uitslag wordt afgegeven.Voor de donsmonsters en faecesmonsters vindt serotypering plaats voor de 4 hoofdgroepen van Salmonella (B, C, D en E) en indien van toepassing identificatie van Salmonella Enteritidis en Salmonella Typhimurium. (indien nog niet bij pluimveehouder het serotype nog niet bekend is). In bijlage VIII is het werkvoorschrift opgenomen. 
 
 ### 7  
 
 ####Controle
 
-Voor de eerstelijnscontrole van de methode dienen te worden meegenomen: <sup> 2  Indien een ingangscontrole wordt toegepast per batch, kan de negatieve controle komen te vervallen.  </sup> 
+Voor de eerstelijnscontrole <sup>2Indien een ingangscontrole wordt toegepast per batch, kan de negatieve controle komen te vervallen.</sup> van de methode dienen te worden meegenomen: 
 
 Positieve controle  
 
 Negatieve controle  
 
-Blanco controle   De eerstelijnscontroles met MSRV platen staan beschreven in bijlage 2.  
+Blanco controle   De eerstelijnscontroles met MSRV platen staan beschreven in bijlage 2. 
 
 ### 8  
 
 ####Opgave van het resultaat
 
-Geef het resultaat op als ‘aan- of afwezigheid van Salmonella in het betreffende monstermateriaal’ (zie bijlage VII) als Salmonella al dan niet is aangetoond volgens dit protocol. Bij de uitslag kan tussen haakjes aangegeven worden om hoeveel gram het ongeveer gaat dat is onderzocht. Indien bij het aanleveren van de monsters door de opdrachtgever afwijkingen worden geconstateerd van de wijze waarop de monsters aangeleverd moeten worden, dan dient het laboratorium hierover schriftelijk een opmerking te maken richting de opdrachtgever (zie bijlage VIII).  
+Geef het resultaat op als ‘aan- of afwezigheid van Salmonella in het betreffende monstermateriaal’ (zie bijlage VII) als Salmonella al dan niet is aangetoond volgens dit protocol. Bij de uitslag kan tussen haakjes aangegeven worden om hoeveel gram het ongeveer gaat dat is onderzocht. Indien bij het aanleveren van de monsters door de opdrachtgever afwijkingen worden geconstateerd van de wijze waarop de monsters aangeleverd moeten worden, dan dient het laboratorium hierover schriftelijk een opmerking te maken richting de opdrachtgever (zie bijlage VIII). 
 
 ### 9  
 
@@ -845,13 +845,13 @@ NEN-EN 12824 Microbiologie van voedingsmiddelen en diervoeders - horizontale met
 
 Zee, van der H., E. De Boer, P. Van Netten, 1990, Salmonella isolatie met behulp van MSRV, De Ware (n) chemicus 20: 189-199.  
 
-Hartman, dr. E.G., Validatierapport van de isolatie van Salmonella uit de matrix pluimvee faeces m.b.v. het Modified Semi-solid Rappaport Vassiliadis (MSRV)-medium, september 1999    
+Hartman, dr. E.G., Validatierapport van de isolatie van Salmonella uit de matrix pluimvee faeces m.b.v. het Modified Semi-solid Rappaport Vassiliadis (MSRV)-medium, september 1999   
 
-### Bijlage  1  
+###Bijlage 1 
 
 ####: Samenstelling en bereiding van media en reagentia
 
-### 1.1  
+###1.1 
 
 ####Gebufferd pepton water (BPw)
 
@@ -859,186 +859,186 @@ samenstelling:
 
 | --- | --- |
 |:---|:---|
-| pepton  | 10,0 g  |
-| NaCI  | 5,0 g  |
-| Na <sub>2</sub> HP0 <sub>4</sub>.12H <sub>2</sub> 0  | 9,0 g  |
-| KH <sub>2</sub> P0 <sub>4</sub>  | 1,5 g  |
-| water  | 1000 ml  |
+|pepton  |10,0 g  |
+|NaCI  |5,0 g  |
+|Na<sub>2</sub>HP0<sub>4</sub>.12H<sub>2</sub>0  |9,0 g  |
+|KH<sub>2</sub>P0<sub>4</sub>  |1,5 g  |
+|water | 1000 ml |
 
 bereiding: 
 
-- Los de ingrediënten op in het water (indien nodig d.m.v. verhitting).  
+-Los de ingrediënten op in het water (indien nodig d.m.v. verhitting). 
 
-- Stel de pH, zodat deze na sterilisatie 7,2 ± 0,2 bedraagt bij 25°C.  
+-Stel de pH, zodat deze na sterilisatie 7,2 ± 0,2 bedraagt bij 25°C. 
 
-- Verdeel het medium over daarvoor geschikte flessen.  
+-Verdeel het medium over daarvoor geschikte flessen. 
 
-- Steriliseer in een autoclaaf (15 min. 121°C).    
+-Steriliseer in een autoclaaf (15 min. 121°C). 
 
-### 1.2  
+###1.2 
 
-####Modified Semi-solid Rappaport-Vassiliadis medium (MSRV)
-
-<sup> 3  De MSRV-platen moeten volgens de voorschriften van de leverancier/fabrikant bewaard worden.  </sup>   oplossing A (basis): 
-
-| --- | --- |
-|:---|:---|
-| tryptose  | 4,59 g  |
-| caseine hydrolysaat  | 4,59 g  |
-| NaCI  | 7,34 g  |
-| KH <sub>2</sub> P0 <sub>4</sub>  | 1,47 g  |
-| MgCl <sub>2</sub>  | 10,93 g  |
-| malachietgroen oxalaat  | 0,037 g  |
-| agar  | 2,7 g  |
-| gedestilleerd water  | 1000 ml  |
-
-bereiding 
-
-- Los de ingrediënten op in het water.  
-
-- Breng het mengsel onder voortdurend schudden aan de kook (NIET AUTOCLAVEREN).  
-
-- Stel de pH op 5,2 ± 0,2.  
-
-- Koel het mengsel af tot 50C.   oplossing B (novobiocine): 
-
-- Los 10 mg novobiocine op in 2 ml gedestilleerd/demi water.  
-
-- Steriliseer de oplossing d.m.v. filtratie (filter 22 µm).   bereiding MSRV medium: 
-
-- Voeg oplossing B toe aan 500 ml oplossing A.  
-
-- Meng de oplossing.  
-
-- Giet uit in petrischalen en verwijder de luchtbellen.  
-
-- Even aan de lucht drogen om een nat oppervlak te voorkomen.    
-
-### 1.3  
-
-####Briljant groen agar (BGA)
+####Modified Semi-solid Rappaport-Vassiliadis medium (MSRV)<sup>3 De MSRV-platen moeten volgens de voorschriften van de leverancier/fabrikant bewaard worden. </sup>
 
 oplossing A (basis): 
 
 | --- | --- |
 |:---|:---|
-| vIeesextract  | 5,0 g  |
-| pepton  | 10,0 g  |
-| gistextract  | 3,0 g  |
-| Na <sub>2</sub> HP0 <sub>4</sub>  | 1,0 g  |
-| NaH <sub>2</sub> P0 <sub>4</sub>  | 0,6 g  |
-| agar  | 12 g tot 18 g  <sup> 1   = afhankelijk van de sterkte van de gel    </sup> |
-| water  | 900 ml  |
+|tryptose  |4,59 g  |
+|caseine hydrolysaat  |4,59 g  |
+|NaCI  |7,34 g  |
+|KH<sub>2</sub>P0<sub>4</sub>  |1,47 g  |
+|MgCl<sub>2</sub>  |10,93 g  |
+|malachietgroen oxalaat  |0,037 g  |
+|agar  |2,7 g  |
+|gedestilleerd water  |1000 ml  |
 
-bereiding: 
+bereiding 
 
-- Los de ingrediënten op in het water (indien nodig via verhitting).  
+-Los de ingrediënten op in het water. 
 
-- Stel de pH, zodat deze na sterilisatie 7,0 ± 0,2 is.  
+-Breng het mengsel onder voortdurend schudden aan de kook (NIET AUTOCLAVEREN). 
 
-- Schenk het medium in daarvoor geschikte buizen/flessen.  
+-Stel de pH op 5,2 ± 0,2. 
 
-- Steriliseer in een autoclaaf (15 min. 121C).    oplossing B (suiker/fenol rood oplossing): 
+-Koel het mengsel af tot 50C. oplossing B (novobiocine): 
 
-| --- | --- |
-|:---|:---|
-| lactose  | 10,0 g  |
-| sucrose  | 10,0 g  |
-| fenolrood  | 0,09 g  |
-| water tot een eindvolume van  | 100 ml  |
+-Los 10 mg novobiocine op in 2 ml gedestilleerd/demi water. 
 
-bereiding: 
+-Steriliseer de oplossing d.m.v. filtratie (filter 22 µm). bereiding MSRV medium: 
 
-- Los de componenten op in ± 50 mI water.  
+-Voeg oplossing B toe aan 500 ml oplossing A. 
 
-- Vul met water aan tot een eindvolume van 100 ml.  
+-Meng de oplossing. 
 
-- Verhit gedurende 20 min. in een waterbad van 70°C.  
+-Giet uit in petrischalen en verwijder de luchtbellen. 
 
-- Koel af tot 47°C ± 1C.  
+-Even aan de lucht drogen om een nat oppervlak te voorkomen. 
 
-- Gebruik de oplossing direct.    oplossing C (briljant groen oplossing): 
+###1.3 
 
-| --- | --- |
-|:---|:---|
-| briljant groen  | ± 0,5 g  |
-| water  | 100 ml  |
+####Briljant groen agar (BGA)
 
-bereiding: 
-
-- Voeg het briljant groen (concentratie tussen 4,5 mg/l en 6 mg/l) toe aan het water.  
-
-- Bewaar de oplossing tenminste 1 dag in het donker zodat auto sterilisatie optreedt.    bereiding complete medium: 
+oplossing A (basis):
 
 | --- | --- |
 |:---|:---|
-| oplossing A  | 900 mI  |
-| oplossing B  | 100 ml  |
-| oplossing C  | 1 mI  |
+| vIeesextract  |5,0 g  |
+|pepton  |10,0 g  |
+|gistextract  |3,0 g  |
+|Na<sub>2</sub>HP0<sub>4</sub>  |1,0 g  |
+|NaH<sub>2</sub>P0<sub>4</sub>  |0,6 g  |
+|agar  |12 g tot 18 g <sup>1 = afhankelijk van de sterkte van de gel </sup> |
+|water  |900 ml  |
 
 bereiding: 
 
-- Voeg, onder aseptische omstandigheden, oplossing C toe aan de (tot 47°C ± 1°C) afgekoelde oplossing B.  
+-Los de ingrediënten op in het water (indien nodig via verhitting). 
 
-- Voeg deze oplossing toe aan oplossing A en meng het medium.   bereiding van de agar platen: 
+-Stel de pH, zodat deze na sterilisatie 7,0 ± 0,2 is. 
 
-- Giet het vers bereide medium in grote (± 40 ml) of in kleine petrischalen (±15 ml).  
+-Schenk het medium in daarvoor geschikte buizen/flessen. 
 
-- Laat de platen stollen.  
+-Steriliseer in een autoclaaf (15 min. 121C). oplossing B (suiker/fenol rood oplossing): 
 
-- Droog de platen voor gebruik.    
+| --- | --- |
+|:---|:---|
+|lactose  |10,0 g  |
+|sucrose  |10,0 g  |
+|fenolrood  |0,09 g |
+| water tot een eindvolume van  |100 ml  |
 
-### 1.4  
+bereiding: 
+
+-Los de componenten op in ± 50 mI water. 
+
+-Vul met water aan tot een eindvolume van 100 ml. 
+
+-Verhit gedurende 20 min. in een waterbad van 70°C. 
+
+-Koel af tot 47°C ± 1C. 
+
+-Gebruik de oplossing direct. oplossing C (briljant groen oplossing):
+
+| --- | --- |
+|:---|:---|
+| briljant groen  |± 0,5 g  |
+|water  |100 ml  |
+
+bereiding: 
+
+-Voeg het briljant groen (concentratie tussen 4,5 mg/l en 6 mg/l) toe aan het water. 
+
+-Bewaar de oplossing tenminste 1 dag in het donker zodat auto sterilisatie optreedt. bereiding complete medium:
+
+| --- | --- |
+|:---|:---|
+| oplossing A  |900 mI  |
+|oplossing B  |100 ml  |
+|oplossing C  |1 mI  |
+
+bereiding: 
+
+-Voeg, onder aseptische omstandigheden, oplossing C toe aan de (tot 47°C ± 1°C) afgekoelde oplossing B. 
+
+-Voeg deze oplossing toe aan oplossing A en meng het medium. bereiding van de agar platen: 
+
+-Giet het vers bereide medium in grote (± 40 ml) of in kleine petrischalen (±15 ml). 
+
+-Laat de platen stollen. 
+
+-Droog de platen voor gebruik. 
+
+###1.4 
 
 ####Ureumagar (UA)
 
-oplossing A (basismedium): 
+oplossing A (basismedium):
 
 | --- | --- |
 |:---|:---|
-| pepton  | 1,0 g  |
-| glucose  | 1,0 g  |
-| NaCI  | 5,0 g  |
-| KH <sub>2</sub> P0 <sub>4</sub>  | 2,0 g  |
-| fenolrood  | 12,0 mg  |
-| agar  | 12,0 tot 18,0 g  <sup> 1   = afhankelijk van de sterkte van de gel    </sup> |
-| gedestilleerd water  | 1000 mI  |
+| pepton  |1,0 g  |
+|glucose  |1,0 g  |
+|NaCI  |5,0 g  |
+|KH<sub>2</sub>P0<sub>4</sub>  |2,0 g  |
+|fenolrood  |12,0 mg  |
+|agar  |12,0 tot 18,0 g <sup>1 = afhankelijk van de sterkte van de gel  </sup> |
+|gedestilleerd water  |1000 mI  |
 
 bereiding: 
 
-- Los de ingrediënten op in het water.  
+-Los de ingrediënten op in het water. 
 
-- Stel de pH op 6,8 ± 0,2 bij 25°C en filtreer de oplossing.  
+-Stel de pH op 6,8 ± 0,2 bij 25°C en filtreer de oplossing. 
 
-- Steriliseer de oplossing gedurende 15 min bij 121°C in een autoclaaf.  
+-Steriliseer de oplossing gedurende 15 min bij 121°C in een autoclaaf. 
 
-- Laat de oplossing afkoelen tot 47°C.    oplossing B (ureumoplossing): 
+-Laat de oplossing afkoelen tot 47°C. oplossing B (ureumoplossing):
 
 | --- | --- |
 |:---|:---|
-| ureum  | 400 g  |
-| gedestilleerd water  | 1000 ml  |
+|ureum  |400 g  |
+| gedestilleerd water |1000 ml  |
 
-bereiding: 
+bereiding:
 
-- Los de ureum op in het water  
+- Los de ureum op in het water 
 
-- Steriliseer de oplossing d.m.v. filtratie en controleer de steriliteit.    bereiding complete medium: 
+-Steriliseer de oplossing d.m.v. filtratie en controleer de steriliteit. bereiding complete medium: 
 
 | --- | --- |
 |:---|:---|
-| oplossing A  | 950 ml  |
-| oplossing B  | 50 ml  |
+|oplossing A  |950 ml  |
+|oplossing B  |50 ml  |
 
-bereiding: 
+bereiding:
 
-- Voeg oplossing B (ureumoplossing) toe aan oplossing A (basismedium).  
+-Voeg oplossing B (ureumoplossing) toe aan oplossing A (basismedium). 
 
-- Verdeel het medium over steriele buizen, per buis 10 ml medium.  
+-Verdeel het medium over steriele buizen, per buis 10 ml medium. 
 
-- Laat de buizen stollen zodat een schuin gedeelte ontstaat.    
+-Laat de buizen stollen zodat een schuin gedeelte ontstaat. 
 
-### 1.5  
+###1.5 
 
 ####Triple-sugar-ironagar (TSI)
 
@@ -1046,62 +1046,62 @@ samenstelling:
 
 | --- | --- |
 |:---|:---|
-| vIeesextract  | 3,0 g  |
-| gistextract  | 3,0 g  |
-| pepton  | 20,0 g  |
-| NaCI  | 5,0 g  |
-| lactose  | 10,0 g  |
-| sucrose  | 10,0 g  |
-| glucose  | 1,0 g  |
-| ijzer (III) citraat  | 0,3 g  |
-| natriumthiosulfaat  | 0,3 g  |
-| fenoIrood  | 0,024 g  |
-| agar  | 12,0 tot 18,0 g  <sup> 1   = afhankelijk van de sterkte van de gel    </sup> |
-| gedestilleerd water  | 1000 mI  |
+|vIeesextract  |3,0 g  |
+|gistextract  |3,0 g  |
+|pepton  |20,0 g  |
+|NaCI  |5,0 g  |
+|lactose  |10,0 g  |
+|sucrose  |10,0 g  |
+|glucose  |1,0 g  |
+|ijzer (III) citraat | 0,3 g  |
+|natriumthiosulfaat  |0,3 g  |
+|fenoIrood  |0,024 g  |
+|agar  |12,0 tot 18,0 g <sup>1 = afhankelijk van de sterkte van de gel  </sup> |
+|gedestilleerd water  |1000 mI  |
 
 bereiding: 
 
-- Los de ingrediënten op in het water (indien nodig d.m.v. verhitting).  
+-Los de ingrediënten op in het water (indien nodig d.m.v. verhitting). 
 
-- Stel de pH, zodat deze na sterilisatie 7,4 ± 0,2 is.  
+-Stel de pH, zodat deze na sterilisatie 7,4 ± 0,2 is.
 
-- Verdeel het medium over buizen, per buis 10 ml medium.  
+-Verdeel het medium over buizen, per buis 10 ml medium. 
 
-- Steriliseer de oplossing gedurende 15 min bij 120C in een autoclaaf.  
+-Steriliseer de oplossing gedurende 15 min bij 120C in een autoclaaf. 
 
-- Laat de buizen stollen zodat er bovenop 2,5 cm agar onderin de buis, een schuin gedeelte ontstaat.    
+-Laat de buizen stollen zodat er bovenop 2,5 cm agar onderin de buis, een schuin gedeelte ontstaat. 
 
-### 1.6  
+###1.6 
 
 ####Lysine-decarboxylase medium (LDC)
 
-samenstelling: 
+samenstelling:
 
 | --- | --- |
 |:---|:---|
-| 1-lysine monohydrochloride  | 5,0 g  |
-| gistextract  | 3,0 g  |
-| glucose  | 1,0 g  |
-| bromocresol purper  | 0,015 g  |
-| water  | 1000 ml  |
+| 1-lysine monohydrochloride  |5,0 g  |
+|gistextract  |3,0 g  |
+|glucose  |1,0 g  |
+|bromocresol purper  |0,015 g  |
+|water  |1000 ml  |
 
 bereiding: 
 
-- Los de ingrediënten op in het water (indien nodig d.m.v. verhitting).  
+-Los de ingrediënten op in het water (indien nodig d.m.v. verhitting). 
 
-- Stel de pH, zodat deze na sterilisatie 6,8 ± 0,2 is.  
+-Stel de pH, zodat deze na sterilisatie 6,8 ± 0,2 is. 
 
-- Verdeel het medium over smalle reageerbuizen; per buis 5 mI medium.  
+-Verdeel het medium over smalle reageerbuizen; per buis 5 mI medium. 
 
-- Steriliseer in een autoclaaf (10 min. 121°C).    
+-Steriliseer in een autoclaaf (10 min. 121°C). 
 
-### Bijlage  2  
+###Bijlage 2 
 
 ####: Eerstelijnscontrole met MSRV platen
 
 ####Onderwerp
 
-Deze bijlage beschrijft een methode voor de eerstelijnscontrole op de analyse van Salmonella met MSRV.  
+Deze bijlage beschrijft een methode voor de eerstelijnscontrole op de analyse van Salmonella met MSRV. 
 
 ####Werkwijze
 
@@ -1109,19 +1109,19 @@ Om de kwaliteit van de geproduceerde media te bewaken, dient iedere dag een cont
 
 | --- | --- |
 |:---|:---|
-|  *Inoculum:*   | Kolonie aanstippen met entoogje en afstrijken langs de wand van een buisje met gebufferd peptonwater (BPW). Ca. 24 ± 2 uur bij 37 ° C incuberen in BPw (10 <sup>8</sup>) en verdunnen tot 10 <sup>3</sup> of commercieel verkrijgbaar bij de IGB Groningen.  |
+|  *Inoculum:*   | Kolonie aanstippen met entoogje en afstrijken langs de wand van een buisje met gebufferd peptonwater (BPW). Ca. 24 ± 2 uur bij 37 ° C incuberen in BPw (10<sup>8</sup> ) en verdunnen tot 10<sup>3</sup> of commercieel verkrijgbaar bij de IGB Groningen.  |
 
 | --- | --- |
 |:---:|:---:|
-|  *Controlestam:*   | S. enteritidis  |
-| --- | l  |
-| --- | 100 µL op de plaat pipetteren  |
-| --- | l  |
-| --- | incuberen 1 x 24 ± 2 uur  |
-| --- | l  |
-| --- | wit/grijze troebeling plaat  |
-| --- | l  |
-| --- | positief  |
+|*Controlestam:* |S. enteritidis |
+| --- |l |
+| --- |100 µL op de plaat pipetteren |
+| --- |l |
+| --- |incuberen 1 x 24 ± 2 uur  |
+| --- |l |
+| --- |wit/grijze troebeling plaat |
+| --- |l |
+| --- |positief |
 
 ####Alternatieve PVE Branchemethode PROBELIA TM PCR voor het aantonen van Salmonella in dons, faeces, vellen en eindproduct afkomstig van pluimvee Versie 14 november 2002
 
@@ -1129,46 +1129,46 @@ Om de kwaliteit van de geproduceerde media te bewaken, dient iedere dag een cont
 
 ####Onderwerp
 
-Dit protocol beschrijft een 24-uurs methode voor het aantonen van Salmonella met behulp van de PROBELIA <sup>TM</sup> test (Bio-Rad Laboratories) in dons, faeces (mest), vellen en eindproduct afkomstig van pluimvee. De methode is gevalideerd ten opzichte van de door de branche opgestelde en door de Raad voor Accreditatie goedgekeurde analyse methode MSRV.  
+Dit protocol beschrijft een 24-uurs methode voor het aantonen van Salmonella met behulp van de PROBELIA<sup>TM</sup> test (Bio-Rad Laboratories) in dons, faeces (mest), vellen en eindproduct afkomstig van pluimvee. De methode is gevalideerd ten opzichte van de door de branche opgestelde en door de Raad voor Accreditatie goedgekeurde analyse methode MSRV. 
 
 ### 2  
 
 ####Definities
 
-Salmonella : Salmonella spp. , d.w.z. alle typen Salmonella waarvan het DNA aan de hand van de Polymerase Chain Reactie (PCR) wordt aangetoond, wanneer wordt getest volgens de beschreven werkwijze. Detectie van Salmonella : bepalen van de aan- of afwezigheid van deze micro-organismen als het onderzoek wordt uitgevoerd volgens de beschreven werkwijze.  
+Salmonella : Salmonella spp. , d.w.z. alle typen Salmonella waarvan het DNA aan de hand van de Polymerase Chain Reactie (PCR) wordt aangetoond, wanneer wordt getest volgens de beschreven werkwijze. Detectie van Salmonella : bepalen van de aan- of afwezigheid van deze micro-organismen als het onderzoek wordt uitgevoerd volgens de beschreven werkwijze. 
 
 ### 3  
 
 ####Principe
 
-Uit een voorophopingsmedium wordt, na voorincubatie, het DNA van Salmonella geïsoleerd. Vervolgens vindt amplificatie plaats van een voor Salmonella specifieke en gepatenteerde DNA- sequentie, het lagA gen, met behulp van de PCR. Het vermenigvuldigde DNA wordt na hybridisatie op een microtiterplaatstrip aangetoond middels een colorimetrische reactie. Inclusief voorophoping wordt een positieve of negatieve uitslag verkregen binnen 24 uur.  
+Uit een voorophopingsmedium wordt, na voorincubatie, het DNA van Salmonella geïsoleerd. Vervolgens vindt amplificatie plaats van een voor Salmonella specifieke en gepatenteerde DNA- sequentie, het lagA gen, met behulp van de PCR. Het vermenigvuldigde DNA wordt na hybridisatie op een microtiterplaatstrip aangetoond middels een colorimetrische reactie. Inclusief voorophoping wordt een positieve of negatieve uitslag verkregen binnen 24 uur. 
 
 ### 4  
 
 ####Reagentia en andere materialen
 
-De PROBELIA <sup>TM</sup> Salmonella test bestaat uit kant-en-klare reagentia, inclusief voorophopingmedium. Het te gebruiken gedestilleerde water moet van analysekwaliteit zijn.  
+De PROBELIA<sup>TM</sup>Salmonella test bestaat uit kant-en-klare reagentia, inclusief voorophopingmedium. Het te gebruiken gedestilleerde water moet van analysekwaliteit zijn.  
 
 | --- | --- | --- |
 |:---|:---|:---|
-|  *Niet-selectief voorophopingsmedium*   | --- | --- |
-| gebufferd pepton water (BPw)  | *Bio-Rad code 356-4684 (500 g)* of *Bio-Rad code 355-4170 (225 ml)*  | [bijlage 1.1]  |
+| *Niet-selectief voorophopingsmedium*  | --- | --- |
+| gebufferd pepton water (BPw)  |  *Bio-Rad code 356-4684 (500 g)* of *Bio-Rad code 355-4170 (225 ml)*   | [bijlage 1.1]  |
 
 | --- | --- | --- |
 |:---|:---|:---|
-|  *PROBELIA <sup>TM</sup>*Salmonella* test*   | --- | --- |
-| Amplificatie kit  |  *Bio-Rad code 357-8000*   | [bijlage 1.2]  |
-| Detectie kit  |  *Bio-Rad code 357-8001*   | [bijlage 1.2]  |
+|*PROBELIA <sup>TM</sup> *Salmonella* test* | --- | --- |
+|Amplificatie kit | *Bio-Rad code 357-8000*  |[bijlage 1.2] |
+|Detectie kit | *Bio-Rad code 357-8001*  |[bijlage 1.2] |
 
-De samenstelling en bereiding van media en kits is opgenomen in bijlage 1.  
+De samenstelling en bereiding van media en kits is opgenomen in bijlage 1. 
 
 ### 5  
 
 ####Apparatuur en verbruiksmaterialen
 
-De gebruikelijke apparatuur voor een microbiologisch laboratorium en de voor de PROBELIA <sup>TM</sup> test benodigde apparatuur en verbruiksmaterialen, zoals onderstaand vermeld:  *Opmerking:*  Gesteriliseerde materialen voor éénmalig gebruik mogen worden toegepast. 
+De gebruikelijke apparatuur voor een microbiologisch laboratorium en de voor de PROBELIA<sup>TM</sup> test benodigde apparatuur en verbruiksmaterialen, zoals onderstaand vermeld:  *Opmerking:*Gesteriliseerde materialen voor éénmalig gebruik mogen worden toegepast.
 
-5.1 Broedstoof voor het bebroeden bij 37 ± 1 <sup>0</sup> C  
+5.1 Broedstoof voor het bebroeden bij 37 ± 1<sup>0</sup> C  
 
 5.2 Micropipetten (5-50 en 20-200 μl)  
 
@@ -1190,13 +1190,13 @@ De gebruikelijke apparatuur voor een microbiologisch laboratorium en de voor de 
 
 5.11 Steriele micropipetpunten met filter  
 
-5.12 Steriele PCR-tubes 200 μl    
+5.12 Steriele PCR-tubes 200 μl   
 
 ### 6  
 
 ####Specifieke eisen betreffende de laboratorium ruimtes
 
-PCR technologie is zeer gevoelig: amplificatie van een enkel molecuul genereert miljoenen identieke kopieën van de gewenste sequentie. Deze kopieën kunnen via aërosolen in de laboratorium ruimte circuleren. Om besmetting van nieuwe monsters met DNA sequenties vanuit amplificaties van voorgaande monsters te voorkòmen, is het essentiëel om de ruimtes waar de monster behandeling en het mixen van de reagentia plaatsvindt (pre-PCR ruimte) te scheiden van de ruimte waar de amplicon analyse plaatsvindt en de centrifugebuisjes worden geopend (post-PCR ruimte). Het gebruik van de PROBELIA <sup>TM</sup> PCR test vereist een minimum van 2 afgescheiden ruimtes. Elke ruimte is voorzien van eigen gebruiksmaterialen zoals pipetten, handschoenen, laboratorium jassen, etc., die niet mogen circuleren van de ene werkplek naar de andere.  
+PCR technologie is zeer gevoelig: amplificatie van een enkel molecuul genereert miljoenen identieke kopieën van de gewenste sequentie. Deze kopieën kunnen via aërosolen in de laboratorium ruimte circuleren. Om besmetting van nieuwe monsters met DNA sequenties vanuit amplificaties van voorgaande monsters te voorkòmen, is het essentiëel om de ruimtes waar de monster behandeling en het mixen van de reagentia plaatsvindt (pre-PCR ruimte) te scheiden van de ruimte waar de amplicon analyse plaatsvindt en de centrifugebuisjes worden geopend (post-PCR ruimte). Het gebruik van de PROBELIA<sup>TM</sup> PCR test vereist een minimum van 2 afgescheiden ruimtes. Elke ruimte is voorzien van eigen gebruiksmaterialen zoals pipetten, handschoenen, laboratorium jassen, etc., die niet mogen circuleren van de ene werkplek naar de andere. 
 
 ### 7  
 
@@ -1206,30 +1206,30 @@ Zie voor de acceptatie criteria voor monstermateriaal bijlage IX. De monsters di
 
 ####Voorbehandeling van het monster
 
-Verdun het monster 1:10 in BPw in een stomacherzak met filter. Stomacher, en incubeer de BPw gedurende 18± 2 uur bij 37 <sup>0</sup> C ± 1 <sup>0</sup> C. Bij verwerking van borstvel (of nekvel) ten behoeve van de verdunning dient zo min mogelijk onderhuids vet meegesneden te worden; een overmaat vet kan de isolatie van DNA bemoeilijken en inhibitie van de PCR-reactie veroorzaken. Mest en dons vergen geen bijzondere voorbehandeling.  
+Verdun het monster 1:10 in BPw in een stomacherzak met filter. Stomacher, en incubeer de BPw gedurende 18± 2 uur bij 37<sup>0</sup> C ± 1<sup>0</sup> C. Bij verwerking van borstvel (of nekvel) ten behoeve van de verdunning dient zo min mogelijk onderhuids vet meegesneden te worden; een overmaat vet kan de isolatie van DNA bemoeilijken en inhibitie van de PCR-reactie veroorzaken. Mest en dons vergen geen bijzondere voorbehandeling. 
 
 ####Amplificatie en detectie van DNA met PROBELIA TM Salmonella
 
-Na voorophoping wordt de inhoud van de stomacherzak lichtjes gehomogeniseerd middels voorzichtig zwenken. Vervolgens wordt met een steriele pipet (bij voorkeur met filter) 1 ml homogenaat uit de stomacherzak gepipetteerd in een 1,5 ml centrifuge buisje. Hierbij moeten geen vet, donsresten of andere vaste substanties worden meegepipetteerd. Overige stappen worden uitgevoerd conform de gebruiksaanwijzing van de PROBELIA <sup>TM</sup> Salmonella testkit (instructie van de fabrikant).  
+Na voorophoping wordt de inhoud van de stomacherzak lichtjes gehomogeniseerd middels voorzichtig zwenken. Vervolgens wordt met een steriele pipet (bij voorkeur met filter) 1 ml homogenaat uit de stomacherzak gepipetteerd in een 1,5 ml centrifuge buisje. Hierbij moeten geen vet, donsresten of andere vaste substanties worden meegepipetteerd. Overige stappen worden uitgevoerd conform de gebruiksaanwijzing van de PROBELIA<sup>TM</sup>Salmonella testkit (instructie van de fabrikant). 
 
 ####Beoordeling
 
-Resultaten worden beoordeeld conform de gebruiksaanwijzing van de PROBELIA <sup>TM</sup> Salmonella testkit (instructie van de fabrikant). Deze zijn gebaseerd op bepaling van de optische densiteit (OD) verkregen op de Salmonella detectiestrip (H1), vergeleken met de OD van hetzelfde monster op de detectiestrip van de interne controle (H0). Zie ook onderstaande tabel:  
+Resultaten worden beoordeeld conform de gebruiksaanwijzing van de PROBELIA<sup>TM</sup>Salmonella testkit (instructie van de fabrikant). Deze zijn gebaseerd op bepaling van de optische densiteit (OD) verkregen op de Salmonella detectiestrip (H1), vergeleken met de OD van hetzelfde monster op de detectiestrip van de interne controle (H0). Zie ook onderstaande tabel:  
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
-| --- | *Salmonellae* (H1)  | Interne controle (H0) Resultaat  |
+| --- |  *Salmonellae* (H1)  | Interne controle (H0) Resultaat  |
 | 1  | OD > 0.070  | niet van belang  | positief  |
 | 2  | OD < 0.070  | OD > 0.070  | negatief  |
 | 3  | OD < 0.070  | OD < 0.070  | inhibitie  |
 
-In het geval van inhibitie van de amplificatiereactie (de OD’s voor monster en corresponderende interne controle zijn lager dan de gestelde cut-off value van 0.070) dient een nieuwe test te worden uitgevoerd. Hiertoe wordt het supernatant van het betreffende monster, verkregen na isolatie van DNA, 1:10 verdund met steriel water (instructie van de fabrikant). Vervolgens wordt de PCR opnieuw ingezet. Voor een positief resultaat geldt: Salmonella aanwezig. Voor een negatief resultaat geldt: Salmonella afwezig. Verdere bevestiging van positieve uitslagen verkregen met de PROBELIA <sup>TM</sup> Salmonella is ter beoordeling van de gebruiker maar is niet vereist. Echter in die gevallen waarin volgens de [Verordening Hygiënevoorschriften pluimveehouderij 1999](../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/1999/BWBR0010849/README.md) of de [Verordening Hygiënevoorschriften pluimveeverwerkende industrie 1999](../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveeverwerkende/industrie/1999/BWBR0010836/README.md) nadere serotypering van de Salmonella bevinding is vereist, dient met dezelfde BPw-voorophoping als waaruit de PCR is uitgevoerd alsnog een isolatie met MSRV en BGA uitgevoerd te worden, zie hiervoor de PVE branchemethode MSRV. In bijlage VIII is het werkvoorschrift voor serotypering van isolaten opgenomen.  
+In het geval van inhibitie van de amplificatiereactie (de OD’s voor monster en corresponderende interne controle zijn lager dan de gestelde cut-off value van 0.070) dient een nieuwe test te worden uitgevoerd. Hiertoe wordt het supernatant van het betreffende monster, verkregen na isolatie van DNA, 1:10 verdund met steriel water (instructie van de fabrikant). Vervolgens wordt de PCR opnieuw ingezet. Voor een positief resultaat geldt: Salmonella aanwezig. Voor een negatief resultaat geldt: Salmonella afwezig. Verdere bevestiging van positieve uitslagen verkregen met de PROBELIA<sup>TM</sup>Salmonella is ter beoordeling van de gebruiker maar is niet vereist. Echter in die gevallen waarin volgens de [Verordening Hygiënevoorschriften pluimveehouderij 1999](../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/1999/BWBR0010849/README.md) of de [Verordening Hygiënevoorschriften pluimveeverwerkende industrie 1999](../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveeverwerkende/industrie/1999/BWBR0010836/README.md) nadere serotypering van de Salmonella bevinding is vereist, dient met dezelfde BPw-voorophoping als waaruit de PCR is uitgevoerd alsnog een isolatie met MSRV en BGA uitgevoerd te worden, zie hiervoor de PVE branchemethode MSRV. In bijlage VIII is het werkvoorschrift voor serotypering van isolaten opgenomen. 
 
 ### 8  
 
 ####Controle
 
-De PROBELIA <sup>TM</sup> Salmonella test kit bevat één positieve en twee negatieve controles. Een additionele interne controle in elk monster bepaald de efficiëntie van de PCR-reactie en is een indicator voor vals-negatieve reacties. Genoemde controles worden in elke test meegenomen. 
+De PROBELIA<sup>TM</sup>Salmonella test kit bevat één positieve en twee negatieve controles. Een additionele interne controle in elk monster bepaald de efficiëntie van de PCR-reactie en is een indicator voor vals-negatieve reacties. Genoemde controles worden in elke test meegenomen. 
 
 ####Validatie van de test:
 
@@ -1239,33 +1239,33 @@ Positieve controle
 
 Negatieve controle (indien een ingangscontrole per batch wordt toegepast, kan deze negatieve controle komen te vervallen)  
 
-Blanco controle    
+Blanco controle   
 
 ### 9  
 
 ####Opgave van het resultaat
 
-Het resultaat wordt opgegeven als ‘aan- of afwezigheid van Salmonella in het betreffende monstermateriaal’ als Salmonella al dan niet is aangetoond volgens dit protocol. Indien bij het aanleveren van de monsters door de opdrachtgever afwijkingen worden geconstateerd van de wijze waarop de monsters aangeleverd moeten worden, dan dient het laboratorium hierover schriftelijk een opmerking te maken richting de opdrachtgever (zie bijlage IX).  
+Het resultaat wordt opgegeven als ‘aan- of afwezigheid van Salmonella in het betreffende monstermateriaal’ als Salmonella al dan niet is aangetoond volgens dit protocol. Indien bij het aanleveren van de monsters door de opdrachtgever afwijkingen worden geconstateerd van de wijze waarop de monsters aangeleverd moeten worden, dan dient het laboratorium hierover schriftelijk een opmerking te maken richting de opdrachtgever (zie bijlage IX). 
 
 ### 10  
 
 ####Bronvermelding
 
-Fach P., Dilasser F., Grout J., and Tache J., Evaluation of a polymerase chain reaction-based test for detecting Salmonella spp. in food samples: PROBELIA <sup>TM</sup> Salmonella spp. Journal of Food Protection, Vol. 62 (12): 1387-1393 (1999). Hartman E.G. Validatierapport van de isolatie van Salmonella uit de matrix pluimvee faeces m.b.v. het Modified Semi-solid Rappaport Vassiliadis (MSRV)-medium, Gezondheidsdienst voor Dieren, projectnr 401919, september 1999. Miras I., Hermant N., Arricau N., Popoff M.Y. Nucleotide sequence of lagA and lagB genes involved in invasion of HeLa cells by Salmonella enterica subsp. Enterica ser. Typhy . Research in Microbiology, Vol. 146 (1): 17-20 (1995). PROBELIA <sup>TM</sup> Salmonella spp .: AFNOR certification, attest SDP-07/2-06/96. Productschappen Vee, Vlees en Eieren, Verzamelband Actieplan Salmonella en Campylobacter in de pluimveevleessector 2000 <sup>+</sup>. Van der Zee, H., et al. Vergelijking van de Salmonella bepaling met behulp van de conventionele branchemethode (MSRV) en een snelle alternatieve detectiemethode (PROBELIA <sup>TM</sup> PCR) in de pluimveesector. PVE, september 2002.  
+Fach P., Dilasser F., Grout J., and Tache J., Evaluation of a polymerase chain reaction-based test for detecting Salmonella spp. in food samples: PROBELIA<sup>TM</sup>Salmonella spp. Journal of Food Protection, Vol. 62 (12): 1387-1393 (1999). Hartman E.G. Validatierapport van de isolatie van Salmonella uit de matrix pluimvee faeces m.b.v. het Modified Semi-solid Rappaport Vassiliadis (MSRV)-medium, Gezondheidsdienst voor Dieren, projectnr 401919, september 1999. Miras I., Hermant N., Arricau N., Popoff M.Y. Nucleotide sequence of lagA and lagB genes involved in invasion of HeLa cells by Salmonella enterica subsp. Enterica ser. Typhy . Research in Microbiology, Vol. 146 (1): 17-20 (1995). PROBELIA<sup>TM</sup>Salmonella spp .: AFNOR certification, attest SDP-07/2-06/96. Productschappen Vee, Vlees en Eieren, Verzamelband Actieplan Salmonella en Campylobacter in de pluimveevleessector 2000<sup>+</sup> . Van der Zee, H., et al. Vergelijking van de Salmonella bepaling met behulp van de conventionele branchemethode (MSRV) en een snelle alternatieve detectiemethode (PROBELIA<sup>TM</sup> PCR) in de pluimveesector. PVE, september 2002. 
 
-### 11  
+###11 
 
 ####Bijlagen
 
-### Bijlage  1  
+###Bijlage 1 
 
 ####: Samenstelling van voorophopingsmedium en PROBELIA TM testkits
 
-### 1.1  
+### 1.1 
 
 ####Voorophopingsmedium: Gebufferd peption water (BPw)
 
-Samenstelling: 
+Samenstelling:
 
 | --- | --- |
 |:---|:---|
@@ -1279,32 +1279,32 @@ Bereiding:
 
 Los de ingrediënten op in het water (indien nodig d.m.v. verhitting)  
 
-Stel de pH, zodat deze na sterilisatie 7,2 ± 0,2 bedraagt bij 25 <sup>0</sup> C  
+Stel de pH, zodat deze na sterilisatie 7,2 ± 0,2 bedraagt bij 25<sup>0</sup> C  
 
 Verdeel het medium over de daartoe geschikte flessen  
 
-Steriliseer in een autoclaaf (15 min. , 121 <sup>0</sup> C)    
+Steriliseer in een autoclaaf (15 min. , 121<sup>0</sup> C)   
 
-### 1.2  
+### 1.2 
 
 ####PROBELIA TM Salmonella test
 
-Samenstelling amplificatie kit 
+Samenstelling amplificatie kit
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
 | A1  | Lysis reagens  | 1 fles  | 22 ml  |
-| A2  | *Salmonella spp.* amplificatie mix  | 2 buizen  | 2 x 2,5 ml  |
+| A2  |  *Salmonella spp.* amplificatie mix  | 2 buizen  | 2 x 2,5 ml  |
 | A3  | PCR Positieve controle  | 1 buis  | 0,25 ml  |
 | A4  | PCR Negatieve controle  | 1 buis  | 0,5 ml  |
 | A5  | Denaturatie reagens  | 1 fles  | 6 ml  |
 
-Samenstelling detectie kit: 
+Samenstelling detectie kit:
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
 | H0  | 96 wells plaat (12x8) gecoat met een probe specifiek voor de interne controle  | 1 microtiterplaat  |
-| H1  | 96 wells plaat (12x8) gecoat met een probe specifiek voor *Salmonella spp.*  | 1 microtiterplaat  |
+| H1  | 96 wells plaat (12x8) gecoat met een probe specifiek voor *Salmonella spp.*   | 1 microtiterplaat  |
 | H2  | Hybridisatie buffer  | 1 fles  | 100 ml  |
 | H3  | Peroxidase-gelabelde probes specifiek voor *Salmonella spp.* en de interne controle  | 1 buis  | 100 ml  |
 | H4  | Was buffer (10x geconcentreerd)  | 1 fles  | 100 ml  |
@@ -1319,19 +1319,19 @@ Samenstelling detectie kit:
 
 ####Onderwerp
 
-Dit protocol beschrijft een 48-uurs methode voor het aantonen van Salmonella met behulp van de VIDAS SLM test (bioMérieux) in dons afkomstig van pluimvee. De methode is gevalideerd ten opzichte van de door de branche opgestelde en door de Raad voor Accreditatie goedgekeurde analyse methode MSRV.  
+Dit protocol beschrijft een 48-uurs methode voor het aantonen van Salmonella met behulp van de VIDAS SLM test (bioMérieux) in dons afkomstig van pluimvee. De methode is gevalideerd ten opzichte van de door de branche opgestelde en door de Raad voor Accreditatie goedgekeurde analyse methode MSRV. 
 
 ### 2  
 
 ####Definities
 
-Salmonella : Salmonella spp. , d.w.z. alle typen Salmonella waarvan zowel O als H antigenen met behulp van de Enzyme Linked Fluorescent Assay (ELFA) techniek worden aangetoond, wanneer wordt getest volgens de beschreven werkwijze. Detectie van Salmonella : bepalen van de aan- of afwezigheid van deze micro-organismen als het onderzoek wordt uitgevoerd volgens de beschreven werkwijze.  
+Salmonella : Salmonella spp. , d.w.z. alle typen Salmonella waarvan zowel O als H antigenen met behulp van de Enzyme Linked Fluorescent Assay (ELFA) techniek worden aangetoond, wanneer wordt getest volgens de beschreven werkwijze. Detectie van Salmonella : bepalen van de aan- of afwezigheid van deze micro-organismen als het onderzoek wordt uitgevoerd volgens de beschreven werkwijze. 
 
 ### 3  
 
 ####Principe
 
-VIDAS SLM is een enzym immunoassay voor detectie van Salmonella antigenen, waarbij gebruik wordt gemaakt van de ELFA methode en geautomatiseerd uitgevoerd op het VIDAS analyse apparaat. De voorophoping en de selectieve ophopingen vinden achtereenvolgens plaats gedurende 18 uur in een voorophopingsmedium, 6-8 uur in 2 verschillende selectieve ophopingsmedia en als laatste gedurende 18 uur in een 3 <sup>e</sup> ophopingsmedium. Van dit laatste ophopingsmedium wordt een hoeveelheid verhit en in een reagens strip gebracht. De reagens strip wordt in het VIDAS analyse apparaat gebracht, waarna het aantonen van aanwezigheid van Salmonella antigenen met behulp van een cocktail van specifieke monoclonale antilichamen en een fluorescentie reactie volledig geautomatiseerd verloopt. Het test resultaat van deze aantoningsstap is na ca. 45 minuten beschikbaar.  
+VIDAS SLM is een enzym immunoassay voor detectie van Salmonella antigenen, waarbij gebruik wordt gemaakt van de ELFA methode en geautomatiseerd uitgevoerd op het VIDAS analyse apparaat. De voorophoping en de selectieve ophopingen vinden achtereenvolgens plaats gedurende 18 uur in een voorophopingsmedium, 6-8 uur in 2 verschillende selectieve ophopingsmedia en als laatste gedurende 18 uur in een 3<sup>e</sup> ophopingsmedium. Van dit laatste ophopingsmedium wordt een hoeveelheid verhit en in een reagens strip gebracht. De reagens strip wordt in het VIDAS analyse apparaat gebracht, waarna het aantonen van aanwezigheid van Salmonella antigenen met behulp van een cocktail van specifieke monoclonale antilichamen en een fluorescentie reactie volledig geautomatiseerd verloopt. Het test resultaat van deze aantoningsstap is na ca. 45 minuten beschikbaar. 
 
 ### 4  
 
@@ -1355,13 +1355,13 @@ Alle gebruikte grondstoffen en het gedestilleerde water moeten van analysekwalit
 |  *lysine-decarboxylase medium*   | LDC  | PVE Branchemethode MSRV  |
 | Salmonella polyvalent agglutinatie serum PVE Branchemethode MSRV  | PVE Branchemethode MSRV  |
 
-De samenstelling en bereiding van media en reagentia is opgenomen in bijlage 1 van de PVE Branchemethode MSRV. Er mag echter ook gebruik gemaakt worden van media die commercieel verkrijgbaar zijn. De VIDAS SLM test bestaat uit kant-en-klare reagentia, zoals omschreven in de gebruiksaanwijzing van de VIDAS SLM 30 702 test, instructie van de fabrikant.  
+De samenstelling en bereiding van media en reagentia is opgenomen in bijlage 1 van de PVE Branchemethode MSRV. Er mag echter ook gebruik gemaakt worden van media die commercieel verkrijgbaar zijn. De VIDAS SLM test bestaat uit kant-en-klare reagentia, zoals omschreven in de gebruiksaanwijzing van de VIDAS SLM 30 702 test, instructie van de fabrikant. 
 
 ### 5  
 
 ####Apparatuur en verbruiksmaterialen
 
-De gebruikelijke apparatuur voor een microbiologisch laboratorium en de voor de VIDAS SLM test benodigde apparatuur en verbruiksmaterialen, zoals onderstaand vermeld:  *Opmerking:*  Gesteriliseerde materialen voor éénmalig gebruik mogen worden toegepast. 
+De gebruikelijke apparatuur voor een microbiologisch laboratorium en de voor de VIDAS SLM test benodigde apparatuur en verbruiksmaterialen, zoals onderstaand vermeld: *Opmerking:*Gesteriliseerde materialen voor éénmalig gebruik mogen worden toegepast.
 
 Broedstoof voor het bebroeden bij 37 ° C ± 1°C  
 
@@ -1371,7 +1371,7 @@ Micropipet (500 μl)
 
 Steriele micropipetpunten  
 
-Waterbad (100 <sup>0</sup> C) of equivalent  
+Waterbad (100<sup>0</sup> C) of equivalent  
 
 Steriele entnaalden met een oog met een diameter van ca. 3 mm.  
 
@@ -1383,7 +1383,7 @@ Cultuurbuizen van 17/18 x 150 mm en van 8 x 160 mm.
 
 Stomacherzakken (met filter)  
 
-VIDAS analyse apparaat    
+VIDAS analyse apparaat   
 
 ### 6  
 
@@ -1397,23 +1397,23 @@ Verdun het monster 1:10 in BPw (25 gram dons in 225 ml BPw). Stomacher, en incub
 
 ####Selectieve ophoping
 
-Breng na incubatie van de BPw 1 ml van deze suspensie over in 10 ml SC bouillon. Incubeer 6-8 uur bij 37 ° C ± 1 ° C . Breng tegelijkertijd ook 0,1 ml van deze BPw suspensie over in 10 ml RV bouillon. Incubeer 6-8 uur bij 42 ° C ± 0,5 ° C  
+Breng na incubatie van de BPw 1 ml van deze suspensie over in 10 ml SC bouillon. Incubeer 6-8 uur bij 37 ° C ± 1 ° C . Breng tegelijkertijd ook 0,1 ml van deze BPw suspensie over in 10 ml RV bouillon. Incubeer 6-8 uur bij 42 ° C ± 0,5 ° C 
 
 ####Na-ophoping
 
-Breng na incubatie van de SC bouillon 1 ml hiervan over in 10 ml M bouillon. Breng na incubatie van de RV bouillon 1 ml hiervan over in een 2 <sup>e</sup> buis met 10 ml M bouillon. Her-incubeer de SC bouillon en de RV bouillon voor nog eens 18 uur, om bevestiging achteraf mogelijk te maken. Incubeer de M bouillon buizen gedurende 18 uur bij 42 ° C ± 0,5 ° C. Meng de M bouillon buizen na incubatie en breng uit elke buis 1 ml over in een eppendorfbuisje. Sluit de buisjes en verhit gedurende 15 minuten in een kokend waterbad. Voer vervolgens de VIDAS SLM test uit volgens de gebruiksaanwijzing van de fabrikant. Bewaar de overgebleven bouillons bij 2-8 ° C voor bevestiging. 
+Breng na incubatie van de SC bouillon 1 ml hiervan over in 10 ml M bouillon. Breng na incubatie van de RV bouillon 1 ml hiervan over in een 2<sup>e</sup> buis met 10 ml M bouillon. Her-incubeer de SC bouillon en de RV bouillon voor nog eens 18 uur, om bevestiging achteraf mogelijk te maken. Incubeer de M bouillon buizen gedurende 18 uur bij 42 ° C ± 0,5 ° C. Meng de M bouillon buizen na incubatie en breng uit elke buis 1 ml over in een eppendorfbuisje. Sluit de buisjes en verhit gedurende 15 minuten in een kokend waterbad. Voer vervolgens de VIDAS SLM test uit volgens de gebruiksaanwijzing van de fabrikant. Bewaar de overgebleven bouillons bij 2-8 ° C voor bevestiging. 
 
 ####Beoordeling
 
-Resultaten worden beoordeeld conform de gebruiksaanwijzing van de VIDAS SLM test, gebruiksaanwijzing van de fabrikant. Deze zijn gebaseerd op metingen van de fluorescentie en worden gestandaardiseerd naar de zgn. Test Value. Resultaten met een Test Value onder de 0,23 betreffen monsters waarin Salmonella antigenen niet aantoonbaar waren. Resultaten met een test Value = 0,23 worden als Salmonella -positief gerapporteerd. Positieve resultaten moeten worden bevestigd met behulp van de bewaarde ophopings- en na-ophopingsmedia.  
+Resultaten worden beoordeeld conform de gebruiksaanwijzing van de VIDAS SLM test, gebruiksaanwijzing van de fabrikant. Deze zijn gebaseerd op metingen van de fluorescentie en worden gestandaardiseerd naar de zgn. Test Value. Resultaten met een Test Value onder de 0,23 betreffen monsters waarin Salmonella antigenen niet aantoonbaar waren. Resultaten met een test Value = 0,23 worden als Salmonella -positief gerapporteerd. Positieve resultaten moeten worden bevestigd met behulp van de bewaarde ophopings- en na-ophopingsmedia. 
 
 ####Bevestiging van positieve resultaten
 
-Ent met een öse vanuit de ophopingsbouillons (RV en SC) vanuit de broedstoven en vanuit de M bouillons vanuit de koeling af op gedroogde BGA platen. Incubeer deze platen gedurende 24 ± 2 uur bij 37 ° C ± 1 ° C.  
+Ent met een öse vanuit de ophopingsbouillons (RV en SC) vanuit de broedstoven en vanuit de M bouillons vanuit de koeling af op gedroogde BGA platen. Incubeer deze platen gedurende 24 ± 2 uur bij 37 ° C ± 1 ° C. 
 
 ####Beoordeling BGA platen
 
-Controleer de bebroede BGA-platen op de vorming van roze kolonies. Dergelijke kolonies worden als ‘vermoedelijk positief’ aangemerkt. Bevestiging van deze specifieke kolonies, zowel biochemisch als serologisch, vindt vervolgens plaats zoals omschreven in de PVE Branchemethode MSRV. Voor donsmonsters vindt serotypering plaats voor de 4 hoofdgroepen van Salmonella (B, C, D en E) en indien van toepassing identificatie van Salmonella enteritidis en Salmonella typhimurium (indien bij de pluimveehouder het serotype nog niet bekend is). In bijlage VIII is hiervoor het werkvoorschrift opgenomen.  
+Controleer de bebroede BGA-platen op de vorming van roze kolonies. Dergelijke kolonies worden als ‘vermoedelijk positief’ aangemerkt. Bevestiging van deze specifieke kolonies, zowel biochemisch als serologisch, vindt vervolgens plaats zoals omschreven in de PVE Branchemethode MSRV. Voor donsmonsters vindt serotypering plaats voor de 4 hoofdgroepen van Salmonella (B, C, D en E) en indien van toepassing identificatie van Salmonella enteritidis en Salmonella typhimurium (indien bij de pluimveehouder het serotype nog niet bekend is). In bijlage VIII is hiervoor het werkvoorschrift opgenomen. 
 
 ### 7  
 
@@ -1425,19 +1425,19 @@ Positieve controle
 
 Negatieve controle (indien een ingangscontrole per batch wordt toegepast, kan deze negatieve controle komen te vervallen)  
 
-Blanco controle    
+Blanco controle   
 
 ### 8  
 
 ####Opgave van het resultaat
 
-Geef het resultaat op als ‘aan- of afwezigheid van Salmonella in dons’, als Salmonella al dan niet is aangetoond volgens dit protocol. Indien bij het aanleveren van de monsters door de opdrachtgever afwijkingen worden geconstateerd van de wijze waarop de monsters aangeleverd moeten worden, dan dient het laboratorium hierover schriftelijk een opmerking te maken richting de opdrachtgever (zie bijlage IX).  
+Geef het resultaat op als ‘aan- of afwezigheid van Salmonella in dons’, als Salmonella al dan niet is aangetoond volgens dit protocol. Indien bij het aanleveren van de monsters door de opdrachtgever afwijkingen worden geconstateerd van de wijze waarop de monsters aangeleverd moeten worden, dan dient het laboratorium hierover schriftelijk een opmerking te maken richting de opdrachtgever (zie bijlage IX). 
 
 ### 9  
 
 ####Bronvermelding
 
-Hartman, E.G., Validatierapport van de isolatie van Salmonella uit de matrix pluimvee faeces m.b.v. het Modified Semi-solid Rappaport Vassiliadis (MSRV)-medium, Gezondheidsdienst voor Dieren, projectnr 401919, september 1999. ISO 6579:1993(E). Microbiology. General guidance on methods for the detection of Salmonella . Productschappen Vee, Vlees en Eieren, Verzamelband Actieplan Salmonella en Campylobacter in de pluimveevleessector 2000 <sup>+</sup>. Van der Zee, H. et al. Validatierapport van de Salmonella bepaling in de matrix dons met behulp van de VIDAS SLM methode. PVE, september 2002.  
+Hartman, E.G., Validatierapport van de isolatie van Salmonella uit de matrix pluimvee faeces m.b.v. het Modified Semi-solid Rappaport Vassiliadis (MSRV)-medium, Gezondheidsdienst voor Dieren, projectnr 401919, september 1999. ISO 6579:1993(E). Microbiology. General guidance on methods for the detection of Salmonella . Productschappen Vee, Vlees en Eieren, Verzamelband Actieplan Salmonella en Campylobacter in de pluimveevleessector 2000<sup>+</sup> . Van der Zee, H. et al. Validatierapport van de Salmonella bepaling in de matrix dons met behulp van de VIDAS SLM methode. PVE, september 2002. 
 
 ####Pve Branchemethode voor de bepaling van de aan- of afwezigheid van thermotolerante campylobacter spp. in monsters pluimvee, pluimveeproducten en omgevingsmonsters
 
@@ -1445,41 +1445,41 @@ Hartman, E.G., Validatierapport van de isolatie van Salmonella uit de matrix plu
 
 ####Onderwerp en toepassingsgebied
 
-Dit protocol beschrijft een methode voor het aantonen van thermotolerante Campylobacter spp. (in dit protocol verder als Campylobacter aangeduid) in pluimvee, verse pluimveeproducten en omgevingsmonsters zoals mestmonsters en blindedarm mestmonsters.  
+Dit protocol beschrijft een methode voor het aantonen van thermotolerante Campylobacter spp. (in dit protocol verder als Campylobacter aangeduid) in pluimvee, verse pluimveeproducten en omgevingsmonsters zoals mestmonsters en blindedarm mestmonsters. 
 
 ### 2  
 
 ####Normatieve verwijzingen
 
-NEN-EN-ISO 6887-1:1999 , Microbiologie van voedingsmiddelen en diervoeders; Voorbereiding van het monster en bereiding van verdunningen door microbiologisch onderzoek; Deel 1: Algemene regels voor de bereiding van de primaire verdunning en verdere decimale verdunningen. NEN-EN-ISO 6887-2:2002, Microbiologie van voedingsmiddelen en diervoeders; Voorbereiding van monsters en bereiding van verdunningen voor microbiologisch onderzoek; Deel 2: Specifieke werkwijze voor vlees en vleesproducten. NEN-ISO 7218:1996, Microbiologie van voedingsmiddelen en diervoeders - Algemene regels voor microbiologische onderzoeken. NVN-ENV-ISO 11133-1:2000, Microbiologie van voedingsmiddelen en diervoeders; Richtlijnen voor de kwaliteitsborging en productie van kweekmedia; Deel 1: Algemene richtlijnen voor kwaliteitsborging van de voorbereiding van kweekmedia in het laboratorium  
+NEN-EN-ISO 6887-1:1999 , Microbiologie van voedingsmiddelen en diervoeders; Voorbereiding van het monster en bereiding van verdunningen door microbiologisch onderzoek; Deel 1: Algemene regels voor de bereiding van de primaire verdunning en verdere decimale verdunningen. NEN-EN-ISO 6887-2:2002, Microbiologie van voedingsmiddelen en diervoeders; Voorbereiding van monsters en bereiding van verdunningen voor microbiologisch onderzoek; Deel 2: Specifieke werkwijze voor vlees en vleesproducten. NEN-ISO 7218:1996, Microbiologie van voedingsmiddelen en diervoeders - Algemene regels voor microbiologische onderzoeken. NVN-ENV-ISO 11133-1:2000, Microbiologie van voedingsmiddelen en diervoeders; Richtlijnen voor de kwaliteitsborging en productie van kweekmedia; Deel 1: Algemene richtlijnen voor kwaliteitsborging van de voorbereiding van kweekmedia in het laboratorium 
 
 ### 3  
 
 ####Termen en definities
 
-Campylobacter : micro-organismen die de voor deze bacteriën karakteristieke groei vertonen en specifieke morfologische, biochemische en serologische reacties vertonen wanneer wordt gekweekt respectievelijk getest volgens de beschreven werkwijze.  
+Campylobacter : micro-organismen die de voor deze bacteriën karakteristieke groei vertonen en specifieke morfologische, biochemische en serologische reacties vertonen wanneer wordt gekweekt respectievelijk getest volgens de beschreven werkwijze. 
 
 ### 4  
 
 ####Beginsel
 
-Mestmonsters en blindedarm mestmonsters worden rechtstreeks geënt op een selectieve vaste voedingsbodem (mCCDA). Pluimveeproducten (bijvoorbeeld vel van de borstkap of filet) worden in porties van 25 gram gedurende 1 minuut gestomacherd met 100 ml selectief ophopingsmedium (Preston). Hierna wordt het monstermateriaal verwijderd en alleen het ophopingsmedium gedurende 24 uur bebroed bij 41,5°C. Vervolgens wordt afgeënt op een selectieve vaste voedingsbodem (mCCDA). Selectieve vaste voedingsbodems worden microaëroob gedurende 48 uur bij 41,5°C bebroed, waarna beoordeeld wordt op aanwezigheid van specifieke kolonies. Specifieke kolonies worden bevestigd met behulp van oxidase reactie en microscopie. Als extra controle wordt een deel van de isolaten biochemisch en/of serologisch bevestigd.  
+Mestmonsters en blindedarm mestmonsters worden rechtstreeks geënt op een selectieve vaste voedingsbodem (mCCDA). Pluimveeproducten (bijvoorbeeld vel van de borstkap of filet) worden in porties van 25 gram gedurende 1 minuut gestomacherd met 100 ml selectief ophopingsmedium (Preston). Hierna wordt het monstermateriaal verwijderd en alleen het ophopingsmedium gedurende 24 uur bebroed bij 41,5°C. Vervolgens wordt afgeënt op een selectieve vaste voedingsbodem (mCCDA). Selectieve vaste voedingsbodems worden microaëroob gedurende 48 uur bij 41,5°C bebroed, waarna beoordeeld wordt op aanwezigheid van specifieke kolonies. Specifieke kolonies worden bevestigd met behulp van oxidase reactie en microscopie. Als extra controle wordt een deel van de isolaten biochemisch en/of serologisch bevestigd. 
 
-### 5  
+### 5 
 
 ####Voedingsmedia en verdunningsvloeistoffen
 
-### 5.1  
+### 5.1 
 
 ####Algemeen
 
-Gebruik materialen die voldoende zuiver zijn. Gebruik gedestilleerd of op een andere wijze gedemineraliseerd water. Het water mag geen voor micro-organismen giftige bestanddelen bevatten. Voor een goede reproduceerbaarheid van de resultaten verdient het aanbeveling uit te gaan van in de handel verkrijgbare droge ingrediënten of geschikt bevonden droge voedingsmedia. De instructies van de fabrikant voor de bereiding moeten nauwgezet worden gevolgd. Gebruik voor de meting van de pH een pH-meter; referentietemperatuur 25°C. Indien het voedingsmedium niet direct wordt gebruikt, moet dit in het donker tussen 1°C en 5°C worden bewaard en onder omstandigheden waarbij geen veranderingen in de samenstelling optreden. Bewaar het voedingsmedium niet langer dan een maand, tenzij elders in dit protocol anders wordt aangegeven. Er mag ook gebruik worden gemaakt van media die kant-en-klaar commercieel verkrijgbaar zijn.  
+Gebruik materialen die voldoende zuiver zijn. Gebruik gedestilleerd of op een andere wijze gedemineraliseerd water. Het water mag geen voor micro-organismen giftige bestanddelen bevatten. Voor een goede reproduceerbaarheid van de resultaten verdient het aanbeveling uit te gaan van in de handel verkrijgbare droge ingrediënten of geschikt bevonden droge voedingsmedia. De instructies van de fabrikant voor de bereiding moeten nauwgezet worden gevolgd. Gebruik voor de meting van de pH een pH-meter; referentietemperatuur 25°C. Indien het voedingsmedium niet direct wordt gebruikt, moet dit in het donker tussen 1°C en 5°C worden bewaard en onder omstandigheden waarbij geen veranderingen in de samenstelling optreden. Bewaar het voedingsmedium niet langer dan een maand, tenzij elders in dit protocol anders wordt aangegeven. Er mag ook gebruik worden gemaakt van media die kant-en-klaar commercieel verkrijgbaar zijn. 
 
-### 5.2  
+### 5.2 
 
 ####Selectief ophopingsmedium: Preston bouillon (zónder paardenbloed)
 
-### 5.2.1  
+### 5.2.1 
 
 ####Preston basismedium
 
@@ -1487,25 +1487,25 @@ Samenstelling
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
-| Vleesextractpoeder  <sup> a   ook tezamen kant-en-klaar verkrijgbaar onder de naam Nutirënt Broth No. 2    </sup> | 10,0  | g  |
-| Pepton  <sup> a   ook tezamen kant-en-klaar verkrijgbaar onder de naam Nutirënt Broth No. 2    </sup> | 10,0  | g  |
-| Natrium chloride  <sup> a   ook tezamen kant-en-klaar verkrijgbaar onder de naam Nutirënt Broth No. 2    </sup> | 5,0  | g  |
-| Natrium pyruvaat  <sup> b   ook tezamen verkrijgbaar als supplement (zgn. "groeisupplement"of FBP supplement)    </sup> | 0,25  | g  |
-| Natrium metabisulfiet  <sup> b   ook tezamen verkrijgbaar als supplement (zgn. "groeisupplement"of FBP supplement)    </sup> | 0,25  | g  |
-| Ijzer (II) sulfaat  <sup> b   ook tezamen verkrijgbaar als supplement (zgn. "groeisupplement"of FBP supplement)    </sup> (FeSO4.7H2O)  | 0,25  | g  |
+| Vleesextractpoeder<sup>a ook tezamen kant-en-klaar verkrijgbaar onder de naam Nutirënt Broth No. 2 </sup>   | 10,0  | g  |
+| Pepton<sup>a ook tezamen kant-en-klaar verkrijgbaar onder de naam Nutirënt Broth No. 2 </sup>  | 10,0  | g  |
+| Natrium chloride<sup>a ook tezamen kant-en-klaar verkrijgbaar onder de naam Nutirënt Broth No. 2 </sup>   | 5,0  | g  |
+| Natrium pyruvaat<sup>b ook tezamen verkrijgbaar als supplement (zgn. "groeisupplement"of FBP supplement) </sup>   | 0,25  | g  |
+| Natrium metabisulfiet<sup>b ook tezamen verkrijgbaar als supplement (zgn. "groeisupplement"of FBP supplement) </sup>   | 0,25  | g  |
+| Ijzer (II) sulfaat<sup>b ook tezamen verkrijgbaar als supplement (zgn. "groeisupplement"of FBP supplement) </sup>   (FeSO4.7H2O)  | 0,25  | g  |
 | Water  | 1000  | ml  |
 
-### 5.2.1.2  
+### 5.2.1.2 
 
 ####Bereiding
 
-Los de ingrediënten op in het water (indien nodig d.m.v. verhitting). Stel de pH zo in dat deze na sterilisatie 7,5 ± 0,2 bedraagt bij 25ºC. Steriliseer gedurende 15 minuten bij (121 ± 1)ºC.  
+Los de ingrediënten op in het water (indien nodig d.m.v. verhitting). Stel de pH zo in dat deze na sterilisatie 7,5 ± 0,2 bedraagt bij 25ºC. Steriliseer gedurende 15 minuten bij (121 ± 1)ºC. 
 
-### 5.2.2  
+### 5.2.2 
 
 ####Preston antibiotica oplossing
 
-### 5.2.2.1  
+### 5.2.2.1 
 
 ####Samenstelling
 
@@ -1517,15 +1517,15 @@ Los de ingrediënten op in het water (indien nodig d.m.v. verhitting). Stel de p
 | Amphotericine-B  | 0,01  | g  |
 | Water  | 4  | ml  |
 
-OPMERKING Deze antibiotica zijn ook tezamen verkrijgbaar als Preston supplement. Let op, ook het “vroeger” gebruikte Preston supplement, met cycloheximide in plaats van amphotericine-B, is nog steeds verkrijgbaar. De voorkeur wordt echter gegeven aan gebruik van supplement met amphotericine-B.  
+OPMERKING Deze antibiotica zijn ook tezamen verkrijgbaar als Preston supplement. Let op, ook het “vroeger” gebruikte Preston supplement, met cycloheximide in plaats van amphotericine-B, is nog steeds verkrijgbaar. De voorkeur wordt echter gegeven aan gebruik van supplement met amphotericine-B. 
 
-### 5.2.2.2  
+### 5.2.2.2 
 
 ####Bereiding
 
-Los de antibiotica op in het water en steriliseer door middel van filtratie (0,22 μm filter)  
+Los de antibiotica op in het water en steriliseer door middel van filtratie (0,22 μm filter) 
 
-### 5.2.3  
+### 5.2.3 
 
 ####Compleet Preston ophopingsmedium
 
@@ -1536,29 +1536,29 @@ Samenstelling compleet Preston ophopingsmedium
 | Basismedium  | 1000  | ml  |
 | Antibiotica oplossing  | 4  | ml  |
 
-### 5.2.3.2  
+### 5.2.3.2 
 
 ####Bereiding compleet Preston ophopingsmedium
 
-Koel het basismedium af tot onder de 45ºC. Voeg op aseptische wijze de antibiotica oplossing toe en meng zorgvuldig. OPMERKING In de originele beschrijving van Preston ophopingsmedium (en in daarop volgende beschrijvingen in bijvoorbeeld ISO) wordt paardenbloed gebruikt. In dit NEN voorschrift wordt echter geen paardenbloed toegepast, omdat uit recent onderzoek is gebleken dat dat voor onderhavige monstermatrix niet noodzakelijk is (Jacobs- Reitsma et al ., 2003).  
+Koel het basismedium af tot onder de 45ºC. Voeg op aseptische wijze de antibiotica oplossing toe en meng zorgvuldig. OPMERKING In de originele beschrijving van Preston ophopingsmedium (en in daarop volgende beschrijvingen in bijvoorbeeld ISO) wordt paardenbloed gebruikt. In dit NEN voorschrift wordt echter geen paardenbloed toegepast, omdat uit recent onderzoek is gebleken dat dat voor onderhavige monstermatrix niet noodzakelijk is (Jacobs- Reitsma et al ., 2003). 
 
-### 5.3  
+### 5.3 
 
 ####Selectieve voedingsbodem: modified Charcoal Cefoperazone Deoxycholate Agar (mCCDA)
 
-### 5.3.1  
+### 5.3.1 
 
-####mCCDA Basismedium
+#### mCCDA Basismedium
 
-### 5.3.1.1  
+###5.3.1.1 
 
 ####Samenstelling
 
 | --- | --- | --- |
 |:---|:---|:---|
-| Vleesextractpoeder  <sup> a   ook tezamen kant-en-klaar verkrijgbaar onder de naam Nutirënt Broth No. 2    </sup> | 10,0  | g  |
-| Pepton  <sup> a   ook tezamen kant-en-klaar verkrijgbaar onder de naam Nutirënt Broth No. 2    </sup> | 10,0  | g  |
-| Natrium chloride  <sup> a   ook tezamen kant-en-klaar verkrijgbaar onder de naam Nutirënt Broth No. 2    </sup> | 5,0  | g  |
+| Vleesextractpoeder<sup>a ook tezamen kant-en-klaar verkrijgbaar onder de naam Nutirënt Broth No. 2 </sup>   | 10,0  | g  |
+| Pepton<sup>a ook tezamen kant-en-klaar verkrijgbaar onder de naam Nutirënt Broth No. 2 </sup>   | 10,0  | g  |
+| Natrium chloride<sup>a ook tezamen kant-en-klaar verkrijgbaar onder de naam Nutirënt Broth No. 2 </sup>   | 5,0  | g  |
 | Bacteriologische charcoal  | 4,0  | g  |
 | Caseïne hydrolysaat  | 3,0  | g  |
 | Natrium deoxycholaat  | 1,0  | g  |
@@ -1567,17 +1567,17 @@ Koel het basismedium af tot onder de 45ºC. Voeg op aseptische wijze de antibiot
 | Agar  | 12,0  | g  |
 | Water  | 1000  | ml  |
 
-### 5.3.1.2  
+### 5.3.1.2 
 
 ####Bereiding
 
-Los de ingrediënten op in het water (indien nodig d.m.v. verhitting). Stel de pH zo in dat deze na sterilisatie 7,4 ± 0,2 bedraagt bij 25ºC. Steriliseer gedurende 15 minuten bij (121 ± 1)ºC.  
+Los de ingrediënten op in het water (indien nodig d.m.v. verhitting). Stel de pH zo in dat deze na sterilisatie 7,4 ± 0,2 bedraagt bij 25ºC. Steriliseer gedurende 15 minuten bij (121 ± 1)ºC. 
 
-### 5.3.2  
+### 5.3.2 
 
 ####mCCDA antibiotica supplement
 
-### 5.3.2.1  
+###5.3.2.1 
 
 ####Samenstelling
 
@@ -1589,17 +1589,17 @@ Los de ingrediënten op in het water (indien nodig d.m.v. verhitting). Stel de p
 
 OPMERKING Deze antibiotica zijn ook tezamen verkrijgbaar als mCCDA supplement. 
 
-### 5.3.2.2  
+### 5.3.2.2 
 
 ####Bereiding
 
-Los de antibiotica op in het water en steriliseer door middel van filtratie (0,22 μm filter)  
+Los de antibiotica op in het water en steriliseer door middel van filtratie (0,22 μm filter) 
 
-### 5.3.3  
+### 5.3.3 
 
 ####Complete mCCDA voedingsbodem
 
-### 5.3.3.1  
+###5.3.3.1 
 
 ####Samenstelling
 
@@ -1608,17 +1608,17 @@ Los de antibiotica op in het water en steriliseer door middel van filtratie (0,2
 | Basismedium  | 1000  | ml  |
 | Antibiotica oplossing  | 4  | ml  |
 
-### 5.3.3.2  
+### 5.3.3.2 
 
 ####Bereiding
 
-Koel het basismedium af tot ongeveer 45ºC. Voeg op aseptische wijze de antibiotica oplossing toe en meng zorgvuldig. Giet de agar uit in petrischalen met nok en laat stollen.  
+Koel het basismedium af tot ongeveer 45ºC. Voeg op aseptische wijze de antibiotica oplossing toe en meng zorgvuldig. Giet de agar uit in petrischalen met nok en laat stollen. 
 
 ####5.4. Bevestigingsmedia
 
 ####5.4.1. Oxidase reagens
 
-### 5.4.1.1  
+###5.4.1.1 
 
 ####Samenstelling
 
@@ -1629,19 +1629,19 @@ Koel het basismedium af tot ongeveer 45ºC. Voeg op aseptische wijze de antibiot
 
 ####5.4.1.2. Bereiding
 
-Los het N,N,N’,N’-tetramethyl-1,4-fenyleendiammoniumdihloride op in het water. Bereid het reagens vlak voor uitvoering van de oxidasetest. Dit reagens is ook kant-en-klaar commercieel verkrijgbaar. Handel dan volgens de gebruiksaanwijzing van de fabrikant.  
+Los het N,N,N’,N’-tetramethyl-1,4-fenyleendiammoniumdihloride op in het water. Bereid het reagens vlak voor uitvoering van de oxidasetest. Dit reagens is ook kant-en-klaar commercieel verkrijgbaar. Handel dan volgens de gebruiksaanwijzing van de fabrikant. 
 
-### 5.4.2  
+### 5.4.2 
 
 ####Latexagglutinatietest voor bevestiging van Campylobacter
 
-Latexagglutinatietesten voor bevestiging van thermotolerante Campylobacter zijn commercieel verkrijgbaar. Enkele leveranciers staan vermeld in Bijlage A.  
+Latexagglutinatietesten voor bevestiging van thermotolerante Campylobacter zijn commercieel verkrijgbaar. Enkele leveranciers staan vermeld in Bijlage A. 
 
-### 5.4.3  
+### 5.4.3 
 
 ####Triple Sugar/Iron agar (TSI)
 
-### 5.4.3.1  
+###5.4.3.1 
 
 ####Samenstelling
 
@@ -1660,11 +1660,11 @@ Latexagglutinatietesten voor bevestiging van thermotolerante Campylobacter zijn 
 | Agar  | 12,0  | g  |
 | Water  | 1000  | ml  |
 
-### 5.4.3.2  
+### 5.4.3.2 
 
 ####Bereiding
 
-Los de ingrediënten op in het water (indien nodig d.m.v. verhitting). Stel de pH zo in dat deze na sterilisatie 7,4 ± 0,2 is. Verdeel het medium over geschikte reageerbuizen, 10 ml medium per buis. Steriliseer gedurende 15 minuten bij (121 ± 1)ºC. Laat de agar stollen, zodat er bovenop 2,5 cm agar onderin de buis, nog een schuin gedeelte ontstaat.  
+Los de ingrediënten op in het water (indien nodig d.m.v. verhitting). Stel de pH zo in dat deze na sterilisatie 7,4 ± 0,2 is. Verdeel het medium over geschikte reageerbuizen, 10 ml medium per buis. Steriliseer gedurende 15 minuten bij (121 ± 1)ºC. Laat de agar stollen, zodat er bovenop 2,5 cm agar onderin de buis, nog een schuin gedeelte ontstaat. 
 
 ### 6  
 
@@ -1678,13 +1678,13 @@ Gebruikelijke toestellen en steriel glaswerk voor microbiologische laboratoria (
 
 6.3 Geschikte apparatuur en hulpmiddelen om te bebroeden in een micro-aërobe atmosfeer (ca. 6% zuurstof, 10% kooldioxide en 84% stikstof). Voor het verkrijgen van micro-aëroob milieu kan gebruik gemaakt worden van commerciële systemen (‘gas-zakjes’).  
 
-6.4 Microscoop, bij voorkeur met fase-contrast, vergroting 1000x.   OPMERKING Gesteriliseerde materialen voor éénmalig gebruik mogen worden toegepast.  
+6.4 Microscoop, bij voorkeur met fase-contrast, vergroting 1000x.   OPMERKING Gesteriliseerde materialen voor éénmalig gebruik mogen worden toegepast. 
 
 ### 7  
 
 ####Monstername
 
-Monstername is geen onderdeel van de methode zoals beschreven in deze norm. PVE heeft de procedure voor de monstername in een apart besluit vastgelegd. Bederfelijke pluimveeproducten zoals borstvellen en filet dienen gekoeld (1-4°) te worden aangeleverd. Zie voor de acceptatie criteria voor monstermateriaal bijlage IX. Indien bij het aanleveren van de monsters afwijkingen worden geconstateerd in de wijze waarop de monsters aangeleverd moeten worden, dan dient het laboratorium hierover schriftelijk een opmerking te maken richting opdrachtgever. Campylobacter is zeer gevoelig voor invriezen en daarom is het invriezen van monsters niet toegestaan. Monsters dienen binnen 48 uur na monstername te worden ingezet.  
+Monstername is geen onderdeel van de methode zoals beschreven in deze norm. PVE heeft de procedure voor de monstername in een apart besluit vastgelegd. Bederfelijke pluimveeproducten zoals borstvellen en filet dienen gekoeld (1-4°) te worden aangeleverd. Zie voor de acceptatie criteria voor monstermateriaal bijlage IX. Indien bij het aanleveren van de monsters afwijkingen worden geconstateerd in de wijze waarop de monsters aangeleverd moeten worden, dan dient het laboratorium hierover schriftelijk een opmerking te maken richting opdrachtgever. Campylobacter is zeer gevoelig voor invriezen en daarom is het invriezen van monsters niet toegestaan. Monsters dienen binnen 48 uur na monstername te worden ingezet. 
 
 ### 8  
 
@@ -1692,35 +1692,35 @@ Monstername is geen onderdeel van de methode zoals beschreven in deze norm. PVE 
 
 ####8.1. Algemeen
 
-In alle gevallen geldt dat de agarplaten na beënten zonder uitstel onder micro-aërobe condities geïncubeerd dienen te worden, omdat Campylobacter obligaat micro-aërofiel is en onder andere omgevingscondities snel afsterft.  
+In alle gevallen geldt dat de agarplaten na beënten zonder uitstel onder micro-aërobe condities geïncubeerd dienen te worden, omdat Campylobacter obligaat micro-aërofiel is en onder andere omgevingscondities snel afsterft. 
 
 ####8.2. Direct uitplaten
 
 ####8.2.1. Monstervoorbehandeling
 
-Monsters waarin hoge aantallen Campylobacter worden verwacht, zoals mest en blindedarm, worden rechtstreeks op het isolatiemedium afgestreken. Maak 1 mengmonster van de 30 afzonderlijke blindedarmen door deze elk op steriele wijze open te knippen en uit elke darm een evenredige hoeveelheid materiaal over te brengen in een lege steriele petrischaal. Meng goed (bijvoorbeeld met een steriele swab of entoog).  
+Monsters waarin hoge aantallen Campylobacter worden verwacht, zoals mest en blindedarm, worden rechtstreeks op het isolatiemedium afgestreken. Maak 1 mengmonster van de 30 afzonderlijke blindedarmen door deze elk op steriele wijze open te knippen en uit elke darm een evenredige hoeveelheid materiaal over te brengen in een lege steriele petrischaal. Meng goed (bijvoorbeeld met een steriele swab of entoog). 
 
 ####8.2.2. Isolatie
 
-Beënt vanuit het mengmonster met behulp van de swab of entoog een halve mCCDA-plaat. Beënt de rest van de plaat middels verdunningsstrepen met behulp van een steriele öse, zodanig dat na incubatie losliggende kolonies kunnen ontstaan. Incubeer mCCDA platen micro-aëroob gedurende 48 (± 4) uur bij 41,5 (± 1)°C.  
+Beënt vanuit het mengmonster met behulp van de swab of entoog een halve mCCDA-plaat. Beënt de rest van de plaat middels verdunningsstrepen met behulp van een steriele öse, zodanig dat na incubatie losliggende kolonies kunnen ontstaan. Incubeer mCCDA platen micro-aëroob gedurende 48 (± 4) uur bij 41,5 (± 1)°C. 
 
 ####8.3. Ophoping
 
 ####8.3.1. Monstervoorbehandeling
 
-Breng 25 gram ± 1 gram van het monster, bijvoorbeeld een stuk huid van de borstkap of filet, in een stomacherzak en voeg 100 ml Preston bouillon toe. Stomacher gedurende 1 minuut en scheidt het monstermateriaal van de ophopingsbouillon (bijvoorbeeld door het verwijderen van de binnenzak van de stomacherzak met daarin het monstermateriaal of door overschenken van de ophopingsvloeistof in een schoon steriel flesje).  
+Breng 25 gram ± 1 gram van het monster, bijvoorbeeld een stuk huid van de borstkap of filet, in een stomacherzak en voeg 100 ml Preston bouillon toe. Stomacher gedurende 1 minuut en scheidt het monstermateriaal van de ophopingsbouillon (bijvoorbeeld door het verwijderen van de binnenzak van de stomacherzak met daarin het monstermateriaal of door overschenken van de ophopingsvloeistof in een schoon steriel flesje). 
 
 ####8.3.2. Ophoping
 
-Incubeer de ophopingsbouillon (24 ± 2) uur bij (41,5 ± 1)°C in micro-aëroob milieu. Indien geïncubeerd wordt in flesjes of (stomacher)-zakken met weinig kopruimte (d.w.z. = 2 cm), kan zonder eisen aan het milieu geïncubeerd worden.  
+Incubeer de ophopingsbouillon (24 ± 2) uur bij (41,5 ± 1)°C in micro-aëroob milieu. Indien geïncubeerd wordt in flesjes of (stomacher)-zakken met weinig kopruimte (d.w.z. = 2 cm), kan zonder eisen aan het milieu geïncubeerd worden. 
 
 ####8.3.3. Isolatie
 
-Ent met behulp van een entoog (10 μl) de Preston-cultuur na incubatie uit op een mCCDA-plaat. Incubeer mCCDA platen micro-aëroob gedurende (48 ± 4) uur bij (41,5 ± 1)°C.  
+Ent met behulp van een entoog (10 μl) de Preston-cultuur na incubatie uit op een mCCDA-plaat. Incubeer mCCDA platen micro-aëroob gedurende (48 ± 4) uur bij (41,5 ± 1)°C. 
 
 ####8.4. Beoordeling kolonies op mCCDA
 
-Beoordeel bebroede mCCDA-platen op de aanwezigheid van kolonies met de volgende morfologische eigenschappen: grijs, metalig, laag convex, amorf en de neiging om met de entstreep mee te groeien. Deze kolonies worden als ‘verdacht positief’ aangemerkt.  
+Beoordeel bebroede mCCDA-platen op de aanwezigheid van kolonies met de volgende morfologische eigenschappen: grijs, metalig, laag convex, amorf en de neiging om met de entstreep mee te groeien. Deze kolonies worden als ‘verdacht positief’ aangemerkt. 
 
 ### 9  
 
@@ -1728,15 +1728,15 @@ Beoordeel bebroede mCCDA-platen op de aanwezigheid van kolonies met de volgende 
 
 ####9.1. Algemeen
 
-Voor de bevestiging uit met minimaal 1 tot maximaal 3 verdachte kolonies per plaat in geval van reincultuur en tot 5 verdachte kolonies (indien aanwezig) in geval van mengcultuur, totdat een positief resultaat wordt verkregen. Ter bevestiging wordt een oxidase reactie uitgevoerd en worden de verdachte kolonies microscopisch beoordeeld.  
+Voor de bevestiging uit met minimaal 1 tot maximaal 3 verdachte kolonies per plaat in geval van reincultuur en tot 5 verdachte kolonies (indien aanwezig) in geval van mengcultuur, totdat een positief resultaat wordt verkregen. Ter bevestiging wordt een oxidase reactie uitgevoerd en worden de verdachte kolonies microscopisch beoordeeld. 
 
 ####9.2. Oxidase reactie
 
-Ent met een entoog (anders dan van nikkel/chroom) vanaf de mCCDA plaat een verdachte kolonie op een filtreerpapiertje bevochtigd met oxidasereagens. Lees na maximaal 10 seconden de reactie af. De reactie is positief bij paarskleuring en negatief indien er geen verkleuring optreedt.  
+Ent met een entoog (anders dan van nikkel/chroom) vanaf de mCCDA plaat een verdachte kolonie op een filtreerpapiertje bevochtigd met oxidasereagens. Lees na maximaal 10 seconden de reactie af. De reactie is positief bij paarskleuring en negatief indien er geen verkleuring optreedt. 
 
 ####9.3. Microscopie
 
-Maak van de verdachte kolonie een hangende-druppel-preparaat of nat-preparaat en beoordeel met een fasecontrast of donkerveld microscoop (100x objectief) op de karakteristieke kurketrekker-vormige morfologie en grote beweeglijkheid van Campylobacter . Bij kleuringvolgens Gram tonen Campylobacter bacteriën zich als kurketrekker-vormig gebogen Gram- negatieve staafjes. De karakteristieke vorm is ook goed te zien bij kleuring met Oost-Indische inkt. Bij oude culturen (> 2 dagen op plaat) kan Campylobacter coccoïde en minder beweeglijke vormen aannemen.  
+Maak van de verdachte kolonie een hangende-druppel-preparaat of nat-preparaat en beoordeel met een fasecontrast of donkerveld microscoop (100x objectief) op de karakteristieke kurketrekker-vormige morfologie en grote beweeglijkheid van Campylobacter . Bij kleuringvolgens Gram tonen Campylobacter bacteriën zich als kurketrekker-vormig gebogen Gram- negatieve staafjes. De karakteristieke vorm is ook goed te zien bij kleuring met Oost-Indische inkt. Bij oude culturen (> 2 dagen op plaat) kan Campylobacter coccoïde en minder beweeglijke vormen aannemen. 
 
 ####9.4. Aanvullende bevestiging
 
@@ -1744,11 +1744,11 @@ Bij twijfel of als extra controle op de juiste identificatie wordt aanbevolen om
 
 ####9.4.1. Latexagglutinatietest
 
-Latexagglutinatietesten zijn bij diverse firma’s commercieel verkrijgbaar (zie Bijlage A) en moeten volgens de gebruiksaanwijzing van de fabrikant worden ingezet en afgelezen.  
+Latexagglutinatietesten zijn bij diverse firma’s commercieel verkrijgbaar (zie Bijlage A) en moeten volgens de gebruiksaanwijzing van de fabrikant worden ingezet en afgelezen. 
 
 ####9.4.2. TSI buis
 
-Beënt een TSI buis middels ladderen van het schuin gestolde deel en middels steek-enten in de agar. Incubeer deze buis (24 ± 2) uur bij (41,5 ± 1)°C in micro-aëroob milieu. Beoordeel de reacties als weergegeven in tabel 1.  
+Beënt een TSI buis middels ladderen van het schuin gestolde deel en middels steek-enten in de agar. Incubeer deze buis (24 ± 2) uur bij (41,5 ± 1)°C in micro-aëroob milieu. Beoordeel de reacties als weergegeven in tabel 1. 
 
 ####9.5. Interpretatie bevestigingsreacties
 
@@ -1769,13 +1769,13 @@ Campylobacter bacteriën vertonen de karakteristieken zoals omschreven in tabel 
 
 ####Opgave van het resultaat
 
-Geef het resultaat op als ‘aan- of afwezigheid van Campylobacter in het betreffende monstermateriaal’ als Campylobacter al dan niet is aangetoond volgens 8 (werkwijze).  
+Geef het resultaat op als ‘aan- of afwezigheid van Campylobacter in het betreffende monstermateriaal’ als Campylobacter al dan niet is aangetoond volgens 8 (werkwijze). 
 
 ### 11  
 
 ####Precisie
 
-Prestatiekenmerken zijn vooralsnog niet voorhanden.  
+Prestatiekenmerken zijn vooralsnog niet voorhanden. 
 
 ### 12  
 
@@ -1791,17 +1791,17 @@ de gevolgde methode van monsterneming, indien bekend;
 
 het resultaat volgens hoofdstuk 8;  
 
-eventuele bijzonderheden die tijdens de bepaling zijn waargenomen die het resultaat kunnen hebben beïnvloed.    
+eventuele bijzonderheden die tijdens de bepaling zijn waargenomen die het resultaat kunnen hebben beïnvloed.   
 
 ### 13  
 
 ####Bronvermelding
 
-NEN-EN ISO 10272.:1995 Microbiology of food and animal feeding stuffs - Horizontal method for the detection of thermotolerant Campylobacter + technical corrigenda (ISO10272:1995/Cor.1:1996(E) and ISO 10272:1995/Cor:1997(E). Jacobs-Reitsma, W.F. (1994). Epidemiology of Campylobacter in Poultry. Thesis Agricultural University Wageningen, The Netherlands. Jacobs-Reitsma W., M. van der Wal, R. Achterberg and J. Wagenaar. Comparative studies on Campylobacter isolation methods from fresh poultry products. Posterpresentation at the 12th International Workshop on Campylobacter, Helicobacter and Related Organisms, september 2003, Aarhus, Denmark. PVE Branchemethode (MSRV) voor het aantonen van Salmonella in dons, faeces, vellen en eindproduct afkomstig van pluimvee (inclusief 5 bijlagen), d.d. 20-07-01 Vb. Bo. nr. 31.  
+NEN-EN ISO 10272.:1995 Microbiology of food and animal feeding stuffs - Horizontal method for the detection of thermotolerant Campylobacter + technical corrigenda (ISO10272:1995/Cor.1:1996(E) and ISO 10272:1995/Cor:1997(E). Jacobs-Reitsma, W.F. (1994). Epidemiology of Campylobacter in Poultry. Thesis Agricultural University Wageningen, The Netherlands. Jacobs-Reitsma W., M. van der Wal, R. Achterberg and J. Wagenaar. Comparative studies on Campylobacter isolation methods from fresh poultry products. Posterpresentation at the 12th International Workshop on Campylobacter, Helicobacter and Related Organisms, september 2003, Aarhus, Denmark. PVE Branchemethode (MSRV) voor het aantonen van Salmonella in dons, faeces, vellen en eindproduct afkomstig van pluimvee (inclusief 5 bijlagen), d.d. 20-07-01 Vb. Bo. nr. 31. 
 
-### Bijlage  A  
+###Bijlage A 
 
-Beschikbare latex agglutinatie testen voor bevestiging van thermotolerante Campylobacter zijn onder andere: DryspotCampylobacterTest , Oxoid DR 150M Oxoid ltd., Basingstoke Hampshire, England  
+Beschikbare latex agglutinatie testen voor bevestiging van thermotolerante Campylobacter zijn onder andere:DryspotCampylobacterTest , Oxoid DR 150MOxoid ltd., Basingstoke Hampshire, England 
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -1811,7 +1811,7 @@ Beschikbare latex agglutinatie testen voor bevestiging van thermotolerante Campy
 | --- | Tel:  | 023 5319173  |
 | --- | Fax:  | 023 5310543  |
 
-INDX® - Campy (jcl)™ 50 test kit Catalog # 2200-01-50 (voorheen Meritec™-Campy (jcl), #203050, Meridian Diagnostics) Integrated Diagnostics, Inc. Baltimore, MD 21227 USA  
+INDX® - Campy (jcl)™ 50 test kit Catalog # 2200-01-50(voorheen Meritec™-Campy (jcl), #203050, Meridian Diagnostics)Integrated Diagnostics, Inc.Baltimore, MD 21227 USA 
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -1821,7 +1821,7 @@ INDX® - Campy (jcl)™ 50 test kit Catalog # 2200-01-50 (voorheen Meritec™-Ca
 | --- | Tel:  | 0297 286848  |
 | --- | Fax:  | 0297 287570  |
 
-Microscreen ®Campylobacter , M46 Microgen Bioproducts Ltd. (voorheen Mercia Diagnostics) 1, Admiralty Way, Camberley, Surrey GU15 3DT, UK  
+Microscreen ®Campylobacter , M46Microgen Bioproducts Ltd. (voorheen Mercia Diagnostics)1, Admiralty Way, Camberley, Surrey GU15 3DT, UK 
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -1831,17 +1831,17 @@ Microscreen ®Campylobacter , M46 Microgen Bioproducts Ltd. (voorheen Mercia Dia
 | --- | Tel:  | 0485 511675  |
 | --- | Fax:  | 0485 512052  |
 
-### Bijlage  B  
+###Bijlage B 
 
-Voor de eerstelijnscontrole van de methode dienen te worden meegenomen: 
+Voor de eerstelijnscontrole van de methode dienen te worden meegenomen:
 
 ####- Blanco controle
 
-Indien op het laboratorium monsters eindproduct worden opgehoopt in Preston bouillon, dan wordt een ongeënte Preston-buis (of -zakje) gebruikt als blanco controle. Deze controle buis wordt afgeënt op een mCCDA-plaat. Na incubatie volgens de beschreven procedure mag er geen groei zijn op de mCCDA-plaat. Indien een hoeveelheid (blindedarm)mest direct met behulp van een swab wordt geënt op een mCCDA-plaat, dan wordt een onbeënte mCCDA-plaat gebruikt als blanco controle. Na incubatie volgens de beschreven procedure mag er geen groei zijn op deze mCCDA-plaat.  
+Indien op het laboratorium monsters eindproduct worden opgehoopt in Preston bouillon, dan wordt een ongeënte Preston-buis (of -zakje) gebruikt als blanco controle. Deze controle buis wordt afgeënt op een mCCDA-plaat. Na incubatie volgens de beschreven procedure mag er geen groei zijn op de mCCDA-plaat. Indien een hoeveelheid (blindedarm)mest direct met behulp van een swab wordt geënt op een mCCDA-plaat, dan wordt een onbeënte mCCDA-plaat gebruikt als blanco controle. Na incubatie volgens de beschreven procedure mag er geen groei zijn op deze mCCDA-plaat. 
 
 ####- Positieve controle
 
-Hiervoor wordt gebruik gemaakt van een referentiestam van *C. jejuni*. (bijvoorbeeld ATCC 29428). Indien op het laboratorium monsters eindproduct worden ingezet, dan wordt een Preston-buis (of -zakje) aangeënt met de referentiestam en gebruikt als positieve controle. Deze positieve controle buis wordt afgeënt op een mCCDA-plaat. Na incubatie volgens de beschreven procedure moet op de mCCDA-plaat groei te zien zijn met de typische morfologische kenmerken. Indien op het laboratorium monsters (blindedarm)mest worden ingezet, dan wordt een mCCDA- plaat aangeënt met de referentiestam en gebruikt als positieve controle. Na incubatie volgens de beschreven procedure moet op de mCCDA-plaat groei te zien zijn met de typische morfologische kenmerken. Tevens kan deze referentiestam gebruikt worden als positieve controle bij de uitvoering van de oxidase test, de microscopie en eventueel de agglutinatie test en/of TSI-buis. Voor de ingangscontrole van een batch dienen te worden meegenomen: Positieve controle zie boven Negatieve controle Hiervoor wordt gebruik gemaakt van een referentiestam van E. coli (bijvoorbeeld ATCC 25922). Deze controlestam mag op een mCCDA-plaat geen ‘verdachte’ kolonies te zien geven. Indien geen ingangscontrole wordt uitgevoerd, maar alleen eerstelijnscontrole, dan moet bij deze eerstelijnscontrole altijd een blanco, een positieve én een negatieve controle meegenomen worden. Alleen indien de controles een juiste uitslag geven mag de uitslag van de monsters afgegeven worden.  
+Hiervoor wordt gebruik gemaakt van een referentiestam van *C. jejuni* . (bijvoorbeeld ATCC 29428). Indien op het laboratorium monsters eindproduct worden ingezet, dan wordt een Preston-buis (of -zakje) aangeënt met de referentiestam en gebruikt als positieve controle. Deze positieve controle buis wordt afgeënt op een mCCDA-plaat. Na incubatie volgens de beschreven procedure moet op de mCCDA-plaat groei te zien zijn met de typische morfologische kenmerken. Indien op het laboratorium monsters (blindedarm)mest worden ingezet, dan wordt een mCCDA- plaat aangeënt met de referentiestam en gebruikt als positieve controle. Na incubatie volgens de beschreven procedure moet op de mCCDA-plaat groei te zien zijn met de typische morfologische kenmerken.Tevens kan deze referentiestam gebruikt worden als positieve controle bij de uitvoering van de oxidase test, de microscopie en eventueel de agglutinatie test en/of TSI-buis.Voor de ingangscontrole van een batch dienen te worden meegenomen:Positieve controlezie bovenNegatieve controle Hiervoor wordt gebruik gemaakt van een referentiestam van E. coli (bijvoorbeeld ATCC 25922). Deze controlestam mag op een mCCDA-plaat geen ‘verdachte’ kolonies te zien geven. Indien geen ingangscontrole wordt uitgevoerd, maar alleen eerstelijnscontrole, dan moet bij deze eerstelijnscontrole altijd een blanco, een positieve én een negatieve controle meegenomen worden. Alleen indien de controles een juiste uitslag geven mag de uitslag van de monsters afgegeven worden. 
 
 ####Alternatieve PVE Branchemethode voor het aantonen van thermotolerante Campylobacter spp. met behulp van de VIDAS CAMtest in pluimveeproducten Versie mei 2004
 
@@ -1849,69 +1849,69 @@ Hiervoor wordt gebruik gemaakt van een referentiestam van *C. jejuni*. (bijvoorb
 
 ####Onderwerp en toepassingsgebied
 
-Dit protocol beschrijft een methode voor het aantonen van thermotolerante Campylobacter spp. (in dit protocol verder als Campylobacter aangeduid) in verse pluimveeproducten. De methode is gevalideerd ten opzichte van de door de branche opgestelde en door de Raad voor Accreditatie goedgekeurde analyse methode.  
+Dit protocol beschrijft een methode voor het aantonen van thermotolerante Campylobacter spp. (in dit protocol verder als Campylobacter aangeduid) in verse pluimveeproducten. De methode is gevalideerd ten opzichte van de door de branche opgestelde en door de Raad voor Accreditatie goedgekeurde analyse methode. 
 
 ### 2  
 
 ####Normatieve verwijzingen
 
-NEN-EN-ISO 6887-1:1999 , Microbiologie van voedingsmiddelen en diervoeders; Voorbereiding van het monster en bereiding van verdunningen door microbiologisch onderzoek; Deel 1: Algemene regels voor de bereiding van de primaire verdunning en verdere decimale verdunningen. NEN-EN-ISO 6887-2:2002, Microbiologie van voedingsmiddelen en diervoeders; Voorbereiding van monsters en bereiding van verdunningen voor microbiologisch onderzoek; Deel 2: Specifieke werkwijze voor vlees en vleesproducten. NEN-ISO 7218:1996, Microbiologie van voedingsmiddelen en diervoeders - Algemene regels voor microbiologische onderzoeken. NVN-ENV-ISO 11133-1:2000, Microbiologie van voedingsmiddelen en diervoeders; Richtlijnen voor de kwaliteitsborging en productie van kweekmedia; Deel 1: Algemene richtlijnen voor kwaliteitsborging van de voorbereiding van kweekmedia in het laboratorium  
+NEN-EN-ISO 6887-1:1999 , Microbiologie van voedingsmiddelen en diervoeders; Voorbereiding van het monster en bereiding van verdunningen door microbiologisch onderzoek; Deel 1: Algemene regels voor de bereiding van de primaire verdunning en verdere decimale verdunningen. NEN-EN-ISO 6887-2:2002, Microbiologie van voedingsmiddelen en diervoeders; Voorbereiding van monsters en bereiding van verdunningen voor microbiologisch onderzoek; Deel 2: Specifieke werkwijze voor vlees en vleesproducten. NEN-ISO 7218:1996, Microbiologie van voedingsmiddelen en diervoeders - Algemene regels voor microbiologische onderzoeken. NVN-ENV-ISO 11133-1:2000, Microbiologie van voedingsmiddelen en diervoeders; Richtlijnen voor de kwaliteitsborging en productie van kweekmedia; Deel 1: Algemene richtlijnen voor kwaliteitsborging van de voorbereiding van kweekmedia in het laboratorium 
 
 ### 3  
 
 ####Termen en definities
 
-Campylobacter : Campylobacter spp., dat wil zeggen alle typen Campylobacter waarvan de specifieke antigenen met behulp van de Enzyme Linked Fluorescent Assay (ELFA) techniek worden aangetoond, wanneer wordt getest volgens de beschreven werkwijze. Door de selectieve ophoping te incuberen bij 41,5 ± 1º C wordt geselecteerd op alleen de thermotolerante Campylobacter species. Detectie van Campylobacter : bepalen van de aan- of afwezigheid van deze micro- organismen als het onderzoek wordt uitgevoerd volgens de beschreven werkwijze.  
+Campylobacter : Campylobacter spp., dat wil zeggen alle typen Campylobacter waarvan de specifieke antigenen met behulp van de Enzyme Linked Fluorescent Assay (ELFA) techniek worden aangetoond, wanneer wordt getest volgens de beschreven werkwijze. Door de selectieve ophoping te incuberen bij 41,5 ± 1º C wordt geselecteerd op alleen de thermotolerante Campylobacter species. Detectie van Campylobacter : bepalen van de aan- of afwezigheid van deze micro- organismen als het onderzoek wordt uitgevoerd volgens de beschreven werkwijze. 
 
 ### 4  
 
 ####Beginsel
 
-VIDAS CAM is een enzym immunoassay voor de detectie van Campylobacter antigenen, waarbij gebruik wordt gemaakt van de ELFA methode en die geautomatiseerd wordt uitgevoerd op het VIDAS analyse apparaat. Pluimveeproducten (bijvoorbeeld vel van de borstkap of filet) worden in porties van 25 gram gedurende 1 minuut gestomacherd met 100 ml selectief ophopingsmedium (Preston). Hierna wordt het monstermateriaal verwijderd en alleen het ophopingsmedium gedurende 48 uur bebroed bij 41,5°C. Vervolgens wordt de VIDAS CAM assay uitgevoerd. Het test resultaat van deze aantoningsstap is na ca. 70 minuten beschikbaar. Verdere bevestiging van positieve uitslagen is niet noodzakelijk.  
+VIDAS CAM is een enzym immunoassay voor de detectie van Campylobacter antigenen, waarbij gebruik wordt gemaakt van de ELFA methode en die geautomatiseerd wordt uitgevoerd op het VIDAS analyse apparaat. Pluimveeproducten (bijvoorbeeld vel van de borstkap of filet) worden in porties van 25 gram gedurende 1 minuut gestomacherd met 100 ml selectief ophopingsmedium (Preston). Hierna wordt het monstermateriaal verwijderd en alleen het ophopingsmedium gedurende 48 uur bebroed bij 41,5°C. Vervolgens wordt de VIDAS CAM assay uitgevoerd. Het test resultaat van deze aantoningsstap is na ca. 70 minuten beschikbaar. Verdere bevestiging van positieve uitslagen is niet noodzakelijk. 
 
 ### 5  
 
 ####Voedingsmedia
 
-### 5.1  
+### 5.1 
 
 ####Algemeen
 
-Gebruik materialen die voldoende zuiver zijn. Gebruik gedestilleerd of op een andere wijze gedemineraliseerd water. Het water mag geen voor micro-organismen giftige bestanddelen bevatten. Voor een goede reproduceerbaarheid van de resultaten verdient het aanbeveling uit te gaan van in de handel verkrijgbare droge ingrediënten of geschikt bevonden droge voedingsmedia. De instructies van de fabrikant voor de bereiding moeten nauwgezet worden gevolgd. Gebruik voor de meting van de pH een pH-meter; referentietemperatuur 25°C. Indien het voedingsmedium niet direct wordt gebruikt, moet dit in het donker tussen 1°C en 5°C worden bewaard en onder omstandigheden waarbij geen veranderingen in de samenstelling optreden. Bewaar het voedingsmedium niet langer dan een maand, tenzij elders in dit protocol anders wordt aangegeven. Er mag ook gebruik worden gemaakt van media die kant-en-klaar commerciëel verkrijgbaar zijn.  
+Gebruik materialen die voldoende zuiver zijn. Gebruik gedestilleerd of op een andere wijze gedemineraliseerd water. Het water mag geen voor micro-organismen giftige bestanddelen bevatten. Voor een goede reproduceerbaarheid van de resultaten verdient het aanbeveling uit te gaan van in de handel verkrijgbare droge ingrediënten of geschikt bevonden droge voedingsmedia. De instructies van de fabrikant voor de bereiding moeten nauwgezet worden gevolgd. Gebruik voor de meting van de pH een pH-meter; referentietemperatuur 25°C. Indien het voedingsmedium niet direct wordt gebruikt, moet dit in het donker tussen 1°C en 5°C worden bewaard en onder omstandigheden waarbij geen veranderingen in de samenstelling optreden. Bewaar het voedingsmedium niet langer dan een maand, tenzij elders in dit protocol anders wordt aangegeven. Er mag ook gebruik worden gemaakt van media die kant-en-klaar commerciëel verkrijgbaar zijn. 
 
-### 5.2  
+### 5.2 
 
 ####Selectief ophopingsmedium: Preston bouillon (zónder paardenbloed)
 
-### 5.2.1  
+### 5.2.1 
 
 ####Preston basismedium
 
-### 5.2.1.1  
+###5.2.1.1 
 
 ####Samenstelling
 
 | --- | --- | --- |
 |:---|:---|:---|
-| Vleesextractpoeder  <sup> a   ook tezamen kant-en-klaar verkrijgbaar onder de naam Nutirënt Broth No. 2    </sup> | 10,0  | g  |
-| Pepton  <sup> a   ook tezamen kant-en-klaar verkrijgbaar onder de naam Nutirënt Broth No. 2    </sup> | 10,0  | g  |
-| Natrium chloride  <sup> a   ook tezamen kant-en-klaar verkrijgbaar onder de naam Nutirënt Broth No. 2    </sup> | 5,0  | g  |
-| Natrium pyruvaat  <sup> b   ook tezamen verkrijgbaar als supplement (zgn. "groeisupplement" of FBP supplement)    </sup> | 0,25  | g  |
-| Natrium metabisulfiet  <sup> b   ook tezamen verkrijgbaar als supplement (zgn. "groeisupplement" of FBP supplement)    </sup> | 0,25  | g  |
-| Ijzer (II) sulfaat (FeSO4.7H2O)  <sup> b   ook tezamen verkrijgbaar als supplement (zgn. "groeisupplement" of FBP supplement)    </sup> | 0,25  | g  |
+| Vleesextractpoeder<sup>a ook tezamen kant-en-klaar verkrijgbaar onder de naam Nutirënt Broth No. 2 </sup>   | 10,0  | g  |
+| Pepton<sup>a ook tezamen kant-en-klaar verkrijgbaar onder de naam Nutirënt Broth No. 2 </sup>   | 10,0  | g  |
+| Natrium chloride<sup>a ook tezamen kant-en-klaar verkrijgbaar onder de naam Nutirënt Broth No. 2 </sup>   | 5,0  | g  |
+| Natrium pyruvaat<sup>b ook tezamen verkrijgbaar als supplement (zgn. "groeisupplement" of FBP supplement) </sup>   | 0,25  | g  |
+| Natrium metabisulfiet<sup>b ook tezamen verkrijgbaar als supplement (zgn. "groeisupplement" of FBP supplement) </sup>   | 0,25  | g  |
+| Ijzer (II) sulfaat<sup>b ook tezamen verkrijgbaar als supplement (zgn. "groeisupplement" of FBP supplement) </sup> (FeSO4.7H2O)  | 0,25  | g  |
 | Water  | 1000  | ml  |
 
-### 5.2.1.2  
+### 5.2.1.2 
 
 ####Bereiding
 
-Los de ingrediënten op in het water (indien nodig d.m.v. verhitting). Stel de pH zo in dat deze na sterilisatie 7,5 ± 0,2 bedraagt bij 25ºC. Steriliseer gedurende 15 minuten bij (121 ± 1)ºC.  
+Los de ingrediënten op in het water (indien nodig d.m.v. verhitting). Stel de pH zo in dat deze na sterilisatie 7,5 ± 0,2 bedraagt bij 25ºC. Steriliseer gedurende 15 minuten bij (121 ± 1)ºC. 
 
-### 5.2.2  
+### 5.2.2 
 
 ####Preston antibiotica oplossing
 
-### 5.2.2.1  
+###5.2.2.1 
 
 ####Samenstelling
 
@@ -1925,17 +1925,17 @@ Los de ingrediënten op in het water (indien nodig d.m.v. verhitting). Stel de p
 
 OPMERKING Deze antibiotica zijn ook tezamen verkrijgbaar als Preston supplement. Let op, ook het “vroeger” gebruikte Preston supplement, met cycloheximide in plaats van amphotericine-B, is nog steeds verkrijgbaar. De voorkeur wordt echter gegeven aan gebruik van supplement met amphotericine-B. 
 
-### 5.2.2.2  
+### 5.2.2.2 
 
 ####Bereiding
 
-Los de antibiotica op in het water en steriliseer door middel van filtratie (0,22 μm filter).  
+Los de antibiotica op in het water en steriliseer door middel van filtratie (0,22 μm filter). 
 
-### 5.2.3  
+### 5.2.3 
 
 ####Compleet Preston ophopingsmedium
 
-### 5.2.3.1  
+###5.2.3.1 
 
 ####Samenstelling compleet Preston ophopingsmedium
 
@@ -1944,11 +1944,11 @@ Los de antibiotica op in het water en steriliseer door middel van filtratie (0,2
 | Basismedium  | 1000  | ml  |
 | Antibiotica oplossing  | 4  | ml  |
 
-### 5.2.3.2  
+### 5.2.3.2 
 
 ####Bereiding compleet Preston ophopingsmedium
 
-Koel het basismedium af tot onder de 45ºC. Voeg op aseptische wijze de antibiotica oplossing toe en meng zorgvuldig. OPMERKING In de originele beschrijving van Preston ophopingsmedium (en in daarop volgende beschrijvingen in bijvoorbeeld ISO) wordt paardenbloed gebruikt. In dit NEN voorschrift wordt echter geen paardenbloed toegepast, omdat uit recent onderzoek is gebleken dat dat voor onderhavige monstermatrix niet noodzakelijk is (Jacobs-Reitsma et al ., 2003).  
+Koel het basismedium af tot onder de 45ºC. Voeg op aseptische wijze de antibiotica oplossing toe en meng zorgvuldig. OPMERKING In de originele beschrijving van Preston ophopingsmedium (en in daarop volgende beschrijvingen in bijvoorbeeld ISO) wordt paardenbloed gebruikt. In dit NEN voorschrift wordt echter geen paardenbloed toegepast, omdat uit recent onderzoek is gebleken dat dat voor onderhavige monstermatrix niet noodzakelijk is (Jacobs-Reitsma et al ., 2003). 
 
 ### 6  
 
@@ -1960,51 +1960,51 @@ Gebruikelijke toestellen en steriel glaswerk voor microbiologische laboratoria (
 
 6.4 Suspendeertoestel, Stomacher   
 
-6.3 Geschikte apparatuur en hulpmiddelen om te bebroeden in een micro-aërobe atmosfeer (ca. 6% zuurstof, 10% kooldioxide en 84% stikstof). Voor het verkrijgen van micro-aëroob milieu kan gebruik gemaakt worden van commerciële systemen (‘gas- zakjes’), bijvoorbeeld: GenBox micro-aërofiel (10 zakjes, ref. 96125, bioMérieux).  
+6.3 Geschikte apparatuur en hulpmiddelen om te bebroeden in een micro-aërobe atmosfeer (ca. 6% zuurstof, 10% kooldioxide en 84% stikstof). Voor het verkrijgen van micro-aëroob milieu kan gebruik gemaakt worden van commerciële systemen (‘gas- zakjes’), bijvoorbeeld:  GenBox micro-aërofiel (10 zakjes, ref. 96125, bioMérieux).  
 
 6.4 VIDAS of mini VIDAS analyser (bioMérieux).  
 
-6.5 VIDAS CAM assay (30 testen, ref. 30111, bioMérieux)   OPMERKING Gesteriliseerde materialen voor éénmalig gebruik mogen worden toegepast.  
+6.5 VIDAS CAM assay (30 testen, ref. 30111, bioMérieux)   OPMERKING Gesteriliseerde materialen voor éénmalig gebruik mogen worden toegepast. 
 
 ### 7  
 
 ####Monstername
 
-Monstername is geen onderdeel van de methode zoals beschreven in deze norm. PVE heeft de procedure voor de monstername in een apart besluit vastgelegd. Bederfelijke pluimveeproducten zoals borstvellen en filet dienen gekoeld (1-4° C) te worden aangeleverd. Zie voor de acceptatie criteria voor monstermateriaal bijlage IX van het gewijzigde Besluit Protocollen Hygiënevoorschriften Pluimveehouderij (PVE, 2004-I). Indien bij het aanleveren van de monsters afwijkingen worden geconstateerd in de wijze waarop de monsters aangeleverd moeten worden, dan dient het laboratorium hierover schriftelijk een opmerking te maken richting opdrachtgever. Campylobacter is zeer gevoelig voor invriezen en daarom is het invriezen van monsters niet toegestaan. Monsters dienen binnen 48 uur na monstername te worden ingezet.  
+Monstername is geen onderdeel van de methode zoals beschreven in deze norm. PVE heeft de procedure voor de monstername in een apart besluit vastgelegd. Bederfelijke pluimveeproducten zoals borstvellen en filet dienen gekoeld (1-4° C) te worden aangeleverd. Zie voor de acceptatie criteria voor monstermateriaal bijlage IX van het gewijzigde Besluit Protocollen Hygiënevoorschriften Pluimveehouderij (PVE, 2004-I). Indien bij het aanleveren van de monsters afwijkingen worden geconstateerd in de wijze waarop de monsters aangeleverd moeten worden, dan dient het laboratorium hierover schriftelijk een opmerking te maken richting opdrachtgever. Campylobacter is zeer gevoelig voor invriezen en daarom is het invriezen van monsters niet toegestaan. Monsters dienen binnen 48 uur na monstername te worden ingezet. 
 
 ### 8  
 
 ####Werkwijze
 
-### 8.1  
+### 8.1 
 
 ####Monstervoorbehandeling
 
-Breng 25 gram ± 1 gram van het monster, bijvoorbeeld een stuk huid van de borstkap of filet, in een stomacherzak en voeg 100 ml Preston bouillon toe. Stomacher gedurende 1 minuut en scheidt het monstermateriaal van de ophopingsbouillon (bijvoorbeeld door het verwijderen van de binnenzak van de stomacherzak met daarin het monstermateriaal of door overschenken van de ophopingsvloeistof in een schoon steriel flesje).  
+Breng 25 gram ± 1 gram van het monster, bijvoorbeeld een stuk huid van de borstkap of filet, in een stomacherzak en voeg 100 ml Preston bouillon toe. Stomacher gedurende 1 minuut en scheidt het monstermateriaal van de ophopingsbouillon (bijvoorbeeld door het verwijderen van de binnenzak van de stomacherzak met daarin het monstermateriaal of door overschenken van de ophopingsvloeistof in een schoon steriel flesje). 
 
-### 8.2  
+### 8.2 
 
 ####Ophoping
 
-Incubeer de ophopingsbouillon (48 ± 2) uur bij (41,5 ± 1)°C in micro-aëroob milieu. Indien geïncubeerd wordt in flesjes of (stomacher)-zakken met weinig kopruimte (d.w.z. = 2 cm), kan zonder eisen aan het milieu geïncubeerd worden. OPMERKING In tegenstelling tot de branchemethode is de incubatietijd in dit voorschrift 48 uur.  
+Incubeer de ophopingsbouillon (48 ± 2) uur bij (41,5 ± 1)°C in micro-aëroob milieu. Indien geïncubeerd wordt in flesjes of (stomacher)-zakken met weinig kopruimte (d.w.z. = 2 cm), kan zonder eisen aan het milieu geïncubeerd worden. OPMERKING In tegenstelling tot de branchemethode is de incubatietijd in dit voorschrift 48 uur. 
 
-### 8.3  
+### 8.3 
 
 ####Detectie
 
-Meng het ophopingsmedium na incubatie en breng 2 ml over in een eppendorfbuisje. Sluit de buisjes en verhit gedurende 15 minuten in een kokend waterbad. Voer vervolgens de VIDAS CAM test uit volgens de gebruiksaanwijzing. Runtime VIDAS CAM test bedraagt ongeveer 70 minuten. OPMERKING Indien de VIDAS CAM test niet direct kan worden uitgevoerd is het mogelijk de ophoping (of een deel ervan) in te vriezen voor maximaal 48 uur. Na ontdooien moet de ophoping opgekookt worden en kan bovenstaande werkwijze worden gevolgd.  
+Meng het ophopingsmedium na incubatie en breng 2 ml over in een eppendorfbuisje. Sluit de buisjes en verhit gedurende 15 minuten in een kokend waterbad. Voer vervolgens de VIDAS CAM test uit volgens de gebruiksaanwijzing. Runtime VIDAS CAM test bedraagt ongeveer 70 minuten. OPMERKING Indien de VIDAS CAM test niet direct kan worden uitgevoerd is het mogelijk de ophoping (of een deel ervan) in te vriezen voor maximaal 48 uur. Na ontdooien moet de ophoping opgekookt worden en kan bovenstaande werkwijze worden gevolgd. 
 
-### 8.4  
+### 8.4 
 
 ####Beoordeling van VIDAS CAM resultaten
 
-Resultaten worden beoordeeld conform de gebruiksaanwijzing van de VIDAS CAM test. Deze zijn gebaseerd op metingen van de fluorescentie en worden gestandaardiseerd naar een zogenaamde Test Value (TV). Resultaten met een TV onder de 0,1 betreffen monsters waarin Campylobacter antigenen niet aantoonbaar waren. Resultaten met een TV = 0,1 worden als Campylobacter -positief gerapporteerd.  
+Resultaten worden beoordeeld conform de gebruiksaanwijzing van de VIDAS CAM test. Deze zijn gebaseerd op metingen van de fluorescentie en worden gestandaardiseerd naar een zogenaamde Test Value (TV). Resultaten met een TV onder de 0,1 betreffen monsters waarin Campylobacter antigenen niet aantoonbaar waren. Resultaten met een TV = 0,1 worden als Campylobacter -positief gerapporteerd. 
 
 ### 9  
 
 ####Bevestiging
 
-De in dit voorschrift beschreven VIDAS CAM methode is een detectie methode. Verdere confirmaties zijn niet nodig.  
+De in dit voorschrift beschreven VIDAS CAM methode is een detectie methode. Verdere confirmaties zijn niet nodig. 
 
 ### 10  
 
@@ -2016,19 +2016,19 @@ Blanco controle
 
 Positieve controle  
 
-Negatieve controle (indien een ingangscontrole per batch wordt toegepast, kan deze negatieve controle komen te vervallen)    
+Negatieve controle (indien een ingangscontrole per batch wordt toegepast, kan deze negatieve controle komen te vervallen)   
 
 ### 11  
 
 ####Opgave van het resultaat
 
-Geef het resultaat op als ‘aan- of afwezigheid van Campylobacter in het betreffende monstermateriaal’ als Campylobacter al dan niet is aangetoond volgens 8 (werkwijze).  
+Geef het resultaat op als ‘aan- of afwezigheid van Campylobacter in het betreffende monstermateriaal’ als Campylobacter al dan niet is aangetoond volgens 8 (werkwijze). 
 
 ### 12  
 
 ####Precisie
 
-Prestatiekenmerken zijn vooralsnog niet voorhanden.  
+Prestatiekenmerken zijn vooralsnog niet voorhanden. 
 
 ### 13  
 
@@ -2044,25 +2044,25 @@ de gevolgde methode van monsterneming, indien bekend;
 
 het resultaat volgens hoofdstuk 8;  
 
-eventuele bijzonderheden die tijdens de bepaling zijn waargenomen die het resultaat kunnen hebben beïnvloed.    
+eventuele bijzonderheden die tijdens de bepaling zijn waargenomen die het resultaat kunnen hebben beïnvloed.   
 
 ### 14  
 
 ####Bronvermelding
 
-PVE Branchemethode voor het aantonen van thermotolerante Campylobacter. Bijlage VI van het Besluit tot wijziging van het besluit protocollen hygiënevoorschriften pluimveehouderij 1999 (2004-I) (Verordeningenblad Bedrijfsorganisaties). PVE Acceptatie criteria, Opmerkingen opdrachtgever bij aanleveren afwijkende monsters, Bijlage IX van het Besluit tot wijziging van het besluit protocollen hygiënevoorschriften pluimveehouderij 1999 (2004-I) (Verordeningenblad Bedrijfsorganisaties). Jacobs-Reitsma, W., M. van der Wal, E. Samuëls and J. Wagenaar. Evaluation of the VIDAS Campylobacter Assay for detection of Campylobacter in fresh poultry products after various enrichment methods. Posterpresentation A-18 at 12th International Workshop on Campylobacter, Helicobacter and Related Organisms, september 2003, Aarhus, Denmark. International Journal of Medical Microbiology, Vol. 293 Suppl. 35, p. 6. Jacobs-Reitsma, W., M. van der Wal, R. Achterberg, J. Wagenaar. Comparative studies on Campylobacter isolation methods from fresh poultry products. Posterpresentation A-21 at 12th International Workshop on Campylobacter, Helicobacter and Related Organisms, september 2003, Aarhus, Denmark. Ìnternational Journal of Medical Microbiology, Vol. 293 Suppl. 35, p. 6-7. Samuëls, E.L.A.M. en W. Jacobs-Reitsma, Validatierapport van de Campylobacter bepaling in de matrix pluimveevlees met behulp van de VIDAS CAM methode. (Onderzoek in het kader van het PVE Plan van Aanpak/Actieplan 2000+ Salmonella en Campylobacter in de pluimveesector), april 2004.  
+PVE Branchemethode voor het aantonen van thermotolerante Campylobacter. Bijlage VI van het Besluit tot wijziging van het besluit protocollen hygiënevoorschriften pluimveehouderij 1999 (2004-I) (Verordeningenblad Bedrijfsorganisaties). PVE Acceptatie criteria, Opmerkingen opdrachtgever bij aanleveren afwijkende monsters, Bijlage IX van het Besluit tot wijziging van het besluit protocollen hygiënevoorschriften pluimveehouderij 1999 (2004-I) (Verordeningenblad Bedrijfsorganisaties). Jacobs-Reitsma, W., M. van der Wal, E. Samuëls and J. Wagenaar. Evaluation of the VIDAS Campylobacter Assay for detection of Campylobacter in fresh poultry products after various enrichment methods. Posterpresentation A-18 at 12th International Workshop on Campylobacter, Helicobacter and Related Organisms, september 2003, Aarhus, Denmark. International Journal of Medical Microbiology, Vol. 293 Suppl. 35, p. 6. Jacobs-Reitsma, W., M. van der Wal, R. Achterberg, J. Wagenaar. Comparative studies on Campylobacter isolation methods from fresh poultry products. Posterpresentation A-21 at 12th International Workshop on Campylobacter, Helicobacter and Related Organisms, september 2003, Aarhus, Denmark. Ìnternational Journal of Medical Microbiology, Vol. 293 Suppl. 35, p. 6-7. Samuëls, E.L.A.M. en W. Jacobs-Reitsma, Validatierapport van de Campylobacter bepaling in de matrix pluimveevlees met behulp van de VIDAS CAM methode. (Onderzoek in het kader van het PVE Plan van Aanpak/Actieplan 2000+ Salmonella en Campylobacter in de pluimveesector), april 2004. 
 
-### 15  
+###15 
 
 ####Bijlagen
 
-1. Eerstelijnscontrole van de methode   
+1. Eerstelijnscontrole van de methode  
 
-### Bijlage  1  
+###Bijlage 1 
 
 ####: Eerstelijnscontrole van de methode
 
-Voor de *eerstelijnscontrole* van de methode dienen te worden meegenomen: 
+Voor de *eerstelijnscontrole* van de methode dienen te worden meegenomen:
 
 Indien op het laboratorium monsters eindproduct worden opgehoopt in Preston bouillon, dan wordt een ongeënte Preston-buis (of -zakje) gebruikt als blanco controle. Deze controle wordt getest met de VIDAS CAM test en dient negatief te zijn Blanco controle  
 
@@ -2070,7 +2070,7 @@ Hiervoor wordt gebruik gemaakt van een referentiestam van *C. jejuni* (bijvoorbe
 
 Positieve controle zie boven  
 
-Negatieve controle   Hiervoor wordt gebruik gemaakt van een referentiestam van *E. coli* (bijvoorbeeld ATCC 25922). Deze negatieve controlestam wordt getest met de VIDAS CAM test en dient negatief te zijn. Indien geen ingangscontrole wordt uitgevoerd, maar alleen eerstelijnscontrole, dan moet bij deze eerstelijnscontrole altijd een blanco, een positieve én een negatieve controle meegenomen worden. Alleen indien de controles een juiste uitslag geven mag de uitslag van de monsters afgegeven worden.    
+Negatieve controle   Hiervoor wordt gebruik gemaakt van een referentiestam van *E. coli* (bijvoorbeeld ATCC 25922). Deze negatieve controlestam wordt getest met de VIDAS CAM test en dient negatief te zijn. Indien geen ingangscontrole wordt uitgevoerd, maar alleen eerstelijnscontrole, dan moet bij deze eerstelijnscontrole altijd een blanco, een positieve én een negatieve controle meegenomen worden. Alleen indien de controles een juiste uitslag geven mag de uitslag van de monsters afgegeven worden.  
 
 ####Alternatieve PVE Branchemethode voor het aantonen van Salmonella met behulp van de iQ Check™ real-time PCR in dons, mest en vlees afkomstig van pluimvee Versie 29 april 2005
 
@@ -2078,19 +2078,19 @@ Negatieve controle   Hiervoor wordt gebruik gemaakt van een referentiestam van *
 
 ####Onderwerp
 
-Dit protocol beschrijft een 24-uurs methode voor het aantonen van Salmonella met behulp van de iQ Check™ Salmonella kit (Bio-Rad Laboratories b.v.) in dons, mest en vlees afkomstig van pluimvee. De methode is gevalideerd ten opzichte van de door de branche opgestelde en door de Raad voor Accreditatie goedgekeurde analyse methode MSRV dan wel analyse methode Probelia™.  
+Dit protocol beschrijft een 24-uurs methode voor het aantonen van Salmonella met behulp van de iQ Check™ Salmonella kit (Bio-Rad Laboratories b.v.) in dons, mest en vlees afkomstig van pluimvee. De methode is gevalideerd ten opzichte van de door de branche opgestelde en door de Raad voor Accreditatie goedgekeurde analyse methode MSRV dan wel analyse methode Probelia™. 
 
 ### 2  
 
 ####Definities
 
-Salmonella: Salmonella spp., d.w.z. alle typen Salmonella waarvan het DNA aan de hand van de Polymerase Chain Reactie (PCR) wordt aangetoond, wanneer wordt getest volgens de beschreven werkwijze.  
+Salmonella: Salmonella spp., d.w.z. alle typen Salmonella waarvan het DNA aan de hand van de Polymerase Chain Reactie (PCR) wordt aangetoond, wanneer wordt getest volgens de beschreven werkwijze. 
 
 ### 3  
 
 ####Principe
 
-Uit een voorophopingsmedium wordt, na voorincubatie, het DNA van Salmonella geïsoleerd. Met behulp van de real-time polymerase chain reaction (PCR) worden Salmonella- specifieke DNA sequenties gelijktijdig vermenigvuldigd en gedetecteerd middels fluorescente probes. Inclusief voorophoping wordt een positieve of negatieve uitslag verkregen binnen 24 uur.  
+Uit een voorophopingsmedium wordt, na voorincubatie, het DNA van Salmonella geïsoleerd. Met behulp van de real-time polymerase chain reaction (PCR) worden Salmonella- specifieke DNA sequenties gelijktijdig vermenigvuldigd en gedetecteerd middels fluorescente probes. Inclusief voorophoping wordt een positieve of negatieve uitslag verkregen binnen 24 uur. 
 
 ### 4  
 
@@ -2100,10 +2100,10 @@ Niet-selectief voorophopingsmedium
 
 | --- | --- |
 |:---|:---|
-| gebufferd pepton water (BPw)  | *Bio-Rad code 356-4684 (500 g)* of *Bio-Rad code 355-4170 (225 ml)*  |
+| gebufferd pepton water (BPw)  |  *Bio-Rad code 356-4684 (500 g)* of *Bio-Rad code 355-4170 (225 ml)*   |
 | iQ Check™ *Salmonella* kit  |  *Bio-Rad code 35 7-8100*   |
 
-De iQ Check™ Salmonella kit bestaat uit kant-en-klare reagentia. De samenstelling en bereiding van medium en kit is opgenomen in resp. bijlage 1 en bijlage 2.  
+De iQ Check™ Salmonella kit bestaat uit kant-en-klare reagentia. De samenstelling en bereiding van medium en kit is opgenomen in resp. bijlage 1 en bijlage 2. 
 
 ### 5  
 
@@ -2133,7 +2133,7 @@ De gebruikelijke apparatuur voor een moleculair/microbiologisch laboratorium en 
 
 5.10 20 μl, 200 μl and 1000 μl micropipetten  
 
-5.11 Combi-tips pipetten   Opmerking: Het gebruik van een universal power source (UPS) in combinatie met de iCycler iQTM wordt aanbevolen.  
+5.11 Combi-tips pipetten   Opmerking: Het gebruik van een universal power source (UPS) in combinatie met de iCycler iQTM wordt aanbevolen. 
 
 ####Verbruiksmaterialen
 
@@ -2161,7 +2161,7 @@ De gebruikelijke apparatuur voor een moleculair/microbiologisch laboratorium en 
 
 5.23 Milli-Q of gedestilleerd steriel water  
 
-5.24 Ethanol 96% of NaOH 5%   Opmerking: Gesteriliseerde materialen voor éénmalig gebruik mogen worden toegepast.  
+5.24 Ethanol 96% of NaOH 5%   Opmerking: Gesteriliseerde materialen voor éénmalig gebruik mogen worden toegepast. 
 
 ### 6  
 
@@ -2185,7 +2185,7 @@ Voer periodieke reiniging uit van de werkplaats met tenminste 5% bleekmiddel.
 
 Vermijdt gebruik van latex handschoenen met poeder. Voorkom vingerafdrukken op het optisch sealing tape.  
 
-Schrijf niet op de dopjes van PCR-buizen. In beide gevallen zal de real-time data- acquisitie hinder ondervinden.    
+Schrijf niet op de dopjes van PCR-buizen. In beide gevallen zal de real-time data- acquisitie hinder ondervinden.   
 
 ### 7  
 
@@ -2201,15 +2201,15 @@ Ophopingsmedium dient op incubatie temperatuur (37°C) te zijn voorafgaand aan g
 
 Homogenizeer 25 g monster in 225 ml gebufferd pepton water, in een stomacher zak met filter.  
 
-Incubeer zonder schudden gedurende 18-20 uur bij 37 °C.   Opmerking: Bij verwerking van borstvel ten behoeve van de verdunning dient zo min mogelijk onderhuids vet meegesneden te worden; een overmaat vet kan de isolatie van DNA bemoeilijken en inhibitie van de PCR-reactie veroorzaken. Mest en dons vergen geen bijzondere voorbehandeling.  
+Incubeer zonder schudden gedurende 18-20 uur bij 37 °C.   Opmerking: Bij verwerking van borstvel ten behoeve van de verdunning dient zo min mogelijk onderhuids vet meegesneden te worden; een overmaat vet kan de isolatie van DNA bemoeilijken en inhibitie van de PCR-reactie veroorzaken. Mest en dons vergen geen bijzondere voorbehandeling. 
 
 ####7.2. DNA extractie
 
-Pipetteer 1 ml ophoping met een disposable pipet in een 1,5 ml Eppendorf buis (voorkom pipetteren van grote fragmenten van monsterresten). Schudt de ophoping niet voorafgaand aan het pipetteren van het monster.   De overige stappen voor de DNA extractie worden uitgevoerd zoals omschreven in de gebruiksaanwijzing van de iQ Check™ Salmonella testkit (Bio-Rad, 2004). Opmerking : In geval van ophopingen met een vettig supernatant, neem het monster juist onder deze vetlaag.  
+Pipetteer 1 ml ophoping met een disposable pipet in een 1,5 ml Eppendorf buis (voorkom pipetteren van grote fragmenten van monsterresten). Schudt de ophoping niet voorafgaand aan het pipetteren van het monster.   De overige stappen voor de DNA extractie worden uitgevoerd zoals omschreven in de gebruiksaanwijzing van de iQ Check™ Salmonella testkit (Bio-Rad, 2004). Opmerking : In geval van ophopingen met een vettig supernatant, neem het monster juist onder deze vetlaag. 
 
 ####7.3. Apparatuur en software gebruik, uitvoering PCR, data analyse
 
-Apparatuur en software gebruik, uitvoering PCR en data analyse worden allen uitgevoerd zoals omschreven in de gebruiksaanwijzing van de iQ Check™ Salmonella testkit (Bio-Rad, 2004).  
+Apparatuur en software gebruik, uitvoering PCR en data analyse worden allen uitgevoerd zoals omschreven in de gebruiksaanwijzing van de iQ Check™ Salmonella testkit (Bio-Rad, 2004). 
 
 ####7.4. Interpretatie van resultaten
 
@@ -2221,12 +2221,12 @@ Indien de interne controle ook geen Ct-waarde is toegekend (Ct = N/A), dan is in
 
 | --- | --- | --- |
 |:---|:---|:---|
-| *Salmonella* detectie (FAM-490)  | Interne controle detectie (Texas Red-575)  | Resultaat  |
+|  *Salmonella* detectie (FAM-490)  | Interne controle detectie (Texas Red-575)  | Resultaat  |
 | Ct=10  | Niet van belang  | Positief  |
 | Ct = N/A  | Ct > 10  | Negatief  |
-| Ct = N/A  | Ct = N/A  | Inhibitie  <sup> *   Wanneer zowel *Salmonella* als interne controle detectie een Ct = N/A oplevert, dient het monster opnieuw getest te worden middels een 1/10 verdunning van het DNA-extract.    </sup> |
+| Ct = N/A  | Ct = N/A  | Inhibitie<sup> *  Wanneer zowel *Salmonella* als interne controle detectie een Ct = N/A oplevert, dient het monster opnieuw getest te worden middels een 1/10 verdunning van het DNA-extract.  </sup>  |
 
-Voor een positief resultaat geldt: Salmonella aangetoond. Voor een negatief resultaat geldt: Salmonella niet aangetoond. Verdere bevestiging van positieve uitslagen verkregen met de iQ Check™ Salmonella test is ter beoordeling van de gebruiker maar is niet vereist. Echter in die gevallen waarin volgens het Plan van Aanpak/Actieplan 2000 <sup>+</sup> nadere serotypering van de Salmonella bevinding is vereist, dient met dezelfde BPw-voorophoping als waaruit de PCR is uitgevoerd alsnog een isolatie met MSRV en BGA uitgevoerd te worden (PVE Branche methode MSRV, PPE, 2004-II). In bijlage IV van Besluit Protocollen Hygiënevoorschriften Pluimveeverwerkende industrie 1999, wijziging 2004-II, is het werkvoorschrift voor serotypering van isolaten opgenomen (PPE 2004-II).  
+Voor een positief resultaat geldt: Salmonella aangetoond. Voor een negatief resultaat geldt: Salmonella niet aangetoond. Verdere bevestiging van positieve uitslagen verkregen met de iQ Check™ Salmonella test is ter beoordeling van de gebruiker maar is niet vereist. Echter in die gevallen waarin volgens het Plan van Aanpak/Actieplan 2000<sup>+</sup> nadere serotypering van de Salmonella bevinding is vereist, dient met dezelfde BPw-voorophoping als waaruit de PCR is uitgevoerd alsnog een isolatie met MSRV en BGA uitgevoerd te worden (PVE Branche methode MSRV, PPE, 2004-II). In bijlage IV van Besluit Protocollen Hygiënevoorschriften Pluimveeverwerkende industrie 1999, wijziging 2004-II, is het werkvoorschrift voor serotypering van isolaten opgenomen (PPE 2004-II). 
 
 ### 8  
 
@@ -2236,8 +2236,8 @@ De iQ Check™ Salmonella test kit bevat een positieve en een negatieve controle
 
 | --- | --- | --- |
 |:---|:---|:---|
-| --- | *Salmonella* detectie (FAM-490)  | Interne Controle detectie (Texas Red-575)  |
-| Negatieve controle  |   Ct = N/A  <sup> *   De software geeft een Ct waarde 'N/A (not applicable)' indien de fluorescentie van een monster niet significant boven de achtergrond ruis uitkomt en dus de threshold niet snijdt.    </sup> | 30 < Ct < 40  |
+| --- |  *Salmonella* detectie (FAM-490)  | Interne Controle detectie (Texas Red-575)  |
+| Negatieve controle  |   Ct = N/A<sup> *  De software geeft een Ct waarde 'N/A (not applicable)' indien de fluorescentie van een monster niet significant boven de achtergrond ruis uitkomt en dus de threshold niet snijdt.  </sup>  | 30 < Ct < 40  |
 | Positieve controle  | 26 < Ct < 36  | Niet van belang  |
 
 Voor de eerstelijnscontrole van de methode als geheel dienen te worden meegenomen: 
@@ -2246,29 +2246,29 @@ Positieve controle
 
 Negatieve controle (indien een ingangscontrole per batch wordt toegepast, kan deze negatieve controle komen te vervallen)  
 
-Blanco controle    
+Blanco controle   
 
 ### 9  
 
 ####Opgave van het resultaat
 
-Het resultaat wordt opgegeven als 'Salmonellaaangetoond dan wel niet aangetoond in het betreffende monstermateriaal' alsSalmonellaal dan niet is aangetoond volgens dit protocol. Indien bij het aanleveren van de monsters door de opdrachtgever afwijkingen worden geconstateerd van de wijze waarop de monsters aangeleverd moeten worden, dan dient het laboratorium hierover schriftelijk een opmerking te maken richting de opdrachtgever (zie bijlage V van Besluit Protocollen Hygiënevoorschriften Pluimveeverwerkende industrie 1999, wijziging 2004-II (PPE, 2004-II).  
+Het resultaat wordt opgegeven als 'Salmonellaaangetoond dan wel niet aangetoond in het betreffende monstermateriaal' alsSalmonellaal dan niet is aangetoond volgens dit protocol. Indien bij het aanleveren van de monsters door de opdrachtgever afwijkingen worden geconstateerd van de wijze waarop de monsters aangeleverd moeten worden, dan dient het laboratorium hierover schriftelijk een opmerking te maken richting de opdrachtgever (zie bijlage V van Besluit Protocollen Hygiënevoorschriften Pluimveeverwerkende industrie 1999, wijziging 2004-II (PPE, 2004-II). 
 
 ### 10  
 
 ####Bronvermelding
 
-AFNOR Validation Certificate, iQ Check™ Salmonella, attest BRD-07/06-07/04. Bio-Rad Laboratories b.v., Gebruiksaanwijzing van de iQ Check™ Salmonella Test. 30 augustus 2004, Veenendaal, NL. European Standard NF EN ISO 6579. Microbiology of food and animal feeding stuffs - Horizontal method for the detection of Salmonella spp. December 2002. Miras I., Hermant N., Arricau N., Popoff M.Y. Nucleotide sequence of lagA and lagB genes involved in invasion of HeLa cells by Salmonella enterica subsp. Enterica ser. Typhy. Research in Microbiology, Vol. 146 (1): 17-20 (1995). Productschap Pluimvee en eieren (PPE). Verzamelband Actieplan Salmonella en Campylobacter in de pluimveevleessecor 2000+ (zie ook: www.pve.nl) . Productschap Pluimvee en eieren (PPE). Opmerkingen opdrachtgever bij aanleveren afwijkende monsters, Acceptatiecriteria. Bijlage V bij Besluit Protocollen Hygiënevoorschriften Pluimveeverwerkende industrie 1999, wijziging 2004-II (d.d. 09-09-2004). Vb. Bo. Nr. 61, d.d. 08-10-2004. (ook via: www.pve.nl) Productschap Pluimvee en eieren (PPE). PVE Branche methode MSRV voor het aantonen van Salmonella in dons, faeces, vellen en eindproduct afkomstig van pluimvee. Bijlage II bij Besluit Protocollen Hygiënevoorschriften Pluimveeverwerkende industrie 1999, wijziging 2004-II (d.d. 09-09-2004). Vb. Bo. Nr. 61, d.d. 08-10-2004. (ook via: www.pve.nl) Productschap Pluimvee en eieren (PPE). Serologische bevestiging en serotypering. Bijlage IV bij Besluit Protocollen Hygiënevoorschriften Pluimveeverwerkende industrie 1999, wijziging 2004-II (d.d. 09-09-2004). Vb. Bo. Nr. 61, d.d. 08-10-2004. (ook via: www.pve.nl) Tyagi, S. and Kramer, F.R. Molecular Beacons: Probes that fluoresce upon hybridization. Nature Biotechnology 14: 303-308 (1996).  
+AFNOR Validation Certificate, iQ Check™ Salmonella, attest BRD-07/06-07/04. Bio-Rad Laboratories b.v., Gebruiksaanwijzing van de iQ Check™ Salmonella Test. 30 augustus 2004, Veenendaal, NL. European Standard NF EN ISO 6579. Microbiology of food and animal feeding stuffs - Horizontal method for the detection of Salmonella spp. December 2002. Miras I., Hermant N., Arricau N., Popoff M.Y. Nucleotide sequence of lagA and lagB genes involved in invasion of HeLa cells by Salmonella enterica subsp. Enterica ser. Typhy. Research in Microbiology, Vol. 146 (1): 17-20 (1995). Productschap Pluimvee en eieren (PPE). Verzamelband Actieplan Salmonella en Campylobacter in de pluimveevleessecor 2000+ (zie ook: www.pve.nl) . Productschap Pluimvee en eieren (PPE). Opmerkingen opdrachtgever bij aanleveren afwijkende monsters, Acceptatiecriteria. Bijlage V bij Besluit Protocollen Hygiënevoorschriften Pluimveeverwerkende industrie 1999, wijziging 2004-II (d.d. 09-09-2004). Vb. Bo. Nr. 61, d.d. 08-10-2004. (ook via: www.pve.nl) Productschap Pluimvee en eieren (PPE). PVE Branche methode MSRV voor het aantonen van Salmonella in dons, faeces, vellen en eindproduct afkomstig van pluimvee. Bijlage II bij Besluit Protocollen Hygiënevoorschriften Pluimveeverwerkende industrie 1999, wijziging 2004-II (d.d. 09-09-2004). Vb. Bo. Nr. 61, d.d. 08-10-2004. (ook via: www.pve.nl) Productschap Pluimvee en eieren (PPE). Serologische bevestiging en serotypering. Bijlage IV bij Besluit Protocollen Hygiënevoorschriften Pluimveeverwerkende industrie 1999, wijziging 2004-II (d.d. 09-09-2004). Vb. Bo. Nr. 61, d.d. 08-10-2004. (ook via: www.pve.nl) Tyagi, S. and Kramer, F.R. Molecular Beacons: Probes that fluoresce upon hybridization. Nature Biotechnology 14: 303-308 (1996). 
 
-### 11  
+###11 
 
 ####Bijlagen
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####Samenstelling van het voorophopingsmedium
 
-Voorophopingsmedium: Gebufferd pepton water (BPw) Samenstelling:  
+Voorophopingsmedium: Gebufferd pepton water (BPw)Samenstelling:  
 
 | --- | --- |
 |:---|:---|
@@ -2286,9 +2286,9 @@ Stel de pH, zodat deze na sterilisatie 7,2 ± 0,2 bedraagt bij 25 °C
 
 Verdeel het medium over de daartoe geschikte flessen  
 
-Steriliseer in een autoclaaf (15 minuten, 121 °C)    
+Steriliseer in een autoclaaf (15 minuten, 121 °C)  
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####Samenstelling iQ Check™ Salmonella test kit
 
@@ -2303,181 +2303,181 @@ Samenstelling
 | D  | PCR negatieve controle  | 1 buis (0.5 ml)  |
 | E  | PCR positieve controle  | 1 buis (0.250 ml)  |
 
-De iQ-Check™ Salmonella kit bevat reagentia ten behoeve van 96 testen.  
+De iQ-Check™ Salmonella kit bevat reagentia ten behoeve van 96 testen.
 
-### Bijlage  VII  
+###Bijlage  VII 
 
 ####: Vermeldingswijze van de resultaten van salmonella onderzoeken
 
-Monsters die in de pluimveevlees- en eiersector worden genomen voor bacteriologisch onderzoek: 
+Monsters die in de pluimveevlees- en eiersector worden genomen voor bacteriologisch onderzoek:
 
-### A  
+###A 
 
 ####inlegvellen (opfokbedrijven, opfokvermeerderingsbedrijven en vleeskuikenbedrijven):
 
-Het laboratorium bepaalt of Salmonella aan- dan wel afwezig is. Indien Salmonella is aangetoond dan is de uitslag ‘aanwezigheid van Salmonella in inlegvellen’.  
+Het laboratorium bepaalt of Salmonella aan- dan wel afwezig is. Indien Salmonella is aangetoond dan is de uitslag ‘aanwezigheid van Salmonella in inlegvellen’.
 
-### B  
+###B 
 
 ####mest (cloacaswabs) (opfokbedrijven, fokbedrijven, opfokvermeerderingsbedrijven)
 
-Cloacaswabs 4 weken: Het laboratorium bepaalt of Salmonella aan- dan wel afwezig is. Indien Salmonella is aangetoond dan is de uitslag ‘aanwezigheid van Salmonella in swabs’.  
+Cloacaswabs 4 weken:Het laboratorium bepaalt of Salmonella aan- dan wel afwezig is. Indien Salmonella is aangetoond dan is de uitslag ‘aanwezigheid van Salmonella in swabs’.
 
-### C  
+###C 
 
 ####cloacaswabs vanaf 16 weken:
 
-Het laboratorium bepaalt of Salmonella aan- dan wel afwezig is. Indien Salmonella is aangetoond dan is de uitslag ‘aanwezigheid van Salmonella in swabs’.  
+Het laboratorium bepaalt of Salmonella aan- dan wel afwezig is. Indien Salmonella is aangetoond dan is de uitslag ‘aanwezigheid van Salmonella in swabs’.
 
-### C  
+###C 
 
 ####dons (broederijen)
 
-Het laboratorium bepaalt of Salmonella aan- dan wel afwezig is. Indien Salmonella is aangetoond dan is de uitslag ‘aanwezigheid van Salmonella in dons’.  
+Het laboratorium bepaalt of Salmonella aan- dan wel afwezig is. Indien Salmonella is aangetoond dan is de uitslag ‘aanwezigheid van Salmonella in dons’.
 
-### D  
+###D 
 
 ####mest (swabs of overschoentjes) (vleeskuikenbedrijven)
 
-Swabs: Het laboratorium bepaalt of Salmonella aan- dan wel afwezig is. Indien Salmonella is aangetoond dan is de uitslag ‘aanwezigheid van Salmonella in swabs’. Overschoentjes: Het laboratorium bepaalt of Salmonella aan- dan wel afwezig is. Indien Salmonella is aangetoond dan is de uitslag ‘aanwezigheid van Salmonella in overschoentjes’.  
+Swabs:Het laboratorium bepaalt of Salmonella aan- dan wel afwezig is. Indien Salmonella is aangetoond dan is de uitslag ‘aanwezigheid van Salmonella in swabs’.Overschoentjes:Het laboratorium bepaalt of Salmonella aan- dan wel afwezig is. Indien Salmonella is aangetoond dan is de uitslag ‘aanwezigheid van Salmonella in overschoentjes’.
 
-### E  
+###E 
 
 ####blindedarm (slachterijen)
 
-Het laboratorium bepaalt of Salmonella aan- dan wel afwezig is. Indien Salmonella is aangetoond dan is de uitslag ‘aanwezigheid van Salmonella in blindedarmmest’.  
+Het laboratorium bepaalt of Salmonella aan- dan wel afwezig is. Indien Salmonella is aangetoond dan is de uitslag ‘aanwezigheid van Salmonella in blindedarmmest’.
 
-### F  
+###F 
 
 ####vellen (slachterijen)
 
-Het laboratorium bepaalt of Salmonella aan- dan wel afwezig is. Indien Salmonella is aangetoond dan is de uitslag ‘aanwezigheid van Salmonella in vellen’.  
+Het laboratorium bepaalt of Salmonella aan- dan wel afwezig is. Indien Salmonella is aangetoond dan is de uitslag ‘aanwezigheid van Salmonella in vellen’.
 
-### G  
+###G 
 
 ####eindproducten (slachterijen/uitsnijderijen)
 
-Het laboratorium bepaalt of Salmonella aan- dan wel afwezig is. Indien Salmonella is aangetoond dan is de uitslag ‘aanwezigheid van Salmonella in eindproduct’.  
+Het laboratorium bepaalt of Salmonella aan- dan wel afwezig is. Indien Salmonella is aangetoond dan is de uitslag ‘aanwezigheid van Salmonella in eindproduct’.
 
-### H  
+###H 
 
 ####swabs (broederijen/pluimveestallen)
 
-Het laboratorium bepaalt of Salmonella aan- dan wel afwezig is. Indien Salmonella is aangetoond dan is de uitslag ‘aanwezigheid van Salmonella in swabs’.  
+Het laboratorium bepaalt of Salmonella aan- dan wel afwezig is. Indien Salmonella is aangetoond dan is de uitslag ‘aanwezigheid van Salmonella in swabs’.
 
-### Bijlage  VIII  
+###Bijlage  VIII 
 
 ####: Serologische bevestiging en serotypering
 
-### 3.1  
+###3.1 
 
 ####Serologische bevestiging.
 
 ####Onderzoek op auto-agglutinatie:
 
-Breng op een objectglas een druppel zoutoplossing (0,85% NaCl).  
+Breng op een objectglas een druppel zoutoplossing (0,85% NaCl).
 
-Breng met een steriele entnaald een beetje materiaal van de te onderzoeken kolonie in de druppel zodat een troebeling ontstaat.  
+Breng met een steriele entnaald een beetje materiaal van de te onderzoeken kolonie in de druppel zodat een troebeling ontstaat.
 
-Beweeg gedurende 30-60 seconden het objectglas heen-en-weer (druppel laten zwenken).  
+Beweeg gedurende 30-60 seconden het objectglas heen-en-weer (druppel laten zwenken).
 
-Beoordeel het resultaat tegen een donkere achtergrond (met een vergrootglas). De aanwezigheid van klontjes in het preparaat duidt op auto-agglutinatie van de onderzochte stam. De stammen die auto-agglutinatie vertonen worden niet onderzocht met polyvalent O-serum.    
+Beoordeel het resultaat tegen een donkere achtergrond (met een vergrootglas). De aanwezigheid van klontjes in het preparaat duidt op auto-agglutinatie van de onderzochte stam. De stammen die auto-agglutinatie vertonen worden niet onderzocht met polyvalent O-serum.
 
 ####Agglutinatie methode:
 
-Agglutineer van Salmonella-verdachte kolonies met polyvalent serum A t/m E of A t/m G; indien negatief vervolgen met polyvalent serum A t/m S. 
+Agglutineer van Salmonella-verdachte kolonies met polyvalent serum A t/m E of A t/m G; indien negatief vervolgen met polyvalent serum A t/m S.
 
-Breng op een objectglas een druppel antiserum.  
+Breng op een objectglas een druppel antiserum.
 
-Breng met een steriele entnaald een beetje materiaal van de te onderzoeken kolonie in de druppel zodat een lichte troebeling ontstaat.  
+Breng met een steriele entnaald een beetje materiaal van de te onderzoeken kolonie in de druppel zodat een lichte troebeling ontstaat.
 
-Beweeg gedurende 30-60 seconden het objectglas heen-en-weer (druppel laten zwenken).  
+Beweeg gedurende 30-60 seconden het objectglas heen-en-weer (druppel laten zwenken).
 
-Beoordeel het resultaat tegen een donkere achtergrond (met een vergrootglas). De aanwezigheid van klontjes in het preparaat duidt op een positieve reactie van de onderzochte stam.    
+Beoordeel het resultaat tegen een donkere achtergrond (met een vergrootglas). De aanwezigheid van klontjes in het preparaat duidt op een positieve reactie van de onderzochte stam.
 
-### 3.2  
+###3.2 
 
 ####Serotypering.
 
-Agglutineer van Salmonella-verdachte kolonies eerst met serum A t/m E of A t/m G; indien negatief vervolgen met polyvalent serum A t/m S. Bij een positieve agglutinatie met polyvalent A t/m G wordt geagglutineerd met de groepssera B, C (C1 en C2), D en E (1 t/m 5). Indien positief met B, dan wordt vervolgens geagglutineerd met flagellair antiserum H-i. Hiertoe wordt een schuine agar (bijvoorbeeld nutriëntenagar) beënt (middels ladderen) met de te agglutineren Salmonella en wordt 1 druppel fysiologisch zout (0,85% NaCl) aan deze buis toegevoegd. Na 24 ± 2 uur incuberen bij 37 ° C wordt cultuur van de vochtige schuine zijde genomen voor de agglutinatie met H-i serum. Indien H-i positief dan heeft men een Salmonella typhimurium. Indien H-i negatief dan is het een Salmonella B groep. Indien positief met D, dan wordt vervolgens geagglutineerd met flagellair antiserum H-m. Indien H-m positief dan heeft men een Salmonella enteritidis. Indien H-m negatief dan heeft men Salmonella D groep. Salmonella die alleen met polyvalent A t/m S agglutineren, kunnen, indien gewenst, voor typering opgestuurd worden naar het RIVM, t.a.v. Infectieziekten, Diagnostiek en Screening laboratorium. Dit geldt tevens voor alle niet-serotypeerbare Salmonella.  
+Agglutineer van Salmonella-verdachte kolonies eerst met serum A t/m E of A t/m G; indien negatief vervolgen met polyvalent serum A t/m S.Bij een positieve agglutinatie met polyvalent A t/m G wordt geagglutineerd met de groepssera B, C (C1 en C2), D en E (1 t/m 5).Indien positief met B, dan wordt vervolgens geagglutineerd met flagellair antiserum H-i. Hiertoe wordt een schuine agar (bijvoorbeeld nutriëntenagar) beënt (middels ladderen) met de te agglutineren Salmonella en wordt 1 druppel fysiologisch zout (0,85% NaCl) aan deze buis toegevoegd. Na 24 ± 2 uur incuberen bij 37 ° C wordt cultuur van de vochtige schuine zijde genomen voor de agglutinatie met H-i serum.Indien H-i positief dan heeft men een Salmonella typhimurium.Indien H-i negatief dan is het een Salmonella B groep.Indien positief met D, dan wordt vervolgens geagglutineerd met flagellair antiserum H-m.Indien H-m positief dan heeft men een Salmonella enteritidis.Indien H-m negatief dan heeft men Salmonella D groep.Salmonella die alleen met polyvalent A t/m S agglutineren, kunnen, indien gewenst, voor typering opgestuurd worden naar het RIVM, t.a.v. Infectieziekten, Diagnostiek en Screening laboratorium. Dit geldt tevens voor alle niet-serotypeerbare Salmonella.
 
-### Bijlage  IX  
+###Bijlage  IX 
 
 ####: Opmerkingen opdrachtgever bij aanleveren afwijkende monsters, acceptatie criteria
 
-Indien afwijkingen in de voorgeschreven kwaliteit en wijze van aanleveren van monsters zijn geconstateerd, moet in ieder geval bij de volgende punten richting de opdrachtgever een opmerking worden gemaakt, waaruit blijkt dat er in de procedure van monstername en inzenden een afwijking is geconstateerd en om welke afwijking het gaat. 
+Indien afwijkingen in de voorgeschreven kwaliteit en wijze van aanleveren van monsters zijn geconstateerd, moet in ieder geval bij de volgende punten richting de opdrachtgever een opmerking worden gemaakt, waaruit blijkt dat er in de procedure van monstername en inzenden een afwijking is geconstateerd en om welke afwijking het gaat.
 
 ####Ten algemene.
 
-Indien er tussen de datum van monstername en de datum van ontvangst op het laboratorium meer dan 48 uur is verstreken.  
+Indien er tussen de datum van monstername en de datum van ontvangst op het laboratorium meer dan 48 uur is verstreken.
 
-Indien bij de inzending één van de volgende gegevens ontbreekt: monsterdatum, stalnummer en KIP-nummer.  
+Indien bij de inzending één van de volgende gegevens ontbreekt: monsterdatum, stalnummer en KIP-nummer.
 
-Indien monsters zodanig zijn verpakt dat lekkage is opgetreden en zodanig zijn geadresseerd dat voor transporteur en laboratorium verwarring kan ontstaan.    
+Indien monsters zodanig zijn verpakt dat lekkage is opgetreden en zodanig zijn geadresseerd dat voor transporteur en laboratorium verwarring kan ontstaan.
 
 ####Monsters.
 
 ####Inlegvellen (opfokbedrijven, opfokvermeerderingsbedrijven en vleeskuikenbedrijven:
 
-a) Indien onvoldoende inlegvellen worden aangeleverd.  
+a)Indien onvoldoende inlegvellen worden aangeleverd.
 
-b) Indien de monsters inlegvellen onvoldoende groot zijn.  
+b)Indien de monsters inlegvellen onvoldoende groot zijn.
 
-c) Indien de monsters inlegvellen niet duidelijk met mest zijn besmeurd.  
+c)Indien de monsters inlegvellen niet duidelijk met mest zijn besmeurd.
 
-d) Indien de monsters inlegvellen niet worden aangeleverd in een plastic monsterpot of -zak.    
+d)Indien de monsters inlegvellen niet worden aangeleverd in een plastic monsterpot of -zak.
 
 ####Dons (broederijen):
 
-a) Indien het monster niet minimaal 25 gram dons bevat.  
+a)Indien het monster niet minimaal 25 gram dons bevat.
 
-b) Indien het monster geen natte dons bevat.  
+b)Indien het monster geen natte dons bevat.
 
-c) Indien het monster niet in een monsterpot of -zak wordt aangeleverd.    
+c)Indien het monster niet in een monsterpot of -zak wordt aangeleverd.
 
 ####Mest (swabs of overschoentjes) (vleeskuikenbedrijven):
 
-Swabs: 
+Swabs:
 
-a) Indien onvoldoende swabs worden aangeleverd.  
+a)Indien onvoldoende swabs worden aangeleverd.
 
-b) Indien de swabs onvoldoende met mest zijn besmeurd.  
+b)Indien de swabs onvoldoende met mest zijn besmeurd.
 
-c) Indien de swabs niet tot twee mengmonsters zijn gepoold (tenzij de swabs individueel zijn verpakt).  
+c)Indien de swabs niet tot twee mengmonsters zijn gepoold (tenzij de swabs individueel zijn verpakt).
 
-d) Indien de swabs niet in monsterpotten worden aangeleverd.   Overschoentjes: 
+d)Indien de swabs niet in monsterpotten worden aangeleverd.Overschoentjes:
 
-a) Indien onvoldoende paar overschoentjes zijn aangeleverd.  
+a)Indien onvoldoende paar overschoentjes zijn aangeleverd.
 
-b) Indien de overschoentjes niet duidelijk met mest zijn besmeurd.  
+b)Indien de overschoentjes niet duidelijk met mest zijn besmeurd.
 
-c) Indien de overschoentjes niet in monsterzakken worden aangeleverd.  
+c)Indien de overschoentjes niet in monsterzakken worden aangeleverd.
 
-d) Indien elk paar overschoentjes niet in een aparte monsterzak is verpakt.    
+d)Indien elk paar overschoentjes niet in een aparte monsterzak is verpakt.
 
 ####Blindedarmmest (slachterijen):
 
-a) Indien onvoldoende blindedarm monsters zijn genomen.  
+a)Indien onvoldoende blindedarm monsters zijn genomen.
 
-b) Indien de blindedarm monsters van onvoldoende formaat zijn.  
+b)Indien de blindedarm monsters van onvoldoende formaat zijn.
 
-c) Indien de blindedarm monsters niet in kunststofbakjes zijn aangeleverd.    
+c)Indien de blindedarm monsters niet in kunststofbakjes zijn aangeleverd.
 
 ####Vellen (slachterijen):
 
-a) Indien het monster vel van de borstkap niet minimaal 25 gram weegt.  
+a)Indien het monster vel van de borstkap niet minimaal 25 gram weegt.
 
-b) Indien het monster niet gekoeld ( 0 – 4 °C) getransporteerd en bewaard is.    
+b)Indien het monster niet gekoeld ( 0 – 4 °C) getransporteerd en bewaard is.
 
 ####Eindproducten (slachterijen/uitsnijderijen):
 
-a) Indien het monster eindproduct niet minimaal 25 gram weegt.  
+a)Indien het monster eindproduct niet minimaal 25 gram weegt.
 
-b) Indien het monster niet gekoeld ( 0 – 4 °C) getransporteerd en bewaard is.    
+b)Indien het monster niet gekoeld ( 0 – 4 °C) getransporteerd en bewaard is.
 
-### Bijlage  X  
+### Bijlage X 
 
-####: Aangewezen instanties belast met de controle op de naleving van de Verordening
+#### : Aangewezen instanties belast met de controle op de naleving van de Verordening
 
 Voor de controle op de naleving van de Verordening zijn de navolgende instanties aangewezen: 
 
@@ -2489,8 +2489,8 @@ Voor de controle op de naleving van de Verordening zijn de navolgende instanties
 
 4. Internationale Controle Maatschappij B.V. (SGS AgroControl)  
 
-5. K.B.B.L. Franchise B.V. (ISA Nederland)  
+5.K.B.B.L. Franchise B.V. (ISA Nederland)
 
-6. Quality Partner N.V., gevestigd te Herstal, Belgie  
+6.Quality Partner N.V., gevestigd te Herstal, Belgie
 
-6. B.V. Deltacon ISC.   
+6.B.V. Deltacon ISC. 

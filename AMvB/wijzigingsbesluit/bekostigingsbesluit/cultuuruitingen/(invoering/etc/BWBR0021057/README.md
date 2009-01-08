@@ -15,16 +15,16 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Bekostigingsbesluit cultuuruitingen.   
+Wijzigt het Bekostigingsbesluit cultuuruitingen. 
 
 ### Artikel  II  
 
 1.  Artikel I wordt voor het eerst toegepast op het kalenderjaar 2006.   
-2.  De verantwoording over specifieke uitkeringen voor het kalenderjaar 2006 ten behoeve van openbare bibliotheken als bedoeld in [artikel 1, onder e, van de Wet op het specifiek cultuurbeleid](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) of van andere voorzieningen van bibliotheekwerk geschiedt overeenkomstig de bepalingen bij of krachtens het [Bekostigingsbesluit cultuuruitingen](../../../../../../../AMvB/bekostigingsbesluit/cultuuruitingen/BWBR0006759/README.md), zoals deze luidden op de dag voor inwerkingtreding van dit besluit.   
+2.  De verantwoording over specifieke uitkeringen voor het kalenderjaar 2006 ten behoeve van openbare bibliotheken als bedoeld in [artikel 1, onder e, van de Wet op het specifiek cultuurbeleid](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) of van andere voorzieningen van bibliotheekwerk geschiedt overeenkomstig de bepalingen bij of krachtens het [Bekostigingsbesluit cultuuruitingen](../../../../../../../AMvB/bekostigingsbesluit/cultuuruitingen/BWBR0006759/README.md), zoals deze luidden op de dag voor inwerkingtreding van dit besluit.  
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -32,10 +32,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 19 december 2006  
 Beatrix  
 
-De Minister van Onderwijs, Cultuur en Wetenschap, 
-M. J. A. van derHoeven 
+De Minister van Onderwijs, Cultuur en Wetenschap , 
+M. J. A. van der Hoeven   
 
 de *drieëntwintigste* januari 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

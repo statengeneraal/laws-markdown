@@ -21,13 +21,13 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit medische hulpmiddelen.   
+Wijzigt het Besluit medische hulpmiddelen.  
 
 ### Artikel  II  
 
 1.  Het is de fabrikant, bedoeld in [artikel 4, eerste lid, van het Besluit medische hulpmiddelen](../../../../../../../../../../../AMvB/besluit/medische/hulpmiddelen/BWBR0007307/README.md) tot 16 november 2005 toegestaan om medische hulpmiddelen die derivaten van menselijk bloed bevatten voorhanden te hebben of af te leveren indien met betrekking tot die middelen is voldaan aan de bij of krachtens de wet gestelde voorschriften zoals die golden direct voorafgaande aan het moment van inwerkingtreden van dit besluit.   
 2.  Het is de persoon, bedoeld in [artikel 4, derde lid, van het Besluit medische hulpmiddelen](../../../../../../../../../../../AMvB/besluit/medische/hulpmiddelen/BWBR0007307/README.md) toegestaan om de in het eerste lid bedoelde medische hulpmiddelen uiterlijk tot 16 november 2007 voorhanden te hebben of af te leveren indien met betrekking tot die middelen is voldaan aan de bij of krachtens de wet gestelde voorschriften zoals die golden direct voorafgaande aan het moment van inwerkingtreden van dit besluit.   
-3.  Het is toegestaan om de in het eerste lid bedoelde medische hulpmiddelen toe te passen die voor het moment van inwerkingtreding van dit besluit of overeenkomstig het eerste of tweede lid zijn afgeleverd.   
+3.  Het is toegestaan om de in het eerste lid bedoelde medische hulpmiddelen toe te passen die voor het moment van inwerkingtreding van dit besluit of overeenkomstig het eerste of tweede lid zijn afgeleverd.  
 
 ### Artikel  III  
 
@@ -45,4 +45,4 @@ E. J. Bomhoff
 de *tweeëntwintigste* augustus 2002 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

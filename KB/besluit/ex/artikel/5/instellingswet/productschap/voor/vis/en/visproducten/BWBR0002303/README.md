@@ -13,17 +13,17 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Onder aangelegenheden, verband houdende met het economisch verkeer tussen verschillende stadia van voortbrenging en afzet, als bedoeld in artikel 5, eerste lid, onder *a*, van de [Instellingswet Productschap voor Vis en Visproducten](../../../../../../../../../../../../wet/instellingswet/productschap/voor/vis/en/visproducten/BWBR0002220/README.md) (*Stb.* 1956, 332) zijn begrepen: 
+Onder aangelegenheden, verband houdende met het economisch verkeer tussen verschillende stadia van voortbrenging en afzet, als bedoeld in artikel 5, eerste lid, onder *a*, van de [Instellingswet Productschap voor Vis en Visproducten](../../../../../../../../../../../../wet/instellingswet/productschap/voor/vis/en/visproducten/BWBR0002220/README.md) (*Stb.* 1956, 332) zijn begrepen:  
 
 a. de prijzen van mosselen;  
 
 b. de prijzen, waartegen aanvoerders - kwekers hieronder begrepen - en importeurs vis, andere dan mosselen, ten minste moeten afzetten;  
 
-c. de prijzen, waartegen vis, andere dan mosselen, en visprodukten, een en ander voor zover zij tot menselijk voedsel kunnen dienen, aan buitenlandse afnemers ten minste moeten worden afgezet.    
+c. de prijzen, waartegen vis, andere dan mosselen, en visprodukten, een en ander voor zover zij tot menselijk voedsel kunnen dienen, aan buitenlandse afnemers ten minste moeten worden afgezet.   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 januari 1959.  
+Dit besluit treedt in werking met ingang van 1 januari 1959. 
 
 Onze Ministers van Binnenlandse Zaken, Bezitsvorming en Publiekrechtelijke Bedrijfsorganisatie, van Landbouw, Visserij en Voedselvoorziening en van Economische Zaken zijn belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst.   
 

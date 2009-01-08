@@ -10,26 +10,26 @@ Besluit:
 
 ### Artikel  1  
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer, alsmede op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden worden aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van de Consignatiekas van het Ministerie van Financiën, (1806) 1817–1987 met de inventarisnummers zoals opgenomen in de Bijlage, de in artikel 2 genoemde beperkingen gesteld voor de termijn van maximaal 75 jaren.  
+Met het oog op de eerbiediging van de persoonlijke levenssfeer, alsmede op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden worden aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van de Consignatiekas van het Ministerie van Financiën, (1806) 1817–1987 met de inventarisnummers zoals opgenomen in de Bijlage, de in artikel 2 genoemde beperkingen gesteld voor de termijn van maximaal 75 jaren. 
 
 ### Artikel  2  
 
-Raadpleging van de in artikel 1 genoemde bescheiden is slechts mogelijk nadat de directeur van het Nationaal Archief daarmee heeft ingestemd. Voor het doen van het verzoek tot instemming wordt gebruik gemaakt van het door het Nationaal Archief voorgeschreven formulier voor toestemming tot raadpleging van niet-openbare archieven.  
+Raadpleging van de in artikel 1 genoemde bescheiden is slechts mogelijk nadat de directeur van het Nationaal Archief daarmee heeft ingestemd. Voor het doen van het verzoek tot instemming wordt gebruik gemaakt van het door het Nationaal Archief voorgeschreven formulier voor toestemming tot raadpleging van niet-openbare archieven. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 de 
-Minister van Financiën, namens deze: De 
+Minister van Financiën, namens deze:De 
 plv. Secretaris-generaal, 
-A.S.M.Koeleman  
+A.S.M. Koeleman    
 
 ### Bijlage  
 
 Consignatiekas 
 
-| Inv. Nr.  | Openbaar vanaf  1 januari  |
+| Inv. Nr.  | Openbaar vanaf   1 januari  |
 |:---|:---|
 | 105  | 2062  |
 | 344  | 2030  |

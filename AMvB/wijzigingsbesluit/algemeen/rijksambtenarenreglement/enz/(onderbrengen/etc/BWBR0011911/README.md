@@ -15,47 +15,47 @@ Hebben goedgevonden en verstaan:
 
 ### ARTIKEL  I  
 
-Wijzigt het Algemeen Rijksambtenarenreglement.   
+Wijzigt het Algemeen Rijksambtenarenreglement.  
 
 ### ARTIKEL  II  
 
-Wijzigt het Ambtenarenreglement Staten-Generaal.   
+Wijzigt het Ambtenarenreglement Staten-Generaal.  
 
 ### ARTIKEL  III  
 
-Wijzigt het Reglement Dienst Buitenlandse Zaken.   
+Wijzigt het Reglement Dienst Buitenlandse Zaken.  
 
 ### ARTIKEL  IV  
 
-Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
+Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.  
 
 ### ARTIKEL  V  
 
-Wijzigt de Suppletieregeling gedeeltelijk arbeidsongeschikten sector Rijk.   
+Wijzigt de Suppletieregeling gedeeltelijk arbeidsongeschikten sector Rijk.  
 
 ### ARTIKEL  VI  
 
-Wijzigt het Verplaatsingskostenbesluit 1989.   
+Wijzigt het Verplaatsingskostenbesluit 1989.  
 
 ### ARTIKEL  VII  
 
-Wijzigt het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk.   
+Wijzigt het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk.  
 
 ### ARTIKEL  VIII  
 
-Wijzigt het Rijkswachtgeldbesluit 1959.   
+Wijzigt het Rijkswachtgeldbesluit 1959.  
 
 ### ARTIKEL  IX  
 
-Wijzigt de Uitkeringsregeling 1966.   
+Wijzigt de Uitkeringsregeling 1966.  
 
 ### ARTIKEL  X  
 
-Wijzigt de Regeling ziektekostenvoorziening rijkspersoneel.   
+Wijzigt de Regeling ziektekostenvoorziening rijkspersoneel.  
 
 ### ARTIKEL  XII  
 
-Dit besluit treedt in werking op hetzelfde tijdstip als fase 2 van de [Wet overheidspersoneel onder de werknemersverzekeringen](../../../../../../../../wet/wet/overheidspersoneel/onder/de/werknemersverzekeringen/BWBR0009267/README.md) ingevolge het [Besluit van 17 juli 1999 tot vaststelling van het tijdstip van aanvang van fase 2 en 3 van de Wet overheidspersoneel onder de werknemersverzekeringen](../../../../../../../../KB/vaststellingsbesluit/tijdstip/aanvang/fase/2/en/fase/3/wet/etc/BWBR0010615/README.md) (Stb. 354).  
+Dit besluit treedt in werking op hetzelfde tijdstip als fase 2 van de [Wet overheidspersoneel onder de werknemersverzekeringen](../../../../../../../../wet/wet/overheidspersoneel/onder/de/werknemersverzekeringen/BWBR0009267/README.md) ingevolge het [Besluit van 17 juli 1999 tot vaststelling van het tijdstip van aanvang van fase 2 en 3 van de Wet overheidspersoneel onder de werknemersverzekeringen](../../../../../../../../KB/vaststellingsbesluit/tijdstip/aanvang/fase/2/en/fase/3/wet/etc/BWBR0010615/README.md) (Stb. 354). 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -72,4 +72,4 @@ J. J. van Aartsen
 de *eenentwintigste* december 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

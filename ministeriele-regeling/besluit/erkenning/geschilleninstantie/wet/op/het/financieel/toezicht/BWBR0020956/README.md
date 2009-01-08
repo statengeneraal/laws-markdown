@@ -38,13 +38,13 @@ Besluit:
 
 ### Artikel  1  
 
-de Stichting Klachteninstituut Financiële Dienstverlening wordt erkend als geschilleninstantie als bedoeld in [artikel 4:17, eerste lid, onderdeel b, van de Wet op het financieel toezicht](../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  
+de Stichting Klachteninstituut Financiële Dienstverlening wordt erkend als geschilleninstantie als bedoeld in [artikel 4:17, eerste lid, onderdeel b, van de Wet op het financieel toezicht](../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking op 1 januari 2007.  
+Dit besluit treedt in werking op 1 januari 2007. 
 Dit besluit zal in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Financiën, 
-G.Zalm   
+G. Zalm     

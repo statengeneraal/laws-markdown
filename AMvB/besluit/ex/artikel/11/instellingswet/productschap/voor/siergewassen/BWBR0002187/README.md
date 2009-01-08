@@ -17,15 +17,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Voor de toepassing van de [Instellingswet Productschap voor Siergewassen](../../../../../../../../../../wet/instellingswet/productschap/voor/siergewassen/BWBR0002149/README.md) (*Stb.* 1954, 447) en van de [artikelen 94](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), derde lid, en [104, tweede lid, van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (*Stb.* 1950, K 22) ten aanzien van het Productschap voor Siergewassen wordt Onze Minister van Economische Zaken mede als betrokken Minister aangemerkt, voor zoveel betreft: 
+Voor de toepassing van de [Instellingswet Productschap voor Siergewassen](../../../../../../../../../../wet/instellingswet/productschap/voor/siergewassen/BWBR0002149/README.md) (*Stb.* 1954, 447) en van de [artikelen 94](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), derde lid, en [104, tweede lid, van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (*Stb.* 1950, K 22) ten aanzien van het Productschap voor Siergewassen wordt Onze Minister van Economische Zaken mede als betrokken Minister aangemerkt, voor zoveel betreft:  
 
 a. verordeningen, die bindende regelen inhouden voor het hoveniersbedrijf of de detailhandel in siergewassen;  
 
-b. verordeningen, die regelen inhouden, welke de mededinging beperken tussen degenen, die ondernemingen drijven op het gebied van de handel in bloembollen, de groothandel in bloemkwekerijproducten of de handel in boomkwekerijproducten.    
+b. verordeningen, die regelen inhouden, welke de mededinging beperken tussen degenen, die ondernemingen drijven op het gebied van de handel in bloembollen, de groothandel in bloemkwekerijproducten of de handel in boomkwekerijproducten.   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking op het tijdstip van in werking treden van de [Instellingswet Productschap voor Siergewassen](../../../../../../../../../../wet/instellingswet/productschap/voor/siergewassen/BWBR0002149/README.md).  
+Dit besluit treedt in werking op het tijdstip van in werking treden van de [Instellingswet Productschap voor Siergewassen](../../../../../../../../../../wet/instellingswet/productschap/voor/siergewassen/BWBR0002149/README.md). 
 
 Onze Ministers voor Publiekrechtelijke Bedrijfsorganisatie, van Landbouw, Visserij en Voedselvoorziening en van Economische Zaken zijn belast met de uitvoering van dit besluit, hetwelk in het *Staatsblad* zal worden geplaatst, en waarvan afschrift zal worden gezonden aan de Raad van State.   
 

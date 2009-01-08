@@ -11,19 +11,19 @@ Stelt vast:
 
 ### Artikel  1  
 
-Voor het uitkeringsjaar 2006 worden de bedragen per eenheid voor de uitkering uit het provinciefonds, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1 bij dit besluit.  
+Voor het uitkeringsjaar 2006 worden de bedragen per eenheid voor de uitkering uit het provinciefonds, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1 bij dit besluit. 
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
 wnd. directeur Bestuurlijke en Financiële Organisatie, 
-HermanSchartman  
+Herman Schartman    
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####De bedragen per eenheid voor de uitkering uit het provinciefonds over het uitkeringsjaar 2006
 
@@ -42,4 +42,4 @@ HermanSchartman
 | 9  | Vast bedrag (alle provincies m.u.v.Fryslân)  | 6.019.969,20  | --- |
 | 9a  | Vast bedrag Fryslân **  | 6.972.969,20  | --- |
 
-* Niet in euro’s; het bedrag betreft het rekentarief voor de inkomstenmaatstaf (per € 45,38 hoofdsom). ** Het vaste bedrag Fryslân is met ingang van 2006 losgekoppeld van het vaste bedrag van de overige provincies. 
+* Niet in euro’s; het bedrag betreft het rekentarief voor de inkomstenmaatstaf (per € 45,38 hoofdsom). ** Het vaste bedrag Fryslân is met ingang van 2006 losgekoppeld van het vaste bedrag van de overige provincies.

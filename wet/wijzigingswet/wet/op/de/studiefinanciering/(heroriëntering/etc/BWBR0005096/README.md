@@ -11,20 +11,20 @@ Zo is het dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-G
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
 1.  Degene die over de kalendermaand voorafgaande aan 1 augustus 1991 op grond van [hoofdstuk II van de Wet op de studiefinanciering](../../../../../../../../../wet/wet/op/de/studiefinanciering/BWBR0003955/README.md) recht had op studiefinanciering wegens het volgen van een studie, valt, totdat hij na het bereiken van de leeftijd van 27 jaren die studie voltooit dan wel staakt, onder de bepalingen van [hoofdstuk II van de Wet op de studiefinanciering](../../../../../../../../../wet/wet/op/de/studiefinanciering/BWBR0003955/README.md) zoals die golden voor die datum, zolang hij nog steeds diezelfde studie volgt.   
-2.  Het eerste lid is van overeenkomstige toepassing op studerenden die in de kalendermaand, voorafgaande aan 1 augustus 1991, op grond van artikel 10, derde lid, niet als studerende werden beschouwd, dan wel op studerenden die in de kalendermaand, voorafgaande aan 1 augustus 1991, wegens bijzondere familieomstandigheden niet waren ingeschreven aan een opleiding als bedoeld in artikel 9. Het bestaan van de bijzondere familie omstandigheden dient te worden aangetoond door middel van een gedagtekende verklaring van een studentendecaan als bedoeld in artikel 42 van de Wet op het wetenschappelijk onderwijs en als bedoeld in artikel 52 van de Wet op het hoger beroepsonderwijs dan wel een schooldecaan.   
+2.   Het eerste lid is van overeenkomstige toepassing op studerenden die in de kalendermaand, voorafgaande aan 1 augustus 1991, op grond van artikel 10, derde lid, niet als studerende werden beschouwd, dan wel op studerenden die in de kalendermaand, voorafgaande aan 1 augustus 1991, wegens bijzondere familieomstandigheden niet waren ingeschreven aan een opleiding als bedoeld in artikel 9. Het bestaan van de bijzondere familie omstandigheden dient te worden aangetoond door middel van een gedagtekende verklaring van een studentendecaan als bedoeld in artikel 42 van de Wet op het wetenschappelijk onderwijs en als bedoeld in artikel 52 van de Wet op het hoger beroepsonderwijs dan wel een schooldecaan.  
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-Deze wet treedt in werking met ingang van 1 augustus 1991, met uitzondering van artikel I, onderdelen F en G, tweede lid, dat in werking treedt met ingang van een bij koninklijk besluit te bepalen tijdstip, doch niet eerder dan 1 januari 1992.  
+Deze wet treedt in werking met ingang van 1 augustus 1991, met uitzondering van artikel I, onderdelen F en G, tweede lid, dat in werking treedt met ingang van een bij koninklijk besluit te bepalen tijdstip, doch niet eerder dan 1 januari 1992. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

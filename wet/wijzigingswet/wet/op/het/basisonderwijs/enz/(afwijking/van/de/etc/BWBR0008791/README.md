@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet op het primair onderwijs.   
+Wijzigt de Wet op het primair onderwijs.  
 
 ### Artikel  II  
 
-Wijzigt de Wet op de expertisecentra.   
+Wijzigt de Wet op de expertisecentra.  
 
 ### Artikel  III  
 
@@ -23,16 +23,16 @@ Wijzigt de Wet op het voortgezet onderwijs.
 
 ### Artikel  V  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij is geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij is geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 2 juli 1997  
-Beatrix  
+Beatrix   
 
 De Minister van Onderwijs, Cultuur en Wetenschappen, 
-J. M. M. Ritzen   
+J. M. M. Ritzen    
 
 De Minister van Landbouw, Natuurbeheer en Visserij, 
 J. J. van Aartsen   

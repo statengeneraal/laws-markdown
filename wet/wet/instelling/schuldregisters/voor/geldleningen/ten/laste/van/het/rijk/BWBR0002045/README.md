@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-Onze Minister van Financiën wordt gemachtigd voor de houders van schuldbewijzen van vóór de inwerkingtreding dezer wet ten laste van het Rijk aangegane geldleningen, overeenkomstig door hem te stellen regelen, de gelegenheid te openen hun schuldbewijzen te verwisselen in een inschrijving op naam in een voor elke lening afzonderlijk gehouden schuldregister.  
+Onze Minister van Financiën wordt gemachtigd voor de houders van schuldbewijzen van vóór de inwerkingtreding dezer wet ten laste van het Rijk aangegane geldleningen, overeenkomstig door hem te stellen regelen, de gelegenheid te openen hun schuldbewijzen te verwisselen in een inschrijving op naam in een voor elke lening afzonderlijk gehouden schuldregister. 
 
 ### Artikel  2  
 
-De voorwaarden, waaronder de schuldbewijzen der in artikel 1 bedoelde geldleningen zijn uitgegeven, worden in de door Onze Minister te stellen regelen, bedoeld in artikel 1, eveneens, voor zover toepasselijk, verbonden aan de door verwisseling van deze schuldbewijzen verkregen inschrijvingen in een schuldregister. In afwijking van deze voorwaarden kan ten aanzien van de aflossing worden bepaald, dat deze niet door loting, maar in evenredigheid met de aflossingen door uitloting op de in artikel 1 bedoelde geldleningen zal geschieden.  
+De voorwaarden, waaronder de schuldbewijzen der in artikel 1 bedoelde geldleningen zijn uitgegeven, worden in de door Onze Minister te stellen regelen, bedoeld in artikel 1, eveneens, voor zover toepasselijk, verbonden aan de door verwisseling van deze schuldbewijzen verkregen inschrijvingen in een schuldregister. In afwijking van deze voorwaarden kan ten aanzien van de aflossing worden bepaald, dat deze niet door loting, maar in evenredigheid met de aflossingen door uitloting op de in artikel 1 bedoelde geldleningen zal geschieden. 
 
 ### Artikel  3  
 
-Deze wet treedt in werking met ingang van de dag volgende op die harer afkondiging.  
+Deze wet treedt in werking met ingang van de dag volgende op die harer afkondiging. 
 
 Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst, en dat alle Ministeriële departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

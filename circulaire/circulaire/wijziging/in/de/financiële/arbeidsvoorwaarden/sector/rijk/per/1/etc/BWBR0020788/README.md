@@ -6,7 +6,7 @@
 
 Zoals te doen gebruikelijk ontvangt u aan het einde van het kalenderjaar een circulaire over wijzigingen van de financiële arbeidsvoorwaarden voor het personeel van de sector Rijk. U treft in deze circulaire informatie aan over de volgende onderwerpen: 
 
-1.  [Reisregeling binnenland](../../../../../../../../../../../../../ministeriele-regeling/reisregeling/binnenland/BWBR0005912/README.md)   
+1. [Reisregeling binnenland](../../../../../../../../../../../../../ministeriele-regeling/reisregeling/binnenland/BWBR0005912/README.md)  
 
 2. Belastingvrije vergoeding voor reiskosten  
 
@@ -33,7 +33,7 @@ Zoals te doen gebruikelijk ontvangt u aan het einde van het kalenderjaar een cir
 13. Regelgeving en circulaires Voorzover de wijzigingen niet automatisch in uw salaris- of personeelssysteem worden aangebracht zal uw eigen personeels- of salarisadministratie de wijzigingen dienen aan te brengen.      
 ### 1  
 
-#### [Reisregeling binnenland](../../../../../../../../../../../../../ministeriele-regeling/reisregeling/binnenland/BWBR0005912/README.md) 
+####[Reisregeling binnenland](../../../../../../../../../../../../../ministeriele-regeling/reisregeling/binnenland/BWBR0005912/README.md)
 
 Met ingang van 1 januari 2007 wijzigt in de [Reisregeling binnenland](../../../../../../../../../../../../../ministeriele-regeling/reisregeling/binnenland/BWBR0005912/README.md): 
 
@@ -167,8 +167,8 @@ In de bijlage vindt u een overzicht van de in dit jaar tot stand gekomen (wijzig
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
-Directeur-Generaal Management Openbare Sector, 
-R.IJ.M.Kuipers  
+Directeur-Generaal Management Openbare Sector,
+R.IJ.M. Kuipers    
 
 ### Bijlage  
 
@@ -178,7 +178,7 @@ Algemene maatregelen van bestuur
 |:---|:---|:---|
 | 03-02-2006  | 2006, 129  | [Wijziging van het Algemeen Rijksambtenarenreglement …. in verband met het opnemen van bepalingen met betrekking tot het openbaar maken van nevenwerkzaamheden, het melden van financiële belangen en effectentransacties en het omgaan met vermoedens van misstanden](../../../../../../../../../../../../../AMvB/wijzigingsbesluit/algemeen/rijksambtenarenreglement/enz./(opnemen/etc/BWBR0019524/README.md).  |
 | 17-05-2006  | 2006, 256  | [Intrekking van het Besluit tegemoetkoming ziektekosten rijkspersoneel en de Regeling ziektekostenvoorziening rijkspersoneel](../../../../../../../../../../../../../AMvB/intrekkingsbesluit/besluit/tegemoetkoming/ziektekosten/rijkspersoneel/en/etc/BWBR0019873/README.md).  |
-| 28-09-2006  | 2006, 459  |  [Intrekking van de Suppletieregeling gedeeltelijk arbeidsongeschikten sector Rijk](../../../../../../../../../../../../../AMvB/intrekkingbesluit/suppletieregeling/gedeeltelijk/arbeidsongeschikten/etc/BWBR0020365/README.md)   |
+| 28-09-2006  | 2006, 459  | [Intrekking van de Suppletieregeling gedeeltelijk arbeidsongeschikten sector Rijk](../../../../../../../../../../../../../AMvB/intrekkingbesluit/suppletieregeling/gedeeltelijk/arbeidsongeschikten/etc/BWBR0020365/README.md)  |
 | ..-12-2006  | 2006, …  | [Wijziging van het Algemeen Rijksambtenarenreglement en enkele andere besluiten in verband met de formalisering van de Arbeidsvoorwaardenovereenkomst sector Rijk 2005-2006](../../../../../../../../../../../../../AMvB/wijzigingsbesluit/algemeen/rijksambtenarenreglement/enz./(formalisering/etc/BWBR0020743/README.md).  |
 
 Ministeriële regelingen 
@@ -186,7 +186,7 @@ Ministeriële regelingen
 | Datum  | Kenmerk  | Staatscourant  | Beschrijving  |
 |:---|:---|:---|:---|
 | 01-03-2006  | 2006-0000033010  | 2006, 52  | Wijziging Reisregeling buitenland (tarieflijst 1 april 2006).  |
-| 22-05-2006  | 2006-0000158130  | 2006, 105  |  [Aanpassing voorschriften Besluit betaling emolumenten burgerlijk rijkspersoneel.](../../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/voorschriften/besluit/betaling/emolumenten/burgerlijk/etc/BWBR0019885/README.md)   |
+| 22-05-2006  | 2006-0000158130  | 2006, 105  | [Aanpassing voorschriften Besluit betaling emolumenten burgerlijk rijkspersoneel.](../../../../../../../../../../../../../ministeriele-regeling/regeling/aanpassing/voorschriften/besluit/betaling/emolumenten/burgerlijk/etc/BWBR0019885/README.md)  |
 | 25-09-2006  | 2006-0000258747  | 2006, 190  | Wijziging Reisregeling buitenland (tarieflijst 1 oktober 2006).  |
 | 22-11-2006  | 2006-0000364523  | 2006, 233  | Wijziging Reisregeling binnenland.  |
 

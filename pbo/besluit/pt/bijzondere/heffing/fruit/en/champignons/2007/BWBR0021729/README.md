@@ -21,22 +21,22 @@ Voor de volgende, in het eerste lid van [artikel 4 van de Verordening PT bijzond
 | 35  | cultuurgrond in gebruik voor de teelt in de open grond van overige pit- en steenvruchten  | € 164,27 per ha  |
 | 36  | cultuurgrond, in gebruik voor de teelt in de open grond van akkerbouwmatig geteeld fruit  | € 36,53 per ha  |
 | 60  | cultuurgrond, in gebruik voor de teelt onder glas van fruit  | € 7,53 per are  |
-| 75  | Teeltbakken beschikbaar voor de teelt van champignons  | € 0,82 per m <sup>2</sup> teeltoppervlakte  |
+| 75  | Teeltbakken beschikbaar voor de teelt van champignons  | € 0,82 per m<sup>2</sup> teeltoppervlakte  |
 
 ### Artikel  2  
 
-Dit besluit treedt in werking op de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie.  
+Dit besluit treedt in werking op de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie. 
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Besluit PT bijzondere heffing fruit en champignons 2007.  
+Dit besluit wordt aangehaald als: Besluit PT bijzondere heffing fruit en champignons 2007. 
 Dit besluit en de daarbij behorende toelichting wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie   
 
 Zoetermeer 
 28 november 2006   
 
-D. Duijzer  
+D.  Duijzer  
 voorzitter  
 
-C. Kuijvenhoven  
+C.  Kuijvenhoven  
 secretaris    

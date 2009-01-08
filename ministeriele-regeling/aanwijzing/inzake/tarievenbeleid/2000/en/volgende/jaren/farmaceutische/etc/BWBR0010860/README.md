@@ -8,7 +8,7 @@ Gelet op [artikel 14 van de Wet tarieven gezondheidszorg](../../../../../../../.
 Gelezen de brief van het Centraal orgaan tarieven gezondheidszorg, (brief van 24 september 1999, kenmerk JHD/med/V/99/632, vastgesteld in de vergadering van 20 september 1999);
 
 Na schriftelijke mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brieven van 29 oktober 1999, kenmerk Z/P-2011790 en Z/P-2011825),
-Besluiten:    
+Besluiten:     
 
 ### Artikel  1  
 
@@ -24,13 +24,13 @@ In de bedoelde beleidsregels ter uitvoering van de onderhavige aanwijzing wordt 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-E.Borst-Eilers 
+E. Borst-Eilers  
 
 De 
-Minister van Economische Zaken, 
+Minister van Economische Zaken,
 A.Jorritsma-Lebbink    

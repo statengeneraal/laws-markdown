@@ -23,7 +23,7 @@ b. eigenaar: een natuurlijke persoon of rechtspersoon die het recht van eigendom
 
 c. restauratie: werkzaamheden aan een beschermd monument, het normale onderhoud te boven gaand, die voor het herstel van het beschermde monument noodzakelijk zijn;  
 
-d. subsidiabele restauratiekosten: kosten als bedoeld in artikel 16 van het Besluit rijkssubsidiëring restauratie monumenten 1997.    
+d. subsidiabele restauratiekosten: kosten als bedoeld in artikel 16 van het Besluit rijkssubsidiëring restauratie monumenten 1997.   
 
 ### Artikel  2  
 
@@ -31,11 +31,11 @@ Onze minister kan aan de eigenaar van een beschermd monument subsidie verstrekke
 
 a. meer bedragen dan 3 miljoen gulden dan wel;  
 
-b. minder bedragen dan 3 miljoen gulden, maar meer bedragen dan 1 miljoen gulden en bovendien meer bedragen dan zes maal het budget, bedoeld in artikel 5, eerste of tweede lid, van het Besluit rijkssubsidiëring restauratie monumenten 1997, zoals dat in 1999 ten behoeve van de categorie monumenten waartoe het monument in dat jaar behoorde, voor het jaar 2005 door Onze minister is vastgesteld.    
+b. minder bedragen dan 3 miljoen gulden, maar meer bedragen dan 1 miljoen gulden en bovendien meer bedragen dan zes maal het budget, bedoeld in artikel 5, eerste of tweede lid, van het Besluit rijkssubsidiëring restauratie monumenten 1997, zoals dat in 1999 ten behoeve van de categorie monumenten waartoe het monument in dat jaar behoorde, voor het jaar 2005 door Onze minister is vastgesteld.   
 
 ### Artikel  3  
 
-Het Besluit rijkssubsidiëring restauratie monumenten 1997 is van toepassing met uitzondering van de artikelen 1, 2, 4 tot en met 13, 15, eerste lid, tweede volzin, vierde lid, tweede volzin, en zesde lid, 18, 21 en 38 tot en met 49.  
+Het Besluit rijkssubsidiëring restauratie monumenten 1997 is van toepassing met uitzondering van de artikelen 1, 2, 4 tot en met 13, 15, eerste lid, tweede volzin, vierde lid, tweede volzin, en zesde lid, 18, 21 en 38 tot en met 49. 
 
 ### Artikel  4  
 
@@ -43,11 +43,11 @@ Onverminderd artikel 3 van het Besluit rijkssubsidiëring restauratie monumenten
 
 a. de financiering van het gedeelte van de kosten van de voorgenomen restauratie, dat niet door subsidie wordt gedekt, naar het oordeel van Onze minister onvoldoende is gewaarborgd; of  
 
-b. het huidige of het beoogde gebruik van het te restaureren monument naar het oordeel van Onze minister een belemmering vormt voor de instandhouding van het monument.    
+b. het huidige of het beoogde gebruik van het te restaureren monument naar het oordeel van Onze minister een belemmering vormt voor de instandhouding van het monument.   
 
 ### Artikel  5  
 
-Een aanvraag voor subsidie als bedoeld in artikel 2 wordt vóór 1 november 2000 ingediend en wordt vóór 14 december 2000 naar Onze minister doorgezonden.  
+Een aanvraag voor subsidie als bedoeld in artikel 2 wordt vóór 1 november 2000 ingediend en wordt vóór 14 december 2000 naar Onze minister doorgezonden. 
 
 ### Artikel  6  
 
@@ -59,11 +59,11 @@ a. de mate waarin het monument stedenbouwkundige of landschappelijke waarde heef
 
 b. de mate waarin het monument een publieksfunctie heeft of toeristen aantrekt; en  
 
-c. de mate waarin de restauratie leidt tot investeringen, zowel in het monument zelf als in de omgeving daarvan vanwege de waarde van het monument.     
+c. de mate waarin de restauratie leidt tot investeringen, zowel in het monument zelf als in de omgeving daarvan vanwege de waarde van het monument.    
 
 ### Artikel  7  
 
-Onverminderd artikel 19, eerste lid, van het Besluit rijkssubsidiëring restauratie monumenten 1997, vermeldt Onze minister in de beschikking tot subsidieverlening tevens het jaar of de jaren waarin de verleende subsidie kan worden betaald.  
+Onverminderd artikel 19, eerste lid, van het Besluit rijkssubsidiëring restauratie monumenten 1997, vermeldt Onze minister in de beschikking tot subsidieverlening tevens het jaar of de jaren waarin de verleende subsidie kan worden betaald. 
 
 ### Artikel  8  
 
@@ -71,7 +71,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ### Artikel  9  
 
-Dit besluit wordt aangehaald als: Besluit rijkssubsidiëring grootschalige restauraties.  
+Dit besluit wordt aangehaald als: Besluit rijkssubsidiëring grootschalige restauraties. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -85,4 +85,4 @@ F. van der Ploeg
 de *tiende* augustus 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

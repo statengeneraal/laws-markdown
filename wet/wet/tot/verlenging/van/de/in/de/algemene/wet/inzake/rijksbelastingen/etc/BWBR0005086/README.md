@@ -11,23 +11,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Artikel 16, tweede lid, onderdeel *d*, van de [Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), zoals dit luidt voor inwerkingtreding van deze wet, blijft van toepassing voor de heffing van de inkomstenbelasting over de jaren 1974 tot en met 1984.  
+Artikel 16, tweede lid, onderdeel *d*, van de [Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), zoals dit luidt voor inwerkingtreding van deze wet, blijft van toepassing voor de heffing van de inkomstenbelasting over de jaren 1974 tot en met 1984. 
 
 ### Artikel  IV  
 
-Artikel I, onderdeel A.3, blijft buiten toepassing voor gevallen waarin, op het tijdstip onmiddellijk voorafgaande aan de inwerkingtreding van deze wet, de bevoegdheid tot het vaststellen van een navorderingsaanslag is vervallen.  
+Artikel I, onderdeel A.3, blijft buiten toepassing voor gevallen waarin, op het tijdstip onmiddellijk voorafgaande aan de inwerkingtreding van deze wet, de bevoegdheid tot het vaststellen van een navorderingsaanslag is vervallen. 
 
 ### Artikel  V  
 
-Deze wet treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

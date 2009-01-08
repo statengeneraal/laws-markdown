@@ -5,10 +5,10 @@
 De minister van Binnenlandse Zaken,  
 Gelet op artikel 3 van het Besluit reserve-overdracht ambtenaren (Stb. 1988, 154) en [artikel 3 van het Besluit reserve-overdracht N.S.-personeel](../../../../../../../../AMvB/besluit/reserve-overdracht/n.s.-personeel/BWBR0004300/README.md) (Stb. 1988, 153);
 
-Na overleg met het bestuur van het Algemeen burgerlijk pensioenfonds en
+Na overleg met het bestuur van het Algemeen burgerlijk pensioenfonds en 
 
 gehoord de Raad van toezicht van het Spoorwegpensioenfonds en de wiskundig adviseur bedoeld in artikel L 14 van de Spoorwegpensioenwet;
-Besluit:     
+Besluit:    
 
 ####Ouderdomspensioen
 
@@ -16,18 +16,18 @@ Besluit:
 
 De contante-waardefactoren bij oplopende leeftijden in gehele jaren voor de berekening van de overdrachtswaarde van een ouderdomspensioen hebben een grootte als vastgesteld in de volgende tabellen: 
 
-A: de contante-waardefactor uitgesteld ouderdomspensioen op het leven van een y-jarige ongehuwde vrouw, ingaande bij het bereiken van de 65-jarige leeftijd;  
+A:de contante-waardefactor uitgesteld ouderdomspensioen op het leven van een y-jarige ongehuwde vrouw, ingaande bij het bereiken van de 65-jarige leeftijd;
 
-B: de contante-waardefactor gehuwdenaftrek op het leven van een y-jarige vrouw en haar x-jarige echtgenoot, ingaande bij het bereiken van de 65-jarige leeftijd van de vrouw;  
+B:de contante-waardefactor gehuwdenaftrek op het leven van een y-jarige vrouw en haar x-jarige echtgenoot, ingaande bij het bereiken van de 65-jarige leeftijd van de vrouw;
 
-C: de contante-waardefactor uitgesteld ouderdomspensioen op het leven van een x-jarige ongehuwde man, ingaande bij het bereiken van de 65-jarige leeftijd;  
+C:de contante-waardefactor uitgesteld ouderdomspensioen op het leven van een x-jarige ongehuwde man, ingaande bij het bereiken van de 65-jarige leeftijd;
 
-D: de contante-waardefactor gehuwdenaftrek op het leven van een x-jarige man en zijn y-jarige echtgenote, ingaande bij het bereiken van de 65-jarige leeftijd van de man.    
+D:de contante-waardefactor gehuwdenaftrek op het leven van een x-jarige man en zijn y-jarige echtgenote, ingaande bij het bereiken van de 65-jarige leeftijd van de man.  
 
 | --- | --- | --- | --- | --- |
 |---|---|---|---|---|
-|  *Vrouwen*   | --- |  *Mannen*   |
-|  *A*   |  *B*   |  *leeftijd*   |  *C*   |  *D*   |
+| *Vrouwen*  | --- | *Mannen*  |
+| *A*  | *B*  | *leeftijd*  | *C*  | *D*  |
 | 1,7643  | 0,8142  | 18  | 1,2713  | 1,0302  |
 | 1,8354  | 0,8476  | 19  | 1,3230  | 1,0724  |
 | 1,9093  | 0,8825  | 20  | 1,3769  | 1,1165  |
@@ -83,18 +83,18 @@ D: de contante-waardefactor gehuwdenaftrek op het leven van een x-jarige man en 
 
 De contante-waardefactoren bij oplopende leeftijden in gehele jaren voor de berekening van de overdrachtswaarde van een weduwenpensioen of weduwnaarspensioen en van een bijzonder weduwenpensioen of weduwnaarspensioen hebben een grootte als vastgesteld in de volgende tabellen: 
 
-E: de contante-waardefactor weduwenpensioen of bijzonder weduwenpensioen op het leven van een y-jarige vrouw na het overlijden van haar x-jarige echtgenoot of gewezen echtgenoot;  
+E:de contante-waardefactor weduwenpensioen of bijzonder weduwenpensioen op het leven van een y-jarige vrouw na het overlijden van haar x-jarige echtgenoot of gewezen echtgenoot;
 
-F: de contante-waardefactor tijdelijke toeslag weduwenpensioen;  
+F:de contante-waardefactor tijdelijke toeslag weduwenpensioen;
 
-G: de contante-waardefactor weduwnaarspensioen of bijzonder weduwnaarspensioen op het leven van een x-jarige man na het overlijden van zijn y-jarige echtgenote of gewezen echtgenote;  
+G:de contante-waardefactor weduwnaarspensioen of bijzonder weduwnaarspensioen op het leven van een x-jarige man na het overlijden van zijn y-jarige echtgenote of gewezen echtgenote;
 
-H: de contante-waardefactor tijdelijke toeslag weduwnaarspensioen.    
+H:de contante-waardefactor tijdelijke toeslag weduwnaarspensioen.  
 
 | --- | --- | --- | --- | --- |
 |---|---|---|---|---|
-|  *Weduwenpensioen*   | --- |  *Weduwnaarspensioen*   |
-|  *E*   |  *F*   |  *Leeftijd ambtenaar/ambtenares*   |  *G*   |  *H*   |
+| *Weduwenpensioen*  | --- | *Weduwnaarspensioen*  |
+| *E*  | *F*  | *Leeftijd ambtenaar/ambtenares*  | *G*  | *H*  |
 | 1,4760  | 0,6305  | 18  | 0,5011  | 0,2303  |
 | 1,5205  | 0,6414  | 19  | 0,5147  | 0,2333  |
 | 1,5655  | 0,6516  | 20  | 0,5291  | 0,2366  |
@@ -146,15 +146,15 @@ H: de contante-waardefactor tijdelijke toeslag weduwnaarspensioen.
 
 ### Artikel  3  
 
-De regeling van de Minister van Binnenlandse Zaken van 25 april 1988 (Stcrt. 107) wordt ingetrokken.  
+De regeling van de Minister van Binnenlandse Zaken van 25 april 1988 (Stcrt. 107) wordt ingetrokken. 
 
 ### Artikel  4  
 
-Deze regeling, die met de toelichting in de Nederlandse Staatscourant zal worden geplaatst, treedt in werking met ingang van de eerste kalendermaand na de datum van uitgifte van de Nederlandse Staatscourant waarin zij wordt geplaatst. Van deze regeling wordt een afschrift gezonden aan de Algemene Rekenkamer, aan het bestuur van het Algemeen burgerlijk pensioenfonds en aan de Raad van toezicht en de directie van het Spoorwegpensioenfonds.  
+Deze regeling, die met de toelichting in de Nederlandse Staatscourant zal worden geplaatst, treedt in werking met ingang van de eerste kalendermaand na de datum van uitgifte van de Nederlandse Staatscourant waarin zij wordt geplaatst. Van deze regeling wordt een afschrift gezonden aan de Algemene Rekenkamer, aan het bestuur van het Algemeen burgerlijk pensioenfonds en aan de Raad van toezicht en de directie van het Spoorwegpensioenfonds. 
 
 's-Gravenhage 
 30 januari 1990    
 
 De 
 minister van Binnenlandse Zaken, 
-C. I.Dales    
+C. I. Dales      

@@ -8,24 +8,24 @@ Besluit:
 
 ### Artikel  1  
 
-Ten behoeve van de toepassing van [artikel 5, derde lid, van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), worden de normeringsstelsels vastgesteld, die zijn vermeld in de bijlage van dit besluit.  
+Ten behoeve van de toepassing van [artikel 5, derde lid, van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), worden de normeringsstelsels vastgesteld, die zijn vermeld in de bijlage van dit besluit. 
 
 ### Artikel  2  
 
-Het [besluit van 20 juli 2007](../../../../../../../../../../ministeriele-regeling/besluit/normeringsstelsel/fuwasys/2004/en/normeringsstelsel/fuwauit/2004/BWBR0022358/README.md), nr. 2007-0000260558 DGMOS/POIR/P Rijk, is ingetrokken.  
+Het [besluit van 20 juli 2007](../../../../../../../../../../ministeriele-regeling/besluit/normeringsstelsel/fuwasys/2004/en/normeringsstelsel/fuwauit/2004/BWBR0022358/README.md), nr. 2007-0000260558 DGMOS/POIR/P Rijk, is ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de datum van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de datum van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Besluit Normeringsstelsel FUWASYS 2007 en Normeringsstelsel FUWAUIT 2007.  
+Dit besluit wordt aangehaald als: Besluit Normeringsstelsel FUWASYS 2007 en Normeringsstelsel FUWAUIT 2007. 
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze:de 
 directeur-generaal Management Openbare Sector, 
-R.IJ.M.Kuipers  
+R.IJ.M. Kuipers    
 
 ### Bijlage  1  
 

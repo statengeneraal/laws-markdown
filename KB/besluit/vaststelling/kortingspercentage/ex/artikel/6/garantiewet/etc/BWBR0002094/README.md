@@ -11,11 +11,11 @@ Hebben goedgevonden en verstaan:
 
 ### artikel  1  
 
-Het kortingspercentage, bedoeld in artikel 6, tweede lid van bovenaangehaalde wet, bedraagt ten aanzien van de aldaar bedoelde personen, voor wie rangspensioenreglementen gelden: 
+Het kortingspercentage, bedoeld in artikel 6, tweede lid van bovenaangehaalde wet, bedraagt ten aanzien van de aldaar bedoelde personen, voor wie rangspensioenreglementen gelden:  
 
 A. voor zover zij een wachtgeld genieten: onderscheidenlijk 55, 40 en 25%, voor zolang hun een wachtgeld toekomt van onderscheidenlijk 80, 60 en 40% van de voor de berekening van dat wachtgeld vastgestelde maandelijkse bezoldiging;  
 
-B. voor zover zij een pensioen genieten: onderscheidenlijk 18 en 6%, indien dat pensioen is verleend op grond van onderscheidenlijk het Europees militair pensioenreglement en het niet-Europees militair pensioenreglement.    
+B. voor zover zij een pensioen genieten: onderscheidenlijk 18 en 6%, indien dat pensioen is verleend op grond van onderscheidenlijk het Europees militair pensioenreglement en het niet-Europees militair pensioenreglement.   
 
 Onze Minister voor Uniezaken en Overzeese Rijksdelen is belast met de uitvoering van dit besluit, hetwelk in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Algemene Rekenkamer.   
 

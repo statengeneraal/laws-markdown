@@ -8,18 +8,18 @@ Besluit:
 
 ### Artikel  1  
 
-Als uitvoerende instantie bedoeld in [artikel 6, vierde lid, van de Verordening vaccinatie Newcastle Disease (PPE) 2006](../../../../../../../../../../pbo/verordening/vaccinatie/newcastle/disease/(ppe)/2006/BWBR0019971/README.md) wordt aangewezen: Gezondheidsdienst voor Dieren B.V., gevestigd te Deventer.  
+Als uitvoerende instantie bedoeld in [artikel 6, vierde lid, van de Verordening vaccinatie Newcastle Disease (PPE) 2006](../../../../../../../../../../pbo/verordening/vaccinatie/newcastle/disease/(ppe)/2006/BWBR0019971/README.md) wordt aangewezen: Gezondheidsdienst voor Dieren B.V., gevestigd te Deventer. 
 
 ### Artikel  2  
 
 1.  Dit besluit wordt aangehaald als: Besluit aanwijzing uitvoerende instantie Newcastle Disease (PPE) 2006.   
-2.  Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking met ingang van de dag van inwerkingtreding van de [Verordening vaccinatie Newcastle Disease (PPE) 2006](../../../../../../../../../../pbo/verordening/vaccinatie/newcastle/disease/(ppe)/2006/BWBR0019971/README.md).   
+2.  Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking met ingang van de dag van inwerkingtreding van de [Verordening vaccinatie Newcastle Disease (PPE) 2006](../../../../../../../../../../pbo/verordening/vaccinatie/newcastle/disease/(ppe)/2006/BWBR0019971/README.md).  
 
 Zoetermeer 
 15 juni 2006   
 
 J.J. Ramekers  
-voorzitter  
+voorzitter 
 
 S.B.M. Jongerius  
-secretaris    
+secretaris   

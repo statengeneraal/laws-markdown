@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt Regeling ziektekostenvoorziening defensiepersoneel.   
+Wijzigt Regeling ziektekostenvoorziening defensiepersoneel.  
 
 ### Artikel  II  
 
-Betrokkenen die zich vrijwillig hebben ingeschreven voor een verzekering ingevolge [artikel 90a van het Algemeen militair ambtenarenreglement](../../../../../../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) kunnen tot 1 januari 2001 de te hunnen laste blijvende ziektekosten met betrekking tot een aaneengesloten tijdvak dat korter is dan twaalf maanden en eindigt op de dag vóór de datum van inschrijving, binnen een periode van zes maanden, voor het verlenen van een tegemoetkoming in aanmerking brengen.  
+Betrokkenen die zich vrijwillig hebben ingeschreven voor een verzekering ingevolge [artikel 90a van het Algemeen militair ambtenarenreglement](../../../../../../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) kunnen tot 1 januari 2001 de te hunnen laste blijvende ziektekosten met betrekking tot een aaneengesloten tijdvak dat korter is dan twaalf maanden en eindigt op de dag vóór de datum van inschrijving, binnen een periode van zes maanden, voor het verlenen van een tegemoetkoming in aanmerking brengen. 
 
 ### Artikel  III  
 
-Voor betrokkenen die behoren tot het gewezen militair personeel bedoeld in artikel I, onderdeel D, en die zijn geboren in 1935, 1936 of 1937, blijft de tekst van [artikel 9 van de Regeling ziektekostenvoorziening defensiepersoneel](../../../../../../../../../../../../../AMvB/regeling/ziektekostenvoorziening/defensiepersoneel/BWBR0008817/README.md) van toepassing zoals die luidde voor de datum van inwerkingtreding van dit besluit.  
+Voor betrokkenen die behoren tot het gewezen militair personeel bedoeld in artikel I, onderdeel D, en die zijn geboren in 1935, 1936 of 1937, blijft de tekst van [artikel 9 van de Regeling ziektekostenvoorziening defensiepersoneel](../../../../../../../../../../../../../AMvB/regeling/ziektekostenvoorziening/defensiepersoneel/BWBR0008817/README.md) van toepassing zoals die luidde voor de datum van inwerkingtreding van dit besluit. 
 
 ### Artikel  IV  
 
@@ -33,7 +33,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 's-Gravenhage 
 25 februari 2000  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Defensie, 
 H. A. L. van Hoof   
@@ -41,4 +41,4 @@ H. A. L. van Hoof
 de dertigste maart 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

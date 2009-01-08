@@ -13,7 +13,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De op het tijdstip van de inwerkingtreding van de wet van 7 juni 1956, *Stb.* 310, bestaande Koninklijke besluiten en ministeriële beschikkingen ter uitvoering van de artikelen 33, 36, 38, 52, 120, 121, 122 eerste lid en 125 van de hoger-onderwijswet blijven, voorzover de hoger-onderwijswet niet anders bepaalt, voorlopig van kracht en gelden voor de technische hogescholen.  
+De op het tijdstip van de inwerkingtreding van de wet van 7 juni 1956, *Stb.* 310, bestaande Koninklijke besluiten en ministeriële beschikkingen ter uitvoering van de artikelen 33, 36, 38, 52, 120, 121, 122 eerste lid en 125 van de hoger-onderwijswet blijven, voorzover de hoger-onderwijswet niet anders bepaalt, voorlopig van kracht en gelden voor de technische hogescholen. 
 
 Onze Minister van Onderwijs, Kunsten en Wetenschappen is belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst.   
 

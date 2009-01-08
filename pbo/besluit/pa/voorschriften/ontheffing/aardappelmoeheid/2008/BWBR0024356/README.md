@@ -10,7 +10,7 @@ Besluit namens het bestuur:
 
 ### Artikel  1  
 
-Dit besluit verstaat onder: Verordening: [Verordening PA aardappelmoeheid 2008](../../../../../../../../pbo/verordening/pa/aardappelmoeheid/2008/BWBR0024018/README.md) en neemt over de in deze verordening gebruikte terminologie.  
+Dit besluit verstaat onder: Verordening: [Verordening PA aardappelmoeheid 2008](../../../../../../../../pbo/verordening/pa/aardappelmoeheid/2008/BWBR0024018/README.md) en neemt over de in deze verordening gebruikte terminologie. 
 
 ### Artikel  2  
 
@@ -24,7 +24,7 @@ c. herverdeling
 
 d. bijzondere situaties     
 2.  De aanvraag om ontheffing dient voor 1 mei van het betreffende jaar te worden ingediend.   
-3.  Aanvragen na 1 mei van het desbetreffende jaar worden niet meer in behandeling genomen.   
+3.  Aanvragen na 1 mei van het desbetreffende jaar worden niet meer in behandeling genomen.  
 
 Den Haag 
 27 maart 2008   

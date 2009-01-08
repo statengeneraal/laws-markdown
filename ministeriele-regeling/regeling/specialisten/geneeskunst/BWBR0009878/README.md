@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling specialisten geneeskunst
+##Regeling specialisten geneeskunst 
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
 Gelet op [artikel 14, eerste en zesde lid, onder a, van de Wet op de beroepen in de individuele gezondheidszorg](../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -17,9 +17,9 @@ Deze regeling treedt in werking op 1 oktober 1998.
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling specialisten geneeskunst.  
+Deze regeling wordt aangehaald als: Regeling specialisten geneeskunst. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-E.Borst-Eilers    
+E.  Borst-Eilers      

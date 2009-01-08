@@ -8,27 +8,27 @@ Besluit:
 
 ### Artikel  1  
 
-Het model van de verklaring, bedoeld in [artikel 18, tweede lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) wordt vastgesteld zoals het is opgenomen voor natuurlijke personen in bijlage I en voor rechtspersonen in bijlage II bij deze regeling.  
+Het model van de verklaring, bedoeld in [artikel 18, tweede lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) wordt vastgesteld zoals het is opgenomen voor natuurlijke personen in bijlage I en voor rechtspersonen in bijlage II bij deze regeling. 
 
 ### Artikel  2  
 
-De regeling van de Minister van Financiën van 21 februari 1990/nr. [BGW90-432](../../../../../../../../../../ministeriele-regeling/vaststelling/model/verklaring/gemoedsbezwaren/BWBR0004721/README.md) (Stcrt. 41) wordt ingetrokken.  
+De regeling van de Minister van Financiën van 21 februari 1990/nr. [BGW90-432](../../../../../../../../../../ministeriele-regeling/vaststelling/model/verklaring/gemoedsbezwaren/BWBR0004721/README.md) (Stcrt. 41) wordt ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de *Staatscourant* waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de *Staatscourant* waarin zij wordt geplaatst. 
 
 De 
 Minister van Financiën, 
-G.Zalm   
+G. Zalm     
 
-### Bijlage  I  
+### Bijlage I  
 
 ####Formulier WAM-A
 
 ![22737](http://wetten.overheid.nl/Illustration/22737)
 
-### Bijlage  II  
+### Bijlage II  
 
 ####Formulier WAM-AA
 

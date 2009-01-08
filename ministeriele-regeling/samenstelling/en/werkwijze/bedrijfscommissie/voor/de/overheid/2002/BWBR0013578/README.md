@@ -5,9 +5,9 @@
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 Gelet op artikel 46d, onderdeel c, juncto [artikel 46e van de Wet op de ondernemingsraden](../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md);
 
-Gehoord het advies van de [WOR](../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) -kamer van de Raad voor het Overheidspersoneelsbeleid van 20 december 2001, nr. WOR-k/01.00043/G11;
+Gehoord het advies van de [WOR](../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md)-kamer van de Raad voor het Overheidspersoneelsbeleid van 20 december 2001, nr. WOR-k/01.00043/G11;
 Besluit:     
-### §  1  
+### § 1 
 
 ####Samenstelling van de bedrijfscommissie
 
@@ -20,22 +20,22 @@ Besluit:
 
 1.  De bedrijfscommissie bestaat uit 10 leden en 10 plaatsvervangende leden. Van de leden en de plaatsvervangende leden worden: 
 
-a. 5 leden en 5 plaatsvervangende leden benoemd door het Verbond Sectorwerkgevers Overheid, waarvan 
+a.  5 leden en 5 plaatsvervangende leden benoemd door het Verbond Sectorwerkgevers Overheid, waarvan 
 
-2 leden en 2 plaatsvervangende leden op voordracht van de Minister van Binnenlandse Zaken;  
+2 leden en 2 plaatsvervangende leden op voordracht van de Minister van Binnenlandse Zaken;
 
-1 lid en 1 plaatsvervangend lid op voordracht van de Vereniging van Nederlandse Gemeenten;  
+1 lid en 1 plaatsvervangend lid op voordracht van de Vereniging van Nederlandse Gemeenten;
 
-1 lid en 1 plaatsvervangend lid op voordracht van het Interprovinciaal Overleg;  
+1 lid en 1 plaatsvervangend lid op voordracht van het Interprovinciaal Overleg;
 
-1 lid en 1 plaatsvervangend lid op voordracht van de Unie van Waterschappen;    
+1 lid en 1 plaatsvervangend lid op voordracht van de Unie van Waterschappen; 
 
-b. 5 leden en 5 plaatsvervangende leden benoemd door de Samenwerkende Centrales van Overheidspersoneel.     
+b.  5 leden en 5 plaatsvervangende leden benoemd door de Samenwerkende Centrales van Overheidspersoneel.   
 
 ### Artikel  3  
 
 1.  De leden en de plaatsvervangende leden van de bedrijfscommissie treden om de vier jaar tegelijk af en kunnen terstond opnieuw worden benoemd.   
-2.  Het tijdstip waarop de eerste zittingsperiode aanvangt, wordt bepaald door de [WOR](../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) -Kamer van de Raad voor het Overheidspersoneelsbeleid.   
+2.  Het tijdstip waarop de eerste zittingsperiode aanvangt, wordt bepaald door de [WOR](../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md)-Kamer van de Raad voor het Overheidspersoneelsbeleid.   
 3.  Hij die tot lid of tot plaatsvervangend lid van de bedrijfscommissie is benoemd ter vervulling van een tussentijds opengevallen plaats, treedt af op het tijdstip waarop degene in wiens plaats hij is benoemd, had moeten aftreden.   
 4.  Van de benoeming van een lid of een plaatsvervangend lid geven het Verbond Sectorwerkgevers Overheid en de Samenwerkende Centrales van Overheidspersoneel schriftelijk kennis aan de bedrijfscommissie.   
 
@@ -52,7 +52,7 @@ De bedrijfscommissie kan al dan niet uit haar midden kamers vormen. Aan deze kam
 
 De bedrijfscommissie voorziet in haar secretariaat.  
 
-### §  2  
+### § 2 
 
 ####De werkwijze van de bedrijfscommissie
 
@@ -106,22 +106,22 @@ De leden van een bedrijfscommissie onthouden zich van medestemmen over zaken die
 1.  Aangaande de wijze waarop zij, gelet op de betrokken omstandigheden, tussen de partijen in het geschil zal bemiddelen, beslist de bedrijfscommissie naar eigen oordeel, met dien verstande dat zij daarbij het bepaalde in [artikel 36, derde lid, van de Wet op de ondernemingsraden](../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) in acht neemt en voorts partijen in de gelegenheid stelt hun standpunten op een hoorzitting toe te lichten.   
 2.  Het schriftelijk verslag dat de bedrijfscommissie overeenkomstig [artikel 36, derde lid, van de Wet op de ondernemingsraden](../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) opmaakt van de bevindingen waartoe zij bij haar bemiddeling is gekomen, bevat ten minste de volgende onderdelen: 
 
-de datum waarop de bemiddeling is gevraagd;  
+de datum waarop de bemiddeling is gevraagd;
 
-een duidelijke vermelding van de partijen in het geschil;  
+een duidelijke vermelding van de partijen in het geschil;
 
-een omschrijving van het geschil en van de standpunten en argumenten van partijen, onder vermelding van het artikel of de artikelen van de Wet op de ondernemingsraden waarop het geschil betrekking heeft;  
+een omschrijving van het geschil en van de standpunten en argumenten van partijen, onder vermelding van het artikel of de artikelen van de Wet op de ondernemingsraden waarop het geschil betrekking heeft;
 
-een mededeling over de wijze waarop de bedrijfscommissie tussen partijen heeft bemiddeld;  
+een mededeling over de wijze waarop de bedrijfscommissie tussen partijen heeft bemiddeld;
 
-een advies aan partijen over de oplossing van het geschil;  
+een advies aan partijen over de oplossing van het geschil;
 
-de datum van het verslag.     
+de datum van het verslag.   
 3.  De bedrijfscommissie zendt een afschrift van het verslag zo spoedig mogelijk aan de verzoeker en diens wederpartij.   
 
 ### Artikel  16  
 
-1.  De bedrijfscommissie dient de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de [WOR](../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) -Kamer van de Raad voor het Overheidspersoneelsbeleid desgevraagd of uit eigen beweging van bericht en advies over alle zaken haar werkterrein betreffende.   
+1.  De bedrijfscommissie dient de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de [WOR](../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md)-Kamer van de Raad voor het Overheidspersoneelsbeleid desgevraagd of uit eigen beweging van bericht en advies over alle zaken haar werkterrein betreffende.   
 2.  Desgevraagd dient de bedrijfscommissie de Minister van Sociale Zaken en Werkgelegenheid van bericht en advies over alle zaken haar werkterrein betreffende.   
 
 ### Artikel  17  
@@ -129,24 +129,24 @@ de datum van het verslag.
 1.  De bedrijfscommissie houdt een register bij van de tot haar werkterrein behorende ondernemingen waarvoor met inachtneming van de [Wet op de ondernemingsraden](../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) een ondernemingsraad is ingesteld. Onder ondernemingsraad wordt tevens verstaan: centrale ondernemingsraad en groepsondernemingsraad.   
 2.  Bij elke inschrijving van een onderneming in dit register worden vermeld: 
 
-naam en adres van de onderneming;  
+naam en adres van de onderneming;
 
-naam van de ondernemer die de onderneming in stand houdt;  
+naam van de ondernemer die de onderneming in stand houdt;
 
-datum waarop de ondernemingsraad het reglement van de ondernemingsraad heeft vastgesteld;  
+datum waarop de ondernemingsraad het reglement van de ondernemingsraad heeft vastgesteld;
 
-datum waarop de ondernemingsraad wijzigingen van het reglement heeft ontvangen.     
+datum waarop de ondernemingsraad wijzigingen van het reglement heeft ontvangen.   
 3.  De bedrijfscommissie deelt aan een ieder desgevraagd schriftelijk mede of voor een tot haar werkterrein behorende onderneming een ondernemingsraad is ingesteld.   
-4.  De bedrijfscommissie verschaft desgevraagd inzage in het register aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties en van Sociale Zaken en Werkgelegenheid, de [WOR](../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) -Kamer van de Raad voor het Overheidspersoneelsbeleid, de Vereniging van Nederlandse Gemeenten, het Interprovinciaal Overleg en de Unie van Waterschappen alsmede de Samenwerkende Centrales van Overheidspersoneel.   
+4.  De bedrijfscommissie verschaft desgevraagd inzage in het register aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties en van Sociale Zaken en Werkgelegenheid, de [WOR](../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md)-Kamer van de Raad voor het Overheidspersoneelsbeleid, de Vereniging van Nederlandse Gemeenten, het Interprovinciaal Overleg en de Unie van Waterschappen alsmede de Samenwerkende Centrales van Overheidspersoneel.  
 
 ### Artikel  18  
 
-De bedrijfscommissie brengt jaarlijks verslag uit aan de [WOR](../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) -Kamer van de Raad voor het Overheidspersoneelsbeleid, de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Sociale Zaken en Werkgelegenheid. Het verslag wordt door de bedrijfscommissie, zo nodig tegen betaling van kosten, algemeen verkrijgbaar gesteld.  
+De bedrijfscommissie brengt jaarlijks verslag uit aan de [WOR](../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md)-Kamer van de Raad voor het Overheidspersoneelsbeleid, de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Sociale Zaken en Werkgelegenheid. Het verslag wordt door de bedrijfscommissie, zo nodig tegen betaling van kosten, algemeen verkrijgbaar gesteld.  
 
 ### Artikel  19  
 
 1.  De bedrijfscommissie kan nadere regels stellen over haar werkwijze. Deze regels behoeven de goedkeuring van de Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
-2.  De in het eerste lid bedoelde goedkeuring wordt verleend na overleg met de [WOR](../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) -Kamer van de Raad voor het Overheidspersoneelsbeleid.   
+2.  De in het eerste lid bedoelde goedkeuring wordt verleend na overleg met de [WOR](../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md)-Kamer van de Raad voor het Overheidspersoneelsbeleid.   
 
 ### Artikel  20  
 
@@ -158,9 +158,9 @@ Deze regeling wordt aangehaald als: Regeling samenstelling en werkwijze Bedrijfs
 
 ### Artikel  22  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
 
-K.G. de Vries      
+K.G. de Vries    

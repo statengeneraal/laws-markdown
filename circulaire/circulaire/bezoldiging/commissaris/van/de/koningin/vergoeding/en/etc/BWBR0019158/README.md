@@ -71,6 +71,6 @@ Informatie die betrekking heeft op politieke ambtsdragers, kunt u vinden op de i
 Hoogachtend, 
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze: de 
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze:de 
 directeur-generaal Koninkrijksrelaties en Bestuur, 
-L.A.M. vanHalder   
+L.A.M. van Halder     

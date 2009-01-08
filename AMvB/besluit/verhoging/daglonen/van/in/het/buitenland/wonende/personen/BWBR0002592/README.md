@@ -15,17 +15,17 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Het bepaalde in artikel 20, eerste lid, onder *a*, van de [Wet overgangsregeling arbeidsongeschiktheidsverzekering](../../../../../../../../../../../wet/wet/overgangsregeling/arbeidsongeschiktheidsverzekering/BWBR0002551/README.md) vindt geen toepassing ten aanzien van: 
+Het bepaalde in artikel 20, eerste lid, onder *a*, van de [Wet overgangsregeling arbeidsongeschiktheidsverzekering](../../../../../../../../../../../wet/wet/overgangsregeling/arbeidsongeschiktheidsverzekering/BWBR0002551/README.md) vindt geen toepassing ten aanzien van:  
 
 a. de personen, die op 1 juli 1967 hun woonplaats hebben in België, Frankrijk, de Bondsrepubiek Duitsland, het Groothertogdom Luxemburg, Italië of Oostenrijk;  
 
 b. de onderdanen van de landen, die het door de Internationale Arbeidsconferentie aanvaarde Verdrag no. 19, betreffende de gelijkheid van behandeling voor de toepassing van de ongevallenverzekering (*Trb.* 1957, no. 155) hebben bekrachtigd, mits zij op 1 juli 1967 hun woonplaats hebben in het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland, Zuidslavië of Spanje;  
 
-c. Zwitsers, die op 1 juli 1967 hun woonplaats hebben in Zwitserland.    
+c. Zwitsers, die op 1 juli 1967 hun woonplaats hebben in Zwitserland.   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na die, waarop het in het *Staatsblad* is geplaatst en werkt terug tot 1 juli 1967.  
+Dit besluit treedt in werking met ingang van de tweede dag na die, waarop het in het *Staatsblad* is geplaatst en werkt terug tot 1 juli 1967. 
 
 Onze Minister van Sociale Zaken en Volksgezondheid is belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.   
 

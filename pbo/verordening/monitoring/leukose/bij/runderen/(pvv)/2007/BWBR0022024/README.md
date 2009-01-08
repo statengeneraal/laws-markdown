@@ -9,7 +9,7 @@ Gezien Richtlijn 64/432/EEG van de Raad van 26 juni 1964 inzake veterinairrechte
 
 Gezien het advies van de Commissie Diergezondheid en Kwaliteit Runderen;
 Besluit:     
-### 1  
+### 1 
 
 ####Begripsbepalingen
 
@@ -41,9 +41,9 @@ k. tankmelk: melk die door melkveehouders wordt bewaard in een melkkoeltank, bes
 
 j. Elisa-test: een aan een enzym gekoppelde immuun absorberende laboratoriumtest (Enzyme-Linked Immuno Sorbent Assay);  
 
-m. VWA: Voedsel en Waren Autoriteit.    
+m. VWA: Voedsel en Waren Autoriteit.   
 
-### 2  
+### 2 
 
 ####Onderzoek naar Leukose
 
@@ -52,9 +52,9 @@ m. VWA: Voedsel en Waren Autoriteit.
 1.  De ondernemer die runderen aan een slachthuisonderneming levert staat toe dat van de door hem geleverde runderen aan de slachtlïjn bloedmonsters worden afgenomen ten behoeve van onderzoek naar Leukose.   
 2.  De ondernemer die runderen houdt ten behoeve van melkproductie staat toe dat van de melk afkomstig van deze runderen monsters worden genomen ten behoeve van onderzoek naar Leukose. De monsters worden genomen van tankmelk.   
 3.  De slachthuisondernemer is verplicht steekproefsgewijs bloedmonsters te nemen en af te staan ten behoeve van onderzoek naar Leukose volgens het bepaalde in artikel 3, eerste lid.   
-4.  Het onderzoek van de in het eerste, tweede en derde lid bedoelde monsters wordt uitgevoerd door een ingevolge de [Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) erkend of aangewezen laboratorium.   
+4.  Het onderzoek van de in het eerste, tweede en derde lid bedoelde monsters wordt uitgevoerd door een ingevolge de [Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../../../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) erkend of aangewezen laboratorium.  
 
-### 3  
+### 3 
 
 ####Regels inzake monstername, onderzoek en uitslag
 
@@ -63,16 +63,16 @@ m. VWA: Voedsel en Waren Autoriteit.
 1.  Het bestuur stelt bij besluit regels vast met betrekking tot de wijze waarop de bloedmonsters zoals bedoeld in artikel 2, eerste en derde lid, worden genomen en worden onderzocht door het in artikel 2, vierde lid, bedoelde laboratorium, de analysemethode die wordt toegepast tijdens dit onderzoek en de wijze waarop de uitslag van dit onderzoek wordt bekend gemaakt. Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
 2.  De slachthuisondernemer is verplicht een administratie te voeren waarin de steekproefsgewijze bemonstering wordt verantwoord en verleent inzage in deze administratie aan door de voorzitter daartoe gemachtigde personen en aan aangewezen toezichthouders zoals bedoeld in artikel 4, eerste lid.   
 3.  Monstername van tankmelk vindt plaats conform het bepaalde in de [Zuivelverordening 2000, Handmatig nemen, transporteren en bewaren van monsters boerderijmelk](../../../../../../../../../pbo/zuivelverordening/2000/handmatig/nemen/transporteren/en/bewaren/van/etc/BWBR0010869/README.md).   
-4.  De van tankmelk genomen monsters worden steekproefsgewijs op de aanwezigheid van Leukose onderzocht door toepassing van een Elisa-test. In het geval de aanwezigheid van Leukose wordt vastgesteld zal een confirmatietest door middel van een Elisa-test op een tweede monster van de party tankmelk worden uitgevoerd.   
+4.  De van tankmelk genomen monsters worden steekproefsgewijs op de aanwezigheid van Leukose onderzocht door toepassing van een Elisa-test. In het geval de aanwezigheid van Leukose wordt vastgesteld zal een confirmatietest door middel van een Elisa-test op een tweede monster van de party tankmelk worden uitgevoerd.  
 
-### 4  
+### 4 
 
 ####Toezicht
 
 ### Artikel  4  
 
 1.  Het toezicht op de naleving van de bij of krachtens deze verordening gestelde voorschriften wordt namens het productschap uitgeoefend door een door het bestuur bij besluit aangewezen dienst en door het bestuur aangewezen personen. Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
-2.  De in het eerste lid bedoelde personen zijn bevoegd berechtingsrapporten ten behoeve van tuchtrechtelijke afhandeling op te maken.   
+2.  De in het eerste lid bedoelde personen zijn bevoegd berechtingsrapporten ten behoeve van tuchtrechtelijke afhandeling op te maken.  
 
 ### 5  
 
@@ -80,9 +80,9 @@ m. VWA: Voedsel en Waren Autoriteit.
 
 ### Artikel  5  
 
-Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md).  
+Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md). 
 
-### 6  
+###6 
 
 ####Gegevensverwerking
 
@@ -90,15 +90,15 @@ Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtre
 
 1.  De door het productschap uit hoofde van deze verordening verkregen gegevens omtrent ondernemingen worden in handen gesteld van de voorzitter; zij worden, behoudens aan personeelsleden van het secretariaat van het productschap, de rechtspersoon als bedoeld in artikel 3, eerste lid, alsmede ton behoeve van de handhaving van het bepaalde in deze verordening, niet verder bekendgemaakt.   
 2.  Uit hoofde van deze Verordening verkregen gegevens omtrent ondernemingen worden aan anderen dan de in het eerste lid genoemde personen en instanties slechts verstrekt voor zover zulks in overeenstemming is met de [artikelen 8](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [9 van de Wet bescherming persoonsgegevens](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
-3.  De voorzitter kan, in afwijking van het bepaalde in het eerste lid, besluiten tot bekendmaking van getotaliseerde gegevens omtrent groepen van ondernemingen doch nimmer op zodanige wijze dat daaruit gegevens omtrent een bepaalde onderneming kunnen worden afgeleid.   
+3.  De voorzitter kan, in afwijking van het bepaalde in het eerste lid, besluiten tot bekendmaking van getotaliseerde gegevens omtrent groepen van ondernemingen doch nimmer op zodanige wijze dat daaruit gegevens omtrent een bepaalde onderneming kunnen worden afgeleid.  
 
-### 7  
+### 7 
 
 ####Slotbepalingen
 
 ### Artikel  7  
 
-1.  Deze verordening wordt aangehaald als: Verordening monitoring Leukose bij runderen (PVV) 2007.   
+1.  Deze verordening wordt aangehaald als: Verordening monitoring Leukose bij runderen (PVV) 2007.  
 Deze verordening treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst.   
 
 Zoetermeer 

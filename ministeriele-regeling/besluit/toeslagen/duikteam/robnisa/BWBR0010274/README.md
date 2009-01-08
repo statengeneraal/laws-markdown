@@ -8,11 +8,11 @@ Overwegende dat het gewenst is om ruimte te scheppen voor een beloningsbeleid da
 Gelet op [artikel 22a, eerste lid, van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md);
 
 Gehoord de Bijzondere Commissie;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder:   a.  *ROB:*   Rijksdienst voor het Oudheidkundig Bodemonderzoek;    b.  *NISA:*   Nederlands Instituut voor Scheeps- en onderwater Archeologie;    c.  *bevoegd gezag:*   directeur van de ROB;    d.  *duikdag:*   dag waarop duikarbeid wordt verricht;    e.  *duiktoeslag:*   eenmalig toe te kennen toeslag op het salaris per duikdag.     
+In dit besluit wordt verstaan onder: a.*ROB:* Rijksdienst voor het Oudheidkundig Bodemonderzoek;b.*NISA:* Nederlands Instituut voor Scheeps- en onderwater Archeologie;c.*bevoegd gezag:* directeur van de ROB;d.*duikdag:* dag waarop duikarbeid wordt verricht;e.*duiktoeslag:* eenmalig toe te kennen toeslag op het salaris per duikdag.  
 
 ### Artikel  2  
 
@@ -36,13 +36,13 @@ In de periode 1 oktober tot en met 30 april ontvangen de in artikel 2 genoemde w
 
 ### Artikel  7  
 
-Dit besluit treedt in werking op 1 januari 1998 en kan worden aangehaald als ’Besluit toeslagen duikteam ROB/NISA’.  
+Dit besluit treedt in werking op 1 januari 1998 en kan worden aangehaald als ’Besluit toeslagen duikteam ROB/NISA’. 
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschappen, 
+Minister van Onderwijs, Cultuur en Wetenschappen,
 
-Namens deze, 
+Namens deze,
 
 De 
-secretaris-generaal, 
-P.H.Holthuis    
+secretaris-generaal,
+P.H. Holthuis     

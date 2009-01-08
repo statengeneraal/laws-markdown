@@ -43,6 +43,6 @@ Den Haag
 7 maart 2007   
 
 De 
-staatssecretaris van Financiën, namens deze: de 
+staatssecretaris van Financiën, namens deze:de 
 directeur-generaal Belastingdienst, 
-J.Thunnissen   
+J. Thunnissen     

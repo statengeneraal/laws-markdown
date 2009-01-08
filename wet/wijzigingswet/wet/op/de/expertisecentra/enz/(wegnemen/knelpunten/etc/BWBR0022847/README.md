@@ -11,36 +11,36 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet op de expertisecentra.   
+Wijzigt de Wet op de expertisecentra. 
 
 ### Artikel  II  
 
-Wijzigt de Wet op het primair onderwijs.   
+Wijzigt de Wet op het primair onderwijs. 
 
 ### Artikel  III  
 
-Wijzigt de Wet op het voortgezet onderwijs.   
+Wijzigt de Wet op het voortgezet onderwijs. 
 
 ### Artikel  IV  
 
-Wijzigt de Wet op het onderwijstoezicht.   
+Wijzigt de Wet op het onderwijstoezicht. 
 
 ### Artikel  V  
 
-Wijzigt de Wijzigingswet Wet op de expertisecentra, enz. (invoering regeling leerlinggebonden financiering).   
+Wijzigt de Wijzigingswet Wet op de expertisecentra, enz. (invoering regeling leerlinggebonden financiering). 
 
 ### Artikel  VI  
 
 1.  De samenwerkingsafspraken, bedoeld in [artikel 71c, tweede lid, van de Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), zoals dat luidde voorafgaand aan de inwerkingtreding van artikel I, onderdeel P, die tot een aanspraak tot bekostiging hebben geleid, worden, voor zover zij gelden na het tijdstip van inwerkingtreding van genoemd onderdeel, aangemerkt als een samenwerkingsovereenkomst in de zin van [artikel 71c van de Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md).   
-2.  Binnen twee weken na de inwerkingtreding van artikel I, onderdeel P, zendt het bevoegd gezag aan de Minister van Onderwijs, Cultuur en Wetenschap een opgave van het aantal leerlingen op 1 oktober 2007 dat afkomstig is van een residentiële instelling. Voor zover van toepassing zendt het bevoegd gezag eveneens, overeenkomstig de eerste volzin, een opgave van het desbetreffende aantal leerlingen op 16 januari 2008 ten behoeve van een aanvullende bekostiging voor personeelskosten bij aanzienlijke tussentijdse toename van het aantal leerlingen op grond van het [Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md). De in de eerste en tweede volzin bedoelde opgave geschiedt ten behoeve van de bekostiging voor het schooljaar dat het genoemde onderdeel voor het eerst van toepassing is.   
+2.  Binnen twee weken na de inwerkingtreding van artikel I, onderdeel P, zendt het bevoegd gezag aan de Minister van Onderwijs, Cultuur en Wetenschap een opgave van het aantal leerlingen op 1 oktober 2007 dat afkomstig is van een residentiële instelling. Voor zover van toepassing zendt het bevoegd gezag eveneens, overeenkomstig de eerste volzin, een opgave van het desbetreffende aantal leerlingen op 16 januari 2008 ten behoeve van een aanvullende bekostiging voor personeelskosten bij aanzienlijke tussentijdse toename van het aantal leerlingen op grond van het [Besluit bekostiging WEC](../../../../../../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md). De in de eerste en tweede volzin bedoelde opgave geschiedt ten behoeve van de bekostiging voor het schooljaar dat het genoemde onderdeel voor het eerst van toepassing is.  
 
 ### Artikel  VII  
 
-De in artikel I, onderdelen P, S, voor wat betreft artikel 117, zevende lid, van de Wet op de expertisecentra, en T, opgenomen wijzigingen zijn voor de eerste maal van toepassing op de bekostiging van het schooljaar 2008–2009.  
+De in artikel I, onderdelen P, S, voor wat betreft artikel 117, zevende lid, van de Wet op de expertisecentra, en T, opgenomen wijzigingen zijn voor de eerste maal van toepassing op de bekostiging van het schooljaar 2008–2009. 
 
 ### Artikel  VIII  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen, onderdelen of leden van onderdelen van de verschillende artikelen, verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen, onderdelen of leden van onderdelen van de verschillende artikelen, verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -48,13 +48,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 27 september 2007  
 Beatrix  
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschap 
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap  
 J. M. van Bijsterveldt-Vliegenthart   
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit 
+De Minister van Landbouw, Natuur en Voedselkwaliteit  
 G. Verburg   
 
 de *twintigste* november 2007 
 
-De Minister van Justitie 
+De Minister van Justitie  
 E. M. H. Hirsch Ballin    

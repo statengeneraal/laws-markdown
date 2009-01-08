@@ -24,7 +24,7 @@ a. vliegers,
 
 b. personen belast met het op afstand bedienen van onbemande luchtvaartuigen van de krijgsmacht, en  
 
-c. overig cockpitpersoneel.    
+c. overig cockpitpersoneel.   
 
 ### Artikel  2  
 
@@ -46,11 +46,11 @@ c. algemene luchtverkeersleiding: het geven van luchtverkeersleiding bij een aan
 
 d. radarnaderingsluchtverkeersleiding: het geven van radarluchtverkeersleiding bij een aangewezen naderingsluchtverkeersleidingsdienst, of  
 
-e. algemene radarluchtverkeersleiding: het geven van radarluchtverkeersleiding bij een aangewezen algemene luchtverkeersleidingsdienst.    
+e. algemene radarluchtverkeersleiding: het geven van radarluchtverkeersleiding bij een aangewezen algemene luchtverkeersleidingsdienst.   
 
 ### Artikel  4  
 
-Personeel dat is belast met een of meer van de in artikel 3 genoemde vormen van luchtverkeersleiding, voldoet aan de daarvoor bij regeling van Onze Minister van Defensie vastgestelde eisen inzake theoretische en praktische bekwaamheid.  
+Personeel dat is belast met een of meer van de in artikel 3 genoemde vormen van luchtverkeersleiding, voldoet aan de daarvoor bij regeling van Onze Minister van Defensie vastgestelde eisen inzake theoretische en praktische bekwaamheid. 
 
 ### Paragraaf  3  
 
@@ -59,7 +59,7 @@ Personeel dat is belast met een of meer van de in artikel 3 genoemde vormen van 
 ### Artikel  5  
 
 1.  Personeel van de krijgsmacht, dat is belast met het bedienen van militaire luchtvaartuigen dan wel het geven van luchtverkeersleiding, voldoet aan de daarvoor bij regeling van Onze Minister van Defensie vastgestelde eisen inzake de geestelijke en lichamelijke geschiktheid.   
-2.  Niet tot de krijgsmacht behorende personen die zijn belast met het op afstand bedienen van onbemande luchtvaartuigen van de krijgsmacht, voldoen aan de daarvoor bij regeling van Onze Minister van Defensie vastgestelde eisen inzake de geestelijke en lichamelijke geschiktheid. Deze regeling betreft voorts de periodieke medische keuring van deze personen.   
+2.  Niet tot de krijgsmacht behorende personen die zijn belast met het op afstand bedienen van onbemande luchtvaartuigen van de krijgsmacht, voldoen aan de daarvoor bij regeling van Onze Minister van Defensie vastgestelde eisen inzake de geestelijke en lichamelijke geschiktheid. Deze regeling betreft voorts de periodieke medische keuring van deze personen.  
 
 ### Paragraaf  4  
 
@@ -67,8 +67,8 @@ Personeel dat is belast met een of meer van de in artikel 3 genoemde vormen van 
 
 ### Artikel  6  
 
-1.  [Artikel 10.1, tweede lid, van de Wet luchtvaart](../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) is voor wat betreft de eisen inzake theoretische en praktische bekwaamheid niet van toepassing op degene die een opleiding volgt voor een functie als genoemd in artikel 1 van dit besluit, voorzover de door die persoon gedurende de opleiding uitgevoerde werkzaamheden plaatsvinden in opdracht van een instructeur.   
-2.  [Artikel 10.2, eerste lid, tweede volzin, van de Wet luchtvaart](../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) is voor wat betreft de eisen inzake theoretische en praktische bekwaamheid niet van toepassing op degene die een opleiding volgt voor een functie als genoemd in artikel 3 van dit besluit, voorzover de door die persoon gedurende de opleiding uitgevoerde werkzaamheden plaatsvinden onder toezicht van een instructeur.   
+1.   [Artikel 10.1, tweede lid, van de Wet luchtvaart](../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) is voor wat betreft de eisen inzake theoretische en praktische bekwaamheid niet van toepassing op degene die een opleiding volgt voor een functie als genoemd in artikel 1 van dit besluit, voorzover de door die persoon gedurende de opleiding uitgevoerde werkzaamheden plaatsvinden in opdracht van een instructeur.   
+2.   [Artikel 10.2, eerste lid, tweede volzin, van de Wet luchtvaart](../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) is voor wat betreft de eisen inzake theoretische en praktische bekwaamheid niet van toepassing op degene die een opleiding volgt voor een functie als genoemd in artikel 3 van dit besluit, voorzover de door die persoon gedurende de opleiding uitgevoerde werkzaamheden plaatsvinden onder toezicht van een instructeur.  
 
 ### Paragraaf  5  
 
@@ -76,7 +76,7 @@ Personeel dat is belast met een of meer van de in artikel 3 genoemde vormen van 
 
 ### Artikel  7  
 
-[Artikel 10.1, tweede lid, van de Wet luchtvaart](../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) is niet van toepassing op buitenlands cockpitpersoneel, belast met het bedienen van buitenlandse militaire luchtvaartuigen, mits dat voldoet aan de door de desbetreffende buitenlandse militaire autoriteiten terzake gestelde eisen.  
+[Artikel 10.1, tweede lid, van de Wet luchtvaart](../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) is niet van toepassing op buitenlands cockpitpersoneel, belast met het bedienen van buitenlandse militaire luchtvaartuigen, mits dat voldoet aan de door de desbetreffende buitenlandse militaire autoriteiten terzake gestelde eisen. 
 
 ### Artikel  8  
 
@@ -84,7 +84,7 @@ Personeel dat is belast met een of meer van de in artikel 3 genoemde vormen van 
 
 a. bevoegd is verklaard tot het bedienen van militaire luchtvaartuigen van die Staat, en  
 
-b. lichamelijk en geestelijk geschikt is verklaard voor het bedienen van militaire luchtvaartuigen van die Staat.    
+b. lichamelijk en geestelijk geschikt is verklaard voor het bedienen van militaire luchtvaartuigen van die Staat.   
 
 ### Paragraaf  6  
 
@@ -92,17 +92,17 @@ b. lichamelijk en geestelijk geschikt is verklaard voor het bedienen van militai
 
 ### Artikel  9  
 
-Dit besluit treedt in werking met ingang van 1 oktober 1999.  
+Dit besluit treedt in werking met ingang van 1 oktober 1999. 
 
 ### Artikel  10  
 
-Dit besluit wordt aangehaald als: Besluit cockpitpersoneel en luchtverkeersdienstverleningspersoneel krijgsmacht.  
+Dit besluit wordt aangehaald als: Besluit cockpitpersoneel en luchtverkeersdienstverleningspersoneel krijgsmacht. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 31 augustus 1999  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Defensie, 
 H. A. L. van Hoof   
@@ -110,4 +110,4 @@ H. A. L. van Hoof
 de *eenentwintigste* september 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

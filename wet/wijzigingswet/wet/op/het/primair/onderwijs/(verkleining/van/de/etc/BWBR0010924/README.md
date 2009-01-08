@@ -13,21 +13,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet op het primair onderwijs.   
+Wijzigt de Wet op het primair onderwijs.  
 
 ### Artikel  II  
 
-De in deze wet opgenomen wijzigingen zijn voor wat betreft de vaststelling van de formatie voor de eerste maal van toepassing op het schooljaar 2000–2001. Voor wat betreft de vaststelling van de vergoedingen voor de materiële instandhouding zijn de wijzigingen voor de eerste maal van toepassing op het kalenderjaar 2001.  
+De in deze wet opgenomen wijzigingen zijn voor wat betreft de vaststelling van de formatie voor de eerste maal van toepassing op het schooljaar 2000–2001. Voor wat betreft de vaststelling van de vergoedingen voor de materiële instandhouding zijn de wijzigingen voor de eerste maal van toepassing op het kalenderjaar 2001. 
 
 ### Artikel  III  
 
-Deze wet treedt in werking met ingang van 1 maart 2000.  
+Deze wet treedt in werking met ingang van 1 maart 2000. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 2 december 1999  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, 
 K. Y. I. J. Adelmund   

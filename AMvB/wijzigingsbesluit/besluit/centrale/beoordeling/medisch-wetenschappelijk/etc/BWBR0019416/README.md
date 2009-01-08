@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit centrale beoordeling medisch-wetenschappelijk onderzoek met mensen.   
+Wijzigt het Besluit centrale beoordeling medisch-wetenschappelijk onderzoek met mensen. 
 
 ### Artikel  II  
 
-Op onderzoeksprotocollen die betrekking hebben op een onderwerp als bedoeld in artikel I van dit besluit en die op grond van [artikel 2, tweede lid, onderdeel a, van de Wet medisch-wetenschappelijk onderzoek met mensen](../../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) vóór het tijdstip van inwerkingtreding van dit besluit zijn ingediend bij een daartoe krachtens [artikel 16 van deze wet](../../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) erkende commissie, blijven de regelen van toepassing die op het moment van indienen van de onderzoeksprotocollen golden.  
+Op onderzoeksprotocollen die betrekking hebben op een onderwerp als bedoeld in artikel I van dit besluit en die op grond van [artikel 2, tweede lid, onderdeel a, van de Wet medisch-wetenschappelijk onderzoek met mensen](../../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) vóór het tijdstip van inwerkingtreding van dit besluit zijn ingediend bij een daartoe krachtens [artikel 16 van deze wet](../../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) erkende commissie, blijven de regelen van toepassing die op het moment van indienen van de onderzoeksprotocollen golden. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

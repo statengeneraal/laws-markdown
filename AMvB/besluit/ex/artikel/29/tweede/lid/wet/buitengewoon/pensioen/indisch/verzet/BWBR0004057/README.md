@@ -17,11 +17,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Voor het verstrekken van afschriften van bescheiden die betrekking hebben op beslissingen als bedoeld in [artikel 28, eerste lid, van de Wet buitengewoon pensioen Indisch verzet](../../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md) (*Stb.* 1986, 360) geldt als tarief van de voor die afschriften verschuldigde vergoeding, het tarief dat ingevolge de [Wet openbaarheid van bestuur](../../../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) (*Stb.* 1978, 581) is verschuldigd als vergoeding voor het verstrekken van fotocopieën.  
+Voor het verstrekken van afschriften van bescheiden die betrekking hebben op beslissingen als bedoeld in [artikel 28, eerste lid, van de Wet buitengewoon pensioen Indisch verzet](../../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md) (*Stb.* 1986, 360) geldt als tarief van de voor die afschriften verschuldigde vergoeding, het tarief dat ingevolge de [Wet openbaarheid van bestuur](../../../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) (*Stb.* 1978, 581) is verschuldigd als vergoeding voor het verstrekken van fotocopieën. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

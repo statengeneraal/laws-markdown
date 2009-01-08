@@ -26,35 +26,35 @@ Besluiten:
 
 De 
 Staatssecretaris van Welzijn, Volksgezondheid en Cultuur, 
-Hans J.Simons 
+Hans J.Simons  
 
 De 
 Minister van Economische Zaken, 
-J.E.Andriessen 
+J.E.Andriessen  
 
 De 
 Minister van 
 Onderwijs en Wetenschappen, 
-J.M.M.Ritzen   
+J.M.M. Ritzen     
 
 ####Aanwijzing op grond van [artikel 14 van de Wet tarieven gezondheidszorg](../../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md)
 
 De werkingssfeer van deze aanwijzing strekt zich uit tot de in artikel 1, onder A, onder de nummers 1,3,4,6,8,9,20 en 31, en de in artikel 2b van het Besluit werkingssfeer [Wet tarieven gezondheidszorg](../../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md) 1992 (Stb. 1991, 732) als orgaan voor gezondheidszorg aangewezen instellingen. 
 
-1. Het stelsel van budgettering wordt gehandhaafd.  
+1. Het stelsel van budgettering wordt gehandhaafd. 
 
-2. Op de aanvaardbare kosten 1993 wordt een zodanige korting toegepast, dat in dat jaar in totaal een verlaging van f 119 mln wordt gerealiseerd.  
+2. Op de aanvaardbare kosten 1993 wordt een zodanige korting toegepast, dat in dat jaar in totaal een verlaging van f 119 mln wordt gerealiseerd. 
 
-3. Op de aanvaardbare kosten 1993 van de algemene topziekenhuizen wordt vanaf 1993 additioneel een structurele korting van in totaal f 22.5 mln toegepast.  
+3. Op de aanvaardbare kosten 1993 van de algemene topziekenhuizen wordt vanaf 1993 additioneel een structurele korting van in totaal f 22.5 mln toegepast. 
 
-4. In de richtlijnen ter uitvoering van onderhavige aanwijzing dient op basis van artikel 14, lid 1, wtg te worden opgenomen dat het Centraal orgaan tarieven gezondheidszorg de betreffende tarieven ambtshalve vaststelt. Bij deze vaststelling dient te worden vermeden dat het tarief te vaak wijziging ondergaat.   
+4. In de richtlijnen ter uitvoering van onderhavige aanwijzing dient op basis van artikel 14, lid 1, wtg te worden opgenomen dat het Centraal orgaan tarieven gezondheidszorg de betreffende tarieven ambtshalve vaststelt. Bij deze vaststelling dient te worden vermeden dat het tarief te vaak wijziging ondergaat.  
 
 ####Aanwijzing op grond van [artikel 14 van de Wet tarieven gezondheidszorg](../../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md)
 
 De werkingssfeer van deze aanwijzing strekt zich uit tot de in artikel 1, onder A, onder nummer 2 van het Besluit werkingssfeer [Wet tarieven gezondheidszorg](../../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md) 1992 (Stb. 1991, 732) als orgaan voor gezondheidszorg aangewezen instellingen. 
 
-1. Het stelsel van budgettering wordt gehandhaafd.  
+1. Het stelsel van budgettering wordt gehandhaafd. 
 
-2. Op de aanvaardbare kosten 1993 wordt een zodanige korting toegepast, dat in dat jaar in totaal een verlaging van f 17 mln wordt gerealiseerd.  
+2. Op de aanvaardbare kosten 1993 wordt een zodanige korting toegepast, dat in dat jaar in totaal een verlaging van f 17 mln wordt gerealiseerd. 
 
-3. In de richtlijnen ter uitvoering van onderhavige aanwijzing dient op basis van artikel 14, lid 1, wtg te worden opgenomen dat het Centraal orgaan tarieven gezondheidszorg de betreffende tarieven ambtshalve vaststelt. Bij deze vaststelling dient vermeden te worden dat het tarief te vaak wijziging ondergaat.   
+3. In de richtlijnen ter uitvoering van onderhavige aanwijzing dient op basis van artikel 14, lid 1, wtg te worden opgenomen dat het Centraal orgaan tarieven gezondheidszorg de betreffende tarieven ambtshalve vaststelt. Bij deze vaststelling dient vermeden te worden dat het tarief te vaak wijziging ondergaat.  

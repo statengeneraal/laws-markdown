@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-[Besluit vernieuwde kerndoelen WPO](../../../../../../../../../../AMvB/besluit/vernieuwde/kerndoelen/wpo/BWBR0018844/README.md)   
+[Besluit vernieuwde kerndoelen WPO](../../../../../../../../../../AMvB/besluit/vernieuwde/kerndoelen/wpo/BWBR0018844/README.md) 
 
 ### Artikel  II  
 
-Wijzigt het Besluit trekkende bevolking WPO.   
+Wijzigt het Besluit trekkende bevolking WPO. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -32,7 +32,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 Beatrix  
 
 De Minister van Onderwijs, Cultuur en Wetenschap , 
-M. J. A. van der Hoeven   
+M. J. A. van der  Hoeven   
 
 de *derde* november 2005 
 

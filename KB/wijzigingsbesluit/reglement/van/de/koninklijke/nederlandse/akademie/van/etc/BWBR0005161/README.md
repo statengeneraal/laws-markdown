@@ -13,15 +13,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Het aantal verzoeken dat de universiteiten kunnen indienen ingevolge artikel 24 *b,* eerste lid, is in ieder geval voor de jaren 1991, 1992 en 1993 beperkt tot in het protocol nader te bepalen aantallen en voorwaarden.  
+Het aantal verzoeken dat de universiteiten kunnen indienen ingevolge artikel 24*b,* eerste lid, is in ieder geval voor de jaren 1991, 1992 en 1993 beperkt tot in het protocol nader te bepalen aantallen en voorwaarden. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
 Onze Minister van Onderwijs en Wetenschappen is belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.   
 

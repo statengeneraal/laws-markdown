@@ -18,20 +18,20 @@ behandelingen met uitsluitend of voornamelijk uitneembare apparatuur;
 
 behandeling met partieel vaste apparatuur;  
 
-behandeling met volledig vaste apparatuur in boven- en onderkaak.    
+behandeling met volledig vaste apparatuur in boven- en onderkaak.   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dan na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dan na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  3  
 
-Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.  
+Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst. 
 
 De 
 Staatssecretaris van Welzijn, Volksgezondheid en Cultuur, 
-Hans J.Simons 
+Hans J.Simons   
 
 De 
 Minister van Economische Zaken, 
-J.E.Andriessen    
+J.E. Andriessen     

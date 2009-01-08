@@ -15,21 +15,21 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder maand: de periode, gerekend van een datum tot de overeenkomstige datum van de volgende kalendermaand.  
+In dit besluit wordt verstaan onder maand: de periode, gerekend van een datum tot de overeenkomstige datum van de volgende kalendermaand. 
 
 ### Artikel  2  
 
-Een militair met de rang van sergeant, korporaal der eerste klasse, korporaal of een met een van die rangen gelijkgestelde rang, die een voor ten minste de tijd van zes maanden gesloten verbintenis als omschreven in artikel 2 van het Besluit verbintenissen reserve-personeel beneden de rang van tweede-luitenant Landmacht, *Stb.* 1952, nr 496, ten volle heeft volbracht, dan wel door een niet aan hemzelf te wijten oorzaak niet ten volle heeft kunnen volbrengen, en deswege van die verbintenis is ontheven, of wiens verbintenis door een niet aan hemzelf te wijten oorzaak van rechtswege is geëindigd binnen het tijdvak waarvoor zij is aangegaan, heeft voor elke maand, welke hij krachtens de bedoelde verbintenis in werkelijke dienst heeft doorgebracht, zulks tot ten hoogste achtenveertig maanden, aanspraak op een geldelijke uitkering ten bedrage van: 
+Een militair met de rang van sergeant, korporaal der eerste klasse, korporaal of een met een van die rangen gelijkgestelde rang, die een voor ten minste de tijd van zes maanden gesloten verbintenis als omschreven in artikel 2 van het Besluit verbintenissen reserve-personeel beneden de rang van tweede-luitenant Landmacht, *Stb.* 1952, nr 496, ten volle heeft volbracht, dan wel door een niet aan hemzelf te wijten oorzaak niet ten volle heeft kunnen volbrengen, en deswege van die verbintenis is ontheven, of wiens verbintenis door een niet aan hemzelf te wijten oorzaak van rechtswege is geëindigd binnen het tijdvak waarvoor zij is aangegaan, heeft voor elke maand, welke hij krachtens de bedoelde verbintenis in werkelijke dienst heeft doorgebracht, zulks tot ten hoogste achtenveertig maanden, aanspraak op een geldelijke uitkering ten bedrage van:  
 
 a. f 170,-, indien hij behoort tot een van nader door Onze Minister van Oorlog aan te wijzen categorieën van technisch geschoolde militairen;  
 
 b. f 90,- indien hij niet behoort tot een der onder *a* bedoelde categorieën van militairen en op de laatste dag van de betrokken maand de rang van sergeant bekleedt;  
 
-c. f 70,- indien hij niet behoort tot een der onder *a* bedoelde categorieën van militairen en op de laatste dag van de betrokken maand de rang van korporaal der eerste klasse of van korporaal bekleedt,   met dien verstande, dat een militair als bedoeld onder *b* en *c* aanspraak op een uitkering slechts kan doen gelden, indien Onze Minister van Oorlog de bepalingen van dit besluit uitdrukkelijk op hem van toepassing heeft verklaard.  
+c. f 70,- indien hij niet behoort tot een der onder *a* bedoelde categorieën van militairen en op de laatste dag van de betrokken maand de rang van korporaal der eerste klasse of van korporaal bekleedt,   met dien verstande, dat een militair als bedoeld onder *b* en *c* aanspraak op een uitkering slechts kan doen gelden, indien Onze Minister van Oorlog de bepalingen van dit besluit uitdrukkelijk op hem van toepassing heeft verklaard. 
 
 ### Artikel  3  
 
-Een uitkering als bedoeld in artikel 2 wordt uitbetaald binnen twee weken nadat daarop aanspraak is ontstaan, tenzij de belanghebbende te kennen geeft, dat hij aan uitbetaling op een later tijdstip of aan uitbetaling in termijnen de voorkeur geeft, in welk geval zulks kan plaats vinden met toepassing van door Onze Minister van Oorlog ter zake gestelde regelen.  
+Een uitkering als bedoeld in artikel 2 wordt uitbetaald binnen twee weken nadat daarop aanspraak is ontstaan, tenzij de belanghebbende te kennen geeft, dat hij aan uitbetaling op een later tijdstip of aan uitbetaling in termijnen de voorkeur geeft, in welk geval zulks kan plaats vinden met toepassing van door Onze Minister van Oorlog ter zake gestelde regelen. 
 
 Onze Minister van Oorlog is belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.   
 

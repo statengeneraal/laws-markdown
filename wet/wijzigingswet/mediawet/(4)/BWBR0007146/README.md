@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-De aanwijzing van een instelling, bedoeld in [artikel 28, onderdeel *l*, van de Mediawet](../../../../../wet/mediawet/BWBR0004149/README.md), zal niet eerder plaatsvinden dan met ingang van 1 januari 1996. Totdat deze aanwijzing heeft plaatsgevonden, wordt het Nederlands Omroepproduktie Bedrijf N.V. geacht te zijn aangewezen op grond van [artikel 28, onderdeel *l*, van de Mediawet](../../../../../wet/mediawet/BWBR0004149/README.md).  
+De aanwijzing van een instelling, bedoeld in [artikel 28, onderdeel *l*, van de Mediawet](../../../../../wet/mediawet/BWBR0004149/README.md), zal niet eerder plaatsvinden dan met ingang van 1 januari 1996. Totdat deze aanwijzing heeft plaatsgevonden, wordt het Nederlands Omroepproduktie Bedrijf N.V. geacht te zijn aangewezen op grond van [artikel 28, onderdeel *l*, van de Mediawet](../../../../../wet/mediawet/BWBR0004149/README.md). 
 
 ### Artikel  III  
 
-Deze wet treedt in werking met ingang van 1 januari 1995.  
+Deze wet treedt in werking met ingang van 1 januari 1995. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

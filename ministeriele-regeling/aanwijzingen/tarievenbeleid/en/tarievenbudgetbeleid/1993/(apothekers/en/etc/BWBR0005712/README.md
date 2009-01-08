@@ -26,10 +26,10 @@ Besluiten:
 
 De 
 Staatssecretaris van Welzijn, Volksgezondheid en Cultuur, 
-Hans J.Simons 
+Hans J.Simons  
 
 De 
 Minister van Economische Zaken, 
-J.E.Andriessen   
+J.E. Andriessen   
 
 Aanwijzing op grond van [artikel 14 van de Wet tarieven gezondheidszorg](../../../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md) De werkingssfeer van deze aanwijzing strekt zich uit tot de in artikel 2, onder a, van het Besluit werkingssfeer [Wet tarieven gezondheidszorg](../../../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md) 1992 (Stb. 1991, 732) genoemde organen voor gezondheidszorg (apothekers en apotheekhoudende huisartsen). In de richtlijn inzake de rekennormpraktijk in de receptregelvergoeding dient in de berekening van de maximumtarieven, per 01-01-1993 het aantal receptregels te worden gesteld op 66.200. In bedoelde richtlijn dient op basis van artikel 14 lid 1 wtg opgenomen te worden dat het Centraal orgaan tarieven gezondheidszorg de betreffende tarieven ambtshalve vaststelt. Bij deze vaststelling dient vermeden te worden dat het tarief te vaak wijziging ondergaat. 

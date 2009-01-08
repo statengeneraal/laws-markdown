@@ -26,7 +26,7 @@ c. Uitkeringsregelingen:
 
 – Het [Werkloosheidsbesluit defensiepersoneel](../../../../../../../../AMvB/werkloosheidsbesluit/defensiepersoneel/BWBR0008113/README.md);  
 
-– Het [Werkloosheidsbesluit beroepsmilitairen bepaalde tijd](../../../../../../../../AMvB/werkloosheidsbesluit/beroepsmilitairen/bepaalde/tijd/BWBR0007212/README.md).      
+– Het [Werkloosheidsbesluit beroepsmilitairen bepaalde tijd](../../../../../../../../AMvB/werkloosheidsbesluit/beroepsmilitairen/bepaalde/tijd/BWBR0007212/README.md).     
 
 ### Artikel  2  
 
@@ -42,24 +42,24 @@ De Staatssecretaris verleent aan KPMG het volgende mandaat:
 
 4. KPMG is bevoegd om inzake de uitvoering van de uitkeringsregelingen namens de Staatssecretaris in rechte op te treden en om namens de Staatssecretaris tegen rechterlijke uitspraken ter zake al dan niet hoger beroep of cassatie in te stellen. Indien het een zaak betreft met een kennelijk aanzienlijk financieel of rechtspositioneel belang, oefent KPMG deze bevoegdheid niet uit dan na verkregen instemming van de Staatssecretaris. KPMG is in dat geval bevoegd om vooruitlopend hierop zo nodig voorlopig hoger beroep of cassatie in te stellen.  
 
-5. KPMG is bevoegd tot het schriftelijk verlenen van ondermandaat aan bij KPMG in dienst zijnde functionarissen. KPMG houdt een register bij van verleende ondermandaten. Het register bevat de namen van de functionarissen van KPMG die op basis van het ondermandaat besluiten kunnen nemen, alsmede gegevens omtrent de inhoud van het ondermandaat.    
+5. KPMG is bevoegd tot het schriftelijk verlenen van ondermandaat aan bij KPMG in dienst zijnde functionarissen. KPMG houdt een register bij van verleende ondermandaten. Het register bevat de namen van de functionarissen van KPMG die op basis van het ondermandaat besluiten kunnen nemen, alsmede gegevens omtrent de inhoud van het ondermandaat.   
 
 ### Artikel  3  
 
 ####Ondertekening
 
-De stukken die op grond van dit besluit worden afgedaan en ondertekend, vermelden aan het slot: De Staatssecretaris van Defensie, voor deze: ………………… (de functie van de ondertekenaar) ………………… (handtekening en naam van de functionaris)  
+De stukken die op grond van dit besluit worden afgedaan en ondertekend, vermelden aan het slot: De Staatssecretaris van Defensie, voor deze: ………………… (de functie van de ondertekenaar) ………………… (handtekening en naam van de functionaris) 
 
 ### Artikel  4  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 juli 2006.  
+Dit besluit treedt in werking met ingang van 1 juli 2006. 
 
 Den Haag 
 24 juli 2006   
 
 De 
-Staatssecretaris van Defensie, voor deze: de 
+Staatssecretaris van Defensie, voor deze:de 
 Hoofddirecteur Personeel, 
-B.H.J.J.M.Völkers   
+B.H.J.J.M. Völkers     

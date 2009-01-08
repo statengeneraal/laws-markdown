@@ -8,21 +8,21 @@ Besluit:
 
 ### Artikel  1  
 
-Voor subsidieverlening op grond van de [artikelen 9.3](../../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) en [9.4 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) gelden voor de periode van 1 maart 2008 tot en met 31 december 2008 de als bijlage bij dit besluit gevoegde beleidsregels.  
+Voor subsidieverlening op grond van de [artikelen 9.3](../../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) en [9.4 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) gelden voor de periode van 1 maart 2008 tot en met 31 december 2008 de als bijlage bij dit besluit gevoegde beleidsregels. 
 
 ### Artikel  2  
 
-Voor de in artikel 1 genoemde periode geldt een subsidieplafond van € 25.000,00.  
+Voor de in artikel 1 genoemde periode geldt een subsidieplafond van € 25.000,00. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal met de daarbij behorende bijlage in de Staatscourant worden geplaatst.  
 
 De 
-Minister voor Ontwikkelingssamenwerking, namens deze: De 
+Minister voor Ontwikkelingssamenwerking, namens deze:De 
 Directeur-Generaal Internationale Samenwerking, 
-R.J.Treffers  
+R.J. Treffers    
 
 ### Bijlage  
 
@@ -36,5 +36,5 @@ Het Model Verenigde Naties (Model United Nations, hierna te noemen MUN) is een s
 
 – De kosten van individuele delegaties naar of uit het buitenland komen niet voor subsidie in aanmerking;  
 
-– De maximale bijdrage per subsidie-aanvraag is € 10.000,00.    
+– De maximale bijdrage per subsidie-aanvraag is € 10.000,00.   
 

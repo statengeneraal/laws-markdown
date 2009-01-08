@@ -22,21 +22,21 @@ In deze beschikking wordt verstaan onder:
 
 a. minister: de Minister van Onderwijs, Cultuur en Wetenschappen,  
 
-b. uitvoerder: de organisatie die in opdracht van de minister studiekeuze- informatie verzamelt, consolideert en beschikbaar stelt aan derden.    
+b. uitvoerder: de organisatie die in opdracht van de minister studiekeuze- informatie verzamelt, consolideert en beschikbaar stelt aan derden.   
 
 ### Artikel  2  
 
 ####Instelling en duur
 
 1.  Er is een Kwaliteitscollege Studiekeuze Informatie.   
-2.  Het Kwaliteitscollege Studiekeuze Informatie wordt ingesteld voor de duur van het contract met de uitvoerder, te weten een periode van drie jaar, eventueel te verlengen met een termijn van drie jaar.   
+2.  Het Kwaliteitscollege Studiekeuze Informatie wordt ingesteld voor de duur van het contract met de uitvoerder, te weten een periode van drie jaar, eventueel te verlengen met een termijn van drie jaar.  
 
 ### Artikel  3  
 
 ####Taak
 
 1.  Het Kwaliteitscollege Studiekeuze Informatie houdt toezicht op de werkzaamheden van de uitvoerder. Tevens verzamelt het Kwaliteitscollege Studiekeuze Informatie signalen over de maatschappelijke behoefte aan studiekeuze-informatie en creëert het draagvlak, onder meer door onderwijsinstellingen en partijen die gebruik maken van studiekeuze-informatie, te betrekken bij verbeteringen daarvan.   
-2.  Het Kwaliteitscollege Studiekeuze Informatie brengt jaarlijks verslag uit aan de minister.   
+2.  Het Kwaliteitscollege Studiekeuze Informatie brengt jaarlijks verslag uit aan de minister.  
 
 ### Artikel  4  
 
@@ -48,7 +48,7 @@ b. uitvoerder: de organisatie die in opdracht van de minister studiekeuze- infor
 4.  Tot voorzitter, tevens lid, van het Kwaliteitscollege Studiekeuze Informatie is benoemd: mevrouw T. Netelenbos.   
 5.  Tot leden van het Kwaliteitscollege Studiekeuze Informatie zijn voorts benoemd: mevrouw drs. A.H.E. van der Aa en prof. dr. J.C. Akkerboom.   
 6.  De leden van het Kwaliteitscollege Studiekeuze Informatie kunnen zich laten bijstaan door adviseurs.   
-7.  Het secretariaat wordt gevoerd door het Ministerie van Onderwijs, Cultuur en Wetenschappen.   
+7.  Het secretariaat wordt gevoerd door het Ministerie van Onderwijs, Cultuur en Wetenschappen.  
 
 ### Artikel  5  
 
@@ -56,21 +56,21 @@ b. uitvoerder: de organisatie die in opdracht van de minister studiekeuze- infor
 
 1.  Het Kwaliteitscollege Studiekeuze Informatie vergadert zo vaak als zij dit nodig acht, doch ten minste vier maal per jaar.   
 2.  Het Kwaliteitscollege Studiekeuze Informatie stelt haar eigen werkwijze vast.   
-3.  Het Kwaliteitscollege Studiekeuze Informatie kan voorstellen doen voor onderzoek. De opdracht voor onderzoek wordt goedgekeurd en gegeven door de minister.   
+3.  Het Kwaliteitscollege Studiekeuze Informatie kan voorstellen doen voor onderzoek. De opdracht voor onderzoek wordt goedgekeurd en gegeven door de minister.  
 
 ### Artikel  6  
 
 ####Vergoeding
 
 1.  De leden van het Kwaliteitscollege Studiekeuze Informatie ontvangen vacatiegelden op basis van het [Vacatiegeldenbesluit 1988](../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) en de daarop voor het Ministerie van Onderwijs, Cultuur en Wetenschappen geldende bepalingen, waarbij het Kwaliteitscollege Studiekeuze Informatie als zwaar college in de zin van het [Vacatiegeldenbesluit 1988](../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) wordt aangemerkt.   
-2.  De leden van het Kwaliteitscollege Studiekeuze Informatie ontvangen een vergoeding voor de reis- en verblijfkosten volgens een door de minister voorgeschreven wijze.   
+2.  De leden van het Kwaliteitscollege Studiekeuze Informatie ontvangen een vergoeding voor de reis- en verblijfkosten volgens een door de minister voorgeschreven wijze.  
 
 ### Artikel  7  
 
 ####Publicatie en inwerkingtreding
 
-Deze beschikking treedt in werking met ingang van de dag van bekendmaking in de Staatscourant.  
+Deze beschikking treedt in werking met ingang van de dag van bekendmaking in de Staatscourant. 
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschappen
-A.D.S.M.Nijs    
+Staatssecretaris van Onderwijs, Cultuur en Wetenschappen 
+A.D.S.M. Nijs      

@@ -31,7 +31,7 @@ c. cichorei-extract: de geconcentreerde waar die wordt verkregen door extractie 
 
 1.  Het is verboden koffie- en cichorei-extracten te bereiden of te verhandelen, die niet voldoen aan de bij dit besluit gestelde eisen met betrekking tot hun samenstelling.   
 2.  Het is verboden koffie- en cichorei-extracten te verhandelen anders dan met inachtneming van de voorschriften, bij dit besluit gesteld met betrekking tot hun aanduiding en tot het bezigen van vermeldingen.   
-3.  Het is verboden met gebruikmaking van de bij dit besluit aangegeven aanduidingen andere waren te verhandelen dan die waaraan die aanduidingen bij dit besluit zijn voorbehouden.   
+3.  Het is verboden met gebruikmaking van de bij dit besluit aangegeven aanduidingen andere waren te verhandelen dan die waaraan die aanduidingen bij dit besluit zijn voorbehouden.  
 
 ### §  2  
 
@@ -49,7 +49,7 @@ c. cichorei-extract: de geconcentreerde waar die wordt verkregen door extractie 
 2.  Koffie-extract in vaste of pastavorm bevat geen andere bestanddelen dan die welke afkomstig zijn van de extractie van koffie.   
 3.  Het gehalte aan niet uit de cichorei afkomstige stoffen bedraagt bij cichorei-extract in vaste vorm en in pastavorm ten hoogste 1 gewichtsprocent.   
 4.  Vloeibaar koffie-extract bevat ten hoogste 12 gewichtsprocent al dan niet gebrande suiker(s).   
-5.  Vloeibaar cichorei-extract bevat ten hoogste 35 gewichtsprocent al dan niet gebrande suiker(s).   
+5.  Vloeibaar cichorei-extract bevat ten hoogste 35 gewichtsprocent al dan niet gebrande suiker(s).  
 
 ### Artikel  4  
 
@@ -66,7 +66,7 @@ a. voor cichorei-extract 95 of meer gewichtsprocent;
 
 b. voor cichorei-extractpasta ten minste 70 en ten hoogste 85 gewichtsprocent;  
 
-c. voor vloeibaar cichorei-extract ten minste 25 en ten hoogste 55 gewichtsprocent.     
+c. voor vloeibaar cichorei-extract ten minste 25 en ten hoogste 55 gewichtsprocent.    
 
 ### §  3  
 
@@ -74,10 +74,10 @@ c. voor vloeibaar cichorei-extract ten minste 25 en ten hoogste 55 gewichtsproce
 
 ### Artikel  5  
 
-1.  De aanduidingen koffie-extract, oplosbaar koffie-extract, oploskoffie of instantkoffie mogen uitsluitend en moeten worden gebezigd voor koffie-extract.   
+1.  De aanduidingen koffie-extract, oplosbaar koffie-extract, oploskoffie of instantkoffie mogen uitsluitend en moeten worden gebezigd voor koffie-extract.    
 2.  De aanduidingen cichorei-extract, oploscichorei of instantcichorei mogen uitsluitend en moeten worden gebezigd voor cichorei-extract.   
 3.  De in het eerste en tweede lid genoemde aanduidingen worden aangevuld, indien van toepassing, met de woorden: «pasta» of «in pastavorm».   
-4.  De in het eerste en tweede lid genoemde aanduidingen worden aangevuld, indien van toepassing, met de woorden: «vloeibaar» of «in vloeibare vorm».   
+4.  De in het eerste en tweede lid genoemde aanduidingen worden aangevuld, indien van toepassing, met de woorden: «vloeibaar» of «in vloeibare vorm».  
 
 ### Artikel  6  
 
@@ -98,11 +98,11 @@ c. voor vloeibaar cichorei-extract ten minste 25 en ten hoogste 55 gewichtsproce
 ### Artikel  7  
 
 1.  Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij dit besluit gestelde regels, worden aangewezen chromatografische, fysische, chemische en andere scheidingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere lid-staat van de Europese Unie aangewezen methoden.   
-2.  Onze Minister kan nadere regels vaststellen inzake de toepassing van het eerste lid.   
+2.  Onze Minister kan nadere regels vaststellen inzake de toepassing van het eerste lid.  
 
 ### Artikel  8  
 
-Wijzigt het Warenwetbesluit Koffie en cichorei.   
+Wijzigt het Warenwetbesluit Koffie en cichorei.  
 
 ### Artikel  9  
 
@@ -110,11 +110,11 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 a. die voldoen aan het [Warenwetbesluit Koffie en cichorei](../../../../../../AMvB/warenwetbesluit/koffie/en/cichorei/BWBR0006097/README.md), zoals dat onmiddellijk voor de datum van inwerkingtreding van dit besluit luidde, nog verhandeld mogen worden tot 13 september 2001;  
 
-b. die vóór 13 september 2001 rechtmatig zijn geëtiketteerd overeenkomstig het [Warenwetbesluit Koffie en cichorei](../../../../../../AMvB/warenwetbesluit/koffie/en/cichorei/BWBR0006097/README.md) zoals dat onmiddellijk voor de inwerkingtreding van dit besluit luidde, nog in de handel mogen worden gebracht totdat de voorraden zijn opgebruikt.    
+b. die vóór 13 september 2001 rechtmatig zijn geëtiketteerd overeenkomstig het [Warenwetbesluit Koffie en cichorei](../../../../../../AMvB/warenwetbesluit/koffie/en/cichorei/BWBR0006097/README.md) zoals dat onmiddellijk voor de inwerkingtreding van dit besluit luidde, nog in de handel mogen worden gebracht totdat de voorraden zijn opgebruikt.   
 
 ### Artikel  10  
 
-Dit besluit wordt aangehaald als: Warenwetbesluit Koffie- en cichorei-extracten.  
+Dit besluit wordt aangehaald als: Warenwetbesluit Koffie- en cichorei-extracten. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -128,4 +128,4 @@ E. Borst-Eilers
 de *vijftiende* mei 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

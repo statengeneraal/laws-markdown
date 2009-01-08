@@ -4,13 +4,13 @@
 
 De Minister van Volksgezondheid, Welzijn en Sport;  
 Overwegende dat in het convenant van 20 september 1999 over de nieuwe aanpak voor de bepaling van de ova voor het VWS-veld is voorzien in het instellen van een rekencommissie,
-Besluit:     
+Besluit:      
 
 ####Begripsomschrijving
 
 ### Artikel  1  
 
-Voor de toepassing van dit besluit wordt verstaan onder:   a. de minister:  de Minister van Volksgezondheid, Welzijn en sport;    b. de ova:  de overheidsbijdrage in de arbeidskostenontwikkeling waarvan de bepaling is vastgelegd in het convenant ’nieuwe aanpak voor de ova’;    c. de commissie:  de commissie, genoemd in artikel 2.     
+Voor de toepassing van dit besluit wordt verstaan onder: a.de minister: de Minister van Volksgezondheid, Welzijn en sport;b. de ova: de overheidsbijdrage in de arbeidskostenontwikkeling waarvan de bepaling is vastgelegd in het convenant ’nieuwe aanpak voor de ova’;c.de commissie: de commissie, genoemd in artikel 2.  
 
 ####Taak en samenstelling van de commissie
 
@@ -22,11 +22,11 @@ De taak van de rekencommissie is omschreven in artikel 5 van het convenant over 
 
 1.  Tot lid van de commissie worden benoemd: 
 
-a. als voorzitter: drs. H.J. Brouwer, Amsterdam;  
+a.  als voorzitter: drs. H.J. Brouwer, Amsterdam; 
 
-b. als lid: prof. dr. J.J.M. Theeuwes, Amsterdam;  
+b.  als lid: prof. dr. J.J.M. Theeuwes, Amsterdam; 
 
-c. als lid: prof. dr. A.H.J. Kolnaar, Tilburg.     
+c.  als lid: prof. dr. A.H.J. Kolnaar, Tilburg.    
 2.  De leden worden benoemd voor een tijdvak van vier jaar. Herbenoeming is tweemaal mogelijk.   
 
 ####Secretariaat
@@ -58,9 +58,9 @@ Het besluit adviescommissie VWS-overleg vervalt.
 
 ### Artikel  9  
 
-Dit besluit kan worden aangehaald als Besluit Rekencommissie ova voor het VWS-veld.  
+Dit besluit kan worden aangehaald als Besluit Rekencommissie ova voor het VWS-veld. 
 Van dit besluit wordt mededeling gedaan in de Staatscourant.   
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-E.Borst-Eilers    
+E. Borst-Eilers      

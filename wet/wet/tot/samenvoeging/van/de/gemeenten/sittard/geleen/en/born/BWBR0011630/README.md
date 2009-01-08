@@ -7,22 +7,22 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
 Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeenten Sittard, Geleen en Born samen te voegen;
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
-### Paragraaf  1  
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
+###Paragraaf 1 
 
 ####Opheffing en instelling van gemeenten
 
 ### Artikel  1  
 
-Met ingang van de datum van herindeling worden de gemeenten Sittard, Geleen en Born opgeheven.  
+Met ingang van de datum van herindeling worden de gemeenten Sittard, Geleen en Born opgeheven. 
 
 ### Artikel  2  
 
-Met ingang van de datum van herindeling wordt de nieuwe gemeente Sittard-Geleen ingesteld, zoals aangegeven op de bij deze wet behorende kaart.  
+Met ingang van de datum van herindeling wordt de nieuwe gemeente Sittard-Geleen ingesteld, zoals aangegeven op de bij deze wet behorende kaart. 
 
 ### Artikel  3  
 
-De nieuwe gemeente Sittard-Geleen bestaat uit het grondgebied van de op te heffen gemeenten Sittard, Geleen en Born.  
+De nieuwe gemeente Sittard-Geleen bestaat uit het grondgebied van de op te heffen gemeenten Sittard, Geleen en Born. 
 
 ### Paragraaf  2  
 
@@ -38,44 +38,44 @@ De grens van de gemeente Susteren wordt gewijzigd als aangegeven op de bij deze 
 
 ### Artikel  5  
 
-Voor de nieuwe gemeente Sittard-Geleen wordt de op te heffen gemeente Sittard aangewezen voor de toepassing van [artikel 36 van de Wet algemene regels herindeling](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), in verband met de toepassing van de instructies en reglementen, bedoeld in dat artikel.  
+Voor de nieuwe gemeente Sittard-Geleen wordt de op te heffen gemeente Sittard aangewezen voor de toepassing van [artikel 36 van de Wet algemene regels herindeling](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), in verband met de toepassing van de instructies en reglementen, bedoeld in dat artikel. 
 
 ### Artikel  6  
 
 Voor de op te heffen gemeenten Sittard, Geleen en Born wordt de nieuwe gemeente Sittard-Geleen aangewezen voor de toepassing van de volgende bepalingen van de [Wet algemene regels herindeling](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md): 
 
-a. [artikel 39, tweede lid](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), in verband met de heffing en invordering van gemeentelijke belastingen;  
+a.  [artikel 39, tweede lid](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), in verband met de heffing en invordering van gemeentelijke belastingen;  
 
-b. [artikel 41, derde lid](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), in verband met de deelneming aan gemeenschappelijke regelingen;  
+b.  [artikel 41, derde lid](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), in verband met de deelneming aan gemeenschappelijke regelingen;  
 
 c. de [artikelen 44, eerste lid](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), en [45, tweede lid](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), in verband met de overgang van rechten en verplichtingen.  
 
-d. [artikel 48, tweede lid](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), in verband met de uitkeringen, bedoeld in dat artikel;  
+d.  [artikel 48, tweede lid](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), in verband met de uitkeringen, bedoeld in dat artikel;  
 
-e. [artikel 59, eerste lid](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), in verband met de overgang van ambtenaren.    
+e.  [artikel 59, eerste lid](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), in verband met de overgang van ambtenaren.   
 
 ### Artikel  7  
 
 1.  Voor de nieuwe gemeente Sittard-Geleen die bij deze wet wordt ingesteld, wordt een tussentijdse raadsverkiezing gehouden als bedoeld in [artikel 52, tweede lid, onderdeel a, van de Wet algemene regels herindeling](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md).   
 2.  Met de voorbereiding van de tussentijdse raadsverkiezing voor de nieuwe gemeente Sittard-Geleen wordt de op te heffen gemeente Sittard belast.   
-3.  Indien de datum van herindeling valt binnen twee jaar voor de datum waarop reguliere verkiezingen voor de leden van de gemeenteraden ingevolge de [Kieswet](../../../../../../../../../../../../wet/kieswet/BWBR0004627/README.md) moeten worden gehouden, dan vinden deze verkiezingen niet plaats in de gemeente Sittard-Geleen die bij deze wet is ingesteld.   
-4.  De zittingsperiode van de leden van de raad van de nieuwe gemeente eindigt in de in het derde lid bedoelde situatie gelijk met de zittingsperiode van de leden van de raden van de overige gemeenten die volgt op de eerste verkiezingen voor de gemeenteraden na de datum van herindeling.   
+3.  Indien de datum van herindeling valt binnen twee jaar voor de datum waarop reguliere verkiezingen voor de leden van de gemeenteraden ingevolge de[ Kieswet](../../../../../../../../../../../../wet/kieswet/BWBR0004627/README.md) moeten worden gehouden, dan vinden deze verkiezingen niet plaats in de gemeente Sittard-Geleen die bij deze wet is ingesteld.   
+4.  De zittingsperiode van de leden van de raad van de nieuwe gemeente eindigt in de in het derde lid bedoelde situatie gelijk met de zittingsperiode van de leden van de raden van de overige gemeenten die volgt op de eerste verkiezingen voor de gemeenteraden na de datum van herindeling.  
 
 ### Artikel  8  
 
-Wijzigt de Wet op de rechterlijke indeling.   
+Wijzigt de Wet op de rechterlijke indeling.  
 
 ### Artikel  9  
 
-Wijzigt de Politiewet.   
+Wijzigt de Politiewet.  
 
 ### Artikel  10  
 
-Gedeputeerde staten van Limburg kunnen bij de vaststelling van de grensbeschrijving, bedoeld in de [artikel 10, tweede lid, van de Wet algemene regels herindeling](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), kennelijke onjuistheden verbeteren in de grenzen zoals die zijn aangegeven op de bij deze wet behorende kaart. Zij zenden de gecorrigeerde kaart zo spoedig mogelijk naar Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.  
+Gedeputeerde staten van Limburg kunnen bij de vaststelling van de grensbeschrijving, bedoeld in de [artikel 10, tweede lid, van de Wet algemene regels herindeling](../../../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), kennelijke onjuistheden verbeteren in de grenzen zoals die zijn aangegeven op de bij deze wet behorende kaart. Zij zenden de gecorrigeerde kaart zo spoedig mogelijk naar Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties. 
 
 ### Artikel  11  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

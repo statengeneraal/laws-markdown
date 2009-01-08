@@ -10,23 +10,23 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.   
+Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie. 
 
 ### Artikel  II  
 
-Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.   
+Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie. 
 
 ### Artikel  III  
 
-Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.   
+Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie. 
 
 ### Artikel  IV  
 
-Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.   
+Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie. 
 
 ### Artikel  V  
 
-Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.   
+Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie. 
 
 ### Artikel  VI  
 
@@ -38,9 +38,9 @@ Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.
 ### Artikel  VII  
 
 1.  Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, met dien verstande dat het opnemen in het [onderdeel 1 of 2 van bijlage A bij het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie voor de rechtspersonen](../../../../../../../../../AMvB/aanwijzingsbesluit/rechtspersonen/met/een/beperkte/kasbeheerfunctie/BWBR0017117/README.md), genoemd in [artikel 1](../../../../../../../../../AMvB/aanwijzingsbesluit/rechtspersonen/met/een/beperkte/kasbeheerfunctie/BWBR0017117/README.md), respectievelijk [artikel 3](../../../../../../../../../AMvB/aanwijzingsbesluit/rechtspersonen/met/een/beperkte/kasbeheerfunctie/BWBR0017117/README.md), terugwerkt tot en met de datum waarop deze rechtspersonen daadwerkelijk aan het schatkistbankieren zijn gaan deelnemen.   
-2.  Dit besluit wordt aangehaald als: Eerste wijzigingsbesluit aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.   
+2.  Dit besluit wordt aangehaald als: Eerste wijzigingsbesluit aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.  
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Financiën, 
-W.J.Bos   
+W.J. Bos     

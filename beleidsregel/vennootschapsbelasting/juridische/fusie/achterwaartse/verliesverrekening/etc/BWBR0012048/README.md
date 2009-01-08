@@ -56,5 +56,5 @@ c. De vóór het fusietijdstip behaalde winsten van de verdwijnende rechtspersoo
 
 d. Indien verrekening van verlies overeenkomstig c. heeft plaatsgevonden, vervalt de mogelijkheid dat verlies te verrekenen met winsten van de verkrijgende rechtspersoon.    
 
-2. Deze goedkeuring geldt slechts in het geval dat de juridische fusie plaatsvindt met toepassing van artikel 14b, tweede of derde lid, van de Wet Vpb.   Hoogachtend, Belastingdienst/<aanduiding eenheid + plaats> De inspecteur, ...............................................................  
+2. Deze goedkeuring geldt slechts in het geval dat de juridische fusie plaatsvindt met toepassing van artikel 14b, tweede of derde lid, van de Wet Vpb.   Hoogachtend, Belastingdienst/<aanduiding eenheid + plaats> De inspecteur, ............................................................... 
 

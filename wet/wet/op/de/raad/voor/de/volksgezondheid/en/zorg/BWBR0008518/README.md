@@ -6,17 +6,17 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een vast college van advies van het Rijk in te stellen op het terrein van de volksgezondheid en de zorggerelateerde dienstverlening en dat het in verband met [artikel 79 van de Grondwet](../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) noodzakelijk is daartoe wettelijke bepalingen vast te stellen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is een vast college van advies van het Rijk in te stellen op het terrein van de volksgezondheid en de zorggerelateerde dienstverlening en dat het in verband met [artikel 79 van de Grondwet](../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) noodzakelijk is daartoe wettelijke bepalingen vast te stellen; 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  
 
 1.  Er is een Raad voor de volksgezondheid en zorg.   
-2.  De Raad bestaat uit een voorzitter en ten hoogste acht andere leden.   
+2.  De Raad bestaat uit een voorzitter en ten hoogste acht andere leden.  
 
 ### Artikel  2  
 
-De Raad heeft tot taak de regering en de beide kamers der Staten-Generaal te adviseren over de hoofdlijnen van het te voeren beleid op het gebied van de volksgezondheid en de zorggerelateerde dienstverlening alsmede op andere gebieden, voor zover deze raakvlakken hebben met de volksgezondheid en de zorggerelateerde dienstverlening.  
+De Raad heeft tot taak de regering en de beide kamers der Staten-Generaal te adviseren over de hoofdlijnen van het te voeren beleid op het gebied van de volksgezondheid en de zorggerelateerde dienstverlening alsmede op andere gebieden, voor zover deze raakvlakken hebben met de volksgezondheid en de zorggerelateerde dienstverlening. 
 
 ### Artikel  3  
 
@@ -30,10 +30,10 @@ Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle 
 
 Gegeven te 's-Gravenhage 
 30 januari 1997  
-Beatrix  
+Beatrix   
 
 De Minister van Volksgezondheid, Welzijn en Sport, 
-E. Borst-Eilers   
+E. Borst-Eilers    
 
 De Staatssecretaris van Binnenlandse Zaken, 
 J. Kohnstamm   

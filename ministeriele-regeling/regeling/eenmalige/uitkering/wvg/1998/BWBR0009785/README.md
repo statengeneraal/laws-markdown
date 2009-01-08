@@ -8,23 +8,23 @@ Handelende na overleg met de Staatssecretaris van Binnenlandse Zaken, mw. A.G.M.
 Gelet op de [artikelen 3, eerste lid](../../../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md), en [9 van de Kaderwet SZW-subsidies](../../../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md);
 Besluit:    
 
-### Artikel  1  
+### Artikel 1  
 
-In deze regeling wordt verstaan onder:   a. Wvg:  de [Wet voorzieningen gehandicapten](../../../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md);    b. minister:  de Minister van Sociale Zaken en Werkgelegenheid.     
+In deze regeling wordt verstaan onder:   a.  Wvg:   de [Wet voorzieningen gehandicapten](../../../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md);    b.  minister:   de Minister van Sociale Zaken en Werkgelegenheid.    
 
-### Artikel  2  
+### Artikel 2  
 
 1.  Voor het kalenderjaar 1998 wordt f 78 miljoen beschikbaar gesteld als additionele middelen voor de uitvoering van de Wvg.   
 2.  De minister verdeelt het bedrag, genoemd in het eerste lid, over de in de bijlage bij deze regeling genoemde gemeenten, waarbij de uitkering wordt vastgesteld op het bedrag dat in de bijlage staat vermeld.   
-3.  De uitkering wordt binnen een periode van 5 weken, te rekenen vanaf de dag van inwerkingtreding van deze regeling, aan de gemeenten betaald.   
+3.  De uitkering wordt binnen een periode van 5 weken, te rekenen vanaf de dag van inwerkingtreding van deze regeling, aan de gemeenten betaald.  
 
-### Artikel  3  
+### Artikel 3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
-### Artikel  4  
+### Artikel 4  
 
-Deze regeling wordt aangehaald als: Regeling eenmalige uitkering Wvg 1998.  
+Deze regeling wordt aangehaald als: Regeling eenmalige uitkering Wvg 1998. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -32,7 +32,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister voornoemd, 
-A.P.W.Melkert   
+A.P.W. Melkert     
 
 ### Bijlage,  
 
@@ -42,7 +42,7 @@ A.P.W.Melkert
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-|  *Naam gemeente*   |  *1998-extra-bedrag (mln)*   |  *1998-in-guldens*   |
+| *Naam gemeente*  | *1998-extra-bedrag (mln)*  | *1998-in-guldens*  |
 | Amsterdam  | 17.04  | --- | 17043934  | --- |
 | Rotterdam  | 10.20  | --- | 10203636  | --- |
 | ’s-Gravenhage  | 6.59  | --- | 6592625  | --- |
@@ -68,7 +68,7 @@ A.P.W.Melkert
 | Assen  | 0.52  | --- | 519714  | --- |
 | Hoogezand-Sappemeer  | 0.51  | --- | 513974  | --- |
 | --- | --- | --- | --- | --- |
-|  *Naam gemeente*   |  *1998-extra-bedrag (mln)*   |  *1998-in-guldens*   |
+| *Naam gemeente*  | *1998-extra-bedrag (mln)*  | *1998-in-guldens*  |
 | Geleen  | 0.51  | --- | 511185  | --- |
 | Brunssum  | 0.49  | --- | 493133  | --- |
 | Zeist  | 0.49  | --- | 491907  | --- |

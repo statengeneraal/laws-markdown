@@ -15,23 +15,23 @@ Hebben goedgevonden en verstaan;
 
 ### Artikel  I  
 
-Wijzigt het Algemeen Rijksambtenarenreglement.   
+Wijzigt het Algemeen Rijksambtenarenreglement.  
 
 ### Artikel  II  
 
-Wijzigt het Ambtenarenreglement Staten-Generaal.   
+Wijzigt het Ambtenarenreglement Staten-Generaal.  
 
 ### Artikel  III  
 
-Wijzigt het Reglement Dienst Buitenlandse Zaken.   
+Wijzigt het Reglement Dienst Buitenlandse Zaken.  
 
 ### Artikel  IV  
 
-Op degene op wie [Artikel II van de wet van 15 juli 1998 tot wijziging van de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement ter wijziging van de nonactiviteitsbepalingen](../../../../../../../../../../wet/wijzigingswet/wet/incompatibiliteiten/staten-generaal/en/europees/etc/BWBR0009788/README.md) (Stb. 1998, 507) van toepassing is, blijft [artikel 16 van het Algemeen Rijksambtenarenreglement](../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), zoals dat luidde op de dag voorafgaande aan de datum van inwerkingtreding van dit besluit, van kracht.  
+Op degene op wie [Artikel II van de wet van 15 juli 1998 tot wijziging van de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement ter wijziging van de nonactiviteitsbepalingen](../../../../../../../../../../wet/wijzigingswet/wet/incompatibiliteiten/staten-generaal/en/europees/etc/BWBR0009788/README.md) (Stb. 1998, 507) van toepassing is, blijft [artikel 16 van het Algemeen Rijksambtenarenreglement](../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), zoals dat luidde op de dag voorafgaande aan de datum van inwerkingtreding van dit besluit, van kracht. 
 
 ### Artikel  V  
 
-De ambtenaar die tussen 21 augustus 1998 en het tijdstip van inwerkingtreding van dit besluit is benoemd of verkozen tot lid van de Tweede Kamer der Staten-Generaal of het Europees Parlement wordt geacht een verzoek tot ontheffing te hebben gedaan als bedoeld in [artikel 3, zesde lid, van de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement](../../../../../../../../../../wet/wet/incompatibiliteiten/staten-generaal/en/europees/parlement/BWBR0006612/README.md) en op grond daarvan uit zijn ambtelijke functie te zijn ontheven.  
+De ambtenaar die tussen 21 augustus 1998 en het tijdstip van inwerkingtreding van dit besluit is benoemd of verkozen tot lid van de Tweede Kamer der Staten-Generaal of het Europees Parlement wordt geacht een verzoek tot ontheffing te hebben gedaan als bedoeld in [artikel 3, zesde lid, van de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement](../../../../../../../../../../wet/wet/incompatibiliteiten/staten-generaal/en/europees/parlement/BWBR0006612/README.md) en op grond daarvan uit zijn ambtelijke functie te zijn ontheven. 
 
 ### Artikel  VI  
 
@@ -53,4 +53,4 @@ J. J. van Aartsen
 de derde augustus 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

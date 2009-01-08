@@ -11,28 +11,28 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Kieswet.   
+Wijzigt de Kieswet. 
 
 ### Artikel  II  
 
-Wijzigt de Algemene wet bestuursrecht.   
+Wijzigt de Algemene wet bestuursrecht. 
 
 ### Artikel  III  
 
-Vervallen  
+Vervallen 
 
 ### Artikel  IV  
 
 1.  Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.   
-2.  Indien het bij koninklijke boodschap van 20 april 2007 ingediende voorstel van wet tot verandering in de Grondwet, strekkende tot het vervallen van de bepaling over het uitsluiten van wilsonbekwamen van het kiesrecht (31 012), na tot wet te zijn verheven in werking treedt voor het tijdstip waarop deze wet in werking treedt, eindigt de termijn gedurende welke [artikel 54, tweede lid, van de Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md), naar de tekst van 1983, van kracht blijft, op het tijdstip waarop deze wet in werking treedt.   
+2.  Indien het bij koninklijke boodschap van 20 april 2007 ingediende voorstel van wet tot verandering in de Grondwet, strekkende tot het vervallen van de bepaling over het uitsluiten van wilsonbekwamen van het kiesrecht (31 012), na tot wet te zijn verheven in werking treedt voor het tijdstip waarop deze wet in werking treedt, eindigt de termijn gedurende welke [artikel 54, tweede lid, van de Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md), naar de tekst van 1983, van kracht blijft, op het tijdstip waarop deze wet in werking treedt.  
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te 
 
 ’s-Gravenhage 
 25 september 2008  
 Beatrix  
 
-De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties , 
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties ,  
 A. Th. B. Bijleveld-Schouten   
 
 de *eenentwintigste* oktober 2008 

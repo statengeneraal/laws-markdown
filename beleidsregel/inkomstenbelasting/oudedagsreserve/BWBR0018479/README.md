@@ -36,13 +36,13 @@ De navolgende (onderdelen van) besluiten zijn geactualiseerd en overgenomen in d
 ###Begrippenlijst
 
 Wet IB 2001: de Wet Wet op de vennootschapsbelasting 1969: Wet Vpb Algemene wet inzake rijksbelastingen: AWR    
-### 1  
+### 1 
 
 ####Toevoegingen (artikel 3.68)
 
-### 1.1  
+### 1.1 
 
-####Toevoegen in jaar van staken (inhoudelijk ongewijzigd, voorheen Besluit van 9 november 2001, nr. CPP2001/3034M)
+#### Toevoegen in jaar van staken (inhoudelijk ongewijzigd, voorheen Besluit van 9 november 2001, nr. CPP2001/3034M)
 
 ###Dotatie oudedagsreserve en staking
 
@@ -62,7 +62,7 @@ b. De op grond van voorwaarde 1 berekende toevoeging bedraagt ten hoogste het be
 c. De toevoeging aan de oudedagsreserve over het jaar van staken wordt gebuikt om een lijfrente aan te schaffen, zoals bedoeld in artikel 3.70, eerste lid, onderdeel a, juncto artikel 3.128 van de Wet, eventueel met gebruikmaking van de termijn als bedoeld in artikel 3.130, tweede lid van de Wet.  
 
 d. Aan de overige voorwaarden voor toevoeging aan de oudedagsreserve wordt voldaan.      
-### 1.2  
+### 1.2 
 
 ####Vermogenstoets oudedagsreserve (inhoudelijk ongewijzigd, voorheen Besluit van 14 november 2000, nr. CPP2000/2120M)
 
@@ -76,11 +76,11 @@ Ik acht in de hierna genoemde situaties geen onbillijkheid van overwegende aard 
 a. Als een belastingplichtige (een gedeelte van) een onderneming met toepassing van artikel 3.63 van de Wet overneemt en de overnameprijs geheel of gedeeltelijk schuldig blijft en/of met vreemd vermogen financiert, behoort de daarmee samenhangende schuld verplicht tot zijn ondernemingsvermogen (Hoge Raad, 29 januari 1986, nr. 23 265, BNB 1986/89). Aangezien de boekwaarde van de activa gesteld wordt op de waarde waarvoor ze bij de overdragende belastingplichtige te boek stonden, kan het gevolg zijn dat het ondernemingsvermogen laag of negatief wordt.  
 
 b. Door toepassing van de regeling van de willekeurige afschrijving (artikel 3.31 tot en met artikel 3.39 van de Wet) kan het ondernemingsvermogen dalen, waardoor een laag of negatief ondernemingsvermogen kan ontstaan.   Belanghebbenden zullen hiermee rekening moeten houden als zij gebruik willen maken van deze regelingen.     
-### 2  
+### 2 
 
 ####Extra toevoegingen (artikel 3.69)
 
-### 2.1  
+### 2.1 
 
 ####Extra toevoegingen en geruisloze terugkeer; oprenting (inhoudelijk ongewijzigd, voorheen Besluit van 19 december 2002, nr. CPP2002/2456M, onderdeel F 2, vraag a)
 
@@ -90,11 +90,11 @@ In samenhang met de toepassing van de faciliteit van de geruisloze terugkeer als
 ###Maximale dotatie
 
 De extra toevoeging aan de oudedagsreserve op grond van artikel 3.69, eerste lid, onderdeel b, van de Wet bedraagt maximaal het bedrag van de oudedagsreserve waarvoor de voortzettende aandeelhouder bij de vennootschap een lijfrente heeft bedongen. Doordat niet de mogelijkheid bestaat de waardeaangroei van de lijfrente in een oudedagsreserve om te zetten, wordt voorkomen dat de ondernemer die na een tussentijdse rechtsvormwijziging zijn onderneming wederom als ondernemer voortzet in zoverre meer aan de oudedagsreserve heeft opgebouwd dan een belastingplichtige die zijn onderneming altijd als ondernemer is blijven drijven. Fiscaal wordt de waardeaangroei van de oudedagslijfrente bij de ontbinding van de vennootschap op gelijke wijze behandeld als de overige lijfrenterechten die niet zijn ontstaan uit een eerdere afname van de oudedagsreserve. Dit gedeelte zal, indien het voor verwezenlijking vatbaar is, worden aangemerkt als negatieve uitgave voor inkomensvoorziening als bedoeld in artikel 3.133, van de Wet, tenzij bij een op grond van artikel 3.126 van de Wet toegelaten aanbieder een ander recht wordt bedongen dat op grond van artikel 3.134, eerste lid, van de Wet kan worden beschouwd als een (gedeeltelijke) voortzetting van het eerste recht.     
-### 3  
+### 3 
 
 ####Oudedagsreserve en balanspositie
 
-### 3.1  
+### 3.1 
 
 ####Presentatie vóór en vanaf kalenderjaar 2004 of boekjaar 2003/2004 (inhoudelijk gewijzigd, voorheen Besluit van 14 augustus 2002, nr. CPP2002/2386M, vraag 2)
 
@@ -104,7 +104,7 @@ De oudedagsreserve (§ 3.2.3. van de Wet) maakt vanaf de invoering van de Wet on
 ###Presentatie
 
 Als gevolg van de zogenoemde administratie-eis is in de toelichting op de aangifte inkomstenbelasting gevraagd de oudedagsreserve op de balans op te nemen. Om praktische overwegingen acht ik het niet bezwaarlijk indien vanuit de commerciële jaarstukken door middel van een aansluitberekening de oudedagsreserve wordt gepresenteerd. Voorwaarde is wel dat de toe- of afname, alsmede de stand van de oudedagsreserve ondubbelzinnig uit deze aansluiting blijkt. Met ingang van het kalenderjaar 2004 dan wel het boekjaar 2003/2004 geldt in verband met de invoering van de elektronische winstaangifte deze toezegging niet meer. De oudedagsreserve dient dan uitsluitend in de daartoe opgenomen onderdelen van de winstaangifte (en de daarbij behorende jaarstukken) te worden opgenomen. Voor ondernemers die een ontheffing hebben voor het indienen van de elektronische winstaangifte is een papieren versie verkrijgbaar; ook in die versie dient de oudedagsreserve in de daartoe opgenomen onderdelen van de aangifte te worden opgenomen.     
-### 4  
+### 4 
 
 ####Inwerkingtreding; intrekken (onderdelen van) voorgaande besluiten
 

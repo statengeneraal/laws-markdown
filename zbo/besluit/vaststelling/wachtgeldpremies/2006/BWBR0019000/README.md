@@ -8,35 +8,35 @@ Besluit:
 
 ### Artikel  1  
 
-De premies die ten gunste komen van de wachtgeldfondsen, bedoeld in [artikel 85, eerste lid, van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), worden voor het jaar 2006 vastgesteld op de percentages, bedoeld in bijlage 1 bij dit besluit.  
+De premies die ten gunste komen van de wachtgeldfondsen, bedoeld in [artikel 85, eerste lid, van de Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), worden voor het jaar 2006 vastgesteld op de percentages, bedoeld in bijlage 1 bij dit besluit. 
 
 ### Artikel  2  
 
-Het Besluit vaststelling wachtgeldpremies 2005 wordt ingetrokken.  
+Het Besluit vaststelling wachtgeldpremies 2005 wordt ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt, onder voorbehoud van goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, in werking met ingang van 1 januari 2006.  
+Dit besluit treedt, onder voorbehoud van goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, in werking met ingang van 1 januari 2006. 
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Besluit vaststelling wachtgeldpremies 2006.  
+Dit besluit wordt aangehaald als: Besluit vaststelling wachtgeldpremies 2006. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Amsterdam 
 8 november 2005   
 
-De Raad van bestuur UWV, 
+De Raad van bestuur UWV,  
 
 de 
 voorzitter, 
-J.M.Linthorst  
+J.M. Linthorst  
 
 ### Bijlage  1  
 
 ####Wachtgeldpremies 2006
 
-| Sectoren  | Premiepercentage  | Premiepercentage Eigenrisicodragers ZW  |
+|  Sectoren   |  Premiepercentage   |  Premiepercentage Eigenrisicodragers ZW   |
 |:---|:---|:---|
 | 1  | Agrarisch bedrijf  | 1,92%  | 1,59%  |
 | 2  | Tabakverwerkende industrie  | 0,95%  | 0,89%  |
@@ -100,9 +100,9 @@ J.M.Linthorst
 | 68  | Railbouw  | 0,00%  | 0,00%  |
 | 69  | Telecommunicatie  | 1,00%  | 0,91%  |
 
-*Premies per premiegroep 2006*  
+*Premies per premiegroep 2006* 
 
-| Sectoren  |--- | Premiepercentage  | Premiepercentage eigenrisicodragers  |
+|  Sectoren   |--- |  Premiepercentage   |  Premiepercentage eigenrisicodragers   |
 |:---|:---|:---|:---|
 | 1  | Premiegroepen sector Agrarisch bedrijf  | --- | --- |
 | --- | Los  | 12,00%  | 9,86%  |

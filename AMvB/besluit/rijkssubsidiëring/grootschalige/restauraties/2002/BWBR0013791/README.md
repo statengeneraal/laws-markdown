@@ -21,7 +21,7 @@ a. eigenaar: een natuurlijke persoon of rechtspersoon die het recht van eigendom
 
 b. restauratie: werkzaamheden aan een beschermd monument, het normale onderhoud te boven gaand, die voor het herstel van het beschermde monument noodzakelijk zijn;  
 
-c. subsidiabele restauratiekosten: kosten als bedoeld in artikel 16 van het Besluit rijkssubsidiëring restauratie monumenten 1997.    
+c. subsidiabele restauratiekosten: kosten als bedoeld in artikel 16 van het Besluit rijkssubsidiëring restauratie monumenten 1997.   
 
 ### Artikel  2  
 
@@ -30,11 +30,11 @@ c. subsidiabele restauratiekosten: kosten als bedoeld in artikel 16 van het Besl
 a. meer bedragen dan € 1 361 340; dan wel  
 
 b. minder bedragen dan € 1 361 340, maar meer bedragen dan € 453 780 en bovendien meer bedragen dan zes maal het budget, bedoeld in artikel 5, eerste of tweede lid, van het Besluit rijkssubsidiëring restauratie monumenten 1997, zoals dat in 1999 ten behoeve van de categorie monumenten waartoe het monument in dat jaar behoorde, voor het jaar 2005 door Onze minister is vastgesteld.     
-2.  Bij de toepassing van het eerste lid worden subsidies die zijn verleend ingevolge het [Besluit rijkssubsidiëring grootschalige restauraties](../../../../../../../AMvB/besluit/rijkssubsidiëring/grootschalige/restauraties/BWBR0011525/README.md) buiten beschouwing gelaten.   
+2.  Bij de toepassing van het eerste lid worden subsidies die zijn verleend ingevolge het [Besluit rijkssubsidiëring grootschalige restauraties](../../../../../../../AMvB/besluit/rijkssubsidiëring/grootschalige/restauraties/BWBR0011525/README.md) buiten beschouwing gelaten.  
 
 ### Artikel  3  
 
-Het Besluit rijkssubsidiëring restauratie monumenten 1997 is van toepassing met uitzondering van de artikelen 1, 2, 4 tot en met 13, 15, eerste lid, tweede volzin, vierde lid, tweede volzin, en zesde lid, 18, 21 en 38 tot en met 49.  
+Het Besluit rijkssubsidiëring restauratie monumenten 1997 is van toepassing met uitzondering van de artikelen 1, 2, 4 tot en met 13, 15, eerste lid, tweede volzin, vierde lid, tweede volzin, en zesde lid, 18, 21 en 38 tot en met 49. 
 
 ### Artikel  4  
 
@@ -44,11 +44,11 @@ a. de financiering van het gedeelte van de kosten van de voorgenomen restauratie
 
 b. het huidige of het beoogde gebruik van het te restaureren monument naar het oordeel van Onze minister een belemmering vormt voor de instandhouding van het monument; of  
 
-c. de voorgenomen restauratie niet kan worden beëindigd vóór 1 januari 2005.    
+c. de voorgenomen restauratie niet kan worden beëindigd vóór 1 januari 2005.   
 
 ### Artikel  5  
 
-Een aanvraag voor subsidie als bedoeld in artikel 2 wordt vóór 15 oktober 2002 ingediend en wordt vóór 15 november 2002 naar Onze minister doorgezonden.  
+Een aanvraag voor subsidie als bedoeld in artikel 2 wordt vóór 15 oktober 2002 ingediend en wordt vóór 15 november 2002 naar Onze minister doorgezonden. 
 
 ### Artikel  6  
 
@@ -60,19 +60,19 @@ a. de mate waarin het monument stedenbouwkundige of landschappelijke waarde heef
 
 b. de mate waarin het monument een publieksfunctie heeft of toeristen aantrekt; en  
 
-c. de mate waarin de restauratie leidt tot investeringen, zowel in het monument zelf als in de omgeving daarvan vanwege de waarde van het monument.     
+c. de mate waarin de restauratie leidt tot investeringen, zowel in het monument zelf als in de omgeving daarvan vanwege de waarde van het monument.    
 
 ### Artikel  7  
 
-Onverminderd artikel 19, eerste lid, van het Besluit rijkssubsidiëring restauratie monumenten 1997, vermeldt Onze minister in de beschikking tot subsidieverlening tevens het jaar waarin de verleende subsidie kan worden betaald.  
+Onverminderd artikel 19, eerste lid, van het Besluit rijkssubsidiëring restauratie monumenten 1997, vermeldt Onze minister in de beschikking tot subsidieverlening tevens het jaar waarin de verleende subsidie kan worden betaald. 
 
 ### Artikel  8  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  9  
 
-Dit besluit wordt aangehaald als: Besluit rijkssubsidiëring grootschalige restauraties 2002.  
+Dit besluit wordt aangehaald als: Besluit rijkssubsidiëring grootschalige restauraties 2002. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -90,81 +90,81 @@ A. H. Korthals
 
 ####Bijlage bij Besluit rijkssubsidiëring grootschalige restauraties 2002
 
-| Gegevens object  | Gemeente  |
+|  Gegevens object  | Gemeente  |
 |:---|:---|
-| 1.  | Broederenkerk  | Zutphen  |
-| Broederenkerkplein 2  | --- |
+| 1.   | Broederenkerk   | Zutphen  |
+| Broederenkerkplein 2   | --- |
 | Zutphen  | --- |
-| 2.  | R.K. Kerk H. Hart van Jesus  | De Ronde Venen  |
-| --- | Kerklaan 4  | --- |
+| 2.   | R.K. Kerk H. Hart van Jesus   | De Ronde Venen   |
+| --- | Kerklaan 4   | --- |
 | --- | Vinkeveen  | --- |
-| 3.  | Grote of St. Laurenskerk  | Alkmaar  |
+| 3.   | Grote of St. Laurenskerk  | Alkmaar   |
 | --- | Koorstraat 2  | --- |
 | --- | Alkmaar  | --- |
-| 4.  | R.K. Parochie O.L.Vrouwe Rozenkrans  | Amsterdam  |
+| 4.   | R.K. Parochie O.L.Vrouwe Rozenkrans   | Amsterdam   |
 | --- | Jacob Obrechtstraat 30  | --- |
 | --- | Amsterdam  | --- |
-| 5.  | R.K. Sint Vituskerk  | Hilversum  |
+| 5.   | R.K. Sint Vituskerk  | Hilversum   |
 | --- | Emmastraat 5–7  | --- |
 | --- | Hilversum  | --- |
-| 6.  | Hoofdtoren  | Hoorn  |
+| 6.  | Hoofdtoren  | Hoorn   |
 | --- | Hoofd 1  | --- |
 | --- | Hoorn  | --- |
-| 7.  | Heilige Jacobus de Meerdere  | 's-Gravenhage  |
+| 7.   | Heilige Jacobus de Meerdere  | 's-Gravenhage  |
 | --- | Parkstraat 65A  | --- |
-| --- | 's-Gravenhage  | --- |
-| 8.  | Maria van Jessekerk  | Delft  |
+| --- |  's-Gravenhage  | --- |
+| 8.   | Maria van Jessekerk  | Delft   |
 | --- | Burgwal 20  | --- |
 | --- | Delft  | --- |
 | 9.  | Hooglandsekerk  | Leiden  |
-| --- | Hooglandsekerkgracht 50–52  | --- |
+| --- | Hooglandsekerkgracht 50–52   | --- |
 | --- | Leiden  | --- |
-| 10.  | R.K. Kerk H. Jacobus de Meerdere  | Schiedam  |
+| 10.   | R.K. Kerk H. Jacobus de Meerdere  | Schiedam   |
 | --- | Kerkweg 53  | --- |
 | --- | Schiedam  | --- |
-| 11.  | St. Jacobsgasthuis  | Schiedam  |
-| --- | Hoogstraat 112  | --- |
+| 11.   | St. Jacobsgasthuis  | Schiedam   |
+| --- | Hoogstraat 112   | --- |
 | --- | Schiedam  | --- |
-| 12.  | Stadhuis  | Schiedam  |
+| 12.   | Stadhuis  | Schiedam   |
 | --- | Grote Markt 1  | --- |
 | --- | Schiedam  | --- |
-| 13.  | Huize Der Boede  | Veere  |
+| 13.   | Huize Der Boede  | Veere   |
 | --- | Vlissingsestraat 19  | --- |
 | --- | Koudekerke  | --- |
-| 14.  | Kasteel Westhove  | Veere  |
+| 14.   | Kasteel Westhove  | Veere   |
 | --- | Duinvlietweg 2 t/m 8  | --- |
 | --- | Oostkapelle  | --- |
-| 15.  | Kasteel Heeswijk  | Bernheze  |
+| 15.   | Kasteel Heeswijk  | Bernheze   |
 | --- | Kasteel 4  | --- |
 | --- | Heeswijk-Dinther  | --- |
-| 16.  | R.K. Kerk H. Gregorius (St. Joriskerk)  | Eindhoven  |
-| --- | Sint Jorislaan 53  | --- |
+| 16.   | R.K. Kerk H. Gregorius (St. Joriskerk)  | Eindhoven   |
+| --- | Sint Jorislaan 53   | --- |
 | --- | Eindhoven  | --- |
-| 17.  | Kademuren c.a. te  | Leeuwarden  |
+| 17.  | Kademuren c.a. te  | Leeuwarden   |
 | --- | Leeuwarden  | --- |
-| 18.  | Kasteel Amerongen  | Amerongen  |
+| 18.   | Kasteel Amerongen  | Amerongen   |
 | --- | Drostestraat 20  | --- |
 | --- | 3958 BK Amerongen  | --- |
 | 19.  | Kasteel De Haar  | Utrecht  |
 | --- | Kasteellaan 1  | --- |
 | --- | 3455 RR Haarzuilens  | --- |
-| 20.  | Wilibrorduskerk  | Utrecht  |
+| 20.   | Wilibrorduskerk  | Utrecht   |
 | --- | Minrebroederstraat 21  | --- |
 | --- | 3512 GS Utrecht  | --- |
-| 21.  | Beurs van Berlage  | Amsterdam  |
+| 21.   | Beurs van Berlage  | Amsterdam   |
 | --- | Beursplein 1–3/Damrak 213–387  | --- |
 | --- | 1012 ZJ Amsterdam  | --- |
 | 22.  | Pieterskerk  | Leiden  |
 | --- | Pieterskerkhof 1A  | --- |
 | --- | 2311 SL Leiden  | --- |
-| 23.  | Verdedigingswerken te  | Gorinchem  |
+| 23.   | Verdedigingswerken te  | Gorinchem  |
 | --- | Gorinchem  | --- |
-| 24.  | Basiliek St. Jan  | 's-Hertogenbosch  |
-| --- | Torenstraat  | --- |
+| 24.   | Basiliek St. Jan  | 's-Hertogenbosch   |
+| --- | Torenstraat   | --- |
 | --- | 5211 KK 's-Hertogenbosch  | --- |
-| 25.  | Verdedigingswerken te  | 's-Hertogenbosch  |
+| 25.   | Verdedigingswerken te  | 's-Hertogenbosch   |
 | --- | 's-Hertogenbosch  | --- |
-| 26.  | R.K.-kerk  | Steenderen  |
+| 26.   | R.K.-kerk  | Steenderen   |
 | --- | Wichmondseweg 17  | --- |
 | --- | 7223 LH Baak  | --- |
 | 27.  | Vredespaleis  | 's-Gravenhage  |

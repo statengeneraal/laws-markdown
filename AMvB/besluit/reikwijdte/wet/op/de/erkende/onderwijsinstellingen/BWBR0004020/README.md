@@ -19,7 +19,7 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepalingen
 
-In dit besluit wordt verstaan onder: 
+In dit besluit wordt verstaan onder:  
 
 a. Onze Minister: Onze Minister van Onderwijs en Wetenschappen;  
 
@@ -27,13 +27,13 @@ b. de wet: de [Wet op de erkende onderwijsinstellingen](../../../../../../../../
 
 c. instelling: een instelling als bedoeld in artikel 1, onderdeel *b*, van de wet;  
 
-d. bevoegd gezag: het bevoegd gezag, bedoeld in artikel 1, onderdeel *c*, van de wet.    
+d. bevoegd gezag: het bevoegd gezag, bedoeld in artikel 1, onderdeel *c*, van de wet.   
 
 ### Artikel  2  
 
 ####Uitbreiding reikwijdte Weo
 
-De wet is van toepassing op: 
+De wet is van toepassing op:  
 
 a. het onderwijs dat opleidt voor het afleggen van een of meer krachtens de Wet op het wetenschappelijk onderwijs (*Stb.* 1986, 414) geregelde examens van de eerste fase;  
 
@@ -49,33 +49,33 @@ d. het onderwijs dat opleidt voor het bij koninklijk besluit van 16 september 19
 
 e. het onderwijs dat opleidt voor het diploma bedrijfskunde van de Samenwerkende Leergangen Bedrijfskunde waarbij de examinering onder toezicht staat van Onze Minister van Economische Zaken;  
 
-f. het onderwijs dat opleidt voor een examen dat wordt afgenomen door een van de in de bijlage bij dit besluit vermelde rechtspersonen, onder toezicht van een door Onze Minister dan wel met instemming van Onze minister aangewezen rijksgecommitteerde.    
+f. het onderwijs dat opleidt voor een examen dat wordt afgenomen door een van de in de bijlage bij dit besluit vermelde rechtspersonen, onder toezicht van een door Onze Minister dan wel met instemming van Onze minister aangewezen rijksgecommitteerde.   
 
 ### Artikel  3  
 
 ####Verzoek om aanvullende erkenning
 
 1.  Het bevoegd gezag van een reeds erkende instelling die onderwijs verzorgt op het gebied van een of meer bij dit besluit aangewezen soorten onderwijs, dient bij Onze Minister binnen 6 maanden na de dag waarop de reikwijdte van de wet is uitgebreid, een verzoek om aanvullende erkenning in.   
-2.  Het verzoek gaat vergezeld van de in artikel 4, tweede lid, van de wet vermelde gegevens, uitgezonderd de verklaring omtrent het gedrag van de leden van de directie.   
-3.  Artikel 4, derde en vierde lid, van de wet, is van overeenkomstige toepassing met betrekking tot het onderwijs waarvoor een aanvullende erkenning is aangevraagd.   
+2.   Het verzoek gaat vergezeld van de in artikel 4, tweede lid, van de wet vermelde gegevens, uitgezonderd de verklaring omtrent het gedrag van de leden van de directie.   
+3.   Artikel 4, derde en vierde lid, van de wet, is van overeenkomstige toepassing met betrekking tot het onderwijs waarvoor een aanvullende erkenning is aangevraagd.  
 
 ### Artikel  4  
 
 ####Beslissing op het verzoek
 
-Na ontvangst van het verzoek om aanvullende erkenning en de in artikel 3, tweede lid, bedoelde gegevens beslist Onze Minister binnen 1 jaar.  
+Na ontvangst van het verzoek om aanvullende erkenning en de in artikel 3, tweede lid, bedoelde gegevens beslist Onze Minister binnen 1 jaar. 
 
 ### Artikel  6  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de eerste kalendermaand na de datum van uitgifte van het *Staatsblad* waarin dit besluit wordt geplaatst. Indien het *Staatsblad* waarin dit besluit wordt geplaatst, wordt uitgegeven op de voorlaatste of laatste dag van een kalendermaand, treedt dit besluit in werking met ingang van de tweede kalendermaand na de datum van uitgifte van het *Staatsblad* waarin dit besluit wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste kalendermaand na de datum van uitgifte van het *Staatsblad* waarin dit besluit wordt geplaatst. Indien het *Staatsblad* waarin dit besluit wordt geplaatst, wordt uitgegeven op de voorlaatste of laatste dag van een kalendermaand, treedt dit besluit in werking met ingang van de tweede kalendermaand na de datum van uitgifte van het *Staatsblad* waarin dit besluit wordt geplaatst. 
 
 ### Artikel  7  
 
 ####Citeertitel
 
-Dit besluit kan worden aangehaald als "Besluit reikwijdte Wet op de erkende onderwijsinstellingen".  
+Dit besluit kan worden aangehaald als "Besluit reikwijdte Wet op de erkende onderwijsinstellingen". 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 
@@ -93,7 +93,7 @@ F. Korthals Altes
 
 ### Bijlage  
 
-De rechtspersonen, bedoeld in artikel 2, onderdeel *f*, van het Besluit reikwijdte Wet op de erkende onderwijsinstellingen zijn: 
+De rechtspersonen, bedoeld in artikel 2, onderdeel *f*, van het Besluit reikwijdte Wet op de erkende onderwijsinstellingen zijn:  
 
 A. Rechtspersonen die examens afnemen onder toezicht van een door Onze Minister van Justitie aangewezen gecommitteerde: 
 

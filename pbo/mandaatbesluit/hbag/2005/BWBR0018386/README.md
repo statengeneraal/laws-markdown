@@ -3,7 +3,7 @@
 ##Besluit van het Hoofdbedrijfschap voor de Agrarische Groothandel van 2 juni 2005, houdende de vaststelling van het Mandaatbesluit HBAG 2005
 
 De voorzitter van het Hoofdbedrijfschap voor de Agrarische Groothandel;  
-gelet op de [artikelen 107](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [127 van de Wet op de bedrijfsorganisatie](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 4](../../../../../pbo/verordening/hbag/bevoegdheden/en/werkwijze/hbag/2005/BWBR0018384/README.md) en [7, eerste lid van de Verordening HBAG bevoegdheden en werkwijze organen en secretaris 2005](../../../../../pbo/verordening/hbag/bevoegdheden/en/werkwijze/hbag/2005/BWBR0018384/README.md) en de daarbij behorende [bijlage](../../../../../pbo/verordening/hbag/bevoegdheden/en/werkwijze/hbag/2005/BWBR0018384/README.md);
+gelet op de [artikelen 107](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [127 van de Wet op de bedrijfsorganisatie](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 4](../../../../../pbo/verordening/hbag/bevoegdheden/en/werkwijze/hbag/2005/BWBR0018384/README.md) en [7, eerste lid van de Verordening HBAG bevoegdheden en werkwijze organen en secretaris 2005](../../../../../pbo/verordening/hbag/bevoegdheden/en/werkwijze/hbag/2005/BWBR0018384/README.md) en de daarbij behorende[ bijlage](../../../../../pbo/verordening/hbag/bevoegdheden/en/werkwijze/hbag/2005/BWBR0018384/README.md);
 
 overwegende dat het om redenen van doelmatigheid, efficiëntie en motivatie wenselijk is gebruik te maken van mandaat;
 Besluit:     

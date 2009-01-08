@@ -23,7 +23,7 @@ Toelichting
 8. Consequenties  
 
 9. Evaluatie en kennisgeving      
-### 1  
+### 1 
 
 ####Inleiding
 
@@ -36,19 +36,19 @@ De recreatieve behoefte neemt in Nederland steeds verder toe. In de loop der jar
 ####Defensie en de Natuurbeschermingswet
 
 Een belangrijk deel van de defensieterreinen valt onder de beschermende werking van de Natuurbeschermingswet. Het betreft hier in met name de terreinen die zijn aangewezen als Habitat- of Vogelrichtlijngebied. De aanwijzing van deze gebieden heeft onder meer tot gevolg dat plannen moeten worden gemaakt voor het beheer van de terreinen. Bij de afweging over recreatief medegebruik zullen de gevolgen van de Natuurbeschermingswet ook in beschouwing moeten worden meegenomen. Het denken over ruimtelijke ordening, milieu en natuur is veranderd. De vastlegging hiervan in wet- en regelgeving is de afgelopen vijftien jaar sterk toegenomen. Deze zaken hebben niet alleen hun weerslag op het militaire gebruik van defensieterreinen maar ook op het recreatief medegebruik. De uitvoering van het in deze nota vastgelegde beleid zal er toe leiden dat bepaalde vormen van medegebruik moeten worden beëindigd en het dan ook een aanscherping is van het tot nu toe gevoerde beleid.     
-### 2  
+### 2 
 
 ####Functie defensieterreinen
 
 ####Defensieterreinen multifunctioneel
 
 De hoofdfunctie op defensieterreinen is het militair gebruik, andere functies zijn daaraan ondergeschikt. Tegelijkertijd biedt Defensie het publiek graag de mogelijkheid de defensieterreinen in te gaan en daar te genieten van de natuur en het landschap. In de praktijk blijkt militair gebruik vaak goed te combineren met natuur en landschap. Defensie wil natuur en landschap veiligstellen en beschermen en kansen bieden aan natuurontwikkeling (Defensie Milieubeleidsnota 2004 en het Tweede Structuurschema Militaire Terreinen). De recreatiedoelstellingen van Defensie zijn dienstbaar aan haar natuurdoelstellingen. Dat wil zeggen dat de natuurgebieden bezocht mogen worden, maar dat de aanwezige natuurwaarden daar niet onder mogen lijden. Dit geldt ook voor het recreatief medegebruik op niet voor het publiek toegankelijke defensieterreinen.     
-### 3  
+### 3 
 
 ####Huidig recreatief medegebruik van defensieterreinen
 
-Thans worden drie vormen van medegebruik op defensieterreinen onderscheiden:   
-### 1  
+Thans worden drie vormen van medegebruik op defensieterreinen onderscheiden:  
+###1 
 
 ####Recreatief medegebruik onder openstellingregels
 
@@ -60,32 +60,32 @@ Opengesteld zijn alle oefenterreinen van Defensie met enkele uitzonderingen. De 
 
 3. gebruik van motorvoertuigen is verboden;  
 
-4. geen toegang van zonsondergang tot zonsopgang.   Per terrein worden deze voorwaarden aangevuld, bij voorbeeld voor mountainbike- en ruiterroutes.    
-### 2  
+4. geen toegang van zonsondergang tot zonsopgang.   Per terrein worden deze voorwaarden aangevuld, bij voorbeeld voor mountainbike- en ruiterroutes.  
+###2 
 
 ####Vergund medegebruik
 
-Dit betreft medegebruik door particulieren, clubs of verenigingen met speciale toestemming, zowel op opengestelde defensieterreinen als terreinen die zijn afgesloten voor het publiek. Het betreft incidenteel medegebruik (kampementen, trimlopen, hondentraining, parkeerruimte bij evenementen e.d.) en structureel medegebruik (bijen houden, zweefvliegen door clubs, het vliegen met modelvliegtuigjes e.d.). Voor dit gebruik worden de privaatrechtelijke vergunningen verleend door tussenkomst van de Dienst der Domeinen. De eventueel noodzakelijke publiekrechtelijke vergunningen, bijvoorbeeld ontheffing op grond van de Luchtvaartwet, moeten door Defensie zelf worden verleend.    
-### 3  
+Dit betreft medegebruik door particulieren, clubs of verenigingen met speciale toestemming, zowel op opengestelde defensieterreinen als terreinen die zijn afgesloten voor het publiek. Het betreft incidenteel medegebruik (kampementen, trimlopen, hondentraining, parkeerruimte bij evenementen e.d.) en structureel medegebruik (bijen houden, zweefvliegen door clubs, het vliegen met modelvliegtuigjes e.d.). Voor dit gebruik worden de privaatrechtelijke vergunningen verleend door tussenkomst van de Dienst der Domeinen. De eventueel noodzakelijke publiekrechtelijke vergunningen, bijvoorbeeld ontheffing op grond van de Luchtvaartwet, moeten door Defensie zelf worden verleend.
+###3 
 
-####Incidentele excursies
+#### Incidentele excursies
 
-Het betreft hier vaak wetenschappelijke excursies, gericht op specifieke waarden, zoals paddestoelen, orchideeën, archeologische waarden enzovoorts op zowel opengestelde als gesloten terreinen, buiten de bestaande wegen en paden.     
-### 4  
+Het betreft hier vaak wetenschappelijke excursies, gericht op specifieke waarden, zoals paddestoelen, orchideeën, archeologische waarden enzovoorts op zowel opengestelde als gesloten terreinen, buiten de bestaande wegen en paden.  
+### 4 
 
 ####Beleid met betrekking tot recreatief medegebruik van defensieterreinen
 
-### 1  
+### 1 
 
 ####Algemeen
 
 Recreatief medegebruik is uitsluitend toegestaan indien het niet belemmerend is voor het militaire gebruik. Op defensieterreinen zullen geen activiteiten van derden worden toegestaan die maatschappelijk ter discussie staan en/of overlast, in het bijzonder door geluid, veroorzaken. Voor zover dergelijke activiteiten nog aanwezig zijn, zullen deze zo spoedig mogelijk worden beëindigd. Recreatief medegebruik van defensieterreinen is uitsluitend toegestaan binnen de kaders van het Defensie Beveiligingsbeleid. De commandanten van de defensieonderdelen zijn verantwoordelijk voor de uitvoering van de beveiliging, de lagere commandant is verantwoordelijk voor de uitvoering van de beveiliging binnen zijn eenheid. Concreet betekent het dat recreatief medegebruik uitsluitend is toegestaan indien dit geen risico’s oplevert ten aanzien van de beveiliging. Ook is in dat kader het recreatieve medegebruik van defensieterreinen onderworpen aan de vigerende regelgeving met betrekking tot toegang tot militaire objecten. Aangezien het in deze nota beschreven beleid een globaal karakter heeft, zullen de beveiligingsaspecten op objectniveau lokaal verder uitgewerkt moeten worden. De toestemming voor recreatief medegebruik van defensieterreinen kan zonder nadere aankondiging worden ingetrokken indien de veiligheidssituatie hiertoe aanleiding geeft. Defensie is niet aansprakelijk voor persoonlijk letsel en schade aan persoonlijke eigendommen opgelopen bij het recreatief medegebruik. Schade aan staatseigendommen, waaronder natuurschade ten gevolge van recreatief medegebruik, wordt op de veroorzaker(s) verhaald.    
-### 2  
+### 2 
 
 ####Natuurgericht recreatief medegebruik
 
 Veel defensieterreinen behoren tot het natuurlijk erfgoed van ons land en natuurbeheer is een belangrijke verantwoordelijkheid van Defensie. Vanuit deze positie richt Defensie zich op die vormen van recreatie, waarin natuur- en/of landschapsbeleving centraal staan. Omdat wandelen hiertoe de meeste mogelijkheden biedt, heeft het wandelen voorrang boven andere recreatievormen. In de grotere terreinen zijn ook andere recreatievormen mogelijk die zich richten op natuur- en/of landschapsbeleving, dit betreft met name fietsen en paardrijden.    
-### 3  
+### 3 
 
 ####Niet natuurgericht recreatief medegebruik
 
@@ -96,7 +96,7 @@ Niet natuurgericht recreatief medegebruik wordt niet toegestaan, tenzij het vold
 – Niet schadelijk of hinderlijk voor het natuurgericht recreatief medegebruik;  
 
 – Geen alternatieven in de omgeving beschikbaar.   Onder niet natuurgericht medegebruik vallen o.a. rijden met mountainbikes buiten wegen en paden, motor- en autosport.    
-### 4  
+### 4 
 
 ####Oogsten uit de natuur
 
@@ -104,9 +104,9 @@ Recreatief medegebruik dat is gericht op het oogsten uit de natuur, zoals jacht,
 
 ####Toelichting
 
-### 5  
+### 5 
 
-####Vormen van recreatief medegebruik van defensieterreinen
+#### Vormen van recreatief medegebruik van defensieterreinen 
 
 Op basis van het beleid met betrekking tot het recreatief medegebruik zijn de mogelijkheden en beperkingen voor de verschillende vormen van recreatief als volgt:   
 
@@ -165,49 +165,49 @@ Ten aanzien van de jacht handelt Defensie overeenkomstig de nieuwe Flora- en fau
 ####Spotters van militaire activiteiten
 
 Deze mensen komen niet naar militaire terreinen vanwege de natuurwaarden, maar om te kijken naar verschillende militaire activiteiten (zoals vliegen). Ten behoeve van deze vorm van recreatie heeft Defensie bij de meeste vliegbases spotplaatsen aangelegd. Deze liggen buiten de afrastering van de vliegbases.     
-### 6  
+### 6 
 
-####Toepassing van het beleid met betrekking tot recreatief medegebruik van defensieterreinen
+####Toepassing van het beleid met betrekking tot recreatief medegebruik van defensieterreinen 
 
-Bij de toepassing van het beleid zullen de volgende thema’s bijzondere aandacht krijgen:   
-### 1  
+Bij de toepassing van het beleid zullen de volgende thema’s bijzondere aandacht krijgen:  
+###1 
 
 ####Sterkere zonering van recreatie
 
-Vanwege de verwachte toename van het recreatief medegebruik, zal sterker dan tot nu toe het geval is een zonering aangebracht moeten worden, teneinde sturing te geven aan de gebruiksintensiteit van gedeelten van het terrein. Dit kan bijvoorbeeld door afsluitende maatregelen voor bepaalde gebieden of door aanleg van omleidende routes.    
-### 2  
+Vanwege de verwachte toename van het recreatief medegebruik, zal sterker dan tot nu toe het geval is een zonering aangebracht moeten worden, teneinde sturing te geven aan de gebruiksintensiteit van gedeelten van het terrein. Dit kan bijvoorbeeld door afsluitende maatregelen voor bepaalde gebieden of door aanleg van omleidende routes.
+###2 
 
 ####Toename samenwerking met andere terreinbeheerders
 
-Defensie zal in toenemende mate samenwerken met en het beleid afstemmen op naastgelegen terreinbeheerders zoals Staatsbosbeheer. Defensie staat positief tegenover het tot stand brengen van regionale recreatieplannen. In overleg met provincie en gemeenten kunnen o.a. fiets-, mountainbike- en ruiterroutes of lange afstandswandelpaden op bestaande wegen en paden op defensieterreinen worden gesitueerd.    
-### 3  
+Defensie zal in toenemende mate samenwerken met en het beleid afstemmen op naastgelegen terreinbeheerders zoals Staatsbosbeheer. Defensie staat positief tegenover het tot stand brengen van regionale recreatieplannen. In overleg met provincie en gemeenten kunnen o.a. fiets-, mountainbike- en ruiterroutes of lange afstandswandelpaden op bestaande wegen en paden op defensieterreinen worden gesitueerd.
+###3 
 
 ####Maatregelen ter ondersteuning van handhaving
 
-Defensie zal in toenemende mate maatregelen moeten treffen om de recreant te informeren over de openstellingregels van de defensieterreinen. Dit betreft dan publieksvriendelijke openstellingborden bij de toegangen van de opengestelde defensieterreinen en in een beperkt aantal situaties wellicht informatiepanelen bij de hoofdingang van terreinen. Maar ook het in stand houden van afsluitende maatregelen. Het moet voor de recreant duidelijk zijn wat de regels zijn bij het betreden van de defensieterreinen, op grond daarvan is handhaving mogelijk. Met bebording met een herkenbare identiteit van Defensie kan tevens worden bereikt dat de recreant beseft dat hij of zij een defensieterrein bezoekt. Dit kan wellicht bijdragen aan het kweken van een beter begrip bij de recreant en een duidelijkere profilering van Defensie als gebruiker en beheerder van natuur en landschap bij het grote publiek.    
-### 4  
+Defensie zal in toenemende mate maatregelen moeten treffen om de recreant te informeren over de openstellingregels van de defensieterreinen. Dit betreft dan publieksvriendelijke openstellingborden bij de toegangen van de opengestelde defensieterreinen en in een beperkt aantal situaties wellicht informatiepanelen bij de hoofdingang van terreinen. Maar ook het in stand houden van afsluitende maatregelen. Het moet voor de recreant duidelijk zijn wat de regels zijn bij het betreden van de defensieterreinen, op grond daarvan is handhaving mogelijk. Met bebording met een herkenbare identiteit van Defensie kan tevens worden bereikt dat de recreant beseft dat hij of zij een defensieterrein bezoekt. Dit kan wellicht bijdragen aan het kweken van een beter begrip bij de recreant en een duidelijkere profilering van Defensie als gebruiker en beheerder van natuur en landschap bij het grote publiek.
+###4 
 
 ####Voldoende handhaving
 
-Defensie zal bij de verwachte toename van het recreatief medegebruik meer toezicht en handhaving op de opengestelde defensieterreinen moeten verrichten. De belangrijkste aandachtspunten hierbij zijn het voorkomen van verstoring van oefeningen, het voorkomen van schade en het voorkomen van het ontstaan van strijdigheden met wet- en regelgeving, in het bijzonder de Natuurbeschermingswet en Flora- en faunawet.    
-### 5  
+Defensie zal bij de verwachte toename van het recreatief medegebruik meer toezicht en handhaving op de opengestelde defensieterreinen moeten verrichten. De belangrijkste aandachtspunten hierbij zijn het voorkomen van verstoring van oefeningen, het voorkomen van schade en het voorkomen van het ontstaan van strijdigheden met wet- en regelgeving, in het bijzonder de Natuurbeschermingswet en Flora- en faunawet.
+###5 
 
 ####Verbetering ontsluiting
 
-Een nadrukkelijke verbetering van ontsluiting en meer aandacht voor de recreatieve belevingswaarden van defensieterreinen, met alle daarbij behorende maatregelen, vergen inspanningen op het gebied van toezicht en beheer en investeringen waarvoor Defensie noch de kennis noch de middelen heeft. Daarvoor zijn andere ministeries verantwoordelijk, in het bijzonder de Ministeries van LNV en VWS, waaronder de openluchtrecreatie respectievelijk sport vallen. Daarbij gaat het met name om meer aandacht besteden aan de recreatieve belevingswaarden. Een voorbeeld is de padenstructuur op defensieterreinen. Het militair gebruik en het terreinbeheer is van oudsher bepalend geweest voor het wegen- en padennet. In de toekomst kan de padenstructuur ook gericht worden op recreatiebeleving. Dit betekent wellicht meer variatie in de wegen.    
-### 6  
+Een nadrukkelijke verbetering van ontsluiting en meer aandacht voor de recreatieve belevingswaarden van defensieterreinen, met alle daarbij behorende maatregelen, vergen inspanningen op het gebied van toezicht en beheer en investeringen waarvoor Defensie noch de kennis noch de middelen heeft. Daarvoor zijn andere ministeries verantwoordelijk, in het bijzonder de Ministeries van LNV en VWS, waaronder de openluchtrecreatie respectievelijk sport vallen. Daarbij gaat het met name om meer aandacht besteden aan de recreatieve belevingswaarden. Een voorbeeld is de padenstructuur op defensieterreinen. Het militair gebruik en het terreinbeheer is van oudsher bepalend geweest voor het wegen- en padennet. In de toekomst kan de padenstructuur ook gericht worden op recreatiebeleving. Dit betekent wellicht meer variatie in de wegen.
+###6 
 
 ####Financiële consequenties in verband met verzoeken van derden
 
-Indien door derden (andere overheden/verenigingen e.d.) verzoeken worden ingediend tot recreatief medegebruik waaraan financiële consequenties zijn verbonden, is het standpunt van Defensie dat dit kosten-neutraal moet worden uitgevoerd. Voorbeelden daarvan zijn het aanleggen en onderhouden van mountainbike-routes, ruiterpaden e.d.. Uiteraard zal vooraf een afweging moeten worden gemaakt of betreffend verzoek past binnen het beleid. Kosten van het realiseren van de extra voorzieningen en eventuele toename van schadeherstel, vuilafvoer, toezicht en dergelijke zullen voor rekening zijn van de verzoekende derden.     
-### 7  
+Indien door derden (andere overheden/verenigingen e.d.) verzoeken worden ingediend tot recreatief medegebruik waaraan financiële consequenties zijn verbonden, is het standpunt van Defensie dat dit kosten-neutraal moet worden uitgevoerd. Voorbeelden daarvan zijn het aanleggen en onderhouden van mountainbike-routes, ruiterpaden e.d.. Uiteraard zal vooraf een afweging moeten worden gemaakt of betreffend verzoek past binnen het beleid. Kosten van het realiseren van de extra voorzieningen en eventuele toename van schadeherstel, vuilafvoer, toezicht en dergelijke zullen voor rekening zijn van de verzoekende derden.  
+### 7 
 
-####Procedure vergund recreatief medegebruik
+#### Procedure vergund recreatief medegebruik 
 
 Recreatief medegebruik dat niet valt onder de openstellingregels zal te allen tijde moeten worden aangevraagd. Hoewel de procedure daartoe geen onderwerp van het recreatiebeleid is, is deze ter verduidelijking hieronder kort weergegeven. De aanvraag wordt door het Bevoegd Gezag, veelal de lokale militaire Commandant, getoetst aan het Defensie Beveiligingsbeleid en het beleid in deze nota inzake recreatief medegebruik van defensieterreinen. Hierbij dient tevens te worden nagegaan of er ook een publiekrechtelijke vergunning moet worden verleend. Het Bevoegd Gezag kan zich voor advies wenden tot de Dienst Vastgoed Defensie. Indien er geen bezwaren zijn wordt de aanvraag door, tussenkomst van de Dienst Vastgoed Defensie, doorgegeven aan Domeinen ten behoeve van het opstellen van een contract of vergunning. Het contract of de vergunning wordt door Domeinen naar de aanvrager verzonden in afschrift aan het Bevoegd Gezag, de Districtcommandant van de Koninklijke Marechaussee en Dienst Vastgoed Defensie.    
-### 8  
+### 8 
 
-####Consequenties
+####Consequenties 
 
 De uitvoering van het recreatiebeleid heeft de volgende consequenties:   
 
@@ -215,7 +215,7 @@ De uitvoering van het recreatiebeleid heeft de volgende consequenties:
 
 Op sommige terreinen bestaan reeds tientallen jaren bepaalde vormen van recreatief medegebruik. De medegebruikers menen daarmee een bepaald ‘recht’ te hebben verworven. Het opheffen van het medegebruik of het beëindigen van medegebruikovereenkomsten kan weerstand opleveren. Het afbouwen zal dan ook met de nodige zorgvuldigheid dienen te geschieden.    
 
-####Overzicht recreatief medegebruik
+#### Overzicht recreatief medegebruik 
 
 Het Bevoegd Gezag is verantwoordelijk voor het actueel houden van een overzicht van het recreatief medegebruik per terrein. Dit is met name noodzakelijk in het kader van de nieuwe Natuurbeschermingswet.    
 
@@ -223,12 +223,12 @@ Het Bevoegd Gezag is verantwoordelijk voor het actueel houden van een overzicht 
 
 Regels en voorwaarden zijn slechts zinvol als er controle op de naleving plaatsvindt. De lokale militaire Commandant is verantwoordelijk voor de naleving en voert hiertoe het toezicht uit. Soms worden er ook afspraken gemaakt, waarbij toezicht plaats vindt vanuit andere toezichthoudende organisaties. Bij geconstateerde strafrechtelijke overtredingen wordt de Koninklijke Marechaussee ingeschakeld.    
 
-####Financiële consequenties
+#### Financiële consequenties 
 
 De financiële consequenties als gevolg van de toepassing van het beleid inzake het recreatief medegebruik op defensieterreinen, worden door de Operationele Commandanten opgenomen in de exploitatiebudgetten.     
-### 9  
+### 9 
 
-####Evaluatie en kennisgeving
+####Evaluatie en kennisgeving 
 
 ####Evaluatie
 
@@ -242,6 +242,6 @@ Den Haag
 21 december 2005   
 
 De 
-Staatssecretaris van Defensie, voor deze: de 
+Staatssecretaris van Defensie, voor deze:de 
 Directeur Ruimte, Milieu en Vastgoedbeleid, 
-J.Fledderus   
+J. Fledderus     

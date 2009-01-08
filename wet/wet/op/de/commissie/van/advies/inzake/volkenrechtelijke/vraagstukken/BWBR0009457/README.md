@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Wet van 12 maart 1998, houdende instelling van een vast college van advies inzake volkenrechtelijke vraagstukken (Wet op de Commissie van advies inzake volkenrechtelijke vraagstukken)
+## Wet van 12 maart 1998, houdende instelling van een vast college van advies inzake volkenrechtelijke vraagstukken (Wet op de Commissie van advies inzake volkenrechtelijke vraagstukken)
 
-Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
+Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz. 
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
 Alzo Wij in overweging genomen hebben, dat het wenselijk is een vast college van advies inzake volkenrechtelijke vraagstukken in te stellen en dat het in verband met [artikel 79 van de Grondwet](../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) noodzakelijk is daartoe wettelijke bepalingen vast te stellen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
@@ -25,19 +25,19 @@ Deze wet treedt in werking met ingang van 1 januari 1998. Indien het Staatsblad 
 
 Deze wet wordt aangehaald als: Wet op de Commissie van advies inzake volkenrechtelijke vraagstukken.  
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    
 
 Gegeven te 's-Gravenhage 
-12 maart 1998  
-Beatrix  
+12 maart 1998   
+Beatrix   
 
-De Minister van Buitenlande Zaken, 
-H. A. F. M. O. van Mierlo   
+De Minister van Buitenlande Zaken,  
+H. A. F. M. O. van Mierlo    
 
-De Staatssecretaris van Binnenlandse Zaken, 
-J. Kohnstamm   
+De Staatssecretaris van Binnenlandse Zaken,  
+J. Kohnstamm    
 
-de *zestiende* april 1998 
+de *zestiende* april 1998  
 
-De Minister van Justitie, 
-W. Sorgdrager    
+De Minister van Justitie,  
+W. Sorgdrager     

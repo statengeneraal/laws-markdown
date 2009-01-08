@@ -18,7 +18,7 @@ c. Uitkeringsregelingen:
 
 – Het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie](../../../../../../../../AMvB/besluit/bovenwettelijke/uitkeringen/bij/werkloosheid/voor/de/sector/etc/BWBR0010510/README.md);  
 
-– De [Suppletieregeling gedeeltelijk arbeidsongeschikten sector Defensie](../../../../../../../../AMvB/suppletieregeling/gedeeltelijk/arbeidsongeschikten/sector/defensie/BWBR0008977/README.md).      
+– De [Suppletieregeling gedeeltelijk arbeidsongeschikten sector Defensie](../../../../../../../../AMvB/suppletieregeling/gedeeltelijk/arbeidsongeschikten/sector/defensie/BWBR0008977/README.md).     
 
 ### Artikel  2  
 
@@ -34,24 +34,24 @@ De Staatssecretaris verleent aan UWV het volgende mandaat:
 
 4. UWV is bevoegd om inzake de uitvoering van de uitkeringsregelingen namens de Staatssecretaris in rechte op te treden en om namens de Staatssecretaris tegen rechterlijke uitspraken ter zake al dan niet hoger beroep of cassatie in te stellen. Indien het een zaak betreft met een kennelijk aanzienlijk financieel of rechtspositioneel belang, oefent UWV deze bevoegdheid niet uit dan na verkregen instemming van de Staatssecretaris. UWV is in dat geval bevoegd om vooruitlopend hierop zo nodig voorlopig hoger beroep of cassatie in te stellen.  
 
-5. UWV is bevoegd tot het schriftelijk verlenen van ondermandaat aan bij UWV in dienst zijnde functionarissen. UWV houdt een register bij van verleende ondermandaten. Het register bevat de namen van de functionarissen van UWV die op basis van het ondermandaat besluiten kunnen nemen, alsmede gegevens omtrent de inhoud van het ondermandaat.    
+5. UWV is bevoegd tot het schriftelijk verlenen van ondermandaat aan bij UWV in dienst zijnde functionarissen. UWV houdt een register bij van verleende ondermandaten. Het register bevat de namen van de functionarissen van UWV die op basis van het ondermandaat besluiten kunnen nemen, alsmede gegevens omtrent de inhoud van het ondermandaat.   
 
 ### Artikel  3  
 
 ####Ondertekening
 
-De stukken die op grond van dit besluit worden afgedaan en ondertekend, vermelden aan het slot: De Staatssecretaris van Defensie, voor deze: ………………… (de functie van de ondertekenaar) ………………… (handtekening en naam van de functionaris)  
+De stukken die op grond van dit besluit worden afgedaan en ondertekend, vermelden aan het slot: De Staatssecretaris van Defensie, voor deze: ………………… (de functie van de ondertekenaar) ………………… (handtekening en naam van de functionaris) 
 
 ### Artikel  4  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van datum ondertekening onder gelijktijdige intrekking van het [Mandaatbesluit uitvoering boven- en naastwettelijke uitkeringsregelingen bij werkloosheid- en/of arbeidsongeschiktheid sector Defensie](../../../../../../../../ministeriele-regeling/ministerieel/besluit/van/28/januari/2005/afdeling/pensioenen/sociale/etc/BWBR0017974/README.md) van 28 januari 2005 (Stcrt. 3 maart 2005, nr. 44/pag. 10)  
+Dit besluit treedt in werking met ingang van datum ondertekening onder gelijktijdige intrekking van het [Mandaatbesluit uitvoering boven- en naastwettelijke uitkeringsregelingen bij werkloosheid- en/of arbeidsongeschiktheid sector Defensie](../../../../../../../../ministeriele-regeling/ministerieel/besluit/van/28/januari/2005/afdeling/pensioenen/sociale/etc/BWBR0017974/README.md) van 28 januari 2005 (Stcrt. 3 maart 2005, nr. 44/pag. 10) 
 
 Den Haag 
 24 juli 2006   
 
 De 
-Staatssecretaris van Defensie, voor deze:
+Staatssecretaris van Defensie, voor deze: 
 de Hoofddirecteur Personeel, 
-B.H.J.J.M.Völkers   
+B.H.J.J.M. Völkers     

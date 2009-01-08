@@ -14,17 +14,17 @@ Besluit:
 
 ### Artikel  1  
 
-Personen en rechtspersonen die tegoeden, economische middelen of opbrengsten als bedoeld in artikel 23 van Resolutie 1483 van de Veiligheidsraad van de Verenigde Naties van 22 mei 2003 onder zich hebben, dragen deze op vordering van Onze Minister van Financiën binnen een door hem te bepalen termijn over aan het Ontwikkelingsfonds voor Irak, beheerd door de Centrale Bank van Irak.  
+Personen en rechtspersonen die tegoeden, economische middelen of opbrengsten als bedoeld in artikel 23 van Resolutie 1483 van de Veiligheidsraad van de Verenigde Naties van 22 mei 2003 onder zich hebben, dragen deze op vordering van Onze Minister van Financiën binnen een door hem te bepalen termijn over aan het Ontwikkelingsfonds voor Irak, beheerd door de Centrale Bank van Irak. 
 
 ### Artikel  2  
 
-Deze regeling wordt aangehaald als: Sanctieregeling Irak 2004.  
+Deze regeling wordt aangehaald als: Sanctieregeling Irak 2004. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
-Minister van Buitenlandse Zaken
-B.R.Bot    
+Minister van Buitenlandse Zaken 
+B.R. Bot      

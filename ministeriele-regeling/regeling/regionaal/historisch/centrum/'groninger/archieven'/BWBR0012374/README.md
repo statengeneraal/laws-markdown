@@ -6,7 +6,7 @@ De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen;
 Gelet op [artikel 97 van de Wet gemeenschappelijke regelingen](../../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md);
 
 Handelende in overeenstemming met het gevoelen van de Raad van Ministers,
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -18,27 +18,27 @@ De uit de gemeenschappelijke regeling voortvloeiende kosten worden door de minis
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, 
-F. van derPloeg   
+F. van der Ploeg     
 
 ####Regeling Regionaal Historisch Centrum 'Groninger Archieven'
 
-28 maart 2001/DCE/01/1720 De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, dr. F. van der Ploeg; De raad en het college van burgemeester en wethouders van de gemeente Groningen; Gelet op de [artikelen 96](../../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) en [97 van de Wet gemeenschappelijke regelingen](../../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), Besluiten: tot het treffen van de navolgende gemeenschappelijke regeling tot de instelling van een openbaar lichaam dat de archiefbescheiden en collecties, die berusten in de gemeentelijke archiefbewaarplaats van de gemeente Groningen en in de rijksarchiefbewaarplaats in de provincie Groningen, beheert. 
+28 maart 2001/DCE/01/1720 De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, dr. F. van der Ploeg; De raad en het college van burgemeester en wethouders van de gemeente Groningen; Gelet op de [artikelen 96](../../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) en [97 van de Wet gemeenschappelijke regelingen](../../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), Besluiten: tot het treffen van de navolgende gemeenschappelijke regeling tot de instelling van een openbaar lichaam dat de archiefbescheiden en collecties, die berusten in de gemeentelijke archiefbewaarplaats van de gemeente Groningen en in de rijksarchiefbewaarplaats in de provincie Groningen, beheert.  
 
-### Hoofdstuk  I  
+### Hoofdstuk I  
 
-####Begripsbepalingen
+####Begripsbepalingen 
 
 ### Artikel  1  
 
-In deze gemeenschappelijke regeling wordt verstaan onder:   a.  *de minister:*   de Minister van Onderwijs, Cultuur en Wetenschappen;    b.  *de gemeente:*   de gemeente Groningen;    c.  *archiefbescheiden:*   archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md).     
+In deze gemeenschappelijke regeling wordt verstaan onder: a. *de minister:*   de Minister van Onderwijs, Cultuur en Wetenschappen;  b. *de gemeente:*   de gemeente Groningen;  c. *archiefbescheiden:*   archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md).    
 
-### Hoofdstuk  II  
+### Hoofdstuk II  
 
-####Instelling, doel en beleid van het openbaar lichaam Regionaal Historisch Centrum 'Groninger Archieven'
+####Instelling, doel en beleid van het openbaar lichaam Regionaal Historisch Centrum 'Groninger Archieven' 
 
 ### Artikel  2  
 
@@ -46,13 +46,13 @@ In deze gemeenschappelijke regeling wordt verstaan onder:   a.  *de minister:*  
 2.  Het Regionaal Historisch Centrum `Groninger Archieven' is ingesteld met het doel de belangen van de minister en de gemeente bij alle aangelegenheden betreffende de archiefbescheiden, collecties, individuele documenten, schilderijen en dergelijke die berusten in de rijksarchiefbewaarplaats in de provincie Groningen en in de gemeentelijke archiefbewaarplaats van Groningen in gezamenlijkheid te behartigen.   
 3.  Aan het Regionaal Historisch Centrum `Groninger Archieven' zijn daartoe de navolgende werkzaamheden, taken en bevoegdheden van de minister en de gemeente opgedragen: 
 
-a. de beheerstaken, te onderscheiden in het behouden, bewerken en benutten van de archiefbescheiden, collecties, individuele documenten, schilderijen etc. die berusten in de in het tweede lid genoemde archiefbewaarplaatsen;  
+a.  de beheerstaken, te onderscheiden in het behouden, bewerken en benutten van de archiefbescheiden, collecties, individuele documenten, schilderijen etc. die berusten in de in het tweede lid genoemde archiefbewaarplaatsen; 
 
-b. de taken en bevoegdheden, bedoeld in de [artikelen 15, derde lid](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [16, tweede lid](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [17](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [18](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [20](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [26, tweede lid](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [31](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) en [32 van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);  
+b.  de taken en bevoegdheden, bedoeld in de [artikelen 15, derde lid](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [16, tweede lid](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [17](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [18](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [20](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [26, tweede lid](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [31](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) en [32 van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md); 
 
-c. het adviseren en het doen van voorstellen aan de minister en de gemeente over de taken en bevoegdheden, die door de minister of de gemeente worden uitgevoerd ingevolge de [artikelen 5](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [6](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [7](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [8](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [12](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [13](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [15, eerste en tweede lid](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [30](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) en [32, tweede lid, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);  
+c.  het adviseren en het doen van voorstellen aan de minister en de gemeente over de taken en bevoegdheden, die door de minister of de gemeente worden uitgevoerd ingevolge de [artikelen 5](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [6](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [7](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [8](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [12](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [13](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [15, eerste en tweede lid](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [30](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) en [32, tweede lid, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md); 
 
-d. het verrichten van door de minister of de gemeente opgedragen andere taken die verband houden met de behartiging van de belangen, bedoeld in het tweede lid.     
+d.  het verrichten van door de minister of de gemeente opgedragen andere taken die verband houden met de behartiging van de belangen, bedoeld in het tweede lid.    
 4.  Het Regionaal Historisch Centrum `Groninger Archieven' voert bij de behartiging van de belangen, bedoeld in het tweede lid, het archiefbeleid van de minister en de gemeente mede uit.   
 5.  De minister en de gemeente kunnen met het Regionaal Historisch Centrum `Groninger Archieven' afspraken maken over de wijze waarop invulling wordt gegeven aan de in het derde lid genoemde taken en bevoegdheden.   
 6.  De minister en de gemeente kunnen gezamenlijk algemene aanwijzingen geven omtrent de wijze waarop het Regionaal Historisch Centrum `Groninger Archieven' de belangen, bedoeld in het tweede lid, behartigt.   
@@ -62,9 +62,9 @@ d. het verrichten van door de minister of de gemeente opgedragen andere taken di
 
 Het Regionaal Historisch Centrum `Groninger Archieven' brengt de kosten, bedoeld in de [artikelen 14](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) en [18, zesde lid, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) in rekening volgens de regels die het bestuur ingevolge [artikel 19 van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) daaromtrent vaststelt.  
 
-### Hoofdstuk  III  
+### Hoofdstuk III  
 
-####Het algemeen bestuur
+####Het algemeen bestuur 
 
 ### Artikel  4  
 
@@ -84,20 +84,20 @@ Het Regionaal Historisch Centrum `Groninger Archieven' brengt de kosten, bedoeld
 1.  Het voorzitterschap van het algemeen bestuur wordt bij toerbeurt voor een periode van twee jaar vervuld door een door de gemeente aangewezen lid, onderscheidenlijk door een daartoe door de minister aangewezen lid, volgens een door het algemeen bestuur vastgesteld rooster.   
 2.  Het algemeen bestuur regelt de vervanging van de voorzitter.   
 
-### Hoofdstuk  IV  
+### Hoofdstuk IV  
 
-####De taken en bevoegdheden van het algemeen bestuur
+####De taken en bevoegdheden van het algemeen bestuur 
 
 ### Artikel  6  
 
 1.  Aan het algemeen bestuur behoren ter uitvoering van de aan het Regionaal Historisch Centrum `Groninger Archieven' toegekende taak alle bevoegdheden die niet aan een ander orgaan zijn opgedragen.   
 2.  Aan het algemeen bestuur worden de volgende taken en bevoegdheden toegekend: 
 
-a. de bevoegdheid van de raad van de gemeente om ingevolge [artikel 31 van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) de gemeentelijke archiefbewaarplaats(en) aan te wijzen;  
+a.  de bevoegdheid van de raad van de gemeente om ingevolge [artikel 31 van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) de gemeentelijke archiefbewaarplaats(en) aan te wijzen; 
 
-b. de bevoegdheid van de minister om de rijksarchivaris in de provincie Groningen, bedoeld in [artikel 26, tweede lid, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), te benoemen, te schorsen, en te ontslaan;  
+b.  de bevoegdheid van de minister om de rijksarchivaris in de provincie Groningen, bedoeld in [artikel 26, tweede lid, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), te benoemen, te schorsen, en te ontslaan; 
 
-c. de bevoegdheid van de raad van de gemeente om ingevolge [artikel 32, derde lid, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) de gemeentearchivaris te benoemen, te schorsen en te ontslaan.     
+c.  de bevoegdheid van de raad van de gemeente om ingevolge [artikel 32, derde lid, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) de gemeentearchivaris te benoemen, te schorsen en te ontslaan.    
 3.  Het algemeen bestuur kan de directeur, bedoeld in artikel 30, tot rijksarchivaris in de provincie Groningen en tot gemeentearchivaris van de gemeente benoemen.   
 4.  Aan de bevoegdheid van het algemeen bestuur worden ingevolge van [artikel 31 van de Wet gemeenschappelijke regelingen](../../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) geen beperkende bevoegdheden opgelegd, mits het totaal van de aangegane verplichtingen binnen de goedgekeurde begroting valt. Voor het aangaan van verplichtingen door het algemeen bestuur buiten de goedgekeurde begroting, wordt vooraf toestemming gevraagd aan de raad van de gemeente en de minister, ingevolge de artikelen 19 en 20.   
 
@@ -114,9 +114,9 @@ Het algemeen bestuur verstrekt zo spoedig mogelijk schriftelijk aan de raad van 
 
 De minister en de raad van de gemeente kunnen een door hen aangewezen lid van het algemeen bestuur dat hun vertrouwen niet meer geniet, ontslag verlenen.  
 
-### Hoofdstuk  V  
+### Hoofdstuk V  
 
-####Het dagelijks bestuur
+####Het dagelijks bestuur 
 
 ### Artikel  10  
 
@@ -124,9 +124,9 @@ De minister en de raad van de gemeente kunnen een door hen aangewezen lid van he
 2.  Het lidmaatschap van het dagelijks bestuur eindigt zodra men ophoudt lid te zijn van het algemeen bestuur.   
 3.  Artikel 4, negende en tiende lid is van overeenkomstige toepassing.   
 
-### Hoofdstuk  VI  
+### Hoofdstuk VI  
 
-####De werkwijze van het dagelijks bestuur
+####De werkwijze van het dagelijks bestuur 
 
 ### Artikel  11  
 
@@ -136,33 +136,33 @@ Het dagelijks bestuur vergadert zo dikwijls als één of meer leden van het dage
 
 Het dagelijks bestuur stelt regels voor zijn vergaderingen vast.  
 
-### Hoofdstuk  VII  
+### Hoofdstuk VII 
 
-####De taken en bevoegdheden van het dagelijks bestuur
+####De taken en bevoegdheden van het dagelijks bestuur 
 
 ### Artikel  13  
 
 Het dagelijks bestuur is in ieder geval belast met: 
 
-a. de zorg voor de uitvoering van de aan het openbaar lichaam opgedragen bevoegdheden en taken, zoals genoemd in artikel 2, voorzover die niet zijn opgedragen aan het algemeen bestuur.  
+a.  de zorg voor de uitvoering van de aan het openbaar lichaam opgedragen bevoegdheden en taken, zoals genoemd in artikel 2, voorzover die niet zijn opgedragen aan het algemeen bestuur. 
 
-b. het voorbereiden, voorzover dit niet aan anderen is opgedragen van al hetgeen in het algemeen bestuur ter overweging moet worden gebracht;  
+b.  het voorbereiden, voorzover dit niet aan anderen is opgedragen van al hetgeen in het algemeen bestuur ter overweging moet worden gebracht; 
 
-c. het uitvoeren van de besluiten van het algemeen bestuur, voorzover dit niet aan anderen is opgedragen;  
+c.  het uitvoeren van de besluiten van het algemeen bestuur, voorzover dit niet aan anderen is opgedragen; 
 
-d. het beheer van de activa en passiva van het Regionaal Historisch Centrum `Groninger Archieven';  
+d.  het beheer van de activa en passiva van het Regionaal Historisch Centrum `Groninger Archieven'; 
 
-e. de zorg, voorzover deze van het dagelijks bestuur afhangt voor de controle op het geldelijk beheer en de boekhouding van het Regionaal Historisch Centrum `Groninger Archieven';  
+e.  de zorg, voorzover deze van het dagelijks bestuur afhangt voor de controle op het geldelijk beheer en de boekhouding van het Regionaal Historisch Centrum `Groninger Archieven'; 
 
-f. het nemen van alle conservatoire maatregelen zowel in als buiten rechte en het doen van alles wat nodig is ter voorkoming van verjaring van recht of bezit.    
+f.  het nemen van alle conservatoire maatregelen zowel in als buiten rechte en het doen van alles wat nodig is ter voorkoming van verjaring van recht of bezit.   
 
 ### Artikel  14  
 
 (vervalt)  
 
-### Hoofdstuk  VIII  
+### Hoofdstuk VIII  
 
-####De voorzitter
+####De voorzitter 
 
 ### Artikel  15  
 
@@ -171,9 +171,9 @@ f. het nemen van alle conservatoire maatregelen zowel in als buiten rechte en he
 3.  De voorzitter tekent de stukken die van het algemeen bestuur of het dagelijks bestuur uitgaan, tenzij hij aan de directeur het tekenen van bepaalde stukken heeft opgedragen.   
 4.  De voorzitter vertegenwoordigt het Regionaal Historisch Centrum `Groninger Archieven' in en buiten rechte. De vertegenwoordiging kan hij opdragen aan een door hem aan te wijzen gevolmachtigde.   
 
-### Hoofdstuk  IX  
+### Hoofdstuk IX  
 
-####Tegemoetkoming en vergoeding
+####Tegemoetkoming en vergoeding 
 
 ### Artikel  16  
 
@@ -181,9 +181,9 @@ f. het nemen van alle conservatoire maatregelen zowel in als buiten rechte en he
 2.  De leden van de besturen, bedoeld in het eerste lid, ontvangen een tegemoetkoming in de kosten, waartoe worden gerekend reis- en verblijfkosten ten behoeve van het bijwonen van de vergaderingen van het algemeen bestuur.   
 3.  De in de voorgaande leden bedoelde vergoeding en tegemoetkoming worden door het algemeen bestuur vastgesteld.   
 
-### Hoofdstuk  X  
+### Hoofdstuk X  
 
-####Financiële bepalingen
+####Financiële bepalingen 
 
 ### Artikel  17  
 
@@ -246,18 +246,18 @@ Na ontvangst van het financieel verslag en het jaarverslag stellen de minister e
 
 De minister en de gemeente kunnen gezamenlijk nadere regels stellen over het financieel en materieel beheer, over de inrichting van de begroting, het financieel verslag, jaarverslag en aandachtspunten voor de accountantscontrole.  
 
-### Hoofdstuk  XI  
+### Hoofdstuk XI  
 
-####Het archief
+####Het archief 
 
 ### Artikel  27  
 
 1.  Overeenkomstig door het algemeen bestuur vast te stellen regels, die aan gedeputeerde staten worden medegedeeld, draagt het dagelijks bestuur zorg voor de archiefbescheiden van het Regionaal Historisch Centrum `Groninger Archieven'.   
 2.  De archiefbescheiden van het Regionaal Historisch Centrum `Groninger Archieven' die op grond van de [Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) moeten worden overgebracht, komen te berusten in de rijksarchiefbewaarplaats in Groningen.   
 
-### Hoofdstuk  XII  
+### Hoofdstuk XII  
 
-####Informatieplicht/toezicht
+####Informatieplicht/toezicht 
 
 ### Artikel  28  
 
@@ -269,9 +269,9 @@ De minister en de gemeente kunnen gezamenlijk nadere regels stellen over het fin
 1.  De bestuursorganen van de gemeente en de minister doen het dagelijks bestuur mededeling van de bij hen in voorbereiding zijnde maatregelen en plannen die voor de behartiging van de belangen, bedoeld in artikel 2, voor het Regionaal Historisch Centrum `Groninger Archieven' van belang zijn.   
 2.  De bestuursorganen van de gemeente en de minister kunnen, bij de in het eerste lid bedoelde mededeling, het gevoelen vragen van het dagelijks bestuur. Ook ongevraagd kan het dagelijks bestuur zijn zienswijze daaromtrent aan de gemeente of minister kenbaar maken.   
 
-### Hoofdstuk  XIII  
+### Hoofdstuk XIII  
 
-####De directeur en het overige personeel
+####De directeur en het overige personeel 
 
 ### Artikel  30  
 
@@ -297,18 +297,18 @@ Het overige personeel wordt in dienst genomen, geschorst of ontslagen door het d
 
 De rechtspositieregeling van de gemeente, zoals deze thans luiden en in de toekomst na wijziging zullen luiden, is op het personeel van overeenkomstige toepassing.  
 
-### Hoofdstuk  XIV  
+### Hoofdstuk XIV  
 
-####De provincie
+####De provincie 
 
 ### Artikel  35  
 
 1.  Gedeputeerde staten ontvangen tegelijk met de leden van het algemeen en dagelijks bestuur de agenda van de vergaderingen van het algemeen en dagelijks bestuur.   
-2.  Een door gedeputeerde staten aan te wijzen ambtenaar kan, op uitnodiging, de vergaderingen van het algemeen of dagelijks bestuur bijwonen. In die gevallen heeft hij een adviserende stem.   
+2.  Een door gedeputeerde staten aan te wijzen ambtenaar kan, op uitnodiging, de vergaderingen van het algemeen of dagelijks bestuur bijwonen.  In die gevallen heeft hij een adviserende stem.   
 
-### Hoofdstuk  XV  
+### Hoofdstuk XV  
 
-####Toetreding, uittreding, wijziging en opheffing
+####Toetreding, uittreding, wijziging en opheffing 
 
 ### Artikel  36  
 
@@ -328,9 +328,9 @@ Deze regeling kan worden gewijzigd bij besluit van de raad van de gemeente en de
 
 Deze regeling kan worden opgeheven bij besluit van de raad van de gemeente en de minister gezamenlijk. Het algemeen bestuur stelt een liquidatieplan op dat voorziet in de verplichting van de raad van de gemeente en de minister om alle rechten en plichten van het openbaar lichaam over de deelnemers te verdelen op een in het plan te bepalen wijze.  
 
-### Hoofdstuk  XVI  
+### Hoofdstuk XVI 
 
-####Slotbepalingen
+####Slotbepalingen 
 
 ### Artikel  40  
 
@@ -338,24 +338,24 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  41  
 
-Deze regeling kan worden aangehaald als: Regeling Regionaal Historisch Centrum `Groninger Archieven'. Deze regeling zal met de toelichting door de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen in de Staatscourant worden geplaatst.  
+Deze regeling kan worden aangehaald als: Regeling Regionaal Historisch Centrum `Groninger Archieven'. Deze regeling zal met de toelichting door de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen in de Staatscourant worden geplaatst. 
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, 
-F. van derPloeg 
+F. van derPloeg  
 
-De raad van de gemeente Groningen, 
+De raad van de gemeente Groningen,
+
+de
+voorzitter,
 
 de 
-voorzitter, 
+secretaris.
+
+Burgemeester en wethouders van de gemeente Groningen,
+
+de 
+burgemeester,
 
 de 
 secretaris. 
-
-Burgemeester en wethouders van de gemeente Groningen, 
-
-de 
-burgemeester, 
-
-de 
-secretaris.  

@@ -20,11 +20,11 @@ Hebben goedgevonden en verstaan:
 a. het aantal delen van de onroerende zaak dat bestemd is voor afzonderlijk gebruik, en  
 
 b. de duur van het gebruik van het desbetreffende deel van de onroerende zaak.     
-2.  Partijen kunnen bij overeenkomst afwijken van het eerste lid.   
+2.  Partijen kunnen bij overeenkomst afwijken van het eerste lid.  
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 januari 2000.  
+Dit besluit treedt in werking met ingang van 1 januari 2000. 
 
 ### Artikel  3  
 
@@ -34,7 +34,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 's-Gravenhage 
 30 september 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
 A. Peper   
@@ -42,4 +42,4 @@ A. Peper
 de *zesentwintigste* oktober 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

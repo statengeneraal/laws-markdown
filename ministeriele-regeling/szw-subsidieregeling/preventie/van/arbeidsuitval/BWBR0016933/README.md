@@ -12,13 +12,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. de *minister*: de Minister van Sociale Zaken en Werkgelegenheid;  
+a. de *minister*: de Minister van Sociale Zaken en Werkgelegenheid;   
 
-b. *project*: een samenhangend geheel van activiteiten, gericht op haalbaarheid, onderzoek of ontwikkeling, in combinatie met het voor de eerste maal demonstreren van producten of diensten die met gebruikmaking van technologie een voor Nederland vernieuwende bijdrage kunnen leveren aan de oplossing van een maatschappelijk vraagstuk op het gebied van preventie van arbeidsuitval, bedoeld in bijlage 1 behorende bij deze regeling;  
+b.  *project*: een samenhangend geheel van activiteiten, gericht op haalbaarheid, onderzoek of ontwikkeling, in combinatie met het voor de eerste maal demonstreren van producten of diensten die met gebruikmaking van technologie een voor Nederland vernieuwende bijdrage kunnen leveren aan de oplossing van een maatschappelijk vraagstuk op het gebied van preventie van arbeidsuitval, bedoeld in bijlage 1 behorende bij deze regeling;  
 
-c. *samenwerkingsverband*: een geen rechtspersoonlijkheid bezittend verband, bestaande uit ten minste twee natuurlijke personen of rechtspersonen;  
+c.  *samenwerkingsverband*: een geen rechtspersoonlijkheid bezittend verband, bestaande uit ten minste twee natuurlijke personen of rechtspersonen;  
 
-d. *groep*: een economische eenheid, waarin organisatorisch zijn verbonden: 
+d.  *groep*: een economische eenheid, waarin organisatorisch zijn verbonden: 
 
 1°. natuurlijke personen of privaatrechtelijke rechtspersonen, die direct of indirect: 
 
@@ -28,7 +28,7 @@ d. *groep*: een economische eenheid, waarin organisatorisch zijn verbonden:
 
 – overwegende zeggenschap heeft over,   een of meer rechtspersonen of vennootschappen, en  
 
-2°. rechtspersonen of vennootschappen.      
+2°. rechtspersonen of vennootschappen.     
 
 ### Artikel  2  
 
@@ -39,7 +39,7 @@ d. *groep*: een economische eenheid, waarin organisatorisch zijn verbonden:
 a. de in Nederland gevestigde natuurlijke persoon of rechtspersoon die voor eigen rekening en risico een project uitvoert, of  
 
 b. de in Nederland gevestigde deelnemers in een samenwerkingsverband die voor gezamenlijke rekening en risico een project uitvoeren.     
-2.  De subsidie wordt ten behoeve van de deelnemers gezamenlijk verstrekt en betaald aan de deelnemer die als indiener van de aanvraag is opgetreden. De ontvanger van de subsidie fungeert als penvoerder.   
+2.  De subsidie wordt ten behoeve van de deelnemers gezamenlijk verstrekt en betaald aan de deelnemer die als indiener van de aanvraag is opgetreden. De ontvanger van de subsidie fungeert als penvoerder.  
 
 ### Artikel  3  
 
@@ -58,7 +58,7 @@ a. de volgende kosten, die in de eerste twee jaren na de indiening van de aanvra
 4°. aan derden verschuldigde kosten, exclusief winstopslagen bij transacties binnen een groep;    
 
 b. een opslag voor algemene kosten, groot 25 procent van de in onderdeel a, aanhef en onder 1° bedoelde loonkosten.     
-2.  De kosten worden in aanmerking genomen met inbegrip van omzetbelasting, indien de subsidieontvanger die de kosten heeft gemaakt, omzetbelasting niet in aftrek kan brengen.   
+2.  De kosten worden in aanmerking genomen met inbegrip van omzetbelasting, indien de subsidieontvanger die de kosten heeft gemaakt, omzetbelasting niet in aftrek kan brengen.  
 
 ### Artikel  4  
 
@@ -68,13 +68,13 @@ In aanvulling op [artikel 6, tweede lid, van de Algemene regeling SZW-subsidies]
 
 a. indien de activiteiten, bedoeld in [artikel 3, eerste lid, op grond van de Subsidieregeling convenanten arbeidsomstandigheden](../../../../../../ministeriele-regeling/subsidieregeling/convenanten/arbeidsomstandigheden/BWBR0010707/README.md) zijn of kunnen worden gesubsidieerd;  
 
-b. indien onaannemelijk wordt geacht dat het project binnen twee jaren kan worden uitgevoerd.    
+b. indien onaannemelijk wordt geacht dat het project binnen twee jaren kan worden uitgevoerd.   
 
 ### Artikel  5  
 
 ####Hoogte subsidiebedrag
 
-Het subsidiebedrag bedraagt 50% van de projectkosten, doch ten hoogste € 95.000.  
+Het subsidiebedrag bedraagt 50% van de projectkosten, doch ten hoogste € 95.000. 
 
 ### Artikel  6  
 
@@ -88,7 +88,7 @@ a. de toepassing van technologie in het project meer vernieuwend is;
 
 b. het project meer maatschappelijk voordeel oplevert met betrekking tot preventie van arbeidsuitval;  
 
-c. het project een groter economisch voordeel oplevert voor de betrokken ondernemers of de overheid;   met dien verstande dat aan elk van deze criteria een gelijk gewicht wordt toegekend.   
+c. het project een groter economisch voordeel oplevert voor de betrokken ondernemers of de overheid;   met dien verstande dat aan elk van deze criteria een gelijk gewicht wordt toegekend.  
 
 ### Artikel  7  
 
@@ -102,13 +102,13 @@ c. het project een groter economisch voordeel oplevert voor de betrokken onderne
 6.  De minister kan waarnemers aanwijzen, die het recht hebben de vergaderingen van de commissie bij te wonen.   
 7.  De minister voegt aan de commissie voldoende, adequate secretariële ondersteuning toe.   
 8.  De minister draagt er zorg voor dat de commissie over alle stukken die zij in verband met de uitoefening van haar taken nodig acht, kan beschikken.   
-9.  De bescheiden betreffende de werkzaamheden van de commissie worden na beëindiging van de werkzaamheden van de commissie bewaard in het archief van het Ministerie van Sociale Zaken en Werkgelegenheid.   
+9.  De bescheiden betreffende de werkzaamheden van de commissie worden na beëindiging van de werkzaamheden van de commissie bewaard in het archief van het Ministerie van Sociale Zaken en Werkgelegenheid.  
 
 ### Artikel  8  
 
 ####Beslistermijn
 
-De minister geeft een beschikking binnen vier maanden na afloop van de termijn bedoeld in artikel 13. Indien de beschikking niet binnen vier maanden kan worden gegeven, stelt de minister de aanvrager daarvan in kennis en noemt hij daarbij een redelijke termijn waarbinnen de beschikking tegemoet kan worden gezien.  
+De minister geeft een beschikking binnen vier maanden na afloop van de termijn bedoeld in artikel 13. Indien de beschikking niet binnen vier maanden kan worden gegeven, stelt de minister de aanvrager daarvan in kennis en noemt hij daarbij een redelijke termijn waarbinnen de beschikking tegemoet kan worden gezien. 
 
 ### Artikel  9  
 
@@ -120,7 +120,7 @@ a. het project uit te voeren voor het bij de subsidieverlening bepaalde tijdstip
 
 b. het project in Nederland uit te voeren, behoudens voorafgaande schriftelijke toestemming van de minister voor gedeeltelijke uitvoering buiten Nederland;  
 
-c. steeds na afloop van een periode van zes maanden aan de minister schriftelijk verslag uit te brengen omtrent de uitvoering van het project, met inbegrip van een vergelijking van die uitvoering met het projectplan, de effecten van de uitvoering op het eindresultaat en de bij de subsidieverlening vermelde raming van de projectkosten.    
+c. steeds na afloop van een periode van zes maanden aan de minister schriftelijk verslag uit te brengen omtrent de uitvoering van het project, met inbegrip van een vergelijking van die uitvoering met het projectplan, de effecten van de uitvoering op het eindresultaat en de bij de subsidieverlening vermelde raming van de projectkosten.   
 
 ### Artikel  10  
 
@@ -129,56 +129,56 @@ c. steeds na afloop van een periode van zes maanden aan de minister schriftelijk
 1.  Een voorschot wordt slechts verstrekt, indien het voorschotbedrag ten minste € 4500 bedraagt.   
 2.  Een aanvraag voor een voorschot wordt gelijktijdig ingediend met het verslag, bedoeld in artikel 9, onder c.   
 3.  Een voorschot wordt berekend naar rato van de gemaakte en betaalde projectkosten, voor zover deze nog niet eerder bij de verstrekking van een voorschot in aanmerking zijn genomen.   
-4.  Indien de aanvraag een project betreft dat wordt uitgevoerd door een samenwerkingsverband, dient de deelnemer in het samenwerkingsverband die als indiener van de aanvraag om subsidie is opgetreden, de aanvraag in mede namens de andere deelnemers en gaat de aanvraag, indien het een eerste voorschot betreft, vergezeld van een verklaring van de indiener van de aanvraag waarin hij zich aansprakelijk stelt voor terugbetaling van de subsidie, voorzover de subsidieontvangers daartoe verplicht zijn.   
+4.  Indien de aanvraag een project betreft dat wordt uitgevoerd door een samenwerkingsverband, dient de deelnemer in het samenwerkingsverband die als indiener van de aanvraag om subsidie is opgetreden, de aanvraag in mede namens de andere deelnemers en gaat de aanvraag, indien het een eerste voorschot betreft, vergezeld van een verklaring van de indiener van de aanvraag waarin hij zich aansprakelijk stelt voor terugbetaling van de subsidie, voorzover de subsidieontvangers daartoe verplicht zijn.  
 
 ### Artikel  11  
 
 ####Aanvraag subsidievaststelling
 
-In aanvulling op [artikel 14, eerste lid, van de Algemene regeling SZW-subsidies](../../../../../../ministeriele-regeling/algemene/regeling/szw-subsidies/BWBR0009211/README.md) maakt de subsidieontvanger die een aanvraag tot subsidievaststelling indient gebruik van het origineel van een ondertekend formulier, dat opgenomen is in de bij deze regeling behorende bijlage 3.  
+In aanvulling op [artikel 14, eerste lid, van de Algemene regeling SZW-subsidies](../../../../../../ministeriele-regeling/algemene/regeling/szw-subsidies/BWBR0009211/README.md) maakt de subsidieontvanger die een aanvraag tot subsidievaststelling indient gebruik van het origineel van een ondertekend formulier, dat opgenomen is in de bij deze regeling behorende bijlage 3. 
 
 ### Artikel  12  
 
 ####Subsidieplafond
 
 1.  De minister stelt jaarlijks voor de aanvang van een termijn, als bedoeld in artikel 13, een subsidieplafond vast voor het verlenen van subsidies, ter uitvoering van deze regeling.   
-2.  Voor de toepassing van deze regeling is in het kalenderjaar 2004 ten hoogste € 1.100.000,– beschikbaar.   
+2.  Voor de toepassing van deze regeling is in het kalenderjaar 2004 ten hoogste € 1.100.000,– beschikbaar.  
 
 ### Artikel  13  
 
 ####Behandelingstermijnen
 
 1.  De minister stelt jaarlijks voor de aanvang van een kalenderjaar termijnen vast waarbinnen aanvragen op grond van deze regeling worden ingediend en na afloop waarvan de aanvragen die in die termijnen zijn ontvangen worden behandeld.   
-2.  In 2004 wordt een behandelingstermijn vastgesteld van 16 augustus 2004 tot en met 30 september 2004.   
+2.  In 2004 wordt een behandelingstermijn vastgesteld van 16 augustus 2004 tot en met 30 september 2004.  
 
 ### Artikel  14  
 
 ####Slotbepaling
 
-1.  Van het subsidieplafond, bedoeld in artikel 12, en de termijnen, bedoeld in artikel 13, wordt jaarlijks mededeling gedaan door plaatsing in de Staatscourant.   
-2.  In afwijking van artikel 13, eerste lid, kunnen met ingang van het kalenderjaar 2008 geen aanvragen op grond van deze regeling meer worden ingediend.   
+1. Van het subsidieplafond, bedoeld in artikel 12, en de termijnen, bedoeld in artikel 13, wordt jaarlijks mededeling gedaan door plaatsing in de Staatscourant.  
+2.  In afwijking van artikel 13, eerste lid, kunnen met ingang van het kalenderjaar 2008 geen aanvragen op grond van deze regeling meer worden ingediend. 
 
 ### Artikel  15  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: SZW-Subsidieregeling preventie van arbeidsuitval.  
+Deze regeling wordt aangehaald als: SZW-Subsidieregeling preventie van arbeidsuitval. 
 
 ### Artikel  16  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen 2 en 3, die ter inzage worden gelegd bij het agentschap SenterNovem, Juliana van Stolberglaan 3, 2509 AC Den Haag.   
 
 Den Haag 
 30 juni 2004    
 
 De 
-Staatssecretaris van Sociale Zaken en Werkgelegenheid
-H.A.L. vanHoof   
+Staatssecretaris van Sociale Zaken en Werkgelegenheid 
+H.A.L. van Hoof     
 
-### Bijlage  1  
+### Bijlage 1  
 
 ####Preventie van arbeidsuitval
 
@@ -196,10 +196,10 @@ Het doel van het programma is een bijdrage te leveren aan de ontwikkeling van ni
 
 *  *Marktintroductie*  Geef aan wat er ook al tijdens de ontwikkeling voor nodig is om het nieuwe product gebruikt en geaccepteerd te krijgen (door de gebruikers). En zorg voor draagvlak bij de gebruikers en diegenen die beslissen over de aanschaf van het product.   
 
-### Bijlage  2  
+###Bijlage 2 
 
-ligt ter inzage bij het agentschap SenterNovem te Den Haag.  
+ligt ter inzage bij het agentschap SenterNovem te Den Haag.
 
-### Bijlage  3  
+###Bijlage 3 
 
-ligt ter inzage bij het agentschap SenterNovem te Den Haag.  
+ligt ter inzage bij het agentschap SenterNovem te Den Haag.

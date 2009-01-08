@@ -27,7 +27,7 @@ d. uitvoeringsinstelling: de uitvoeringsinstelling die in opdracht van het Lisv 
 
 e. WW-premies: de vanaf 1 januari 1999 tot en met 31 december 2000 op grond van [artikel 89, eerste lid, van de wet](../../../../../../../../../../wet/wet/overheidspersoneel/onder/de/werknemersverzekeringen/BWBR0009267/README.md) ten gunste van het Arbeidsongeschiktheidsfonds, bedoeld in artikel [72 van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), gekomen premies;  
 
-f. Uitvoeringsfonds voor de overheid: het Uitvoeringsfonds voor de overheid, bedoeld in [artikel 104 van de Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md).    
+f. Uitvoeringsfonds voor de overheid: het Uitvoeringsfonds voor de overheid, bedoeld in [artikel 104 van de Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md).   
 
 ### Artikel  2  
 
@@ -42,11 +42,11 @@ b. de instanties die bevoegd zijn de in het eerste lid bedoelde uitgaven te verr
 
 c. de andere organen dan het Lisv die goedkeuring moeten verlenen aan de begroting;  
 
-d. het financieel beheer en de financiële verantwoording ten aanzien van de onder a bedoelde uitgaven.     
+d. het financieel beheer en de financiële verantwoording ten aanzien van de onder a bedoelde uitgaven.    
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Besluit bekostiging invoering Werkloosheidswet en Ziektewet voor overheidspersoneel.  
+Dit besluit wordt aangehaald als: Besluit bekostiging invoering Werkloosheidswet en Ziektewet voor overheidspersoneel. 
 
 ### Artikel  4  
 
@@ -68,4 +68,4 @@ J. F. Hoogervorst
 de *eenentwintigste* december 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

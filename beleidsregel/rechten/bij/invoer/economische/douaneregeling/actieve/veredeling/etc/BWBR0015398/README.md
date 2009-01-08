@@ -59,7 +59,7 @@ Hoeveelheid in het vrije verkeer gebrachte ‘hoofdveredelingsproducten (2 stuks
 | --- | --- | --- |
 |:---|:---|:---|
 | – profielen  | 214 kg metaal  | --- |
-| – buizen  | 215 kg metaal  | ((200/400) × 429))  |
+| – buizen  | 215 kg metaal  |  ((200/400) × 429))  |
 | totaal  | 429 kg metaal  | --- |
 
 ###Toerekenen uitvoer

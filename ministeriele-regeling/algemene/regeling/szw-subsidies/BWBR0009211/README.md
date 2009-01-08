@@ -4,14 +4,14 @@
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
 Gelet op [artikel 3 van de Kaderwet SZW-subsidies](../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md);
-Besluit:     
-### §  1  
+Besluit:      
+### § 1 
 
-####Algemene bepalingen
+####Algemene bepalingen 
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   minister:  de Minister van Sociale Zaken en Werkgelegenheid;    subsidiabele activiteiten:  de in een subsidieregeling of in een subsidiebeschikking omschreven activiteiten, dan wel de resultaten of producten daarvan, waarop de subsidieverstrekking betrekking heeft.     
+In deze regeling wordt verstaan onder: minister: de Minister van Sociale Zaken en Werkgelegenheid;subsidiabele activiteiten: de in een subsidieregeling of in een subsidiebeschikking omschreven activiteiten, dan wel de resultaten of producten daarvan, waarop de subsidieverstrekking betrekking heeft.  
 
 ### Artikel  2  
 
@@ -23,17 +23,17 @@ In deze regeling wordt verstaan onder:   minister:  de Minister van Sociale Zake
 1.  Subsidieverstrekking vindt slechts plaats voorzover het betreft werkelijk gemaakte kosten ter uitvoering van subsidiabele activiteiten.   
 2.  Subsidieverstrekking vindt niet plaats voorzover het betreft 
 
-a. onredelijk gemaakte kosten ter uitvoering van subsidiabele activiteiten;  
+a.  onredelijk gemaakte kosten ter uitvoering van subsidiabele activiteiten; 
 
-b. kosten gemaakt ter uitvoering van activiteiten, die redelijkerwijs niet passen in de omschreven subsidiabele activiteiten.     
+b.  kosten gemaakt ter uitvoering van activiteiten, die redelijkerwijs niet passen in de omschreven subsidiabele activiteiten.    
 
 ### Artikel  4  
 
 Aan het verlenen of vaststellen van subsidie of het verlenen van voorschotten daarop voor enig jaar, kunnen geen aanspraken worden ontleend op subsidiëring in volgende jaren, onverminderd [artikel 4:51 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
 
-### §  2  
+### § 2 
 
-####Subsidieverlening
+####Subsidieverlening 
 
 ### Artikel  5  
 
@@ -46,13 +46,13 @@ Aan het verlenen of vaststellen van subsidie of het verlenen van voorschotten da
 
 1.  Subsidie wordt slechts verleend, indien de subsidie-aanvrager: 
 
-a. aannemelijk heeft gemaakt, dat zijn financiële middelen, met inbegrip van de subsidie, voldoende zijn om de voorgenomen activiteiten uit te voeren;  
+a.  aannemelijk heeft gemaakt, dat zijn financiële middelen, met inbegrip van de subsidie, voldoende zijn om de voorgenomen activiteiten uit te voeren; 
 
-b. een zodanige werkwijze toepast dat redelijkerwijs mag worden verwacht, dat de met de subsidie beoogde doeleinden zullen worden bereikt;  
+b.  een zodanige werkwijze toepast dat redelijkerwijs mag worden verwacht, dat de met de subsidie beoogde doeleinden zullen worden bereikt; 
 
-c. geen reële mogelijkheden heeft om op andere wijze de benodigde gelden te verkrijgen;  
+c.  geen reële mogelijkheden heeft om op andere wijze de benodigde gelden te verkrijgen; 
 
-d. aannemelijk heeft gemaakt dat de subsidiabele activiteiten voldoende kunnen worden beïïnvloed in kwalitatieve en kwantitatieve zin.     
+d.  aannemelijk heeft gemaakt dat de subsidiabele activiteiten voldoende kunnen worden beïïnvloed in kwalitatieve en kwantitatieve zin.    
 2.  Indien de subsidie-aanvrager voor dezelfde subsidiabele activiteiten tevens subsidie van een ander bestuursorgaan heeft aangevraagd of ontvangt, dan wel in verband daarmee van anderen inkomsten verwerft, doet hij daarvan mededeling in de aanvraag, en wordt met die andere subsidies of inkomsten rekening gehouden bij de subsidieverstrekking.   
 
 ### Artikel  7  
@@ -67,9 +67,9 @@ d. aannemelijk heeft gemaakt dat de subsidiabele activiteiten voldoende kunnen w
 2.  Een voorschot wordt niet verleend zolang de subsidie-ontvanger de bescheiden, nodig voor de subsidievaststelling betreffende voorgaande subsidieverstrekkingen, niet heeft ingezonden   
 3.  Indien vóór de subsidievaststelling een verzoek tot faillietverklaring van of verlening van surséance van betaling aan de subsidie-ontvanger is ingediend, vindt geen uitbetaling van voorschotten meer plaats.   
 
-### §  3  
+### § 3 
 
-####De aan subsidieverlening verbonden verplichtingen
+####De aan subsidieverlening verbonden verplichtingen 
 
 ### Artikel  9  
 
@@ -90,13 +90,13 @@ De subsidie-ontvanger verzekert zich tegen alle risico’s, waaruit zodanige onk
 
 1.  De subsidie-ontvanger is verplicht een administratie te voeren die voldoet aan de volgende eisen: 
 
-a. de inrichting van de administratie sluit aan bij de ingediende en goedgekeurde begroting en het projectplan; zij bevat de informatie die nodig is voor een juist inzicht in de realisatie van de subsidiabele activiteiten en voor een juiste subsidieverstrekking;  
+a.  de inrichting van de administratie sluit aan bij de ingediende en goedgekeurde begroting en het projectplan; zij bevat de informatie die nodig is voor een juist inzicht in de realisatie van de subsidiabele activiteiten en voor een juiste subsidieverstrekking; 
 
-b. de administratie is zodanig ingericht dat de juistheid en volledigheid van de financiële gegevens er op eenvoudige wijze uit kunnen worden opgemaakt. Dit houdt in: 
+b.  de administratie is zodanig ingericht dat de juistheid en volledigheid van de financiële gegevens er op eenvoudige wijze uit kunnen worden opgemaakt. Dit houdt in: 
 
-1º dat alle ontvangsten en uitgaven onmiddellijk in de administratie worden vastgelegd met onderliggende stukken; van ontvangsten en uitgaven zonder bewijsstukken wordt een afzonderlijke administratie ingericht;  
+1º dat alle ontvangsten en uitgaven onmiddellijk in de administratie worden vastgelegd met onderliggende stukken; van ontvangsten en uitgaven zonder bewijsstukken wordt een afzonderlijke administratie ingericht;
 
-2º dat bewijsstukken aanwezig zijn ten name van de gesubsidieerde waaruit de aard van de geleverde goederen en diensten duidelijk blijkt.       
+2º dat bewijsstukken aanwezig zijn ten name van de gesubsidieerde waaruit de aard van de geleverde goederen en diensten duidelijk blijkt.    
 2.  De administratie en de daarbij behorende bewijsstukken worden tenminste gedurende vijf jaar bewaard.   
 
 ### Artikel  13  
@@ -106,7 +106,7 @@ b. de administratie is zodanig ingericht dat de juistheid en volledigheid van de
 3.  De rapportages over de besteding van de subsidie sluiten aan op de ingediende begroting. Belangrijke verschillen tussen de rapportages en de begroting worden toegelicht.   
 4.  De subsidie-ontvanger geeft aan de Accountantsdienst van het Ministerie van Sociale Zaken en Werkgelegenheid op verzoek inzage van de in artikel 12 bedoelde administratie en verstrekt alle inlichtingen die redelijkerwijs noodzakelijk zijn om een juist inzicht te verkrijgen in de uitvoering van het projectplan en de besteding van de subsidie.   
 
-### §  4  
+### § 4 
 
 ####Subsidievaststelling
 
@@ -131,7 +131,7 @@ b. de administratie is zodanig ingericht dat de juistheid en volledigheid van de
 1.  Voorzover het verstrekken van subsidie heeft geleid tot vermogensvorming moet dat uit de declaratie blijken en is daarvoor overeenkomstig [artikel 4:41 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een vergoeding verschuldigd.   
 2.  Bij de bepaling van de hoogte van de vergoeding wordt uitgegaan van de marktwaarde van de eigendommen en andere vermogensbestanddelen op het tijdstip waarop de vergoeding verschuldigd wordt, met dien verstande dat in geval van ontvangst van schadevergoeding voor verlies of beschadiging van eigendommen wordt uitgegaan van het bedrag dat als schadevergoeding wordt ontvangen.   
 
-### §  5  
+### § 5 
 
 ####Terugvordering
 
@@ -140,7 +140,7 @@ b. de administratie is zodanig ingericht dat de juistheid en volledigheid van de
 1.  Na de subsidievaststelling is de subsidie-ontvanger verplicht een teveel ontvangen voorschot onverwijld terug te betalen, tenzij de minister tot verrekening op andere wijze heeft besloten.   
 2.  Bij terugvordering van onverschuldigd betaalde subsidiebedragen en voorschotten wordt de subsidie-ontvanger aansprakelijk gesteld voor de met de terugvordering verband houdende kosten. Tevens wordt in dat geval overgegaan tot het berekenen van de wettelijke rente.   
 
-### §  6  
+### § 6 
 
 ####Per boekjaar aan rechtspersonen verstrekte subsidies
 
@@ -152,9 +152,9 @@ b. de administratie is zodanig ingericht dat de juistheid en volledigheid van de
 4.  De declaratie, behorend bij een verzoek om subsidievaststelling met betrekking tot een verstreken boekjaar, geeft een zodanig inzicht dat een verantwoord oordeel kan worden gevormd omtrent de besteding van de subsidie. De declaratie sluit aan op de door de minister goedgekeurde begroting. Belangrijke verschillen tussen declaratie en goedgekeurde begroting worden toegelicht. In de declaratie wordt de aansluiting tussen de declaratie en de jaarrekening toegelicht. In de jaarrekening mogen geen reserveringen of voorzieningen worden opgenomen, tenzij deze inbegrepen zijn in de door de minister goedgekeurde begroting.   
 5.  Indien de subsidie-ontvanger zijn inkomsten slechts gedeeltelijk ontleent aan de subsidie, is [artikel 4:76 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
 
-### §  7  
+### § 7 
 
-####Slotbepalingen
+####Slotbepalingen 
 
 ### Artikel  20  
 
@@ -163,7 +163,7 @@ b. de administratie is zodanig ingericht dat de juistheid en volledigheid van de
 
 ### Artikel  21  
 
-Deze regeling wordt aangehaald als Algemene Regeling SZW-subsidies.  
+Deze regeling wordt aangehaald als Algemene Regeling SZW-subsidies. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -171,4 +171,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister voornoemd, 
-A.P.W.Melkert    
+A.P.W.  Melkert      

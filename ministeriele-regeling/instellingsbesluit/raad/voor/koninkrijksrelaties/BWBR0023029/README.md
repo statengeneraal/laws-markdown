@@ -10,11 +10,11 @@ Besluit:
 
 ### Artikel  1  
 
-Er is een onderraad van de raad van ministers van het Koninkrijk, de raad voor Koninkrijksrelaties (RKR).  
+Er is een onderraad van de raad van ministers van het Koninkrijk, de raad voor Koninkrijksrelaties (RKR). 
 
 ### Artikel  2  
 
-De raad voor Koninkrijksrelaties is belast met voorbereiding van de besluitvorming van de raad van ministers van het Koninkrijk.  
+De raad voor Koninkrijksrelaties is belast met voorbereiding van de besluitvorming van de raad van ministers van het Koninkrijk. 
 
 ### Artikel  3  
 
@@ -38,19 +38,19 @@ h. de Minister van Verkeer en Waterstaat;
 
 i. de Gevolmachtigde Minister van de Nederlandse Antillen;  
 
-j. de Gevolmachtigde Minister van Aruba.    
+j. de Gevolmachtigde Minister van Aruba.   
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit raad voor Koninkrijksrelaties.  
+Dit besluit wordt aangehaald als: Instellingsbesluit raad voor Koninkrijksrelaties. 
 Dit besluit zal met de toelichting in de Staatscourant, de Curaçaosche Courant en de Landscourant van Aruba worden geplaatst.  
 
 De 
 Minister-President, 
 Minister van Algemene Zaken, 
 Voorzitter van de raad van ministers van het Koninkrijk, 
-J.P.Balkenende   
+J.P. Balkenende     

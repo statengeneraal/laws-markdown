@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit donorregister.   
+Wijzigt het Besluit donorregister. 
 
 ### Artikel  II  
 
-Vóór de datum van inwerkingtreding van dit besluit toegezonden donorformulieren behouden hun gelding.  
+Vóór de datum van inwerkingtreding van dit besluit toegezonden donorformulieren behouden hun gelding. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -31,13 +31,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 6 december 2006  
 Beatrix  
 
-De Minister van Volksgezondheid, Welzijn en Sport, 
-J. F.Hoogervorst 
+De Minister van Volksgezondheid, Welzijn en Sport , 
+J. F. Hoogervorst   
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin 
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin   
 
 de *vijfentwintigste* januari 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

@@ -10,35 +10,40 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is in de [Wet werk en b
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-01-2011 
 
-Wijzigt de Wet werk en bijstand.   
+Wijzigt de Wet werk en bijstand. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-01-2011 
 
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.   
+Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-01-2011 
 
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.   
+Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 01-01-2011 
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  V  
+Materieel uitgewerkt per 01-01-2011 
 
-Deze wet wordt aangehaald als: Wet verbetering arbeidsmarktpositie alleenstaande ouders.  
+Deze wet wordt aangehaald als: Wet verbetering arbeidsmarktpositie alleenstaande ouders. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 29 december 2008  
 Beatrix  
 
-De Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
-J.Klijnsma 
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid , 
+J. Klijnsma   
 
 de *dertigste* december 2008 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

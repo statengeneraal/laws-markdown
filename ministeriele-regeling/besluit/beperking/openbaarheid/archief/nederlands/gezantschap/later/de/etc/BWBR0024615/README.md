@@ -16,14 +16,14 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer is het inventaris
 
 ### Artikel  2  
 
-Het [Besluit van de Minister van Buitenlandse Zaken van 10 juli 2008, nr. DDI/ST/reg. 017/2008, houdende beperking van de openbaarheid van het archief van het Nederlands Gezantschap, later de Ambassade in Luxemburg van het Ministerie van Buitenlandse Zaken, 1955–1974](../../../../../../../../../../../ministeriele-regeling/besluit/beperking/openbaarheid/archief/nederlands/gezantschap/later/de/etc/BWBR0024231/README.md), wordt ingetrokken.  
+Het [Besluit van de Minister van Buitenlandse Zaken van 10 juli 2008, nr. DDI/ST/reg. 017/2008, houdende beperking van de openbaarheid van het archief van het Nederlands Gezantschap, later de Ambassade in Luxemburg van het Ministerie van Buitenlandse Zaken, 1955–1974](../../../../../../../../../../../ministeriele-regeling/besluit/beperking/openbaarheid/archief/nederlands/gezantschap/later/de/etc/BWBR0024231/README.md), wordt ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van het Nederlands Gezantschap, later de Ambassade in Luxemburg van het Ministerie van Buitenlandse Zaken, 1955–1974’.  
 
 De 
 Minister van Buitenlandse Zaken, namens deze: de 
 directeur van de Directie Documentaire Informatievoorziening, 
-H.Y.Buijs   
+H.Y. Buijs     

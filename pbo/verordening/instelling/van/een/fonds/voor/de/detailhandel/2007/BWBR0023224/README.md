@@ -31,7 +31,7 @@ In deze verordening wordt verstaan onder:
 ### Artikel  2  
 
 1.  Er is een fonds voor de detailhandel.   
-2.  De middelen van het fonds maken deel uit van het vermogen van het productschap.   
+2.  De middelen van het fonds maken deel uit van het vermogen van het productschap.  
 
 ### Artikel  3  
 
@@ -43,7 +43,7 @@ b. rente van belegde gelden;
 
 c. terugbetaling van uitkeringen;  
 
-d. andere baten, met uitzondering van de opbrengst van heffingen wegens het invoeren uit staten die lid zijn van de Europese Unie of partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte.    
+d. andere baten, met uitzondering van de opbrengst van heffingen wegens het invoeren uit staten die lid zijn van de Europese Unie of partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte.   
 
 ### Artikel  4  
 
@@ -55,36 +55,36 @@ b. het verlenen van geldelijke steun voor de bevordering van de opleiding voor k
 
 c. het verlenen van geldelijke steun om het tot stand komen van goede leermiddelen ten dienste van de opleiding voor kleinhandelaren te bevorderen;  
 
-d. uitgaven ten bate van belangenbehartiging, opleiding en voorlichting in de meest ruime zin van het woord.    
+d. uitgaven ten bate van belangenbehartiging, opleiding en voorlichting in de meest ruime zin van het woord.   
 
 ### Artikel  5  
 
 1.  Het bestuur beslist over de bestemming van de middelen van het fonds.   
 2.  Het bestuur neemt geen besluit over de bestemming van de middelen van het fonds dan na advies van de commissie detailhandel.   
 3.  Bij de bestemming van de middelen dient te allen tijde voldaan te worden aan de voorwaarden gesteld in de Europese en nationale regelingen met betrekking tot steun- en subsidieverlening.   
-4.  Bij uitvoering van het bepaalde in het eerste en derde lid, kan de voorzitter beschikkingen of besluiten nemen als bedoeld in [titel 4.2 Subsidies van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+4.  Bij uitvoering van het bepaalde in het eerste en derde lid, kan de voorzitter beschikkingen of besluiten nemen als bedoeld in [titel 4.2 Subsidies van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
 
 ### Artikel  6  
 
-Het fonds kan door het bestuur worden opgeheven, in welk geval de voorzitter namens het bestuur als liquidateur optreedt en het behoeve van de detailhandel.  
+Het fonds kan door het bestuur worden opgeheven, in welk geval de voorzitter namens het bestuur als liquidateur optreedt en het behoeve van de detailhandel. 
 
 ### Artikel  7  
 
 1.  Het onderzoekfonds kleinhandel, bedoeld in [artikel 2, eerste lid, van de Verordening instelling van een onderzoekfonds kleinhandel](../../../../../../../../../../../pbo/verordening/instelling/van/een/onderzoekfonds/kleinhandel/BWBR0014880/README.md) wordt opgeheven.   
 2.  Het onderwijsfonds kleinhandel, bedoeld in [artikel 2, eerste lid, van de Verordening instelling van een onderwijsfonds kleinhandel](../../../../../../../../../../../pbo/verordening/instelling/van/een/onderwijsfonds/kleinhandel/BWBR0014878/README.md) wordt opgeheven.   
 3.  Het liquidatiesaldo van het onderzoekfonds kleinhandel wordt ten bate gebracht van het fonds, bedoeld in artikel 2, eerste lid, en mag alleen bestemd worden voor onderzoeksprojecten ten behoeve van de detailhandel.   
-4.  Het liquidatiesaldo van het onderwijsfonds kleinhandel wordt ten bate gebracht van het fonds, bedoeld in artikel 2, eerste lid, en mag alleen bestemd worden voor onderwijs- en voorlichtingsprojecten ten behoeve van de detailhandel.   
+4.  Het liquidatiesaldo van het onderwijsfonds kleinhandel wordt ten bate gebracht van het fonds, bedoeld in artikel 2, eerste lid, en mag alleen bestemd worden voor onderwijs- en voorlichtingsprojecten ten behoeve van de detailhandel.  
 
 ### Artikel  8  
 
 1.  De [Verordening instelling van een onderzoekfonds kleinhandel](../../../../../../../../../../../pbo/verordening/instelling/van/een/onderzoekfonds/kleinhandel/BWBR0014880/README.md) wordt ingetrokken.   
 2.  De [Verordening instelling van een onderwijsfonds kleinhandel](../../../../../../../../../../../pbo/verordening/instelling/van/een/onderwijsfonds/kleinhandel/BWBR0014878/README.md) wordt ingetrokken.   
-3.  Alle reeds en nog verschuldigde baten en lasten van de fondsen, bedoeld in de vorige leden, gaan over naar het fonds, genoemd in artikel 2.   
+3.  Alle reeds en nog verschuldigde baten en lasten van de fondsen, bedoeld in de vorige leden, gaan over naar het fonds, genoemd in artikel 2.  
 
 ### Artikel  9  
 
 1.  Deze verordening treedt in werking op l januari 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2007, treedt deze verordening in werking met ingang van de dag na de datum van uitgifte van het Verordeningenblad Bedrijfsorganisatie en werkt deze terug tot en met l januari 2008.   
-2.  Deze verordening kan worden aangehaald als Verordening instelling van een fonds voor de detailhandel 2007.   
+2.  Deze verordening kan worden aangehaald als Verordening instelling van een fonds voor de detailhandel 2007.  
 
 Rijswijk 
 4 oktober 2007   

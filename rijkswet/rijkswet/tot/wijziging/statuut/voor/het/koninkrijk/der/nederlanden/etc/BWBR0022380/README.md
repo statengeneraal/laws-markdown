@@ -11,23 +11,23 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Artikel  I  
 
-Wijzigt het Statuut voor het Koninkrijk der Nederlanden.   
+Wijzigt het Statuut voor het Koninkrijk der Nederlanden. 
 
 ### Artikel  II  
 
-Op het tijdstip van inwerkingtreding van deze rijkswet in het Koninkrijk bestaande rijkswetten, wetten, landsverordeningen, algemene maatregelen van rijksbestuur, algemene maatregelen van bestuur, andere regelingen en besluiten die in strijd zijn met de bij deze rijkswet vastgestelde veranderingen in het [Statuut](../../../../../../../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md), blijven gehandhaafd, totdat daarvoor met inachtneming van het [Statuut](../../../../../../../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md) een voorziening is getroffen.  
+Op het tijdstip van inwerkingtreding van deze rijkswet in het Koninkrijk bestaande rijkswetten, wetten, landsverordeningen, algemene maatregelen van rijksbestuur, algemene maatregelen van bestuur, andere regelingen en besluiten die in strijd zijn met de bij deze rijkswet vastgestelde veranderingen in het [Statuut](../../../../../../../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md), blijven gehandhaafd, totdat daarvoor met inachtneming van het [Statuut](../../../../../../../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md) een voorziening is getroffen. 
 
 ### Artikel  III  
 
-Waar in op het tijdstip van inwerkingtreding van deze rijkswet geldende bepalingen in rijkswetten, wetten, algemene maatregelen van rijksbestuur, algemene maatregelen van bestuur en daarop gebaseerde regelingen en besluiten melding wordt gemaakt van de Nederlandse Antillen, wordt, zolang die bepalingen niet met deze rijkswet in overeenstemming zijn gebracht, daaronder mede begrepen Aruba.  
+Waar in op het tijdstip van inwerkingtreding van deze rijkswet geldende bepalingen in rijkswetten, wetten, algemene maatregelen van rijksbestuur, algemene maatregelen van bestuur en daarop gebaseerde regelingen en besluiten melding wordt gemaakt van de Nederlandse Antillen, wordt, zolang die bepalingen niet met deze rijkswet in overeenstemming zijn gebracht, daaronder mede begrepen Aruba. 
 
 ### Artikel  IV  
 
-De tekst van het [Statuut voor het Koninkrijk der Nederlanden](../../../../../../../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md) wordt bij koninklijk besluit bekend gemaakt in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba. Daarbij wordt het gebruik van hoofdletters in overeenstemming gebracht met het gebruik van hoofdletters in de [Grondwet](../../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md).  
+De tekst van het [Statuut voor het Koninkrijk der Nederlanden](../../../../../../../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md) wordt bij koninklijk besluit bekend gemaakt in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba. Daarbij wordt het gebruik van hoofdletters in overeenstemming gebracht met het gebruik van hoofdletters in de [Grondwet](../../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md). 
 
 ### Artikel  V  
 
-Deze rijkswet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.  
+Deze rijkswet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -37,13 +37,13 @@ Beatrix
 
 De Minister-President,
 Minister van Algemene Zaken, 
-R.F.M.Lubbers 
+R.F.M. Lubbers   
 
 De Minister voorNederlands-Antilliaanse Zaken , 
 J. de Koning   
 
 De Minister vanBinnenlandse Zaken , 
-Rietkerk   
+Rietkerk  
 
 de *twintigste* augustus 1985 
 

@@ -4,16 +4,16 @@
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, dr. F. van der Ploeg,  
 Gelet op de [artikelen 96](../../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) en [97 van de Wet gemeenschappelijke regelingen](../../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md);
-Besluiten: De raden en de colleges van burgemeester en wethouders van de gemeenten Arnhem, Renkum, Rheden en Rozendaal, tot het treffen van de navolgende gemeenschappelijke regeling tot de instelling van een openbaar lichaam dat de archiefbescheiden en collecties, die berusten in de gemeentelijke archiefbewaarplaatsen van de gemeenten Arnhem, Renkum, Rheden en Rozendaal en in de rijksarchiefbewaarplaats in de provincie Gelderland, beheert.     
-### Hoofdstuk  I  
+Besluiten: De raden en de colleges van burgemeester en wethouders van de gemeenten Arnhem, Renkum, Rheden en Rozendaal, tot het treffen van de navolgende gemeenschappelijke regeling tot de instelling van een openbaar lichaam dat de archiefbescheiden en collecties, die berusten in de gemeentelijke archiefbewaarplaatsen van de gemeenten Arnhem, Renkum, Rheden en Rozendaal en in de rijksarchiefbewaarplaats in de provincie Gelderland, beheert.    
+### Hoofdstuk I 
 
-####Begripsbepalingen
+####Begripsbepalingen 
 
 ### Artikel  1  
 
-In deze gemeenschappelijke regeling wordt verstaan onder:   a. de minister:  de Minister van Onderwijs, Cultuur en Wetenschappen;    b. de gemeenten:  de gemeenten Arnhem, Renkum, Rheden en Rozendaal;    c. archiefbescheiden:  archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md).     
+In deze gemeenschappelijke regeling wordt verstaan onder: a.de minister: de Minister van Onderwijs, Cultuur en Wetenschappen;b.de gemeenten: de gemeenten Arnhem, Renkum, Rheden en Rozendaal;c.archiefbescheiden: archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md). 
 
-### Hoofdstuk  II  
+### Hoofdstuk II 
 
 ####Instelling, doel en beleid van het openbaar lichaam Gelders Archief
 
@@ -23,13 +23,13 @@ In deze gemeenschappelijke regeling wordt verstaan onder:   a. de minister:  de 
 2.  Het Gelders Archief is ingesteld met het doel de belangen van de minister en de gemeenten bij alle aangelegenheden betreffende de archiefbescheiden, collecties, individuele documenten en dergelijke die berusten in de rijksarchiefbewaarplaats in de provincie Gelderland en in de gemeentelijke archiefbewaarplaatsen van Arnhem, Renkum, Rheden en Rozendaal in gezamenlijkheid te behartigen.   
 3.  Aan het Gelders Archief zijn daartoe de navolgende werkzaamheden, taken en bevoegdheden van de minister en de gemeenten opgedragen: 
 
-a. de beheerstaken, te onderscheiden in het behouden, bewerken en benutten van de archiefbescheiden die berusten in de in het tweede lid genoemde archiefbewaarplaatsen;  
+a.  de beheerstaken, te onderscheiden in het behouden, bewerken en benutten van de archiefbescheiden die berusten in de in het tweede lid genoemde archiefbewaarplaatsen; 
 
-b. de taken en bevoegdheden, bedoeld in de [artikelen 15, derde lid](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [16, tweede lid](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [17](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [18](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [20](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [26, tweede lid](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [31](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) en [32 van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);  
+b.  de taken en bevoegdheden, bedoeld in de [artikelen 15, derde lid](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [16, tweede lid](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [17](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [18](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [20](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [26, tweede lid](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [31](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) en [32 van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md); 
 
-c. het adviseren en het doen van voorstellen aan de minister en de gemeenten over de taken en bevoegdheden, die door de minister of de gemeenten worden uitgevoerd ingevolge de [artikelen 5](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [6](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [7](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [8](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [12](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [13](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [15, eerste en tweede lid](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [30](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) en [32, tweede lid, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);  
+c.  het adviseren en het doen van voorstellen aan de minister en de gemeenten over de taken en bevoegdheden, die door de minister of de gemeenten worden uitgevoerd ingevolge de [artikelen 5](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [6](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [7](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [8](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [12](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [13](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [15, eerste en tweede lid](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), [30](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) en [32, tweede lid, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md); 
 
-d. het verrichten van door de minister of de gemeenten opgedragen andere taken die verband houden met de behartiging van de belangen, bedoeld in het tweede lid.     
+d.  het verrichten van door de minister of de gemeenten opgedragen andere taken die verband houden met de behartiging van de belangen, bedoeld in het tweede lid.    
 4.  Het Gelders Archief voert bij de behartiging van de belangen, bedoeld in het tweede lid, het archiefbeleid van de minister en de gemeenten mede uit.   
 5.  De minister en de gemeenten kunnen met het Gelders Archief afspraken maken over de wijze waarop invulling wordt gegeven aan de in het derde lid genoemde taken en bevoegdheden.   
 6.  De minister en de gemeenten kunnen gezamenlijk algemene aanwijzingen geven omtrent de wijze waarop het Gelders Archief de belangen, bedoeld in het tweede lid, behartigt.   
@@ -39,9 +39,9 @@ d. het verrichten van door de minister of de gemeenten opgedragen andere taken d
 
 Het Gelders Archief brengt de kosten, bedoeld in de [artikelen 14](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) en [18, zesde lid, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) in rekening volgens de regels die het algemeen bestuur ingevolge [artikel 19 van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) daaromtrent vaststelt.  
 
-### Hoofdstuk  III  
+### Hoofdstuk III 
 
-####Het algemeen bestuur
+####Het algemeen bestuur 
 
 ### Artikel  4  
 
@@ -62,7 +62,7 @@ Het Gelders Archief brengt de kosten, bedoeld in de [artikelen 14](../../../../.
 1.  Het voorzitterschap van het algemeen bestuur wordt bij toerbeurt voor een periode van twee jaar vervuld door een door de gemeenten aangewezen lid, onderscheidenlijk door een daartoe door de minister aangewezen lid, volgens een door het algemeen bestuur vastgesteld rooster.   
 2.  Het algemeen bestuur regelt de vervanging van de voorzitter.   
 
-### Hoofdstuk  IV  
+### Hoofdstuk IV 
 
 ####De taken en bevoegdheden van het algemeen bestuur
 
@@ -71,11 +71,11 @@ Het Gelders Archief brengt de kosten, bedoeld in de [artikelen 14](../../../../.
 1.  Aan het algemeen bestuur behoren ter uitvoering van de aan het Gelders Archief toegekende taak alle bevoegdheden die niet aan een ander orgaan zijn opgedragen.   
 2.  Aan het algemeen bestuur worden de volgende taken en bevoegdheden toegekend: 
 
-a. de bevoegdheid van de raden van de gemeente om ingevolge [artikel 31 van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) de gemeentelijke archiefbewaarplaats(en) aan te wijzen;  
+a.  de bevoegdheid van de raden van de gemeente om ingevolge [artikel 31 van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) de gemeentelijke archiefbewaarplaats(en) aan te wijzen; 
 
-b. de bevoegdheid van de minister om de rijksarchivaris in de provincie Gelderland, bedoeld in [artikel 26, tweede lid, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), te benoemen, te schorsen, en te ontslaan;  
+b.  de bevoegdheid van de minister om de rijksarchivaris in de provincie Gelderland, bedoeld in [artikel 26, tweede lid, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), te benoemen, te schorsen, en te ontslaan; 
 
-c. de bevoegdheid van de raden van de gemeenten om ingevolge [artikel 32, derde lid, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) de gemeentearchivaris te benoemen, te schorsen en te ontslaan.     
+c.  de bevoegdheid van de raden van de gemeenten om ingevolge [artikel 32, derde lid, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) de gemeentearchivaris te benoemen, te schorsen en te ontslaan.    
 3.  Het algemeen bestuur kan de directeur, bedoeld in artikel 29, tot rijksarchivaris in de provincie Gelderland en tot gemeentearchivaris van Arnhem, Renkum, Rheden en Rozendaal benoemen.   
 4.  Aan de bevoegdheden van het algemeen bestuur worden geen beperkingen opgelegd ingevolge [artikel 31 van de Wet gemeenschappelijke regelingen](../../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), mits het totaal van de aangegane verplichtingen binnen de goedgekeurde begroting valt. Voor het aangaan van verplichtingen door het algemeen bestuur buiten de goedgekeurde begroting wordt vooraf toestemming gevraagd aan de raden van de gemeenten en aan de minister, ingevolge de artikelen 18 en 19.   
 
@@ -92,7 +92,7 @@ Het algemeen bestuur verstrekt zo spoedig mogelijk schriftelijk aan de raden van
 
 De minister en de raden van de gemeenten kunnen een door hen aangewezen lid van het algemeen bestuur, dat hun vertrouwen niet meer geniet, ontslag verlenen.  
 
-### Hoofdstuk  V  
+### Hoofdstuk V 
 
 ####Het dagelijks bestuur
 
@@ -102,7 +102,7 @@ De minister en de raden van de gemeenten kunnen een door hen aangewezen lid van 
 2.  Het lidmaatschap van het dagelijks bestuur eindigt zodra men ophoudt lid te zijn van het algemeen bestuur.   
 3.  Artikel 4, tiende en elfde lid is van overeenkomstige toepassing.   
 
-### Hoofdstuk  VI  
+### Hoofdstuk VI 
 
 ####De werkwijze van het dagelijks bestuur
 
@@ -114,7 +114,7 @@ Het dagelijks bestuur vergadert zo dikwijls als één of meer leden van het dage
 
 Het dagelijks bestuur stelt regels voor zijn vergaderingen vast.  
 
-### Hoofdstuk  VII  
+### Hoofdstuk VII 
 
 ####De taken en bevoegdheden van het dagelijks bestuur
 
@@ -122,19 +122,19 @@ Het dagelijks bestuur stelt regels voor zijn vergaderingen vast.
 
 Het dagelijks bestuur is in ieder geval belast met: 
 
-a. de zorg voor de uitvoering van de aan het openbaar lichaam opgedragen bevoegdheden en taken, zoals genoemd in artikel 2, voor zover die niet zijn opgedragen aan het algemeen bestuur;  
+a.  de zorg voor de uitvoering van de aan het openbaar lichaam opgedragen bevoegdheden en taken, zoals genoemd in artikel 2, voor zover die niet zijn opgedragen aan het algemeen bestuur; 
 
-b. het voorbereiden, voor zover dit niet aan anderen is opgedragen van al hetgeen in het algemeen bestuur ter overweging moet worden gebracht;  
+b.  het voorbereiden, voor zover dit niet aan anderen is opgedragen van al hetgeen in het algemeen bestuur ter overweging moet worden gebracht; 
 
-c. het uitvoeren van de besluiten van het algemeen bestuur, voor zover dit niet aan anderen is opgedragen;  
+c.  het uitvoeren van de besluiten van het algemeen bestuur, voor zover dit niet aan anderen is opgedragen; 
 
-d. het beheer van de activa en passiva van het Gelders Archief;  
+d.  het beheer van de activa en passiva van het Gelders Archief; 
 
-e. de zorg, voor zover deze van het dagelijks bestuur afhangt, voor de controle op het geldelijk beheer en de boekhouding van Gelders Archief;  
+e.  de zorg, voor zover deze van het dagelijks bestuur afhangt, voor de controle op het geldelijk beheer en de boekhouding van Gelders Archief; 
 
-f. het nemen van alle conservatoire maatregelen zowel in als buiten rechte en het doen van alles wat nodig is ter voorkoming van verjaring van recht of bezit.    
+f.  het nemen van alle conservatoire maatregelen zowel in als buiten rechte en het doen van alles wat nodig is ter voorkoming van verjaring van recht of bezit.   
 
-### Hoofdstuk  VIII  
+### Hoofdstuk VIII 
 
 ####De voorzitter
 
@@ -145,7 +145,7 @@ f. het nemen van alle conservatoire maatregelen zowel in als buiten rechte en he
 3.  De voorzitter tekent de stukken die van het algemeen bestuur of het dagelijks bestuur uitgaan, tenzij hij aan de directeur het tekenen van bepaalde stukken heeft opgedragen.   
 4.  De voorzitter vertegenwoordigt het Gelders Archief in en buiten rechte. De vertegenwoordiging kan hij opdragen aan een door hem aan te wijzen gevolmachtigde.   
 
-### Hoofdstuk  IX  
+### Hoofdstuk IX 
 
 ####Tegemoetkoming en vergoeding
 
@@ -155,7 +155,7 @@ f. het nemen van alle conservatoire maatregelen zowel in als buiten rechte en he
 2.  De leden van de besturen, bedoeld in het eerste lid, ontvangen een tegemoetkoming in de kosten, waartoe worden gerekend reis- en verblijfkosten ten behoeve van het bijwonen van de vergaderingen van het algemeen bestuur.   
 3.  De in de voorgaande leden bedoelde vergoeding en tegemoetkoming worden door het algemeen bestuur vastgesteld en opgenomen in de jaarlijkse begroting.   
 
-### Hoofdstuk  X  
+### Hoofdstuk X 
 
 ####Financiële bepalingen
 
@@ -223,7 +223,7 @@ Na ontvangst van het financieel verslag en het jaarverslag stellen de minister e
 
 De minister en de gemeenten kunnen, binnen het kader van de onderhavige regeling, gezamenlijk nadere regels stellen over het financieel en materieel beheer, over de inrichting van de begroting, het financieel verslag, jaarverslag en aandachtspunten voor de accountantscontrole.  
 
-### Hoofdstuk  XI  
+### Hoofdstuk XI 
 
 ####Het archief
 
@@ -232,7 +232,7 @@ De minister en de gemeenten kunnen, binnen het kader van de onderhavige regeling
 1.  Overeenkomstig door het algemeen bestuur met inachtneming van de [Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) vast te stellen regels, die aan gedeputeerde staten worden medegedeeld, draagt het dagelijks bestuur zorg voor de archiefbescheiden van het Gelders Archief.   
 2.  De archiefbescheiden van het Gelders Archief die op grond van de [Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) moeten worden overgebracht, komen te berusten in de rijksarchiefbewaarplaats in de provincie Gelderland.   
 
-### Hoofdstuk  XII  
+### Hoofdstuk XII 
 
 ####Informatieplicht / Toezicht
 
@@ -246,7 +246,7 @@ De minister en de gemeenten kunnen, binnen het kader van de onderhavige regeling
 1.  De bestuursorganen van de gemeenten en de minister doen het dagelijks bestuur mededeling van de bij hen in voorbereiding zijnde maatregelen en plannen die voor de behartiging van de belangen, bedoeld in artikel 2, voor het Gelders Archief van belang zijn.   
 2.  De bestuursorganen van de gemeenten en de minister kunnen, bij de in het eerste lid bedoelde mededeling, het gevoelen vragen van het dagelijks bestuur. Ook ongevraagd kan het dagelijks bestuur zijn zienswijze daaromtrent aan de gemeenten of minister kenbaar maken.   
 
-### Hoofdstuk  XIII  
+### Hoofdstuk XIII 
 
 ####De directeur en het overige personeel
 
@@ -274,7 +274,7 @@ Het overige personeel wordt in dienst genomen, geschorst of ontslagen door het d
 
 De rechtspositieregeling van de gemeente Arnhem, zoals deze thans luidt en in de toekomst na wijziging zal luiden, is op het personeel van overeenkomstige toepassing, tenzij het algemeen bestuur van het Gelders Archief een op onderdelen anders luidende regeling vaststelt. Een dergelijke afwijkende regeling behoeft de instemming van de centrales voor overheidspersoneel.  
 
-### Hoofdstuk  XIV  
+### Hoofdstuk XIV 
 
 ####De Provincie
 
@@ -283,7 +283,7 @@ De rechtspositieregeling van de gemeente Arnhem, zoals deze thans luidt en in de
 1.  Gedeputeerde staten ontvangen tegelijk met de leden van het algemeen en dagelijks bestuur de agenda van de vergaderingen van het algemeen en dagelijks bestuur.   
 2.  Een door gedeputeerde staten aan te wijzen ambtenaar kan, op uitnodiging, de vergaderingen van het algemeen of dagelijks bestuur bijwonen. In die gevallen heeft hij een adviserende stem.   
 
-### Hoofdstuk  XV  
+### Hoofdstuk XV 
 
 ####Toetreding, uittreding, wijziging en opheffing
 
@@ -305,7 +305,7 @@ Deze regeling kan worden gewijzigd bij besluit van de raden van de gemeenten en 
 
 Deze regeling kan worden opgeheven bij besluit van de raden van de gemeenten en de minister gezamenlijk. Het algemeen bestuur stelt een liquidatieplan op dat voorziet in de verplichting van de raden van de gemeenten en de minister om alle rechten en plichten van het openbaar lichaam over de deelnemers te verdelen op een in het plan te bepalen wijze.  
 
-### Hoofdstuk  XVI  
+### Hoofdstuk XVI 
 
 ####Slotbepalingen
 
@@ -315,78 +315,78 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  40  
 
-Deze regeling kan worden aangehaald als: Regeling Regionaal Historisch Centrum `Gelders Archief'.  
-Deze regeling zal met de toelichting door de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen in de Staatscourant worden geplaatst.   
+Deze regeling kan worden aangehaald als: Regeling Regionaal Historisch Centrum `Gelders Archief'. 
+Deze regeling zal met de toelichting door de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen in de Staatscourant worden geplaatst. 
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, 
 
-F. van der Ploeg   
+F. van der Ploeg 
 
-De raad van de gemeente Arnhem, 
-
-de 
-voorzitter 
+De raad van de gemeente Arnhem,
 
 de 
-secretaris 
+voorzitter
+
+de 
+secretaris
 
 Burgemeester en 
-wethouders van de gemeente Arnhem, 
+wethouders van de gemeente Arnhem,
 
 de 
-burgemeester 
+burgemeester
 
 de 
-secretaris 
+secretaris
 
-De raad van de gemeente Renkum, 
-
-de 
-voorzitter 
+De raad van de gemeente Renkum,
 
 de 
-secretaris 
+voorzitter
+
+de 
+secretaris
 
 Burgemeester en 
-wethouders van de gemeente Renkum, 
+wethouders van de gemeente Renkum,
 
 de 
-burgemeester 
+burgemeester
 
 de 
-secretaris 
+secretaris
 
-De raad van de gemeente Rheden, 
-
-de 
-voorzitter 
+De raad van de gemeente Rheden,
 
 de 
-secretaris 
+voorzitter
+
+de 
+secretaris
 
 Burgemeester en 
-wethouders van de gemeente Rheden, 
+wethouders van de gemeente Rheden,
 
 de 
-burgemeester 
+burgemeester
 
 de 
-secretaris 
+secretaris
 
-De raad van de gemeente Rozendaal, 
-
-de 
-voorzitter 
+De raad van de gemeente Rozendaal,
 
 de 
-secretaris 
+voorzitter
+
+de 
+secretaris
 
 Burgemeester en 
-wethouders van de gemeente Rozendaal, 
+wethouders van de gemeente Rozendaal,
 
 de 
-burgemeester 
+burgemeester
 
 de 
-secretaris    
+secretaris   

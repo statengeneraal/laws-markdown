@@ -17,24 +17,24 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder: 
+In dit besluit wordt verstaan onder:  
 
 a. "vreemde militaire luchtvaartuigen": alle luchtvaartuigen van vreemde nationaliteit, waarin het bevel wordt gevoerd door een militair van vreemde nationaliteit;  
 
 b. "Nederlands rechtsgebied": het grondgebied van Nederland, daaronder begrepen de territoriale wateren, zomede de luchtruimte boven dit gebied;  
 
-c. "Onze minister": Onze minister van defensie.    
+c. "Onze minister": Onze minister van defensie.   
 
 ### Artikel  2  
 
 1.  Vreemde militaire luchtvaartuigen mogen zich slechts na bekomen vergunning binnen Nederlands rechtsgebied begeven, dan wel daarin de luchtvaart uitoefenen.   
-2.  Onze minister kan de in het eerste lid bedoelde vergunning verlenen op verzoek.   
-3.  Onze minister is mede bevoegd ontheffing te verlenen van het bepaalde in het eerste lid voor door hem aan te wijzen soorten van vluchten met vreemde militaire luchtvaartuigen van door hem aan te wijzen nationaliteit.   
-4.  Aan de vergunning, respectievelijk ontheffing, kunnen voorwaarden worden verbonden.   
+2.   Onze minister kan de in het eerste lid bedoelde vergunning verlenen op verzoek.   
+3.   Onze minister is mede bevoegd ontheffing te verlenen van het bepaalde in het eerste lid voor door hem aan te wijzen soorten van vluchten met vreemde militaire luchtvaartuigen van door hem aan te wijzen nationaliteit.   
+4.   Aan de vergunning, respectievelijk ontheffing, kunnen voorwaarden worden verbonden.  
 
 ### Artikel  3  
 
-Het verzoek tot het verkrijgen van de in het vorige artikel bedoelde vergunning moet geschieden langs de diplomatieke weg onder opgave van: 
+Het verzoek tot het verkrijgen van de in het vorige artikel bedoelde vergunning moet geschieden langs de diplomatieke weg onder opgave van:  
 
 1. het doel van de vlucht;  
 
@@ -46,33 +46,33 @@ Het verzoek tot het verkrijgen van de in het vorige artikel bedoelde vergunning 
 
 5. de gewenste landingsplaatsen;  
 
-6. het tijdstip, waarop de grens van het vluchtinlichtingengebied Amsterdam gepasseerd wordt en het vermoedelijke tijdstip van aankomst en vertrek.    
+6. het tijdstip, waarop de grens van het vluchtinlichtingengebied Amsterdam gepasseerd wordt en het vermoedelijke tijdstip van aankomst en vertrek.   
 
 ### Artikel  4  
 
 1.  Behoudens bijzondere vergunning van Onze minister is het verboden in een vreemd militair luchtvaartuig mede te voeren: wapenen, munitie, bommen, torpedo's, andere projectielen en fotografische toestellen, een en ander voor zover geen deel uitmakende van de normale uitrusting van het luchtvaartuig.   
-2.  Behoudens bijzondere vergunning van Onze minister is het verboden van valschermen gebruik te maken voor het verlaten van vreemde militaire vliegtuigen.   
+2.   Behoudens bijzondere vergunning van Onze minister is het verboden van valschermen gebruik te maken voor het verlaten van vreemde militaire vliegtuigen.  
 
 ### Artikel  5  
 
 1.  Een vreemd militair luchtvaartuig, dat zich binnen Nederlands rechtsgebied door de lucht beweegt, dient een opdracht om zich naar een bepaald luchtvaartterrein te begeven onverwijld op te volgen. Zo nodig kan het daartoe worden gedwongen.   
-2.  Een vreemd militair luchtvaartuig, dat binnen Nederlands rechtsgebied vertoeft, kan door of vanwege Onze minister worden gelast langs een daartoe aangegeven route Nederlands rechtsgebied te verlaten. Zo nodig kan het daartoe worden gedwongen.   
+2.   Een vreemd militair luchtvaartuig, dat binnen Nederlands rechtsgebied vertoeft, kan door of vanwege Onze minister worden gelast langs een daartoe aangegeven route Nederlands rechtsgebied te verlaten. Zo nodig kan het daartoe worden gedwongen.  
 
 ### Artikel  6  
 
-Het eerste lid van artikel 2, artikel 4 en het eerste lid van artikel 5 zijn niet van toepassing ingeval van overmacht.  
+Het eerste lid van artikel 2, artikel 4 en het eerste lid van artikel 5 zijn niet van toepassing ingeval van overmacht. 
 
 ### Artikel  7  
 
-De toelating van vreemde militaire luchtvaartuigen tot het Nederlandse rechtsgebied geschiedt onder de algemene voorwaarde dat de Nederlandse wetten en verordeningen worden in acht genomen.  
+De toelating van vreemde militaire luchtvaartuigen tot het Nederlandse rechtsgebied geschiedt onder de algemene voorwaarde dat de Nederlandse wetten en verordeningen worden in acht genomen. 
 
 ### Artikel  8  
 
-Het Koninklijk besluit van 29 april 1931, *Stb.* 179, wordt ingetrokken.  
+Het Koninklijk besluit van 29 april 1931, *Stb.* 179, wordt ingetrokken. 
 
 ### Artikel  9  
 
-Dit besluit treedt in werking tegelijk met de [Luchtvaartwet](../../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) (Wet van 15 januari 1958, *Stb.* 47).  
+Dit besluit treedt in werking tegelijk met de [Luchtvaartwet](../../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) (Wet van 15 januari 1958, *Stb.* 47). 
 
 Onze ministers van defensie, van verkeer en waterstaat en van buitenlandse zaken zijn belast met de uitvoering van dit besluit, hetwelk in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.   
 

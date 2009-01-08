@@ -22,11 +22,11 @@ b. Protocol: het Protocol van 14 mei 1954 behorend bij het op die dag te ’s-Gr
 
 c. cultuurgoederen: culturele goederen als bedoeld in artikel 1, onder a, van het onder b genoemde verdrag;  
 
-d. bezet gebied: een op of na 14 januari 1959 tijdens een gewapend conflict bezet gebied waarop artikel I van het Protocol van toepassing is.    
+d. bezet gebied: een op of na 14 januari 1959 tijdens een gewapend conflict bezet gebied waarop artikel I van het Protocol van toepassing is.   
 
 ### Artikel  2  
 
-Het is verboden om cultuurgoederen afkomstig uit een bezet gebied Nederland binnen te brengen of in Nederland onder zich te houden.  
+Het is verboden om cultuurgoederen afkomstig uit een bezet gebied Nederland binnen te brengen of in Nederland onder zich te houden. 
 
 ### Hoofdstuk  2  
 
@@ -39,7 +39,7 @@ Het is verboden om cultuurgoederen afkomstig uit een bezet gebied Nederland binn
 a. uit eigen beweging bij het binnenbrengen in Nederland, of  
 
 b. op verzoek van de autoriteiten van het desbetreffende bezet gebied of eertijds bezet gebied.     
-2.  Onze Minister kan in Nederland aangetroffen cultuurgoederen ten aanzien waarvan het in het eerste lid bedoelde vermoeden bestaat, eveneens uit eigen beweging in bewaring nemen, indien tevens een redelijke verwachting bestaat dat een verzoek als bedoeld in het eerste lid, onder b, zal worden gedaan.   
+2.  Onze Minister kan in Nederland aangetroffen cultuurgoederen ten aanzien waarvan het in het eerste lid bedoelde vermoeden bestaat, eveneens uit eigen beweging in bewaring nemen, indien tevens een redelijke verwachting bestaat dat een verzoek als bedoeld in het eerste lid, onder b, zal worden gedaan.  
 
 ### Artikel  4  
 
@@ -53,7 +53,7 @@ b. de eigenaar van de in bewaring genomen cultuurgoederen, zo deze bekend is,
 c. beperkt gerechtigden met betrekking tot die goederen, zo deze bekend zijn, en  
 
 d. degene die ten tijde van de inbewaringneming die goederen onder zich hield.     
-3.  Indien de situatie dermate spoedeisend is dat Onze Minister de beslissing tot inbewaringneming niet tevoren op schrift kan stellen, zorgt hij alsnog zo spoedig mogelijk voor opschriftstelling en voor de bekendmaking.   
+3.  Indien de situatie dermate spoedeisend is dat Onze Minister de beslissing tot inbewaringneming niet tevoren op schrift kan stellen, zorgt hij alsnog zo spoedig mogelijk voor opschriftstelling en voor de bekendmaking.  
 
 ### Artikel  5  
 
@@ -68,7 +68,7 @@ b. Onze Minister definitief van teruggave van het cultuurgoed afziet.
 5.  Onze Minister kan van de overtreder bij dwangbevel de ingevolge de vorige leden verschuldigde kosten, verhoogd met de op de invordering vallende kosten, invorderen.   
 6.  Het dwangbevel wordt op kosten van de overtreder bij deurwaardersexploot betekend en levert een executoriale titel op in de zin van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md). Er vindt echter geen tenuitvoerlegging plaats zolang het geval van het tweede lid, onder a, zich nog kan voordoen.   
 7.  Gedurende zes weken na de dag van betekening staat verzet tegen het dwangbevel open door dagvaarding van Onze Minister.   
-8.  Het verzet schorst de tenuitvoerlegging. Op verzoek van Onze Minister kan de rechter de schorsing van de tenuitvoerlegging opheffen.   
+8.  Het verzet schorst de tenuitvoerlegging. Op verzoek van Onze Minister kan de rechter de schorsing van de tenuitvoerlegging opheffen.  
 
 ### Artikel  6  
 
@@ -81,7 +81,7 @@ b. bij afwijzing van een rechtsvordering tot teruggave als bedoeld in artikel 7,
 c. bij beschikking van Onze Minister, indien de autoriteiten van het desbetreffende bezet gebied of eertijds bezet gebied een door hen ingediend verzoek tot inbewaringneming van cultuurgoederen intrekken, dan wel indien zij bij inbewaringneming van cultuurgoederen uit eigen beweging door Onze Minister verklaren geen verzoek tot teruggave van cultuurgoederen in te dienen, of  
 
 d. bij beschikking van Onze Minister wegens andere redenen dan bedoeld onder a tot en met c.     
-2.  Indien de inbewaringneming eindigt zonder dat het cultuurgoed wordt teruggegeven aan de in het eerste lid, onder a, bedoelde autoriteiten, wordt het afgegeven aan degene die het cultuurgoed bij de aanvang van de inbewaringneming onder zich hield, dan wel aan degene die redelijkerwijs als rechthebbende kan worden aangemerkt.   
+2.  Indien de inbewaringneming eindigt zonder dat het cultuurgoed wordt teruggegeven aan de in het eerste lid, onder a, bedoelde autoriteiten, wordt het afgegeven aan degene die het cultuurgoed bij de aanvang van de inbewaringneming onder zich hield, dan wel aan degene die redelijkerwijs als rechthebbende kan worden aangemerkt.  
 
 ### Hoofdstuk  3  
 
@@ -97,7 +97,7 @@ a. een schadeloosstelling, indien deze aannemelijk maakt het cultuurgoed in eige
 
 b. een naar gelang van de omstandigheden billijke vergoeding, indien deze bij de verkrijging van het cultuurgoed de nodige zorgvuldigheid heeft betracht.     
 4.  Indien de bezitter of de houder van wie de teruggave van een cultuurgoed wordt gevorderd, niet voldoet aan de verplichting die [artikel 87 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) hem oplegt, blijft het derde lid, onder b, ten aanzien van hem buiten toepassing.   
-5.  Een rechtsvordering als bedoeld in het eerste lid verjaart niet.   
+5.  Een rechtsvordering als bedoeld in het eerste lid verjaart niet.  
 
 ### Hoofdstuk  4  
 
@@ -105,7 +105,7 @@ b. een naar gelang van de omstandigheden billijke vergoeding, indien deze bij de
 
 ### Artikel  8  
 
-Met het toezicht op de naleving van het bij deze wet bepaalde zijn belast de inspecteur, bedoeld in [artikel 1, onder f, van de Wet tot behoud van cultuurbezit](../../../../../../../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md), en de ambtenaren, bedoeld in [artikel 15, eerste lid, van die wet](../../../../../../../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md).  
+Met het toezicht op de naleving van het bij deze wet bepaalde zijn belast de inspecteur, bedoeld in [artikel 1, onder f, van de Wet tot behoud van cultuurbezit](../../../../../../../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md), en de ambtenaren, bedoeld in [artikel 15, eerste lid, van die wet](../../../../../../../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md). 
 
 ### Artikel  9  
 
@@ -117,7 +117,7 @@ b. te vorderen dat de bewoner hun cultuurgoederen die in de woning aanwezig zijn
 
 c. ruimten en voorwerpen te verzegelen, voorzover dat voor de uitoefening van de in [artikel 5:17 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde bevoegdheden redelijkerwijs noodzakelijk is, of  
 
-d. zo nodig met behulp van de sterke arm de bevoegdheid, bedoeld in [artikel 5:17 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) uit te oefenen.    
+d. zo nodig met behulp van de sterke arm de bevoegdheid, bedoeld in [artikel 5:17 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) uit te oefenen.   
 
 ### Hoofdstuk  5  
 
@@ -125,7 +125,7 @@ d. zo nodig met behulp van de sterke arm de bevoegdheid, bedoeld in [artikel 5:1
 
 ### Artikel  11  
 
-Wijzigt Burgerlijk Wetboek Boek 3.   
+Wijzigt Burgerlijk Wetboek Boek 3. 
 
 ### Hoofdstuk  6  
 
@@ -133,11 +133,11 @@ Wijzigt Burgerlijk Wetboek Boek 3.
 
 ### Artikel  12  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 ### Artikel  13  
 
-Deze wet wordt aangehaald als: Wet tot teruggave cultuurgoederen afkomstig uit bezet gebied.  
+Deze wet wordt aangehaald als: Wet tot teruggave cultuurgoederen afkomstig uit bezet gebied. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -145,13 +145,13 @@ Gegeven te ’s-Gravenhage
 8 maart 2007  
 Beatrix  
 
-De Minister van Onderwijs, Cultuur en Wetenschap, 
-R. H. A.Plasterk 
+De Minister van Onderwijs, Cultuur en Wetenschap , 
+R. H. A. Plasterk   
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin 
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin   
 
 de *tiende* april 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

@@ -11,23 +11,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Artikel IV van de wet van 16 december 1993 tot wijziging van de Wet op de belasting van personenauto's en motorrijwielen 1992 in verband met verruiming van het begrip personenauto (*Stb.* 1993, 673) is niet van toepassing met betrekking tot motorrijtuigen die als gevolg van die wet personenauto zijn geworden in de zin van de Wet op de belasting van personenauto's en motorrijwielen 1992 en waarvan de dagtekening van deel II van het ingevolge de Wegenverkeerswet afgegeven kentekenbewijs een vroegere datum is dan 1 januari 1988.  
+Artikel IV van de wet van 16 december 1993 tot wijziging van de Wet op de belasting van personenauto's en motorrijwielen 1992 in verband met verruiming van het begrip personenauto ( *Stb.* 1993, 673) is niet van toepassing met betrekking tot motorrijtuigen die als gevolg van die wet personenauto zijn geworden in de zin van de Wet op de belasting van personenauto's en motorrijwielen 1992 en waarvan de dagtekening van deel II van het ingevolge de Wegenverkeerswet afgegeven kentekenbewijs een vroegere datum is dan 1 januari 1988. 
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-Voor de toepassing van de [Wet op de motorrijtuigenbelasting 1994](../../../../../../../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) worden motorrijtuigen als bedoeld in artikel I, aangemerkt als een bestelauto als bedoeld in artikel 2, onderdeel *c*, van die wet.  
+Voor de toepassing van de [Wet op de motorrijtuigenbelasting 1994](../../../../../../../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) worden motorrijtuigen als bedoeld in artikel I, aangemerkt als een bestelauto als bedoeld in artikel 2, onderdeel *c*, van die wet. 
 
 ### Artikel  V  
 
-Deze wet treedt in werking met ingang van 1 januari 1995.  
+Deze wet treedt in werking met ingang van 1 januari 1995. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

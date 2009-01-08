@@ -11,4 +11,4 @@ Besluit:     Met terugwerkende kracht tot en met 1 september 1984 is de functie 
 
 De 
 minister van Binnenlandse Zaken a.i., 
-F.Korthals Altes    
+F. Korthals Altes      

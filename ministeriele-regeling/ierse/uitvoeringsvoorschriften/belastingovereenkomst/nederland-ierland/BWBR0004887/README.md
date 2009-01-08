@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Ierse voorschriften tot uitvoering van de op 11 februari 1969 tussen Nederland en Ierland gesloten Overeenkomst tot het vermijden van dubbele belasting
+## Ierse voorschriften tot uitvoering van de op 11 februari 1969 tussen Nederland en Ierland gesloten Overeenkomst tot het vermijden van dubbele belasting
 
 De staatssecretaris van Financiën,  Besluit: Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen: Regeling inzake vrijstelling van Ierse belasting op interest, royalty's, pensioenen en lijfrenten, genoten door inwoners van Nederland, alsmede ter zake van persoonlijke aftrekken waarop inwoners van Nederland met betrekking tot de heffing van Ierse income tax aanspraak kunnen maken.    
 
@@ -18,7 +18,7 @@ c. vrijstelling van Ierse income tax op pensioenen, betaald vanuit Ierland (arti
 
 d. vrijstelling van Ierse income tax op lijfrenten, afkomstig uit Ierland (artikel 19);  
 
-e. toekenning van dezelfde aftrekken, tegemoetkomingen en verminderingen als waarop Ierse staatsburgers die niet in Ierland wonen recht hebben (artikel 23, eerste lid).   De onder de onderdelen a en b van dit artikel vermelde vrijstellingen zijn niet van toepassing, indien de genieter van de interest of de royalty's in Ierland een vaste inrichting heeft en de vordering uit hoofde waarvan de interest verschuldigd is dan wel het recht of de zaak uit hoofde waarvan de royalty's verschuldigd zijn tot het bedrijfsvermogen van die vaste inrichting behoort.  
+e. toekenning van dezelfde aftrekken, tegemoetkomingen en verminderingen als waarop Ierse staatsburgers die niet in Ierland wonen recht hebben (artikel 23, eerste lid).   De onder de onderdelen a en b van dit artikel vermelde vrijstellingen zijn niet van toepassing, indien de genieter van de interest of de royalty's in Ierland een vaste inrichting heeft en de vordering uit hoofde waarvan de interest verschuldigd is dan wel het recht of de zaak uit hoofde waarvan de royalty's verschuldigd zijn tot het bedrijfsvermogen van die vaste inrichting behoort. 
 
 ### Artikel  2  
 
@@ -48,13 +48,13 @@ b. Lichamen, inwoners van Nederland
 
 c. Exemplaren van de formulieren Netherlands (Individual) en Netherlands (Company), alsmede van de door de Ierse belastingadministratie uitgegeven toelichting Leaflet Netherlands 1, zijn verkrijgbaar, in Netherland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in Ierland bij The Secretary, Revenue Commissioners (Claims Branch), 21, Parliament Street, Dublin 2.  
 
-d. Termijn van indiening van de formulieren Verzoeken om teruggaaf van Ierse belasting moeten de Ierse belastingautoriteiten bereiken vóór het einde van het tiende aanslagjaar (eindigende op de 5e april) volgende op dat waarop zij betrekking hebben.    
+d. Termijn van indiening van de formulieren Verzoeken om teruggaaf van Ierse belasting moeten de Ierse belastingautoriteiten bereiken vóór het einde van het tiende aanslagjaar (eindigende op de 5e april) volgende op dat waarop zij betrekking hebben.   
 
 ### Artikel  3  
 
 ####Intrekking.
 
-De beschikking van de staatssecretaris van Financiën van 20 december 1971, nr. B71/24053 (Stcrt. van 21 december 1971, nr. 247), wordt ingetrokken.  
+De beschikking van de staatssecretaris van Financiën van 20 december 1971, nr. B71/24053 (Stcrt. van 21 december 1971, nr. 247), wordt ingetrokken. 
 
 ### Artikel  4  
 
@@ -62,8 +62,8 @@ De beschikking van de staatssecretaris van Financiën van 20 december 1971, nr. 
 
 1.  Deze regeling kan worden aangehaald als: Ierse uitvoeringsvoorschriften belastingovereenkomst Nederland-Ierland.   
 2.  Zij treedt in werking met ingang van 1 januari 1991.   
-3.  Zij vindt met inachtneming van het bepaalde in artikel 2, onderdeel d, toepassing met betrekking tot interest, royalty's, pensioenen, niet zijnde overheidspensioenen, en lijfrenten die betaald of betaalbaar zijn gesteld op of na 6 april 1965.   
+3.  Zij vindt met inachtneming van het bepaalde in artikel 2, onderdeel d, toepassing met betrekking tot interest, royalty's, pensioenen, niet zijnde overheidspensioenen, en lijfrenten die betaald of betaalbaar zijn gesteld op of na 6 april 1965.  
 
 De 
 Staatssecretaris van Financiën, 
-M. J. J. vanAmelsvoort    
+M. J. J. van Amelsvoort      

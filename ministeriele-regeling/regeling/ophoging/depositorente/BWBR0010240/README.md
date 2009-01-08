@@ -4,7 +4,7 @@
 
 De Staatssecretaris van Financiën,  
 Gelet op de [artikelen 17](../../../../../wet/wet/overgang/belastingheffing/in/euro's/BWBR0010136/README.md) en [18 van de Wet overgang belastingheffing in euro’s](../../../../../wet/wet/overgang/belastingheffing/in/euro's/BWBR0010136/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -14,9 +14,9 @@ Besluit:
 ### Artikel  2  
 
 1.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.   
-2.  Deze regeling wordt aangehaald als: Regeling ophoging depositorente.   
+2.  Deze regeling wordt aangehaald als: Regeling ophoging depositorente.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Staatssecretaris van Financiën, 
-W.A.Vermeend    
+W.A. Vermeend      

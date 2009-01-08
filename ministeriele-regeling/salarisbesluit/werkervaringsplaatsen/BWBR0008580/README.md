@@ -4,7 +4,7 @@
 
 De Minister van Binnenlandse Zaken,  
 Gelet op [artikel 12](../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) juncto [25, eerste lid, van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -24,11 +24,11 @@ De [artikelen 5](../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenare
 ### Artikel  4  
 
 1.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant, waarin zij wordt geplaatst.   
-2.  Dit besluit kan worden aangehaald als het Salarisbesluit werkervaringsplaatsen Ministerie van Binnenlandse Zaken.   
+2.  Dit besluit kan worden aangehaald als het Salarisbesluit werkervaringsplaatsen Ministerie van Binnenlandse Zaken.  
 
 Den Haag 
 6 maart 1997    
 
-De 
+De
 Minister van Binnenlandse Zaken, 
-H.F.Dijkstal    
+H.F. Dijkstal      

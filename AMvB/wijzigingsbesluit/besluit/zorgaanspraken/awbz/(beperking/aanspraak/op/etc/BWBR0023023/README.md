@@ -15,16 +15,16 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit zorgaanspraken AWBZ.   
+Wijzigt het Besluit zorgaanspraken AWBZ. 
 
 ### Artikel  II  
 
 1.  [Artikel 6, tweede lid, van het Besluit zorgaanspraken AWBZ](../../../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) is niet van toepassing op verzekerden die op 31 december 2007 krachtens een indicatiebesluit als bedoeld in het [Zorgindicatiebesluit](../../../../../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) of het [Uitvoeringsbesluit Wet op de jeugdzorg](../../../../../../../../../../AMvB/uitvoeringsbesluit/wet/op/de/jeugdzorg/BWBR0017751/README.md) waren aangewezen op zorg, bedoeld in [artikel 6 van het Besluit zorgaanspraken AWBZ](../../../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), zoals [dat artikel](../../../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) luidde op 31 december 2007.   
-2.  Het eerste lid geldt voor de geldigheidsduur van het daar bedoelde indicatiebesluit, doch uiterlijk tot 1 januari 2010.   
+2.  Het eerste lid geldt voor de geldigheidsduur van het daar bedoelde indicatiebesluit, doch uiterlijk tot 1 januari 2010.  
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van 1 januari 2008.  
+Dit besluit treedt in werking met ingang van 1 januari 2008. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

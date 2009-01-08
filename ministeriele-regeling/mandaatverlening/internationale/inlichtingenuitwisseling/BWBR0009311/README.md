@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Mandaatverlening internationale inlichtingenuitwisseling
+## Mandaatverlening internationale inlichtingenuitwisseling
 
 Gelet op [artikel 5](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md) en [artikel 7 van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md); en
 
@@ -16,5 +16,5 @@ Het Hoofd van Belastingdienst/Douane Informatiecentrum, voor besluiten betreffen
 Het Hoofd van Belastingdienst/Centrale eenheid Intra Communautaire Transacties, voor besluiten betreffende de inlichtingenuitwisseling ter zake van de omzetbelasting met betrekking tot intracommunautaire transacties.   Het Hoofd van Belastingdienst/FIOD, het Hoofd Belastingdienst/Douane Informatiecentrum en het Hoofd Belastingdienst/Centrale eenheid Intra Communautaire Transacties te machtigen om met betrekking tot het nemen van besluiten ingevolge de [artikelen 5](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md) en [7 van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md), ondermandaat te verlenen aan daartoe aan te wijzen functionarissen.     
 
 De 
-Directeur Algemene Fiscale Zaken,
-B.J. van derZee    
+Directeur Algemene Fiscale Zaken, 
+B.J. van der  Zee      

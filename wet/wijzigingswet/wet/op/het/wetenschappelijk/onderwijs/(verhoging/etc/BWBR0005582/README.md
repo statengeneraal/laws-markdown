@@ -13,49 +13,49 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-1.  In afwijking van artikel 32 *a*, tweede lid, onder *b*, van de Wet op het wetenschappelijk onderwijs bedraagt het collegegeld voor in deeltijdse vorm verzorgde studierichtingen dan wel opleidingen van de tweede fase: 
+1.  In afwijking van artikel 32*a*, tweede lid, onder *b*, van de Wet op het wetenschappelijk onderwijs bedraagt het collegegeld voor in deeltijdse vorm verzorgde studierichtingen dan wel opleidingen van de tweede fase:  
 
 a. wat het studiejaar 1992-1993 betreft f 1475;  
 
 b. wat het studiejaar 1993-1994 betreft f 1550;  
 
 c. wat het studiejaar 1994-1995 betreft f 1625.     
-2.  In afwijking van artikel 32 *a*, vijfde lid, bedraagt het examengeld voor extraneï: 
+2.   In afwijking van artikel 32*a*, vijfde lid, bedraagt het examengeld voor extraneï:  
 
 a. wat het studiejaar 1992-1993 betreft f 1120;  
 
 b. wat het studiejaar 1993-1994 betreft f 1180;  
 
-c. wat het studiejaar 1994-1995 betreft f 1240.     
+c. wat het studiejaar 1994-1995 betreft f 1240.    
 
 ### Artikel  IV  
 
-1.  In afwijking van artikel 37, vierde lid, onder *b*, van de Wet op het hoger beroepsonderwijs bedraagt het collegegeld voor in deeltijdse studierichtingen, deeltijdse cursussen hoger beroepsonderwijs dan wel opleidingen van de tweede fase: 
+1.  In afwijking van artikel 37, vierde lid, onder *b*, van de Wet op het hoger beroepsonderwijs bedraagt het collegegeld voor in deeltijdse studierichtingen, deeltijdse cursussen hoger beroepsonderwijs dan wel opleidingen van de tweede fase:  
 
 a. wat het studiejaar 1992-1993 betreft f 1475;  
 
 b. wat het studiejaar 1993-1994 betreft f 1550;  
 
 c. wat het studiejaar 1994-1995 betreft f 1625.     
-2.  In afwijking van artikel 42, vierde lid, bedraagt het examengeld voor extraneï: 
+2.   In afwijking van artikel 42, vierde lid, bedraagt het examengeld voor extraneï:  
 
 a. wat het studiejaar 1992-1993 betreft f 1120;  
 
 b. wat het studiejaar 1993-1994 betreft f 1180;  
 
-c. wat het studiejaar 1994-1995 betreft f 1240.     
+c. wat het studiejaar 1994-1995 betreft f 1240.    
 
 ### Artikel  V  
 
-Deze wet treedt in werking met ingang van 1 augustus 1992 voor wat betreft het hoger beroepsonderwijs en met ingang van 1 september 1992 voor wat betreft het wetenschappelijk onderwijs.  
+Deze wet treedt in werking met ingang van 1 augustus 1992 voor wat betreft het hoger beroepsonderwijs en met ingang van 1 september 1992 voor wat betreft het wetenschappelijk onderwijs. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -29,7 +29,7 @@ De bestaande salarisbedragen van het [BBRA 1984](../../../../../../../AMvB/bezol
 
 ###Verhoging van de procentuele eindejaarsuitkering
 
-De procentuele eindejaarsuitkering wordt in vier jaar zodanig verhoogd, dat in het jaar 2010 sprake is van een volledige 13 <sup>e</sup> maand. Aangezien de eindejaarsuitkering wordt berekend over de periode beginnend met de maand december, worden de percentages jaarlijks met ingang van 1 december als volgt verhoogd: 1-12-2006: van 1,6% naar 2,8% 1-12-2007: van 2,8% naar 4,0% 1-12-2008: van 4,0% naar 5,4% 1-12-2009: van 5,4% naar 8,3% De eindejaarsuitkering wordt jaarlijks uitbetaald in de maand november. 
+De procentuele eindejaarsuitkering wordt in vier jaar zodanig verhoogd, dat in het jaar 2010 sprake is van een volledige 13<sup>e</sup> maand. Aangezien de eindejaarsuitkering wordt berekend over de periode beginnend met de maand december, worden de percentages jaarlijks met ingang van 1 december als volgt verhoogd: 1-12-2006: van 1,6% naar 2,8% 1-12-2007: van 2,8% naar 4,0% 1-12-2008: van 4,0% naar 5,4% 1-12-2009: van 5,4% naar 8,3% De eindejaarsuitkering wordt jaarlijks uitbetaald in de maand november. 
 ###Aanpassing van toelagen, vergoedingen en dergelijke
 
 Toelagen die zijn toegekend met toepassing van het [BBRA 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en toelagen die krachtens een overgangsregeling van het [BBRA](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) nog van toepassing zijn, dienen in het algemeen in verband met de algemene salarisverhogingen te worden verhoogd. Veelal vinden de verhogingen automatisch plaats doordat de toelagen gerelateerd zijn aan de (verhoogde) salarisbedragen, bijvoorbeeld de toelage onregelmatige dienst. Vindt automatische aanpassing niet plaats, zoals bij de vaste toelage onregelmatige dienst, en komt de toelage wel in aanmerking voor aanpassing met de algemene salarisherziening, dan dient een verhoging te worden toegepast. De verhoging van de salarisbedragen met € 91,25 komt in dit verband overeen met een gemiddelde algemene salariswijziging van 2,9%, zodat een verhoging dient te worden toegepast van 5,2% (2,9% + 2,3%) per 1 januari 2007, 2% per 1 april 2008 en 2% per 1 april 2009. Ten slotte zijn er toelagen die geen aanpassing behoren te ondergaan, bijvoorbeeld op grond van hun aard of op grond van de desbetreffende toekenningbeschikking, en dus ongewijzigd blijven. In verband met de algemene salarisverhogingen op 1 januari 2007, 1 april 2008 en 1 april 2009 worden de volgende bedragen aangepast:  
@@ -39,7 +39,7 @@ Toelagen die zijn toegekend met toepassing van het [BBRA 1984](../../../../../..
 | --- | 1-1-2006  | 1-1-2007  | 1-4-2008  | 1-4-2009  |
 | EHBO-toelage ([artikel 13 overgangsregeling BBRA 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md))  | 9,17  | 9,65  | 9,84  | 10,04  |
 | Vergoeding privé-ruimte ([artikel 7 van de Raamregeling Telewerken](../../../../../../../ministeriele-regeling/raamregeling/telewerken/BWBR0012316/README.md))  | 65,47  | 68,87  | 70,25  | 71,66  |
-| Vaste toelage ORD ([artikel 7 van het Besluit personenchauffeurs Rijksdienst](../../../../../../../AMvB/besluit/personenchauffeurs/rijksdienst/BWBR0010015/README.md))  | 138,17  | 145,35  | 148,26  | 151,23  |
+| Vaste toelage ORD ([artikel 7 van het Besluit personenchauffeurs Rijksdienst](../../../../../../../AMvB/besluit/personenchauffeurs/rijksdienst/BWBR0010015/README.md) )  | 138,17  | 145,35  | 148,26  | 151,23  |
 | Minimale vakantie-uitkering ([artikel 21 BBRA)](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md)  | 139,96  | 150,65*  | 153,66  | 156,73  |
 | Tegemoetkoming verhuiskosten ([artikel 10 van het Tijdelijk besluit sociaal flankerend beleid sector Rijk 2004](../../../../../../../AMvB/tijdelijk/besluit/sociaal/flankerend/beleid/sector/rijk/2004/BWBR0017859/README.md))  | 13.285,82  | 13.976,68  | **  | **  |
 
@@ -109,23 +109,23 @@ Zodra de formalisering van de overeengekomen maatregelen tot stand is gekomen, z
 | – Vergoedingen woon–werkverkeer  – Verruiming IKAP  | Paul Rimmelzwaan  | 070 426 6595  | Paul.Rimmelzwaan@minbzk.nl  |
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze:de 
 directeur-generaal Management Openbare Sector, 
-R.IJ.M.Kuipers  
+R.IJ.M. Kuipers    
 
-### Bijlage  1  
+### Bijlage 1  
 
-![242514](http://wetten.overheid.nl/Illustration/242514)
-![242514](http://wetten.overheid.nl/Illustration/242514)
-![242514](http://wetten.overheid.nl/Illustration/242514)
-![242514](http://wetten.overheid.nl/Illustration/242514)
-![242514](http://wetten.overheid.nl/Illustration/242514)
-![242514](http://wetten.overheid.nl/Illustration/242514)
+![242507](http://wetten.overheid.nl/Illustration/242507)
+![242508](http://wetten.overheid.nl/Illustration/242508)
+![242509](http://wetten.overheid.nl/Illustration/242509)
+![242511](http://wetten.overheid.nl/Illustration/242511)
+![242512](http://wetten.overheid.nl/Illustration/242512)
+![242513](http://wetten.overheid.nl/Illustration/242513)
 ![242514](http://wetten.overheid.nl/Illustration/242514)
 
-### Bijlage  2  
+### Bijlage 2  
 
-![242517](http://wetten.overheid.nl/Illustration/242517)
-![242517](http://wetten.overheid.nl/Illustration/242517)
+![242515](http://wetten.overheid.nl/Illustration/242515)
+![242516](http://wetten.overheid.nl/Illustration/242516)
 ![242517](http://wetten.overheid.nl/Illustration/242517)
 

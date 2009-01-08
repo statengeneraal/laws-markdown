@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Ter voorkoming van dubbele belasting en ter voorkoming van het ontgaan van belasting met betrekking tot belastingen naar het inkomen vindt de op 27 februari 2001 tussen het Taipei Representative Office in the Netherlands en het Netherlands Trade and Investment Office in Taipei gesloten overeenkomst ter voorkoming van dubbele belasting toepassing indien deze overeenkomst overeenkomstig wordt toegepast in Taiwan.  
+Ter voorkoming van dubbele belasting en ter voorkoming van het ontgaan van belasting met betrekking tot belastingen naar het inkomen vindt de op 27 februari 2001 tussen het Taipei Representative Office in the Netherlands en het Netherlands Trade and Investment Office in Taipei gesloten overeenkomst ter voorkoming van dubbele belasting toepassing indien deze overeenkomst overeenkomstig wordt toegepast in Taiwan. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  3  
 
@@ -31,7 +31,7 @@ b. op het moment waarop de bepalingen van de overeenkomst ter voorkoming van dub
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Besluit voorkoming dubbele belasting Nederland en Taiwan.  
+Dit besluit wordt aangehaald als: Besluit voorkoming dubbele belasting Nederland en Taiwan. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -45,4 +45,4 @@ W. J. Bos
 de *tiende* mei 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

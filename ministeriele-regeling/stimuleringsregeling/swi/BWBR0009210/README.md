@@ -4,11 +4,11 @@
 
 De Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Sociale Zaken en Werkgelegenheid,  
 Gelet op [artikel 3 van de Kaderwet SZW-subsidies](../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md),
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. samenwerkingsovereenkomst:  een samenwerkingsovereenkomst als bedoeld in het Samenwerkingsbesluit SWI (Stb. 1997, 804), die voldoet aan de bij of krachtens dat besluit gestelde eisen;    b. samenwerkende partijen:  de partijen bij een samenwerkingsovereenkomst;    c. SWI-centrum:  een SWI-centrum als bedoeld in het Samenwerkingsbesluit SWI, dat voldoet aan de bij of krachtens dat besluit gestelde eisen;    d. voorbereidingskosten:  de eenmalige kosten die in de periode voorafgaande aan de operationele start van het SWI-centrum worden gemaakt en die niet terugkomen in de jaarlijkse exploitatie van het SWI-centrum;    e. de minister:  de Minister van Sociale Zaken en Werkgelegenheid.     
+In deze regeling wordt verstaan onder: a. samenwerkingsovereenkomst:   een samenwerkingsovereenkomst als bedoeld in het Samenwerkingsbesluit SWI (Stb. 1997, 804), die voldoet aan de bij of krachtens dat besluit gestelde eisen;  b. samenwerkende partijen:   de partijen bij een samenwerkingsovereenkomst;  c. SWI-centrum:   een SWI-centrum als bedoeld in het Samenwerkingsbesluit SWI, dat voldoet aan de bij of krachtens dat besluit gestelde eisen;  d. voorbereidingskosten:   de eenmalige kosten die in de periode voorafgaande aan de operationele start van het SWI-centrum worden gemaakt en die niet terugkomen in de jaarlijkse exploitatie van het SWI-centrum;  e. de minister:   de Minister van Sociale Zaken en Werkgelegenheid.    
 
 ### Artikel  2  
 
@@ -22,13 +22,13 @@ In deze regeling wordt verstaan onder:   a. samenwerkingsovereenkomst:  een same
 
 1.  Bij de aanvraag om subsidievaststelling dient te worden overgelegd: 
 
-a. een door de samenwerkende partijen ondertekend document, waaruit blijkt dat de rechtspersoon die de subsidie aanvraagt daartoe door hen is aangewezen;  
+a.  een door de samenwerkende partijen ondertekend document, waaruit blijkt dat de rechtspersoon die de subsidie aanvraagt daartoe door hen is aangewezen; 
 
-b. een afschrift van de samenwerkingsovereenkomst;  
+b.  een afschrift van de samenwerkingsovereenkomst; 
 
-c. een activiteitenplan en een daarbij behorende postgewijze begroting van de voorbereidingskosten;  
+c.  een activiteitenplan en een daarbij behorende postgewijze begroting van de voorbereidingskosten; 
 
-d. gespecificeerde gegevens over het aantal inwoners van 15 tot en met 64 jaar en over de grondoppervlakte, zoals dat per 1 januari 1997 met betrekking tot de aan de samenwerkingsovereenkomst deelnemende gemeenten in CBS-statistieken is geregistreerd.     
+d.  gespecificeerde gegevens over het aantal inwoners van 15 tot en met 64 jaar en over de grondoppervlakte, zoals dat per 1 januari 1997 met betrekking tot de aan de samenwerkingsovereenkomst deelnemende gemeenten in CBS-statistieken is geregistreerd.    
 2.  De aanvraag wordt ingediend uiterlijk op 31 december 1999.   
 
 ### Artikel  4  
@@ -48,17 +48,17 @@ Indien de samenwerking binnen een SWI-centrum overeenkomstig een samenwerkingsov
 ### Artikel  7  
 
 1.  Deze regeling treedt in werking met ingang van het tijdstip waarop het Samenwerkingsbesluit SWI in werking treedt.   
-2.  Deze regeling wordt aangehaald als: Stimuleringsregeling SWI.   
+2.  Deze regeling wordt aangehaald als: Stimuleringsregeling SWI.  
 
 ’s-Gravenhage 
 18 december 1997    
 
 De 
 Minister voornoemd, 
-A.P.W.Melkert 
+A.P.W. Melkert   
 
 's-Gravenhage, 18 december 1997 
 
 De 
 Staatssecretaris voornoemd, 
-F.H.G. deGrave    
+F.H.G. deGrave     

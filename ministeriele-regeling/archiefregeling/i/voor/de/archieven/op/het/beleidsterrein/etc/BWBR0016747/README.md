@@ -50,11 +50,11 @@ Besluit:
 
 ### Artikel  2  
 
-Deze regeling wordt aangehaald als: Archiefregeling I voor de archieven op het beleidsterrein Arbeidsvoorziening.  
+Deze regeling wordt aangehaald als: Archiefregeling I voor de archieven op het beleidsterrein Arbeidsvoorziening. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd. 
 
 Den Haag 
 18 mei 2004    
@@ -62,8 +62,8 @@ Den Haag
 De 
 Minister van Sociale Zaken en Werkgelegenheid, 
 
-namens deze: 
+namens deze:
 
 de 
 plaatsvervangend Secretaris-Generaal, 
-P.Hennephof    
+P. Hennephof      

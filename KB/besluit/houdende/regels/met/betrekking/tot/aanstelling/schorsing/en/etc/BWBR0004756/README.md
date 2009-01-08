@@ -11,15 +11,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De aanstelling, schorsing en het ontslag van de tot het bureau van de Nationale ombudsman behorende personen geschiedt indien zij plaatsvindt in vaste dienst en het salaris dan wel het aan hun functie verbonden maximumsalaris van de schaal welke voor die ambtenaren geldt, lager is dan het maximumsalaris van schaal 15 van bijlage B van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) (*Stb.* 1983, 571) of indien zij plaatsvindt in tijdelijke dienst, door de Nationale ombudsman.  
+De aanstelling, schorsing en het ontslag van de tot het bureau van de Nationale ombudsman behorende personen geschiedt indien zij plaatsvindt in vaste dienst en het salaris dan wel het aan hun functie verbonden maximumsalaris van de schaal welke voor die ambtenaren geldt, lager is dan het maximumsalaris van schaal 15 van bijlage B van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) (*Stb.* 1983, 571) of indien zij plaatsvindt in tijdelijke dienst, door de Nationale ombudsman. 
 
 ### Artikel  2  
 
-Het koninklijk besluit van 25 september 1981, nr. 19, wordt ingetrokken.  
+Het koninklijk besluit van 25 september 1981, nr. 19, wordt ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
 Onze Minister van Binnenlandse Zaken is belast met de uitvoering van dit besluit, waarvan afschrift zal worden gezonden aan de Raad van State, de Nationale ombudsman en aan de Algemene Rekenkamer.   
 

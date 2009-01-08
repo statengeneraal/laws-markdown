@@ -2,14 +2,14 @@
 
 ##Skal-Tarievenblad 2007
 
-Dit reglement is door het Bestuur van Stichting Skal vastgesteld op 14 november 2006 en treedt in werking met ingang van 1 januari 2007. Het gebruik van dit reglement door derden, voor welk doel dan ook, is uitsluitend toegestaan nadat een schriftelijke overeenkomst met Stichting Skal is gesloten waarin het gebruiksrecht is geregeld.   
+Dit reglement is door het Bestuur van Stichting Skal vastgesteld op 14 november 2006 en treedt in werking met ingang van 1 januari 2007.Het gebruik van dit reglement door derden, voor welk doel dan ook, is uitsluitend toegestaan nadat een schriftelijke overeenkomst met Stichting Skal is gesloten waarin het gebruiksrecht is geregeld.   
 
 ####Skal-Tarievenblad
 
 Skal is de organisatie voor het toezicht op de biologische productie in Nederland. Ze doet dat door middel van inspectie en certificatie. Skal financiert het toezicht op de biologische productie uit de bijdragen van de aangesloten bedrijven. Deze bijdragen zijn gebaseerd op de tarieven die jaarlijks door het Bestuur van Skal worden vastgesteld en vereisen goedkeuring van de Minister van LNV. De tarieven voor 2007 treft u in dit tarievenblad aan. Alle regelingen uit voorgaande tarievenbladen komen met dit tarievenblad te vervallen. Voor de algemene bepalingen over de financiële verplichtingen verwijzen we u naar het [Skal-Bijdragereglement](../../../../zbo/skal-bijdragereglement/BWBR0018852/README.md). De tarieven bestaan uit éénmalige bijdragen voor de aansluiting bij Skal, een jaarlijkse bijdrage (basisbijdrage en variabele bijdrage) en overige tarieven. De tarieven worden berekend per Skalnummer. Alle bedragen staan vermeld in Euro’s en zijn exclusief BTW.    
 ### 1  
 
-#### *Eénmalige bijdrage* 
+####*Eénmalige bijdrage*
 
 | --- | --- |
 |:---|:---|
@@ -18,12 +18,12 @@ Skal is de organisatie voor het toezicht op de biologische productie in Nederlan
 
 ### 2  
 
-#### *Jaarlijkse bijdragen* 
+####*Jaarlijkse bijdragen*
 
 De bijdragen zijn per kalenderjaar. Alle aangeslotenen betalen de basisbijdrage en eventueel een toeslag. Daarnaast betalen de ambachtelijke en industriële bereiders en de importeurs die in het bezit zijn van één of meerdere productspecificaties een variabele bijdrage. Landbouwers betalen alleen de basisbijdrage en geen variabele bijdrage.   
 ### 2.1  
 
-#### *Basisbijdrage* 
+####*Basisbijdrage*
 
 De basisbijdrage wordt berekend naar rato van de kwartalen dat men aangesloten is. De bij Skal aangesloten bedrijven zijn onderverdeeld in de volgende categorieën: Landbouw, Bereiding, Import, Handel en Opslag. Vallen de activiteiten van een bedrijf in meerdere categorieën, dan vervalt de laagste basisbijdrage als deze op een locatie van minder dan 10 km van de eerste eenheid is gevestigd. Ook gelden er toeslagen (zie pag. 4). Skal kan jaarlijks een inflatiecorrectie toepassen.  
 
@@ -67,9 +67,9 @@ De basisbijdrage wordt berekend naar rato van de kwartalen dat men aangesloten i
 
 ### 2.1.1  
 
-#### *Toeslagen op de basisbijdrage* 
+####*Toeslagen op de basisbijdrage*
 
-### *Meerdere locaties* 
+###*Meerdere locaties*
 
 Een locatie is de plek waar de bedrijfsactiviteiten plaatsvinden, percelen uitgezonderd.  
 
@@ -83,7 +83,7 @@ Een locatie is de plek waar de bedrijfsactiviteiten plaatsvinden, percelen uitge
 
 ### 2.2  
 
-#### *Variabele bijdrage* 
+####*Variabele bijdrage*
 
 De variabele bijdrage geldt voor industriële en ambachtelijke bereiders en importeurs die in het bezit zijn van één of meerdere productcertificaties. De variabele bijdrage wordt door middel van een gestaffeld percentage berekend over de verkoopwaarde (omzet) van de onder certificatie vallende bereide, verwerkte of geïmporteerde producten. Het betreft hier die producten die in Nederland onder naam en nummer van de aangeslotene worden verkocht en de producten die, ongeacht onder welke naam en nummer, buiten Nederland worden verkocht. De variabele bijdrage wordt gebaseerd op de gerealiseerde omzet gedurende het voorgaande kalenderjaar. De variabele bijdrage wordt gebaseerd op de gerealiseerde omzet gedurende het voorgaande kalenderjaar.  
 
@@ -91,19 +91,19 @@ De variabele bijdrage geldt voor industriële en ambachtelijke bereiders en impo
 |:---|:---|
 | 0  | –  | 500.000  | 0,00%  |
 | 500.000  | –  | 1.100.000  | 0,30%  |
-| 1.100.000  | –  | 2.300.000  | 0,20%  |
+| 1.100.000  | –  | 2.300.000  |  0,20%  |
 | 2.300.000  | –  | 4.500.000  | 0,15%  |
 | 4.500.000  | –  | 23.000.000  | 0,10%  |
 | 23.000.000  | –  | 45.000.000  | 0,05%  |
 | --- | ≥  | 45.000.000  | 0,01%  |
 
 Bijzonderheden: 
-### *Kortingsregeling* 
+###*Kortingsregeling*
 
 Op bovenstaande tarieven voor de variabele bijdrage zal voor importeurs (die producten invoeren afkomstig uit derde landen) een korting gelden van 50% voor dat deel en voor zover de omzet per product hiervan groter is dan € 2.300.000. De korting van 50% houdt in dat over 50% van de omzet boven € 2.300.000 de variabele bijdrage niet in rekening gebracht wordt. Deze regeling geldt voor producten die in Nederland verwerkt worden en niet voor de import van eindproducten. Onder eindproducten wordt verstaan producten die geen bewerking meer in Nederland ondergaan en (eventueel na ompakking in een andere verpakking) bestemd zijn voor de eindconsument. De omzet over de import niet zijnde eindproducten dient men separaat op de omzetopgave te vermelden.     
 ### 3  
 
-#### *Overige tarieven* 
+####*Overige tarieven*
 
 | --- | --- |
 |:---|:---|
@@ -127,7 +127,7 @@ Op bovenstaande tarieven voor de variabele bijdrage zal voor importeurs (die pro
 | --- | --- |
 | 750,00  | Inspectie op initiatief van Skal om de omzetopgave voor de variabele bijdrage te controleren op juistheid of om de omzetgegevens te achterhalen wanneer de omzetgegevens inclusief accountantsverklaring niet tijdig verstrekt zijn. Facturering hiervan vindt plaats wanneer blijkt dat een onjuiste omzetopgave gedaan is of de omzetgegevens inclusief accountantsverklaring niet tijdig verstrekt zijn.  |
 
-### *Verstrekking overzichten van gecertificeerde bedrijven* 
+###*Verstrekking overzichten van gecertificeerde bedrijven*
 
 Standaard lijst gecertificeerde aangeslotenen in Excel-bestand op diskette, per e-mail of op papier toegezonden. Er bestaat een lijst met landbouwbedrijven en een lijst met verwerkende, import-, handels- en opslagbedrijven. De prijs geldt per lijst.  
 
@@ -136,4 +136,4 @@ Standaard lijst gecertificeerde aangeslotenen in Excel-bestand op diskette, per 
 | 70,00  | Voor niet bij Skal aangesloten bedrijven  |
 | 20,00  | Voor aangesloten bedrijven  |
 
-NB. Deze lijsten zijn als pdf-bestand ook gratis te downloaden via www.skal.nl onder ‘Bio-bedrijven’.     
+NB. Deze lijsten zijn als pdf-bestand ook gratis te downloaden via www.skal.nl onder ‘Bio-bedrijven’.    

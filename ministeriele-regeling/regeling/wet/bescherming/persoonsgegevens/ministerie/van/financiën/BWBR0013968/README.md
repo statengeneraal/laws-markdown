@@ -1,17 +1,17 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling Wet bescherming persoonsgegevens Ministerie van Financiën
+##Regeling Wet bescherming persoonsgegevens Ministerie van Financiën 
 
 De Minister van Financiën,  Besluit:     
 ### 1  
 
-####Algemene bepalingen
+####Algemene bepalingen 
 
 ### 1.1  
 
 ####Begrippen en definities
 
-a.  *wet:*   [Wet bescherming persoonsgegevens](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);    b.  *Minister:*   Minister van Financiën;    c.  *persoonsgegeven:*   elk gegeven betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;    d.  *bijzondere persoonsgegevens:*   persoonsgegevens waarop [paragraaf 2 van hoofdstuk 2 van de wet](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) van toepassing is;    e.  *verwerking van persoonsgegevens:*   elke handeling of elk geheel van handelingen met betrekking tot persoonsgegevens, waaronder in ieder geval het verzamelen, vastleggen, ordenen, bewaren, bijwerken, wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiding of enige andere vorm van terbeschikkingstelling, samenbrengen, met elkaar in verband brengen, alsmede het afschermen, uitwissen of vernietigen van gegevens;    f.  *meldingsformulier +:*   het meldingsformulier als bedoeld in artikel 2.4 van deze regeling;    g.  *formulier voor van melding vrijgestelde verwerking:*   het formulier als bedoeld in artikel 2.5 van deze regeling;    h.  *register:*   register als bedoeld in artikel 2.6 van deze regeling;    i.  *verantwoordelijke:*   de natuurlijke persoon, de rechtspersoon of ieder ander die of het bestuursorgaan dat, alleen of tezamen met anderen, het doel van en de middelen voor de verwerking van persoonsgegevens vaststelt;    j.  *beheerder:*   degene aan wie het feitelijk beheer is gemandateerd en die hiërarchisch ondergeschikt is aan de verantwoordelijke;    k.  *bewerker:*   degene die ten behoeve van de verantwoordelijke persoonsgegevens verwerkt, zonder aan zijn rechtstreeks gezag te zijn onderworpen;    l.  *gebruiker:*   degene die bevoegd is gegevens in te zien dan wel in te voeren of te muteren;    m.  *betrokkene:*   degene op wie een persoonsgegeven betrekking heeft;    n.  *derde:*   ieder, niet zijnde de betrokkene, de verantwoordelijke, de bewerker, of enig persoon die onder rechtstreeks gezag van de verantwoordelijke of de bewerker gemachtigd is om persoonsgegevens te verwerken;    o.  *ontvanger:*   degene aan wie persoonsgegevens worden verstrekt;    p.  *College bescherming persoonsgegevens of het College:*   het College als bedoeld in [artikel 51 van de wet](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md); en    q.  *privacyfunctionaris:*   de functionaris voor de gegevensbescherming als bedoeld in [artikel 62 van de wet](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
+a. *wet:*   [Wet bescherming persoonsgegevens](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);    b. *Minister:*   Minister van Financiën;    c. *persoonsgegeven:*   elk gegeven betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;    d. *bijzondere persoonsgegevens:*   persoonsgegevens waarop [paragraaf 2 van hoofdstuk 2 van de wet](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) van toepassing is;    e. *verwerking van persoonsgegevens:*   elke handeling of elk geheel van handelingen met betrekking tot persoonsgegevens, waaronder in ieder geval het verzamelen, vastleggen, ordenen, bewaren, bijwerken, wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiding of enige andere vorm van terbeschikkingstelling, samenbrengen, met elkaar in verband brengen, alsmede het afschermen, uitwissen of vernietigen van gegevens;    f. *meldingsformulier +:*   het meldingsformulier als bedoeld in artikel 2.4 van deze regeling;    g. *formulier voor van melding vrijgestelde verwerking:*   het formulier als bedoeld in artikel 2.5 van deze regeling;    h. *register:*   register als bedoeld in artikel 2.6 van deze regeling;    i. *verantwoordelijke:*   de natuurlijke persoon, de rechtspersoon of ieder ander die of het bestuursorgaan dat, alleen of tezamen met anderen, het doel van en de middelen voor de verwerking van persoonsgegevens vaststelt;    j. *beheerder:*   degene aan wie het feitelijk beheer is gemandateerd en die hiërarchisch ondergeschikt is aan de verantwoordelijke;    k. *bewerker:*   degene die ten behoeve van de verantwoordelijke persoonsgegevens verwerkt, zonder aan zijn rechtstreeks gezag te zijn onderworpen;    l. *gebruiker:*   degene die bevoegd is gegevens in te zien dan wel in te voeren of te muteren;    m. *betrokkene:*   degene op wie een persoonsgegeven betrekking heeft;    n. *derde:*   ieder, niet zijnde de betrokkene, de verantwoordelijke, de bewerker, of enig persoon die onder rechtstreeks gezag van de verantwoordelijke of de bewerker gemachtigd is om persoonsgegevens te verwerken;    o. *ontvanger:*   degene aan wie persoonsgegevens worden verstrekt;    p. *College bescherming persoonsgegevens of het College:*   het College als bedoeld in [artikel 51 van de wet](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md); en    q. *privacyfunctionaris:*   de functionaris voor de gegevensbescherming als bedoeld in [artikel 62 van de wet](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
 
 ### 1.2  
 
@@ -39,13 +39,13 @@ De Minister is de voor de verwerking verantwoordelijke van de verwerkingen van p
 1.  Indien de werkzaamheden ten behoeve van de verwerking van persoonsgegevens worden uitgevoerd door een bewerker, vindt die uitvoering uitsluitend plaats op basis van een overeenkomst of krachtens een andere rechtshandeling waardoor een verbintenis ontstaat tussen bewerker en de Minister.   
 2.  Deze overeenkomst of rechtshandeling regelt in ieder geval: 
 
-a. de aansprakelijkheid van de bewerker voor inbreuken op de persoonlijke levenssfeer in verband met de door deze verwerkte gegevens;  
+a.  de aansprakelijkheid van de bewerker voor inbreuken op de persoonlijke levenssfeer in verband met de door deze verwerkte gegevens;  
 
-b. dat een ieder die handelt onder het gezag van de bewerker, alsmede de bewerker zelf, voor zover deze toegang hebben tot persoonsgegevens, deze persoonsgegevens verwerkt in opdracht van de Minister, behoudens afwijkende wettelijke verplichtingen;  
+b.  dat een ieder die handelt onder het gezag van de bewerker, alsmede de bewerker zelf, voor zover deze toegang hebben tot persoonsgegevens, deze persoonsgegevens verwerkt in opdracht van de Minister, behoudens afwijkende wettelijke verplichtingen;  
 
-c. dat voor de personen bedoeld in lid 2 onder b een geheimhoudingsplicht geldt ingevolge [artikel 12 lid 2 van de wet](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md); en  
+c.  dat voor de personen bedoeld in lid 2 onder b een geheimhoudingsplicht geldt ingevolge [artikel 12 lid 2 van de wet](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md); en  
 
-d. dat de bewerker passende technische en organisatorische maatregelen ten uitvoer legt om persoonsgegevens te beveiligen tegen verlies of tegen enige vorm van onrechtmatige verwerking ingevolge [artikel 13 van de wet](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en overeenkomstig artikel 4 van deze regeling.     
+d.  dat de bewerker passende technische en organisatorische maatregelen ten uitvoer legt om persoonsgegevens te beveiligen tegen verlies of tegen enige vorm van onrechtmatige verwerking ingevolge [artikel 13 van de wet](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en overeenkomstig artikel 4 van deze regeling.     
 3.  Deze overeenkomst of rechtshandeling wordt schriftelijk of in een andere, gelijkwaardige vorm vastgelegd.   
 
 ### 1.6  
@@ -205,7 +205,7 @@ Regeling Wet bescherming persoonsgegevens Ministerie van Financiën.
 
 ####Bekendmaking
 
-Deze regeling, alsmede de wijziging of intrekking daarvan wordt geplaatst in de Staatscourant.  
+Deze regeling, alsmede de wijziging of intrekking daarvan wordt geplaatst in de Staatscourant. 
 
 's-Gravenhage 
 19 augustus 2002    
@@ -215,6 +215,6 @@ Minister van Financiën,
 
 voor deze, 
 
-de 
+de
 secretaris-generaal, 
-G.H.O. vanMaanen    
+G.H.O. van Maanen      

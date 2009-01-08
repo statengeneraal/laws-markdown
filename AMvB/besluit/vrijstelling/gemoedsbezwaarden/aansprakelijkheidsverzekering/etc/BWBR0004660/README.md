@@ -15,27 +15,27 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Een vrijstelling van de verplichting tot het sluiten van een verzekering als bedoeld in [artikel 18, eerste lid, tweede volzin, van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) (*Stb.* 1984, 269) kan aan een rechtspersoon worden verleend indien de natuurlijke personen die behoren tot het orgaan dat ingevolge de wet of de statuten bevoegd is te besluiten de vrijstelling aan te vragen, in meerderheid overwegende gemoedsbezwaren hebben tegen het sluiten van een verzekering.  
+Een vrijstelling van de verplichting tot het sluiten van een verzekering als bedoeld in [artikel 18, eerste lid, tweede volzin, van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) (*Stb.* 1984, 269) kan aan een rechtspersoon worden verleend indien de natuurlijke personen die behoren tot het orgaan dat ingevolge de wet of de statuten bevoegd is te besluiten de vrijstelling aan te vragen, in meerderheid overwegende gemoedsbezwaren hebben tegen het sluiten van een verzekering. 
 
 ### Artikel  2  
 
-Een vrijstelling wordt aan de rechtspersoon verleend voor vijf jaren. Met ingang van de datum waarop een vrijstelling na verloop van de in de eerste volzin bedoelde periode is vervallen, kan desgevraagd een nieuwe vrijstelling worden verleend.  
+Een vrijstelling wordt aan de rechtspersoon verleend voor vijf jaren. Met ingang van de datum waarop een vrijstelling na verloop van de in de eerste volzin bedoelde periode is vervallen, kan desgevraagd een nieuwe vrijstelling worden verleend. 
 
 ### Artikel  3  
 
-Bij intrekking van een vrijstelling verleend aan een natuurlijk persoon of een rechtspersoon kan de Minister van Financiën bepalen dat een verzoek om vrijstelling, gedaan binnen twee jaren na de dagtekening van de intrekking, enkel op die grond niet-ontvankelijk kan worden verklaard.  
+Bij intrekking van een vrijstelling verleend aan een natuurlijk persoon of een rechtspersoon kan de Minister van Financiën bepalen dat een verzoek om vrijstelling, gedaan binnen twee jaren na de dagtekening van de intrekking, enkel op die grond niet-ontvankelijk kan worden verklaard. 
 
 ### Artikel  4  
 
-Een voor de inwerkingtreding van dit besluit aan een rechtspersoon verleende vrijstelling vervalt na verloop van vijf jaren na de datum van inwerkingtreding van dit besluit.  
+Een voor de inwerkingtreding van dit besluit aan een rechtspersoon verleende vrijstelling vervalt na verloop van vijf jaren na de datum van inwerkingtreding van dit besluit. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
 ### Artikel  6  
 
-Dit besluit kan worden aangehaald als: Besluit vrijstelling gemoedsbezwaarden aansprakelijkheidsverzekering motorrijtuigen.  
+Dit besluit kan worden aangehaald als: Besluit vrijstelling gemoedsbezwaarden aansprakelijkheidsverzekering motorrijtuigen. 
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

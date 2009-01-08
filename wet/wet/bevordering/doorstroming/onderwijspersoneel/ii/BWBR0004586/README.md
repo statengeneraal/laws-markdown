@@ -13,23 +13,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####Geen verplichte VUT voor uittreders krachtens DOP-wet I
 
-In afwijking van het bepaalde in artikel 18 van de DOP-wet vindt artikel 12 van die wet geen toepassing.  
+In afwijking van het bepaalde in artikel 18 van de DOP-wet vindt artikel 12 van die wet geen toepassing. 
 
 ### Artikel  19  
 
 ####Aanpassing in verband met wijziging VUT-wet
 
-Indien het bij koninklijke boodschap van 29 april 1986 ingediende voorstel van Wet houdende wijziging van de Wet uitkering wegens vrijwillig vervroegd uittreden (*Stb.* 1984, 273) in verband met voorgenomen wijziging van het VUT-financieringsstelsel (kamerstuk 19 505) tot wet wordt verheven en in werking is getreden, wordt, onderscheidenlijk worden, 
+Indien het bij koninklijke boodschap van 29 april 1986 ingediende voorstel van Wet houdende wijziging van de Wet uitkering wegens vrijwillig vervroegd uittreden (*Stb.* 1984, 273) in verband met voorgenomen wijziging van het VUT-financieringsstelsel (kamerstuk 19 505) tot wet wordt verheven en in werking is getreden, wordt, onderscheidenlijk worden,  
 
-1. bevat wijzigingen in deze regelgeving; en  
+1.  bevat wijzigingen in deze regelgeving; en  
 
-2. in afwijking van het bepaalde in artikel 18 van de DOP-wet I de rechten en verplichtingen, ontleend aan artikel 15 van die wet, met ingang van het tijdstip van inwerkingtreding van de in de aanhef van dit artikel bedoelde wet vastgesteld overeenkomstig het bepaalde in artikel 15 van deze wet.    
+2. in afwijking van het bepaalde in artikel 18 van de DOP-wet I de rechten en verplichtingen, ontleend aan artikel 15 van die wet, met ingang van het tijdstip van inwerkingtreding van de in de aanhef van dit artikel bedoelde wet vastgesteld overeenkomstig het bepaalde in artikel 15 van deze wet.   
 
 ### Artikel  20  
 
 ####Uitkeringen na afloop werkingsduur wet
 
-Ten aanzien van uitkeringen krachtens deze wet blijven de rechten en verplichtingen ontleend aan de bepalingen van deze wet in stand na afloop van de werkingsduur van de wet.  
+Ten aanzien van uitkeringen krachtens deze wet blijven de rechten en verplichtingen ontleend aan de bepalingen van deze wet in stand na afloop van de werkingsduur van de wet. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -14,19 +14,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.   
+Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.  
 
 ### Artikel  II  
 
-Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.   
+Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.  
 
 ### Artikel  III  
 
-Wijzigt de Werkloosheidswet.   
+Wijzigt de Werkloosheidswet.  
 
 ### Artikel  IV  
 
-Wijzigt de Wet inschakeling werkzoekenden.   
+Wijzigt de Wet inschakeling werkzoekenden.  
 
 ### Hoofdstuk  2  
 
@@ -36,25 +36,25 @@ Wijzigt de Wet inschakeling werkzoekenden.
 
 ####Overgangsrecht structuur uitvoeringsorganisatie werk en inkomen
 
-Wijzigt de Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen.   
+Wijzigt de Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen.  
 
 ### Artikel  VI  
 
 ####Bepaling in verband met de Wet verbetering poortwachter
 
-Wijzigt de Wet verbetering poortwachter.   
+Wijzigt de Wet verbetering poortwachter.  
 
 ### Artikel  VII  
 
 ####Bepaling in verband met de Verzamelwet SZW-wetten 2001
 
-Wijzigt deze wet en de Verzamelwet SZW-wetten 2001.   
+Wijzigt deze wet en de Verzamelwet SZW-wetten 2001.  
 
 ### Artikel  VIII  
 
 ####Inwerkingtreding
 
-Deze wet treedt in werking met ingang van 1 januari 2002.  
+Deze wet treedt in werking met ingang van 1 januari 2002. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

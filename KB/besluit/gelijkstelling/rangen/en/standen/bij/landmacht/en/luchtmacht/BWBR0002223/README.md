@@ -11,11 +11,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De gelijkstelling van rangen en standen bij de landmacht en de luchtmacht is aangegeven in de bij dit besluit behorende tabel, waarin gelijke rangen of standen zijn aangeduid met gelijke letters.  
+De gelijkstelling van rangen en standen bij de landmacht en de luchtmacht is aangegeven in de bij dit besluit behorende tabel, waarin gelijke rangen of standen zijn aangeduid met gelijke letters. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 juli 1956.  
+Dit besluit treedt in werking met ingang van 1 juli 1956. 
 
 Onze Minister van Oorlog is belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst.   
 
@@ -40,24 +40,24 @@ J. C. VAN OVEN.
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
 | A.  | hoofdofficier-milva geneeskundige dienst der 3e klasse  | A.  | majoor  |
-| B.  | ritmeester  | B.  | kapitein  |
-| --- | officier-milva geneeskundige dienst der 1e klasse  | --- | --- |
+| B.  | ritmeester  | B.  | kapitein   |
+| --- | officier-milva geneeskundige dienst der 1e klasse   | --- | --- |
 | C.  | officier-milva geneeskundige dienst der 2e klasse  | C.  | eerste-luitenant  |
-| D.  | officier-milva geneeskundige dienst der 3e klasse  | D.  | tweede-luitenant  |
+| D.  | officier-milva geneeskundige dienst der 3e klasse  | D.  | tweede-luitenant   |
 | E.  | technisch opzichter  | E.  | opzichter van fortificatiën  |
-| F.  | vaandrig  | F.  | adjudant-onderofficier  |
+| F.  | vaandrig  | F.  | adjudant-onderofficier   |
 | --- | kornet  | --- | --- |
-| --- | aspirant-officier-milva  | --- | --- |
+| --- | aspirant-officier-milva   | --- | --- |
 | --- | geneeskundige dienst  | --- | --- |
 | G.  | opperwachtmeester  | G.  | sergeant-majoor  |
 | --- | hoofd-milva geneeskundige dienst der 1e klasse  | --- | --- |
 | H.  | wachtmeester der 1e klasse  | H.  | sergeant der 1e klasse  |
-| I.  | wachtmeester  | I.  | sergeant  |
-| --- | hoofd-milva geneeskundige dienst der 2e klasse  | --- | --- |
-| J.  | marechaussee der 1e klasse  | J.  | korporaal der 1e klasse  |
-| K.  | marechaussee der 2e klasse  | K.  | korporaal  |
-| --- | hoofd-milva geneeskundige dienst der 3e klasse  | --- | --- |
-| L.  | marechaussee der 3e klasse  | L.  | soldaat der 1e klasse  |
+| I.  | wachtmeester  | I.  | sergeant   |
+| --- | hoofd-milva geneeskundige dienst der 2e klasse   | --- | --- |
+| J.  | marechaussee der 1e klasse  | J.  | korporaal der 1e klasse   |
+| K.  | marechaussee der 2e klasse  | K.  | korporaal   |
+| --- | hoofd-milva geneeskundige dienst der 3e klasse   | --- | --- |
+| L.  | marechaussee der 3e klasse  | L.  | soldaat der 1e klasse   |
 | M.  | marechaussee der 4e klasse  | M.  | soldaat  |
 | --- | milva geneeskundige dienst  | --- | --- |
 

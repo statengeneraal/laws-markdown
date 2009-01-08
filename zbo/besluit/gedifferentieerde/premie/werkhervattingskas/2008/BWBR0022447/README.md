@@ -29,15 +29,15 @@ Voor de berekening van de gedifferentieerde premie op grond van [artikel 38 van 
 
 ### Artikel  2  
 
-Dit besluit wordt aangehaald als: Besluit gedifferentieerde premie Werkhervattingskas 2008.  
+Dit besluit wordt aangehaald als: Besluit gedifferentieerde premie Werkhervattingskas 2008. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van 1 januari 2008.  
+Dit besluit treedt in werking met ingang van 1 januari 2008. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Amsterdam 
 7 augustus 2007   
 
 Voorzitter Raad van bestuur, 
-J.M.Linthorst   
+J.M. Linthorst     

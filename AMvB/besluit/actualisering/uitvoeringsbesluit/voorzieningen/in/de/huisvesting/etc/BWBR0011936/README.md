@@ -15,21 +15,21 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-####Wijziging [Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO](../../../../../../../../../../AMvB/uitvoeringsbesluit/voorzieningen/in/de/huisvesting/povo/BWBR0008562/README.md)
+####Wijziging [Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO](../../../../../../../../../../AMvB/uitvoeringsbesluit/voorzieningen/in/de/huisvesting/povo/BWBR0008562/README.md) 
 
-Wijzigt het Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO.   
+Wijzigt het Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO.  
 
 ### Artikel  II  
 
-####Wijziging [Besluit informatievoorziening WVO](../../../../../../../../../../AMvB/besluit/informatievoorziening/wvo/BWBR0008948/README.md)
+####Wijziging[Besluit informatievoorziening WVO](../../../../../../../../../../AMvB/besluit/informatievoorziening/wvo/BWBR0008948/README.md) 
 
-Wijzigt het Besluit informatievoorziening WVO.   
+Wijzigt het Besluit informatievoorziening WVO.  
 
 ### Artikel  III  
 
 ####Overgangsbepaling afdelingen IOBK
 
-Ten aanzien van een afdeling voor in hun ontwikkeling bedreigde kleuters als bedoeld in [artikel XXXIX van de Wet van 2 april 1998 (Stb. 228)](../../../../../../../../../../wet/wijzigingswet/wet/op/het/basisonderwijs/enz./(het/totstandbrengen/van/etc/BWBR0009525/README.md) is van toepassing het bepaalde in onderdeel m van de tabel in artikel 4, zoals luidend voor inwerkingtreding van dit besluit.  
+Ten aanzien van een afdeling voor in hun ontwikkeling bedreigde kleuters als bedoeld in [artikel XXXIX van de Wet van 2 april 1998 (Stb. 228)](../../../../../../../../../../wet/wijzigingswet/wet/op/het/basisonderwijs/enz./(het/totstandbrengen/van/etc/BWBR0009525/README.md) is van toepassing het bepaalde in onderdeel m van de tabel in artikel 4, zoals luidend voor inwerkingtreding van dit besluit. 
 
 ### Artikel  IV  
 
@@ -54,7 +54,7 @@ L. J. Brinkhorst
 de *achtentwintigste* december 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     
 
 ### Bijlage  1  
 

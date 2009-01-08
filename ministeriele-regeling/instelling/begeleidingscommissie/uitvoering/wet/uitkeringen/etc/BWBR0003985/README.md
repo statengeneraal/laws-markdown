@@ -26,7 +26,7 @@ f. A. J. van der Leeuw, voorzitter Uitkeringsraad;
 g. J. Poot R. A., hoofd sector Accountantscontrole en Advies, centrale Accountantsdienst ministerie van Financiën;  
 
 h. K. Starreveld, R. A., hoofd Accountantsdienst, ministerie van WVC.     
-3.  Indien de uitvoering van de [WUV](../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) in het buitenland aan de orde is, dan vrzoekt de voorzitter, drs.J.J. Wijenberg, chef centrale afdeling Financieel-Economische Zaken van het ministerie van Buitenlandse Zaken, aan de beraadslagingen van de commissie, als lid deel te nemen.   
+3.  Indien de uitvoering van de [WUV](../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) in het buitenland aan de orde is, dan vrzoekt de voorzitter, drs.J.J. Wijenberg, chef centrale afdeling Financieel-Economische Zaken van het ministerie van Buitenlandse Zaken, aan de beraadslagingen van de commissie, als lid deel te nemen.  
 
 ### Artikel  2  
 
@@ -34,7 +34,7 @@ De commissie heeft tot taak:
 
 1. het begeleiden van de implementatie van de bevindingen en aanbevelingen van het interimrapport van de Begeleidingscommissie UWUV;  
 
-2. het begeleiden van de maatregelen die in principe moeten kunnen leiden tot een goedkeurende accountantsverklaring over de financiële verantwoording van de [WUV](../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) betreffende het boekjaar 1986.    
+2. het begeleiden van de maatregelen die in principe moeten kunnen leiden tot een goedkeurende accountantsverklaring over de financiële verantwoording van de [WUV](../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) betreffende het boekjaar 1986.   
 Afschrift van deze beschikking wordt gezonden aan de leden van de commissie, de minister van Financiën, de minister van Buitenlandse Zaken en de Algemene Rekenkamer.   
 
 Rijswijk 
@@ -42,4 +42,4 @@ Rijswijk
 
 De 
 staatssecretaris voornoemd, 
-J. P. van derReijden    
+J. P. van der  Reijden      

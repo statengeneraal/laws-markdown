@@ -9,7 +9,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Met ingang van 1 mei 2002 ontvangt de voorzitter van de Commissie innovatie openbaar bestuur een vaste beloning van € 1154,62 per maand.  
+Met ingang van 1 mei 2002 ontvangt de voorzitter van de Commissie innovatie openbaar bestuur een vaste beloning van € 1154,62 per maand. 
 
 ### Artikel  2  
 

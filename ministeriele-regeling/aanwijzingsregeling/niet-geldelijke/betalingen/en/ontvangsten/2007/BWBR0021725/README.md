@@ -12,21 +12,21 @@ Besluit:
 
 De navolgende niet-geldelijke transacties worden als geldelijke betalingen en ontvangsten in de departementale begrotingsadministratie van het Rijk verwerkt: 
 
-a. transacties, inhoudende een vergelijking van een schuld met een vordering;  
+a.  transacties, inhoudende een vergelijking van een schuld met een vordering;  
 
-b. inruil- en soortgelijke transacties.    
+b.  inruil- en soortgelijke transacties.   
 
 ### Artikel  2  
 
-In bijzondere gevallen kan met de instemming van de Minister van Financiën worden afgeweken van de bepaling van deze regeling.  
+In bijzondere gevallen kan met de instemming van de Minister van Financiën worden afgeweken van de bepaling van deze regeling. 
 
 ### Artikel  3  
 
 1.  De Aanwijzingsregeling niet-geldelijke betalingen en ontvangsten 2004 wordt ingetrokken.   
 2.  Deze regeling kan worden aangehaald als: Aanwijzingsregeling niet-geldelijke betalingen en ontvangsten 2007.   
-3.  Zij treedt in werking met ingang van 1 mei 2007.   
+3.  Zij treedt in werking met ingang van 1 mei 2007.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Financiën, 
-W.J.Bos   
+W.J. Bos     

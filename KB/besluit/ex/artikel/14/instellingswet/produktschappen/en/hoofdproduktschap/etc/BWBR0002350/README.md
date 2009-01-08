@@ -13,11 +13,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Onder aangelegenheden, verband houdende met het economisch verkeer tussen verschillende stadia van voortbrenging en afzet, als bedoeld in artikel 14, lid 1, onder *a*, van de Instellingswet Produktschappen en Hoofdproduktschap voor Akkerbouwprodukten, zijn begrepen de prijzen, waartegen grit aan buitenlandse afnemers ten minste moet worden afgezet.  
+Onder aangelegenheden, verband houdende met het economisch verkeer tussen verschillende stadia van voortbrenging en afzet, als bedoeld in artikel 14, lid 1, onder *a*, van de Instellingswet Produktschappen en Hoofdproduktschap voor Akkerbouwprodukten, zijn begrepen de prijzen, waartegen grit aan buitenlandse afnemers ten minste moet worden afgezet. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad*, waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad*, waarin het wordt geplaatst. 
 
 Onze Ministers van Algemene Zaken, van Landbouw en Visserij en van Economische Zaken zijn belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst.   
 

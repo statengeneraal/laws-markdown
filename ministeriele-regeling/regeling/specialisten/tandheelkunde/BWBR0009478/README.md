@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling specialisten tandheelkunde
+##Regeling specialisten tandheelkunde 
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
 Gelet op [artikel 14, eerste en zesde lid, onder a, van de Wet op de beroepen in de individuele gezondheidszorg](../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md);
@@ -17,9 +17,9 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling specialisten tandheelkunde.  
+Deze regeling wordt aangehaald als: Regeling specialisten tandheelkunde. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.Borst-Eilers    
+Minister vanVolksgezondheid, Welzijn en Sport, 
+E.  Borst-Eilers      

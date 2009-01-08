@@ -13,11 +13,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Onder aangelegenheden, verband houdende met het economisch verkeer tussen verschillende stadia van voortbrenging en afzet, als bedoeld in artikel 4, eerste lid, onder *a*, van de [Instellingswet Productschap voor Gedistilleerde Dranken](../../../../../../../../../../../wet/instellingswet/productschap/voor/gedistilleerde/dranken/BWBR0002151/README.md) (*Stb.* 1954, 450), zijn begrepen de prijzen, waartegen gedistilleerde dranken aan buitenlandse afnemers tenminste moeten worden afgezet.  
+Onder aangelegenheden, verband houdende met het economisch verkeer tussen verschillende stadia van voortbrenging en afzet, als bedoeld in artikel 4, eerste lid, onder *a*, van de [Instellingswet Productschap voor Gedistilleerde Dranken](../../../../../../../../../../../wet/instellingswet/productschap/voor/gedistilleerde/dranken/BWBR0002151/README.md) (*Stb.* 1954, 450), zijn begrepen de prijzen, waartegen gedistilleerde dranken aan buitenlandse afnemers tenminste moeten worden afgezet. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 juli 1959.  
+Dit besluit treedt in werking met ingang van 1 juli 1959. 
 
 Onze Ministers van Algemene Zaken, van Economische Zaken en van Landbouw en Visserij zijn belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst.   
 

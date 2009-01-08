@@ -8,11 +8,11 @@ Gelet op de [artikelen 6](../../../../../../../../../AMvB/subsidiebesluit/minist
 Gelet op de [artikelen 9.1](../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) en [9.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md);
 Besluit:    
 
-### Enig  artikel  
+###Enig artikel 
 
-Voor subsidieverlening in het kader van het programma Stage en uitwisseling voor jongeren geldt in aanvulling op het bij Besluit van de Minister van Buitenlandse Zaken en de Minister voor Ontwikkelingssamenwerking van 22 februari 2006, [nr. DJZ/BR/0201-2006](../../../../../../../../../ministeriele-regeling/besluit/omzetting/op/grond/van/subsidieregeling/ministerie/van/etc/BWBR0019597/README.md) onder de werkingssfeer van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 gebrachte Besluit van de Minister voor Ontwikkelingssamenwerking van 10 mei 2005, [nr. DSI/MY-169/05](../../../../../../../../../ministeriele-regeling/besluit/vaststelling/beleidsvoornemen/en/subsidieplafond/subsidieregeling/etc/BWBR0018314/README.md): Jongeren die vervolgd worden in verband met een misdrijf komen niet in aanmerking voor een stage of uitwisseling ten laste van dit programma.  
+Voor subsidieverlening in het kader van het programma Stage en uitwisseling voor jongeren geldt in aanvulling op het bij Besluit van de Minister van Buitenlandse Zaken en de Minister voor Ontwikkelingssamenwerking van 22 februari 2006, [nr. DJZ/BR/0201-2006](../../../../../../../../../ministeriele-regeling/besluit/omzetting/op/grond/van/subsidieregeling/ministerie/van/etc/BWBR0019597/README.md) onder de werkingssfeer van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 gebrachte Besluit van de Minister voor Ontwikkelingssamenwerking van 10 mei 2005, [nr. DSI/MY-169/05](../../../../../../../../../ministeriele-regeling/besluit/vaststelling/beleidsvoornemen/en/subsidieplafond/subsidieregeling/etc/BWBR0018314/README.md): Jongeren die vervolgd worden in verband met een misdrijf komen niet in aanmerking voor een stage of uitwisseling ten laste van dit programma. 
 
 De 
-Minister voor Ontwikkelingssamenwerking, namens deze: de 
+Minister voor Ontwikkelingssamenwerking, namens deze:de 
 Directeur-Generaal Internationale Samenwerking, 
-R.J.Treffers   
+R.J. Treffers     

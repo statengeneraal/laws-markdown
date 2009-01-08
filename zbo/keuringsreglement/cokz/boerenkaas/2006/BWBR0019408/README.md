@@ -13,7 +13,7 @@ Heeft op 29 december 2005 vastgesteld het navolgende reglement:
 
 ### Artikel  1  
 
-In dit reglement wordt, tenzij uitdrukkelijk anders is bepaald, de terminologie van de [Landbouwkwaliteitsregeling kaas](../../../../../../ministeriele-regeling/landbouwkwaliteitsregeling/kaas/BWBR0009794/README.md) overgenomen en wordt voorts verstaan onder: regeling: [Landbouwkwaliteitsregeling kaas 2006](../../../../../../ministeriele-regeling/landbouwkwaliteitsregeling/kaas/2006/BWBR0019231/README.md); boerenkaas: boerenkaas die is voorzien van een rijkskaasmerk of is bestemd om te worden voorzien van een rijkskaasmerk; rijkskaasmerk: het rijkskaasmerk als bedoeld in [artikel 3 van de regeling](../../../../../../ministeriele-regeling/landbouwkwaliteitsregeling/kaas/2006/BWBR0019231/README.md); productdossier: productdossier als bedoeld in [artikel 14, tweede lid van de regeling](../../../../../../ministeriele-regeling/landbouwkwaliteitsregeling/kaas/2006/BWBR0019231/README.md); bereider: producent van boerenkaas; afleveren: afleveren van kaas na de verplichte bewaartermijn van de desbetreffende kaas; directeur: directeur van het COKZ; directeur Industrie en Handel: directeur Industrie en Handel van het Ministerie van Landbouw, Natuur en Voedselkwaliteit; bestuur: bestuur van het COKZ.  
+In dit reglement wordt, tenzij uitdrukkelijk anders is bepaald, de terminologie van de [Landbouwkwaliteitsregeling kaas](../../../../../../ministeriele-regeling/landbouwkwaliteitsregeling/kaas/BWBR0009794/README.md) overgenomen en wordt voorts verstaan onder: regeling: [Landbouwkwaliteitsregeling kaas 2006](../../../../../../ministeriele-regeling/landbouwkwaliteitsregeling/kaas/2006/BWBR0019231/README.md); boerenkaas: boerenkaas die is voorzien van een rijkskaasmerk of is bestemd om te worden voorzien van een rijkskaasmerk; rijkskaasmerk: het rijkskaasmerk als bedoeld in [artikel 3 van de regeling](../../../../../../ministeriele-regeling/landbouwkwaliteitsregeling/kaas/2006/BWBR0019231/README.md); productdossier: productdossier als bedoeld in [artikel 14, tweede lid van de regeling](../../../../../../ministeriele-regeling/landbouwkwaliteitsregeling/kaas/2006/BWBR0019231/README.md); bereider: producent van boerenkaas; afleveren: afleveren van kaas na de verplichte bewaartermijn van de desbetreffende kaas; directeur: directeur van het COKZ; directeur Industrie en Handel: directeur Industrie en Handel van het Ministerie van Landbouw, Natuur en Voedselkwaliteit; bestuur: bestuur van het COKZ. 
 
 ### Hoofdstuk  2  
 
@@ -29,7 +29,7 @@ b. op zelfklevende etiketten welke op de verpakkingen van boerenkaas worden aang
 
 c. rechtstreeks op de buitenzijde van het verpakkingsmateriaal voor boerenkaas op zodanige wijze dat, bij gebruik van dit materiaal overeenkomstig zijn bestemming, het rijkskaasmerk in zijn geheel zichtbaar is op één zijde van de verpakking.     
 2.  Op de rijkskaasmerken, als bedoeld in het eerste lid onder a en b, worden met zwarte inkt gedrukt een doorlopend volgnummer van 00001 tot en met 99999 en daaronder een lettercombinatie of letter- en cijfercombinatie bestaande uit ten minste twee serieletters, welke onmiddellijk worden voorafgegaan doorde letter Z.   
-3.  Het in het tweede lid genoemde volgnummer en de lettercombinatie of letter- en cijfercombinatie dienen, indien het rijkskaasmerk rechtstreeks op de verpakking, als bedoeld in het eerste lid onder c, wordt aangebracht, op de verpakking in het rijkskaasmerk of in de onmiddellijke nabijheid van het rijkskaasmerk te worden gedrukt.   
+3.  Het in het tweede lid genoemde volgnummer en de lettercombinatie of letter- en cijfercombinatie dienen, indien het rijkskaasmerk rechtstreeks op de verpakking, als bedoeld in het eerste lid onder c, wordt aangebracht, op de verpakking in het rijkskaasmerk of in de onmiddellijke nabijheid van het rijkskaasmerk te worden gedrukt.  
 
 ####Rijkskaasmerken in de vorm van caseïneplaatjes
 
@@ -48,7 +48,7 @@ c. op een boerenkaas niet meer dan één rijkskaasmerk wordt aangebracht;
 d. de bedrukte zijde van het rijkskaasmerk in de boerenkaas wordt geperst;  
 
 e. geen beschadiging van het rijkskaasmerk optreedt.     
-4.  De bereider is verplicht een administratie te voeren omtrent het verloop van de voorraad van de aan hem verstrekte rijkskaasmerken in de vorm van caseïneplaatjes. Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze waarop deze administratie moet worden gevoerd.   
+4.  De bereider is verplicht een administratie te voeren omtrent het verloop van de voorraad van de aan hem verstrekte rijkskaasmerken in de vorm van caseïneplaatjes. Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze waarop deze administratie moet worden gevoerd.  
 
 ####Rijkskaasmerken in de vorm van etiketten of rechtstreeks aangebracht op de verpakking
 
@@ -79,7 +79,7 @@ d. geen beschadiging van het rijkskaasmerk optreedt.
 
 a. de aan hem verstrekte met een rijkskaasmerk bedrukte etiketten;  
 
-b. het aan hem verstrekte met een rijkskaasmerk bedrukt verpakkingsmateriaal.   Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze waarop deze administratie moet worden gevoerd.   
+b. het aan hem verstrekte met een rijkskaasmerk bedrukt verpakkingsmateriaal.   Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze waarop deze administratie moet worden gevoerd.  
 
 ### Artikel  5  
 
@@ -95,7 +95,7 @@ b. een administratie te voeren van onbruikbaar geworden met een rijkskaasmerk be
 
 – de letters en volgnummers van het rijkskaasmerk, dan wel van het eerste en het laatste rijkskaasmerk van het verpakkingsmateriaal;  
 
-– de wijze van vernietiging van het verpakkingsmateriaal.       
+– de wijze van vernietiging van het verpakkingsmateriaal.      
 
 ### Hoofdstuk  3  
 
@@ -106,7 +106,7 @@ b. een administratie te voeren van onbruikbaar geworden met een rijkskaasmerk be
 ### Artikel  6  
 
 1.  Een productdossier dient minimaal 5 werkdagen voordat de in het productdossier beschreven boerenkaas voor het eerst wordt bereid, te worden ingediend bij het COKZ.   
-2.  Het COKZ beoordeelt het productdossier aan het gestelde in [artikel 14 van de regeling](../../../../../../ministeriele-regeling/landbouwkwaliteitsregeling/kaas/2006/BWBR0019231/README.md).   
+2.  Het COKZ beoordeelt het productdossier aan het gestelde in [artikel 14 van de regeling](../../../../../../ministeriele-regeling/landbouwkwaliteitsregeling/kaas/2006/BWBR0019231/README.md).  
 
 ### Artikel  7  
 
@@ -141,7 +141,7 @@ c. op de dag waarop boerenkaas bestemd wordt voor aflevering aan particulieren o
 – de aanduiding ‘particulieren’;  
 
 – eventuele andere, door of namens het bestuur in het belang van de controle gevraagde bijzonderheden, het bedrijf van de bereider betreffende.       
-2.  Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze waarop de in het eerste lid genoemde administratie moet worden gevoerd.   
+2.  Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze waarop de in het eerste lid genoemde administratie moet worden gevoerd.  
 
 ####Voorschriften inzake de keuring van boerenkaas
 
@@ -187,17 +187,17 @@ a. onderzoek op de bij het besluit en de [regeling](../../../../../../ministerie
 
 – de aanduiding;    
 
-b. onderzoek op de bij het productdossier aan de desbetreffende boerenkaas gestelde overige genoemde eisen.     
+b. onderzoek op de bij het productdossier aan de desbetreffende boerenkaas gestelde overige genoemde eisen.    
 
 ### Artikel  9  
 
 1.  Het bestuur bepaalt het aantal monsters dat ten behoeve van het in artikel 8, derde lid, bedoelde onderzoek wordt genomen en de wijze waarop de monsters uit de aanwezige voorraad worden gekozen.   
 2.  Het bestuur bepaalt de frequentie waarin en de wijze waarop de in artikel 8, derde lid, bedoelde keuring wordt verricht.   
-3.  De directeur is bevoegd in naar zijn oordeel bijzondere gevallen af te wijken van het krachtens de voorgaande leden bepaalde.   
+3.  De directeur is bevoegd in naar zijn oordeel bijzondere gevallen af te wijken van het krachtens de voorgaande leden bepaalde.  
 
 ### Artikel  10  
 
-Het resultaat van de in artikel 8, derde lid, bedoelde onderdelen van de keuring wordt door middel van één of meer keuringsformulieren, houdende de bemonsteringsgegevens en de analyse- en/of keuringsresultaten aan de bereider van de boerenkaas bekend gemaakt.  
+Het resultaat van de in artikel 8, derde lid, bedoelde onderdelen van de keuring wordt door middel van één of meer keuringsformulieren, houdende de bemonsteringsgegevens en de analyse- en/of keuringsresultaten aan de bereider van de boerenkaas bekend gemaakt. 
 
 ### Artikel  11  
 
@@ -207,7 +207,7 @@ a. op elk tijdstip binnen de gehele voor de onderscheiden boerenkaassoort voorge
 
 b. op elk tijdstip waarop boerenkaas, anders dan op de plaats van verkoop aan de verbruiker, wordt vermalen of versneden tot eenheden product, bestemd of geschikt om als zodanig aan de verbruiker te worden afgeleverd, ongeacht de ouderdom van de boerenkaas.     
 2.  De in het eerste lid bedoelde keuring kan betrekking hebben op alle onderdelen van de keuring welke genoemd zijn in artikelen 8, derde lid. Wanneer zulks door of namens het COKZ met keuring en toezicht belaste personeel nodig wordt geoordeeld, kunnen van boerenkaas ten behoeve van de in het eerste lid bedoelde keuring boor- of sectormonsters worden genomen.   
-3.  Het bepaalde in artikel 10 is op de in het eerste lid bedoelde keuring van overeenkomstige toepassing. De gevolgen van de keuring   
+3.  Het bepaalde in artikel 10 is op de in het eerste lid bedoelde keuring van overeenkomstige toepassing. De gevolgen van de keuring  
 
 ### Artikel  12  
 
@@ -222,7 +222,7 @@ a. aan de boerenkaas een bestemming wordt gegeven, welke de schriftelijke goedke
 
 b. de boerenkaas een bewerking heeft ondergaan en vervolgens schriftelijk bij het COKZ is aangemeld voor herhaalde keuring en blijkens het bij de herhaalde keuring afgegeven keuringsformulier door het COKZ voor aflevering is vrijgegeven.     
 3.  Eventuele uit een bak, charge of partij boerenkaas, waarvoor een afleveringsverbod is opgelegd, geselecteerde boerenkazen, welke niet voldoen aan de bij het besluit of de [regeling](../../../../../../ministeriele-regeling/landbouwkwaliteitsregeling/kaas/2006/BWBR0019231/README.md) resp. aan de bij het productdossier gestelde eisen, mogen het bedrijf van de houder van deze boerenkazen niet verlaten, tenzij aan deze boerenkazen een bestemming wordt gegeven, welke de schriftelijke goedkeuring heeft van het COKZ.   
-4.  Bij het verstrekken van de in het tweede lid, onder a en het derde lid bedoelde schriftelijke goedkeuring kan worden bepaald, dat de desbetreffende boerenkaas bij verzending moet zijn voorzien van een door of namens het COKZ afgegeven geleidebiljet.   
+4.  Bij het verstrekken van de in het tweede lid, onder a en het derde lid bedoelde schriftelijke goedkeuring kan worden bepaald, dat de desbetreffende boerenkaas bij verzending moet zijn voorzien van een door of namens het COKZ afgegeven geleidebiljet.  
 
 ### Hoofdstuk  4  
 
@@ -230,7 +230,7 @@ b. de boerenkaas een bewerking heeft ondergaan en vervolgens schriftelijk bij he
 
 ### Artikel  13  
 
-Voor de vaststelling of boerenkaas voldoet aan het bij het besluit of bij de [regeling](../../../../../../ministeriele-regeling/landbouwkwaliteitsregeling/kaas/2006/BWBR0019231/README.md) bepaalde moet worden gebruik gemaakt van de in bijlage 1 vermelde methoden van monsterneming en onderzoek. Indien voor een bepaald doel een methode ontbreekt, moet een door het bestuur goedgekeurde en gevalideerde methode worden toegepast.  
+Voor de vaststelling of boerenkaas voldoet aan het bij het besluit of bij de [regeling](../../../../../../ministeriele-regeling/landbouwkwaliteitsregeling/kaas/2006/BWBR0019231/README.md) bepaalde moet worden gebruik gemaakt van de in bijlage 1 vermelde methoden van monsterneming en onderzoek. Indien voor een bepaald doel een methode ontbreekt, moet een door het bestuur goedgekeurde en gevalideerde methode worden toegepast. 
 
 ### Hoofdstuk  5  
 
@@ -247,7 +247,7 @@ Voor de vaststelling of boerenkaas voldoet aan het bij het besluit of bij de [re
 – de keuze van een monster uit de aanwezige voorraad.     
 2.  Het in het eerste lid bedoelde bezwaar moet onmiddellijk bij de monsterneming aan degene, die het monster neemt, worden bekend gemaakt. Deze beslist of het genomen monster wordt gehandhaafd.   
 3.  De aangeslotene, die zijn bezwaren handhaaft, moet deze met redenen omkleed schriftelijk bevestigen, op zodanige wijze dat de bezwaren zijn ontvangen door het COKZ uiterlijk op de vierde werkdag, volgend op die waarop het monster is genomen.   
-4.  De directeur beslist of de bezwaren gegrond zijn. Indien hij de bezwaren gegrond acht, doet hij het genomen monster vervallen. In alle overige gevallen blijft het monster gehandhaafd. De aangeslotene ontvangt hiervan schriftelijk bericht.   
+4.  De directeur beslist of de bezwaren gegrond zijn. Indien hij de bezwaren gegrond acht, doet hij het genomen monster vervallen. In alle overige gevallen blijft het monster gehandhaafd. De aangeslotene ontvangt hiervan schriftelijk bericht.  
 
 ####Het maken van bezwaar tegen de keuringsuitslag
 
@@ -255,7 +255,7 @@ Voor de vaststelling of boerenkaas voldoet aan het bij het besluit of bij de [re
 
 1.  Tegen een door of namens het COKZ vastgestelde keuringsuitslag staat bezwaar open bij het bestuur van het COKZ. Zodanig bezwaar heeft geen schorsende werking.   
 2.  Het bezwaar moet met redenen omkleed schriftelijk worden ingediend en moet door het COKZ zijn ontvangen, uiterlijk op de vierde werkdag volgend op die, waarop de aangeslotene het desbetreffende keuringsformulier heeft ontvangen.   
-3.  Het bestuur beslist op het bezwaar binnen acht weken of na het inwinnen van advies binnen twaalf weken na ontvangst van het bezwaarschrift. Het bestuur kan de beslissing voor ten hoogste vier weken verdagen; van de verdaging wordt schriftelijk mededeling gedaan. Indien bij de keuringsuitslag, waartegen bezwaar was gericht, een verbod tot aflevering van de desbetreffende partij boerenkaas is opgelegd, kan de directeur dit verbod op verzoek van de aangeslotene opheffen, al dan niet onder het stellen van voorwaarden en beperkingen. In voorkomend geval zendt hij daarvan schriftelijk bericht aan de aangeslotene.   
+3.  Het bestuur beslist op het bezwaar binnen acht weken of na het inwinnen van advies binnen twaalf weken na ontvangst van het bezwaarschrift. Het bestuur kan de beslissing voor ten hoogste vier weken verdagen; van de verdaging wordt schriftelijk mededeling gedaan. Indien bij de keuringsuitslag, waartegen bezwaar was gericht, een verbod tot aflevering van de desbetreffende partij boerenkaas is opgelegd, kan de directeur dit verbod op verzoek van de aangeslotene opheffen, al dan niet onder het stellen van voorwaarden en beperkingen. In voorkomend geval zendt hij daarvan schriftelijk bericht aan de aangeslotene.  
 
 ####Het inwinnen van advies
 
@@ -263,7 +263,7 @@ Voor de vaststelling of boerenkaas voldoet aan het bij het besluit of bij de [re
 
 1.  Het bestuur kan, alvorens een beslissing op het bezwaarschrift te nemen, advies inwinnen bij het RIKILT of een ander orgaan met specifieke deskundigheid met betrekking tot de aard van het bezwaar.   
 2.  Het advies wordt schriftelijk uitgebracht en bevat – indien de partijen zijn gehoord – een verslag van het horen.   
-3.  Indien de beslissing op het bezwaarschrift afwijkt van het ingewonnen advies, wordt in de beslissing de reden voor die afwijking vermeld en wordt het advies met de beslissing meegezonden.   
+3.  Indien de beslissing op het bezwaarschrift afwijkt van het ingewonnen advies, wordt in de beslissing de reden voor die afwijking vermeld en wordt het advies met de beslissing meegezonden.  
 
 ### Hoofdstuk  6  
 
@@ -271,21 +271,21 @@ Voor de vaststelling of boerenkaas voldoet aan het bij het besluit of bij de [re
 
 ### Artikel  17  
 
-Aangeslotenen zijn verplicht alle plaatsen, waar bereidingshandelingen plaatsvinden in het kader van de [Landbouwkwaliteitsregeling kaas](../../../../../../ministeriele-regeling/landbouwkwaliteitsregeling/kaas/BWBR0009794/README.md), onverwijld ter kennis te brengen van het COKZ, onder opgave van het adres en de plaats van vestiging.  
+Aangeslotenen zijn verplicht alle plaatsen, waar bereidingshandelingen plaatsvinden in het kader van de [Landbouwkwaliteitsregeling kaas](../../../../../../ministeriele-regeling/landbouwkwaliteitsregeling/kaas/BWBR0009794/README.md), onverwijld ter kennis te brengen van het COKZ, onder opgave van het adres en de plaats van vestiging. 
 
 ### Artikel  18  
 
-Dit reglement kan worden aangehaald als ‘Keuringsreglement COKZ boerenkaas 2006’, en treedt in werking met ingang van 1 januari 2006.  
+Dit reglement kan worden aangehaald als ‘Keuringsreglement COKZ boerenkaas 2006’, en treedt in werking met ingang van 1 januari 2006. 
 
 Het 
-bestuur van de Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel.  
+bestuur van de Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel.   
 
 ### Bijlage  1  
 
 #### *Methoden van monsterneming en onderzoek* 
 
 Indien in het navolgende wordt verwezen naar elders gepubliceerde methoden van monsterneming en onderzoek is de versie waarnaar hier wordt verwezen van toepassing, tenzij anders is bepaald. In het geval van grensreacties is bij de desbetreffende methode aangegeven het aantal malen (n) dat een in de eis vermelde hoeveelheid analysemonster moet worden onderzocht en het maximum aantal malen dat een positief resultaat wordt toegelaten (a). 
-### *A. Geheel of gedeeltelijk ontroomde melk, room en kaasmelk* 
+###*A. Geheel of gedeeltelijk ontroomde melk, room en kaasmelk*
 
 1. Monsterneming: volgens de methoden beschreven in annex 1 2. Voorbehandeling voor fysisch en chemisch onderzoek: volgens NEN 3742: 1994 3. Bepaling van de zuurtegraad: volgens NEN 913: 1963, met dien verstande dat het resultaat wordt uitgedrukt in mmol NaOH per liter. In geval van room wordt de werkwijze toegepast zoals voor melk is beschreven in NEN 913: 1963, met dien verstande dat: 
 
@@ -296,10 +296,10 @@ Indien in het navolgende wordt verwezen naar elders gepubliceerde methoden van m
 – aan de te titreren vloeistof 1 ml indikatoroplossing wordt toegevoegd;  
 
 – het resultaat uitgedrukt in mmol NaOH per 100 g vetvrije waar, wordt berekend door vermenigvuldiging van de uitkomst met 100/(100 – F), waarin F het vetgehalte in % (m/m) is. Om het resultaat uit te drukken in de vetvrije waar wordt het vetgehalte in melk bepaald volgens IDF 1D:1996 en in room volgens IDF 16C: 1987.   4. Bepaling van het lactaatgehalte: volgens de methode beschreven in annex 2. Monsters met een lactaatgehalte hoger dan 80 mg per 100 g vetvrije droge stof worden onderzocht volgens IDF 69B: 1987, met dien verstande dat 10 g monster wordt ingewogen. Om het resultaat uit te drukken in vetvrije droge stof wordt het vetgehalte in melk bepaald volgens IDF 1D: 1996, en het drogestofgehalte volgens de methode vermeld onder A.8. 
-### *B. Kaaskorstbehandelingsmiddelen* 
+###*B. Kaaskorstbehandelingsmiddelen*
 
 1. Monsterneming: volgens de methode beschreven in annex 6. 
-### *C. Kaas* 
+###*C. Kaas*
 
 1. Monsterneming: volgens de methode beschreven in annex 14. 2. Voorbehandeling voor fysisch en chemisch onderzoek: volgens NEN 3752: 1979. 3. Bepaling van het vochtgehalte; referentiemethode: volgens NEN 3754: 1981; routinemethode: volgens ontwerp-NEN 3755: 1997, toepasbaar op kaas die niet ouder is dan vier weken. 4. Bepaling van het vetgehalte: referentiemethode: volgens NEN 3757: 1979; routinemethode: volgens NEN 3758: 1980, toepasbaar op kaas die niet ouder is dan een half jaar. 5. Bepaling van het nitraat- en nitrietgehalte: volgens IDF 189-2:2001. 6. Bepaling van de fosfatase-activiteit in kaas: volgens NEN 3774: 1978. 7. Bepaling van de pH van kaas: volgens NEN 3775: 1979. 8. Bepaling van het natriumgehalte in kaas die niet meer dan 1 g natrium per kg bevat: volgens NEN 3771: 1979 9. Bepaling van het natamycinegehalte in kaas(korst): volgens IDF 140A: 1992. 10. Aantonen bijmenging koemelk in geiten- of schapenkaas: volgens de methode beschreven in Verordening (EG) Nr. 1081/96 van de Commissie van 14 juni 1996. 11. Organoleptische keuring: volgens de methode beschreven in annex 19. 12. Bepaling van het aantal lactobacillen: volgens NEN 6815: 2001. 13. Bepaling van het aantal coli-achtige micro-organismen: volgens ISO 4832:2006 14. Bepaling van het aantal Escherichia coli: volgens IDF 170B: 1998. 15. Bepaling van het aantal Staphylococcus aureus: volgens ISO 6888. 16. Onderzoek naar afwezigheid van Listeria ssp. in 1 of 25 g volgens screeningmethode COKZ-A 348 en bevestiging van aanwezigheid van Listeria monocytogenes volgens ISO 11290-1 (1996), met dien verstande: 
 
@@ -311,5 +311,5 @@ Indien in het navolgende wordt verwezen naar elders gepubliceerde methoden van m
 
 – dat swaps worden onderzocht nadat de inhoud van het swapbuisje inclusief de swap is toegevoegd aan ca. 45 ml van het tot ca. 37 °C opgewarmde ophopingsmedium;  
 
-– dat veegdoekjes worden onderzocht nadat 225 ml van het tot ca. 37 °C opgewarmde ophopingsmedium aan het veegdoekje is toegevoegd.   17. Onderzoek naar afwezigheid van Salmonella in 5 x 25 g: volgens screeningmethode COKZ–A 349 en bevestiging van aanwezigheid van Salmonella volgens IDF 93B: 1995.  
+– dat veegdoekjes worden onderzocht nadat 225 ml van het tot ca. 37 °C opgewarmde ophopingsmedium aan het veegdoekje is toegevoegd.   17. Onderzoek naar afwezigheid van Salmonella in 5 x 25 g: volgens screeningmethode COKZ–A 349 en bevestiging van aanwezigheid van Salmonella volgens IDF 93B: 1995. 
 

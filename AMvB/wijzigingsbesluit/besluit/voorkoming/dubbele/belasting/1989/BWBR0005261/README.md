@@ -17,23 +17,23 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Voor de toepassing van artikel 3, eerste lid, en artikel 5, eerste lid, onderdeel *b,* van het Besluit voorkoming dubbele belasting 1989 blijven bij het bepalen van het bedrag van de inkomstenbelasting dat volgens de Wet op de inkomstenbelasting 1964 verschuldigd zou zijn zonder toepassing van dit besluit, investeringsbijdragen en desinvesteringsbetalingen buiten aanmerking. Onder investeringsbijdragen en desinvesteringsbetalingen worden verstaan de bijdragen en betalingen welke ingevolge hoofdstuk VA van de Wet op de inkomstenbelasting 1964 zoals dit hoofdstuk luidde onmiddellijk voorafgaande aan 1 januari 1990, als zodanig worden aangemerkt.  
+Voor de toepassing van artikel 3, eerste lid, en artikel 5, eerste lid, onderdeel *b,* van het Besluit voorkoming dubbele belasting 1989 blijven bij het bepalen van het bedrag van de inkomstenbelasting dat volgens de Wet op de inkomstenbelasting 1964 verschuldigd zou zijn zonder toepassing van dit besluit, investeringsbijdragen en desinvesteringsbetalingen buiten aanmerking. Onder investeringsbijdragen en desinvesteringsbetalingen worden verstaan de bijdragen en betalingen welke ingevolge hoofdstuk VA van de Wet op de inkomstenbelasting 1964 zoals dit hoofdstuk luidde onmiddellijk voorafgaande aan 1 januari 1990, als zodanig worden aangemerkt. 
 
 ### Artikel  III  
 
-Indien in de kalenderjaren 1990 en 1991 danwel in de boekjaren 1989/1990, 1990/1991 en 1991/1992 voorzover deze zijn aangevangen voor de inwerkingtreding van dit besluit, toepassing van artikel 3, tweede lid, van het Besluit voorkoming dubbele belasting 1989 zoals deze bepaling luidde op 1 januari 1990 zou leiden tot een grotere vermindering ter voorkoming van dubbele belasting dan zou voortvloeien uit de toepassing van dat artikel zoals dat luidt na de wijziging door artikel I, onderdeel A, onder 3, van dit besluit, vindt de eerstgenoemde bepaling toepassing.  
+Indien in de kalenderjaren 1990 en 1991 danwel in de boekjaren 1989/1990, 1990/1991 en 1991/1992 voorzover deze zijn aangevangen voor de inwerkingtreding van dit besluit, toepassing van artikel 3, tweede lid, van het Besluit voorkoming dubbele belasting 1989 zoals deze bepaling luidde op 1 januari 1990 zou leiden tot een grotere vermindering ter voorkoming van dubbele belasting dan zou voortvloeien uit de toepassing van dat artikel zoals dat luidt na de wijziging door artikel I, onderdeel A, onder 3, van dit besluit, vindt de eerstgenoemde bepaling toepassing. 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, met dien verstande dat: 
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, met dien verstande dat:  
 
 1. de wijzigingen van het Besluit voorkoming dubbele belasting 1989 welke zijn opgenomen in artikel I, onderdeel A, onder 2 en 3, en onderdeel B, alsmede artikel II terugwerken tot en met 1 januari 1990; en  
 
-2. de wijziging van het Besluit voorkoming dubbele belasting 1989 welke is opgenomen in artikel I, onderdeel C, terugwerkt tot en met 28 april 1990.    
+2. de wijziging van het Besluit voorkoming dubbele belasting 1989 welke is opgenomen in artikel I, onderdeel C, terugwerkt tot en met 28 april 1990.   
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

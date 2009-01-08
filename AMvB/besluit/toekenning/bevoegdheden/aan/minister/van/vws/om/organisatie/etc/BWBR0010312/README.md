@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De Minister van Volksgezondheid, Welzijn en Sport kan de organisatie ZorgOnderzoek Nederland opdragen de in [artikel 3, eerste lid, van de Wet op de organisatie ZorgOnderzoek Nederland](../../../../../../../../../../../../wet/wet/op/de/organisatie/zorgonderzoek/nederland/BWBR0009385/README.md) genoemde werkzaamheden te verrichten op het gebied van alternatieven voor dierproeven, waaronder mede wordt verstaan het minimaliseren van de aantasting van het welzijn van proefdieren.  
+De Minister van Volksgezondheid, Welzijn en Sport kan de organisatie ZorgOnderzoek Nederland opdragen de in [artikel 3, eerste lid, van de Wet op de organisatie ZorgOnderzoek Nederland](../../../../../../../../../../../../wet/wet/op/de/organisatie/zorgonderzoek/nederland/BWBR0009385/README.md) genoemde werkzaamheden te verrichten op het gebied van alternatieven voor dierproeven, waaronder mede wordt verstaan het minimaliseren van de aantasting van het welzijn van proefdieren. 
 
 ### Artikel  2  
 
@@ -25,7 +25,7 @@ Lasten en bevelen dat dit besluit met de daarin behorende nota van toelichting i
 
 's-Gravenhage 
 5 maart 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Volksgezondheid, Welzijn en Sport, 
 E. Borst-Eilers   

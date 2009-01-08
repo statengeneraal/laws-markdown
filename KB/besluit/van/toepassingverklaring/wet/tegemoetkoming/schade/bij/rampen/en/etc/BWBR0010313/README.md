@@ -11,17 +11,17 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De [Wet tegemoetkoming schade bij rampen en zware ongevallen](../../../../../../../../../../../../wet/wet/tegemoetkoming/schade/bij/rampen/BWBR0009637/README.md) is van toepassing op de schade en kosten die zijn ontstaan ten gevolge van de extreem zware regenval op 27 en 28 oktober 1998.  
+De [Wet tegemoetkoming schade bij rampen en zware ongevallen](../../../../../../../../../../../../wet/wet/tegemoetkoming/schade/bij/rampen/BWBR0009637/README.md) is van toepassing op de schade en kosten die zijn ontstaan ten gevolge van de extreem zware regenval op 27 en 28 oktober 1998. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het is geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het is geplaatst. 
 
 Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 5 maart 1999  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, 
 G. M. de Vries   
@@ -29,4 +29,4 @@ G. M. de Vries
 drieëntwintigste maart 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

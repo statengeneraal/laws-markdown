@@ -4,18 +4,18 @@
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 Gelet op [artikel 8c van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en [artikel 4c van het Besluit rechtspositie vrijwillige politie](../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md);
-Besluit:     
-### Paragraaf  1  
+Besluit:      
+### Paragraaf 1  
 
-####Algemeen
+####Algemeen 
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. bevoegd gezag:  het bevoegd gezag, bedoeld in [artikel 1, eerste lid, onderdeel k, van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en [artikel 1, eerste lid onderdeel e, van het Besluit rechtspositie vrijwillige politie](../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md);    b. onderzoek:  het onderzoek naar de betrouwbaarheid en geschiktheid, bedoeld in de [artikelen 8a](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en [8b van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en de [artikelen 4a](../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md) en [4b van het Besluit rechtspositie vrijwillige politie](../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md), voor zover ten behoeve van dat onderzoek wordt gevraagd om verstrekking van justitiële gegevens als bedoeld in [artikel 23 van het Besluit justitiële gegevens](../../../../../AMvB/besluit/justitiële/gegevens/BWBR0016544/README.md) en om verstrekking van gegevens als bedoeld in [artikel 14 van het Besluit politieregisters](../../../../../AMvB/besluit/politieregisters/BWBR0004996/README.md);    c. betrokkene:  degene ten aanzien van wie een onderzoek wordt uitgevoerd.     
+In deze regeling wordt verstaan onder: a. bevoegd gezag:   het bevoegd gezag, bedoeld in [artikel 1, eerste lid, onderdeel k, van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en [artikel 1, eerste lid onderdeel e, van het Besluit rechtspositie vrijwillige politie](../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md);  b. onderzoek:   het onderzoek naar de betrouwbaarheid en geschiktheid, bedoeld in de [artikelen 8a](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en [8b van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en de [artikelen 4a](../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md) en [4b van het Besluit rechtspositie vrijwillige politie](../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md), voor zover ten behoeve van dat onderzoek wordt gevraagd om verstrekking van justitiële gegevens als bedoeld in [artikel 23 van het Besluit justitiële gegevens](../../../../../AMvB/besluit/justitiële/gegevens/BWBR0016544/README.md) en om verstrekking van gegevens als bedoeld in [artikel 14 van het Besluit politieregisters](../../../../../AMvB/besluit/politieregisters/BWBR0004996/README.md);  c. betrokkene:   degene ten aanzien van wie een onderzoek wordt uitgevoerd.    
 
-### Paragraaf  2  
+### Paragraaf 2  
 
-####Het onderzoek
+####Het onderzoek 
 
 ### Artikel  2  
 
@@ -33,7 +33,7 @@ Het onderzoek omvat het inwinnen van gegevens over betrokkene uit:
 
 a. de justitiële documentatie, bedoeld in [artikel 2 van de Wet justitiële gegevens](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), en  
 
-b. de politieregisters.    
+b. de politieregisters.   
 
 ### Artikel  5  
 
@@ -48,36 +48,36 @@ b. de politieregisters.
 3.  Op zijn verzoek kan aan betrokkene inzage in het advies worden verleend. Inzage in het advies kan aan betrokkene geweigerd worden met een beroep op het belang van een goede uitvoering van de politietaak of de bescherming van de persoonlijke levenssfeer van derden.   
 4.  Het bevoegd gezag stelt de betrokkene zo spoedig mogelijk schriftelijk in kennis van zijn beslissing, onder vermelding van de redenen welke daartoe hebben geleid.   
 
-### Paragraaf  3  
+### Paragraaf 3  
 
-####Gegevensbescherming
+####Gegevensbescherming 
 
 ### Artikel  7  
 
 1.  De gegevens van het onderzoek worden opgeslagen in een apart register waarvoor een reglement overeenkomstig de eisen van de [Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) wordt opgesteld.   
 2.  In het reglement wordt in ieder geval bepaald: 
 
-a. wie toegang heeft tot het register,  
+a.  wie toegang heeft tot het register, 
 
-b. dat verstrekking van gegevens uit het register niet mogelijk is,  
+b.  dat verstrekking van gegevens uit het register niet mogelijk is, 
 
-c. de termijn van bewaring, waarbij de termijn niet langer dan twee jaar is, tenzij een bezwaar- of beroepsprocedure loopt.     
+c.  de termijn van bewaring, waarbij de termijn niet langer dan twee jaar is, tenzij een bezwaar- of beroepsprocedure loopt.    
 
-### Paragraaf  4  
+### Paragraaf 4  
 
-####Overige bepalingen
+####Overige bepalingen 
 
 ### Artikel  8  
 
-Deze regeling wordt aangehaald als: Regeling betrouwbaarheids- en geschiktheidsonderzoek politie.  
+Deze regeling wordt aangehaald als: Regeling betrouwbaarheids- en geschiktheidsonderzoek politie. 
 
 ### Artikel  9  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ’s-Gravenhage 
 8 januari 1999    
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-A.Peper    
+A.  Peper      

@@ -16,14 +16,14 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer is het inventaris
 
 ### Artikel  2  
 
-Het [Besluit van de Minister van Buitenlandse Zaken van 10 juli 2008, nr. DDI/ST/reg. 019/2008, houdende beperking van de openbaarheid van de archieven van het Nederlands Consulaat (1953–1962) en de Ambassade (1962–1974) in Ivoorkust van het Ministerie van Buitenlandse Zaken](../../../../../../../../../../ministeriele-regeling/besluit/beperking/openbaarheid/archieven/nederlands/consulaat/(1953–1962)/etc/BWBR0024227/README.md), wordt ingetrokken.  
+Het [Besluit van de Minister van Buitenlandse Zaken van 10 juli 2008, nr. DDI/ST/reg. 019/2008, houdende beperking van de openbaarheid van de archieven van het Nederlands Consulaat (1953–1962) en de Ambassade (1962–1974) in Ivoorkust van het Ministerie van Buitenlandse Zaken](../../../../../../../../../../ministeriele-regeling/besluit/beperking/openbaarheid/archieven/nederlands/consulaat/(1953–1962)/etc/BWBR0024227/README.md), wordt ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van de archieven van het Nederlands Consulaat (1953–1962) en de Ambassade (1962–1974) in Ivoorkust van het Ministerie van Buitenlandse Zaken’.  
 
 De 
-Minister van Buitenlandse Zaken, namens deze: de 
+Minister van Buitenlandse Zaken, namens deze:de 
 directeur van de Directie Documentaire Informatievoorziening, 
-H.Y.Buijs   
+H.Y. Buijs     

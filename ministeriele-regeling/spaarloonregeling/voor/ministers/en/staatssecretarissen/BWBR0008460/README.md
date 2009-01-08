@@ -4,7 +4,7 @@
 
 De Minister van Binnenlandse Zaken,  
 handelende in overeenstemming met het gevoelen van de ministerraad,
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -16,7 +16,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Spaarloonregeling voor ministers en staatssecretarissen.  
+Deze regeling wordt aangehaald als: Spaarloonregeling voor ministers en staatssecretarissen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -24,4 +24,4 @@ Den Haag
 
 De 
 Minister van Binnenlandse Zaken, 
-H.F.Dijkstal    
+H.F. Dijkstal      

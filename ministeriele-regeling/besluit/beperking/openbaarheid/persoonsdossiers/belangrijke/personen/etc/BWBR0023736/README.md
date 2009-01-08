@@ -10,24 +10,24 @@ Besluit:
 
 ### Artikel  1  
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer, alsmede op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden, worden aan de openbaarheid van de naar het Nationaal Archief over te brengen persoonsdossiers van belangrijke personen van het Ministerie van Financiën over de periode 1856–1985 met de inventarisnummers zoals opgenomen in de Bijlage, de in het volgende artikel genoemde beperkingen gesteld voor een termijn van maximaal honderd jaren gerekend vanaf de geboortedatum.  
+Met het oog op de eerbiediging van de persoonlijke levenssfeer, alsmede op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden, worden aan de openbaarheid van de naar het Nationaal Archief over te brengen persoonsdossiers van belangrijke personen van het Ministerie van Financiën over de periode 1856–1985 met de inventarisnummers zoals opgenomen in de Bijlage, de in het volgende artikel genoemde beperkingen gesteld voor een termijn van maximaal honderd jaren gerekend vanaf de geboortedatum. 
 
 ### Artikel  2  
 
-Raadpleging van de in het vorige artikel genoemde bescheiden is mogelijk nadat de directeur van het Nationaal Archief daarmee heeft ingestemd. Voor het doen van het verzoek tot instemming wordt gebruikt gemaakt van het door het Nationaal Archief voorgeschreven formulier voor toestemming tot raadpleging van niet-openbare archieven.  
+Raadpleging van de in het vorige artikel genoemde bescheiden is mogelijk nadat de directeur van het Nationaal Archief daarmee heeft ingestemd. Voor het doen van het verzoek tot instemming wordt gebruikt gemaakt van het door het Nationaal Archief voorgeschreven formulier voor toestemming tot raadpleging van niet-openbare archieven. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt gepubliceerd.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt gepubliceerd. 
 
 De 
-Minister van Financiën, namens deze: de 
+Minister van Financiën, namens deze:de 
 plv. Secretaris-generaal, 
-A.S.M.Koeleman  
+A.S.M. Koeleman    
 
 ### Bijlage  
 
-| Inv.Nr.  | Naam  | Geboorte-  jaar  | Beperkt tot  1 januari  |
+| Inv.Nr.  | Naam  | Geboorte-  jaar  | Beperkt tot   1 januari  |
 |:---|:---|:---|:---|
 | 3  | Andriessen, mr. F.H.J.J.  | 1929  | 2030  |
 | 4  | Andriessen, M.C.A.  | 1907  | 2008  |

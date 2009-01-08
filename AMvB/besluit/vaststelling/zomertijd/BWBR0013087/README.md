@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder zomertijd: de periode van het jaar waarin de klok ten opzichte van de tijd gedurende de rest van het jaar zestig minuten vooruit wordt gezet.  
+In dit besluit wordt verstaan onder zomertijd: de periode van het jaar waarin de klok ten opzichte van de tijd gedurende de rest van het jaar zestig minuten vooruit wordt gezet. 
 
 ### Artikel  2  
 
-De Midden-Europese zomertijd vangt met ingang van 2002 aan op de laatste zondag van de maand maart om 02.00 uur en eindigt op de laatste zondag van de maand oktober om 03.00 uur.  
+De Midden-Europese zomertijd vangt met ingang van 2002 aan op de laatste zondag van de maand maart om 02.00 uur en eindigt op de laatste zondag van de maand oktober om 03.00 uur. 
 
 ### Artikel  3  
 

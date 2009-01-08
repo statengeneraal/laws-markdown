@@ -11,9 +11,9 @@ De Raad van State gehoord (advies van 2 juli 1969, nr. 46);
 Gezien het nader rapport van Onze voornoemde Minister van 10 juli 1969, nr. 69160, afdeling Binnenlands Bestuur, bureau Kabinetszaken;
 Hebben goedgevonden en verstaan:    
 
-### Enig artikel  
+###Enig artikel 
 
-Onze Commissaris in de provincie ontvangt bij het volbrengen van een diensttijd van 25, 40 of 50 jaren een gratificatie overeenkomstig de bepalingen, welke te dien aanzien voor de burgerlijke rijksambtenaren zijn of zullen worden vastgesteld.  
+Onze Commissaris in de provincie ontvangt bij het volbrengen van een diensttijd van 25, 40 of 50 jaren een gratificatie overeenkomstig de bepalingen, welke te dien aanzien voor de burgerlijke rijksambtenaren zijn of zullen worden vastgesteld. 
 
 Onze Minister van Binnenlandse Zaken is belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.   
 

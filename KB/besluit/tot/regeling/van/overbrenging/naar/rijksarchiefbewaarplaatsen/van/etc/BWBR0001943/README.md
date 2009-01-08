@@ -17,27 +17,27 @@ Hebben goedgevonden en verstaan: met intrekking van het Koninklijk besluit van 2
 
 ### Artikel  1  
 
-De registers der overledenen, opgemaakt krachtens de Ordonnantie eener Belasting op het Regt van Successie alomme in het Bataafsche Gemeenebest in te vorderen van 4 October 1805, zullen worden overgebracht naar de Rijksarchiefbewaarplaats, gevestigd in de hoofdplaats der provincie, binnen welke de gemeente is gelegen, waar de ambtenaar van den burgerlijken stand, door wien die registers thans bewaard worden, gevestigd is.  
+De registers der overledenen, opgemaakt krachtens de Ordonnantie eener Belasting op het Regt van Successie alomme in het Bataafsche Gemeenebest in te vorderen van 4 October 1805, zullen worden overgebracht naar de Rijksarchiefbewaarplaats, gevestigd in de hoofdplaats der provincie, binnen welke de gemeente is gelegen, waar de ambtenaar van den burgerlijken stand, door wien die registers thans bewaard worden, gevestigd is. 
 
 ### Artikel  2  
 
-De in artikel 1 genoemde registers worden gesteld onder den Rijksarchivaris, die belast is met het beheer van de Rijksarchiefbewaarplaats, waarheen die registers zullen zijn overgebracht.  
+De in artikel 1 genoemde registers worden gesteld onder den Rijksarchivaris, die belast is met het beheer van de Rijksarchiefbewaarplaats, waarheen die registers zullen zijn overgebracht. 
 
 ### Artikel  3  
 
-De overbrenging der in artikel 1 genoemde registers geschiedt op de wijze en op het tijdstip, tusschen den ambtenaar van den burgerlijken stand, die de registers bewaarde en den Rijksarchivaris van de Rijksarchiefbewaarplaats, waarheen zij worden overgebracht, in gemeen overleg te bepalen, met dien verstande, dat de overbrenging moet plaats vinden vóór 1 November 1930. Indien het overleg tusschen den ambtenaar van den burgerlijken stand en den Rijksarchivaris niet tot eenstemmigheid leidt, beslist de Algemeene Rijksarchivaris.  
+De overbrenging der in artikel 1 genoemde registers geschiedt op de wijze en op het tijdstip, tusschen den ambtenaar van den burgerlijken stand, die de registers bewaarde en den Rijksarchivaris van de Rijksarchiefbewaarplaats, waarheen zij worden overgebracht, in gemeen overleg te bepalen, met dien verstande, dat de overbrenging moet plaats vinden vóór 1 November 1930. Indien het overleg tusschen den ambtenaar van den burgerlijken stand en den Rijksarchivaris niet tot eenstemmigheid leidt, beslist de Algemeene Rijksarchivaris. 
 
 ### Artikel  4  
 
-Van de in artikel 1 genoemde registers, die naar eene Rijksarchiefbewaarplaats worden overgebracht, maakt de Rijksarchivaris van die bewaarplaats een inventaris in duplo op, die van een verklaring aangaande die overbrenging wordt voorzien. Beide exemplaren worden door den ambtenaar van den burgerlijken stand en den Rijksarchivaris onderteekend. Eén exemplaar wordt door den ambtenaar van den burgerlijken stand, het ander in de Rijksarchiefbewaarplaats bewaard.  
+Van de in artikel 1 genoemde registers, die naar eene Rijksarchiefbewaarplaats worden overgebracht, maakt de Rijksarchivaris van die bewaarplaats een inventaris in duplo op, die van een verklaring aangaande die overbrenging wordt voorzien. Beide exemplaren worden door den ambtenaar van den burgerlijken stand en den Rijksarchivaris onderteekend. Eén exemplaar wordt door den ambtenaar van den burgerlijken stand, het ander in de Rijksarchiefbewaarplaats bewaard. 
 
 ### Artikel  5  
 
-De kosten van overbrenging van de in artikel 1 genoemde registers naar de Rijksarchiefbewaarplaatsen worden uit de ten behoeve van die Rijksarchiefbewaarplaatsen op de Rijksbegrooting uitgetrokken gelden geleden.  
+De kosten van overbrenging van de in artikel 1 genoemde registers naar de Rijksarchiefbewaarplaatsen worden uit de ten behoeve van die Rijksarchiefbewaarplaatsen op de Rijksbegrooting uitgetrokken gelden geleden. 
 
 ### Artikel  6  
 
-Onze Minister van Onderwijs, Kunsten en Wetenschappen is gemachtigd aan de Rijksarchivarissen op te dragen, aan gemeenten, die een eigen archivaris en doelmatige archieflokalen hebben, van de overeenkomstig artikel 1 naar de Rijksarchiefbewaarplaatsen overgebrachte registers de zoodanige, welke die gemeenten betreffen, tot wederopzeggens in bewaring te geven, onder voorwaarde, dat het betrokken gemeentebestuur zich verbinde: 
+Onze Minister van Onderwijs, Kunsten en Wetenschappen is gemachtigd aan de Rijksarchivarissen op te dragen, aan gemeenten, die een eigen archivaris en doelmatige archieflokalen hebben, van de overeenkomstig artikel 1 naar de Rijksarchiefbewaarplaatsen overgebrachte registers de zoodanige, welke die gemeenten betreffen, tot wederopzeggens in bewaring te geven, onder voorwaarde, dat het betrokken gemeentebestuur zich verbinde:  
 
 a. de genoemde registers zoo spoedig mogelijk, in elk geval binnen den tijd van vijf jaren, te doen inventariseeren naar een door Onzen voornoemden Minister goed te keuren plan;  
 
@@ -47,7 +47,7 @@ c. te allen tijde aan Onzen voornoemden Minister, den Algemeenen Rijksarchivaris
 
 d. aan den Algemeenen Rijksarchivaris en aan den Rijksarchivaris in de provincie, waartoe de gemeente behoort, steeds toegang tot de bewaarplaats van die registers te doen verleenen;  
 
-e. terstond mededeeling te doen aan Onzen voornoemden Minister van iedere vaststelling, wijziging of intrekking van een reglement voor het gemeentearchief of van eene instructie voor den gemeentearchivaris en van iedere benoeming, schorsing, ieder ontslag of overlijden van een ambtenaar, behoorend tot het personeel van het gemeentearchief.    
+e. terstond mededeeling te doen aan Onzen voornoemden Minister van iedere vaststelling, wijziging of intrekking van een reglement voor het gemeentearchief of van eene instructie voor den gemeentearchivaris en van iedere benoeming, schorsing, ieder ontslag of overlijden van een ambtenaar, behoorend tot het personeel van het gemeentearchief.   
 
 Onze Ministers van Onderwijs, Kunsten en Wetenschappen, van Justitie en van Financiën zijn, ieder voor zooveel hem betreft, belast met de uitvoering van dit besluit, hetwelk in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan den Raad van State en aan de Algemeene Rekenkamer.   
 

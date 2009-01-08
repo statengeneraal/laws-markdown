@@ -19,21 +19,21 @@ In dit besluit wordt verstaan onder: "militairen", "beroepsmilitairen", "gewezen
 
 ### Artikel  2  
 
-Als Commissie treedt op de Garantiewetcommissie, bedoeld in artikel 2 van Ons besluit van 26 mei 1953 (*Stb.* 239), met dien verstande, dat voor de behandeling van zaken, de [Garantiewet Militairen K.N.I.L.](../../../../../../../../../../../../wet/garantiewet/militairen/k.n.i.l./BWBR0002077/README.md) betreffende, de leden en de plaatsvervangende leden door andere leden en plaatsvervangende leden kunnen worden vervangen.  
+Als Commissie treedt op de Garantiewetcommissie, bedoeld in artikel 2 van Ons besluit van 26 mei 1953 (*Stb.* 239), met dien verstande, dat voor de behandeling van zaken, de [Garantiewet Militairen K.N.I.L.](../../../../../../../../../../../../wet/garantiewet/militairen/k.n.i.l./BWBR0002077/README.md) betreffende, de leden en de plaatsvervangende leden door andere leden en plaatsvervangende leden kunnen worden vervangen. 
 
 ### Artikel  3  
 
-Voor zover daarvan bij dit besluit niet nadrukkelijk wordt afgeweken, zijn de volgende artikelen van Ons besluit van 26 mei 1953 (*Stb.* 239) van overeenkomstige toepassing: 
+Voor zover daarvan bij dit besluit niet nadrukkelijk wordt afgeweken, zijn de volgende artikelen van Ons besluit van 26 mei 1953 (*Stb.* 239) van overeenkomstige toepassing:  
 
-a. op de Commissie: de artikelen 6, 13 tot en met 15, 16, leden 1 en 2, 20, lid 1 en 21, lid 1 sub *b* en lid 2, met dien verstande dat alsdan in artikel 16 in plaats van "Garantiewet" moet worden gelezen: "[Garantiewet Militairen K.N.I.L.](../../../../../../../../../../../../wet/garantiewet/militairen/k.n.i.l./BWBR0002077/README.md) " en in artikel 6, in plaats van "overheidsdienaren of gewezen overheidsdienaren op wie de Garantiewet van toepassing is": "militairen of gewezen militairen op wie de [Garantiewet Militairen K.N.I.L.](../../../../../../../../../../../../wet/garantiewet/militairen/k.n.i.l./BWBR0002077/README.md) van toepassing is";  
+a. op de Commissie: de artikelen 6, 13 tot en met 15, 16, leden 1 en 2, 20, lid 1 en 21, lid 1 sub *b* en lid 2, met dien verstande dat alsdan in artikel 16 in plaats van "Garantiewet" moet worden gelezen:  "[Garantiewet Militairen K.N.I.L.](../../../../../../../../../../../../wet/garantiewet/militairen/k.n.i.l./BWBR0002077/README.md)" en in artikel 6, in plaats van "overheidsdienaren of gewezen overheidsdienaren op wie de Garantiewet van toepassing is": "militairen of gewezen militairen op wie de [Garantiewet Militairen K.N.I.L.](../../../../../../../../../../../../wet/garantiewet/militairen/k.n.i.l./BWBR0002077/README.md) van toepassing is";  
 
 b. op de andere leden en plaatsvervangende leden, bedoeld in artikel 2, die de leden en plaatsvervangende leden kunnen vervangen: de artikelen 4, 5, 10 en 11;  
 
-c. op de Adviescommissie in Garantiewetzaken, bedoeld in artikel 19, lid 2 van Ons besluit van 26 mei 1953 (*Stb.* 239) juncto artikel 6, lid 2 van het onderwerpelijk besluit: artikel 20, lid 1.    
+c. op de Adviescommissie in Garantiewetzaken, bedoeld in artikel 19, lid 2 van Ons besluit van 26 mei 1953 (*Stb.* 239) juncto artikel 6, lid 2 van het onderwerpelijk besluit: artikel 20, lid 1.   
 
 ### Artikel  4  
 
-1.  Zaken tot welker beslissing de Commissie bevoegd is kunnen uitsluitend worden aanhangig gemaakt door: 
+1.  Zaken tot welker beslissing de Commissie bevoegd is kunnen uitsluitend worden aanhangig gemaakt door:  
 
 a. Onze Minister van Binnenlandse Zaken;  
 
@@ -46,16 +46,16 @@ d. de betrokken beroepsmilitair;
 e. de betrokken gewezen militair;  
 
 f. ieder van de betrokken nagelaten betrekkingen.     
-2.  De Commissie kan ook ambtshalve zaken in behandeling nemen met inbegrip van zaken, waarbij een groep overheidsdienaren is betrokken.   
+2.   De Commissie kan ook ambtshalve zaken in behandeling nemen met inbegrip van zaken, waarbij een groep overheidsdienaren is betrokken.  
 
 ### Artikel  6  
 
 1.  Tegen de beslissingen van de commissie kan een belanghebbende als bedoeld in artikel 4, onder c, d, e en g, beroep instellen bij Onze Minister van Binnenlandse Zaken.   
-2.  Het bepaalde in artikel 19 van Ons besluit van 26 mei 1953 (*Stb.* 239) is van overeenkomstige toepassing.   
+2.   Het bepaalde in artikel 19 van Ons besluit van 26 mei 1953 (*Stb.* 239) is van overeenkomstige toepassing.  
 
 ### Artikel  7  
 
-Alle stukken en geschriften, opgemaakt in verband met de naleving van de voorschriften van dit besluit, voor zover niet aan evenredig recht onderworpen, zijn vrij van zegel.  
+Alle stukken en geschriften, opgemaakt in verband met de naleving van de voorschriften van dit besluit, voor zover niet aan evenredig recht onderworpen, zijn vrij van zegel. 
 
 Onze Minister van Binnenlandse Zaken is belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.   
 

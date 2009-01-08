@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-Onze Minister van Financiën wordt gemachtigd, om het nodige te verrichten, opdat Nederland deelneemt in de Zesde Middelenaanvulling van het Afrikaanse Ontwikkelingsfonds voor een totaal bedrag van € 86 350 185,37.  
+Onze Minister van Financiën wordt gemachtigd, om het nodige te verrichten, opdat Nederland deelneemt in de Zesde Middelenaanvulling van het Afrikaanse Ontwikkelingsfonds voor een totaal bedrag van € 86 350 185,37. 
 
 ### Artikel  2  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

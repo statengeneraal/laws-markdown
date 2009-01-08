@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet educatie en beroepsonderwijs.   
+Wijzigt de Wet educatie en beroepsonderwijs. 
 
 ### Artikel  II  
 
-Wijzigt de Wet op het onderwijstoezicht.   
+Wijzigt de Wet op het onderwijstoezicht. 
 
 ### Artikel  III  
 
-Het bevoegd gezag dat op het moment van inwerkingtreding van deze wet het Kwaliteitscentrum examinering beroepsopleidingen nog een vergoeding voor onderzoek verschuldigd is als bedoeld in [artikel 7.4.9g, derde lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) zoals dat luidde voor de inwerkintreding van deze wet blijft daartoe gehouden totdat de vergoeding is voldaan.  
+Het bevoegd gezag dat op het moment van inwerkingtreding van deze wet het Kwaliteitscentrum examinering beroepsopleidingen nog een vergoeding voor onderzoek verschuldigd is als bedoeld in [artikel 7.4.9g, derde lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) zoals dat luidde voor de inwerkintreding van deze wet blijft daartoe gehouden totdat de vergoeding is voldaan. 
 
 ### Artikel  IV  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -31,7 +31,7 @@ Gegeven te 's-Gravenhage
 22 mei 2008  
 Beatrix  
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschap , 
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap ,  
 J. M. van Bijsterveldt-Vliegenthart   
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit , 

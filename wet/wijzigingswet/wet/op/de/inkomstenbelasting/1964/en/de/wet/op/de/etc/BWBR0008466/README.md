@@ -11,29 +11,29 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### ARTIKEL  I  
 
-Wijzigt de Wet op de inkomstenbelasting 1964.   
+Wijzigt de Wet op de inkomstenbelasting 1964.  
 
 ### ARTIKEL  II  
 
-Wijzigt de Wet op de loonbelasting 1964.   
+Wijzigt de Wet op de loonbelasting 1964.  
 
 ### ARTIKEL  III  
 
-Het bepaalde in deze wet is niet van toepassing met betrekking tot kosten en lasten en aftrekbare kosten die in aanmerking zijn genomen voor het in werking treden van deze wet.  
+Het bepaalde in deze wet is niet van toepassing met betrekking tot kosten en lasten en aftrekbare kosten die in aanmerking zijn genomen voor het in werking treden van deze wet. 
 
 ### ARTIKEL  IV  
 
-Wijzigt de Wet op de inkomstenbelasting 1964 en de Wet op de loonbelasting 1964.   
+Wijzigt de Wet op de inkomstenbelasting 1964 en de Wet op de loonbelasting 1964.  
 
 ### ARTIKEL  V  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst, doch niet voor 1 januari 1997.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst, doch niet voor 1 januari 1997. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 20 december 1996  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Financiën, 
 W. A. F. G. Vermeend   

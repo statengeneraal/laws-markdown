@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Algemeen Rijksambtenarenreglement.   
+Wijzigt het Algemeen Rijksambtenarenreglement.  
 
 ### ARTIKEL  II  
 
-Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
+Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.  
 
 ### ARTIKEL  III  
 
-De ambtenaar, die op de datum van inwerkingtreding van dit besluit, reeds werkzaam is in een functie, genoemd in [artikel 7, vierde lid, van het Algemeen Rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), wordt met ingang van de inwerkingtreding van dit besluit geacht te zijn aangesteld overeenkomstig [artikel 7, eerste lid, onder a, van het Algemeen Rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en in die functie te zijn benoemd voor een periode van zeven jaar, verminderd met de tijd dat hij de functie voor de datum van inwerkingtreding van dit besluit heeft vervuld, doch ten minste tot 1 januari 2003.  
+De ambtenaar, die op de datum van inwerkingtreding van dit besluit, reeds werkzaam is in een functie, genoemd in [artikel 7, vierde lid, van het Algemeen Rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), wordt met ingang van de inwerkingtreding van dit besluit geacht te zijn aangesteld overeenkomstig [artikel 7, eerste lid, onder a, van het Algemeen Rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en in die functie te zijn benoemd voor een periode van zeven jaar, verminderd met de tijd dat hij de functie voor de datum van inwerkingtreding van dit besluit heeft vervuld, doch ten minste tot 1 januari 2003. 
 
 ### ARTIKEL  IV  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt, voor wat betreft artikel II terug tot en met 1 juli 2000.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt, voor wat betreft artikel II terug tot en met 1 juli 2000. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende bijlage en nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -41,4 +41,4 @@ K. G. de Vries
 de *eenentwintigste* december 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

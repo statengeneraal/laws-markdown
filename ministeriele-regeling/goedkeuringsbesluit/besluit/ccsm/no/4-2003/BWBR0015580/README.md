@@ -11,5 +11,5 @@ artikel 14, tweede lid, van de Regeling inzake de opleiding en registratie van s
 Besluit:     Het besluit CCSM no. 4-2003 inzake opleidingseisen klinische genetica goed te keuren.     Dit besluit zal samen met het desbetreffende besluit van het Centraal College Medische Specialismen worden gepubliceerd in de Staatscourant.   
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport
-J.F.Hoogervorst    
+Minister van Volksgezondheid, Welzijn en Sport 
+J.F. Hoogervorst      

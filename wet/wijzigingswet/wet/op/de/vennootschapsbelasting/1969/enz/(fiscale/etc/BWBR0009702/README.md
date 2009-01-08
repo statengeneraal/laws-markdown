@@ -1,33 +1,33 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Wet van 17 juni 1998 tot wijziging van de Wet op de vennootschapsbelasting 1969 en van enige andere belastingwetten in verband met de fiscale begeleiding van de overgang van vermogen onder algemene titel bij rechtspersonen op de voet van Boek 2 van het Burgerlijk Wetboek
+## Wet van 17 juni 1998 tot wijziging van de Wet op de vennootschapsbelasting 1969 en van enige andere belastingwetten in verband met de fiscale begeleiding van de overgang van vermogen onder algemene titel bij rechtspersonen op de voet van Boek 2 van het Burgerlijk Wetboek
 
-Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
+Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz. 
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
 Alzo Wij in overweging genomen hebben, dat het in verband met de invoering van de mogelijkheid van splitsing van rechtspersonen wenselijk is regels te geven voor de fiscale begeleiding daarvan en voorts de fiscale begeleiding van de juridische fusie op eenzelfde wijze vorm te geven;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### ARTIKEL  I  
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.   
+Wijzigt de Wet op de vennootschapsbelasting 1969.  
 
 ### ARTIKEL  II  
 
-Wijzigt de Wet op de inkomstenbelasting 1964.   
+Wijzigt de Wet op de inkomstenbelasting 1964.  
 
 ### ARTIKEL  III  
 
-Wijzigt de Wet op de dividendbelasting 1965.   
+Wijzigt de Wet op de dividendbelasting 1965.  
 
 ### ARTIKEL  IV  
 
-Wijzigt de Wet op belastingen van rechtsverkeer.   
+Wijzigt de Wet op belastingen van rechtsverkeer.  
 
 ### ARTIKEL  V  
 
-Wijzigt de Wet op de omzetbelasting 1968.   
+Wijzigt de Wet op de omzetbelasting 1968.  
 
 ### ARTIKEL  VI  
 
@@ -35,19 +35,19 @@ Indien voor de heffing van de vennootschapsbelasting een dochtermaatschappij op 
 
 ### ARTIKEL  VII  
 
-1.  Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.   
+1.  Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.    
 2.  Voorzover de artikelen van deze wet betrekking hebben op een splitsing op de voet van [artikel 334a van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) werken zij terug tot en met 1 februari 1998.   
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    
 
 Gegeven te 's-Gravenhage 
-17 juni 1998  
-Beatrix  
+17 juni 1998   
+Beatrix   
 
-De Staatssecretaris van Financiën, 
-W. A. F. G. Vermeend   
+De Staatssecretaris van Financiën,  
+W. A. F. G. Vermeend    
 
-drieëntwintigste juni 1998 
+drieëntwintigste juni 1998  
 
-De Minister van Justitie, 
-W. Sorgdrager    
+De Minister van Justitie,  
+W. Sorgdrager     

@@ -2,9 +2,9 @@
 
 ##Regelingen voorbehoud auteursrecht (Europese zijde euromunten)
 
-De Minister van Financiën,  
-Gelet op [artikel 15b Auteurswet 1912](../../../../../../../../wet/auteurswet/BWBR0001886/README.md),
-Besluit:    
+De Minister van Financiën,   
+Gelet op [artikel 15b Auteurswet 1912](../../../../../../../../wet/auteurswet/BWBR0001886/README.md), 
+Besluit:     
 
 ### Artikel  1  
 
@@ -13,8 +13,8 @@ Met betrekking tot de ontwerpen van de gemeenschappelijke Europese zijde van de 
 ### Artikel  2  
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
-Deze regeling zal in de Staatscourant worden geplaatst, met uitzondering van de bijlage die ter inzage wordt gelegd op de afdeling Bibliotheek en Documentatie van het Ministerie van Financiën.   
+Deze regeling zal in de Staatscourant worden geplaatst, met uitzondering van de bijlage die ter inzage wordt gelegd op de afdeling Bibliotheek en Documentatie van het Ministerie van Financiën.    
 
 De 
-Minister van Financiën, 
-G.Zalm    
+Minister van Financiën,
+G. Zalm      

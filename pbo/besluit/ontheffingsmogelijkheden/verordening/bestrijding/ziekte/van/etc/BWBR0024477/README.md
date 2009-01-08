@@ -18,12 +18,12 @@ In de volgende gevallen kan ontheffing worden verleend van het bepaalde in [arti
 
 – Bij vaccinatie van varkens van hobbyhouders, waarbij de gehouden hobbyvarkens niet in het consumptiekanaal terecht mogen komen;  
 
-– In het geval van erkende gewetensbezwaarden die niet een besmet bedrijf betreffen, maar zich wel bevinden binnen een straal van 10 kilometer van een besmet bedrijf, dan wel erkende gewetensbezwaarden die een contactbedrijf betreffen van een besmet bedrijf.    
+– In het geval van erkende gewetensbezwaarden die niet een besmet bedrijf betreffen, maar zich wel bevinden binnen een straal van 10 kilometer van een besmet bedrijf, dan wel erkende gewetensbezwaarden die een contactbedrijf betreffen van een besmet bedrijf.   
 
 ### Artikel  2  
 
 1.  Dit besluit wordt aangehaald als: Besluit ontheffingsmogelijkheden Verordening bestrijding Ziekte van Aujeszky bij varkens (PVV) 2008.   
-2.  Dit besluit treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningblad Bedrijfsorganisatie waarin het wordt geplaatst.   
+2.  Dit besluit treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningblad Bedrijfsorganisatie waarin het wordt geplaatst.  
 
 Zoetermeer 
 11 juni 2008   

@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-In afwijking van artikel 4, vierde lid, van het Besluit premievaststelling en reservevorming wachtgeldfondsen wordt de opslag op de wachtgeldpremie voor het jaar 1996 vastgesteld op het percentage dat overeenkomt met het lastenpercentage van de vangnetvoorziening ZW, zoals dat geraamd wordt voor het jaar 1996.  
+In afwijking van artikel 4, vierde lid, van het Besluit premievaststelling en reservevorming wachtgeldfondsen wordt de opslag op de wachtgeldpremie voor het jaar 1996 vastgesteld op het percentage dat overeenkomt met het lastenpercentage van de vangnetvoorziening ZW, zoals dat geraamd wordt voor het jaar 1996. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking op het tijdstip dat het op 4 oktober 1995 ingediende [voorstel van wet tot wijziging van het Burgerlijk Wetboek, de Ziektewet en enkele andere wetten in verband met loondoorbetaling door de werkgever bij ziekte van de werknemer (uitbreiding loondoorbetalingsplicht bij ziekte)](../../../../../../../../wet/wet/uitbreiding/loondoorbetalingsplicht/bij/ziekte/BWBR0007892/README.md) (Kamerstukken II 1995/96, 24 439) tot wet wordt verheven en in werking treedt.  
+Dit besluit treedt in werking op het tijdstip dat het op 4 oktober 1995 ingediende [voorstel van wet tot wijziging van het Burgerlijk Wetboek, de Ziektewet en enkele andere wetten in verband met loondoorbetaling door de werkgever bij ziekte van de werknemer (uitbreiding loondoorbetalingsplicht bij ziekte)](../../../../../../../../wet/wet/uitbreiding/loondoorbetalingsplicht/bij/ziekte/BWBR0007892/README.md) (Kamerstukken II 1995/96, 24 439) tot wet wordt verheven en in werking treedt. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

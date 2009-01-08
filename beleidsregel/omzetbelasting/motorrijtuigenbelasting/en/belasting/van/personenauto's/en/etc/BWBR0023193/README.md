@@ -14,10 +14,10 @@ Op 26 april 2002 heeft de Hoge Raad geoordeeld dat een directeur-grootaandeelhou
 
 | --- | --- |
 |:---|:---|
-| Wet:  |  [Wet op de omzetbelasting 1968](../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)   |
+| Wet:  | [Wet op de omzetbelasting 1968](../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)  |
 | DGA:  | Directeur-grootaandeelhouder  |
-| beschikking:  |  [Uitvoeringsbeschikking omzetbelasting 1968](../../../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md)   |
-| btw-richtlijn:  | Richtlijn 2006/112/EG van de Raad van de Europese Unie van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEU 2006, L347)  |
+| beschikking:  | [Uitvoeringsbeschikking omzetbelasting 1968](../../../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md)  |
+| btw-richtlijn:  |  Richtlijn 2006/112/EG van de Raad van de Europese Unie van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEU 2006, L347)  |
 | HvJ:  | Hof van Justitie van de Europese Gemeenschappen  |
 | HR:  btw:  | Hoge Raad  Omzetbelasting  |
 | mrb:  | Motorrijtuigenbelasting  |
@@ -83,7 +83,7 @@ Voor de DGA die tot 18 oktober 2007 ondernemer was en als onderdeel is opgenomen
 
 ####Ad d en e: DGA in fiscale eenheid met meerdere vennootschappen
 
-### 4.3.1  
+### 4.3.1 
 
 ####Gevolgen uittreden DGA uit de FE
 
@@ -123,6 +123,6 @@ Den Haag
 21 december 2007   
 
 De 
-Staatssecretaris van Financiën, namens deze: de 
+Staatssecretaris van Financiën, namens deze:de 
 directeur-generaal Belastingdienst, 
-J.Thunnissen   
+J. Thunnissen     

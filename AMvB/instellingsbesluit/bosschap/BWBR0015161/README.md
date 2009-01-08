@@ -24,17 +24,17 @@ a. de wet: de [Wet op de bedrijfsorganisatie](../../../../wet/wet/op/de/bedrijfs
 
 b. het Bosschap: het Bedrijfschap voor de bosbouw, het bosbeheer, het natuurbeheer en de houtteelt;  
 
-c. bosbouwambachtonderneming: een onderneming die tegen betaling werkzaamheden verricht in bossen of andere houtopstanden, welke werkzaamheden bedrijfsmatig plegen te worden verricht in ondernemingen waarin de bosbouw of de houtteelt wordt uitgeoefend.    
+c. bosbouwambachtonderneming: een onderneming die tegen betaling werkzaamheden verricht in bossen of andere houtopstanden, welke werkzaamheden bedrijfsmatig plegen te worden verricht in ondernemingen waarin de bosbouw of de houtteelt wordt uitgeoefend.   
 
 ### Artikel  2  
 
-1.  In dit besluit wordt onder uitoefening van de bosbouw, het bosbeheer, het natuurbeheer of de houtteelt mede verstaan het geschikt maken of beter geschikt maken van de bodem voor de uitoefening van de bosbouw, het bosbeheer, het natuurbeheer of de houtteelt.   
+1.   In dit besluit wordt onder uitoefening van de bosbouw, het bosbeheer, het natuurbeheer of de houtteelt mede verstaan het geschikt maken of beter geschikt maken van de bodem voor de uitoefening van de bosbouw, het bosbeheer, het natuurbeheer of de houtteelt.   
 2.  In dit besluit wordt onder houtteelt niet de griendcultuur verstaan.   
 3.  In dit besluit wordt onder natuurbeheer niet verstaan: 
 
 a. het beheer op gronden waaraan in een bestemmingsplan een agrarische bestemming is gegeven;  
 
-b. het beheer betreffende grote open wateren.     
+b. het beheer betreffende grote open wateren.   
 
 ### §  2  
 
@@ -45,14 +45,14 @@ b. het beheer betreffende grote open wateren.
 1.  Er is een Bosschap.   
 2.  Het Bosschap is ingesteld voor: 
 
-a. ondernemingen, waarin de bosbouw, het bosbeheer, het natuurbeheer of de houtteelt wordt uitgeoefend;  
+a.  ondernemingen, waarin de bosbouw, het bosbeheer, het natuurbeheer of de houtteelt wordt uitgeoefend;  
 
 b. bosbouwambachtondernemingen.     
-3.  Het Bosschap is gevestigd te Driebergen.   
+3.  Het Bosschap is gevestigd te Driebergen.  
 
 ### Artikel  4  
 
-Het bestuur van het Bosschap bestaat uit tien leden, waarvan vijf leden door organisaties van ondernemers en vijf leden door organisaties van werknemers worden benoemd.  
+Het bestuur van het Bosschap bestaat uit tien leden, waarvan vijf leden door organisaties van ondernemers en vijf leden door organisaties van werknemers worden benoemd. 
 
 ### §  3  
 
@@ -66,12 +66,12 @@ d. de lonen en andere arbeidsvoorwaarden;
 
 f. arbeidsmarktvoorzieningen;  
 
-g. fondsen en andere instellingen in het belang der bedrijfsgenoten.    
+g. fondsen en andere instellingen in het belang der bedrijfsgenoten.   
 
 ### Artikel  6  
 
 1.  Bij een op grond van [artikel 93, tweede lid van de wet](../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) vastgestelde verordening kan worden bepaald dat deze mede andere dan de in [artikel 102, eerste lid, van de wet](../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) bedoelde natuurlijke en rechtspersonen bindt, voorzover deze handelingen verrichten die bedrijfsmatig in de ondernemingen waarvoor het Bosschap is ingesteld, plegen te worden verricht.   
-2.  Een bepaling als bedoeld in het eerste lid, geldt niet voor ondernemingen waarvoor een bedrijfslichaam is ingesteld, indien dat bedrijfslichaam ten aanzien van het onderwerp of de onderwerpen waarop de in het eerste lid bedoelde verordening betrekking heeft, eveneens bindende regelen heeft gesteld.   
+2.  Een bepaling als bedoeld in het eerste lid, geldt niet voor ondernemingen waarvoor een bedrijfslichaam is ingesteld, indien dat bedrijfslichaam ten aanzien van het onderwerp of de onderwerpen waarop de in het eerste lid bedoelde verordening betrekking heeft, eveneens bindende regelen heeft gesteld.  
 
 ### Artikel  7  
 
@@ -92,19 +92,19 @@ b. de in ondernemingen waarvoor het Bosschap is ingesteld bereikte omzet of cate
 1.  Het bij verordening van de Sociaal-Economische Raad van 20 september 1996 ingestelde Bosschap wordt opgeheven.   
 2.  Verordeningen en andere besluiten die zijn vastgesteld door het bij verordening van de Sociaal-Economische Raad van 20 september 1996 ingestelde Bosschap blijven van kracht tot de datum waarop de door het op grond van dit besluit ingestelde Bosschap vastgestelde verordeningen en andere besluiten terzake in werking zullen treden.   
 3.  Het personeel, de rechten, de verplichtingen, de vermogensbestanddelen en de archiefbescheiden van het bij verordening van de Sociaal-Economische Raad van 20 september 1996 ingestelde Bosschap, gaan over naar het op grond van dit besluit ingestelde Bosschap.   
-4.  Wettelijke procedures en rechtsgedingen, ingesteld door of tegen het bij verordening van de Sociaal-Economische Raad van 20 september 1996 ingestelde Bosschap worden geacht te zijn ingesteld door of tegen het op grond van dit besluit ingestelde Bosschap.   
+4.  Wettelijke procedures en rechtsgedingen, ingesteld door of tegen het bij verordening van de Sociaal-Economische Raad van 20 september 1996 ingestelde Bosschap worden geacht te zijn ingesteld door of tegen het op grond van dit besluit ingestelde Bosschap.  
 
 ### Artikel  9  
 
-De bestuursleden en hun plaatsvervangers van wie de zittingsperiode ingaat op de datum van inwerkingtreding van dit besluit, treden af op 1 juli 2004.  
+De bestuursleden en hun plaatsvervangers van wie de zittingsperiode ingaat op de datum van inwerkingtreding van dit besluit, treden af op 1 juli 2004. 
 
 ### Artikel  10  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  11  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Bosschap.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Bosschap. 
 
 Lasten en bevelen dat dit besluit in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -124,4 +124,4 @@ L. J. Brinkhorst
 de vierentwintigste juni 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

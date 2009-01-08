@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Subsidieregeling kinderopvang.   
+Wijzigt de Subsidieregeling kinderopvang.
 
 ### Artikel  II  
 
-Ten aanzien van voor het tijdstip van inwerkingtreding van deze regeling verleende subsidies blijft de [Subsidieregeling kinderopvang](../../../../../ministeriele-regeling/subsidieregeling/kinderopvang/BWBR0018209/README.md), zoals deze voor bedoeld tijdstip luidde, van toepassing op de financiële afwikkeling van die subsidies.  
+Ten aanzien van voor het tijdstip van inwerkingtreding van deze regeling verleende subsidies blijft de [Subsidieregeling kinderopvang](../../../../../ministeriele-regeling/subsidieregeling/kinderopvang/BWBR0018209/README.md), zoals deze voor bedoeld tijdstip luidde, van toepassing op de financiële afwikkeling van die subsidies. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de daarbij behorende toelichting en bijlage in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -24,4 +24,4 @@ Den Haag
 
 De 
 Minister van Sociale Zaken en Werkgelegenheid, 
-A.J. deGeus   
+A.J. de Geus     

@@ -17,19 +17,19 @@ Hebben goedgevonden en verstaan:
 
 ####Wijziging [Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO](../../../../../../../../../../AMvB/uitvoeringsbesluit/voorzieningen/in/de/huisvesting/povo/BWBR0008562/README.md)
 
-Wijzigt het Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO.   
+Wijzigt het Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO. 
 
 ### Artikel  II  
 
 ####Wijziging [Bekostigingsbesluit W.V.O.](../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md)
 
-Wijzigt het Bekostigingsbesluit W.V.O.   
+Wijzigt het Bekostigingsbesluit W.V.O. 
 
 ### Artikel  III  
 
 ####Wijziging [Formatiebesluit W.V.O.](../../../../../../../../../../AMvB/formatiebesluit/wvo/BWBR0005446/README.md)
 
-Wijzigt het Formatiebesluit W.V.O.   
+Wijzigt het Formatiebesluit W.V.O. 
 
 ### Artikel  IV  
 
@@ -55,13 +55,13 @@ h. [Besluit van 19 mei 1999](../../../../../../../../../../AMvB/wijzigingsbeslui
 
 i. [Besluit van 20 september 1999](../../../../../../../../../../AMvB/wijzigingsbesluit/besluit/onderwijsbevoegdheden/w.v.o.o.w.v.o./enz./BWBR0010729/README.md) (Stb. 405), houdende wijziging van het Besluit onderwijsbevoegdheden W.V.O./O.W.V.O. en het Besluit informatievoorziening WVO met name in verband met de invoering van leerwegen in het middelbaar algemeen voortgezet onderwijs en het voorbereidend beroepsonderwijs, alsmede ten aanzien van het praktijkonderwijs; technische aanpassing enkele andere besluiten.     
 2.  Voorzover er ter zake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze plaats overeenkomstig de besluiten, bedoeld in het eerste lid.   
-3.  Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de besluiten, bedoeld in het eerste lid, blijven in stand.   
+3.  Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de besluiten, bedoeld in het eerste lid, blijven in stand.  
 
 ### Artikel  V  
 
 ####Inwerkingtreding
 
-De artikelen van dit besluit treden in werking met ingang van een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van dit besluit treden in werking met ingang van een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -69,8 +69,8 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 30 augustus 2006  
 Beatrix  
 
-De Minister van Onderwijs, Cultuur en Wetenschap , 
-M. J. A. van der Hoeven   
+De Minister van Onderwijs, Cultuur en Wetenschap ,  
+M. J. A. van der  Hoeven   
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit , 
 C. P. Veerman   

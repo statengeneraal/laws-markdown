@@ -10,7 +10,7 @@ Besluit:
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn van het archief van het gezantschap te Bulgarije (Sofia) gevestigd te Belgrado, (1940–1941) 1947–1954, de in kolom 1 van onderstaande tabel genoemde inventarisnummers pas geheel openbaar met ingang van 1 januari van het in kolom 2 van deze tabel genoemde jaartal.  
 
-| Inventaris-  nummer  | Geheel openbaar met  ingang van 1 januari:  |
+| Inventaris-  nummer  | Geheel openbaar met   ingang van 1 januari:  |
 |:---|:---|
 | 33  | 2026  |
 | 34  | 2030  |
@@ -43,27 +43,27 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn van het arch
 
 ### Artikel  2  
 
-Raadpleging of gebruik van de archiefbescheiden geborgen onder de in de tabel bij artikel 1 genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief met een verzoek tot inzage. Indiening van een verzoek tot inzage geschiedt door ondertekening door de verzoeker van het *‘Formulier voor toestemming tot raadpleging van niet openbare archieven’*; een exemplaar van dit formulier is als bijlage bij dit besluit gevoegd. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.  
+Raadpleging of gebruik van de archiefbescheiden geborgen onder de in de tabel bij artikel 1 genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief met een verzoek tot inzage. Indiening van een verzoek tot inzage geschiedt door ondertekening door de verzoeker van het *‘Formulier voor toestemming tot raadpleging van niet openbare archieven’*; een exemplaar van dit formulier is als bijlage bij dit besluit gevoegd. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden. 
 
 ### Artikel  3  
 
-Het vervaardigen van reproducties van documenten uit de archiefbescheiden geborgen onder de in de tabel bij artikel 1 genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationale archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.  
+Het vervaardigen van reproducties van documenten uit de archiefbescheiden geborgen onder de in de tabel bij artikel 1 genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationale archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden. 
 
 ### Artikel  4  
 
-Publicatie van gegevens uit de archief bescheiden geborgen onder de in de tabel bij artikel 1 genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.  
+Publicatie van gegevens uit de archief bescheiden geborgen onder de in de tabel bij artikel 1 genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Dit besluit wordt bekendgemaakt door kennisgeving daarvan in de Staatscourant. Dit besluit zal als bijlage bij de *‘Verklaring van Overbrenging van het archief van het gezantschap Belgrado 1944, 1945–1954’* worden gevoegd.   
 
 De 
 Minister van Buitenlandse Zaken, 
-B.R.Bot   
+B.R. Bot     
 
 ####Bijlage
 
-![65510](http://wetten.overheid.nl/Illustration/65510)
+![65507](http://wetten.overheid.nl/Illustration/65507)
 ![65510](http://wetten.overheid.nl/Illustration/65510)
 

@@ -68,7 +68,7 @@ Amsterdam
 12 december 2006   
 
 Bestuurslid, 
-A.W.Kist 
+A.W. Kist   
 
 Bestuurslid, 
-P.M.Koster   
+P.M. Koster     

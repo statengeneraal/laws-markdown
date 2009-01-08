@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ####Overgangs- en slotbepalingen
 
@@ -21,11 +21,11 @@ A. Uiterlijk twee jaar na inwerkingtreding van deze wet dient voor ondernemingen
 
 B.  Bevat wijzigingen in andere regelgeving.   
 
-C.  Bevat wijzigingen in andere regelgeving.     
+C.  Bevat wijzigingen in andere regelgeving.    
 
 ### Artikel  III  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Instelling adviesgroep electronic commerce en belastingen
+##Instelling adviesgroep electronic commerce en belastingen 
 
 De Staatssecretaris van Financiën,  
 Overwegende dat het wenselijk is een adviesgroep electronic commerce en belastingen in te stellen;
-Besluit:     
+Besluit:      
 ### 1  
 
 ####Instelling en taak
@@ -81,10 +81,10 @@ Een ieder die betrokken is bij de werkzaamheden van de adviesgroep en daarbij de
 ### 8  
 
 1.  Dit besluit wordt bekend gemaakt in de Staatscourant.   
-2.  Afschrift van dit besluit wordt gezonden aan de Algemene Reken-kamer.   
+2.  Afschrift van dit besluit wordt gezonden aan de Algemene Reken-kamer.  
 
 ’s-Gravenhage 
 22 december 1997    
 
 De Staatssecretaris van Financiën, 
-W.A. Vermeend      
+W.A.  Vermeend      

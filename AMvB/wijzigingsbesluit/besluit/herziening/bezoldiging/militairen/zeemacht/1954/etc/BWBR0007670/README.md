@@ -18,27 +18,27 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  V  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VI  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Hoofdstuk  2  
 
@@ -46,11 +46,11 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  VII  
 
-De compensatietoeslag is geen ambtelijk inkomen in de zin van artikel C 1 van de Algemene burgerlijke pensioenwet en behoort niet tot de bezoldiging in de zin van het [Bezoldigingsbesluit burgerlijke ambtenaren defensie](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/ambtenaren/defensie/BWBR0006038/README.md).  
+De compensatietoeslag is geen ambtelijk inkomen in de zin van artikel C 1 van de Algemene burgerlijke pensioenwet en behoort niet tot de bezoldiging in de zin van het [Bezoldigingsbesluit burgerlijke ambtenaren defensie](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/ambtenaren/defensie/BWBR0006038/README.md). 
 
 ### Artikel  VIII  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, en werkt terug tot en met 1 januari 1995.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, en werkt terug tot en met 1 januari 1995. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

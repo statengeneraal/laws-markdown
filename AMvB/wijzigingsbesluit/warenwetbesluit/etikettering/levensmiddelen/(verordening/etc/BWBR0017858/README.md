@@ -17,34 +17,34 @@ Gelet op:
 De Raad van State gehoord (advies van 9 december 2004, nr.W13.04/0543/III);
 
 Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 23 december 2004, VGP/VL 2545756, uitgebracht in overeenstemming met Onze Ministers van Landbouw, Natuur en Voedselkwaliteit, van Economische Zaken, en van Justitie;
-Hebben goedgevonden en verstaan:    
+Hebben goedgevonden en verstaan:
 
-### Artikel  I  
+###Artikel I 
 
-Wijzigt het Warenwetbesluit Etikettering van levensmiddelen.   
+Wijzigt het Warenwetbesluit Etikettering van levensmiddelen.
 
-### Artikel  II  
+###Artikel II 
 
-Wijzigt het Warenwetbesluit bestuurlijke boeten.   
+Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
-### Artikel  III  
+###Artikel III 
 
-In [artikel 22c van het Warenwetbesluit Etikettering van levensmiddelen](../../../../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) bedoelde eet- en drinkwaren die vóór 20 mei 2006 zijn geëtiketteerd en die voldoen aan het [Warenwetbesluit Etikettering van levensmiddelen](../../../../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) zoals dat onmiddellijk voor de inwerkingtreding van dit besluit luidde, mogen worden verhandeld zolang de voorraad strekt.  
+In [artikel 22c van het Warenwetbesluit Etikettering van levensmiddelen](../../../../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) bedoelde eet- en drinkwaren die vóór 20 mei 2006 zijn geëtiketteerd en die voldoen aan het [Warenwetbesluit Etikettering van levensmiddelen](../../../../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) zoals dat onmiddellijk voor de inwerkingtreding van dit besluit luidde, mogen worden verhandeld zolang de voorraad strekt.
 
-### Artikel  IV  
+###Artikel IV 
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-'s-Gravenhage 
-31 december 2004  
-Beatrix  
+'s-Gravenhage
+31 december 2004
+Beatrix
 
-De Minister van Volksgezondheid, Welzijn en Sport , 
-J. F. Hoogervorst   
+De Minister van Volksgezondheid, Welzijn en Sport ,
+J. F.Hoogervorst
 
-de *twintigste* januari 2005 
+de *twintigste* januari 2005
 
-De Minister van Justitie , 
-J. P. H. Donner    
+De Minister van Justitie ,
+J. P. H.Donner

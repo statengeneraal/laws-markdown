@@ -11,15 +11,15 @@ Besluiten:
 ### Artikel  1  
 
 1.  Aan het Agentschap SZW te 's-Gravenhage wordt de status van baten-lastendienst als bedoeld in artikel 10, eerste lid, van de Comptabiliteitswet 2001, verleend.   
-2.  De tenaamstelling van de baten-lastendienst komt te luiden: baten-lastendienst Agentschap SZW.   
+2.  De tenaamstelling van de baten-lastendienst komt te luiden: baten-lastendienst Agentschap SZW.  
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 januari 2003.  
+Dit besluit treedt in werking met ingang van 1 januari 2003. 
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit baten-lastendienst Agentschap SZW.  
+Dit besluit wordt aangehaald als: Instellingsbesluit baten-lastendienst Agentschap SZW. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -27,8 +27,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-A.J.de Geus 
+A.J. de Geus  
 
 De 
-Minister van Financiën, 
-J.F.Hoogervorst    
+Minister van Financiën,
+J.F. Hoogervorst     

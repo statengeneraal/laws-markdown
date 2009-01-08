@@ -17,11 +17,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In afwijking van [artikel 57 der Luchtvaartwet](../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) (*Stb.* 1958, 47) gelden, niettegenstaande blijkens het Koninklijk besluit van 10 april 1939 (*Stb.* 181) de tegenwoordige buitengewone omstandigheden oorlogsgevaar inhouden in de zin waarin dat woord in 's Lands wetten voorkomt, de bepalingen van en krachtens de [Luchtvaartwet](../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) voorzover in die wet niet anders is voorgeschreven ten aanzien van militaire luchtvaartuigen en de leden van hun bemanning, alsmede ten aanzien van militaire luchtvaartterreinen.  
+In afwijking van [artikel 57 der Luchtvaartwet](../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) (*Stb.* 1958, 47) gelden, niettegenstaande blijkens het Koninklijk besluit van 10 april 1939 (*Stb.* 181) de tegenwoordige buitengewone omstandigheden oorlogsgevaar inhouden in de zin waarin dat woord in 's Lands wetten voorkomt, de bepalingen van en krachtens de [Luchtvaartwet](../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) voorzover in die wet niet anders is voorgeschreven ten aanzien van militaire luchtvaartuigen en de leden van hun bemanning, alsmede ten aanzien van militaire luchtvaartterreinen. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Luchtvaartwet](../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) (*Stb.* 1958, 47) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [Luchtvaartwet](../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) (*Stb.* 1958, 47) in werking treedt. 
 
 Onze Minister van Defensie is belast met de uitvoering van dit besluit, hetwelk in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.   
 

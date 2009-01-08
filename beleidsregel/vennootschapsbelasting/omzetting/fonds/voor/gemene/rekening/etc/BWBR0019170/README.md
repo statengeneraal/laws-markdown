@@ -3,7 +3,7 @@
 ##Vennootschapsbelasting, omzetting fonds voor gemene rekening (beleggingsinstelling) in een NV met veranderlijk kapitaal
 
 De directeur-generaal Belastingdienst heeft namens de staatssecretaris van Financiën het volgende besloten.     
-### 1  
+### 1 
 
 ####Dividendbelasting
 
@@ -16,7 +16,7 @@ De omwisseling van participaties in het fonds in aandelen in de NV heeft ten aan
 – als gestort kapitaal op de uitgegeven aandelen NV zal slechts gelden het nader berekende bedrag dat op de omgewisselde participaties was ingebracht. Indien een terugbetaling van participaties die niet in aandelen zijn omgewisseld plaats vindt, zal de uitkomst van de berekening van het gemiddeld op elke participatie ingebrachte bedrag in verband met die terugbetaling gecorrigeerd worden;  
 
 – de NV verklaart tegenover de Belastingdienst in voorkomende gevallen bij de inhouding en afdracht van dividendbelasting uit te zullen gaan van een gemiddeld op de aandelen gestort kapitaal als bedoeld in het punt hiervoor.      
-### 2  
+### 2 
 
 ####Vennootschapsbelasting
 
@@ -52,4 +52,4 @@ e. of er geen personen zijn die een aanmerkelijk belang in het fonds hebben.   I
 
 Dit besluit treedt in werking met ingang van 1 januari 2006. Het volgende besluit is met ingang van die datum ingetrokken: 
 
-– Besluit van 19 december 2000, nr. CPP2000/2679M.       
+– Besluit van 19 december 2000, nr. CPP2000/2679M.     

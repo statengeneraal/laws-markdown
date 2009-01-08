@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-In afwijking van artikel 29, vijfde lid, tweede volzin, van de Wet op het voortgezet onderwijs, berust de vaststelling van de in die volzin bedoelde eindexamenprogramma's tot een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende eindexamenprogramma's verschillend kan worden vastgesteld, op artikel 29, vijfde lid, van die wet, zoals luidend op 31 juli 1993.  
+In afwijking van artikel 29, vijfde lid, tweede volzin, van de Wet op het voortgezet onderwijs, berust de vaststelling van de in die volzin bedoelde eindexamenprogramma's tot een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende eindexamenprogramma's verschillend kan worden vastgesteld, op artikel 29, vijfde lid, van die wet, zoals luidend op 31 juli 1993. 
 
 ### Artikel  IV  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst en werkt, met uitzondering van artikel I, onderdeel E, terug tot en met 1 augustus 1993.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst en werkt, met uitzondering van artikel I, onderdeel E, terug tot en met 1 augustus 1993. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

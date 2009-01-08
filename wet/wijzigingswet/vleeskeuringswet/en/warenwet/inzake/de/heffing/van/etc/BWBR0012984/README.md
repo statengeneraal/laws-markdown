@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Vleeskeuringswet.   
+Wijzigt de Vleeskeuringswet.  
 
 ### Artikel  II  
 
-Wijzigt de Warenwet.   
+Wijzigt de Warenwet.  
 
-### Artikel  III  
+###Artikel III 
 
-[Artikel 30a van de Vleeskeuringswet](../../../../../../../../../../../wet/vleeskeuringswet/BWBR0001896/README.md), zoals dat luidde onmiddellijk vóór de inwerkingtreding van deze wet, is nog gedurende acht jaren na de inwerkingtreding van de wet van toepassing op algemene maatregelen van bestuur die reeds van kracht waren bij de inwerkingtreding van deze wet.  
+[Artikel 30a van de Vleeskeuringswet](../../../../../../../../../../../wet/vleeskeuringswet/BWBR0001896/README.md), zoals dat luidde onmiddellijk vóór de inwerkingtreding van deze wet, is nog gedurende acht jaren na de inwerkingtreding van de wet van toepassing op algemene maatregelen van bestuur die reeds van kracht waren bij de inwerkingtreding van deze wet.
 
 ### Artikel  IV  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -32,7 +32,7 @@ Gegeven te 's-Gravenhage
 Beatrix  
 
 De Minister van Volksgezondheid, Welzijn en Sport, 
-E. Borst-Eilers   
+E. Borst-Eilers    
 
 De Minister van Landbouw, Natuurbeheer en Visserij, 
 L. J. Brinkhorst   
@@ -40,4 +40,4 @@ L. J. Brinkhorst
 de dertiende december 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

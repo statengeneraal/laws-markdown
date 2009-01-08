@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair en voortgezet onderwijs.   
+Wijzigt het Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair en voortgezet onderwijs. 
 
 ### Artikel  II  
 
 ####Overgangsregeling
 
-Met betrekking tot de betrokkene wiens eerste dag van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte is gelegen voor de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst, blijft [artikel 41](../../../../../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md) van toepassing zoals dat artikel luidde op de dag voor de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.  
+Met betrekking tot de betrokkene wiens eerste dag van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte is gelegen voor de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst, blijft [artikel 41](../../../../../../../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md) van toepassing zoals dat artikel luidde op de dag voor de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst. 
 
 ### Artikel  III  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de eerste dag van de kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag van de kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -35,10 +35,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 3 september 2007  
 Beatrix  
 
-De Minister van Onderwijs, Cultuur en Wetenschap , 
+De Minister van Onderwijs, Cultuur en Wetenschap ,
 R. H. A. Plasterk   
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit , 
+De Minister van Landbouw, Natuur en Voedselkwaliteit ,
 G. Verburg   
 
 de *twintigste* september 2007 

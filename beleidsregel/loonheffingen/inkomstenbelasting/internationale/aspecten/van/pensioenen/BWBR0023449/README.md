@@ -38,7 +38,7 @@ c. Ook trek ik het [besluit in van 21 december 2000](../../../../../../../../be
 | --- | --- |
 |:---|:---|
 | aanvullend pensioen  | een pensioen dat is overeengekomen tussen werkgever en werknemer en dat niet valt onder Verordening (EEG) 1408/71 of onder een verdrag inzake de sociale zekerheid  |
-| AWR  |  [Algemene wet inzake rijksbelastingen](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)   |
+| AWR  | [Algemene wet inzake rijksbelastingen](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)  |
 | BSN  | Burgerservicenummer  |
 | buitenlandse pensioen-  uitvoerder  | een pensioenuitvoerder die in het buitenland is gevestigd of een pensioenuitvoerder van een internationale organisatie  |
 | conserverende aanslag  | een aanslag inkomstenbelasting als bedoeld in [artikel 3.83, eerste of tweede lid](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of [artikel 7.2, achtste lid, van de Wet IB 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), inclusief de daarop verschuldigde revisierente als bedoeld in [artikel 30i van de Algemene wet inzake rijksbelastingen](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).  |
@@ -51,16 +51,16 @@ c. Ook trek ik het [besluit in van 21 december 2000](../../../../../../../../be
 | loonheffingen  | loonbelasting, premie volksverzekeringen, premies werknemersverzekeringen en de inkomensafhankelijke bijdrage [Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md)  |
 | pensioenuitvoerder  | een instelling of organisatie die een pensioenregeling uitvoert in overeenstemming met de fiscale, sociale en arbeidswetgeving van de staat van vestiging of met internationale regelgeving  |
 | pensioenverzekeraar  | een pensioenfonds of een lichaam in de zin van [artikel 19a van de Wet LB](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)  |
-| PW  |  [Pensioenwet](../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)   |
-| UBLB  |  [Uitvoeringsbesluit loonbelasting 1965](../../../../../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md)   |
-| tewerkstelling  | tijdelijke uitzending voor werkzaamheden vanuit een staat naar het grondgebied van een andere staat, daaronder begrepen een detachering die valt onder de artikelen 14, eerste lid, en 17 van Verordening (EEG) 1408/71  |
+| PW  | [Pensioenwet](../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  |
+| UBLB  | [Uitvoeringsbesluit loonbelasting 1965](../../../../../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md)  |
+| tewerkstelling  | tijdelijke uitzending voor werkzaamheden vanuit een staat naar het grondgebied van een andere staat, daaronder begrepen een detachering die valt onder de artikelen 14, eerste lid, en 17 van Verordening (EEG) 1408/71   |
 | uitgaande werknemer  | werknemer die in het buitenland gaat werken of die in Nederland gaat werken voor een internationale organisatie  |
 | vervolgoverdracht  | elke overdracht van pensioenkapitaal (waardeoverdracht) aan een fiscaal niet-toegelaten pensioenuitvoerder die volgt op de (eerste) waardeoverdracht vanuit een Nederlandse pensioenregeling aan een fiscaal niet-toegelaten pensioenuitvoerder  |
 | voorzitter  | de voorzitter van het managementteam van Belastingdienst/Limburg/kantoor Buitenland te Heerlen  |
 | waardeoverdracht  | overdracht van pensioenkapitaal aan een andere pensioenuitvoerder  |
 | werkgever  | – inhoudingsplichtige ingevolge de [Wet LB](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) of  – degene tot wie de werknemer in dienstbetrekking staat  |
-| Wet IB 2001  |  [Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)   |
-| Wet LB  |  [Wet op de loonbelasting 1964](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)   |
+| Wet IB 2001  | [Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)  |
+| Wet LB  | [Wet op de loonbelasting 1964](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)  |
 
 ### 2  
 
@@ -165,7 +165,7 @@ Op grond van [artikel 19b, zesde lid, van de Wet LB](../../../../../../../../wet
 ####Waardeoverdracht aan (een pensioenuitvoerder van) de EU of de ECB
 
 Ik ben met de Europese Commissie en de ECB zogenoemde ‘working arrangements’ overeengekomen. Deze arrangements zijn mede tot stand gekomen in het licht van het arrest van het Hof van Justitie van de EG van 20 maart 1986, zaak 72/85 (gepubliceerd in Jurisprudentie van het Hof van Justitie, 1986-3, blz. 1219 e.v.). De arrangements regelen de fiscale consequenties van waardeoverdrachten aan (een pensioenuitvoerder van) de Europese Unie of de ECB. Daarbij gelden de voorwaarden en bijzonderheden van bijlage IV van dit besluit. Deze voorwaarden en bijzonderheden zijn grotendeels overgenomen uit de arrangements. Indien een pensioenverzekeraar een waardeoverdracht pleegt aan (een pensioenuitvoerder van) de EU of de ECB dient deze overdracht te voldoen aan de voorwaarden en bijzonderheden uit die bijlage. In dat geval kan de waardeoverdracht zonder loonheffingen geschieden. Instemming van de voorzitter is dan niet noodzakelijk.    
-### 3.3.3  
+### 3.3.3 
 
 ####Waardeoverdracht aan (een pensioenuitvoerder van) een internationale organisatie
 
@@ -208,11 +208,11 @@ Den Haag
 31 januari 2008   
 
 De 
-Staatssecretaris van Financiën, namens deze: de 
+Staatssecretaris van Financiën, namens deze:de 
 directeur-generaal Belastingdienst, 
-J.Thunnissen  
+J. Thunnissen    
 
-### Bijlage  I  
+### Bijlage  I 
 
 ####EU-tewerkstellingen
 
@@ -279,9 +279,9 @@ l. Eisen indiening verzoek inhoudelijke toetsing In afwijking van de onderdelen 
 
 6. een beschrijving van de buitenlandse wijze van fiscale faciliëring van de regeling;  
 
-7. een verklaring waaruit blijkt dat men verzoekt om toepassing van dit onderdeel (l) van deze bijlage.   De voorzitter kan om nadere gegevens vragen voorzover die nodig zijn om de toetsing te kunnen uitvoeren. De voorzitter wijst na de toetsing de pensioenregeling aan of deelt bij afwijzing van het verzoek gemotiveerd de redenen daarvoor mee aan de werkgever.  
+7. een verklaring waaruit blijkt dat men verzoekt om toepassing van dit onderdeel (l) van deze bijlage.   De voorzitter kan om nadere gegevens vragen voorzover die nodig zijn om de toetsing te kunnen uitvoeren. De voorzitter wijst na de toetsing de pensioenregeling aan of deelt bij afwijzing van het verzoek gemotiveerd de redenen daarvoor mee aan de werkgever. 
 
-### Bijlage  II  
+### Bijlage II 
 
 ####Overige tewerkstellingen
 
@@ -344,9 +344,9 @@ n. Gedeeltelijke aanwijzing Als de buitenlandse faciliëring verder gaat dan de 
 
 o. Afkoop- en spaarmogelijkheid De mogelijkheid van afkoop en de aanwezigheid van onderdelen met het karakter van een spaarproduct vormen geen beletsel voor aanwijzing. Ze maken op zich ook geen deel uit van het onder m genoemde afwegingsproces. Wel dient de werknemer desgevraagd aannemelijk te maken dat de afkoopmogelijkheid of de spaarmogelijkheid in het desbetreffende buitenland een gebruikelijk onderdeel van een pensioenregeling is.  
 
-p. Gedeeltelijke afkoop na tewerkstelling Indien de werknemer na afloop van de tewerkstelling het pensioen afkoopt, zal de ontvanger overgaan tot invordering van eventuele, aan de werknemer opgelegde en nog openstaande conserverende aanslagen. Hij trekt dan het verleende uitstel voor deze aanslagen in. Hiervoor bestaat mijns inziens geen reden in het geval dat de werknemer gebruik maakt van een gebruikelijke, in de pensioenregeling voorziene, mogelijkheid van een gedeeltelijke afkoop van het pensioen. Ik acht het dan ook in overeenstemming met een redelijke wetstoepassing dat de ontvanger in een dergelijk geval het uitstel niet intrekt. Voorwaarde hiervoor is dat het niet afgekochte deel van de waarde van de pensioenaanspraak uitgedrukt in de totale waarde daarvan tenminste gelijk is aan het percentage dat de Nederlandse diensttijd uitmaakt van de totale diensttijd in de regeling. Op deze wijze wordt het afgekochte bedrag bij de afwikkeling van de conserverende aanslagen geacht volledig betrekking te hebben op de buiten Nederland doorgebrachte diensttijd.    
+p. Gedeeltelijke afkoop na tewerkstelling Indien de werknemer na afloop van de tewerkstelling het pensioen afkoopt, zal de ontvanger overgaan tot invordering van eventuele, aan de werknemer opgelegde en nog openstaande conserverende aanslagen. Hij trekt dan het verleende uitstel voor deze aanslagen in. Hiervoor bestaat mijns inziens geen reden in het geval dat de werknemer gebruik maakt van een gebruikelijke, in de pensioenregeling voorziene, mogelijkheid van een gedeeltelijke afkoop van het pensioen. Ik acht het dan ook in overeenstemming met een redelijke wetstoepassing dat de ontvanger in een dergelijk geval het uitstel niet intrekt. Voorwaarde hiervoor is dat het niet afgekochte deel van de waarde van de pensioenaanspraak uitgedrukt in de totale waarde daarvan tenminste gelijk is aan het percentage dat de Nederlandse diensttijd uitmaakt van de totale diensttijd in de regeling. Op deze wijze wordt het afgekochte bedrag bij de afwikkeling van de conserverende aanslagen geacht volledig betrekking te hebben op de buiten Nederland doorgebrachte diensttijd.   
 
-### Bijlage  III  
+### Bijlage III 
 
 ####Waardeoverdracht in het algemeen aan een buitenlandse, fiscaal niet-toegelaten pensioenuitvoerder
 
@@ -384,9 +384,9 @@ h. Overname aansprakelijkheid [artikel 44b, vijfde lid, Invorderingswet 1990](..
 
 1. De overdragende pensioenverzekeraar verklaart schriftelijk tegenover de ontvanger de aansprakelijkheid ingevolge [artikel 44b Invorderingswet 1990](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) na de waardeoverdracht te aanvaarden.  
 
-2. De werknemer heeft voldoende zekerheid gesteld.      
+2. De werknemer heeft voldoende zekerheid gesteld.     
 
-### Bijlage  IV  
+### Bijlage IV 
 
 ####Waardeoverdracht aan (een pensioenuitvoerder van) de EU of de ECB
 
@@ -422,9 +422,9 @@ e. Verklaring spontane melding door werknemer De werknemer verklaart schriftelij
 
 f. Geen voorafgaande toestemming van Belastingdienst Voor een individuele overdracht in overeenstemming met de voorgaande bepalingen is geen voorafgaande toestemming van de Belastingdienst noodzakelijk. De overdracht kan zonder loonheffingen plaatsvinden.  
 
-g. Verklaring van voorzitter op verzoek Belanghebbenden kunnen desgewenst een verzoek bij de voorzitter indienen om te verklaren dat de individuele overdracht plaatsvindt overeenkomstig de bepalingen van deze bijlage. Bij het verzoek voegen belanghebbenden zodanige stukken en gegevens - desgevraagd in de Nederlandse taal - dat daaruit aannemelijk wordt dat de overdracht aan de bepalingen voldoet. De voorzitter kan om nadere gegevens vragen voorzover die nodig zijn om de toetsing te kunnen uitvoeren. De voorzitter deelt na de toetsing aan de verzoekers mede of de overdracht naar zijn oordeel in overeenstemming is met deze bijlage. Is dat het geval dan verklaart de voorzitter desgevraagd tevens dat de Nederlandse verzekeraar niet langer aansprakelijk is terzake van de belastbare feiten, genoemd in [artikel 44b, eerste lid, van de Invorderingswet 1990](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md). Overname van de aansprakelijkheid door de (pensioenuitvoerder van de) EU of de ECB of zekerheidstelling door de werknemer is hiervoor niet nodig. [Artikel 44b, vijfde lid, van de Invorderingswet 1990](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [hoofdstuk VI, artikel 44b, paragraaf 1, zevende lid, van de Leidraad Invordering 1990](../../../../../../../../circulaire/leidraad/invordering/1990/BWBR0004800/README.md) zijn derhalve in deze situatie niet van toepassing.    
+g. Verklaring van voorzitter op verzoek Belanghebbenden kunnen desgewenst een verzoek bij de voorzitter indienen om te verklaren dat de individuele overdracht plaatsvindt overeenkomstig de bepalingen van deze bijlage. Bij het verzoek voegen belanghebbenden zodanige stukken en gegevens - desgevraagd in de Nederlandse taal - dat daaruit aannemelijk wordt dat de overdracht aan de bepalingen voldoet. De voorzitter kan om nadere gegevens vragen voorzover die nodig zijn om de toetsing te kunnen uitvoeren. De voorzitter deelt na de toetsing aan de verzoekers mede of de overdracht naar zijn oordeel in overeenstemming is met deze bijlage. Is dat het geval dan verklaart de voorzitter desgevraagd tevens dat de Nederlandse verzekeraar niet langer aansprakelijk is terzake van de belastbare feiten, genoemd in [artikel 44b, eerste lid, van de Invorderingswet 1990](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md). Overname van de aansprakelijkheid door de (pensioenuitvoerder van de) EU of de ECB of zekerheidstelling door de werknemer is hiervoor niet nodig. [Artikel 44b, vijfde lid, van de Invorderingswet 1990](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [hoofdstuk VI, artikel 44b, paragraaf 1, zevende lid, van de Leidraad Invordering 1990](../../../../../../../../circulaire/leidraad/invordering/1990/BWBR0004800/README.md) zijn derhalve in deze situatie niet van toepassing.   
 
-### Bijlage  V  
+### Bijlage V 
 
 ####Waardeoverdracht aan (een pensioenuitvoerder van) een internationale organisatie
 
@@ -450,5 +450,5 @@ f. Overname aansprakelijkheid [artikel 44b, vijfde lid, Invorderingswet 1990](..
 
 1. De overdragende pensioenverzekeraar verklaart schriftelijk tegenover de ontvanger de aansprakelijkheid ingevolge [artikel 44b Invorderingswet 1990](../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) na de waardeoverdracht te aanvaarden.  
 
-2. De werknemer heeft voldoende zekerheid gesteld.      
+2. De werknemer heeft voldoende zekerheid gesteld.     
 

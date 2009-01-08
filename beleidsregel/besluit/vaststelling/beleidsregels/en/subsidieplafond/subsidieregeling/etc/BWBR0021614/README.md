@@ -14,17 +14,17 @@ Voor subsidieverlening op grond van [artikel 2.4 van de Subsidieregeling Ministe
 
 – Reis- en verblijfkosten bijdragen maximaal 50% van de bijdrage door de Ambassade;  
 
-– De activiteit dient jaarplan ondersteunend en op een breed publiek gericht te zijn, zulks ter beoordeling door de Ambassadeur.    
+– De activiteit dient jaarplan ondersteunend en op een breed publiek gericht te zijn, zulks ter beoordeling door de Ambassadeur.   
 
 ### Artikel  2  
 
-Voor de in artikel 1 genoemde periode geldt een subsidieplafond van € 15.000.  
+Voor de in artikel 1 genoemde periode geldt een subsidieplafond van € 15.000. 
 
 ### Artikel  3  
 
-Dit besluit zal in de Staatscourant worden geplaatst.  
+Dit besluit zal in de Staatscourant worden geplaatst. 
 
 De 
-Minister van Buitenlandse Zaken, namens deze: de 
+Minister van Buitenlandse Zaken, namens deze:de 
 Ambassadeur te Nicosia, 
-J.E. van denBerg   
+J.E. van den Berg     

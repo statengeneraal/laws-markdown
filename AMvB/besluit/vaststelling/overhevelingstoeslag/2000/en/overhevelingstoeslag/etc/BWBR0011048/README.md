@@ -22,7 +22,7 @@ a. een uitkering ingevolge een regeling voor vervroegde uittreding, als bedoeld 
 
 b. een uitkering ingevolge een pensioenregeling als bedoeld in [artikel 11, derde lid, van de Wet op de loonbelasting](../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), welke ten laste komt van het Rijk of de Stichting Pensioenfonds ABP, behoudens voor zover krachtens [artikel 30 van de Wet Financiële voorzieningen Privatisering ABP](../../../../../../../../../wet/wet/financiële/voorzieningen/privatisering/abp/BWBR0007211/README.md) over die uitkering een inhouding inzake arbeidsongeschiktheid plaats heeft gevonden, indien deze reeds voor 1 januari 1999 werd verstrekt, of  
 
-c. een door een werkgever verstrekte aanvulling op een uitkering krachtens de [Werkloosheidswet](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) of de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), indien die aanvulling reeds voor 1 januari 1999 werd verstrekt, en daarover geen premie op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) is geheven.     
+c. een door een werkgever verstrekte aanvulling op een uitkering krachtens de [Werkloosheidswet ](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md)of de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), indien die aanvulling reeds voor 1 januari 1999 werd verstrekt, en daarover geen premie op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) is geheven.     
 
 ### Artikel  2  
 
@@ -33,21 +33,21 @@ a. een uitkering ingevolge een regeling voor vervroegde uittreding, als bedoeld 
 
 b. een uitkering ingevolge een pensioenregeling als bedoeld in [artikel 11, derde lid, van de Wet op de loonbelasting](../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), welke ten laste komt van het Rijk of de Stichting Pensioenfonds ABP, behoudens voor zover krachtens [artikel 30 van de Wet Financiële voorzieningen Privatisering ABP](../../../../../../../../../wet/wet/financiële/voorzieningen/privatisering/abp/BWBR0007211/README.md) over die uitkering een inhouding inzake arbeidsongeschiktheid plaats heeft gevonden, indien deze reeds voor 1 januari 1999 werd verstrekt, of  
 
-c. een door een werkgever verstrekte aanvulling op een uitkering krachtens de [Werkloosheidswet](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) of de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), indien die aanvulling reeds voor 1 januari 1999 werd verstrekt, en daarover geen premie op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) is geheven.     
+c. een door een werkgever verstrekte aanvulling op een uitkering krachtens de [Werkloosheidswet](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) of de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), indien die aanvulling reeds voor 1 januari 1999 werd verstrekt, en daarover geen premie op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) is geheven.    
 
 ### Artikel  3  
 
-De Wet overhevelingstoeslag opslagpremies en de Wet aanpassing uitkeringsregelingen overheveling opslagpremies vervallen met ingang van 1 januari 2001.  
+De Wet overhevelingstoeslag opslagpremies en de Wet aanpassing uitkeringsregelingen overheveling opslagpremies vervallen met ingang van 1 januari 2001. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van 1 januari 2000.  
+Dit besluit treedt in werking met ingang van 1 januari 2000. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 23 december 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Sociale Zaken en Werkgelegenheid, 
 K. G. de Vries   
@@ -55,4 +55,4 @@ K. G. de Vries
 de dertigste december 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

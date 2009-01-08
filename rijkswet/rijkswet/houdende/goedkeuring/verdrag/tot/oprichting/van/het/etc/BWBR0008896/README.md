@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Artikel  1  
 
-Het op 27 februari 1995 te Stockholm tot stand gekomen Verdrag tot oprichting van het Internationaal Instituut voor democratie en verkiezingsondersteuning, waarvan de Engelse tekst en de vertaling in het Nederlands zijn geplaatst in *Tractatenblad* 1995, 257, wordt goedgekeurd voor het gehele Koninkrijk.  
+Het op 27 februari 1995 te Stockholm tot stand gekomen Verdrag tot oprichting van het Internationaal Instituut voor democratie en verkiezingsondersteuning, waarvan de Engelse tekst en de vertaling in het Nederlands zijn geplaatst in *Tractatenblad* 1995, 257, wordt goedgekeurd voor het gehele Koninkrijk. 
 
 ### Artikel  2  
 
-De goedkeuring door de Staten-Generaal van wijzigingen van het in artikel 1 genoemde Verdrag is niet vereist, indien de in het tweede lid van artikel XV ervan genoemde kennisgeving door tweederde van de verdragsstaten – andere dan het Koninkrijk – is gedaan.  
+De goedkeuring door de Staten-Generaal van wijzigingen van het in artikel 1 genoemde Verdrag is niet vereist, indien de in het tweede lid van artikel XV ervan genoemde kennisgeving door tweederde van de verdragsstaten – andere dan het Koninkrijk – is gedaan. 
 
 ### Artikel  3  
 
@@ -25,10 +25,10 @@ Lasten en bevelen dat deze in het *Staatsblad*, in het *Publicatieblad van de Ne
 
 Gegeven te 's-Gravenhage 
 4 september 1997  
-Beatrix  
+Beatrix   
 
 De Minister voor Ontwikkelingssamenwerking, 
-J. P. Pronk   
+J. P. Pronk    
 
 De Minister van Buitenlandse Zaken, 
 H. A. F. M. O. van Mierlo   

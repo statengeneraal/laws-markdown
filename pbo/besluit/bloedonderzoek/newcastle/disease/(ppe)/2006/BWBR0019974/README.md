@@ -10,7 +10,7 @@ Besluit:
 
 Dit besluit neemt de begripsbepalingen over van de [Verordening vaccinatie Newcastle Disease (PPE) 2006](../../../../../../../../pbo/verordening/vaccinatie/newcastle/disease/(ppe)/2006/BWBR0019971/README.md). Voorts wordt verstaan onder: 
 
-a. verordening: [Verordening vaccinatie Newcastle Disease (PPE) 2006](../../../../../../../../pbo/verordening/vaccinatie/newcastle/disease/(ppe)/2006/BWBR0019971/README.md).    
+a.verordening: [Verordening vaccinatie Newcastle Disease (PPE) 2006](../../../../../../../../pbo/verordening/vaccinatie/newcastle/disease/(ppe)/2006/BWBR0019971/README.md). 
 
 ### Artikel  2  
 
@@ -40,7 +40,7 @@ d. maximaal 20 dagen voorafgaand aan een verplaatsing van een koppel van het ene
 
 e. op een leeftijd van 90 – 95 weken.     
 4.  De ondernemer zorgt ervoor, indien uit het onderzoek van de in het derde lid, onder b. bedoelde bloedmonsters blijkt dat de immuniteit van een koppel leghennen niet voldoet aan de in [artikel 4, derde lid, onder a. of b., van de verordening](../../../../../../../../pbo/verordening/vaccinatie/newcastle/disease/(ppe)/2006/BWBR0019971/README.md) bedoelde waarde, en het koppel, conform [artikel 5, eerste lid, onder a. van de verordening](../../../../../../../../pbo/verordening/vaccinatie/newcastle/disease/(ppe)/2006/BWBR0019971/README.md) wegens slachting niet opnieuw is gevaccineerd, dat het eerstvolgende koppel leghennen op zijn pluimveebedrijf, naast op de in het derde lid genoemde tijdstippen, ook op een leeftijd van 40 – 42 weken wordt onderzocht door middel van onderzoek als bedoeld in [artikel 2, tweede lid, van Verordening vaccinatie Newcastle Disease 2006](../../../../../../../../pbo/verordening/vaccinatie/newcastle/disease/(ppe)/2006/BWBR0019971/README.md).   
-5.  De te onderzoeken monsters worden, vergezeld van een ingevuld en ondertekend formulier overeenkomstig het in de bijlage bij dit besluit opgenomen model, voor onderzoek gezonden naar een door het bestuur aangewezen laboratorium.   
+5.  De te onderzoeken monsters worden, vergezeld van een ingevuld en ondertekend formulier overeenkomstig het in de bijlage bij dit besluit opgenomen model, voor onderzoek gezonden naar een door het bestuur aangewezen laboratorium.  
 
 ### Artikel  3  
 
@@ -52,50 +52,50 @@ e. op een leeftijd van 90 – 95 weken.
 a. vanaf een leeftijd van dertien weken en  
 
 b. maximaal 20 dagen voorafgaand aan een verplaatsing van een koppel van het ene pluimveebedrijf naar het andere pluimveebedrijf, voor zover het te verplaatsen koppel een leeftijd heeft van 28 dagen of ouder en het onder a. bedoelde onderzoek nog niet heeft plaatsgevonden.     
-5.  De te onderzoeken monsters dienen, vergezeld van een ingevuld en ondertekend formulier overeenkomstig het in de bijlage bij dit besluit gevoegde model, voor onderzoek te worden gezonden naar aan een door het bestuur aangewezen laboratorium.   
+5.  De te onderzoeken monsters dienen, vergezeld van een ingevuld en ondertekend formulier overeenkomstig het in de bijlage bij dit besluit gevoegde model, voor onderzoek te worden gezonden naar aan een door het bestuur aangewezen laboratorium.  
 
 ### Artikel  4  
 
-Bij koppels pluimvee als bedoeld in [art. 3, onder c., van de verordening](../../../../../../../../pbo/verordening/vaccinatie/newcastle/disease/(ppe)/2006/BWBR0019971/README.md) wordt de effectiviteit van de uitgevoerde vaccinatie drie tot vier weken na de datum waarop de vaccinatie is uitgevoerd onderzocht, conform artikel 2, eerste lid, dan wel artikel 3, eerste lid.  
+Bij koppels pluimvee als bedoeld in [art. 3, onder c., van de verordening](../../../../../../../../pbo/verordening/vaccinatie/newcastle/disease/(ppe)/2006/BWBR0019971/README.md) wordt de effectiviteit van de uitgevoerde vaccinatie drie tot vier weken na de datum waarop de vaccinatie is uitgevoerd onderzocht, conform artikel 2, eerste lid, dan wel artikel 3, eerste lid. 
 
 ### Artikel  5  
 
-De voor het bloedonderzoek vereiste bloedmonsters worden op het pluimveebedrijf afgenomen door een dierenarts. Bij te onderzoeken koppels die een leeftijd hebben van 70 dagen of ouder is het ook toegestaan dat de bloedmonsters op het pluimveebedrijf worden afgenomen door een paraveterinair, als bedoeld in [artikel 9 van het Besluit paraveterinairen](../../../../../../../../AMvB/besluit/paraveterinairen/BWBR0005210/README.md).  
+De voor het bloedonderzoek vereiste bloedmonsters worden op het pluimveebedrijf afgenomen door een dierenarts. Bij te onderzoeken koppels die een leeftijd hebben van 70 dagen of ouder is het ook toegestaan dat de bloedmonsters op het pluimveebedrijf worden afgenomen door een paraveterinair, als bedoeld in [artikel 9 van het Besluit paraveterinairen](../../../../../../../../AMvB/besluit/paraveterinairen/BWBR0005210/README.md). 
 
 ### Artikel  6  
 
-Ondernemers zijn verplicht de voorzitter te informeren welke dierenarts de bloedmonsters zal nemen.  
+Ondernemers zijn verplicht de voorzitter te informeren welke dierenarts de bloedmonsters zal nemen. 
 
 ### Artikel  7  
 
-Laboratoria die door het bestuur zijn aangewezen voor het uitvoeren van bloedonderzoek zijn gehouden de resultaten van het uitgevoerde onderzoek binnen veertien dagen, op een door de voorzitter vastgestelde wijze, ter kennis te brengen van de Gezondheidsdienst voor Dieren B.V. gevestigd te Deventer.  
+Laboratoria die door het bestuur zijn aangewezen voor het uitvoeren van bloedonderzoek zijn gehouden de resultaten van het uitgevoerde onderzoek binnen veertien dagen, op een door de voorzitter vastgestelde wijze, ter kennis te brengen van de Gezondheidsdienst voor Dieren B.V. gevestigd te Deventer. 
 
 ### Artikel  8  
 
-Indien uit bloedonderzoek is gebleken dat een koppel pluimvee niet heeft voldaan aan de in [artikel 3 van de Verordening vaccinatie Newcastle Disease 2006](../../../../../../../../pbo/verordening/vaccinatie/newcastle/disease/(ppe)/2006/BWBR0019971/README.md) voor dat koppel pluimvee gestelde minimumwaarde wordt de betrokken ondernemer hiervan schriftelijk in kennis gesteld door de Gezondheidsdienst voor Dieren B.V., gevestigd te Deventer.  
+Indien uit bloedonderzoek is gebleken dat een koppel pluimvee niet heeft voldaan aan de in [artikel 3 van de Verordening vaccinatie Newcastle Disease 2006](../../../../../../../../pbo/verordening/vaccinatie/newcastle/disease/(ppe)/2006/BWBR0019971/README.md) voor dat koppel pluimvee gestelde minimumwaarde wordt de betrokken ondernemer hiervan schriftelijk in kennis gesteld door de Gezondheidsdienst voor Dieren B.V., gevestigd te Deventer. 
 
 ### Artikel  9  
 
-Het onderzoek van de bloedmonsters dient te worden uitgevoerd overeenkomstig de in bijlage III, hoofdstuk 5, van richtlijn 92/66/EEG beschreven methode.  
+Het onderzoek van de bloedmonsters dient te worden uitgevoerd overeenkomstig de in bijlage III, hoofdstuk 5, van richtlijn 92/66/EEG beschreven methode. 
 
 ### Artikel  10  
 
 1.  Dit besluit wordt aangehaald als: Besluit bloedonderzoek Newcastle Disease (PPE) 2006.   
-2.  Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking met ingang van de dag van inwerkingtreding van de [Verordening vaccinatie Newcastle Disease (PPE) 2006](../../../../../../../../pbo/verordening/vaccinatie/newcastle/disease/(ppe)/2006/BWBR0019971/README.md).   
+2.  Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking met ingang van de dag van inwerkingtreding van de [Verordening vaccinatie Newcastle Disease (PPE) 2006](../../../../../../../../pbo/verordening/vaccinatie/newcastle/disease/(ppe)/2006/BWBR0019971/README.md).  
 
 Zoetermeer 
 15 juni 2006   
 
-J.J. Ramekers  
+J.J. Ramekers 
 voorzitter  
 
 S.B.M. Jongerius  
-secretaris   
+secretaris  
 
-### Bijlage  
+### Bijlage 
 
 ####bij Besluit bloedonderzoek Newcastle Disease (PPE) 2006
 
-![241638](http://wetten.overheid.nl/Illustration/241638)
+![241637](http://wetten.overheid.nl/Illustration/241637)
 ![241638](http://wetten.overheid.nl/Illustration/241638)
 

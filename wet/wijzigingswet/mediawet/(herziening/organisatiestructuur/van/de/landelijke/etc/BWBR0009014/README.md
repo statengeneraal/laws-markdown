@@ -1,21 +1,21 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Wet van 13 november 1997 tot wijziging van bepalingen van de Mediawet in verband met een herziening van de organisatiestructuur van de landelijke publieke omroep
+## Wet van 13 november 1997 tot wijziging van bepalingen van de Mediawet in verband met een herziening van de organisatiestructuur van de landelijke publieke omroep
 
-Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
+Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz. 
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
 Alzo Wij in overweging genomen hebben, dat het wenselijk is de organisatiestructuur van de landelijke publieke omroep te herzien, teneinde door middel van een professionalisering van het bestuur waarborgen te scheppen voor een nauwere samenwerking tussen de landelijke omroepinstellingen en verdere coördinatie van de programmering op en tussen de verschillende radio- en televisienetten, met behoud van de rechten en plichten die voortvloeien uit de verleende concessies voor landelijke publieke omroep;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### ARTIKEL  I  
 
-Wijzigt de Mediawet.   
+Wijzigt de Mediawet.  
 
 ### ARTIKEL  II  
 
-Wijzigt de Mediawet.   
+Wijzigt de Mediawet.  
 
 ### ARTIKEL  III  
 
@@ -33,16 +33,16 @@ De tekst van de [Mediawet](../../../../../../../../../../wet/mediawet/BWBR000414
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
 
-Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
+Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    
 
 Gegeven te 's-Gravenhage 
-13 november 1997  
-Beatrix  
+13 november 1997   
+Beatrix   
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, 
-A. Nuis   
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen,  
+A. Nuis    
 
-de *vijfentwintigste* november 1997 
+de *vijfentwintigste* november 1997  
 
-De Minister van Justitie, 
-W. Sorgdrager    
+De Minister van Justitie,  
+W. Sorgdrager     

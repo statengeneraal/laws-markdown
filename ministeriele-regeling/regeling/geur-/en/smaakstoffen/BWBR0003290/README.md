@@ -14,39 +14,39 @@ Geur- en smaakstoffen dienen zodanig van samenstelling te zijn dat bij gebruik o
 
 a. de stoffen, genoemd in de bij deze regeling gevoegde bijlage I, in geen grotere hoeveelheden bevatten dan daar aangegeven,  
 
-b. slechts de kunstmatige geur- en smaakstofcomponenten, genoemd in de bij deze regeling gevoegde bijlage II, tot de daarbij vermelde hoeveelheden bevatten.    
+b. slechts de kunstmatige geur- en smaakstofcomponenten, genoemd in de bij deze regeling gevoegde bijlage II, tot de daarbij vermelde hoeveelheden bevatten.   
 
-### Artikel  1a  
+### Artikel 1a  
 
-Onverminderd artikel 1, onder b, mag N-ethyl-2-isopropyl-5-methylcyclohexaancarboxamide aanwezig zijn in de navolgende eet- en drinkwaren, tot de daarbij vermelde maximale hoeveelheid:   a. kauwgom:  tot 1200 mg/kg;    b. chocolade en suikerwerken:  tot 100 mg/kg;    c. andere eet- en drinkwaren:  tot 10 mg/kg.     
+Onverminderd artikel 1, onder b, mag N-ethyl-2-isopropyl-5-methylcyclohexaancarboxamide aanwezig zijn in de navolgende eet- en drinkwaren, tot de daarbij vermelde maximale hoeveelheid:   a. kauwgom:  tot 1200 mg/kg;    b. chocolade en suikerwerken:  tot 100 mg/kg;    c. andere eet- en drinkwaren:  tot 10 mg/kg.    
 
 ### Artikel  2  
 
-Geur- en smaakstoffen mogen slechts bevatten de additieven overeenkomstig de bij deze regeling gevoegde bijlage III tot de daarbij vermelde hoeveelheden.  
+Geur- en smaakstoffen mogen slechts bevatten de additieven overeenkomstig de bij deze regeling gevoegde bijlage III tot de daarbij vermelde hoeveelheden. 
 
-### Artikel  3  
+### Artikel 3  
 
-Als smaakversterkende stoffen mogen slechts worden gebruikt de stoffen, genoemd in de bij deze regeling gevoegde bijlage IV.  
+Als smaakversterkende stoffen mogen slechts worden gebruikt de stoffen, genoemd in de bij deze regeling gevoegde bijlage IV. 
 
 ### Artikel  4  
 
 1.  Deze regeling die, welke kan worden aangehaald als ‘Regeling geur- en smaakstoffen’, wordt in de Nederlandse Staatscourant bekendgemaakt.   
-2.  Zij treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.   
+2.  Zij treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
 
 Leidschendam 
 24 januari 1980    
 
 De 
 Minister van Volksgezondheid en Milieuhygiëne, 
-L.Ginjaar 
+L.Ginjaar   
 
 De 
 Minister van Landbouw en Visserij, 
-A. P. J. M. M. van derStee 
+A. P. J. M. M. van derStee   
 
 De 
 Staatssecretaris van Economische Zaken, 
-Th. M.Hazekamp   
+Th. M. Hazekamp     
 
 ### Bijlage  I  
 
@@ -91,13 +91,13 @@ Th. M.Hazekamp
 | fenylethylcarbinol  | 3  |
 | 2-methoxy-3-isopropylpyrazine  | 3  |
 | methyldihydrojasmonaat  | 1  |
-| benzo(a)pyreea  | 0,00003 (als gevolg van het gebruik van aroma)  |
+| benzo(a)pyreea   | 0,00003 (als gevolg van het gebruik van aroma)  |
 
 ### Bijlage  II  
 
 | --- | --- | --- | --- |
 |---|---|---|---|
-| 2 *C.E.-nr.*  | --- | *max. toelaatbare concentratie in het eindprodukt in mg/kg* +  |
+| 2*C.E.-nr.*   | --- |  *max. toelaatbare concentratie in het eindprodukt in mg/kg* +  |
 | 523  | acetaldehydebenzylmethoxyethylacetaal  | 1  |
 | 155  | acetylnonanoyl (undecaan-2,3-dion)  | 3  |
 | 2044  | acetylvaleryl (heptaan-2,3-dion)  | 10  |
@@ -116,13 +116,13 @@ Th. M.Hazekamp
 | 2182  | allylsorbinaat  | 5  |
 | 2183  | allyltiglinaat  | 3  |
 | 441  | allylundecenoaat  | 1  |
-| 216  | alpha-amylcinnamylacetaat  | 10  <sup> 1   Het totaal van de volgende stoffen mag niet meer dan 10 mg/kg in het eindprodukt bedragen: alfa-amylcinnamylacetaat alfa-amylcinnamylformiaat alfa-amylcinnamylisovalerianaat alfa-amylkaneelalcohol    </sup> |
+| 216  | alpha-amylcinnamylacetaat  | 10 <sup> 1  Het totaal van de volgende stoffen mag niet meer dan 10 mg/kg in het eindprodukt bedragen: alfa-amylcinnamylacetaat alfa-amylcinnamylformiaat alfa-amylcinnamylisovalerianaat alfa-amylkaneelalcohol  </sup>   |
 | 357  | alpha-amylcinnamylformiaat  | 10   |
 | 463  | alpha-amylcinnamylisovalerianaat  | 10   |
 | 2172  | amylheptincarbonaat (pentyl oct-2-ynoaat)  | 4  |
-| 79  | alpha-amylkaneelalcohol  | 10   |
-| 128  | alfa-amylkaneelaldehyde  | 10  <sup> 2   Het totaal van de volgende stoffen mag niet meer dan 10 mg/kg in het eindprodukt bedragen: alfa-amylkaneelaldehyde alfa-amylkaneelaldehydedimethylacetaal alfa-butylkaneelaldehyde alfa-hexylkaneelaldehyde alfa-methylkaneelaldehyde alfa-methyl-p-methoxykaneelaldehyde    </sup> |
-| 47  | alfa-amylkaneelaldehydedimethylacetaal  | 10   |
+| 79  | alpha-amylkaneelalcohol  | 10     |
+| 128  | alfa-amylkaneelaldehyde  | 10 <sup> 2  Het totaal van de volgende stoffen mag niet meer dan 10 mg/kg in het eindprodukt bedragen: alfa-amylkaneelaldehyde alfa-amylkaneelaldehydedimethylacetaal alfa-butylkaneelaldehyde alfa-hexylkaneelaldehyde alfa-methylkaneelaldehyde alfa-methyl-p-methoxykaneelaldehyde  </sup>   |
+| 47  | alfa-amylkaneelaldehydedimethylacetaal  | 10    |
 | 2205  | 2-amyl-5(of 6)-keto-1,4-dioxaan  | 10  |
 | 163  | anisylaceton  | 25  |
 | 2226  | benzaldehydepropyleenglycolacetaal  | 300  |
@@ -132,7 +132,7 @@ Th. M.Hazekamp
 | 2187  | benzyl-2,3-dimethylcrotonaat  | 5  |
 | 2137  | benzylethylcarbinol  | 2  |
 | 2140  | benzyl-4-heptanon  | 20  |
-| -  | benzylideenmethional  | 1  |
+|  -  | benzylideenmethional  |  1  |
 | 2031  | benzylisobutylcarbinol  | 50  |
 | 159  | benzylisobutylketon  | 10  |
 | 522  | benzylisoeugenol  | 25  |
@@ -141,7 +141,7 @@ Th. M.Hazekamp
 | –  | 2-butyl-2-butanal  | 2  |
 | 2188  | butylbutyrylglycolaat  | 5  |
 | 2107  | butylbutyryllactaat  | 50  |
-| 127  | alfa-butylkaneelaldehyde  | 10  <sup> 3   Het totaal van de volgende stoffen mag niet meer dan 60 mg/kg in het eindprodukt bedragen: cyclohexylbutyraat cyclohexylformiaat cyclohexylhexanoaat cyclohexylisovalerianaat cyclohexylpropionaat    </sup> |
+| 127  | alfa-butylkaneelaldehyde  | 10 <sup> 3  Het totaal van de volgende stoffen mag niet meer dan 60 mg/kg in het eindprodukt bedragen: cyclohexylbutyraat cyclohexylformiaat cyclohexylhexanoaat cyclohexylisovalerianaat cyclohexylpropionaat  </sup>   |
 | 2206  | 2-butyl-5(of 6)-keto-1,4-dioxaan  | 5  |
 | 2057  | carvacrylethylether  | 40  |
 | 255  | cinnamylanthranilaat  | 25  |
@@ -153,14 +153,14 @@ Th. M.Hazekamp
 | 2082  | cyclohexylburyraat  | 60  |
 | 337  | cyclohexylcinnamaat  | 5  |
 | 218  | cyclohexylethylacetaat  | 5  |
-| 498  | cyclohexylformiaat  | 60   |
+| 498  | cyclohexylformiaat  | 60    |
 | 528  | cyclohexylhexanoaat  | 60   |
-| 459  | cyclohexylisovalerianaat  | 60   |
+| 459  | cyclohexylisovalerianaat  | 60    |
 | 529  | cyclohexylmercaptaan  | 0,1  |
 | 421  | cyclohexylpropionaat  | 60   |
 | –  | cyclopentaanthiol  | 0,1  |
-| –  | dehydrodihydrojonol  | 2  <sup> 4   Het totaal van de volgende stoffen mag niet meer dan 5 mg/kg in het eindprodukt bedragen: dehydrodihydrojonol dehydrodihydrojonon alfa-isomethyljonon ß-isomethyljonon alfa-methyljonon delta-methyljonon p-methyljonon    </sup> |
-| –  | dehydrodihydrojonon  | 4   |
+| –  | dehydrodihydrojonol  | 2 <sup> 4  Het totaal van de volgende stoffen mag niet meer dan 5 mg/kg in het eindprodukt bedragen: dehydrodihydrojonol dehydrodihydrojonon alfa-isomethyljonon ß-isomethyljonon alfa-methyljonon delta-methyljonon p-methyljonon  </sup>   |
+| –  | dehydrodihydrojonon  | 4    |
 | 2150  | dibenzylether  | 25  |
 | 2054  | dibenzylketon  | 10  |
 | 4077  | dibenzylsulfide  | 2  |
@@ -172,7 +172,7 @@ Th. M.Hazekamp
 | –  | 2,5-dimethyl-2,5-dihydroxy-1,4-dithiaan  | 2  |
 | 219  | dimethylfenylethylcarbinylacetaat  | 2  |
 | 4240  | dimethylfenylethylcarbinylisobutyraat  | 15  |
-| –  | 2,5-dimethyl-3-furaanthiol  | 0,25  <sup> 5   Het totaal van de volgende stoffen mag niet meer dan 1 mg/kg m het eindprodukt bedragen: 2,5-dimethyl-3-furaanthiol 2-methyl-3-furaanthiol    </sup> |
+| –  | 2,5-dimethyl-3-furaanthiol  | 0,25 <sup> 5  Het totaal van de volgende stoffen mag niet meer dan 1 mg/kg m het eindprodukt bedragen: 2,5-dimethyl-3-furaanthiol 2-methyl-3-furaanthiol  </sup>   |
 | 4030  | 2,6-dimethyl-4-beptanol  | 5  |
 | 2006  | 2,6-dimethyl-5-beptenal  | 20  |
 | –  | 3,7-dimethyl-2,6-octadienyl-2-ethylbutyraat  | 15  |
@@ -194,15 +194,15 @@ Th. M.Hazekamp
 | –  | ethyl-2-fenyl-3-furoaat  | 2,5  |
 | 545  | ethylfurfacrylaat  | 1  |
 | 2091  | ethylfurfurylpropionaat  | 10  |
-| --- | ethyl-8-furfuryl-8-thiopropionaat  | 1  |
+| --- | ethyl-8-furfuryl-8-thiopropionaat   | 1  |
 | 120  | 2-ethyl-2-heptenal  | 30  |
 | 190  | ethylisoeugenol  | 15  |
 | 692  | ethylmaltol  | 60  |
 | –  | ethylmercaptopropionaat  | 2  |
-| –  | 3-ethyl-4-methylcycloteen  | 4  <sup> 6   Het totaal van de volgende stoffen mag niet meer dan 4 mg/kg in het eindprodukt bedragen: 3-ethyl-4-methylcycloteen 5-ethyl-3-methylcycloteen    </sup> |
+| –  | 3-ethyl-4-methylcycloteen  | 4 <sup> 6  Het totaal van de volgende stoffen mag niet meer dan 4 mg/kg in het eindprodukt bedragen: 3-ethyl-4-methylcycloteen 5-ethyl-3-methylcycloteen  </sup>   |
 | --- | --- |
 | 5-ethyl  | -3-methylcycloteen  | 4   |
-| --- | ethylmethylfenylglycidaat  | 20  |
+| --- | ethylmethylfenylglycidaat  |  20  |
 | –  | ethyl-2-methyl-3-pentenoaat  | 2  |
 | 2190  | ethylnitriet  | 15  |
 | 480  | ethyloctincarbonaat  | 1  |
@@ -221,7 +221,7 @@ Th. M.Hazekamp
 | 2017  | 2-fenylpropanaldimethylacetaal  | 5  |
 | 2257  | 2-fenyl-1-propanol  | 2  |
 | 2276  | 1-fenyl-2-propylbutyraat  | 5  |
-| 285  | 2-fenylpropylbutyraat  | 5  <sup> 7   Het totaal van de volgende stoffen mag niet meer dan 5 mg/kg in het eindprodukt bedragen: 2-fenylpropylbutyraat 2-fenylpropylisobutyraat    </sup> |
+| 285  | 2-fenylpropylbutyraat  | 5 <sup> 7  Het totaal van de volgende stoffen mag niet meer dan 5 mg/kg in het eindprodukt bedragen: 2-fenylpropylbutyraat 2-fenylpropylisobutyraat  </sup>   |
 | 597  | 2-fenylpropylcinnamaat  | 10  |
 | 2087  | 2-fenylpropylisobutyraat  | 5   |
 | 2277  | 1-fenyl-3(5)-propylpyrazol  | 0,5  |
@@ -234,29 +234,29 @@ Th. M.Hazekamp
 | 552  | 4-heptanol  | 10  |
 | 555  | 4-heptanol  | 5  |
 | —  | 3-heptyl-5-methyl-2(3H)furanon  | 1,5  |
-| --- | hexyl-2-methyl-3(4)-pentennaat  | 0,4  |
+| --- | hexyl-2-methyl-3(4)-pentennaat  |  0,4  |
 | 167  | 2-hexylideencyclopentanon  | 10  |
-| 129  | alfa hexylkaneelaldehyde  | 10   |
+| 129  | alfa hexylkaneelaldehyde  | 10    |
 | –  | ß homocyclocitral  | 2  |
-| 100  | hydroxycitronellaal  | 10  <sup> 8   Het totaal van de volgende stoffen mag niet meer dan 25 mg/kg in het eindprodukt bedragen: hydroxycitronellaal hydroxycitronellaal diethylacetaal hydroxycitronellaal dimethylacetaal hydroxycitronellol    </sup> |
-| 44  | hydroxycitronellaal diethylacetaal  | 10   |
-| 46  | hydroxycitronellaal dimethylacetaal  | 25   |
-| 559  | hydrocycitronellol  | 10   |
+| 100  | hydroxycitronellaal  | 10 <sup> 8  Het totaal van de volgende stoffen mag niet meer dan 25 mg/kg in het eindprodukt bedragen: hydroxycitronellaal hydroxycitronellaal diethylacetaal hydroxycitronellaal dimethylacetaal hydroxycitronellol  </sup>   |
+| 44  | hydroxycitronellaal diethylacetaal  | 10    |
+| 46  | hydroxycitronellaal dimethylacetaal  | 25    |
+| 559  | hydrocycitronellol  | 10    |
 | –  | 3-hydroxymethyl-2-octanon  | 10  |
 | 563  | isoamyleugenol  | 5  |
 | 2080  | isoamylfurylbutyraat  | 3  |
 | 2092  | isoamylfurylpropionaat  | 10  |
 | 2173  | isoamylheptincarbonaat  | 1  |
-| 564  | isobornylbutyraat  | 20  <sup> 9   Het totaal van de volgende stoffen mag niet meer dan 20 mg/kg in het eindprodukt bedragen: isobornylbutyraat isobornylformiaat isobornylisovalerianaat isobornylpropionaat    </sup> |
+| 564  | isobornylbutyraat  | 20 <sup> 9  Het totaal van de volgende stoffen mag niet meer dan 20 mg/kg in het eindprodukt bedragen: isobornylbutyraat isobornylformiaat isobornylisovalerianaat isobornylpropionaat  </sup>   |
 | 565  | isobornylformiaat  | 20   |
 | 452  | isobornylisovalerianaat  | 20   |
-| 412  | isobornylpropionaat  | 20   |
+| 412  | isobornylpropionaat  | 20    |
 | 2093  | isobutylfurylpropionaat  | 30  |
 | 2151  | isoeugenylbutylether  | 10  |
 | 237  | isoeugenylfenylacetaat  | 3  |
 | 356  | isoeugenylformiaat  | 15  |
-| 169  | alfa-isomethyljonon  | 5   |
-| 650  | ß-isomethyljonon  | 5   |
+| 169  | alfa-isomethyljonon  | 5    |
+| 650  | ß-isomethyljonon  | 5    |
 | --- | di-isopropoxyethaan 50  | 50  |
 | 651  | p-isopropylacetofenon  | 10  |
 | 132  | p-isopropylfenylacetaldehyde  | 1  |
@@ -267,8 +267,8 @@ Th. M.Hazekamp
 | –  | 3-mercapto-2-butanon  | 0,5  |
 | –  | 3-mercapto-2-pentanon  | 0,5  |
 | 4156  | 2-mercaptopropionzuur  | 2  |
-| 2226  | 2(5,6)-methoxy-3-ethylpyrazine  | 5  <sup> 10   Het totaal van de volgende stoffen mag niet meer dan 5 mg/kg in het eindprodukt bedragen: 2(5,6)-methoxy-3-ethylpyrazine 2(5,6)-methoxy-3-methylpyrazine 2-methoxy-3(5,6)-isopropylpyrazine    </sup> |
-| –  | 2(5,6)-methoxy-3-methylpyrazine  | 5   |
+| 2226  | 2(5,6)-methoxy-3-ethylpyrazine  | 5 <sup> 10  Het totaal van de volgende stoffen mag niet meer dan 5 mg/kg in het eindprodukt bedragen: 2(5,6)-methoxy-3-ethylpyrazine 2(5,6)-methoxy-3-methylpyrazine 2-methoxy-3(5,6)-isopropylpyrazine  </sup>   |
+| –  | 2(5,6)-methoxy-3-methylpyrazine  | 5    |
 | –  | 1-(p-methoxyfenyl)-4-methyl-1-penteen-3-on  | 2  |
 | 164  | 1-(p-methoxyfenyl)-1-penteen-3-on  | 25  |
 | –  | methoxypyrazine  | 5  |
@@ -279,10 +279,10 @@ Th. M.Hazekamp
 | 579  | 6-methylcoumarine  | 30  |
 | 2111  | methyldecincarbonaat  | 1  |
 | 580  | 3-methyl-5-ethylfenol  | 5  |
-| 134  | 2-methyl-4-fenylbutanal  | 10  <sup> 11   Het totaal van de volgende stoffen mag niet meer dan 10 mg/kg in het eindprodukt bedragen: 2-methyl-4-fenylbutanal 3-methyl-2-fenylbutanal    </sup> |
-| 135  | 3-methyl-2-fenylbutanal  | 10   |
+| 134  | 2-methyl-4-fenylbutanal  | 10 <sup> 11  Het totaal van de volgende stoffen mag niet meer dan 10 mg/kg in het eindprodukt bedragen: 2-methyl-4-fenylbutanal 3-methyl-2-fenylbutanal  </sup>   |
+| 135  | 3-methyl-2-fenylbutanal  | 10    |
 | 308  | methyl-4-fenylbutyraat  | 2  |
-| 4172  | 2-methyl-3-furaanthiol  | 1   |
+| 4172  | 2-methyl-3-furaanthiol  | 1    |
 | 2267  | methylfurfacrylaat  | 10  |
 | 2267  | 2-methyl-3(5,6)-furfuryltiopyrazine  | 1  |
 | –  | 3-(5-methyl-2-furyl)butanal  | 1  |
@@ -292,10 +292,10 @@ Th. M.Hazekamp
 | –  | 5-methyl-5-hexeen-2-on  | 1  |
 | 2073  | methylisobutylcarbinylacetaat  | 20  |
 | 143  | alfa-methyljonon  | 5   |
-| 144  | ß-methyljonon  | 5   |
-| 2145  | delta-methyljonon  | 5   |
+| 144  | ß-methyljonon  | 5    |
+| 2145  | delta-methyljonon  | 5    |
 | 578  | alfa-methylkaneelaldehyde  | 10   |
-| 584  | alfa-methyl-p-methoxykaneelaldehyde  | 10   |
+| 584  | alfa-methyl-p-methoxykaneelaldehyde  | 10    |
 | 4034  | 2-methyl-5-methoxythiazol  | 5  |
 | 2290  | 2-methyl-3(5,6)-methylthiopyrazine  | 5  |
 | 113  | 2-methyloctanal  | 10  |
@@ -305,7 +305,7 @@ Th. M.Hazekamp
 | –  | 3-(2-methylpropyl)pyridine  | 0,5  |
 | –  | 2-(1-methylpropyl)thiazol  | 0,5  |
 | 2032  | methylstyrylcarbinol  | 20  |
-| –  | 3-methylthiobutanal  | 5  <sup> 12   Het totaal van de volgende stoffen mag niet meer dan 5 mg/kg in het eindprodukt bedragen: 3-methylthiobutanal 4-(methylthio)butanal    </sup> |
+| –  | 3-methylthiobutanal  | 5 <sup> 12  Het totaal van de volgende stoffen mag niet meer dan 5 mg/kg in het eindprodukt bedragen: 3-methylthiobutanal 4-(methylthio)butanal  </sup>   |
 | –  | 4-(methylthio)butanal  | 5   |
 | –  | 4-methylthio-2-butanon  | 2  |
 | –  | methylthiobutyraat  | 5  |
@@ -326,24 +326,24 @@ Th. M.Hazekamp
 | 664  | 6-octenal  | 5  |
 | 594  | paraldehyde  | 6  |
 | –  | pentyl-2-furylketon  | 0,2  |
-| 2068  | piperonylacetaat  | 30  <sup> 13   Het totaal van de volgende stoffen mag niet meer dan 30 mg/kg in het eindprodukt bedragen: piperonylacetaat piperonylaceton piperonylformiaat piperonylisobutyraat    </sup> |
+| 2068  | piperonylacetaat  | 30 <sup> 13  Het totaal van de volgende stoffen mag niet meer dan 30 mg/kg in het eindprodukt bedragen: piperonylacetaat piperonylaceton piperonylformiaat piperonylisobutyraat  </sup>   |
 | 165  | piperonylaceton  | 30   |
 | 2154  | piperonylformiaat  | 30   |
-| 305  | piperonylisobutyraat  | 5   |
+| 305  | piperonylisobutyraat  | 5    |
 | 170  | propenylguaethol  | 25  |
 | –  | p-propylanisol  | 3  |
 | 2090  | propylfurfacrylaat  | 5  |
 | 494  | 3-propylideenfthalide  | 10  |
 | –  | propylthioacetaat  | 1  |
 | 2133  | pseudocyclocitraal  | 3  |
-| 2285  | pyrazine ethaanthiol  | 10  <sup> 14   Het totaal van de volgende stoffen mag niet meer dan 10 mg/kg in het eindprodukt bedragen: pyrazine ethaanthiol pyrazinemethaanthiol    </sup> |
-| –  | pyrazinemethaanthiol  | 10   |
+| 2285  | pyrazine ethaanthiol  | 10 <sup> 14  Het totaal van de volgende stoffen mag niet meer dan 10 mg/kg in het eindprodukt bedragen: pyrazine ethaanthiol pyrazinemethaanthiol  </sup>   |
+| –  | pyrazinemethaanthiol  | 10    |
 | –  | pyrazinvlmethylsulfide  | 1  |
 | 2279  | 2-pyridinemethaanthiol  | 2  |
 | 189  | resorcinedimethylether  | 25  |
-| 2081  | tetrah drefurfurylbutyraat  | 15  <sup> 15   Het totaal van de volgende stoffen mag niet meer dan 15 mg/kg in het eindprodukt bedragen: tetrahydrofurfurylbutyraat tetrahydrofurfurylcinnamaat tetrahydrofurfurylpropionaat    </sup> |
+| 2081  | tetrah drefurfurylbutyraat  | 15 <sup> 15  Het totaal van de volgende stoffen mag niet meer dan 15 mg/kg in het eindprodukt bedragen: tetrahydrofurfurylbutyraat tetrahydrofurfurylcinnamaat tetrahydrofurfurylpropionaat  </sup>   |
 | 4224  | tetrahydrofurfurylcinnamaat  | 15   |
-| 2096  | tetrahydrofurfurylpropionaat  | 15   |
+| 2096  | tetrahydrofurfurylpropionaat  | 15    |
 | 77  | tetrahudrolinalol  | 10  |
 | 2057  | tetrahydropseudojonon  | 5  |
 | 168  | tetramethylethylcyclohexenon  | 20  |
@@ -355,14 +355,14 @@ Th. M.Hazekamp
 | –  | 2-trans-6-trans-octadienal  | 2  |
 | 684  | trideca-4,7-dienal  | 0,01  |
 | –  | 3,5,5-trimethylhexanol  | 30  |
-| 123  | 9-undecenal  | 10  <sup> 16   Het totaal van de volgende stoffen mag niet meer dan 10 mg/kg in het eindprodukt bedragen: 9-undecenal 10-undecenal    </sup> |
-| 122  | 10-undecenal  | 10   |
+| 123  | 9-undecenal  | 10 <sup> 16  Het totaal van de volgende stoffen mag niet meer dan 10 mg/kg in het eindprodukt bedragen: 9-undecenal 10-undecenal  </sup>   |
+| 122  | 10-undecenal  | 10    |
 | 225  | vanillineacetaat  | 15  |
 | 691  | vanillylideenaceton  | 10  |
 
 ### Bijlage  III  
 
-a. azijnzuur eetbare plantaardige oliën, met uitzondering van ricinusolie ethanol glycerol glyceryl mono-, di- en triacetaat isopropylalcohol melkzuur propyleenglycol sorbitol appelzuur (296) barnsteenzuur (363) kalium- en calciumchloride (508 en 509) de natrium- kalium- en calciumzouten van melkzuur (E325, E326 en E327) natrium- en kaliumcarbonaten (500 en 501) kaliumacetaat (E261) natrium- en kaliumalginaat (E401 en E402) lecithine (E322) triëthylcitraat (1505) wijnsteenzuur (E334).  
+a. azijnzuur  eetbare plantaardige oliën, met uitzondering van ricinusolie ethanol glycerol glyceryl mono-, di- en triacetaat isopropylalcohol melkzuur propyleenglycol sorbitol appelzuur (296) barnsteenzuur (363) kalium- en calciumchloride (508 en 509) de natrium- kalium- en calciumzouten van melkzuur (E325, E326 en E327) natrium- en kaliumcarbonaten (500 en 501) kaliumacetaat (E261) natrium- en kaliumalginaat (E401 en E402) lecithine (E322) triëthylcitraat (1505) wijnsteenzuur (E334).  
 
 b. arabische gom dextrine gemodificeerde zetmelen keukenzout micro kristallijne cellulose suikers (saccharose, glucose, lactose) zetmeel. pektine (E440) methylcellulose (E461) natriumcarboxymethylcellulose (E466)  
 
@@ -387,9 +387,9 @@ f. uitsluitend in geur- en smaakstoffen op waterbasis met een ethanol-gehalte va
 | sorbinezuur en zijn kaliumzout  | tot een maximum van 0,15%, afzonderlijk of tezamen gebruikt  |
 | benzoëzuur en zijn natrium- en kaliumzout  |
 
-g. uitsluitend in geur- en smaakstoffen in emulsievorm: 
+g. uitsluitend in geur- en smaakstoffen in emulsievorm:  
 
-a. in etherische oliën in water: arabische gom tot een maximum van 20% overige plantaardige gommen tot een maximum van 5%  
+a.  in etherische oliën in water: arabische gom tot een maximum van 20% overige plantaardige gommen tot een maximum van 5%  
 
 |--- |
 |---|
@@ -419,6 +419,6 @@ b. in emulsies van eetbare oliën in water:
 
 c. bestemd voor limonades: glycerolester van colofonium.     
 
-### Bijlage  IV  
+### Bijlage IV  
 
 glutaminezuur en de natrium-, kalium-, ammonium- en calciumzouten hiervan 5’-inosinezuur en de natrium-, kalium- en calciumzouten hiervan. ‘5-guanylzuur en de natrium-, kalium- en calciumzouten hiervan. 

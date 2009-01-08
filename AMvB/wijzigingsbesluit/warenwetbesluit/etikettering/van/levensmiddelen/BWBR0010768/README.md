@@ -15,29 +15,29 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Warenwetbesluit Etikettering van levensmiddelen.   
+Wijzigt het Warenwetbesluit Etikettering van levensmiddelen.  
 
 ### Artikel  II  
 
-Wijzigt het Warenwetbesluit Doorstraalde waren.   
+Wijzigt het Warenwetbesluit Doorstraalde waren.  
 
 ### Artikel  III  
 
-Wijzigt het Warenwetbesluit Meel en brood.   
+Wijzigt het Warenwetbesluit Meel en brood.  
 
 ### Artikel  IV  
 
-Wijzigt het Warenwetbesluit Verduurzaamde vruchtenprodukten.   
+Wijzigt het Warenwetbesluit Verduurzaamde vruchtenprodukten.  
 
 ### Artikel  V  
 
-Dit besluit treedt in werking met ingang van 14 februari 2000, met dien verstande dat eet- of drinkwaren die vóór 14 februari 2000 zijn geëtiketteerd, nog verhandeld mogen worden tot de voorraden zijn uitverkocht.  
+Dit besluit treedt in werking met ingang van 14 februari 2000, met dien verstande dat eet- of drinkwaren die vóór 14 februari 2000 zijn geëtiketteerd, nog verhandeld mogen worden tot de voorraden zijn uitverkocht. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 11 oktober 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Volksgezondheid, Welzijn en Sport, 
 E. Borst-Eilers   
@@ -45,4 +45,4 @@ E. Borst-Eilers
 de *vierde* november 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

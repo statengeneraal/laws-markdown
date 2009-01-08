@@ -30,7 +30,7 @@ In deze verordening wordt verstaan onder:
 ### Artikel  2  
 
 1.  Er is een fonds voor promotie.   
-2.  De middelen van het fonds maken deel uit van het vermogen van het productschap.   
+2.  De middelen van het fonds maken deel uit van het vermogen van het productschap.  
 
 ### Artikel  3  
 
@@ -42,7 +42,7 @@ b. rente van belegde gelden;
 
 c. terugbetaling van uitkeringen;  
 
-d. andere baten, met uitzondering van de opbrengst van heffingen wegens het invoeren uit staten die lid zijn van de Europese Unie of partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte.    
+d. andere baten, met uitzondering van de opbrengst van heffingen wegens het invoeren uit staten die lid zijn van de Europese Unie of partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte.   
 
 ### Artikel  4  
 
@@ -54,18 +54,18 @@ b. andere uitgaven ten behoeve van de collectieve promotie van vis en visproduct
 
 c. een bijdrage aan de Stichting Nederlands Visbureau, gevestigd te Rijswijk, ten behoeve van de collectieve promotie van specifieke soorten vis, waaronder kweekvis, schol en garnalen;  
 
-d. andere uitgaven ten behoeve van de collectieve promotie van specifieke soorten vis, waaronder kweekvis, schol en garnalen, in de meest ruime zin van het woord.    
+d. andere uitgaven ten behoeve van de collectieve promotie van specifieke soorten vis, waaronder kweekvis, schol en garnalen, in de meest ruime zin van het woord.   
 
 ### Artikel  5  
 
 1.  Het bestuur beslist over de bestemming van de middelen van het fonds.   
 2.  Het bestuur neemt geen besluit over de bestemming van de middelen van het fonds dan na advies van de betrokken bestuursadviescommissie die door het bestuur is ingesteld voor de desbetreffende deelsector waarvoor het besluit wordt genomen.   
 3.  Bij de bestemming van de middelen dient te allen tijde voldaan te worden aan de voorwaarden gesteld in de Europese en nationale regelingen met betrekking tot steun- en subsidieverlening.   
-4.  Bij uitvoering van het bepaalde in het eerste en derde lid, kan de voorzitter beschikkingen of besluiten nemen als bedoeld in [titel 4.2 Subsidies van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+4.  Bij uitvoering van het bepaalde in het eerste en derde lid, kan de voorzitter beschikkingen of besluiten nemen als bedoeld in [titel 4.2 Subsidies van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
 
 ### Artikel  6  
 
-Het fonds kan door het bestuur worden opgeheven, in welk geval de voorzitter namens het bestuur'als liquidateur optreedt en het bestuur aan een eventueel batig liquidatiesaldo een bestemming geeft ten behoeve van promotie.  
+Het fonds kan door het bestuur worden opgeheven, in welk geval de voorzitter namens het bestuur'als liquidateur optreedt en het bestuur aan een eventueel batig liquidatiesaldo een bestemming geeft ten behoeve van promotie. 
 
 ### Artikel  7  
 
@@ -74,19 +74,19 @@ Het fonds kan door het bestuur worden opgeheven, in welk geval de voorzitter nam
 3.  Het fonds voor scholpromotie, bedoeld in [artikel 2, eerste lid, van de Verordening instelling van een fonds voor scholpromotie](../../../../../../../../../../pbo/verordening/instelling/van/een/fonds/voor/scholpromotie/BWBR0014055/README.md) wordt opgeheven.   
 4.  Het liquidatiesaldo van het fonds voor vispromotie wordt ten bate gebracht van het fonds, bedoeld in artikel 2, eerste lid, en mag bestemd worden voor promotieactiviteiten ten behoeve van alle soorten vis en visproducten.   
 5.  Het liquidatiesaldo van het fonds voor promotiecampagnes voor garnalen wordt ten bate gebracht van het fonds, bedoeld in artikel 2, eerste lid, en mag alleen bestemd worden voor promotieactiviteiten ten behoeve van garnalen.   
-6.  Het liquidatiesaldo van het fonds voor scholpromotie wordt ten bate gebracht van het fonds, bedoeld in artikel 2, eerste lid, en mag alleen bestemd worden voor promotieactiviteiten ten behoeve van schol.   
+6.  Het liquidatiesaldo van het fonds voor scholpromotie wordt ten bate gebracht van het fonds, bedoeld in artikel 2, eerste lid, en mag alleen bestemd worden voor promotieactiviteiten ten behoeve van schol.  
 
 ### Artikel  8  
 
 1.  De [Verordening instelling van een fonds voor vispromotie](../../../../../../../../../../pbo/verordening/instelling/van/een/fonds/voor/vispromotie/BWBR0014054/README.md) wordt ingetrokken.   
 2.  De [Verordening instelling van een fonds voor garnalenpromotie](../../../../../../../../../../pbo/verordening/instelling/van/een/fonds/voor/garnalenpromotie/BWBR0014069/README.md) wordt ingetrokken.   
 3.  De [Verordening instelling van een fonds voor scholpromotie](../../../../../../../../../../pbo/verordening/instelling/van/een/fonds/voor/scholpromotie/BWBR0014055/README.md) wordt ingetrokken.   
-4.  Alle reeds en nog verschuldigde baten en lasten van de fondsen, bedoeld in de vorige leden, gaan over naar het fonds, genoemd in artikel 2.   
+4.  Alle reeds en nog verschuldigde baten en lasten van de fondsen, bedoeld in de vorige leden, gaan over naar het fonds, genoemd in artikel 2.  
 
 ### Artikel  9  
 
 1.  Deze verordening treedt in werking op 1 januari 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2007, treedt deze verordening in werking met ingang van de dag na de datum van uitgifte van het Verordeningenblad Bedrijfsorganisatie en werkt deze terug tot en met 1 januari 2008.   
-2.  Deze verordening kan worden aangehaald als Verordening instelling van een fonds voor promotie 2007.   
+2.  Deze verordening kan worden aangehaald als Verordening instelling van een fonds voor promotie 2007.  
 
 Rijswijk 
 4 oktober 2007   

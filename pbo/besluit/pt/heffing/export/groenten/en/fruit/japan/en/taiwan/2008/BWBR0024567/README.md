@@ -10,15 +10,15 @@ Besluit:
 
 ### Artikel  1  
 
-In 2008 bedraagt de heffing € 30,00 per kwartier.  
+In 2008 bedraagt de heffing € 30,00 per kwartier. 
 
 ### Artikel  2  
 
-Dit besluit wordt aangehaald als: Besluit PT heffing export groenten en fruit Japan en Taiwan 2008.  
+Dit besluit wordt aangehaald als: Besluit PT heffing export groenten en fruit Japan en Taiwan 2008. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst. 
 Dit besluit en de daarbij behorende toelichting zal worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
 
 Zoetermeer 

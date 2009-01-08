@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet inkomensvoorziening kunstenaars.   
+Wijzigt de Wet inkomensvoorziening kunstenaars.  
 
 ### Artikel  II  
 
-Wijzigt de Algemene bijstandswet.   
+Wijzigt de Algemene bijstandswet.  
 
 ### Artikel  V  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -33,4 +33,4 @@ W. A. F. G. Vermeend
 de *achttiende* juli 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

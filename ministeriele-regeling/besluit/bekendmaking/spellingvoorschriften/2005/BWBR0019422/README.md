@@ -14,14 +14,14 @@ Met ingang van 1 augustus 2006 geschiedt de schrijfwijze van de Nederlandse taa
 
 a. de leidraad die is opgenomen in de bijlage die bij dit besluit hoort, en  
 
-b. de woordenlijst die ter inzage is gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.    
+b. de woordenlijst die ter inzage is gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.   
 
 ### Artikel  2  
 
-Dit besluit wordt aangehaald als: Besluit bekendmaking spellingvoorschriften 2005.  
+Dit besluit wordt aangehaald als: Besluit bekendmaking spellingvoorschriften 2005. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en bekend worden gemaakt op de internetsite van de Centrale Financiën Instellingen van het Ministerie van Onderwijs, Cultuur en Wetenschap.  
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap, 
+Minister van Onderwijs, Cultuur en Wetenschap,
 
 M.J.A. van der Hoeven     

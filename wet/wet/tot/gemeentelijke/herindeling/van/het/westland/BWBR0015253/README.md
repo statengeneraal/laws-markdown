@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-Met ingang van de datum van herindeling worden de onderstaande gemeenten opgeheven: De Lier 's-Gravenzande Maasland Monster Naaldwijk Schipluiden Wateringen  
+Met ingang van de datum van herindeling worden de onderstaande gemeenten opgeheven: De Lier 's-Gravenzande Maasland Monster Naaldwijk Schipluiden Wateringen 
 
 ### Artikel  2  
 
@@ -27,7 +27,7 @@ Met ingang van de datum van herindeling worden de onderstaande gemeenten opgehev
 
 ### Artikel  3  
 
-De grenzen van de gemeenten Delft en Maassluis worden gewijzigd zoals aangegeven op de bij deze wet behorende kaart.  
+De grenzen van de gemeenten Delft en Maassluis worden gewijzigd zoals aangegeven op de bij deze wet behorende kaart. 
 
 ### Paragraaf  3  
 
@@ -35,25 +35,25 @@ De grenzen van de gemeenten Delft en Maassluis worden gewijzigd zoals aangegeven
 
 ### Artikel  4  
 
-Voor de nieuwe gemeenten Westland respectievelijk Midden-Delfland worden de op te heffen gemeenten Naaldwijk respectievelijk Schipluiden aangewezen in verband met de toepassing van [artikel 36 van de Wet algemene regels herindeling](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), ten aanzien van de instructies en reglementen, bedoeld in [dat artikel](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md).  
+Voor de nieuwe gemeenten Westland respectievelijk Midden-Delfland worden de op te heffen gemeenten Naaldwijk respectievelijk Schipluiden aangewezen in verband met de toepassing van [artikel 36 van de Wet algemene regels herindeling](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), ten aanzien van de instructies en reglementen, bedoeld in [dat artikel](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md). 
 
 ### Artikel  5  
 
 Voor de op te heffen gemeenten De Lier, 's-Gravenzande, Monster, Naaldwijk en Wateringen, respectievelijk Maasland en Schipluiden worden de nieuwe gemeenten Westland respectievelijk Midden-Delfland aangewezen in verband met de toepassing van de volgende bepalingen van de [Wet algemene regels herindeling](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md): 
 
-a. [artikel 39, tweede lid](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), ten aanzien van de heffing en invordering van gemeentelijke belastingen;  
+a.  [artikel 39, tweede lid](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), ten aanzien van de heffing en invordering van gemeentelijke belastingen;  
 
-b. [artikel 41, derde lid](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), ten aanzien van de deelneming aan gemeenschappelijke regelingen;  
+b.  [artikel 41, derde lid](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), ten aanzien van de deelneming aan gemeenschappelijke regelingen;  
 
 c. de [artikelen 44, eerste lid](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), en [45, tweede lid](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), ten aanzien van de overgang van rechten en verplichtingen;  
 
-d. [artikel 48, tweede lid](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), ten aanzien van de uitkeringen, bedoeld in [dat artikel](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md);  
+d.  [artikel 48, tweede lid](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), ten aanzien van de uitkeringen, bedoeld in [dat artikel](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md);  
 
-e. [artikel 59, eerste lid](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), ten aanzien van de overgang van ambtenaren;  
+e.  [artikel 59, eerste lid](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), ten aanzien van de overgang van ambtenaren;  
 
-f. [artikel 70, eerste lid](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), ten aanzien van de overgang van archiefbescheiden;  
+f.  [artikel 70, eerste lid](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), ten aanzien van de overgang van archiefbescheiden;  
 
-g. [artikel 71, eerste lid](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), ten aanzien van de overdracht van de gemeentelijke basisadministratie persoonsgegevens.    
+g.  [artikel 71, eerste lid](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), ten aanzien van de overdracht van de gemeentelijke basisadministratie persoonsgegevens.   
 
 ### Artikel  6  
 
@@ -68,19 +68,19 @@ g. [artikel 71, eerste lid](../../../../../../../../../wet/wet/algemene/regels/h
 
 ### Artikel  7  
 
-Wijzigt de Wet op de rechterlijke indeling.   
+Wijzigt de Wet op de rechterlijke indeling.  
 
 ### Artikel  8  
 
-Wijzigt de Politiewet 1993.   
+Wijzigt de Politiewet 1993.  
 
 ### Artikel  9  
 
-Gedeputeerde Staten van Zuid-Holland kunnen bij de vaststelling van de grensbeschrijving, bedoeld in [artikel 2, tweede lid, van de Wet algemene regels herindeling](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), kennelijke onjuistheden verbeteren in de grenzen zoals die zijn aangegeven op de bij deze wet behorende kaart. Zij stellen Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties onverwijld in kennis van de aangebrachte verbeteringen.  
+Gedeputeerde Staten van Zuid-Holland kunnen bij de vaststelling van de grensbeschrijving, bedoeld in [artikel 2, tweede lid, van de Wet algemene regels herindeling](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), kennelijke onjuistheden verbeteren in de grenzen zoals die zijn aangegeven op de bij deze wet behorende kaart. Zij stellen Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties onverwijld in kennis van de aangebrachte verbeteringen. 
 
 ### Artikel  10  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -94,7 +94,7 @@ J. W. Remkes
 de vierentwintigste juli 2003 
 
 De Minister van Justitie a.i., 
-G. Zalm    
+G. Zalm     
 
 ####Kaart genoemd in de wet tot gemeentelijke herindeling van het Westland
 

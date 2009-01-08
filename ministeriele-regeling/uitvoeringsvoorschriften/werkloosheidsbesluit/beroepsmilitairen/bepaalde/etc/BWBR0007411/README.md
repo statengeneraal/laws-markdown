@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Uitvoeringsvoorschriften werkloosheidsbesluit beroepsmilitairen bepaalde tijd
+##Uitvoeringsvoorschriften werkloosheidsbesluit beroepsmilitairen bepaalde tijd 
 
 De Staatssecretaris van Defensie, voor deze de Directeur-Generaal Personeel  
 Gelet op [artikel 6 van het Werkloosheidsbesluit beroepsmilitairen bepaalde tijd](../../../../../../../AMvB/werkloosheidsbesluit/beroepsmilitairen/bepaalde/tijd/BWBR0007212/README.md):
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -21,13 +21,13 @@ Het aantal weken, dat betrokkene met behoud van zijn recht op uitkering ingevolg
 
 ### Artikel  4  
 
-Deze regeling treedt in werking op de datum van dagtekening en werkt terug tot en met 1 februari 1995.  
+Deze regeling treedt in werking op de datum van dagtekening en werkt terug tot en met 1 februari 1995. 
 
 De 
-Staatssecretaris van Defensie, 
+Staatssecretaris van Defensie,  
 
-voor deze, 
+voor deze,
 
 De 
-Directeur-Generaal Personeel, 
-W. J. M.Bunnik    
+Directeur-Generaal Personeel,
+W. J. M. Bunnik    

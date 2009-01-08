@@ -12,7 +12,7 @@ Besluit:
 
 ### Artikel  1  
 
-Departementen van algemeen bestuur en daaronder ressorterende diensten, bedrijven en instellingen laten de uitwisseling van algemene persoonsgegevens tussen geautomatiseerde systemen en de fysieke presentatie van adresgegevens uit geautomatiseerde systemen met toepassing van NEN-NORM 1888 en NEN-NORM 5825 plaatsvinden.  
+Departementen van algemeen bestuur en daaronder ressorterende diensten, bedrijven en instellingen laten de uitwisseling van algemene persoonsgegevens tussen geautomatiseerde systemen en de fysieke presentatie van adresgegevens uit geautomatiseerde systemen met toepassing van NEN-NORM 1888 en NEN-NORM 5825 plaatsvinden. 
 
 ### Artikel  2  
 
@@ -21,19 +21,19 @@ Departementen van algemeen bestuur en daaronder ressorterende diensten, bedrijve
 a. bij bestaande geautomatiseerde systemen die daartoe de mogelijkheid bieden met onmiddelijke ingang, en  
 
 b. bij de invoering van nieuwe of de herziening van bestaande geautomatiseerde systemen vanaf het moment van de ingebruikneming van het nieuwe of herziene geautomatiseerde systeem, plaatsvindt.     
-2.  Ten aanzien van geautomatiseerde systemen, waarvan de invoering meerdere jaren in beslag neemt en met de invoering waarvan op het tijdstip van inwerkingtreding van dit besluit reeds een aanvang is gemaakt, kan de Minister van Binnenlandse Zaken op verzoek van en in overeenstemming met de Minister die het aangaat, toestaan dat de in het eerste lid bedoelde termijn van vier jaren wordt overschreden.   
+2.  Ten aanzien van geautomatiseerde systemen, waarvan de invoering meerdere jaren in beslag neemt en met de invoering waarvan op het tijdstip van inwerkingtreding van dit besluit reeds een aanvang is gemaakt, kan de Minister van Binnenlandse Zaken op verzoek van en in overeenstemming met de Minister die het aangaat, toestaan dat de in het eerste lid bedoelde termijn van vier jaren wordt overschreden.  
 
 ### Artikel  3  
 
-Het Besluit standaardadressering (Stcrt. 1988, 49) wordt ingetrokken.  
+Het Besluit standaardadressering (Stcrt. 1988, 49) wordt ingetrokken. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van 1 januari 1993.  
+Dit besluit treedt in werking met ingang van 1 januari 1993. 
 
 ### Artikel  5  
 
-Dit besluit kan worden aangehaald als: Besluit standaardschrijfwijze persoonsgegevens.  
+Dit besluit kan worden aangehaald als: Besluit standaardschrijfwijze persoonsgegevens. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de Algemene Rekenkamer.   
 
 's-Gravenhage 
@@ -41,4 +41,4 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in af
 
 De 
 Minister van Binnenlandse Zaken, 
-C. I.Dales    
+C. I. Dales      

@@ -7,47 +7,47 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
 Alzo Wij in overweging genomen hebben, dat het wenselijk is de bekostiging van het onderwijs in allochtone levende talen te beëindigen; dat daartoe de [Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) en de [Wet op de expertisecentra](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) dienen te worden gewijzigd; dat daarmee samenhangend tevens de [Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) voor wat betreft het onderwijs in de taal van het land van oorsprong dient te worden gewijzigd;
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:   
 
 ### Artikel  I  
 
-Wijzigt de Wet op het primair onderwijs.   
+Wijzigt de Wet op het primair onderwijs.
 
 ### Artikel  II  
 
-Wijzigt de Wet op de expertisecentra.   
+Wijzigt de Wet op de expertisecentra.
 
 ### Artikel  III  
 
-Wijzigt de Wet op het voortgezet onderwijs.   
+Wijzigt de Wet op het voortgezet onderwijs.
 
 ### Artikel  IV  
 
-De ingevolge deze wet gewijzigde artikelen van de [Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en de [Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) zoals die luidden op de dag voor de inwerkingtreding van deze wet, blijven van toepassing op de tijdvakken waarvoor zij gelding hadden.  
+De ingevolge deze wet gewijzigde artikelen van de [Wet op het primair onderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) en de [Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) zoals die luidden op de dag voor de inwerkingtreding van deze wet, blijven van toepassing op de tijdvakken waarvoor zij gelding hadden. 
 
 ### Artikel  V  
 
-Bij of krachtens algemene maatregel van bestuur, dan wel bij ministeriële regeling, worden voorschriften gegeven met betrekking tot de opvang van de personele gevolgen van de inwerkingtreding van deze wet.  
+Bij of krachtens algemene maatregel van bestuur, dan wel bij ministeriële regeling, worden voorschriften gegeven met betrekking tot de opvang van de personele gevolgen van de inwerkingtreding van deze wet.
 
 ### Artikel  VI  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.
 
 ### Artikel  VII  
 
-Wijzigt de Wet op de beroepen in het onderwijs.   
+Wijzigt de Wet op de beroepen in het onderwijs.
 
 ### Artikel  VIIA  
 
-Wijzigt de Aanpassingswet invoering bachelor-masterstructuur.   
+Wijzigt de Aanpassingswet invoering bachelor-masterstructuur.
 
 ### Artikel  VIIB  
 
-Wijzigt de Aanpassingswet invoering bachelor-masterstructuur.   
+Wijzigt de Aanpassingswet invoering bachelor-masterstructuur.
 
 ### Artikel  VIII  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -56,7 +56,7 @@ Gegeven te 's-Gravenhage
 Beatrix  
 
 De Minister van Onderwijs, Cultuur en Wetenschap , 
-M. J. A. van der Hoeven   
+M. J. A. van der  Hoeven   
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit , 
 C. P. Veerman   

@@ -10,7 +10,7 @@ Besluit:
 
 ### Artikel  1  
 
-Voor subsidieverlening op grond van de artikelen 2.2 en 2.3 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2007 geldt voor de periode 1 januari 2008 tot en met 31 december 2008 voor het Matra Doelbijdragen Programma het volgende subsidieplafond: € 200.000,– . <sup> 1  Dit plafond betreft het maximum van de aan te gane verplichtingen.  </sup>  
+Voor subsidieverlening op grond van de artikelen 2.2 en 2.3 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2007 geldt voor de periode 1 januari 2008 tot en met 31 december 2008 voor het Matra Doelbijdragen Programma het volgende subsidieplafond: € 200.000,–<sup>1 Dit plafond betreft het maximum van de aan te gane verplichtingen.</sup>. 
 
 ### Artikel  2  
 
@@ -24,14 +24,14 @@ c. Subsidie wordt slechts verleend aan rechtspersonen.
 
 d. De duur van de activiteiten bedraagt ten hoogste één jaar.  
 
-e. De subsidie per aanvraag bedraagt ten hoogste € 100.000,–.    
+e. De subsidie per aanvraag bedraagt ten hoogste € 100.000,–.   
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatcourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatcourant waarin het wordt geplaatst. 
 Dit besluit zal in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Buitenlandse Zaken, namens deze: de 
+Minister van Buitenlandse Zaken, namens deze:de 
 Directeur-Generaal Europese Samenwerking, 
-I.M. deJong   
+I.M. de Jong     

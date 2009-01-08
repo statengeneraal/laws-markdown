@@ -6,7 +6,7 @@ De Minister van Financiën,
 Gelet op [artikel 17, tweede lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md);
 
 Handelende na overleg met de Minister van Verkeer en Waterstaat;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -22,15 +22,15 @@ De regeling van 23 augustus 1974/nr. K74/2773 van de Staatssecretaris van Financ
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van 1 mei 1998 en werkt terug tot en met 1 maart 1996.  
+Deze regeling treedt in werking met ingang van 1 mei 1998 en werkt terug tot en met 1 maart 1996. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Financiën, 
-G.Zalm   
+G. Zalm     
 
 ####Bijlage
 
-*Voorzijde*    ![36058](http://wetten.overheid.nl/Illustration/36058)
-*Achterzijde*    ![36058](http://wetten.overheid.nl/Illustration/36058)
+*Voorzijde*  ![36057](http://wetten.overheid.nl/Illustration/36057)
+*Achterzijde*  ![36058](http://wetten.overheid.nl/Illustration/36058)
 

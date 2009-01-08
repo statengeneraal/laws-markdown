@@ -123,11 +123,11 @@ DE RAAD VAN DE EUROPESE GEMEENSCHAPPEN, Gelet op het Verdrag tot oprichting van 
 
 ####Artikel 1
 
-1. Europese economische samenwerkingsverbanden worden opgericht onder de voorwaarden, op de wijze en met de gevolgen als in deze verordening bepaald. Hiertoe sluiten degenen die een samenwerkingsverband willen oprichten een overeenkomst en laten zij de inschrijving verrichten overeenkomstig artikel 6. 2. Het aldus opgerichte samenwerkingsverband is bevoegd om met ingang van de dag van de in artikel 6 bedoelde inschrijving in eigen naam drager te zijn van rechten en verplichtingen van elke aard, overeenkomsten aan te gaan of andere rechtshandelingen te verrichten en in rechte op te treden. 3. De Lid-Staten bepalen of de overeenkomstig artikel 6 in hun registers ingeschreven samenwerkingsverbanden al dan niet rechtspersoonlijkheid bezitten.  
+1. Europese economische samenwerkingsverbanden worden opgericht onder de voorwaarden, op de wijze en met de gevolgen als in deze verordening bepaald. Hiertoe sluiten degenen die een samenwerkingsverband willen oprichten een overeenkomst en laten zij de inschrijving verrichten overeenkomstig artikel 6. 2. Het aldus opgerichte samenwerkingsverband is bevoegd om met ingang van de dag van de in artikel 6 bedoelde inschrijving in eigen naam drager te zijn van rechten en verplichtingen van elke aard, overeenkomsten aan te gaan of andere rechtshandelingen te verrichten en in rechte op te treden. 3. De Lid-Staten bepalen of de overeenkomstig artikel 6 in hun registers ingeschreven samenwerkingsverbanden al dan niet rechtspersoonlijkheid bezitten. 
 
 ####Artikel 2
 
-1. Behoudens de bepalingen van deze verordening is het interne recht van de Staat van de zetel die in de oprichtingsovereenkomst is bepaald, van toepassing, enerzijds op de oprichtingsovereenkomst, behalve voor vragen betreffende de staat en de bevoegdheid van natuurlijke personen en de bevoegdheid van rechtspersonen, en anderzijds op het inwendig bestel van het samenwerkingsverband. 2. Indien een Staat uit meer dan één territoriale eenheid bestaat en elke eenheid daarvan eigen rechtsregels voor de in lid 1 bedoelde onderwerpen kent, wordt voor de bepaling van het overeenkomstig dit artikel toe te passen recht iedere territoriale eenheid als een Staat beschouwd.  
+1. Behoudens de bepalingen van deze verordening is het interne recht van de Staat van de zetel die in de oprichtingsovereenkomst is bepaald, van toepassing, enerzijds op de oprichtingsovereenkomst, behalve voor vragen betreffende de staat en de bevoegdheid van natuurlijke personen en de bevoegdheid van rechtspersonen, en anderzijds op het inwendig bestel van het samenwerkingsverband. 2. Indien een Staat uit meer dan één territoriale eenheid bestaat en elke eenheid daarvan eigen rechtsregels voor de in lid 1 bedoelde onderwerpen kent, wordt voor de bepaling van het overeenkomstig dit artikel toe te passen recht iedere territoriale eenheid als een Staat beschouwd. 
 
 ####Artikel 3
 
@@ -141,7 +141,7 @@ c. meer dan vijfhonderd werknemers in dienst te hebben;
 
 d. door een vennootschap te worden gebruikt om een lening te verstrekken aan een bestuurder van een vennootschap of aan met hem verbonden personen, wanneer dergelijke leningen onderworpen zijn aan beperkingen of toezicht volgens het vennootschapsrecht van de Lid-Staten; een samenwerkingsverband mag evenmin worden gebruikt voor de overdracht van goederen tussen een vennootschap en een bestuurder of met hem verbonden personen, behalve voor zover zulks door het vennootschapsrecht van de Lid-Staten is toegestaan. In de zin van deze bepaling wordt met lening ook elke handeling met een soortgelijk gevolg bedoeld en kan het goed zowel roerend als onroerend zijn;  
 
-e. lid te zijn van een ander Europees economisch samenwerkingsverband.    
+e. lid te zijn van een ander Europees economisch samenwerkingsverband.   
 
 ####Artikel 4
 
@@ -155,7 +155,7 @@ a. twee vennootschappen of andere juridische lichamen in de zin van lid 1 die hu
 
 b. twee natuurlijke personen in de zin van lid 1, die hun voornaamste werkzaamheid in verschillende Lid-Staten uitoefenen; of  
 
-c. een vennootschap of ander juridisch lichaam en een natuurlijke persoon in de zin van lid 1, van wie de eerste zijn hoofdkantoor in een Lid-Staat heeft en de tweede zijn voornaamste werkzaamheid in een andere Lid-Staat uitoefent.   3. Een Lid-Staat kan bepalen dat de overeenkomstig artikel 6 in zijn registers ingeschreven samenwerkingsverbanden niet meer dan 20 leden mogen hebben. Daartoe kan deze Lid-Staat bepalen dat elk lid van een overeenkomstig zijn wetgeving opgericht juridisch lichaam dat geen ingeschreven vennootschap is, in overeenstemming met zijn wetgeving, als een afzonderlijk lid van een samenwerkingsverband wordt behandeld. 4. Een Lid-Staat mag om redenen van algemeen belang de deelneming van bepaalde categorieën van natuurlijke personen, vennootschappen of andere juridische lichamen aan een samenwerkingsverband uitsluiten of beperken.  
+c. een vennootschap of ander juridisch lichaam en een natuurlijke persoon in de zin van lid 1, van wie de eerste zijn hoofdkantoor in een Lid-Staat heeft en de tweede zijn voornaamste werkzaamheid in een andere Lid-Staat uitoefent.   3. Een Lid-Staat kan bepalen dat de overeenkomstig artikel 6 in zijn registers ingeschreven samenwerkingsverbanden niet meer dan 20 leden mogen hebben. Daartoe kan deze Lid-Staat bepalen dat elk lid van een overeenkomstig zijn wetgeving opgericht juridisch lichaam dat geen ingeschreven vennootschap is, in overeenstemming met zijn wetgeving, als een afzonderlijk lid van een samenwerkingsverband wordt behandeld. 4. Een Lid-Staat mag om redenen van algemeen belang de deelneming van bepaalde categorieën van natuurlijke personen, vennootschappen of andere juridische lichamen aan een samenwerkingsverband uitsluiten of beperken. 
 
 ####Artikel 5
 
@@ -169,11 +169,11 @@ c. het doel waarvoor het samenwerkingsverband is opgericht;
 
 d. de naam, de handelsnaam of benaming, de rechtsvorm, de woonplaats of de maatschappelijke zetel alsmede, in voorkomend geval, het nummer en de plaats van inschrijving van elk van de leden van het samenwerkingsverband;  
 
-e. de duur van het samenwerkingsverband, tenzij deze onbepaald is.    
+e. de duur van het samenwerkingsverband, tenzij deze onbepaald is.   
 
 ####Artikel 6
 
-Het samenwerkingsverband wordt in de Lid-Staat van de zetel ingeschreven in het overeenkomstig artikel 39, lid 1, aangewezen register.  
+Het samenwerkingsverband wordt in de Lid-Staat van de zetel ingeschreven in het overeenkomstig artikel 39, lid 1, aangewezen register. 
 
 ####Artikel 7
 
@@ -197,7 +197,7 @@ h. de afsluiting van de vereffening van het samenwerkingsverband, bedoeld in art
 
 i. het voorstel tot zetelverplaatsing, bedoeld in artikel 14, lid 1;  
 
-j. het beding waarbij een nieuw lid overeenkomstig artikel 26, lid 2, wordt vrijgesteld van betaling van de schulden die vóór zijn toetreding zijn ontstaan.    
+j. het beding waarbij een nieuw lid overeenkomstig artikel 26, lid 2, wordt vrijgesteld van betaling van de schulden die vóór zijn toetreding zijn ontstaan.   
 
 ####Artikel 8
 
@@ -207,19 +207,19 @@ a. de gegevens die ingevolge artikel 5 in de oprichtingsovereenkomst moeten voor
 
 b. het nummer, de datum en de plaats van de inschrijving, alsmede de doorhaling van de inschrijving;  
 
-c. de in artikel 7, sub b tot en met j, bedoelde akten en gegevens.   De sub a en b bedoelde gegevens moeten volledig openbaar worden gemaakt. De sub c bedoelde akten en gegevens kunnen, overeenkomstig de toepasselijke nationale wet, hetzij volledig, hetzij in de vorm van een uittreksel of van een vermelding van nederlegging in het register openbaar worden gemaakt.  
+c. de in artikel 7, sub b tot en met j, bedoelde akten en gegevens.   De sub a en b bedoelde gegevens moeten volledig openbaar worden gemaakt. De sub c bedoelde akten en gegevens kunnen, overeenkomstig de toepasselijke nationale wet, hetzij volledig, hetzij in de vorm van een uittreksel of van een vermelding van nederlegging in het register openbaar worden gemaakt. 
 
 ####Artikel 9
 
-1. De akten en gegevens die ingevolge deze verordening openbaar moeten worden gemaakt, kunnen door het samenwerkingsverband aan derden worden tegengeworpen op de voet van de bepalingen van het nationale recht dat van toepassing is overeenkomstig artikel 3, leden 5 en 7, van Richtlijn 68/151/EEG van de Raad van 9 maart 1968 strekkende tot het coördineren van de waarborgen, welke in de Lid-Staten worden verlangd van de vennootschappen in de zin van de tweede alinea van artikel 58 van het Verdrag, om de belangen te beschermen zowel van de deelnemers in deze vennootschappen als van derden, zulks ten einde die waarborgen gelijkwaardig te maken . 2. Indien rechtshandelingen zijn verricht ten name van een samenwerkingsverband vóór de inschrijving overeenkomstig artikel 6, en indien het samenwerkingsverband de uit deze handelingen voortvloeiende verbintenissen na de inschrijving niet overneemt, zijn de natuurlijke personen, vennootschappen, of andere juridische lichamen die de handelingen hebben verricht, daarvoor hoofdelijk en onbeperkt aansprakelijk.  
+1. De akten en gegevens die ingevolge deze verordening openbaar moeten worden gemaakt, kunnen door het samenwerkingsverband aan derden worden tegengeworpen op de voet van de bepalingen van het nationale recht dat van toepassing is overeenkomstig artikel 3, leden 5 en 7, van Richtlijn 68/151/EEG van de Raad van 9 maart 1968 strekkende tot het coördineren van de waarborgen, welke in de Lid-Staten worden verlangd van de vennootschappen in de zin van de tweede alinea van artikel 58 van het Verdrag, om de belangen te beschermen zowel van de deelnemers in deze vennootschappen als van derden, zulks ten einde die waarborgen gelijkwaardig te maken . 2. Indien rechtshandelingen zijn verricht ten name van een samenwerkingsverband vóór de inschrijving overeenkomstig artikel 6, en indien het samenwerkingsverband de uit deze handelingen voortvloeiende verbintenissen na de inschrijving niet overneemt, zijn de natuurlijke personen, vennootschappen, of andere juridische lichamen die de handelingen hebben verricht, daarvoor hoofdelijk en onbeperkt aansprakelijk. 
 
 ####Artikel 10
 
-Elke vestiging van het samenwerkingsverband in een andere Lid-Staat dan die waar de zetel is gelegen, wordt in die Staat ingeschreven. Met het oog op deze inschrijving legt het samenwerkingsverband in het daartoe bestemde register van laatstgenoemde Staat een afschrift neer van de bescheiden die in het register van de Lid-Staat van de zetel moeten worden neergelegd, zo nodig vergezeld van een vertaling overeenkomstig het gebruik bij het register waar de vestiging wordt ingeschreven.  
+Elke vestiging van het samenwerkingsverband in een andere Lid-Staat dan die waar de zetel is gelegen, wordt in die Staat ingeschreven. Met het oog op deze inschrijving legt het samenwerkingsverband in het daartoe bestemde register van laatstgenoemde Staat een afschrift neer van de bescheiden die in het register van de Lid-Staat van de zetel moeten worden neergelegd, zo nodig vergezeld van een vertaling overeenkomstig het gebruik bij het register waar de vestiging wordt ingeschreven. 
 
 ####Artikel 11
 
-De oprichting en de afsluiting van de vereffening van een samenwerkingsvereband worden na bekendmaking in het in artikel 39, lid 1, bedoelde publikatieblad, met opgave van nummer, datum en plaats van inschrijving en datum, plaats en titel van de publikatie, opgenomen in het Publikatieblad van de Europese Gemeenschappen.  
+De oprichting en de afsluiting van de vereffening van een samenwerkingsvereband worden na bekendmaking in het in artikel 39, lid 1, bedoelde publikatieblad, met opgave van nummer, datum en plaats van inschrijving en datum, plaats en titel van de publikatie, opgenomen in het Publikatieblad van de Europese Gemeenschappen. 
 
 ####Artikel 12
 
@@ -227,23 +227,23 @@ De in de oprichtingsovereenkomst vermelde zetel moet zijn gevestigd in de Gemeen
 
 a. hetzij de plaats waar het samenwerkingsverband zijn hoofdkantoor heeft;  
 
-b. hetzij de plaats waar een van de leden van het samenwerkingsverband zijn hoofdkantoor heeft of, wanneer het een natuurlijke persoon betreft, zijn voornaamste werkzaamheden heeft, op voorwaarde dat het samenwerkingsverband aldaar een reële werkzaamheid heeft.    
+b. hetzij de plaats waar een van de leden van het samenwerkingsverband zijn hoofdkantoor heeft of, wanneer het een natuurlijke persoon betreft, zijn voornaamste werkzaamheden heeft, op voorwaarde dat het samenwerkingsverband aldaar een reële werkzaamheid heeft.   
 
 ####Artikel 13
 
-De zetel van het samenwerkingsverband kan binnen de Gemeenschap worden verplaatst. Wanneer de verplaatsing niet leidt tot wisseling van het ingevolge artikel 2 toepasselijke recht, komt het verplaatsingsbesluit tot stand op de wijze bepaald in de oprichtingsovereenkomst.  
+De zetel van het samenwerkingsverband kan binnen de Gemeenschap worden verplaatst. Wanneer de verplaatsing niet leidt tot wisseling van het ingevolge artikel 2 toepasselijke recht, komt het verplaatsingsbesluit tot stand op de wijze bepaald in de oprichtingsovereenkomst. 
 
 ####Artikel 14
 
-1. Wanneer de verplaatsing van de zetel ten gevolge heeft dat ingevolge artikel 2 een ander recht toepasselijk wordt, wordt een voorstel tot zetelverplaatsing opgesteld en op de in de artikelen 7 en 8 bepaalde wijze neergelegd en openbaar gemaakt. Het besluit tot zetelverplaatsing kan eerst na verloop van twee maanden te rekenen vanaf de openbaarmaking van genoemd voorstel tot stand komen. Het moet met eenparigheid van stemmen door de leden van het samenwerkingsverband worden genomen. De zetelverplaatsing wordt van kracht op de datum waarop het samenwerkingsverband overeenkomstig artikel 6 wordt ingeschreven in het register van de nieuwe zetel. Deze inschrijving kan slechts plaatsvinden na overlegging van het bewijs dat het voorstel tot zetelverplaatsing openbaar is gemaakt. 2. De doorhaling van de inschrijving van het samenwerkingsverband in het register van de vorige zetel kan eerst plaatshebben na overlegging van het bewijs dat het samenwerkingsverband in het register van de nieuwe zetel is ingeschreven. 3. De openbaarmaking van de nieuwe inschrijving van het samenwerkingsverband heeft ten gevolge dat de nieuwe zetel overeenkomstig artikel 9, lid 1, aan derden kan worden tegengeworpen; zolang de doorhaling van de inschrijving in het register van de vroegere zetel nog niet openbaar is gemaakt, kunnen derden zich echter blijven beroepen op de vroegere zetel, tenzij het samenwerkingsverband aantoont dat de derden kennis droegen van de nieuwe zetel. 4. In de wet van een Lid-Staat kan worden bepaald dat ten aanzien van samenwerkingsverbanden die overeenkomstig artikel 6 in die Lid-Staat zijn ingeschreven, een zetelverplaatsing die zou leiden tot wisseling van het toepasselijke recht, geen rechtsgevolg heeft indien een bevoegde autoriteit van die Staat daartegen binnen de in lid 1 bedoelde termijn van twee maanden bezwaar maakt. Dit bezwaar kan slechts worden opgemaakt om redenen van algemeen belang. Tegen het bezwaar moet beroep op de rechter openstaan.  
+1. Wanneer de verplaatsing van de zetel ten gevolge heeft dat ingevolge artikel 2 een ander recht toepasselijk wordt, wordt een voorstel tot zetelverplaatsing opgesteld en op de in de artikelen 7 en 8 bepaalde wijze neergelegd en openbaar gemaakt. Het besluit tot zetelverplaatsing kan eerst na verloop van twee maanden te rekenen vanaf de openbaarmaking van genoemd voorstel tot stand komen. Het moet met eenparigheid van stemmen door de leden van het samenwerkingsverband worden genomen. De zetelverplaatsing wordt van kracht op de datum waarop het samenwerkingsverband overeenkomstig artikel 6 wordt ingeschreven in het register van de nieuwe zetel. Deze inschrijving kan slechts plaatsvinden na overlegging van het bewijs dat het voorstel tot zetelverplaatsing openbaar is gemaakt. 2. De doorhaling van de inschrijving van het samenwerkingsverband in het register van de vorige zetel kan eerst plaatshebben na overlegging van het bewijs dat het samenwerkingsverband in het register van de nieuwe zetel is ingeschreven. 3. De openbaarmaking van de nieuwe inschrijving van het samenwerkingsverband heeft ten gevolge dat de nieuwe zetel overeenkomstig artikel 9, lid 1, aan derden kan worden tegengeworpen; zolang de doorhaling van de inschrijving in het register van de vroegere zetel nog niet openbaar is gemaakt, kunnen derden zich echter blijven beroepen op de vroegere zetel, tenzij het samenwerkingsverband aantoont dat de derden kennis droegen van de nieuwe zetel. 4. In de wet van een Lid-Staat kan worden bepaald dat ten aanzien van samenwerkingsverbanden die overeenkomstig artikel 6 in die Lid-Staat zijn ingeschreven, een zetelverplaatsing die zou leiden tot wisseling van het toepasselijke recht, geen rechtsgevolg heeft indien een bevoegde autoriteit van die Staat daartegen binnen de in lid 1 bedoelde termijn van twee maanden bezwaar maakt. Dit bezwaar kan slechts worden opgemaakt om redenen van algemeen belang. Tegen het bezwaar moet beroep op de rechter openstaan. 
 
 ####Artikel 15
 
-1. Wanneer het recht dat ingevolge artikel 2 van toepassing is op het samenwerkingsverband, de nietigheid van het samenwerkingsverband kent, moet die nietigheid worden vastgesteld of uitgesproken bij rechterlijke beslissing. De rechter dient echter, indien het gebrek van het samenwerkingsverband kan worden opgeheven, daarvoor een termijn toe te staan. 2. De nietigheid heeft tot gevolg dat het samenwerkingsverband wordt vereffend overeenkomstig artikel 35. 3. De beslissing waarbij de nietigheid van het samenwerkingsverband wordt vastgesteld of uitgesproken, kan op de voet van artikel 9, lid 1, aan derde worden tegengeworpen. Deze beslissing doet op zichzelf geen afbreuk aan de geldigheid van verbintenissen die vóór de datum waarop zij overeenkomstig de vorige alinea aan derden kan worden tegengeworpen, ten laste of ten gunste van het samenwerkingsverband zijn ontstaan.  
+1. Wanneer het recht dat ingevolge artikel 2 van toepassing is op het samenwerkingsverband, de nietigheid van het samenwerkingsverband kent, moet die nietigheid worden vastgesteld of uitgesproken bij rechterlijke beslissing. De rechter dient echter, indien het gebrek van het samenwerkingsverband kan worden opgeheven, daarvoor een termijn toe te staan. 2. De nietigheid heeft tot gevolg dat het samenwerkingsverband wordt vereffend overeenkomstig artikel 35. 3. De beslissing waarbij de nietigheid van het samenwerkingsverband wordt vastgesteld of uitgesproken, kan op de voet van artikel 9, lid 1, aan derde worden tegengeworpen. Deze beslissing doet op zichzelf geen afbreuk aan de geldigheid van verbintenissen die vóór de datum waarop zij overeenkomstig de vorige alinea aan derden kan worden tegengeworpen, ten laste of ten gunste van het samenwerkingsverband zijn ontstaan. 
 
 ####Artikel 16
 
-1. De organen van het samenwerkingsverband zijn de gezamenlijk handelende leden en de bestuurder of bestuurders. De oprichtingsovereenkomst kan bepalen dat er nog andere organen zijn; zij moet dan de bevoegdheden daarvan regelen. 2. De leden van het samenwerkingsverband, optredend als orgaan, kunnen alle besluiten nemen ter verwezenlijking van het doel van het samenwerkingsverband.  
+1. De organen van het samenwerkingsverband zijn de gezamenlijk handelende leden en de bestuurder of bestuurders. De oprichtingsovereenkomst kan bepalen dat er nog andere organen zijn; zij moet dan de bevoegdheden daarvan regelen. 2. De leden van het samenwerkingsverband, optredend als orgaan, kunnen alle besluiten nemen ter verwezenlijking van het doel van het samenwerkingsverband. 
 
 ####Artikel 17
 
@@ -261,11 +261,11 @@ e. wijziging van het aandeel van elk van de leden of van enkele hunner in de fin
 
 f. wijziging van enige andere verplichting van een lid, tenzij in de oprichtingsovereenkomst anders is bepaald;  
 
-g. niet in dit lid genoemde wijzigingen van de oprichtingsovereenkomst, tenzij in deze overeenkomst anders is bepaald.   3. In alle gevallen waarin deze verordening niet voorschrijft dat de besluiten met eenparigheid van stemmen moeten worden genomen, kan in de oprichtingsovereenkomst worden bepaald volgens welke regels inzake quorum of meerderheid alle of bepaalde besluiten worden genomen. Wanneer de overeenkomst daaromtrent niets bepaalt, worden de besluiten met eenparigheid van stemmen genomen. 4. Op initiatief van een bestuurder of op verzoek van een lid moet het bestuur een raadpleging van de leden houden opdat dezen een besluit nemen.  
+g. niet in dit lid genoemde wijzigingen van de oprichtingsovereenkomst, tenzij in deze overeenkomst anders is bepaald.   3. In alle gevallen waarin deze verordening niet voorschrijft dat de besluiten met eenparigheid van stemmen moeten worden genomen, kan in de oprichtingsovereenkomst worden bepaald volgens welke regels inzake quorum of meerderheid alle of bepaalde besluiten worden genomen. Wanneer de overeenkomst daaromtrent niets bepaalt, worden de besluiten met eenparigheid van stemmen genomen. 4. Op initiatief van een bestuurder of op verzoek van een lid moet het bestuur een raadpleging van de leden houden opdat dezen een besluit nemen. 
 
 ####Artikel 18
 
-Ieder lid heeft het recht om van het bestuur inlichtingen te verkrijgen over de gang van zaken in het samenwerkingsverband en om inzage te krijgen van de boekhouding en de zakelijke bescheiden.  
+Ieder lid heeft het recht om van het bestuur inlichtingen te verkrijgen over de gang van zaken in het samenwerkingsverband en om inzage te krijgen van de boekhouding en de zakelijke bescheiden. 
 
 ####Artikel 19
 
@@ -275,27 +275,27 @@ Ieder lid heeft het recht om van het bestuur inlichtingen te verkrijgen over de 
 
 – ingevolge het interne recht van de Staat van de zetel van het samenwerkingsverband, of  
 
-– ingevolge een rechterlijke of administratieve beslissing die in een Lid-Staat is gegeven of erkend,   geen deel mogen uitmaken van het bestuurs- of leidinggevende orgaan van een vennootschap, geen onderneming mogen leiden of niet mogen optreden als bestuurder van een Europees economisch samenwerkingsverband. 2. Een Lid-Staat kan ten aanzien van de overeenkomstig artikel 6 in zijn registers ingeschreven samenwerkingsverbanden bepalen dat een rechtspersoon bestuurder kan zijn, mits deze rechtspersoon een of meer natuurlijke personen als vertegenwoordigers aanwijst van wie de gegevens overeenkomstig artikel 7, sub d, moeten worden vermeld. Wanneer een Lid-Staat van deze mogelijkheid gebruik maakt, schrijft hij voor dat deze vertegenwoordigers de aansprakelijkheid hebben als waren zij zelf bestuurder van het samenwerkingsverband. De in lid 1 vervatte verbodsbepalingen zijn eveneens op deze vertegenwoordigers van toepassing. 3. In de oprichtingsovereenkomst of, als deze hieromtrent niets bepaalt, bij eenparig besluit van de leden, worden de voorwaarden vastgesteld voor benoeming en ontslag van de bestuurder of bestuurders en worden zijn/hun bevoegdheden vastgesteld.  
+– ingevolge een rechterlijke of administratieve beslissing die in een Lid-Staat is gegeven of erkend,   geen deel mogen uitmaken van het bestuurs- of leidinggevende orgaan van een vennootschap, geen onderneming mogen leiden of niet mogen optreden als bestuurder van een Europees economisch samenwerkingsverband. 2. Een Lid-Staat kan ten aanzien van de overeenkomstig artikel 6 in zijn registers ingeschreven samenwerkingsverbanden bepalen dat een rechtspersoon bestuurder kan zijn, mits deze rechtspersoon een of meer natuurlijke personen als vertegenwoordigers aanwijst van wie de gegevens overeenkomstig artikel 7, sub d, moeten worden vermeld. Wanneer een Lid-Staat van deze mogelijkheid gebruik maakt, schrijft hij voor dat deze vertegenwoordigers de aansprakelijkheid hebben als waren zij zelf bestuurder van het samenwerkingsverband. De in lid 1 vervatte verbodsbepalingen zijn eveneens op deze vertegenwoordigers van toepassing. 3. In de oprichtingsovereenkomst of, als deze hieromtrent niets bepaalt, bij eenparig besluit van de leden, worden de voorwaarden vastgesteld voor benoeming en ontslag van de bestuurder of bestuurders en worden zijn/hun bevoegdheden vastgesteld. 
 
 ####Artikel 20
 
-1. Tegenover derden vertegenwoordigt alleen de bestuurder, of indien er meer bestuurders zijn, elke bestuurder, het samenwerkingsverband. Elke bestuurder verbindt het samenwerkingsverband tegenover derden wanneer hij namens het samenwerkingsverband handelt, zelfs indien zijn handelingen niet binnen het doel van het samenwerkingsverband vallen, tenzij het samenwerkingsverband aantoont dat de derde wist dat de handeling de grenzen van het doel van het samenwerkingsverband overschreed, of hiervan, gezien de omstandigheden, niet onkundig kon zijn; de openbaarmaking van de in artikel 5, sub c, bedoelde vermelding levert daarvoor op zichzelf echter geen voldoende bewijs op. Een bij de oprichtingsovereenkomst of bij een besluit der leden aangebrachte beperking van de bevoegdheden van de bestuurder of bestuurders kan aan derden niet worden tegengeworpen, ook niet wanneer deze is bekendgemaakt. 2. In de oprichtingsovereenkomst kan worden bepaald dat het samenwerkingsverband slechts rechtsgeldig kan worden gebonden door twee of meer gezamenlijke handelende bestuurders. Deze bepaling kan op de voet van artikel 9, lid 1, slechts aan derden worden tegengeworpen wanneer zij overeenkomstig artikel 8 is gepubliceerd.  
+1. Tegenover derden vertegenwoordigt alleen de bestuurder, of indien er meer bestuurders zijn, elke bestuurder, het samenwerkingsverband. Elke bestuurder verbindt het samenwerkingsverband tegenover derden wanneer hij namens het samenwerkingsverband handelt, zelfs indien zijn handelingen niet binnen het doel van het samenwerkingsverband vallen, tenzij het samenwerkingsverband aantoont dat de derde wist dat de handeling de grenzen van het doel van het samenwerkingsverband overschreed, of hiervan, gezien de omstandigheden, niet onkundig kon zijn; de openbaarmaking van de in artikel 5, sub c, bedoelde vermelding levert daarvoor op zichzelf echter geen voldoende bewijs op. Een bij de oprichtingsovereenkomst of bij een besluit der leden aangebrachte beperking van de bevoegdheden van de bestuurder of bestuurders kan aan derden niet worden tegengeworpen, ook niet wanneer deze is bekendgemaakt. 2. In de oprichtingsovereenkomst kan worden bepaald dat het samenwerkingsverband slechts rechtsgeldig kan worden gebonden door twee of meer gezamenlijke handelende bestuurders. Deze bepaling kan op de voet van artikel 9, lid 1, slechts aan derden worden tegengeworpen wanneer zij overeenkomstig artikel 8 is gepubliceerd. 
 
 ####Artikel 21
 
-1. De winst die uit de werkzaamheid van het samenwerkingsvereband ontstaan, wordt beschouwd als winst van de leden, en wordt verdeeld in de verhouding die is vastgesteld in de oprichtingsovereenkomst of, indien deze daaromtrent niet bepaalt, in gelijke delen. 2. De leden van het samenwerkingsverband dragen bij tot de aanzuivering van het bedrag waarmee de uitgaven de inkomsten overtreffen, en wel in de verhouding die is vastgesteld in de oprichtingsovereenkomst of, indien deze daaromtrent niets bepaalt, in gelijke delen.  
+1. De winst die uit de werkzaamheid van het samenwerkingsvereband ontstaan, wordt beschouwd als winst van de leden, en wordt verdeeld in de verhouding die is vastgesteld in de oprichtingsovereenkomst of, indien deze daaromtrent niet bepaalt, in gelijke delen. 2. De leden van het samenwerkingsverband dragen bij tot de aanzuivering van het bedrag waarmee de uitgaven de inkomsten overtreffen, en wel in de verhouding die is vastgesteld in de oprichtingsovereenkomst of, indien deze daaromtrent niets bepaalt, in gelijke delen. 
 
 ####Artikel 22
 
-1. Elk lid van het samenwerkingsverband kan zijn deelneming in het samenwerkingsverband of een gedeelte daarvan hetzij aan een ander lid, hetzij aan een derde overdragen; deze overdracht is slechts geldig indien de overige leden daartoe met eenparigheid van stemmen toestemming hebben verleend. 2. Een lid van het samenwerkingsverband kan zijn deelneming daarin alleen dan met een zekerheidsrecht bezwaren, wanneer daartoe door de overige leden met eenparigheid van stemmen toestemming is verleend, tenzij in de oprichtingsovereenkomst anders is bepaald. De rechthebbende op het zekerheidsrecht kan nimmer op grond van dat recht lid van het samenwerkingsverband worden.  
+1. Elk lid van het samenwerkingsverband kan zijn deelneming in het samenwerkingsverband of een gedeelte daarvan hetzij aan een ander lid, hetzij aan een derde overdragen; deze overdracht is slechts geldig indien de overige leden daartoe met eenparigheid van stemmen toestemming hebben verleend. 2. Een lid van het samenwerkingsverband kan zijn deelneming daarin alleen dan met een zekerheidsrecht bezwaren, wanneer daartoe door de overige leden met eenparigheid van stemmen toestemming is verleend, tenzij in de oprichtingsovereenkomst anders is bepaald. De rechthebbende op het zekerheidsrecht kan nimmer op grond van dat recht lid van het samenwerkingsverband worden. 
 
 ####Artikel 23
 
-Het samenwerkingsverband kan geen openbaar beroep doen op de kapitaalmarkt.  
+Het samenwerkingsverband kan geen openbaar beroep doen op de kapitaalmarkt. 
 
 ####Artikel 24
 
-1. De leden van het samenwerkingsverband zijn onbeperkt en hoofdelijk aansprakelijk voor de schulden van het samenwerkingsverband, ongeacht de aard daarvan. Het nationale recht bepaalt de gevolgen van deze aansprakelijkheid. 2. Tot aan de afsluiting van de vereffening van het samenwerkingsverband kunnen schuldeisers van het samenwerkingsverband een lid op de in lid 1 bedoelde wijze slechts voor betaling van schulden aanspreken nadat het samenwerkingsverband om betaling is verzocht en deze betaling niet binnen een toereikende termijn heeft plaatsgevonden.  
+1. De leden van het samenwerkingsverband zijn onbeperkt en hoofdelijk aansprakelijk voor de schulden van het samenwerkingsverband, ongeacht de aard daarvan. Het nationale recht bepaalt de gevolgen van deze aansprakelijkheid. 2. Tot aan de afsluiting van de vereffening van het samenwerkingsverband kunnen schuldeisers van het samenwerkingsverband een lid op de in lid 1 bedoelde wijze slechts voor betaling van schulden aanspreken nadat het samenwerkingsverband om betaling is verzocht en deze betaling niet binnen een toereikende termijn heeft plaatsgevonden. 
 
 ####Artikel 25
 
@@ -309,27 +309,27 @@ c. het adres van deze zetel van het samenwerkingsverband;
 
 d. in voorkomend geval, dat de bestuurders gezamenlijk moeten handelen;  
 
-e. in voorkomend geval, dat het samenwerkingsverband zich overeenkomstig artikel 15, 31, 32 of 36 in staat van vereffening bevindt.   Elke vestiging van het samenwerkingsverband moet, wanneer zij overeenkomstig artikel 10 is ingeschreven, op de in de eerste alinea van het onderhavige artikel bedoelde stukken afkomstig van die vestiging de bovengenoemde gegevens vermelden, samen met de gegevens betreffende de inschrijving van die vestiging zelf.  
+e. in voorkomend geval, dat het samenwerkingsverband zich overeenkomstig artikel 15, 31, 32 of 36 in staat van vereffening bevindt.   Elke vestiging van het samenwerkingsverband moet, wanneer zij overeenkomstig artikel 10 is ingeschreven, op de in de eerste alinea van het onderhavige artikel bedoelde stukken afkomstig van die vestiging de bovengenoemde gegevens vermelden, samen met de gegevens betreffende de inschrijving van die vestiging zelf. 
 
 ####Artikel 26
 
-1. Over de toetreding van nieuwe leden beslissen de leden van het samenwerkingsverband met eenparigheid van stemmen. 2. Elk nieuw lid is op de voet van artikel 24 aansprakelijk voor de schulden van het samenwerkingsverband, met inbegrip van de schulden die voortvloeien uit de werkzaamheid van het samenwerkingsverband vóór zijn toetreding. Hij kan evenwel door een bepaling in de oprichtingsovereenkomst of in het toetredingsbesluit worden vrijgesteld van betaling van de schulden die vóór zijn toetreding zijn ontstaan. Deze bepaling zal op de voet van artikel 9, lid 1, slechts aan derden kunnen worden tegengeworpen wanneer zij overeenkomstig artikel 8 is gepubliceerd.  
+1. Over de toetreding van nieuwe leden beslissen de leden van het samenwerkingsverband met eenparigheid van stemmen. 2. Elk nieuw lid is op de voet van artikel 24 aansprakelijk voor de schulden van het samenwerkingsverband, met inbegrip van de schulden die voortvloeien uit de werkzaamheid van het samenwerkingsverband vóór zijn toetreding. Hij kan evenwel door een bepaling in de oprichtingsovereenkomst of in het toetredingsbesluit worden vrijgesteld van betaling van de schulden die vóór zijn toetreding zijn ontstaan. Deze bepaling zal op de voet van artikel 9, lid 1, slechts aan derden kunnen worden tegengeworpen wanneer zij overeenkomstig artikel 8 is gepubliceerd. 
 
 ####Artikel 27
 
-1. Een lid van het samenwerkingsverband kan slechts uittreden met inachtneming van de bepalingen van de oprichtingsovereenkomst of, bij ontbreken daarvan, met eenstemmige goedkeuring van de overige leden. Een lid van het samenwerkingsverband kan bovendien uittreden wegens een gegronde reden. 2. Een lid van het samenwerkingsverband kan worden uitgesloten wegens de redenen die zijn vermeld in de oprichtingsovereenkomst en in ieder geval wanneer hij ernstig te kort schiet in zijn verplichtingen of de werking van het samenwerkingsverband ernstig verstoort of dreigt te verstoren. Deze uitsluiting kan slechts geschieden bij rechterlijke beslissing op gezamenlijk verzoek van de meerderheid der overige leden, tenzij de oprichtingsovereenkomst anders bepaalt.  
+1. Een lid van het samenwerkingsverband kan slechts uittreden met inachtneming van de bepalingen van de oprichtingsovereenkomst of, bij ontbreken daarvan, met eenstemmige goedkeuring van de overige leden. Een lid van het samenwerkingsverband kan bovendien uittreden wegens een gegronde reden. 2. Een lid van het samenwerkingsverband kan worden uitgesloten wegens de redenen die zijn vermeld in de oprichtingsovereenkomst en in ieder geval wanneer hij ernstig te kort schiet in zijn verplichtingen of de werking van het samenwerkingsverband ernstig verstoort of dreigt te verstoren. Deze uitsluiting kan slechts geschieden bij rechterlijke beslissing op gezamenlijk verzoek van de meerderheid der overige leden, tenzij de oprichtingsovereenkomst anders bepaalt. 
 
 ####Artikel 28
 
-1. Een lid van een samenwerkingsverband houdt op daarvan deel uit te maken zodra hij overlijdt of niet meer voldoet aan de voorwaarden van artikel 4, lid 1. Bovendien kan een Lid-Staat in het kader van zijn wetgeving inzake vereffening, ontbinding, insolventie of staking van betaling, bepalen dat een lid ophoudt deel uit te maken van een samenwerkingsverband op het in deze wetgeving vastgestelde tijdstip. 2. In geval van overlijden van een natuurlijke persoon die lid van het samenwerkingsverband is, kan zijn plaats in het samenwerkingsverband slechts door een ander worden ingenomen met inachtneming van de bepalingen van de oprichtingsovereenkomst, of bij gebreke daarvan, met eenstemmige goedkeuring van de overblijvende leden.  
+1. Een lid van een samenwerkingsverband houdt op daarvan deel uit te maken zodra hij overlijdt of niet meer voldoet aan de voorwaarden van artikel 4, lid 1. Bovendien kan een Lid-Staat in het kader van zijn wetgeving inzake vereffening, ontbinding, insolventie of staking van betaling, bepalen dat een lid ophoudt deel uit te maken van een samenwerkingsverband op het in deze wetgeving vastgestelde tijdstip. 2. In geval van overlijden van een natuurlijke persoon die lid van het samenwerkingsverband is, kan zijn plaats in het samenwerkingsverband slechts door een ander worden ingenomen met inachtneming van de bepalingen van de oprichtingsovereenkomst, of bij gebreke daarvan, met eenstemmige goedkeuring van de overblijvende leden. 
 
 ####Artikel 29
 
-Zodra een lid ophoudt deel uit te maken van het samenwerkingsverband moet het bestuur daarvan kennis geven aan de overige leden; het moet eveneens aan de ter zake toepasselijke verplichtingen van de artikelen 7 en 8 voldoen. Bovendien kan elke belanghebbende aan deze verplichtingen voldoen.  
+Zodra een lid ophoudt deel uit te maken van het samenwerkingsverband moet het bestuur daarvan kennis geven aan de overige leden; het moet eveneens aan de ter zake toepasselijke verplichtingen van de artikelen 7 en 8 voldoen. Bovendien kan elke belanghebbende aan deze verplichtingen voldoen. 
 
 ####Artikel 30
 
-Tenzij in de oprichtingsovereenkomst anders is bepaald en onverminderd de door iemand krachtens artikel 22, lid 1, of artikel 28, lid 2, verkregen rechten blijft, nadat een lid heeft opgehouden ervan deel uit te maken, het samenwerkingsverband tussen de overblijvende leden voortbestaan op de voet van de bepalingen van de oprichtingsovereenkomst of onder de voorwaarden vastgesteld bij eenstemmig besluit van de betrokken leden.  
+Tenzij in de oprichtingsovereenkomst anders is bepaald en onverminderd de door iemand krachtens artikel 22, lid 1, of artikel 28, lid 2, verkregen rechten blijft, nadat een lid heeft opgehouden ervan deel uit te maken, het samenwerkingsverband tussen de overblijvende leden voortbestaan op de voet van de bepalingen van de oprichtingsovereenkomst of onder de voorwaarden vastgesteld bij eenstemmig besluit van de betrokken leden. 
 
 ####Artikel 31
 
@@ -337,47 +337,47 @@ Tenzij in de oprichtingsovereenkomst anders is bepaald en onverminderd de door i
 
 a. wordt vastgesteld dat de in de overeenkomst bepaalde termijn is verstreken of dat er een andere, in de overeenkomst vermelde reden tot ontbinding bestaat; dan wel  
 
-b. wordt vastgesteld dat het doel van het samenwerkingsverband is verwezenlijkt of niet meer dan worden nagestreefd.   Wanneer binnen drie maanden nadat één van de in de vorige alinea bedoelde situaties is ontstaan, door de leden geen besluit tot ontbinding is genomen, kan elk lid de rechter verzoeken deze ontbinding uit te spreken. 3. Het samenwerkingsverband moet eveneens worden ontbonden bij besluit van zijn leden of van het overblijvende lid, indien niet meer aan de voorwaarden van artikel 4, lid 2, wordt voldaan. 4. Nadat het samenwerkingsverband bij besluit van zijn leden is ontbonden, moet het bestuur aan de ter zake toepasselijke verplichtingen van de artikelen 7 en 8 voldoen. Bovendien kan elke belanghebbende aan de bedoelde verplichtingen voldoen.  
+b. wordt vastgesteld dat het doel van het samenwerkingsverband is verwezenlijkt of niet meer dan worden nagestreefd.   Wanneer binnen drie maanden nadat één van de in de vorige alinea bedoelde situaties is ontstaan, door de leden geen besluit tot ontbinding is genomen, kan elk lid de rechter verzoeken deze ontbinding uit te spreken. 3. Het samenwerkingsverband moet eveneens worden ontbonden bij besluit van zijn leden of van het overblijvende lid, indien niet meer aan de voorwaarden van artikel 4, lid 2, wordt voldaan. 4. Nadat het samenwerkingsverband bij besluit van zijn leden is ontbonden, moet het bestuur aan de ter zake toepasselijke verplichtingen van de artikelen 7 en 8 voldoen. Bovendien kan elke belanghebbende aan de bedoelde verplichtingen voldoen. 
 
 ####Artikel 32
 
-1. Op verzoek van een belanghebbende of van een bevoegde autoriteit moet de rechter een samenwerkingsverband ontbinden in geval van overtreding van artikel 3, artikel 12 of artikel 31, lid 3, tenzij opheffing van het gebrek van het samenwerkingsverband mogelijk is en plaatsvindt voordat ten gronde over de ontbinding is beslist. 2. Op verzoek van een lid kan de rechter het samenwerkingsverband wegens een gegronde reden ontbinden. 3. Een Lid-Staat kan bepalen dat de rechter, op verzoek van een bevoegde autoriteit, een samenwerkingsverband dat zijn zetel heeft in de Staat waartoe die autoriteit behoort, kan ontbinden in alle gevallen waarin de werkzaamheid van het samenwerkingsverband strijdig is met het algemeen belang van die Staat, indien de wet van die Staat deze mogelijkheid kent voor ingeschreven vennootschappen of andere juridische lichamen welke onder die wetgeving vallen.  
+1. Op verzoek van een belanghebbende of van een bevoegde autoriteit moet de rechter een samenwerkingsverband ontbinden in geval van overtreding van artikel 3, artikel 12 of artikel 31, lid 3, tenzij opheffing van het gebrek van het samenwerkingsverband mogelijk is en plaatsvindt voordat ten gronde over de ontbinding is beslist. 2. Op verzoek van een lid kan de rechter het samenwerkingsverband wegens een gegronde reden ontbinden. 3. Een Lid-Staat kan bepalen dat de rechter, op verzoek van een bevoegde autoriteit, een samenwerkingsverband dat zijn zetel heeft in de Staat waartoe die autoriteit behoort, kan ontbinden in alle gevallen waarin de werkzaamheid van het samenwerkingsverband strijdig is met het algemeen belang van die Staat, indien de wet van die Staat deze mogelijkheid kent voor ingeschreven vennootschappen of andere juridische lichamen welke onder die wetgeving vallen. 
 
 ####Artikel 33
 
-Indien een lid ophoudt deel uit te maken van het samenwerkingsverband om een andere reden dan overdracht van zijn rechten op de voet van artikel 22, lid 1, wordt de waarde van zijn rechten en verplichtingen bepaald op de grondslag van het vermogen van het samenwerkingsverband op het tijdstip waarop het lid ophoudt er deel van uit te maken. De waarde van de rechten en verplichtingen van het uittredende lid mag niet vooraf forfaitair worden vastgesteld.  
+Indien een lid ophoudt deel uit te maken van het samenwerkingsverband om een andere reden dan overdracht van zijn rechten op de voet van artikel 22, lid 1, wordt de waarde van zijn rechten en verplichtingen bepaald op de grondslag van het vermogen van het samenwerkingsverband op het tijdstip waarop het lid ophoudt er deel van uit te maken. De waarde van de rechten en verplichtingen van het uittredende lid mag niet vooraf forfaitair worden vastgesteld. 
 
 ####Artikel 34
 
-Onverminderd artikel 37, lid 1, blijft een lid dat ophoudt deel uit te maken van het samenwerkingsverband, op de voet van artikel 24 aansprakelijk voor de schulden die voortvloeien uit de werkzaamheid van het samenwerkingsverband vóór de beëindiging van zijn lidmaatschap.  
+Onverminderd artikel 37, lid 1, blijft een lid dat ophoudt deel uit te maken van het samenwerkingsverband, op de voet van artikel 24 aansprakelijk voor de schulden die voortvloeien uit de werkzaamheid van het samenwerkingsverband vóór de beëindiging van zijn lidmaatschap. 
 
 ####Artikel 35
 
-1. De ontbinding van het samenwerkingsverband heeft de vereffening ervan tot gevolg. 2. De vereffening van het samenwerkingsverband en de afsluiting van die vereffening worden beheerst door het nationale recht. 3. Het samenwerkingsverband behoudt zijn bevoegdheid als bedoeld in artikel 1, lid 2, tot aan de afsluiting van de vereffening. 4. De vereffenaar of vereffenaars voldoet/voldoen aan de ter zake toepasselijke verplichtingen van de artikelen 7 en 8.  
+1. De ontbinding van het samenwerkingsverband heeft de vereffening ervan tot gevolg. 2. De vereffening van het samenwerkingsverband en de afsluiting van die vereffening worden beheerst door het nationale recht. 3. Het samenwerkingsverband behoudt zijn bevoegdheid als bedoeld in artikel 1, lid 2, tot aan de afsluiting van de vereffening. 4. De vereffenaar of vereffenaars voldoet/voldoen aan de ter zake toepasselijke verplichtingen van de artikelen 7 en 8. 
 
 ####Artikel 36
 
-Europese economische samenwerkingsverbanden zijn onderworpen aan de nationale rechtsregels inzake insolventie en staking van betaling. Het instellen van een procedure tegen een samenwerkingsverband wegens insolventie of staking van betaling brengt niet vanzelf mee dat een dergelijke procedure tegen de leden van het samenwerkingsverband wordt ingesteld.  
+Europese economische samenwerkingsverbanden zijn onderworpen aan de nationale rechtsregels inzake insolventie en staking van betaling. Het instellen van een procedure tegen een samenwerkingsverband wegens insolventie of staking van betaling brengt niet vanzelf mee dat een dergelijke procedure tegen de leden van het samenwerkingsverband wordt ingesteld. 
 
 ####Artikel 37
 
-1. In alle gevallen waarin het toepasselijke nationale recht een langere verjaringstermijn kent, geldt in plaats daarvan een verjaringstermijn van vijf jaar na de openbaarmaking overeenkomstig artikel 8 van het vertrek van een lid uit het samenwerkingsverband, voor rechtsvorderingen tegen dit lid ter zake van schulden die voortvloeien uit de werkzaamheid van het samenwerkingsverband vóór de beëindiging van zijn lidmaatschap. 2. In alle gevallen waarin het toepasselijke nationale recht een langere verjaringstermijn kent, geldt in plaats daarvan een verjaringstermijn van vijf jaar na de openbaarmaking overeenkomstig artikel 8 van de afsluiting van de vereffening van het samenwerkingsverband voor rechtsvorderingen tegen een lid van het samenwerkingsverband ter zake van schulden die uit de werkzaamheid van het samenwerkingsverband voortvloeien.  
+1. In alle gevallen waarin het toepasselijke nationale recht een langere verjaringstermijn kent, geldt in plaats daarvan een verjaringstermijn van vijf jaar na de openbaarmaking overeenkomstig artikel 8 van het vertrek van een lid uit het samenwerkingsverband, voor rechtsvorderingen tegen dit lid ter zake van schulden die voortvloeien uit de werkzaamheid van het samenwerkingsverband vóór de beëindiging van zijn lidmaatschap. 2. In alle gevallen waarin het toepasselijke nationale recht een langere verjaringstermijn kent, geldt in plaats daarvan een verjaringstermijn van vijf jaar na de openbaarmaking overeenkomstig artikel 8 van de afsluiting van de vereffening van het samenwerkingsverband voor rechtsvorderingen tegen een lid van het samenwerkingsverband ter zake van schulden die uit de werkzaamheid van het samenwerkingsverband voortvloeien. 
 
 ####Artikel 38
 
-Wanneer een samenwerkingsverband in een Lid-Staat een werkzaamheid verricht die strijdig is met het algemeen belang van die Staat, kan een bevoegde autoriteit van die Staat die werkzaamheid verbieden. Tegen de beslissing van die bevoegde autoriteit moet beroep openstaan bij een rechterlijke instantie.  
+Wanneer een samenwerkingsverband in een Lid-Staat een werkzaamheid verricht die strijdig is met het algemeen belang van die Staat, kan een bevoegde autoriteit van die Staat die werkzaamheid verbieden. Tegen de beslissing van die bevoegde autoriteit moet beroep openstaan bij een rechterlijke instantie. 
 
 ####Artikel 39
 
-1. De Lid-Staten wijzen het register of de registers aan waar de in de artikelen 6 en 10 bedoelde inschrijving moet geschieden en stellen de regels vast die op deze inschrijving van toepassing zijn. Zij stellen bepalingen vast betreffende de nederlegging van de in de artikelen 7 en 10 bedoelde bescheiden. Zij dragen er zorg voor dat de akten en gegevens bedoeld in artikel 8 worden bekendgemaakt in het daarvoor in aanmerking komende officiële publikatieblad van de Lid-Staat waar het samenwerkingsverband zijn zetel heeft en stellen zo nodig de wijze van openbaarmaking vast van de in artikel 8, sub c, bedoelde akten en gegevens. Voorts dragen de Lid-Staten er zorg voor dat een ieder in het daartoe bestemde register uit hoofde van artikel 6, of, in voorkomend geval, van artikel 10, kennis kan nemen van de in artikel 7 bedoelde bescheiden en hiervan een volledig of gedeeltelijk afschrift kan verkrijgen, eventueel per post. De Lid-Staten kunnen bepalen dat de kosten in verband met de in de vorige alinea’s bedoelde verrichtingen moeten worden betaald, zonder dat deze kosten meer mogen bedragen dan de daaraan verbonden administratieve kosten. 2. De Lid-Staten dragen er zorg voor dat de gegevens in het Publikatieblad van de Europese Gemeenschappen moeten worden gepubliceerd krachtens artikel 11, aan het Bureau voor officiële publikaties van de Europese Gemeenschappen worden medegedeeld in de maand volgende op de publikatie in het in lid 1 bedoelde officiële publikatieblad. 3. De Lid-Staten stellen passende sancties vast in geval van niet-naleving van de artikelen 7, 8 en 10 inzake openbaarmaking en van artikel 25.  
+1. De Lid-Staten wijzen het register of de registers aan waar de in de artikelen 6 en 10 bedoelde inschrijving moet geschieden en stellen de regels vast die op deze inschrijving van toepassing zijn. Zij stellen bepalingen vast betreffende de nederlegging van de in de artikelen 7 en 10 bedoelde bescheiden. Zij dragen er zorg voor dat de akten en gegevens bedoeld in artikel 8 worden bekendgemaakt in het daarvoor in aanmerking komende officiële publikatieblad van de Lid-Staat waar het samenwerkingsverband zijn zetel heeft en stellen zo nodig de wijze van openbaarmaking vast van de in artikel 8, sub c, bedoelde akten en gegevens. Voorts dragen de Lid-Staten er zorg voor dat een ieder in het daartoe bestemde register uit hoofde van artikel 6, of, in voorkomend geval, van artikel 10, kennis kan nemen van de in artikel 7 bedoelde bescheiden en hiervan een volledig of gedeeltelijk afschrift kan verkrijgen, eventueel per post. De Lid-Staten kunnen bepalen dat de kosten in verband met de in de vorige alinea’s bedoelde verrichtingen moeten worden betaald, zonder dat deze kosten meer mogen bedragen dan de daaraan verbonden administratieve kosten. 2. De Lid-Staten dragen er zorg voor dat de gegevens in het Publikatieblad van de Europese Gemeenschappen moeten worden gepubliceerd krachtens artikel 11, aan het Bureau voor officiële publikaties van de Europese Gemeenschappen worden medegedeeld in de maand volgende op de publikatie in het in lid 1 bedoelde officiële publikatieblad. 3. De Lid-Staten stellen passende sancties vast in geval van niet-naleving van de artikelen 7, 8 en 10 inzake openbaarmaking en van artikel 25. 
 
 ####Artikel 40
 
-Het resultaat van de werkzaamheid van het samenwerkingsverband is slechts bij zijn leden belastbaar.  
+Het resultaat van de werkzaamheid van het samenwerkingsverband is slechts bij zijn leden belastbaar. 
 
 ####Artikel 41
 
-1. De Lid-Staten nemen de krachtens artikel 39 vereiste maatregelen vóór 1 juli 1989. Zij delen deze onmiddellijk mede aan de Commissie. 2. De Lid-Staten delen de Commissie voor kennisgeving mede welke categorieën natuurlijke personen, vennootschappen of andere juridische lichamen zij volgens artikel 4, lid 4, van deelneming aan een samenwerkingsverband hebben uitgesloten. De Commissie stelt de andere Lid-Staten daarvan in kennis.  
+1. De Lid-Staten nemen de krachtens artikel 39 vereiste maatregelen vóór 1 juli 1989. Zij delen deze onmiddellijk mede aan de Commissie. 2. De Lid-Staten delen de Commissie voor kennisgeving mede welke categorieën natuurlijke personen, vennootschappen of andere juridische lichamen zij volgens artikel 4, lid 4, van deelneming aan een samenwerkingsverband hebben uitgesloten. De Commissie stelt de andere Lid-Staten daarvan in kennis. 
 
 ####Artikel 42
 
@@ -385,15 +385,15 @@ Het resultaat van de werkzaamheid van het samenwerkingsverband is slechts bij zi
 
 a. onverminderd de artikelen 169 en 170 van het Verdrag de uitvoering van de verordening te bevorderen door regelmatig overleg over met name de concrete problemen die zich bij die uitvoering voordoen;  
 
-b. zo nodig de Commissie van advies te dienen inzake aanvullingen op of wijzigingen of in deze verordening.   2. Het Contactcomité is samengesteld uit vertegenwoordigers van de Lid-Staten en van de Commissie. Het voorzitterschap berust bij een vertegenwoordiger van de Commissie. Het secretariaat wordt verzorgd door de diensten van de Commissie. 3. Het Contactcomité wordt bijeengeroepen door zijn voorzitter, hetzij op diens initiatief, hetzij op verzoek van een van de leden.  
+b. zo nodig de Commissie van advies te dienen inzake aanvullingen op of wijzigingen of in deze verordening.   2. Het Contactcomité is samengesteld uit vertegenwoordigers van de Lid-Staten en van de Commissie. Het voorzitterschap berust bij een vertegenwoordiger van de Commissie. Het secretariaat wordt verzorgd door de diensten van de Commissie. 3. Het Contactcomité wordt bijeengeroepen door zijn voorzitter, hetzij op diens initiatief, hetzij op verzoek van een van de leden. 
 
 ####Artikel 43
 
-Deze verordening treedt in werking op de derde dag volgende op die van haar bekendmaking in het Publikatieblad van de Europese Gemeenschappen. Deze verordening is van toepassing met ingang van 1 juli 1989, met uitzondering van de artikelen 39, 41 en 42, die van toepassing zijn vanaf de inwerkingtreding van de verordening. Deze verordening is verbindend in al haar onderdelen en is rechtstreeks toepasselijk in elke Lid-Staat.  
+Deze verordening treedt in werking op de derde dag volgende op die van haar bekendmaking in het Publikatieblad van de Europese Gemeenschappen. Deze verordening is van toepassing met ingang van 1 juli 1989, met uitzondering van de artikelen 39, 41 en 42, die van toepassing zijn vanaf de inwerkingtreding van de verordening. Deze verordening is verbindend in al haar onderdelen en is rechtstreeks toepasselijk in elke Lid-Staat. 
 
 Gedaan te Brussel 
 25 juli 1985   
 
 Voor de Raad, de 
-Voorzitter
-J.Poos  
+Voorzitter 
+J. Poos    

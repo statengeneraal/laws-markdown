@@ -2,7 +2,7 @@
 
 ##Besluit beroep in belastingzaken 2000
 
-De Staatssecretaris van Financiën,  Besluit: Vast te stellen het volgende besluit voor de ambtenaren van de Belastingdienst met betrekking tot de uitvoering van de betreffende bepalingen uit de [Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (Wet van 4 juni 1992, Stb. 1994,1, laatstelijk gewijzigd bij Wet van 22 december 1999, Stb. 575 en de [Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (Wet van 2 juli 1959, Stb. 301, laatstelijk gewijzigd bij Wet van 22 december 1999, Stb. 579).     
+De Staatssecretaris van Financiën,  Besluit: Vast te stellen het volgende besluit voor de ambtenaren van de Belastingdienst met betrekking tot de uitvoering van de betreffende bepalingen uit de [Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (Wet van 4 juni 1992, Stb. 1994,1, laatstelijk gewijzigd bij Wet van 22 december 1999, Stb. 575 en de [Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (Wet van 2 juli 1959, Stb. 301, laatstelijk gewijzigd bij Wet van 22 december 1999, Stb. 579).      
 
 ####Algemeen
 
@@ -10,7 +10,7 @@ De Staatssecretaris van Financiën,  Besluit: Vast te stellen het volgende beslu
 
 ####(Begripsbepalingen)
 
-Voor de uitvoering van dit besluit wordt verstaan onder:   `inspecteur':  de inspecteur als bedoeld in artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen;    `ontvanger':  de ontvanger als bedoeld in artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen;    `griffier':  de griffier van het bevoegde gerechtshof of van de Hoge Raad;    B/CKC:  Belastingdienst Centrum voor Kennis en Communicatie;    B/CPP:  Belastingdienst Centrum voor Proces- en Productontwikkeling;    Directie RTB:  Directie Rechtstoepasssingsbeleid Belastingdienst.     
+Voor de uitvoering van dit besluit wordt verstaan onder:   `inspecteur':  de inspecteur als bedoeld in artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen;     `ontvanger':   de ontvanger als bedoeld in artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen;    `griffier':    de griffier van het bevoegde gerechtshof of van de Hoge Raad;    B/CKC:   Belastingdienst Centrum voor Kennis en Communicatie;    B/CPP:   Belastingdienst Centrum voor Proces- en Productontwikkeling;     Directie RTB:   Directie Rechtstoepasssingsbeleid Belastingdienst.    
 
 ### §  2  
 
@@ -64,7 +64,7 @@ Behoudens in de in § 4 en § 5 bedoelde gevallen zendt de inspecteur steeds bin
 3.  De inspecteur zendt dit schrijven zo spoedig mogelijk aan het gerechtshof onder bijvoeging van een afschrift van de beslissing waarbij de ambtshalve vermindering c.q. vernietiging van de aanslag aan belanghebbende wordt medegedeeld.   
 4.  Indien belanghebbende niet bereid is het beroepschrift onder de in lid 2 vermelde voorwaarde in te trekken deelt de inspecteur het gerechtshof, binnen de in § 3 bedoelde termijn, schriftelijk mee dat hij afziet van het inzenden van een verweerschrift omdat hij zich geheel met de door belanghebbende opgeworpen bezwaren kan verenigen.   
 5.  Voor de handelwijze met betrekking tot de vergoeding van proceskosten in geval van intrekking van het beroepschrift omdat de inspecteur geheel of gedeeltelijk aan de grieven van de indiener tegemoetgekomen is, wordt verwezen naar § 3.1 van het Uitvoeringsbesluit proceskosten fiscale procedures (boekwerk Belastingen Algemeen nr. 5.12.00)   
-6.  In gevallen waarbij het beroepschrift wordt ingetrokken zonder dat aan de bezwaren van belanghebbende wordt tegemoetgekomen, kan de inspecteur het griffierecht vergoeden. Het griffierecht wordt in beginsel vergoed, tenzij er sprake is van `lichtvaardig procederen' door belanghebbende. 
+6.  In gevallen waarbij het beroepschrift wordt ingetrokken zonder dat aan de bezwaren van belanghebbende wordt tegemoetgekomen, kan de inspecteur het griffierecht vergoeden. Het griffierecht wordt in beginsel vergoed, tenzij er sprake is van `lichtvaardig procederen' door belanghebbende.  
 ###Voorbeelden waarbij tot vergoeding kan worden overgegaan:
 
 de inspecteur is te kort geschoten in zijn motiveringsplicht van de afwijzing van een overigens onjuist standpunt van de belastingplichtige;  
@@ -86,24 +86,24 @@ In gevallen waarin het niet mogelijk blijkt het verweerschrift in te zenden binn
 1.  Het verweerschrift behoort een zelfstandige uiteenzetting te geven van de feiten en van de beschouwingen waartoe die feiten de inspecteur aanleiding geven, zodat ook zonder het overleggen van andere stukken de zienswijze van de inspecteur duidelijk en volledig tot uitdrukking komt.   
 2.  In het verweerschrift dienen in ieder geval de volgende punten te worden behandeld: 
 
-a. de ontvankelijkheid van het beroep;  
+a.  de ontvankelijkheid van het beroep; 
 
-b. een beknopt overzicht van de geschilpunten;  
+b.  een beknopt overzicht van de geschilpunten; 
 
-c. een omschrijving van de in het beroepschrift vervatte grieven en de zienswijze van de inspecteur met betrekking tot deze grieven;  
+c.  een omschrijving van de in het beroepschrift vervatte grieven en de zienswijze van de inspecteur met betrekking tot deze grieven; 
 
-d. de feiten die de algemene bewijsregels opzij zetten en een bijzondere bewijsregeling tot gevolg hebben en de motivering daarvan;  
+d.  de feiten die de algemene bewijsregels opzij zetten en een bijzondere bewijsregeling tot gevolg hebben en de motivering daarvan; 
 
-e. de conclusie van de inspecteur. Zo nodig worden subsidiaire verweren en subsidiaire conclusies in het verweerschrift opgenomen.     
+e.  de conclusie van de inspecteur. Zo nodig worden subsidiaire verweren en subsidiaire conclusies in het verweerschrift opgenomen.    
 3.  De overgelegde stukken worden steeds in het verweerschrift vermeld. Tot de overgelegde stukken behoren in ieder geval: 
 
-a. een afschrift van de aangifte indien deze is gedaan (bij procedures betreffende de rechten van successie, schenking en overgang kan, indien de aangifte zeer omvangrijk is, worden volstaan met een uittreksel uit de aangifte betreffende de in geding zijnde onderdelen);  
+a.  een afschrift van de aangifte indien deze is gedaan (bij procedures betreffende de rechten van successie, schenking en overgang kan, indien de aangifte zeer omvangrijk is, worden volstaan met een uittreksel uit de aangifte betreffende de in geding zijnde onderdelen); 
 
-b. een kopie van de aanslag dan wel een gespecificeerde opgaaf van de aanslaggegevens;  
+b.  een kopie van de aanslag dan wel een gespecificeerde opgaaf van de aanslaggegevens; 
 
-c. een afschrift van het bezwaar-, verzoekschrift (in de gevallen dat dit van toepassing is);  
+c.  een afschrift van het bezwaar-, verzoekschrift (in de gevallen dat dit van toepassing is); 
 
-d. een afschrift van de uitspraak dan wel een afschrift van de kennisgeving waarin de beslissing op het bezwaar- of verzoekschrift wordt gemotiveerd (in de gevallen dat dit van toepassing is).     
+d.  een afschrift van de uitspraak dan wel een afschrift van de kennisgeving waarin de beslissing op het bezwaar- of verzoekschrift wordt gemotiveerd (in de gevallen dat dit van toepassing is).    
 4.  In het verweerschrift wordt zo min mogelijk verwezen naar niet gepubliceerde uitspraken. Indien de noodzaak tot verwijzing bestaat wordt een geanonimiseerd afschrift van de betreffende uitspraak bij het verweerschrift gevoegd.   
 
 ### §  6b  
@@ -246,37 +246,37 @@ een uitspraak die strijdig is met opvattingen van bewindslieden van Financiën i
 een uitspraak die strijdig is met in de beleidssfeer uitgedragen opvattingen.   Is naar zijn mening hiervan sprake, dan zendt hij het van de griffier ontvangen originele afschrift met een korte uiteenzetting van de gronden waarop zijn oordeel rust en onder overlegging van alle ter zake dienende bescheiden binnen tien dagen na de datum van ter post bezorging van het afschrift van de uitspraak, aan de directie RTB van het Ministerie van Financiën. Hij doet daarbij mededeling van de datum waarop het afschrift van de uitspraak ter post is bezorgd. Ook uitspraken waarbij de praktijk om meer duidelijkheid vraagt dan het gerechtshof voor soortgelijke gevallen heeft gegeven en uitspraken waarbij ter wille van de eenheid van recht de behoefte bestaat een beslissing in hoogste ressort te verkrijgen, kunnen worden ingezonden. Uitspraken die principieel juist worden geacht, feitelijk van aard zijn en niet onbegrijpelijk, dan wel de voor cassatie benodigde feitelijke grondslag missen, komen in beginsel niet voor cassatie in aanmerking.   
 2.  Tot de als bijlagen over te leggen bescheiden behoren in ieder geval: 
 
-a. de aangifte indien deze is gedaan (bij procedures betreffende de rechten van successie, schenking en overgang kan, indien de aangifte zeer omvangrijk is, worden volstaan met een uittreksel uit de aangifte betreffende de in geding zijnde onderdelen);  
+a.  de aangifte indien deze is gedaan (bij procedures betreffende de rechten van successie, schenking en overgang kan, indien de aangifte zeer omvangrijk is, worden volstaan met een uittreksel uit de aangifte betreffende de in geding zijnde onderdelen); 
 
-b. een kopie van de aanslag dan wel een gespecificeerde opgaaf van de aanslaggegevens;  
+b.  een kopie van de aanslag dan wel een gespecificeerde opgaaf van de aanslaggegevens; 
 
-c. het bezwaar- of verzoekschrift in de gevallen dat het van toepassing is;  
+c.  het bezwaar- of verzoekschrift in de gevallen dat het van toepassing is; 
 
-d. het origineel van de van het gerechtshof ontvangen uitspraak dan wel de kennisgeving waarin de beslissing op het bezwaar- of verzoekschrift wordt gemotiveerd (in de gevallen dat dit van toepassing is).  
+d.  het origineel van de van het gerechtshof ontvangen uitspraak dan wel de kennisgeving waarin de beslissing op het bezwaar- of verzoekschrift wordt gemotiveerd (in de gevallen dat dit van toepassing is). 
 
-e. het door de griffier tijdens de zitting opgestelde verslag (in de gevallen dat dit van toepassing is).  
+e.  het door de griffier tijdens de zitting opgestelde verslag (in de gevallen dat dit van toepassing is). 
 
-f. het beroepschrift;  
+f.  het beroepschrift; 
 
-g. het verweerschrift;  
+g.  het verweerschrift; 
 
-h. een eventuele conclusie van repliek;  
+h.  een eventuele conclusie van repliek; 
 
-i. een eventuele conclusie van dupliek;  
+i.  een eventuele conclusie van dupliek; 
 
-j. de eventueel met het gerechtshof gevoerde correspondentie in de zin van § 14b van dit besluit;  
+j.  de eventueel met het gerechtshof gevoerde correspondentie in de zin van § 14b van dit besluit; 
 
-k. een eventuele pleitnota en andere ter zitting overgelegde stukken;  
+k.  een eventuele pleitnota en andere ter zitting overgelegde stukken; 
 
-l. een eventueel proces-verbaal van de mondelinge uitspraak;  
+l.  een eventueel proces-verbaal van de mondelinge uitspraak; 
 
-m. (in geval van vereenvoudigde behandeling van het beroep:) het origineel van de van het gerechtshof ontvangen uitspraak, het verzetschrift en de uitspraak op het verzetschrift.  
+m.  (in geval van vereenvoudigde behandeling van het beroep:) het origineel van de van het gerechtshof ontvangen uitspraak, het verzetschrift en de uitspraak op het verzetschrift. 
 
-n. (ingeval het beroep zich richt tegen het niet tijdig nemen van een besluit), een afschrift van het besluit en de gevoerde correspondentie.  
+n. (ingeval het beroep zich richt tegen het niet tijdig nemen van een besluit), een afschrift van het besluit en de gevoerde correspondentie. 
 
-o. een eventueel (openbaar gedeelte van een) controlerapport;  
+o. een eventueel (openbaar gedeelte van een) controlerapport; 
 
-p. de bijlagen bij voornoemde geschriften, voor zover in deze paragraaf nog niet genoemd.   De inspecteur kan indien daartoe de noodzaak aanwezig is kopieën in plaats van de originele bescheiden inzenden.   
+p.  de bijlagen bij voornoemde geschriften, voor zover in deze paragraaf nog niet genoemd.  De inspecteur kan indien daartoe de noodzaak aanwezig is kopieën in plaats van de originele bescheiden inzenden.   
 3.  De inspecteur deelt mee of de procedure is aangemeld bij de Belastingdienst/CKC   
 4.  Indien de inspecteur afziet van een voorstel tot cassatie wordt de bijbehorende motivering schriftelijk vastgelegd en overeenkomstig § 2, tweede lid, geregistreerd.   
 

@@ -1,13 +1,13 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Kaderregeling subsidiëring projecten ten behoeve van onderzoek en wetenschap
+##Kaderregeling subsidiëring projecten ten behoeve van onderzoek en wetenschap 
 
 De Minister van Onderwijs, Cultuur en Wetenschappen;  
 Gelet op [artikel 4 van de Wet overige OCenW-subsidies](../../../../../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md),
-Besluit:     
-### Paragraaf  1  
+Besluit:      
+### Paragraaf 1 
 
-####Inleidende bepalingen
+####Inleidende bepalingen 
 
 ### Artikel  1  
 
@@ -17,13 +17,13 @@ In deze regeling wordt verstaan onder:
 
 a. *minister:* de Minister van Onderwijs, Cultuur en Wetenschappen,  
 
-b.  *project:*  
+b. *project:*  
 
-1° één- of meerjarige onderzoekprogramma's of -projecten waaraan subsidie anders dan per boekjaar wordt verstrekt,  
+1° één- of meerjarige onderzoekprogramma's of -projecten waaraan subsidie anders dan per boekjaar wordt verstrekt, 
 
-2° éénmaal of meermalen per jaar voorkomende activiteiten, of  
+2° éénmaal of meermalen per jaar voorkomende activiteiten, of 
 
-3° éénmalige activiteiten,    
+3° éénmalige activiteiten,  
 
 c. *Rijksbegroting OCenW:* de begroting van de uitgaven en ontvangsten van het Ministerie van Onderwijs, Cultuur en Wetenschappen.    
 
@@ -64,9 +64,9 @@ Bij de subsidieverlening maakt de minister het maximale voor het project beschik
 
 In het geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden de op grond van dit besluit verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat, een en ander voor zover van toepassing naar rato van het aantal subsidieontvangers en van de hoogte van de verleende subsidiebedragen.  
 
-### Paragraaf  2  
+### Paragraaf  2 
 
-####Subsidieaanvraag
+####Subsidieaanvraag 
 
 ### Artikel  7  
 
@@ -96,7 +96,7 @@ e. overige voor de subsidieverlening van belang zijnde informatie.
 
 ####Activiteitenplan
 
-Het activiteitenplan omvat een overzicht van de aard en de omvang van de voorgenomen activiteiten alsmede een omschrijving waaruit blijkt dat de subsidiedoeleinden op een doelmatige en rechtmatige wijze kunnen worden bereikt.  
+Het activiteitenplan omvat een overzicht van de aard en de omvang van de voorgenomen activiteiten alsmede een omschrijving waaruit blijkt dat de subsidiedoeleinden op een doelmatige en rechtmatige wijze kunnen worden bereikt. 
 
 ### Artikel  10  
 
@@ -139,9 +139,9 @@ De begroting bevat in ieder geval een overzicht van de verwachte inkomsten en ui
 1.  De meerjarenraming biedt inzicht in de inkomsten en de uitgaven die de aanvrager in verband met de te subsidiëren activiteiten voorziet. De raming bevat een kasstroomprognose waarin het vermoedelijke verloop of de vermoedelijke afloop van de financieringsbehoefte en de liquiditeitsplanning wordt aangegeven.   
 2.  De meerjarenraming ziet op de gehele looptijd van het project tenzij het project is opgebouwd uit fases of onderdelen. In dat geval dient de aanvrager een raming in per fase of onderdeel, tenzij de minister hiertoe anders besluit.   
 
-### Paragraaf  3  
+### Paragraaf 3 
 
-####Subsidieverlening
+####Subsidieverlening 
 
 ### Artikel  14  
 
@@ -184,9 +184,9 @@ De subsidie wordt verleend voor maximaal de duur van het project. Indien een pro
 4.  De minister kan bij de subsidieverlening een looptijd bepalen gedurende welke de subsidieontvanger bevoegd is tot het nemen van besluiten die strekken tot het aangaan van nieuwe verplichtingen. Indien door de subsidieontvanger besluiten worden genomen waaruit verplichtingen tot subsidiëring volgen die ingaan na afloop van de looptijd, dan komen de financiële consequenties geheel voor rekening van de subsidieontvanger tenzij de minister hiertoe anders beslist.   
 5.  Een subsidieontvanger waaraan de bevoegdheid tot het nemen van besluiten omtrent subsidiëring wordt gedelegeerd, is verantwoordelijk voor het opstellen van voorwaarden waaronder hij besluiten tot subsidiëring zal honoreren. Hieronder valt in ieder geval de verantwoordelijkheid voor het vaststellen van een subsidieplafond.   
 
-### Paragraaf  4  
+### Paragraaf 4 
 
-####Verplichtingen
+####Verplichtingen 
 
 ### Artikel  19  
 
@@ -248,9 +248,9 @@ De minister kan voorwaarden stellen voor het aangaan van overeenkomsten en het v
 1.  In de jaarlijkse verantwoording geeft de subsidieontvanger inzicht in de voortgang en de behaalde resultaten. Hij geeft hierbij aan in hoeverre de vooraf gestelde doelstellingen zijn behaald. Indien de doelstellingen niet zijn gehaald dan dient de subsidieontvanger daarvoor een verklaring te geven. Afwijkingen van de doelstellingen zonder goede motivering kunnen leiden tot intrekking of wijziging van de subsidieverlening of tot terugvordering van de verleende voorschotten.   
 2.  Bij de subsidieverlening worden de vereisten ten aanzien van de jaarlijkse financiële verantwoording gespecificeerd. Daarbij wordt zoveel mogelijk aangesloten bij het voor de subsidieontvanger geldende verantwoordingsregime.   
 
-### Paragraaf  5  
+### Paragraaf  5 
 
-####Subsidievaststelling
+####Subsidievaststelling 
 
 ### Artikel  27  
 
@@ -288,9 +288,9 @@ Bij de subsidieverlening stelt de minister een termijn vast waarbinnen de aanvra
 1.  Indien bij de subsidieverlening aan de subsidieontvanger de verplichting is opgelegd tot het houden van een evaluatie, of wanneer de minister een externe evaluatiecommissie heeft ingesteld, dan gaat de minister niet eerder tot vaststelling van de subsidie over dan nadat de resultaten van de evaluatie bij hem bekend zijn.   
 2.  In het besluit tot vaststelling kan de minister een uit het financieel verslag blijkend positief saldo ten behoeve van de subsidieontvanger herbestemmen.   
 
-### Paragraaf  6  
+### Paragraaf 6 
 
-####Betaling
+####Betaling 
 
 ### Artikel  32  
 
@@ -300,15 +300,15 @@ Bij de subsidieverlening stelt de minister een termijn vast waarbinnen de aanvra
 2.  De minister bepaalt de hoogte van het voorschot mede op basis van de stukken, bedoeld in artikel 8, eerste lid, van dit besluit.   
 3.  Indien de begroting, het activiteitenplan of enig ander ingevolge dit besluit vereist document niet of niet tijdig wordt ingediend, behoudt de minister zicht het recht voor de bevoorschotting op te schorten of stop te zetten.   
 
-### Paragraaf  7  
+### Paragraaf  7 
 
 ####Slotbepalingen
 
-### Artikel  33  
+### Artikel   33 
 
-####Overgangsbepaling
+#### Overgangsbepaling
 
-Wijzigt deze regeling.   
+Wijzigt deze regeling. 
 
 ### Artikel  34  
 
@@ -320,10 +320,10 @@ Deze regeling treedt inwerking met ingang van de tweede dag na de dagtekening va
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Kaderregeling subsidiering projecten ten behoeve van onderzoek en wetenschap.  
+Deze regeling wordt aangehaald als: Kaderregeling subsidiering projecten ten behoeve van onderzoek en wetenschap. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van 
 Onderwijs, Cultuur en Wetenschappen, 
-L.M.L.H.A.Hermans    
+L.M.L.H.A.  Hermans      

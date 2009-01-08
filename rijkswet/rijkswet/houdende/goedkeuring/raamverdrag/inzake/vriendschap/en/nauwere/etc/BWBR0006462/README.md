@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Artikel  1  
 
-Het op 18 juni 1992 te 's-Gravenhage tot stand gekomen Raamverdrag inzake vriendschap en nauwere samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Suriname, waarvan de tekst is geplaatst in *Tractatenblad* 1992, 103, wordt goedgekeurd voor het gehele Koninkrijk.  
+Het op 18 juni 1992 te 's-Gravenhage tot stand gekomen Raamverdrag inzake vriendschap en nauwere samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Suriname, waarvan de tekst is geplaatst in *Tractatenblad* 1992, 103, wordt goedgekeurd voor het gehele Koninkrijk. 
 
 ### Artikel  2  
 
-Voorzover de in artikel 2, derde lid, van het in artikel 1 genoemde verdrag bedoelde nadere overeenkomsten of accoorden verdragen vormen, worden deze aan de goedkeuring van de Staten-Generaal onderworpen.  
+Voorzover de in artikel 2, derde lid, van het in artikel 1 genoemde verdrag bedoelde nadere overeenkomsten of accoorden verdragen vormen, worden deze aan de goedkeuring van de Staten-Generaal onderworpen. 
 
 ### Artikel  3  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad*, waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad*, waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad*, het *Publikatieblad van de Nederlandse Antillen* en in het *Afkondigingsblad van Aruba* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

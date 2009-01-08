@@ -15,39 +15,39 @@ Hebben goedgevonden en verstaan:
 
 ### ARTIKEL  I  
 
-De voor ambtenaren in de zin van het [Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en het [Ambtenarenreglement Staten-Generaal](../../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) op 31 december 1996 geldende arbeidsduur wordt met ingang van 1 januari 1997 verminderd met twee achtendertigste deel. De met ingang van 1 januari 1997 geldende arbeidsduur wordt naar boven afgerond op twee decimalen.  
+De voor ambtenaren in de zin van het [Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en het [Ambtenarenreglement Staten-Generaal](../../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) op 31 december 1996 geldende arbeidsduur wordt met ingang van 1 januari 1997 verminderd met twee achtendertigste deel. De met ingang van 1 januari 1997 geldende arbeidsduur wordt naar boven afgerond op twee decimalen. 
 
 ### ARTIKEL  II  
 
-Wijzigt het Algemeen Rijksambtenarenreglement.   
+Wijzigt het Algemeen Rijksambtenarenreglement.  
 
 ### ARTIKEL  III  
 
-Wijzigt het Ambtenarenreglement Staten-Generaal.   
+Wijzigt het Ambtenarenreglement Staten-Generaal.  
 
 ### ARTIKEL  IV  
 
-Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
+Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.  
 
 ### ARTIKEL  V  
 
-Wijzigt het Reglement Dienst Buitenlandse Zaken.   
+Wijzigt het Reglement Dienst Buitenlandse Zaken.  
 
 ### ARTIKEL  VI  
 
 1.  Het bevoegd gezag stelt voor de ambtenaren in de zin van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) die reeds voor de inwerkingtreding van dit besluit regelmatig of vrij regelmatig op zaterdag arbeid verrichtten een afbouwregeling vast, indien als gevolg van de wijziging bij artikel IV, onderdeel B, onder 1, een niet geringe inkomensachteruitgang plaatsvindt.   
-2.  Het bevoegd gezag kan als gevolg van de wijziging bij artikel IV, onderdeel D, voor de ambtenaren in de zin van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) die reeds voor de inwerkingtreding van dit besluit, meer dan incidenteel een vergoeding voor overwerk plegen te ontvangen, een gewenningsregeling vaststellen.   
+2.  Het bevoegd gezag kan als gevolg van de wijziging bij artikel IV, onderdeel D, voor de ambtenaren in de zin van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) die reeds voor de inwerkingtreding van dit besluit, meer dan incidenteel een vergoeding voor overwerk plegen te ontvangen, een gewenningsregeling vaststellen.  
 
 ### ARTIKEL  VII  
 
-Dit besluit treedt in werking met ingang van 1 januari 1997.  
+Dit besluit treedt in werking met ingang van 1 januari 1997. 
 
 's-Gravenhage 
 25 oktober 1996  
-Beatrix  
+Beatrix   
 
 De Minister van Binnenlandse Zaken a.i., 
-W. Sorgdrager   
+W. Sorgdrager    
 
 De Minister van Buitenlandse Zaken, 
 H. A. F. M. O. van Mierlo   
@@ -55,4 +55,4 @@ H. A. F. M. O. van Mierlo
 de achtentwintigste november 1996 
 
 De Minister van Justitie, 
-W. Sorgdrager    
+W. Sorgdrager     

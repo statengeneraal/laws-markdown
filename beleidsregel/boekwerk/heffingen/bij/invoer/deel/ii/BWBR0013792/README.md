@@ -37,6 +37,6 @@ Bij verordening (EG) Nr. 1783/2001 van 10 augustus 2001 ((PbEG L 241 van 11 se
 Verordening (EG) Nr. 969/2002 treedt in werking op 27 juni 2002.     
 
 De 
-Staatssecretaris van Financiënnamens deze: de 
-Directeur-Generaal voor Fiscale Zaken
-M.Brabers   
+Staatssecretaris van Financiën namens deze:de 
+Directeur-Generaal voor Fiscale Zaken 
+M. Brabers     

@@ -10,11 +10,11 @@ Besluit:
 
 ### Artikel  1  
 
-Deze aanwijzing is van toepassing op zorg geleverd door instellingen voor medisch specialistische zorg waarop in 2009 de budgetsystematiek van toepassing is, te weten: algemene en categorale ziekenhuizen (inclusief long/astmacentra), academische ziekenhuizen, epilepsie-inrichtingen, instellingen voor revalidatie, radiotherapeutische centra en dialysecentra, verder te noemen ziekenhuizen.  
+Deze aanwijzing is van toepassing op zorg geleverd door instellingen voor medisch specialistische zorg waarop in 2009 de budgetsystematiek van toepassing is, te weten: algemene en categorale ziekenhuizen (inclusief long/astmacentra), academische ziekenhuizen, epilepsie-inrichtingen, instellingen voor revalidatie, radiotherapeutische centra en dialysecentra, verder te noemen ziekenhuizen. 
 
 ### Artikel  2  
 
-Aan ziekenhuizen wordt per 1 januari 2009 een taakstelling van structureel € 15 miljoen (prijspeil 2007) opgelegd.  
+Aan ziekenhuizen wordt per 1 januari 2009 een taakstelling van structureel € 15 miljoen (prijspeil 2007) opgelegd. 
 
 ### Artikel  3  
 
@@ -26,12 +26,12 @@ Voor de verdeling van de vermelde taakstelling over de ziekenhuizen gelden de vo
 
 3. Het macrobudget en de standen van de individuele ziekenhuizen hebben betrekking op het A- en B-segment tezamen.  
 
-4. Het macrobudget en de standen van de individuele ziekenhuizen worden uitsluitend geschoond voor loonkosten medisch specialisten en agio’s, inclusief schoning voor loonkosten medisch specialisten en agio’s academische component (waarbij de technische uitwerking van deze schoning mede afhankelijk is van de keuze van het basisjaar) alsmede de capaciteit en productieparameters van psychiaters in psychiatrische universiteitsklinieken (PUK’en). Bij epilepsie-inrichtingen wordt daarnaast nog geschoond voor het AWBZ-deel.    
+4. Het macrobudget en de standen van de individuele ziekenhuizen worden uitsluitend geschoond voor loonkosten medisch specialisten en agio’s, inclusief schoning voor loonkosten medisch specialisten en agio’s academische component (waarbij de technische uitwerking van deze schoning mede afhankelijk is van de keuze van het basisjaar) alsmede de capaciteit en productieparameters van psychiaters in psychiatrische universiteitsklinieken (PUK’en). Bij epilepsie-inrichtingen wordt daarnaast nog geschoond voor het AWBZ-deel.   
 
 ### Artikel  4  
 
-Het op basis van voorgaande per individuele instelling berekende taakstellingsbedrag wordt verwerkt als nominaal bedrag in het A-segment en is onderhevig aan nominale aanpassingen (indexering).  
+Het op basis van voorgaande per individuele instelling berekende taakstellingsbedrag wordt verwerkt als nominaal bedrag in het A-segment en is onderhevig aan nominale aanpassingen (indexering). 
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink   
+A. Klink     

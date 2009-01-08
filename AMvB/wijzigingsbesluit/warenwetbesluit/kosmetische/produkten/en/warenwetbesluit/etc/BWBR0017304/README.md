@@ -11,39 +11,39 @@ Gelet op richtlijn nr. 93/35/EEG van de Raad van 14 juni 1993 tot zesde wijzigin
 De Raad van State gehoord (advies van 10 september 2004, Nummer W13.04.0367/III);
 
 Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 7 oktober 2004, VGP/P&L 2519083, uitgebracht in overeenstemming met Onze Minister van Economische Zaken en Onze Minister van Justitie;
-Hebben goedgevonden en verstaan:    
+Hebben goedgevonden en verstaan:
 
-### Artikel  I  
+###Artikel I 
 
-Wijzigt het Warenwetbesluit kosmetische produkten.   
+Wijzigt het Warenwetbesluit kosmetische produkten.
 
-### Artikel  II  
+###Artikel II 
 
-Wijzigt het Warenwetbesluit bestuurlijke boeten.   
+Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
-### Artikel  III  
+###Artikel III 
 
-De cosmetische producten die: 
+De cosmetische producten die:
 
-a. voldoen aan [artikel 4, eerste lid, onderdelen d en i](../../../../../../../../../AMvB/warenwetbesluit/cosmetische/producten/BWBR0007603/README.md), en [artikel 4, vierde lid, van het Warenwetbesluit cosmetische producten](../../../../../../../../../AMvB/warenwetbesluit/cosmetische/producten/BWBR0007603/README.md) zoals dit luidde vóór de inwerkingtreding van dit besluit; en  
+a.voldoen aan [artikel 4, eerste lid, onderdelen d en i](../../../../../../../../../AMvB/warenwetbesluit/cosmetische/producten/BWBR0007603/README.md), en [artikel 4, vierde lid, van het Warenwetbesluit cosmetische producten](../../../../../../../../../AMvB/warenwetbesluit/cosmetische/producten/BWBR0007603/README.md) zoals dit luidde vóór de inwerkingtreding van dit besluit; en
 
-b. vóór 11 maart 2005 zijn verhandeld;   mogen ook na de inwerkingtreding van dit besluit nog worden verhandeld.  
+b.vóór 11 maart 2005 zijn verhandeld;mogen ook na de inwerkingtreding van dit besluit nog worden verhandeld.
 
-### Artikel  IV  
+###Artikel IV 
 
-1.  De artikelen I en III treden in werking met ingang van 26 november 2004.   
-2.  Artikel II treedt in werking acht weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst.   
+1. De artikelen I en III treden in werking met ingang van 26 november 2004.
+2. Artikel II treedt in werking acht weken na de datum van uitgifte van het Staatsblad waarin hij is geplaatst.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-'s-Gravenhage 
-11 oktober 2004  
-Beatrix  
+'s-Gravenhage
+11 oktober 2004
+Beatrix
 
 De Minister van Volksgezondheid, Welzijn en Sport , 
-J. F. Hoogervorst   
+J. F.Hoogervorst
 
-de *negenentwintigste* oktober 2004 
+de *negenentwintigste* oktober 2004
 
-De Minister van Justitie , 
-J. P. H. Donner    
+De Minister van Justitie ,
+J. P. H.Donner

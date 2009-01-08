@@ -11,20 +11,20 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet assurantiebemiddelingsbedrijf.   
+Wijzigt de Wet assurantiebemiddelingsbedrijf.  
 
 ### Artikel  II  
 
 1.   Wijzigt de Wet op de economische delicten.    
-2.  In afwijking van het eerste lid blijft de in dat lid bedoelde zinsnede, zoals deze luidde voorafgaand aan het tijdstip van inwerkingtreding van dit artikel, van toepassing met betrekking tot verzekeringsovereenkomsten waarop artikel III van toepassing is.   
+2.  In afwijking van het eerste lid blijft de in dat lid bedoelde zinsnede, zoals deze luidde voorafgaand aan het tijdstip van inwerkingtreding van dit artikel, van toepassing met betrekking tot verzekeringsovereenkomsten waarop artikel III van toepassing is.  
 
 ### Artikel  III  
 
-In afwijking van artikel I, onderdelen D tot en met H, blijft het bepaalde bij of krachtens de [artikelen 13](../../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md), [14, vierde lid](../../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md), [15](../../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md), [17](../../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md) en [18 van de Wet assurantiebemiddelingsbedrijf](../../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md), zoals deze bepalingen voorafgaand aan het tijdstip van inwerkingtreding van dit artikel luidden, tot het einde van de overeengekomen looptijd van toepassing met betrekking tot verzekeringsovereenkomsten die op dat tijdstip bestonden, tenzij partijen anders overeenkomen.  
+In afwijking van artikel I, onderdelen D tot en met H, blijft het bepaalde bij of krachtens de [artikelen 13](../../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md), [14, vierde lid](../../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md), [15](../../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md), [17](../../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md) en [18 van de Wet assurantiebemiddelingsbedrijf](../../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md), zoals deze bepalingen voorafgaand aan het tijdstip van inwerkingtreding van dit artikel luidden, tot het einde van de overeengekomen looptijd van toepassing met betrekking tot verzekeringsovereenkomsten die op dat tijdstip bestonden, tenzij partijen anders overeenkomen. 
 
 ### Artikel  IV  
 
-Op besluiten, genomen voor het tijdstip van inwerkingtreding van artikel I, onderdeel K, blijft [artikel 32](../../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md), zoals dat artikel voorafgaand aan dat tijdstip luidde, van toepassing.  
+Op besluiten, genomen voor het tijdstip van inwerkingtreding van artikel I, onderdeel K, blijft [artikel 32](../../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md), zoals dat artikel voorafgaand aan dat tijdstip luidde, van toepassing. 
 
 ### Artikel  V  
 
@@ -35,10 +35,10 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Gegeven te 's-Gravenhage 
 22 december 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Financiën, 
-G. Zalm   
+G. Zalm    
 
 De Minister van Economische Zaken, 
 A. Jorritsma-Lebbink   

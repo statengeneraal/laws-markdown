@@ -11,45 +11,45 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### ARTIKEL  I  
 
-Wijzigt de Gemeentewet.   
+Wijzigt de Gemeentewet.  
 
 ### ARTIKEL  II  
 
-Wijzigt de Waterschapswet.   
+Wijzigt de Waterschapswet.  
 
 ### ARTIKEL  III  
 
-Wijzigt de Wet op de inkomstenbelasting 1964.   
+Wijzigt de Wet op de inkomstenbelasting 1964.  
 
 ### ARTIKEL  V  
 
-Wijzigt de Wet op de vermogensbelasting 1964.   
+Wijzigt de Wet op de vermogensbelasting 1964.  
 
 ### ARTIKEL  VII  
 
-Wijzigt de Algemene wet inzake rijksbelastingen.   
+Wijzigt de Algemene wet inzake rijksbelastingen.  
 
 ### ARTIKEL  VIII  
 
-Wijzigt de Wet waardering onroerende zaken.   
+Wijzigt de Wet waardering onroerende zaken.  
 
 ### ARTIKEL  IX  
 
-[Artikel 258 van de Gemeentewet](../../../../../../../wet/gemeentewet/BWBR0005416/README.md), zoals dat luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet, blijft van toepassing met betrekking tot gegevens ten behoeve van de heffing van de omslag ter zake van gebouwde onroerende zaken over belastingjaren voorafgaand aan de inwerkingtreding van deze wet.  
+[Artikel 258 van de Gemeentewet](../../../../../../../wet/gemeentewet/BWBR0005416/README.md), zoals dat luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet, blijft van toepassing met betrekking tot gegevens ten behoeve van de heffing van de omslag ter zake van gebouwde onroerende zaken over belastingjaren voorafgaand aan de inwerkingtreding van deze wet. 
 
 ### ARTIKEL  X  
 
-[Artikel 131 van de Waterschapswet](../../../../../../../wet/waterschapswet/BWBR0005108/README.md), zoals dat luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet, blijft van toepassing met betrekking tot belastingaanslagen in de waterschapsomslagen ter zake van gebouwde onroerende zaken die zijn opgelegd met toepassing van een door het college van burgemeester en wethouders vastgestelde waardemaatstaf, over tijdvakken die zijn geëindigd voorafgaand aan de inwerkingtreding van deze wet.  
+[Artikel 131 van de Waterschapswet](../../../../../../../wet/waterschapswet/BWBR0005108/README.md), zoals dat luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet, blijft van toepassing met betrekking tot belastingaanslagen in de waterschapsomslagen ter zake van gebouwde onroerende zaken die zijn opgelegd met toepassing van een door het college van burgemeester en wethouders vastgestelde waardemaatstaf, over tijdvakken die zijn geëindigd voorafgaand aan de inwerkingtreding van deze wet. 
 
 ### ARTIKEL  XI  
 
 1.  Indien één of meer bepalingen van een belastingverordening van een gemeente of een waterschap niet in overeenstemming zijn met de ingevolge deze wet gewijzigde [Gemeentewet](../../../../../../../wet/gemeentewet/BWBR0005416/README.md), [Waterschapswet](../../../../../../../wet/waterschapswet/BWBR0005108/README.md) en [Wet waardering onroerende zaken](../../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) blijven die bepalingen met ingang van 1 januari 1997 buiten toepassing en gelden van rechtswege de voorschriften van de ingevolge deze wet gewijzigde [Gemeentewet](../../../../../../../wet/gemeentewet/BWBR0005416/README.md), [Waterschapswet](../../../../../../../wet/waterschapswet/BWBR0005108/README.md) en [Wet waardering onroerende zaken](../../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md).   
-2.  Bepalingen van een belastingverordening als bedoeld in het eerste lid worden vóór 1 april 1997 met terugwerkende kracht tot en met 1 januari 1997 aangepast aan de ingevolge deze wet gewijzigde [Gemeentewet](../../../../../../../wet/gemeentewet/BWBR0005416/README.md), [Waterschapswet](../../../../../../../wet/waterschapswet/BWBR0005108/README.md) en [Wet waardering onroerende zaken](../../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md).   
+2.  Bepalingen van een belastingverordening als bedoeld in het eerste lid worden vóór 1 april 1997 met terugwerkende kracht tot en met 1 januari 1997 aangepast aan de ingevolge deze wet gewijzigde [Gemeentewet](../../../../../../../wet/gemeentewet/BWBR0005416/README.md), [Waterschapswet](../../../../../../../wet/waterschapswet/BWBR0005108/README.md) en [Wet waardering onroerende zaken](../../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md).  
 
 ### ARTIKEL  XII  
 
-1.  In afwijking in zoverre van [artikel 220 *i*, derde en vijfde lid, van de Gemeentewet](../../../../../../../wet/gemeentewet/BWBR0005416/README.md), kan een gemeente die de heffing van onroerende-zaakbelastingen reeds met ingang van 1 januari 1996 baseert op de naar de waardepeildatum 1 januari 1995 bepaalde waarden, in de belastingverordening bepalen dat een vermindering als bedoeld in dat artikel voor het eerst wordt berekend ten opzichte van het belastingbedrag dat is verschuldigd met betrekking tot het jaar 1995 en wordt voor de toepassing van het vierde lid van dat artikel onder het daaraan voorafgaande kalenderjaar mede begrepen het kalenderjaar 1995.   
-2.  Het eerste lid is van overeenkomstige toepassing op de toepassing van [artikel 221 van de Gemeentewet](../../../../../../../wet/gemeentewet/BWBR0005416/README.md).   
+1.  In afwijking in zoverre van [artikel 220*i*, derde en vijfde lid, van de Gemeentewet](../../../../../../../wet/gemeentewet/BWBR0005416/README.md), kan een gemeente die de heffing van onroerende-zaakbelastingen reeds met ingang van 1 januari 1996 baseert op de naar de waardepeildatum 1 januari 1995 bepaalde waarden, in de belastingverordening bepalen dat een vermindering als bedoeld in dat artikel voor het eerst wordt berekend ten opzichte van het belastingbedrag dat is verschuldigd met betrekking tot het jaar 1995 en wordt voor de toepassing van het vierde lid van dat artikel onder het daaraan voorafgaande kalenderjaar mede begrepen het kalenderjaar 1995.   
+2.  Het eerste lid is van overeenkomstige toepassing op de toepassing van [artikel 221 van de Gemeentewet](../../../../../../../wet/gemeentewet/BWBR0005416/README.md).  
 
 ### ARTIKEL  XIII  
 
@@ -60,13 +60,13 @@ Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle 
 
 Gegeven te 's-Gravenhage 
 20 december 1996  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Financiën, 
-W. A. F. G. Vermeend   
+W. A. F. G. Vermeend    
 
 De Staatssecretaris van Binnenlandse Zaken, 
-A. G. M. van de Vondervoort   
+A. G. M. van de Vondervoort    
 
 De Minister van Verkeer en Waterstaat, 
 A. Jorritsma-Lebbink   
@@ -74,4 +74,4 @@ A. Jorritsma-Lebbink
 drieëntwintigste december 1996 
 
 De Minister van Justitie, 
-W. Sorgdrager    
+W. Sorgdrager     

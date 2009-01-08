@@ -2,7 +2,7 @@
 
 ##Besluit verlening mandaat inzake internationale inlichtingenuitwisseling
 
-De Staatssecretaris van Financiën heeft het volgende besloten:     
+De Staatssecretaris van Financiën heeft het volgende besloten:    
 ### 1  
 
 ####Mandaatverlening ter uitvoering van de Wet op de internationale bijstandsverlening bij de heffing van belastingen

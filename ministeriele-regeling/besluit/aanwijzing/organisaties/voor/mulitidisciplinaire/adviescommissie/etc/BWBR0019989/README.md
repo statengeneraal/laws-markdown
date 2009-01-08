@@ -24,13 +24,13 @@ f. de gemeenten;
 
 g. het directoraat-generaal Veiligheid van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, en  
 
-h. het Ministerie van Justitie.    
+h. het Ministerie van Justitie.   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 juli 2006.  
+Dit besluit treedt in werking met ingang van 1 juli 2006. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-J.W.Remkes   
+J.W. Remkes     

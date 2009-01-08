@@ -12,144 +12,144 @@ Besluit
 
 ####Begripsbepalingen
 
-In deze regeling wordt verstaan onder: 
+In deze regeling wordt verstaan onder:
 
-a. minister: de minister van onderwijs, cultuur en wetenschappen en, voor zover het betreft het beroepsonderwijs op het gebied van de landbouw en de natuurlijke omgeving, de Minister van Landbouw, Natuurbeheer en Visserij;  
+a.minister: de minister van onderwijs, cultuur en wetenschappen en, voor zover het betreft het beroepsonderwijs op het gebied van de landbouw en de natuurlijke omgeving, de Minister van Landbouw, Natuurbeheer en Visserij;
 
-b. wet: de Wet educatie en beroepsonderwijs;  
+b.wet: de Wet educatie en beroepsonderwijs;
 
-c. WVO: de Wet op het voortgezet onderwijs;  
+c.WVO: de Wet op het voortgezet onderwijs;
 
-d. assistentopleiding: een assistentopleiding als bedoeld in artikel 7.2.2, eerste lid onderdeel a, van de wet;  
+d.assistentopleiding: een assistentopleiding als bedoeld in artikel 7.2.2, eerste lid onderdeel a, van de wet;
 
-e. basisberoepsopleiding: een basisberoepsopleiding als bedoeld in artikel 7.2.2, eerste lid onderdeel b, van de wet;  
+e.basisberoepsopleiding: een basisberoepsopleiding als bedoeld in artikel 7.2.2, eerste lid onderdeel b, van de wet;
 
-f. vakopleiding: een vakopleiding als bedoeld in artikel 7.2.2, eerste lid onderdeel c, van de wet;  
+f.vakopleiding: een vakopleiding als bedoeld in artikel 7.2.2, eerste lid onderdeel c, van de wet;
 
-g. middenkaderopleiding: een middenkaderopleiding als bedoeld in artikel 7.2.2, eerste lid onderdeel d, van de wet;  
+g.middenkaderopleiding: een middenkaderopleiding als bedoeld in artikel 7.2.2, eerste lid onderdeel d, van de wet;
 
-h. basisberoepsgerichte leerweg: de basisberoepsgerichte leerweg, bedoeld in artikel 10b, eerste lid, van de WVO;  
+h.basisberoepsgerichte leerweg: de basisberoepsgerichte leerweg, bedoeld in artikel 10b, eerste lid, van de WVO;
 
-i. kaderberoepsgerichte leerweg: de kaderberoepsgerichte leerweg, bedoeld in artikel 10b, eerste lid, van de WVO;  
+i.kaderberoepsgerichte leerweg: de kaderberoepsgerichte leerweg, bedoeld in artikel 10b, eerste lid, van de WVO;
 
-j. gemengde leerweg: de gemengde leerweg, bedoeld in artikel 10d van de WVO;  
+j.gemengde leerweg: de gemengde leerweg, bedoeld in artikel 10d van de WVO;
 
-k. theoretische leerweg: de theoretische leerweg, bedoeld in artikel 10 van de WVO;  
+k.theoretische leerweg: de theoretische leerweg, bedoeld in artikel 10 van de WVO;
 
-l. landelijk orgaan: het landelijk orgaan, bedoeld in artikel 9.2.1 van de wet.    
+l.landelijk orgaan: het landelijk orgaan, bedoeld in artikel 9.2.1 van de wet.
 
 ### Artikel  2  
 
 ####Drempelloze instroom niet verwante opleidingen
 
-In bijlage 1 behorende bij deze regeling zijn opgenomen de basisberoepsopleidingen waarvoor niet een assistentopleiding is opgenomen in het Centraal register beroepsopleidingen, bedoeld in artikel 6.4.1, eerste lid, van de wet, die opleidt voor een zelfde beroep of beroepencategorie.  
+In bijlage 1 behorende bij deze regeling zijn opgenomen de basisberoepsopleidingen waarvoor niet een assistentopleiding is opgenomen in het Centraal register beroepsopleidingen, bedoeld in artikel 6.4.1, eerste lid, van de wet, die opleidt voor een zelfde beroep of beroepencategorie.
 
 ### Artikel  3  
 
 ####Doorstroom naar verwante opleidingen
 
-1.  Ten aanzien van degene die 
+1.  Ten aanzien van degene die
 
-a. in het bezit is van het diploma vmbo van de basisberoepsgerichte leerweg van één van de sectoren techniek, economie, zorg en welzijn respectievelijk landbouw, en die  
+a.in het bezit is van het diploma vmbo van de basisberoepsgerichte leerweg van één van de sectoren techniek, economie, zorg en welzijn respectievelijk landbouw, en die
 
-b. wenst te worden ingeschreven als deelnemer in één van de in bijlage 2a, 2b, 2c respectievelijk 2d behorende bij deze regeling genoemde basisberoepsopleidingen,   worden geen vakken en andere programma-onderdelen aangewezen die deel moeten hebben uitgemaakt van het examen om te kunnen worden ingeschreven voor de betreffende basisberoepsopleiding.   
-2.  Ten aanzien van degene die 
+b.wenst te worden ingeschreven als deelnemer in één van de in bijlage 2a, 2b, 2c respectievelijk 2d behorende bij deze regeling genoemde basisberoepsopleidingen, worden geen vakken en andere programma-onderdelen aangewezen die deel moeten hebben uitgemaakt van het examen om te kunnen worden ingeschreven voor de betreffende basisberoepsopleiding.
+2.  Ten aanzien van degene die
 
-a. in het bezit is van het diploma vmbo van de kaderberoepsgerichte, gemengde of theoretische leerweg van één van de sectoren techniek, economie, zorg en welzijn respectievelijk landbouw, en die  
+a.in het bezit is van het diploma vmbo van de kaderberoepsgerichte, gemengde of theoretische leerweg van één van de sectoren techniek, economie, zorg en welzijn respectievelijk landbouw, en die
 
-b. wenst te worden ingeschreven als deelnemer in een vakopleiding of middenkaderopleiding waarvan de eindtermen worden voorgesteld aan de minister door één van de landelijke organen opgenomen in bijlage 3a, 3b, 3c respectievelijk 3d, behorende bij deze regeling,   worden geen vakken en andere programma-onderdelen aangewezen die deel moeten hebben uitgemaakt van het examen om te kunnen worden ingeschreven voor de betreffende vakopleiding of middenkaderopleiding.   
+b.wenst te worden ingeschreven als deelnemer in een vakopleiding of middenkaderopleiding waarvan de eindtermen worden voorgesteld aan de minister door één van de landelijke organen opgenomen in bijlage 3a, 3b, 3c respectievelijk 3d, behorende bij deze regeling, worden geen vakken en andere programma-onderdelen aangewezen die deel moeten hebben uitgemaakt van het examen om te kunnen worden ingeschreven voor de betreffende vakopleiding of middenkaderopleiding.
 
 ### Artikel  4  
 
 ####Nadere vooropleidingseisen techniek
 
-1.  Ten aanzien van degene die 
+1. Ten aanzien van degene die
 
-a. in het bezit is van het diploma vmbo van de basisberoepsgerichte leerweg van één van de sectoren economie, zorg en welzijn en landbouw, en die  
+a.in het bezit is van het diploma vmbo van de basisberoepsgerichte leerweg van één van de sectoren economie, zorg en welzijn en landbouw, en die
 
-b. wenst te worden ingeschreven als deelnemer in één van de in bijlage 2a genoemde basisberoepsopleidingen,   wordt als aanvullende voorwaarde gesteld dat het vak wiskunde dan wel natuur- en scheikunde I deel heeft uitgemaakt van het examen om te kunnen worden ingeschreven voor de basisberoepsopleiding.   
-2.  Ten aanzien van degene die 
+b.wenst te worden ingeschreven als deelnemer in één van de in bijlage 2a genoemde basisberoepsopleidingen, wordt als aanvullende voorwaarde gesteld dat het vak wiskunde dan wel natuur- en scheikunde I deel heeft uitgemaakt van het examen om te kunnen worden ingeschreven voor de basisberoepsopleiding.
+2.  Ten aanzien van degene die
 
-a. in het bezit is van het diploma vmbo van de kaderberoepsgerichte, gemengde of theoretische leerweg van één van de sectoren economie, zorg en welzijn en landbouw, en die  
+a.in het bezit is van het diploma vmbo van de kaderberoepsgerichte, gemengde of theoretische leerweg van één van de sectoren economie, zorg en welzijn en landbouw, en die
 
-b. wenst te worden ingeschreven als deelnemer in een vakopleiding of middenkaderopleiding waarvan de eindtermen worden voorgesteld aan de minister door één van de landelijke organen opgenomen in bijlage 3a, behorende bij deze regeling,   wordt als aanvullende voorwaarde gesteld dat het vak wiskunde dan wel natuur- en scheikunde I deel heeft uitgemaakt van het examen om te kunnen worden ingeschreven voor de betreffende vakopleiding of middenkaderopleiding.   
+b.wenst te worden ingeschreven als deelnemer in een vakopleiding of middenkaderopleiding waarvan de eindtermen worden voorgesteld aan de minister door één van de landelijke organen opgenomen in bijlage 3a, behorende bij deze regeling, wordt als aanvullende voorwaarde gesteld dat het vak wiskunde dan wel natuur- en scheikunde I deel heeft uitgemaakt van het examen om te kunnen worden ingeschreven voor de betreffende vakopleiding of middenkaderopleiding.
 
 ### Artikel  5  
 
 ####Nadere vooropleidingseisen economie
 
-1.  Ten aanzien van degene die 
+1.  Ten aanzien van degene die
 
-a. in het bezit is van het diploma vmbo van de basisberoepsgerichte leerweg van de sectoren techniek, zorg en welzijn en landbouw, en die  
+a.in het bezit is van het diploma vmbo van de basisberoepsgerichte leerweg van de sectoren techniek, zorg en welzijn en landbouw, en die
 
-b. wenst te worden ingeschreven als deelnemer in één van de in bijlage 2b genoemde basisberoepsopleidingen,   wordt als aanvullende voorwaarde gesteld dat het vak wiskunde, economie dan wel een tweede moderne vreemde taal deel heeft uitgemaakt van het examen om te kunnen worden ingeschreven voor de basisberoepsopleiding.   
-2.  Ten aanzien van degene die 
+b.wenst te worden ingeschreven als deelnemer in één van de in bijlage 2b genoemde basisberoepsopleidingen, wordt als aanvullende voorwaarde gesteld dat het vak wiskunde, economie dan wel een tweede moderne vreemde taal deel heeft uitgemaakt van het examen om te kunnen worden ingeschreven voor de basisberoepsopleiding.
+2.  Ten aanzien van degene die
 
-a. in het bezit is van het diploma vmbo van de kaderberoepsgerichte, gemengde of theoretische leerweg van één van de sectoren techniek, zorg en welzijn en landbouw, en die  
+a.in het bezit is van het diploma vmbo van de kaderberoepsgerichte, gemengde of theoretische leerweg van één van de sectoren techniek, zorg en welzijn en landbouw, en die
 
-b. wenst te worden ingeschreven als deelnemer in een vakopleiding of middenkaderopleiding waarvan de eindtermen worden voorgesteld aan de minister door één van de landelijke organen opgenomen in bijlage 3b, behorende bij deze regeling,   wordt als aanvullende voorwaarde gesteld dat het vak wiskunde, economie dan wel een tweede moderne vreemde taal deel heeft uitgemaakt van het examen om te kunnen worden ingeschreven voor de betreffende vakopleiding of middenkaderopleiding.   
+b.wenst te worden ingeschreven als deelnemer in een vakopleiding of middenkaderopleiding waarvan de eindtermen worden voorgesteld aan de minister door één van de landelijke organen opgenomen in bijlage 3b, behorende bij deze regeling, wordt als aanvullende voorwaarde gesteld dat het vak wiskunde, economie dan wel een tweede moderne vreemde taal deel heeft uitgemaakt van het examen om te kunnen worden ingeschreven voor de betreffende vakopleiding of middenkaderopleiding.
 
 ### Artikel  6  
 
 ####Doorstroom binnen ROC's en AOC's
 
-1.  Ten aanzien van degene die 
+1.  Ten aanzien van degene die
 
-a. in het bezit is van het diploma van een assistentopleiding, en die  
+a.in het bezit is van het diploma van een assistentopleiding, en die
 
-b. wenst te worden ingeschreven in een basisberoepsopleiding die opleidt voor eenzelfde beroep of beroepencategorie,   worden geen aanvullende voorwaarden gesteld ten aanzien van dat diploma om te kunnen worden ingeschreven voor de betreffende basisberoepsopleiding.   
-2.  Ten aanzien van degene die 
+b.wenst te worden ingeschreven in een basisberoepsopleiding die opleidt voor eenzelfde beroep of beroepencategorie, worden geen aanvullende voorwaarden gesteld ten aanzien van dat diploma om te kunnen worden ingeschreven voor de betreffende basisberoepsopleiding.
+2.  Ten aanzien van degene die
 
-a. in het bezit is van het diploma van een basisberoepsopleiding, en die  
+a.in het bezit is van het diploma van een basisberoepsopleiding, en die
 
-b. wenst te worden ingeschreven in een vakopleiding of middenkaderopleiding die opleidt voor eenzelfde beroep- of beroepencategorie,   worden geen aanvullende voorwaarden gesteld ten aanzien van dat diploma om te kunnen worden ingeschreven voor de betreffende vakopleiding of middenkaderopleiding.   
+b.wenst te worden ingeschreven in een vakopleiding of middenkaderopleiding die opleidt voor eenzelfde beroep- of beroepencategorie, worden geen aanvullende voorwaarden gesteld ten aanzien van dat diploma om te kunnen worden ingeschreven voor de betreffende vakopleiding of middenkaderopleiding.
 
 ### Artikel  7  
 
-####Overgangsbepaling inzake doorstroom met diploma lbo, vbo, mavo of mavo/vbo
+####Overgangsbepaling inzake doorstroom met diploma lbo, vbo, mavo of mavo/vbo 
 
-1.  Ten aanzien van degene die 
+1.  Ten aanzien van degene die
 
-a. in het bezit is van een diploma lager beroepsonderwijs, een diploma voorbereidend beroepsonderwijs, een diploma middelbaar algemeen voortgezet onderwijs of een diploma mavo/vbo, waarvan het examen voor alle vakken is afgelegd op tenminste B-niveau, en die  
+a.in het bezit is van een diploma lager beroepsonderwijs, een diploma voorbereidend beroepsonderwijs, een diploma middelbaar algemeen voortgezet onderwijs of een diploma mavo/vbo, waarvan het examen voor alle vakken is afgelegd op tenminste B-niveau, en die
 
-b. wenst te worden ingeschreven in één van de in bijlage 2a, 2b, 2c respectievelijk 2d behorende bij deze regeling, genoemde basisberoepsopleidingen   wordt als aanvullende voorwaarde gesteld dat het examen één voor de betreffende sector relevant vak heeft omvat dat is opgenomen in bijlage 4a, 4b, 4c respectievelijk 4d behorende bij deze regeling.   
-2.  Ten aanzien van degene die 
+b.wenst te worden ingeschreven in één van de in bijlage 2a, 2b, 2c respectievelijk 2d behorende bij deze regeling, genoemde basisberoepsopleidingen wordt als aanvullende voorwaarde gesteld dat het examen één voor de betreffende sector relevant vak heeft omvat dat is opgenomen in bijlage 4a, 4b, 4c respectievelijk 4d behorende bij deze regeling.
+2.  Ten aanzien van degene die
 
-a. in het bezit is van een diploma lager beroepsonderwijs, een diploma voorbereidend beroepsonderwijs, een diploma middelbaar algemeen voortgezet onderwijs of een diploma mavo/vbo, waarvan het examen voor alle vakken is afgelegd op tenminste C-niveau, en die  
+a.in het bezit is van een diploma lager beroepsonderwijs, een diploma voorbereidend beroepsonderwijs, een diploma middelbaar algemeen voortgezet onderwijs of een diploma mavo/vbo, waarvan het examen voor alle vakken is afgelegd op tenminste C-niveau, en die
 
-b. wenst te worden ingeschreven als deelnemer in een vakopleiding of middenkaderopleiding waarvan de eindtermen worden voorgesteld aan de minister door één van de landelijke organen opgenomen in bijlage 3a, 3b, 3c respectievelijk 3d behorende bij deze regeling,   wordt als aanvullende voorwaarde gesteld dat het examen één voor de betreffende sector relevant vak heeft omvat dat is opgenomen in bijlage 4a, 4b, 4c respectievelijk 4d behorende bij deze regeling.   
+b.wenst te worden ingeschreven als deelnemer in een vakopleiding of middenkaderopleiding waarvan de eindtermen worden voorgesteld aan de minister door één van de landelijke organen opgenomen in bijlage 3a, 3b, 3c respectievelijk 3d behorende bij deze regeling, wordt als aanvullende voorwaarde gesteld dat het examen één voor de betreffende sector relevant vak heeft omvat dat is opgenomen in bijlage 4a, 4b, 4c respectievelijk 4d behorende bij deze regeling.
 
 ### Artikel  8  
 
 ####Bekendmaking
 
-Deze regeling zal met de toelichting in OCenW-Regelingen worden geplaatst. Van deze plaatsing wordt mededeling gedaan in de Staatscourant.  
+Deze regeling zal met de toelichting in OCenW-Regelingen worden geplaatst. Van deze plaatsing wordt mededeling gedaan in de Staatscourant.
 
 ### Artikel  9  
 
-####Inwerkingtreding
+####Inwerkingtreding 
 
-Deze regeling treedt in werking met ingang van 1 augustus 2003.  
+Deze regeling treedt in werking met ingang van 1 augustus 2003.
 
 ### Artikel  10  
 
-####Citeertitel
+####Citeertitel 
 
-Deze regeling wordt aangehaald als: Doorstroomregeling vmbo - beroepsonderwijs.  
+Deze regeling wordt aangehaald als: Doorstroomregeling vmbo - beroepsonderwijs.
 
 De 
 minister van onderwijs, cultuur en wetenschappen
-drs. L.M.L.H.A.Hermans   
+drs. L.M.L.H.A.  Hermans    
 
-### Bijlage  1  
+###Bijlage 1 
 
 ####Overzicht niet verwante basisberoepsopleidingen
 
-### *Overzicht van basisberoepsopleidingen waarvoor niet een assistentopleiding is opgenomen in het CREBO die opleidt voor een zelfde beroep of beroepencategorie.* 
+###*Overzicht van basisberoepsopleidingen waarvoor niet een assistentopleiding is opgenomen in het CREBO die opleidt voor een zelfde beroep of beroepencategorie.*
 
 | --- | --- |
 |---|---|
-|  *Landelijk orgaan*   |  *'Niet-verwante' basisberoepsopleidingen techniek*   |
+| *Landelijk orgaan* |*'Niet-verwante' basisberoepsopleidingen techniek* |
 | SOM  | 10060 Vliegtuigmonteur  |
 | --- | 10061 Vliegtuig onderhoudsmonteur  |
 | --- | 10062 Vliegtuigbouwer Kunststoffen  |
@@ -216,7 +216,7 @@ drs. L.M.L.H.A.Hermans
 | --- | Middenspanningsinstallaties (MMI)  |
 | --- | 10263 Monteur Laagspanningsnetten (MLN)  |
 | --- | --- |
-| SVGB  <sup> 1   De deelkwalificaties van de SVGB passen niet allemaal in de sector techniek. Vooralsnog worden ze ingedeeld in deze sector totdat er een nauwkeuriger indeling gemaakt kan worden op basis van analyse van de afzonderlijke kwalificaties.    </sup> | 10292 Assistent Pianotechnicus  |
+| SVGB<sup>1 De deelkwalificaties van de SVGB passen niet allemaal in de sector techniek. Vooralsnog worden ze ingedeeld in deze sector totdat er een nauwkeuriger indeling gemaakt kan worden op basis van analyse van de afzonderlijke kwalificaties. </sup> | 10292 Assistent Pianotechnicus  |
 | --- | 10301 Aspirant Juwelier  |
 | --- | 10302 Atelier Uurwerktechnicus  |
 | --- | 10303 Productiemedewerker Goud- en  |
@@ -272,49 +272,49 @@ drs. L.M.L.H.A.Hermans
 
 | --- | --- |
 |---|---|
-|  *Landelijk orgaan*   |  *'Niet-verwante' basisberoepsopleidingen economie*   |
-| LOB HTV  | 10397 Medewerker Reizen &  |
-| --- | Toeristische Informatie  |
-| --- | 10398 Receptionist  |
-| --- | 10399 Gastheer/Gastvrouw  |
-| --- | 10400 Kok  |
-| --- | 10401 Bartender  |
-| --- | 10402 Fast Food-Specialist  |
+|*Landelijk orgaan* |* 'Niet-verwante' basisberoepsopleidingen economie* |
+|LOB HTV |10397 Medewerker Reizen & |
+| --- |Toeristische Informatie |
+| --- |10398 Receptionist |
+| --- |10399 Gastheer/Gastvrouw  |
+| --- |10400 Kok |
+| --- |10401 Bartender |
+| --- |10402 Fast Food-Specialist |
 
 | --- | --- |
 |---|---|
-|  *Landelijk orgaan*   |  *'Niet-verwante' basisberoepsopleidingen zorg en welzijn*   |
-| OVDB  | 10440 Medewerker Facilitaire  |
-| --- | Dienstverlening, niveau 2  |
-| --- | 10441 Voedingsassistent  |
-| --- | 10745 Helpende Welzijn (HW)  |
-| --- | KOC  |
-| --- | 10508 Kapper  |
-| --- | 10753 Afro Kapper  |
+|*Landelijk orgaan* |* 'Niet-verwante' basisberoepsopleidingen zorg en welzijn* |
+| OVDB |10440 Medewerker Facilitaire  |
+| --- |Dienstverlening, niveau 2 |
+| --- |10441 Voedingsassistent |
+| --- | 10745 Helpende Welzijn (HW) |
+| --- |KOC |
+| --- |10508 Kapper |
+| --- |10753 Afro Kapper |
 
 | --- | --- |
 |---|---|
-|  *Landelijk orgaan*   |  *'Niet-verwante' basisberoepsopleidingen landbouw*   |
-| LOBAS  | 11045 Medewerker BD land- en tuinbouw  |
-| --- | 11046 Medewerker gemechaniseerd loonwerk  |
-| --- | 11047 Medewerker veiling en groothandel  |
-| --- | 11048 Medewerker veehouderij  |
-| --- | 11050 Medewerker bloemen- en tuincentrumbranche  |
-| --- | 11051 Medewerker dierverzorging  |
-| --- | 11052 Medewerker paardenhouderij en paardensport  |
+|*Landelijk orgaan* |* 'Niet-verwante' basisberoepsopleidingen landbouw* |
+| LOBAS |11045 Medewerker BD land- en tuinbouw |
+| --- |11046 Medewerker gemechaniseerd loonwerk |
+| --- |11047 Medewerker veiling en groothandel |
+| --- |11048 Medewerker veehouderij  |
+| --- |11050 Medewerker bloemen- en tuincentrumbranche  |
+| --- |11051 Medewerker dierverzorging  |
+| --- |11052 Medewerker paardenhouderij en paardensport  |
 
-### Bijlage  2a - 2d  
+###Bijlage 2a - 2d 
 
 ####Overzicht verwante basisberoepsopleidingen techniek, economie, zorg en welzijn en landbouw
 
-### Bijlage  2a  
+###Bijlage 2a 
 
 ####Verwante basisberoepsopleidingen techniek
 
 | --- | --- |
 |---|---|
-|  *Landelijk orgaan*   |  *'Verwante' basisberoepsopleidingen techniek*   |
-| SOM  | 10086 Productietechnisch Vakkracht  |
+|* Landelijk orgaan* |* 'Verwante' basisberoepsopleidingen techniek* |
+| SOM | 10086 Productietechnisch Vakkracht  |
 | --- | 10087 Assemblage Vakkracht  |
 | --- | 10089 Monteur Montage/Onderhoud  |
 | --- | 10101 Machinaal Verspaner CNC  |
@@ -336,7 +336,7 @@ drs. L.M.L.H.A.Hermans
 | --- | 10749 Plaatlasser  |
 | --- | 10750 Pijplasser  |
 | --- | --- |
-| Bouwradius  | 10142 Vakkracht Houtskeletbouw  |
+| Bouwradius | 10142 Vakkracht Houtskeletbouw  |
 | --- | 10146 Betonmodelmaker  |
 | --- | 10147 Ovenbouwmetselaar  |
 | --- | 10151 Tegelzetter  |
@@ -360,7 +360,7 @@ drs. L.M.L.H.A.Hermans
 | --- | 10217 Autoschadehersteller  |
 | --- | 10218 Caravanhersteller  |
 | --- | --- |
-| SVGB  <sup> 2   De kwalificaties van de SVGB passen niet allemaal in de sector techniek. Vooralsnog worden ze ingedeeld in deze sector totdat er een nauwkeuriger indeling gemaakt kan worden op basis van analyse van de afzonderlijke kwalificaties.    </sup> | 10275 Gezel Hersteller Schoenen en  |
+| SVGB<sup>2 De kwalificaties van de SVGB passen niet allemaal in de sector techniek. Vooralsnog worden ze ingedeeld in deze sector totdat er een nauwkeuriger indeling gemaakt kan worden op basis van analyse van de afzonderlijke kwalificaties. </sup> | 10275 Gezel Hersteller Schoenen en  |
 | --- | Lederwaren  |
 | --- | 10276 Verkoopmedewerker  |
 | --- | Schoendetailhandel  |
@@ -425,19 +425,19 @@ drs. L.M.L.H.A.Hermans
 | TRANSPORT & LOGISTIEK  | 10678 Chauffeur Goederenvervoer  |
 | --- | 10679 Warehousemedewerker  |
 
-### Bijlage  2b  
+###Bijlage 2b 
 
 ####Verwante basisberoepsopleidingen economie
 
 | --- | --- |
 |---|---|
-|  *Landelijk orgaan*   |  *'Verwante' basisberoepsopleiding economie*   |
+|* Landelijk orgaan * | *'Verwante' basisberoepsopleiding economie* |
 | KC Handel  | 10021 Magazijn Medewerker  |
 | --- | 10780 Verkoopmedewerker  |
 | --- | 10781 Verkoopmedewerker Ambulante handel  |
 | --- | --- |
 | St. ECABO  | 10045 Bedrijfsadministratief Medewerker  |
-| --- | 10048 Commercieel Administratief Medewerker  |
+| --- | 10048 Commercieel Administratief Medewerker |
 | --- | 10050 Secretarieel medewerker  |
 | --- | 10808 Service Medewerker ICT  |
 | --- | 10827 Beveiligingsmedewerker  |
@@ -452,45 +452,45 @@ drs. L.M.L.H.A.Hermans
 | SVO  | 10768 Medewerker Versdetailhandel  |
 | --- | 10769 Productiemedewerker Versindustrie  |
 
-### Bijlage  2c  
+###Bijlage 2c 
 
 ####Verwante basisberoepsopleiding zorg en welzijn
 
 | --- | --- |
 |---|---|
-|  *Landelijk orgaan*   |  *'Verwante' basisberoepsopleiding zorg en welzijn*   |
+|*Landelijk orgaan* |*'Verwante' basisberoepsopleiding zorg en welzijn* |
 | --- | --- |
-| OVDB  | 10428 Helpende  |
+|OVDB |10428 Helpende |
 
-### Bijlage  2d  
+###Bijlage 2d 
 
 ####Verwante basisberoepsopleidingen landbouw
 
 | --- | --- |
 |---|---|
-|  *Landelijk orgaan*   |  *'Verwante' basisberoepsopleidingen landbouw*   |
+|*Landelijk orgaan* |*'Verwante' basisberoepsopleidingen landbouw* |
 | --- | --- |
-| LOBAS  | 11044 Medewerker plantenteelt  |
-| --- | 11049 Medewerker levensmiddelentechnoloog 2  |
-| --- | 11053 Medewerker bos- en natuurbeheer  |
-| --- | 11054 Medewerker groenvoorziener/woonomgeving  |
-| --- | 11055 Medewerker hovenier  |
-| --- | 11056 Medewerker land, water en milieu  |
-| --- | 11057 Groen/technisch medewerker recreatiebedrijf  |
+| LOBAS |11044 Medewerker plantenteelt |
+| --- |11049 Medewerker levensmiddelentechnoloog 2 |
+| --- |11053 Medewerker bos- en natuurbeheer |
+| --- |11054 Medewerker groenvoorziener/woonomgeving |
+| --- |11055 Medewerker hovenier |
+| --- |11056 Medewerker land, water en milieu |
+| --- |11057 Groen/technisch medewerker recreatiebedrijf |
 
-### Bijlage  3a - 3d  
+###Bijlage 3a - 3d 
 
 ####Overzicht van landelijke organen techniek, economie, zorg en welzijn en landbouw
 
-### Bijlage  3a  
+###Bijlage 3a 
 
 ####Landelijke organen techniek
 
-Tot de beroepsopleidingen techniek in het secundair beroepsonderwijs worden de opleidingen gerekend die vallen onder de volgende landelijke organen beroepsonderwijs:  
+Tot de beroepsopleidingen techniek in het secundair beroepsonderwijs worden de opleidingen gerekend die vallen onder de volgende landelijke organen beroepsonderwijs:
 
 | --- | --- |
 |---|---|
-|  *LOB*   |  *Branche/ Opleidingen secundair beroepsonderwijs techniek*   |
+|* LOB * |* Branche/ Opleidingen secundair beroepsonderwijs techniek * |
 | SOM  | Metaal  |
 | Bouwradius  | Bouw  |
 | SVS  | Beschermings- en Afwerkingstechnieken,  |
@@ -498,7 +498,7 @@ Tot de beroepsopleidingen techniek in het secundair beroepsonderwijs worden de o
 | INNOVAM/VOCAR  | Motorvoertuigen-, Carrosserie- en  |
 | --- | Tweewielertechniek  |
 | VEV  | Elektrotechniek  |
-| SVGB  | Gezondheidstechnische Beroepen &  |
+| SVGB  | Gezondheidstechnische Beroepen & |
 | --- | Ambachten  |
 | GOC  | Grafische beroepen  |
 | VOC/BETEX  | Mode en Textiel  |
@@ -509,93 +509,93 @@ Tot de beroepsopleidingen techniek in het secundair beroepsonderwijs worden de o
 | Intechnium  | Installatietechniek  |
 | Transport-logistiek  | Transport en logistiek  |
 
-### Bijlage  3b  
+###Bijlage 3b 
 
 ####Landelijke organen economie
 
-Tot de opleidingen economie in het secundair beroepsonderwijs worden de opleidingen gerekend die vallen onder de volgende landelijke organen beroepsonderwijs:  
+Tot de opleidingen economie in het secundair beroepsonderwijs worden de opleidingen gerekend die vallen onder de volgende landelijke organen beroepsonderwijs:
 
 | --- | --- |
 |---|---|
-|  *LOB*   |  *Branche/ Opleidingen secundair beroepsonderwijs economie*   |
-| KC-Handel  | Handel: Detailhandel, Groothandel en Internationale Handel  |
-| St. Ecabo  | Economisch-Administratieve Beroepen, Sociaal-Juridische Dienstverlening en Beveiliging  |
-| LOB HTV  | Horeca, Toerisme en Voeding  |
-| SVO  | Opleiding voor de vleessector  |
+|*LOB* |*Branche/ Opleidingen secundair beroepsonderwijs economie* |
+|KC-Handel |Handel: Detailhandel, Groothandel en Internationale Handel |
+|St. Ecabo |Economisch-Administratieve Beroepen, Sociaal-Juridische Dienstverlening en Beveiliging |
+|LOB HTV |Horeca, Toerisme en Voeding |
+|SVO |Opleiding voor de vleessector |
 
-### Bijlage  3c  
+###Bijlage 3c 
 
 ####Landelijke organen zorg en welzijn
 
-Tot de beroepsopleidingen zorg en welzijn in het secundair beroepsonderwijs worden de opleidingen gerekend die vallen onder de volgende landelijke organen beroepsonderwijs:  
+Tot de beroepsopleidingen zorg en welzijn in het secundair beroepsonderwijs worden de opleidingen gerekend die vallen onder de volgende landelijke organen beroepsonderwijs:
 
 | --- | --- |
 |---|---|
-|  *LOB*   |  *Branche/ Opleidingen secundair beroepsonderwijs zorg en welzijn*   |
-| OVDB  | Gezondheidszorg, Dienstverlening en Welzijn  |
-| KOC  | Haarverzorging, Schoonheidsverzorging en Voetverzorging  |
+|*LOB* |*Branche/ Opleidingen secundair beroepsonderwijs zorg en welzijn* |
+|OVDB  |Gezondheidszorg, Dienstverlening en Welzijn |
+|KOC |Haarverzorging, Schoonheidsverzorging en Voetverzorging |
 
-### Bijlage  3d  
+###Bijlage 3d 
 
 ####Landelijk orgaan landbouw
 
-Tot de beroepsopleidingen landbouw in het secundair beroepsonderwijs worden de opleidingen gerekend die vallen onder het volgende landelijke orgaan beroepsonderwijs:  
+Tot de beroepsopleidingen landbouw in het secundair beroepsonderwijs worden de opleidingen gerekend die vallen onder het volgende landelijke orgaan beroepsonderwijs:
 
 | --- | --- |
 |---|---|
-|  *LOB*   |  *Branche/ Opleidingen secundair beroepsonderwijs landbouw*   |
-| LOBAS  | Bloemen- en tuincentrumbranche, dierverzorging en veterinaire ondersteuning, groene ruimte, milieutoezicht, paardenhouderij en paardensport, plant, veehouderij en voedingsindustrie  |
+|*LOB* |* Branche/ Opleidingen secundair beroepsonderwijs landbouw* |
+| LOBAS  |Bloemen- en tuincentrumbranche, dierverzorging en veterinaire ondersteuning, groene ruimte, milieutoezicht, paardenhouderij en paardensport, plant, veehouderij en voedingsindustrie |
 
-### Bijlage  4a  
+###Bijlage 4a 
 
 ####Sectorrelevante vakken techniek
 
-In deze bijlage zijn opgenomen de relevante vakken uit het lbo, vbo, mavo en mavo/vbo voor doorstroom naar de opleidingen, bedoeld in bijlagen 2a en 3a 
+In deze bijlage zijn opgenomen de relevante vakken uit het lbo, vbo, mavo en mavo/vbo voor doorstroom naar de opleidingen, bedoeld in bijlagen 2a en 3a
 
-wiskunde  
+wiskunde
 
-natuurkunde  
+natuurkunde
 
-scheikunde   
+scheikunde
 
-### Bijlage  4b  
+###Bijlage 4b 
 
 ####Sectorrelevante vakken economie
 
-In deze bijlage zijn opgenomen de relevante vakken uit het lbo, vbo, mavo en mavo/vbo voor doorstroom naar de opleidingen, bedoeld in bijlagen 2b en 3b 
+In deze bijlage zijn opgenomen de relevante vakken uit het lbo, vbo, mavo en mavo/vbo voor doorstroom naar de opleidingen, bedoeld in bijlagen 2b en 3b
 
-economie  
+economie 
 
-tweede moderne vreemde taal  
+tweede moderne vreemde taal
 
-wiskunde   
+wiskunde
 
-### Bijlage  4c  
+###Bijlage 4c 
 
 ####Sectorrelevante vakken zorg en welzijn
 
-In deze bijlage zijn opgenomen de relevante vakken uit het lbo, vbo, mavo en mavo/vbo voor doorstroom naar de opleidingen, bedoeld in bijlagen 2c en 3c 
+In deze bijlage zijn opgenomen de relevante vakken uit het lbo, vbo, mavo en mavo/vbo voor doorstroom naar de opleidingen, bedoeld in bijlagen 2c en 3c
 
-biologie  
+biologie
 
-wiskunde  
+wiskunde
 
-maatschappijleer  
+maatschappijleer
 
-geschiedenis  
+geschiedenis
 
-aardrijkskunde   
+aardrijkskunde
 
-### Bijlage  4d  
+###Bijlage 4d 
 
 ####Sectorrelevante vakken landbouw
 
-In deze bijlage zijn opgenomen de relevante vakken uit het lbo, vbo, mavo en mavo/vbo voor doorstroom naar de opleidingen, bedoeld in bijlagen 2d en 3d 
+In deze bijlage zijn opgenomen de relevante vakken uit het lbo, vbo, mavo en mavo/vbo voor doorstroom naar de opleidingen, bedoeld in bijlagen 2d en 3d
 
-wiskunde  
+wiskunde
 
-natuurkunde  
+natuurkunde
 
-scheikunde  
+scheikunde
 
-biologie   
+biologie

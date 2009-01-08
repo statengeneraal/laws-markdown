@@ -32,7 +32,7 @@ Deze verordening verstaat onder:
 
 ### Artikel  2  
 
-De ondernemer, die grond in gebruik heeft, is verplicht de op die grond voorkomende wilde haverplanten, te verwijderen en te vernietigen, vóórdat het zaad begint uit te vallen, doch uiterlijk in de provincies Utrecht, Zuid-Holland, Gelderland, Noord-Brabant, Zeeland en Limburg vóór 1 juli en in de provincies Groningen, Friesland, Drenthe, Flevoland, Overijssel en Noord-Holland vóór 15 juli van het lopende kalenderjaar.  
+De ondernemer, die grond in gebruik heeft, is verplicht de op die grond voorkomende wilde haverplanten, te verwijderen en te vernietigen, vóórdat het zaad begint uit te vallen, doch uiterlijk in de provincies Utrecht, Zuid-Holland, Gelderland, Noord-Brabant, Zeeland en Limburg vóór 1 juli en in de provincies Groningen, Friesland, Drenthe, Flevoland, Overijssel en Noord-Holland vóór 15 juli van het lopende kalenderjaar. 
 
 ### §  3  
 
@@ -42,15 +42,15 @@ De ondernemer, die grond in gebruik heeft, is verplicht de op die grond voorkome
 
 1.  Het bestuur kan bij besluit, gehoord de commissie, vrijstelling verlenen van een of meer bepalingen uit deze verordening en daarbij nadere voorschriften vaststellen.   
 2.  De secretaris is bevoegd namens het bestuur op schriftelijk verzoek van de ondernemer ontheffing te verlenen van het bepaalde in artikel 2 en daarbij nadere voorschriften vast te stellen, welke onder meer de verplichting kunnen inhouden de op de grond voorkomende wilde haverplanten met een daartoe geschikt chemisch middel te bestrijden. Een dergelijk verzoek dient tijdig vóórdat het zaad begint uit te vallen, doch uiterlijk twee weken vóór de in artikel 2 bedoelde datum, te worden ingediend   
-3.  Een besluit als bedoeld in het eerste lid wordt bekend gemaakt in het Verordeningenblad Bedrijfsorganisatie en treedt in werking met ingang van de tweede dag na die van bekendmaking, tenzij het betreffende besluit anders bepaalt.   
+3.  Een besluit als bedoeld in het eerste lid wordt bekend gemaakt in het Verordeningenblad Bedrijfsorganisatie en treedt in werking met ingang van de tweede dag na die van bekendmaking, tenzij het betreffende besluit anders bepaalt.  
 
 ### Artikel  4  
 
-Het bepaalde bij of krachtens deze verordening, waarbij aan ondernemers verplichtingen worden opgelegd, is mede bindend voor andere natuurlijke en rechtspersonen, voor zover deze handelingen verrichten die bedrijfsmatig in ondernemingen, waarvoor het productschap is ingesteld, plegen te worden verricht.  
+Het bepaalde bij of krachtens deze verordening, waarbij aan ondernemers verplichtingen worden opgelegd, is mede bindend voor andere natuurlijke en rechtspersonen, voor zover deze handelingen verrichten die bedrijfsmatig in ondernemingen, waarvoor het productschap is ingesteld, plegen te worden verricht. 
 
 ### Artikel  5  
 
-Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld.  
+Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld. 
 
 ### §  4  
 
@@ -58,16 +58,16 @@ Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtre
 
 ### Artikel  6  
 
-Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie.  
+Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie. 
 
 ### Artikel  7  
 
-Deze verordening wordt aangehaald als Verordening PA bestrijding wilde haver 2008.  
+Deze verordening wordt aangehaald als Verordening PA bestrijding wilde haver 2008. 
 
 Den Haag 
 27 maart 2008   
 
-Th.A.M. Meijer  
+Th.A.M.  Meijer  
 voorzitter  
 
 M. Elema  

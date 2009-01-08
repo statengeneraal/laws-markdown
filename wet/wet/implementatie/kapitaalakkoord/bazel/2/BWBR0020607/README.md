@@ -11,23 +11,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet op het financieel toezicht.   
+Wijzigt de Wet op het financieel toezicht.
 
 ### Artikel  II  
 
-Bij algemene maatregel van bestuur kan worden bepaald in welke gevallen de [artikelen 3:18a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [3:74a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) buiten toepassing blijven tot 1 januari 2008.  
+Bij algemene maatregel van bestuur kan worden bepaald in welke gevallen de [artikelen 3:18a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [3:74a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) buiten toepassing blijven tot 1 januari 2008. 
 
 ### Artikel  III  
 
-Voor de plaatsing van deze wet in het Staatsblad brengt Onze Minister van Financiën de in deze wet voorkomende verwijzingen naar en nummering van artikelen van de [Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in overeenstemming met de actuele nummering van die wet.  
+Voor de plaatsing van deze wet in het Staatsblad brengt Onze Minister van Financiën de in deze wet voorkomende verwijzingen naar en nummering van artikelen van de [Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in overeenstemming met de actuele nummering van die wet. 
 
 ### Artikel  IV  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  V  
 
-Deze wet wordt aangehaald als: Wet implementatie kapitaalakkoord Bazel 2.  
+Deze wet wordt aangehaald als: Wet implementatie kapitaalakkoord Bazel 2. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -37,10 +37,10 @@ Beatrix
 
 De 
 Minister van Financiën, 
-G.Zalm 
+G. Zalm   
 
 de *zevende* december 2006 
 
 De 
 Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+E. M. H. Hirsch Ballin    

@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-In afwijking van artikel E 14, vierde lid, tweede volzin, van de Overgangswet WBO zoals gewijzigd door deze wet, is de daar bedoelde verplichting eveneens niet van toepassing voor de gevallen waarin op grond van het vierde lid, tweede volzin, van dat artikel, zoals luidend op de dag voorafgaand aan de datum van inwerkingtreding van deze wet ontheffing is verleend.  
+In afwijking van artikel E 14, vierde lid, tweede volzin, van de Overgangswet WBO zoals gewijzigd door deze wet, is de daar bedoelde verplichting eveneens niet van toepassing voor de gevallen waarin op grond van het vierde lid, tweede volzin, van dat artikel, zoals luidend op de dag voorafgaand aan de datum van inwerkingtreding van deze wet ontheffing is verleend. 
 
 ### Artikel  III  
 
-Deze wet treedt in werking met ingang van 1 augustus 1992.  
+Deze wet treedt in werking met ingang van 1 augustus 1992. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

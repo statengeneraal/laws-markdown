@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit donorregister.   
+Wijzigt het Besluit donorregister.  
 
 ### Artikel  II  
 
-Vóór de datum van inwerkingtreding van dit besluit ter beschikking gestelde donorformulieren behouden hun gelding.  
+Vóór de datum van inwerkingtreding van dit besluit ter beschikking gestelde donorformulieren behouden hun gelding. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van 1 maart 2001.  
+Dit besluit treedt in werking met ingang van 1 maart 2001. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -40,7 +40,7 @@ A. H. Korthals
 de *tweeëntwintigste* februari 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     
 
 ### Bijlage  
 

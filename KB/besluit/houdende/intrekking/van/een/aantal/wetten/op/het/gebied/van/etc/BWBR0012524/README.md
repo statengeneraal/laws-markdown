@@ -11,11 +11,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-De in [artikel 7 van de Kaderwet militaire pensioenen](../../../../../../../../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) genoemde wetten en regelingen worden ingetrokken.  
+De in [artikel 7 van de Kaderwet militaire pensioenen](../../../../../../../../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) genoemde wetten en regelingen worden ingetrokken. 
 
 ### Artikel  II  
 
-Wijzigt de Algemene militaire pensioenwet.   
+Wijzigt de Algemene militaire pensioenwet.  
 
 ### Artikel  III  
 
@@ -27,7 +27,7 @@ b. die als gewezen militair op 31 mei 2001 geen pensioengeldige diensttijd opbou
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking met ingang van 1 juni 2001, met dien verstande dat artikel II terugwerkt tot en met 31 januari 2001.  
+Dit besluit treedt in werking met ingang van 1 juni 2001, met dien verstande dat artikel II terugwerkt tot en met 31 januari 2001. 
 
 Onze Minister van Defensie is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -41,4 +41,4 @@ H. A. L. van Hoof
 de *twaalfde* juni 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

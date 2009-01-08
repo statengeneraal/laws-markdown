@@ -10,35 +10,35 @@ Besluit:
 
 ### Artikel  1  
 
-Deze aanwijzing is van toepassing op zorg gerelateerd aan aandoeningen, opgenomen in de bijlage bij deze aanwijzing, voor zover daarvoor prestatiebeschrijvingen zijn vastgesteld. Ter uitvoering van deze aanwijzing stelt de Nederlandse Zorgautoriteit, verder te noemen de zorgautoriteit, met ingang van 1 januari 2008 beleidsregels vast.  
+Deze aanwijzing is van toepassing op zorg gerelateerd aan aandoeningen, opgenomen in de bijlage bij deze aanwijzing, voor zover daarvoor prestatiebeschrijvingen zijn vastgesteld. Ter uitvoering van deze aanwijzing stelt de Nederlandse Zorgautoriteit, verder te noemen de zorgautoriteit, met ingang van 1 januari 2008 beleidsregels vast. 
 
 ### Artikel  2  
 
-De beleidsregels houden in dat met betrekking tot het in rekening brengen van zorg als bedoeld in artikel 1, sprake is van een tarief waarop [artikel 57, vierde lid, aanhef en onder c, van de Wet marktordening gezondheidszorg](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) van toepassing is.  
+De beleidsregels houden in dat met betrekking tot het in rekening brengen van zorg als bedoeld in artikel 1, sprake is van een tarief waarop [artikel 57, vierde lid, aanhef en onder c, van de Wet marktordening gezondheidszorg](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) van toepassing is. 
 
 ### Artikel  3  
 
 1.  De zorgautoriteit stelt het kapitaallastenbudget van individuele instellingen neerwaarts bij, rekening houdend met de omvang van het DBC-segment met zorg waarop [artikel 57, vierde lid, aanhef en onder c, van de Wet marktordening gezondheidszorg](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) van toepassing is.   
-2.  De beleidsregels betreffende de dekking van het kapitaallastenbudget van individuele instellingen hebben geen betrekking op zorg waarvoor [artikel 57, vierde lid, aanhef en onder c, van de Wet marktordening gezondheidszorg](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) van toepassing is.   
+2.  De beleidsregels betreffende de dekking van het kapitaallastenbudget van individuele instellingen hebben geen betrekking op zorg waarvoor [artikel 57, vierde lid, aanhef en onder c, van de Wet marktordening gezondheidszorg](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) van toepassing is.  
 
 ### Artikel  4  
 
-De zorgautoriteit evalueert op basis van objectieve evaluatiecriteria de ontwikkeling in het DBC-segment met zorg waarop [artikel 57, vierde lid, aanhef en onder c, van de Wet marktordening gezondheidszorg](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) van toepassing is, en brengt mij hier verslag over uit.  
+De zorgautoriteit evalueert op basis van objectieve evaluatiecriteria de ontwikkeling in het DBC-segment met zorg waarop [artikel 57, vierde lid, aanhef en onder c, van de Wet marktordening gezondheidszorg](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) van toepassing is, en brengt mij hier verslag over uit. 
 
 ### Artikel  5  
 
 1.  De zorgautoriteit onderzoekt op basis van specifieke uitbreidingscriteria jaarlijks de wenselijkheid om het DBC-segment met zorg waarop [artikel 57, vierde lid, aanhef en onder c, van de Wet marktordening gezondheidszorg](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) van toepassing is, verder uit te breiden met inachtneming van het verslag zoals genoemd onder artikel 4.   
-2.  De zorgautoriteit onderzoekt daarenboven de markt van eerstelijnsdiagnostiek mede in relatie tot artikel 5.1. Op basis van dit onderzoek adviseert de zorgautoriteit mij over de wenselijkheid om per 2009 de eerstelijnsdiagnostiek onder de definitie van zorg te laten vallen waarop [artikel 57, vierde lid, aanhef en onder c, van de Wet marktordening gezondheidszorg](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) van toepassing is. Indien de zorgautoriteit het op basis van het in dit lid genoemde onderzoek niet wenselijk acht, adviseert zij mij over mogelijke alternatieven voor de bekostiging van de eerstelijnsdiagnostiek. Onder de eerstelijnsdiagnostiek wordt verstaan de diagnostiek zoals genoemd in beleidsregel CI-897, lid A255.   
+2.  De zorgautoriteit onderzoekt daarenboven de markt van eerstelijnsdiagnostiek mede in relatie tot artikel 5.1. Op basis van dit onderzoek adviseert de zorgautoriteit mij over de wenselijkheid om per 2009 de eerstelijnsdiagnostiek onder de definitie van zorg te laten vallen waarop [artikel 57, vierde lid, aanhef en onder c, van de Wet marktordening gezondheidszorg](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) van toepassing is. Indien de zorgautoriteit het op basis van het in dit lid genoemde onderzoek niet wenselijk acht, adviseert zij mij over mogelijke alternatieven voor de bekostiging van de eerstelijnsdiagnostiek. Onder de eerstelijnsdiagnostiek wordt verstaan de diagnostiek zoals genoemd in beleidsregel CI-897, lid A255.  
 
 ### Artikel  6  
 
-Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.  
+Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst. 
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink  
+A. Klink    
 
-### Bijlage  
+### Bijlage 
 
 ####Aandoeningen DBC-segment met vrije prijzen
 
@@ -90,7 +90,7 @@ A.Klink
 
 23 urineleidersteen  
 
-24 zwangerschapsdiabetes    
+24 zwangerschapsdiabetes   
 
 #### *Aandoeningen waarmee het reeds bestaande DBC-segment met vrije prijzen wordt uitgebreid* 
 
@@ -162,5 +162,5 @@ A.Klink
 
 34 reumatoide artritis (ontsteking gewrichten, reuma)  
 
-35 polyartritis- niet geclassificeerd (ontsteking in meerdere gewrichten).    
+35 polyartritis- niet geclassificeerd (ontsteking in meerdere gewrichten).   
 

@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Artikel I en II vinden geen toepassing indien aanspraak op wachtgeld of uitkering op grond van de [Regeling wachtgeld en uitkering bij privatisering](../../../../../../../../../AMvB/regeling/wachtgeld/en/uitkering/bij/privatisering/BWBR0004583/README.md) respectievelijk op grond van het Wachtgeld- en uitkeringsbesluit burgerlijke ambtenaren defensie bij privatisering, en een uitkering ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) is ontstaan vóór het tijdstip van inwerkingtreding van dit besluit.  
+Artikel I en II vinden geen toepassing indien aanspraak op wachtgeld of uitkering op grond van de [Regeling wachtgeld en uitkering bij privatisering](../../../../../../../../../AMvB/regeling/wachtgeld/en/uitkering/bij/privatisering/BWBR0004583/README.md) respectievelijk op grond van het Wachtgeld- en uitkeringsbesluit burgerlijke ambtenaren defensie bij privatisering, en een uitkering ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) is ontstaan vóór het tijdstip van inwerkingtreding van dit besluit. 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

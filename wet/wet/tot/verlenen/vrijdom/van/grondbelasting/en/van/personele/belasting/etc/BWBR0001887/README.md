@@ -11,15 +11,15 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ### Artikel  1  
 
-Voor het Vredespaleis te 's-Gravenhage met zijne gebouwde en ongebouwde aanhoorigheden wordt geen belastbare opbrengst in den kadastralen legger opgenomen.  
+Voor het Vredespaleis te 's-Gravenhage met zijne gebouwde en ongebouwde aanhoorigheden wordt geen belastbare opbrengst in den kadastralen legger opgenomen. 
 
 ### Artikel  2  
 
-Wegens het gebruiken van het in artikel 1 bedoelde gebouw met zijne gebouwde en ongebouwde aanhoorigheden wordt geen personeele belasting geheven. Deze vrijstelling omvat niet de gedeelten dienende tot woning van bestuurders en beambten.  
+Wegens het gebruiken van het in artikel 1 bedoelde gebouw met zijne gebouwde en ongebouwde aanhoorigheden wordt geen personeele belasting geheven. Deze vrijstelling omvat niet de gedeelten dienende tot woning van bestuurders en beambten. 
 
 ### Artikel  3  
 
-Deze wet treedt in werking op 1 Januari 1913.  
+Deze wet treedt in werking op 1 Januari 1913. 
 
 Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

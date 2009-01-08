@@ -15,40 +15,43 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet op de studiefinanciering.   
+Wijzigt de Wet op de studiefinanciering.  
 
 ### Artikel  II  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  
 
 ### Artikel  IV  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Wijzigt de Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek, enz. (aanpassing collegegeldbepalingen).   
+Wijzigt de Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek, enz. (aanpassing collegegeldbepalingen).  
 
 ### Artikel  VIII  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Wijzigt de Algemene Kinderbijslagwet.   
+Wijzigt de Algemene Kinderbijslagwet.  
 
 ### Artikel  IX  
 
-Wijzigt de Wet tegemoetkoming studiekosten.   
+Wijzigt de Wet tegemoetkoming studiekosten.  
 
 ### Artikel  X  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.  
 
 ### Artikel  XIV  
 
-1.  Deze wet treedt in werking met ingang van 1 augustus 1996, met dien verstande dat de bepalingen, genoemd in lid 1 *a* tot en met het zevende lid, in werking treden op de in die leden aangeduide tijdstippen.   
+1.  Deze wet treedt in werking met ingang van 1 augustus 1996, met dien verstande dat de bepalingen, genoemd in lid 1*a* tot en met het zevende lid, in werking treden op de in die leden aangeduide tijdstippen.   
 1a.  Artikel I met uitzondering van de onderdelen Q, R en S, en artikel II treden in werking met ingang van 1 september 1996.   
 2.  Artikel VIII treedt in werking met ingang van 1 oktober 1996.   
-3.  Artikel I, de onderdelen Q, R en S, treedt in werking met ingang van 1 januari 1997.   
+3.  Artikel I, de onderdelen Q, R en S, treedt in werking met ingang van 1 januari 1997.  
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 28 maart 1996  
-Beatrix  
+Beatrix   
 
 De Minister van Onderwijs, Cultuur en Wetenschappen, 
 J. M. M. Ritzen   

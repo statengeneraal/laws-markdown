@@ -6,13 +6,13 @@ De Minister van Financiën,
 Gelet op [artikel 58a van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);
 
 Gehoord de Bijzondere Commissie;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
 ####Algemene bepalingen
 
-1.  In dit besluit wordt verstaan onder:   a. Minister:  de Minister van Financiën;    b. ministerie:  het Ministerie van Financiën;    c. directie:  de directie waar de ambtenaar werkzaam is;    d. bevoegd gezag:  
+1.  In dit besluit wordt verstaan onder:   a.  Minister:   de Minister van Financiën;    b. ministerie:   het Ministerie van Financiën;    c.  directie:   de directie waar de ambtenaar werkzaam is;    d. bevoegd gezag:  
 
 de Secretaris-Generaal;  
 
@@ -24,7 +24,7 @@ de Directeur-Generaal voor Fiscale Zaken;
 
 de Directeur-Generaal van de Rijksbegroting;  
 
-de Directeur-Generaal der Belastingen.      e. bedrijfshulpverlener:  de ambtenaar werkzaam bij het ministerie die is aangewezen om conform [artikel 15 van de Arbeidsomstandighedenwet](../../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) hulp in of rond de gebouwen van het ministerie te verlenen met één van de volgende taken: 
+de Directeur-Generaal der Belastingen.      e.  bedrijfshulpverlener:   de ambtenaar werkzaam bij het ministerie die is aangewezen om conform [artikel 15 van de Arbeidsomstandighedenwet](../../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) hulp in of rond de gebouwen van het ministerie te verlenen met één van de volgende taken: 
 
 het verlenen van eerste hulp bij ongevallen;  
 
@@ -48,7 +48,7 @@ ploegleider EHBO;
 
 bevelvoerder brandweer;  
 
-hoofd bedrijfshulpverlening;      f. BHV:  de bedrijfshulpverleningsorganisatie van het ministerie.      
+hoofd bedrijfshulpverlening;      f.  BHV:   de bedrijfshulpverleningsorganisatie van het ministerie.      
 
 ### Artikel  2  
 
@@ -80,72 +80,72 @@ bij schorsing of ontslag als ambtenaar in dienst van het ministerie.
 2.  Er is sprake van naar behoren uitvoeren van de bedrijfshulpverleningstaken naast de normale taak als de bedrijfshulpverlener voldoende inzetbaar is geweest voor de uitoefening van deze taken.   
 3.  Onderstaand worden de taken aangegeven voor de verschillende categorieën bedrijfshulpverleners. 
 
-a. Bedrijfshulpverlener (basis) Taken: 
+a.  Bedrijfshulpverlener (basis) Taken: 
 
-1) het ontruimen van het gebouw;  
+1)  het ontruimen van het gebouw;  
 
-2) het begeleiden van personen naar veilige plaatsen;  
+2)  het begeleiden van personen naar veilige plaatsen;  
 
-3) het controleren van het gebouw op aanwezigheid van personen;  
+3)  het controleren van het gebouw op aanwezigheid van personen;  
 
-4) het verrichten van levensreddende handelingen;  
+4)  het verrichten van levensreddende handelingen;  
 
-5) het bestrijden van branden met kleine blusmiddelen;  
+5)  het bestrijden van branden met kleine blusmiddelen;  
 
-6) het afvoeren van gewonden, het begeleiden van personen in geval van ontruiming.    
+6)  het afvoeren van gewonden, het begeleiden van personen in geval van ontruiming.    
 
-b. EHBO’er Taken: 
+b.  EHBO’er Taken: 
 
-1) het verlenen van eerste hulp aan personen;  
+1)  het verlenen van eerste hulp aan personen;  
 
-2) het afvoeren van gewonden, het begeleiden van personen in geval van ontruiming;  
+2)  het afvoeren van gewonden, het begeleiden van personen in geval van ontruiming;  
 
-3) het controleren van gebouwen op de aanwezigheid van personen.    
+3)  het controleren van gebouwen op de aanwezigheid van personen.    
 
-c. EHBO’er met aantekening reanimatie De taken zijn gelijk aan die van de EHBO’er.  
+c.  EHBO’er met aantekening reanimatie De taken zijn gelijk aan die van de EHBO’er.  
 
-d. Brandwacht Taken: 
+d.  Brandwacht Taken: 
 
-1) het verrichten van levensreddende handelingen;  
+1)  het verrichten van levensreddende handelingen;  
 
-2) het bestrijden van brand met het ter beschikking staand brandbestrijdingsmateriaal;  
+2)  het bestrijden van brand met het ter beschikking staand brandbestrijdingsmateriaal;  
 
-3) het ondersteunen, assisteren en begeleiden van de gemeentelijke of regionale brandweer dan wel andere professionele hulpverleners;  
+3)  het ondersteunen, assisteren en begeleiden van de gemeentelijke of regionale brandweer dan wel andere professionele hulpverleners;  
 
-4) het verrichten van schade beperkende maatregelen;  
+4)  het verrichten van schade beperkende maatregelen;  
 
-5) het doen van technische hulpverlening;  
+5)  het doen van technische hulpverlening;  
 
-6) het afvoeren van gewonden, het begeleiden van personen in geval van ontruiming en het controleren van gebouwen op aanwezigheid van personen.    
+6)  het afvoeren van gewonden, het begeleiden van personen in geval van ontruiming en het controleren van gebouwen op aanwezigheid van personen.    
 
-e. Brandwacht met aantekening adembescherming De taken zijn gelijk aan die van de brandwacht. De brandwacht met aantekening adembescherming kan bij zijn taken gebruik maken van adembeschermende middelen. Hij fungeert tevens als gids voor de brandweer.  
+e.  Brandwacht met aantekening adembescherming De taken zijn gelijk aan die van de brandwacht. De brandwacht met aantekening adembescherming kan bij zijn taken gebruik maken van adembeschermende middelen. Hij fungeert tevens als gids voor de brandweer.  
 
-f. Ploegleider Taken: 
+f.  Ploegleider Taken: 
 
-1) de taken van één van de hierboven genoemde bedrijfshulpverleners;  
+1)  de taken van één van de hierboven genoemde bedrijfshulpverleners;  
 
-2) geeft leiding aan meerdere leden van de bedrijfshulpverleningsorgani-satie;  
+2)  geeft leiding aan meerdere leden van de bedrijfshulpverleningsorgani-satie;  
 
-3) voert opdrachten van het Hoofd Bedrijfshulpverlening uit met een ploeg BHV-ers.    
+3)  voert opdrachten van het Hoofd Bedrijfshulpverlening uit met een ploeg BHV-ers.    
 
-g. Hoofd bedrijfshulpverlening Taken: 
+g.  Hoofd bedrijfshulpverlening Taken: 
 
-1) het dagelijks leiding geven aan de bedrijfshulpverleningsorganisatie;  
+1)  het dagelijks leiding geven aan de bedrijfshulpverleningsorganisatie;  
 
-2) geeft bij calamiteiten leiding aan de BHV-organisatie en het beveiligingspersoneel;  
+2)  geeft bij calamiteiten leiding aan de BHV-organisatie en het beveiligingspersoneel;  
 
-3) draagt zorg voor de werving, opleiding en oefening van het BHV-personeel;  
+3)  draagt zorg voor de werving, opleiding en oefening van het BHV-personeel;  
 
-4) stelt het BHV-noodplan (aanvalsplan en ontruimingsplan) op en laat dit uitvoeren;  
+4)  stelt het BHV-noodplan (aanvalsplan en ontruimingsplan) op en laat dit uitvoeren;  
 
-5) treedt op als docent;  
+5)  treedt op als docent;  
 
-6) doet voordrachten aan het bevoegd gezag voor de aan de bedrijfshulpverleners toe te kennen toelagen.       
-4a.  Om het bovenvermelde naar behoren te kunnen uitvoeren dienen alle Bedrijfshulpverleners in het bezit te zijn van een BHV-certificaat van een erkend opleidingsinstituut. Bedrijfshulpverleners die nog niet in het bezit zijn van een BHV-certificaat kunnen slechts worden ingezet voor de onder a vermelde taken 1 tot en met 3.   
-4b.  Daarnaast dient de onder 3b vermelde EHBO’er in het bezit te zijn van het Eenheidsdiploma EHBO van het Oranje Kruis. De onder 3c vermelde EHBO’er dient in het bezit te zijn van het Eenheidsdiploma EHBO met aantekening reanimatie van het Oranje Kruis.   
-4c.  De brandwacht dient in het bezit te zijn van certificaat 1 en 4 (adembescherming) van de Nederlandse Vereniging Bedrijfshulpverlening (NVB).   
-4d.  De ploegleider dient in het bezit te zijn van het certificaat ploegleider.   
-4e.  Het hoofd BHV dient in het bezit te zijn van het certificaat van de opleiding HBHV.   
+6)  doet voordrachten aan het bevoegd gezag voor de aan de bedrijfshulpverleners toe te kennen toelagen.       
+4a.   Om het bovenvermelde naar behoren te kunnen uitvoeren dienen alle Bedrijfshulpverleners in het bezit te zijn van een BHV-certificaat van een erkend opleidingsinstituut. Bedrijfshulpverleners die nog niet in het bezit zijn van een BHV-certificaat kunnen slechts worden ingezet voor de onder a vermelde taken 1 tot en met 3.   
+4b.   Daarnaast dient de onder 3b vermelde EHBO’er in het bezit te zijn van het Eenheidsdiploma EHBO van het Oranje Kruis. De onder 3c vermelde EHBO’er dient in het bezit te zijn van het Eenheidsdiploma EHBO met aantekening reanimatie van het Oranje Kruis.   
+4c.   De brandwacht dient in het bezit te zijn van certificaat 1 en 4 (adembescherming) van de Nederlandse Vereniging Bedrijfshulpverlening (NVB).   
+4d.   De ploegleider dient in het bezit te zijn van het certificaat ploegleider.   
+4e.   Het hoofd BHV dient in het bezit te zijn van het certificaat van de opleiding HBHV.   
 5.  De bedrijfshulpverlener is voldoende inzetbaar, indien de bedrijfshulpverlener zich vrijwillig gedurende een jaar verdienstelijk heeft gemaakt op het terrein van de bedrijfshulpverlening, conform het in artikel 3 tweede lid per taak binnen de BHVorganisatie bepaalde. Dit blijkt jaarlijks uit het regelmatig en in voldoende mate (minimaal 20 uur voor BHV’er, minimaal 18 uur voor EHBO’er en minimaal 24 uur voor brandwacht) deelnemen aan de herhalingslessen en oefeningen.   
 6.  Het bevoegd gezag ziet, op voordracht van het hoofd bedrijfshulpver- lening, toe op de inzetbaarheid voor de aangewezen taak.   
 7.  BHV-cursussen, -herhalingslessen, -oefeningen en wedstrijden worden zoveel mogelijk tijdens de normale bedrijfstijd gehouden.   
@@ -172,7 +172,7 @@ de bevelvoerder brandwacht uit een toelage van € 317,65 (bruto) en een functie
 
 het hoofd BHV uit een toelage van € 340,34 (bruto) en een functietoeslag van € 136,13 (bruto).     
 2.  De toelage wordt per jaar of naar rato van het aantal maanden dat de aanwijzing geldt betaald.   
-3.  Aan iedere persoon die gedurende vijf achtereenvolgende jaren dienst heeft gedaan als bedrijfshulpverlener en gedurende deze periode heeft voldaan aan de bijbehorende verplichtingen, wordt een jubileum-gratificatie toegekend van € 249,58 bruto. Deze gratificatie wordt toegekend na iedere periode van vijf jaar, met dien verstande dat indien betrokkene langer dan vijftien jaar dienst heeft gedaan als bedrijfshulpverlener de jubileumgratificatie € 363,02 bruto zal zijn.   
+3.   Aan iedere persoon die gedurende vijf achtereenvolgende jaren dienst heeft gedaan als bedrijfshulpverlener en gedurende deze periode heeft voldaan aan de bijbehorende verplichtingen, wordt een jubileum-gratificatie toegekend van € 249,58 bruto. Deze gratificatie wordt toegekend na iedere periode van vijf jaar, met dien verstande dat indien betrokkene langer dan vijftien jaar dienst heeft gedaan als bedrijfshulpverlener de jubileumgratificatie € 363,02 bruto zal zijn.   
 4.  Een BHV-uurvergoeding, ten bedrage van € 11,76 per uur, wordt toegekend indien de voorgeschreven BHV-activiteiten worden gehouden buiten de voor de betreffende BHV’er vastgestelde werktijd.   
 5.  Het hoofd Bedrijfshulpverlening doet aan het bevoegd gezag voordrachten voor de hierboven genoemde toelagen.   
 
@@ -193,16 +193,16 @@ Deze regeling treedt in werking op 27 augustus 1997 en werkt terug tot en met 1 
 
 ####Naamgeving
 
-Deze regeling wordt aangehaald als: Regeling Bedrijfshulpverlening Financiën (afgekort Regeling-BHV Financiën).  
+Deze regeling wordt aangehaald als: Regeling Bedrijfshulpverlening Financiën (afgekort Regeling-BHV Financiën). 
 
 Den Haag 
 27 augustus 1997    
 
 De 
-Minister van Financiën, 
+Minister van Financiën,  
 
 namens deze, 
 
 De 
 Secretaris-Generaal, 
-J.K.T.Postma    
+J.K.T. Postma     

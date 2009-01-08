@@ -10,26 +10,26 @@ Besluit:
 
 ### Artikel  1  
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer, alsmede op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden worden aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van het Bureau Commissie Zuiveringsaangelegenheden en taakopvolgers van het Ministerie van Financiën, (1936) 1945–1975 (1989) met de inventarisnummers zoals opgenomen in de Bijlage, de in het volgende artikel genoemde beperkingen gesteld voor de termijnen van vijfenzeventig jaren gerekend vanaf de datum vermeld op archiefbescheiden, echter minimaal durende tot 2020 en maximaal durende tot 2050.  
+Met het oog op de eerbiediging van de persoonlijke levenssfeer, alsmede op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden worden aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van het Bureau Commissie Zuiveringsaangelegenheden en taakopvolgers van het Ministerie van Financiën, (1936) 1945–1975 (1989) met de inventarisnummers zoals opgenomen in de Bijlage, de in het volgende artikel genoemde beperkingen gesteld voor de termijnen van vijfenzeventig jaren gerekend vanaf de datum vermeld op archiefbescheiden, echter minimaal durende tot 2020 en maximaal durende tot 2050. 
 
 ### Artikel  2  
 
-Raadpleging van de in het vorige lid genoemde bescheiden is slechts mogelijk nadat de directeur van het Nationaal Archief daarmee heeft ingestemd. Voor het doen van het verzoek tot instemming wordt gebruikt gemaakt van het door het Nationaal Archief voorgeschreven formulier voor toestemming tot raadpleging van niet-openbare archieven.  
+Raadpleging van de in het vorige lid genoemde bescheiden is slechts mogelijk nadat de directeur van het Nationaal Archief daarmee heeft ingestemd. Voor het doen van het verzoek tot instemming wordt gebruikt gemaakt van het door het Nationaal Archief voorgeschreven formulier voor toestemming tot raadpleging van niet-openbare archieven. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt gepubliceerd.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt gepubliceerd. 
 
 De 
-Minister van Financiën, namens deze: de 
+Minister van Financiën, namens deze:de 
 plv. Secretaris-generaal, 
-A.S.M.Koeleman  
+A.S.M. Koeleman    
 
 ### Bijlage  
 
 Zuiveringsaangelegenheden 
 
-| Inv.-  Nr.  | Sluitings-  jaar  dossier  | Aantal  jaren  beperkt  | Beperkt  tot 1 ja-  nuari  |
+| Inv.-  Nr.  | Sluitings-  jaar  dossier  | Aantal   jaren  beperkt  | Beperkt  tot 1 ja-  nuari  |
 |:---|:---|:---|:---|
 | 1  | 1945  | 75  | 2020  |
 | 2  | 1946  | 75  | 2021  |

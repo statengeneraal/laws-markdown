@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-De vrijstelling, bedoeld in [artikel XIV van de Wet van 17 december 1998, houdende wijziging van enkele belastingwetten c.a. (belastingplan 1999)](../../../../../../../../../../../../wet/wijzigingswet/enkele/belastingwetten/c.a./(belastingplan/1999)/BWBR0010137/README.md) (Stb. 725), wordt verlengd tot 1 januari 2003.  
+De vrijstelling, bedoeld in[ artikel XIV van de Wet van 17 december 1998, houdende wijziging van enkele belastingwetten c.a. (belastingplan 1999)](../../../../../../../../../../../../wet/wijzigingswet/enkele/belastingwetten/c.a./(belastingplan/1999)/BWBR0010137/README.md) (Stb. 725), wordt verlengd tot 1 januari 2003. 
 
 ### Artikel  II  
 
-Wijzigt het Uitvoeringsbesluit motorrijtuigenbelasting 1994.   
+Wijzigt het Uitvoeringsbesluit motorrijtuigenbelasting 1994. 
 
 ### Artikel  III  
 
@@ -37,4 +37,4 @@ W. J. Bos
 de *zevenentwintigste* december 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

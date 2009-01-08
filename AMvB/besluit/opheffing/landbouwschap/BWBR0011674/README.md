@@ -29,11 +29,11 @@ e. financieringsreserve: de in de jaarrekening 1997 zo genoemde algemene reserve
 
 f. saldi opcenten algemene heffing: de in de jaarrekening 1997 zo genoemde post 4.01, bevattende saldi opcenten van sectoren en subsectoren;  
 
-g. sectorsaldi: de tot de bestemmingsreserves van het vermogen behorende fondsen en saldi, behoudens de in de jaarrekening 1997 zo genoemde posten 3.2, 3.3, 4.01, 4.10, 4.13 en 4.16.    
+g. sectorsaldi: de tot de bestemmingsreserves van het vermogen behorende fondsen en saldi, behoudens de in de jaarrekening 1997 zo genoemde posten 3.2, 3.3, 4.01, 4.10, 4.13 en 4.16.   
 
 ### Artikel  2  
 
-1.  Het Bedrijfschap voor de landbouw, genaamd Landbouwschap, is opgeheven.   
+1.  Het Bedrijfschap voor de landbouw, genaamd Landbouwschap, is opgeheven.    
 2.  De Raad is bevoegd toepassing te geven aan de volgende verordeningen en besluiten van het Landbouwschap: 
 
 a. Verordening registratie en verstrekking van gegevens;  
@@ -44,14 +44,14 @@ c. Besluit verstrekking gegevens 1997;
 
 d. Verordening vereffeningsheffing Landbouwschap.     
 3.  De in het tweede lid genoemde verordeningen en besluiten blijven van kracht totdat zij door de Raad worden ingetrokken.   
-4.  Met uitzondering van de in het tweede lid genoemde verordeningen en besluiten, de Heffingsverordening Verbruik Aardgas en de daaraan gerelateerde besluiten voor toepassing in 1996 en 1997, alsmede de in de artikelen 6 en 7 bedoelde verordeningen, vervallen de door het Landbouwschap vastgestelde verordeningen en andere algemeen verbindende besluiten, voorzover nog van kracht bij de inwerkingtreding van dit besluit.   
+4.  Met uitzondering van de in het tweede lid genoemde verordeningen en besluiten, de Heffingsverordening Verbruik Aardgas en de daaraan gerelateerde besluiten voor toepassing in 1996 en 1997, alsmede de in de artikelen 6 en 7 bedoelde verordeningen, vervallen de door het Landbouwschap vastgestelde verordeningen en andere algemeen verbindende besluiten, voorzover nog van kracht bij de inwerkingtreding van dit besluit.  
 
 ### Artikel  3  
 
 1.  Vanaf de inwerkingtreding van dit besluit berust het beheer van het vermogen van het Landbouwschap bij de Raad.   
 2.  Rechtsvorderingen die tot het vermogen van het Landbouwschap behorende rechten of verplichtingen tot onderwerp hebben, voorzover deze geen betrekking hebben op de heffingen, bedoeld in artikel 6, worden ingesteld door of tegen de Raad.   
 3.  Rechtsvorderingen die betrekking hebben op VUT-regelingen, flexibele spaarpensioenregelingen en de regeling van het sociaal plan, uitgezonderd de bepalingen ten aanzien van de pensioenen en wachtgelden, worden ingesteld door of tegen de Raad.   
-4.  Rechtsvorderingen die betrekking hebben op rechten en verplichtingen, neergelegd in pensioen- en wachtgeldregelingen, met inbegrip van de ingevolge het derde lid uitgezonderde bepalingen, worden ingesteld door of tegen het Hoofdproductschap Akkerbouw.   
+4.  Rechtsvorderingen die betrekking hebben op rechten en verplichtingen, neergelegd in pensioen- en wachtgeldregelingen, met inbegrip van de ingevolge het derde lid uitgezonderde bepalingen, worden ingesteld door of tegen het Hoofdproductschap Akkerbouw.  
 
 ### Artikel  4  
 
@@ -59,12 +59,12 @@ d. Verordening vereffeningsheffing Landbouwschap.
 2.  De Raad maakt met het oog op de vereffening een boedelbeschrijving op. Hij stelt tevens de rekening van inkomsten en uitgaven van het Landbouwschap vast over het tijdvak, aanvangende op de eerste januari van het jaar, volgende op het kalenderjaar waarover laatstelijk een rekening van inkomsten en uitgaven door het bestuur van het Landbouwschap dient te worden vastgesteld, en eindigende op de dag van inwerkingtreding van dit besluit.   
 3.  De boedelbeschrijving, bedoeld in het tweede lid, behoeft de instemming van Onze Minister.   
 4.  De Raad stelt zo nodig de rekening van inkomsten en uitgaven vast over de jaren die voorafgaan aan het in het tweede lid bedoelde tijdvak.   
-5.  De vaststelling van een rekening van inkomsten en uitgaven door de Raad strekt, na verkregen instemming van Onze Minister, tot décharge van het dagelijks bestuur van het Landbouwschap, behoudens in geval van later gebleken valsheid in bewijsstukken of andere onregelmatigheden.   
+5.  De vaststelling van een rekening van inkomsten en uitgaven door de Raad strekt, na verkregen instemming van Onze Minister, tot décharge van het dagelijks bestuur van het Landbouwschap, behoudens in geval van later gebleken valsheid in bewijsstukken of andere onregelmatigheden.  
 
 ### Artikel  5  
 
 1.  De Raad maakt het tijdstip van de aanvang van de vereffening bekend in de Staatscourant en in het Mededelingenblad Bedrijfsorganisatie, alsmede in de daartoe naar zijn oordeel in aanmerking komende nieuwsbladen, onder vermelding van de afkondiging van dit besluit.   
-2.  In de bekendmaking worden degenen die een vordering op het Landbouwschap hebben, opgeroepen die vorderingen binnen een daarbij aangegeven termijn bij de Raad in te dienen. Deze termijn wordt niet korter gesteld dan zes maanden, te rekenen vanaf de dag van de bekendmaking.   
+2.  In de bekendmaking worden degenen die een vordering op het Landbouwschap hebben, opgeroepen die vorderingen binnen een daarbij aangegeven termijn bij de Raad in te dienen. Deze termijn wordt niet korter gesteld dan zes maanden, te rekenen vanaf de dag van de bekendmaking.  
 
 ### Artikel  6  
 
@@ -72,7 +72,7 @@ d. Verordening vereffeningsheffing Landbouwschap.
 2.  De Raad vordert bij verordening de medewerking van de besturen van de daarbij aan te wijzen productschappen ten behoeve van de invordering van de aan het Landbouwschap, krachtens [artikel 126, eerste en tweede lid, van de wet](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), op het tijdstip van inwerkingtreding van dit besluit verschuldigde bedragen, voorzover hun grond vindende in heffingsverordeningen waarop de in het eerste lid bedoelde heffingen zijn gebaseerd, inclusief de rechtsvorderingen die samenhangen met de heffingen. Met ingang van de inwerkingtreding van dit besluit zijn de bedragen verschuldigd aan de bedoelde productschappen. De in de eerste zin bedoelde medewerking kan tevens worden gevorderd indien in het kader van de vereffening van het vermogen toepassing wordt gegeven aan de verordening, genoemd in artikel 2, tweede lid, onderdeel d.   
 3.  Door of namens de voorzitter van het Landbouwschap uitgevaardigde dwangbevelen als bedoeld in [artikel 127, eerste lid, van de wet](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) behouden hun rechtskracht.   
 4.  De kosten van de invordering van de in het tweede lid bedoelde bedragen worden in rekening gebracht bij de Raad, die deze ten laste brengt van het vermogen van het Landbouwschap. Artikel 10, eerste, derde en vierde lid, is in dat geval van toepassing.   
-5.  De in het tweede lid bedoelde bedragen worden na inning overgedragen aan de Raad en toegevoegd aan het vermogen van het Landbouwschap.   
+5.  De in het tweede lid bedoelde bedragen worden na inning overgedragen aan de Raad en toegevoegd aan het vermogen van het Landbouwschap.  
 
 ### Artikel  7  
 
@@ -90,14 +90,14 @@ d. Verordening vereffeningsheffing Landbouwschap.
 6.  De Raad en het Hoofdproductschap Akkerbouw voldoen uit de in de vorige leden bedoelde fondsen geen andere vorderingen dan die welke strekken tot nakoming van de verplichtingen waarvoor de fondsen zijn ingesteld.   
 7.  De over de middelen van een fonds verkregen rente wordt aan het desbetreffende fonds toegevoegd.   
 8.  Het Hoofdproductschap Akkerbouw verantwoordt het beheer van de in het tweede en vierde lid bedoelde fondsen aan de Raad.   
-9.  De Raad verantwoordt het beheer van het in het derde lid bedoelde fonds via een bijzondere dienst in zijn begroting en zijn rekening van inkomsten en uitgaven.   
+9.  De Raad verantwoordt het beheer van het in het derde lid bedoelde fonds via een bijzondere dienst in zijn begroting en zijn rekening van inkomsten en uitgaven.  
 
 ### Artikel  9  
 
 1.  Zo spoedig mogelijk nadat de Raad het vermogen van het Landbouwschap heeft vereffend, brengt hij daarover aan Onze Minister verslag uit. Het verslag gaat vergezeld van een door de Raad vastgestelde rekening van inkomsten en uitgaven.   
 2.  De vaststelling van het verslag en van de rekening van inkomsten en uitgaven betreffende de vereffening kan slechts plaatsvinden nadat de ontwerpen van deze stukken gedurende twee maanden ten kantore van de Raad voor een ieder ter lezing zijn neergelegd en tegen betaling van de kosten algemeen verkrijgbaar zijn gesteld en indien binnen die termijn bij de Raad geen bezwaren zijn ingekomen. Van de neerlegging en de verkrijgbaarheid geschiedt openbare kennisgeving in de Staatscourant en in het Mededelingenblad Bedrijfsorganisatie.   
 3.  Elk ingekomen bezwaar wordt door de Raad onderzocht; wordt het gegrond bevonden, dan zet de Raad de vereffening voort en maakt, zo nodig, een nieuw verslag en een nieuwe rekening van inkomsten en uitgaven op waarin aan het bezwaar is tegemoet gekomen. Ten aanzien van laatstbedoeld verslag en laatstbedoelde rekening is het tweede lid van overeenkomstige toepassing, met dien verstande dat de Raad nieuwe bezwaren, welke reeds tegen het eerste verslag en de eerste rekening hadden kunnen worden ingebracht, niet in overweging neemt. Wordt het bezwaar ongegrond bevonden, dan stelt de Raad het verslag en de rekening alsnog vast.   
-4.  De rekening behoeft de instemming van Onze Minister. De instemming strekt tot décharge van de Raad. De Raad doet van het verlenen van de instemming zo spoedig mogelijk openbare kennisgeving in de Staatscourant en in het Mededelingenblad Bedrijfsorganisatie.   
+4.  De rekening behoeft de instemming van Onze Minister. De instemming strekt tot décharge van de Raad. De Raad doet van het verlenen van de instemming zo spoedig mogelijk openbare kennisgeving in de Staatscourant en in het Mededelingenblad Bedrijfsorganisatie.  
 
 ### Artikel  10  
 
@@ -105,7 +105,7 @@ d. Verordening vereffeningsheffing Landbouwschap.
 2.  Voorzover de in het eerste lid bedoelde kosten naar objectieve maatstaven kunnen worden toegeschreven aan een bepaalde sector, worden zij voldaan uit het desbetreffend gedeelte van de saldi opcenten algemene heffing en, voorzover dat niet toereikend is, uit het desbetreffend gedeelte van de sectorsaldi.   
 3.  Voorzover het tweede lid niet van toepassing is worden de kosten voldaan uit de financieringsreserve. Voorzover de financieringsreserve niet toereikend is worden zij sectorsgewijs en naar rato van de in de bijlage bij dit besluit genoemde percentages voldaan uit de saldi opcenten algemene heffing. Voorzover een gedeelte van de saldi opcenten algemene heffing niet toereikend is, worden zij voldaan uit het desbetreffend gedeelte van de sectorsaldi.   
 4.  Voorzover een sectorsaldo of een gedeelte daarvan niet toereikend is, kunnen de kosten worden voldaan met middelen die door de Raad worden verkregen door toepassing te geven aan de verordening, genoemd in artikel 2, tweede lid, onder d.   
-5.  Indien de fondsen, bedoeld in artikel 8, niet toereikend zijn, zijn voorzover noodzakelijk ter dekking van het tekort, het eerste, derde en vierde lid van overeenkomstige toepassing.   
+5.  Indien de fondsen, bedoeld in artikel 8, niet toereikend zijn, zijn voorzover noodzakelijk ter dekking van het tekort, het eerste, derde en vierde lid van overeenkomstige toepassing.  
 
 ### Artikel  11  
 
@@ -119,23 +119,23 @@ d. Verordening vereffeningsheffing Landbouwschap.
 
 1.  De opheffing van het Landbouwschap heeft geen gevolg voor de ontvankelijkheid van beroepen ingevolge de [Wet bestuursrechtspraak bedrijfsorganisatie](../../../../../wet/wet/bestuursrechtspraak/bedrijfsorganisatie/BWBR0002144/README.md). In plaats van het Landbouwschap treedt de Raad als partij op.   
 2.  Bezwaarschriften aangaande beslissingen van het bestuur van het Landbouwschap, met uitzondering van die betreffende de aanslagen bedoeld in artikel 6, worden na de inwerkingtreding van dit besluit gericht aan de Raad.   
-3.  Gerechtelijke uitspraken, gedaan tegen het Landbouwschap of, op grond van het eerste lid, tegen de Raad, worden door de Raad uitgevoerd, voorzover nodig ten laste van het vermogen van het opgeheven Landbouwschap. Artikel 10, eerste tot en met vierde lid, is in dat geval van toepassing.   
+3.  Gerechtelijke uitspraken, gedaan tegen het Landbouwschap of, op grond van het eerste lid, tegen de Raad, worden door de Raad uitgevoerd, voorzover nodig ten laste van het vermogen van het opgeheven Landbouwschap. Artikel 10, eerste tot en met vierde lid, is in dat geval van toepassing.  
 
 ### Artikel  13  
 
-De Raad draagt zorg, in de zin van de [Archiefwet 1995](../../../../../wet/archiefwet/1995/BWBR0007376/README.md), voor de archiefbescheiden van het Landbouwschap.  
+De Raad draagt zorg, in de zin van de [Archiefwet 1995](../../../../../wet/archiefwet/1995/BWBR0007376/README.md), voor de archiefbescheiden van het Landbouwschap. 
 
 ### Artikel  14  
 
-Het Instellingsbesluit Landbouwschap wordt ingetrokken.  
+Het Instellingsbesluit Landbouwschap wordt ingetrokken. 
 
 ### Artikel  15  
 
-Dit besluit treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  16  
 
-Dit besluit wordt aangehaald als: Besluit opheffing Landbouwschap.  
+Dit besluit wordt aangehaald als: Besluit opheffing Landbouwschap. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende bijlage en nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -152,7 +152,7 @@ L. J. Brinkhorst
 de *zeventiende* oktober 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     
 
 ### Bijlage  
 
@@ -160,27 +160,27 @@ A. H. Korthals
 
 | --- | --- |
 |:---|:---|
-| Hoofdproductschap Akkerbouw  | --- |
+|  Hoofdproductschap Akkerbouw  | --- |
 | akkerbouw (inclusief maïs, zaai-uien en landbouwambachten  | 13,93%  |
 | --- | --- |
 | Productschap Tuinbouw  | --- |
-| groenten onder glas  | 10,70%  |
-| bloemen onder glas  | 19,20%  |
-| groenten volle grond  | 3,36%  |
+| groenten onder glas  | 10,70%   |
+| bloemen onder glas  | 19,20%   |
+| groenten volle grond  | 3,36%   |
 | fruit (inclusief aardbeien)  | 3,90%  |
-| champignons  | 1,66%  |
+| champignons  | 1,66%   |
 | --- | --- |
 | Productschap Pluimvee en Eieren  | --- |
-| pluimvee  | 2,96%  |
+| pluimvee  | 2,96%   |
 | edelpelsdieren  | 0,34%  |
 | --- | --- |
 | Productschap Vee en Vlees  | --- |
 | roodvlees  | 1,32%  |
-| schapen  | 0,39%  |
-| varkens  | 9,83%  |
+| schapen  | 0,39%   |
+| varkens  | 9,83%   |
 | vleeskalveren  | 1,14%  |
-| paarden  | 1,98%  |
-| geiten  | 0,11%  |
+| paarden  | 1,98%   |
+| geiten  | 0,11%   |
 | --- | --- |
 | Produktschap voor Zuivel  | --- |
 | melkvee  | 29,18%  |

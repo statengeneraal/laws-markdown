@@ -22,24 +22,24 @@ een richtlijn vaststellen zodanig dat daarenboven een incidentele verlaging van 
 de richtlijnen zodanig wijzigen dat op de aanvaardbare kosten 1994 vanaf dat jaar een structurele verlaging van f 17 mln  
 
 een richtlijn vaststellen zodanig dat daarenboven een incidentele verlaging van f 21 mln ten opzichte van de aanvaardbare kosten 1993 wordt gerealiseerd (exclusief definitieve loon- en prijsbijstellingen).     
-3.  In de bedoelde richtlijnen ter uitvoering van de onderhavige aanwijzing wordt bepaald dat het Cotg, bij het ontbreken van een verzoek tot goedkeuring of vaststelling van tarieven, ambtshalve gewijzigde tarieven vaststelt.   
+3.  In de bedoelde richtlijnen ter uitvoering van de onderhavige aanwijzing wordt bepaald dat het Cotg, bij het ontbreken van een verzoek tot goedkeuring of vaststelling van tarieven, ambtshalve gewijzigde tarieven vaststelt.  
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  3  
 
-Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.  
+Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst. 
 
 De 
 Staatssecretaris van Welzijn, Volksgezondheid en Cultuur, 
-Hans J.Simons 
+Hans J.Simons   
 
 De 
 Minister van Economische Zaken, 
-J.E.Andriessen 
+J.E.Andriessen  
 
 De 
 Staatssecretaris van Onderwijs en Wetenschappen, 
-M.J.Cohen    
+M.J. Cohen     

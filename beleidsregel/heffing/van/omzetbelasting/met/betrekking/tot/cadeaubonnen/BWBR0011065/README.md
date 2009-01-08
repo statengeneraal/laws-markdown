@@ -28,7 +28,7 @@ Het gestelde in § 2 betekent ook dat in gevallen waarin sprake is van cadeaubon
 ####Aftrek van voorbelasting
 
 Omdat handelingen inzake waardepapieren zijn vrijgesteld van omzetbelasting, bestaat terzake geen aanspraak op de aftrek van voorbelasting op de voet van artikel 15 van de Wet. In aanmerking nemende dat het de cadeaubonnen verstrekkende ondernemer primair te doen is om de verkoop van zijn artikelen of het verrichten van zijn diensten, kan ik mij er in vinden dat de inperking van de aftrek beperkt blijft tot de omzetbelasting die rechtstreeks drukt op de aanmaak of aankoop van de cadeaubonnen. Dit geldt in beginsel voor alle bij het cadeaubonnen-verstrekkingssysteem betrokken ondernemers. Wat betreft de cadeaubonnen-centrales en andere organisaties van ondernemers die zich naast de aanmaak en de verkoop van cadeaubonnen ook bezighouden met de financiële afwikkeling van de bonnen, ben ik van mening dat de wettelijke regels inzake de aftrek waaronder ook de toerekenings-, herrekenings- en herzieningsregels in de artikelen 11 tot en met 14 van de Uitvoeringsbeschikking omzetbelasting 1968, op hen onverkort van toepassing zijn.    
-### §  6  
+### §   6  
 
 ####Slot
 

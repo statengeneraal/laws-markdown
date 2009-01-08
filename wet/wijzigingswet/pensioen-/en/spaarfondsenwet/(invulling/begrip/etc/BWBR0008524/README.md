@@ -11,25 +11,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### ARTIKEL  I  
 
-Wijzigt de Pensioen- en spaarfondsenwet.   
+Wijzigt de Pensioen- en spaarfondsenwet.  
 
 ### ARTIKEL  II  
 
-Pensioenfondsen brengen hun statuten en reglementen binnen twee jaar na inwerkingtreding van deze wet in overeenstemming met deze wet.  
+Pensioenfondsen brengen hun statuten en reglementen binnen twee jaar na inwerkingtreding van deze wet in overeenstemming met deze wet. 
 
 ### ARTIKEL  III  
 
-Artikel 2, negende lid, van de [Pensioen- en spaarfondsenwet](../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md) is niet van toepassing op rechten en verplichtingen die verband houden met tijdvakken gelegen voor de inwerkingtreding van deze wet.  
+Artikel 2, negende lid, van de [Pensioen- en spaarfondsenwet](../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md) is niet van toepassing op rechten en verplichtingen die verband houden met tijdvakken gelegen voor de inwerkingtreding van deze wet. 
 
 ### ARTIKEL  IV  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 30 januari 1997  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
 F. H. G. de Grave   

@@ -11,31 +11,31 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet op het primair onderwijs.   
+Wijzigt de Wet op het primair onderwijs.
 
 ### Artikel  II  
 
-Wijzigt de Wet medezeggenschap onderwijs 1992.   
+Wijzigt de Wet medezeggenschap onderwijs 1992.
 
 ### Artikel  IIa  
 
-Onze Minister van Onderwijs, Cultuur en Wetenschap zendt twee jaar na de inwerkingtreding van deze wet, en vervolgens telkens na twee jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister van Onderwijs, Cultuur en Wetenschap zendt twee jaar na de inwerkingtreding van deze wet, en vervolgens telkens na twee jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  III  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.
 
 ### Artikel  IV  
 
-Wijzigt de Wet medezeggenschap op scholen.   
+Wijzigt de Wet medezeggenschap op scholen.
 
 ### Artikel  V  
 
-De artikelen van deze wet zijn voor het eerst van toepassing op het schooljaar 2007–2008.  
+De artikelen van deze wet zijn voor het eerst van toepassing op het schooljaar 2007–2008. 
 
 ### Artikel  VI  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip en kan terugwerken tot en met een in dat besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip en kan terugwerken tot en met een in dat besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -44,9 +44,9 @@ Gegeven te ’s-Gravenhage
 Beatrix  
 
 De Minister van Onderwijs, Cultuur en Wetenschap, 
-M. J. A. van derHoeven 
+M. J. A. van der Hoeven   
 
 de *vijfde* december 2006 
 
 De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+E. M. H. Hirsch Ballin    

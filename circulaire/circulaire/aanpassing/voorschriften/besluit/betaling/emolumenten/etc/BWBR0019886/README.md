@@ -23,6 +23,6 @@ De maximumverrekeningsbedragen voor het van rijkswege verstrekte genot van verwa
 Met het in afschrift bijgevoegde besluit, zijn de hiervoor genoemde bedragen maar ook de bedragen die niet per 1 juli 2006 worden aangepast maar voorkomen in mijn [besluit van 29 juni 2005, nr. 2005-0000122443](../../../../../../../../../ministeriele-regeling/regeling/aanpassing/voorschriften/besluit/betaling/emolumenten/burgerlijk/etc/BWBR0018507/README.md) (Stcrt. 2005, 128), opgenomen. Ik verzoek u met bovengenoemde wijzigingen rekening te houden.     
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze:de 
 directeur-generaal Management Openbare Sector, 
-R.IJ.M.Kuipers   
+R.IJ.M. Kuipers     

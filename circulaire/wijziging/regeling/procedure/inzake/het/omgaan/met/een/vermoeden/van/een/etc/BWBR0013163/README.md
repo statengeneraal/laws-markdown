@@ -2,22 +2,22 @@
 
 ##Wijziging Regeling procedure inzake het omgaan met een vermoeden van een misstand
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  Besluit:    
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,Besluit: 
 
-### Artikel  I  
+###Artikel I 
 
-Wijzigt de Regeling procedure inzake het omgaan met een vermoeden van een misstand.   
+Wijzigt de Regeling procedure inzake het omgaan met een vermoeden van een misstand.
 
-### Artikel  II  
+###Artikel II 
 
-Deze regeling treedt in werking op 31 december 2001.  
+Deze regeling treedt in werking op 31 december 2001.
 Dit besluit met toelichting zal in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
 
-voor deze,  
+voor deze,
 
 de 
-directeur-generaal Management en Personeelsbeleid, 
-M.J. vanRijn    
+directeur-generaal Management en Personeelsbeleid,
+M.J. van Rijn    

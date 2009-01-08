@@ -8,20 +8,20 @@ Besluit:
 
 ### Artikel  1  
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer, alsmede op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden worden aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van de Algemene Index Financiën 1936–1975, zoals vermeld in de Bijlage, beperkingen gesteld voor een termijn van vijfenzeventig jaren gerekend vanaf de datum vermeld op de archiefbescheiden. Op 1 januari 2050 vervallen alle beperkingen.  
+Met het oog op de eerbiediging van de persoonlijke levenssfeer, alsmede op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden worden aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van de Algemene Index Financiën 1936–1975, zoals vermeld in de Bijlage, beperkingen gesteld voor een termijn van vijfenzeventig jaren gerekend vanaf de datum vermeld op de archiefbescheiden. Op 1 januari 2050 vervallen alle beperkingen. 
 
 ### Artikel  2  
 
-Raadpleging van de in het vorige lid genoemde bescheiden is slechts mogelijk nadat de directeur van het Nationaal Archief daarmee heeft ingestemd. Voor het doen van het verzoek tot instemming wordt gebruikt gemaakt van het door het Nationaal Archief voorgeschreven formulier voor toestemming tot raadpleging van niet-openbare archieven.  
+Raadpleging van de in het vorige lid genoemde bescheiden is slechts mogelijk nadat de directeur van het Nationaal Archief daarmee heeft ingestemd. Voor het doen van het verzoek tot instemming wordt gebruikt gemaakt van het door het Nationaal Archief voorgeschreven formulier voor toestemming tot raadpleging van niet-openbare archieven. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd. 
 
 De 
-Minister van Financiën, namens deze: de 
+Minister van Financiën, namens deze:de 
 Plv. Secretaris-generaal, 
-A.Koeleman  
+A. Koeleman    
 
 ### Bijlage  
 

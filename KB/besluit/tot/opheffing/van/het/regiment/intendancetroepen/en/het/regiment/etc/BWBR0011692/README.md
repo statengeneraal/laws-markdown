@@ -9,19 +9,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Het Regiment Intendancetroepen en het Regiment Aan- en afvoertroepen worden met ingang van 20 oktober 2000 opgeheven en de bij deze regimenten behorende vaandels worden ingenomen.  
+Het Regiment Intendancetroepen en het Regiment Aan- en afvoertroepen worden met ingang van 20 oktober 2000 opgeheven en de bij deze regimenten behorende vaandels worden ingenomen. 
 
 ### Artikel  2  
 
-Het Regiment Bevoorradings- en Transporttroepen wordt met ingang van 20 oktober 2000 opgericht en maakt deel uit van de Koninklijke landmacht.  
+Het Regiment Bevoorradings- en Transporttroepen wordt met ingang van 20 oktober 2000 opgericht en maakt deel uit van de Koninklijke landmacht. 
 
 ### Artikel  3  
 
-Het Regiment Bevoorradings- en Transporttroepen neemt de tradities van de in artikel 1 genoemde regimenten over en zet deze voort.  
+Het Regiment Bevoorradings- en Transporttroepen neemt de tradities van de in artikel 1 genoemde regimenten over en zet deze voort. 
 
 ### Artikel  4  
 
-Aan het Regiment Bevoorradings- en Transporttroepen wordt een vaandel toegekend.  
+Aan het Regiment Bevoorradings- en Transporttroepen wordt een vaandel toegekend. 
 
 ### Artikel  5  
 

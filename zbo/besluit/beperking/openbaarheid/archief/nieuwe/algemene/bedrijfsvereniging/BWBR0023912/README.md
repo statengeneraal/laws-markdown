@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-Het UWV is zorgdrager van het archief van de Nieuwe Algemene Bedrijfsvereniging (NAB) (BV26) over de periode (1949) 1950–1997.  
+Het UWV is zorgdrager van het archief van de Nieuwe Algemene Bedrijfsvereniging (NAB) (BV26) over de periode (1949) 1950–1997. 
 
 ### Artikel  2  
 
@@ -34,26 +34,26 @@ Het UWV is zorgdrager van het archief van de Nieuwe Algemene Bedrijfsvereniging 
 
 ### Artikel  3  
 
-Raadpleging van de onder artikel 2, lid 2 genoemde archiefbescheiden is slechts mogelijk na schriftelijke toestemming van de directeur van het Nationaal Archief. De verzoeker vult daartoe het ‘Formulier voor toestemming tot raadpleging van niet-openbare archieven’ in. De directeur van het Nationaal Archief kan voorwaarden verbinden aan het verlenen van zijn toestemming.  
+Raadpleging van de onder artikel 2, lid 2 genoemde archiefbescheiden is slechts mogelijk na schriftelijke toestemming van de directeur van het Nationaal Archief. De verzoeker vult daartoe het ‘Formulier voor toestemming tot raadpleging van niet-openbare archieven’ in. De directeur van het Nationaal Archief kan voorwaarden verbinden aan het verlenen van zijn toestemming. 
 
 ### Artikel  4  
 
-Het is niet toegestaan reproducties te vervaardigen van documenten uit de dossiers, waarop deze beperkende bepalingen van toepassing zijn, zonder toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan voorwaarden verbinden aan het verlenen van zijn toestemming.  
+Het is niet toegestaan reproducties te vervaardigen van documenten uit de dossiers, waarop deze beperkende bepalingen van toepassing zijn, zonder toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan voorwaarden verbinden aan het verlenen van zijn toestemming. 
 
 ### Artikel  5  
 
-Publicatie van gegevens uit de ter inzage gegeven archiefbescheiden waarop de beperkende bepalingen van toepassing zijn, is slechts mogelijk na voorafgaande schriftelijk verkregen toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan publicatie zijn goedkeuring onthouden.  
+Publicatie van gegevens uit de ter inzage gegeven archiefbescheiden waarop de beperkende bepalingen van toepassing zijn, is slechts mogelijk na voorafgaande schriftelijk verkregen toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan publicatie zijn goedkeuring onthouden. 
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Amsterdam 
 23 april 2008   
 
 Voorzitter Raad van bestuur UWV, 
-J.M.Linthorst  
+J.M. Linthorst    
 
 ####Bijlage
 

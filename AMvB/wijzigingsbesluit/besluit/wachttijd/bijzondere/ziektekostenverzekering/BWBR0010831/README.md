@@ -17,21 +17,21 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit wachttijd bijzondere ziektekostenverzekering.   
+Wijzigt het Besluit wachttijd bijzondere ziektekostenverzekering.  
 
 ### Artikel  II  
 
-Met betrekking tot onderdanen van lidstaten van de Europese Unie die zich voorafgaand aan de inwerkingtreding van dit besluit in Nederland hebben gevestigd, wordt [artikel 3 van het Besluit wachttijd bijzondere ziektekosten](../../../../../../../AMvB/besluit/wachttijd/bijzondere/ziektekostenverzekering/BWBR0005337/README.md), zoals dat luidde voor de inwerkingtreding van dit besluit, toegepast.  
+Met betrekking tot onderdanen van lidstaten van de Europese Unie die zich voorafgaand aan de inwerkingtreding van dit besluit in Nederland hebben gevestigd, wordt [artikel 3 van het Besluit wachttijd bijzondere ziektekosten](../../../../../../../AMvB/besluit/wachttijd/bijzondere/ziektekostenverzekering/BWBR0005337/README.md) , zoals dat luidde voor de inwerkingtreding van dit besluit, toegepast. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het is geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het is geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 10 november 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Volksgezondheid, Welzijn en Sport, 
 E. Borst-Eilers   
@@ -39,4 +39,4 @@ E. Borst-Eilers
 drieëntwintigste november 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

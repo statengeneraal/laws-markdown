@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-De regeling van de minister van Financiën van 11 oktober 2006, nr. DB2006/00476 (Stcrt. 198) tot buiten toepassing stellen voor een gedeelte van 2006 van de energie-investeringsaftrek en de milieu-investeringsaftrek wordt goedgekeurd.  
+De regeling van de minister van Financiën van 11 oktober 2006, nr. DB2006/00476 (Stcrt. 198) tot buiten toepassing stellen voor een gedeelte van 2006 van de energie-investeringsaftrek en de milieu-investeringsaftrek wordt goedgekeurd. 
 
 ### Artikel  2  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -5,19 +5,19 @@
 De Minister van Onderwijs, Cultuur en Wetenschappen,  
 in overeenstemming met de werkgeversorganisaties:
 
-Werkgeversvereniging Openbare Bibliotheken (WOB)  
+Werkgeversvereniging Openbare Bibliotheken (WOB) 
 
-Vereniging van Nederlandse Toneelgezelschappen (VNT)  
+Vereniging van Nederlandse Toneelgezelschappen (VNT)
 
-Vereniging van Rijksgesubsidieerde Musea (VRM)  
+Vereniging van Rijksgesubsidieerde Musea (VRM)
 
-Contactorgaan van Nederlandse Orkesten (CNO)  
+Contactorgaan van Nederlandse Orkesten (CNO)
 
-Vereniging voor Kunstzinnige Vorming (VKV)  
+Vereniging voor Kunstzinnige Vorming (VKV)
 
-Directieoverleg Dansgezelschappen (DOD)  
+Directieoverleg Dansgezelschappen (DOD)
 
-Vereniging van Werkgevers Amateurkunst (VWA),   
+Vereniging van Werkgevers Amateurkunst (VWA),
 Overwegende dat het wenselijk is een commissie in te stellen die adviseert inzake geschillen die zich voordoen in het overleg over de overheidsbijdrage in de arbeidskostenontwikkeling in de sectoren op het terrein van de cultuur;
 Besluit:     
 
@@ -25,7 +25,7 @@ Besluit:
 
 ### Artikel  1  
 
-Voor de toepassing van dit besluit wordt verstaan onder:   a.  *De Minister:*   de Minister van Onderwijs Cultuur en Wetenschappen.    b.  *Werkgeversorganisatie:*   werkgeversorganisaties die betrokken zijn bij het arbeidskostenoverlegmodel    c.  *De zeven werkgeversorganisaties:*   WOB, CNO, VNT, DOD, VKV, VRM en VWA    d.  *Cultuuroverleg:*   het overleg tussen de Minister en de werkgeversorganisaties, al dan niet gezamenlijk, over de overheidsbijdrage in de arbeidskostenont-wikkeling.     
+Voor de toepassing van dit besluit wordt verstaan onder: a.*De Minister:* de Minister van Onderwijs Cultuur en Wetenschappen.b.*Werkgeversorganisatie:* werkgeversorganisaties die betrokken zijn bij het arbeidskostenoverlegmodelc.*De zeven werkgeversorganisaties:* WOB, CNO, VNT, DOD, VKV, VRM en VWAd.*Cultuuroverleg:* het overleg tussen de Minister en de werkgeversorganisaties, al dan niet gezamenlijk, over de overheidsbijdrage in de arbeidskostenont-wikkeling.  
 
 ####Taak en samenstelling van de commissie
 
@@ -38,13 +38,13 @@ Er is een commissie die tot taak heeft te adviseren in geschillen die zich voord
 1.  De commissie is gevestigd te ’s-Gravenhage   
 2.  De commissie bestaat uit: 
 
-a. een voorzitter, tevens lid;  
+a.  een voorzitter, tevens lid; 
 
-b. een plaatsvervangend voorzitter;  
+b.  een plaatsvervangend voorzitter; 
 
-c. twee leden en  
+c.  twee leden en 
 
-d. twee plaatsvervangende leden     
+d.  twee plaatsvervangende leden    
 3.  De leden worden benoemd voor een tijdvak van 4 jaar. herbenoeming is mogelijk.   
 4.  De onafhankelijke voorzitter en plaatsvervangend voorzitter worden benoemd door de Minister in overeenstemming met de werkgeversorganisaties.   
 5.  De Minister benoemd daarnaast een lid en een plaatsvervangend lid.   
@@ -95,11 +95,11 @@ De leden van de commissie ontvangen een vacatiegeld danwel vaste beloning, alsme
 2.  Het advies kan daarbij ingaan op zowel de gevolgde procedures als op de inhoud van de gewisselde argumenten.   
 3.  Het advies wordt zo mogelijk unaniem vastgesteld. In het advies wordt geen minderheidsstandpunt opgenomen en het bevat in ieder geval: 
 
-a. de namen van degenen die advies hebben gevraagd;  
+a.  de namen van degenen die advies hebben gevraagd; 
 
-b. een overzicht van de standpunten van alle direct bij de adviesaanvraag betrokkenen;  
+b.  een overzicht van de standpunten van alle direct bij de adviesaanvraag betrokkenen; 
 
-c. de conclusie van het advies en de motivering.     
+c.  de conclusie van het advies en de motivering.    
 
 ### Artikel  11  
 
@@ -119,9 +119,9 @@ Dit besluit treedt in werking met ingang van 1 juli 1997.
 
 ### Artikel  15  
 
-Dit besluit wordt aangehaald als ’Besluit adviescommissie arbeidsvoorwaardenoverleg gesubsidieerde sectoren Cultuur’.  
-Dit besluit en de toelichting daarop zullen in de Staatscourant worden gepubliceerd. Dit besluit zal worden toegezonden aan de Algemene Rekenkamer.   
+Dit besluit wordt aangehaald als ’Besluit adviescommissie arbeidsvoorwaardenoverleg gesubsidieerde sectoren Cultuur’. 
+Dit besluit en de toelichting daarop zullen in de Staatscourant worden gepubliceerd. Dit besluit zal worden toegezonden aan de Algemene Rekenkamer. 
 
 De 
 Minister voornoemd, 
-J.M.M.Ritzen    
+J.M.M. Ritzen      

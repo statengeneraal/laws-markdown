@@ -1,8 +1,8 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Instellingsbesluit begeleidingscommissies AIVD
+##Instellingsbesluit begeleidingscommissies AIVD 
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
 Overwegende,
 
 Dat het, gelet op de werkwijze van de Algemene Inlichtingen- en Veiligheidsdienst, van belang is dat op wetenschappelijk verantwoorde wijze wordt vastgelegd hoe de Algemene Inlichtingen- en Veiligheidsdienst in het verleden - met name in de tijd van de Koude Oorlog - heeft gefunctioneerd;
@@ -28,9 +28,9 @@ Met betrekking tot de uitvoering van de in artikel 1 bedoelde taak en de werkwij
 
 ### Artikel  5  
 
-De auteursrechten van de uit de studie van de heer Engelen voortvloeiende publicaties berusten bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.  
+De auteursrechten van de uit de studie van de heer Engelen voortvloeiende publicaties berusten bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties
-J.W.Remkes    
+J.W. Remkes      

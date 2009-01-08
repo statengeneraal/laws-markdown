@@ -24,7 +24,7 @@ a. de wet: de [Wet op de bedrijfsorganisatie](../../../../../wet/wet/op/de/bedri
 
 b. het bedrijfschap: het Bedrijfschap Afbouw, bedoeld in artikel 3;  
 
-c. het bestuur: het bestuur van het bedrijfschap.    
+c. het bestuur: het bestuur van het bedrijfschap.   
 
 ### Artikel  2  
 
@@ -45,7 +45,7 @@ c. het fabrieksmatig vervaardigen van sierbetonproducten, tenzij door de vervaar
 
 d. het fabrieksmatig vervaardigen van systeemwanden, het fabrieksmatig vervaardigen van systeemplafondonderdelen, tenzij door de vervaardiger daarvan bestemd om ter plaatse van de bestemming te worden aangebracht;  
 
-e. het aanbrengen van niet zelf vervaardigde keramische, glazen of natuurstenen tegels, tenzij aangebracht in samenhang met een of meer handelingen behorende tot de uitoefening van het stukadoors-, afbouw-, terrazzo- en vloerenbedrijf.     
+e. het aanbrengen van niet zelf vervaardigde keramische, glazen of natuurstenen tegels, tenzij aangebracht in samenhang met een of meer handelingen behorende tot de uitoefening van het stukadoors-, afbouw-, terrazzo- en vloerenbedrijf.    
 
 ### §  2  
 
@@ -55,11 +55,11 @@ e. het aanbrengen van niet zelf vervaardigde keramische, glazen of natuurstenen 
 
 1.  Er is een Bedrijfschap Afbouw.   
 2.  Het bedrijfschap is ingesteld voor de ondernemingen waarin het stukadoors-, afbouw-, terrazzo- en vloerenbedrijf wordt uitgeoefend.   
-3.  Het bedrijfschap is gevestigd te Rijswijk.   
+3.  Het bedrijfschap is gevestigd te Rijswijk.  
 
 ### Artikel  4  
 
-Het bestuur bestaat uit twaalf leden, waarvan zes leden door organisaties van ondernemers en zes leden door organisaties van werknemers worden benoemd.  
+Het bestuur bestaat uit twaalf leden, waarvan zes leden door organisaties van ondernemers en zes leden door organisaties van werknemers worden benoemd. 
 
 ### §  3  
 
@@ -67,12 +67,12 @@ Het bestuur bestaat uit twaalf leden, waarvan zes leden door organisaties van on
 
 ### Artikel  5  
 
-Het bedrijfschap is bevoegd tot de regeling of nadere regeling van de in [artikel 93, tweede lid, van de wet](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) vermelde onderwerpen of onderdelen daarvan met uitzondering van de voortbrenging, de afzet, de verdeling en de aanwending van goederen, waaronder mede begrepen de opslag en de be- en verwerking van goederen, en het verlenen van diensten.  
+Het bedrijfschap is bevoegd tot de regeling of nadere regeling van de in [artikel 93, tweede lid, van de wet](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) vermelde onderwerpen of onderdelen daarvan met uitzondering van de voortbrenging, de afzet, de verdeling en de aanwending van goederen, waaronder mede begrepen de opslag en de be- en verwerking van goederen, en het verlenen van diensten. 
 
 ### Artikel  6  
 
 1.  Bij een op grond van [artikel 93, tweede lid, van de wet](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) vastgestelde verordening kan worden bepaald dat deze mede andere dan de in [artikel 102, eerste lid, van de wet](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) bedoelde natuurlijke en rechtspersonen bindt, voor zover deze handelingen verrichten die bedrijfsmatig in de ondernemingen waarvoor het bedrijfschap is ingesteld, plegen te worden verricht.   
-2.  Een bepaling als bedoeld in het eerste lid geldt niet voor ondernemingen waarvoor een bedrijfslichaam is ingesteld, indien dat bedrijfslichaam ten aanzien van het onderwerp of de onderwerpen waarop de in het eerste lid bedoelde verordening betrekking heeft, eveneens bindende regelen heeft gesteld.   
+2.  Een bepaling als bedoeld in het eerste lid geldt niet voor ondernemingen waarvoor een bedrijfslichaam is ingesteld, indien dat bedrijfslichaam ten aanzien van het onderwerp of de onderwerpen waarop de in het eerste lid bedoelde verordening betrekking heeft, eveneens bindende regelen heeft gesteld.  
 
 ### Artikel  7  
 
@@ -85,7 +85,7 @@ b. de in de ondernemingen waarvoor het bedrijfschap is ingesteld bereikte omzet 
 c. de loonsom van de werknemers in de ondernemingen waarvoor het bedrijfschap is ingesteld.     
 2.  Heffingen, met uitzondering van die waarvan de opbrengst een bijzondere bestemming heeft, kunnen, behoudens een krachtens het eerste lid vastgesteld deel, voor het andere deel in afwijking van dat lid worden opgelegd tot een bedrag dat voor alle ondernemingen waarvoor het bedrijfschap is ingesteld, gelijk is.   
 3.  Heffingen waarvan de opbrengst een bijzondere bestemming heeft, kunnen worden opgelegd naar een grondslag welke het bestuur in verband met die bestemming passend acht.   
-4.  Bij heffingsverordening kan worden bepaald dat voor daarbij aan te wijzen groepen van ondernemingen, ten aanzien waarvan zich bijzondere omstandigheden voordoen, de heffing op andere wijze wordt berekend.   
+4.  Bij heffingsverordening kan worden bepaald dat voor daarbij aan te wijzen groepen van ondernemingen, ten aanzien waarvan zich bijzondere omstandigheden voordoen, de heffing op andere wijze wordt berekend.  
 
 ### §  4  
 
@@ -93,7 +93,7 @@ c. de loonsom van de werknemers in de ondernemingen waarvoor het bedrijfschap is
 
 ### Artikel  8  
 
-Het [Instellingsbesluit Hoofdbedrijfschap Afbouw en Onderhoud](../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/afbouw/en/onderhoud/BWBR0013863/README.md) wordt ingetrokken.  
+Het [Instellingsbesluit Hoofdbedrijfschap Afbouw en Onderhoud](../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/afbouw/en/onderhoud/BWBR0013863/README.md) wordt ingetrokken. 
 
 ### Artikel  9  
 
@@ -101,15 +101,15 @@ Het [Instellingsbesluit Hoofdbedrijfschap Afbouw en Onderhoud](../../../../../AM
 2.  De verordeningen van het Hoofdbedrijfschap Afbouw en Onderhoud en de krachtens deze verordeningen genomen heffingsbesluiten blijven na intrekking van het Instellingsbesluit Hoofdbedrijfschap Afbouw en Onderhoud van kracht tot de datum waarop de door het bedrijfschap vastgestelde verordeningen terzake in werking zullen treden.   
 3.  Het personeel, de rechten, de verplichtingen, de vermogensbestanddelen en de archiefbescheiden van het Hoofdbedrijfschap Afbouw en Onderhoud gaan over naar het bedrijfschap.   
 4.  Wettelijke procedures en rechtsgedingen, ingesteld door of tegen het Hoofdbedrijfschap Afbouw en Onderhoud, worden geacht te zijn ingesteld door of tegen het bedrijfschap.   
-5.  Besluiten, genomen door het Hoofdbedrijfschap Afbouw en Onderhoud, worden toegerekend aan het bedrijfschap.   
+5.  Besluiten, genomen door het Hoofdbedrijfschap Afbouw en Onderhoud, worden toegerekend aan het bedrijfschap.  
 
 ### Artikel  10  
 
-Dit besluit treedt in werking met ingang van 1 januari 2007.  
+Dit besluit treedt in werking met ingang van 1 januari 2007. 
 
 ### Artikel  11  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Bedrijfschap Afbouw.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Bedrijfschap Afbouw. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -117,13 +117,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het St
 21 december 2006  
 Beatrix  
 
-De Minister van Sociale Zaken en Werkgelegenheid, 
-A. J. deGeus 
+De Minister van Sociale Zaken en Werkgelegenheid , 
+A. J. de Geus   
 
-De Minister van Economische Zaken, 
-J. G.Wijn 
+De Minister van Economische Zaken , 
+J. G. Wijn   
 
 de *achtentwintigste* december 2006 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

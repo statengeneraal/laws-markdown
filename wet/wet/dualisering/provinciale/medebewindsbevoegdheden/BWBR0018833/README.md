@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Algemene wet bestuursrecht.   
+Wijzigt de Algemene wet bestuursrecht. 
 
 ### Hoofdstuk  2  
 
@@ -22,15 +22,15 @@ Wijzigt de Algemene wet bestuursrecht.
 
 ### Artikel  II  
 
-Wijzigt de Wet algemene regels herindeling.   
+Wijzigt de Wet algemene regels herindeling. 
 
 ### Artikel  IIa  
 
-Wijzigt de Wet tegemoetkoming schade bij rampen en zware ongevallen.   
+Wijzigt de Wet tegemoetkoming schade bij rampen en zware ongevallen. 
 
 ### Artikel  III  
 
-Wijzigt de Provinciewet.   
+Wijzigt de Provinciewet. 
 
 ### Hoofdstuk  3  
 
@@ -38,27 +38,27 @@ Wijzigt de Provinciewet.
 
 ### Artikel  IV  
 
-Wijzigt de Archiefwet 1995.   
+Wijzigt de Archiefwet 1995. 
 
 ### Artikel  V  
 
-Wijzigt de Mediawet.   
+Wijzigt de Mediawet. 
 
 ### Artikel  VI  
 
-Wijzigt de Monumentenwet 1988.   
+Wijzigt de Monumentenwet 1988. 
 
 ### Artikel  VII  
 
-Wijzigt de Wet op het onderwijstoezicht.   
+Wijzigt de Wet op het onderwijstoezicht. 
 
 ### Artikel  VIII  
 
-Wijzigt de Wet op het specifiek cultuurbeleid.   
+Wijzigt de Wet op het specifiek cultuurbeleid. 
 
 ### Artikel  IX  
 
-Wijzigt de Wet op het voortgezet onderwijs.   
+Wijzigt de Wet op het voortgezet onderwijs. 
 
 ### Hoofdstuk  4  
 
@@ -66,31 +66,31 @@ Wijzigt de Wet op het voortgezet onderwijs.
 
 ### Artikel  IXa  
 
-Wijzigt de Implementatiewet EG-kaderrichtlijn water.   
+Wijzigt de Implementatiewet EG-kaderrichtlijn water. 
 
 ### Artikel  X  
 
-Wijzigt de Waterleidingwet.   
+Wijzigt de Waterleidingwet. 
 
 ### Artikel  XI  
 
-Wijzigt de Wet bodembescherming.   
+Wijzigt de Wet bodembescherming. 
 
 ### Artikel  XIa  
 
-Wijzigt de Wet geluidhinder.   
+Wijzigt de Wet geluidhinder. 
 
 ### Artikel  XIb  
 
-Wijzigt de Wet inzake de luchtverontreiniging.   
+Wijzigt de Wet inzake de luchtverontreiniging. 
 
 ### Artikel  XII  
 
-Wijzigt de Wet milieubeheer.   
+Wijzigt de Wet milieubeheer. 
 
 ### Artikel  XIII  
 
-Wijzigt de Woningwet.   
+Wijzigt de Woningwet. 
 
 ### Hoofdstuk  5  
 
@@ -98,75 +98,75 @@ Wijzigt de Woningwet.
 
 ### Artikel  XIIIa  
 
-Wijzigt de Belemmeringenwet Privaatrecht.   
+Wijzigt de Belemmeringenwet Privaatrecht. 
 
 ### Artikel  XIV  
 
-Wijzigt de Belemmeringenwet Verordeningen.   
+Wijzigt de Belemmeringenwet Verordeningen. 
 
 ### Artikel  XV  
 
-Wijzigt de Luchtvaartwet.   
+Wijzigt de Luchtvaartwet. 
 
 ### Artikel  XVI  
 
-Wijzigt de Ontgrondingenwet.   
+Wijzigt de Ontgrondingenwet. 
 
 ### Artikel  XVII  
 
-Wijzigt de Planwet verkeer en vervoer.   
+Wijzigt de Planwet verkeer en vervoer. 
 
 ### Artikel  XVIIa  
 
-Wijzigt de Scheepvaartverkeerswet.   
+Wijzigt de Scheepvaartverkeerswet. 
 
 ### Artikel  XVIIb  
 
-Wijzigt de Tracéwet.   
+Wijzigt de Tracéwet. 
 
 ### Artikel  XVIII  
 
-Wijzigt de Verenwet.   
+Wijzigt de Verenwet. 
 
 ### Artikel  XVIIIa  
 
-Wijzigt de Waterschapswet.   
+Wijzigt de Waterschapswet. 
 
 ### Artikel  XIX  
 
-Wijzigt de Waterstaatswet 1900.   
+Wijzigt de Waterstaatswet 1900. 
 
 ### Artikel  XX  
 
-Wijzigt de Wegenwet.   
+Wijzigt de Wegenwet. 
 
 ### Artikel  XXa  
 
-Wijzigt de Wet aanleg locaalspoor- en tramwegen.   
+Wijzigt de Wet aanleg locaalspoor- en tramwegen. 
 
 ### Artikel  XXI  
 
-Wijzigt de Wet bereikbaarheid en mobiliteit.   
+Wijzigt de Wet bereikbaarheid en mobiliteit. 
 
 ### Artikel  XXII  
 
-Wijzigt de Wet op de waterhuishouding.   
+Wijzigt de Wet op de waterhuishouding. 
 
 ### Artikel  XXIII  
 
-Wijzigt de Wet personenvervoer 2000.   
+Wijzigt de Wet personenvervoer 2000. 
 
 ### Artikel  XXIV  
 
-Wijzigt de Wet verontreiniging oppervlaktewateren.   
+Wijzigt de Wet verontreiniging oppervlaktewateren. 
 
 ### Artikel  XXV  
 
-Wijzigt de Wet verontreiniging zeewater.   
+Wijzigt de Wet verontreiniging zeewater. 
 
 ### Artikel  XXVa  
 
-Wijzigt de Wet vervoer gevaarlijke stoffen.   
+Wijzigt de Wet vervoer gevaarlijke stoffen. 
 
 ### Hoofdstuk  6  
 
@@ -174,15 +174,15 @@ Wijzigt de Wet vervoer gevaarlijke stoffen.
 
 ### Artikel  XXVI  
 
-Wijzigt de Flora- en faunawet.   
+Wijzigt de Flora- en faunawet. 
 
 ### Artikel  XXVII  
 
-Wijzigt de Landinrichtingswet.   
+Wijzigt de Landinrichtingswet. 
 
 ### Artikel  XXVIII  
 
-Wijzigt de Wet op de openluchtrecreatie.   
+Wijzigt de Wet op de openluchtrecreatie. 
 
 ### Hoofdstuk  7  
 
@@ -190,23 +190,23 @@ Wijzigt de Wet op de openluchtrecreatie.
 
 ### Artikel  XXIX  
 
-Wijzigt de Gezondheidswet.   
+Wijzigt de Gezondheidswet. 
 
 ### Artikel  XXX  
 
-Wijzigt de Tijdelijke Verstrekkingenwet maatschappelijke dienstverlening.   
+Wijzigt de Tijdelijke Verstrekkingenwet maatschappelijke dienstverlening. 
 
 ### Artikel  XXXI  
 
-Wijzigt de Welzijnswet 1994.   
+Wijzigt de Welzijnswet 1994. 
 
 ### Artikel  XXXII  
 
-Wijzigt de Wet ambulancevervoer.   
+Wijzigt de Wet ambulancevervoer. 
 
 ### Artikel  XXXIII  
 
-Wijzigt de Wet ziekenhuisvoorzieningen.   
+Wijzigt de Wet ziekenhuisvoorzieningen. 
 
 ### Hoofdstuk  8  
 
@@ -218,19 +218,19 @@ Wijzigt de Wet ziekenhuisvoorzieningen.
 2.  In afwijking van het eerste lid vervallen besluiten tot delegatie van een bevoegdheid van provinciale staten aan gedeputeerde staten en mandaatbesluiten op het tijdstip van inwerkingtreding van deze wet van rechtswege.   
 3.  In afwijking van het eerste lid vervallen besluiten tot instelling van commissies als bedoeld in de [artikelen 81](../../../../../../wet/provinciewet/BWBR0005645/README.md) en [82 van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md) die op 12 maart 2005 niet aan de in die artikelen gestelde eisen voldoen, op die datum van rechtswege.   
 4.  Terzake van beslissingen die vóór het tijdstip van inwerkingtreding van deze wet zijn genomen, ten aanzien waarvan na dat tijdstip een ander bestuursorgaan bevoegd is, wordt het bezwaar of beroep behandeld door dat andere bestuursorgaan.   
-5.  Gemeenschappelijke regelingen tot het treffen waarvan na het tijdstip van inwerkingtreding van deze wet een ander bestuursorgaan van de deelnemende provincie bevoegd is, worden met ingang van dat tijdstip geacht te zijn getroffen door dat andere bestuursorgaan.   
+5.  Gemeenschappelijke regelingen tot het treffen waarvan na het tijdstip van inwerkingtreding van deze wet een ander bestuursorgaan van de deelnemende provincie bevoegd is, worden met ingang van dat tijdstip geacht te zijn getroffen door dat andere bestuursorgaan.  
 
 ### Artikel  XXXV  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  XXXVI  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In het koninklijk besluit wordt zo nodig toepassing gegeven aan [artikel 16 van de Tijdelijke referendumwet](../../../../../../wet/tijdelijke/referendumwet/BWBR0012701/README.md).  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In het koninklijk besluit wordt zo nodig toepassing gegeven aan [artikel 16 van de Tijdelijke referendumwet](../../../../../../wet/tijdelijke/referendumwet/BWBR0012701/README.md). 
 
 ### Artikel  XXXVII  
 
-Deze wet wordt aangehaald als: Wet dualisering provinciale medebewindsbevoegdheden.  
+Deze wet wordt aangehaald als: Wet dualisering provinciale medebewindsbevoegdheden. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Artikel  1  
 
-Goedgekeurd wordt een verhoging van de inschrijving van het Koninkrijk op aandelen van de Internationale Bank voor Herstel en Ontwikkeling met US $ 273.117.640 (tweehonderddrieënzeventig miljoen eenhonderdzeventienduizend zeshonderdveertig United States dollars) tegen de koers van het moment van betaling, in het kader van de speciale verhogingen van de deelnemingen in het kapitaal van deze instelling overeenkomstig artikel II, sectie 2, sub *b*, van de Overeenkomst betreffende de Internationale Bank voor Herstel en Ontwikkeling (*Stb.* F 318).  
+Goedgekeurd wordt een verhoging van de inschrijving van het Koninkrijk op aandelen van de Internationale Bank voor Herstel en Ontwikkeling met US $ 273.117.640 (tweehonderddrieënzeventig miljoen eenhonderdzeventienduizend zeshonderdveertig United States dollars) tegen de koers van het moment van betaling, in het kader van de speciale verhogingen van de deelnemingen in het kapitaal van deze instelling overeenkomstig artikel II, sectie 2, sub *b*, van de Overeenkomst betreffende de Internationale Bank voor Herstel en Ontwikkeling (*Stb.* F 318). 
 
 ### Artikel  2  
 
-Deze Rijkswet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze Rijkswet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad*, in het *Publicatieblad van de Nederlandse Antillen* en in het *Afkondigingsblad van Aruba* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

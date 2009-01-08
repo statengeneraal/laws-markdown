@@ -4,7 +4,7 @@
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen  
 Gelet op [artikel 19 van de Archiefwet 1995](../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -24,8 +24,8 @@ Deze regeling kan worden aangehaald als Regeling tarieven rijksarchiefdienst.
 
 ### Artikel  5  
 
-Van dit besluit zal afschrift worden gezonden aan de Algemene Rekenkamer.  
+Van dit besluit zal afschrift worden gezonden aan de Algemene Rekenkamer. 
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschappen
-F.C.J.Ketelaar    
+Staatssecretaris van Onderwijs, Cultuur en Wetenschappen 
+F.C.J. Ketelaar      

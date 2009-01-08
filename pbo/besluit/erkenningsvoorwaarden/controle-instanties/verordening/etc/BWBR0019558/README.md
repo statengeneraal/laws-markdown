@@ -26,12 +26,12 @@ g. Op de controle-activiteiten is een aansprakelijkheidsverzekering met een adeq
 
 h. De controle-instantie verbindt zich ertoe de gegevens die naar aanleiding van de controles op de naleving van de [verordening](../../../../../../../pbo/verordening/welzijnsnormen/konijnen/(ppe)/2006/BWBR0019560/README.md) worden gegenereerd niet aan derden te verstrekken;  
 
-i. De controle-instantie beschikt over een klachtenprocedure.    
+i. De controle-instantie beschikt over een klachtenprocedure.   
 
 ### Artikel  2  
 
 1.  Dit besluit wordt aangehaald als: Besluit erkenningsvoorwaarden controle-instanties Verordening welzijnsnormen konijnen (PPE) 2006.   
-2.  Dit besluit treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningblad Bedrijfsorganisatie waarin het wordt geplaatst.   
+2.  Dit besluit treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningblad Bedrijfsorganisatie waarin het wordt geplaatst.  
 
 Zoetermeer 
 9 februari 2006   
@@ -39,5 +39,5 @@ Zoetermeer
 J.J. Ramekers  
 voorzitter  
 
-S.B.M. Jongerius  
+S.B.M.Jongerius  
 secretaris    

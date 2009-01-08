@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Bevoegdhedenbesluit WPO.   
+Wijzigt het Bevoegdhedenbesluit WPO. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit bekwaamheidseisen onderwijspersoneel.   
+Wijzigt het Besluit bekwaamheidseisen onderwijspersoneel. 
 
 ### Artikel  III  
 
-Het recht zoals dat gold voorafgaand aan het tijdstip van inwerkingtreding van dit besluit, blijft van toepassing op beschikkingen en geschillen die betrekking hebben op de periode voorafgaand aan dat tijdstip.  
+Het recht zoals dat gold voorafgaand aan het tijdstip van inwerkingtreding van dit besluit, blijft van toepassing op beschikkingen en geschillen die betrekking hebben op de periode voorafgaand aan dat tijdstip. 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -35,10 +35,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 20 december 2005  
 Beatrix  
 
-De Minister van Onderwijs, Cultuur en Wetenschap, 
-M. J. A.van der Hoeven 
+De Minister van Onderwijs, Cultuur en Wetenschap , 
+M. J. A. van der Hoeven   
 
 de *zeventiende* januari 2006 
 
-De Minister van Justitie, 
-J. P. H.Donner  
+De Minister van Justitie , 
+J. P. H. Donner    

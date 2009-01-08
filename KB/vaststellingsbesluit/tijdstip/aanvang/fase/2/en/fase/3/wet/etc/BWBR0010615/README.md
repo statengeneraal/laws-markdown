@@ -23,7 +23,7 @@ Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uit
 
 Tavarnelle 
 17 juli 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
 A. Peper   
@@ -31,4 +31,4 @@ A. Peper
 de *vierentwintigste* augustus 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

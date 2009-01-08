@@ -8,11 +8,11 @@ De Minister van Onderwijs, Cultuur en Wetenschap,  Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-Opdrachtgever: de Minister van Onderwijs, Cultuur en Wetenschap;  
+Opdrachtgever: de Minister van Onderwijs, Cultuur en Wetenschap; 
 
-UWV: Uitkeringsinstituut werknemersverzekeringen, gevestigd te Amsterdam;  
+UWV: Uitkeringsinstituut werknemersverzekeringen, gevestigd te Amsterdam; 
 
-Regelingen: het [Besluit Werkloosheid Onderwijs- en Onderzoekspersoneel](../../../../../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md), het [Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair en voortgezet onderwijs](../../../../../../../../AMvB/besluit/bovenwettelijke/werkloosheidsregeling/voor/onderwijspersoneel/etc/BWBR0012177/README.md), alsmede hoofdstuk III, hoofdstuk IV en hoofdstuk VI, artikel 44, van het Besluit ziekte en arbeidsongeschiktheid onderwijs- en onderzoekspersoneel.    
+Regelingen: het [Besluit Werkloosheid Onderwijs- en Onderzoekspersoneel](../../../../../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md), het [Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair en voortgezet onderwijs](../../../../../../../../AMvB/besluit/bovenwettelijke/werkloosheidsregeling/voor/onderwijspersoneel/etc/BWBR0012177/README.md), alsmede hoofdstuk III, hoofdstuk IV en hoofdstuk VI, artikel 44, van het Besluit ziekte en arbeidsongeschiktheid onderwijs- en onderzoekspersoneel. 
 
 ### Artikel  2  
 
@@ -28,17 +28,17 @@ Opdrachtgever verleent aan UWV het volgende mandaat:
 
 4. UWV is bevoegd om inzake de uitvoering van de regelingen namens Opdrachtgever in rechte op te treden en om namens Opdrachtgever tegen rechterlijke uitspraken ter zake al dan niet hoger beroep of cassatie in te stellen. Indien het een zaak betreft met een kennelijk aanzienlijk financieel of rechtspositioneel belang, oefent UWV deze bevoegdheid niet uit dan na verkregen instemming van Opdrachtgever en in voorkomend geval van de ex-werkgever van de wederpartij in de desbetreffende zaak. UWV is in dat geval wel bevoegd om vooruitlopend hierop zo nodig voorlopig hoger beroep of cassatie in te stellen.  
 
-5. UWV is bevoegd tot het verlenen van ondermandaat aan bij UWV in dienst zijnde functionarissen.    
+5. UWV is bevoegd tot het verlenen van ondermandaat aan bij UWV in dienst zijnde functionarissen.   
 
 ### Artikel  3  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 april 2004.  
+Dit besluit treedt in werking met ingang van 1 april 2004. 
 
 Den Haag 
 31 maart 2004    
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, 
-M.J.A. van derHoeven    
+M.J.A. van der  Hoeven      

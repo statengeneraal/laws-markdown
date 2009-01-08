@@ -15,17 +15,17 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het tijdelijk Besluit ziekte en arbeidsongeschiktheid onderwijs- en onderzoekpersoneel.   
+Wijzigt het tijdelijk Besluit ziekte en arbeidsongeschiktheid onderwijs- en onderzoekpersoneel.  
 
 ### Artikel  II  
 
 ####Overgangsbepaling
 
-De voorschriften zoals die in het [tijdelijk Besluit ziekte en arbeidsongeschiktheid onderwijs- en onderzoekpersoneel](../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md) luidden op de datum van inwerkingtreding van dit besluit blijven van toepassing op de tijdvakken waarover zij gelding hadden.  
+De voorschriften zoals die in het [tijdelijk Besluit ziekte en arbeidsongeschiktheid onderwijs- en onderzoekpersoneel](../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md) luidden op de datum van inwerkingtreding van dit besluit blijven van toepassing op de tijdvakken waarover zij gelding hadden. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2001.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2001. 
 
 ‘s-Gravenhage, 
 2 februari 2001  
@@ -40,4 +40,4 @@ L.J. Brinkhorst
 de *twintigste* februari 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

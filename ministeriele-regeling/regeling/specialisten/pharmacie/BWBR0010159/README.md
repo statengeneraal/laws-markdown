@@ -1,9 +1,9 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling specialisten Pharmacie
+##Regeling specialisten Pharmacie 
 
 Gelet op [artikel 14, eerste en zesde lid, onder a, van de Wet op de beroepen in de individuele gezondheidszorg](../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -16,7 +16,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de goedkeuring v
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling specialisten Pharmacie  
+Deze regeling wordt aangehaald als: Regeling specialisten Pharmacie 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -24,4 +24,4 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-E.Borst-Eilers    
+E.  Borst-Eilers      

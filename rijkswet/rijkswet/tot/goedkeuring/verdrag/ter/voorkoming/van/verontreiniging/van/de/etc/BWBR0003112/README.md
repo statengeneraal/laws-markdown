@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Artikel  1  
 
-Het op 29 december 1972 te Londen tot stand gekomen Verdrag ter voorkoming van de verontreiniging van de zee door het storten van afval en vuil, met Bijlagen, waarvan de Engelse en de Franse tekst en de vertaling in het Nederlands zijn geplaatst in *Tractatenblad* 1973, 172, wordt goedgekeurd voor het gehele Koninkrijk.  
+Het op 29 december 1972 te Londen tot stand gekomen Verdrag ter voorkoming van de verontreiniging van de zee door het storten van afval en vuil, met Bijlagen, waarvan de Engelse en de Franse tekst en de vertaling in het Nederlands zijn geplaatst in *Tractatenblad* 1973, 172, wordt goedgekeurd voor het gehele Koninkrijk. 
 
 ### Artikel  2  
 
-Wijzigingen van de Bijlagen behorende bij het in artikel 1 genoemde Verdrag behoeven niet de goedkeuring van de Staten-Generaal.  
+Wijzigingen van de Bijlagen behorende bij het in artikel 1 genoemde Verdrag behoeven niet de goedkeuring van de Staten-Generaal. 
 
 ### Artikel  3  
 
-Deze Rijkswet treedt in werking met ingang van de dag na heden.  
+Deze Rijkswet treedt in werking met ingang van de dag na heden. 
 
 Lasten en bevelen, dat deze rijkswet in het *Staatsblad* en het *Publicatieblad van de Nederlandse Antillen* zal worden geplaatst en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

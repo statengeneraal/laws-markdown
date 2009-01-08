@@ -16,7 +16,7 @@ a. de Minister: de Minister van Financiën;
 
 b. de Autoriteit Financiële Markten: de Stichting Autoriteit Financiële Markten;  
 
-c. de wet: de [Wet op het financieel toezicht](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).    
+c. de wet: de [Wet op het financieel toezicht](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
 
 ### Artikel  2  
 
@@ -32,30 +32,30 @@ d. het ingevolge [artikel 5:32d, vijfde lid, van de wet](../../../../../../../..
 
 e. het ingevolge [artikel 5:32d, zesde lid, van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) vorderen van de vernietiging van een besluit;  
 
-f. het ingevolge de [artikel 1:104, eerste lid, van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) juncto [1:105, eerste lid, van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wijzigen, geheel of gedeeltelijk intrekken of beperken van een verklaring van geen bezwaar dan wel het daaraan verbinden van nadere voorschriften.    
+f. het ingevolge de [artikel 1:104, eerste lid, van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) juncto [1:105, eerste lid, van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wijzigen, geheel of gedeeltelijk intrekken of beperken van een verklaring van geen bezwaar dan wel het daaraan verbinden van nadere voorschriften.   
 
 ### Artikel  3  
 
-De Autoriteit Financiële Markten houdt zich bij de uitoefening van de in artikel 2 genoemde bevoegdheden aan de Beleidslijn verklaringen van geen bezwaar gereglementeerde markten van de Minister.  
+De Autoriteit Financiële Markten houdt zich bij de uitoefening van de in artikel 2 genoemde bevoegdheden aan de Beleidslijn verklaringen van geen bezwaar gereglementeerde markten van de Minister. 
 
 ### Artikel  4  
 
 1.  De Autoriteit Financiële Markten stelt de Minister zo spoedig mogelijk in kennis van een aanvraag van een verklaring van geen bezwaar als bedoeld in artikel 1, onder a, alsmede van haar beslissing op die aanvraag.   
-2.  De Autoriteit Financiële Markten stuurt aan de Minister van elk besluit omtrent een aanvraag van een verklaring van geen bezwaar een afschrift en verschaft de Minister elk jaar schriftelijk informatie over de wijze waarop zij namens de Minister de in artikel 2 bedoelde bevoegdheden heeft uitgeoefend.   
+2.  De Autoriteit Financiële Markten stuurt aan de Minister van elk besluit omtrent een aanvraag van een verklaring van geen bezwaar een afschrift en verschaft de Minister elk jaar schriftelijk informatie over de wijze waarop zij namens de Minister de in artikel 2 bedoelde bevoegdheden heeft uitgeoefend.  
 
 ### Artikel  5  
 
-Een document dat is opgesteld door de Autoriteit Financiële Markten en waarin een op grond van dit besluit genomen besluit of verrichte handeling is vastgelegd, vermeldt aan het slot: ‘De Minister van Financiën, namens deze, de Stichting Autoriteit Financiële Markten’.  
+Een document dat is opgesteld door de Autoriteit Financiële Markten en waarin een op grond van dit besluit genomen besluit of verrichte handeling is vastgelegd, vermeldt aan het slot: ‘De Minister van Financiën, namens deze, de Stichting Autoriteit Financiële Markten’. 
 
 ### Artikel  6  
 
-Het [Mandaatbesluit verklaringen van geen bezwaar markten in financiële instrumenten in Nederland](../../../../../../../../../ministeriele-regeling/mandaatbesluit/verklaringen/van/geen/bezwaar/markten/in/financiële/etc/BWBR0020835/README.md) en het [Mandaatbesluit verklaringen van geen bezwaar effectenbeurzen](../../../../../../../../../ministeriele-regeling/mandaatbesluit/verklaringen/van/geen/bezwaar/effectenbeurzen/BWBR0012586/README.md) worden ingetrokken.  
+Het [Mandaatbesluit verklaringen van geen bezwaar markten in financiële instrumenten in Nederland](../../../../../../../../../ministeriele-regeling/mandaatbesluit/verklaringen/van/geen/bezwaar/markten/in/financiële/etc/BWBR0020835/README.md) en het [Mandaatbesluit verklaringen van geen bezwaar effectenbeurzen](../../../../../../../../../ministeriele-regeling/mandaatbesluit/verklaringen/van/geen/bezwaar/effectenbeurzen/BWBR0012586/README.md) worden ingetrokken. 
 
 ### Artikel  7  
 
-Dit besluit wordt aangehaald als: Mandaatbesluit verklaringen van geen bezwaar gereglementeerde markten.  
+Dit besluit wordt aangehaald als: Mandaatbesluit verklaringen van geen bezwaar gereglementeerde markten. 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.  
 
 De 
 Minister van Financiën, 
-W.J.Bos   
+W.J. Bos     

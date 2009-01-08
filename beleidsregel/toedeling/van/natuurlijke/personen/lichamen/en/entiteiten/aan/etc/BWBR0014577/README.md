@@ -97,48 +97,48 @@ In paragraaf 2.7 komen enkele bijzondere situaties aan de orde. Het gaat om geva
 
 Tot het structuurschema dat vanuit een eenmanszaak wordt opgebouwd, behoren: 
 
-2.2.1 de partner en het minderjarige kind van de natuurlijk persoon die een bedrijf of beroep zelfstandig uitoefent;  
+2.2.1de partner en het minderjarige kind van de natuurlijk persoon die een bedrijf of beroep zelfstandig uitoefent;
 
-2.2.2 de onderneming die voor de heffing van de omzetbelasting een fiscale eenheid met de eenmanszaak vormt; de fiscale eenheid zelf hoort ook tot het structuurschema.      
+2.2.2de onderneming die voor de heffing van de omzetbelasting een fiscale eenheid met de eenmanszaak vormt; de fiscale eenheid zelf hoort ook tot het structuurschema.    
 ### 2.3  
 
 ####De vennootschap
 
 Tot het structuurschema dat vanuit een vennootschap wordt opgebouwd behoren: 
 
-2.3.1 het lichaam dat als aandeelhouder of certificaathouder voor meer dan 5% deelneemt in het kapitaal van de vennootschap.  
+2.3.1het lichaam dat als aandeelhouder of certificaathouder voor meer dan 5% deelneemt in het kapitaal van de vennootschap.
 
-2.3.2 de onderneming die voor de heffing van de omzetbelasting een fiscale eenheid met de vennootschap vormt; de fiscale eenheid zelf behoort ook tot het structuurschema.  
+2.3.2de onderneming die voor de heffing van de omzetbelasting een fiscale eenheid met de vennootschap vormt; de fiscale eenheid zelf behoort ook tot het structuurschema.
 
-2.3.3 de natuurlijk persoon die als aandeelhouder of certificaathouder deelneemt in het kapitaal van de vennootschap en een aanmerkelijk belang heeft in de zin van hoofdstuk 4 van de Wet inkomstenbelasting 2001.  
+2.3.3de natuurlijk persoon die als aandeelhouder of certificaathouder deelneemt in het kapitaal van de vennootschap en een aanmerkelijk belang heeft in de zin van hoofdstuk 4 van de Wet inkomstenbelasting 2001.
 
-2.3.4 de partner en het minderjarige kind van de in paragraaf 2.3.3 genoemde persoon.      
+2.3.4de partner en het minderjarige kind van de in paragraaf 2.3.3 genoemde persoon.    
 ### 2.4  
 
 ####De maatschap
 
 Tot het structuurschema, dat wordt opgebouwd vanuit de maatschap, behoren: 
 
-2.4.1 de maten, zowel natuurlijke personen van wie de deelneming een onderneming is in de zin van afdeling 3.2 van de Wet inkomstenbelasting 2001, als lichamen die deelnemen in de maatschap;  
+2.4.1de maten, zowel natuurlijke personen van wie de deelneming een onderneming is in de zin van afdeling 3.2 van de Wet inkomstenbelasting 2001, als lichamen die deelnemen in de maatschap;
 
-2.4.2 de partner en het minderjarig kind van elk van de maten;  
+2.4.2de partner en het minderjarig kind van elk van de maten;
 
-2.4.3 de onderneming die voor de heffing van de omzetbelasting een fiscale eenheid met de maatschap vormt; de fiscale eenheid zelf behoort ook tot het structuurschema.      
+2.4.3de onderneming die voor de heffing van de omzetbelasting een fiscale eenheid met de maatschap vormt; de fiscale eenheid zelf behoort ook tot het structuurschema.    
 ### 2.5  
 
 ####De commanditaire vennootschap (CV)
 
 Tot het structuurschema dat vanuit een commanditaire vennootschap wordt opgebouwd, behoren: 
 
-2.5.1 de beherende vennoten, zowel natuurlijke personen van wie de deelneming een onderneming is in de zin van afdeling 3.2 van de Wet inkomstenbelasting 2001, als lichamen die deelnemen in de CV;  
+2.5.1de beherende vennoten, zowel natuurlijke personen van wie de deelneming een onderneming is in de zin van afdeling 3.2 van de Wet inkomstenbelasting 2001, als lichamen die deelnemen in de CV;
 
-2.5.2 de commanditaire vennoten (lichamen) wier kapitaaldeelname méér bedraagt dan 5%;  
+2.5.2de commanditaire vennoten (lichamen) wier kapitaaldeelname méér bedraagt dan 5%;
 
-2.5.3 de commanditaire vennoten (natuurlijke personen) van wie de deelneming een onderneming is in de zin van afdeling 3.2 van de Wet inkomstenbelasting 2001 en wier kapitaaldeelname meer dan 5% bedraagt;  
+2.5.3de commanditaire vennoten (natuurlijke personen) van wie de deelneming een onderneming is in de zin van afdeling 3.2 van de Wet inkomstenbelasting 2001 en wier kapitaaldeelname meer dan 5% bedraagt;
 
-2.5.4 de onderneming die voor de heffing van de omzetbelasting een fiscale eenheid met de CV vormt. De fiscale eenheid zelf behoort ook tot het structuurschema;  
+2.5.4de onderneming die voor de heffing van de omzetbelasting een fiscale eenheid met de CV vormt. De fiscale eenheid zelf behoort ook tot het structuurschema;
 
-2.5.5 de partner en het minderjarig kind van de hiervoor genoemde personen.      
+2.5.5de partner en het minderjarig kind van de hiervoor genoemde personen.    
 ### 2.6  
 
 ####Entiteitvorming
@@ -287,24 +287,24 @@ Voor het bepalen van het onderdeel van de Belastingdienst (als bedoeld in artike
 
 ####Woonplaats van de particulier, niet behorend tot een entiteit
 
-1) Als hoofdregel geldt dat bepalend is de gemeente van inschrijving volgens de GBA (Gemeentelijke basisadministratie persoonsgegevens). Indien de particulier niet is ingeschreven in de GBA is het feitelijk woonadres bepalend.  
+1)Als hoofdregel geldt dat bepalend is de gemeente van inschrijving volgens de GBA (Gemeentelijke basisadministratie persoonsgegevens). Indien de particulier niet is ingeschreven in de GBA is het feitelijk woonadres bepalend.
 
-2) Is sprake van ‘vertrokken onbekend waarheen’ (vow) dan geldt de laatst bekende feitelijke woonplaats van de particulier.  
+2)Is sprake van ‘vertrokken onbekend waarheen’ (vow) dan geldt de laatst bekende feitelijke woonplaats van de particulier.
 
-3) Is de woonplaats buiten Nederland gelegen, dan ressorteert de particulier onder de Belastingdienst/Limburg.      
+3)Is de woonplaats buiten Nederland gelegen, dan ressorteert de particulier onder de Belastingdienst/Limburg.    
 ### 3.3  
 
 ####Vestigingsplaats van de onderneming
 
 De vestigingsplaats van de onderneming wordt achtereenvolgens bepaald door: 
 
-1) het adres vanwaar of vanwaaruit de feitelijke bedrijfsuitoefening plaatsvindt; NB: Vindt de feitelijke bedrijfsuitoefening plaats op meer vestigingen, dan is de vestigingsplaats de vestiging met de hoogste omzet (gemiddeld over drie jaren). De omzet behaald door buitenlandse vestigingen of filialen blijft voor deze bepaling buiten beschouwing.  
+1)het adres vanwaar of vanwaaruit de feitelijke bedrijfsuitoefening plaatsvindt;NB: Vindt de feitelijke bedrijfsuitoefening plaats op meer vestigingen, dan is de vestigingsplaats de vestiging met de hoogste omzet (gemiddeld over drie jaren). De omzet behaald door buitenlandse vestigingen of filialen blijft voor deze bepaling buiten beschouwing.
 
-2) het adres waar de centrale leiding gevestigd is;  
+2)het adres waar de centrale leiding gevestigd is;
 
-3) het adres waar de (loon)administratie zich bevindt;  
+3)het adres waar de (loon)administratie zich bevindt;
 
-4) de laatst bekende vestigingsplaats in gevallen waarin het adres bedoeld onder 1, 2, of 3 niet kan worden vastgesteld. NB: Voor de commanditaire vennoot die niet bij de entiteit van de besloten commanditaire vennootschap wordt gevoegd, doch die wel een onderneming is in de zin van dit besluit, geldt het volgende. Indien de commanditaire deelname de enige onderneming is, geldt als vestigingsplaats van de onderneming de woonplaats van de commandite.      
+4)de laatst bekende vestigingsplaats in gevallen waarin het adres bedoeld onder 1, 2, of 3 niet kan worden vastgesteld.NB: Voor de commanditaire vennoot die niet bij de entiteit van de besloten commanditaire vennootschap wordt gevoegd, doch die wel een onderneming is in de zin van dit besluit, geldt het volgende. Indien de commanditaire deelname de enige onderneming is, geldt als vestigingsplaats van de onderneming de woonplaats van de commandite.    
 ### 3.4  
 
 ####Vestigingsplaats van de entiteit
@@ -314,30 +314,30 @@ De vestigingsplaats van de entiteit is de vestigingsplaats van de belangrijkste 
 
 ####Vestigingsplaats en toedeling bij bijzondere grensoverschrijdende situaties
 
-3.5.1 Niet tot een entiteit behorende binnenlands belastingplichtige lichamen (naar Nederlands recht opgericht) waarvan de zetel (feitelijke leiding) daadwerkelijk is verplaatst naar het buitenland en die geen (bedrijfs)activiteiten in Nederland (meer) hebben, ressorteren onder de Belastingdienst/Limburg.  
+3.5.1Niet tot een entiteit behorende binnenlands belastingplichtige lichamen (naar Nederlands recht opgericht) waarvan de zetel (feitelijke leiding) daadwerkelijk is verplaatst naar het buitenland en die geen (bedrijfs)activiteiten in Nederland (meer) hebben, ressorteren onder de Belastingdienst/Limburg.
 
-3.5.2 Buitenlands belastingplichtige lichamen met binnenlandse bronnen van inkomen en zonder vaste inrichting of vaste vertegenwoordiging ressorteren onder de Belastingdienst/Limburg. Buitenlands belastingplichtige lichamen met binnenlandse bronnen van inkomen met een vaste inrichting of vertegenwoordiging ressorteren onder de regio waartoe het vestigingsadres van de vaste inrichting of vertegenwoordiging behoort.  
+3.5.2Buitenlands belastingplichtige lichamen met binnenlandse bronnen van inkomen en zonder vaste inrichting of vaste vertegenwoordiging ressorteren onder de Belastingdienst/Limburg. Buitenlands belastingplichtige lichamen met binnenlandse bronnen van inkomen met een vaste inrichting of vertegenwoordiging ressorteren onder de regio waartoe het vestigingsadres van de vaste inrichting of vertegenwoordiging behoort.
 
-3.5.3 De inhoudingsplichtige als bedoeld in artikel 6, tweede lid, letter b van de Wet op de loonbelasting 1964 alsmede de inhoudingsplichtige die een vaste inrichting heeft als bedoeld in artikel 6, derde lid, letter b van de Wet op de loonbelasting 1964 ressorteert onder de Belastingdienst/Limburg.  
+3.5.3De inhoudingsplichtige als bedoeld in artikel 6, tweede lid, letter b van de Wet op de loonbelasting 1964 alsmede de inhoudingsplichtige die een vaste inrichting heeft als bedoeld in artikel 6, derde lid, letter b van de Wet op de loonbelasting 1964 ressorteert onder de Belastingdienst/Limburg.
 
-3.5.4 De in het buitenland wonende belastingplichtige die uitsluitend vanwege de belaste verhuur van een vakantiewoning ondernemer is voor de omzetbelasting ressorteert onder de Belastingdienst/Limburg.      
+3.5.4De in het buitenland wonende belastingplichtige die uitsluitend vanwege de belaste verhuur van een vakantiewoning ondernemer is voor de omzetbelasting ressorteert onder de Belastingdienst/Limburg.    
 ### 3.6  
 
 ####Afwijkende bepalingen
 
 In afwijking van het bovenstaande is de vestigingsplaats van: 
 
-3.6.1 Ondernemingen die een bedrijf uitoefenen aan boord van een binnenschip: de woonplaats aan de vaste wal van de natuurlijk persoon die het bedrijf zelfstandig uitoefent. Indien de natuurlijk persoon die het bedrijf zelfstandig uitoefent geen woonplaats aan de vaste wal heeft of aan boord van het schip woont, wordt hij geacht geen vaste woon- of vestigingsplaats te hebben in de zin van artikel 13, tweede lid, ten derde van de Regeling en het bedrijf aan boord van het schip uit te oefenen.  
+3.6.1Ondernemingen die een bedrijf uitoefenen aan boord van een binnenschip: de woonplaats aan de vaste wal van de natuurlijk persoon die het bedrijf zelfstandig uitoefent.Indien de natuurlijk persoon die het bedrijf zelfstandig uitoefent geen woonplaats aan de vaste wal heeft of aan boord van het schip woont, wordt hij geacht geen vaste woon- of vestigingsplaats te hebben in de zin van artikel 13, tweede lid, ten derde van de Regeling en het bedrijf aan boord van het schip uit te oefenen.
 
-3.6.2 Niet belastingplichtige stichtingen en verenigingen: de statutaire vestigingsplaats. Voor de vestigingsplaats van belastingplichtige stichtingen en verenigingen wordt aangesloten bij de vestigingsplaats van ondernemingen.  
+3.6.2Niet belastingplichtige stichtingen en verenigingen: de statutaire vestigingsplaats.Voor de vestigingsplaats van belastingplichtige stichtingen en verenigingen wordt aangesloten bij de vestigingsplaats van ondernemingen.
 
-3.6.3 Samenwerkingsverbanden in de vorm van een joint venture: de vestigingsplaats van de penvoerende deelnemer. Het tijdelijk samenwerkingsverband wordt behandeld door de regio waaronder de penvoerder van de joint venture valt. Indien bij tijdelijke samenwerkingsverbanden en bij joint ventures geen van de deelnemers als penvoerder optreedt, gelden de normale regels voor het bepalen van de vestigingsplaats.  
+3.6.3Samenwerkingsverbanden in de vorm van een joint venture: de vestigingsplaats van de penvoerende deelnemer.Het tijdelijk samenwerkingsverband wordt behandeld door de regio waaronder de penvoerder van de joint venture valt. Indien bij tijdelijke samenwerkingsverbanden en bij joint ventures geen van de deelnemers als penvoerder optreedt, gelden de normale regels voor het bepalen van de vestigingsplaats.
 
-3.6.4 De natuurlijk persoon voor wiens rekening een onderneming wordt gedreven, die hier te lande woont, maar een onderneming in het buitenland heeft: de feitelijke woonplaats van die natuurlijk persoon.  
+3.6.4De natuurlijk persoon voor wiens rekening een onderneming wordt gedreven, die hier te lande woont, maar een onderneming in het buitenland heeft: de feitelijke woonplaats van die natuurlijk persoon.
 
-3.6.5 De voor ontbinding voorgedragen naar Nederlands recht opgerichte rechtspersoon: de vestigingsplaats van deze rechtspersoon op het moment van de voordracht tot ontbinding.  
+3.6.5De voor ontbinding voorgedragen naar Nederlands recht opgerichte rechtspersoon: de vestigingsplaats van deze rechtspersoon op het moment van de voordracht tot ontbinding.
 
-3.6.6 De naar Nederlands recht opgerichte rechtspersoon die in staat van faillissement is gesteld: de vestigingsplaats van deze rechtspersoon op het moment dat deze in staat van faillissement is gesteld.       
+3.6.6De naar Nederlands recht opgerichte rechtspersoon die in staat van faillissement is gesteld: de vestigingsplaats van deze rechtspersoon op het moment dat deze in staat van faillissement is gesteld.     
 ### 4  
 
 ####Overdracht van belastingplichtigen en entiteiten
@@ -359,7 +359,7 @@ Het is mogelijk dat de voorheen aangewezen eenheid nog een aantal lopende zaken 
 In dit onderdeel worden relevante omstandigheden beschreven die aanleiding zijn voor het overdragen van een belastingplichtige of entiteit van de ene regio aan een andere regio van de Belastingdienst.   
 ### 4.3.1  
 
-####verhuizing van een niet tot een entiteit behorende particulier binnen nederland
+#### verhuizing van een niet tot een entiteit behorende particulier binnen nederland
 
 Een particulier wordt overgedragen als de woonplaats van die particulier binnen Nederland wijzigt met als gevolg dat deze particulier gaat ressorteren onder een andere regio.    
 ### 4.3.2  

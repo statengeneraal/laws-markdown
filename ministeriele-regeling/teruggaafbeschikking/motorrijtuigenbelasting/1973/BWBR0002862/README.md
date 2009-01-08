@@ -13,36 +13,36 @@ Besluit:
 
 a. zestig willekeurige binnen een jaar vallende dagen;  
 
-b. twaalf maanden, met voldoening van van de over een zodanig tijdvak verschuldigde belasting.     
+b. twaalf maanden, met voldoening van van de over een zodanig tijdvak verschuldigde belasting.    
 
 ### Artikel  2  
 
-Voor een motorrijtuig als is bedoeld in [artikel 9, eerste lid, letter i van de Wet op de motorrijtuigenbelasting 1966](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1966/BWBR0002534/README.md), waarvoor vóór 1 januari 1973 reeds motorrijtuigenbelasting is betaald over een rijtijdvak, waarvan een gedeelte valt na 31 december 1972, wordt voor dat gedeelte teruggaaf van belasting verleend nadat de inspecteur voor dat motorrijtuig op een daartoe strekkend verzoek een vergunning heeft afgegeven als is bedoeld in artikel 5 a van het Uitvoeringsbesluit motorrijtuigenbelasting 1966 (Stb. 383).  
+Voor een motorrijtuig als is bedoeld in [artikel 9, eerste lid, letter i van de Wet op de motorrijtuigenbelasting 1966](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1966/BWBR0002534/README.md), waarvoor vóór 1 januari 1973 reeds motorrijtuigenbelasting is betaald over een rijtijdvak, waarvan een gedeelte valt na 31 december 1972, wordt voor dat gedeelte teruggaaf van belasting verleend nadat de inspecteur voor dat motorrijtuig op een daartoe strekkend verzoek een vergunning heeft afgegeven als is bedoeld in artikel 5 a van het Uitvoeringsbesluit motorrijtuigenbelasting 1966 (Stb. 383). 
 
 ### Artikel  3  
 
 1.  De in de artikelen 1 en 2 bedoelde teruggaaf wordt verleend zonder dat daarvoor een verzoek behoeft te worden gedaan.   
 2.  Degene die de belasting of de vermeerdering daarvan betaald heeft en die vóór 1 maart 1973 ten onrechte deze teruggaaf niet heeft ontvangen kan na die datum een verzoek om teruggaaf indienen bij de inspecteur.   
-3.  De inspecteur beslist op het verzoek om teruggaaf bij beschikking.   
+3.  De inspecteur beslist op het verzoek om teruggaaf bij beschikking.  
 
 ### Artikel  4  
 
-Voor motorrijtuigen waarvoor door de inspecteur vóór 1 januari 1973 met toepassing van artikel 9 van het Uitvoeringsbesluit motorrijtuigenbelasting 1966 vrijstelling is verleend van een gedeelte van de vermeerdering van de belasting blijft dat artikel van toepassing met dien verstande dat de teruggaaf slechts naar evenredigheid verleend wordt over de vóór 1 januari verstreken maanden van de in dat artikel bedoelde tijdvakken met toepassing van het achtste lid van dat artikel.  
+Voor motorrijtuigen waarvoor door de inspecteur vóór 1 januari 1973 met toepassing van artikel 9 van het Uitvoeringsbesluit motorrijtuigenbelasting 1966 vrijstelling is verleend van een gedeelte van de vermeerdering van de belasting blijft dat artikel van toepassing met dien verstande dat de teruggaaf slechts naar evenredigheid verleend wordt over de vóór 1 januari verstreken maanden van de in dat artikel bedoelde tijdvakken met toepassing van het achtste lid van dat artikel. 
 
 ### Artikel  5  
 
 1.  Deze beschikking treedt in werking met ingang van 1 januari 1973.   
-2.  Zij kan worden aangehaald als ‘Teruggaafbeschikking motorrijtuigenbelasting 1973’   
+2.  Zij kan worden aangehaald als ‘Teruggaafbeschikking motorrijtuigenbelasting 1973’  
 
 's-Gravenhage 
 27 december 1972    
 
 De 
 Staatssecretaris van Financiën, 
-Mr. W.Scholten. 
+Mr. W. Scholten.  
 
 Voor deze: 
 
 De 
-directeur-generaal voor fiscale zaken in algemene dienst,
-C. P.Tuk    
+directeur-generaal voor fiscale zaken in algemene dienst, 
+C. P.  Tuk     

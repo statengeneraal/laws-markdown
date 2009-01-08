@@ -4,23 +4,23 @@
 
 De Minister van Binnenlandse Zaken,  
 Gelet op artikel 4, eerste lid, van het Besluit heffing scholing en vorming OR-leden bij de overheid 1996‐1997;
-Besluit:    
+Besluit:     
 
-### Artikel  I  
+###Artikel  I  
 
-Het percentage, bedoeld in artikel 4, eerste lid, van het Besluit heffing scholing en vorming OR-leden bij de overheid 1996‐1997 wordt voor het jaar 1996 vastgesteld op 0,061 procentpunt.  
+Het percentage, bedoeld in artikel 4, eerste lid, van het Besluit heffing scholing en vorming OR-leden bij de overheid 1996‐1997 wordt voor het jaar 1996 vastgesteld op 0,061 procentpunt. 
 
-### Artikel  II  
+###Artikel  II  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. 
 
-### Artikel  III  
+###Artikel  III  
 
-Dit besluit kan worden aangehaald als het Besluit vaststelling percentage heffing scholing en vorming OR-leden bij de overheid 1996.  
+Dit besluit kan worden aangehaald als het Besluit vaststelling percentage heffing scholing en vorming OR-leden bij de overheid 1996. 
 
 ’s-Gravenhage 
 14 maart 1996    
 
 De 
 Minister van Binnenlandse Zaken, 
-C.J. A.Maas    
+C.J. A. Maas      

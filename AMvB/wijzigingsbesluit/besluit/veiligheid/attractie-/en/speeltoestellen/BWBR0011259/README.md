@@ -15,17 +15,17 @@ Hebben goedgevonden en verstaan:
 
 ### ARTIKEL  I  
 
-Wijzigt het Besluit veiligheid attractie- en speeltoestellen.   
+Wijzigt het Besluit veiligheid attractie- en speeltoestellen.  
 
 ### ARTIKEL  II  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van artikel I, onder B, dat voor voorzieningen met betrekking tot het zich te water begeven als bedoeld in de Wet hygiëne en veiligheid zweminrichtingen die reeds in gebruik zijn op het tijdstip van inwerkingtreding van dit besluit, in werking treedt met ingang van de eerste dag van de twaalfde kalendermaand na de datum van uitgifte van voornoemd Staatsblad. De [artikelen 6](../../../../../../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md), [7 derde lid](../../../../../../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md), [8 tweede lid](../../../../../../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md), en [14 eerste lid, van het Warenwetbesluit attractie en speeltoestellen](../../../../../../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md) zijn niet van toepassing op voorzieningen met betrekking tot het zich te water begeven als bedoeld in de Wet hygiëne en veiligheid zweminrichtingen die reeds in gebruik zijn op het tijdstip van inwerkingtreding van dit besluit.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van artikel I, onder B, dat voor voorzieningen met betrekking tot het zich te water begeven als bedoeld in de Wet hygiëne en veiligheid zweminrichtingen die reeds in gebruik zijn op het tijdstip van inwerkingtreding van dit besluit, in werking treedt met ingang van de eerste dag van de twaalfde kalendermaand na de datum van uitgifte van voornoemd Staatsblad. De [artikelen 6](../../../../../../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md), [7 derde lid](../../../../../../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md),[ 8 tweede lid](../../../../../../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md), en [14 eerste lid, van het Warenwetbesluit attractie en speeltoestellen](../../../../../../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md) zijn niet van toepassing op voorzieningen met betrekking tot het zich te water begeven als bedoeld in de Wet hygiëne en veiligheid zweminrichtingen die reeds in gebruik zijn op het tijdstip van inwerkingtreding van dit besluit. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 27 maart 2000  
-Beatrix  
+Beatrix   
 
 De Minister van Volksgezondheid, Welzijn en Sport, 
 E. Borst-Eilers   
@@ -33,4 +33,4 @@ E. Borst-Eilers
 de *twintigste* april 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Warenwetbesluit Produkten voor bijzondere voeding.   
+Wijzigt het Warenwetbesluit Produkten voor bijzondere voeding.  
 
 ### Artikel  II  
 
-Wijzigt het Warenwetbesluit Voedingswaarde-informatie levensmiddelen.   
+Wijzigt het Warenwetbesluit Voedingswaarde-informatie levensmiddelen.  
 
 ### Artikel  III  
 
@@ -29,7 +29,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 's-Gravenhage 
 17 maart 2000  
-Beatrix  
+Beatrix   
 
 De Minister van Volksgezondheid, Welzijn en Sport, 
 E. Borst-Eilers   
@@ -37,4 +37,4 @@ E. Borst-Eilers
 de *elfde* april 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

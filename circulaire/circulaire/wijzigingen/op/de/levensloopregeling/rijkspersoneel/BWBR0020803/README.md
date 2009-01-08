@@ -9,7 +9,7 @@ Sinds 1 januari 2006 heeft een werknemer op grond van de [Wet arbeid en zorg](..
 
 ####Pensioenopbouw tijdens levensloopverlof
 
-#### [Artikel 3.3.1 van de Levensloopregeling rijkspersoneel](../../../../../../../../ministeriele-regeling/levensloopregeling/rijkspersoneel/BWBR0018979/README.md) 
+####[Artikel 3.3.1 van de Levensloopregeling rijkspersoneel](../../../../../../../../ministeriele-regeling/levensloopregeling/rijkspersoneel/BWBR0018979/README.md)
 
 In [artikel 3.3.1 van de Levensloopregeling rijkspersoneel](../../../../../../../../ministeriele-regeling/levensloopregeling/rijkspersoneel/BWBR0018979/README.md) is bepaald dat tijdens het levensloopverlof het werkgeversdeel van de pensioenpremies niet op de ambtenaar wordt verhaald. Uitgangspunt bij dit artikel was, dat pensioenopbouw op grond van het pensioenreglement van de Stichting Pensioenfonds ABP voortgezet werd alsof geen sprake was van buitengewoon verlof. Het niet verhalen van het werkgeversdeel van de pensioenpremies tijdens het levensloopverlof dreigde op grond van de fiscale wetgeving te worden aangemerkt als een bijdrage die niet in dezelfde mate aan overige (niet aan de levensloopverlofregeling deelnemende) werknemers wordt verstrekt. De Belastingdienst heeft echter het standpunt ingenomen, dat levensloopverlof aangemerkt moet worden als betaald verlof. Omdat de werkgever bij andere vormen van betaald verlof ook geen werkgeversdeel van de pensioenpremies op de werknemer verhaalt is er geen sprake van verschil in behandeling van deelnemers en niet-deelnemers aan de levensloopregeling. Volgens de fiscale wetgever mag geen pensioen worden opgebouwd over diensttijd waarin het loon nihil of aanzienlijk lager is dan hetgeen gebruikelijk is (zie [artikel 19 van de Wet op de loonbelasting](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)). De uitleg van die bepaling door de Belastingdienst is dat de pensioenopbouw moet worden beperkt als de levensloopuitkering lager is dan 70% van het reguliere loon. Dit betekent dat het hiervoor bedoelde uitgangspunt, dat tijdens het levensloopverlof pensioenopbouw op grond van het pensioenreglement van de Stichting Pensioenfonds ABP kan worden voortgezet alsof geen sprake is van buitengewoon verlof, onjuist is.    
 
@@ -41,7 +41,7 @@ Zoals uit de informatie hiervoor kan worden afgeleid bestaan er momenteel op ond
 
 ####Werkwijze t.a.v. ambtenaren die op dit moment levensloopverlof genieten
 
-Hoewel de levensloopregeling nog kort bestaat, zijn er al ambtenaren die met levensloopverlof zijn gegaan. Ten aanzien van die ambtenaren is in een aantal gevallen, mede door de onduidelijkheid over de pensioengevendheid van het levensloopverlof en de consequenties voor de pensioenpremieberekening, voor de pensioenopbouw uitgegaan van het pensioengevend inkomen voorafgaand aan het levensloopverlof in plaats van de levensloopuitkering. Gelet op het vorenstaande dient met ingang van 1 januari 2007 de pensioenopbouw tijdens het levensloopverlof plaats te vinden op basis van de levensloopuitkering. In het SOR zal er naar worden gestreefd om de pensioenopbouw tijdens het levensloopverlof vanaf 1 januari 2008 aan te passen overeenkomstig de afspraken in de Pensioenkamer.     
+Hoewel de levensloopregeling nog kort bestaat, zijn er al ambtenaren die met levensloopverlof zijn gegaan. Ten aanzien van die ambtenaren is in een aantal gevallen, mede door de onduidelijkheid over de pensioengevendheid van het levensloopverlof en de consequenties voor de pensioenpremieberekening, voor de pensioenopbouw uitgegaan van het pensioengevend inkomen voorafgaand aan het levensloopverlof in plaats van de levensloopuitkering. Gelet op het vorenstaande dient met ingang van 1 januari 2007 de pensioenopbouw tijdens het levensloopverlof plaats te vinden op basis van de levensloopuitkering. In het SOR zal er naar worden gestreefd om de pensioenopbouw tijdens het levensloopverlof vanaf 1 januari 2008 aan te passen overeenkomstig de afspraken in de Pensioenkamer.    
 ### 2  
 
 ####Overgeschreven vakantie-uren als bron
@@ -100,15 +100,15 @@ De in deze circulaire genoemde formulieren zijn als bijlage 1 tot en met 3 toege
 Ik hoop u met deze aanvullende informatie van dienst te zijn. Het vorenstaande zal, voor zover noodzakelijk, in de [Levensloopregeling rijkspersoneel](../../../../../../../../ministeriele-regeling/levensloopregeling/rijkspersoneel/BWBR0018979/README.md) worden verwerkt.     
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
-Directeur-Generaal Management Openbare Sector, 
-R.IJ.M.Kuipers  
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze:de 
+Directeur-Generaal Management Openbare Sector ,
+R.IJ.M. Kuipers    
 
 ### Bijlage  1  
 
-![241910](http://wetten.overheid.nl/Illustration/241910)
-![241910](http://wetten.overheid.nl/Illustration/241910)
-![241910](http://wetten.overheid.nl/Illustration/241910)
+![241907](http://wetten.overheid.nl/Illustration/241907)
+![241908](http://wetten.overheid.nl/Illustration/241908)
+![241909](http://wetten.overheid.nl/Illustration/241909)
 ![241910](http://wetten.overheid.nl/Illustration/241910)
 
 ### Bijlage  2  
@@ -117,6 +117,6 @@ R.IJ.M.Kuipers
 
 ### Bijlage  3  
 
-![241913](http://wetten.overheid.nl/Illustration/241913)
+![241912](http://wetten.overheid.nl/Illustration/241912)
 ![241913](http://wetten.overheid.nl/Illustration/241913)
 

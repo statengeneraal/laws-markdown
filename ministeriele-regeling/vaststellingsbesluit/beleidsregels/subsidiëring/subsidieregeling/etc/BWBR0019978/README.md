@@ -10,30 +10,30 @@ Besluit:
 
 ### Artikel  1  
 
-Voor subsidieverlening op grond van de [artikelen 9.1](../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) en [9.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) gelden voor de periode 2007–2010 de als bijlage bij dit besluit gevoegde beleidsregels.  
+Voor subsidieverlening op grond van de [artikelen 9.1](../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) en [9.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) gelden voor de periode 2007–2010 de als bijlage bij dit besluit gevoegde beleidsregels. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.  
 
 De 
 Minister voor Ontwikkelingssamenwerking, 
-A.M.A. vanArdenne-van der Hoeven  
+A.M.A. van Ardenne-van der Hoeven    
 
-### Bijlage  
+### Bijlage 
 
 ####Subsidiekader NCDO 2007–2010
 
 #### *I. Uitgangspunten* 
 
-Het draagvlak voor internationale samenwerking en duurzame ontwikkeling in de Nederlandse samenleving is groot. Ruim driekwart van de bevolking steunt de omvang van het overheidsbudget op dit terrein, of wil dit zelfs verhoogd zien. Daarnaast geven burgers zelf fors aan internationale goede doelen en zijn zij actief in particuliere initiatieven, zowel in het buitenland als in meningsvormingsactiviteiten in Nederland zelf. Ondanks deze – door de tijd heen constante – grote maatschappelijke steun voor internationale samenwerking, treden er veranderingen op in het draagvlak. Zo staat internationale samenwerking laag op het prioriteitenlijstje van de burger (in vergelijking met andere beleidsthema’s als werk, zorg, veiligheid) en is er groeiende scepsis over de effectiviteit van internationale samenwerking. Mede uit onvrede over de prestaties van de professionals bij de overheid, de multilaterale instellingen en de niet-gouvernementele organisaties nemen steeds meer burgers het heft in eigen hand en zetten zelfstandig ontwikkelingsprojecten op. Daarnaast is er een groeiende groep burgers die niet meer vanzelfsprekend, vanuit levensbeschouwing, geloof, ideologie, of welbegrepen eigenbelang in de uitbreiding van onze eigen welvaart, affiniteit met de doelen van internationale samenwerking heeft. Deze veranderingen hebben consequenties voor het draagvlakbeleid van de Nederlandse overheid. Allereerst dient de overheid naast het informeren over het beleid veel nadrukkelijker te communiceren in termen van resultaat: laten zien dat internationale samenwerking werkt. Daarnaast dient de burger via interactieve methoden (internet, debat) meer ‘co-producent’ van het beleid te worden. Internationaal vergelijkend OESO-onderzoek laat zien dat de kennis van het publiek over internationale samenwerking (die over het algemeen gering is) aanzienlijk kan toenemen door gerichte educatie op dit terrein. Om draagvlak te versterken zijn er volgens de OESO drie zaken noodzakelijk: 
+Het draagvlak voor internationale samenwerking en duurzame ontwikkeling in de Nederlandse samenleving is groot. Ruim driekwart van de bevolking steunt de omvang van het overheidsbudget op dit terrein, of wil dit zelfs verhoogd zien. Daarnaast geven burgers zelf fors aan internationale goede doelen en zijn zij actief in particuliere initiatieven, zowel in het buitenland als in meningsvormingsactiviteiten in Nederland zelf. Ondanks deze – door de tijd heen constante – grote maatschappelijke steun voor internationale samenwerking, treden er veranderingen op in het draagvlak. Zo staat internationale samenwerking laag op het prioriteitenlijstje van de burger (in vergelijking met andere beleidsthema’s als werk, zorg, veiligheid) en is er groeiende scepsis over de effectiviteit van internationale samenwerking. Mede uit onvrede over de prestaties van de professionals bij de overheid, de multilaterale instellingen en de niet-gouvernementele organisaties nemen steeds meer burgers het heft in eigen hand en zetten zelfstandig ontwikkelingsprojecten op. Daarnaast is er een groeiende groep burgers die niet meer vanzelfsprekend, vanuit levensbeschouwing, geloof, ideologie, of welbegrepen eigenbelang in de uitbreiding van onze eigen welvaart, affiniteit met de doelen van internationale samenwerking heeft.Deze veranderingen hebben consequenties voor het draagvlakbeleid van de Nederlandse overheid. Allereerst dient de overheid naast het informeren over het beleid veel nadrukkelijker te communiceren in termen van resultaat: laten zien dat internationale samenwerking werkt. Daarnaast dient de burger via interactieve methoden (internet, debat) meer ‘co-producent’ van het beleid te worden. Internationaal vergelijkend OESO-onderzoek laat zien dat de kennis van het publiek over internationale samenwerking (die over het algemeen gering is) aanzienlijk kan toenemen door gerichte educatie op dit terrein. Om draagvlak te versterken zijn er volgens de OESO drie zaken noodzakelijk:
 
 – Publiek bewustzijn van de vraagstukken rond mondiale armoede en ontwikkeling.  
 
 – Transparantie van het beleid van internationale samenwerking.  
 
-– Zichtbaarheid van de effectiviteit en resultaten van internationale samenwerking.   Communicatie en publiekseducatie over beleid kan alleen vrucht dragen indien er een ‘draagvlakbodem’ onder ligt die zorgt voor betrokkenheid, zingeving en handelingsperspectief. Het is niet gewenst dat de overheid deze laag als enige onderhoudt. Er is mede-eigenaarschap nodig en ruimte voor debat, die beide het beste gedijen op afstand van de overheid. Naast de overheid is een intermediair nodig. NCDO is de meest natuurlijke organisatie om als intermediair op te treden. NCDO is een zelfstandige organisatie met een draagvlakmissie en vervult een brugfunctie tussen overheid en burger (en vice-versa) waarbij de nadruk ligt op het zichtbaar maken van resultaten van (overheids)beleid op het terrein van internationale samenwerking en duurzame ontwikkeling en resultaten van activiteiten van burgers.  
+– Zichtbaarheid van de effectiviteit en resultaten van internationale samenwerking.  Communicatie en publiekseducatie over beleid kan alleen vrucht dragen indien er een ‘draagvlakbodem’ onder ligt die zorgt voor betrokkenheid, zingeving en handelingsperspectief. Het is niet gewenst dat de overheid deze laag als enige onderhoudt. Er is mede-eigenaarschap nodig en ruimte voor debat, die beide het beste gedijen op afstand van de overheid.Naast de overheid is een intermediair nodig. NCDO is de meest natuurlijke organisatie om als intermediair op te treden. NCDO is een zelfstandige organisatie met een draagvlakmissie en vervult een brugfunctie tussen overheid en burger (en vice-versa) waarbij de nadruk ligt op het zichtbaar maken van resultaten van (overheids)beleid op het terrein van internationale samenwerking en duurzame ontwikkeling en resultaten van activiteiten van burgers.
 
 #### *II. Doelstelling en taken* 
 
@@ -49,7 +49,7 @@ Kerntaak van NCDO is het handhaven en versterken (verbreden en verdiepen) van he
 
 – Het bereiken van doelgroepen, sectoren die thans niet geïnformeerd zijn over en betrokken zijn bij internationale samenwerking. Resultaat: Nieuwe doelgroepen zijn geïdentificeerd, geïnformeerd en betrokken.  
 
-– Het onderhouden en uitbouwen van een kenniscentrum voor communicatie over en draagvlakontwikkeling voor internationale samenwerking. Resultaat: De kennis over (vorming van) de publieke opinie met betrekking tot internationale samenwerking en de methoden en technieken voor draagvlakontwikkeling zijn state of the art.    
+– Het onderhouden en uitbouwen van een kenniscentrum voor communicatie over en draagvlakontwikkeling voor internationale samenwerking. Resultaat: De kennis over (vorming van) de publieke opinie met betrekking tot internationale samenwerking en de methoden en technieken voor draagvlakontwikkeling zijn state of the art.   
 
 #### *III. Taakuitvoering en -afbakening* 
 
@@ -60,19 +60,19 @@ A. Het zelfstandig uitvoeren van activiteiten op het terrein van publiekscommuni
 B. Het verlenen van subsidie voor draagvlakactiviteiten van particulieren en organisaties die niet door het ministerie van Buitenlandse Zaken i.h.k. van TMF/MFS gesubsidieerd worden.  
 
 C. Het genereren van actuele kennis ten aanzien van (innovatieve) ontwikkelingen op het terrein van draagvlakontwikkeling   
-### *A. Zelfstandig (doen) uitvoeren van publiekscommunicatie en andere activiteiten* 
+###*A. Zelfstandig (doen) uitvoeren van publiekscommunicatie en andere activiteiten*
 
 Dit betreft activiteiten waarbij NCDO zelf initiatiefnemer of co-producent is. Deze initiatieven worden in het jaarplan opgenomen. Daarnaast is er in het jaarplan ruimte voor niet voorziene communicatie-activiteiten, zodat kan worden ingesprongen op de actualiteit. 
-### *B. Subsidiëring van draagvlakactiviteiten* 
+###*B. Subsidiëring van draagvlakactiviteiten*
 
 Dit betreft activiteiten waarvoor het initiatief ligt bij de aanvrager. De aanvragende organisaties worden gefinancierd voorzover hun beleid en strategie passen binnen het NCDO beleidskader 2007–2010. Uitsluitend organisaties die niet door BZ gesubsidieerd worden i.h.k. van TMF/MFS komen in aanmerking voor subsidie. Voor de uitvoering van haar subsidiebeleid hanteert NCDO een transparant subsidie- en beoordelingskader. De NCDO-subsidieregelingen concentreren zich op activiteiten in Nederland en omvatten in ieder geval: 
 
 – een subsidieregeling voor organisaties die draagvlakactiviteiten gericht op het Nederlandse publiek uitvoeren;  
 
 – een subsidieregeling voor verdubbeling van (draagvlak)activiteiten van particulier initiatief (Kleinschalige Plaatselijke Activiteiten). Omdat deze KPA-activiteiten ook een ontwikkelingscomponent (effect in ontwikkelingsland) hebben, dient deze vergezeld te gaan van een procedure waarbij ook de kwaliteit van de projecten in ontwikkelingslanden wordt gemonitord en bewaakt.   De rollen van NCDO als opdrachtgever en co-producent (initiatief ligt bij NCDO) moeten zich in haar procedures en werkwijzen onderscheiden van haar rol als subsidieverlener (initiatief ligt bij aanvrager). NCDO richt hiervoor drie onderscheiden procedures in. 
-### *Taakafbakening* 
+###*Taakafbakening*
 
-In de taakafbakening tussen het ministerie van Buitenlandse Zaken en NCDO richt het ministerie zich primair op de directe en actuele beleidscommunicatie. NCDO maakt via publiekscommunicatie en draagvlakactiviteiten (resultaten van) het beleid van internationale samenwerking en duurzame ontwikkeling inzichtelijk en licht dit toe. Daarnaast creëert NCDO ruimte voor meningsvorming en debat. Het ministerie zorgt voor een procedure en werkwijze waarbij NCDO in staat wordt gesteld om tijdig resultaten van overheidsbeleid (en van Nederlands overheidsbeleid t.a.v. Europees beleid) te communiceren . Naast NCDO werken ook maatschappelijke organisaties en andere actoren (gemeenten, provincies, bedrijven, kennisinstituten etc.) in toenemende mate aan draagvlakontwikkeling. De activiteiten van NCDO zijn eigenstandig ten opzichte van die van het maatschappelijk middenveld en andere relevante actoren. NCDO kan opdrachten van derden accepteren. In de NCDO bedrijfsvoering worden zij onderscheiden van de middelen uit de programmafinanciering.  
+In de taakafbakening tussen het ministerie van Buitenlandse Zaken en NCDO richt het ministerie zich primair op de directe en actuele beleidscommunicatie. NCDO maakt via publiekscommunicatie en draagvlakactiviteiten (resultaten van) het beleid van internationale samenwerking en duurzame ontwikkeling inzichtelijk en licht dit toe. Daarnaast creëert NCDO ruimte voor meningsvorming en debat. Het ministerie zorgt voor een procedure en werkwijze waarbij NCDO in staat wordt gesteld om tijdig resultaten van overheidsbeleid (en van Nederlands overheidsbeleid t.a.v. Europees beleid) te communiceren . Naast NCDO werken ook maatschappelijke organisaties en andere actoren (gemeenten, provincies, bedrijven, kennisinstituten etc.) in toenemende mate aan draagvlakontwikkeling. De activiteiten van NCDO zijn eigenstandig ten opzichte van die van het maatschappelijk middenveld en andere relevante actoren. NCDO kan opdrachten van derden accepteren. In de NCDO bedrijfsvoering worden zij onderscheiden van de middelen uit de programmafinanciering. 
 
 #### *IV. Bestuurlijk model* 
 
@@ -96,11 +96,11 @@ In de taakafbakening tussen het ministerie van Buitenlandse Zaken en NCDO richt 
 
 – Op onderdelen van de in de subsidie opgenomen programma’s en activiteiten worden randvoorwaarden uitgewerkt in een uitvoeringsovereenkomst.  
 
-– Eerste aanspreekpunt voor NCDO binnen het ministerie van Buitenlandse Zaken is de Directie Voorlichting en Communicatie (DVL).    
+– Eerste aanspreekpunt voor NCDO binnen het ministerie van Buitenlandse Zaken is de Directie Voorlichting en Communicatie (DVL).   
 
 #### *V. Beschikbaar bedrag* 
 
-De [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) bevat in de [artikelen 9.1](../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) en [9.2](../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) de grondslag voor subsidiëring van activiteiten met het oog op meningsvorming, voorlichting en bevordering van het draagvlak voor ontwikkelingssamenwerking NCDO ontvangt op die titel nagenoeg al haar financiële middelen in het raamwerk van een meerjaren-programmafinanciering van het ministerie van Buitenlandse Zaken voor de periode 2007–2010. De ruimte voor dit subsidiekader NCDO is maximaal € 148 miljoen, verdeeld over gelijke jaartranches van maximaal € 37 miljoen. Wanneer de minister daartoe aanleiding ziet, kan dit bedrag worden verhoogd, ten behoeve van de uitvoering van specifieke activiteiten.  
+De [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) bevat in de [artikelen 9.1](../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) en [9.2](../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) de grondslag voor subsidiëring van activiteiten met het oog op meningsvorming, voorlichting en bevordering van het draagvlak voor ontwikkelingssamenwerking NCDO ontvangt op die titel nagenoeg al haar financiële middelen in het raamwerk van een meerjaren-programmafinanciering van het ministerie van Buitenlandse Zaken voor de periode 2007–2010. De ruimte voor dit subsidiekader NCDO is maximaal € 148 miljoen, verdeeld over gelijke jaartranches van maximaal € 37 miljoen. Wanneer de minister daartoe aanleiding ziet, kan dit bedrag worden verhoogd, ten behoeve van de uitvoering van specifieke activiteiten. 
 
 #### *VI. Toetsing* 
 
@@ -138,7 +138,7 @@ NCDO dient een subsidieaanvraag in bij het ministerie van Buitenlandse Zaken. He
 
 – Mate waarin programma’s en activiteiten zijn toegesneden op specifieke, relevante doelgroepen.  
 
-– Verankering van kwaliteitsbeheer, planning, monitoring, evaluatie en lerend vermogen.    
+– Verankering van kwaliteitsbeheer, planning, monitoring, evaluatie en lerend vermogen.   
 
 #### *VII. Kwaliteitsbewaking en -ontwikkeling* 
 
@@ -166,5 +166,5 @@ Voor de gehele subsidieperiode (2007–2010) stelt NCDO een subsidieaanvraag, in
 
 – Het financiële absorptievermogen van de organisatie (liquiditeit) en de relatie tussen het eigen vermogen en de solvabiliteit.  
 
-– Aanwezigheid van een verklaring omtrent de getrouwheid en rechtmatigheid afgegeven door een accountant conform een door het ministerie opgesteld controleprotocol.   Bovenstaande criteria zullen nader uitgewerkt worden in het financiële reglement als bijlage bij de beschikking. In dit reglement worden de afspraken met betrekking tot de financiële en beheersmatige verhouding tussen het ministerie van Buitenlandse Zaken en de NCDO vastgelegd. Eind 2009 vindt een externe evaluatie plaats van het totale subsidieprogramma van NCDO. Voortgangsgesprekken vinden plaats op grond van de jaarplan-begroting/jaarverslag-jaarekening-cyclus. NCDO is verantwoordelijk voor een adequaat systeem van monitoring en evaluatie. NCDO wordt geacht op basis van bevindingen tijdig bijsturing te verrichten en hiervoor zonodig toestemming te vragen van de minister. De minister houdt, met name aan de hand van financiële en inhoudelijke rapportages, toezicht op de besteding van de middelen en de voortgang en is verantwoordelijk voor de uiteindelijke vaststelling van de verleende subsidie.  
+– Aanwezigheid van een verklaring omtrent de getrouwheid en rechtmatigheid afgegeven door een accountant conform een door het ministerie opgesteld controleprotocol.   Bovenstaande criteria zullen nader uitgewerkt worden in het financiële reglement als bijlage bij de beschikking. In dit reglement worden de afspraken met betrekking tot de financiële en beheersmatige verhouding tussen het ministerie van Buitenlandse Zaken en de NCDO vastgelegd. Eind 2009 vindt een externe evaluatie plaats van het totale subsidieprogramma van NCDO. Voortgangsgesprekken vinden plaats op grond van de jaarplan-begroting/jaarverslag-jaarekening-cyclus. NCDO is verantwoordelijk voor een adequaat systeem van monitoring en evaluatie. NCDO wordt geacht op basis van bevindingen tijdig bijsturing te verrichten en hiervoor zonodig toestemming te vragen van de minister. De minister houdt, met name aan de hand van financiële en inhoudelijke rapportages, toezicht op de besteding van de middelen en de voortgang en is verantwoordelijk voor de uiteindelijke vaststelling van de verleende subsidie. 
 

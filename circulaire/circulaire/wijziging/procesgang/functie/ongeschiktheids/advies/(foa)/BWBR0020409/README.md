@@ -34,9 +34,9 @@ In 2003 hebben de overheids- en onderwijswerkgevers, het Ministerie van Sociale 
 
 – Ten aanzien van werknemers die minder dan 35% arbeidsongeschikt zijn blijkens de WIA-beschikking, voor zover werkgever en werknemer het niet eens zijn over ontslag, kan de werkgever (ingeval ontslag op grond van ongeschiktheid tot werken wegens ziekte of gebrek aan de orde is) voor de toets aan [artikel 98, lid 3, ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) (terzake van de geschiktheid van werknemer voor het eigen werk en de beschikbaarheid van passende arbeid bij de werkgever) het deskundigenoordeel O&O bij UWV aanvragen.  
 
-– Als de werkgever op basis van de WIA-beschikking het ontslagbesluit mag nemen maar dat niet doet binnen de termijn van 1 jaar, terwijl werkgever en werknemer het niet eens zijn over het ontslag, kan de werkgever na ommekomst van dat jaar het deskundigenoordeel O&O aanvragen bij het UWV, waarna het UWV in die situatie bedoeld deskundigenoordeel O&O over de mogelijkheid tot ontslag geeft.       
+– Als de werkgever op basis van de WIA-beschikking het ontslagbesluit mag nemen maar dat niet doet binnen de termijn van 1 jaar, terwijl werkgever en werknemer het niet eens zijn over het ontslag, kan de werkgever na ommekomst van dat jaar het deskundigenoordeel O&O aanvragen bij het UWV, waarna het UWV in die situatie bedoeld deskundigenoordeel O&O over de mogelijkheid tot ontslag geeft.      
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
 Directeur-Generaal Management Openbare Sector, 
-R.IJ.M.Kuipers   
+R.IJ.M. Kuipers     

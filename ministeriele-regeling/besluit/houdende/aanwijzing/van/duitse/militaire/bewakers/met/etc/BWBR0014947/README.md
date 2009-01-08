@@ -4,7 +4,7 @@
 
 De Minister van Defensie,  
 Gelet op [artikel 1, tweede lid, onderdeel b, van de Rijkswet geweldgebruik bewakers militaire objecten](../../../../../../../../../../../rijkswet/rijkswet/geweldgebruik/bewakers/militaire/objecten/BWBR0014738/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -17,7 +17,7 @@ Dit besluit treedt in werking met ingang van het tijdstip waarop de [Rijkswet ge
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Besluit houdende aanwijzing van Duitse militaire bewakers met geweldbevoegdheid.  
+Dit besluit wordt aangehaald als: Besluit houdende aanwijzing van Duitse militaire bewakers met geweldbevoegdheid. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -25,4 +25,4 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Defensie, 
-H.G.J.Kamp    
+H.G.J.  Kamp      

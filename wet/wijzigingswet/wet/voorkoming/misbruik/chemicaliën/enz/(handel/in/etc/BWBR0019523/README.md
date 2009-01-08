@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet voorkoming misbruik chemicaliën.   
+Wijzigt de Wet voorkoming misbruik chemicaliën. 
 
 ### Artikel  II  
 
-Vergunningen en registraties die vóór de inwerkingtreding van deze wet zijn verleend op basis van Verordening nr. 3677/90, worden aangemerkt als vergunningen en registraties op basis van Verordening nr. 111/2005, met uitzondering van de vergunningen en registraties die zijn verleend op grond van artikel 5, derde lid, en artikel 5bis, derde lid, van Verordening nr. 3677/90.  
+Vergunningen en registraties die vóór de inwerkingtreding van deze wet zijn verleend op basis van Verordening nr. 3677/90, worden aangemerkt als vergunningen en registraties op basis van Verordening nr. 111/2005, met uitzondering van de vergunningen en registraties die zijn verleend op grond van artikel 5, derde lid, en artikel 5bis, derde lid, van Verordening nr. 3677/90. 
 
 ### Artikel  III  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten. 
 
 ### Artikel  IV  
 
-Deze wet treedt in werking met ingang van de dag na datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -31,10 +31,10 @@ Gegeven te ’s-Gravenhage
 2 februari 2006  
 Beatrix  
 
-De Minister van Volksgezondheid, Welzijn en Sport, 
-J. F.Hoogervorst 
+De Minister van Volksgezondheid, Welzijn en Sport , 
+J. F. Hoogervorst   
 
 de *eenentwintigste* februari 2006 
 
-De Minister van Justitie, 
-J. P. H.Donner  
+De Minister van Justitie , 
+J. P. H. Donner    

@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit beperking openbaarheid archieven bedrijfsverenigingen 2005
+##Besluit beperking openbaarheid archieven bedrijfsverenigingen 2005 
 
 Het Uitvoeringsinstituut werknemersverzekeringen,  
 Gelet op [artikel 15, eerste lid onder a, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) en [artikel 10 van het Archiefbesluit 1995](../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md);
@@ -12,7 +12,7 @@ Het UWV is zorgdrager van de archieven van:
 
 a. Bedrijfsvereniging voor de het Bank- en Verzekeringswezen, Groothandel en Vrije Beroepen (BV25) over de periode 1949–1997;  
 
-b. Grafische Bedrijfsvereniging (BV8) over de periode 1934–1997.    
+b. Grafische Bedrijfsvereniging (BV8) over de periode 1934–1997.   
 
 ### Artikel  2  
 
@@ -21,7 +21,7 @@ b. Grafische Bedrijfsvereniging (BV8) over de periode 1934–1997.
 
 a. 266–306 en 381–387 133 van Bedrijfsvereniging voor de het Bank- en Verzekeringswezen, Groothandel en Vrije Beroepen;  
 
-b. 60 van de Grafische Bedrijfsvereniging.     
+b. 60 van de Grafische Bedrijfsvereniging.    
 
 ### Artikel  3  
 
@@ -30,19 +30,19 @@ b. 60 van de Grafische Bedrijfsvereniging.
 a. De verzoeker doet een gemotiveerd schriftelijk verzoek tot inzage van de archiefbescheiden, waarin wordt aangegeven: de omschrijving van het onderzoeksdoel, de onderzoeksopzet en de wijze waarop de vertrouwelijkheid van de persoonsgegevens zal worden gewaarborgd;  
 
 b. De verzoeker vult hiertoe het ‘Formulier voor toestemming tot raadpleging van niet openbare archieven’ in en ondertekent het formulier. De verzoeker verklaart daarmee tevens zich te zullen houden aan de in het formulier opgenomen bepalingen. In de bijlage bij dit besluit is een exemplaar van het formulier opgenomen.     
-2.  Voordat hij toestemming verleent, beoordeelt de directeur van het Nationaal Archief het verzoek.   
+2.  Voordat hij toestemming verleent, beoordeelt de directeur van het Nationaal Archief het verzoek.  
 
 ### Artikel  4  
 
-Het is niet toegestaan reproducties te vervaardigen van documenten uit de dossiers, waarop deze beperkende bepalingen van toepassing zijn, zonder toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan voorwaarden verbinden aan het verlenen van zijn toestemming.  
+Het is niet toegestaan reproducties te vervaardigen van documenten uit de dossiers, waarop deze beperkende bepalingen van toepassing zijn, zonder toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan voorwaarden verbinden aan het verlenen van zijn toestemming. 
 
 ### Artikel  5  
 
-Publicatie van gegevens uit de ter inzage gegeven archiefbescheiden waarop de beperkende bepalingen van toepassing zijn, is slechts mogelijk na voorafgaande schriftelijk verkregen toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan publicatie zijn goedkeuring onthouden.  
+Publicatie van gegevens uit de ter inzage gegeven archiefbescheiden waarop de beperkende bepalingen van toepassing zijn, is slechts mogelijk na voorafgaande schriftelijk verkregen toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan publicatie zijn goedkeuring onthouden. 
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin dit besluit wordt geplaatst  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin dit besluit wordt geplaatst 
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.   
 
 Amsterdam 
@@ -52,13 +52,13 @@ De Raad van bestuur UWV,
 
 de 
 voorzitter, 
-J.M.Linthorst  
+J.M. Linthorst    
 
-### Bijlage  
+### Bijlage 
 
 ####Formulier voor toestemming tot raadpleging van niet-openbare archieven
 
-Naam en voorletters: Bezoekersnummer: Adres: Postcode en woonplaats:  Bezig met een onderzoek naar:  Vraagt hierbij toestemming tot het raadplegen van het archief: Nummer Toegang:  De gegevens uit dit archief zullen eventueel worden vastgelegd in een scriptie/dissertatie/artikel in een (wetenschappelijk) periodiek/boek. Het onderzoek vindt plaats aan *(instelling)*: Onder leiding van:  Ondergetekende verklaart hierbij dat *hij/zij* 
+Naam en voorletters: Bezoekersnummer: Adres: Postcode en woonplaats:  Bezig met een onderzoek naar:  Vraagt hierbij toestemming tot het raadplegen van het archief: Nummer Toegang:  De gegevens uit dit archief zullen eventueel worden vastgelegd in een scriptie/dissertatie/artikel in een (wetenschappelijk) periodiek/boek. Het onderzoek vindt plaats aan *(instelling)*: Onder leiding van:  Ondergetekende verklaart hierbij dat *hij/zij*  
 
 1. de uit bovengenoemde bescheiden verkregen gegevens slechts voor bovengenoemd doel zal aanwenden en niets zal publiceren of op andere wijze openbaar maken waardoor het recht van een ieder op eerbiediging van de persoonlijke levenssfeer geschonden wordt of bij de aangelegenheid betrokken natuurlijke of rechtspersonen, dan wel derden, onevenredig bevoordeeld of benadeeld kunnen worden;  
 

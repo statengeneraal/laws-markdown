@@ -4,17 +4,17 @@
 
 De Minister van Justitie,  
 Gelet op [artikel 51, tweede lid, van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a. eed of belofte: eed of belofte als bedoeld in [artikel 51 van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+a.  eed of belofte: eed of belofte als bedoeld in [artikel 51 van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
-b. formulier: formulier voor het afleggen van de eed of belofte dat als bijlage bij deze regeling is gevoegd en waarvan de tekst is vastgesteld bij be-sluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, Staats-courant 18 mei 1998, nr. 92;  
+b.  formulier: formulier voor het afleggen van de eed of belofte dat als bijlage bij deze regeling is gevoegd en waarvan de tekst is vastgesteld bij be-sluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, Staats-courant 18 mei 1998, nr. 92;  
 
-c. hoofd van dienst: autoriteit als bedoeld in [artikel 4, eerste lid, van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) aan wie het personeelsmandaat is verleend.    
+c.  hoofd van dienst: autoriteit als bedoeld in [artikel 4, eerste lid, van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) aan wie het personeelsmandaat is verleend.    
 
 ### Artikel  2  
 
@@ -53,7 +53,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 
 ### Artikel  9  
 
-Deze regeling wordt aangehaald: Regeling afleggen eed en belofte ambtenaar.  
+Deze regeling wordt aangehaald: Regeling afleggen eed en belofte ambtenaar. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -61,4 +61,4 @@ Den Haag
 
 De 
 Minister van Justitie, 
-A.H.Korthals    
+A.H. Korthals      

@@ -20,7 +20,7 @@ d. dienstverrichter: dienstverrichter als bedoeld in [artikel 21 van de wet](../
 
 e. diploma: een diploma of certificaat als bedoeld in [artikel 9, onderdeel a tot en met d, van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
 
-f. lidstaat van oorsprong of herkomst: lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese economische ruimte of Zwitserland.    
+f. lidstaat van oorsprong of herkomst: lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese economische ruimte of Zwitserland.   
 
 ### Artikel  2  
 
@@ -28,7 +28,7 @@ Deze regeling is van toepassing op:
 
 a. de aanvraag van een migrerende beroepsbeoefenaar tot het verlenen van erkenning van een beroepskwalificatie voor de toegang tot de uitoefening van een gereglementeerde functie bij de brandweer;  
 
-b. de verklaring vooraf, bedoeld in [artikel 23 van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), van een dienstverrichter die een gereglementeerd beroep als bedoeld in onderdeel a, wil uitoefenen.    
+b. de verklaring vooraf, bedoeld in [artikel 23 van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), van een dienstverrichter die een gereglementeerd beroep als bedoeld in onderdeel a, wil uitoefenen.   
 
 ### Artikel  3  
 
@@ -46,7 +46,7 @@ c. gegevens over de door de aanvrager gevolgde brandweeropleiding, waar onder in
 
 d. indien de opleiding is genoten buiten de gebieden waarop het Verdrag betreffende de Europese Unie of de Overeenkomst betreffende de Europese economische ruimte van toepassing is, een bewijsstuk, gewaarmerkt door de daartoe bevoegde autoriteit van de lidstaat van oorsprong of herkomst, waar uit blijkt dat de aanvrager tenminste drie jaren relevante beroepservaring heeft opgedaan, en  
 
-e. indien de aanvraag en de onder b tot en met d bedoelde stukken in een andere dan de Nederlandse, Duitse of Engelse taal zijn gesteld, een door een beëdigde tolk of vertaler opgestelde vertaling daarvan in één van deze talen.    
+e. indien de aanvraag en de onder b tot en met d bedoelde stukken in een andere dan de Nederlandse, Duitse of Engelse taal zijn gesteld, een door een beëdigde tolk of vertaler opgestelde vertaling daarvan in één van deze talen.   
 
 ### Artikel  4  
 
@@ -62,7 +62,7 @@ a. de gemeentelijke brandweer, of
 b. de regionale brandweer.     
 3.  Het bevoegd gezag van de brandweer waarbij de aanvrager de aanpassingsstage volgt, wijst een begeleider aan.   
 4.  De begeleider brengt een rapport en een advies uit aan de Minister, deze stelt op basis hiervan het resultaat van de aanpassingsstage vast.   
-5.  De Minister deelt het resultaat van de aanpassingsstage zo spoedig mogelijk mee aan de aanvrager.   
+5.  De Minister deelt het resultaat van de aanpassingsstage zo spoedig mogelijk mee aan de aanvrager.  
 
 ### Artikel  5  
 
@@ -73,7 +73,7 @@ a. de vakgebieden waarop de proeve van bekwaamheid betrekking heeft;
 b. de te bestuderen literatuur, en  
 
 c. de hoogte van het examengeld.     
-2.  De Minister deelt het resultaat van de proeve van bekwaamheid zo spoedig mogelijk mee aan de aanvrager.   
+2.  De Minister deelt het resultaat van de proeve van bekwaamheid zo spoedig mogelijk mee aan de aanvrager.  
 
 ### Artikel  6  
 
@@ -91,17 +91,17 @@ c. een attest dat de dienstverrichter gerechtigd is om in een andere betrokken s
 
 d. bewijs van beroepskwalificaties, en  
 
-e. voor gevallen als bedoeld in [artikel 22, onder b, van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), een bewijs van de daar omschreven beroepservaring.    
+e. voor gevallen als bedoeld in [artikel 22, onder b, van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), een bewijs van de daar omschreven beroepservaring.   
 
 ### Artikel  7  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  8  
 
-Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties brandweerpersoneel.  
+Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties brandweerpersoneel. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-G. terHorst   
+Minister van Binnenlandse Zaken en Koninkrijksrelaties,
+G. ter  Horst     

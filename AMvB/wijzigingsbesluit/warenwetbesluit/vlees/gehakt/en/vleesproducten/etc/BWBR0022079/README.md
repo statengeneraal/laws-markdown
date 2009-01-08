@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Warenwetbesluit Vlees, gehakt en vleesproducten.   
+Wijzigt het Warenwetbesluit Vlees, gehakt en vleesproducten. 
 
 ### Artikel  II  
 
-Als gehakt of mager gehakt aangeduide eetwaren die voldoen aan het [Warenwetbesluit Vlees, gehakt en vleesproducten](../../../../../../../../../AMvB/warenwetbesluit/vlees/gehakt/en/vleesproducten/BWBR0009675/README.md) zoals dat tot de inwerkingtreding van dit besluit luidde, mogen nog verhandeld worden tot drie maanden na de inwerkingtreding van dit besluit.  
+Als gehakt of mager gehakt aangeduide eetwaren die voldoen aan het [Warenwetbesluit Vlees, gehakt en vleesproducten](../../../../../../../../../AMvB/warenwetbesluit/vlees/gehakt/en/vleesproducten/BWBR0009675/README.md) zoals dat tot de inwerkingtreding van dit besluit luidde, mogen nog verhandeld worden tot drie maanden na de inwerkingtreding van dit besluit. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -31,10 +31,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 24 mei 2007  
 Beatrix  
 
-De Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink 
+De Minister van Volksgezondheid, Welzijn en Sport , 
+A. Klink   
 
 de *veertiende* juni 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

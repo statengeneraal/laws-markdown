@@ -13,15 +13,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Onder aangelegenheden, verband houdende met het economisch verkeer tussen verschillende stadia van voortbrenging en afzet, als bedoeld in artikel 6, eerste lid, onder *a*, van de [Instellingswet Productschap voor Siergewassen](../../../../../../../../../../wet/instellingswet/productschap/voor/siergewassen/BWBR0002149/README.md) (*Stb.* 1954, 447), zijn begrepen: 
+Onder aangelegenheden, verband houdende met het economisch verkeer tussen verschillende stadia van voortbrenging en afzet, als bedoeld in artikel 6, eerste lid, onder *a*, van de [Instellingswet Productschap voor Siergewassen](../../../../../../../../../../wet/instellingswet/productschap/voor/siergewassen/BWBR0002149/README.md) (*Stb.* 1954, 447), zijn begrepen:  
 
 a. de prijzen van bollen, knollen en wortelstokken van bloemgewassen;  
 
-b. de prijzen van bloemkwekerijprodukten en boomkwekerijprodukten, welke voor afzet aan buitenlandse afnemers zijn bestemd.    
+b. de prijzen van bloemkwekerijprodukten en boomkwekerijprodukten, welke voor afzet aan buitenlandse afnemers zijn bestemd.   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 januari 1959.  
+Dit besluit treedt in werking met ingang van 1 januari 1959. 
 
 Onze Ministers van Binnenlandse Zaken, Bezitsvorming en Publiekrechtelijke Bedrijfsorganisatie, van Landbouw, Visserij en Voedselvoorziening en van Economische Zaken zijn belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst.   
 

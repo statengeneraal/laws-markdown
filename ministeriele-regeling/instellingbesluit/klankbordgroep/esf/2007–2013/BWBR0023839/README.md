@@ -16,20 +16,20 @@ a. Klankbordgroep: Klankbordgroep ESF 2007–2013;
 
 b. Minister: Minister van Sociale Zaken en Werkgelegenheid;  
 
-c. Ministerie: Ministerie van Sociale Zaken en Werkgelegenheid.    
+c. Ministerie: Ministerie van Sociale Zaken en Werkgelegenheid.   
 
 ### Artikel  2  
 
 ####Instelling
 
 1.  Er is een Klankbordgroep ESF 2007–2013.   
-2.  De Klankbordgroep wordt ingesteld voor een periode die aanvangt op het tijdstip van inwerkingtreding van dit besluit en eindigt op 31 december 2013.   
+2.  De Klankbordgroep wordt ingesteld voor een periode die aanvangt op het tijdstip van inwerkingtreding van dit besluit en eindigt op 31 december 2013.  
 
 ### Artikel  3  
 
 ####Taken
 
-De Klankbordgroep heeft tot taak het door middel van overleg met de Minister in het kader van gendermainstreaming, gelijke kansen en non-discriminatie als bedoeld in paragraaf 2.6 van het Operationeel Programma ideeën te genereren over de uitvoering en de evaluatie van het Operationeel Programma ESF 2007–2013.  
+De Klankbordgroep heeft tot taak het door middel van overleg met de Minister in het kader van gendermainstreaming, gelijke kansen en non-discriminatie als bedoeld in paragraaf 2.6 van het Operationeel Programma ideeën te genereren over de uitvoering en de evaluatie van het Operationeel Programma ESF 2007–2013. 
 
 ### Artikel  4  
 
@@ -53,7 +53,7 @@ De Klankbordgroep heeft tot taak het door middel van overleg met de Minister in 
 
 – het kenniscentrum voor emancipatie, gezin en diversiteit E-Quality;  
 
-– de Chronisch zieken en Gehandicapten Raad Nederland.     
+– de Chronisch zieken en Gehandicapten Raad Nederland.    
 
 ### Artikel  5  
 
@@ -62,38 +62,38 @@ De Klankbordgroep heeft tot taak het door middel van overleg met de Minister in 
 1.  Het Secretariaat van de Klankbordgroep wordt gevoerd door het ministerie.   
 2.  De Minister wijst een ambtenaar van het ministerie als secretaris aan.   
 3.  Het beheer van de bescheiden betreffende de werkzaamheden van de Klankbordgroep geschiedt op overeenkomstige wijze als bij het ministerie.   
-4.  De bescheiden worden na afloop van de periode, bedoeld in artikel 2, tweede lid, opgenomen in het archief van het ministerie.   
+4.  De bescheiden worden na afloop van de periode, bedoeld in artikel 2, tweede lid, opgenomen in het archief van het ministerie.  
 
 ### Artikel  6  
 
 ####Vergaderingen
 
-De Klankbordgroep komt ten minste twee maal per jaar bijeen.  
+De Klankbordgroep komt ten minste twee maal per jaar bijeen. 
 
 ### Artikel  7  
 
 ####Reglement
 
-De Klankbordgroep kan, met inachtneming van dit besluit, haar werkwijze nader regelen.  
+De Klankbordgroep kan, met inachtneming van dit besluit, haar werkwijze nader regelen. 
 
 ### Artikel  8  
 
 ####Vergoeding
 
 1.  Aan de leden van de Klankbordgroep kan een vacatiegeld van € 135 per vergadering worden toegekend volgend de regels van het [Vacatiegeldenbesluit 1988](../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md).   
-2.  Aan de leden van de Klankbordgroep kan op grond van het [Reisbesluit binnenland](../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) een vergoeding van reis- en verblijfkosten worden toegekend.   
+2.  Aan de leden van de Klankbordgroep kan op grond van het [Reisbesluit binnenland](../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) een vergoeding van reis- en verblijfkosten worden toegekend.  
 
 ### Artikel  9  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  10  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Instellingbesluit Klankbordgroep ESF 2007–2013.  
+Dit besluit wordt aangehaald als: Instellingbesluit Klankbordgroep ESF 2007–2013. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -101,4 +101,4 @@ Den Haag
 
 De 
 Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
-A.Aboutaleb   
+A. Aboutaleb     

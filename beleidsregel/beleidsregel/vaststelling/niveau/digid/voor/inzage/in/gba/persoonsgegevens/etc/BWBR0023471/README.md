@@ -8,17 +8,17 @@ Besluit:
 
 ### Artikel  1  
 
-Voor inzage van de eigen gegevens uit de gemeentelijke basisadministratie van persoonsgegevens door middel van de Persoonlijke internetpagina MijnOverheid.nl is het niveau van de overheidstoegangsvoorziening DigiD, DigiD zekerheidsniveau Basis.  
+Voor inzage van de eigen gegevens uit de gemeentelijke basisadministratie van persoonsgegevens door middel van de Persoonlijke internetpagina MijnOverheid.nl is het niveau van de overheidstoegangsvoorziening DigiD, DigiD zekerheidsniveau Basis. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 15 februari 2008.  
+Dit besluit treedt in werking met ingang van 15 februari 2008. 
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Beleidsregel vaststelling niveau DigiD voor inzage in GBA persoonsgegevens via MijnOverheid.nl.  
+Dit besluit wordt aangehaald als: Beleidsregel vaststelling niveau DigiD voor inzage in GBA persoonsgegevens via MijnOverheid.nl. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, 
-A.Th.B.Bijleveld-Schouten   
+A.Th.B. Bijleveld-Schouten     

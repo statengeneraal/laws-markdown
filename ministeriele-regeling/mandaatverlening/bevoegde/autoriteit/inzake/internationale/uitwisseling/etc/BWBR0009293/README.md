@@ -8,4 +8,4 @@ Besluit:     De Directeur-Generaal der Belastingen en de Directeur Algemene Fisc
 
 De 
 Staatssecretaris van Financiën, 
-W.A.F.G.Vermeend    
+W.A.F.G. Vermeend      

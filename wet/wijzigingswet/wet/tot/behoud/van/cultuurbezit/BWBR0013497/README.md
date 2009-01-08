@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet tot behoud van cultuurbezit.   
+Wijzigt de Wet tot behoud van cultuurbezit.  
 
 ### Artikel  II  
 
-Wijzigt de Reparatiewet I.   
+Wijzigt de Reparatiewet I.  
 
 ### Artikel  III  
 
@@ -23,11 +23,11 @@ De artikelen [7 tot en met 14 van de Wet tot behoud van cultuurbezit](../../../.
 
 a. aan de inspecteur gemelde ontwerpovereenkomsten, en  
 
-b. door Onze Minister tegen voorgenomen handelingen aangevoerde bedenkingen.    
+b. door Onze Minister tegen voorgenomen handelingen aangevoerde bedenkingen.   
 
 ### Artikel  IV  
 
-Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van de uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van de uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

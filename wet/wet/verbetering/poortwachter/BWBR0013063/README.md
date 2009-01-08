@@ -13,85 +13,87 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### [Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md) 
 
-Wijzigt de Ziektewet.   
+Wijzigt de Ziektewet.  
 
 ### Artikel  II  
 
 #### [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) 
 
-Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.   
+Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.  
 
 ### Artikel  III  
 
 #### [Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) 
 
-Wijzigt Boek 7 van het Burgerlijk Wetboek.   
+Wijzigt Boek 7 van het Burgerlijk Wetboek.  
 
 ### Artikel  IV  
 
 #### Organisatiewet sociale verzekeringen 1997 
 
-Wijzigt de Organisatiewet sociale verzekeringen 1997.   
+Treedt in werking op een nader te bepalen tijdstip 
+
+Wijzigt de Organisatiewet sociale verzekeringen 1997.  
 
 ### Artikel  V  
 
 #### [Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md) 
 
-Wijzigt de Werkloosheidswet.   
+Wijzigt de Werkloosheidswet.  
 
 ### Artikel  VI  
 
 #### [Wet op de (re)integratie arbeidsgehandicapten](../../../../../wet/wet/op/de/(re)integratie/arbeidsgehandicapten/BWBR0009565/README.md) 
 
-Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.   
+Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.  
 
 ### Artikel  VII  
 
 #### [Arbeidsomstandighedenwet 1998](../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) 
 
-Wijzigt de Arbeidsomstandighedenwet 1998.   
+Wijzigt de Arbeidsomstandighedenwet 1998.  
 
 ### Artikel  VIII  
 
 #### [Wet inschakeling werkzoekenden](../../../../../wet/wet/inschakeling/werkzoekenden/BWBR0009083/README.md) 
 
-Wijzigt deWet inschakeling werkzoekenden.   
+Wijzigt deWet inschakeling werkzoekenden.  
 
 ### Artikel  IX  
 
 #### [Wet terugdringing ziekteverzuim](../../../../../wet/wet/terugdringing/ziekteverzuim/BWBR0006355/README.md) 
 
-Wijzigt de Wet terugdringing ziekteverzuim.   
+Wijzigt de Wet terugdringing ziekteverzuim.  
 
 ### Artikel  X  
 
 #### [Wet overheidspersoneel onder de werknemersverzekeringen](../../../../../wet/wet/overheidspersoneel/onder/de/werknemersverzekeringen/BWBR0009267/README.md) 
 
-Wijzigt de Wet overheidspersoneel onder de werknemersverzekeringen.   
+Wijzigt de Wet overheidspersoneel onder de werknemersverzekeringen.  
 
 ### Artikel  XI  
 
 #### [Wet beslistermijnen sociale verzekeringen](../../../../../wet/wet/beslistermijnen/sociale/verzekeringen/BWBR0012091/README.md) 
 
-Wijzigt de Wet beslistermijnen sociale verzekeringen.   
+Wijzigt de Wet beslistermijnen sociale verzekeringen.  
 
 ### Artikel  XII  
 
 #### [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) 
 
-Wijzigt de Wet arbeidsongeschiktheidsverzekerng zelfstandigen.   
+Wijzigt de Wet arbeidsongeschiktheidsverzekerng zelfstandigen.  
 
 ### Artikel  XIII  
 
 #### [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) 
 
-Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.   
+Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.  
 
 ### Artikel  XIV  
 
 ####Evaluatiebepaling
 
-Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen 4 jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen 4 jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  XV  
 
@@ -103,26 +105,26 @@ Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen 4 jaar na de in
 4.  Ten aanzien van de jonggehandicapte die voor de dag van inwerkingtreding van artikel XIII, onderdeel A, zonder redelijke gronden weigert deel te nemen aan een voor hem gewenste opleiding of scholing of onvoldoende meewerkt aan het bereiken van een gunstig resultaat ervan, is [artikel 38, onderdeel g, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) niet van toepassing en is [artikel 8, derde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van artikel XIII, onderdeel A, van toepassing.   
 5.  Indien op grond van het eerste lid toepassing wordt gegeven aan de [artikelen 46](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [71a, derde of vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of [artikel 52j van de Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md), zoals die luidden op de dag voorafgaand aan de inwerkingtreding van artikel II, onderdeel M, zijn de [artikelen 89](../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en [97e, onderdeel h, van de Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md), zoals die luidden op de dag voorafgaand aan de inwerkingtreding van artikel V, onderdeel B, onder 2, van toepassing, met dien verstande dat in [artikel 89, onderdeel f](../../../../../wet/werkloosheidswet/BWBR0004045/README.md), en [artikel 97e, onderdeel h, van de Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md) voor «artikel 71a, tweede en derde lid» wordt gelezen: artikel 71a, derde en vierde lid.   
 6.  Indien [artikel 8, eerste lid, van de Wet op de (re)ïntegratie arbeidsgehandicapten](../../../../../wet/wet/op/de/(re)integratie/arbeidsgehandicapten/BWBR0009565/README.md), zoals dat lid luidde op het moment voorafgaand aan de inwerkingtreding van de [Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/invoeringswet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013061/README.md), toepassing vindt en op grond van dat artikel het reïntegratieverslag wordt verstrekt aan het Uitvoeringsinstituut werknemersverzekeringen, is [artikel 34a, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) niet van toepassing.   
-7.  Bij ministeriële regeling kunnen in verband met de goede overgang van taken van het Uitvoeringsinstituut werknemersverzekeringen naar verplichtingen van de werkgever regels van overgangsrecht worden gesteld.   
+7.  Bij ministeriële regeling kunnen in verband met de goede overgang van taken van het Uitvoeringsinstituut werknemersverzekeringen naar verplichtingen van de werkgever regels van overgangsrecht worden gesteld.  
 
 ### Artikel  XVI  
 
-####Bepaling in verband met de [Invoeringswet arbeid en zorg](../../../../../wet/invoeringswet/arbeid/en/zorg/BWBR0013009/README.md)
+####Bepaling in verband met de [Invoeringswet arbeid en zorg](../../../../../wet/invoeringswet/arbeid/en/zorg/BWBR0013009/README.md) 
 
-Wijzigt deze wet.   
+Wijzigt deze wet.  
 
 ### Artikel  XVII  
 
 ####Inwerkingtreding
 
 1.  De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
-2.  Indien het bij koninklijke boodschap van 2 maart 2000 ingediende voorstel van een [Tijdelijke referendumwet](../../../../../wet/tijdelijke/referendumwet/BWBR0012701/README.md) (Kamerstukken II 1999/2000, 27 034) tot wet wordt verheven en in werking treedt, en deze wet wordt bekrachtigd op of na het tijdstip van inwerkingtreding van de [Tijdelijke referendumwet](../../../../../wet/tijdelijke/referendumwet/BWBR0012701/README.md), kan bij de toepassing van het eerste lid worden afgeweken van de [artikelen 12](../../../../../wet/tijdelijke/referendumwet/BWBR0012701/README.md) en [13 van de Tijdelijke referendumwet](../../../../../wet/tijdelijke/referendumwet/BWBR0012701/README.md) en vindt in dat geval [artikel 16 van laatstgenoemde wet](../../../../../wet/tijdelijke/referendumwet/BWBR0012701/README.md) toepassing.   
+2.  Indien het bij koninklijke boodschap van 2 maart 2000 ingediende voorstel van een [Tijdelijke referendumwet](../../../../../wet/tijdelijke/referendumwet/BWBR0012701/README.md) (Kamerstukken II 1999/2000, 27 034) tot wet wordt verheven en in werking treedt, en deze wet wordt bekrachtigd op of na het tijdstip van inwerkingtreding van de [Tijdelijke referendumwet](../../../../../wet/tijdelijke/referendumwet/BWBR0012701/README.md), kan bij de toepassing van het eerste lid worden afgeweken van de [artikelen 12](../../../../../wet/tijdelijke/referendumwet/BWBR0012701/README.md) en [13 van de Tijdelijke referendumwet](../../../../../wet/tijdelijke/referendumwet/BWBR0012701/README.md) en vindt in dat geval [artikel 16 van laatstgenoemde wet](../../../../../wet/tijdelijke/referendumwet/BWBR0012701/README.md) toepassing.  
 
 ### Artikel  XVIII  
 
 ####Citeertitel
 
-Deze wet wordt aangehaald als: Wet verbetering poortwachter.  
+Deze wet wordt aangehaald als: Wet verbetering poortwachter. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

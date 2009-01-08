@@ -11,47 +11,47 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet toezicht beleggingsinstellingen.   
+Wijzigt de Wet toezicht beleggingsinstellingen.  
 
 ### Artikel  II  
 
-Wijzigt de Wet toezicht effectenverkeer 1995.   
+Wijzigt de Wet toezicht effectenverkeer 1995.  
 
 ### Artikel  III  
 
-Wijzigt de Wet toezicht kredietwezen 1992.   
+Wijzigt de Wet toezicht kredietwezen 1992.  
 
 ### Artikel  IV  
 
-Wijzigt de Wet toezicht natura-uitvaartverzekeringsbedrijf.   
+Wijzigt de Wet toezicht natura-uitvaartverzekeringsbedrijf.  
 
 ### Artikel  V  
 
-Wijzigt de Wet toezicht verzekeringsbedrijf 1993.   
+Wijzigt de Wet toezicht verzekeringsbedrijf 1993.  
 
 ### Artikel  VI  
 
-Wijzigt de Wet inzake de wisselkantoren.   
+Wijzigt de Wet inzake de wisselkantoren.  
 
 ### Artikel  VII  
 
-Wijzigt de Wet melding zeggenschap in ter beurze genoteerde vennootschappen 1996.   
+Wijzigt de Wet melding zeggenschap in ter beurze genoteerde vennootschappen 1996.  
 
 ### Artikel  VIII  
 
-Wijzigt de Wet financiële betrekkingen buitenland 1994.   
+Wijzigt de Wet financiële betrekkingen buitenland 1994.  
 
 ### Artikel  IX  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten.  
 
 ### Artikel  X  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.  
 
 ### Artikel  XI  
 
-Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.   
+Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.  
 
 ### Artikel  XII  
 
@@ -71,21 +71,21 @@ f. de [Wet inzake de wisselkantoren](../../../../../../../../../wet/wet/inzake/d
 
 g. de [Wet melding zeggenschap in ter beurze genoteerde vennootschappen 1996](../../../../../../../../../wet/wet/melding/zeggenschap/in/ter/beurze/genoteerde/vennootschappen/1996/BWBR0008369/README.md); of  
 
-h. de [Wet financiële betrekkingen buitenland 1994](../../../../../../../../../wet/wet/financiële/betrekkingen/buitenland/1994/BWBR0006547/README.md) is aangevangen voor het tijdstip van inwerkingtreding van deze wet, blijft ten aanzien van de mogelijkheid om beroep in te stellen het recht zoals het gold voor het tijdstip van inwerkingtreding van deze wet van toepassing.    
+h. de [Wet financiële betrekkingen buitenland 1994](../../../../../../../../../wet/wet/financiële/betrekkingen/buitenland/1994/BWBR0006547/README.md) is aangevangen voor het tijdstip van inwerkingtreding van deze wet, blijft ten aanzien van de mogelijkheid om beroep in te stellen het recht zoals het gold voor het tijdstip van inwerkingtreding van deze wet van toepassing.   
 
 ### Artikel  XIII  
 
-De straffen en maatregelen gesteld op strafbare feiten waarvoor ingevolge deze wet slechts een dwangsom of een bestuurlijke boete kan worden opgelegd en die zijn begaan voor de dag waarop deze wet in werking treedt, blijven van toepassing.  
+De straffen en maatregelen gesteld op strafbare feiten waarvoor ingevolge deze wet slechts een dwangsom of een bestuurlijke boete kan worden opgelegd en die zijn begaan voor de dag waarop deze wet in werking treedt, blijven van toepassing. 
 
 ### Artikel  XIV  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 28 oktober 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Financiën, 
 G. Zalm   
@@ -93,4 +93,4 @@ G. Zalm
 de *negende* december 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

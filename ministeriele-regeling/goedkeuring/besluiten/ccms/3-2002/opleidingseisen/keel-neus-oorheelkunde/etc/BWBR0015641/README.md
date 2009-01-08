@@ -8,8 +8,8 @@ Gelet op:
 – [artikel 14, tweede lid, onder f, van de Wet BIG](../../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md),
 
 – artikel 14, tweede lid, van de Regeling inzake de opleiding en registratie van specialisten;
-Besluit:     Het besluit – *CCMS 3-2003* inzake Opleidingseisen keel-neus-oorheelkunde, – *CCMS 10-2002* inzake Opleidingseisen orthopedie goed te keuren.     Dit besluit zal samen met het desbetreffende besluiten van het Centraal College Medische Specialismen worden gepubliceerd in de Staatscourant.   
+Besluit:    Het besluit – *CCMS 3-2003* inzake Opleidingseisen keel-neus-oorheelkunde,  – *CCMS 10-2002* inzake Opleidingseisen orthopedie goed te keuren.    Dit besluit zal samen met het desbetreffende besluiten van het Centraal College Medische Specialismen worden gepubliceerd in de Staatscourant.   
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport, 
-J.F.Hoogervorst    
+Minister van Volksgezondheid, Welzijn en Sport , 
+J.F. Hoogervorst      

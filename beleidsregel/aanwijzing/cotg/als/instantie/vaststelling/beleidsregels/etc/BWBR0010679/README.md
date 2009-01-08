@@ -12,21 +12,21 @@ Besluiten:
 
 ### Artikel  1  
 
-Het Centraal orgaan tarieven gezondheidszorg (Cotg) stelt voor prestaties van personen en instellingen, die in [artikel 2](../../../../../../../../../AMvB/besluit/werkingssfeer/wtg/1992/BWBR0005342/README.md), [aanhef en onder a, van het Besluit werkingssfeer WTG 1992](../../../../../../../../../AMvB/besluit/werkingssfeer/wtg/1992/BWBR0005342/README.md) als orgaan voor gezondheidszorg zijn aangewezen, zodanige beleidsregels vast dat de stimulansopbrengsten dekking geven aan de praktijkkosten en/of het inkomen van apotheekhoudenden. Hierbij wordt uitgegaan van een macro-bedrag ad f 39 miljoen (excl. BTW) op jaarbasis, hetgeen overeenkomt met een bedrag van f 23.000 per rekennorm-apotheek.  
+Het Centraal orgaan tarieven gezondheidszorg (Cotg) stelt voor prestaties van personen en instellingen, die in [artikel 2](../../../../../../../../../AMvB/besluit/werkingssfeer/wtg/1992/BWBR0005342/README.md), [aanhef en onder a, van het Besluit werkingssfeer WTG 1992](../../../../../../../../../AMvB/besluit/werkingssfeer/wtg/1992/BWBR0005342/README.md) als orgaan voor gezondheidszorg zijn aangewezen, zodanige beleidsregels vast dat de stimulansopbrengsten dekking geven aan de praktijkkosten en/of het inkomen van apotheekhoudenden. Hierbij wordt uitgegaan van een macro-bedrag ad f 39 miljoen (excl. BTW) op jaarbasis, hetgeen overeenkomt met een bedrag van f 23.000 per rekennorm-apotheek. 
 
 ### Artikel  2  
 
-In de bedoelde beleidsregels ter uitvoering van onderhavige aanwijzing wordt bepaald dat het Cotg bij het onbreken van een verzoek tot goedkeuring of vaststelling van tarieven, ambtshalve gewijzigde tarieven vaststelt.  
+In de bedoelde beleidsregels ter uitvoering van onderhavige aanwijzing wordt bepaald dat het Cotg bij het onbreken van een verzoek tot goedkeuring of vaststelling van tarieven, ambtshalve gewijzigde tarieven vaststelt. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-E.Borst-Eilers 
+E. Borst-Eilers   
 
 De 
 Minister van Economische Zaken, 
-A.Jorritsma-Lebbink    
+A.Jorritsma-Lebbink     

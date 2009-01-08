@@ -16,10 +16,10 @@ II.  Deze regeling wordt in de Nederlandse Staatscourant geplaatst.
 19 mei 1989    
 
 De 
-minister van Financiën, 
+minister van Financiën,  
 
 namens deze, 
 
 De 
 plv. secretaris-generaal, 
-V. I.Goedvolk    
+V. I. Goedvolk      

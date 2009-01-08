@@ -15,17 +15,17 @@ Hebben goedgevonden en verstaan:
 
 ### ARTIKEL  I  
 
-Wijzigt het Warenwetbesluit Toevoeging micro-voedingsstoffen aan levensmiddelen.   
+Wijzigt het Warenwetbesluit Toevoeging micro-voedingsstoffen aan levensmiddelen.  
 
 ### ARTIKEL  II  
 
-Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van het Staatsblad waarin het geplaatst wordt, met dien verstande dat brood met een gehalte aan kaliumjodide tussen 55 en 65 mg per kg keukenzout nog verhandeld mag worden tot twaalf maanden na de inwerkingtreding van dit besluit.  
+Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van het Staatsblad waarin het geplaatst wordt, met dien verstande dat brood met een gehalte aan kaliumjodide tussen 55 en 65 mg per kg keukenzout nog verhandeld mag worden tot twaalf maanden na de inwerkingtreding van dit besluit. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 23 februari 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Volksgezondheid, Welzijn en Sport, 
 E. Borst-Eilers   
@@ -33,4 +33,4 @@ E. Borst-Eilers
 de *zestiende* maart 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

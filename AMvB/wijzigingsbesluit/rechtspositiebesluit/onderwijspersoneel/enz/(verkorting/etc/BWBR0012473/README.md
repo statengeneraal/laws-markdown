@@ -15,23 +15,23 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Rechtspositiebesluit onderwijspersoneel.   
+Wijzigt het Rechtspositiebesluit onderwijspersoneel.  
 
 ### Artikel  II  
 
-Wijzigt het Kaderbesluit rechtspositie VO.   
+Wijzigt het Kaderbesluit rechtspositie VO.  
 
 ### Artikel  III  
 
-Wijzigt het Kaderbesluit rechtspositie BVE.   
+Wijzigt het Kaderbesluit rechtspositie BVE.  
 
 ### Artikel  IV  
 
-Het [Rechtspositiebesluit onderwijspersoneel](../../../../../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md) en de daarop gebaseerde ministeriële regelingen, het [Kaderbesluit rechtspositie VO](../../../../../../../../AMvB/kaderbesluit/rechtspositie/vo/BWBR0007495/README.md) en het [Kaderbesluit rechtspositie BVE](../../../../../../../../KB/kaderbesluit/rechtspositie/bve/BWBR0008190/README.md) zoals luidend voor 1 januari 2000 blijven van toepassing op beslissingen en geschillen die betrekking hebben op de periode voorafgaand aan die datum.  
+Het [Rechtspositiebesluit onderwijspersoneel](../../../../../../../../KB/rechtspositiebesluit/onderwijspersoneel/BWBR0003771/README.md) en de daarop gebaseerde ministeriële regelingen, het [Kaderbesluit rechtspositie VO](../../../../../../../../AMvB/kaderbesluit/rechtspositie/vo/BWBR0007495/README.md) en het [Kaderbesluit rechtspositie BVE](../../../../../../../../KB/kaderbesluit/rechtspositie/bve/BWBR0008190/README.md) zoals luidend voor 1 januari 2000 blijven van toepassing op beslissingen en geschillen die betrekking hebben op de periode voorafgaand aan die datum. 
 
 ### Artikel  V  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2000.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2000. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -48,4 +48,4 @@ L. J. Brinkhorst
 de *eenendertigste* mei 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

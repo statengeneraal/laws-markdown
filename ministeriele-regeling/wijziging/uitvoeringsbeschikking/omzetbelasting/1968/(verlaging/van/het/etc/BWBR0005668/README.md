@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.   
+Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968. 
 
 ### Artikel  II  
 
-In afwijking in zoverre van [artikel 15, eerste lid, van de Uitvoeringsbeschikking omzetbelasting 1968](../../../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md) bedraagt voor boekjaren die aanvangen vóór 1 oktober 1992 en eindigen na 30 september 1992 de verschuldigde belasting over het bedrag van de aldaar bedoelde kosten 13 percent voor zover deze kosten zijn toe te rekenen aan het vóór 1 oktober 1992 gelegen deel van het boekjaar en 12 percent voor zover zij zijn toe te rekenen aan het daarna gelegen deel van het boekjaar.  
+In afwijking in zoverre van [artikel 15, eerste lid, van de Uitvoeringsbeschikking omzetbelasting 1968](../../../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md) bedraagt voor boekjaren die aanvangen vóór 1 oktober 1992 en eindigen na 30 september 1992 de verschuldigde belasting over het bedrag van de aldaar bedoelde kosten 13 percent voor zover deze kosten zijn toe te rekenen aan het vóór 1 oktober 1992 gelegen deel van het boekjaar en 12 percent voor zover zij zijn toe te rekenen aan het daarna gelegen deel van het boekjaar. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van 1 oktober 1992.  
+Deze regeling treedt in werking met ingang van 1 oktober 1992. 
 
 De 
 Staatssecretaris van Financiën, 
@@ -24,4 +24,4 @@ Staatssecretaris van Financiën,
 Namens deze, 
 
 De Directeur-Generaal voor Fiscale Zaken, 
-D.E.Witteveen    
+D.E. Witteveen      

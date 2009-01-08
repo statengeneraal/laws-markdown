@@ -10,24 +10,24 @@ Besluit:
 
 ### Artikel  1  
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer, alsmede op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden worden aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van de door het Project Wegwerken Archief-achterstanden bewerkte aanvulling op het verbaalarchief van de Administratie der Belastingen en het Directoraat-generaal der Belastingen (1934) 1936–1975, met de inventarisnummers zoals opgenomen in de bijlage, de in het volgende lid genoemde beperkingen gesteld voor een termijn van vijfenzeventig jaren gerekend vanaf het jaar van de datering van de archiefbescheiden.  
+Met het oog op de eerbiediging van de persoonlijke levenssfeer, alsmede op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden worden aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van de door het Project Wegwerken Archief-achterstanden bewerkte aanvulling op het verbaalarchief van de Administratie der Belastingen en het Directoraat-generaal der Belastingen (1934) 1936–1975, met de inventarisnummers zoals opgenomen in de bijlage, de in het volgende lid genoemde beperkingen gesteld voor een termijn van vijfenzeventig jaren gerekend vanaf het jaar van de datering van de archiefbescheiden. 
 
 ### Artikel  2  
 
-Raadpleging van de in het vorige artikel genoemde bescheiden is slechts mogelijk nadat de directeur van het Nationaal Archief daarmee heeft ingestemd. Voor het doen van het verzoek tot instemming wordt gebruik gemaakt van het door het Nationaal Archief voorgeschreven formulier voor toestemming tot raadpleging van niet-openbare archieven.  
+Raadpleging van de in het vorige artikel genoemde bescheiden is slechts mogelijk nadat de directeur van het Nationaal Archief daarmee heeft ingestemd. Voor het doen van het verzoek tot instemming wordt gebruik gemaakt van het door het Nationaal Archief voorgeschreven formulier voor toestemming tot raadpleging van niet-openbare archieven. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd. 
 
 De 
-Minister van Financiën, namens deze: de 
+Minister van Financiën, namens deze:de 
 plv. secretaris-generaal, 
-A.S.M.Koeleman  
+A.S.M. Koeleman    
 
 ### Bijlage  
 
-| Inv.-  nr.  | sluitings-  jaar inv.nr.  | aantal  jaren  beperkt  | beperkt  tot 1  januari  |
+|  Inv.-  nr.   |  sluitings-  jaar inv.nr.   |  aantal   jaren   beperkt   |  beperkt   tot 1   januari   |
 |:---|:---|:---|:---|
 | 424  | 1934  | 75  | 2009  |
 | 425  | 1935  | 75  | 2010  |

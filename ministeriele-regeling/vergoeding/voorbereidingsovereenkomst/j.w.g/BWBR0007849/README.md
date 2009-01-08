@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Vergoeding voorbereidingsovereenkomst j.w.g.
+##Vergoeding voorbereidingsovereenkomst j.w.g. 
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
 Gelet op artikel 16d, tweede lid, van de Jeugdwerkgarantiewet;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -16,12 +16,12 @@ De regeling van de vergoeding deelnemers voorbereidingsovereenkomst JWG van 10 j
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1996.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1996. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 18 januari 1996    
 
 De 
-minister voornoemd, 
-A.P.W.Melkert    
+ministervoornoemd, 
+A.P.W. Melkert      

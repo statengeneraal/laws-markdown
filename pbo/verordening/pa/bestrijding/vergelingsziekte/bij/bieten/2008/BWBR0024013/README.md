@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Verordening van het Productschap Akkerbouw van 27 maart 2008 houdende regels over de bestrijding van vergelingsziekte bij bieten (Verordening PA bestrijding vergelingsziekte bij bieten 2008)
+##Verordening van het Productschap Akkerbouw van 27 maart 2008 houdende regels over de bestrijding van vergelingsziekte bij bieten (Verordening PA bestrijding vergelingsziekte bij bieten 2008) 
 
 Het bestuur van het Productschap Akkerbouw heeft;  
 Gelet op de [artikelen 93](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104, eerste en derde lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md), [17](../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [18 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
@@ -32,11 +32,11 @@ Deze verordening verstaat onder:
 ### Artikel  2  
 
 1.  Het is de ondernemer verboden in de provincies Flevoland, Zeeland en Noord-Brabant voor zaadwinning suikerbieten en voederbieten te telen.   
-2.  Het is de ondernemer verboden in de provincie Groningen voor zaadwinning suikerbieten en voederbieten in kassen te telen.   
+2.  Het is de ondernemer verboden in de provincie Groningen voor zaadwinning suikerbieten en voederbieten in kassen te telen.  
 
 ### Artikel  3  
 
-De ondernemer die in de provincie Noord-Holland of Friesland voor zaadwinning suikerbieten of voederbieten teelt, is verplicht, indien zich op de planten van deze gewassen bladluizen bevinden, deze op zodanige wijze te bestrijden, dat zij geen gevaar kunnen opleveren voor de gezondheid van de suikerbieten en voederbieten in de omgeving.  
+De ondernemer die in de provincie Noord-Holland of Friesland voor zaadwinning suikerbieten of voederbieten teelt, is verplicht, indien zich op de planten van deze gewassen bladluizen bevinden, deze op zodanige wijze te bestrijden, dat zij geen gevaar kunnen opleveren voor de gezondheid van de suikerbieten en voederbieten in de omgeving. 
 
 ### Artikel  4  
 
@@ -55,7 +55,7 @@ d. het gedeelte van de provincie Zuid-Holland, gevormd door de eilanden Rozenbur
 e. De provincies Flevoland, Zeeland, Noord-Brabant en Limburg;  
 
 f. ieder ander door de voorzitter, namens het bestuur, gehoord de commissie, bij besluit aangewezen gebied.     
-4.  In afwijking van het bepaalde in het eerste lid of krachtens het tweede lid kan de voorzitter, namens het bestuur, gehoord de commissie, bij besluit bepalen, dat in één of meer daarbij aan te wijzen gebieden het voorhanden of in voorraad hebben van suikerbieten, voederbieten en afval van suikerbieten en voederbieten is toegestaan tot een daarbij aan te geven datum, liggende na de voor die gebieden op grond van het eerste lid dan wel krachtens het tweede lid geldende datum.   
+4.  In afwijking van het bepaalde in het eerste lid of krachtens het tweede lid kan de voorzitter, namens het bestuur, gehoord de commissie, bij besluit bepalen, dat in één of meer daarbij aan te wijzen gebieden het voorhanden of in voorraad hebben van suikerbieten, voederbieten en afval van suikerbieten en voederbieten is toegestaan tot een daarbij aan te geven datum, liggende na de voor die gebieden op grond van het eerste lid dan wel krachtens het tweede lid geldende datum.  
 
 ### §  3  
 
@@ -64,19 +64,19 @@ f. ieder ander door de voorzitter, namens het bestuur, gehoord de commissie, bij
 ### Artikel  5  
 
 1.  Het bestuur kan bij besluit, gehoord de commissie, vrijstelling verlenen van een of meer bepalingen uit deze verordening en daarbij nadere voorschriften vaststellen.   
-2.  De secretaris is bevoegd namens het bestuur op schriftelijk verzoek van de ondernemer ontheffing te verlenen van het in artikel 2, eerste of tweede lid vervatte verbod en daarbij nadere voorschriften vast te stellen. Een dergelijk verzoek dient uiterlijk vier weken voor de zaai- of pootdatum te worden ingediend bij het productschap.   
+2.  De secretaris is bevoegd namens het bestuur op schriftelijk verzoek van de ondernemer ontheffing te verlenen van het in artikel 2, eerste of tweede lid vervatte verbod en daarbij nadere voorschriften vast te stellen. Een dergelijk verzoek dient uiterlijk vier weken voor de zaai- of pootdatum te worden ingediend bij het productschap.  
 
 ### Artikel  6  
 
-Een besluit als bedoeld in artikel 4, tweede lid, derde lid onder f en vierde lid, en artikel 5, eerste lid, wordt bekendgemaakt in het Verordeningenblad Bedrijfsorganisatie en treedt in werking met ingang van de tweede dag na die van haar bekendmaking, tenzij het betreffende besluit anders bepaalt.  
+Een besluit als bedoeld in artikel 4, tweede lid, derde lid onder f en vierde lid, en artikel 5, eerste lid, wordt bekendgemaakt in het Verordeningenblad Bedrijfsorganisatie en treedt in werking met ingang van de tweede dag na die van haar bekendmaking, tenzij het betreffende besluit anders bepaalt. 
 
 ### Artikel  7  
 
-De bij of krachtens deze verordening, waarbij aan ondernemers verplichtingen worden opgelegd, is mede bindend voor andere natuurlijke en rechtspersonen, voor zover deze handelingen verrichten die bedrijfsmatig in ondernemingen, waarvoor het productschap is ingesteld, plegen te worden verricht.  
+De bij of krachtens deze verordening, waarbij aan ondernemers verplichtingen worden opgelegd, is mede bindend voor andere natuurlijke en rechtspersonen, voor zover deze handelingen verrichten die bedrijfsmatig in ondernemingen, waarvoor het productschap is ingesteld, plegen te worden verricht. 
 
 ### Artikel  8  
 
-Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld.  
+Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld. 
 
 ### §  4  
 
@@ -84,16 +84,16 @@ Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtre
 
 ### Artikel  9  
 
-Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie.  
+Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie. 
 
 ### Artikel  10  
 
-Deze verordening wordt aangehaald als Verordening PA bestrijding vergelingsziekte bij bieten 2008.  
+Deze verordening wordt aangehaald als Verordening PA bestrijding vergelingsziekte bij bieten 2008. 
 
 Den Haag 
 27 maart 2008   
 
-Th.A.M. Meijer  
+Th.A.M.  Meijer  
 voorzitter  
 
 M. Elema  

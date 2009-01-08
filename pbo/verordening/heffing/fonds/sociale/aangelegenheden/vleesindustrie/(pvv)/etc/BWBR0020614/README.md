@@ -24,26 +24,26 @@ In deze verordening wordt verstaan onder:
 
 ### Artikel  2  
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening houdende bepalingen betreffende het opleggen van heffingen bij de producenten van vee en vlees en registratie van vleesgrossiers PVV 2003](../../../../../../../../../..//BWBR0014238/README.md).  
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening houdende bepalingen betreffende het opleggen van heffingen bij de producenten van vee en vlees en registratie van vleesgrossiers PVV 2003. 
 
 ### Artikel  3  
 
 1.  De ondernemer is voor het kalenderjaar 2004, ten behoeve van fonds sociale aangelegenheden vleesindustrie, een heffing verschuldigd op basis van het aantal werknemers dat op 1 april 2004 werkzaam is in de onderneming van € 13,– per f.t.e..   
-2.  Het aantal werknemers dat op 1 april 2004 werkzaam is in de onderneming wordt door het productschap vastgesteld op basis van de verplichte opgave van het aantal werknemers, op het tijdstip, als bedoeld in [artikel 3, tweede lid, van de Verordening huishoudelijke heffing vleesindustrie (PVV) 2004](../../../../../../../../../../pbo/verordening/huishoudelijke/heffing/vleesindustrie/(pvv)/2004/BWBR0016849/README.md).   
+2.  Het aantal werknemers dat op 1 april 2004 werkzaam is in de onderneming wordt door het productschap vastgesteld op basis van de verplichte opgave van het aantal werknemers, op het tijdstip, als bedoeld in [artikel 3, tweede lid, van de Verordening huishoudelijke heffing vleesindustrie (PVV) 2004](../../../../../../../../../../pbo/verordening/huishoudelijke/heffing/vleesindustrie/(pvv)/2004/BWBR0016849/README.md).  
 
 ### Artikel  4  
 
 1.  Aan de ondernemer, die contributie heeft betaald als lid of indirect lid van een op grond van het derde lid aangewezen ondernemersorganisatie, wordt op zijn verzoek een aftrek toegestaan op het totaal aan heffing verschuldigde bedrag op grond van de [Verordening huishoudelijke heffing vleesindustrie (PVV) 2004](../../../../../../../../../../pbo/verordening/huishoudelijke/heffing/vleesindustrie/(pvv)/2004/BWBR0016849/README.md), de [Verordening heffing o & o fonds vleesindustrie (PVV) 2004](../../../../../../../../../../pbo/verordening/heffingen/o/&/o/fonds/vleeswarenindustrie/(pvv)/2004/BWBR0016057/README.md) en de [Verordening heffing fonds sociale aangelegenheden vleesindustrie (PVV) 2004](../../../../../../../../../../pbo/verordening/heffingen/fonds/sociale/aangelegenheden/vleeswarenindustrie/etc/BWBR0020615/README.md).   
 2.  De aftrek beloopt 50% van het bedrag, dat de ondernemer als contributie aan de betreffende ondernemersorganisatie over het betrokken kalenderjaar heeft betaald tot ten hoogste de helft van hetgeen hij in totaal is verschuldigd aan heffing, op grond van de in het eerste lid genoemde heffingsverordeningen, over datzelfde betrokken kalenderjaar.   
-3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het [Besluit beleidsregels Bestuurskamer](../../../../../../../../../../pbo/besluit/beleidsregels/bestuurskamer/BWBR0015680/README.md) van de Sociaal-Economische Raad.   
+3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het [Besluit beleidsregels Bestuurskamer](../../../../../../../../../../pbo/besluit/beleidsregels/bestuurskamer/BWBR0015680/README.md) van de Sociaal-Economische Raad.  
 
 ### Artikel  5  
 
-Deze verordening treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst.  
+Deze verordening treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst. 
 
 ### Artikel  6  
 
-Deze verordening wordt aangehaald als: Verordening heffing fonds sociale aangelegenheden vleesindustrie (PVV) 2004.  
+Deze verordening wordt aangehaald als: Verordening heffing fonds sociale aangelegenheden vleesindustrie (PVV) 2004. 
 
 Zoetermeer 
 9 juni 2004   

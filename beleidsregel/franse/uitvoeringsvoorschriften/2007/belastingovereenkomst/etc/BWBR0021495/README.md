@@ -29,7 +29,7 @@ Vanaf 1 januari 2007 gebruikt Frankrijk universele formulieren voor de verminder
 
 ####Vereenvoudigde procedure dividenden
 
-Sinds 25 februari 2005 bestaat er in Frankrijk een vereenvoudigde procedure om het verdragstarief voor Franse bronbelasting bij dividenden te verkrijgen. Bij de toepassing van deze vereenvoudigde procedure is het voldoende dat slechts formulier 5000 (verklaring van woonplaats) vóór de betaalbaarstelling van de dividenden in het bezit is van de instelling die het dividend betaalbaar stelt. Het formulier 5001 hoeft niet te worden bijgevoegd. <sup> 1  Bulletin Officiel des Impôts 4 J-1-05 Nº 38 du 25 février 2005.  </sup> Bij de uitbetaling van de dividenden kan dan direct met het verdragstarief rekening worden gehouden (de zgn. vrijstellingsprocedure).    
+Sinds 25 februari 2005<sup>1Bulletin Officiel des Impôts 4 J-1-05 Nº 38 du 25 février 2005.</sup> bestaat er in Frankrijk een vereenvoudigde procedure om het verdragstarief voor Franse bronbelasting bij dividenden te verkrijgen. Bij de toepassing van deze vereenvoudigde procedure is het voldoende dat slechts formulier 5000 (verklaring van woonplaats) vóór de betaalbaarstelling van de dividenden in het bezit is van de instelling die het dividend betaalbaar stelt. Het formulier 5001 hoeft niet te worden bijgevoegd. Bij de uitbetaling van de dividenden kan dan direct met het verdragstarief rekening worden gehouden (de zgn. vrijstellingsprocedure).    
 ### 3.2  
 
 ####Interest, royalty’s en overige dividenden
@@ -80,6 +80,6 @@ Den Haag
 6 maart 2007   
 
 De 
-staatssecretaris van Financiën, namens deze: de 
+staatssecretaris van Financiën, namens deze:de 
 directeur-generaal Belastingdienst, 
-J.Thunnissen   
+J. Thunnissen     

@@ -14,27 +14,27 @@ woonachtig zijn in een van de andere landen, en
 
 hun arbeid verrichten, of hebben verricht, in dat andere land, en  
 
-niet uitsluitend voor het verrichten van die arbeid inwoner van dat land werden.    
+niet uitsluitend voor het verrichten van die arbeid inwoner van dat land werden.   
 
 ### Artikel  2  
 
-Deze beschikking treedt in werking op de dag van haar afkondiging en vindt toepassing met ingang van 1 juli 1990.  
+Deze beschikking treedt in werking op de dag van haar afkondiging en vindt toepassing met ingang van 1 juli 1990. 
 
 ### Artikel  3  
 
-Deze beschikking kan worden aangehaald als: Gezamenlijke beschikking plaatselijk aangeworven werkkrachten.  
+Deze beschikking kan worden aangehaald als: Gezamenlijke beschikking plaatselijk aangeworven werkkrachten. 
 
 's-Gravenhage 
 28 juni 1990    
 
 De 
 Staatssecretaris van Financiën van Nederland, 
-M. J. J. vanAmelsvoort 
+M. J. J. vanAmelsvoort  
 
 Willemstad, 26 juni 1990. De 
 Minister van Financiën van de Nederlandse Antillen, 
-G. dePaula jr. 
+G. de Paulajr. 
 
 Oranjestad, 25 juni 1990. De 
 Minister van Financiën van Aruba, 
-G. P.Trinidad    
+G. P. Trinidad    

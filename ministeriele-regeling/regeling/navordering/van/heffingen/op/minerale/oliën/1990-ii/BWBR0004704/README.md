@@ -8,21 +8,21 @@ Besluit:
 
 ### Artikel  1  
 
-De navordering van de tijdelijke toeslag op de accijns van gelode lichte olie ter zake van de verhoging van die toeslag met ingang van 1 februari 1990 en de navordering van de ingevolge de [Wet algemene bepalingen](../../../../../../../../../../wet/wet/algemene/bepalingen/BWBR0001833/README.md) milieuhygiëne ingestelde heffingen op aan accijns van minerale oliën onderworpen minerale oliën ter zake van de verhoging van de tarieven met ingang van 1 februari 1990 blijven achterwege indien het na te vorderen bedrag voor toeslag en heffingen gezamenlijk niet meer bedraagt dan f 300.  
+De navordering van de tijdelijke toeslag op de accijns van gelode lichte olie ter zake van de verhoging van die toeslag met ingang van 1 februari 1990 en de navordering van de ingevolge de [Wet algemene bepalingen](../../../../../../../../../../wet/wet/algemene/bepalingen/BWBR0001833/README.md) milieuhygiëne ingestelde heffingen op aan accijns van minerale oliën onderworpen minerale oliën ter zake van de verhoging van de tarieven met ingang van 1 februari 1990 blijven achterwege indien het na te vorderen bedrag voor toeslag en heffingen gezamenlijk niet meer bedraagt dan f 300. 
 
 ### Artikel  2  
 
 1.  Deze regeling treedt in werking met ingang van 1 februari 1990.   
-2.  Deze regeling kan worden aangehaald als Regeling navordering van heffingen van minerale oliën 1990-II.   
+2.  Deze regeling kan worden aangehaald als Regeling navordering van heffingen van minerale oliën 1990-II.  
 
 's-Gravenhage 
 26 januari 1990    
 
 De 
-staatssecretaris van Financiën, 
+staatssecretaris van Financiën,  
 
-Namens deze: 
+Namens deze:
 
 De 
 Directeur-Generaal voor Fiscale Zaken,
-A.Schoemaker    
+A.  Schoemaker    

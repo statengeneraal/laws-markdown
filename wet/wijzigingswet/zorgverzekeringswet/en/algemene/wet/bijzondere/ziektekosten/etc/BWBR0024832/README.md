@@ -11,27 +11,27 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Zorgverzekeringswet.   
+Wijzigt de Zorgverzekeringswet.
 
 ### Artikel  Ia  
 
 1.  Ten aanzien van rechten en verplichtingen die op grond van het Reglement Financiële Bijdragen van de Stichting Koppeling te Amsterdam zijn ontstaan voor de inwerkingtreding van deze wet, dan wel na dat tijdstip zijn ontstaan terzake van de afwikkeling van het Reglement Financiële Bijdragen van de Stichting Koppeling te Amsterdam, blijft het recht van toepassing zoals dat gold voorafgaand aan het tijdstip van inwerkingtreding van deze wet.   
 2.  Ten aanzien van bezwaar en beroep tegen een besluit dat op grond van het Reglement Financiële Bijdragen van de Stichting Koppeling te Amsterdam is genomen voor het tijdstip van inwerkingtreding van deze wet, dan wel na dat tijdstip is genomen terzake van de afwikkeling van het Reglement Financiële Bijdragen van de Stichting Koppeling te Amsterdam, is het recht zoals dat gold voorafgaand aan het tijdstip van inwerkingtreding van deze wet van toepassing.   
-3.  Met ingang van de datum van inwerkingtreding van deze wet is het College zorgverzekeringen de rechtsopvolger van Stichting Koppeling te Amsterdam ten aanzien van rechten en verplichtingen als bedoeld in het eerste lid en ten aanzien van bezwaar en beroep als bedoeld in het tweede lid.   
+3.  Met ingang van de datum van inwerkingtreding van deze wet is het College zorgverzekeringen de rechtsopvolger van Stichting Koppeling te Amsterdam ten aanzien van rechten en verplichtingen als bedoeld in het eerste lid en ten aanzien van bezwaar en beroep als bedoeld in het tweede lid.  
 
 ### Artikel  II  
 
-Wijzigt de Algemene Wet Bijzondere Ziektekosten.   
+Wijzigt de Algemene Wet Bijzondere Ziektekosten. 
 
 ### Artikel  III  
 
-Onze Minister van Volksgezondheid, Welzijn en Sport zendt binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van [artikel 122a van de Zorgverzekeringswet](../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) in de praktijk.  
+Onze Minister van Volksgezondheid, Welzijn en Sport zendt binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van [artikel 122a van de Zorgverzekeringswet](../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) in de praktijk. 
 
 ### Artikel  IV  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 30 oktober 2008  

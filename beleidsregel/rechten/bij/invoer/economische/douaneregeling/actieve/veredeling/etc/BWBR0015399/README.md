@@ -69,7 +69,7 @@ Hoeveelheid in het vrije verkeer gebracht hoofdveredelingsproduct (4 stuks buize
 
 | --- | --- | --- |
 |:---|:---|:---|
-| – buizen  | 215 kg metaal  | ((200/400) × 429))  |
+| – buizen  | 215 kg metaal  |  ((200/400) × 429))  |
 | – metaalstukjes  | 107 kg metaal  | --- |
 
 ###Heffingsgrondslagen vrije verkeer

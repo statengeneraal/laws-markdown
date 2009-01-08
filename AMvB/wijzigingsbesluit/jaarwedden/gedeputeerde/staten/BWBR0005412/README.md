@@ -17,15 +17,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  2  
 
-Aan degenen die op 1 april 1990 de functie van lid van gedeputeerde staten vervulden, wordt een eenmalige uitkering van f 250 toegekend.  
+Aan degenen die op 1 april 1990 de functie van lid van gedeputeerde staten vervulden, wordt een eenmalige uitkering van f 250 toegekend. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

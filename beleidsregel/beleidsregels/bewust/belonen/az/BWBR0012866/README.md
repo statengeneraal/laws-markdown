@@ -2,29 +2,29 @@
 
 ##Beleidsregels bewust belonen AZ
 
-De Minister van Algemene Zaken,  
+De Minister van Algemene Zaken,
 Overwegende, dat het noodzakelijk is nadere richtlijnen vast te stellen voor wat betreft de toekenning van extra beloningen en de basis waarop deze beloningen worden gebaseerd;
 
 Gelet op de [artikelen 5](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), [7](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), [8](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en [22a van het Bezoldigingsbesluit Rijksambtenaren 1984](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md);
 
 Gehoord het Departementaal Georganiseerd overleg en de Ondernemingsraad (OR), ingesteld bij het ministerie van Algemene Zaken;
-Besluit:    
+Besluit: 
 
-### Artikel  1  
+###Artikel 1 
 
-Het bewust belonen op grond van individueel functioneren vindt voor de medewerkers van het ministerie van Algemene Zaken plaats op de wijze die is beschreven in de regeling bewust belonen AZ 2002, die is opgenomen in de bij dit besluit behorende bijlage.  
+Het bewust belonen op grond van individueel functioneren vindt voor de medewerkers van het ministerie van Algemene Zaken plaats op de wijze die is beschreven in de regeling bewust belonen AZ 2002, die is opgenomen in de bij dit besluit behorende bijlage. 
 
-### Artikel  2  
+###Artikel 2 
 
-Het besluit tot vaststelling van de Regeling Bewust Belonen van het ministerie van Algemene Zaken van 20 maart 1998 wordt ingetrokken.  
+Het besluit tot vaststelling van de Regeling Bewust Belonen van het ministerie van Algemene Zaken van 20 maart 1998 wordt ingetrokken. 
 
-### Artikel  3  
+###Artikel 3 
 
-Dit besluit treedt in werking met ingang van 1 januari 2002.  
+Dit besluit treedt in werking met ingang van 1 januari 2002. 
 
-### Artikel  4  
+###Artikel 4 
 
-Dit besluit zal worden bekendgemaakt in de Staatscourant, met uitzondering van de bijlage, die ter inzage wordt gelegd. Van deze ter inzage legging zal mededeling worden gedaan in de Staatscourant.  
+Dit besluit zal worden bekendgemaakt in de Staatscourant, met uitzondering van de bijlage, die ter inzage wordt gelegd. Van deze ter inzage legging zal mededeling worden gedaan in de Staatscourant.
 
 's-Gravenhage 
 1 oktober 2001    
@@ -32,12 +32,12 @@ Dit besluit zal worden bekendgemaakt in de Staatscourant, met uitzondering van d
 De 
 Minister van Algemene Zaken, 
 
-Namens deze,  
+Namens deze,
 
 De 
 secretaris-generaal, 
-W.J.Kuijken   
+W.J.Kuijken 
 
-### Bijlage  
+###Bijlage 
 
-Ligt ter inzage bij de Centrale Afdeling Personeel en Organisatie te Den Haag.  
+Ligt ter inzage bij de Centrale Afdeling Personeel en Organisatie te Den Haag.

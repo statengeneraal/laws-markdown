@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van 24 december 1997 tot vaststelling van de datum van de inwerkingtreding van de Wet overheidspersoneel onder de werknemersverzekeringen alsmede het tijdstip van aanvang van fase 1 van die wet, bedoeld in diverse artikelen van die wet
+## Besluit van 24 december 1997 tot vaststelling van de datum van de inwerkingtreding van de Wet overheidspersoneel onder de werknemersverzekeringen alsmede het tijdstip van aanvang van fase 1 van die wet, bedoeld in diverse artikelen van die wet
 
-Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
+Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz. 
 
-Op de voordracht van Onze Minister van Binnenlandse Zaken van 16 december 1997, directie Arbeidszaken Overheid, nr. AB97/U1708;
+Op de voordracht van Onze Minister van Binnenlandse Zaken van 16 december 1997, directie Arbeidszaken Overheid, nr. AB97/U1708; 
 
 Gelet op [artikel 94, eerste en tweede lid, van de Wet overheidspersoneel onder de werknemersverzekeringen](../../../../../../../../../../../wet/wet/overheidspersoneel/onder/de/werknemersverzekeringen/BWBR0009267/README.md);
 Hebben goedgevonden en verstaan:    
@@ -20,13 +20,13 @@ Het tijdstip van aanvang van fase 1 van de [Wet overheidspersoneel onder de werk
 Onze Minister van Binnenlandse Zaken is belast met de uitvoering van dit besluit, dat met toelichting in het Staatsblad zal worden geplaatst.   
 
 Het Oude Loo 
-24 december 1997  
-Beatrix  
+24 december 1997   
+Beatrix   
 
-De Minister van Binnenlandse Zaken, 
-H. F. Dijkstal   
+De Minister van Binnenlandse Zaken,  
+H. F. Dijkstal    
 
-de dertigste december 1997 
+de dertigste december 1997  
 
-De Minister van Justitie, 
-W. Sorgdrager    
+De Minister van Justitie,  
+W. Sorgdrager     

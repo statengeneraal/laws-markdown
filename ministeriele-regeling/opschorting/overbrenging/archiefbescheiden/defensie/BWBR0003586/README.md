@@ -14,8 +14,8 @@ Rijswijk
 De 
 Minister van Welzijn, Volksgezondheid en Cultuur 
 
-Namens deze, 
+Namens deze,
 
 Het 
 hoofd van de Directie Musea,Monumenten en Archieven,
-Th. J.Meijer    
+Th. J.  Meijer    

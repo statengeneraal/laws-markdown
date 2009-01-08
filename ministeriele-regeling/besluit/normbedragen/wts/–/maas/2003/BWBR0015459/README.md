@@ -5,7 +5,7 @@
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 Gelet op [artikel 9 van de regeling tegemoetkoming schade bij overstroming van de Maas januari 2003](../../../../../../../../ministeriele-regeling/regeling/tegemoetkoming/schade/bij/overstroming/van/de/maas/januari/2003/BWBR0014589/README.md);
 Besluit:     De volgende normbedragen vast te stellen ten aanzien van de berekening van de teeltplanschade overeenkomstig [artikel 9 van de regeling tegemoetkoming schade bij overstroming van de Maas januari 2003](../../../../../../../../ministeriele-regeling/regeling/tegemoetkoming/schade/bij/overstroming/van/de/maas/januari/2003/BWBR0014589/README.md): 
-### *Normen in euro’s per ha of anders indien vermeld (per stuk of per m <sup>2</sup>)* 
+### *Normen in euro’s per ha of anders indien vermeld (per stuk of per m<sup>2</sup>)* 
 
 | --- | --- |
 |---|---|
@@ -96,8 +96,8 @@ Besluit:     De volgende normbedragen vast te stellen ten aanzien van de bereken
 | Bijv. Oriental Starfighter  | 69.900,–  |
 | --- | --- |
 |  *Lelies bloementeelt*   | --- |
-| Bijv. Aziaten Navona  | 15,– /m <sup>2</sup>  |
-| Bijv. Oriental hybriden Marco Polo  | 24,50 /m <sup>2</sup>  |
+| Bijv. Aziaten Navona  | 15,– /m<sup>2</sup>   |
+| Bijv. Oriental hybriden Marco Polo  | 24,50 /m<sup>2</sup>   |
 | --- | --- |
 |  *Violen*   | --- |
 | pot 7/9 cm  | 0,15/stuk  |
@@ -108,5 +108,5 @@ Besluit:     De volgende normbedragen vast te stellen ten aanzien van de bereken
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties
-J.W.Remkes    
+Minister van Binnenlandse Zaken en Koninkrijksrelaties 
+J.W. Remkes      

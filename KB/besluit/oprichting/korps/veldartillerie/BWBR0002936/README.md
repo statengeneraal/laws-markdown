@@ -13,11 +13,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De Regimenten veldartillerie "Van Essen", "Prins Frederik" en "Prins Maurits" worden samengevoegd tot het Korps veldartillerie.  
+De Regimenten veldartillerie "Van Essen", "Prins Frederik" en "Prins Maurits" worden samengevoegd tot het Korps veldartillerie. 
 
 ### Artikel  2  
 
-Het Korps veldartillerie zal als oprichtingsdatum herdenken 11 januari 1677, zijnde de datum waarop de artillerie als een blijvend korps in het Nederlandse leger werd georganiseerd.  
+Het Korps veldartillerie zal als oprichtingsdatum herdenken 11 januari 1677, zijnde de datum waarop de artillerie als een blijvend korps in het Nederlandse leger werd georganiseerd. 
 
 Onze Minister van defensie is belast met uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan Onze Adjudant-Generaal, tevens Chef van Ons Militaire Huis.   
 

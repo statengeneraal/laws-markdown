@@ -10,7 +10,7 @@ Besluit:
 
 Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom, van het archief van het Ministerie van Buitenlandse Zaken 1945–1954, pas openbaar met ingang van 1 januari van het jaar genoemd in de tweede kolom. Tot laatst bedoelde datum zijn de dossiers niet openbaar en zijn, op grond van [artikel 15, zevende lid, van de Archiefwet 1995](../../../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), de regelingen van toepassing inzake het recht op informatie die zouden gelden indien de archiefbescheiden onder vorenbedoelde archiefnummers niet naar het Nationaal Archief waren overgebracht.  
 
-| Inventaris-  nummer  | Openbaar met ingang  van 1 januari:  |
+| Inventaris-  nummer  | Openbaar met ingang   van 1 januari:  |
 |:---|:---|
 | 15077  | 2023  |
 | 15078  | 2028  |
@@ -37,10 +37,10 @@ Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnum
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van het Ministerie van Buitenlandse Zaken 1945–1954’.  
 
 De 
-Minister van Buitenlandse Zaken, namens deze: de 
+Minister van Buitenlandse Zaken, namens deze:de 
 directeur van de Directie Documentaire Informatievoorziening, 
-H.Y.Buijs   
+H.Y. Buijs     

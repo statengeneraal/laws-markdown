@@ -20,6 +20,6 @@ minister van Financiën,
 
 namens deze, 
 
-De 
+De
 plv. secretaris-generaal, 
-V. I.Goedvolk    
+V. I. Goedvolk      

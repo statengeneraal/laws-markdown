@@ -8,16 +8,16 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt het Besluit hulp vanwege een kruisorganisatie Bijzondere Ziektekostenverzekering.   
+Wijzigt het Besluit hulp vanwege een kruisorganisatie Bijzondere Ziektekostenverzekering. 
 
 ### Artikel  II  
 
-Voor de toepassing van de in artikel I bedoelde termijn wordt de periode, dat de verzekerde voor 1 januari 1993 de verpleegartikelen van de kruisorganisatie in bruikleen heeft gehad, meegeteld.  
+Voor de toepassing van de in artikel I bedoelde termijn wordt de periode, dat de verzekerde voor 1 januari 1993 de verpleegartikelen van de kruisorganisatie in bruikleen heeft gehad, meegeteld. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van 1 januari 1993. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
+Deze regeling treedt in werking met ingang van 1 januari 1993. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. 
 
 De 
 Staatssecretaris voornoemd, 
-Hans J.Simons    
+Hans J.Simons      

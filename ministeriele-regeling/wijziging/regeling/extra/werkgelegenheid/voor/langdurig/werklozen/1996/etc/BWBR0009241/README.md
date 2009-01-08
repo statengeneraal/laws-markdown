@@ -6,7 +6,7 @@ De Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Binn
 
 ### Artikel  I  
 
-Wijzigt de Regeling extra werkgelegenheid voor langdurig werklozen 1996 en 1997.   
+Wijzigt de Regeling extra werkgelegenheid voor langdurig werklozen 1996 en 1997. 
 
 ### Artikel  II  
 
@@ -14,26 +14,26 @@ Gemeenten die zich overeenkomstig artikel 5a van de Regeling extra werkgelegenhe
 
 ### Artikel  III  
 
-Wijzigt de Regeling extra werkgelegenheid voor langdurig werklozen 1996, 1997 en 1998.   
+Wijzigt de Regeling extra werkgelegenheid voor langdurig werklozen 1996, 1997 en 1998. 
 
 ### Artikel  IV  
 
-Wijzigt de Regeling extra werkgelegenheid voor langdurig werklozen 1996, 1997 en 1998.   
+Wijzigt de Regeling extra werkgelegenheid voor langdurig werklozen 1996, 1997 en 1998. 
 
 ### Artikel  V  
 
-Wijzigt de Regeling extra werkgelegenheid voor langdurig werklozen 1996, 1997 en 1998.   
+Wijzigt de Regeling extra werkgelegenheid voor langdurig werklozen 1996, 1997 en 1998. 
 
 ### Artikel  VI  
 
-Wijzigt de Regeling extra werkgelegenheid voor langdurig werklozen 1996, 1997 en 1998.   
+Wijzigt de Regeling extra werkgelegenheid voor langdurig werklozen 1996, 1997 en 1998. 
 
 ### Artikel  VII  
 
 1.  Deze regeling treedt met uitzondering van artikel I, onderdeel D, en onderdeel H, onder 1 en 2, in werking met ingang van 1 januari 1998.   
 2.  Artikel I, onderdeel D, treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij is geplaatst en werkt terug tot en met 1 juli 1997.   
 3.  Artikel I, onderdeel H, onder 1, treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij is geplaatst en werkt terug tot en met 1 juni 1997.   
-4.  Artikel I, onderdeel H, onder 2, treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij is geplaatst en werkt terug tot en met 1 januari 1996.   
+4.  Artikel I, onderdeel H, onder 2, treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij is geplaatst en werkt terug tot en met 1 januari 1996.  
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -41,8 +41,8 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 De 
 Minister van Sociale Zaken en Werkgelegenheid, 
-A.P.W.Melkert 
+A.P.W. Melkert  
 
 De 
 Staatssecretaris van Binnenlandse Zaken, 
-J.Kohnstamm    
+J. Kohnstamm     

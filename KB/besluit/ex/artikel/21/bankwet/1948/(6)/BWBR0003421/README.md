@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### art  1  
 
-Wij verlenen aan De Nederlandsche Bank N.V. goedkeuring om een rechtspersoon naar Nederlands recht op te richten, welke belast zal zijn met het verrichten van bepaalde financiële werkzaamheden, verband houdende met de uitvoering van de tussen Iran en de Verenigde Staten van Amerika overeengekomen Akkoorden van Algiers d.d. 19 en 20 januari 1981, daarin deel te nemen en functies te vervullen en alle handelingen te verrichten, die nodig zijn om de rechtspersoon binnen haar doelomschrijving naar behoren te doen functioneren.  
+Wij verlenen aan De Nederlandsche Bank N.V. goedkeuring om een rechtspersoon naar Nederlands recht op te richten, welke belast zal zijn met het verrichten van bepaalde financiële werkzaamheden, verband houdende met de uitvoering van de tussen Iran en de Verenigde Staten van Amerika overeengekomen Akkoorden van Algiers d.d. 19 en 20 januari 1981, daarin deel te nemen en functies te vervullen en alle handelingen te verrichten, die nodig zijn om de rechtspersoon binnen haar doelomschrijving naar behoren te doen functioneren. 
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit dat in het *Staatsblad* en in de *Nederlandse Staatscourant* zal worden geplaatst.   
 

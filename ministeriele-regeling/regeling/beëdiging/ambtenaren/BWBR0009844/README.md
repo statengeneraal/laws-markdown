@@ -6,7 +6,7 @@ De Minister van Binnenlandse Zaken en Koninkrijksrelaties,
 Gelet op [artikel 51, tweede lid, van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);
 
 Gehoord de Bijzondere Commissie;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -26,13 +26,13 @@ In deze regeling wordt verstaan onder eed of belofte: de eed of belofte als bedo
 
 1.  De eed of belofte wordt afgelegd door: 
 
-a. ambtenaren die ressorteren onder een DG, HBVD of PSG: ten overstaan van de desbetreffende DG, HBVD of PSG;  
+a.  ambtenaren die ressorteren onder een DG, HBVD of PSG: ten overstaan van de desbetreffende DG, HBVD of PSG;  
 
-b. de DG’s, HBVD en PSG: ten overstaan van de SG;  
+b.  de DG’s, HBVD en PSG: ten overstaan van de SG;  
 
-c. de SG: ten overstaan van de Minister.     
-2.  De eed of belofte wordt afgelegd in aanwezigheid van een getuige die, al naar gelang bovengenoemde situatie, wordt aangewezen door de DG, HBVD, PSG, SG of Minister.   
-3.  In afwijking van het eerste lid, onder a, en het tweede lid wordt voor de ambtenaren wier standplaats is gelegen buiten Den Haag de bevoegdheid tot het afnemen van de eed of belofte en de aanwijzing van de getuige gemandateerd aan de directeur waaronder zij ressorteren.   
+c.  de SG: ten overstaan van de Minister.     
+2.  De eed of belofte wordt afgelegd in aanwezigheid van een getuige die, al naar gelang bovengenoemde situatie, wordt aangewezen door de DG, HBVD, PSG, SG of Minister.    
+3.   In afwijking van het eerste lid, onder a, en het tweede lid wordt voor de ambtenaren wier standplaats is gelegen buiten Den Haag de bevoegdheid tot het afnemen van de eed of belofte en de aanwijzing van de getuige gemandateerd aan de directeur waaronder zij ressorteren.   
 
 ### Artikel  5  
 
@@ -51,13 +51,13 @@ De ambtenaar aangesteld dan wel te werkgesteld bij het Ministerie van Binnenland
 
 ### Artikel  8  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
-### Artikel  9  
+### Artikel 9  
 
-Deze regeling wordt aangehaald als: Regeling beëdiging ambtenaren.  
+Deze regeling wordt aangehaald als: Regeling beëdiging ambtenaren. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-A.Peper    
+A. Peper      

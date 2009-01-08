@@ -8,35 +8,35 @@ Besluit:
 
 ### Artikel  1  
 
-De maxima van de lasten die in een boekjaar ten laste van de wachtgeldfondsen komen, bedoeld in [artikel 94 van de Werkloosheidswet](../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), worden voor het jaar 2006 vastgesteld op de percentages, bedoeld in bijlage 1 bij dit besluit.  
+De maxima van de lasten die in een boekjaar ten laste van de wachtgeldfondsen komen, bedoeld in [artikel 94 van de Werkloosheidswet](../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), worden voor het jaar 2006 vastgesteld op de percentages, bedoeld in bijlage 1 bij dit besluit. 
 
 ### Artikel  2  
 
-Het Besluit vaststelling lastenplafonds wachtgeldfondsen 2005 wordt ingetrokken.  
+Het Besluit vaststelling lastenplafonds wachtgeldfondsen 2005 wordt ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt, onder voorbehoud van goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, in werking met ingang van 1 januari 2006.  
+Dit besluit treedt, onder voorbehoud van goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, in werking met ingang van 1 januari 2006. 
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Besluit vaststelling lastenplafonds wachtgeldfondsen 2006.  
+Dit besluit wordt aangehaald als: Besluit vaststelling lastenplafonds wachtgeldfondsen 2006. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Amsterdam 
 8 november 2005   
 
-De Raad van bestuur UWV, 
+De Raad van bestuur UWV,  
 
 de 
-voorzitter, 
-J.M.Linthorst  
+voorzitter,
+J.M. Linthorst   
 
 ### Bijlage  1  
 
 ####Lastenplafonds wachtgeldfondsen 2006
 
-| Sectoren  | Lastenplafonds (in %)  |
+|  Sectoren   |  Lastenplafonds (in %)   |
 |:---|:---|
 | 1  | Agrarisch bedrijf  | 4,50  |
 | 2  | Tabakverwerkende industrie  | 3,75  |

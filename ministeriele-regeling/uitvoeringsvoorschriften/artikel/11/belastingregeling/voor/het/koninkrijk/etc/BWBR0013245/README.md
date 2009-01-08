@@ -6,7 +6,7 @@ De Staatssecretaris van Financiën,
 In overeenstemming met de Minister van Financiën van Aruba;
 
 Gelet op [artikel 11, vierde lid, van de Belastingregeling voor het Koninkrijk](../../../../../../../../../../rijkswet/belastingregeling/voor/het/koninkrijk/BWBR0002464/README.md), zoals deze is gewijzigd bij Rijkswet van 5 december 1985, Stb. 645, bij Rijkswet van 13 december 1996, Stb. 644 en bij Rijkswet van 14 december 2001, Stb. 647;
-Besluit: Vast te stellen de navolgende regeling met bijlagen I en II. <sup> ¹  De bij deze regeling horende bijlagen I en II zullen begin 2002 worden vastgesteld.  </sup>    
+Besluit: Vast te stellen de navolgende regeling met bijlagen I en II. <sup> ¹ De bij deze regeling horende bijlagen I en II zullen begin 2002 worden vastgesteld. </sup>    
 
 ### Artikel  1  
 
@@ -32,9 +32,9 @@ Besluit: Vast te stellen de navolgende regeling met bijlagen I en II. <sup> ¹  
 3.  Indien de opbrengst is uitbetaald door een in Nederland wonende of gevestigde persoon die de in artikel 9 van de Wet op de dividendbelasting 1965 bedoelde dividendnota, waaruit van de betaling van de terug te geven belasting door de belanghebbende blijkt, heeft uitgereikt, levert de belanghebbende het van een ondertekende bevestiging omtrent de woonplaats voorziene exemplaar van de verklaring in bij de hierboven bedoelde persoon, onder bijvoeging van de dividendnota. Is dit laatste niet mogelijk, dan voegt de persoon die de dividendnota heeft uitgereikt bij de verklaring een door hem gewaarmerkt afschrift van de dividendnota. Degene die de dividendnota heeft uitgereikt zendt, met een begeleidende brief, waaruit blijkt dat hij voor de belanghebbende optreedt, de bij hem ingeleverde verklaring tezamen met de dividendnota of het afschrift daarvan, aan de inspecteur van de Belastingdienst/Particulieren/Ondernemingen buitenland, die op het verzoek beslist bij voor bezwaar vatbare beschikking. Het terug te geven bedrag wordt door de ontvanger van de Belastingdienst/Particulieren/Ondernemingen buitenland ten behoeve van de belanghebbende overgemaakt aan degene die de dividendnota heeft uitgereikt.   
 4.  Indien de opbrengst niet is uitbetaald door een in Nederland wonende of gevestigde persoon en de belanghebbende dientengevolge niet in het bezit is van een in het derde lid bedoelde dividendnota, zendt hij het van een ondertekende bevestiging omtrent de woonplaats voorziene exemplaar van de verklaring rechtstreeks toe aan de inspecteur van de Belastingdienst/Particulieren/Ondernemingen buitenland, onder bijvoeging van een dividendnota of ander bewijsstuk, waaruit blijken: 
 
-a) de desbetreffende opbrengst, en  
+a)  de desbetreffende opbrengst, en  
 
-b) het feit dat de terug te geven belasting is ingehouden en afgedragen.   De inspecteur van de Belastingdienst/Particulieren/Ondernemingen buitenland beslist op het verzoek bij voor bezwaar vatbare beschikking. Het terug te geven bedrag wordt door de ontvanger van de Belastingdienst/Particulieren/Ondernemingen buitenland aan de belanghebbende overgemaakt.   
+b)  het feit dat de terug te geven belasting is ingehouden en afgedragen.   De inspecteur van de Belastingdienst/Particulieren/Ondernemingen buitenland beslist op het verzoek bij voor bezwaar vatbare beschikking. Het terug te geven bedrag wordt door de ontvanger van de Belastingdienst/Particulieren/Ondernemingen buitenland aan de belanghebbende overgemaakt.   
 
 ### Artikel  4  
 
@@ -45,17 +45,17 @@ b) het feit dat de terug te geven belasting is ingehouden en afgedragen.   De in
 3.  De vennootschap die het dividend verschuldigd is, is bevoegd het dividend uit te betalen onder aftrek van dividendbelasting naar een tarief van 5 percent indien de genieter van de opbrengst het van een ondertekende bevestiging omtrent het inwonerschap voorziene exemplaar van de in het eerste lid bedoelde verklaring heeft overgelegd en voorts op het formulier is verklaard dat het dividend in Aruba is onderworpen aan een tarief van 5,5 percent en dat de feitelijke gecombineerde belastingdruk van woonstaat en bronstaat tezamen op dit dividend ten minste 8,3 percent bedraagt en deze verklaring op het formulier is bevestigd door de aanslagregelende autoriteit in Aruba.   
 4.  In het in het eerste lid bedoelde formulier wordt verklaard: 
 
-(i) dat het lichaam inwoner is van Aruba in de zin van de Belastingregeling voor het Koninkrijk;  
+(i)  dat het lichaam inwoner is van Aruba in de zin van de Belastingregeling voor het Koninkrijk;  
 
-(ii) dat het lichaam een vennootschap is waarvan het kapitaal geheel of ten dele in aandelen is verdeeld;  
+(ii)  dat het lichaam een vennootschap is waarvan het kapitaal geheel of ten dele in aandelen is verdeeld;  
 
-(iii) dat het lichaam ten minste 25 percent bezit van het nominaal gestorte kapitaal van de Nederlandse vennootschap;  
+(iii)  dat het lichaam ten minste 25 percent bezit van het nominaal gestorte kapitaal van de Nederlandse vennootschap;  
 
-(iv) dat het lichaam genieter is van het dividend;  
+(iv)  dat het lichaam genieter is van het dividend;  
 
-(v) dat, indien het verzoek zich richt op een vrijstelling tot 7,5 percent als bedoeld in het tweede lid, het dividend in Aruba is onderworpen aan belasting, met dien verstande dat de feitelijke gecombineerde belastingdruk van woonstaat en bronstaat tezamen op het dividend ten minste 8,3 percent bedraagt;  
+(v)  dat, indien het verzoek zich richt op een vrijstelling tot 7,5 percent als bedoeld in het tweede lid, het dividend in Aruba is onderworpen aan belasting, met dien verstande dat de feitelijke gecombineerde belastingdruk van woonstaat en bronstaat tezamen op het dividend ten minste 8,3 percent bedraagt;  
 
-(vi) dat, indien het verzoek zich richt op een vrijstelling tot 5 percent als bedoeld in het derde lid, het dividend in Aruba is onderworpen aan een tarief van ten minste 5,5 percent en dat de feitelijke gecombineerde belastingdruk van woonstaat en bronstaat tezamen op dit dividend ten minste 8,3 percent bedraagt.     
+(vi)  dat, indien het verzoek zich richt op een vrijstelling tot 5 percent als bedoeld in het derde lid, het dividend in Aruba is onderworpen aan een tarief van ten minste 5,5 percent en dat de feitelijke gecombineerde belastingdruk van woonstaat en bronstaat tezamen op dit dividend ten minste 8,3 percent bedraagt.     
 5.  Voorzover dividendbelasting welke is ingehouden en afgedragen, ingevolge het tweede en derde lid, bij de uitbetaling van het dividend niet in aftrek is gebracht, wordt deze aan de vennootschap teruggegeven na indiening van een verzoek bij de inspecteur binnen wiens ambtsgebied zij is gevestigd, onder overlegging van het van een ondertekende bevestiging voorziene exemplaar van de in het eerste lid bedoelde verklaring. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.   
 6.  Het terug te geven bedrag wordt door de ontvanger ten behoeve van de belanghebbende aan de vennootschap overgemaakt.   
 
@@ -68,17 +68,17 @@ b) het feit dat de terug te geven belasting is ingehouden en afgedragen.   De in
 3.  Tot het verkrijgen van de teruggaaf levert het lichaam bij de bevoegde aanslagregelende autoriteit over zijn plaats van vestiging een ingevulde en ondertekende verklaring in tweevoud in op een formulier volgens het in bijlage II opgenomen model (formulier `IB 95(2)ARU'). Nadat het lichaam een exemplaar van de verklaring, voorzien van dagtekening en ondertekening van de daarop voorkomende bevestiging van vorenbedoelde aanslagregelende autoriteit heeft terugontvangen, zendt het dit exemplaar toe aan de inspecteur binnen wiens ambtsgebied de vennootschap is gevestigd, onder bijvoeging van het bewijsstuk waaruit van de inhouding van de belasting blijkt. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.   
 4.  In het in het derde lid bedoelde formulier wordt verklaard: 
 
-(i) dat het lichaam inwoner is (was) van Aruba in de zin van de Belastingregeling voor het Koninkrijk;  
+(i)  dat het lichaam inwoner is (was) van Aruba in de zin van de Belastingregeling voor het Koninkrijk;  
 
-(ii) dat het lichaam een vennootschap is (was) waarvan het kapitaal geheel of ten dele in aandelen is verdeeld;  
+(ii)  dat het lichaam een vennootschap is (was) waarvan het kapitaal geheel of ten dele in aandelen is verdeeld;  
 
-(iii) dat het lichaam ten minste 25 percent bezit (bezat) van het nominaal gestorte kapitaal van de Nederlandse vennootschap;  
+(iii)  dat het lichaam ten minste 25 percent bezit (bezat) van het nominaal gestorte kapitaal van de Nederlandse vennootschap;  
 
-(iv) dat het lichaam genieter is (was) van het dividend;  
+(iv)  dat het lichaam genieter is (was) van het dividend;  
 
-(v) dat, indien het verzoek zich richt op een teruggaaf als bedoeld in het eerste lid, het dividend in Aruba is (was) onderworpen aan belasting, met dien verstande dat de feitelijke gecombineerde belastingdruk van woonstaat en bronstaat tezamen op het dividend ten minste 8,3 percent bedraagt;  
+(v)  dat, indien het verzoek zich richt op een teruggaaf als bedoeld in het eerste lid, het dividend in Aruba is (was) onderworpen aan belasting, met dien verstande dat de feitelijke gecombineerde belastingdruk van woonstaat en bronstaat tezamen op het dividend ten minste 8,3 percent bedraagt;  
 
-(vi) dat, indien het verzoek zich richt op een teruggaaf als bedoeld in het tweede lid, het dividend in Aruba is (was) onderworpen aan een tarief van ten minste 5,5 percent en dat de feitelijke gecombineerde belastingdruk van woonstaat en bronstaat tezamen op dit dividend tenminste 8,3 percent bedraagt.     
+(vi)  dat, indien het verzoek zich richt op een teruggaaf als bedoeld in het tweede lid, het dividend in Aruba is (was) onderworpen aan een tarief van ten minste 5,5 percent en dat de feitelijke gecombineerde belastingdruk van woonstaat en bronstaat tezamen op dit dividend tenminste 8,3 percent bedraagt.     
 5.  Het terug te geven bedrag wordt door de ontvanger aan de belanghebbende overgemaakt.   
 
 ### Artikel  5A  
@@ -140,8 +140,8 @@ De regeling van de Staatssecretaris van Financiën van 19 december 1996, nr. IFZ
 
 1.  Deze regeling kan worden aangehaald als: [Uitvoeringsvoorschriften artikel 11 Belastingregeling voor het Koninkrijk 2002 (Aruba)](../../../../../../../../../../ministeriele-regeling/uitvoeringsvoorschriften/artikel/11/belastingregeling/voor/het/koninkrijk/etc/BWBR0013245/README.md).   
 2.  Zij treedt in werking met ingang van 1 januari 2002.   
-3.  Zij vindt met inachtneming van het bepaalde in artikel 8 toepassing met betrekking tot dividenden die betaalbaar zijn gesteld op of na 1 januari 2002.   
+3.  Zij vindt met inachtneming van het bepaalde in artikel 8 toepassing met betrekking tot dividenden die betaalbaar zijn gesteld op of na 1 januari 2002.  
 
 De 
 Staatssecretaris van Financiën, 
-W.Bos    
+W. Bos      

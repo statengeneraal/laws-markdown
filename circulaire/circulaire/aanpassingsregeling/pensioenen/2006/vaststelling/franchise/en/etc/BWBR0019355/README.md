@@ -16,5 +16,5 @@ Zoals u bekend is, vindt aanpassing (‘indexatie’) van de pensioenen van poli
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
-directeur-generaal Koninkrijksrelaties en Bestuur, 
-L.A.M. vanHalder   
+directeur-generaal Koninkrijksrelaties en Bestuur,
+L.A.M. van  Halder     

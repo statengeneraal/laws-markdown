@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap voor de Agrarische Groothandel van 2 juni 2005, houdende regels ter zake van de bevoegdheden van de organen en de secretarissen van het Hoofdbedrijfschap voor de Agrarische Groothandel (Verordening HBAG bevoegdheden en werkwijze HBAG 2005)
 
 Het bestuur van hel Hoofdbedrijfschap voor de Agrarische Groothandel;  
-Gelet op de [artikelen 92](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [98](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [118](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [124 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en het [Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) (Staatsblad 2002 nr. 155), in werking getreden met ingang van 1 januari 2003 (Staatsblad 2002 nr. 386);
+Gelet op de [artikelen 92](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [98](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [118](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [124 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en het [Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) (Staatsblad 2002 nr. 155), in werking getreden met ingang van 1 januari 2003 (Staatsblad 2002 nr. 386); 
 Besluit:     
 ### §  1  
 
@@ -30,7 +30,7 @@ Het dagelijks bestuur is, onverminderd het bepaalde in de wet, bevoegd:
 
 a. te beslissen dat het hoofdbedrijfschap optreedt als eisende partij in een rechtsgeding voor de burgerlijke of administratieve rechter of voor arbiters;  
 
-b. richtlijnen vast te stellen voor het financieel beheer, de werkwijze van het secretariaat, het aangaan van verplichtingen jegens derden en het uitbesteden van werkzaamheden aan derden.    
+b. richtlijnen vast te stellen voor het financieel beheer, de werkwijze van het secretariaat, het aangaan van verplichtingen jegens derden en het uitbesteden van werkzaamheden aan derden.   
 
 ### §  3  
 
@@ -39,7 +39,7 @@ b. richtlijnen vast te stellen voor het financieel beheer, de werkwijze van het 
 ### Artikel  3  
 
 1.  De voorzitter houdt bestuurlijk toezicht op de goede werking van het secretariaat en de uitvoering door de secretaris van de verordeningen en besluiten van het (dagelijks) bestuur en de voorzitter. Hij is bevoegd de secretaris daaromtrent nadere aanwijzingen te geven.   
-2.  De voorzitter tekent namens het bestuur bij indienstneming of ontslag van de secretaris.   
+2.  De voorzitter tekent namens het bestuur bij indienstneming of ontslag van de secretaris.  
 
 ### Artikel  4  
 
@@ -52,7 +52,7 @@ b. het voeren van verweer voor de burgerlijke of administratieve rechter of voor
 c. de secretaris of een commissie-secretaris te mandateren om besluiten te nemen en deze besluiten en andere schriftelijke bescheiden van het hoofdbedrijfschap, voor zover dit niet reeds door het bestuur bij verordening is bepaald, te ondertekenen;  
 
 d. een commissie-secretaris te mandateren om een aanmaning te doen uitgaan als bedoeld in [artikel 127, tweede lid van de wet](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). Deze commissie-secretaris kan deze bevoegdheid aan functionarissen in ondermandaat geven.     
-2.  Een (onder) mandaatbesluit behoeft vooraf de goedkeuring van het dagelijks bestuur en kan te allen tijde worden gewijzigd en ingetrokken.   
+2.  Een (onder) mandaatbesluit behoeft vooraf de goedkeuring van het dagelijks bestuur en kan te allen tijde worden gewijzigd en ingetrokken.  
 
 ### §  4  
 
@@ -61,7 +61,7 @@ d. een commissie-secretaris te mandateren om een aanmaning te doen uitgaan als b
 ### Artikel  5  
 
 1.  Op de indienstneming, het ontslag, het loon en de andere arbeidsvoorwaarden van de secretaris en het overige personeel van het hoofdbedrijfschap zijn van toepassing de in de Collectieve arbeidsovereenkomst voor de Publiekrechtelijke Bedrijfsorganisatie vastgestelde regelen.   
-2.  De secretaris draagt zorg voor indienstneming en ontslag van het overige personeel van het hoofdbedrijfschap.   
+2.  De secretaris draagt zorg voor indienstneming en ontslag van het overige personeel van het hoofdbedrijfschap.  
 
 ### Artikel  6  
 
@@ -87,7 +87,7 @@ g. het onder het stellen van nadere voorwaarden aan derden uitbesteden van taken
 
 h. het namens het hoofdbedrijfschap of één van de commissies van het hoofdbedrijfschap afgeven van verklaringen ter vaststelling van hem bekend zijnde feiten, verband houdende met de werkzaamheden van het hoofdbedrijfschap of van één van de commissies van het hoofdbedrijfschap;  
 
-j. het nemen van beslissingen op bezwaarschriften aangaande het hoofdbedrijfschap en de commissie-secretarissen tot het nemen van beslissingen op bezwaarschriften aangaande hun commissie, met dien verstande dat - ingeval de secretaris c.q. commissie-secretaris de in bezwaar bestreden beslissing in mandaat heeft genomen -zijn voorzitter respectievelijk commissie-voorzitter is gemandateerd te beslissen op bezwaarschriften.    
+j. het nemen van beslissingen op bezwaarschriften aangaande het hoofdbedrijfschap en de commissie-secretarissen tot het nemen van beslissingen op bezwaarschriften aangaande hun commissie, met dien verstande dat - ingeval de secretaris c.q. commissie-secretaris de in bezwaar bestreden beslissing in mandaat heeft genomen -zijn voorzitter respectievelijk commissie-voorzitter is gemandateerd te beslissen op bezwaarschriften.   
 
 ### §  5  
 
@@ -98,7 +98,7 @@ j. het nemen van beslissingen op bezwaarschriften aangaande het hoofdbedrijfscha
 1.  De voorzitter kan zijn daarvoor in aanmerking komende bevoegdheden zoals deze zijn vermeld in de als bijlage bij deze verordening opgenomen "Mandaat- en Ondermandaatoverzicht HBAG 2005 mandateren aan een commissie-secretaris.   
 2.  Een commissie-secretaris kan de daarvoor in aanmerking komende bevoegdheden zoals deze zijn vermeld in de als bijlage bij deze verordening opgenomen "Mandaat- en Ondermandaatoverzicht HBAG 2005 ondermandateren aan de in dit overzicht vermelde functionarissen welke zijn opgenomen in de "Tabel ondermandateris".   
 3.  Bij uitoefening van (onder)gemandateerde bevoegdheden houdt de (onder)mandataris rekening met het bepaalde in [Titel 10.1 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-4.  Indien een bevoegdheid krachtens (onder)mandaat wordt uitgeoefend, worden de daarop betrekking hebbende documenten als volgt ondertekend: Namens .....(het bestuursorgaan)........van het Hoofdbedrijfschap voor de Agrarische Groothandel, gevolgd door de naam en functie, alsmede de handtekening van de (onder)mandataris.   
+4.  Indien een bevoegdheid krachtens (onder)mandaat wordt uitgeoefend, worden de daarop betrekking hebbende documenten als volgt ondertekend: Namens .....(het bestuursorgaan)........van het Hoofdbedrijfschap voor de Agrarische Groothandel, gevolgd door de naam en functie, alsmede de handtekening van de (onder)mandataris.  
 
 ### §  6  
 
@@ -106,11 +106,11 @@ j. het nemen van beslissingen op bezwaarschriften aangaande het hoofdbedrijfscha
 
 ### Artikel  8  
 
-Deze verordening treedt in werking daags na vaststelling.  
+Deze verordening treedt in werking daags na vaststelling. 
 
 ### Artikel  9  
 
-Deze verordening wordt aangehaald als: Verordening HBAG bevoegdheden en werkwijze HBAG 2005.  
+Deze verordening wordt aangehaald als: Verordening HBAG bevoegdheden en werkwijze HBAG 2005. 
 
 Aalsmeer 
 2 juni 2005   
@@ -121,7 +121,7 @@ voorzitter
 P.M.M. van Ostaijen  
 secretaris   
 
-### Bijlage  
+###Bijlage 
 
 ####behorende bij de Verordening HBAG bevoegdheden en werkwijze HBAG 2005
 
@@ -135,9 +135,9 @@ Tabel Mandataris: Overzicht van de door het bestuur en de voorzitter van het hoo
 | 1.  | Te beslissen over het voeren van verweer door het hoofd bedrijfschap voor de burgerlijke- of administratieve rechter of voor arbiters  | Artikel 4, eerste lid sub a  van de Verordening HBAG bevoegdheden en werkwijze HBAG 2005  | voorzitter  | secretaris / commissie -secretaris  | --- |
 | 2.  | Het voeren van verweer door het hoofdbedrijfschap voor de burgerlijke- of administratieve rechter of voor arbiters  | [Artikel 107 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md); Artikel 4, eerste lid sub b  van de Verordening HBAG bevoegdheden en werkwijze HBAG 2005  | voorzitter  | secretaris / commissie -secretaris  | --- |
 | 3.  | Het nemen van besluiten en ondertekenen van deze en andere schriftelijke bescheiden van het hoofdbedrijfschap, voor zover dit niet reeds door het bestuur bij verordening is bepaald  | Artikel 4, eerste lid sub c  van de Verordening HBAG bevoegdheden en werkwijze HBAG 2005  | voorzitter  | secretaris / commissie -secretaris  | --- |
-| 4.  | De bevoegdheden met betrekking tot het ondertekenen en doen uitgaan van dwangbevelen  |  [Artikel 127, eerste lid Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md)   | voorzitter  | commissie -secretaris  | --- |
+| 4.  | De bevoegdheden met betrekking tot het ondertekenen en doen uitgaan van dwangbevelen  | [Artikel 127, eerste lid Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md)  | voorzitter  | commissie -secretaris  | --- |
 | 5.  | Het ondertekenen en doen uitgaan van aanmaningen  | [Artikel 127, tweede lid Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md); Artikel 4, eerste lid sub d  van de Verordening HBAG bevoegdheden en werkwijze HBAG 2005  | voorzitter  | commissie-  secretaris  | betrokken (plv.) administrateur  |
-| 6.  | Het vertegenwoordigen van het hoofdbedrijfschap in en buiten rechte  |  [Artikel 107 Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md)   | voorzitter  | secretaris/commissie  | --- |
+| 6.   | Het vertegenwoordigen van het hoofdbedrijfschap in en buiten rechte  | [Artikel 107 Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md)  | voorzitter  | secretaris/commissie  | --- |
 | 7.  | Het (doen) uitvoeren van het bepaalde in de [wet](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), het [Instellingsbesluit Hoofdbedrijfschsp Agrarische Groothandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md), verordeningen en besluiten  | Artikel 6, eerste lid sub e, eerste gedachtenstreepje  van de Verordening HBAG bevoegdheden en werkwijze HBAG 2005  | bestuur  | secretaris  | secretaris van de commissie consumptie-, fabrieks- en voeraadappeten  |
 | 8.  | Het (doen) uitvoeren van alle voorkomende taken en werkzaamheden door het (dagelijks) bestuur vastgesteld, voorzover deze uitvoering niet van rechtswege of krachtens verordening of besluit aan het dagelijks bestuur of de voorzitter toekomt.  | Artikel 6, eerste lid sub e, tweede gedachtenstreepje  van de Verordening HBAG bevoegdheden en werkwijze HBAG 2005  | bestuur  | secretaris  | commissie- secretaris  |
 | 9.  | Het nemen van beslissingen, verband houdende met het dagelijks beheer van het vermogen en van de inkomsten en uitgaven, onverminderd het bepaalde in [artikel 123 van de wet](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). Hij legt daaromtrent verantwoording af aan het dagelijks bestuur  | Artikel 6. eerste lid sub f  van de Verordening HBAG bevoegdheden en werkwijze HBAG 2005  | bestuur  | secretaris / commissie -secretaris  | betrokken (plv.) administrateur  |

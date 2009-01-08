@@ -11,11 +11,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Wij verlenen toestemming aan De Nederlandsche Bank N.V. om die werkzaamheden te verrichten die noodzakelijk zijn in het kader van de afwikkeling van het IJslandse depositogarantiestelsel.  
+Wij verlenen toestemming aan De Nederlandsche Bank N.V. om die werkzaamheden te verrichten die noodzakelijk zijn in het kader van de afwikkeling van het IJslandse depositogarantiestelsel. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
@@ -24,4 +24,4 @@ Beatrix
 
 De 
 Minister van Financiën, 
-W.J.Bos   
+W.J. Bos     

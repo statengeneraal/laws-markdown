@@ -2,16 +2,16 @@
 
 ##Besluit Kosovo-medaille
 
-De Minister van Defensie;  
+De Minister van Defensie; 
 Overwegende,
 
-dat personeel van alle krijgsmachtdelen heeft deelgenomen aan verschillende operaties in en rond Kosovo;  
+dat personeel van alle krijgsmachtdelen heeft deelgenomen aan verschillende operaties in en rond Kosovo;
 
-dat het desbetreffende personeel op soms zeer korte termijn is uitgezonden en is ingezet onder risicovolle en primitieve omstandigheden;  
+dat het desbetreffende personeel op soms zeer korte termijn is uitgezonden en is ingezet onder risicovolle en primitieve omstandigheden;
 
-dat het optreden van het desbetreffende personeel in hoge mate heeft bijgedragen aan de inspanningen van de internationale gemeenschap een oplossing voor het Kosovo-conflict te bewerkstelligen;  
+dat het optreden van het desbetreffende personeel in hoge mate heeft bijgedragen aan de inspanningen van de internationale gemeenschap een oplossing voor het Kosovo-conflict te bewerkstelligen;
 
-dat het wenselijk is erkentelijkheid tot uitdrukking te brengen jegens dat personeel, ongeacht de duur van die deelname,     Besluit:    
+dat het wenselijk is erkentelijkheid tot uitdrukking te brengen jegens dat personeel, ongeacht de duur van die deelname,  Besluit:     
 
 ### Artikel  1  
 
@@ -26,17 +26,17 @@ Er wordt ingesteld de Kosovo-medaille.
 
 1.  De Kosovo-medaille wordt eenmalig toegekend aan hen die van overheidswege in Nederlands militair verband daadwerkelijk zijn uitgezonden naar en hebben deelgenomen aan een of meer van de volgende operaties in en rond Kosovo: 
 
-a. Joint Guarantor/Extraction Force,  
+a.  Joint Guarantor/Extraction Force, 
 
-b. Eagle Eye/Noble Anvil (NATO Kosovo Verificatie Missie),  
+b.  Eagle Eye/Noble Anvil (NATO Kosovo Verificatie Missie), 
 
-c. Allied Force,  
+c.  Allied Force, 
 
-d. Allied Harvest,  
+d.  Allied Harvest, 
 
-e. Joint Guardian (KFOR), of  
+e.  Joint Guardian (KFOR), of 
 
-f. Provide Shelter.     
+f.  Provide Shelter.    
 2.  De in het eerste lid bedoelde personen dienen bij hun deelname en optreden in alle opzichten een goede plichtsbetrachting en een goed gedrag te hebben getoond.   
 
 ### Artikel  4  
@@ -62,7 +62,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ### Artikel  9  
 
-Dit besluit wordt aangehaald als: Besluit Kosovo-medaille.  
+Dit besluit wordt aangehaald als: Besluit Kosovo-medaille. 
 Dit besluit zal in de Staatscourant worden geplaatst. Tevens zal het besluit worden gepubliceerd in deel 10-004 van de Ministeriële Publicaties en worden verzonden volgens bijgevoegde verzendlijst.   
 
 ‘s-Gravenhage 
@@ -70,4 +70,4 @@ Dit besluit zal in de Staatscourant worden geplaatst. Tevens zal het besluit wor
 
 De 
 Minister van Defensie, 
-F.H.G. deGrave    
+F.H.G. de Grave      

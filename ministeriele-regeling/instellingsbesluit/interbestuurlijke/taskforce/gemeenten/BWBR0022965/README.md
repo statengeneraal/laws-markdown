@@ -16,11 +16,11 @@ b. Minister: de Minister van Binnenlandse Zaken en Koninkrijksrelaties
 
 c. staatssecretaris: de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties  
 
-d. bestuursakkoord: ‘Samen aan de slag’, Bestuursakkoord rijk en gemeenten, juni 2007    
+d. bestuursakkoord: ‘Samen aan de slag’, Bestuursakkoord rijk en gemeenten, juni 2007   
 
 ### Artikel  2  
 
-Er is een Interbestuurlijke taskforce gemeenten.  
+Er is een Interbestuurlijke taskforce gemeenten. 
 
 ### Artikel  3  
 
@@ -35,7 +35,7 @@ c. de complexiteit van de bestuurlijke praktijk te reduceren door op een aantal 
 d. te onderzoeken op welke wijze de praktijk van intergemeentelijke samenwerking kan worden vergemakkelijkt.     
 2.  De taskforce wordt gevraagd het rapport ‘De eerste overheid’ van de commissie Van Aartsen en de resolutie die de VNG naar aanleiding van dat rapport op 10 september 2007 heeft vastgesteld, te betrekken bij haar werkzaamheden.   
 3.  De taskforce wordt gevraagd een half jaar na aanvang van haar werkzaamheden te rapporteren aan de Minister en staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, betrokken bewindslieden en aan de voorzitter van de VNG.   
-4.  Na het uitbrengen van het rapport is de taskforce opgeheven.   
+4.  Na het uitbrengen van het rapport is de taskforce opgeheven.  
 
 ### Artikel  4  
 
@@ -54,21 +54,21 @@ d. te onderzoeken op welke wijze de praktijk van intergemeentelijke samenwerking
 3.  Het secretariaat van de taskforce wordt gevoerd door ambtenaren van het rijk en de VNG.   
 4.  Het secretariaat wordt bij de uitoefening van zijn taak rechtstreeks aangestuurd door de commissie en voert zijn werkzaamheden onafhankelijk van de betrokken Ministers en de VNG uit.   
 5.  De taskforce kan, met inachtneming van de bepalingen van dit besluit, zijn werkwijze en die van het secretariaat regelen.   
-6.  Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt met inachtneming van de beheersregels, op grond van de [Archiefwet](../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) en het [Archiefbesluit](../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md). De bescheiden worden na het beëindigen van de werkzaamheden overgedragen aan het archief van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.   
+6.  Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt met inachtneming van de beheersregels, op grond van de [Archiefwet](../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) en het [Archiefbesluit](../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md). De bescheiden worden na het beëindigen van de werkzaamheden overgedragen aan het archief van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.  
 
 ### Artikel  5  
 
-De leden van de commissie kunnen op basis van het [Vacatiegeldenbesluit 1988](../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) een vacatiegeld van € 200,– per vergadering ontvangen voor hun werkzaamheden. De voorzitter van de taskforce kan op basis van het [Vacatiegeldenbesluit 1988](../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) een vacatiegeld van € 260,– per vergadering ontvangen voor zijn werkzaamheden.  
+De leden van de commissie kunnen op basis van het [Vacatiegeldenbesluit 1988](../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) een vacatiegeld van € 200,– per vergadering ontvangen voor hun werkzaamheden. De voorzitter van de taskforce kan op basis van het [Vacatiegeldenbesluit 1988](../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) een vacatiegeld van € 260,– per vergadering ontvangen voor zijn werkzaamheden. 
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  7  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Interbestuurlijke taskforce gemeenten.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Interbestuurlijke taskforce gemeenten. 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-G. terHorst   
+G. ter Horst     

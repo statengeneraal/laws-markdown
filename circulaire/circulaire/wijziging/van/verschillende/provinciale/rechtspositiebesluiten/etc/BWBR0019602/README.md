@@ -2,7 +2,7 @@
 
 ##Circulaire wijziging van verschillende provinciale rechtspositiebesluiten en -regelingen
 
-Aan: De commissarissen van de Koningin en de provinciebesturen     
+Aan: De commissarissen van de Koningin en de provinciebesturen   
 ### 1  
 
 ####Inleiding
@@ -60,11 +60,11 @@ Verder zijn in de verschillende rechtspositiebesluiten en -regelingen een aantal
 Informatie die betrekking heeft op politieke ambtsdragers, kunt u vinden op de internetsite van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties: www.minbzk.nl, openbaar bestuur, politieke ambtsdragers.      
 
 Hoogachtend, de 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+Minister van Binnenlandse Zaken en Koninkrijksrelaties,
 
-namens deze:  
+namens deze:
 
 de 
-Directeur-Generaal Koninkrijksrelaties en Bestuur, 
+Directeur-Generaal Koninkrijksrelaties en Bestuur,
 
 L.A.M. van Halder     

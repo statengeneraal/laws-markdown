@@ -11,20 +11,20 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Tabakswet.   
+Wijzigt de Tabakswet.  
 
 ### Artikel  II  
 
 1.  Verpakkingen van sigaretten die niet aan [artikel 3e van de Tabakswet](../../../../../../../../../wet/tabakswet/BWBR0004302/README.md) voldoen, mogen nog tot 30 september 2004 worden verkocht, mits zij zijn gefabriceerd vóór 30 september 2003.   
-2.  Verpakkingen van andere tabaksproducten dan sigaretten die niet aan [artikel 3e van de Tabakswet](../../../../../../../../../wet/tabakswet/BWBR0004302/README.md) voldoen, mogen nog tot 30 september 2005 worden verkocht, mits zij zijn gefabriceerd vóór 30 september 2003.   
+2.  Verpakkingen van andere tabaksproducten dan sigaretten die niet aan [artikel 3e van de Tabakswet](../../../../../../../../../wet/tabakswet/BWBR0004302/README.md) voldoen, mogen nog tot 30 september 2005 worden verkocht, mits zij zijn gefabriceerd vóór 30 september 2003.  
 
 ### Artikel  III  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten.  
 
 ### Artikel  IV  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

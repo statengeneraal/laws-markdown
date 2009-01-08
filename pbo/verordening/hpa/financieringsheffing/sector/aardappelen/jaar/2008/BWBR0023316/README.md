@@ -42,17 +42,17 @@ Deze verordening verstaat onder:
 ### Artikel  2  
 
 1.  De ondernemer die de groothandel in aardappelen uitoefent, is verplicht over het jaar 2008 aan het hoofdproductschap een heffing te betalen van € 23,– per 1000 ton verkochte, in Nederland geteelde, consumptieaardappelen en zetmeelaardappelen.   
-2.  De in het eerste lid bedoelde heffing is niet verschuldigd over de consumptieaardappelen en zetmeelaardappelen die verkocht zijn aan in Nederland gevestigde ondernemers die de groothandel in aardappelen uitoefenen of aan ondernemers in de aardappelverwerkende industrie.   
+2.  De in het eerste lid bedoelde heffing is niet verschuldigd over de consumptieaardappelen en zetmeelaardappelen die verkocht zijn aan in Nederland gevestigde ondernemers die de groothandel in aardappelen uitoefenen of aan ondernemers in de aardappelverwerkende industrie.  
 
 ### Artikel  3  
 
 1.  De ondernemer die aardappelen uit derde landen invoert, is verplicht over het jaar 2008 aan het hoofdproductschap een heffing te betalen van € 450,– per 1000 ton aardappelen.   
-2.  De in het eerste lid bedoelde heffing is niet verschuldigd over de ingevoerde aardappelen, die door de ondememer zelf wederom zijn uitgevoerd.   
+2.  De in het eerste lid bedoelde heffing is niet verschuldigd over de ingevoerde aardappelen, die door de ondememer zelf wederom zijn uitgevoerd.  
 
 ### Artikel  4  
 
 1.  De ondernemer die aardappelen teelt, is verplicht over het jaar 2008 aan het hoofdproductschap een heffing te betalen per hectare geteelde aardappelen van € 0,20 per hectare.   
-2.  De berekening van de in het eerste lid bedoelde heffing vindt plaats op basis van de door de ondernemer aan het hoofdproductschap ingevolge de bij of krachtens de [Verordening HPA registratie en verstrekking van gegevens 2003](../../../../../../../../../pbo/verordening/hpa/registratie/en/verstrekking/van/gegevens/2003/BWBR0014846/README.md) verstrekte gegevens.   
+2.  De berekening van de in het eerste lid bedoelde heffing vindt plaats op basis van de door de ondernemer aan het hoofdproductschap ingevolge de bij of krachtens de [Verordening HPA registratie en verstrekking van gegevens 2003](../../../../../../../../../pbo/verordening/hpa/registratie/en/verstrekking/van/gegevens/2003/BWBR0014846/README.md) verstrekte gegevens.  
 
 ### Artikel  5  
 
@@ -70,7 +70,7 @@ c. tot de werkingssfeer van het hoofdproductschap behorende leden heeft, waarvan
 d. met betrekking tot de behartiging van sociaal-economische belangen van ondernemers een positie van enige betekenis inneemt binnen de groep van ondernemers die zij beoogt te organiseren, hetgeen onder meer kan blijken uit de mate van representativiteit binnen die groep, de deelname aan het arbeidsvoorwaardenoverleg, het verrichten van studies of diensten die ook buiten die groep van belang worden geacht en de deelname aan regelmatig overleg met de overheid, en  
 
 e. haar activiteiten, al dan niet door middel van een federatie van gelijksoortige organisaties, landelijk ontplooit.     
-5.  De in het vierde lid bedoelde aftrek wordt slechts toegestaan indien daartoe door het bestuur van de desbetreffende organisatie een verzoek is gedaan en de organisatie vervolgens door het bestuur is aangewezen.   
+5.  De in het vierde lid bedoelde aftrek wordt slechts toegestaan indien daartoe door het bestuur van de desbetreffende organisatie een verzoek is gedaan en de organisatie vervolgens door het bestuur is aangewezen.  
 
 ### Artikel  6  
 
@@ -79,11 +79,11 @@ e. haar activiteiten, al dan niet door middel van een federatie van gelijksoorti
 a. aflevert aan derden dan wel  
 
 b. verwerkt tot aardappelzetmeelderivaten is verplicht over het jaar 2008 aan het hoofdproductschap een heffing te betalen van € 110,– per 1000 ton berekend over de hoeveelheden afgeleverd onderscheidenlijk verwerkt aardappelzetmeel.     
-2.  De ondernemer, die in zijn onderneming van aardappelzetmeel glucose (dextrose daaronder begrepen) en/of soortgelijke producten vervaardigt, is verplicht over het jaar 2008 aan het hoofdproductschap een heffing te betalen van € 110,– per 1000 ton berekend over de afgeleverde hoeveelheden aardappelzetmeelproduct.   
+2.  De ondernemer, die in zijn onderneming van aardappelzetmeel glucose (dextrose daaronder begrepen) en/of soortgelijke producten vervaardigt, is verplicht over het jaar 2008 aan het hoofdproductschap een heffing te betalen van € 110,– per 1000 ton berekend over de afgeleverde hoeveelheden aardappelzetmeelproduct.  
 
 ### Artikel  7  
 
-De heffingen bedoeld in de artikelen 2, 3, 4, 5 en 6 zijn bestemd voor de huishoudelijke uitgaven van hoofdproductschap.  
+De heffingen bedoeld in de artikelen 2, 3, 4, 5 en 6 zijn bestemd voor de huishoudelijke uitgaven van hoofdproductschap. 
 
 ### Artikel  8  
 
@@ -93,7 +93,7 @@ De heffingen bedoeld in de artikelen 2, 3, 4, 5 en 6 zijn bestemd voor de huisho
 4.  Indien in een bepaalde maand geen activiteiten als bedoeld in artikel 5 hebben plaatsgevonden, dient ook dit gegeven te worden opgegeven.   
 5.  De opgave ten behoeve van de heffing, bedoeld in artikel 6 wordt binnen 4 weken na afloop van een halfjaarlijkse termijn (februari tot en met juli en augustus tot en met januari) gedaan.   
 6.  De ondememer die ingevolge de artikelen 5 en 6 heffingsplichtig is legt, indien de secretaris daarom verzoekt, een door een accountant afgegeven verklaring over, waaruit blijkt de totale hoeveelheid in het jaar 2008 verwerkte hoeveelheid aardappelen tot aardappelproducten en de totale hoeveelheid ingevoerde aardappelen die tot aardappelproducten zijn verwerkt.   
-7.  De ondernemer is verplicht alle medewerking te verlenen aan de controle door of namens het hoofdproductschap van de in het eerste lid bedoelde opgave.   
+7.  De ondernemer is verplicht alle medewerking te verlenen aan de controle door of namens het hoofdproductschap van de in het eerste lid bedoelde opgave.  
 
 ### §  3  
 
@@ -103,7 +103,7 @@ De heffingen bedoeld in de artikelen 2, 3, 4, 5 en 6 zijn bestemd voor de huisho
 
 1.  Indien de ondernemer de gegevens, bedoeld in artikel 4, tweede lid dan wel artikel 8, eerste lid niet, niet-tijdig of niet volledig heeft verstrekt, is de secretaris, namens het bestuur, bevoegd de verschuldigde heffing ambtshalve bij aanslag vast te stellen.   
 2.  Indien de heffingsplichtige binnen 21 dagen na ontvangst van de heffingsaanslag bedoeld in het eerste lid, alsnog de gevraagde gegevens verstrekt, wordt de aanvankelijk vastgestelde heffing ingetrokken en een nieuwe heffing vastgesteld op basis van de door hem verstrekte gegevens.   
-3.  Indien het hoofdproductschap op verzoek van de ondememer, nadat de termijn genoemd in het tweede lid verstreken is, alsnog overgaat tot wijziging van de ambtshalve vastgestelde heffing, kunnen de voor het hoofdproductschap daaruit voortvloeiende extra kosten in rekening worden gebracht.   
+3.  Indien het hoofdproductschap op verzoek van de ondememer, nadat de termijn genoemd in het tweede lid verstreken is, alsnog overgaat tot wijziging van de ambtshalve vastgestelde heffing, kunnen de voor het hoofdproductschap daaruit voortvloeiende extra kosten in rekening worden gebracht.  
 
 ### §  4  
 
@@ -113,7 +113,7 @@ De heffingen bedoeld in de artikelen 2, 3, 4, 5 en 6 zijn bestemd voor de huisho
 
 1.  De ingevolge deze verordening verschuldigde heffingsbedragen worden betaald uiterlijk op de eenentwintigste dag volgend op die waarop zij door of vanwege het hoofdproductschap aan de hand van nota's in rekening zijn gebracht, dan wel, indien de secretaris, namens het bestuur van het hoofdproductschap, zulks verlangt, voor een door deze te bepalen datum.   
 2.  Het hoofdbedrijfschap is belast met de inning van de heffing bedoeld in de artikelen 2 en 3, het hoofdproductschap is belast met de inning van de heffing bedoeld in de artikelen 4, 5 en 6.   
-3.  Het hoofdproductschap is bevoegd tot verrekening van door de ondernemer aan het hoofdproductschap verschuldigde bedragen met door de ondernemer van het hoofdproductschap te ontvangen bedragen over te gaan   
+3.  Het hoofdproductschap is bevoegd tot verrekening van door de ondernemer aan het hoofdproductschap verschuldigde bedragen met door de ondernemer van het hoofdproductschap te ontvangen bedragen over te gaan  
 
 ### Artikel  11  
 
@@ -123,15 +123,15 @@ a. zodra het faillissement van de ondernemer is aangevraagd;
 
 b. zodra de ondernemer het drijven van de onderneming beëindigt of van het voornemen daarvan blijkt; of  
 
-c. zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van het voornemen daartoe blijkt.    
+c. zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van het voornemen daartoe blijkt.   
 
 ### Artikel  12  
 
-De secretaris kan, namens het bestuur, besluiten nota’s met een bedrag minder dan € 50,– samen te voegen tot verzamelnota’s, welke op meerdere transacties of perioden betrekking hebben.  
+De secretaris kan, namens het bestuur, besluiten nota’s met een bedrag minder dan € 50,– samen te voegen tot verzamelnota’s, welke op meerdere transacties of perioden betrekking hebben. 
 
 ### Artikel  13  
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 9 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).  
+Aan de ondernemer die niet of niet geheel binnen de in artikel 9 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
 
 ### §  5  
 
@@ -144,20 +144,20 @@ Aan de ondernemer die niet of niet geheel binnen de in artikel 9 gestelde termij
 a. slechts worden gebruikt ter vervulling van de taak van het hoofdproductschap  
 
 b. niet onder vermelding of aanduiding van de persoon en/of onderneming, waarop zij betrekking hebben, worden bekend gemaakt aan anderen dan de voorzitter, de secretarissen of andere personen van het secretariaat van het hoofdproductschap en de met financiële controle op het hoofdproductschap belaste accountant en diens personeel, voorzover het kennis nemen van die gegevens voor die controle noodzakelijk is.     
-2.  Bekendmaking van gegevens, als in het eerste lid bedoeld, blijft ook zonder vermelding of aanduiding van de persoon en/of onderneming, waarop zij betrekking hebben, achterwege in de gevallen waarin uit de aard der gegevens dan wel of zomede uit een of meer andere omstandigheden zou kunnen blijken op welke persoon en/of onderneming die gegevens betrekking hebben.   
+2.  Bekendmaking van gegevens, als in het eerste lid bedoeld, blijft ook zonder vermelding of aanduiding van de persoon en/of onderneming, waarop zij betrekking hebben, achterwege in de gevallen waarin uit de aard der gegevens dan wel of zomede uit een of meer andere omstandigheden zou kunnen blijken op welke persoon en/of onderneming die gegevens betrekking hebben.  
 
 ### Artikel  15  
 
-Deze verordening treedt in werking met ingang van 1 januari 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2007, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2008, met uitzondering van het in [artikel 12 van de Verordening HPA registratie en verstrekking van gegevens 2003](../../../../../../../../../pbo/verordening/hpa/registratie/en/verstrekking/van/gegevens/2003/BWBR0014846/README.md) bepaalde.  
+Deze verordening treedt in werking met ingang van 1 januari 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2007, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2008, met uitzondering van het in [artikel 12 van de Verordening HPA registratie en verstrekking van gegevens 2003](../../../../../../../../../pbo/verordening/hpa/registratie/en/verstrekking/van/gegevens/2003/BWBR0014846/README.md) bepaalde. 
 
 ### Artikel  16  
 
-Deze verordening wordt aangehaald als Verordening HPA financieringsheffing sector aardappelen jaar 2008.  
+Deze verordening wordt aangehaald als Verordening HPA financieringsheffing sector aardappelen jaar 2008. 
 
 Den Haag 
 8 november 2007   
 
-Th.A.M. Meijer  
+Th.A.M.  Meijer  
 voorzitter  
 
 P. Hijma  

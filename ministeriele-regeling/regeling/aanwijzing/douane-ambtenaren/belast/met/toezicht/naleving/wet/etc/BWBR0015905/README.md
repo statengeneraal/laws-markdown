@@ -8,13 +8,13 @@ Besluit:
 
 ### Artikel  1  
 
-Naast de ambtenaren, genoemd in [artikel 20, eerste lid, van de Wet inzake bloedvoorziening](../../../../../../../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md), zijn met het toezicht op de naleving van het bepaalde bij of krachtens de [Wet inzake bloedvoorziening](../../../../../../../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md) belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane.  
+Naast de ambtenaren, genoemd in [artikel 20, eerste lid, van de Wet inzake bloedvoorziening](../../../../../../../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md), zijn met het toezicht op de naleving van het bepaalde bij of krachtens de [Wet inzake bloedvoorziening](../../../../../../../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md) belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport
-J.F.Hoogervorst    
+Minister van Volksgezondheid, Welzijn en Sport 
+J.F. Hoogervorst      

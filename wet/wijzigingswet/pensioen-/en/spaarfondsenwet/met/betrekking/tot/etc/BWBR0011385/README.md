@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Pensioen- en spaarfondsenwet.   
+Wijzigt de Pensioen- en spaarfondsenwet.  
 
 ### Artikel  II  
 
-[Artikel 2c van de Pensioen- en spaarfondsenwet](../../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md), zoals dat artikel luidde voor inwerkingtreding van artikel I, onderdeel A, blijft van toepassing op personen wier deelnemerschap aan een pensioenregeling waarin wijzigingen in rechten en verplichtingen op grond van genoemd artikel 2c zijn ontstaan, voor de dag van inwerkingtreding van artikel I, onderdeel A, van deze wet is geëindigd.  
+[Artikel 2c van de Pensioen- en spaarfondsenwet](../../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md), zoals dat artikel luidde voor inwerkingtreding van artikel I, onderdeel A, blijft van toepassing op personen wier deelnemerschap aan een pensioenregeling waarin wijzigingen in rechten en verplichtingen op grond van genoemd artikel 2c zijn ontstaan, voor de dag van inwerkingtreding van artikel I, onderdeel A, van deze wet is geëindigd. 
 
 ### Artikel  III  
 
@@ -24,7 +24,7 @@ Wijzigt de Pensioen- en spaarfondsenwet.
 
 ### Artikel  IV  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen, onderdelen van artikelen of leden van artikelen verschillend kan luiden.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen, onderdelen van artikelen of leden van artikelen verschillend kan luiden. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

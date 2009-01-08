@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit aanwijzing KMCGS ex artikelen 11.1 en 11.3 Wet luchtvaart
+##Besluit aanwijzing KMCGS ex artikelen 11.1 en 11.3 Wet luchtvaart 
 
 De Minister van Defensie,  
 Gelet op [artikel 11.1, eerste lid, onderdeel c](../../../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), en [artikel 11.3, eerste lid, van de Wet luchtvaart](../../../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -20,7 +20,7 @@ Dit besluit wordt aangehaald als: [Besluit aanwijzing KMCGS ex artikelen 11.1 en
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -28,4 +28,4 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Defensie, 
-H.G.J.Kamp    
+H.G.J.  Kamp      

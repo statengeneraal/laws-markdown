@@ -10,14 +10,14 @@ Besluit:
 
 ####Subsidieplafond
 
-1.  Het subsidieplafond, bedoeld in [artikel 12, eerste lid, van de SZW-subsidieregeling preventie arbeidsuitva](../../../../../../../../../ministeriele-regeling/szw-subsidieregeling/preventie/van/arbeidsuitval/BWBR0016933/README.md) l wordt voor het kalenderjaar 2006 vastgesteld op € 1.200.000,–.   
-2.  Het subsidieplafond wordt gelijkelijk toegerekend aan de behandelingstermijnen, bedoeld in artikel 2.   
+1.  Het subsidieplafond, bedoeld in [artikel 12, eerste lid, van de SZW-subsidieregeling preventie arbeidsuitva](../../../../../../../../../ministeriele-regeling/szw-subsidieregeling/preventie/van/arbeidsuitval/BWBR0016933/README.md)l wordt voor het kalenderjaar 2006 vastgesteld op € 1.200.000,–.   
+2.  Het subsidieplafond wordt gelijkelijk toegerekend aan de behandelingstermijnen, bedoeld in artikel 2.  
 
 ### Artikel  2  
 
 ####Behandelingstermijnen
 
-De behandelingstermijnen, bedoeld in [artikel 13, eerste lid, van de SZW-subsidieregeling preventie van arbeidsuitval](../../../../../../../../../ministeriele-regeling/szw-subsidieregeling/preventie/van/arbeidsuitval/BWBR0016933/README.md), worden voor het jaar 2006 vastgesteld op de termijn van 20 maart 2006 tot en met 27 april 2006 en de termijn van 14 augustus 2006 tot en met 21 september 2006.  
+De behandelingstermijnen, bedoeld in [artikel 13, eerste lid, van de SZW-subsidieregeling preventie van arbeidsuitval](../../../../../../../../../ministeriele-regeling/szw-subsidieregeling/preventie/van/arbeidsuitval/BWBR0016933/README.md), worden voor het jaar 2006 vastgesteld op de termijn van 20 maart 2006 tot en met 27 april 2006 en de termijn van 14 augustus 2006 tot en met 21 september 2006. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -25,4 +25,4 @@ Den Haag
 
 De 
 Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
-H.A.L. vanHoof   
+H.A.L. van Hoof     

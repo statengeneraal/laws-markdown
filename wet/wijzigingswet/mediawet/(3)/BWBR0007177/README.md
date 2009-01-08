@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Ingeval Onze Minister van Onderwijs, Cultuur en Wetenschappen vóór de datum van inwerkingtreding van deze wet aan omroepverenigingen concessies voor landelijke omroep als bedoeld in [artikel 31, eerste lid, van de Mediawet](../../../../../wet/mediawet/BWBR0004149/README.md) heeft verleend voor een periode van tien jaren, worden deze concessies met ingang van de datum van inwerkingtreding van deze wet van rechtswege omgezet in concessies voor een periode van vijf jaren.  
+Ingeval Onze Minister van Onderwijs, Cultuur en Wetenschappen vóór de datum van inwerkingtreding van deze wet aan omroepverenigingen concessies voor landelijke omroep als bedoeld in [artikel 31, eerste lid, van de Mediawet](../../../../../wet/mediawet/BWBR0004149/README.md) heeft verleend voor een periode van tien jaren, worden deze concessies met ingang van de datum van inwerkingtreding van deze wet van rechtswege omgezet in concessies voor een periode van vijf jaren. 
 
 ### Artikel  III  
 
-Ingeval het Commissariaat voor de Media vóór de datum van inwerkingtreding van deze wet aan kerkgenootschappen en genootschappen op geestelijke grondslag zendtijd voor landelijke omroep als bedoeld in [artikel 39 *f*, eerste lid, van de Mediawet](../../../../../wet/mediawet/BWBR0004149/README.md) heeft toegewezen voor een periode van tien jaren, wordt deze zendtijd met ingang van de datum van inwerkingtreding van deze wet van rechtswege omgezet in zendtijd voor een periode van vijf jaren.  
+Ingeval het Commissariaat voor de Media vóór de datum van inwerkingtreding van deze wet aan kerkgenootschappen en genootschappen op geestelijke grondslag zendtijd voor landelijke omroep als bedoeld in [artikel 39*f*, eerste lid, van de Mediawet](../../../../../wet/mediawet/BWBR0004149/README.md) heeft toegewezen voor een periode van tien jaren, wordt deze zendtijd met ingang van de datum van inwerkingtreding van deze wet van rechtswege omgezet in zendtijd voor een periode van vijf jaren. 
 
 ### Artikel  IV  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

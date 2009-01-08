@@ -12,7 +12,7 @@ Besluiten:
 
 ### Artikel  1  
 
-Er is een Adviesgroep bestrijding anti-homoseksueel gedrag, welke tot taak heeft advies uit te brengen aan de ministers van Justitie en Binnenlandse Zaken en de andere betrokken ministers over de mogelijke verbeteringen bij de voorkoming en bestrijding van strafrechtelijk relevant anti-homoseksueel gedrag.  
+Er is een Adviesgroep bestrijding anti-homoseksueel gedrag, welke tot taak heeft advies uit te brengen aan de ministers van Justitie en Binnenlandse Zaken en de andere betrokken ministers over de mogelijke verbeteringen bij de voorkoming en bestrijding van strafrechtelijk relevant anti-homoseksueel gedrag. 
 
 ### Artikel  2  
 
@@ -32,13 +32,13 @@ het seponeringsbeleid
 
 politiële en justitiële slachtofferhulp  
 
-deskundigheidsbevordering    
+deskundigheidsbevordering   
 
 ### Artikel  3  
 
 In de adviesgroep worden benoemd: 
 
-a. *tot voorzitter*: Mevrouw mr. A. J. T. M. Franken -van Zinnicq Bergmann, advocaat-generaal te 's-Hertogenbosch.  
+a.  *tot voorzitter*: Mevrouw mr. A. J. T. M. Franken -van Zinnicq Bergmann, advocaat-generaal te 's-Hertogenbosch.  
 
 b.  *tot leden:*  
 
@@ -58,23 +58,23 @@ de heer J. A. de Jong, ministerie van Defensie,
 
 mevrouw E. Visser, Centrum Anti-discriminatie Homoseksualiteit,  
 
-de heer J. J. Stevens, mevrouw drs. J. Schuyf, en nog nader aan te wijzen vertegenwoordigers van de zijde van de Vereniging van Nederlandse Gemeenten en de Politie.      
+de heer J. J. Stevens, mevrouw drs. J. Schuyf, en nog nader aan te wijzen vertegenwoordigers van de zijde van de Vereniging van Nederlandse Gemeenten en de Politie.     
 
 ### Artikel  4  
 
-De adviesgroep kan zich op onderdelen van haar taak laten bijstaan door personen van zowel binnen als buiten de overheid, wier deskundige inbreng van belang kan zijn in verband met de zorgvuldige voorbereiding en totstandkoming van het advies.  
+De adviesgroep kan zich op onderdelen van haar taak laten bijstaan door personen van zowel binnen als buiten de overheid, wier deskundige inbreng van belang kan zijn in verband met de zorgvuldige voorbereiding en totstandkoming van het advies. 
 
 ### Artikel  5  
 
-Dit besluit wordt gepubliceerd in de Staatscourant en het Algemeen Politieblad en in afschrift toegezonden aan de Algemene Rekenkamer. Dit besluit treedt in werking één dag na publikatie in de Staatscourant.  
+Dit besluit wordt gepubliceerd in de Staatscourant en het Algemeen Politieblad en in afschrift toegezonden aan de Algemene Rekenkamer. Dit besluit treedt in werking één dag na publikatie in de Staatscourant. 
 
 's-Gravenhage 
 19 september 1990    
 
 De 
 minister van Justitie, 
-E. M. H.Hirsch Ballin, 
+E. M. H.Hirsch Ballin , 
 
 De 
 minister van Binnenlandse Zaken, 
-C. I.Dales    
+C. I. Dales      

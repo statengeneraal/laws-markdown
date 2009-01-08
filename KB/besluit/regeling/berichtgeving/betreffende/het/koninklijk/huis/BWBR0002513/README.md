@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De Directeur van de Rijksvoorlichtingsdienst zal Ons en de leden van Ons Huis desgevraagd of op eigen initiatief adviseren in de publiciteitsaangelegenheden Ons Huis betreffende.  
+De Directeur van de Rijksvoorlichtingsdienst zal Ons en de leden van Ons Huis desgevraagd of op eigen initiatief adviseren in de publiciteitsaangelegenheden Ons Huis betreffende. 
 
 ### Artikel  2  
 
-De Rijksvoorlichtingsdienst wordt belast met de voorbereiding en de uitvoering van de berichtgeving betreffende Ons Huis. Hiertoe werkt de Directeur, of daartoe aangewezen ambtenaren van die dienst, zo nauw mogelijk samen met de daartoe door Ons aangewezen functionarissen van Ons Huis.  
+De Rijksvoorlichtingsdienst wordt belast met de voorbereiding en de uitvoering van de berichtgeving betreffende Ons Huis. Hiertoe werkt de Directeur, of daartoe aangewezen ambtenaren van die dienst, zo nauw mogelijk samen met de daartoe door Ons aangewezen functionarissen van Ons Huis. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de dag van uitgifte van het *Staatsblad* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
 Onze Minister-President, Minister van Algemene Zaken, is belast met de uitvoering van dit Besluit.   
 

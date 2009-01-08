@@ -3,12 +3,12 @@
 ##Regeling film HGIS-cultuurmiddelen mei 2006
 
 Deze regeling geldt, voor zover van toepassing, onverminderd en in aanvulling op het bepaalde in het bijdragenreglement van het Nederlands Fonds voor de Film (hierna: het fonds).   
-### 1  
+### 1 
 
 ####Doel
 
 Doel van alle activiteiten in het kader van deze regeling is het stimuleren van de profilering, kennisontwikkeling, kennisverspreiding en promotie van de Nederlandse film in het buitenland en de ontwikkeling van projecten, van bijvoorbeeld Nederlandse filmfestivals, die hieraan een bijdrage leveren. Het Ministerie van Buitenlandse Zaken stelt het fonds voor 2006 € 400.000,– beschikbaar uit de HGIS-cultuurmiddelen. De HGIS-cultuurmiddelen zijn bedoeld voor projecten die bij voorkeur plaatsvinden in de prioriteitslanden waarop het Internationaal Cultuurbeleid zich richt, dan wel in samenwerking met daaruit afkomstige professionals worden uitgevoerd. Dit zijn de lidstaten van de Europese Unie en verder: Kroatië, Roemenië, Bulgarije, Turkije, Canada, Verenigde Staten, Japan, Suriname, Zuid-Afrika, Indonesië, Rusland, Egypte, Marokko en China.    
-### 2  
+### 2 
 
 ####Algemene bepalingen
 
@@ -21,7 +21,7 @@ Doel van alle activiteiten in het kader van deze regeling is het stimuleren van 
 – daar waar deze regeling of het bijdragenreglement niet in voorziet beslist het bestuur;  
 
 – voorafgaande aan de uitvoering van de activiteit waarvoor subsidie is verleend, dienen relevante gegevens te worden gemeld bij de stichting Internationale Culturele Activiteiten te Amsterdam      
-### 3  
+### 3 
 
 ####Categorieën projecten
 
@@ -36,7 +36,7 @@ Manifestaties
 – uitsluitend incidentele activiteiten die als doel hebben het stimuleren van de profilering, kennisontwikkeling, kennisverspreiding en promotie van de Nederlandse film in het buitenland en de ontwikkeling van projecten die hieraan een bijdrage leveren, komen voor subsidie in aanmerking;  
 
 – vergoeding van reis- en verblijfkosten van filmmakers uit het buitenland met als doel het stimuleren van de profilering, kennisontwikkeling, kennisverspreiding en promotie van de buitenlandse film in Nederland. Een aanvraag in de hier bedoelde zin kan uitsluitend worden gedaan door een in Nederland gevestigde rechtspersoon wier hoofdactiviteit bestaat uit het leveren van een bijdrage aan de kwaliteit en diversiteit van film in Nederland en aan een voor de filmkunst ontvankelijk klimaat in Nederland.    Publicaties – buitenlandse publicaties over films en filmmakers uit Nederland die als doel hebben het stimuleren van de profilering, kennisontwikkeling, kennisverspreiding en promotie van de Nederlandse film in het buitenland en de ontwikkeling van projecten die hieraan een bijdrage leveren.     
-### 4  
+### 4 
 
 ####Formele en materiële eisen
 
@@ -47,7 +47,7 @@ Voor aanvragen van subsidie in het kader van deze voorlopige regeling gelden de 
 – aanvragen voor projecten waarvan de uitvoering is voorgenomen in de periode van 1 juli tot en met 31 december worden voor 15 april daaraan voorafgaand ingediend.  
 
 – de beslissing op aanvragen wordt zo mogelijk genomen voor 1 december respectievelijk 1 juni.      
-### 5  
+### 5 
 
 ####Beoordeling
 

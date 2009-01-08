@@ -99,7 +99,7 @@ De wederverkoper moet het goed verkregen hebben van een niet-aftrekgerechtigde l
 Het goed moet in één van de lid-staten aan de wederverkoper geleverd zijn (zie [artikel 28b, tweede lid, van de wet](../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)). Dat betekent dat de margeregeling buiten toepassing blijft, als de plaats van levering op grond van de wet buiten de Gemeenschap ligt. Het is daarbij niet van belang door wie of in wiens opdracht de invoer van het goed plaatsvindt. Op deze voorwaarde geldt een uitzondering voor kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten die door de wederverkoper zelf worden ingevoerd (zie hoofdstuk 5). 
 ###Ad e
 
-Van wederverkoop in het kader van de normale bedrijfsuitoefening is niet alleen sprake bij in- en verkoop van (marge)goederen. Ook als margegoederen worden ingekocht, vervolgens bedrijfsmatig worden gebruikt en daarna worden verkocht, kan die verkoop onder de margeregeling vallen (zie ook onderdeel 3.3). <sup> 1  Hof van Justitie, 8 december 2005, nr. C-280, Jyske Finans, V-N 2005/60.21 en Hof ’s-Hertogenbosch, 15 maart 2006, nr. 02/5143, V-N 2006/49.20.  </sup> 
+Van wederverkoop in het kader van de normale bedrijfsuitoefening is niet alleen sprake bij in- en verkoop van (marge)goederen. Ook als margegoederen worden ingekocht, vervolgens bedrijfsmatig worden gebruikt en daarna worden verkocht, kan die verkoop onder de margeregeling vallen<sup>1Hof van Justitie, 8 december 2005, nr. C-280, Jyske Finans, V-N 2005/60.21 en Hof ’s-Hertogenbosch, 15 maart 2006, nr. 02/5143, V-N 2006/49.20.</sup> (zie ook onderdeel 3.3). 
 ###Ad f
 
 Aan toepassing van de margeregeling is de voorwaarde verbonden dat de wederverkoper geen factuur uitreikt waarop hij de btw afzonderlijk vermeldt ([artikel 28f, eerste lid](../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), in samenhang met [artikel 28h, tweede lid, van de wet](../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)). Reikt de wederverkoper een factuur uit met aparte vermelding van btw, dan maakt hij gebruik van zijn recht om de margeregeling buiten toepassing te laten. De wederverkoper kiest dan voor het normale btw-regime en is belasting verschuldigd over de gehele vergoeding. Zie ook onderdeel 3.8.    
@@ -112,7 +112,7 @@ Onder het begrip ‘wederverkoper’ wordt verstaan: ‘de ondernemer wiens acti
 
 ####Gebruikte goederen
 
-’Gebruikte goederen’ zijn alle roerende lichamelijke zaken die, in de staat waarin zij verkeren of na herstelling daarvan, opnieuw kunnen worden gebruikt (zie [artikel 2a, eerste lid, onderdeel l, van de wet](../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)). Van deze definitie zijn uitgezonderd nieuwe vervoermiddelen die worden verzonden of vervoerd van een lid-staat naar een andere lid-staat (zie ook onderdeel 7.2) en onbewerkte edele metalen en onbewerkte edelstenen (zie [artikel 4, eerste lid, van de uitvoeringsbeschikking](../../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md)). <sup> 2  Volgens de wet worden vervoermiddelen ook als nieuw aangemerkt als sprake is geweest van beperkt gebruik (zie artikel 2a, eerste lid, onderdeel f, van de wet).  </sup> De definitie houdt in, dat de goederen, al dan niet na herstel, te gebruiken zijn overeenkomstig de oorspronkelijke bestemming. Goederen die zo versleten zijn dat zij alleen nog kunnen worden gebruikt als grondstof, hulpstof of halffabrikaat, zijn dus geen gebruikte goederen in de zin van de wet. Uit de definitie volgt verder, dat goederen die door of in opdracht van de wederverkoper vervaardigd zijn, geen gebruikte goederen zijn.    
+’Gebruikte goederen’ zijn alle roerende lichamelijke zaken die, in de staat waarin zij verkeren of na herstelling daarvan, opnieuw kunnen worden gebruikt (zie [artikel 2a, eerste lid, onderdeel l, van de wet](../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)). Van deze definitie zijn uitgezonderd nieuwe vervoermiddelen<sup>2Volgens de wet worden vervoermiddelen ook als nieuw aangemerkt als sprake is geweest van beperkt gebruik (zie artikel 2a, eerste lid, onderdeel f, van de wet).</sup> die worden verzonden of vervoerd van een lid-staat naar een andere lid-staat (zie ook onderdeel 7.2) en onbewerkte edele metalen en onbewerkte edelstenen (zie [artikel 4, eerste lid, van de uitvoeringsbeschikking](../../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md)). De definitie houdt in, dat de goederen, al dan niet na herstel, te gebruiken zijn overeenkomstig de oorspronkelijke bestemming. Goederen die zo versleten zijn dat zij alleen nog kunnen worden gebruikt als grondstof, hulpstof of halffabrikaat, zijn dus geen gebruikte goederen in de zin van de wet. Uit de definitie volgt verder, dat goederen die door of in opdracht van de wederverkoper vervaardigd zijn, geen gebruikte goederen zijn.    
 ### 3.5  
 
 ####Levering aan de wederverkoper
@@ -163,7 +163,7 @@ c. de leverancier is een in een andere lid-staat gevestigde wederverkoper, die h
 
 ####Belang van een juiste factuur
 
-De situaties die zijn beschreven in de onderdelen 3.5.1 tot en met 3.5.5 hebben met elkaar gemeen, dat aan de wederkoper goederen worden geleverd zonder een factuur waarop afzonderlijk btw is vermeld. Het is mogelijk dat de leverancier aan de wederverkoper ten onrechte geen factuur of een factuur zonder afzonderlijke vermelding van btw heeft afgegeven. De wederverkoper kan dan voor die goederen de margeregeling niet toepassen als hij wist of redelijkerwijs had moeten vermoeden dat zijn leverancier ten onrechte geen factuur of geen factuur met afzonderlijke vermelding van btw uitreikte. Bij twijfel hierover heeft de wederverkoper een onderzoeksplicht. Daaraan heeft de wederverkoper voldaan als blijkt of redelijkerwijs kan worden aangenomen dat hij er niet aan hoefde te twijfelen dat aan hem terecht geen factuur of geen factuur met afzonderlijke vermelding van btw is uitgereikt. Hetzelfde geldt als de wederverkoper is afgegaan op mededelingen van de leverancier en geen aanleiding had om aan de juistheid van die mededelingen te twijfelen. In beide gevallen geldt dat de wederverkoper de toepassing van de margeregeling niet hoeft te corrigeren als achteraf toch nog een factuur met afzonderlijke vermelding van btw wordt uitgereikt en hij die btw aan zijn leverancier voldoet. De wederverkoper mag deze nagefactureerde btw dan niet in aftrek brengen maar kan die btw wel tot de inkoopprijs van het goed rekenen. <sup> 3  Hieronder valt ook het ten onrechte achterwege laten van het 0%-tarief bij intracommunautaire transacties (levering door een buitenlandse ondernemer; zie onderdeel 3.5.5).  </sup>    
+De situaties die zijn beschreven in de onderdelen 3.5.1 tot en met 3.5.5 hebben met elkaar gemeen, dat aan de wederkoper goederen worden geleverd zonder een factuur waarop afzonderlijk btw is vermeld. Het is mogelijk dat de leverancier aan de wederverkoper ten onrechte geen factuur of een factuur zonder afzonderlijke vermelding van btw<sup>3Hieronder valt ook het ten onrechte achterwege laten van het 0%-tarief bij intracommunautaire transacties (levering door een buitenlandse ondernemer; zie onderdeel 3.5.5).</sup> heeft afgegeven. De wederverkoper kan dan voor die goederen de margeregeling niet toepassen als hij wist of redelijkerwijs had moeten vermoeden dat zijn leverancier ten onrechte geen factuur of geen factuur met afzonderlijke vermelding van btw uitreikte. Bij twijfel hierover heeft de wederverkoper een onderzoeksplicht. Daaraan heeft de wederverkoper voldaan als blijkt of redelijkerwijs kan worden aangenomen dat hij er niet aan hoefde te twijfelen dat aan hem terecht geen factuur of geen factuur met afzonderlijke vermelding van btw is uitgereikt. Hetzelfde geldt als de wederverkoper is afgegaan op mededelingen van de leverancier en geen aanleiding had om aan de juistheid van die mededelingen te twijfelen. In beide gevallen geldt dat de wederverkoper de toepassing van de margeregeling niet hoeft te corrigeren als achteraf toch nog een factuur met afzonderlijke vermelding van btw wordt uitgereikt en hij die btw aan zijn leverancier voldoet. De wederverkoper mag deze nagefactureerde btw dan niet in aftrek brengen maar kan die btw wel tot de inkoopprijs van het goed rekenen.    
 ### 3.5.7  
 
 ####Goedkeuring voor forfaitair belaste landbouwers en veehandelaren
@@ -266,7 +266,7 @@ Ik keur goed dat de wederverkoper als vergoeding voor de fictieve levering het b
 
 ####In- en uitvoer
 
-De margeregeling is niet van toepassing op goederen die de wederverkoper heeft ingevoerd of die in het kader van de aan hem verrichte levering zijn ingevoerd . De wederverkoper mag de margeregeling wel toepassen op de levering van margegoederen die hij uitvoert uit de Gemeenschap of die hij onder het stelsel van douane-entrepots brengt (zie artikel 98, eerste lid, onderdeel b, van het Communautair douanewetboek). Dit betekent dat de belasting over de winstmarge wordt berekend met toepassing van het nultarief. <sup> 4  Bij invoer van kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten gelden afwijkende voorschriften; zie hoofdstuk 5 van dit besluit.  </sup>    
+De margeregeling is niet van toepassing op goederen die de wederverkoper heeft ingevoerd of die in het kader van de aan hem verrichte levering zijn ingevoerd<sup>4Bij invoer van kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten gelden afwijkende voorschriften; zie hoofdstuk 5 van dit besluit.</sup>. De wederverkoper mag de margeregeling wel toepassen op de levering van margegoederen die hij uitvoert uit de Gemeenschap of die hij onder het stelsel van douane-entrepots brengt (zie artikel 98, eerste lid, onderdeel b, van het Communautair douanewetboek). Dit betekent dat de belasting over de winstmarge wordt berekend met toepassing van het nultarief.     
 ### 3.12  
 
 ####Toepassing artikel 29
@@ -336,7 +336,7 @@ Bij een samenvoeging bedoeld in onderdeel 3.15 is geen sprake van vervaardiging 
 
 ####Splitsing van partijen
 
-De wederverkoper die een partij goederen koopt voor een prijs die niet per goed is geïndividualiseerd, kan bij wederverkoop de inkoopprijzen van de verschillende goederen niet aan de hand van documenten vaststellen. Voor het bepalen van de winstmarge per goed moet de wederverkoper de prijs van de gehele partij aan de verschillende goederen toerekenen. De wederverkoper is daarin vrij binnen de grenzen van de redelijkheid. De toerekening mag niet later geschieden dan op het tijdstip waarop het eerste goed uit de partij wordt doorverkocht. Bij de toerekening moet de wederverkoper in beginsel uitgaan van een splitsing naar rato van de redelijkerwijs te verwachten verkoopopbrengst. Als de wederverkoper een partij margegoederen verkoopt voor een prijs die niet per goed is geïndividualiseerd, kan hij de margeregeling op de partij als geheel toepassen. Bij de bepaling van de winstmarge moet hij uitgaan van de totale inkoopprijs van de verkochte goederen. Bij de verkoop van een partij marge- en btw-goederen voor één prijs moet de wederverkoper de vergoeding in beginsel splitsen in een deel dat betrekking heeft op de margegoederen en een deel dat betrekking heeft op de btw-goederen. Uit praktische overwegingen stem ik ermee in dat de wederverkoper als volgt handelt. <sup> 5  D.w.z. onder de normale btw-regeling vallende goederen.  </sup> 
+De wederverkoper die een partij goederen koopt voor een prijs die niet per goed is geïndividualiseerd, kan bij wederverkoop de inkoopprijzen van de verschillende goederen niet aan de hand van documenten vaststellen. Voor het bepalen van de winstmarge per goed moet de wederverkoper de prijs van de gehele partij aan de verschillende goederen toerekenen. De wederverkoper is daarin vrij binnen de grenzen van de redelijkheid. De toerekening mag niet later geschieden dan op het tijdstip waarop het eerste goed uit de partij wordt doorverkocht. Bij de toerekening moet de wederverkoper in beginsel uitgaan van een splitsing naar rato van de redelijkerwijs te verwachten verkoopopbrengst. Als de wederverkoper een partij margegoederen verkoopt voor een prijs die niet per goed is geïndividualiseerd, kan hij de margeregeling op de partij als geheel toepassen. Bij de bepaling van de winstmarge moet hij uitgaan van de totale inkoopprijs van de verkochte goederen. Bij de verkoop van een partij marge- en btw-goederen<sup>5D.w.z. onder de normale btw-regeling vallende goederen.</sup> voor één prijs moet de wederverkoper de vergoeding in beginsel splitsen in een deel dat betrekking heeft op de margegoederen en een deel dat betrekking heeft op de btw-goederen. Uit praktische overwegingen stem ik ermee in dat de wederverkoper als volgt handelt. 
 ###Goedkeuring
 
 De wederverkoper kan de margeregeling op de partij als geheel toepassen, ook als niet alle goederen voor toepassing van de margeregeling in aanmerking komen. Bij de bepaling van de winstmarge mag hij dan alleen de inkoopprijzen nemen van de goederen waarvoor hij geen recht op vooraftrek heeft gehad. 
@@ -399,7 +399,7 @@ Wederverkopers moeten in beginsel de globalisatieregeling toepassen op de volgen
 
 – muziekinstrumenten;  
 
-– huishoudelijke, elektrische en elektronische apparaten ; <sup> 6  Daaronder zijn begrepen gazonmaaiers, hogedrukspuiten en dergelijke apparatuur.  </sup>  
+– huishoudelijke, elektrische en elektronische apparaten<sup>6Daaronder zijn begrepen gazonmaaiers, hogedrukspuiten en dergelijke apparatuur.</sup>;  
 
 – huisdieren;  
 
@@ -447,7 +447,7 @@ Ik keur goed dat de wederverkoper op gedemonteerde goederen de margeregeling toe
 
 ####Onttrekking voor privé-doeleinden
 
-Een wederverkoper die een voor wederverkoop bestemd gebruikt goed aan zijn bedrijfsvermogen onttrekt voor privé-doeleinden of voor privé-doeleinden van zijn personeel, verricht geen levering onder bezwarende titel . De wederverkoper is hiervoor dus geen omzetbelasting verschuldigd. Door de onttrekking voor privé-doeleinden vervalt de bestemming van margeverkoop. Het voor deze doeleinden onttrokken goed is echter bij toepassing van de globalisatieregeling in het tijdvak van inkoop wel in aanmerking genomen voor het bepalen van de winstmarge over dat tijdvak. Dat heeft tot gevolg dat de wederverkoper in beginsel de marge-inkopen van dat tijdvak moet corrigeren. Uit praktische overwegingen heb ik de volgende goedkeuring getroffen. <sup> 7  Zie onder andere het arrest Hof van Justitie van 18 maart 2001, nr. C-415/98, Lazlo Backsci, VN2001/18.30.  </sup> 
+Een wederverkoper die een voor wederverkoop bestemd gebruikt goed aan zijn bedrijfsvermogen onttrekt voor privé-doeleinden of voor privé-doeleinden van zijn personeel, verricht geen levering onder bezwarende titel<sup>7Zie onder andere het arrest Hof van Justitie van 18 maart 2001, nr. C-415/98, Lazlo Backsci, VN2001/18.30.</sup>. De wederverkoper is hiervoor dus geen omzetbelasting verschuldigd. Door de onttrekking voor privé-doeleinden vervalt de bestemming van margeverkoop. Het voor deze doeleinden onttrokken goed is echter bij toepassing van de globalisatieregeling in het tijdvak van inkoop wel in aanmerking genomen voor het bepalen van de winstmarge over dat tijdvak. Dat heeft tot gevolg dat de wederverkoper in beginsel de marge-inkopen van dat tijdvak moet corrigeren. Uit praktische overwegingen heb ik de volgende goedkeuring getroffen.  
 ###Goedkeuring
 
 Ik keur goed dat de wederverkoper de inkoop in mindering brengt op de marge-inkopen van het tijdvak waarin de wederverkoper het goed onttrekt voor eigen privé-doeleinden of voor privé-doeleinden van zijn personeel (vgl. [artikel 4c, vijfde lid, van de uitvoeringsbeschikking](../../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md)).    
@@ -470,7 +470,7 @@ Na afloop van een kalenderjaar maakt de wederverkoper per tariefgroep een bereke
 | Kwartaal 3  | 7.140  | --- | – 3.710  | --- | 1.140  |
 | Kwartaal 4  | – 17.850  | --- | – 1.590  | --- | 0  |
 | Jaarsaldi  | 15.470  | --- | –530  | --- | 5.590  |
-| Verschuldigde OB  | 2.470  | +  | 0  | =  | 2.470  |
+| Verschuldigde OB  | 2.470   | +  | 0  | =  | 2.470  |
 | Teruggaaf  | --- | --- | --- | --- | 3.120  |
 
 Geen verrekening van het negatieve jaarsaldo à 6% met het positieve jaarsaldo à 19%. Het negatieve jaarsaldo van 530 kan de wederverkoper verrekenen met het jaarsaldo à 6% in het volgende jaar (zie onderdeel 4.13). 
@@ -654,7 +654,7 @@ Bij de overdracht van een onderneming treedt de overnemer (hierna de koper) voor
 4. Als op het moment van de overdracht bij de verkoper sprake is van een negatieve tijdvakmarge of een negatieve jaarmarge, kan de koper deze negatieve marge overeenkomstig [artikel 4c, zesde, zevende en achtste lid, van de uitvoeringsbeschikking](../../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md) in aanmerking nemen.   
 ###Ad 4
 
-Op grond van [artikel 8, tweede lid, van de uitvoeringsbeschikking](../../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md) kan een negatieve tijdvak- of jaarmarge niet overgaan op de koper. De Hoge Raad heeft echter geoordeeld, dat in gevallen waarin zowel de verkoper als de koper de globalisatieregeling toepassen, [artikel 8, tweede lid, van de uitvoeringsbeschikking](../../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md) onverbindend is voor de uitsluiting van de verrekeningsmogelijkheid van negatieve jaarmarges. Dit geldt ook voor de verrekeningsmogelijkheid per tijdvak. Ik heb het voornemen om de wettelijke bepalingen hiermee in overeenstemming te brengen. <sup> 8  Hoge Raad, 29 oktober 2004, nr. 38.320.  </sup> Voor het recht om af te zien van globalisatie en de mogelijkheid om voor globalisatie te worden aangewezen, treedt de koper niet in de plaats van de verkoper (zie [artikel 8, tweede lid, van de uitvoeringsbeschikking](../../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md), voor zover het betreft de verwijzing naar [artikel 4c, derde en vierde lid, van de uitvoeringsbeschikking](../../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md)). De koper is voor het toe te passen stelsel – individuele regeling of globalisatie – dan ook niet gebonden aan de keuze van de verkoper. Dit is in het bijzonder van belang als voor de verkoper de termijn, bedoeld in het derde en vierde lid van [artikel 4c van de uitvoeringsbeschikking](../../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md), nog niet is verstreken. De koper hoeft daarmee geen rekening te houden. Hij kan het stelsel van zijn voorkeur toepassen met ingang van de datum waarop hij de onderneming overneemt. Hij moet dan de kennisgeving tot het afzien van de globalisatieregeling bij de inspecteur indienen vóór of binnen een redelijke termijn na de overname van de onderneming. Hetzelfde geldt voor het indienen van het verzoek om de globalisatieregeling toe te passen op niet-wettelijk aangewezen margegoederen. Drijft de koper al een onderneming waarin hij de globalisatiemethode toepast of heeft afgezien van die methode, dan is hij verplicht hetzelfde stelsel op de overgenomen onderneming toe te passen. Hetzelfde geldt ook voor de wederverkoper die zijn onderneming of een deel daarvan inbrengt in een vennootschap.    
+Op grond van [artikel 8, tweede lid, van de uitvoeringsbeschikking](../../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md) kan een negatieve tijdvak- of jaarmarge niet overgaan op de koper. De Hoge Raad<sup>8Hoge Raad, 29 oktober 2004, nr. 38.320.</sup> heeft echter geoordeeld, dat in gevallen waarin zowel de verkoper als de koper de globalisatieregeling toepassen, [artikel 8, tweede lid, van de uitvoeringsbeschikking](../../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md) onverbindend is voor de uitsluiting van de verrekeningsmogelijkheid van negatieve jaarmarges. Dit geldt ook voor de verrekeningsmogelijkheid per tijdvak. Ik heb het voornemen om de wettelijke bepalingen hiermee in overeenstemming te brengen.  Voor het recht om af te zien van globalisatie en de mogelijkheid om voor globalisatie te worden aangewezen, treedt de koper niet in de plaats van de verkoper (zie [artikel 8, tweede lid, van de uitvoeringsbeschikking](../../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md), voor zover het betreft de verwijzing naar [artikel 4c, derde en vierde lid, van de uitvoeringsbeschikking](../../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md)). De koper is voor het toe te passen stelsel – individuele regeling of globalisatie – dan ook niet gebonden aan de keuze van de verkoper. Dit is in het bijzonder van belang als voor de verkoper de termijn, bedoeld in het derde en vierde lid van [artikel 4c van de uitvoeringsbeschikking](../../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md), nog niet is verstreken. De koper hoeft daarmee geen rekening te houden. Hij kan het stelsel van zijn voorkeur toepassen met ingang van de datum waarop hij de onderneming overneemt. Hij moet dan de kennisgeving tot het afzien van de globalisatieregeling bij de inspecteur indienen vóór of binnen een redelijke termijn na de overname van de onderneming. Hetzelfde geldt voor het indienen van het verzoek om de globalisatieregeling toe te passen op niet-wettelijk aangewezen margegoederen. Drijft de koper al een onderneming waarin hij de globalisatiemethode toepast of heeft afgezien van die methode, dan is hij verplicht hetzelfde stelsel op de overgenomen onderneming toe te passen. Hetzelfde geldt ook voor de wederverkoper die zijn onderneming of een deel daarvan inbrengt in een vennootschap.    
 ### 4.21  
 
 ####Fiscale eenheid
@@ -703,7 +703,7 @@ Als voorbeeld 1, maar nu heeft de wederverkoper voor een bedrag van 650 (inclusi
 Van de inkopen heeft 60% betrekking op goederen die onder de normale btw-regels worden doorverkocht. Op basis van het forfait past de wederverkoper dus op 60% van de omzet (= 600) de normale btw-regels toe. Hij heeft echter voor 650 geleverd met toepassing van de normale btw-regels. Dat is meer dan de forfaitair bepaalde omzet van 600. De forfaitaire verdeling van de omzet blijft dus niet in stand. De omzet wordt voor 650 op de normale wijze in de belastingheffing betrokken; het restant (350) valt onder de margeregeling.    
 ### 4.23.2  
 
-####Forfaitaire winstmarge
+#### Forfaitaire winstmarge
 
 Voor de toepassing van deze forfaitaire berekening stelt de wederverkoper de te belasten winstmarge (inclusief omzetbelasting) vast op een percentage van de berekende marge-omzet. Dit percentage bepaalt hij op forfaitaire wijze door de totale omzet (inclusief omzetbelasting) te verminderen met de totale inkopen (inclusief omzetbelasting) en de uitkomst daarvan te delen door de totale omzet. Het percentage kan niet negatief zijn. In de bovenstaande voorbeelden is de winstmarge: ((1.000 – 500) / 1.000) × 100% = 50% van de marge-omzet    
 ### 4.23.3  
@@ -715,18 +715,18 @@ Alle leveringen zijn onderworpen aan het algemene btw-tarief. De in een aangifte
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Belaste omzet  | 500  | × 19/119  | =  | 79,83  |
-| Verlegde omzet  | 100  | buiten heffing  | =  | 0,00  |
-| Marge-omzet  | 400  | × 19/119 × 50%  | =  | 31,93  |
+| Belaste omzet  | 500  |  × 19/119  | =  | 79,83  |
+| Verlegde omzet  | 100  |  buiten heffing  | =  | 0,00  |
+| Marge-omzet  | 400  |  × 19/119 × 50%  | =  | 31,93  |
 | Totaal  | 1.000  | --- | =  | 111,76  |
 
 ###Voorbeeld 2 (zie de onderdelen 4.23.1  en 4.23.2 )
 
 | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|
-| Belaste omzet  | 550  | × 19/119  | =  | 87,81  |
-| Verlegde omzet  | 100  | buiten heffing  | =  | 0,00  |
-| Marge-omzet  | 350  | × 19/119 × 50%  | =  | 27,94  |
+| Belaste omzet  | 550  |  × 19/119  | =  | 87,81  |
+| Verlegde omzet  | 100  |  buiten heffing  | =  | 0,00  |
+| Marge-omzet  | 350  |  × 19/119 × 50%  | =  | 27,94  |
 | Totaal  | 1.000  | --- | =  | 115,75  |
 
 ### 4.23.4  
@@ -961,10 +961,10 @@ Als voorbeeld 1 maar nu verkoopt A het goed door voor 700. Hij boekt de schuld g
 
 | --- | --- |
 |:---|:---|
-| A heeft over de ontvangst van 716 19/119 aan btw voldaan  | 114  |
+| A heeft over de ontvangst van 716 19/119 aan btw voldaan   | 114  |
 | A moet over het deel van de feitelijk verrekende schuld btw  | --- |
-| voldoen. Dit is 19/119 maal 474  | 76  |
-| Totaal  | 190  |
+| voldoen. Dit is 19/119 maal 474   | 76  |
+| Totaal   | 190  |
 
 Over de margelevering voldoet hij 19/119 maal 126. Dit is een btw-bedrag van 20.    
 ### 7.3.2  
@@ -1146,6 +1146,6 @@ Den Haag
 4 juli 2007   
 
 De 
-Staatssecretaris van Financiën, namens deze: de 
+Staatssecretaris van Financiën, namens deze:de 
 directeur-generaal Belastingdienst, 
-J.Thunnissen   
+J. Thunnissen     

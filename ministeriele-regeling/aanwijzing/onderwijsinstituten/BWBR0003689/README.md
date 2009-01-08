@@ -36,11 +36,11 @@ d. de streekschool voor beroepsbegeleidend onderwijs te Eindhoven.
 
 7e. de dagcursus voor de opleiding tot dokters-assistenten, verbonden aan het Opleidingsinstituut voor beroepen in de gezondheidszorg, uitgaande van de Leidse Onderwijsinstellingen te Leiderdorp;  
 
-8e. de brugcursus, verbonden aan het Nederlands Hippisch Centrum te Deurne.    
+8e. de brugcursus, verbonden aan het Nederlands Hippisch Centrum te Deurne.   
 
 ### Artikel  2  
 
-Met uitzondering van het onderwijsinstituut, genoemd in artikel 1, onder 7e geldt de in dat artikel bedoelde aanwijzing van onderwijsinstituten slechts voor zover deze instituten uit 's rijks kas worden bekostigd, dan wel krachtens artikel 56 van de wet op het voortgezet onderwijs zijn aangewezen.  
+Met uitzondering van het onderwijsinstituut, genoemd in artikel 1, onder 7e geldt de in dat artikel bedoelde aanwijzing van onderwijsinstituten slechts voor zover deze instituten uit 's rijks kas worden bekostigd, dan wel krachtens artikel 56 van de wet op het voortgezet onderwijs zijn aangewezen. 
 
 ### Artikel  3  
 
@@ -48,22 +48,22 @@ Voor de toepassing van de [Leerplichtwet 1969](../../../../wet/leerplichtwet/196
 
 1e. de civiele vakopleidingen voor technisch specialist bij de Koninklijke Landmacht:  
 
-2e. de inrichtingen voor de opleiding ziekenverzorging, aangewezen ingevolge artikel 1 van de beschikking van de staatssecretaris van volksgezondheid en milieuhygiëne dd. 30 juni 1981, nr. 123)    
+2e. de inrichtingen voor de opleiding ziekenverzorging, aangewezen ingevolge artikel 1 van de beschikking van de staatssecretaris van volksgezondheid en milieuhygiëne dd. 30 juni 1981, nr. 123)   
 
 ### Artikel  4  
 
 1.  De hoofden van de in de artikelen 1 en 3 bedoelde onderwijsinstituten en bedrijfscursussen geven aan burgemeester en wethouders van de gemeente waar het onderwijsinstituut respectievelijk de bedrijfscursus is gevestigd, binnen zeven dagen kennis van de in en afschrijving van de leerling ten aanzien van wie de [Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) van toepassing is.   
 2.  Indien aan het hoofd blijkt, dal een ingeschreven leerling ten aanzien van wie de [Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) van toepassing is, zonder geldige reden les- of praktijktijd verzuimt, geeft hij hiervan binnen drie dagen kennis aan burgemeester en wethouders van de gemeente waar de ouders, de voogd of de verzorgers van de leerling woon- en verblijfplaats hebben.   
-3.  De artikelen 1, 2, 4 en 9 van de Leerplichtbeschikking 1971 (Stcrt. 1971, nr. 135) zijn van overeenkomstige toepassing.   
+3.  De artikelen 1, 2, 4 en 9 van de Leerplichtbeschikking 1971 (Stcrt. 1971, nr. 135) zijn van overeenkomstige toepassing.  
 
 ### Artikel  5  
 
-De beschikking van 13 mei 1983 kenmerk VO/WJ/BZ-614.286 wordt ingetrokken.  
+De beschikking van 13 mei 1983 kenmerk VO/WJ/BZ-614.286 wordt ingetrokken. 
 
 ### Artikel  6  
 
-Deze beschikking, die bekend zal worden gemaakt in de Nederlandse Staatscourant, treedt in werking met ingang van 1 augustus 1984.  
+Deze beschikking, die bekend zal worden gemaakt in de Nederlandse Staatscourant, treedt in werking met ingang van 1 augustus 1984. 
 
 De 
-staatssecretaris voornoemd, 
-N. J.Ginjaar-Maas    
+staatssecretaris  voornoemd, 
+N. J. Ginjaar-Maas      

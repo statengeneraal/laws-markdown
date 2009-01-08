@@ -16,7 +16,7 @@ b. raadpleging: inzage en gebruik ten behoeve van (wetenschappelijk) onderzoek;
 
 c. publicatie: verspreiding van de geraadpleegde gegevens op enigerlei wijze, waaronder mondelinge, schriftelijke, elektronische en audiovisuele verspreiding, alsmede verlening van inzage aan derden;  
 
-d. verklaring inzake raadpleging: de inhoud van de verklaring inzake raadpleging die als bijlage bij dit besluit is gevoegd.    
+d. verklaring inzake raadpleging: de inhoud van de verklaring inzake raadpleging die als bijlage bij dit besluit is gevoegd.   
 
 ### Artikel  2  
 
@@ -25,19 +25,19 @@ d. verklaring inzake raadpleging: de inhoud van de verklaring inzake raadpleging
 a. ondertekening door de onderzoeker van de verklaring inzake raadpleging, en  
 
 b. voorafgaande schriftelijke toestemming van de algemene rijksarchivaris.     
-2.  Publicatie van de gegevens uit de geraadpleegde notulen en bescheiden als bedoeld in het vorige lid, kan alleen plaatsvinden na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris na overleg met de secretaris van de ministerraad.   
+2.  Publicatie van de gegevens uit de geraadpleegde notulen en bescheiden als bedoeld in het vorige lid, kan alleen plaatsvinden na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris na overleg met de secretaris van de ministerraad.  
 
 ### Artikel  3  
 
-Er worden geen kopieën of andere reproducties verstrekt van de notulen en bescheiden als bedoeld in de verklaring van overbrenging van de notulen en bescheiden van de ministerraad en onderraden (1 januari 1978–1 januari 1985) indien en zolang de beperkingen aan de openbaarheid als geregeld in artikel 2 toepassing zijn.  
+Er worden geen kopieën of andere reproducties verstrekt van de notulen en bescheiden als bedoeld in de verklaring van overbrenging van de notulen en bescheiden van de ministerraad en onderraden (1 januari 1978–1 januari 1985) indien en zolang de beperkingen aan de openbaarheid als geregeld in artikel 2 toepassing zijn. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 De 
 Minister-President, Minister van Algemene Zaken, 
-J.P.Balkenende  
+J.P.  Balkenende    
 
 ### Bijlage  
 
@@ -49,5 +49,5 @@ Naam en voorletters: Bezoekersnummer: Adres: Postcode en woonplaats:  bezig met 
 
 2. met het oog op de bescherming van nog levende personen en van het belang van de Staat en zijn bondgenoten niet tot publicatie van gegevens uit dit archief zal overgaan dan na schriftelijke toestemming van de Directeur Nationaal Archief of diens gemachtigde, aan wie daartoe de te publiceren passages vooraf dienen te worden voorgelegd;  
 
-3. de overige gegevens uit dit archief die hem/haar ter kennis zullen komen en waarover geen toestemming tot publicatie is verkregen slechts voor eigen studie zal gebruiken en deze niet aan derden zal mededelen.   Indien de Directeur Nationaal Archief of diens gemachtigde afwijzend beschikt op een verzoek tot raadpleging of een verzoek tot publicatie van gegevens uit dit archief, zullen de motieven die tot deze afwijzing hebben geleid, aangegeven worden. De geldigheidsduur van de toestemming bedraagt twaalf maanden. Indien het beoogde doel na afloop van deze periode niet is verwezenlijkt, kan een verzoek tot verlenging worden ingediend.  Handtekening aanvrager: Datum: Plaats:  Gezien en akkoord, de Directeur Nationaal Archief, voor deze: Datum: Plaats:   
+3. de overige gegevens uit dit archief die hem/haar ter kennis zullen komen en waarover geen toestemming tot publicatie is verkregen slechts voor eigen studie zal gebruiken en deze niet aan derden zal mededelen.   Indien de Directeur Nationaal Archief of diens gemachtigde afwijzend beschikt op een verzoek tot raadpleging of een verzoek tot publicatie van gegevens uit dit archief, zullen de motieven die tot deze afwijzing hebben geleid, aangegeven worden. De geldigheidsduur van de toestemming bedraagt twaalf maanden. Indien het beoogde doel na afloop van deze periode niet is verwezenlijkt, kan een verzoek tot verlenging worden ingediend.  Handtekening aanvrager: Datum: Plaats:  Gezien en akkoord, de Directeur Nationaal Archief, voor deze: Datum: Plaats:  
 

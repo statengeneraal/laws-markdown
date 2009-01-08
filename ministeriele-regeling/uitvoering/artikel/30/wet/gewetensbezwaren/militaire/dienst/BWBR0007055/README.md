@@ -8,19 +8,19 @@ Besluit:
 
 ### Artikel  I  
 
-Als persoon bevoegd tot het opleggen van disciplinaire straffen ingevolge de [Wet gewetensbezwaren militaire dienst](../../../../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) wordt aangewezen het hoofd van de Directie Tewerkstelling Erkende Gewetensbezwaarden Militaire Dienst van het Ministerie van Sociale Zaken en Werkgelegenheid, alsmede – bij diens afwezigheid of ontstentenis – de stafjurist van evengenoemde directie.  
+Als persoon bevoegd tot het opleggen van disciplinaire straffen ingevolge de [Wet gewetensbezwaren militaire dienst](../../../../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) wordt aangewezen het hoofd van de Directie Tewerkstelling Erkende Gewetensbezwaarden Militaire Dienst van het Ministerie van Sociale Zaken en Werkgelegenheid, alsmede – bij diens afwezigheid of ontstentenis – de stafjurist van evengenoemde directie. 
 
 ### Artikel  II  
 
-De ministeriële regeling, nr. TEGMD/89/1647, van 25 oktober 1991, Stcrt. 1991, 209 vervalt.  
+De ministeriële regeling, nr. TEGMD/89/1647, van 25 oktober 1991, Stcrt. 1991, 209 vervalt. 
 
 ### Artikel  III  
 
-Deze regeling, die met de bijbehorende toelichting in de Staatscourant zal worden geplaatst, treedt in werking met ingang van 1 januari 1995.  
+Deze regeling, die met de bijbehorende toelichting in de Staatscourant zal worden geplaatst, treedt in werking met ingang van 1 januari 1995. 
 
 's-Gravenhage 
 5 december 1994    
 
 De 
 Minister voornoemd, 
-A. P. W.Melkert    
+A. P. W. Melkert      

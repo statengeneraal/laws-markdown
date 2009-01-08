@@ -11,7 +11,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De benoeming, schorsing en het ontslag van tot het secretariaat van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten horende ambtenaren geschiedt door de voorzitter van de commissie, voor zover het aan de functie verbonden salaris niet hoger is dan het maximumsalaris van schaal 14 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md).  
+De benoeming, schorsing en het ontslag van tot het secretariaat van de commissie van toezicht op de inlichtingen- en veiligheidsdiensten horende ambtenaren geschiedt door de voorzitter van de commissie, voor zover het aan de functie verbonden salaris niet hoger is dan het maximumsalaris van schaal 14 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). 
 
 ### Artikel  2  
 
@@ -35,4 +35,4 @@ H. G. J. Kamp
 de zesentwintigste juni 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

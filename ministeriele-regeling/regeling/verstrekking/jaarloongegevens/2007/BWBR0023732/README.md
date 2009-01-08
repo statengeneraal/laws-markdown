@@ -9,15 +9,15 @@ Besluiten:
 ### Artikel  1  
 
 1.  De inhoudingsplichtige is gehouden aan de inspecteur desgevraagd opgave te verstrekken van het in het kalenderjaar 2007 genoten loon van de werknemer, de ingehouden loonbelasting/premie volksverzekeringen, de premies werknemersverzekeringen en de ingehouden inkomensafhankelijke bijdrage, bedoeld in de Zorgverzekeringswet, en daarmee verband houdende gegevens als bedoeld in [artikel 59, tweede lid, van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) zoals opgenomen in de bijlage bij deze regeling.   
-2.  De opgave, bedoeld in het eerste lid, wordt voor de toepassing van deze regeling, de [Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en de [Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) aangemerkt als een correctiebericht als bedoeld in [artikel 28a van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
+2.  De opgave, bedoeld in het eerste lid, wordt voor de toepassing van deze regeling, de [Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en de [Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) aangemerkt als een correctiebericht als bedoeld in [artikel 28a van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).  
 
 ### Artikel  2  
 
-De opgave van de gegevens, bedoeld in artikel 1, wordt gedaan vóór 10 mei 2008.  
+De opgave van de gegevens, bedoeld in artikel 1, wordt gedaan vóór 10 mei 2008. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -25,17 +25,17 @@ Den Haag
 
 De 
 Minister van Sociale Zaken en Werkgelegenheid, 
-J.P.H.Donner 
+J.P.H. Donner   
 
 De 
 Staatssecretaris van Financiën, 
-J.C. deJager 
+J.C. de Jager   
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink  
+A. Klink    
 
-### Bijlage  
+### Bijlage 
 
 ####specificatie jaarloonopgave 2007
 
@@ -51,21 +51,21 @@ A.Klink
 
 – Telefoonnummer contactpersoon aanleveraar  
 
-– Gebruikt softwarepakket    
+– Gebruikt softwarepakket   
 
 #### *Inhoudingsplichtige* 
 
-– Naam inhoudingsplichtige  
+– Naam inhoudingsplichtige 
 
 #### *Administratieve eenheid* 
 
-– Loonheffingennummer  
+– Loonheffingennummer 
 
 #### *Collectieve aangifte* 
 
 – Datum aanvang tijdvak  
 
-– Datum einde tijdvak   Het tijdvak dat aangeleverd moet worden is het jaar 2007. De aanvangs- en einddatum zijn respectievelijk 01-01-2007 en 31-12-2007, behalve wanneer de inhoudingsplicht in de loop van 2007 is ingegaan en/of beëindigd, in die gevallen vermeldt u de aanvangsdatum en/of einddatum van de inhoudingsplicht. De gevraagde datums vallen altijd in 2007.  
+– Datum einde tijdvak   Het tijdvak dat aangeleverd moet worden is het jaar 2007. De aanvangs- en einddatum zijn respectievelijk 01-01-2007 en 31-12-2007, behalve wanneer de inhoudingsplicht in de loop van 2007 is ingegaan en/of beëindigd, in die gevallen vermeldt u de aanvangsdatum en/of einddatum van de inhoudingsplicht. De gevraagde datums vallen altijd in 2007. 
 
 #### *Natuurlijk persoon* 
 
@@ -73,7 +73,7 @@ A.Klink
 
 – Geboortedatum  
 
-– Significant deel van de achternaam    
+– Significant deel van de achternaam   
 
 #### *Inkomstenverhouding* 
 
@@ -117,7 +117,7 @@ A.Klink
 
 – Indicatie personeelslening waarvan de rente- en/of kostenvoordelen niet tot het loon zijn gerekend  
 
-– Indicatie vervoer vanwege inhoudingsplichtige    
+– Indicatie vervoer vanwege inhoudingsplichtige   
 
 #### *Werknemersgegevens (gecumuleerd)* 
 
@@ -159,7 +159,7 @@ A.Klink
 
 – Bedrag in WWB-uitkering begrepen doorbetaalde alimentatie  
 
-– Bedrag rechtstreeks betaalde alimentatie    
+– Bedrag rechtstreeks betaalde alimentatie   
 
 #### *Sectorrisicogroep* 
 
@@ -169,5 +169,5 @@ A.Klink
 
 – Sector  
 
-– Risicopremiegroep    
+– Risicopremiegroep   
 

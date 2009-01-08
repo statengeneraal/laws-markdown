@@ -2,7 +2,7 @@
 
 ##Instellingsbesluit Commissie Politie en Wetenschap
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  Besluit    
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  Besluit     
 
 ### Artikel  1  
 
@@ -12,15 +12,15 @@ Er is een Commissie Politie en Wetenschap, hierna te noemen: de CPW.
 
 De CPW heeft tot taken: 
 
-a. de formulering en uitvoering van een meerjarig onderzoeksprogramma op het gebied van politie en veiligheid; het jaarlijks vaststellen van prioritaire onderzoeksthema’s die mede richtinggevend zijn bij het selecteren en beoordelen van onderzoeksvoorstellen en onderzoeksplannen;  
+a.  de formulering en uitvoering van een meerjarig onderzoeksprogramma op het gebied van politie en veiligheid; het jaarlijks vaststellen van prioritaire onderzoeksthema’s die mede richtinggevend zijn bij het selecteren en beoordelen van onderzoeksvoorstellen en onderzoeksplannen;  
 
-b. het jaarlijks accorderen en ter vaststelling aanbieden aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties van een onderzoeksprogramma op het gebied van politie en veiligheid;  
+b.  het jaarlijks accorderen en ter vaststelling aanbieden aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties van een onderzoeksprogramma op het gebied van politie en veiligheid;  
 
-c. het bevorderen van de opbouw van een voor de politie relevant kennislichaam dat bijdraagt aan de op- en uitbouw van de politieprofessie;  
+c.  het bevorderen van de opbouw van een voor de politie relevant kennislichaam dat bijdraagt aan de op- en uitbouw van de politieprofessie;  
 
-d. het bevorderen van een optimaal op de politie en politiepraktijk afgestemde toegankelijkheid en beschikbaarheid van relevante wetenschappelijke kennis en onderzoeksresultaten;  
+d.  het bevorderen van een optimaal op de politie en politiepraktijk afgestemde toegankelijkheid en beschikbaarheid van relevante wetenschappelijke kennis en onderzoeksresultaten;  
 
-e. het (jaarlijks) vaststellen van procedures en methoden van onderzoeksprogrammering.    
+e.  het (jaarlijks) vaststellen van procedures en methoden van onderzoeksprogrammering.    
 
 ### Artikel  3  
 
@@ -82,7 +82,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ### Artikel  9  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Politie en Wetenschap.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Politie en Wetenschap. 
 Dit besluit zal in de Staatscourant worden geplaatst, waarvan mededeling zal worden gedaan in het Algemeen Politieblad.   
 
 Den Haag 
@@ -90,4 +90,4 @@ Den Haag
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-K.G. deVries    
+K.G. de Vries      

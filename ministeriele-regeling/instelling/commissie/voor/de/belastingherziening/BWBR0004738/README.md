@@ -11,11 +11,11 @@ Besluiten:
 
 ### Artikel  1  
 
-Er is een commissie voor de belastingherziening.  
+Er is een commissie voor de belastingherziening. 
 
 ### Artikel  2  
 
-De commissie heeft tot taak om, met inachtneming van hetgeen is opgenomen in paragraaf 1, punt 24 van het Regeeraccoord (Kamerstukken 11, 1989–1990, 21 132, nr. 9 blz. 13–14), advies uit te brengen over verdere vereenvoudiging en verbreding van het draagvlak van de loon- en inkomstenbelasting en ter stroomlijning van de belasting op de ondernemingswinst.  
+De commissie heeft tot taak om, met inachtneming van hetgeen is opgenomen in paragraaf 1, punt 24 van het Regeeraccoord (Kamerstukken 11, 1989–1990, 21 132, nr. 9 blz. 13–14), advies uit te brengen over verdere vereenvoudiging en verbreding van het draagvlak van de loon- en inkomstenbelasting en ter stroomlijning van de belasting op de ondernemingswinst. 
 
 ### §  2  
 
@@ -40,11 +40,11 @@ Mr. A. Overbosch;
 
 Mr. H. Smit;  
 
-Dr. G. Zoutendijk.     
+Dr. G. Zoutendijk.    
 
 ### Artikel  4  
 
-De commissie kan uit haar midden een vice-voorzitter en een secretaris benoemen.  
+De commissie kan uit haar midden een vice-voorzitter en een secretaris benoemen. 
 
 ### Artikel  5  
 
@@ -52,24 +52,24 @@ Het secretariaat van de commissie wordt gevormd door:
 
 het lid-secretaris,  
 
-drie adjunct-secretarissen.    
+drie adjunct-secretarissen.   
 
 ### Artikel  6  
 
-Ter uitvoering van haar taak kan de commissie zich rechtstreeks tot derden wenden voor het verkrijgen van inlichtingen. Zij kan ook zo nodig derden ter vergadering uitnodigen om hun mening nader uiteen te laten zetten.  
+Ter uitvoering van haar taak kan de commissie zich rechtstreeks tot derden wenden voor het verkrijgen van inlichtingen. Zij kan ook zo nodig derden ter vergadering uitnodigen om hun mening nader uiteen te laten zetten. 
 
 ### Artikel  7  
 
 1.  De commissie besluit met meerderheid van stemmen; indien nodig heeft de voorzitter een beslissende stem.   
-2.  Afwijkende opvattingen, die door een minderheid ter vergadering ter sprake zijn gebracht, worden desgewenst in de stukken weergegeven.   
+2.  Afwijkende opvattingen, die door een minderheid ter vergadering ter sprake zijn gebracht, worden desgewenst in de stukken weergegeven.  
 
 ### Artikel  8  
 
-De commissie brengt op verzoek van de Minister van Financiën tussentijds verslag uit.  
+De commissie brengt op verzoek van de Minister van Financiën tussentijds verslag uit. 
 
 ### Artikel  9  
 
-De commissie legt haar uiteindelijke voorstellen uiterlijk in de eerste helft van 1991 aan de Minister van Financiën over.  
+De commissie legt haar uiteindelijke voorstellen uiterlijk in de eerste helft van 1991 aan de Minister van Financiën over. 
 
 ### §  3  
 
@@ -79,27 +79,27 @@ De commissie legt haar uiteindelijke voorstellen uiterlijk in de eerste helft va
 
 1.  De leden van de commissie alsmede de in artikel 5 bedoelde personen ontvangen vacatiegelden alsmede een vergoeding voor de reis- en verblijfkosten volgens de bestaande rijksregelingen, voor zover niet uit anderen hoofde een vergoeding van deze kosten wordt verleend uit 's Rijks kas.   
 2.  De overigens uit de uitvoering van dit besluit voortvloeiende kosten worden vergoed op basis van een vooraf ingediende en door de Minister van Financiën goedgekeurde begroting.   
-3.  Na voltooiing van haar werkzaamheden legt de commissie rekening en verantwoording af.   
+3.  Na voltooiing van haar werkzaamheden legt de commissie rekening en verantwoording af.  
 
 ### Artikel  11  
 
-Een ieder die betrokken is bij de werkzaamheden van de commissie en daarbij de beschikking krijgt over gegevens, waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan behoudens voor zover wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij deze werkzaamheden de noodzaak tot bekendmaking voortvloeit.  
+Een ieder die betrokken is bij de werkzaamheden van de commissie en daarbij de beschikking krijgt over gegevens, waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan behoudens voor zover wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij deze werkzaamheden de noodzaak tot bekendmaking voortvloeit. 
 
 ### Artikel  12  
 
 1.  Dit besluit wordt bekendgemaakt in de Nederlandse Staatscourant.   
-2.  Afschrift van dit besluit wordt gezonden aan de Algemene Rekenkamer.   
+2.  Afschrift van dit besluit wordt gezonden aan de Algemene Rekenkamer.  
 
 's-Gravenhage 
 4 april 1990    
 
 De 
 Minister van Financiën, 
-W.Kok 
+W.Kok  
 
 De 
 Staatssecretaris van Financiën, 
-M. J. J. vanAmelsvoort   
+M. J. J. van Amelsvoort     
 
 ### Bijlage  
 

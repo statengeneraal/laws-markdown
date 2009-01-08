@@ -8,12 +8,12 @@ Besluit:
 
 ### Artikel  1  
 
-Als meldingsbureau, bedoeld in [artikel 1, onder p, van de Verordening varkensleveringen (PVV) 2007](../../../../../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md), wordt aangewezen, de Gezondheidsdienst voor Dieren B.V., gevestigd te Deventer.  
+Als meldingsbureau, bedoeld in [artikel 1, onder p, van de Verordening varkensleveringen (PVV) 2007](../../../../../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md), wordt aangewezen, de Gezondheidsdienst voor Dieren B.V., gevestigd te Deventer. 
 
 ### Artikel  2  
 
 1.  Dit besluit wordt aangehaald als: Besluit aanwijzing organisatie voor meldingen met betrekking tot transport varkens (PVV) 2008.   
-2.  Dit besluit treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningenblad Bedrijfsorganisatie waarin het wordt geplaatst.   
+2.  Dit besluit treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningenblad Bedrijfsorganisatie waarin het wordt geplaatst.  
 
 Zoetermeer 
 12 maart 2008   

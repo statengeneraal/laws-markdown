@@ -13,11 +13,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Onder aangelegenheden, verband houdende met het economisch verkeer tussen verschillende stadia van voortbrenging en afzet, als bedoeld in artikel 4, eerste lid, onder *a*, van de Instellingswet Productschap voor Vee en Vlees (*Stb.* 1954, 445), zijn begrepen de prijzen, waartegen vleeswaren aan buitenlandse afnemers ten minste moeten worden afgezet.  
+Onder aangelegenheden, verband houdende met het economisch verkeer tussen verschillende stadia van voortbrenging en afzet, als bedoeld in artikel 4, eerste lid, onder *a*, van de Instellingswet Productschap voor Vee en Vlees (*Stb.* 1954, 445), zijn begrepen de prijzen, waartegen vleeswaren aan buitenlandse afnemers ten minste moeten worden afgezet. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 januari 1959.  
+Dit besluit treedt in werking met ingang van 1 januari 1959. 
 
 Onze Ministers van Binnenlandse Zaken, Bezitsvorming en Publiekrechtelijke Bedrijfsorganisatie, van Landbouw, Visserij en Voedselvoorziening en van Economische Zaken zijn belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst.   
 

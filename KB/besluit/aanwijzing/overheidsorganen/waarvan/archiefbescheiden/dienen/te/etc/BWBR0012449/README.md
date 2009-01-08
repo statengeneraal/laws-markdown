@@ -27,17 +27,17 @@ a. erkende stamboekverenigingen;
 
 b. keurings- en controle-instellingen ingevolge de [Zaaizaad- en Plantgoedwet](../../../../../../../../../../wet/zaaizaad-/en/plantgoedwet/BWBR0002541/README.md) en de [Landbouwkwaliteitswet](../../../../../../../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md);  
 
-c. personen en instellingen die op grond van [artikel 78 jo 84 van de Wegenverkeerswet 1994](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) gerechtigd zijn tot het afgeven van keuringsrapporten;  
+c. personen en instellingen die op grond van [artikel 78 jo 84 van de Wegenverkeerswet 1994](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) gerechtigd zijn tot het afgeven van keuringsrapporten;   
 
-d. instellingen die op grond van [artikel 7a, eerste lid, van de Warenwet](../../../../../../../../../../wet/warenwet/BWBR0001969/README.md) door Onze Minister van Volksgezondheid, Welzijn en Sport, dan wel Onze Minister van Sociale Zaken en Werkgelegenheid zijn aangewezen als bevoegd tot het uitvoeren van daartoe aangewezen werkzaamheden in voor technische voortbrengselen voorgeschreven keurings- en beoordelingsprocedures.     
+d.  instellingen die op grond van [artikel 7a, eerste lid, van de Warenwet](../../../../../../../../../../wet/warenwet/BWBR0001969/README.md) door Onze Minister van Volksgezondheid, Welzijn en Sport, dan wel Onze Minister van Sociale Zaken en Werkgelegenheid zijn aangewezen als bevoegd tot het uitvoeren van daartoe aangewezen werkzaamheden in voor technische voortbrengselen voorgeschreven keurings- en beoordelingsprocedures.    
 
 ### Artikel  2  
 
-In de rijksarchiefbewaarplaats in de hoofdplaats van een provincie worden de dubbelen en afschriften van akten van de burgerlijke stand bewaard, alsmede de daaraan later toegevoegde vermeldingen en de dubbelen van de tienjaarlijkse klappers die zijn opgemaakt door of op aanwijzing van de in die provincie gevestigde of gevestigd geweest zijnde ambtenaren van de burgerlijke stand.  
+In de rijksarchiefbewaarplaats in de hoofdplaats van een provincie worden de dubbelen en afschriften van akten van de burgerlijke stand bewaard, alsmede de daaraan later toegevoegde vermeldingen en de dubbelen van de tienjaarlijkse klappers die zijn opgemaakt door of op aanwijzing van de in die provincie gevestigde of gevestigd geweest zijnde ambtenaren van de burgerlijke stand. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Onze Minister van Onderwijs, Cultuur en Wetenschappen is belast met de uitvoering van dit besluit dat met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -51,4 +51,4 @@ F. van der Ploeg
 de *tweeëntwintigste* mei 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

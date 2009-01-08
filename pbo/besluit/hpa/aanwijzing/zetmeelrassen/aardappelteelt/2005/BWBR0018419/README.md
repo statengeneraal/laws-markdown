@@ -10,21 +10,21 @@ Besluit namens het bestuur:
 
 Als zetmeelrassen, andere dan de in de [bijlage van de verordening HPA aardappelteelt 2003](../../../../../../../../pbo/verordening/hpa/aardappelteelt/2003/BWBR0014840/README.md) genoemde, worden aangewezen: 
 
-Averia  
+Averia
 
-Avarna  
+Avarna
 
-Menco  
+Menco
 
-Mantra  
+Mantra
 
-Sofista  
+Sofista
 
-Smaragd    
+Smaragd 
 
 ### Artikel  2  
 
-Dit besluit wordt aangehaald als Besluit HPA aanwijzing zetmeelrassen aardappelteelt 2005 en treedt in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie.  
+Dit besluit wordt aangehaald als Besluit HPA aanwijzing zetmeelrassen aardappelteelt 2005 en treedt in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie. 
 
 Den Haag 
 9 juni 2005   

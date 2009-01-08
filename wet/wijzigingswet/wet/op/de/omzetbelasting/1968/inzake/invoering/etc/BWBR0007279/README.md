@@ -11,26 +11,26 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
 1.  Met betrekking tot de omzetbelasting dienen voor goederen die voldoen aan de artikelen 9 en 10 van het Verdrag tot oprichting van de Europese Economische Gemeenschap en die overeenkomstig de op 31 december 1992 van toepassing zijnde douanewetgeving zich op of na 1 januari 1993 onder een douaneregeling bevinden, na 1 januari 1993 wat betreft de beëindiging van deze douaneregeling de douaneformaliteiten te worden vervuld overeenkomstig de douanewetgeving zoals deze op 31 december 1992 van toepassing was.   
-2.  De in het eerste lid bedoelde douaneregelingen zijn: 
+2.   De in het eerste lid bedoelde douaneregelingen zijn:  
 
 a. een regeling voor communautair douanevervoer (interne procedure);  
 
 b. opslag als douanegoederen in een douane-entrepot of een vrij entrepot dan wel tijdelijke opslag;  
 
-c. een regeling voor tijdelijke invoer met vrijstelling van belasting.     
+c. een regeling voor tijdelijke invoer met vrijstelling van belasting.    
 
 ### Artikel  III  
 
-[Artikel 40 van de Wet op de omzetbelasting 1968](../../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) vindt geen toepassing in de gevallen waarin de in artikel 37 *a* van die wet bedoelde lijst is of had moeten worden ingediend op een tijdstip voorafgaande aan de inwerkingtreding van deze wet.  
+[Artikel 40 van de Wet op de omzetbelasting 1968](../../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) vindt geen toepassing in de gevallen waarin de in artikel 37*a* van die wet bedoelde lijst is of had moeten worden ingediend op een tijdstip voorafgaande aan de inwerkingtreding van deze wet. 
 
 ### Artikel  IV  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

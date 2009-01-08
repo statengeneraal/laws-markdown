@@ -12,29 +12,29 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 ### Artikel  1  
 
 1.  Er is een Raad voor het openbaar bestuur.   
-2.  De Raad bestaat uit een voorzitter en ten hoogste elf andere leden.   
+2.  De Raad bestaat uit een voorzitter en ten hoogste elf andere leden.  
 
 ### Artikel  2  
 
-De Raad heeft tot taak de regering en de beide kamers der Staten-Generaal te adviseren over de inrichting en het functioneren van de overheid met het oog op het vergroten van haar doeltreffendheid en doelmatigheid en met bijzondere aandacht voor de uitgangspunten van de democratische rechtsstaat.  
+De Raad heeft tot taak de regering en de beide kamers der Staten-Generaal te adviseren over de inrichting en het functioneren van de overheid met het oog op het vergroten van haar doeltreffendheid en doelmatigheid en met bijzondere aandacht voor de uitgangspunten van de democratische rechtsstaat. 
 
 ### Artikel  3  
 
-Wijzigt de Kieswet   
+Wijzigt de Kieswet  
 
 ### Artikel  4  
 
-Deze wet treedt in werking met ingang van 1 januari 1997.  
+Deze wet treedt in werking met ingang van 1 januari 1997. 
 
 ### Artikel  5  
 
-Deze wet wordt aangehaald als: Wet op de Raad voor het openbaar bestuur.  
+Deze wet wordt aangehaald als: Wet op de Raad voor het openbaar bestuur. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 12 december 1996  
-Beatrix  
+Beatrix   
 
 De Minister van Binnenlandse Zaken, 
 H. F. Dijkstal   

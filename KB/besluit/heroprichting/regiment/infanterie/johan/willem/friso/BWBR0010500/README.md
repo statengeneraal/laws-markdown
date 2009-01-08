@@ -9,21 +9,21 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Het Regiment Infanterie Johan Willem Friso wordt met ingang van 1 juli 1999 heropgericht en maakt wederom deel uit van de Koninklijke landmacht.  
+Het Regiment Infanterie Johan Willem Friso wordt met ingang van 1 juli 1999 heropgericht en maakt wederom deel uit van de Koninklijke landmacht. 
 
 ### Artikel  2  
 
-Het vaandel dat als gevolg van de opheffing van het Regiment Johan Willem Friso op 29 juli 1994 werd ingenomen, wordt wederom ter beschikking gesteld aan het Regiment Johan Willem Friso.  
+Het vaandel dat als gevolg van de opheffing van het Regiment Johan Willem Friso op 29 juli 1994 werd ingenomen, wordt wederom ter beschikking gesteld aan het Regiment Johan Willem Friso. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Onze Minister van Defensie is belast met de uitvoering van dit besluit dat in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan Onze Adjudant-generaal, tevens Chef van het Militaire Huis.   
 
 's-Gravenhage 
 3 juni 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Defensie, 
 F. H. G. de Grave   

@@ -11,25 +11,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### ARTIKEL  I  
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  
 
 ### ARTIKEL  II  
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  
 
 ### ARTIKEL  IV  
 
 1.  Deze wet treedt met uitzondering van artikel I onderdelen B en C, artikel II en artikel III in werking met ingang van 1 september 1996. Artikel I onderdelen B en C en artikel III treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. Artikel II treedt in werking met ingang van 1 januari 2001.   
-2.  Indien het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven op of na 1 september 1996, treedt deze wet met uitzondering van artikel I onderdeel B en artikel II in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. Artikel I onderdeel B treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, en werkt terug tot en met 1 juli 1996. Artikel II treedt in werking met ingang van 1 januari 2001.   
+2.  Indien het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven op of na 1 september 1996, treedt deze wet met uitzondering van artikel I onderdeel B en artikel II in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. Artikel I onderdeel B treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, en werkt terug tot en met 1 juli 1996. Artikel II treedt in werking met ingang van 1 januari 2001.  
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 4 juli 1996  
-Beatrix  
+Beatrix   
 
 De Minister van Onderwijs, Cultuur en Wetenschappen, 
-J. M. M. Ritzen   
+J. M. M. Ritzen    
 
 De Minister van Landbouw, Natuurbeheer en Visserij, 
 J. J. van Aartsen   

@@ -8,17 +8,17 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling betreffende aanvragen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000.   
+Wijzigt de Regeling betreffende aanvragen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van 1 augustus 2006.  
+Deze regeling treedt in werking met ingang van 1 augustus 2006. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 18 april 2006   
 
 De 
-Minister van Sociale Zaken en Werkgelegenheid, 
+Minister van Sociale Zaken en Werkgelegenheid,
 
 A.J. de Geus     

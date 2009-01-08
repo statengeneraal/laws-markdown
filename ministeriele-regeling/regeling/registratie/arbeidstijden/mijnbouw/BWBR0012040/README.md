@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling registratie arbeidstijden mijnbouw
+##Regeling registratie arbeidstijden mijnbouw 
 
 De Minister van Sociale Zaken en Werkgelegenheid;  
 Gelet op [artikel 3.1:2, eerste en vierde lid, van het Arbeidstijdenbesluit](../../../../../../AMvB/arbeidstijdenbesluit/BWBR0007687/README.md),
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -16,16 +16,16 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling registratie arbeidstijden mijnbouw.  
+Deze regeling wordt aangehaald als: Regeling registratie arbeidstijden mijnbouw. 
 
 's-Gravenhage 
 19 december 2000    
 
 De 
 Minister van Sociale Zaken en Werkgelegenheid, 
-W.A.Vermeend   
+W.A.  Vermeend     
 
-### Bijlage  1  
+### Bijlage 1  
 
 ####behorende bij artikel 1  van de Regeling registratie arbeidstijden mijnbouw
 
@@ -66,7 +66,7 @@ Indien als gevolg van onvoorziene situaties of werkzaamheden die geen uitstel du
 (geldt alleen voor werkzaamheden verricht volgens de arbeidstijdpatronen van het [Arbeidstijdenbesluit](../../../../../../AMvB/arbeidstijdenbesluit/BWBR0007687/README.md)): Hier worden de uren ingevuld die aan oefeningen zijn besteed buiten de normale dienst. Offshore alsmede onshore wordt eenmaal in de twee weken ten behoeve van de voorbereiding op noodsituaties een uur besteed aan oefeningen, waarvoor de arbeidstijd met 1 uur mag worden verlengd c.q. de rusttijd met 1 uur worden ingekort. Voor sommige werknemers, namelijk degene die op dat moment hun dienst nog niet hadden beëindigd, vallen deze oefeningen dus in de normale dienst en worden hier niet opgenomen. 
 ###(kolom 12) Gewerkte uren in het buitenland:
 
-Hier worden de uren ingevuld tijdens welke de werknemer gedurende het tijdvak waarop dit formulier betrekking heeft in het buitenland werkzaamheden heeft verricht, omdat deze uren ook meetellen voor de vaststelling van de werkelijk gewerkte uren volgens de [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) / [ATB](../../../../../../AMvB/arbeidstijdenbesluit/BWBR0007687/README.md). De werknemer verstrekt aan de in Nederland gevestigde werkgever uit eigen beweging tijdig de voor de naleving van de arbeidstijden nodige inlichtingen. 
+Hier worden de uren ingevuld tijdens welke de werknemer gedurende het tijdvak waarop dit formulier betrekking heeft in het buitenland werkzaamheden heeft verricht, omdat deze uren ook meetellen voor de vaststelling van de werkelijk gewerkte uren volgens de [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md)/[ATB](../../../../../../AMvB/arbeidstijdenbesluit/BWBR0007687/README.md). De werknemer verstrekt aan de in Nederland gevestigde werkgever uit eigen beweging tijdig de voor de naleving van de arbeidstijden nodige inlichtingen. 
 ###(kolom 13) Overigen:
 
 Uren i.v.m. ziekte, vakantie, calamiteiten-/kortverzuimverlof (o.g.v. [Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md)), ondernemingsraadwerk, of i.v.m. de vervulling van een door de wet of overheid opgelegde verplichting, tellen voor de berekening van de gemiddelde arbeidstijd per week mee als arbeidstijd. In deze situaties wordt het aantal uren geteld dat de persoon gewerkt zou hebben als hij niet ziek geworden was of geen vakantie e.d. opgenomen had. Deze uren worden hier ingevuld. In kolom 16 wordt aangegeven waarvoor men deze uren heeft gebruikt. (Let wel: vrije dagen als gevolg van werktijdverkorting of anderszins opgebouwde vrije tijd – ADV-dagen bijvoorbeeld –, kraamverlof, kortdurend zorgverlof, langdurende zorgverlof of ouderschapssverlof tellen niet mee als arbeidstijd). 
