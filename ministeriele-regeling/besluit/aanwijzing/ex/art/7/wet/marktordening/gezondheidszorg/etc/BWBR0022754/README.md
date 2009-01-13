@@ -10,17 +10,17 @@ Besluit:
 
 ### Artikel  1  
 
-De aanwijzing is van toepassing op eerstelijns psychologische zorg niet verleend door huisartsen. Ter uitvoering van dit besluit stelt de Nederlandse Zorgautoriteit, verder te noemen zorgautoriteit, beleidsregels vast.  
+De aanwijzing is van toepassing op eerstelijns psychologische zorg niet verleend door huisartsen. Ter uitvoering van dit besluit stelt de Nederlandse Zorgautoriteit, verder te noemen zorgautoriteit, beleidsregels vast. 
 
 ### Artikel  2  
 
 1.  De zorgautoriteit voert met ingang van 1 januari 2008 prestatiebeschrijvingen in voor de in artikel 1 bedoelde zorg.   
-2.  Met ingang van 1 januari 2008 gelden voor zorg als bedoeld in het eerste lid tarieven als bedoeld in [artikel 57, vierde lid, onder c, van de Wet marktordening gezondheidszorg](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).   
+2.  Met ingang van 1 januari 2008 gelden voor zorg als bedoeld in het eerste lid tarieven als bedoeld in [artikel 57, vierde lid, onder c, van de Wet marktordening gezondheidszorg](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).  
 
 ### Artikel  3  
 
-Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.  
+Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst. 
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink   
+A. Klink     

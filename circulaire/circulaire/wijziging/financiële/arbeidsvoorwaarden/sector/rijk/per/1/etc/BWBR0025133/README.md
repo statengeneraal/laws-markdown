@@ -28,7 +28,7 @@ Zoals te doen gebruikelijk ontvangt u aan het einde van het kalenderjaar een cir
 
 11 Bedrag levensloopverlofkorting  
 
-12  [Regeling werkgeversbijdrage kinderopvang uitgezonden rijkspersoneel](../../../../../../../../../../../ministeriele-regeling/regeling/werkgeversbijdrage/kinderopvang/uitgezonden/rijkspersoneel/BWBR0022834/README.md)   
+12 [Regeling werkgeversbijdrage kinderopvang uitgezonden rijkspersoneel](../../../../../../../../../../../ministeriele-regeling/regeling/werkgeversbijdrage/kinderopvang/uitgezonden/rijkspersoneel/BWBR0022834/README.md)  
 
 13 Wetsvoorstel(len) Belastingen 2009  
 
@@ -138,16 +138,16 @@ De ambtenaar heeft over de uren waarop hem ouderschapsverlof is verleend recht o
 De Belastingdienst heeft bekend gemaakt, dat het bedrag van de levensloopverlofkorting met ingang van 1 januari 2009 wijzigt van € 191,00 in € 195,00 per gespaard kalenderjaar.    
 ### 12  
 
-#### [Regeling werkgeversbijdrage kinderopvang uitgezonden rijkspersoneel](../../../../../../../../../../../ministeriele-regeling/regeling/werkgeversbijdrage/kinderopvang/uitgezonden/rijkspersoneel/BWBR0022834/README.md) 
+####[Regeling werkgeversbijdrage kinderopvang uitgezonden rijkspersoneel](../../../../../../../../../../../ministeriele-regeling/regeling/werkgeversbijdrage/kinderopvang/uitgezonden/rijkspersoneel/BWBR0022834/README.md)
 
 In deze regeling wordt bij het vaststellen van de hoogte van de bijdrage een uurprijs in aanmerking genomen die niet hoger is dan de op basis van [artikel 7 van de Wet kinderopvang](../../../../../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) vastgestelde uurprijs. Gebruikelijk is, dat deze uurprijs jaarlijks wordt geïndexeerd. Het kabinet heeft echter besloten de maximale uurprijs in 2009 te bevriezen op het niveau van 2008, te weten: € 6,10. (Besluit van 28 augustus 2008, gepubliceerd in Staatsblad 2008, nr. 360).    
 ### 13  
 
 ####Wetsvoorstel(len) Belastingen 2009
 
-Met de wetsvoorstellen ‘ [Belastingplan 2009](../../../../../../../../../../../wet/belastingplan/2009/BWBR0024975/README.md) ’ en ‘ [Overige fiscale maatregelen 2009](../../../../../../../../../../../wet/overige/fiscale/maatregelen/2009/BWBR0025024/README.md) ’ worden een aantal maatregelen aangekondigd, waarop ik graag uw aandacht vestig. 
+Met de wetsvoorstellen ‘[Belastingplan 2009](../../../../../../../../../../../wet/belastingplan/2009/BWBR0024975/README.md)’ en ‘[Overige fiscale maatregelen 2009](../../../../../../../../../../../wet/overige/fiscale/maatregelen/2009/BWBR0025024/README.md)’ worden een aantal maatregelen aangekondigd, waarop ik graag uw aandacht vestig. 
 
-– Er wordt een, op basis van de CO <sub>2</sub> -uitstoot gebaseerde, nieuwe categorie ‘schone’ auto’s geïntroduceerd. De minimale bijtelling voor het privégebruik van deze auto’s bedraagt 20%.  
+– Er wordt een, op basis van de CO<sub>2</sub>-uitstoot gebaseerde, nieuwe categorie ‘schone’ auto’s geïntroduceerd. De minimale bijtelling voor het privégebruik van deze auto’s bedraagt 20%.  
 
 – De maximale onbelaste vergoeding bij verhuizing wijzigt in de [Wet op de loonbelasting 1964](../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md). Naast de kosten voor het overbrengen van de inboedel kon onbelast 12% van het jaarloon met een maximum van € 5445,00 worden vergoed. Die bepaling wijzigt zodanig, dat ongeacht het jaarloon maximaal € 7750,00 kan worden vergoed, als de verhuizing plaatsvindt van een afstand van meer dan 25 kilometer naar een afstand van minder dan 10 kilometer van de plaats van de dienstbetrekking.  
 
@@ -188,9 +188,9 @@ De WGA-lasten (premie of eigen risico) van de werkgever mogen op grond van de [W
 In de bijlage vindt u een overzicht van de in 2008 tot stand gekomen (wijzigingen van) amvb’s, ministeriële regelingen en circulaires. Ik verzoek u met de inhoud van deze circulaire rekening te houden en daaraan voor zover nodig uitvoering te geven.     
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze:de 
 Directeur-Generaal Organisatie en Bedrijfsvoering Rijk, 
-J.J.M.Uijlenbroek  
+J.J.M. Uijlenbroek    
 
 ### Bijlage  
 
@@ -202,26 +202,26 @@ J.J.M.Uijlenbroek
 |:---|:---|:---|:---|:---|
 | 21-12-2007  | 2007-0000554833  | 2008, 6  | Wijziging Reisregeling buitenland t.a.v. Pakistan.  |
 | 28-02-2008  | 2008-0000096725  | 2008, 53  | Wijziging Reisregeling buitenland (Tarieflijst 1 april 2008).  |
-| 09-05-2008  |  [2008-0000202306](../../../../../../../../../../../ministeriele-regeling/regeling/betaling/emolumenten/burgerlijk/rijkspersoneel/BWBR0023866/README.md)   | 2008, 94  | Aanpassing voorschriften Besluit betaling emolumenten burgerlijk rijkspersoneel.  |
+| 09-05-2008  | [2008-0000202306](../../../../../../../../../../../ministeriele-regeling/regeling/betaling/emolumenten/burgerlijk/rijkspersoneel/BWBR0023866/README.md)  | 2008, 94  | Aanpassing voorschriften Besluit betaling emolumenten burgerlijk rijkspersoneel.  |
 | 29-08-2008  | 2008-0000402475  | 2008, 181  | Wijziging Reisregeling buitenland (Tarieflijst 1 oktober 2008).  |
 | 11-09-2008  | 2008-0000411584  | 2008, 187  | Wijziging Regeling gratificatie bij ambtsjubileum.  |
 | Nog niet bekend  | 2008-0000553604  | Nog niet bekend  | Wijziging reisregeling binnenland.  |
 
 | Circulaires  | Datum  | Kenmerk  | Staatscourant  | Beschrijving  |
 |:---|:---|:---|:---|:---|
-| 12-02-2008  |  [2008-0000059482](../../../../../../../../../../../circulaire/circulaire/levensloopregeling/BWBR0023497/README.md)   | 2008, 36  | Levensloopregeling.  |
-| 14-02-2008  |  [2008-0000063614](../../../../../../../../../../../circulaire/circulaire/doorwerken/na/bereiken/leeftijd/65/jaar/BWBR0023518/README.md)   | 2008, 38  | Doorwerken na bereiken leeftijd 65 jaar.  |
-| 28-02-2008  |  2008-0000096618   | 2008, 53  | Tarieflijst logies- en overige kosten buitenlandse dienstreizen per 1 april 2008.  |
-| 21-04-2008  |  [2008-0000181427](../../../../../../../../../../../circulaire/nieuwe/voorziening/woon–werkverkeer/BWBR0023827/README.md)   | 2008, 85  | Nieuwe voorziening voor het woon-werkverkeer  |
-| 06-05-2008  |  [2008-0000195249](../../../../../../../../../../../circulaire/circulaire/sociaal/flankerend/beleid/sector/rijk/2008–2012/BWBR0023859/README.md)   | 2008, 93  | Sociaal flankerend beleid sector Rijk 2008–2012.  |
-| 09-05-2008  |  [2008-0000202305](../../../../../../../../../../../circulaire/circulaire/aanpassing/voorschriften/besluit/betaling/emolumenten/etc/BWBR0023868/README.md)   | 2008, 94  | Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel v.w.b. de maximum verrekeningsbedragen voor verwarming e.d.  |
-| 20-05-2008  |  [2008-0000224655](../../../../../../../../../../../circulaire/circulaire/pilot/tussen/rijk/en/onderwijs/BWBR0023956/README.md)   | 2008, 104 en 108  | Pilot tussen Rijk en Onderwijs.  |
-| 21-05-2008  |  [2008-0000224119](../../../../../../../../../../../circulaire/teruggave/pseudo-premie/ww/2006/BWBR0023924/README.md)   | 2008, 104  | Teruggave pseudo-premie WW 2006.  |
-| 04-06-2008  |  [2008-0000242819](../../../../../../../../../../../circulaire/circulaire/gelaatsbedekkende/kleding/BWBR0024046/README.md)   | 2008, 120  | Gelaatsbedekkende kleding.  |
-| 10-06-2008  |  [2008-0000258541](../../../../../../../../../../../circulaire/circulaire/aanpassing/huurwaarde/dienstwoningen/per/1/juli/2008/BWBR0024027/README.md)   | 2008, 117  | Aanpassing huurwaarde dienstwoningen.  |
+| 12-02-2008  | [2008-0000059482](../../../../../../../../../../../circulaire/circulaire/levensloopregeling/BWBR0023497/README.md)  | 2008, 36  | Levensloopregeling.  |
+| 14-02-2008  | [2008-0000063614](../../../../../../../../../../../circulaire/circulaire/doorwerken/na/bereiken/leeftijd/65/jaar/BWBR0023518/README.md)  | 2008, 38  | Doorwerken na bereiken leeftijd 65 jaar.  |
+| 28-02-2008  | 2008-0000096618  | 2008, 53  | Tarieflijst logies- en overige kosten buitenlandse dienstreizen per 1 april 2008.  |
+| 21-04-2008  | [2008-0000181427](../../../../../../../../../../../circulaire/nieuwe/voorziening/woon–werkverkeer/BWBR0023827/README.md)  | 2008, 85  | Nieuwe voorziening voor het woon-werkverkeer  |
+| 06-05-2008  | [2008-0000195249](../../../../../../../../../../../circulaire/circulaire/sociaal/flankerend/beleid/sector/rijk/2008–2012/BWBR0023859/README.md)  | 2008, 93  | Sociaal flankerend beleid sector Rijk 2008–2012.  |
+| 09-05-2008  | [2008-0000202305](../../../../../../../../../../../circulaire/circulaire/aanpassing/voorschriften/besluit/betaling/emolumenten/etc/BWBR0023868/README.md)  | 2008, 94  | Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel v.w.b. de maximum verrekeningsbedragen voor verwarming e.d.  |
+| 20-05-2008  | [2008-0000224655](../../../../../../../../../../../circulaire/circulaire/pilot/tussen/rijk/en/onderwijs/BWBR0023956/README.md)   | 2008, 104 en 108  | Pilot tussen Rijk en Onderwijs.  |
+| 21-05-2008  | [2008-0000224119](../../../../../../../../../../../circulaire/teruggave/pseudo-premie/ww/2006/BWBR0023924/README.md)  | 2008, 104  | Teruggave pseudo-premie WW 2006.  |
+| 04-06-2008  | [2008-0000242819](../../../../../../../../../../../circulaire/circulaire/gelaatsbedekkende/kleding/BWBR0024046/README.md)  | 2008, 120  | Gelaatsbedekkende kleding.  |
+| 10-06-2008  | [2008-0000258541](../../../../../../../../../../../circulaire/circulaire/aanpassing/huurwaarde/dienstwoningen/per/1/juli/2008/BWBR0024027/README.md)  | 2008, 117  | Aanpassing huurwaarde dienstwoningen.  |
 | 10-07-2008  | 2008-0000296476  | 2008, 139  | Verkeersboetes.  |
 | 18-07-2008  | 2008-0000323682  | 2008, 146  | Teruggave ZVW en werknemerspremie 2007.  |
-| 29-08-2008  |  2008-0000402476   | 2008, 181  | Tarieflijst logies- en overige kosten buitenlandse dienstreizen per 1 oktober 2008.  |
+| 29-08-2008  | 2008-0000402476  | 2008, 181  | Tarieflijst logies- en overige kosten buitenlandse dienstreizen per 1 oktober 2008.  |
 | Aug. 2008  | 2008-0000383911  | –  | Aanbieding handreiking fasegewijs (re)organiseren.  |
 | 16-12-2008  | 2008-0000564650  | Nog niet bekend  | Wijziging in de financiële arbeidsvoorwaarden sector Rijk per 1 januari 2009.  |
 

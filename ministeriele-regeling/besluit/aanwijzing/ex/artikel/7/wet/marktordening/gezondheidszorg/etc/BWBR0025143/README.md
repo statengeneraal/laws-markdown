@@ -12,16 +12,16 @@ Besluit:
 
 ### Artikel  1  
 
-Deze aanwijzing is van toepassing op extramurale dieetadvisering zoals deze wordt aangeboden door zorgaanbieders die zijn toegelaten voor de functie(s) persoonlijke verzorging, verpleging, ondersteunende begeleiding, activerende begeleiding of behandeling als omschreven in het [Besluit zorgaanspraken](../../../../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md). Niet van toepassing is de aanwijzing op zorg voor zover deze bekostigd wordt via zorgzwaartepakketen Ter uitvoering van deze aanwijzing stelt de Nederlandse Zorgautoriteit beleidsregels op.  
+Deze aanwijzing is van toepassing op extramurale dieetadvisering zoals deze wordt aangeboden door zorgaanbieders die zijn toegelaten voor de functie(s) persoonlijke verzorging, verpleging, ondersteunende begeleiding, activerende begeleiding of behandeling als omschreven in het [Besluit zorgaanspraken](../../../../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md). Niet van toepassing is de aanwijzing op zorg voor zover deze bekostigd wordt via zorgzwaartepakketen Ter uitvoering van deze aanwijzing stelt de Nederlandse Zorgautoriteit beleidsregels op. 
 
 ### Artikel  2  
 
-De Nederlandse Zorgautoriteit stelt met ingang van 1 januari 2009 prestatiebeschrijvingen vast voor de in artikel 1 bedoelde zorg. Met ingang van 1 januari 2009 gelden voor zorg als bedoeld in het eerste lid vrije tarieven als bedoeld in [artikel 57, vierde lid, onder c, van de Wet marktordening gezondheidszorg](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).  
+De Nederlandse Zorgautoriteit stelt met ingang van 1 januari 2009 prestatiebeschrijvingen vast voor de in artikel 1 bedoelde zorg. Met ingang van 1 januari 2009 gelden voor zorg als bedoeld in het eerste lid vrije tarieven als bedoeld in [artikel 57, vierde lid, onder c, van de Wet marktordening gezondheidszorg](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md). 
 
 ### Artikel  3  
 
-Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.  
+Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst. 
 
 De 
 Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
-J.Bussemaker   
+J. Bussemaker     
