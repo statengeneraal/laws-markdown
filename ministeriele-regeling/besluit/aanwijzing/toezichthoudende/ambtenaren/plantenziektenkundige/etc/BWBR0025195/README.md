@@ -10,13 +10,13 @@ Besluit:
 
 ### Artikel  1  
 
-Met het toezicht op de naleving van de bij of krachtens de [Warenwet](../../../../../../../../wet/warenwet/BWBR0001969/README.md) gestelde voorschriften betreffende het verhandelen van Lucky Bamboo (Dracaenan sandrina) zijn belast de controleambtenaren van de Plantenziektenkundige Dienst.  
+Met het toezicht op de naleving van de bij of krachtens de [Warenwet](../../../../../../../../wet/warenwet/BWBR0001969/README.md) gestelde voorschriften betreffende het verhandelen van Lucky Bamboo (Dracaenan sandrina) zijn belast de controleambtenaren van de Plantenziektenkundige Dienst. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink   
+A. Klink     

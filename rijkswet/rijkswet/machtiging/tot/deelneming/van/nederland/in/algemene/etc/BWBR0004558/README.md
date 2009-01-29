@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Artikel  1  
 
-Onze Minister van Financiën wordt gemachtigd om het nodige te verrichten, opdat het Koninkrijk der Nederlanden deelneemt in de verhoging van het aandelenkapitaal van de Internationale Bank voor Herstel en Ontwikkeling tot een bedrag van $ 1 879 252 030 in het kader van de in 1988 tot stand gekomen algemene verhoging van het kapitaal van deze instelling, overeenkomstig artikel 2 van de Overeenkomst tot oprichting van de Internationale Bank voor Herstel en Ontwikkeling (*Stb.* G. 278. blz. 108-182).  
+Onze Minister van Financiën wordt gemachtigd om het nodige te verrichten, opdat het Koninkrijk der Nederlanden deelneemt in de verhoging van het aandelenkapitaal van de Internationale Bank voor Herstel en Ontwikkeling tot een bedrag van $ 1 879 252 030 in het kader van de in 1988 tot stand gekomen algemene verhoging van het kapitaal van deze instelling, overeenkomstig artikel 2 van de Overeenkomst tot oprichting van de Internationale Bank voor Herstel en Ontwikkeling (*Stb.* G. 278. blz. 108-182). 
 
 ### Artikel  2  
 
-Deze rijkswet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze rijkswet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad*, in het *Publicatieblad van de Nederlandse Antillen* en in het *Afkondigingsblad van Aruba* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

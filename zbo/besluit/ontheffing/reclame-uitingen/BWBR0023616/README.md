@@ -22,7 +22,7 @@ c. facilitair bedrijf: de onderneming die de technische realisatie van het progr
 
 d. locatie: de plaats waar opnamen voor een programmaonderdeel zijn of worden gemaakt;  
 
-e. loterijen: de permanente landelijke goede doelenloterijen inclusief de sporttotalisator en de Staatsloterij, die een vergunning hebben op grond van de [Wet op de Kansspelen](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);    
+e. loterijen: de permanente landelijke goede doelenloterijen inclusief de sporttotalisator en de Staatsloterij, die een vergunning hebben op grond van de [Wet op de Kansspelen](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);   
 
 ####– (co)producent en facilitaire bedrijf –
 
@@ -32,7 +32,7 @@ e. loterijen: de permanente landelijke goede doelenloterijen inclusief de sportt
 
 a. de vermelding of vertoning gebeurt op de aan- of aftitelrol of, voor zover het radio betreft, bij de aan- of afkondiging van het programmaonderdeel, en,  
 
-b. de vermelding of vertoning uit niet meer bestaat dan de naam en het logo van de producent of de naam van het facilitaire bedrijf.     
+b. de vermelding of vertoning uit niet meer bestaat dan de naam en het logo van de producent of de naam van het facilitaire bedrijf.    
 
 ####– auteursrechthebbende –
 
@@ -42,11 +42,11 @@ b. de vermelding of vertoning uit niet meer bestaat dan de naam en het logo van 
 
 a. de vermelding of vertoning gebeurt op de aan- of aftitelrol of, voor zover het radio betreft, bij de aan- of afkondiging van het programmaonderdeel, en,  
 
-b. de vermelding of vertoning uit niet meer bestaat dan de naam van de auteursrechthebbende.     
+b. de vermelding of vertoning uit niet meer bestaat dan de naam van de auteursrechthebbende.    
 
-####– vacaturebanken –
+#### – vacaturebanken –
 
-### Artikel  4  
+### Artikel   4  
 
 1.  Aan lokale en regionale instellingen die zendtijd hebben verkregen wordt ontheffing verleend, van het bepaalde in de [eerste volzin van het tweede lid van artikel 52 van de Mediawet](../../../../../wet/mediawet/BWBR0004149/README.md), voor het vermelden of vertonen van bedrijfsnamen in combinatie met adressen, telefoonnummers of websites in een programmaonderdeel, onder de voorwaarden dat: 
 
@@ -54,19 +54,19 @@ a. het programmaonderdeel uitsluitend bestaat uit het vermelden of vertonen van 
 
 b. er niet direct of indirect wordt verwezen naar de namen van uitzendbureau’s; en  
 
-c. het betreffende bedrijf, dan wel de door dit bedrijf geëxploiteerde producten of diensten, neutraal worden getoond of vermeld.     
+c. het betreffende bedrijf, dan wel de door dit bedrijf geëxploiteerde producten of diensten, neutraal worden getoond of vermeld.    
 
-####– loterij –
+#### – loterij –
 
-### Artikel  5  
+### Artikel   5  
 
 1.  Aan instellingen die zendtijd hebben verkregen wordt ontheffing verleend, van het bepaalde in de eerste volzin van het tweede lid van [artikel 52 van de Mediawet](../../../../../wet/mediawet/BWBR0004149/README.md), voor het vermelden of vertonen van naam of (beeld)merk van een loterij in een programmaonderdeel, onder de voorwaarden dat: 
 
 a. in het programmaonderdeel een trekking van een loterij bekend wordt gemaakt; en  
 
-b. de vermelding of vertoning van de naam betrekking heeft op de bekendmaking van de trekking.     
+b. de vermelding of vertoning van de naam betrekking heeft op de bekendmaking van de trekking.    
 
-####– locatievermelding –
+#### – locatievermelding –
 
 ### Artikel  6  
 
@@ -79,18 +79,18 @@ b. de vermelding uit niet meer bestaat dan de naam en, indien dit noodzakelijk i
 
 a. de vermelding of vertoning ten hoogste één maal tijdens de vooraankondiging wordt gedaan; en  
 
-b. de vermelding uit niet meer bestaat dan de naam en, indien dit noodzakelijk is voor de identificatie van de locatie, de plaatsnaam van de locatie.     
+b. de vermelding uit niet meer bestaat dan de naam en, indien dit noodzakelijk is voor de identificatie van de locatie, de plaatsnaam van de locatie.    
 
 ### Artikel  7  
 
 1.  Dit besluit treedt in werking met ingang van 15 maart 2008.   
 2.  De generieke ontheffingen van 31 augustus 1988, 30 november 1990, 26 oktober 1992, 1 maart 1993 en 4 december 1995 worden ingetrokken.   
 3.  Dit besluit wordt aangehaald als Besluit ontheffing reclame-uitingen.   
-4.  Dit besluit wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de internetsite van het Commissariaat voor de Media (www.cvdm.nl).   
+4.  Dit besluit wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de internetsite van het Commissariaat voor de Media (www.cvdm.nl).  
 
 Commissariaat voor de Media, 
-I.Brakman
-Voorzitter 
+I. Brakman  
+Voorzitter  
 
 J. van Cuilenburg  
 Commissaris    

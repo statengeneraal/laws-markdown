@@ -40,7 +40,7 @@ De kosten van de aanvulling op het salaris kunnen, onder vermelding van ‘Tusse
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-G. terHorst  
+G. ter Horst    
 
 ### Bijlage  
 
@@ -67,6 +67,6 @@ Naar aanleiding van de Circulaire Pilot tussen Rijk en Onderwijs, d.d. 20 mei 2
 – De declaraties die voor de bovengenoemde data binnen zijn zullen behandeld worden. Declaraties na deze datum zullen niet meer in behandeling worden genomen. Betreffend ministerie zal dan zelf de kosten moeten dragen over de voorafgaande periode;   In een enkel geval is het om administratief-technische redenen niet goed mogelijk gebleken dat de aanvulling op het salaris door het ministerie wordt betaald. In dat geval bestaat er geen bezwaar tegen dat de school de aanvulling rechtstreeks aan de kandidaat betaald. Het ministerie dient dan wel in een brief aan de school deze handelwijze te bevestigen. Een afschrift van deze brief dient te worden gezonden aan mijn ministerie, t.a.v. mw. M. Lamberts. Hierbij dient te worden aangegeven wat het laatstelijk genoten salaris van de kandidaat was. Vanuit mijn ministerie zal de school in kennis worden geteld van de algemene salarisontwikkelingen voor het rijkspersoneel. Voor meer informatie over de financiële afhandeling van deze pilot kunt u contact opnemen met Milly Lamberts, telefoonnummer 070-426 6438, of email milly.lamberts@minbzk.nl. Voor meer informatie over de pilot ‘Tussen Rijk en Onderwijs’ als zodanig kunt u contact opnemen met Hanna Fisscher, telefoonnummer 070-376 5772, of e-mail: h.fisscher@caop.nl. Voor overige informatie en/ of vragen kunt u contact opnemen met John van Baarle, telefoonnummer: 070-426 7661, of e-mail: john.baarle@minbzk.nl. Ik hoop u hiermee voldoende te hebben geïnformeerd.  
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
-directeurOrganisatie- en Personeelsbeleid Rijk, 
-S.C.Görtz  
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze:de 
+directeur Organisatie- en Personeelsbeleid Rijk, 
+S.C. Görtz    

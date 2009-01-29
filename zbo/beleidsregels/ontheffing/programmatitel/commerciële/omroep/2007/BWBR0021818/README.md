@@ -14,7 +14,7 @@ Besluit:
 
 ### Artikel  1  
 
-De beleidsregels vastgesteld in deze regeling hebben betrekking op de wettelijke voorschriften die zijn opgenomen in de bijlage bij deze regeling.  
+De beleidsregels vastgesteld in deze regeling hebben betrekking op de wettelijke voorschriften die zijn opgenomen in de bijlage bij deze regeling. 
 
 ####Definities
 
@@ -34,7 +34,7 @@ e. ontheffing: ontheffing op grond van [artikel 71m, derde lid, van de Mediawet]
 
 f. omroepinstelling: commerciële omroepinstelling;  
 
-g. programmatitel: de (vormgeving van de) titel van een programmaonderdeel;    
+g. programmatitel: de (vormgeving van de) titel van een programmaonderdeel;   
 
 ####Ontheffingsverzoek
 
@@ -43,7 +43,7 @@ g. programmatitel: de (vormgeving van de) titel van een programmaonderdeel;
 1.  Onverminderd het bepaalde in [artikel 7, vierde lid, van de BSCO](../../../../../../../../zbo/beleidsregels/sponsoring/commerciële/omroep/2005/BWBR0018546/README.md) kan een omroepinstelling een verzoek tot ontheffing van [artikel 71m, eerste lid, van de Mediawet](../../../../../../../../wet/mediawet/BWBR0004149/README.md) indienen met betrekking tot de vermelding en vertoning van een naam of (beeld)merk van een sponsor in de programmatitel van een gesponsord programmaonderdeel.   
 2.  De omroepinstelling stelt het Commissariaat bij de indiening van het verzoek tot ontheffing alle relevante bescheiden, waaronder in ieder geval het programmastatuut, ter beschikking.   
 3.  De omroepinstelling geeft in haar ontheffingsverzoek inzicht in de wijze waarop de omroepinstelling haar (eind)verantwoordelijkheid voor vorm en inhoud van het programmaonderdeel neemt.   
-4.  De omroepinstelling dient het verzoek tot ontheffing, zoals bedoeld in artikel 4, in uiterlijk twee weken voor de uitzending van het programmaonderdeel waar de ontheffing betrekking op heeft.   
+4.  De omroepinstelling dient het verzoek tot ontheffing, zoals bedoeld in artikel 4, in uiterlijk twee weken voor de uitzending van het programmaonderdeel waar de ontheffing betrekking op heeft.  
 
 ####Ontheffing programmatitels gesponsorde programmaonderdelen
 
@@ -56,7 +56,7 @@ a. de naam of het (beeld)merk van de sponsor wordt neutraal getoond of vermeld i
 
 b. de programmatitel wordt beperkt en neutraal in het programmaonderdeel getoond of vermeld, en,  
 
-c. de naam van de sponsor wordt alleen beperkt in het programmaonderdeel als bronvermelding getoond of vermeld.     
+c. de naam van de sponsor wordt alleen beperkt in het programmaonderdeel als bronvermelding getoond of vermeld.    
 
 ####Slotbepaling
 
@@ -64,23 +64,23 @@ c. de naam van de sponsor wordt alleen beperkt in het programmaonderdeel als bro
 
 1.  Deze regeling treedt in werking met ingang van 15 mei 2007.   
 2.  Deze regeling wordt aangehaald als Beleidsregels ontheffing programmatitel commerciële omroep 2007.   
-3.  Deze regeling wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de internetsite van het Commissariaat voor de Media (www.cvdm.nl).   
+3.  Deze regeling wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de internetsite van het Commissariaat voor de Media (www.cvdm.nl).  
 
 Commissariaat voor de Media, 
 
 De 
 voorzitter, 
-I.Brakman 
+I. Brakman   
 
 De 
 commissaris, 
-J. vanCuilenburg  
+J. van Cuilenburg   
 
 ### Bijlage  
 
-#### [Artikel 71m van de Mediawet](../../../../../../../../wet/mediawet/BWBR0004149/README.md) 
+#### [Artikel 71m van de Mediawet ](../../../../../../../../wet/mediawet/BWBR0004149/README.md)
 
-1. Onverminderd het bepaalde in de [artikelen 71j](../../../../../../../../wet/mediawet/BWBR0004149/README.md), [71k, tweede en derde lid](../../../../../../../../wet/mediawet/BWBR0004149/README.md), en [71l, eerste lid](../../../../../../../../wet/mediawet/BWBR0004149/README.md), worden in de programma’s van commerciële omroepinstellingen geen namen, (beeld)merken, producten, diensten of activiteiten van personen, bedrijven of instellingen vermeld of getoond, indien de desbetreffende commerciële omroepinstelling, naar redelijkerwijs kan worden aangenomen, daarmee beoogt of mede beoogt het publiek te bewegen tot het kopen van een bepaald product of het gebruik maken van een bepaalde dienstverlening, dan wel gunstig te stemmen ten aanzien van een bepaald bedrijf, een bedrijfstak of een bepaalde instelling teneinde de verkoop van producten of de afname van diensten te bevorderen. 2. Het vermelden of tonen van een naam, (beeld)merk, product, dienst of activiteit van een persoon, bedrijf of instelling in een programma wordt geacht te geschieden met het oogmerk, bedoeld in het eerste lid, indien zulks tegen betaling geschiedt. 3. Het Commissariaat voor de Media kan in bijzondere gevallen ontheffing verlenen van het eerste lid. 4. Dit artikel is niet van toepassing op reclameboodschappen en telewinkelboodschappen.  
+1. Onverminderd het bepaalde in de [artikelen 71j](../../../../../../../../wet/mediawet/BWBR0004149/README.md), [71k, tweede en derde lid](../../../../../../../../wet/mediawet/BWBR0004149/README.md), en [71l, eerste lid](../../../../../../../../wet/mediawet/BWBR0004149/README.md), worden in de programma’s van commerciële omroepinstellingen geen namen, (beeld)merken, producten, diensten of activiteiten van personen, bedrijven of instellingen vermeld of getoond, indien de desbetreffende commerciële omroepinstelling, naar redelijkerwijs kan worden aangenomen, daarmee beoogt of mede beoogt het publiek te bewegen tot het kopen van een bepaald product of het gebruik maken van een bepaalde dienstverlening, dan wel gunstig te stemmen ten aanzien van een bepaald bedrijf, een bedrijfstak of een bepaalde instelling teneinde de verkoop van producten of de afname van diensten te bevorderen. 2. Het vermelden of tonen van een naam, (beeld)merk, product, dienst of activiteit van een persoon, bedrijf of instelling in een programma wordt geacht te geschieden met het oogmerk, bedoeld in het eerste lid, indien zulks tegen betaling geschiedt. 3. Het Commissariaat voor de Media kan in bijzondere gevallen ontheffing verlenen van het eerste lid. 4. Dit artikel is niet van toepassing op reclameboodschappen en telewinkelboodschappen. 
 
 #### [Artikel 71k van de Mediawet](../../../../../../../../wet/mediawet/BWBR0004149/README.md) 
 
@@ -88,9 +88,9 @@ J. vanCuilenburg
 
 a. die zich voornamelijk bezighouden met de productie of verkoop van sigaretten of andere tabaksproducten, of  
 
-b. die gebruik maken van namen of (beeld)merken die tevens worden gebruikt door personen, bedrijven of instellingen als bedoeld in onderdeel a, of daarmee een zo sterke gelijkenis vertonen dat het publiek redelijkerwijs de indruk krijgt dat het mede de naam of het (beeld)merk van een persoon, bedrijf of instelling als bedoeld in onderdeel a betreft.   5. Programmaonderdelen van commerciële omroepinstellingen die toestemming hebben verkregen, bestaande uit nieuws, actualiteiten of politieke informatie, worden niet gesponsord. 6. Indien een gesponsord programmaonderdeel uit het buitenland is aangekocht en aldaar ten behoeve van het buitenlandse publiek reeds als programma is uitgezonden, is dit artikel slechts van toepassing voor zover de sponsorbijdragen worden verstrekt ten behoeve van de aankoop van het programmaonderdeel door de commerciële omroepinstelling. 7. Het tweede lid is van overeenkomstige toepassing op een programmaonderdeel waarvoor een overheidsinstelling of een andere instelling dan bedoeld in [artikel 1, onderdeel ll](../../../../../../../../wet/mediawet/BWBR0004149/README.md), een financiële of andere bijdrage heeft verstrekt ten behoeve van de totstandkoming of aankoop van dat programmaonderdeel, teneinde de uitzending daarvan als programmaonderdeel te bevorderen of mogelijk te maken.  
+b. die gebruik maken van namen of (beeld)merken die tevens worden gebruikt door personen, bedrijven of instellingen als bedoeld in onderdeel a, of daarmee een zo sterke gelijkenis vertonen dat het publiek redelijkerwijs de indruk krijgt dat het mede de naam of het (beeld)merk van een persoon, bedrijf of instelling als bedoeld in onderdeel a betreft.   5. Programmaonderdelen van commerciële omroepinstellingen die toestemming hebben verkregen, bestaande uit nieuws, actualiteiten of politieke informatie, worden niet gesponsord. 6. Indien een gesponsord programmaonderdeel uit het buitenland is aangekocht en aldaar ten behoeve van het buitenlandse publiek reeds als programma is uitgezonden, is dit artikel slechts van toepassing voor zover de sponsorbijdragen worden verstrekt ten behoeve van de aankoop van het programmaonderdeel door de commerciële omroepinstelling. 7. Het tweede lid is van overeenkomstige toepassing op een programmaonderdeel waarvoor een overheidsinstelling of een andere instelling dan bedoeld in [artikel 1, onderdeel ll](../../../../../../../../wet/mediawet/BWBR0004149/README.md), een financiële of andere bijdrage heeft verstrekt ten behoeve van de totstandkoming of aankoop van dat programmaonderdeel, teneinde de uitzending daarvan als programmaonderdeel te bevorderen of mogelijk te maken. 
 
-#### [Artikel 7 van de BSCO](../../../../../../../../zbo/beleidsregels/sponsoring/commerciële/omroep/2005/BWBR0018546/README.md) 
+####[ Artikel 7 van de BSCO](../../../../../../../../zbo/beleidsregels/sponsoring/commerciële/omroep/2005/BWBR0018546/README.md) 
 
 1. In de [artikelen 71k, tweede lid](../../../../../../../../wet/mediawet/BWBR0004149/README.md), en [71l, eerste lid, van de wet](../../../../../../../../wet/mediawet/BWBR0004149/README.md) wordt onder «aan het begin of aan het einde» mede verstaan: aan het begin en aan het einde. 2. Vermelding of vertoning van de sponsor als zodanig, op een andere plaats dan aan het begin of het einde van een programmaonderdeel, of op een andere plaats dan voorafgaand aan of aansluitend op een onderbreking van een programmaonderdeel voor reclame- of telewinkelboodschappen, wordt geacht te geschieden met het oogmerk om reclame te maken, bedoeld in [artikel 71m, eerste lid, van de wet](../../../../../../../../wet/mediawet/BWBR0004149/README.md). 3. Vermelding of vertoning van de evenementensponsor als zodanig, op een andere plaats dan aan het begin of het einde van een programmaonderdeel, wordt geacht te geschieden met het oogmerk om reclame te maken, bedoeld in [artikel 71m, eerste lid, van de wet](../../../../../../../../wet/mediawet/BWBR0004149/README.md). In afwijking van de eerste volzin wordt het vermelden of tonen van een naam of (beeld)merk van een evenementensponsor op een andere plaats dan aan het begin of het einde van een televisieprogrammaonderdeel, geacht niet te geschieden met het oogmerk om reclame te maken, bedoeld in [artikel 71m, eerste lid, van de wet](../../../../../../../../wet/mediawet/BWBR0004149/README.md), indien: 
 
@@ -104,5 +104,5 @@ d. de evenementensponsor niet aan het begin of aan het einde van het programmaon
 
 e. de vermelding of vertoning slechts gebeurt aan het begin of aan het einde van het verslag of de weergave van de sportwedstrijd, en,  
 
-f. de vermelding of vertoning zodanig is vormgegeven dat zij niet voldoet aan de definitie van reclameboodschap, bedoeld in [artikel 1, onderdeel kk, van de wet](../../../../../../../../wet/mediawet/BWBR0004149/README.md).   4. Het vermelden of tonen van een naam of (beeld)merk van een sponsor in de titel of leader van een (gedeelte van een) gesponsord programmaonderdeel is geen sponsorvermelding als bedoeld in [artikel 71k, tweede lid, van de wet](../../../../../../../../wet/mediawet/BWBR0004149/README.md), en wordt geacht te geschieden met het oogmerk om reclame te maken, bedoeld in [artikel 71m, eerste lid, van de wet](../../../../../../../../wet/mediawet/BWBR0004149/README.md). 5. Het vermelden of tonen van een naam of (beeld)merk van een evenementensponsor in de titel of leader van een programmaonderdeel, bestaande uit het verslag of de weergave van een evenement, is geen vermelding als bedoeld in [artikel 71l, eerste lid, van de wet](../../../../../../../../wet/mediawet/BWBR0004149/README.md). 6. Het vermelden of tonen van een beeldmerk van een evenementensponsor in de titel of leader van een programmaonderdeel, bestaande uit het verslag of de weergave van een evenement, wordt geacht te geschieden met het oogmerk om reclame te maken als, bedoeld in [artikel 71m, eerste lid, van de wet](../../../../../../../../wet/mediawet/BWBR0004149/README.md). 7. Het vermelden of tonen van een naam of merk van een evenementensponsor in de titel of leader van een programmaonderdeel, bestaande uit het verslag of de weergave van een evenement, wordt geacht niet te geschieden met het oogmerk om reclame te maken, bedoeld in [artikel 71m, eerste lid, van de wet](../../../../../../../../wet/mediawet/BWBR0004149/README.md), voor zover deze vermeldingen en de vermelding van de titel in het programmaonderdeel, niet overheersend zijn in de zin van [artikel 30a, eerste lid, van het besluit](../../../../../../../../AMvB/mediabesluit/BWBR0004237/README.md).  
+f. de vermelding of vertoning zodanig is vormgegeven dat zij niet voldoet aan de definitie van reclameboodschap, bedoeld in [artikel 1, onderdeel kk, van de wet](../../../../../../../../wet/mediawet/BWBR0004149/README.md).   4. Het vermelden of tonen van een naam of (beeld)merk van een sponsor in de titel of leader van een (gedeelte van een) gesponsord programmaonderdeel is geen sponsorvermelding als bedoeld in [artikel 71k, tweede lid, van de wet](../../../../../../../../wet/mediawet/BWBR0004149/README.md), en wordt geacht te geschieden met het oogmerk om reclame te maken, bedoeld in [artikel 71m, eerste lid, van de wet](../../../../../../../../wet/mediawet/BWBR0004149/README.md). 5. Het vermelden of tonen van een naam of (beeld)merk van een evenementensponsor in de titel of leader van een programmaonderdeel, bestaande uit het verslag of de weergave van een evenement, is geen vermelding als bedoeld in [artikel 71l, eerste lid, van de wet](../../../../../../../../wet/mediawet/BWBR0004149/README.md). 6. Het vermelden of tonen van een beeldmerk van een evenementensponsor in de titel of leader van een programmaonderdeel, bestaande uit het verslag of de weergave van een evenement, wordt geacht te geschieden met het oogmerk om reclame te maken als, bedoeld in [artikel 71m, eerste lid, van de wet](../../../../../../../../wet/mediawet/BWBR0004149/README.md). 7. Het vermelden of tonen van een naam of merk van een evenementensponsor in de titel of leader van een programmaonderdeel, bestaande uit het verslag of de weergave van een evenement, wordt geacht niet te geschieden met het oogmerk om reclame te maken, bedoeld in [artikel 71m, eerste lid, van de wet](../../../../../../../../wet/mediawet/BWBR0004149/README.md), voor zover deze vermeldingen en de vermelding van de titel in het programmaonderdeel, niet overheersend zijn in de zin van [artikel 30a, eerste lid, van het besluit](../../../../../../../../AMvB/mediabesluit/BWBR0004237/README.md). 
 

@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Artikel  1  
 
-Onze Minister van Financiën wordt gemachtigd om het nodige te verrichten, opdat het Koninkrijk der Nederlanden deelneemt in de negende middelenaanvulling van de Internationale Ontwikkelings Associatie voor een totaal bedrag van SDR 385.410.000 tegen de koers op het moment van betaling, een en ander overeenkomstig artikel III, sectie 1, van de overeenkomst betreffende de Internationale Ontwikkelings Associatie (*Trb.* 1960, 142).  
+Onze Minister van Financiën wordt gemachtigd om het nodige te verrichten, opdat het Koninkrijk der Nederlanden deelneemt in de negende middelenaanvulling van de Internationale Ontwikkelings Associatie voor een totaal bedrag van SDR 385.410.000 tegen de koers op het moment van betaling, een en ander overeenkomstig artikel III, sectie 1, van de overeenkomst betreffende de Internationale Ontwikkelings Associatie (*Trb.* 1960, 142). 
 
 ### Artikel  2  
 
-Deze Rijkswet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze Rijkswet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* en in het *Publicatieblad van de Nederlandse Antillen* en in het *Afkondigingsblad van Aruba* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

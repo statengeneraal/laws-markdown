@@ -10,29 +10,29 @@ Besluit:
 
 ####Definities
 
-a. *Wet SUWI:*[Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+a.  *Wet SUWI:* [Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
-b. *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, als bedoeld in [artikel 2, tweede lid, Wet SUWI](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+b.  *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, als bedoeld in [artikel 2, tweede lid, Wet SUWI](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
-c. *Onderdeel Cliëntenparticipatie:* het organisatieonderdeel binnen UWV dat zich bezig houdt met de uitvoering van de cliëntenparticipatie;  
+c.  *Onderdeel Cliëntenparticipatie:* het organisatieonderdeel binnen UWV dat zich bezig houdt met de uitvoering van de cliëntenparticipatie;  
 
-d. *Cliënt:* de persoon die een uitkering, een voorziening of ondersteuning bij het vinden van werk ontvangt op grond van een door UWV uitgevoerde wettelijke regeling.  
+d.  *Cliënt:* de persoon die een uitkering, een voorziening of ondersteuning bij het vinden van werk ontvangt op grond van een door UWV uitgevoerde wettelijke regeling.  
 
-e. *Cliëntenraad:* een uit cliënten bestaand gremium met taken en bevoegdheden zoals in deze regeling omschreven;  
+e.  *Cliëntenraad:* een uit cliënten bestaand gremium met taken en bevoegdheden zoals in deze regeling omschreven;  
 
-f. *Belangenorganisatie:* cliëntenorganisatie of vakorganisatie.    
+f.  *Belangenorganisatie:* cliëntenorganisatie of vakorganisatie.   
 
 ### Artikel  2  
 
 ####Reikwijdte regeling
 
-Deze regeling is van toepassing op de organisatie en werking van de door UWV ingestelde cliëntenraden.  
+Deze regeling is van toepassing op de organisatie en werking van de door UWV ingestelde cliëntenraden. 
 
 ### Artikel  3  
 
 ####Taak cliëntenraad
 
-De cliëntenraad heeft tot taak UWV gevraagd en ongevraagd te informeren en te adviseren over het uitvoeringsbeleid en de uitvoeringspraktijk, alsmede ontwikkelingen te signaleren die van invloed kunnen zijn op de dienstverlening van UWV aan cliënten.  
+De cliëntenraad heeft tot taak UWV gevraagd en ongevraagd te informeren en te adviseren over het uitvoeringsbeleid en de uitvoeringspraktijk, alsmede ontwikkelingen te signaleren die van invloed kunnen zijn op de dienstverlening van UWV aan cliënten. 
 
 ### Artikel  4  
 
@@ -75,14 +75,14 @@ d. informatie- en voorlichtingsbeleid;
 e. belangrijke beleidsbeslissingen en beleidswijzigingen die van invloed zijn op de dienstverlening aan en de positie van de cliënt van UWV;  
 
 f. inkoopbeleid re-integratie.       
-3.  Alle adviezen, informatieverzoeken en verbetervoorstellen worden door de cliëntenraad schriftelijk verstrekt en door UWV beoordeeld. UWV verzorgt binnen vier weken een schriftelijke met redenen omklede reactie. UWV kan deze termijn voor vier weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan.   
+3.  Alle adviezen, informatieverzoeken en verbetervoorstellen worden door de cliëntenraad schriftelijk verstrekt en door UWV beoordeeld. UWV verzorgt binnen vier weken een schriftelijke met redenen omklede reactie. UWV kan deze termijn voor vier weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan.  
 
 ### Artikel  5  
 
 ####Instellen commissie
 
 1.  Een cliëntenraad heeft de bevoegdheid om in overleg met UWV commissies in het leven te roepen die de raad adviseren. Deze commissies kunnen worden ingesteld op structurele of ad hoc basis. In deze commissies kunnen ook externe deskundigen zitting hebben.   
-2.  De cliëntenraad wijst een lid van de commissie, tevens lid van de cliëntenraad, aan die belast is met de voortgang van die commissie en die als contactpersoon fungeert richting de cliëntenraad.   
+2.  De cliëntenraad wijst een lid van de commissie, tevens lid van de cliëntenraad, aan die belast is met de voortgang van die commissie en die als contactpersoon fungeert richting de cliëntenraad.  
 
 ### Artikel  6  
 
@@ -101,7 +101,7 @@ c. besluiten ter vaststelling van beleidsregels die op cliëntaangelegenheden be
 d. andere beleidsvoorstellen die naar het oordeel van de Raad van bestuur of de centrale cliëntenraad belangrijke maatschappelijke consequenties hebben of principieel van aard zijn.  
 
 e. monitoring en evaluatie van algemeen functioneren (structuur) cliëntenparticipatie;     
-4.  De cliëntenraad overlegt minimaal vier keer per jaar met UWV.   
+4.  De cliëntenraad overlegt minimaal vier keer per jaar met UWV.  
 
 ### Artikel  7  
 
@@ -126,7 +126,7 @@ f. klachtenrapportages en -analyse;
 g. dienstverlening op werkpleinniveau.     
 4.  De cliëntenraad overlegt minimaal vier keer per jaar met UWV.   
 5.  De cliëntenraad kan in overleg met UWV instrumenten toepassen voor het verkrijgen van cliëntsignalen vanuit de uitvoeringspraktijk in de lokale vestigingen (werkpleinen). Instrumenten die met instemming van UWV worden toegepast, worden door het UWV gefaciliteerd.   
-6.  De cliëntenraad is bevoegd deel te nemen aan overlegvormen op het gebied van cliëntenparticipatie op de lokale vestigingen (werkpleinen). Op cliëntenraadsleden die deelnemen aan deze overlegvormen is de regeling Onkosten- en reiskostenvergoeding die als bijlage bij deze regeling is opgenomen, onverkort van toepassing.   
+6.  De cliëntenraad is bevoegd deel te nemen aan overlegvormen op het gebied van cliëntenparticipatie op de lokale vestigingen (werkpleinen). Op cliëntenraadsleden die deelnemen aan deze overlegvormen is de regeling Onkosten- en reiskostenvergoeding die als bijlage bij deze regeling is opgenomen, onverkort van toepassing.  
 
 ### Artikel  8  
 
@@ -139,7 +139,7 @@ g. dienstverlening op werkpleinniveau.
 5.  De leden van de cliëntenraad kiezen uit hun midden een voorzitter, een secretaris en een plaatsvervangend voorzitter voor de duur van een jaar. Zij zijn na afloop van deze periode herkiesbaar.   
 6.  De plaatsvervangend voorzitter fungeert alleen als voorzitter bij afwezigheid van de voorzitter.   
 7.  De cliëntenraad kan de voorzitter, diens plaatsvervanger of de secretaris uit zijn functie ontslaan met dien verstande dat een besluit daartoe de instemming behoeft van tweederde deel van de leden van de cliëntenraad. Een dergelijk besluit heeft geen gevolgen voor het lidmaatschap van de cliëntenraad. Het voornemen tot ontslag uit een functie dient te worden geagendeerd en wordt ten minste 14 dagen vóór aanvang van de vergadering aan de cliëntenraad bekend gemaakt.   
-8.  Tenzij de voorzitter of de cliëntenraad anders besluit, treedt de voorzitter op als woordvoerder van de cliëntenraad.   
+8.  Tenzij de voorzitter of de cliëntenraad anders besluit, treedt de voorzitter op als woordvoerder van de cliëntenraad.  
 
 ### Artikel  9  
 
@@ -160,14 +160,14 @@ e. op een met reden omkleed verzoek van de organisatie die het lid voor benoemin
 f. indien het lid de status van cliënt verliest.     
 2.  Benoeming wegens een tussentijdse vervanging vindt met inachtneming van de bepalingen van artikel 8 plaats.   
 3.  Vervanging vanwege de in onderdeel c of d van het eerste lid genoemde redenen vindt niet eerder plaats dan na overleg met de belangenorganisatie die het lid heeft voorgedragen en dan na hoor en wederhoor door of namens de Raad van bestuur.   
-4.  Bij voorzien langdurig verzuim van een cliëntenraadslid kan de belangenorganisatie die het lid heeft voorgedragen, na overleg met UWV voor de duur van het verzuim een vervangend lid afvaardigen. De bepalingen in deze regeling met betrekking tot de facilitering en vergoedingen van de (leden van een) cliëntenraad zijn eveneens van toepassing op vervangende leden.   
+4.  Bij voorzien langdurig verzuim van een cliëntenraadslid kan de belangenorganisatie die het lid heeft voorgedragen, na overleg met UWV voor de duur van het verzuim een vervangend lid afvaardigen. De bepalingen in deze regeling met betrekking tot de facilitering en vergoedingen van de (leden van een) cliëntenraad zijn eveneens van toepassing op vervangende leden.  
 
 ### Artikel  10  
 
 ####Voordracht landelijke cliëntenraad
 
 1.  De centrale cliëntenraad benoemt uit zijn midden 3 leden die namens de centrale cliëntenraad voor een periode van 3 jaar zitting nemen in de Landelijke Cliëntenraad als bedoeld in [artikel 8 Wet SUWI](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).   
-2.  Indien het lid niet langer lid is van de centrale cliëntenraad, eindigt ook zijn lidmaatschap van de Landelijke Cliëntenraad.   
+2.  Indien het lid niet langer lid is van de centrale cliëntenraad, eindigt ook zijn lidmaatschap van de Landelijke Cliëntenraad.  
 
 ### Artikel  11  
 
@@ -181,7 +181,7 @@ b. de totstandkoming van de agenda en de verslaglegging
 
 c. de verplichting tot het bijeenroepen van een vergadering op verzoek van UWV of een meerderheid van de leden van de cliëntenraad;  
 
-d. het besluitvormingsproces in de vergaderingen.    
+d. het besluitvormingsproces in de vergaderingen.   
 
 ### Artikel  12  
 
@@ -196,25 +196,25 @@ a. de hoofdlijnen van en relevante ontwikkelingen in de Sociale Zekerheid;
 
 b. de UWV-organisatie;  
 
-c. trainingen op het terrein van onder andere onderhandelingsvaardigheden, vergadertechniek en voorzitterschap.     
+c. trainingen op het terrein van onder andere onderhandelingsvaardigheden, vergadertechniek en voorzitterschap.    
 
 ### Artikel  13  
 
 ####Vergoedingen
 
-De leden van de cliëntenraad hebben recht op een door UWV vast te stellen onkostenvergoeding en een vergoeding voor reis- en verblijfskosten. UWV stelt hiertoe een regeling ‘Onkosten- en reiskostenvergoeding cliëntenraadsleden UWV ’ op.  
+De leden van de cliëntenraad hebben recht op een door UWV vast te stellen onkostenvergoeding en een vergoeding voor reis- en verblijfskosten. UWV stelt hiertoe een regeling ‘Onkosten- en reiskostenvergoeding cliëntenraadsleden UWV’ op. 
 
 ### Artikel  14  
 
 ####Garantstelling leden
 
-UWV draagt er zorg voor dat cliënten die lid zijn of waren van een cliëntenraad uit hoofde van hun lidmaatschap op geen enkele wijze worden benadeeld ten aanzien van de uitkering, de voorziening of de ondersteuning bij het vinden van werk die zij ontvangen van UWV en dat zij correct worden bejegend door medewerkers van UWV.  
+UWV draagt er zorg voor dat cliënten die lid zijn of waren van een cliëntenraad uit hoofde van hun lidmaatschap op geen enkele wijze worden benadeeld ten aanzien van de uitkering, de voorziening of de ondersteuning bij het vinden van werk die zij ontvangen van UWV en dat zij correct worden bejegend door medewerkers van UWV. 
 
 ### Artikel  15  
 
 ####Geschillen betreffende dit reglement
 
-Geschillen voortkomend uit de interpretatie van deze regeling worden aan de centrale cliëntenraad voorgelegd. Indien nodig worden geschillen geregeld in overleg tussen de Raad van Bestuur en de centrale cliëntenraad.  
+Geschillen voortkomend uit de interpretatie van deze regeling worden aan de centrale cliëntenraad voorgelegd. Indien nodig worden geschillen geregeld in overleg tussen de Raad van Bestuur en de centrale cliëntenraad. 
 
 ### Artikel  16  
 
@@ -236,26 +236,26 @@ e. de zittingstermijn van voormalige raadsleden die per 1 januari 2009 worden b
 f. voormalige cliëntenraadsleden die op 31 december 2008 zes jaar of langer cliëntenraadslid zijn geweest, dan wel die status binnen een half jaar na 1 januari 2009 bereiken, niet voor benoeming per 1 januari 2009 in aanmerking komen.     
 3.  UWV maakt het bestaan van een structuur van cliëntenparticipatie bekend bij de cliënten van UWV en de belangenorganisaties. Daarnaast zorgt UWV voor bekendmaking van de regeling.   
 4.  Elke cliëntenraad evalueert jaarlijks tezamen met UWV het functioneren van de raad, alsmede de wijze waarop door de raad aan cliëntenparticipatie in het algemeen invulling wordt gegeven. Indien er op basis van deze evaluatieronde reden is de regeling aan te passen dan wordt hiertoe door UWV besloten na overleg met de centrale cliëntenraad.   
-5.  In gevallen waarin deze regeling niet voorziet, beslist UWV in goed overleg met de centrale cliëntenraad.   
+5.  In gevallen waarin deze regeling niet voorziet, beslist UWV in goed overleg met de centrale cliëntenraad.  
 
 ### Artikel  17  
 
 ####Inwerkingtreding van de regeling
 
-Dit besluit treedt in werking met ingang van 1 januari 2009. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2008, treedt dit besluit in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt het terug tot en met 1 januari 2009.  
+Dit besluit treedt in werking met ingang van 1 januari 2009. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2008, treedt dit besluit in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt het terug tot en met 1 januari 2009. 
 
 ### Artikel  18  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Regeling cliëntenparticipatie UWV 2009.  
+Dit besluit wordt aangehaald als: Regeling cliëntenparticipatie UWV 2009. 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.   
 
 Amsterdam 
 23 december 2008   
 
 Voorzitter Raad van bestuur UWV, 
-J.M.Linthorst  
+J.M. Linthorst    
 
 ### Bijlage  
 
@@ -267,7 +267,7 @@ J.M.Linthorst
 
 1. UWV vergoedt de in verband met het bijwonen van een bijeenkomst van de cliëntenraad gemaakte reis- en onkosten. Voorwaarde voor de vergoeding van reiskosten is het daadwerkelijk bijwonen van de vergadering van de betreffende raad. Hiertoe zal een presentielijst worden bijgehouden. Vergoeding vindt uitsluitend plaats op declaratiebasis.  
 
-2. Vergoeding van kosten als bedoeld in eerste lid vindt plaats aan de hand van het formulier ‘Onkostendeclaratie cliëntenraden UWV’ dat verkrijgbaar is bij de adviseur cliëntenparticipatie van UWV.    
+2. Vergoeding van kosten als bedoeld in eerste lid vindt plaats aan de hand van het formulier ‘Onkostendeclaratie cliëntenraden UWV’ dat verkrijgbaar is bij de adviseur cliëntenparticipatie van UWV.   
 
 ### Artikel  2  
 
@@ -275,13 +275,13 @@ J.M.Linthorst
 
 1. De presentielijst van de betreffende vergadering strekt tot uitsluitend bewijs dat een lid de vergadering heeft bijgewoond.  
 
-2. Indien daartoe naar zijn oordeel aanleiding bestaat, kan UWV bepaalde bijeenkomsten en overleggen met vergaderingen gelijk stellen.    
+2. Indien daartoe naar zijn oordeel aanleiding bestaat, kan UWV bepaalde bijeenkomsten en overleggen met vergaderingen gelijk stellen.   
 
 ### Artikel  3  
 
 ####Reis- en onkosten
 
-Een volledig overzicht van de te vergoeden onkosten en de voorwaarden voor vergoeding staan in het schema aan het slot van deze regeling. <sup> 1  Eventuele kosten als gevolg van verlet komen niet voor vergoeding in aanmerking omdat UWV in dit geval een werkgevershouding in moet nemen.  </sup>  
+Een volledig overzicht van de te vergoeden onkosten<sup> 1  Eventuele kosten als gevolg van verlet komen niet voor vergoeding in aanmerking omdat UWV in dit geval een werkgevershouding in moet nemen. </sup> en de voorwaarden voor vergoeding staan in het schema aan het slot van deze regeling. 
 
 ### Artikel  4  
 
@@ -295,7 +295,7 @@ Een volledig overzicht van de te vergoeden onkosten en de voorwaarden voor vergo
 
 4. Declaraties worden na afloop van elke maand ingediend bij de adviseur cliëntenparticipatie.  
 
-5. In bijzondere gevallen kan UWV beslissen dat van de hiervoor geschetste wijze van declareren kan worden afgeweken.    
+5. In bijzondere gevallen kan UWV beslissen dat van de hiervoor geschetste wijze van declareren kan worden afgeweken.   
 
 ### Artikel  5  
 
@@ -303,7 +303,7 @@ Een volledig overzicht van de te vergoeden onkosten en de voorwaarden voor vergo
 
 Declaraties die binnen vijf dagen na afloop van de maand zijn ingediend bij de adviseur cliëntenparticipatie, worden uitbetaald in dezelfde maand waarin ze zijn ingediend.  
 
-| Kostensoort  | Vergoedingenspecificatie  | Bewijsstukken  |
+| Kostensoort   | Vergoedingenspecificatie   | Bewijsstukken   |
 |:---|:---|:---|
 | – Reiskosten  | Openbaar vervoer:  | --- |
 | --- | – Werkelijke kosten OV tweede klasse.  | Overlegging originele vervoersbewijzen (in combinatie met voorgeschreven declaratieformulier). Kopie strippenkaart alleen toegestaan als slechts een deel van de strippenkaart wordt gedeclareerd.  |
@@ -312,12 +312,12 @@ Declaraties die binnen vijf dagen na afloop van de maand zijn ingediend bij de a
 | --- | – € 0,28 per kilometer.  | Voorgeschreven declaratieformulier.  |
 | --- | – Parkeren, tunnels, poorten en tolpunten.  | Overlegging originele bewijsstukken (in combinatie met voorgeschreven declaratieformulier).  |
 | --- | Taxikosten:  | --- |
-| --- | – Vergoeding van werkelijke kosten aan raadsleden voor wie het reizen met openbaar vervoer bezwaarlijk is (o.b.v. verklaring behandelend arts).  | Overlegging originele bewijsstukken (in combinatie met voorgeschreven declaratieformulier).  |
+| --- | – Vergoeding van werkelijke kosten aan raadsleden voor wie het reizen met openbaar vervoer bezwaarlijk is (o.b.v. verklaring behandelend arts).   | Overlegging originele bewijsstukken (in combinatie met voorgeschreven declaratieformulier).   |
 | – Kosten van consumpties of maaltijd  | Werkelijk gemaakte kosten blijkend uit specificatie. Maaltijden alleen voor raadsleden die kunnen aantonen dat gelet op deelname aan vergadering of bijeenkomst niet thuis kan worden gegeten.  | Overlegging originele bewijsstukken (in combinatie met voorgeschreven declaratieformulier).  |
-| – Portikosten  | Werkelijk gemaakte kosten blijkend uit specificatie.  | Overlegging specificatie (in combinatie met voorgeschreven declaratieformulier).  |
-| – Kopieerkosten  | Werkelijk gemaakte kosten blijkend uit specificatie.  | Overlegging specificatie (in combinatie met voorgeschreven declaratieformulier).  |
-| – Telefoonkosten  | Vaste vergoeding per tijdseenheid (onderscheid in lokaal en interlokaal)  | Overlegging gespecificeerde factuur (in combinatie met voorgeschreven declaratieformulier).  |
+| – Portikosten  | Werkelijk gemaakte kosten blijkend uit specificatie.   | Overlegging specificatie (in combinatie met voorgeschreven declaratieformulier).   |
+| – Kopieerkosten  | Werkelijk gemaakte kosten blijkend uit specificatie.   | Overlegging specificatie (in combinatie met voorgeschreven declaratieformulier).   |
+| – Telefoonkosten  | Vaste vergoeding per tijdseenheid (onderscheid in lokaal en interlokaal)   | Overlegging gespecificeerde factuur (in combinatie met voorgeschreven declaratieformulier).   |
 | – Kosten van internetaansluiting  | 50% van de werkelijk gemaakte kosten blijkend uit specificatie.  | Overlegging gespecificeerde factuur (in combinatie met voorgeschreven declaratieformulier).  |
 | – Kosten van incidentele kinderopvang  | Werkelijk gemaakte kosten blijkend uit specificatie.  | Overlegging gespecificeerde factuur met vermelding van data en tijdstippen (in combinatie met voorgeschreven declaratieformulier).  |
-| – Kosten van kleine verbruikbare kantoorbenodigdheden, zoals schrijfmaterialen, papier, inkt. Hieronder worden niet verstaan niet-verbruikbare kantoorbenodigdheden zoals perforators, nietmachines, computers e.d.).  | Vergoeding van kosten die uitsluitend zijn toe te rekenen aan het raadslidmaatschap. Werkelijk gemaakte kosten blijkend uit specificatie.  | Overlegging originele bewijsstukken (in combinatie met voorgeschreven declaratieformulier).  |
+| – Kosten van kleine verbruikbare kantoorbenodigdheden, zoals schrijfmaterialen, papier, inkt. Hieronder worden niet verstaan niet-verbruikbare kantoorbenodigdheden zoals perforators, nietmachines, computers e.d.).   | Vergoeding van kosten die uitsluitend zijn toe te rekenen aan het raadslidmaatschap. Werkelijk gemaakte kosten blijkend uit specificatie.   | Overlegging originele bewijsstukken (in combinatie met voorgeschreven declaratieformulier).   |
 

@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Artikel  1  
 
-Het op 2 maart 2000 te Oranjestad, Aruba, totstandgekomen Verdrag inzake samenwerking tussen het Koninkrijk der Nederlanden en de regering van de Verenigde Staten van Amerika betreffende toegang tot en gebruik van faciliteiten in de Nederlandse Antillen en Aruba voor drugsbestrijding vanuit de lucht, waarvan de tekst is geplaatst in Tractatenblad 2000, 34, wordt goedgekeurd voor de Nederlandse Antillen en Aruba.  
+Het op 2 maart 2000 te Oranjestad, Aruba, totstandgekomen Verdrag inzake samenwerking tussen het Koninkrijk der Nederlanden en de regering van de Verenigde Staten van Amerika betreffende toegang tot en gebruik van faciliteiten in de Nederlandse Antillen en Aruba voor drugsbestrijding vanuit de lucht, waarvan de tekst is geplaatst in Tractatenblad 2000, 34, wordt goedgekeurd voor de Nederlandse Antillen en Aruba. 
 
 ### Artikel  2  
 
-Onze Minister van Buitenlandse Zaken zendt binnen een jaar na de inwerkingtreding van deze rijkswet, en vervolgens telkens na een jaar, aan de Staten-Generaal, de Staten van de Nederlandse Antillen en de Staten van Aruba een verslag over de doeltreffendheid en de effecten in de praktijk van het in artikel 1 van deze rijkswet genoemde verdrag. De evaluatie geschiedt met inachtneming van artikel XXII, derde lid, van dit verdrag.  
+Onze Minister van Buitenlandse Zaken zendt binnen een jaar na de inwerkingtreding van deze rijkswet, en vervolgens telkens na een jaar, aan de Staten-Generaal, de Staten van de Nederlandse Antillen en de Staten van Aruba een verslag over de doeltreffendheid en de effecten in de praktijk van het in artikel 1 van deze rijkswet genoemde verdrag. De evaluatie geschiedt met inachtneming van artikel XXII, derde lid, van dit verdrag. 
 
 ### Artikel  3  
 
-Deze rijkswet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad, waarin zij wordt geplaatst.  
+Deze rijkswet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad, waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

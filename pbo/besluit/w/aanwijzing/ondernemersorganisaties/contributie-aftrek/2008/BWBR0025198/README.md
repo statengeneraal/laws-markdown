@@ -12,11 +12,11 @@ Als ondernemersorganisaties, bedoeld in [artikel 10A, tweede lid van de Verorden
 
 1. Koninklijke Vereniging van Nederlandse Wijnhandelaren (KVNW)  
 
-2. Vereniging SlijtersUnie    
+2. Vereniging SlijtersUnie  
 
 ### Artikel  2  
 
-Dit besluit wordt aangehaald als: Besluit W aanwijzing ondernemersorganisaties contributie-aftrek 2008)  
+Dit besluit wordt aangehaald als: Besluit W aanwijzing ondernemersorganisaties contributie-aftrek 2008)
 
 Den Haag 
 5 november 2008   
