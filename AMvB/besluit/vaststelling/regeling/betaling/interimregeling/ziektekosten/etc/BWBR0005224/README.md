@@ -17,31 +17,31 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepalingen
 
-In dit besluit wordt verstaan onder: 
+In dit besluit wordt verstaan onder:  
 
 a. belanghebbende: degene die belanghebbende is in de zin van het besluit als bedoeld onder c en die in dienst is van een lichaam als bedoeld onder b dan wel een uitkering geniet op grond van of overeenkomstig de Wet uitkering wegens vrijwillig vervroegd uittreden (*Stb.* 1984, 458) uit hoofde van een betrekking aan een lichaam als bedoeld onder b;  
 
 b. lichaam: een instelling als bedoeld in [artikel 1, onderdeel d, van het Rechtspositiebesluit WPO/WEC](../../../../../../../../../AMvB/rechtspositiebesluit/wpowec/BWBR0015136/README.md);  
 
-c. besluit: de Interimregeling ziektekosten ambtenaren 1982 (*Stb.* 1982, 173).    
+c. besluit: de Interimregeling ziektekosten ambtenaren 1982 (*Stb.* 1982, 173).   
 
 ### Artikel  2  
 
 1.  In afwijking van artikel 6, eerste lid, eerste volzin, en artikel 7 van het besluit geschiedt de betaling aan de belanghebbende voor wat betreft de tegemoetkoming over het vierde kwartaal van enig jaar en het eerste kwartaal van het daaropvolgende jaar niet in de maand juni doch in de maand mei, dan wel op verzoek van de belanghebbende in de maand december van hetzelfde jaar.   
-2.  In afwijking van artikel 6, eerste lid, eerste volzin, en artikel 7 van het besluit geschiedt de betaling aan de belanghebbende voor wat betreft het tweede en derde kwartaal van enig jaar niet in de maand december doch in de daarop volgende maand januari.   
+2.   In afwijking van artikel 6, eerste lid, eerste volzin, en artikel 7 van het besluit geschiedt de betaling aan de belanghebbende voor wat betreft het tweede en derde kwartaal van enig jaar niet in de maand december doch in de daarop volgende maand januari.  
 
 ### Artikel  3  
 
-Bij de toepassing van artikel 9, eerste volzin, van het besluit wordt door het lichaam artikel 2 uitgevoerd over de volledige aanspraak op de tegemoetkoming die de belanghebbende heeft. Bij de toepassing van artikel 9, tweede volzin, van het besluit is artikel 2 van toepassing op het gedeelte van de tegemoetkoming waarop de belanghebbende bij het lichaam aanspraak heeft.  
+Bij de toepassing van artikel 9, eerste volzin, van het besluit wordt door het lichaam artikel 2 uitgevoerd over de volledige aanspraak op de tegemoetkoming die de belanghebbende heeft. Bij de toepassing van artikel 9, tweede volzin, van het besluit is artikel 2 van toepassing op het gedeelte van de tegemoetkoming waarop de belanghebbende bij het lichaam aanspraak heeft. 
 
 ### Artikel  4  
 
-1.  Indien voor de belanghebbende over al zijn inkomsten bij het lichaam in de maand december dan wel in geval van ontslag of overlijden in de maand waarin de laatste dag van het dienstverband valt, het maximum jaarbedrag van de overhevelingstoeslag blijkt te zijn berekend, wordt in die maand een uitkering toegekend ter grootte van het verschil tussen: 
+1.  Indien voor de belanghebbende over al zijn inkomsten bij het lichaam in de maand december dan wel in geval van ontslag of overlijden in de maand waarin de laatste dag van het dienstverband valt, het maximum jaarbedrag van de overhevelingstoeslag blijkt te zijn berekend, wordt in die maand een uitkering toegekend ter grootte van het verschil tussen:  
 
 a. enerzijds het bruto bedrag van de in artikel 2 bedoelde tegemoetkoming welke in januari is berekend, en  
 
 b. anderzijds het bruto bedrag van de in artikel 2 bedoelde tegemoetkoming zoals dat zou worden vastgesteld indien de betaling niet in januari doch in december dan wel de laatste maand van het dienstverband zou hebben plaatsgevonden.     
-2.  De in het eerste lid bedoelde uitkering maakt geen deel uit van het ambtelijk inkomen als bedoeld in artikel C1 van de Algemene burgerlijke pensioenwet (*Stb.* 1986, 540). Dit besluit treedt in werking op een bij koninklijk besluit te bepalen datum.   
+2.   De in het eerste lid bedoelde uitkering maakt geen deel uit van het ambtelijk inkomen als bedoeld in artikel C1 van de Algemene burgerlijke pensioenwet (*Stb.* 1986, 540). Dit besluit treedt in werking op een bij koninklijk besluit te bepalen datum.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.   
 
