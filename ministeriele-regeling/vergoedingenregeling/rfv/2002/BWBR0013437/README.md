@@ -4,7 +4,7 @@
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 Gelet op de [artikelen 3](../../../../../AMvB/vergoedingenbesluit/adviescolleges/BWBR0008353/README.md) en [5 van het Vergoedingenbesluit adviescolleges](../../../../../AMvB/vergoedingenbesluit/adviescolleges/BWBR0008353/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -25,9 +25,9 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Vergoedingenregeling Rfv 2002.  
+Deze regeling wordt aangehaald als: Vergoedingenregeling Rfv 2002. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-K.G. deVries    
+K.G. de Vries      

@@ -13,7 +13,7 @@ Hebben goedgevonden en verstaan:
 
 1.  Aan de voorzitter van het Adviescollege uitvoering wetten voor oorlogsgetroffenen wordt in plaats van een vacatiegeld een vaste beloning ten bedrage van achtduizendvierhonderd gulden per zes maanden toegekend.   
 2.  Aan de leden van het adviescollege, genoemd in het eerste lid, wordt in plaats van een vacatiegeld een vaste beloning ten bedrage van vierduizend gulden per zes maanden toegekend.   
-3.  Indien de voorzitter of een lid van het adviescollege, genoemd in het eerste lid, niet gedurende de hele termijn van zes maanden de functie van voorzitter of lid bekleedt, wordt zijn beloning, genoemd in respectievelijk het eerste en tweede lid, naar evenredigheid vastgesteld.   
+3.  Indien de voorzitter of een lid van het adviescollege, genoemd in het eerste lid, niet gedurende de hele termijn van zes maanden de functie van voorzitter of lid bekleedt, wordt zijn beloning, genoemd in respectievelijk het eerste en tweede lid, naar evenredigheid vastgesteld.  
 
 ### Artikel  2  
 
@@ -23,7 +23,7 @@ Onze Minister van Volksgezondheid, Welzijn en Sport is belast met de uitvoering 
 
 's-Gravenhage 
 22 januari 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Volksgezondheid, Welzijn en Sport, 
 E. Borst-Eilers   
@@ -31,4 +31,4 @@ E. Borst-Eilers
 drieëntwintigste februari 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

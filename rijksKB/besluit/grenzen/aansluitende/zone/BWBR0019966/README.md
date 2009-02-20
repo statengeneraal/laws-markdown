@@ -17,21 +17,21 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Onverminderd artikel 2 wordt de buitengrens van de aansluitende zone van het Koninkrijk gevormd door de lijn, waarvan elk punt gelegen is op een afstand van vierentwintig internationale zeemijlen, zijnde vierenveertig kilometer en vierhonderd achtenveertig meter, gemeten zeewaarts vanaf de basislijnen vanwaar de breedte van de territoriale zee wordt gemeten.  
+Onverminderd artikel 2 wordt de buitengrens van de aansluitende zone van het Koninkrijk gevormd door de lijn, waarvan elk punt gelegen is op een afstand van vierentwintig internationale zeemijlen, zijnde vierenveertig kilometer en vierhonderd achtenveertig meter, gemeten zeewaarts vanaf de basislijnen vanwaar de breedte van de territoriale zee wordt gemeten. 
 
 ### Artikel  2  
 
 1.  Waar een grenslijn met andere Staten is overeengekomen welke geheel of ten dele landwaarts ligt van de lijn, bedoeld in artikel 1, is deze grenslijn de buitengrens van de aansluitende zone.   
-2.  Waar nog geen grenslijn met andere Staten is overeengekomen, is de buitengrens van de aansluitende zone de middellijn, waarvan elk punt even ver verwijderd is van de dichtstbijgelegen punten van de basislijn waarvan de breedte van de territoriale zee van elk der twee Staten wordt gemeten.   
+2.  Waar nog geen grenslijn met andere Staten is overeengekomen, is de buitengrens van de aansluitende zone de middellijn, waarvan elk punt even ver verwijderd is van de dichtstbijgelegen punten van de basislijn waarvan de breedte van de territoriale zee van elk der twee Staten wordt gemeten.  
 
 ### Artikel  3  
 
 1.  De [Rijkswet instelling aansluitende zone](../../../../../../rijkswet/rijkswet/instelling/aansluitende/zone/BWBR0018265/README.md) treedt in werking op het tijdstip waarop dit besluit in werking treedt.   
-2.  Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.   
+2.  Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Besluit grenzen aansluitende zone.  
+Dit besluit wordt aangehaald als: Besluit grenzen aansluitende zone. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.   
 

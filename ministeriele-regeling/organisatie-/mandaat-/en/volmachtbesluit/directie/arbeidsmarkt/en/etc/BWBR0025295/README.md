@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling en de daarop berustende bepalingen wordt verstaan onder directie ASEA: de directie Arbeidsmarkt en Sociaal-Economische Aangelegenheden van het ministerie.  
+In deze regeling en de daarop berustende bepalingen wordt verstaan onder directie ASEA: de directie Arbeidsmarkt en Sociaal-Economische Aangelegenheden van het ministerie. 
 
 ### §  2  
 
@@ -25,7 +25,7 @@ a. de afdeling Strategie, Arbeidsmarkt en Stelsels & Regelingen;
 
 b. de afdeling Collectieve Sector en Inkomensbeleid;  
 
-c. het Bureau Bedrijfsvoering.    
+c. het Bureau Bedrijfsvoering.   
 
 ### Artikel  3  
 
@@ -43,7 +43,7 @@ e. het vanuit een economische invalshoek ondersteunen van beleidstrajecten op he
 
 f. het ondersteunen van het beleidsproces van het ministerie door het bevorderen van een goed kennisklimaat, het verrichten en laten verrichten van strategische beleidsanalyses en onderzoek, en het evalueren van de wetenschappelijke onderbouwing van het SZW-beleid;  
 
-g. de coördinatie van extern onderzoek binnen het directoraat-generaal Werk.    
+g. de coördinatie van extern onderzoek binnen het directoraat-generaal Werk.   
 
 ### Artikel  4  
 
@@ -57,7 +57,7 @@ c. de coördinatie van de advisering rond budgettaire en ordeningsvraagstukken i
 
 d. de analyse van en beleidsadvisering over de economische ontwikkelingen in Nederland;  
 
-e. de coördinatie van de voorbereiding van vergaderingen van de Raad voor het Sociaal-Economisch en Inkomensbeleid (adjunct-secretariaat RSEIB).    
+e. de coördinatie van de voorbereiding van vergaderingen van de Raad voor het Sociaal-Economisch en Inkomensbeleid (adjunct-secretariaat RSEIB).   
 
 ### §  3  
 
@@ -73,7 +73,7 @@ b. het houden van manager-medewerker gesprekken;
 
 c. verlof van medewerkers;  
 
-d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.    
+d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.   
 
 ### Artikel  6  
 
@@ -81,15 +81,15 @@ Aan de hoofden van de afdelingen, genoemd in artikel 2, wordt mandaat en machtig
 
 a. het afdoen van informatieve brieven, die betrekking hebben op de taken van de eigen organisatorische eenheid;  
 
-b. het paraferen van stukken waar de directie ASEA geen voortouw in heeft, met uitzondering van stukken waarvan gelet op het belang daarvan redelijkerwijs vermoed kan worden dat deze door de directeur ASEA afgedaan moeten worden.    
+b. het paraferen van stukken waar de directie ASEA geen voortouw in heeft, met uitzondering van stukken waarvan gelet op het belang daarvan redelijkerwijs vermoed kan worden dat deze door de directeur ASEA afgedaan moeten worden.   
 
 ### Artikel  7  
 
-Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijk toestemming van de directeur ASEA.  
+Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijk toestemming van de directeur ASEA. 
 
 ### Artikel  8  
 
-Bij afwezigheid of verhindering van de directeur ASEA worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de plaatsvervangend directeur.  
+Bij afwezigheid of verhindering van de directeur ASEA worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de plaatsvervangend directeur. 
 
 ### §  4  
 
@@ -98,7 +98,7 @@ Bij afwezigheid of verhindering van de directeur ASEA worden, voor de duur van d
 ### Artikel  9  
 
 1.  Deze regeling treedt in werking op de tweede dag na de dagtekening van de Staatscourant waarin zij is geplaatst en werkt terug tot en met 1 januari 2009.   
-2.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit Directie Arbeidsmarkt en Sociaal-Economische Aangelegenheden 2009.   
+2.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit Directie Arbeidsmarkt en Sociaal-Economische Aangelegenheden 2009.  
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -107,4 +107,4 @@ Den Haag
 De 
 Minister van Sociale Zaken en Werkgelegenheid, namens deze: de 
 directeur Arbeidsmarkt en Sociaal-Economische Aangelegenheden, 
-T.R.P.J.Kroes   
+T.R.P.J. Kroes     

@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling van de minister van Volksgezondheid, Welzijn en Sport, houdende de vaststelling van de vergoedingen van de leden van de Raad voor de volksgezondheid en zorg
+##Regeling van de minister van Volksgezondheid, Welzijn en Sport, houdende de vaststelling van de vergoedingen van de leden van de Raad voor de volksgezondheid en zorg 
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
 Gelet op [artikel 14 van de Kaderwet adviescolleges](../../../../../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) en [artikel 5 van het Vergoedingenbesluit adviescolleges](../../../../../../../../../../AMvB/vergoedingenbesluit/adviescolleges/BWBR0008353/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -28,9 +28,9 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Vergoedingenregeling leden Raad voor de volksgezondheid en zorg.  
+Deze regeling wordt aangehaald als: Vergoedingenregeling leden Raad voor de volksgezondheid en zorg. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister voornoemd, 
-E.Borst-Eilers    
+E. Borst-Eilers      

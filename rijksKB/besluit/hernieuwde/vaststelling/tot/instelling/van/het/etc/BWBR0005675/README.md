@@ -9,17 +9,17 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Er is een Mobilisatie-Oorlogskruis.  
+Er is een Mobilisatie-Oorlogskruis. 
 
 ### Artikel  2  
 
 1.  Het versiersel van het Mobilisatie-Oorlogskruis bestaat uit een vierarmig bronzen kruis, waarvan de armen gevormd worden door facetvormig geslepen zwaardpunten. Tussen de armen van het kruis bevinden zich diagonaalsgewijs gekruist twee stormdolken met de punten naar boven gericht. Op deze dolken rust een helm, omgeven met een lauwerkrans. Als komende uit het hart van het kruis, bevindt zich tussen de kruisarmen een cirkelvormige uitstraling. De lengte der kruisarmen is 21 mm en de grootste breedte is 13 mm. De lengte der dolken is 29 mm, de breedte van het lemmet is 2½ mm en de breedte van de heftknop is 4 mm. De achterzijde van het kruis draagt de tekst "Den Vaderlant ghetrouwe" en heeft in het midden een cirkel, die over de helft der kruisarmen valt. De cirkel is begrensd door de achterzijde van de uitstraling en is hol.   
-2.  Het kruis is door middel van een ring verbonden aan een paars lint van 27 mm breed met in het midden een 6 mm brede verticale oranje baan.   
-3.  Het is aan hen, die zijn gerechtigd tot het dragen van het Mobilisatie-Oorlogskruis vergund een kruis van verkleind model onder aan het lint, dan wel het lint alleen te dragen.   
+2.   Het kruis is door middel van een ring verbonden aan een paars lint van 27 mm breed met in het midden een 6 mm brede verticale oranje baan.   
+3.   Het is aan hen, die zijn gerechtigd tot het dragen van het Mobilisatie-Oorlogskruis vergund een kruis van verkleind model onder aan het lint, dan wel het lint alleen te dragen.  
 
 ### Artikel  3  
 
-1.  Het Mobilisatie-Oorlogskruis kan door of namens Onze Minister van Defensie worden toegekend aan: 
+1.  Het Mobilisatie-Oorlogskruis kan door of namens Onze Minister van Defensie worden toegekend aan:  
 
 A. Oud-militairen, destijds in dienst van het Koninkrijk der Nederlanden, die behoord hebben tot de Koninklijke marine, de Koninklijke landmacht, het voormalig Koninklijk Nederlands-Indisch leger en de Troepen in de Nederlandse Antillen en Aruba, alsmede in het voormalig Koninkrijksdeel Suriname, in werkelijke dienst zijn geweest 
 
@@ -48,27 +48,27 @@ a. die in het tijdvak ná 30 augustus 1939 en vóór 3 september 1945 gedurende 
 b. deel uitmakende van vliegtuigbemanningen der Nederlandse Burger-Luchtvaart onder Nederlands dan wel geallieerd beheer, die gedurende het tijdvak ná 30 augustus 1939 en vóór 3 september 1945 gedurende ten minste zes maanden hebben dienst gedaan aan boord van een vliegtuig, hetwelk zich bevond buiten de feitelijke macht van een vijandelijke mogendheid, of van een mogendheid, welker gebied ingevolge het koninklijk besluit van 27 maart 1941 (*Staatsblad* nr. B 30) met vijandelijk gebied was gelijkgesteld, voorzover zij het Nederlands belang hebben gediend;    
 
 C. Nederlanders, niet vallende onder het gestelde in sub A of B, die gedurende de oorlog militaire werkzaamheden in het belang van het Koninkrijk hebben verricht en voor die werkzaamheden niet reeds gerechtigd zijn tot het dragen van het Verzetsherdenkingskruis;   voorzover zij in alle opzichten een goede plichtsbetrachting en een goed gedrag hebben betoond en voor wat betreft degenen bedoeld in sub A en B niet reeds gerechtigd zijn tot het dragen van het bij het koninklijk besluit van 6 januari 1948 (*Staatsblad* Nr. I 6) opnieuw vastgesteld Oorlogs-Herinneringskruis.   
-2.  Waar in het voorgaande lid een bepaalde diensttijd wordt geëist behoeft deze niet onafgebroken te zijn geweest.   
+2.   Waar in het voorgaande lid een bepaalde diensttijd wordt geëist behoeft deze niet onafgebroken te zijn geweest.  
 
 ### Artikel  4  
 
-De in het vorige artikel genoemde diensttijd is niet vereist voor hen, die in een der voormelde tijdvakken door een dienstongeval om het leven zijn gekomen, dan wel voor de dienst ongeschikt zijn verklaard.  
+De in het vorige artikel genoemde diensttijd is niet vereist voor hen, die in een der voormelde tijdvakken door een dienstongeval om het leven zijn gekomen, dan wel voor de dienst ongeschikt zijn verklaard. 
 
 ### Artikel  5  
 
-Het Mobilisatie-Oorlogskruis kan door of namens Onze Minister van Defensie postuum worden toegekend.  
+Het Mobilisatie-Oorlogskruis kan door of namens Onze Minister van Defensie postuum worden toegekend. 
 
 ### Artikel  6  
 
-In bijzondere gevallen kan door Onze Minister van Defensie toekenning van het Mobilisatie-Oorlogskruis tijdelijk of blijvend worden ontnomen aan hen, die zich dit herinneringsteken niet langer waardig tonen.  
+In bijzondere gevallen kan door Onze Minister van Defensie toekenning van het Mobilisatie-Oorlogskruis tijdelijk of blijvend worden ontnomen aan hen, die zich dit herinneringsteken niet langer waardig tonen. 
 
 ### Artikel  7  
 
-Het koninklijk besluit van 11 oktober 1948 (*Stb* I 366) wordt ingetrokken.  
+Het koninklijk besluit van 11 oktober 1948 (*Stb* I 366) wordt ingetrokken. 
 
 ### Artikel  8  
 
-Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
 Onze Minister van Defensie is belast met de uitvoering van dit besluit dat in het *Staatsblad*, in het *Publicatieblad van de Nederlandse Antillen* en in het *Afkondigingsblad van Aruba* zal worden geplaatst.   
 

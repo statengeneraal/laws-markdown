@@ -4,7 +4,7 @@
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
 Gelet op [artikel 14 van de Kaderwet adviescolleges](../../../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) en [artikel 5 van het Vergoedingenbesluit adviescolleges](../../../../../../../../AMvB/vergoedingenbesluit/adviescolleges/BWBR0008353/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -32,9 +32,9 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: Vergoedingenregeling leden Raad voor maatschappelijke ontwikkeling.  
+Deze regeling wordt aangehaald als: Vergoedingenregeling leden Raad voor maatschappelijke ontwikkeling. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister voornoemd, 
-E.Borst-Eilers    
+E. Borst-Eilers      

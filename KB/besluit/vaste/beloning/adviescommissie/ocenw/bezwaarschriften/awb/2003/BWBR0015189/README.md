@@ -11,15 +11,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Aan de voorzitter en de plaatsvervangend voorzitter van de commissie voor de bezwaarschriften, bedoeld in artikel 3, eerste lid, onderdeel a, van de Regeling adviescommissie OCenW bezwaarschriften Awb, wordt in plaats van vacatiegeld een vaste beloning ten bedrage van € 800,– per zitting toegekend.  
+Aan de voorzitter en de plaatsvervangend voorzitter van de commissie voor de bezwaarschriften, bedoeld in artikel 3, eerste lid, onderdeel a, van de Regeling adviescommissie OCenW bezwaarschriften Awb, wordt in plaats van vacatiegeld een vaste beloning ten bedrage van € 800,– per zitting toegekend. 
 
 ### Artikel  2  
 
-Aan de leden van de commissie voor de bezwaarschriften, bedoeld in artikel 3, eerste lid, onderdeel b, van de Regeling adviescommissie OCenW bezwaarschriften Awb, wordt in plaats van vacatiegeld een vaste beloning ten bedrage van € 660,– per zitting toegekend.  
+Aan de leden van de commissie voor de bezwaarschriften, bedoeld in artikel 3, eerste lid, onderdeel b, van de Regeling adviescommissie OCenW bezwaarschriften Awb, wordt in plaats van vacatiegeld een vaste beloning ten bedrage van € 660,– per zitting toegekend. 
 
 ### Artikel  3  
 
-Het [Besluit vaste beloning Adviescommissie OCenW bezwaarschriften Awb van 15 september 1997](../../../../../../../../../../KB/besluit/vaste/beloning/adviescommissie/ocenw/bezwaarschriften/awb/BWBR0008911/README.md) (Stb. 1997, 414) komt te vervallen.  
+Het [Besluit vaste beloning Adviescommissie OCenW bezwaarschriften Awb van 15 september 1997](../../../../../../../../../../KB/besluit/vaste/beloning/adviescommissie/ocenw/bezwaarschriften/awb/BWBR0008911/README.md) (Stb. 1997, 414) komt te vervallen. 
 
 ### Artikel  4  
 
@@ -27,7 +27,7 @@ Dit besluit treedt in werking met ingang van 1 juli 2003.
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als Besluit vaste beloning Adviescommissie OCenW bezwaarschriften Awb 2003.  
+Dit besluit wordt aangehaald als Besluit vaste beloning Adviescommissie OCenW bezwaarschriften Awb 2003. 
 
 Onze Minister van Onderwijs, Cultuur en Wetenschappen is belast met de uitvoering van dit besluit (met de daarbij behorende nota van toelichting) dat in het Staatsblad zal worden geplaatst.   
 
@@ -41,4 +41,4 @@ M. J. A. van der Hoeven
 de vierentwintigste juni 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

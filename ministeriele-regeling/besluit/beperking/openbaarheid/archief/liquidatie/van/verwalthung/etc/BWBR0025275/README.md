@@ -10,24 +10,24 @@ Besluit:
 
 ### Artikel  1  
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer, alsmede op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden worden aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van de Liquidatie van de Verwalthung Sarphatistraat (LVVS) en van de Vermögensverwaltungs- en Rentenananstalt (VVRA) over de periode (1929) 1941–1958, met het inventarisnummers zoal opgenomen in de bijlage, de in het volgende artikel genoemde beperkingen gesteld voor een termijn van vijfenzeventig jaren gerekend vanaf vanaf de datum vermeld op de archiefbescheiden, echter minimaal durende tot 2019 en maximaal durende tot 2041.  
+Met het oog op de eerbiediging van de persoonlijke levenssfeer, alsmede op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden worden aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van de Liquidatie van de Verwalthung Sarphatistraat (LVVS) en van de Vermögensverwaltungs- en Rentenananstalt (VVRA) over de periode (1929) 1941–1958, met het inventarisnummers zoal opgenomen in de bijlage, de in het volgende artikel genoemde beperkingen gesteld voor een termijn van vijfenzeventig jaren gerekend vanaf vanaf de datum vermeld op de archiefbescheiden, echter minimaal durende tot 2019 en maximaal durende tot 2041. 
 
 ### Artikel  2  
 
-Raadpleging van de in het vorige artikel genoemde bescheiden is slechts mogelijk nadat de directeur van het Nationaal Archief daarmee heeft ingestemd. Voor het doen van het verzoek tot instemming wordt gebruik gemaakt van het door het Nationaal Archief voorgeschreven formulier voor toestemming tot raadpleging van niet-openbare archieven.  
+Raadpleging van de in het vorige artikel genoemde bescheiden is slechts mogelijk nadat de directeur van het Nationaal Archief daarmee heeft ingestemd. Voor het doen van het verzoek tot instemming wordt gebruik gemaakt van het door het Nationaal Archief voorgeschreven formulier voor toestemming tot raadpleging van niet-openbare archieven. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd. 
 
 De 
 minister van Financiën, namens deze: de 
 plv. Secretaris-generaal, 
-A.S.M.Koeleman  
+A.S.M. Koeleman    
 
 ### Bijlage  
 
-| lnv.Nr.  | Openbaar vanaf 1 januari  |
+| lnv.Nr.   | Openbaar vanaf 1 januari  |
 |:---|:---|
 | 2126  | 2020  |
 | 2127  | 2023  |

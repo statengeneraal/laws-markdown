@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling en de daarop berustende bepalingen wordt verstaan onder directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving: de directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving van het ministerie.  
+In deze regeling en de daarop berustende bepalingen wordt verstaan onder directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving: de directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving van het ministerie. 
 
 ### §  2  
 
@@ -25,7 +25,7 @@ a. de afdeling Cao Onderzoek en Beleidsinformatie;
 
 b. de afdeling Registratie, Beheer en Informatie;  
 
-c. de afdeling Collectieve Arbeidsvoorwaarden.    
+c. de afdeling Collectieve Arbeidsvoorwaarden.   
 
 ### Artikel  3  
 
@@ -33,7 +33,7 @@ Het hoofd van de afdeling Cao Onderzoek en Beleidsinformatie is verantwoordelijk
 
 a. Het instellen van onderzoeken naar ontwikkelingen met betrekking tot collectieve arbeidsovereenkomsten;  
 
-b. Het genereren van beleidsinformatie ten aanzien van de overige uitvoeringstaken die tot de taak van de directie behoren.    
+b. Het genereren van beleidsinformatie ten aanzien van de overige uitvoeringstaken die tot de taak van de directie behoren.   
 
 ### Artikel  4  
 
@@ -48,7 +48,7 @@ c. de registratie van verzoeken tot verplichtstelling van bedrijfstakpensioenfon
 d. het innemen van meldingen als bedoeld in de [Wet melding collectief ontslag](../../../../../../../../wet/wet/melding/collectief/ontslag/BWBR0003026/README.md);  
 
 e. de telefonische informatieverstrekking als mede de inname van verzoeken om toepassing van de ontheffing als bedoeld in [artikel 8, derde lid Buitengewoon Besluit Arbeidsverhoudingen 1945](../../../../../../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md).     
-2.  Het hoofd van de afdeling Registratie, Beheer en Informatie is voorts verantwoordelijk voor alle interne processen betreffende de bedrijfsvoering van de Directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving, waaronder de management-, administratieve-, secretariële-, personele-, en financiële ondersteuning, automatisering, managementinformatievoorziening en huisvesting.   
+2.  Het hoofd van de afdeling Registratie, Beheer en Informatie is voorts verantwoordelijk voor alle interne processen betreffende de bedrijfsvoering van de Directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving, waaronder de management-, administratieve-, secretariële-, personele-, en financiële ondersteuning, automatisering, managementinformatievoorziening en huisvesting.  
 
 ### Artikel  5  
 
@@ -68,7 +68,7 @@ f. het periodieke toetsen van gegevens betreffende de representativiteit van con
 
 g. het behandelen van verzoeken om toepassing van de ontheffing als bedoeld in [artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](../../../../../../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md);  
 
-h. het behandelen van verzoeken om toepassing van [artikel 6, derde lid, van de Wet melding collectief ontslag](../../../../../../../../wet/wet/melding/collectief/ontslag/BWBR0003026/README.md).    
+h. het behandelen van verzoeken om toepassing van [artikel 6, derde lid, van de Wet melding collectief ontslag](../../../../../../../../wet/wet/melding/collectief/ontslag/BWBR0003026/README.md).   
 
 ### §  3  
 
@@ -76,7 +76,7 @@ h. het behandelen van verzoeken om toepassing van [artikel 6, derde lid, van de
 
 ### Artikel  6  
 
-Bij afwezigheid of verhindering van de directeur Uitvoeringstaken Arbeidsvoorwaardenwetgeving worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd dat is aangewezen als plaatsvervangend directeur.  
+Bij afwezigheid of verhindering van de directeur Uitvoeringstaken Arbeidsvoorwaardenwetgeving worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd dat is aangewezen als plaatsvervangend directeur. 
 
 ### Artikel  7  
 
@@ -88,7 +88,7 @@ b. het houden van manager-medewerker gesprekken;
 
 c. verlof van medewerkers;  
 
-d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.    
+d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.   
 
 ### Artikel  8  
 
@@ -96,7 +96,7 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 a. het afdoen van informatieve brieven die betrekking hebben op de taken van de eigen organisatorische eenheid;  
 
-b. het paraferen van stukken waar de directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving geen voortouw in heeft, met uitzondering van stukken waarvan gelet op het belang daarvan redelijkerwijs vermoed kan worden dat deze door de directeur Uitvoeringstaken Arbeidsvoorwaardenwetgeving afgedaan moeten worden.    
+b. het paraferen van stukken waar de directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving geen voortouw in heeft, met uitzondering van stukken waarvan gelet op het belang daarvan redelijkerwijs vermoed kan worden dat deze door de directeur Uitvoeringstaken Arbeidsvoorwaardenwetgeving afgedaan moeten worden.   
 
 ### Artikel  9  
 
@@ -106,11 +106,11 @@ a. het aangaan van overeenkomsten met betrekking tot het inhuren van uitzendkrac
 
 b. het aangaan van overeenkomsten voor het opleiden van medewerkers van de directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving welke voortvloeien uit het vastgestelde opleidingsplan van de directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving;  
 
-c. het afsluiten van koopovereenkomsten met betrekking tot kantoorbenodigdheden, reisbescheiden en waardebonnen ten behoeve van de directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving met een waarde van ten hoogste € 5.000,– per overeenkomst.    
+c. het afsluiten van koopovereenkomsten met betrekking tot kantoorbenodigdheden, reisbescheiden en waardebonnen ten behoeve van de directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving met een waarde van ten hoogste € 5.000,– per overeenkomst.   
 
 ### Artikel  10  
 
-Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijk toestemming van de directeur Uitvoeringstaken Arbeidsvoorwaardenwetgeving.  
+Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijk toestemming van de directeur Uitvoeringstaken Arbeidsvoorwaardenwetgeving. 
 
 ### §  4  
 
@@ -119,7 +119,7 @@ Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelij
 ### Artikel  11  
 
 1.  Deze regeling treedt in werking op de tweede dag na de dagtekening van de Staatscourant waarin zij is geplaatst en werkt terug tot en met 1 januari 2009.   
-2.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit Uitvoeringstaken Arbeidsvoorwaardenwetgeving 2009.   
+2.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit Uitvoeringstaken Arbeidsvoorwaardenwetgeving 2009.  
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -128,4 +128,4 @@ Den Haag
 De 
 Minister van Sociale Zaken en Werkgelegenheid, namens deze: de 
 directeur Uitvoeringstaken Arbeidsvoorwaardenwetgeving, 
-M.H.M. van derGoes   
+M.H.M. van der Goes     

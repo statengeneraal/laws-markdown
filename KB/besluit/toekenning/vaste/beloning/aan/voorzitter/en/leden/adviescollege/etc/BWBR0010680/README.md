@@ -13,7 +13,7 @@ Hebben goedgevonden en verstaan:
 
 1.  Aan de voorzitter van het Adviescollege besteding Nederlandse bijdrage aan het Nazi Persecutee Relief Fund wordt in plaats van een vacatiegeld een vaste beloning van negenduizend gulden per jaar toegekend.   
 2.  Aan de leden van het Adviescollege besteding Nederlandse bijdrage aan het Nazi Persecutee Relief Fund wordt in plaats van een vacatiegeld een vaste beloning van vierduizend gulden per jaar toegekend.   
-3.  Indien de voorzitter of een lid van Adviescollege besteding Nederlandse bijdrage aan het Nazi Persecutee Relief Fund niet gedurende het gehele jaar de functie van voorzitter of lid bekleedt, wordt zijn beloning, genoemd in het eerste, respectievelijk tweede lid, naar evenredigheid vastgesteld.   
+3.  Indien de voorzitter of een lid van Adviescollege besteding Nederlandse bijdrage aan het Nazi Persecutee Relief Fund niet gedurende het gehele jaar de functie van voorzitter of lid bekleedt, wordt zijn beloning, genoemd in het eerste, respectievelijk tweede lid, naar evenredigheid vastgesteld.  
 
 ### Artikel  2  
 
@@ -23,7 +23,7 @@ Onze Minister van Volksgezondheid, Welzijn en Sport is belast met de uitvoering 
 
 's-Gravenhage 
 26 augustus 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Volksgezondheid, Welzijn en Sport, 
 E. Borst-Eilers   
@@ -31,4 +31,4 @@ E. Borst-Eilers
 de *veertiende* september 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

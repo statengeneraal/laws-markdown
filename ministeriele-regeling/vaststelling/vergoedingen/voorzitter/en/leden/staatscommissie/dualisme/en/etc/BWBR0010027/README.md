@@ -4,7 +4,7 @@
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 Gelet op de [artikelen 3](../../../../../../../../../../../AMvB/vergoedingenbesluit/adviescolleges/BWBR0008353/README.md) en [5 van het Vergoedingenbesluit adviescolleges](../../../../../../../../../../../AMvB/vergoedingenbesluit/adviescolleges/BWBR0008353/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -16,8 +16,8 @@ De overige leden van de Staatscommissie Dualisme en lokale democratie, met uitzo
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 oktober 1998.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 oktober 1998. 
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-A.Peper    
+A.  Peper      

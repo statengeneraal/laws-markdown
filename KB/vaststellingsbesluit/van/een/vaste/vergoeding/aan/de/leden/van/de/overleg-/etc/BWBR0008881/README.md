@@ -12,15 +12,15 @@ Hebben goedgevonden en verstaan:
 ### Artikel  1  
 
 1.  Aan de leden van de Overleg- en begeleidingscommissie CAS wordt voor hun werkzaamheden een vaste vergoeding toegekend per vergadering. De vergoeding bedraagt voor de voorzitter € 254,12 en voor een ander lid € 190,59.   
-2.  Twee of meer vergaderingen op dezelfde dag gelden als één vergadering.   
+2.  Twee of meer vergaderingen op dezelfde dag gelden als één vergadering.  
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de uitgifte van het *Staatsblad* waarin het wordt geplaatst. Onze Minister van Binnenlandse Zaken is belast met de uitvoering van dit besluit dat in het *Staatsblad* zal worden geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de uitgifte van het *Staatsblad* waarin het wordt geplaatst. Onze Minister van Binnenlandse Zaken is belast met de uitvoering van dit besluit dat in het* Staatsblad* zal worden geplaatst. 
 
 's-Gravenhage 
 22 augustus 1997  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Binnenlandse Zaken, 
 J. Kohnstamm   
