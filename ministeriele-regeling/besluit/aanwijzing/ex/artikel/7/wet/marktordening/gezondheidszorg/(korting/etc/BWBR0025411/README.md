@@ -10,16 +10,16 @@ Besluit:
 
 ### Artikel  1  
 
-Deze aanwijzing is van toepassing op huisartsenzorg als bedoeld bij of krachtens de [Zorgverzekeringswet](../../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). Ter uitvoering van dit besluit stelt de Nederlandse Zorgautoriteit, verder te noemen zorgautoriteit, beleidsregels vast.  
+Deze aanwijzing is van toepassing op huisartsenzorg als bedoeld bij of krachtens de [Zorgverzekeringswet](../../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). Ter uitvoering van dit besluit stelt de Nederlandse Zorgautoriteit, verder te noemen zorgautoriteit, beleidsregels vast. 
 
 ### Artikel  2  
 
-Voor huisartsenzorg, zoals omschreven in artikel 1, geldt per 1 januari 2009 een taakstelling van per saldo € 68 mln structureel (prijspeil 2009).  
+Voor huisartsenzorg, zoals omschreven in artikel 1, geldt per 1 januari 2009 een taakstelling van per saldo € 68 mln structureel (prijspeil 2009). 
 
 ### Artikel  3  
 
-Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.  
+Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst. 
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink   
+A. Klink     

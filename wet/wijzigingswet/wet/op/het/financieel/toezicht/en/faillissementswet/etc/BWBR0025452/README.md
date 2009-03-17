@@ -11,21 +11,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet op het financieel toezicht.   
+Wijzigt de Wet op het financieel toezicht. 
 
 ### Artikel  II  
 
-Wijzigt de Faillissementswet.   
+Wijzigt de Faillissementswet. 
 
 ### Artikel  III  
 
-Op de afhandeling van een noodregeling, surseance van betaling of faillietverklaring die is vastgesteld, verleend onderscheidenlijk uitgesproken voor het tijdstip van inwerkingtreding van deze wet, blijft het vóór dat tijdstip geldende recht van toepassing.  
+Op de afhandeling van een noodregeling, surseance van betaling of faillietverklaring die is vastgesteld, verleend onderscheidenlijk uitgesproken voor het tijdstip van inwerkingtreding van deze wet, blijft het vóór dat tijdstip geldende recht van toepassing. 
 
 ### Artikel  IV  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 Lech 
 14 februari 2009  
