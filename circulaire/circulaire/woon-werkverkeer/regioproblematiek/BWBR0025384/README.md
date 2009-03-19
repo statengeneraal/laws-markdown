@@ -43,6 +43,6 @@ In de Sectorcommissie overleg rijkspersoneel zijn ook afspraken gemaakt over:
 * de mogelijkheid om voor het woon-werkverkeer op sommige dagen de fiets (tegen de hoge kilometervergoeding) en op andere dagen ander eigen vervoer (tegen de lage kilometervergoeding) te gebruiken.   Voor beide afspraken is de beoogde ingangsdatum, onder voorbehoud van de uitvoeringsgevolgen, bepaald op 1 maart 2009. Deze datum is, zo valt nu al te bepalen, uitvoeringstechnisch niet haalbaar. Naar verwachting kunnen die afspraken niet eerder dan na 1 juli 2009 geëffectueerd worden. In een afzonderlijke circulaire zal de invoeringsdatum bekend gemaakt worden en zullen de afspraken nader toegelicht worden. In de Sectorcommissie overleg rijkspersoneel is afgesproken, dat de werkgever door middel van communicatie zijn medewerkers nadrukkelijk wijst op de mogelijkheid die de [IKAP-regeling rijkspersoneel](../../../../../ministeriele-regeling/ikap-regeling/rijkspersoneel/BWBR0015799/README.md) biedt voor een aanvullende kilometervergoeding en zijn medewerkers daarin zoveel mogelijk administratief ondersteunt. Ik verzoek u zo spoedig mogelijkheid de nodige voorbereidingen te treffen om uitvoering te geven aan de inhoud van deze circulaire.     
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze:de 
 directeur-generaal Organisatie en Bedrijfsvoering Rijk, 
-J.J.M.Uijlenbroek   
+J.J.M. Uijlenbroek     
