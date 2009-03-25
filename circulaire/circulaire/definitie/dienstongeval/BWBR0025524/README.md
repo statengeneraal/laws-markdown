@@ -7,4 +7,4 @@ In het Akkoord Arbeidsvoorwaarden sector Politie (2005–2007) is afgesproken om
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
 directeur Politie en Veiligheidsregio’s, 
-A.F.Gaastra   
+A.F. Gaastra     
