@@ -16,17 +16,17 @@ De Raad voor Rechtsbijstand, Overwegende:
 
 * dat deze regels, gelet op het bepaalde in [artikel 37b, vierde lid Wet op de rechtsbijstand](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) de volgende onderwerpen bevatten: 
 
-a. een uitwerking van de diensten die voor subsidie in aanmerking komen;  
+a.  een uitwerking van de diensten die voor subsidie in aanmerking komen;  
 
-b. een nadere omschrijving van aan de subsidie verbonden verplichtingen;  
+b.  een nadere omschrijving van aan de subsidie verbonden verplichtingen;  
 
-c. de termijn die bij de indiening van de aanvraag tot subsidieverlening in acht wordt genomen;  
+c.  de termijn die bij de indiening van de aanvraag tot subsidieverlening in acht wordt genomen;  
 
-d. de aan de subsidie verbonden verplichtingen;  
+d.  de aan de subsidie verbonden verplichtingen;  
 
-e. de termijn die bij de indiening van de aanvraag tot vaststelling van de subsidie in acht moet worden genomen;  
+e.  de termijn die bij de indiening van de aanvraag tot vaststelling van de subsidie in acht moet worden genomen;  
 
-f. de wijze waarop het beschikbare bedrag wordt verdeeld.     Stelt de volgende beleidsregels vast:   
+f.  de wijze waarop het beschikbare bedrag wordt verdeeld.     Stelt de volgende beleidsregels vast:   
 ### 1  
 
 ####Indienen van het verzoek tot het verstrekken van een vertaaldienst
@@ -73,7 +73,7 @@ Als regel wordt gehanteerd dat de door de Raad gesubsidieerde vertaaldiensten pa
 
 4. als een advocaat geen toevoegnummer kan overleggen wordt hij/zij door Tvcn gefactureerd;  
 
-5. Tvcn rapporteert aan de Raad maandelijks welke diensten onder welke toevoegnummers zijn verleend. Door middel van een controle bij de raden wordt nagegaan welke telefonisch doorgegeven nummers achteraf niet tot een toevoeging hebben geleid.      
+5. Tvcn rapporteert aan de Raad maandelijks welke diensten onder welke toevoegnummers zijn verleend. Door middel van een controle bij de raden wordt nagegaan welke telefonisch doorgegeven nummers achteraf niet tot een toevoeging hebben geleid.       
 ### 4  
 
 ####Civiele rechtsbijstand
@@ -83,7 +83,7 @@ Idem aan werkwijze strafrechtsbijstand. Om zicht te kunnen houden op de omvang v
 
 ####Omvang gesubsidieerde vertaaldiensten niet meer dan 2500 woorden
 
-Het verlenen van vertaaldiensten wordt om budgettaire redenen beperkt tot een maximum van 2500 woorden. Een groter aantal woorden wordt door Tvcn slechts vertaald indien de advocaat zich bereid verklaart een factuur voor het meerdere aan Tvcn te voldoen. Aldus vastgesteld,      
+Het verlenen van vertaaldiensten wordt om budgettaire redenen beperkt tot een maximum van 2500 woorden. Een groter aantal woorden wordt door Tvcn slechts vertaald indien de advocaat zich bereid verklaart een factuur voor het meerdere aan Tvcn te voldoen.  Aldus vastgesteld,      
 
 13 januari 2009   
 
