@@ -45,9 +45,9 @@ In deze verordening wordt verstaan onder:
 | x.  | opfokgelt  | :  | vrouwelijk varken, bestemd voor de voortplanting;  |
 | y.  | opfokbeer  | :  | mannelijk varken, bestemd voor de voortplanting;  |
 | z.  | fokbijproduct  | :  | big die vanwege ongeschiktheid om als opfokgelt of opfokbeer afgezet te worden, als vleesvarken worden;  |
-| aa.  | be- of verwerker  | :  | ondernemer die zich toelegt op het slachten van varkens of op de be- of verwerking van varkensvlees;  |
-| bb.  | vervoermiddel  | :  | voertuig, waaronder mede begrepen een combinatie van een voertuig met één of meer door dat voortuig voortbewogen aanhangwagens;  |
-| cc.  | vervoerseenheid  | :  | voertuig dat, of aanhangwagen die, deel uitmaakt van een combinatie van een vervoermiddel.  |
+|aa. |be- of verwerker |: |ondernemer die zich toelegt op het slachten van varkens of op de be- of verwerking van varkensvlees; |
+|bb. |vervoermiddel |: |voertuig, waaronder mede begrepen een combinatie van een voertuig met één of meer door dat voortuig voortbewogen aanhangwagens; |
+|cc. |vervoerseenheid |: |voertuig dat, of aanhangwagen die, deel uitmaakt van een combinatie van een vervoermiddel. |
 
 ### 2  
 
@@ -75,11 +75,11 @@ h. Het varkenshouderijbedrijf is voorzien van een erfafscheiding waardoor het be
 
 i. De ondernemer legt de gegevens met betrekking tot groepsmedicatie in het logboek, bedoeld in [artikel 40, tweede lid, van de Diergeneesmiddelenwet](../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md) vast.     
 2.  De ondernemer laat één maal per jaar een bedrijfsrapport conform bijlage III opmaken door een geaccrediteerde keuringsinstantie, en overlegt deze ter verificatie van de aanwijzing, jaarlijks voor 1 juni, aan de voorzitter.   
-3.  De ondernemer overlegt eenmaal per maand een verklaring van een dierenarts waarin deze verklaart dat het in bijlage II bepaalde aantal op het varkenshouderijbedrijf aanwezige varkens serologisch is onderzocht en dat geen varkens zijn aangetroffen waarvan het bloed antilichamen tegen klassieke varkenspest of gE-antilichamen tegen de Ziekte van Aujeszky bevat, dan wel, in geval van leegstand, een verklaring van een geaccrediteerde keuringsinstantie dat de stallen van het varkenshouderijbedrijf ten tijde van de aanvraag leegstaan.   
+3.  De ondernemer overlegt eenmaal per maand een verklaring van een dierenarts waarin deze verklaart dat het in bijlage II bepaalde aantal op het varkenshouderijbedrijf aanwezige varkens serologisch is onderzocht en dat geen varkens zijn aangetroffen waarvan het bloed antilichamen tegen klassieke varkenspest of gE-antilichamen tegen de Ziekte van Aujeszky bevat, dan wel, in geval van leegstand, een verklaring van een geaccrediteerde keuringsinstantie dat de stallen van het varkenshouderijbedrijf ten tijde van de aanvraag leegstaan.  
 
 ### Artikel  3  
 
-De voorzitter wijst op aanvraag van de ondernemer diens varkenshouderijbedrijf aan als een B-bedrijf, indien op het varkenshouderijbedrijf vrouwelijke varkens worden gehouden voor het bedrijfsmatig produceren van biggen.  
+De voorzitter wijst op aanvraag van de ondernemer diens varkenshouderijbedrijf aan als een B-bedrijf, indien op het varkenshouderijbedrijf vrouwelijke varkens worden gehouden voor het bedrijfsmatig produceren van biggen. 
 
 ### Artikel  4  
 
@@ -89,7 +89,7 @@ a. de ondernemer bij aanvraag en volgens het model in bijlage III opgesteld bedr
 
 b. de ondernemer een verklaring als bedoeld in artikel 2, derde lid overlegt.     
 2.  De ondernemer laat één maal per jaar een bedrijfsrapport conform bijlage III opmaken door een geaccrediteerde keuringsinstantie, en overlegt deze ter verificatie van de aanwijzing, jaarlijks voor 1 juni, aan de voorzitter.   
-3.  De ondernemer overlegt eenmaal per maand een verklaring als bedoeld in artikel 2, derde lid, aan de voorzitter.   
+3.  De ondernemer overlegt eenmaal per maand een verklaring als bedoeld in artikel 2, derde lid, aan de voorzitter.  
 
 ### Artikel  5  
 
@@ -101,11 +101,11 @@ b. de ondernemer bij de aanvraag een volgens het model in bijlage III opgesteld 
 
 c. de ondernemer een verklaring als bedoeld in artikel 2, derde lid overlegt.     
 2.  De ondernemer laat één maal per jaar een bedrijfsrapport conform bijlage III opmaken door een geaccrediteerde keuringsinstantie, en overlegt deze ter verificatie van de aanwijzing, jaarlijks voor 1 juni, aan de voorzitter.   
-3.  De ondernemer overlegt eenmaal per maand een verklaring als bedoeld in artikel 2, derde lid, aan de voorzitter.   
+3.  De ondernemer overlegt eenmaal per maand een verklaring als bedoeld in artikel 2, derde lid, aan de voorzitter.  
 
 ### Artikel  6  
 
-De voorzitter wijst op aanvraag van de ondernemer diens varkenshouderijbedrijf aan als een F-bedrijf, indien op het varkenshouderijbedrijf speenbiggen worden gehouden, uitsluitend afkomstig van één B-bedrijf.  
+De voorzitter wijst op aanvraag van de ondernemer diens varkenshouderijbedrijf aan als een F-bedrijf, indien op het varkenshouderijbedrijf speenbiggen worden gehouden, uitsluitend afkomstig van één B-bedrijf. 
 
 ### Artikel  7  
 
@@ -122,12 +122,12 @@ a. blijkt dat het varkenshouderijbedrijf niet voldoet aan de eisen, bedoeld in d
 
 b. na afloop van de schorsing, bedoeld in het eerste lid, aanhef en onderdeel a, blijkt dat het varkenshouderijbedrijf nog steeds niet voldoet aan de eisen, bedoeld in de artikelen 2, 3, 4, 5 onderscheidenlijk 6;  
 
-c. blijkt dat in een periode van twaalf maanden na de dagtekening van het besluit tot schorsen, bedoeld in het eerste lid, aanhef en onderdeel b, de ondernemer opnieuw varkens van het varkenshouderijbedrijf afvoert of doet afvoeren, dan wel op het varkenshouderijbedrijf ontvangt of aanvoert, zonder dat wordt voldaan aan de artikelen 12, 13, 14, 16 onderscheidenlijk 17.     
+c. blijkt dat in een periode van twaalf maanden na de dagtekening van het besluit tot schorsen, bedoeld in het eerste lid, aanhef en onderdeel b, de ondernemer opnieuw varkens van het varkenshouderijbedrijf afvoert of doet afvoeren, dan wel op het varkenshouderijbedrijf ontvangt of aanvoert, zonder dat wordt voldaan aan de artikelen 12, 13, 14, 16 onderscheidenlijk 17.    
 
 ### Artikel  8  
 
-1.  Aanvragen, verklaringen en bedrijfsrapporten als bedoeld in de artikelen 2, 3, 4, 5 en 6 worden ingediend bij het productschap.   
-2.  Voor de aanwijzing als bedoeld in artikel 2, eerste lid, aanhef, de aanwijzing als bedoeld in artikel 4, eerste lid, aanhef, de aanwijzing als bedoeld in artikel 5, eerste lid, aanhef, alsmede voor de jaarlijkse verificatie van de aanwijzing, is de ondernemer een retributie verschuldigd.   
+1. Aanvragen, verklaringen en bedrijfsrapporten als bedoeld in de artikelen 2, 3, 4, 5 en 6 worden ingediend bij het productschap. 
+2. Voor de aanwijzing als bedoeld in artikel 2, eerste lid, aanhef, de aanwijzing als bedoeld in artikel 4, eerste lid, aanhef, de aanwijzing als bedoeld in artikel 5, eerste lid, aanhef, alsmede voor de jaarlijkse verificatie van de aanwijzing, is de ondernemer een retributie verschuldigd.
 
 ### 3  
 
@@ -135,7 +135,7 @@ c. blijkt dat in een periode van twaalf maanden na de dagtekening van het beslui
 
 ### Artikel  9  
 
-Het is de ondernemer verboden een of meer varkens te vervoeren van of naar, af te voeren of te doen afvoeren van een varkenshouderijbedrijf of een verzamelcentrum dan wel te ontvangen of aan te voeren op een varkenshouderijbedrijf.  
+Het is de ondernemer verboden een of meer varkens te vervoeren van of naar, af te voeren of te doen afvoeren van een varkenshouderijbedrijf of een verzamelcentrum dan wel te ontvangen of aan te voeren op een varkenshouderijbedrijf. 
 
 ### Artikel  10  
 
@@ -149,11 +149,11 @@ c. een of meer varkens van een varkenshouderijbedrijf naar een onderzoeksinstitu
 
 d. ten hoogste vier varkens per levering van een varkenshouderijbedrijf naar een locatie waar varkens worden gehouden voor recreatieve of educatieve doeleinden, of  
 
-e. een of meer varkens van een varkenshouderijbedrijf naar een varkenshouderijbedrijf buiten Nederland, hetzij rechtstreeks, hetzij via een verzamelcentrum.    
+e. een of meer varkens van een varkenshouderijbedrijf naar een varkenshouderijbedrijf buiten Nederland, hetzij rechtstreeks, hetzij via een verzamelcentrum.   
 
 ### Artikel  11  
 
-Indien na aanvang van het transport van varkens naar een lidstaat of een derde land, ingevolge [artikel 59, tweede lid, onderdeel e., van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) in samenhang met [artikel 5, eerste lid van de Regeling dierenvervoer 2007](../../../../../../ministeriele-regeling/regeling/dierenvervoer/2007/BWBR0020684/README.md) geen certificaat wordt afgegeven, is het de ondernemer in afwijking van artikel 9 toegestaan, deze varkens op de dag dat dit certificaat geweigerd wordt weer op zijn bedrijf te ontvangen of aan te voeren en, na gedeeltelijke lossing, de niet geloste varkens vervolgens wederom van zijn bedrijf te vervoeren, af te voeren of te doen afvoeren.  
+Indien na aanvang van het transport van varkens naar een lidstaat of een derde land, ingevolge [artikel 59, tweede lid, onderdeel e., van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) in samenhang met [artikel 5, eerste lid van de Regeling dierenvervoer 2007](../../../../../../ministeriele-regeling/regeling/dierenvervoer/2007/BWBR0020684/README.md) geen certificaat wordt afgegeven, is het de ondernemer in afwijking van artikel 9 toegestaan, deze varkens op de dag dat dit certificaat geweigerd wordt weer op zijn bedrijf te ontvangen of aan te voeren en, na gedeeltelijke lossing, de niet geloste varkens vervolgens wederom van zijn bedrijf te vervoeren, af te voeren of te doen afvoeren. 
 
 ### Artikel  12  
 
@@ -175,7 +175,7 @@ a. varkens worden afgevoerd naar A-bedrijven, B-bedrijven, D-bedrijven;
 b. varkens worden afgevoerd naar één C-bedrijf of ten hoogste één cluster;  
 
 c. varkens worden afgevoerd naar één E-bedrijf, waarbij niet meer naar een ander varkensbedrijf kan worden afgevoerd.     
-3.  De ondernemer die een A-bedrijf exploiteert kan in een periode van twaalf maanden eenmaal een ander adres voor de aanvoer van varkens kiezen ter vervanging van het adres, bedoeld in het eerste lid, onderdeel a., onderscheidenlijk b.. De ondernemer doet hiervan schriftelijk mededeling aan het meldingsbureau.   
+3.  De ondernemer die een A-bedrijf exploiteert kan in een periode van twaalf maanden eenmaal een ander adres voor de aanvoer van varkens kiezen ter vervanging van het adres, bedoeld in het eerste lid, onderdeel a., onderscheidenlijk b.. De ondernemer doet hiervan schriftelijk mededeling aan het meldingsbureau.  
 
 ### Artikel  13  
 
@@ -194,7 +194,7 @@ e. in een periode van ten minste vijf weken voorafgaand aan de week van aanvoer 
 3.  Indien de ondernemer die een B-bedrijf exploiteert varkens vervoert, doet vervoeren, afvoert of doet afvoeren naar een D-bedrijf waarop in een periode van drie weken voorafgaand aan de dag van afvoer van het B-bedrijf op enig tijdstip geen varkens aanwezig waren en de stallen op dat tijdstip zijn gereinigd en ontsmet, terwijl in een periode van twee maanden voor dat tijdstip geen varkens op het D-bedrijf zijn aangevoerd, is deze levering in afwijking van artikel 9 toegestaan, zonder dat deze levering wordt begrepen in de op grond van het tweede lid toegestane leveringen.   
 4.  De ondernemer die een B-bedrijf exploiteert kan in een periode van twaalf maanden eenmaal een ander adres voor de aanvoer van varkens kiezen ter vervanging van het adres, bedoeld in het eerste lid, onderdeel a., onderscheidenlijk b.. De ondernemer doet hiervan schriftelijk mededeling aan het meldingsbureau.   
 5.  Het afvoeren van varkens van een B-bedrijf overeenkomstig het tweede of derde lid is slechts toegestaan voor op het B-bedrijf geboren varkens met een gewicht van ten hoogste 35 kg.   
-6.  In afwijking van artikel 9 is het de ondernemer die een B-bedrijf exploiteert toegestaan een of meer varkens van dat bedrijf te vervoeren, doen vervoeren, af te voeren of te doen afvoeren, voor zover varkens worden afgevoerd naar één F-bedrijf, waarbij niet meer naar een ander varkensbedrijf kan worden afgevoerd.   
+6.  In afwijking van artikel 9 is het de ondernemer die een B-bedrijf exploiteert toegestaan een of meer varkens van dat bedrijf te vervoeren, doen vervoeren, af te voeren of te doen afvoeren, voor zover varkens worden afgevoerd naar één F-bedrijf, waarbij niet meer naar een ander varkensbedrijf kan worden afgevoerd.  
 
 ### Artikel  14  
 
@@ -207,16 +207,16 @@ b. in een periode van twaalf maanden slechts varkens worden afgevoerd naar ten h
 
 1e. wanneer het C-bedrijf deel uitmaakt van een cluster van twee C-bedrijven, in een periode van twaalf maanden door het cluster slechts varkens worden afgevoerd naar ten hoogste 30 B-bedrijven en D-bedrijven gezamenlijk;  
 
-2e. wanneer het C-bedrijf deel uitmaakt van een cluster van drie C-bedrijven, in een periode van twaalf maanden door het cluster slechts varkens worden afgevoerd naar ten hoogste 30 B-bedrijven en D-bedrijven gezamenlijk.       
+2e. wanneer het C-bedrijf deel uitmaakt van een cluster van drie C-bedrijven, in een periode van twaalf maanden door het cluster slechts varkens worden afgevoerd naar ten hoogste 30 B-bedrijven en D-bedrijven gezamenlijk.      
 3.  Het afvoeren van varkens van een C-bedrijf naar een D-bedrijf overeenkomstig het tweede lid is slechts toegestaan voor varkens met een gewicht van ten minste 80 kg.   
-4.  De ondernemer die een A-bedrijf of E-bedrijf exploiteert doet bij de aanvraag, bedoeld in artikel 2 of 5, opgave van de samenstelling van het cluster als bedoeld in artikel 12, tweede lid, onderdeel b. De ondernemers die de betreffende C-bedrijven exploiteren medeondertekenen deze opgave. De opgave bevat de verdeling onder de betreffende C-bedrijven van het aantal afvoeradressen, bedoeld in het tweede lid, onderdeel b, onder 1 <sup>e</sup> of 2 <sup>e</sup>.   
-5.  Het is de ondernemer die een C-bedrijf exploiteert slechts toegestaan één of meer varkens van dat bedrijf te vervoeren, te doen vervoeren, af te voeren of te doen afvoeren, als bedoeld in het tweede lid, onderdeel b, onder 1 <sup>e</sup> of 2 <sup>e</sup>, indien daarmee het aantal bij de verdeling aan dat bedrijf toebedeelde afleveradressen niet wordt overschreden.   
-6.  De samenstelling van een cluster en de verdeling van het aantal afvoeradressen kunnen in een periode van twaalf maanden eenmaal worden gewijzigd. Een wijziging van de samenstelling van het cluster en de verdeling van het aantal afvoeradressen wordt bij het meldingsbureau gemeld voorafgaand aan de toepassing van de wijziging. Deze melding wordt mede ondertekend door de ondernemers die het A-bedrijf of E-bedrijf en de betreffende C-bedrijven uitoefenen.   
+4.  De ondernemer die een A-bedrijf of E-bedrijf exploiteert doet bij de aanvraag, bedoeld in artikel 2 of 5, opgave van de samenstelling van het cluster als bedoeld in artikel 12, tweede lid, onderdeel b. De ondernemers die de betreffende C-bedrijven exploiteren medeondertekenen deze opgave. De opgave bevat de verdeling onder de betreffende C-bedrijven van het aantal afvoeradressen, bedoeld in het tweede lid, onderdeel b, onder 1<sup>e</sup> of 2<sup>e</sup>.  
+5. Het is de ondernemer die een C-bedrijf exploiteert slechts toegestaan één of meer varkens van dat bedrijf te vervoeren, te doen vervoeren, af te voeren of te doen afvoeren, als bedoeld in het tweede lid, onderdeel b, onder 1<sup>e</sup> of 2<sup>e</sup>, indien daarmee het aantal bij de verdeling aan dat bedrijf toebedeelde afleveradressen niet wordt overschreden. 
+6.  De samenstelling van een cluster en de verdeling van het aantal afvoeradressen kunnen in een periode van twaalf maanden eenmaal worden gewijzigd. Een wijziging van de samenstelling van het cluster en de verdeling van het aantal afvoeradressen wordt bij het meldingsbureau gemeld voorafgaand aan de toepassing van de wijziging. Deze melding wordt mede ondertekend door de ondernemers die het A-bedrijf of E-bedrijf en de betreffende C-bedrijven uitoefenen.  
 
 ### Artikel  15  
 
 1.  In afwijking van artikel 9 is het de ondernemer die een D-bedrijf exploiteert toegestaan een of meer varkens naar dat bedrijf te vervoeren of te doen vervoeren en op dat bedrijf aan te voeren en te ontvangen, voor zover in een periode van zestien weken slechts varkens worden aangevoerd, afkomstig van ten hoogste zes A-bedrijven, B-bedrijven, C-bedrijven, E-bedrijven of F-bedrijven of varkenshouderijbedrijven buiten Nederland, al dan niet via een verzamelcentrum, gezamenlijk.   
-2.  Indien op het D-bedrijf in een periode van drie weken voorafgaand aan de dag van aanvoer op enig tijdstip geen varkens aanwezig waren en de stallen op dat tijdstip zijn gereinigd en ontsmet, terwijl in een periode van twee maanden voor dat tijdstip geen varkens op het D-bedrijf zijn aangevoerd, is het in afwijking van het eerste lid de exploitant van een D-bedrijf toegestaan een of meer varkens naar dat bedrijf te vervoeren of te doen vervoeren en op dat bedrijf aan te voeren en te ontvangen, voor zover in een periode van vier maanden te rekenen vanaf de eerste week van aanvoer slechts varkens worden aangevoerd, afkomstig van ten hoogste twaalf A-bedrijven, B-bedrijven, C-bedrijven, E-bedrijven of F-bedrijven of varkenshouderijbedrijven buiten Nederland, al dan niet via een verzamelcentrum, gezamenlijk.   
+2.  Indien op het D-bedrijf in een periode van drie weken voorafgaand aan de dag van aanvoer op enig tijdstip geen varkens aanwezig waren en de stallen op dat tijdstip zijn gereinigd en ontsmet, terwijl in een periode van twee maanden voor dat tijdstip geen varkens op het D-bedrijf zijn aangevoerd, is het in afwijking van het eerste lid de exploitant van een D-bedrijf toegestaan een of meer varkens naar dat bedrijf te vervoeren of te doen vervoeren en op dat bedrijf aan te voeren en te ontvangen, voor zover in een periode van vier maanden te rekenen vanaf de eerste week van aanvoer slechts varkens worden aangevoerd, afkomstig van ten hoogste twaalf A-bedrijven, B-bedrijven, C-bedrijven, E-bedrijven of F-bedrijven of varkenshouderijbedrijven buiten Nederland, al dan niet via een verzamelcentrum, gezamenlijk.  
 
 ### Artikel  16  
 
@@ -228,7 +228,7 @@ a. het E-bedrijf de afvoermogelijkheden van het A-bedrijf waarvan het E-bedrijf 
 b. varkens worden afgevoerd naar A-bedrijven, B-bedrijven, D-bedrijven;  
 
 c. varkens worden afgevoerd naar één C-bedrijf of ten hoogste één cluster.     
-3.  Het afvoeren van varkens van een E-bedrijf naar een C-bedrijf is slechts toegestaan voor varkens met een gewicht van ten hoogste 35 kilogram.   
+3.  Het afvoeren van varkens van een E-bedrijf naar een C-bedrijf is slechts toegestaan voor varkens met een gewicht van ten hoogste 35 kilogram.  
 
 ### Artikel  17  
 
@@ -241,7 +241,7 @@ b. in een periode van zes weken slechts varkens worden afgevoerd naar ten hoogst
 
 c. het terugleveren betreft aan het B-bedrijf waarvan de speenbiggen betrokken zijn.     
 3.  Indien de ondernemer die een F-bedrijf exploiteert varkens vervoert, doet vervoeren, afvoert of doet afvoeren naar een D-bedrijf waarop in een periode van drie weken voorafgaand aan de dag van afvoer van het F-bedrijf op enig tijdstip geen varkens aanwezig waren en de stallen op dat tijdstip zijn gereinigd en ontsmet, terwijl in een periode van twee maanden voor dat tijdstip geen varkens op het D-bedrijf zijn aangevoerd, is deze levering in afwijking van artikel 9 toegestaan, zonder dat deze levering wordt begrepen in de op grond van het tweede lid toegestane leveringen.   
-4.  Het afvoeren van varkens van een F-bedrijf naar een D-bedrijf overeenkomstig het tweede lid is slechts toegestaan voor varkens met een gewicht van ten hoogste 35 kilogram.   
+4.  Het afvoeren van varkens van een F-bedrijf naar een D-bedrijf overeenkomstig het tweede lid is slechts toegestaan voor varkens met een gewicht van ten hoogste 35 kilogram.  
 
 ### Artikel  18  
 
@@ -255,7 +255,7 @@ c. bij de melding als bedoeld in onderdeel b de gegevens worden verstrekt die mo
 
 d. de ondernemer van het varkenshouderijbedrijf medewerking verleent aan bestemmingscontrole van de varkens op zijn bedrijf overeenkomstig artikel 5 van richtlijn nr. 90/425/EEG van de Raad van de Europese Gemeenschappen van 26 juni 1990 inzake veterinaire en zoötechnische controles in het intracommunautair handelsverkeer in bepaalde levende dieren en produkten in het vooruitzicht van de totstandbrenging van de interne markt (PbEG L 224);     
 2.  Een levering als bedoeld in het eerste lid wordt in mindering gebracht op het aantal op grond van de artikelen 12, eerste lid, 13, eerste lid, 14, eerste lid, onderscheidenlijk 15 op een varkenshouderijbedrijf toegestane leveringen.   
-3.  Op een levering als bedoeld in het eerste lid zijn de artikelen 12, eerste lid, onderdelen d en e en 13, eerste lid, onderdelen d en e, van overeenkomstige toepassing.   
+3.  Op een levering als bedoeld in het eerste lid zijn de artikelen 12, eerste lid, onderdelen d en e en 13, eerste lid, onderdelen d en e, van overeenkomstige toepassing.  
 
 ### 4  
 
@@ -270,16 +270,16 @@ d. de ondernemer van het varkenshouderijbedrijf medewerking verleent aan bestemm
 5.  Het eerste lid is niet van toepassing op het vervoer, de afvoer, de ontvangst en de aflevering van varkens, bedoeld in artikel 10, onderdeel a.   
 6.  In afwijking van het eerste lid geschiedt de melding bij aanvoer van varkens uit het buitenland, door de ondernemer van het varkenshouderijbedrijf waarheen varkens worden aangevoerd. Het tweede lid is dan niet van toepassing.   
 7.  Het eerste lid is niet van toepassing op het wederom vervoeren, afvoeren of doen afvoeren van de niet geloste varkens als bedoeld in artikel 11.   
-8.  De voorzitter kan in het geval van een uitbraak van de Ziekte van Aujeszky bij varkens overgaan tot het schorsen of intrekken van de op dat moment reeds uitgegeven transportdocumenten en tot het afgeven van transportdocumenten met een beperkte geldigheidsduur.   
+8.  De voorzitter kan in het geval van een uitbraak van de Ziekte van Aujeszky bij varkens overgaan tot het schorsen of intrekken van de op dat moment reeds uitgegeven transportdocumenten en tot het afgeven van transportdocumenten met een beperkte geldigheidsduur.  
 
 ### Artikel  20  
 
 1.  De ondernemer weigert de ontvangst van varkens indien bij de aanvoer een transportdocument met betrekking tot deze aanvoer ontbreekt.   
-2.  De exploitant van een verzamelcentrum weigert de ontvangst van varkens indien een transportdocument met betrekking tot deze aanvoer ontbreekt, tenzij de varkens zijn gemerkt als slachtvarkens en uit het vervoersdocument, bedoeld in [artikel 30, eerste lid, van de Regeling identificatie en registratie dieren](../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) blijkt dat sprake is van vervoer van slachtvarkens.   
-3.  Het is verboden om voor de afvoer van varkens met bestemming slacht een vervoermiddel op het erf van het varkenshouderijbedrijf toe te laten, waarop varkens aanwezig zijn, afkomstig van meer dan één varkenshouderijbedrijf.   
-4.  Het is verboden om voor de afvoer van zeugen met bestemming slacht een vervoermiddel op het erf van het varkenshouderijbedrijf toe te laten, waarop zeugen aanwezig zijn, afkomstig van meer dan twee varkenshouderijbedrijven.   
-5.  De be- of verwerker of het verzamelcentrum weigert de ontvangst van varkens, indien op een vervoerseenheid van het vervoermiddel varkens aanwezig zijn van meer dan twee varkenshouderijbedrijven.   
-6.  De be- of verwerker of het verzamelcentrum weigert de ontvangst van zeugen, indien op een vervoerseenheid van het vervoermiddel zeugen aanwezig zijn van meer dan drie varkenshouderijbedrijven.   
+2.  De exploitant van een verzamelcentrum weigert de ontvangst van varkens indien een transportdocument met betrekking tot deze aanvoer ontbreekt, tenzij de varkens zijn gemerkt als slachtvarkens en uit het vervoersdocument, bedoeld in [artikel 30, eerste lid, van de Regeling identificatie en registratie dieren](../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) blijkt dat sprake is van vervoer van slachtvarkens.  
+3. Het is verboden om voor de afvoer van varkens met bestemming slacht een vervoermiddel op het erf van het varkenshouderijbedrijf toe te laten, waarop varkens aanwezig zijn, afkomstig van meer dan één varkenshouderijbedrijf. 
+4. Het is verboden om voor de afvoer van zeugen met bestemming slacht een vervoermiddel op het erf van het varkenshouderijbedrijf toe te laten, waarop zeugen aanwezig zijn, afkomstig van meer dan twee varkenshouderijbedrijven. 
+5. De be- of verwerker of het verzamelcentrum weigert de ontvangst van varkens, indien op een vervoerseenheid van het vervoermiddel varkens aanwezig zijn van meer dan twee varkenshouderijbedrijven. 
+6. De be- of verwerker of het verzamelcentrum weigert de ontvangst van zeugen, indien op een vervoerseenheid van het vervoermiddel zeugen aanwezig zijn van meer dan drie varkenshouderijbedrijven.
 
 ### 5  
 
@@ -295,7 +295,7 @@ a. aan de door het bestuur aangewezen dienst en personen al die gegevens te vers
 b. aan de door het bestuur aangewezen dienst en personen te allen tijde toegang te geven of te doen geven tot hun bedrijfsruimten en tot die plaatsen of vervoermiddelen, waar dan wel waarin voorraden, dan wel varkens, tot het bedrijf van de ondernemer behorende, zijn opgeslagen dan wel worden vervoerd;  
 
 c. te gedogen dat controleurs van de door het bestuur aangewezen dienst en de door het bestuur aangewezen personen monsters nemen uit de voorraden, dan wel varkens van het bedrijf van de ondernemer, ongeacht de plaats waar of waarin zich die voorraden bevinden. De ondernemer zal alsdan de van hem gevorderde medewerking verlenen overeenkomstig de aanwijzingen van de door het bestuur aangewezen dienst en personen.     
-3.  De in het eerste lid bedoelde personen zijn bevoegd berechtingsrapporten ten behoeve van tuchtrechtelijke afhandeling op te maken.   
+3.  De in het eerste lid bedoelde personen zijn bevoegd berechtingsrapporten ten behoeve van tuchtrechtelijke afhandeling op te maken.  
 
 ### 6  
 
@@ -303,7 +303,7 @@ c. te gedogen dat controleurs van de door het bestuur aangewezen dienst en de do
 
 ### Artikel  22  
 
-Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md).  
+Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md). 
 
 ### 7  
 
@@ -313,15 +313,15 @@ Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtre
 
 1.  De voorzitter kan, voor zover het belang van preventie en bestrijding van dierziekten zich daartegen niet verzet, namens het bestuur op schriftelijk verzoek van belanghebbende, ontheffing verlenen van het gestelde in artikel 9. Aan de ontheffing kunnen bijzondere voorwaarden worden gesteld. De ontheffing kan te allen tijde worden ingetrokken.   
 2.  Voor de verlening van een ontheffing is de aanvrager een retributie verschuldigd.   
-3.  Het bestuur stelt bij besluit nadere voorwaarden aan het verlenen van ontheffingen. Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
+3.  Het bestuur stelt bij besluit nadere voorwaarden aan het verlenen van ontheffingen. Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.  
 
 ### Artikel  24  
 
-Het bestuur regelt bij verordening de wijze waarop de retributies, bedoeld in artikel 8, tweede lid, artikel 19, eerste lid, en artikel 23, tweede lid, worden vastgesteld en opgelegd, alsmede de hoogte van de retributies.  
+Het bestuur regelt bij verordening de wijze waarop de retributies, bedoeld in artikel 8, tweede lid, artikel 19, eerste lid, en artikel 23, tweede lid, worden vastgesteld en opgelegd, alsmede de hoogte van de retributies.
 
 ### Artikel  24a  
 
-Leveringen van varkens door of aan een varkenshouderijbedrijf of aan een verzamelcentrum waarvan de exploitatie nadien blijvend is gestaakt, worden niet begrepen onder de op grond van de artikelen 12, eerste lid, onderdelen a. en b., 13, eerste lid, onderdelen a. en b., en tweede lid, 14, eerste lid, en tweede lid, onderdeel b., en 15, eerste en tweede lid, toegestane leveringen, indien door de levering door of aan het bedrijf waarvan de exploitatie blijvend is gestaakt het in genoemde artikelen opgenomen maximum aantal toegestane leveringen wordt bereikt.  
+Leveringen van varkens door of aan een varkenshouderijbedrijf of aan een verzamelcentrum waarvan de exploitatie nadien blijvend is gestaakt, worden niet begrepen onder de op grond van de artikelen 12, eerste lid, onderdelen a. en b., 13, eerste lid, onderdelen a. en b., en tweede lid, 14, eerste lid, en tweede lid, onderdeel b., en 15, eerste en tweede lid, toegestane leveringen, indien door de levering door of aan het bedrijf waarvan de exploitatie blijvend is gestaakt het in genoemde artikelen opgenomen maximum aantal toegestane leveringen wordt bereikt. 
 
 ### 8  
 
@@ -332,7 +332,7 @@ Leveringen van varkens door of aan een varkenshouderijbedrijf of aan een verzame
 1.  De door het productschap uit hoofde van deze verordening verkregen gegevens omtrent ondernemingen worden in handen gesteld van de voorzitter; zij worden, behoudens aan personeelsleden van het secretariaat van het productschap, het meldingsbureau, de diensten en personen als bedoeld in artikel 21, eerste lid, alsmede ten behoeve van de handhaving van het bepaalde in deze verordening en de Dienst Regelingen, van het Ministerie van Landbouw, Natuur en Voedselkwaliteit voor zover ten behoeve van het I&R-systeem, niet verder bekend gemaakt.   
 2.  De in het eerste lid bedoelde diensten en personen zijn gehouden de op voet van het eerste lid verkregen gegevens vertrouwelijk te behandelen.   
 3.  De voorzitter kan, in afwijking van het bepaalde in het eerste lid, besluiten tot bekendmaking van getotaliseerde gegevens omtrent groepen van ondernemingen, doch nimmer op zodanige wijze dat daaruit gegevens omtrent een bepaalde onderneming kunnen worden afgeleid.   
-4.  Uit hoofde van deze verordening verkregen gegevens omtrent ondernemingen worden aan anderen dan de in het eerste lid genoemde personen en instanties slechts verstrekt voor zover zulks in overeenstemming is met de [artikelen 8](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [9 van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
+4.  Uit hoofde van deze verordening verkregen gegevens omtrent ondernemingen worden aan anderen dan de in het eerste lid genoemde personen en instanties slechts verstrekt voor zover zulks in overeenstemming is met de [artikelen 8](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [9 van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).  
 
 ### 9  
 
@@ -341,13 +341,13 @@ Leveringen van varkens door of aan een varkenshouderijbedrijf of aan een verzame
 ### Artikel  26  
 
 1.  De [Verordening varkensleveringen (PVV) 2006](../../../../../../pbo/verordening/varkensleveringen/(pvv)/2006/BWBR0020967/README.md) wordt ingetrokken.   
-2.  Verwijzingen naar de [Verordening varkensleveringen (PVV) 2006](../../../../../../pbo/verordening/varkensleveringen/(pvv)/2006/BWBR0020967/README.md) dienen gelezen te worden als verwijzingen naar deze verordening.   
+2.  Verwijzingen naar de [Verordening varkensleveringen (PVV) 2006](../../../../../../pbo/verordening/varkensleveringen/(pvv)/2006/BWBR0020967/README.md) dienen gelezen te worden als verwijzingen naar deze verordening.  
 
 ### Artikel  27  
 
 1.  Deze verordening wordt aangehaald als: Verordening varkensleveringen (PVV) 2007.   
 2.  Deze verordening zal worden geplaatst in het Verordeningenblad Bedrijfsorganisatie.   
-3.  Deze verordening treedt in werking met ingang van de tweede dag na de dag van dagtekening het Verordeningenblad waarin zij wordt geplaatst.   
+3.  Deze verordening treedt in werking met ingang van de tweede dag na de dag van dagtekening het Verordeningenblad waarin zij wordt geplaatst.  
 
 Zoetermeer 
 31 oktober 2007   
@@ -355,10 +355,10 @@ Zoetermeer
 J.J. Ramekers  
 voorzitter  
 
-S.B.M. Jongerius  
+S.B.M.  Jongerius  
 secretaris   
 
-### Bijlage  I  
+### Bijlage I 
 
 ####Eisen aan een toevoegstal als bedoeld in artikel 2, onderdeel b 
 
@@ -376,7 +376,7 @@ secretaris
 
 * de toevoegstal heeft een eigen omkleedruimte, die ruimtelijk gescheiden is van de centrale gang en afdelingen met varkens;  
 
-* de omkleedruimte is voorzien van een wasbak, laarzensets en overalls.    
+* de omkleedruimte is voorzien van een wasbak, laarzensets en overalls.   
 
 #### *B) managementeisen:* 
 
@@ -390,9 +390,9 @@ secretaris
 
 * een ieder die de toevoegstal betreedt, trekt vooraf in de omkleedruimte een daar aanwezige schone overall aan;  
 
-* indien een varken gedurende het verblijf in de toevoegstal overlijdt, biedt de exploitant het varken overeenkomstig de Uitvoeringsbeschikking ex artikel 50 Vleeskeuringswet aan voor sectie om te worden onderzocht op aangewezen besmettelijke dierziekten.    
+* indien een varken gedurende het verblijf in de toevoegstal overlijdt, biedt de exploitant het varken overeenkomstig de Uitvoeringsbeschikking ex artikel 50 Vleeskeuringswet aan voor sectie om te worden onderzocht op aangewezen besmettelijke dierziekten.   
 
-### Bijlage  II  
+### Bijlage II 
 
 ####Aantallen te onderzoeken varkens op A-bedrijven en C-bedrijven en E-bedrijven als bedoeld in artikel 2, onderdelen b en j 
 
@@ -403,7 +403,7 @@ secretaris
 | 7 tot en met 10  | 7  |
 | 1 tot en met 6  | alle  |
 
-### Bijlage  III  
+### Bijlage III 
 
 ####Procedure en inhoud bedrijfsrapport voor aanvangscontrole en structurele controle als bedoeld in artikel 2. aanhef en tweede lid , artikel 4, onderdeel b. , en artikel 5, onderdeel b .
 
@@ -417,7 +417,7 @@ Getoetst aan Voorwaarden
 
 | --- | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|:---|
-| bedrijfscategorie:  | A □  | C □  | E □  | UBN □ □ □ □ □ □ □  |
+| bedrijfscategorie:  | A □  | C □  |  E □  | UBN □ □ □ □ □ □ □  |
 | Huidigebedrijfscategorie:  | A □  | B □  | C □  | D □  | E □  | F □  |
 
 Datumbezoek: .......................... Naam opsteller rapport: ........................ Naam geaccrediteerde instantie: ................ Naambedrijf: ......................... Adres bedrijf: ......................... Aantal varkens op het bedrijf: Gelten/zeugen: ........................ Beren: ............................ Opfok: .......................... Vleesvarkens: ...................... Naam dierenartspraktijk: ............... Nummer dierenartspraktijk: ... .............  
@@ -544,5 +544,5 @@ Als verplicht onderdeel van dit rapport is bij de eerste controle een plattegron
 | --- | --- | --- | --- | --- |
 | 55.  | Worden transportdocumenten en afschriften van transportdocumenten in het bedrijfsregister bewaard?  | Ja  | Nee  | N.v.t.  |
 
-Opmerkingen: Datum bedrijfsbezoek: ……… Datum en Handtekening opsteller bedrijfsrapport: ……… Datum en Handtekening ondernemer: ………  
+Opmerkingen: Datum bedrijfsbezoek: ……… Datum en Handtekening  opsteller bedrijfsrapport: ……… Datum en Handtekening ondernemer: ……… 
 
