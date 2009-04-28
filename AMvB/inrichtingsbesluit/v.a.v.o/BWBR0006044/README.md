@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Onderwijs en Wetenschappen van 1 april 1993, nr. 93013 842/3220, directie Wetgeving en Juridische Zaken;
 
-Gelet op de [artikelen 23 *b*](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), tweede lid, en [27 van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);
+Gelet op de [artikelen 23*b* ](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), tweede lid, en [27 van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);
 
 Gezien het advies van de Onderwijsraad (advies van 29 januari 1993, nr. OR 92000294/4 K);
 
@@ -20,9 +20,9 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-####Begripsbepalingen
+####Begripsbepalingen 
 
-In dit besluit wordt verstaan onder: wet: de [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); opleiding: een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onderdeel *a*, van de wet.  
+In dit besluit wordt verstaan onder:  wet: de [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  opleiding: een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onderdeel *a* , van de wet.  
 
 ### Hoofdstuk  II  
 
@@ -30,7 +30,7 @@ In dit besluit wordt verstaan onder: wet: de [Wet educatie en beroepsonderwijs](
 
 ### Artikel  6  
 
-####Beslistermijn bij bezwaar
+####Beslistermijn bij bezwaar 
 
 Het bevoegd gezag beslist binnen vier weken na ontvangst van een bezwaarschrift van een belanghebbende tegen een besluit tot weigering van de toelating van een kandidaat-deelnemer of een kandidaat-examendeelnemer, of tegen een besluit tot definitieve verwijdering van de deelnemer respectievelijk de examendeelnemer.  
 
@@ -42,13 +42,13 @@ Het bevoegd gezag beslist binnen vier weken na ontvangst van een bezwaarschrift 
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 augustus 1993.  
+Dit besluit treedt in werking met ingang van 1 augustus 1993. 
 
 ### Artikel  8  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Inrichtingsbesluit v.a.v.o.  
+Dit besluit wordt aangehaald als: Inrichtingsbesluit v.a.v.o. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 
@@ -68,25 +68,25 @@ E. M. H. Hirsch Ballin
 
 | --- | --- |
 |---|---|
-| Hoofdstuk I  | Algemene bepalingen  |
-| Artikel 1.  | Begripsbepalingen  |
-| Hoofdstuk II  | Toelating en verwijdering  |
-| Artikel 2.  | Toelating  |
-| Artikel 3.  | Toelaatbaarheidsvoorwaarden  |
-| Artikel 4.  | Inschrijving in vakken  |
-| Artikel 5.  | Schorsing  |
-| Artikel 6.  | Definitieve verwijdering  |
-| Artikel 7.  | Beslistermijn bij bezwaar  |
-| Hoofdstuk III  | Inrichting onderwijs  |
-| Artikel 8.  | Vakken gymnasium  |
-| Artikel 9.  | Vakken atheneum  |
-| Artikel 10.  | Vakken h.a.v.o.  |
-| Artikel 11.  | Vakken m.a.v.o.  |
-| Artikel 12.  | Vakken oriëntatie en doorstroming  |
-| Hoofdstuk IV  | Cursusduur  |
-| Artikel 13.  | Maximale cursusduur oriëntatie en doorstroming  |
-| Hoofdstuk V  | Overgangs- en slotbepalingen  |
-| Artikel 14.  | Besluit avondscholen v.w.o.-h.a.v.o.-m.a.v.o.-m.e.a.o.  |
-| Artikel 15.  | Inwerkingtreding  |
-| Artikel 16.  | Citeertitel  |
+| Hoofdstuk I   |Algemene bepalingen |
+| Artikel 1.   |Begripsbepalingen |
+| Hoofdstuk II   |Toelating en verwijdering |
+| Artikel 2.   |Toelating |
+| Artikel 3.   |Toelaatbaarheidsvoorwaarden |
+| Artikel 4.   |Inschrijving in vakken |
+| Artikel 5.   |Schorsing |
+| Artikel 6.   |Definitieve verwijdering |
+| Artikel 7.   |Beslistermijn bij bezwaar |
+| Hoofdstuk III   |Inrichting onderwijs |
+| Artikel 8.   |Vakken gymnasium |
+| Artikel 9.   |Vakken atheneum |
+| Artikel 10.   |Vakken h.a.v.o. |
+| Artikel 11.   |Vakken m.a.v.o. |
+| Artikel 12.   |Vakken oriëntatie en doorstroming |
+| Hoofdstuk IV   |Cursusduur |
+| Artikel 13.   |Maximale cursusduur oriëntatie en doorstroming |
+| Hoofdstuk V   |Overgangs- en slotbepalingen |
+| Artikel 14.  |Besluit avondscholen v.w.o.-h.a.v.o.-m.a.v.o.-m.e.a.o.  |
+| Artikel 15.   |Inwerkingtreding |
+| Artikel 16.   |Citeertitel |
 
