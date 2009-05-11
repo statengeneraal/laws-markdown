@@ -8,22 +8,22 @@ Besluit:
 
 ### Artikel  1  
 
-Als veiligheidscode worden aangewezen de in de bijlage bij deze regeling opgenomen hygiënerichtlijnen.  
+Als veiligheidscode worden aangewezen de in de bijlage bij deze regeling opgenomen hygiënerichtlijnen. 
 
 ### Artikel  2  
 
-Deze regeling wordt aangehaald als: Warenwetregeling aanwijzing veiligheidcodes tatoeëren en piercen.  
+Deze regeling wordt aangehaald als: Warenwetregeling aanwijzing veiligheidcodes tatoeëren en piercen. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van 1 juni 2007.  
+Deze regeling treedt in werking met ingang van 1 juni 2007. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink  
+A. Klink    
 
-### Bijlage  
+### Bijlage 
 
 ####bij de Warenwetregeling aanwijzing veiligheidscodes tatoeëren en piercen
 

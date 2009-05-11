@@ -9,7 +9,7 @@ Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](../../../../../../../.
 
 Overwegende,
 
-dat per 1 januari 2009 de [Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) (Stb. 2008, 583) en het [Mediabesluit](../../../../../../../../../../AMvB/mediabesluit/BWBR0004237/README.md) (Stb. 2008, 584) in werking zijn getreden en de [Mediawet](../../../../../../../../../../wet/mediawet/BWBR0004149/README.md) (Stb. 1987, 249) en het [Mediabesluit](../../../../../../../../../../AMvB/mediabesluit/BWBR0004237/README.md) (Stb. 1987, 573) zijn ingetrokken;
+dat per 1 januari 2009 de [Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) (Stb. 2008, 583) en het [Mediabesluit](../../../../../../../../../../AMvB/mediabesluit/2008/BWBR0025036/README.md) (Stb. 2008, 584) in werking zijn getreden en de [Mediawet](../../../../../../../../../../wet/mediawet/BWBR0004149/README.md) (Stb. 1987, 249) en het [Mediabesluit](../../../../../../../../../../AMvB/mediabesluit/BWBR0004237/README.md) (Stb. 1987, 573) zijn ingetrokken;
 
 dat de [Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) en het [Mediabesluit 2008](../../../../../../../../../../AMvB/mediabesluit/2008/BWBR0025036/README.md) zowel inhoudelijke als technische wijzigingen van de [Mediawet](../../../../../../../../../../wet/mediawet/BWBR0004149/README.md), respectievelijk het [Mediabesluit](../../../../../../../../../../AMvB/mediabesluit/BWBR0004237/README.md) bevatten;
 
@@ -24,23 +24,23 @@ Besluit vast te stellen:
 
 ### Artikel  1  
 
-Deze regeling strekt ertoe alle bestaande (nadere) bindende regelingen en overige toepasselijke brieven en schriftelijk vastgelegd beleid van de Raad van Bestuur NPO, voor zover relevant, toepasselijk te verklaren onder het regime van de [Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) en het [Mediabesluit 2008](../../../../../../../../../../AMvB/mediabesluit/2008/BWBR0025036/README.md).  
+Deze regeling strekt ertoe alle bestaande (nadere) bindende regelingen en overige toepasselijke brieven en schriftelijk vastgelegd beleid van de Raad van Bestuur NPO, voor zover relevant, toepasselijk te verklaren onder het regime van de [Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) en het [Mediabesluit 2008](../../../../../../../../../../AMvB/mediabesluit/2008/BWBR0025036/README.md). 
 
 ### Artikel  2  
 
 In deze regeling wordt verstaan onder: 
 
-a. *de wet:* de [Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md);  
+a.  *de wet:* de [Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md);  
 
-b. *het besluit:* het [Mediabesluit 2008](../../../../../../../../../../AMvB/mediabesluit/2008/BWBR0025036/README.md);  
+b.  *het besluit:* het [Mediabesluit 2008](../../../../../../../../../../AMvB/mediabesluit/2008/BWBR0025036/README.md);  
 
-c. *de NPO:* de Raad van Bestuur van de Nederlandse Omroep Stichting.    
+c.  *de NPO:* de Raad van Bestuur van de Nederlandse Omroep Stichting.   
 
 ### Artikel  3  
 
 1.  Na inwerkingtreding van de [wet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) en het [besluit](../../../../../../../../../../AMvB/mediabesluit/2008/BWBR0025036/README.md) berusten alle in de bijlage opgenomen (nadere) bindende regelingen en overige toepasselijke brieven en schriftelijk vastgelegd beleid van de NPO op de [wet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md), respectievelijk het [besluit](../../../../../../../../../../AMvB/mediabesluit/2008/BWBR0025036/README.md), onverminderd het bepaalde in [titel 9.1 van de wet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md).   
 2.  Na inwerkingtreding van de [wet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) en het [besluit](../../../../../../../../../../AMvB/mediabesluit/2008/BWBR0025036/README.md) berust het overige beleid van de NPO, waaronder beleidsbrieven, voor zover relevant op de [wet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md), respectievelijk het [besluit](../../../../../../../../../../AMvB/mediabesluit/2008/BWBR0025036/README.md), onverminderd het bepaalde in [titel 9.1 van de wet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md).   
-3.  Na inwerkingtreding van de [wet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) en het [besluit](../../../../../../../../../../AMvB/mediabesluit/2008/BWBR0025036/README.md) berust het overige beleid bij of krachtens de [wet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) met betrekking tot de taken en bevoegdheden van de NPO en dat (nog) niet nader is uitgewerkt in (nadere) bindende regelingen, beleidsbrieven of anderszins, voor zover relevant op de [wet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md), respectievelijk het [besluit](../../../../../../../../../../AMvB/mediabesluit/2008/BWBR0025036/README.md), onverminderd het bepaalde in [titel 9.1 van de wet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md).   
+3.  Na inwerkingtreding van de [wet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) en het [besluit](../../../../../../../../../../AMvB/mediabesluit/2008/BWBR0025036/README.md) berust het overige beleid bij of krachtens de [wet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) met betrekking tot de taken en bevoegdheden van de NPO en dat (nog) niet nader is uitgewerkt in (nadere) bindende regelingen, beleidsbrieven of anderszins, voor zover relevant op de [wet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md), respectievelijk het [besluit](../../../../../../../../../../AMvB/mediabesluit/2008/BWBR0025036/README.md), onverminderd het bepaalde in [titel 9.1 van de wet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md).  
 
 ### Artikel  4  
 
@@ -48,18 +48,18 @@ c. *de NPO:* de Raad van Bestuur van de Nederlandse Omroep Stichting.
 2.  De begrippen uit de [wet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) treden in de plaats van de in die (nadere) bindende regelingen en overige toepasselijke brieven en schriftelijk vastgelegd beleid van de NPO genoemde begrippen uit de [Mediawet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md).   
 3.  De (nadere) bindende regelingen en overige toepasselijke brieven en schriftelijk vastgelegd beleid van de NPO worden in overeenstemming met de [wet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) en het [besluit](../../../../../../../../../../AMvB/mediabesluit/2008/BWBR0025036/README.md) toegepast.   
 4.  Indien met betrekking tot een bepaling in de [wet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) of het [besluit](../../../../../../../../../../AMvB/mediabesluit/2008/BWBR0025036/README.md) geen beleid door de NPO is vastgesteld, wordt voor de interpretatie van die bepaling het bestaande beleid van de NPO voor zover mogelijk op overeenkomstige wijze toegepast.   
-5.  Indien bestaande (nadere) bindende regelingen en overige toepasselijke brieven en schriftelijk vastgelegd beleid van de NPO of een deel daarvan in strijd is met de [wet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md), worden die bestaande (nadere) bindende regelingen en overige toepasselijke brieven en schriftelijk vastgelegd beleid van de NPO respectievelijk het betreffende deel in overeenstemming met de [wet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) toegepast en blijven zij voor het overige buiten toepassing.   
+5.  Indien bestaande (nadere) bindende regelingen en overige toepasselijke brieven en schriftelijk vastgelegd beleid van de NPO of een deel daarvan in strijd is met de [wet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md), worden die bestaande (nadere) bindende regelingen en overige toepasselijke brieven en schriftelijk vastgelegd beleid van de NPO respectievelijk het betreffende deel in overeenstemming met de [wet](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) toegepast en blijven zij voor het overige buiten toepassing.  
 
 ### Artikel  5  
 
 1.  Deze regeling treedt met terugwerkende kracht in werking met ingang van 1 januari 2009.   
 2.  Deze regeling wordt aangehaald als Regeling toepasselijkheid beleid NPO onder de Mediawet 2008.   
 3.  Deze regeling is krachtens [artikel 2.10, tweede lid sub c](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) jo [2.60 Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) bindend voor de instellingen die media-aanbod verzorgen voor de landelijke publieke mediadienst en de politieke partijen en de overheid aan wie op grond van [titel 6.1](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) uren zijn toegewezen, voor zover deze regeling hen aangaat.   
-4.  Deze regeling wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de internetsite van de NPO (http://portal.omroep.nl/nossites/pubcom)   
+4.  Deze regeling wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de internetsite van de NPO (http://portal.omroep.nl/nossites/pubcom)  
 
 Raad van Bestuur NPO, 
-voorzitter, 
-H.N.Hagoort 
+voorzitter,
+H.N. Hagoort   
 
 C.A. Vis  
 R. Bierman    
@@ -96,7 +96,7 @@ R. Bierman
 
 – Besluit Handboek nieuwe werkwijze Televisie: aanvankelijk vastgesteld als bindende regeling bij besluit van 24 mei 2005. Bij besluit van 25 juli 2006 geïntegreerd in het Coördinatiereglement Televisie.  
 
-– Nadere Regeling normen voor het contracteren van ENG-ploegen vastgesteld bij besluit van 19 juli 2006.    
+– Nadere Regeling normen voor het contracteren van ENG-ploegen vastgesteld bij besluit van 19 juli 2006.   
 
 ####Overige brieven:
 
@@ -106,5 +106,5 @@ R. Bierman
 
 – Besluit strategie TV-Themakanalen- en portals vanaf 2009, d.d. 1 juli 2008.  
 
-– Werkafspraken Reclameruimte Internet van 30 januari 2009.    
+– Werkafspraken Reclameruimte Internet van 30 januari 2009.   
 
