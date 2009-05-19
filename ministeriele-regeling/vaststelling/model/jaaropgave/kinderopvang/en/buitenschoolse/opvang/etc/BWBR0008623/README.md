@@ -2,18 +2,18 @@
 
 ##Vaststelling model jaaropgave kinderopvang en buitenschoolse opvang alleenstaande ouders
 
-De Minister van Sociale Zaken en Werkgelegenheid,  Besluit:     Het model voor de jaaropgave bedoeld in artikel 11, eerste lid, van de Regeling kinderopvang een buitenschoolse opvang alleenstaande ouders 1997, alsmede het model voor de verklaring bedoeld in artikel 11, tweede lid, van de voormelde regeling worden vastgesteld overeenkomstig de bijgevoegde modellen.     Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
+De Minister van Sociale Zaken en Werkgelegenheid,  Besluit:      Het model voor de jaaropgave bedoeld in artikel 11, eerste lid, van de Regeling kinderopvang een buitenschoolse opvang alleenstaande ouders 1997, alsmede het model voor de verklaring bedoeld in artikel 11, tweede lid, van de voormelde regeling worden vastgesteld overeenkomstig de bijgevoegde modellen.     Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 3 april 1997    
 
 De 
 Minister voornoemd, 
-A.P.W.Melkert   
+A.P.W. Melkert     
 
-### Model  I  
+### Model I  
 
-![30649](http://wetten.overheid.nl/Illustration/30649)
+![30648](http://wetten.overheid.nl/Illustration/30648)
 ![30649](http://wetten.overheid.nl/Illustration/30649)
 
 ####Toelichting
@@ -34,9 +34,9 @@ U vult hier in het aan u toegekende maximum voorschotbedrag, hetgeen tevens het 
 
 ad 1. Op deze regel vult u in het totaal aantal kinderopvangplaatsen dat uw gemeente per 31/12/97 subsidieert en/of in eigen beheer heeft. Dit totaal stelt u als volgt vast: 
 
-a. de kinderopvangplaatsen van de SZW-regeling, plus  
+a. de kinderopvangplaatsen van de SZW-regeling, plus 
 
-b. de overige plaatsen berekend zoals voorgeschreven in de voormalige Stimuleringsregeling kinderopvang 1994 - 1995 van VWS.   ad 2. Hier vult u in het aantal kinderopvangplaatsen conform het formulier Financiële verantwoording Stimuleringsregeling kinderopvang 1994-1995 onder A minus de eventuele onbezette plaatsen per die datum als hierboven bij Algemeen omschreven. ad 4. Hier vermeldt u het maximale subsidiebedrag naar de mate van verdringing. Dit berekent u door de uitkomst van 3 te vermenigvuldigen met de maximale subsidie per plaats (f 18.000,-).  
+b. de overige plaatsen berekend zoals voorgeschreven in de voormalige Stimuleringsregeling kinderopvang 1994 - 1995 van VWS.  ad 2. Hier vult u in het aantal kinderopvangplaatsen conform het formulier Financiële verantwoording Stimuleringsregeling kinderopvang 1994-1995 onder A minus de eventuele onbezette plaatsen per die datum als hierboven bij Algemeen omschreven. ad 4. Hier vermeldt u het maximale subsidiebedrag naar de mate van verdringing. Dit berekent u door de uitkomst van 3 te vermenigvuldigen met de maximale subsidie per plaats (f 18.000,-).  
 
 ### III  
 
@@ -78,25 +78,25 @@ Bij integrale controle moeten alle geconstateerde fouten worden gerapporteerd.
 
 ####Aandachtspunten voor de controle:
 
-1. overeenkomsten welke in het kader van deze regeling met derden zijn afgesloten dienen bij de gemeenteaanwezig te zijn en in de administratie te zijn vastgelegd;  
+1. overeenkomsten welke in het kader van deze regeling met derden zijn afgesloten dienen bij de gemeenteaanwezig te zijn en in de administratie te zijn vastgelegd; 
 
-2. van kinderopvangplaatsen waarin de gemeente zelf heeft voorzien dienen documenten aanwezig te zijn waaruit besluitvorming blijkt tot bestemming van een kinderopvangplaats als bedoeld in deze regeling;  
+2.  van kinderopvangplaatsen waarin de gemeente zelf heeft voorzien dienen documenten aanwezig te zijn waaruit besluitvorming blijkt tot bestemming van een kinderopvangplaats als bedoeld in deze regeling; 
 
-3. de gecreëerde kinderopvangplaatsen dienen te voldoen aan de daaraan gestelde criteria (artikel 1, 2, 3 van de regeling);  
+3. de gecreëerde kinderopvangplaatsen dienen te voldoen aan de daaraan gestelde criteria (artikel 1, 2, 3 van de regeling); 
 
-4. bij de berekening dient de juiste datum van ingang respectievelijk beëindiging in acht te zijn genomen;  
+4.  bij de berekening dient de juiste datum van ingang respectievelijk beëindiging in acht te zijn genomen; 
 
-5. uit de administratie moet duidelijk de bezettingsgraad van de betreffende kinderopvangplaatsen blijken;  
+5.  uit de administratie moet duidelijk de bezettingsgraad van de betreffende kinderopvangplaatsen blijken; 
 
-6. er dienen bewijsstukken aanwezig te zijn waaruit het aantal kinderopvangplaatsen ultimo 1995 en 1997 kan worden afgeleid;  
+6.  er dienen bewijsstukken aanwezig te zijn waaruit het aantal kinderopvangplaatsen ultimo 1995 en 1997 kan worden afgeleid; 
 
-7. uit de administratie moet blijken welke alleenstaande ouders van de regeling gebruik maken danwel hebben gemaakt (o.a. naam, adres en woonplaats) en dat zij tot de doelgroep behoren;  
+7.  uit de administratie moet blijken welke alleenstaande ouders van de regeling gebruik maken danwel hebben gemaakt (o.a. naam, adres en woonplaats) en dat zij tot de doelgroep behoren; 
 
-8. indien per 31 december 1995 plaatsen beschikbaar waren, maar deze waren niet bezet en voor 1996 waren ook geen gelden gereserveerd op uw begroting om deze plaatsen alsnog te bezetten dan is het toegestaan deze plaatsen in te vullen door middel van de subsidieregeling van SZW. Van deze plaatsen dient te worden vastgesteld dat hiervoor in 1996 op de gemeentelijke begroting of anderszins daadwerkelijk geen gelden waren gereserveerd;  
+8. indien per 31 december 1995 plaatsen beschikbaar waren, maar deze waren niet bezet en voor 1996 waren ook geen gelden gereserveerd op uw begroting om deze plaatsen alsnog te bezetten dan is het toegestaan deze plaatsen in te vullen door middel van de subsidieregeling van SZW. Van deze plaatsen dient te worden vastgesteld dat hiervoor in 1996 op de gemeentelijke begroting of anderszins daadwerkelijk geen gelden waren gereserveerd; 
 
-9. kinderopvangplaatsen, die uit anderen hoofde worden gesubsidieerd, komen niet voor deze subsidie in aanmerking;  
+9. kinderopvangplaatsen, die uit anderen hoofde worden gesubsidieerd, komen niet voor deze subsidie in aanmerking; 
 
-10. er dienen bewijsstukken aanwezig te zijn, waaruit blijkt dat de onder punt 7 vermelde ouders voor deze kinderen aanspraak kunnen maken op kinderbijslag op grond van de [Algemene Kinderbijslagwet](../../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md);  
+10.  er dienen bewijsstukken aanwezig te zijn, waaruit blijkt dat de onder punt 7 vermelde ouders voor deze kinderen aanspraak kunnen maken op kinderbijslag op grond van de [Algemene Kinderbijslagwet](../../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md); 
 
-11. de eventueel naar aanleiding van de Regeling uitgebrachte circulaires.    
+11. de eventueel naar aanleiding van de Regeling uitgebrachte circulaires.  
 
