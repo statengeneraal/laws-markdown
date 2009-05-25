@@ -17,19 +17,19 @@ In dit besluit wordt verstaan onder het begrip:
 
 ### Artikel  2  
 
-Aan de veilingen als bedoeld in artikel 1 wordt het mandaat verstrekt om namens het Productschap Tuinbouw heffingen op te leggen en te innen.  
+Aan de veilingen als bedoeld in artikel 1 wordt het mandaat verstrekt om namens het Productschap Tuinbouw heffingen op te leggen en te innen. 
 
 ### Artikel  3  
 
-De mandaatnemer kan ondermandaat verlenen aan werknemers binnen zijn organisatie, nadat daartoe instemming is verkregen van het Productschap Tuinbouw.  
+De mandaatnemer kan ondermandaat verlenen aan werknemers binnen zijn organisatie, nadat daartoe instemming is verkregen van het Productschap Tuinbouw. 
 
 ### Artikel  4  
 
-Dit besluit en de daarbij behorende toelichting wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking de tweede dag na publicatie.  
+Dit besluit en de daarbij behorende toelichting wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking de tweede dag na publicatie. 
 
 ### Artikel  5  
 
-Dit besluit kan worden aangehaald als: Besluit PT verlening mandaat veilingen en in- en verkoopbureaus 2008.  
+Dit besluit kan worden aangehaald als: Besluit PT verlening mandaat veilingen en in- en verkoopbureaus 2008. 
 
 Zoetermeer 
 19 november 2007   
