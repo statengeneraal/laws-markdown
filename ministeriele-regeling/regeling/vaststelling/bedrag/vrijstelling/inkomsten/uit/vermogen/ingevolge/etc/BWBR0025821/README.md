@@ -7,20 +7,22 @@ Gelet op [artikel 18, zevende lid, van de Wet uitkeringen vervolgingsslachtoffer
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2006 
 
-De bedragen, genoemd in [artikel 19, vijfde lid, onder a, van de Wet uitkeringen vervolgingsslachtoffers 1940-1945](../../../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), alsmede in de [artikelen 12, tweede lid, onder c, van de Wet buitengewoon pensioen 1940-1945](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md), [11, tweede lid, onder c, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md), [16, tweede lid, onder b, ten derde, van de Wet buitengewoon pensioen Indisch verzet](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md) en bedoeld in [artikel 28, vierde lid, onder a, van de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945](../../../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md), worden als volgt herzien: 
+De bedragen, genoemd in [artikel 19, vijfde lid, onder a, van de Wet uitkeringen vervolgingsslachtoffers 1940-1945](../../../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), alsmede in de [artikelen 12, tweede lid, onder c, van de Wet buitengewoon pensioen 1940-1945](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md), [11, tweede lid, onder c, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md), [16, tweede lid, onder b, ten derde, van de Wet buitengewoon pensioen Indisch verzet](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md) en bedoeld in [artikel 28, vierde lid, onder a, van de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945](../../../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md), worden als volgt herzien:
 
-a. het bedrag, genoemd in [artikel 19, vijfde lid, onder a, van de Wet uitkeringen vervolgingsslachtoffers 1940-1945](../../../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), wordt verhoogd tot € 721,96;  
+a.het bedrag, genoemd in [artikel 19, vijfde lid, onder a, van de Wet uitkeringen vervolgingsslachtoffers 1940-1945](../../../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), wordt verhoogd tot € 721,96;
 
-b. het bedrag, genoemd in de [artikelen 12, tweede lid, onder c, van de Wet buitengewoon pensioen 1940-1945](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md), [11, tweede lid, onder c, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md) en [16, tweede lid, onder b, ten derde, van de Wet buitengewoon pensioen Indisch verzet](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md), wordt verhoogd tot tot zevenhonderdeenentwintig euro en zesennegentig eurocent;  
+b.het bedrag, genoemd in de [artikelen 12, tweede lid, onder c, van de Wet buitengewoon pensioen 1940-1945](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md), [11, tweede lid, onder c, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md) en [16, tweede lid, onder b, ten derde, van de Wet buitengewoon pensioen Indisch verzet](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md), wordt verhoogd tot tot zevenhonderdeenentwintig euro en zesennegentig eurocent;
 
-c. het vrij te laten bedrag, bedoeld in [artikel 28, vierde lid, onder a, van de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945](../../../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md), wordt vastgesteld op € 721,96 per jaar.    
+c.het vrij te laten bedrag, bedoeld in [artikel 28, vierde lid, onder a, van de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945](../../../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md), wordt vastgesteld op € 721,96 per jaar. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2006 
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2005.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2005. 
 Deze regeling zal in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
-C.I.J.M.Ross-van Dorp   
+Staatssecretarisvan Volksgezondheid, Welzijn en Sport,
+C.I.J.M. Ross-van Dorp     

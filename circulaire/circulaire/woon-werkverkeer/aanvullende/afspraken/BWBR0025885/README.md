@@ -29,7 +29,7 @@ Sinds 1 juli 2008 kan de ambtenaar die de gehele afstand van de woning tot de pl
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
 directeur-generaal Organisatie en Bedrijfsvoering Rijk, 
-J.J.M.Uijlenbroek  
+J.J.M. Uijlenbroek    
 
 ### Bijlage  
 
@@ -37,23 +37,23 @@ J.J.M.Uijlenbroek
 
 ####Voorbeeld 1
 
-Een ambtenaar reist dagelijks, vijf dagen per week, met de trein naar zijn werk. Van zijn woning naar het station, afstand 2 kilometer, gebruikt hij de fiets. Van het station naar de plaats van tewerkstelling loopt hij 800 meter (dus minder dan 1 kilometer!). Vanaf 1 september 2009 heeft hij recht op een tegemoetkoming voor het gebruik van eigen vervoer naar het station van € 3,57 per maand, volgens de formule:   ![244528](http://wetten.overheid.nl/Illustration/244528)
-Heeft betrokkene net op 31 augustus 2009 zijn jaarabonnement voor de fietsenstalling betaald van € 150,00 dan heeft hij nog aanspraak op tegemoetkoming in stallingkosten van € 123,36 (rekening houdend met het maximumbedrag van € 10,28, dat per maand aan stallingkosten wordt vergoed).  
+Een ambtenaar reist dagelijks, vijf dagen per week, met de trein naar zijn werk. Van zijn woning naar het station, afstand 2 kilometer, gebruikt hij de fiets. Van het station naar de plaats van tewerkstelling loopt hij 800 meter (dus minder dan 1 kilometer!). Vanaf 1 september 2009 heeft hij recht op een tegemoetkoming voor het gebruik van eigen vervoer naar het station van € 3,57 per maand, volgens de formule: ![244528](http://wetten.overheid.nl/Illustration/244528)
+Heeft betrokkene net op 31 augustus 2009 zijn jaarabonnement voor de fietsenstalling betaald van € 150,00 dan heeft hij nog aanspraak op tegemoetkoming in stallingkosten van € 123,36 (rekening houdend met het maximumbedrag van € 10,28, dat per maand aan stallingkosten wordt vergoed). 
 
 ####Voorbeeld 2
 
-Een ambtenaar reist dagelijks, vijf dagen per week, met de trein naar zijn werk. Van zijn woning naar het station, afstand 25 kilometer, gebruikt hij de auto. Van het station naar de plaats van tewerkstelling, afstand 5 kilometer gebruikt hij een fiets. Vanaf 1 september 2009 heeft hij recht op een tegemoetkoming voor het gebruik van eigen vervoer naar en van het station van € 47,44 per maand, volgens de formule:   ![244529](http://wetten.overheid.nl/Illustration/244529)
-is € 53, 50 (boven maximum). Hij heeft geen aanspraak op zones op het treinabonnement. Gemaakte stallingkosten (ook vooruitbetaalde over de periode na 1 september 2009) kunnen nog vergoed worden.  
+Een ambtenaar reist dagelijks, vijf dagen per week, met de trein naar zijn werk. Van zijn woning naar het station, afstand 25 kilometer, gebruikt hij de auto. Van het station naar de plaats van tewerkstelling, afstand 5 kilometer gebruikt hij een fiets. Vanaf 1 september 2009 heeft hij recht op een tegemoetkoming voor het gebruik van eigen vervoer naar en van het station van € 47,44 per maand, volgens de formule:  ![244529](http://wetten.overheid.nl/Illustration/244529)
+is € 53, 50 (boven maximum). Hij heeft geen aanspraak op zones op het treinabonnement. Gemaakte stallingkosten (ook vooruitbetaalde over de periode na 1 september 2009) kunnen nog vergoed worden. 
 
 ####Voorbeeld 3
 
-Een ambtenaar reist drie dagen in de week met de fiets en twee dagen in de week met de auto naar zijn werk. De afstand bedraagt met de fiets 20 kilometer en met de auto 25 kilometer. De tegemoetkoming bedraagt vanaf 1 september 2009 € 86,31 per maand, volgens de formule:   ![244531](http://wetten.overheid.nl/Illustration/244531)
+Een ambtenaar reist drie dagen in de week met de fiets en twee dagen in de week met de auto naar zijn werk. De afstand bedraagt met de fiets 20 kilometer en met de auto 25 kilometer. De tegemoetkoming bedraagt vanaf 1 september 2009 € 86,31 per maand, volgens de formule:  ![244530](http://wetten.overheid.nl/Illustration/244530)
 is € 68,48 en   ![244531](http://wetten.overheid.nl/Illustration/244531)
-is € 17,83  
+is € 17,83 
 
 ####Voorbeeld 4
 
-Een ambtenaar reist drie dagen in de week met de fiets en twee dagen in de week met de auto naar zijn werk. De afstand bedraagt met de fiets 30 kilometer en met de auto 35 kilometer. De tegemoetkoming bedraagt vanaf 1 september 2009 € 121,70 per maand, volgens de formule:   ![244533](http://wetten.overheid.nl/Illustration/244533)
+Een ambtenaar reist drie dagen in de week met de fiets en twee dagen in de week met de auto naar zijn werk. De afstand bedraagt met de fiets 30 kilometer en met de auto 35 kilometer. De tegemoetkoming bedraagt vanaf 1 september 2009 € 121,70 per maand, volgens de formule:  ![244532](http://wetten.overheid.nl/Illustration/244532)
 is € 102,72 en   ![244533](http://wetten.overheid.nl/Illustration/244533)
 is € 24,97, maar maximaal 2/5 × € 47,44 is € 18,98.  
 
@@ -61,7 +61,7 @@ is € 24,97, maar maximaal 2/5 × € 47,44 is € 18,98.
 
 ####Fietsverklaring
 
-Naam en voorletters: ..... Personeelsnummer: ..... Dienstonderdeel: ..... Gemiddeld aantal reisdagen per week : ..... <sup> 1  Zonodig op te geven met 2 cijfers achter de komma.  </sup> Waarvan met de fiets: ..... Waarvan met ander eigen vervoer: ..... Hierbij verklaar ik tot wederopzegging: 
+Naam en voorletters: ..... Personeelsnummer: ..... Dienstonderdeel: ..... Gemiddeld aantal reisdagen per week<sup> 1  Zonodig op te geven met 2 cijfers achter de komma. </sup>: ..... Waarvan met de fiets: ..... Waarvan met ander eigen vervoer: ..... Hierbij verklaar ik tot wederopzegging: 
 
 * voor het dagelijkse woon-werkverkeer gebruik te maken van de fiets op het hierboven aangegeven (gemiddeld) aantal dagen per week en  
 
@@ -71,5 +71,5 @@ Naam en voorletters: ..... Personeelsnummer: ..... Dienstonderdeel: ..... Gemidd
 
 ####Ondertekening bevoegd gezag
 
-Voor akkoord, Het bevoegd gezag, Plaats ..... Datum ..... Naam ..... Functie ..... Handtekening .....  
+Voor akkoord, Het bevoegd gezag,  Plaats ..... Datum ..... Naam ..... Functie ..... Handtekening ..... 
 

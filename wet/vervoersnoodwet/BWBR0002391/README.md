@@ -54,17 +54,15 @@ c. "houder": hij die als eigenaar of krachtens enige andere rechtstitel gerechti
 
 ### Artikel  8  
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Onze Minister kan bepalen dat vervoer van personen en goederen en het gebruik van vervoermiddelen slechts mag geschieden krachtens een door hem verleende vergunning, alsmede dat houders van vervoermiddelen deze slechts van een door hem aangewezen lig- of standplaats mogen verwijderen of verwijderd houden krachtens een door hem verleende vergunning.   
 2.  Bij toepassing van het eerste lid kan worden afgeweken van het bepaalde bij of krachtens de [Wet personenvervoer 2000](../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), de [Wet wegvervoer goederen](../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), de [Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md) en de [Spoorwegwet](../../../wet/spoorwegwet/BWBR0015007/README.md).   
 
 ### Artikel  9  
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Onze Minister kan bepalen, dat houders van vervoermiddelen verplicht zijn zich in door hem te bepalen gevallen en op een door hem te bepalen wijze en plaats al of niet met het vervoermiddel te melden, zonodig onder mededeling van gegevens omtrent het gebruik, dat van het vervoermiddel wordt gemaakt.  
+Onze Minister kan bepalen, dat houders van vervoermiddelen verplicht zijn zich in door hem te bepalen gevallen en op een door hem te bepalen wijze en plaats al of niet met het vervoermiddel te melden, zonodig onder mededeling van gegevens omtrent het gebruik, dat van het vervoermiddel wordt gemaakt.  
 
 ### Artikel  10  
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Onze Minister kan bepalen, dat houders van vervoermiddelen op daartoe strekkende aanwijzing door hem verplicht zijn met deze vervoermiddelen het vervoer van bepaalde personen of goederen te bewerkstelligen en de vervoermiddelen daartoe volledig uitgerust op een aangewezen plaats ter beschikking te stellen; deze plaats, alsmede de plaats van bestemming kunnen buiten Nederland zijn gelegen.   
 2.  De aanwijzing wordt zo mogelijk schriftelijk gegeven; een op andere wijze gegeven aanwijzing wordt zo spoedig mogelijk door een schriftelijke aanwijzing gevolgd. Voor de aanvang van het vervoer wordt de vervoerder medegedeeld te wiens behoeve het vervoer plaats vindt.   
 3.  Bij toepassing van het eerste lid kan worden afgeweken van het bepaalde bij of krachtens de [Wet personenvervoer 2000](../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), de [Wet wegvervoer goederen](../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), de [Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md) en de [Spoorwegwet](../../../wet/spoorwegwet/BWBR0015007/README.md).   
@@ -76,7 +74,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ### Artikel  12  
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Onze Minister kan bepalen, dat houders van vervoermiddelen verplicht zijn: 
+Onze Minister kan bepalen, dat houders van vervoermiddelen verplicht zijn: 
 
 a. de hun ter beschikking staande vervoermiddelen behoudens door hem verleende ontheffing in behoorlijke staat van onderhoud te houden of te doen houden;  
 
@@ -90,7 +88,7 @@ e. de hun ter beschikking staande vervoermiddelen naar door hem te geven aanwijz
 
 ### Artikel  13  
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Onze Minister kan aan een beheerder van infrastructuur die open staat voor het verkeer te land, onderscheidenlijk op binnenwater aanwijzingen geven betreffende het beheer, alsmede andere met betrekking tot het verkeer over die infrastructuur toegekende taken en bevoegdheden. Daarbij kan van de op die infrastructuur en die taken en bevoegdheden betrekking hebbende wetgeving worden afgeweken.  
+Onze Minister kan aan een beheerder van infrastructuur die open staat voor het verkeer te land, onderscheidenlijk op binnenwater aanwijzingen geven betreffende het beheer, alsmede andere met betrekking tot het verkeer over die infrastructuur toegekende taken en bevoegdheden. Daarbij kan van de op die infrastructuur en die taken en bevoegdheden betrekking hebbende wetgeving worden afgeweken.  
 
 ### Artikel  14  
 
@@ -101,7 +99,6 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ### Artikel  15  
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  De beheerders of onderhoudsplichtigen van waterstaatswerken zijn verplicht de werken en voorzieningen uit te voeren en na de uitvoering te onderhouden, welke nodig zijn in het belang van een doelmatig vervoer van personen of goederen.   
 2.  Indien en voor zover de beheerders of onderhoudsplichtigen niet krachtens een andere wettelijke bepaling tot uitvoering van de in het eerste lid bedoelde werken of voorzieningen gehouden zijn, komen de kosten dan wel het overeenkomstig deel daarvan voor rekening van het Rijk.   
 3.  In geval van tenuitvoerlegging van een bevel tot uitvoering van een werk of voorziening krachtens [paragraaf 12 van de Waterstaatswet 1900](../../../wet/waterstaatswet/1900/BWBR0001867/README.md) geschiedt het verhaal van de kosten daarvan met inachtneming van het vorige lid. De voor rekening van het Rijk komende kosten worden, indien de tenuitvoerlegging door Gedeputeerde Staten is geschied, aan de provincie vergoed.   
@@ -122,7 +119,7 @@ Onze Minister kan bepalen, dat houders van vervoermiddelen verplicht zijn:
 
 ### Artikel  17  
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Onze Minister kan bepalen, dat: 
+Onze Minister kan bepalen, dat: 
 
 a. het op enigerlei wijze in eigendom, in gebruik of ter beschikking overdragen van vervoermiddelen;  
 
@@ -134,7 +131,7 @@ d. het aanbrengen van veranderingen aan vervoermiddelen;
 
 e. het gebruiken van vervoermiddelen als opslagplaats;  
 
-f. het doen verrichten van handelingen, als bedoeld onder a, b, c, d of e,   slechts mag geschieden krachtens een door hem verleende vergunning.  
+f. het doen verrichten van handelingen, als bedoeld onder *a*, b, c, d of e,   slechts mag geschieden krachtens een door hem verleende vergunning.  
 
 ### Hoofdstuk  V  
 

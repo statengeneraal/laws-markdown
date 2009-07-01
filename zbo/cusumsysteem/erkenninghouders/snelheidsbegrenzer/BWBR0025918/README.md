@@ -10,21 +10,21 @@ Besluit:
 
 In deze bekendmaking wordt verstaan onder: 
 
-a. *steekproef:* steekproef als bedoeld in [artikel 102, eerste lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+a.  *steekproef:* steekproef als bedoeld in [artikel 102, eerste lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-b. *cusumsysteem:* het systeem van bonus- en strafpunten als bedoeld in [artikel 67, eerste en tweede lid, van de Regeling aanpassing voertuigen](../../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md);  
+b.  *cusumsysteem:* het systeem van bonus- en strafpunten als bedoeld in [artikel 67, eerste en tweede lid, van de Regeling aanpassing voertuigen](../../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md);  
 
-c. *cusumbijdrage:* de bijdrage aan straf- en bonuspunten bij steekproeven;  
+c.  *cusumbijdrage:* de bijdrage aan straf- en bonuspunten bij steekproeven;  
 
-d. *cusumstand:* startwaarde vermeerderd met de som van bonus- en strafpunten van steekproeven;  
+d.  *cusumstand:* startwaarde vermeerderd met de som van bonus- en strafpunten van steekproeven;  
 
-e. *gradatie:* kwalificatie van een gebrek uitgedrukt in strafpunten bij toepassing van de voorschriften voor installatie van snelheidsbegrenzers;  
+e.  *gradatie:* kwalificatie van een gebrek uitgedrukt in strafpunten bij toepassing van de voorschriften voor installatie van snelheidsbegrenzers;  
 
-g. *klasse:* classificatie voor de kwaliteit van werken bij de toepassing van voorschriften voor installatie van snelheidsbegrenzers door de erkenninghouder; de 3 klassen geven tevens een indicatie   voor de kans op het aantal uit te voeren steekproeven.  
+g.  *klasse:* classificatie voor de kwaliteit van werken bij de toepassing van voorschriften voor installatie van snelheidsbegrenzers door de erkenninghouder; de 3 klassen geven tevens een indicatie   voor de kans op het aantal uit te voeren steekproeven. 
 
 ### Artikel  2  
 
-Het cusumsysteem wordt toegepast bij steekproeven als bedoeld in [artikel 102, eerste lid van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) ten behoeve van het meten van de kwaliteit bij de installatie van snelheidsbegrenzers.  
+Het cusumsysteem wordt toegepast bij steekproeven als bedoeld in [artikel 102, eerste lid van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) ten behoeve van het meten van de kwaliteit bij de installatie van snelheidsbegrenzers. 
 
 ### Artikel  3  
 
@@ -36,7 +36,7 @@ b. gradatie 2: een ernstig gebrek dat 3 strafpunten oplevert;
 
 c. gradatie 3: een zeer ernstig gebrek, waarbij sprake is van grove nalatigheid of opzet, dat 3 strafpunten oplevert en waarbij terstond wordt begonnen met de procedure tot intrekking van de erkenning.     
 2.  Goedkeuring van een voertuig levert het vastgestelde bonuspunt op van 0,4 punt.   
-3.  De cusumbijdrage wordt berekend aan de hand van de formule: totaal aantal strafpunten per steekproef minus het bonuspunt.   
+3.  De cusumbijdrage wordt berekend aan de hand van de formule: totaal aantal strafpunten per steekproef minus het bonuspunt.  
 
 ### Artikel  4  
 
@@ -60,7 +60,7 @@ c. de penalty klasse (P), waarbij de startwaarde 4,5 is indien:
 
 3° de som van de cusumbijdragen van de laatste 5 steekproeven groter is dan 5.       
 2.  De kans op steekproeven in genoemde klassen wordt bepaald door de verhouding N: C: P = 2: 1: 6.   
-3.  Plaatsing in de C-klasse geeft aanleiding tot verminderd toezicht en plaatsing in de P-klasse tot verscherpt toezicht.   
+3.  Plaatsing in de C-klasse geeft aanleiding tot verminderd toezicht en plaatsing in de P-klasse tot verscherpt toezicht.  
 
 ### Artikel  5  
 
@@ -80,27 +80,27 @@ a. in de P-klasse de volgende cusumstanden worden bereikt of overschreden:
 
 b. een gebrek van gradatie 3 wordt geconstateerd.  
 
-c. één afzonderlijke cusumbijdrage 8,1 of hoger is.    
+c. één afzonderlijke cusumbijdrage 8,1 of hoger is.   
 
 ### Artikel  6  
 
-De bekendmaking [vaststelling cusumsysteem Erkenningsregeling snelheidsbegrenzers](../../../../../zbo/vaststelling/cusumsysteem/erkenningsregeling/snelheidsbegrenzers/BWBR0008739/README.md), Stcrt 1997, nr.125 wordt ingetrokken.  
+De bekendmaking [vaststelling cusumsysteem Erkenningsregeling snelheidsbegrenzers](../../../../../zbo/vaststelling/cusumsysteem/erkenningsregeling/snelheidsbegrenzers/BWBR0008739/README.md), Stcrt 1997, nr.125 wordt ingetrokken. 
 
 ### Artikel  7  
 
-De op het tijdstip van inwerkingtreding van deze regeling bestaande cusumstanden die zijn toegekend met toepassing van de in artikel 6 genoemde bekendmaking, worden aangemerkt als zijnde toegekend met toepassing van de onderhavige regeling.  
+De op het tijdstip van inwerkingtreding van deze regeling bestaande cusumstanden die zijn toegekend met toepassing van de in artikel 6 genoemde bekendmaking, worden aangemerkt als zijnde toegekend met toepassing van de onderhavige regeling. 
 
 ### Artikel  8  
 
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 mei 2009.  
+Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 mei 2009. 
 
 ### Artikel  9  
 
-De regeling zal worden aangehaald als: Cusumsysteem Erkenninghouders snelheidsbegrenzer.  
+De regeling zal worden aangehaald als: Cusumsysteem Erkenninghouders snelheidsbegrenzer. 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Directie van de Dienst Wegverkeer, 
+Directie van de Dienst Wegverkeer,  
 
-Algemeen Directeur, 
-J.G.Hakkenberg   
+Algemeen Directeur,
+J.G. Hakkenberg   

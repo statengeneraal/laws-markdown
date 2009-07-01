@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Een bedrijfslichaam stelt in ieder geval voldoende waarborgen voor goed bestuur als bedoeld in [artikel 92a, eerste lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), indien hij zijn organisatie en werkwijze heeft ingericht overeenkomstig de principes van goed bestuur welke zijn aangewezen in de bijlage bij dit besluit.  
+Een bedrijfslichaam stelt in ieder geval voldoende waarborgen voor goed bestuur als bedoeld in [artikel 92a, eerste lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), indien hij zijn organisatie en werkwijze heeft ingericht overeenkomstig de principes van goed bestuur welke zijn aangewezen in de bijlage bij dit besluit. 
 
 ### Artikel  2  
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing principes goed bestuur bedrijfslichamen.  
+Dit besluit wordt aangehaald als: Besluit aanwijzing principes goed bestuur bedrijfslichamen. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -39,13 +39,11 @@ de *zestiende* juni 2009
 De Minister van Justitie , 
 E. M. H. Hirsch Ballin    
 
-### Bijlage  
+### Bijlage 
 
 ####behorende bij artikel 1  van het Besluit aanwijzing principes goed bestuur bedrijfslichamen
 
-####Aanwijzing principes goed bestuur bedrijfslichamen
-
-<sup> 1  Deze principes zijn overgenomen uit de Code Goed Bestuur product- en bedrijfschappen van 30 maart 2007 die bij de SER verkrijgbaar is.  </sup>  
+####Aanwijzing principes goed bestuur bedrijfslichamen<sup> 1  Deze principes zijn overgenomen uit de Code Goed Bestuur product- en bedrijfschappen van 30 maart 2007 die bij de SER verkrijgbaar is.  </sup> 
 
 ### 1  
 
@@ -53,7 +51,7 @@ E. M. H. Hirsch Ballin
 
 ### Principe  I  
 
-Het bestuur draagt er aan bij dat de uitvoering van het proces dat voorafgaat aan de benoeming van voorzitters transparant en op grond van adequate criteria geschiedt. Eenzelfde houding vraagt het van de ondernemers- en werknemersorganisaties die bestuursleden mogen benoemen.  
+Het bestuur draagt er aan bij dat de uitvoering van het proces dat voorafgaat aan de benoeming van voorzitters transparant en op grond van adequate criteria geschiedt. Eenzelfde houding vraagt het van de ondernemers- en werknemersorganisaties die bestuursleden mogen benoemen. 
 
 ### 2  
 
@@ -61,11 +59,11 @@ Het bestuur draagt er aan bij dat de uitvoering van het proces dat voorafgaat aa
 
 ### Principe  II  
 
-Het bestuur is gericht op het uitvoeren van de in de wet omschreven taak van een bedrijfslichaam. Bestuurders richten zich bij de uitvoering van hun werkzaamheden op het algemeen belang en op het gemeenschappelijk belang van de bedrijfsgenoten.  
+Het bestuur is gericht op het uitvoeren van de in de wet omschreven taak van een bedrijfslichaam. Bestuurders richten zich bij de uitvoering van hun werkzaamheden op het algemeen belang en op het gemeenschappelijk belang van de bedrijfsgenoten. 
 
 ### Principe  III  
 
-Het bestuur is verantwoordelijk voor de kwaliteit en de volledigheid van de openbaarmaking van relevante financiële relaties van het bedrijfslichaam met andere rechtspersonen en organisaties.  
+Het bestuur is verantwoordelijk voor de kwaliteit en de volledigheid van de openbaarmaking van relevante financiële relaties van het bedrijfslichaam met andere rechtspersonen en organisaties. 
 
 ### 3  
 
@@ -73,7 +71,7 @@ Het bestuur is verantwoordelijk voor de kwaliteit en de volledigheid van de open
 
 ### Principe  IV  
 
-Het toekennen van vergoedingen geschiedt op transparante wijze.  
+Het toekennen van vergoedingen geschiedt op transparante wijze. 
 
 ### 4  
 
@@ -81,31 +79,31 @@ Het toekennen van vergoedingen geschiedt op transparante wijze.
 
 ### Principe  V  
 
-Bestuurders voorkomen belangenverstrengeling, doen datgene wat mogelijk is om de schijn van belangenverstrengeling te vermijden en maken geen misbruik van hun positie.  
+Bestuurders voorkomen belangenverstrengeling, doen datgene wat mogelijk is om de schijn van belangenverstrengeling te vermijden en maken geen misbruik van hun positie. 
 
 ### Principe  VI  
 
-Personele unies moeten aan duidelijke eisen op het terrein van de transparantie, verantwoording en functiescheiding voldoen. Dit geldt in het bijzonder voor personele unies op bestuurdersniveau tussen een bedrijfslichaam en een derdeorganisatie waarmee financiële of contractuele relaties bestaan.  
+Personele unies moeten aan duidelijke eisen op het terrein van de transparantie, verantwoording en functiescheiding voldoen. Dit geldt in het bijzonder voor personele unies op bestuurdersniveau tussen een bedrijfslichaam en een derdeorganisatie waarmee financiële of contractuele relaties bestaan. 
 
 ### Principe  VII  
 
-Bestuurders houden geen informatie achter, tenzij deze vertrouwelijk is.  
+Bestuurders houden geen informatie achter, tenzij deze vertrouwelijk is. 
 
 ### Principe  VIII  
 
-Van uitnodigingen voor reizen, werkbezoeken en vergelijkbare activiteiten op kosten van derden wordt door bestuurders altijd mededeling gedaan in het dagelijks bestuur, onder vermelding van het doel. Het dagelijks bestuur beoordeelt of de activiteit in het belang is van het bedrijfslichaam.  
+Van uitnodigingen voor reizen, werkbezoeken en vergelijkbare activiteiten op kosten van derden wordt door bestuurders altijd mededeling gedaan in het dagelijks bestuur, onder vermelding van het doel. Het dagelijks bestuur beoordeelt of de activiteit in het belang is van het bedrijfslichaam. 
 
 ####Principe IX
 
-Geschenken mogen slechts in ontvangst worden genomen respectievelijk worden geschonken, voor zover daarmee de integriteit van betrokkenen niet wordt aangetast.  
+Geschenken mogen slechts in ontvangst worden genomen respectievelijk worden geschonken, voor zover daarmee de integriteit van betrokkenen niet wordt aangetast. 
 
 ### Principe  X  
 
-Bedrijfsmiddelen die voor een zakelijk doel ter beschikking worden gesteld mogen in beginsel niet voor privé-gebruik worden ingezet.  
+Bedrijfsmiddelen die voor een zakelijk doel ter beschikking worden gesteld mogen in beginsel niet voor privé-gebruik worden ingezet. 
 
 ### Principe  XI  
 
-Het bestuur stelt een integriteitsprotocol voor medewerkers op.  
+Het bestuur stelt een integriteitsprotocol voor medewerkers op. 
 
 ### 5  
 
@@ -113,25 +111,25 @@ Het bestuur stelt een integriteitsprotocol voor medewerkers op.
 
 ### Principe  XII  
 
-Het bestuur draagt er zorg voor dat de bedrijfsgenoten, op basis van een communicatieplan, in staat worden gesteld om gelijktijdig van de inhoud van de verschillende fasen van de beleidscyclus kennis te nemen.  
+Het bestuur draagt er zorg voor dat de bedrijfsgenoten, op basis van een communicatieplan, in staat worden gesteld om gelijktijdig van de inhoud van de verschillende fasen van de beleidscyclus kennis te nemen. 
 
 ### Principe  XIII  
 
-Het bestuur biedt bedrijfsgenoten mogelijkheden om in de verschillende fasen van de beleidscyclus actief betrokken te raken bij de besluitvorming om daarop invloed uit te oefenen.  
+Het bestuur biedt bedrijfsgenoten mogelijkheden om in de verschillende fasen van de beleidscyclus actief betrokken te raken bij de besluitvorming om daarop invloed uit te oefenen. 
 
 ### Principe  XIV  
 
-Bij het besluit tot het verrichten van een nieuwe activiteit of tot aanpassing van een bestaande activiteit, moet het bestuur beargumenteren waarom er ten aanzien van (aanpassing van) die activiteit gekozen is voor publieke uitvoering.  
+Bij het besluit tot het verrichten van een nieuwe activiteit of tot aanpassing van een bestaande activiteit, moet het bestuur beargumenteren waarom er ten aanzien van (aanpassing van) die activiteit gekozen is voor publieke uitvoering. 
 
 ### Principe  XV  
 
-Bij elk besluit van het bestuur dat leidt of kan leiden tot het optreden van administratieve lasten, dient het bestuur aan te geven hoe groot deze zijn en waarom zij noodzakelijk zijn.  
+Bij elk besluit van het bestuur dat leidt of kan leiden tot het optreden van administratieve lasten, dient het bestuur aan te geven hoe groot deze zijn en waarom zij noodzakelijk zijn. 
 
 ### 6  
 
 ####Vierjaarlijks draagvlakonderzoek
 
-Principe XVI: zie toelichting.  
+Principe XVI: zie toelichting. 
 
 ### 7  
 
@@ -139,7 +137,7 @@ Principe XVI: zie toelichting.
 
 ### Principe  XVII  
 
-Ten aanzien van wensen tot wijziging van de werkingssfeer van het bedrijfslichaam onderzoekt het bestuur eerst of er alternatieven zijn die daaraan tegemoet kunnen komen. Aan een verzoek tot wijziging van de werkingssfeer wordt door het bestuur meegewerkt indien het verzoek voldoet aan bepaalde voorwaarden.  
+Ten aanzien van wensen tot wijziging van de werkingssfeer van het bedrijfslichaam onderzoekt het bestuur eerst of er alternatieven zijn die daaraan tegemoet kunnen komen. Aan een verzoek tot wijziging van de werkingssfeer wordt door het bestuur meegewerkt indien het verzoek voldoet aan bepaalde voorwaarden. 
 
 ### 8  
 
@@ -147,11 +145,11 @@ Ten aanzien van wensen tot wijziging van de werkingssfeer van het bedrijfslichaa
 
 ### Principe  XVIII  
 
-Om het verband tussen de financiering van activiteiten van een bedrijfslichaam enerzijds en het nut dat een (sub)sector daaraan kan ontlenen anderzijds zo groot mogelijk te doen zijn, legt het bestuur voor de financiering van de activiteiten van het bedrijfslichaam bij voorkeur bestemmingsheffingen op.  
+Om het verband tussen de financiering van activiteiten van een bedrijfslichaam enerzijds en het nut dat een (sub)sector daaraan kan ontlenen anderzijds zo groot mogelijk te doen zijn, legt het bestuur voor de financiering van de activiteiten van het bedrijfslichaam bij voorkeur bestemmingsheffingen op. 
 
 ### Principe  XIX  
 
-Het bestuur voorkomt dat ondernemingen meerdere heffingen van verschillende bedrijfslichamen krijgen opgelegd. Indien een dergelijke samenloop door omstandigheden niet kan worden voorkomen, zal het bestuur zich inspannen zo spoedig mogelijk een oplossing te vinden.  
+Het bestuur voorkomt dat ondernemingen meerdere heffingen van verschillende bedrijfslichamen krijgen opgelegd. Indien een dergelijke samenloop door omstandigheden niet kan worden voorkomen, zal het bestuur zich inspannen zo spoedig mogelijk een oplossing te vinden. 
 
 ### 9  
 
@@ -159,7 +157,7 @@ Het bestuur voorkomt dat ondernemingen meerdere heffingen van verschillende bedr
 
 ### Principe  XX  
 
-Het bestuur draagt zorg voor een efficiënte en effectieve organisatie. Daartoe worden de geëigende instrumenten ingezet. In elk geval worden de eigen prestaties en financiële kengetallen geheel of gedeeltelijk vergeleken met die van de andere bedrijfslichamen (benchmarking), tenzij dit geen bruikbare informatie oplevert of anderszins niet mogelijk is.  
+Het bestuur draagt zorg voor een efficiënte en effectieve organisatie. Daartoe worden de geëigende instrumenten ingezet. In elk geval worden de eigen prestaties en financiële kengetallen geheel of gedeeltelijk vergeleken met die van de andere bedrijfslichamen (benchmarking), tenzij dit geen bruikbare informatie oplevert of anderszins niet mogelijk is. 
 
 ### 10  
 
@@ -167,7 +165,7 @@ Het bestuur draagt zorg voor een efficiënte en effectieve organisatie. Daartoe 
 
 ### Principe  XXI  
 
-Het bestuur handelt voor het gunnen van externe opdrachten volgens standaardaanbestedingsprocedures, gerelateerd aan drempelbedragen, en communiceert hierover op actieve wijze.  
+Het bestuur handelt voor het gunnen van externe opdrachten volgens standaardaanbestedingsprocedures, gerelateerd aan drempelbedragen, en communiceert hierover op actieve wijze. 
 
 ### 11  
 
@@ -175,7 +173,7 @@ Het bestuur handelt voor het gunnen van externe opdrachten volgens standaardaanb
 
 ### Principe  XXII  
 
-Het bestuur draagt er zorg voor dat mondeling of schriftelijk ingediende klachten behoorlijk en zorgvuldig worden behandeld. Het bedrijfslichaam maakt daartoe gebruik van een klachtenprotocol.  
+Het bestuur draagt er zorg voor dat mondeling of schriftelijk ingediende klachten behoorlijk en zorgvuldig worden behandeld. Het bedrijfslichaam maakt daartoe gebruik van een klachtenprotocol. 
 
 ### 12  
 
@@ -183,5 +181,5 @@ Het bestuur draagt er zorg voor dat mondeling of schriftelijk ingediende klachte
 
 ### Principe  XXIII  
 
-Het bestuur draagt zorg voor een evenwichtig stelsel van intern toezicht en horizontale verantwoording, ingekaderd in het stelsel van verticaal toezicht.  
+Het bestuur draagt zorg voor een evenwichtig stelsel van intern toezicht en horizontale verantwoording, ingekaderd in het stelsel van verticaal toezicht. 
 

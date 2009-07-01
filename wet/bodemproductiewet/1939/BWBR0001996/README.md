@@ -19,7 +19,7 @@ b. "bodemproductie": elke handeling, welke een onderdeel uitmaakt of kan uitmake
 
 ### Artikel  2  
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  De maatregelen, krachtens deze wet genomen, blijven zonder gevolg, voorzover zij onverenigbaar zijn met maatregelen, ten behoeve van de landsverdediging genomen krachtens: 
+De maatregelen, krachtens deze wet genomen, blijven zonder gevolg, voorzover zij onverenigbaar zijn met maatregelen, ten behoeve van de landsverdediging genomen krachtens: 
 
 a. de [Spoorwegwet](../../../../wet/spoorwegwet/BWBR0001848/README.md);  
 
@@ -39,11 +39,11 @@ h. de [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/
 
 ### Artikel  3  
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Bij of krachtens algemeenen maatregel van bestuur kunnen algemeene en bijzondere voorschriften worden gegeven met betrekking tot de bodemproductie en de bestemming van den bodem.  
+Bij of krachtens algemeenen maatregel van bestuur kunnen algemeene en bijzondere voorschriften worden gegeven met betrekking tot de bodemproductie en de bestemming van den bodem.  
 
 ### Artikel  4  
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  In verband met de in het vorige artikel bedoelde voorschriften kunnen uitkeeringen in geld worden gedaan overeenkomstig bij of krachtens algemeenen maatregel van bestuur te stellen regelen.  
+In verband met de in het vorige artikel bedoelde voorschriften kunnen uitkeeringen in geld worden gedaan overeenkomstig bij of krachtens algemeenen maatregel van bestuur te stellen regelen.  
 
 ### Artikel  5  
 
@@ -51,17 +51,16 @@ Bij de uitvoering van deze wet doet Onze Minister zich bijstaan door een regeeri
 
 ### Artikel  8  
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de krachtens deze wet gestelde verplichtingen.  
+Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de krachtens deze wet gestelde verplichtingen.  
 
 ### Artikel  10  
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Indien de regeeringscommissaris voor de bodemproductie of door hem gemachtigde personen het voor de uitvoering van deze wet noodig achten iemands grond te betreden of bedrijfsgebouwen binnen te gaan, moeten zoowel de eigenaren als de gebruikers van dien grond en die bedrijfsgebouwen dit te allen tijde gedoogen.   
 2.  Worden de in het vorige lid bedoelde handelingen niet gedoogd, dan wordt de tusschenkomst van den burgemeester of van den kantonrechter ingeroepen, op wiens bevel het verrichten der handelingen, desnoods met behulp van den sterken arm, wordt mogelijk gemaakt.   
 
 ### Artikel  10a  
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de personen, die daartoe zijn aangewezen bij besluit van Onze Minister of bij besluit van de in artikel 5 bedoelde regeringscommissaris.  
+Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de personen, die daartoe zijn aangewezen bij besluit van Onze Minister of bij besluit van de in artikel 5 bedoelde regeringscommissaris.  
 
 ### Artikel  16  
 
