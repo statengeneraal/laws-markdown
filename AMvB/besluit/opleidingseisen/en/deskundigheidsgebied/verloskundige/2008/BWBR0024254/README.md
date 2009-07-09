@@ -20,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. *wet* de [Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md);  
+a.  *wet* de [Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md);  
 
-b. *studiepunt* de in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) bedoelde eenheid waarin de studielast wordt uitgedrukt;  
+b.  *studiepunt* de in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) bedoelde eenheid waarin de studielast wordt uitgedrukt;  
 
-c. *EBM* Evidence Based Medicine, beschikbare resultaten uit wetenschappelijk onderzoek op medisch, in het bijzonder verloskundig, gebied, die gebruikt worden ter onderbouwing van het verloskundige handelen.    
+c.  *EBM* Evidence Based Medicine, beschikbare resultaten uit wetenschappelijk onderzoek op medisch, in het bijzonder verloskundig, gebied, die gebruikt worden ter onderbouwing van het verloskundige handelen.   
 
 ### §  2  
 
@@ -32,7 +32,7 @@ c. *EBM* Evidence Based Medicine, beschikbare resultaten uit wetenschappelijk on
 
 ### Artikel  2  
 
-Om in het krachtens [artikel 3 van de wet](../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) ingestelde register van verloskundigen te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding tot verloskundige die is opgenomen in het Centraal register opleidingen hoger onderwijs, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en die voldoet aan de artikelen 3 en 4.  
+Om in het krachtens [artikel 3 van de wet](../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) ingestelde register van verloskundigen te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding tot verloskundige die is opgenomen in het Centraal register opleidingen hoger onderwijs, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en die voldoet aan de artikelen 3 en 4. 
 
 ### §  3  
 
@@ -93,7 +93,7 @@ c. postnatale zorg:
 
 – evaluatie van zorg: 30 onderzoeken, waarvan 10 adviezen inzake preconceptie.       
 5.  Onverminderd het derde en het vierde lid voldoen het theoretische en praktische onderwijs ten minste aan de eisen, gesteld in punt 5.5.1 van Bijlage V van richtlijn 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005, betreffende de erkenning van beroepskwalificaties (PbEU L 255).   
-6.  Een wijziging van punt 5.5.1 van Bijlage V, bedoeld in het vijfde lid, gaat voor de toepassing van het vijfde lid gelden met ingang van de dag waarop aan die wijzigingsrichtlijn uitvoering moet zijn gegeven.   
+6.  Een wijziging van punt 5.5.1 van Bijlage V, bedoeld in het vijfde lid, gaat voor de toepassing van het vijfde lid gelden met ingang van de dag waarop aan die wijzigingsrichtlijn uitvoering moet zijn gegeven.  
 
 ### Artikel  4  
 
@@ -268,7 +268,7 @@ g. het nemen van het initiatief tot de ontwikkeling van protocollen op basis van
 
 h. het toepassen van kwaliteitszorginstrumenten;  
 
-i. het systematisch verzamelen en analyseren van klachten in het kader van de beroepsuitoefening, het vertalen ervan naar nieuw beleid en het implementeren van dat beleid.     
+i. het systematisch verzamelen en analyseren van klachten in het kader van de beroepsuitoefening, het vertalen ervan naar nieuw beleid en het implementeren van dat beleid.    
 
 ### §  4  
 
@@ -316,7 +316,7 @@ m. adviseren van de vrouw en, in voorkomende gevallen, haar partner met betrekki
 
 n. reanimeren van de pasgeborene;  
 
-o. optreden bij acute shock of fluxus postpartum, waaronder wordt begrepen het intraveneus inbrengen van een infuus en het door middel van een infuus dan wel door middel van een intraveneuze injectie toedienen van plasma of plasmavervangende middelen, oxytocine alsmede moederkoornalkaloïden en hiervan afgeleide verbindingen.     
+o. optreden bij acute shock of fluxus postpartum, waaronder wordt begrepen het intraveneus inbrengen van een infuus en het door middel van een infuus dan wel door middel van een intraveneuze injectie toedienen van plasma of plasmavervangende middelen, oxytocine alsmede moederkoornalkaloïden en hiervan afgeleide verbindingen.    
 
 ### §  5  
 
@@ -325,19 +325,19 @@ o. optreden bij acute shock of fluxus postpartum, waaronder wordt begrepen het i
 ### Artikel  6  
 
 1.  Degene aan wie op grond van het [Besluit opleidingseisen en deskundigheidsgebied verloskundige](../../../../../../../../AMvB/besluit/opleidingseisen/en/deskundigheidsgebied/verloskundige/BWBR0009025/README.md) een getuigschrift is uitgereikt, behoudt op basis van dit getuigschrift het recht op inschrijving in het krachtens [artikel 3 van de wet](../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) ingestelde register van verloskundigen.   
-2.  Onverminderd artikel 5 blijven ten aanzien van de studenten die op 1 september 2008 de opleiding nog op de voet van het [Besluit opleidingseisen en deskundigheidsgebied verloskundige](../../../../../../../../AMvB/besluit/opleidingseisen/en/deskundigheidsgebied/verloskundige/BWBR0009025/README.md) volgen, de [artikelen 2 tot en met 10](../../../../../../../../AMvB/besluit/opleidingseisen/en/deskundigheidsgebied/verloskundige/BWBR0009025/README.md) en [12 tot en met 18 van dat Besluit](../../../../../../../../AMvB/besluit/opleidingseisen/en/deskundigheidsgebied/verloskundige/BWBR0009025/README.md) van kracht, met dien verstande dat in [artikel 13, tweede lid](../../../../../../../../AMvB/besluit/opleidingseisen/en/deskundigheidsgebied/verloskundige/BWBR0009025/README.md), in plaats van richtlijn 80/155/EEG gelezen wordt richtlijn 2005/36/EG.   
+2.  Onverminderd artikel 5 blijven ten aanzien van de studenten die op 1 september 2008 de opleiding nog op de voet van het [Besluit opleidingseisen en deskundigheidsgebied verloskundige](../../../../../../../../AMvB/besluit/opleidingseisen/en/deskundigheidsgebied/verloskundige/BWBR0009025/README.md) volgen, de [artikelen 2 tot en met 10](../../../../../../../../AMvB/besluit/opleidingseisen/en/deskundigheidsgebied/verloskundige/BWBR0009025/README.md) en [12 tot en met 18 van dat Besluit](../../../../../../../../AMvB/besluit/opleidingseisen/en/deskundigheidsgebied/verloskundige/BWBR0009025/README.md) van kracht, met dien verstande dat in [artikel 13, tweede lid](../../../../../../../../AMvB/besluit/opleidingseisen/en/deskundigheidsgebied/verloskundige/BWBR0009025/README.md), in plaats van richtlijn 80/155/EEG gelezen wordt richtlijn 2005/36/EG.  
 
 ### Artikel  7  
 
-Het [Besluit opleidingseisen en deskundigheidsgebied verloskundige](../../../../../../../../AMvB/besluit/opleidingseisen/en/deskundigheidsgebied/verloskundige/BWBR0009025/README.md) wordt ingetrokken.  
+Het [Besluit opleidingseisen en deskundigheidsgebied verloskundige](../../../../../../../../AMvB/besluit/opleidingseisen/en/deskundigheidsgebied/verloskundige/BWBR0009025/README.md) wordt ingetrokken. 
 
 ### Artikel  8  
 
-Dit besluit treedt in werking met ingang van 1 september 2008.  
+Dit besluit treedt in werking met ingang van 1 september 2008. 
 
 ### Artikel  9  
 
-Dit besluit wordt aangehaald als: Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008.  
+Dit besluit wordt aangehaald als: Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -345,10 +345,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 3 juli 2008  
 Beatrix  
 
-De Minister van Volksgezondheid, Welzijn en Sport, 
+De Minister van Volksgezondheid, Welzijn en Sport,  
 A. Klink   
 
 de *vierentwintigste* juli 2008 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    
