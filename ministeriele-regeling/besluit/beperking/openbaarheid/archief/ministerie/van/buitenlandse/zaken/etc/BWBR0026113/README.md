@@ -133,10 +133,10 @@ Besluit:
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van het Ministerie van Buitenlandse Zaken 1965–1974’.  
 
 De 
 Minister van Buitenlandse Zaken, namens deze: de 
-directeur van de Directie Documentaire Informatievoorziening, 
-H.Y.Buijs   
+directeur van de Directie Documentaire Informatievoorziening,
+H.Y. Buijs     
