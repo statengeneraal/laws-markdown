@@ -25,7 +25,7 @@ Op 3 juli 2009 is het Besluit houdende wijziging van het Arbeidstijdenbesluit in
 
 ####Gemiddelde werkweek
 
-In het [Besluit personenchauffeurs Rijksdienst](../../../../../AMvB/besluit/personenchauffeurs/rijksdienst/BWBR0010015/README.md) is de arbeidsduur voor de personenchauffeur met een volledige arbeidsduur vastgesteld op gemiddeld 45 uur per week. Dat aantal uren kwam overeen met de maximale arbeidsduur volgens de toen geldende [Arbeidstijdenwet](../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md). Met de centrales van overheidspersoneel is overeengekomen om deze arbeidsduur te wijzigen in 48 uur. De arbeidsduur wordt daarmee weer in overeenstemming gebracht met de maximale gemiddelde arbeidstijd per 16 weken volgens de (inmiddels gewijzigde) [Arbeidstijdenwet](../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md). De in [artikel 6 van het Besluit personenchauffeurs Rijksdienst](../../../../../AMvB/besluit/personenchauffeurs/rijksdienst/BWBR0010015/README.md) opgenomen aanvulling op het salaris wordt hierdoor gebaseerd op 52/156 <sup>e</sup> (was 39/156 <sup>e</sup>) maal het salaris (berekend naar 36 uur en hoogstens op basis van het maximum van schaal 4) vermenigvuldigd met de factor 1,5.    
+In het [Besluit personenchauffeurs Rijksdienst](../../../../../AMvB/besluit/personenchauffeurs/rijksdienst/BWBR0010015/README.md) is de arbeidsduur voor de personenchauffeur met een volledige arbeidsduur vastgesteld op gemiddeld 45 uur per week. Dat aantal uren kwam overeen met de maximale arbeidsduur volgens de toen geldende [Arbeidstijdenwet](../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md). Met de centrales van overheidspersoneel is overeengekomen om deze arbeidsduur te wijzigen in 48 uur. De arbeidsduur wordt daarmee weer in overeenstemming gebracht met de maximale gemiddelde arbeidstijd per 16 weken volgens de (inmiddels gewijzigde) [Arbeidstijdenwet](../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md). De in [artikel 6 van het Besluit personenchauffeurs Rijksdienst](../../../../../AMvB/besluit/personenchauffeurs/rijksdienst/BWBR0010015/README.md) opgenomen aanvulling op het salaris wordt hierdoor gebaseerd op 52/156<sup>e</sup> (was 39/156<sup>e</sup>) maal het salaris (berekend naar 36 uur en hoogstens op basis van het maximum van schaal 4) vermenigvuldigd met de factor 1,5.    
 
 ####Aanspraak op vakantie
 
@@ -46,4 +46,4 @@ In het onderzoek naar de arbeidsvoorwaarden van personenchauffeurs is vastgestel
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
 directeur-generaal Organisatie en Bedrijfsvoering Rijk, 
-J.J.M.Uijlenbroek   
+J.J.M. Uijlenbroek     
