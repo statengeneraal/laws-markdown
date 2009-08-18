@@ -6,14 +6,14 @@ Het bestuur van het Productschap Vee en Vlees;
 Gelet op [artikel 7, derde lid, van de Verordening identificatie en registratie van paardachtigen (PVV) 2009](../../../../../../../../../pbo/verordening/identificatie/en/registratie/van/paardachtigen/(pvv)/2009/BWBR0026239/README.md);
 Besluit:    
 
-### Artikel  1  
+###Artikel 1 
 
-In het aanvraagformulier als bedoeld in [artikel 7, eerste lid, van de Verordening identificatie en registratie van paardachtigen (PVV) 2009](../../../../../../../../../pbo/verordening/identificatie/en/registratie/van/paardachtigen/(pvv)/2009/BWBR0026239/README.md) worden ten minste de gegevens vermeld die zijn opgenomen in het in de bijlage gegeven model.  
+In het aanvraagformulier als bedoeld in [artikel 7, eerste lid, van de Verordening identificatie en registratie van paardachtigen (PVV) 2009](../../../../../../../../../pbo/verordening/identificatie/en/registratie/van/paardachtigen/(pvv)/2009/BWBR0026239/README.md) worden ten minste de gegevens vermeld die zijn opgenomen in het in de bijlage gegeven model. 
 
-### Artikel  2  
+###Artikel 2 
 
-1.  Dit besluit treedt in werking met ingang van 1 juli 2009.   
-2.  Dit besluit wordt aangehaald als: Besluit gegevens aanvraagformulier paspoort paardachtigen (PVV) 2009.   
+1. Dit besluit treedt in werking met ingang van 1 juli 2009. 
+2. Dit besluit wordt aangehaald als: Besluit gegevens aanvraagformulier paspoort paardachtigen (PVV) 2009. 
 
 Zoetermeer 
 8 april 2009   
@@ -23,7 +23,7 @@ plv. voorzitter
 S.B.M. Jongerius  
 secretaris   
 
-### Bijlage  
+###Bijlage 
 
 ####bij het Besluit gegevens aanvraagformulier paspoort paardachtigen (PVV) 2009
 
@@ -31,63 +31,63 @@ Transpondernummer: Gegevens aanvrager (eigenaar/houder)
 
 | --- | --- |
 |:---|:---|
-| Naam  | --- |
-| Voorletter(s)  | --- |
-| Adres  | --- |
-| Postcode en Woonplaats  | --- |
-| Tel. Nr  | --- |
-| (Eventueel) lidnummer  | --- |
+|Naam | --- |
+|Voorletter(s) | --- |
+|Adres | --- |
+|Postcode en Woonplaats | --- |
+|Tel. Nr | --- |
+|(Eventueel) lidnummer | --- |
 
 Gegevens eigenaar (in te vullen door de aanvrager als deze niet de eigenaar is)  
 
 | --- | --- |
 |:---|:---|
-| Naam  | --- |
-| Voorletter(s)  | --- |
-| Adres  | --- |
-| Postcode en Woonplaats  | --- |
-| Tel. Nr  | --- |
-| (Eventueel) lidnummer  | --- |
+|Naam | --- |
+|Voorletter(s) | --- |
+|Adres | --- |
+|Postcode en Woonplaats | --- |
+|Tel. Nr | --- |
+|(Eventueel) lidnummer | --- |
 
 Gegevens paardachtige Paardachtige is wel/niet* geregistreerd (* s.v.p. doorhalen wat niet van toepassing is) 
 
-□ ja, registratienummer    
+□ja, registratienummer  
 
 | --- | --- |
 |:---|:---|
-| Soort  | □ paard □ pony □ ezel □ zebra □ anders, nl:  |
-| Naam  | --- |
-| Commerciële naam  | --- |
-| Geboortedatum  | --- |
-| Levensnummer  | --- |
-| Geslacht  | □ hengst □ merrie □ ruin  |
+|Soort |□ paard □ pony □ ezel □ zebra □ anders, nl: |
+|Naam | --- |
+|Commerciële naam | --- |
+|Geboortedatum | --- |
+|Levensnummer | --- |
+|Geslacht |□ hengst □ merrie □ ruin |
 
 Zijn kleur en signalement in overeenstemming met het registratiebewijs? 
 
-□ ja  
+□ja 
 
-□ nee, dan volledig nieuw signalement opnemen.   Signalement  
+□nee, dan volledig nieuw signalement opnemen. Signalement  
 
 | --- |
 |:---|
-| Kleur  |
-| Hoofd  |
-| RV  |
-| LV  |
-| LA  |
-| RA  |
-| Kenmerken  |
+|Kleur |
+|Hoofd |
+|RV |
+|LV |
+|LA |
+|RA |
+|Kenmerken |
 
 Checklist paardenpaspoortconsulent/gekwalificeerde dierenarts (aankruisen zodra uitgevoerd) 
 
-□ signalement gecontroleerd  
+□signalement gecontroleerd 
 
-□ gecontroleerd op aanwezigheid transponder  
+□gecontroleerd op aanwezigheid transponder 
 
-□ transponder ingebracht en werking gecontroleerd  
+□transponder ingebracht en werking gecontroleerd 
 
-□ kopie (origineel) registratieformulier cq. paspoort ingenomen  
+□kopie (origineel) registratieformulier cq. paspoort ingenomen 
 
-□ barcodesticker geplakt op registratieformulier en registratiebewijs  
+□barcodesticker geplakt op registratieformulier en registratiebewijs 
 
-□ gecontroleerd op aanwezigheid van klinische tekenen van een chirurgische ingreep om een in het verleden geïmplanteerde transponder te verwijderen   Naam paardenpaspoortconsulent/gekwalificeerde dierenarts: ........................... Tel. Nr: ................................................................................................................ Datum: ................................................................................................................. Handtekening: ..................................................................................................... Handtekening aanvrager (eigenaar/houder): ....................... datum: .................. DIT FORMULIER BINNEN 7 DAGEN NA INVULLEN OPSTUREN NAAR DE PASPOORTUITGEVENDE INSTANTIE 
+□gecontroleerd op aanwezigheid van klinische tekenen van een chirurgische ingreep om een in het verleden geïmplanteerde transponder te verwijderen Naam paardenpaspoortconsulent/gekwalificeerde dierenarts: ........................... Tel. Nr: ................................................................................................................ Datum: ................................................................................................................. Handtekening: ..................................................................................................... Handtekening aanvrager (eigenaar/houder): ....................... datum: .................. DIT FORMULIER BINNEN 7 DAGEN NA INVULLEN OPSTUREN NAAR DE PASPOORTUITGEVENDE INSTANTIE 
