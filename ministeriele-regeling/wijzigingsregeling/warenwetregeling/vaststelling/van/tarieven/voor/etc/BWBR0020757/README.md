@@ -8,25 +8,25 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Warenwetregeling vaststelling van tarieven voor retributies levensmiddelen.   
+Wijzigt de Warenwetregeling vaststelling van tarieven voor retributies levensmiddelen. 
 
 ### Artikel  II  
 
-Wijzigt de Regeling zekerheidsstelling en betaling van VWS-retributies.   
+Wijzigt de Regeling zekerheidsstelling en betaling van VWS-retributies. 
 
 ### Artikel  III  
 
-Een zekerheid die op grond van [artikel 3, vierde lid, van de Regeling zekerheidsstelling en betaling van VWS-retributies](../../../../../../../../../ministeriele-regeling/regeling/zekerheidsstelling/en/betaling/van/vws-retributies/BWBR0015945/README.md), werd verleend vóór de inwerkingtreding van deze regeling, wordt geacht te zijn verleend ter voldoening van enige retributie, met inbegrip van de vergoeding van invorderingskosten en wettelijke rente, op grond van het [Warenwetbesluit retributies levensmiddelen](../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md).  
+Een zekerheid die op grond van [artikel 3, vierde lid, van de Regeling zekerheidsstelling en betaling van VWS-retributies](../../../../../../../../../ministeriele-regeling/regeling/zekerheidsstelling/en/betaling/van/vws-retributies/BWBR0015945/README.md), werd verleend vóór de inwerkingtreding van deze regeling, wordt geacht te zijn verleend ter voldoening van enige retributie, met inbegrip van de vergoeding van invorderingskosten en wettelijke rente, op grond van het [Warenwetbesluit retributies levensmiddelen](../../../../../../../../../AMvB/warenwetbesluit/retributies/levensmiddelen/BWBR0015167/README.md). 
 
 ### Artikel  IV  
 
-Wijzigt de Warenwetregeling Gebruik van kleurstoffen in levensmiddelen.   
+Wijzigt de Warenwetregeling Gebruik van kleurstoffen in levensmiddelen. 
 
 ### Artikel  V  
 
-Deze regeling treedt in werking met ingang van 1 januari 2007.  
+Deze regeling treedt in werking met ingang van 1 januari 2007. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-J.F.Hoogervorst   
+J.F. Hoogervorst     
