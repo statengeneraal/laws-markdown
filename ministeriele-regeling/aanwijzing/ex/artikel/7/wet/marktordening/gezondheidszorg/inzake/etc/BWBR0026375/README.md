@@ -18,7 +18,7 @@ b. zorg waarvoor vrije tarieven gelden als bedoeld in [artikel 57, vierde lid, o
 
 c. huisartsenzorg als bedoeld bij of krachtens de [Zorgverzekeringswet](../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) voor zover het betreft de toepassing op die zorg van artikel 2, aanhef en onder a, van deze aanwijzing en  
 
-d. geneeskundige geestelijke gezondheidszorg als bedoeld in de wet van 22 november 2006 tot wijziging van het tijdstip waarop die zorg deel uitmaakt van de aanspraken ingevolge een zorgverzekering als bedoeld in de Zorgverzekeringswet (Stb. 2006, 630), voorzover die zorg wordt geleverd door vrijgevestigde psychiaters, gezondheidszorgpsychologen en psychotherapeuten.   Ter uitvoering van dit besluit stelt de Nederlandse Zorgautoriteit, verder te noemen de zorgautoriteit, beleidsregels vast.  
+d. geneeskundige geestelijke gezondheidszorg als bedoeld in de wet van 22 november 2006 tot wijziging van het tijdstip waarop die zorg deel uitmaakt van de aanspraken ingevolge een zorgverzekering als bedoeld in de Zorgverzekeringswet (Stb. 2006, 630), voorzover die zorg wordt geleverd door vrijgevestigde psychiaters, gezondheidszorgpsychologen en psychotherapeuten.   Ter uitvoering van dit besluit stelt de Nederlandse Zorgautoriteit, verder te noemen de zorgautoriteit, beleidsregels vast. 
 
 ### Artikel  2  
 
@@ -26,12 +26,12 @@ De indexatie van het inkomensbestanddeel van de zorg als bedoeld in artikel 1 wo
 
 a. voor het jaar 2009 vastgesteld op 1,75% en  
 
-b. voor het jaar 2010 vastgesteld op 0%.    
+b. voor het jaar 2010 vastgesteld op 0%.   
 
 ### Artikel  3  
 
-Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst, te lezen op www.officielebekendmakingen.nl.  
+Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst, te lezen op www.officielebekendmakingen.nl. 
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink   
+A. Klink     

@@ -94,6 +94,6 @@ Aanvullend kan met de aanvraag voor een jaarprogramma een bijdrage worden aangev
 
 – een multidisciplinaire aanpak strekt tot aanbeveling.      
 
-#### [Bijdragereglement Stimuleringsfonds voor Architectuur](../../../../../zbo/bijdragereglement/stimuleringsfonds/voor/architectuur/BWBR0025672/README.md) 
+####[Bijdragereglement Stimuleringsfonds voor Architectuur](../../../../../zbo/bijdragereglement/stimuleringsfonds/voor/architectuur/BWBR0025672/README.md)
 
 Het SfA heeft een Bijdragereglement dat van toepassing is op het aanvragen, beoordelen, verlenen en vaststellen van een financiële bijdrage voor een project. In het kader van deze deelregeling is het [Bijdragereglement](../../../../../zbo/bijdragereglement/stimuleringsfonds/voor/architectuur/BWBR0025672/README.md) van toepassing op de verstrekking van een financiële bijdrage, uitgezonderd [artikel 5, eerste en tweede lid](../../../../../zbo/bijdragereglement/stimuleringsfonds/voor/architectuur/BWBR0025672/README.md), en [artikel 8](../../../../../zbo/bijdragereglement/stimuleringsfonds/voor/architectuur/BWBR0025672/README.md). Het bijdragereglement is te downloaden vanaf www.archfonds.nl.     

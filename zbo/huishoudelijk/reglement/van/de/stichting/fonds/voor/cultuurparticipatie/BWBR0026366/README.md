@@ -8,21 +8,21 @@
 
 In dit reglement wordt verstaan onder: 
 
-a) *De Wet:* de [Wet op specifiek cultuurbeleid](../../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) wet van 11 maart 1993, Stb, 1993, 193 in werking getreden 16 april 1993;  
+a)  *De Wet:* de [Wet op specifiek cultuurbeleid](../../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) wet van 11 maart 1993, Stb, 1993, 193 in werking getreden 16 april 1993;  
 
-b) *Het Fonds:* Stichting Fonds voor Cultuurparticipatie;  
+b)  *Het Fonds:* Stichting Fonds voor Cultuurparticipatie;  
 
-c) *Raad van toezicht:* de raad van toezicht als bedoeld in artikel 11 van de statuten;  
+c)  *Raad van toezicht:* de raad van toezicht als bedoeld in artikel 11 van de statuten;  
 
-d) *Het bestuur:* het bestuur als bedoeld in artikel 5 van de statuten;  
+d)  *Het bestuur:* het bestuur als bedoeld in artikel 5 van de statuten;  
 
-e) *Het bureau:* het ondersteunend bureau als bedoeld in artikel 10 van dit Huishoudelijk Reglement;  
+e)  *Het bureau:* het ondersteunend bureau als bedoeld in artikel 10 van dit Huishoudelijk Reglement;  
 
-f) *Bezwaar:* bezwaar als bedoeld in [artikel 7:1 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+f)  *Bezwaar:* bezwaar als bedoeld in [artikel 7:1 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
 
-g) *Bezwaarschrift:* een bezwaarschrift als bedoeld in [artikel 6:5 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+g)  *Bezwaarschrift:* een bezwaarschrift als bedoeld in [artikel 6:5 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
 
-h) *De minister:* de minister voor Onderwijs, Cultuur en Wetenschap    
+h)  *De minister:* de minister voor Onderwijs, Cultuur en Wetenschap   
 
 ### Artikel  2  
 
@@ -38,7 +38,7 @@ c) Adviseurs;
 
 d) Bureau;  
 
-e) een Bezwarenadviescommissie;    
+e) een Bezwarenadviescommissie;   
 
 ### Artikel  3  
 
@@ -53,7 +53,7 @@ e) een Bezwarenadviescommissie;
 7.  De voorzitter van het bestuur onderhoudt de contacten met de Personeelsvertegenwoordiging.   
 8.  Het bestuur kan voor een bepaalde periode en opdracht een intendant aanstellen, zijnde iemand die op persoonlijke titel tijdelijk een budget ter beschikking krijgt om een beleidsdoelstelling van het Fonds te ontwikkelen, onverlet de bevoegdheid van het bestuur tot goedkeuring c.q. vaststelling van de betreffende financiële verplichtingen.   
 9.  De Raad van Toezicht voert jaarlijks een functioneringsgesprek met de leden van het bestuur.   
-10.  Leden van het bestuur melden hun functies en nevenfuncties aan de Raad van Toezicht.   
+10.  Leden van het bestuur melden hun functies en nevenfuncties aan de Raad van Toezicht.  
 
 ### Artikel  4  
 
@@ -66,7 +66,7 @@ e) een Bezwarenadviescommissie;
 5.  De leden van de Raad van Toezicht bevorderen zoveel mogelijk dat de besluiten bij unanimiteit worden genomen.   
 6.  Indien unanimiteit niet haalbaar blijkt en [de wet](../../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md), de statuten van de stichting of dit Reglement geen grotere meerderheid voorschrijven, worden besluiten van de Raad van Toezicht genomen bij meerderheid van de uitgebrachte stemmen. Bij staking van stemmen wordt de besluitvorming opgeschort, tenzij dit naar oordeel van de voorzitter niet in het belang van de organisatie is. In dat geval is de stem van de voorzitter doorslaggevend. De Raad van Toezicht kan slechts besluiten nemen indien een meerderheid van de in functie zijnde leden van de Raad van Toezicht aanwezig of vertegenwoordigd is. In spoedeisende gevallen kan de voorzitter of zijn plaatsvervanger buiten de vergadering om besluiten nemen namens de Raad, de leden worden over dit besluit geïnformeerd.   
 7.  Leden van de Raad van Toezicht genieten per vergadering een door bestuur, met goedkeuring van de Raad van Toezicht, vast te stellen vacatiegeld en een vergoeding van de reis- en verblijfskosten.   
-8.  Leden van de Raad van Toezicht melden hun functies en nevenfuncties aan de Raad van Toezicht en aan de minister.   
+8.  Leden van de Raad van Toezicht melden hun functies en nevenfuncties aan de Raad van Toezicht en aan de minister.  
 
 ### Artikel  5  
 
@@ -74,7 +74,7 @@ e) een Bezwarenadviescommissie;
 
 1.  Het bestuur hoort periodiek de secretarissen en adviseurs en informeert de Raad van Toezicht over de verschillende subsidie-instrumenten en de verschillende onderdelen van de organisatie en verwerkt de resultaten hiervan in beleid.   
 2.  Het bestuur zorgt ervoor dat werknemers zonder gevaar voor hun rechtspositie melding kunnen doen van (vermeende) onregelmatigheden van algemene, operationele en financiële aard.   
-3.  Het bestuur draagt er zorg voor dat in het kader van kwaliteitszorg voorzieningen getroffen worden waardoor personen en instellingen die met het Fonds in aanraking komen in de gelegenheid worden gesteld om voorstellen te doen ter verbetering van de werkwijzen en procedures. In het jaarverslag wordt hier melding van gemaakt.   
+3.  Het bestuur draagt er zorg voor dat in het kader van kwaliteitszorg voorzieningen getroffen worden waardoor personen en instellingen die met het Fonds in aanraking komen in de gelegenheid worden gesteld om voorstellen te doen ter verbetering van de werkwijzen en procedures. In het jaarverslag wordt hier melding van gemaakt.  
 
 ### Artikel  6  
 
@@ -89,7 +89,7 @@ e) een Bezwarenadviescommissie;
 − subsidieaanvragen te voorzien van een preadvies waarin de aanvraag wordt getoetst aan de subsidiereglementen en beleidsmatige richtlijnen;  
 
 − het beheer van subsidierelaties.     
-4.  De secretarissen melden hun functies en nevenfuncties aan het bestuur.   
+4.  De secretarissen melden hun functies en nevenfuncties aan het bestuur.  
 
 ### Artikel  7  
 
@@ -111,7 +111,7 @@ e) een Bezwarenadviescommissie;
 6.  Het bestuur kan een adviseur tussentijds uit zijn functie ontslaan.   
 7.  Adviseurs genieten per adviescommissievergadering een door het bestuur, met goedkeuring van de Raad van Toezicht, vast te stellen vacatiegeld en een vergoeding van de reiskosten.   
 8.  Adviseurs kunnen ook individueel gevraagd worden een advies te formuleren of andere taken uit te voeren, zij krijgen hier een door het bestuur vast te stellen vergoeding voor.   
-9.  Reguliere aanvragen voor instellingen en natuurlijke personen worden in beginsel voor inhoudelijke beoordeling voorgelegd aan een adviescommissie of adviseur. In het kader van een integrale afweging met het oog op de gestelde prioriteiten kan het bestuur ook direct voorzien in de afhandeling van de vragen;   
+9.  Reguliere aanvragen voor instellingen en natuurlijke personen worden in beginsel voor inhoudelijke beoordeling voorgelegd aan een adviescommissie of adviseur. In het kader van een integrale afweging met het oog op de gestelde prioriteiten kan het bestuur ook direct voorzien in de afhandeling van de vragen;  
 
 ### Artikel  8  
 
@@ -136,16 +136,16 @@ e) een Bezwarenadviescommissie;
 
 − Bewaakt de integriteit van het beoordelingsproces.     
 7.  Adviescommissievergaderingen zijn niet openbaar.   
-8.  Adviseurs zijn verplicht aan derden geen mededelingen te doen over de inhoud van de beraadslaging over de ingediende subsidieaanvragen, over de (uitkomsten van) de behandeling van de aanvragen en over de inhoud van de adviezen.   
+8.  Adviseurs zijn verplicht aan derden geen mededelingen te doen over de inhoud van de beraadslaging over de ingediende subsidieaanvragen, over de (uitkomsten van) de behandeling van de aanvragen en over de inhoud van de adviezen.  
 
 ### Artikel  9  
 
 ####Integriteit
 
-9.1.  Indien in een adviescommissievergadering kwesties aan de orde komen, waarbij een adviseur middellijk of onmiddellijk een eigen belang heeft, of kan hebben of wanneer het gaat om belangen van rechtspersonen waarbij hij als lid van het bestuur, adviseur of commissaris of functionaris is betrokken, dan woont hij de beraadslaging en besluitvorming over het desbetreffende onderwerp niet bij. Het is de plicht van de adviseur om dit onverwijld aan de secretaris mede te delen. Het is de taak van de secretaris om dit gedurende het beoordelingsproces strikt te bewaken.   
-9.2.  Bij aanvang van iedere adviescommissievergadering controleert de secretaris middels een standaardformulier of de betrokken adviseurs een belang hebben bij de beraadslaging en besluitvorming. Bij twijfel besluit het bestuur.   
-9.3.  De adviescommissies doen van een situatie, genoemd in het eerste lid, mededeling in het advies.   
-9.4.  Adviseurs melden hun functies en nevenfuncties aan het bestuur.   
+9.1.   Indien in een adviescommissievergadering kwesties aan de orde komen, waarbij een adviseur middellijk of onmiddellijk een eigen belang heeft, of kan hebben of wanneer het gaat om belangen van rechtspersonen waarbij hij als lid van het bestuur, adviseur of commissaris of functionaris is betrokken, dan woont hij de beraadslaging en besluitvorming over het desbetreffende onderwerp niet bij. Het is de plicht van de adviseur om dit onverwijld aan de secretaris mede te delen. Het is de taak van de secretaris om dit gedurende het beoordelingsproces strikt te bewaken.   
+9.2.   Bij aanvang van iedere adviescommissievergadering controleert de secretaris middels een standaardformulier of de betrokken adviseurs een belang hebben bij de beraadslaging en besluitvorming. Bij twijfel besluit het bestuur.   
+9.3.   De adviescommissies doen van een situatie, genoemd in het eerste lid, mededeling in het advies.   
+9.4.   Adviseurs melden hun functies en nevenfuncties aan het bestuur.  
 
 ### Artikel  10  
 
@@ -153,7 +153,7 @@ e) een Bezwarenadviescommissie;
 
 1.  Het bestuur wordt ondersteund door een bureau dat bestaat uit een hoofd, secretarissen, stafmedewerkers en bureaumedewerkers.   
 2.  Het bureau formuleert in voorkomende gevallen, voorafgaande aan de commissievergadering, een preadvies. Het preadvies bindt de adviescommissie niet.   
-3.  Het bureau kan, met goedkeuring van het bestuur, extern advies inwinnen indien het van oordeel is dat met betrekking tot een of meer aanvragen of criteria extra deskundigheid is vereist.   
+3.  Het bureau kan, met goedkeuring van het bestuur, extern advies inwinnen indien het van oordeel is dat met betrekking tot een of meer aanvragen of criteria extra deskundigheid is vereist.  
 
 ### Artikel  11  
 
@@ -173,7 +173,7 @@ e) een Bezwarenadviescommissie;
 − indien de subsidieaanvraag is voorgelegd aan adviseurs: de namen van de adviseurs of de naam van de adviescommissie die het advies heeft uitgebracht;  
 
 − de gemotiveerde overwegingen die door de adviescommissie over de aanvraag aan het Fonds zijn uitgebracht.     
-9.  Een overzicht van de gehonoreerde aanvragen wordt geplaatst op de website. Het Fonds publiceert periodiek de gehonoreerde en niet gehonoreerde aanvragen.   
+9.  Een overzicht van de gehonoreerde aanvragen wordt geplaatst op de website. Het Fonds publiceert periodiek de gehonoreerde en niet gehonoreerde aanvragen.  
 
 ### Artikel  12  
 
@@ -181,7 +181,7 @@ e) een Bezwarenadviescommissie;
 
 1.  De secretaris beoordeelt de aanvragen/verklaringen van gemeenten en provincies aan de hand van de criteria uit de van toepassing zijnde subsidiereglementen.   
 2.  De secretaris stelt een advies op en legt dat ter besluitvorming voor aan het bestuur. Het bestuur toetst of het advies zorgvuldig tot stand is gekomen. Daarbij toetst zij het advies integraal aan de subsidiereglementen en aan beleidsmatige richtlijnen en financiële uitgangspunten. Het bestuur beslist vervolgens of een advies al dan niet wordt overgenomen.   
-3.  Er is een afstemmingsoverleg met vertegenwoordigers van gemeenten, provincies, het Ministerie van OCW en het Fonds voor Cultuurparticipatie. Dit heeft als taken: ondersteuning bij de uitvoering van de Regeling cultuurparticipatie voor provincies en gemeenten 2009–2012, begeleiding van de monitoring en evaluatie plus advisering aan de bestuurlijke partners over relevante algemene ontwikkelingen. Het overleg komt ten minste twee maal per jaar bijeen.   
+3.  Er is een afstemmingsoverleg met vertegenwoordigers van gemeenten, provincies, het Ministerie van OCW en het Fonds voor Cultuurparticipatie. Dit heeft als taken: ondersteuning bij de uitvoering van de Regeling cultuurparticipatie voor provincies en gemeenten 2009–2012, begeleiding van de monitoring en evaluatie plus advisering aan de bestuurlijke partners over relevante algemene ontwikkelingen. Het overleg komt ten minste twee maal per jaar bijeen.  
 
 ### Artikel  13  
 
@@ -196,14 +196,14 @@ e) een Bezwarenadviescommissie;
 7.  Leden van de bezwarenadviescommissie en haar subcommissies worden benoemd voor ten hoogste twee jaar met de mogelijkheid tot herbenoeming van ten hoogste twee jaar.   
 8.  De leden van de bezwarenadviescommissie en de subcommissies genieten per vergadering een door het bestuur, met goedkeuring van de Raad van Toezicht, vast te stellen vacatiegeld en een vergoeding van de reis- en verblijfskosten.   
 9.  Leden van de bezwarenadviescommissie en de subcommissies nemen niet deel aan de behandeling van een bezwaarschrift dat betrekking heeft op een aangelegenheid waarbij zij op enigerlei wijze direct of indirect persoonlijk zijn betrokken.   
-10.  Het bestuur van het Fonds neemt het besluit op een bezwaarschrift met inachtneming van het advies van de functionaris of het advies van de bezwarenadviescommissie en subcommissies.   
+10.  Het bestuur van het Fonds neemt het besluit op een bezwaarschrift met inachtneming van het advies van de functionaris of het advies van de bezwarenadviescommissie en subcommissies.  
 
 ### Artikel  14  
 
 ####Klachten
 
 1.  Klachten worden behandeld door een daartoe door het bestuur aan te wijzen functionaris en kunnen aan de bezwarenadviescommissie worden voorgelegd.   
-2.  Het bestuur zendt binnen 6 weken na ontvangst een reactie op een klacht.   
+2.  Het bestuur zendt binnen 6 weken na ontvangst een reactie op een klacht.  
 
 ### Artikel  15  
 
@@ -211,4 +211,4 @@ e) een Bezwarenadviescommissie;
 
 1.  Dit Huishoudelijk reglement kan worden aangehaald als: Huishoudelijk reglement van de Stichting Fonds voor Cultuurparticipatie.   
 2.  In alle gevallen waarin [de wet](../../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md), de statuten of dit reglement, het algemeen reglement of deelreglementen niet voorzien, beslist het bestuur. Dit reglement is, na goedkeuring door de minister, vastgesteld door het bestuur, met goedkeuring van de Raad van Toezicht, op 5 februari 2009 te Den Haag.   
-3.  Dit reglement treedt in werking 2 dagen na publicatie in de Staatscourant.   
+3.  Dit reglement treedt in werking 2 dagen na publicatie in de Staatscourant.  
