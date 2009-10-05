@@ -5,9 +5,9 @@
 Gelet op [artikel 8 van het Besluit etikettering energiegebruik personenauto' s](../../../../../../../../../../../AMvB/besluit/etikettering/energiegebruik/personenauto's/BWBR0011761/README.md) van 3 november 2000 (Stb. 2000, nr. 475);
 Besluit:    
 
-### Enig  artikel  
+### Enig artikel  
 
-De constanten voor de in [bijlage 4 bij het Besluit etikettering energiegebruik personenauto's](../../../../../../../../../../../AMvB/besluit/etikettering/energiegebruik/personenauto's/BWBR0011761/README.md) opgenomen regressieformules, en de daarbij behorende waarden van de gemiddelde CO <sub>2</sub> -uitstoot voor personenauto's met benzine als brandstof, en voor personenauto's met diesel als brandstof, voor het kalenderjaar 2010, als volgt vast te stellen: 
+De constanten voor de in [bijlage 4 bij het Besluit etikettering energiegebruik personenauto's](../../../../../../../../../../../AMvB/besluit/etikettering/energiegebruik/personenauto's/BWBR0011761/README.md) opgenomen regressieformules, en de daarbij behorende waarden van de gemiddelde CO<sub>2</sub>-uitstoot voor personenauto's met benzine als brandstof, en voor personenauto's met diesel als brandstof, voor het kalenderjaar 2010, als volgt vast te stellen: 
 ###SET 1.
 
 Constanten berekend op basis van de huidige wetgeving  1. Constanten voertuiglengte: 
@@ -34,12 +34,12 @@ Constanten berekend op basis van de huidige wetgeving  1. Constanten voertuiglen
 | C2, diesel:  | 11,059  |
 | C3, diesel:  | 0,868  |
 
-4. Waarden gemiddelde CO <sub>2</sub> -uitstoot: 
+4. Waarden gemiddelde CO<sub>2</sub>-uitstoot: 
 
 | --- | --- |
 |:---|:---|
-| Gemiddelde CO <sub>2</sub> -uitstoot benzine:  | 145,3  |
-| Gemiddelde CO <sub>2</sub> -uitstoot diesel:  | 148,9  |
+| Gemiddelde CO<sub>2</sub>-uitstoot benzine:  | 145,3  |
+| Gemiddelde CO<sub>2</sub>-uitstoot diesel:  | 148,9  |
 
 ###SET 2.
 
@@ -67,12 +67,12 @@ Constanten voor 2010 en 2011, berekend door het Ministerie van VROM op basis van
 | C2, diesel:  | –78,3711  |
 | C3, diesel:  | 6,7313  |
 
-4. Waarden gemiddelde CO <sub>2</sub> -uitstoot: 
+4. Waarden gemiddelde CO<sub>2</sub>-uitstoot: 
 
 | --- | --- |
 |:---|:---|
-| Gemiddelde CO <sub>2</sub> -uitstoot benzine:  | 163,2320  |
-| Gemiddelde CO <sub>2</sub> -uitstoot diesel:  | 135,7337  |
+| Gemiddelde CO<sub>2</sub>-uitstoot benzine:  | 163,2320  |
+| Gemiddelde CO<sub>2</sub>-uitstoot diesel:  | 135,7337  |
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.   
 
@@ -81,5 +81,5 @@ Zoetermeer
 
 De directie van de RDW, 
 
-Algemeen Directeur, 
-J.G.Hakkenberg   
+Algemeen Directeur,
+J.G. Hakkenberg   
