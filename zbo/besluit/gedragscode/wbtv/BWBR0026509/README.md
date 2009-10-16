@@ -20,7 +20,7 @@ Raad voor Rechtsbijstand,    Besluit: Gezien:
 
 ####Inleiding
 
-Deze gedragscode is bedoeld als richtlijn voor tolken en vertalers in hun dagelijkse beroepspraktijk. Hij bevat het geheel van waarden en normen die naar de heersende opvattingen door tolken en vertalers in acht moeten worden genomen bij de uitoefening van hun beroep. De gedragscode is gebaseerd op een tekst die in Europees verband is opgesteld door een groot aantal nationale brancheverenigingen van tolken en vertalers. De ontwikkeling is vervolgens vooral verzorgd door de vertegenwoordigers van Nederlandse brancheverenigingen van tolken en vertalers in het Kwaliteitsinstituut beëdigde tolken en vertalers . Daarnaast is gebruik gemaakt van de ervaringen met een vergelijkbare gedragscode van de Nederlandse Orde van Advocaten en andere juridische deskundigheid. <sup> 1  In het Kwaliteitsinstituut btv zijn het Nederlands Genootschap van Tolken en Vertalers (drie leden), de Alliantie van Tolk- en VertaalOrganisaties (drie leden), de advocatuur (twee leden), het tolk- en vertaalonderwijsveld (twee leden) en VluchtelingenWerk Nederland vertegenwoordigd. Voorzitter van deze adviescommissie is de president van de rechtbank Almelo.  </sup>    
+Deze gedragscode is bedoeld als richtlijn voor tolken en vertalers in hun dagelijkse beroepspraktijk. Hij bevat het geheel van waarden en normen die naar de heersende opvattingen door tolken en vertalers in acht moeten worden genomen bij de uitoefening van hun beroep. De gedragscode is gebaseerd op een tekst die in Europees verband is opgesteld door een groot aantal nationale brancheverenigingen van tolken en vertalers. De ontwikkeling is vervolgens vooral verzorgd door de vertegenwoordigers van Nederlandse brancheverenigingen van tolken en vertalers in het Kwaliteitsinstituut beëdigde tolken en vertalers<sup> 1 In het Kwaliteitsinstituut btv zijn het Nederlands Genootschap van Tolken en Vertalers (drie leden), de Alliantie van Tolk- en VertaalOrganisaties (drie leden), de advocatuur (twee leden), het tolk- en vertaalonderwijsveld (twee leden) en VluchtelingenWerk Nederland vertegenwoordigd. Voorzitter van deze adviescommissie is de president van de rechtbank Almelo. </sup> . Daarnaast is gebruik gemaakt van de ervaringen met een vergelijkbare gedragscode van de Nederlandse Orde van Advocaten en andere juridische deskundigheid.    
 ### 1  
 
 ####Algemene beroepsattitude
@@ -139,4 +139,4 @@ Dit besluit wordt aangehaald als ‘Besluit Gedragscode Wbtv’. Tolken en verta
 
 De 
 Raad voor Rechtsbijstand, 
-P.J.Biesheuvel   
+P.J. Biesheuvel     
