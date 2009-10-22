@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-Voor de toepassing van het bij of krachtens deze verordening bepaalde worden de begripsbepalingen van de [Verordening varkensleveringen (PVV) 2007](../../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md) overgenomen.  
+Voor de toepassing van het bij of krachtens deze verordening bepaalde worden de begripsbepalingen van de [Verordening varkensleveringen (PVV) 2007](../../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md) overgenomen. 
 
 ### Artikel  2  
 
@@ -21,8 +21,8 @@ b. € 3,45 per transportdocument, indien het voorgenomen transport is gemeld d
 
 a. € 150,00 per verleende ontheffing;  
 
-b. € 100,00 per verlenging van de onder a. bedoelde ontheffing.     
-3.  De retributie, als bedoeld in [artikel 8, tweede lid, van de Verordening varkensleveringen (PVV) 2007](../../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md), bedraagt € 75,- per aanwijzing en € 75,- per verificatie van de aanwijzing, als bedoeld in [artikel 2, tweede lid](../../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md), [artikel 4, tweede lid](../../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md) en [artikel 5, tweede lid van de verordening](../../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md).   
+b. € 100,00 per verlenging van de onder a. bedoelde ontheffing.    
+3. De retributie, als bedoeld in [artikel 8, tweede lid, van de Verordening varkensleveringen (PVV) 2007](../../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md), bedraagt € 75,- per aanwijzing en € 75,- per verificatie van de aanwijzing, als bedoeld in [artikel 2, tweede lid](../../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md), [artikel 4, tweede lid](../../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md) en [artikel 5, tweede lid van de verordening](../../../../../../../../../pbo/verordening/varkensleveringen/(pvv)/2007/BWBR0023465/README.md).
 
 ### Artikel  3  
 
@@ -36,17 +36,17 @@ b. een specificatie of toelichting omtrent de wijze waarop de retributie is bere
 c. het totaal van de retributies.     
 3.  Na betaling aan het meldingsbureau, is degene die de retributie verschuldigd is, daarvan gekweten.   
 4.  De retributie is verschuldigd uiterlijk op de eenentwintigste dag volgend op die waarop zij door of vanwege het productschap in rekening is gebracht.   
-5.  Aan de betalingsplichtige die niet of niet geheel binnen de in het vorige lid gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).   
+5.  Aan de betalingsplichtige die niet of niet geheel binnen de in het vorige lid gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).  
 
 ### Artikel  4  
 
-De [Verordening retributies meldingen varkensleveringen (PVV) 2007](../../../../../../../../../pbo/verordening/retributies/meldingen/varkensleveringen/(pvv)/2007/BWBR0022125/README.md) wordt ingetrokken.  
+De [Verordening retributies meldingen varkensleveringen (PVV) 2007](../../../../../../../../../pbo/verordening/retributies/meldingen/varkensleveringen/(pvv)/2007/BWBR0022125/README.md) wordt ingetrokken. 
 
 ### Artikel  5  
 
 1.  Deze verordening wordt aangehaald als: Verordening inzake retributies meldingen varkensleveringen (PVV) 2007.   
 2.  Deze verordening zal worden geplaatst in het Verordeningenblad Bedrijfsorganisatie.   
-3.  Deze verordening treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningenblad waarin zij wordt geplaatst.   
+3.  Deze verordening treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningenblad waarin zij wordt geplaatst.  
 
 Zoetermeer 
 31 oktober 2007   
