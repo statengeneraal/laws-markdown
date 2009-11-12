@@ -1,9 +1,9 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 september 2009, nr. DBV/PZ 2947060, tot het verlenen van machtiging aan P-Direkt
+##Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 2 november 2009, nr. BV/TPD/2009/17708, tot het verlenen van machtiging aan P-Direkt
 
-De Minister van Volksgezondheid, Welzijn en Sport,  
-Handelend in overeenstemming met het Kabinetsbesluit van 4 juli 2003 tot oprichting van een Shared Service Center HRM voor Personeelsregistratie en Salarisadministratie;
+De Minister van Sociale Zaken en Werkgelegenheid,  
+Handelend in overeenstemming met het Kabinetsbesluit van 4 juli 2003 tot oprichting van een Shared Service Center HRM voor Personeelsregistratie en Salarisadministratie;
 
 Gelet op [artikel 10:12 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
 Besluit:    
@@ -14,11 +14,11 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a.  *minister:* de minister Volksgezondheid, Welzijn en Sport;  
+a.  *minister:* de Minister van Sociale Zaken en Werkgelegenheid  
 
-b.  *ministerie:* ministerie van Volksgezondheid, Welzijn en Sport;  
+b.  *ministerie:* ministerie van Sociale Zaken en Werkgelegenheid  
 
-c.  *P-Direkt:* de baten-lastendienst, ingesteld bij besluit van de minister van Binnenlandse Zaken en Koninkrijksrelaties en de minister van Financiën van 11 februari 2009;  
+c.  *P-Direkt:* de baten-lastendienst, ingesteld bij besluit van de minister van Binnenlandse Zaken en Koninkrijksrelaties en de minister van Financiën van 11 februari 2009;  
 
 d.  *machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.   
 
@@ -37,7 +37,7 @@ a. om op basis van het daartoe strekkende besluit van de minister papieren docum
 b. om papieren documenten te scannen en de gescande documenten aan het digitale dossier toe te voegen, waarbij de originele papieren documenten worden bewaard totdat vervanging als bedoeld in het derde lid, onder a, is toegestaan;  
 
 c. om op basis van een daartoe strekkend besluit van of namens de minister de archiefbescheiden te vernietigen overeenkomstig [artikel 3 van de Archiefwet 1995](../../../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md).     
-4.  Voor de toepassing van [artikel 4 van de Wet openbaarheid van bestuur](../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) worden documenten die berusten bij P-Direkt geacht te berusten bij het ministerie. De directeur P-Direkt heeft geen machtiging namens de minister verzoeken in het kader van de Wet openbaarheid van bestuur zonder tussenkomst van of namens de minister af te handelen.  
+4.  Voor de toepassing van de [Wet openbaarheid van bestuur](../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) worden documenten die betrekking hebben op het ministerie en die berusten bij P-Direkt geacht te berusten bij het ministerie. De directeur P-Direkt heeft geen machtiging namens de minister verzoeken in het kader van de [Wet openbaarheid van bestuur](../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) zonder tussenkomst van of namens de minister te behandelen.  
 
 ### Artikel  3  
 
@@ -59,9 +59,13 @@ De machtiging die is verleend aan het Facilitair SalarisCentrum ten behoeve van 
 ### Artikel  7  
 
 1.  Dit besluit zal in de Staatscourant worden gepubliceerd.   
-2.  Dit besluit treedt in werking met ingang van de dag na de datum van de uitgifte Staatscourant waarin zij wordt geplaatst.   
+2.  Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.   
 3.  Alle besluiten van voor inwerkingtreding van dit besluit, inhoudende een machtiging aan P-Direkt of zijn rechtsvoorganger tot het verrichten van feitelijke handelingen op het gebied van personeels- en salarisadministratie, worden ingetrokken per datum van inwerkingtreding van dit besluit.  
 
+Den Haag 
+2 november 2009   
+
 De 
-Minister van Volksgezondheid, Welzijn en Sport, 
-A. Klink     
+Minister van Sociale Zaken en Werkgelegenheid, namens deze: 
+de Secretaris-Generaal, 
+J.F. de Leeuw     
