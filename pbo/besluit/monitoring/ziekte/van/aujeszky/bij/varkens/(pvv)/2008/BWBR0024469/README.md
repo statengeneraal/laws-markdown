@@ -15,11 +15,11 @@ Het aantal per periode van 4 maanden, te weten januari tot en met april, mei tot
 | 0 t/m 30  | 0  |
 | Meer dan 30  | 3  |
 
-De bloedmonsters worden genomen van varkens met een gewicht van ten minste 25 kilogram, of indien deze er niet zijn, van de zwaarste varkens.  
+De bloedmonsters worden genomen van varkens met een gewicht van ten minste 25 kilogram, of indien deze er niet zijn, van de zwaarste varkens.
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningblad Bedrijfsorganisatie waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningblad Bedrijfsorganisatie waarin het wordt geplaatst. 
 
 Zoetermeer 
 11 juni 2008   

@@ -3,7 +3,7 @@
 ##Reglement voor de Dienst Verslag en Redactie
 
 Vastgesteld in de vergaderingen van 20 april 2004 (Eerste en Tweede Kamer) (Handelingen I 2004/2005, nr. 25 resp. Handelingen II 2004/2005, nr. 68)     
-### Artikel  1  
+### Artikel 1 
 
 ####De zorg voor de Dienst Verslag en Redactie en de Gemengde commissie van beroep
 
@@ -16,7 +16,7 @@ Vastgesteld in de vergaderingen van 20 april 2004 (Eerste en Tweede Kamer) (Han
 4. Het hoofd van de dienst of diens plaatsvervanger woont als regel de vergaderingen van de commissie van beroep bij.  
 
 5. Met de Eerste Kamer wordt een dienstverleningsovereenkomst afgesloten waarin de te leveren producten en diensten alsmede de aard en kwaliteit daarvan, worden vastgelegd.      
-### Artikel  2  
+### Artikel 2 
 
 ####De taakuitoefening
 
@@ -25,7 +25,7 @@ Vastgesteld in de vergaderingen van 20 april 2004 (Eerste en Tweede Kamer) (Han
 2. De in het eerste lid bedoelde verslagen worden vervaardigd met gebruikmaking van schriftelijke optekening, alsmede alle technische hulpmiddelen op het gebied van geluids- en geheugentechniek die de Tweede Kamer, het hoofd van de dienst gehoord, dienstig acht.  
 
 3. Het hoofd van de dienst of een door hem daartoe aangewezen ambtenaar van de Dienst Verslag en Redactie draagt er zorg voor dat na de sluiting van elke openbare plenaire vergadering het officiële verslag dat aan de goedkeuring van de betreffende Kamer is onderworpen, zo spoedig mogelijk aan de Griffier van die Kamer ter hand wordt gesteld.      
-### Artikel  3  
+### Artikel 3 
 
 ####De openbaarmaking
 
@@ -48,7 +48,7 @@ Vastgesteld in de vergaderingen van 20 april 2004 (Eerste en Tweede Kamer) (Han
 9. Andere verslagen van openbare vergaderingen worden, zolang deze niet zijn vastgesteld, niet dan na voorafgaande toestemming van de commissies of werkgroepen van de Kamers waarvoor de verslagen zijn gemaakt, aan derden ter inzage gegeven.  
 
 10. Het negende lid is van overeenkomstige toepassing op de geluidsdragers van die vergaderingen en op de desbetreffende geheugendragers.      
-### Artikel  4  
+### Artikel 4 
 
 ####De bewaartermijnen
 
