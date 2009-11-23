@@ -9,9 +9,9 @@ Op de voordracht van Onze Ministers van Binnenlandse Zaken en van Verkeer en Wat
 Gelet op [artikel 86 van de Grondwet](../../../../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md);
 Hebben goedgevonden en verstaan:    
 
-### Enig artikel  
+###Enig artikel 
 
-Met ingang van 1 januari 1956 worden de zaken, geregeld bij de wet van 26 april 1884 (*Stb.* 81), houdende nadere bepalingen omtrent het vervoer, de in-, uit- en doorvoer, verkoop en opslag van buskruit en andere licht ontvlambare of ontplofbare stoffen, voor zoveel deze berusten bij het Hoofd van het Departement van Binnenlandse Zaken, overgedragen aan het Hoofd van het Departement van Verkeer en Waterstaat.  
+Met ingang van 1 januari 1956 worden de zaken, geregeld bij de wet van 26 april 1884 (*Stb.* 81), houdende nadere bepalingen omtrent het vervoer, de in-, uit- en doorvoer, verkoop en opslag van buskruit en andere licht ontvlambare of ontplofbare stoffen, voor zoveel deze berusten bij het Hoofd van het Departement van Binnenlandse Zaken, overgedragen aan het Hoofd van het Departement van Verkeer en Waterstaat.
 
 Onze Ministers van Binnenlandse Zaken en van Verkeer en Waterstaat zijn belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst.   
 

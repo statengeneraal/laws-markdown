@@ -11,15 +11,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De Tweede Kamer der Staten-Generaal wordt ontbonden met ingang van 17 mei 1994.  
+De Tweede Kamer der Staten-Generaal wordt ontbonden met ingang van 17 mei 1994. 
 
 ### Artikel  2  
 
-De kandidaatstelling voor de verkiezing van de leden van de Tweede Kamer zal plaatshebben op dinsdag 22 maart 1994.  
+De kandidaatstelling voor de verkiezing van de leden van de Tweede Kamer zal plaatshebben op dinsdag 22 maart 1994. 
 
 ### Artikel  3  
 
-De eerste samenkomst van de nieuw gekozen Tweede Kamer zal plaatshebben op dinsdag 17 mei 1994.  
+De eerste samenkomst van de nieuw gekozen Tweede Kamer zal plaatshebben op dinsdag 17 mei 1994. 
 
 Onze Minister van Binnenlandse Zaken is belast met de uitvoering van dit besluit, waarvan afschrift zal worden gezonden aan de beide kamers der Staten-Generaal, aan de Raad van State, aan de ministeries, aan de Kiesraad en aan de Algemene Rekenkamer, en dat met de nota van toelichting in het *Staatsblad* en in de *Staatscourant* zal worden geplaatst.   
 

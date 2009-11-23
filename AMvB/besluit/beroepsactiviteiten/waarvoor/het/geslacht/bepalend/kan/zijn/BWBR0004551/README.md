@@ -10,14 +10,14 @@ Gelet op het bepaalde in [artikel 5, derde lid, van de Wet gelijke behandeling v
 
 Gezien de adviezen die ter zake zijn uitgebracht door de Sociaal-Economische Raad, de Emancipatieraad, de Commissie gelijke behandeling van mannen en vrouwen bij de arbeid en de Commissie gelijke behandeling van mannen en vrouwen bij de arbeid in de burgerlijke openbare dienst;
 
-De Raad van State gehoord (advies van 8 december 1986, nr. W.12.86.0248/ *b)*;
+De Raad van State gehoord (advies van 8 december 1986, nr. W.12.86.0248/*b)*;
 
 Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid van 12 mei 1989, uitgebracht mede namens Onze Ministers van Binnenlandse Zaken, Justitie, Defensie en Onderwijs en Wetenschappen;
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
 
-Als beroepsactiviteiten en hiervoor noodzakelijke opleidingen waarvoor in voorkomend geval vanwege hun aard of de voorwaarden voor de uitoefening ervan het geslacht bepalend kan zijn, worden slechts beschouwd die welke behoren tot respectievelijk opleiden voor een of meer van de volgende categorieën: 
+Als beroepsactiviteiten en hiervoor noodzakelijke opleidingen waarvoor in voorkomend geval vanwege hun aard of de voorwaarden voor de uitoefening ervan het geslacht bepalend kan zijn, worden slechts beschouwd die welke behoren tot respectievelijk opleiden voor een of meer van de volgende categorieën:  
 
 a. de beroepsactiviteiten die om lichamelijke redenen uitsluitend door personen van een bepaald geslacht kunnen worden vervuld;  
 
@@ -25,7 +25,7 @@ b. de beroepsactiviteiten van de mannelijke of de vrouwelijke mannequin, die bep
 
 c. de beroepsactiviteiten van modellen voor beeldend kunstenaars, fotografen, cineasten, kappers, grimeurs en schoonheidsspecialisten;  
 
-d. de beroepsactiviteiten van acteur, zanger, danser of kunstenaar, voor zover deze activiteiten betrekking hebben op het vertolken van bepaalde rollen;  
+d.de beroepsactiviteiten van acteur, zanger, danser of kunstenaar, voor zover deze activiteiten betrekking hebben op het vertolken van bepaalde rollen;
 
 e. de beroepsactiviteiten binnen particuliere huishoudens die inhouden de persoonlijke bediening, verzorging, verpleging of opvoeding van dan wel hulpverlening aan een of meer personen;  
 
@@ -37,15 +37,15 @@ h. de beroepsactiviteiten waarvan de vervulling of uitoefening door personen van
 
 i. de beroepsactiviteiten die uitgeoefend worden in het buitenland, indien door het aldaar geldende recht deze beroepsactiviteiten aan personen van een bepaald geslacht zijn voorbehouden;  
 
-j. de beroepsactiviteiten bij het Korps Mariniers en bij de Onderzeedienst.    
+j. de beroepsactiviteiten bij het Korps Mariniers en bij de Onderzeedienst.   
 
-### Artikel  2  
+###Artikel 2 
 
-Dit besluit treedt in werking met ingang van dezelfde datum als de Wet tot herziening van de wetgeving inzake gelijke behandeling van mannen en vrouwen.  
+Dit besluit treedt in werking met ingang van dezelfde datum als de Wet tot herziening van de wetgeving inzake gelijke behandeling van mannen en vrouwen.
 
-### Artikel  3  
+###Artikel 3 
 
-Dit besluit kan worden aangehaald als: Besluit beroepsactiviteiten waarvoor het geslacht bepalend kan zijn.  
+Dit besluit kan worden aangehaald als: Besluit beroepsactiviteiten waarvoor het geslacht bepalend kan zijn.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Vaststelling formulier eed/belofte rijksambtenaren
+##Vaststelling formulier eed/belofte rijksambtenaren 
 
 De Minister van Binnenlandse Zaken,  
 Gelet op [artikel 51, derde lid, van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [artikel 86, derde lid, van het Ambtenarenreglement Staten-Generaal](../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -12,18 +12,18 @@ Voor het afleggen van de eed of de belofte, bedoeld in artikel 51, eerste lid, v
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 De 
-minister van Binnenlandse Zaken, 
+ministervan Binnenlandse Zaken, 
 
-voor deze,   
+voor deze, 
 
-de directeur-generaal Management en Personeelsbeleid, 
-A.H.C. Annink     
+de directeur-generaal Management en Personeelsbeleid,
+A.H.C.  Annink    
 
-### Bijlage  
+###Bijlage 
 
 ####Bijlage
 

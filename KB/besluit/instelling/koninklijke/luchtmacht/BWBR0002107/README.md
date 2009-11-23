@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Enig artikel  
 
-De luchtstrijdkrachten, behoudens die behorende tot de zeemacht, vormen Onze luchtmacht en zullen als zodanig genaamd zijn de Koninklijke Luchtmacht.  
+De luchtstrijdkrachten, behoudens die behorende tot de zeemacht, vormen Onze luchtmacht en zullen als zodanig genaamd zijn de Koninklijke Luchtmacht. 
 
 Onze Minister van Oorlog is belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst.   
 

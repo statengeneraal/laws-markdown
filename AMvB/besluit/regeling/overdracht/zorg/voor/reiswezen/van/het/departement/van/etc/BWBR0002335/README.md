@@ -17,21 +17,21 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De zorg voor de zaken, betreffende: 
+De zorg voor de zaken, betreffende:  
 
 a. de vergoeding voor reis- en verblijfkosten terzake van reizen in Nederland ten behoeve van het Rijk gedaan;  
 
 b. de vergoeding voor verplaatsingskosten in de rijksdienst;  
 
-c. de vergoeding voor reis- en verblijfkosten terzake van plaatselijk vervoer en verblijf in de rijksdienst;   wordt overgedragen van Onze Minister van Financiën aan Onze Minister van Binnenlandse Zaken;  
+c. de vergoeding voor reis- en verblijfkosten terzake van plaatselijk vervoer en verblijf in de rijksdienst;   wordt overgedragen van Onze Minister van Financiën aan Onze Minister van Binnenlandse Zaken; 
 
 ### Artikel  2  
 
-Alle bevoegdheden en verplichtingen, opgenomen in de besluiten en de daarop gebaseerde uitvoeringsvoorschriften, betreffende de onderwerpen, genoemd in artikel 1 van dit besluit, gaan, voorzover zij thans zijn opgedragen aan Onze Minister van Financiën, over op Onze Minister van Binnenlandse Zaken.  
+Alle bevoegdheden en verplichtingen, opgenomen in de besluiten en de daarop gebaseerde uitvoeringsvoorschriften, betreffende de onderwerpen, genoemd in artikel 1 van dit besluit, gaan, voorzover zij thans zijn opgedragen aan Onze Minister van Financiën, over op Onze Minister van Binnenlandse Zaken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin het wordt geplaatst. 
 
 Onze voornoemde Ministers zijn, ieder voor zoveel hem aangaat, belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State, aan de Algemene Rekenkamer en aan de Kamers der Staten-Generaal.   
 
