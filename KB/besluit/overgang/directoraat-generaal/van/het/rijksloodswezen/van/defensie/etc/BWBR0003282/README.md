@@ -14,12 +14,12 @@ Hebben goedgevonden en verstaan:
 ### Artikel  I  
 
 1.  Het Directoraat-Generaal van het Rijksloodswezen gaat van het departement van Defensie over naar het departement van Verkeer en Waterstaat.   
-2.  De personeelsleden van het Directoraat-Generaal van het Rijksloodswezen gaan over in dienst van het departement van Verkeer en Waterstaat. In geval van oorlog, oorlogsgevaar of andere daaraan verwante of daarmede verband houdende buitengewone omstandigheden gaan volgens door Ons te geven regelen personeelsleden over in dienst van het departement van Defensie teneinde te worden ingezet voor taken in het belang van de landsverdediging.   
-3.  De roerende en onroerende zaken van het Directoraat-Generaal van het Rijksloodswezen gaan in materieel beheer over naar het departement van Verkeer en Waterstaat. In geval van oorlog, oorlogsgevaar of andere daaraan verwante of daarmede verband houdende buitengewone omstandigheden gaan volgens door Ons te geven regelen roerende en onroerende zaken in materieel beheer over naar het departement van Defensie, voorzover zulks in verband met de onder 2 genoemde taken gewenst is.   
+2.   De personeelsleden van het Directoraat-Generaal van het Rijksloodswezen gaan over in dienst van het departement van Verkeer en Waterstaat. In geval van oorlog, oorlogsgevaar of andere daaraan verwante of daarmede verband houdende buitengewone omstandigheden gaan volgens door Ons te geven regelen personeelsleden over in dienst van het departement van Defensie teneinde te worden ingezet voor taken in het belang van de landsverdediging.   
+3.   De roerende en onroerende zaken van het Directoraat-Generaal van het Rijksloodswezen gaan in materieel beheer over naar het departement van Verkeer en Waterstaat. In geval van oorlog, oorlogsgevaar of andere daaraan verwante of daarmede verband houdende buitengewone omstandigheden gaan volgens door Ons te geven regelen roerende en onroerende zaken in materieel beheer over naar het departement van Defensie, voorzover zulks in verband met de onder 2 genoemde taken gewenst is.  
 
 ### Artikel  II  
 
-Dit besluit treedt in werking met ingang van 1 januari 1980.  
+Dit besluit treedt in werking met ingang van 1 januari 1980. 
 
 Onze Ministers van Defensie en van Verkeer en Waterstaat zijn belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.   
 
