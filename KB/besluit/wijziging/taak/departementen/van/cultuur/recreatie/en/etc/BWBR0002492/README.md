@@ -9,9 +9,9 @@ Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, mede 
 Gelet op [artikel 86 van de Grondwet](../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md);
 Hebben goedgevonden en verstaan:    
 
-### Enig  artikel  
+### Enig  artikel 
 
-De zorg voor de bevordering van de doelmatige verdeling van de woongelegenheid over de bevolking gaat met ingang van 15 juni 1965 over naar het departement van Volkshuisvesting en Ruimtelijke Ordening.  
+De zorg voor de bevordering van de doelmatige verdeling van de woongelegenheid over de bevolking gaat met ingang van 15 juni 1965 over naar het departement van Volkshuisvesting en Ruimtelijke Ordening. 
 
 Onze Ministers van Cultuur, Recreatie en Maatschappelijk Werk en van Volkshuisvesting en Ruimtelijke Ordening zijn belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst, waarvan mededeling zal worden gedaan in de *Nederlandse Staatscourant* en waarvan afschrift zal worden gezonden aan Onze Ministers, aan de Raad van State, aan de Algemene Rekenkamer en aan de Kamers der Staten-Generaal.   
 
