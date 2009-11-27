@@ -9,9 +9,9 @@ Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, d.d. 
 Gelet op [artikel 86 van de Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md);
 Hebben goedgevonden en verstaan:    
 
-onbenoemd   
+onbenoemd  
 
-De aangelegenheden betreffende het beheer van Hoofdstuk I der Rijksbegroting onder te brengen bij het departement van Algemene Zaken. Afschrift van dit besluit dat in het *Staatsblad* zal worden geplaatst en waarvan mededeling zal worden gedaan in de *Nederlandse Staatscourant* zal worden gezonden aan de Raad van Ministers, de Hoge Colleges van Staat, de Gevolmachtigde Ministers van Suriname en van de Nederlandse Antillen en de departementen van algemeen bestuur.  
+De aangelegenheden betreffende het beheer van Hoofdstuk I der Rijksbegroting onder te brengen bij het departement van Algemene Zaken. Afschrift van dit besluit dat in het *Staatsblad* zal worden geplaatst en waarvan mededeling zal worden gedaan in de *Nederlandse Staatscourant* zal worden gezonden aan de Raad van Ministers, de Hoge Colleges van Staat, de Gevolmachtigde Ministers van Suriname en van de Nederlandse Antillen en de departementen van algemeen bestuur. 
 
 Afschrift van dit besluit dat in het *Staatsblad* zal worden geplaatst en waarvan mededeling zal worden gedaan in de *Nederlandse Staatscourant* zal worden gezonden aan de Raad van Ministers, de Hoge Colleges van Staat, de Gevolmachtigde Ministers van Suriname en van de Nederlandse Antillen en de departementen van algemeen bestuur.   
 
