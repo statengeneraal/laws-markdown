@@ -11,38 +11,38 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet op de zorgtoeslag.   
+Wijzigt de Wet op de zorgtoeslag. 
 
 ### Artikel  II  
 
-Wijzigt de Zorgverzekeringswet.   
+Wijzigt de Zorgverzekeringswet. 
 
 ### Artikel  III  
 
-Wijzigt de Wijzigingswet Zorgverzekeringswet, enz. (verzwaren incassoregime premie en andere maatregelen zorgverzekering).   
+Wijzigt de Wijzigingswet Zorgverzekeringswet, enz. (verzwaren incassoregime premie en andere maatregelen zorgverzekering). 
 
 ### Artikel  IIIa  
 
-Wijzigt de Wet tegemoetkoming chronisch zieken en gehandicapten.   
+Wijzigt de Wet tegemoetkoming chronisch zieken en gehandicapten. 
 
 ### Artikel  IIIb  
 
-Wijzigt de Wet ambulancezorg.   
+Wijzigt de Wet ambulancezorg. 
 
 ### Artikel  IIIc  
 
-Wijzigt de Ambtenarenwet.   
+Wijzigt de Ambtenarenwet. 
 
 ### Artikel  IIId  
 
-In afwijking van de [artikelen 22](../../../../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) juncto [32 van de Wet toelating zorginstellingen](../../../../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) zijn op de rechtspositie van het personeel van het College bouw zorginstellingen en het College sanering zorginstellingen de regels die gelden voor ambtenaren die zijn aangesteld bij ministeries, niet van toepassing tot 1 januari 2013.  
+In afwijking van de [artikelen 22](../../../../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) juncto [32 van de Wet toelating zorginstellingen](../../../../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) zijn op de rechtspositie van het personeel van het College bouw zorginstellingen en het College sanering zorginstellingen de regels die gelden voor ambtenaren die zijn aangesteld bij ministeries, niet van toepassing tot 1 januari 2013. 
 
 ### Artikel  IV  
 
 1.  Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.   
-2.  Artikel II werkt terug tot en met 1 januari 2009.   
+2.  Artikel II werkt terug tot en met 1 januari 2009.  
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 29 oktober 2009  
@@ -53,5 +53,5 @@ A. Klink
 
 de *zesentwintigste* november 2009 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    
