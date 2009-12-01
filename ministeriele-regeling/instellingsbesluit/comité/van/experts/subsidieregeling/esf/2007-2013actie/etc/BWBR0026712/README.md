@@ -12,19 +12,19 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *het comité:* het Comité van experts Subsidieregeling ESF 2007-2013/Actie A als bedoeld in [artikel 5 van de Subsidieregeling ESF 2007–2013 (herzien)](../../../../../../../../../../ministeriele-regeling/subsidieregeling/esf/2007–2013/(herzien)/BWBR0026313/README.md);  
+a.  *het comité:* het Comité van experts Subsidieregeling ESF 2007-2013/Actie A als bedoeld in [artikel 5 van de Subsidieregeling ESF 2007–2013 (herzien)](../../../../../../../../../../ministeriele-regeling/subsidieregeling/esf/2007–2013/(herzien)/BWBR0026313/README.md);  
 
-b. *de Subsidieregeling:* de [subsidieregeling ESF 2007–2013 (herzien)](../../../../../../../../../../ministeriele-regeling/subsidieregeling/esf/2007–2013/(herzien)/BWBR0026313/README.md);  
+b.  *de Subsidieregeling:* de [subsidieregeling ESF 2007–2013 (herzien)](../../../../../../../../../../ministeriele-regeling/subsidieregeling/esf/2007–2013/(herzien)/BWBR0026313/README.md);  
 
-c. *de minister:* de Minister van Sociale Zaken en Werkgelegenheid;  
+c.  *de minister:* de Minister van Sociale Zaken en Werkgelegenheid;  
 
-d. *het ministerie:* het Ministerie van Sociale Zaken en Werkgelegenheid.    
+d.  *het ministerie:* het Ministerie van Sociale Zaken en Werkgelegenheid.   
 
 ### Artikel  2  
 
 ####Instelling
 
-Er is een Comité van experts Subsidieregeling ESF 2007–2013/Actie A.  
+Er is een Comité van experts Subsidieregeling ESF 2007–2013/Actie A. 
 
 ### Artikel  3  
 
@@ -36,7 +36,7 @@ b. Het comité heeft tot taak de projecten op basis van deze beoordeling, alsmed
 
 c. Het comité adviseert de minister uiterlijk vier weken na het einde van het aanvraagtijdvak als bedoeld in [artikel A2 van de Subsidieregeling](../../../../../../../../../../ministeriele-regeling/subsidieregeling/esf/2007–2013/(herzien)/BWBR0026313/README.md) en licht het advies desgevraagd nader toe.  
 
-d. Het comité staat de minister desgevraagd bij in kwesties die verband houden met de toekenning van subsidie voor projecten als bedoeld onder a.    
+d. Het comité staat de minister desgevraagd bij in kwesties die verband houden met de toekenning van subsidie voor projecten als bedoeld onder a.   
 
 ### Artikel  4  
 
@@ -46,7 +46,7 @@ a. Het comité bestaat uit een voorzitter, tevens lid, en de overige leden.
 
 b. De minister benoemt en ontslaat de leden van het comité.  
 
-c. De voorzitter en de leden zijn onafhankelijk en tekenen voor aanvang van de werkzaamheden een verklaring van onafhankelijkheid.    
+c. De voorzitter en de leden zijn onafhankelijk en tekenen voor aanvang van de werkzaamheden een verklaring van onafhankelijkheid.   
 
 ### Artikel  5  
 
@@ -54,7 +54,7 @@ c. De voorzitter en de leden zijn onafhankelijk en tekenen voor aanvang van de w
 
 a. Aan de voorzitter en de overige leden kan ten laste van het ministerie een vergoeding worden toegekend.  
 
-b. Op de aan de voorzitter en de overige leden toe te kennen vergoeding is de [Wet vergoedingen adviescolleges en commissies](../../../../../../../../../../wet/wet/vergoedingen/adviescolleges/en/commissies/BWBR0024775/README.md) van toepassing.    
+b. Op de aan de voorzitter en de overige leden toe te kennen vergoeding is de [Wet vergoedingen adviescolleges en commissies](../../../../../../../../../../wet/wet/vergoedingen/adviescolleges/en/commissies/BWBR0024775/README.md) van toepassing.   
 
 ### Artikel  6  
 
@@ -64,7 +64,7 @@ a. Het comité wordt bijgestaan door een secretariaat.
 
 b. In de personele bezetting van het secretariaat wordt voorzien door de minister.  
 
-c. Het secretariaat is uitsluitend verantwoording schuldig aan het comité.    
+c. Het secretariaat is uitsluitend verantwoording schuldig aan het comité.   
 
 ### Artikel  7  
 
@@ -72,24 +72,24 @@ c. Het secretariaat is uitsluitend verantwoording schuldig aan het comité.
 
 a. Het beheer van de bescheiden van het comité geschiedt op overeenkomstige wijze als bij het ministerie.  
 
-b. De bescheiden van het comité worden na beëindiging van de werkzaamheden van het comité in het archief van het ministerie opgenomen.    
+b. De bescheiden van het comité worden na beëindiging van de werkzaamheden van het comité in het archief van het ministerie opgenomen.   
 
 ### Artikel  8  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot 1 november 2009.  
+Dit besluit treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot 1 november 2009. 
 
 ### Artikel  9  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Comité van experts Subsidieregeling ESF 2007-2013/Actie A.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Comité van experts Subsidieregeling ESF 2007-2013/Actie A. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 20 november 2009   
 
 De 
-Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
-J.Klijnsma   
+Staatssecretaris van Sociale Zaken en Werkgelegenheid,
+J. Klijnsma     
