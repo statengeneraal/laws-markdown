@@ -11,35 +11,35 @@ De directeur-generaal Belastingdienst heeft namens de staatssecretaris van Finan
 – Besluit van 29 februari 2000, nr. DB99/3768M (vervanging vutregeling door prepensioenregeling)  
 
 – Besluit van 31 maart 2000, nr. DB2000/972M (voortgezette pensioenopbouw tijdens prepensioenperiode)     
-### 1  
+### 1 
 
 ####VUT-regelingen
 
-### 1.1  
+### 1.1 
 
 ####Algemeen
 
 In dit besluit geef ik richtlijnen voor de waardering van VUT-verplichtingen in eigen beheer. De Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling (Stb. 2005/115; hierna: Wet VPL) beperkt vanaf 1 januari 2006 de fiscale faciliteit in de sfeer van de loonbelasting tot VUT-regelingen voor werknemers die op 1 januari 2005 de leeftijd van 55 jaar hebben bereikt. Zie artikel 38c van de Wet op de loonbelasting 1964 (hierna: Wet LB). Hierdoor zal het aantal werknemers voor wie een VUT-regeling geldt aanzienlijk afnemen. Desondanks acht ik het wenselijk mijn opvattingen met betrekking tot de waardering van VUT-verplichtingen weer te geven.    
-### 1.2  
+### 1.2 
 
 ####VUT-regelingen ondergebracht bij VUT fondsen
 
 a. Bedrijfstak VUT-fondsen Een groot aantal VUT-regelingen wordt uitgevoerd door een zgn. VUT-fonds, zijnde een stichting (of een andere rechtspersoon) waaraan door de gezamenlijke werkgevers en werknemers uit de desbetreffende bedrijfstak de uitvoering van de VUT-regeling is opgedragen. Het fonds draagt zorg voor de uit de regeling voortvloeiende uitkeringen, en vraagt van de aangesloten onderneming(en) jaarlijks een bijdrage, meestal uitgedrukt in een percentage van de loonsom (een zogenaamde loonsompremie). In sommige gevallen verhaalt de werkgever een deel van deze premie op de werknemers. In deze gevallen vindt de financiering van de VUT-regeling op omslagbasis plaats en rust op de individuele ondernemer geen andere verplichting dan die van een jaarlijkse premiebetaling. Daarom is er naar mijn oordeel geen aanleiding om in de fiscale vermogensopstelling van de onderneming ter zake van ingegane of niet-ingegane VUT-uitkeringen enigerlei voorziening tot uitdrukking te brengen. De fiscale winstbepaling dient immers aan te sluiten bij de werkelijkheid dat de kosten van de VUT-regeling door de jaarlijkse premiebetaling al worden toegerekend aan de jaren waarop de kosten betrekking hebben.  
 
 b. Ondernemings VUT-fondsen Behalve aan collectieve fondsen, als bedoeld in paragraaf 1.2.a., kan de uitvoering van de VUT-regeling ook zijn opgedragen aan een aan de onderneming gelieerd fonds. Voorzover de verplichtingen, die naar verwachting in de toekomst zullen gaan ontstaan ter zake van in het betrokken belastingjaar nog niet ingegane VUT-uitkeringen, de onderneming zelf blijven aangaan, kan voor dat deel een voorziening of een kostenegalisatiereserve worden gevormd. Daarbij dient rekening te worden gehouden met de vrije reserves van het fonds.      
-### 1.3  
+### 1.3 
 
 ####VUT-regelingen in eigen beheer
 
 a. Ingegane uitkeringen Een aantal VUT-regelingen is niet op de hiervoor onder 1.2. aangeduide wijze bij een VUT-fonds ondergebracht maar wordt door de desbetreffende ondernemingen in eigen beheer gehouden. Op de ondernemer rust de verplichting om aan ex-werknemers, die van de regeling gebruik maken, de VUT-uitkering te betalen. In de fiscale vermogensopstelling wordt in dit geval de contante waarde van de nog te verrichten uitkeringen als verplichting opgenomen.  
 
 b. Nog niet ingegane uitkeringen Belastingplichtigen die een VUT-regeling in eigen beheer uitvoeren, kunnen de kosten van de toekomstige uitgaven toerekenen aan de jaren waarin arbeid wordt verricht. Dit kan door per werknemer een voorziening of een kostenegalisatiereserve te vormen. Er kan slechts een voorziening of reserve worden gevormd voor zover in het betrokken belastingjaar een VUT-regeling bestaat. Daarnaast dient voor een voorziening sprake te zijn van een redelijke mate van zekerheid dat de VUT-uitkeringen zullen moeten worden gedaan. Voor een kostenegalisatiereserve dient de stellige verwachting te bestaan dat de huidige regeling in latere jaren zal worden voortgezet. De periode waarin de hierboven genoemde redelijke mate van zekerheid of de stellige verwachting bestaat, kan in het algemeen worden gesteld op maximaal 15 jaar. Is voor een werknemer de termijn tussen indiensttreding en ingangsdatum van de VUT-uitkeringen korter dan 15 jaar, dan is die kortere termijn van toepassing.   Ik merk op dat door de inwerkingtreding van de Wet VPL en de daarmee gepaard gaande aanpassingen van VUT-regelingen een stellige verwachting vanaf 1 januari 2006 nog slechts zal bestaan ten aanzien van werknemers die op 1 januari 2005 de leeftijd van 55 jaar hebben bereikt. Ingeval een werknemer, voor wie een voorziening of kostenegalisatiereserve is gevormd, de VUT-gerechtigde leeftijd bereikt dient de gevormde voorziening of reserve aan de winst te worden toegevoegd en kan de contante waarde van de toekomstige VUT-uitkeringen bij de winstberekening in aanmerking worden genomen. Een vrijval zal zich niet voordoen indien de VUT-regeling is aangepast aan de in artikel 38c, tweede lid, Wet LB opgenomen voorwaarde dat bij uitstel van de ingangsdatum van de uitkeringen deze actuarieel worden herrekend. Eventuele werknemersbijdragen in de financiering van de VUT-regeling dienen tot de winst gerekend te worden in het jaar van inhouding.    
-### 1.4  
+### 1.4 
 
 ####Vorming van een voorziening of kostenegalisatiereserve bij in eigen beheer gehouden VUT-regelingen
 
 Bij de vorming van een voorziening of egalisatiereserve dient rekening te worden gehouden met de blijfkans en deelnamekans, zoals deze kansen gelden voor de leeftijdsgroep waartoe de betrokken werknemer behoort, alsmede met de sterftekans en met een rentefactor op basis van de rentevoet voor langlopende leningen. Hierbij dient de zogenaamde marktrente als bedoeld in het jaarlijks verschijnende marktrentebesluit als rentefactor in acht te worden genomen. De laatste versie daarvan is het besluit van 5 april 2005, nr. CPP2005/356M. Op basis van artikel 3.29 van de Wet IB 2001 moet daarbij worden uitgegaan van een rentevoet van tenminste 4%. De hiervoor genoemde kansen, rentefactoren en uitgangspunten maken tezamen de berekening van de elk jaar vast te stellen dotatie aan en de omvang van de voorziening of egalisatiereserve tamelijk complex. Teneinde de berekening zoveel mogelijk te vereenvoudigen en een zoveel mogelijk gelijke behandeling tot stand te brengen, keur ik goed dat (desgewenst) de berekening van de omvang van de te vormen voorziening of egalisatiereserve en van VUT-verplichtingen kan plaatsvinden overeenkomstig de hiernavolgende uitgangspunten.    
-### 1.5  
+### 1.5 
 
 ####Blijfkans, deelnamekans en reservering volgens het pseudokoopsomsysteem
 
@@ -58,7 +58,7 @@ e. Tabellen De reserveomvang voor een VUT-regeling wordt bepaald per werknemer e
 – overlevingstafel GBM 1990–1995  
 
 – leeftijdscorrectie –2 jaar   Hierbij merk ik op dat ik geen aanleiding zie om de contante waardefactoren te baseren op een hogere leeftijdsterugstelling dan twee jaar omdat bij kortlopende periodieke uitkeringen geen sprake is van een langlevenrisico. Bij de hierboven genoemde CW-tabellen is ervan uitgegaan, dat de VUT-uitkering tot het bereiken van de 65-jarige leeftijd verstrekt zal worden. In de verticale kolommen is het verloop van de contante waardefactoren weergegeven; boven iedere kolom is de burgerlijke leeftijd bij de aanvang van de reservering vermeld. De jaarlijkse dotatie (inclusief rentebijschrijving) is bij toepassing van deze reserveringsmethode te stellen op het verschil tussen de reserveomvang per het eind en die per het begin van het (boek)jaar. De reserveomvang is steeds berekend per het tijdstip waarop de betrokken werknemer juist de (in de eerste verticale kolom) vermelde leeftijd heeft bereikt. Ingeval andere dan de standaard blijf- en deelnamekansen als bedoeld in 1.5.a en 1.5.b. van toepassing zijn, kan de reserveomvang worden bepaald door de factoren uit de CW-tabellen te vermenigvuldigen met de in casu geldende blijf- en deelnamekans. Er is uit oogpunt van eenvoud afgezien van het publiceren van aparte CW-tabellen voor vrouwelijke werknemers. Indien de belastingplichtige in zijn berekeningen wenst uit te gaan van de sterftetafels voor vrouwen, kan dit worden toegestaan. Hierbij mag eveneens een leeftijdsterugstelling van 2 jaar worden toegepast.    
-### 1.6  
+### 1.6 
 
 ####Praktische toepassing van het reserveringssysteem
 
@@ -71,12 +71,12 @@ b. Verlaging VUT-leeftijd Bij een tijdens de reserveringsperiode opgetreden verl
 c. Rekenrente Zoals is opgemerkt moet bij het berekenen van de reserve uitgegaan worden van de marktrente per balansdatum. Hierbij moet op grond van artikel 3.29 van de Wet IB 2001 4% als minimum worden aangehouden. Indien een hoger rentepercentage in aanmerking moet worden genomen dan het in de CW-tabellen verwerkte percentage van 4 kunnen, alleen voor het gebruik van deze tabellen, de hierin vermelde factoren worden vermenigvuldigd met een herrekenfactor. Deze herrekenfactoren bedragen: bij een rentevoet van 5%: 0,95 bij een rentevoet van 6%: 0,90 bij een rentevoet van 7%: 0,85 Indien de marktrente volgens het jaarlijkse marktrentebesluit op één cijfer achter de komma eindigt, kan de herrekenfactor door middel van lineaire interpolatie worden berekend. Bij een rente van bijvoorbeeld 4,1% bedraagt de herrekenfactor 0,995, bij een rente van 4,2% bedraagt deze factor 0,99 etc.  
 
 d. Leeftijd werknemer Bij de berekening van de reserveomvang per de balansdatum kan gerekend worden met de factor (in de verticale kolom van de tabel) die hoort bij de leeftijd welke de desbetreffende werknemer bereikt zal hebben op het tijdstip, dat is gelegen een half (boek)jaar na de balansdatum. (Zie Voorbeeld 4).      
-### 1.7  
+### 1.7 
 
 ####Andere reserveringsmethoden
 
 Bij toepassing van een andere rekenwijze dan het in onderdeel 1.5.d. genoemde pseudo-koopsomsysteem, kunnen desgewenst de standaard blijfkansen toepassing vinden. Bij toepassing van een andere methode dan de pseudo-koopsommethode dienen de sterftekansen en de blijfkansen op actuarieel-technisch verantwoorde wijze in de berekening te zijn verwerkt.    
-### 1.8  
+### 1.8 
 
 ####Factoren voor ingegane VUT-uitkeringen
 
@@ -91,17 +91,17 @@ Voor berekening van de contante waarde van ingegane VUT-uitkeringen kunnen, indi
 | 64-jarige leeftijd  | 974  | 970  | 965  | 961  | 957  |
 
 Als de VUT-regeling is aangepast aan de Wet VPL en op grond van artikel 38c Wet LB sprake is van een actuariële oprenting bij uitstel van de VUT-ingangsdatum, dient op balansdatum uitgegaan te worden van de na actuariële oprenting verhoogde uitkering.     
-### 2  
+### 2 
 
 ####Voortgezette pensioenopbouw tijdens prepensioenperiode
 
 Tijdens een periode waarin de werknemer prepensioen geniet, kunnen pensioengevende dienstjaren worden opgebouwd (artikel 10a, eerste lid, onderdeel e, Uitvoeringsbesluit loonbelasting 1965). Door de Wet VPL is de mogelijkheid van een fiscaal gefacilieerd prepensioen beperkt tot werknemers die op 1 januari 2005 de leeftijd van 55 jaar hebben bereikt. Daarmee is ook de voortgezette pensioenopbouw tot deze groep beperkt. Ingevolge artikel 38d Wet LB worden als aanvullende voorwaarden gesteld dat bij uitstel van de ingangsdatum de prepensioenuitkeringen met inachtneming van algemeen aanvaarde actuariële grondslagen worden herrekend en dat de prepensioenregeling de mogelijkheid van deeltijdpensioen biedt. Het is gebruikelijk dat de werknemer ontslag neemt als het prepensioen feitelijk ingaat. Omdat op dat moment de dienstbetrekking wordt beëindigd, eisen pensioenfondsen vaak dat de voortgezette pensioenopbouw eenmalig op de ontslagdatum wordt gefinancierd. De werkgever dient de voortgezette pensioenopbouw slechts te financieren indien de werknemer daadwerkelijk met prepensioen gaat. Als de werknemer in dienst blijft, wordt tijdens het voortgezette dienstverband op reguliere wijze pensioen opgebouwd. Het is toegestaan dat de werkgever voorafgaande aan de prepensioendatum voor de verwachte koopsom met betrekking tot de voortgezette pensioenopbouw een voorziening vormt. Om een voorziening te kunnen vormen moet er op balansdatum een redelijke mate van zekerheid zijn dat de werknemer aansluitend aan zijn huidige dienstbetrekking met prepensioen gaat. De opbouw van een voorziening voor de voortgezette pensioenopbouw vertoont gelijkenis met de waardering van een VUT-voorziening. Evenals bij een VUT-voorziening dient daarbij rekening te worden gehouden met de overlevings-, blijf- en deelnamekansen. Deze onzekere factoren bepalen of de onderneming daadwerkelijk de koopsommen voor de voortgezette opbouw zal moeten betalen. Voor de bepaling van de blijfkansen kan worden aangesloten bij de regels zoals die voor de VUT zijn ontwikkeld. In afwijking van onderdeel 1.5.b. van dit besluit speelt de deelnamekans wel een rol. De koopsom is immers alleen verschuldigd als de werknemer daadwerkelijk met prepensioen gaat. De deelnamekans kan zonder nadere toelichting op 80% worden gesteld. Evenals bij een VUT-regeling kan voor de opbouwperiode van de voorziening worden uitgegaan van een periode van maximaal 15 jaar. Buiten die periode is geen sprake van een redelijke mate van zekerheid.    
-### 3  
+### 3 
 
 ####Bijlagen
 
 Bijlage A: Standaard blijfkansen Bijlage B: 4 voorbeelden Bijlage C: tabellen met reservefactoren volgens de pseudo-koopsommethode bij een rentevoet van 4% (CW 60 tot en met CW 63).    
-### 4  
+### 4 
 
 ####Inwerkingtreding en vervallen besluiten
 
@@ -115,7 +115,7 @@ Dit besluit treedt in werking met ingang van de dagtekening van besluit. Met ing
 
 – Besluit van 31 maart 2000, nr. DB2000/972M      
 
-### Bijlage  A  
+### Bijlage A 
 
 ####(paragraaf 1.5.a.)
 
@@ -143,7 +143,7 @@ Standaardblijfkansen (in %)
 | --- | 62  | --- | --- | 100  | 94  |
 | --- | 63  | --- | --- | --- | 100  |
 
-### Bijlage  B  
+### Bijlage B  
 
 In de voorbeelden wordt uitgegaan van de volgende gegevens, tenzij anders vermeld:  
 
@@ -168,7 +168,7 @@ Thans kan men aannemelijk maken dat voor een 58-jarige man een blijfkans geldt v
 
 Per de balansdatum (31 december) is de betrokken werknemer 56 jaar; hij wordt op 18 juni van het volgende jaar 57. Per de balansdatum mag (bij toepassing van tabel CW 62, eerste kolom reservebedragen) de factor, vermeld bij 57 jaar, worden toegepast: deze bedraagt 1,454. 
 
-### Bijlage  C  
+### Bijlage  C 
 
 ####CW 60
 

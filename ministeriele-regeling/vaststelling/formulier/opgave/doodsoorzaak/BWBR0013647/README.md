@@ -4,7 +4,7 @@
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
 Gelet op [artikel 12a, derde lid, van de Wet op de lijkbezorging](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -16,16 +16,16 @@ De enveloppe bevattende het in artikel 1 bedoelde formulier wordt door de ambten
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van 1 oktober 2002.  
+Deze regeling treedt in werking met ingang van 1 oktober 2002. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-E.Borst-Eilers   
+E. Borst-Eilers     
 
-### Bijlage  
+###Bijlage 
 
-![36516](http://wetten.overheid.nl/Illustration/36516)
-![36516](http://wetten.overheid.nl/Illustration/36516)
+![36514](http://wetten.overheid.nl/Illustration/36514)
+![36515](http://wetten.overheid.nl/Illustration/36515)
 ![36516](http://wetten.overheid.nl/Illustration/36516)
 
