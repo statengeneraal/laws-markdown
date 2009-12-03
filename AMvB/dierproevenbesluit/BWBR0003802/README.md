@@ -17,20 +17,20 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  
 
 a. "wet": [Wet op de dierproeven](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md);  
 
-b. "vergunninghouder": houder van een vergunning tot het verrichten van dierproeven als bedoeld in [artikel 2 van de wet](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md), alsmede, voor de toepassing van de artikelen 8 en 10, eerste en zesde lid, van dit besluit, de houder van een vergunning tot het fokken of afleveren van dieren als bedoeld in artikel 11 *a* van de wet.    
+b. "vergunninghouder": houder van een vergunning tot het verrichten van dierproeven als bedoeld in [artikel 2 van de wet](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md), alsmede, voor de toepassing van de artikelen 8 en 10, eerste en zesde lid, van dit besluit, de houder van een vergunning tot het fokken of afleveren van dieren als bedoeld in artikel 11*a* van de wet.   
 
 ### Artikel  2  
 
 1.  De wijze van uitvoering van een dierproef dient te zijn bepaald door een persoon die in een lidstaat van de Europese Unie of van de Europese Economische Ruimte een doctoraal examen met goed gevolg heeft afgelegd in een biologische, biomedische of zoötechnische studierichting met ten minste 500 studiebelastingsuren (sbu's) biologische basisvakken. Hiervan dienen de vakken anatomie/zoölogie en dierfysiologie ieder ten minste 200 sbu's te omvatten.   
-2.  De in het eerste lid bedoelde persoon dient bovendien een door Onze Minister aan te wijzen cursus proefdierkunde te hebben gevolgd en met goed gevolg te hebben afgesloten.   
+2.   De in het eerste lid bedoelde persoon dient bovendien een door Onze Minister aan te wijzen cursus proefdierkunde te hebben gevolgd en met goed gevolg te hebben afgesloten.  
 
 ### Artikel  2a  
 
-Het onderzoeksplan, bedoeld in artikel 10 *a*, tweede lid, van de wet, vermeldt in ieder geval: 
+Het onderzoeksplan, bedoeld in artikel 10*a*, tweede lid, van de wet, vermeldt in ieder geval: 
 
 – de vraagstelling van het onderzoek;  
 
@@ -60,16 +60,16 @@ of een dier eerder is gebruikt in verband met artikel 13, derde lid, van de wet;
 
 – of en, zo ja, op welk moment besloten zal worden over te gaan tot verantwoord doden van betrokken proefdieren, alsmede de methode welke wordt toegepast;  
 
-– de uiteindelijke bestemming van het dier na de proef.    
+– de uiteindelijke bestemming van het dier na de proef.   
 
 ### Artikel  3  
 
-Dieren die voor proeven worden gebruikt, dienen te worden verzorgd en behandeld door personen als bedoeld in artikel 2, of door anderen die over een door Onze Minister erkend diploma beschikken dan wel aan door hem te stellen eisen van bekwaamheid voldoen. Onze Minister kan werkzaamheden aanwijzen, waarvan het verrichten is voorbehouden aan een of meer categorieën van de in dit artikel bedoelde personen.  
+Dieren die voor proeven worden gebruikt, dienen te worden verzorgd en behandeld door personen als bedoeld in artikel 2, of door anderen die over een door Onze Minister erkend diploma beschikken dan wel aan door hem te stellen eisen van bekwaamheid voldoen. Onze Minister kan werkzaamheden aanwijzen, waarvan het verrichten is voorbehouden aan een of meer categorieën van de in dit artikel bedoelde personen. 
 
 ### Artikel  4  
 
 1.  Tenzij zulks de proef zou verijdelen dienen de voeding, de huisvesting en de overige verzorging en behandeling van de proefdieren op zodanige wijze en onder zodanige omstandigheden te geschieden dat zoveel mogelijk wordt voldaan aan hun fysiologische en ethologische behoeften.   
-2.  Onze Minister kan nadere regelen stellen met betrekking tot het in het eerste lid bepaalde.   
+2.   Onze Minister kan nadere regelen stellen met betrekking tot het in het eerste lid bepaalde.  
 
 ### Artikel  4a  
 
@@ -77,7 +77,7 @@ Als handelingen waarbij in alle gevallen verdoving moet plaatsvinden, worden aan
 
 ### Artikel  5  
 
-Aan de in [artikel 14 van de wet](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) bedoelde verplichting kan slechts worden voldaan door het houden van toezicht op het welzijn van de proefdieren op te dragen aan een persoon die in een lidstaat van de Europese Unie of van de Europese Economische Ruimte met goed gevolg het doctoraal examen heeft afgelegd in één van de volgende studierichtingen: 
+Aan de in [artikel 14 van de wet](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) bedoelde verplichting kan slechts worden voldaan door het houden van toezicht op het welzijn van de proefdieren op te dragen aan een persoon die in een lidstaat van de Europese Unie of van de Europese Economische Ruimte met goed gevolg het doctoraal examen heeft afgelegd in één van de volgende studierichtingen:  
 
 1. diergeneeskunde;  
 
@@ -85,33 +85,33 @@ Aan de in [artikel 14 van de wet](../../../wet/wet/op/de/dierproeven/BWBR0003081
 
 3. biologie, afstudeerrichting medische biologie;  
 
-4. biologie, afstudeerrichting zoölogie, waarbij pathofysiologie onderdeel van het onderwijsprogramma uitmaakt.   De in de vorige volzin bedoelde persoon dient bovendien een door Onze Minister aan te wijzen cursus welzijn van proefdieren te hebben gevolgd en met goed gevolg te hebben afgesloten.  
+4. biologie, afstudeerrichting zoölogie, waarbij pathofysiologie onderdeel van het onderwijsprogramma uitmaakt.   De in de vorige volzin bedoelde persoon dient bovendien een door Onze Minister aan te wijzen cursus welzijn van proefdieren te hebben gevolgd en met goed gevolg te hebben afgesloten. 
 
 ### Artikel  6  
 
-De in artikel 5 bedoelde opdracht omvat naast het houden van toezicht op de wijze van uitvoering van de dierproeven in ieder geval het houden van toezicht op de keuze en de verwerving van de proefdieren, waaronder begrepen de fokkerij, op hun verzorging en behandeling zowel voor en tijdens als na de proef, op de eventuele verdoving en euthanasie der dieren en voorts op de registratie van de proefdieren en de proeven.  
+De in artikel 5 bedoelde opdracht omvat naast het houden van toezicht op de wijze van uitvoering van de dierproeven in ieder geval het houden van toezicht op de keuze en de verwerving van de proefdieren, waaronder begrepen de fokkerij, op hun verzorging en behandeling zowel voor en tijdens als na de proef, op de eventuele verdoving en euthanasie der dieren en voorts op de registratie van de proefdieren en de proeven. 
 
 ### Artikel  7  
 
-De in artikel 5 bedoelde opdracht gaat gepaard met de verlening van de bevoegdheid aan degene die met het toezicht is belast om: 
+De in artikel 5 bedoelde opdracht gaat gepaard met de verlening van de bevoegdheid aan degene die met het toezicht is belast om:  
 
 a. van ieder voor wiens handelen of nalaten de opdrachtgever als zodanig verantwoordelijk is, alle inlichtingen te verlangen alsmede inzage te verlangen van alle bescheiden en daarvan afschrift te nemen;  
 
 b. te allen tijde alle plaatsen waarvoor de opdrachtgever als zodanig verantwoordelijk is, te betreden. Indien voor het betreden van een plaats in het belang van een proef voorschriften zijn gesteld, worden deze bij het betreden van die plaats in acht genomen;  
 
-c. dieren en goederen waarvoor de opdrachtgever als zodanig verantwoordelijk is, aan een onderzoek ter plaatse of elders te onderwerpen of te doen onderwerpen en van goederen monsters te nemen of te doen nemen, een en ander voor zover dit voor de vervulling van de in artikel 6 omschreven taak redelijkerwijs nodig is.    
+c. dieren en goederen waarvoor de opdrachtgever als zodanig verantwoordelijk is, aan een onderzoek ter plaatse of elders te onderwerpen of te doen onderwerpen en van goederen monsters te nemen of te doen nemen, een en ander voor zover dit voor de vervulling van de in artikel 6 omschreven taak redelijkerwijs nodig is.   
 
 ### Artikel  8  
 
-De vergunninghouder draagt zorg dat ieder voor wiens handelen of nalaten hij als zodanig verantwoordelijk is, aan de in artikel 5 bedoelde persoon alle ingevolge artikel 7 verlangde medewerking verleent alsmede dat de verstrekking van de ingevolge artikel 7, eerste lid, verlangde inlichtingen volledig en naar waarheid geschiedt.  
+De vergunninghouder draagt zorg dat ieder voor wiens handelen of nalaten hij als zodanig verantwoordelijk is, aan de in artikel 5 bedoelde persoon alle ingevolge artikel 7 verlangde medewerking verleent alsmede dat de verstrekking van de ingevolge artikel 7, eerste lid, verlangde inlichtingen volledig en naar waarheid geschiedt. 
 
 ### Artikel  9  
 
-De in artikel 5 bedoelde opdracht omvat de verplichting van degene die met het toezicht is belast ten minste eenmaal per jaar aan de opdrachtgever schriftelijk verslag uit te brengen van zijn in artikel 6 bedoelde werkzaamheden. De opdrachtgever zendt aan de op grond van [artikel 20 van de wet](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) aangewezen hoofdinspecteur een afschrift van dit verslag toe.  
+De in artikel 5 bedoelde opdracht omvat de verplichting van degene die met het toezicht is belast ten minste eenmaal per jaar aan de opdrachtgever schriftelijk verslag uit te brengen van zijn in artikel 6 bedoelde werkzaamheden. De opdrachtgever zendt aan de op grond van [artikel 20 van de wet](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) aangewezen hoofdinspecteur een afschrift van dit verslag toe. 
 
 ### Artikel  10  
 
-1.  De vergunninghouder is met betrekking tot de proefdieren waarover hij beschikt, verplicht aantekening te houden van: 
+1.  De vergunninghouder is met betrekking tot de proefdieren waarover hij beschikt, verplicht aantekening te houden van:  
 
 a. het aantal, de soort en de datum van verwerving van de dieren;  
 
@@ -120,10 +120,10 @@ b. de herkomst van de dieren;
 c. het gebruik dat van de dieren is gemaakt;  
 
 d. de reden en de datum van afvoer der dieren.     
-2.  De in het vorige lid bedoelde gegevens dienen te worden bewaard tot vijf jaren na afloop van het kalenderjaar waarop de gegevens betrekking hebben.   
-3.  Voorzover het een paard, een aap, een hond of een kat betreft dienen de in het eerste lid bedoelde gegevens voor ieder dier afzonderlijk te worden bijgehouden. Daartoe dienen deze dieren door het aanbrengen van merktekens of anderszins identificeerbaar te zijn.   
-4.  Onze Minister kan aanwijzingen geven over de wijze waarop het aanbrengen van merktekens dient te geschieden.   
-5.  De vergunninghouder is tevens verplicht per proef aantekening te houden van: 
+2.   De in het vorige lid bedoelde gegevens dienen te worden bewaard tot vijf jaren na afloop van het kalenderjaar waarop de gegevens betrekking hebben.   
+3.   Voorzover het een paard, een aap, een hond of een kat betreft dienen de in het eerste lid bedoelde gegevens voor ieder dier afzonderlijk te worden bijgehouden. Daartoe dienen deze dieren door het aanbrengen van merktekens of anderszins identificeerbaar te zijn.   
+4.   Onze Minister kan aanwijzingen geven over de wijze waarop het aanbrengen van merktekens dient te geschieden.   
+5.   De vergunninghouder is tevens verplicht per proef aantekening te houden van:  
 
 a. het doel waarvoor de proef wordt verricht;  
 
@@ -142,28 +142,28 @@ g. de bij de proef in het geding zijnde technieken, daaronder begrepen eventuele
 h. het in de proef aanwezige risico van ongerief voor de dieren;  
 
 i. de bestemming der dieren na afloop van de proef.     
-6.  Onze Minister stelt vast welke gegevens omtrent de proefdieren en de verrichte proeven de vergunninghouder hem dient te verstrekken; deze gegevens dienen jaarlijks over het voorafgaande kalenderjaar te worden verstrekt.   
-7.  Onze Minister kan nadere regelen stellen met betrekking tot het in het eerste, vijfde en zesde lid bepaalde.   
+6.   Onze Minister stelt vast welke gegevens omtrent de proefdieren en de verrichte proeven de vergunninghouder hem dient te verstrekken; deze gegevens dienen jaarlijks over het voorafgaande kalenderjaar te worden verstrekt.   
+7.   Onze Minister kan nadere regelen stellen met betrekking tot het in het eerste, vijfde en zesde lid bepaalde.  
 
 ### Artikel  11  
 
-Bij het indienen van een aanvrage om een vergunning, bedoeld in artikel 2 van de wet, is een bedrag van € 90,76 verschuldigd.  
+Bij het indienen van een aanvrage om een vergunning, bedoeld in artikel 2 van de wet, is een bedrag van € 90,76 verschuldigd. 
 
 ### Artikel  11a  
 
-Om in aanmerking te komen voor een vergunning tot het fokken of afleveren van proefdieren als bedoeld in [artikel 11 *a* van de wet](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md), dient de aanvrager aannemelijk te maken dat hij wat betreft de organisatie kan voldoen aan de artikelen 4, 7, 8, 9 en 10, alsmede, wat betreft het personeel, aan de artikelen 3, 5 en 6.  
+Om in aanmerking te komen voor een vergunning tot het fokken of afleveren van proefdieren als bedoeld in [artikel 11*a* van de wet](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md), dient de aanvrager aannemelijk te maken dat hij wat betreft de organisatie kan voldoen aan de artikelen 4, 7, 8, 9 en 10, alsmede, wat betreft het personeel, aan de artikelen 3, 5 en 6. 
 
 ### Artikel  12  
 
-Het in de artikelen 2, tweede lid, en 3 bepaalde geldt niet ten aanzien van degenen die op het tijdstip van afkondiging van dit besluit reeds zijn belast met de in die artikelen bedoelde werkzaamheden.  
+Het in de artikelen 2, tweede lid, en 3 bepaalde geldt niet ten aanzien van degenen die op het tijdstip van afkondiging van dit besluit reeds zijn belast met de in die artikelen bedoelde werkzaamheden. 
 
 ### Artikel  13  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld. 
 
 ### Artikel  14  
 
-Dit besluit kan worden aangehaald onder de titel "Dierproevenbesluit".  
+Dit besluit kan worden aangehaald onder de titel "Dierproevenbesluit". 
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.   
 
