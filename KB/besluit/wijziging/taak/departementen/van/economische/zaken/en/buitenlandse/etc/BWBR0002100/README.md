@@ -11,9 +11,9 @@ Overwegende, dat het wenselijk is over te gaan tot overdracht van de werkzaamhed
 Gelet op [artikel 79 van de Grondwet](../../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md);
 Hebben goedgevonden en verstaan:    
 
-### Enig  artikel  
+### Enig  artikel 
 
-De werkzaamheden van het Regeringscommissariaat voor het Economische en Militaire Hulpprogramma worden met ingang van 1 November 1952 overgedragen aan de zorg van het Hoofd van het Departement van Buitenlandse Zaken.  
+De werkzaamheden van het Regeringscommissariaat voor het Economische en Militaire Hulpprogramma worden met ingang van 1 November 1952 overgedragen aan de zorg van het Hoofd van het Departement van Buitenlandse Zaken. 
 
 Onze Ministers van Economische Zaken en van Buitenlandse Zaken zijn belast met de uitvoering van dit besluit, dat in het *Staatsblad* en de *Staatscourant* zal worden geplaatst.   
 

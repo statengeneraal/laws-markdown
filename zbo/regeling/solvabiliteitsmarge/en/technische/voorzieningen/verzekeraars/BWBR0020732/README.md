@@ -19,7 +19,7 @@ a. Besluit: [Besluit prudentiële regels Wft](../../../../../../../../AMvB/beslu
 
 b. DNB: de Nederlandsche Bank N.V.;  
 
-c. wet: [Wet op het financieel toezicht](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).    
+c. wet: [Wet op het financieel toezicht](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
 
 ### Hoofdstuk  2  
 
@@ -35,11 +35,11 @@ b. een in de balans opgenomen vordering uit hoofde van de bovengenoemde omslag w
 
 c. de verzekeraar voert een consistent financieel beleid waaruit tenminste zichtbaar wordt hoe premieopbrengsten, beleggingsopbrengsten, kosten en, indien van toepassing, schaden worden toegerekend aan jaren en groepen van verzekeringsnemers.     
 2.  Indien DNB twijfel heeft over de inbaarheid van een suppletiebijdrage die door een verzekeraar als bestanddeel van de aanwezige solvabiliteitsmarge wordt opgevoerd, kan zij van de verzekeraar verlangen dat hij aanvullende zekerheden van zijn leden bedingt en verkrijgt.   
-3.  DNB kan een op grond van het eerste lid verleende instemming intrekken, indien de gegevens die zijn verstrekt ter verkrijging van de instemming onjuist of onvolledig blijken en kennis over de juiste en volledige gegevens tot een andere beslissing zou hebben geleid, dan wel indien zich omstandigheden voordoen of feiten bekend worden op grond waarvan, zo zij voor het tijdstip waarop de instemming werd verleend zich hadden voorgedaan of bekend waren geweest, de instemming zou zijn geweigerd.   
+3.  DNB kan een op grond van het eerste lid verleende instemming intrekken, indien de gegevens die zijn verstrekt ter verkrijging van de instemming onjuist of onvolledig blijken en kennis over de juiste en volledige gegevens tot een andere beslissing zou hebben geleid, dan wel indien zich omstandigheden voordoen of feiten bekend worden op grond waarvan, zo zij voor het tijdstip waarop de instemming werd verleend zich hadden voorgedaan of bekend waren geweest, de instemming zou zijn geweigerd.  
 
 ### Artikel  2:2  
 
-Natura-uitvaartverzekeraars als bedoeld in [artikel 97, eerste lid, onderdeel b, van het Besluit](../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), die met inachtneming van dat onderdeel b, op de datum van inwerking treden van deze regeling suppletiebijdragen meetellen als bestanddeel van de aanwezige solvabiliteitsmarge hebben daarvoor instemming tot de dag na dagtekening van de schriftelijke beslissing van DNB op het verzoek, bedoeld in [artikel 97, eerste lid, aanhef, van het besluit](../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md).  
+Natura-uitvaartverzekeraars als bedoeld in [artikel 97, eerste lid, onderdeel b, van het Besluit](../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), die met inachtneming van dat onderdeel b, op de datum van inwerking treden van deze regeling suppletiebijdragen meetellen als bestanddeel van de aanwezige solvabiliteitsmarge hebben daarvoor instemming tot de dag na dagtekening van de schriftelijke beslissing van DNB op het verzoek, bedoeld in [artikel 97, eerste lid, aanhef, van het besluit](../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md). 
 
 ### Hoofdstuk  3  
 
@@ -59,7 +59,7 @@ a. voor overeenkomsten met winstdeling wordt voor de uitvoering van de toets exp
 
 b. in de toets wordt rekening gehouden met de toekomstige kosten voor bestaande verzekeringen;  
 
-c. de berekening van de toets geschiedt met inachtneming van adequate onzekerheidsmarges.     
+c. de berekening van de toets geschiedt met inachtneming van adequate onzekerheidsmarges.    
 
 ### Artikel  3:2  
 
@@ -70,12 +70,12 @@ c. de berekening van de toets geschiedt met inachtneming van adequate onzekerhei
 
 a. dat redelijkerwijs niet kan worden voldaan aan het eerste lid; en  
 
-b. dat de voorziening ten minste gelijk is aan de voorziening op basis van de rentetermijnstructuur, bedoeld in het eerste lid.     
+b. dat de voorziening ten minste gelijk is aan de voorziening op basis van de rentetermijnstructuur, bedoeld in het eerste lid.    
 
 ### Artikel  3:3  
 
 1.  De disconteringsvoet, bedoeld in [artikel 98, derde lid, van het Besluit](../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), bedraagt maximaal 3 procent voor zover de voorzieningen dienen ter dekking van verplichtingen uit hoofde van overeenkomsten van levensverzekering die vanaf 1 augustus 1999 zijn gesloten en maximaal 4 procent voor zover de voorzieningen dienen ter dekking van verplichtingen uit hoofde van overeenkomsten van levensverzekering die vóór 1 augustus 1999 zijn gesloten.   
-2.  In afwijking van het eerste lid bedraagt voor vanaf 1 augustus 1999 gesloten overeenkomsten van levensverzekering ter verzekering van door een werkgever aan zijn werknemers toegezegd pensioen of van aan een pensioenfonds in uitvoering gegeven toezeggingen omtrent pensioen, de in dat lid bedoelde disconteringsvoet maximaal 4 procent.   
+2.  In afwijking van het eerste lid bedraagt voor vanaf 1 augustus 1999 gesloten overeenkomsten van levensverzekering ter verzekering van door een werkgever aan zijn werknemers toegezegd pensioen of van aan een pensioenfonds in uitvoering gegeven toezeggingen omtrent pensioen, de in dat lid bedoelde disconteringsvoet maximaal 4 procent.  
 
 ### §  3.2  
 
@@ -83,15 +83,15 @@ b. dat de voorziening ten minste gelijk is aan de voorziening op basis van de re
 
 ### Artikel  3:4  
 
-Artikel 3:1, eerste, tweede en derde lid, onderdelen b en c is van overeenkomstige toepassing op schadeverzekeraars als bedoeld in [artikel 114, eerste lid, van het Besluit](../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md).  
+Artikel 3:1, eerste, tweede en derde lid, onderdelen b en c is van overeenkomstige toepassing op schadeverzekeraars als bedoeld in [artikel 114, eerste lid, van het Besluit](../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md). 
 
 ### Artikel  3:5  
 
-Artikel 3.2, eerste, tweede en vierde lid, is van overeenkomstige toepassing op schadeverzekeraars voor zover discontering is toegepast.  
+Artikel 3.2, eerste, tweede en vierde lid, is van overeenkomstige toepassing op schadeverzekeraars voor zover discontering is toegepast. 
 
 ### Artikel  3:6  
 
-De disconteringsvoet, bedoeld in [artikel 98, derde lid, van het Besluit](../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), bedraagt maximaal 3 procent voor zover de voorzieningen dienen ter dekking van verplichtingen uit hoofde van overeenkomsten inzake schadeverzekering die vanaf 1 maart 2000 zijn gesloten en maximaal 4 procent voor zover de voorzieningen dienen ter dekking van verplichtingen uit hoofde van overeenkomsten inzake schadeverzekering die vóór 1 maart 2000 zijn gesloten.  
+De disconteringsvoet, bedoeld in [artikel 98, derde lid, van het Besluit](../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), bedraagt maximaal 3 procent voor zover de voorzieningen dienen ter dekking van verplichtingen uit hoofde van overeenkomsten inzake schadeverzekering die vanaf 1 maart 2000 zijn gesloten en maximaal 4 procent voor zover de voorzieningen dienen ter dekking van verplichtingen uit hoofde van overeenkomsten inzake schadeverzekering die vóór 1 maart 2000 zijn gesloten. 
 
 ### §  3.3  
 
@@ -100,31 +100,31 @@ De disconteringsvoet, bedoeld in [artikel 98, derde lid, van het Besluit](../../
 ### Artikel  3:7  
 
 1.  Artikel 3:1 is van overeenkomstige toepassing voor natura-uitvaartverzekeraars als bedoeld in [artikel 114, eerste lid, van het Besluit](../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md).   
-2.  In aanvulling op het derde lid van artikel 3:1 hanteert een natura-uitvaartverzekeraar bij de berekening van de toets als rekenprincipe dat in de toets rekening wordt gehouden met de toekomstige ontwikkeling van de pakketwaarde van bestaande natura-uitvaartverzekeringen.   
+2.  In aanvulling op het derde lid van artikel 3:1 hanteert een natura-uitvaartverzekeraar bij de berekening van de toets als rekenprincipe dat in de toets rekening wordt gehouden met de toekomstige ontwikkeling van de pakketwaarde van bestaande natura-uitvaartverzekeringen.  
 
 ### Artikel  3:8  
 
-Artikel 3:2, eerste, tweede en vierde lid, is van overeenkomstige toepassing op natura-uitvaartverzekeraars.  
+Artikel 3:2, eerste, tweede en vierde lid, is van overeenkomstige toepassing op natura-uitvaartverzekeraars. 
 
 ### Artikel  3:9  
 
-De disconteringsvoet, bedoeld in [artikel 98, derde lid, van het Besluit](../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), bedraagt maximaal 3 procent voor zover de voorzieningen dienen ter dekking van verplichtingen uit hoofde van overeenkomsten inzake natura-uitvaartverzekering die vanaf 1 maart 2000 zijn gesloten en maximaal 4 procent voor zover de voorzieningen dienen ter dekking van verplichtingen uit hoofde van overeenkomsten inzake natura-uitvaartverzekering die vóór 1 maart 2000 zijn gesloten.  
+De disconteringsvoet, bedoeld in [artikel 98, derde lid, van het Besluit](../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), bedraagt maximaal 3 procent voor zover de voorzieningen dienen ter dekking van verplichtingen uit hoofde van overeenkomsten inzake natura-uitvaartverzekering die vanaf 1 maart 2000 zijn gesloten en maximaal 4 procent voor zover de voorzieningen dienen ter dekking van verplichtingen uit hoofde van overeenkomsten inzake natura-uitvaartverzekering die vóór 1 maart 2000 zijn gesloten. 
 
-### §  3.4  
+###§ 3.4 
 
 ####Toereikendheidstoets herverzekeraars
 
-### Artikel  3:10  
+### Artikel  3:10 
 
-De artikelen 3:1 tot en met 3:3 zijn van overeenkomstige toepassing op herverzekeraars die hun bedrijf uitoefenen in de activiteit levensherverzekering.  
+De artikelen 3:1 tot en met 3:3 zijn van overeenkomstige toepassing op herverzekeraars die hun bedrijf uitoefenen in de activiteit levensherverzekering. 
 
-### Artikel  3:11  
+### Artikel  3:11 
 
-De artikelen 3:4 tot en met 3:6 zijn van overeenkomstige toepassing op herverzekeraars die hun bedrijf uitoefenen in de activiteit schadeherverzekering.  
+De artikelen 3:4 tot en met 3:6 zijn van overeenkomstige toepassing op herverzekeraars die hun bedrijf uitoefenen in de activiteit schadeherverzekering. 
 
-### Artikel  3:12  
+### Artikel  3:12 
 
-De artikelen 3:7 en 3:8 zijn van overeenkomstige toepassing op herverzekeraars die hun bedrijf uitoefenen in de activiteit natura-uitvaartherverzekering.  
+De artikelen 3:7 en 3:8 zijn van overeenkomstige toepassing op herverzekeraars die hun bedrijf uitoefenen in de activiteit natura-uitvaartherverzekering. 
 
 ### Hoofdstuk  4  
 
@@ -137,7 +137,7 @@ De artikelen 3:7 en 3:8 zijn van overeenkomstige toepassing op herverzekeraars d
 a. onder de voorwaarde dat de rechten van deelneming in de beleggingsinstelling op verzoek van de deelnemers ten laste van de activa direct of indirect worden of kunnen worden ingekocht of terugbetaald, en  
 
 b. ingeval de rechten van deelneming in de beleggingsinstelling niet worden verhandeld op een gereglementeerde markt, de verzekeraar een schriftelijke overeenkomst heeft gesloten met de beleggingsinstelling, houdende inkoop of terugbetaling op de rechten van deelneming op verzoek van de verzekeraar, tegen in de overeenkomst overeengekomen voorwaarden en binnen een overeengekomen termijn.     
-2.  Indien de verzekeraar voor de toepassing van [artikel 124, onderdeel b, van het Besluit](../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) geen rekening houdt met de onderliggende activa in het bezit van de beleggingsinstelling, bedoeld in het eerste lid, of als de beleggingsinstelling, waarin de verzekeraar rechten van deelneming houdt, niet voldoet aan de voorwaarden, bedoeld in het eerste lid, is het maximum, bedoeld in [artikel 123, derde lid, van het Besluit](../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) van overeenkomstige toepassing op de verzekeraar gehouden deelneming in de beleggingsinstelling.   
+2.  Indien de verzekeraar voor de toepassing van [artikel 124, onderdeel b, van het Besluit](../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) geen rekening houdt met de onderliggende activa in het bezit van de beleggingsinstelling, bedoeld in het eerste lid, of als de beleggingsinstelling, waarin de verzekeraar rechten van deelneming houdt, niet voldoet aan de voorwaarden, bedoeld in het eerste lid, is het maximum, bedoeld in [artikel 123, derde lid, van het Besluit](../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) van overeenkomstige toepassing op de verzekeraar gehouden deelneming in de beleggingsinstelling.  
 
 ### Hoofdstuk  5  
 
@@ -145,17 +145,17 @@ b. ingeval de rechten van deelneming in de beleggingsinstelling niet worden verh
 
 ### Artikel  5:1  
 
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit](../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop het [Besluit](../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) in werking treedt. 
 
 ### Artikel  5:2  
 
-Deze regeling wordt aangehaald als: Regeling solvabiliteitsmarge en technische voorzieningen verzekeraars.  
+Deze regeling wordt aangehaald als: Regeling solvabiliteitsmarge en technische voorzieningen verzekeraars. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
-De Nederlandsche Bank N.V. 
+De Nederlandsche Bank N.V.  
 
 Directeur, 
-A.Schilder 
+A. Schilder   
 
 Directeur, 
-D.E.Witteveen   
+D.E. Witteveen     

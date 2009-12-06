@@ -16,22 +16,22 @@ Besluiten:
 
 In dit besluit wordt verstaan onder: 
 
-a. *Omroepprogramma:* een radioprogramma of televisieprogramma als bedoeld in [artikel 1.1 van de Mediawet 2008](../../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md);  
+a.  *Omroepprogramma:* een radioprogramma of televisieprogramma als bedoeld in [artikel 1.1 van de Mediawet 2008](../../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md);  
 
-b. *Financiële bijdrage:* een subsidie als bedoeld in [artikel 4:21 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of de verstrekking van financiële middelen dan wel de aanspraak daarop op grond van een privaatrechtelijke rechtshandeling.    
+b.  *Financiële bijdrage:* een subsidie als bedoeld in [artikel 4:21 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of de verstrekking van financiële middelen dan wel de aanspraak daarop op grond van een privaatrechtelijke rechtshandeling.   
 
 ### Artikel  2  
 
-De Minister van Buitenlandse Zaken, de Minister voor Ontwikkelingssamenwerking en de Staatssecretaris voor Europese Zaken verstrekken geen financiële bijdrage met het oog op de vervaardiging, verwerving of uitzending van omroepprogramma’s bestemd voor uitzending in Nederland of gericht op Nederlandstaligen in het buitenland.  
+De Minister van Buitenlandse Zaken, de Minister voor Ontwikkelingssamenwerking en de Staatssecretaris voor Europese Zaken verstrekken geen financiële bijdrage met het oog op de vervaardiging, verwerving of uitzending van omroepprogramma’s bestemd voor uitzending in Nederland of gericht op Nederlandstaligen in het buitenland. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Buitenlandse Zaken, de 
 Minister voor Ontwikkelingssamenwerking, de 
-Staatssecretaris voor Europese Zaken, namens dezen: de 
+Staatssecretaris voor Europese Zaken, namens dezen:de 
 Secretaris-Generaal van het Ministerie van Buitenlandse Zaken, 
-E.Kronenburg   
+E.  Kronenburg     

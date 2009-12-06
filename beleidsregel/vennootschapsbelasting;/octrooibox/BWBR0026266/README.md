@@ -31,4 +31,4 @@ Den Haag
 
 De 
 staatssecretaris van Financiën, 
-J.C. deJager   
+J.C. de Jager     

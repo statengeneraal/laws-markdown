@@ -9,9 +9,9 @@ Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, mede 
 Gelet op [artikel 86 van de Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md);
 Hebben goedgevonden en verstaan:    
 
-### Enig  artikel  
+### Enig  artikel 
 
-De zorg voor de zaken van de Afdeling Vaartuigen van het departement van Volkshuisvesting en Bouwnijverheid gaat met ingang van 1 juli 1964 over naar het departement van Verkeer en Waterstaat.  
+De zorg voor de zaken van de Afdeling Vaartuigen van het departement van Volkshuisvesting en Bouwnijverheid gaat met ingang van 1 juli 1964 over naar het departement van Verkeer en Waterstaat. 
 
 Onze Ministers van Volkshuisvesting en Bouwnijverheid en van Verkeer en Waterstaat zijn belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst waarvan mededeling zal worden gedaan in de *Nederlandse Staatscourant* en waarvan afschrift zal worden gezonden aan Onze Ministers, aan de Raad van State, aan de Algemene Rekenkamer, en aan de Kamers der Staten-Generaal.   
 

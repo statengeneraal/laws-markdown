@@ -251,7 +251,7 @@ Onder het begrip ‘krachtens erfrecht’ valt voor de toepassing van de eigenwo
 
 – door uitoefening van een wilsrecht als bedoeld in [artikel 4:19 BW](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md); of  
 
-– [artikel 4:28](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) of [4:29 BW](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) (het verzorgingsvruchtgebruik).   De gerechtigdheid moet betrekking hebben op de woning die behoorde tot het vermogen van de erflater. Een vruchtgebruik dat onderdeel was van de nalatenschap is niet ‘krachtens erfrecht *’ verkregen*. 
+– [artikel 4:28](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) of [4:29 BW](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) (het verzorgingsvruchtgebruik).   De gerechtigdheid moet betrekking hebben op de woning die behoorde tot het vermogen van de erflater. Een vruchtgebruik dat onderdeel was van de nalatenschap is niet ‘krachtens erfrecht*’ verkregen*. 
 ### *Voorbeeld 1* 
 
 De ouders hebben tijdens hun leven de woning overgedragen aan hun uitwonende kind. De eigenwoningregeling is daardoor niet van toepassing. De ouders bewonen hun woning op grond van een (gezamenlijke) opvolgend recht van vruchtgebruik. Nadat een van de ouders is overleden, blijft de langstlevende in de woning wonen. Het vruchtgebruik is in dit geval niet krachtens erfrecht verkregen, maar is door het overlijden bij opvolging overgegaan op de langstlevende. De eigenwoningregeling is hier niet van toepassing. 
@@ -412,5 +412,5 @@ Den Haag
 24 november 2009   
 
 De 
-Staatssecretaris van Financiën, 
-J.C. deJager   
+Staatssecretaris van Financiën,
+J.C. de Jager     
