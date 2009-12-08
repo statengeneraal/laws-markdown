@@ -61,7 +61,7 @@ Amsterdam
 8 maart 2007   
 
 Bestuurslid, 
-A.W.Kist 
+A.W. Kist   
 
 Bestuurslid, 
-P.M.Koster   
+P.M. Koster     

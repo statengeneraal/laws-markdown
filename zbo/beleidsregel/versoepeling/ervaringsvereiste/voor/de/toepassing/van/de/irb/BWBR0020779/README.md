@@ -18,11 +18,11 @@ b. IRB: de interne modellenmethode als bedoeld in [artikel 1 van het Besluit](..
 
 c. Regeling: de [Regeling solvabiliteitseisen voor het kredietrisico](../../../../../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/kredietrisico/BWBR0020764/README.md); en  
 
-d. wet: [Wet op het financieel toezicht](../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).    
+d. wet: [Wet op het financieel toezicht](../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
 
 ### Artikel  2  
 
-Deze beleidsregel is van toepassing op banken of beleggingsondernemingen die een aanvraag om toestemming als bedoeld in [artikel 69, eerste lid, van het Besluit](../../../../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) bij De Nederlandsche Bank indienen.  
+Deze beleidsregel is van toepassing op banken of beleggingsondernemingen die een aanvraag om toestemming als bedoeld in [artikel 69, eerste lid, van het Besluit](../../../../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) bij De Nederlandsche Bank indienen. 
 
 ### Artikel  3  
 
@@ -30,7 +30,7 @@ De in [artikel VI, eerste lid, van het Besluit implementatie kapitaalakkoord Baz
 
 a. ten behoeve van een financiële onderneming die een aanvraag heeft ingediend voor de implementatie van de Eenvoudige IRB, bedoeld in [artikel 1:1, onderdeel f, van de Regeling](../../../../../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/kredietrisico/BWBR0020764/README.md); en  
 
-b. indien deze financiële onderneming voor de interne meting en beheersing van de kredietrisico’s van de IRB–categorieën van vorderingen, genoemd in [artikel 71, eerste lid, van het Besluit](../../../../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) in dat jaar voor implementatie een ratingsysteem en schattingen van de risicoparameters heeft gebruikt die nagenoeg volledig in lijn zijn geweest met de vereisten van [afdeling 3.6 van de Regeling](../../../../../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/kredietrisico/BWBR0020764/README.md).    
+b. indien deze financiële onderneming voor de interne meting en beheersing van de kredietrisico’s van de IRB–categorieën van vorderingen, genoemd in [artikel 71, eerste lid, van het Besluit](../../../../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) in dat jaar voor implementatie een ratingsysteem en schattingen van de risicoparameters heeft gebruikt die nagenoeg volledig in lijn zijn geweest met de vereisten van [afdeling 3.6 van de Regeling](../../../../../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/kredietrisico/BWBR0020764/README.md).   
 
 ### Artikel  4  
 
@@ -42,21 +42,21 @@ b. indien deze financiële onderneming in die twee jaren voor de interne meting 
 
 c. indien de in onderdeel b bedoelde ramingen in het voorlaatste jaar voor implementatie in grote lijnen hebben voldaan aan de vereisten van [afdeling 3.6 van de Regeling](../../../../../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/kredietrisico/BWBR0020764/README.md); en  
 
-d. indien de in onderdeel b bedoelde ramingen in het laatste jaar voor implementatie nagenoeg volledig hebben voldaan aan de vereisten van [afdeling 3.6 van de Regeling](../../../../../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/kredietrisico/BWBR0020764/README.md).    
+d. indien de in onderdeel b bedoelde ramingen in het laatste jaar voor implementatie nagenoeg volledig hebben voldaan aan de vereisten van [afdeling 3.6 van de Regeling](../../../../../../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/kredietrisico/BWBR0020764/README.md).   
 
 ### Artikel  5  
 
-Deze beleidsregel treedt in werking met ingang van 1 januari 2007.  
+Deze beleidsregel treedt in werking met ingang van 1 januari 2007. 
 
 ### Artikel  6  
 
-Deze beleidsregel wordt aangehaald als: Beleidsregel versoepeling ervaringsvereiste voor de toepassing van de IRB.  
+Deze beleidsregel wordt aangehaald als: Beleidsregel versoepeling ervaringsvereiste voor de toepassing van de IRB. 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De Nederlandsche Bank N.V  
 
 Directeur, 
-A.Schilder 
+A. Schilder   
 
 Directeur, 
-D.E.Witteveen   
+D.E. Witteveen     
