@@ -8,23 +8,30 @@ Besluit:
 
 ####Begripsbepalingen en toepassingsgebied
 
+Materieel uitgewerkt per 08-09-2007 
+
 ### Artikel  1  
+Materieel uitgewerkt per 08-09-2007 
 
 In deze verordening wordt overgenomen de terminologie van het [Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) en wordt voorts verstaan onder: 
 
 1. voorzitter: de voorzitter van het Hoofdbedrijfschap voor de Agrarische Groothandel;  
 
-2. HBAG Commissie groenten en fruit: de op grond van [artikel 5 van het lnstellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) ingestelde commissie groenten en fruit.    
+2. HBAG Commissie groenten en fruit: de op grond van [artikel 5 van het lnstellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) ingestelde commissie groenten en fruit.   
 
 ### Artikel  2  
+Materieel uitgewerkt per 08-09-2007 
 
-Deze verordening is van toepassing op de ondernemer die een onderneming drijft waarin de groothandel, het bedrijf van commissionair, het bedrijf van tussenpersoon of het bedrijf van handelskweker in groenten en fruit, wordt uitgeoefend en waarvoor de HBAG Commissie groenten en fruit is ingesteld.  
+Deze verordening is van toepassing op de ondernemer die een onderneming drijft waarin de groothandel, het bedrijf van commissionair, het bedrijf van tussenpersoon of het bedrijf van handelskweker in groenten en fruit, wordt uitgeoefend en waarvoor de HBAG Commissie groenten en fruit is ingesteld. 
 
 ### §  2  
 
 ####De heffing
 
+Materieel uitgewerkt per 08-09-2007 
+
 ### Artikel  3  
+Materieel uitgewerkt per 08-09-2007 
 
 1.  Aan de ondernemer die op of na de dag van inwerkingtreding van deze verordening een onderneming drijft waarin de groothandel in groenten en fruit wordt uitgeoefend, wordt voor het jaar 2006 ten behoeve van de huishoudelijke uitgaven van de HBAG Commissie groenten en fruit een heffing opgelegd.   
 2.  De heffing bedraagt:  
@@ -56,6 +63,7 @@ Deze verordening is van toepassing op de ondernemer die een onderneming drijft w
 | € 2.250 bij een omzet van  | € 75.000.000 en meer  | --- |
 
 ### Artikel  4  
+Materieel uitgewerkt per 08-09-2007 
 
 1.  Aan de ondernemer die op of na de dag van inwerkingtreding van deze verordening een onderneming drijft waarin het bedrijf van commissionair of het bedrijf van tussenpersoon in groenten en fruit wordt uitgeoefend, wordt voor het jaar 2006 ten behoeve van de huishoudelijke uitgaven van de HBAG Commissie groenten en fruit een heffing opgelegd.   
 2.  De heffing bedraagt:  
@@ -87,19 +95,22 @@ Deze verordening is van toepassing op de ondernemer die een onderneming drijft w
 | € 2.250 bij een omzet van  | € 3.750.000 en meer  |
 
 ### Artikel  5  
+Materieel uitgewerkt per 08-09-2007 
 
 1.  Onder omzet in artikel 3 lid 2 wordt verstaan de omzet als bedoeld in [artikel 3, lid 4 van de HBAG-Registratie-, enquête- en controleverordening 2003](../../../../../../../../pbo/hbag-registratie-/enquête-/en/controleverordening/2003/BWBR0014580/README.md) gemiddeld, hetzij over de kalenderjaren 2003 en 2004, hetzij over de boekjaren afgesloten in kalenderjaren 2003 en 2004.   
-2.  Het eerste lid is niet van toepassing voor de ondernemer die in 2003 of 2004 niet onder de werkingssfeer van het hoofdbedrijfschap viel. In dat geval wordt de omzet van het jaar dat de onderneming onder de werkingssfeer van het hoofdbedrijfschap is komen te vallen voor de berekening als uitgangspunt genomen.   
+2.  Het eerste lid is niet van toepassing voor de ondernemer die in 2003 of 2004 niet onder de werkingssfeer van het hoofdbedrijfschap viel. In dat geval wordt de omzet van het jaar dat de onderneming onder de werkingssfeer van het hoofdbedrijfschap is komen te vallen voor de berekening als uitgangspunt genomen.  
 
 ### Artikel  6  
+Materieel uitgewerkt per 08-09-2007 
 
 1.  Indien een opgave als bedoeld in [artikel 3 lid 4](../../../../../../../../pbo/hbag-registratie-/enquête-/en/controleverordening/2003/BWBR0014580/README.md) en [artikel 6 van de HBAG-Registratie-, enquête- en controleverordening 2003](../../../../../../../../pbo/hbag-registratie-/enquête-/en/controleverordening/2003/BWBR0014580/README.md) niet tijdig is gedaan, stelt de voorzitter op basis van een schatting de omzet vast.   
 2.  De voorzitter geeft de ondernemer kennis van het bedrag van de geschatte omzet en de daarop gebaseerde heffing.   
 3.  De voorzitter stelt de ondernemer gedurende een termijn van 2 weken na verzending van de kennisgeving zoals bedoeld in het tweede lid, in de gelegenheid alsnog de vereiste opgave te doen.   
 4.  Indien de ondernemer de in het derde lid bedoelde opgave binnen de termijn doet en de opgegeven omzet geeft aanleiding de heffing te corrigeren, trekt de voorzitter de aanvankelijk opgelegde heffing in en neemt een nieuw besluit omtrent de heffing.   
-5.  Indien de ondernemer de in het derde lid bedoelde opgave niet binnen de termijn doet, of de binnen de termijn opgegeven omzet niet leidt tot correctie van de opgelegde heffing, wordt de op grond van het tweede lid opgelegde heffing definitief. De opgelegde heffing wordt schriftelijk bevestigd aan de ondernemer.   
+5.  Indien de ondernemer de in het derde lid bedoelde opgave niet binnen de termijn doet, of de binnen de termijn opgegeven omzet niet leidt tot correctie van de opgelegde heffing, wordt de op grond van het tweede lid opgelegde heffing definitief. De opgelegde heffing wordt schriftelijk bevestigd aan de ondernemer.  
 
 ### Artikel  7  
+Materieel uitgewerkt per 08-09-2007 
 
 1.  Indien een ondernemer zowel de in artikel 2 als de in artikel 3 genoemde activiteiten heeft uitgeoefend wordt de omzet zoals bedoeld in artikel 4 als volgt bijeengevoegd: 
 
@@ -107,22 +118,27 @@ a. zijn omzet als groothandelaar; en
 
 b. 20-maal zijn omzet als commissionair of tussenpersoon     
 2.  De op grond van het eerste lid gevonden totaalbedrag wordt gedeeld door de factor 2, voor zover de omzet over twee kalenderjaren dan wel boekjaren is bepaald.   
-3.  De door de ondernemer verschuldigde heffing wordt vervolgens bepaald door overeenkomstige toepassing van artikel 3.   
+3.  De door de ondernemer verschuldigde heffing wordt vervolgens bepaald door overeenkomstige toepassing van artikel 3.  
 
 ### Artikel  8  
+Materieel uitgewerkt per 08-09-2007 
 
-Indien de door de ondernemer verstrekte gegevens over zijn omzet naar het oordeel van de voorzitter onjuist zijn, legt de voorzitter een aanslag op op basis van de door de voorzitter juist geachte omzet.  
+Indien de door de ondernemer verstrekte gegevens over zijn omzet naar het oordeel van de voorzitter onjuist zijn, legt de voorzitter een aanslag op op basis van de door de voorzitter juist geachte omzet. 
 
 ### Artikel  9  
+Materieel uitgewerkt per 08-09-2007 
 
 1.  Indien naar het oordeel van de voorzitter vast komt te staan dat de door de ondernemer verstrekte gegevens dan wel de schatting van de voorzitter onjuist zijn geweest, herziet de voorzitter de opgelegde heffing.   
-2.  De in het eerste lid geregelde herziening kan tot uiterlijk binnen drie jaar na afloop van het boekjaar waarop de heffing betrekking heeft worden toegepast.   
+2.  De in het eerste lid geregelde herziening kan tot uiterlijk binnen drie jaar na afloop van het boekjaar waarop de heffing betrekking heeft worden toegepast.  
 
 ### §  3  
 
 ####Vermindering
 
+Materieel uitgewerkt per 08-09-2007 
+
 ### Artikel  10  
+Materieel uitgewerkt per 08-09-2007 
 
 1.  Aan de ondernemer die, al dan niet rechtstreeks, lid is van een organisatie van ondernemers die een of meer leden in het bestuur van het hoofdbedrijfschap heeft benoemd en over het jaar 2005 aan een van deze of aan beide organisaties contributie heeft betaald, wordt op de heffing (nader aangeven) een aftrek toegestaan van 50% van de totaal betaalde contributie over 2005, met een maximum van 50% van de verschuldigde heffing.   
 2.  De aftrek wordt slechts toegestaan als aangetoond is dat de ondernemer de in het eerste lid bedoelde contributie heeft voldaan, alsmede dat door hem tenminste het dubbele van de verlangde aftrek aan heffing is voldaan.   
@@ -139,34 +155,42 @@ d. met betrekking tot de behartiging van sociaal-economische belangen van ondern
 
 e. haar activiteiten, al dan niet door middel van een federatie van gelijksoortige organisaties, landelijk ontplooit.     
 5.  De in het vorige lid bedoelde aftrek wordt slechts toegestaan indien daartoe door de desbetreffende organisatie een verzoek is gedaan.   
-6.  Op een verzoek als in het vijfde lid van dit artikel bedoeld, wordt door het dagelijks bestuur van het Hoofdbedrijfschap voor de Agrarische Groothandel beslist.   
+6.  Op een verzoek als in het vijfde lid van dit artikel bedoeld, wordt door het dagelijks bestuur van het Hoofdbedrijfschap voor de Agrarische Groothandel beslist.  
 
 ### §  4  
 
 ####De betaling van de opgelegde heffing
 
+Materieel uitgewerkt per 08-09-2007 
+
 ### Artikel  11  
+Materieel uitgewerkt per 08-09-2007 
 
 1.  De ondernemer is verplicht de vastgestelde heffing binnen een maand na dagtekening van de heffingsbeschikking te betalen.   
 2.  Indien de ondernemer na het verstrijken van de in het eerste lid genoemde termijn de heffing niet of niet volledig heeft betaald, zendt de voorzitter de ondernemer een herinnering.   
 3.  Indien de ondernemer de heffing binnen twee weken na de dagtekening van de herinnering niet of niet volledig heeft betaald, maant de voorzitter de ondernemer schriftelijk aan om alsnog binnen tien dagen te betalen.   
-4.  Indien het derde lid wordt toegepast, brengt de voorzitter de ondernemer administratiekosten in rekening.   
+4.  Indien het derde lid wordt toegepast, brengt de voorzitter de ondernemer administratiekosten in rekening.  
 
 ### §  5  
 
 ####Overige bepalingen en slotbepalingen
 
-### Artikel  12  
+Materieel uitgewerkt per 08-09-2007 
 
-De voorzitter neemt de krachtens deze verordening te nemen besluiten, met uitzondering van het besluit voortvloeiende uit artikel 9, eerste lid, dit is gedelegeerd aan de afdeling registratie van het schap.  
+### Artikel  12  
+Materieel uitgewerkt per 08-09-2007 
+
+De voorzitter neemt de krachtens deze verordening te nemen besluiten, met uitzondering van het besluit voortvloeiende uit artikel 9, eerste lid, dit is gedelegeerd aan de afdeling registratie van het schap. 
 
 ### Artikel  13  
+Materieel uitgewerkt per 08-09-2007 
 
-Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad bedrijfsorganisatie.  
+Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad bedrijfsorganisatie. 
 
 ### Artikel  14  
+Materieel uitgewerkt per 08-09-2007 
 
-Deze verordening wordt aangehaald als: Verordening heffing groenten en fruit 2006.  
+Deze verordening wordt aangehaald als: Verordening heffing groenten en fruit 2006. 
 
 Zoetermeer 
 17 november 2005   

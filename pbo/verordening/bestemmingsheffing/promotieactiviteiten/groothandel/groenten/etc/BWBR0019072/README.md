@@ -9,7 +9,10 @@ Besluit:
 
 ####Begripsbepalingen en toepassingsgebied
 
+Materieel uitgewerkt per 08-09-2007 
+
 ### Artikel  1  
+Materieel uitgewerkt per 08-09-2007 
 
 In deze verordening wordt overgenomen de terminologie van het [Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) en wordt voorts verstaan onder: 
 
@@ -21,17 +24,21 @@ In deze verordening wordt overgenomen de terminologie van het [Instellingsbeslui
 
 4. omzet: het bedrag van de bruto verkoopsom gemiddeld, hetzij over de kalenderjaren 2003 en 2004, hetzij over de boekjaren afgesloten in deze kalenderjaren, uitsluitend voor wat betreft de in Nederland geteelde groenten en fruit ongeacht de bestemming van deze producten. Indien de onderneming na 31 december 2004 onder de werkingssfeer van het hoofdbedrijfschap is komen te vallen, de bruto verkoopsom van het jaar waarin de onderneming onder de werkingssfeer is komen te vallen.  
 
-5. promotieactiviteiten: de door de HBAG Commissie groenten en fruit in het jaar 2006 te verrichten werkzaamheden verband houdende met de voorlichting over de Nederlandse groothandelaar onder andere ten behoeve van de afnemers in binnen- en buitenland.    
+5. promotieactiviteiten: de door de HBAG Commissie groenten en fruit in het jaar 2006 te verrichten werkzaamheden verband houdende met de voorlichting over de Nederlandse groothandelaar onder andere ten behoeve van de afnemers in binnen- en buitenland.   
 
 ### Artikel  2  
+Materieel uitgewerkt per 08-09-2007 
 
-Deze verordening is van toepassing op de ondernemer die een onderneming drijft waarin de groothandel in groenten en fruit wordt uitgeoefend  
+Deze verordening is van toepassing op de ondernemer die een onderneming drijft waarin de groothandel in groenten en fruit wordt uitgeoefend 
 
 ### §  2  
 
 ####De heffing
 
+Materieel uitgewerkt per 08-09-2007 
+
 ### Artikel  3  
+Materieel uitgewerkt per 08-09-2007 
 
 Aan de ondernemers die in 2006 het bedrijf van de groothandel in groenten en fruit uitoefenen wordt ten behoeve van de te houden promotieactiviteiten een heffing opgelegd van:  
 
@@ -51,37 +58,46 @@ Aan de ondernemers die in 2006 het bedrijf van de groothandel in groenten en fru
 | € 550  | bij een omzet van  | € 50.000.000  | en meer.  | --- |
 
 ### Artikel  4  
+Materieel uitgewerkt per 08-09-2007 
 
 1.  De heffing wordt berekend op basis van de door de ondernemers op grond van [artikel 3 lid 4](../../../../../../../../pbo/hbag-registratie-/enquête-/en/controleverordening/2003/BWBR0014580/README.md) en [artikel 6 van de HBAG-Registratie-, enquête- en controleverordening 2003](../../../../../../../../pbo/hbag-registratie-/enquête-/en/controleverordening/2003/BWBR0014580/README.md) verstrekte gegevens.   
 2.  De artikelen 6, 8 en 9 van de Verordening heffing groenten en fruit 2006 zijn van overeenkomstige toepassing.   
-3.  Indien door het verstrekken van onjuiste omzetgegevens de heffing te laag is vastgesteld, trekt de voorzitter de heffingsbeschikking in en neemt een nieuwe beschikking.   
+3.  Indien door het verstrekken van onjuiste omzetgegevens de heffing te laag is vastgesteld, trekt de voorzitter de heffingsbeschikking in en neemt een nieuwe beschikking.  
 
 ### §  3  
 
 ####De betaling van de opgelegde heffing
 
+Materieel uitgewerkt per 08-09-2007 
+
 ### Artikel  5  
+Materieel uitgewerkt per 08-09-2007 
 
 1.  De ondernemer is verplicht de vastgestelde heffing binnen een maand na dagtekening van de heffingsbeschikking te betalen.   
 2.  Indien de ondernemer na het verstrijken van de in het eerste lid genoemde termijn de heffing niet of niet volledig heeft betaald, zendt de voorzitter de ondernemer een herinnering.   
 3.  Indien de ondernemer de heffing binnen twee weken na de dagtekening van de herinnering niet of niet volledig heeft betaald, maant de voorzitter de ondernemer schriftelijk aan om alsnog binnen tien dagen te betalen.   
-4.  Indien het derde lid wordt toegepast, brengt de voorzitter de ondernemer administratiekosten in rekening.   
+4.  Indien het derde lid wordt toegepast, brengt de voorzitter de ondernemer administratiekosten in rekening.  
 
 ### §  4  
 
 ####Overige bepalingen en slotbepalingen
 
-### Artikel  6  
+Materieel uitgewerkt per 08-09-2007 
 
-De voorzitter neemt de krachtens deze verordening te nemen besluiten.  
+### Artikel  6  
+Materieel uitgewerkt per 08-09-2007 
+
+De voorzitter neemt de krachtens deze verordening te nemen besluiten. 
 
 ### Artikel  7  
+Materieel uitgewerkt per 08-09-2007 
 
-Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad bedrijfsorganisatie.  
+Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad bedrijfsorganisatie. 
 
 ### Artikel  8  
+Materieel uitgewerkt per 08-09-2007 
 
-Deze verordening wordt aangehaald als: Verordening bestemmingsheffing promotieactiviteiten groothandel groenten en fruit 2006.  
+Deze verordening wordt aangehaald als: Verordening bestemmingsheffing promotieactiviteiten groothandel groenten en fruit 2006. 
 
 Zoetermeer 
 17 november 2005   

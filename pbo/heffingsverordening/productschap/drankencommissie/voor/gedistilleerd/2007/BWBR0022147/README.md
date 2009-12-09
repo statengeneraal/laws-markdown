@@ -11,13 +11,16 @@ besluit: de navolgende verordening vast te stellen:
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 01-01-2008 
+
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2008 
 
 In deze verordening wordt verstaan onder: 
 
-1. *grondstoffen*: de in Verordening (EEG) nr. 1576/89 van de Raad van 29 mei 1989 tot vaststelling van de algemene voorschriften betreffende de definitie, de aanduiding en de aanbiedingsvorm van gedistilleerde dranken gedefinieerde ethylalcohol uit landbouwproducten en distillaat uit landbouwproducten (Publikatieblad L 160, 12 juni 1989);  
+1.  *grondstoffen*: de in Verordening (EEG) nr. 1576/89 van de Raad van 29 mei 1989 tot vaststelling van de algemene voorschriften betreffende de definitie, de aanduiding en de aanbiedingsvorm van gedistilleerde dranken gedefinieerde ethylalcohol uit landbouwproducten en distillaat uit landbouwproducten (Publikatieblad L 160, 12 juni 1989);  
 
-2. *gedistilleerde dranken*: zijnde een alcoholhoudende vloeistof: 
+2.  *gedistilleerde dranken*: zijnde een alcoholhoudende vloeistof: 
 
 1. bestemd voor menselijke consumptie;  
 
@@ -41,37 +44,41 @@ In deze verordening wordt verstaan onder:
 
 4. behorend tot GN-code 2208 van de Verordening (EEG) nr. 2658/87 van 23 juli 1987, waarvoor in geval van ge- of verbruik hier te lande alcoholaccijns verschuldigd is.    
 
-3. *zwak gedistilleerde drank*: alcoholhoudend product met een alcoholgehalte van minder dan 15 procent vol, behorend tot GN-code 2208 van de Verordening (EEG) nr. 2658/87 van 23 juli 1987, waarvoor in geval van ge- of verbruik hier te lande alcoholaccijns verschuldigd is;  
+3.  *zwak gedistilleerde drank*: alcoholhoudend product met een alcoholgehalte van minder dan 15 procent vol, behorend tot GN-code 2208 van de Verordening (EEG) nr. 2658/87 van 23 juli 1987, waarvoor in geval van ge- of verbruik hier te lande alcoholaccijns verschuldigd is;  
 
-4. *alcoholgehalte*: het gehalte aan zuivere ethylalcohol bij een temperatuur van 20 graden C, uitgedrukt in volumeprocenten;  
+4.  *alcoholgehalte*: het gehalte aan zuivere ethylalcohol bij een temperatuur van 20 graden C, uitgedrukt in volumeprocenten;  
 
-5. *bereiden*: iedere bewerking - met uitzondering van bottelen - waardoor uit grondstoffen een gedistilleerde en/of zwak gedistilleerde drank vervaardigd wordt of de samenstelling daarvan wijzigt;  
+5.  *bereiden*: iedere bewerking - met uitzondering van bottelen - waardoor uit grondstoffen een gedistilleerde en/of zwak gedistilleerde drank vervaardigd wordt of de samenstelling daarvan wijzigt;  
 
-6. *bottelen*: het afvullen van verpakkingen welke bestemd zijn om aan de consument af te leveren met een gedistilleerde en/of zwak gedistilleerde drank;  
+6.  *bottelen*: het afvullen van verpakkingen welke bestemd zijn om aan de consument af te leveren met een gedistilleerde en/of zwak gedistilleerde drank;  
 
-7. *import*: het rechtstreeks voor eigen rekening uit een EU lidstaat of derde land betrokken ethylalcohol, distillaat, gedistilleerde en/of zwak gedistilleerde dranken in het economisch verkeer in Nederland (doen) brengen, inklaren en/of verhandelen.  
+7.  *import*: het rechtstreeks voor eigen rekening uit een EU lidstaat of derde land betrokken ethylalcohol, distillaat, gedistilleerde en/of zwak gedistilleerde dranken in het economisch verkeer in Nederland (doen) brengen, inklaren en/of verhandelen.  
 
-8. *ondernemer*: een natuurlijke of rechtspersoon, die een onderneming drijft als bedoeld in [artikel 3 lid 2 sub c van het Instellingsbesluit](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);  
+8.  *ondernemer*: een natuurlijke of rechtspersoon, die een onderneming drijft als bedoeld in [artikel 3 lid 2 sub c van het Instellingsbesluit](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);  
 
-9. *productschap*: het Productschap Dranken;  
+9.  *productschap*: het Productschap Dranken;  
 
-10. *bestuur*: het bestuur van het Productschap Dranken;  
+10.  *bestuur*: het bestuur van het Productschap Dranken;  
 
-11. *secretaris*: de door het Bestuur aangestelde secretaris van de Commissie;  
+11.  *secretaris*: de door het Bestuur aangestelde secretaris van de Commissie;  
 
-12. *commissie*: een orgaan als bedoeld in [artikel 88a van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), hier: de Commissie voor Gedistilleerd ex [artikel 5 lid 1 c van het Instellingsbesluit Productschap Dranken](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md).    
+12.  *commissie*: een orgaan als bedoeld in [artikel 88a van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), hier: de Commissie voor Gedistilleerd ex [artikel 5 lid 1 c van het Instellingsbesluit Productschap Dranken](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md).   
 
 ### §  2  
 
 ####Heffingen & jaarbijdragen
 
+Materieel uitgewerkt per 01-01-2008 
+
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2008 
 
 1.  Aan degenen die een onderneming drijven waarin uit grondstoffen gedistilleerde en/of zwak gedistilleerde dranken worden bereid die in Nederland in het economisch verkeer worden gebracht, wordt een heffing opgelegd, welke bedraagt € 4,24 per hectoliter alcohol, omgerekend tot een sterkte van 100% vol.   
 2.  Aan degenen die een onderneming drijven waarin gedistilleerde dranken en/of zwak gedistilleerde dranken voor de eerste maal in Nederland worden geïmporteerd, en bij wie deze producten niet reeds aan heffing onderhevig zijn krachtens lid 1, wordt een heffing opgelegd, welke bedraagt € 4,24 per hectoliter alcohol omgerekend tot een sterkte van 100% vol.   
-3.  De in het eerste lid bedoelde heffing is eveneens verschuldigd door degenen die een onderneming drijven waarin gedistilleerde en/of zwak gedistilleerde dranken worden bereid anders dan uit de grondstoffen en wel berekend per hl alcohol omgerekend tot een sterkte van 100% vol. van de op deze wijze verkregen gedistilleerde en/of zwak gedistilleerde dranken.   
+3.  De in het eerste lid bedoelde heffing is eveneens verschuldigd door degenen die een onderneming drijven waarin gedistilleerde en/of zwak gedistilleerde dranken worden bereid anders dan uit de grondstoffen en wel berekend per hl alcohol omgerekend tot een sterkte van 100% vol. van de op deze wijze verkregen gedistilleerde en/of zwak gedistilleerde dranken.  
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2008 
 
 1.  Van ondernemers als bedoeld in deze Verordening wordt een jaarbijdrage geheven.   
 2.  De jaarbijdrage bedraagt: 
@@ -84,9 +91,9 @@ a. voor degenen die een onderneming drijven waarin grondstoffen worden bereid:
 
 b. voor degenen die een onderneming drijven waarin gedistilleerde dranken en/of zwak gedistilleerde dranken worden bereid: 
 
-– € 25 bij een totale hoeveelheid van minder dan 5 hectoliter omgerekend tot een sterkte van 100% vol op jaarbasis  
+– € 25 bij een totale hoeveelheid van minder dan 5 hectoliter omgerekend tot een sterkte van 100% vol op jaarbasis   
 
-– € 115 bij een totale hoeveelheid vanaf 5 hectoliter omgerekend tot een sterkte van 100% vol op jaarbasis:    
+–€ 115 bij een totale hoeveelheid vanaf 5 hectoliter omgerekend tot een sterkte van 100% vol op jaarbasis:  
 
 c. voor degenen die een onderneming drijven waarin gedistilleerde en/of zwak gedistilleerde dranken voor de eerste keer in het verkeer in Nederland worden gebracht: 
 
@@ -100,9 +107,10 @@ e. voor degenen die een onderneming drijven waarin de detailhandel in gedistille
 
 f. voor degenen die een onderneming drijven waar voor rekening van een ander gebotteld wordt: € 25.     
 3.  De Jaarbijdrage als bedoeld onder d. is niet verschuldigd door degenen die de groothandel in gedistilleerd uitoefenen, indien en voorzover door de Commissie voor frisdranken en waters aan de Commissie voor gedistilleerd jaarlijks een door het Bestuur in overleg met de Commissies vast te stellen bedrag wordt voldaan, hetwelk geacht wordt de gezamenlijke Jaarbijdrage van de bedoelde ondernemingen te vervangen.   
-4.  De jaarbijdrage als bedoeld onder e. is niet verschuldigd door degenen die een onderneming drijven waarin de detailhandel in gedistilleerde dranken wordt uitgeoefend, indien en voor zover door de Commissie voor slijters aan de Commissie voor gedistilleerd jaarlijks een door het Bestuur in overleg met de Commissies vast te stellen bedrag, hetwelk geacht kan worden de gezamenlijke jaarbijdrage van bedoelde onderneming te verlangen, wordt voldaan.   
+4.  De jaarbijdrage als bedoeld onder e. is niet verschuldigd door degenen die een onderneming drijven waarin de detailhandel in gedistilleerde dranken wordt uitgeoefend, indien en voor zover door de Commissie voor slijters aan de Commissie voor gedistilleerd jaarlijks een door het Bestuur in overleg met de Commissies vast te stellen bedrag, hetwelk geacht kan worden de gezamenlijke jaarbijdrage van bedoelde onderneming te verlangen, wordt voldaan.  
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-01-2008 
 
 1.  De oplegging van de in artikel 2 genoemde heffing geschiedt door de secretaris namens het Bestuur door toezending of uitreiking van een heffingsaanslag.   
 2.  Degenen die een onderneming drijven waarin gemiddeld per maand 500 hectoliter of meer gedistilleerde dranken en/of zwak gedistilleerde dranken, omgerekend tot een sterkte van 100% vol, 
@@ -123,21 +131,24 @@ c. in Nederland worden geïmporteerd in de zin van artikel 2 lid 2, ontvangen ee
 5.  De bepaling van de gemiddelde hoeveelheid als bedoeld in de leden 2 t/m 4 van dit artikel, geschiedt op basis van de hoeveelheid bereide en geïmporteerde dranken in het jaar voorafgaande aan het kalenderjaar waarin de periodieke heffingsaanslag wordt opgelegd.   
 6.  De betaling op bovengenoemde heffingsaanslagen moet geschieden binnen één maand na dagtekening van deze heffingsaanslag.   
 7.  Ingeval de opgave van een onderneming waarmede de heffingsaanslag als bedoeld in lid 1 wordt vastgesteld ontbreekt, kan de secretaris namens het Bestuur ambtshalve de heffing over dat tijdvak opleggen.   
-8.  De secretaris is namens het Bestuur gerechtigd kosten ad € 150,– in rekening te brengen ingeval de opgave ten behoeve van de heffing niet tijdig wordt verstrekt. Een opgave wordt geacht niet tijdig ontvangen te zijn indien twee maanden verstreken zijn na de maand respectievelijk het kwartaal respectievelijk het jaar waarover de heffing verschuldigd is.   
+8.  De secretaris is namens het Bestuur gerechtigd kosten ad € 150,– in rekening te brengen ingeval de opgave ten behoeve van de heffing niet tijdig wordt verstrekt. Een opgave wordt geacht niet tijdig ontvangen te zijn indien twee maanden verstreken zijn na de maand respectievelijk het kwartaal respectievelijk het jaar waarover de heffing verschuldigd is.  
 
 ### Artikel  5  
+Materieel uitgewerkt per 01-01-2008 
 
 1.  Ondernemers als bedoeld in deze Verordening zijn gehouden vóór het einde van de eerste maand na iedere heffingsperiode als vermeld in artikel 4, aan de secretaris opgave te doen van de hoeveelheid gedistilleerde en/of zwak gedistilleerde dranken die is bereid in de zin van artikel 2 leden 1 en 3, over de voorafgaande maand respectievelijk kwartaal respectievelijk jaar.   
-2.  Ondernemers als bedoeld in deze Verordening zijn gehouden vóór het einde van de eerste maand na iedere heffingsperiode als vermeld in artikel 4 aan de secretaris opgave te doen van de hoeveelheid gedistilleerde en/of zwak gedistilleerde dranken die in de voorafgaande maand respectievelijk kwartaal, respectievelijk jaar, voor de eerste maal in het verkeer in Nederland werden gebracht in de zin van artikel 2 lid 2.   
+2.  Ondernemers als bedoeld in deze Verordening zijn gehouden vóór het einde van de eerste maand na iedere heffingsperiode als vermeld in artikel 4 aan de secretaris opgave te doen van de hoeveelheid gedistilleerde en/of zwak gedistilleerde dranken die in de voorafgaande maand respectievelijk kwartaal, respectievelijk jaar, voor de eerste maal in het verkeer in Nederland werden gebracht in de zin van artikel 2 lid 2.  
 
 ### Artikel  6  
+Materieel uitgewerkt per 01-01-2008 
 
 1.  Op aanwijzing van de secretaris kan een medewerker van de Commissie of een accountantskantoor dat lid is van een organisatie die haar leden aan tuchtrechtspraak onderwerpt, bij een onderneming ten behoeve van de juiste vaststelling van de heffing onderzoek verrichten naar de hoeveelheid verwerkte en/of geïmporteerde alcohol alsmede de hoeveelheid verwerkte en/of geïmporteerde gedistilleerde dranken.   
 2.  Het onderzoek als genoemd in lid 1 zal slechts verricht kunnen worden indien de onderneming, na hiertoe schriftelijk te zijn aangemaand, in gebreke blijft de in lid 1 bedoelde gegevens te verstrekken aan de Commissie.   
 3.  De kosten zullen worden gedragen door de onderneming waar de medewerker of het accountantskantoor het onderzoek als bedoeld in het eerste lid verricht.   
-4.  De onderneming is verplicht alle medewerking te verlenen die noodzakelijk is voor het verrichten van dit onderzoek.   
+4.  De onderneming is verplicht alle medewerking te verlenen die noodzakelijk is voor het verrichten van dit onderzoek.  
 
 ### Artikel  7  
+Materieel uitgewerkt per 01-01-2008 
 
 1.  Krachtens deze Verordening ter kennis van het Productschap gekomen gegevens voorzover deze kennelijk van vertrouwelijke aard zijn, mogen voorzover bij of krachtens de wet niet anders is bepaald, zonder schriftelijke toestemming van de betrokken belanghebbende: 
 
@@ -147,16 +158,19 @@ b. niet onder vermelding of aanduiding van de persoon en/of onderneming, waarop 
 
 c. in door het bestuur aan te wijzen gevallen, waarin dit naar zijn oordeel in het belang is van de bedrijfsgenoten, bekend worden gemaakt aan de Staat, andere publiekrechtelijk organen of naar het oordeel van het bestuur daarmede gelijk te stellen publiekrechtelijke instellingen, indien de verstrekking van deze gegevens voortvloeit uit het doel van de registratie en de persoonlijke levenssfeer van de geregistreerden door de verstrekking van deze gegevens niet onevenredig wordt geschaad.     
 2.  Bekendmaking van gegevens, als bedoeld in het eerste lid, blijft ook achterwege in gevallen, waarin uit de aard der gegevens of uit een of meer andere omstandigheden zou kunnen blijken, op welke persoon en/of onderneming de gegevens betrekking hebben.   
-3.  De secretaris en de overige leden van het personeel van het secretariaat zijn met het oog op de [Wet bescherming persoonsgegevens](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) verplicht tot geheimhouding van de gegevens tegenover een ieder, met uitzondering van de accountants en de leden van vorenbedoeld accountantskantoor en behoudens de eerdergenoemde toestemming van de betrokken belanghebbende.   
+3.  De secretaris en de overige leden van het personeel van het secretariaat zijn met het oog op de [Wet bescherming persoonsgegevens](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) verplicht tot geheimhouding van de gegevens tegenover een ieder, met uitzondering van de accountants en de leden van vorenbedoeld accountantskantoor en behoudens de eerdergenoemde toestemming van de betrokken belanghebbende.  
 
 ### §  3  
 
 ####Slotbepalingen
 
+Materieel uitgewerkt per 01-01-2008 
+
 ### Artikel  8  
+Materieel uitgewerkt per 01-01-2008 
 
 1.  Deze verordening treedt in werking met ingang van 1 januari 2007.   
-2.  Deze verordening wordt aangehaald als Heffingsverordening Productschap Dranken/Commissie voor gedistilleerd 2007.   
+2.  Deze verordening wordt aangehaald als Heffingsverordening Productschap Dranken/Commissie voor gedistilleerd 2007.  
 
 Rotterdam 
 28 maart 2007   
