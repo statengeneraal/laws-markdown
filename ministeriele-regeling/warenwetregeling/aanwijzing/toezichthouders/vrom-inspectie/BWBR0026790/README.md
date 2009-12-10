@@ -8,17 +8,17 @@ Besluit:
 
 ### Artikel  1  
 
-Als ambtenaren belast met het toezicht op de naleving van de bij of krachtens de [Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md) gestelde voorschriften, worden aangewezen de controleurs van de VROM-Inspectie.  
+Als ambtenaren belast met het toezicht op de naleving van de bij of krachtens de [Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md) gestelde voorschriften, worden aangewezen de controleurs van de VROM-Inspectie. 
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Warenwetregeling aanwijzing toezichthouders VROM-Inspectie.  
+Deze regeling wordt aangehaald als: Warenwetregeling aanwijzing toezichthouders VROM-Inspectie. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink   
+A. Klink     
