@@ -1,38 +1,45 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Verordening van het Hoofdbedrijfschap Detailhandel van 26 oktober 2005, houdende regels terzake van de aan de onder het hoofdbedrijfschap ressorterende ondernemers op te leggen heffing voor het jaar 2006 (Heffingsverordening Hoofdbedrijfschap Detailhandel 2006)
+##Verordening van het Hoofdbedrijfschap Detailhandel van 26 oktober 2005, houdende regels terzake van de aan de onder het hoofdbedrijfschap ressorterende ondernemers op te leggen heffing voor het jaar 2006 (Heffingsverordening Hoofdbedrijfschap Detailhandel 2006) 
 
-Het Bestuur van het Hoofdbedrijfschap Detailhandel;  
+Het Bestuur van het Hoofdbedrijfschap Detailhandel; 
 Gelet op de [artikelen 95 tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de Bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
 Besluit:     
 ### §  1  
 
 ####Begripsbepaling en toepassingsgebied
 
+Materieel uitgewerkt per 16-12-2006 
+
 ### Artikel  1  
+Materieel uitgewerkt per 16-12-2006 
 
 In deze verordening wordt verstaan onder:  
 
 | --- | --- | --- |
 |:---|:---|:---|
 | a. een onderneming  | :  | een onderneming waarvoor het hoofdbedrijfschap is in gesteld als bedoeld in [artikel 3 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);  |
-| b. de ondernemer  | :  | degene die een onderneming drijft dan wel degenen die gezamenlijk een onderneming drijven;  |
+| b. de ondernemer  | :  |  degene die een onderneming drijft dan wel degenen die gezamenlijk een onderneming drijven;  |
 | c. werkzame personen  | :  | de personen die doorgaans tenminste 15 uur per week in de onderneming werkzaam zijn. Deze personen kunnen zijn:    al dan niet in dienst van de betrokken onderneming zijnde werknemers;     meewerkende ondernemer;     meewerkend gezinslid van de ondernemer;      |
 | d. detailhandel  | :  | hetgeen daaronder wordt verstaan in [artikel 1 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);  |
-| e. ambulante handel  | :  | markthandel, straathandel en handel te water;  |
-| f. verkoopplaats  | :  | iedere plaats waar de detailhandel anders dan in de uitoefening van de ambulante handel wordt uitgeoefend, alsmede elke voor het publiek toegankelijke besloten ruimte waar waren aan particulieren te koop worden aangeboden;  |
-| g.het inkomen  | :  | het verzamelinkomen als bedoeld in [artikel 2.18 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  |
-| h.de voorzitter  | :  | de voorzitter van het Hoofdbedrijfschap Detailhandel.  |
+| e. ambulante handel  | :  |  markthandel, straathandel en handel te water;  |
+| f. verkoopplaats  | :  |  iedere plaats waar de detailhandel anders dan in de uitoefening van de ambulante handel wordt uitgeoefend, alsmede elke voor het publiek toegankelijke besloten ruimte waar waren aan particulieren te koop worden aangeboden;  |
+| g.het inkomen  | :  |  het verzamelinkomen als bedoeld in [artikel 2.18 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  |
+| h.de voorzitter  | :  |  de voorzitter van het Hoofdbedrijfschap Detailhandel.  |
 
 ### Artikel  2  
+Materieel uitgewerkt per 16-12-2006 
 
-Deze verordening is van toepassing op de ondernemers die een onderneming drijven waarvoor het Hoofdbedrijfschap Detailhandel is ingesteld.  
+Deze verordening is van toepassing op de ondernemers die een onderneming drijven waarvoor het Hoofdbedrijfschap Detailhandel is ingesteld. 
 
 ### §  2  
 
 ####De heffing
 
+Materieel uitgewerkt per 16-12-2006 
+
 ### Artikel  3  
+Materieel uitgewerkt per 16-12-2006 
 
 1.  Aan de ondernemers, die op of na de dag van inwerkingtreding van deze verordening een onderneming drijven waarvoor het Hoofdbedrijfschap Detailhandel is ingesteld, worden voor 2006 opgelegd: 
 
@@ -46,7 +53,7 @@ b. een fïliaalheffing van € 37,20 voor elke tweede en volgende verkoopplaats 
 
 c. een heffing werkzame personen waarvan de hoogte afhankelijk is van de klasse waarin de onderneming op onderstaande wijze is ingedeeld:  
 
-| klasse  | aantal werkzame personen  | heffing werkzame personen  |
+|  klasse   |  aantal werkzame personen   |  heffing werkzame personen   |
 |:---|:---|:---|
 | 1  | 0  | nihil  |
 | 2  | 1  | nihil  |
@@ -60,18 +67,20 @@ c. een heffing werkzame personen waarvan de hoogte afhankelijk is van de klasse 
 | 10  | 500 en meer  | € 362,30  |
 
 Geen heffing werkzame personen is verschuldigd door de ondernemer in wiens onderneming uitsluitend de ambulante handel wordt uitgeoefend.   
-2.  De som van de algemene heffing, de filiaalheffing en de heffing werkzame personen bedraagt ten hoogste € 3.161,70.   
+2.  De som van de algemene heffing, de filiaalheffing en de heffing werkzame personen bedraagt ten hoogste € 3.161,70.  
 
 ### Artikel  4  
+Materieel uitgewerkt per 16-12-2006 
 
 1.  Indien voor de ondernemer tevens het Hoofdbedrijfschap Ambachten is ingesteld en door dit hoofdbedrijfschap heffing wordt opgelegd, wordt de door de ondernemer verschuldigde algemene heffing verminderd tot € 38,25. De heffing werkzame personen wordt in dat geval tot de helft verminderd.   
 2.  Indien voor de ondernemer die uitsluitend de ambulante handel uitoefent tevens het Hoofdbedrijfschap Ambachten is ingesteld en door dit hoofdbedrijfschap heffing wordt opgelegd, wordt de door de ondernemer verschuldigde algemene heffing verminderd tot € 29,60.   
 3.  Indien voor één of meer verkoopplaatsen van de onderneming tevens het Bedrijfschap Horeca en Catering is ingesteld en door dit bedrijfschap heffing wordt opgelegd, wordt de door de ondernemer verschuldigde algemene heffing verminderd tot € 48,50. De filiaalheffing voor de betrokken verkoopplaats wordt verminderd tot € 20,30.   
 4.  Indien voor de onderneming tevens het Hoofdbedrijfschap Ambachten en het Bedrijfschap Horeca en Catering is ingesteld en aan deze onderneming door beide bedrijfschappen heffing wordt opgelegd, wordt de door de ondernemer verschuldigde algemene heffing verminderd tot € 31,40.   
 5.  Indien voor één of meer verkoopplaatsen van de onderneming tevens het Bedrijfschap Horeca en Catering is ingesteld en door dit bedrijfschap heffing wordt opgelegd, is door de ondernemer geen algemene heffing respectievelijk filiaalheffing verschuldigd, indien door de ondernemer wordt aangetoond dat de detailhandelsomzet in de betrokken verkoopplaats of -plaatsen van zijn onderneming minder dan € 45.378,-- per jaar bedraagt. Als maatstaf geldt de omzet in het jaar voorafgaande aan het heffingsjaar.   
-6.  Indien voor de onderneming tevens het Hoofdbedrijfschap Afbouw en Onderhoud is ingesteld en aan deze onderneming door dit hoofdbedrijfschap heffing wordt opgelegd, wordt de door de ondernemer verschuldigde algemene heffing verminderd tot € 56,75.   
+6.  Indien voor de onderneming tevens het Hoofdbedrijfschap Afbouw en Onderhoud is ingesteld en aan deze onderneming door dit hoofdbedrijfschap heffing wordt opgelegd, wordt de door de ondernemer verschuldigde algemene heffing verminderd tot € 56,75.  
 
 ### Artikel  5  
+Materieel uitgewerkt per 16-12-2006 
 
 1.  Aan de ondernemer die lid of indirect lid is van: 
 
@@ -92,30 +101,37 @@ c. tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan h
 d. met betrekking tot de behartiging van sociaal-economische belangen van ondernemers een positie van enige betekenis inneemt binnen de groep van ondernemers die zij beoogt te organiseren, hetgeen onder meer kan blijken uit de mate van representativiteit binnen die groep, de deelname aan het arbeidsvoorwaardenoverleg, het verrichten van studies of diensten die ook buiten die groep van belang worden geacht en de deelname aan regelmatig overleg met de overheid; en  
 
 e. haar activiteiten, al dan niet door middel van een federatie van gelijksoortige organisaties, landelijk ontplooit.     
-4.  De in het vorige lid bedoelde aftrek wordt slechts toegestaan indien daartoe door het bestuur van de desbetreffende organisatie een verzoek is gedaan en daarop door het dagelijks bestuur van het Hoofdbedrijfschap Detailhandel positief is beslist.   
+4.  De in het vorige lid bedoelde aftrek wordt slechts toegestaan indien daartoe door het bestuur van de desbetreffende organisatie een verzoek is gedaan en daarop door het dagelijks bestuur van het Hoofdbedrijfschap Detailhandel positief is beslist.  
 
 ### §  3  
 
 ####Geen of gedeeltelijke heffing
 
+Materieel uitgewerkt per 16-12-2006 
+
 ### Artikel  6  
+Materieel uitgewerkt per 16-12-2006 
 
 1.  De heffing is nihil indien een ondernemer is gestart met de uitoefening van het bedrijf op of na 1 oktober 2006.   
 2.  De heffing wordt eveneens op nihil bepaald indien de ondernemer de uitoefening van zijn bedrijf vóór 1 april 2006 heeft gestaakt.   
 3.  De heffing bedraagt 50% van de volgens deze verordening berekende heffing indien een ondernemer op of na 1 april 2006, maar vóór 1 oktober 2006 met de uitoefening van het bedrijf is gestart.   
 4.  De heffing is nihil bij staking van de uitoefening van het bedrijf binnen zes maanden na aanvang daarvan.   
-5.  Het tweede en vierde lid worden slechts toegepast indien de ondernemer uiterlijk twee maanden na staking van de uitoefening van het bedrijf het hoofdbedrijfschap daarvan in kennis stelt.   
+5.  Het tweede en vierde lid worden slechts toegepast indien de ondernemer uiterlijk twee maanden na staking van de uitoefening van het bedrijf het hoofdbedrijfschap daarvan in kennis stelt.  
 
 ### §  4  
 
 ####De vaststelling en oplegging van de heffing
 
+Materieel uitgewerkt per 16-12-2006 
+
 ### Artikel  7  
+Materieel uitgewerkt per 16-12-2006 
 
 1.  De hoogte van de heffing wordt vastgesteld op grond van de ten aanzien van de ondernemer en onderneming in het register bedoeld in [artikel 3, eerste lid, van de Registratieverordening HBD 2005](../../../../../../pbo/registratieverordening/hbd/2005/BWBR0018359/README.md) geregistreerde gegevens en het bepaalde in deze verordening.   
-2.  Indien de ondernemer het bepaalde in [artikel 8 van de Registratieverordening HBD 2005](../../../../../../pbo/registratieverordening/hbd/2005/BWBR0018359/README.md) niet in acht heeft genomen, wordt de heffing ambtshalve vastgesteld.   
+2.  Indien de ondernemer het bepaalde in [artikel 8 van de Registratieverordening HBD 2005](../../../../../../pbo/registratieverordening/hbd/2005/BWBR0018359/README.md) niet in acht heeft genomen, wordt de heffing ambtshalve vastgesteld.  
 
 ### Artikel  8  
+Materieel uitgewerkt per 16-12-2006 
 
 De beschikking tot oplegging van de heffing is schriftelijk. Op de beschikking wordt in ieder geval vermeld: 
 
@@ -129,9 +145,10 @@ d. de dagtekening van de beschikking;
 
 e. de termijn waarbinnen de heffing uiterlijk moet zijn betaald;  
 
-f. het registratienummer van de onderneming.    
+f. het registratienummer van de onderneming.   
 
 ### Artikel  9  
+Materieel uitgewerkt per 16-12-2006 
 
 1.  Met de beschikking wordt een toelichting meegezonden.   
 2.  In de toelichting wordt in ieder geval ingegaan op: 
@@ -144,36 +161,44 @@ c. de bestemming van de heffing;
 
 d. de mogelijkheid van bezwaar met vermelding van de in acht te nemen termijnen;  
 
-e. de mogelijkheid van vermindering van de heffing.     
+e. de mogelijkheid van vermindering van de heffing.    
 
 ### Artikel  10  
+Materieel uitgewerkt per 16-12-2006 
 
 1.  Indien een ondernemer heeft nagelaten aan het hoofdbedrijfschap of aan de Kamer van Koophandel voor de inschrijving in het handels register, de opgaven te doen waartoe hij verplicht is, en hem dientengevolge geen dan wel een te lage heffing is opgelegd, wordt de heffing alsnog of opnieuw vastgesteld. De artikelen 8 en 9 zijn van toepassing.   
 2.  Indien aan een ondernemer een lagere heffing of geen heffing zou zijn opgelegd als hij aan zijn verplichtingen bedoeld in het eerste lid zou hebben voldaan, blijft de ondernemer de heffing verschuldigd die is vastgesteld op basis van de gegevens die bekend waren op het tijdstip van vaststelling van de heffing.   
-3.  Aan de ondernemer ten aanzien van wie het eerste lid is toegepast, kunnen administratiekosten in rekening worden gebracht.   
+3.  Aan de ondernemer ten aanzien van wie het eerste lid is toegepast, kunnen administratiekosten in rekening worden gebracht.  
 
 ### Artikel  11  
+Materieel uitgewerkt per 16-12-2006 
 
 1.  Indien anders dan wegens omstandigheden als bedoeld in artikel 10 eerste lid, aan een ondernemer ten onrechte geen dan wel een te lage heffing is opgelegd, wordt de heffing alsnog of opnieuw vastgesteld.   
 2.  Aan de ondernemer wordt meegedeeld op welke gronden alsnog dan wel opnieuw een heffing is vastgesteld.   
-3.  De artikelen 8 en 9 zijn van overeenkomstige toepassing.   
+3.  De artikelen 8 en 9 zijn van overeenkomstige toepassing.  
 
 ### §  5  
 
 ####De betaling van de opgelegde heffing
 
+Materieel uitgewerkt per 16-12-2006 
+
 ### Artikel  12  
+Materieel uitgewerkt per 16-12-2006 
 
 1.  De ondernemer is verplicht de vastgestelde heffing binnen zes weken na dagtekening van de heffingsbeschikking te betalen.   
 2.  Indien de ondernemer na het verstrijken van de in het eerste lid genoemde termijn de heffing niet of niet volledig heeft betaald, wordt hem een herinnering gezonden.   
 3.  Indien de ondernemer de heffing binnen twee weken na de dagtekening van de herinnering niet of niet volledig heeft betaald, wordt hem een schriftelijke aanmaning gezonden om alsnog binnen tien dagen te betalen.   
-4.  Indien het derde lid wordt toegepast, worden de ondernemer administratie kosten in rekening gebracht.   
+4.  Indien het derde lid wordt toegepast, worden de ondernemer administratie kosten in rekening gebracht.  
 
 ### §  6  
 
 ####Vermindering van heffing
 
+Materieel uitgewerkt per 16-12-2006 
+
 ### Artikel  13  
+Materieel uitgewerkt per 16-12-2006 
 
 1.  Indien het inkomen van de ondernemer lager is dan het sociaal minimum, wordt de aan de ondernemer opgelegde heffing op diens aanvraag verminderd. Het sociaal minimum in de zin van deze verordening is aanwezig, indien het verzamelinkomen van de ondernemer minder bedraagt dan € 16.400,-per jaar.   
 2.  De opgelegde heffing wordt tot de helft verminderd indien het verzamelinkomen minder dan € 16.400,-- en meer dan € 12.300,-- bedraagt. Indien het verzamelinkomen € 12.300,-- of minder bedraagt, wordt de heffing verminderd tot 20%.   
@@ -183,18 +208,21 @@ a. de onderneming wordt gedreven door meer dan één persoon, behalve wanneer he
 
 b. de ondernemer een rechtspersoon is.     
 4.  In afwijking van het derde lid, onderdeel b, wordt dit artikel wel toegepast indien de onderneming wordt gedreven door een besloten vennootschap met slechts één bestuurder, die al dan niet tezamen met zijn gezinsleden enig of nagenoeg enig aandeelhouder is.   
-5.  De heffing wordt ambtshalve verminderd, indien de ondernemer op zijn verzoek in het jaar 2004 of 2005 eveneens op grond van de in het eerste lid omschreven regeling een verminderde heffing is opgelegd. De vermindering tot 20% of 50% is gelijk aan die in 2005.   
+5.  De heffing wordt ambtshalve verminderd, indien de ondernemer op zijn verzoek in het jaar 2004 of 2005 eveneens op grond van de in het eerste lid omschreven regeling een verminderde heffing is opgelegd. De vermindering tot 20% of 50% is gelijk aan die in 2005.  
 
 ### Artikel  14  
+Materieel uitgewerkt per 16-12-2006 
 
 1.  Voor de toepassing van artikel 13, eerste en tweede lid, geldt als maatstaf het verzamelinkomen in het jaar 2004.   
-2.  Indien door de ondernemer niet kan worden aangetoond dat zijn verzamelinkomen in 2004 beneden één van de in de artikel 13 genoemde bedragen is komen te vallen, geldt het verzamelinkomen in 2005 als maatstaf.   
+2.  Indien door de ondernemer niet kan worden aangetoond dat zijn verzamelinkomen in 2004 beneden één van de in de artikel 13 genoemde bedragen is komen te vallen, geldt het verzamelinkomen in 2005 als maatstaf.  
 
 ### Artikel  15  
+Materieel uitgewerkt per 16-12-2006 
 
-De verschuldigde heffing kan in uitzonderlijke gevallen worden verminderd of kwijtgescholden, indien naar het oordeel van de voorzitter strikte toepassing van de heffingsverordening tot een voor de betrokken ondernemer onredelijk resultaat leidt.  
+De verschuldigde heffing kan in uitzonderlijke gevallen worden verminderd of kwijtgescholden, indien naar het oordeel van de voorzitter strikte toepassing van de heffingsverordening tot een voor de betrokken ondernemer onredelijk resultaat leidt. 
 
 ### Artikel  16  
+Materieel uitgewerkt per 16-12-2006 
 
 1.  Vermindering als bedoeld in artikel 13 of artikel 15 wordt slechts verleend op aanvraag.   
 2.  Een aanvraag dient binnen zes weken te worden ingediend, nadat de heffing is opgelegd.   
@@ -208,27 +236,33 @@ c. de dagtekening en het registratie- en notanummer van de heffingsnota waarop d
 
 d. de gronden van de aanvraag;  
 
-e. een aanduiding van de beschikking die wordt gevraagd.     
+e. een aanduiding van de beschikking die wordt gevraagd.    
 
 ### Artikel  17  
+Materieel uitgewerkt per 16-12-2006 
 
-Indien door het verstrekken van onjuiste of onvoldoende gegevens ten onrechte vermindering op grond van artikel 13 of 15 is verleend, wordt de beschikking op de aanvraag om vermindering ingetrokken.  
+Indien door het verstrekken van onjuiste of onvoldoende gegevens ten onrechte vermindering op grond van artikel 13 of 15 is verleend, wordt de beschikking op de aanvraag om vermindering ingetrokken. 
 
 ### §  7  
 
 ####Overige bepalingen en slotbepaling
 
-### Artikel  18  
+Materieel uitgewerkt per 16-12-2006 
 
-De voorzitter neemt de krachtens deze verordening te nemen besluiten, met uitzondering van het besluit voortvloeiende uit artikel 5, lid 4.  
+### Artikel  18  
+Materieel uitgewerkt per 16-12-2006 
+
+De voorzitter neemt de krachtens deze verordening te nemen besluiten, met uitzondering van het besluit voortvloeiende uit artikel 5, lid 4. 
 
 ### Artikel  19  
+Materieel uitgewerkt per 16-12-2006 
 
-Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad Bedrijfsorganisatie.  
+Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad Bedrijfsorganisatie. 
 
 ### Artikel  20  
+Materieel uitgewerkt per 16-12-2006 
 
-Deze verordening wordt aangehaald als: Heffingsverordening Hoofdbedrijfschap Detailhandel 2006.  
+Deze verordening wordt aangehaald als: Heffingsverordening Hoofdbedrijfschap Detailhandel 2006. 
 Deze verordening zal worden afgekondigd in het Verordeningenblad Bedrijfsorganisatie.   
 
 Den Haag 

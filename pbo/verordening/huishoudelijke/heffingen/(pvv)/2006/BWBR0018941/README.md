@@ -7,11 +7,14 @@ Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../..
 
 Gezien de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md);
 Besluit:     
-### §  1  
+### § 1  
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 01-01-2007 
+
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2007 
 
 Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md) en verstaat voorts onder:  
 
@@ -22,14 +25,17 @@ Deze verordening neemt over de begripsbepalingen van de [Verordening algemene be
 | c.  | derde land  | :  | staat, niet zijnde een lidstaat;  |
 | d.  | omzet  | :  | omzet behaald met de onderneming over het kalenderjaar dat voorafgaat aan het tijdvak waarover wordt geheven;  |
 | e.  | onderneming in de vleesindustrie  | :  | slachterij, uitsnijderij of voorverpakker van vlees, uitgezonderd de onderneming waarvan de totale loonsom van het personeel dat betrokken is bij het slachten, uitsnijden of voorverpakken van vlees minder bedraagt dan € 107.672,- per jaar;  |
-| f.  | loonsom  | :  | de som van de brutolonen van de werknemers van een onderneming, als bedoeld in kolom 6 van de model loonstaat 2005 van de Belastingdienst, vermeerderd met het totaal van betaalde vergoedingen voor inleen- en uitzendarbeid volgens factuur, exclusief B.T.W.;  |
+|f. |loonsom |: |de som van de brutolonen van de werknemers van een onderneming, als bedoeld in kolom 6 van de model loonstaat 2005 van de Belastingdienst, vermeerderd met het totaal van betaalde vergoedingen voor inleen- en uitzendarbeid volgens factuur, exclusief B.T.W.; |
 | g.  | f.t.e.  | :  | fulltime-equivalent van de werknemer waarbij de fulltime-equivalent gemiddeld 36 uur per week bedraagt.  |
 
-### §  2  
+### § 2  
 
 ####Slacht en export van vee
 
+Materieel uitgewerkt per 01-01-2007 
+
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2007 
 
 1.  De ondernemer die in het jaar 2006 één of meer dieren slacht of doet slachten, dan wel uitvoert, is aan het productschap ter dekking van zijn huishoudelijke uitgaven over die dieren een heffing verschuldigd.   
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt: 
@@ -57,13 +63,16 @@ a. in het handelsverkeer brengt, dan wel
 
 b. naar derde landen uitvoert, dan wel  
 
-c. aflevert aan een (rechts)persoon wiens bedrijf niet in Nederland is gevestigd, ongeacht of de ontvangst van die dieren door deze (rechts-)persoon in Nederland plaatsvindt.     
+c. aflevert aan een (rechts)persoon wiens bedrijf niet in Nederland is gevestigd, ongeacht of de ontvangst van die dieren door deze (rechts-)persoon in Nederland plaatsvindt.    
 
-### §  3  
+### § 3  
 
 ####Handel in vee
 
+Materieel uitgewerkt per 01-01-2007 
+
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2007 
 
 1.  De ondernemer die een onderneming drijft volgens de indeling als bedoeld in het tweede lid, is aan het productschap ter dekking van zijn huishoudelijke uitgaven een heffing voor het kalenderjaar 2006 verschuldigd op voet van het bepaalde in de leden 4, 5 en 6.   
 2. 
@@ -120,29 +129,35 @@ b. Als in de onderneming werkzame personen als bedoeld in het eerste onderdeel w
 | 20 of meer personen werkzaam in de onderneming  | :  | € 749,--  |
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-01-2007 
 
-De ondernemer die een onderneming drijft waarin de handel in embryo's en sperma van eenhoevige dieren, runderen en varkens wordt uitgeoefend, is voor het jaar 2006 een heffing van € 216,- verschuldigd ter dekking van de huishoudelijke uitgaven van het productschap.  
+De ondernemer die een onderneming drijft waarin de handel in embryo's en sperma van eenhoevige dieren, runderen en varkens wordt uitgeoefend, is voor het jaar 2006 een heffing van € 216,- verschuldigd ter dekking van de huishoudelijke uitgaven van het productschap. 
 
 ### Artikel  5  
+Materieel uitgewerkt per 01-01-2007 
 
 1.  Aan de ondernemer bedoeld in de artikelen 3 en 4, die contributie heeft betaald als lid of indirect lid van een overeenkomstig het derde lid aangewezen ondernemersorganisatie, wordt op zijn verzoek een aftrek toegestaan op het totaal aan heffing, met uitzondering van de toeslagheffing, verschuldigde bedrag.   
 2.  De aftrek beloopt 50% van het bedrag, dat de ondernemer als contributie aan de betreffende ondernemersorganisatie over het betrokken kalenderjaar heeft betaald tot ten hoogste de helft van hetgeen hij in totaal is verschuldigd aan heffing over datzelfde betrokken kalenderjaar.   
 3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het Besluit beleidsregels Bestuurskamer van de Sociaal-Economische Raad.   
-4.  Van het op grond van de indeling van de heffingsplichtige onderneming in een of meer van de in artikel 3, tweede lid, genoemde groepen, als heffing te betalen bedrag, wordt slechts aftrek als bedoeld in het eerste lid van dit artikel toegestaan ten aanzien van die groep of groepen, waarin de betreffende ondernemersorganisatie waaraan contributie is betaald, werkzaam is.   
+4.  Van het op grond van de indeling van de heffingsplichtige onderneming in een of meer van de in artikel 3, tweede lid, genoemde groepen, als heffing te betalen bedrag, wordt slechts aftrek als bedoeld in het eerste lid van dit artikel toegestaan ten aanzien van die groep of groepen, waarin de betreffende ondernemersorganisatie waaraan contributie is betaald, werkzaam is.  
 
 ### Artikel  6  
+Materieel uitgewerkt per 01-01-2007 
 
 1.  Indien een onderneming vóór 1 maart van het betrokken kalenderjaar heeft opgehouden te bestaan is de heffing en de toeslagheffing over dat kalenderjaar niet verschuldigd.   
 2.  Indien een onderneming na 30 juni van het betrokken kalenderjaar, doch vóór 1 november van dat jaar is aangevangen, is 50% van het volgens de voorgaande artikelen te berekenen heffingsbedrag verschuldigd.   
-3.  Indien een onderneming na 31 oktober van het betrokken kalenderjaar is aangevangen, is de heffing en de toeslagheffing over dat kalenderjaar niet verschuldigd.   
+3.  Indien een onderneming na 31 oktober van het betrokken kalenderjaar is aangevangen, is de heffing en de toeslagheffing over dat kalenderjaar niet verschuldigd.  
 
-### §  4  
+### § 4 
 
 ####Vleeswarenindustrie
 
-### Artikel  7  
+Materieel uitgewerkt per 01-01-2007 
 
-1.  De ondernemer die een onderneming drijft waarin de vleeswaren- en vleesconservenindustrie of de baconindustrie wordt uitgeoefend, is over het kalenderjaar 2006 een heffing op basis van de omzet verschuldigd volgens het navolgende tarief:  
+###Artikel 7 
+Materieel uitgewerkt per 01-01-2007 
+
+1. De ondernemer die een onderneming drijft waarin de vleeswaren- en vleesconservenindustrie of de baconindustrie wordt uitgeoefend, is over het kalenderjaar 2006 een heffing op basis van de omzet verschuldigd volgens het navolgende tarief:  
 
 | --- | --- |
 |:---|:---|
@@ -159,30 +174,37 @@ De ondernemer die een onderneming drijft waarin de handel in embryo's en sperma 
 | Vanaf € 27.000.001,– tot en met € 50.000.000,– :  | € 10.379,–  |
 | meer dan € 50.000.000,– :  | € 13.662,–  |
 
-2.  Voor de ondernemer die na 1 januari 2006 heeft aangevangen een onderneming te drijven als bedoeld in het eerste lid, bedraagt de heffing € 467,– .   
+2. Voor de ondernemer die na 1 januari 2006 heeft aangevangen een onderneming te drijven als bedoeld in het eerste lid, bedraagt de heffing € 467,– .
 
-### Artikel  8  
+### Artikel 8  
+Materieel uitgewerkt per 01-01-2007 
 
-1.  Aan de ondernemer, bedoeld in artikel 7, die contributie heeft betaald als lid of indirect lid van een overeenkomstig het derde lid aangewezen ondernemersorganisatie, wordt op zijn verzoek een aftrek toegestaan op het totaal aan heffing verschuldigde bedrag ingevolge deze verordening en de Verordening bestemmingsheffingen vleeswarenindustrie (PVV) 2006.   
-2.  De aftrek beloopt 50% van het bedrag, dat de ondernemer als contributie aan de betreffende ondernemersorganisatie over het betrokken kalenderjaar heeft betaald tot ten hoogste de helft van hetgeen hij in totaal is verschuldigd aan heffing, op grond van de in het eerste lid genoemde heffingsverordeningen, over datzelfde betrokken kalenderjaar.   
-3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het Besluit beleidsregels Bestuurskamer van de Sociaal-Economische Raad.   
+1. Aan de ondernemer, bedoeld in artikel 7, die contributie heeft betaald als lid of indirect lid van een overeenkomstig het derde lid aangewezen ondernemersorganisatie, wordt op zijn verzoek een aftrek toegestaan op het totaal aan heffing verschuldigde bedrag ingevolge deze verordening en de Verordening bestemmingsheffingen vleeswarenindustrie (PVV) 2006. 
+2. De aftrek beloopt 50% van het bedrag, dat de ondernemer als contributie aan de betreffende ondernemersorganisatie over het betrokken kalenderjaar heeft betaald tot ten hoogste de helft van hetgeen hij in totaal is verschuldigd aan heffing, op grond van de in het eerste lid genoemde heffingsverordeningen, over datzelfde betrokken kalenderjaar. 
+3. De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het Besluit beleidsregels Bestuurskamer van de Sociaal-Economische Raad. 
 
-### §  5  
+### § 5  
 
 ####Overige bepalingen
 
+Materieel uitgewerkt per 01-01-2007 
+
 ### Artikel  9  
+Materieel uitgewerkt per 01-01-2007 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md).  
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md). 
 
-### §  6  
+### § 6  
 
 ####Slotbepalingen
 
+Materieel uitgewerkt per 01-01-2007 
+
 ### Artikel  10  
+Materieel uitgewerkt per 01-01-2007 
 
 1.  Deze verordening wordt aangehaald als: Verordening huishoudelijke heffingen (PVV) 2006.   
-2.  Deze verordening treedt in werking met ingang van 1 januari 2006. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2006, dan treedt zij in werking op de tweede dag na publicatie en werkt zij terug tot en met 1 januari 2006.   
+2.  Deze verordening treedt in werking met ingang van 1 januari 2006. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2006, dan treedt zij in werking op de tweede dag na publicatie en werkt zij terug tot en met 1 januari 2006.  
 
 Zoetermeer 
 26 oktober 2005   

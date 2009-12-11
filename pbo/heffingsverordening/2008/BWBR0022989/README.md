@@ -9,7 +9,10 @@ Besluit:
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 01-01-2009 
+
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2009 
 
 1.  In deze verordening wordt verstaan onder:  
 
@@ -45,7 +48,7 @@ Besluit:
 | bb.  | nonnetjes:  | schelpdieren van de soort Macoma balthica;  |
 | cc.  | mosselen:  | schelpdieren van de soorten Mytilus Spp. of de soorten Perna Spp.;  |
 | dd.  | tarra:  | alles wat niet tot de mossel behoort zoals losse schelpen, zeesterren, slikmosselen, slippers, pokken, kluiten modder, stenen, dode of kapotte mosselen als ook zaadmosselen met een lengte van minder dan 45 mm;  |
-| ee.  | ton:  | een inhoudsmaat van 1/m <sup>3</sup>;  |
+| ee.  | ton:  | een inhoudsmaat van 1/m<sup>3</sup>;  |
 | ff.  | aanvoeren:  | het als eerste eigenaar voor de eerste keer of het met behulp van de spanvisserij aan land brengen van vis;  |
 | gg.  | aanvoerder:  | de ondernemer, die met een in Nederland geregistreerd vissersvaartuig of op andere wijze vis aanvoert;  |
 | hh.  | buitenlandse aanvoerder:  | degene die met een in het buitenland geregistreerde kotter in Nederland aanvoert;  |
@@ -60,24 +63,31 @@ Besluit:
 | qq.  | vergunning:  | de vergunning die verleend is op grond van de [Beschikking visserij, visserijzone, zeegebied en kustwateren](../../../../ministeriele-regeling/beschikking/visserij/visserijzone/zeegebied/en/kustwateren/BWBR0003150/README.md) en geldig is of is geweest in de periode van 1 januari 2008 tot en met 31 december 2008.  |
 
 2.  Voor de toepassing van het bepaalde bij of krachtens deze verordening vindt het aanvoeren – voor zover dit geschiedt met een vaartuig – plaats op het tijdstip waarop het vaartuig direct of indirect verbinding met de wal heeft verkregen.   
-3.  Indien een vaartuig mosselen op een verwaterplaats stort vóórdat het vaartuig direct of indirect verbinding met de wal heeft verkregen, vindt het aanvoeren van mosselen, in afwijking van het bepaalde in het tweede lid, plaats op het tijdstip waarop de mosselen worden gestort op een verwaterplaats.   
+3.  Indien een vaartuig mosselen op een verwaterplaats stort vóórdat het vaartuig direct of indirect verbinding met de wal heeft verkregen, vindt het aanvoeren van mosselen, in afwijking van het bepaalde in het tweede lid, plaats op het tijdstip waarop de mosselen worden gestort op een verwaterplaats.  
 
 ### §  2  
 
 ####Heffingsplicht
 
+Materieel uitgewerkt per 01-01-2009 
+
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2009 
 
 1.  Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2008 tot en met 31 december 2008 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikelen 3, 3a, 4, 4a, 5, 6 en 7 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) is bepaald.   
-2.  Indien een heffingsplichtige ondernemer gegevens die hem zijn gevraagd krachtens de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) ten behoeve van de onderhavige verordening of bij of krachtens de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) ten behoeve van het vaststellen en opleggen van de verschuldigde heffingen, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, welke heffing in dat geval verhoogd word met € 110,– in verband met administratiekosten.   
+2.  Indien een heffingsplichtige ondernemer gegevens die hem zijn gevraagd krachtens de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) ten behoeve van de onderhavige verordening of bij of krachtens de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) ten behoeve van het vaststellen en opleggen van de verschuldigde heffingen, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, welke heffing in dat geval verhoogd word met € 110,– in verband met administratiekosten.  
 
 ### §  3  
 
 ####Grondslag en hoogte heffingen
 
+Materieel uitgewerkt per 01-01-2009 
+
 ### Artikel  3  
 
 ####(aanvoerheffing)
+
+Materieel uitgewerkt per 01-01-2009 
 
 1.  De heffing als bedoeld in artikel 2 bedraagt voor: 
 
@@ -85,11 +95,11 @@ a. de aanvoerder van zeevis:
 
 1°. 2,55 promille van de waarde van de door hem aangevoerde zeevis, voor zover het betreft met een kotter aangevoerde zeevis en met uitzondering van garnalen;  
 
-2°. 1,95 promille van de waarde van de door hem aangevoerde zeevis, voor zover het betreft met een trawler aangevoerde zeevis en met uitzondering van garnalen;    
+2°. 1,95 promille van de waarde van de door hem aangevoerde zeevis, voor zover het betreft met een trawler aangevoerde zeevis en met uitzondering van garnalen;     
 
 b. de aanvoerder van vis verkregen door uitoefening van de binnenvisserij: 
 
-1°. 3,81 promille van de waarde van de door hem aangevoerde vis welke is verkregen door uitoefening van de IJsselmeervisserij;  
+1°. 3,81 promille van de waarde van de door hem aangevoerde vis welke is verkregen door uitoefening van de IJsselmeervisserij;   
 
 2°. € 110,– per kalenderjaar wegens het aanvoeren van vis welke is verkregen door uitoefening van de binnenvisserij in de zin van [artikel 1, vierde lid onder d, van de Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md) – de IJsselmeervisserij hieronder niet begrepen;    
 
@@ -113,7 +123,7 @@ e. de ondernemer die kweekvis kweekt:
 
 1°. € 0,007 per kilogram door hem gekocht voer bestemd voor forel;  
 
-2°. € 0,006 per kilogram door hem gekocht voer bestemd voor meerval;  
+2°.  € 0,006 per kilogram door hem gekocht voer bestemd voor meerval;  
 
 3°. € 0,013 per kilogram door hem gekocht voer bestemd voor paling;  
 
@@ -122,17 +132,21 @@ e. de ondernemer die kweekvis kweekt:
 5°. € 0,006 per kilogram door hem gekocht voer bestemd voor tilapia;    
 
 f. de aanvoerder van garnalen: € 0,0070 per kilogram aangevoerde garnalen die door of namens een medewerker van het productschap zijn gecontroleerd op de indeling in de bij of krachtens de verordening (EG) nr. 2406/96 voorgeschreven versheidsklassen en grootteklassen voor garnalen voor eerste verhandeling.     
-2.  Bij de bepaling van de waarde van de aangevoerde zeevis als bedoeld in het eerste lid, onder a2°, word het deel van de aangevoerde zeevis, dat fysiek niet in Nederland komt, buiten beschouwing gelaten.   
+2.  Bij de bepaling van de waarde van de aangevoerde zeevis als bedoeld in het eerste lid, onder a2°, word het deel van de aangevoerde zeevis, dat fysiek niet in Nederland komt, buiten beschouwing gelaten.  
 
 ### Artikel  3a  
 
 ####(afslagheffing)
 
-De heffing als bedoeld in artikel 2 bedraagt voor een afslag 0,204 promille van het aankoopbedrag van de door tussenkomst van de afslag verhandelde vis en visproducten met uitzondering van mosselen.  
+Materieel uitgewerkt per 01-01-2009 
+
+De heffing als bedoeld in artikel 2 bedraagt voor een afslag 0,204 promille van het aankoopbedrag van de door tussenkomst van de afslag verhandelde vis en visproducten met uitzondering van mosselen. 
 
 ### Artikel  4  
 
 ####(aankoopheffing)
+
+Materieel uitgewerkt per 01-01-2009 
 
 De heffing bedoeld in artikel 2 bedraagt voor: 
 
@@ -146,11 +160,13 @@ d. de ondernemer die mosselen koopt van een aanvoerder: € 0,40 per door hem v
 
 e. de ondernemer die kweekvis koopt van een ondernemer, als bedoeld in artikel 3, eerste lid onder e: 2,63 promille van het aankoopbedrag van de door hem van een kweker gekochte kweekvis;  
 
-f. de ondernemer die garnalen koopt van een ondernemer, als bedoeld in artikel 3, eerste lid onder f: € 0,0026 per kilogram garnalen.    
+f. de ondernemer die garnalen koopt van een ondernemer, als bedoeld in artikel 3, eerste lid onder f: € 0,0026 per kilogram garnalen.   
 
 ### Artikel  4a  
 
 ####(heffing oesters en creuses)
+
+Materieel uitgewerkt per 01-01-2009 
 
 1.  De heffing als bedoeld in artikel 2 bedraagt voor: 
 
@@ -164,30 +180,32 @@ c. de ondernemer die in het bezit is van een visvergunning voor vrije gronden; �
 a. vrijgesteld van de heffing als bedoeld in artikel 4a, eerste lid, onder c, onder de voorwaarde dat het bedrag aan heffing op grond van deze bepaling lager is dan het bedrag aan heffing op grond van artikel 4a, eerste lid, onder b;  
 
 b. vrijgesteld van de heffing als bedoeld in artikel 4a, eerste lid, onder b, onder de voorwaarde dat het bedrag aan heffing op grond van deze bepaling lager is dan het bedrag aan heffing op grond van artikel 4a, eerste lid, onder c.     
-3.  De in lid 1, onder a, van dit artikel bedoelde omzet per oesterseizoen wordt berekend volgens de volgende formule: (P-(P <sub>i</sub> +P <sub>w</sub>))xF <sub>p</sub> +(C-C <sub>w</sub>)xF <sub>c</sub>. Daarbij staat: 
+3.  De in lid 1, onder a, van dit artikel bedoelde omzet per oesterseizoen wordt berekend volgens de volgende formule: (P-(P<sub>i</sub>+P<sub>w</sub>))xF<sub>p</sub>+(C-C<sub>w</sub>)xF<sub>c</sub>. Daarbij staat: 
 
 – P voor: het totaal aantal platte oesters, dat de ondernemer in het afgelopen oesterseizoen heeft verhandeld;  
 
-– P <sub>i</sub> voor: het totaal aantal platte oesters, dat de ondernemer in het afgelopen oesterseizoen heeft ingekocht in het buitenland;  
+– P<sub>i</sub> voor: het totaal aantal platte oesters, dat de ondernemer in het afgelopen oesterseizoen heeft ingekocht in het buitenland;  
 
-– P <sub>w</sub> voor: het totaal aantal platte oesters, waarvan de ondernemer kan aantonen dat hij deze in het afgelopen oesterseizoen heeft gekocht van een collega-handelaar;  
+– P<sub>w</sub> voor: het totaal aantal platte oesters, waarvan de ondernemer kan aantonen dat hij deze in het afgelopen oesterseizoen heeft gekocht van een collega-handelaar;  
 
-– (P-(P <sub>i</sub> +P <sub>w</sub>)) voor: het totaal aantal platte oesters, dat meetelt voor de bepaling van de omzet in platte oesters in het afgelopen oesterseizoen;  
+– (P-(P<sub>i</sub>+P<sub>w</sub>)) voor: het totaal aantal platte oesters, dat meetelt voor de bepaling van de omzet in platte oesters in het afgelopen oesterseizoen;  
 
-– F <sub>p</sub> voor: het forfaitaire bedrag van € 0,32, waarmee het aantal oesters dat meetelt voor de bepaling van de omzet in het laatste oesterseizoen in platte oesters, vermenigvuldigd moet worden;  
+– F<sub>p</sub> voor: het forfaitaire bedrag van € 0,32, waarmee het aantal oesters dat meetelt voor de bepaling van de omzet in het laatste oesterseizoen in platte oesters, vermenigvuldigd moet worden;  
 
 – C voor: het aantal creuses, dat een handelaar in het afgelopen oesterseizoen heeft verhandeld;  
 
-– C <sub>w</sub> voor: het aantal creuses, waarvan de ondernemer kan aantonen dat hij deze in het afgelopen oesterseizoen gekocht heeft van een collega-ondernemer;  
+– C<sub>w</sub> voor: het aantal creuses, waarvan de ondernemer kan aantonen dat hij deze in het afgelopen oesterseizoen gekocht heeft van een collega-ondernemer;  
 
-– (C-C <sub>w</sub>)) voor: het totaal aantal creuses, dat meetelt voor de bepaling van de omzet in creuses in het afgelopen oesterseizoen;  
+– (C-C<sub>w</sub>)) voor: het totaal aantal creuses, dat meetelt voor de bepaling van de omzet in creuses in het afgelopen oesterseizoen;  
 
-– F <sub>c</sub>: het forfaitaire bedrag van € 0,10, waarmee het totaal aantal creuses, dat meetelt voor de bepaling van de omzet in creuses in het afgelopen oesterseizoen, vermenigvuldigd moet worden     
-4.  De heffing als bedoeld in het eerste lid, onder b en c, bedraagt per kalenderjaar gezamenlijk maximaal € 572,–.   
+– F<sub>c</sub>: het forfaitaire bedrag van € 0,10, waarmee het totaal aantal creuses, dat meetelt voor de bepaling van de omzet in creuses in het afgelopen oesterseizoen, vermenigvuldigd moet worden     
+4.  De heffing als bedoeld in het eerste lid, onder b en c, bedraagt per kalenderjaar gezamenlijk maximaal € 572,–.  
 
 ### Artikel  5  
 
 ####(handelsheffing)
+
+Materieel uitgewerkt per 01-01-2009 
 
 1.  De inkoop is onderhevig aan een heffing als bedoeld in artikel 2.   
 2.  De heffing als bedoeld in het eerste lid bedraagt voor het inkoopbedrag in een kalenderjaar: 
@@ -206,36 +224,45 @@ b. vis of uit vis verkregen producten be- of verwerkt, met uitzondering van poot
 7.  Vis en visproducten zijn eenmalig onderhevig aan een heffing als bedoeld in het eerste lid. Op het inkoopbedrag, als bedoeld in het tweede en vijfde lid van dit artikel, dient derhalve het inkoopbedrag waarover reeds een heffing als bedoeld in het eerste lid van dit artikel is opgelegd, in mindering te worden gebracht.   
 8.  De ondernemer, die meent dat het zesde of zevende lid van dit artikel van toepassing is en hier een beroep op doet, levert hiervan zelf schriftelijk het bewijs.   
 9.  De heffing als bedoeld in het eerste lid kan, al dan niet na toepassing van het vorige lid, in enig kalenderjaar niet meer dan € 43.200,– bedragen.   
-10.  Indien voor een ondernemer het maximumbedrag, als bedoeld in het negende lid, is toegepast, zijn alle overige ondernemers die behoren tot dezelfde fiscale eenheid geen heffing als bedoeld in het eerste lid verschuldigd.   
+10.  Indien voor een ondernemer het maximumbedrag, als bedoeld in het negende lid, is toegepast, zijn alle overige ondernemers die behoren tot dezelfde fiscale eenheid geen heffing als bedoeld in het eerste lid verschuldigd.  
 
 ### Artikel  6  
 
 ####(detailhandelsheffing)
 
+Materieel uitgewerkt per 01-01-2009 
+
 1.  De heffing als bedoeld in artikel 2 bedraagt voor een kleinhandelaar € 67,00 per verkoopunt per kalenderjaar.   
 2.  Onder verkooppunt als bedoeld in het eerste lid, word onder meer verstaan een viswinkel, een webwinkel, een viskraam of een visverkoopwagen.   
-3.  De ondernemer die meent dat hij in aanmerking komt voor een gedeeltelijke vrijstelling van het eerste lid, als bedoeld in artikel 11, tweede lid, dient dit schriftelijk te bewijzen.   
+3.  De ondernemer die meent dat hij in aanmerking komt voor een gedeeltelijke vrijstelling van het eerste lid, als bedoeld in artikel 11, tweede lid, dient dit schriftelijk te bewijzen.  
 
 ### Artikel  7  
 
 ####(be- en verwerkersheffing)
 
-De heffing als bedoeld in artikel 2 bedraagt voor een be- of verwerker € 204,00 per kalenderjaar.  
+Materieel uitgewerkt per 01-01-2009 
+
+De heffing als bedoeld in artikel 2 bedraagt voor een be- of verwerker € 204,00 per kalenderjaar. 
 
 ### §  4  
 
 ####Vaststelling heffingen
 
+Materieel uitgewerkt per 01-01-2009 
+
 ### Artikel  8  
+Materieel uitgewerkt per 01-01-2009 
 
 1.  De waarde van de aangevoerde vis, bedoeld in artikel 3, eerste lid onderdeel a en onderdeel b, onder 1°, wordt vastgesteld overeenkomstig het bepaalde in de volgende leden.   
 2.  Indien de aangevoerde vis door tussenkomst van een afslag is verhandeld geldt als waarde van de vis de op de afslag gemaakte bruto besomming.   
 3.  Indien de aangevoerde vis, bedoeld in artikel 3, eerste lid onderdeel a, onder 1°, en onderdeel b, onder 1°, zonder tussenkomst van een afslag is verhandeld geldt als waarde van de vis de door de koper, voor de aan hem verkochte vis, betaalde koopsom.   
-4.  Indien de aangevoerde vis, bedoeld in artikel 3, eerste lid onderdeel a, onder 2°, zonder tussenkomst van een afslag is verhandeld geldt als waarde van de vis 70% van de door de koper, voor de aan hem verkochte vis, betaalde koopsom.   
+4.  Indien de aangevoerde vis, bedoeld in artikel 3, eerste lid onderdeel a, onder 2°, zonder tussenkomst van een afslag is verhandeld geldt als waarde van de vis 70% van de door de koper, voor de aan hem verkochte vis, betaalde koopsom.  
 
 ### Artikel  9  
 
 ####(forfaitaire waarden schelpdieren)
+
+Materieel uitgewerkt per 01-01-2009 
 
 1.  De waarde van de aangevoerde kokkels, spisula, zwaardscheden en mesheften, en nonnetjes bedoeld in artikel 3, eerste lid onderdeel c, onder 1°, wordt vastgesteld overeenkomstig het bepaalde in de volgende leden.   
 2.  Indien de aangevoerde kokkels gekookt zijn geldt als waarde van de kokkels het forfaitaire bedrag van € 1,75 vermenigvuldigd met de hoeveelheid aangevoerde kokkels uitgedrukt in kilogram.   
@@ -246,15 +273,17 @@ De heffing als bedoeld in artikel 2 bedraagt voor een be- of verwerker € 204,
 7.  Indien de aangevoerde zwaardscheden en mesheften gekookt zijn geldt als waarde van de zwaadscheden en mesheften het forfaitaire bedrag van € 2,40 vermenigvuldigd met de hoeveelheid aangevoerde zwaardscheden en mesheften uitgedrukt in kilogram.   
 8.  Indien de aangevoerde zwaardscheden en mesheften niet gekookt zijn geldt als waarde van de zwaardscheden en mesheften het forfaitaire bedrag van € 0,80 vermenigvuldigd met de hoeveelheid aangevoerde zwaardscheden en mesheften uitgedrukt in kilogram.   
 9.  Indien de aangevoerde nonnetjes gekookt zijn geldt als waarde van de nonnetjes het forfaitaire bedrag van € 0,75 vermenigvuldigd met de hoeveelheid aangevoerde nonnetjes uitgedrukt in kilogram.   
-10.  Indien de aangevoerde nonnetjes niet gekookt zijn geldt als waarde van de nonnetjes het forfaitaire bedrag van € 0,10 vermenigvuldigd met de hoeveelheid aangevoerde nonnetjes uitgedrukt in kilogram.   
+10.  Indien de aangevoerde nonnetjes niet gekookt zijn geldt als waarde van de nonnetjes het forfaitaire bedrag van € 0,10 vermenigvuldigd met de hoeveelheid aangevoerde nonnetjes uitgedrukt in kilogram.  
 
 ### Artikel  10  
+Materieel uitgewerkt per 01-01-2009 
 
 1.  Als aankoopbedrag van de al dan niet door tussenkomst van een afslag gekochte vis of kweekvis, bedoeld in de artikelen 3a en 4, onderdelen a, b en e, geldt de door de koper, voor de door hem gekochte vis, betaalde koopsom.   
 2.  Als aankoopbedrag van de al dan niet door tussenkomst van een afslag gekochte kokkels of spisula of zwaardscheden en mesheften of nonnetjes, bedoeld in artikel 4, onder c, geldt de waarde van de aangevoerde kokkels respectievelijk spisula respectievelijk zwaardscheden en mesheften respectievelijk nonnetjes zoals vastgesteld overeenkomstig het bepaalde in artikel 9.   
-3.  Indien de garnalen in gepelde toestand word aangevoerd of in gepelde toestand worden gekocht van een aanvoerder, al dan niet door tussenkomst van een afslag, wordt het aantal aangevoerde of gekochte kilogrammen ter bepaling van de verschuldigde heffing(en) vermenigvuldigd met een factor 3.   
+3.  Indien de garnalen in gepelde toestand word aangevoerd of in gepelde toestand worden gekocht van een aanvoerder, al dan niet door tussenkomst van een afslag, wordt het aantal aangevoerde of gekochte kilogrammen ter bepaling van de verschuldigde heffing(en) vermenigvuldigd met een factor 3.  
 
 ### Artikel  11  
+Materieel uitgewerkt per 01-01-2009 
 
 1.  De secretaris kan, namens het bestuur, beslissen op een verzoek van een ondernemer om via de Mosselveiling te Yerseke betaalde heffingen, als bedoeld in artikel 4 binnen één week te restitueren als deze ondernemer in ieder geval aan de volgende voorwaarden voldoet: 
 
@@ -265,15 +294,18 @@ b. de ondernemer brengt de partij mosselen naar het ponton van de Mosselveiling 
 c. de ondernemer voor de betreffende partij mosselen de gegevens van de black box ter beschikking stelt indien de medewerkers van het productschapskantoor te Yerseke hierom verzoeken;  
 
 d. de ondernemer andere gevraagde gegevens ter beschikking stelt of meewerkt aan nader onderzoek indien de secretaris hierom verzoekt.     
-2.  De secretaris kan, namens het bestuur, beslissen op een verzoek van een kleinhandelaar om de door hem totaal verschuldigde heffing(en) op grond van artikel 6 en de betreffende bestemmingsheffingsverordeningen te verlagen naar € 75,– indien hij kan aantonen dat de totaal verschuldigde heffing(en) op grond van de onderhavige verordening en de bestemmingsheffingsverordeningen tezamen meer is dan 1% van de omzet.   
+2.  De secretaris kan, namens het bestuur, beslissen op een verzoek van een kleinhandelaar om de door hem totaal verschuldigde heffing(en) op grond van artikel 6 en de betreffende bestemmingsheffingsverordeningen te verlagen naar € 75,– indien hij kan aantonen dat de totaal verschuldigde heffing(en) op grond van de onderhavige verordening en de bestemmingsheffingsverordeningen tezamen meer is dan 1% van de omzet.  
 
 ### §  5  
 
 ####Slotbepalingen
 
-### Artikel  12  
+Materieel uitgewerkt per 01-01-2009 
 
-Deze verordening, welke kan word aangehaald als Heffingsverordening 2008, treedt in werking met ingang van 1 januari 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2007, treedt deze verordening in werking met ingang van de dag na de datum van uitgifte van het Verordeningenblad Bedrijfsorganisatie en werkt deze terug tot en met 1 januari 2008.  
+### Artikel  12  
+Materieel uitgewerkt per 01-01-2009 
+
+Deze verordening, welke kan word aangehaald als Heffingsverordening 2008, treedt in werking met ingang van 1 januari 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2007, treedt deze verordening in werking met ingang van de dag na de datum van uitgifte van het Verordeningenblad Bedrijfsorganisatie en werkt deze terug tot en met 1 januari 2008. 
 
 Rijswijk 
 4 oktober 2007   
