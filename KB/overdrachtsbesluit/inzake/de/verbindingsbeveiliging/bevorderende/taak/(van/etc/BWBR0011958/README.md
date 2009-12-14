@@ -11,11 +11,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De taak inhoudende het bevorderen van de beveiliging van verbindingen voor zover deze was opgedragen aan het Nationaal Bureau voor Verbindingsbeveiliging, wordt overgebracht van het Ministerie van Buitenlandse Zaken naar het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.  
+De taak inhoudende het bevorderen van de beveiliging van verbindingen voor zover deze was opgedragen aan het Nationaal Bureau voor Verbindingsbeveiliging, wordt overgebracht van het Ministerie van Buitenlandse Zaken naar het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. 
 
 ### Artikel  2  
 
-Binnen het kader van zijn wettelijke taak wordt de Binnenlandse Veiligheidsdienst belast met het uitvoeren van de in artikel 1 bedoelde taak.  
+Binnen het kader van zijn wettelijke taak wordt de Binnenlandse Veiligheidsdienst belast met het uitvoeren van de in artikel 1 bedoelde taak. 
 
 ### Artikel  3  
 
@@ -33,4 +33,4 @@ W. Kok
 de *zevenentwintigste* december 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

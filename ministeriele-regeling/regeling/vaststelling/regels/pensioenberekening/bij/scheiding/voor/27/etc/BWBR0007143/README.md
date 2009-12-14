@@ -3,20 +3,20 @@ Directoraat-Generaal Sociale Zekerheid
 ##Regeling van 23 december 1994 houdende vaststelling van regels als bedoeld in artikel 10 van de Wet verevening pensioenrechten bij scheiding, betreffende pensioenberekening bij scheiding voor 27 november 1981
 
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid, Handelende in overeenstemming met de Staatssecretaris van Justitie, de Minister van Binnenlandse Zaken en de Minister van Defensie;  
-Gelet op [artikel 10](../../../../../../../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md)[in verbinding met artikel 12, tweede en derde lid van de Wet verevening pensioenrechten bij scheiding](../../../../../../../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md);
+Gelet op [artikel 10](../../../../../../../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md) [in verbinding met artikel 12, tweede en derde lid van de Wet verevening pensioenrechten bij scheiding](../../../../../../../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md);
 
 Gezien het advies van de Verzekeringskamer;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
 Voor de toepassing van deze regeling wordt verstaan onder: 
 
-a. *wet:*[wet verevening pensioenrechten bij scheiding](../../../../../../../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md);  
+a.  *wet: * [wet verevening pensioenrechten bij scheiding](../../../../../../../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md);  
 
 b.  *pensioen zoals dat op de datum van ontvangst van de mededeling is bereikt:*  voor deelnemers: de tijdsevenredige pensioenaanspraak per de datum van ontvangst van de mededeling, voor gewezen deelnemers: het ingegane pensioen of de ten tijde van beëindiging van het deelnemerschap vastgestelde pensioenaanspraak vermeerderd met de eventueel daarna toegepaste verhogingen;  
 
-c. *tijdsevenredige aanspraak:* een overeenkomstig [artikel 8, tweede lid, van de Pensioen- en spaarfondsenwet](../../../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van de Pensioenwet, bepaalde pensioenaanspraak.    
+c. *tijdsevenredige aanspraak:* een overeenkomstig [artikel 8, tweede lid, van de Pensioen- en spaarfondsenwet](../../../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van de Pensioenwet, bepaalde pensioenaanspraak.   
 
 ### Artikel  2  
 
@@ -47,11 +47,11 @@ d. de datum waarop het deelnemerschap is geëindigd, waarbij voor de onder c. en
 
 ### Artikel  5  
 
-Deze regeling treedt in werking met ingang van 1 mei 1995.  
+Deze regeling treedt in werking met ingang van 1 mei 1995. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 's-Gravenhage, 
-23 december 1994.    
+23 december 1994.     
 
-De Staatssecretaris voornoemd, 
+De Staatssecretaris voornoemd,  
 R.L.O. Linschoten.      

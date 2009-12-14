@@ -11,7 +11,7 @@ Hebben goedgevonden en verstaan:
 
 ### Enig artikel  
 
-De zorg voor het consumentenkrediet, voor zover deze thans behoort tot de taak van Onze Minister van Economische Zaken, gaat, met uitzondering van de zorg voor schuldbemiddeling, met ingang van 1 mei 2001 over naar Onze Minister van Financiën.  
+De zorg voor het consumentenkrediet, voor zover deze thans behoort tot de taak van Onze Minister van Economische Zaken, gaat, met uitzondering van de zorg voor schuldbemiddeling, met ingang van 1 mei 2001 over naar Onze Minister van Financiën. 
 
 Onze Minister-President, Minister van Algemene Zaken, en Onze Ministers van Financiën en van Economische Zaken zijn belast met de uitvoering van dit besluit, dat in het Staatsblad zal worden geplaatst.   
 
@@ -25,4 +25,4 @@ W. Kok
 de *negenentwintigste* mei 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

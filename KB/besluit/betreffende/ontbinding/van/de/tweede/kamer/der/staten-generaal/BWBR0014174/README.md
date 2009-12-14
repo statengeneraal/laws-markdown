@@ -11,11 +11,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De Tweede Kamer der Staten-Generaal wordt ontbonden op donderdag 30 januari 2003 op een door de Voorzitter van de Tweede Kamer te bepalen tijdstip.  
+De Tweede Kamer der Staten-Generaal wordt ontbonden op donderdag 30 januari 2003 op een door de Voorzitter van de Tweede Kamer te bepalen tijdstip. 
 
 ### Artikel  2  
 
-De kandidaatstelling voor de verkiezing van de leden van de Tweede Kamer der Staten-Generaal vindt plaats op dinsdag 10 december 2002.  
+De kandidaatstelling voor de verkiezing van de leden van de Tweede Kamer der Staten-Generaal vindt plaats op dinsdag 10 december 2002. 
 
 ### Artikel  3  
 

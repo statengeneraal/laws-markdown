@@ -11,7 +11,7 @@ Hebben goedgevonden en verstaan:
 
 ### Enig artikel  
 
-De primaire verantwoordelijkheid voor de zorg voor het destructiebeleid, voor zover deze thans behoort tot de taak van Onze Minister van Volksgezondheid, Welzijn en Sport, gaat met ingang van 1 oktober 2001 over naar Onze Minister van Landbouw, Natuurbeheer en Visserij.  
+De primaire verantwoordelijkheid voor de zorg voor het destructiebeleid, voor zover deze thans behoort tot de taak van Onze Minister van Volksgezondheid, Welzijn en Sport, gaat met ingang van 1 oktober 2001 over naar Onze Minister van Landbouw, Natuurbeheer en Visserij. 
 
 Onze Minister-President, Minister van Algemene Zaken, en Onze Ministers van Volksgezondheid, Welzijn en Sport en van Landbouw, Natuurbeheer en Visserij zijn belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -25,4 +25,4 @@ W. Kok
 de *veertiende* augustus 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

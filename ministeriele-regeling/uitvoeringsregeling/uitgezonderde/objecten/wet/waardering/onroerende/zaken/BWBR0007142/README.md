@@ -2,7 +2,7 @@
 
 ##Uitvoeringsregeling uitgezonderde objecten Wet waardering onroerende zaken
 
-De Staatssecretaris van Financiën,  
+De Staatssecretaris van Financiën,   
 Handelende in overeenstemming met de Staatssecretaris van Binnenlandse Zaken A.G.M. van de Vondervoort;
 
 Gelet op [artikel 18, derde lid, van de Wet waardering onroerende zaken](../../../../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md);
@@ -30,17 +30,17 @@ f. waterverdedigings- en waterbeheersingswerken die worden beheerd door organen,
 
 g. onroerende zaken die in hoofdzaak zijn bestemd voor de openbare eredienst of voor het houden van openbare bezinningssamenkomsten van levensbeschouwelijke aard, een en ander met uitzondering van delen van zodanige onroerende zaken die dienen als woning;  
 
-h. werken die zijn bestemd voor de zuivering van riool- en ander afvalwater en die worden beheerd door organen, instellingen of diensten van publiekrechtelijke rechtspersonen, met uitzondering van de delen van zodanige werken die dienen als woning.     
-2.  Voor de toepassing van het eerste lid, onderdeel a, wordt onder landbouw verstaan landbouw in de zin van [artikel 312 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).   
+h. werken die zijn bestemd voor de zuivering van riool- en ander afvalwater en die worden beheerd door organen, instellingen of diensten van publiekrechtelijke rechtspersonen, met uitzondering van de delen van zodanige werken die dienen als woning.    
+2.  Voor de toepassing van het eerste lid, onderdeel a, wordt onder landbouw verstaan landbouw in de zin van [artikel 312 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).  
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van 1 januari 1995.  
+Deze regeling treedt in werking met ingang van 1 januari 1995. 
 
 ### Artikel  4  
 
-De regeling wordt aangehaald als: Uitvoeringsregeling uitgezonderde objecten Wet waardering onroerende zaken.  
+De regeling wordt aangehaald als: Uitvoeringsregeling uitgezonderde objecten Wet waardering onroerende zaken. 
 
 De 
 Staatssecretaris van Financiën, 
-W.A.Vermeend    
+W.A. Vermeend      

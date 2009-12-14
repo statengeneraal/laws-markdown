@@ -17,18 +17,18 @@ a. zij die krachtens de [Grondwet](../../../../../../wet/grondwet/BWBR0001840/RE
 
 b. de vermoedelijke opvolger van de Koning;  
 
-c. de Koning die afstand van het koningschap heeft gedaan.    
+c. de Koning die afstand van het koningschap heeft gedaan.   
 
 ### Artikel  2  
 
 1.  Lid van het koninklijk huis zijn eveneens de echtgenoten van hen die ingevolge artikel 1 het lidmaatschap van het koninklijk huis bezitten.   
-2.  Voor hen die het lidmaatschap van het koninklijk huis bezaten als echtgenote of echtgenoot, blijft dit lidmaatschap gedurende hun staat van weduwe of weduwnaar behouden, zolang de overleden echtgenote of echtgenoot bij leven ingevolge artikel 1 lid van het koninklijk huis zou zijn geweest.   
+2.  Voor hen die het lidmaatschap van het koninklijk huis bezaten als echtgenote of echtgenoot, blijft dit lidmaatschap gedurende hun staat van weduwe of weduwnaar behouden, zolang de overleden echtgenote of echtgenoot bij leven ingevolge artikel 1 lid van het koninklijk huis zou zijn geweest.  
 
 ### Artikel  3  
 
 1.  Lid van het koninklijk huis blijven zij die op het tijdstip van inwerkingtreding van deze wet meerderjarig lid zijn van het koninklijk huis en krachtens de [Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md) de Koning kunnen opvolgen. Zij behouden hun lidmaatschap zolang zij krachtens de [Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md) de Koning kunnen opvolgen.   
-2.  Lid blijven voorts de echtgenoten van hen die ingevolge het eerste lid het lidmaatschap van het koninklijk huis bezitten.   
-3.  Op hen die als echtgenoten het lidmaatschap van het koninklijk huis bezaten, is artikel 2, tweede lid, van toepassing.   
+2.  Lid blijven voorts de echtgenoten van hen die ingevolge het eerste lid het lidmaatschap van het koninklijk huis bezitten.    
+3.  Op hen die als echtgenoten het lidmaatschap van het koninklijk huis bezaten, is artikel 2, tweede lid, van toepassing.  
 
 ### Artikel  4  
 
@@ -36,19 +36,19 @@ Het lidmaatschap van het koninklijk huis kan bij een koninklijk besluit waarover
 
 a. personen die krachtens de [Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md) de Koning kunnen opvolgen;  
 
-b. hun echtgenoten.    
+b. hun echtgenoten.   
 
 ### Artikel  5  
 
-Het lidmaatschap van het koninklijk huis eindigt door ontslag verleend bij een koninklijk besluit waarover de Raad van State is gehoord.  
+Het lidmaatschap van het koninklijk huis eindigt door ontslag verleend bij een koninklijk besluit waarover de Raad van State is gehoord. 
 
 ### Artikel  6  
 
-Het lidmaatschap van het koninklijk huis wordt niet verkregen bij gemis van het Nederlanderschap en eindigt bij verlies van het Nederlanderschap.  
+Het lidmaatschap van het koninklijk huis wordt niet verkregen bij gemis van het Nederlanderschap en eindigt bij verlies van het Nederlanderschap. 
 
 ### Artikel  7  
 
-De vermoedelijke opvolger van de Koning draagt de titel van Prins (Prinses) van Oranje.  
+De vermoedelijke opvolger van de Koning draagt de titel van Prins (Prinses) van Oranje. 
 
 ### Artikel  8  
 
@@ -64,7 +64,7 @@ c. de echtgenoot of echtgenote van de vermoedelijke opvolger van de Koning;
 d. kinderen geboren uit een huwelijk van de vermoedelijke opvolger van de Koning;  
 
 e. zij die krachtens artikel 4 lid zijn van het koninklijk huis.     
-3.  De titel «Prins (Prinses) der Nederlanden» vervalt met het verlies van het lidmaatschap van het koninklijk huis.   
+3.  De titel «Prins (Prinses) der Nederlanden» vervalt met het verlies van het lidmaatschap van het koninklijk huis.  
 
 ### Artikel  9  
 
@@ -75,27 +75,27 @@ e. zij die krachtens artikel 4 lid zijn van het koninklijk huis.
 
 ### Artikel  10  
 
-Degenen die titels en namen dragen krachtens de koninklijke besluiten van 26 oktober 1937 (Stb. 1937, nr. 5) en 2 januari 1967 (Stb. 1967, nr. 1), behouden deze.  
+Degenen die titels en namen dragen krachtens de koninklijke besluiten van 26 oktober 1937 (Stb. 1937, nr. 5) en 2 januari 1967 (Stb. 1967, nr. 1), behouden deze. 
 
 ### Artikel  11  
 
-De koninklijke besluiten bedoeld in deze wet, worden genomen op voordracht van Onze Minister-President, Minister van Algemene Zaken, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Justitie en in het Staatsblad geplaatst.  
+De koninklijke besluiten bedoeld in deze wet, worden genomen op voordracht van Onze Minister-President, Minister van Algemene Zaken, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Justitie en in het Staatsblad geplaatst. 
 
 ### Artikel  12  
 
-De [Wet lidmaatschap koninklijk huis](../../../../../../wet/wet/lidmaatschap/koninklijk/huis/BWBR0003875/README.md) wordt ingetrokken.  
+De [Wet lidmaatschap koninklijk huis](../../../../../../wet/wet/lidmaatschap/koninklijk/huis/BWBR0003875/README.md) wordt ingetrokken. 
 
 ### Artikel  13  
 
-Wijzigt de Wet op de adeldom.   
+Wijzigt de Wet op de adeldom.  
 
 ### Artikel  14  
 
-Deze wet wordt aangehaald als: Wet lidmaatschap koninklijk huis.  
+Deze wet wordt aangehaald als: Wet lidmaatschap koninklijk huis. 
 
 ### Artikel  15  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -115,4 +115,4 @@ A. H. Korthals
 de *elfde* juni 2002 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

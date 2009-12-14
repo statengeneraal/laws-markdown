@@ -6,21 +6,21 @@ De Staatssecretaris van Sociale Zaken en Werkgelegenheid, Handelende in overeens
 Gelet op [artikel 10 van de Wet verevening pensioenrechten bij scheiding](../../../../../../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md);
 
 Gezien het advies van de Verzekeringskamer;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
 Voor de toepassing van deze regeling wordt verstaan onder: 
 
-a. *wet:*[wet verevening pensioenrechten bij scheiding](../../../../../../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md);  
+a.  *wet:* [wet verevening pensioenrechten bij scheiding](../../../../../../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md);  
 
-b. *huwelijksjaren:* de jaren tot 1 mei 1995 gedurende welke de tot verevening verplichte echtgenoot gehuwd was met de tot verevening gerechtigde echtgenoot en eerstgenoemde tevens deelnemer was in de betreffende pensioenregeling;  
+b.  *huwelijksjaren:* de jaren tot 1 mei 1995 gedurende welke de tot verevening verplichte echtgenoot gehuwd was met de tot verevening gerechtigde echtgenoot en eerstgenoemde tevens deelnemer was in de betreffende pensioenregeling;  
 
 c. *tijdsevenredige aanspraak:* een overeenkomstig [artikel 8, tweede lid, van de Pensioen- en spaarfondsenwet](../../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van de [Pensioenwet](../../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), bepaalde pensioenaanspraak;  
 
-d. *tijdsevenredige pensioenaanspraak:* een overeenkomstig [artikel 8, tweede lid,van de Pensioen- en spaarfondsenwet](../../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md) bepaalde pensioenaanspraak;  
+d.  *tijdsevenredige pensioenaanspraak:* een overeenkomstig [artikel 8, tweede lid,van de Pensioen- en spaarfondsenwet](../../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md) bepaalde pensioenaanspraak;  
 
-e. *dienstjaren-eindloonregeling:* een pensioenregeling waarin naast de algemene loonontwikkeling ook individuele salarisverhogingen leiden tot verhoging van het pensioen over verstreken feitelijke dienstjaren.    
+e.  *dienstjaren-eindloonregeling:* een pensioenregeling waarin naast de algemene loonontwikkeling ook individuele salarisverhogingen leiden tot verhoging van het pensioen over verstreken feitelijke dienstjaren.   
 
 ### Artikel  2  
 
@@ -60,11 +60,11 @@ Indien het aantal huwelijksjaren minder bedraagt dan het aantal deelnemingsjaren
 
 ### Artikel  9  
 
-Deze regeling treedt in werking met ingang van 1 mei 1995.  
+Deze regeling treedt in werking met ingang van 1 mei 1995. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
-23 december 1994.    
+23 december 1994.     
 
 De Staatssecretaris voornoemd, 
 R.L.O. Linschoten.      

@@ -11,15 +11,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De Tweede Kamer der Staten-Generaal wordt ontbonden op donderdag 23 mei 2002 op een door de Voorzitter van de Tweede Kamer te bepalen tijdstip.  
+De Tweede Kamer der Staten-Generaal wordt ontbonden op donderdag 23 mei 2002 op een door de Voorzitter van de Tweede Kamer te bepalen tijdstip. 
 
 ### Artikel  2  
 
-De kandidaatstelling voor de verkiezing van de leden van de Tweede Kamer der Staten-Generaal vindt plaats op dinsdag 2 april 2002.  
+De kandidaatstelling voor de verkiezing van de leden van de Tweede Kamer der Staten-Generaal vindt plaats op dinsdag 2 april 2002. 
 
 ### Artikel  3  
 
-De eerste samenkomst van de nieuw gekozen Tweede Kamer vindt plaats op donderdag 23 mei 2002 op een door de Voorzitter van de Tweede Kamer te bepalen tijdstip.  
+De eerste samenkomst van de nieuw gekozen Tweede Kamer vindt plaats op donderdag 23 mei 2002 op een door de Voorzitter van de Tweede Kamer te bepalen tijdstip. 
 
 Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uitvoering van dit besluit, dat met de nota van toelichting in het Staatsblad en in de Staatscourant zal worden geplaatst.   
 

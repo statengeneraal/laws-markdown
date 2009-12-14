@@ -8,7 +8,7 @@ Handelende in overeenstemming met de Staatssecretaris van Justitie, de Minister 
 Gelet op [artikel 7, vierde lid, van de Wet verevening pensioenrechten bij scheiding](../../../../../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md);
 
 Gezien het advies van de Verzekeringskamer;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -57,10 +57,10 @@ h. pensioen op de datum van ontvangst van de mededeling:
 
 ### Artikel  5  
 
-Deze regeling treedt in werking met ingang van 1 mei 1995.  
+Deze regeling treedt in werking met ingang van 1 mei 1995. 
 
 ’s-Gravenhage, 
 26 april 1995.    
 
-de Staatssecretaris voornoemd, 
+de Staatssecretaris voornoemd,  
 R.L.O. Linschoten.      
