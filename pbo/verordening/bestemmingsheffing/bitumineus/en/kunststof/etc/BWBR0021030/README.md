@@ -11,7 +11,10 @@ Besluit:
 
 ####Begripsbepalingen en toepassingsgebied
 
+Materieel uitgewerkt per 02-08-2008 
+
 ### Artikel  1  
+Materieel uitgewerkt per 02-08-2008 
 
 In deze verordening wordt verstaan onder: 
 
@@ -19,17 +22,21 @@ a. de voorzitter: de voorzitter van het Hoofdbedrijfschap Ambachten;
 
 b. de ondernemer: degene die een onderneming drijft, dan wel degenen die gezamenlijk een onderneming drijven;  
 
-c. bestemmingsheffing: heffing die is gebaseerd op [artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md).    
+c. bestemmingsheffing: heffing die is gebaseerd op [artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md).   
 
 ### Artikel  2  
+Materieel uitgewerkt per 02-08-2008 
 
-De verordening is van toepassing op de ondernemers die een onderneming drijven, waarin het bitumineuze en kunststof dakbedekkingsbedrijf wordt uitgeoefend.  
+De verordening is van toepassing op de ondernemers die een onderneming drijven, waarin het bitumineuze en kunststof dakbedekkingsbedrijf wordt uitgeoefend. 
 
 ### §  2  
 
 ####De heffing
 
+Materieel uitgewerkt per 02-08-2008 
+
 ### Artikel  3  
+Materieel uitgewerkt per 02-08-2008 
 
 1.  Aan de ondernemers die op of na de dag van inwerkingtreding van deze verordening een onderneming drijven waarin het bitumineuze en kunststof dakbedekkingsbedrijf wordt uitgeoefend, wordt voor het jaar 2007 een heffing opgelegd ten behoeve van maatschappelijke en sociale activiteiten alsmede ten behoeve van activiteiten op het gebied van techniek voor de bitumineuze en kunststof dakbedekkingsbranche.   
 2.  De heffing bedoeld in het eerste lid bestaat uit: 
@@ -51,6 +58,7 @@ b. een heffing werkzame personen, waarvan de hoogte afhankelijk is van het aanta
 | 50 en meer  | € 65  |
 
 ### Artikel  4  
+Materieel uitgewerkt per 02-08-2008 
 
 1.  Aan de ondernemer die lid is van: 
 
@@ -70,40 +78,50 @@ d. met betrekking tot de behartiging van sociaal-economische belangen van ondern
 
 e. haar activiteiten, al dan niet door middel van een federatie van gelijksoortige organisaties, landelijk ontplooit.     
 4.  De in het vorige lid bedoelde aftrek wordt slechts toegestaan indien daartoe door het bestuur van de desbetreffende organisatie een verzoek is gedaan.   
-5.  Op een verzoek als in het vierde lid van dit artikel bedoeld, wordt door het dagelijks bestuur van het Hoofdbedrijfschap Ambachten beslist.   
+5.  Op een verzoek als in het vierde lid van dit artikel bedoeld, wordt door het dagelijks bestuur van het Hoofdbedrijfschap Ambachten beslist.  
 
 ### §  3  
 
 ####Vermindering van heffing
 
+Materieel uitgewerkt per 02-08-2008 
+
 ### Artikel  5  
+Materieel uitgewerkt per 02-08-2008 
 
 1.  Bij cumulatie van onderhavige bestemmingsheffing met een of meer andere aan het Hoofdbedrijfschap Ambachten te betalen bestemmingsheffingen, wordt de heffing tot nihil verminderd, indien de uitoefening van het bitumineuze en kunststof dakbedekkingsbedrijf kan worden aangemerkt als een nevenactiviteit ten opzichte van die andere bedrijfsuitoefening of bedrijfsuitoefeningen waarvoor een bestemmingsheffing is opgelegd.   
-2.  De vermindering wordt alleen toegepast ten aanzien van de vestiging of onderneming waarin één persoon alle bedrijven uitoefent waarvoor bestemmingsheffingen zijn opgelegd.   
+2.  De vermindering wordt alleen toegepast ten aanzien van de vestiging of onderneming waarin één persoon alle bedrijven uitoefent waarvoor bestemmingsheffingen zijn opgelegd.  
 
 ### Artikel  6  
+Materieel uitgewerkt per 02-08-2008 
 
-Vermindering als bedoeld in artikel 5 wordt slechts verleend op aanvraag. De aanvrager toont aan dat aan de in het betreffende artikel genoemde voorwaarden wordt voldaan.  
+Vermindering als bedoeld in artikel 5 wordt slechts verleend op aanvraag. De aanvrager toont aan dat aan de in het betreffende artikel genoemde voorwaarden wordt voldaan. 
 
 ### §  4  
 
 ####Overige bepalingen
 
-### Artikel  7  
+Materieel uitgewerkt per 02-08-2008 
 
-De [artikelen 5 tot en met 14 van de heffingsverordening Hoofdbedrijfschap Ambachten 2007](../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2007/BWBR0021022/README.md) zijn van overeenkomstige toepassing.  
+### Artikel  7  
+Materieel uitgewerkt per 02-08-2008 
+
+De [artikelen 5 tot en met 14 van de heffingsverordening Hoofdbedrijfschap Ambachten 2007](../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2007/BWBR0021022/README.md) zijn van overeenkomstige toepassing. 
 
 ### Artikel  8  
+Materieel uitgewerkt per 02-08-2008 
 
-De voorzitter neemt de krachtens deze verordening te nemen besluiten, met uitzondering van het besluit voortvloeiende uit artikel 4, vijfde lid.  
+De voorzitter neemt de krachtens deze verordening te nemen besluiten, met uitzondering van het besluit voortvloeiende uit artikel 4, vijfde lid. 
 
 ### Artikel  9  
+Materieel uitgewerkt per 02-08-2008 
 
-Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad bedrijfsorganisatie.  
+Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad bedrijfsorganisatie. 
 
 ### Artikel  10  
+Materieel uitgewerkt per 02-08-2008 
 
-Deze verordening wordt aangehaald als: Verordening bestemmingsheffing bitumineus en kunststof dakbedekkingsbedrijf 2007.  
+Deze verordening wordt aangehaald als: Verordening bestemmingsheffing bitumineus en kunststof dakbedekkingsbedrijf 2007. 
 
 Den Haag 
 27 september 2006   

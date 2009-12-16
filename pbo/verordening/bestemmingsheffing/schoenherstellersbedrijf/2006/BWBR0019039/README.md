@@ -11,7 +11,10 @@ Besluit:
 
 ####Begripsbepalingen en toepassingsgebied
 
+Materieel uitgewerkt per 25-11-2006 
+
 ### Artikel  1  
+Materieel uitgewerkt per 25-11-2006 
 
 In deze verordening wordt verstaan onder: 
 
@@ -19,23 +22,28 @@ a. de voorzitter: de voorzitter van het Hoofdbedrijfschap Ambachten;
 
 b. de ondernemer: degene die een onderneming drijft, dan wel degenen die gezamenlijk een onderneming drijven;  
 
-c. bestemmingsheffing: heffing die is gebaseerd op [artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten](../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md).    
+c. bestemmingsheffing: heffing die is gebaseerd op [artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten](../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md).   
 
 ### Artikel  2  
+Materieel uitgewerkt per 25-11-2006 
 
-De verordening is van toepassing op de ondernemers die een onderneming drijven, waarin het schoenherstellersbedrijf wordt uitgeoefend.  
+De verordening is van toepassing op de ondernemers die een onderneming drijven, waarin het schoenherstellersbedrijf wordt uitgeoefend. 
 
 ### §  2  
 
 ####De heffing
 
+Materieel uitgewerkt per 25-11-2006 
+
 ### Artikel  3  
+Materieel uitgewerkt per 25-11-2006 
 
 1.  Aan de ondernemers die op of na de dag van inwerkingtreding van deze verordening het schoenherstellersbedrijf uitoefenen, wordt voor het jaar 2006 een heffing opgelegd ten behoeve van stimulering van de marktontwikkeling, onder andere door middel van het voeren van een PR-campagne voor de schoenmakerij en de subsidiering van overige brancheprojecten.   
 2.  De heffing wordt vastgesteld op grondslag van het aantal vestigingen waarin door de ondernemer het schoenherstellersbedrijf wordt uitgeoefend. De heffing bedraagt € 186,- voor iedere vestiging waarin het schoenherstellersbedrijf wordt uitgeoefend.   
-3.  In afwijking van het tweede lid bedraagt de heffing, indien de ondernemer het bedrijf uitsluitend anders dan in een vestiging uitoefent € 186,- per onderneming.   
+3.  In afwijking van het tweede lid bedraagt de heffing, indien de ondernemer het bedrijf uitsluitend anders dan in een vestiging uitoefent € 186,- per onderneming.  
 
 ### Artikel  4  
+Materieel uitgewerkt per 25-11-2006 
 
 1.  Aan de ondernemer die lid is van de Nederlandse Schoenmakers Vereniging, en over het jaar 2005 aan deze organisatie contributie heeft betaald, wordt op de bruto heffing een aftrek toegestaan van 50% met een maximum van 50% van de betaalde contributie over 2005 (exclusief BTW). De aftrek wordt slechts toegestaan indien uit door de in de eerste volzin genoemde organisaties verstrekte opgave is gebleken dat de contributie is betaald.   
 2.  Op het in het eerste lid bedoelde maximum van 50% van de betaalde contributie wordt in mindering gebracht de aftrek op de heffing Hoofdbedrijfschap Ambachten 2006 of de heffing Hoofdbedrijfschap Detailhandel 2006.   
@@ -51,40 +59,50 @@ d. met betrekking tot de behartiging van sociaal-economische belangen van ondern
 
 e. haar activiteiten, al dan niet door middel van een federatie van gelijksoortige organisaties, landelijk ontplooit.     
 4.  De in het vorige lid bedoelde aftrek wordt slechts toegestaan indien daartoe door het bestuur van de desbetreffende organisatie een verzoek is gedaan.   
-5.  Op een verzoek als in het vierde lid van dit artikel bedoeld, wordt door het dagelijks bestuur van het Hoofdbedrijfschap Ambachten beslist.   
+5.  Op een verzoek als in het vierde lid van dit artikel bedoeld, wordt door het dagelijks bestuur van het Hoofdbedrijfschap Ambachten beslist.  
 
 ### §  3  
 
 ####Vermindering van heffing
 
+Materieel uitgewerkt per 25-11-2006 
+
 ### Artikel  5  
+Materieel uitgewerkt per 25-11-2006 
 
 1.  Bij cumulatie van onderhavige bestemmingsheffing met een of meer andere aan het Hoofdbedrijfschap Ambachten te betalen bestemmingsheffingen, vermindert de voorzitter de heffing tot nihil, indien de uitoefening van het schoenherstellersbedrijf kan worden aangemerkt als een nevenactiviteit ten opzichte van die andere bedrijfsuitoefening of bedrijfsuitoefeningen waarvoor een bestemmingsheffing is opgelegd.   
-2.  De vermindering wordt alleen toegepast ten aanzien van de vestiging of onderneming waarin één persoon alle bedrijven uitoefent waarvoor bestemmingsheffingen zijn opgelegd.   
+2.  De vermindering wordt alleen toegepast ten aanzien van de vestiging of onderneming waarin één persoon alle bedrijven uitoefent waarvoor bestemmingsheffingen zijn opgelegd.  
 
 ### Artikel  6  
+Materieel uitgewerkt per 25-11-2006 
 
-Vermindering als bedoeld in artikel 5 wordt slechts verleend op aanvraag. De aanvrager toont aan dat aan de in het betreffende artikel genoemde voorwaarden wordt voldaan.  
+Vermindering als bedoeld in artikel 5 wordt slechts verleend op aanvraag. De aanvrager toont aan dat aan de in het betreffende artikel genoemde voorwaarden wordt voldaan. 
 
 ### §  4  
 
 ####Overige bepalingen
 
-### Artikel  7  
+Materieel uitgewerkt per 25-11-2006 
 
-De [artikelen 5 tot en met 14 van de heffingsverordening Hoofdbedrijfschap Ambachten 2006](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2006/BWBR0019036/README.md) zijn van overeenkomstige toepassing.  
+### Artikel  7  
+Materieel uitgewerkt per 25-11-2006 
+
+De [artikelen 5 tot en met 14 van de heffingsverordening Hoofdbedrijfschap Ambachten 2006](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2006/BWBR0019036/README.md) zijn van overeenkomstige toepassing. 
 
 ### Artikel  8  
+Materieel uitgewerkt per 25-11-2006 
 
-De voorzitter neemt de krachtens deze verordening te nemen besluiten, met uitzondering van het besluit voortvloeiende uit artikel 4, vijfde lid.  
+De voorzitter neemt de krachtens deze verordening te nemen besluiten, met uitzondering van het besluit voortvloeiende uit artikel 4, vijfde lid. 
 
 ### Artikel  9  
+Materieel uitgewerkt per 25-11-2006 
 
-Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad bedrijfsorganisatie.  
+Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad bedrijfsorganisatie. 
 
 ### Artikel  10  
+Materieel uitgewerkt per 25-11-2006 
 
-Deze verordening wordt aangehaald als: Verordening bestemmingsheffing schoenherstellersbedrijf 2006.  
+Deze verordening wordt aangehaald als: Verordening bestemmingsheffing schoenherstellersbedrijf 2006. 
 
 Den Haag 
 9 november 2005   

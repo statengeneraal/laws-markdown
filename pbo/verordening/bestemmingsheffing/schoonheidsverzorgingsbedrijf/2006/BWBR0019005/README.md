@@ -11,7 +11,10 @@ Besluit:
 
 ####Begripsbepalingen en toepassingsgebied
 
+Materieel uitgewerkt per 06-01-2007 
+
 ### Artikel  1  
+Materieel uitgewerkt per 06-01-2007 
 
 In deze verordening wordt verstaan onder: 
 
@@ -21,17 +24,21 @@ b. de ondernemer: degene die een onderneming drijft, dan wel degenen die gezamen
 
 c. werkzame personen: personen als bedoeld in [artikel 9, derde lid, van het Handelsregisterbesluit 1996](../../../../../../AMvB/handelsregisterbesluit/1996/BWBR0008920/README.md) die betrokken zijn bij de uitoefening van het schoonheidsverzorgingsbedrijf;  
 
-d. bestemmingsheffing: heffing die is gebaseerd op [artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten](../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md).    
+d. bestemmingsheffing: heffing die is gebaseerd op [artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten](../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md).   
 
 ### Artikel  2  
+Materieel uitgewerkt per 06-01-2007 
 
-De verordening is van toepassing op de ondernemers die een onderneming drijven, waarin het schoonheidsverzorgingsbedrijf wordt uitgeoefend.  
+De verordening is van toepassing op de ondernemers die een onderneming drijven, waarin het schoonheidsverzorgingsbedrijf wordt uitgeoefend. 
 
 ### §  2  
 
 ####De heffing
 
+Materieel uitgewerkt per 06-01-2007 
+
 ### Artikel  3  
+Materieel uitgewerkt per 06-01-2007 
 
 1.  Aan de ondernemers die op of na de dag van inwerkingtreding van deze verordening het schoonheidsverzorgingsbedrijf uitoefenen, wordt voor het jaar 2006 een heffing opgelegd ten behoeve van brancheprojecten en collectieve promotie voor de schoonheidsverzorgingsbranche.   
 2.  De heffing bedoeld in het eerste lid bestaat uit: 
@@ -52,9 +59,10 @@ b. een heffing werkzame personen, waarvan de hoogte afhankelijk is van het aanta
 | 20 tot 50  | € 95,-  |
 | 50 en meer  | € 115,-  |
 
-4.  In afwijking van het tweede lid, onder a, bedraagt de basisheffing, indien de ondernemer het bedrijf uitsluitend anders dan in een vestiging uitoefent, € 89,- per onderneming.   
+4.  In afwijking van het tweede lid, onder a, bedraagt de basisheffing, indien de ondernemer het bedrijf uitsluitend anders dan in een vestiging uitoefent, € 89,- per onderneming.  
 
 ### Artikel  4  
+Materieel uitgewerkt per 06-01-2007 
 
 1.  Aan de ondernemer die lid is van de Algemene Nederlandse Branche Organisatie Schoonheidsverzorging (ANBOS) en over het jaar 2005 aan deze organisatie contributie heeft betaald, wordt op de bruto heffing een aftrek toegestaan van 50%, met een maximum van 50% van de betaalde contributie over 2005 (exclusief BTW). De aftrek wordt slechts toegestaan indien uit door de in de eerste volzin genoemde organisatie verstrekte opgave is gebleken dat de contributie is betaald.   
 2.  Op het in het eerste lid bedoelde maximum van 50% van de betaalde contributie wordt in mindering gebracht de aftrek op de heffing Hoofdbedrijfschap Ambachten 2006 of de heffing Hoofdbedrijfschap Detailhandel 2006.   
@@ -70,44 +78,55 @@ d. met betrekking tot de behartiging van sociaal-economische belangen van ondern
 
 e. haar activiteiten, al dan niet door middel van een federatie van gelijksoortige organisaties, landelijk ontplooit.     
 4.  De in het vorige lid bedoelde aftrek wordt slechts toegestaan indien daartoe door het bestuur van de desbetreffende organisatie een verzoek is gedaan.   
-5.  Op een verzoek als in het vierde lid van dit artikel bedoeld, wordt door het dagelijks bestuur van het Hoofdbedrijfschap Ambachten beslist.   
+5.  Op een verzoek als in het vierde lid van dit artikel bedoeld, wordt door het dagelijks bestuur van het Hoofdbedrijfschap Ambachten beslist.  
 
 ### §  3  
 
 ####Vermindering van heffing
 
-### Artikel  5  
+Materieel uitgewerkt per 06-01-2007 
 
-Indien de ondernemer het schoonheidsverzorgingsbedrijf uitoefent in meerdere vestigingen waarvan de gezamenlijke openingstijd niet meer dan 55 uur bedraagt, vermindert de voorzitter de opgelegde heffingen tot het bedrag dat zou zijn opgelegd als de ondernemer één vestiging zou exploiteren.  
+### Artikel  5  
+Materieel uitgewerkt per 06-01-2007 
+
+Indien de ondernemer het schoonheidsverzorgingsbedrijf uitoefent in meerdere vestigingen waarvan de gezamenlijke openingstijd niet meer dan 55 uur bedraagt, vermindert de voorzitter de opgelegde heffingen tot het bedrag dat zou zijn opgelegd als de ondernemer één vestiging zou exploiteren. 
 
 ### Artikel  6  
+Materieel uitgewerkt per 06-01-2007 
 
 1.  Bij cumulatie van onderhavige bestemmingsheffing met een of meer andere aan het Hoofdbedrijfschap Ambachten te betalen bestemmingsheffingen, wordt de heffing tot nihil verminderd, indien de uitoefening van het schoonheidsverzorgingsbedrijf kan worden aangemerkt als een nevenactiviteit ten opzichte van die andere bedrijfsuitoefening of bedrijfsuitoefeningen waarvoor een bestemmingsheffing is opgelegd.   
-2.  De vermindering wordt alleen toegepast ten aanzien van de vestiging of onderneming waarin één persoon alle bedrijven uitoefent waarvoor bestemmingsheffingen zijn opgelegd.   
+2.  De vermindering wordt alleen toegepast ten aanzien van de vestiging of onderneming waarin één persoon alle bedrijven uitoefent waarvoor bestemmingsheffingen zijn opgelegd.  
 
 ### Artikel  7  
+Materieel uitgewerkt per 06-01-2007 
 
-Vermindering als bedoeld in artikel 5 of 6 wordt slechts verleend op aanvraag. De aanvrager toont ten genoegen van de voorzitter aan dat aan de in het betreffende artikel genoemde voorwaarden wordt voldaan.  
+Vermindering als bedoeld in artikel 5 of 6 wordt slechts verleend op aanvraag. De aanvrager toont ten genoegen van de voorzitter aan dat aan de in het betreffende artikel genoemde voorwaarden wordt voldaan. 
 
 ### §  4  
 
 ####Overige bepalingen
 
-### Artikel  8  
+Materieel uitgewerkt per 06-01-2007 
 
-De [artikelen 5 tot en met 14 van de heffingsverordening Hoofdbedrijfschap Ambachten 2006](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2006/BWBR0019036/README.md) zijn van overeenkomstige toepassing.  
+### Artikel  8  
+Materieel uitgewerkt per 06-01-2007 
+
+De [artikelen 5 tot en met 14 van de heffingsverordening Hoofdbedrijfschap Ambachten 2006](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2006/BWBR0019036/README.md) zijn van overeenkomstige toepassing. 
 
 ### Artikel  9  
+Materieel uitgewerkt per 06-01-2007 
 
-De voorzitter neemt de krachtens deze verordening te nemen besluiten, met uitzondering van het besluit voortvloeiende uit artikel 4, vijfde lid.  
+De voorzitter neemt de krachtens deze verordening te nemen besluiten, met uitzondering van het besluit voortvloeiende uit artikel 4, vijfde lid. 
 
 ### Artikel  10  
+Materieel uitgewerkt per 06-01-2007 
 
-Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad bedrijfsorganisatie.  
+Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad bedrijfsorganisatie. 
 
 ### Artikel  11  
+Materieel uitgewerkt per 06-01-2007 
 
-Deze verordening wordt aangehaald als: Verordening bestemmingsheffing schoonheidsverzorgingsbedrijf 2006.  
+Deze verordening wordt aangehaald als: Verordening bestemmingsheffing schoonheidsverzorgingsbedrijf 2006. 
 
 Den Haag 
 9 november 2005   
@@ -115,5 +134,5 @@ Den Haag
 P. Kalle  
 voorzitter  
 
-J.W. Nelson  
+J.W.Nelson  
 secretaris   Goedgekeurd door de Bestuurskamer van de Sociaal-Economische Raad bij besluit van 23 december 2005 en door de Minister van Economische Zaken mede namens de Minister van Sociale Zaken en Werkgelegenheid bij beschikking van 7 februari 2006, nr. EP/MW 6009899.    

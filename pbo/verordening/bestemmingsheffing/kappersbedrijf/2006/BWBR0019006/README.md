@@ -11,7 +11,10 @@ Besluit:
 
 ####Begripsbepalingen en toepassingsgebied
 
+Materieel uitgewerkt per 06-01-2007 
+
 ### Artikel  1  
+Materieel uitgewerkt per 06-01-2007 
 
 In deze verordening wordt verstaan onder: 
 
@@ -23,17 +26,21 @@ c. omzet: de omzet op jaarbasis (exclusief BTW) die in de onderneming is behaald
 
 d. de voorzitter: de voorzitter van het Hoofdbedrijfschap Ambachten  
 
-e. bestemmingsheffing: heffing die is gebaseerd op [artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten](../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md).    
+e. bestemmingsheffing: heffing die is gebaseerd op [artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten](../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md).   
 
 ### Artikel  2  
+Materieel uitgewerkt per 06-01-2007 
 
-De verordening is van toepassing op de ondernemers die een onderneming drijven, waarin het kappersbedrijf wordt uitgeoefend.  
+De verordening is van toepassing op de ondernemers die een onderneming drijven, waarin het kappersbedrijf wordt uitgeoefend. 
 
 ### §  2  
 
 ####De heffing
 
+Materieel uitgewerkt per 06-01-2007 
+
 ### Artikel  3  
+Materieel uitgewerkt per 06-01-2007 
 
 1.  Aan de ondernemers die op of na de dag van inwerkingtreding van deze verordening het kappersbedrijf uitoefenen, wordt voor het jaar 2006 een heffing opgelegd ten behoeve van de bevordering van de sociaal economische ontwikkeling van de kappersbranche door middel van verbetering van arbeidsomstandigheden, collectieve promotie, bevordering van werkgelegenheid, voorlichting, onderzoek en scholing.   
 2.  De heffing wordt vastgesteld op grondslag van het aantal vestigingen waarin door de ondernemer het kappersbedrijf wordt uitgeoefend. De heffing bedraagt voor iedere vestiging waarin het kappersbedrijf wordt uitgeoefend: 
@@ -45,9 +52,10 @@ b. € 225,- voor ondernemingen met 2 of meer werkzame persoon.
 
 a. € 170,- voor ondernemingen met 0 of 1 werkzame persoon;  
 
-b. € 225,- voor ondernemingen met 2 of meer werkzame persoon.     
+b. € 225,- voor ondernemingen met 2 of meer werkzame persoon.    
 
 ### Artikel  4  
+Materieel uitgewerkt per 06-01-2007 
 
 1.  Aan de ondernemer die lid is van de Koninklijke Algemene Nederlandse Kappersorganisatie (ANKO) en over het jaar 2005 aan deze organisatie contributie heeft betaald, wordt op de bruto heffing een aftrek toegestaan van 50%, met een maximum van 50% van de betaalde contributie over 2005 (exclusief BTW). De aftrek wordt slechts toegestaan indien uit door de ANKO verstrekte opgave blijkt dat de contributie is betaald.   
 2.  Op het in het eerste lid bedoelde maximum van 50% van de betaalde contributie wordt in mindering gebracht de aftrek op de heffing Hoofdbedrijfschap Ambachten 2006 of de heffing Hoofdbedrijfschap Detailhandel 2006.   
@@ -63,49 +71,60 @@ d. met betrekking tot de behartiging van sociaal-economische belangen van ondern
 
 e. haar activiteiten, al dan niet door middel van een federatie van gelijksoortige organisaties, landelijk ontplooit.     
 4.  De in het vorige lid bedoelde aftrek wordt slechts toegestaan indien daartoe door de desbetreffende organisatie een verzoek is gedaan.   
-5.  Op een verzoek als in het vierde lid van dit artikel bedoeld, wordt door het dagelijks bestuur van het Hoofdbedrijfschap Ambachten beslist.   
+5.  Op een verzoek als in het vierde lid van dit artikel bedoeld, wordt door het dagelijks bestuur van het Hoofdbedrijfschap Ambachten beslist.  
 
 ### §  3  
 
 ####Vermindering van heffing
 
+Materieel uitgewerkt per 06-01-2007 
+
 ### Artikel  5  
+Materieel uitgewerkt per 06-01-2007 
 
 1.  De voorzitter vermindert de opgelegde heffing tot € 65,50 indien de omzet niet meer bedraagt dan € 4.550,- op jaarbasis.   
 2.  De voorzitter vermindert de opgelegde heffing tot € 131,- indien in een onderneming met 0 of 1 werkzame persoon de omzet niet meer bedraagt dan € 25.000 op jaarbasis.   
 3.  De voorzitter vermindert de opgelegde heffing tot nihil voor een vestiging waarin meer dan 50% van de klanten, die door de ondernemer worden behandeld, psycho-geriatrische patiënten of patiënten met een aandoening met een vergelijkbaar ziektebeeld zijn.   
 4.  De voorzitter vermindert de opgelegde heffing met 50% voor een vestiging waarin meer dan 25% maar minder dan 50% van de klanten, die door de ondernemer worden behandeld, psycho-geriatrische patiënten of patiënten met een aandoening met een vergelijkbaar ziektebeeld zijn.   
 5.  Als de ondernemer het kappersbedrijf uitoefent in meerdere vestigingen waarvan de gezamenlijke openingstijd niet meer dan 55 uur bedraagt, vermindert de voorzitter de opgelegde heffingen tot het bedrag dat zou zijn opgelegd als de ondernemer één vestiging zou exploiteren.   
-6.  De voorzitter vermindert de opgelegde heffing tot € 65,50 indien in een vestiging met 0 of 1 werkzame persoon uitsluitend bewoners van bejaardenhuizen worden behandeld en de omzet niet meer dan € 10.000,- bedraagt.   
+6.  De voorzitter vermindert de opgelegde heffing tot € 65,50 indien in een vestiging met 0 of 1 werkzame persoon uitsluitend bewoners van bejaardenhuizen worden behandeld en de omzet niet meer dan € 10.000,- bedraagt.  
 
 ### Artikel  6  
+Materieel uitgewerkt per 06-01-2007 
 
 1.  Bij cumulatie van deze bestemmingsheffing met een of meer andere aan het Hoofdbedrijfschap Ambachten te betalen bestemmingsheffingen, vermindert de voorzitter de heffing tot nihil, indien de uitoefening van het kappersbedrijf kan worden aangemerkt als een nevenactiviteit ten opzichte van die andere bedrijfsuitoefening of bedrijfsuitoefeningen waarvoor een bestemmingsheffing is opgelegd.   
-2.  De vermindering wordt alleen toegepast ten aanzien van de vestiging of onderneming waarin één persoon alle bedrijven uitoefent waarvoor bestemmingsheffingen zijn opgelegd.   
+2.  De vermindering wordt alleen toegepast ten aanzien van de vestiging of onderneming waarin één persoon alle bedrijven uitoefent waarvoor bestemmingsheffingen zijn opgelegd.  
 
 ### Artikel  7  
+Materieel uitgewerkt per 06-01-2007 
 
-Vermindering als bedoeld in artikel 5 en 6 wordt slechts verleend op aanvraag. De aanvrager toont ten genoegen van de voorzitter aan dat aan de in het betreffende artikel genoemde voorwaarden wordt voldaan.  
+Vermindering als bedoeld in artikel 5 en 6 wordt slechts verleend op aanvraag. De aanvrager toont ten genoegen van de voorzitter aan dat aan de in het betreffende artikel genoemde voorwaarden wordt voldaan. 
 
 ### §  4  
 
 ####Overige bepalingen
 
-### Artikel  8  
+Materieel uitgewerkt per 06-01-2007 
 
-De [artikelen 5 tot en met 14 van de heffingsverordening Hoofdbedrijfschap Ambachten 2006](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2006/BWBR0019036/README.md) zijn van overeenkomstige toepassing.  
+### Artikel  8  
+Materieel uitgewerkt per 06-01-2007 
+
+De [artikelen 5 tot en met 14 van de heffingsverordening Hoofdbedrijfschap Ambachten 2006](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2006/BWBR0019036/README.md) zijn van overeenkomstige toepassing. 
 
 ### Artikel  9  
+Materieel uitgewerkt per 06-01-2007 
 
-De voorzitter neemt de krachtens deze verordening te nemen besluiten, met uitzondering van het besluit voortvloeiende uit artikel 4, vijfde lid.  
+De voorzitter neemt de krachtens deze verordening te nemen besluiten, met uitzondering van het besluit voortvloeiende uit artikel 4, vijfde lid. 
 
 ### Artikel  10  
+Materieel uitgewerkt per 06-01-2007 
 
-Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad Bedrijfsorganisatie.  
+Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad Bedrijfsorganisatie. 
 
 ### Artikel  11  
+Materieel uitgewerkt per 06-01-2007 
 
-Deze verordening wordt aangehaald als: Verordening bestemmingsheffing kappersbedrijf 2006.  
+Deze verordening wordt aangehaald als: Verordening bestemmingsheffing kappersbedrijf 2006. 
 
 Den Haag 
 9 november 2005   
@@ -113,5 +132,5 @@ Den Haag
 P. Kalle  
 voorzitter  
 
-J.W. Nelson  
+J.W. Nelson 
 secretaris   Goedgekeurd door de Bestuurskamer van de Sociaal-Economische Raad bij besluit van 23 december 2005 en door de Minister van Economische Zaken mede namens de Minister van Sociale Zaken en Werkgelegenheid bij beschikking van 7 februari 2006, nr. EP/MW 6009899.    

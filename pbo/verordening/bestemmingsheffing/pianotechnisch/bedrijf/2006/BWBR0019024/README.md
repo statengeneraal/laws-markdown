@@ -11,7 +11,10 @@ Besluit:
 
 ####Begripsbepaling en toepassingsgebied
 
+Materieel uitgewerkt per 02-12-2006 
+
 ### Artikel  1  
+Materieel uitgewerkt per 02-12-2006 
 
 In deze verordening wordt verstaan onder: 
 
@@ -23,31 +26,37 @@ c. werknemer: degene die op grond van een arbeidsovereenkomst met de ondernemer 
 
 d. de voorzitter: de voorzitter van het Hoofdbedrijfschap Ambachten;  
 
-e. bestemmingsheffing: heffing die is gebaseerd op [artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md).    
+e. bestemmingsheffing: heffing die is gebaseerd op [artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md).   
 
 ### Artikel  2  
+Materieel uitgewerkt per 02-12-2006 
 
-De verordening is van toepassing op de ondernemers die een onderneming drijven, waarin het pianotechnisch bedrijf wordt uitgeoefend.  
+De verordening is van toepassing op de ondernemers die een onderneming drijven, waarin het pianotechnisch bedrijf wordt uitgeoefend. 
 
 ### §  2  
 
 ####De heffing
 
+Materieel uitgewerkt per 02-12-2006 
+
 ### Artikel  3  
+Materieel uitgewerkt per 02-12-2006 
 
 1.  Aan de ondernemers die op of na de dag van inwerkingtreding van deze verordening het pianotechnisch bedrijf uitoefenen, wordt voor het jaar 2006 een heffing opgelegd ten behoeve van vakopleiding en na-scholing voor het pianotechnisch bedrijf.   
 2.  De heffing bedoeld in het eerste lid bestaat uit: 
 
 a. een basisheffing van € 158,- per onderneming; en  
 
-b. een heffing per werknemer van € 90,-.     
+b. een heffing per werknemer van € 90,-.    
 
 ### Artikel  4  
+Materieel uitgewerkt per 02-12-2006 
 
 1.  De ondernemer is verplicht om op eerste vordering de voorzitter opgave te doen van het aantal werknemers in de onderneming.   
-2.  Indien de ondernemer, ondanks herhaald verzoek, de in het eerste lid bedoelde gegevens niet verstrekt, stelt de voorzitter het aantal werknemers ambtshalve vast.   
+2.  Indien de ondernemer, ondanks herhaald verzoek, de in het eerste lid bedoelde gegevens niet verstrekt, stelt de voorzitter het aantal werknemers ambtshalve vast.  
 
 ### Artikel  5  
+Materieel uitgewerkt per 02-12-2006 
 
 1.  Aan de ondernemer die lid is van: 
 
@@ -67,40 +76,50 @@ d. met betrekking tot de behartiging van sociaal-economische belangen van ondern
 
 e. haar activiteiten, al dan niet door middel van een federatie van gelijksoortige organisaties, landelijk ontplooit.     
 4.  De in het vorige lid bedoelde aftrek wordt slechts toegestaan indien daartoe door het bestuur van de desbetreffende organisatie een verzoek is gedaan.   
-5.  Op een verzoek als in het vierde lid van dit artikel bedoeld, wordt door het dagelijks bestuur beslist.   
+5.  Op een verzoek als in het vierde lid van dit artikel bedoeld, wordt door het dagelijks bestuur beslist.  
 
 ### §  3  
 
 ####Vermindering van heffing
 
+Materieel uitgewerkt per 02-12-2006 
+
 ### Artikel  6  
+Materieel uitgewerkt per 02-12-2006 
 
 1.  Bij cumulatie van onderhavige bestemmingsheffing met een of meer andere aan het Hoofdbedrijfschap Ambachten te betalen bestemmingsheffingen, wordt de heffing tot nihil verminderd, indien de uitoefening van het pianotechnisch bedrijf kan worden aangemerkt als een nevenactiviteit ten opzichte van die andere bedrijfsuitoefening of bedrijfsuitoefeningen waarvoor een bestemmingsheffing is opgelegd.   
-2.  De vermindering wordt alleen toegepast ten aanzien van de vestiging of onderneming waarin één persoon alle bedrijven uitoefent waarvoor bestemmingsheffingen zijn opgelegd.   
+2.  De vermindering wordt alleen toegepast ten aanzien van de vestiging of onderneming waarin één persoon alle bedrijven uitoefent waarvoor bestemmingsheffingen zijn opgelegd.  
 
 ### Artikel  7  
+Materieel uitgewerkt per 02-12-2006 
 
-Vermindering als bedoeld in artikel 6 wordt slechts verleend op aanvraag. De aanvrager toont aan dat aan de in het betreffende artikel genoemde voorwaarden wordt voldaan.  
+Vermindering als bedoeld in artikel 6 wordt slechts verleend op aanvraag. De aanvrager toont aan dat aan de in het betreffende artikel genoemde voorwaarden wordt voldaan. 
 
 ### §  4  
 
 ####Overige bepalingen
 
-### Artikel  8  
+Materieel uitgewerkt per 02-12-2006 
 
-De [artikelen 5 tot en met 14 van de heffingsverordening Hoofdbedrijfschap Ambachten 2006](../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2006/BWBR0019036/README.md) zijn van overeenkomstige toepassing.  
+### Artikel  8  
+Materieel uitgewerkt per 02-12-2006 
+
+De [artikelen 5 tot en met 14 van de heffingsverordening Hoofdbedrijfschap Ambachten 2006](../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2006/BWBR0019036/README.md) zijn van overeenkomstige toepassing. 
 
 ### Artikel  9  
+Materieel uitgewerkt per 02-12-2006 
 
-De voorzitter neemt de krachtens deze verordening te nemen besluiten, met uitzondering van het besluit voortvloeiende uit artikel 5, vijfde lid.  
+De voorzitter neemt de krachtens deze verordening te nemen besluiten, met uitzondering van het besluit voortvloeiende uit artikel 5, vijfde lid. 
 
 ### Artikel  10  
+Materieel uitgewerkt per 02-12-2006 
 
-Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad bedrijfsorganisatie.  
+Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad bedrijfsorganisatie. 
 
 ### Artikel  11  
+Materieel uitgewerkt per 02-12-2006 
 
-Deze verordening wordt aangehaald als: Verordening bestemmingsheffing pianotechnisch bedrijf 2006.  
+Deze verordening wordt aangehaald als: Verordening bestemmingsheffing pianotechnisch bedrijf 2006. 
 
 Den Haag 
 9 november 2005   

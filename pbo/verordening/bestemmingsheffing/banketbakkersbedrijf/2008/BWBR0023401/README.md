@@ -11,7 +11,10 @@ Besluit:
 
 ####Begripsbepalingen en toepassingsgebied
 
-### Artikel  1  
+Materieel uitgewerkt per 30-12-2008 
+
+### Artikel  1 
+Materieel uitgewerkt per 30-12-2008 
 
 In deze verordening wordt verstaan onder: 
 
@@ -26,20 +29,25 @@ In deze verordening wordt verstaan onder:
 5. banketbakkersproducten: gebak dat is toebereid met slagroom, banketbakkersroom of een dergelijke grondstof, of met vers of gesteriliseerd fruit alsmede overige banketbakkersartikelen die geheel of gedeeltelijk uit meel of bloem worden bereid en die gewoonlijk in banketbakkerswinkels worden verkocht zoals beschuit, koek, koekjes, ragoutwerk, kerstbrood of dergelijke (gelegenheids)producten.    
 
 ### Artikel  2  
+Materieel uitgewerkt per 30-12-2008 
 
 1.  Deze verordening is van toepassing op de ondernemers die een onderneming drijven waarin het banketbakkersbedrijf wordt uitgeoefend.   
-2.  Deze verordening is niet van toepassing op ondernemers die het banketbakkersbedrijf uitoefenen in het kader van een franchiseformule en de franchisegever schriftelijk heeft verklaard, dat de vestigingen van de franchisenemers kunnen worden aangemerkt als eigen vestigingen in de zin van deze verordening.   
+2.  Deze verordening is niet van toepassing op ondernemers die het banketbakkersbedrijf uitoefenen in het kader van een franchiseformule en de franchisegever schriftelijk heeft verklaard, dat de vestigingen van de franchisenemers kunnen worden aangemerkt als eigen vestigingen in de zin van deze verordening.  
 
 ### §  2  
 
 ####De heffing
 
+Materieel uitgewerkt per 30-12-2008 
+
 ### Artikel  3  
+Materieel uitgewerkt per 30-12-2008 
 
 1.  Aan de ondernemers die op of na de dag van inwerkingtreding van deze verordening een onderneming drijven waarin het banketbakkersbedrijf wordt uitgeoefend, wordt voor het jaar 2008 een heffing opgelegd ten behoeve van activiteiten op het terrein van promotie en marketing die een gezonde sociaal-economische ontwikkeling van het banketbakkersbedrijf bevorderen.   
-2.  De heffing bedraagt € 143,- per verkoopplaats waarin hoofdzakelijk banketbakkersartikelen worden verkocht, met een maximum van € 715,- voor ten hoogste 5 verkoopplaatsen.   
+2.  De heffing bedraagt € 143,- per verkoopplaats waarin hoofdzakelijk banketbakkersartikelen worden verkocht, met een maximum van € 715,- voor ten hoogste 5 verkoopplaatsen.  
 
 ### Artikel  4  
+Materieel uitgewerkt per 30-12-2008 
 
 1.  Aan de ondernemer die lid is van: 
 
@@ -59,27 +67,33 @@ d. met betrekking tot de behartiging van sociaal-economische belangen van ondern
 
 e. haar activiteiten, al dan niet door middel van een federatie van gelijksoortige organisaties, landelijk ontplooit.     
 4.  De in het vorige lid bedoelde aftrek wordt slechts toegestaan indien daartoe door het bestuur van de desbetreffende organisatie een verzoek is gedaan.   
-5.  Op een verzoek als in het vierde lid van dit artikel bedoeld, wordt door het dagelijks bestuur van het Hoofdbedrijfschap Ambachten beslist.   
+5.  Op een verzoek als in het vierde lid van dit artikel bedoeld, wordt door het dagelijks bestuur van het Hoofdbedrijfschap Ambachten beslist.  
 
 ### §  3  
 
 ####Overige bepalingen
 
-### Artikel  5  
+Materieel uitgewerkt per 30-12-2008 
 
-De [artikelen 5 tot en met 14 van de Heffingsverordening Hoofdbedrijfschap Ambachten 2008](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2008/BWBR0023309/README.md) zijn van overeenkomstige toepassing.  
+### Artikel  5  
+Materieel uitgewerkt per 30-12-2008 
+
+De [artikelen 5 tot en met 14 van de Heffingsverordening Hoofdbedrijfschap Ambachten 2008](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2008/BWBR0023309/README.md) zijn van overeenkomstige toepassing. 
 
 ### Artikel  6  
+Materieel uitgewerkt per 30-12-2008 
 
-De voorzitter neemt de krachtens deze verordening te nemen besluiten, met uitzondering van het besluit voortvloeiende uit artikel 4, vijfde lid.  
+De voorzitter neemt de krachtens deze verordening te nemen besluiten, met uitzondering van het besluit voortvloeiende uit artikel 4, vijfde lid. 
 
 ### Artikel  7  
+Materieel uitgewerkt per 30-12-2008 
 
-Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad bedrijfsorganisatie.  
+Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad bedrijfsorganisatie. 
 
 ### Artikel  8  
+Materieel uitgewerkt per 30-12-2008 
 
-Deze verordening wordt aangehaald als: Verordening bestemmingsheffing banketbakkersbedrijf 2008.  
+Deze verordening wordt aangehaald als: Verordening bestemmingsheffing banketbakkersbedrijf 2008. 
 
 Den Haag 
 7 november 2007   

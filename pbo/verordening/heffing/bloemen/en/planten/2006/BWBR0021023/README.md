@@ -11,7 +11,10 @@ Besluit:
 
 ####Begripsbepalingen en toepassingsgebied
 
+Materieel uitgewerkt per 08-09-2007 
+
 ### Artikel  1  
+Materieel uitgewerkt per 08-09-2007 
 
 In deze verordening wordt overgenomen de terminologie van het [Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) en wordt verstaan onder: 
 
@@ -23,26 +26,32 @@ In deze verordening wordt overgenomen de terminologie van het [Instellingsbeslui
 
 4. het begrotingstijdvak: de periode van 1 januari 2006 tot en met 31 december 2006;  
 
-5. het instellingsbesluit: het [Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md).    
+5. het instellingsbesluit: het [Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md).   
 
 ### Artikel  2  
+Materieel uitgewerkt per 08-09-2007 
 
-Deze verordening is van toepassing op de ondernemer die een onderneming drijft zoals genoemd in [artikel 3, tweede lid, onder b, van het instellingsbesluit](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md).  
+Deze verordening is van toepassing op de ondernemer die een onderneming drijft zoals genoemd in [artikel 3, tweede lid, onder b, van het instellingsbesluit](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md). 
 
 ### §  2  
 
 ####De heffing
 
+Materieel uitgewerkt per 08-09-2007 
+
 ### Artikel  3  
+Materieel uitgewerkt per 08-09-2007 
 
 1.  De grondslag van de heffing is het bedrag van de inkoop van bloemkwekerijproducten door de ondernemer gedurende een begrotingstijdvak.   
-2.  Over bloemkwekerijproducten, die afkomstig zijn uit andere lidstaten van de EU en in Nederland worden verhandeld, wordt niet geheven.   
+2.  Over bloemkwekerijproducten, die afkomstig zijn uit andere lidstaten van de EU en in Nederland worden verhandeld, wordt niet geheven.  
 
 ### Artikel  4  
+Materieel uitgewerkt per 08-09-2007 
 
-Voor het begrotingstijdvak bedraagt de heffing € 0,90 per € 1.000,– ingekochte bloemkwekerijproducten.  
+Voor het begrotingstijdvak bedraagt de heffing € 0,90 per € 1.000,– ingekochte bloemkwekerijproducten. 
 
 ### Artikel  5  
+Materieel uitgewerkt per 08-09-2007 
 
 1.  Aan de ondernemer die lid is van de Vereniging van Groothandelaren in Bloemkwekerijprodukten (VGB) of Plantum NL en over het jaar 2005 aan één van deze of aan beide organisaties contributie heeft betaald, wordt op de heffing een aftrek toegestaan van 50% van de totaal betaalde contributie over 2005, met een maximum van 50% van de verschuldigde heffing.   
 2.  De aftrek wordt slechts toegestaan als aangetoond is dat de ondernemer de in het eerste lid bedoelde contributie heeft voldaan. Het eerste lid is van overeenkomstige toepassing op de ondernemers die lid zijn van een organisatie van ondernemers die een vereniging met volledige rechtsbevoegdheid is en die: 
@@ -57,27 +66,33 @@ d. met betrekking tot de behartiging van sociaal-economische belangen van ondern
 
 e. en haar activiteiten, al dan niet door middel van een federatie van gelijksoortige organisaties, landelijk ontplooit.     
 4.  De in het vorige lid bedoelde aftrek wordt slechts toegestaan indien daartoe door de desbetreffende organisatie een verzoek is gedaan.   
-5.  Op een verzoek als in het vierde lid van dit artikel bedoeld, wordt door het dagelijks bestdur van het Hoofdbedrijfschap voor de Agrarische Groothandel beslist.   
+5.  Op een verzoek als in het vierde lid van dit artikel bedoeld, wordt door het dagelijks bestdur van het Hoofdbedrijfschap voor de Agrarische Groothandel beslist.  
 
 ### Artikel  6  
+Materieel uitgewerkt per 08-09-2007 
 
-Het dagelijks bestuur van het hoofdbedrijfschap is bevoegd omtrent de bij of krachtens deze verordening geregelde onderwerpen nadere uitvoeringsvoorschriften te stellen.  
+Het dagelijks bestuur van het hoofdbedrijfschap is bevoegd omtrent de bij of krachtens deze verordening geregelde onderwerpen nadere uitvoeringsvoorschriften te stellen. 
 
 ### §  3  
 
 ####Overige bepalingen en slotbepalingen
 
-### Artikel  7  
+Materieel uitgewerkt per 08-09-2007 
 
-De voorzitter neemt de krachtens deze verordening te nemen besluiten, met uitzondering van het besluit voortvloeiende uit artikel 5, vijfde lid.  
+### Artikel  7  
+Materieel uitgewerkt per 08-09-2007 
+
+De voorzitter neemt de krachtens deze verordening te nemen besluiten, met uitzondering van het besluit voortvloeiende uit artikel 5, vijfde lid. 
 
 ### Artikel  8  
+Materieel uitgewerkt per 08-09-2007 
 
-Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad bedrijfsorganisatie.  
+Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad bedrijfsorganisatie. 
 
 ### Artikel  9  
+Materieel uitgewerkt per 08-09-2007 
 
-Deze verordening wordt aangehaald als: Verordening heffing bloemen en planten 2006.  
+Deze verordening wordt aangehaald als: Verordening heffing bloemen en planten 2006. 
 
 Aalsmeer 
 17 november 2005   
