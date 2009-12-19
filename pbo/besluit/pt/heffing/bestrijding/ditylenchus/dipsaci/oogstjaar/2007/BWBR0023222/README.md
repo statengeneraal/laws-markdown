@@ -8,12 +8,14 @@ gelet op [artikel 2 van de Verordening PT heffing bestrijding Ditylenchus dipsac
 gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen van 23 oktober 2007
 Besluit:    
 
-### Artikel  1  
+### Artikel  1 
+Materieel uitgewerkt per 30-11-2008 
 
 1.  De heffing als bedoeld in [artikel 2 derde lid, van de Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2007](../../../../../../../../../../pbo/verordening/pt/heffing/bestrijding/ditylenchus/dipsaci/oogstjaar/2007/BWBR0022144/README.md), bedraagt voor het oogstjaar 2007 voor iedere onderneming waarin de teelt wordt uitgeoefend van tulpenbollen: € 0,50 per are.   
-2.  Bedragen lager dan € 22,50, worden niet opgelegd.   
+2.  Bedragen lager dan € 22,50, worden niet opgelegd.  
 
 ### Artikel  2  
+Materieel uitgewerkt per 30-11-2008 
 
 Uitgezonderd van de areaalheffing als genoemd in artikel 1, zijn:  
 
@@ -23,12 +25,14 @@ Uitgezonderd van de areaalheffing als genoemd in artikel 1, zijn:
 | b.  | bloembollen, die voor de bolproductie in Nederland, in het eerste teeltjaar, volgend op het jaar van import, waren/zijn opgeplant en afkomstig waren/zijn van import.  |
 
 ### Artikel  3  
+Materieel uitgewerkt per 30-11-2008 
 
-Dit besluit wordt aangehaald als: Besluit PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2007.  
+Dit besluit wordt aangehaald als: Besluit PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2007. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 30-11-2008 
 
-Dit besluit treedt in werking op de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie.  
+Dit besluit treedt in werking op de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie. 
 Dit besluit en de daarbij behorende toelichting wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
 
 Zoetermeer 

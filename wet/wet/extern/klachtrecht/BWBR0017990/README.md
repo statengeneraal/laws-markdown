@@ -7,142 +7,142 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
 Alzo Wij in overweging hebben genomen, dat het, gelet op de [artikelen 78a, derde lid](../../../../../wet/grondwet/BWBR0001840/README.md), en [107, tweede lid, van de Grondwet](../../../../../wet/grondwet/BWBR0001840/README.md) wenselijk is de [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) aan te vullen met bepalingen inzake de behandeling van klachten door een ombudsman, alsmede dat het wenselijk is te voorzien in een landelijk dekkend stelsel van externe klachtvoorzieningen en in verband daarmee wijzigingen aan te brengen in de [Wet Nationale ombudsman](../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md), de [Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), de [Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md), de [Waterschapswet](../../../../../wet/waterschapswet/BWBR0005108/README.md) en de [Wet gemeenschappelijke regelingen](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md);
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-### Artikel  I  
+###Artikel I 
 
-Wijzigt de Algemene wet bestuursrecht.   
+Wijzigt de Algemene wet bestuursrecht.
 
-### Artikel  II  
+###Artikel II 
 
-Wijzigt de Wet Nationale ombudsman.   
+Wijzigt de Wet Nationale ombudsman.
 
-### Artikel  III  
+###Artikel III 
 
-Wijzigt de Gemeentewet.   
+Wijzigt de Gemeentewet.
 
-### Artikel  IV  
+###Artikel IV 
 
-Wijzigt de Provinciewet.   
+Wijzigt de Provinciewet.
 
-### Artikel  V  
+###Artikel V 
 
-Wijzigt de Waterschapswet.   
+Wijzigt de Waterschapswet.
 
-### Artikel  VI  
+###Artikel VI 
 
-Wijzigt de Wet gemeenschappelijke regelingen.   
+Wijzigt de Wet gemeenschappelijke regelingen.
 
-### Artikel  VIa  
+###Artikel VIa 
 
-Wijzigt de Wet algmene regels herindeling.   
+Wijzigt de Wet algmene regels herindeling.
 
-### Artikel  VIb  
+###Artikel VIb 
 
-Wijzigt de Wet aanvulling Algemene wet bestuursrecht met een regeling over de behandeling van klachten door bestuursorganen.   
+Wijzigt de Wet aanvulling Algemene wet bestuursrecht met een regeling over de behandeling van klachten door bestuursorganen.
 
-### Artikel  VIc  
+###Artikel VIc 
 
-Wijzigt de Kaderwet dienstplicht.   
+Wijzigt de Kaderwet dienstplicht.
 
-### Artikel  VId  
+###Artikel VId 
 
-Wijzigt de Luchtvaartwet.   
+Wijzigt de Luchtvaartwet.
 
-### Artikel  VIe  
+###Artikel VIe 
 
-Wijzigt de Militaire Ambtenarenwet 1931.   
+Wijzigt de Militaire Ambtenarenwet 1931.
 
-### Artikel  VIf  
+###Artikel VIf 
 
-Wijzigt de Pensioen- en spaarfondsenwet.   
+Wijzigt de Pensioen- en spaarfondsenwet.
 
-### Artikel  VIg  
+###Artikel VIg 
 
-Wijzigt de Wet betreffende verplichte deelneming in een beroepspensioenregeling.   
+Wijzigt de Wet betreffende verplichte deelneming in een beroepspensioenregeling.
 
-### Artikel  VIh  
+###Artikel VIh 
 
-Wijzigt de Wet op de inlichtingen- en veiligheidsdiensten 2002.   
+Wijzigt de Wet op de inlichtingen- en veiligheidsdiensten 2002.
 
-### Artikel  VIi  
+###Artikel VIi 
 
-Wijzigt de Wet op de rechterlijke organisatie.   
+Wijzigt de Wet op de rechterlijke organisatie.
 
-### Artikel  VIj  
+###Artikel VIj 
 
-Wijzigt de Wet op het onderwijstoezicht.   
+Wijzigt de Wet op het onderwijstoezicht.
 
-### Artikel  VIk  
+###Artikel VIk 
 
-Wijzigt de Wet organisatie en bestuur gerechten.   
+Wijzigt de Wet organisatie en bestuur gerechten.
 
-### Artikel  VIl  
+###Artikel VIl 
 
-Wijzigt de Wet toezicht beleggingsinstellingen.   
+Wijzigt de Wet toezicht beleggingsinstellingen.
 
-### Artikel  VIm  
+###Artikel VIm 
 
-Wijzigt de Wet toezicht effectenverkeer 1995.   
+Wijzigt de Wet toezicht effectenverkeer 1995.
 
-### Artikel  VIn  
+###Artikel VIn 
 
-Wijzigt de Wet toezicht kredietwezen 1992.   
+Wijzigt de Wet toezicht kredietwezen 1992.
 
-### Artikel  VIo  
+###Artikel VIo 
 
-Wijzigt de Wet toezicht natura-uitvaartverzekeringsbedrijf.   
+Wijzigt de Wet toezicht natura-uitvaartverzekeringsbedrijf.
 
-### Artikel  VIp  
+###Artikel VIp 
 
-Wijzigt de Wet toezicht verzekeringsbedrijf 1993.   
+Wijzigt de Wet toezicht verzekeringsbedrijf 1993.
 
-### Artikel  VIq  
+###Artikel VIq 
 
-Wijzigt de Politiewet 1993.   
+Wijzigt de Politiewet 1993.
 
-### Artikel  VIr  
+###Artikel VIr 
 
-Wijzigt de Wet op het Centraal bureau voor de statistiek.   
+Wijzigt de Wet op het Centraal bureau voor de statistiek.
 
-### Artikel  VIs  
+###Artikel VIs 
 
-Wijzigt de Wet op de jeugdzorg.   
+Wijzigt de Wet op de jeugdzorg.
 
-### Artikel  VII  
+###Artikel VII 
 
-Wijzigt de Algemene wet bestuursrecht.   
+Wijzigt de Algemene wet bestuursrecht.
 
-### Artikel  VIII  
+### Artikel VIII 
 
-Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie zenden binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie zenden binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-### Artikel  IX  
+### Artikel IX 
 
-1.  Op verzoekschriften die bij de Nationale ombudsman zijn ingediend voor de inwerkingtreding van de artikelen I en II van deze wet, zijn de bepalingen van de [Wet Nationale ombudsman](../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md) van toepassing, zoals deze voor dat tijdstip luidden.   
-2.  Ten aanzien van bestuursorganen van provincies, gemeenten, waterschappen en gemeenschappelijke regelingen waarop tot de inwerkingtreding van artikel II van deze wet, de [Wet Nationale ombudsman](../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md) niet van toepassing was, stelt de Nationale ombudsman geen onderzoek in voorzover het gaat om gedragingen die plaats vonden voordat artikel II van deze wet in werking was getreden.   
+1. Op verzoekschriften die bij de Nationale ombudsman zijn ingediend voor de inwerkingtreding van de artikelen I en II van deze wet, zijn de bepalingen van de [Wet Nationale ombudsman](../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md) van toepassing, zoals deze voor dat tijdstip luidden. 
+2. Ten aanzien van bestuursorganen van provincies, gemeenten, waterschappen en gemeenschappelijke regelingen waarop tot de inwerkingtreding van artikel II van deze wet, de [Wet Nationale ombudsman](../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md) niet van toepassing was, stelt de Nationale ombudsman geen onderzoek in voorzover het gaat om gedragingen die plaats vonden voordat artikel II van deze wet in werking was getreden. 
 
-### Artikel  X  
+### Artikel X 
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-### Artikel  XI  
+### Artikel XI 
 
-Deze wet wordt aangehaald als: Wet extern klachtrecht.  
+Deze wet wordt aangehaald als: Wet extern klachtrecht.
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-Gegeven te ’s-Gravenhage 
-3 februari 2005  
-Beatrix  
+Gegeven te ’s-Gravenhage
+3 februari 2005
+Beatrix
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties , 
-J. W. Remkes   
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties ,
+J. W.Remkes
 
-De Minister van Justitie , 
-J. P. H. Donner   
+De Minister van Justitie ,
+J. P. H.Donner
 
-de *tweeëntwintigste* februari 2005 
+de *tweeëntwintigste* februari 2005
 
-De Minister van Justitie , 
-J. P. H. Donner    
+De Minister van Justitie ,
+J. P. H.Donner

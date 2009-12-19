@@ -9,16 +9,19 @@ gehoord de Commissie voor groenten en fruit, d.d. 3 april 2007;
 BESLUIT:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 07-09-2008 
 
-In 2007 bedraagt de heffing € 30,00 per kwartier.  
+In 2007 bedraagt de heffing € 30,00 per kwartier. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 07-09-2008 
 
-Dit besluit wordt aangehaald als: Besluit PT heffing export groenten en fruit Japan en Taiwan 2007.  
+Dit besluit wordt aangehaald als: Besluit PT heffing export groenten en fruit Japan en Taiwan 2007. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 07-09-2008 
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst. 
 Dit besluit en de daarbij behorende toelichting zal worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
 
 Zoetermeer 

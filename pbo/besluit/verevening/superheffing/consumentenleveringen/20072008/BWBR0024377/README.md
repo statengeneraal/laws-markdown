@@ -7,20 +7,24 @@ Gelet op de artikelen 79 en 83, eerste lid, van Verordening (EG) nr. 1234/2007 
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 31-07-2009 
 
-Dit besluit hanteert de definities van de [Regeling superheffing 2008](../../../../../../../ministeriele-regeling/regeling/superheffing/2008/BWBR0023701/README.md), met dien verstande dat onder quotum wordt verstaan het individuele quotum voor rechtstreekse verkoop aan het einde van de heffingsperiode, in voorkomend geval, verhoogd dan wel verlaagd op grond van tijdelijke overdracht als bedoeld in [artikel 6 van de Regeling superheffing 2008](../../../../../../../ministeriele-regeling/regeling/superheffing/2008/BWBR0023701/README.md).  
+Dit besluit hanteert de definities van de [Regeling superheffing 2008](../../../../../../../ministeriele-regeling/regeling/superheffing/2008/BWBR0023701/README.md), met dien verstande dat onder quotum wordt verstaan het individuele quotum voor rechtstreekse verkoop aan het einde van de heffingsperiode, in voorkomend geval, verhoogd dan wel verlaagd op grond van tijdelijke overdracht als bedoeld in [artikel 6 van de Regeling superheffing 2008](../../../../../../../ministeriele-regeling/regeling/superheffing/2008/BWBR0023701/README.md). 
 
 ### Artikel  2  
+Materieel uitgewerkt per 31-07-2009 
 
-Behoudens het bepaalde in artikel 3 wordt, in geval van rechtstreekse verkoop, voor de vaststelling en oplegging van de door de producent voor de heffingsperiode 2007/2008 verschuldigde heffing als bedoeld in [artikel 2 van de Regeling superheffing 2008](../../../../../../../ministeriele-regeling/regeling/superheffing/2008/BWBR0023701/README.md), het quotum van de producent verhoogd met een hoeveelheid gelijk aan 1,25% van het quotum.  
+Behoudens het bepaalde in artikel 3 wordt, in geval van rechtstreekse verkoop, voor de vaststelling en oplegging van de door de producent voor de heffingsperiode 2007/2008 verschuldigde heffing als bedoeld in [artikel 2 van de Regeling superheffing 2008](../../../../../../../ministeriele-regeling/regeling/superheffing/2008/BWBR0023701/README.md), het quotum van de producent verhoogd met een hoeveelheid gelijk aan 1,25% van het quotum. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 31-07-2009 
 
-Het bepaalde in artikel 2 geldt niet, indien op de producent het bepaalde in artikel 11, derde lid, tweede alinea, van Verordening (EG) nr. 595/2004 van toepassing is.  
+Het bepaalde in artikel 2 geldt niet, indien op de producent het bepaalde in artikel 11, derde lid, tweede alinea, van Verordening (EG) nr. 595/2004 van toepassing is. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 31-07-2009 
 
-Dit besluit wordt aangehaald als Besluit verevening superheffing consumentenleveringen 2007/2008.  
+Dit besluit wordt aangehaald als Besluit verevening superheffing consumentenleveringen 2007/2008. 
 
 Zoetermeer 
 31 juli 2008   

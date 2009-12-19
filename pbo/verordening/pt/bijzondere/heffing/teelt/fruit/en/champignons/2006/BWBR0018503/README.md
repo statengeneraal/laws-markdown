@@ -13,7 +13,10 @@ Besluit:
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 24-12-2006 
+
 ### Artikel  1  
+Materieel uitgewerkt per 24-12-2006 
 
 1.  In deze verordening worden overgenomen de begripsbepalingen van de [artikelen 1](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [2 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md).   
 2.  In deze verordening worden overgenomen de begripsbepalingen van [artikel 1:1](../../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2003/BWBR0016684/README.md) en [artikel 3:1](../../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2003/BWBR0016684/README.md), en de werkwijze zoals beschreven in [hoofdstuk 3 van de Verordening PT algemene bepalingen 2003](../../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2003/BWBR0016684/README.md).   
@@ -31,22 +34,29 @@ Besluit:
 
 ####Heffingsplicht
 
+Materieel uitgewerkt per 24-12-2006 
+
 ### Artikel  2  
+Materieel uitgewerkt per 24-12-2006 
 
 1.  De ondernemer die in het jaar 2006 een onderneming drijft waarin fruit of champignons worden geteeld is aan het productschap een heffing verschuldigd.   
 2.  De berekening van de heffing als bedoeld in het eerste lid, vindt plaats op basis van de door de ondernemer aan het productschap verstrekte gegevens.   
 3.  De heffing als bedoeld in het eerste lid, is aan het productschap verschuldigd over het kalenderjaar 2006, ten behoeve van afzetbevordering, onderzoek en milieuprojecten.   
-4.  De heffing als bedoeld in het eerste lid, wordt opgelegd bij wege van een aanslag, met inachtneming van het in de volgende artikelen bepaalde.   
+4.  De heffing als bedoeld in het eerste lid, wordt opgelegd bij wege van een aanslag, met inachtneming van het in de volgende artikelen bepaalde.  
 
 ### §  3  
 
 ####Grondslag en hoogte
 
-### Artikel  3  
+Materieel uitgewerkt per 24-12-2006 
 
-De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, een en ander overeenkomstig de volgende artikelen.  
+### Artikel  3  
+Materieel uitgewerkt per 24-12-2006 
+
+De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, een en ander overeenkomstig de volgende artikelen. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 24-12-2006 
 
 1.  De heffing naar de grondslag grondgebruik wordt berekend naar de oppervlakte van de bij de onderneming behorende cultuurgrond en bedraagt ten hoogste voor:  
 
@@ -59,11 +69,12 @@ De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, ee
 | e.  | groep 35  | cultuurgrond in gebruik voor de teelt in de open grond van overige pit- en steenvruchten:  | € 226,89 per ha  |
 | f.  | groep 36  | cultuurgrond in gebruik voor de teelt in de open grond van zwarte bessen en zure kersen:  | € 45,37 per ha  |
 | g.  | groep 60  | cultuurgrond in gebruik voor de teelt onder glas van fruit  | € 11,34 per are  |
-| h.  | groep 75  | Teeltbakken beschikbaar voor de teelt van champignons:  | € 2,72 per m <sup>2</sup>  |
+| h.  | groep 75  | Teeltbakken beschikbaar voor de teelt van champignons:  | € 2,72 per m<sup>2</sup>  |
 
-2.  De hoogte van de heffing als bedoeld in artikel 3 en artikel 4, eerste lid, wordt door middel van een besluit van het bestuur vastgesteld.   
+2.  De hoogte van de heffing als bedoeld in artikel 3 en artikel 4, eerste lid, wordt door middel van een besluit van het bestuur vastgesteld.  
 
 ### Artikel  5  
+Materieel uitgewerkt per 24-12-2006 
 
 1.  Voor de toepassing van artikel 4, wordt onder de bij de landbouwonderneming behorende cultuurgrond mede verstaan cultuurgrond die: 
 
@@ -76,37 +87,46 @@ c. in gebruik is ontvangen, of
 d. door de ondernemer wordt beteeld voor contractteelt.     
 2.  Voor de toepassing van artikel 4, wordt cultuurgrond gerekend naar de gemeten maat.   
 3.  Voor de toepassing van artikel 4, worden met betrekking tot de groepen 32 tot en met 36 gedeelten van een hectare belast in evenredigheid met de voor die groepen bedoelde bedragen. Gedeelten van een hectare worden naar beneden afgerond tot een veelvoud van aren.   
-4.  Voor de toepassing van artikel 4, worden met betrekking tot groep 60 gedeelten van een are belast in evenredigheid met de voor die groep bedoelde bedragen.   
+4.  Voor de toepassing van artikel 4, worden met betrekking tot groep 60 gedeelten van een are belast in evenredigheid met de voor die groep bedoelde bedragen.  
 
 ### §  4  
 
 ####Oplegging en inning
 
+Materieel uitgewerkt per 24-12-2006 
+
 ### Artikel  6  
+Materieel uitgewerkt per 24-12-2006 
 
 1.  De oplegging van de krachtens deze verordening verschuldigde heffing vindt plaats na afloop van het jaar waarover de heffing verschuldigd is en geschiedt door middel van toezending of uitreiking aan de heffingsplichtige van een heffingsnota.   
-2.  In afwijking van het eerste lid kan de heffingsplichtige een voorlopige heffing worden opgelegd tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.   
+2.  In afwijking van het eerste lid kan de heffingsplichtige een voorlopige heffing worden opgelegd tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.  
 
 ### Artikel  7  
+Materieel uitgewerkt per 24-12-2006 
 
-Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in artikel 6, niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.  
+Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in artikel 6, niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd. 
 
 ### Artikel  8  
+Materieel uitgewerkt per 24-12-2006 
 
 1.  De gegevens verkregen uit hoofde van het bepaalde in deze verordening dienen in handen van de voorzitter of door deze aan te wijzen personen van het secretariaat van het productschap te worden gesteld.   
-2.  Deze gegevens mogen slechts worden gebezigd voor de vervulling van de taak van het productschap.   
+2.  Deze gegevens mogen slechts worden gebezigd voor de vervulling van de taak van het productschap.  
 
 ### §  5  
 
 ####Slotbepalingen
 
-### Artikel  9  
+Materieel uitgewerkt per 24-12-2006 
 
-Deze verordening treedt in werking met ingang van de tweede dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst.  
+### Artikel  9  
+Materieel uitgewerkt per 24-12-2006 
+
+Deze verordening treedt in werking met ingang van de tweede dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst. 
 
 ### Artikel  10  
+Materieel uitgewerkt per 24-12-2006 
 
-Deze verordening wordt aangehaald als: Verordening PT bijzondere heffing teelt fruit en champignons 2006.  
+Deze verordening wordt aangehaald als: Verordening PT bijzondere heffing teelt fruit en champignons 2006. 
 Deze verordening en de daarbij behorende bijlage worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
 
 Zoetermeer 
@@ -117,4 +137,4 @@ voorzitter
 
 C. Kuijvenhoven  
 secretaris   Goedgekeurd door de Bestuurskamer van de Sociaal-Economische Raad bij besluit van 22 september 2005 en door de Minister van Landbouw, Natuur en Voedselkwaliteit bij beschikking van 5 september 2005, nr. TRCJZ/2005/2184.   
-Niet opgenomen.  
+Niet opgenomen.
