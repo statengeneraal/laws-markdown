@@ -62,20 +62,20 @@ Met het oog op de bescherming van de persoonlijke levenssfeer en het anderszins 
 
 ### Artikel  2  
 
-Raadpleging van de in artikel 1 bedoelde archiefbescheiden is slechts mogelijk na ondertekening van het door het Noord-Hollands Archief gehanteerde formulier ‘Toestemming raadpleging archieven met beperkende bepalingen’; een exemplaar van dit formulier is als bijlage bij deze regeling gevoegd.  
+Raadpleging van de in artikel 1 bedoelde archiefbescheiden is slechts mogelijk na ondertekening van het door het Noord-Hollands Archief gehanteerde formulier ‘Toestemming raadpleging archieven met beperkende bepalingen’; een exemplaar van dit formulier is als bijlage bij deze regeling gevoegd. 
 
 ### Artikel  3  
 
-Het is niet toegestaan reproducties te vervaardigen van archiefbescheiden uit dossiers waarop deze beperkende bepalingen van toepassing zijn, zonder toestemming van de directeur van het Noord-Hollands Archief. De directeur van het Noord-Hollands Archief kan voorwaarden verbinden aan het verlenen van zijn toestemming.  
+Het is niet toegestaan reproducties te vervaardigen van archiefbescheiden uit dossiers waarop deze beperkende bepalingen van toepassing zijn, zonder toestemming van de directeur van het Noord-Hollands Archief. De directeur van het Noord-Hollands Archief kan voorwaarden verbinden aan het verlenen van zijn toestemming. 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink  
+A. Klink    
 
 ### Bijlage  
 

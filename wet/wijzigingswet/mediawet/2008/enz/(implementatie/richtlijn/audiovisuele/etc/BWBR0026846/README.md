@@ -13,46 +13,46 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Mediawet 2008.   
+Wijzigt de Mediawet 2008. 
 
 ### Artikel  II  
 
-Wijzigt de Tabakswet.   
+Wijzigt de Tabakswet. 
 
 ### Artikel  III  
 
-In afwijking van [artikel 3.29b, eerste lid, van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) kan een commerciële media-instelling die op de dag van de inwerkingtreding van dat artikel een commerciële mediadienst op aanvraag verzorgt, de desbetreffende melding van de aanvang van die mediadienst doen tot twee maanden na de dag van de inwerkingtreding van dat artikel.  
+In afwijking van [artikel 3.29b, eerste lid, van de Mediawet 2008](../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) kan een commerciële media-instelling die op de dag van de inwerkingtreding van dat artikel een commerciële mediadienst op aanvraag verzorgt, de desbetreffende melding van de aanvang van die mediadienst doen tot twee maanden na de dag van de inwerkingtreding van dat artikel. 
 
 ### Artikel  IV  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  V  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  VI  
 
-Wijzigt de Wijzigingswet Mediawet 2008 (erkenning en financiering publieke omroep).   
+Wijzigt de Wijzigingswet Mediawet 2008 (erkenning en financiering publieke omroep). 
 
 ### Artikel  VII  
 
-Wijzigt de Wijzigingswet Mediawet 2008 (erkenning en financiering publieke omroep).   
+Wijzigt de Wijzigingswet Mediawet 2008 (erkenning en financiering publieke omroep). 
 
 ### Artikel  VIII  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 10 december 2009  
 Beatrix  
 
-De Minister van Onderwijs, Cultuur en Wetenschap, 
-R. H. A.Plasterk 
+De Minister van Onderwijs, Cultuur en Wetenschap , 
+R. H. A. Plasterk   
 
 de *achttiende* december 2009 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    
