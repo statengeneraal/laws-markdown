@@ -10,17 +10,17 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Warenwetregeling tatoeëren en piercen.   
+Wijzigt de Warenwetregeling tatoeëren en piercen. 
 
 ### Artikel  II  
 
-Indien een aanvraag, bedoeld in [artikel 3, tweede lid, van de Warenwetregeling tatoeëren en piercen](../../../../../../../../ministeriele-regeling/warenwetregeling/tatoeëren/en/piercen/BWBR0021915/README.md), is gedaan voor de inwerkingtreding van deze regeling, blijft artikel 3, derde lid, van de Warenwetregeling tatoeëren en piercen van toepassing, zoals dat luidde direct voor de inwerkingtreding van deze regeling.  
+Indien een aanvraag, bedoeld in [artikel 3, tweede lid, van de Warenwetregeling tatoeëren en piercen](../../../../../../../../ministeriele-regeling/warenwetregeling/tatoeëren/en/piercen/BWBR0021915/README.md), is gedaan voor de inwerkingtreding van deze regeling, blijft artikel 3, derde lid, van de Warenwetregeling tatoeëren en piercen van toepassing, zoals dat luidde direct voor de inwerkingtreding van deze regeling. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel 60 van de Dienstenwet](../../../../../../../../wet/dienstenwet/BWBR0026759/README.md) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop [artikel 60 van de Dienstenwet](../../../../../../../../wet/dienstenwet/BWBR0026759/README.md) in werking treedt. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink   
+Minister van Volksgezondheid, Welzijn en Sport,
+A. Klink     
