@@ -8,7 +8,7 @@ De Raad van Bestuur van de Nederlandse Zorgautoriteit,  Gelet op de [artikelen 3
 
 ####Werkingssfeer
 
-Deze regeling is van toepassing op zorgaanbieders die ambulante tweedelijns curatieve geestelijke gezondheidszorg leveren als bedoeld in de [Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).  
+Deze regeling is van toepassing op zorgaanbieders die ambulante tweedelijns curatieve geestelijke gezondheidszorg leveren als bedoeld in de [Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). 
 
 ### Artikel  2  
 
@@ -26,7 +26,7 @@ d. *Aanmeldingswachttijd:* Het aantal weken tussen het moment dat een cliënt of
 
 e. *Behandelingswachttijd:* Het aantal weken tussen de intake en de start van de behandeling. De behandelingswachttijd is de retrospectieve wachttijd van de laatste twee maanden voor alle ambulante behandelingen bij de vestigingslocatie(s) van de zorgaanbieder.  
 
-f. *Vestigingslocatie:* Locatie waar ambulante curatieve geestelijke gezondheidszorg wordt geleverd.    
+f. *Vestigingslocatie:* Locatie waar ambulante curatieve geestelijke gezondheidszorg wordt geleverd.   
 
 ### Artikel  3  
 
@@ -49,22 +49,22 @@ ii. melding of deze wachttijden actueel of gemiddeld zijn door gebruik te maken 
 iii. de datum van de laatste actualisatie van de getoonde wachttijden.     
 2.  Voor publicatie van de wachttijden worden deze omgerekend naar hele weken door naar boven af te ronden.   
 3.  Het is toegestaan om de wachttijden van vestigingslocaties te clusteren tot een enkele wachttijd wanneer verschillende vestigingslocaties zich bevinden binnen één gemeente (of deelgemeente) of wanneer vestigingslocaties van een aanbieder zich in verschillende gemeentes maar op maximaal tien kilometer afstand van elkaar bevinden.   
-4.  De gegevens op de website moeten minimaal 1 keer per maand worden geactualiseerd tussen de eerste en de tiende dag van de maand.   
+4.  De gegevens op de website moeten minimaal 1 keer per maand worden geactualiseerd tussen de eerste en de tiende dag van de maand.  
 
 ### Artikel  4  
 
 ####Alternatief medium
 
 1.  De zorgaanbieder verstrekt aan eenieder die daarom verzoekt onverwijld mondeling of schriftelijk de wachttijdinformatie zoals opgenomen in artikel 3.   
-2.  Wanneer de zorgaanbieder geen website heeft, wordt de wachttijd-informatie zoals opgenomen in artikel 3 op verzoek van eenieder direct mondeling of schriftelijk verstrekt, in een vorm die aansluit bij de behoefte van de verzoekende partij.   
+2.  Wanneer de zorgaanbieder geen website heeft, wordt de wachttijd-informatie zoals opgenomen in artikel 3 op verzoek van eenieder direct mondeling of schriftelijk verstrekt, in een vorm die aansluit bij de behoefte van de verzoekende partij.  
 
 ### Artikel  5  
 
 ####Slotbepalingen
 
 1.  De regeling kan worden aangehaald als ‘Regeling publicatie wachttijden ambulante tweedelijns GGZ’.   
-2.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.   
+2.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
 
 De Raad van Bestuur van de Nederlandse Zorgautoriteit, 
-voorzitter a.i., 
-C.C. vanBeek   
+voorzitter a.i.,
+C.C. van Beek     

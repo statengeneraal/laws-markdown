@@ -15,17 +15,17 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.   
+Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.  
 
 ### Artikel  II  
 
-Dit besluit treedt in werking met ingang van 1 januari 2000, met dien verstande dat het in ARTIKEL I, onderdeel C, opgenomen artikel 24ba, eerste lid, onderdelen b en c, eerst toepassing vindt met betrekking tot leveringen die plaatsvinden op of na 1 januari 2000.  
+Dit besluit treedt in werking met ingang van 1 januari 2000, met dien verstande dat het in ARTIKEL I, onderdeel C, opgenomen artikel 24ba, eerste lid, onderdelen b en c, eerst toepassing vindt met betrekking tot leveringen die plaatsvinden op of na 1 januari 2000. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 25 november 1999  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Financiën, 
 W. A. F. G. Vermeend   
@@ -33,4 +33,4 @@ W. A. F. G. Vermeend
 de *negende* december 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.   
+Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.  
 
 ### Artikel  II  
 
-Dit besluit treedt in werking met ingang van 1 januari 2002, met dien verstande dat de [aanhef juncto nummer 21 van onderdeel b van de bij het Uitvoeringsbesluit omzetbelasting 1968 behorende bijlage B](../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md) zoals deze bepaling luidde op 31 december 2001, van toepassing blijft met betrekking tot die instellingen die deze bepaling toepasten op die datum, en wel uiterlijk tot het tijdstip waarop die instellingen ervoor kiezen die bepaling niet langer op hen van toepassing te doen zijn.  
+Dit besluit treedt in werking met ingang van 1 januari 2002, met dien verstande dat de [aanhef juncto nummer 21 van onderdeel b van de bij het Uitvoeringsbesluit omzetbelasting 1968 behorende bijlage B](../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md) zoals deze bepaling luidde op 31 december 2001, van toepassing blijft met betrekking tot die instellingen die deze bepaling toepasten op die datum, en wel uiterlijk tot het tijdstip waarop die instellingen ervoor kiezen die bepaling niet langer op hen van toepassing te doen zijn. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -33,4 +33,4 @@ W. J. Bos
 de *achtentwintigste* december 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     
