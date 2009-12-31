@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt de Wet toezicht accountantsorganisaties.   
+Wijzigt de Wet toezicht accountantsorganisaties. 
 
 ### Artikel  II  
 
-De [bijlage bij artikel 1, eerste lid, onderdeel p, van de Wet toezicht accountantsorganisaties](../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) is van toepassing op de verslaglegging, bedoeld in de [artikelen 70c, tweede lid, onderdeel h](../../../../../../../../wet/woningwet/BWBR0005181/README.md), en [71g, eerste lid, van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md), over een boekjaar dat aanvangt op of na 1 januari 2009.  
+De [bijlage bij artikel 1, eerste lid, onderdeel p, van de Wet toezicht accountantsorganisaties](../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) is van toepassing op de verslaglegging, bedoeld in de [artikelen 70c, tweede lid, onderdeel h](../../../../../../../../wet/woningwet/BWBR0005181/README.md), en [71g, eerste lid, van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md), over een boekjaar dat aanvangt op of na 1 januari 2009. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -31,10 +31,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 22 december 2009  
 Beatrix  
 
-De Minister voor Wonen, Wijken en Integratie, 
-E. E. van derLaan 
+De Minister voor Wonen, Wijken en Integratie , 
+E. E. van der Laan   
 
 de *negenentwintigste* december 2009 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

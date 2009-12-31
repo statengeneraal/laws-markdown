@@ -11,20 +11,20 @@ Gelet op de [artikelen 2, derde en vierde lid](../../../../../wet/wet/op/de/acci
 De Raad van State gehoord (advies van 18 december 1992, nr. W06.92.0544);
 
 Gezien het nader rapport van de Staatssecretaris van Financiën van 23 december 1992, nr. WV 92/685, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Verbruiksbelastingen;
-Hebben goedgevonden en verstaan:    
+Hebben goedgevonden en verstaan:  
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
 1.  De vrijstelling van accijns als bedoeld in artikel III van de Wet tot wijziging van de [Wet op de accijns](../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) in verband met de afschaffing van de fiscale grenzen (*Stb.* 1992, 711) geldt alleen voor zover de hoeveelheid accijnsgoederen, per persoon en per reis, niet de maxima overschrijdt die zijn vastgesteld bij ministeriële regeling.   
-2.  Voor de toepassing van de vrijstelling met betrekking tot de accijnsgoederen die bestemd zijn om aan boord van een vliegtuig of een schip aan de reizigers te worden geleverd worden de accijnsgoederen geacht uit de accijnsgoederenplaats te zijn uitgeslagen op het tijdstip waarop zij worden geleverd aan de reizigers.   
+2.   Voor de toepassing van de vrijstelling met betrekking tot de accijnsgoederen die bestemd zijn om aan boord van een vliegtuig of een schip aan de reizigers te worden geleverd worden de accijnsgoederen geacht uit de accijnsgoederenplaats te zijn uitgeslagen op het tijdstip waarop zij worden geleverd aan de reizigers.  
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van 1 januari 1993.  
+Dit besluit treedt in werking met ingang van 1 januari 1993. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 
