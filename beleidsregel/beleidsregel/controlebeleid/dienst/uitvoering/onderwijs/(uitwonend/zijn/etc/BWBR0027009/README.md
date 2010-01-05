@@ -12,4 +12,4 @@ Deze controle geldt in de eerste plaats voor alle nieuwe studerenden die op of n
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, 
-R.H.A.Plasterk   
+R.H.A. Plasterk     

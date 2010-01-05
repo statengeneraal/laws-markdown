@@ -8,34 +8,34 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Wet op de accijns.   
+Wijzigt de Wet op de accijns. 
 
 ### Artikel  II  
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.   
+Wijzigt de Wet op de motorrijtuigenbelasting 1994. 
 
 ### Artikel  III  
 
-Wijzigt de Wet belastingen op milieugrondslag.   
+Wijzigt de Wet belastingen op milieugrondslag. 
 
 ### Artikel  IV  
 
-[Artikel 84a van de Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) vindt geen toepassing op de in artikel I opgenomen verhogingen van de accijns.  
+[Artikel 84a van de Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) vindt geen toepassing op de in artikel I opgenomen verhogingen van de accijns. 
 
 ### Artikel  V  
 
-Wijzigt de Belastingplan 2008.   
+Wijzigt de Belastingplan 2008. 
 
 ### Artikel  VI  
 
-Wijzigt de Belastingplan 2008.   
+Wijzigt de Belastingplan 2008. 
 
 ### Artikel  VII  
 
 1.  Deze regeling treedt in werking met ingang van 1 januari 2009.   
-2.  Deze regeling wordt aangehaald als: Bijstellingsregeling accijns, motorrijtuigenbelasting en belastingen op milieugrondslag 2009.   
+2.  Deze regeling wordt aangehaald als: Bijstellingsregeling accijns, motorrijtuigenbelasting en belastingen op milieugrondslag 2009.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Financiën, 
-J.C. deJager   
+Staatssecretaris van Financiën,
+J.C. de Jager     
