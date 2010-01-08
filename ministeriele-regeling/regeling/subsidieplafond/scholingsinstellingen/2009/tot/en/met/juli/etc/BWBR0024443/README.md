@@ -12,7 +12,7 @@ Besluit:
 
 1.  Het totale subsidieplafond, bedoeld in [artikel 3 van de Subsidieregeling scholing jonggehandicapten met ernstige scholingsbelemmeringen](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/scholing/jonggehandicapten/met/ernstige/etc/BWBR0018795/README.md), bedraagt voor de periode 1 januari 2009 tot en met 31 juli 2012 € 13,3 miljoen.   
 2.  Het subsidieplafond, bedoeld in het eerste lid, wordt als volgt over de klassen, bedoeld in [artikel 4 van de Subsidieregeling scholing jonggehandicapten met ernstige scholingsbelemmeringen](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/scholing/jonggehandicapten/met/ernstige/etc/BWBR0018795/README.md), verdeeld: klasse 1: € 0 miljoen; klasse 2: € 5,3 miljoen; klasse 3: € 8,0 miljoen.   
-3.  In afwijking van het tweede lid, kunnen, ter afronding, de daar genoemde bedragen met maximaal € 100.000 worden verhoogd, met dien verstande dat het bedrag, genoemd in het eerste lid niet wordt overschreden.   
+3.  In afwijking van het tweede lid, kunnen, ter afronding, de daar genoemde bedragen met maximaal € 100.000 worden verhoogd, met dien verstande dat het bedrag, genoemd in het eerste lid niet wordt overschreden.  
 
 ### Artikel  2  
 
@@ -20,7 +20,7 @@ Besluit:
 
 1.  Het totale subsidieplafond, bedoeld in [artikel 3 van de Subsidieregeling scholing jonggehandicapten met ernstige scholingsbelemmeringen](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/scholing/jonggehandicapten/met/ernstige/etc/BWBR0018795/README.md), bedraagt voor de periode 1 januari 2010 tot en met 31 juli 2013 € 15,8 miljoen.   
 2.  Het subsidieplafond, bedoeld in het eerste lid, wordt als volgt over de klassen, bedoeld in [artikel 4 van de Subsidieregeling scholing jonggehandicapten met ernstige scholingsbelemmeringen](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/scholing/jonggehandicapten/met/ernstige/etc/BWBR0018795/README.md), verdeeld: klasse 1: € 0 miljoen; klasse 2: € 6,3 miljoen; klasse 3: € 9,5 miljoen.   
-3.  In afwijking van het tweede lid, kunnen, ter afronding, de daar genoemde bedragen met maximaal € 100.000 worden verhoogd, met dien verstande dat het bedrag, genoemd in het eerste lid niet wordt overschreden.   
+3.  In afwijking van het tweede lid, kunnen, ter afronding, de daar genoemde bedragen met maximaal € 100.000 worden verhoogd, met dien verstande dat het bedrag, genoemd in het eerste lid niet wordt overschreden.  
 
 ### Artikel  2a  
 
@@ -28,7 +28,7 @@ Besluit:
 
 1.  Het totale subsidieplafond, bedoeld in [artikel 14, tweede lid, van de Subsidieregeling scholing jonggehandicapten met ernstige scholingsbelemmeringen](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/scholing/jonggehandicapten/met/ernstige/etc/BWBR0018795/README.md), bedraagt € 2,5 miljoen.   
 2.  Het subsidieplafond, bedoeld in het eerste lid, wordt als volgt over de klassen bedoeld in [artikel 4 van de Subsidieregeling scholing jonggehandicapten met ernstige scholingsbelemmeringen](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/scholing/jonggehandicapten/met/ernstige/etc/BWBR0018795/README.md), verdeeld: klasse 1: € 0 miljoen; klasse 2: € 1 miljoen; klasse 3: € 1,5 miljoen.   
-3.  In afwijking van het tweede lid, kunnen ter afronding op hele trajecten, de onder klasse 2 en 3 genoemde bedragen met maximaal € 100.000 worden verhoogd, met dien verstande dat het bedrag, genoemd in het eerste lid niet wordt overschreden.   
+3.  In afwijking van het tweede lid, kunnen ter afronding op hele trajecten, de onder klasse 2 en 3 genoemde bedragen met maximaal € 100.000 worden verhoogd, met dien verstande dat het bedrag, genoemd in het eerste lid niet wordt overschreden.  
 
 ### Artikel  2b  
 
@@ -41,13 +41,13 @@ Besluit:
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2009.  
+Deze regeling treedt in werking met ingang van 1 januari 2009. 
 
 ### Artikel  4  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling subsidieplafond scholingsinstellingen 2009 tot en met juli 2012/2010 tot en met juli 2013.  
+Deze regeling wordt aangehaald als: Regeling subsidieplafond scholingsinstellingen 2009 tot en met juli 2012/2010 tot en met juli 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -55,4 +55,4 @@ Den Haag
 
 De 
 Minister van Sociale Zaken en Werkgelegenheid, 
-J.P.H.Donner   
+J.P.H. Donner     

@@ -24,11 +24,11 @@ f. uitkering: de uitkering in de zin van [hoofdstuk II van de WAO](../../../../.
 
 g. uitkeringsgerechtigde: de persoon aan wie een uitkering ingevolge de [WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [WAZ](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) of de [Wajong](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) is toegekend;  
 
-h. aanvrager: de persoon bedoeld in [artikel 34, derde lid, van de WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [artikel 64, derde lid, van de Wet WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [artikel 28, vierde lid, van de Wajong](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md).    
+h. aanvrager: de persoon bedoeld in [artikel 34, derde lid, van de WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [artikel 64, derde lid, van de Wet WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [artikel 28, vierde lid, van de Wajong](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md).   
 
 ### Artikel  2  
 
-Dit besluit is van toepassing op de aanvrager en de uitkeringsgerechtigde die in het buitenland wonen of verblijven.  
+Dit besluit is van toepassing op de aanvrager en de uitkeringsgerechtigde die in het buitenland wonen of verblijven. 
 
 ### Artikel  3  
 
@@ -41,23 +41,23 @@ a. op door het UWV vast te stellen tijdstippen een door een bevoegde autoriteit 
 b. na een oproep van het UWV op een door het UWV te bepalen kantoor te verschijnen en de gevraagde gegevens te verstrekken;  
 
 c. mee te werken aan verificatie van de gegevens door een door het UWV aangewezen orgaan.     
-4.  Indien nodig ondertekent de aanvrager of uitkeringsgerechtigde een machtiging aan het UWV om verificatie door het aangewezen orgaan mogelijk te maken. Op deze machtiging dient vermeld te staan de naam van het orgaan en welke gegevens gecontroleerd mogen worden.   
+4.  Indien nodig ondertekent de aanvrager of uitkeringsgerechtigde een machtiging aan het UWV om verificatie door het aangewezen orgaan mogelijk te maken. Op deze machtiging dient vermeld te staan de naam van het orgaan en welke gegevens gecontroleerd mogen worden.  
 
 ### Artikel  4  
 
-Het bepaalde in de voorgaande artikelen is van overeenkomstige toepassing op de wettelijke vertegenwoordiger van de aanvrager en de uitkeringsgerechtigde, alsmede de instelling bedoeld in [artikel 54 WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [artikel 71 Wet WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [artikel 57 WAZ](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) of [artikel 49 Wajong](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) waaraan de arbeidsongeschiktheidsuitkering wordt betaald.  
+Het bepaalde in de voorgaande artikelen is van overeenkomstige toepassing op de wettelijke vertegenwoordiger van de aanvrager en de uitkeringsgerechtigde, alsmede de instelling bedoeld in [artikel 54 WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [artikel 71 Wet WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [artikel 57 WAZ](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) of [artikel 49 Wajong](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) waaraan de arbeidsongeschiktheidsuitkering wordt betaald. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  6  
 
-De Controlevoorschriften buitenland WAO, WAZ en Wajong worden ingetrokken.  
+De Controlevoorschriften buitenland WAO, WAZ en Wajong worden ingetrokken. 
 
 ### Artikel  7  
 
-Dit besluit wordt aangehaald als: Controlevoorschriften buitenland arbeidsongeschiktheidswetten 2006.  
+Dit besluit wordt aangehaald als: Controlevoorschriften buitenland arbeidsongeschiktheidswetten 2006. 
 Dit besluit wordt met de toelichting in de Staatscourant gepubliceerd.   
 
 Amsterdam 
@@ -65,4 +65,4 @@ Amsterdam
 
 De 
 Voorzitter Raad van bestuur UWV, 
-J.M.Linthorst   
+J.M. Linthorst     
