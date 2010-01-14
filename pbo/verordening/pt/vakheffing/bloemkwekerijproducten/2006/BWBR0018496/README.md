@@ -13,7 +13,10 @@ Besluit:
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 03-06-2007 
+
 ### Artikel  1  
+Materieel uitgewerkt per 03-06-2007 
 
 1.  In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [2 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md).   
 2.  In deze verordening worden overgenomen de begripsbepalingen van [artikel 1:1](../../../../../../../pbo/verordening/pt/algemene/bepalingen/2003/BWBR0016684/README.md) en [artikel 3:1](../../../../../../../pbo/verordening/pt/algemene/bepalingen/2003/BWBR0016684/README.md), en de werkwijze zoals beschreven in [hoofdstuk 3 van de verordening PT algemene bepalingen 2003](../../../../../../../pbo/verordening/pt/algemene/bepalingen/2003/BWBR0016684/README.md).   
@@ -23,7 +26,7 @@ Besluit:
 |:---|:---|:---|
 | a. de bloemkwekerijproducten  | :  | siergewassen, bloemzaden daaronder begrepen, in blad-, bloem- of vruchtdragende toestand in hun geheel of gedeeltelijk, met uitzondering van:    1:  winterharde houtgewassen in hun geheel voorzover niet vervroegd of verlaat, alsmede kerstbomen zonder wortels en delen van winterharde houtgewassen welke voor vermeerdering zijn bestemd;     2:  voor zover in groene toestand de Japanse azalea's, alsmede variëteiten en hybriden daarvan;     3:  dahliastekken, begonia- en gloxiniaplantjes, uitsluitend bestemd voor de teelt van knollen, en     4:  aquariumplantenen niet-levende bloemkwekerijproducten;      |
 | b. het uitgangsmateriaal  | :  | planten en plantendelen van bloemkwekerijproducten welke bestemd zijn voor de teelt van gebruiksklare (voor de consument geschikte) bloemkwekerijproducten, zoals stekken, zaaikisten en weefselkweekplanten  |
-| c. het kweken van bloemkwekerijproducten of uitgangsmateriaal  | :  |   1:  het ter verkrijging van een oogst brengen, hebben of houden in een al dan niet overdekt groeimedium van bloemkwekerijproducten of uitgangsmateriaal;     2:  het ter bevordering van het verkrijgen van een oogst verrichten van alle wijzen van behandelen, bewerken, beschermen, bewaren en verzorgen van bloemkwekerijproducten of uitgangsmateriaal, of     3:  het oogsten van bloemkwekerijproducten of uitgangsmateriaal;      |
+| c. het kweken van bloemkwekerijproducten of uitgangsmateriaal  | :  |   1:  het ter verkrijging van een oogst brengen, hebben of houden in een al dan niet overdekt groeimedium van bloemkwekerijproducten of uitgangsmateriaal;     2:  het ter bevordering van het verkrijgen van een oogst verrichten van alle wijzen van behandelen, bewerken, beschermen, bewaren en verzorgen van bloemkwekerijproducten of uitgangsmateriaal, of     3:  het oogsten van bloemkwekerijproducten of uitgangsmateriaal;     |
 | d. de kweker  | :  | de ondernemer die bloemkwekerijproducten of uitgangsmateriaal kweekt;  |
 | e. de importeur  | :  | de ondernemer die bloemkwekerijproducten of uitgangsmateriaal invoert;  |
 | f. de omzet  | :  | het bruto-verkoopfactuurbedrag inclusief kosten doch exclusief BTW;  |
@@ -31,28 +34,35 @@ Besluit:
 | h. de veiling  | :  | een organisatie die bemiddelt bij de aan- en verkopen van bloemkwekerijproducten.  |
 
 4.  Onder het kweken van bloemkwekerijproducten en/of uitgangsmateriaal wordt mede begrepen het doen kweken.   
-5.  Deze verordening is niet van toepassing op bloemkwekerijproducten welke afkomstig zijn uit andere Lidstaten van de EU en in Nederland worden verhandeld.   
+5.  Deze verordening is niet van toepassing op bloemkwekerijproducten welke afkomstig zijn uit andere Lidstaten van de EU en in Nederland worden verhandeld.  
 
 ### §  2  
 
 ####Heffingsplicht
 
+Materieel uitgewerkt per 03-06-2007 
+
 ### Artikel  2  
+Materieel uitgewerkt per 03-06-2007 
 
 1.  De kweker, onderscheidenlijk de importeur, is over de door hem verhandelde, voor zover door hem gekweekte, onderscheidenlijk door hem geïmporteerde bloemkwekerijproducten of geïmporteerd uitgangsmateriaal, een heffing verschuldigd.   
 2.  De heffing als bedoeld in het eerste lid, is aan het productschap verschuldigd over het jaar 2006, ten behoeve van aangelegenheden als: milieuaangelegenheden, onderzoek, kwaliteitscontrole en promotionele- en marketingsactiviteiten, alsmede ten behoeve van de algemene kosten van het productschap.   
-3.  De heffing als bedoeld in het eerste en tweede lid, wordt opgelegd bij wege van een aanslag, met inachtneming van het in de volgende artikelen bepaalde.   
+3.  De heffing als bedoeld in het eerste en tweede lid, wordt opgelegd bij wege van een aanslag, met inachtneming van het in de volgende artikelen bepaalde.  
 
 ### Artikel  3  
+Materieel uitgewerkt per 03-06-2007 
 
 1.  Ter uitvoering van artikel 2 doet de kweker of importeur bij het productschap aangifte van de door hem verhandelde, voor zover door hem gekweekte, onderscheidenlijk door hem geïmporteerde bloemkwekerijproducten of geïmporteerd uitgangsmateriaal.   
-2.  De opgave als bedoeld in het eerste lid, wordt gedaan op een door het productschap te verstrekken aangifteformulier, met inachtneming van de daarop gestelde vragen en gegeven aanwijzingen.   
+2.  De opgave als bedoeld in het eerste lid, wordt gedaan op een door het productschap te verstrekken aangifteformulier, met inachtneming van de daarop gestelde vragen en gegeven aanwijzingen.  
 
 ### §  3  
 
 ####Grondslag en hoogte
 
+Materieel uitgewerkt per 03-06-2007 
+
 ### Artikel  4  
+Materieel uitgewerkt per 03-06-2007 
 
 1.  De heffing die de kweker of importeur is verschuldigd, wordt opgelegd naar de omzet onderscheidenlijk het totaalbedrag van de invoerwaarde, gerealiseerd in het jaar waarover de heffing verschuldigd is.   
 2.  De heffing als bedoeld in het eerste lid, wordt uitgedrukt in een percentage van de omzet en bedraagt voor:  
@@ -99,47 +109,58 @@ d. Aanvragen voor restitutie moeten worden ingediend binnen één jaar na afloop
 
 a. 90% van 9/109 deel van de jaarlijkse opbrengst van de in eerder genoemde verordening bedoelde heffing op het eindproduct;  
 
-b. 100% van 9/66,5 deel van de jaarlijkse opbrengst van de in eerder bedoelde heffing op het uitgangsmateriaal.     
+b. 100% van 9/66,5 deel van de jaarlijkse opbrengst van de in eerder bedoelde heffing op het uitgangsmateriaal.    
 
 ### §  4  
 
 ####Oplegging en inning
 
+Materieel uitgewerkt per 03-06-2007 
+
 ### Artikel  5  
+Materieel uitgewerkt per 03-06-2007 
 
 1.  De oplegging van de krachtens deze verordening verschuldigde heffing vindt plaats na afloop van het jaar waarover de heffing verschuldigd is en geschiedt door toezending of uitreiking aan de heffingsplichtige van een heffingsnota.   
-2.  In afwijking van het eerste lid kan de heffingsplichtige een voorlopige heffing worden opgelegd tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.   
+2.  In afwijking van het eerste lid kan de heffingsplichtige een voorlopige heffing worden opgelegd tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.  
 
 ### Artikel  6  
+Materieel uitgewerkt per 03-06-2007 
 
-Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming, niet in overeenstemming met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.  
+Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming, niet in overeenstemming met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd. 
 
 ### Artikel  7  
+Materieel uitgewerkt per 03-06-2007 
 
-Een kweker, onderscheidenlijk een importeur van bloemkwekerijproducten wordt geacht, indien hij door hem gekweekte, onderscheidenlijk geïmporteerde bloemkwekerijproducten door tussenkomst van een veiling verhandelt, aan zijn verplichtingen als bedoeld in artikel 2 ten aanzien van de op vorenbedoelde wijze verhandelde producten te hebben voldaan, indien hij de desbetreffende veiling heeft gemachtigd namens hem aan het productschap de door hem verschuldigde heffing te voldoen en deze heffing door het productschap is ontvangen.  
+Een kweker, onderscheidenlijk een importeur van bloemkwekerijproducten wordt geacht, indien hij door hem gekweekte, onderscheidenlijk geïmporteerde bloemkwekerijproducten door tussenkomst van een veiling verhandelt, aan zijn verplichtingen als bedoeld in artikel 2 ten aanzien van de op vorenbedoelde wijze verhandelde producten te hebben voldaan, indien hij de desbetreffende veiling heeft gemachtigd namens hem aan het productschap de door hem verschuldigde heffing te voldoen en deze heffing door het productschap is ontvangen. 
 
 ### Artikel  8  
+Materieel uitgewerkt per 03-06-2007 
 
 1.  De verkoper van bloemkwekerijproducten heeft het recht aan de afnemers van door hem gekweekte bloemkwekerijproducten onderscheidenlijk van door hem rechtstreeks doorverhandelde bloemkwekerijproducten, het hieronder genoemde heffingspercentage van het verkoopbedrag der door hem aan die afnemers verhandelde bloemkwekerijproducten in rekening te brengen van: 0,435%.   
 2.  Indien een verkoper van bloemkwekerijproducten, van het hem in het vorige lid toegekende recht gebruik maakt, zijn de desbetreffende afnemers verplicht het aan hen krachtens het bepaalde in het vorige lid in rekening gebracht, aan die verkoper te voldoen.   
-3.  Deze bepaling is niet van toepassing op de verkoop van bloemzaden en uitgangsmateriaal.   
+3.  Deze bepaling is niet van toepassing op de verkoop van bloemzaden en uitgangsmateriaal.  
 
 ### Artikel  9  
+Materieel uitgewerkt per 03-06-2007 
 
 1.  De gegevens verkregen uit hoofde van het bepaalde in deze verordening dienen in handen van de voorzitter of door deze aan te wijzen personen van het secretariaat van het productschap te worden gesteld.   
-2.  Deze gegevens mogen slechts worden gebezigd voor de vervulling van de taak van het productschap.   
+2.  Deze gegevens mogen slechts worden gebezigd voor de vervulling van de taak van het productschap.  
 
 ### §  5  
 
 ####Slotbepalingen
 
-### Artikel  10  
+Materieel uitgewerkt per 03-06-2007 
 
-Deze verordening treedt in werking met ingang van de tweede dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst.  
+### Artikel  10  
+Materieel uitgewerkt per 03-06-2007 
+
+Deze verordening treedt in werking met ingang van de tweede dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst. 
 
 ### Artikel  11  
+Materieel uitgewerkt per 03-06-2007 
 
-Deze verordening wordt aangehaald als: Verordening PT vakheffing bloemkwekerijproducten 2006.  
+Deze verordening wordt aangehaald als: Verordening PT vakheffing bloemkwekerijproducten 2006. 
 Deze verordening en de bijbehorende toelichting zal worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
 
 Zoetermeer 

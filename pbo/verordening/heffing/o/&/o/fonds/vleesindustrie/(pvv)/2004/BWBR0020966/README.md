@@ -7,6 +7,7 @@ Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../..
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 10-03-2007 
 
 In deze verordening wordt verstaan onder:  
 
@@ -19,31 +20,36 @@ In deze verordening wordt verstaan onder:
 | --- | --- | --- | –  | een ieder die een arbeidsovereenkomst in de zin van het Burgerlijk Wetboek is aangegaan met de ondernemer die de onderneming in stand houdt;  |
 | --- | --- | --- | –  | alsmede diegene die als zelfstandige zonder personeel of als uitzendkracht werkzaam is in de onderneming;  |
 | --- | --- | 2°  | een ieder die als inleenkracht werkzaamheden verricht in een onderneming als bedoeld onder 1 sub a onder 1° en een arbeidsovereenkomst in de zin van het Burgerlijk Wetboek is aangegaan met een ondernemer die een inleenbedrijf in stand houdt;  |
-| d.  | f.t.e.:  | fulltime-equivalent van de werknemer waarbij de fulltime-equivalent gemiddeld 36 uur per week bedraagt;  |
+| d.  |  f.t.e.:  | fulltime-equivalent van de werknemer waarbij de fulltime-equivalent gemiddeld 36 uur per week bedraagt;  |
 | e.  | o & o fonds vleesindustrie:  | het fonds als bedoeld in [artikel 2 van de Verordening o & o fonds vleesindustrie (PVV) 2003](../../../../../../../../../../../pbo/verordening/o/&/o/fonds/vleesindustrie/(pw)/2003/BWBR0015358/README.md).  |
 
 ### Artikel  2  
+Materieel uitgewerkt per 10-03-2007 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening houdende bepalingen betreffende het opleggen van heffingen bij de producenten van vee en vlees en registratie van vleesgrossiers PVV 2003](../../../../../../../../../../..//BWBR0014238/README.md).  
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening houdende bepalingen betreffende het opleggen van heffingen bij de producenten van vee en vlees en registratie van vleesgrossiers PVV 2003. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 10-03-2007 
 
 1.  De ondernemer is voor het kalenderjaar 2004, ten behoeve van het o & o fonds vleesindustrie, op basis van het aantal werknemers dat op 1 april 2004 werkzaam is in de onderneming, een heffing verschuldigd van € 11,80 per f.t.e..   
-2.  Het aantal werknemers dat op 1 april 2004 werkzaam is in de onderneming wordt door het productschap vastgesteld op basis van de verplichte opgave van het aantal werknemers, op het tijdstip, als bedoeld in [artikel 3, tweede lid, van de Verordening huishoudelijke heffing vleesindustrie (PVV) 2004](../../../../../../../../../../../pbo/verordening/huishoudelijke/heffing/vleesindustrie/(pvv)/2004/BWBR0016849/README.md).   
+2.  Het aantal werknemers dat op 1 april 2004 werkzaam is in de onderneming wordt door het productschap vastgesteld op basis van de verplichte opgave van het aantal werknemers, op het tijdstip, als bedoeld in [artikel 3, tweede lid, van de Verordening huishoudelijke heffing vleesindustrie (PVV) 2004](../../../../../../../../../../../pbo/verordening/huishoudelijke/heffing/vleesindustrie/(pvv)/2004/BWBR0016849/README.md).  
 
 ### Artikel  4  
+Materieel uitgewerkt per 10-03-2007 
 
 1.  Aan de ondernemer, die contributie heeft betaald als lid of indirect lid van een op grond van het derde lid aangewezen ondernemersorganisatie, wordt op zijn verzoek een aftrek toegestaan op het totaal aan heffing verschuldigde bedrag op grond van de [Verordening huishoudelijke heffing vleesindustrie (PVV) 2004](../../../../../../../../../../../pbo/verordening/huishoudelijke/heffing/vleesindustrie/(pvv)/2004/BWBR0016849/README.md), de Verordening heffing o & o fonds vleesindustrie (PVV) 2004 en de [Verordening heffing fonds sociale aangelegenheden vleesindustrie (PVV) 2004](../../../../../../../../../../../pbo/verordening/heffing/fonds/sociale/aangelegenheden/vleesindustrie/(pvv)/etc/BWBR0020614/README.md).   
 2.  De aftrek beloopt 50% van het bedrag, dat de ondernemer als contributie aan de betreffende ondernemersorganisatie over het betrokken kalenderjaar heeft betaald tot ten hoogste de helft van hetgeen hij in totaal is verschuldigd aan heffing, op grond van de in het eerste lid genoemde heffingsverordeningen, over datzelfde betrokken kalenderjaar.   
-3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het [Besluit beleidsregels Bestuurskamer van de Sociaal-Economische Raad](../../../../../../../../../../../pbo/besluit/beleidsregels/bestuurskamer/BWBR0015680/README.md).   
+3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het [Besluit beleidsregels Bestuurskamer van de Sociaal-Economische Raad](../../../../../../../../../../../pbo/besluit/beleidsregels/bestuurskamer/BWBR0015680/README.md).  
 
 ### Artikel  5  
+Materieel uitgewerkt per 10-03-2007 
 
-Deze verordening treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst.  
+Deze verordening treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst. 
 
 ### Artikel  6  
+Materieel uitgewerkt per 10-03-2007 
 
-Deze verordening wordt aangehaald als: Verordening heffing o & o fonds vleesindustrie (PVV) 2004.  
+Deze verordening wordt aangehaald als: Verordening heffing o & o fonds vleesindustrie (PVV) 2004. 
 
 Zoetermeer 
 9 juni 2004   

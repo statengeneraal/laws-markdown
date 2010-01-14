@@ -13,7 +13,10 @@ Besluit:
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 16-11-2008 
+
 ### Artikel  1  
+Materieel uitgewerkt per 16-11-2008 
 
 1.  In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [2 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md).   
 2.  In deze verordening worden overgenomen de begripsbepalingen van [artikel 1:1](../../../../../../../pbo/verordening/pt/algemene/bepalingen/2007/BWBR0022738/README.md) en [artikel 3:1](../../../../../../../pbo/verordening/pt/algemene/bepalingen/2007/BWBR0022738/README.md), en de werkwijze zoals beschreven in [hoofdstuk 3 van de verordening PT algemene bepalingen 2007](../../../../../../../pbo/verordening/pt/algemene/bepalingen/2007/BWBR0022738/README.md).   
@@ -37,28 +40,35 @@ Besluit:
 | h.  | de veiling:  | een organisatie die bemiddelt bij de aan- en verkopen van bloemkwekerijproducten of teeltmateriaal.  |
 
 4.  Onder het kweken van bloemkwekerijproducten of teeltmateriaal wordt mede begrepen het doen kweken.   
-5.  Deze verordening is niet van toepassing op bloemkwekerijproducten of teeltmateriaal, welke afkomstig zijn uit andere Lidstaten van de EU en in Nederland worden verhandeld.   
+5.  Deze verordening is niet van toepassing op bloemkwekerijproducten of teeltmateriaal, welke afkomstig zijn uit andere Lidstaten van de EU en in Nederland worden verhandeld.  
 
 ### §  2  
 
 ####Heffingsplicht
 
+Materieel uitgewerkt per 16-11-2008 
+
 ### Artikel  2  
+Materieel uitgewerkt per 16-11-2008 
 
 1.  De kweker, onderscheidenlijk de importeur, is over de door hem verhandelde, voor zover door hem gekweekte bloemkwekerijproducten of teeltmateriaal, onderscheidenlijk door hem geïmporteerde bloemkwekerijproducten of geïmporteerd teeltmateriaal, een heffing verschuldigd.   
 2.  De heffing als bedoeld in het eerste lid, is aan het productschap verschuldigd over het jaar 2007, ten behoeve van aangelegenheden als: milieuaangelegenheden, onderzoek, kwaliteitscontrole en promotionele- en marketingactiviteiten, alsmede ten behoeve van de algemene kosten van het productschap.   
-3.  De heffing als bedoeld in het eerste en tweede lid, wordt opgelegd bij wege van een aanslag, met inachtneming van het in de volgende artikelen bepaalde.   
+3.  De heffing als bedoeld in het eerste en tweede lid, wordt opgelegd bij wege van een aanslag, met inachtneming van het in de volgende artikelen bepaalde.  
 
 ### Artikel  3  
+Materieel uitgewerkt per 16-11-2008 
 
 1.  Ter uitvoering van artikel 2 doet de kweker of importeur bij het productschap aangifte van de door hem verhandelde, voor zover door hem gekweekte, onderscheidenlijk door hem geïmporteerde bloemkwekerijproducten of geïmporteerd teeltmateriaal.   
-2.  De opgave als bedoeld in het eerste lid, wordt gedaan op een door het productschap te verstrekken aangifteformulier, met inachtneming van de daarop gestelde vragen en gegeven aanwijzingen.   
+2.  De opgave als bedoeld in het eerste lid, wordt gedaan op een door het productschap te verstrekken aangifteformulier, met inachtneming van de daarop gestelde vragen en gegeven aanwijzingen.  
 
 ### §  3  
 
 ####Grondslag en hoogte
 
+Materieel uitgewerkt per 16-11-2008 
+
 ### Artikel  4  
+Materieel uitgewerkt per 16-11-2008 
 
 1.  De heffing die de kweker of importeur is verschuldigd, wordt opgelegd naar de omzet onderscheidenlijk het totaalbedrag van de invoerwaarde, gerealiseerd in het jaar waarover de heffing verschuldigd is.   
 2.  De heffing als bedoeld in het eerste lid, wordt uitgedrukt in een percentage van de omzet en bedraagt voor:  
@@ -75,7 +85,7 @@ Voor kwekers van bloemzaden wordt bij de heffing, bij de berekening en oplegging
 
 a. hij de kweek van door hem geïmporteerde bloemkwekerijproducten of teeltmateriaal binnen het eigen bedrijf heeft voortgezet,  
 
-b. die bloemkwekerijproducten of teeltmateriaal vervolgens zijn verhandeld en dat door hem over die transacties de verschuldigde heffing is betaald,   ontvangt van het productschap een restitutie ter grootte van de over de oorspronkelijke invoerwaarde van die bloemkwekerijproducten of teeltmateriaal betaalde heffing.   
+b. die bloemkwekerijproducten of teeltmateriaal vervolgens zijn verhandeld en dat door hem over die transacties de verschuldigde heffing is betaald,    ontvangt van het productschap een restitutie ter grootte van de over de oorspronkelijke invoerwaarde van die bloemkwekerijproducten of teeltmateriaal betaalde heffing.   
 5.  De ondernemer die over door hem verhandelde bloemkwekerijproducten de heffing ter zake van de ‘Blumenwerbung’ is verschuldigd ontvangt van het productschap een restitutie ter grootte van die heffing met een maximum van: 0,1% van de waarde van vorenbedoelde bloemkwekerijproducten, mits hij aantoont dat: 
 
 a. hij die heffing heeft betaald, en  
@@ -90,9 +100,9 @@ b. Wanneer het productschap vaststelt dat op jaarbasis de heffingsgrondslag van 
 
 – het bedrag tussen € 0,0 – € 11.344.505,– het heffingstarief van 0,31% toegepast,  
 
-– het bedrag tussen € 11.344.505,– en € 50.000.000,– het verlaagde heffingstarief van 0,21% toegepast, en  
+– het bedrag tussen € 11.344.505,– en € 50.000.000,– het verlaagde heffingstarief van 0,21% toegepast, en   
 
-– het bedrag groter dan € 50.000.000,–, het verlaagde heffingstarief van 0,11% toegepast.    
+–  het bedrag groter dan € 50.000.000,–, het verlaagde heffingstarief van 0,11% toegepast.    
 
 c. Wanneer het productschap vaststelt dat op jaarbasis de heffingsgrondslag van zelfgekweekte bloemkwekerijproducten (niet zijnde teeltmateriaal) hoger is dan € 6.000.000,–, wordt over: 
 
@@ -105,47 +115,58 @@ d. Aanvragen voor restitutie moeten worden ingediend binnen één jaar na afloop
 
 a. 90% van 9/91 deel van de jaarlijkse opbrengst van de in eerder genoemde verordening bedoelde heffing op het eindproduct;  
 
-b. 100% van 9/60 deel van de jaarlijkse opbrengst van de in eerder bedoelde heffing op het teeltmateriaal.     
+b. 100% van 9/60 deel van de jaarlijkse opbrengst van de in eerder bedoelde heffing op het teeltmateriaal.    
 
 ### §  4  
 
 ####Oplegging en inning
 
+Materieel uitgewerkt per 16-11-2008 
+
 ### Artikel  5  
+Materieel uitgewerkt per 16-11-2008 
 
 1.  De oplegging van de krachtens deze verordening verschuldigde heffing vindt plaats na afloop van het jaar waarover de heffing verschuldigd is en geschiedt door toezending of uitreiking aan de heffingsplichtige van een heffingsnota.   
-2.  In afwijking van het eerste lid kan de heffingsplichtige een voorlopige heffing worden opgelegd tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.   
+2.  In afwijking van het eerste lid kan de heffingsplichtige een voorlopige heffing worden opgelegd tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.  
 
 ### Artikel  6  
+Materieel uitgewerkt per 16-11-2008 
 
-Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een ambtshalve schatting , niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.  
+Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een ambtshalve schatting , niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd. 
 
 ### Artikel  7  
+Materieel uitgewerkt per 16-11-2008 
 
-Een kweker, onderscheidenlijk een importeur van bloemkwekerijproducten wordt geacht, indien hij door hem gekweekte, onderscheidenlijk geïmporteerde bloemkwekerijproducten of teeltmateriaal door tussenkomst van een veiling verhandelt, aan zijn verplichtingen als bedoeld in artikel 2 ten aanzien van de op vorenbedoelde wijze verhandelde producten te hebben voldaan, indien hij de desbetreffende veiling heeft gemachtigd namens hem aan het productschap de door hem verschuldigde heffing te voldoen en deze heffing door het productschap is ontvangen.  
+Een kweker, onderscheidenlijk een importeur van bloemkwekerijproducten wordt geacht, indien hij door hem gekweekte, onderscheidenlijk geïmporteerde bloemkwekerijproducten of teeltmateriaal door tussenkomst van een veiling verhandelt, aan zijn verplichtingen als bedoeld in artikel 2 ten aanzien van de op vorenbedoelde wijze verhandelde producten te hebben voldaan, indien hij de desbetreffende veiling heeft gemachtigd namens hem aan het productschap de door hem verschuldigde heffing te voldoen en deze heffing door het productschap is ontvangen. 
 
 ### Artikel  8  
+Materieel uitgewerkt per 16-11-2008 
 
 1.  De verkoper van bloemkwekerijproducten heeft het recht aan de afnemers van door hem gekweekte bloemkwekerijproducten onderscheidenlijk van door hem rechtstreeks doorverhandelde bloemkwekerijproducten, het hieronder genoemde heffingspercentage van het verkoopbedrag der door hem aan die afnemers verhandelde bloemkwekerijproducten in rekening te brengen van: 0,40%.   
 2.  Indien een verkoper van bloemkwekerijproducten, van het hem in het vorige lid toegekende recht gebruik maakt, zijn de desbetreffende afnemers verplicht het aan hen krachtens het bepaalde in het vorige lid in rekening gebrachte, aan die verkoper te voldoen.   
-3.  Deze bepaling is niet van toepassing op de verkoop van bloemzaden en teeltmateriaal.   
+3.  Deze bepaling is niet van toepassing op de verkoop van bloemzaden en teeltmateriaal.  
 
 ### Artikel  9  
+Materieel uitgewerkt per 16-11-2008 
 
 1.  De gegevens verkregen uit hoofde van het bepaalde in deze verordening dienen in handen van de voorzitter of door deze aan te wijzen personen van het secretariaat van het productschap te worden gesteld.   
-2.  Deze gegevens mogen slechts worden gebezigd voor de vervulling van de taak van het productschap.   
+2.  Deze gegevens mogen slechts worden gebezigd voor de vervulling van de taak van het productschap.  
 
 ### §  5  
 
 ####Slotbepalingen
 
-### Artikel  10  
+Materieel uitgewerkt per 16-11-2008 
 
-Deze verordening treedt in werking met ingang van de tweede dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst.  
+### Artikel  10  
+Materieel uitgewerkt per 16-11-2008 
+
+Deze verordening treedt in werking met ingang van de tweede dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst. 
 
 ### Artikel  11  
+Materieel uitgewerkt per 16-11-2008 
 
-Deze verordening wordt aangehaald als: Verordening PT vakheffing bloemkwekerijproducten 2007/2.  
+Deze verordening wordt aangehaald als: Verordening PT vakheffing bloemkwekerijproducten 2007/2. 
 Deze verordening en de bijbehorende toelichting zal worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
 
 Zoetermeer 
