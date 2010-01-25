@@ -10,7 +10,7 @@ Besluit:
 
 ####Begripsomschrijving
 
-Voor de toepassing van deze regeling wordt verstaan onder Wet Wajong: [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md).  
+Voor de toepassing van deze regeling wordt verstaan onder Wet Wajong: [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md). 
 
 ### Artikel  2  
 
@@ -34,19 +34,19 @@ d. voor een 21-jarige: € 3,91
 e. voor een 22-jarige: € 1,61     
 3.  In afwijking van het eerste lid heeft de jonggehandicapte, bedoeld in [artikel 2:15](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) of [3:3 van de Wet Wajong](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), aan wie in de loop van een kalenderjaar een inkomensvoorziening of uitkering op grond van de [Wet Wajong](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) wordt toegekend, met ingang van de dag van toekenning recht op een bij zijn leeftijd op de dag van toekenning behorende tegemoetkoming, bedoeld in het tweede lid.   
 4.  De betaling van de tegemoetkoming geschiedt tezamen met de betaling van de inkomensvoorziening of arbeidsongeschiktheidsuitkering.   
-5.  Met ingang van de dag, waarop het bedrag van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) wijzigt, worden de bedragen van de tegemoetkoming herzien met het percentage van deze wijziging.   
+5.  Met ingang van de dag, waarop het bedrag van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) wijzigt, worden de bedragen van de tegemoetkoming herzien met het percentage van deze wijziging.  
 
 ### Artikel  3  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2007.  
+Deze regeling treedt in werking met ingang van 1 januari 2007. 
 
 ### Artikel  4  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling tegemoetkoming Wajongers.  
+Deze regeling wordt aangehaald als: Regeling tegemoetkoming Wajongers. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -54,4 +54,4 @@ Den Haag
 
 De 
 Minister van Sociale Zaken en Werkgelegenheid, 
-A.J. deGeus   
+A.J. de Geus     
