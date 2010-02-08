@@ -13,19 +13,19 @@ Hebben goedgevonden en verstaan:
 
 1.  De beeldenaar van de zilveren vijf-euromunt en de gouden tien-euromunt die in 2006 worden uitgegeven ter gelegenheid van de viering van Rembrandtjaar is: 
 
-a. op de voorzijde, overeenkomstig onderstaande afbeelding: tegen de achtergrond van de tekst «BEATRIX KONINGIN DER NEDERLANDEN» Onze Beeltenis;   ![240142](http://wetten.overheid.nl/Illustration/240142)
+a.op de voorzijde, overeenkomstig onderstaande afbeelding: tegen de achtergrond van de tekst «BEATRIX KONINGIN DER NEDERLANDEN» Onze Beeltenis; ![240140](http://wetten.overheid.nl/Illustration/240140)
 
-b. op de keerzijde, overeenkomstig onderstaande afbeelding: tegen de achtergrond van de tekst «REMBRANDT VAN RIJN 1606–2006» een zelfportret van Rembrandt van Rijn, ter rechterzijde daarvan de waardeaanduiding «5 EURO» onderscheidenlijk «10 EURO» en links onderin het teken van de Muntmeester «   ![240142](http://wetten.overheid.nl/Illustration/240142)
-» het teken van de Munt «   ![240142](http://wetten.overheid.nl/Illustration/240142)
-» de initialen van de ontwerper Berend Strik «BS» en het Europees munt-teken «   ![240142](http://wetten.overheid.nl/Illustration/240142)
-»;   ![240142](http://wetten.overheid.nl/Illustration/240142)
+b.op de keerzijde, overeenkomstig onderstaande afbeelding: tegen de achtergrond van de tekst «REMBRANDT VAN RIJN 1606–2006» een zelfportret van Rembrandt van Rijn, ter rechterzijde daarvan de waardeaanduiding «5 EURO» onderscheidenlijk «10 EURO» en links onderin het teken van de Muntmeester « ![240141](http://wetten.overheid.nl/Illustration/240141)
+»het teken van de Munt « ![240142](http://wetten.overheid.nl/Illustration/240142)
+»de initialen van de ontwerper Berend Strik «BS» en het Europees munt-teken « ![240143](http://wetten.overheid.nl/Illustration/240143)
+»;![240144](http://wetten.overheid.nl/Illustration/240144)
 
 2.  De vijf-euromunt heeft een gladde rand en draagt het randschrift «GOD * ZIJ * MET * ONS *».   
-3.  De tien-euromunt heeft een fijngeribbelde rand.   
+3.  De tien-euromunt heeft een fijngeribbelde rand.  
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in het Staatsblad en de Staatscourant zal worden geplaatst.   
 

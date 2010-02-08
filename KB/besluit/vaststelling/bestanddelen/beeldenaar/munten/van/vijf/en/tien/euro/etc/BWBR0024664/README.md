@@ -13,19 +13,19 @@ Hebben goedgevonden en verstaan:
 
 1.  De beeldenaar van de munten van vijf en tien euro die in 2008 worden uitgegeven met het thema «Nederland en Architectuur» is: 
 
-a. op de voorzijde, overeenkomstig onderstaande afbeelding: Onze beeltenis die wordt gevormd door een naar binnendraaiende lijst van namen van Nederlandse architecten en daaronder de tekst «BEATRIX KONINGIN DER NEDERLANDEN»;   ![243905](http://wetten.overheid.nl/Illustration/243905)
+a. op de voorzijde, overeenkomstig onderstaande afbeelding: Onze beeltenis die wordt gevormd door een naar binnendraaiende lijst van namen van Nederlandse architecten en daaronder de tekst «BEATRIX KONINGIN DER NEDERLANDEN»;  ![243901](http://wetten.overheid.nl/Illustration/243901)
 
-b. op de keerzijde, overeenkomstig onderstaande afbeeldingen: in het midden Nederland, waarvan de contour wordt gevormd door vanuit de rand als gebouwen oprijzende architectuurboeken, met silhouetten van vogels voor de provinciehoofdsteden; bovenin de waardeaanduiding «5 EURO» respectievelijk «10 EURO», onderin het jaartal «2008», langs de rand tussen de waardeaanduiding en het jaartal rechts het Europees muntteken   ![243905](http://wetten.overheid.nl/Illustration/243905)
-en het teken van de Muntmeester   ![243905](http://wetten.overheid.nl/Illustration/243905)
-en links het teken van de Munt   ![243905](http://wetten.overheid.nl/Illustration/243905)
-.   ![243905](http://wetten.overheid.nl/Illustration/243905)
+b. op de keerzijde, overeenkomstig onderstaande afbeeldingen: in het midden Nederland, waarvan de contour wordt gevormd door vanuit de rand als gebouwen oprijzende architectuurboeken, met silhouetten van vogels voor de provinciehoofdsteden; bovenin de waardeaanduiding «5 EURO» respectievelijk «10 EURO», onderin het jaartal «2008», langs de rand tussen de waardeaanduiding en het jaartal rechts het Europees muntteken   ![243902](http://wetten.overheid.nl/Illustration/243902)
+en het teken van de Muntmeester   ![243903](http://wetten.overheid.nl/Illustration/243903)
+en links het teken van de Munt   ![243904](http://wetten.overheid.nl/Illustration/243904)
+.  ![243905](http://wetten.overheid.nl/Illustration/243905)
 
 2.  De vijf-euromunt heeft een gladde rand en draagt het randschrift «GOD * ZIJ * MET * ONS».   
-3.  De tien-euromunt heeft een fijngeribbelde rand.   
+3.  De tien-euromunt heeft een fijngeribbelde rand.  
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in het Staatsblad en de Staatscourant zal worden geplaatst.   
 
@@ -33,7 +33,7 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in
 20 oktober 2008  
 Beatrix  
 
-De Staatssecretaris van Financiën , 
+De Staatssecretaris van Financiën ,  
 J. C. de Jager   
 
 de *elfde* november 2008 

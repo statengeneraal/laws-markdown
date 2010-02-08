@@ -11,15 +11,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De Tweede Kamer der Staten-Generaal wordt ontbonden op donderdag 30 november 2006 op een door de Voorzitter van de Tweede Kamer te bepalen tijdstip.  
+De Tweede Kamer der Staten-Generaal wordt ontbonden op donderdag 30 november 2006 op een door de Voorzitter van de Tweede Kamer te bepalen tijdstip. 
 
 ### Artikel  2  
 
-De kandidaatstelling voor de verkiezing van de leden van de Tweede Kamer der Staten-Generaal vindt plaats op dinsdag 10 oktober 2006.  
+De kandidaatstelling voor de verkiezing van de leden van de Tweede Kamer der Staten-Generaal vindt plaats op dinsdag 10 oktober 2006. 
 
 ### Artikel  3  
 
-De eerste samenkomst van de nieuw gekozen Tweede Kamer vindt plaats op donderdag 30 november 2006 op een door de Voorzitter van de Tweede Kamer te bepalen tijdstip.  
+De eerste samenkomst van de nieuw gekozen Tweede Kamer vindt plaats op donderdag 30 november 2006 op een door de Voorzitter van de Tweede Kamer te bepalen tijdstip. 
 
 Onze Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties is belast met de uitvoering van dit besluit, dat met de nota van toelichting in het Staatsblad en in de Staatscourant zal worden geplaatst.   
 
@@ -27,13 +27,13 @@ Onze Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties is belast met
 4 september 2006  
 Beatrix  
 
-De Minister-President, Minister van Algemene Zaken, 
-J. P.Balkenende 
+De Minister-President, Minister van Algemene Zaken , 
+J. P. Balkenende   
 
-De Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties, 
-A.Nicolaï 
+De Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties , 
+A. Nicolaï   
 
 de *eenentwintigste* september 2006 
 
-De Minister van Justitie, 
-J. P. H.Donner  
+De Minister van Justitie , 
+J. P. H. Donner    

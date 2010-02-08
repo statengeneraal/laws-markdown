@@ -14,13 +14,13 @@ The Bottom
 15 november 2006  
 Beatrix  
 
-De Minister-President, Minister van Algemene Zaken, 
-J. P.Balkenende 
+De Minister-President, Minister van Algemene Zaken , 
+J. P. Balkenende   
 
-De Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties, 
-A.Nicolaï 
+De Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties , 
+A. Nicolaï   
 
 de *zeventiende* november 2006 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

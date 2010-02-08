@@ -11,15 +11,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  De beeldenaar van de tien-euromunt die in 2002 wordt uitgegeven ter gelegenheid van het huwelijk van de Prins van Oranje en Máxima Zorreguieta, is op de voorzijde, bij de uitvoering in zilver, overeenkomstig onderstaande afbeelding: Onze beeltenis en ter linkerzijde van de beeltenis het omschrift« BEATRIX KONINGIN DER NEDERLANDEN». Bij de uitvoering in goud zijn beeltenis en omschrift gespiegeld ten opzichte van de uitvoering in zilver.   ![7955](http://wetten.overheid.nl/Illustration/7955)
+1.  De beeldenaar van de tien-euromunt die in 2002 wordt uitgegeven ter gelegenheid van het huwelijk van de Prins van Oranje en Máxima Zorreguieta, is op de voorzijde, bij de uitvoering in zilver, overeenkomstig onderstaande afbeelding: Onze beeltenis en ter linkerzijde van de beeltenis het omschrift« BEATRIX KONINGIN DER NEDERLANDEN». Bij de uitvoering in goud zijn beeltenis en omschrift gespiegeld ten opzichte van de uitvoering in zilver.  ![7954](http://wetten.overheid.nl/Illustration/7954)
 
-2.  De beeldenaar is op de keerzijde, overeenkomstig onderstaande afbeelding: aan de linkerkant het silhouetportret van de Prins van Oranje en aan de rechterkant het silhouetportret van Máxima Zorreguieta met boven de silhouetten aan de linkerkant het Argentijnse zonneteken en aan de rechterkant de 12 Europese sterren en in een omschrift van links naar rechts «TWEE TWEE TWEEDUIZENDTWEE», het teken van de muntmeester, «MÁXIMA WILLEM-ALEXANDER», het teken van de Munt, en«TIEN EURO».   ![7955](http://wetten.overheid.nl/Illustration/7955)
+2.  De beeldenaar is op de keerzijde, overeenkomstig onderstaande afbeelding: aan de linkerkant het silhouetportret van de Prins van Oranje en aan de rechterkant het silhouetportret van Máxima Zorreguieta met boven de silhouetten aan de linkerkant het Argentijnse zonneteken en aan de rechterkant de 12 Europese sterren en in een omschrift van links naar rechts «TWEE TWEE TWEEDUIZENDTWEE», het teken van de muntmeester, «MÁXIMA WILLEM-ALEXANDER», het teken van de Munt, en«TIEN EURO».  ![7955](http://wetten.overheid.nl/Illustration/7955)
 
-3.  De tien-euromunt heeft een gladde rand en draagt het randschrift GOD*ZIJ*MET*ONS*.   
+3.  De tien-euromunt heeft een gladde rand en draagt het randschrift GOD*ZIJ*MET*ONS*.  
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in het Staatsblad en de Staatscourant zal worden geplaatst.   
 
