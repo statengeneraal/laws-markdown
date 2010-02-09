@@ -9,7 +9,10 @@ Besluit:
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 01-01-2009 
+
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2009 
 
 In deze verordening wordt verstaan onder: 
 
@@ -17,17 +20,21 @@ a. bedrijfschap: Bedrijfschap Afbouw
 
 b. onderneming: onderneming waarvoor het bedrijfschap is ingesteld.  
 
-c. ondernemer: degene die een onderneming drijft waarvoor het bedrijfschap is ingesteld.    
+c. ondernemer: degene die een onderneming drijft waarvoor het bedrijfschap is ingesteld.   
 
 ### §  2  
 
 ####Heffingen
 
-### Artikel  2  
+Materieel uitgewerkt per 01-01-2009 
 
-Over de periode 1 januari 2008 tot en met 31 december 2008 wordt aan degenen die een onderneming drijven als basisheffing opgelegd een voor al deze ondernemingen gelijk bedrag van € 255,-.  
+### Artikel  2  
+Materieel uitgewerkt per 01-01-2009 
+
+Over de periode 1 januari 2008 tot en met 31 december 2008 wordt aan degenen die een onderneming drijven als basisheffing opgelegd een voor al deze ondernemingen gelijk bedrag van € 255,-. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2009 
 
 1.  Onverminderd de in artikel 2 genoemde basisheffing wordt over de periode 1 januari 2008 tot en met 31 december 2008 aan degene die een onderneming drijft een algemene heffing opgelegd op grondslag van de omzet zoals bedoeld in artikel 5. Het tarief bedraagt: 
 
@@ -35,62 +42,72 @@ Over de periode 1 januari 2008 tot en met 31 december 2008 wordt aan degenen die
 
 – voor het gedeelte van de omzet van € 60.001,- tot en met € 750.000,-: 2,3 promille van de omzet;  
 
-– voor het gedeelte van de omzet van € 750.001,- tot en met € 7.500.000,-: 1,5 promille van de omzet.   Geen heffing is verschuldigd over het gedeelte van de omzet liggend boven € 7.500.000,-.   
+– voor het gedeelte van de omzet van € 750.001,- tot en met € 7.500.000,-: 1,5 promille van de omzet.   Geen heffing is verschuldigd over het gedeelte van de omzet liggend boven € 7.500.000,-.  
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-01-2009 
 
-Onverminderd de in artikelen 2 en 3 genoemde basis- en algemene heffing wordt over de periode 1 januari 2008 tot en met 31 december 2008 aan degene die een onderneming drijft een algemene hefffing opgelegd, de zgn. sectorheffing. De sectorheffing bestaat uit:  
+Onverminderd de in artikelen 2 en  3 genoemde basis- en algemene heffing wordt over de periode 1 januari 2008 tot en met 31 december 2008 aan degene die een onderneming drijft een algemene hefffing opgelegd, de zgn. sectorheffing. De sectorheffing bestaat uit:  
 1.  voor degenen die een onderneming drijven en waarin geen personeel werkzaam is ten aanzien waarvan de Collectieve Arbeidsovereenkomst Afbouwbedrijf, dan wel de algemeen verbindend verklaarde bepalingen daarvan van toepassing zijn, een bedrag overeenkomend met 0,47 procent van het bruto sv-loon.   
 2.  voor degenen die een onderneming drijven en waarin geen personeel werkzaam is of waarin personeel werkzaam is ten aanzien waarvan de Collectieve Arbeidsovereenkomst Afbouwbedrijf, dan wel de algemeen verbindend verklaarde bepalingen daarvan toepassing mist: 
 
 – voor het gedeelte van de omzet zoals bedoeld in artikel 5 tot en met € 60.000,-; nihil;  
 
-– voor het gedeelte van de omzet zoals bedoeld in artikel 5 vanaf € 60.001,- een bedrag overeenkomend met 1,9 promille van de omzet.     
+– voor het gedeelte van de omzet zoals bedoeld in artikel 5 vanaf € 60.001,- een bedrag overeenkomend met 1,9 promille van de omzet.    
 
 ### Artikel  5  
+Materieel uitgewerkt per 01-01-2009 
 
 1.  De ondernemer is verplicht om desgevraagd aan het bedrijfschap een opgave te verstrekken van de omzet uit 2006 van de onderneming.   
 2.  Ten aanzien van een onderneming die in 2006 nog geen vol kalenderjaar is gevestigd, geldt als omzet de omzet uit 2007. De ondernemer is verplicht om desgevraagd aan het bedrijfschap een opgave te verstrekken van de omzet uit 2007.   
 3.  Ten aanzien van een onderneming die in 2006 nog geen vol kalenderjaar is gevestigd, geldt als omzet de omzet welke door herleiding zal worden bereikt in een tijdvak van twaalf maanden. De ondernemer is verplicht om desgevraagd aan het bedrijfschap een opgave te verstrekken van de omzet uit 2007 van de onderneming en het aantal maanden waarin deze omzet is behaald.   
 4.  Ten aanzien van een onderneming die in 2008 is gevestigd, geldt als omzet de omzet welke volgens schatting zal worden bereikt in 2008. De ondernemer is verplicht om desgevraagd aan het bedrijfschap een opgave te verstrekken van een schatting van de te behalen omzet in 2008 van de onderneming.   
 5.  Indien ondanks een herhaald verzoek van het bedrijfschap de in de vorige leden bedoelde gegevens niet worden verstrekt, wordt een ambtshalve schatting gemaakt van de omzet en wordt de heffing opgelegd volgens het in deze verordening bepaalde, echter met inachtneming van de geschatte omzet.   
-6.  De onderneming is verplicht om desgevraagd aan het bedrijfschap een opgave te doen van het bruto sv-loon over 2008.   
+6.  De onderneming is verplicht om desgevraagd aan het bedrijfschap een opgave te doen van het bruto sv-loon over 2008.  
 
 ### Artikel  6  
+Materieel uitgewerkt per 01-01-2009 
 
 1.  De ondernemer die vermeldt aan wie en tot welke bedragen werkzaamheden zijn uitbesteed, krijgt, indien wordt voldaan aan het in het volgende lid bepaalde, een heffing opgelegd over de totale omzet, verminderd met de omzetbedragen aan uitbesteed werk.   
-2.  De in het vorige lid bedoelde vermindering van de grondslag voor de omzetheffing, wordt uitsluitend toegepast indien de onderneming waaraan werk is uitbesteed, een bij het bedrijfschap geregistreerde onderneming is, en indien de voor vermindering in aanmerking gekomen omzet bij de laatst bedoelde onderneming mede in acht wordt genomen bij het vaststellen van de door laatstgenoemde onderneming verschuldigde omzetheffing.   
+2.  De in het vorige lid bedoelde vermindering van de grondslag voor de omzetheffing, wordt uitsluitend toegepast indien de onderneming waaraan werk is uitbesteed, een bij het bedrijfschap geregistreerde onderneming is, en indien de voor vermindering in aanmerking gekomen omzet bij de laatst bedoelde onderneming mede in acht wordt genomen bij het vaststellen van de door laatstgenoemde onderneming verschuldigde omzetheffing.  
 
 ### Artikel  7  
+Materieel uitgewerkt per 01-01-2009 
 
 1.  Indien voor de ondernemer tevens het Hoofdbedrijfschap Ambachten is ingesteld en door dit hoofdbedrijfschap heffing wordt opgelegd, wordt de door de ondernemer verschuldigde basisheffing verminderd met € 63,80.   
 2.  Indien voor de ondernemer tevens het Hoofdbedrijfschap Detailhandel is ingesteld en door dit hoofdbedrijfschap heffing wordt opgelegd, wordt de door de ondernemer verschuldigde basisheffing verminderd met € 56,75.   
-3.  Indien voor de ondernemer tevens het Hoofdbedrijfschap Ambachten en het Hoofdbedrijfschap Detailhandel is ingesteld en door deze hoofdbedrijfschappen heffing wordt opgelegd, wordt de door de ondernemer verschuldigde basisheffing verminderd met € 63,80.   
+3.  Indien voor de ondernemer tevens het Hoofdbedrijfschap Ambachten en het Hoofdbedrijfschap Detailhandel is ingesteld en door deze hoofdbedrijfschappen heffing wordt opgelegd, wordt de door de ondernemer verschuldigde basisheffing verminderd met € 63,80.  
 
 ### Artikel  8  
+Materieel uitgewerkt per 01-01-2009 
 
 1.  De ondernemer is verplicht aan het bedrijfschap op eerste verzoek inzage te geven in alle boeken en bescheiden voor zover nodig voor: 
 
 a. het toezicht op de naleving van deze verordening; of  
 
 b. voor het verkrijgen van gegevens die de ondernemer in strijd met de verordening niet heeft verstrekt.     
-2.  De inzage vindt slechts plaats door personen die daartoe schriftelijk opdracht van het bedrijfschap kunnen overleggen. De opdracht vermeldt het doel waarvoor de inzage plaatsvindt.   
+2.  De inzage vindt slechts plaats door personen die daartoe schriftelijk opdracht van het bedrijfschap kunnen overleggen. De opdracht vermeldt het doel waarvoor de inzage plaatsvindt.  
 
 ### Artikel  9  
+Materieel uitgewerkt per 01-01-2009 
 
-Het bedrijfschap is bevoegd om op een daartoe strekkend verzoek geheel of gedeeltelijk ontheffing te verlenen van de betaling van een krachtens deze Verordening opgelegde heffing, indien dit als gevolg van bijzondere omstandigheden redelijk dan wel billijk voorkomt.  
+Het bedrijfschap is bevoegd om op een daartoe strekkend verzoek geheel of gedeeltelijk ontheffing te verlenen van de betaling van een krachtens deze Verordening opgelegde heffing, indien dit als gevolg van bijzondere omstandigheden redelijk dan wel billijk voorkomt. 
 
 ### Artikel  10  
+Materieel uitgewerkt per 01-01-2009 
 
 1.  Een ieder die betrokken is bij de uitvoering van deze verordening en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak de noodzaak tot mededeling voortvloeit.   
 2.  De bij de uitvoering van deze verordening ter beschikking komende gegevens worden uitsluitend gebruikt voor de vervulling van de taak van het bedrijfschap.   
-3.  Tot de in het tweede lid bedoelde gegevens hebben uitsluitend toegang de secretaris, de door deze aangewezen leden van het personeel van het secretariaat en door deze aangewezen derden.   
+3.  Tot de in het tweede lid bedoelde gegevens hebben uitsluitend toegang de secretaris, de door deze aangewezen leden van het personeel van het secretariaat en door deze aangewezen derden.  
 
 ### §  3  
 
 ####Schilthuiskorting
 
+Materieel uitgewerkt per 01-01-2009 
+
 ### Artikel  11  
+Materieel uitgewerkt per 01-01-2009 
 
 1.  Aan de ondernemer die lid is van de Nederlandse Ondernemingsvereniging voor Afbouwbedrijven (NOA) en over het jaar 2007 aan deze organisatie contributie heeft betaald, wordt op de krachtens deze verordening verschuldigde heffing een aftrek toegestaan van 50% van het bedrag dat de betrokkene als contributie heeft betaald met een maximum van € 900,-. De aftrek mag niet meer zijn dan de helft van de krachtens deze verordening verschuldigde heffing. Het bedrag van de aftrek wordt afgerond tot hele euro’s, waarbij bedragen van minder dan vijftig eurocent worden verwaarloosd. De aftrek wordt slechts toegestaan als de contributie ter zake waarvan aftrek wordt verleend, in 2007 volledig is voldaan.   
 2.  Het eerste lid is van overeenkomstige toepassing op ondernemers die, al dan niet rechtstreeks, lid zijn van een organisatie van ondernemers die een vereniging met volledige rechtsbevoegdheid is en die: 
@@ -106,19 +123,23 @@ Het bedrijfschap is bevoegd om op een daartoe strekkend verzoek geheel of gedeel
 * haar activiteiten, al dan niet door middel van een federatie van gelijksoortige organisaties, landelijk ontplooit.     
 3.  Aan de leden van een in het vorige lid bedoelde organisatie wordt aftrek slechts toegestaan op grond van een daartoe strekkend verzoek van het bestuur van die organisatie aan het bestuur van de bedrijfschap.   
 4.  Ingeval van lidmaatschap bij meerdere organisaties, wordt per onderneming slechts éénmaal contributieaftrek toegestaan.   
-5.  Als bewijs van betaling van de contributie wordt een door de betrokken organisaties te verstrekken contributielijst, gewaarmerkt door een registeraccountant, aangehouden.   
+5.  Als bewijs van betaling van de contributie wordt een door de betrokken organisaties te verstrekken contributielijst, gewaarmerkt door een registeraccountant, aangehouden.  
 
 ### §  4  
 
 ####Slotbepalingen
 
-### Artikel  12  
+Materieel uitgewerkt per 01-01-2009 
 
-Deze verordeningen treedt in werking op 1 januari 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2008, dan treedt zij in werking op één dag na publicatie in het Verordeningenblad Bedrijforganisatie en werkt zij terug tot en met 1 januari 2008.  
+### Artikel  12  
+Materieel uitgewerkt per 01-01-2009 
+
+Deze verordeningen treedt in werking op 1 januari 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2008, dan treedt zij in werking op één dag na publicatie in het Verordeningenblad Bedrijforganisatie en werkt zij terug tot en met 1 januari 2008. 
 
 ### Artikel  13  
+Materieel uitgewerkt per 01-01-2009 
 
-Deze verordening wordt aangehaald als Heffingsverordening Bedrijfschap Afbouw 2008.  
+Deze verordening wordt aangehaald als Heffingsverordening Bedrijfschap Afbouw 2008. 
 
 Rijswijk 
 12 september 2007   
