@@ -7,4 +7,4 @@ Met deze circulaire wordt het premiepercentage voor werkhervatting gedeeltelijk 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze: de 
 directeur-generaal Organisatie en Bedrijfsvoering Rijk, 
-J.J.M.Uijlenbroek   
+J.J.M. Uijlenbroek     

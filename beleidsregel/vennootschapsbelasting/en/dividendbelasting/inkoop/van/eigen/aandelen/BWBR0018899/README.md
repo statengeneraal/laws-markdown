@@ -2,8 +2,8 @@
 
 ##Vennootschapsbelasting en Dividendbelasting, inkoop van eigen aandelen
 
-De directeur-generaal Belastingdienst heeft namens de staatssecretaris van Financiën het volgende besloten.     
-### 1  
+De directeur-generaal Belastingdienst heeft namens de staatssecretaris van Financiën het volgende besloten.    
+### 1 
 
 ####Inleiding
 
@@ -14,15 +14,15 @@ De inkoop van eigen aandelen ter afdekking van werknemersopties is wettelijk ger
 – Artikel 10c geldt ook voor inkoop van opties op eigen aandelen die niet plaatsvindt ter afdekking van werknemersopties.  
 
 – Artikel 3, derde lid, van de Wet DivBel wordt door mij ook toegepast op inkoop van eigen aandelen ter dekking van zogenoemde aandelenplannen.   Ik licht dit beleid hieronder nader toe in de onderdelen 2. en 3.    
-### 2  
+### 2 
 
 ####Beleid met betrekking tot artikel 10c van de Wet Vpb 1969
 
-### 2.A  
+### 2.A 
 
 ####Inkoop van eigen aandelen ter dekking van werknemersopties voor 21 februari 2001
 
-### 2.A.1  
+### 2.A.1 
 
 ####Goedkeuring
 
@@ -51,12 +51,12 @@ Voor de inwerkingtreding van artikel 10c van de Wet Vpb 1969 op 29 augustus 2002
 11. Indien op verschillende momenten optierechten zijn toegekend en op verschillende momenten aandelen zijn ingekocht ter dekking van de optieverplichtingen wordt een fifo-benadering gevolgd voor de bepaling welke ingekochte aandelen bij welke optieverplichting behoort.  
 
 12. Belastingplichtige verklaart uitdrukkelijk in te stemmen met boven genoemde voorwaarden door een daartoe strekkende schriftelijke verklaring te zenden aan de inspecteur.       
-### 2.B  
+### 2.B 
 
 ####Inkoop van opties op eigen aandelen anders dan ter afdekking van werknemersopties
 
 Artikel 10c, eerste lid, van de Wet Vpb bepaalt dat het resultaat op ter tijdelijke belegging ingekochte eigen aandelen geen deel uit maakt van de fiscale winst. Op grond van het vierde lid geldt voor opties op eigen aandelen hetzelfde. Bij de totstandkoming van dit vierde lid is alleen gesproken over inkoop van opties ter dekking van optieverplichtingen. Dit brengt echter niet mee dat deze bepaling ook alleen van toepassing is op dergelijke inkopen en niet geldt voor andere gevallen van inkoop van opties op eigen aandelen. De tekst van het vierde lid omvat wel degelijk elke inkoop van opties. En ook doel en strekking dwingt niet tot een beperkte werking. Ook de regeling van de inkoop van eigen aandelen geldt immers onbetwist voor elke inkoop van eigen aandelen. Niet valt in te zien waarom dan bij de inkoop van opties op eigen aandelen een dergelijke ruime werking wel in strijd is met doel en strekking van de wet.     
-### 3  
+### 3 
 
 ####Aandelenplannen en artikel 3, derde lid, Wet Divbel
 
@@ -67,7 +67,7 @@ a. Belanghebbende doet blijken dat de inkoop van aandelen plaatsvindt met het oo
 b. Indien de ingekochte eigen aandelen bij het einde van een kalenderjaar nog tot de bezittingen van de vennootschap behoren en niet blijkt dat deze aandelen worden aangehouden met het oog op de in de vorige voorwaarde bedoelde levering, worden de aandelen drie maanden na het einde van dat kalenderjaar geacht te zijn ingekocht tegen de waarde in het economische verkeer op het tijdstip van deze inkoop.  
 
 c. Belastingplichtige verklaart uitdrukkelijk in te stemmen met de onder b genoemde voorwaarde door een daartoe strekkende schriftelijke verklaring te zenden aan de inspecteur.   Met betrekking tot aandelenplannen geldt verder nog de volgende aanvullende goedkeuring: Voor aandelen die zijn ingekocht ter nakoming van optieverplichtingen jegens werknemers geldt dat dividendbelasting is verschuldigd indien de aandelen drie maanden na het tenietgaan van de optieverplichting nog tot het bezit van de vennootschap horen. In die drie maanden kunnen de aandelen op de markt vervreemd worden. Ik heb tijdens de parlementaire behandeling aangegeven dat wanneer de ingekochte aandelen in die drie maanden gaan fungeren als dekking voor nieuwe optierechten, het karakter van tijdelijke belegging behouden blijft. Aanvullend op deze toezegging keur ik goed dat het karakter van tijdelijke belegging ook behouden blijft wanneer de ingekochte aandelen in die drie maanden gaan fungeren als dekking voor aandelenplannen (onder de hierboven voor gelijkstelling met optieverplichtingen vermelde voorwaarden). Ter voorkoming van misverstanden merk ik op dat op aandelen ingekocht ter dekking van dit soort aandelenplannen artikel 10c van de Wet op de vennootschapsbelasting 1969 ook van toepassing is.    
-### 4  
+### 4 
 
 ####Inwerkingtreding en intrekking eerdere besluiten
 
