@@ -8,17 +8,17 @@ Handelend in overeenstemming met het Kabinetsbesluit van 4 juli 2003;
 Gelet op [artikel 10:12 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md):
 Besluit:    
 
-### Artikel  1  
+### Artikel 1  
 
 In dit besluit wordt verstaan onder: 
 
-a. *minister:* de minister van Binnenlandse Zaken en Koninkrijksrelaties  
+a.  *minister:* de minister van Binnenlandse Zaken en Koninkrijksrelaties  
 
-b. *ministerie:* ministerie van Binnenlandse Zaken en Koninkrijksrelaties  
+b.  *ministerie:* ministerie van Binnenlandse Zaken en Koninkrijksrelaties  
 
-c. *P-Direkt:* de baten-lastendienst, ingesteld bij [besluit van de minister van Binnenlandse Zaken en Koninkrijksrelaties en de minister van Financiën van 11 februari 2009](../../../../../../../../../../../ministeriele-regeling/instellingsbesluit/baten-lastendienst/p-direkt/BWBR0025362/README.md);  
+c.  *P-Direkt:* de baten-lastendienst, ingesteld bij [besluit van de minister van Binnenlandse Zaken en Koninkrijksrelaties en de minister van Financiën van 11 februari 2009](../../../../../../../../../../../ministeriele-regeling/instellingsbesluit/baten-lastendienst/p-direkt/BWBR0025362/README.md);  
 
-d. *machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.    
+d.  *machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.   
 
 ### Artikel  2  
 
@@ -34,31 +34,31 @@ a. In het kader van de [Archiefwet 1995](../../../../../../../../../../../wet/ar
 b. In het kader van de [Archiefwet 1995](../../../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) wordt de directeur van P-Direkt gemachtigd om op basis van een daartoe strekkend besluit van de minister papieren documenten te scannen en de gescande documenten aan het digitale dossier toe te voegen, waarbij de originele papieren documenten worden bewaard totdat vervanging als bedoeld in het derde lid, onder a, is toegestaan;  
 
 c. In het kader van de [Archiefwet 1995](../../../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) wordt de directeur van P-Direkt gemachtigd om op basis van een daartoe strekkend besluit van de minister de archiefbescheiden te vernietigen overeenkomstig [artikel 3 van deze wet](../../../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md).     
-4.  Voor de toepassing van [artikel 4 van de Wet openbaarheid van bestuur](../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) worden documenten die berusten bij P-Direkt geacht te berusten bij het ministerie. Verzoeken op grond van de Wet openbaarheid van bestuur tot openbaarmaking van documenten worden door de minister beantwoord. Documenten worden niet geopenbaard dan na een daartoe strekkend individueel besluit van de minister.   
+4.  Voor de toepassing van [artikel 4 van de Wet openbaarheid van bestuur](../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) worden documenten die berusten bij P-Direkt geacht te berusten bij het ministerie. Verzoeken op grond van de Wet openbaarheid van bestuur tot openbaarmaking van documenten worden door de minister beantwoord. Documenten worden niet geopenbaard dan na een daartoe strekkend individueel besluit van de minister.  
 
 ### Artikel  3  
 
-De uitoefening van de machtiging, bedoeld in artikel 2, geschiedt met inachtneming van de van toepassing zijnde wet- en regelgeving en richtlijnen.  
+De uitoefening van de machtiging, bedoeld in artikel 2, geschiedt met inachtneming van de van toepassing zijnde wet- en regelgeving en richtlijnen. 
 
 ### Artikel  4  
 
-De directeur P-Direkt kan de machtiging, zoals bedoeld in artikel 2, doorverlenen aan één of meer onder hem ressorterende functionarissen.  
+De directeur P-Direkt kan de machtiging, zoals bedoeld in artikel 2, doorverlenen aan één of meer onder hem ressorterende functionarissen. 
 
 ### Artikel  5  
 
-1.  De machtiging geldt voor de duur van de dienstverlening van P-Direkt aan het ministerie, of tot de datum waarop deze door het ministerie wordt ingetrokken.   
+1. De machtiging geldt voor de duur van de dienstverlening van P-Direkt aan het ministerie, of tot de datum waarop deze door het ministerie wordt ingetrokken. 
 
 ### Artikel  6  
 
-De machtiging die is verleend aan het Facilitair SalarisCentrum ten behoeve van salarisbetalingen aan ambtenaren van het ministerie wordt vanaf het tijdstip van inwerkingtreding van dit besluit geacht te zijn verleend aan P-Direkt.  
+De machtiging die is verleend aan het Facilitair SalarisCentrum ten behoeve van salarisbetalingen aan ambtenaren van het ministerie wordt vanaf het tijdstip van inwerkingtreding van dit besluit geacht te zijn verleend aan P-Direkt. 
 
 ### Artikel  7  
 
 1.  Dit besluit zal in de Staatscourant worden gepubliceerd.   
 2.  Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.   
-3.  Alle besluiten van voor inwerkingtreding van dit besluit, inhoudende een machtiging aan P-Direkt of zijn rechtsvoorganger tot het verrichten van feitelijke handelingen op het gebied van personeels- en salarisadministratie, worden ingetrokken per datum van inwerkingtreding van dit besluit.   
+3.  Alle besluiten van voor inwerkingtreding van dit besluit, inhoudende een machtiging aan P-Direkt of zijn rechtsvoorganger tot het verrichten van feitelijke handelingen op het gebied van personeels- en salarisadministratie, worden ingetrokken per datum van inwerkingtreding van dit besluit.  
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, Voor deze: De 
 directeur Personeel en Organisatie, 
-N.C.Stolk-Luyten   
+N.C. Stolk-Luyten     

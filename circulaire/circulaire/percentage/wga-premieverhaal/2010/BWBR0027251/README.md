@@ -7,4 +7,4 @@ Door middel van deze circulaire informeer ik u dat het premiepercentage voor wer
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
 directeur Arbeidszaken Publieke Sector, 
-L.D.P.Lombaers   
+L.D.P. Lombaers     
