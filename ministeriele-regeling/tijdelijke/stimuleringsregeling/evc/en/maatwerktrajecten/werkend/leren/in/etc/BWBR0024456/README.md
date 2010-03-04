@@ -4,47 +4,47 @@
 
 ####Inleidende bepalingen
 
-Vervallen per 01-02-2012 
+Vervallen per 01-12-2010 
 
 ### Hoofdstuk  2  
 
 ####Subsidieaanvraag
 
-Vervallen per 01-02-2012 
+Vervallen per 01-12-2010 
 
 ### Hoofdstuk  3  
 
 ####Subsidieverlening
 
-Vervallen per 01-02-2012 
+Vervallen per 01-12-2010 
 
 ### Hoofdstuk  4  
 
 ####Verplichtingen subsidieontvanger
 
-Vervallen per 01-02-2012 
+Vervallen per 01-12-2010 
 
 ### Hoofdstuk  5  
 
-####Subsidievaststelling
+####Verantwoording
 
-Vervallen per 01-02-2012 
+Vervallen per 01-12-2010 
 
 ### Hoofdstuk  6  
 
 ####Betaling
 
-Vervallen per 01-02-2012 
+Vervallen per 01-12-2010 
 
 ### Hoofdstuk  7  
 
 ####Mandaatverlening
 
-Vervallen per 01-02-2012 
+Vervallen per 01-12-2010 
 
 ### Hoofdstuk  8  
 
 ####Slotbepalingen
 
-Vervallen per 01-02-2012 
+Vervallen per 01-12-2010 
 
