@@ -42,7 +42,7 @@ De Taskforce bestaat uit de volgende leden:
 
 – A.P.R. van Rooij, directeur Organisatie VNO-NCW en MKB Nederland;  
 
-– W. Ruijgrok, directeur Relatiebeheer en Dienstverlening VNO-NCW.    
+– drs. A.B. Sakkers, Algemeen voorzitter van Transport en Logistiek Nederland en tevens voorzitter van de commissie Criminaliteitsbeheersing van VNO-NCW.    
 
 ### Artikel  4  
 
