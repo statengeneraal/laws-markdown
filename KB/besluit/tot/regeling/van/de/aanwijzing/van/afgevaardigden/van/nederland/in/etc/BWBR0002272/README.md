@@ -12,16 +12,19 @@ Overwegende, dat het wenselijk is een nadere regeling te treffen voor de aanwijz
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2010 
 
-De aanwijzing van de afgevaardigden uit het Koninkrijk der Nederlanden zal geschieden door de beide Kamers der Staten-Generaal. De wijze van aanwijzing wordt door beide Kamers der Staten-Generaal in onderling overleg vastgesteld.  
+De aanwijzing van de afgevaardigden uit het Koninkrijk der Nederlanden zal geschieden door de beide Kamers der Staten-Generaal. De wijze van aanwijzing wordt door beide Kamers der Staten-Generaal in onderling overleg vastgesteld. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2010 
 
-Ons besluit van 23 augustus 1952 (*Stb.* 452) wordt ingetrokken.  
+Ons besluit van 23 augustus 1952 (*Stb.* 452) wordt ingetrokken. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2010 
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van het *Staatsblad,* waarin het is geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van het *Staatsblad,* waarin het is geplaatst. 
 
 Onze Minister van Buitenlandse Zaken is belast met de uitvoering van dit besluit, dat in het *Staatsblad* en in de *Staatscourant* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Eerste en Tweede Kamer der Staten-Generaal.   
 

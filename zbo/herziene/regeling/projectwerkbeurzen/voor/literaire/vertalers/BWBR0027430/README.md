@@ -16,13 +16,13 @@ Regeling van het bestuur van de Stichting Nederlands Letterenfonds als bedoeld i
 
 2.1 Projectwerkbeurzen zijn bestemd voor vertalers die literair werk, zoals proza (fictie en non-fictie), poëzie, kinder- en jeugdliteratuur en toneel, in het Nederlands of Fries vertalen.  
 
-2.2 Om een projectwerkbeurs te kunnen aanvragen dient van de vertaler – op het moment van indienen van de aanvraag – *minimaal één* zelfstandig vertaald, literair boek in het Nederlands of Fries te zijn gepubliceerd. <sup> 1  Indien de publicatie een vertaaldebuut betreft, mag de publicatiedatum daarvan op het moment van de aanvraag niet langer dan vier jaar geleden zijn. Bovendien moet het vertaaldebuut zijn vertaald uit dezelfde taal als de brontekst waarvoor een projectwerkbeurs wordt aangevraagd. Indien de vertaler reeds meerdere literaire vertalingen heeft gepubliceerd, gelden deze twee eisen niet.  </sup> <sup> 2  Een duo vertaling is toegestaan mits het project waarvoor een projectwerkbeurs wordt aangevraagd, door hetzelfde duo wordt vertaald als de literaire debuutvertaling.  </sup> 
+2.2 Om een projectwerkbeurs te kunnen aanvragen dient van de vertaler – op het moment van indienen van de aanvraag – *minimaal één*<sup> 1 Indien de publicatie een vertaaldebuut betreft, mag de publicatiedatum daarvan op het moment van de aanvraag niet langer dan vier jaar geleden zijn. Bovendien moet het vertaaldebuut zijn vertaald uit dezelfde taal als de brontekst waarvoor een projectwerkbeurs wordt aangevraagd. Indien de vertaler reeds meerdere literaire vertalingen heeft gepubliceerd, gelden deze twee eisen niet. </sup> zelfstandig<sup> 2 Een duo vertaling is toegestaan mits het project waarvoor een projectwerkbeurs wordt aangevraagd, door hetzelfde duo wordt vertaald als de literaire debuutvertaling. </sup> vertaald, literair boek in het Nederlands of Fries te zijn gepubliceerd. 
 
 2.2.1 De publicatie als bedoeld in 2.2 moet aan de volgende eisen voldoen: 
 
 a) De publicatie is uitgegeven in boekvorm door een professionele uitgeverij in een oplage van minstens 500 exemplaren en in de reguliere boekhandel in Nederland verkrijgbaar. Een professionele uitgeverij wordt als volgt gedefinieerd: De uitgeverij verzorgt een aanbieding aan de boekhandel, hanteert de gebruikelijke leveringsvoorwaarden en maakt minstens één keer per jaar een fondslijst; de uitgeverij beschikt over een professionele en onafhankelijke redactie en de publicaties van de uitgeverij hebben een ISBN-nummer.  
 
-b) De omvang van een poëziebundel dient minimaal *20 pagina’s* te zijn, van proza minstens *25.000 woorden.*  
+b) De omvang van een poëziebundel dient minimaal *20 pagina’s* te zijn, van proza minstens *25.000 woorden.*   
 
 c) De publicatie is geen uitgave in eigen beheer, gelegenheidsuitgave, werk dat uitsluitend bestaat uit redactie en samenstelling of een vertaling die tevens een bewerking is.  
 
@@ -52,7 +52,7 @@ d) De vertaler heeft voor de vertaling een redelijk honorarium ontvangen van de 
 
 ####Formele toetsing
 
-Een aanvraag die niet voldoet aan het gestelde onder 1, 2 of 3 wordt afgewezen.    
+Een aanvraag die niet voldoet aan het gestelde onder 1,2 of 3 wordt afgewezen.    
 ### 5  
 
 ####Waar, hoe en wanneer moet de aanvraag worden ingediend?
@@ -78,7 +78,7 @@ De aanvraag bevat in ieder geval de volgende informatie:
 
 6.5 Een kopie van het contract of de verklaring van de uitgever dat het contract binnen een maand na besluitvorming kan worden overgelegd.  
 
-6.6 *Inkomensgegevens:* de meest recente belastingaanslag of andere bewijsstukken die inzage geven in het inkomen in het jaar voorafgaand aan het jaar waarin een projectwerkbeurs wordt aangevraagd én een prognose over het inkomen in het jaar van toekenning.  
+6.6  *Inkomensgegevens:* de meest recente belastingaanslag of andere bewijsstukken die inzage geven in het inkomen in het jaar voorafgaand aan het jaar waarin een projectwerkbeurs wordt aangevraagd én een prognose over het inkomen in het jaar van toekenning.  
 
 6.7 Eventueel een *financiële planning;* deze is in ieder geval noodzakelijk indien het inkomen in het jaar voorafgaand aan de aanvraag en/of de periode waarvoor de projectwerkbeurs wordt aangevraagd hoger is dan wel in de buurt komt van de inkomensgrens.  
 
@@ -231,6 +231,6 @@ Van toepassing op deze regeling is het Algemeen Reglement van het Nederlands Let
 
 Deze regeling treedt in werking met ingang van 21 juli 2009. Met deze datum vervallen de [Regeling Projectwerkbeurzen voor literaire vertalers](../../../../../../../../zbo/regeling/projectwerkbeurzen/voor/literaire/vertalers/BWBR0012123/README.md) en de [Regeling stimuleringssubsidies vertaald literair werk 2005–2009](../../../../../../../../zbo/regeling/stimuleringssubsidies/vertaald/literair/werk/2005-2009/BWBR0018250/README.md).     
 
-het bestuur van het Fonds voor de Letteren, namens het bestuur:
-M.F. van denBergh,
-waarnemend directeur   
+het bestuur van het Fonds voor de Letteren, namens het bestuur: 
+M.F. van den Bergh,  
+waarnemend directeur    

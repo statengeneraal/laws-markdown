@@ -14,20 +14,24 @@ Gezien het nader rapport van Onze Minister van Buitenlandse Zaken van 22 septemb
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-01-2010 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
 ####Overige en overgangsbepalingen
 
+Materieel uitgewerkt per 01-01-2010 
+
 1.  De in artikel I, onderdeel Z, bedoelde regeling omvat ten tijde van de inwerkingtreding van dit besluit de bepalingen overeenkomstig het Arbeidsovereenkomstenbesluit zoals dit luidde op 31 december 1994, voor zover die bepalingen van overeenkomstige toepassing werden verklaard in artikel 124, eerste lid, onder *a*, van het [Reglement Dienst Buitenlandse Zaken](../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) zoals dat luidde vóór de inwerkingtreding van dit besluit. Daarbij is het gestelde in artikel 124, tweede lid, van dat reglement onverminderd van toepassing.   
-2.  De in [artikel 120 van het Reglement Dienst Buitenlandse Zaken](../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md), zoals dat luidde vóór de inwerkingtreding van dit besluit, bedoelde werknemers die voor een bepaalde periode in dienst genomen zijn, worden aangesteld als tijdelijke ambtenaren van de DBZ, bedoeld in artikel 113 *a*. De datum waarop die aanstelling eindigt is de datum waarop de oorspronkelijke arbeidsovereenkomst naar burgerlijk recht zou eindigen.   
-3.  Arbeidsovereenkomsten welke door, namens of in overeenstemming met Onze Minister zijn gesloten op de voet van [artikel 124 van het Reglement Dienst Buitenlandse Zaken](../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) zoals dat luidde vóór de inwerkingtreding van dit besluit, worden geacht te zijn gesloten op de voet van dat reglement zoals dat luidt ingevolge dit besluit.   
+2.   De in [artikel 120 van het Reglement Dienst Buitenlandse Zaken](../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md), zoals dat luidde vóór de inwerkingtreding van dit besluit, bedoelde werknemers die voor een bepaalde periode in dienst genomen zijn, worden aangesteld als tijdelijke ambtenaren van de DBZ, bedoeld in artikel 113*a*. De datum waarop die aanstelling eindigt is de datum waarop de oorspronkelijke arbeidsovereenkomst naar burgerlijk recht zou eindigen.   
+3.   Arbeidsovereenkomsten welke door, namens of in overeenstemming met Onze Minister zijn gesloten op de voet van [artikel 124 van het Reglement Dienst Buitenlandse Zaken](../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) zoals dat luidde vóór de inwerkingtreding van dit besluit, worden geacht te zijn gesloten op de voet van dat reglement zoals dat luidt ingevolge dit besluit.  
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-01-2010 
 
-Dit besluit treedt in werking met ingang van 1 januari 1995, en werkt voor artikel I, onderdeel D, F, eerste lid, G, H, I, AA en BB, eerste lid, terug tot en met 1 november 1994.  
+Dit besluit treedt in werking met ingang van 1 januari 1995, en werkt voor artikel I, onderdeel D, F, eerste lid, G, H, I, AA en BB, eerste lid, terug tot en met 1 november 1994. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 
