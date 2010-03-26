@@ -10,12 +10,14 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is, ten laste van 's Ri
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2010 
 
-Onze Minister voor Ontwikkelingssamenwerking wordt gemachtigd om het nodige te verrichten, opdat ten laste van 's Rijks schatkist voor een totaal bedrag van f 41 009 460 (EENENVEERTIG MILJOEN NEGENDUIZEND VIERHONDERD ZESTIG GULDEN) wordt bijgedragen in de Tweede Aanvulling der Middelen van het Internationale Fonds voor Agrarische Ontwikkeling.  
+Onze Minister voor Ontwikkelingssamenwerking wordt gemachtigd om het nodige te verrichten, opdat ten laste van 's Rijks schatkist voor een totaal bedrag van f 41 009 460 (EENENVEERTIG MILJOEN NEGENDUIZEND VIERHONDERD ZESTIG GULDEN) wordt bijgedragen in de Tweede Aanvulling der Middelen van het Internationale Fonds voor Agrarische Ontwikkeling. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2010 
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
