@@ -9,7 +9,7 @@ Besluit:
 
 ####Terminologie en algemene bepalingen
 
-#### *Terminologie* 
+####*Terminologie*
 
 ### Artikel  1  
 
@@ -45,18 +45,18 @@ n. voorzitter: de voorzitter van het productschap;
 
 o. melkveehouder: de ondernemer die melkkoeien houdt;  
 
-p. wet: de [Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).    
+p. wet: de [Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).   
 
-#### *Algemene bepalingen* 
+####*Algemene bepalingen*
 
 ### Artikel  2  
 
 1.  Indien de ontvanger van boerderijmelk de aan hem geleverde boerderijmelk betaalt op basis van de hoeveelheid, de samenstelling en/of de kwaliteit, dan worden de bij of krachtens deze verordening van toepassing zijnde bepalingen in acht genomen.   
-2.  De ontvanger van boerderijmelk meldt zich ter registratie aan bij het productschap.   
+2.  De ontvanger van boerderijmelk meldt zich ter registratie aan bij het productschap.  
 
 ### Artikel  3  
 
-De ontvanger van boerderijmelk ontvangt alleen boerderijmelk die in een melkkoeltank is bewaard.  
+De ontvanger van boerderijmelk ontvangt alleen boerderijmelk die in een melkkoeltank is bewaard. 
 
 ### Hoofdstuk  II  
 
@@ -65,26 +65,26 @@ De ontvanger van boerderijmelk ontvangt alleen boerderijmelk die in een melkkoel
 ### Artikel  4  
 
 1.  De ontvanger van boerderijmelk zorgt ervoor dat van elke leverantie boerderijmelk een representatief monster wordt genomen met inachtneming van het bepaalde bij of krachtens deze verordening.   
-2.  De ontvanger van boerderijmelk zorgt ervoor dat de chauffeur-monsternemer die wordt belast met de bemonstering van boerderijmelk ter zake kundig is.   
+2.  De ontvanger van boerderijmelk zorgt ervoor dat de chauffeur-monsternemer die wordt belast met de bemonstering van boerderijmelk ter zake kundig is.  
 
 ### Artikel  5  
 
-De melkveehouder verleent alle medewerking aan de bemonstering van de boerderijmelk.  
+De melkveehouder verleent alle medewerking aan de bemonstering van de boerderijmelk. 
 
 ### Artikel  6  
 
 1.  De ontvanger van boerderijmelk neemt ten aanzien van het nemen, transporteren en bewaren van monsters boerderijmelk de nader door het bestuur vastgestelde bepalingen in acht.   
 2.  De ontvanger van boerderijmelk beschikt over een kwaliteitssysteem waarmee hij aantoonbaar het gestelde in lid 1 realiseert, beheerst en borgt. Dit kwaliteitssysteem is door de ontvanger van boerderijmelk op een overzichtelijke wijze beschreven en vastgelegd.   
-3.  De voorzitter kan, gehoord het COKZ, ontheffing verlenen van het bepaalde in lid 1. Aan deze ontheffing kunnen voorwaarden worden verbonden.   
+3.  De voorzitter kan, gehoord het COKZ, ontheffing verlenen van het bepaalde in lid 1. Aan deze ontheffing kunnen voorwaarden worden verbonden.  
 
 ### Hoofdstuk  III  
 
-####Hoeveelheid, samenstelling en kwaliteit
+#### Hoeveelheid, samenstelling en kwaliteit
 
 ### Artikel  7  
 
 1.  De hoeveelheid geleverde boerderijmelk wordt vastgesteld overeenkomstig nader door het bestuur vastgestelde werkwijzen.   
-2.  De voorzitter kan, gehoord het COKZ, ontheffing verlenen van het bepaalde in lid 1, mits tot zijn genoegen wordt aangetoond dat de vaststelling van de hoeveelheid op andere wijze nauwkeurig plaatsvindt. Aan de ontheffing kunnen voorwaarden worden verbonden.   
+2.  De voorzitter kan, gehoord het COKZ, ontheffing verlenen van het bepaalde in lid 1, mits tot zijn genoegen wordt aangetoond dat de vaststelling van de hoeveelheid op andere wijze nauwkeurig plaatsvindt. Aan de ontheffing kunnen voorwaarden worden verbonden.  
 
 ### Artikel  8  
 
@@ -108,17 +108,17 @@ h. de zuurtegraad van het vet;
 
 i. het vriespunt;  
 
-j. het chloroformgehalte;   dan worden de desbetreffende nader door het bestuur vastgestelde bepalingen in acht genomen.   
+j.het chloroformgehalte; dan worden de desbetreffende nader door het bestuur vastgestelde bepalingen in acht genomen.   
 2.  Indien de uitbetaling van boerderijmelk plaatsvindt op basis van het vetgehalte of het eiwitgehalte, dan worden deze per leverantie bepaald.   
-3.  De ontvanger van boerderijmelk legt het systeem van uitbetaling zoals bedoeld in deze verordening vast. Dit systeem van uitbetaling wordt aan de betrokken melkveehouders bekendgemaakt.   
+3.  De ontvanger van boerderijmelk legt het systeem van uitbetaling zoals bedoeld in deze verordening vast. Dit systeem van uitbetaling wordt aan de betrokken melkveehouders bekendgemaakt.  
 
 ### Artikel  9  
 
-Het kwaliteitsonderzoek wordt verricht met inachtneming van de bepalingen van Verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van 29 april 2004 hudende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEG L226) zoals deze is of zal worden gewijzigd.  
+Het kwaliteitsonderzoek wordt verricht met inachtneming van de bepalingen van Verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van 29 april 2004 hudende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEG L226) zoals deze is of zal worden gewijzigd. 
 
 ### Artikel  10  
 
-De hoeveelheid, de samenstelling en de kwaliteit van de ontvangen boerderijmelk worden, voor zover van belang voor de uitbetaling, aan de melkveehouder bekend gemaakt.  
+De hoeveelheid, de samenstelling en de kwaliteit van de ontvangen boerderijmelk worden, voor zover van belang voor de uitbetaling, aan de melkveehouder bekend gemaakt. 
 
 ### Hoofdstuk  IV  
 
@@ -131,7 +131,7 @@ De hoeveelheid, de samenstelling en de kwaliteit van de ontvangen boerderijmelk 
 a. de hoeveelheid ontvangen boerderijmelk,  
 
 b. de samenstelling en/of de kwaliteit van de ontvangen boerderijmelk.     
-2.  De in lid 1 bedoelde gegevens worden op overzichtelijke wijze geadministreerd en worden gedurende ten minste één jaar bewaard.   
+2.  De in lid 1 bedoelde gegevens worden op overzichtelijke wijze geadministreerd en worden gedurende ten minste één jaar bewaard.  
 
 ### Hoofdstuk  V  
 
@@ -139,11 +139,11 @@ b. de samenstelling en/of de kwaliteit van de ontvangen boerderijmelk.
 
 ### Artikel  12  
 
-Indien de uitbetaling van boerderijmelk plaatsvindt op grond van samenstelling en/of kwaliteit, dan draagt de ontvanger van boerderijmelk er zorg voor dat de betrokken onderzoeken worden verricht door een melkcontrolestation dat beschikt over een terzake deskundige leiding, over een voor het te verrichten onderzoek voldoende outillage, alsmede over een gedocumenteerd en adequaat functionerend kwaliteitssysteem en dat voor alle in dit kader relevante onderzoekmethoden geaccrediteerd is volgens NEN-EN-ISO/IEC 17025. Het bestuur kan nadere eisen stellen aan een melkcontrolestation.  
+Indien de uitbetaling van boerderijmelk plaatsvindt op grond van samenstelling en/of kwaliteit, dan draagt de ontvanger van boerderijmelk er zorg voor dat de betrokken onderzoeken worden verricht door een melkcontrolestation dat beschikt over een terzake deskundige leiding, over een voor het te verrichten onderzoek voldoende outillage, alsmede over een gedocumenteerd en adequaat functionerend kwaliteitssysteem en dat voor alle in dit kader relevante onderzoekmethoden geaccrediteerd is volgens NEN-EN-ISO/IEC 17025. Het bestuur kan nadere eisen stellen aan een melkcontrolestation. 
 
 ### Artikel  13  
 
-De uitslagen van het onderzoek worden vastgelegd op een toegankelijke en overzichtelijke wijze. De uitslagen worden gedurende ten minste een jaar bewaard.  
+De uitslagen van het onderzoek worden vastgelegd op een toegankelijke en overzichtelijke wijze. De uitslagen worden gedurende ten minste een jaar bewaard. 
 
 ### Hoofdstuk  VII  
 
@@ -151,7 +151,7 @@ De uitslagen van het onderzoek worden vastgelegd op een toegankelijke en overzic
 
 ### Artikel  14  
 
-Het bij of krachtens deze verordening bepaalde is bindend voor de in [artikel 102, lid 1, van de wet](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) bedoelde natuurlijke en rechtspersonen alsmede voor de in [artikel 102, lid 2 van de wet](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) bedoelde natuurlijke en rechtspersonen, voor zover deze handelingen verrichten die bedrijfsmatig plegen te worden verricht in de ondernemingen, bedoeld in [artikel 102, lid 1, van de wet](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).  
+Het bij of krachtens deze verordening bepaalde is bindend voor de in [artikel 102, lid 1, van de wet](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) bedoelde natuurlijke en rechtspersonen alsmede voor de in [artikel 102, lid 2 van de wet](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) bedoelde natuurlijke en rechtspersonen, voor zover deze handelingen verrichten die bedrijfsmatig plegen te worden verricht in de ondernemingen, bedoeld in [artikel 102, lid 1, van de wet](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
 
 ### Artikel  15  
 
@@ -164,21 +164,21 @@ b. een geldboete van ten hoogste € 4.500;
 
 c. openbaarmaking van de uitspraak op kosten van de betrokkene;  
 
-d. het onder verscherpte controle stellen van het bedrijf van de betrokkene op zijn kosten voor ten hoogste twee jaren.     
+d. het onder verscherpte controle stellen van het bedrijf van de betrokkene op zijn kosten voor ten hoogste twee jaren.    
 
 ### Artikel  16  
 
 1.  Het bestuur van het productschap kan ontheffing verlenen van het in deze verordening bepaalde   
-2.  Het bestuur kan aan een ontheffing als bedoeld in lid 1 voorwaarden verbinden.   
+2.  Het bestuur kan aan een ontheffing als bedoeld in lid 1 voorwaarden verbinden.  
 
 ### Artikel  17  
 
-De [Zuivelverordening 2000, Uitbetaling van boerderijmelk naar kwaliteit, samenstelling en gewicht](../../../../../../../pbo/zuivelverordening/2000/uitbetaling/van/boerderijmelk/naar/kwaliteit/etc/BWBR0010719/README.md) en de [Zuivelverordening 2003, Vaststelling frequentie en beoordeling resultaten kwaliteitsonderzoek](../../../../../../..//BWBR0014033/README.md) worden ingetrokken.  
+De [Zuivelverordening 2000, Uitbetaling van boerderijmelk naar kwaliteit, samenstelling en gewicht](../../../../../../../pbo/zuivelverordening/2000/uitbetaling/van/boerderijmelk/naar/kwaliteit/etc/BWBR0010719/README.md) en de Zuivelverordening 2003, Vaststelling frequentie en beoordeling resultaten kwaliteitsonderzoek worden ingetrokken. 
 
 ### Artikel  18  
 
 1.  Deze verordening treedt in werking met ingang van 1 januari 2006.   
-2.  Deze verordening wordt aangehaald als Zuivelverordening 2005, Grondslag uitbetaling boerderijmelk.   
+2.  Deze verordening wordt aangehaald als Zuivelverordening 2005, Grondslag uitbetaling boerderijmelk.  
 
 Zoetermeer 
 15 september 2004   
