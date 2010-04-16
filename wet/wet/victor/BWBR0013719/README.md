@@ -11,31 +11,31 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Woningwet.   
+Wijzigt de Woningwet.  
 
 ### Artikel  II  
 
-Wijzigt de Gemeentewet.   
+Wijzigt de Gemeentewet.  
 
 ### Artikel  III  
 
-Wijzigt de Onteigeningswet.   
+Wijzigt de Onteigeningswet.  
 
 ### Artikel  IV  
 
-Wijzigt Boek 7A van het Burgerlijk Wetboek.   
+Wijzigt Boek 7A van het Burgerlijk Wetboek.  
 
 ### Artikel  V  
 
-Wijzigt de Opiumwet.   
+Wijzigt de Opiumwet.  
 
 ### Artikel  VI  
 
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt in overeenstemming met Onze Ministers van Justitie en van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt in overeenstemming met Onze Ministers van Justitie en van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  VII  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 ### Artikel  VIII  
 
@@ -59,4 +59,4 @@ A. H. Korthals
 de *vierde* juli 2002 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     
