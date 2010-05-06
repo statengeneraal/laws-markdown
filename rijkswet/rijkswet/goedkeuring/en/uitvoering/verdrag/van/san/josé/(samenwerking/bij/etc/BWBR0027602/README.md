@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Artikel  1  
 
-Het op 10 april 2003 te San José totstandgekomen Verdrag inzake samenwerking bij de bestrijding van sluikhandel in verdovende middelen en psychotrope stoffen over zee en door de lucht in het Caribisch gebied, waarvan de tekst is geplaatst in Tractatenblad 2003, 82 en de vertaling in het Nederlands in Tractatenblad 2004, 54, wordt goedgekeurd voor het gehele Koninkrijk.  
+Het op 10 april 2003 te San José totstandgekomen Verdrag inzake samenwerking bij de bestrijding van sluikhandel in verdovende middelen en psychotrope stoffen over zee en door de lucht in het Caribisch gebied, waarvan de tekst is geplaatst in Tractatenblad 2003, 82 en de vertaling in het Nederlands in Tractatenblad 2004, 54, wordt goedgekeurd voor het gehele Koninkrijk. 
 
 ### Artikel  2  
 
@@ -21,13 +21,13 @@ a. het strafbare feit wordt begaan in de aansluitende zone van het Koninkrijk de
 
 b. het strafbare feit wordt begaan aan boord van een vaartuig zonder nationaliteit of een daarmee gelijk gesteld vaartuig uit hoofde van het internationale recht, dat zich zeewaarts van de territoriale zee van enige staat bevindt;  
 
-c. het strafbare feit wordt begaan aan boord van een vaartuig dat de vlag voert van, of de registratiekenmerken of enige andere indicatie van de nationaliteit vertoont van een andere staat die partij is bij het in artikel 1 genoemde Verdrag en dat zich zeewaarts van de territoriale zee van enige staat bevindt.    
+c. het strafbare feit wordt begaan aan boord van een vaartuig dat de vlag voert van, of de registratiekenmerken of enige andere indicatie van de nationaliteit vertoont van een andere staat die partij is bij het in artikel 1 genoemde Verdrag en dat zich zeewaarts van de territoriale zee van enige staat bevindt.   
 
 ### Artikel  3  
 
-Deze rijkswet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze rijkswet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
-Lasten en bevelen dat deze zal worden geplaatst in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze zal worden geplaatst in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 Lech 
 20 februari 2010  
@@ -36,13 +36,13 @@ Beatrix
 De Minister van Defensie, , 
 E. van Middelkoop   
 
-De Minister van Buitenlandse Zaken, 
+De Minister van Buitenlandse Zaken,  
 M. J. M. Verhagen   
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin   
 
 de *negenentwintigste* april 2010 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    
