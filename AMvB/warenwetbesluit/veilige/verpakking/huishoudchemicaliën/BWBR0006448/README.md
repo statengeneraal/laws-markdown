@@ -17,13 +17,13 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder: 
+In dit besluit wordt verstaan onder:  
 
-a. huishoudchemicaliën: 
+a. huishoudchemicaliën:  
 
-1° stoffen en preparaten waarvan de verpakking krachtens de verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353) respectievelijk het [Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten](../../../../../../AMvB/besluit/verpakking/en/aanduiding/milieugevaarlijke/stoffen/en/preparaten/BWBR0004220/README.md) moet zijn geëtiketteerd als zeer vergiftig, vergiftig of bijtend;  
+1° stoffen en preparaten waarvan de verpakking krachtens de verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353) respectievelijk het [Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten](../../../../../../AMvB/besluit/verpakking/en/aanduiding/milieugevaarlijke/stoffen/en/preparaten/BWBR0004220/README.md) moet zijn geëtiketteerd als zeer vergiftig, vergiftig of bijtend;   
 
-2° preparaten waarvan de verpakking krachtens het [Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten](../../../../../../AMvB/besluit/verpakking/en/aanduiding/milieugevaarlijke/stoffen/en/preparaten/BWBR0004220/README.md) moet zijn geëtiketteerd als «schadelijk: kan longschade veroorzaken na verslikken»;  
+2° preparaten waarvan de verpakking krachtens het [Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten](../../../../../../AMvB/besluit/verpakking/en/aanduiding/milieugevaarlijke/stoffen/en/preparaten/BWBR0004220/README.md) moet zijn geëtiketteerd als «schadelijk: kan longschade veroorzaken na verslikken»;   
 
 3°. preparaten die methanol bevatten in een concentratie van 3 procent of meer;  
 
@@ -35,52 +35,52 @@ a. huishoudchemicaliën:
 
 b. kinderveilige sluiting: een sluiting die, aangebracht op de verpakking, voldoet aan de norm ISO 8317 van 1 juli 1989;  
 
-c. voelbare gevaarsaanduiding: een aanduiding die voldoet aan de norm EN 272 van 20 augustus 1989.    
+c. voelbare gevaarsaanduiding: een aanduiding die voldoet aan de norm EN 272 van 20 augustus 1989.   
 
 ### Artikel  2  
 
 1.  Het is verboden huishoudchemicaliën te verhandelen, indien de verpakking daarvan niet voldoet aan de in dit besluit gestelde eisen.   
-2.  Het is verboden huishoudchemicaliën te verhandelen anders dan met inachtneming van de voorschriften, bij dit besluit gesteld met betrekking tot hun aanduiding of het bezigen van vermeldingen of voorstellingen.   
-3.  Het is verboden huishoudchemicaliën te verhandelen, indien niet is voldaan aan artikel 6.   
+2.   Het is verboden huishoudchemicaliën te verhandelen anders dan met inachtneming van de voorschriften, bij dit besluit gesteld met betrekking tot hun aanduiding of het bezigen van vermeldingen of voorstellingen.   
+3.   Het is verboden huishoudchemicaliën te verhandelen, indien niet is voldaan aan artikel 6.  
 
 ### Artikel  3  
 
 1.  De verpakking van huishoudchemicaliën als bedoeld in artikel 1, onderdeel *a*, onder 1° tot en met 4° is voorzien van een kinderveilige sluiting.   
-2.  Het eerste lid is niet van toepassing op huishoudchemicaliën als bedoeld in artikel 1, onderdeel *a*, onder 2°, die worden verhandeld als aërosol als bedoeld in het Aërosolenbesluit (Warenwet).   
+2.   Het eerste lid is niet van toepassing op huishoudchemicaliën als bedoeld in artikel 1, onderdeel *a*, onder 2°, die worden verhandeld als aërosol als bedoeld in het Aërosolenbesluit (Warenwet).  
 
 ### Artikel  4  
 
-De verpakking van huishoudchemicaliën als bedoeld in artikel 1, onderdeel *a*, onder 1° en 5°, is voorzien van een voelbare gevaarsaanduiding.  
+De verpakking van huishoudchemicaliën als bedoeld in artikel 1, onderdeel *a*, onder 1° en 5°, is voorzien van een voelbare gevaarsaanduiding. 
 
 ### Artikel  5  
 
-De verpakking van huishoudchemicaliën als bedoeld in artikel 1, onderdeel *a*, onder 6°, mag 
+De verpakking van huishoudchemicaliën als bedoeld in artikel 1, onderdeel *a*, onder 6°, mag  
 
 - geen vorm hebben of afbeelding dragen die de actieve nieuwsgierigheid van kinderen kan wekken of prikkelen, of de gebruikers in verwarring kan brengen ten aanzien van de aard van het produkt;  
 
-- geen aanbiedingsvorm hebben of benaming dragen die wordt gebruikt voor levensmiddelen, diervoeders, geneesmiddelen of cosmetische produkten.    
+- geen aanbiedingsvorm hebben of benaming dragen die wordt gebruikt voor levensmiddelen, diervoeders, geneesmiddelen of cosmetische produkten.   
 
 ### Artikel  6  
 
-1.  Degene die huishoudchemicaliën waarvan de verpakking moet zijn voorzien van een kinderveilige sluiting, voor het eerst in de handel brengt, is in het bezit van een certificaat waaruit blijkt dat: 
+1.  Degene die huishoudchemicaliën waarvan de verpakking moet zijn voorzien van een kinderveilige sluiting, voor het eerst in de handel brengt, is in het bezit van een certificaat waaruit blijkt dat:  
 
 - de sluiting, aangebracht op de verpakking, voldoet aan de norm, bedoeld in artikel 1, onderdeel *b*;  
 
 - de toegepaste sluiting zodanig is, dat het niet noodzakelijk is de doeltreffendheid van de kinderveilige sluiting te onderzoeken volgens genoemde norm.     
-2.  Het eerste lid is niet van toepassing indien de verpakking slechts met behulp van een stuk gereedschap kan worden geopend.   
-3.  Een certificaat als bedoeld in het eerste lid moet zijn afgegeven door een instelling die voldoet aan de norm EN 45000-serie.   
+2.   Het eerste lid is niet van toepassing indien de verpakking slechts met behulp van een stuk gereedschap kan worden geopend.   
+3.   Een certificaat als bedoeld in het eerste lid moet zijn afgegeven door een instelling die voldoet aan de norm EN 45000-serie.  
 
 ### Artikel  7  
 
-Het Besluit kinderveilige verpakkingen huishoudchemicaliën (Warenwet) wordt ingetrokken.  
+Het Besluit kinderveilige verpakkingen huishoudchemicaliën (Warenwet) wordt ingetrokken. 
 
 ### Artikel  8  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
 ### Artikel  9  
 
-Dit besluit wordt aangehaald als: Warenwetbesluit veilige verpakking huishoudchemicaliën.  
+Dit besluit wordt aangehaald als: Warenwetbesluit veilige verpakking huishoudchemicaliën. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 
