@@ -1,31 +1,31 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van 22 september 1997, houdende aanwijzing risicolanden defensiepersoneel
+## Besluit van 22 september 1997, houdende aanwijzing risicolanden defensiepersoneel
 
-Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
+Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz. 
 
-Op de voordracht van de Staatssecretaris van Defensie van 15 september 1997, nr. P/97005659;
+Op de voordracht van de Staatssecretaris van Defensie van 15 september 1997, nr. P/97005659; 
 
-Gelet op [artikel 12 *e*, onder *a*, van de Militaire Ambtenarenwet 1931](../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) en [artikel 91 *a* van het Burgerlijk ambtenarenreglement defensie](../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md);
+Gelet op [artikel 12*e*, onder *a*, van de Militaire Ambtenarenwet 1931](../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) en [artikel 91*a* van het Burgerlijk ambtenarenreglement defensie](../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md);
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
 
 Als landen, bedoeld in [artikel 12e, onder a, van de Militaire Ambtenarenwet 1931](../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) en [artikel 91a, eerste lid, van het Burgerlijk ambtenarenreglement defensie](../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), worden aangewezen: 
 
-– Afghanistan;  
+–Afghanistan;
 
-– Irak;  
+–Irak;
 
-– Iran;  
+–Iran;
 
-– Noord-Korea;  
+–Noord-Korea;
 
-– Pakistan;  
+–Pakistan;
 
-– Turkmenistan;  
+–Turkmenistan;
 
-– Wit-Rusland.    
+–Wit-Rusland. 
 
 ### Artikel  2  
 
@@ -37,7 +37,7 @@ Het Besluit reisbeperkingen militairen wordt ingetrokken.
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de datum waarop [artikel 91 *a* van het Burgerlijk ambtenarenreglement defensie](../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md) in werking treedt.  
+Dit besluit treedt in werking met ingang van de datum waarop [artikel 91*a* van het Burgerlijk ambtenarenreglement defensie](../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md) in werking treedt.  
 
 ### Artikel  5  
 
@@ -46,13 +46,13 @@ Dit besluit wordt aangehaald als: Besluit aanwijzing risicolanden defensieperson
 Onze Minister van Defensie is belast met de uitvoering van dit besluit dat met de daarbij behorende toelichting in het *Staatsblad* zal worden geplaatst.   
 
 's-Gravenhage 
-22 september 1997  
-Beatrix  
+22 september 1997   
+Beatrix   
 
-De Staatssecretaris van Defensie, 
-J. C. Gmelich Meijling   
+De Staatssecretaris van Defensie,  
+J. C. Gmelich Meijling    
 
-de *veertiende* oktober 1997 
+de *veertiende* oktober 1997  
 
-De Minister van Justitie, 
-W. Sorgdrager    
+De Minister van Justitie,  
+W. Sorgdrager     
