@@ -16,13 +16,13 @@ In dit deelreglement wordt onder verstaan onder:
 
 *bestuur:*  stichting Stimuleringsfonds voor Architectuur, en  
 
-*Bijdragenreglement:*  [Bijdragenreglement Stimuleringsfonds voor Architectuur](../../../../../zbo/bijdragereglement/stimuleringsfonds/voor/architectuur/BWBR0025672/README.md).    
+*Bijdragenreglement:*  [Bijdragenreglement Stimuleringsfonds voor Architectuur](../../../../../zbo/bijdragereglement/stimuleringsfonds/voor/architectuur/BWBR0025672/README.md).   
 
 ### Artikel  2  
 
 ####Toepassing Bijdragenreglement
 
-Het [Bijdragenreglement](../../../../../zbo/bijdragereglement/stimuleringsfonds/voor/architectuur/BWBR0025672/README.md) is van toepassing op dit deelreglement, met uitzondering van de [artikelen 4, vierde lid, onderdelen a en b, en vijfde lid, onderdelen a en f van het Bijdragenreglement](../../../../../zbo/bijdragereglement/stimuleringsfonds/voor/architectuur/BWBR0025672/README.md).  
+Het [Bijdragenreglement](../../../../../zbo/bijdragereglement/stimuleringsfonds/voor/architectuur/BWBR0025672/README.md) is van toepassing op dit deelreglement, met uitzondering van de [artikelen 4, vierde lid, onderdelen a en b, en vijfde lid, onderdelen a en f van het Bijdragenreglement](../../../../../zbo/bijdragereglement/stimuleringsfonds/voor/architectuur/BWBR0025672/README.md). 
 
 ### Artikel  3  
 
@@ -35,7 +35,7 @@ a. projectsubsidie,
 b. programmasubsidie, of  
 
 c. startsubsidie.     
-2.  De bepalingen in het [Bijdragenreglement](../../../../../zbo/bijdragereglement/stimuleringsfonds/voor/architectuur/BWBR0025672/README.md) die betrekking hebben op projecten zijn van overeenkomstige toepassing op de verstrekking van programmasubsidies en startsubsidies op grond van dit deelreglement.   
+2.  De bepalingen in het [Bijdragenreglement](../../../../../zbo/bijdragereglement/stimuleringsfonds/voor/architectuur/BWBR0025672/README.md) die betrekking hebben op projecten zijn van overeenkomstige toepassing op de verstrekking van programmasubsidies en startsubsidies op grond van dit deelreglement.  
 
 ### Artikel  4  
 
@@ -87,7 +87,7 @@ i. stadsdebatten,
 j. publicaties, of  
 
 k. audiovisuele presentaties.     
-3.  Projectsubsidie wordt slechts verstrekt, voor zover het project voorbeeldstellend is en betrekking heeft op een actuele stedenbouwkundige opgave.   
+3.  Projectsubsidie wordt slechts verstrekt, voor zover het project voorbeeldstellend is en betrekking heeft op een actuele stedenbouwkundige opgave.  
 
 ### Artikel  5  
 
@@ -98,19 +98,19 @@ k. audiovisuele presentaties.
 a. die gericht zijn op een of meer van de doelen, bedoeld in artikel 4, eerste lid, onderdelen a tot en met d, en  
 
 b. waarbij ten minste een Nederlandse ontwerpopleiding en een opdrachtgevende partij betrokken zijn.     
-2.  Artikel 4, derde lid, is van overeenkomstige toepassing op programmasubsidies.   
+2.  Artikel 4, derde lid, is van overeenkomstige toepassing op programmasubsidies.  
 
 ### Artikel  6  
 
 ####Startsubsidie
 
-Startsubsidie wordt verstrekt voor het ontwikkelen van een uitgewerkt projectvoorstel dat als basis kan dienen voor een aanvraag voor een projectsubsidie of een aanvraag voor programmasubsidie.  
+Startsubsidie wordt verstrekt voor het ontwikkelen van een uitgewerkt projectvoorstel dat als basis kan dienen voor een aanvraag voor een projectsubsidie of een aanvraag voor programmasubsidie. 
 
 ### Artikel  7  
 
 ####Subsidieplafond
 
-Voor subsidieverstrekking op grond van dit reglement is een bedrag van € 1.600.000 beschikbaar.  
+Voor subsidieverstrekking op grond van dit reglement is een bedrag van € 1.600.000 beschikbaar. 
 
 ### Artikel  8  
 
@@ -120,7 +120,7 @@ Per subsidieontvanger wordt ten hoogste een bedrag verleend van:
 
 a. € 7.500 voor een startsubsidie voor het ontwikkelen van een uitgewerkt projectvoorstel dat als basis kan dienen voor een aanvraag voor een projectsubsidie, of  
 
-b. € 15.000 voor een startsubsidie voor het ontwikkelen van een uitgewerkt projectvoorstel dat als basis kan dienen voor een aanvraag voor een programmasubsidie.    
+b. € 15.000 voor een startsubsidie voor het ontwikkelen van een uitgewerkt projectvoorstel dat als basis kan dienen voor een aanvraag voor een programmasubsidie.   
 
 ### Artikel  9  
 
@@ -128,40 +128,40 @@ b. € 15.000 voor een startsubsidie voor het ontwikkelen van een uitgewerkt pro
 
 1.  Subsidie wordt op aanvraag verleend.   
 2.  Het bestuur stelt jaarlijks op de internetsite van het SfA ten minste drie termijnen vast waarbinnen subsidieaanvragen op grond van deze regeling kunnen worden ingediend.   
-3.  De subsidieaanvraag wordt ingediend op een door het bestuur vastgesteld formulier dat verkrijgbaar is via de website van de stichting Stimuleringsfonds voor Architectuur.   
+3.  De subsidieaanvraag wordt ingediend op een door het bestuur vastgesteld formulier dat verkrijgbaar is via de website van de stichting Stimuleringsfonds voor Architectuur.  
 
 ### Artikel  10  
 
 ####Criteria verdeling bij subsidieverlening
 
-Het bestuur voorziet in een gelijktijdige beslissing op aanvragen met betrekking tot soortgelijke projecten op basis van een vergelijking van hun geschiktheid om bij te dragen aan de doelstellingen van de subsidie.  
+Het bestuur voorziet in een gelijktijdige beslissing op aanvragen met betrekking tot soortgelijke projecten op basis van een vergelijking van hun geschiktheid om bij te dragen aan de doelstellingen van de subsidie. 
 
 ### Artikel  11  
 
 ####Advies voorafgaand aan subsidieverlening
 
-Het bestuur beslist over de subsidieverlening mede op basis van het advies van een door het bestuur in te stellen Adviescommissie Stedenbouw.  
+Het bestuur beslist over de subsidieverlening mede op basis van het advies van een door het bestuur in te stellen Adviescommissie Stedenbouw. 
 
 ### Artikel  12  
 
 ####Begrotingsvoorwaarde
 
 1.  Subsidie wordt verleend onder de voorwaarde dat voor de uitvoering van dit deelreglement voldoende middelen beschikbaar worden gesteld vanwege het Ministerie van Onderwijs, Cultuur en Wetenschap.   
-2.  In geval van het niet vervullen van de voorwaarde, bedoeld in het eerste lid, worden de op grond van artikel 3 verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de verstrekking van middelen vanwege het Ministerie van Onderwijs, Cultuur en Wetenschap ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen.   
+2.  In geval van het niet vervullen van de voorwaarde, bedoeld in het eerste lid, worden de op grond van artikel 3 verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de verstrekking van middelen vanwege het Ministerie van Onderwijs, Cultuur en Wetenschap ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen.  
 
 ### Artikel  13  
 
 ####Inwerkingtreding
 
-Dit deelreglement treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.  
+Dit deelreglement treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  14  
 
 ####Citeertitel
 
-Dit deelreglement wordt aangehaald als: Deelreglement stedenbouw SfA.  
+Dit deelreglement wordt aangehaald als: Deelreglement stedenbouw SfA. 
 Dit deelreglement zal met de toelichting in de Staatscourant worden geplaatst.  
 
-Het bestuur van de stichting Stimuleringsfonds voor Architectuur, namens deze: 
+Het bestuur van de stichting Stimuleringsfonds voor Architectuur,namens deze: 
 M.A.A. Schoenmakers,  
-voorzitter.    
+voorzitter.   
