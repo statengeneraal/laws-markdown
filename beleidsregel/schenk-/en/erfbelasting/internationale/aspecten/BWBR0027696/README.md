@@ -2,7 +2,7 @@
 
 ##Schenk- en erfbelasting, internationale aspecten
 
-De Minister van Financiën heeft het volgende besloten.    I *n dit besluit zijn de besluiten van*[7 december 2005](../../../../../../../beleidsregel/successiewet/1956/toepassing/van/het/besluit/voorkoming/van/dubbele/etc/BWBR0019182/README.md)*, nr. CPP2005/1649M en*[21 december 2005](../../../../../../../beleidsregel/successiewet/1956;/fictieve/inwoners/aanvang/10-jaarsperiode/peildatum/etc/BWBR0019370/README.md), *nr. CPP2005/2546M, samengevoegd. De besluiten zijn geactualiseerd en redactioneel aangepast aan de wijzigingen (in de terminologie) per 1 januari 2010 van de*[Successiewet](../../../../../../../wet/successiewet/1956/BWBR0002226/README.md). *Deze redactionele aanpassingen leiden niet tot een inhoudelijke wijziging.*   
+De Minister van Financiën heeft het volgende besloten.     I*n dit besluit zijn de besluiten van *[7 december 2005](../../../../../../../beleidsregel/successiewet/1956/toepassing/van/het/besluit/voorkoming/van/dubbele/etc/BWBR0019182/README.md)*, nr. CPP2005/1649M en *[21 december 2005](../../../../../../../beleidsregel/successiewet/1956;/fictieve/inwoners/aanvang/10-jaarsperiode/peildatum/etc/BWBR0019370/README.md), *nr. CPP2005/2546M, samengevoegd. De besluiten zijn geactualiseerd en redactioneel aangepast aan de wijzigingen (in de terminologie) per 1 januari 2010 van de *[Successiewet](../../../../../../../wet/successiewet/1956/BWBR0002226/README.md). *Deze redactionele aanpassingen leiden niet tot een inhoudelijke wijziging. *   
 ### 1  
 
 ####Inleiding
@@ -26,7 +26,7 @@ In dit besluit is het beleid opgenomen over:
 
 *successiebelasting:* Door een andere Mogendheid geheven belasting bij overlijden die gelijksoortig is aan de erfbelasting  
 
-*Successiewet:* [Successiewet 1956](../../../../../../../wet/successiewet/1956/BWBR0002226/README.md)        
+*Successiewet:* [Successiewet 1956](../../../../../../../wet/successiewet/1956/BWBR0002226/README.md)       
 ### 2  
 
 ####Toerekening successie- en schenkingsbelasting
@@ -126,5 +126,5 @@ Den Haag
 25 mei 2010   
 
 De 
-Minister van Financiën,
-J.C. deJager   
+Minister van Financiën, 
+J.C. de Jager     
