@@ -15,7 +15,7 @@ In dit besluit is het beleid opgenomen over de waardering op grond van [artikel 
 | --- | --- |
 |:---|:---|
 | OBV  | Ouderlijke boedelverdeling als bedoeld in [artikel 4:1167 BW](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) (oud)  |
-| Successiewet  |  [Successiewet 1956](../../../../../../wet/successiewet/1956/BWBR0002226/README.md)   |
+| Successiewet  | [Successiewet 1956](../../../../../../wet/successiewet/1956/BWBR0002226/README.md)  |
 | Uitvoeringsbesluit  | Successiewet [Uitvoeringsbesluit Successiewet 1956](../../../../../../AMvB/uitvoeringsbesluit/successiewet/1956/BWBR0002227/README.md)  |
 
 ### 2  
@@ -81,5 +81,5 @@ Den Haag
 10 juni 2010   
 
 De 
-Minister van Financiën,
-J.C. deJager   
+Minister van Financiën, 
+J.C. de Jager     

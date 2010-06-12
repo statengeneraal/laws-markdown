@@ -33,5 +33,5 @@ Den Haag
 10 juni 2010   
 
 De 
-Minister van Financiën,
-J.C. deJager   
+Minister van Financiën, 
+J.C. de Jager     

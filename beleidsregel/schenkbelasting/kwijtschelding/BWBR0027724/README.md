@@ -14,7 +14,7 @@ In dit besluit is het beleid opgenomen over kwijtschelding als bedoeld in [artik
 
 | --- | --- |
 |:---|:---|
-| Successiewet  |  [Successiewet 1956](../../../../wet/successiewet/1956/BWBR0002226/README.md)   |
+| Successiewet  | [Successiewet 1956](../../../../wet/successiewet/1956/BWBR0002226/README.md)  |
 | ANBI  | Algemeen nut beogende instelling als bedoeld in [artikel 6.33, onderdeel b, en tweede lid, van de Wet IB 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)  |
 
 ### 2  
@@ -87,5 +87,5 @@ Den Haag
 10 juni 2010   
 
 De 
-Minister van Financiën,
-J.C. deJager   
+Minister van Financiën, 
+J.C. de Jager     
