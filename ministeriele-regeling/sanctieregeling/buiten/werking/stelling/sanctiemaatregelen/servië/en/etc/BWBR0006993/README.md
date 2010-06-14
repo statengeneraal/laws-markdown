@@ -13,32 +13,36 @@ Gelet op [artikel 7 van de Sanctiewet 1977](../../../../../../../../../../wet/sa
 Besluiten:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 02-04-1996 
 
-De artikelen 7, eerste lid en artikel 8 van het Besluit van 28 januari 1993, houdende regels inzake de handel, het niet-financiële dienstverkeer en de luchtvaart met Servië en Montenegro (Sanctiebesluit Servië en Montenegro 1992, Stb. 1993, 64), worden buiten werking gesteld voor zover het de burgerluchtvaart van en naar Belgrado betreft, uitsluitend bestemd voor het vervoer van personen en aan deze personen toebehorende persoonlijke bagage.  
+De artikelen 7, eerste lid en artikel 8 van het Besluit van 28 januari 1993, houdende regels inzake de handel, het niet-financiële dienstverkeer en de luchtvaart met Servië en Montenegro (Sanctiebesluit Servië en Montenegro 1992, Stb. 1993, 64), worden buiten werking gesteld voor zover het de burgerluchtvaart van en naar Belgrado betreft, uitsluitend bestemd voor het vervoer van personen en aan deze personen toebehorende persoonlijke bagage. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 02-04-1996 
 
-Artikel 6a van het Besluit van 28 januari 1993, houdende regels inzake de handel het niet-financiële dienstverkeer en de luchtvaart met Servië en Montenegro (Sanctiebesluit Servië en Montenegro 1992), wordt buiten werking gesteld voor zover het betreft veerdiensten tussen Bar in de ‘Federale Republiek Joegoslavië’ (Servië en Montenegro) en Bari in Italië die uitsluitend personen vervoeren en aan deze personen toebehorende persoonlijke bagage.  
+Artikel 6a van het Besluit van 28 januari 1993, houdende regels inzake de handel het niet-financiële dienstverkeer en de luchtvaart met Servië en Montenegro (Sanctiebesluit Servië en Montenegro 1992), wordt buiten werking gesteld voor zover het betreft veerdiensten tussen Bar in de ‘Federale Republiek Joegoslavië’ (Servië en Montenegro) en Bari in Italië die uitsluitend personen vervoeren en aan deze personen toebehorende persoonlijke bagage. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 02-04-1996 
 
-Deze regeling kan worden aangehaald als Sanctieregeling buiten werking stelling sanctiemaatregelen Servië en Montenegro 1994.  
+Deze regeling kan worden aangehaald als Sanctieregeling buiten werking stelling sanctiemaatregelen Servië en Montenegro 1994. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 02-04-1996 
 
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. Deze regeling zal met toelichting worden geplaatst in de Staatscourant.  
+Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. Deze regeling zal met toelichting worden geplaatst in de Staatscourant. 
 
 's-Gravenhage 
 31 oktober 1994    
 
 De 
 Minister van Buitenlandse Zaken, 
-H.A.F.M.O. vanMierlo; 
+H.A.F.M.O. vanMierlo  ;  
 
 De 
 Minister van Verkeer en Waterstaat, 
-A.Jorritsma-Lebbink; 
+A.Jorritsma-Lebbink ;  
 
 De 
 Staatssecretaris van Economische Zaken, 
-A. vanDok-Van Weele    
+A. van Dok-Van Weele      
