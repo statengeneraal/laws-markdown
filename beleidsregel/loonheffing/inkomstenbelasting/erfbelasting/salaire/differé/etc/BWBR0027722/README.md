@@ -20,7 +20,7 @@ In [artikel 4:36 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerl
 
 *loonheffingen:* loonheffing, premies werknemersverzekeringen en de inkomensafhankelijke bijdrage [Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md)  
 
-*Successiewet:* [Successiewet 1956](../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md)        
+*Successiewet:* [Successiewet 1956](../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md)       
 ### 2  
 
 ####Het salaire differé en vergelijkbare beloningen voor werkzaamheden die zijn verricht voor de erflater
@@ -98,5 +98,5 @@ Den Haag
 10 juni 2010   
 
 De 
-Minister van Financiën,
-J.C. deJager   
+Minister van Financiën, 
+J.C. de Jager     
