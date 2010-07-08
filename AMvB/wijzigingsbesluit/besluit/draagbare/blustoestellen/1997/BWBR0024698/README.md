@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit draagbare blustoestellen 1997.   
+Wijzigt het Besluit draagbare blustoestellen 1997. 
 
 ### Artikel  II  
 
-De bewijzen die zijn afgegeven voor de datum van inwerkingtreding van dit besluit blijven geldig gedurende de termijn waarvoor zij zijn verleend.  
+De bewijzen die zijn afgegeven voor de datum van inwerkingtreding van dit besluit blijven geldig gedurende de termijn waarvoor zij zijn verleend. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
