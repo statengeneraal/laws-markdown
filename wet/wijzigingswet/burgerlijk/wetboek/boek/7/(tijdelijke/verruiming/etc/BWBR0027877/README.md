@@ -11,21 +11,21 @@ Zo is het dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-G
 
 ### Artikel  I  
 
-Wijzigt het Burgerlijk Wetboek Boek 7.   
+Wijzigt het Burgerlijk Wetboek Boek 7. 
 
 ### Artikel  II  
 
-[Lid 6 van artikel 668a van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet van toepassing op werknemers van wie de arbeidsovereenkomst op het tijdstip van inwerkingtreding van deze wet voldoet aan de voorwaarden, bedoeld in artikel 668a lid 1 en lid 3.  
+[Lid 6 van artikel 668a van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet van toepassing op werknemers van wie de arbeidsovereenkomst op het tijdstip van inwerkingtreding van deze wet voldoet aan de voorwaarden, bedoeld in artikel 668a lid 1 en lid 3. 
 
 ### Artikel  III  
 
-Wijzigt het Burgerlijk Wetboek Boek 7.   
+Wijzigt het Burgerlijk Wetboek Boek 7. 
 
 ### Artikel  IV  
 
-De artikelen van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst.  
+De artikelen van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 30 juni 2010  
