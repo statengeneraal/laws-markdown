@@ -14,21 +14,21 @@ De specifieke uitkering als bedoeld in [artikel 4 van het Besluit vaststelling d
 
 a. de aantoonbare verhoging van het bereik van het aantal kinderen dat voorschoolse educatie nodig heeft;  
 
-b. de aantoonbare verhoging van de kwaliteit van voorschoolse educatie.    
+b. de aantoonbare verhoging van de kwaliteit van voorschoolse educatie.   
 
 ### Artikel  2  
 
 ####Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van 1 januari 2009.  
+Deze beleidsregel treedt in werking met ingang van 1 januari 2009. 
 
 ### Artikel  3  
 
 ####Citeertitel
 
-Deze beleidsregel wordt aangehaald als: Uitleg bestedingsmogelijkheid specifieke uitkering aan gemeenten Besluit OAB.  
+Deze beleidsregel wordt aangehaald als: Uitleg bestedingsmogelijkheid specifieke uitkering aan gemeenten Besluit OAB. 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-S.A.M.Dijksma   
+S.A.M. Dijksma     
