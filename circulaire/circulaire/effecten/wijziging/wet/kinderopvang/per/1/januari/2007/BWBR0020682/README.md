@@ -44,7 +44,7 @@ Onderstaand treft u andere effecten aan die door de wijziging van de [Wet kinder
 
 – De Belastingdienst/Toeslagen betaalt de nieuwe kinderopvangtoeslag uit als een extra toeslag op de bestaande (inkomensafhankelijke) toeslag. Deze extra toeslag bedraagt voor aanvragers met een werkende partner 1/3 van de kosten van kinderopvang. Voor aanvragers zonder partner is de toeslag 1/6 van de kosten, aangevuld met de toeslag voor alleenstaande ouders tot 1/3 van de kosten.  
 
-– Voor werkgevers vervallen alle administratieve handelingen voor de verstrekking van de huidige werkgeversbijdrage. <sup> 1  Denk daarbij aan de vaststelling van het recht op en de hoogte van de werkgeversbijdrage en de verwerking daarvan in de loonadministratie.  </sup>  
+– Voor werkgevers vervallen alle administratieve handelingen<sup>1Denk daarbij aan de vaststelling van het recht op en de hoogte van de werkgeversbijdrage en de verwerking daarvan in de loonadministratie.</sup> voor de verstrekking van de huidige werkgeversbijdrage.  
 
 – Voor werknemers vervallen alle administratieve handelingen voor het verkrijgen van een bijdrage van de werkgever.  
 
@@ -55,9 +55,9 @@ Onderstaand treft u andere effecten aan die door de wijziging van de [Wet kinder
 – Het artikel in de [wet op de loonbelasting](../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), waarin vergoedingen van kosten van kinderopvang als vrije vergoeding werden aangemerkt komt te vervallen. Vergoedingen van de werkgever zijn dus vanaf 1 januari 2007 belast.        Ik hoop u met deze informatie van dienst te zijn.  
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze:de 
 directeur-generaal Management Openbare Sector, 
-R.IJ.M.Kuipers  
+R.IJ.M. Kuipers    
 
 ### Bijlage  1  
 
