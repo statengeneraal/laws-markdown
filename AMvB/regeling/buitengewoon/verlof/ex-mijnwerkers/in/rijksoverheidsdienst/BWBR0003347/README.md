@@ -15,31 +15,31 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Dit besluit verstaat onder: 
+Dit besluit verstaat onder:  
 
-a. *betrokkene:* degene die krachtens aanstelling of op arbeidsovereenkomst naar burgerlijk recht in dienst is van het Rijk of een zijner diensten, bedrijven of instellingen en die door middel van een schriftelijke verklaring van de Stichting Beheer Pensioenfondsen "A.Z.L.", te Heerlen, kan aantonen dat hij aanspraak kan maken op uitkering krachtens de Regeling vervroegde uittreding ex-mijnwerkers;  
+a.  *betrokkene:* degene die krachtens aanstelling of op arbeidsovereenkomst naar burgerlijk recht in dienst is van het Rijk of een zijner diensten, bedrijven of instellingen en die door middel van een schriftelijke verklaring van de Stichting Beheer Pensioenfondsen "A.Z.L.", te Heerlen, kan aantonen dat hij aanspraak kan maken op uitkering krachtens de Regeling vervroegde uittreding ex-mijnwerkers;  
 
 b. het bevoegd gezag: het gezag dat bevoegd is tot het verlenen van ontslag aan een betrokkene;  
 
-c. Regeling vervroegde uittreding ex-mijnwerkers: het besluit van de Minister van Sociale Zaken van 20 juni 1979, nr. 53041 *(Stcrt.* nr. 120).    
+c. Regeling vervroegde uittreding ex-mijnwerkers: het besluit van de Minister van Sociale Zaken van 20 juni 1979, nr. 53041 *(Stcrt.* nr. 120).   
 
 ### Artikel  2  
 
 1.  Het bevoegd gezag verleent aan de betrokkene op aanvraag verzoek buitengewoon verlof zonder behoud van bezoldiging.   
-2.  Het buitengewoon verlof wordt verleend voor de periode dat de betrokkene recht op uitkering heeft krachtens de Regeling vervroegde uittreding ex-mijnwerkers, met dien verstande dat het bevoegd gezag de betrokkene ontslag verleent, onderscheidenlijk het dienstverband met de betrokkene beëindigt met ingang van de datum waarop het recht op uitkering eindigt.   
-3.  Onverminderd het tweede lid kan het buitengewoon verlof niet tussentijds worden beëindigd.   
+2.   Het buitengewoon verlof wordt verleend voor de periode dat de betrokkene recht op uitkering heeft krachtens de Regeling vervroegde uittreding ex-mijnwerkers, met dien verstande dat het bevoegd gezag de betrokkene ontslag verleent, onderscheidenlijk het dienstverband met de betrokkene beëindigt met ingang van de datum waarop het recht op uitkering eindigt.   
+3.   Onverminderd het tweede lid kan het buitengewoon verlof niet tussentijds worden beëindigd.  
 
 ### Artikel  3  
 
-Onze Minister van Binnenlandse Zaken kan na overleg met Onze Minister van Sociale Zaken voor de uitvoering van dit besluit nadere voorschriften geven.  
+Onze Minister van Binnenlandse Zaken kan na overleg met Onze Minister van Sociale Zaken voor de uitvoering van dit besluit nadere voorschriften geven. 
 
 ### Artikel  4  
 
-Dit besluit kan worden aangehaald als "Regeling buitengewoon verlof ex-mijnwerkers in rijksoverheidsdienst".  
+Dit besluit kan worden aangehaald als "Regeling buitengewoon verlof ex-mijnwerkers in rijksoverheidsdienst". 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.   
 

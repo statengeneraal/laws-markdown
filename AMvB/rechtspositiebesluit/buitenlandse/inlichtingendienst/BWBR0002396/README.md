@@ -15,20 +15,20 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder "ambtenaar": ieder, die ingevolge het bepaalde in [artikel 1 van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) ambtenaar is en te werk is gesteld bij de Buitenlandse Inlichtingendienst.  
+In dit besluit wordt verstaan onder "ambtenaar": ieder, die ingevolge het bepaalde in [artikel 1 van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) ambtenaar is en te werk is gesteld bij de Buitenlandse Inlichtingendienst. 
 
 ### Artikel  2  
 
 1.  In afwijking van het bepaalde in [artikel 6, eerste lid van het Rijkswachtgeldbesluit 1959](../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md) is de duur van het wachtgeld voor de ambtenaar, aan wie krachtens [artikel 96, eerste lid van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) ontslag is verleend, gelijk aan de diensttijd in de zin van het [Rijkswachtgeldbesluit 1959](../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md).   
-2.  Onze Minister van Algemene Zaken kan na overleg met zijn ambtgenoot van Binnenlandse Zaken ten aanzien van ambtenaren of groepen van ambtenaren het bepaalde in het eerste lid buiten toepassing verklaren.   
+2.   Onze Minister van Algemene Zaken kan na overleg met zijn ambtgenoot van Binnenlandse Zaken ten aanzien van ambtenaren of groepen van ambtenaren het bepaalde in het eerste lid buiten toepassing verklaren.  
 
 ### Artikel  3  
 
-Dit besluit kan worden aangehaald als "Rechtspositiebesluit Buitenlandse Inlichtingendienst".  
+Dit besluit kan worden aangehaald als "Rechtspositiebesluit Buitenlandse Inlichtingendienst". 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de dag na die van de dagtekening van het *Staatsblad* waarin het is geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na die van de dagtekening van het *Staatsblad* waarin het is geplaatst. 
 
 Onze Ministers van Algemene Zaken en van Binnenlandse Zaken zijn, ieder voor zoveel hem aangaat, belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan een afschrift zal worden gezonden aan de Raad van State.   
 
