@@ -8,22 +8,22 @@ Gelet op [artikel 2 van de Verordening bestrijding infectieuze coryza en Salmone
 Gehoord het advies van de Adviescommissie pluimveegezondheidszorg,
 Besluit:    
 
-### Artikel  1  
+###Artikel 1 
 
-In het gebied aangegeven op de kaart in de Bijlage is op 30 juli 2010 de aanwezigheid van Salmonella Gallinarum vastgesteld.  
+In het gebied aangegeven op de kaart in de Bijlage is op 30 juli 2010 de aanwezigheid van Salmonella Gallinarum vastgesteld. 
 
-### Artikel  2  
+###Artikel 2 
 
-1.  Dit besluit wordt aangehaald als: Besluit vijfde gebiedsvaststelling bestrijding Salmonella Gallinarum bij pluimvee (PPE) 2010.   
-2.  Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking met ingang van de dag na publicatie.   
+1. Dit besluit wordt aangehaald als: Besluit vijfde gebiedsvaststelling bestrijding Salmonella Gallinarum bij pluimvee (PPE) 2010. 
+2. Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking met ingang van de dag na publicatie.
 
 Zoetermeer 
 30 juli 2010   
 
 B.J. Krouwel  
-voorzitter   
+voorzitter  
 
-### Bijlage  
+###Bijlage 
 
 ####bij het Besluit vijfde gebiedsvaststelling bestrijding Salmonella Gallinarum bij pluimvee (PPE) 2010
 
