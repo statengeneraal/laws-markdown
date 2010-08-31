@@ -19,31 +19,31 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder de ambtenaar: de ambtenaar, bedoeld in [artikel 1 van het Algemeen Rijksambtenarenreglement](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), die is aangesteld bij de Algemene Inlichtingen- en Veiligheidsdienst.  
+In dit besluit wordt verstaan onder de ambtenaar: de ambtenaar, bedoeld in [artikel 1 van het Algemeen Rijksambtenarenreglement](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), die is aangesteld bij de Algemene Inlichtingen- en Veiligheidsdienst. 
 
 ####Bezoldiging
 
 ### Artikel  2  
 
-De bezoldiging van het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst wordt vastgesteld bij Koninklijk besluit.  
+De bezoldiging van het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst wordt vastgesteld bij Koninklijk besluit. 
 
 ####Wachtgeld
 
 ### Artikel  4  
 
-In afwijking van het bepaalde in [artikel 6, eerste lid, van het Rijkswachtgeldbesluit 1959](../../../../../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md) (*Stb.* 1959, 319), is de duur van het wachtgeld voor de ambtenaar, aan wie krachtens [artikel 96, eerste lid, van het Algemeen rijksambtenarenreglement](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) ontslag is verleend, gelijk aan de diensttijd in de zin van het [Rijkswachtgeldbesluit 1959](../../../../../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md).  
+In afwijking van het bepaalde in [artikel 6, eerste lid, van het Rijkswachtgeldbesluit 1959](../../../../../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md) (*Stb.* 1959, 319), is de duur van het wachtgeld voor de ambtenaar, aan wie krachtens [artikel 96, eerste lid, van het Algemeen rijksambtenarenreglement](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) ontslag is verleend, gelijk aan de diensttijd in de zin van het [Rijkswachtgeldbesluit 1959](../../../../../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md). 
 
 ####Intrekking bestaand besluit
 
 ### Artikel  12  
 
-Het Rechtspositiebesluit Binnenlandse Veiligheidsdienst (*Stb.* 1955, 34) wordt ingetrokken.  
+Het Rechtspositiebesluit Binnenlandse Veiligheidsdienst (*Stb.* 1955, 34) wordt ingetrokken. 
 
 ####Inwerkingtreding
 
 ### Artikel  13  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt voor wat betreft de artikelen 5 tot en met 11 terug tot en met 24 augustus 1984.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt voor wat betreft de artikelen 5 tot en met 11 terug tot en met 24 augustus 1984. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.   
 

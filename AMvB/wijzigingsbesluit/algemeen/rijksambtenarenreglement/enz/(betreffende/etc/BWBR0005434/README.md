@@ -15,26 +15,26 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-De toepassing van [artikel 23, achtste lid, van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), van artikel 22, achtste lid, van het Arbeidsovereenkomstenbesluit en van [artikel 36, achtste lid, van het Ambtenarenreglement Staten-Generaal](../../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) vindt ten aanzien van op 31 december 1991 nog niet genoten vakantie eerst plaats met ingang van 31 december 1994, welke datum in bijzondere individuele gevallen door het bevoegde gezag op een latere datum kan worden gesteld.  
+De toepassing van [artikel 23, achtste lid, van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), van artikel 22, achtste lid, van het Arbeidsovereenkomstenbesluit en van [artikel 36, achtste lid, van het Ambtenarenreglement Staten-Generaal](../../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) vindt ten aanzien van op 31 december 1991 nog niet genoten vakantie eerst plaats met ingang van 31 december 1994, welke datum in bijzondere individuele gevallen door het bevoegde gezag op een latere datum kan worden gesteld. 
 
 ### Artikel  V  
 
 1.  Dit besluit treedt voor wat betreft artikel I, onderdeel D, artikel II, onderdeel D en artikel III, onderdeel D in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 oktober 1991.   
-2.  In afwijking van het eerste lid vindt ten aanzien van de gevallen waarin voor de inwerkingtreding van dit besluit een verlofperiode is aangevangen volgens de regelen van artikel 33 *g,* derde lid, van het [Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), 30 *i*, derde lid, van het Arbeidsovereenkomstenbesluit en 62 *a*, derde lid, van het [Ambtenarenreglement Staten-Generaal](../../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) geen terugwerkende kracht plaats.   
-3.  Dit besluit treedt voor wat betreft artikel I onderdelen A, C en E, artikel II onderdelen A, C en E en artikel III onderdelen A, C en E in werking met ingang van 1 januari 1992. Indien het *Staatsblad* waarin dit besluit wordt geplaatst, wordt uitgegeven na 1 januari 1992, treedt het in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 1992.   
-4.  Dit besluit treedt voor wat betreft artikel I onderdeel B, artikel II onderdeel B en artikel III onderdeel B in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.   
+2.   In afwijking van het eerste lid vindt ten aanzien van de gevallen waarin voor de inwerkingtreding van dit besluit een verlofperiode is aangevangen volgens de regelen van artikel 33*g,* derde lid, van het [Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), 30*i*, derde lid, van het Arbeidsovereenkomstenbesluit en 62*a*, derde lid, van het [Ambtenarenreglement Staten-Generaal](../../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) geen terugwerkende kracht plaats.   
+3.   Dit besluit treedt voor wat betreft artikel I onderdelen A, C en E, artikel II onderdelen A, C en E en artikel III onderdelen A, C en E in werking met ingang van 1 januari 1992. Indien het *Staatsblad* waarin dit besluit wordt geplaatst, wordt uitgegeven na 1 januari 1992, treedt het in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 1992.   
+4.   Dit besluit treedt voor wat betreft artikel I onderdeel B, artikel II onderdeel B en artikel III onderdeel B in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat afschrift daarvan zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.   
 

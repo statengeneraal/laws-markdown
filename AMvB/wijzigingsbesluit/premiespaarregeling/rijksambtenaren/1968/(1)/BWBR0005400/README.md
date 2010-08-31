@@ -14,17 +14,20 @@ Gezien het nader rapport van onze Minister van Binnenlandse Zaken van 17 januari
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-03-2001 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-03-2001 
 
 1.  De in artikel I bedoelde ambtenaar die voor de datum van inwerkingtreding van dit besluit op zijn bijzondere spaarrekening in de zin van artikel 4 van de Premiespaarregeling Rijksambtenaren 1968 een op zijn bezoldiging ingehouden bedrag had uitstaan komt in aanmerking voor de toekenning van een spaarpremie over dat bedrag met overeenkomstige toepassing van die regeling.   
-2.  De in artikel I bedoelde ambtenaar die voor de inwerkingtreding van dit besluit betalingen heeft verricht in de zin van artikel 5 van de Premiespaarregeling Rijksambtenaren 1968 komt in aanmerking voor de toekenning van een premie met overeenkomstige toepassing van die regeling, met dien verstande dat voor de over de maand januari 1992 in de zin van artikel 5 van de Premiespaarregeling Rijksambtenaren 1968 verrichte betalingen vóór 1 oktober 1993 een verzoek in de zin van artikel 12, tweede lid, van die regeling moet zijn ingediend.   
+2.   De in artikel I bedoelde ambtenaar die voor de inwerkingtreding van dit besluit betalingen heeft verricht in de zin van artikel 5 van de Premiespaarregeling Rijksambtenaren 1968 komt in aanmerking voor de toekenning van een premie met overeenkomstige toepassing van die regeling, met dien verstande dat voor de over de maand januari 1992 in de zin van artikel 5 van de Premiespaarregeling Rijksambtenaren 1968 verrichte betalingen vóór 1 oktober 1993 een verzoek in de zin van artikel 12, tweede lid, van die regeling moet zijn ingediend.  
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-03-2001 
 
-Dit besluit treedt in werking op 1 februari 1992.  
+Dit besluit treedt in werking op 1 februari 1992. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat afschrift ervan zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.   
 

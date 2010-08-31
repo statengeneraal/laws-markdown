@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit aanvullende regels rechtspositie ambtenaren bij de Binnenlandse Veiligheidsdienst.   
+Wijzigt het Besluit aanvullende regels rechtspositie ambtenaren bij de Binnenlandse Veiligheidsdienst.  
 
 ### Artikel  II  
 
@@ -23,7 +23,7 @@ Voor de ambtenaar wiens salarisschaal is vastgesteld met toepassing van [artikel
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van eerste dag van de tweede kalendermaand na plaatsing van dit besluit in het Staatsblad.  
+Dit besluit treedt in werking met ingang van eerste dag van de tweede kalendermaand na plaatsing van dit besluit in het Staatsblad. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -37,4 +37,4 @@ K. G. de Vries
 de *eenendertigste* augustus 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

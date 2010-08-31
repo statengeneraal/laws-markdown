@@ -14,19 +14,22 @@ Gezien het nader rapport van de Staatssecretaris van Defensie van 29 augustus 19
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-03-2001 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-03-2001 
 
 1.  De militaire ambtenaar, bedoeld in [artikel 1, eerste lid, van de Militaire Ambtenarenwet 1931](../../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) die vóór 1 januari 1994 op zijn bijzondere spaarrekening in de zin van artikel 4 van de Premiespaarregeling Rijksambtenaren 1968 een op zijn bezoldiging ingehouden bedrag had uitstaan, komt in aanmerking voor de toekenning van een spaarpremie over dat bedrag met overeenkomstige toepassing van die regeling.   
-2.  De militaire ambtenaar, bedoeld in [artikel 1, eerste lid, van de Militaire Ambtenarenwet 1931](../../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) die vóór 1 januari 1994 betalingen heeft verricht in de zin van artikel 5 van de Premiespaarregeling Rijksambtenaren 1968 komt in aanmerking voor de toekenning van een premie met overeenkomstige toepassing van die regeling.   
+2.   De militaire ambtenaar, bedoeld in [artikel 1, eerste lid, van de Militaire Ambtenarenwet 1931](../../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) die vóór 1 januari 1994 betalingen heeft verricht in de zin van artikel 5 van de Premiespaarregeling Rijksambtenaren 1968 komt in aanmerking voor de toekenning van een premie met overeenkomstige toepassing van die regeling.  
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-03-2001 
 
 1.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.   
-2.  Artikel I, onder B, werkt terug tot en met 1 april 1993.   
-3.  Artikel I, onder A, werkt terug tot en met 1 januari 1994.   
+2.   Artikel I, onder B, werkt terug tot en met 1 april 1993.   
+3.   Artikel I, onder A, werkt terug tot en met 1 januari 1994.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

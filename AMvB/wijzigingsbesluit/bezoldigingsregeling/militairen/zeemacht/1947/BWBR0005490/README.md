@@ -15,37 +15,37 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  V  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VI  
 
 ####Overgangsmaatregel
 
-Aan de militair die op 30 april 1992 aanspraak had op bezoldiging volgens de schaal dan wel weddegenietend was, wordt op 1 mei 1992 een diensttijd toegekend, overeenkomend met: 
+Aan de militair die op 30 april 1992 aanspraak had op bezoldiging volgens de schaal dan wel weddegenietend was, wordt op 1 mei 1992 een diensttijd toegekend, overeenkomend met:  
 
 1. indien hij jonger is dan 22 jaar: zijn leeftijd en de letter J;  
 
-2. indien hij 22 jaar of ouder is: zijn diensttijd geldende voor bezoldiging of voor wedde per 30 april 1992, vermeerderd met één dag.    
+2. indien hij 22 jaar of ouder is: zijn diensttijd geldende voor bezoldiging of voor wedde per 30 april 1992, vermeerderd met één dag.   
 
 ### Artikel  VII  
 
-Dit besluit treedt in werking met ingang van 1 mei 1992. Indien het *Staatsblad* waarin dit besluit wordt geplaatst wordt uitgegeven na 30 april 1992 treedt dit besluit in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt het terug tot en met 1 mei 1992.  
+Dit besluit treedt in werking met ingang van 1 mei 1992. Indien het *Staatsblad* waarin dit besluit wordt geplaatst wordt uitgegeven na 30 april 1992 treedt dit besluit in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt het terug tot en met 1 mei 1992. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.   
 

@@ -11,20 +11,23 @@ Gelet op artikel 20, tweede lid, van de Wet op het basisonderwijs; artikel 28, t
 De Raad van State gehoord (advies van 9 januari 1995, nr. W05.94.0708);
 
 Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschappen, uitgebracht mede namens Onze Minister van Landbouw, Natuurbeheer en Visserij, van 15 maart 1995, nr. 95000665, directie Arbeidsvoorwaarden en Beroepskwaliteit;
-Hebben goedgevonden en verstaan:    
+Hebben goedgevonden en verstaan:  
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-03-2001 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-03-2001 
 
 1.  De in artikel I, onder a, bedoelde persoon die voor de datum van inwerkingtreding van dit besluit op zijn bijzondere spaarrekening in de zin van artikel 4 van de premiespaarregeling Rijksambtenaren 1968 een op zijn bezoldiging ingehouden bedrag had uitstaan, komt in aanmerking voor de toekenning van een premie met overeenkomstige toepassing van die regeling.   
-2.  De in artikel I, onder a, bedoelde persoon die voor de inwerkingtreding van dit besluit betalingen heeft verricht als bedoeld in artikel 5 van de Premiespaarregeling Rijksambtenaren 1968 komt in aanmerking voor de toekenning van een premie met overeenkomstige toepassing van die regeling, met dien verstande dat voor de over de maand december 1994 in de zin van artikel 5 van de Premiespaarregeling Rijksambtenaren 1968 verrichte betalingen vóór 1 april 1995 een aanvraag als bedoeld in artikel 12, tweede lid, van die regeling wordt ingediend.   
+2.   De in artikel I, onder a, bedoelde persoon die voor de inwerkingtreding van dit besluit betalingen heeft verricht als bedoeld in artikel 5 van de Premiespaarregeling Rijksambtenaren 1968 komt in aanmerking voor de toekenning van een premie met overeenkomstige toepassing van die regeling, met dien verstande dat voor de over de maand december 1994 in de zin van artikel 5 van de Premiespaarregeling Rijksambtenaren 1968 verrichte betalingen vóór 1 april 1995 een aanvraag als bedoeld in artikel 12, tweede lid, van die regeling wordt ingediend.  
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-03-2001 
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 januari 1995.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 januari 1995. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

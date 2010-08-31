@@ -15,27 +15,27 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-Van het bepaalde in het derde lid van [artikel 21 van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), het derde lid van artikel 20 van het Arbeidsovereenkomstenbesluit en het derde lid van [artikel 34 van het Ambtenarenreglement Staten-Generaal](../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) kan tot 1 januari 1992 worden afgeweken indien het dienstbelang dat nodig maakt.  
+Van het bepaalde in het derde lid van [artikel 21 van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), het derde lid van artikel 20 van het Arbeidsovereenkomstenbesluit en het derde lid van [artikel 34 van het Ambtenarenreglement Staten-Generaal](../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) kan tot 1 januari 1992 worden afgeweken indien het dienstbelang dat nodig maakt. 
 
 ### Artikel  V  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VI  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt wat betreft de artikelen I, onderdelen C, D, E en F, II, onderdelen C, D, E en F en III, onderdelen C, D, E, en F terug tot en met 1 oktober 1990 en wat betreft artikel V terug tot en met 11 juli 1991.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt wat betreft de artikelen I, onderdelen C, D, E en F, II, onderdelen C, D, E en F en III, onderdelen C, D, E, en F terug tot en met 1 oktober 1990 en wat betreft artikel V terug tot en met 11 juli 1991. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat afschrift daarvan zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.   
 

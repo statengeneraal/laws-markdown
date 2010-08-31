@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-De ambtenaar die voor de datum van inwerkingtreding van dit besluit aanspraak had op een toelage betrekking hebbend op uren voor de datum van inwerkingtreding van dit besluit waarop hij zich beschikbaar en bereikbaar moest houden, behoudt deze aanspraak, indien toepassing van dit besluit voor de ambtenaar tot een lagere toelage zou leiden.  
+De ambtenaar die voor de datum van inwerkingtreding van dit besluit aanspraak had op een toelage betrekking hebbend op uren voor de datum van inwerkingtreding van dit besluit waarop hij zich beschikbaar en bereikbaar moest houden, behoudt deze aanspraak, indien toepassing van dit besluit voor de ambtenaar tot een lagere toelage zou leiden. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 oktober 1990.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 1 oktober 1990. 
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.   
 
