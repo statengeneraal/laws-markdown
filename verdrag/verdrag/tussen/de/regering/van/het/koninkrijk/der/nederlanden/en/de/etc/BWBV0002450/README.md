@@ -14,41 +14,47 @@ De Regering van het Koninkrijk der Nederlanden en de Regering van Australië (hi
 
 a. „bevoegde autoriteit”: 
 
-- met betrekking tot Nederland, de Minister van Welzijn, Volksgezondheid en Cultuur; en  
+- met betrekking tot Nederland, de Minister van Volksgezondheid, Welzijn en Sport; en  
 
-- met betrekking tot Australië, de Secretaris-Generaal van het Department of Community Services and Health, of een gemachtigd vertegenwoordiger van de Secretaris-Generaal;    
+- met betrekking tot Australië, de Secretaris-Generaal van het Department of Health and Ageing, of een gemachtigd vertegenwoordiger van de Secretaris-Generaal;    
 
 b. „bevoegd orgaan”: 
 
-- met betrekking tot Nederland, het ziekenfonds waarbij de betrokken persoon is aangesloten; en  
+- met betrekking tot Nederland, de zorgverzekeraar waarbij de betrokken persoon verzekerd is; en  
 
-- met betrekking tot Australië, de Health Insurance Commission;    
+- met betrekking tot Australië, het Department of Health and Ageing of een daartoe door dit ministerie gemachtigd orgaan;    
 
 c. „orgaan van de tijdelijke verblijfplaats”: 
 
-- met betrekking tot Nederland, het Algemeen Nederlands Onderling Ziekenfonds (ANOZ), Utrecht; en  
+- met betrekking tot Nederland, de door de bevoegde autoriteit aangewezen zorgverzekeraar; en  
 
-- met betrekking tot Australië, de Health Insurance Commission;    
+- met betrekking tot Australië, het Department of Health and Ageing of een daartoe door dit ministerie gemachtigd orgaan;    
 
 d. „wetgeving”: alle wetten, regelingen of andere wettelijke akten die van kracht zijn ten tijde van de ondertekening van dit Verdrag of later van kracht worden voor het gehele grondgebied van een Verdragsluitende Partij of voor een deel daarvan en die de verlening van medische zorg regelen;  
 
 e. „verbindingsorgaan”: 
 
-- met betrekking tot Nederland, de Ziekenfondsraad; en  
+- met betrekking tot Nederland, het College voor zorgverzekeringen; en  
 
-- met betrekking tot Australië, de Secretaris-Generaal van het Department of Community Services and Health, of een gemachtigd vertegenwoordiger van de Secretaris-Generaal;    
+- met betrekking tot Australië, het Department of Health and Ageing;    
 
 f. „medische zorg”: 
 
-- met betrekking tot Nederland, de verstrekkingen voorzien ingevolge de Ziekenfondswet en de Algemene Wet Bijzondere Ziektekosten; en  
+- met betrekking tot Nederland, de verstrekkingen voorzien ingevolge de Zorgverzekeringswet en de Algemene Wet Bijzondere Ziektekosten;  
 
-- met betrekking tot Australië, niet-klinische en klinische medische zorg die is voorzien, of waarvoor een uitkering wordt verleend, ingevolge de Health Insurance Act 1973 (Wet Ziektekostenverzekering), of de National Health Act 1953 (Wet Volksgezondheid) van het Gemenebest Australië en klinische zorg en andere vormen van gezondheidszorg voorzien ingevolge overeenkomsten gesloten of besluiten genomen ingevolge de Health Insurance Act 1973 voor en met betrekking tot de verlening van die zorg in een deelstaat of gebied van Australië,    
+- met betrekking tot Australië  
+
+- farmaceutische verstrekkingen aan een reguliere patiënt zoals omschreven in de National Health Act 1953 (Gemenebest Australië) (Wet Volksgezondheid, zoals enkele malen herzien),  
+
+- niet-klinische en klinische medische zorg die is voorzien, of waarvoor een uitkering wordt verleend, ingevolge de Health Insurance Act 1973 (Gemenebest Australië) (Wet Ziektekostenverzekering), of de National Health Act 1953 (Gemenebest Australië), beide wetten zoals enkele malen herzien,  
+
+- klinische zorg en andere vormen van gezondheidszorg voorzien ingevolge overeenkomsten gesloten of besluiten genomen ingevolge de Health Insurance Act 1973, zoals enkele malen herzien, voor en met betrekking tot de verlening van die zorg in een deelstaat of gebied van Australië;    
 
 g. „tijdelijk verblijf”: 
 
 - met betrekking tot Nederland, aanwezigheid op het grondgebied van dat land binnen de tijdsduur voorzien in de nationale voorschriften; en  
 
-- met betrekking tot Australië, aanwezigheid op het grondgebied van dat land gedurende een tijdvak van niet langer dan zes (6) maanden;en    
+- met betrekking tot Australië, rechtmatige aanwezigheid, echter niet als ingezetene; en    
 
 h. „grondgebied”: 
 
@@ -63,7 +69,7 @@ h. „grondgebied”:
 
 Dit Verdrag is van toepassing: 
 
-a. met betrekking tot Nederland, op personen die recht hebben op verstrekkingen overeenkomstig de Ziekenfondswet; en  
+a. met betrekking tot Nederland, op personen die recht hebben op verstrekkingen overeenkomstig de Zorgverzekeringswet; en  
 
 b. met betrekking tot Australië, op personen die ingezetene van Australië zijn voor de toepassing van de Health Insurance Act 1973.    
 
@@ -91,12 +97,12 @@ b. met betrekking tot Australië, op personen die ingezetene van Australië zijn
 2.  Indien de betrokkene niet in het bezit is van de in het eerste lid bedoelde verklaring, dient de betrokkene die verklaring bij het orgaan van de tijdelijke verblijfplaats aan te vragen voor het einde van het tijdelijk verblijf. Het orgaan van de tijdelijke verblijfplaats dient die verklaring voor het einde van het tijdelijk verblijf af te geven.   
 3.  Voor de toepassing van het eerste en tweede lid wordt onder „schriftelijke verklaring betreffende zijn/haar recht op medische zorg” verstaan: 
 
-- met betrekking tot Nederland, een document afgegeven door het Algemeen Nederlands Onderling Ziekenfonds (ANOZ), en  
+- met betrekking tot Nederland, een document afgegeven door de door de bevoegde autoriteit aangewezen zorgverzekeraar en  
 
 - met betrekking tot Australië, een pasje of een inschrijvingsnummer van Medicare.     
 4.  Ten einde aanspraak op een schriftelijke verklaring betreffende zijn/haar recht op medische zorg te kunnen doen gelden, dient de betrokkene aan het orgaan van de tijdelijke verblijfplaats het volgende over te leggen: 
 
-- met betrekking tot Nederland, een verklaring afgegeven door het bevoegde orgaan, en  
+- met betrekking tot Nederland, een door het bevoegde orgaan afgegeven Europese ziekteverzekeringskaart, voorzien van de letters „NL”, en  
 
 - met betrekking tot Australië, een geldig Australisch paspoort of ieder ander geldig paspoort waarin is aangetekend dat de houder ervan het recht heeft voor onbepaalde duur in Australië te verblijven.     
 
