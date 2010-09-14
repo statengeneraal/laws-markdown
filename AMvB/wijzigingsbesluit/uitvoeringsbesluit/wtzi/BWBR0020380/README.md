@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Uitvoeringsbesluit WTZi.   
+Wijzigt het Uitvoeringsbesluit WTZi. 
 
 ### Artikel  II  
 
-Een instelling, toegelaten voor verpleging, activerende begeleiding of behandeling, in verband met een psychiatrische aandoening in de zin van het [Besluit zorgaanspraken AWBZ](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), zoals dat luidde onmiddellijk voor de inwerkingtreding van dit artikel, wordt voor de toepassing van [artikel 5, eerste lid, van de Wet toelating zorginstellingen](../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) aangemerkt als een instelling, toegelaten voor medisch-specialistische zorg in verband met een psychiatrische aandoening.  
+Een instelling, toegelaten voor verpleging, activerende begeleiding of behandeling, in verband met een psychiatrische aandoening in de zin van het [Besluit zorgaanspraken AWBZ](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), zoals dat luidde onmiddellijk voor de inwerkingtreding van dit artikel, wordt voor de toepassing van [artikel 5, eerste lid, van de Wet toelating zorginstellingen](../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) aangemerkt als een instelling, toegelaten voor medisch-specialistische zorg in verband met een psychiatrische aandoening. 
 
 ### Artikel  III  
 
-Een instelling, toegelaten voor niet-klinische revalidatie, niet-klinische hemodialyse of chronisch intermitterende beademing, wordt voor de toepassing van [artikel 5, eerste lid, van de Wet toelating zorginstellingen](../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) aangemerkt als een instelling, toegelaten voor medisch-specialistische zorg.  
+Een instelling, toegelaten voor niet-klinische revalidatie, niet-klinische hemodialyse of chronisch intermitterende beademing, wordt voor de toepassing van [artikel 5, eerste lid, van de Wet toelating zorginstellingen](../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) aangemerkt als een instelling, toegelaten voor medisch-specialistische zorg. 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -35,10 +35,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 2 oktober 2006  
 Beatrix  
 
-De Minister van Volksgezondheid, Welzijn en Sport, 
-J. F.Hoogervorst 
+De Minister van Volksgezondheid, Welzijn en Sport , 
+J. F. Hoogervorst   
 
 de *tiende* oktober 2006 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    
