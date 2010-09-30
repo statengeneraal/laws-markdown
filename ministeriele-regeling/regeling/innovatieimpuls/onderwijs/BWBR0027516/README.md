@@ -15,35 +15,35 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *minister:* de Minister van Onderwijs, Cultuur en Wetenschap,  
+a.  *minister:* de Minister van Onderwijs, Cultuur en Wetenschap,  
 
-b. *po:* het primair onderwijs als bedoeld in de [Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md),  
+b.  *po:* het primair onderwijs als bedoeld in de [Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md),  
 
-c. *vo:* het voortgezet onderwijs als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
+c.  *vo:* het voortgezet onderwijs als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
 
-d. *school:* een uit ’s Rijks kas bekostigde basisschool of een speciale school voor basisonderwijs als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md), dan wel een uit ’s Rijks kas bekostigde school als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
+d.  *school:* een uit ’s Rijks kas bekostigde basisschool of een speciale school voor basisonderwijs als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md), dan wel een uit ’s Rijks kas bekostigde school als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
 
-e. *urgentieschool:* een basisschool of een speciale school voor basisonderwijs waarvan minimaal 30% van het onderwijsgevend personeel 55 jaar of ouder is (peildatum 1 oktober 2009), dan wel een school voor voortgezet onderwijs waarvan minimaal 30% van het onderwijsgevend personeel 55 jaar of ouder is (peildatum 1 oktober 2009),  
+e.  *urgentieschool:* een basisschool of een speciale school voor basisonderwijs waarvan minimaal 30% van het onderwijsgevend personeel 55 jaar of ouder is (peildatum 1 oktober 2009), dan wel een school voor voortgezet onderwijs waarvan minimaal 30% van het onderwijsgevend personeel 55 jaar of ouder is (peildatum 1 oktober 2009),  
 
-f. *bevoegd gezag:* het bevoegd gezag van een school,  
+f.  *bevoegd gezag:* het bevoegd gezag van een school,  
 
-g. *adviescommissie:* de adviescommissie zoals bedoeld in artikel 11,  
+g.  *adviescommissie:* de adviescommissie zoals bedoeld in artikel 11,  
 
-h. *innovatieve maatregel:* vernieuwende maatregel binnen de schoolorganisatie gericht op verhoging van de arbeidsproductiviteit,  
+h.  *innovatieve maatregel:* vernieuwende maatregel binnen de schoolorganisatie gericht op verhoging van de arbeidsproductiviteit,  
 
-i. *effectmeting:* het onderzoek naar de effecten van de innovatieve maatregelen op de arbeidsproductiviteit, de werkdruk en de kwaliteit van het onderwijs,  
+i.  *effectmeting:* het onderzoek naar de effecten van de innovatieve maatregelen op de arbeidsproductiviteit, de werkdruk en de kwaliteit van het onderwijs,  
 
-j. *experimentgroep:* de scholen die een innovatieve maatregel implementeren en participeren aan de effectmeting,  
+j.  *experimentgroep:* de scholen die een innovatieve maatregel implementeren en participeren aan de effectmeting,  
 
-k. *controlegroep:* de scholen die uitsluitend participeren aan de effectmeting,  
+k.  *controlegroep:* de scholen die uitsluitend participeren aan de effectmeting,  
 
-l. *innovatieconcept:* een door scholen ontwikkeld voorstel voor de implementatie en effectmeting van een innovatieve maatregel dat bij de adviescommissie ter beoordeling is ingediend,  
+l.  *innovatieconcept:* een door scholen ontwikkeld voorstel voor de implementatie en effectmeting van een innovatieve maatregel dat bij de adviescommissie ter beoordeling is ingediend,  
 
-m. *gepubliceerd innovatieconcept:* een innovatieconcept dat door de minister – op basis van het advies van de adviescommissie – als meest kansrijk is aangemerkt en gepubliceerd is in de Staatscourant,  
+m.  *gepubliceerd innovatieconcept:* een innovatieconcept dat door de minister – op basis van het advies van de adviescommissie – als meest kansrijk is aangemerkt en gepubliceerd is in de Staatscourant,  
 
-n. *voortrekkerschool:* een school die heeft bijgedragen aan de ontwikkeling van een innovatieconcept,  
+n.  *voortrekkerschool:* een school die heeft bijgedragen aan de ontwikkeling van een innovatieconcept,  
 
-o. *projectplan:* het plan voor de implementatie van een innovatieve maatregel dat een school opstelt op basis van een gepubliceerd innovatieconcept.    
+o.  *projectplan:* het plan voor de implementatie van een innovatieve maatregel dat een school opstelt op basis van een gepubliceerd innovatieconcept.   
 
 ### Artikel  2  
 
@@ -65,7 +65,7 @@ b. die gericht zijn op de implementatie van innovatieve maatregelen die leiden t
 c. die zo ingericht zijn dat de effecten van de innovatieve maatregelen op de arbeidsproductiviteit, de kwaliteit van het onderwijs en de werkdruk gemeten kunnen worden, en;  
 
 d. die kennis, ervaringen en inzichten opleveren die overdraagbaar zijn aan en toegepast kunnen worden door bevoegde gezagsorganen die niet van deze regeling gebruikmaken.     
-3.  De subsidie als bedoeld in lid 1, c, wordt verleend als tegemoetkoming in de kosten die voortvloeien uit deelname aan de effectmeting.   
+3.  De subsidie als bedoeld in lid 1, c, wordt verleend als tegemoetkoming in de kosten die voortvloeien uit deelname aan de effectmeting.  
 
 ### Artikel  3  
 
@@ -84,7 +84,7 @@ a. het bevoegd gezag een school heeft ingeschreven op een gepubliceerd innovatie
 
 b. de school die door het bevoegd gezag is ingeschreven, is toegewezen aan de controlegroep, en;  
 
-c. het bevoegd gezag zich akkoord heeft verklaard met deze toewijzing conform de procedure in artikel 8, lid 2.     
+c. het bevoegd gezag zich akkoord heeft verklaard met deze toewijzing conform de procedure in artikel 8, lid 2.    
 
 ### Artikel  4  
 
@@ -92,7 +92,7 @@ c. het bevoegd gezag zich akkoord heeft verklaard met deze toewijzing conform de
 
 1.  Voor subsidieverlening op grond van deze regeling is in totaal een bedrag van € 18 miljoen beschikbaar voor de jaren 2010–2014.   
 2.  Voor verlening van subsidie voor de ontwikkeling van een projectplan als bedoeld in artikel 2, lid 1, a, is een bedrag beschikbaar van € 1,8 mln.   
-3.  Voor verlening van subsidie voor de uitvoering van een projectplan als bedoeld in artikel 2, lid 1, b, is het in lid 1 genoemde totaalbedrag beschikbaar verminderd met het in lid 2 genoemde bedrag en het bedrag gemoeid met subsidie voor deelname aan de effectmeting als bedoeld in artikel 2, lid 1, c.   
+3.  Voor verlening van subsidie voor de uitvoering van een projectplan als bedoeld in artikel 2, lid 1, b, is het in lid 1 genoemde totaalbedrag beschikbaar verminderd met het in lid 2 genoemde bedrag en het bedrag gemoeid met subsidie voor deelname aan de effectmeting als bedoeld in artikel 2, lid 1, c.  
 
 ### Artikel  5  
 
@@ -100,7 +100,7 @@ c. het bevoegd gezag zich akkoord heeft verklaard met deze toewijzing conform de
 
 1.  De hoogte van de subsidie voor de ontwikkeling van een projectplan als bedoeld in artikel 2, lid 1, a, bedraagt € 9000,–   
 2.  De hoogte van de subsidie voor de uitvoering een projectplan als bedoeld in artikel 2, lid 1, b, wordt door de minister vastgesteld aan de hand van het projectplan en de projectbegroting als bedoeld in artikelen 9 en 10.   
-3.  De hoogte van de subsidie voor deelname aan de effectmeting als bedoeld in artikel 2, lid 1, c, bedraagt € 10.000,–   
+3.  De hoogte van de subsidie voor deelname aan de effectmeting als bedoeld in artikel 2, lid 1, c, bedraagt € 10.000,–  
 
 ### Hoofdstuk  2  
 
@@ -111,7 +111,7 @@ c. het bevoegd gezag zich akkoord heeft verklaard met deze toewijzing conform de
 ####Subsidieaanvraag
 
 1.  Subsidie kan slechts op aanvraag worden verleend.   
-2.  Van het bepaalde in lid 1 is uitgezonderd de subsidie voor deelname aan de effectmeting als bedoeld in artikel 2, lid 1, c, die ambtshalve wordt vastgesteld.   
+2.  Van het bepaalde in lid 1 is uitgezonderd de subsidie voor deelname aan de effectmeting als bedoeld in artikel 2, lid 1, c, die ambtshalve wordt vastgesteld.  
 
 ### Artikel  7  
 
@@ -137,7 +137,7 @@ c) de overige inschrijvingen vervolgens (a-select) op volgorde van binnenkomst v
 d) na het bereiken van het maximum aantal de dan nog resterende inschrijvingen conform lid 7 worden afgewezen.     
 11.  Indien het aantal inschrijvingen op een innovatieconcept onvoldoende is om een effectmeting te kunnen uitvoeren, kan de minister besluiten de inschrijvingen op dit concept af te wijzen.   
 12.  Inschrijvingen die na 1 mei 2010 zijn ontvangen, worden niet in behandeling genomen.   
-13.  Uiterlijk op 15 mei 2010 ontvangt het bevoegd gezag van Agentschap NL een bewijs van toewijzing aan de experimentgroep of de controlegroep of een bericht van afwijzing.   
+13.  Uiterlijk op 15 mei 2010 ontvangt het bevoegd gezag van Agentschap NL een bewijs van toewijzing aan de experimentgroep of de controlegroep of een bericht van afwijzing.  
 
 ### Artikel  8  
 
@@ -156,7 +156,7 @@ d. Aanvragen die na 1 oktober zijn ontvangen, worden niet in behandeling genomen
 
 a. Het bevoegd gezag verklaart akkoord te gaan met deelname aan de effectmeting door het bewijs van toewijzing aan de controlegroep als bedoeld in artikel 7, lid 13, ondertekend te retourneren aan Agentschap NL;  
 
-b. Het ondertekende bewijs van toewijzing aan de controlegroep dient uiterlijk op 15 juni 2010 ontvangen te zijn door Agentschap NL.     
+b. Het ondertekende bewijs van toewijzing aan de controlegroep dient uiterlijk op 15 juni 2010 ontvangen te zijn door Agentschap NL.    
 
 ### Artikel  9  
 
@@ -206,7 +206,7 @@ a. De projectbegroting sluit één op één aan op de activiteiten van het proje
 
 b. De projectbegroting geeft inzicht in de begrote kosten per kalenderjaar;  
 
-c. In de projectbegroting wordt onderscheid gemaakt naar de subsidiabele kostensoorten, zoals opgenomen in artikel 10, lid 2.     
+c. In de projectbegroting wordt onderscheid gemaakt naar de subsidiabele kostensoorten, zoals opgenomen in artikel 10, lid 2.    
 
 ### Artikel  10  
 
@@ -227,7 +227,7 @@ c. kosten voor aanschaf of huur van middelen en materialen die direct voor het p
 7.  Geen subsidie wordt verleend voor kosten van activiteiten die voor de datum van subsidieverlening ten behoeve van het project zijn gemaakt.   
 8.  Geen subsidie wordt verleend voor de ontwikkeling van nieuwe ICT-middelen.   
 9.  Geen subsidie wordt verleend voor kosten van activiteiten die na de looptijd van de subsidie ten behoeve van het project worden gemaakt.   
-10.  Onvoorziene kosten komen niet voor subsidie in aanmerking.   
+10.  Onvoorziene kosten komen niet voor subsidie in aanmerking.  
 
 ### Hoofdstuk  3  
 
@@ -260,7 +260,7 @@ a. daarom door de betreffende persoon verzocht is;
 b. het functioneren van de voorzitter of het lid daartoe aanleiding geeft;  
 
 c. gebleken is dat de onafhankelijkheid van de voorzitter of het lid niet gewaarborgd is.     
-6.  Bij tussentijds vertrek van een lid kan de minister een ander lid benoemen.   
+6.  Bij tussentijds vertrek van een lid kan de minister een ander lid benoemen.  
 
 ### Artikel  12  
 
@@ -271,45 +271,45 @@ c. gebleken is dat de onafhankelijkheid van de voorzitter of het lid niet gewaar
 
 a. Een adviserend lid van het Ministerie van Onderwijs, Cultuur en Wetenschap;  
 
-b. Agentschap NL, het agentschap van het Ministerie van Economische Zaken, die in het secretariaat van de adviescommissie voorziet.     
+b. Agentschap NL, het agentschap van het Ministerie van Economische Zaken, die in het secretariaat van de adviescommissie voorziet.    
 
 ### Artikel  13  
 
 ####Rol adviescommissie
 
 1.  De adviescommissie beoordeelt de innovatieconcepten die zijn ingediend, rangschikt de innovatieconcepten en selecteert de meest kansrijke innovatieconcepten.   
-2.  De adviescommissie adviseert de minister uiterlijk op 30 maart 2010 over de selectie van de meest kansrijke innovatieconcepten.   
+2.  De adviescommissie adviseert de minister uiterlijk op 30 maart 2010 over de selectie van de meest kansrijke innovatieconcepten.  
 
 ### Artikel  14  
 
 ####Integriteit
 
-Een lid van de adviescommissie neemt niet deel aan de voorbereiding en vaststelling van een advies indien hij een onverenigbaar belang heeft bij de selectie van een innovatieconcept.  
+Een lid van de adviescommissie neemt niet deel aan de voorbereiding en vaststelling van een advies indien hij een onverenigbaar belang heeft bij de selectie van een innovatieconcept. 
 
 ### Artikel  15  
 
 ####Informatieplicht
 
-De adviescommissie verstrekt aan de minister desgevraagd de door hem gewenste inlichtingen.  
+De adviescommissie verstrekt aan de minister desgevraagd de door hem gewenste inlichtingen. 
 
 ### Artikel  16  
 
 ####Openbaarmaking
 
-Rapporten, notities, verslagen en andere producten welke door of namens de adviescommissie worden vervaardigd, worden niet door de commissie openbaar gemaakt, maar uitsluitend aan de minister uitgebracht.  
+Rapporten, notities, verslagen en andere producten welke door of namens de adviescommissie worden vervaardigd, worden niet door de commissie openbaar gemaakt, maar uitsluitend aan de minister uitgebracht. 
 
 ### Artikel  17  
 
 ####Intellectuele eigendom
 
-De leden van de commissie werken mee aan het tot stand komen van een overeenkomst indien dit naar het oordeel van de minister noodzakelijk is om te komen tot het kosteloos overdragen aan de minister van rechten met betrekking tot intellectuele eigendom.  
+De leden van de commissie werken mee aan het tot stand komen van een overeenkomst indien dit naar het oordeel van de minister noodzakelijk is om te komen tot het kosteloos overdragen aan de minister van rechten met betrekking tot intellectuele eigendom. 
 
 ### Artikel  18  
 
 ####Vergoeding
 
 1.  De voorzitter en de andere leden van de commissie ontvangen een vaste vergoeding. De toepasselijke salarisschaal voor de voorzitter en de andere leden is schaal 18, nr. 10, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). De arbeidsduurfactor voor de voorzitter is 25 uur per maand en voor de overige leden 22,5 uur per maand. De vergoeding wordt aan het einde van de zittingstermijn van de commissie (inclusief eventuele verlenging) uitbetaald. Indien de werkzaamheden meer of minder dan het vastgestelde aantal uren bedraagt, wordt in overleg eventueel de vergoeding evenredig vastgesteld.   
-2.  De voorzitter en de andere leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten op de voet van het [Reisbesluit binnenland](../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) en het [Reisbesluit buitenland](../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md).   
+2.  De voorzitter en de andere leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten op de voet van het [Reisbesluit binnenland](../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) en het [Reisbesluit buitenland](../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md).  
 
 ### Hoofdstuk  4  
 
@@ -332,46 +332,46 @@ b. in de tweede plaats: een vergelijking van de geschiktheid van de overige proj
 
 c. in de derde plaats: de verhouding tussen het aantal projectplannen van urgentiescholen en het totaal aantal projectplannen.     
 3.  Indien er na toepassing van lid 2 nog sprake is van gelijke kwalitatieve geschiktheid van projectplannen, zal de minister het beschikbare bedrag in de volgorde van ontvangst van de aanvragen verdelen.   
-4.  Met het oog op het bepaalde in het eerste en derde lid, geldt als datum van ontvangst de dag waarop de aanvraag is aangevuld, wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen.   
+4.  Met het oog op het bepaalde in het eerste en derde lid, geldt als datum van ontvangst de dag waarop de aanvraag is aangevuld, wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen.  
 
 ### Artikel  20  
 
 ####Advies voorafgaand aan subsidieverlening
 
-De minister beslist over subsidieverlening mede op basis van het advies van Agentschap NL.  
+De minister beslist over subsidieverlening mede op basis van het advies van Agentschap NL. 
 
 ### Artikel  21  
 
 ####Voorschriften bij subsidieverlening
 
-Aan de verlening van de subsidie als bedoeld in artikel 2, lid 1, b, kunnen aanvullende verplichtingen worden verbonden die noodzakelijk zijn ter waarborging van een juiste uitvoering van het project, dan wel voor het behoud van een goed inzicht in de voortgang van het project.  
+Aan de verlening van de subsidie als bedoeld in artikel 2, lid 1, b, kunnen aanvullende verplichtingen worden verbonden die noodzakelijk zijn ter waarborging van een juiste uitvoering van het project, dan wel voor het behoud van een goed inzicht in de voortgang van het project. 
 
 ### Artikel  22  
 
 ####Tijdvak subsidieverlening
 
 1.  Subsidie voor de uitvoering van een projectplan als bedoeld in artikel 2, lid 1, b, wordt verleend vanaf het moment van de datum van toekenning van de subsidieaanvraag tot uiterlijk 1 januari 2015.   
-2.  Subsidie voor deelname aan de effectmeting als bedoeld in artikel 2, lid 1, c, wordt verleend vanaf het moment van ambtshalve vaststelling van deze subsidie tot uiterlijk 1 januari 2015.   
+2.  Subsidie voor deelname aan de effectmeting als bedoeld in artikel 2, lid 1, c, wordt verleend vanaf het moment van ambtshalve vaststelling van deze subsidie tot uiterlijk 1 januari 2015.  
 
 ### Artikel  23  
 
 ####Besluitvorming door de minister
 
 1.  De minister beschikt uiterlijk 6 weken na afloop van de indieningstermijn op de subsidieaanvraag voor de ontwikkeling respectievelijk uitvoering van een projectplan als bedoeld in artikel 2. lid 1, a respectievelijk b.   
-2.  Indien de minister niet tijdig een beslissing neemt, deelt hij de aanvrager mee binnen welke termijn de beslissing wel tegemoet kan worden gezien.   
+2.  Indien de minister niet tijdig een beslissing neemt, deelt hij de aanvrager mee binnen welke termijn de beslissing wel tegemoet kan worden gezien.  
 
 ### Artikel  24  
 
 ####Begrotingsvoorwaarde
 
-In geval van niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden de op grond van deze regeling verleende subsidiebedragen voor de uitvoering van projectplannen als bedoeld in artikel 2, lid 1, b, verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de Rijksbegroting ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen.  
+In geval van niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden de op grond van deze regeling verleende subsidiebedragen voor de uitvoering van projectplannen als bedoeld in artikel 2, lid 1, b, verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de Rijksbegroting ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen. 
 
 ### Artikel  25  
 
 ####Weigeringsgronden
 
-1.  Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan verlening van subsidie worden geweigerd indien de aanvrager op grond van een andere regeling van de (rijks)overheid reeds subsidie ontvangt voor het projectplan dat het bevoegd gezag indient in het kader van deze regeling.   
-2.  De minister kan subsidieverlening weigeren als het aantal goedgekeurde projectplannen voor implementatie van een innovatieconcept onvoldoende is om een adequate effectmeting te kunnen uitvoeren of als hiertoe het aantal controlescholen onvoldoende is.   
+1. Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan verlening van subsidie worden geweigerd indien de aanvrager op grond van een andere regeling van de (rijks)overheid reeds subsidie ontvangt voor het projectplan dat het bevoegd gezag indient in het kader van deze regeling. 
+2. De minister kan subsidieverlening weigeren als het aantal goedgekeurde projectplannen voor implementatie van een innovatieconcept onvoldoende is om een adequate effectmeting te kunnen uitvoeren of als hiertoe het aantal controlescholen onvoldoende is.
 
 ### Hoofdstuk  5  
 
@@ -386,14 +386,14 @@ In geval van niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste
 3.  De inrichting van het inhoudelijk verslag als bedoeld in het tweede lid komt overeen met de inrichting van het projectplan.   
 4.  Het inhoudelijk verslag dient uiterlijk binnen 3 maanden na afloop van iedere termijn van 12 maanden als bedoeld in het tweede lid ingediend te worden bij de Dienst Uitvoering Onderwijs (DUO).   
 5.  Op basis van de resultaten van de tussentijdse audit kan de minister besluiten de middelen bestemd voor het vervolg van het project niet of niet in zijn geheel betaalbaar te stellen.   
-6.  Voor projecten met een looptijd van een jaar of minder zal geen tussentijdse audit plaatsvinden.   
+6.  Voor projecten met een looptijd van een jaar of minder zal geen tussentijdse audit plaatsvinden.  
 
 ### Artikel  27  
 
 ####Administratievoorschriften
 
 1.  Het bevoegd gezag dat subsidie ontvangt in het kader van deze regeling voert een zodanig ingerichte administratie, dat daaruit te allen tijde de voor de vaststelling van de subsidie van belang zijnde rechten en verplichtingen alsmede de betalingen kunnen worden nagegaan.   
-2.  Het bevoegd gezag bewaart de boeken en bescheiden en informatie of andere informatiedragers die verband houden met de toepassing van deze regeling gedurende ten minste zeven jaar na datum waarop de vaststelling van de subsidie heeft plaatsgevonden.   
+2.  Het bevoegd gezag bewaart de boeken en bescheiden en informatie of andere informatiedragers die verband houden met de toepassing van deze regeling gedurende ten minste zeven jaar na datum waarop de vaststelling van de subsidie heeft plaatsgevonden.  
 
 ### Artikel  28  
 
@@ -403,14 +403,14 @@ In geval van niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste
 2.  De subsidieontvanger werkt mee aan de voor de effectmeting benodigde gegevensverzameling door onderzoekers.   
 3.  Indien er tussentijds bijzondere omstandigheden optreden, die de voortgang van het project substantieel wijzigen of die anderszins belangrijke gevolgen kunnen hebben voor het recht op subsidie, doet de subsidieontvanger hiervan onverwijld mededeling aan de minister.   
 4.  De subsidieontvanger is verplicht de minister en door hem aangewezen ambtenaren desgevraagd alle inlichtingen te geven die deze in verband met deze subsidieregeling verlangen. De subsidieontvanger geeft desgewenst deze ambtenaren de boeken en bescheiden ter inzage.   
-5.  De subsidieontvanger verleent op verzoek van de minister medewerking aan communicatieactiviteiten gericht op het presenteren, verspreiden en overdragen van de (tussentijdse) projectresultaten aan overige belangstellenden.   
+5.  De subsidieontvanger verleent op verzoek van de minister medewerking aan communicatieactiviteiten gericht op het presenteren, verspreiden en overdragen van de (tussentijdse) projectresultaten aan overige belangstellenden.  
 
 ### Artikel  29  
 
 ####Besteding subsidie
 
 1.  De subsidie voor de ontwikkeling van een projectplan als bedoeld in artikel 2, lid 1, a en de subsidie voor deelname aan de effectmeting als bedoeld in artikel 2, lid 1, c, wordt verstrekt als tegemoetkoming in de uitgaven die zijn verbonden aan de in de regeling omschreven doelen. Terugvordering van niet-bestede middelen vindt niet plaats.   
-2.  De subsidie voor de uitvoering van een projectplan als bedoeld in artikel 2, lid 1, b, wordt uitsluitend aangewend voor het doel waarvoor zij is verstrekt. Eventueel niet-bestede middelen na afloop van de looptijd van de subsidie worden teruggevorderd. De subsidie wordt uiterlijk in het jaar 2014 besteed.   
+2.  De subsidie voor de uitvoering van een projectplan als bedoeld in artikel 2, lid 1, b, wordt uitsluitend aangewend voor het doel waarvoor zij is verstrekt. Eventueel niet-bestede middelen na afloop van de looptijd van de subsidie worden teruggevorderd. De subsidie wordt uiterlijk in het jaar 2014 besteed.  
 
 ### Hoofdstuk  6  
 
@@ -424,7 +424,7 @@ In geval van niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste
 2.  De financiële verantwoording van de subsidie voor de uitvoering van een projectplan als bedoeld in artikel 2, lid 1, b, geschiedt in de jaarverslaggeving, bedoeld in de [Regeling jaarverslaggeving onderwijs](../../../../../ministeriele-regeling/regeling/jaarverslaggeving/onderwijs/BWBR0023132/README.md), met model G, behorend bij de richtlijn RJ660, alinea 212, zoals vastgesteld door de Raad voor de Jaarverslaggeving. De verwerking van niet-bestede middelen geschiedt in de jaarrekening van het laatste jaar van besteding. De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van de subsidie.   
 3.  In aanvulling op de verantwoording van de subsidie in de jaarverslaggeving stelt de subsidieontvanger van een subsidie als bedoeld in artikel 2 lid 1, b een verslag van activiteiten op waaruit de besteding van de subsidie duidelijk blijkt. Het verslag bevat een overzicht van de werkzaamheden waarvoor subsidie is verstrekt en van de daarmee bereikte resultaten. Het verslag wordt uiterlijk binnen 3 maanden na afloop van de subsidieperiode ingediend bij DUO.   
 4.  De inrichting van het verslag zoals bedoeld in lid 3 komt overeen met de inrichting van het projectplan en bevat, voor zover van toepassing, een analyse van verschillen tussen voorgenomen activiteiten en beoogde resultaten, vermeld in het projectplan, en de feitelijke realisatie.   
-5.  Uiterlijk 1 jaar na ontvangst van het jaarverslag van het laatste jaar van besteding wordt de subsidie als bedoeld in lid 2 definitief door DUO vastgesteld.   
+5.  Uiterlijk 1 jaar na ontvangst van het jaarverslag van het laatste jaar van besteding wordt de subsidie als bedoeld in lid 2 definitief door DUO vastgesteld.  
 
 ### Artikel  31  
 
@@ -438,7 +438,7 @@ b. de activiteiten niet zijn gestart, aanzienlijk zijn vertraagd of voortijdig w
 
 c. de subsidieontvanger heeft gehandeld in strijd met de aan de subsidie verbonden verplichtingen;  
 
-d. de ontvanger van de subsidie kennelijk in strijd met het doel van de subsidie heeft gehandeld.    
+d. de ontvanger van de subsidie kennelijk in strijd met het doel van de subsidie heeft gehandeld.   
 
 ### Hoofdstuk  7  
 
@@ -451,7 +451,7 @@ d. de ontvanger van de subsidie kennelijk in strijd met het doel van de subsidie
 1.  Indien er sprake is van subsidie voor de uitvoering van een projectplan als bedoeld in artikel 2, lid 1, b, wordt het subsidiebedrag betaalbaar gesteld conform het in de goedgekeurde projectbegroting opgenomen bestedingspatroon. De betalingen vinden jaarlijks plaats in januari, te beginnen in 2011.   
 2.  Indien er sprake is van subsidie voor de ontwikkeling van een projectplan als bedoeld in artikel 2, lid 1, a, wordt het subsidiebedrag uiterlijk in december 2010 betaalbaar gesteld.   
 3.  Indien er sprake is van subsidie voor deelname aan de effectmeting als bedoeld in artikel 2, lid 1, c, wordt per kalenderjaar 25% van het subsidiebedrag betaalbaar gesteld. De betalingen vinden jaarlijks plaats in januari, te beginnen in 2011.   
-4.  Het betaalbaar stellen van de subsidies als bedoeld in artikel 2, lid 1, geschiedt door de DUO.   
+4.  Het betaalbaar stellen van de subsidies als bedoeld in artikel 2, lid 1, geschiedt door de DUO.  
 
 ### Hoofdstuk  8  
 
@@ -461,15 +461,15 @@ d. de ontvanger van de subsidie kennelijk in strijd met het doel van de subsidie
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt per 1 januari 2016.  
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt per 1 januari 2016. 
 
 ### Artikel  34  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling InnovatieImpuls Onderwijs.  
+Deze regeling wordt aangehaald als: Regeling InnovatieImpuls Onderwijs. 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.  
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-J.M. vanBijsterveldt-Vliegenthart   
+J.M. van Bijsterveldt-Vliegenthart     
