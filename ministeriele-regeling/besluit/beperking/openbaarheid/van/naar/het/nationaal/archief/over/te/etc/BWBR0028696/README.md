@@ -10,20 +10,20 @@ Besluit:
 
 ### Artikel  1  
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer van nog levende personen en het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden, worden aan de openbaarheid van de naar het Nationaal Archief over te brengen bescheiden van het gerubriceerd archief, over de periode (1903)1939–1975 (1983), met de inventarisnummers zoals opgenomen in de bijlage, de in het volgende artikel genoemde beperkingen gesteld.  
+Met het oog op de eerbiediging van de persoonlijke levenssfeer van nog levende personen en het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden, worden aan de openbaarheid van de naar het Nationaal Archief over te brengen bescheiden van het gerubriceerd archief, over de periode (1903)1939–1975 (1983), met de inventarisnummers zoals opgenomen in de bijlage, de in het volgende artikel genoemde beperkingen gesteld. 
 
 ### Artikel  2  
 
-Raadpleging of gebruik binnen de expiratieperiode van de in het vorige artikel bedoelde inventarisnummers is slechts mogelijk nadat de directeur van het Nationaal Archief daarmee heeft ingestemd. Voor het doen van het verzoek tot instemming wordt gebruik gemaakt van het door het Nationaal Archief voorgeschreven formulier voor toestemming tot raadpleging van niet-openbare archieven.  
+Raadpleging of gebruik binnen de expiratieperiode van de in het vorige artikel bedoelde inventarisnummers is slechts mogelijk nadat de directeur van het Nationaal Archief daarmee heeft ingestemd. Voor het doen van het verzoek tot instemming wordt gebruik gemaakt van het door het Nationaal Archief voorgeschreven formulier voor toestemming tot raadpleging van niet-openbare archieven. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking op de dag na de datum van publicatie in de Staatscourant waarin zij wordt geplaatst.  
+Dit besluit treedt in werking op de dag na de datum van publicatie in de Staatscourant waarin zij wordt geplaatst. 
 
 De 
-Minister van Financien,namens deze:
-plv. Secretaris-generaal,
-A.S.M.Koeleman  
+Minister van Financien, namens deze: 
+plv. Secretaris-generaal, 
+A.S.M. Koeleman    
 
 ### Bijlage  
 
