@@ -11,8 +11,8 @@ Gelet op richtlijn nr. 94/56/EG van de Raad van de Europese Unie van 23 novembe
 De Raad van State gehoord (advies van 2 september 2004, nr. W04.04.0254/I);
 
 Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 december 2004, nr. PRO 2004/78765;
-Hebben goedgevonden en verstaan:     
-### §  1  
+Hebben goedgevonden en verstaan:
+###§ 1 
 
 ####Begripsomschrijving
 
@@ -54,7 +54,7 @@ d. ernstig scheepvaartongeval: een gebeurtenis, zijnde een brand, een ontploffin
 
 2°. het onmanoeuvreerbaar worden van een schip waardoor hulp van buiten noodzakelijk is, of  
 
-3°. verontreiniging van het mariene milieu;.    
+3°. verontreiniging van het mariene milieu;.   
 
 e. scheepvaartincident: een gebeurtenis, geen scheepvaartongeval zijnde, veroorzaakt door of samenhangend met het functioneren van een schip en waarbij de veiligheid van het schip of van personen in gevaar is gebracht of waardoor ernstige schade aan het schip, aan mijnbouwinstallaties of aan het mariene milieu zou kunnen ontstaan;  
 
@@ -104,12 +104,12 @@ p. exploitant van een luchtvaartuig: iedere natuurlijk persoon, iedere rechtsper
 
 q. staat met aanmerkelijk belang: in geval van een voorval met een zeeschip, staat die tot een van de bij ministeriële regeling aangewezen categorieën behoort;  
 
-r. spoorweg: het spoorwegsysteem als bedoeld in richtlijn nr. 2004/49/EG van het Europees Parlement en de Raad van 29 april 2004 inzake de veiligheid op de communautaire spoorwegen en tot wijziging van richtlijn 95/18/EG van de Raad betreffende de verlening van vergunningen aan spoorwegondernemingen, en van richtlijn 2001/14/EG van de Raad inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur alsmede inzake veiligheidscertificering («Spoorwegveiligheidsrichtlijn») (PbEG L 220), voor zover dit systeem is aangewezen in het [Besluit aanwijzing hoofdspoorwegen](../../../../../../KB/besluit/aanwijzing/hoofdspoorwegen/BWBR0017794/README.md);  
+r.spoorweg: het spoorwegsysteem als bedoeld in richtlijn nr. 2004/49/EG van het Europees Parlement en de Raad van 29 april 2004 inzake de veiligheid op de communautaire spoorwegen en tot wijziging van richtlijn 95/18/EG van de Raad betreffende de verlening van vergunningen aan spoorwegondernemingen, en van richtlijn 2001/14/EG van de Raad inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur alsmede inzake veiligheidscertificering («Spoorwegveiligheidsrichtlijn») (PbEG L 220), voor zover dit systeem is aangewezen in het [Besluit aanwijzing hoofdspoorwegen](../../../../../../KB/besluit/aanwijzing/hoofdspoorwegen/BWBR0017794/README.md);
 
-s. ernstig ongeval in verband met een spoorweg: een botsing of ontsporing van treinen, waarbij ten minste één persoon omkomt of vijf of meer personen ernstig gewond raken of grote schade aan het rollend materieel, de infrastructuur of het milieu wordt veroorzaakt, dan wel een soortgelijk ongeval dat duidelijk consequenties heeft voor de regelgeving op het gebied van de veiligheid op het spoor of het veiligheidsbeheer, waarbij onder «grote schade» wordt verstaan schade waarvan de totale kosten onmiddellijk door de onderzoekende instantie op ten minste € 2 miljoen kunnen worden geraamd.     
-2.  Onder een luchtvaartongeval wordt mede verstaan een gebeurtenis die samenhangt met het gebruik van een onbemand luchtvaartuig en plaatsvindt tijdens de periode vanaf de start tot en met de landing en waarbij de in het eerste lid onderdeel d onder 1 tot en met 3 genoemde gevolgen zich hebben voorgedaan.   
+s.ernstig ongeval in verband met een spoorweg: een botsing of ontsporing van treinen, waarbij ten minste één persoon omkomt of vijf of meer personen ernstig gewond raken of grote schade aan het rollend materieel, de infrastructuur of het milieu wordt veroorzaakt, dan wel een soortgelijk ongeval dat duidelijk consequenties heeft voor de regelgeving op het gebied van de veiligheid op het spoor of het veiligheidsbeheer, waarbij onder «grote schade» wordt verstaan schade waarvan de totale kosten onmiddellijk door de onderzoekende instantie op ten minste € 2 miljoen kunnen worden geraamd.   
+2.  Onder een luchtvaartongeval wordt mede verstaan een gebeurtenis die samenhangt met het gebruik van een onbemand luchtvaartuig en plaatsvindt tijdens de periode vanaf de start tot en met de landing en waarbij de in het eerste lid onderdeel d onder 1 tot en met 3 genoemde gevolgen zich hebben voorgedaan.  
 
-### §  2  
+###§ 2 
 
 ####Toepasselijkheid
 
@@ -128,22 +128,22 @@ c. vissersvaartuigen met een lengte van minder dan 15 meter.
 
 a. het betrokken luchtvaartuig is geleasd door, gecharterd door of de beschikking daarover door uitwisseling is verkregen door een staat die niet tevens de staat is waar het luchtvaartuig is ingeschreven, en  
 
-b. deze staat, geheel of gedeeltelijk, de functies en verplichtingen van de laatstbedoelde staat, die voortvloeien uit annex 13 bij het op 7 december 1994 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart, vervult.     
+b. deze staat, geheel of gedeeltelijk, de functies en verplichtingen van de laatstbedoelde staat, die voortvloeien uit annex 13 bij het op 7 december 1994 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart, vervult.    
 
 ### §  3  
 
 ####Onderzoeksverplichtingen
 
-### Artikel  3  
+###Artikel 3 
 
-1.  De raad stelt een onderzoek in naar luchtvaartongevallen, niet zijnde een luchtvaartongeval als bedoeld in artikel 1, tweede lid, en ernstige luchtvaartincidenten, betreffende: 
+1. De raad stelt een onderzoek in naar luchtvaartongevallen, niet zijnde een luchtvaartongeval als bedoeld in artikel 1, tweede lid, en ernstige luchtvaartincidenten, betreffende:
 
-a. een luchtvaartuig op of boven het grondgebied van Nederland met inbegrip van de territoriale zee,  
+a.een luchtvaartuig op of boven het grondgebied van Nederland met inbegrip van de territoriale zee,
 
-b. een Nederlands luchtvaartuig boven volle zee of  
+b.een Nederlands luchtvaartuig boven volle zee of
 
-c. een Nederlands luchtvaartuig in het buitenland, indien de betrokken staat geen onderzoek instelt, indien deze het onderzoek aan de Nederlandse autoriteiten overlaat of indien niet kan worden vastgesteld dat de plaats van het voorval binnen het grondgebied van enige staat ligt en niet met een andere staat wordt overeengekomen dat deze het onderzoek verricht.     
-2.  De raad kan het onderzoek naar een luchtvaartongeval of een ernstig luchtvaartincident met een ander dan een Nederlands luchtvaartuig geheel of gedeeltelijk overlaten aan een andere staat indien deze naar zijn oordeel op voldoende deskundige wijze het onderzoek zal verrichten en deze met het instellen van een onderzoek instemt. Indien het luchtvaartongeval of een ernstig luchtvaartincident heeft plaatsgevonden op het grondgebied van een lidstaat van de Europese Unie kan het onderzoek waarbij een Nederlands luchtvaartuig is betrokken worden overgedragen aan een andere lidstaat.   
+c.een Nederlands luchtvaartuig in het buitenland, indien de betrokken staat geen onderzoek instelt, indien deze het onderzoek aan de Nederlandse autoriteiten overlaat of indien niet kan worden vastgesteld dat de plaats van het voorval binnen het grondgebied van enige staat ligt en niet met een andere staat wordt overeengekomen dat deze het onderzoek verricht.
+2. De raad kan het onderzoek naar een luchtvaartongeval of een ernstig luchtvaartincident met een ander dan een Nederlands luchtvaartuig geheel of gedeeltelijk overlaten aan een andere staat indien deze naar zijn oordeel op voldoende deskundige wijze het onderzoek zal verrichten en deze met het instellen van een onderzoek instemt. Indien het luchtvaartongeval of een ernstig luchtvaartincident heeft plaatsgevonden op het grondgebied van een lidstaat van de Europese Unie kan het onderzoek waarbij een Nederlands luchtvaartuig is betrokken worden overgedragen aan een andere lidstaat.
 
 ### Artikel  4  
 
@@ -154,7 +154,7 @@ a. een Nederlands zeeschip bij het ongeval is betrokken;
 b. het ongeval plaatsvindt in de Nederlandse binnenwateren of territoriale zee, bedoeld in [artikel 1, eerste lid, van de Wet grenzen Nederlandse territoriale zee](../../../../../../wet/wet/grenzen/nederlandse/territoriale/zee/BWBR0003748/README.md);  
 
 c. Nederland een aanmerkelijk belang heeft bij dat ongeval.     
-2.  Bij een ernstig scheepvaartongeval doet de raad een voorafgaande beoordeling om te besluiten of er een onderzoek wordt verricht. Wanneer de raad op basis van het voorafgaand onderzoek besluit geen onderzoek te doen, dan zendt de raad dit besluit aan de Europese Commissie.   
+2.  Bij een ernstig scheepvaartongeval doet de raad een voorafgaande beoordeling om te besluiten of er een onderzoek wordt verricht. Wanneer de raad op basis van het voorafgaand onderzoek besluit geen onderzoek te doen, dan zendt de raad dit besluit aan de Europese Commissie.  
 
 ### Artikel  5  
 
@@ -163,30 +163,30 @@ c. Nederland een aanmerkelijk belang heeft bij dat ongeval.
 3.  In geval van samenwerking met een andere staat overlegt de raad met de daartoe bevoegde instantie van de staat of staten met een aanmerkelijk belang wie de leiding van een onderzoek op zich neemt. Totdat een andere staat de leiding overneemt, is de raad verantwoordelijk voor het onderzoek en de coördinatie met andere staten die een aanmerkelijk belang hebben.   
 4.  Het onderzoek naar een scheepvaartongeval, waarbij een ro-ro-veerboot of hogesnelheidspassagiersvaartuig is betrokken en waarvoor de raad een onderzoeksverplichting heeft, wordt in ieder geval door de raad geleid, totdat de raad met het daartoe bevoegde onderzoeksorgaan van de staat of staten met een aanmerkelijk belang overeenstemming bereikt welke staat de leiding van het onderzoek overneemt.   
 5.  Indien de raad de leiding heeft over een onderzoek naar een scheepvaartongeval, is samenwerking met een onderzoeksinstantie van een andere staat dan een lidstaat van de Europese Unie uitsluitend mogelijk onder de voorwaarden, gesteld in Richtlijn nr. 2009/18/EG van het Europees parlement en van de Raad van Europese Unie van 23 april 2009 tot vaststelling van de grondbeginselen voor het onderzoek van ongevallen in de zeescheepvaartsector en tot wijziging van de Richtlijn 1999/35/EG van de Raad en Richtlijn 2002/59/EG van het Europees Parlement en de Raad (PbEU L 131).   
-6.  Indien een onderzoeksinstantie van een andere staat dan een lidstaat van de Europese Unie de leiding heeft over het onderzoek naar een scheepvaartongeval, is samenwerking door de raad met die onderzoeksinstantie uitsluitend mogelijk wanneer het onderzoek wordt uitgevoerd overeenkomstig de regels, gesteld in de Code of the International Standards and Recommended Practices for a Safety Investigation into a Marine Casualty or Marine Incident zoals vastgesteld bij resolutie MSC.255(84) van de International Maritime Organisation van 16 mei 2008.   
+6.  Indien een onderzoeksinstantie van een andere staat dan een lidstaat van de Europese Unie de leiding heeft over het onderzoek naar een scheepvaartongeval, is samenwerking door de raad met die onderzoeksinstantie uitsluitend mogelijk wanneer het onderzoek wordt uitgevoerd overeenkomstig de regels, gesteld in de Code of the International Standards and Recommended Practices for a Safety Investigation into a Marine Casualty or Marine Incident zoals vastgesteld bij resolutie MSC.255(84) van de International Maritime Organisation van 16 mei 2008.  
 
-### Artikel  6  
+###Artikel 6 
 
-1.  De raad stelt een onderzoek in naar luchtvaartongevallen en ernstige luchtvaartincidenten waarbij luchtvaartuigen zijn betrokken die in gebruik zijn bij een krijgsmacht van twee of meer staten, aangesloten bij de Noord-Atlantische Verdragsorganisatie, op of boven het grondgebied van Nederland, met inbegrip van de territoriale zee, en schepen die in gebruik zijn bij Onze Minister van Defensie.   
-2.  De raad laat het onderzoek, bedoeld in het eerste lid, over aan de staat waarbij het luchtvaartuig in gebruik is, indien deze dit wenst, tenzij er overwegende redenen zijn om dit niet te doen.   
-3.  Indien een luchtvaartuig is betrokken dat in gebruik is bij een andere staat dan de staat die daarvan eigenaar is, kan deze laatste verlangen voor de toepassing van het tweede lid te worden aangemerkt als staat waarbij het luchtvaartuig in gebruik is.   
+1. De raad stelt een onderzoek in naar luchtvaartongevallen en ernstige luchtvaartincidenten waarbij luchtvaartuigen zijn betrokken die in gebruik zijn bij een krijgsmacht van twee of meer staten, aangesloten bij de Noord-Atlantische Verdragsorganisatie, op of boven het grondgebied van Nederland, met inbegrip van de territoriale zee, en schepen die in gebruik zijn bij Onze Minister van Defensie.
+2. De raad laat het onderzoek, bedoeld in het eerste lid, over aan de staat waarbij het luchtvaartuig in gebruik is, indien deze dit wenst, tenzij er overwegende redenen zijn om dit niet te doen.
+3. Indien een luchtvaartuig is betrokken dat in gebruik is bij een andere staat dan de staat die daarvan eigenaar is, kan deze laatste verlangen voor de toepassing van het tweede lid te worden aangemerkt als staat waarbij het luchtvaartuig in gebruik is.
 
-### Artikel  7  
+###Artikel 7 
 
-1.  In geval de raad een onderzoek instelt naar een voorval waarbij materieel, personeel of voorzieningen van een krijgsmacht van één van de andere staten, aangesloten bij de Noord-Atlantische Verdragsorganisatie, zijn betrokken, treedt de raad in overleg met de buitenlandse onderzoeksinstantie. De raad bepaalt in overleg met die instantie op welke wijze het onderzoek van het voorval wordt ingericht. Bij dit onderzoek neemt de raad binnen het kader van de rijkswet de op dit onderzoek van toepassing zijnde, in het kader van de Noord-Atlantische Verdragsorganisatie tot stand gebrachte voorschriften in acht, voorzover deze door Nederland zijn aanvaard.   
-2.  De raad kan in overleg met de betrokken staat de in het eerste lid bedoelde procedure en voorschriften eveneens toepassen ten aanzien van het onderzoek van een voorval waarbij een krijgsmacht is betrokken van een staat die niet is aangesloten bij de Noord-Atlantische Verdragsorganisatie.   
+1. In geval de raad een onderzoek instelt naar een voorval waarbij materieel, personeel of voorzieningen van een krijgsmacht van één van de andere staten, aangesloten bij de Noord-Atlantische Verdragsorganisatie, zijn betrokken, treedt de raad in overleg met de buitenlandse onderzoeksinstantie. De raad bepaalt in overleg met die instantie op welke wijze het onderzoek van het voorval wordt ingericht. Bij dit onderzoek neemt de raad binnen het kader van de rijkswet de op dit onderzoek van toepassing zijnde, in het kader van de Noord-Atlantische Verdragsorganisatie tot stand gebrachte voorschriften in acht, voorzover deze door Nederland zijn aanvaard.
+2. De raad kan in overleg met de betrokken staat de in het eerste lid bedoelde procedure en voorschriften eveneens toepassen ten aanzien van het onderzoek van een voorval waarbij een krijgsmacht is betrokken van een staat die niet is aangesloten bij de Noord-Atlantische Verdragsorganisatie.
 
-### Artikel  8  
+###Artikel 8 
 
-1.  De raad stelt onverwijld een onderzoek in naar een zwaar ongeval als bedoeld in richtlijn nr. 96/82/EG van de Raad van de Europese Unie van 9 december 1996 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (PbEG L 010).   
-2.  De raad is niet gehouden een in het eerste lid bedoeld onderzoek in te stellen indien één van de uitsluitingen, genoemd in artikel 4 van de in het eerste lid genoemde richtlijn, van toepassing zijn.   
+1. De raad stelt onverwijld een onderzoek in naar een zwaar ongeval als bedoeld in richtlijn nr. 96/82/EG van de Raad van de Europese Unie van 9 december 1996 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (PbEG L 010).
+2. De raad is niet gehouden een in het eerste lid bedoeld onderzoek in te stellen indien één van de uitsluitingen, genoemd in artikel 4 van de in het eerste lid genoemde richtlijn, van toepassing zijn.
 
-### Artikel  8a  
+###Artikel 8a 
 
-1.  De raad stelt onverwijld een onderzoek in naar een ernstig ongeval in verband met een spoorweg.   
-2.  Indien niet kan worden vastgesteld of een ongeval als bedoeld in het eerste lid in Nederland of een ander land heeft plaatsgevonden, of indien het heeft plaatsgevonden op of vlakbij een grensinstallatie van Nederland en een ander land, worden tussen de raad en het bevoegde onderzoeksorgaan in het andere land afspraken gemaakt wie het onderzoek gaat verrichten of wordt afgesproken dat gezamenlijk onderzoek wordt verricht. Ingeval het onderzoek wordt verricht door de raad, wordt het orgaan in het andere land uitgenodigd aan het onderzoek deel te nemen en volledig over de uitkomsten van het onderzoek ingelicht.   
+1. De raad stelt onverwijld een onderzoek in naar een ernstig ongeval in verband met een spoorweg. 
+2. Indien niet kan worden vastgesteld of een ongeval als bedoeld in het eerste lid in Nederland of een ander land heeft plaatsgevonden, of indien het heeft plaatsgevonden op of vlakbij een grensinstallatie van Nederland en een ander land, worden tussen de raad en het bevoegde onderzoeksorgaan in het andere land afspraken gemaakt wie het onderzoek gaat verrichten of wordt afgesproken dat gezamenlijk onderzoek wordt verricht. Ingeval het onderzoek wordt verricht door de raad, wordt het orgaan in het andere land uitgenodigd aan het onderzoek deel te nemen en volledig over de uitkomsten van het onderzoek ingelicht.
 
-### §  4  
+###§ 4 
 
 ####Meldingsplichten
 
@@ -215,7 +215,7 @@ i. in geval van een voorval als bedoeld in [artikel 6.60 van de Wet luchtvaart](
 j. in geval van een zwaar ongeval als bedoeld als bedoeld in richtlijn nr. 96/82/EG van de Raad van de Europese Unie van 9 december 1996 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (PbEG L 010): de exploitant van de inrichting als in de richtlijn bedoeld;  
 
 k. in geval van een luchtvaartongeval of een ernstig luchtvaartincident als bedoeld in artikel 6, eerste lid: Onze Minister van Defensie.     
-2.  In geval internationale verdragen of regelingen Onze Minister wie het aangaat verplichten tot het melden van een voorval aan een andere staat, de Commissie van de Europese Gemeenschappen of een internationale organisatie, geeft de raad de ontvangen melding terstond door aan Onze Minister wie het aangaat.   
+2.  In geval internationale verdragen of regelingen Onze Minister wie het aangaat verplichten tot het melden van een voorval aan een andere staat, de Commissie van de Europese Gemeenschappen of een internationale organisatie, geeft de raad de ontvangen melding terstond door aan Onze Minister wie het aangaat.  
 
 ### §  5  
 
@@ -230,145 +230,145 @@ a. de ernst van het ongeval of incident;
 b. het type vaartuig of lading dat betrokken is bij het ongeval of incident, en  
 
 c. de mogelijkheid dat het onderzoek ertoe bijdraagt dat toekomstige scheepvaartongevallen en -incidenten kunnen worden voorkomen.     
-2.  De raad start het onderzoek naar een scheepvaartongeval of -incident zo spoedig mogelijk, en in ieder geval binnen twee maanden, nadat het ongeval of incident plaatsvond.   
+2.  De raad start het onderzoek naar een scheepvaartongeval of -incident zo spoedig mogelijk, en in ieder geval binnen twee maanden, nadat het ongeval of incident plaatsvond.  
 
-### Artikel  10  
+###Artikel 10 
 
-1.  De gegevens die zijn verzameld of verkregen tijdens het onderzoek worden effectief gebruikt en naar behoren geanalyseerd.   
-2.  In geval van een onderzoek naar een scheepvaartongeval worden de bevindingen van het onderzoek zo spoedig mogelijk na afsluiting van het onderzoek bekendgemaakt.   
+1. De gegevens die zijn verzameld of verkregen tijdens het onderzoek worden effectief gebruikt en naar behoren geanalyseerd.
+2. In geval van een onderzoek naar een scheepvaartongeval worden de bevindingen van het onderzoek zo spoedig mogelijk na afsluiting van het onderzoek bekendgemaakt.
 
 ### Artikel  11  
 
-Bij ministeriële regeling worden regels gesteld over het toezenden van het rapport in concept aan andere staten, Aruba, Curaçao en Sint Maarten voor commentaar en over de voor het geven van commentaar te stellen termijn.  
+Bij ministeriële regeling worden regels gesteld over het toezenden van het rapport in concept aan andere staten, Aruba, Curaçao en Sint Maarten voor commentaar en over de voor het geven van commentaar te stellen termijn. 
 
 ### Artikel  11a  
 
-De raad voert het onderzoek naar een scheepvaartongeval, waarbij een zeeschip is betrokken, uit overeenkomstig de methodologie, bedoeld in artikel 2, onder e, van de Verordening nr. 1406/2002 van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2002 tot oprichting van een Europees Agentschap voor maritieme veiligheid (PbEG L 208). Afwijking van deze methodologie is mogelijk, voor zover de onderzoeker dit noodzakelijk acht voor het bereiken van de onderzoeksdoelstellingen.  
+De raad voert het onderzoek naar een scheepvaartongeval, waarbij een zeeschip is betrokken, uit overeenkomstig de methodologie, bedoeld in artikel 2, onder e, van de Verordening nr. 1406/2002 van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2002 tot oprichting van een Europees Agentschap voor maritieme veiligheid (PbEG L 208). Afwijking van deze methodologie is mogelijk, voor zover de onderzoeker dit noodzakelijk acht voor het bereiken van de onderzoeksdoelstellingen. 
 
 ### Artikel  11b  
 
-Bij een onderzoek naar een scheepvaartongeval, waarbij een zeeschip is betrokken, wordt voor aangelegenheden die niet reeds in de rijkswet en de daarop berustende bepalingen expliciet geregeld zijn, de Code of the International Standards and Recommended Practices for a Safety Investigation into a Marine Casualty or Marine Incident zoals vastgesteld bij resolutie MSC.255(84) van de International Maritime Organisation van 16 mei 2008 in acht genomen.  
+Bij een onderzoek naar een scheepvaartongeval, waarbij een zeeschip is betrokken, wordt voor aangelegenheden die niet reeds in de rijkswet en de daarop berustende bepalingen expliciet geregeld zijn, de Code of the International Standards and Recommended Practices for a Safety Investigation into a Marine Casualty or Marine Incident zoals vastgesteld bij resolutie MSC.255(84) van de International Maritime Organisation van 16 mei 2008 in acht genomen. 
 
-### §  6  
+###§ 6 
 
 ####Informatiemateriaal
 
-### Artikel  12  
+###Artikel 12 
 
-Indien, in geval van een luchtvaartongeval, door de staat van registratie, de staat van de exploitant, de staat van ontwerp of de staat van vervaardiging een verzoek wordt gedaan om het luchtvaartuig, zijn inhoud of enig ander bewijsmateriaal ongestoord te laten, hangende het onderzoek door een vertegenwoordiger van de verzoekende staat, neemt de raad alle benodigde maatregelen om aan dit verzoek tegemoet te komen, voorzover dit redelijk uitvoerbaar en verenigbaar met de juiste uitvoering van het onderzoek is en met dien verstande dat het luchtvaartuig mag worden verplaatst om er personen, dieren, post en kostbaarheden uit te halen, om vernietiging door vuur of andere oorzaken te voorkomen of om gevaar of hinder voor de luchtvaart, ander transport of mensen te voorkomen en het niet een overmatige vertraging van het weer in dienst nemen van het luchtvaartuig tot gevolg heeft.  
+Indien, in geval van een luchtvaartongeval, door de staat van registratie, de staat van de exploitant, de staat van ontwerp of de staat van vervaardiging een verzoek wordt gedaan om het luchtvaartuig, zijn inhoud of enig ander bewijsmateriaal ongestoord te laten, hangende het onderzoek door een vertegenwoordiger van de verzoekende staat, neemt de raad alle benodigde maatregelen om aan dit verzoek tegemoet te komen, voorzover dit redelijk uitvoerbaar en verenigbaar met de juiste uitvoering van het onderzoek is en met dien verstande dat het luchtvaartuig mag worden verplaatst om er personen, dieren, post en kostbaarheden uit te halen, om vernietiging door vuur of andere oorzaken te voorkomen of om gevaar of hinder voor de luchtvaart, ander transport of mensen te voorkomen en het niet een overmatige vertraging van het weer in dienst nemen van het luchtvaartuig tot gevolg heeft.
 
-### §  7  
+###§ 7 
 
 ####Toezenden rapport aan derden
 
 ### Artikel  13  
 
-Bij ministeriële regeling worden regels gesteld over het in daarbij aangewezen gevallen toezenden van het rapport, aan een buitenlandse staat, de Commissie van de Europese Gemeenschappen, het Europees Spoorwegbureau, genoemd in artikel 1 van verordening nr. 881/2004 van het Europees Parlement en de Raad van Europa van 29 april 2004 tot oprichting van een Europees Spoorwegbureau («Spoorwegbureauverordening») dan wel een internationale organisatie.  
+Bij ministeriële regeling worden regels gesteld over het in daarbij aangewezen gevallen toezenden van het rapport, aan een buitenlandse staat, de Commissie van de Europese Gemeenschappen, het Europees Spoorwegbureau, genoemd in artikel 1 van verordening nr. 881/2004 van het Europees Parlement en de Raad van Europa van 29 april 2004 tot oprichting van een Europees Spoorwegbureau («Spoorwegbureauverordening») dan wel een internationale organisatie. 
 
-### §  8  
+###§ 8 
 
 ####Onderzoek door een ander land
 
-### Artikel  14  
+###Artikel 14 
 
-1.  Indien een luchtvaartongeval of ernstig luchtvaartincident buiten Nederland, de territoriale wateren daaronder begrepen, een Nederlands luchtvaartuig betreft of een luchtvaartuig waarvan de exploitant in Nederland is gevestigd of waarvan Nederland de staat van ontwerp of vervaardiging is, geeft Onze Minister van Verkeer en Waterstaat zo spoedig mogelijk aan de staat van het voorval alle relevante informatie over het betrokken luchtvaartuig en zijn bemanning.   
-2.  In het geval, bedoeld in het eerste lid, deelt Onze Minister van Verkeer en Waterstaat de staat van het voorval ook mede of Nederland een vertegenwoordiger aanwijst. Indien Nederland dit doet, geeft bedoelde minister ook de naam van de vertegenwoordiger, bijzonderheden hoe met deze in contact kan worden getreden, alsmede de verwachte datum van aankomst van de vertegenwoordiger door.   
+1. Indien een luchtvaartongeval of ernstig luchtvaartincident buiten Nederland, de territoriale wateren daaronder begrepen, een Nederlands luchtvaartuig betreft of een luchtvaartuig waarvan de exploitant in Nederland is gevestigd of waarvan Nederland de staat van ontwerp of vervaardiging is, geeft Onze Minister van Verkeer en Waterstaat zo spoedig mogelijk aan de staat van het voorval alle relevante informatie over het betrokken luchtvaartuig en zijn bemanning.
+2. In het geval, bedoeld in het eerste lid, deelt Onze Minister van Verkeer en Waterstaat de staat van het voorval ook mede of Nederland een vertegenwoordiger aanwijst. Indien Nederland dit doet, geeft bedoelde minister ook de naam van de vertegenwoordiger, bijzonderheden hoe met deze in contact kan worden getreden, alsmede de verwachte datum van aankomst van de vertegenwoordiger door.
 
-### Artikel  15  
+###Artikel 15 
 
-Indien een luchtvaartongeval of ernstig luchtvaartincident buiten Nederland, de territoriale wateren daaronder begrepen, een luchtvaartuig betreft waarvan de exploitant in Nederland is gevestigd, stelt Onze Minister van Verkeer en Waterstaat zo spoedig mogelijk, met behulp van de meest geschikte en snelste middelen die beschikbaar zijn, de staat van het voorval en de staat van registratie op de hoogte van bijzonderheden inzake gevaarlijke stoffen aan boord van het luchtvaartuig.  
+Indien een luchtvaartongeval of ernstig luchtvaartincident buiten Nederland, de territoriale wateren daaronder begrepen, een luchtvaartuig betreft waarvan de exploitant in Nederland is gevestigd, stelt Onze Minister van Verkeer en Waterstaat zo spoedig mogelijk, met behulp van de meest geschikte en snelste middelen die beschikbaar zijn, de staat van het voorval en de staat van registratie op de hoogte van bijzonderheden inzake gevaarlijke stoffen aan boord van het luchtvaartuig.
 
-### Artikel  16  
+###Artikel 16 
 
-1.  Indien een onderzoek terzake van een luchtvaartongeval of ernstig luchtvaartincident met een ander dan een Nederlands luchtvaartuig waarvan de exploitant in Nederland is gevestigd of waarvan Nederland de staat van ontwerp of vervaardiging is, wordt ingesteld door de staat van registratie, geeft Onze Minister van Verkeer en Waterstaat desverzocht aan deze staat alle relevante informatie betreffende het betrokken luchtvaartuig en zijn bemanning.   
-2.  In het geval, bedoeld in het eerste lid, deelt Onze Minister van Verkeer en Waterstaat de staat van registratie, ook mee of Nederland een vertegenwoordiger aanwijst. Indien Nederland dit doet, geeft bedoelde minister ook de naam van de vertegenwoordiger, bijzonderheden hoe met deze in contact kan worden getreden, alsmede de verwachte datum van aankomst van de vertegenwoordiger door.   
+1. Indien een onderzoek terzake van een luchtvaartongeval of ernstig luchtvaartincident met een ander dan een Nederlands luchtvaartuig waarvan de exploitant in Nederland is gevestigd of waarvan Nederland de staat van ontwerp of vervaardiging is, wordt ingesteld door de staat van registratie, geeft Onze Minister van Verkeer en Waterstaat desverzocht aan deze staat alle relevante informatie betreffende het betrokken luchtvaartuig en zijn bemanning.
+2. In het geval, bedoeld in het eerste lid, deelt Onze Minister van Verkeer en Waterstaat de staat van registratie, ook mee of Nederland een vertegenwoordiger aanwijst. Indien Nederland dit doet, geeft bedoelde minister ook de naam van de vertegenwoordiger, bijzonderheden hoe met deze in contact kan worden getreden, alsmede de verwachte datum van aankomst van de vertegenwoordiger door.
 
-### Artikel  17  
+###Artikel 17 
 
-Indien de staat die een onderzoek verricht terzake van een luchtvaartongeval met een luchtvaartuig met een startmassa van meer dan 2250 kg dat in Nederland is ingeschreven, waarvan de exploitant in Nederland woont of waarvan Nederland de staat van ontwerp of vervaardiging is, verzoekt om deelneming door Nederland, wijst Onze Minister van Verkeer en Waterstaat een vertegenwoordiger terzake van het onderzoek aan.  
+Indien de staat die een onderzoek verricht terzake van een luchtvaartongeval met een luchtvaartuig met een startmassa van meer dan 2250 kg dat in Nederland is ingeschreven, waarvan de exploitant in Nederland woont of waarvan Nederland de staat van ontwerp of vervaardiging is, verzoekt om deelneming door Nederland, wijst Onze Minister van Verkeer en Waterstaat een vertegenwoordiger terzake van het onderzoek aan.
 
-### Artikel  18  
+###Artikel 18 
 
-Bij ministeriële regeling kunnen voorschriften worden gegeven omtrent de aanwijzing door Onze Minister van Verkeer en Waterstaat van vertegenwoordigers als bedoeld in de artikelen 14, tweede lid, 16, tweede lid, en 17.  
+Bij ministeriële regeling kunnen voorschriften worden gegeven omtrent de aanwijzing door Onze Minister van Verkeer en Waterstaat van vertegenwoordigers als bedoeld in de artikelen 14, tweede lid, 16, tweede lid, en 17.
 
-### Artikel  19  
+###Artikel 19 
 
-1.  De raad kan aan een onderzoek buiten Nederland, dat door een andere staat wordt ingesteld, deelnemen, voorzover die staat daarvoor toestemming geeft.   
-2.  In geval de raad overeenkomstig het eerste lid aan een onderzoek deelneemt, meldt hij dit vooraf aan Onze Minister wie het aangaat.   
-3.  Onze Minister van Verkeer en Waterstaat kan aan de raad opdracht geven deel te nemen aan een onderzoek naar een luchtvaartongeval of ernstig luchtvaartincident in een andere staat.   
-4.  Onze Minister van Verkeer en Waterstaat kan aan de raad opdracht geven deel te nemen aan een onderzoek dat door een andere staat wordt ingesteld naar een voorval met een Nederlands zeeschip.   
+1. De raad kan aan een onderzoek buiten Nederland, dat door een andere staat wordt ingesteld, deelnemen, voorzover die staat daarvoor toestemming geeft.
+2. In geval de raad overeenkomstig het eerste lid aan een onderzoek deelneemt, meldt hij dit vooraf aan Onze Minister wie het aangaat.
+3. Onze Minister van Verkeer en Waterstaat kan aan de raad opdracht geven deel te nemen aan een onderzoek naar een luchtvaartongeval of ernstig luchtvaartincident in een andere staat.
+4. Onze Minister van Verkeer en Waterstaat kan aan de raad opdracht geven deel te nemen aan een onderzoek dat door een andere staat wordt ingesteld naar een voorval met een Nederlands zeeschip.
 
-### Artikel  20  
+###Artikel 20 
 
-Op verzoek van de staat die een onderzoek terzake van een luchtvaartongeval of luchtvaartincident verricht, verschaft Onze Minister van Verkeer en Waterstaat alle relevante informatie die hij beschikbaar heeft.  
+Op verzoek van de staat die een onderzoek terzake van een luchtvaartongeval of luchtvaartincident verricht, verschaft Onze Minister van Verkeer en Waterstaat alle relevante informatie die hij beschikbaar heeft.
 
-### Artikel  21  
+###Artikel 21 
 
-1.  Indien voorafgaand aan een luchtvaartongeval of luchtvaartincident gebruik is gemaakt of normalerwijze gebruik zou moeten zijn gemaakt van faciliteiten of diensten in Nederland en Onze Minister van Verkeer en Waterstaat informatie heeft die wezenlijk is voor het onderzoek, verschaft hij deze aan de staat die het onderzoek verricht.   
-2.  Indien een onderzoek een luchtvaartongeval of luchtvaartincident betreft met een luchtvaartuig dat in Nederland is ingeschreven of waarvan de exploitant in Nederland is gevestigd, verschaft Onze Minister van Verkeer en Waterstaat op verzoek van de staat die het onderzoek verricht, de wezenlijke informatie waarover hij beschikt, over elke organisatie waarvan de activiteiten direct of indirect de vlucht van het vliegtuig kunnen hebben beïnvloed.   
+1. Indien voorafgaand aan een luchtvaartongeval of luchtvaartincident gebruik is gemaakt of normalerwijze gebruik zou moeten zijn gemaakt van faciliteiten of diensten in Nederland en Onze Minister van Verkeer en Waterstaat informatie heeft die wezenlijk is voor het onderzoek, verschaft hij deze aan de staat die het onderzoek verricht.
+2. Indien een onderzoek een luchtvaartongeval of luchtvaartincident betreft met een luchtvaartuig dat in Nederland is ingeschreven of waarvan de exploitant in Nederland is gevestigd, verschaft Onze Minister van Verkeer en Waterstaat op verzoek van de staat die het onderzoek verricht, de wezenlijke informatie waarover hij beschikt, over elke organisatie waarvan de activiteiten direct of indirect de vlucht van het vliegtuig kunnen hebben beïnvloed.
 
-### Artikel  22  
+###Artikel 22 
 
-1.  Ingeval sprake is van een luchtvaartongeval of ernstig luchtvaartincident met een Nederlands luchtvaartuig of een luchtvaartuig waarvan de exploitant in Nederland is gevestigd, en het luchtvaartuig in een andere staat landt dan die waarin het ongeval of het incident zich heeft voorgedaan, verschaft Onze Minister van Verkeer en Waterstaat, op verzoek van de staat die het onderzoek verricht, aan deze staat de opnamen van de vluchtrecorder en, indien nodig, van de verbonden vluchtrecorders.   
-2.  In geval sprake is van een ongeval met een Nederlands zeeschip op zee in onder jurisdictie van een andere lidstaat van de Europese Unie vallende wateren en die andere lidstaat naar het ongeval een onderzoek instelt, stelt Onze Minister van Verkeer en Waterstaat de gegevens die zijn verzameld met de reisgegevensrecorder ter beschikking van die andere lidstaat.   
+1. Ingeval sprake is van een luchtvaartongeval of ernstig luchtvaartincident met een Nederlands luchtvaartuig of een luchtvaartuig waarvan de exploitant in Nederland is gevestigd, en het luchtvaartuig in een andere staat landt dan die waarin het ongeval of het incident zich heeft voorgedaan, verschaft Onze Minister van Verkeer en Waterstaat, op verzoek van de staat die het onderzoek verricht, aan deze staat de opnamen van de vluchtrecorder en, indien nodig, van de verbonden vluchtrecorders.
+2. In geval sprake is van een ongeval met een Nederlands zeeschip op zee in onder jurisdictie van een andere lidstaat van de Europese Unie vallende wateren en die andere lidstaat naar het ongeval een onderzoek instelt, stelt Onze Minister van Verkeer en Waterstaat de gegevens die zijn verzameld met de reisgegevensrecorder ter beschikking van die andere lidstaat.
 
 ### Artikel  23  
 
 1.  Op verzoek van een andere lidstaat van de Europese Unie of een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte die een onderzoek naar een luchtvaartongeval, naar een ernstig luchtvaartincident of naar een luchtvaartincident leidt, kan Onze Minister van Verkeer en Waterstaat de raad opdragen, binnen de grenzen van zijn mogelijkheden, kosteloos bijstand te verlenen.   
 2.  Ingeval een luchtvaartongeval heeft plaatsgevonden in volle zee in de nabijheid van Nederland, geeft Onze Minister van Verkeer en Waterstaat aan de staat die het onderzoek verricht alle mogelijke bijstand.   
-3.  Op verzoek van Aruba, Curaçao of Sint Maarten kan Onze Minister van Verkeer en Waterstaat de raad opdragen, binnen de grenzen van zijn mogelijkheden, bijstand te verlenen aan een vanwege de autoriteiten van een van die landen verricht onderzoek betreffende een scheepvaartongeval.   
+3.  Op verzoek van Aruba, Curaçao of Sint Maarten kan Onze Minister van Verkeer en Waterstaat de raad opdragen, binnen de grenzen van zijn mogelijkheden, bijstand te verlenen aan een vanwege de autoriteiten van een van die landen verricht onderzoek betreffende een scheepvaartongeval.  
 
-### §  9  
+###§ 9 
 
 ####Verhouding tot onderzoek met het oog op het opleggen van sancties
 
-### Artikel  24  
+###Artikel 24 
 
-1.  Ter bevordering van de coördinatie en het overleg maken de raad en het openbaar ministerie in Nederland, binnen een half jaar na inwerkingtreding van de rijkswet, afspraken over de samenwerking en informatie-uitwisseling in de gevallen waarin zowel de raad een onderzoek instelt naar een voorval als ook ten aanzien van hetzelfde voorval een opsporingsonderzoek wordt ingesteld met het oog op het opleggen van een strafrechtelijke sanctie. De afspraken behoeven de goedkeuring van Onze Minister en Onze Minister van Justitie.   
-2.  De afspraken over samenwerking en informatie-uitwisseling worden neergelegd in een samenwerkingsprotocol en omvatten in ieder geval: 
+1. Ter bevordering van de coördinatie en het overleg maken de raad en het openbaar ministerie in Nederland, binnen een half jaar na inwerkingtreding van de rijkswet, afspraken over de samenwerking en informatie-uitwisseling in de gevallen waarin zowel de raad een onderzoek instelt naar een voorval als ook ten aanzien van hetzelfde voorval een opsporingsonderzoek wordt ingesteld met het oog op het opleggen van een strafrechtelijke sanctie. De afspraken behoeven de goedkeuring van Onze Minister en Onze Minister van Justitie.
+2. De afspraken over samenwerking en informatie-uitwisseling worden neergelegd in een samenwerkingsprotocol en omvatten in ieder geval:
 
-a. de wijze waarop informatie wordt uitgewisseld over gelijktijdig lopende onderzoeken;  
+a.de wijze waarop informatie wordt uitgewisseld over gelijktijdig lopende onderzoeken;
 
-b. hoe wordt omgegaan met voorwerpen en documenten die van belang zijn voor de onderzoeken, het horen van personen en noodzakelijk geachte secties op lijken;  
+b.hoe wordt omgegaan met voorwerpen en documenten die van belang zijn voor de onderzoeken, het horen van personen en noodzakelijk geachte secties op lijken;
 
-c. het wederzijds ter beschikking stellen van zaken die voor de onderzoeken van belang zijn en de teruggave van die zaken;  
+c.het wederzijds ter beschikking stellen van zaken die voor de onderzoeken van belang zijn en de teruggave van die zaken;
 
-d. de gevallen waarin en de wijze waarop ten aanzien van onderzoeken aan voorwerpen wordt samengewerkt;  
+d.de gevallen waarin en de wijze waarop ten aanzien van onderzoeken aan voorwerpen wordt samengewerkt;
 
-e. de standaardprocedure die gehanteerd wordt wanneer zich een voorval daadwerkelijk voordoet en de wijze waarop geschillen worden geregeld.     
-3.  Indien in een concreet geval zowel de raad een onderzoek instelt naar een voorval als een onderzoek wordt ingesteld met het oog op het opleggen van een strafrechtelijke sanctie, plegen de raad en het openbaar ministerie in Nederland, met inachtneming van het samenwerkingsprotocol, overleg over de inrichting van beide onderzoeken. In het overleg worden in ieder geval afspraken gemaakt over de inhoud van de te verrichten onderzoekshandelingen, de planning van deze onderzoekshandelingen in de tijd, de inbeslagneming van zaken en de instelling van een periodiek afstemmingsoverleg gedurende beide onderzoeken. De raad en het openbaar ministerie in Nederland kunnen zich bij het overleg laten vertegenwoordigen door personen onderscheidenlijk opsporingsdiensten die de feitelijke leiding hebben bij de onderzoeken.   
+e.de standaardprocedure die gehanteerd wordt wanneer zich een voorval daadwerkelijk voordoet en de wijze waarop geschillen worden geregeld.
+3. Indien in een concreet geval zowel de raad een onderzoek instelt naar een voorval als een onderzoek wordt ingesteld met het oog op het opleggen van een strafrechtelijke sanctie, plegen de raad en het openbaar ministerie in Nederland, met inachtneming van het samenwerkingsprotocol, overleg over de inrichting van beide onderzoeken. In het overleg worden in ieder geval afspraken gemaakt over de inhoud van de te verrichten onderzoekshandelingen, de planning van deze onderzoekshandelingen in de tijd, de inbeslagneming van zaken en de instelling van een periodiek afstemmingsoverleg gedurende beide onderzoeken. De raad en het openbaar ministerie in Nederland kunnen zich bij het overleg laten vertegenwoordigen door personen onderscheidenlijk opsporingsdiensten die de feitelijke leiding hebben bij de onderzoeken.
 
-### Artikel  25  
+###Artikel 25 
 
-Ter bevordering van de coördinatie en het overleg maken de raad en Onze Minister wie het aangaat, binnen een half jaar na inwerkingtreding van de rijkswet, afspraken over de samenwerking en informatie-uitwisseling in de gevallen waarin zowel de raad een onderzoek instelt naar een voorval als ook ten aanzien van hetzelfde voorval het opleggen van een bestuurlijke sanctie wordt overwogen. Artikel 24, tweede en derde lid, is van overeenkomstige toepassing.  
+Ter bevordering van de coördinatie en het overleg maken de raad en Onze Minister wie het aangaat, binnen een half jaar na inwerkingtreding van de rijkswet, afspraken over de samenwerking en informatie-uitwisseling in de gevallen waarin zowel de raad een onderzoek instelt naar een voorval als ook ten aanzien van hetzelfde voorval het opleggen van een bestuurlijke sanctie wordt overwogen. Artikel 24, tweede en derde lid, is van overeenkomstige toepassing.
 
-### §  10  
+###§ 10 
 
 ####Slotbepalingen
 
-### Artikel  26  
+###Artikel 26 
 
-Wijzigt het Besluit Politieregisters.   
+Wijzigt het Besluit Politieregisters.
 
-### Artikel  27  
+###Artikel 27 
 
-1.  Behoudens het bepaalde in het tweede lid, treedt dit besluit in werking op het krachtens [artikel 97, eerste lid, eerste volzin, van de rijkswet](../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md) vastgestelde tijdstip.   
-2.  Wat betreft het onderzoek naar ongevallen en incidenten met een zeeschip, niet zijnde een oorlogsschip, marinehulpschip of ander schip dat in gebruik is voor de uitvoering van de militaire taak, treedt dit besluit in werking op een bij koninklijk besluit te bepalen tijdstip.   
+1. Behoudens het bepaalde in het tweede lid, treedt dit besluit in werking op het krachtens [artikel 97, eerste lid, eerste volzin, van de rijkswet](../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md) vastgestelde tijdstip.
+2. Wat betreft het onderzoek naar ongevallen en incidenten met een zeeschip, niet zijnde een oorlogsschip, marinehulpschip of ander schip dat in gebruik is voor de uitvoering van de militaire taak, treedt dit besluit in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-### Artikel  28  
+###Artikel 28 
 
-Dit besluit wordt aangehaald als: Besluit Onderzoeksraad voor veiligheid.  
+Dit besluit wordt aangehaald als: Besluit Onderzoeksraad voor veiligheid.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-'s-Gravenhage 
-10 december 2004  
-Beatrix  
+'s-Gravenhage
+10 december 2004
+Beatrix
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties , 
-J. W. Remkes   
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties ,
+J. W.Remkes
 
-de *drieëntwintigste* december 2004 
+de *drieëntwintigste* december 2004
 
-De Minister van Justitie , 
-J. P. H. Donner    
+De Minister van Justitie ,
+J. P. H.Donner
