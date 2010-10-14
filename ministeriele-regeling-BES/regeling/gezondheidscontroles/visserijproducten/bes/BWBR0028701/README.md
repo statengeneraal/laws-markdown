@@ -4,7 +4,7 @@
 
 ### Artikel  1  
 
-De bevoegde instantie stelt controles in ten einde na te gaan of tijdens het totale proces van de behandeling van visserijproducten binnen het grondgebied van de openbare lichamen Bonaire, Sint Eustatius en Saba aan de bij het Besluit visserij producten 1999 BES en andere toepasselijke regelingen gegeven voorschriften wordt voldaan.  
+De bevoegde instantie stelt controles in ten einde na te gaan of tijdens het totale proces van de behandeling van visserijproducten binnen het grondgebied van de openbare lichamen Bonaire, Sint Eustatius en Saba aan de bij het Besluit visserij producten 1999 BES en andere toepasselijke regelingen gegeven voorschriften wordt voldaan. 
 
 ### Artikel  2  
 
@@ -26,16 +26,16 @@ c. de inrichtingen, met inbegrip van fabrieksvaartuigen, met dien verstande dat 
 
 5. de merken en identificaties op de juiste wijze op de verpakkingen worden aangebracht;    
 
-d. de opslag en het vervoer.    
+d. de opslag en het vervoer.   
 
 ### Artikel  3  
 
-De bevoegde instantie ziet erop toe dat de personen, belast met de controle, de noodzakelijke scholing heeft gekregen ten einde in staat te zijn om de door een ondernemer ingediende documenten betreffende de in diens inrichting toegepaste interne controlesystemen te onderzoeken en op grond daarvan over de deugdelijkheid of ondeugdelijkheid en de eventuele specifieke gebreken van de voor die inrichting door of namens de ondernemer vastgestelde regelingen inzake interne controle een oordeel uit te spreken.  
+De bevoegde instantie ziet erop toe dat de personen, belast met de controle, de noodzakelijke scholing heeft gekregen ten einde in staat te zijn om de door een ondernemer ingediende documenten betreffende de in diens inrichting toegepaste interne controlesystemen te onderzoeken en op grond daarvan over de deugdelijkheid of ondeugdelijkheid en de eventuele specifieke gebreken van de voor die inrichting door of namens de ondernemer vastgestelde regelingen inzake interne controle een oordeel uit te spreken. 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van de dag na die der uitgifte van het Publicatieblad waarin zij geplaatst is en werkt terug tot en met 9 november 1998.  
+Deze regeling treedt in werking met ingang van de dag na die der uitgifte van het Publicatieblad waarin zij geplaatst is en werkt terug tot en met 9 november 1998. 
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Regeling gezondheidscontroles visserijproducten BES.  
+Deze regeling wordt aangehaald als: Regeling gezondheidscontroles visserijproducten BES. 

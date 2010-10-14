@@ -6,21 +6,21 @@
 
 In deze regeling wordt verstaan onder: 
 
-a. *de wet:* de Opiumwet 1960 BES;  
+a.  *de wet:* de Opiumwet 1960 BES;  
 
-b. *de Inspecteur:* de Inspecteur voor Geneesmiddelen;  
+b.  *de Inspecteur:* de Inspecteur voor Geneesmiddelen;  
 
-c. *middel:* elke stof, of enige bereiding daarvan, als bedoeld in de artikelen 3, 3a en 4 van de wet of aangewezen krachtens artikel 3, het eerste lid, onder f, van de wet.  
+c.  *middel:* elke stof, of enige bereiding daarvan, als bedoeld in de artikelen 3, 3a en 4 van de wet of aangewezen krachtens artikel 3, het eerste lid, onder f, van de wet.  
 
-d. *gevestigde apotheker:* apotheker, ingeschreven in het register van apothekers die de artsenijbereidkunde uitoefenen, zoals bedoeld in artikel 7, eerste lid van de Wet op de geneesmiddelenvoorziening BES;  
+d.  *gevestigde apotheker:* apotheker, ingeschreven in het register van apothekers die de artsenijbereidkunde uitoefenen, zoals bedoeld in artikel 7, eerste lid van de Wet op de geneesmiddelenvoorziening BES;  
 
-e. *het verdrag:* het op 30 maart 1961 te New York tot stand gekomen Enkelvoudig Verdrag inzake verdovende middelen (Trb. 1963, 81), zoals gewijzigd bij het op 25 maart 1972 te Genève tot stand gekomen Protocol tot wijziging van dat verdrag (Trb. 1987, 90), dan wel het op 21 februari 1971 te Wenen tot stand gekomen Verdrag inzake psychotrope stoffen (Trb. 1989, 129).    
+e.  *het verdrag:* het op 30 maart 1961 te New York tot stand gekomen Enkelvoudig Verdrag inzake verdovende middelen (Trb. 1963, 81), zoals gewijzigd bij het op 25 maart 1972 te Genève tot stand gekomen Protocol tot wijziging van dat verdrag (Trb. 1987, 90), dan wel het op 21 februari 1971 te Wenen tot stand gekomen Verdrag inzake psychotrope stoffen (Trb. 1989, 129).   
 
 ### Artikel  2  
 
 1.  Gevestigde apothekers mogen middelen uitsluitend afleveren op een recept van een geneeskundige, een tandheelkundige of een diergeneeskundige en slechts indien het recept voldoet aan de eisen gesteld in artikel 3 van deze regeling.   
 2.  Het eerste lid is niet van toepassing in gevallen waarin de aflevering geen uitstel gedoogt en de apotheker zich voldoende zekerheid heeft verschaft dat gevaar voor misbruik niet bestaat of kan ontstaan. De apotheker houdt van deze aflevering een nauwkeurig register bij waarin vermeld wordt welk middel, in welke hoeveelheid en aan wie de aflevering heeft plaats gevonden.   
-3.  Apotheekhoudende geneeskundigen mogen middelen ten behoeve van de tot hun geneeskundige praktijk behoren de personen eveneens slechts afleveren op een recept dat voldoet aan de eisen gesteld in artikel 3 van deze beschikking.   
+3.  Apotheekhoudende geneeskundigen mogen middelen ten behoeve van de tot hun geneeskundige praktijk behoren de personen eveneens slechts afleveren op een recept dat voldoet aan de eisen gesteld in artikel 3 van deze beschikking.  
 
 ### Artikel  3  
 
@@ -65,18 +65,18 @@ b. Het recept waarop een der onder a. bedoelde bereidingen is voorgeschreven die
 
 4. een omschrijving van het gebruik van de bereiding;  
 
-5. de handtekening van degene die voorschrijft.       
+5. de handtekening van degene die voorschrijft.      
 
 ### Artikel  4  
 
-De in artikel 7, lid 2 onder a en b van de wet genoemde personen moeten bij de aflevering van de in artikel 1 van deze beschikking bedoelde middelen, de navolgende voorschriften in acht nemen: De etiketten, waaronder enig middel of preparaat dat een middel bevat, te koop wordt aangeboden of wordt afgeleverd, moeten onverminderd het bepaalde in artikel 18 van de Wet op de geneesmiddelenvoorziening BES, het gewicht en het percentage van het middel aangeven. Deze etiketten moeten ook de naam aangeven in overeenstemming met de naam, waarmede het middel is aangeduid in de wet of in een ministeriële regeling op grond van artikel 3, eerste lid onder f van de wet.  
+De in artikel 7, lid 2 onder a en b van de wet genoemde personen moeten bij de aflevering van de in artikel 1 van deze beschikking bedoelde middelen, de navolgende voorschriften in acht nemen: De etiketten, waaronder enig middel of preparaat dat een middel bevat, te koop wordt aangeboden of wordt afgeleverd, moeten onverminderd het bepaalde in artikel 18 van de Wet op de geneesmiddelenvoorziening BES, het gewicht en het percentage van het middel aangeven. Deze etiketten moeten ook de naam aangeven in overeenstemming met de naam, waarmede het middel is aangeduid in de wet of in een ministeriële regeling op grond van artikel 3, eerste lid onder f van de wet. 
 
 ### Artikel  5  
 
 1.  Gevestigde apothekers zijn verplicht de recepten waarop zij een middel hebben afgeleverd gedurende ten minste zes jaar afzonderlijk in de apotheek te bewaren, gerangschikt achtereenvolgens op naam van degene die het recept heeft voorgeschreven, op naam van het middel en op datum van aflevering; in geval het een bereiding betreft die meer dan één middel bevat, moet ter naleving van de voorgaande volzin, het daartoe benodigde aantal kopieën van het recept worden gemaakt.   
 2.  De in het eerste lid bedoelde recepten moeten gedurende de in dat lid genoemde periode door gevestigde apothekers ter directe beschikking en inzage van de Inspecteur en de technische ambtenaren van de Inspecteur worden gehouden.   
 3.  Gevestigde apothekers zijn verplicht kopieën van de recepten, bedoeld in het eerste lid, welke betrekking hebben op gevallen, zoals bedoeld in artikel 3, eerste lid onder B en C, op de eerste dag van elk kwartaal bij aangetekende brief te verzenden aan de Inspecteur.   
-4.  Apotheekhoudende geneeskundigen zijn verplicht van de door hen afgeleverde middelen, met uitzondering van preparaten bedoeld in artikel 5a, een ten genoegen van de Inspecteur ingerichte en bijgehouden administratie te voeren, waaruit blijkt welke middelen zij hebben afgeleverd en aan wie de aflevering heeft plaatsgevonden. De bescheiden, betrekking hebbende op de in de eerste volzin bedoelde administratie en de recepten waarop de in die volzin bedoelde middelen zijn voorgeschreven, moeten door de apotheekhoudende geneeskundigen gedurende ten minste zes jaren afzonderlijk worden bewaard en gedurende die periode ter directe beschikking en inzage van de Inspecteur en de technische ambtenaren van de Inspecteur worden gehouden.   
+4.  Apotheekhoudende geneeskundigen zijn verplicht van de door hen afgeleverde middelen, met uitzondering van preparaten bedoeld in artikel 5a, een ten genoegen van de Inspecteur ingerichte en bijgehouden administratie te voeren, waaruit blijkt welke middelen zij hebben afgeleverd en aan wie de aflevering heeft plaatsgevonden. De bescheiden, betrekking hebbende op de in de eerste volzin bedoelde administratie en de recepten waarop de in die volzin bedoelde middelen zijn voorgeschreven, moeten door de apotheekhoudende geneeskundigen gedurende ten minste zes jaren afzonderlijk worden bewaard en gedurende die periode ter directe beschikking en inzage van de Inspecteur en de technische ambtenaren van de Inspecteur worden gehouden.  
 
 ### Artikel  5a  
 
@@ -137,7 +137,7 @@ f. preparaten van difenoxylaat die per doseringseenheid niet meer dan 2,5 mg dif
 
 g. pulvis ipecacuanhae et opii compositus, bestaande uit 10 procent opium in poedervorm, 10 procent ipecacuanhawortel in poedervorm, goed vermengd met 80 procent van een ander bestanddeel in poedervorm dat geen middel als bedoeld in artikel 3, eerste lid, onder f, van de wet bevat;  
 
-h. mengsels van de preparaten, bedoeld onder a tot en met g, met enig materiaal dat geen middel als bedoeld in artikel 3, eerste lid, onder f, van de wet bevat.     
+h. mengsels van de preparaten, bedoeld onder a tot en met g, met enig materiaal dat geen middel als bedoeld in artikel 3, eerste lid, onder f, van de wet bevat.    
 
 ### Artikel  6  
 
@@ -146,7 +146,7 @@ h. mengsels van de preparaten, bedoeld onder a tot en met g, met enig materiaal 
 a. de inslag, met datum, naam, leverancier en hoeveelheid;  
 
 b. de aflevering met datum, naam, adres en woonplaats van de geneeskundige, tandheelkundige of diergeneeskundige, naam en woonplaats van de patiënt of eigenaar van het dier, de vorm van aflevering, de hoeveelheid en het nummer van het recept. De registers moeten ten genoegen van de Inspecteur zijn ingericht en bijgehouden en dienen ten alle tijde in de apotheek ter directe bezichtiging en inzage van de Inspecteur en de technische ambtenaren van de Inspecteur te worden gehouden.     
-2.  Het bepaalde in het vorige lid onder b is niet van toepassing op bereidingen van middelen genoemd in artikel 5a van deze beschikking.   
+2.  Het bepaalde in het vorige lid onder b is niet van toepassing op bereidingen van middelen genoemd in artikel 5a van deze beschikking.  
 
 ### Artikel  7  
 
@@ -160,7 +160,7 @@ Het bestellen zoals bedoeld in artikel 5a van de wet, mag slechts geschieden do
 
 4°. de naam van de onderneming of instelling te wiens behoeve de bestelling wordt verricht;  
 
-5°. de naam, woonplaats en ondertekening van de persoon, die namens de onder 4° bedoelde onderneming de bestelling verricht.    
+5°. de naam, woonplaats en ondertekening van de persoon, die namens de onder 4° bedoelde onderneming de bestelling verricht.   
 
 ### Artikel  8  
 
@@ -176,25 +176,25 @@ Het bestellen zoals bedoeld in artikel 5a van de wet, mag slechts geschieden do
 4.  Het is toegestaan het in artikel 7 bedoelde geschrift en het in het eerste lid van dit artikel bedoelde ontvangstbewijs, te kombineren.   
 5.  Gevestigde apothekers en apotheekhoudende geneeskundigen zijn verplicht persoonlijk binnen drie dagen, de zaterdagen en de zon- en erkende feestdagen niet meegerekend, na de datum van ontvangst van een hoeveelheid van een middel te controleren of met betrekking tot hetgeen aan hem werd geleverd overeenstemming bestaat met hetgeen daaromtrent in het ontvangstbewijs is vermeld; indien zodanige overeenstemming niet bestaat, geven zij hiervan binnen de in de eerste volzin genoemde termijn schriftelijk kennis aan degene die de hoeveelheid heeft afgeleverd. Ingeval het een postzending betreft, wordt de ontvangstbrief zonder ondertekening met de schriftelijke kennisgeving meegezonden.   
 6.  Gevestigde apothekers en apotheekhoudende geneeskundigen zijn verplicht kopieën van het in artikel 7 bedoelde geschrift en het in artikel 8 bedoelde ontvangstbewijs afzonderlijk en op naam van het middel, onderscheidenlijk op naam van het middel welke de bereiding bevat, in chronologische volgorde naar de datum van ontvangst gedurende ten minste 6 jaren te bewaren en gedurende die periode ter directe beschikking van de Inspecteur en de technische ambtenaren van de Inspecteur te houden.   
-7.  De leden 1 t/m 6 zijn van overeenkomstige toepassing ten aanzien van gevestigde diergeneeskundigen.   
+7.  De leden 1 t/m 6 zijn van overeenkomstige toepassing ten aanzien van gevestigde diergeneeskundigen.  
 
 ### Artikel  9  
 
-a. Eveneens dient opgave gedaan te worden van die hoeveelheden middel, preparaat of bereiding die teloor is gegaan, dan wel vernietigd is gedurende het voorgaande kalenderjaar, onder vermelding b. van reden en omstandigheid, Gevestigde apothekers, apotheekhoudende geneeskundigen en gevestigde diergeneeskundigen en houders van een verlof zoals bedoeld in artikel 6 eerste lid en 7 eerste lid van de wet, zijn verplicht, op een door de Inspecteur vast te stellen wijze, schriftelijk opgave te doen van de bij hen op 31 december van elk kalenderjaar aanwezige voorraad middelen. Tevens dienen zij daarbij afzonderlijk schriftelijk opgaaf te doen van elk middel of elke preparaat dat, een middel, als bedoeld in de artikelen 3 en 4 van de wet, bevat en wel zodanig dat in de schriftelijke opgave worden vermeld de hoeveelheid inslag en aflevering of verkoop gedurende het voorgaande kalenderjaar.    
+a. Eveneens dient opgave gedaan te worden van die hoeveelheden middel, preparaat of bereiding die teloor is gegaan, dan wel vernietigd is gedurende het voorgaande kalenderjaar, onder vermelding b. van reden en omstandigheid, Gevestigde apothekers, apotheekhoudende geneeskundigen en gevestigde diergeneeskundigen en houders van een verlof zoals bedoeld in artikel 6 eerste lid en 7 eerste lid van de wet, zijn verplicht, op een door de Inspecteur vast te stellen wijze, schriftelijk opgave te doen van de bij hen op 31 december van elk kalenderjaar aanwezige voorraad middelen. Tevens dienen zij daarbij afzonderlijk schriftelijk opgaaf te doen van elk middel of elke preparaat dat, een middel, als bedoeld in de artikelen 3 en 4 van de wet, bevat en wel zodanig dat in de schriftelijke opgave worden vermeld de hoeveelheid inslag en aflevering of verkoop gedurende het voorgaande kalenderjaar.   
 
 ### Artikel  10  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  11  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  12  
 
-Deze regeling wordt aangehaald als: Regeling houdende nieuwe voorschriften met betrekking tot de aflevering en het voorschrijven van middelen als bedoeld in de artikelen 3 en 4 van de Opiumwet 1960 BES.  
+Deze regeling wordt aangehaald als: Regeling houdende nieuwe voorschriften met betrekking tot de aflevering en het voorschrijven van middelen als bedoeld in de artikelen 3 en 4 van de Opiumwet 1960 BES. 
 
-### Bijlage  
+### Bijlage 
 
 ####behorende bij artikel 5a  van de Regeling houdende nieuwe voorschriften met betrekking tot de aflevering en het voorschrijven van middelen als bedoeld in de artikelen 3 en 4 van de Opiumwet 1960 BES
 

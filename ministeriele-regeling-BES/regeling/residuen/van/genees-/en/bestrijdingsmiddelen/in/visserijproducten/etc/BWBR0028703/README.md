@@ -30,12 +30,12 @@ Van de navolgende bestrijdingsmiddelen mag het residu in de erbij vermelde visse
 
 ### Artikel  3  
 
-Het gehalte aan residuen van bestrijdingsmiddelen wordt bepaald in het eetbare deel.  
+Het gehalte aan residuen van bestrijdingsmiddelen wordt bepaald in het eetbare deel. 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van de dag na die der uitgifte van het Publicatieblad waarin zij geplaatst is en werkt terug tot en met 9 november 1998.  
+Deze regeling treedt in werking met ingang van de dag na die der uitgifte van het Publicatieblad waarin zij geplaatst is en werkt terug tot en met 9 november 1998. 
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Regeling residuen van genees- en bestrijdingsmiddelen in visserijproducten BES.  
+Deze regeling wordt aangehaald als: Regeling residuen van genees- en bestrijdingsmiddelen in visserijproducten BES. 

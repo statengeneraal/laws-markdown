@@ -35,6 +35,6 @@ b. Van wien hebt Ge deze inlichtingen ontvangen?
 
 8. Werd patiënt(e) reeds eerder in een gesticht, kliniek of andere inrichting verpleegd, zoo ja waar en wanneer?  
 
-9. Welke mededeelingen en wenken acht Ge nog van belang? De ondergeteekende, bevoegd tot uitoefenen der geneeskunst hiertelande, wonende te tel. no. , verklaart in aansluiting aan zijne antwoorden op de gestelde vragen, dat voornoemde persoon lijdende is aan krankzinnigheid <sup> 1  Zoo mogelijk hier vermelden den vorm van krankzinnigheid.  </sup> voorts, dat zijne (hare) plaatsing in een gesticht voor krankzinnigen noodzakelijk respectievelijk wenschelijk is. <sup> 2  Onderstrepen wat bedoeld wordt.  </sup> Dagteekening: Handteekening:    
+9. Welke mededeelingen en wenken acht Ge nog van belang? De ondergeteekende, bevoegd tot uitoefenen der geneeskunst hiertelande, wonende te tel. no. , verklaart in aansluiting aan zijne antwoorden op de gestelde vragen, dat voornoemde persoon lijdende is aan krankzinnigheid<sup> 1 Zoo mogelijk hier vermelden den vorm van krankzinnigheid. </sup>  voorts, dat zijne (hare) plaatsing in een gesticht voor krankzinnigen noodzakelijk<sup> 2 Onderstrepen wat bedoeld wordt. </sup>respectievelijk wenschelijk is. Dagteekening: Handteekening:    
 
 2°. te bepalen, dat deze beschikking in de Staatscourant zal worden opgenomen.      

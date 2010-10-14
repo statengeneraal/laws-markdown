@@ -4,7 +4,7 @@
 
 ### Artikel  1  
 
-Als middelen als bedoeld in artikel 3, eerste lid, onder f, van de Opiumwet 1960 BES worden aangewezen de middelen, die zijn opgenomen in de bij deze regeling behorende bijlage. De bijlage bevat in lijst I een opsomming van harddrugs en in lijst II van soft drugs.  
+Als middelen als bedoeld in artikel 3, eerste lid, onder f, van de Opiumwet 1960 BES worden aangewezen de middelen, die zijn opgenomen in de bij deze regeling behorende bijlage. De bijlage bevat in lijst I een opsomming van harddrugs en in lijst II van soft drugs. 
 
 ### Artikel  2  
 
@@ -16,35 +16,35 @@ b. de Ministeriële beschikking van de 22ste mei 1987 (P.B. 1987, no. 50) tot va
 
 c. de Ministeriële beschikking van de 10de augustus 1988 (P.B. 1988, no. 58) ter uitvoering van artikel 3, eerste lid onder g van de van de Opiumlandsverordening (P.B. 1960, no. 65); en  
 
-d. de Ministeriële beschikking van de 23ste juli 1990 (P.B. 1990, no. 59) ter uitvoering van artikel 3, eerste lid, onder g van de van de Opiumlandsverordening (P.B. 1960, no. 65).    
+d. de Ministeriële beschikking van de 23ste juli 1990 (P.B. 1990, no. 59) ter uitvoering van artikel 3, eerste lid, onder g van de van de Opiumlandsverordening (P.B. 1960, no. 65).   
 
 ### Artikel  3  
 
-Deze regeling wordt in de Staatscourant geplaatst.  
+Deze regeling wordt in de Staatscourant geplaatst. 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van de dag na die van uitgifte van de Staatscourant, waarin zij geplaatst is.  
+Deze regeling treedt in werking met ingang van de dag na die van uitgifte van de Staatscourant, waarin zij geplaatst is. 
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Regeling van 6 januari 2005 ter uitvoering van artikel 3, eerste lid, onder f, Opiumwet 1960 BES.  
+Deze regeling wordt aangehaald als: Regeling van 6 januari 2005 ter uitvoering van artikel 3, eerste lid, onder f, Opiumwet 1960 BES. 
 
 ####Bijlage behorende bij de Regeling van 6 januari 2005 ter uitvoering van artikel 3, eerste lid, onder f, Opiumwet 1960 BES
 
 Lijst I 
 
-| International Non-proprietary Name (INN) *  | andere benamingen  | nadere omschrijving  |
+| International Non-proprietary Name (INN) *   | andere benamingen  | nadere omschrijving  |
 |:---|:---|:---|
 | acetorfine  | –  | --- |
-| –  | acetyl- *alfa* -methylfentanyl  | *N* -[1-(*alfa* -methylfenethyl)-4-piperidyl]-acetanilide  |
-| –  | acetyldihydrocodeïne  | 4,5-epoxy-3-methoxy- *N* -methylmorfinan-6-yl-acetaat  |
+| –  | acetyl-*alfa*-methylfentanyl  |  *N*-[1-(*alfa*-methylfenethyl)-4-piperidyl]-acetanilide  |
+| –  | acetyldihydrocodeïne  | 4,5-epoxy-3-methoxy-*N*-methylmorfinan-6-yl-acetaat  |
 | acetylmethadol  | –  | --- |
 | alfacetylmethadol  | –  | --- |
 | alfameprodine  | –  | --- |
 | alfamethadol  | –  | --- |
-| --- | *alfa* -methylfentanyl  | *N* -[1(*alfa* -methylfenethyl)-4-piperidyl]propionanilide  |
-| --- | *alfa* -methylthiofentanyl  | *N* -[1-[1-methyl-2-(2-thienyl)ethyl]-4-piperidyl]propionanilide  |
+| --- |  *alfa*-methylfentanyl  |  *N*-[1(*alfa*-methylfenethyl)-4-piperidyl]propionanilide  |
+| --- |  *alfa*-methylthiofentanyl  |  *N*-[1-[1-methyl-2-(2-thienyl)ethyl]-4-piperidyl]propionanilide  |
 | alfaprodine  | –  | --- |
 | alfentanil  | –  | --- |
 | allylprodine  | –  | --- |
@@ -52,10 +52,10 @@ Lijst I
 | amineptine  | --- | 7-[(10,11-dihydro-5H-dibenzo[a,d]cyclohepten-5-yl)amino]heptanoic acid  |
 | anileridine  | –  | --- |
 | benzethidine  | –  | --- |
-| –  | benzylmorfine  | 3-benzoyloxy-4,5-epoxy- *N* -methyl-7-morfineen-6-ol  |
+| –  | benzylmorfine  | 3-benzoyloxy-4,5-epoxy-*N*-methyl-7-morfineen-6-ol  |
 | betacetylmethadol  | –  | --- |
-| –  | *beta* -hydroxy-3-methylfentanyl  | *N* -[1-(*beta* -hydroxyfenethyl)-3-methyl-4-piperidyl]propionanilide  |
-| –  | *beta* -hydroxyfentanyl  | *N* -[1-(*beta* -hydroxyfenethyl)-4-piperidyl]-propionanilide  |
+| –  |  *beta*-hydroxy-3-methylfentanyl  |  *N*-[1-(*beta*-hydroxyfenethyl)-3-methyl-4-piperidyl]propionanilide  |
+| –  |  *beta*-hydroxyfentanyl  |  *N*-[1-(*beta*-hydroxyfenethyl)-4-piperidyl]-propionanilide  |
 | betameprodine  | –  | --- |
 | betamethadol  | –  | --- |
 | betaprodine  | –  | --- |
@@ -69,8 +69,8 @@ Lijst I
 | –  | 2C-T-7  | 2,5-dimethoxy-4-(n)-propylthiofenethylamine  |
 | clonitazeen  | –  | --- |
 | –  | cocablad  | bladeren van planten van het geslacht Erythroxylon  |
-| –  | cocaïne  | (-)-3- *beta-* benzoyloxytropaan-2- *beta-* carbonzure methylester  |
-| –  | codeïne  | 4,5-epoxy-3-methoxy- *N* -methyl-7-morfineen-6-ol  |
+| –  | cocaïne  | (-)-3-*beta-*benzoyloxytropaan-2-*beta-*carbonzure methylester  |
+| –  | codeïne  | 4,5-epoxy-3-methoxy-*N*-methyl-7-morfineen-6-ol  |
 | codoxim  | –  | --- |
 | –  | concentraat van bolkaf  | het materiaal dat wordt verkregen door bolkaf te onderwerpen aan een behandeling ter concentratie van zijn alkaloïden  |
 | desomorfine  | –  | --- |
@@ -79,27 +79,27 @@ Lijst I
 | dextropropoxyfeen  | –  | --- |
 | diampromide  | –  | --- |
 | diëthylthiambuteen  | –  | --- |
-| –  | *N,N* -diëthyltryptamine, DET  | 3-[2-(diethylamino)ethyl]indol  |
+| –  |  *N,N*-diëthyltryptamine, DET  | 3-[2-(diethylamino)ethyl]indol  |
 | difenoxine  | –  | --- |
 | difenoxylaat  | –  | --- |
 | dihydrocodeïne  | –  | --- |
-| –  | dihydroethorfine  | 7,8-dihydro-7- *alfa* -[1-(*R*)-hydroxy-1-methylbutyl]-6,14- *endo* -ethano-tetrahydro-oripavine  |
-| –  | dihydromorfine  | 4,5-epoxy- *N* -methylmorfinan-3,6-diol  |
+| –  | dihydroethorfine  | 7,8-dihydro-7-*alfa*-[1-(*R*)-hydroxy-1-methylbutyl]-6,14-*endo*-ethano-tetrahydro-oripavine  |
+| –  | dihydromorfine  | 4,5-epoxy-*N*-methylmorfinan-3,6-diol  |
 | dimefeptanol  | –  | --- |
 | dimenoxadol  | –  | --- |
-| –  | 2,5-dimethoxyamfetamine, DMA  | (±)-2,5-dimethoxy- *alfa* -methylfenethylamine  |
-| –  | 2,5-dimethoxy-4-ethylamfetamine, DOET  | (±)-4-ethyl-2,5-dimethoxy- *alfa* -methylfenethylamine  |
-| –  | 2,5-dimethoxy-4-methamfetamine, STP, DOM  | 2,5-dimethoxy- *alfa*,4-dimethylfenethylamine  |
+| –  | 2,5-dimethoxyamfetamine, DMA  | (±)-2,5-dimethoxy-*alfa*-methylfenethylamine  |
+| –  | 2,5-dimethoxy-4-ethylamfetamine, DOET  | (±)-4-ethyl-2,5-dimethoxy-*alfa*-methylfenethylamine  |
+| –  | 2,5-dimethoxy-4-methamfetamine, STP, DOM  | 2,5-dimethoxy-*alfa*,4-dimethylfenethylamine  |
 | dimethylthiambuteen  | –  | --- |
-| –  | *N,N-* dimethyltryptamine, DMT  | 3-[2-(dimethylamino)ethyl]indol  |
+| –  |  *N,N-*dimethyltryptamine, DMT  | 3-[2-(dimethylamino)ethyl]indol  |
 | dioxafetylbutiraat  | –  | --- |
 | dipipanon  | –  | --- |
-| –  | DMHP  | 3-(1,2-dimethylheptyl)-7,8,9,10-tetrahydro-6,6,9-trimethyl-6 *H* -dibenzo[ *b,d* ]pyran-1-ol  |
+| –  | DMHP  | 3-(1,2-dimethylheptyl)-7,8,9,10-tetrahydro-6,6,9-trimethyl-6*H*-dibenzo[*b,d*]pyran-1-ol  |
 | drotebanol  | –  | --- |
 | –  | ecgonine  | 3-hydroxy-2-tropaancarbonzuur  |
-| –  | *N* -ethyl-3,4-methyleendioxy-amfetamine, *N* -ethyl-MDA  | (±)- *N* -ethyl- *alfa* -methyl-3,4-(methyleen-dioxy)fenethylamine  |
+| –  |  *N*-ethyl-3,4-methyleendioxy-amfetamine, *N*-ethyl-MDA  | (±)-*N*-ethyl-*alfa*-methyl-3,4-(methyleen-dioxy)fenethylamine  |
 | ethylmethylthiambuteen  | –  | --- |
-| –  | ethylmorfine  | 4,5-epoxy-3-ethoxy- *N* -methyl-7-morfineen-6-ol  |
+| –  | ethylmorfine  | 4,5-epoxy-3-ethoxy-*N*-methyl-7-morfineen-6-ol  |
 | eticyclidine  | –  | --- |
 | etonitazeen  | –  | --- |
 | etorfine  | –  | --- |
@@ -121,13 +121,13 @@ Lijst I
 | hydrocodon  | –  | --- |
 | hydromorfinol  | –  | --- |
 | hydromorfon  | –  | --- |
-| –  | *N* -hydroxymethyleen-dioxy-amfetamine, *N* -hydroxyMDA  | (±)- *N* -[ *alfa* -methyl-3,4-(methyleendioxy)-fenethyl]hydroxylamine  |
+| –  |  *N*-hydroxymethyleen-dioxy-amfetamine, *N*-hydroxyMDA  | (±)-*N*-[*alfa*-methyl-3,4-(methyleendioxy)-fenethyl]hydroxylamine  |
 | hydroxypethidine  | –  | --- |
 | isomethadon  | –  | --- |
 | ketobemidon  | –  | --- |
 | levamfetamine  | –  | --- |
 | levofenacylmorfan  | –  | --- |
-| –  | levomethamfetamine  | (-)- *N*, *alfa* -dimethylfenethylamine  |
+| –  | levomethamfetamine  | (-)-*N*,*alfa*-dimethylfenethylamine  |
 | levomethorfan  | –  | --- |
 | levomoramide  | –  | --- |
 | levorfanol  | –  | --- |
@@ -141,22 +141,22 @@ Lijst I
 | –  | methadon-tussenproduct  | 4-cyano-2-dimethylamino-4,4-difenylbutaan  |
 | methaqualon  | –  | --- |
 | –  | methcathinon  | (2-methylamino)-1-fenylpropaan-1-on  |
-| –  | 2-methoxy-4,5-methyleendioxyamfetamine, MMDA  | 2-methoxy- *alfa* -methyl-4,5-(methyleendioxy)- fenethylamine  |
-| –  | 4-methylaminorex  | (±)- *cis-* 2-amino-4-methyl-5-fenyl-2-oxazoline  |
+| –  | 2-methoxy-4,5-methyleendioxyamfetamine, MMDA  | 2-methoxy-*alfa*-methyl-4,5-(methyleendioxy)- fenethylamine  |
+| –  | 4-methylaminorex  | (±)-*cis-*2-amino-4-methyl-5-fenyl-2-oxazoline  |
 | methyldesorfine  | –  | --- |
 | methyldihydromorfine  | –  | --- |
-| –  | 3,4-methyleendioxymethamfetamine, MDMA  | (±)- *N*, *alfa* -dimethyl-3,4-(methyleendioxy)-fenethylamine  |
+| –  | 3,4-methyleendioxymethamfetamine, MDMA  | (±)-*N*,*alfa*-dimethyl-3,4-(methyleendioxy)-fenethylamine  |
 | methylfenidaat  | –  | --- |
-| –  | 3-methylfentanyl  | *N* -(3-methyl-1-fenethyl-4-piperidyl)propion-anilide  |
+| –  | 3-methylfentanyl  |  *N*-(3-methyl-1-fenethyl-4-piperidyl)propion-anilide  |
 | –  | MPPP  | 1-methyl-4-fenyl-4-piperidinol propionaat (ester)  |
-| –  | 4-methylthioamfetamine, 4-MTA  | 4-methylthio- *alfa* -methylfenethylamine  |
-| –  | 3-methylthiofentanyl  | *N* -[3-methyl-1-[2-(2-thienyl)ethyl]-4-piperidyl]propionanilide  |
+| –  | 4-methylthioamfetamine, 4-MTA  | 4-methylthio-*alfa*-methylfenethylamine  |
+| –  | 3-methylthiofentanyl  |  *N*-[3-methyl-1-[2-(2-thienyl)ethyl]-4-piperidyl]propionanilide  |
 | metopon  | –  | --- |
 | –  | moramide-tussenproduct  | 2-methyl-3-morfolino-1,1-difenylpropaan-carbonzuur  |
 | morferidine  | –  | --- |
-| –  | morfine  | 4,5-epoxy- *N* -methyl-7-morfineen-3,6-diol  |
-| –  | morfine-methobromide  | 4,5-epoxy- *N* -methyl-7-morfineen-3,6-diol methylbromide  |
-| –  | morfine- *N* -oxide  | 4,5-epoxy-3,6-dihydroxy- *N* -methyl-7-morfine  |
+| –  | morfine  | 4,5-epoxy-*N*-methyl-7-morfineen-3,6-diol  |
+| –  | morfine-methobromide  | 4,5-epoxy-*N*-methyl-7-morfineen-3,6-diol methylbromide  |
+| –  | morfine-*N*-oxide  | 4,5-epoxy-3,6-dihydroxy-*N*-methyl-7-morfine  |
 | myrofine  | –  | --- |
 | nicocodine  | –  | --- |
 | nicodicodine  | –  | --- |
@@ -168,13 +168,13 @@ Lijst I
 | normorfine  | –  | --- |
 | norpipanon  | –  | --- |
 | –  | opium  | het gestremde melksap, verkregen van de plant Papaver somniferum L.  |
-| oripavine  | 3- *O* -demethylthebaine  | 6,7,8,14-tetradehydro-4,5- *alpha* -epoxy-6-methoxy-17-methylmorphinan-3-ol»  |
+| oripavine  | 3-*O*-demethylthebaine  | 6,7,8,14-tetradehydro-4,5-*alpha*-epoxy-6-methoxy-17-methylmorphinan-3-ol»  |
 | oxycodon  | –  | --- |
 | oxymorfon  | –  | --- |
-| –  | *para* -fluorfentanyl  | 4'-fluoro- *N* -(1-fenethyl-4-piperidyl)propion-anilide  |
-| –  | parahexyl  | 3-hexyl-7,8,9,10-tetrahydro-6,6,9-trimethyl-6 *H* - dibenzo[ *b,d* ]pyran-1-ol  |
-| –  | *para* -methoxyamfetamine, PMA  | *p* -methoxy- *alfa* -methylfenethylamine  |
-| --- | *para* -methoxymethamfetamine, PMMA  | *N* -methyl-1-(4-methoxyfenyl)-2-aminopropaan  |
+| –  |  *para*-fluorfentanyl  | 4'-fluoro-*N*-(1-fenethyl-4-piperidyl)propion-anilide  |
+| –  | parahexyl  | 3-hexyl-7,8,9,10-tetrahydro-6,6,9-trimethyl-6*H*- dibenzo[*b,d*]pyran-1-ol  |
+| –  |  *para*-methoxyamfetamine, PMA  |  *p*-methoxy-*alfa*-methylfenethylamine  |
+| --- |  *para*-methoxymethamfetamine, PMMA  |  *N*-methyl-1-(4-methoxyfenyl)-2-aminopropaan  |
 | --- | PEPAP  | 1-fenethyl-4-fenyl-4-piperidinolacetaat (ester)  |
 | pethidine  | –  | --- |
 | –  | pethidine-tussenproduct A  | 4-cyano-1-methyl-4-phenylpiperidine  |
@@ -196,23 +196,23 @@ Lijst I
 | sufentanil  | –  | --- |
 | tenamfetamine  | –  | --- |
 | tenocyclidine  | –  | --- |
-| –  | tetrahydrocannabinol  | (6 *aR*,10 *aR*)-6 *a*,7,8,10 *a* -tetrahydro-6,6,9-trimethyl-3-pentyl-6 *H* -dibenzo[ *b,d* ]pyran-1-ol  |
+| –  | tetrahydrocannabinol  | (6*aR*,10*aR*)-6*a*,7,8,10*a*-tetrahydro-6,6,9-trimethyl-3-pentyl-6*H*-dibenzo[*b,d*]pyran-1-ol  |
 | thebacon  | –  | --- |
-| –  | thebaïne  | 4,5-epoxy-3,6-dimethoxy- *N* -methyl-6,8-morfine  |
-| –  | thiofentanyl  | *N* -[1-[2-(2-thienyl)ethyl]-4-piperidyl]propion- anilide  |
+| –  | thebaïne  | 4,5-epoxy-3,6-dimethoxy-*N*-methyl-6,8-morfine  |
+| –  | thiofentanyl  |  *N*-[1-[2-(2-thienyl)ethyl]-4-piperidyl]propion- anilide  |
 | tilidine  | –  | --- |
 | –  | TMA-2  | 2,4,5-trimethoxyamfetamine  |
 | trimeperidine  | –  | --- |
-| –  | 3,4,5-trimethoxyamfetamine, TMA  | (±)-3,4,5-trimethoxy- *alfa* -methylfenethylamine  |
+| –  | 3,4,5-trimethoxyamfetamine, TMA  | (±)-3,4,5-trimethoxy-*alfa*-methylfenethylamine  |
 | zipeprol  | –  | --- |
 
-* De door de Wereldgezondheidsorganisatie vastgestelde generieke benaming. 
+* De door de Wereldgezondheidsorganisatie vastgestelde generieke benaming.
 
 – de esters en derivaten van ecgonine, die kunnen worden omgezet in ecgonine en cocaïne;  
 
 – de mono- en di-alkylamide-, de pyrrolidine- en morfolinederivaten van lyserginezuur, en de daarvan door invoering van methyl-, acetyl- of halogeengroepen verkregen middelen;  
 
-– vijfwaardige stikstof-gesubstitueerde morfinederivaten, waaronder begrepen morfine- *N* -oxide-derivaten, zoals codeïne- *N* -oxide;  
+– vijfwaardige stikstof-gesubstitueerde morfinederivaten, waaronder begrepen morfine-*N*-oxide-derivaten, zoals codeïne-*N*-oxide;  
 
 – de isomeren en stereoisomeren van tetrahydrocannabinol;  
 
@@ -298,7 +298,7 @@ Lijst I
 
 ####Paddo’s
 
-### A:  
+### A:   
 
 ####paddenstoelen die van nature de stof psilocine of psilocybine bevatten:
 
@@ -491,7 +491,7 @@ Lijst I
 | psilocybe yungensis  | –  |
 | psilocybe zapotecorum  | –  |
 
-### B:  
+### B:   
 
 ####paddenstoelen die van nature muscimol en iboteenzuur bevatten:
 
@@ -500,5 +500,5 @@ Lijst I
 | amanita muscaria muscaria  | vliegenzwam  |
 | amanita pantherina  | panteramaniet  |
 
-Preparaten die één of meer van de bovengenoemde substanties bevatten, met uitzondering van hennepolie.  
+Preparaten die één of meer van de bovengenoemde substanties bevatten, met uitzondering van hennepolie. 
 
