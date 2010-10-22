@@ -6,21 +6,21 @@
 
 1.  In dit besluit wordt verstaan onder: 
 
-a. *wet:* de [Wet algemene verzekering bijzondere ziektekosten BES](../../../../../wet-BES/wet/algemene/verzekering/bijzondere/ziektekosten/bes/BWBR0028294/README.md);  
+a.  *wet:* de [Wet algemene verzekering bijzondere ziektekosten BES](../../../../../wet-BES/wet/algemene/verzekering/bijzondere/ziektekosten/bes/BWBR0028294/README.md);  
 
-b. *intramurale zorg:* de zorg binnen de muren van een instelling, waar personen 24 uur per dag zijn opgenomen en volledige verzorging krijgen, zoals in algemene en psychiatrische ziekenhuizen, verpleeghuizen, bejaardenhuizen met een gedeeltelijke verpleeghuisfunctie en instellingen voor lichamelijk en geestelijk gehandicapten;  
+b.  *intramurale zorg:* de zorg binnen de muren van een instelling, waar personen 24 uur per dag zijn opgenomen en volledige verzorging krijgen, zoals in algemene en psychiatrische ziekenhuizen, verpleeghuizen, bejaardenhuizen met een gedeeltelijke verpleeghuisfunctie en instellingen voor lichamelijk en geestelijk gehandicapten;  
 
-c. *semi-murale zorg:* de zorg die wordt geboden aan psychiatrische zieken en geestelijk gehandicapten die na verkregen intramurale zorg zodanig zijn hersteld dat zij buiten deze instelling in een beschermde woonomgeving onder professioneel toezicht in beperkte mate zelfstandig kunnen wonen;  
+c.  *semi-murale zorg:* de zorg die wordt geboden aan psychiatrische zieken en geestelijk gehandicapten die na verkregen intramurale zorg zodanig zijn hersteld dat zij buiten deze instelling in een beschermde woonomgeving onder professioneel toezicht in beperkte mate zelfstandig kunnen wonen;  
 
-d. *extramurale zorg:* de zorg die wordt geboden aan thuiswonende, somatisch en psychiatrische zieken of lichamelijk of verstandelijk gehandicapten, welke zorg tot doel heeft deze personen zo lang mogelijk onder optimale omstandigheden in de thuissituatie te laten blijven; deze zorg kan bestaan uit verpleegkundige zorg, gezinshulp of bejaardenhulp, waar nodig, met ondersteuning door zorgverleners van diverse professionele disciplines;  
+d.  *extramurale zorg:* de zorg die wordt geboden aan thuiswonende, somatisch en psychiatrische zieken of lichamelijk of verstandelijk gehandicapten, welke zorg tot doel heeft deze personen zo lang mogelijk onder optimale omstandigheden in de thuissituatie te laten blijven; deze zorg kan bestaan uit verpleegkundige zorg, gezinshulp of bejaardenhulp, waar nodig, met ondersteuning door zorgverleners van diverse professionele disciplines;  
 
-e. *professionele zorg:* de zorg die wordt geboden door psychiaters, psychologen, orthopedagogen, revalidatie-artsen, ergotherapeuten, logopedisten, fysiotherapeuten, oefentherapeuten of podotherapeuten met wie het Uitvoeringsorgaan een zorgcontract heeft afgesloten; deze zorg vindt plaats in de praktijkruimte van deze zorgverlener onder de in het zorgcontract overeengekomen voorwaarden met dien verstande dat bij uitzondering, onder door het Uitvoeringsorgaan vast te stellen voorwaarden, de zorg bij de verzekerde thuis wordt geboden;  
+e.  *professionele zorg:* de zorg die wordt geboden door psychiaters, psychologen, orthopedagogen, revalidatie-artsen, ergotherapeuten, logopedisten, fysiotherapeuten, oefentherapeuten of podotherapeuten met wie het Uitvoeringsorgaan een zorgcontract heeft afgesloten; deze zorg vindt plaats in de praktijkruimte van deze zorgverlener onder de in het zorgcontract overeengekomen voorwaarden met dien verstande dat bij uitzondering, onder door het Uitvoeringsorgaan vast te stellen voorwaarden, de zorg bij de verzekerde thuis wordt geboden;  
 
-f. *kunstmiddelen:* middelen die dienen ter vervanging van een geamputeerd lichaamsdeel, zoals een beenprothese of ter ondersteuning van een krachteloos lichaamsdeel, zoals een spalk;  
+f.  *kunstmiddelen:* middelen die dienen ter vervanging van een geamputeerd lichaamsdeel, zoals een beenprothese of ter ondersteuning van een krachteloos lichaamsdeel, zoals een spalk;  
 
-g. *hulpmiddelen:* zijnde hulpmiddelen voor de voortbeweging van een lichamelijk gehandicapte, zoals een rolstoel of een looprek; hulpmiddelen ter ondersteuning van een lichamelijk gehandicapte, mede ter voorkoming van doorliggen of doorzitten (decubitus); hulpmiddelen die een lichamelijk gehandicapte in staat stelt gebruik te maken van sanitair, zoals steunbeugels en een verhoogde toiletpot; hulpmiddelen om lichamelijk gehandicapten te verplaatsen, zoals een zogenaamde papegaai of tillift; mede begrepen hieronder zijn de kosten van woningaanpassing voor het zodanig aanpassen van de eigen woning van de rolstoelgebonden gehandicapte dat deze zich met zijn rolstoel (zelfstandig) door zijn woning kan verplaatsen, alsmede gebruik kan maken van zijn sanitaire voorzieningen.     
+g.  *hulpmiddelen:* zijnde hulpmiddelen voor de voortbeweging van een lichamelijk gehandicapte, zoals een rolstoel of een looprek; hulpmiddelen ter ondersteuning van een lichamelijk gehandicapte, mede ter voorkoming van doorliggen of doorzitten (decubitus); hulpmiddelen die een lichamelijk gehandicapte in staat stelt gebruik te maken van sanitair, zoals steunbeugels en een verhoogde toiletpot; hulpmiddelen om lichamelijk gehandicapten te verplaatsen, zoals een zogenaamde papegaai of tillift; mede begrepen hieronder zijn de kosten van woningaanpassing voor het zodanig aanpassen van de eigen woning van de rolstoelgebonden gehandicapte dat deze zich met zijn rolstoel (zelfstandig) door zijn woning kan verplaatsen, alsmede gebruik kan maken van zijn sanitaire voorzieningen.     
 2.  Aanvragen van verzekerden voor professionele zorg wordt door het Uitvoeringsorgaan beoordeeld aan de hand van de daartoe opgestelde criteria.   
-3.  Het realiseren van de aanpassingen, bedoeld in het eerste lid, onderdeel g, vindt plaats conform de richtlijnen die door het Uitvoeringsorgaan ter zake zijn vastgesteld.   
+3.  Het realiseren van de aanpassingen, bedoeld in het eerste lid, onderdeel g, vindt plaats conform de richtlijnen die door het Uitvoeringsorgaan ter zake zijn vastgesteld.  
 
 ### Artikel  2  
 
@@ -38,11 +38,11 @@ e. psychogeriatrisch verzorgingshuis: zijnde een instelling ter verzorging van p
 
 f. instelling voor lichamelijk gehandicapten: zijnde een instelling waar lichamelijk gehandicapten of lichamelijk èn geestelijk gehandicapten verblijven die worden behandeld en verzorgd door speciaal daartoe opgeleid personeel, met als doelstelling voor elke opgenomen gehandicapte de meest bereikbare revalidatie en resocialisatie te bewerkstelligen;  
 
-g. instelling voor geestelijk gehandicapten: zijnde een instelling waar geestelijk gehandicapten verblijven die worden verzorgd en geholpen door speciaal daartoe opgeleid personeel met als doelstelling het contact van de geestelijk gehandicapten met de samenleving zo lang mogelijk in stand te houden, met name door voorbereiding voor doorstroming naar een semi-murale instelling of waar mogelijk naar het eigen gezin.    
+g. instelling voor geestelijk gehandicapten: zijnde een instelling waar geestelijk gehandicapten verblijven die worden verzorgd en geholpen door speciaal daartoe opgeleid personeel met als doelstelling het contact van de geestelijk gehandicapten met de samenleving zo lang mogelijk in stand te houden, met name door voorbereiding voor doorstroming naar een semi-murale instelling of waar mogelijk naar het eigen gezin.   
 
 ### Artikel  3  
 
-Onder instellingen waar semi-murale zorg wordt verleend, worden begrepen: woonvormen voor een beperkt aantal bewoners die bestaan uit òf geestelijk gehandicapten òf grotendeels herstelde psychiatrische patiënten die onder professionele begeleiding met elkaar een zelfstandig huishouden voeren; deze instellingen worden ook wel gezinsvervangende tehuizen genoemd.  
+Onder instellingen waar semi-murale zorg wordt verleend, worden begrepen: woonvormen voor een beperkt aantal bewoners die bestaan uit òf geestelijk gehandicapten òf grotendeels herstelde psychiatrische patiënten die onder professionele begeleiding met elkaar een zelfstandig huishouden voeren; deze instellingen worden ook wel gezinsvervangende tehuizen genoemd. 
 
 ### Artikel  4  
 
@@ -57,7 +57,7 @@ c. organisaties van gezinshulp: een vorm van zorg die bestaat uit het bieden van
 d. organisaties van open bejaardenwerk: een vorm van zorg die bestaat uit ondersteuning bij lichte huishoudelijke taken, waaronder het doen van boodschappen, het waken over het welzijn van de verzekerde en het bieden van gezelschap;  
 
 e. organisaties van thuiszorg: een vorm van zorg waarin de in onderdelen b, c en d beschreven vormen van zorg zijn geïntegreerd tot een aantal op maat gesneden pakketten van thuiszorg.     
-2.  De instellingen en organisaties, bedoeld in het eerste lid, bieden extramurale zorg op grond van een met het Uitvoeringsorgaan afgesloten zorgcontract.   
+2.  De instellingen en organisaties, bedoeld in het eerste lid, bieden extramurale zorg op grond van een met het Uitvoeringsorgaan afgesloten zorgcontract.  
 
 ### Artikel  5  
 
@@ -71,17 +71,17 @@ c. verpleeghuiszorg: de zorg die een verpleeghuis of een bejaardenhuis biedt aan
 
 d. gehandicaptenzorg: de zorg aan lichamelijk, geestelijk en dubbel gehandicapten, in zowel de intra- semi- als extramurale vorm, zoals in artikel 1 van dit besluit is omschreven. De omvang van deze zorg is het totaal aan zorg dat de intra- en semi-murale instellingen, alsmede wijkverpleegkundige organisaties kunnen bieden, hetgeen nader wordt omschreven in de zorgcontracten die het Uitvoeringsorgaan met deze instellingen of thuiszorgorganisaties afsluit. De duur van deze zorg is in principe onbeperkt, maar staat onder toezicht van het Uitvoeringsorgaan;  
 
-e. verstrekking van kunst- en hulpmiddelen: de verstrekking van middelen aan lichamelijk gehandicapten, bij wie op het tijdstip dat de lichamelijk handicap of ziekte is ontstaan, direct met zekerheid kan worden gesteld dat deze handicap blijvend is, zonder enig uitzicht op herstel, of bij wie deze vaststelling niet mogelijk is, een half jaar na bedoeld tijdstip hiervoor in aanmerking komt.    
+e. verstrekking van kunst- en hulpmiddelen: de verstrekking van middelen aan lichamelijk gehandicapten, bij wie op het tijdstip dat de lichamelijk handicap of ziekte is ontstaan, direct met zekerheid kan worden gesteld dat deze handicap blijvend is, zonder enig uitzicht op herstel, of bij wie deze vaststelling niet mogelijk is, een half jaar na bedoeld tijdstip hiervoor in aanmerking komt.   
 
 ### Artikel  6  
 
 1.  De eigen bijdrage, bedoeld in [artikel 5, tweede lid, van de wet](../../../../../wet-BES/wet/algemene/verzekering/bijzondere/ziektekosten/bes/BWBR0028294/README.md), van een verzekerde aan wie intramurale zorg wordt verleend en die een pensioen ingevolge de [Wet algemene ouderdomsverzekering BES](../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) ontvangt, is gelijk aan uitsluitend dat pensioen.   
-2.  In afwijking van het eerste lid kan het Uitvoeringsorgaan de bijdrage wegens sociaal-maatschappelijke en humanitaire overwegingen tijdelijk verlagen nadat een maatschappelijk rapport door of namens de verzekerde ter beoordeling van het Uitvoeringsorgaan is overlegd.   
+2.  In afwijking van het eerste lid kan het Uitvoeringsorgaan de bijdrage wegens sociaal-maatschappelijke en humanitaire overwegingen tijdelijk verlagen nadat een maatschappelijk rapport door of namens de verzekerde ter beoordeling van het Uitvoeringsorgaan is overlegd.  
 
 ### Artikel  7  
 
-Dit besluit treedt in werking met ingang van 1 januari 1997.  
+Dit besluit treedt in werking met ingang van 1 januari 1997. 
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Besluit zorg BES.  
+Dit besluit wordt aangehaald als: Besluit zorg BES. 
