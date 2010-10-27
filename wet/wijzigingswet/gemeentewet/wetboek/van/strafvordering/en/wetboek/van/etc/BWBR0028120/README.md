@@ -11,34 +11,34 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Gemeentewet.   
+Wijzigt de Gemeentewet. 
 
 ### Artikel  II  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering. 
 
 ### Artikel  III  
 
-Wijzigt het Wetboek van Strafrecht.   
+Wijzigt het Wetboek van Strafrecht. 
 
 ### Artikel  IIIA  
 
-[Artikel 122 van de Gemeentewet](../../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) is niet van toepassing op de bepalingen van gemeentelijke verordeningen die voorzien in de bevoegdheid van de burgemeester om bevelen te geven ter handhaving van de openbare orde.  
+[Artikel 122 van de Gemeentewet](../../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) is niet van toepassing op de bepalingen van gemeentelijke verordeningen die voorzien in de bevoegdheid van de burgemeester om bevelen te geven ter handhaving van de openbare orde. 
 
 ### Artikel  IV  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 7 juli 2010  
 Beatrix  
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties, Minister van Justitie, 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties, Minister van Justitie,  
 E. M. H. Hirsch Ballin   
 
 de *eenendertigste* augustus 2010 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    

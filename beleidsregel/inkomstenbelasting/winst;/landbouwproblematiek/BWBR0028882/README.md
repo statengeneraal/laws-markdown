@@ -2,7 +2,7 @@
 
 ##Inkomstenbelasting, winst; landbouwproblematiek
 
-De minister van Financiën heeft het volgende besloten.     *In dit besluit is het beleid op het terrein van de fiscale behandeling van ondernemers in de agrarische sector geactualiseerd en samengevoegd. Dit besluit vervangt de besluiten van 4 december 2000, nr. CPP2000/2075M, 15 december 2000, nr. CPP2000/2076M; 22 december 2000, nr. CPP2000/2442M; 6 februari 2003 nr. CPP2003/92M, 22 juni 2004, nr. CPP2004/1010M en 27 mei 2008, nr. CPP2008/830M. In dit besluit is een verduidelijking aangebracht voor de vrijstelling van het tweede pachtersvoordeel.*    
+De minister van Financiën heeft het volgende besloten.   *In dit besluit is het beleid op het terrein van de fiscale behandeling van ondernemers in de agrarische sector geactualiseerd en samengevoegd. Dit besluit vervangt de besluiten van 4 december 2000, nr. CPP2000/2075M, 15 december 2000, nr. CPP2000/2076M; 22 december 2000, nr. CPP2000/2442M; 6 februari 2003 nr. CPP2003/92M, 22 juni 2004, nr. CPP2004/1010M en 27 mei 2008, nr. CPP2008/830M. In dit besluit is een verduidelijking aangebracht voor de vrijstelling van het tweede pachtersvoordeel.*    
 ### 1  
 
 ####Inleiding
@@ -13,8 +13,8 @@ Dit besluit is een actualisering en samenvoeging van een aantal voor de toepassi
 
 | --- | --- |
 |:---|:---|
-| Wet IB 1964  |  Wet op de inkomstenbelasting 1964   |
-| de Wet IB 2001  |  [Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)   |
+| Wet IB 1964  | Wet op de inkomstenbelasting 1964  |
+| de Wet IB 2001  | [Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)  |
 | WEV  | Waarde in het economisch verkeer  |
 | WEVAB  | Waarde in het economisch verkeer bij agrarische bestemming  |
 | SBL  | Regeling stimulering bosuitbreiding op landbouwgronden  |
@@ -53,7 +53,7 @@ d. de bloed- of aanverwanten tot en met de derde graad van de zijlinie.   Bij ve
 ○ bij verpachting van de grond aan personen uit de familiekring op onzakelijke basis.     Als een ondernemer in het kader van de bedrijfsopvolging zijn onderneming overdraagt aan iemand die behoort tot zijn familiekring moet er in beginsel worden afgerekend over het pachtersvoordeel. Dat beperkt de mogelijkheden van de overdrager tegemoet te komen aan de financieringsbehoefte van zijn opvolger. De heffing over het pachtersvoordeel kan dus de bedrijfsopvolging in de familiesfeer belemmeren. 
 ###Goedkeuring
 
-Om deze belemmering weg te nemen keur ik onder voorwaarden goed dat de inspecteurs op verzoek toestaan dat het pachtersvoordeel voor de heffing van de inkomstenbelasting wordt doorgeschoven naar de bedrijfsopvolger uit de familiekring. Als een doorgeschoven eerste pachtersvoordeel later in de heffing van inkomstenbelasting moet worden betrokken kan deze regeling in geval van bedrijfsopvolging in de familiesfeer op verzoek analoog worden toegepast. 
+Om deze belemmering weg te nemen keur ik onder voorwaarden goed dat de inspecteurs op verzoek toestaan dat het pachtersvoordeel voor de heffing van de inkomstenbelasting wordt doorgeschoven naar de bedrijfsopvolger uit de familiekring. Als een doorgeschoven eerste pachtersvoordeel later in de heffing van inkomstenbelasting moet worden betrokken kan deze regeling in geval van bedrijfsopvolging in de familiesfeer op verzoek analoog worden toegepast.
 ###Voorwaarden
 
 In geval van doorschuiving van het (eerste) pachtersvoordeel dat wordt gerealiseerd bij verkrijging door de bedrijfsopvolger uit de familiekring zonder voorgaande pacht, gelden voor deze goedkeuring de volgende voorwaarden. 
@@ -126,10 +126,10 @@ b. ter compensatie van inkomensderving als gevolg van de aanleg van bos op landb
 [Artikel 3.63 van de Wet IB 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) geeft de mogelijkheid een onderneming fiscaal geruisloos over te dragen aan een mede-ondernemer. Voor het bepalen van de winst treedt de bedrijfsopvolger dan in de plaats van degene die de onderneming overdraagt. In vennootschapscontracten worden veelal bepalingen opgenomen die betrekking hebben op de overname van het firma-aandeel van een uittredende vennoot. Soms wordt daarbij overeengekomen dat het firma-aandeel of een bepaald bedrijfsmiddel kan worden overgenomen tegen een (op zakelijke basis bepaalde) prijs die lager is dan de waarde in het economische verkeer. Er ontstaat dan een zogenoemd gebruikersvoordeel. Hierna wordt aangegeven hoe de heffing bij de bedrijfsopvolger moet verlopen als deze te zijner tijd het op het bedrijfsmiddel ‘grond’ rustende gebruikersvoordeel realiseert, en of het daarbij van belang is dat de bedrijfsoverdracht heeft plaatsgevonden met toepassing van [artikel 3.63 van de Wet IB 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). Het gebruikersvoordeel is het verschil tussen de waarde in het economische verkeer van de grond en de overeengekomen prijs. Bij latere vervreemding moet dit voordeel in de heffing worden betrokken. De landbouwvrijstelling is hierop niet van toepassing aangezien het voordeel niet samenhangt met een waardeverandering van grond maar met het vennootschapscontract. De toepassing van [artikel 3.63 van de Wet IB 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) verandert aan het bovenstaande niets. Dit artikel beoogt immers belastingheffing ten aanzien van de bedrijfsoverdrager te voorkomen. Het gebruikersvoordeel ontstaat bij de bedrijfsopvolger. Artikel 3.63 van de Wet IB 2001 beïnvloedt de fiscale behandeling van het gebruikersvoordeel dus niet. 
 ###Voorbeeld
 
-A en B drijven in firmaverband een onderneming. De grond is eigendom van A. De boekwaarde van de grond bedraagt € 25.000. Op het overnamemoment is de waarde in het economische verkeer van de grond € 60.000. Op grond van het firmacontract kan de bedrijfsopvolger de grond overnemen voor € 40.000. A treedt uit en B neemt de grond over voor € 40.000. A maakt gebruik van [artikel 3.63 van de Wet IB 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). B verkoopt de grond na vijf jaren voor € 75.000. 
+A en B drijven in firmaverband een onderneming. De grond is eigendom van A. De boekwaarde van de grond bedraagt € 25.000. Op het overnamemoment is de waarde in het economische verkeer van de grond € 60.000. Op grond van het firmacontract kan de bedrijfsopvolger de grond overnemen voor € 40.000. A treedt uit en B neemt de grond over voor € 40.000. A maakt gebruik van [artikel 3.63 van de Wet IB 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). B verkoopt de grond na vijf jaren voor € 75.000.
 ###Uitwerking
 
-A is geen belasting verschuldigd omdat [artikel 3.63 van de Wet IB 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) van toepassing is. B realiseert na vijf jaren een boekwinst van € 50.000 (€ 75.000 (verkoopprijs) -/- € 25.000 (boekwaarde)). Van deze boekwinst is € 20.000 aan te merken als een gebruikersvoordeel (€ 60.000 -/- € 40.000). Dit voordeel wordt in de heffing betrokken. Er van uitgaande dat de overige € 30.000 is aan te merken als een waardeverandering van grond die is toe te rekenen aan de ontwikkeling van de waarde in het economische verkeer bij agrarische bestemming, is deze vrijgesteld op basis van [artikel 3.12, eerste lid, van de Wet IB 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).    
+A is geen belasting verschuldigd omdat [artikel 3.63 van de Wet IB 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) van toepassing is. B realiseert na vijf jaren een boekwinst van € 50.000 (€ 75.000 (verkoopprijs) -/- € 25.000 (boekwaarde)). Van deze boekwinst is € 20.000 aan te merken als een gebruikersvoordeel (€ 60.000 -/- € 40.000). Dit voordeel wordt in de heffing betrokken. Er van uitgaande dat de overige € 30.000 is aan te merken als een waardeverandering van grond die is toe te rekenen aan de ontwikkeling van de waarde in het economische verkeer bij agrarische bestemming, is deze vrijgesteld op basis van [artikel 3.12, eerste lid, van de Wet IB 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
 ### 5  
 
 ####Landbouwvrijstelling bij gebruikmaking van de regeling ‘Ruimte voor Ruimte’
@@ -142,28 +142,28 @@ Dit onderdeel van dit besluit gaat in op de vraag in hoeverre de landbouwvrijste
 In dit besluit wordt onder ‘quotum’ verstaan: melkquotum, visquotum, bietenquotum, varkensrecht, fokzeugenrecht en pluimveerecht. In de arresten van 11 juni 1997, nr. 31 891, BNB 1997/303 en van 15 juli 1998, nr. 33 468, BNB 1998/313, heeft de Hoge Raad geoordeeld dat voor de toepassing van artikel 8, eerste lid, onderdeel d, van de Wet IB 1964 in de voorgelegde situaties de vervreemding van het melkquotum staking van een zelfstandig onderdeel van de onderneming betekent. Deze uitleg van de Hoge Raad is relevant voor de toepassing van de [artikelen 3.59](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.62](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.63](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [3.129 van de Wet IB 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). Gelet op deze uitleg van de Hoge Raad is het niet bezwaarlijk als een geheel quotum wordt overgedragen, de overdracht aan te merken als staking van een zelfstandig deel van de onderneming. De overdracht van een geheel quotum kan daarmee rechtstreeks onder de werking van genoemde artikelen worden gebracht. Als een geheel quotum wordt overgedragen aan twee of meer verkrijgers is het voor de toepassing van de [artikelen 3.59](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), [3.62](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [3.63 van de Wet IB 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) niet nodig dat hetgeen overgedragen wordt voor de verkrijgers van het quotum een (gedeelte van een) onderneming vormt. Voor de verkrijger is het in dat geval slechts van belang dat het overgedragen (gedeelte van het) quotum tot diens ondernemingsvermogen behoort en duurzaam in de onderneming wordt aangewend. Als een belastingplichtige een voor zijn rekening gedreven gedeelte van een onderneming overdraagt zonder gebruik te maken van [artikel 3.63 van de Wet IB 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), kan dit artikel eveneens worden toegepast op uitsluitend het gedeelte van het quotum voor zover dat onderdeel uitmaakt van deze overdracht. 
 ###Voorbeeld 1
 
-A oefent tezamen met zijn zoons B en C een landbouwbedrijf uit op 20 ha grond. Het melkquotum bedraagt 200.000 kg. A draagt zijn gehele melkquotum over aan zoon B die het quotum in zijn onderneming gaat aanwenden. 
+A oefent tezamen met zijn zoons B en C een landbouwbedrijf uit op 20 ha grond. Het melkquotum bedraagt 200.000 kg. A draagt zijn gehele melkquotum over aan zoon B die het quotum in zijn onderneming gaat aanwenden.
 ###Uitwerking:
 
-Aangezien de overdracht van een geheel quotum mag worden aangemerkt als de overdracht van een zelfstandig onderdeel van de onderneming, kan met toepassing van [artikel 3.63 van de Wet IB 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) het melkquotum geruisloos worden overgedragen. 
+Aangezien de overdracht van een geheel quotum mag worden aangemerkt als de overdracht van een zelfstandig onderdeel van de onderneming, kan met toepassing van [artikel 3.63 van de Wet IB 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) het melkquotum geruisloos worden overgedragen.
 ###Voorbeeld 2
 
-Als voorbeeld 1 maar nu draagt A 150.000 kg quotum over aan zoon B en 50.000 kg aan zoon C. 
+Als voorbeeld 1 maar nu draagt A 150.000 kg quotum over aan zoon B en 50.000 kg aan zoon C.
 ###Uitwerking:
 
-Aangezien het gehele quotum wordt overgedragen hoeft niet te worden beoordeeld of het overgedragen gedeelte voor de overnemer een zelfstandig onderdeel van een onderneming vormt. Indien zoon B en zoon C het quotum tot hun ondernemingsvermogen rekenen kan de overdracht op verzoek geruisloos geschieden. 
+Aangezien het gehele quotum wordt overgedragen hoeft niet te worden beoordeeld of het overgedragen gedeelte voor de overnemer een zelfstandig onderdeel van een onderneming vormt. Indien zoon B en zoon C het quotum tot hun ondernemingsvermogen rekenen kan de overdracht op verzoek geruisloos geschieden.
 ###Voorbeeld 3
 
-Als voorbeeld 1 maar nu draagt A 10 ha. grond, 100.000 kg quotum alsmede de helft van de overige bedrijfsmiddelen over aan zoon B. 
+Als voorbeeld 1 maar nu draagt A 10 ha. grond, 100.000 kg quotum alsmede de helft van de overige bedrijfsmiddelen over aan zoon B.
 ###Uitwerking:
 
-Zowel het overgedragen gedeelte als het niet overgedragen gedeelte kan een zelfstandige onderneming in de zin van [artikel 3.2 van de Wet IB 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) vormen. Het gedeeltelijk overgedragen quotum maakt derhalve onderdeel uit van de overdracht van een zelfstandig deel van de onderneming. Indien geen beroep wordt gedaan op [artikel 3.63 van de Wet IB 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), kan op grond van dit besluit het quotum geruisloos worden doorgeschoven. 
+Zowel het overgedragen gedeelte als het niet overgedragen gedeelte kan een zelfstandige onderneming in de zin van [artikel 3.2 van de Wet IB 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) vormen. Het gedeeltelijk overgedragen quotum maakt derhalve onderdeel uit van de overdracht van een zelfstandig deel van de onderneming. Indien geen beroep wordt gedaan op [artikel 3.63 van de Wet IB 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), kan op grond van dit besluit het quotum geruisloos worden doorgeschoven.
 ###Voorbeeld 4
 
-Als voorbeeld 1 maar nu draagt A uitsluitend de helft van het quotum over aan zoon B. 
+Als voorbeeld 1 maar nu draagt A uitsluitend de helft van het quotum over aan zoon B.
 ###Uitwerking:
 
-De overdracht van uitsluitend een gedeelte van een quotum is niet te beschouwen als de overdracht van zelfstandig deel van de onderneming. Geruisloze doorschuiving is niet mogelijk.    
+De overdracht van uitsluitend een gedeelte van een quotum is niet te beschouwen als de overdracht van zelfstandig deel van de onderneming. Geruisloze doorschuiving is niet mogelijk.   
 ### 7  
 
 ####Wevab en feitelijke agrarische aanwending
@@ -171,7 +171,7 @@ De overdracht van uitsluitend een gedeelte van een quotum is niet te beschouwen 
 Tijdens de parlementaire behandeling van de [Wet ondernemerspakket 2001](../../../../../wet/wet/ondernemerspakket/2001/BWBR0011983/README.md) is met betrekking tot de toepassing van de landbouwvrijstelling de vraag gesteld of met de WEVAB is bedoeld de waarde in het economische verkeer bij eenzelfde soort agrarische aanwending. Deze vraag is ontkennend beantwoord. Opgemerkt is dat de overgang van de ene naar de andere agrarische activiteit (vallend onder de definitie van landbouwbedrijf) niet leidt tot belastingheffing. Dit roept de vraag op of voor de bepaling van de WEVAB de feitelijke agrarische aanwending door de koper beslissend is. Voor de bepaling van de WEVAB is niet in alle gevallen de feitelijke aanwending door de koper beslissend. De WEVAB is de prijs die de meestbiedende agrarische gegadigde na de beste voorbereiding zou betalen, er van uitgaande dat de grond in het kader van een landbouwbedrijf blijft aangewend, waarbij geen rekening wordt gehouden met eventuele niet-agrarische bestemmingen. De WEVAB wordt objectief vastgesteld. Het gaat er dus om wie de hiervoor bedoelde “meestbiedende agrarische gegadigde” voor die grond zou kunnen zijn. 
 ###Voorbeeld
 
-Een melkveehouder verkoopt weiland aan een andere melkveehouder voor € 40.000. De boekwaarde bedraagt € 8.000. Dit betreft ook de WEVAB-aanschaf/inbreng. De prijs die een andere willekeurige melkveehouder bereid is te betalen voor weiland bedraagt € 20.000. De koper blijft de grond binnen zijn onderneming aanwenden als weiland. Er zijn evenwel ook tuinders in de markt die de grond feitelijk willen en kunnen gebruiken als tuinbouwgrond. Een tuinder zou bereid zijn € 40.000 te betalen. Tuinbouwgrond is immers duurder dan weiland. Een tuinder is dan de meestbiedende agrarische gegadigde. De WEVAB bedraagt dan € 40.000. De landbouwvrijstelling voor de verkopende melkveehouder bedraagt derhalve € 40.000 – € 8.000 = € 32.000.    
+Een melkveehouder verkoopt weiland aan een andere melkveehouder voor € 40.000. De boekwaarde bedraagt € 8.000. Dit betreft ook de WEVAB-aanschaf/inbreng. De prijs die een andere willekeurige melkveehouder bereid is te betalen voor weiland bedraagt € 20.000. De koper blijft de grond binnen zijn onderneming aanwenden als weiland. Er zijn evenwel ook tuinders in de markt die de grond feitelijk willen en kunnen gebruiken als tuinbouwgrond. Een tuinder zou bereid zijn € 40.000 te betalen. Tuinbouwgrond is immers duurder dan weiland. Een tuinder is dan de meestbiedende agrarische gegadigde. De WEVAB bedraagt dan € 40.000. De landbouwvrijstelling voor de verkopende melkveehouder bedraagt derhalve € 40.000 – € 8.000 = € 32.000.   
 ### 8  
 
 ####Ingetrokken regelingen
@@ -200,4 +200,4 @@ Den Haag
 
 De 
 minister van Financiën, 
-J.C. deJager   
+J.C. de Jager     
