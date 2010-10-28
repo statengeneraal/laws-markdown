@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Inkomstenbelasting, loonbelasting, omzetbelasting, schenk- en erfbelasting, belastingen van rechtsverkeer, instelling en taakopdracht Coördinatiegroep Constructiebestrijding
+##Inkomstenbelasting, loonbelasting, omzetbelasting, schenk- en erfbelasting, belastingen van rechtsverkeer, instelling en taakopdracht Coördinatiegroep Constructiebestrijding 
 
 De minister deelt mee dat de instelling en de taakomschrijving van de Coördinatiegroep Constructiebestrijding is geherformuleerd.   
 ### 1  
@@ -39,5 +39,5 @@ Uit de taakomschrijving van de CCB volgt dat de groep zich buigt over in de prak
 Gelet op de politieke en beleidsmatige aspecten van de werkzaamheden is het departement actief bij de CCB betrokken. De CCB bestaat uit medewerkers van het departement van Financiën en medewerkers van de regio’s/kantoren van de Belastingdienst. Het adres van het secretariaat van de CCB is: Belastingdienst/Oost-Brabant, kantoor Tilburg Postbus 90400 5000 MP Tilburg Medewerkers van de Belastingdienst kunnen de gegevens van de leden van de CCB raadplegen op het interne Belastingnet.     
 
 De 
-Minister van Financiën,
-J.C. deJager   
+Minister van Financiën, 
+J.C. de Jager     
