@@ -10,23 +10,23 @@
 
 1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *etikettering:* de vermeldingen, aanwijzingen, fabrieks- of handelsmerken, afbeeldingen of tekens die betrekking hebben op een levensmiddel en voorkomen op enig verpakkingsmiddel, document, schriftstuk, etiket, band of label, dat respectievelijk die bij dit levensmiddel is gevoegd of daarop betrekking heeft;  
+a.  *etikettering:* de vermeldingen, aanwijzingen, fabrieks- of handelsmerken, afbeeldingen of tekens die betrekking hebben op een levensmiddel en voorkomen op enig verpakkingsmiddel, document, schriftstuk, etiket, band of label, dat respectievelijk die bij dit levensmiddel is gevoegd of daarop betrekking heeft;  
 
-b. *instellingen:* voedselbedrijven, zoals restaurants, snacks, ziekenhuizen, kantines en andere soortgelijke instellingen;  
+b.  *instellingen:* voedselbedrijven, zoals restaurants, snacks, ziekenhuizen, kantines en andere soortgelijke instellingen;  
 
-c. *verpakking:* het verpakkingsmateriaal waarin een waar wordt verpakt alvorens die waar ten verkoop wordt aangeboden, waarbij dat verpakkingsmateriaal de waar geheel of ten dele bedekt of kan bedekken, maar zodanig dat de inhoud niet kan worden veranderd zonder dat het verpakkingsmateriaal wordt geopend of aangetast;  
+c.  *verpakking:* het verpakkingsmateriaal waarin een waar wordt verpakt alvorens die waar ten verkoop wordt aangeboden, waarbij dat verpakkingsmateriaal de waar geheel of ten dele bedekt of kan bedekken, maar zodanig dat de inhoud niet kan worden veranderd zonder dat het verpakkingsmateriaal wordt geopend of aangetast;  
 
-d. *voorverpakte eet- of drinkwaar:* de verkoopeenheid die bestemd is als zodanig aan de eindverbruiker of aan een instelling te worden afgeleverd en bestaat uit een eet- of drinkwaar en haar verpakking;  
+d.  *voorverpakte eet- of drinkwaar:* de verkoopeenheid die bestemd is als zodanig aan de eindverbruiker of aan een instelling te worden afgeleverd en bestaat uit een eet- of drinkwaar en haar verpakking;  
 
-e. *verpakte eet- of drinkwaar:* de verkoopeenheid die niet bestemd is als zodanig aan de eindverbruiker of aan instellingen te worden afgeleverd en bestaat uit een eet- of drinkwaar en haar verpakking;  
+e.  *verpakte eet- of drinkwaar:* de verkoopeenheid die niet bestemd is als zodanig aan de eindverbruiker of aan instellingen te worden afgeleverd en bestaat uit een eet- of drinkwaar en haar verpakking;  
 
-f. *ingrediënt:* iedere grondstof die bij de bereiding van een eet- of drinkwaar is gebruikt en die als zodanig of als omzettingsprodukt in de waar aanwezig is;  
+f.  *ingrediënt:* iedere grondstof die bij de bereiding van een eet- of drinkwaar is gebruikt en die als zodanig of als omzettingsprodukt in de waar aanwezig is;  
 
-g. *technologische hulpmiddelen:* stoffen die op zichzelf niet als ingrediënt worden geconsumeerd, die bij de verwerking van grondstoffen, eet- en drinkwaren of ingrediënten bewust worden gebruikt om tijdens de bewerking of verwerking aan een bepaald technisch doel te beantwoorden en die kunnen leiden tot de onbedoelde maar technisch onvermijdelijke aanwezigheid van residuen van deze stoffen of derivaten ervan in het eindprodukt, mits deze residuen geen gevaar voor de gezondheid opleveren en geen technologische gevolgen voor het eindprodukt hebben;  
+g.  *technologische hulpmiddelen:* stoffen die op zichzelf niet als ingrediënt worden geconsumeerd, die bij de verwerking van grondstoffen, eet- en drinkwaren of ingrediënten bewust worden gebruikt om tijdens de bewerking of verwerking aan een bepaald technisch doel te beantwoorden en die kunnen leiden tot de onbedoelde maar technisch onvermijdelijke aanwezigheid van residuen van deze stoffen of derivaten ervan in het eindprodukt, mits deze residuen geen gevaar voor de gezondheid opleveren en geen technologische gevolgen voor het eindprodukt hebben;  
 
-h. *opgietvloeistof:* een al dan niet bevroren of diepgevroren vloeistof, voor zover deze slechts van ondergeschikt belang is ten opzichte van de essentiële bestanddelen van de betrokken waar en derhalve niet doorslaggevend is voor de aankoop;  
+h.  *opgietvloeistof:* een al dan niet bevroren of diepgevroren vloeistof, voor zover deze slechts van ondergeschikt belang is ten opzichte van de essentiële bestanddelen van de betrokken waar en derhalve niet doorslaggevend is voor de aankoop;  
 
-i. *produktiepartij:* een verzameling verkoopeenheden van een eet- of drinkwaar die onder vrijwel identieke omstandigheden zijn geproduceerd, vervaardigd of verpakt, en waarvan de grootte is vastgesteld door de betrokken verhandelaar.     
+i.  *produktiepartij:* een verzameling verkoopeenheden van een eet- of drinkwaar die onder vrijwel identieke omstandigheden zijn geproduceerd, vervaardigd of verpakt, en waarvan de grootte is vastgesteld door de betrokken verhandelaar.     
 2.  Voor de toepassing van dit besluit, behoudens artikel 30, worden de als verhandelen aan te merken handelingen, voor wat betreft het te koop aanbieden, beperkt tot het te koop aanbieden op de plaats van verkoop.   
 3.  Voor de toepassing van dit besluit worden eet- of drinkwaren die van onderling verschillende samenstelling zijn en waarvoor een zelfde aanduiding pleegt te worden gebezigd, aangemerkt als een zelfde eet- of drinkwaar.   
 4.  In afwijking van het bepaalde in het eerste lid, onder c, wordt onder een voorverpakte eet- of drinkwaar niet verstaan eet- en drinkwaren die: 
@@ -47,17 +47,17 @@ e. in een fantasie-verpakking, zoals figuurtjes of souvenirartikelen, worden ver
 a. technologische hulpmiddelen; en  
 
 b. levensmiddelenadditieven, vermeld in de bij dit besluit behorende bijlage II, en die in de eet- of drinkwaar waarvan zij deel uitmaken, geen technologische functie vervullen.     
-8.  Dit besluit is niet van toepassing op door liefdadigheidsinstellingen uit te delen eet- of drinkwaren.   
+8.  Dit besluit is niet van toepassing op door liefdadigheidsinstellingen uit te delen eet- of drinkwaren.  
 
 ### Artikel  1a  
 
-Dit besluit berust op de [onderdelen a, f en j van het eerste lid van artikel 3 van de Warenwet BES](../../../../../../../wet-BES/warenwet/bes/BWBR0028619/README.md).  
+Dit besluit berust op de [onderdelen a, f en j van het eerste lid van artikel 3 van de Warenwet BES](../../../../../../../wet-BES/warenwet/bes/BWBR0028619/README.md). 
 
 ### Artikel  2  
 
 1.  Het is verboden eet- of drinkwaren te verhandelen anders dan met inachtneming van de voorschriften in dit besluit gesteld met betrekking tot hun aanduiding en tot het bezigen van vermeldingen of voorstellingen.   
 2.  Het is verboden eet- of drinkwaren te verhandelen waarvan de datum van minimale houdbaarheid, bedoeld in artikel 16, respectievelijk de uiterste consumptiedatum, bedoeld in artikel 17, is verstreken.   
-3.  Het is verboden eet- of drinkwaren in te voeren waarvan de datum van minimale houdbaarheid, bedoeld in artikel 16, respectievelijk de uiterste consumptiedatum, bedoeld in artikel 17, is verstreken dan wel verstreken zal zijn voordat zij verhandeld zullen worden.   
+3.  Het is verboden eet- of drinkwaren in te voeren waarvan de datum van minimale houdbaarheid, bedoeld in artikel 16, respectievelijk de uiterste consumptiedatum, bedoeld in artikel 17, is verstreken dan wel verstreken zal zijn voordat zij verhandeld zullen worden.  
 
 ### §  2  
 
@@ -65,7 +65,7 @@ Dit besluit berust op de [onderdelen a, f en j van het eerste lid van artikel 3
 
 ### Artikel  3  
 
-Bij de verhandeling van voorverpakte, verpakte of onverpakte eet- of drinkwaren moet, met inachtneming van de bij dit besluit terzake gestelde regels, de van toepassing zijnde aanduiding worden gebezigd.  
+Bij de verhandeling van voorverpakte, verpakte of onverpakte eet- of drinkwaren moet, met inachtneming van de bij dit besluit terzake gestelde regels, de van toepassing zijnde aanduiding worden gebezigd. 
 
 ### Artikel  4  
 
@@ -79,7 +79,7 @@ c. een omschrijving van de betrokken waar en zonodig van de wijze waarop die waa
 2.  Het eerste lid is niet van toepassing indien een aldus geëtiketteerde eet- of drinkwaar wat betreft samenstelling of bereidingswijze zo sterk afwijkt van een onder die aanduiding bekende waar dat daarmee geen correcte voorlichting van de koper is gewaarborgd.   
 3.  Een fabrieks- of handelsmerk of een fantasienaam mag niet in de plaats treden van de aanduiding van de betrokken eet- of drinkwaar.   
 4.  De aanduiding moet een aanwijzing omvatten of vergezeld zijn van een aanwijzing inzake de fysische toestand waarin de eet- of drinkwaar zich bevindt of de specifieke behandeling die zij heeft ondergaan, indien zonder een dergelijke aanwijzing voor de koper met betrekking tot de waar een verkeerde indruk wordt gewekt of kan worden gewekt.   
-5.  In het geval van een eet- of drinkwaar die met ioniserende stralen is behandeld, is de in het derde lid bedoelde aanduiding inzake de specifieke behandeling die zij heeft ondergaan, een van de volgende: «doorstraald», «door straling behandeld», of: «met ioniserende straling behandeld».   
+5.  In het geval van een eet- of drinkwaar die met ioniserende stralen is behandeld, is de in het derde lid bedoelde aanduiding inzake de specifieke behandeling die zij heeft ondergaan, een van de volgende: «doorstraald», «door straling behandeld», of: «met ioniserende straling behandeld».  
 
 ### §  3  
 
@@ -111,7 +111,7 @@ j. een vermelding inzake het gebruik van een verpakkingsgas.
 2.  Bij de verhandeling van eet- of drinkwaren als bedoeld in artikel 1, vierde lid, onder b en c, moet, met inachtneming van de bij dit besluit gestelde regels, in ieder geval de vermelding van de nettohoeveelheid worden gebezigd.   
 3.  Bij de verhandeling van eet- of drinkwaren als bedoeld in artikel 1, vierde lid, onder e, moet, met inachtneming van de bij dit besluit gestelde regels, in ieder geval de vermelding van de nettohoeveelheid en van de produktiepartij worden gebezigd.   
 4.  Bij de verhandeling van verpakte eet- of drinkwaren moet, met inachtneming van de bij dit besluit gestelde regels, een vermelding betreffende de produktiepartij worden gebezigd.   
-5.  Bij de verhandeling van een eet- of drinkwaar die is behandeld met ioniserende stralen, wordt de doorstraling vermeld in de documenten welke die eet- of drinkwaar vergezellen of daarop betrekking hebben.   
+5.  Bij de verhandeling van een eet- of drinkwaar die is behandeld met ioniserende stralen, wordt de doorstraling vermeld in de documenten welke die eet- of drinkwaar vergezellen of daarop betrekking hebben.  
 
 ### §  3.1  
 
@@ -127,7 +127,7 @@ j. een vermelding inzake het gebruik van een verpakkingsgas.
 
 a. tijdens de bereiding alleen is gebruikt om een geconcentreerd of gedehydrateerd ingrediënt in zijn oorspronkelijke toestand terug te brengen;  
 
-b. water deel uitmaakt van een opgietvloeistof, zoals nader omschreven in artikel 14, tweede lid, welke gewoonlijk niet wordt geconsumeerd.     
+b. water deel uitmaakt van een opgietvloeistof, zoals nader omschreven in artikel 14, tweede lid, welke gewoonlijk niet wordt geconsumeerd.    
 
 ### Artikel  7  
 
@@ -154,12 +154,12 @@ a. hetzij voor ten minste 25% in de eet- of drinkwaar aanwezig is, in welk geval
 
 b. hetzij voor minder dan 25% in de eet- of drinkwaar aanwezig is, in welk geval, indien zich in die grondstof levensmiddelenadditieven als bedoeld in bijlage II bevinden, deze levensmiddelenadditieven onmiddellijk achter de eerder bedoelde naam moeten worden vermeld.     
 5.  In afwijking van het vierde lid, aanhef en onder b, moet de vermelding van de afzonderlijke bestanddelen van een grondstof die bestanddelen zijn van een grondstof die voor minder dan 25% in de eet- of drinkwaar aanwezig is en met ioniserende stralen zijn behandeld, plaatsvinden onmiddellijk achter de in dat lid bedoelde vermelding van de naam van de grondstof.   
-6.  De in bijlage II opgenomen vermelding gemodificeerd zetmeel wordt aangevuld met een omschrijving van de specifieke plantaardige oorsprong indien dat ingrediënt gluten kan bevatten.   
+6.  De in bijlage II opgenomen vermelding gemodificeerd zetmeel wordt aangevuld met een omschrijving van de specifieke plantaardige oorsprong indien dat ingrediënt gluten kan bevatten.  
 
 ### Artikel  8  
 
 1.  In afwijking van artikel 6, eerste lid, mogen voor waren die zijn geconcentreerd of gedroogd en waaraan water moet worden toegevoegd om deze voor gebruik gereed te maken, in plaats van het woord «ingrediënten» worden gebezigd de woorden «ingrediënten van de waar na toebereiding» of woorden van gelijke strekking, gevolgd door een lijst van de in de waar aanwezige ingrediënten met een opsomming in de volgorde van de hoeveelheden na de bedoelde toevoeging.   
-2.  In afwijking van artikel 6, eerste lid, mag voor eetwaren die hetzij bestaan uit een mengsel van vruchten of groenten, hetzij bestaan uit een mengsel van specerijen of kruiden, in plaats van het woord «ingrediënten» worden gebezigd de woorden «ingrediënten in wisselende verhouding» of woorden van gelijke strekking. Hierna volgt een lijst van de in de waar aanwezige grondstoffen in een willekeurige volgorde, tenzij één of meer van deze vruchten, groenten, specerijen of kruiden aanmerkelijk in gewicht overheerst.   
+2.  In afwijking van artikel 6, eerste lid, mag voor eetwaren die hetzij bestaan uit een mengsel van vruchten of groenten, hetzij bestaan uit een mengsel van specerijen of kruiden, in plaats van het woord «ingrediënten» worden gebezigd de woorden «ingrediënten in wisselende verhouding» of woorden van gelijke strekking. Hierna volgt een lijst van de in de waar aanwezige grondstoffen in een willekeurige volgorde, tenzij één of meer van deze vruchten, groenten, specerijen of kruiden aanmerkelijk in gewicht overheerst.  
 
 ### Artikel  9  
 
@@ -181,7 +181,7 @@ g. een eet- of drinkwaar welke bestaat uit één ingrediënt, voor zover:
 
 1°. de aanduiding van de eet- of drinkwaar en de naam van het ingrediënt identiek zijn; of  
 
-2°. uit de aanduiding van de eet- of drinkwaar de aard van het ingrediënt duidelijk kan worden afgeleid.      
+2°. uit de aanduiding van de eet- of drinkwaar de aard van het ingrediënt duidelijk kan worden afgeleid.     
 
 ### Artikel  10  
 
@@ -220,7 +220,7 @@ a. in de aanduiding van de eet- of drinkwaar;
 
 b. in de onmiddellijke nabijheid van de aanduiding; of  
 
-c. in de lijst van ingrediënten in samenhang met het betreffende ingrediënt of de categorie van ingrediënten.     
+c. in de lijst van ingrediënten in samenhang met het betreffende ingrediënt of de categorie van ingrediënten.    
 
 ### §  3.2  
 
@@ -250,7 +250,7 @@ c. verse groenten of verse vruchten die ook onverpakt per stuk of aantal stuks p
 d. kippeëieren;  
 
 e. suikerwerk dat ook onverpakt per stuk of aantal stuks pleegt te worden verkocht.     
-5.  In afwijking van het eerste lid mag voor een voorverpakte eet- of drinkwaar waarvan de hoeveelheid ingevolge het vierde lid in een aantal stuks mag zijn uitgedrukt, een zodanige hoeveelheidsvermelding achterwege worden gelaten, indien het aantal stuks van die eet- of drinkwaar zonder opening van de verpakking van buitenaf duidelijk kan worden gezien en gemakkelijk kan worden geteld.   
+5.  In afwijking van het eerste lid mag voor een voorverpakte eet- of drinkwaar waarvan de hoeveelheid ingevolge het vierde lid in een aantal stuks mag zijn uitgedrukt, een zodanige hoeveelheidsvermelding achterwege worden gelaten, indien het aantal stuks van die eet- of drinkwaar zonder opening van de verpakking van buitenaf duidelijk kan worden gezien en gemakkelijk kan worden geteld.  
 
 ### Artikel  12  
 
@@ -259,12 +259,12 @@ e. suikerwerk dat ook onverpakt per stuk of aantal stuks pleegt te worden verkoc
 a. de vermelding van de hoeveelheid van die voorverpakte eet- of drinkwaar aangeven het totale aantal van vorenbedoelde verpakte eenheden, gevolgd door de nettohoeveelheid van de eet- of drinkwaar, die één verpakte eenheid bevat;  
 
 b. voor zover het betreft een voorverpakte eetwaar als bedoeld in artikel 14, tevens een vermelding van het uitlekgewicht van het vaste hoofdbestanddeel van de betrokken eetwaar in één verpakte eenheid worden gebezigd, overeenkomstig het bepaalde in dat artikel.     
-2.  In afwijking van het eerste lid behoeven de aldaar bedoelde vermeldingen niet te worden gebezigd, indien het totale aantal afzonderlijke verpakte eenheden duidelijk kan worden gezien en van buitenaf gemakkelijk kan worden geteld, en de vermelding van de nettohoeveelheid van elke afzonderlijke verpakte eenheid van buitenaf duidelijk kan worden gezien.   
+2.  In afwijking van het eerste lid behoeven de aldaar bedoelde vermeldingen niet te worden gebezigd, indien het totale aantal afzonderlijke verpakte eenheden duidelijk kan worden gezien en van buitenaf gemakkelijk kan worden geteld, en de vermelding van de nettohoeveelheid van elke afzonderlijke verpakte eenheid van buitenaf duidelijk kan worden gezien.  
 
 ### Artikel  13  
 
 1.  Voor een voorverpakte eet- of drinkwaar die bestaat uit een aantal verpakte eenheden die afzonderlijk niet als een verkoopeenheid aan eindverbruikers plegen te worden verhandeld, moet behalve de vermelding van de nettohoeveelheid, tevens een vermelding worden gebezigd, die het totale aantal van vorenbedoelde eenheden aangeeft.   
-2.  In afwijking van het eerste lid behoeft de aldaar bedoelde vermelding van het aantal eenheden niet te worden gebezigd ten aanzien van suikerwerk waarvan de hoeveelheid in elke verpakte eenheid ten hoogste 15 gram is.   
+2.  In afwijking van het eerste lid behoeft de aldaar bedoelde vermelding van het aantal eenheden niet te worden gebezigd ten aanzien van suikerwerk waarvan de hoeveelheid in elke verpakte eenheid ten hoogste 15 gram is.  
 
 ### Artikel  14  
 
@@ -273,7 +273,7 @@ b. voor zover het betreft een voorverpakte eetwaar als bedoeld in artikel 14, te
 
 a. water, waterige oplossingen van zouten, voedingszuren, suikers, zoetstoffen, pekel of azijn;  
 
-b. het sap van de betrokken groente of van het betrokken fruit, indien het hoofdbestanddeel van de waar verduurzaamde groente of verduurzaamd fruit is.     
+b. het sap van de betrokken groente of van het betrokken fruit, indien het hoofdbestanddeel van de waar verduurzaamde groente of verduurzaamd fruit is.    
 
 ### Artikel  15  
 
@@ -281,7 +281,7 @@ De artikelen 11, 12 en 13 zijn niet van toepassing ten aanzien van:
 
 a. voorverpakte eet- en drinkwaren die naar hun aard aanzienlijk aan volume of gewicht verliezen en hetzij per stuk worden verkocht, hetzij in aanwezigheid van de koper worden gewogen; of  
 
-b. voorverpakte eet- en drinkwaren waarvan de nettohoeveelheid in totaal hetzij minder dan 25 gram bedraagt in het geval van suikerwerk, hetzij minder dan 5 gram of 5 milliliter bedraagt in het geval van andere eet- of drinkwaren dan kruiden of specerijen.    
+b. voorverpakte eet- en drinkwaren waarvan de nettohoeveelheid in totaal hetzij minder dan 25 gram bedraagt in het geval van suikerwerk, hetzij minder dan 5 gram of 5 milliliter bedraagt in het geval van andere eet- of drinkwaren dan kruiden of specerijen.   
 
 ### §  3.3  
 
@@ -332,7 +332,7 @@ i. suikerwerk, bijna uitsluitend bestaande uit gearomatiseerde of gekleurde suik
 
 j. kauwpreparaten andere dan van tabak;  
 
-k. afzonderlijke porties consumptie-ijs.     
+k. afzonderlijke porties consumptie-ijs.    
 
 ### §  3.4  
 
@@ -343,7 +343,7 @@ k. afzonderlijke porties consumptie-ijs.
 1.  De uiterste consumptiedatum, bedoeld in artikel 5, eerste lid, onder d, moet worden gebezigd voor eet- of drinkwaren die uit microbiologisch oogpunt zeer bederfelijk zijn en derhalve na korte tijd een onmiddellijk gevaar voor de volksgezondheid kunnen opleveren.   
 2.  De in het eerste lid bedoelde vermelding moet bestaan uit de woorden «te gebruiken tot» gevolgd door de uiterste datum waarop de waar moet worden geconsumeerd teneinde bedoeld gevaar te voorkomen.   
 3.  Indien het eerste lid van toepassing is, moet tevens een aanwijzing omtrent de bewaring en het gebruik als bedoeld in artikel 5, eerste lid, onder e, worden gebezigd.   
-4.  Artikel 16, vierde en zevende lid, is van overeenkomstige toepassing op de in dit artikel bedoelde vermelding.   
+4.  Artikel 16, vierde en zevende lid, is van overeenkomstige toepassing op de in dit artikel bedoelde vermelding.  
 
 ### §  3.5  
 
@@ -355,15 +355,15 @@ De aanwijzing omtrent de bewaring en het gebruik, bedoeld in artikel 5, eerste l
 
 a. indien de eet- of drinkwaar op een bijzondere wijze moet worden bewaard; onderscheidenlijk  
 
-b. indien zonder de aanwijzing omtrent het gebruik of het gebruiksklaar maken de eet- of drinkwaar niet op de juiste wijze kan worden gebruikt of gebruiksklaar worden gemaakt.    
+b. indien zonder de aanwijzing omtrent het gebruik of het gebruiksklaar maken de eet- of drinkwaar niet op de juiste wijze kan worden gebruikt of gebruiksklaar worden gemaakt.   
 
 ### Artikel  19  
 
-De vermelding van de gegevens omtrent de producent, importeur of leverancier, bedoeld in artikel 5, eerste lid, onder f, moet bestaan uit de naam of de handelsnaam en het adres, met dien verstande dat voor rechtspersonen de vermelding van het adres mag worden vervangen door de vermelding van de plaats van vestiging.  
+De vermelding van de gegevens omtrent de producent, importeur of leverancier, bedoeld in artikel 5, eerste lid, onder f, moet bestaan uit de naam of de handelsnaam en het adres, met dien verstande dat voor rechtspersonen de vermelding van het adres mag worden vervangen door de vermelding van de plaats van vestiging. 
 
 ### Artikel  20  
 
-De vermelding van de plaats van oorsprong of herkomst, bedoeld in artikel 5, eerste lid, onder g, moet bestaan uit een regionale, territoriale of topografische vermelding, en moet worden gebezigd indien weglating ervan de koper zou kunnen misleiden ten aanzien van de werkelijke oorsprong of herkomst.  
+De vermelding van de plaats van oorsprong of herkomst, bedoeld in artikel 5, eerste lid, onder g, moet bestaan uit een regionale, territoriale of topografische vermelding, en moet worden gebezigd indien weglating ervan de koper zou kunnen misleiden ten aanzien van de werkelijke oorsprong of herkomst. 
 
 ### Artikel  21  
 
@@ -382,7 +382,7 @@ e. voor dranken op basis van gegiste honing: 1% vol;
 
 f. voor dranken met vruchten of plantedelen: 1,5% vol;  
 
-g. voor overige dranken: 0,3% vol.     
+g. voor overige dranken: 0,3% vol.    
 
 ### Artikel  22  
 
@@ -393,11 +393,11 @@ g. voor overige dranken: 0,3% vol.
 a. aan opslag-, behandelings- of verpakkingsbedrijven worden verkocht of afgeleverd,  
 
 b. voor onmiddellijke opneming in een operationeel bereidings- of verwerkingssysteem worden opgehaald.     
-4.  De datum van minimale houdbaarheid onderscheidenlijk de uiterste consumptiedatum, voor zover deze een dagaanduiding inhoudt, geldt als een vermelding als bedoeld in het eerste lid.   
+4.  De datum van minimale houdbaarheid onderscheidenlijk de uiterste consumptiedatum, voor zover deze een dagaanduiding inhoudt, geldt als een vermelding als bedoeld in het eerste lid.  
 
 ### Artikel  23  
 
-De vermelding betreffende een verpakkingsgas, bedoeld in artikel 5, eerste lid, onder j, bestaat uit de woorden «verpakt onder beschermende atmosfeer» en wordt gebezigd voor eet- of drinkwaren waarvan de houdbaarheid is verlengd met behulp van de – bij of krachtens enige wettelijke regeling toegelaten – verpakkingsgassen.  
+De vermelding betreffende een verpakkingsgas, bedoeld in artikel 5, eerste lid, onder j, bestaat uit de woorden «verpakt onder beschermende atmosfeer» en wordt gebezigd voor eet- of drinkwaren waarvan de houdbaarheid is verlengd met behulp van de – bij of krachtens enige wettelijke regeling toegelaten – verpakkingsgassen. 
 
 ### §  4  
 
@@ -405,7 +405,7 @@ De vermelding betreffende een verpakkingsgas, bedoeld in artikel 5, eerste lid, 
 
 ### Artikel  24  
 
-De in dit besluit bedoelde aanduiding en vermeldingen moeten duidelijk zichtbaar en met het blote oog gemakkelijk leesbaar zijn aangebracht en mogen niet door vegen kunnen worden uitgewist. Zij moeten, behoudens de vermelding, bedoeld in artikel 5, eerste lid, onder i, in elk geval in een van de volgende talen zijn gesteld: Nederlands, Papiaments, Engels of Spaans.  
+De in dit besluit bedoelde aanduiding en vermeldingen moeten duidelijk zichtbaar en met het blote oog gemakkelijk leesbaar zijn aangebracht en mogen niet door vegen kunnen worden uitgewist. Zij moeten, behoudens de vermelding, bedoeld in artikel 5, eerste lid, onder i, in elk geval in een van de volgende talen zijn gesteld: Nederlands, Papiaments, Engels of Spaans. 
 
 ### Artikel  25  
 
@@ -428,27 +428,27 @@ a. de nettohoeveelheid;
 b. de datum van minimale houdbaarheid, onderscheidenlijk de uiterste consumptiedatum, met dien verstande dat mag worden volstaan met de woorden «ten minste houdbaar tot», of «ten minste houdbaar tot einde», onderscheidenlijk «te gebruiken tot», mits deze vermelding wordt gevolgd door een verwijzing naar de plaats op of aan de verpakking waar de datum voorkomt;  
 
 c. het alcoholgehalte.     
-4.  In afwijking van artikel 5, eerste lid, mag op de verpakking van voorverpakte eet- of drinkwaren waarvan het grootste vlak kleiner is dan 10 cm <sup>2</sup>, worden volstaan met de vermelding van de nettohoeveelheid en de datum van minimale houdbaarheid, onderscheidenlijk de uiterste consumptiedatum.   
-5.  In afwijking van de artikelen 3 en 5, eerste lid, behoeven op gestandaardiseerde tapmaatflessen, waarin melk of melkprodukten zijn verpakt, slechts de datum van minimale houdbaarheid of de uiterste consumptiedatum, alsmede gegevens omtrent de producent, verpakker of verkoper te worden gebezigd.   
+4.  In afwijking van artikel 5, eerste lid, mag op de verpakking van voorverpakte eet- of drinkwaren waarvan het grootste vlak kleiner is dan 10 cm<sup>2</sup>, worden volstaan met de vermelding van de nettohoeveelheid en de datum van minimale houdbaarheid, onderscheidenlijk de uiterste consumptiedatum.   
+5.  In afwijking van de artikelen 3 en 5, eerste lid, behoeven op gestandaardiseerde tapmaatflessen, waarin melk of melkprodukten zijn verpakt, slechts de datum van minimale houdbaarheid of de uiterste consumptiedatum, alsmede gegevens omtrent de producent, verpakker of verkoper te worden gebezigd.  
 
 ### Artikel  26  
 
 1.  Voor wat betreft een niet voorverpakte eet- of drinkwaar als bedoeld in artikel 1, vierde lid, onderdelen b, c en e, moeten de aanduiding alsmede de vermelding van de nettohoeveelheid voor het publiek in ieder geval duidelijk zichtbaar zijn aangebracht op het voorwerp waarin of waarop de betrokken waar zich bevindt, of op een onmiddellijk boven bedoeld voorwerp geplaatst(e) bord of kaart.   
-2.  Voor wat betreft een niet voorverpakte eet- of drinkwaar als bedoeld in artikel 1, vierde lid, onder e, moet bovendien de vermelding van de produktiepartij voorkomen op de verpakking of op een daaraan gehecht etiket, of, indien zulks niet mogelijk is, op het handelsdocument dat de betrokken waar vergezelt.   
+2.  Voor wat betreft een niet voorverpakte eet- of drinkwaar als bedoeld in artikel 1, vierde lid, onder e, moet bovendien de vermelding van de produktiepartij voorkomen op de verpakking of op een daaraan gehecht etiket, of, indien zulks niet mogelijk is, op het handelsdocument dat de betrokken waar vergezelt.  
 
 ### Artikel  27  
 
-Voor wat betreft een verpakte eet- of drinkwaar moeten de aanduiding alsmede de vermelding van de produktiepartij zijn aangebracht op de verpakking, of, indien zulks niet mogelijk is, op het handelsdocument dat de betrokken waar vergezelt.  
+Voor wat betreft een verpakte eet- of drinkwaar moeten de aanduiding alsmede de vermelding van de produktiepartij zijn aangebracht op de verpakking, of, indien zulks niet mogelijk is, op het handelsdocument dat de betrokken waar vergezelt. 
 
 ### Artikel  28  
 
-Voor wat betreft een onverpakte eet- of drinkwaar moet de aanduiding voor het publiek duidelijk zichtbaar zijn aangebracht op het voorwerp waarin of waarop de betrokken waar zich bevindt, of op een onmiddellijk boven bedoeld voorwerp geplaatst bord of geplaatste kaart.  
+Voor wat betreft een onverpakte eet- of drinkwaar moet de aanduiding voor het publiek duidelijk zichtbaar zijn aangebracht op het voorwerp waarin of waarop de betrokken waar zich bevindt, of op een onmiddellijk boven bedoeld voorwerp geplaatst bord of geplaatste kaart. 
 
 ### Artikel  29  
 
 1.  Indien zich in een verpakking een in afzonderlijk verpakte eenheden verdeelde hoeveelheid van een zelfde eet- of drinkwaar bevindt, wordt eerstbedoelde verpakking aangemerkt als de verpakking, bedoeld in artikel 25, eerste lid.   
 2.  Indien zich in een verpakking een voorverpakte eet- of drinkwaar, dan wel een in afzonderlijk verpakte of onverpakte eenheden verdeelde hoeveelheid van verschillende eet- of drinkwaren, al dan niet met andere waren bevindt, wordt eerstbedoelde verpakking aangemerkt als de verpakking, bedoeld in artikel 25, eerste lid. Op bedoelde verpakking behoeven slechts de aanduiding en de vermelding van de nettohoeveelheid van elke afzonderlijke eet- of drinkwaar te worden vermeld, mits op de verpakking van de afzonderlijke eenheden de voor de betrokken eet- of drinkwaren voorgeschreven aanduiding en vermeldingen zijn aangebracht.   
-3.  In afwijking van het eerste en tweede lid behoeven de in die leden voorgeschreven aanduiding en vermeldingen niet op de buitenzijde van de volgens die leden aangemerkte verpakking of op een op die verpakking aangebracht etiket te zijn aangebracht, indien die verpakking helder doorzichtig is, en de zich in bedoelde verpakking bevindende eenheden de volgens dit besluit voorgeschreven aanduiding en vermeldingen dragen en deze voldoende zichtbaar zijn.   
+3.  In afwijking van het eerste en tweede lid behoeven de in die leden voorgeschreven aanduiding en vermeldingen niet op de buitenzijde van de volgens die leden aangemerkte verpakking of op een op die verpakking aangebracht etiket te zijn aangebracht, indien die verpakking helder doorzichtig is, en de zich in bedoelde verpakking bevindende eenheden de volgens dit besluit voorgeschreven aanduiding en vermeldingen dragen en deze voldoende zichtbaar zijn.  
 
 ### Artikel  30  
 
@@ -457,7 +457,7 @@ Voor wat betreft een onverpakte eet- of drinkwaar moet de aanduiding voor het pu
 
 a. aan de betrokken eet- of drinkwaar effecten of eigenschappen toeschrijven die deze niet bezit; of  
 
-b. suggereren dat de betrokken eet- of drinkwaar bijzondere kenmerken vertoont, hoewel alle soortgelijke eet- of drinkwaren dezelfde kenmerken bezitten.     
+b. suggereren dat de betrokken eet- of drinkwaar bijzondere kenmerken vertoont, hoewel alle soortgelijke eet- of drinkwaren dezelfde kenmerken bezitten.    
 
 ### §  5  
 
@@ -466,73 +466,73 @@ b. suggereren dat de betrokken eet- of drinkwaar bijzondere kenmerken vertoont, 
 ### Artikel  31  
 
 1.  Indien in enig wettelijk voorschrift is bepaald dat ten aanzien van een bepaalde eet- of drinkwaar of een bepaalde categorie van eet- of drinkwaren, de aanduiding, bedoeld in artikel 3, of één of meer der vermeldingen, bedoeld in artikel 5, eerste, onderscheidenlijk tweede lid, niet mogen, dan wel niet behoeven te worden gebezigd, is met betrekking tot die eet- of drinkwaar of die categorie van eet- of drinkwaren het in genoemde artikelen bepaalde niet van toepassing, voor zover het die aanduiding of de betrokken melding betreft.   
-2.  Indien ten aanzien van een bepaalde eet- of drinkwaar of een bepaalde categorie van eet- of drinkwaren, met betrekking tot een aanduiding, bedoeld in artikel 3, of één of meer der vermeldingen als bedoeld in artikel 5, eerste, onderscheidenlijk tweede lid, een vrijstelling of ontheffing is verleend van een ander wettelijk voorschrift dan het onderhavige besluit, is het in genoemde artikelen bepaalde niet van toepassing, voor zover het die aanduiding of betrokken vermeldingen betreft.   
+2.  Indien ten aanzien van een bepaalde eet- of drinkwaar of een bepaalde categorie van eet- of drinkwaren, met betrekking tot een aanduiding, bedoeld in artikel 3, of één of meer der vermeldingen als bedoeld in artikel 5, eerste, onderscheidenlijk tweede lid, een vrijstelling of ontheffing is verleend van een ander wettelijk voorschrift dan het onderhavige besluit, is het in genoemde artikelen bepaalde niet van toepassing, voor zover het die aanduiding of betrokken vermeldingen betreft.  
 
 ### Artikel  32  
 
-Dit besluit treedt in werking met ingang van de dag na die der uitgifte van het Publicatieblad waarin het geplaatst is, en werkt terug tot en met 11 november 2004.  
+Dit besluit treedt in werking met ingang van de dag na die der uitgifte van het Publicatieblad waarin het geplaatst is, en werkt terug tot en met 11 november 2004. 
 
 ### Artikel  33  
 
-Dit besluit kan worden aangehaald als: Besluit etikettering van levensmiddelen BES.  
+Dit besluit kan worden aangehaald als: Besluit etikettering van levensmiddelen BES. 
 
-### Bijlage  I  
+###Bijlage I 
 
-Deze bijlage behoort bij artikel 7, tweede lid, onder a, van het Besluit etikettering van levensmiddelen BES De in artikel 7, tweede lid, onder a, bedoelde ingrediënten zijn de volgende:  
+Deze bijlage behoort bij artikel 7, tweede lid, onder a, van het Besluit etikettering van levensmiddelen BES De in artikel 7, tweede lid, onder a, bedoelde ingrediënten zijn de volgende: 
 
-| Definitie  | Vermelding  |
+|Definitie |Vermelding |
 |:---|:---|
-| Andere geraffineerde oliën dan olijfolie  | «olie», nader omschreven met:  |
-| --- | – de aanduiding «plantaardig» of «dierlijk», naar gelang van het geval; of  |
-| --- | – de aanduiding van de specifieke plantaardige of dierlijke oorsprong.  |
-| --- | De aanduiding «gehard» wordt toegevoegd aan de aanduiding van een geharde olie.  |
-| Geraffineerde vetten  | «vet», nader omschreven met:  |
-| --- | – de aanduiding «plantaardig» of «dierlijk», naar gelang van het geval; of  |
-| --- | – de aanduiding van de specifieke plantaardige of dierlijke oorsprong.  |
-| Mengsels van meel van twee of meer graansoorten  | De aanduiding «gehard» wordt toegevoegd aan de aanduiding van een gehard vet.  |
-| --- | «meel», gevolgd door de vermelding van de graansoorten waarvan het afkomstig is, in dalende volgorde van hun gewichtspercentage.  |
-| Natief zetmeel en langs fysische weg of enzymen gemodificeerd zetmeel  | «zetmeel» nader aangevuld met een omschrijving van de specifieke plantaardige oorsprong indien dat ingrediënt gluten kan bevatten.  |
-| Alle soorten vis wanneer die vis een ingrediënt vormt van een ander levensmiddel, tenzij de aanduiding en de presentatie van die eet- of drinkwaar duiden op een speciale soort vis  | vis  |
-| Alle soorten kaas wanneer de kaas of het mengsel van kaassoorten een ingrediënt vormt van een ander levensmiddel, tenzij de aanduiding en de presentatie van die eet- of drinkwaar duiden op een speciale soort kaas  | kaas  |
-| Alle specerijen die niet meer dan 2% van het gewicht van de eet- of drinkwaar uitmaken  | «specerijen» of «mengsel van specerijen»  |
-| Alle kruiden of delen daarvan die niet meer dan 2% van het gewicht van de eet- of drinkwaar uitmaken  | «kruiden» of «mengsel van kruiden»  |
-| Alle soorten gompreparaten die voor de bereiding van gom als basis voor kauwgom worden gebruikt  | gom  |
-| Alle soorten paneermeel  | paneermeel  |
-| Alle categorieën saccharose  | suiker  |
-| Watervrije dextrose en dextrosemonohydraat  | dextrose  |
-| Glucosestroop en gedehydrateerde glucosestroop  | glucosestroop  |
-| Alle melkeiwitten (caseïne, caseïnaten en eiwitten van wei) en mengsels daarvan  | melkeiwitten  |
-| Cacaopersboter cacao-wringboter of geraffineerde cacaoboter  | cacaoboter  |
-| Alle geconfijte vruchten die niet meer dan 10% van het gewicht van de eet- of drinkwaar uitmaken  | geconfijte vruchten  |
-| Mengsels van groenten die niet meer dan 10% van het gewicht van de eet- of drinkwaar uitmaken  | groenten  |
-| Alle soorten wijn  | wijn  |
+|Andere geraffineerde oliën dan olijfolie |«olie», nader omschreven met: |
+| --- |– de aanduiding «plantaardig» of «dierlijk», naar gelang van het geval; of |
+| --- |– de aanduiding van de specifieke plantaardige of dierlijke oorsprong. |
+| --- |De aanduiding «gehard» wordt toegevoegd aan de aanduiding van een geharde olie. |
+|Geraffineerde vetten |«vet», nader omschreven met: |
+| --- |– de aanduiding «plantaardig» of «dierlijk», naar gelang van het geval; of |
+| --- |– de aanduiding van de specifieke plantaardige of dierlijke oorsprong. |
+|Mengsels van meel van twee of meer graansoorten |De aanduiding «gehard» wordt toegevoegd aan de aanduiding van een gehard vet. |
+| --- |«meel», gevolgd door de vermelding van de graansoorten waarvan het afkomstig is, in dalende volgorde van hun gewichtspercentage. |
+|Natief zetmeel en langs fysische weg of enzymen gemodificeerd zetmeel |«zetmeel» nader aangevuld met een omschrijving van de specifieke plantaardige oorsprong indien dat ingrediënt gluten kan bevatten. |
+|Alle soorten vis wanneer die vis een ingrediënt vormt van een ander levensmiddel, tenzij de aanduiding en de presentatie van die eet- of drinkwaar duiden op een speciale soort vis |vis |
+|Alle soorten kaas wanneer de kaas of het mengsel van kaassoorten een ingrediënt vormt van een ander levensmiddel, tenzij de aanduiding en de presentatie van die eet- of drinkwaar duiden op een speciale soort kaas |kaas |
+|Alle specerijen die niet meer dan 2% van het gewicht van de eet- of drinkwaar uitmaken |«specerijen» of «mengsel van specerijen» |
+|Alle kruiden of delen daarvan die niet meer dan 2% van het gewicht van de eet- of drinkwaar uitmaken |«kruiden» of «mengsel van kruiden» |
+|Alle soorten gompreparaten die voor de bereiding van gom als basis voor kauwgom worden gebruikt |gom |
+|Alle soorten paneermeel |paneermeel |
+|Alle categorieën saccharose |suiker |
+|Watervrije dextrose en dextrosemonohydraat |dextrose |
+|Glucosestroop en gedehydrateerde glucosestroop |glucosestroop |
+|Alle melkeiwitten (caseïne, caseïnaten en eiwitten van wei) en mengsels daarvan |melkeiwitten |
+|Cacaopersboter cacao-wringboter of geraffineerde cacaoboter |cacaoboter |
+|Alle geconfijte vruchten die niet meer dan 10% van het gewicht van de eet- of drinkwaar uitmaken |geconfijte vruchten |
+|Mengsels van groenten die niet meer dan 10% van het gewicht van de eet- of drinkwaar uitmaken |groenten |
+|Alle soorten wijn |wijn |
 
-### Bijlage  II  
+###Bijlage II 
 
-Deze bijlage behoort bij artikel 7, tweede lid, onder b, van het Besluit etikettering van levensmiddelen BES De in artikel 7, tweede lid, onder b, bedoelde categorieën van levensmiddelenadditieven zijn de volgende:  
+Deze bijlage behoort bij artikel 7, tweede lid, onder b, van het Besluit etikettering van levensmiddelen BES De in artikel 7, tweede lid, onder b, bedoelde categorieën van levensmiddelenadditieven zijn de volgende: 
 
 | --- | --- |
 |:---|:---|
-| antiklontermiddel  | --- |
-| antioxydant  | --- |
-| antischuimmiddel  | --- |
-| bevochtigingsmiddel  | --- |
-| conserveermiddel  | --- |
-| drijfgas  | --- |
-| emulgator  | --- |
-| geleermiddel  | --- |
-| gemodificeerd zetmeel  | (de specifieke aanduiding of het EG-nummer behoeven niet vermeld te worden)  |
-| glansmiddel  | --- |
-| kleurstof  | --- |
-| meelverbeteraar  | --- |
-| rijsmiddel  | --- |
-| smaakversterker  | --- |
-| smeltzout  | (alleen voor smeltkaas en produkten op basis van smeltkaas)  |
-| stabilisator  | --- |
-| verdikkingsmiddel  | --- |
-| verstevigingsmiddel  | --- |
-| voedingszuur  | --- |
-| vulstof  | --- |
-| zoetstof  | --- |
-| zuurteregelaar  | --- |
+|antiklontermiddel | --- |
+|antioxydant | --- |
+|antischuimmiddel | --- |
+|bevochtigingsmiddel | --- |
+|conserveermiddel | --- |
+|drijfgas | --- |
+|emulgator | --- |
+|geleermiddel | --- |
+|gemodificeerd zetmeel |(de specifieke aanduiding of het EG-nummer behoeven niet vermeld te worden) |
+|glansmiddel | --- |
+|kleurstof | --- |
+|meelverbeteraar | --- |
+|rijsmiddel | --- |
+|smaakversterker | --- |
+|smeltzout |(alleen voor smeltkaas en produkten op basis van smeltkaas) |
+|stabilisator | --- |
+|verdikkingsmiddel | --- |
+|verstevigingsmiddel | --- |
+|voedingszuur | --- |
+|vulstof | --- |
+|zoetstof | --- |
+|zuurteregelaar | --- |
 
