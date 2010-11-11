@@ -12,25 +12,25 @@ Stelt de volgende regeling vast:
 
 a. Deze regeling is van toepassing op zorg of dienst als omschreven bij of krachtens de [Zorgverzekeringswet](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) welke wordt geleverd door: 
 
-– instellingen voor medisch specialistische zorg (met uitzondering van sanatoria, epilepsie-inrichtingen en abortusklinieken); <sup> 1  Voorheen: instellingen voor niet-klinische hemodialyse, ziekenhuizen, academische ziekenhuizen, radiotherapeutische centra, beademingscentra, instellingen voor revalidatie.  </sup>  
+– instellingen voor medisch specialistische zorg<sup> 1 Voorheen: instellingen voor niet-klinische hemodialyse, ziekenhuizen, academische ziekenhuizen, radiotherapeutische centra, beademingscentra, instellingen voor revalidatie. </sup>(met uitzondering van sanatoria, epilepsie-inrichtingen en abortusklinieken);  
 
 – instelling – niet zijnde een ziekenhuis – voor medisch specialistische zorg;  
 
 – audiologische centra;  
 
-– centra voor erfelijkheidsonderzoek   en zorgaanbieders die geneeskundige zorg leveren zoals medisch specialisten die bieden te onderscheiden naar categorieën van specialismen overeenkomstig het onderscheid zoals dat wordt gemaakt in het specialistenregister van de Koninklijke Nederlandse Maatschappij tot bevordering der Geneeskunst, zoals dat register luidt op het tijdstip van vaststellen van een tarief/prestatiebeschrijving door de Nederlandse Zorgautoriteit voor het desbetreffende specialisme.    
+– centra voor erfelijkheidsonderzoek   en zorgaanbieders die geneeskundige zorg leveren zoals medisch specialisten die bieden te onderscheiden naar categorieën van specialismen overeenkomstig het onderscheid zoals dat wordt gemaakt in het specialistenregister van de Koninklijke Nederlandse Maatschappij tot bevordering der Geneeskunst, zoals dat register luidt op het tijdstip van vaststellen van een tarief/prestatiebeschrijving door de Nederlandse Zorgautoriteit voor het desbetreffende specialisme.   
 
 ### Artikel  2  
 
 ####Verplichtingen
 
-De verplichtingen die uit deze regeling voortvloeien treden in werking op 1 januari 2010. Met de inwerkingtreding van regeling CUI/NR-100.116 wordt regeling [CI/NR-100.085](../../../../../../../../../zbo/declaratiebepalingen/dbc-bedragen/en/overige/bedragen/medisch/etc/BWBR0024605/README.md) beëindigd.  
+De verplichtingen die uit deze regeling voortvloeien treden in werking op 1 januari 2010. Met de inwerkingtreding van regeling CUI/NR-100.116 wordt regeling [CI/NR-100.085](../../../../../../../../../zbo/declaratiebepalingen/dbc-bedragen/en/overige/bedragen/medisch/etc/BWBR0024605/README.md) beëindigd. 
 
 ### Artikel  3  
 
 ####Definities en begrippen
 
-3.1  *Diagnosebehandelingcombinatie:*  De diagnosebehandelingcombinatie (DBC) typeert het geheel van prestaties van zorginstelling en medisch specialist , voortvloeiend uit de zorgvraag waarvoor de patiënt de medisch specialist in de zorginstelling consulteert. <sup> 2  Hieronder wordt ook de extramuraal werkende medisch specialist en de audioloog (klinisch fysicus) verstaan.  </sup>  
+3.1  *Diagnosebehandelingcombinatie:*  De diagnosebehandelingcombinatie (DBC) typeert het geheel van prestaties van zorginstelling en medisch specialist<sup> 2 Hieronder wordt ook de extramuraal werkende medisch specialist en de audioloog (klinisch fysicus) verstaan. </sup>, voortvloeiend uit de zorgvraag waarvoor de patiënt de medisch specialist in de zorginstelling consulteert.  
 
 3.2  *DBC-traject:*  Een DBC duurt maximaal 365 dagen. Wanneer het zorgtraject langer dan 365 dagen duurt of een andere fase of status in de behandeling aanbreekt (bijvoorbeeld langdurige periodieke controle), wordt dit vervolgtraject getypeerd met een zogenoemde vervolg-DBC. Derhalve is een DBC altijd gerelateerd aan een bepaalde periode binnen een zorgtraject, het zogenoemde DBC-traject. Binnen deze periode wordt de DBC-dataset opgebouwd die gebruikt wordt voor de typering van de DBC als declarabel product.  
 
@@ -62,7 +62,7 @@ De verplichtingen die uit deze regeling voortvloeien treden in werking op 1 jan
 
 – aan een ander specialisme, werkzaam binnen dezelfde instelling, waarvoor de DBC-systematiek niet geldt (zoals kaakchirurgie en revalidatiegeneeskunde).    
 
-3.8  *A-segment:*  Voor het A-segment gelden prestatieomschrijvingen met landelijke DBC-bedragen, uitgesplitst in een kostenbedrag voor de zorginstelling en afzonderlijke honorariumbedragen voor elk bij het DBC-traject betrokken medisch specialisme. De DBC’s zijn geclusterd in productgroepen, elk voorzien van één of twee DBC-declaratiecodes . <sup> 3  DBC’s die afhankelijk van de indicatie wel of niet onder de aanspraak vallen (de zogenaamde oranje DBC’s), hebben twee declaratiecodes, één voor verzekerde zorg en één voor niet-verzekerde zorg. Hetzelfde geldt voor productgroepen, wanneer binnen een productgroep zowel DBC’s zijn opgenomen die wel onder de aanspraak vallen als DBC’s die niet onder de aanspraak vallen.     </sup>  
+3.8  *A-segment:*  Voor het A-segment gelden prestatieomschrijvingen met landelijke DBC-bedragen, uitgesplitst in een kostenbedrag voor de zorginstelling en afzonderlijke honorariumbedragen voor elk bij het DBC-traject betrokken medisch specialisme. De DBC’s zijn geclusterd in productgroepen, elk voorzien van één of twee DBC-declaratiecodes<sup> 3 DBC’s die afhankelijk van de indicatie wel of niet onder de aanspraak vallen (de zogenaamde oranje DBC’s), hebben twee declaratiecodes, één voor verzekerde zorg en één voor niet-verzekerde zorg. Hetzelfde geldt voor productgroepen, wanneer binnen een productgroep zowel DBC’s zijn opgenomen die wel onder de aanspraak vallen als DBC’s die niet onder de aanspraak vallen.  </sup>.  
 
 3.9  *B-segment:*  Voor het B-segment zijn alleen de prestatieomschrijvingen en de honorariumbedragen voor de poortspecialist (hoofdbehandelaar) opgenomen. Voor de overige ondersteunende specialismen is alleen het honorariumbedrag per verrichting vastgesteld. De kostenbedragen en het volume aan ondersteunende producten per DBC zijn vrij onderhandelbaar.  
 
@@ -72,7 +72,7 @@ De verplichtingen die uit deze regeling voortvloeien treden in werking op 1 jan
 
 3.12  *DBC-tarief A-segment:*  Het DBC-tarief voor een DBC uit het A-segment is het totaal van het DBC-kostenbedrag, inclusief verrekenpercentage (voor DBC’s in het A-segment vallend onder de niet in het basispakket verzekerde zorg geldt geen verrekenpercentage), en de DBC-honorariumbedragen.   
 
-3.13  *DBC-tarief B-segment:*  Het DBC-tarief voor een DBC uit het B-segment is het totaal van het lokaal overeengekomen DBC-kostenbedrag en de DBC-honorarium-bedragen dan wel het door de zorginstelling vastgestelde DBC-kostenbedrag en de DBC-honorariumbedragen. Ten aanzien van de honorariumbedragen in segment B geldt dat het volume aan ondersteunende en overige producten vrij onderhandelbaar c.q. vrij te bepalen is. De honorariumbedragen van het hoofdspecialisme zijn landelijk vastgestelde bedragen.    
+3.13  *DBC-tarief B-segment:*  Het DBC-tarief voor een DBC uit het B-segment is het totaal van het lokaal overeengekomen DBC-kostenbedrag en de DBC-honorarium-bedragen dan wel het door de zorginstelling vastgestelde DBC-kostenbedrag en de DBC-honorariumbedragen. Ten aanzien van de honorariumbedragen in segment B geldt dat het volume aan ondersteunende en overige producten vrij onderhandelbaar c.q. vrij te bepalen is. De honorariumbedragen van het hoofdspecialisme zijn landelijk vastgestelde bedragen.   
 
 ### Artikel  4  
 
@@ -98,7 +98,7 @@ De verplichtingen die uit deze regeling voortvloeien treden in werking op 1 jan
 
 7. bij overlijden van de patiënt.    
 
-4.2.2  *DBC’s die gedeclareerd kunnen worden*  Het volledige DBC-tarief kan in rekening worden gebracht voor DBC’s die zijn geopend vanaf 1 februari 2005 en die intern zijn gevalideerd door de zorginstelling via de validatiemodule. Vanaf 1 januari 2007 wordt het ordernummer gehanteerd ten behoeve van declaraties door aanbieders. Uitgangspunt voor declaratie is het DBC-tarief dat gold op het moment van openen van de DBC . Alleen DBC’s die volgens de vigerende typeringsinstructies zijn getypeerd en die zijn gevalideerd volgens de vigerende validatiemodule kunnen worden gedeclareerd. <sup> 4  De voorwaarde van validering door de zorginstelling via de validatiemodule geldt niet voor de zelfstandige radiotherapeutische instellingen, de zelfstandige dialysecentra en de audiologische centra. Hier dienen wel alternatieve controlemaatregelen aanwezig te zijn met vergelijkbare betrouwbaarheidsgraad. Voor de zelfstandige radiotherapeutische instellingen en de zelfstandige dialysecentra geldt dat het volledige DBC-tarief in rekening kan worden gebracht voor DBC’s die zijn geopend vanaf 1 februari 2006 en dat er voor verrichtingen na 1 februari 2006 geen onderliggende NZA-verrichtingencodes meer kunnen worden gedeclareerd. Voor de audiologische centra geldt dat het volledige DBC-tarief in rekening kan worden gebracht voor DBC’s die zijn geopend vanaf 1 januari 2007 en dat er voor verrichtingen na 1 januari 2007 geen onderliggende NZA-verrichtingencodes meer kunnen worden gedeclareerd.  </sup>  
+4.2.2  *DBC’s die gedeclareerd kunnen worden*  Het volledige DBC-tarief kan in rekening worden gebracht voor DBC’s die zijn geopend vanaf 1 februari 2005 en die intern zijn gevalideerd door de zorginstelling via de validatiemodule. Vanaf 1 januari 2007 wordt het ordernummer gehanteerd ten behoeve van declaraties door aanbieders. Uitgangspunt voor declaratie is het DBC-tarief dat gold op het moment van openen van de DBC<sup> 4 De voorwaarde van validering door de zorginstelling via de validatiemodule geldt niet voor de zelfstandige radiotherapeutische instellingen, de zelfstandige dialysecentra en de audiologische centra. Hier dienen wel alternatieve controlemaatregelen aanwezig te zijn met vergelijkbare betrouwbaarheidsgraad. Voor de zelfstandige radiotherapeutische instellingen en de zelfstandige dialysecentra geldt dat het volledige DBC-tarief in rekening kan worden gebracht voor DBC’s die zijn geopend vanaf 1 februari 2006 en dat er voor verrichtingen na 1 februari 2006 geen onderliggende NZA-verrichtingencodes meer kunnen worden gedeclareerd. Voor de audiologische centra geldt dat het volledige DBC-tarief in rekening kan worden gebracht voor DBC’s die zijn geopend vanaf 1 januari 2007 en dat er voor verrichtingen na 1 januari 2007 geen onderliggende NZA-verrichtingencodes meer kunnen worden gedeclareerd. </sup>. Alleen DBC’s die volgens de vigerende typeringsinstructies zijn getypeerd en die zijn gevalideerd volgens de vigerende validatiemodule kunnen worden gedeclareerd.  
 
 4.2.3  *Aan wie wordt de DBC gedeclareerd?*  Het DBC-tarief wordt gedeclareerd aan de patiënt of aan de ziektekostenverzekeraar. Wanneer de patiënt gedurende de looptijd van een DBC is veranderd van ziektekostenverzekeraar, dient de DBC te worden gedeclareerd aan de ziektekostenverzekeraar bij wie de patiënt verzekerd was op het moment van opening van de te declareren DBC.  
 
@@ -124,7 +124,7 @@ De verplichtingen die uit deze regeling voortvloeien treden in werking op 1 jan
 
 * voor het specialisme anesthesiologie alleen voor wat betreft pijnbestrijding DBC’s;  
 
-* niet bij preoperatieve screening.      
+* niet bij preoperatieve screening.     
 
 ### Artikel  5  
 
@@ -136,7 +136,7 @@ De verplichtingen die uit deze regeling voortvloeien treden in werking op 1 jan
 
 5.3 Ondersteunende en overige producten op verzoek van de eerstelijn, op verzoek van een ander specialisme werkzaam binnen dezelfde instelling waarvoor de DBC-systematiek niet geldt en in het kader van onderlinge dienstverlening en verpleging in de thuissituatie, noodzakelijk in verband met medisch- specialistische zorg.  
 
-5.4  *Specifieke bepalingen overige bedragen*  Voor de specifieke declaratiebepalingen voor overige trajecten en verrichtingen wordt verwezen naar bijlage 4. Voor de specifieke declaratiebepalingen voor O(v)P’s op verzoek van de eerstelijn en in het kader van onderlinge dienstverlening wordt verwezen naar bijlage 5.    
+5.4  *Specifieke bepalingen overige bedragen*  Voor de specifieke declaratiebepalingen voor overige trajecten en verrichtingen wordt verwezen naar bijlage 4. Voor de specifieke declaratiebepalingen voor O(v)P’s op verzoek van de eerstelijn en in het kader van onderlinge dienstverlening wordt verwezen naar bijlage 5.   
 
 ### Artikel  6  
 
@@ -178,34 +178,34 @@ De verplichtingen die uit deze regeling voortvloeien treden in werking op 1 jan
 
 6.5b. Een overig of ondersteunend product wordt dus niet bij patiënt of verzekeraar in rekening gebracht als het overig of ondersteunend product onderdeel uitmaakt van een DBC.    *Zorgtrajecten*  
 
-6.6. De zorgtrajecten 41 en 51 kunnen niet worden gedeclareerd. Indien er een prestatieomschrijving is vastgesteld en er aan het eerstelijnscriterium wordt voldaan kan er wel een overig of ondersteunend product in rekening worden gebracht. Ook kunnen er voor zorgtrajecten 41 en 51 geen parameters ten behoeve van FB budget worden geregistreerd.    
+6.6. De zorgtrajecten 41 en 51 kunnen niet worden gedeclareerd. Indien er een prestatieomschrijving is vastgesteld en er aan het eerstelijnscriterium wordt voldaan kan er wel een overig of ondersteunend product in rekening worden gebracht. Ook kunnen er voor zorgtrajecten 41 en 51 geen parameters ten behoeve van FB budget worden geregistreerd.   
 
 ### Artikel  7  
 
 ####Inwerkingtreding regeling
 
-De regeling kan worden aangehaald als ‘Regeling declaratiebepalingen DBC-bedragen en overige bedragen medisch specialistische zorg door of vanwege de zorginstelling’. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+De regeling kan worden aangehaald als ‘Regeling declaratiebepalingen DBC-bedragen en overige bedragen medisch specialistische zorg door of vanwege de zorginstelling’. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 De Nederlandse Zorgautoriteit, 
 voorzitter Raad van Bestuur, 
-T.W.Langejan  
+T.W. Langejan    
 
-### Bijlage  1  
+###Bijlage 1 
 
-Niet opgenomen.  
+Niet opgenomen.
 
-### Bijlage  2  
+###Bijlage 2 
 
-Niet opgenomen.  
+Niet opgenomen.
 
-### Bijlage  3  
+###Bijlage 3 
 
-Niet opgenomen.  
+Niet opgenomen.
 
-### Bijlage  4  
+###Bijlage 4 
 
-Niet opgenomen.  
+Niet opgenomen.
 
-### Bijlage  5  
+###Bijlage 5 
 
-Niet opgenomen.  
+Niet opgenomen.
