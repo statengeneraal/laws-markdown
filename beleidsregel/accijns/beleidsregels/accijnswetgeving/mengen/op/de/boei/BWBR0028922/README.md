@@ -7,7 +7,7 @@
 
 ####Inleiding
 
-Bij enkele vergunninghouders van een accijnsgoederenplaats (hierna: AGP) bestaat de behoefte om bepaalde vervaardigingshandelingen met betrekking tot minerale oliën te verrichten buiten hun AGP. Het betreft hier het mengen van bepaalde minerale oliën aan boord van een schip, dat is gelegen aan een boei dan wel een vaste paal in de haven (hierna: mengen op de boei). De minerale oliën die aan boord worden gebracht (via de zogenoemde ‘boord-boordoverslag’) zijn veelal afkomstig uit een of meerdere AGP’s of belastingentrepots. In het merendeel van de gevallen vindt het mengen plaats aan boord van een zeeschip, waarmee de minerale olie die ontstaat na vermenging wordt uitgevoerd. Het is echter ook mogelijk dat de na vermenging ontstane minerale olie naar een andere AGP wordt overgebracht. Vanuit logistieke overwegingen is het in bepaalde gevallen efficiënter om dit mengen aan boord van het (uitgaande) schip te verrichten in plaats van in een landtank van een in het havengebied gelegen AGP dan wel in een schip dat is gelegen aan de steiger van die AGP en dat verbonden is met de daar aanwezige installaties van de AGP. <sup> 1  In dit besluit wordt kortheidshalve alleen over ‘boei’ gesproken.  </sup>    
+Bij enkele vergunninghouders van een accijnsgoederenplaats (hierna: AGP) bestaat de behoefte om bepaalde vervaardigingshandelingen met betrekking tot minerale oliën te verrichten buiten hun AGP. Het betreft hier het mengen van bepaalde minerale oliën aan boord van een schip, dat is gelegen aan een boei dan wel een vaste paal<sup> 1 In dit besluit wordt kortheidshalve alleen over ‘boei’ gesproken. </sup>in de haven (hierna: mengen op de boei). De minerale oliën die aan boord worden gebracht (via de zogenoemde ‘boord-boordoverslag’) zijn veelal afkomstig uit een of meerdere AGP’s of belastingentrepots. In het merendeel van de gevallen vindt het mengen plaats aan boord van een zeeschip, waarmee de minerale olie die ontstaat na vermenging wordt uitgevoerd. Het is echter ook mogelijk dat de na vermenging ontstane minerale olie naar een andere AGP wordt overgebracht. Vanuit logistieke overwegingen is het in bepaalde gevallen efficiënter om dit mengen aan boord van het (uitgaande) schip te verrichten in plaats van in een landtank van een in het havengebied gelegen AGP dan wel in een schip dat is gelegen aan de steiger van die AGP en dat verbonden is met de daar aanwezige installaties van de AGP.    
 ### 2  
 
 ####Wettelijke bepalingen
@@ -45,5 +45,5 @@ Den Haag
 1 november 2010   
 
 De 
-staatssecretaris van Financiën,
-F. H. H.Weekers   
+staatssecretaris van Financiën, 
+F. H. H. Weekers     
