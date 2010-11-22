@@ -26,13 +26,13 @@ Deze regel is van toepassing op
 
 – psychiaters werkzaam voor Psychiatrische Afdelingen van Algemene Ziekenhuizen (PAAZ-en) en Psychiatrische Universiteits Klinieken (PUK-en);  
 
-– zorgaanbieders die geneeskundige zorg leveren zoals medisch specialisten die bieden en die uitsluitend werkzaam zijn in een solo-praktijk of in een (privé)kliniek waar uitsluitend derde-compartimentzorg wordt geleverd.    
+– zorgaanbieders die geneeskundige zorg leveren zoals medisch specialisten die bieden en die uitsluitend werkzaam zijn in een solo-praktijk of in een (privé)kliniek waar uitsluitend derde-compartimentzorg wordt geleverd.   
 
 ### 2  
 
 ####Doel van de regel
 
-In verband met de beoogde invoering van een beheersingsmodel voor de honoraria van medisch specialisten heeft de minister van VWS de NZa opdracht gegeven om nader onderzoek uit te voeren ten behoeve van de vaststelling van honorariumbudgetten bij de instellingen voor medisch specialistische zorg die onder de reikwijdte van deze regel vallen. Deze regel concretiseert ten behoeve van dit onderzoek de uit de [Wmg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) voortvloeiende verplichting tot het verstrekken van gegevens en inlichtingen. <sup> 1  CZ-IPZ-2996974 d.d. 26 april 2010  </sup> <sup> 2  CZ-IPZ-3011865 d.d. 9 juli 2010  </sup>  
+In verband met de beoogde invoering van een beheersingsmodel voor de honoraria van medisch specialisten<sup> 1 CZ-IPZ-2996974 d.d. 26 april 2010 </sup>heeft de minister van VWS de NZa opdracht gegeven<sup> 2 CZ-IPZ-3011865 d.d. 9 juli 2010 </sup>om nader onderzoek uit te voeren ten behoeve van de vaststelling van honorariumbudgetten bij de instellingen voor medisch specialistische zorg die onder de reikwijdte van deze regel vallen. Deze regel concretiseert ten behoeve van dit onderzoek de uit de [Wmg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) voortvloeiende verplichting tot het verstrekken van gegevens en inlichtingen. 
 
 ### 3  
 
@@ -46,7 +46,7 @@ In verband met de beoogde invoering van een beheersingsmodel voor de honoraria v
 
 *Het onderzoeksbureau:*  KPMG Advisory N.V.  
 
-*Het controleprotocol:*  Het op de website van de NZa gepubliceerde Controleprotocol ‘gegevensuitvraag honoraria medisch specialisten en medisch specialisten-eenheden’.    
+*Het controleprotocol:*  Het op de website van de NZa gepubliceerde Controleprotocol ‘gegevensuitvraag honoraria medisch specialisten en medisch specialisten-eenheden’.   
 
 ### 4  
 
@@ -56,21 +56,21 @@ a. De medisch specialist is gehouden de in bijlage 1 aangeduide en in bijlage 2 
 
 b. De instelling is gehouden om bij het onderzoeksbureau binnen de door de NZa vastgestelde termijn(en) en door middel van (het) door de NZa vastgestelde formulier(en) kosteloos een opgave in te dienen van de in bijlage I bij deze regel aangeduide en in bijlage 2 nader gedefinieerde gegevens.  
 
-c. Deze opgave moet namens de indienende instelling rechtsgeldig ondertekend zijn, en voorzien van een in overeenstemming met het controleprotocol opgestelde accountantsverklaring respectievelijk rapport van bevindingen van een accountant.    
+c. Deze opgave moet namens de indienende instelling rechtsgeldig ondertekend zijn, en voorzien van een in overeenstemming met het controleprotocol opgestelde accountantsverklaring respectievelijk rapport van bevindingen van een accountant.   
 
 ### 5  
 
 ####Inwerkingtreding en citeerregel
 
-Deze regel treedt in werking op 10 november 2010. Indien de Staatscourant waarin de mededeling als bedoeld in [artikel 20, tweede lid sub b van de Wmg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) wordt geplaatst, wordt uitgegeven na 8 november 2010, treedt de regel in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin de mededeling wordt geplaatst en werkt hij terug tot en met 10 november 2010.  
+Deze regel treedt in werking op 10 november 2010. Indien de Staatscourant waarin de mededeling als bedoeld in [artikel 20, tweede lid sub b van de Wmg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) wordt geplaatst, wordt uitgegeven na 8 november 2010, treedt de regel in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin de mededeling wordt geplaatst en werkt hij terug tot en met 10 november 2010. 
 Deze regel kan worden aangehaald als: ‘Nadere regel Gegevensuitvraag beheersingsmodel’.  
 
 De 
-Nederlandse Zorgautoriteit
-T.W.Langejan,
-voorzitter Raad van Bestuur.  
+Nederlandse Zorgautoriteit 
+T.W. Langejan,  
+voorzitter Raad van Bestuur.   
 
-### Bijlagen:  
+### Bijlagen: 
 
 1. Overzicht te verstrekken gegevens  
 
