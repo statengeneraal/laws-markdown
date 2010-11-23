@@ -30,4 +30,4 @@ Informatie die betrekking heeft op politieke ambtsdragers, kunt u vinden op de i
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze: de 
 directeur Arbeidszaken Publieke Sector, 
-L.D.P.Lombaers   
+L.D.P. Lombaers     
