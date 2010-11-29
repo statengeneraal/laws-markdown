@@ -13,7 +13,7 @@ Besluit:
 ### Artikel  1  
 
 1.  Deze aanwijzing is van toepassing op ziekenvervoer per ambulance als omschreven bij en krachtens de [Zorgverzekeringswet](../../../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), hierna te noemen: ambulancezorg.   
-2.  De Nederlandse Zorgautoriteit, verder te noemen zorgautoriteit, stelt ter uitvoering van deze aanwijzing waar nodig regels en beleidsregels vast.   
+2.  De Nederlandse Zorgautoriteit, verder te noemen zorgautoriteit, stelt ter uitvoering van deze aanwijzing waar nodig regels en beleidsregels vast.  
 
 ### Artikel  2  
 
@@ -23,7 +23,7 @@ a. een bevriezing van het aantal ritten (gewogen/ongewogen) en van het aantal ve
 
 b. de structurele middelen die op grond van het landelijk referentiekader Spreiding en Beschikbaarheid 2008 ter beschikking zijn gesteld (17 miljoen euro), blijven beschikbaar totdat het landelijk referentiekader Spreiding en Beschikbaarheid 2008 is herijkt  
 
-c. een ex ante korting op de budgetten - inclusief de middelen, bedoeld onder b- van cumulatief 0,5 procentpunt per jaar.    
+c. een ex ante korting op de budgetten - inclusief de middelen, bedoeld onder b- van cumulatief 0,5 procentpunt per jaar.   
 
 ### Artikel  3  
 
@@ -34,21 +34,21 @@ a. de efficiencytaakstelling geldt voor alle betrokken ambulancediensten op eenz
 b. indien het aantal daadwerkelijk gerealiseerde ritten minder bedraagt dan de geprognosticeerde groei van 2,5% per jaar ten opzichte van het jaar daarvoor, dan wordt het verschil in mindering gebracht op de budgetten zoals deze door de zorgautoriteit worden bepaald bij de invoering van een nieuw bekostigingsmodel.  
 
 c. bij de ex ante korting op de budgetten wordt het voorlopige cijfer voor de loon- en prijsindexatie gehanteerd; ex post vindt correctie plaats voor het verschil tussen het voorlopige en het definitieve indexatiecijfer.     
-2.  De zorgautoriteit neemt bij de uitvoering van deze aanwijzing het Convenant met betrekking tot de implementatie van de [Wet ambulancezorg](../../../../../../../../../../../../../wet/wet/ambulancezorg/BWBR0025304/README.md) (Waz) tussen de Staat der Nederlanden en de Vereniging Ambulancezorg Nederland (AZN) van 11 maart 2010 in acht.   
+2.  De zorgautoriteit neemt bij de uitvoering van deze aanwijzing het Convenant met betrekking tot de implementatie van de [Wet ambulancezorg](../../../../../../../../../../../../../wet/wet/ambulancezorg/BWBR0025304/README.md) (Waz) tussen de Staat der Nederlanden en de Vereniging Ambulancezorg Nederland (AZN) van 11 maart 2010 in acht.  
 
 ### Artikel  4  
 
-Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.  
+Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst. 
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers  
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers    
 
 ### Bijlage  1  
 
 ####Convenant met betrekking tot de implementatie van de [Wet ambulancezorg](../../../../../../../../../../../../../wet/wet/ambulancezorg/BWBR0025304/README.md) (Waz)
 
-*Partijen:*  De Minister van Volksgezondheid, Welzijn en Sport, dr. A. Klink, handelend als bestuursorgaan en als vertegenwoordiger van de Staat der Nederlanden (hierna: de minister); en Vereniging Ambulancezorg Nederland, te dezen vertegenwoordigd door de voorzitter, de heer drs. G.E.L.M. Worm (hierna: AZN);  *Overwegende:*  dat op 2 december 2008 de [Wet ambulancezorg](../../../../../../../../../../../../../wet/wet/ambulancezorg/BWBR0025304/README.md) (hierna: Waz) door de Eerste Kamer is aanvaard; dat de doelstelling van de [Waz](../../../../../../../../../../../../../wet/wet/ambulancezorg/BWBR0025304/README.md) is het verder verbeteren van de kwaliteit en de doelmatigheid van de ambulancezorg, zowel onder normale omstandigheden als ten tijde van rampen en crises. Dat dit onder meer betreft: 
+*Partijen:*  De Minister van Volksgezondheid, Welzijn en Sport, dr. A. Klink, handelend als bestuursorgaan en als vertegenwoordiger van de Staat der Nederlanden (hierna: de minister); en  Vereniging Ambulancezorg Nederland, te dezen vertegenwoordigd door de voorzitter, de heer drs. G.E.L.M. Worm (hierna: AZN);  *Overwegende:*  dat op 2 december 2008 de [Wet ambulancezorg](../../../../../../../../../../../../../wet/wet/ambulancezorg/BWBR0025304/README.md) (hierna: Waz) door de Eerste Kamer is aanvaard; dat de doelstelling van de [Waz](../../../../../../../../../../../../../wet/wet/ambulancezorg/BWBR0025304/README.md) is het verder verbeteren van de kwaliteit en de doelmatigheid van de ambulancezorg, zowel onder normale omstandigheden als ten tijde van rampen en crises. Dat dit onder meer betreft: 
 
 * het realiseren van voldoende bereikbaarheid door spreiding en beschikbaarheid in het hele land uniform en eenduidig te organiseren. Hiervoor wordt in het land gewerkt met het landelijk referentiekader Spreiding en Beschikbaarheid, dat rekening houdt met open regiogrenzen en bedoeld is als richtsnoer. Tevens komen planning en financiering in één hand;  
 
@@ -56,7 +56,7 @@ E.I.Schippers
 
 * het erkennen van ambulancezorg als een ongedeeld product van meldkamer, spoedeisende en niet-spoedeisende (of planbare) ambulancezorg. Dit doel wordt bereikt door ambulancezorg te organiseren als een ononderbroken proces van intake, zorgindicatie, zorgtoewijzing, zorgverlening, zorgoverdracht, vervoer en beschikbaarheid; en  
 
-* het uitvoering geven aan ambulancezorg die doelmatig is. Een grotere doelmatigheid kan onder andere bereikt worden door schaalvergroting naar RAV-regio’s, door differentiatie in zorg en door benchmarking, zoals in de [WAZ](../../../../../../../../../../../../../wet/wet/ambulancezorg/BWBR0025304/README.md) aangegeven.   dat in de afgelopen jaren op het terrein van het verbeteren van de kwaliteit en de doelmatigheid door de sector, in samenwerking en met steun van het ministerie van VWS, reeds veel is bereikt: 
+* het uitvoering geven aan ambulancezorg die doelmatig is. Een grotere doelmatigheid kan onder andere bereikt worden door schaalvergroting naar RAV-regio’s, door differentiatie in zorg en door benchmarking, zoals in de [WAZ](../../../../../../../../../../../../../wet/wet/ambulancezorg/BWBR0025304/README.md) aangegeven.    dat in de afgelopen jaren op het terrein van het verbeteren van de kwaliteit en de doelmatigheid door de sector, in samenwerking en met steun van het ministerie van VWS, reeds veel is bereikt: 
 
 * het landelijk referentiekader Spreiding en Beschikbaarheid 2008 is vastgesteld en functioneert in de praktijk over regio’s heen waardoor over regiogrenzen heen wordt gewerkt. Dit heeft tevens geleid tot aanvullende financiering vanuit het ministerie, waarbij een financieringssysteem wordt gehanteerd dat een relatie legt met het referentiekader. Dit systeem is mede in samenwerking met AZN tot stand gekomen;  
 
@@ -78,13 +78,13 @@ E.I.Schippers
 
 In dit convenant wordt verstaan onder: 
 
-a. *NZa:* de Nederlandse zorgautoriteit; en  
+a.  *NZa:* de Nederlandse zorgautoriteit; en  
 
-b. *programma van eisen:* programma van eisen als bedoeld in [artikel 4, eerste lid van de Waz](../../../../../../../../../../../../../wet/wet/ambulancezorg/BWBR0025304/README.md).    
+b.  *programma van eisen:* programma van eisen als bedoeld in [artikel 4, eerste lid van de Waz](../../../../../../../../../../../../../wet/wet/ambulancezorg/BWBR0025304/README.md).   
 
 ### Artikel  2  
 
-Partijen werken samen teneinde te bewerkstellingen dat er voor de sector ambulancezorg voldoende prikkels zijn om te werken aan een continue verbetering van de kwaliteit en de doelmatigheid.  
+Partijen werken samen teneinde te bewerkstellingen dat er voor de sector ambulancezorg voldoende prikkels zijn om te werken aan een continue verbetering van de kwaliteit en de doelmatigheid. 
 
 ### Artikel  3  
 
@@ -104,7 +104,7 @@ d. de budgetten voor ambulancezorg zoals berekend door de NZa - inclusief de mid
 
 4. Indien de instellingstaken van de Landelijke Meldkamer ambulancezorg worden overgeheveld naar de individuele ambulancediensten, verstrekt de minister hiervoor geen aanvullende financiering. Deze instellingstaken betreffen: het ter hand nemen van de coördinatie van (bovenregionale) taken, die voortvloeien uit de primaire processen in de ambulancezorg, het spelen van een coördinerende rol bij rampenbestrijding en grootschalige (bovenregionale/landelijke) incidenten, het verlenen van ondersteuning voor de regionale meldkamers ambulancezorg bij grootschalige incidenten in de regio zelf en het vormen van een centraal ondersteuningspunt in de informatievoorzieningsbehoefte van de sector. AZN spant zich in om met GHOR-Nederland afspraken te maken over de GHOR-taken die op dit moment door de Landelijke Meldkamer Ambulancezorg worden verricht.  
 
-5. Indien de financiële economische situatie daartoe aanleiding geeft, kunnen additionele maatregelen worden getroffen die ook de ambulancesector treffen. AZN geeft aan dat dit gevolgen kan hebben voor het prestatieniveau.    
+5. Indien de financiële economische situatie daartoe aanleiding geeft, kunnen additionele maatregelen worden getroffen die ook de ambulancesector treffen. AZN geeft aan dat dit gevolgen kan hebben voor het prestatieniveau.   
 
 ### Artikel  4  
 
@@ -118,7 +118,7 @@ d. de budgetten voor ambulancezorg zoals berekend door de NZa - inclusief de mid
 
 5. Uiterlijk in december 2010 heeft de minister, in samenwerking met AZN, de NZa en ZN een notitie vastgesteld die de contouren bevat van de prestatiebekostiging. In de jaren 2011 en 2012 vindt de verdere uitwerking plaats, waar mogelijk afgestemd op de invoering van de benchmarking. De minister zal voor die nadere uitwerking een verzoek doen aan de NZa.  
 
-6. Tot de datum van invoering van de prestatiebekostiging, blijft de huidige bekostigingsystematiek gehandhaafd.    
+6. Tot de datum van invoering van de prestatiebekostiging, blijft de huidige bekostigingsystematiek gehandhaafd.   
 
 ### Artikel  5  
 
@@ -150,17 +150,17 @@ e. Informatie te genereren voor de Inspectie Gezondheidszorg (IGZ), die toezicht
 
 9. In 2011 maken AZN en de minister nadere afspraken over de wijze van registratie van de gegevens, de bewerking van de gegevens en de verzameling van de gegevens.  
 
-10. Tot de benchmark is ontwikkeld, verplicht AZN zich tot het jaarlijks uitbrengen van de reeds bestaande benchmark ‘Ambulances in-zicht’.    
+10. Tot de benchmark is ontwikkeld, verplicht AZN zich tot het jaarlijks uitbrengen van de reeds bestaande benchmark ‘Ambulances in-zicht’.   
 
 ### Artikel  6  
 
 1. AZN spant zich maximaal in om te bevorderen dat in die regio’s waar nog geen RAV tot stand is gekomen, er op de kortst mogelijke termijn alsnog één RAV tot stand komt die als rechtspersoon de vergunning kan aanvragen voor het verrichten van ambulancezorg in de desbetreffende regio.  
 
-2. In het programma van eisen zullen nadere eisen worden gesteld aan de organisatie en structuur van een RAV. In ieder geval zal als eis worden gesteld dat de directie van een RAV integraal verantwoordelijk en bij uitsluiting bevoegd is voor de vergunning ambulancezorg.    
+2. In het programma van eisen zullen nadere eisen worden gesteld aan de organisatie en structuur van een RAV. In ieder geval zal als eis worden gesteld dat de directie van een RAV integraal verantwoordelijk en bij uitsluiting bevoegd is voor de vergunning ambulancezorg.   
 
 ### Artikel  7  
 
-Dit convenant is niet afdwingbaar.  
+Dit convenant is niet afdwingbaar. 
 
 ### Artikel  8  
 
@@ -170,17 +170,17 @@ Dit convenant is niet afdwingbaar.
 
 3. Partijen treden in overleg binnen 2 weken nadat een partij de wens daartoe schriftelijk heeft medegedeeld.  
 
-4. Indien het overleg niet binnen 2 maanden tot overeenstemming heeft geleid, mag elke partij dit convenant met inachtneming van een opzegtermijn van 3 maanden schriftelijk opzeggen.    
+4. Indien het overleg niet binnen 2 maanden tot overeenstemming heeft geleid, mag elke partij dit convenant met inachtneming van een opzegtermijn van 3 maanden schriftelijk opzeggen.   
 
 ### Artikel  9  
 
-Na de inwerkingtreding van dit convenant wordt de tekst daarvan gepubliceerd in de Staatscourant.  
+Na de inwerkingtreding van dit convenant wordt de tekst daarvan gepubliceerd in de Staatscourant. 
 
 Aldus overeengekomen en in tweevoud ondertekend te Den Haag op 11 maart 2010:  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-A.Klink 
+Minister van Volksgezondheid, Welzijn en Sport, 
+A. Klink   
 
 De Voorzitter Ambulancezorg Nederland 
 G.E.L. Worm    

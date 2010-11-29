@@ -14,7 +14,7 @@ Dit besluit bevat het beleid over aftrekposten van de nalatenschap ([artikel 20
 
 | --- | --- |
 |:---|:---|
-| Successiewet  |  [Successiewet 1956](../../../../../wet/successiewet/1956/BWBR0002226/README.md)   |
+| Successiewet  | [Successiewet 1956](../../../../../wet/successiewet/1956/BWBR0002226/README.md)  |
 
 ### 2  
 
@@ -43,7 +43,7 @@ De erfgenamen zijn hoofdelijk aansprakelijk voor de erfbelasting die is verschul
 
 Het volgende besluit is ingetrokken met terugwerkende kracht tot en met 1 januari 2010: 
 
-–  [CPP2005/2787M](../../../../../beleidsregel/successiewet/1956/artikel/20/aftrekposten/nalatenschap/BWBR0019581/README.md)       
+– [CPP2005/2787M](../../../../../beleidsregel/successiewet/1956/artikel/20/aftrekposten/nalatenschap/BWBR0019581/README.md)      
 ### 6  
 
 ####Inwerkingtreding
@@ -54,5 +54,5 @@ Den Haag
 10 juni 2010   
 
 De 
-Minister van Financiën,
-J.C. deJager   
+Minister van Financiën, 
+J.C. de Jager     

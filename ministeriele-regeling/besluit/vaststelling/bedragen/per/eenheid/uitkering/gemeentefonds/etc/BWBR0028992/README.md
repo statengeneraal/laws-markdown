@@ -10,16 +10,16 @@ Besluit:
 
 ### Artikel  1  
 
-Voor het uitkeringsjaar 2009 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1.  
+Voor het uitkeringsjaar 2009 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 De 
-minister van Binnenlandse Zaken en Koninkrijksrelaties,voor deze:
-de waarnemend directeur Openbaar Bestuur en Democratie,
-M.H.Klijnsma  
+minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: 
+de waarnemend directeur Openbaar Bestuur en Democratie, 
+M.H. Klijnsma    
 
 ### Bijlage  1  
 
@@ -85,7 +85,7 @@ De bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet
 | 42  | Vast bedrag voor Den Haag  | 80.479.355,39  |
 | 43  | Vast bedrag voor Utrecht  | 44.596.965,89  |
 | 44  | Vast bedrag voor de Waddengemeenten  | 149.950,63  |
-| 44a  | Vast bedrag Baarle-Nassau  <sup> 1   De gemeente Baarle-Nassau ontvangt een vast bedrag gelijk aan 2 maal het vaste bedrag voor iedere gemeente.    </sup> | 250.100,68  |
+| 44a  | Vast bedrag Baarle-Nassau<sup> 1  De gemeente Baarle-Nassau ontvangt een vast bedrag gelijk aan 2 maal het vaste bedrag voor iedere gemeente.  </sup>   | 250.100,68  |
 | 45a  | Herindeling (per gemeente)  | 2.245.440,00  |
 | 45b  | Herindeling (per inwoner)  | 53,29  |
 
