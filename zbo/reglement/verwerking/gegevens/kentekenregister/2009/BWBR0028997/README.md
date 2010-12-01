@@ -15,21 +15,21 @@ Besluit:
 
 In dit reglement wordt verstaan onder: 
 
-a) *persoonsgegeven:* elk gegeven betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;  
+a)  *persoonsgegeven:* elk gegeven betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;  
 
-b) *wet:*[Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+b)  *wet:* [Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-c) *verantwoordelijke voor het kentekenregister:* de Dienst Wegverkeer (RDW)  
+c)  *verantwoordelijke voor het kentekenregister:* de Dienst Wegverkeer (RDW)  
 
-d) *CBP:* het College bescherming persoonsgegevens, als bedoeld in [artikel 51 van de Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
+d)  *CBP:* het College bescherming persoonsgegevens, als bedoeld in [artikel 51 van de Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
 
-e) *betrokkene:* degene op wie de gegevens betrekking hebben.    
+e)  *betrokkene:* degene op wie de gegevens betrekking hebben.   
 
 ### Artikel  2  
 
 ####Grondslag en reikwijdte van het reglement
 
-Dit reglement is gebaseerd op [artikel 45 van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en is van toepassing op de verwerking van gegevens uit het kentekenregister.  
+Dit reglement is gebaseerd op [artikel 45 van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en is van toepassing op de verwerking van gegevens uit het kentekenregister. 
 
 ### Artikel  3  
 
@@ -55,7 +55,7 @@ h) andere dan hierboven genoemde politieregisters;
 
 i) onderzoeksregistraties van het Landelijk Informatiecentrum Voertuigcriminaliteit (LIV);  
 
-j) het WAM register en Recidiveregister-WAM ten aanzien van de persoonsregistratie uit het kentekenregister.    
+j) het WAM register en Recidiveregister-WAM ten aanzien van de persoonsregistratie uit het kentekenregister.   
 
 ### Hoofdstuk  2  
 
@@ -65,7 +65,7 @@ j) het WAM register en Recidiveregister-WAM ten aanzien van de persoonsregistrat
 
 ####In het kentekenregister geregistreerde betrokkenen
 
-Het kentekenregister bevat gegevens omtrent natuurlijke personen en rechtspersonen aan wie een kenteken is, dan wel was, opgegeven voor een motorrijtuig of aanhangwagen.  
+Het kentekenregister bevat gegevens omtrent natuurlijke personen en rechtspersonen aan wie een kenteken is, dan wel was, opgegeven voor een motorrijtuig of aanhangwagen. 
 
 ### Artikel  5  
 
@@ -106,7 +106,7 @@ Het kentekenregister bevat gegevens omtrent natuurlijke personen en rechtsperson
 
 16e. wat betreft het gegeven als bedoeld in onderdeel t: de gemeentelijke basisadministratie van de gemeente waar degene, die is overleden zijn woonplaats had.  
 
-17e. wat betreft de gegevens als bedoeld in onderdeel u: de Belastingdienst Centrale administratie/Autoheffingen of het Centraal Justitieel Incassobureau, met dien verstande, dat deze organisaties zelf de gegevens invoeren, wijzigen en verwijderen.     
+17e. wat betreft de gegevens als bedoeld in onderdeel u: de Belastingdienst Centrale administratie/Autoheffingen of het Centraal Justitieel Incassobureau, met dien verstande, dat deze organisaties zelf de gegevens invoeren, wijzigen en verwijderen.    
 
 ### Artikel  6  
 
@@ -117,7 +117,7 @@ Het kentekenregister bevat gegevens omtrent natuurlijke personen en rechtsperson
 3.  De Dienst Wegverkeer verwijdert de in [artikel 6 onderdelen d, e, g, i, j, k, l, m, o, r en u van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md) bedoelde gegevens uit het kentekenregister uiterlijk negen jaar na het einde van de registratie van het motorrijtuig of aanhangwagen in het kentekenregister.   
 4.  De Dienst Wegverkeer verwijdert de in [artikel 6 onderdeel n van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md) bedoelde gegevens uit het kentekenregister uiterlijk drie maanden nadat voor het desbetreffende motorrijtuig of aanhangwagen een kenteken is opgegeven, dan wel de opgave van een zodanig kenteken is geweigerd.   
 5.  In afwijking van het eerste en derde lid worden het kenteken, het voertuigidentificatienummer, de merkcodering, het typegoedkeuringsnummer, het bouwjaar dan wel de datum eerste toelating, en de datum en de wijze waarop de registratie van het voertuig is beëindigd, niet uit het kentekenregister verwijderd.   
-6.  De op grond van het eerste, tweede, derde en vierde lid verwijderde gegevens worden vernietigd.   
+6.  De op grond van het eerste, tweede, derde en vierde lid verwijderde gegevens worden vernietigd.  
 
 ### Hoofdstuk  3  
 
@@ -134,7 +134,7 @@ a. de verantwoordelijke voor het kentekenregister;
 b. personen die zijn belast met of leiding geven aan het invoeren, wijzigen, verwijderen en verstrekken van gegevens;  
 
 c. andere door de Dienst Wegverkeer daartoe gemachtigde personen, voor zover zulks voor hun taakuitoefening noodzakelijk is.     
-2.  De Dienst Wegverkeer stelt een autorisatietabel op, waarin op functieniveau is aangegeven wie toegang heeft tot het kentekenregister alsmede wie gegevens mag invoeren, wijzigen, verwijderen en verstrekken.   
+2.  De Dienst Wegverkeer stelt een autorisatietabel op, waarin op functieniveau is aangegeven wie toegang heeft tot het kentekenregister alsmede wie gegevens mag invoeren, wijzigen, verwijderen en verstrekken.  
 
 ### Hoofdstuk  4  
 
@@ -145,7 +145,7 @@ c. andere door de Dienst Wegverkeer daartoe gemachtigde personen, voor zover zul
 ####Overheidsorganen
 
 1.  De eerste aanvraag tot het verstrekken van gegevens aan overheidsorganen als bedoeld in de [wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) geschiedt schriftelijk bij de Dienst Wegverkeer onder opgave van de naam en het adres van de aanvrager alsmede de redenen van de aanvraag. Voor de Dienst Wegverkeer dient het aannemelijk te zijn, dat de aanvrager een overheidsorgaan is en een publiekrechtelijke taak uitoefent. De Dienst Wegverkeer vergewist zich daarbij in elk geval van de identiteit van de aanvrager.   
-2.  De Dienst Wegverkeer bepaalt de wijze waarop de procedure van de vervolgaanvragen en vervolgverstrekkingen van gegevens voor de in het eerste lid bedoelde instanties verloopt.   
+2.  De Dienst Wegverkeer bepaalt de wijze waarop de procedure van de vervolgaanvragen en vervolgverstrekkingen van gegevens voor de in het eerste lid bedoelde instanties verloopt.  
 
 ### Artikel  9  
 
@@ -189,9 +189,9 @@ d) een stichting rechtsbijstand, als bedoeld in de [Wet op de rechtsbijstand](..
 
 e) gerechtsdeurwaarders, te worden overgelegd: 
 
-– een legitimatiebewijs, uitgegeven door de minister van Justitie, waaruit blijkt, dat men is benoemd als gerechtsdeurwaarder (Stcrt. 28-3-2000, nr. 62, p. 24);  
+–  een legitimatiebewijs, uitgegeven door de minister van Justitie, waaruit blijkt, dat men is benoemd als gerechtsdeurwaarder (Stcrt. 28-3-2000, nr. 62, p. 24);  
 
-– een bewijs van het feit, dat er sprake is van de voorbereiding van een dagvaarding in een civielrechtelijke procedure waarbij een motorrijtuig is betrokken en waarin sprake is van het wegrijden zonder te betalen na het tanken van brandstof.    
+–  een bewijs van het feit, dat er sprake is van de voorbereiding van een dagvaarding in een civielrechtelijke procedure waarbij een motorrijtuig is betrokken en waarin sprake is van het wegrijden zonder te betalen na het tanken van brandstof.    
 
 f) fabrikanten of importeurs van motorrijtuigen en aanhangwagens, te worden overgelegd: 
 
@@ -207,19 +207,19 @@ g) individueel aangewezen beroepsbeoefenaren, te worden overgelegd:
 
 – documenten waaruit de identiteit van de aanvrager blijkt en de doelbinding kan worden vastgesteld.       
 1.  De bevraging van het kentekenregister door beroepsbeoefenaren geschiedt waar mogelijk op basis van opgegeven kenteken.   
-2.  Een verzoek om te worden aangewezen als beroepsbeoefenaar dient te worden gericht aan de minister van Verkeer en Waterstaat.   
+2.  Een verzoek om te worden aangewezen als beroepsbeoefenaar dient te worden gericht aan de minister van Verkeer en Waterstaat.  
 
 ### Artikel  10  
 
 ####Informatieproviders
 
-Ten aanzien van de aanvraag en verstrekking van gevoelige gegevens aan informatieproviders zijn de ‘Eisen en voorwaarden RDW-providers’ van toepassing. Een verzoek om te worden aangewezen als informatieprovider dient te worden gericht aan de minister van Verkeer en Waterstaat.  
+Ten aanzien van de aanvraag en verstrekking van gevoelige gegevens aan informatieproviders zijn de ‘Eisen en voorwaarden RDW-providers’ van toepassing. Een verzoek om te worden aangewezen als informatieprovider dient te worden gericht aan de minister van Verkeer en Waterstaat. 
 
 ### Artikel  11  
 
 ####Overige belanghebbenden
 
-De bevraging van gevoelige gegevens uit het kentekenregister door overige belanghebbenden geschiedt op basis van opgegeven kenteken.  
+De bevraging van gevoelige gegevens uit het kentekenregister door overige belanghebbenden geschiedt op basis van opgegeven kenteken. 
 
 ### Artikel  12  
 
@@ -227,13 +227,13 @@ De bevraging van gevoelige gegevens uit het kentekenregister door overige belang
 
 1.  Aan autoriteiten buiten Nederland maar binnen de EU of EVA worden gegevens verstrekt op grond van het bepaalde in [artikel 43, tweede lid van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), het [Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md) alsmede internationale rechtsregels, afspraken en samenwerkingsverbanden.   
 2.  De bepalingen inzake verstrekking aan belanghebbenden binnen Nederland worden – voor zover de regels omtrent bescherming van de persoonlijke levenssfeer van de betrokkene dit toelaten – gelijkelijk toegepast ten aanzien van de verstrekking aan belanghebbenden buiten Nederland maar binnen de EU;   
-3.  Aan autoriteiten buiten de EU of EVA worden gegevens verstrekt op grond van het bepaalde in [artikel 43, tweede lid, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), het [Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), alsmede internationale rechtsregels, afspraken en samenwerkingsverbanden, nadat vastgesteld is dat er sprake is van een passend beschermingsniveau ten aanzien van de persoonlijke levenssfeer.   
+3.  Aan autoriteiten buiten de EU of EVA worden gegevens verstrekt op grond van het bepaalde in [artikel 43, tweede lid, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), het [Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), alsmede internationale rechtsregels, afspraken en samenwerkingsverbanden, nadat vastgesteld is dat er sprake is van een passend beschermingsniveau ten aanzien van de persoonlijke levenssfeer.  
 
 ### Artikel  13  
 
 ####Bescheiden verkeersongeval
 
-Als bescheid als bedoeld in [artikel 11, tweede en vierde lid, van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md) wordt aangewezen een proces-verbaal, opgemaakt door een opsporingsambtenaar als bedoeld in [artikel 141 van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), waaruit blijkt dat het voertuig waarop de aanvraag tot verstrekking van persoonsgegevens betrekking heeft, is betrokken bij een verkeersongeval waarbij aan de aanvrager schade is toegebracht. Indien er geen proces-verbaal kan worden overgelegd, dient op andere wijze aannemelijk te worden gemaakt dat de aanvrager betrokken is bij een verkeersongeval waarbij aan deze aanvrager schade is toegebracht.  
+Als bescheid als bedoeld in [artikel 11, tweede en vierde lid, van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md) wordt aangewezen een proces-verbaal, opgemaakt door een opsporingsambtenaar als bedoeld in [artikel 141 van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), waaruit blijkt dat het voertuig waarop de aanvraag tot verstrekking van persoonsgegevens betrekking heeft, is betrokken bij een verkeersongeval waarbij aan de aanvrager schade is toegebracht. Indien er geen proces-verbaal kan worden overgelegd, dient op andere wijze aannemelijk te worden gemaakt dat de aanvrager betrokken is bij een verkeersongeval waarbij aan deze aanvrager schade is toegebracht. 
 
 ### Hoofdstuk  5  
 
@@ -260,7 +260,7 @@ Op grond van [artikel 43c, derde lid van de wet](../../../../../../../wet/wegenv
 Op grond van [artikel 43f van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bepaalt de Dienst Wegverkeer de wijze van mededeling door overheidsorganen van feiten, die van belang kunnen zijn voor de juistheid van het register. Deze mededeling (als aanvulling op de terugmelding als bedoeld in [artikel 43c, eerste lid van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)) betreft alle niet-authentieke gegevens en feiten die voor het kentekenregister van belang zijn. De betreffende overheidsorganen dienen hiertoe gebruik te maken van de terugmeldvoorziening die in het kader van artikel 43c, eerste lid van de wet is ingericht, dan wel dienen zij een en ander schriftelijk aan de Dienst Wegverkeer kenbaar te maken. In bepaalde gevallen worden met grotere afnemers van gegevens individuele afspraken gemaakt. 
 ### *Toezichtskosten* 
 
-Op grond van [artikel 45, eerste lid, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) houdt de Dienst Wegverkeer toezicht op het juiste gebruik van verstrekte gevoelige gegevens uit het kentekenregister. Uit hoofde van [artikel 45a, derde lid van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) worden toezichtskosten op door de Dienst Wegverkeer te bepalen wijze in rekening gebracht. De toezichtskosten worden verdisconteerd in de tarieven die voor de gegevensverstrekking aan afnemers van gevoelige gegevens uit het kentekenregister waarop toezicht wordt uitgeoefend van toepassing zijn. Voor Informatieproviders zijn de aan hen verstrekte ‘Eisen en Voorwaarden voor Informatieproviders’ van toepassing, waarin het in rekening brengen van toezichtskosten afzonderlijk is geregeld.  
+Op grond van [artikel 45, eerste lid, van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) houdt de Dienst Wegverkeer toezicht op het juiste gebruik van verstrekte gevoelige gegevens uit het kentekenregister. Uit hoofde van [artikel 45a, derde lid van de wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) worden toezichtskosten op door de Dienst Wegverkeer te bepalen wijze in rekening gebracht. De toezichtskosten worden verdisconteerd in de tarieven die voor de gegevensverstrekking aan afnemers van gevoelige gegevens uit het kentekenregister waarop toezicht wordt uitgeoefend van toepassing zijn. Voor Informatieproviders zijn de aan hen verstrekte ‘Eisen en Voorwaarden voor Informatieproviders’ van toepassing, waarin het in rekening brengen van toezichtskosten afzonderlijk is geregeld. 
 
 ### Hoofdstuk  6  
 
@@ -270,7 +270,7 @@ Op grond van [artikel 45, eerste lid, van de wet](../../../../../../../wet/wegen
 
 ####Recht op kennisneming en afschrift
 
-Natuurlijke personen en rechtspersonen en hun wettelijke vertegenwoordigers hebben het recht om op hun verzoek kennis te nemen van het feit of hen betreffende persoonsgegevens in het kentekenregister zijn opgenomen. Het bepaalde in de [artikelen 35 tot en met 39 van de Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is mede van toepassing.  
+Natuurlijke personen en rechtspersonen en hun wettelijke vertegenwoordigers hebben het recht om op hun verzoek kennis te nemen van het feit of hen betreffende persoonsgegevens in het kentekenregister zijn opgenomen. Het bepaalde in de [artikelen 35 tot en met 39 van de Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is mede van toepassing. 
 
 ### Artikel  16  
 
@@ -288,13 +288,13 @@ c. deze gegevens te verwijderen indien één of meer in het kentekenregister opg
 4.  Een weigering om het verzoek tot wijziging in te willigen wordt binnen vier weken schriftelijk en met redenen omkleed aan de persoon, bedoeld in artikel 4 of diens wettelijke vertegenwoordiger medegedeeld.   
 5.  Indien de Dienst Wegverkeer aan een overeenkomstig het eerste lid gedaan verzoek voldoet, doet hij aan degenen aan wie hij naar zijn weten in het jaar voorafgaand aan het verzoek en in de sinds dat verzoek verstreken periode de betrokken gegevens heeft verstrekt, mededeling van de verbetering, aanvulling of verwijdering.   
 6.  De Dienst Wegverkeer doet aan de verzoeker opgave aan wie hij de mededeling, bedoeld in het vijfde lid, heeft gedaan.   
-7.  Het bepaalde in het vijfde en zesde lid is niet van toepassing indien de verzoeker te kennen heeft gegeven op de mededeling, bedoeld in het vijfde lid, geen prijs te stellen.   
+7.  Het bepaalde in het vijfde en zesde lid is niet van toepassing indien de verzoeker te kennen heeft gegeven op de mededeling, bedoeld in het vijfde lid, geen prijs te stellen.  
 
 ### Artikel  17  
 
 ####Indienen van een verzoek
 
-Verzoeken als bedoeld in artikel 15 en 16 kunnen worden ingediend bij de Dienst Wegverkeer, unit Informatieverstrekking, Postbus 30000, 9640 RA Veendam.  
+Verzoeken als bedoeld in artikel 15 en 16 kunnen worden ingediend bij de Dienst Wegverkeer, unit Informatieverstrekking, Postbus 30000, 9640 RA Veendam. 
 
 ### Hoofdstuk  7  
 
@@ -309,13 +309,13 @@ Verzoeken als bedoeld in artikel 15 en 16 kunnen worden ingediend bij de Dienst 
 
 a. het bewaren van dergelijke systemen in een afgesloten kast in een afgesloten ruimte;  
 
-b. het vaststellen van voorschriften inzake het gebruiken van gegevens buiten de werkruimte van de Dienst Wegverkeer.     
+b. het vaststellen van voorschriften inzake het gebruiken van gegevens buiten de werkruimte van de Dienst Wegverkeer.    
 
 ### Artikel  19  
 
 ####Beheer van het kentekenregister
 
-De Dienst Wegverkeer laat jaarlijks een accountant die is ingeschreven in het register, bedoeld in [artikel 36, eerste lid, van de Wet op de Accountants-Administratieconsulenten](../../../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md), een oordeel geven over de opzet en werking van het stelsel van interne beheersmaatregelen  
+De Dienst Wegverkeer laat jaarlijks een accountant die is ingeschreven in het register, bedoeld in [artikel 36, eerste lid, van de Wet op de Accountants-Administratieconsulenten](../../../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md), een oordeel geven over de opzet en werking van het stelsel van interne beheersmaatregelen 
 
 ### Hoofdstuk  8  
 
@@ -325,16 +325,16 @@ De Dienst Wegverkeer laat jaarlijks een accountant die is ingeschreven in het re
 
 ####Citeertitel
 
-Dit reglement wordt aangehaald als: Reglement verwerking gegevens kentekenregister 2009.  
+Dit reglement wordt aangehaald als: Reglement verwerking gegevens kentekenregister 2009. 
 
 ### Artikel  21  
 
 ####Inwerkingtreding
 
-Dit reglement treedt in werking met ingang van 1 januari 2010  
-Dit reglement zal met de toelichting in de Staatscourant worden geplaatst. Het Privacyreglement kentekenregister 2000 komt hiermee te vervallen. Dit reglement wordt voor een ieder ter inzage gelegd bij: a. de Dienst Wegverkeer, Europaweg 205, Zoetermeer; b. de Dienst Wegverkeer, Skager Rak 10, Veendam. Tevens wordt dit reglement in afschrift gezonden aan het College bescherming persoonsgegevens.  
+Dit reglement treedt in werking met ingang van 1 januari 2010 
+Dit reglement zal met de toelichting in de Staatscourant worden geplaatst. Het Privacyreglement kentekenregister 2000 komt hiermee te vervallen.  Dit reglement wordt voor een ieder ter inzage gelegd bij: a. de Dienst Wegverkeer, Europaweg 205, Zoetermeer;  b. de Dienst Wegverkeer, Skager Rak 10, Veendam.  Tevens wordt dit reglement in afschrift gezonden aan het College bescherming persoonsgegevens.  
 
 De 
-directie van de RDW,
-Algemeen directeur,
-J.G.Hakkenberg   
+directie van de RDW, 
+Algemeen directeur, 
+J.G. Hakkenberg     
