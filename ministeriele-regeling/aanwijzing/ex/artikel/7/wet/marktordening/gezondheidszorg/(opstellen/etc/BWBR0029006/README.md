@@ -20,46 +20,46 @@ Besluit:
 
 In deze aanwijzing wordt verstaan onder: 
 
-a. *minister:* de Minister van Volksgezondheid, Welzijn en Sport;  
+a.  *minister:* de Minister van Volksgezondheid, Welzijn en Sport;  
 
-b. *wet:* de [Wet marktordening gezondheidszorg](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+b.  *wet:* de [Wet marktordening gezondheidszorg](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
 
-c. *zorgautoriteit:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+c.  *zorgautoriteit:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
 
-d. *stoppen-met-rokenprogramma:* zorg bij stoppen-met-rokenprogramma als omschreven bij besluit van 31 augustus 2009, houdende wijziging van het Besluit zorgverzekering in verband met aanpassingen in de te verzekeren prestaties en in de regels voor het eigen risico per 1 januari 2010;  
+d.  *stoppen-met-rokenprogramma:* zorg bij stoppen-met-rokenprogramma als omschreven bij besluit van 31 augustus 2009, houdende wijziging van het Besluit zorgverzekering in verband met aanpassingen in de te verzekeren prestaties en in de regels voor het eigen risico per 1 januari 2010;  
 
-e. *keten-dbc:* multidisciplinaire zorgverlening met betrekking tot chronische aandoeningen diabetes mellitus type 2, cardiovasculair risicomanagement en Chronic Obstructive Pulmonary Disease.    
+e.  *keten-dbc:* multidisciplinaire zorgverlening met betrekking tot chronische aandoeningen diabetes mellitus type 2, cardiovasculair risicomanagement en Chronic Obstructive Pulmonary Disease.   
 
 ### Artikel  2  
 
-Deze aanwijzing is van toepassing op het stoppen-met-rokenprogramma.  
+Deze aanwijzing is van toepassing op het stoppen-met-rokenprogramma. 
 
 ### Artikel  3  
 
-De zorgautoriteit stelt ter uitvoering van deze aanwijzing waar nodig beleidsregels en regels vast.  
+De zorgautoriteit stelt ter uitvoering van deze aanwijzing waar nodig beleidsregels en regels vast. 
 
 ### Artikel  4  
 
 1.  De zorgautoriteit stelt met ingang van 1 januari 2011 een prestatiebeschrijving vast voor het stoppen-met-rokenprogramma.   
 2.  De prestatiebeschrijving omvat de geneeskundige en farmacotherapeutische interventies ter ondersteuning van gedragsverandering met als doel te stoppen met roken.   
-3.  Bij de vaststelling van de prestatiebeschrijving hanteert de zorgautoriteit als uitgangspunt dat de prestatie voldoet aan de Zorgmodule stoppen met roken van het Partnership stoppen met roken en de CBO Richtlijn behandeling tabaksverslaving herziening 2009.   
+3.  Bij de vaststelling van de prestatiebeschrijving hanteert de zorgautoriteit als uitgangspunt dat de prestatie voldoet aan de Zorgmodule stoppen met roken van het Partnership stoppen met roken en de CBO Richtlijn behandeling tabaksverslaving herziening 2009.  
 
 ### Artikel  5  
 
-Voor het stoppen-met-rokenprogramma geldt een vrij tarief als bedoeld in [artikel 57, vierde lid, onder c, van de wet](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).  
+Voor het stoppen-met-rokenprogramma geldt een vrij tarief als bedoeld in [artikel 57, vierde lid, onder c, van de wet](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md). 
 
 ### Artikel  6  
 
-De zorgautoriteit voorziet erin dat een prestatie als bedoeld in artikel 4 niet naast de prestatie keten-dbc nogmaals in rekening kan worden gebracht.  
+De zorgautoriteit voorziet erin dat een prestatie als bedoeld in artikel 4 niet naast de prestatie keten-dbc nogmaals in rekening kan worden gebracht. 
 
 ### Artikel  7  
 
-De zorgautoriteit voorziet erin dat een zorgaanbieder het stoppen-met rokenprogramma apart administreert.  
+De zorgautoriteit voorziet erin dat een zorgaanbieder het stoppen-met rokenprogramma apart administreert. 
 
 ### Artikel  8  
 
-Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.  
+Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst. 
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers   
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers     
