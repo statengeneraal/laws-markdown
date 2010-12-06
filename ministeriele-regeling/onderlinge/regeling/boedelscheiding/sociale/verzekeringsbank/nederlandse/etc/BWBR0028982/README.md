@@ -25,13 +25,13 @@ Komen het volgende overeen:
 
 1.  In deze regeling wordt verstaan onder: 
 
-a. *BES:* Bonaire, Sint Eustatius en Saba;  
+a.  *BES:* Bonaire, Sint Eustatius en Saba;  
 
-b. *land:* Curaçao, Sint Maarten of, met betrekking tot de BES, Nederland, dan wel de met die landen corresponderende rechtspersonen land Curaçao, land Sint Maarten en Staat der Nederlanden;  
+b.  *land:* Curaçao, Sint Maarten of, met betrekking tot de BES, Nederland, dan wel de met die landen corresponderende rechtspersonen land Curaçao, land Sint Maarten en Staat der Nederlanden;  
 
-c. *overnemende land:* het land dat ingevolge de bepalingen van het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](../../../../../../../../../rijksKB/rijksbesluit/opvolging/sociale/verzekeringsbank/nederlandse/antillen/BWBR0028600/README.md) de respectievelijke rechten en verplichtingen overneemt zoals dat bepaald wordt in dat besluit;  
+c.  *overnemende land:* het land dat ingevolge de bepalingen van het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](../../../../../../../../../rijksKB/rijksbesluit/opvolging/sociale/verzekeringsbank/nederlandse/antillen/BWBR0028600/README.md) de respectievelijke rechten en verplichtingen overneemt zoals dat bepaald wordt in dat besluit;  
 
-d. *uitkeringsgerechtigde:* degene die op het tijdstip onmiddellijk voorafgaand aan het tijdstip van transitie een uitkering, verstrekking of tegemoetkoming ontvangt op grond van: 
+d.  *uitkeringsgerechtigde:* degene die op het tijdstip onmiddellijk voorafgaand aan het tijdstip van transitie een uitkering, verstrekking of tegemoetkoming ontvangt op grond van: 
 
 1°. de Landsverordening Algemene Ouderdomsverzekering (P.B. 1960, no. 83),  
 
@@ -45,11 +45,11 @@ d. *uitkeringsgerechtigde:* degene die op het tijdstip onmiddellijk voorafgaand 
 
 6°. de Regeling tegemoetkoming ziektekosten overheidsgepensioneerden (P.B. 1975, no. 249), zoals deze regelingen op het tijdstip onmiddellijk voorafgaand aan de inwerkingtreding van deze onderlinge regeling luiden;    
 
-e. *tijdstip van transitie:* het tijdstip waarop [artikel I, derde lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](../../../../../../../../../rijkswet/rijkswet/wijziging/statuut/in/verband/met/de/opheffing/van/de/nederlandse/etc/BWBR0028249/README.md) in werking treedt;  
+e.  *tijdstip van transitie:* het tijdstip waarop [artikel I, derde lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](../../../../../../../../../rijkswet/rijkswet/wijziging/statuut/in/verband/met/de/opheffing/van/de/nederlandse/etc/BWBR0028249/README.md) in werking treedt;  
 
-f. *vermogen van de Sociale Verzekeringsbank van de Nederlandse Antillen:* het blijkens de gecontroleerde jaarrekening onmiddellijk voorafgaand aan het tijdstip van transitie totale vermogen van de Sociale Verzekeringsbank van de Nederlandse Antillen, waaronder mede begrepen het vermogen van het Ouderdomsfonds ex artikel 24 van de Landsverordening Algemene Ouderdomsverzekering (P.B. 1960, no. 83), het Weduwen- en wezenfonds ex artikel 27 van de Landsverordening Algemene Weduwen- en wezenverzekering (P.B. 1965, no. 194), het Schommelfonds Ouderdoms- en Weduwen- en wezenverzekering ex artikel 14 lid 4 van de Landsverordening Sociale Verzekeringsbank (P.B. 1960, no. 154), het Ziektefonds ex artikel 8 van de Landsverordening Ziekteverzekering (P.B. 1966, no. 15), het Ongevallenfonds ex artikel 8 van de Landsverordening Ongevallenverzekering (P.B. 1966, no. 14) en het Schommelfonds ziekte- en ongevallenverzekering ex artikel 14 lid 3 van de Landsverordening Sociale Verzekeringsbank (P.B. 1960, no. 154).     
+f.  *vermogen van de Sociale Verzekeringsbank van de Nederlandse Antillen:* het blijkens de gecontroleerde jaarrekening onmiddellijk voorafgaand aan het tijdstip van transitie totale vermogen van de Sociale Verzekeringsbank van de Nederlandse Antillen, waaronder mede begrepen het vermogen van het Ouderdomsfonds ex artikel 24 van de Landsverordening Algemene Ouderdomsverzekering (P.B. 1960, no. 83), het Weduwen- en wezenfonds ex artikel 27 van de Landsverordening Algemene Weduwen- en wezenverzekering (P.B. 1965, no. 194), het Schommelfonds Ouderdoms- en Weduwen- en wezenverzekering ex artikel 14 lid 4 van de Landsverordening Sociale Verzekeringsbank (P.B. 1960, no. 154), het Ziektefonds ex artikel 8 van de Landsverordening Ziekteverzekering (P.B. 1966, no. 15), het Ongevallenfonds ex artikel 8 van de Landsverordening Ongevallenverzekering (P.B. 1966, no. 14) en het Schommelfonds ziekte- en ongevallenverzekering ex artikel 14 lid 3 van de Landsverordening Sociale Verzekeringsbank (P.B. 1960, no. 154).     
 2.  Indien een land de bevoegdheid ter zake van de uitvoering van een in het eerste lid, onderdeel d, genoemde regeling dan wel een hiermee naar aard en strekking overeenkomende voorziening, rechtstreeks opdraagt aan een daartoe aangewezen uitvoeringsorganisatie met rechtspersoonlijkheid van dat land, treedt die uitvoeringsorganisatie voor de toepassing van deze regeling, met uitzondering van artikel 5, vierde lid, tweede volzin, in de plaats van dat land.   
-3.  Een eilandsverordening die krachtens de Overgangsregeling decentralisatie Nederlandse Antillen (P.B. 2009, no. 75) een voortzetting is van een in het eerste lid, onderdeel d onder 1 tot en met 5 genoemde landsverordening, geldt voor de toepassing van het eerste lid, onderdeel d samen met de desbetreffende landsverordening als een zelfde regeling.   
+3.  Een eilandsverordening die krachtens de Overgangsregeling decentralisatie Nederlandse Antillen (P.B. 2009, no. 75) een voortzetting is van een in het eerste lid, onderdeel d onder 1 tot en met 5 genoemde landsverordening, geldt voor de toepassing van het eerste lid, onderdeel d samen met de desbetreffende landsverordening als een zelfde regeling.  
 
 ### §  2  
 
@@ -59,13 +59,13 @@ f. *vermogen van de Sociale Verzekeringsbank van de Nederlandse Antillen:* het b
 
 ####Overgang archiefbescheiden
 
-De overnemende landen verkrijgen zo spoedig mogelijk na het tijdstip van transitie de archiefbescheiden ter zake van gerechtigden waarmee de onderscheiden landen gelet op het bepaalde in het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](../../../../../../../../../rijksKB/rijksbesluit/opvolging/sociale/verzekeringsbank/nederlandse/antillen/BWBR0028600/README.md) ingaande het tijdstip van transitie een relatie hebben. Hetzelfde geldt voor archiefbescheiden van gewezen gerechtigden naar de woonplaats op het tijdstip van transitie.  
+De overnemende landen verkrijgen zo spoedig mogelijk na het tijdstip van transitie de archiefbescheiden ter zake van gerechtigden waarmee de onderscheiden landen gelet op het bepaalde in het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](../../../../../../../../../rijksKB/rijksbesluit/opvolging/sociale/verzekeringsbank/nederlandse/antillen/BWBR0028600/README.md) ingaande het tijdstip van transitie een relatie hebben. Hetzelfde geldt voor archiefbescheiden van gewezen gerechtigden naar de woonplaats op het tijdstip van transitie. 
 
 ### Artikel  3  
 
 ####Communicatie
 
-De uitkeringsgerechtigden worden tijdig over de gevolgen van de uit hoofde van het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](../../../../../../../../../rijksKB/rijksbesluit/opvolging/sociale/verzekeringsbank/nederlandse/antillen/BWBR0028600/README.md) op het tijdstip van transitie nieuw ingaande situatie geïnformeerd. De informatievoorziening ter zake wordt tussen de vertegenwoordigers van de (toekomstige) landen onderling afgestemd.  
+De uitkeringsgerechtigden worden tijdig over de gevolgen van de uit hoofde van het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](../../../../../../../../../rijksKB/rijksbesluit/opvolging/sociale/verzekeringsbank/nederlandse/antillen/BWBR0028600/README.md) op het tijdstip van transitie nieuw ingaande situatie geïnformeerd. De informatievoorziening ter zake wordt tussen de vertegenwoordigers van de (toekomstige) landen onderling afgestemd. 
 
 ### §  3  
 
@@ -76,7 +76,7 @@ De uitkeringsgerechtigden worden tijdig over de gevolgen van de uit hoofde van h
 ####Vermogensbepaling Sociale Verzekeringsbank Nederlandse Antillen, Cessantiafonds en Fonds Ziektekosten Overheidsgepensioneerden
 
 1.  De waardering van het vermogen van de Sociale Verzekeringsbank van de Nederlandse Antillen, het Cessantiafonds en het Fonds Ziektekosten Overheidsgepensioneerden geschiedt per tijdstip van transitie.   
-2.  Voor de waardering van het vermogen van de Sociale Verzekeringsbank van de Nederlandse Antillen, het Cessantiafonds en het Fonds Ziektekosten Overheidsgepensioneerden vormt de vermogensvaststelling zoals opgenomen in de gecontroleerde jaarrekening per het tijdstip van transitie het uitgangspunt, met uitzondering van de waardebepaling van het vastgoed. Het vastgoed wordt tegen de marktwaarde gewaardeerd.   
+2.  Voor de waardering van het vermogen van de Sociale Verzekeringsbank van de Nederlandse Antillen, het Cessantiafonds en het Fonds Ziektekosten Overheidsgepensioneerden vormt de vermogensvaststelling zoals opgenomen in de gecontroleerde jaarrekening per het tijdstip van transitie het uitgangspunt, met uitzondering van de waardebepaling van het vastgoed. Het vastgoed wordt tegen de marktwaarde gewaardeerd.  
 
 ### Artikel  5  
 
@@ -87,7 +87,7 @@ De uitkeringsgerechtigden worden tijdig over de gevolgen van de uit hoofde van h
 3.  Overname door de overnemende landen op het tijdstip van transitie van vorderingen en verplichtingen van de Sociale Verzekeringsbank van de Nederlandse Antillen die betrekking hebben op de periode voorafgaand aan het tijdstip van transitie, geschiedt onder verrekening binnen de in het eerste en tweede lid bedoelde vermogensverdeling.   
 4.  Onverminderd artikel 1, tweede lid, kan een land bepalen dat het aan dat land toevallende aandeel in het vermogen van de Sociale Verzekeringsbank van de Nederlandse Antillen, daaronder mede begrepen de vordering en schulden als bedoeld in het derde lid, toevallen aan een door dat land aangewezen uitvoeringsorganisatie. Voor zover in die situatie en die bedoeld in artikel 1, tweede lid, de in de voorgaande leden bedoelde vermogensverdeling niet in liquide middelen kan worden afgerekend, wordt de resterende schuldverhouding door het betrokken land overgenomen.   
 5.  De vermogensverdeling als bedoeld in dit artikel vindt plaats op basis van een gecontroleerde jaarrekening van de Sociale Verzekeringsbank van de Nederlandse Antillen, alsmede van het Cessantiafonds en het Fonds Ziektekosten Overheidsgepensioneerden. De accountant brengt over zijn bevindingen verslag uit aan de landen.   
-6.  Indien naar het oordeel van een van de landen gerede twijfel bestaat omtrent de volledigheid of juistheid van de in het vijfde lid genoemde stukken, kan dat land vorderen dat ter verificatie een nader onderzoek wordt ingesteld door een gezamenlijk aan te wijzen accountant, niet zijnde de reguliere accountant bedoeld in het vijfde lid. De kosten van een nader onderzoek als bedoeld in de eerste volzin worden ten laste van het te verdelen vermogen van de Sociale Verzekeringsbank van de Nederlandse Antillen gebracht.   
+6.  Indien naar het oordeel van een van de landen gerede twijfel bestaat omtrent de volledigheid of juistheid van de in het vijfde lid genoemde stukken, kan dat land vorderen dat ter verificatie een nader onderzoek wordt ingesteld door een gezamenlijk aan te wijzen accountant, niet zijnde de reguliere accountant bedoeld in het vijfde lid. De kosten van een nader onderzoek als bedoeld in de eerste volzin worden ten laste van het te verdelen vermogen van de Sociale Verzekeringsbank van de Nederlandse Antillen gebracht.  
 
 ### Artikel  6  
 
@@ -100,19 +100,19 @@ a. de liquide middelen die op het binnen het grondgebied van dat land gevestigde
 b. een evenredig aandeel in de waarde per 31 december 2009 van 85 procent van de beleggingen van de Sociale Verzekeringsbank van de Nederlandse Antillen, te verdelen volgens de criteria als bedoeld in artikel 5, eerste lid, van deze regeling, met dien verstande dat bij deze voorlopige verdeling het jaar 2010 als onderdeel van de verdeelcriteria buiten beschouwing wordt gelaten en dat op het aan een land toekomend evenredig aandeel de waarde van het volgens [artikel 10, eerste lid, onderdeel a, van het Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](../../../../../../../../../rijksKB/rijksbesluit/opvolging/sociale/verzekeringsbank/nederlandse/antillen/BWBR0028600/README.md) toekomende onroerende zaak in mindering wordt gebracht.     
 2.  In overeenstemming met de betrokken landen kan het in het eerste lid, onderdeel b, genoemde percentage of het relatieve aandeel van een land in het voorschot lager worden vastgesteld, indien inzichten in de omvang van andere uit de boedel van de Sociale Verzekeringsbank van de Nederlandse Antillen te verdelen componenten, daartoe aanleiding geven.   
 3.  De landen kunnen met ingang van het tijdstip van transitie over het voorschot als bedoeld in het eerste lid beschikken. Onverminderd artikel 1, tweede lid, kan een land bepalen dat het aan dat land toevallende voorschot beschikbaar wordt gesteld aan een door dat land aangewezen uitvoeringsorganisatie.   
-4.  De uitvoering van dit artikel ligt bij de Sociale Verzekeringsbank van de Nederlandse Antillen.   
+4.  De uitvoering van dit artikel ligt bij de Sociale Verzekeringsbank van de Nederlandse Antillen.  
 
 ### Artikel  7  
 
 ####Contracten en systemen
 
-Onverminderd het bepaalde in het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](../../../../../../../../../rijksKB/rijksbesluit/opvolging/sociale/verzekeringsbank/nederlandse/antillen/BWBR0028600/README.md) maken de landen onderling en met de betrokken contractpartij afspraken over de voortzetting dan wel beëindiging, van de op het tijdstip onmiddellijk voorafgaand aan het tijdstip van transitie lopende contracten – en de op basis daarvan in gebruik zijnde systemen – van de Sociale Verzekeringsbank van de Nederlandse Antillen.  
+Onverminderd het bepaalde in het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](../../../../../../../../../rijksKB/rijksbesluit/opvolging/sociale/verzekeringsbank/nederlandse/antillen/BWBR0028600/README.md) maken de landen onderling en met de betrokken contractpartij afspraken over de voortzetting dan wel beëindiging, van de op het tijdstip onmiddellijk voorafgaand aan het tijdstip van transitie lopende contracten – en de op basis daarvan in gebruik zijnde systemen – van de Sociale Verzekeringsbank van de Nederlandse Antillen. 
 
 ### Artikel  8  
 
 ####Overgang eigendom gebouw Bonaire
 
-Onverminderd het bepaalde in het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](../../../../../../../../../rijksKB/rijksbesluit/opvolging/sociale/verzekeringsbank/nederlandse/antillen/BWBR0028600/README.md) zal de minister van Volksgezondheid en Sociale Ontwikkeling van de Nederlandse Antillen bevorderen dat eigendomsoverdracht, tegen marktwaarde, kan plaatsvinden, indien de Nederlandse overheid het gebouw van de Sociale Verzekeringsbank van de Nederlandse Antillen op Bonaire voor of per het tijdstip van transitie wenst aan te kopen.  
+Onverminderd het bepaalde in het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](../../../../../../../../../rijksKB/rijksbesluit/opvolging/sociale/verzekeringsbank/nederlandse/antillen/BWBR0028600/README.md) zal de minister van Volksgezondheid en Sociale Ontwikkeling van de Nederlandse Antillen bevorderen dat eigendomsoverdracht, tegen marktwaarde, kan plaatsvinden, indien de Nederlandse overheid het gebouw van de Sociale Verzekeringsbank van de Nederlandse Antillen op Bonaire voor of per het tijdstip van transitie wenst aan te kopen. 
 
 ### §  4  
 
@@ -122,13 +122,13 @@ Onverminderd het bepaalde in het [Rijksbesluit opvolging Sociale Verzekeringsban
 
 ####Overleg
 
-Op uitvoerend niveau wordt namens de partijen in vast overleg voorzien met het oog op de uitvoering van deze regeling en het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](../../../../../../../../../rijksKB/rijksbesluit/opvolging/sociale/verzekeringsbank/nederlandse/antillen/BWBR0028600/README.md). Na het tijdstip van transitie wordt dit overleg op passende wijze voortgezet, zolang de betrokken overlegpartners dit noodzakelijk achten.  
+Op uitvoerend niveau wordt namens de partijen in vast overleg voorzien met het oog op de uitvoering van deze regeling en het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](../../../../../../../../../rijksKB/rijksbesluit/opvolging/sociale/verzekeringsbank/nederlandse/antillen/BWBR0028600/README.md). Na het tijdstip van transitie wordt dit overleg op passende wijze voortgezet, zolang de betrokken overlegpartners dit noodzakelijk achten. 
 
 ### Artikel  10  
 
 ####Geschillenregeling
 
-Indien zich in de uitvoering geschillen voordoen betreffende de toepassing van deze onderlinge regeling en het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](../../../../../../../../../rijksKB/rijksbesluit/opvolging/sociale/verzekeringsbank/nederlandse/antillen/BWBR0028600/README.md), dan kunnen deze worden voorgelegd aan de partijen gezamenlijk. Zij kunnen een onafhankelijke bemiddelaar aanwijzen die een voor de partijen bindend advies uitbrengt.  
+Indien zich in de uitvoering geschillen voordoen betreffende de toepassing van deze onderlinge regeling en het [Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen](../../../../../../../../../rijksKB/rijksbesluit/opvolging/sociale/verzekeringsbank/nederlandse/antillen/BWBR0028600/README.md), dan kunnen deze worden voorgelegd aan de partijen gezamenlijk. Zij kunnen een onafhankelijke bemiddelaar aanwijzen die een voor de partijen bindend advies uitbrengt. 
 
 ### §  5  
 
@@ -138,21 +138,21 @@ Indien zich in de uitvoering geschillen voordoen betreffende de toepassing van d
 
 ####Uitvoering na transitiedatum
 
-Het land Curaçao is belast met de aangelegenheden die verband houden met de afwikkeling en beëindiging van zaken na de splitsing van de Sociale Verzekeringsbank van de Nederlandse Antillen, tenzij anders wordt bepaald.  
+Het land Curaçao is belast met de aangelegenheden die verband houden met de afwikkeling en beëindiging van zaken na de splitsing van de Sociale Verzekeringsbank van de Nederlandse Antillen, tenzij anders wordt bepaald. 
 
 ### Artikel  12  
 
 ####Nadere overeenkomst
 
-Met het oog op een goede uitvoering van of ter uitwerking van het bepaalde in deze regeling kunnen op directeursniveau namens de betrokken landen of hun uitvoeringsinstanties nadere afspraken worden gemaakt.  
+Met het oog op een goede uitvoering van of ter uitwerking van het bepaalde in deze regeling kunnen op directeursniveau namens de betrokken landen of hun uitvoeringsinstanties nadere afspraken worden gemaakt. 
 
 ### Artikel  13  
 
 ####Inwerkingtreding en citeertitel
 
 1.  Deze overeenkomst treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin deze wordt geplaatst.   
-2.  Deze overeenkomst kan worden aangehaald als ‘Onderlinge regeling boedelscheiding Sociale Verzekeringsbank Nederlandse Antillen’ en wordt geplaatst in de Nederlandse Staatscourant en de Curaçaosche Courant.   
-Aldus ondertekend te  
+2.  Deze overeenkomst kan worden aangehaald als ‘Onderlinge regeling boedelscheiding Sociale Verzekeringsbank Nederlandse Antillen’ en wordt geplaatst in de Nederlandse Staatscourant en de Curaçaosche Courant.  
+Aldus ondertekend te 
 
 Den Haag 
 7 september 2010   
