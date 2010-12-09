@@ -94,7 +94,7 @@ Pauze in werktijd wordt in de werkgroep Inzetbaarheid, zoals bedoeld in de Packa
 
 ####Nachtdienstontheffing
 
-De regionale regelingen nachtdienstontheffing blijven tot 1 januari 2012 bestaan tenzij die regelingen van rechtswege eerder eindigen. Per 1 januari 2012 vervallen de regionale regelingen tenzij er tussen de werkgever en politievakorganisaties andere afspraken worden gemaakt over het nachtdienstregime, zoals thans in de Packagedeal staat vermeld. Daarin staat dat indien er geen andere afspraken worden gemaakt het nachtdienstregime vanaf 2012 als volgt zal luiden. Voor ambtenaren van 55 jaar en ouder moet op jaarbasis 50% van hetgeen een politieambtenaar gemiddeld op jaarbasis aan nachtdienst/nachtdienstconsignatie draait, haalbaar zijn. Hiermee wordt voorkomen dat alleen jongere ambtenaren met nachtdiensten worden belast. De inzet in de nachtdienst en nachtdienstconsignatie vindt alsdan op verzoek van de ambtenaar niet plaats tussen vrijdagavond 23.00 uur en maandagochtend 07.00 uur. <sup> 1  Voor het gemiddelde wordt een aantal van drie per periode aangehouden. In de volcontinu-dienst worden per periode (13 perioden in een jaar ) zeven diensten gedraaid. 50% van dit berekende aantal komt uit op circa drie nachtdiensten.  </sup> Naast de regionale regelingen bestaat er ook nog de Tijdelijke landelijke regeling nachtdienstontheffing politie, die is verlengd tot 1 januari 2012. (Stcrt. 26-03-10, nr 4613)    
+De regionale regelingen nachtdienstontheffing blijven tot 1 januari 2012 bestaan tenzij die regelingen van rechtswege eerder eindigen. Per 1 januari 2012 vervallen de regionale regelingen tenzij er tussen de werkgever en politievakorganisaties andere afspraken worden gemaakt over het nachtdienstregime, zoals thans in de Packagedeal staat vermeld. Daarin staat dat indien er geen andere afspraken worden gemaakt het nachtdienstregime vanaf 2012 als volgt zal luiden. Voor ambtenaren van 55 jaar en ouder moet op jaarbasis 50% van hetgeen een politieambtenaar gemiddeld<sup> 1 Voor het gemiddelde wordt een aantal van drie per periode aangehouden. In de volcontinu-dienst worden per periode (13 perioden in een jaar ) zeven diensten gedraaid. 50% van dit berekende aantal komt uit op circa drie nachtdiensten. </sup>op jaarbasis aan nachtdienst/nachtdienstconsignatie draait, haalbaar zijn. Hiermee wordt voorkomen dat alleen jongere ambtenaren met nachtdiensten worden belast. De inzet in de nachtdienst en nachtdienstconsignatie vindt alsdan op verzoek van de ambtenaar niet plaats tussen vrijdagavond 23.00 uur en maandagochtend 07.00 uur. Naast de regionale regelingen bestaat er ook nog de Tijdelijke landelijke regeling nachtdienstontheffing politie, die is verlengd tot 1 januari 2012. (Stcrt. 26-03-10, nr 4613)    
 
 ####(Afkoop) consignatie (piket)
 
@@ -214,7 +214,7 @@ Dit onderwerp is geregeld in de [Regeling studiefaciliteiten politie](../../../.
 
 ####Positie zittend personeel tov PO 2002
 
-Dit is reeds geharmoniseerddoor opneming van [artikel 72a Barp](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en de circulaire van 01/02/2007.    
+Dit is reeds geharmoniseerddoor opneming van[artikel 72a Barp](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en de circulaire van 01/02/2007.    
 
 ####Stagebeleid voor medewerkers
 
@@ -224,7 +224,7 @@ Er is geen enkele regionale regeling die stagebeleid voor eigen ambtenaren regel
 
 ####Betaaldata salarissen
 
-Eind 2008 zijn hierover afspraken gemaakt door partijen. De afspraak is dat er vaste betaaldata zijn van salarissen (in principe de 21 <sup>ste</sup> van iedere maand). Een en ander is geregeld in de circulaire van 17 december 2008. Dit is inmiddels bij alle korpsen ingevoerd.    
+Eind 2008 zijn hierover afspraken gemaakt door partijen. De afspraak is dat er vaste betaaldata zijn van salarissen (in principe de 21<sup>ste</sup> van iedere maand). Een en ander is geregeld in de circulaire van 17 december 2008. Dit is inmiddels bij alle korpsen ingevoerd.    
 
 ####Afwijking voor functiewaardering bij organieke functies
 
@@ -254,7 +254,7 @@ Door aanpassing van [artikel 9 van het Bbp](../../../../../../../../../../AMvB/b
 
 De meeste korpsen kennen geen vergoeding voor bomverkenners of geven een consignatievergoeding conform vigerend beleid. Dit onderwerp wordt (nu) niet geharmoniseerd. Voor zover deze vergoeding zou zien op aanschaf van kleding (korps Amsterdam Amstelland: pak /kostuum) dan kan dit uit de tegemoetkoming in de representatiekosten, op basis van [artikel 20 Bbp](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) worden vergoed. Het onderwerp consignatievergoeding wordt in de derde tranche geharmoniseerd. De reeds bestaande regionale regelingen blijven derhalve bestaan tot dat er andere afspraken zijn gemaakt. Wijziging of afschaffing van een dergelijke regeling dient plaats te vinden door middel van het landelijk georganiseerd overleg.     
 
-####Afwikkeling 1 <sup>ste</sup> tranche
+####Afwikkeling 1<sup>ste</sup> tranche
 
 ####Studiefaciliteitenregeling
 
@@ -274,7 +274,7 @@ De circulaire is gepubliceerd in de Stcrt van 24-03-09. Http://wetten.overheid.n
 
 ####Afbouw operationele toelage
 
-Op grond van de CAO 2008-2010 wordt het bestaande [artikel 15 Bbp](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) met ingang van 1 januari 2009 gewijzigd en worden nadere regels (ministeriële regeling) gesteld. Alle regionale regelingen vervallen bij publicatie van de ministeriële regeling. De ministeriële regeling werkt terug tot 1 januari 2009. De regionale regelingen dienen hiervoor aan het landelijk georganiseerd overleg te worden aangeboden. Over de periode van 1 januari 2009 tot datum publicatie van de nieuwe ministeriële regeling zal de aanspraak die verkregen is onder behoud van een regionale regeling afgezet worden tegen de aanspraak onder behoud van de nieuwe regeling met betrekking tot de tijdelijke afbouw. De meest gunstige uitkomst is voor de individuele ambtenaar van toepassing.     
+Op grond van de CAO 2008-2010 wordt het bestaande [artikel 15 Bbp](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) met ingang van 1 januari 2009 gewijzigd en worden nadere regels (ministeriële regeling) gesteld. Alle regionale regelingen vervallen bij publicatie van de ministeriële regeling. De ministeriële regeling werkt terug tot 1 januari 2009. De regionale regelingen dienen hiervoor aan het landelijk georganiseerd overleg te worden aangeboden. Over de periode van 1 januari 2009 tot datum publicatie van de nieuwe ministeriële regeling zal de aanspraak die verkregen is onder behoud van een regionale regeling afgezet worden tegen de aanspraak onder behoud van de nieuwe regeling met betrekking tot de tijdelijke afbouw. De meest gunstige uitkomst is voor de individuele ambtenaar van toepassing.    
 
 ####Overzicht bijlagen bij circulaire HAP II
 
@@ -306,11 +306,11 @@ Op grond van de CAO 2008-2010 wordt het bestaande [artikel 15 Bbp](../../../../.
 
 tekst reiniging kleding (wordt aan de kledingregeling toegevoegd): 
 
-2. De ambtenaar is verantwoordelijk voor de reiniging van overhemden, (polo-)shirts, sokken en onderkleding. De aan de reiniging verbonden kosten zijn voor rekening van de ambtenaar.    
+2. De ambtenaar is verantwoordelijk voor de reiniging van overhemden, (polo-)shirts, sokken en onderkleding. De aan de reiniging verbonden kosten zijn voor rekening van de ambtenaar.   
 
 ####Toelichting
 
-In het Akkoord Arbeidsvoorwaarden Politie (2005–2007) is de afspraak opgenomen om arbeidsvoorwaarden in het vervolg alleen nog centraal vast te stellen en regionale verschillen af te bouwen. Om de regionale verschillen af te bouwen is het project Harmonisatie arbeidsvoorwaarden politie (HAP) gestart. In dit project zijn afspraken gemaakt met betrekking tot de reiniging van kledingstukken. In artikel [x] lid 2 is vastgelegd welke kledingstukken door de ambtenaar dienen te worden gereinigd. De reiniging dient plaats te vinden conform de reinigingsvoorschriften van betreffende kledingstukken.  
+In het Akkoord Arbeidsvoorwaarden Politie (2005–2007) is de afspraak opgenomen om arbeidsvoorwaarden in het vervolg alleen nog centraal vast te stellen en regionale verschillen af te bouwen. Om de regionale verschillen af te bouwen is het project Harmonisatie arbeidsvoorwaarden politie (HAP) gestart. In dit project zijn afspraken gemaakt met betrekking tot de reiniging van kledingstukken. In artikel [x] lid 2 is vastgelegd welke kledingstukken door de ambtenaar dienen te worden gereinigd. De reiniging dient plaats te vinden conform de reinigingsvoorschriften van betreffende kledingstukken. 
 
 ### Bijlage  2  
 
@@ -320,11 +320,11 @@ In het Akkoord Arbeidsvoorwaarden Politie (2005–2007) is de afspraak opgenomen
 
 ####Inleiding
 
-In dit protocol wordt uitgegaan van het overlijden van een medewerker van de politieregio. Rouwen en daarmee rouwverwerking is een natuurlijk verschijnsel. Het is een proces en geen ziekte. Het hoort bij het leven, dit betekent dat er ook ruimte voor moet zijn. Ruimte betekent ook ‘tijd’. Geef een medewerker dan ook ruimte, laat deze zijn/haar eigen rouwproces doorlopen. Niet elk rouwproces is hetzelfde. Hoe sneller dit verloopt hoe eerder betrokkene weer de draad kan oppakken en het werk kan hervatten. Het blijft belangrijk hier duidelijke afspraken over te maken. De alarm-, voorbereidings-, uitvoerings- en nazorgfase van de uitvaart zijn beschreven in het landelijk draaiboek/checklist uitvaarten.  
+In dit protocol wordt uitgegaan van het overlijden van een medewerker van de politieregio. Rouwen en daarmee rouwverwerking is een natuurlijk verschijnsel. Het is een proces en geen ziekte. Het hoort bij het leven, dit betekent dat er ook ruimte voor moet zijn. Ruimte betekent ook ‘tijd’. Geef een medewerker dan ook ruimte, laat deze zijn/haar eigen rouwproces doorlopen. Niet elk rouwproces is hetzelfde. Hoe sneller dit verloopt hoe eerder betrokkene weer de draad kan oppakken en het werk kan hervatten. Het blijft belangrijk hier duidelijke afspraken over te maken. De alarm-, voorbereidings-, uitvoerings- en nazorgfase van de uitvaart zijn beschreven in het landelijk draaiboek/checklist uitvaarten. 
 
 ####Doel
 
-Doel van het protocol rouwverwerking is het gestructureerd ondersteunen van medewerkers van de politieorganisatie bij rouwprocessen, waardoor dit proces goed verloopt met zo weinig mogelijk restschade voor de persoon als gevolg. Hierbij verdient in het bijzonder aandacht het voorkomen of beperken van klachten van depressieve aard en/of een posttraumatisch stresssyndroom (PTSS).  
+Doel van het protocol rouwverwerking is het gestructureerd ondersteunen van medewerkers van de politieorganisatie bij rouwprocessen, waardoor dit proces goed verloopt met zo weinig mogelijk restschade voor de persoon als gevolg. Hierbij verdient in het bijzonder aandacht het voorkomen of beperken van klachten van depressieve aard en/of een posttraumatisch stresssyndroom (PTSS). 
 
 ####Wat is rouw?
 
@@ -348,7 +348,7 @@ Er zijn diverse gebeurtenissen die kunnen leiden tot rouw zoals het verlies van 
 
 * Piekeren;  
 
-* Rationaliseren, groot houden. http://glznet.gelderland-zuid.politie.nl/smartsite.dws?id=5764 - Terug#Terug    
+* Rationaliseren, groot houden. http://glznet.gelderland-zuid.politie.nl/smartsite.dws?id=5764 - Terug#Terug   
 
 ####Korpseer
 
@@ -356,15 +356,15 @@ Het korps bepaalt of er sprake is van korpseer of volledige korpseer, maar het i
 
 ####Uitvaart met volledige korpseer
 
-Volledige korpseer is voorbehouden aan die medewerkers die in en door de dienst zijn overleden. Bij een uitvaart met volledige korpseer is de regie volledig in handen van het korps. Dit houdt ook in dat de kosten van de uitvaart volledig voor rekening komen van het korps.  
+Volledige korpseer is voorbehouden aan die medewerkers die in en door de dienst zijn overleden. Bij een uitvaart met volledige korpseer is de regie volledig in handen van het korps. Dit houdt ook in dat de kosten van de uitvaart volledig voor rekening komen van het korps. 
 
 ####Uitvaart met beperkte korpseer
 
-Beperkte korpseer is voorbehouden aan die medewerkers die in de dienst komen te overlijden en niet door de dienst. Bij een uitvaart met beperkte korpseer is de regie in handen van zowel de nabestaanden als het korps. De kosten van de uitvaart komen echter wel geheel voor rekening van het korps.  
+Beperkte korpseer is voorbehouden aan die medewerkers die in de dienst komen te overlijden en niet door de dienst. Bij een uitvaart met beperkte korpseer is de regie in handen van zowel de nabestaanden als het korps. De kosten van de uitvaart komen echter wel geheel voor rekening van het korps. 
 
 ####Burgeruitvaart
 
-Burgeruitvaart is voorbehouden aan die medewerkers van het korps voor wie de volledige of beperkte korpseer niet geldt. Bij een burgeruitvaart is de regie volledig in handen van de nabestaanden en daarmee ook de kosten. Indien de nabestaanden worden geconfronteerd met extreem hoge kosten die uitstijgen boven wat door de uitvaartverzekering wordt gedekt, kan het korps bij wijze van coulance in een geheel of gedeeltelijke financiële tegemoetkoming voorzien. In dit verband kan worden gedacht aan bijvoorbeeld een grote uitvaart met zeer hoge kosten voor het verzenden van rouw- en bedankkaarten, de huur van een grotere aula en extra catering.  
+Burgeruitvaart is voorbehouden aan die medewerkers van het korps voor wie de volledige of beperkte korpseer niet geldt. Bij een burgeruitvaart is de regie volledig in handen van de nabestaanden en daarmee ook de kosten. Indien de nabestaanden worden geconfronteerd met extreem hoge kosten die uitstijgen boven wat door de uitvaartverzekering wordt gedekt, kan het korps bij wijze van coulance in een geheel of gedeeltelijke financiële tegemoetkoming voorzien. In dit verband kan worden gedacht aan bijvoorbeeld een grote uitvaart met zeer hoge kosten voor het verzenden van rouw- en bedankkaarten, de huur van een grotere aula en extra catering. 
 
 ####Bij het overlijden van een medewerker
 
@@ -392,15 +392,15 @@ Bij het bekend worden met het overlijden van een medewerker. Bij het overlijden 
 
 ####Tussen overlijden en uitvaart
 
-In deze dagen maken de directe leidinggevende en de contactpersoon de afspraken met betrekking tot de wensen die de familie heeft betreffende de bijdrage van het korps bij de uitvaart van de overleden collega. Uitgangspunt daarbij is de wensen van de familie met betrekking tot de inzet van het korps; dit kan variëren van een begrafenis/crematie met korpseer, dan wel een besloten begrafenis/crematie binnen familiekring. Andere zaken die hierbij betrokken kunnen worden zijn onder andere: plaatsen van een advertentie; het dragen van de kist door collega’s; het eventueel houden van een toespraak etc.  
+In deze dagen maken de directe leidinggevende en de contactpersoon de afspraken met betrekking tot de wensen die de familie heeft betreffende de bijdrage van het korps bij de uitvaart van de overleden collega. Uitgangspunt daarbij is de wensen van de familie met betrekking tot de inzet van het korps; dit kan variëren van een begrafenis/crematie met korpseer, dan wel een besloten begrafenis/crematie binnen familiekring. Andere zaken die hierbij betrokken kunnen worden zijn onder andere: plaatsen van een advertentie; het dragen van de kist door collega’s; het eventueel houden van een toespraak etc. 
 
 ####Nazorg
 
-De contactpersoon en de directe leidinggevende bespreken het moment waarop de persoonlijke bezittingen van de betrokken medewerker aan de familie worden teruggegeven en de wijze, waarop de komende tijd met de familie contact wordt gehouden. Naast de directe leidinggevende en de contactpersoon kunnen directe (bevriende) collega’s hierbij een rol spelen.  
+De contactpersoon en de directe leidinggevende bespreken het moment waarop de persoonlijke bezittingen van de betrokken medewerker aan de familie worden teruggegeven en de wijze, waarop de komende tijd met de familie contact wordt gehouden. Naast de directe leidinggevende en de contactpersoon kunnen directe (bevriende) collega’s hierbij een rol spelen. 
 
 ####Rol leidinggevende
 
-Van de leidinggevende wordt een empatische houding ten opzichte van de medewerker verwacht. Bij een ernstige gebeurtenis zoals hierboven beschreven, is het zaak te letten op de signalen die de medewerker uitzendt. Komen de reacties 'overeen' met wat er gebeurd is, is er mogelijk sprake van een overreactie of niet. Benoem in het gesprek wat je ziet c.q. geef feedback. Informeer of betrokkene iemand in zijn/haar omgeving heeft waar hij/zij het verhaal kwijt kan. Iemand waarvan men steun kan ontvangen. Mocht vorenstaande er niet zijn of betrokkene geeft aan behoefte te hebben om er ook met anderen over te praten, kan de leidinggevende aangeven dat bedrijfsmaatschappelijk werk er is en dat men op (eigen) verzoek een afspraak kan maken. In het vervolg alert blijven op signalen en deze ook benoemen. Zeker ook als je ziet dat het, stapje voor stapje, beter met betrokkene gaat.  
+Van de leidinggevende wordt een empatische houding ten opzichte van de medewerker verwacht. Bij een ernstige gebeurtenis zoals hierboven beschreven, is het zaak te letten op de signalen die de medewerker uitzendt. Komen de reacties 'overeen' met wat er gebeurd is, is er mogelijk sprake van een overreactie of niet. Benoem in het gesprek wat je ziet c.q. geef feedback. Informeer of betrokkene iemand in zijn/haar omgeving heeft waar hij/zij het verhaal kwijt kan. Iemand waarvan men steun kan ontvangen. Mocht vorenstaande er niet zijn of betrokkene geeft aan behoefte te hebben om er ook met anderen over te praten, kan de leidinggevende aangeven dat bedrijfsmaatschappelijk werk er is en dat men op (eigen) verzoek een afspraak kan maken. In het vervolg alert blijven op signalen en deze ook benoemen. Zeker ook als je ziet dat het, stapje voor stapje, beter met betrokkene gaat. 
 
 ####Rol bedrijfsmaatschappelijk werker
 
@@ -410,7 +410,7 @@ Bedrijfsmaatschappelijk werk kan de medewerker op de volgende wijze ondersteunen
 
 * Een luisterend oor bieden;  
 
-* Verwijsfunctie vervullen naar specialisten op het gebied van rouwverwerking.   De bedrijfsmaatschappelijk werker kan ook (zonodig) de leidinggevende adviseren en ondersteuning bieden in de hierboven geschetste rol. Zowel de medewerker zelf als de leidinggevende kan contact opnemen met bedrijfsmaatschappelijk werk om te ondersteunen en te begeleiden.  
+* Verwijsfunctie vervullen naar specialisten op het gebied van rouwverwerking.   De bedrijfsmaatschappelijk werker kan ook (zonodig) de leidinggevende adviseren en ondersteuning bieden in de hierboven geschetste rol. Zowel de medewerker zelf als de leidinggevende kan contact opnemen met bedrijfsmaatschappelijk werk om te ondersteunen en te begeleiden. 
 
 ####Rol personeelsmanagementadviseur/adviseur P&O/HRM-functionaris
 
@@ -438,11 +438,11 @@ o Zorgverzekeraar;
 
 * Overig 
 
-o        
+o       
 
 ####Stappen in de richting van de nabestaanden voor de ceremonie
 
-Vast contactpersoon Binnen de betreffende afdeling wordt in overleg met de nabestaanden een contactpersoon aangesteld die namens de politie contact onderhoudt met de nabestaanden, hen begeleidt en desgevraagd met raad en daad bijstaat. De naam van de contactpersoon evenals hoe en waar deze te bereiken is, wordt door de afdelingsleidinggevende aan de directe nabestaanden bekend gemaakt. Contact met nabestaanden In geval van een overlijden, informeert de contactpersoon zich zoveel mogelijk over de toedracht die heeft geleid tot het overlijden van de collega. Vanuit de afdeling wordt door de afdelingschef of de externe contactpersoon zo snel als mogelijk contact opgenomen met de directe nabestaanden. Zij overleggen op welke manier de afdeling de nabestaanden kan ondersteunen met hun verlies en de wijze waarop de uitvaartceremonie kan worden georganiseerd. De uitvaartorganisatie en eventuele geestelijke ondersteunen (vanuit het geloof ) dienen hierin zo snel als mogelijk betrokken te worden.  
+Vast contactpersoon Binnen de betreffende afdeling wordt in overleg met de nabestaanden een contactpersoon aangesteld die namens de politie contact onderhoudt met de nabestaanden, hen begeleidt en desgevraagd met raad en daad bijstaat. De naam van de contactpersoon evenals hoe en waar deze te bereiken is, wordt door de afdelingsleidinggevende aan de directe nabestaanden bekend gemaakt. Contact met nabestaanden In geval van een overlijden, informeert de contactpersoon zich zoveel mogelijk over de toedracht die heeft geleid tot het overlijden van de collega. Vanuit de afdeling wordt door de afdelingschef of de externe contactpersoon zo snel als mogelijk contact opgenomen met de directe nabestaanden. Zij overleggen op welke manier de afdeling de nabestaanden kan ondersteunen met hun verlies en de wijze waarop de uitvaartceremonie kan worden georganiseerd. De uitvaartorganisatie en eventuele geestelijke ondersteunen (vanuit het geloof ) dienen hierin zo snel als mogelijk betrokken te worden. 
 
 ####Checklist wie informeren
 
@@ -464,7 +464,7 @@ Als een medewerker overlijdt, is het belangrijk dat een ieder die geïnformeerd 
 
 8. De salarisadministratie;  
 
-9. ...    
+9. ...   
 
 ####Stappen in de richting van de organisatie
 
@@ -486,11 +486,11 @@ Vast contactpersoon De door de afdelingschef aangestelde contactpersoon zorgt te
 
 * Het verdient aanbeveling collega's te betrekken bij de voorbereidingen betreffende het afscheid nemen van de overledene. Dit geldt ook voor het eventueel op te maken draaiboek.  
 
-* De afdelingschef houdt rekening met de nazorg op lange termijn. Hierbij kan bijvoorbeeld gedacht worden aan het moment van ‘een jaar na overlijden’.   Organisatorische aanpassingen De direct leidinggevende van de medewerker onderzoekt of werkzaamheden van deze medewerker door collegae moeten worden overgenomen, of afspraken moeten worden afgezegd en/of de agenda van de desbetreffende medewerker moet worden geschoond.  
+* De afdelingschef houdt rekening met de nazorg op lange termijn. Hierbij kan bijvoorbeeld gedacht worden aan het moment van ‘een jaar na overlijden’.   Organisatorische aanpassingen De direct leidinggevende van de medewerker onderzoekt of werkzaamheden van deze medewerker door collegae moeten worden overgenomen, of afspraken moeten worden afgezegd en/of de agenda van de desbetreffende medewerker moet worden geschoond. 
 
 ####Condoleance register
 
-De (secretariële ondersteuning) van de leidinggevende draagt zorg voor het aanleggen van een condoleanceregister en een recente foto van betrokkene. Dit geldt voor gevallen waarbij het overlijden van de medewerker in/door de dienst is veroorzaakt. Dit register wordt twee weken lang bij de receptie/stilteruimte van het bureau gelegd, waar de betrokken collega werkzaam was. Daarna kan het register bij andere bureaus (districts-, divisie- en hoofdbureau) worden neergelegd voor tekening. Na acht weken wordt het register door of vanwege de korpsleiding aan de nabestaande(n) aangeboden.  
+De (secretariële ondersteuning) van de leidinggevende draagt zorg voor het aanleggen van een condoleanceregister en een recente foto van betrokkene. Dit geldt voor gevallen waarbij het overlijden van de medewerker in/door de dienst is veroorzaakt. Dit register wordt twee weken lang bij de receptie/stilteruimte van het bureau gelegd, waar de betrokken collega werkzaam was. Daarna kan het register bij andere bureaus (districts-, divisie- en hoofdbureau) worden neergelegd voor tekening. Na acht weken wordt het register door of vanwege de korpsleiding aan de nabestaande(n) aangeboden. 
 
 ####Kledingvoorschrift
 
@@ -504,13 +504,13 @@ De (secretariële ondersteuning) van de leidinggevende draagt zorg voor het aanl
 
 * In de kerk dragen mannen geen pet, ook niet de dragers.  
 
-* De dames dragen een rok of een broekrok en een blauwe shawl. Verder dragen zij gladde zwarte pumps en ‘vleeskleurige’ panty's    
+* De dames dragen een rok of een broekrok en een blauwe shawl. Verder dragen zij gladde zwarte pumps en ‘vleeskleurige’ panty's   
 
 ####Vlaggen
 
 * Bij korpseer wordt op de dag van de herdenkingsdienst en de dag van de uitvaartceremonie op het afdelingsbureau, de politie vlag halfstok gehesen van zonsopkomst tot zonsondergang.  
 
-* In de periode vanaf het overlijden tot en met de dag van de uitvaartceremonie, kunnen de dienstvoertuigen voorzien worden van een zwart lint.   Politievlag Op de dag van de begrafenis/crematie wordt ’s morgens bij de politiebureaus (c.q. onderdeelsbureaus) de politievlag halfstok gehangen. Direct na het tijdstip van de plechtigheid gaat de vlag weer in top. Over de kist van de overledene is de nationale driekleur gespreid. Nationale driekleur Op de kist met het stoffelijk overschot wordt bij de uitvaartdienst met korpseer de nationale driekleur (formaat 2 x 3 meter) gedrapeerd. Daarvan wordt, gezien van het hoofdeinde, het rood rechts, het blauw links van de kist en de stokzijde (lus en ‘hijskoord’) over het hoofdeinde, van de kist gehangen. De vlag is over de hele kist uitgespreid. Daar bovenop wordt het bloemstuk van de familie gelegd. Kosten voor aanschaf van deze vlag is voor rekening van het korps. De Slippendragers zijn verantwoordelijk voor het ‘vlagritueel’.  
+* In de periode vanaf het overlijden tot en met de dag van de uitvaartceremonie, kunnen de dienstvoertuigen voorzien worden van een zwart lint.   Politievlag Op de dag van de begrafenis/crematie wordt ’s morgens bij de politiebureaus (c.q. onderdeelsbureaus) de politievlag halfstok gehangen. Direct na het tijdstip van de plechtigheid gaat de vlag weer in top. Over de kist van de overledene is de nationale driekleur gespreid. Nationale driekleur Op de kist met het stoffelijk overschot wordt bij de uitvaartdienst met korpseer de nationale driekleur (formaat 2 x 3 meter) gedrapeerd. Daarvan wordt, gezien van het hoofdeinde, het rood rechts, het blauw links van de kist en de stokzijde (lus en ‘hijskoord’) over het hoofdeinde, van de kist gehangen. De vlag is over de hele kist uitgespreid. Daar bovenop wordt het bloemstuk van de familie gelegd. Kosten voor aanschaf van deze vlag is voor rekening van het korps. De Slippendragers zijn verantwoordelijk voor het ‘vlagritueel’. 
 
 ####Rouwadvertenties
 
@@ -520,13 +520,13 @@ Factoren die van invloed zijn op het al dan niet plaatsen van een rouwadvertenti
 
 * De arbeidsrelatie tussen de dienst en betrokkene;  
 
-* De wens van de familie hieromtrent.   Indien er gekozen wordt voor het plaatsen van een rouwadvertentie geldt de volgende procedure: De rouwadvertentie wordt alleen in samenspraak en met toestemming van de nabestaande(n) geplaatst. De inhoud van de rouwadvertenties wordt niet gestandaardiseerd. De ondertekening van rouwadvertenties is gestandaardiseerd en dient te luiden: ‘namens het gehele korps ....., naam korpschef, Korpschef’. In alle rouwadvertenties wordt het logo van het korps opgenomen. Procedure beschrijven (conform Amsterdam)??  
+* De wens van de familie hieromtrent.   Indien er gekozen wordt voor het plaatsen van een rouwadvertentie geldt de volgende procedure: De rouwadvertentie wordt alleen in samenspraak en met toestemming van de nabestaande(n) geplaatst. De inhoud van de rouwadvertenties wordt niet gestandaardiseerd. De ondertekening van rouwadvertenties is gestandaardiseerd en dient te luiden: ‘namens het gehele korps ....., naam korpschef, Korpschef’. In alle rouwadvertenties wordt het logo van het korps opgenomen. Procedure beschrijven (conform Amsterdam)?? 
 
 ####Bloemstukken
 
 * Bij korpseer worden zo snel mogelijk namens de afdeling en / of de regio bloemstukken neergelegd op de plaats waar de overledene ligt opgebaart.  
 
-* Indien nodig worden voorafgaande aan en na afloop van de dienst collega's gevraagd voor het dragen van kransen en bloemstukken.   Namens de korpsleiding en medewerkers wordt een bloemstuk/krans in de korpskleuren blauw en geel (vervangt goud) met een eveneens blauw-geel lint besteld. Opschrift op het lint luidt: ‘Een laatste groet. Politie........’ Kosten ca. € 100,--  
+* Indien nodig worden voorafgaande aan en na afloop van de dienst collega's gevraagd voor het dragen van kransen en bloemstukken.   Namens de korpsleiding en medewerkers wordt een bloemstuk/krans in de korpskleuren blauw en geel (vervangt goud) met een eveneens blauw-geel lint besteld. Opschrift op het lint luidt: ‘Een laatste groet. Politie........’ Kosten ca. € 100,-- 
 
 ####Contacten met nabestaanden na de uitvaartceremonie
 
@@ -536,17 +536,17 @@ Factoren die van invloed zijn op het al dan niet plaatsen van een rouwadvertenti
 
 * Tijdens deze contacten worden met de nabestaanden administratieve zaken geregeld die nodig zijn rondom het overlijden van een collega. In het bijzonder gaat het hier over die zaken die de beëindiging van het dienstverband betreffen. Daarbij informeert deze de nabestaanden over de administratieve gevolgen. De personeelsmanagementadviseur wordt hierin betrokken gelet op zijn functie binnen de afdeling. Speciaal aandachtspunt is de post.  
 
-* Voor de te regelen zaken wordt verwezen naar het handboek personeel onder ‘begeleiding nabestaanden’.    
+* Voor de te regelen zaken wordt verwezen naar het handboek personeel onder ‘begeleiding nabestaanden’.   
 
 ####Na de crematie / begrafenis
 
-Zonodig kan aan het wijkteam/bureau een samenzijn worden georganiseerd. Dit geeft collega’s de gelegenheid om na te praten en om in evaluerende zin terug te kijken op de gebeurtenis. Vanuit het korps wordt (eventueel) een lunch verzorgd.  
+Zonodig kan aan het wijkteam/bureau een samenzijn worden georganiseerd. Dit geeft collega’s de gelegenheid om na te praten en om in evaluerende zin terug te kijken op de gebeurtenis. Vanuit het korps wordt (eventueel) een lunch verzorgd. 
 
 ####Planning diensten, bureau openstelling e.d.
 
 * Voor zover de afdeling er niet zelf in kan voorzien, wordt samenwerking gezocht voor invulling van de (noodzakelijke) diensten en de bureauopenstelling. Hierdoor kunnen de medewerkers van de afdeling optimaal in de gelegenheid gesteld worden om de dienst(en) bij te wonen en worden zij tevens in de gelegenheid gesteld om het verlies te verwerken.  
 
-* Medewerkers worden zoveel mogelijk in de gelegenheid gesteld om (een van) de diensten bij te wonen.    
+* Medewerkers worden zoveel mogelijk in de gelegenheid gesteld om (een van) de diensten bij te wonen.   
 
 ####Terugkeer rouwende medewerker
 
@@ -560,21 +560,21 @@ Bijzondere aandacht gaat uit naar de terugkeer van de medewerker. Zorgvuldigheid
 
 * Voorbereiding op mogelijke reacties van collega’s;  
 
-* De medewerker begeleiding aanbieden van de Arbo-dienst, bedrijfsmaatschappelijk werk of geestelijk verzorger;   De afspraken die tussen de leidinggevende en de medewerker zijn gemaakt, worden schriftelijk vastgelegd. Het spreekt voor zich dat deze, afhankelijk van de ontwikkeling van het rouwproces, aangepast kunnen worden. Een goede begeleiding en regelmatig contact over de reïntegratie is van cruciaal belang. Het verdient aanbeveling om binnen het onderdeel te communiceren over de terugkeer van de desbetreffende medewerker.  
+* De medewerker begeleiding aanbieden van de Arbo-dienst, bedrijfsmaatschappelijk werk of geestelijk verzorger;   De afspraken die tussen de leidinggevende en de medewerker zijn gemaakt, worden schriftelijk vastgelegd. Het spreekt voor zich dat deze, afhankelijk van de ontwikkeling van het rouwproces, aangepast kunnen worden. Een goede begeleiding en regelmatig contact over de reïntegratie is van cruciaal belang. Het verdient aanbeveling om binnen het onderdeel te communiceren over de terugkeer van de desbetreffende medewerker. 
 
 ####Aandacht sterfdag
 
-Rouw is niet over nadat het daarvoor beschikbare verlof is genoten. Aandacht voor de sterfdag is belangrijk. Betrokkene moet de gelegenheid krijgen, indien gewenst, om op die dag vrij (eigen tijd) te nemen. Een jaar na het overlijden kan een bloemengroet bij het graf of bij de familie worden bezorgd. Ook kan overwogen worden bloemen bij de Tuin van Bezinning te leggen. Daarnaast kan eventueel samen met de nabestaanden een herdenkingsbijeenkomst worden georganiseerd door de directe collega’s.  
+Rouw is niet over nadat het daarvoor beschikbare verlof is genoten. Aandacht voor de sterfdag is belangrijk. Betrokkene moet de gelegenheid krijgen, indien gewenst, om op die dag vrij (eigen tijd) te nemen. Een jaar na het overlijden kan een bloemengroet bij het graf of bij de familie worden bezorgd. Ook kan overwogen worden bloemen bij de Tuin van Bezinning te leggen. Daarnaast kan eventueel samen met de nabestaanden een herdenkingsbijeenkomst worden georganiseerd door de directe collega’s. 
 
 ####Herdenking
 
-Op voordracht van de korpsleiding wordt de overleden medewerker voor vermelding in de Tuin van Bezinning te Warnsveld aangemeld.  
+Op voordracht van de korpsleiding wordt de overleden medewerker voor vermelding in de Tuin van Bezinning te Warnsveld aangemeld. 
 
 ####Overig
 
 *Arbeidsvoorwaardelijke aangelegenheden*  Het [Barp](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) kent concreet de volgende verlofmogelijkheden waarbij in geval van rouw op kan worden teruggevallen: Buitengewoon verlof ([artikel 37 Barp](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md)): Buitengewoon verlof met behoud van salaris bestaat o.a. bij overlijden van familie in de eerste of tweede graad, vier c.q. twee dagen. Zorgverlof ([artikel 40b Barp](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md)): Zorgverlof met behoud van salaris wordt verleend bij: ziekte (ernstig en niet ernstig) van inwonende kinderen, ouders en echtgenoten bij ernstig ziekte van uitwonende kinderen, ouders en echtgenoten. Dit verlof bedraagt per kalenderjaar ten hoogste tweemaal de arbeidsduur per week. Wil de medewerker langer buitengewoon verlof c.q. zorgverlof hebben dan moet hij terugvallen op de algemene bevoegdheid (niet plicht) die het korps heeft om buitengewoon verlof te verlenen, al dan niet doorbetaalt ([artikel 39](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en [43 Barp](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md)). Naast deze mogelijkheden, is het redelijk wanneer de medewerker over een verlofstuwmeer beschikt, om een gedeelte van dit verlofstuwmeer in te zetten, al dan niet gecombineerd met een gedeelte buitengewoon verlof (betaald). De medewerker heeft hierin immers ook een eigen belang. De uitvoering van het onderstaande vindt plaats onder verantwoordelijkheid van de leidinggevende van het onderdeel en wordt uitgevoerd door de personeelsmanagementadviseur van het district/de dienst waar het korpslid is ingedeeld: 
 
-* Zo spoedig mogelijk na het overlijden wordt aan de weduwe of weduwnaar een bedrag uitgekeerd gelijk aan de bezoldiging over het tijdvak van drie maanden, conform [artikel 46 lid 2 Bbp](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md). Als maatstaf geldt de bezoldiging die het korpslid op de dag van het overlijden genoot, of indien hij aanspraak maakt op een [WAO](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) / [WIA](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) -uitkering en een bovenwettelijke arbeidsongeschiktheidsuitkering, zou hebben genoten, als hij niet arbeidsongeschikt zou zijn geweest. De desbetreffende personeelsmanagementadviseur informeert bij de nabestaande(n) op welke bank- of girorekening dit bedrag gestort dient te worden. Bankinstellingen gaan divers om met het al dan niet blokkeren van een ‘en/of rekening’ bij overlijden;  
+* Zo spoedig mogelijk na het overlijden wordt aan de weduwe of weduwnaar een bedrag uitgekeerd gelijk aan de bezoldiging over het tijdvak van drie maanden, conform [artikel 46 lid 2 Bbp](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md). Als maatstaf geldt de bezoldiging die het korpslid op de dag van het overlijden genoot, of indien hij aanspraak maakt op een [WAO](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md)/[WIA](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md)-uitkering en een bovenwettelijke arbeidsongeschiktheidsuitkering, zou hebben genoten, als hij niet arbeidsongeschikt zou zijn geweest. De desbetreffende personeelsmanagementadviseur informeert bij de nabestaande(n) op welke bank- of girorekening dit bedrag gestort dient te worden. Bankinstellingen gaan divers om met het al dan niet blokkeren van een ‘en/of rekening’ bij overlijden;  
 
 * Indien het korpslid komt te overlijden ten gevolge van een dienstongeval of een door het verrichten van zijn arbeid opgelopen beroepsziekte, dan ontvangt de weduwe/weduwnaar een aanvullende uitkering conform [artikel 46b, eerste lid van het Bbp](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) en daarnaast een extra aanvullende korpsuitkering voor gelijke duur. Laatstgenoemde uitkering is beschreven in dienstvoorschrift ‘Bovenwettelijke sociale zekerheid’ (nr. 04.21.9) ???;  
 
@@ -584,7 +584,7 @@ Op voordracht van de korpsleiding wordt de overleden medewerker voor vermelding 
 
 * Indien het korpslid gebruikt maakt van de Tijdelijke Ouderen Regeling (TOR), dan wordt bij overlijden een uitkering verstrekt aan de weduwe of weduwnaar, conform [artikel 29k van het Bbp](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md);  
 
-* Aan de langstlevende of een minderjarig kind van het korpslid aan wie een ziektewetuitkering of een [WAO](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) / [WIA](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) -uitkering is toegekend, wordt conform [artikel 35 van de Ziektewet](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), respectievelijk artikel 53 van de Wet op de arbeidsongeschiktheidsuitkering of een overlijdensuitkering uitbetaald op grond van [artikel 74 van de Wet Werk en Inkomen naar Arbeidsvermogen](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md). Op de uitkering van het korps ([artikel 46 lid 2 Bbp](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md)) worden de eventuele uitkeringen op grond van de [Ziektewet](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) en de [WAO](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) / [WIA](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) in mindering gebracht;  
+* Aan de langstlevende of een minderjarig kind van het korpslid aan wie een ziektewetuitkering of een [WAO](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md)/[WIA](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md)-uitkering is toegekend, wordt conform [artikel 35 van de Ziektewet](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), respectievelijk artikel 53 van de Wet op de arbeidsongeschiktheidsuitkering of een overlijdensuitkering uitbetaald op grond van [artikel 74 van de Wet Werk en Inkomen naar Arbeidsvermogen](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md). Op de uitkering van het korps ([artikel 46 lid 2 Bbp](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md)) worden de eventuele uitkeringen op grond van de [Ziektewet](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) en de [WAO](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md)/[WIA](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) in mindering gebracht;  
 
 * Uitbetalen van het opgebouwde levenslooptegoed onder inhouding van belastingen;  
 
@@ -632,7 +632,7 @@ Privé
 
 * Uitrustingsstukken w.o. wapen, wapenstok, pepperspray, handboeien, telefoon;  
 
-* Eventuele sleutels van kamer, kast en/of bureau en andere diensteigendommen;   Administratieve verwerking in de (personeels)informatiesystemen.  
+* Eventuele sleutels van kamer, kast en/of bureau en andere diensteigendommen;   Administratieve verwerking in de (personeels)informatiesystemen. 
 
 ####Bijlagen
 
@@ -690,7 +690,7 @@ Algemeen
 
 * Als de familie een uitvaart met volledige korpseer wil, laat dan weten dat onze voorkeur uitgaat naar een begrafenisondernemer die gewend is om dit soort grote uitvaarten te organiseren. Namen van deze bedrijven meenemen. Vraag ook of de familie er de voorkeur aangeeft een ceremoniemeester zelf aan te wijzen, of dat dit iemand van het politiekorps kan zijn. Heeft de familie bezwaar tegen de aanwezigheid van: chef, HOvJ, burgemeester(s) bij plechtigheid?    
 
-* In geval van overlijden als gevolg van de dienst zal er bij de uitvaart aandacht van de media zijn. Vraag de familie daarom of ze pers (schrijvend/overig) toestaan bij de plechtigheid en/of begraafplaats.    
+* In geval van overlijden als gevolg van de dienst zal er bij de uitvaart aandacht van de media zijn. Vraag de familie daarom of ze pers (schrijvend/overig) toestaan bij de plechtigheid en/of begraafplaats.   
 
 ####Een aantal aandachtspunten voor werkgevers en werksituaties
 
@@ -722,11 +722,11 @@ Algemeen
 
 * Wanneer het overlijden een collega betreft, dienen leidinggevende en medewerkers oog te hebben voor de nieuwe/plaatsvervangende persoon, die de positie van de overledene inneemt. Aanpassing kost tijd. Er bestond een band met de voorganger die wegviel. Agressieve reacties, aftastend/afwachtend gedrag ten opzichte van de nieuwe kracht zijn dan normaal.  
 
-* Het veel gehoorde ‘de tijd heelt alle wonden’ is niet waar. De tijd werkt enkel genezend, wanneer de rouwende die gebruikt om bezig te zijn met het verdriet, en niet als deze ontkent, wegduwt en uitstelt. Niet omkijken of wel het verdriet opkroppen brengt geen verlichting van de pijn. Er vindt geen genezing plaats. Als werkgevers en werknemers zich hiervan bewust zijn, kunnen zij hier constructief mee bezig zijn.    
+* Het veel gehoorde ‘de tijd heelt alle wonden’ is niet waar. De tijd werkt enkel genezend, wanneer de rouwende die gebruikt om bezig te zijn met het verdriet, en niet als deze ontkent, wegduwt en uitstelt. Niet omkijken of wel het verdriet opkroppen brengt geen verlichting van de pijn. Er vindt geen genezing plaats. Als werkgevers en werknemers zich hiervan bewust zijn, kunnen zij hier constructief mee bezig zijn.   
 
 ####Meer informatie
 
-www.uitvaart.nl www.verliesverwerken.nl Uitreksel Rouw en Arbeid (*Het onderstaande tekstdeel is overgenomen uit de door Prof. Dr. E. Keirse, tijdens de conferentie ‘Rouw en Arbeid’ gehouden lezing, die is opgenomen in de door de Landelijke Stichting Rouwbegeleiding uitgegeven brochure ‘Werken met Verlies’.)* Landelijk draaiboek/checklist uitvaarten  *Bij het overlijden van een gezinslid, familielid of relatie van een medewerker*  Bericht van overlijden Indien het bericht niet via de betrokken medewerker zelf of een naast familielid binnenkomt, kan verificatie noodzakelijk zijn. De directe leidinggevende van de betrokken medewerker wordt van het overlijden in kennis gesteld. De leidinggevende neemt – indien mogelijk – op zo kort mogelijke termijn contact op met de getroffen medewerker. Briefing collega’s De directe leidinggevende informeert de naaste collega’s van de betrokkene. Daarbij dient overwogen te worden of er collega’s buiten dienst geïnformeerd moeten worden. Er wordt bekendgemaakt hoe de contacten met de getroffen medewerker gaan lopen. Uiteraard dient er altijd rekening gehouden te worden met de behoeften en wensen van de getroffen medewerker (bijvoorbeeld met culturele achtergronden). Organisatorische aanpassingen De directe leidinggevende van de betrokken medewerker dient, indien dit van toepassing is, overname van de werkzaamheden te regelen. De aanpassingen zijn tijdelijk en hebben het karakter van een ‘vangnet’. Voorkomen moet worden dat de medewerker langer thuis zit dan noodzakelijk is en de drempel voor de werkhervatting daardoor ‘te hoog’ wordt. Periode rond de uitvaart In de periode tussen het overlijden en de uitvaart, wordt overleg gevoerd met de betrokken medewerker over bijvoorbeeld: 
+www.uitvaart.nl www.verliesverwerken.nl Uitreksel Rouw en Arbeid (*Het onderstaande tekstdeel is overgenomen uit de door Prof. Dr. E. Keirse, tijdens de conferentie ‘Rouw en Arbeid’ gehouden lezing, die is opgenomen in de door de Landelijke Stichting Rouwbegeleiding uitgegeven brochure ‘Werken met Verlies’.)*  Landelijk draaiboek/checklist uitvaarten  *Bij het overlijden van een gezinslid, familielid of relatie van een medewerker*  Bericht van overlijden Indien het bericht niet via de betrokken medewerker zelf of een naast familielid binnenkomt, kan verificatie noodzakelijk zijn. De directe leidinggevende van de betrokken medewerker wordt van het overlijden in kennis gesteld. De leidinggevende neemt – indien mogelijk – op zo kort mogelijke termijn contact op met de getroffen medewerker. Briefing collega’s De directe leidinggevende informeert de naaste collega’s van de betrokkene. Daarbij dient overwogen te worden of er collega’s buiten dienst geïnformeerd moeten worden. Er wordt bekendgemaakt hoe de contacten met de getroffen medewerker gaan lopen. Uiteraard dient er altijd rekening gehouden te worden met de behoeften en wensen van de getroffen medewerker (bijvoorbeeld met culturele achtergronden). Organisatorische aanpassingen De directe leidinggevende van de betrokken medewerker dient, indien dit van toepassing is, overname van de werkzaamheden te regelen. De aanpassingen zijn tijdelijk en hebben het karakter van een ‘vangnet’. Voorkomen moet worden dat de medewerker langer thuis zit dan noodzakelijk is en de drempel voor de werkhervatting daardoor ‘te hoog’ wordt. Periode rond de uitvaart In de periode tussen het overlijden en de uitvaart, wordt overleg gevoerd met de betrokken medewerker over bijvoorbeeld: 
 
 * Het wel/niet aanbieden van bloemen.  
 
@@ -750,7 +750,7 @@ www.uitvaart.nl www.verliesverwerken.nl Uitreksel Rouw en Arbeid (*Het onderstaa
 
 * Moment(en) van evaluatie inbouwen en afspreken.  
 
-* Indien er onder rouwomstandigheden een ziekmelding komt is er overleg tussen de directe leidinggevende en de Arbo-dienst (bedrijfsverpleegkundige)/bedrijfsarts nodig om tot een goede afstemming van beleid te komen.   Nazorg In individuele gesprekken en ook b.v. binnen het functioneringsgesprek is het goed om aandacht te schenken aan de persoonlijke omstandigheden van betrokkene. De eventuele behoefte van betrokken medewerker, om het proces los te laten en af te sluiten kan echter ook sterk zijn en kan hierbij ter sprake worden gebracht evenals de wijze, waarop hij dit binnen zijn omgeving kenbaar wil maken. Een verlies kan extra risico voor een depressie dan wel post traumatische stress stoornis (PTSS) geven. Wanneer hiervan signalen herkenbaar worden is het van belang dat de leidinggevende vroegtijdig overleg pleegt met de bedrijfsarts of het bedrijfsmaatschappelijk werk om het risico van uitval te verkleinen. Naar aanleiding van waargenomen symptomen kan door de bedrijfsarts of bedrijfsmaatschappelijk werk worden vastgesteld of dergelijke ziektebeelden zich gaan ontwikkelen.  
+* Indien er onder rouwomstandigheden een ziekmelding komt is er overleg tussen de directe leidinggevende en de Arbo-dienst (bedrijfsverpleegkundige)/bedrijfsarts nodig om tot een goede afstemming van beleid te komen.   Nazorg In individuele gesprekken en ook b.v. binnen het functioneringsgesprek is het goed om aandacht te schenken aan de persoonlijke omstandigheden van betrokkene. De eventuele behoefte van betrokken medewerker, om het proces los te laten en af te sluiten kan echter ook sterk zijn en kan hierbij ter sprake worden gebracht evenals de wijze, waarop hij dit binnen zijn omgeving kenbaar wil maken. Een verlies kan extra risico voor een depressie dan wel post traumatische stress stoornis (PTSS) geven. Wanneer hiervan signalen herkenbaar worden is het van belang dat de leidinggevende vroegtijdig overleg pleegt met de bedrijfsarts of het bedrijfsmaatschappelijk werk om het risico van uitval te verkleinen. Naar aanleiding van waargenomen symptomen kan door de bedrijfsarts of bedrijfsmaatschappelijk werk worden vastgesteld of dergelijke ziektebeelden zich gaan ontwikkelen. 
 
 ### Bijlage  3  
 
@@ -785,7 +785,7 @@ Ministerie van Binnenlandse Zaken
 
 De ontwikkelingen op het gebied van het jeugdbeleid (in ruime zin) maken het wenselijk de voor het burgerlijk rijkspersoneel geldende regeling voor het verlenen van buitengewoon verlof ten behoeve van jeugdwerk (rondzendbrieven van de Minister van Binnenlandse Zaken van 10 juni 1974, nr. A374/U993 en van 1 'maart 1977, nr. A377/U301) aan te passen. De laatste jaren is de behoefte gegroeid de begeleiding bij jeugdkampen en kindervakantie-activiteiten te intensiveren. Lag het accent bij kampen/kindervakantie-activiteiten voorheen op recreatieve aspecten, thans worden meer educatieve elementen in dergelijke activiteiten ingebracht. Om de kwaliteit van de begeleiding te handhaven en de uitvoering van het programma te waarborgen, is het dan ook noodzakelijk meer vrijwillig medewerkenden bij kampen en kindervakantie-activiteiten te betrekken. De thans geldende normen moeten hiermee in overeenstemming worden gebracht. Bij jeugdkampen ligt het accent op het in groepsverband gedurende een aantal dagen gezamenlijk actief zijn. Ten einde te voorkomen dat dit aspect in het gedrang komt, is het noodzakelijk een minimum aantal deelnemers per kamp vast te stellen. In het verleden werd slechts verlof gevraagd voor het assisteren van de leiding bij zomerkampen die een week of langer duurden. Steeds vaker wordt echter verlof gevraagd voor kampen die tijdens herfst-, Kerst-, Paas- en Pinkstervakantie worden georganiseerd. Ook kindervakantie-activiteiten vinden vaker dan voorheen, in deze vakantie plaats. De tot nu toe voor deze activiteiten gestelde minimum duur is met genoemde ontwikkeling niet meer in overeenstemming. De procedure van indiening en behandeling van verlofaanvragen is in de praktijk anders dan thans is voorgeschreven. Aanpassing van deze voorschriften en opneming daarin van een aanvraagtermijn verdienen aanbeveling. Tenslotte is het wenselijk de terminologie in de regeling te actualiseren. In plaats van over ‘jeugdwerk’ wordt gesproken over: jeugd- en jongerenwerk. Het begrip ‘Jeugdleider’ is vervangen door: vrijwillig medewerkende. In verband met het bovenstaande, is door de Raad van Ministers besloten de in aanhef vermelde regeling met ingang van 1 januari 1982 te vervangen door de hierna volgende regeling buitengewoon verlof ten behoeve van het jeugd- en jongerenwerk. 
 
-1. Aan rijksambtenaren/-werknemers kan, tenzij de belangen van de dienst zich daartegen verzetten, met toepassing van [artikel 33e van het Algemeen Rijksambtenarenreglement](../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) /artikel 30g van het Arbeidsovereenkomstenbesluit, buitengewoon verlof van korte duur met behoud van bezoldiging worden verleend voor: 
+1. Aan rijksambtenaren/-werknemers kan, tenzij de belangen van de dienst zich daartegen verzetten, met toepassing van [artikel 33e van het Algemeen Rijksambtenarenreglement](../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md)/artikel 30g van het Arbeidsovereenkomstenbesluit, buitengewoon verlof van korte duur met behoud van bezoldiging worden verleend voor: 
 
 1.1 het leiden of volgen van een cursus, gericht op vrijwilligers die zich met jeugd- en jongerenwerk bezighouden;  
 
@@ -809,7 +809,7 @@ De ontwikkelingen op het gebied van het jeugdbeleid (in ruime zin) maken het wen
 
 ####Procedure
 
-Een aanvraag om buitengewoon verlof moet ten minste twee maanden voordat het kamp/de activiteit een aanvang neemt, worden ingediend. Indiening dient namens de werknemer te geschieden:  
+Een aanvraag om buitengewoon verlof moet ten minste twee maanden voordat het kamp/de activiteit een aanvang neemt, worden ingediend. Indiening dient namens de werknemer te geschieden: 
 
 a. door het bestuur van: 
 
@@ -822,15 +822,15 @@ a. door het bestuur van:
 b. door een provinciaal, regionaal of plaatselijk werkende instelling voor jeugd- en jongerenwerk, als het betreft niet landelijk georganiseerde jeugd- en jongerenwerk of kindervakantie-activiteiten. Bij het ontbreken van een dergelijke instelling dienen de aanvragen via de gemeentesecretarie of de provinciale jeugdraad te worden ingediend.   De aanvragen voor buitengewoon verlof moeten worden ingediend via de afdeling Jeugdzaken van het Ministerie van Cultuur, Recreatie en Maatschappelijk Werk en worden, voorzien van een advies van het hoofd van deze afdeling, doorgezonden aan de betrokken werkgever.  
 
 De 
-Minister van Binneniandse Zaken,  
+Minister van Binneniandse Zaken,   
 
 ### Bijlage  4-2  
 
 Ministerie van Binnenlandse Zaken Directoraat-Generaal voor Openbare Orde en Veiligheid Postadres Postbus 20011 2500 EA 's-Gravenhage Telefoon: 070-717911 Telex: 32109 biza nl Bijlagen: een. - Onderwerp: Buitengewoon verlof voor jeugd- en jongerenwerk- Ons nummer: EA82/D998 Departementsderdeel: Pol/P Datum: 26 maart 1982 Aan: Burgemeesters van gemeenten met gemeentepolitie Hierbij doe ik u toekomen een tot mijn ambtgenoten gerichte circulaire van 10 maart 1982, nr. AB82/U18, inzake bovenvermeld onderwerp. Kortheidshalve moge naar de inhoud daarvan worden verwezen. Ik verzoek u te bevorderen dat ten aanzien van ambtenaren van gemeentepolitie in uw gemeente een overeenkomstige gedragslijn wordt gevolgd.  
 
 De 
-Minister van Binnenlandse Zaken,voor deze:
-de chef van de afdeling personeel van de directie politie  
+Minister van Binnenlandse Zaken, voor deze: 
+de chef van de afdeling personeel van de directie politie   
 
 ### Bijlage  4-3  
 
@@ -839,9 +839,9 @@ MINISTERIE VAN BINNENLANDSE ZAKEN EN KONINKRIJKSRELATIES Aan: De Korpschefs van 
 Hoogachtend, 
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelatiesvoor deze:
-de directeur-generaal Openbare Orde en Veiligheid,
-A.H.C.Annink  
+Minister van Binnenlandse Zaken en Koninkrijksrelaties voor deze: 
+de directeur-generaal Openbare Orde en Veiligheid, 
+A.H.C. Annink    
 
 ### Bijlage  4-4  
 
@@ -859,7 +859,7 @@ hoofd Personeel en Organisatie Korpsstaf, wnd.
 
 ####Totstandkoming
 
-Vanuit de expertgroep Observeren (EGO) is een verkennend voorstel voor een eenduidige rechtspositie voor observatieteams gekomen. Dit voorstel is afgestemd met de strategische beleidsgroep TOP. Vervolgens is het voorstel besproken met de SGB HRM. Dit heeft geleid tot een aanpassing van het oorspronkelijke voorstel. Vervolgens is er bij de korpsen nadere informatie gevraagd over de (arbeids-) voorwaarden van de leden van de observatieteams. Binnen de Nederlandse politie wordt verschillend omgegaan met de arbeidsvoorwaarden die gehanteerd worden ten aanzien van de observatieteams. De EGO stelt zich op het standpunt dat een eenduidige rechtspositie noodzakelijk is om de diverse samenwerkings- en samenvoegingstrajecten goed te laten verlopen. De volgende arbeidsvoorwaarden komen in aanmerking voor harmonisatie. Deze arbeidsvoorwaarden zijn eerder aan het HAP-overleg (oktober 2009) voorgelegd. Deze onderstaande geharmoniseerde arbeidsvoorwaarden gelden voor observatierechercheurs die voor hun volledige arbeidsduur werkzaam zijn bij ofwel bij een regionaal danwel een landelijk observatieteam en zijn aangesteld in de functie van observant ofwel technisch ondersteuner. <sup> 1  Indien er geen sprake is van een aanstelling als observant is het ter beoordeling van het bevoegd gezag of het lid van het observatieteam in aanmerking komt voor de geharmoniseerde arbeidsvoorwaarden  </sup> 
+Vanuit de expertgroep Observeren (EGO) is een verkennend voorstel voor een eenduidige rechtspositie voor observatieteams gekomen. Dit voorstel is afgestemd met de strategische beleidsgroep TOP. Vervolgens is het voorstel besproken met de SGB HRM. Dit heeft geleid tot een aanpassing van het oorspronkelijke voorstel. Vervolgens is er bij de korpsen nadere informatie gevraagd over de (arbeids-) voorwaarden van de leden van de observatieteams. Binnen de Nederlandse politie wordt verschillend omgegaan met de arbeidsvoorwaarden die gehanteerd worden ten aanzien van de observatieteams. De EGO stelt zich op het standpunt dat een eenduidige rechtspositie noodzakelijk is om de diverse samenwerkings- en samenvoegingstrajecten goed te laten verlopen. De volgende arbeidsvoorwaarden komen in aanmerking voor harmonisatie. Deze arbeidsvoorwaarden zijn eerder aan het HAP-overleg (oktober 2009) voorgelegd. Deze onderstaande geharmoniseerde arbeidsvoorwaarden gelden voor observatierechercheurs die voor hun volledige arbeidsduur werkzaam zijn bij ofwel bij een regionaal danwel een landelijk observatieteam en zijn aangesteld in de functie van observant ofwel technisch ondersteuner.<sup> 1 Indien er geen sprake is van een aanstelling als observant is het ter beoordeling van het bevoegd gezag of het lid van het observatieteam in aanmerking komt voor de geharmoniseerde arbeidsvoorwaarden </sup>  
 
 * Kleding en uitrusting;  
 
@@ -871,33 +871,33 @@ Vanuit de expertgroep Observeren (EGO) is een verkennend voorstel voor een eendu
 
 – definiëring verhouding reistijd - diensttijd i.r.t. woon-werk verkeer    
 
-* Piketregeling;    
+* Piketregeling;   
 
 ####Kleding en uitrusting
 
-De kleding/uitrusting van de leden van de observatieteams laat zich onderscheiden in drie delen. Het eerste betreft sportkleding (zonder logo) hiervoor wordt aan de medewerker een bedrag per jaar toegekend van €125,-. Dit bedrag dient door de werkgever gebruteerd te worden. Daarnaast gebruiken leden van observatieteams ‘gewone kleding’, dat wil zeggen niet als politiekleding gekenmerkte kleding, die voor de uitvoering van de werkzaamheden wordt gebruikt. Hiervoor wordt aan de medewerker een bedrag van € 200,- per jaar toegekend. Dit bedrag dient door de werkgever gebruteerd te worden. Als derde categorie geldt de kleding en uitrusting voor specialistische acties. Hierbij kan gedacht worden aan motorkleding, vermommingen en/of transformatiekleding, gebruik van mobiele telefoons, laptops, verrekijkers, fototoestellen. Deze kosten worden door de korpsen veelal uit bedrijfsvoeringsbudgetten bekostigd. Deze kleding en uitrusting is actie gebonden en niet persoonsgebonden. Omdat de verschillen tussen de korpsen in deze categorie groot zijn en de kosten uit de bedrijfsvoering wordt betaald zal dit niet geharmoniseerd worden.  
+De kleding/uitrusting van de leden van de observatieteams laat zich onderscheiden in drie delen. Het eerste betreft sportkleding (zonder logo) hiervoor wordt aan de medewerker een bedrag per jaar toegekend van €125,-. Dit bedrag dient door de werkgever gebruteerd te worden. Daarnaast gebruiken leden van observatieteams ‘gewone kleding’, dat wil zeggen niet als politiekleding gekenmerkte kleding, die voor de uitvoering van de werkzaamheden wordt gebruikt. Hiervoor wordt aan de medewerker een bedrag van € 200,- per jaar toegekend. Dit bedrag dient door de werkgever gebruteerd te worden. Als derde categorie geldt de kleding en uitrusting voor specialistische acties. Hierbij kan gedacht worden aan motorkleding, vermommingen en/of transformatiekleding, gebruik van mobiele telefoons, laptops, verrekijkers, fototoestellen. Deze kosten worden door de korpsen veelal uit bedrijfsvoeringsbudgetten bekostigd. Deze kleding en uitrusting is actie gebonden en niet persoonsgebonden. Omdat de verschillen tussen de korpsen in deze categorie groot zijn en de kosten uit de bedrijfsvoering wordt betaald zal dit niet geharmoniseerd worden. 
 
 ####Reis-, verblijf-, en kleine kosten:
 
-Binnen het operationele werk komt het veelvuldig voor dat medewerkers in het belang van hun cover kosten maken voor aankoop van bijvoorbeeld een versnapering. Incidentele verantwoording van die uitgaven die beschouwd moeten worden als operationele kosten, levert een ongewenste administratieve werklast op voor de medewerker en het korps. Daarnaast is het voor de medewerker van belang dat zijn cover behouden blijft. Voorgesteld wordt om achteraf, aan de hand van het [Besluit reis-, verblijf-, en verhuiskosten politie (Brvvp)](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) te bepalen voor welke vergoeding een medewerker in aanmerking komt. Achteraf wordt door de leidinggevende vastgesteld welke diensten een medewerker in een periode heeft gedraaid en aan de hand hiervan worden de vergoedingen betaald. Uitgangspunt daarbij is dat de dienst tenminste 4 uur heeft geduurd. Indien de leidinggevende achteraf verklaart dat de diensten als zodanig zijn gedraaid kunnen de vergoedingen zonder overlegging van bewijsstukken ([Art 13 lid 4 Brvvp](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md)) worden verstrekt. Daarnaast vergt de inzet van observatieteams veelvuldig dat buiten de plaats van aanstelling dienst wordt gedaan. Het werkterrein is voor alle teams geheel Nederland en incidenteel zelfs internationaal. Voorgesteld wordt indien de dienst niet op de eigen plek van aanstelling aanvangt, dat het eerste half uur van de reistijd eigen tijd is.  
+Binnen het operationele werk komt het veelvuldig voor dat medewerkers in het belang van hun cover kosten maken voor aankoop van bijvoorbeeld een versnapering. Incidentele verantwoording van die uitgaven die beschouwd moeten worden als operationele kosten, levert een ongewenste administratieve werklast op voor de medewerker en het korps. Daarnaast is het voor de medewerker van belang dat zijn cover behouden blijft. Voorgesteld wordt om achteraf, aan de hand van het [Besluit reis-, verblijf-, en verhuiskosten politie (Brvvp)](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) te bepalen voor welke vergoeding een medewerker in aanmerking komt. Achteraf wordt door de leidinggevende vastgesteld welke diensten een medewerker in een periode heeft gedraaid en aan de hand hiervan worden de vergoedingen betaald. Uitgangspunt daarbij is dat de dienst tenminste 4 uur heeft geduurd. Indien de leidinggevende achteraf verklaart dat de diensten als zodanig zijn gedraaid kunnen de vergoedingen zonder overlegging van bewijsstukken ([Art 13 lid 4 Brvvp](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md)) worden verstrekt. Daarnaast vergt de inzet van observatieteams veelvuldig dat buiten de plaats van aanstelling dienst wordt gedaan. Het werkterrein is voor alle teams geheel Nederland en incidenteel zelfs internationaal. Voorgesteld wordt indien de dienst niet op de eigen plek van aanstelling aanvangt, dat het eerste half uur van de reistijd eigen tijd is. 
 
 ####Consignatie (piket)
 
-Landelijk is met de bonden afgesproken de werkelijk gemaakte piketuren te vergoeden.  
+Landelijk is met de bonden afgesproken de werkelijk gemaakte piketuren te vergoeden. 
 
 ####Overig
 
-Uit de informatie van de verschillende korpsen blijkt dat sommige korpsen een (afkoop)vergoeding geven voor een aantal ongemakken zoals bijvoorbeeld bereikbaarheid, werving en behoud en (aanschaf) creditcard. Het verschil in vergoeding tussen de korpsen is groot en minder dan de helft van de korpsen kent een vergoeding hiervoor. Dit onderdeel wordt niet geharmoniseerd.  
+Uit de informatie van de verschillende korpsen blijkt dat sommige korpsen een (afkoop)vergoeding geven voor een aantal ongemakken zoals bijvoorbeeld bereikbaarheid, werving en behoud en (aanschaf) creditcard. Het verschil in vergoeding tussen de korpsen is groot en minder dan de helft van de korpsen kent een vergoeding hiervoor. Dit onderdeel wordt niet geharmoniseerd. 
 
 ####Ingangsdatum
 
-Dit voorstel gaat in per 1 november 2010 waarbij de lokale regelingen voor observanten komen te vervallen. De lokale regelingen die voor de medewerker in zijn totaliteit gunstiger is, zullen voor de medewerkers die op 1 november 2010 gebruik maken van een dergelijke lokale regeling, nog 12 maanden voortbestaan. Daarna vervalt de lokale regeling in zijn geheel. Het is niet de bedoeling dat een medewerker gedurende de overgangsperiode van 12 maanden een voorwaarde uit een lokale regeling combineert met een voorwaarde uit deze onderhavige regeling.  
+Dit voorstel gaat in per 1 november 2010 waarbij de lokale regelingen voor observanten komen te vervallen. De lokale regelingen die voor de medewerker in zijn totaliteit gunstiger is, zullen voor de medewerkers die op 1 november 2010 gebruik maken van een dergelijke lokale regeling, nog 12 maanden voortbestaan. Daarna vervalt de lokale regeling in zijn geheel. Het is niet de bedoeling dat een medewerker gedurende de overgangsperiode van 12 maanden een voorwaarde uit een lokale regeling combineert met een voorwaarde uit deze onderhavige regeling. 
 
 ####Opmerkingen
 
 1. Deze regeling dient nog definitief met de fiscus te worden afgestemd. Deze regeling wordt toegepast totdat (eventueel) een andere afspraak wordt gemaakt. Indien het overleg met de fiscus leidt tot wijzigingen van de regeling, zal hierover uiteraard worden gecommuniceerd.  
 
-2. Als de fiscus niet akkoord gaat, dan zullen de onbelaste vergoedingen voor verblijfkosten bruto worden toegekend. Indien een observant bonnen overlegt, zoals bedoeld in [art 13 lid 4 Brvvp](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md), en waarmee hij aantoont wat de werkelijke verblijfkosten zijn, worden de vergoedingen op basis van art 13 Brvvp onbelast betaald.    
+2. Als de fiscus niet akkoord gaat, dan zullen de onbelaste vergoedingen voor verblijfkosten bruto worden toegekend. Indien een observant bonnen overlegt, zoals bedoeld in [art 13 lid 4 Brvvp](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md), en waarmee hij aantoont wat de werkelijke verblijfkosten zijn, worden de vergoedingen op basis van art 13 Brvvp onbelast betaald.   
 
 ### Bijlage  6  
 
@@ -907,11 +907,11 @@ Doelstelling: Informeren over harmonisatieafspraken loopbaanbeleid Juridische gr
 
 ####Inleiding
 
-In het Akkoord Arbeidsvoorwaarden sector politie 2005–2007 is afgesproken om de aanvullende regionale arbeidsvoorwaarden van de politie landelijk te harmoniseren. De harmonisatie vindt plaats uit oogpunt van efficiency en om de uitwisseling van het politiepersoneel ten behoeve van de samenwerking tussen korpsen eenvoudiger te maken. Eén van de te harmoniseren onderwerpen is het loopbaanbeleid van Assistent A tot en met Senior in de GGP (voorheen omschreven als: basispolitiezorg). Er bestaan vele regionale beleidsnota’s waarin afspraken over loopbaanpaden zijn gemaakt. Deze documenten zijn geanalyseerd. Uit de analyse blijkt dat de beleidsnota’s op sommige punten uiteenlopen, maar er zijn ook diverse overeenkomsten aanwezig. De meeste korpsen hebben de vereiste van een bepaald aantal jaren werkervaring, een recente en tenminste voldoende beoordeling in de huidige functie en, in een aantal gevallen, een geografische stap of een taakaccent 1 als voorwaarden voor doorstroming gesteld. Deze drie voorwaarden komen dan ook terug in het geharmoniseerde loopbaanbeleid. Voorts is bij een aanstelling als Assistent A GGP en Medewerker GGP een afgeronde opleiding respectievelijk niveau 2 en 3 een vereiste. Voor de vervulling van de functie Senior GGP is een afgeronde aangewezen functiegerichte opleiding op niveau 4 vereist. Bevoegd gezag bepaalt aan de hand van relevante werkervaring, vakmanschap, blijkend uit een recente beoordeling boven de norm, met daarin opgenomen verwachte geschiktheid voor Senior GGP en eventueel door het korps te stellen geografische stap en/of werkterrein c.q. aandachtsgebied als aanvullende voorwaarde, of de medewerker geplaatst kan worden als Senior GGP. <sup> 1  Binnen de context van het Landelijk Functiegebouw Nederlandse Politie (LFNP) wordt taakaccent aangeduid als werkterrein c.q. aandachtsgebied.  </sup>  
+In het Akkoord Arbeidsvoorwaarden sector politie 2005–2007 is afgesproken om de aanvullende regionale arbeidsvoorwaarden van de politie landelijk te harmoniseren. De harmonisatie vindt plaats uit oogpunt van efficiency en om de uitwisseling van het politiepersoneel ten behoeve van de samenwerking tussen korpsen eenvoudiger te maken. Eén van de te harmoniseren onderwerpen is het loopbaanbeleid van Assistent A tot en met Senior in de GGP (voorheen omschreven als: basispolitiezorg). Er bestaan vele regionale beleidsnota’s waarin afspraken over loopbaanpaden zijn gemaakt. Deze documenten zijn geanalyseerd. Uit de analyse blijkt dat de beleidsnota’s op sommige punten uiteenlopen, maar er zijn ook diverse overeenkomsten aanwezig. De meeste korpsen hebben de vereiste van een bepaald aantal jaren werkervaring, een recente en tenminste voldoende beoordeling in de huidige functie en, in een aantal gevallen, een geografische stap of een taakaccent<sup> 1 Binnen de context van het Landelijk Functiegebouw Nederlandse Politie (LFNP) wordt taakaccent aangeduid als werkterrein c.q. aandachtsgebied. </sup>1 als voorwaarden voor doorstroming gesteld. Deze drie voorwaarden komen dan ook terug in het geharmoniseerde loopbaanbeleid. Voorts is bij een aanstelling als Assistent A GGP en Medewerker GGP een afgeronde opleiding respectievelijk niveau 2 en 3 een vereiste. Voor de vervulling van de functie Senior GGP is een afgeronde aangewezen functiegerichte opleiding op niveau 4 vereist. Bevoegd gezag bepaalt aan de hand van relevante werkervaring, vakmanschap, blijkend uit een recente beoordeling boven de norm, met daarin opgenomen verwachte geschiktheid voor Senior GGP en eventueel door het korps te stellen geografische stap en/of werkterrein c.q. aandachtsgebied als aanvullende voorwaarde, of de medewerker geplaatst kan worden als Senior GGP. 
 
 ####Doorstroommogelijkheden
 
-De doorstroom naar een volgend niveau of volgende functie kan op verschillende momenten in de loopbaan van een medewerker in de GGP plaatsvinden. Aan de doorstroom naar een hogere functie zijn altijd voorwaarden verbonden, te weten: <sup> 2  Het geen in deze circulaire ten aanzien van loopbaanbeleid is opgenomen doet geen afbreuk aan het recht van een politieambtenaar om te solliciteren naar een functie.  </sup> 
+De doorstroom naar een volgend niveau of volgende functie kan op verschillende momenten in de loopbaan van een medewerker in de GGP plaatsvinden. Aan de doorstroom naar een hogere functie zijn altijd voorwaarden<sup> 2 Het geen in deze circulaire ten aanzien van loopbaanbeleid is opgenomen doet geen afbreuk aan het recht van een politieambtenaar om te solliciteren naar een functie. </sup>verbonden, te weten: 
 
 1. werkervaring;  
 
@@ -941,25 +941,25 @@ De doorstroom naar een volgend niveau of volgende functie kan op verschillende m
 
 * relevante werkervaring als Generalist GGP;  
 
-* vakmanschap blijkend uit een recente beoordeling boven de norm met daarin opgenomen verwachte geschiktheid voor Senior GGP ; <sup> 3  Met dien verstande dat in het voortraject een assessment deel kan uitmaken van het persoonlijke ontwikkelingsplan (POP).  </sup>  
+* vakmanschap blijkend uit een recente beoordeling boven de norm met daarin opgenomen verwachte geschiktheid voor Senior GGP<sup> 3 Met dien verstande dat in het voortraject een assessment deel kan uitmaken van het persoonlijke ontwikkelingsplan (POP). </sup>;  
 
 * een eventueel door het korps te stellen geografische stap en/of werkterrein c.q. aandachtsgebied als aanvullende voorwaarde.   Zoals hiervoor benoemd, worden er ten aanzien van doorstroming voorwaarden gesteld. Hier volgt een toelichting op deze voorwaarden. 
 
 ####Aantal jaren werkervaring
 
-Het aantal jaren werkervaring is een landelijke afspraak en is op 3 jaar gesteld. Met uitzondering van de stap van Generalist GGP naar Senior GGP en de stap van assistent B GGP naar medewerker GGP, zoals hiervoor gemeld. Bij excellent presterende medewerkers kan het bevoegd gezag besluiten om het aantal werkervaringsjaren te verkorten, vooraf gegaan door een beoordeling die ruim boven de norm van ‘tenminste voldoende’ is. Bij een beoordeling die ‘onvoldoende’ is kan het bevoegd gezag beslissen het aantal werkervaringjaren te verlengen.  
+Het aantal jaren werkervaring is een landelijke afspraak en is op 3 jaar gesteld. Met uitzondering van de stap van Generalist GGP naar Senior GGP en de stap van assistent B GGP naar medewerker GGP, zoals hiervoor gemeld. Bij excellent presterende medewerkers kan het bevoegd gezag besluiten om het aantal werkervaringsjaren te verkorten, vooraf gegaan door een beoordeling die ruim boven de norm van ‘tenminste voldoende’ is. Bij een beoordeling die ‘onvoldoende’ is kan het bevoegd gezag beslissen het aantal werkervaringjaren te verlengen. 
 
 ####Beoordeling
 
-Voor de beoordeling geldt dat deze recent is vastgesteld in de huidige functie, met een eindscore die tenminste voldoende is. Dit geldt niet voor de stap van Generalist GGP naar Senior GGP. Hiervoor geldt een (recente) beoordeling boven de norm. De beoordelingsnormering is nu nog verschillend per korps. De korpsen gebruiken op dit moment nog uiteenlopende beoordelingsystemen en -normen. De verschillen zijn echter geen beletsel om te kunnen vaststellen of een medewerker tenminste voldoende functioneert. Elk huidig gebruikt beoordelingssysteem kan hierin voorzien. Gelijktijdig met de oplevering van het landelijk beoordelingssysteem zal één beoordelingsnormering worden vastgesteld.  
+Voor de beoordeling geldt dat deze recent is vastgesteld in de huidige functie, met een eindscore die tenminste voldoende is. Dit geldt niet voor de stap van Generalist GGP naar Senior GGP. Hiervoor geldt een (recente) beoordeling boven de norm. De beoordelingsnormering is nu nog verschillend per korps. De korpsen gebruiken op dit moment nog uiteenlopende beoordelingsystemen en -normen. De verschillen zijn echter geen beletsel om te kunnen vaststellen of een medewerker tenminste voldoende functioneert. Elk huidig gebruikt beoordelingssysteem kan hierin voorzien. Gelijktijdig met de oplevering van het landelijk beoordelingssysteem zal één beoordelingsnormering worden vastgesteld. 
 
 ####Geografische stap en/of werkterrein c.q. aandachtsgebied
 
-Er kan een geografische stap en/of een werkterrein c.q. aandachtsgebied als voorwaarde worden gesteld. Als het bevoegd gezag een geografische stap en/of werkterrein c.q. aandachtsgebied als aanvullende voorwaarde wil stellen, dan is deze inbegrepen bij de 3 jaren werkervaring. Bij medewerkers, waarvan het bevoegd gezag heeft besloten het aantal werkervaringjaren te verlengen als gevolg van een beoordeling die ‘onvoldoende’ is, kan deze 3 jarentermijn wel overschreden worden. Bij een geografische stap gaat de medewerker (tijdelijk) werkzaamheden verrichten in een ander geografisch gebied. In het geval van een werkterrein c.q. aandachtsgebied doet een medewerker in de organisatie andere relevante werkervaring op, bijvoorbeeld bij milieu, in de opsporing of in de arrestantenzorg. Deze stap is optioneel en kan per korps verschillen. Het bevoegd gezag bepaalt vooraf of deze voorwaarde van toepassing is.  
+Er kan een geografische stap en/of een werkterrein c.q. aandachtsgebied als voorwaarde worden gesteld. Als het bevoegd gezag een geografische stap en/of werkterrein c.q. aandachtsgebied als aanvullende voorwaarde wil stellen, dan is deze inbegrepen bij de 3 jaren werkervaring. Bij medewerkers, waarvan het bevoegd gezag heeft besloten het aantal werkervaringjaren te verlengen als gevolg van een beoordeling die ‘onvoldoende’ is, kan deze 3 jarentermijn wel overschreden worden. Bij een geografische stap gaat de medewerker (tijdelijk) werkzaamheden verrichten in een ander geografisch gebied. In het geval van een werkterrein c.q. aandachtsgebied doet een medewerker in de organisatie andere relevante werkervaring op, bijvoorbeeld bij milieu, in de opsporing of in de arrestantenzorg. Deze stap is optioneel en kan per korps verschillen. Het bevoegd gezag bepaalt vooraf of deze voorwaarde van toepassing is. 
 
 ####Stap Generalist GGP naar Senior GGP zonder met goed gevolg afgeronde functiegerichte aangewezen opleiding op niveau 4.
 
-Het bevoegd gezag bepaalt in een dergelijke situatie aan de hand van de gestelde eisen en voorwaarden of een medewerker over de kwaliteiten beschikt om uiteindelijk de functie als Senior GGP te gaan bekleden. In het voortraject kan een assessment deel uitmaken van het persoonlijke ontwikkelplan (POP) waarin wordt aangegeven dat de medewerker de stap van Generalist GGP naar Senior GGP kan gaan maken. Indien de medewerker nog geen met goed gevolg afgeronde functiegerichte aangewezen opleiding op niveau 4 heeft behaald, kan deze desondanks doorstromen naar de functie van Senior GGP. In dat geval zal er nog geen sprake zijn van volledig functievervulling. De medewerker wordt weliswaar geplaatst op de functie van Senior GGP, maar zonder toekenning van salarisschaal 8 en de bijgehorende rang (brigadier), dit in afwijking van het [Besluit rangen politie](../../../../../../../../../../AMvB/besluit/rangen/politie/BWBR0006981/README.md). In deze situatie wordt gekozen voor de toepassing van [artikel 6 lid 3 Bbp](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) en is er sprake van een aanloopschaal. De medewerker wordt geacht binnen twee jaar na plaatsing de aangewezen functiegerichte opleiding niveau 4 af te ronden. Wanneer de aangewezen functiegerichte opleiding niveau 4 tijdig met goed gevolg is afgerond wordt de medeweker met terugwerkende kracht tot de datum van plaatsing bevorderd naar de salarisschaal 8 onder gelijktijdige toekenning van de bijgehorende rang. Indien de medewerker de opleiding op niveau 4 niet binnen twee jaar na plaatsing op de functie met goed gevolg behaalt, kàn het bevoegd gezag de medewerker terugplaatsen als generalist GGP (schaal 7) binnen het korps, tenzij er naar het oordeel van het bevoegd gezag bijzondere omstandigheden zijn (gelegen aan persoonlijke omstandigheden van de medewerker of in redenen van dienstbelang) die verlenging van de opleidingstermijn rechtvaardigen.  
+Het bevoegd gezag bepaalt in een dergelijke situatie aan de hand van de gestelde eisen en voorwaarden of een medewerker over de kwaliteiten beschikt om uiteindelijk de functie als Senior GGP te gaan bekleden. In het voortraject kan een assessment deel uitmaken van het persoonlijke ontwikkelplan (POP) waarin wordt aangegeven dat de medewerker de stap van Generalist GGP naar Senior GGP kan gaan maken. Indien de medewerker nog geen met goed gevolg afgeronde functiegerichte aangewezen opleiding op niveau 4 heeft behaald, kan deze desondanks doorstromen naar de functie van Senior GGP. In dat geval zal er nog geen sprake zijn van volledig functievervulling. De medewerker wordt weliswaar geplaatst op de functie van Senior GGP, maar zonder toekenning van salarisschaal 8 en de bijgehorende rang (brigadier), dit in afwijking van het [Besluit rangen politie](../../../../../../../../../../AMvB/besluit/rangen/politie/BWBR0006981/README.md). In deze situatie wordt gekozen voor de toepassing van [artikel 6 lid 3 Bbp](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) en is er sprake van een aanloopschaal. De medewerker wordt geacht binnen twee jaar na plaatsing de aangewezen functiegerichte opleiding niveau 4 af te ronden. Wanneer de aangewezen functiegerichte opleiding niveau 4 tijdig met goed gevolg is afgerond wordt de medeweker met terugwerkende kracht tot de datum van plaatsing bevorderd naar de salarisschaal 8 onder gelijktijdige toekenning van de bijgehorende rang. Indien de medewerker de opleiding op niveau 4 niet binnen twee jaar na plaatsing op de functie met goed gevolg behaalt, kàn het bevoegd gezag de medewerker terugplaatsen als generalist GGP (schaal 7) binnen het korps, tenzij er naar het oordeel van het bevoegd gezag bijzondere omstandigheden zijn (gelegen aan persoonlijke omstandigheden van de medewerker of in redenen van dienstbelang) die verlenging van de opleidingstermijn rechtvaardigen. 
 
 ####Aanvullende afspraken
 
@@ -973,20 +973,20 @@ Tot slot zijn er aanvullende afspraken op de bovenstaande harmonisatieafspraken 
 
 4. Bij doorstroom van de politieopleiding op niveau 2 naar de politieopleiding op niveau 3 kan, op verzoek van het bevoegd gezag, door het Centrum voor Competentiemeting en Monitoring (CCM) een geschiktheidsonderzoek worden uitgevoerd. Dit onderzoek schept inzicht of de medewerker aan de gestelde normen voor het geambieerde opleidingsniveau kan voldoen. Bij toelating tot de opleiding voor niveau 3 wordt in ieder geval de geschiktheid ten aanzien van het dragen van een vuurwapen getoetst.  
 
-5. 2 jaar na inwerkingtreding van deze circulaire zal er een evaluatie van dit loopbaanbeleid plaatsvinden. Centraal in de evaluatie staat de wijze waarop het loopbaanbeleid plaatsvinden. Centraal in de evaluatie staat de wijze waarop het loopbaanbeleid voor deze doelgroep heeft gefunctioneerd en vindt er een analyse plaats van in- en doorstroomcijfers.   Ik verzoek u belanghebbende van de inhoud van deze circulaire op de hoogte te brengen en uitvoering te geven aan de inhoud daarvan.  
-De Minister van Veiligheid en Justitie, voor deze: de directeur Politie en Veiligheidsregio’s, A. F. Gaastra  
+5. 2 jaar na inwerkingtreding van deze circulaire zal er een evaluatie van dit loopbaanbeleid plaatsvinden. Centraal in de evaluatie staat de wijze waarop het loopbaanbeleid plaatsvinden. Centraal in de evaluatie staat de wijze waarop het loopbaanbeleid voor deze doelgroep heeft gefunctioneerd en vindt er een analyse plaats van in- en doorstroomcijfers.   Ik verzoek u belanghebbende van de inhoud van deze circulaire op de hoogte te brengen en uitvoering te geven aan de inhoud daarvan. 
+De Minister van Veiligheid en Justitie,voor deze:de directeur Politie en Veiligheidsregio’s,A. F. Gaastra
 
 ####Bijlage bij circulaire loopbaanbeleid
 
-![248140](http://wetten.overheid.nl/Illustration/248140)
-![248140](http://wetten.overheid.nl/Illustration/248140)
+![248138](http://wetten.overheid.nl/Illustration/248138)
+![248139](http://wetten.overheid.nl/Illustration/248139)
 ![248140](http://wetten.overheid.nl/Illustration/248140)
 
 ### Bijlage  7  
 
 ####Wijziging Regeling studiekostenfaciliteiten
 
-In [artikel 7, eerste lid, onderdeel a, van de Regeling studiefaciliteiten politie](../../../../../../../../../../ministeriele-regeling/regeling/studiefaciliteiten/politie/BWBR0025814/README.md) wordt ‘de reis- en verblijfkosten’ vervangen door: de reiskosten.  *Inwerkingtreding:*  Zo spoedig mogelijk, mee met de eerste de beste ministeriële regeling die er te vinden is. Kan niet met terugwerkende kracht omdat het een verslechtering is.  *Toelichting:*  Tijdens de afspraken van de eerste tranche van de harmonisatie van de arbeidsvoorwaarden in 2008–2009 van de politie is de [Regeling studiefaciliteiten politie](../../../../../../../../../../ministeriele-regeling/regeling/studiefaciliteiten/politie/BWBR0025814/README.md) vastgesteld (Stcrt. 2009, 85). Met de vakorganisaties is overeenstemming bereikt over de vergoeding van reiskosten bij het volgen van een niet functie gerichte opleiding. In de tekst van de regeling is vermeld dat zowel reis- als verblijfkosten worden vergoed. Dit is niet in overeenstemming met de gemaakte afspraken met de vakorganisaties en wordt bij deze rechtgezet.  
+In [artikel 7, eerste lid, onderdeel a, van de Regeling studiefaciliteiten politie](../../../../../../../../../../ministeriele-regeling/regeling/studiefaciliteiten/politie/BWBR0025814/README.md) wordt ‘de reis- en verblijfkosten’ vervangen door: de reiskosten.  *Inwerkingtreding:*  Zo spoedig mogelijk, mee met de eerste de beste ministeriële regeling die er te vinden is. Kan niet met terugwerkende kracht omdat het een verslechtering is.  *Toelichting:*  Tijdens de afspraken van de eerste tranche van de harmonisatie van de arbeidsvoorwaarden in 2008–2009 van de politie is de [Regeling studiefaciliteiten politie](../../../../../../../../../../ministeriele-regeling/regeling/studiefaciliteiten/politie/BWBR0025814/README.md) vastgesteld (Stcrt. 2009, 85). Met de vakorganisaties is overeenstemming bereikt over de vergoeding van reiskosten bij het volgen van een niet functie gerichte opleiding. In de tekst van de regeling is vermeld dat zowel reis- als verblijfkosten worden vergoed. Dit is niet in overeenstemming met de gemaakte afspraken met de vakorganisaties en wordt bij deze rechtgezet. 
 
 ### Bijlage  8  
 
@@ -1012,7 +1012,7 @@ b. er is sprake van een functie waaraan risico's en ongemakken zijn verbonden, w
 
 – er is sprake van psychische druk door het in luttele seconden moeten nemen van beslissingen in onoverzichtelijke of complexe situaties.    
 
-c. de ambtenaren in de functie werken volgens een in overwegende mate volcontinue dienstrooster of een dienstrooster met elke 16 weken ten minste 16 maal een consignatiedienst tussen 0.00 uur–06.00 uur.      
+c. de ambtenaren in de functie werken volgens een in overwegende mate volcontinue dienstrooster of een dienstrooster met elke 16 weken ten minste 16 maal een consignatiedienst tussen 0.00 uur–06.00 uur.     
 
 ####Artikel II
 
@@ -1020,17 +1020,17 @@ c. de ambtenaren in de functie werken volgens een in overwegende mate volcontinu
 
 2. Het bevoegd gezag legt de voorgenomen aanwijzingen of intrekkingen daarvan, bedoeld in het eerste lid, alvorens te beslissen voor aan de commissie, bedoeld in [artikel 2, eerste lid, van het Besluit overleg en medezeggenschap politie](../../../../../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md). Genoemde commissie beslist binnen vier weken of overleg over de voorgenomen beslissing nodig is. Indien de commissie van oordeel is dat overleg niet nodig is, dan wel binnen vier weken niet heeft laten weten dat overleg nodig is, stelt het bevoegd gezag de voorgenomen beslissing vast.  
 
-3. Van de functies die op basis van de beoordeling, bedoeld in het eerste en tweede lid, niet langer voor aanwijzing in aanmerking komen, vervalt de aanwijzing met ingang van de eerste dag waarop de ambtenaar die de functie vervult, niet langer in de functie is aangesteld.    
+3. Van de functies die op basis van de beoordeling, bedoeld in het eerste en tweede lid, niet langer voor aanwijzing in aanmerking komen, vervalt de aanwijzing met ingang van de eerste dag waarop de ambtenaar die de functie vervult, niet langer in de functie is aangesteld.   
 
 ####Artikel III
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. Deze regeling zal met toelichting in de Staatscourant worden geplaatst. De Minister van Veiligheid en Justitie, I.W. Opstelten.  
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. Deze regeling zal met toelichting in de Staatscourant worden geplaatst. De Minister van Veiligheid en Justitie, I.W. Opstelten. 
 
 ####Toelichting
 
 ####1. Algemeen
 
-[Artikel 10, derde lid, van het Besluit algemene rechtspositie politie](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) (Barp) geeft het bevoegd gezag de opdracht om administratief-technische functies aan te wijzen waaraan het in artikel 10, derde lid, van het Barp genoemde voordeel is verbonden. Het gaat daarbij om functies waarbij sprake is van bezwarende werkomstandigheden. De minister van BZK stelt daartoe bij ministeriële regeling criteria vast. In het kader van het project harmonisatie arbeidsvoorwaarden politie (HAP) is geconstateerd dat -hoewel er een landelijke regeling voor was- de aanwijzing van administratief-technische functies als bedoeld in [artikel 10, derde lid, van het Barp](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) tussen de korpsen zeer verschillend uitwerkte. Daarom is besloten de criteria, genoemd in [artikel 1, eerste lid, van de regeling](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) waar nodig te verduidelijken.  
+[Artikel 10, derde lid, van het Besluit algemene rechtspositie politie](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) (Barp) geeft het bevoegd gezag de opdracht om administratief-technische functies aan te wijzen waaraan het in artikel 10, derde lid, van het Barp genoemde voordeel is verbonden. Het gaat daarbij om functies waarbij sprake is van bezwarende werkomstandigheden. De minister van BZK stelt daartoe bij ministeriële regeling criteria vast. In het kader van het project harmonisatie arbeidsvoorwaarden politie (HAP) is geconstateerd dat -hoewel er een landelijke regeling voor was- de aanwijzing van administratief-technische functies als bedoeld in [artikel 10, derde lid, van het Barp](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) tussen de korpsen zeer verschillend uitwerkte. Daarom is besloten de criteria, genoemd in [artikel 1, eerste lid, van de regeling](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) waar nodig te verduidelijken. 
 
 ####2. Artikelgewijs
 
@@ -1042,15 +1042,15 @@ In de eerste plaats geldt op grond van artikel 1, eerste lid, onderdeel a, het c
 
 – technisch rechercheurs  
 
-– medewerkers van de meldkamer/112 centrale   Deze opsomming is overigens niet limitatief. In enkele gevallen zijn ook parketwachters/parketpolitie en medewerkers van de publieksbalie/ receptie aangewezen, maar dat is niet de grote lijn. De vraag of een functie voor aanwijzing in aanmerking komt, is mede afhankelijk van de bedrijfsvoering. Een arrestantenverzorger die alleen dagdiensten draait omdat de wachtcommandant ‘s nachts de zorg overneemt, komt bij voorbeeld niet in aanmerking voor aanwijzing. Het criterium dat ‘de aard van de aan de functie verbonden werkzaamheden vergelijkbaar is met die van een ambtenaar, aangesteld voor de uitvoering van de politietaak’ is geschrapt, aangezien dit criterium voldoende wordt afgedekt door de overige criteria. Ter illustratie: een nachtdienstdoende ICT-er kan wellicht voldoen aan de aanwijzingseisen ten aanzien van de inschaling en het dienstrooster maar zal niet worden aangewezen omdat hij in het geheel niet te maken heeft met de omschreven risico’s en ongemakken.  
+– medewerkers van de meldkamer/112 centrale   Deze opsomming is overigens niet limitatief. In enkele gevallen zijn ook parketwachters/parketpolitie en medewerkers van de publieksbalie/ receptie aangewezen, maar dat is niet de grote lijn. De vraag of een functie voor aanwijzing in aanmerking komt, is mede afhankelijk van de bedrijfsvoering. Een arrestantenverzorger die alleen dagdiensten draait omdat de wachtcommandant ‘s nachts de zorg overneemt, komt bij voorbeeld niet in aanmerking voor aanwijzing. Het criterium dat ‘de aard van de aan de functie verbonden werkzaamheden vergelijkbaar is met die van een ambtenaar, aangesteld voor de uitvoering van de politietaak’ is geschrapt, aangezien dit criterium voldoende wordt afgedekt door de overige criteria. Ter illustratie: een nachtdienstdoende ICT-er kan wellicht voldoen aan de aanwijzingseisen ten aanzien van de inschaling en het dienstrooster maar zal niet worden aangewezen omdat hij in het geheel niet te maken heeft met de omschreven risico’s en ongemakken. 
 
 ####Artikel II
 
-Aan het bevoegd gezag wordt de instructie gegeven binnen 6 maanden na inwerkingtreding van de gewijzigde regeling van alle reeds aangewezen functies te beoordelen of de aanwijzing in stand kan blijven volgens de gewijzigde criteria. Indien een functie naar aanleiding van die beoordeling niet langer voor aanwijzing in aanmerking komt, vervalt de aanwijzing, en daarmee het aan de aanwijzing verbonden voordeel, met ingang van de eerste dag waarop de ambtenaar waarop de betrokken ambtenaar de functie niet langer vervult. Daarmee wordt geen afbreuk gedaan aan bestaande rechten en wordt tevens voorkomen dat voor ambtenaren die de niet langer voor aanwijzing in aanmerking komende functie gaan vervullen, ook aanspraak krijgen op het genoemde voordeel. De beoordeling welke functies op basis van de gewijzigde criteria voor aanwijzing in aanmerking komen, dient het bevoegd gezag te doen binnen zes maanden na inwerkingtreding van de wijziging van de regeling. De aanwijzing gaat in op de datum waarop het aanwijzingsbesluit wordt genomen. Het bevoegd gezag beslist over de hier bedoelde beoordelingen pas nadat deze is voorgelegd aan de commissie, bedoeld in [artikel 2, eerste lid, van het Besluit overleg en medezeggenschap politie](../../../../../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md) (CGOP). Deze commissie beslist binnen vier weken of hierover nader overleg nodig is. Indien de commissie binnen vier weken niet heeft laten weten dat overleg nodig is, stelt het bevoegd gezag de voorgenomen beslissing vast. Besluiten over toepassing van de regeling op functies ontstaan na deze periode van 6 maanden worden door het bevoegd gezag van betreffend korps zelfstandig vastgesteld en dienen derhalve niet meer te worden voorgelegd aan het CGOP. Ten tijde van de inwerkingtreding van het Landelijk Functiehuis Nederlandse Politie (LFNP) zal deze Regeling worden heroverwogen en zo nodig worden aangepast.    
+Aan het bevoegd gezag wordt de instructie gegeven binnen 6 maanden na inwerkingtreding van de gewijzigde regeling van alle reeds aangewezen functies te beoordelen of de aanwijzing in stand kan blijven volgens de gewijzigde criteria. Indien een functie naar aanleiding van die beoordeling niet langer voor aanwijzing in aanmerking komt, vervalt de aanwijzing, en daarmee het aan de aanwijzing verbonden voordeel, met ingang van de eerste dag waarop de ambtenaar waarop de betrokken ambtenaar de functie niet langer vervult. Daarmee wordt geen afbreuk gedaan aan bestaande rechten en wordt tevens voorkomen dat voor ambtenaren die de niet langer voor aanwijzing in aanmerking komende functie gaan vervullen, ook aanspraak krijgen op het genoemde voordeel. De beoordeling welke functies op basis van de gewijzigde criteria voor aanwijzing in aanmerking komen, dient het bevoegd gezag te doen binnen zes maanden na inwerkingtreding van de wijziging van de regeling. De aanwijzing gaat in op de datum waarop het aanwijzingsbesluit wordt genomen. Het bevoegd gezag beslist over de hier bedoelde beoordelingen pas nadat deze is voorgelegd aan de commissie, bedoeld in [artikel 2, eerste lid, van het Besluit overleg en medezeggenschap politie](../../../../../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md) (CGOP). Deze commissie beslist binnen vier weken of hierover nader overleg nodig is. Indien de commissie binnen vier weken niet heeft laten weten dat overleg nodig is, stelt het bevoegd gezag de voorgenomen beslissing vast. Besluiten over toepassing van de regeling op functies ontstaan na deze periode van 6 maanden worden door het bevoegd gezag van betreffend korps zelfstandig vastgesteld en dienen derhalve niet meer te worden voorgelegd aan het CGOP. Ten tijde van de inwerkingtreding van het Landelijk Functiehuis Nederlandse Politie (LFNP) zal deze Regeling worden heroverwogen en zo nodig worden aangepast.   
 
 De 
-Minister van Veiligheid en Justitie,
-I.W.Opstelten  
+Minister van Veiligheid en Justitie, 
+I.W. Opstelten    
 
 ### Bijlage  9  
 
@@ -1064,15 +1064,15 @@ Het [Besluit algemene rechtspositie politie](../../../../../../../../../../AMvB/
 
 1. De verstrekking van uniformkleding aan de aspirant, de ambtenaar, aangesteld voor de uitvoering van de politietaak, en de ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, die door het bevoegd gezag is aangewezen, geschiedt door de zorg van het bevoegd gezag. De verstrekking van uniformkleding geschiedt kosteloos. Onze Minister kan ter zake van de verstrekking van uniformkleding nadere regels vaststellen, alsmede ter zake van het onderhoud van uniformkleding regels vaststellen.  
 
-2. De verstrekking van dienstkleding aan de aspirant, de ambtenaar, aangesteld voor de uitvoering van de politietaak, de bijzondere ambtenaar van politie en de ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, die door het bevoegd gezag is aangewezen, geschiedt door de zorg van het bevoegd gezag. De verstrekking van dienstkleding geschiedt kosteloos. Onze Minister kan ter zake van de verstrekking van dienstkleding nadere regels vaststellen, alsmede ter zake van het onderhoud van dienstkleding regels vaststellen.    
+2. De verstrekking van dienstkleding aan de aspirant, de ambtenaar, aangesteld voor de uitvoering van de politietaak, de bijzondere ambtenaar van politie en de ambtenaar, aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, die door het bevoegd gezag is aangewezen, geschiedt door de zorg van het bevoegd gezag. De verstrekking van dienstkleding geschiedt kosteloos. Onze Minister kan ter zake van de verstrekking van dienstkleding nadere regels vaststellen, alsmede ter zake van het onderhoud van dienstkleding regels vaststellen.   
 
 ####Artikel II
 
-Het [Besluit bezoldiging politie](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) wordt als volgt gewijzigd: 
+Het [Besluit bezoldiging politie](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) wordt als volgt gewijzigd: 
 
 ### A  
 
-[Artikel 9](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) wordt als volgt gewijzigd: 
+[Artikel 9](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) wordt als volgt gewijzigd: 
 
 1. In het tweede lid wordt ‘verricht’ vervangen door: vervult.  
 
@@ -1082,15 +1082,15 @@ Het [Besluit bezoldiging politie](../../../../../../../../../../AMvB/besluit/rei
 
 7. Voor de ambtenaar die na het succesvol afronden van de opleiding is aangesteld met toepassing van artikel 3, zevende lid, vindt de eerstvolgende salarisverhoging in afwijking van het vierde lid plaats een jaar na de laatste salarisverhoging, bedoeld in artikel 3, vijfde of zesde lid.  
 
-8. In afwijking van het zevende lid vindt voor de ambtenaar die tijdens de opleiding was ingeschaald op grond van artikel 3, derde lid, onderdeel b, de eerstvolgende salarisverhoging plaats in de eerstvolgende kalendermaand na het succesvol afronden van de opleiding waarin een geheel aantal jaren is verstreken sinds de aspirant het maximum salarisbedrag op grond van artikel 3, zesde lid, onderdeel b, heeft bereikt.    
+8. In afwijking van het zevende lid vindt voor de ambtenaar die tijdens de opleiding was ingeschaald op grond van artikel 3, derde lid, onderdeel b, de eerstvolgende salarisverhoging plaats in de eerstvolgende kalendermaand na het succesvol afronden van de opleiding waarin een geheel aantal jaren is verstreken sinds de aspirant het maximum salarisbedrag op grond van artikel 3, zesde lid, onderdeel b, heeft bereikt.   
 
 ### B  
 
-In [artikel 29, eerste lid](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md), vervalt: ter handhaving van de openbare orde.  
+In [artikel 29, eerste lid](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md), vervalt: ter handhaving van de openbare orde. 
 
 ### C  
 
-In [artikel 29, vierde lid, aanhef](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md), vervalt: in afwijking van zijn reguliere werkzaamheden.  
+In [artikel 29, vierde lid, aanhef](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md), vervalt: in afwijking van zijn reguliere werkzaamheden. 
 
 ### D  
 
@@ -1100,29 +1100,29 @@ In [artikel 29, vierde lid, aanhef](../../../../../../../../../../AMvB/besluit/b
 
 2. Onderdeel b komt te luiden: 
 
-b. de betrokken ambtenaar door het bevoegd gezag wordt opgeroepen voor een inzet als bedoeld in onderdeel a, waarbij voor die ambtenaar achteraf wordt vastgesteld dat gevaarzetting heeft gegolden ter handhaving van de openbare orde.      
+b. de betrokken ambtenaar door het bevoegd gezag wordt opgeroepen voor een inzet als bedoeld in onderdeel a, waarbij voor die ambtenaar achteraf wordt vastgesteld dat gevaarzetting heeft gegolden ter handhaving van de openbare orde.     
 
 ####Artikel III
 
-Het [Besluit rechtspositie vrijwillige politie](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) wordt als volgt gewijzigd: 
+Het [Besluit rechtspositie vrijwillige politie](../../../../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md) wordt als volgt gewijzigd: 
 
 ### A  
 
-[Artikel 15, eerste en tweede lid](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md), komen te luiden: 
+[Artikel 15, eerste en tweede lid](../../../../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md), komen te luiden: 
 
 1. De verstrekking van uniformkleding aan de vrijwillige ambtenaar van politie geschiedt door de zorg van het bevoegd gezag. De verstrekking van uniformkleding geschiedt kosteloos. Onze Minister kan ter zake van de verstrekking van uniformkleding nadere regels vaststellen, alsmede ter zake van het onderhoud van uniformkleding regels vaststellen.  
 
-2. De verstrekking van dienstkleding aan de vrijwillige ambtenaar van politie geschiedt door de zorg van het bevoegd gezag. De verstrekking van dienstkleding geschiedt kosteloos. Onze Minister kan ter zake van de verstrekking van dienstkleding nadere regels vaststellen, alsmede ter zake van het onderhoud van dienstkleding regels vaststellen.    
+2. De verstrekking van dienstkleding aan de vrijwillige ambtenaar van politie geschiedt door de zorg van het bevoegd gezag. De verstrekking van dienstkleding geschiedt kosteloos. Onze Minister kan ter zake van de verstrekking van dienstkleding nadere regels vaststellen, alsmede ter zake van het onderhoud van dienstkleding regels vaststellen.   
 
 ### B  
 
-[Artikel 44](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) komt te luiden: 
+[Artikel 44](../../../../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md) komt te luiden: 
 
 ####Artikel 44
 
 1. De [hoofdstukken II](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) en [III van het Besluit reis-, verblijf- en verhuiskosten politie](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) zijn van overeenkomstige toepassing op vrijwillige ambtenaren van politie.  
 
-2. Het bevoegd gezag kan besluiten om in individuele gevallen af te wijken van het gestelde in de [hoofdstukken II](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) en [III van het Besluit reis-, verblijf- en verhuiskosten politie](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md), indien de afwijking strekt tot het vermijden van onbillijkheden van overwegende aard welke uit de toepassing van die regels zouden voortkomen.    
+2. Het bevoegd gezag kan besluiten om in individuele gevallen af te wijken van het gestelde in de [hoofdstukken II](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) en [III van het Besluit reis-, verblijf- en verhuiskosten politie](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md), indien de afwijking strekt tot het vermijden van onbillijkheden van overwegende aard welke uit de toepassing van die regels zouden voortkomen.   
 
 ####Artikel IV
 
@@ -1144,11 +1144,11 @@ b. het bevoegd gezag geen voorziening voor verblijf in de omgeving van de plaats
 
 3. Indien de aspirant een vervoersbewijs wenst op basis van eerste klasse of indien de aspirant een vervoersbewijs wenst welke ruimere mogelijkheden biedt dan bedoeld in het tweede lid, komen de meerkosten hiervan voor rekening van de aspirant.  
 
-4. De vergoedingen, bedoeld in het eerste en tweede lid, worden verstrekt op basis van overgelegde bewijsstukken.    
+4. De vergoedingen, bedoeld in het eerste en tweede lid, worden verstrekt op basis van overgelegde bewijsstukken.   
 
 ### B  
 
-In [artikel 38, eerste lid](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md), wordt ‘genoemd in de artikelen 13, tweede lid, en 14, eerste lid,’ vervangen door: genoemd in de artikelen 13, tweede lid, 14, eerste lid, en 14a, eerste lid,.  
+In [artikel 38, eerste lid](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md), wordt ‘genoemd in de artikelen 13, tweede lid, en 14, eerste lid,’ vervangen door: genoemd in de artikelen 13, tweede lid, 14, eerste lid, en 14a, eerste lid,. 
 
 ####Artikel V
 
@@ -1156,43 +1156,43 @@ In [artikel 38, eerste lid](../../../../../../../../../../AMvB/besluit/reis-/ver
 
 2. Artikel II, onderdeel C, werkt terug tot en met 1 oktober 2008.  
 
-3. Artikel I, onderdeel A, werkt terug tot en met 1 januari 2009.   Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst. De Minister van Veiligheid en Justitie, I.W. Opstelten.  
+3. Artikel I, onderdeel A, werkt terug tot en met 1 januari 2009.   Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst. De Minister van Veiligheid en Justitie, I.W. Opstelten. 
 
 ####Nota van toelichting
 
 ####Algemeen
 
-In het Akkoord Arbeidsvoorwaarden Politie 2005–2007 (hierna: Akkoord) is afgesproken om arbeidsvoorwaarden in het vervolg alleen nog centraal vast te stellen en regionale verschillen af te bouwen. Doelstelling is het verbeteren van efficiency en het eenvoudiger maken van de uitwisseling van het politiepersoneel ten behoeve van de samenwerking tussen korpsen. Om regionale verschillen af te bouwen en regionale regelingen in te trekken, is het project Harmonisatie arbeidsvoorwaarden politie gestart. In dit project worden bestaande regionale arbeidsvoorwaardelijke regelingen in kaart gebracht, geanalyseerd en geharmoniseerd tot nieuwe landelijke arbeidsvoorwaarden. Hierbij is gezocht naar de grootste gemene deler waarbij tevens rekening is gehouden met uitvoerbaarheid, beperking van de administratieve lasten en actuele behoeften en ontwikkelingen. Met ingang van 1 maart 2007 zijn de Regionaal Georganiseerde Overleggen (RGO’s) formeel opgeschort. In de circulaire 2006-385284 van 27 november 2006 is aangegeven dat het niet mogelijk is dat er na 31 december 2006 nog arbeidsvoorwaardelijke of rechtspositionele regelingen tot stand komen in de korpsen. Beoogd is dergelijke regelingen met de Ondernemingsraad niet af te spreken, omdat dit in strijd is met de afspraken van het Arbeidsvoorwaardenakkoord politie 2005-2007. Daarmee zou immers de afgesproken landelijke uniformering van de arbeidsvoorwaarden deels weer teniet worden gedaan. Vooralsnog zijn bijna tachtig regelingen benoemd die in aanmerking komen voor harmonisatie. Met de politievakorganisaties is afgesproken dit totaalpakket op te delen. Op 20 maart 2008 is met de politievakorganisaties overeenstemming bereikt over de eerste tranche van te harmoniseren regelingen en op 23 april 2008 is tevens overeenstemming bereikt over de onderliggende regelgeving. De afspraken over de eerste tranche zijn vastgelegd in de circulaire 2008-192603 van 24 april 2008 en hebben geleid tot het Besluit van 15 september 2008 tot wijziging van het [Besluit algemene rechtspositie politie](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), het [Besluit bezoldiging politie](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) en het [Besluit rechtspositie vrijwillige politie](../../../../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md) in verband met de harmonisatie van de arbeidsvoorwaarden (Stb. 384), hierna: Besluit van 15 september 2008. Vanaf medio 2009 is met de politievakorganisaties overeenstemming bereikt over een aantal van de te harmoniseren regelingen van de tweede tranche. Overeenstemming is onder meer bereikt over het onderhoud van bepaalde kledingstukken door zorg van het bevoegd gezag, de periodiekdatum, de toekenning ME-vergoeding, de verstrekking en onderhoud van uniformkleding van vrijwillige politie, de van toepassingverklaring van het [Besluit reis-, verblijf-, en verhuiskosten politie](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) op de vrijwillige ambtenaren van politie en de vergoedingen voor aspiranten voor huisvesting en gezinsbezoek bij lange reisafstand tussen woning en opleiding. Het onderhavige besluit strekt er toe de diverse rechtspositionele besluiten aan te passen aan bovengenoemde afspraken. Wat betreft de financiële middelen wordt verwezen naar de circulaire van 24 april 2008 evenals naar de nadere afspraken die zijn vastgelegd in de circulaire van 27 november 2006. Met betrekking tot de bestemming van de financiële middelen die gemoeid waren met de regionale regelingen geldt dat in het Akkoord is afgesproken dat de arbeidsvoorwaardenruimte die in het verleden vanuit het landelijk overleg is toegewezen aan het regionale overleg beschikbaar blijft voor het domein van personeelsbeleid en arbeidsvoorwaarden. Tot deze middelen wordt ook het beslag van de afspraken rond de harmonisatie in 1994 vanwege de regiovorming gerekend. Over dit besluit is op 21 oktober 2010 overeenstemming met de politievakorganisaties bereikt.  
+In het Akkoord Arbeidsvoorwaarden Politie 2005–2007 (hierna: Akkoord) is afgesproken om arbeidsvoorwaarden in het vervolg alleen nog centraal vast te stellen en regionale verschillen af te bouwen. Doelstelling is het verbeteren van efficiency en het eenvoudiger maken van de uitwisseling van het politiepersoneel ten behoeve van de samenwerking tussen korpsen. Om regionale verschillen af te bouwen en regionale regelingen in te trekken, is het project Harmonisatie arbeidsvoorwaarden politie gestart. In dit project worden bestaande regionale arbeidsvoorwaardelijke regelingen in kaart gebracht, geanalyseerd en geharmoniseerd tot nieuwe landelijke arbeidsvoorwaarden. Hierbij is gezocht naar de grootste gemene deler waarbij tevens rekening is gehouden met uitvoerbaarheid, beperking van de administratieve lasten en actuele behoeften en ontwikkelingen. Met ingang van 1 maart 2007 zijn de Regionaal Georganiseerde Overleggen (RGO’s) formeel opgeschort. In de circulaire 2006-385284 van 27 november 2006 is aangegeven dat het niet mogelijk is dat er na 31 december 2006 nog arbeidsvoorwaardelijke of rechtspositionele regelingen tot stand komen in de korpsen. Beoogd is dergelijke regelingen met de Ondernemingsraad niet af te spreken, omdat dit in strijd is met de afspraken van het Arbeidsvoorwaardenakkoord politie 2005-2007. Daarmee zou immers de afgesproken landelijke uniformering van de arbeidsvoorwaarden deels weer teniet worden gedaan. Vooralsnog zijn bijna tachtig regelingen benoemd die in aanmerking komen voor harmonisatie. Met de politievakorganisaties is afgesproken dit totaalpakket op te delen. Op 20 maart 2008 is met de politievakorganisaties overeenstemming bereikt over de eerste tranche van te harmoniseren regelingen en op 23 april 2008 is tevens overeenstemming bereikt over de onderliggende regelgeving. De afspraken over de eerste tranche zijn vastgelegd in de circulaire 2008-192603 van 24 april 2008 en hebben geleid tot het Besluit van 15 september 2008 tot wijziging van het [Besluit algemene rechtspositie politie](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), het [Besluit bezoldiging politie](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) en het [Besluit rechtspositie vrijwillige politie](../../../../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md) in verband met de harmonisatie van de arbeidsvoorwaarden (Stb. 384), hierna: Besluit van 15 september 2008. Vanaf medio 2009 is met de politievakorganisaties overeenstemming bereikt over een aantal van de te harmoniseren regelingen van de tweede tranche. Overeenstemming is onder meer bereikt over het onderhoud van bepaalde kledingstukken door zorg van het bevoegd gezag, de periodiekdatum, de toekenning ME-vergoeding, de verstrekking en onderhoud van uniformkleding van vrijwillige politie, de van toepassingverklaring van het [Besluit reis-, verblijf-, en verhuiskosten politie](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) op de vrijwillige ambtenaren van politie en de vergoedingen voor aspiranten voor huisvesting en gezinsbezoek bij lange reisafstand tussen woning en opleiding. Het onderhavige besluit strekt er toe de diverse rechtspositionele besluiten aan te passen aan bovengenoemde afspraken. Wat betreft de financiële middelen wordt verwezen naar de circulaire van 24 april 2008 evenals naar de nadere afspraken die zijn vastgelegd in de circulaire van 27 november 2006. Met betrekking tot de bestemming van de financiële middelen die gemoeid waren met de regionale regelingen geldt dat in het Akkoord is afgesproken dat de arbeidsvoorwaardenruimte die in het verleden vanuit het landelijk overleg is toegewezen aan het regionale overleg beschikbaar blijft voor het domein van personeelsbeleid en arbeidsvoorwaarden. Tot deze middelen wordt ook het beslag van de afspraken rond de harmonisatie in 1994 vanwege de regiovorming gerekend. Over dit besluit is op 21 oktober 2010 overeenstemming met de politievakorganisaties bereikt. 
 
 ####Artikelsgewijs
 
 ####Artikel I, onderdeel A
 
-Eén van de afspraken gemaakt als onderdeel van de eerste tranche van landelijk te harmoniseren regelingen is dat de bevoegdheid om in het korps extra feestdagen aan te wijzen komt te vervallen. In veel korpsen is in het verleden Goede Vrijdag aangewezen als extra feestdag. Deze aanwijzing per korps is vervangen door een verhoging van het recht op vakantie van 165,6 uur naar 172,8 uur bij een voltijds aanstelling. Hiertoe is bij het Besluit van 15 september 2008 tot wijziging van het [Besluit algemene rechtspositie politie](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), het [Besluit bezoldiging politie](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) en het [Besluit rechtspositie vrijwillige politie](../../../../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md) in verband met de harmonisatie van de arbeidsvoorwaarden (Stb. 384) [artikel 17, eerste lid, van het Besluit algemene rechtspositie politie](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) (Barp) gewijzigd. Destijds is deze verhoging niet toegepast op aspiranten. In onderhavig besluit wordt in [artikel 14, eerste lid, van het Barp](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) deze verhoging alsnog voor aspiranten opgenomen en wordt aan de wijziging terugwerkende kracht verleend tot en met 1 januari 2009, hetzelfde moment waarop de wijziging van het aantal verlofuren genoemd in [artikel 17, eerste lid, van het Barp](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) van kracht is geworden.  
+Eén van de afspraken gemaakt als onderdeel van de eerste tranche van landelijk te harmoniseren regelingen is dat de bevoegdheid om in het korps extra feestdagen aan te wijzen komt te vervallen. In veel korpsen is in het verleden Goede Vrijdag aangewezen als extra feestdag. Deze aanwijzing per korps is vervangen door een verhoging van het recht op vakantie van 165,6 uur naar 172,8 uur bij een voltijds aanstelling. Hiertoe is bij het Besluit van 15 september 2008 tot wijziging van het [Besluit algemene rechtspositie politie](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), het [Besluit bezoldiging politie](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) en het [Besluit rechtspositie vrijwillige politie](../../../../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md) in verband met de harmonisatie van de arbeidsvoorwaarden (Stb. 384) [artikel 17, eerste lid, van het Besluit algemene rechtspositie politie](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) (Barp) gewijzigd. Destijds is deze verhoging niet toegepast op aspiranten. In onderhavig besluit wordt in [artikel 14, eerste lid, van het Barp](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) deze verhoging alsnog voor aspiranten opgenomen en wordt aan de wijziging terugwerkende kracht verleend tot en met 1 januari 2009, hetzelfde moment waarop de wijziging van het aantal verlofuren genoemd in [artikel 17, eerste lid, van het Barp](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) van kracht is geworden. 
 
 ####Artikel I, onderdeel B, en artikel III, onderdeel A
 
-Over het onderhoud van kleding is de afspraak gemaakt dat dit voor bepaalde kledingstukken zal geschieden door de zorg van het bevoegd gezag en voor andere kledingstukken door de betrokken ambtenaar zelf. [Artikel 56 van het Besluit algemene rechtspositie politie](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en [artikel 15 van het Besluit rechtspositie vrijwillige politie](../../../../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md) worden hiermee in overeenstemming gebracht, aangezien in genoemde artikelen nog werd uitgegaan van onderhoud door de zorg van het bevoegd gezag. De afspraken wie verantwoordelijk is voor het onderhoud van welke kledingstukken zal verder worden uitgewerkt in de [Kledingregeling voor de politie](../../../../../../../../../../ministeriele-regeling/kledingregeling/voor/de/politie/BWBR0006553/README.md).  
+Over het onderhoud van kleding is de afspraak gemaakt dat dit voor bepaalde kledingstukken zal geschieden door de zorg van het bevoegd gezag en voor andere kledingstukken door de betrokken ambtenaar zelf. [Artikel 56 van het Besluit algemene rechtspositie politie](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en [artikel 15 van het Besluit rechtspositie vrijwillige politie](../../../../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md) worden hiermee in overeenstemming gebracht, aangezien in genoemde artikelen nog werd uitgegaan van onderhoud door de zorg van het bevoegd gezag. De afspraken wie verantwoordelijk is voor het onderhoud van welke kledingstukken zal verder worden uitgewerkt in de [Kledingregeling voor de politie](../../../../../../../../../../ministeriele-regeling/kledingregeling/voor/de/politie/BWBR0006553/README.md). 
 
 ####Artikel II, onderdeel A ([artikel 9, tweede lid](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md))
 
-Van de gelegenheid wordt gebruik gemaakt om in [artikel 9, tweede lid](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md), een redactionele verbetering aan te brengen.  
+Van de gelegenheid wordt gebruik gemaakt om in [artikel 9, tweede lid](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), een redactionele verbetering aan te brengen. 
 
 ####Artikel II, onderdeel A ([artikel 9, zesde lid](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md))
 
-In het kader van de harmonisatie van arbeidsvoorwaarden bij de politie is afgesproken dat in het geval een ambtenaar naast de jaarlijkse salarisverhoging met één periodiek door het bevoegd gezag een extra periodiek wordt toegekend of in het geval door het bevoegd gezag de jaarlijkse salarisverhoging niet wordt toegekend, een dergelijke beslissing vooraf moet zijn gegaan door een recente bekrachtigde beoordeling als bedoeld in [artikel 71, tweede en vijfde lid, van het Besluit algemene rechtspositie politie](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md). Deze beoordeling mag niet ouder zijn dan een jaar te rekenen vanaf de datum waarop het bevoegd gezag besluit over het toekennen van de periodiek. De verplichting tot beoordelen is opgenomen in een aan [artikel 9 toegevoegd zesde lid van het Besluit bezoldiging politie](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md).  
+In het kader van de harmonisatie van arbeidsvoorwaarden bij de politie is afgesproken dat in het geval een ambtenaar naast de jaarlijkse salarisverhoging met één periodiek door het bevoegd gezag een extra periodiek wordt toegekend of in het geval door het bevoegd gezag de jaarlijkse salarisverhoging niet wordt toegekend, een dergelijke beslissing vooraf moet zijn gegaan door een recente bekrachtigde beoordeling als bedoeld in [artikel 71, tweede en vijfde lid, van het Besluit algemene rechtspositie politie](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md). Deze beoordeling mag niet ouder zijn dan een jaar te rekenen vanaf de datum waarop het bevoegd gezag besluit over het toekennen van de periodiek. De verplichting tot beoordelen is opgenomen in een aan [artikel 9 toegevoegd zesde lid van het Besluit bezoldiging politie](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md). 
 
 ####Artikel II, onderdeel A ([artikel 9, zevende en achtste lid](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md))
 
-In deze bepalingen is de afspraak opgenomen dat bij aspiranten die de opleiding met succes hebben afgerond de datum van de jaarlijkse salarisverhoging gehandhaafd blijft op de eerste dag van de maand waarin ze als aspirant zijn begonnen. Stel: een aspirant die op 1 september 2007 met de opleiding is gestart en deze met succes heeft afgerond op 1 juni 2010, wordt op 1 juni 2010 ingeschaald op de wijze als geregeld in [artikel 3, zevende lid van het Bbp](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md). De eerstvolgende jaarlijkse salarisverhoging, ook wel salarisperiodiek genoemd, krijgt de inmiddels afgestudeerde op 1 september 2010 en vervolgens op 1 september van de volgende jaren. Is de aspirant echter op 1 oktober 2010 afgestudeerd, vindt de jaarlijkse verhoging voor het eerst weer plaats op 1 september 2011 en vervolgens op 1 september van de volgende jaren. Onder succesvol afronden van de opleiding wordt verstaan het behalen van de laatste proeve van bekwaamheid van de opleiding dan wel het behalen van het laatste examen. Het behalen kan worden aangetoond door een kopie van het beoordelingsformulier dan wel een kopie van de verklaring examenresultaten. De inschaling met inachtneming van [artikel 3, zevende lid, van het Bbp](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) vindt plaats de eerste dag van de maand volgend op de maand waarin de opleiding succesvol is afgerond. Het achtste lid ziet op de aspiranten die tijdens de opleiding een salaris genieten overeenkomstig een salarisschaal van bijlage I van dit besluit en die al langer dan een jaar voor het succesvol afronden van de opleiding het maximum salarisniveau als bedoeld in [artikel 3, zesde lid, onderdeel b](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) hebben bereikt. Voor deze groep ambtenaren geldt dat de eerstvolgende salarisverhoging na het succesvol afronden van de opleiding plaats vindt in dezelfde kalendermaand van een later jaar dan waarin met de opleiding is gestart dan wel de laatste verhoging tijdens de opleiding heeft plaatsgevonden.  
+In deze bepalingen is de afspraak opgenomen dat bij aspiranten die de opleiding met succes hebben afgerond de datum van de jaarlijkse salarisverhoging gehandhaafd blijft op de eerste dag van de maand waarin ze als aspirant zijn begonnen. Stel: een aspirant die op 1 september 2007 met de opleiding is gestart en deze met succes heeft afgerond op 1 juni 2010, wordt op 1 juni 2010 ingeschaald op de wijze als geregeld in [artikel 3, zevende lid van het Bbp](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md). De eerstvolgende jaarlijkse salarisverhoging, ook wel salarisperiodiek genoemd, krijgt de inmiddels afgestudeerde op 1 september 2010 en vervolgens op 1 september van de volgende jaren. Is de aspirant echter op 1 oktober 2010 afgestudeerd, vindt de jaarlijkse verhoging voor het eerst weer plaats op 1 september 2011 en vervolgens op 1 september van de volgende jaren. Onder succesvol afronden van de opleiding wordt verstaan het behalen van de laatste proeve van bekwaamheid van de opleiding dan wel het behalen van het laatste examen. Het behalen kan worden aangetoond door een kopie van het beoordelingsformulier dan wel een kopie van de verklaring examenresultaten. De inschaling met inachtneming van [artikel 3, zevende lid, van het Bbp](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) vindt plaats de eerste dag van de maand volgend op de maand waarin de opleiding succesvol is afgerond. Het achtste lid ziet op de aspiranten die tijdens de opleiding een salaris genieten overeenkomstig een salarisschaal van bijlage I van dit besluit en die al langer dan een jaar voor het succesvol afronden van de opleiding het maximum salarisniveau als bedoeld in [artikel 3, zesde lid, onderdeel b](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) hebben bereikt. Voor deze groep ambtenaren geldt dat de eerstvolgende salarisverhoging na het succesvol afronden van de opleiding plaats vindt in dezelfde kalendermaand van een later jaar dan waarin met de opleiding is gestart dan wel de laatste verhoging tijdens de opleiding heeft plaatsgevonden. 
 
 ####Artikel II, onderdeel B
 
-In het kader van de harmonisatie van arbeidsvoorwaarden bij de politie is afgesproken dat de ME-vergoeding niet alleen wordt toegekend bij daadwerkelijke inzet van de mobiele eenheid ter handhaving van de openbare orde, maar in alle gevallen wordt toegekend aan ambtenaren die daadwerkelijk worden ingezet als lid van een mobiele eenheid. Hierbij kan bijvoorbeeld gedacht worden aan een zoekactie naar een vermist persoon of lijk waarbij een ME-eenheid wordt ingezet.  
+In het kader van de harmonisatie van arbeidsvoorwaarden bij de politie is afgesproken dat de ME-vergoeding niet alleen wordt toegekend bij daadwerkelijke inzet van de mobiele eenheid ter handhaving van de openbare orde, maar in alle gevallen wordt toegekend aan ambtenaren die daadwerkelijk worden ingezet als lid van een mobiele eenheid. Hierbij kan bijvoorbeeld gedacht worden aan een zoekactie naar een vermist persoon of lijk waarbij een ME-eenheid wordt ingezet. 
 
 ####Artikel II, onderdeel C
 
-De wijziging van het vierde lid betreft het herstel van een foutieve redactie in het Besluit van 15 september 2008. De huidige redactie suggereert dat de vergoeding alleen wordt toegekend bij het verrichten van werkzaamheden die niet tot het reguliere werk behoren. Dit is bij de afspraken over de harmonisatie van arbeidsvoorwaarden eerste tranche niet beoogd. Aan de wijziging van het vierde lid wordt terugwerkende kracht verleend tot en met 1 oktober 2008.  
+De wijziging van het vierde lid betreft het herstel van een foutieve redactie in het Besluit van 15 september 2008. De huidige redactie suggereert dat de vergoeding alleen wordt toegekend bij het verrichten van werkzaamheden die niet tot het reguliere werk behoren. Dit is bij de afspraken over de harmonisatie van arbeidsvoorwaarden eerste tranche niet beoogd. Aan de wijziging van het vierde lid wordt terugwerkende kracht verleend tot en met 1 oktober 2008. 
 
 ####Artikel II, onderdeel D
 
@@ -1202,11 +1202,11 @@ In het kader van de harmonisatie van arbeidsvoorwaarden bij de politie is afgesp
 
 * Gaandeweg een voetbalwedstrijd, waarvoor de ME is opgeroepen, acht de algemeen commandant het noodzakelijk dat (meer) ondersteunend personeel ter plaatse komt omdat hooligans in actie komen. Daartoe krijgen vier (executieve) eenheden, tot dan toe belast met noodhulp, en twee motorrijders, tot dan toe belast met verkeershandhaving, de opdracht om ter plaatse de ME te gaan ondersteunen. Ook in deze situatie kon logischerwijze geen aanwijzing vooraf plaatsvinden, maar ontstaat wel recht op de vergoeding, omdat er sprake is van gevaarzetting ter handhaving van de openbare orde.  
 
-* Een arrestantenverzorger die dit werk normaliter doet op een cellencomplex van het korps, wordt opgeroepen bij een inzet van de ME en ontfermt zich ter plaatse over hooligans. Deze arrestantenverzorger heeft in deze situatie recht op de vergoeding omdat er sprake is van gevaarzetting ter handhaving van de openbare orde.    
+* Een arrestantenverzorger die dit werk normaliter doet op een cellencomplex van het korps, wordt opgeroepen bij een inzet van de ME en ontfermt zich ter plaatse over hooligans. Deze arrestantenverzorger heeft in deze situatie recht op de vergoeding omdat er sprake is van gevaarzetting ter handhaving van de openbare orde.   
 
 ####Artikel III, onderdeel B
 
-In het kader van de harmonisatie van arbeidsvoorwaarden bij de politie is afgesproken dat aan vrijwillige ambtenaren van politie dezelfde vergoeding voor woon-werkverkeer wordt verstrekt als aan de ambtenaren in dienst van de politie. De regeling betreffende het woon-werkverkeer voor de politie is geregeld in [hoofdstuk II van het Besluit reis-, verblijf- en verhuiskosten politie](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md). [Artikel 44](../../../../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md) wordt in die zin gewijzigd dat naast [hoofdstuk III](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) ook hoofdstuk II van voornoemd besluit van toepassing is op de ambtenaren van de vrijwillige politie. [Artikel 37 van het Besluit reis-, verblijf- en verhuiskosten politie](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) geeft het bevoegd gezag in individuele gevallen bij ambtenaren in dienst van de politie de mogelijkheid af te wijken van besluiten genomen op grond van onder meer de [hoofdstukken II](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) en [III van het Besluit reis-, verblijf- en verhuiskosten politie](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md), indien de afwijking strekt tot het vermijden van onbillijkheden van overwegende aard welke uit de toepassing van dit besluit zouden voortkomen. Met de toevoeging van het tweede lid aan artikel 44 van het Besluit vrijwillige politie wordt de mogelijkheid om af te wijken van besluiten op grond van de [hoofdstukken II](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) en [III van het Besluit reis-, verblijf- en verhuiskosten politie](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) ook mogelijk voor ambtenaren van de vrijwillige politie.  
+In het kader van de harmonisatie van arbeidsvoorwaarden bij de politie is afgesproken dat aan vrijwillige ambtenaren van politie dezelfde vergoeding voor woon-werkverkeer wordt verstrekt als aan de ambtenaren in dienst van de politie. De regeling betreffende het woon-werkverkeer voor de politie is geregeld in [hoofdstuk II van het Besluit reis-, verblijf- en verhuiskosten politie](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md). [Artikel 44](../../../../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md) wordt in die zin gewijzigd dat naast [hoofdstuk III](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) ook hoofdstuk II van voornoemd besluit van toepassing is op de ambtenaren van de vrijwillige politie. [Artikel 37 van het Besluit reis-, verblijf- en verhuiskosten politie](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) geeft het bevoegd gezag in individuele gevallen bij ambtenaren in dienst van de politie de mogelijkheid af te wijken van besluiten genomen op grond van onder meer de [hoofdstukken II](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) en [III van het Besluit reis-, verblijf- en verhuiskosten politie](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md), indien de afwijking strekt tot het vermijden van onbillijkheden van overwegende aard welke uit de toepassing van dit besluit zouden voortkomen. Met de toevoeging van het tweede lid aan artikel 44 van het Besluit vrijwillige politie wordt de mogelijkheid om af te wijken van besluiten op grond van de [hoofdstukken II](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) en [III van het Besluit reis-, verblijf- en verhuiskosten politie](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) ook mogelijk voor ambtenaren van de vrijwillige politie. 
 
 ####Artikel IV
 
@@ -1220,15 +1220,15 @@ In het kader van de harmonisatie van arbeidsvoorwaarden bij de politie is afgesp
 
 * de beschikbaarheid van openbaar vervoer;  
 
-* overige persoonlijke omstandigheden, zoals de mogelijkheid al dan niet thuis in rust te kunnen studeren.   Uitgangspunt is dat het bevoegd gezag en de aspirant gezamenlijk moeten bespreken wat voor de aspirant de beste oplossing is. Het bedrag van € 340,34 is gelijk aan de maximale tegemoetkoming voor pensionkosten zoals deze was opgenomen in [artikel 13, eerste lid, van de Regeling vergoeding verplaatsingskosten politie](../../../../../../../../../../ministeriele-regeling/regeling/vergoeding/verplaatsingskosten/politie/BWBR0006658/README.md). Opgemerkt wordt nog dat naast de aanspraak geregeld in het nieuwe artikel 14a ook aanspraak bestaat op vergoeding van reiskosten tussen de tijdelijke verblijfplaats en de plaats van opleiding op grond van [artikel 3, eerste lid, onderdeel d, van het Besluit reis-, verblijf- en verhuiskosten politie](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md). In [artikel 38, eerste lid, (onderdeel B) van het Besluit reis-, verblijf- en verhuiskosten politie](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) wordt bepaald dat het in artikel 14a, eerste lid, genoemde bedrag, net als de bedragen genoemd in de artikelen 13, tweede lid, en 14, eerste lid, jaarlijks wordt aangepast overeenkomstig de geschoonde consumentenprijsindex voor restaurants en accommodaties, vastgesteld door het Centraal bureau voor de statistiek.  
+* overige persoonlijke omstandigheden, zoals de mogelijkheid al dan niet thuis in rust te kunnen studeren.   Uitgangspunt is dat het bevoegd gezag en de aspirant gezamenlijk moeten bespreken wat voor de aspirant de beste oplossing is. Het bedrag van € 340,34 is gelijk aan de maximale tegemoetkoming voor pensionkosten zoals deze was opgenomen in [artikel 13, eerste lid, van de Regeling vergoeding verplaatsingskosten politie](../../../../../../../../../../ministeriele-regeling/regeling/vergoeding/verplaatsingskosten/politie/BWBR0006658/README.md). Opgemerkt wordt nog dat naast de aanspraak geregeld in het nieuwe artikel 14a ook aanspraak bestaat op vergoeding van reiskosten tussen de tijdelijke verblijfplaats en de plaats van opleiding op grond van [artikel 3, eerste lid, onderdeel d, van het Besluit reis-, verblijf- en verhuiskosten politie](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md). In [artikel 38, eerste lid, (onderdeel B) van het Besluit reis-, verblijf- en verhuiskosten politie](../../../../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) wordt bepaald dat het in artikel 14a, eerste lid, genoemde bedrag, net als de bedragen genoemd in de artikelen 13, tweede lid, en 14, eerste lid, jaarlijks wordt aangepast overeenkomstig de geschoonde consumentenprijsindex voor restaurants en accommodaties, vastgesteld door het Centraal bureau voor de statistiek. 
 
 ####Artikel V
 
-Dit besluit treedt in werking de dag na publicatie in het Staatsblad. Aan de wijziging van [artikel 29, vierde lid, van het Bbp](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) is terugwerkende kracht verleend tot en met 1 oktober 2008. Aan de wijziging van [artikel 14, eerste lid, van het Barp](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) is terugwerkende kracht verleend tot en met 1 januari 2009. Zie de toelichting bij artikel II, onderdeel C respectievelijk artikel I, onderdeel A.  
+Dit besluit treedt in werking de dag na publicatie in het Staatsblad. Aan de wijziging van [artikel 29, vierde lid, van het Bbp](../../../../../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) is terugwerkende kracht verleend tot en met 1 oktober 2008. Aan de wijziging van [artikel 14, eerste lid, van het Barp](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) is terugwerkende kracht verleend tot en met 1 januari 2009. Zie de toelichting bij artikel II, onderdeel C respectievelijk artikel I, onderdeel A. 
 
 De 
-Minister van Veiligheid en Justitie,
-I.W.Opstelten  
+Minister van Veiligheid en Justitie, 
+I.W. Opstelten    
 
 ### Bijlage  10  
 
@@ -1248,7 +1248,7 @@ De ambtenaar:
 
 * neemt de veiligheidsvoorschriften in acht;  
 
-* gebruikt de telefoon kostenbewust.    
+* gebruikt de telefoon kostenbewust.   
 
 ####Gebruiksverklaring
 
@@ -1264,15 +1264,15 @@ Bij de uitgifte van een mobiele telefoon wordt een gebruiksverklaring verstrekt.
 
 * de meegeleverde accessoires;  
 
-* de datum van uitgifte.    
+* de datum van uitgifte.   
 
 ####Bereikbaarheid
 
-De mobiele telefoon is verstrekt voor de bereikbaarheid van de ambtenaar. De mobiele telefoon staat in ieder geval tijdens de diensttijd en consignatie aan. De ambtenaar zet de mobiele telefoon op een stil belprofiel indien hij niet kan worden gestoord. De voicemail dient binnen een redelijke termijn binnen de diensttijd te worden afgeluisterd.  
+De mobiele telefoon is verstrekt voor de bereikbaarheid van de ambtenaar. De mobiele telefoon staat in ieder geval tijdens de diensttijd en consignatie aan. De ambtenaar zet de mobiele telefoon op een stil belprofiel indien hij niet kan worden gestoord. De voicemail dient binnen een redelijke termijn binnen de diensttijd te worden afgeluisterd. 
 
 ####Privégebruik
 
-Privégebruik is toegestaan indien het gaat om kortdurend gebruik voor privé-doeleinden, mits dit niet storend is voor de dagelijkse werkzaamheden. De ambtenaar is terughoudend met het privégebruik van de telefoon. De ambtenaar weet dat de factuur van de serviceprovider wordt gecontroleerd, waardoor er inzage in het bel- en sms-gedrag van de ambtenaar kan zijn. Persoonlijke gegevens zullen alleen worden gebruikt voor het doel waarvoor ze verzameld zijn, namelijk het leggen van een relatie tussen ambtenaar en het gebruik van deze mobiele telefoon.  
+Privégebruik is toegestaan indien het gaat om kortdurend gebruik voor privé-doeleinden, mits dit niet storend is voor de dagelijkse werkzaamheden. De ambtenaar is terughoudend met het privégebruik van de telefoon. De ambtenaar weet dat de factuur van de serviceprovider wordt gecontroleerd, waardoor er inzage in het bel- en sms-gedrag van de ambtenaar kan zijn. Persoonlijke gegevens zullen alleen worden gebruikt voor het doel waarvoor ze verzameld zijn, namelijk het leggen van een relatie tussen ambtenaar en het gebruik van deze mobiele telefoon. 
 
 ####Niet toegestaan gebruik
 
@@ -1288,7 +1288,7 @@ Het is de ambtenaar niet toegestaan:
 
 * het gebruik van de verstrekte SIM-kaart in een ander dan het verstrekte toestel;  
 
-* het gebruik van een andere SIM-kaart in het verstrekte toestel.   Indien de ambtenaar de mobiele telefoon niet volgens de hiervoor genoemde regels gebruikt, dan kan het toestel worden ingenomen of kan het abonnement in opdracht van de leidinggevende worden geblokkeerd. De blokkade kan zonder aankondiging worden geplaatst. Indien er door het niet toegestane gebruik door de ambtenaar kosten zijn gemaakt, dan worden deze bij de ambtenaar in rekening gebracht.  
+* het gebruik van een andere SIM-kaart in het verstrekte toestel.   Indien de ambtenaar de mobiele telefoon niet volgens de hiervoor genoemde regels gebruikt, dan kan het toestel worden ingenomen of kan het abonnement in opdracht van de leidinggevende worden geblokkeerd. De blokkade kan zonder aankondiging worden geplaatst. Indien er door het niet toegestane gebruik door de ambtenaar kosten zijn gemaakt, dan worden deze bij de ambtenaar in rekening gebracht. 
 
 ####Veiligheid
 
@@ -1314,11 +1314,11 @@ Een mobiele telefoon kan veel informatie bevatten waardoor voor de politie veili
 
 * sommige instellingen eisen dat mobiele telefoons die zijn voorzien van foto- of videofunctie, worden ingeleverd bij bijvoorbeeld de receptie. Indien dit het geval is, dient het toestel te worden uitgeschakeld en de SIM-kaart (en eventuele geheugenkaart) te worden verwijderd, voordat het toestel wordt afgegeven;  
 
-* terughoudendheid met het verstrekken van het eigen telefoonnummer aan individuen of organisaties buiten het korps. Het is niet toegestaan om het nummer van collega’s aan derden buiten de organisatie te geven.    
+* terughoudendheid met het verstrekken van het eigen telefoonnummer aan individuen of organisaties buiten het korps. Het is niet toegestaan om het nummer van collega’s aan derden buiten de organisatie te geven.   
 
 ####Defecten en verlies
 
-Defecte toestellen worden zonder kosten, voor zover het defect niet te wijten is aan de ambtenaar, kosteloos gerepareerd of vervangen door een functioneel gelijkwaardig toestel. De korpschef kan, in overeenstemming met [artikel 68 Barp](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), de ambtenaar verplichten bij verlies, diefstal of beschadiging van het toestel, voor zover deze aan de ambtenaar is te wijten, geheel of gedeeltelijk te vergoeden.  
+Defecte toestellen worden zonder kosten, voor zover het defect niet te wijten is aan de ambtenaar, kosteloos gerepareerd of vervangen door een functioneel gelijkwaardig toestel. De korpschef kan, in overeenstemming met [artikel 68 Barp](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), de ambtenaar verplichten bij verlies, diefstal of beschadiging van het toestel, voor zover deze aan de ambtenaar is te wijten, geheel of gedeeltelijk te vergoeden. 
 
 ####Inleveren van het toestel
 
@@ -1328,13 +1328,13 @@ De mobiele telefoon, de SIM-kaart en alle accessoires dienen bij het korps te wo
 
 * bij andere mutaties, waarbij de bereikbaarheidseisen voor de ambtenaar worden gewijzigd;  
 
-* of indien daartoe naar het oordeel van de leidinggevende een aanleiding is, zoals in de gevallen die genoemd zijn in paragraaf 1.5 of wanneer de veiligheidsvoorschriften niet in acht zijn genomen.   Indien bij inlevering op het toestel of de SIM-kaart nog informatie staat, dan wordt die niet gelezen en direct verwijderd.  
+* of indien daartoe naar het oordeel van de leidinggevende een aanleiding is, zoals in de gevallen die genoemd zijn in paragraaf 1.5 of wanneer de veiligheidsvoorschriften niet in acht zijn genomen.   Indien bij inlevering op het toestel of de SIM-kaart nog informatie staat, dan wordt die niet gelezen en direct verwijderd. 
 
 ####Controle naleving gebruiksregels
 
 ####Controle
 
-Indien naar het oordeel van het korps een vermoeden van misbruik bestaat, kan een controle op het mobiele telefoongebruik van een ambtenaar plaatsvinden. De werknemer wordt bij beëindiging van een controle door de leidinggevende ingelicht over de controle die heeft plaatsgevonden, de wijze waarop deze heeft plaatsgevonden, het doel van de controle en de resultaten van deze controle. Bij constatering van misbruik zal het korps nader onderzoek verrichten. Afhankelijk van de aard en omvang kan het misbruik worden aangemerkt als plichtsverzuim, zoals is omschreven in [artikel 76 het Besluit algemene rechtspositie politie](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) (Barp).  
+Indien naar het oordeel van het korps een vermoeden van misbruik bestaat, kan een controle op het mobiele telefoongebruik van een ambtenaar plaatsvinden. De werknemer wordt bij beëindiging van een controle door de leidinggevende ingelicht over de controle die heeft plaatsgevonden, de wijze waarop deze heeft plaatsgevonden, het doel van de controle en de resultaten van deze controle. Bij constatering van misbruik zal het korps nader onderzoek verrichten. Afhankelijk van de aard en omvang kan het misbruik worden aangemerkt als plichtsverzuim, zoals is omschreven in [artikel 76 het Besluit algemene rechtspositie politie](../../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) (Barp). 
 
 ####Excessief gebruik
 
@@ -1342,21 +1342,21 @@ Budgethouders of leidinggevenden binnen de korpsen zijn verantwoordelijk voor om
 
 * De budgethouder of leidinggevende bespreekt met de betreffende ambtenaar het excessieve gebruik, waarna tot een oordeel wordt gekomen of inhouding plaats moet vinden. De inhouding zal dan op verzoek van de budgethouder of leidinggevende worden uitgevoerd op de binnen het desbetreffende korps van toepassing zijnde manier.  
 
-* De ambtenaar verantwoordt excessief gebruik bij de direct leidinggevende.    
+* De ambtenaar verantwoordt excessief gebruik bij de direct leidinggevende.   
 
 ####Inhoudingprocedure
 
 ####Inhouding bij extra kosten van de mobiele telefoon
 
-Extra kosten zijn de kosten die vallen buiten de belbundel, zoals de kosten voor buitenlands telefoonverkeer, sms en betaalde servicenummers. Deze extra kosten komen voor inhouding in aanmerking. Vanwege administratieve reden vindt geen inhouding plaats wanneer de extra kosten € 10,00 per maand of lager bedragen. Indien de extra kosten hoger zijn dan het voornoemde bedrag per maand, kan een inhouding plaatsvinden. De leidinggevende oordeelt of de inhouding plaatsvindt. Bij dit oordeel houdt hij rekening met de omstandigheden waardoor de extra kosten gemaakt kunnen zijn, zoals de aard van de functie en de ligging van de grensregio’s. Indien het bedrag hoger is dan € 10,00 per maand en de leidinggevende heeft geoordeeld dat de kosten voor inhouding in aanmerking komen, dan wordt het gehele bedrag (inclusief het drempelbedrag van € 10,00 per maand) ingehouden.  
+Extra kosten zijn de kosten die vallen buiten de belbundel, zoals de kosten voor buitenlands telefoonverkeer, sms en betaalde servicenummers. Deze extra kosten komen voor inhouding in aanmerking. Vanwege administratieve reden vindt geen inhouding plaats wanneer de extra kosten € 10,00 per maand of lager bedragen. Indien de extra kosten hoger zijn dan het voornoemde bedrag per maand, kan een inhouding plaatsvinden. De leidinggevende oordeelt of de inhouding plaatsvindt. Bij dit oordeel houdt hij rekening met de omstandigheden waardoor de extra kosten gemaakt kunnen zijn, zoals de aard van de functie en de ligging van de grensregio’s. Indien het bedrag hoger is dan € 10,00 per maand en de leidinggevende heeft geoordeeld dat de kosten voor inhouding in aanmerking komen, dan wordt het gehele bedrag (inclusief het drempelbedrag van € 10,00 per maand) ingehouden. 
 
 ####Werkwijze inhouding
 
-Het korps bepaalt op welke tijdstippen de inhouding van de kosten plaatsvindt. De inhouding vindt plaats door middel van een verrekening met de salarisbetaling van de ambtenaar. De verdere werkwijze van de inhouding wordt door het korps bepaald.  
+Het korps bepaalt op welke tijdstippen de inhouding van de kosten plaatsvindt. De inhouding vindt plaats door middel van een verrekening met de salarisbetaling van de ambtenaar. De verdere werkwijze van de inhouding wordt door het korps bepaald. 
 
 ####Kosten voor de dienst gemaakt
 
-Indien de ambtenaar van mening is dat ten onrechte de extra kosten zijn ingehouden omdat deze als dienstkosten moeten worden aangemerkt, kan tot drie maanden na de inhouding de kosten worden gedeclareerd. De ambtenaar vraagt bij het korps een gesprekskostenspecificatie voor de betreffende maand aan. Aan de hand van deze specificatie geeft de ambtenaar aan welk deel van de kosten als dienstkosten dienen te worden aangemerkt.  
+Indien de ambtenaar van mening is dat ten onrechte de extra kosten zijn ingehouden omdat deze als dienstkosten moeten worden aangemerkt, kan tot drie maanden na de inhouding de kosten worden gedeclareerd. De ambtenaar vraagt bij het korps een gesprekskostenspecificatie voor de betreffende maand aan. Aan de hand van deze specificatie geeft de ambtenaar aan welk deel van de kosten als dienstkosten dienen te worden aangemerkt. 
 
 ####Bijlage
 
@@ -1409,5 +1409,5 @@ De ‘gebruiksverklaring mobiele telefonie politie’ maakt deel uit van deze ge
 
 10. Gedragscode mobiele telefonie  
 
-11. Overzicht bijlagen bij circulaire HAP II    
+11. Overzicht bijlagen bij circulaire HAP II   
 
