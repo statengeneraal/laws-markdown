@@ -12,29 +12,29 @@ The Parties, Determined to implement the Convention on Long-range Transboundary 
 
 For the purposes of the present Protocol, 
 
-1. “Convention" means the Convention on Long-range Transboundary Air Pollution, adopted in Geneva on 13 November 1979;  
+1. “Convention” means the Convention on Long-range Transboundary Air Pollution, adopted in Geneva on 13 November 1979;  
 
-2. “EMEP" means the Cooperative Programme for Monitoring and Evaluation of the Long-range Transmission of Air Pollutants in Europe;  
+2. “EMEP” means the Cooperative Programme for Monitoring and Evaluation of the Long-range Transmission of Air Pollutants in Europe;  
 
-3. “Executive Body" means the Executive Body for the Convention constituted under article 10, paragraph 1, of the Convention;  
+3. “Executive Body” means the Executive Body for the Convention constituted under article 10, paragraph 1, of the Convention;  
 
-4. “Commission" means the United Nations Economic Commission for Europe;  
+4. “Commission” means the United Nations Economic Commission for Europe;  
 
-5. “Parties" means, unless the context otherwise requires, the Parties to the present Protocol;  
+5. “Parties” means, unless the context otherwise requires, the Parties to the present Protocol;  
 
-6. “Geographical scope of EMEP" means the area defined in article 1, paragraph 4, of the Protocol to the 1979 Convention on Long-range Transboundary Air Pollution on Long-term Financing of the Cooperative Programme for Monitoring and Evaluation of the Long-range Transmission of Air Pollutants in Europe (EMEP), adopted in Geneva on 28 September 1984;  
+6. “Geographical scope of EMEP” means the area defined in article 1, paragraph 4, of the Protocol to the 1979 Convention on Long-range Transboundary Air Pollution on Long-term Financing of the Cooperative Programme for Monitoring and Evaluation of the Long-range Transmission of Air Pollutants in Europe (EMEP), adopted in Geneva on 28 September 1984;  
 
-7. “Persistent organic pollutants" (POPs) are organic substances that: (i) possess toxic characteristics; (ii) are persistent; (iii) bioaccumulate; (iv) are prone to long-range transboundary atmospheric transport and deposition; and (v) are likely to cause significant adverse human health or environmental effects near to and distant from their sources;  
+7. “Persistent organic pollutants” (POPs) are organic substances that: (i) possess toxic characteristics; (ii) are persistent; (iii) bioaccumulate; (iv) are prone to long-range transboundary atmospheric transport and deposition; and (v) are likely to cause significant adverse human health or environmental effects near to and distant from their sources;  
 
-8. “Substance" means a single chemical species, or a number of chemical species which form a specific group by virtue of (a) having similar properties and being emitted together into the environment; or (b) forming a mixture normally marketed as a single article;  
+8. “Substance” means a single chemical species, or a number of chemical species which form a specific group by virtue of (a) having similar properties and being emitted together into the environment; or (b) forming a mixture normally marketed as a single article;  
 
-9. “Emission" means the release of a substance from a point or diffuse source into the atmosphere;  
+9. “Emission” means the release of a substance from a point or diffuse source into the atmosphere;  
 
-10. “Stationary source" means any fixed building, structure, facility, installation, or equipment that emits or may emit any persistent organic pollutant directly or indirectly into the atmosphere;  
+10. “Stationary source” means any fixed building, structure, facility, installation, or equipment that emits or may emit any persistent organic pollutant directly or indirectly into the atmosphere;  
 
-11. “Major stationary source category" means any stationary source category listed in annex VIII;  
+11. “Major stationary source category” means any stationary source category listed in annex VIII;  
 
-12. “New stationary source" means any stationary source of which the construction or substantial modification is commenced after the expiry of two years from the date of entry into force of: (i) this Protocol; or (ii) an amendment to annex III or VIII, where the stationary source becomes subject to the provisions of this Protocol only by virtue of that amendment. It shall be a matter for the competent national authorities to decide whether a modification is substantial or not, taking into account such factors as the environmental benefits of the modification.    
+12. “New stationary source” means any stationary source of which the construction or substantial modification is commenced after the expiry of two years from the date of entry into force of: (i) this Protocol; or (ii) an amendment to annex III or VIII, where the stationary source becomes subject to the provisions of this Protocol only by virtue of that amendment. It shall be a matter for the competent national authorities to decide whether a modification is substantial or not, taking into account such factors as the environmental benefits of the modification.    
 
 ### Article  2  
 
@@ -315,7 +315,7 @@ IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed t
 Unless otherwise specified in the present Protocol, this annex shall not apply to the substances listed below when they occur: (i) as contaminants in products; or (ii) in articles manufactured or in use by the implementation date; or (iii) as site-limited chemical intermediates in the manufacture of one or more different substances and are thus chemically transformed. Unless otherwise specified, each obligation below is effective upon the date of entry into force of the Protocol.  
 
 | Substance  | Implementation requirements  |--- | Elimination of  | Conditions  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | Aldrin CAS: 309-00-2  | Production  | None  |
 | Use  | None  |
 | Chlordane CAS: 57-74-9  | Production  | None  |
@@ -350,7 +350,7 @@ Unless otherwise specified in the present Protocol, this annex shall not apply t
 Unless otherwise specified in the present Protocol, this annex shall not apply to the substances listed below when they occur: (i) as contaminants in products; or (ii) in articles manufactured or in use by the implementation date; or (iii) as site-limited chemical intermediates in the manufacture of one or more different substances and are thus chemically transformed. Unless otherwise specified, each obligation below is effective upon the date of entry into force of the Protocol.  
 
 | Substance  | Implementation requirements  |--- | Restricted to uses  | Conditions  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | DDT CAS: 50-29-3  |   1.  For public health protection from diseases such as malaria and encephalitis.     2.  As a chemical intermediate to produce Dicofol.      |   1.  Use allowed only as a component of an integrated pest management strategy and only to the extent necessary and only until one year after the date of the elimination of production in accordance with annex I.     2.  Such use shall be reassessed no later than two years after the date of entry into force of the present Protocol.      |
 | HCH CAS: 608-73-1  | Technical HCH (i.e. HCH mixed isomers) is restricted to use as an intermediate in chemical manufacturing.  Products in which at least 99% of the HCH isomer is in the gamma form (i.e. lindane, CAS: 58-89-9) are restricted to the following uses:    1.  Seed treatment.     2.  Soil applications directly followed by incorporation into the topsoil surface layer.     3.  Professional remedial and industrial treatment of lumber, timber and logs.     4.  Public health and veterinary topical insecticide.     5.  Non-aerial application to tree seedlings, small-scale lawn use, and indoor and outdoor use for nursery stock and ornamentals.     6.  Indoor industrial and residential applications.      | All restricted uses of lindane shall be reassessed under the Protocol no later than two years after the date of entry into force.  |
 | PCB <sup>1)</sup>  | PCBs in use as of the date of entry into force or produced up to 31 December 2005 in accordance with the provisions of annex I.  | Parties shall make determined efforts designed to lead to:    a)  The elimination of the use of identifiable PCBs in equipment (i.e. transformers, capacitors or other receptacles containing residual liquid stocks) containing PCBs in volumes greater than 5 dm³ and having a concentration of 0.05% PCBs or greater, as soon as possible, but no later than 31 December 2010, or 31 December 2015 for countries with economies in transition;     b)  The destruction or decontamination in an environmentally sound manner of all liquid PCBs referred to in subparagraph (a) and other liquid PCBs containing more than 0.005% PCBs not in equipment, as soon as possible, but no later than 31 December 2015, or 31 December 2020 for countries with economies in transition; and     c)  The decontamination or disposal of equipment referred to in subparagraph a) in an environmentally sound manner.      |
@@ -362,7 +362,7 @@ Unless otherwise specified in the present Protocol, this annex shall not apply t
 ####Substances referred to in article 3, paragraph 5 a), and the reference year for the obligation
 
 | Substance  | Reference year  |
-|:---|:---|
+|---|---|
 | PAHs <sup>1)</sup>  | 1990; or an alternative year from 1985 to 1995 inclusive, specified by a Party upon ratification, acceptance, approval or accession.  |
 | Dioxins/furans <sup>2)</sup>  | 1990; or an alternative year from 1985 to 1995 inclusive, specified by a Party upon ratification, acceptance, approval or accession.  |
 | Hexachlorobenzene  | 1990; or an alternative year from 1985 to 1995 inclusive, specified by a Party upon ratification, acceptance, approval or accession.  |
@@ -527,61 +527,95 @@ c) Use of chlorinated fuels in furnace installations.
 
 ####GENERAL APPROACHES TO CONTROLLING EMISSIONS OF POPs
 
+Vervallen per 13-12-2010   
+
 ### IV  
 
 ####CONTROL TECHNIQUES FOR THE REDUCTION OF PCDD/F EMISSIONS
+
+Vervallen per 13-12-2010   
 
 ### A  
 
 ####Waste incineration
 
+Vervallen per 13-12-2010   
+
 ### B  
 
 ####Thermal processes in the metallurgical industry
 
+Vervallen per 13-12-2010   
+
 #### *Sinter plants* 
+
+Vervallen per 13-12-2010   
 
 #### *Primary and secondary production of copper* 
 
+Vervallen per 13-12-2010   
+
 #### *Production of steel* 
 
+Vervallen per 13-12-2010   
+
 #### *Smelting plants in the secondary aluminium industry* 
+
+Vervallen per 13-12-2010   
 
 ### C  
 
 ####Combustion of fossil fuels in utility and industrial boilers
 
+Vervallen per 13-12-2010   
+
 ### D  
 
 ####Residential combustion
+
+Vervallen per 13-12-2010   
 
 ### E  
 
 ####Firing installations for wood (<50 MW capacity)
 
+Vervallen per 13-12-2010   
+
 ### V  
 
 ####CONTROL TECHNIQUES FOR THE REDUCTION OF PAH EMISSIONS
+
+Vervallen per 13-12-2010   
 
 ### A  
 
 ####Coke production
 
+Vervallen per 13-12-2010   
+
 ### B  
 
 ####Anode production
+
+Vervallen per 13-12-2010   
 
 ### C  
 
 ####Aluminium industry
 
+Vervallen per 13-12-2010   
+
 ### D  
 
 ####Residential combustion
 
+Vervallen per 13-12-2010   
+
 ### E  
 
 ####Wood preservation installations
+
+Vervallen per 13-12-2010   
 
 ### Annex  VI  
 
@@ -597,53 +631,79 @@ b) For existing stationary sources: eight years after the date of entry into for
 
 ####Recommended Control Measures for Reducing emissions of persistent organic pollutants from mobile sources
 
+Vervallen per 13-12-2010   
+
 ### I  
 
 ####ACHIEVABLE EMISSION LEVELS FOR NEW VEHICLES AND FUEL PARAMETERS
+
+Vervallen per 13-12-2010   
 
 ### A  
 
 ####Achievable emission levels for new vehicles
 
+Vervallen per 13-12-2010   
+
 ### B  
 
 ####Fuel parameters
+
+Vervallen per 13-12-2010   
 
 ### II  
 
 ####RESTRICTION OF HALOGENATED SCAVENGERS, ADDITIVES IN FUELS AND LUBRICANTS
 
+Vervallen per 13-12-2010   
+
 ### III  
 
 ####CONTROL MEASURES FOR EMISSIONS OF POPs FROM MOBILE SOURCES
+
+Vervallen per 13-12-2010   
 
 ### A  
 
 ####POP emissions from motor vehicles
 
+Vervallen per 13-12-2010   
+
 ### B  
 
 ####Inspection and maintenance
+
+Vervallen per 13-12-2010   
 
 ### C  
 
 ####Techniques to control PAH emissions from diesel- and petrol-fuelled motor vehicles
 
+Vervallen per 13-12-2010   
+
 ### 1  
 
 ####General aspects of control technologies
+
+Vervallen per 13-12-2010   
 
 ### 2  
 
 ####Technical measures for emission control
 
+Vervallen per 13-12-2010   
+
 ### a)  
 
 #### *Diesel engines* 
 
+Vervallen per 13-12-2010   
+
 ### b)  
 
 ####Petrol engines
+
+Vervallen per 13-12-2010   
 
 ### Annex  VIII  
 
@@ -659,7 +719,7 @@ Installations or parts of installations for research, development and the testin
 ####LIST OF CATEGORIES
 
 | Category  | Description of the category  |
-|:---|:---|
+|---|---|
 | 1  | Incineration, including co-incineration, of municipal, hazardous or medical waste, or of sewage sludge.  |
 | 2  | Sinter plants.  |
 | 3  | Primary and secondary production of copper.  |
@@ -683,29 +743,29 @@ De Partijen, Vastbesloten het Verdrag betreffende grensoverschrijdende luchtvero
 
 Voor de toepassing van dit Protocol wordt verstaan onder: 
 
-1. „Verdrag": het Verdrag betreffende grensoverschrijdende luchtverontreiniging over lange afstand, aangenomen te Genève op 13 november 1979;  
+1. „Verdrag”: het Verdrag betreffende grensoverschrijdende luchtverontreiniging over lange afstand, aangenomen te Genève op 13 november 1979;  
 
-2. „EMEP": het programma voor samenwerking inzake de bewaking en evaluatie van het transport van luchtverontreinigende stoffen over lange afstand in Europa;  
+2. „EMEP”: het programma voor samenwerking inzake de bewaking en evaluatie van het transport van luchtverontreinigende stoffen over lange afstand in Europa;  
 
-3. „Uitvoerend orgaan": het uitvoerend orgaan voor het Verdrag, opgericht ingevolge artikel 10, eerste lid, van het Verdrag;  
+3. „Uitvoerend orgaan”: het uitvoerend orgaan voor het Verdrag, opgericht ingevolge artikel 10, eerste lid, van het Verdrag;  
 
-4. „Commissie": de Economische Commissie voor Europa van de Verenigde Naties;  
+4. „Commissie”: de Economische Commissie voor Europa van de Verenigde Naties;  
 
-5. „Partijen": tenzij in de context anders bedoeld, de Partijen bij dit Protocol;  
+5. „Partijen”: tenzij in de context anders bedoeld, de Partijen bij dit Protocol;  
 
-6. „Geografische reikwijdte van het EMEP": het gebied, als omschreven in artikel 1, vierde punt, van het Protocol bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand aangaande de langlopende financiering van het programma voor samenwerking inzake de bewaking en evaluatie van het transport van luchtverontreinigende stoffen over lange afstand in Europa (EMEP), aangenomen te Genève op 28 september 1984;  
+6. „Geografische reikwijdte van het EMEP”: het gebied, als omschreven in artikel 1, vierde punt, van het Protocol bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand aangaande de langlopende financiering van het programma voor samenwerking inzake de bewaking en evaluatie van het transport van luchtverontreinigende stoffen over lange afstand in Europa (EMEP), aangenomen te Genève op 28 september 1984;  
 
-7. „Persistente organische verontreinigende stoffen (POP's)": organische stoffen die i. toxische eigenschappen hebben, ii. persistent zijn, iii. bioaccumuleren, iv. vatbaar zijn voor grensoverschrijdend transport in de lucht over lange afstand en depositie en v. zowel in de nabijheid van hun bron als ver daarvandaan belangrijke schadelijke effecten op de volksgezondheid en het milieu kunnen veroorzaken;  
+7. „Persistente organische verontreinigende stoffen (POP's)”: organische stoffen die i. toxische eigenschappen hebben, ii. persistent zijn, iii. bioaccumuleren, iv. vatbaar zijn voor grensoverschrijdend transport in de lucht over lange afstand en depositie en v. zowel in de nabijheid van hun bron als ver daarvandaan belangrijke schadelijke effecten op de volksgezondheid en het milieu kunnen veroorzaken;  
 
-8. „Stof": een afzonderlijke chemische stof of een aantal chemische stoffen die een specifieke groep vormen op grond van het feit dat zij a soortgelijke eigenschappen hebben en samen in het milieu worden uitgestoten of b een mengsel vormen dat normaliter als één artikel in de handel wordt gebracht;  
+8. „Stof”: een afzonderlijke chemische stof of een aantal chemische stoffen die een specifieke groep vormen op grond van het feit dat zij a soortgelijke eigenschappen hebben en samen in het milieu worden uitgestoten of b een mengsel vormen dat normaliter als één artikel in de handel wordt gebracht;  
 
-9. „Emissie": uitstoot van een stof in de atmosfeer vanuit een punt of een diffuse bron;  
+9. „Emissie”: uitstoot van een stof in de atmosfeer vanuit een punt of een diffuse bron;  
 
-10. „Stationaire bron": alle vaste gebouwen, constructies, inrichtingen, installaties of apparaten die een persistente organische verontreinigende stof direct of indirect in de atmosfeer uitstoten of kunnen uitstoten;  
+10. „Stationaire bron”: alle vaste gebouwen, constructies, inrichtingen, installaties of apparaten die een persistente organische verontreinigende stof direct of indirect in de atmosfeer uitstoten of kunnen uitstoten;  
 
-11. „Belangrijke categorie van stationaire bronnen": een in bijlage VIII vermelde categorie van stationaire bronnen;  
+11. „Belangrijke categorie van stationaire bronnen”: een in bijlage VIII vermelde categorie van stationaire bronnen;  
 
-12. „Nieuwe stationaire bron": een stationaire bron met de bouw of ingrijpende wijziging waarvan een aanvang is gemaakt na het verstrijken van twee jaar na de datum van inwerkingtreding van: i. dit Protocol of ii. een amendement op bijlage III of VIII, waarbij de stationaire bron enkel en alleen krachtens dat amendement aan de bepalingen van dit Protocol wordt onderworpen. Het is aan de bevoegde nationale autoriteiten om te beslissen of een wijziging al dan niet ingrijpend is, rekening houdend met factoren als de voordelen van de wijziging in milieuopzicht.    
+12. „Nieuwe stationaire bron”: een stationaire bron met de bouw of ingrijpende wijziging waarvan een aanvang is gemaakt na het verstrijken van twee jaar na de datum van inwerkingtreding van: i. dit Protocol of ii. een amendement op bijlage III of VIII, waarbij de stationaire bron enkel en alleen krachtens dat amendement aan de bepalingen van dit Protocol wordt onderworpen. Het is aan de bevoegde nationale autoriteiten om te beslissen of een wijziging al dan niet ingrijpend is, rekening houdend met factoren als de voordelen van de wijziging in milieuopzicht.    
 
 ### Artikel  2  
 
@@ -986,7 +1046,7 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Prot
 Tenzij in dit Protocol anders wordt vermeld, is deze bijlage niet van toepassing op onderstaande stoffen wanneer deze voorkomen: i. als verontreinigingen in producten of ii. in artikelen die op de uitvoeringsdatum reeds vervaardigd of in gebruik zijn of iii. als tot de locatie beperkte chemische tussenproducten bij de vervaardiging van één of meer stoffen en derhalve chemisch worden omgezet. Tenzij anders wordt vermeld, treedt elke onderstaande verplichting in werking op de datum waarop het Protocol van kracht wordt.  
 
 | Stof  | Uitvoeringsvoorschriften  |
-|:---|:---|
+|---|---|
 | Staking van  | Voorwaarden  |
 | Aldrin CAS: 309-00-2  | Productie  | Geen  |
 | Gebruik  | Geen  |
@@ -1020,7 +1080,7 @@ Tenzij in dit Protocol anders wordt vermeld, is deze bijlage niet van toepassing
 Tenzij in dit Protocol anders wordt vermeld, is deze bijlage niet van toepassing op onderstaande stoffen wanneer deze voorkomen: i. als verontreinigingen in producten of ii. in artikelen die op de uitvoeringsdatum reeds vervaardigd of in gebruik zijn of iii. als tot de locatie beperkte chemische tussenproducten bij de vervaardiging van één of meer stoffen en derhalve chemisch worden omgezet. Tenzij anders wordt vermeld, treedt elke onderstaande verplichting in werking op de datum waarop het Protocol van kracht wordt.  
 
 | Stof  | Uitvoeringsvoorschriften  |
-|:---|:---|
+|---|---|
 | Gebruiksbeperkingen  | Voorwaarden  |
 | DDT CAS: 50-29-3  | 1. Voor de bescherming van de volksgezondheid tegen ziekten als malaria en encefalitis.  | 1. Uitsluitend toegestaan als onderdeel van een strategie voor geïntegreerde plaagbestrijding, uitsluitend voor zover nodig en uitsluitend tot één jaar na de datum waarop de productie overeenkomstig bijlage I wordt gestaakt.  |
 | 2. Als chemisch tussenproduct voor de productie van dicofol.  | 2. Het gebruik wordt uiterlijk twee jaar na de datum waarop dit Protocol van kracht wordt opnieuw geëvalueerd.  |
@@ -1034,7 +1094,7 @@ Tenzij in dit Protocol anders wordt vermeld, is deze bijlage niet van toepassing
 ####In artikel 3, lid 5, punt a, bedoelde stoffen en het referentiejaar voor de verplichting
 
 | Stof  | Referentiejaar  |
-|:---|:---|
+|---|---|
 | PAK's  <sup> 1   *Polycyclische aromatische koolwaterstoffen (PAK's):* met het oog op emissie-inventarisaties worden de volgende vier indicatorstoffen gebruikt: benzo(a)pyreen, benzo(b)fluorantheen, benzo(k)fluorantheen en indeno(1,2,3-cd)pyreen.    </sup> | 1990 of een ander jaar in de periode van 1985 tot en met 1995, zoals bij bekrachtiging, aanvaarding, goedkeuring of toetreding door een partij bepaald.  |
 | Dioxinen/furanen  <sup> 2   *Dioxinen en furanen (PCDD/F)*: polychloordibenzo-p-dioxinen (PCDD's) en polychloordibenzofuranen (PCDF') zijn tricyclische aromatische verbindingen die bestaan uit twee benzeenringen die met elkaar verbonden zijn door twee zuurstofatomen in PCDD's en één zuurstofatoom in PCDF's en waarvan de waterstofatomen kunnen worden vervangen door maximaal acht chlooratomen.    </sup> | 1990 of een ander jaar in de periode van 1985 tot en met 1995, zoals bij bekrachtiging, aanvaarding, goedkeuring of toetreding door een partij bepaald.  |
 | Hexachloorbenzeen  | 1990 of een ander jaar in de periode van 1985 tot en met 1995, zoals bij bekrachtiging, aanvaarding, goedkeuring of toetreding door een partij bepaald.  |
@@ -1095,7 +1155,7 @@ Gevaarlijk afval (verbranding van meer dan 1 ton per uur) 0,2 ng TE/m³
 
 ### 1  
 
-Deze bijlage is bedoeld om de Partijen bij het verdrag richtsnoeren te geven bij de bepaling van de beste beschikbare technieken zodat ze kunnen voldoen aan de verplichtingen in artikel 3, lid 5, van het Protocol.  
+Het doel van deze bijlage is de Partijen bij het Verdrag richtlijnen te verschaffen voor het identificeren van de beste beschikbare technieken teneinde te kunnen voldoen aan de verplichtingen in artikel 3, vijfde lid, van het Protocol. Een door de Partijen tijdens een zitting van het uitvoerend orgaan aangenomen leidraad bevat een nadere beschrijving van en richtlijnen voor dergelijke beste beschikbare technieken. Deze leiddraad kan wanneer nodig bij consensus van de Partijen bijeen in het uitvoerend orgaan worden geactualiseerd.  
 
 ### 2  
 
@@ -1133,11 +1193,11 @@ De informatie over de effectiviteit en de kosten van beperkende maatregelen is g
 
 ### 4  
 
-Er wordt voortdurend nieuwe ervaring opgedaan met nieuwe installaties waar technieken met een geringe emissie worden gebruikt en de aanpassing van bestaande installaties. De bijlage zal dan ook periodiek moeten worden geëvalueerd en aangepast. De beste beschikbare technieken voor nieuwe installaties kunnen meestal ook voor bestaande installaties worden gebruikt, mits er een adequate overgangsperiode is en de technieken worden aangepast.  
+Er wordt voortdurend nieuwe ervaring opgedaan met nieuwe installaties waar technieken met een geringe emissie worden gebruikt alsook met de aanpassing van bestaande installaties. Daarom zal regelmatige bewerking en aanpassing van de leidraad bedoeld in paragraaf 1 noodzakelijk zijn. De beste beschikbare technieken voor nieuwe installaties kunnen meestal ook voor bestaande installaties worden gebruikt, mits er een adequate overgangsperiode is en de technieken worden aangepast.  
 
 ### 5  
 
-In de bijlage is een aantal beperkende maatregelen met uiteenlopende kosten en efficiëntie opgenomen. Bij de keuze van maatregelen voor een specifiek geval zal rekening worden gehouden met een aantal factoren, zoals de economische situatie, de technologische infrastructuur en capaciteit, en eventuele reeds genomen maatregelen om de luchtverontreiniging te beperken.  
+In de leidraad bedoeld in het eerste lid is een aantal beperkende maatregelen met uiteenlopende kosten en efficiency opgenomen. Bij de keuze van maatregelen voor een specifiek geval zal rekening worden gehouden met een aantal factoren, zoals de economische situatie, de technologische infrastructuur en capaciteit en eventuele reeds genomen maatregelen om de luchtverontreiniging te beperken.  
 
 ### 6  
 
@@ -1351,7 +1411,7 @@ c. Er zijn gasreinigingsmethoden ontwikkeld waarbij de rookgassen eerst worden g
 ###*Tabel 1:* Vergelijking van de verschillende methoden voor rookgasreiniging en proceswijzigingen in afvalverbrandingsinstallaties om de PCDD/F-uitstoot te beperken
 
 | Mogelijkheden  | Emissie-niveau (%)  <sup> 1   Restemissie in vergelijking met emissie zonder maatregelen.    </sup> | Geraamde kosten  | Risico's  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Primaire maatregelen door wijziging van het toegevoerde materiaal:  – Verwijdering van precursors en chloorhoudend materiaal; en  – Beheer van de afvalstromen.  | Resultaat voor emissie-niveau niet gekwantificeerd; lijkt niet lineair afhankelijk te zijn van de omvang van de materiaal-toevoer.  | --- | Sortering vooraf van materiaaltoevoer niet effectief; inzameling slechts gedeeltelijk mogelijk; ander chloorhoudend materiaal, zoals keukenzout of papier, kan niet worden vermeden. Voor gevaarlijk chemisch afval is dit niet wenselijk. Nuttige primaire maatregel en geschikt voor speciale gevallen (b.v. afgewerkte olie of elektrische onderdelen) met recycling van materialen als mogelijk extra voordeel.  |
 | Wijziging van de procestechnologie:  – Optimale omstandigheden bij verbranding;  – Voorkomen van temperaturen onder 850°C en koele gebieden in de rookgassen;  – Voldoende zuurstofgehalte; regulering van de zuurstoftoevoer afhankelijk van de verbrandingswaarde en de consistentie van de materiaaltoevoer; en  – Voldoende verblijftijd en turbulentie.  | --- | --- | Het hele procédé moet achteraf worden aangepast.  |
 | Maatregelen voor rookgassen:  | --- | --- | --- |
@@ -1374,7 +1434,7 @@ c. Er zijn gasreinigingsmethoden ontwikkeld waarbij de rookgassen eerst worden g
 ###*Tabel 2:* Beperking van de PCDD/F-uitstoot in de metallurgische industrie
 
 | Mogelijkheden  | Emissieniveau (%)  <sup> 1   Restemissie in vergelijking met emissie zonder maatregelen.    </sup> | Geraamde kosten  | Risico's  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Sinterfabrieken  | --- | --- | --- |
 | *Primaire maatregelen*:  | --- | --- | --- |
 | – Optimalisering/inkapseling van sintertransportbanden;  | --- | Laag  | Niet 100% haalbaar  |
@@ -1534,7 +1594,7 @@ Uit metingen bij houtverbrandingsinstallaties blijkt dat PCDD/F-concentraties bo
 ###*Tabel 3:* Gekwantificeerde emissieconcentraties en -factoren voor houtverbrandingsinstallaties
 
 | Brandstof  | Emissie-concentratie (ng TE/m³ )  | Emissie-factor (ng TE/kg)  | Emissie-factor (ng/GJ)  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Onbewerkt hout (beukenhout)  | 0,02 - 0,10  | 0,23 - 1,3  | 12 - 70  |
 | Onbewerkte houtsnippers uit bossen  | 0,07 - 0,21  | 0,79 - 2,6  | 43 - 140  |
 | Spaanplaat  | 0,02 - 0,08  | 0,29 - 0,9  | 16 - 50  |
@@ -1550,295 +1610,37 @@ De verbranding van stedelijk afvalhout (sloophout) in bewegende roosters leidt t
 
 ####TECHNIEKEN VOOR DE BEPERKING VAN DE PAK-EMISSIE
 
+Vervallen per 13-12-2010   
+
 ### A  
 
 ####Kooksproductie
 
-### 49  
-
-Bij de productie van kooks komen PAK's met name in de buitenlucht terecht: 
-
-a. Bij het laden van de oven door de vulgaten;  
-
-b. Door lekkage via de ovendeur, de klimpijpen en de deksels van de vulgaten; en  
-
-c. Bij het leegdrukken van de oven en het afkoelen van de kooks.    
-
-### 50  
-
-Qua concentratie van benzo(a)pyreen (BaP) lopen de verschillende bronnen in een kooksbatterij sterk uiteen. De hoogste BaP-concentraties worden aan de bovenkant van de batterij en in de directe omgeving van de deuren gemeten.  
-
-### 51  
-
-De PAK-emissie bij de kooksproductie kan worden beperkt door de bestaande geïntegreerde ijzer- en staalfabrieken technisch te verbeteren. Dit kan betekenen dat oude kooksbatterijen worden gesloten en vervangen en dat de kooksproductie in zijn algemeenheid afneemt ten gunste van bijvoorbeeld de injectie van hoogwaardige kolen bij de staalproductie.  
-
-### 52  
-
-Een strategie ter beperking van de PAK-emissie door kooksbatterijen moet onder andere de volgende technische maatregelen omvatten: 
-
-a. Vullen van de kooksovens: 
-
-– Beperking van de deeltjesemissie bij het laden van de kolen uit de bunker in de vulwagens;  
-
-– Gesloten systemen voor de verplaatsing van kolen wanneer gebruik wordt gemaakt van voorverwarming van kolen;  
-
-– Afzuiging en daarna behandeling van de vulgassen, hetzij door de gassen in de dichtstbijzijnde oven te brengen, hetzij door ze via een verzamelleiding naar een naverbrander en vervolgens een stofafscheider te transporteren. In sommige gevallen kunnen de opgevangen vulgassen op de vulwagens worden verbrand, maar deze op vulwagens gebaseerde systemen leveren voor het milieu en qua veiligheid minder goede resultaten op. Door stoom- of waterinjectie in de klimpijpen moet voor voldoende zuiging worden gezorgd;    
-
-b. Emissie bij de deksels van de vulgaten tijdens de verkooksing moet worden voorkomen door: 
-
-– Het gebruik van vulgatdeksels die zeer goed afsluiten;  
-
-– Afdichting van de vulgatdeksels met klei (of een even effectief materiaal) na iedere vulling;  
-
-– Reiniging van de vulgatdeksels en -ringen voordat de vulgaten gesloten worden;  
-
-– Zorgen dat de bovenkant van de oven vrij van kolenresten blijft;    
-
-c. De deksels van de klimpijpen moeten van watersloten worden voorzien om te voorkomen dat gas en teer ontsnapt en de sloten moeten geregeld worden gereinigd om te zorgen dat ze goed blijven functioneren;  
-
-d. De installatie om de kooksovendeuren te bedienen moet worden voorzien van systemen om het oppervlak van de afsluitingen op de deuren en deurramen van de oven te reinigen;  
-
-e. Kooksovendeuren: 
-
-– Er moet een zeer goede afdichting worden gebruikt (b.v. membraandeuren onder veerdruk);  
-
-– De afdichting op de ovendeuren en de deurramen moet na ieder gebruik grondig worden gereinigd;  
-
-– De deuren moeten zodanig worden ontworpen dat er een systeem voor het opvangen van deeltjes kan worden geïnstalleerd dat (via een verzamelleiding) bij het leegdrukken op een stofvanginstallatie kan worden aangesloten;    
-
-f. De kookstransportmachine moet worden voorzien van een vaste afzuigkap, een vaste afvoerleiding en een vast gasreinigingssysteem (bij voorkeur een doekfilter);  
-
-g. Bij het kooksblussen moeten emissiearme procedures worden gevolgd, bijvoorbeeld droge kooksblussing. Het verdient de voorkeur een nat blusprocédé te vervangen door droge kooksblussing, mits er een systeem met een gesloten circulatie wordt gebruikt om te voorkomen dat er afvalwater ontstaat. De hoeveelheid stof die bij de verwerking van droog gebluste kooks ontstaat, moet worden beperkt.    
-
-### 53  
-
-Het zogenaamde „non-recovery-cokemaking" proces emitteert aanzienlijk minder PAK dan het gangbaarder procédé met terugwinning van de bijproducten. Dit komt doordat er in dat geval een onderdruk in de oven heerst, zodat lekkage via de kooksovendeuren naar de buitenlucht onmogelijk is. Bij het verkooksen wordt het ruwgas uit de oven verwijderd door een natuurlijke trek, die voor een onderdruk in de oven zorgt. Deze ovens zijn niet geschikt voor de terugwinning van de chemische bijproducten uit ruwgas. In plaats daarvan worden de rookgassen van het verkooksingsproces (met PAK's) efficiënt verbrand bij hoge temperaturen en een lange verblijftijd. De afvalwarmte van deze verbranding wordt gebruikt voor de energievoorziening bij het verkooksen en het warmteoverschot kan worden gebruikt om stoom te maken. Met het oog op het rendement van dit verkooksingsprocédé is wellicht een installatie voor warmtekrachtkoppeling nodig om met de overmaat stoom elektriciteit op te kunnen wekken. Momenteel draait er slechts één kooksfabriek zonder terugwinning in de Verenigde Staten en één in Australië. Het procédé komt neer op een horizontale kameroven zonder terugwinning met een verbrandingskamer tussen twee ovens. De twee ovens worden om en om gevuld en verkookst. Zo is er altijd één oven die de verbrandingskamer van kooksovengas voorziet. De benodigde warmtebron wordt geleverd door de verbranding van kooksovengas in de verbrandingskamer. Het ontwerp van de verbrandingskamer zorgt voor de benodigde verblijfstijd (ongeveer 1 seconde) en hoge temperaturen (minimaal 900°C).  
-
-### 54  
-
-Er moet een effectief programma worden gebruikt voor de controle op lekkages uit de afdichting van de kooksovendeuren, de klimpijpen en de vulgatdeksels. Dit betekent controle op en registratie van lekkages met onmiddellijk herstel of onderhoud. Op deze manier kan een significante beperking van de diffuse emissie worden verwezenlijkt.  
-
-### 55  
-
-Aanpassing van bestaande kooksbatterijen om de condensatie van rookgassen uit alle bronnen (met warmteterugwinning) te vergemakkelijken zorgt voor een daling van de PAK-emissie in de lucht met 86 tot meer dan 90% (afvalwaterzuivering niet meegerekend). Rekening houdend met de teruggewonnen energie, het verwarmde water, het synthesegas en het bespaarde koelwater kunnen de investeringskosten in vijf jaar worden afgeschreven.  
-
-### 56  
-
-Bij een stijging van het volume van de kooksoven daalt het totale aantal ovens, het aantal keren dat de ovendeur wordt geopend (het aantal leeggedrukte ovens per dag), het aantal afdichtingen in een kooksbatterij en derhalve de PAK-emissie. Door een daling van de bedrijfs- en personeelskosten neemt ook de productiviteit toe.  
-
-### 57  
-
-Droge kooksblussystemen vereisten hogere investeringen dan natte methoden. De hogere bedrijfskosten kunnen worden gecompenseerd door de terugwinning van warmte die voor de oorverwarming van de kolen kan worden gebruikt. De energie-efficiëntie van een gecombineerd systeem met droge kooksblussing en voorverwarming van de kolen stijgt van 38 tot 65%. Door voorverwarming van de kolen neemt de productiviteit met 30% toe. Dit kan tot 40% worden opgevoerd omdat het verkooksingsproces homogener verloopt.  
-
-### 58  
-
-Alle tanks en installaties voor de opslag en behandeling van koolteer en koolteerproducten moeten worden voorzien van een efficiënte dampretourleiding en/of een dampafbraaksysteem. De bedrijfskosten van dampafbraaksystemen kunnen bij een autonoom naverbrandingsprocédé worden beperkt als de concentratie van de koolstofverbindingen in het afval hoog genoeg is.  
-
-### 59  
-
-Tabel 4 geeft een overzicht van de maatregelen ter beperking van de PAK-emissie bij de kooksproductie. 
-###*Tabel 4:* Beperking van de PAK-emissie bij de kooksproductie
-
-| Mogelijkheden  | Emissieniveau (%)  <sup> 1   Restemissie in vergelijking met emissie zonder maatregelen.    </sup> | Geraamde kosten  | Risico's  |
-|:---|:---|:---|:---|
-| Aanpassing van oude installaties met condensatie van de rookgassen uit alle bronnen omvat de volgende maatregelen:  | Totaal < 10 (zonder afvalwater)  | Hoog  | Zeer hoge emissie in afvalwater bij nat blussen. Deze methode mag alleen worden toegepast als het water in een gesloten systeem opnieuw wordt gebruikt.  |
-| – Opvanging en naverbranding van de vulgassen bij het vullen van ovens of transport van de gassen naar de dichtstbijzijnde oven, voor zover mogelijk;  | 5  | (Rekening houdend met de terugwinning van energie, warm water, synthesegas en besparingen op koelwater kunnen de investeringskosten in 5 jaar worden afgeschreven).  | --- |
-| – De emissie bij vulgatdeksels moet zoveel mogelijk worden voorkomen, bijvoorbeeld door een speciale constructie van de deksels en zeer effectieve afdichtingsmethoden. Kooksovendeuren moeten een zeer effectieve afdichting hebben. Vóór het sluiten van de vulgaten moeten de vulgatdeksels en -ringen worden gereinigd;  | < 5  | --- | --- |
-| – Gassen die bij het leegdrukken vrijkomen moeten worden opgevangen en naar een stofafscheider worden getransporteerd;  | < 5  | --- | --- |
-| Kooksblussen uitsluitend met natte methoden als deze op correcte wijze zonder afvalwater worden uitgevoerd.  | --- | --- | --- |
-| Emissiearme procedures voor het blussen van kooks, bijvoorbeeld droog kooksblussen.  | Geen emissie in water  | Hogere investeringskosten dan bij nat blussen (maar lagere kosten door het voorverwarmen van kolen en het gebruik van afvalwarmte).  | --- |
-| --- | --- | --- | --- |
-| Intensiever gebruik van ovens met een hoog volume om de oven minder vaak te hoeven openen en het oppervlak van de afdichtingen te beperken.  | Aanzienlijk  | Investeringen ongeveer 10% hoger dan bij klassieke installaties.  | Meestal moet de kooksfabriek volledig worden aangepast of moet er een nieuwe kooksfabriek worden gebouwd.  |
+Vervallen per 13-12-2010   
 
 ### B  
 
 ####Anodeproductie
 
-### 60  
-
-De PAK-emissie bij de productie van anodes moet op een soortgelijke manier worden aangepakt als bij de productie van kooks.  
-
-### 61  
-
-Om de emissie van stof dat met PAK's verontreinigd is te beperken worden de volgende secundaire maatregelen gebruikt: 
-
-a. Elektrostatische teerafscheiding;  
-
-b. Combinatie van een klassieke elektrostatische teerafscheider met een natte elektrostatische afscheider om de efficiëntie te verhogen;  
-
-c. Thermische naverbranding van de afvalgassen; en  
-
-d. Droge gasreiniging met kalksteen/petroleumkooks of aluminiumoxide (Al <sub>2</sub> O <sub>3</sub>).    
-
-### 62  
-
-De bedrijfskosten bij thermische naverbranding kunnen worden beperkt door autotherme naverbranding als de concentratie van de koolstofverbindingen in de rookgassen hoog genoeg is. Tabel 5 bevat een overzicht van de maatregelen ter beperking van de PAK-emissie bij de anodeproductie. 
-###*Tabel 5:* Beperking van de PAK-emissie bij de anodeproductie
-
-| Mogelijkheden  | Emissieniveau (%)  <sup> 1   Restemissie in vergelijking met emissie zonder maatregelen.    </sup> | Geraamde kosten  | Risico's  |
-|:---|:---|:---|:---|
-| Modernisering van oude installaties door beperking van de diffuse emissie met de volgende maatregelen:  | 3 - 10  | Hoog  | --- |
-| --- | --- | --- | --- |
-| – Beperking van de lekkage;  | --- | --- | --- |
-| – Installatie van flexibele afdichtingen bij de ovendeuren;  | --- | --- | --- |
-| – Opvanging van de vulgassen die vervolgens naar de dichtstbijzijnde oven worden geleid of via een verzamelleiding naar een verbrandingsoven en vervolgens een stofvanger worden geleid;  | --- | --- | --- |
-| – Koelsystemen voor de kooksoven; en  | --- | --- | --- |
-| – Opvanging en zuivering van de deeltjesemissie van kooks.  | --- | --- | --- |
-| --- | --- | --- | --- |
-| Ingeburgerde technologie voor de anodeproductie in Nederland:  | 45 - 50  | --- | In 1990 in Nederland ingevoerd. Gasreiniging met kalksteen of petroleumkooks is een goede manier om de PAK-emissie te beperken; voor aluminium is dit niet bekend.  |
-| – Nieuwe droogoven met droge gasreiniging (met kalksteen/petroleumkooks of met aluminium);  | --- | --- | --- |
-| – Recycling van het effluens in de pasta-installatie.  | --- | --- | --- |
-| --- | --- | --- | --- |
-| BBT:  | --- | --- | --- |
-| --- | --- | --- | --- |
-| – Elektrostatische stofvangers; en  | 2 - 5  | --- | Periodieke reiniging van teer is nodig.  |
-| – Thermische naverbranding.  | 15  | Lagere bedrijfskosten bij autonome verbranding  | Autonome verbranding alleen mogelijk als de PAK-concentratie in de rookgassen hoog is.  |
+Vervallen per 13-12-2010   
 
 ### C  
 
 ####Aluminiumindustrie
 
-### 63  
-
-Aluminium wordt vervaardigd uit aluminiumoxide (AL <sub>2</sub> O <sub>3</sub>) door elektrolyse in elektrisch in serie geschakelde cellen. De cellen worden afhankelijk van de aard van de anode ingedeeld als „Prebake" of Soederberg-cel.  
-
-### 64  
-
-„Prebake" cellen hebben anodes die bestaan uit gecalcineerde (gebakken) koolblokken die na gedeeltelijk verbruik worden vervangen. Soederberg-anodes worden in de cel gebakken met een mengsel van petroleumkooks en koolteerpek als bindmiddel.  
-
-### 65  
-
-De PAK-emissie is bij het Soederbergprocédé erg hoog. Primaire bestrijdingsmaatregelen zijn bijvoorbeeld modernisering van bestaande installaties en optimalisering van de processen, waardoor de PAK-emissie met 70-90% kan worden teruggedrongen. Een emissieniveau van 0,015 kg B(a)P/ton Al is haalbaar. Vervanging van de bestaande Soederberg-cellen door „Prebake" cellen zou een ingrijpende omschakeling van het huidige procédé vergen, maar zou betekenen dat de PAK-emissie vrijwel verdwijnt. De investeringskosten van een dergelijke vervanging zijn zeer hoog.  
-
-### 66  
-
-Tabel 6 bevat een overzicht van de maatregelen ter beperking van de PAK-emissie voor de aluminiumproductie. 
-###*Tabel 6:* Beperking van de PAK-emissie bij de aluminiumproductie met het Soederberg-proces
-
-| Mogelijkheden  | Emissieniveau (%)  <sup> 1   Restemissie in vergelijking met emissie zonder maatregelen.    </sup> | Geraamde kosten  | Risico's  |
-|:---|:---|:---|:---|
-| Vervanging van de Soederberg-elektrodes door:  | --- | --- | --- |
-| – „Prebake" elektrodes (zonder gebruik van pekbindmiddelen);  | 3 - 30  | Hogere kosten voor elektrodes ongeveer 800 miljoen USD  | Soederberg-elektrodes zijn goedkoper dan „Prebake" elektrodes, omdat er geen installatie nodig is voor het bakken van anodes.  |
-| – Inerte anodes  | --- | --- | Het onderzoek vordert, maar de verwachtingen zijn niet hoog gespannen.  |
-| – Gesloten systemen met „Prebake" elektrodes met centrale toevoer van aluminiumoxide en efficiënte procesbewaking, kappen over de hele cel die een efficiënte opvang van luchtverontreiniging mogelijk maken.  | 1-5  | --- | Een efficiënte bedrijfsvoering en monitoring van de emissie zijn van essentieel belang voor de emissiebeperking. Bij slechte uitvoering kan er een significante diffuse emissie ontstaan.  |
-| Soederberg-cellen met verticale contactbouten en opvangsystemen voor de afvalgassen.  | > 10  | Aanpassing van Soederberg-technolo-gie door inkapseling en gewijzigd toevoerpunt: 50.000 - 10.000 USD per oven.  | Diffuse emissie treedt op bij de toevoer, het breken van de korst en het optillen van de ijzeren contactbouten naar een hogere positie.  |
-| Sumitomo-technologie (anodebriketten voor VSS-proces).  | --- | Laag - middelhoog  | --- |
-| --- | --- | --- | --- |
-| Gasreiniging:  | --- | --- | --- |
-| --- | --- | --- | --- |
-| – Elektrostatische teerafscheiders;  | 2 - 5  | Laag  | Veel vonken en lichtbogen;  |
-| – Combinatie van conventionele elektrostatische teerafscheiders met elektrostatische natte gasreiniging;  | > 1  | Middelhoog  | Bij natte gasreiniging ontstaat afvalwater.  |
-| – Thermische naverbranding.  | --- | Middelhoog  | --- |
-| --- | --- | --- | --- |
-| Gebruik van pek met een hoger smeltpunt (HSS + VSS).  | Hoog  | Laag - middelhoog  | --- |
-| --- | --- | --- | --- |
-| Gebruik van droge gasreiniging in bestaande HSS + VSS-installaties  | --- | Middelhoog - hoog  | --- |
+Vervallen per 13-12-2010   
 
 ### D  
 
 ####Huisverwarmingsinstallaties
 
-### 67  
-
-Bij huisverwarmingsinstallaties zoals kachels of open haarden kan PAK-emissie worden waargenomen, vooral wanneer hout of kolen worden gebruikt. Huishoudens kunnen een belangrijke bron van PAK-emissie zijn. Dit komt door het gebruik van open haarden en kleine stookinstallaties waar vaste brandstoffen worden verbrand. In sommige landen worden als brandstof voor kachels meestal kolen gebruikt. Kachels waarin kolen worden verbrand hebben een lagere PAK-emissie dan kachels waarin hout wordt verbrand, omdat de verbrandingstemperatuur hoger is en de brandstofkwaliteit consistenter.  
-
-### 68  
-
-Bovendien zijn er verbrandingssystemen met geoptimaliseerde functionele karakteristieken (b.v. de verbrandingssnelheid) die zorgen voor een effectieve beperking van de PAK-emissie door huisverwarmingsinstallaties. Geoptimaliseerde verbrandingsomstandigheden omvatten een geoptimaliseerd ontwerp van de verbrandingskamer en een geoptimaliseerde luchttoevoer. Er zijn verschillende technieken waarmee de verbrandingsomstandigheden worden geoptimaliseerd en de emissie wordt beperkt. Wat de emissie betreft zijn er significante verschillen tussen de verschillende technieken. Een moderne houtverbrandingsketel met een wateropvangtank, hetgeen overeenkomt met de BBT, zorgt voor een emissiebeperking met meer dan 90% in vergelijking met een ouderwetse ketel zonder wateropvangtank. Een moderne ketel heeft drie verschillende zones: een stookzone voor de vergassing van hout, een gasverbrandingszone met keramiek of een ander materiaal dat temperaturen tot zo'n 1000°C mogelijk maakt, en een convectiezone. De convectiezone, waar de warmte door het water wordt geabsorbeerd, moet zo lang en effectief zijn dat de gastemperatuur van 1000°C tot 250°C of minder kan dalen. Er zijn ook verschillende technieken om oude en verouderde ketels te voorzien van bijvoorbeeld wateropvangtanks, keramische bekleding en pellet-branders.  
-
-### 69  
-
-Een geoptimaliseerde verbrandingssnelheid gaat gepaard met een lage emissie van koolmonoxide (CO), de totale hoeveelheid koolwaterstoffen (TKW) en PAK's. De vaststelling van grenswaarden (regelingen voor typegoedkeuring) voor de emissie van CO en TKW heeft ook gevolgen voor de PAK-emissie. Bij een lage emissie van CO en TKW is ook de PAK-emissie laag. Aangezien PAK-metingen veel duurder zijn dan CO-metingen, is de vaststelling van een grenswaarde voor CO en TKW kosteneffectiever. Er wordt gewerkt aan een voorstel voor een CEN-norm voor kolen- en houtverbrandingsketels tot 300 kW (zie tabel 7). 
-###*Tabel 7:* Ontwerp van CEN-norm in 1997
-
-| Klasse  |--- | 3  | 2  | 1  | 3  | 2  | 1  | 3  | 2  | 1  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| --- | Effect (kW)  | CO  | TKW  | Deeltjes  |
-| Manueel  | < 50  | 5000  | 8000  | 25000  | 150  | 300  | 2000  | 150/ 125  | 180150  | 200/180  |
-| --- | 50-150  | 2500  | 5000  | 12500  | 100  | 200  | 1500  | 150/125  | 180/150  | 200/ 180  |
-| --- | 150-300  | 1200  | 2000  | 12500  | 100  | 200  | 1500  | 150/125  | 180/150  | 200/ 180  |
-| Automatisch  | < 50  | 3000  | 5000  | 15000  | 100  | 200  | 1750  | 150/ 125  | 180/150  | 200/180  |
-| --- | 50-150  | 2500  | 4500  | 12500  | 80  | 150  | 1250  | 150/125  | 180/150  | 200/ 180  |
-| --- | 150-300  | 1200  | 2000  | 12500  | 80  | 150  | 1250  | 150/125  | 180/150  | 200/ 180  |
-
-NB: De emissieniveaus zijn vermeld in mg/m³ bij 10% O <sub>2</sub>.  
-
-### 70  
-
-De emissie van houtkachels voor woningen kan worden beperkt: 
-
-a. Voor bestaande kachels door voorlichtings- en bewustmakingsprogramma's om de gebruikers ervan te doordringen dat de kachels goed moeten worden gebruikt, dat uitsluitend onbehandeld hout moet worden gebruikt, dat een goede voorbereiding van de brandstof nodig is en dat het hout voldoende moet worden gedroogd;  
-
-b. Voor nieuwe kachels door de toepassing van productnormen, zoals beschreven in het ontwerp van de CEN-norm (en gelijkwaardige productnormen in de Verenigde Staten en Canada).    
-
-### 71  
-
-Voor de beperking van de PAK-emissie kunnen ook meer algemene maatregelen worden genomen, zoals de ontwikkeling van gecentraliseerde systemen voor huishoudens en energiebesparing door bijvoorbeeld verbeterde thermische isolatie om het energieverbruik terug te dringen.  
-
-### 72  
-
-Tabel 8 bevat een overzicht van de informatie. 
-###*Tabel 8:* Beperking van de PAK-emissie door huisverwarmingsinstallaties
-
-| Mogelijkheden  | Emissieniveau (%)  <sup> 1   Restemissie in vergelijking met emissie zonder maatregelen.    </sup> | Geraamde kosten  | Risico's  |
-|:---|:---|:---|:---|
-| Gebruik van gedroogde kolen en hout (gedroogd hout is hout dat tenminste 18–24 maanden is bewaard).  | Hoge effectiviteit  | --- | --- |
-| Gebruik van gedroogde kolen.  | Hoge effectiviteit  | --- | --- |
-| --- | --- | --- | --- |
-| Ontwerp van verwarmingssystemen voor vaste brandstoffen waarin de omstandigheden voor een volledige verbranding geoptimaliseerd zijn:  | 55  | Middelhoog  | Er moeten besprekingen worden gehouden met de fabrikanten van kachels voor de invoering van een regeling voor de goedkeuring van kachels.  |
-| – Vergassingszone;  | --- | --- | --- |
-| – Verbranding met keramiek;  | --- | --- | --- |
-| – Effectieve convectiezone.  | --- | --- | --- |
-| Wateropvangtank.  | --- | --- | --- |
-| --- | --- | --- | --- |
-| Technische instructies voor een efficiënt gebruik.  | 30 - 40  | Laag  | Kan ook worden verwezenlijkt door een goede voorlichting van het publiek, gecombineerd met praktische instructies en een regeling voor de typegoedkeuring van kachels.  |
-| --- | --- | --- | --- |
-| Publiekvoorlichtingsprogramma voor het gebruik van houtkachels.  | --- | --- | --- |
+Vervallen per 13-12-2010   
 
 ### E  
 
 ####Installaties voor houtverduurzaming
 
-### 73  
-
-Houtverduurzaming met PAK-houdende koolteerproducten kan een belangrijke bron van PAK-emissie in de lucht zijn. De emissie kan zich voordoen tijdens het impregneerproces zelf en tijdens de opslag, de bewerking en het gebruik van het geïmpregneerde hout in de open lucht.  
-
-### 74  
-
-De meest gebruikte PAK-houdende koolteerproducten zijn carbolineum en creosoot. Dit zijn beide PAK-houdende koolteerdestillaten voor de bescherming van hout tegen biologische aantasting.  
-
-### 75  
-
-De PAK-emissie door houtverduurzaming, installaties en opslagplaatsen, kan op verschillende manieren worden beperkt, afzonderlijk of gecombineerd ingevoerd, zoals: 
-
-a. Voorschriften voor de opslagomstandigheden om de verontreiniging van bodem en oppervlaktewater door PAK-uitloging en verontreinigd regenwater te voorkomen (b.v. regendichte opslagplaatsen, dakbedekking, hergebruik van verontreinigd water bij het impregneerproces, kwaliteitseisen voor het vervaardigde materiaal);  
-
-b. Maatregelen om de emissie in de lucht bij impregneerinstallaties te beperken (zo zou het warme hout van 90°C tot maximaal 30°C moeten worden afgekoeld voordat het naar opslagplaatsen wordt overgebracht. Een andere methode waarbij het hout onder vacuümomstandigheden met behulp van stoom onder druk met creosoot wordt geïmpregneerd, moet echter als BBT worden geaccentueerd);  
-
-c. Een optimale dosering van houtverduurzamingsmiddel, waarbij het behandelde houtproduct in situ een adequate bescherming krijgt, kan als BBT worden beschouwd aangezien de behoefte aan vervanging daardoor wordt beperkt, hetgeen leidt tot een daling van de emissie door installaties voor houtverduurzaming;  
-
-d. Gebruik van houtverduurzamingsmiddelen met een lager gehalte aan PAK's die tot de POP's behoren: 
-
-– Mogelijk gebruik van gewijzigd creosoot, zijnde een destilleerfractie met kookpunt tussen 270°C en 355°C, waardoor de emissie van zowel de vluchtigere PAK's als de zwaardere toxischere PAK's wordt beperkt;  
-
-– Ontmoediging van het gebruik van carbolineum zorgt ook voor een beperking van de PAK-emissie;    
-
-e. Evaluatie en vervolgens eventueel gebruik van alternatieven, zoals vermeld in tabel 9, waardoor het gebruik van PAK-houdende producten tot een minimum wordt beperkt.    
-
-### 76  
-
-Verbranding van geïmpregneerd hout leidt tot de emissie van PAK's en andere schadelijke stoffen. Als dit hout wordt verbrand, moet het in installaties met adequate zuiveringstechnieken gebeuren. 
-###*Tabel 9:* Mogelijke alternatieven voor houtverduurzaming met PAK-houdende producten
-
-| Mogelijkheden  | Risico's  |
-|:---|:---|
-| Gebruik van andere materialen:  | andere milieuproblemen moeten worden geëvalueerd, zoals:  |
-| – duurzaam geproduceerd hardhout (rivieroevers, omheiningen, poorten);  | – beschikbaarheid van op de juiste wijze geproduceerd hout;  |
-| – kunststof (palen voor de tuinbouw);  | --- |
-| – beton (dwarsliggers voor de spoorwegen);  | --- |
-| – natuurlijke in plaats van kunstmatige constructies (rivieroevers, omheiningen enz.);  | – emissie die ontstaat bij de productie en verwijdering van kunststoffen, met name PVC.  |
-| – onbehandeld hout.  | --- |
-| Er zijn verschillende andere houtverduurzamingstechnieken in ontwikkeling waarbij geen impregnering met PAK-houdende producten plaatsvindt.  | --- |
+Vervallen per 13-12-2010   
 
 ### Bijlage  VI  
 
@@ -1854,208 +1656,79 @@ b. Voor bestaande stationaire bronnen: acht jaar na de datum waarop dit Protocol
 
 ####Aanbevolen maatregelen ter beperking van de emissie van persistente organische verontreinigende stoffen door mobiele bronnen
 
-### 1  
-
-Voor de relevante definities wordt verwezen naar bijlage III van dit Protocol.  
+Vervallen per 13-12-2010   
 
 ### I  
 
 ####HAALBARE EMISSIENIVEAUS VOOR NIEUWE VOERTUIGEN EN BRANDSTOF-PARAMETERS
 
+Vervallen per 13-12-2010   
+
 ### A  
 
 ####Haalbare emissieniveaus voor nieuwe voertuigen
 
-### 2  
-
-####Personenauto's met dieselmotor
-
-| Jaar  | Referentiemassa  | Grenswaarden  |
-|:---|:---|:---|
-| Massa koolwaterstoffen en NO <sub>x</sub>  | Massa deeltjes  |
-| 01.1.2000  | Alle  | 0,56 g/km  | 0,05 g/km  |
-| 01.1.2005 (indicatief)  | Alle  | 0,3 g/km  | 0,025 g/km  |
-
-### 3  
-
-####Vrachtwagens
-
-| Jaar/proefcyclus  | Grenswaarden  |
-|:---|:---|
-| Massa koolwaterstoffen  | Massa deeltjes  |
-| 01.1.2000/ESC-cyclus  | 0,66 g/kWh  | 0,1 g/kWh  |
-| 01.1.2000/ETC-cyclus  | 0,85 g/kWh  | 0,16 g/kWh  |
-
-### 4  
-
-####Terreinvoertuigen
-
-Stap 1 (referentie: ECE-reglement nr. 96) <sup> *  “Uniform provisions concerning the approval of compression ignition (C.I.) engines to be installed in agricultural and forestry tractors with regard to the emissions of pollutants by the engine". Het reglement is op 15 december 1995 van kracht geworden en de wijziging is op 5 maart 1997 van kracht geworden.  </sup>  
-
-| Nettovermogen (P) (kW)  | Massa koolwaterstoffen  | Massa deeltjes  |
-|:---|:---|:---|
-| P ≥ 130  | 1,3 g/kWh  | 0,54 g/kWh  |
-| 75 ≤ P < 130  | 1,3 g/kWh  | 0,70 g/kWh  |
-| 37 ≤ P < 75  | 1,3 g/kWh  | 0,85 g/kWh  |
-
-Stap 2  
-
-| Nettovermogen (P) (kW)  | Massa koolwaterstoffen  | Massa deeltjes  |
-|:---|:---|:---|
-| 0 ≤ P < 18  | --- | --- |
-| 18 ≤ P < 37  | 1,5 g/kWh  | 0,8 g/kWh  |
-| 37 ≤ P < 75  | 1,3 g/kWh  | 0,4 g/kWh  |
-| 75 ≤ P < 130  | 1,0 g/kWh  | 0,3 g/kWh  |
-| 130 ≤ P < 560  | 1,0 g/kWh  | 0,2 g/kWh  |
+Vervallen per 13-12-2010   
 
 ### B  
 
 ####Brandstofparameters
 
-### 5  
-
-####Dieselbrandstof
-
-| Parameter  | Eenheid  | Grenswaarden  | Testmethode  |
-|:---|:---|:---|:---|
-| Minimum (2000/2005)  <sup> *   1 januari van het vermelde jaar.    </sup> | Maximum (2000/2005)  <sup> *   1 januari van het vermelde jaar.    </sup> |
-| Cetaangetal  | --- | 51/n.g.  | –  | ISO 5165  |
-| Dichtheid bij 15°C  | kg/m³  | –  | 845/n.g.  | ISO 3675  |
-| Verdamping 95%  | °C  | –  | 360/n.g.  | ISO 3405  |
-| PAK's  | massa %  | –  | 11/n.g.  | prIP 391  |
-| Zwavel  | ppm  | –  | 350/50  <sup> **   indicatieve waarde.    </sup> | ISO 14956  |
-
-n.g.: niet gespecificeerd.  
+Vervallen per 13-12-2010   
 
 ### II  
 
 ####BEPERKING VAN GEHALOGENEERDE LOODVANGERS, ADDITIEVEN IN BRANDSTOFFEN EN SMEERMIDDELEN
 
-### 6  
-
-In sommige landen wordt 1,2-dibroommethaan in combinatie met 1,2-dichloormethaan als loodvanger in gelode benzine gebruikt. Bovendien ontstaat er tijdens het verbrandingsproces in de motor PCDD/F. Voor de toepassing van driewegkatalysatoren in auto's moet er ongelode benzine worden gebruikt. De toevoeging van loodvangers en andere gehalogeneerde verbindingen aan benzine en andere brandstoffen en aan smeermiddelen moet zo veel mogelijk worden vermeden.  
-
-### 7  
-
-Tabel 1 bevat een overzicht van de maatregelen ter beperking van de PCDD/F-emissie in de uitlaatgassen van motorvoertuigen voor het wegverkeer. 
-###*Tabel 1:* Beperking van de PCDD/F-emissie in de uitlaatgassen van motorvoertuigen voor het wegverkeer
-
-| Mogelijkheden  | Risico's  |
-|:---|:---|
-| Geen toevoeging van gehalogeneerde verbindingen aan brandstoffen  – 1,2-dichloormethaan  | Het gebruik van gehalogeneerde loodvangers zal geleidelijk worden gestaakt naarmate de markt voor gelode benzine krimpt omdat er voor motoren met elektrische ontsteking steeds meer gebruik wordt gemaakt van driewegkatalysatoren met een gesloten systeem.  |
-| – 1,2-dichloormethaan en de dienovereenkomstige broomverbindingen als loodvangers in gelode brandstoffen voor motoren met elektrische ontsteking (uit broomverbindingen kunnen broomdioxines of -furanen ontstaan).  | --- |
-| --- | --- |
-| Geen gebruik van gehalogeneerde additieven in brandstoffen en smeermiddelen.  | --- |
+Vervallen per 13-12-2010   
 
 ### III  
 
 ####MAATREGELEN TER BEPERKING VAN DE EMISSIE VAN POP'S DOOR MOBIELE BRONNEN
 
+Vervallen per 13-12-2010   
+
 ### A  
 
 ####Emissie van POP's door motorvoertuigen
 
-### 8  
-
-De POP-emissie door motorvoertuigen doet zich voor in de vorm van aan deeltjes gebonden PAK's die door voertuigen met een dieselmotor worden uitgestoten. PAK's worden ook uitgestoten door voertuigen met benzinemotor, maar in mindere mate.  
-
-### 9  
-
-Smeerolie en brandstoffen kunnen door het gebruik van additieven of door het productieprocédé gehalogeneerde verbindingen bevatten. Deze verbindingen kunnen tijdens de verbranding in PCDD/F worden omgezet die vervolgens met de uitlaatgassen worden uitgestoten.  
+Vervallen per 13-12-2010   
 
 ### B  
 
 ####Keuring en onderhoud
 
-### 10  
-
-Voor mobiele bronnen met dieselmotor kan de effectiviteit van de emissiebeperking van PAK's worden gewaarborgd door programma's om de mobiele bronnen periodiek te keuren op de emissie van deeltjes, de opaciteit bij vrije acceleratie of gelijkwaardige methoden.  
-
-### 11  
-
-Voor mobiele bronnen met benzinemotor kan de effectiviteit van de emissiebeperking van PAK's (naast andere bestanddelen van de uitlaatgassen) worden gewaarborgd door programma's voor een periodieke keuring van de brandstofregeling en de efficiëntie van de katalysator.  
+Vervallen per 13-12-2010   
 
 ### C  
 
 ####Technieken voor de beperking van de PAK-emissie door motorvoertuigen met diesel- en benzinemotor
 
+Vervallen per 13-12-2010   
+
 ### 1  
 
 ####Algemene aspecten van de gebruikte technologie
 
-### 12  
-
-Het is belangrijk ervoor te zorgen dat de voertuigen zodanig worden ontworpen dat zij tijdens het gebruik aan de emissienormen voldoen. Dit kan gebeuren door waarborging van de conformiteit van de productie, levenslange duurzaamheid, kwaliteitsgarantie voor onderdelen voor emissieregulering en het terughalen van voertuigen die gebreken vertonen. Bij gebruikte voertuigen kan door een effectief keurings- en onderhoudsprogramma worden gewaarborgd dat zij aan de normen voor emissiebeperking blijven voldoen.  
+Vervallen per 13-12-2010   
 
 ### 2  
 
 ####Technische maatregelen ter beperking van de emissie
 
-### 13  
-
-De volgende maatregelen ter beperking van de PAK-emissie zijn belangrijk: 
-
-a. Specificaties voor de brandstofkwaliteit en wijzigingen in de motoren om de emissie te beperken voordat deze ontstaat (primaire maatregelen); en  
-
-b. Toevoeging van systemen om de uitlaatgassen te reinigen, zoals oxidatiekatalysatoren of deeltjesvangers (secundaire maatregelen).    
+Vervallen per 13-12-2010   
 
 ### a  
 
 #### *Dieselmotoren* 
 
-### 14  
-
-Wijziging van dieselbrandstof kan twee positieve effecten hebben: door een lager zwavelgehalte worden er minder deeltjes uitgestoten en wordt het omzettingsrendement van oxidatiekatalysatoren opgevoerd en door een beperking van de hoeveelheid di- en tricyclische aromaten worden er minder PAK's gevormd en uitgestoten.  
-
-### 15  
-
-Een primaire maatregel om de emissie te beperken is wijziging van de motor om voor een vollediger verbranding te zorgen. Er zijn veel verschillende wijzigingen in gebruik. In het algemeen wordt de samenstelling van de uitlaatgassen beïnvloed door wijzigingen in het ontwerp van de verbrandingskamer en door een hogere druk bij de brandstofinspuiting. Op dit moment worden in de meeste dieselmotoren mechanische regelsystemen gebruikt. In nieuwere motoren worden steeds vaker geautomatiseerde elektronische regelsystemen gebruikt die meer flexibiliteit bij de regulering van de emissie mogelijk maken. Een andere technologie om de emissie te beperken is een combinatie van uitlaatgasturbo en tussenkoeling. Dit systeem leidt tot een beperking van de NO <sub>x</sub> -emissie, brandstofbesparing en een toename van het afgegeven vermogen. Voor zware en lichte motoren is ook het gebruik van inlaatspruitstukafstelling een mogelijkheid.  
-
-### 16  
-
-Smeeroliebeperking is belangrijk om de verontreiniging door zwevende deeltjes terug te dringen, aangezien 10 tot 50% van de deeltjes uit motorolie ontstaat. Het olieverbruik kan worden beperkt door verbetering van de fabricagespecificaties voor motoren en door een betere afdichting van de motoren.  
-
-### 17  
-
-Secundaire maatregelen om de emissie te beperken houden in dat er systemen voor de behandeling van uitlaatgassen worden toegevoegd. In het algemeen is gebleken dat het gebruik van een oxidatiekatalysator in combinatie met een deeltjesfilter voor dieselmotoren goede resultaten oplevert bij de beperking van de PAK-emissie. Er wordt momenteel gewerkt aan de evaluatie van een deeltjesvanger-oxidator. Deze wordt aangebracht in het uitlaatsysteem voor het opvangen van zwevende deeltjes en kan tot op zekere hoogte zorgen voor regeneratie van het filter door verbranding van de opgevangen deeltjes met behulp van elektrische verwarming van het systeem of door een andere regeneratiemethode. Voor een echte regeneratie van passieve deeltjesvangers tijdens normaal gebruik is een regeneratiesysteem met een brander nodig of moeten additieven worden gebruikt.  
+Vervallen per 13-12-2010   
 
 ### b  
 
 #### *Benzinemotoren* 
 
-### 18  
-
-PAK-beperkende maatregelen voor benzinemotoren zijn vooral gebaseerd op het gebruik van een driewegkatalysator met gesloten systeem, waardoor de emissie van koolwaterstoffen in het algemeen en dus ook van PAK's wordt beperkt.  
-
-### 19  
-
-Door een verbetering van het gedrag bij een koude start wordt de emissie van organische verbindingen in het algemeen en PAK's in het bijzonder beperkt (bijvoorbeeld startkatalysatoren, betere brandstofverdamping/verstuiving, verwarmde katalysatoren).  
-
-### 20  
-
-Tabel 2 bevat een overzicht van de maatregelen ter beperking van de PAK-emissie in de uitlaatgassen van motorvoertuigen voor het wegverkeer. 
-###*Tabel 2:* Beperking van de PAK-emissie in de uitlaatgassen van motorvoertuigen voor het wegverkeer
-
-| Mogelijkheden  | Emissieniveau (%)  | Risico's  |
-|:---|:---|:---|
-| Motoren met elektrische ontsteking:  | --- | --- |
-| – driewegkatalysator met gesloten systeem,  | 10-20  | Beschikbaarheid van ongelode benzine  |
-| – katalysatoren voor de beperking van de emissie bij koude start.  | 5-15  | In sommige landen in de handel verkrijgbaar  |
-| --- | --- | --- |
-| Brandstof voor motoren met elektrische ontsteking:  | --- | Beschikbaarheid van raffinagecapaciteit  |
-| – beperking van aromatische verbindingen,  | --- | --- |
-| – beperking van zwavel.  | --- | --- |
-| --- | --- | --- |
-| Dieselmotoren:  | --- | --- |
-| – oxidatiekatalysator,  | 20-70  | --- |
-| – vangeroxidator/deeltjesfilter.  | --- | --- |
-| --- | --- | --- |
-| Wijziging dieselbrandstof:  | --- | Beschikbaarheid van raffinagecapaciteit.  |
-| – beperking van de hoeveelheid zwavel om de deeltjesemissie terug te dringen.  | --- | --- |
-| Verbetering van de specificaties voor dieselmotoren:  | --- | Bestaande technologie.  |
-| – elektronisch regelsysteem, aanpassing inspuitsnelheid en brandstofinspuiting onder hoge druk,  | --- | --- |
-| – uitlaatgasturbo en tussenkoeling,  | --- | --- |
-| – recirculatie van uitlaatgassen.  | --- | --- |
+Vervallen per 13-12-2010   
 
 ### Bijlage  VIII  
 
@@ -2071,8 +1744,8 @@ Installaties of delen van installaties voor onderzoek, ontwikkeling en de beproe
 ####OVERZICHT VAN DE CATEGORIEËN
 
 | Categorie  | Beschrijving van de categorie  |
-|:---|:---|
-| 1  | Verbranding, met inbegrip van bijstoken, van stedelijk, gevaarlijk of medisch afval of van zuiveringsslib.  |
+|---|---|
+| 1  | Afvalverbranding, met inbegrip van bijstoken, van stedelijk, gevaarlijk, niet-gevaarlijk en medisch afval en zuiveringsslib.  |
 | 2  | Sinterfabrieken.  |
 | 3  | Primaire en secundaire productie van koper.  |
 | 4  | Staalproductie.  |
@@ -2084,4 +1757,6 @@ Installaties of delen van installaties voor onderzoek, ontwikkeling en de beproe
 | 10  | Anodeproductie.  |
 | 11  | Aluminiumproductie met het Soederberg-procédé.  |
 | 12  | Installaties voor houtverduurzaming, behalve voor een partij waarvoor deze categorie geen significante bijdrage tot de totale emissie van PAK's (zoals gedefinieerd in bijlage III) levert.  |
+| 13  | specifieke chemische productieprocessen waarbij onbedoeld gevormde persistente organische verontreinigende stoffen vrijkomen, in het bijzonder de productie van chloorfenolen en chloranil.  |
+| 14  | Thermische processen in de metallurgische industrie, op chloor gebaseerde methoden.  |
 
