@@ -258,7 +258,7 @@ IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed t
 
 ### Annexes  
 
-De bijlagen zijn niet afgedrukt; deze liggen ter inzage bij het Vervoersinformatiecentrum van het Ministerie van Verkeer en Waterstaat en bij de parlementaire documentatiedienst van de Tweede Kamer in Den Haag.    
+Ligt ter inzage bij het Ministerie van Buitenlandse Zaken, afdeling Verdragen en gepubliceerd op http://live.unece.org/trans/danger/publi/adn/adn2011/11files_e.html.    
 
 ####Europees Verdrag inzake het internationale vervoer van gevaarlijke goederen over de binnenwateren (ADN)
 
@@ -453,7 +453,7 @@ b. Evenwel kan elke staat op wiens grondgebied er binnenwateren zijn die vallen 
 6.  Voor het nemen van besluiten is een quorum van ten minste de helft van de Verdragsluitende Partijen vereist.   
 7.  Voorstellen worden onderworpen aan stemming. Elke bij de zitting vertegenwoordigde Verdragsluitende Partij heeft een stem. De volgende regels zijn van toepassing: 
 
-a. Voorgestelde wijzigingen van de Voorschriften in de bijlagen en besluiten die daarop betrekking hebben worden aangenomen in overeenstemming met de bepalingen van artikel 19, tweede lid;  
+a. Voorgestelde wijzigingen van het Verdrag en besluiten die daarop betrekking hebben worden aangenomen in overeenstemming met de bepalingen van artikel 19, tweede lid;  
 
 b. Voorgestelde wijzigingen van de Voorschriften in de bijlagen en besluiten die daarop betrekking hebben worden aangenomen in overeenstemming met de bepalingen van artikel 20, vierde lid;  
 
@@ -516,4 +516,4 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 ### Bijlagen  
 
-De bijlagen zijn niet afgedrukt; deze liggen ter inzage bij het Vervoersinformatiecentrum van het Ministerie van Verkeer en Waterstaat en bij de parlementaire documentatiedienst van de Tweede Kamer in Den Haag.    
+Ligt ter inzage bij het Ministerie van Buitenlandse Zaken, afdeling Verdragen.    

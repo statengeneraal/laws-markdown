@@ -4,7 +4,7 @@
 
 Wij Juliana, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz.
 
-Op de voordracht van Onze Minister van Landbouw en Visserij van 19 augustus 1975, No. J1815, Directie Juridische en Bedrijfsorganisatorische Zaken;
+Op de voordracht van Onze Minister van Landbouw en Visserij van 19 augustus 1975, No. J 1815, Directie Juridische en Bedrijfsorganisatorische Zaken;
 
 Gelet op [artikel 53, tweede lid, van de Visserijwet 1963](../../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md);
 
@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Voor het leiden van zittingen of andere bijeenkomsten van de Kamer voor de Binnenvisserij wordt aan de plaatsvervangende voorzitter een vergoeding toegekend van € 67,– per uur per dag.  
+Voor het leiden van zittingen of andere bijeenkomsten van de Kamer voor de Binnenvisserij wordt aan de plaatsvervangende voorzitter een vergoeding toegekend van € 67,– per 1 januari 2011: € 73,– per uur.  
 
 ### Artikel  2  
 
-Voor het bijwonen van zittingen of andere bijeenkomsten van de Kamer voor de Binnenvisserij wordt aan de leden een vergoeding toegekend van € 67,– per uur.  
+Voor het bijwonen van zittingen of andere bijeenkomsten van de Kamer voor de Binnenvisserij wordt aan de leden een vergoeding toegekend van € 67,– per 1 januari 2011: € 73,– per uur.  
 
 ### Artikel  3  
 
-Voor het houden van besprekingen, welke buiten de zittingen en andere bijeenkomsten van de Kamer voor de Binnenvisserij op voorstel van de voorzitter elders plaatsvinden, wordt aan de leden een vergoeding toegekend van € 67,– per uur.  
+Voor het houden van besprekingen, welke buiten de zittingen en andere bijeenkomsten van de Kamer voor de Binnenvisserij op voorstel van de voorzitter elders plaatsvinden, wordt aan de leden een vergoeding toegekend van € 67,– per 1 januari 2011: € 73,– per uur.  
 
 ### Artikel  3a  
 
