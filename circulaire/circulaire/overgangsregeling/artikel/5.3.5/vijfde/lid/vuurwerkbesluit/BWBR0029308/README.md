@@ -18,5 +18,5 @@ Om vast te kunnen leggen welke vuurwerkartikelen onder de overgangsbepaling tot 
 21 december 2010   
 
 De 
-Staatssecretaris van Infrastructuur en Milieu,
-J.J.Atsma   
+Staatssecretaris van Infrastructuur en Milieu, 
+J.J. Atsma     

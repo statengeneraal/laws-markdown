@@ -12,18 +12,18 @@ Besluit:
 
 ### Artikel  I  
 
-Aanvragen voor de tender in 2010 in het kader van de Vietnam Faciliteit op grond van het [besluit van de minister voor Ontwikkelingssamenwerking van 27 augustus 2009](../../../../../../../../../../../ministeriele-regeling/besluit/vaststelling/beleidsregels/en/subsidieplafond/subsidieverlening/ex/etc/BWBR0026343/README.md), nr. HAN/2009-244, kunnen worden ingediend uiterlijk maandag 26 april 2010, 15:00 uur. Het subsidieplafond voor deze tender bedraagt € 1.087.500.  
+Aanvragen voor de tender in 2010 in het kader van de Vietnam Faciliteit op grond van het [besluit van de minister voor Ontwikkelingssamenwerking van 27 augustus 2009](../../../../../../../../../../../ministeriele-regeling/besluit/vaststelling/beleidsregels/en/subsidieplafond/subsidieverlening/ex/etc/BWBR0026343/README.md), nr. HAN/2009-244, kunnen worden ingediend uiterlijk maandag 26 april 2010, 15:00 uur. Het subsidieplafond voor deze tender bedraagt € 1.087.500. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit vaststelling beleidsregels en subsidieplafond subsidieverlening ex Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Vietnam Faciliteit).   
+Wijzigt het Besluit vaststelling beleidsregels en subsidieplafond subsidieverlening ex Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Vietnam Faciliteit). 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.  
 
 De 
-minister van Buitenlandse Zaken, voor deze:
+minister van Buitenlandse Zaken, voor deze: 
 de plaatsvervangend directeur-generaal Internationale Samenwerking, 
-A.Haspels   
+A. Haspels     

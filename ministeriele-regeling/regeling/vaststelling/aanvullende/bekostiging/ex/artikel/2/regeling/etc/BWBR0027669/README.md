@@ -10,13 +10,13 @@ Besluit:
 
 ### Artikel  1  
 
-De aanvullende bekostiging, bedoeld in [artikel 2 van Regeling aanvullende bekostiging maatschappelijke stage in het voortgezet onderwijs voor de schooljaren 2008/2009 tot en met 2010/2011](../../../../../../../../../../../ministeriele-regeling/regeling/aanvullende/bekostiging/maatschappelijke/stage/in/het/voortgezet/etc/BWBR0023969/README.md), bedraagt voor het schooljaar 2010/2011 per leerling € 60 met een minimum van € 18.000,– per school.  
+De aanvullende bekostiging, bedoeld in [artikel 2 van Regeling aanvullende bekostiging maatschappelijke stage in het voortgezet onderwijs voor de schooljaren 2008/2009 tot en met 2010/2011](../../../../../../../../../../../ministeriele-regeling/regeling/aanvullende/bekostiging/maatschappelijke/stage/in/het/voortgezet/etc/BWBR0023969/README.md), bedraagt voor het schooljaar 2010/2011 per leerling € 60 met een minimum van € 18.000,– per school. 
 
 ### Artikel  2  
 
-Deze regeling treedt in werking op de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking op de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-J.M. vanBijsterveldt-Vliegenthart   
+J.M. van Bijsterveldt-Vliegenthart     

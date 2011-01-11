@@ -15,12 +15,12 @@ c. de hoogte van het van toepassing zijnde uurloon, weekloon, dan wel maandloon 
 d. het aantal werkdagen en werkuren per week van de werknemer; en  
 
 e. de naam van de werkgever, de naam van het bedrijf of de instelling, het door de inspecteur der belastingen verstrekte identificatienummer van de werkgever, het adres, het telefoonnummer van het bedrijf en het emailadres van de werkgever.     
-2.  De in het eerste lid vermelde gegevens worden uiterlijk binnen twee weken na de melding van de ziekte of het ongeval aan Onze Minister verstrekt door middel van de formulieren, die hiervoor door Onze Minister ter beschikking worden gesteld en, voor zover het betreft het loon van de werknemer, voorzien van schriftelijke bewijsstukken.   
+2.  De in het eerste lid vermelde gegevens worden uiterlijk binnen twee weken na de melding van de ziekte of het ongeval aan Onze Minister verstrekt door middel van de formulieren, die hiervoor door Onze Minister ter beschikking worden gesteld en, voor zover het betreft het loon van de werknemer, voorzien van schriftelijke bewijsstukken.  
 
 ### Artikel  2  
 
-Dit besluit berust op [artikel 12, vierde lid, van de Wet ongevallenverzekering BES](../../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md) en [artikel 12, vierde lid, van de Wet ziekteverzekering BES](../../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md).  
+Dit besluit berust op [artikel 12, vierde lid, van de Wet ongevallenverzekering BES](../../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md) en [artikel 12, vierde lid, van de Wet ziekteverzekering BES](../../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md).
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Besluit inlichtingenverplichtingen werknemersverzekeringen BES.  
+Dit besluit wordt aangehaald als: Besluit inlichtingenverplichtingen werknemersverzekeringen BES. 

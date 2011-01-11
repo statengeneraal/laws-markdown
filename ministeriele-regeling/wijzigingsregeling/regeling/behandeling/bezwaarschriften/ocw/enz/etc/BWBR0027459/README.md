@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling behandeling bezwaarschriften OCW.   
+Wijzigt de Regeling behandeling bezwaarschriften OCW. 
 
 ### Artikel  II  
 
-Wijzigt de Regeling vaste vergoeding voorzitters Commissie voor bezwaarschriften OCW.   
+Wijzigt de Regeling vaste vergoeding voorzitters Commissie voor bezwaarschriften OCW. 
 
 ### Artikel  III  
 
-[Artikel 1, tweede lid, van de Regeling vaste vergoeding voorzitters Commissie voor bezwaarschriften OCW](../../../../../../../../../ministeriele-regeling/regeling/vaste/vergoeding/voorzitters/commissie/voor/bezwaarschriften/ocw/BWBR0026035/README.md), zoals dat artikel luidde op 31 januari 2010, blijft van toepassing met betrekking tot de afhandeling van betalingsverplichtingen die voor die datum zijn ontstaan.  
+[Artikel 1, tweede lid, van de Regeling vaste vergoeding voorzitters Commissie voor bezwaarschriften OCW](../../../../../../../../../ministeriele-regeling/regeling/vaste/vergoeding/voorzitters/commissie/voor/bezwaarschriften/ocw/BWBR0026035/README.md), zoals dat artikel luidde op 31 januari 2010, blijft van toepassing met betrekking tot de afhandeling van betalingsverplichtingen die voor die datum zijn ontstaan. 
 
 ### Artikel  IV  
 
@@ -24,9 +24,9 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 a. Artikel I in werking treedt met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst, en daarbij terugwerkt tot en met 1 januari 2010; en  
 
-b. Artikel II in werking treedt met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst, en daarbij terugwerkt tot en met 1 februari 2010.    
+b. Artikel II in werking treedt met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst, en daarbij terugwerkt tot en met 1 februari 2010.   
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, 
-A.Rouvoet   
+A. Rouvoet     

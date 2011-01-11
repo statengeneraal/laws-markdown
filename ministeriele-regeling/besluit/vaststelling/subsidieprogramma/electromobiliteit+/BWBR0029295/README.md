@@ -8,34 +8,32 @@ Besluit:
 
 ### Artikel  1  
 
-Als subsidieprogramma als bedoeld in [artikel 2, aanhef en eerste lid, onderdeel a, van de Kaderregeling subsidies duurzaamheid verkeer en waterstaat](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md), wordt vastgesteld het Subsidieprogramma Electromobiliteit+, dat is opgenomen in de bijlage bij dit besluit.  
+Als subsidieprogramma als bedoeld in [artikel 2, aanhef en eerste lid, onderdeel a, van de Kaderregeling subsidies duurzaamheid verkeer en waterstaat](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md), wordt vastgesteld het Subsidieprogramma Electromobiliteit+, dat is opgenomen in de bijlage bij dit besluit. 
 
 ### Artikel  2  
 
-Op een subsidie die is aangevraagd of verleend voor 1 juli 2015 blijft dit besluit met het daarbij vastgestelde subsidieprogramma, zoals dat luidde op het tijdstip onmiddellijk voorafgaand aan 1 juli 2015, van toepassing.  
+Op een subsidie die is aangevraagd of verleend voor 1 juli 2015 blijft dit besluit met het daarbij vastgestelde subsidieprogramma, zoals dat luidde op het tijdstip onmiddellijk voorafgaand aan 1 juli 2015, van toepassing. 
 
 ### Artikel  3  
 
-Wijzigt het Besluit mandaat en machtiging Agentschap NL voor uitvoering subsidieregelingen en -programma’s Verkeer en Waterstaat.   
+Wijzigt het Besluit mandaat en machtiging Agentschap NL voor uitvoering subsidieregelingen en -programma’s Verkeer en Waterstaat. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van 1 januari 2011 en vervalt met ingang van 1 juli 2015.  
+Dit besluit treedt in werking met ingang van 1 januari 2011 en vervalt met ingang van 1 juli 2015. 
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Besluit vaststelling Subsidieprogramma Electromobiliteit+.  
+Dit besluit wordt aangehaald als: Besluit vaststelling Subsidieprogramma Electromobiliteit+. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Infrastructuur en Milieu,
-M.H.Schultz van Haegen-Maas Geesteranus  
+Minister van Infrastructuur en Milieu, 
+M.H. Schultz van Haegen-Maas Geesteranus    
 
 ### Bijlage  
 
-####bedoeld in artikel 1  van het Besluit vaststelling Subsidieprogramma Electromobiliteit+
-
-<sup> 1  Voor thema en doel van dit subsidieprogramma en voor de gekozen vorm van subsidie wordt verwezen naar de toelichting op het Besluit vaststelling Subsidieprogramma Electromobiliteit+.  </sup> 
+####bedoeld in artikel 1  van het Besluit vaststelling Subsidieprogramma Electromobiliteit+<sup> 1  Voor thema en doel van dit subsidieprogramma en voor de gekozen vorm van subsidie wordt verwezen naar de toelichting op het Besluit vaststelling Subsidieprogramma Electromobiliteit+.  </sup> 
 
 ### §  1  
 
@@ -63,15 +61,15 @@ i. subsidieontvanger: aanvrager die een subsidie op grond van dit subsidieprogra
 
 ####Toelichting
 
-Dit subsidieprogramma beoogt ondersteuning te geven aan het laten toenemen van kennis en inzichten in de technologische aspecten van twee onderzoeksgebieden op trans-nationaal niveau op het gebied van electromobiliteit. In bijlage A zijn de trans-nationale sleutelthema’s en deelonderwerpen van die onderzoeksgebieden opgenomen. Hierbij heeft Nederland binnen twee sleutelthema’s voor een aantal deelonderwerpen subsidiebudget beschikbaar. Uitsluitend met betrekking tot deze deelonderwerpen kunnen aanvragers een project indienen voor dit subsidieprogramma. Het subsidiebudget per deelonderwerp bepaalt daarbij het maximale bedrag dat als subsidie kan worden aangevraagd. De maximale projectduur bedraagt voor alle onderwerpen drie jaar. Het subsidieprogramma is bestemd voor Nederlandse projectpartners in een trans-nationale aanvraag. Een Nederlandse projectpartner kan een onderneming of een onderzoeksinstelling zijn. Een project mag zowel technologisch onderzoek als een beleidsstudie betreffen.  
+Dit subsidieprogramma beoogt ondersteuning te geven aan het laten toenemen van kennis en inzichten in de technologische aspecten van twee onderzoeksgebieden op trans-nationaal niveau op het gebied van electromobiliteit. In bijlage A zijn de trans-nationale sleutelthema’s en deelonderwerpen van die onderzoeksgebieden opgenomen. Hierbij heeft Nederland binnen twee sleutelthema’s voor een aantal deelonderwerpen subsidiebudget beschikbaar. Uitsluitend met betrekking tot deze deelonderwerpen kunnen aanvragers een project indienen voor dit subsidieprogramma. Het subsidiebudget per deelonderwerp bepaalt daarbij het maximale bedrag dat als subsidie kan worden aangevraagd. De maximale projectduur bedraagt voor alle onderwerpen drie jaar. Het subsidieprogramma is bestemd voor Nederlandse projectpartners in een trans-nationale aanvraag. Een Nederlandse projectpartner kan een onderneming of een onderzoeksinstelling zijn. Een project mag zowel technologisch onderzoek als een beleidsstudie betreffen. 
 
 ####Onderdeel c
 
-Het begrip onderneming is in [artikel 1 van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md) omschreven en heeft een zeer ruime betekenis: iedere eenheid, ongeacht haar rechtsvorm en ongeacht de wijze waarop zij wordt gefinancierd, die een economische activiteit uitoefent. Onderzoeksinstellingen kunnen aanvragen indienen voor niet-economische activiteiten, en zullen in dat geval als onderzoeksinstelling worden aangemerkt. Als een onderzoeksinstelling subsidie aanvraagt, gericht op economische activiteiten, wordt zij als onderneming aangemerkt. Voor de praktische toetsing van wat in deze wordt verstaan onder niet-economische activiteiten van een onderzoeksinstelling, wordt verwezen naar de Communautaire kaderregeling inzake staatssteun voor onderzoek ontwikkeling en innovatie (PB EU 2006/C 323). Primaire activiteiten van onderzoeksorganisaties bevatten normaliter geen economische activiteiten. Activiteiten inzake technologie-overdracht hebben geen economisch karakter indien het om interne activiteiten gaat en alle inkomsten uit deze activiteiten opnieuw in de primaire activiteiten van de onderzoeksorganisaties worden geïnvesteerd. Om voor de niet-economische activiteiten als onderzoeksinstelling in de zin van dit subsidieprogramma aangemerkt te kunnen worden, moet een instelling voor de economische en niet-economische activiteiten een strikt gescheiden boekhouding voeren.  
+Het begrip onderneming is in [artikel 1 van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md) omschreven en heeft een zeer ruime betekenis: iedere eenheid, ongeacht haar rechtsvorm en ongeacht de wijze waarop zij wordt gefinancierd, die een economische activiteit uitoefent. Onderzoeksinstellingen kunnen aanvragen indienen voor niet-economische activiteiten, en zullen in dat geval als onderzoeksinstelling worden aangemerkt. Als een onderzoeksinstelling subsidie aanvraagt, gericht op economische activiteiten, wordt zij als onderneming aangemerkt. Voor de praktische toetsing van wat in deze wordt verstaan onder niet-economische activiteiten van een onderzoeksinstelling, wordt verwezen naar de Communautaire kaderregeling inzake staatssteun voor onderzoek ontwikkeling en innovatie (PB EU 2006/C 323). Primaire activiteiten van onderzoeksorganisaties bevatten normaliter geen economische activiteiten. Activiteiten inzake technologie-overdracht hebben geen economisch karakter indien het om interne activiteiten gaat en alle inkomsten uit deze activiteiten opnieuw in de primaire activiteiten van de onderzoeksorganisaties worden geïnvesteerd. Om voor de niet-economische activiteiten als onderzoeksinstelling in de zin van dit subsidieprogramma aangemerkt te kunnen worden, moet een instelling voor de economische en niet-economische activiteiten een strikt gescheiden boekhouding voeren. 
 
 ####Onderdelen e tot en met g
 
-Een fundamenteel onderzoeksproject is het onderzoek dat het verst van commerciële toepassing is verwijderd. Dit betreft onderzoek, gericht op het uitbreiden van de algemene wetenschappelijke en technische kennis, zonder industriële of commerciële doelstellingen. Het industrieel onderzoeksproject is gericht op het opdoen van de noodzakelijke en relevante kennis om een nieuw product, procedé of dienst te ontwikkelen of om een bestaand product, procedé of dienst aanmerkelijk te verbeteren. Hieronder wordt begrepen het vervaardigen van onderdelen van complexe systemen die voor het industrieel onderzoek eventueel noodzakelijk zijn, met name voor algemene validering van technologieën. Het vervaardigen van een prototype vindt echter niet in deze fase plaats. Daarnaast kan dit onderzoek ook betrekking hebben op een zogenaamde beleidsstudie. Bij een experimenteel ontwikkelingsproject gaat het om het daadwerkelijk ontwikkelen van plannen, schema’s of ontwerpen van een nieuw, gewijzigd, verbeterd of alternatief product, procédé of dienst en de beproeving daarvan, echter nog niet in het commerciële stadium. Alle relevante wetenschappelijke, technische, zakelijke of andere kennis en vaardigheden kunnen hiervoor worden aangewend. De ontwikkeling van een prototype of proefproject kan weliswaar in deze fase plaatsvinden, maar de ontwikkeling van een commercieel bruikbaar prototype of proefproject is alleen toegestaan, indien het ontwikkelde prototype of het proefproject het commerciële eindproduct is en het economisch niet rendabel is om dit alleen voor demonstratie- en validatiedoeleinden te gebruiken.  
+Een fundamenteel onderzoeksproject is het onderzoek dat het verst van commerciële toepassing is verwijderd. Dit betreft onderzoek, gericht op het uitbreiden van de algemene wetenschappelijke en technische kennis, zonder industriële of commerciële doelstellingen. Het industrieel onderzoeksproject is gericht op het opdoen van de noodzakelijke en relevante kennis om een nieuw product, procedé of dienst te ontwikkelen of om een bestaand product, procedé of dienst aanmerkelijk te verbeteren. Hieronder wordt begrepen het vervaardigen van onderdelen van complexe systemen die voor het industrieel onderzoek eventueel noodzakelijk zijn, met name voor algemene validering van technologieën. Het vervaardigen van een prototype vindt echter niet in deze fase plaats. Daarnaast kan dit onderzoek ook betrekking hebben op een zogenaamde beleidsstudie. Bij een experimenteel ontwikkelingsproject gaat het om het daadwerkelijk ontwikkelen van plannen, schema’s of ontwerpen van een nieuw, gewijzigd, verbeterd of alternatief product, procédé of dienst en de beproeving daarvan, echter nog niet in het commerciële stadium. Alle relevante wetenschappelijke, technische, zakelijke of andere kennis en vaardigheden kunnen hiervoor worden aangewend. De ontwikkeling van een prototype of proefproject kan weliswaar in deze fase plaatsvinden, maar de ontwikkeling van een commercieel bruikbaar prototype of proefproject is alleen toegestaan, indien het ontwikkelde prototype of het proefproject het commerciële eindproduct is en het economisch niet rendabel is om dit alleen voor demonstratie- en validatiedoeleinden te gebruiken. 
 
 ### §  2  
 
@@ -81,7 +79,7 @@ De minister kan subsidie verlenen aan een aanvrager voor een project dat:
 
 1. betrekking heeft op de deelonderwerpen in bijlage A waarvoor door Nederland subsidie beschikbaar wordt gesteld, en  
 
-2. dat op trans-nationaal niveau gerangschikt wordt conform de beoordelingsprocedure in bijlage B.    
+2. dat op trans-nationaal niveau gerangschikt wordt conform de beoordelingsprocedure in bijlage B.   
 
 ### §  3  
 
@@ -101,7 +99,7 @@ e. voor het project na de tweede evaluatiestap zoals opgenomen in bijlage B, afh
 
 ####Toelichting
 
-Een aanvraag wordt op grond van [artikel 34, eerste lid, onderdeel a, van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md) afgewezen als die niet voldoet aan het bepaalde in deze regeling en dit subsidieprogramma. In artikel 34 van de kaderregeling zijn nog meer weigeringsgronden opgenomen. Zo wordt een aanvraag ook afgewezen, indien de minister aanwijzingen heeft dat de aanvrager het project onvoldoende kan financieren. Voor de beoordeling van de haalbaarheid van de financiering wordt gekeken naar de eigen middelen die de aanvrager kan inzetten en naar de middelen waarvan de aanvrager aantoont dat derden die ter beschikking zullen stellen. Daarnaast wordt het bedrag van de aangevraagde subsidie meegenomen in de beoordeling. Voorts wordt de subsidie geweigerd indien de minister aanwijzingen heeft dat de technische, organisatorische of economische haalbaarheid van het project onvoldoende is. Ook mogen de werkzaamheden voor het project niet zijn begonnen voor het indienen van de subsidieaanvraag en mogen voor die tijd nog geen verplichtingen ten behoeve van het project zijn aangegaan. Artikel 34, eerste lid, onderdeel d, van de kaderregeling biedt ruimte om een uitzondering te maken voor verplichtingen die worden aangegaan onder de ontbindende voorwaarde dat de subsidie wordt verleend. Deze voorwaarde moet zodanig zijn opgenomen, dat als de subsidie niet wordt verleend, partijen op geen enkele wijze, direct noch indirect, aan de betreffende overeengekomen verplichtingen zijn gebonden. Een aanvraag wordt op grond van artikel 34, eerste lid, onderdeel f, van de kaderregeling afgewezen indien een of meerdere van de niet in Nederland gevestigde deelnemers aan het project niet worden ondersteund vanuit hun nationale programma’s voor hun aandeel in de samenwerking in het ERA-NET. Ook mag ten aanzien van de subsidieontvanger geen uitstaand bevel tot terugvordering van staatssteun bestaan op grond van een eerdere beschikking van de Europese Commissie. Daarnaast zijn ook de weigeringsgronden van artikel 4:35 van de Awb van toepassing. Zo wordt de subsidie in ieder geval geweigerd indien er gegronde verwachting bestaat dat de activiteiten niet zullen plaatsvinden, dat niet aan de aan de subsidieverlening verbonden verplichtingen zal worden voldaan, dat niet op behoorlijke wijze rekening en verantwoording zal worden afgelegd en bij onjuiste of onvolledige gegevensverstrekking, indien dat geleid zou hebben tot een onjuiste beschikking, en in het geval van faillissement, surseance van betaling, of indien daartoe een verzoek bij de rechtbank is ingediend. Ook is in § 4 een begrotingsvoorbehoud opgenomen. Er wordt daarom ook geen subsidie verleend voorzover er op de door de Staten-Generaal aangenomen Rijksbegroting (onderdeel Infrastructuur en Milieu) onvoldoende middelen beschikbaar zijn of worden gesteld. Een trans-nationale aanvraag moet worden ingediend via het digitale instrument Electronisch Projectvoorstel Indienings (en Evaluatie) Systeem (EPSS, benaderbaar via http://www.transport-era.net/electromobility.html). Met behulp van het EPSS kunnen aanvragers hun projectvoorstel indienen dan wel creëren. Het is een on-line systeem, dat beschikbaar is via het internet als een Web gebaseerde applicatie. Het EPSS systeem kan bereikt worden via: www.transport-era.net/electromobility.html, dan wel via het nationale contact punt. Het nationale contact punt voor Nederland wordt gevormd door Agentschap NL. Tot het sluiten van de call termijn kan een ingediende aanvraag worden aangepast. Het secretariaat Electromobility+ Call bepaalt na de sluiting van de call de volledigheid van de aanvragen. Daarnaast zullen alle landen of regio’s die bij projectvoorstellen betrokken zijn, zelf vaststellen welke projectvoorstellen op tijd en op de juiste wijze zijn ingediend in hun eigen land of regio. Alleen projectvoorstellen die in alle landen of regio’s, waarbij project-partners uit het projectvoorstel betrokken zijn, en binnen het EPSS systeem tijdig en op de juiste wijze zijn ingediend, worden in behandeling genomen.  
+Een aanvraag wordt op grond van [artikel 34, eerste lid, onderdeel a, van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md) afgewezen als die niet voldoet aan het bepaalde in deze regeling en dit subsidieprogramma. In artikel 34 van de kaderregeling zijn nog meer weigeringsgronden opgenomen. Zo wordt een aanvraag ook afgewezen, indien de minister aanwijzingen heeft dat de aanvrager het project onvoldoende kan financieren. Voor de beoordeling van de haalbaarheid van de financiering wordt gekeken naar de eigen middelen die de aanvrager kan inzetten en naar de middelen waarvan de aanvrager aantoont dat derden die ter beschikking zullen stellen. Daarnaast wordt het bedrag van de aangevraagde subsidie meegenomen in de beoordeling. Voorts wordt de subsidie geweigerd indien de minister aanwijzingen heeft dat de technische, organisatorische of economische haalbaarheid van het project onvoldoende is. Ook mogen de werkzaamheden voor het project niet zijn begonnen voor het indienen van de subsidieaanvraag en mogen voor die tijd nog geen verplichtingen ten behoeve van het project zijn aangegaan. Artikel 34, eerste lid, onderdeel d, van de kaderregeling biedt ruimte om een uitzondering te maken voor verplichtingen die worden aangegaan onder de ontbindende voorwaarde dat de subsidie wordt verleend. Deze voorwaarde moet zodanig zijn opgenomen, dat als de subsidie niet wordt verleend, partijen op geen enkele wijze, direct noch indirect, aan de betreffende overeengekomen verplichtingen zijn gebonden. Een aanvraag wordt op grond van artikel 34, eerste lid, onderdeel f, van de kaderregeling afgewezen indien een of meerdere van de niet in Nederland gevestigde deelnemers aan het project niet worden ondersteund vanuit hun nationale programma’s voor hun aandeel in de samenwerking in het ERA-NET. Ook mag ten aanzien van de subsidieontvanger geen uitstaand bevel tot terugvordering van staatssteun bestaan op grond van een eerdere beschikking van de Europese Commissie. Daarnaast zijn ook de weigeringsgronden van artikel 4:35 van de Awb van toepassing. Zo wordt de subsidie in ieder geval geweigerd indien er gegronde verwachting bestaat dat de activiteiten niet zullen plaatsvinden, dat niet aan de aan de subsidieverlening verbonden verplichtingen zal worden voldaan, dat niet op behoorlijke wijze rekening en verantwoording zal worden afgelegd en bij onjuiste of onvolledige gegevensverstrekking, indien dat geleid zou hebben tot een onjuiste beschikking, en in het geval van faillissement, surseance van betaling, of indien daartoe een verzoek bij de rechtbank is ingediend. Ook is in § 4 een begrotingsvoorbehoud opgenomen. Er wordt daarom ook geen subsidie verleend voorzover er op de door de Staten-Generaal aangenomen Rijksbegroting (onderdeel Infrastructuur en Milieu) onvoldoende middelen beschikbaar zijn of worden gesteld. Een trans-nationale aanvraag moet worden ingediend via het digitale instrument Electronisch Projectvoorstel Indienings (en Evaluatie) Systeem (EPSS, benaderbaar via http://www.transport-era.net/electromobility.html). Met behulp van het EPSS kunnen aanvragers hun projectvoorstel indienen dan wel creëren. Het is een on-line systeem, dat beschikbaar is via het internet als een Web gebaseerde applicatie. Het EPSS systeem kan bereikt worden via: www.transport-era.net/electromobility.html, dan wel via het nationale contact punt. Het nationale contact punt voor Nederland wordt gevormd door Agentschap NL. Tot het sluiten van de call termijn kan een ingediende aanvraag worden aangepast. Het secretariaat Electromobility+ Call bepaalt na de sluiting van de call de volledigheid van de aanvragen. Daarnaast zullen alle landen of regio’s die bij projectvoorstellen betrokken zijn, zelf vaststellen welke projectvoorstellen op tijd en op de juiste wijze zijn ingediend in hun eigen land of regio. Alleen projectvoorstellen die in alle landen of regio’s, waarbij project-partners uit het projectvoorstel betrokken zijn, en binnen het EPSS systeem tijdig en op de juiste wijze zijn ingediend, worden in behandeling genomen. 
 
 ### §  4  
 
@@ -109,7 +107,7 @@ Een aanvraag wordt op grond van [artikel 34, eerste lid, onderdeel a, van de kad
 
 a. Het subsidieplafond bedraagt € 2.210.000,−.  
 
-b. Voor zover een subsidie wordt verleend ten laste van de nog niet door de Staten-Generaal aangenomen Rijksbegroting (onderdeel Infrastructuur en Milieu), wordt zij verleend onder de voorwaarde dat voldoende gelden ter beschikking worden gesteld.    
+b. Voor zover een subsidie wordt verleend ten laste van de nog niet door de Staten-Generaal aangenomen Rijksbegroting (onderdeel Infrastructuur en Milieu), wordt zij verleend onder de voorwaarde dat voldoende gelden ter beschikking worden gesteld.   
 
 ### §  5  
 
@@ -149,23 +147,23 @@ b. er is sprake van een samenwerkingsverband tussen een onderneming en een onder
 
 I. de onderzoeksinstelling tenminste 10 procent van de subsidiabele kosten van het project draagt, en  
 
-II. de onderzoeksinstelling het recht heeft de resultaten van de onderzoeksprojecten te publiceren, voor zover deze afkomstig zijn van het project.     Bij de aanvraag moet duidelijk worden gemaakt dat aan de betrokken voorwaarde is voldaan.  
+II. de onderzoeksinstelling het recht heeft de resultaten van de onderzoeksprojecten te publiceren, voor zover deze afkomstig zijn van het project.     Bij de aanvraag moet duidelijk worden gemaakt dat aan de betrokken voorwaarde is voldaan. 
 
 ####Vierde lid
 
-[Artikel 12, tweede lid, van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md) maakt het mogelijk in een subsidieprogramma te bepalen dat loonkosten worden berekend op basis van een zogenaamd integraal uurtarief. Hiervoor wordt voor dit subsidieprogramma voor gekozen nu dit een gangbare berekening betreft. Op grond van artikel 12, vierde lid, van de kaderregeling is het integraal uurtarief samengesteld uit de directe loonkosten en de indirecte kosten en betreft het uitsluitend de kosten uit de gewone bedrijfsvoering en bevat het geen winstopslag. Indien geen integraal uurtarief wordt gehanteerd, kan de aanvrager verzoeken een uurtarief van € 35,− toe te passen.  
+[Artikel 12, tweede lid, van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md) maakt het mogelijk in een subsidieprogramma te bepalen dat loonkosten worden berekend op basis van een zogenaamd integraal uurtarief. Hiervoor wordt voor dit subsidieprogramma voor gekozen nu dit een gangbare berekening betreft. Op grond van artikel 12, vierde lid, van de kaderregeling is het integraal uurtarief samengesteld uit de directe loonkosten en de indirecte kosten en betreft het uitsluitend de kosten uit de gewone bedrijfsvoering en bevat het geen winstopslag. Indien geen integraal uurtarief wordt gehanteerd, kan de aanvrager verzoeken een uurtarief van € 35,− toe te passen. 
 
-### §  6  
+### §   6  
 
 ####Verdeling van de gelden
 
-De verdeling van de beschikbare gelden vindt plaats conform de uitkomst van het volledige evaluatieproces van de Electromobility+ Call zoals opgenomen in bijlage B van dit subsidieprogramma.  
+De verdeling van de beschikbare gelden vindt plaats conform de uitkomst van het volledige evaluatieproces van de Electromobility+ Call zoals opgenomen in bijlage B van dit subsidieprogramma. 
 
 ### §  7  
 
 ####Aanwijzing uitvoeringsinstantie
 
-Als uitvoeringsinstantie bedoeld in [artikel 2, derde lid, onderdeel l, van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md), wordt aangewezen Agentschap NL, onderdeel van het ministerie van Economische Zaken, Landbouw en Innovatie.  
+Als uitvoeringsinstantie bedoeld in [artikel 2, derde lid, onderdeel l, van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md), wordt aangewezen Agentschap NL, onderdeel van het ministerie van Economische Zaken, Landbouw en Innovatie. 
 
 ### §  8  
 
@@ -179,7 +177,7 @@ Als uitvoeringsinstantie bedoeld in [artikel 2, derde lid, onderdeel l, van de k
 
 ####Toelichting
 
-Een aanvraag moet uiterlijk donderdag 31 maart 2011 om 17:00 u zijn ontvangen bij Agentschap NL, vestiging Utrecht: Agentschap NL Utrecht NL Milieu & Leefomgeving, t.a.v. secretariaat Mobiliteit en Klimaat o.v.v. Electromobiliteit+ Postbus 8242 3503 RE Utrecht Aanvragen die daarna worden ontvangen, worden niet in behandeling genomen. Nu het een subsidieprogramma op grond van Nederlandse wet- en regelgeving betreft moet de aanvraag in het Nederlands worden ingediend. Hierbij is wel als vereiste opgenomen dat de Nederlandse tekst overeenkomt met de Engelstalige tekst van het projectvoorstel dat bij het secretariaat Electromobility+ Call, wordt ingediend. Het moet immers om één en hetzelfde project gaan. Het Nederlandse aanvraagformulier vraagt dan ook om exact dezelfde gegevens als het trans-nationale aanvraagformulier, wat de efficiency voor de aanvrager ten goede komt. Op grond van [artikel 32, derde lid, van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md) geldt voor het beslissen over een aanvraag waarbij internationale beoordelingscommissies betrokken zijn een termijn van 40 weken. Deze termijn gaat krachtens artikel 32, eerste lid, van de kaderregeling lopen vanaf 1 april 2011 (de dag na sluiting van de aanvraagtermijn). Informatie over het subsidieprogramma is te vinden op http://www.senternovem.nl/proeftuinen/over_proeftuinen/hybride_en_elektrisch_rijden.asp. Daar kunnen ook het aanvraagformulier en de daarbij horende bijlagen worden gedownload. Informatie over het subsidieprogramma en het aanvraagformulier zijn ook bij Agentschap NL te verkrijgen.  
+Een aanvraag moet uiterlijk donderdag 31 maart 2011 om 17:00 u zijn ontvangen bij Agentschap NL, vestiging Utrecht: Agentschap NL Utrecht NL Milieu & Leefomgeving, t.a.v. secretariaat Mobiliteit en Klimaat o.v.v. Electromobiliteit+ Postbus 8242 3503 RE Utrecht Aanvragen die daarna worden ontvangen, worden niet in behandeling genomen. Nu het een subsidieprogramma op grond van Nederlandse wet- en regelgeving betreft moet de aanvraag in het Nederlands worden ingediend. Hierbij is wel als vereiste opgenomen dat de Nederlandse tekst overeenkomt met de Engelstalige tekst van het projectvoorstel dat bij het secretariaat Electromobility+ Call, wordt ingediend. Het moet immers om één en hetzelfde project gaan. Het Nederlandse aanvraagformulier vraagt dan ook om exact dezelfde gegevens als het trans-nationale aanvraagformulier, wat de efficiency voor de aanvrager ten goede komt. Op grond van [artikel 32, derde lid, van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md) geldt voor het beslissen over een aanvraag waarbij internationale beoordelingscommissies betrokken zijn een termijn van 40 weken. Deze termijn gaat krachtens artikel 32, eerste lid, van de kaderregeling lopen vanaf 1 april 2011 (de dag na sluiting van de aanvraagtermijn). Informatie over het subsidieprogramma is te vinden op http://www.senternovem.nl/proeftuinen/over_proeftuinen/hybride_en_elektrisch_rijden.asp. Daar kunnen ook het aanvraagformulier en de daarbij horende bijlagen worden gedownload. Informatie over het subsidieprogramma en het aanvraagformulier zijn ook bij Agentschap NL te verkrijgen. 
 
 ### §  9  
 
@@ -191,7 +189,7 @@ Een aanvraag moet uiterlijk donderdag 31 maart 2011 om 17:00 u zijn ontvangen bi
 
 ####Toelichting
 
-Wanneer het project is afgerond, moet op grond van [artikel 45 van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md) binnen dertien weken een aanvraag tot vaststelling van de subsidie worden ingediend. Dat moet middels een formulier dat bij Agentschap NL verkrijgbaar is of te downloaden is via http://www.senternovem.nl/proeftuinen/over_proeftuinen/hybride_en_elektrisch_rijden.asp. Voor dit subsidieprogramma is bij de aanvraag tot vaststelling van de subsidie een accountantsverklaring conform het in de [bijlage van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md) opgenomen model vereist.  
+Wanneer het project is afgerond, moet op grond van [artikel 45 van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md) binnen dertien weken een aanvraag tot vaststelling van de subsidie worden ingediend. Dat moet middels een formulier dat bij Agentschap NL verkrijgbaar is of te downloaden is via http://www.senternovem.nl/proeftuinen/over_proeftuinen/hybride_en_elektrisch_rijden.asp. Voor dit subsidieprogramma is bij de aanvraag tot vaststelling van de subsidie een accountantsverklaring conform het in de [bijlage van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md) opgenomen model vereist. 
 
 ### §  10  
 
@@ -205,7 +203,7 @@ Gedurende de looptijd van een project dient de subsidieontvanger bij Agentschap 
 
 ####Toelichting
 
-Omdat de uitvoering van de betrokken projecten langer dan twaalf maanden in beslag neemt, wordt de verplichting opgelegd elke twaalf maanden een tussenrapportage in te dienen. In het kader van de trans-nationale aanvraag moet er halfjaarlijks gerapporteerd worden over de voortgang. Een afschrift daarvan dient te worden gezonden aan Agentschap NL. Met deze verplichting vindt dus geen verhoging plaats van de rapportagedruk op de subsidie-ontvanger.  
+Omdat de uitvoering van de betrokken projecten langer dan twaalf maanden in beslag neemt, wordt de verplichting opgelegd elke twaalf maanden een tussenrapportage in te dienen. In het kader van de trans-nationale aanvraag moet er halfjaarlijks gerapporteerd worden over de voortgang. Een afschrift daarvan dient te worden gezonden aan Agentschap NL. Met deze verplichting vindt dus geen verhoging plaats van de rapportagedruk op de subsidie-ontvanger. 
 
 ### Bijlage  A  
 
@@ -262,7 +260,7 @@ Evaluatiescores zullen worden toegekend aan elk van de drie criteria, maar niet 
 
 4 – Zeer goed. Het projectvoorstel voldoet geheel aan de gestelde eisen ondanks het feit dat er nog ruimte is voor verbeteringen.  
 
-5 – Uitstekend. Het projectvoorstel voldoet aan alle gestelde eisen en criteria. Mogelijke tekortkomingen zijn niet of nauwelijks aanwezig.   Er zal geen weging worden toegepast. De drempel voor individuele criteria zal 3 zijn. De drempel voor de drie individuele scores opgeteld is 10. Aan het eind van de eerste evaluatiestap zullen alle nationale/regionale programma’s samen éen lijst met ‘genomineerde’ projectvoorstellen vaststellen. Projectvoorstellen die niet in alle betrokken landen en regio’s een positieve beoordeling hebben gehad vallen hierbij in ieder geval af. Ook positief geëvalueerde projectvoorstellen kunnen hier echter afvallen aangezien het hier een gezamenlijke beslissing van alle landen en regio’s betreft. De genomineerde projectvoorstellen zullen doorgaan naar tweede evaluatiestap.  
+5 – Uitstekend. Het projectvoorstel voldoet aan alle gestelde eisen en criteria. Mogelijke tekortkomingen zijn niet of nauwelijks aanwezig.   Er zal geen weging worden toegepast. De drempel voor individuele criteria zal 3 zijn. De drempel voor de drie individuele scores opgeteld is 10. Aan het eind van de eerste evaluatiestap zullen alle nationale/regionale programma’s samen éen lijst met ‘genomineerde’ projectvoorstellen vaststellen. Projectvoorstellen die niet in alle betrokken landen en regio’s een positieve beoordeling hebben gehad vallen hierbij in ieder geval af. Ook positief geëvalueerde projectvoorstellen kunnen hier echter afvallen aangezien het hier een gezamenlijke beslissing van alle landen en regio’s betreft. De genomineerde projectvoorstellen zullen doorgaan naar tweede evaluatiestap. 
 
 ### II  
 
@@ -272,16 +270,16 @@ In de tweede stap zullen internationale expert-panels (die toegewezen zijn aan d
 
 ####Selectie van de projecten
 
-De projectvoorstellen op de uiteindelijke selectielijst zullen ‘ge-matcht’ (vergeleken) worden met de beschikbare budgets in de bij de projectvoorstellen betrokken landen/regio’s. De selectielijst zal op deze wijze van boven naar beneden toe worden afgewerkt waarbij er per projectvoorstel in alle betrokken landen/regio’s voldoende budget beschikbaar moet zijn. Ontbreekt in een land/regio het volledige budget dan vervalt het betreffende projectvoorstel voor alle landen, hetgeen zal worden vastgesteld door het secretariaat Electromobility+ Call. Uiteindelijk zal er een definitieve lijst van te subsidiëren projectvoorstellen worden vastgesteld. Deze lijst zal naar de betrokken nationale programma’s worden gestuurd met het verzoek tot verdere uitvoering en berichtgeving aan de betreffende projectpartners.  
+De projectvoorstellen op de uiteindelijke selectielijst zullen ‘ge-matcht’ (vergeleken) worden met de beschikbare budgets in de bij de projectvoorstellen betrokken landen/regio’s. De selectielijst zal op deze wijze van boven naar beneden toe worden afgewerkt waarbij er per projectvoorstel in alle betrokken landen/regio’s voldoende budget beschikbaar moet zijn. Ontbreekt in een land/regio het volledige budget dan vervalt het betreffende projectvoorstel voor alle landen, hetgeen zal worden vastgesteld door het secretariaat Electromobility+ Call. Uiteindelijk zal er een definitieve lijst van te subsidiëren projectvoorstellen worden vastgesteld. Deze lijst zal naar de betrokken nationale programma’s worden gestuurd met het verzoek tot verdere uitvoering en berichtgeving aan de betreffende projectpartners. 
 
 ####Beslissing op grond van nationaal subsidieprogramma
 
-Na ontvangst van de definitieve lijst ontvangen kunnen de landelijke/regionale programma’s overgaan tot het nemen van een beslissing op grond van het nationale subsidieprogramma.  
+Na ontvangst van de definitieve lijst ontvangen kunnen de landelijke/regionale programma’s overgaan tot het nemen van een beslissing op grond van het nationale subsidieprogramma. 
 
 ### Bijlage  C  
 
-![248367](http://wetten.overheid.nl/Illustration/248367)
-![248367](http://wetten.overheid.nl/Illustration/248367)
-![248367](http://wetten.overheid.nl/Illustration/248367)
+![248364](http://wetten.overheid.nl/Illustration/248364)
+![248365](http://wetten.overheid.nl/Illustration/248365)
+![248366](http://wetten.overheid.nl/Illustration/248366)
 ![248367](http://wetten.overheid.nl/Illustration/248367)
 

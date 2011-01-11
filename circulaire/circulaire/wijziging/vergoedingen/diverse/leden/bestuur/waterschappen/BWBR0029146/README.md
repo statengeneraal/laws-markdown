@@ -37,6 +37,6 @@ Op grond van [artikel 3.41 van het Waterschapsbesluit](../../../../../../../../.
 Voor uw informatie merk ik nog op dat voor de voorzitters van de waterschappen niet meer en voor de leden van het dagelijks bestuur van de waterschappen géén verhaal van de WGA-lasten plaats vindt. De voorzitter en de leden van het dagelijks bestuur vallen onder de [Algemene pensioenwet politieke ambtsdragers](../../../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md) (Appa) en niet (meer) onder de wettelijke sociale zekerheid, zoals de [WIA](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) (Wet werk en inkomen naar arbeidsvermogen). Voor de voorzitters en de leden van het dagelijks bestuur vindt op grond van de Appa geen inhouding plaats in verband met arbeidsongeschiktheid op grond van de WIA. Ook voor de leden van het algemeen bestuur van een waterschap vindt géén verhaal van de WGA-lasten plaats. De leden van het algemeen bestuur zijn ook uitgezonderd van de wettelijke sociale zekerheid.     
 
 De 
-minister van Binnenlandse Zaken en Koninkrijksrelaties,voor deze: de 
-directeur Arbeidszaken Publieke Sector,
-L.D.P.Lombaers   
+minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
+directeur Arbeidszaken Publieke Sector, 
+L.D.P. Lombaers     

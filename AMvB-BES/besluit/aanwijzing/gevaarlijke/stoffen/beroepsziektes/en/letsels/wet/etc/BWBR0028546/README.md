@@ -95,7 +95,7 @@ a. voor wat betreft de ziekten, bedoeld in het eerste lid, onderdelen a, onder 1
 
 b. voor wat betreft de ziekten, bedoeld in het eerste lid, onderdelen a, onder 13°, c en g: binnen zes maanden;  
 
-c. voor wat betreft de ziekten, bedoeld in het eerste lid, onderdelen f en i: binnen drie maanden.     
+c. voor wat betreft de ziekten, bedoeld in het eerste lid, onderdelen f en i: binnen drie maanden.   
 
 ### Artikel  4  
 
@@ -113,16 +113,16 @@ d. zonnesteek;
 
 e. blaar;  
 
-f. ander vergelijkbaar lichamelijk letsel als de letsels, bedoeld in de onderdelen a tot en met e.    
+f. ander vergelijkbaar lichamelijk letsel als de letsels, bedoeld in de onderdelen a tot en met e.   
 
 ### Artikel  5  
 
 ####Wettelijke grondslag
 
-Dit besluit berust op [artikel 1, onderdelen c, onder 1° en f, van de Wet ongevallenverzekering BES](../../../../../../../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md).  
+Dit besluit berust op [artikel 1, onderdelen c, onder 1° en f, van de Wet ongevallenverzekering BES](../../../../../../../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md). 
 
 ### Artikel  6  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing gevaarlijke stoffen, beroepsziekten en letsels Wet ongevallenverzekering BES.  
+Dit besluit wordt aangehaald als: Besluit aanwijzing gevaarlijke stoffen, beroepsziekten en letsels Wet ongevallenverzekering BES. 

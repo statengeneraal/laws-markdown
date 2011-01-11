@@ -8,24 +8,24 @@ Besluit:
 
 ### Artikel  1  
 
-Met het oog op de bescherming van de persoonlijke levenssfeer worden de in de artikelen 2 en 3 genoemde beperkingen gesteld aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van het ministerie van Cultuur, Recreatie en Maatschappelijk Werk, over de periode (1910–) 1965–1982 (–1990), die zijn opgenomen in de inventaris onder het inventarisnummer, genoemd in kolom 1 van de – als bijlage 1 – bij deze regeling gevoegde tabel. Deze beperkingen gelden tot 1 januari van het in kolom 2 van vorenbedoelde tabel genoemde jaartal.  
+Met het oog op de bescherming van de persoonlijke levenssfeer worden de in de artikelen 2 en 3 genoemde beperkingen gesteld aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van het ministerie van Cultuur, Recreatie en Maatschappelijk Werk, over de periode (1910–) 1965–1982 (–1990), die zijn opgenomen in de inventaris onder het inventarisnummer, genoemd in kolom 1 van de – als bijlage 1 – bij deze regeling gevoegde tabel. Deze beperkingen gelden tot 1 januari van het in kolom 2 van vorenbedoelde tabel genoemde jaartal. 
 
 ### Artikel  2  
 
-Raadpleging van de in artikel 1 bedoelde archiefbescheiden is slechts mogelijk na ondertekening van het door het Nationaal Archief gehanteerde ‘Formulier voor toestemming tot raadpleging van niet-openbare archieven’, van welk formulier een model – als bijlage 2 – bij deze regeling is gevoegd.  
+Raadpleging van de in artikel 1 bedoelde archiefbescheiden is slechts mogelijk na ondertekening van het door het Nationaal Archief gehanteerde ‘Formulier voor toestemming tot raadpleging van niet-openbare archieven’, van welk formulier een model – als bijlage 2 – bij deze regeling is gevoegd. 
 
 ### Artikel  3  
 
-Het is niet toegestaan reproducties te vervaardigen van archiefbescheiden uit dossiers waarop deze beperkende bepalingen van toepassing zijn, zonder toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan voorwaarden verbinden aan het verlenen van zijn toestemming.  
+Het is niet toegestaan reproducties te vervaardigen van archiefbescheiden uit dossiers waarop deze beperkende bepalingen van toepassing zijn, zonder toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan voorwaarden verbinden aan het verlenen van zijn toestemming. 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers  
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers    
 
 ### Bijlage  1  
 
@@ -11436,7 +11436,7 @@ FORMULIER VOOR TOESTEMMING TOT RAADPLEGING VAN NIET-OPENBARE ARCHIEVEN Naam en v
 | --- | --- |
 | --- | Nummer Toegang: ...................................................................  |
 
-De gegevens uit dit archief zullen eventueel worden vastgelegd in een scriptie / dissertatie / artikel in een (wetenschappelijk) periodiek / boek. Het onderzoek vindt plaats aan *(instelling)*: ): ................................................................... onder leiding van : ................................................................... Ondergetekende verklaart hierbij dat *hij/zij* 
+De gegevens uit dit archief zullen eventueel worden vastgelegd in een scriptie / dissertatie / artikel in een (wetenschappelijk) periodiek / boek. Het onderzoek vindt plaats aan*(instelling)*: ): ................................................................... onder leiding van : ................................................................... Ondergetekende verklaart hierbij dat *hij/zij*  
 
 1. de uit bovengenoemde bescheiden verkregen gegevens slechts voor bovengenoemd doel zal aanwenden en niets zal publiceren of op andere wijze openbaar maken waardoor het recht van een ieder op eerbiediging van de persoonlijke levenssfeer geschonden wordt of bij de aangelegenheid betrokken natuurlijke of rechtspersonen, dan wel derden, onevenredig bevoordeeld of benadeeld kunnen worden;  
 

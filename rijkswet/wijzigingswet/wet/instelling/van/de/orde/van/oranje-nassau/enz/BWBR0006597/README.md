@@ -11,24 +11,24 @@ Zo is het, dat Wij, de Raad van de State van het Koninkrijk gehoord, en met geme
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
 1.  Er is een Kapittel voor de civiele orden.   
 2.  Het Kapittel heeft tot taak Onze Minister wie het aangaat te adviseren over het verlenen van onderscheidingen in een van de civiele orden.   
-3.  Het Kapittel is samengesteld uit tenminste drie en ten hoogste vijf leden, de voorzitter daaronder begrepen, die bij koninklijk besluit worden benoemd en ontslagen.   
-4.  De Kanselier van de Orde van de Nederlandse Leeuw is lid van het Kapittel.   
-5.  Bij algemene maatregel van bestuur worden nadere regels gesteld ten aanzien van de taak, samenstelling, inrichting en werkwijze van het Kapittel.   
+3.   Het Kapittel is samengesteld uit tenminste drie en ten hoogste vijf leden, de voorzitter daaronder begrepen, die bij koninklijk besluit worden benoemd en ontslagen.   
+4.   De Kanselier van de Orde van de Nederlandse Leeuw is lid van het Kapittel.   
+5.   Bij algemene maatregel van bestuur worden nadere regels gesteld ten aanzien van de taak, samenstelling, inrichting en werkwijze van het Kapittel.  
 
 ### Artikel  IV  
 
-1.  De commissaris van de Koning adviseert Onze Minister wie het aangaat volgens een door de regering gegeven ambtsinstructie over de verlening van onderscheidingen in de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau aan inwoners van de provincie.   
-2.  De Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba adviseert Onze Minister wie het aangaat volgens een door de regering gegeven ambtsinstructie over de verlening van onderscheidingen in de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau aan inwoners van de openbare lichamen Bonaire, Sint Eustatius en Saba.   
+1. De commissaris van de Koning adviseert Onze Minister wie het aangaat volgens een door de regering gegeven ambtsinstructie over de verlening van onderscheidingen in de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau aan inwoners van de provincie.  
+2.  De Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba adviseert Onze Minister wie het aangaat volgens een door de regering gegeven ambtsinstructie over de verlening van onderscheidingen in de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau aan inwoners van de openbare lichamen Bonaire, Sint Eustatius en Saba. 
 
 ### Artikel  V  
 
@@ -40,15 +40,15 @@ b. De toelagen die de Broeders, verbonden aan de Orde van de Nederlandse Leeuw, 
 
 a. Gehandhaafd blijven alle koninklijke besluiten waarbij de eremedailles in brons, zilver en goud zijn verleend, zoals deze zijn genomen voor de inwerkingtreding van artikel I van deze wet.  
 
-b. Het lint van de eremedaille mag als draagteken zonder de eremedaille worden gedragen.     
+b. Het lint van de eremedaille mag als draagteken zonder de eremedaille worden gedragen.    
 
 ### Artikel  VI  
 
-De tekst van de wet van 4 april 1892, houdende instelling van de Orde van Oranje-Nassau, en van de wet van 29 september 1815, houdende instelling van de Orde van de Nederlandse Leeuw, wordt overgebracht in de wettelijke spelling en in het *Staatsblad*, het Publicatieblad van de Nederlandse Antillen en het Afkondigingsblad van Aruba geplaatst.  
+De tekst van de wet van 4 april 1892, houdende instelling van de Orde van Oranje-Nassau, en van de wet van 29 september 1815, houdende instelling van de Orde van de Nederlandse Leeuw, wordt overgebracht in de wettelijke spelling en in het *Staatsblad*, het Publicatieblad van de Nederlandse Antillen en het Afkondigingsblad van Aruba geplaatst. 
 
 ### Artikel  VII  
 
-De verschillende artikelen van deze rijkswet treden in werking op bij koninklijk besluit te bepalen tijdstippen.  
+De verschillende artikelen van deze rijkswet treden in werking op bij koninklijk besluit te bepalen tijdstippen. 
 
 Lasten en bevelen dat deze in het *Staatsblad*, in het *Publicatieblad van de Nederlandse Antillen* en in het *Afkondigingsblad van Aruba* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -2,7 +2,7 @@
 
 ##Loonheffingen, inkomstenbelasting, heffingsaspecten stagiairs
 
-De staatssecretaris van Financiën heeft het volgende besloten.  *Dit besluit is een actualisering van het besluit van 15 december 2006, nr. CPP2006/1461M, Stcrt. nr. 249. De wijzigingen hebben betrekking op de kleinebanenregeling en de nieuwe Verordening (EG) nr. 883/2004.*    
+De staatssecretaris van Financiën heeft het volgende besloten.  *Dit besluit is een actualisering van het besluit van 15 december 2006, nr. CPP2006/1461M, Stcrt. nr. 249. De wijzigingen hebben betrekking op de kleinebanenregeling en de nieuwe Verordening (EG) nr. 883/2004.*   
 ### 1  
 
 ####Inleiding
@@ -35,7 +35,7 @@ De in de begripsomschrijvingen cursief opgenomen begrippen zijn later zelf omsch
 | stagevergoeding  | Een stagevergoeding is de stagebeloning met uitzondering van vrije vergoedingen en verstrekkingen. Bij een buitenlandse stagiair is de stagevergoeding de stagebeloning met uitzondering van vrije vergoedingen en verstrekkingen en vergoedingen en verstrekkingen ter zake van de *kosten van levensonderhoud* en *zakgeld*. Als de stageverlener de werkkostenregeling toepast moet voor ‘vrije vergoedingen en verstrekkingen’ worden gelezen ‘gericht vrijgestelde vergoedingen en verstrekkingen, dan wel als eindheffingsloon aangewezen bestanddelen’.  |
 | kosten van levensonderhoud  | De kosten van levensonderhoud zijn de kosten die de buitenlandse stagiair in staat stellen tot het voeren van een redelijk bestaan. Dit zijn onder meer de kosten van huisvesting, voedsel, drank, genotmiddelen en kleding.  |
 | zakgeld  | Zakgeld is een bedrag voor kleine uitgaven van ten hoogste € 100 per maand, dat de stageverlener uit vrijgevigheid geeft aan de stagiair. Niet van belang is of de stagiair daarnaast een vergoeding van kosten van levensonderhoud of overeenkomstige verstrekkingen ontvangt. Tegenover zakgeld staat geen arbeidsprestatie. Het zakgeld mag hierom bijvoorbeeld niet afhankelijk zijn van het aantal gewerkte uren.  |
-| Wet LB  |  [Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)   |
+| Wet LB  | [Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)  |
 | loonheffing  | loonbelasting/premie volksverzekeringen  |
 | loonheffingen  | loonheffing, premies werknemersverzekeringen en de inkomensafhankelijke bijdrage [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md)  |
 
@@ -69,7 +69,7 @@ Van een fictieve dienstbetrekking kan sprake zijn als de stagiair niet in een ec
 ####geen (fictieve) dienstbetrekking
 
 Er is geen sprake van een (fictieve) dienstbetrekking als de stagiair uitsluitend onderricht of een vergoeding van kosten geniet. Als de stagiair geen loon in de zin van de [Wet LB](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) geniet, is geen sprake van een (fictieve) dienstbetrekking (zie [artikel 6 van de Wet LB](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)). Van loon is geen sprake als een stagiair uitsluitend een vergoeding van de werkelijke kosten ontvangt (of overeenkomstige verstrekkingen) of onderricht dat nodig is om zijn werkzaamheden te verrichten (‘training on the job’). Bij de beoordeling in dit verband of sprake is van een vergoeding van de werkelijke kosten kunnen de betrokkenen ook aansluiten bij de wettelijke normen voor de loonheffingen. 
-### *Voorbeeld:* 
+### *Voorbeeld:*
 
 Een stagiair ontvangt, naast onderricht, een vaste reiskostenvergoeding van € 0,19 per kilometer. Als de stagiair een (fictieve) dienstbetrekking zou hebben zou de vergoeding niet belast zijn. In dit geval is geen sprake van een (fictieve) dienstbetrekking, ook niet in de uitzonderlijke situatie dat de stageverlener met deze vergoeding van € 0,19 meer vergoedt dan de werkelijke kosten per kilometer. Van een (fictieve) dienstbetrekking is ook geen sprake als de werkelijke kosten hoger zijn dan € 0,19 per kilometer en de stageverlener niet meer vergoedt dan die werkelijke kosten.     
 ### 2.2  
@@ -77,7 +77,7 @@ Een stagiair ontvangt, naast onderricht, een vaste reiskostenvergoeding van €�
 ####De stagevergoeding komt de stagiair niet ten goede
 
 Als de stagiair een (fictieve) dienstbetrekking heeft, dient de stageverlener loonheffingen in te houden op de stagebeloning, behoudens voor zover een vrijstelling van toepassing is (zie [artikel 11 en volgende van de Wet LB](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)). Mede uit een oogpunt van doelmatigheid acht ik dit niet altijd nodig of redelijk als de stagevergoeding niet ten goede komt aan de stagiair. Daarom heb ik het volgende goedgekeurd. 
-### *Goedkeuring* 
+### *Goedkeuring*
 
 Ik keur goed dat de stageverlener de stagevergoeding niet aanmerkt als loon voor de loonheffingen als voldaan is aan de volgende voorwaarden: 
 
@@ -112,7 +112,7 @@ Ik keur onder de volgende voorwaarden goed dat de stageverlener inhouding van lo
 – de stageverlener of de stagiair desgevraagd de kosten kan onderbouwen met nota’s en kwitanties; en  
 
 – de stagiairs voor niet langer dan zes maanden in Nederland verblijven, grotendeels (meer dan 50% van de voor werkzaamheden beschikbare tijd) voor het volgen van een opleiding en het doorlopen van een of meer stages.   Als voor de stagiair geen tewerkstellingsvergunning verplicht is, dient de stagiair aan de stageverlener een verklaring over te leggen van de onderwijsinstelling waar de stagiair staat ingeschreven. Hierin moet vermeld staan welke opleiding de stagiair volgt en wat voor stage(s) hij doorloopt, inclusief een uitgewerkt stageprogramma. Informatie over de verplichting van een tewerkstellingsvergunning is verkrijgbaar bij de IND (zie ook: www.ind.nl). De stageverlener bewaart de verklaringen van de onderwijsinstellingen of de afschriften van de tewerkstellingsvergunningen bij de loonadministratie. De stageverlener doet na afloop van het kalenderjaar via het formulier Opgaaf van uitbetaalde bedragen aan een derde (voorheen de zogenoemde IB-47-kaarten) aan de Belastingdienst opgave van de aan stagiairs uitbetaalde bedragen. 
-### *Goedkeuring* 
+### *Goedkeuring*
 
 Ik keur goed dat de hiervoor bedoelde beloningen evenmin in de heffing van de inkomstenbelasting/premie volksverzekeringen worden betrokken, mits er geen andere inkomsten zijn. De hiervoor opgenomen goedkeuringen kunnen samenlopen met de goedkeuring die is opgenomen onder 2.2.    
 ### 3.2  
@@ -120,10 +120,10 @@ Ik keur goed dat de hiervoor bedoelde beloningen evenmin in de heffing van de in
 ####Andere situaties en internationaal recht
 
 In de andere situaties dan beschreven in 3.1 is de stageverlener in beginsel inhoudingsplichtig voor de door de buitenlandse stagiair genoten stagebeloning. 
-### *Belastingheffing* 
+### *Belastingheffing*
 
 Stagebeloningen van buitenlandse stagiairs, al dan niet in fictieve dienstbetrekking, kunnen in Nederland zijn vrijgesteld van belastingheffing op grond van specifieke bepalingen in de belastingverdragen die Nederland met andere staten heeft gesloten. De stageverlener moet in een dergelijk geval beoordelen welk verdrag van toepassing is en aan welk land de belastingheffing in dat verdrag is toegewezen. 
-### *Premieheffing volksverzekeringen* 
+### *Premieheffing volksverzekeringen*
 
 De stageverlener moet op basis van de internationale regelingen inzake sociale zekerheid beoordelen of hij premies volksverzekeringen moet inhouden. Zie Verordening (EG) nr. 883/2004 voor stages die aanvangen op of na 1 mei 2010. Stages die voor die datum zijn aangevangen kunnen mogelijk vallen onder het overgangsrecht van artikel 87, achtste lid, van Verordening (EG) nr. 883/2004, waardoor betrokkene onderworpen blijft aan de wetgeving die is vastgesteld op grond van titel II van Verordening (EEG) nr. 1408/71. Stagiairs met de nationaliteit van een lidstaat van de EU vallen onder de personele werkingssfeer van Verordening (EG) nr. 883/2004. Stagiairs met de nationaliteit van een lidstaat van de EER, met de Zwitserse nationaliteit, of stagiairs met een zogenoemde derde nationaliteit die legaal verblijven op het grondgebied van een lidstaat, vallen vooralsnog onder de personele werkingssfeer van Verordening (EEG) nr.1408/71, voor zover zij zijn aan te merken als werknemer of student. Is op een stagiair een verdrag inzake sociale zekerheid tussen Nederland en een ander land van toepassing, dan geldt dat verdrag. Voor al deze internationale regelingen inzake sociale zekerheid geldt als hoofdregel dat het werkland wordt aangewezen en dat in Nederland premieheffing voor de volksverzekeringen moet plaatsvinden. Betrokkenen zijn dan verzekerd in Nederland. Is op de stagiair geen internationale regeling inzake sociale zekerheid van toepassing, dan bestaat op grond van de nationale Nederlandse wetgeving verzekeringsplicht voor de volksverzekeringen. Dit is niet het geval als sprake is van een fictieve dienstbetrekking.     
 ### 4  
@@ -136,16 +136,16 @@ De stagiair die verzekerd is voor de volksverzekeringen, en aldus voor de [Algem
 ####Werknemersverzekeringen en [Wajong](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md)
 
 De verzekeringsplicht van stagiairs voor de werknemersverzekeringen is als volgt geregeld. Daarbij is voor 2010 en 2011 de zogenoemde ‘kleinebanenregeling’ mogelijk van toepassing. 
-### *Kleinebanenregeling* 
+### *Kleinebanenregeling*
 
 In 2010 en 2011 is, onder voorwaarden, de kleinebanenregeling van toepassing. De heffingspercentages voor de [WW](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md) en de [WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) zijn in dat geval nihil. Zie voor de voorwaarden paragraaf 5.4.6 van het Handboek loonheffingen 2010. Indien de kleinebanenregeling niet van toepassing is geldt het volgende. 
-### *De Werkloosheidswet (WW)* 
+### *De Werkloosheidswet (WW)*
 
 Stagiairs zijn verzekerd als sprake is van een ‘echte’ dienstbetrekking in de zin van [artikel 3 van de WW](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) (zie hiervoor bij 2.1.1). Stagiairs zijn niet verzekerd voor de WW op grond van een fictieve dienstbetrekking. 
-### *De Ziektewet (ZW)* 
+### *De Ziektewet (ZW)*
 
 Stagiairs zijn verzekerd voor de [ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md). Dit geldt zowel als sprake is van een ‘echte’ dienstbetrekking in de zin van [artikel 3 van de ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md) (zie hiervoor bij 2.1.1), als van een fictieve dienstbetrekking in de zin van [artikel 4, eerste lid, onderdeel g, van de ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md) (zie hiervoor bij 2.1.2). 
-### *De Wet werk en inkomen naar arbeidsvermogen (WIA) en de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten (Wajong)* 
+### *De Wet werk en inkomen naar arbeidsvermogen (WIA) en de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten (Wajong)*
 
 Voor de [WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) geldt dat (volgens de normale regels bij een dienstbetrekking) verzekeringsplicht bestaat voor een stagiair die werkzaam is op basis van een civielrechtelijke (‘echte’) dienstbetrekking. Er is geen verzekeringsplicht voor de WIA op basis van een fictieve dienstbetrekking (zie [artikel 8, eerste lid, van de WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [artikel 4, eerste lid, onderdeel g, van de ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md)). Als de werkgever eigenrisicodrager is voor de WGA is hij daarvoor geen premie verschuldigd. De stagiair behoort tot de doelgroep voor de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) (Wajong). Het is niet vereist dat de stagiair een beloning ontvangt. Wel geldt een maximumleeftijd van 30 jaar en een minimum aantal lesuren van 213 (klokuren) per kwartaal. 
 ### *Buitenlandse stagiairs* 
@@ -166,5 +166,5 @@ Den Haag
 14 december 2010   
 
 De 
-staatssecretaris van Financiën,
-F.H.H.Weekers   
+staatssecretaris van Financiën, 
+F.H.H. Weekers     

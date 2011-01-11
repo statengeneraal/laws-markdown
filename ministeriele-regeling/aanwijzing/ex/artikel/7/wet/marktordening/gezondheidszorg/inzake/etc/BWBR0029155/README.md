@@ -14,26 +14,26 @@ Besluit:
 
 In deze aanwijzing wordt verstaan onder: 
 
-a. *minister:* de minister van Volksgezondheid, Welzijn en Sport;  
+a.  *minister:* de minister van Volksgezondheid, Welzijn en Sport;  
 
-b. *wet:* de [Wet marktordening gezondheidszorg](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+b.  *wet:* de [Wet marktordening gezondheidszorg](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
 
-c. *zorgautoriteit:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+c.  *zorgautoriteit:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
 
-d. *DBC:* Diagnose behandeling combinatie, het geheel van prestaties van zorgaanbieders voortvloeiend uit de zorgvraag waarvoor een cliënt de zorgaanbieders consulteert;  
+d.  *DBC:* Diagnose behandeling combinatie, het geheel van prestaties van zorgaanbieders voortvloeiend uit de zorgvraag waarvoor een cliënt de zorgaanbieders consulteert;  
 
-e. *DOT:* DBC’s op weg naar transparantie;  
+e.  *DOT:* DBC’s op weg naar transparantie;  
 
-f. *FB:* Functiegericht Budget.    
+f.*FB:* Functiegericht Budget. 
 
 ### Artikel  2  
 
 1.  Deze aanwijzing heeft betrekking op een experiment met de in artikel 4 omschreven doelstelling.   
-2.  Het experiment beperkt zich tot zorg geleverd op één locatie door een instelling voor medisch specialistische zorg bestaande uit orthopedie, reumatologie, anesthesiologie en revalidatiegeneeskunde.   
+2.  Het experiment beperkt zich tot zorg geleverd op één locatie door een instelling voor medisch specialistische zorg bestaande uit orthopedie, reumatologie, anesthesiologie en revalidatiegeneeskunde.  
 
 ### Artikel  3  
 
-Voor het experiment stelt de zorgautoriteit beleidsregels en regels vast.  
+Voor het experiment stelt de zorgautoriteit beleidsregels en regels vast. 
 
 ### Artikel  4  
 
@@ -53,26 +53,26 @@ Het experiment heeft de volgende doelen:
 
 – over de wijze waarop monitoring van gemaakte onderhandelingsafspraken tussen zorgverzekeraars en ziekenhuis worden overeengekomen.    
 
-3. Het aanleveren van verbeterpunten in het kader van de doorontwikkeling DOT.    
+3. Het aanleveren van verbeterpunten in het kader van de doorontwikkeling DOT.   
 
 ### Artikel  5  
 
 1.  Voor de naar het oordeel van de zorgautoriteit bij het experiment te betrekken prestaties gelden vrije tarieven als bedoeld in [artikel 57, vierde lid, onder c, van de wet](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).   
 2.  De zorgaanbieder moet alle kosten van de exploitatie van de desbetreffende instellingslocatie uit de inkomsten van de tarieven bekostigen.   
-3.  Gedurende het experiment geldt de eis dat het gemiddeld gewogen prijsniveau van de zorgaanbieder niet stijgt ten opzichte van het vorige jaar, rekening houdend met een gewogen gemiddelde van de indexering loonkosten en materiële kosten.   
+3.  Gedurende het experiment geldt de eis dat het gemiddeld gewogen prijsniveau van de zorgaanbieder niet stijgt ten opzichte van het vorige jaar, rekening houdend met een gewogen gemiddelde van de indexering loonkosten en materiële kosten.  
 
 ### Artikel  6  
 
-Het experiment heeft een maximale duur van vijf jaren, met dien verstande dat het experiment eerder eindigt op het moment dat DOT is ingevoerd en het FB komt te vervallen of op het moment dat het invoeren van DOT en afschaffen van het FB wordt stopgezet.  
+Het experiment heeft een maximale duur van vijf jaren, met dien verstande dat het experiment eerder eindigt op het moment dat DOT is ingevoerd en het FB komt te vervallen of op het moment dat het invoeren van DOT en afschaffen van het FB wordt stopgezet. 
 
 ### Artikel  7  
 
-De zorgautoriteit zal het experiment jaarlijks evalueren en hierover rapporteren aan de minister.  
+De zorgautoriteit zal het experiment jaarlijks evalueren en hierover rapporteren aan de minister. 
 
 ### Artikel  8  
 
-Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.  
+Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst. 
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers   
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers     

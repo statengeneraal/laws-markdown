@@ -12,15 +12,15 @@ Besluit:
 
 1.  In deze regeling wordt verstaan onder: 
 
-a. *Kaderwet:* de [Kaderwet financiële verstrekkingen Financiën](../../../../wet/kaderwet/financiële/verstrekkingen/financiën/BWBR0007886/README.md);  
+a.  *Kaderwet:* de [Kaderwet financiële verstrekkingen Financiën](../../../../wet/kaderwet/financiële/verstrekkingen/financiën/BWBR0007886/README.md);  
 
-b. *investeringsland:* een land buiten Nederland;  
+b.  *investeringsland:* een land buiten Nederland;  
 
-c. *investering:* de inbreng door een ondernemer van middelen in geld of in natura in een onderneming in een investeringsland, teneinde met die onderneming duurzaam verbonden te zijn ten dienste van de eigen werkzaamheid, voor een duur van tenminste drie jaren of indien het een geldlening betreft voor de duur van tenminste vier jaren; onder investering wordt mede begrepen de garantie die een ondernemer in aanvulling op de inbreng geeft, onder welke naam dan ook, tot betaling van hetgeen uit hoofde van een lening is verschuldigd in het geval dat de met de ondernemer duurzaam verbonden onderneming in een investeringsland in gebreke blijft;  
+c.  *investering:* de inbreng door een ondernemer van middelen in geld of in natura in een onderneming in een investeringsland, teneinde met die onderneming duurzaam verbonden te zijn ten dienste van de eigen werkzaamheid, voor een duur van tenminste drie jaren of indien het een geldlening betreft voor de duur van tenminste vier jaren; onder investering wordt mede begrepen de garantie die een ondernemer in aanvulling op de inbreng geeft, onder welke naam dan ook, tot betaling van hetgeen uit hoofde van een lening is verschuldigd in het geval dat de met de ondernemer duurzaam verbonden onderneming in een investeringsland in gebreke blijft;  
 
-d. *lening:* een door een geldgever, niet zijnde de onder c bedoelde ondernemer, in samenhang met een investering aan een onderneming in een investeringsland verstrekte lening, voor een duur van tenminste vier jaren en die, indien die geldgever in hoofdzaak op de financiële markten werkzaam is, tot doel heeft aan de onderneming duurzaam vermogen te verschaffen;  
+d.  *lening:* een door een geldgever, niet zijnde de onder c bedoelde ondernemer, in samenhang met een investering aan een onderneming in een investeringsland verstrekte lening, voor een duur van tenminste vier jaren en die, indien die geldgever in hoofdzaak op de financiële markten werkzaam is, tot doel heeft aan de onderneming duurzaam vermogen te verschaffen;  
 
-e.  *geldgever:*  
+e. *geldgever:*
 
 i. een bank als bedoeld in [artikel 1:1 Wet op het financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
@@ -30,15 +30,15 @@ iii. een ondernemer die haar bedrijf maakt van het ter beschikking verkrijgen va
 
 iv. een multilaterale instelling die wordt genoemd in de bijlage bij deze regeling;    
 
-f. *uitvoerder:* uitvoerder als bedoeld in [artikel 1 van Regeling uitvoering EKI](../../../../ministeriele-regeling/regeling/uitvoering/eki/BWBR0027082/README.md);  
+f.  *uitvoerder:* uitvoerder als bedoeld in [artikel 1 van Regeling uitvoering EKI](../../../../ministeriele-regeling/regeling/uitvoering/eki/BWBR0027082/README.md);  
 
-g . *verzekerde:* degene die voor een niet-commercieel risico, dat is verbonden aan een door hem gedane investering of een door hem verstrekte lening is verzekerd op grond van deze regeling;  
+g .  *verzekerde: * degene die voor een niet-commercieel risico, dat is verbonden aan een door hem gedane investering of een door hem verstrekte lening is verzekerd op grond van deze regeling;  
 
-h. *aanvangswaarde:* de waarde van de investering die tot uitdrukking wordt gebracht in de som van het door de verzekerde ingebrachte geld, de tegenwaarde van de door verzekerde ingebrachte middelen in natura en het bedrag van de garantie, dan wel in de hoofdsom van de door de verzekerde betaalde lening;  
+h.  *aanvangswaarde:* de waarde van de investering die tot uitdrukking wordt gebracht in de som van het door de verzekerde ingebrachte geld, de tegenwaarde van de door verzekerde ingebrachte middelen in natura en het bedrag van de garantie, dan wel in de hoofdsom van de door de verzekerde betaalde lening;  
 
-i. *opbrengst:* rente, dividend, royalty’s en andere gelden die door de onderneming in het investeringsland ter beschikking van de verzekerde zijn gesteld, anders dan als aflossing van een lening of als terugbetaling van een investering.     
+i.  *opbrengst:* rente, dividend, royalty’s en andere gelden die door de onderneming in het investeringsland ter beschikking van de verzekerde zijn gesteld, anders dan als aflossing van een lening of als terugbetaling van een investering.     
 2.  Deze regeling is niet van toepassing op een ondernemer of onderneming, bedoeld in artikel 1, eerste lid, onderdeel e onder ii of iii, voor zover die behoort tot een groep waarvan de rechtspersoon die, alleen of samen met een andere groepsmaatschappij, aan het hoofd staat van die groep volgens zijn statuten buiten Nederland zijn zetel heeft.   
-3.  Deze regeling is niet van toepassing op een ondernemer die geen economische activiteiten verricht van industriële of commerciële aard, bestaande in het aanbieden vangoederen of diensten op de markt en die behoort tot een groep waarvan de rechtspersoon die, alleen of samen met een andere groepsmaatschappij, aan het hoofd staat van die groep volgens zijn statuten buiten Nederland zijn zetel heeft.   
+3.  Deze regeling is niet van toepassing op een ondernemer die geen economische activiteiten verricht van industriële of commerciële aard, bestaande in het aanbieden vangoederen of diensten op de markt en die behoort tot een groep waarvan de rechtspersoon die, alleen of samen met een andere groepsmaatschappij, aan het hoofd staat van die groep volgens zijn statuten buiten Nederland zijn zetel heeft.  
 
 ### Artikel  2  
 
@@ -53,7 +53,7 @@ b. oorlogsrisico, in het bijzonder het risico van lokale oorlog, burgeroorlog, r
 
 c. nationalisatie, onteigening, confiscatie en elk ander handelen en nalaten van de zijde van de autoriteiten in het betrokken investeringsland dat met nationalisatie, onteigening of confiscatie gelijk gesteld kan worden;  
 
-d. niet-nakoming of niet-erkenning van een aan de investering ten grondslag liggende overeenkomst door de autoriteiten van het investeringsland waarmee die overeenkomst is gesloten, voor zover dit bij een onherroepelijke uitspraak van een terzake bevoegde rechter of van een door partijen aangewezen arbiter is vastgesteld en die uitspraak niet door de autoriteiten van het investeringsland wordt opgevolgd.     
+d. niet-nakoming of niet-erkenning van een aan de investering ten grondslag liggende overeenkomst door de autoriteiten van het investeringsland waarmee die overeenkomst is gesloten, voor zover dit bij een onherroepelijke uitspraak van een terzake bevoegde rechter of van een door partijen aangewezen arbiter is vastgesteld en die uitspraak niet door de autoriteiten van het investeringsland wordt opgevolgd.    
 
 ### Artikel  3  
 
@@ -70,7 +70,7 @@ c. van een bestaande investering of lening, indien die investering of die lening
 
 a. van een investering die de economische banden tussen Nederland en het betrokken investeringsland duurzaam uitbreidt dan wel versterkt; of  
 
-b. van een lening die wordt verstrekt in samenhang met een investering als bedoeld onder a.     
+b. van een lening die wordt verstrekt in samenhang met een investering als bedoeld onder a.    
 
 ### Artikel  4  
 
@@ -90,7 +90,7 @@ ii. bedraagt, voor zover een opbrengst onder de verzekering valt, ter vergoeding
 
 iii. bedraagt in geen geval meer dan € 100 miljoen per in een investeringsland gevestigde onderneming, waarbij aan die onderneming betaalde leningen voor niet meer dan € 75 miljoen worden vergoed; is bij een in een investeringsland gevestigde onderneming meer dan een verzekerde betrokken, dan wordt een uit deze bepaling voortvloeiende beperking van de vergoeding naar rato van inbreng verdeeld over de verzekerden;    
 
-d. de verzekering vervalt indien niet langer wordt voldaan aan de criteria om te kunnen spreken van een investering of een lening.    
+d. de verzekering vervalt indien niet langer wordt voldaan aan de criteria om te kunnen spreken van een investering of een lening.   
 
 ### Artikel  5  
 
@@ -98,7 +98,7 @@ d. de verzekering vervalt indien niet langer wordt voldaan aan de criteria om te
 
 1.  De Staat kan, alvorens hij een verzekering sluit, advies inwinnen bij derden.   
 2.  Ondernemers, die verzekeringen bij de Staat wensen af te sluiten, wenden zich daartoe tot de uitvoerder. De verzekeringen zullen tussen de ondernemers en de Staat worden afgesloten en vastgelegd in door de uitvoerder in naam en voor rekening en risico van de Staat uitgereikte polissen.   
-3.  De behandeling van een verzekeringsaanvraag en van een eventuele schadeclaim geschieden uitsluitend via de uitvoerder.   
+3.  De behandeling van een verzekeringsaanvraag en van een eventuele schadeclaim geschieden uitsluitend via de uitvoerder.  
 
 ### Artikel  6  
 
@@ -110,7 +110,7 @@ a. het sluiten van de verzekering zou leiden tot overschrijding van het bedrag, 
 
 b. er nadat de verzekering is gevraagd, maar voordat zij wordt gesloten in het investeringsland maatregelen worden getroffen of zich omstandigheden voordoen waardoor er een gerede kans is dat de verzekering zal leiden tot een schade-uitkering;  
 
-c. het sluiten van de verzekering tot gevolg heeft dat het totaal uit hoofde van deze regeling te verzekeren bedrag voor enig investeringsland dat de Minister kan vaststellen te boven gaat.    
+c. het sluiten van de verzekering tot gevolg heeft dat het totaal uit hoofde van deze regeling te verzekeren bedrag voor enig investeringsland dat de Minister kan vaststellen te boven gaat.   
 
 ### Artikel  7  
 
@@ -119,12 +119,12 @@ c. het sluiten van de verzekering tot gevolg heeft dat het totaal uit hoofde van
 1.  De Tijdelijke Regeling herverzekering investeringen wordt ingetrokken.   
 2.  Verplichtingen uit verzekeringen, die door de Staat zijn herverzekerd voor de dag, waarop deze regeling in werking treedt, worden door de Staat nagekomen.   
 3.  Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010.   
-4.  Deze regeling wordt aangehaald als: *Regeling investeringsverzekeringen*.   
+4.  Deze regeling wordt aangehaald als: *Regeling investeringsverzekeringen*.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Financiën,
-J.C. deJager  
+Minister van Financiën, 
+J.C. de Jager    
 
 ### Bijlage  1  
 

@@ -10,66 +10,82 @@ Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale bele
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt de Wet inkomstenbelasting 2001.   
+Wijzigt de Wet inkomstenbelasting 2001. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt de Wet op de loonbelasting 1964.   
+Wijzigt de Wet op de loonbelasting 1964. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.   
+Wijzigt de Wet op de vennootschapsbelasting 1969. 
 
 ### Artikel  IIIa  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt de Successiewet 1956.   
+Wijzigt de Successiewet 1956. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt de Wet op de omzetbelasting 1968.   
+Wijzigt de Wet op de omzetbelasting 1968. 
 
 ### Artikel  IVa  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt de Wet belastingen op milieugrondslag.   
+Wijzigt de Wet belastingen op milieugrondslag. 
 
 ### Artikel  V  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.   
+Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992. 
 
 ### Artikel  VI  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt de Algemene wet inzake rijksbelastingen.   
+Wijzigt de Algemene wet inzake rijksbelastingen. 
 
 ### Artikel  VII  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt de Invorderingswet 1990.   
+Wijzigt de Invorderingswet 1990. 
 
 ### Artikel  VIII  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt de Wet financiering sociale verzekeringen.   
+Wijzigt de Wet financiering sociale verzekeringen. 
 
 ### Artikel  IX  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt de Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling.   
+Wijzigt de Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling. 
 
 ### Artikel  X  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt het Belastingplan 2009.   
+Wijzigt het Belastingplan 2009. 
 
 ### Artikel  XI  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt de Wet werken aan winst.   
+Wijzigt de Wet werken aan winst. 
 
 ### Artikel  XII  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt de Wijzigingswet Wet inkomstenbelasting 2001, enz. (Fiscale Onderhoudswet 2009).   
+Wijzigt de Wijzigingswet Wet inkomstenbelasting 2001, enz. (Fiscale Onderhoudswet 2009). 
 
 ### Artikel  XIII  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt de Aanpassingswet burgerservicenummer.   
+Wijzigt de Aanpassingswet burgerservicenummer. 
 
 ### Artikel  XIV  
+Materieel uitgewerkt per 01-01-2012 
 
 Deze wet treedt, zo nodig met terugwerkende kracht, in werking met ingang van 1 januari 2010, met dien verstande dat: 
 
@@ -91,13 +107,14 @@ h. artikel XIII terugwerkt tot en met 11 maart 2009;
 
 i. artikel II, onderdeel B, terugwerkt tot en met 29 juni 2009, 12.00 uur;  
 
-j. de artikelen I, onderdelen 0A, 0Ab, Ba, Bb, Bc, Bd en Ca, II, onderdeel C, IV, VI, onderdeel B, en VII, onderdeel A, terugwerken tot en met 1 juli 2009.    
+j. de artikelen I, onderdelen 0A, 0Ab, Ba, Bb, Bc, Bd en Ca, II, onderdeel C, IV, VI, onderdeel B, en VII, onderdeel A, terugwerken tot en met 1 juli 2009.   
 
 ### Artikel  XV  
+Materieel uitgewerkt per 01-01-2012 
 
-Deze wet wordt aangehaald als: Fiscale onderhoudswet 2010.  
+Deze wet wordt aangehaald als: Fiscale onderhoudswet 2010. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 23 december 2009  

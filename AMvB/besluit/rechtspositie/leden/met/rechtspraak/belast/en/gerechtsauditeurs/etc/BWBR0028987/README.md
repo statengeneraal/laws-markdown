@@ -33,7 +33,7 @@ g. zij voor de overeenkomstige toepassing van de [artikelen 4](../../../../../..
 
 h. zij voor de overeenkomstige toepassing van de [artikelen 9](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), [14, vijfde lid](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), [14a, tweede lid](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), [16](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md) en [27b, derde lid, van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md) worden gelijkgesteld met bij een gerechtshof of rechtbank werkzame rechterlijke ambtenaren dan wel gewezen rechterlijke ambtenaren die laatstelijk bij een gerechtshof of rechtbank werkzaam zijn geweest; en  
 
-i. voor de overeenkomstige toepassing van [artikel 37b van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md) onder functionele autoriteit het bestuur van de Centrale Raad van Beroep onderscheidenlijk het College van Beroep voor het bedrijfsleven, uitgezonderd het niet-rechterlijk lid, wordt verstaan.    
+i. voor de overeenkomstige toepassing van [artikel 37b van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md) onder functionele autoriteit het bestuur van de Centrale Raad van Beroep onderscheidenlijk het College van Beroep voor het bedrijfsleven, uitgezonderd het niet-rechterlijk lid, wordt verstaan.   
 
 ### Artikel  2  
 
@@ -51,23 +51,23 @@ e. zij voor de overeenkomstige toepassing van de [artikelen 2e, tweede en derde 
 
 f. zij voor de overeenkomstige toepassing van de [artikelen 4](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), [6d, tweede lid](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), [8](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), [33d](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), [33g](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), [33l, vierde lid](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), [33n, zesde lid](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), [33o, vierde lid](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), [34c, tweede lid](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), [34h, vierde lid](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), [36a, derde lid](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), [37a, derde lid](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), en [38b van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md) worden gelijkgesteld met bij een gerechtshof of rechtbank werkzame rechterlijke ambtenaren; en  
 
-g. zij voor de overeenkomstige toepassing van de [artikelen 9](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), [14, vijfde lid](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), [14a, tweede lid](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), [16](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md) en [27b, derde lid, van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md) worden gelijkgesteld met bij een gerechtshof of rechtbank werkzame rechterlijke ambtenaren dan wel gewezen rechterlijke ambtenaren die laatstelijk bij een gerechtshof of rechtbank werkzaam zijn geweest.    
+g. zij voor de overeenkomstige toepassing van de [artikelen 9](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), [14, vijfde lid](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), [14a, tweede lid](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md), [16](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md) en [27b, derde lid, van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md) worden gelijkgesteld met bij een gerechtshof of rechtbank werkzame rechterlijke ambtenaren dan wel gewezen rechterlijke ambtenaren die laatstelijk bij een gerechtshof of rechtbank werkzaam zijn geweest.   
 
 ### Artikel  3  
 
-Bij regeling van Onze Minister van Veiligheid en Justitie worden regels gesteld met betrekking tot de overeenkomstige toepassing van het krachtens de [Wet rechtspositie rechterlijke ambtenaren](../../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) bij ministeriële regeling bepaalde ten aanzien van de in de artikelen 1 en 2 bedoelde leden met rechtspraak belast en senior-gerechtsauditeurs en gerechtsauditeurs.  
+Bij regeling van Onze Minister van Veiligheid en Justitie worden regels gesteld met betrekking tot de overeenkomstige toepassing van het krachtens de [Wet rechtspositie rechterlijke ambtenaren](../../../../../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) bij ministeriële regeling bepaalde ten aanzien van de in de artikelen 1 en 2 bedoelde leden met rechtspraak belast en senior-gerechtsauditeurs en gerechtsauditeurs. 
 
 ### Artikel  4  
 
-Wijzigt het Beroepsreglement.   
+Wijzigt het Beroepsreglement. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 juli 2010.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 juli 2010. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Besluit rechtspositie leden met rechtspraak belast en gerechtsauditeurs CRvB en CBb.  
+Dit besluit wordt aangehaald als: Besluit rechtspositie leden met rechtspraak belast en gerechtsauditeurs CRvB en CBb. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -75,10 +75,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 16 november 2010  
 Beatrix  
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten   
 
 de *vijfentwintigste* november 2010 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

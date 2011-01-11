@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Algemeen Rijksambtenarenreglement.   
+Wijzigt het Algemeen Rijksambtenarenreglement. 
 
 ### Artikel  II  
 
-Wijzigt het Ambtenarenreglement Staten-Generaal.   
+Wijzigt het Ambtenarenreglement Staten-Generaal. 
 
 ### Artikel  III  
 
-Wijzigt het Reglement Dienst Buitenlandse Zaken.   
+Wijzigt het Reglement Dienst Buitenlandse Zaken. 
 
 ### Artikel  IV  
 
-Wijzigt het Besluit personenchauffeurs Rijksdienst.   
+Wijzigt het Besluit personenchauffeurs Rijksdienst. 
 
 ### Artikel  V  
 
@@ -35,7 +35,7 @@ In afwijking van [artikel 10 van het Tijdelijk besluit sociaal flankerend beleid
 
 a. is verhuisd in de periode van 1 januari 2006 tot en met 31 december 2006, € 13.285,82;  
 
-b. is verhuisd in de periode van 1 januari 2007 tot en met 31 december 2007, €13.976,68.    
+b. is verhuisd in de periode van 1 januari 2007 tot en met 31 december 2007, €13.976,68.   
 
 ### Artikel  VI  
 
@@ -51,7 +51,7 @@ b. is verhuisd in de periode van 1 januari 2007 tot en met 31 december 2007, €
 10.  Artikel I, onderdelen C, eerste lid, en K, artikel II, onderdeel B, eerste lid, en artikel III, onderdeel C, eerste lid, werken terug tot en met 1 januari 2009.   
 11.  Artikel I, onderdelen D en I, artikel II, onderdelen C en H, en artikel III, onderdelen D en N, treden in werking met ingang van 1 januari 2011. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2010, treden de in de eerste zin genoemde onderdelen in werking met ingang van de dag na datum van uitgifte van het Staatsblad waarin zij worden geplaatst en werken zij terug tot en met 1 januari 2011.   
 12.  Artikel IV, onderdelen A, D, E, G, H, I, J en K, werkt terug tot en met 1 januari 2010 en artikel IV, onderdeel F, eerste lid, werkt terug tot en met 1 april 2009.   
-13.  Artikel I, onderdeel G, tweede lid, artikel II, onderdeel F, tweede lid, en artikel III, onderdeel J, tweede lid, vervallen met ingang van 1 januari 2012.   
+13.  Artikel I, onderdeel G, tweede lid, artikel II, onderdeel F, tweede lid, en artikel III, onderdeel J, tweede lid, vervallen met ingang van 1 januari 2012.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -59,10 +59,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 14 december 2010  
 Beatrix  
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 J. P. H. Donner   
 
 de *eenentwintigste* december 2010 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

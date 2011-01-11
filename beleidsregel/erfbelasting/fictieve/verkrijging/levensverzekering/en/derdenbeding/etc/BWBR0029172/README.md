@@ -83,7 +83,7 @@ Als de premie of een gedeelte daarvan op enig moment verschuldigd is geweest doo
 ####Huwelijksgoederenregime of samenlevingscontract
 
 Premie die is verschuldigd door de echtgenoot of zijn partner kan door het huwelijksgoederenregime of het samenlevingscontract toch geheel of gedeeltelijk ten laste van het vermogen van de erflater komen. Bij een dergelijk huwelijksgoederenregime of samenlevingscontract mist een afzonderlijke regeling van de verschuldigdheid van de premie dan ook betekenis voor de toepassing van [artikel 13 van de Successiewet](../../../../../../../../../wet/successiewet/1956/BWBR0002226/README.md). Er wordt dan wel gezegd dat het huwelijksgoederenregime of het samenlevingscontract ‘de constructie niet kan dragen’.   
-### 2.5.1  
+### 2.5.1 
 
 ####Wettelijke gemeenschap van goederen
 
@@ -359,8 +359,8 @@ b. Een afzonderlijke gelijkblijvende overlijdensverzekering op het leven van de 
 | Actuariële premie  | € 165 per jaar  |
 | --- | --- |
 
-Het gedeelte van de premie voor de overlijdensverzekering op twee levens voor de uitkering bij overlijden van de man bedraagt:   ![248275](http://wetten.overheid.nl/Illustration/248275)
-Het gedeelte van de premie voor de overlijdensverzekering op twee levens voor de uitkering bij overlijden van de vrouw bedraagt:   ![248275](http://wetten.overheid.nl/Illustration/248275)
+Het gedeelte van de premie voor de overlijdensverzekering op twee levens voor de uitkering bij overlijden van de man bedraagt: ![248270](http://wetten.overheid.nl/Illustration/248270)
+Het gedeelte van de premie voor de overlijdensverzekering op twee levens voor de uitkering bij overlijden van de vrouw bedraagt: ![248271](http://wetten.overheid.nl/Illustration/248271)
 
 ### *Voorbeeld 2* 
 
@@ -397,7 +397,7 @@ b. Een afzonderlijke kapitaalverzekering die op de einddatum tot uitkering komt 
 | Actuariële premie  | € 1.540 per jaar  |
 | --- | --- |
 
-Het gedeelte van de premie voor de gemengde verzekering op één leven dat betrekking heeft op de uitkering bij overlijden van de man bedraagt:   ![248275](http://wetten.overheid.nl/Illustration/248275)
+Het gedeelte van de premie voor de gemengde verzekering op één leven dat betrekking heeft op de uitkering bij overlijden van de man bedraagt: ![248272](http://wetten.overheid.nl/Illustration/248272)
 
 ### *Voorbeeld 3* 
 
@@ -449,8 +449,8 @@ c. Een afzonderlijke kapitaalverzekering die op de einddatum tot uitkering komt 
 | Actuariële premie  | € 1.460 per jaar  |
 | --- | --- |
 
-Het gedeelte van de premie voor de gemengde verzekering op twee levens voor de uitkering bij overlijden van de man bedraagt:   ![248275](http://wetten.overheid.nl/Illustration/248275)
-Het gedeelte van de premie voor de gemengde verzekering op twee levens voor de uitkering bij overlijden van de vrouw bedraagt:   ![248275](http://wetten.overheid.nl/Illustration/248275)
+Het gedeelte van de premie voor de gemengde verzekering op twee levens voor de uitkering bij overlijden van de man bedraagt: ![248273](http://wetten.overheid.nl/Illustration/248273)
+Het gedeelte van de premie voor de gemengde verzekering op twee levens voor de uitkering bij overlijden van de vrouw bedraagt: ![248274](http://wetten.overheid.nl/Illustration/248274)
 
 ### *Voorbeeld 4* 
 
@@ -464,7 +464,7 @@ Als voorbeeld 2 (gemengde verzekering op één leven), maar na 15 jaar wordt het
 | –  | Actuariële premie voor de levenscomponent  | 1.540  | 4.450  | 5.990  |
 | –  | Totale actuariële premie  | 1.850  | 5.100  | 6.950  |
 
-Het gedeelte van de premie voor de gemengde verzekering dat na de verhoging van het kapitaal betrekking heeft op de uitkering bij overlijden van de man bedraagt:   ![248275](http://wetten.overheid.nl/Illustration/248275)
+Het gedeelte van de premie voor de gemengde verzekering dat na de verhoging van het kapitaal betrekking heeft op de uitkering bij overlijden van de man bedraagt: ![248275](http://wetten.overheid.nl/Illustration/248275)
 
 ### 8  
 
@@ -504,5 +504,5 @@ Den Haag
 14 december 2010   
 
 De 
-staatssecretaris van Financiën,
-F.H.H.Weekers   
+staatssecretaris van Financiën, 
+F.H.H. Weekers     

@@ -10,7 +10,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is regels te stellen al
 Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  1  
 
-####Inleidende bepalingen
+####Inleidende bepalingen 
 
 ### Artikel  1  
 
@@ -22,7 +22,7 @@ b. douanewetgeving: de bij wet of landsverordening en de daarop berustende bepal
 
 c. inbreuk: ieder handelen of nalaten in strijd met de douanewetgeving;  
 
-d. douanerechten: de rechten, heffingen en restituties terzake van in-, uit- en doorvoer van goederen, alsmede accijnzen, omzetbelasting, belasting op bedrijfsomzetten, dan wel soortgelijke indirecte belastingen;  
+d. douanerechten: de rechten, heffingen en restituties terzake van in-, uit- en doorvoer van goederen, alsmede accijnzen, omzetbelasting, belasting op bedrijfsomzetten, dan wel soortgelijke indirecte belastingen;   
 
 e. douanevordering: een bedrag aan verschuldigde douanerechten, administratieve boeten, vervolgingskosten en interest;  
 
@@ -34,27 +34,27 @@ h. persoon: een natuurlijke persoon of rechtspersoon;
 
 i. persoonsgegevens: informatie betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;  
 
-j. persoonsregistratie: een samenhangende verzameling van op verschillende personen betrekking hebbende persoonsgegevens, die langs geautomatiseerde weg wordt gevoerd of met het oog op een doeltreffende raadpleging van die gegevens systematisch is aangelegd.    
+j. persoonsregistratie: een samenhangende verzameling van op verschillende personen betrekking hebbende persoonsgegevens, die langs geautomatiseerde weg wordt gevoerd of met het oog op een doeltreffende raadpleging van die gegevens systematisch is aangelegd.   
 
 ### Artikel  2  
 
 1.  De douane-administraties verlenen elkaar administratieve bijstand onder de in deze rijkswet genoemde voorwaarden teneinde een juiste toepassing van de douanewetgeving en een juiste invordering van douanevorderingen te verzekeren, alsmede inbreuken te voorkomen, op te sporen en te bestrijden.   
-2.  Alle administratieve bijstand door één van de douane-administraties wordt verleend binnen de grenzen van haar wettelijke bevoegdheden en de haar ter beschikking staande middelen.   
+2.  Alle administratieve bijstand door één van de douane-administraties wordt verleend binnen de grenzen van haar wettelijke bevoegdheden en de haar ter beschikking staande middelen.  
 
 ### Hoofdstuk  2  
 
-####Verstrekking en gebruik van informatie
+####Verstrekking en gebruik van informatie 
 
 ### Artikel  3  
 
 1.  Informatie die in het kader van deze rijkswet wordt ontvangen wordt slechts gebruikt voor de in artikel 2, eerste lid, genoemde doeleinden en mag slechts worden overgedragen aan andere douane-autoriteiten van het ontvangende land.   
 2.  In bijzondere gevallen mag de informatie worden gebruikt voor andere doeleinden, dan wel door andere autoriteiten, mits de verstrekkende douane-administratie schriftelijk uitdrukkelijk heeft ingestemd met een zodanig gebruik. Overdracht van informatie aan het openbaar ministerie of aan de rechterlijke autoriteiten vindt slechts plaats met toestemming van het openbaar ministerie dan wel de rechterlijke autoriteiten in het land van de verstrekkende douane-administratie.   
 3.  Op verzoek van de verstrekkende douane-administratie verschaft de ontvangende douane-administratie inlichtingen over het gebruik dat van de ontvangen informatie is gemaakt en de daarmede bereikte resultaten.   
-4.  Informatie die in het kader van deze rijkswet wordt ontvangen is onderworpen aan dezelfde regels voor geheimhouding als welke gelden voor soortgelijke informatie in het land van de ontvangende douane-administratie.   
+4.  Informatie die in het kader van deze rijkswet wordt ontvangen is onderworpen aan dezelfde regels voor geheimhouding als welke gelden voor soortgelijke informatie in het land van de ontvangende douane-administratie.  
 
 ### Hoofdstuk  3  
 
-####Bescherming van persoonsgegevens
+####Bescherming van persoonsgegevens 
 
 ### Artikel  4  
 
@@ -93,12 +93,12 @@ a. geeft het in het vierde lid, onderdeel a, bedoelde uitsluitsel en doet de ald
 
 b. bericht binnen acht weken na ontvangst van het verzoek, bedoeld in het vierde lid, onderdeel b, de verzoeker schriftelijk of, dan wel in hoeverre, zij aan het verzoek voldoet.     
 7.  Een weigering om aan het verzoek, bedoeld in het vierde lid, onderdeel b, te voldoen is met redenen omkleed.   
-8.  De douane-administratie draagt er zorg voor dat een beslissing tot verbetering, aanvulling of verwijdering zo spoedig mogelijk wordt uitgevoerd.   
+8.  De douane-administratie draagt er zorg voor dat een beslissing tot verbetering, aanvulling of verwijdering zo spoedig mogelijk wordt uitgevoerd.  
 
 ### Artikel  6  
 
 1.  De Minister van Financiën van Aruba, Curaçao onderscheidenlijk Sint Maarten, stelt voor een persoonsregistratie als bedoeld in dit hoofdstuk een reglement vast.   
-2.  In het reglement worden het doel en de werking van de persoonsregistratie beschreven.   
+2.  In het reglement worden het doel en de werking van de persoonsregistratie beschreven.    
 3.  Het reglement bevat in elk geval een duidelijke regeling van de volgende onderwerpen: 
 
 a. de categorieën personen over wie gegevens in de registratie worden opgenomen;  
@@ -113,17 +113,17 @@ e. de wijze waarop geregistreerde personen of hun wettelijke vertegenwoordigers 
 
 f. de wijze waarop geregistreerde personen of hun wettelijke vertegenwoordigers mededeling van verstrekking van hen betreffende gegevens kunnen verkrijgen.     
 4.  Onverminderd de aanspraken op grond van andere wettelijke regels, heeft degene die schade lijdt doordat ten opzichte van hem in strijd wordt gehandeld met de bij of krachtens dit hoofdstuk gegeven voorschriften ter bescherming van de belangen van geregistreerde of te registreren personen, voor nadeel dat niet in vermogensschade bestaat, recht op een naar billijkheid vast te stellen schadevergoeding.   
-5.  De douane-administratie is aansprakelijk voor de schade of het nadeel, voortvloeiende uit het niet-nakomen van de in het vierde lid bedoelde voorschriften.   
+5.  De douane-administratie is aansprakelijk voor de schade of het nadeel, voortvloeiende uit het niet-nakomen van de in het vierde lid bedoelde voorschriften.  
 
 ### Hoofdstuk  4  
 
-####Uitwisseling van informatie
+####Uitwisseling van informatie 
 
 ### Artikel  7  
 
 1.  De douane-administraties verstrekken elkaar, op verzoek of uit eigen beweging, informatie om het bereiken van de in artikel 2, eerste lid, genoemde doeleinden te bevorderen.   
 2.  Indien de aangezochte douane-administratie niet beschikt over de informatie waar om wordt verzocht, stelt zij een onderzoek in om die informatie te verkrijgen. Zij is bevoegd daartoe de handelingen te verrichten die haar ten behoeve van de toepassing van, en de voorkoming, opsporing en bestrijding van inbreuken op, de eigen douanewetgeving, onderscheidenlijk ten behoeve van de invordering van eigen douanevorderingen, ter beschikking staan.   
-3.  Indien aan het verzoek kan worden voldaan op grond van een andere wettelijke regeling inzake samenwerking tussen de landen, geeft de aangezochte douane-administratie aan welke andere autoriteiten daarbij betrokken zijn.   
+3.  Indien aan het verzoek kan worden voldaan op grond van een andere wettelijke regeling inzake samenwerking tussen de landen, geeft de aangezochte douane-administratie aan welke andere autoriteiten daarbij betrokken zijn.  
 
 ### Artikel  8  
 
@@ -137,11 +137,11 @@ c. of goederen een bepaalde herkomst of oorsprong hebben.
 
 ### Artikel  9  
 
-De douane-administratie verstrekt, op verzoek of uit eigen beweging, de douane-administratie van een ander land van het Koninkrijk verslagen, bewijsmiddelen, gewaarmerkte afschriften van documenten of andere gegevensdragers die informatie bevatten over gedragingen die een inbreuk behelzen of kunnen behelzen.  
+De douane-administratie verstrekt, op verzoek of uit eigen beweging, de douane-administratie van een ander land van het Koninkrijk verslagen, bewijsmiddelen, gewaarmerkte afschriften van documenten of andere gegevensdragers die informatie bevatten over gedragingen die een inbreuk behelzen of kunnen behelzen. 
 
 ### Hoofdstuk  5  
 
-####Bijzonder toezicht
+####Bijzonder toezicht 
 
 ### Artikel  10  
 
@@ -153,11 +153,11 @@ b. plaatsen waar voorraden goederen zijn aangelegd waarvan de verzoekende douane
 
 c. vervoermiddelen en bergingsmiddelen waarvan de verzoekende douane-administratie weet of vermoedt dat zij worden of zullen worden gebruikt voor een inbreuk;  
 
-d. bewegingen, in het bijzonder het binnenkomen in en het verlaten van het grondgebied van haar land, van personen waarvan de verzoekende douane-administratie weet of vermoedt dat deze betrokken zijn of zullen zijn bij een inbreuk.    
+d. bewegingen, in het bijzonder het binnenkomen in en het verlaten van het grondgebied van haar land, van personen waarvan de verzoekende douane-administratie weet of vermoedt dat deze betrokken zijn of zullen zijn bij een inbreuk.   
 
-### Hoofdstuk  6  
+###Hoofdstuk 6 
 
-####Aanwezigheid van ambtenaren op het grondgebied van een ander land van het Koninkrijk
+####Aanwezigheid van ambtenaren op het grondgebied van een ander land van het Koninkrijk 
 
 ### Artikel  11  
 
@@ -174,11 +174,11 @@ d. de uitkomsten van een onderzoek als bedoeld in onderdeel c, alsmede alle over
 
 ### Artikel  12  
 
-Op verzoek stelt de aangezochte douane-administratie haar ambtenaren in de gelegenheid om als deskundige of getuige te verschijnen voor een gerecht van een ander land van het Koninkrijk.  
+Op verzoek stelt de aangezochte douane-administratie haar ambtenaren in de gelegenheid om als deskundige of getuige te verschijnen voor een gerecht van een ander land van het Koninkrijk. 
 
 ### Hoofdstuk  7  
 
-####Bijzondere invorderingsbepalingen
+####Bijzondere invorderingsbepalingen 
 
 ### Artikel  13  
 
@@ -194,21 +194,21 @@ d. andere stukken en informatie welke van nut kunnen zijn.
 2.  De betekening van de executoriale titel, het bevel tot betaling en de tenuitvoerlegging geschieden overeenkomstig de in het land van de aangezochte douane-administratie van kracht zijnde wettelijke bepalingen met betrekking tot bij regeling van de Minister van Financiën van dat land als soortgelijk aangemerkte douanevorderingen.   
 3.  Zolang geen verklaring is ingekomen dat de douanevordering onherroepelijk vaststaat, beperkt de aangezochte douane-administratie zich tot maatregelen om de inning van de douanevordering te verzekeren.   
 4.  De douanevorderingen worden in het land van de aangezochte douane-administratie niet als bevoorrechte vorderingen beschouwd.   
-5.  De aangezochte douane-administratie is niet verplicht aan het verzoek te voldoen indien de mogelijkheden tot invordering op het grondgebied van het land van de verzoekende douane-administratie niet zijn uitgeput.   
+5.  De aangezochte douane-administratie is niet verplicht aan het verzoek te voldoen indien de mogelijkheden tot invordering op het grondgebied van het land van de verzoekende douane-administratie niet zijn uitgeput.  
 
 ### Hoofdstuk  8  
 
-####Kosten
+####Kosten 
 
 ### Artikel  14  
 
 1.  De douane-administraties brengen elkaar voor verleende bijstand geen kosten in rekening, met uitzondering van de kosten en honoraria betaald aan deskundigen en getuigen, alsmede de kosten van tolken en vertalers die niet in overheidsdienst zijn, welke kosten en honoraria zullen worden betaald door de verzoekende douane-administratie.   
 2.  Indien een verzoek aanzienlijke en buitengewone kosten meebrengt of zal meebrengen, voeren de douane-administraties overleg over de wijze waarop het verzoek zal worden uitgevoerd en de kosten zullen worden gedragen.   
-3.  De niet-verhaalbare kosten van de invordering worden vergoed door het land van de verzoekende douane-administratie.   
+3.  De niet-verhaalbare kosten van de invordering worden vergoed door het land van de verzoekende douane-administratie.  
 
 ### Hoofdstuk  9  
 
-####Verzoeken
+####Verzoeken 
 
 ### Artikel  15  
 
@@ -222,17 +222,17 @@ b. het voorwerp van en de reden voor het verzoek;
 
 c. een korte beschrijving van de feiten, de juridische elementen en de aard van het onderzoek;  
 
-d. de namen en adressen van de betrokken personen, voorzover deze bekend zijn.     
+d. de namen en adressen van de betrokken personen, voorzover deze bekend zijn.    
 
 ### Artikel  16  
 
 1.  De douane-administratie van een land kan weigeren gevolg te geven aan een verzoek om bijstand op grond van deze rijkswet indien door het verlenen van de gevraagde bijstand een industrieel geheim, een handelsgeheim of een beroepsgeheim zou worden geschonden.   
 2.  Indien een verzoekende douane-administratie niet in staat zou zijn om harerzijds aan een soortgelijk verzoek om bijstand van de douane-administratie van een ander land van het Koninkrijk gevolg te geven, vermeldt zij dat in haar verzoek. Het staat de aangezochte douane-administratie vrij om aan een dergelijk verzoek gevolg te geven.   
-3.  Weigering om aan een verzoek te voldoen wordt steeds met redenen omkleed.   
+3.  Weigering om aan een verzoek te voldoen wordt steeds met redenen omkleed.  
 
 ### Hoofdstuk  10  
 
-####Slotbepalingen
+####Slotbepalingen 
 
 ### Artikel  17  
 
@@ -241,11 +241,11 @@ d. de namen en adressen van de betrokken personen, voorzover deze bekend zijn.
 
 a. de instanties die in de onderscheiden landen met de uitvoering van deze rijkswet zijn belast;  
 
-b. de wetten, landsverordeningen en andere regelingen waarin aan de douane-administraties van de onderscheiden landen controle- en opsporingstaken zijn opgedragen.     
+b. de wetten, landsverordeningen en andere regelingen waarin aan de douane-administraties van de onderscheiden landen controle- en opsporingstaken zijn opgedragen.    
 
 ### Artikel  18  
 
-Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  19  
 
@@ -255,7 +255,7 @@ Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Neder
 
 Gegeven te 's-Gravenhage 
 1 juli 1999  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Financiën, 
 W. A. F. G. Vermeend   

@@ -10,25 +10,25 @@ Besluit:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van het Nederlands Fonds voor de Podiumkunsten+ over de periodevanaf 2007 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van het Nederlands Fonds voor de Podiumkunsten+ over de periodevanaf 2007’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-De selectielijsten voor de neerslag van de handelingen van het Fonds voor de Amateurkunst en Podiumkunsten en voorgangers, het Fonds voor Podiumprogrammering en Marketing en het Fonds voor de Scheppende Toonkunst op het beleidsterrein Kunsten over de periode vanaf 1945 (vastgesteld bij beschikking van de minister van Onderwijs, Cultuur en Wetenschap, nrs. [C/S&A/07/1032](../../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021951/README.md), [C/S&A/07/1033](../../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021952/README.md) en [C/S&A/07/1045](../../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021935/README.md), alle d.d. 19-4-2007 en gepubliceerd in de Staatscourant nr. 101 d.d. 30-5-2007) worden vanaf 2007 ingetrokken.  
+De selectielijsten voor de neerslag van de handelingen van het Fonds voor de Amateurkunst en Podiumkunsten en voorgangers, het Fonds voor Podiumprogrammering en Marketing en het Fonds voor de Scheppende Toonkunst op het beleidsterrein Kunsten over de periode vanaf 1945 (vastgesteld bij beschikking van de minister van Onderwijs, Cultuur en Wetenschap, nrs. [C/S&A/07/1032](../../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021951/README.md), [C/S&A/07/1033](../../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021952/README.md) en [C/S&A/07/1045](../../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021935/README.md), alle d.d. 19-4-2007 en gepubliceerd in de Staatscourant nr. 101 d.d. 30-5-2007) worden vanaf 2007 ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De staatssecretaris van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 14 december 2010   
 
 De 
-staatssecretaris van Onderwijs, Cultuur en Wetenschap,namens deze: De 
-algemene rijksarchivaris,
-M.J.Berendse  
+staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze: De 
+algemene rijksarchivaris, 
+M.J. Berendse    
 
-### Selectielijst  
+###Selectielijst 
 
-Gepubliceerd op www.archief.nl.  
+Gepubliceerd op www.archief.nl.

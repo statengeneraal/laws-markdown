@@ -10,24 +10,24 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling stagebox beroepsonderwijs 2006 tot en met 2010.   
+Wijzigt de Regeling stagebox beroepsonderwijs 2006 tot en met 2010. 
 
 ### Artikel  II  
 
-Wijzigt de Regeling innovatiebox beroepsonderwijs 2006 tot en met 2009.   
+Wijzigt de Regeling innovatiebox beroepsonderwijs 2006 tot en met 2009. 
 
 ### Artikel  III  
 
-1.  De [Kaderregeling technocentra 2006 tot en met 2010](../../../../../../../../../../../../ministeriele-regeling/kaderregeling/technocentra/2006/tot/en/met/2010/BWBR0019613/README.md) wordt ingetrokken.   
-2.  Voor zover er ter zake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regeling, genoemd in het eerste lid, plaats.   
-3.  Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regeling, genoemd in het eerste lid, blijven in stand.   
+1. De [Kaderregeling technocentra 2006 tot en met 2010](../../../../../../../../../../../../ministeriele-regeling/kaderregeling/technocentra/2006/tot/en/met/2010/BWBR0019613/README.md) wordt ingetrokken.
+2. Voor zover er ter zake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regeling, genoemd in het eerste lid, plaats.
+3. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regeling, genoemd in het eerste lid, blijven in stand. 
 
 ### Artikel  IV  
 
 1.  Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van artikel III.   
-2.  Artikel III treedt in werking met ingang van 1 januari 2011.   
+2.  Artikel III treedt in werking met ingang van 1 januari 2011.  
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.  
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap,
-J.M. vanBijsterveldt-Vliegenthart   
+Minister van Onderwijs, Cultuur en Wetenschap, 
+J.M. van Bijsterveldt-Vliegenthart     

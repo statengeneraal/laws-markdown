@@ -15,21 +15,21 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder: 
 
-a. *wet:*[Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+a.  *wet:* [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
 
-b. *minister:* Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs op het gebied van landbouw en natuurlijke omgeving, Minister van Landbouw, Natuur en Voedselkwaliteit;  
+b.  *minister:* Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs op het gebied van landbouw en natuurlijke omgeving, Minister van Landbouw, Natuur en Voedselkwaliteit;  
 
-c. *accreditatieorgaan:* Nederlands-Vlaamse Accreditatie Organisatie, bedoeld in artikel 1 van het op 3 september 2003 te Den Haag totstandgekomen Verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de accreditatie van opleidingen binnen het Nederlandse en Vlaamse hoger onderwijs (Trb. 2003, 167);  
+c.  *accreditatieorgaan:* Nederlands-Vlaamse Accreditatie Organisatie, bedoeld in artikel 1 van het op 3 september 2003 te Den Haag totstandgekomen Verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de accreditatie van opleidingen binnen het Nederlandse en Vlaamse hoger onderwijs (Trb. 2003, 167);  
 
-d. *inspectie:* inspectie als bedoeld in [artikel 2 van de Wet op het onderwijstoezicht](../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
+d.  *inspectie:* inspectie als bedoeld in [artikel 2 van de Wet op het onderwijstoezicht](../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
 
-e. *graad:* graad als bedoeld in [artikel 7.10a van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+e.  *graad:* graad als bedoeld in [artikel 7.10a van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
 
-f. *aanvraag:* verzoek om toestemming;  
+f.  *aanvraag:* verzoek om toestemming;  
 
-g. *toestemming:* besluit van de minister als bedoeld in [artikel 6.9 van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), op grond waarvan een rechtspersoon graden mag verlenen;  
+g.  *toestemming:* besluit van de minister als bedoeld in [artikel 6.9 van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), op grond waarvan een rechtspersoon graden mag verlenen;  
 
-h. *geaccrediteerde opleiding:* opleiding die door het accreditatieorgaan na de procedure toets nieuwe opleiding of de accreditatieprocedure positief is beoordeeld.    
+h.  *geaccrediteerde opleiding:* opleiding die door het accreditatieorgaan na de procedure toets nieuwe opleiding of de accreditatieprocedure positief is beoordeeld.   
 
 ### §  2  
 
@@ -45,7 +45,7 @@ b. de wijze waarop de minister gebruik maakt van zijn bevoegdheid tot het ontnem
 
 c. de gegevens en bescheiden die de minister voor de beslissing op de aanvraag nodig heeft; en  
 
-d. de interpretatie van [artikel 1.12, derde lid, eerste volzin, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).    
+d. de interpretatie van [artikel 1.12, derde lid, eerste volzin, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
 
 ### §  3  
 
@@ -78,7 +78,7 @@ c. de aanvrager verzorgt ten minste zelf de kern van het curriculum van de oplei
 d. de personen die de opleiding verzorgen zijn bij de aanvrager in dienst of anderszins op zodanige wijze met de aanvrager verbonden, dat de opleiding wordt verzorgd overeenkomstig de wensen en regelingen van de aanvrager;  
 
 e. de opleiding is geen gezamenlijke opleiding als bedoeld in [artikel 7.3c van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).     
-4.  Bij overdracht zijn de voorwaarden, bedoeld in het tweede lid, onder b en c, niet van toepassing, indien de aanvrager een rechtspersoon is aan wie een andere rechtspersoon voor hoger onderwijs een geaccrediteerde opleiding wil overdragen.   
+4.  Bij overdracht zijn de voorwaarden, bedoeld in het tweede lid, onder b en c, niet van toepassing, indien de aanvrager een rechtspersoon is aan wie een andere rechtspersoon voor hoger onderwijs een geaccrediteerde opleiding wil overdragen.  
 
 ### §  4  
 
@@ -116,7 +116,7 @@ m. de begroting van het lopende boekjaar en een meerjarenraming voor de komende 
 
 n. een overzicht van de gegevens bedoeld in [artikel 6.13, vierde lid, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).     
 2.  Indien een éénjarige masteropleiding wordt voorgedragen, betreffen de documenten, bedoeld in het eerste lid, onder j tot en met l, slechts het lopende en het daaraan voorafgaande kalenderjaar of boekjaar.   
-3.  De minister kan de aanvrager om nadere inlichtingen en gegevens vragen wanneer de aanvraag en de daarbij overgelegde documenten naar zijn mening onvoldoende informatie bevatten om tot een oordeel te komen.   
+3.  De minister kan de aanvrager om nadere inlichtingen en gegevens vragen wanneer de aanvraag en de daarbij overgelegde documenten naar zijn mening onvoldoende informatie bevatten om tot een oordeel te komen.  
 
 ### §  5  
 
@@ -124,7 +124,7 @@ n. een overzicht van de gegevens bedoeld in [artikel 6.13, vierde lid, van de we
 
 ### Artikel  5  
 
-De minister neemt binnen 16 weken nadat een aanvraag is ingediend, een besluit.  
+De minister neemt binnen 16 weken nadat een aanvraag is ingediend, een besluit. 
 
 ### §  6  
 
@@ -136,7 +136,7 @@ De minister kan besluiten dat aan een opleiding of aan alle opleidingen verzorgd
 
 a. niet of niet meer wordt voldaan aan hetgeen bij of krachtens de wet is bepaald ten aanzien van de kwaliteitszorg, de registratie, het onderwijs, de examens of de vooropleidingseisen, of  
 
-b. de financiële of bestuurlijke continuïteit van de rechtspersoon naar het oordeel van de minister niet langer is gewaarborgd, waardoor onvoldoende waarborgen bestaan dat kan worden voldaan aan hetgeen bij of krachtens de wet is bepaald ten aanzien van de kwaliteitszorg, de registratie, het onderwijs, de examens of de vooropleidingseisen.    
+b. de financiële of bestuurlijke continuïteit van de rechtspersoon naar het oordeel van de minister niet langer is gewaarborgd, waardoor onvoldoende waarborgen bestaan dat kan worden voldaan aan hetgeen bij of krachtens de wet is bepaald ten aanzien van de kwaliteitszorg, de registratie, het onderwijs, de examens of de vooropleidingseisen.   
 
 ### §  7  
 
@@ -144,7 +144,7 @@ b. de financiële of bestuurlijke continuïteit van de rechtspersoon naar het oo
 
 ### Artikel  7  
 
-Onder ‘de nodige inlichtingen’, bedoeld in [artikel 1.12, derde lid, eerste volzin, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), worden in ieder geval begrepen: informatie over wijzigingen in de eigendomsverhoudingen, de financiële soliditeit of de bestuursstructuur van de rechtspersoon alsmede alle wijzigingen van de gegevens betreffende de rechtspersoon bij de Kamer van Koophandel.  
+Onder ‘de nodige inlichtingen’, bedoeld in [artikel 1.12, derde lid, eerste volzin, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), worden in ieder geval begrepen: informatie over wijzigingen in de eigendomsverhoudingen, de financiële soliditeit of de bestuursstructuur van de rechtspersoon alsmede alle wijzigingen van de gegevens betreffende de rechtspersoon bij de Kamer van Koophandel. 
 
 ### §  8  
 
@@ -154,21 +154,21 @@ Onder ‘de nodige inlichtingen’, bedoeld in [artikel 1.12, derde lid, eerste 
 
 1.  Ten aanzien van aanvragen die na 1 september 2010 bij de minister worden ingediend en zijn voorzien van een op het ‘Protocol aanwijzingsprocedure, toelichting op de werkwijze’ gebaseerd positief oordeel van het accreditatieorgaan, beoordeelt de minister de voorwaarde bedoeld in artikel 3, tweede lid, onder c, met in achtneming van genoemd protocol.   
 2.  Indien de minister een positief besluit neemt ten aanzien van een aanvraag als bedoeld in het eerste lid, wordt de toestemming verleend onder de beperking dat binnen een bij dat besluit te bepalen termijn ten behoeve van nadere advisering van de minister door de inspectie zal worden onderzocht of voor dat deel van het curriculum dat eerder nog niet werd verzorgd wordt voldaan aan de eisen ten aanzien van de kwaliteitszorg, de registratie, het onderwijs en de examens, alsmede de vooropleidingseisen.   
-3.  In andere overgangssituaties dan bedoeld in het eerste lid, bepaalt de minister per geval welke eisen op grond van deze beleidsregel redelijkerwijs aan de aanvrager kunnen worden gesteld.   
+3.  In andere overgangssituaties dan bedoeld in het eerste lid, bepaalt de minister per geval welke eisen op grond van deze beleidsregel redelijkerwijs aan de aanvrager kunnen worden gesteld.  
 
 ### Artikel  9  
 
-Wijzigt deze beleidsregel.   
+Wijzigt deze beleidsregel. 
 
 ### Artikel  10  
 
-Onder gelijktijdige intrekking van de Beleidsregel aanwijzing instellingen voor hoger onderwijs treedt deze beleidsregel in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Onder gelijktijdige intrekking van de Beleidsregel aanwijzing instellingen voor hoger onderwijs treedt deze beleidsregel in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  11  
 
-Deze beleidsregel wordt aangehaald als: Beleidsregel bevoegdheid graadverlening hoger onderwijs.  
+Deze beleidsregel wordt aangehaald als: Beleidsregel bevoegdheid graadverlening hoger onderwijs. 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
-J.M. vanBijsterveldt-Vliegenthart   
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
+J.M. van Bijsterveldt-Vliegenthart     

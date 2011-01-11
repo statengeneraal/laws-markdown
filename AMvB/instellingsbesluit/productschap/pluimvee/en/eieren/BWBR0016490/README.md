@@ -22,7 +22,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 a. de wet: de [Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);  
 
-b. het productschap: het Productschap Pluimvee en Eieren.    
+b. het productschap: het Productschap Pluimvee en Eieren.   
 
 ### Artikel  2  
 
@@ -40,7 +40,7 @@ e. eieren: vogeleieren welke al dan niet bestemd zijn voor menselijke consumptie
 
 f. technische eiproducten: eiproducten welke ongeschikt zijn voor menselijke consumptie;  
 
-g. wild: alle gedode, voor menselijke consumptie geschikte dieren die in het vrije veld plegen te leven.    
+g. wild: alle gedode, voor menselijke consumptie geschikte dieren die in het vrije veld plegen te leven.   
 
 ### Artikel  3  
 
@@ -56,7 +56,7 @@ d. uitoefenen van het pluimveevermeerderingsbedrijf, of
 
 e. uitoefenen van kuikenbroederij.     
 2.  In dit besluit wordt onder handel mede de werkzaamheid van tussenpersonen verstaan.   
-3.  In dit besluit wordt onder handel niet de doorvoer- en driehoekshandel verstaan.   
+3.  In dit besluit wordt onder handel niet de doorvoer- en driehoekshandel verstaan.  
 
 ### §  2  
 
@@ -83,7 +83,7 @@ d. de handel wordt uitgeoefend in:
 
 4° technische eiproducten.       
 3.  Het productschap is mede ingesteld voor veilingen van de in het tweede lid bedoelde producten.   
-4.  Het productschap is gevestigd te Zoetermeer.   
+4.  Het productschap is gevestigd te Zoetermeer.  
 
 ### Artikel  5  
 
@@ -95,7 +95,7 @@ b. voor ondernemingen op het gebied van de verwerkende industrie en de groothand
 
 c. voor ondernemingen op het gebied van de verwerkende industrie en de groothandel in pluimvee, wild en tamme konijnen: twee leden door organisaties van ondernemers en drie leden door organisaties van werknemers; en  
 
-d. voor ondernemingen op het gebied van de detailhandel in eieren en pluimvee: twee leden door organisaties van ondernemers en een lid door organisaties van werknemers.    
+d. voor ondernemingen op het gebied van de detailhandel in eieren en pluimvee: twee leden door organisaties van ondernemers en een lid door organisaties van werknemers.   
 
 ### §  3  
 
@@ -103,16 +103,16 @@ d. voor ondernemingen op het gebied van de detailhandel in eieren en pluimvee: t
 
 ### Artikel  6  
 
-Het productschap is bevoegd tot de regeling of nadere regeling van de in [artikel 93, tweede lid, van de wet](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) vermelde onderwerpen of onderdelen daarvan, met uitzondering van onderdeel d: de lonen en andere arbeidsvoorwaarden.  
+Het productschap is bevoegd tot de regeling of nadere regeling van de in [artikel 93, tweede lid, van de wet](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) vermelde onderwerpen of onderdelen daarvan, met uitzondering van onderdeel d: de lonen en andere arbeidsvoorwaarden. 
 
 ### Artikel  7  
 
-Bij een op grond van [artikel 93, tweede lid, van de wet](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) vastgestelde verordening kan worden bepaald dat deze mede andere dan de in [artikel 102, eerste lid, van de wet](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) bedoelde natuurlijke en rechtspersonen bindt, voorzover deze handelingen verrichten die bedrijfsmatig in de ondernemingen waarvoor het productschap is ingesteld, plegen te worden verricht.  
+Bij een op grond van [artikel 93, tweede lid, van de wet](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) vastgestelde verordening kan worden bepaald dat deze mede andere dan de in [artikel 102, eerste lid, van de wet](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) bedoelde natuurlijke en rechtspersonen bindt, voorzover deze handelingen verrichten die bedrijfsmatig in de ondernemingen waarvoor het productschap is ingesteld, plegen te worden verricht. 
 
 ### Artikel  8  
 
 1.  Het productschap legt een heffing als bedoeld in [artikel 126, eerste lid van de wet](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) op, gebaseerd op een grondslag die het bestuur passend acht, waarbij het tarief voor verschillende in de heffingsverordening aangewezen groepen van ondernemingen verschillend kan zijn. Boven of in de plaats van zodanige heffing kan een bedrag worden geheven dat voor alle ondernemingen of groepen daarvan gelijk is.   
-2.  Heffingen, waarvan de opbrengst een bijzondere bestemming heeft, kunnen worden opgelegd naar een grondslag welke het bestuur van het productschap in verband met die bestemming passend acht.   
+2.  Heffingen, waarvan de opbrengst een bijzondere bestemming heeft, kunnen worden opgelegd naar een grondslag welke het bestuur van het productschap in verband met die bestemming passend acht.  
 
 ### §  4  
 
@@ -123,19 +123,19 @@ Bij een op grond van [artikel 93, tweede lid, van de wet](../../../../../../../w
 1.  Het bij verordening van de Sociaal-Economische Raad van 21 augustus 1998 ingestelde Productschap voor Pluimvee en Eieren wordt opgeheven.   
 2.  Verordeningen en andere besluiten die zijn vastgesteld door het bij verordening van de Sociaal-Economische Raad van 21 augustus 1998 ingestelde Productschap voor Pluimvee en Eieren blijven van kracht tot de datum waarop de door het op grond van dit besluit ingestelde Productschap voor Pluimvee en Eieren vastgestelde verordeningen en andere besluiten terzake in werking zullen treden.   
 3.  Het personeel, de rechten, de verplichtingen, de vermogensbestanddelen en de archiefbescheiden van het bij verordening van de Sociaal-Economische Raad van 21 augustus 1998 ingestelde Productschap voor Pluimvee en Eieren, gaan over naar het op grond van dit besluit ingestelde Productschap voor Pluimvee en Eieren.   
-4.  Wettelijke procedures en rechtsgedingen, ingesteld door of tegen het bij verordening van de Sociaal-Economische Raad van 21 augustus 1998 ingestelde Productschap Pluimvee en Eieren worden geacht te zijn ingesteld door of tegen het op grond van dit besluit ingestelde Productschap voor Pluimvee en Eieren.   
+4.  Wettelijke procedures en rechtsgedingen, ingesteld door of tegen het bij verordening van de Sociaal-Economische Raad van 21 augustus 1998 ingestelde Productschap Pluimvee en Eieren worden geacht te zijn ingesteld door of tegen het op grond van dit besluit ingestelde Productschap voor Pluimvee en Eieren.  
 
 ### Artikel  10  
 
-De bestuursleden en hun plaatsvervangers van wie de zittingsperiode ingaat op de datum van inwerkingtreding van dit besluit, treden af op 1 januari 2006.  
+De bestuursleden en hun plaatsvervangers van wie de zittingsperiode ingaat op de datum van inwerkingtreding van dit besluit, treden af op 1 januari 2006. 
 
 ### Artikel  11  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  12  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Productschap Pluimvee en Eieren.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Productschap Pluimvee en Eieren. 
 
 Lasten en bevelen dat dit besluit in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -149,7 +149,7 @@ A. J. de Geus
 De Minister van Economische Zaken , 
 L. J. Brinkhorst   
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit , 
+De Minister van Landbouw, Natuur en Voedselkwaliteit ,  
 C. P. Veerman   
 
 de *zesde* april 2004 

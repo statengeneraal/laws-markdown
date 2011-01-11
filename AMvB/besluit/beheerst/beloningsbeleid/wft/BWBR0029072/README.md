@@ -14,24 +14,30 @@ Gezien het nader rapport van Onze Minister van Financiën van 16 november 2010, 
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-01-2013 
 
-Wijzigt het Besluit prudentiële regels Wft.   
+Wijzigt het Besluit prudentiële regels Wft. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-01-2013 
 
-Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.   
+Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft. 
 
 ### Artikel  III  
 
 ####Inwerkingtreding
 
-De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld.  
+Materieel uitgewerkt per 01-01-2013 
+
+De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  IV  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit beheerst beloningsbeleid Wft.  
+Materieel uitgewerkt per 01-01-2013 
+
+Dit besluit wordt aangehaald als: Besluit beheerst beloningsbeleid Wft. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -39,10 +45,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 19 november 2010  
 Beatrix  
 
-De Minister van Financiën, 
+De Minister van Financiën,  
 J. C. de Jager   
 
 de *veertiende* december 2010 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

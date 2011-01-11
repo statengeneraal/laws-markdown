@@ -93,21 +93,21 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 
 ### Artikel  2  
 
-Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in artikel 1 is, tot verval van de beperking op de openbaarheid, slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.  
+Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in artikel 1 is, tot verval van de beperking op de openbaarheid, slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden. 
 
 ### Artikel  3  
 
-Het vervaardigen van reproducties van documenten, geborgen onder de inventarisnummers genoemd in artikel 1 is, tot verval van de beperking op de openbaarheid slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.  
+Het vervaardigen van reproducties van documenten, geborgen onder de inventarisnummers genoemd in artikel 1 is, tot verval van de beperking op de openbaarheid slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit wordt als bijlage gevoegd bij de *‘Verklaring van Overbrenging van het archief van de Strijdkrachten in Nederlands Nieuw-Guinea van het Ministerie van Defensie, 1950–1962’*.   
 
 Den Haag 
 14 december 2010   
 
 De 
-Minister van Defensie,voor deze:
-Secretaris-generaal,
-A.H.C.Annink   
+Minister van Defensie, voor deze: 
+Secretaris-generaal, 
+A.H.C. Annink     

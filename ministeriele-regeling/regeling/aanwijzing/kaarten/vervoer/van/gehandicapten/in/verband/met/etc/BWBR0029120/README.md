@@ -14,13 +14,13 @@ a. de OV-Begeleiderskaart;
 
 b. de Valyspas; en  
 
-c. de WMO-pas.    
+c. de WMO-pas.   
 
 ### Artikel  2  
 
-Deze regeling treedt in werking op het tijdstip waarop de wet van 30 september 2010 tot wijziging van de Wegenverkeerswet 1994 in verband met de aanwijzing van bromfietsen waarvoor geen Europese typegoedkeuring is vereist teneinde de toelating van bijzondere bromfietsen tot het verkeer te vereenvoudigen en van de Wet rijonderricht motorrijtuigen 1993 in verband met het herstel van enkele onvolkomenheden (Stb. 744) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop de wet van 30 september 2010 tot wijziging van de Wegenverkeerswet 1994 in verband met de aanwijzing van bromfietsen waarvoor geen Europese typegoedkeuring is vereist teneinde de toelating van bijzondere bromfietsen tot het verkeer te vereenvoudigen en van de Wet rijonderricht motorrijtuigen 1993 in verband met het herstel van enkele onvolkomenheden (Stb. 744) in werking treedt. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Infrastructuur en Milieu,
-M. H.Schultz van Haegen   
+Ministervan Infrastructuur en Milieu, 
+M. H. Schultz van Haegen     

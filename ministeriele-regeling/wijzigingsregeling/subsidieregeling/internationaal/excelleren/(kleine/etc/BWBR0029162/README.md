@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Subsidieregeling internationaal excelleren.   
+Wijzigt de Subsidieregeling internationaal excelleren. 
 
 ### Artikel  II  
 
-Op aanvragen om subsidie die vóór de inwerkingtreding van deze regeling zijn ingediend en op subsidies die vóór de inwerkingtreding van deze regeling zijn verstrekt, blijft de [Subsidieregeling internationaal excelleren](../../../../../../../../ministeriele-regeling/subsidieregeling/internationaal/excelleren/BWBR0026983/README.md) van toepassing zoals die onmiddellijk voor dat tijdstip luidde.  
+Op aanvragen om subsidie die vóór de inwerkingtreding van deze regeling zijn ingediend en op subsidies die vóór de inwerkingtreding van deze regeling zijn verstrekt, blijft de [Subsidieregeling internationaal excelleren](../../../../../../../../ministeriele-regeling/subsidieregeling/internationaal/excelleren/BWBR0026983/README.md) van toepassing zoals die onmiddellijk voor dat tijdstip luidde. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van 1 januari 2011.  
+Deze regeling treedt in werking met ingang van 1 januari 2011. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -24,4 +24,4 @@ Den Haag
 
 De 
 Staatssecretaris van Economische Zaken, Landbouw en Innovatie, 
-H.Bleker   
+H. Bleker     
