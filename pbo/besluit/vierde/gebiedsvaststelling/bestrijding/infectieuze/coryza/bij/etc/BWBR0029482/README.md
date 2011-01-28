@@ -8,20 +8,20 @@ Gelet op [artikel 2, eerste lid, van de Verordening bestrijding infectieuze cory
 Gehoord het advies van de Adviescommissie pluimveegezondheidszorg,
 Besluit:    
 
-### Artikel  1  
+###Artikel 1 
 
-In het gebied aangegeven op de kaart in de bijlage is de aanwezigheid van infectieuze coryza bij pluimvee vastgesteld.  
+In het gebied aangegeven op de kaart in de bijlage is de aanwezigheid van infectieuze coryza bij pluimvee vastgesteld. 
 
-### Artikel  2  
+###Artikel 2 
 
-1.  Dit besluit wordt aangehaald als: Besluit vierde gebiedsvaststelling bestrijding infectieuze coryza bij pluimvee (PPE) 2010.   
-2.  Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking met ingang van de dag na publicatie.   
+1. Dit besluit wordt aangehaald als: Besluit vierde gebiedsvaststelling bestrijding infectieuze coryza bij pluimvee (PPE) 2010. 
+2. Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking met ingang van de dag na publicatie.
 
 Zoetermeer 
 17 december 2010   
 
 B.J. Krouwel  
-voorzitter   
+voorzitter  
 
 ####Besluit vierde gebiedsvaststelling bestrijding infectieuze coryza bij pluimvee (PPE) 2010
 

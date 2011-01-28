@@ -1,13 +1,13 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Ministeriële regeling van 7 mei 2003, afdeling pensioenen en sociale zekerheid, nr. P/2003002682
+##Ministeriële regeling van 7 mei 2003, afdeling pensioenen en sociale zekerheid, nr. P/2003002682 
 
 De Staatssecretaris van Defensie,  
 Gelet op:
 
-- [artikel 91 van het Algemeen militair ambtenarenreglement](../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) (AMAR),  
+- [artikel 91 van het Algemeen militair ambtenarenreglement](../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) (AMAR),
 
-- [artikel 74](../../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md) en [artikel 168 van het Burgerlijk ambtenarenreglement defensie](../../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md) (BARD);     Besluit:    
+- [artikel 74](../../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md) en [artikel 168 van het Burgerlijk ambtenarenreglement defensie](../../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md) (BARD);  Besluit:     
 
 ### Artikel  1  
 
@@ -17,19 +17,19 @@ In deze regeling wordt verstaan onder:
 
 a. *beleidsterrein:* de Koninklijke Landmacht, de Koninklijke Marine, de Koninklijke Luchtmacht, de Koninklijke Marechaussee, het Defensie Interservice Commando (DICO) en de Centrale Organisatie van het Ministerie van Defensie;  
 
-b.  *werknemer:*  
+b. *werknemer:*  
 
-1 <sup>e</sup> de militair in werkelijke dienst als bedoeld in [artikel 1, onder c van het Algemeen militair ambtenarenreglement](../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) en tewerkgesteld bij een beleidsterrein;  
+1<sup>e</sup> de militair in werkelijke dienst als bedoeld in [artikel 1, onder c van het Algemeen militair ambtenarenreglement](../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) en tewerkgesteld bij een beleidsterrein; 
 
-2 <sup>e</sup> de burgerlijke ambtenaar tewerkgesteld bij het Ministerie van Defensie;    
+2<sup>e</sup> de burgerlijke ambtenaar tewerkgesteld bij het Ministerie van Defensie;  
 
 c. *directe chef:* de functionaris onder wiens toezicht en leiding de functie wordt vervuld, dan wel die als zodanig door de commandant is aangewezen;  
 
-d.  *commandant:*  
+d. *commandant:*  
 
-1 <sup>e</sup> ten aanzien van militairen: de commandant, opgenomen in bijlage 2 van de Regeling aanwijzing commandanten AMAR;  
+1<sup>e</sup> ten aanzien van militairen: de commandant, opgenomen in bijlage 2 van de Regeling aanwijzing commandanten AMAR;
 
-2 <sup>e</sup> ten aanzien van de burgerlijke ambtenaar: het hoofd van de diensteenheid, opgenomen in bijlage 3 van de Regeling bevoegdhedentoedeling burgerlijke ambtenaren defensie;    
+2<sup>e</sup> ten aanzien van de burgerlijke ambtenaar: het hoofd van de diensteenheid, opgenomen in bijlage 3 van de Regeling bevoegdhedentoedeling burgerlijke ambtenaren defensie;   
 
 e. *ARBO-dienst:* een onafhankelijke voor het betreffende beleidsterrein verantwoordelijke ARBO-dienst als bedoeld in de [Arbeidsomstandighedenwet](../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);  
 
@@ -37,7 +37,7 @@ f. *bedrijfsarts:* een arts werkzaam bij de ARBO-dienst en als zodanig belast me
 
 g. *ziekmelding:* de mededeling van of namens de werknemer waarmee deze bekend stelt dat hij in verband met ziekte verhinderd is zijn arbeid te verrichten;  
 
-h. *ziekteverzuim:* het als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte ongeschikt zijn tot het verrichten van zijn arbeid;  
+h. *ziekteverzuim:* het als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte ongeschikt zijn tot het verrichten van zijn arbeid; 
 
 i. *ziekmeldingsgesprek:* het gesprek dat in beginsel tijdens het moment van de ziekmelding, doch uiterlijk op de eerste verzuimdag, moet worden gevoerd tussen de directe chef en de werknemer die zich ziek heeft gemeld;  
 
@@ -63,10 +63,10 @@ c. de vermoedelijke duur van de afwezigheid;
 
 d. stand van zaken betreffende de (voortgang) van zijn werkzaamheden.     
 4.  De werknemer dient gedurende de eerste twee werkdagen van het ziekteverzuim van 09.00 tot 17.00 uur in persoon bereikbaar te zijn. Na deze dagen geldt deze verplichting op werkdagen tussen 09.00 en 10.00 uur. De commandant is bevoegd de werknemer van deze laatste verplichting te ontheffen.   
-5.  De werknemer dient aan een oproep van de Arbo-dienst om op het spreekuur van de bedrijfsarts te verschijnen, gevolg te geven, tenzij zulks, eventueel achteraf te beoordelen door de bedrijfsarts, onmogelijk blijkt. Dit geldt ook als de arbeid inmiddels is hervat.   
-6.  De werknemer hervat geheel of gedeeltelijk zijn arbeid zodra hij daartoe in staat is of zodra hij daartoe van de commandant, na inwinning van het advies van de ARBO-dienst, de opdracht krijgt. De commandant volgt dat advies, tenzij er zwaarwegende redenen zijn om daarvan in het dienstbelang af te wijken. Naar aanleiding van de hervatting van zijn arbeid vindt, zulks ter beoordeling van de commandant, een werkhervattinggesprek plaats.   
-7.  De werknemer die eigenstandig zijn arbeid hervat, stelt hiervan onmiddellijk zijn directe chef in kennis.   
-8.  Na de terugmelding wordt een aanspraak op teruggave van vakantieverlofdagen uitsluitend verleend voor de vakantiedagen gedurende welke, blijkens een verklaring van de behandelend arts, verhindering tot dienstverrichting zou hebben bestaan.   
+5.  De werknemer dient aan een oproep van de Arbo-dienst om op het spreekuur van de bedrijfsarts te verschijnen, gevolg te geven, tenzij zulks, eventueel achteraf te beoordelen door de bedrijfsarts, onmogelijk blijkt. Dit geldt ook als de arbeid inmiddels is hervat. 
+6 . De werknemer hervat geheel of gedeeltelijk zijn arbeid zodra hij daartoe in staat is of zodra hij daartoe van de commandant, na inwinning van het advies van de ARBO-dienst, de opdracht krijgt. De commandant volgt dat advies, tenzij er zwaarwegende redenen zijn om daarvan in het dienstbelang af te wijken. Naar aanleiding van de hervatting van zijn arbeid vindt, zulks ter beoordeling van de commandant, een werkhervattinggesprek plaats.
+7.  De werknemer die eigenstandig zijn arbeid hervat, stelt hiervan onmiddellijk zijn directe chef in kennis.
+8.  Na de terugmelding wordt een aanspraak op teruggave van vakantieverlofdagen uitsluitend verleend voor de vakantiedagen gedurende welke, blijkens een verklaring van de behandelend arts, verhindering tot dienstverrichting zou hebben bestaan.  
 
 ### Artikel  3  
 
@@ -86,8 +86,8 @@ De algemene aanwijzingen bij ziekte van burgerpersoneel, DBP/BO, nummer PB 90/15
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de datum waarop de wijziging van [artikel 74 BARD](../../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), houdende het scheppen van een basis voor deze regeling, in werking treedt en kan worden aangehaald als 'Regeling ziek- en hersteldmelding defensiepersoneel'.  
+Deze regeling treedt in werking met ingang van de datum waarop de wijziging van [artikel 74 BARD](../../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), houdende het scheppen van een basis voor deze regeling, in werking treedt en kan worden aangehaald als 'Regeling ziek- en hersteldmelding defensiepersoneel'. 
 
 De 
 Staatssecretaris van Defensie, 
-C. van derKnaap    
+C. van der  Knaap      
