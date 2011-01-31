@@ -20,12 +20,12 @@ c) de aangelegenheden betreffende de Nationale Stichting tot Exploitatie van Cas
 
 d) alle aangelegenheden betreffende het Rijksvastgoed- en ontwikkelingsbedrijf (RVOB);  
 
-e) alle aangelegenheden betreffende Domeinen Roerende Zaken.    
+e) alle aangelegenheden betreffende Domeinen Roerende Zaken.   
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 14 oktober 2010.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 14 oktober 2010. 
 
 De 
-Minister van Financiën,
-J.C. deJager   
+Minister van Financiën, 
+J.C. de Jager     

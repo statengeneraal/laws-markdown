@@ -12,7 +12,7 @@ Hebben goedgevonden en verstaan:
 ### Artikel  1  
 
 1.  Onze Minister van Financiën wordt belast met de zorg voor de Economische Controledienst, voor zover deze zorg voor 1 september 1999 was opgedragen aan Onze Minister van Economische Zaken.   
-2.  De taak van beide ministeries wordt dienovereenkomstig gewijzigd.   
+2.  De taak van beide ministeries wordt dienovereenkomstig gewijzigd.  
 
 ### Artikel  2  
 
@@ -22,13 +22,13 @@ Onze Minister-President, Minister van Algemene Zaken en Onze Ministers van Econo
 
 's-Gravenhage 
 6 juli 1999  
-Beatrix  
+Beatrix   
 
 De Minister-President, Minister van Algemene Zaken, 
-W. Kok   
+W. Kok    
 
 De Minister van Economische Zaken, 
-A. Jorritsma-Lebbink   
+A. Jorritsma-Lebbink    
 
 De Minister van Financiën, 
 G. Zalm   
@@ -36,4 +36,4 @@ G. Zalm
 de *twaalfde* augustus 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

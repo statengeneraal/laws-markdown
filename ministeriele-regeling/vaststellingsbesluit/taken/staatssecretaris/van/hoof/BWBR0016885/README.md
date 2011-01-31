@@ -12,5 +12,5 @@ Den Haag
 21 juni 2004    
 
 De 
-Minister voornoemd, 
-A.J. deGeus    
+Minister voornoemd,
+A.J. de Geus      

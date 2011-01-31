@@ -8,7 +8,8 @@ Gelet op [artikel 46, tweede lid, van de Grondwet](../../../../../../wet/grondwe
 Mede gelet op de Koninklijke Besluiten van 22 februari 2007, nr. 07.000658 en nr. 07.000669;
 Besluit:    
 
-### Enig  artikel  
+###Enig artikel 
+Materieel uitgewerkt per 01-08-2013 
 
 De Staatssecretaris is binnen de grenzen van het door mij vastgestelde beleid en de daarmee gemoeide sturingsconcepten in het bijzonder belast met: 
 
@@ -28,8 +29,8 @@ g. Biotechnologie, exclusief technologisch onderzoek.
 
 h. Oorlogsgetroffenen en verzetsdeelnemers.  
 
-i. Andere aangelegenheden waarvan de behartiging door de Minister aan haar wordt toevertrouwd.    
+i. Andere aangelegenheden waarvan de behartiging door de Minister aan haar wordt toevertrouwd.   
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink   
+A. Klink     

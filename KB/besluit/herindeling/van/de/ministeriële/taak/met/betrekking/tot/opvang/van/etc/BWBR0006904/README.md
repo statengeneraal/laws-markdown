@@ -9,11 +9,11 @@ Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, d.d. 
 Gelet op [artikel 44 van de Grondwet](../../../../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md);
 Hebben goedgevonden en verstaan:    
 
-Enig artikel   
+Enig artikel  
 
 1.  Onze Minister van Justitie wordt belast met de behartiging van de aangelegenheden op het terrein van de opvang van asielzoekers, voor zover deze zorg voor 22 augustus 1994 was opgedragen aan Onze Minister van Welzijn, Volksgezondheid en Cultuur.   
 2.  De taak van beide ministeries wordt dienovereenkomstig gewijzigd.   
-3.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 22 augustus 1994.   
+3.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst en werkt terug tot en met 22 augustus 1994.  
 
 Onze Minister-President, Minister van Algemene Zaken, en Onze Ministers van Justitie en van Volksgezondheid, Welzijn en Sport zijn belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting zal worden geplaatst in het *Staatsblad*, waarvan mededeling zal worden gedaan in de *Staatscourant* en waarvan afschrift zal worden gezonden aan de Hoge Colleges van Staat, de ministerraad, de Gevolmachtigde Ministers van de Nederlandse Antillen en van Aruba en de ministeries.   
 

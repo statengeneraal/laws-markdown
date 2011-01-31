@@ -38,19 +38,19 @@ m. reclassering;
 
 n. het project Herijking executie;  
 
-o. 1F-beleid;   telkens met inbegrip van de bijbehorende wetgeving en met inbegrip van de met de uitvoering van het beleid op deze terreinen belaste dienstonderdelen van het Ministerie van Veiligheid en Justitie.  
+o. 1F-beleid;   telkens met inbegrip van de bijbehorende wetgeving en met inbegrip van de met de uitvoering van het beleid op deze terreinen belaste dienstonderdelen van het Ministerie van Veiligheid en Justitie. 
 
 ### Artikel  2  
 
-De staatssecretaris kan voorts met nader door de minister aan te wijzen onderwerpen worden belast.  
+De staatssecretaris kan voorts met nader door de minister aan te wijzen onderwerpen worden belast. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 14 oktober 2010.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 14 oktober 2010. 
 
 's-Gravenhage 
 17 december 2010   
 
 De 
-Minister van Veiligheid en Justitie,
-I.W.Opstelten   
+Minister van Veiligheid en Justitie, 
+I.W. Opstelten     

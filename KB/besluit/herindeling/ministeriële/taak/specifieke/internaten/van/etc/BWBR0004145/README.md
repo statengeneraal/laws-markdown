@@ -9,9 +9,9 @@ Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, d.d. 
 Gelet op [artikel 44 van de Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md);
 Hebben goedgevonden en verstaan:    
 
-Enig artikel   
+Enig artikel  
 
-Met ingang van 1 januari 1987 Onze Minister van Welzijn, Volksgezondheid en Cultuur te belasten met de zorg voor de internaten voor kinderen van binnenschippers en kermisexploitanten en de erkende gemengde internaten voor zover thans opgedragen aan Onze Minister van Onderwijs en Wetenschappen en de taak van beide ministeries dienovereenkomstig te wijzigen.  
+Met ingang van 1 januari 1987 Onze Minister van Welzijn, Volksgezondheid en Cultuur te belasten met de zorg voor de internaten voor kinderen van binnenschippers en kermisexploitanten en de erkende gemengde internaten voor zover thans opgedragen aan Onze Minister van Onderwijs en Wetenschappen en de taak van beide ministeries dienovereenkomstig te wijzigen. 
 
 Onze Minister-President, Minister van Algemene Zaken en Onze Ministers van Welzijn, Volksgezondheid en Cultuur en van Onderwijs en Wetenschappen zijn belast met de uitvoering van dit besluit dat zal worden geplaatst in het *Staatsblad* en waarvan mededeling zal worden gedaan in de *Nederlandse Staatscourant* en waarvan afschrift zal worden gezonden aan de in dit besluit genoemden, de Hoge Colleges van Staat, de Raad van Ministers, de Gevolmachtigde Ministers van de Nederlandse Antillen en Aruba en de ministeries.   
 
