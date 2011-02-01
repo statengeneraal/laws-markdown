@@ -9,9 +9,9 @@ Op de voordracht van de Staatssecretaris van Defensie van 20 december 1995, nr. 
 Gelet op [artikel 27, tweede lid, van het Algemeen militair ambtenarenreglement](../../../../../../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md);
 Hebben goedgevonden en verstaan:    
 
-onbenoemd   
+onbenoemd 
 
-Onze Minister van Defensie te machtigen officieren beneden de rang van kapitein ter zee/kolonel te bevorderen.  
+Onze Minister van Defensie te machtigen officieren beneden de rang van kapitein ter zee/kolonel te bevorderen. 
 
 Onze Minister van Defensie is belast met de uitvoering van dit besluit dat in het *Staatsblad* zal worden geplaatst.   
 
