@@ -11,7 +11,7 @@ Besluiten:
 
 ### Artikel  I  
 
-#### [Arbeidsomstandighedenwet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) 
+####[Arbeidsomstandighedenwet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md)
 
 De volgende regelingen worden ingetrokken: 
 
@@ -21,17 +21,17 @@ b. [Regeling van 21 november 2006 van de Staatssecretaris van Sociale Zaken en 
 
 c. [Regeling van 25 augustus 1995 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. RBO/APM/95/01462, tot instelling van een Commissie van Advies Stoomwezen b.v.](../../../../ministeriele-regeling/instelling/commissie/van/advies/stoomwezen/b.v./BWBR0007526/README.md), (Stcrt. 172);  
 
-d. [Regeling van 31 januari 2000 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. ARBO/APM/99/78845, tot wijziging van de Regels voor toestellen onder druk](../../../../ministeriele-regeling/wijziging/regels/voor/toestellen/onder/druk/BWBR0011139/README.md), (Stcrt. 24).    
+d. [Regeling van 31 januari 2000 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. ARBO/APM/99/78845, tot wijziging van de Regels voor toestellen onder druk](../../../../ministeriele-regeling/wijziging/regels/voor/toestellen/onder/druk/BWBR0011139/README.md), (Stcrt. 24).   
 
 ### Artikel  II  
 
-#### Arbeidsvoorzieningswet 
+####Arbeidsvoorzieningswet
 
-De volgende regelingen worden ingetrokken: 
+De volgende regelingen worden ingetrokken:
 
 a. [Regeling van 7 juli 1994 van de Minister van Sociale Zaken en Werkgelegenheid, nr. ABA/AM/ARV/94/0960, tot instelling van een Onderzoekscommissie Evaluatie Arbeidsvoorzieningswet](../../../../ministeriele-regeling/instelling/onderzoekscommissie/evaluatie/arbeidsvoorzieningswet/BWBR0006794/README.md), (Stcrt. 127);  
 
-b. [Organisatiebeluit Inspectie van de beroepskeuzevoorlichting](../../../../ministeriele-regeling/organisatiebesluit/inspectie/van/de/beroepskeuzevoorlichting/BWBR0004944/README.md).    
+b. [Organisatiebeluit Inspectie van de beroepskeuzevoorlichting](../../../../ministeriele-regeling/organisatiebesluit/inspectie/van/de/beroepskeuzevoorlichting/BWBR0004944/README.md).   
 
 ### Artikel  III  
 
@@ -41,17 +41,17 @@ De volgende regelingen worden ingetrokken:
 
 a. Het [Reglement persoonsregistraties Wet arbeid buitenlandse werknemers](../../../../ministeriele-regeling/reglement/persoonsregistraties/wet/arbeid/buitenlandse/werknemers/BWBR0004846/README.md);  
 
-b. [Besluit van 24 september 1979 van de Minister van Sociale Zaken, nr. 212255, houdende een regeling omtrent het verlenen van mandaat ter uitvoering van de Wet arbeid buitenlandse werknemers](../../../../ministeriele-regeling/mandaatbeschikking/wet/arbeid/buitenlandse/werknemers/BWBR0003266/README.md) (Stcrt. 188).    
+b. [Besluit van 24 september 1979 van de Minister van Sociale Zaken, nr. 212255, houdende een regeling omtrent het verlenen van mandaat ter uitvoering van de Wet arbeid buitenlandse werknemers](../../../../ministeriele-regeling/mandaatbeschikking/wet/arbeid/buitenlandse/werknemers/BWBR0003266/README.md) (Stcrt. 188).   
 
 ### Artikel  IV  
 
 ####Wet op het ter beschikking stellen van arbeidskrachten
 
-De Regeling van 25 november 1985 van de Minister van Sociale Zaken en Werkgelegenheid, nr. 85/4508, tot instelling van een Commissie Bezwaarschriften inzake de Wet op het ter beschikking stellen van arbeidskrachten (Stcrt. 237) wordt ingetrokken.  
+De Regeling van 25 november 1985 van de Minister van Sociale Zaken en Werkgelegenheid, nr. 85/4508, tot instelling van een Commissie Bezwaarschriften inzake de Wet op het ter beschikking stellen van arbeidskrachten (Stcrt. 237) wordt ingetrokken. 
 
 ### Artikel  V  
 
-#### [Buitengewoon besluit Arbeidsverhoudingen 1945](../../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md) 
+####[Buitengewoon besluit Arbeidsverhoudingen 1945](../../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md)
 
 De volgende regelingen worden ingetrokken: 
 
@@ -63,7 +63,7 @@ c. [Besluit van 21 november 1972 van de Minister van Sociale Zaken, nr. NO31553
 
 d. [Regeling van 9 december 1998 van de Minister van Sociale Zaken en Werkgelegenheid, nr. A&O/BS/98/39634, houdende een regeling met betrekking tot het verslag, bedoeld in artikel 6, zevende lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945 (Regeling verslaglegging)](../../../../ministeriele-regeling/regeling/verslaglegging/BWBR0010066/README.md), (Stcrt. 238);  
 
-e. [Regeling van 16 juli 1999 van de Minister van Sociale Zaken en Werkgelegenheid, nr. A&O/BS/1999/41883, houdende aanwijzing van een rechtspersoon ex art. 2 Regeling verslaglegging](../../../../ministeriele-regeling/aanwijzing/bewerker/verslagen/uitoefening/ontslagtaken/BWBR0010612/README.md), (Stcrt. 147).    
+e. [Regeling van 16 juli 1999 van de Minister van Sociale Zaken en Werkgelegenheid, nr. A&O/BS/1999/41883, houdende aanwijzing van een rechtspersoon ex art. 2 Regeling verslaglegging](../../../../ministeriele-regeling/aanwijzing/bewerker/verslagen/uitoefening/ontslagtaken/BWBR0010612/README.md), (Stcrt. 147).   
 
 ### Artikel  VI  
 
@@ -79,7 +79,7 @@ c. Bijdrageregeling 1991 intensivering bijzondere bijstand;
 
 d. [Bijdrageregeling 1992 incentive Algemene Bijstandswet](../../../../ministeriele-regeling/bijdrageregeling/1992/incentive/algemene/bijstandswet/BWBR0005970/README.md);  
 
-e. [Bijdrageregeling 1993 incentive Algemene Bijstandswet](../../../../ministeriele-regeling/bijdrageregeling/1993/incentive/algemene/bijstandswet/BWBR0007205/README.md).    
+e. [Bijdrageregeling 1993 incentive Algemene Bijstandswet](../../../../ministeriele-regeling/bijdrageregeling/1993/incentive/algemene/bijstandswet/BWBR0007205/README.md).   
 
 ### Artikel  VII  
 
@@ -91,11 +91,11 @@ a. [Regeling van 29 juni 1987 van de Staatssecretaris van Sociale Zaken en Werk
 
 b. [Besluit van 29 juni 1987 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. SZ/BZ/ABB/BZ/87/U/6071/GvdW/RM, houdende voorschriften over de inrichting van de administratie en vaststelling van de onderzoektermijn IOAW/IOAZ](../../../../ministeriele-regeling/voorschriften/inrichting/administratie/en/vaststelling/onderzoektermijn/BWBR0004178/README.md), (Stcrt. 122);  
 
-c. [Besluit rekenregels i.o.a.w. en i.o.a.z. overheveling opslagpremies](../../../../ministeriele-regeling/rekenregels/i.o.a.w./en/i.o.a.z./overheveling/opslagpremies/BWBR0004699/README.md).    
+c. [Besluit rekenregels i.o.a.w. en i.o.a.z. overheveling opslagpremies](../../../../ministeriele-regeling/rekenregels/i.o.a.w./en/i.o.a.z./overheveling/opslagpremies/BWBR0004699/README.md).   
 
 ### Artikel  VIII  
 
-#### [Algemene Kinderbijslagwet](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) 
+####[Algemene Kinderbijslagwet](../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md)
 
 De volgende regelingen worden ingetrokken: 
 
@@ -115,23 +115,23 @@ g. [Regeling indexering AKW- en TOG-bedragen januari 2006](../../../../ministeri
 
 h. [Regeling indexering AKW- en TOG-bedragen juli 2006](../../../../ministeriele-regeling/regeling/indexering/akw-/en/tog-bedragen/juli/2006/BWBR0019908/README.md);  
 
-i. [Regeling indexering AKW- en TOG-bedragen januari 2007](../../../../ministeriele-regeling/regeling/indexering/akw-/en/tog-bedragen/januari/2007/BWBR0020710/README.md).    
+i. [Regeling indexering AKW- en TOG-bedragen januari 2007](../../../../ministeriele-regeling/regeling/indexering/akw-/en/tog-bedragen/januari/2007/BWBR0020710/README.md).   
 
 ### Artikel  IX  
 
-#### [Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) 
+####[Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md)
 
-De [Wijzigingsregeling sociale verzekeringen 2002](../../../../ministeriele-regeling/wijzigingsregeling/sociale/verzekeringen/2002/BWBR0013225/README.md) wordt ingetrokken.  
+De [Wijzigingsregeling sociale verzekeringen 2002](../../../../ministeriele-regeling/wijzigingsregeling/sociale/verzekeringen/2002/BWBR0013225/README.md) wordt ingetrokken. 
 
 ### Artikel  X  
 
-#### [Wet op de arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) 
+####[Wet op de arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md)
 
-De [Regeling van 22 september 2005 van de Minister van Sociale Zaken en Werkgelegenheid, nr. SV/R&S/05/73154, houdende regels omtrent de hoogte van aan REA-scholingsinstituten te verstrekken subsidie (Overgangsregeling REA-scholingsinstituten)](../../../../ministeriele-regeling/overgangsregeling/rea-scholingsinstituten/BWBR0018794/README.md), (Stcrt. 188) wordt ingetrokken.  
+De [Regeling van 22 september 2005 van de Minister van Sociale Zaken en Werkgelegenheid, nr. SV/R&S/05/73154, houdende regels omtrent de hoogte van aan REA-scholingsinstituten te verstrekken subsidie (Overgangsregeling REA-scholingsinstituten)](../../../../ministeriele-regeling/overgangsregeling/rea-scholingsinstituten/BWBR0018794/README.md), (Stcrt. 188) wordt ingetrokken. 
 
 ### Artikel  XI  
 
-#### [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) 
+####[Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md)
 
 De volgende regelingen worden ingetrokken: 
 
@@ -141,23 +141,23 @@ b. Besluit toepassing artikel 21 WW in Verordeningssituaties;
 
 c. Regeling van 19 mei 1994 van de Minister van Sociale Zaken en Werkgelegenheid, nr. 942396, tot wijziging van de Regeling gelijkstelling niet-gewerkte uren met gewerkte uren (Wijzigingsregeling Besluit regels ex artikel 16 Werkloosheidswet), (Stcrt. 104);  
 
-d. Regeling van 19 mei 1994 van de Minister van Sociale Zaken en Werkgelegenheid, nr. 942397, tot wijziging van de Regeling gelijkstelling niet-gewerkte weken met gewerkte weken (Wijzigingsregeling Besluit vaststelling regels ex artikel 17 Werkloosheidswet), (Stcrt. 105).    
+d. Regeling van 19 mei 1994 van de Minister van Sociale Zaken en Werkgelegenheid, nr. 942397, tot wijziging van de Regeling gelijkstelling niet-gewerkte weken met gewerkte weken (Wijzigingsregeling Besluit vaststelling regels ex artikel 17 Werkloosheidswet), (Stcrt. 105).   
 
 ### Artikel  XII  
 
-#### [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md) 
+####[Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md)
 
-Het [Besluit van 26 april 1985 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. SV/85/1531, houdende maximering van ziekengelduitkering ten aanzien van zieke werklozen](../../../../ministeriele-regeling/maximering/ziekengelduitkering/ten/aanzien/van/zieke/werklozen/BWBR0003787/README.md), (Stcrt. 82) wordt ingetrokken.  
+Het [Besluit van 26 april 1985 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. SV/85/1531, houdende maximering van ziekengelduitkering ten aanzien van zieke werklozen](../../../../ministeriele-regeling/maximering/ziekengelduitkering/ten/aanzien/van/zieke/werklozen/BWBR0003787/README.md), (Stcrt. 82) wordt ingetrokken. 
 
 ### Artikel  XIII  
 
-#### [Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) 
+####[Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md)
 
-De [Regeling vrijstelling Sofi-nummer volksverzekeringen](../../../../ministeriele-regeling/regeling/vrijstelling/sofi-nummer/volksverzekeringen/BWBR0008572/README.md) wordt ingetrokken.  
+De [Regeling vrijstelling Sofi-nummer volksverzekeringen](../../../../ministeriele-regeling/regeling/vrijstelling/sofi-nummer/volksverzekeringen/BWBR0008572/README.md) wordt ingetrokken. 
 
 ### Artikel  XIV  
 
-#### [Wet sociale werkvoorziening](../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) 
+####[Wet sociale werkvoorziening](../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md)
 
 De volgende regelingen worden ingetrokken: 
 
@@ -167,21 +167,21 @@ b. [Regeling van 13 juli 2001 van de Minister van Sociale Zaken en Werkgelegenh
 
 c. Besluit tijdelijke extra-vergoeding sociale werkvoorziening;  
 
-d. [Besluit van 13 december 1993 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. BV/SW/BJF/36405, tot instelling van een Commissie ‘Toetsing toekomstbestendigheid Wet Sociale Werkvoorziening](../../../../ministeriele-regeling/commissie/toetsing/toekomstbestendigheid/wsw/BWBR0006304/README.md) ’, (Stcrt. 240).    
+d. [Besluit van 13 december 1993 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. BV/SW/BJF/36405, tot instelling van een Commissie ‘Toetsing toekomstbestendigheid Wet Sociale Werkvoorziening](../../../../ministeriele-regeling/commissie/toetsing/toekomstbestendigheid/wsw/BWBR0006304/README.md)’, (Stcrt. 240).   
 
 ### Artikel  XV  
 
-#### [Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) 
+####[Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md)
 
 De volgende regelingen worden ingetrokken: 
 
 a. [Privacy-reglement Cafas en Jeugdspaarwet](../../../../ministeriele-regeling/privacy-reglement/cafas/en/jeugdspaarwet/BWBR0005952/README.md);  
 
-b. [Privacyreglement klachtenregistratie en ongevallenregistratie Directoraat-Generaal van de Arbeid](../../../../ministeriele-regeling/privacyreglement/klachtenregistratie/en/ongevallenregistratie/etc/BWBR0005389/README.md).    
+b. [Privacyreglement klachtenregistratie en ongevallenregistratie Directoraat-Generaal van de Arbeid](../../../../ministeriele-regeling/privacyreglement/klachtenregistratie/en/ongevallenregistratie/etc/BWBR0005389/README.md).   
 
 ### Artikel  XVI  
 
-#### [Subsidieregeling emancipatie-ondersteuning 1998](../../../../ministeriele-regeling/subsidieregeling/emancipatie-ondersteuning/1998/BWBR0009242/README.md) 
+####[Subsidieregeling emancipatie-ondersteuning 1998](../../../../ministeriele-regeling/subsidieregeling/emancipatie-ondersteuning/1998/BWBR0009242/README.md)
 
 De volgende regelingen worden ingetrokken: 
 
@@ -193,7 +193,7 @@ c. Regeling van 14 maart 2001 van de Staatssecretaris van Sociale Zaken en Werk
 
 d. Regeling van 7 februari 2002 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. DCE/2002/8152, houdende bekendmaking van de subsidieplafonds van de Subsidieregeling emancipatie-ondersteuning 1998 voor het jaar 2002, (Stcrt. 28);  
 
-e. [Regeling van 20 december 2002 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. DCE/2002/98521, houdende bekendmaking van de subsidieplafonds van de Subsidieregeling emancipatie-ondersteuning 1998 voor het jaar 2003](../../../../ministeriele-regeling/vaststelling/subsidieplafonds/subsidieregeling/emancipatie-ondersteuning/etc/BWBR0014526/README.md), (Stcrt. 2002, 248 en Stcrt. 2003, 4).    
+e. [Regeling van 20 december 2002 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. DCE/2002/98521, houdende bekendmaking van de subsidieplafonds van de Subsidieregeling emancipatie-ondersteuning 1998 voor het jaar 2003](../../../../ministeriele-regeling/vaststelling/subsidieplafonds/subsidieregeling/emancipatie-ondersteuning/etc/BWBR0014526/README.md), (Stcrt. 2002, 248 en Stcrt. 2003, 4).   
 
 ### Artikel  XVII  
 
@@ -203,11 +203,11 @@ De volgende regelingen worden ingetrokken:
 
 a. [Regeling van 20 december 2002 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 28 juni 2000, nr. SV/V&P/2000/36999, houdende aanwijzing van verenigingen die niet aan de representativiteitseisen van de Pensioen- en spaarfondsenwet hoeven te voldoen](../../../../ministeriele-regeling/aanwijzing/van/verenigingen/die/niet/aan/representativiteitseisen/etc/BWBR0011449/README.md), (Stcrt. 124);  
 
-b. Regeling van 28 november 1983 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, houdende richtlijnen betreffende vrijwillige voorzieningen in beroepspensioenregelingen, die in het kader van de uitvoering van de Wet betreffende verplichte deelneming in een beroepspensioenregeling waar nodig zullen worden gehanteerd bij verzoeken om verplichtstelling van de deelneming in een beroepspensioenregeling of de wijziging daarvan, en bij verzoeken om afgifte van een verklaring van geen bezwaar ten aanzien van wijzigingen in de statuten en reglementen van de betreffende rechtspersoon, (Stcrt. 231).    
+b. Regeling van 28 november 1983 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, houdende richtlijnen betreffende vrijwillige voorzieningen in beroepspensioenregelingen, die in het kader van de uitvoering van de Wet betreffende verplichte deelneming in een beroepspensioenregeling waar nodig zullen worden gehanteerd bij verzoeken om verplichtstelling van de deelneming in een beroepspensioenregeling of de wijziging daarvan, en bij verzoeken om afgifte van een verklaring van geen bezwaar ten aanzien van wijzigingen in de statuten en reglementen van de betreffende rechtspersoon, (Stcrt. 231).   
 
 ### Artikel  XVIII  
 
-#### [Kaderwet SZW-subsidies](../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md) 
+####[Kaderwet SZW-subsidies](../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md)
 
 De volgende regelingen worden ingetrokken: 
 
@@ -235,11 +235,11 @@ k. [Besluit van 5 maart 1993 van de Staatssecretaris van Sociale Zaken en Werkge
 
 l. [Besluit van 5 maart 1993 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. DCE/93/328, tot instelling van een projectgroep ‘herverdeling van onbetaalde arbeid en in samenhang daarmee vergroting van de zorgverantwoordelijkheid van mannen’](../../../../ministeriele-regeling/instelling/projectgroep/emancipatiebeleid/‘herverdeling/van/onbetaalde/etc/BWBR0005897/README.md), (Stb. 51);  
 
-m. [Besluit van 5 maart 1993 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. DCE/93/328, tot instelling van een projectgroep ‘vergroting van de deelname van vrouwen aan politieke en maatschappelijke besluitvorming’](../../../../ministeriele-regeling/instelling/projectgroep/emancipatiebeleid/‘vergroting/van/de/deelname/van/etc/BWBR0005896/README.md), (Stcrt. 46).    
+m. [Besluit van 5 maart 1993 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. DCE/93/328, tot instelling van een projectgroep ‘vergroting van de deelname van vrouwen aan politieke en maatschappelijke besluitvorming’](../../../../ministeriele-regeling/instelling/projectgroep/emancipatiebeleid/‘vergroting/van/de/deelname/van/etc/BWBR0005896/README.md), (Stcrt. 46).   
 
 ### Artikel  XIX  
 
-#### [Wet overige OCW-subsidies](../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) 
+####[Wet overige OCW-subsidies](../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md)
 
 De volgende regelingen worden ingetrokken: 
 
@@ -251,7 +251,7 @@ c. Regeling van 14 maart 2001 van de Staatssecretaris van Sociale Zaken en Werk
 
 d. Regeling van 7 februari 2002 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. DCE/2002/8152, houdende bekendmaking van de subsidieplafonds van de Subsidieregeling emancipatie-ondersteuning 1998 voor het jaar 2002, (Stcrt. 28);  
 
-e. [Regeling van 20 december 2002 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. DCE/2002/98521, houdende bekendmaking van de subsidieplafonds van de Subsidieregeling emancipatie-ondersteuning 1998 voor het jaar 2003](../../../../ministeriele-regeling/vaststelling/subsidieplafonds/subsidieregeling/emancipatie-ondersteuning/etc/BWBR0014526/README.md), (Stcrt. 2003, 4).    
+e. [Regeling van 20 december 2002 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. DCE/2002/98521, houdende bekendmaking van de subsidieplafonds van de Subsidieregeling emancipatie-ondersteuning 1998 voor het jaar 2003](../../../../ministeriele-regeling/vaststelling/subsidieplafonds/subsidieregeling/emancipatie-ondersteuning/etc/BWBR0014526/README.md), (Stcrt. 2003, 4).   
 
 ### Artikel  XX  
 
@@ -277,13 +277,13 @@ h. [Regeling van 16 januari 1992 van de Minister van Sociale Zaken en Werkgeleg
 
 i. [Regeling van 14 mei 2001 van de Minister van Sociale Zaken en Werkgelegenheid, nr. AM/CAB/01/30876, tot instelling van een Monitorcomité ESF-EQUAL](../../../../ministeriele-regeling/instellingsbesluit/monitorcomité/esf-equal/BWBR0012491/README.md), (Stcrt. 93);  
 
-j. [Regeling van 21 juni 2001 van de Minister van Sociale Zaken en Werkgelegenheid, nr. AM/ESM/01/40870, tot instelling van een Monitorcomité ESF3](../../../../ministeriele-regeling/instellingsbesluit/monitorcomité/esf3/BWBR0012596/README.md), (Stcrt. 118).    
+j. [Regeling van 21 juni 2001 van de Minister van Sociale Zaken en Werkgelegenheid, nr. AM/ESM/01/40870, tot instelling van een Monitorcomité ESF3](../../../../ministeriele-regeling/instellingsbesluit/monitorcomité/esf3/BWBR0012596/README.md), (Stcrt. 118).   
 
 ### Artikel  XXI  
 
-#### [Kaderwet adviescolleges](../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) 
+####[Kaderwet adviescolleges](../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md)
 
-De [Vergoedingenregeling Adviescommissie Arbeidsongeschiktheid](../../../../ministeriele-regeling/vergoedingenregeling/adviescommissie/arbeidsongeschiktheid/BWBR0011499/README.md) wordt ingetrokken.  
+De [Vergoedingenregeling Adviescommissie Arbeidsongeschiktheid](../../../../ministeriele-regeling/vergoedingenregeling/adviescommissie/arbeidsongeschiktheid/BWBR0011499/README.md) wordt ingetrokken. 
 
 ### Artikel  XXII  
 
@@ -303,37 +303,37 @@ e. [Regeling van 28 januari 2005 van de Staatssecretaris van Sociale Zaken en W
 
 f. [Regeling van 12 december 1997 van de Minister van Sociale Zaken en Werkgelegenheid, nr. AM/ARV/97/2028, tot instelling van een Comité van Toezicht ‘doelstelling 3’](../../../../ministeriele-regeling/instellingsbesluit/comité/van/toezicht/'doelstelling/3'/BWBR0009139/README.md), (Stcrt. 249);  
 
-g. [Regeling van 1 september 1995 van de Minister van Sociale Zaken en Werkgelegenheid, nr. AM/AAB/95/5683, tot instelling van een Comité van Toezicht voor de uitvoering van de ESF-subsidieregelingen](../../../../ministeriele-regeling/instelling/comité/van/toezicht/voor/uitvoering/esf-subsidieregelingen/BWBR0007533/README.md) (Stcrt. 172).    
+g. [Regeling van 1 september 1995 van de Minister van Sociale Zaken en Werkgelegenheid, nr. AM/AAB/95/5683, tot instelling van een Comité van Toezicht voor de uitvoering van de ESF-subsidieregelingen](../../../../ministeriele-regeling/instelling/comité/van/toezicht/voor/uitvoering/esf-subsidieregelingen/BWBR0007533/README.md) (Stcrt. 172).   
 
 ### Artikel  XXIII  
 
-#### [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md) 
+####[Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md)
 
-Het [Organisatie- en mandaatbesluit KFD 1994](../../../../ministeriele-regeling/organisatie-/en/mandaatbesluit/kfd/1994/BWBR0006645/README.md) wordt ingetrokken.  
+Het [Organisatie- en mandaatbesluit KFD 1994](../../../../ministeriele-regeling/organisatie-/en/mandaatbesluit/kfd/1994/BWBR0006645/README.md) wordt ingetrokken. 
 
 ### Artikel  XXIV  
 
-#### [Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](../../../../wet/wet/op/het/algemeen/verbindend/en/het/onverbindend/verklaren/van/etc/BWBR0001987/README.md) 
+####[Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](../../../../wet/wet/op/het/algemeen/verbindend/en/het/onverbindend/verklaren/van/etc/BWBR0001987/README.md)
 
-De [Regeling van 23 oktober 2001 van de Minister van Sociale Zaken en Werkgelegenheid, nr. AV/A&M/2001/60856, tot wijziging van het Besluit aanmelding van collectieve arbeidsovereenkomsten en het aanvragen van algemeen verbindend verklaring](../../../../ministeriele-regeling/wijziging/besluit/aanmelding/collectieve/arbeidsovereenkomsten/en/het/etc/BWBR0012911/README.md) (Stcrt. 207) wordt ingetrokken.  
+De [Regeling van 23 oktober 2001 van de Minister van Sociale Zaken en Werkgelegenheid, nr. AV/A&M/2001/60856, tot wijziging van het Besluit aanmelding van collectieve arbeidsovereenkomsten en het aanvragen van algemeen verbindend verklaring](../../../../ministeriele-regeling/wijziging/besluit/aanmelding/collectieve/arbeidsovereenkomsten/en/het/etc/BWBR0012911/README.md) (Stcrt. 207) wordt ingetrokken. 
 
 ### Artikel  XXV  
 
-#### [Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) 
+####[Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md)
 
-De [Regeling van 26 oktober 2000 van de Minister van Sociale Zaken en Werkgelegenheid, nr. PO&I/Beleid/2000/51620, houdende een Regeling tot mandaatverlening aan het bestuur van USZO B.V.](../../../../ministeriele-regeling/regeling/mandaatverlening/bestuur/van/uszo/b.v./BWBR0011737/README.md) (Stcrt. 209) wordt ingetrokken.  
+De [Regeling van 26 oktober 2000 van de Minister van Sociale Zaken en Werkgelegenheid, nr. PO&I/Beleid/2000/51620, houdende een Regeling tot mandaatverlening aan het bestuur van USZO B.V.](../../../../ministeriele-regeling/regeling/mandaatverlening/bestuur/van/uszo/b.v./BWBR0011737/README.md) (Stcrt. 209) wordt ingetrokken. 
 
 ### Artikel  XXVI  
 
-#### [Coördinatiebesluit organisatie en formatie rijksdienst 2007](../../../../KB/coördinatiebesluit/organisatie/en/formatie/rijksdienst/2007/BWBR0023020/README.md) 
+####[Coördinatiebesluit organisatie en formatie rijksdienst 2007](../../../../KB/coördinatiebesluit/organisatie/en/formatie/rijksdienst/2007/BWBR0023020/README.md)
 
-De [Regeling van 11 februari 2005 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. ARBO/P&G/2005/9284, tot verlening van mandaat aan de Directeur-Generaal Arbeidsomstandigheden en Sociale Verzekeringen](../../../../ministeriele-regeling/besluit/verlening/mandaat/aan/directeur-generaal/arbeidsomstandigheden/en/etc/BWBR0018011/README.md) (Stcrt. 35) wordt ingetrokken.  
+De [Regeling van 11 februari 2005 van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, nr. ARBO/P&G/2005/9284, tot verlening van mandaat aan de Directeur-Generaal Arbeidsomstandigheden en Sociale Verzekeringen](../../../../ministeriele-regeling/besluit/verlening/mandaat/aan/directeur-generaal/arbeidsomstandigheden/en/etc/BWBR0018011/README.md) (Stcrt. 35) wordt ingetrokken. 
 
 ### Artikel  XXVII  
 
-#### [Vacatiegeldenbesluit 1988](../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) 
+####[Vacatiegeldenbesluit 1988](../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md)
 
-De [Regeling van 19 december 2005 van de Minister van Sociale Zaken en Werkgelegenheid, nr. AV/IR/2005/100769a, tot toekenning van de vergoeding aan de leden van de werkgroep ‘Gelijke beloning, dat werkt!’](../../../../ministeriele-regeling/besluit/toekenning/vergoeding/leden/werkgroep/‘gelijke/beloning/dat/etc/BWBR0019331/README.md) (Stcrt. 250) wordt ingetrokken.  
+De [Regeling van 19 december 2005 van de Minister van Sociale Zaken en Werkgelegenheid, nr. AV/IR/2005/100769a, tot toekenning van de vergoeding aan de leden van de werkgroep ‘Gelijke beloning, dat werkt!’](../../../../ministeriele-regeling/besluit/toekenning/vergoeding/leden/werkgroep/‘gelijke/beloning/dat/etc/BWBR0019331/README.md) (Stcrt. 250) wordt ingetrokken. 
 
 ### Artikel  XXVIII  
 
@@ -349,7 +349,7 @@ c. [Regeling van 21 juni 1994 van de Minister van Sociale Zaken en Werkgelegenh
 
 d. [Regeling van 21 december 1999 van de Minister van Sociale Zaken en Werkgelegenheid, nr. ASEA/LIV/99/77545, tot vaststelling van één algemeen wettelijk bruteringspercentage in het kader van de Wet brutering overhevelingstoeslag lonen (Regeling brutering overhevelingstoeslag lonen 2001)](../../../../ministeriele-regeling/bruteringsbesluit/2001/BWBR0011012/README.md) (Stcrt. 251);  
 
-e. [Maatregel ter Ondersteuning van een gerichte Verplaatsing van bedrijven](../../../../ministeriele-regeling/maatregel/ter/ondersteuning/van/een/gerichte/verplaatsing/van/bedrijven/BWBR0004098/README.md).    
+e. [Maatregel ter Ondersteuning van een gerichte Verplaatsing van bedrijven](../../../../ministeriele-regeling/maatregel/ter/ondersteuning/van/een/gerichte/verplaatsing/van/bedrijven/BWBR0004098/README.md).   
 
 ### §  2  
 
@@ -360,28 +360,28 @@ e. [Maatregel ter Ondersteuning van een gerichte Verplaatsing van bedrijven](../
 ####Overgangsbepaling
 
 1.  Voorzover er terzake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regelingen, bedoeld in de artikelen I tot en met XXVIII, plaats.   
-2.  Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de artikelen I tot en met XXVIII, blijven in stand.   
+2.  Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de artikelen I tot en met XXVIII, blijven in stand.  
 
 ### Artikel  XXX  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  XXXI  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: SZW-intrekkingsregeling 2008.  
+Deze regeling wordt aangehaald als: SZW-intrekkingsregeling 2008. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 12 september 2008   
 
 De 
-Minister van Sociale Zaken en Werkgelegenheid, 
-J.P.H.Donner 
+Minister van Sociale Zaken en Werkgelegenheid,
+J.P.H. Donner   
 
 De 
-Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
-A.Aboutaleb   
+Staatssecretaris van Sociale Zaken en Werkgelegenheid,
+A. Aboutaleb     
