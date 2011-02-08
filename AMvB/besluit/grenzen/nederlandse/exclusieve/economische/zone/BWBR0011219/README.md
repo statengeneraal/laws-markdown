@@ -19,12 +19,12 @@ De grenzen van de exclusieve economische zone van Nederland vallen samen met:
 
 a. de grens van de territoriale zee van Nederland, bedoeld in [artikel 1, eerste lid, van de Wet grenzen Nederlandse territoriale zee](../../../../../../../../wet/wet/grenzen/nederlandse/territoriale/zee/BWBR0003748/README.md) en  
 
-b. de grenzen van het aan Nederland toekomende gedeelte van het continentaal plat.    
+b. de grenzen van het aan Nederland toekomende gedeelte van het continentaal plat.   
 
 ### Artikel  2  
 
 1.  De [Rijkswet instelling exclusieve economische zone](../../../../../../../../rijkswet/rijkswet/instelling/exclusieve/economische/zone/BWBR0010480/README.md) treedt voor Nederland in werking op het tijdstip van inwerkingtreding van dit besluit.   
-2.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.   
+2.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
 
 ### Artikel  3  
 
@@ -34,10 +34,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 's-Gravenhage 
 13 maart 2000  
-Beatrix  
+Beatrix   
 
 De Minister van Buitenlandse Zaken, 
-J. J. van Aartsen   
+J. J. van Aartsen    
 
 De Staatssecretaris van Verkeer en Waterstaat, 
 J. M. de Vries   
@@ -45,4 +45,4 @@ J. M. de Vries
 de *zevenentwintigste* april 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     
