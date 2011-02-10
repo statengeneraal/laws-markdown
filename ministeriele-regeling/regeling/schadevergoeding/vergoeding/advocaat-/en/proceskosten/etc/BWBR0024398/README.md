@@ -21,7 +21,7 @@ a. Minister: Minister van Onderwijs, Cultuur en Wetenschap;
 
 b. bevoegd gezag: bevoegd gezag van een uit de rijkskas bekostigde school als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of van een instelling als bedoeld in [artikel 1.1.1, onderdeel b, onder 4°, van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) voor zover het voorbereidend beroepsonderwijs betreft;  
 
-c. aanbesteding: aanbesteding van lesmateriaal als bedoeld in [artikel 6e van de Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).    
+c. aanbesteding: aanbesteding van lesmateriaal als bedoeld in [artikel 6e van de Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
 
 ### §  2  
 
@@ -52,7 +52,7 @@ b. de gemaakte advocaatkosten voor de bemiddeling bij een schikking,
 
 c. de proceskosten waartoe het bevoegd gezag wordt veroordeeld door de rechter, of  
 
-d. de schadevergoeding waartoe het bevoegd gezag wordt veroordeeld door de rechter.     
+d. de schadevergoeding waartoe het bevoegd gezag wordt veroordeeld door de rechter.    
 
 ### Artikel  3  
 
@@ -63,20 +63,20 @@ d. de schadevergoeding waartoe het bevoegd gezag wordt veroordeeld door de recht
 
 a. een afschrift van de dagvaarding, en  
 
-b. de aanbestedingsdocumenten die verband houden met het in de dagvaarding gestelde.     
+b. de aanbestedingsdocumenten die verband houden met het in de dagvaarding gestelde.    
 
 ### Artikel  4  
 
 ####Weigering van de aanvraag
 
 1.  De Minister kan de aanvraag, bedoeld in artikel 2, eerste lid, weigeren indien niet is voldaan aan de vereisten, bedoeld in de artikelen 2, tweede of derde lid, en 3, eerste lid.   
-2.  Indien de Minister het voornemen heeft de aanvraag te weigeren, krijgt het bevoegd gezag de gelegenheid zijn zienswijze op dit voornemen binnen twee weken naar voren te brengen.   
+2.  Indien de Minister het voornemen heeft de aanvraag te weigeren, krijgt het bevoegd gezag de gelegenheid zijn zienswijze op dit voornemen binnen twee weken naar voren te brengen.  
 
 ### Artikel  5  
 
 ####Beslistermijn aanvraag
 
-De Minister beslist binnen acht weken na ontvangst op de aanvraag, bedoeld in artikel 2, eerste lid, voor de vergoeding van de kosten, bedoeld in artikel 2, vierde lid.  
+De Minister beslist binnen acht weken na ontvangst op de aanvraag, bedoeld in artikel 2, eerste lid, voor de vergoeding van de kosten, bedoeld in artikel 2, vierde lid. 
 
 ### §  3  
 
@@ -90,7 +90,7 @@ Het bevoegd gezag dat in aanmerking komt voor een vergoeding is verplicht:
 
 a. de Europese en nationale aanbestedingsregelgeving kennelijk in acht te nemen en in lijn met de daarop gebaseerde schriftelijke adviezen van de Minister te handelen, en  
 
-b. toe te staan dat de Minister een advocaat kan aanwijzen naast de door het bevoegd gezag gekozen advocaat, indien naar het oordeel van de Minister dit noodzakelijk is in het belang van het voortgezet onderwijs.    
+b. toe te staan dat de Minister een advocaat kan aanwijzen naast de door het bevoegd gezag gekozen advocaat, indien naar het oordeel van de Minister dit noodzakelijk is in het belang van het voortgezet onderwijs.   
 
 ### Artikel  7  
 
@@ -101,7 +101,7 @@ b. toe te staan dat de Minister een advocaat kan aanwijzen naast de door het bev
 
 a. de declaratie van de kosten, bedoeld in artikel 2, vierde lid, onderdelen a en b, op basis van afschriften van facturen van de advocaat, en  
 
-b. een afschrift van de betreffende rechterlijke uitspraak of van de schikkingsovereenkomst.     
+b. een afschrift van de betreffende rechterlijke uitspraak of van de schikkingsovereenkomst.    
 
 ### Artikel  8  
 
@@ -109,7 +109,7 @@ b. een afschrift van de betreffende rechterlijke uitspraak of van de schikkingso
 
 1.  De Minister vergoedt de kosten, bedoeld in artikel 2, vierde lid, onderdelen a en b, voor zover deze kosten in redelijkheid zijn gemaakt.   
 2.  Indien de wederpartij van het bevoegd gezag tot vergoeding van kosten aan het bevoegd gezag wordt veroordeeld, wordt de vergoeding met die kosten verlaagd.   
-3.  De Minister beslist binnen acht weken na ontvangst op de aanvraag, bedoeld in artikel 7, eerste lid.   
+3.  De Minister beslist binnen acht weken na ontvangst op de aanvraag, bedoeld in artikel 7, eerste lid.  
 
 ### §  4  
 
@@ -119,7 +119,7 @@ b. een afschrift van de betreffende rechterlijke uitspraak of van de schikkingso
 
 ####Kosten uit beroepsprocedures ingesteld door het bevoegd gezag
 
-Kosten voortvloeiend uit beroepsprocedures voor zover ingesteld door het bevoegd gezag, komen niet voor vergoeding in aanmerking, tenzij de Minister in het belang van het voortgezet onderwijs anders besluit.  
+Kosten voortvloeiend uit beroepsprocedures voor zover ingesteld door het bevoegd gezag, komen niet voor vergoeding in aanmerking, tenzij de Minister in het belang van het voortgezet onderwijs anders besluit. 
 
 ### §  5  
 
@@ -129,15 +129,15 @@ Kosten voortvloeiend uit beroepsprocedures voor zover ingesteld door het bevoegd
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  11  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling schadevergoeding, vergoeding advocaat- en proceskosten aanbestedingsprocedures schoolboeken.  
+Deze regeling wordt aangehaald als: Regeling schadevergoeding, vergoeding advocaat- en proceskosten aanbestedingsprocedures schoolboeken. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-J.M. vanBijsterveldt-Vliegenthart   
+J.M. van Bijsterveldt-Vliegenthart     
