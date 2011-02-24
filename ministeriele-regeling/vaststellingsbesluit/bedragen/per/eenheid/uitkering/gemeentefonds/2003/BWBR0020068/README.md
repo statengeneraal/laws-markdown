@@ -8,23 +8,23 @@ Besluit:
 
 ### Artikel  1  
 
-Voor het uitkeringsjaar 2003 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1 bij dit besluit.  
+Voor het uitkeringsjaar 2003 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1 bij dit besluit. 
 
 ### Artikel  2  
 
-Voor het uitkeringsjaar 2003 worden de bedragen, bedoeld in [artikel 6 van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md), vastgesteld overeenkomstig bijlage 2 bij dit besluit.  
+Voor het uitkeringsjaar 2003 worden de bedragen, bedoeld in [artikel 6 van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md), vastgesteld overeenkomstig bijlage 2 bij dit besluit. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
-DirecteurBestuurlijke en Financiële Organisatie, 
-P.P.L. vanKalmthout  
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze:de 
+Directeur Bestuurlijke en Financiële Organisatie, 
+P.P.L. van Kalmthout    
 
-### Bijlage  1  
+### Bijlage 1  
 
 De bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), over het uitkeringsjaar 2003 (bijlage bij artikel 1)  
 
@@ -84,7 +84,7 @@ De bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet
 | 44  | Vast bedrag voor de Waddengemeenten  | 149.950,63  |
 | 46  | Omvangrijke opgave woningbouw  | 571,39  |
 
-### Bijlage  2  
+### Bijlage 2 
 
 De bedragen per eenheid, bedoeld in [artikel 6, derde lid, van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md) over het uitkeringsjaar 2003 (bijlage bij artikel 2)  
 

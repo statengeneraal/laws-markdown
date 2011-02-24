@@ -10,20 +10,20 @@ Besluit:
 
 ### Artikel  1  
 
-Voor het uitkeringsjaar 2008 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1.  
+Voor het uitkeringsjaar 2008 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1. 
 
 ### Artikel  2  
 
-Voor het uitkeringsjaar 2008 worden de bedragen, bedoeld in [artikel 6 van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md), vastgesteld overeenkomstig bijlage 2.  
+Voor het uitkeringsjaar 2008 worden de bedragen, bedoeld in [artikel 6 van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md), vastgesteld overeenkomstig bijlage 2. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 De 
-Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, voor deze:
+Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: 
 de directeur Openbaar Bestuur en Democratie, 
-G.J.Buitendijk  
+G.J. Buitendijk    
 
 ### Bijlage  1  
 
@@ -89,11 +89,11 @@ De bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet
 | 42  | Vast bedrag voor Den Haag  | 81.246.040,22  |
 | 43  | Vast bedrag voor Utrecht  | 45.288.800,71  |
 | 44  | Vast bedrag voor de Waddengemeenten  | 149.950,63  |
-| 44a  | Vast bedrag Baarle Naussau <sup>1</sup>  | 248.230,43  |
+| 44a  | Vast bedrag Baarle Naussau<sup>1</sup>   | 248.230,43  |
 | 45a  | Herindeling (per gemeente)  | 1.585.065,00  |
 | 45b  | Herindeling (per inwoner)  | 53,29  |
 
-<sup>1</sup> De gemeente Baarle Nassau ontvangt een vast bedrag gelijk aan 2 maal het vast bedrag voor iedere gemeente. 
+<sup>1</sup>De gemeente Baarle Nassau ontvangt een vast bedrag gelijk aan 2 maal het vast bedrag voor iedere gemeente.
 
 ### Bijlage  2  
 

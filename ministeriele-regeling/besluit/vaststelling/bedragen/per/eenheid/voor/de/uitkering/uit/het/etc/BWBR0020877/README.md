@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van 29 november 2006, nr. 2006-0000381422, tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2004
+##Besluit van 29 november 2006, nr. 2006-0000381422, tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2004 
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 Mede namens de Minister van Financiën;
@@ -10,23 +10,23 @@ Besluit:
 
 ### Artikel  1  
 
-Voor het uitkeringsjaar 2004 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1 bij dit besluit.  
+Voor het uitkeringsjaar 2004 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1 bij dit besluit. 
 
 ### Artikel  2  
 
-Voor het uitkeringsjaar 2004 worden de bedragen, bedoeld in [artikel 6 van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md), vastgesteld overeenkomstig bijlage 2 bij dit besluit.  
+Voor het uitkeringsjaar 2004 worden de bedragen, bedoeld in [artikel 6 van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md), vastgesteld overeenkomstig bijlage 2 bij dit besluit. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze:de 
 directeur Bestuurlijke en Financiële Organisatie, 
-P.P.L. vanKalmthout  
+P.P.L. van Kalmthout    
 
-### Bijlage  1  
+### Bijlage 1  
 
 De bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), over het uitkeringsjaar 2004 (bijlage bij artikel 1)  
 
@@ -88,7 +88,7 @@ De bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet
 | 45-b  | Herindeling, onderdeel b (per inwoner)  | 53,29  |
 | 46  | Omvangrijke opgave woningbouw  | 481,14  |
 
-### Bijlage  2  
+### Bijlage 2  
 
 De bedragen per eenheid, bedoeld in [artikel 6, derde lid, van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md) over het uitkeringsjaar 2004 (bijlage bij artikel 2)  
 

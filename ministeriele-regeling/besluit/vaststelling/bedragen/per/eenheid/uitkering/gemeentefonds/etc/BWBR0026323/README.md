@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit vaststelling bedragen per eenheid uitkering gemeentefonds uitkeringsjaar 2006
+## Besluit vaststelling bedragen per eenheid uitkering gemeentefonds uitkeringsjaar 2006
 
 De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,  
 Handelende in overeenstemming met de Minister van Financiën;
@@ -10,20 +10,20 @@ Besluit:
 
 ### Artikel  1  
 
-Voor het uitkeringsjaar 2006 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1.  
+Voor het uitkeringsjaar 2006 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1. 
 
 ### Artikel  2  
 
-Voor het uitkeringsjaar 2006 worden de bedragen, bedoeld in [artikel 6 van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md), vastgesteld overeenkomstig bijlage 2.  
+Voor het uitkeringsjaar 2006 worden de bedragen, bedoeld in [artikel 6 van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md), vastgesteld overeenkomstig bijlage 2. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 De 
 Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, namens deze: de 
 directeur Openbaar Bestuur en Democratie, 
-G.J.Buitendijk  
+G.J. Buitendijk    
 
 ### Bijlage  1  
 
@@ -87,7 +87,7 @@ De bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswe
 | 36  | Meerkernigheid  | 13.209,44  |
 | 37  | Meerkernigheid *bodemfactor buitengebied  | 13.220,05  |
 | 38  | Bedrijfsvestigingen  | 103,62  |
-| 39  | Vast bedrag voor iedere gemeente <sup>1</sup>  | 259.290,92  |
+| 39  | Vast bedrag voor iedere gemeente<sup>1</sup>   | 259.290,92  |
 | 40  | Vast bedrag voor Amsterdam  | 193.800.775,86  |
 | 41  | Vast bedrag voor Rotterdam  | 113.474.528,80  |
 | 42  | Vast bedrag voor Den Haag  | 85.609.620,71  |
@@ -96,7 +96,7 @@ De bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswe
 | 45-a  | Herindeling, onderdeel a (basisbedrag)  | 1.585.065,00  |
 | 45-b  | Herindeling, onderdeel b (per inwoner)  | 53,29  |
 
-<sup>1</sup> De gemeente Baarle Nassau ontvangt een vast bedrag gelijk aan 2 maal het vast bedrag voor iedere gemeente. 
+<sup>1</sup> De gemeente Baarle Nassau ontvangt een vast bedrag gelijk aan 2 maal het vast bedrag voor iedere gemeente.
 
 ### Bijlage  2  
 

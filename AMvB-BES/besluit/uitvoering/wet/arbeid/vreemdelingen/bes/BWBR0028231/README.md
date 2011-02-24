@@ -20,9 +20,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-– *openbaar lichaam/openbare lichamen:* openbare lichamen Bonaire, Sint Eustatius of Saba;  
+–  *openbaar lichaam/openbare lichamen:* openbare lichamen Bonaire, Sint Eustatius of Saba;  
 
-– *wet:* Wet arbeid vreemdelingen BES.    
+–  *wet:* Wet arbeid vreemdelingen BES.   
 
 ### §  2  
 
@@ -31,7 +31,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 ### Artikel  2  
 
 1.  Een aanvraag om een tewerkstellingsvergunning wordt ingediend bij Onze Minister van Sociale Zaken en Werkgelegenheid.   
-2.  De aanvrager ontvangt binnen twee weken een schriftelijk bewijs dat hij de aanvraag heeft ingediend, onder vermelding van de datum van ontvangst.   
+2.  De aanvrager ontvangt binnen twee weken een schriftelijk bewijs dat hij de aanvraag heeft ingediend, onder vermelding van de datum van ontvangst.  
 
 ### Artikel  3  
 
@@ -47,7 +47,7 @@ d. de plaats van de door de vreemdeling te verrichten arbeid;
 
 e. of, en zo ja, welke diploma’s zijn vereist, welke ervaring nodig is dan wel welke andere eisen worden gesteld aan de vreemdeling voor het verrichten van de arbeid;  
 
-f. de motivering van de noodzaak voor het aantrekken van de vreemdeling ter vervulling van de arbeidsplaats evenals de inspanningen die zijn verricht om uit de lokale arbeidsmarkt voor vervulling daarvan zorg te dragen.    
+f. de motivering van de noodzaak voor het aantrekken van de vreemdeling ter vervulling van de arbeidsplaats evenals de inspanningen die zijn verricht om uit de lokale arbeidsmarkt voor vervulling daarvan zorg te dragen.   
 
 ### Artikel  4  
 
@@ -71,7 +71,7 @@ h. een door het bevoegd gezag van de woonplaats van betrokken vreemdeling binnen
 
 i. een situatietekening van het vertrek en bijbehoren waar de vreemdeling zal verblijven;  
 
-j. een verklaring van de Belastingdienst waaruit blijkt dat de werkgever belasting afdraagt.    
+j. een verklaring van de Belastingdienst waaruit blijkt dat de werkgever belasting afdraagt.   
 
 ### Artikel  5  
 
@@ -81,7 +81,7 @@ a. in een onderneming waarvoor een drank- en horecavergunning vereist is: een ko
 
 b. in de landbouw: een beschrijving van de infrastructuur van het landbouwterrein, een weergave van hetgeen op dat terrein wordt verbouwd en het bewijs dat het terrein in eigendom toebehoort aan de werkgever dan wel door deze wordt gehuurd of gepacht;  
 
-c. in de huishouding: bewijsstukken waaruit blijkt dat de werkgever in staat is het salaris, bedoeld in artikel 10, onderdeel c, te voldoen.    
+c. in de huishouding: bewijsstukken waaruit blijkt dat de werkgever in staat is het salaris, bedoeld in artikel 10, onderdeel c, te voldoen.   
 
 ### Artikel  6  
 
@@ -97,7 +97,7 @@ d. een alleenstaande die bejaard of anderszins hulpbehoevend is;
 
 e. een echtpaar, waarvan een of beide echtelieden wegens diens positie in een bedrijf of in de gemeenschap regelmatig uithuizig is.     
 2.  Ten bewijze van het gestelde in het eerste lid, aanhef en onderdelen c en d, wordt een doktersverklaring overgelegd.   
-3.  Het eerste lid, aanhef en onderdelen a, c en e, en het tweede lid zijn van overeenkomstige toepassing op niet-huwelijkspartners die duurzaam samenleven.   
+3.  Het eerste lid, aanhef en onderdelen a, c en e, en het tweede lid zijn van overeenkomstige toepassing op niet-huwelijkspartners die duurzaam samenleven.  
 
 ### §  3  
 
@@ -111,7 +111,7 @@ a. een Nederlander die is geboren in een van de openbare lichamen;
 
 b. een Nederlander die op grond van [artikel 3 van de Wet toelating en uitzetting BES](../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) van rechtswege toelating tot verblijf heeft in de openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
-c. een persoon die tijdens verblijf in een openbaar lichaam de Nederlandse nationaliteit heeft verkregen door optie of naturalisatie.    
+c. een persoon die tijdens verblijf in een openbaar lichaam de Nederlandse nationaliteit heeft verkregen door optie of naturalisatie.   
 
 ### Artikel  8  
 
@@ -138,7 +138,7 @@ d. aan wie op grond van de [Wet vestiging bedrijven BES](../../../../../../../..
 e. die beschikt over een door Onze Minister van Justitie afgegeven verblijfsvergunning die voorzien is van een aantekening waaruit blijkt dat aan die vergunning geen beperkingen zijn verbonden voor het verrichten van arbeid;  
 
 f. zijn hoofdverblijf heeft buiten de openbare lichamen en als vrijwilliger deelneemt aan arbeid die gebruikelijk onbetaald wordt verricht, geen winstoogmerk heeft en een algemeen maatschappelijk doel dient, met een maximale duur van 12 weken in een periode van 52 weken.     
-2.  Een aantekening als bedoeld in het eerste lid, onderdeel e, wordt afgegeven aan een vreemdeling die beschikt over een verblijfsvergunning op grond van [artikel 12a van de Wet toelating en uitzetting BES](../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md).   
+2.  Een aantekening als bedoeld in het eerste lid, onderdeel e, wordt afgegeven aan een vreemdeling die beschikt over een verblijfsvergunning op grond van [artikel 12a van de Wet toelating en uitzetting BES](../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md).  
 
 ### §  4  
 
@@ -146,7 +146,7 @@ f. zijn hoofdverblijf heeft buiten de openbare lichamen en als vrijwilliger deel
 
 ### Artikel  9  
 
-Aan een tewerkstellingsvergunning kan het voorschrift worden verbonden dat de werkgever bijdraagt aan de opleiding en training van een lokale arbeidskracht voor de functie waarvoor de werkgever een tewerkstellingsvergunning heeft ontvangen.  
+Aan een tewerkstellingsvergunning kan het voorschrift worden verbonden dat de werkgever bijdraagt aan de opleiding en training van een lokale arbeidskracht voor de functie waarvoor de werkgever een tewerkstellingsvergunning heeft ontvangen. 
 
 ### §  5  
 
@@ -168,7 +168,7 @@ d. het een vreemdeling betreft:
 
 2°. aan wie een verblijfsvergunning is geweigerd of wiens verblijfsvergunning is ingetrokken;  
 
-3°. aan wie verlenging van de verblijfsvergunning is geweigerd.      
+3°. aan wie verlenging van de verblijfsvergunning is geweigerd.     
 
 ### Artikel  11  
 
@@ -180,7 +180,7 @@ b. het vertrek en bijbehoren, bedoeld in artikel 4, aanhef en onderdeel i, naar
 
 c. overige aan de functie gestelde eisen voor het verrichten van de arbeid als bedoeld in artikel 3, aanhef en onderdeel e, kennelijk onredelijk zijn, met dien verstande dat zij te hoog zijn gesteld of kennelijk onjuist zijn;  
 
-d. de vreemdeling jonger is dan 18 jaar of ouder dan 45 jaar op de dag waarop de aanvraag voor een tewerkstellingsvergunning wordt ingediend.    
+d. de vreemdeling jonger is dan 18 jaar of ouder dan 45 jaar op de dag waarop de aanvraag voor een tewerkstellingsvergunning wordt ingediend.   
 
 ### §  6  
 
@@ -188,15 +188,15 @@ d. de vreemdeling jonger is dan 18 jaar of ouder dan 45 jaar op de dag waarop de
 
 ### Artikel  12  
 
-Een tewerkstellingsvergunning wordt geweigerd voor het verrichten van arbeid in een functie in een casino in het openbaar lichaam Bonaire.  
+Een tewerkstellingsvergunning wordt geweigerd voor het verrichten van arbeid in een functie in een casino in het openbaar lichaam Bonaire. 
 
 ### Artikel  13  
 
-Een tewerkstellingsvergunning wordt geweigerd voor werkzaamheden geheel of ten dele bestaande uit het verrichten van seksuele handelingen met derden of voor derden.  
+Een tewerkstellingsvergunning wordt geweigerd voor werkzaamheden geheel of ten dele bestaande uit het verrichten van seksuele handelingen met derden of voor derden. 
 
 ### Artikel  14  
 
-Een tewerkstellingsvergunning voor een vreemdeling die een geestelijke, godsdienstige of levensbeschouwelijke functie uitoefent, waarvoor een specifieke opleiding, of specifieke kennis of ervaring vereist is en die van wezenlijk belang is voor de eredienst of het functioneren van een kerkgenootschap of een ander genootschap op geestelijke of levensbeschouwelijke grondslag, kan zonder toepassing van [artikel 5, vijfde lid, aanhef en onderdeel c](../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md), en [artikel 8, eerste lid, aanhef en onderdeel a, van de wet](../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md) worden verleend.  
+Een tewerkstellingsvergunning voor een vreemdeling die een geestelijke, godsdienstige of levensbeschouwelijke functie uitoefent, waarvoor een specifieke opleiding, of specifieke kennis of ervaring vereist is en die van wezenlijk belang is voor de eredienst of het functioneren van een kerkgenootschap of een ander genootschap op geestelijke of levensbeschouwelijke grondslag, kan zonder toepassing van [artikel 5, vijfde lid, aanhef en onderdeel c](../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md), en [artikel 8, eerste lid, aanhef en onderdeel a, van de wet](../../../../../../../../wet-BES/wet/arbeid/vreemdelingen/bes/BWBR0028437/README.md) worden verleend. 
 
 ### Artikel  15  
 
@@ -215,7 +215,7 @@ b. een verklaring van de onderwijsinstelling, waaruit blijkt dat de stage noodza
 a. indien het personeelsbestand bestaat uit minder dan 10 personen: niet meer dan één persoon;  
 
 b. indien het personeelsbestand bestaat uit tien of meer personen: maximaal 10% van het totale personeelsbestand, waarbij voor deze berekening het personeelsbestand naar beneden wordt afgerond op het dichtstbijzijnde hele tiental personeelsleden.     
-4.  In afwijking van artikel 10, aanhef en onderdeel c, dient de werkgever aan de vreemdeling een stagevergoeding te betalen van minimaal 50% van het bruto minimumloon, genoemd in [artikel 9 van de Wet minimumlonen BES](../../../../../../../../wet-BES/wet/minimumlonen/bes/BWBR0028170/README.md), na aftrek van de daarop in te houden loonheffing.   
+4.  In afwijking van artikel 10, aanhef en onderdeel c, dient de werkgever aan de vreemdeling een stagevergoeding te betalen van minimaal 50% van het bruto minimumloon, genoemd in [artikel 9 van de Wet minimumlonen BES](../../../../../../../../wet-BES/wet/minimumlonen/bes/BWBR0028170/README.md), na aftrek van de daarop in te houden loonheffing.  
 
 ### Artikel  16  
 
@@ -231,18 +231,18 @@ c. een verklaring van de buitenlandse werkgever, waaruit blijkt dat de vreemdeli
 
 a. indien het personeelsbestand bestaat uit minder dan tien personen: niet meer dan één persoon;  
 
-b. indien het personeelsbestand bestaat uit tien of meer personen: maximaal 10% van het totale personeelsbestand, waarbij voor deze berekening het personeelsbestand naar beneden wordt afgerond op het dichtstbijzijnde hele tiental personeelsleden.     
+b. indien het personeelsbestand bestaat uit tien of meer personen: maximaal 10% van het totale personeelsbestand, waarbij voor deze berekening het personeelsbestand naar beneden wordt afgerond op het dichtstbijzijnde hele tiental personeelsleden.    
 
 ### Artikel  17  
 
 1.  Een tewerkstellingsvergunning voor het verrichten van arbeid van bijkomende aard voor een vreemdeling die op grond van de [Wet toelating en uitzetting BES](../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) beschikt over een verblijfsvergunning voor bepaalde tijd voor studie kan voor maximaal een jaar worden verleend, zonder toepassing van artikel 5, vijfde lid, aanhef en onderdeel c, en artikel 8, eerste lid, aanhef en onderdeel a, van de wet.   
 2.  Onder arbeid van bijkomende aard als bedoeld in het eerste lid wordt verstaan: arbeid met een duur van maximaal 10 uur per week of arbeid die uitsluitend in de maanden juni, juli en augustus plaatsvindt.   
 3.  In aanvulling op artikel 4 legt de werkgever een verklaring van de onderwijsinstelling over, waaruit blijkt dat de vreemdeling als student is ingeschreven.   
-4.  Een tewerkstellingsvergunning als bedoeld in het eerste lid wordt niet verlengd.   
+4.  Een tewerkstellingsvergunning als bedoeld in het eerste lid wordt niet verlengd.  
 
 ### Artikel  18  
 
-Ten aanzien van de vreemdeling die gedurende de looptijd van een voor hem verstrekte tewerkstellingsvergunning onvrijwillig werkloos wordt en die van rechtswege of bij vergunning is toegelaten op grond van de [Wet toelating en uitzetting BES](../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), kan worden afgeweken van artikel 5, vijfde lid, aanhef en onderdeel c, indien hij als werkzoekende staat ingeschreven bij de arbeidsbemiddelingsorganisatie van het openbaar lichaam, voor zover de werkgever de aanvraag voor een nieuwe tewerkstellingsvergunning heeft ingediend binnen 6 weken nadat de vreemdeling onvrijwillig werkloos is geworden en voor zover de duur van de nieuw aangevraagde tewerkstellingsvergunning niet langer is dan de resterende termijn gedurende welke de vreemdeling van rechtswege of bij vergunning verleend, is toegelaten op grond van de Wet toelating en uitzetting BES.  
+Ten aanzien van de vreemdeling die gedurende de looptijd van een voor hem verstrekte tewerkstellingsvergunning onvrijwillig werkloos wordt en die van rechtswege of bij vergunning is toegelaten op grond van de [Wet toelating en uitzetting BES](../../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md), kan worden afgeweken van artikel 5, vijfde lid, aanhef en onderdeel c, indien hij als werkzoekende staat ingeschreven bij de arbeidsbemiddelingsorganisatie van het openbaar lichaam, voor zover de werkgever de aanvraag voor een nieuwe tewerkstellingsvergunning heeft ingediend binnen 6 weken nadat de vreemdeling onvrijwillig werkloos is geworden en voor zover de duur van de nieuw aangevraagde tewerkstellingsvergunning niet langer is dan de resterende termijn gedurende welke de vreemdeling van rechtswege of bij vergunning verleend, is toegelaten op grond van de Wet toelating en uitzetting BES. 
 
 ### Artikel  19  
 
@@ -251,7 +251,7 @@ Ten aanzien van de vreemdeling die gedurende de looptijd van een voor hem verstr
 
 a. een document waaruit blijkt dat de vreemdeling een aanvraag als bedoeld in het eerste lid heeft ingediend;  
 
-b. een document waaruit blijkt dat de vreemdeling de beslissing op zijn aanvraag in de openbare lichamen mag afwachten.     
+b. een document waaruit blijkt dat de vreemdeling de beslissing op zijn aanvraag in de openbare lichamen mag afwachten.    
 
 ### §  7  
 
@@ -259,11 +259,11 @@ b. een document waaruit blijkt dat de vreemdeling de beslissing op zijn aanvraag
 
 ### Artikel  20  
 
-Dit besluit treedt in werking op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](../../../../../../../../rijkswet/rijkswet/wijziging/statuut/in/verband/met/de/opheffing/van/de/nederlandse/etc/BWBR0028249/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](../../../../../../../../rijkswet/rijkswet/wijziging/statuut/in/verband/met/de/opheffing/van/de/nederlandse/etc/BWBR0028249/README.md) in werking treedt. 
 
 ### Artikel  21  
 
-Dit besluit wordt aangehaald als: Besluit uitvoering Wet arbeid vreemdelingen BES.  
+Dit besluit wordt aangehaald als: Besluit uitvoering Wet arbeid vreemdelingen BES. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -271,13 +271,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 26 augustus 2010  
 Beatrix  
 
-De Minister van Sociale Zaken en Werkgelegenheid, 
+De Minister van Sociale Zaken en Werkgelegenheid,  
 J. P. H. Donner   
 
-De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,  
 A. Th. B. Bijleveld-Schouten   
 
 de *eerste* oktober 2010 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    

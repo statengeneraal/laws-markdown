@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder uitkering: bijzondere uitkering als bedoeld in [artikel 91 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md).  
+In dit besluit wordt verstaan onder uitkering: bijzondere uitkering als bedoeld in [artikel 91 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md). 
 
 ### Hoofdstuk  2  
 
@@ -33,12 +33,12 @@ a. de organisatie van de rampenbestrijding en de crisisbeheersing, en
 b. de brandweerzorg.     
 2.  Onze Minister stelt, onder voorbehoud van goedkeuring van de begroting van de uitgaven en ontvangsten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII), jaarlijks uiterlijk op 1 oktober voor het eerstvolgende jaar voor elk van de openbare lichamen het bedrag vast van de in het eerste lid bedoelde uitkering.   
 3.  De openbare lichamen besteden ten hoogste 5 % van het bedrag van de uitkering in het jaar, volgend op dat ten behoeve waarvan de uitkering is verstrekt.   
-4.  Onze Minister kan bij de vaststelling van de jaarlijkse uitkering verdere voorwaarden verbinden aan de toekenning of besteding van deze uitkering of aan de toekenning of besteding van een deel van deze uitkering.   
+4.  Onze Minister kan bij de vaststelling van de jaarlijkse uitkering verdere voorwaarden verbinden aan de toekenning of besteding van deze uitkering of aan de toekenning of besteding van een deel van deze uitkering.  
 
 ### Artikel  3  
 
 1.  Onze Minister kan een openbaar lichaam een incidentele uitkering verstrekken ten behoeve van de taken, genoemd in artikel 2, eerste lid.   
-2.  Een incidentele uitkering kan onder voorwaarden worden verleend.   
+2.  Een incidentele uitkering kan onder voorwaarden worden verleend.  
 
 ### Hoofdstuk  3  
 
@@ -53,17 +53,17 @@ a. de kosten waarvoor het openbaar lichaam uit andere hoofde een bijdrage heeft 
 
 b. de kosten die een openbaar lichaam in rekening brengt voor de verlening van bijstand;     
 3.  Geen bijdrage wordt toegekend, indien het bedrag aan kosten na toepassing van het tweede lid, aanhef, en onderdelen a en b, $ 45 000,– of minder bedraagt.   
-4.  Indien in een openbaar lichaam in een kalenderjaar meerdere rampen plaatsvinden, wordt het derde lid slechts eenmaal toegepast.   
+4.  Indien in een openbaar lichaam in een kalenderjaar meerdere rampen plaatsvinden, wordt het derde lid slechts eenmaal toegepast.  
 
 ### Artikel  5  
 
 1.  De aanvraag, bedoeld in artikel 4, eerste lid, wordt uiterlijk twaalf maanden na het einde van de bestrijding van de ramp ingediend bij Onze Minister.   
 2.  De aanvraag gaat vergezeld van de opgave van de kosten, welke is voorzien van bewijsstukken, alsmede een verslag van de gebeurtenissen.   
-3.  Kosten waarvan de hoogte nog niet is vast te stellen worden geraamd.   
+3.  Kosten waarvan de hoogte nog niet is vast te stellen worden geraamd.  
 
 ### Artikel  6  
 
-Onze Minister beslist binnen zes maanden na indiening van de aanvraag.  
+Onze Minister beslist binnen zes maanden na indiening van de aanvraag. 
 
 ### Hoofdstuk  4  
 
@@ -71,18 +71,18 @@ Onze Minister beslist binnen zes maanden na indiening van de aanvraag.
 
 ### Artikel  7  
 
-De betaling van de in artikel 2 bedoelde bijzondere uitkering vindt plaats in vier gelijke termijnen op 1 februari, 1 mei, 1 augustus en 1 november.  
+De betaling van de in artikel 2 bedoelde bijzondere uitkering vindt plaats in vier gelijke termijnen op 1 februari, 1 mei, 1 augustus en 1 november. 
 
 ### Artikel  8  
 
-Ten behoeve van de controle op de besteding van de uitkeringen, bedoeld in artikel 2, verstrekt het openbaar lichaam desgevraagd aan de door Onze Minister daartoe aangewezen ambtenaren of medewerkers van de accountantsdienst, bedoeld in [artikel 66, eerste lid, van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), de benodigde informatie. Deze ambtenaren en medewerkers kunnen tevens informatie inwinnen bij de accountant, bedoeld in [artikel 38, derde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md).  
+Ten behoeve van de controle op de besteding van de uitkeringen, bedoeld in artikel 2, verstrekt het openbaar lichaam desgevraagd aan de door Onze Minister daartoe aangewezen ambtenaren of medewerkers van de accountantsdienst, bedoeld in [artikel 66, eerste lid, van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), de benodigde informatie. Deze ambtenaren en medewerkers kunnen tevens informatie inwinnen bij de accountant, bedoeld in [artikel 38, derde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md). 
 
 ### Artikel  9  
 
 1.  Voor zover het openbaar lichaam een deel van de in artikel 2 bedoelde uitkering niet heeft besteed aan een van de doelen waarvoor die uitkering is bestemd, kan Onze Minister dat deel van de desbetreffende uitkering in mindering brengen op de uitkering voor een volgend jaar.   
 2.  Incidentele uitkeringen als bedoeld in artikel 3, eerste lid, die aan een ander doel zijn besteed dan waarvoor zij zijn bestemd kunnen worden teruggevorderd.   
 3.  Alvorens Onze Minister een besluit als bedoeld in het eerste of tweede lid neemt, nodigt hij het bestuurscollege van het desbetreffende openbaar lichaam uit hem binnen drie maanden inlichtingen te verschaffen over de aangevochten besteding.   
-4.  Binnen twee maanden na ontvangst van de in het derde lid bedoelde inlichtingen, dan wel binnen twee maanden na het verstrijken van de in het derde lid bedoelde termijn, maakt Onze Minister zijn beslissing omtrent de vermindering van de bijdrage voor het volgend jaar dan wel over terugvordering van de incidentele bijdrage bekend.   
+4.  Binnen twee maanden na ontvangst van de in het derde lid bedoelde inlichtingen, dan wel binnen twee maanden na het verstrijken van de in het derde lid bedoelde termijn, maakt Onze Minister zijn beslissing omtrent de vermindering van de bijdrage voor het volgend jaar dan wel over terugvordering van de incidentele bijdrage bekend.  
 
 ### Artikel  10  
 
@@ -94,7 +94,7 @@ Ten behoeve van de controle op de besteding van de uitkeringen, bedoeld in artik
 a. op grond van feiten of omstandigheden waarvan Onze Minister bij de bijdragevaststelling redelijkerwijs niet op de hoogte kon zijn en op grond waarvan de bijdrage lager zou zijn vastgesteld, of  
 
 b. indien de bijdragevaststelling onjuist was en de ontvanger dit wist of behoorde te weten.     
-5.  Artikel 9, derde en vierde lid, is van overeenkomstige toepassing.   
+5.  Artikel 9, derde en vierde lid, is van overeenkomstige toepassing.  
 
 ### Hoofdstuk  5  
 
@@ -104,11 +104,11 @@ b. indien de bijdragevaststelling onjuist was en de ontvanger dit wist of behoor
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking op het tijdstip waarop de Veiligheidswet BES in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de Veiligheidswet BES in werking treedt. 
 
 ### Artikel  12  
 
-Dit besluit wordt aangehaald als: Kostenbesluit Veiligheidswet BES.  
+Dit besluit wordt aangehaald als: Kostenbesluit Veiligheidswet BES. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -116,10 +116,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 30 september 2010  
 Beatrix  
 
-De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,  
 A. Th. B. Bijleveld-Schouten   
 
 de *achtste* oktober 2010 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    

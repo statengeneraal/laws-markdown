@@ -20,25 +20,25 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. *rijkswet:* de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md);  
+a.  *rijkswet:* de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md);  
 
-b. *ambtenaar:* de ambtenaar, bedoeld in [artikel 3, onder a, van de rijkswet](../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md), met de hoofdrang hoger dan die van aspirant;  
+b.  *ambtenaar:* de ambtenaar, bedoeld in [artikel 3, onder a, van de rijkswet](../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md), met de hoofdrang hoger dan die van aspirant;  
 
-c. *aspirant:* degene die is toegelaten tot de basisopleiding;  
+c.  *aspirant:* degene die is toegelaten tot de basisopleiding;  
 
-d. *korpsbeheerder:* degene die op grond van [artikel 47, derde lid, van de rijkswet](../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) wat betreft het beheer het bevoegd gezag uitoefent over het politiekorps van Bonaire, Sint Eustatius en Saba;  
+d.  *korpsbeheerder:* degene die op grond van [artikel 47, derde lid, van de rijkswet](../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) wat betreft het beheer het bevoegd gezag uitoefent over het politiekorps van Bonaire, Sint Eustatius en Saba;  
 
-e. *hoofdrang:* een hoofdrang als bedoeld in artikel 3, eerste lid, van het Besluit rechtspositie korps politie BES;  
+e.  *hoofdrang:* een hoofdrang als bedoeld in artikel 3, eerste lid, van het Besluit rechtspositie korps politie BES;  
 
-f. *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
+f.  *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
 
-g. *bevoegd gezag:* het gezag, bedoeld in de [artikelen 16](../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) en [17 van de rijkswet](../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) en [artikel 8 van de Veiligheidswet BES](../../../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md);  
+g.  *bevoegd gezag:* het gezag, bedoeld in de [artikelen 16](../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) en [17 van de rijkswet](../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) en [artikel 8 van de Veiligheidswet BES](../../../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md);  
 
-h. *keuringscommissies:* keuringscommissies als bedoeld in artikel 19, eerste lid;  
+h.  *keuringscommissies:* keuringscommissies als bedoeld in artikel 19, eerste lid;  
 
-i. *keuringsreglementen:* keuringsreglementen als bedoeld in artikel 20, eerste lid;  
+i.  *keuringsreglementen:* keuringsreglementen als bedoeld in artikel 20, eerste lid;  
 
-j. *aanhoudings- en ondersteuningswerkzaamheden:* werkzaamheden als bedoeld in artikel 6, eerste lid, a tot en met e, van het Besluit beheer politiekorps BES.    
+j.  *aanhoudings- en ondersteuningswerkzaamheden:* werkzaamheden als bedoeld in artikel 6, eerste lid, a tot en met e, van het Besluit beheer politiekorps BES.   
 
 ### Hoofdstuk  2  
 
@@ -60,7 +60,7 @@ c. een pistool of een revolver met de daarbij behorende munitie.
 a. handboeien;  
 
 b. een koppel.     
-5.  De korpsbeheerder kan de ambtenaar mede uitrusten met een veiligheidsvest of tie-raps.   
+5.  De korpsbeheerder kan de ambtenaar mede uitrusten met een veiligheidsvest of tie-raps.  
 
 ### Artikel  3  
 
@@ -69,7 +69,7 @@ b. een koppel.
 a. een korte wapenstok;  
 
 b. pepperspray en nazorgmiddelen;     
-2.  De korpsbeheerder kan de aspirant, bedoeld in het eerste lid, mede bewapenen met een pistool of een revolver met de daarbij behorende munitie.   
+2.  De korpsbeheerder kan de aspirant, bedoeld in het eerste lid, mede bewapenen met een pistool of een revolver met de daarbij behorende munitie.  
 
 ### Artikel  4  
 
@@ -79,7 +79,7 @@ a. een korte wapenstok;
 
 b. de pepperspray en nazorgmiddelen.     
 2.  Indien de ambtenaar van politie, bedoeld in het eerste lid, is aangesteld in een van de rangen, bedoeld in artikel 3a, onder c, van het Besluit rechtspositie korps politie BES, omvat zijn bewapening tevens het pistool. Het bewapenen van de ambtenaar van politie, bedoeld in het eerste lid, op wie de eerste volzin niet van toepassing is, met het pistool is toegestaan indien Onze Minister en Onze Minister van Justitie daarvoor, onder door hen te stellen voorwaarden, toestemming hebben verleend.   
-3.  Het verzoek voor het bewapenen met het pistool wordt gedaan door de korpsbeheerder.   
+3.  Het verzoek voor het bewapenen met het pistool wordt gedaan door de korpsbeheerder.  
 
 ### Artikel  5  
 
@@ -92,7 +92,7 @@ b. een gasgeweer met bijbehorende gasprojectielen of traangasverspreidende midde
 c. een semi-automatisch vuurwapen met de daarbij behorende munitie, voor zover hij is belast met de uitvoering van de bewakings- en beveiligingstaak.     
 2.  De korpsbeheerder kan bepalen dat een ambtenaar als bedoeld in het eerste lid die beschikt over een geldig certificaat als bedoeld in artikel 25, eerste lid, tijdens de uitoefening van de dienst mede wordt uitgerust met een politiesurveillancehond en een elektrische wapenstok.   
 3.  De overige uitrusting van de ambtenaar, bedoeld in het eerste lid, bestaat tijdens de uitoefening van de dienst uit een gasmasker en een schild.   
-4.  De korpsbeheerder kan de ambtenaar, bedoeld in het eerste lid, mede uitrusten met een kogelwerend vest en een kogelwerende helm.   
+4.  De korpsbeheerder kan de ambtenaar, bedoeld in het eerste lid, mede uitrusten met een kogelwerend vest en een kogelwerende helm.  
 
 ### Artikel  6  
 
@@ -102,7 +102,7 @@ a. een gasgeweer met bijbehorende gasprojectielen of traangasverspreidende midde
 
 b. een semi-automatisch vuurwapen;  
 
-c. een automatisch vuurwapen.    
+c. een automatisch vuurwapen.   
 
 ### Artikel  7  
 
@@ -115,17 +115,17 @@ b. een gasgeweer met bijbehorende gasprojectielen;
 c. een semi-automatisch vuurwapen.     
 2.  De korpsbeheerder kan bepalen dat een ambtenaar als bedoeld in het eerste lid die beschikt over een geldig certificaat als bedoeld in artikel 25, eerste lid, tijdens de uitoefening van de dienst mede wordt uitgerust met een hond met als doel in politiedienst te worden ingezet bij aanhoudings- en ondersteuningswerkzaamheden.   
 3.  De overige uitrusting van de ambtenaar, bedoeld in het eerste lid, bestaat tijdens de uitoefening van de dienst uit een gasmasker en explosieven.   
-4.  De korpsbeheerder kan de ambtenaar, bedoeld in het eerste lid, mede uitrusten met een kogelwerend vest en een kogelwerende helm.   
+4.  De korpsbeheerder kan de ambtenaar, bedoeld in het eerste lid, mede uitrusten met een kogelwerend vest en een kogelwerende helm.  
 
 ### Artikel  8  
 
 1.  De bewapening van de ambtenaar die behoort tot een bijzondere bijstandseenheid, bestaat mede uit een vuurwapen waarmee lange-afstandsprecisievuur kan worden afgegeven met de daarbij behorende munitie.   
 2.  De korpsbeheerder kan bepalen dat een ambtenaar als bedoeld in het eerste lid die beschikt over een geldig certificaat als bedoeld in artikel 25, eerste lid, tijdens de uitoefening van de dienst bij deze eenheid mede wordt bewapend met een hond met als doel in politiedienst te worden ingezet bij het optreden van deze eenheid.   
-3.  De korpsbeheerder kan de ambtenaar, bedoeld in het eerste lid, mede uitrusten met een kogelwerend vest en een kogelwerende helm.   
+3.  De korpsbeheerder kan de ambtenaar, bedoeld in het eerste lid, mede uitrusten met een kogelwerend vest en een kogelwerende helm.  
 
 ### Artikel  9  
 
-De korpsbeheerder kan een andere ambtenaar, dan bedoeld in de artikelen 5, 7 en 8, uitrusten met een kogelwerend vest, een kogelwerende helm of een gasmasker.  
+De korpsbeheerder kan een andere ambtenaar, dan bedoeld in de artikelen 5, 7 en 8, uitrusten met een kogelwerend vest, een kogelwerende helm of een gasmasker. 
 
 ### Artikel  10  
 
@@ -140,7 +140,7 @@ c. klittenband;
 
 d. tie-raps;  
 
-e. schuimcap.     
+e. schuimcap.    
 
 ### Artikel  11  
 
@@ -150,15 +150,15 @@ a. een lange wapenstok;
 
 b. rookgranaten, gasgranaten of gashouders, of  
 
-c. een pistoolmitrailleur met de daarbij behorende munitie.    
+c. een pistoolmitrailleur met de daarbij behorende munitie.   
 
 ### Artikel  12  
 
-De korpsbeheerder draagt er zorg voor dat de ambtenaar slechts over een wapen beschikt indien hij voldoet aan de gestelde eisen van bekwaamheid, bedoeld in hoofdstuk VIIb van het Besluit rechtspositie korps politie BES.  
+De korpsbeheerder draagt er zorg voor dat de ambtenaar slechts over een wapen beschikt indien hij voldoet aan de gestelde eisen van bekwaamheid, bedoeld in hoofdstuk VIIb van het Besluit rechtspositie korps politie BES. 
 
 ### Artikel  13  
 
-De korpsbeheerder stelt regels met betrekking tot het dragen, het onderhoud en het in een inbraakvrije ruimte bewaren van de wapens en munitie, bedoeld in de artikelen 2 tot en met 11.  
+De korpsbeheerder stelt regels met betrekking tot het dragen, het onderhoud en het in een inbraakvrije ruimte bewaren van de wapens en munitie, bedoeld in de artikelen 2 tot en met 11. 
 
 ### Artikel  14  
 
@@ -167,7 +167,7 @@ De korpsbeheerder stelt regels met betrekking tot het dragen, het onderhoud en h
 3.  Uitrusting met een politiespeurhond explosieven geschiedt uitsluitend voor het opsporen van explosieven, vuurwapen en munitie.   
 4.  Uitrusting met een politiespeurhond verdovende middelen geschiedt uitsluitend voor het opsporen van verdovende middelen.   
 5.  Uitrusting met een politiespeurhond stoffelijke resten geschiedt uitsluitend voor het opsporen van stoffelijke resten van mensen.   
-6.  Uitrusting met een politiespeurhond brandversnellende middelen geschiedt uitsluitend voor het opsporen van brandversnellende middelen.   
+6.  Uitrusting met een politiespeurhond brandversnellende middelen geschiedt uitsluitend voor het opsporen van brandversnellende middelen.  
 
 ### Artikel  15  
 
@@ -188,23 +188,23 @@ f. aantekenboekje;
 g. zakmes;  
 
 h. verkeersondermouwen.     
-2.  De korpsbeheerder kan andere uitrusting, dan bedoeld in het eerste lid, aanwijzen. Hij bepaalt aan welke ambtenaren de overige uitrusting wordt verstrekt en wanneer deze wordt gedragen of gebruikt.   
+2.  De korpsbeheerder kan andere uitrusting, dan bedoeld in het eerste lid, aanwijzen. Hij bepaalt aan welke ambtenaren de overige uitrusting wordt verstrekt en wanneer deze wordt gedragen of gebruikt.  
 
 ### Artikel  16  
 
 1.  Onze Minister stelt voor de wapens, de daarbij behorende draagmiddelen en de munitie het merk en type vast, met dien verstande dat de eisen waaraan de bewapening van de politie in verband met de taakuitvoering moet voldoen in overeenstemming met Onze Minister van Justitie worden vastgesteld.   
-2.  Onze Minister kan voor de overige uitrusting het merk en type vaststellen.   
+2.  Onze Minister kan voor de overige uitrusting het merk en type vaststellen.  
 
 ### Artikel  17  
 
 1.  Onze Minister is verantwoordelijk voor de aanschaf en afvoer van de in dit besluit genoemde wapens en de daarbij behorende munitie, alsmede de overige uitrusting ten behoeve van het politiekorps.   
-2.  Bij ministeriële regeling kunnen regels worden gesteld over de aanschaf en afvoer van wapens en de daarbij behorende munitie, alsmede over de overige uitrusting.   
+2.  Bij ministeriële regeling kunnen regels worden gesteld over de aanschaf en afvoer van wapens en de daarbij behorende munitie, alsmede over de overige uitrusting.  
 
 ### Artikel  18  
 
 1.  Onze Minister kan toestemming verlenen een ambtenaar gedurende maximaal een jaar mede te bewapenen met een wapen of munitie voor zover dit noodzakelijk is voor de beproeving ervan. De termijn kan eenmaal worden verlengd met maximaal een jaar.   
 2.  Onze Minister stelt de Ministers van Justitie van Curaçao en van Sint Maarten hiervan in kennis.   
-3.  Onze Minister stelt het merk en type van het wapen of de munitie, bedoeld in het eerste lid, vast.   
+3.  Onze Minister stelt het merk en type van het wapen of de munitie, bedoeld in het eerste lid, vast.  
 
 ### Hoofdstuk  3  
 
@@ -214,7 +214,7 @@ h. verkeersondermouwen.
 
 1.  Er zijn keuringscommissies voor de politiespeurhond, voor de politiesurveillancehond en voor de hond die bedoeld is om in te zetten bij aanhoudings- en ondersteuningswerkzaamheden, waarvan de leden worden aangewezen door Onze Minister.   
 2.  De leden van de keuringscommissies zijn ambtenaar van politie als bedoeld in [artikel 3, onder a of c, van de rijkswet](../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md). Van de keuringscommissie voor de politiespeurhond kunnen tevens buitengewone agenten van politielid zijn.   
-3.  De leden van de keuringscommissie voor de politiespeurhonden, de politiesurveillancehond respectievelijk de hond die bedoeld is om in te zetten bij aanhoudings- en ondersteuningswerkzaamheden, beschikken over een ruime en aantoonbare dressuurtechnische ervaring en praktische politie-ervaring op het gebied van de inzet en het gebruik van de desbetreffende hond. De leden van de keuringscommissie voor de politiespeurhond beschikken tevens over kennis van de toepasselijke strafvorderlijke bepalingen.   
+3.  De leden van de keuringscommissie voor de politiespeurhonden, de politiesurveillancehond respectievelijk de hond die bedoeld is om in te zetten bij aanhoudings- en ondersteuningswerkzaamheden, beschikken over een ruime en aantoonbare dressuurtechnische ervaring en praktische politie-ervaring op het gebied van de inzet en het gebruik van de desbetreffende hond. De leden van de keuringscommissie voor de politiespeurhond beschikken tevens over kennis van de toepasselijke strafvorderlijke bepalingen.  
 
 ### Artikel  20  
 
@@ -259,7 +259,7 @@ g. voor de politiespeurhond brandversnellende middelen:
 
 1°. het zelfstandig willen en kunnen zoeken naar brandversnellende middelen;  
 
-2°. het vermogen om binnen een redelijke tijd alleen die brandversnellende middelen op te sporen, die in het keuringsreglement zijn aangewezen.       
+2°. het vermogen om binnen een redelijke tijd alleen die brandversnellende middelen op te sporen, die in het keuringsreglement zijn aangewezen.      
 
 ### Artikel  21  
 
@@ -273,7 +273,7 @@ b. ingeënt zijn tegen de in het keuringsreglement aangewezen ziekten.
 4.  De keuring van een combinatie van een geleider en een politiespeurhond geschiedt door de keuringscommissie voor de politiespeurhond op basis van het keuringsreglement voor de politiespeurhond.   
 5.  De verdovende middelen, bedoeld in artikel 20, tweede lid, onderdeel d, onder 2°, worden geplaatst en verborgen in kleine hoeveelheden, op locaties en in verpakkingen overeenkomstig de praktijk.   
 6.  De politiespeurhond wordt gedurende de keuring geleid door zijn geleider.   
-7.  Indien de keuring niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen. Voor een combinatie van een geleider en een politiespeurhond menselijke geur die wordt gekeurd voor de geuridentificatietaak bestaat de mogelijkheid van meer dan twee herkansingen.   
+7.  Indien de keuring niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen. Voor een combinatie van een geleider en een politiespeurhond menselijke geur die wordt gekeurd voor de geuridentificatietaak bestaat de mogelijkheid van meer dan twee herkansingen.  
 
 ### Artikel  22  
 
@@ -325,7 +325,7 @@ d. de inzetbaarheid van de politiespeurhond geld bij opsporingsonderzoeken;
 
 e. de toepasselijke strafvorderlijke bepalingen.     
 6.  De examenvragen en de examenstof worden door de keuringscommissie voor de politiespeurhond vastgesteld.   
-7.  Indien het examen niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen.   
+7.  Indien het examen niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen.  
 
 ### Artikel  23  
 
@@ -341,7 +341,7 @@ c. de vaardigheid van de politiesurveillancehond in het kunnen nemen van alle hi
 
 d. het vermogen van de surveillancehond om op commando van de geleider geweld tegen derden toe te passen respectievelijk te beëindigen.     
 4.  De politiesurveillancehond wordt gedurende de keuring geleid door zijn geleider.   
-5.  Indien de keuring niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen.   
+5.  Indien de keuring niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen.  
 
 ### Artikel  24  
 
@@ -359,7 +359,7 @@ d. de vaardigheid in het kunnen nemen van alle hindernissen die voor een goed fu
 
 e. het vermogen om op commando van de geleider geweld tegen derden toe te passen en te beëindigen.     
 4.  De hond wordt gedurende de keuring geleid door zijn geleider.   
-5.  Indien de keuring niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen.   
+5.  Indien de keuring niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen.  
 
 ### Artikel  25  
 
@@ -370,7 +370,7 @@ e. het vermogen om op commando van de geleider geweld tegen derden toe te passen
 
 a. de speurtaak van de politiespeurhonden menselijke geur, of  
 
-b. de geuridentificatietaak van de politiespeurhond menselijk geur.     
+b. de geuridentificatietaak van de politiespeurhond menselijk geur.    
 
 ### Artikel  26  
 
@@ -378,12 +378,12 @@ b. de geuridentificatietaak van de politiespeurhond menselijk geur.
 2.  De herkeuring van een combinatie van een geleider en een politiespeurhond vindt alleen plaats als de geleider aantoont dat hij sinds de laatste keuring of herkeuring jaarlijks een bijscholingscursus heeft gevolgd.   
 3.  Indien de herkeuring met goed gevolg wordt afgelegd, wordt het certificaat verlengd met de duur van twee jaar en drie maanden.   
 4.  Indien de herkeuring niet met goed gevolg wordt afgelegd, kan binnen de geldigheidsduur van het certificaat een tweede of derde herkeuring plaatsvinden.   
-5.  Indien een eerste, tweede of derde herkeuring niet met goed gevolg wordt afgelegd, kan het certificaat voor het verstrijken van de geldigheidsduur worden ingetrokken, indien het naar het oordeel van de desbetreffende keuringscommissie noodzakelijk is de inzet in politiedienst van de desbetreffende combinatie van geleider en hond met onmiddellijke ingang te beëindigen.   
+5.  Indien een eerste, tweede of derde herkeuring niet met goed gevolg wordt afgelegd, kan het certificaat voor het verstrijken van de geldigheidsduur worden ingetrokken, indien het naar het oordeel van de desbetreffende keuringscommissie noodzakelijk is de inzet in politiedienst van de desbetreffende combinatie van geleider en hond met onmiddellijke ingang te beëindigen.  
 
 ### Artikel  27  
 
 1.  Betrokkenen bij de keuring of herkeuring kunnen bij de keuringscommissie een gemotiveerd schriftelijk protest indienen tegen het keurings- of herkeuringsbesluit van de keuringscommissie. Het protest kan tot acht dagen na ontvangst van het keuringsrapport worden ingediend.   
-2.  De keuringscommissie onderzoekt de gronden van het protest en beslist binnen drie maanden schriftelijk over het protest.   
+2.  De keuringscommissie onderzoekt de gronden van het protest en beslist binnen drie maanden schriftelijk over het protest.  
 
 ### Hoofdstuk  4  
 
@@ -418,7 +418,7 @@ f. brigadier; drie V-vormen, in elkaar liggend;
 g. agent; twee V-vormen, in elkaar liggend;  
 
 h. aspirant: één V-vorm.     
-4.  De onderscheidingstekens van de subrangen behorende bij een hoofdrang zijn gelijk aan die van de desbetreffende hoofdrang.   
+4.  De onderscheidingstekens van de subrangen behorende bij een hoofdrang zijn gelijk aan die van de desbetreffende hoofdrang.  
 
 ### Hoofdstuk  5  
 
@@ -426,11 +426,11 @@ h. aspirant: één V-vorm.
 
 ### Artikel  29  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) in werking treedt. 
 
 ### Artikel  30  
 
-Dit besluit wordt aangehaald als: Besluit bewapening en overige uitrusting politie BES.  
+Dit besluit wordt aangehaald als: Besluit bewapening en overige uitrusting politie BES. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -438,10 +438,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 30 september 2010  
 Beatrix  
 
-De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,  
 A. Th. B. Bijleveld-Schouten   
 
 de *eerste* oktober 2010 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    
