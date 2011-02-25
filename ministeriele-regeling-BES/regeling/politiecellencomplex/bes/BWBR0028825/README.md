@@ -2,17 +2,20 @@
 
 ##Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties en van de Minister van Justitie van 5 oktober 2010, nr. 2010-0000612483, houdende regels over de inrichting van een politiecellencomplex en de registratie van gegevens van ingeslotenen op Bonaire, Sint Eustatius en Saba (Regeling politiecellencomplex BES)
 
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Justitie,  
+Gelet op [artikel 14, derde lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md), [artikel 2 van de Veiligheidswet BES](../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md) en [artikel 9, vijfde, zesde en zevende lid, van het Besluit beheer politiekorps BES](../../../../../AMvB-BES/besluit/beheer/politiekorps/bes/BWBR0028780/README.md);
+Besluit:     
 ### Hoofdstuk  1  
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a. *politiecellencomplex:* het politiecellencomplex, bedoeld in [artikel 1, onder c, van het Besluit beheer politiekorps BES](../../../../../AMvB-BES/besluit/beheer/politiekorps/bes/BWBR0028780/README.md);  
+a.  *politiecellencomplex:* het politiecellencomplex, bedoeld in [artikel 1, onder c, van het Besluit beheer politiekorps BES](../../../../../AMvB-BES/besluit/beheer/politiekorps/bes/BWBR0028780/README.md);  
 
-b. *cel:* een afsluitbare ruimte geschikt voor het dag- en nachtverblijf van een persoon;  
+b.  *cel:* een afsluitbare ruimte geschikt voor het dag- en nachtverblijf van een persoon;  
 
-c. *ingeslotene:* de persoon, bedoeld in [artikel 1, onder a, van het Besluit beheer politiekorps BES](../../../../../AMvB-BES/besluit/beheer/politiekorps/bes/BWBR0028780/README.md).    
+c.  *ingeslotene:* de persoon, bedoeld in [artikel 1, onder a, van het Besluit beheer politiekorps BES](../../../../../AMvB-BES/besluit/beheer/politiekorps/bes/BWBR0028780/README.md).   
 
 ### Hoofdstuk  2  
 
@@ -24,17 +27,17 @@ c. *ingeslotene:* de persoon, bedoeld in [artikel 1, onder a, van het Besluit be
 
 1.  De korpsbeheerder politie draagt er zorg voor dat een politiecellencomplex zodanig is ingericht dat ingeslotenen geen gelegenheid wordt gegeven tot ontvluchting, vernieling, brandstichting of zelfdoding.   
 2.  De korpsbeheerder politie draagt er zorg voor dat voldoende maatregelen zijn genomen om de veiligheid van de ingeslotene te waarborgen.   
-3.  Er is voor het politiecellencomplex een ontruimingsplan dat is goedgekeurd door de lokaal commandant van het brandweerkorps BES.   
+3.  Er is voor het politiecellencomplex een ontruimingsplan dat is goedgekeurd door de lokaal commandant van het brandweerkorps BES.  
 
 ### Artikel  3  
 
-1.  Het politiecellencomplex heeft als luchtruimte een buitenruimte met een oppervlakte van ten minste 30 m <sup>2</sup>, waarin begrepen een vierkant van 10 m <sup>2</sup>.   
-2.  De luchtruimte is voorzien van een rasterwerk dat aansluit op een overkapping. De overkapping biedt voldoende bescherming tegen neerslag en beslaat maximaal een derde deel van de totale luchtruimte.   
+1.  Het politiecellencomplex heeft als luchtruimte een buitenruimte met een oppervlakte van ten minste 30 m<sup>2</sup>, waarin begrepen een vierkant van 10 m<sup>2</sup>.   
+2.  De luchtruimte is voorzien van een rasterwerk dat aansluit op een overkapping. De overkapping biedt voldoende bescherming tegen neerslag en beslaat maximaal een derde deel van de totale luchtruimte.  
 
 ### Artikel  4  
 
 1.  De breedte van de ruimten en gangen in het politiecellencomplex is ten minste 1,40 m.   
-2.  Het politiecellencomplex bevat een doucheruimte, waarin de temperatuur van het uitstromende water maximaal 40 °C is.   
+2.  Het politiecellencomplex bevat een doucheruimte, waarin de temperatuur van het uitstromende water maximaal 40 °C is.  
 
 ### §  2  
 
@@ -43,27 +46,27 @@ c. *ingeslotene:* de persoon, bedoeld in [artikel 1, onder a, van het Besluit be
 ### Artikel  5  
 
 1.  Een cel is aan de gangzijde voorzien van een deur, waarvan de draairichting is afgekeerd van de cel. De deur is alleen vanaf de gangzijde afsluitbaar.   
-2.  Een cel is voorzien van een mogelijkheid om vanuit de celgang de ingeslotene bij gesloten deur te observeren en van maaltijden te voorzien.   
+2.  Een cel is voorzien van een mogelijkheid om vanuit de celgang de ingeslotene bij gesloten deur te observeren en van maaltijden te voorzien.  
 
 ### Artikel  6  
 
 1.  Een cel is voorzien van lichtopeningen, die zodanig in de binnen- of buitenmuren zijn aangebracht dat de ingeslotene de dag- en nachtcyclus kan waarnemen.   
-2.  Een cel is voorzien van een lichtpunt dat indien gemeten op een hoogte van 0,80 m. recht onder dat lichtpunt, een lichtsterkte van minimaal 400 Lux heeft.   
+2.  Een cel is voorzien van een lichtpunt dat indien gemeten op een hoogte van 0,80 m. recht onder dat lichtpunt, een lichtsterkte van minimaal 400 Lux heeft.  
 
 ### Artikel  7  
 
-De cel is voorzien van een communicatie-installatie waarmee vanuit de cel te allen tijde contact met de bewaking kan worden verkregen.  
+De cel is voorzien van een communicatie-installatie waarmee vanuit de cel te allen tijde contact met de bewaking kan worden verkregen. 
 
 ### Artikel  8  
 
-De ventilatievoud in een cel is minimaal 11 × 10 <sup>3</sup> m <sup>3</sup> per seconde.  
+De ventilatievoud in een cel is minimaal 11 × 10<sup>3</sup> m<sup>3</sup> per seconde. 
 
 ### Artikel  9  
 
 1.  De cel is voorzien van een tafel, een stoel, een bed en een toilet.   
 2.  Het in de cel aanwezige meubilair dient onwrikbaar aan een van de muren of de vloer van de cel bevestigd te zijn.   
 3.  De stoel is zodanig bij de tafel geplaatst dat de ingeslotene zittend op de stoel, gebruik kan maken van de tafel. De stoel bevindt zich vanuit de celdeur bezien achter de tafel.   
-4.  Het bed heeft een lengte van minimaal 2.10 m.   
+4.  Het bed heeft een lengte van minimaal 2.10 m.  
 
 ### §  3  
 
@@ -73,12 +76,12 @@ De ventilatievoud in een cel is minimaal 11 × 10 <sup>3</sup> m <sup>3</sup> pe
 
 1.  Een observatiecel voldoet in ieder geval aan de eisen, gesteld in de artikelen 5, 6 en 7.   
 2.  Een observatiecel heeft een vlakke vloer en bevat geen meubilair.   
-3.  De observatiecel is voorzien van een camera.   
+3.  De observatiecel is voorzien van een camera.  
 
 ### Artikel  11  
 
 1.  Een verhoor- of ophoudkamer voldoet in ieder geval aan de eisen overeenkomstig de artikelen 5, eerste lid, 7 en 8.   
-2.  In de deur van de ophoudkamer is een opening, voorzien van slagvast glas.   
+2.  In de deur van de ophoudkamer is een opening, voorzien van slagvast glas.  
 
 ### Hoofdstuk  3  
 
@@ -106,7 +109,7 @@ h. medicijngebruik en verstrekking van medicijnen;
 
 i. de tijdstippen van het verstrekken van maaltijden, het luchten en het douchen of wassen, en  
 
-j. het tijdstip van controle tijdens de nachtelijke uren.    
+j. het tijdstip van controle tijdens de nachtelijke uren.   
 
 ### Hoofdstuk  4  
 
@@ -118,7 +121,7 @@ j. het tijdstip van controle tijdens de nachtelijke uren.
 2.  Ten minste eens in de vijf jaar wordt een politiecellencomplex door ambtenaren van de Raad voor de rechtshandhaving, gecontroleerd op het voldoen aan de hiervoor geldende eisen.   
 3.  De korpsbeheerder politie kan, de procureur-generaal gehoord, voor het gebruik van dat complex anders dan voor inverzekeringstelling, ontheffing verlenen van het gestelde in de artikelen 3, 6, 8 en 9, vierde lid.   
 4.  Een ontheffing voor het gebruik van het politiecellencomplex als ruimte voor inverzekeringstelling en voor het gebruik daarvan anders dan voor inverzekeringstelling, indien het een ontheffing betreft van andere eisen dan genoemd in het derde lid, wordt slechts verleend door of namens de procureur-generaal.   
-5.  De ontheffing is met redenen omkleed, vermeldt het betreffende complex of de ruimte waarvoor zij geldig is en heeft een maximale geldigheidsduur van vijf jaren.   
+5.  De ontheffing is met redenen omkleed, vermeldt het betreffende complex of de ruimte waarvoor zij geldig is en heeft een maximale geldigheidsduur van vijf jaren.  
 
 ### Hoofdstuk  5  
 
@@ -126,7 +129,7 @@ j. het tijdstip van controle tijdens de nachtelijke uren.
 
 ### Artikel  14  
 
-In geval van overlijden of een poging tot zelfdoding van een ingeslotene op een politiebureau wordt hiervan aan de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie een schriftelijk rapport toegezonden volgens het model in de bijlage bij deze regeling.  
+In geval van overlijden of een poging tot zelfdoding van een ingeslotene op een politiebureau wordt hiervan aan de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie een schriftelijk rapport toegezonden volgens het model in de bijlage bij deze regeling. 
 
 ### Hoofdstuk  6  
 
@@ -134,20 +137,20 @@ In geval van overlijden of een poging tot zelfdoding van een ingeslotene op een 
 
 ### Artikel  15  
 
-Deze regeling treedt in werking met ingang van het tijdstip waarop de [Veiligheidswet BES](../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md) in werking treedt. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgeven na dat tijdstip, treedt deze regeling in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot het in de eerste volzin bedoelde tijdstip.  
+Deze regeling treedt in werking met ingang van het tijdstip waarop de [Veiligheidswet BES](../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md) in werking treedt. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgeven na dat tijdstip, treedt deze regeling in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot het in de eerste volzin bedoelde tijdstip. 
 
 ### Artikel  16  
 
-Deze regeling wordt aangehaald als: Regeling politiecellencomplex BES.  
+Deze regeling wordt aangehaald als: Regeling politiecellencomplex BES. 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,
-A.Th.B.Bijleveld-Schouten 
+Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, 
+A.Th.B. Bijleveld-Schouten   
 
 De 
-Minister van Justitie,
-E.M.H.Hirsch Ballin  
+Minister van Justitie, 
+E.M.H. Hirsch Ballin    
 
 ### Bijlage  
 
