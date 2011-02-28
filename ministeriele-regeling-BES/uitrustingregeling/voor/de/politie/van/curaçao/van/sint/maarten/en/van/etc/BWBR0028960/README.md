@@ -2,6 +2,14 @@
 
 ##Onderlinge regeling uitrusting politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba (uitrustingsregeling voor de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba)
 
+Nederland, Curaçao en Sint Maarten  
+Overwegende:
+
+– dat op grond van [artikel 42, eerste lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) de landen onderling een regeling treffen houdende regels voor de uitrusting van ambtenaren van politie;  
+
+– dat elk van de landen hetgeen in deze regeling is overeengekomen vaststellen bij landsbesluit, houdende algemene maatregelen, of algemene maatregel van bestuur;   
+Gelet op [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](../../../../../../../../../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md) en [artikel 42, eerste lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md),
+Komen het volgende overeen:     
 ### Hoofdstuk  1  
 
 ####Algemene bepalingen
@@ -10,11 +18,11 @@
 
 In deze regeling wordt verstaan onder: 
 
-a. *rijkswet:* de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md);  
+a.  *rijkswet:* de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md);  
 
-b. *ambtenaar:* de ambtenaar, bedoeld in [artikel 3, onder a, van de rijkswet](../../../../../../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md), met de hoofdrang hoger dan die van aspirant;  
+b.  *ambtenaar:* de ambtenaar, bedoeld in [artikel 3, onder a, van de rijkswet](../../../../../../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md), met de hoofdrang hoger dan die van aspirant;  
 
-c. *aspirant:* degene die is toegelaten tot de basisopleiding.    
+c.  *aspirant:* degene die is toegelaten tot de basisopleiding.   
 
 ### Hoofdstuk  2  
 
@@ -36,7 +44,7 @@ c. het pistool of de revolver met de daarbij behorende munitie.
 a. handboeien;  
 
 b. een koppel.     
-5.  De korpsbeheerder kan de ambtenaar mede uitrusten met een veiligheidsvest of tie-raps.   
+5.  De korpsbeheerder kan de ambtenaar mede uitrusten met een veiligheidsvest of tie-raps.  
 
 ### Artikel  3  
 
@@ -45,7 +53,7 @@ b. een koppel.
 a. de korte wapenstok;  
 
 b. de pepperspray en nazorgmiddelen;     
-2.  De korpsbeheerder kan de aspirant, bedoeld in het eerste lid, mede bewapenen met het pistool of de revolver met de daarbij behorende munitie.   
+2.  De korpsbeheerder kan de aspirant, bedoeld in het eerste lid, mede bewapenen met het pistool of de revolver met de daarbij behorende munitie.  
 
 ### Artikel  4  
 
@@ -61,7 +69,7 @@ d. een semi-automatisch vuurwapen met de daarbij behorende munitie, voor zover h
 2.  De korpsbeheerder kan een ambtenaar als bedoeld in het eerste lid aanwijzen die van het dragen van de in het eerste lid genoemde wapens is vrijgesteld.   
 3.  De korpsbeheerder kan een ambtenaar als bedoeld in het eerste lid die beschikt over een geldig certificaat als bedoeld in artikel 7.13 van de onderlinge regeling houdende kwaliteitseisen, opleidings- en trainingsvereisten politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba, aanwijzen die tijdens de uitoefening van de dienst bij deze eenheid mede wordt bewapend met een politiesurveillancehond en een elektrische wapenstok.   
 4.  De overige uitrusting van de ambtenaar, bedoeld in het eerste lid, bestaat tijdens de uitoefening van de dienst mede uit een gasmasker en een schild.   
-5.  De korpsbeheerder kan de ambtenaar, bedoeld in het eerste lid, mede uitrusten met een kogelwerend vest en een kogelwerende helm.   
+5.  De korpsbeheerder kan de ambtenaar, bedoeld in het eerste lid, mede uitrusten met een kogelwerend vest en een kogelwerende helm.  
 
 ### Artikel  5  
 
@@ -72,7 +80,7 @@ a. een gasgeweer met bijbehorende gasprojectielen of traangasverspreidende midde
 b. een semi-automatisch vuurwapen;  
 
 c. een automatisch vuurwapen.     
-2.  De korpsbeheerder kan een ambtenaar als bedoeld in het eerste lid aanwijzen die van het dragen van de in het eerste lid genoemde wapens is vrijgesteld.   
+2.  De korpsbeheerder kan een ambtenaar als bedoeld in het eerste lid aanwijzen die van het dragen van de in het eerste lid genoemde wapens is vrijgesteld.  
 
 ### Artikel  6  
 
@@ -86,18 +94,18 @@ c. een semi-automatisch vuurwapen.
 2.  De korpsbeheerder kan een ambtenaar als bedoeld in het eerste lid aanwijzen die van het dragen van de in het eerste lid genoemde wapens is vrijgesteld.   
 3.  De korpsbeheerder kan een ambtenaar als bedoeld in het eerste lid die beschikt over een geldig certificaat als bedoeld in artikel 7.13 van de onderlinge regeling houdende kwaliteitseisen, opleidings- en trainingsvereisten politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba, aanwijzen die tijdens de uitoefening van de dienst bij deze eenheid mede wordt bewapend met een hond met als doel in politiedienst te worden ingezet bij het optreden van deze eenheid.   
 4.  De overige uitrusting van de ambtenaar, bedoeld in het eerste lid, bestaat tijdens de uitoefening van de dienst uit een gasmasker en explosieven.   
-5.  De korpsbeheerder kan de ambtenaar, bedoeld in het eerste lid, mede uitrusten met een kogelwerend vest en een kogelwerende helm.   
+5.  De korpsbeheerder kan de ambtenaar, bedoeld in het eerste lid, mede uitrusten met een kogelwerend vest en een kogelwerende helm.  
 
 ### Artikel  7  
 
 1.  De bewapening van de ambtenaar die behoort tot een bijzondere bijstandseenheid, bestaat tijdens de uitoefening van de dienst bij deze eenheid mede uit een vuurwapen waarmee lange-afstandsprecisievuur kan worden afgegeven met de daarbij behorende munitie.   
 2.  De korpsbeheerder kan een ambtenaar als bedoeld in het eerste lid aanwijzen die van het dragen van de in het eerste lid genoemde wapens is vrijgesteld.   
 3.  De korpsbeheerder kan een ambtenaar als bedoeld in het eerste lid die beschikt over een geldig certificaat als bedoeld in artikel 7.13 van de van de onderlinge regeling houdende kwaliteitseisen, opleidings- en trainingsvereisten politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba aanwijzen die tijdens de uitoefening van de dienst bij deze eenheid mede wordt bewapend met een hond met als doel in politiedienst te worden ingezet bij het optreden van deze eenheid.   
-4.  De korpsbeheerder kan de ambtenaar, bedoeld in het eerste lid, mede uitrusten met een kogelwerend vest en een kogelwerende helm.   
+4.  De korpsbeheerder kan de ambtenaar, bedoeld in het eerste lid, mede uitrusten met een kogelwerend vest en een kogelwerende helm.  
 
 ### Artikel  8  
 
-De korpsbeheerder kan de ambtenaar die geen deel uitmaakt van de in de artikelen 4, 6 en 7 genoemde eenheden, uitrusten met een kogelwerend vest, een kogelwerende helm of een gasmasker.  
+De korpsbeheerder kan de ambtenaar die geen deel uitmaakt van de in de artikelen 4, 6 en 7 genoemde eenheden, uitrusten met een kogelwerend vest, een kogelwerende helm of een gasmasker. 
 
 ### Artikel  9  
 
@@ -112,7 +120,7 @@ c. klittenband;
 
 d. tie-raps;  
 
-e. schuimcap.     
+e. schuimcap.    
 
 ### Artikel  10  
 
@@ -122,15 +130,15 @@ a. een lange wapenstok;
 
 b. rookgranaten, gasgranaten of gashouders; of  
 
-c. een pistoolmitrailleur met de daarbij behorende munitie.    
+c. een pistoolmitrailleur met de daarbij behorende munitie.   
 
 ### Artikel  11  
 
-De korpsbeheerder draagt er zorg voor dat de ambtenaar slechts over een wapen beschikt indien hij voldoet aan de gestelde eisen van bekwaamheid, bedoeld in de onderlinge regeling krachtens [artikel 41, eerste lid, van de rijkswet](../../../../../../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md).  
+De korpsbeheerder draagt er zorg voor dat de ambtenaar slechts over een wapen beschikt indien hij voldoet aan de gestelde eisen van bekwaamheid, bedoeld in de onderlinge regeling krachtens [artikel 41, eerste lid, van de rijkswet](../../../../../../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md). 
 
 ### Artikel  12  
 
-Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten of Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt regels met betrekking tot het dragen, het onderhoud en het in inbraakvrije ruimte bewaren van de wapens en munitie, bedoeld in de artikelen 2 tot en met 10.  
+Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten of Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt regels met betrekking tot het dragen, het onderhoud en het in inbraakvrije ruimte bewaren van de wapens en munitie, bedoeld in de artikelen 2 tot en met 10. 
 
 ### Artikel  13  
 
@@ -139,7 +147,7 @@ Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Ma
 3.  Uitrusting met een politiespeurhond explosieven geschiedt uitsluitend voor het opsporen van explosieven, vuurwapen en munitie.   
 4.  Uitrusting met een politiespeurhond verdovende middelen geschiedt uitsluitend voor het opsporen van verdovende middelen.   
 5.  Uitrusting met een politiespeurhond stoffelijke resten geschiedt uitsluitend voor het opsporen van stoffelijke resten van mensen.   
-6.  Uitrusting met een politiespeurhond brandversnellende middelen geschiedt uitsluitend voor het opsporen van brandversnellende middelen.   
+6.  Uitrusting met een politiespeurhond brandversnellende middelen geschiedt uitsluitend voor het opsporen van brandversnellende middelen.  
 
 ### Artikel  14  
 
@@ -160,22 +168,22 @@ f. aantekenboekje;
 g. zakmes;  
 
 h. verkeersondermouwen.     
-2.  De korpsbeheerder bepaalt aan welke ambtenaren de uitrusting als bedoeld in het eerste lid worden verstrekt en wanneer deze worden gedragen of gebruikt.   
+2.  De korpsbeheerder bepaalt aan welke ambtenaren de uitrusting als bedoeld in het eerste lid worden verstrekt en wanneer deze worden gedragen of gebruikt.  
 
 ### Artikel  15  
 
 1.  Onze Ministers, op voorstel van de korpschefs, stellen voor de wapens, de daarbij behorende draagmiddelen en de munitie het merk en type vast.   
-2.  Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten en Onze Minister van Binnenlandse Zaken en koninkrijksrelaties, op voorstel van de korpschefs, stellen voor de overige uitrusting het merk en type vast.   
+2.  Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten en Onze Minister van Binnenlandse Zaken en koninkrijksrelaties, op voorstel van de korpschefs, stellen voor de overige uitrusting het merk en type vast.  
 
 ### Artikel  16  
 
-Onze Minister van Justitie van Curaçao, Onze Minister van Sint Maarten respectievelijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is verantwoordelijk voor de aanschaf en afvoer van de in deze regeling genoemde wapens en de daarbij behorende munitie, alsmede de overige uitrusting ten behoeve van het politiekorps.  
+Onze Minister van Justitie van Curaçao, Onze Minister van Sint Maarten respectievelijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is verantwoordelijk voor de aanschaf en afvoer van de in deze regeling genoemde wapens en de daarbij behorende munitie, alsmede de overige uitrusting ten behoeve van het politiekorps. 
 
 ### Artikel  17  
 
 1.  Onze Minister kan toestemming verlenen een ambtenaar gedurende maximaal een jaar mede te bewapenen met een wapen of munitie voor zover dit noodzakelijk is voor de beproeving ervan. De termijn van maximaal een jaar kan eenmaal worden verlengd.   
 2.  Onze Minister stelt de andere landen hiervan in kennis.   
-3.  Onze Minister stelt het merk en type van het wapen of de munitie, bedoeld in het eerste lid, vast.   
+3.  Onze Minister stelt het merk en type van het wapen of de munitie, bedoeld in het eerste lid, vast.  
 
 ### Hoofdstuk  3  
 
@@ -208,7 +216,7 @@ e. brigadier; drie V-vormen, in elkaar liggend;
 f. agent; twee V-vormen, in elkaar liggend;  
 
 g. aspirant: één V-vorm.     
-4.  De onderscheidingstekens van de subrangen behorende bij een hoofdrang zijn gelijk aan die van de desbetreffende hoofdrang.   
+4.  De onderscheidingstekens van de subrangen behorende bij een hoofdrang zijn gelijk aan die van de desbetreffende hoofdrang.  
 
 ### Hoofdstuk  4  
 
@@ -216,21 +224,21 @@ g. aspirant: één V-vorm.
 
 ### Artikel  19  
 
-De onderlinge regeling treedt in werking op het tijdstip waarop de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) in werking treedt.  
+De onderlinge regeling treedt in werking op het tijdstip waarop de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) in werking treedt. 
 
 ### Artikel  20  
 
-Deze regeling wordt aangehaald als: Uitrustingregeling voor de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba.  
+Deze regeling wordt aangehaald als: Uitrustingregeling voor de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba. 
 Deze regeling wordt binnen 30 dagen na ondertekening geplaatst in de Staatscourant en de Curaçaosche Courant.   
 
 Willemstad 
 1 juli 2010   
 
-De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van Nederland, 
-A.Th.B.Bijleveld-Schouten 
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van Nederland,
+A.Th.B. Bijleveld-Schouten   
 
-De Minister van Justitie van Nederland, 
-E.M.H.Hirsch Ballin 
+De Minister van Justitie van Nederland,
+E.M.H. Hirsch Ballin   
 
 De gedeputeerde van Constitutionele Zaken van Curaçao, 
 Z.A.M. Jesus-Leito   

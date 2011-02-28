@@ -13,18 +13,18 @@ gelet op Verordening (EG) Nr. 1234/2007 van de Raad van 22 oktober 2007 houdende
 
 Overwegende dat het om redenen van doelmatigheid, efficiëntie en motivatie wenselijk is binnen de grenzen van dit Mandaatbesluit gebruik te maken van de mandaatfiguur;
 
-### Artikel  1  
+###Artikel 1 
 
-Aan de secretaris, de plaatsvervangend secretaris en de juridisch medewerkers van de Unit Juridische zaken het Productschap Tuinbouw wordt gemandateerd, de bevoegdheid tot het beslissen op bezwaarschriften, gericht tegen een besluit van het Productschap Tuinbouw, en het ondertekenen van de beslissing.  
+Aan de secretaris, de plaatsvervangend secretaris en de juridisch medewerkers van de Unit Juridische zaken het Productschap Tuinbouw wordt gemandateerd, de bevoegdheid tot het beslissen op bezwaarschriften, gericht tegen een besluit van het Productschap Tuinbouw, en het ondertekenen van de beslissing. 
 
-### Artikel  2  
+###Artikel 2 
 
-1.  Dit besluit treedt in werking op de tweede dag na publicatie in het Verordeningenblad bedrijfsorganisatie en werkt terug tot en met 1 februari 2011.   
-2.  Het [Mandaatbesluit Voorzitter PT Bezwaarschriften 2008](../../../../../../../pbo/mandaatbesluit/voorzitter/pt/bezwaarschriften/2008/BWBR0028115/README.md) wordt ingetrokken.   
-3.  Dit besluit kan worden aangehaald als: “Mandaatbesluit voorzitter PT bezwaarschriften 2011”.   
+1. Dit besluit treedt in werking op de tweede dag na publicatie in het Verordeningenblad bedrijfsorganisatie en werkt terug tot en met 1 februari 2011. 
+2. Het [Mandaatbesluit Voorzitter PT Bezwaarschriften 2008](../../../../../../../pbo/mandaatbesluit/voorzitter/pt/bezwaarschriften/2008/BWBR0028115/README.md) wordt ingetrokken.
+3. Dit besluit kan worden aangehaald als: “Mandaatbesluit voorzitter PT bezwaarschriften 2011”.
 
 Zoetermeer 
 2 februari 2011   
 
 A. Bruggeman  
-plv. voorzitter    
+plv. voorzitter   

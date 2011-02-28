@@ -2,7 +2,7 @@
 
 ##Besluit Wet op de inkomstenbelasting BES
 
-De staatssecretaris van Financiën heeft het volgende besloten.     *In dit besluit heb ik het beleid neergelegd voor de toepassing van de Wet op de inkomstenbelasting BES. De goedkeuringen in dit besluit zijn een voortzetting van het uitvoeringsbeleid zoals dat onder het staatsbestel van de Nederlandse Antillen was geformuleerd voor de uitvoering van de Landsverordening op de inkomstenbelasting 1943. Uitvoeringsregels die door wijzigingen in de wetgeving en/of het vervallen van de winstbelasting hun belang hebben verloren zijn in dit besluit niet opgenomen.*    
+De staatssecretaris van Financiën heeft het volgende besloten. *In dit besluit heb ik het beleid neergelegd voor de toepassing van de Wet op de inkomstenbelasting BES. De goedkeuringen in dit besluit zijn een voortzetting van het uitvoeringsbeleid zoals dat onder het staatsbestel van de Nederlandse Antillen was geformuleerd voor de uitvoering van de Landsverordening op de inkomstenbelasting 1943. Uitvoeringsregels die door wijzigingen in de wetgeving en/of het vervallen van de winstbelasting hun belang hebben verloren zijn in dit besluit niet opgenomen.* 
 ### 1  
 
 ####Inleiding
@@ -59,8 +59,8 @@ Den Haag
 19 december 2010   
 
 De 
-staatssecretaris van Financiën,
-F.H.H.Weekers  
+staatssecretaris van Financiën, 
+F.H.H. Weekers    
 
 ### Bijlage  
 
@@ -78,5 +78,5 @@ Aan de inspecteur van de Belastingdienst/Caribisch Nederland De ondergetekende, 
 
 a. Is investeringsaftrek genoten over de kostprijs van een bedrijfsmiddel zonder dat deze is verminderd met de op voet van [artikel 10, vierde tot en met zevende lid van de Wet inkomstenbelasting BES](../../../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) gevormde vervangingsreserve ter zake van het afgestane bedrijfsmiddel, dan zal de desinvesteringsbijtelling met betrekking tot het desbetreffende bedrijfsmiddel worden berekend over de overdrachtsprijs dan wel de waarde in het economische verkeer van dit bedrijfsmiddel.  
 
-b. Indien blijkt dat is uitgegaan van een te hoge grondslag voor het berekenen van investeringsaftrek, wordt ondergetekende geacht geen verzoek om toepassing van het in deze verklaring bedoelde besluit te hebben gedaan, zodat de investeringsaftrek alsnog overeenkomstig de in BNB 1976/51 weergegeven opvatting van de Hoge Raad moet worden berekend.   ..... (plaats) ..... (dagtekening) ..... (handtekening)  
+b. Indien blijkt dat is uitgegaan van een te hoge grondslag voor het berekenen van investeringsaftrek, wordt ondergetekende geacht geen verzoek om toepassing van het in deze verklaring bedoelde besluit te hebben gedaan, zodat de investeringsaftrek alsnog overeenkomstig de in BNB 1976/51 weergegeven opvatting van de Hoge Raad moet worden berekend.   ..... (plaats) ..... (dagtekening) ..... (handtekening) 
 

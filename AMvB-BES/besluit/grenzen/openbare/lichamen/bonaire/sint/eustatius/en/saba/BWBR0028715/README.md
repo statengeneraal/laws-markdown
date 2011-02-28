@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Onverminderd artikel 2 vallen de grenzen van de openbare lichamen Bonaire, Sint Eustatius en Saba samen met de buitengrens van de territoriale zee van het Koninkrijk rond elk van de desbetreffende eilanden, zoals vastgesteld in de [Rijkswet uitbreiding territoriale zee van het Koninkrijk](../../../../../../../../../../../rijkswet/rijkswet/uitbreiding/territoriale/zee/van/het/koninkrijk/BWBR0003749/README.md).  
+Onverminderd artikel 2 vallen de grenzen van de openbare lichamen Bonaire, Sint Eustatius en Saba samen met de buitengrens van de territoriale zee van het Koninkrijk rond elk van de desbetreffende eilanden, zoals vastgesteld in de [Rijkswet uitbreiding territoriale zee van het Koninkrijk](../../../../../../../../../../../rijkswet/rijkswet/uitbreiding/territoriale/zee/van/het/koninkrijk/BWBR0003749/README.md). 
 
 ### Artikel  2  
 
@@ -42,15 +42,15 @@ I: 17° 29’ 44.0” N 63° 09’ 05.7” W
 J: 17° 25’ 00.7” N 63° 11’ 55.0” W     
 2.  De ligging van de hierboven beschreven punten is uitgedrukt in lengte en breedte volgens het World Geodetic System 1984 (WGS84).   
 3.  De grenslijn is bij wijze van illustratie ingetekend op de als bijlage 1 bij dit besluit gevoegde kaart.   
-4.  In noordelijke richting is het eindpunt van de grenslijn tussen het openbaar lichaam Sint Eustatius en het openbaar lichaam Saba het snijpunt van het eerste lijnstuk van deze grenslijn met de buitengrens van de territoriale zee, en in zuidelijke richting is het eindpunt van de grenslijn het snijpunt van het laatste lijnstuk van deze grenslijn met de buitengrens van de territoriale zee.   
+4.  In noordelijke richting is het eindpunt van de grenslijn tussen het openbaar lichaam Sint Eustatius en het openbaar lichaam Saba het snijpunt van het eerste lijnstuk van deze grenslijn met de buitengrens van de territoriale zee, en in zuidelijke richting is het eindpunt van de grenslijn het snijpunt van het laatste lijnstuk van deze grenslijn met de buitengrens van de territoriale zee.  
 
 ### Artikel  3  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) in werking treedt. 
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Besluit grenzen openbare lichamen Bonaire, Sint Eustatius en Saba.  
+Dit besluit wordt aangehaald als: Besluit grenzen openbare lichamen Bonaire, Sint Eustatius en Saba. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -58,12 +58,12 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 30 september 2010  
 Beatrix  
 
-De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,  
 A. Th. B. Bijleveld-Schouten   
 
 de *vijfde* oktober 2010 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    
 
 ![247405](http://wetten.overheid.nl/Illustration/247405)
