@@ -2,6 +2,9 @@
 
 ##Uitvoeringsregeling fiscaliteit in overgangsperiode BES
 
+De Minister van Financiën  
+Gelet op [artikel 13b, vijfde lid, van de Wet geldstelsel BES](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md)
+Besluit:     
 ### Hoofdstuk  I  
 
 ####Algemene bepalingen
@@ -10,9 +13,9 @@
 
 Deze regeling verstaat onder: 
 
-a. *wet:* de [Wet geldstelsel BES](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md), en  
+a.  *wet:* de [Wet geldstelsel BES](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md), en  
 
-b. *overgangsperiode:* de in [artikel 13a, onderdeel b, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) bedoelde periode.    
+b.  *overgangsperiode:* de in [artikel 13a, onderdeel b, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) bedoelde periode.   
 
 ### Hoofdstuk  II  
 
@@ -39,7 +42,7 @@ b. *overgangsperiode:* de in [artikel 13a, onderdeel b, van de wet](../../../../
 | i.  | ‘waarmee het Koninkrijk der Nederlanden ten behoeve van de Nederlandse Antillen een overeenkomst heeft gesloten’  | waarmee het Koninkrijk der Nederlanden een overeenkomst heeft gesloten ten behoeve van het voormalige land de Nederlandse Antillen  |
 | j.  | ‘Een ieder die op grond van een eilandsverordening of een eilandsbesluit als inhoudingsplichtige is aangewezen’  | Een ieder die, op het moment direct voorafgaand aan het moment waarop de overgangsperiode, bedoeld in [artikel 13a van de Wet geldstelsel BES](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md), aanvangt op grond van een eilandsverordening of een eilandsbesluit als inhoudingsplichtige is aangewezen  |
 
-2.  In de overgangsperiode vinden de artikelen 36 en 41, onderdeel B, van de in [artikel 13b, eerste lid, onderdeel a, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.   
+2.  In de overgangsperiode vinden de artikelen 36 en 41, onderdeel B, van de in [artikel 13b, eerste lid, onderdeel a, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.  
 
 ### §  2  
 
@@ -56,7 +59,7 @@ b. *overgangsperiode:* de in [artikel 13a, onderdeel b, van de wet](../../../../
 | c.  | ‘De aangifte wordt gelijktijdig met de afdracht gedaan bij de ontvanger van het eilandgebied waar de werknemer bij het begin van het desbetreffende jaar of bij de aanvang van zijn belastingplicht in de loop van dat jaar woont. Indien de werknemer niet binnen de Nederlandse Antillen woont, geschieden vorenbedoelde aangifte en afdracht bij de ontvanger van het eilandgebied Curaçao’  | De aangifte wordt gelijktijdig met de afdracht gedaan bij de ontvanger, bedoeld in [artikel 13c van de Wet geldstelsel BES](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md)  |
 | --- | ‘Nederlands-Antilliaanse publiekrechtelijke rechtspersoon’  | publiekrechtelijke rechtspersoon naar het op de openbare lichamen Bonaire, Sint Eustatius en Saba geldende recht  |
 
-2.  In de overgangsperiode vindt artikel 37 van de in [artikel 13b, eerste lid, onderdeel b, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.   
+2.  In de overgangsperiode vindt artikel 37 van de in [artikel 13b, eerste lid, onderdeel b, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.  
 
 ### §  3  
 
@@ -82,7 +85,7 @@ b. *overgangsperiode:* de in [artikel 13a, onderdeel b, van de wet](../../../../
 | l.  | ‘het ontgaan van Nederlands-Antilliaanse belasting’  | het ontgaan van belasting in de openbare lichamen Bonaire, Sint Eustatius en Saba  |
 | m.  | ‘1. Deze landsverordening treedt in werking met ingang van 1 mei 1940.  2. Zij kan worden aangehaald als: “Landsverordening op de Winstbelasting 1940”.’  | Deze wet kan worden aangehaald als ‘in de overgangsperiode als wet van toepassing zijnde Landsverordening op de winstbelasting 1940’.  |
 
-2.  In de overgangsperiode vinden de artikelen 4A en 24B van de in [artikel 13b, eerste lid, onderdeel c, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.   
+2.  In de overgangsperiode vinden de artikelen 4A en 24B van de in [artikel 13b, eerste lid, onderdeel c, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.  
 
 ### §  4  
 
@@ -99,7 +102,7 @@ b. *overgangsperiode:* de in [artikel 13a, onderdeel b, van de wet](../../../../
 | c.  | ‘voor projecten voor zover die in het kader van onderlinge hulp voor rekening van Nederland of Aruba’  | voor projecten in het kader van onderlinge hulp voor rekening van Aruba, Curaçao, Sint Maarten of Nederland  |
 | d.  | ‘Als belastingplichtige wordt mede aangemerkt, de rechtspersoon dan wel de natuurlijke persoon die op naam en voor rekening van ondernemers welke niet binnen het grondgebied van de Nederlandse Antillen wonen of zijn gevestigd en ook geen vaste inrichting hebben in het heffingsgebied, diensten verricht’  | Als belastingplichtige wordt mede aangemerkt, de rechtspersoon dan wel de natuurlijke persoon die op naam en voor rekening van ondernemers welke niet binnen het openbaar lichaam Bonaire wonen of zijn gevestigd en ook geen vaste inrichting hebben in het heffingsgebied, diensten verricht  |
 
-2.  In de overgangsperiode vinden de artikelen 7, eerste lid, 66, 66a en 67, van de in [artikel 13b, eerste lid, onderdeel d, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.   
+2.  In de overgangsperiode vinden de artikelen 7, eerste lid, 66, 66a en 67, van de in [artikel 13b, eerste lid, onderdeel d, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.  
 
 ### §  5  
 
@@ -115,7 +118,7 @@ b. *overgangsperiode:* de in [artikel 13a, onderdeel b, van de wet](../../../../
 | b.  | ‘goederenvervoer tussen de eilandgebieden van de Nederlandse Antillen of naar en van het buitenland’  | goederenvervoer tussen de openbare lichamen Bonaire, Sint Eustatius en Saba of naar en van daarbuiten  |
 | c.  | ‘voor projecten voor zover die in het kader van onderlinge hulp voor rekening van Nederland of Aruba’  | voor projecten in het kader van onderlinge hulp voor rekening van Aruba, Curaçao, Sint Maarten of Nederland  |
 
-2.  In de overgangsperiode vinden de artikelen 9, tweede lid, 62 tot en met 65 en 67, van de in [artikel 13b, eerste lid, onderdeel e, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.   
+2.  In de overgangsperiode vinden de artikelen 9, tweede lid, 62 tot en met 65 en 67, van de in [artikel 13b, eerste lid, onderdeel e, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.  
 
 ### §  6  
 
@@ -130,7 +133,7 @@ b. *overgangsperiode:* de in [artikel 13a, onderdeel b, van de wet](../../../../
 | a.  | ‘de ten tijde van de rechtshandeling geldende legger, opgemaakt krachtens de Grondbelastingverordening 1908’  | de ten tijde van de rechtshandeling geldende legger, opgemaakt krachtens de in de voormalige Nederlandse Antillen geldende Grondbelastingverordening 1908  |
 | b.  | ‘Voor de betaling van de belasting en de verhogingen zijn tegenover het land aansprakelijk’  | Voor de betaling van de belasting en de verhogingen zijn tegenover het Rijk aansprakelijk  |
 
-2.  In de overgangsperiode vindt artikel 37 van de in [artikel 13b, eerste lid, onderdeel f, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.   
+2.  In de overgangsperiode vindt artikel 37 van de in [artikel 13b, eerste lid, onderdeel f, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.  
 
 ### §  7  
 
@@ -152,7 +155,7 @@ b. *overgangsperiode:* de in [artikel 13a, onderdeel b, van de wet](../../../../
 | h.  | ‘In alle niet uitdrukkelijk genoemde gevallen zijn tegenover het land de schuldenaren aansprakelijk en gezamenlijke legatarissen of andere gezamenlijke verkrijgers hoofdelijk’  | In alle niet uitdrukkelijk genoemde gevallen zijn tegenover het Rijk de schuldenaren aansprakelijk en gezamenlijke legatarissen of andere gezamenlijke verkrijgers hoofdelijk  |
 | i.  | ‘Het land is bevoegd om voor de successie- en overgangsbelastingen en de verhogingen conservatoir beslag te leggen’  | Het Rijk is bevoegd om voor de successie- en overgangsbelastingen en de verhogingen conservatoir beslag te leggen  |
 
-2.  In de overgangsperiode vindt artikel 85 van de in [artikel 13b, eerste lid, onderdeel g, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.   
+2.  In de overgangsperiode vindt artikel 85 van de in [artikel 13b, eerste lid, onderdeel g, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.  
 
 ### §  8  
 
@@ -166,7 +169,7 @@ b. *overgangsperiode:* de in [artikel 13a, onderdeel b, van de wet](../../../../
 |:---|:---|:---|
 | a.  | ‘waarmee het Koninkrijk der Nederlanden een overeenkomst heeft gesloten ten behoeve van de Nederlandse Antillen’  | waarmee het Koninkrijk der Nederlanden een overeenkomst heeft gesloten ten behoeve van het voormalige land de Nederlandse Antillen  |
 
-2.  In de overgangsperiode vinden de artikelen 14 tot en met 18 en 20, van de in [artikel 13b, eerste lid, onderdeel h, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.   
+2.  In de overgangsperiode vinden de artikelen 14 tot en met 18 en 20, van de in [artikel 13b, eerste lid, onderdeel h, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.  
 
 ### §  9  
 
@@ -192,7 +195,7 @@ b. *overgangsperiode:* de in [artikel 13a, onderdeel b, van de wet](../../../../
 | l.  | ‘artikel 220, vijfde lid, in verband met artikel 247 of ingevolge artikel 277 van het Curaçaosch Wetboek van Koophandel’  | een met artikel 220, vijfde lid, in verband met artikel 247 of ingevolge artikel 277 van het Curaçaosch Wetboek van Koophandel vergelijkbare bepalingen in het [Wetboek van Koophandel BES](../../../../../../../wet-BES/wetboek/van/koophandel/bes/BWBR0028278/README.md)  |
 | m.  | ‘ambtenaren van de Belastingdienst en de ambtenaren ressorterende onder het Departement van Financiën of de Afdeling Financiën van een eilandgebied’  | inspecteur, bedoeld in [artikel 13c van de Wet geldstelsel BES](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md), de ontvanger, bedoeld in [artikel 13c van de Wet geldstelsel BES](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md), of ambtenaren van de Afdeling Financiën van een van de openbare lichamen  |
 
-2.  In de overgangsperiode vinden de artikelen 88 tot en met 90 en 92 tot en met 94, van de in [artikel 13b, eerste lid, onderdeel i, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.   
+2.  In de overgangsperiode vinden de artikelen 88 tot en met 90 en 92 tot en met 94, van de in [artikel 13b, eerste lid, onderdeel i, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.  
 
 ### §  10  
 
@@ -210,7 +213,7 @@ b. *overgangsperiode:* de in [artikel 13a, onderdeel b, van de wet](../../../../
 | d.  | ‘volgens de A.V.’  | volgens de in de overgangsperiode als wet van toepassing zijnde Algemene Verordening I.U. en D. 1908  |
 | e.  | ‘bij beschikking nadere voorschriften’  | bij ministeriële regeling nadere voorschriften  |
 
-2.  In de overgangsperiode vinden de artikelen 88 tot en met 90 en 92 tot en met 94, van de in [artikel 13b, eerste lid, onderdeel j, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.   
+2.  In de overgangsperiode vinden de artikelen 88 tot en met 90 en 92 tot en met 94, van de in [artikel 13b, eerste lid, onderdeel j, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.  
 
 ### §  11  
 
@@ -228,7 +231,7 @@ b. *overgangsperiode:* de in [artikel 13a, onderdeel b, van de wet](../../../../
 | d.  | ‘vergunning wordt aangevraagd bij de Minister van Financiën’  | vergunning wordt aangevraagd bij de inspecteur, bedoeld in [artikel 13c van de Wet geldstelsel BES](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md)  |
 | e.  | ‘vergunning kan door de Minister van Financiën bij een met redenen omklede beschikking worden ingetrokken’  | vergunning kan door de inspecteur, bedoeld in [artikel 13c van de Wet geldstelsel BES](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md), bij een met redenen omklede beschikking worden ingetrokken  |
 
-2.  In de overgangsperiode vinden de artikelen 28, tweede en derde lid, en 29 van de in [artikel 13b, eerste lid, onderdeel k, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.   
+2.  In de overgangsperiode vinden de artikelen 28, tweede en derde lid, en 29 van de in [artikel 13b, eerste lid, onderdeel k, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.  
 
 ### §  12  
 
@@ -248,7 +251,7 @@ b. *overgangsperiode:* de in [artikel 13a, onderdeel b, van de wet](../../../../
 | f.  | ‘gouvernements- als particulier entrepôt’  | Rijks- als particulier entrepots  |
 | g.  | ‘bij beschikking nadere voorschriften’  | bij ministeriële regeling nadere voorschriften  |
 
-2.  In de overgangsperiode vinden de artikelen 29, tweede en derde lid, en 30 van de in [artikel 13b, eerste lid, onderdeel l, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.   
+2.  In de overgangsperiode vinden de artikelen 29, tweede en derde lid, en 30 van de in [artikel 13b, eerste lid, onderdeel l, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.  
 
 ### §  13  
 
@@ -265,7 +268,7 @@ b. *overgangsperiode:* de in [artikel 13a, onderdeel b, van de wet](../../../../
 | c.  | ‘“Inspecteur”: de Inspecteur der Invoerrechten en Accijnzen’  | Inspecteur: de inspecteur, bedoeld in [artikel 13c van de Wet geldstelsel BES](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md)  |
 | d.  | ‘de eilandgebieden Bonaire of Curaçao’  | het openbaar lichaam Bonaire  |
 
-2.  In de overgangsperiode vindt artikel 22 van de in [artikel 13b, eerste lid, onderdeel m, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.   
+2.  In de overgangsperiode vindt artikel 22 van de in [artikel 13b, eerste lid, onderdeel m, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.  
 
 ### §  14  
 
@@ -286,7 +289,7 @@ b. *overgangsperiode:* de in [artikel 13a, onderdeel b, van de wet](../../../../
 | g.  | ‘met benzine bij aankomst in Sint Maarten, Saba of Sint Eustatius’  | met benzine bij aankomst in het openbare lichaam Sint Eustatius of Saba  |
 | h.  | ‘rechtsgebied van de Nederlandse Antillen’  | gebied waar het specifiek op de BES eilanden geldende recht van toepassing is  |
 
-2.  In de overgangsperiode vindt artikel 32, tweede lid, van de in [artikel 13b, eerste lid, onderdeel n, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde regeling geen toepassing.   
+2.  In de overgangsperiode vindt artikel 32, tweede lid, van de in [artikel 13b, eerste lid, onderdeel n, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde regeling geen toepassing.  
 
 ### §  15  
 
@@ -311,7 +314,7 @@ b. *overgangsperiode:* de in [artikel 13a, onderdeel b, van de wet](../../../../
 | k.  | ‘in het eilandgebied Bonaire ten genoegen van de Inspecteur der Belastingen op Bonaire, in het eilandgebied Curaçao ten genoegen van de Inspecteur der Belastingen op Curaçao en in de overige eilandgebieden ten genoegen van de Inspecteur der Belastingen op Sint Maarten’  | ten genoegen van de inspecteur, bedoeld in [artikel 13c van de Wet geldstelsel BES](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md)  |
 | l.  | ‘2. De Gouverneur beslist op het bezwaarschrift, de Raad van Advies gehoord, binnen drie maanden na de datum van indiening. De beslissing is met redenen omkleed.  3. Bij een beslissing die afwijkt van het advies van de Raad van Advies, zullen de redenen voor de afwijking vermeld worden.’  | 2. De Gouverneur beslist op het bezwaarschrift binnen drie maanden na de datum van indiening. De beslissing is met redenen omkleed.  |
 
-2.  In de overgangsperiode vinden de artikelen 2, eerste lid, onderdelen b en c, 10, 11 en 21 van de in [artikel 13b, eerste lid, onderdeel o, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.   
+2.  In de overgangsperiode vinden de artikelen 2, eerste lid, onderdelen b en c, 10, 11 en 21 van de in [artikel 13b, eerste lid, onderdeel o, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.  
 
 ### §  16  
 
@@ -336,7 +339,7 @@ b. *overgangsperiode:* de in [artikel 13a, onderdeel b, van de wet](../../../../
 | k.  | ‘3. Indien de industrie wordt overgenomen en voortgezet door een andere naamloze vennootschap, welke voldoet aan het bepaalde in artikel 3 of indien het een industrie betreft als bedoeld in artikel 5, in artikel 3 met uitzondering van het vierde lid, onderdeel a, en in artikel 5, wordt het landsbesluit op verzoek van de meest gerede partij dienovereenkomstig gewijzigd.’  | 3. Indien de industrie wordt overgenomen en voortgezet door een andere naamloze vennootschap, welke voldoet aan het bepaalde in artikel 3 of indien het een industrie betreft als bedoeld in artikel 5, in artikel 3 met uitzondering van het vierde lid, onderdeel a, en in artikel 5, wordt de beschikking op verzoek van de meest gerede partij dienovereenkomstig gewijzigd.  |
 | l.  | ‘2. De Gouverneur beslist op het bezwaarschrift, de Raad van Advies gehoord, binnen drie maanden na de datum van indiening. De beslissing is met redenen omkleed.  3. Bij een beslissing die afwijkt van het advies van de Raad van Advies, zullen de redenen voor de afwijking vermeld worden.’  | 2. De Gouverneur beslist op het bezwaarschrift binnen drie maanden na de datum van indiening. De beslissing is met redenen omkleed.  |
 
-2.  In de overgangsperiode vinden de artikelen 2, eerste lid, onderdelen d en e, en 18 van de in [artikel 13b, eerste lid, onderdeel p, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.   
+2.  In de overgangsperiode vinden de artikelen 2, eerste lid, onderdelen d en e, en 18 van de in [artikel 13b, eerste lid, onderdeel p, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.  
 
 ### §  17  
 
@@ -374,7 +377,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel q, van de wet](
 | j.  | ‘2. De Gouverneur beslist op het bezwaarschrift, de Raad van Advies gehoord, binnen drie maanden na de datum van indiening. De beslissing is met redenen omkleed.  3. Bij een beslissing die afwijkt van het advies van de Raad van Advies, zullen de redenen voor de afwijking vermeld worden.’  | 2. De Gouverneur beslist op het bezwaarschrift binnen drie maanden na de datum van indiening. De beslissing is met redenen omkleed.  |
 | k.  | ‘Deze landsverordening kan worden aangehaald als “Landsverordening ter bevordering van grondontwikkeling”. Zij treedt in werking met ingang van de dag na die van haar afkondiging.’  | Deze wet kan worden aangehaald als ‘in de overgangsperiode als wet van toepassing zijnde Landsverordening ter bevordering van grondontwikkeling’.  |
 
-2.  In de overgangsperiode vinden in artikel 3, eerste lid, van de in [artikel 13b, eerste lid, onderdeel r, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening de onderdelen b en c geen toepassing.   
+2.  In de overgangsperiode vinden in artikel 3, eerste lid, van de in [artikel 13b, eerste lid, onderdeel r, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening de onderdelen b en c geen toepassing.  
 
 ### §  19  
 
@@ -391,7 +394,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel q, van de wet](
 | c.  | zijn belast de ambtenaren der invoerrechten en accijnzen  | is de inspecteur, bedoeld in [artikel 13c van de Wet geldstelsel BES](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md), belast  |
 | d.  | ‘Met ingang van de in het tweede lid bedoelde tijdstip worden de benamingen' “Landsverordening Vrije Zones 1975 (P.B. 1975, no. 211)” “Vrije zones”, “vrije zones” en “vrije zone” in de bestaande landsverordeningen en de daarop berustende bepalingen vervangen door respectievelijk “Landsverordening economische zones 2000”, “Economische zones”, “economische zones” en “economische zone”’  | De benamingen ‘Landsverordening Vrije Zones 1975 (P.B. 1975, no. 211)’ ‘Vrije zones’, ‘vrije zones’ en ‘vrije zone’ dienen in de bestaande wetten en de daarop berustende bepalingen te worden gelezen als respectievelijk ‘in de overgangsperiode als wet van toepassing zijnde Landsverordening economische zones 2000’, ‘Economische zones’, ‘economische zones’ en ‘economische zone’  |
 
-2.  In de overgangsperiode vinden de artikelen 15 tot en met 23 en 24, tweede en derde lid, van de in [artikel 13b, eerste lid, onderdeel s, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.   
+2.  In de overgangsperiode vinden de artikelen 15 tot en met 23 en 24, tweede en derde lid, van de in [artikel 13b, eerste lid, onderdeel s, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.  
 
 ### §  20  
 
@@ -410,7 +413,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel q, van de wet](
 | e.  | ‘voor projecten die in het kader van onderlinge hulp voor rekening van Nederland of Aruba’,  | voor projecten in het kader van onderlinge hulp voor rekening van Aruba, Curaçao, Sint Maarten of Nederland  |
 | f.  | ‘verdragen betreffende internationale organisaties waarbij de Nederlandse Antillen zijn aangesloten’  | verdragen betreffende internationale organisaties waarbij het Koninkrijk der Nederlanden, ten behoeve van het voormalige land de Nederlandse Antillen, is aangesloten  |
 
-2.  In de overgangsperiode vinden de artikelen 158 tot en met 165 en 169 van de in [artikel 13b, eerste lid, onderdeel t, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.   
+2.  In de overgangsperiode vinden de artikelen 158 tot en met 165 en 169 van de in [artikel 13b, eerste lid, onderdeel t, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.  
 
 ### §  21  
 
@@ -444,11 +447,11 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel u, van de wet](
 |:---|:---|:---|
 | a.  | ‘Inspecteur: In het eilandgebied Bonaire: de Inspecteur der Belastingen op Bonaire; In het eilandgebied Curaçao: de Inspecteur der Belastingen op Curaçao; In de overige eilandgebieden: de Inspecteur der belastingen op Sint Maarten’  | Inspecteur: de inspecteur, bedoeld in [artikel 13c van de Wet geldstelsel BES](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md)  |
 | b.  | ‘Ontvanger: de Landsontvanger’  | Ontvanger: de ontvanger, bedoeld in [artikel 13c van de Wet geldstelsel BES](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md)  |
-| c.  | ‘artikel 10 van de Curaçaosche Mijnwet (P.B. 1909, no.41)’  |  [artikel 1 van de Mijnwet BES](../../../../../../../wet-BES/mijnwet/bes/BWBR0028161/README.md)   |
-| d.  | ‘artikel 10 van de Curaçaosche Mijnwet (P.B. 1909, no.43)’  |  [artikel 1 van de Mijnwet BES](../../../../../../../wet-BES/mijnwet/bes/BWBR0028161/README.md)   |
+| c.  | ‘artikel 10 van de Curaçaosche Mijnwet (P.B. 1909, no.41)’  | [artikel 1 van de Mijnwet BES](../../../../../../../wet-BES/mijnwet/bes/BWBR0028161/README.md)  |
+| d.  | ‘artikel 10 van de Curaçaosche Mijnwet (P.B. 1909, no.43)’  | [artikel 1 van de Mijnwet BES](../../../../../../../wet-BES/mijnwet/bes/BWBR0028161/README.md)  |
 | e.  | ‘2. De formulieren voor de aangiftebiljetten worden vastgesteld door de Gouverneur’  | 2. De formulieren voor de aangiftebiljetten worden vastgesteld door Onze Minister van Financiën  |
 
-2.  In de overgangsperiode vinden in artikel 34 van de in [artikel 13b, eerste lid, onderdeel v, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening het tweede en derde lid geen toepassing.   
+2.  In de overgangsperiode vinden in artikel 34 van de in [artikel 13b, eerste lid, onderdeel v, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening het tweede en derde lid geen toepassing.  
 
 ### §  23  
 
@@ -465,7 +468,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel u, van de wet](
 | c.  | ‘ten kantore van de Inspecteur binnen wiens ambtsgebied zij hun standplaats hebben’  | ten kantore van de inspecteur, bedoeld in [artikel 13c van de Wet geldstelsel BES](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md)  |
 | d.  | ‘de Rechter in Eerste Aanleg ter zittingsplaats’  | het gerecht in eerste aanleg, dat bevoegd is in het openbare lichaam  |
 
-2.  In de overgangsperiode vinden de artikelen 26, 27, 28 en 30 van de in [artikel 13b, eerste lid, onderdeel x, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.   
+2.  In de overgangsperiode vinden de artikelen 26, 27, 28 en 30 van de in [artikel 13b, eerste lid, onderdeel x, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.  
 
 ### §  24  
 
@@ -480,7 +483,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel u, van de wet](
 | a.  | ‘de bevoegde autoriteit van de Nederlandse Antillen, van Nederland of van Aruba’  | de bevoegde autoriteit van Nederland, Aruba, Curaçao of Sint Maarten of de bevoegde autoriteit voor de openbare lichamen Bonaire, Sint Eustatius en Saba  |
 | b.  | ‘Deze Landsverordening kan worden aangehaald als de “Landsverordening op de Scheepstonnagebelasting 1987". Zij treedt in werking met ingang van de dag na die van haar afkondiging’  | Deze wet kan worden aangehaald als in de overgangsperiode als wet van toepassing zijnde Landsverordening op de scheepsregistratiebelasting 1987 (na aanpassing hernoemd tot de Landsverordening op de Scheepstonnagebelasting 1987)  |
 
-2.  In de overgangsperiode vinden de artikelen 24 en 25 van de in [artikel 13b, eerste lid, onderdeel y, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.   
+2.  In de overgangsperiode vinden de artikelen 24 en 25 van de in [artikel 13b, eerste lid, onderdeel y, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde verordening geen toepassing.  
 
 ### §  25  
 
@@ -498,7 +501,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel u, van de wet](
 | d.  | ‘2. Als voorwaarden kunnen worden gesteld:  a. betaling aan de Nederlandse Antillen van een geldsom van ten minste NAF. 100,– en ten hoogste het maximum van de geldboete die voor het feit kan worden opgelegd;  b. afstand van voorwerpen die in beslag genomen zijn en vatbaar voor verbeurdverklaring of onttrekking aan het verkeer;  c. uitlevering, of voldoening aan de Nederlandse Antillen van de geschatte waarde, van voorwerpen die vatbaar zijn voor verbeurdverklaring;  d. voldoening aan de Nederlandse Antillen van een geldbedrag gelijk aan of lager dan het geschatte voordeel – met inbegrip van besparing van kosten – door de verdachte verkregen door middel van of uit het strafbare feit;’  | 2. Als voorwaarden kunnen worden gesteld:  a. betaling aan het Rijk van een geldsom van ten minste NAF. 100,– en ten hoogste het maximum van de geldboete die voor het feit kan worden opgelegd;  b. afstand van voorwerpen die in beslag genomen zijn en vatbaar voor verbeurdverklaring of onttrekking aan het verkeer;  c. uitlevering, of voldoening aan het Rijk van de geschatte waarde, van voorwerpen die vatbaar zijn voor verbeurdverklaring;  d. voldoening aan het Rijk van een geldbedrag gelijk aan of lager dan het geschatte voordeel – met inbegrip van besparing van kosten – door de verdachte verkregen door middel van of uit het strafbare feit;  |
 | e.  | ‘Belastingregeling voor het Koninkrijk’  | Belastingregeling voor het Koninkrijk, de Belastingregeling voor het land Nederland, bedoeld in [artikel 13f, tweede lid, van de Wet geldstelsel BES](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md)  |
 
-2.  In de overgangsperiode vinden de artikelen 1, eerste lid, onderdelen g en j, 29, vierde lid, en 68 tot en met 78 van de in [artikel 13b, tweede lid, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde Algemene Landsverordening Landsbelastingen geen toepassing.   
+2.  In de overgangsperiode vinden de artikelen 1, eerste lid, onderdelen g en j, 29, vierde lid, en 68 tot en met 78 van de in [artikel 13b, tweede lid, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde Algemene Landsverordening Landsbelastingen geen toepassing.  
 
 ### §  26  
 
@@ -515,7 +518,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel u, van de wet](
 | c.  | ‘Deze eilandsverordening kan worden aangehaald als “Invorderingsverordening 1961” en wordt geacht in werking te zijn getreden met ingang van 1 januari 1961’  | Deze wet kan worden aangehaald als ‘in de overgangsperiode als wet van toepassing zijnde Invorderingsverordening 1961’  |
 | d.  | ‘Met ingang van die datum houden de bepalingen van de artikelen 1 tot en met 3 en 5 tot en met 9, 12, 13 en 15 van de "Landsverordening van de 31e december 1942 op de invordering van directe belastingen" zoals gewijzigd en aangevuld, voor wat betreft de invordering vanwege het eilandgebied Bonaire op te gelden’  | De bepalingen van de artikelen 1 tot en met 3 en 5 tot en met 9, 12, 13 en 15 van de ‘in de overgangsperiode als wet van toepassing zijnde Landsverordening op de invordering van directe belastingen’, gelden niet voor wat betreft de invordering in het openbaar lichaam Bonaire  |
 
-2.  In de overgangsperiode vindt artikel 13 van de in [artikel 13b, tweede lid, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde Invorderingsverordening 1961 geen toepassing.   
+2.  In de overgangsperiode vindt artikel 13 van de in [artikel 13b, tweede lid, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde Invorderingsverordening 1961 geen toepassing.  
 
 ### §  27  
 
@@ -529,9 +532,9 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel u, van de wet](
 |:---|:---|:---|
 | a.  | ‘De invordering van de inkomstenbelasting, de winstbelasting en de grondbelasting alsmede van de op die belastingen geheven opcenten’  | De invordering van de inkomstenbelasting, de winstbelasting en de grondbelasting alsmede van de op die belastingen geheven opcenten in de openbare lichamen Sint Eustatius en Saba  |
 | b.  | ‘Deze eilandsverordening kan worden aangehaald als Invorderingsverordening met bijvoeging van het jaartal van het afkondigingsblad waarin zij zal worden afgekondigd en wordt geacht in werking te zijn getreden met ingang van 1 januari 1970’  | Deze wet kan worden aangehaald als ‘in de overgangsperiode als wet van toepassing zijnde Invorderingsverordening 1970’  |
-| c.  | ‘Met ingang van die datum houden de bepalingen van de artikelen 1 tot en met 3 en 5 tot en met 9, 12, 13 en 15 van de “Landsverordening van de 31 <sup>ste</sup> December 1942 op de invordering van directe belastingen 1943”, voor wat betreft de invordering vanwege het eilandgebied de Bovenwindse Eilanden op te gelden’  | De bepalingen van de artikelen 1 tot en met 3 en 5 tot en met 9, 12, 13 en 15 van de ‘in de overgangsperiode als wet van toepassing zijnde Landsverordening op de invordering van directe belastingen’, gelden niet voor wat betreft de invordering in de openbare lichamen Sint Eustatius en Saba  |
+| c.  | ‘Met ingang van die datum houden de bepalingen van de artikelen 1 tot en met 3 en 5 tot en met 9, 12, 13 en 15 van de “Landsverordening van de 31<sup>ste</sup> December 1942 op de invordering van directe belastingen 1943”, voor wat betreft de invordering vanwege het eilandgebied de Bovenwindse Eilanden op te gelden’  | De bepalingen van de artikelen 1 tot en met 3 en 5 tot en met 9, 12, 13 en 15 van de ‘in de overgangsperiode als wet van toepassing zijnde Landsverordening op de invordering van directe belastingen’, gelden niet voor wat betreft de invordering in de openbare lichamen Sint Eustatius en Saba  |
 
-2.  In de overgangsperiode vindt artikel 13 van de in [artikel 13b, tweede lid, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde Invorderingsverordening 1970 geen toepassing.   
+2.  In de overgangsperiode vindt artikel 13 van de in [artikel 13b, tweede lid, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde Invorderingsverordening 1970 geen toepassing.  
 
 ### §  28  
 
@@ -548,7 +551,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel u, van de wet](
 | c.  | ‘op elk van de eilanden aan de Ontvanger door de Inspecteur’  | aan de ontvanger, bedoeld in [artikel 13c van de Wet geldstelsel BES](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) door de inspecteur, bedoeld in artikel 13c van de Wet geldstelsel BES  |
 | d.  | ‘Onder opcenten worden verstaan de opcenten door de eilandgebieden geheven.’  | Onder opcenten worden verstaan de opcenten welke worden geheven op grond van de in [artikel 13b, eerste lid, onderdeel w, van de Wet geldstelsel BES](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) bedoelde eilandsverordeningen die in de overgangsperiode als wet van toepassing zijn.  |
 
-2.  In de overgangsperiode vindt artikel 16 van de in [artikel 13b, tweede lid, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde Landsverordening op de invordering van directe belastingen 1943 geen toepassing.   
+2.  In de overgangsperiode vindt artikel 16 van de in [artikel 13b, tweede lid, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde Landsverordening op de invordering van directe belastingen 1943 geen toepassing.  
 
 ### §  29  
 
@@ -565,7 +568,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel u, van de wet](
 | c.  | ‘de deurwaarders van de belastingen van het land alsmede de door de bestuurscollege aangestelde deurwaarders van de belastingen van het eilandgebied’  | de belastingdeurwaarder, bedoeld in [artikel 2, eerste lid, onderdeel j, van de Invorderingswet 1990](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md)  |
 | d.  | ‘de rechter in eerste aanleg op de zittingsplaats’  | het gerecht in eerste aanleg, dat bevoegd is in het openbare lichaam  |
 
-2.  In de overgangsperiode vinden de artikelen 9, tweede lid, en 16 van de in [artikel 13b, tweede lid, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde Landsverordening houdende regeling van de invordering van belastingen, bijdragen en vergoedingen door middel van dwangschriften alsmede van de rechtspleging inzake van belastingen, bijdragen en vergoedingen geen toepassing.   
+2.  In de overgangsperiode vinden de artikelen 9, tweede lid, en 16 van de in [artikel 13b, tweede lid, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde Landsverordening houdende regeling van de invordering van belastingen, bijdragen en vergoedingen door middel van dwangschriften alsmede van de rechtspleging inzake van belastingen, bijdragen en vergoedingen geen toepassing.  
 
 ### §  30  
 
@@ -595,7 +598,7 @@ Voor de toepassing van de in [artikel 13b, eerste lid, onderdeel u, van de wet](
 | p.  | ‘a. betaling aan de Nederlandse Antillen van een geldsom van ten minste honderd gulden en ten hoogste het maximum van de geldboete die voor het feit kan worden opgelegd;  b. afstand van voorwerpen die in beslag genomen zijn en vatbaar zijn voor verbeurdverklaring of onttrekking aan het verkeer;  c. uitlevering, of voldoening aan de Nederlandse Antillen van de geschatte waarde, van voorwerpen die vatbaar zijn voor verbeurdverklaring;  d. voldoening aan de Nederlandse Antillen van een geldbedrag gelijk aan of lager dan het geschatte voordeel – met inbegrip van besparing van kosten – door de verdachte verkregen door middel van of uit het strafrare feit;’  | a. betaling aan het Rijk van een geldsom van ten minste honderd gulden en ten hoogste het maximum van de geldboete die voor het feit kan worden opgelegd;  b. afstand van voorwerpen die in beslag genomen zijn en vatbaar zijn voor verbeurdverklaring of onttrekking aan het verkeer;  c. uitlevering, of voldoening aan het Rijk van de geschatte waarde, van voorwerpen die vatbaar zijn voor verbeurdverklaring;  d. voldoening aan het Rijk van een geldbedrag gelijk aan of lager dan het geschatte voordeel – met inbegrip van besparing van kosten – door de verdachte verkregen door middel van of uit het strafrare feit;  |
 | q.  | ‘Deze vordering kan worden aangehaald onder de titel van “Algemene Verordening I.U. en D. 1908”.’  | Deze wet kan worden aangehaald als ‘in de overgangsperiode als wet van toepassing zijnde Algemene Verordening I.U. en D. 1908’.  |
 
-2.  In de overgangsperiode vinden de artikelen 11, eerste lid, 3°, 262 en 263 van de in [artikel 13b, tweede lid, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde Algemene Verordening I. U. en D. 1908 geen toepassing.   
+2.  In de overgangsperiode vinden de artikelen 11, eerste lid, 3°, 262 en 263 van de in [artikel 13b, tweede lid, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) genoemde Algemene Verordening I. U. en D. 1908 geen toepassing.  
 
 ### Hoofdstuk  III  
 
@@ -636,32 +639,32 @@ Voor zover de artikelen 2 tot en met 31 geen toepassing hebben gevonden, wordt v
 | aa.  | ‘Landsverordening uitvoerrecht op delfstoffen’  | in de overgangsperiode als wet van toepassing zijnde Landsverordening uitvoerrecht op delfstoffen  |
 | ab.  | ‘Landsverordening ter bevordering van grondontwikkeling (P.B. 1964, 77)’  | in de overgangsperiode als wet van toepassing zijnde Landsverordening ter bevordering van grondontwikkeling  |
 | ac.  | ‘Landsverordening renovatie hotels (P.B. 1985, 150)’  | in de overgangsperiode als wet van toepassing zijnde Landsverordening renovatie hotels  |
-| ad.  | ‘Wetboek van Strafvordering’  |  [Wetboek van Strafvordering BES](../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md)   |
+| ad.  | ‘Wetboek van Strafvordering’  | [Wetboek van Strafvordering BES](../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md)  |
 | ae.  | ‘Landsverordening Vrije Zones 1975 (P.B. 1975, no. 211)’  | in het voormalige land de Nederlandse Antillen geldende Landsverordening Vrije Zones 1975  |
 | af.  | ‘Eilandenregeling Nederlandse Antillen’  | in het voormalige land de Nederlandse Antillen geldende Eilandenregeling Nederlandse Antillen  |
-| ag.  | Landsverordening identificatie bij financiële dienstverlening (P.B. 1996, no. 23)’  |  [Wet identificatie bij dienstverlening BES](../../../../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md)   |
-| ah.  | ‘Wapenverordening 1931’  |  [Wapenwet BES](../../../../../../../wet-BES/wapenwet/bes/BWBR0028756/README.md)   |
+| ag.  | Landsverordening identificatie bij financiële dienstverlening (P.B. 1996, no. 23)’  | [Wet identificatie bij dienstverlening BES](../../../../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md)  |
+| ah.  | ‘Wapenverordening 1931’  | [Wapenwet BES](../../../../../../../wet-BES/wapenwet/bes/BWBR0028756/README.md)  |
 | ai.  | ‘oude Burgerlijk Wetboek’  | oude Burgerlijk Wetboek van het voormalige land Nederlandse Antillen  |
 | aj.  | ‘Burgerlijk Wetboek van de Nederlandse Antillen’, ‘Burgerlijk Wetboek’  | Burgerlijk Wetboek BES  |
-| ak.  | ‘landsverordening Identiteitskaarten (P.B. 1965, no. 17)’  |  [Wet identiteitskaarten BES](../../../../../../../wet-BES/wet/identiteitskaarten/bes/BWBR0028279/README.md)   |
-| al.  | ‘Arbeidsregeling 1952 (P.B. 1958, no. 24)’  |  [Arbeidswet 2000 BES](../../../../../../../wet-BES/arbeidswet/2000/bes/BWBR0028202/README.md)   |
-| am.  | ‘Wetboek van Strafrecht van de Nederlandse Antillen’, ‘Wetboek van Strafrecht’  |  [Wetboek van Strafrecht BES](../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md)   |
-| an.  | ‘Wetboek van Burgerlijke Rechtsvordering van de Nederlandse Antillen’, ‘Wetboek van Burgerlijke Rechtsvordering’  |  [Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md)   |
+| ak.  | ‘landsverordening Identiteitskaarten (P.B. 1965, no. 17)’  | [Wet identiteitskaarten BES](../../../../../../../wet-BES/wet/identiteitskaarten/bes/BWBR0028279/README.md)  |
+| al.  | ‘Arbeidsregeling 1952 (P.B. 1958, no. 24)’  | [Arbeidswet 2000 BES](../../../../../../../wet-BES/arbeidswet/2000/bes/BWBR0028202/README.md)  |
+| am.  | ‘Wetboek van Strafrecht van de Nederlandse Antillen’, ‘Wetboek van Strafrecht’  | [Wetboek van Strafrecht BES](../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md)  |
+| an.  | ‘Wetboek van Burgerlijke Rechtsvordering van de Nederlandse Antillen’, ‘Wetboek van Burgerlijke Rechtsvordering’  | [Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md)  |
 | ao.  | ‘het Faillessementsbesluit voor de Nederlandse Antillen 1931’, ‘het Faillissementsbesluit 1931’, ‘het Curaçaosch Faillissementsbesluit 1931’  | de [Faillissementswet BES](../../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md)  |
 | ap.  | ‘de Landsverordening regelde de uitoefening van de geneeskunde (P.B. 1958, no. 174)’  | het [Besluit geneeskunde BES](../../../../../../../AMvB-BES/besluit/geneeskunde/bes/BWBR0028449/README.md)  |
-| aq.  | ‘Postlandsverordening 1998 (P.B. 1997, no.319)’  |  [Wet post BES](../../../../../../../wet-BES/wet/post/bes/BWBR0028263/README.md)   |
-| ar.  | ‘Wetboek van Koophandel’  |  [Wetboek van Koophandel BES](../../../../../../../wet-BES/wetboek/van/koophandel/bes/BWBR0028278/README.md)   |
-| as.  | ‘Onteigeningsverordening (P.B. 1960, no. 161)  |  [Onteigeningswet BES](../../../../../../../wet-BES/onteigeningswet/bes/BWBR0028729/README.md)   |
-| at.  | ‘Landsverordening toezicht bank- en kredietwezen 1994 (P.B. 1994, no. 4)’  |  [Wet toezicht bank- en kredietwezen BES](../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md)   |
-| au.  | ‘Landsverordening Ongevallenverzekering’  |  [Wet Ongevallenverzekering BES](../../../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md)   |
-| av.  | ‘Landsverordening Ziekteverzekering’  |  [Wet Ziekteverzekering BES](../../../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md)   |
-| aw.  | ‘Landsverordening Algemene Ouderdomsverzekering (P.B. 1960, no. 83)’  |  [Wet algemene ouderdomsverzekering BES](../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md)   |
-| az.  | ‘Landsverordening Algemene Weduwen- en Wezenverzekering (P.B. 1965, no. 194)’  |  [Wet algemene weduwen- en wezenverzekering BES](../../../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md)   |
-| ba.  | ‘Regeling tegemoetkoming ziektekosten overheidsgepensioneerden (P.B. 1975, no. 249)’  |  [Wet tegemoetkoming ziektekosten overheidsgepensioneerden BES](../../../../../../../wet-BES/wet/tegemoetkoming/ziektekosten/overheidsgepensioneerden/bes/BWBR0028583/README.md)   |
+| aq.  | ‘Postlandsverordening 1998 (P.B. 1997, no.319)’  | [Wet post BES](../../../../../../../wet-BES/wet/post/bes/BWBR0028263/README.md)  |
+| ar.  | ‘Wetboek van Koophandel’  | [Wetboek van Koophandel BES](../../../../../../../wet-BES/wetboek/van/koophandel/bes/BWBR0028278/README.md)  |
+| as.  | ‘Onteigeningsverordening (P.B. 1960, no. 161)  | [Onteigeningswet BES](../../../../../../../wet-BES/onteigeningswet/bes/BWBR0028729/README.md)  |
+| at.  | ‘Landsverordening toezicht bank- en kredietwezen 1994 (P.B. 1994, no. 4)’  | [Wet toezicht bank- en kredietwezen BES](../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md)  |
+| au.  | ‘Landsverordening Ongevallenverzekering’  | [Wet Ongevallenverzekering BES](../../../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md)  |
+| av.  | ‘Landsverordening Ziekteverzekering’  | [Wet Ziekteverzekering BES](../../../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md)  |
+| aw.  | ‘Landsverordening Algemene Ouderdomsverzekering (P.B. 1960, no. 83)’  | [Wet algemene ouderdomsverzekering BES](../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md)  |
+| az.  | ‘Landsverordening Algemene Weduwen- en Wezenverzekering (P.B. 1965, no. 194)’  | [Wet algemene weduwen- en wezenverzekering BES](../../../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md)  |
+| ba.  | ‘Regeling tegemoetkoming ziektekosten overheidsgepensioneerden (P.B. 1975, no. 249)’  | [Wet tegemoetkoming ziektekosten overheidsgepensioneerden BES](../../../../../../../wet-BES/wet/tegemoetkoming/ziektekosten/overheidsgepensioneerden/bes/BWBR0028583/README.md)  |
 | bb.  | ‘een eilandelijke monumentenverordening’  | de [Monumentenwet BES](../../../../../../../wet-BES/monumentenwet/bes/BWBR0028429/README.md) of een verordening van het openbare lichaam Bonaire, Sint Eustatius of Saba  |
-| bc.  | ‘Landsverordening toelating en uitzetting (P.B. 1966, no.17)’  |  [Wet toelating en uitzetting BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)   |
-| bd.  | ‘Lumsumpregeling Overheidsdienaren [bedoeld zal zijn: Lumpsumregeling Overheidsdienaren] (P.B. 1988, no. 30)’  |  [Lumpsumbesluit ambtenaren BES](../../../../../../../AMvB-BES/lumpsumbesluit/ambtenaren/bes/BWBR0028476/README.md)   |
-| be.  | ‘Landsverordening minimumlonen (P.B. 1972, no. 110)’  |  [Wet minimumlonen BES](../../../../../../../wet-BES/wet/minimumlonen/bes/BWBR0028170/README.md)   |
+| bc.  | ‘Landsverordening toelating en uitzetting (P.B. 1966, no.17)’  | [Wet toelating en uitzetting BES](../../../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md)  |
+| bd.  | ‘Lumsumpregeling Overheidsdienaren [bedoeld zal zijn: Lumpsumregeling Overheidsdienaren] (P.B. 1988, no. 30)’  | [Lumpsumbesluit ambtenaren BES](../../../../../../../AMvB-BES/lumpsumbesluit/ambtenaren/bes/BWBR0028476/README.md)  |
+| be.  | ‘Landsverordening minimumlonen (P.B. 1972, no. 110)’  | [Wet minimumlonen BES](../../../../../../../wet-BES/wet/minimumlonen/bes/BWBR0028170/README.md)  |
 | bf.  | ‘Landsverordening Deviezenverkeer’, ‘Landsverordening Deviezenverkeer (P.B. 1981, no. 67)’  | Landsverordening Deviezenverkeer of vergelijkbare artikelen in een gedurende de overgangsperiode met deze landsverordening vergelijkbare in de BES eilanden geldende regeling  |
 | bg.  | ‘Comptabiliteitslandsverordening’  | Comptabiliteitslandsverordening of een gedurende de overgangsperiode met deze landsverordening vergelijkbare in de BES eilanden geldende regeling  |
 | bh.  | ‘Landsloterijverordening 1949 (P.B. 1949, no. 116)’  | Landsloterijverordening 1949 of een gedurende de overgangsperiode met deze landsverordening vergelijkbare in de BES eilanden geldende regeling  |
@@ -746,12 +749,12 @@ a. Bank van de Nederlandse Antillen;
 
 b. verdrag inzake de vestiging van steunpunten voor Amerikaanse strijdkrachten op de Nederlandse Antillen en Aruba;  
 
-c. Bureau voor de Intellectuele Eigendom van de Nederlandse Antillen.     
+c. Bureau voor de Intellectuele Eigendom van de Nederlandse Antillen.    
 
 ### Artikel  34  
 
 1.  De op de in [artikel 13b, tweede lid, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) gebaseerde regelingen zijn gedurende de overgangsperiode als ministeriële regeling van toepassing.   
-2.  Op de in het eerste lid en [artikel 13b, eerste lid, onderdeel z, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) bedoelde regelingen zijn de artikelen 32 en 33 van overeenkomstige toepassing.   
+2.  Op de in het eerste lid en [artikel 13b, eerste lid, onderdeel z, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) bedoelde regelingen zijn de artikelen 32 en 33 van overeenkomstige toepassing.  
 
 ### Hoofdstuk  IV  
 
@@ -760,7 +763,7 @@ c. Bureau voor de Intellectuele Eigendom van de Nederlandse Antillen.
 ### Artikel  35  
 
 1.  De artikelen 5, 6, eerste lid, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 en 20 van de in het voormalige land Nederlandse Antillen geldende Landsverordening op het beroep in belastingzaken 1940 blijven in aanvulling op de [artikelen 13g tot en met 13j van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) en artikel 31 van de in de overgangsperiode als wet van toepassing zijnde Algemene Landsverordening Landsbelastingen gedurende de overgangsperiode van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.   
-2.  Op de in het eerste lid genoemde artikelen van de in het voormalige land Nederlandse Antillen geldende Landsverordening op het beroep in belastingzaken 1940 zijn de artikelen 32  en 33 van overeenkomstige toepassing.   
+2.  Op de in het eerste lid genoemde artikelen van de in het voormalige land Nederlandse Antillen geldende Landsverordening op het beroep in belastingzaken 1940 zijn de artikelen 32 en 33 van overeenkomstige toepassing.   
 3.  In aanvulling op het tweede lid wordt voor de in het eerste lid genoemde artikelen van de in het voormalige land Nederlandse Antillen geldende Landsverordening op het beroep in belastingzaken 1940 gedurende die overgangsperiode in de tekst van die artikelen onder het genoemde in kolom II het genoemde in kolom III verstaan:  
 
 |--- | II  | III  |
@@ -775,9 +778,9 @@ c. Bureau voor de Intellectuele Eigendom van de Nederlandse Antillen.
 
 ### Artikel  36  
 
-Deze ministeriële regeling treedt in werking op het in [artikel 13a, onderdeel a, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) bedoelde tijdstip en kan worden aangehaald als: Uitvoeringsregeling fiscaliteit in overgangsperiode BES.  
+Deze ministeriële regeling treedt in werking op het in [artikel 13a, onderdeel a, van de wet](../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md) bedoelde tijdstip en kan worden aangehaald als: Uitvoeringsregeling fiscaliteit in overgangsperiode BES. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Financiën,
-J.C. deJager   
+Minister van Financiën, 
+J.C. de Jager     
