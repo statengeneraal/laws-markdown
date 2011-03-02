@@ -10,22 +10,22 @@ Besluit:
 
 1.  Met betrekking tot de functies, genoemd in [bijlage 1 bij het Besluit personeel veiligheidsregio’s](../../../../../AMvB/besluit/personeel/veiligheidsregio's/BWBR0027841/README.md), zijn de taken die behoren tot deze functies, de competenties die vereist zijn om deze taken te vervullen, en het daarvoor vereiste competentieniveau opgenomen in de bij deze regeling behorende bijlage A.   
 2.  Met betrekking tot de functies, genoemd in [artikel 2, tweede lid, van het Besluit personeel veiligheidsregio’s](../../../../../AMvB/besluit/personeel/veiligheidsregio's/BWBR0027841/README.md), zijn de taken die behoren tot deze functies, de competenties die vereist zijn om deze taken te vervullen, en het daarvoor vereiste competentieniveau opgenomen in de bij deze regeling behorende bijlage B.   
-3.  Met betrekking tot de functies, genoemd in [artikel 2, derde lid, van het Besluit personeel veiligheidsregio’s](../../../../../AMvB/besluit/personeel/veiligheidsregio's/BWBR0027841/README.md), zijn de taken die behoren tot deze functies, de competenties die vereist zijn om deze taken te vervullen, en het daarvoor vereiste competentieniveau opgenomen in de bij deze regeling behorende bijlage C.   
+3.  Met betrekking tot de functies, genoemd in [artikel 2, derde lid, van het Besluit personeel veiligheidsregio’s](../../../../../AMvB/besluit/personeel/veiligheidsregio's/BWBR0027841/README.md), zijn de taken die behoren tot deze functies, de competenties die vereist zijn om deze taken te vervullen, en het daarvoor vereiste competentieniveau opgenomen in de bij deze regeling behorende bijlage C.  
 
 ### Artikel  2  
 
-Deze regeling treedt in werking op het tijdstip waarop de [Wet veiligheidsregio’s](../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop de [Wet veiligheidsregio’s](../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) in werking treedt. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling personeel veiligheidsregio’s.  
+Deze regeling wordt aangehaald als: Regeling personeel veiligheidsregio’s. 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,
-A.Th.B.Bijleveld-Schouten  
+Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, 
+A.Th.B. Bijleveld-Schouten    
 
-### Bijlage  A  
+### Bijlage  A 
 
 ####, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -53,7 +53,7 @@ Functie zoals genoemd in [artikel 2 lid 1 sub a Besluit personeel veiligheidsreg
 | --- | --- |
 | --- | Deze (tweede) AGS treedt op als backoffice ten behoeve van de AGS in het brongebied. Ook werkt hij samen met externe deskundigen, bijvoorbeeld het Rijksinstituut voor Volksgezondheid en Milieu, TNO, DCMR, Landelijk Operationeel Coördinatiecentrum, Landelijk Informatiepunt voor Ongevallen met Gevaarlijke stoffen en Beleids Ondersteunend Team milieu incidenten.  |
 
-¹ Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen.  
+¹ Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen.
 
 ### 2.1  
 
@@ -63,19 +63,19 @@ Functie zoals genoemd in [artikel 2 lid 1 sub a Besluit personeel veiligheidsreg
 
 ####Analyseren en beoordelen incident
 
-De AGS analyseert en beoordeelt het incident tijdens de uitruk- en verkenningsfase op basis van de beschikbare gegevens en vertaalt deze informatie naar mogelijke scenario’s. De AGS stelt dit beeld gedurende het incidentverloop zo nodig bij. Analytisch vermogen is hierbij van groot belang.  
+De AGS analyseert en beoordeelt het incident tijdens de uitruk- en verkenningsfase op basis van de beschikbare gegevens en vertaalt deze informatie naar mogelijke scenario’s. De AGS stelt dit beeld gedurende het incidentverloop zo nodig bij. Analytisch vermogen is hierbij van groot belang. 
 
 ### Kerntaak  2:  
 
 ####Vormen advies
 
-Op basis van de gekozen scenario’s formuleert de AGS een advies. Hierbij houdt hij rekening met operationele mogelijkheden en sluit hij aan op de doelgroep en de belangen van de ontvanger(s).  
+Op basis van de gekozen scenario’s formuleert de AGS een advies. Hierbij houdt hij rekening met operationele mogelijkheden en sluit hij aan op de doelgroep en de belangen van de ontvanger(s). 
 
 ### Kerntaak  3:  
 
 ####Optreden als AGS (overdragen advies en samenwerken met betrokken partijen) bij incidenten met gevaarlijke stoffen
 
-In het brongebied brengt de AGS, onder turbulente omstandigheden, een gefundeerd en toepasbaar advies uit op basis van kerntaak 1 en 2. Flexibiliteit, werken onder tijdsdruk, maar ook samenwerking en afstemming met betrokken partijen, als bij een COPI, spelen hierbij een belangrijke rol. Daarnaast kan de AGS optreden als adviseur van het OT. Communicatie en informatie zijn hierbij van groot belang.  
+In het brongebied brengt de AGS, onder turbulente omstandigheden, een gefundeerd en toepasbaar advies uit op basis van kerntaak 1 en 2. Flexibiliteit, werken onder tijdsdruk, maar ook samenwerking en afstemming met betrokken partijen, als bij een COPI, spelen hierbij een belangrijke rol. Daarnaast kan de AGS optreden als adviseur van het OT. Communicatie en informatie zijn hierbij van groot belang. 
 
 | Functie: adviseur gevaarlijke stoffen  | Kerntaken  | Organisatie  | Omgeving  |--- | Analyseren  | Accuraat  | Problemen oplossen  | Innoveren/creativiteit  | Oordelen  | Inleven  | Communiceren  | Samenwerken  | Daadkracht  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -88,7 +88,7 @@ In het brongebied brengt de AGS, onder turbulente omstandigheden, een gefundeerd
 | Risico’s en Veiligheid  | --- | *  | --- |
 | Incidentbestrijding  | --- | *  | --- |
 
-In supplement gg is de competentiematrix uitgewerkt.  
+In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -122,7 +122,7 @@ De AGS analyseert en beoordeelt het incident tijdens de uitruk- en verkenningsfa
 
 * Bepaalt een eerste meetstrategie en start indien nodig de meetplanorganisatie op, of laat dit opstarten.  
 
-* Interpreteert voortdurend de meetgegevens en andere relevante informatie (bijv. bedrijfsgegevens, visuele waarnemingen, aard en ontwikkeling van het van incident, aard en omvang van het bedreigde gebied, meteogegevens, (domino-)effecten) en stelt eerdere inschattingen zonodig bij.   Vraagt indien nodig een second opinion aan of geeft een second opinion aan een collega-AGS.  
+* Interpreteert voortdurend de meetgegevens en andere relevante informatie (bijv. bedrijfsgegevens, visuele waarnemingen, aard en ontwikkeling van het van incident, aard en omvang van het bedreigde gebied, meteogegevens, (domino-)effecten) en stelt eerdere inschattingen zonodig bij.   Vraagt indien nodig een second opinion aan of geeft een second opinion aan een collega-AGS. 
 
 ####Vereiste competenties en niveaus van functioneren AGS
 
@@ -138,7 +138,7 @@ De AGS analyseert en beoordeelt het incident tijdens de uitruk- en verkenningsfa
 
 * Communiceren (2)  
 
-* Daadkracht (3)    
+* Daadkracht (3)   
 
 ####Beoordelingscriteria
 
@@ -154,7 +154,7 @@ De AGS analyseert en beoordeelt het incident tijdens de uitruk- en verkenningsfa
 
 * Werkwijze en uitkomsten zijn gemotiveerd met behulp van vakinhoudelijke argumenten.  
 
-* Kunnen en durven bijstellen van het advies.    
+* Kunnen en durven bijstellen van het advies.   
 
 ### Kerntaak  2:  
 
@@ -194,13 +194,13 @@ Op basis van de gekozen scenario’s formuleert de AGS een advies. Hierbij houdt
 
 * Stemt de inhoud van het advies desgewenst af met de GAGS.  
 
-* Stemt de inhoud van het advies af op en vertaalt deze naar de ontvanger (de ‘hoogst leidinggevende van de brandweer ter plaatse’, (de leden van) het COPI of OT). Stelt, bijvoorbeeld op basis van ontwikkelingen of second opion, het advies bij.    
+* Stemt de inhoud van het advies af op en vertaalt deze naar de ontvanger (de ‘hoogst leidinggevende van de brandweer ter plaatse’, (de leden van) het COPI of OT). Stelt, bijvoorbeeld op basis van ontwikkelingen of second opion, het advies bij.   
 
 ####Vereiste competenties en niveaus van functioneren AGS
 
 * Analyseren (3)  
 
-* Communiceren (2)    
+* Communiceren (2)   
 
 ####Beoordelingscriteria
 
@@ -218,7 +218,7 @@ Op basis van de gekozen scenario’s formuleert de AGS een advies. Hierbij houdt
 
 ○ afgestemd op de operationele slagkracht  
 
-○ zo effectief mogelijke bestrijding van het incident.      
+○ zo effectief mogelijke bestrijding van het incident.     
 
 ### Kerntaak  3:  
 
@@ -250,7 +250,7 @@ In het brongebied brengt de AGS, onder turbulente omstandigheden, een gefundeerd
 
 * Volgt het incident- en bestrijdingsverloop t.b.v. kerntaak 1.  
 
-* Treedt op als adviseur van de hoogst leidinggevende van de brandweer, (de leden van) het COPI of het OT.   Informeert en draagt advies voortvloeiend uit kerntaak 2 over aan alle betrokkenen.  
+* Treedt op als adviseur van de hoogst leidinggevende van de brandweer, (de leden van) het COPI of het OT.   Informeert en draagt advies voortvloeiend uit kerntaak 2 over aan alle betrokkenen. 
 
 ####Vereiste competenties en niveaus van functioneren AGS
 
@@ -260,7 +260,7 @@ In het brongebied brengt de AGS, onder turbulente omstandigheden, een gefundeerd
 
 * Communiceren (2)  
 
-* Samenwerken (3)    
+* Samenwerken (3)   
 
 ####Beoordelingscriteria
 
@@ -280,7 +280,7 @@ In het brongebied brengt de AGS, onder turbulente omstandigheden, een gefundeerd
 
 * Inhoudelijk volwaardig gesprekspartner voor alle betrokkenen (ook multidisciplinair).  
 
-* Op een daadkrachtige wijze aansturing geven aan meetploegen.    
+* Op een daadkrachtige wijze aansturing geven aan meetploegen.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -310,19 +310,19 @@ Functie zoals genoemd in [artikel 2 lid 1 sub b Besluit personeel veiligheidsreg
 
 ####Geeft leiding aan, coördineert en controleert de uitrukwerkzaamheden
 
-Geeft leiding aan de uitvoering van de werkzaamheden op het gebied van de voorbereiding op de verkenning en inzet.  
+Geeft leiding aan de uitvoering van de werkzaamheden op het gebied van de voorbereiding op de verkenning en inzet. 
 
 ### Kerntaak  2:  
 
 ####Geeft leiding aan, coördineert en controleert de verkenningswerkzaamheden
 
-Verzamelt en analyseert gegevens met betrekking tot het incident en stelt op basis daarvan een (voorlopig) plan en vervolgens een verkenningsplan op. Informeert de ploegen, maakt een taakverdeling en bepaalt de persoonlijke bescherming.  
+Verzamelt en analyseert gegevens met betrekking tot het incident en stelt op basis daarvan een (voorlopig) plan en vervolgens een verkenningsplan op. Informeert de ploegen, maakt een taakverdeling en bepaalt de persoonlijke bescherming. 
 
 ### Kerntaak  3:  
 
 ####Geeft leiding aan, coördineert en controleert de inzetwerkzaamheden
 
-Geeft leiding aan de uitvoering van de werkzaamheden met betrekking tot de bestrijding van het incident en het redden van mens en/of dier.  
+Geeft leiding aan de uitvoering van de werkzaamheden met betrekking tot de bestrijding van het incident en het redden van mens en/of dier. 
 
 ### Kerntaak  4:  
 
@@ -336,7 +336,7 @@ Coördineert de personele en materiele nazorg (inclusief de evaluatie van het pr
 
 * Optreden bij incidenten met gevaarlijke stoffen;  
 
-* Optreden bij de bestrijding van waterongevallen.    
+* Optreden bij de bestrijding van waterongevallen.   
 
 | Functie: Bevelvoerder  | Kerntaken  | Kern  | Organisatie  | Omgeving  |--- | Accuraat  | Samenwerken  | Stressbestendig  | Analyseren  | Plannen, organiseren en coördineren  | Oordelen  | Resultaat gericht  | Probleem oplossen  | Leren en reflecteren  | Daadkracht  | Taakgericht leiderschap  | Onafhankelijk  | Mondeling communiceren  | Inleven  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -370,7 +370,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Is verantwoordelijk voor de veiligheid van eigen personeel, overige hulpverleners, slachtoffers en derden.  
 
-* Geeft leiding, coördineert en controleert.    
+* Geeft leiding, coördineert en controleert.   
 
 ### Kerntaak  1:  
 
@@ -392,7 +392,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Zorgt voor de informatieoverdracht aan de ploegen en maakt een juiste taakverdeling.  
 
-* Bepaalt de juiste persoonlijke bescherming.    
+* Bepaalt de juiste persoonlijke bescherming.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -410,7 +410,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Daadkracht (1)  
 
-* Onafhankelijk (2)    
+* Onafhankelijk (2)   
 
 ### Kerntaak  2:  
 
@@ -432,7 +432,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Schaalt indien nodig monodisciplinair en multidisciplinair op.  
 
-* Geeft een situatierapport (sitrap).    
+* Geeft een situatierapport (sitrap).   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -452,7 +452,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Daadkracht (1)  
 
-* Mondeling Communiceren (2)    
+* Mondeling Communiceren (2)   
 
 ### Kerntaak  3:  
 
@@ -476,7 +476,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Geeft de officier van dienst bij zijn aankomst een situatierapport.  
 
-* Ontvangt leiding van de officier van dienst.    
+* Ontvangt leiding van de officier van dienst.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -500,7 +500,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Onafhankelijk (2)  
 
-* Mondeling communiceren (2)    
+* Mondeling communiceren (2)   
 
 ### Kerntaak  4:  
 
@@ -516,7 +516,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Evalueert het proces.  
 
-* Evalueert het functioneren (intern en extern).    
+* Evalueert het functioneren (intern en extern).   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -536,7 +536,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Mondeling communiceren (2)  
 
-* Inleven (1)    
+* Inleven (1)   
 
 ####Beoordelingscriteria
 
@@ -556,7 +556,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Heeft aandacht voor de veiligheid van eigen personeel, overige hulpverleners en omgeving.  
 
-* Bewaakt de fysieke en mentale inzetbelasting van het personeel.    
+* Bewaakt de fysieke en mentale inzetbelasting van het personeel.   
 
 ### Taakgebied  2:  
 
@@ -576,7 +576,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Is verantwoordelijk voor de veiligheid van eigen personeel, overige hulpverleners, slachtoffers en derden.  
 
-* Geeft leiding, coördineert en controleert.    
+* Geeft leiding, coördineert en controleert.   
 
 ### Kerntaak  1:  
 
@@ -598,7 +598,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Zorgt voor de informatieoverdracht aan de ploegen en maakt een juiste taakverdeling.  
 
-* Bepaalt de juiste persoonlijke bescherming.    
+* Bepaalt de juiste persoonlijke bescherming.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -616,7 +616,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Daadkracht (1)  
 
-* Onafhankelijk (2)    
+* Onafhankelijk (2)   
 
 ### Kerntaak  2:  
 
@@ -638,7 +638,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Schaalt indien nodig monodisciplinair en multidisciplinair op.  
 
-* Geeft een situatierapport (sitrap).    
+* Geeft een situatierapport (sitrap).   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -658,7 +658,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Daadkracht (1)  
 
-* Mondeling Communiceren (2)    
+* Mondeling Communiceren (2)   
 
 ### Kerntaak  3:  
 
@@ -680,7 +680,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Geeft de officier van dienst bij zijn aankomst een situatierapport.  
 
-* Ontvangt leiding van de officier van dienst.    
+* Ontvangt leiding van de officier van dienst.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -704,7 +704,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Onafhankelijk (2)  
 
-* Mondeling communiceren (2)    
+* Mondeling communiceren (2)   
 
 ### Kerntaak  4:  
 
@@ -720,7 +720,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Evalueert het proces.  
 
-* Evalueert het functioneren (intern en extern).    
+* Evalueert het functioneren (intern en extern).   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -740,7 +740,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Mondeling communiceren (2)  
 
-* Inleven (1)    
+* Inleven (1)   
 
 ####Beoordelingscriteria
 
@@ -764,7 +764,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Kan zaken creatief oplossen als de omstandigheden daar om vragen.  
 
-* Is in staat de medische triage en de technische redtijd op elkaar af te stemmen.    
+* Is in staat de medische triage en de technische redtijd op elkaar af te stemmen.   
 
 ### Taakgebied  3:  
 
@@ -786,7 +786,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Geeft leiding, coördineert en controleert.  
 
-* Vervult naast de rol als 1e bevelvoerder indien nodig andere rollen in de OGS-procedure (Ongevallen Gevaarlijke Stoffen).    
+* Vervult naast de rol als 1e bevelvoerder indien nodig andere rollen in de OGS-procedure (Ongevallen Gevaarlijke Stoffen).   
 
 ### Kerntaak  1:  
 
@@ -812,7 +812,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Zorgt voor de informatieoverdracht aan de ploegen.  
 
-* Bepaalt de juiste persoonlijke bescherming.    
+* Bepaalt de juiste persoonlijke bescherming.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -830,7 +830,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Daadkracht (1)  
 
-* Onafhankelijk (2)    
+* Onafhankelijk (2)   
 
 ### Kerntaak  2:  
 
@@ -854,7 +854,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Schaalt indien nodig monodisciplinair en multidisciplinair op.  
 
-* Geeft een situatierapport (sitrap).    
+* Geeft een situatierapport (sitrap).   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -874,7 +874,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Daadkracht (1)  
 
-* Mondeling Communiceren (2)    
+* Mondeling Communiceren (2)   
 
 ### Kerntaak  3:  
 
@@ -896,7 +896,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Geeft de officier van dienst bij zijn aankomst een situatierapport.  
 
-* Ontvangt leiding van de officier van dienst.    
+* Ontvangt leiding van de officier van dienst.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -920,7 +920,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Onafhankelijk (2)  
 
-* Mondeling communiceren (2)    
+* Mondeling communiceren (2)   
 
 ### Kerntaak  4:  
 
@@ -936,7 +936,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Evalueert het proces.  
 
-* Evalueert het functioneren (intern en extern).    
+* Evalueert het functioneren (intern en extern).   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -956,7 +956,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Mondeling communiceren (2)  
 
-* Inleven (1)    
+* Inleven (1)   
 
 ####Beoordelingscriteria
 
@@ -986,7 +986,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 * Kan zaken creatief oplossen als de omstandigheden daar om vragen.  
 
-* Moet snel kunnen schakelen tussen scenario’s.    
+* Moet snel kunnen schakelen tussen scenario’s.   
 
 ### Taakgebied  4:  
 
@@ -1008,7 +1008,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en aan de du
 
 * Is verantwoordelijk voor de veiligheid van eigen personeel, overige hulpverleners, slachtoffers en derden.  
 
-* Geeft leiding, coördineert en controleert.    
+* Geeft leiding, coördineert en controleert.   
 
 ### Kerntaak  1:  
 
@@ -1030,7 +1030,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en aan de du
 
 * Zorgt voor de informatieoverdracht aan de ploegen en maakt een juiste taakverdeling.  
 
-* Bepaalt de juiste persoonlijke bescherming.    
+* Bepaalt de juiste persoonlijke bescherming.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -1048,7 +1048,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en aan de du
 
 * Daadkracht (1)  
 
-* Onafhankelijk (2)    
+* Onafhankelijk (2)   
 
 ### Kerntaak  2:  
 
@@ -1074,7 +1074,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en aan de du
 
 * Schaalt indien nodig monodisciplinair en multidisciplinair op.  
 
-* Geeft een situatierapport (sitrap).    
+* Geeft een situatierapport (sitrap).   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -1094,7 +1094,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en aan de du
 
 * Daadkracht (1)  
 
-* Mondeling Communiceren (2)    
+* Mondeling Communiceren (2)   
 
 ### Kerntaak  3:  
 
@@ -1118,7 +1118,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en aan de du
 
 * Start het plotten op (markeren van het afgezochte gebied).  
 
-* Houdt rekening met de psychische gesteldheid en belastbaarheid van de bemensing.    
+* Houdt rekening met de psychische gesteldheid en belastbaarheid van de bemensing.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -1142,7 +1142,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en aan de du
 
 * Onafhankelijk (2)  
 
-* Mondeling communiceren (2)    
+* Mondeling communiceren (2)   
 
 ### Kerntaak  4:  
 
@@ -1158,7 +1158,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en aan de du
 
 * Evalueert het proces.  
 
-* Evalueert het functioneren (intern en extern).    
+* Evalueert het functioneren (intern en extern).   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -1178,7 +1178,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en aan de du
 
 * Mondeling communiceren (2)  
 
-* Inleven (1)    
+* Inleven (1)   
 
 ####Beoordelingscriteria
 
@@ -1190,7 +1190,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en aan de du
 
 * Heeft aandacht voor milieu en omgeving.  
 
-* Heeft aandacht voor de veiligheid van eigen personeel, de duikploeg, overige hulpverleners en omgeving.    
+* Heeft aandacht voor de veiligheid van eigen personeel, de duikploeg, overige hulpverleners en omgeving.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -1220,7 +1220,7 @@ Functie zoals genoemd in [artikel 2 lid 1 sub c Besluit personeel veiligheidsreg
 
 ####Uitruk/verkenning
 
-De brandweerduiker selecteert uit de voorgeschreven persoonlijke beschermingsmiddelen, controleert deze, trekt deze aan en voert een buddycheck uit. Hij draagt zorg voor voldoende fysieke en mentale getraindheid.  
+De brandweerduiker selecteert uit de voorgeschreven persoonlijke beschermingsmiddelen, controleert deze, trekt deze aan en voert een buddycheck uit. Hij draagt zorg voor voldoende fysieke en mentale getraindheid. 
 
 ### Kerntaak  2:  
 
@@ -1230,13 +1230,13 @@ De brandweerduiker selecteert uit de voorgeschreven persoonlijke beschermingsmid
 
 2. Als veiligheidsduiker staat de brandweerduiker gereed om directe hulp te verlenen aan een reddingsduiker die in een noodsituatie verkeert. Tevens mag de veiligheidsduiker de reddingsduiker ondersteunen als deze aan de oppervlakte is.  
 
-3. In gevallen waarbij acuut gevaar bestaat voor het milieu of voor de scheepvaart mogen objecten worden opgespoord en geborgen. Beslissing hieromtrent wordt door de bevelvoerder en/of officier van dienst in overleg met de waterbeheerder genomen.    
+3. In gevallen waarbij acuut gevaar bestaat voor het milieu of voor de scheepvaart mogen objecten worden opgespoord en geborgen. Beslissing hieromtrent wordt door de bevelvoerder en/of officier van dienst in overleg met de waterbeheerder genomen.   
 
 ### Kerntaak  3:  
 
 ####Nazorg
 
-In samenspraak met de assistent duikploeg maakt de brandweerduiker het voertuig en de persoonlijke duikuitrustingsstukken inzetgereed. Na afloop van de inzet neemt hij met de ploegleden deel aan een evaluatiegesprek over de inzet en na een traumatische ervaring aan een nazorggesprek. Hij registreert de noodzakelijke gegevens in zijn persoonlijk duikerslogboek en laat dat aftekenen door de duikploegleider.  
+In samenspraak met de assistent duikploeg maakt de brandweerduiker het voertuig en de persoonlijke duikuitrustingsstukken inzetgereed. Na afloop van de inzet neemt hij met de ploegleden deel aan een evaluatiegesprek over de inzet en na een traumatische ervaring aan een nazorggesprek. Hij registreert de noodzakelijke gegevens in zijn persoonlijk duikerslogboek en laat dat aftekenen door de duikploegleider. 
 
 | Functie: brandweerduiker  | Kerntaken  | Kern  | Organisatie  | Omgeving  |--- | Accuraat  | Samenwerken  | Stressbestendig  | Probleem oplossen  | Leren en reflecteren  | Daadkracht  | Mondeling communiceren  | Onafhankelijk  | Inleven  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -1248,7 +1248,7 @@ In samenspraak met de assistent duikploeg maakt de brandweerduiker het voertuig 
 |:---|:---|:---|:---|:---|
 | Incidentbestrijding  | *  | --- | --- |
 
-In supplement gg is de competentiematrix uitgewerkt.  
+In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -1268,7 +1268,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Laat zich onderweg actief informeren over de aard van de inzet.  
 
-* Checkt de communicatie middelen.    
+* Checkt de communicatie middelen.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -1276,7 +1276,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Samenwerken (1)  
 
-* Stressbestendig (1)    
+* Stressbestendig (1)   
 
 ####Beoordelingscriteria
 
@@ -1292,7 +1292,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Kan samenwerken met collega-duikploegleden en de bemanning van de tankautospuit.  
 
-* Is in staat om in een stressvolle situatie kalm en overwogen te handelen.    
+* Is in staat om in een stressvolle situatie kalm en overwogen te handelen.   
 
 ### Kerntaak  2:  
 
@@ -1316,7 +1316,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Bergt op een veilige wijze objecten die een acuut gevaar opleveren voor het milieu of de scheepvaart.  
 
-* Communiceert met de seinlijnhouder/duikploegleider.    
+* Communiceert met de seinlijnhouder/duikploegleider.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -1330,7 +1330,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Daadkracht (1)  
 
-* Onafhankelijk (1)    
+* Onafhankelijk (1)   
 
 ####Beoordelingscriteria
 
@@ -1350,7 +1350,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Kan samenwerken met collega-duikploegleden en de bemanning van de tankautospuit.  
 
-* Is in staat om in een stressvolle situatie kalm en overwogen te handelen.   Heeft een goede fysieke en psychische conditie.  
+* Is in staat om in een stressvolle situatie kalm en overwogen te handelen.   Heeft een goede fysieke en psychische conditie. 
 
 ### Kerntaak  3:  
 
@@ -1372,7 +1372,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Neemt, na een traumatische ervaring, met de betrokken hulpverleners deel aan een nazorggesprek.  
 
-* Vult de noodzakelijke gegevens in het eigen logboek en laat dit aftekenen door de duikploegleider.    
+* Vult de noodzakelijke gegevens in het eigen logboek en laat dit aftekenen door de duikploegleider.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -1386,7 +1386,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Mondelinge communicatie (1)  
 
-* Inleven (1)    
+* Inleven (1)   
 
 ####Beoordelingscriteria
 
@@ -1398,7 +1398,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Heeft voldoende kennis van persoonlijke hygiëne en onderkent het belang hiervan.  
 
-* Kan constructief deelnemen aan een groepsproces in een nazorgfase (evaluatie- en/of zorggesprek).    
+* Kan constructief deelnemen aan een groepsproces in een nazorgfase (evaluatie- en/of zorggesprek).   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -1426,19 +1426,19 @@ Functie zoals genoemd in [artikel 2 lid 1 sub d Besluit personeel veiligheidsreg
 
 ####Ontvangen en aannemen van een inkomende melding
 
-De centralist meldkamer neemt de melding aan, beoordeelt deze conform de landelijk en regionaal geldende afspraken op classificatie en prioriteit en legt de melding vast. Zonodig instrueert, adviseert en/of verwijst hij door.  
+De centralist meldkamer neemt de melding aan, beoordeelt deze conform de landelijk en regionaal geldende afspraken op classificatie en prioriteit en legt de melding vast. Zonodig instrueert, adviseert en/of verwijst hij door. 
 
 ### Kerntaak  2:  
 
 ####Uitgeven van een melding en ondersteunen van de inzet
 
-De centralist meldkamer alarmeert de eenheden en coördineert de uitrukfase. Hij zorgt voor een adequate informatievoorziening richting de eigen eenheden en eventuele andere (hulp)diensten en coördineert de radiocommunicatie. Tijdens de bestrijding van het incident legt de centralist de relevante informatie vast. Hij handelt hulpvragen vanuit het veld, zoals opschaling en specialistische aanvragen, adequaat af.  
+De centralist meldkamer alarmeert de eenheden en coördineert de uitrukfase. Hij zorgt voor een adequate informatievoorziening richting de eigen eenheden en eventuele andere (hulp)diensten en coördineert de radiocommunicatie. Tijdens de bestrijding van het incident legt de centralist de relevante informatie vast. Hij handelt hulpvragen vanuit het veld, zoals opschaling en specialistische aanvragen, adequaat af. 
 
 ### Kerntaak  3:  
 
 ####Afsluiten van een melding
 
-Na afloop van het incident legt de centralist meldkamer de relevante informatie vast. Hij evalueert het eigen handelen en levert, indien van toepassing, een bijdrage aan de algemene evaluatie van de melding.  
+Na afloop van het incident legt de centralist meldkamer de relevante informatie vast. Hij evalueert het eigen handelen en levert, indien van toepassing, een bijdrage aan de algemene evaluatie van de melding. 
 
 | Functie: centralist meldkamer  | Kerntaken  | Organisatie  | Omgeving  |--- | Analyseren  | Plannen, organiseren en coördineren  | Probleem oplossen  | Daadkracht  | Flexibel  | Inleven  | Mondeling Communiceren  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -1472,7 +1472,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Draagt bij grootschalige incidenten zorg voor een zo compleet mogelijke beeldvorming en verwerkt de relevante informatie in een multidisciplinaire plot.  
 
-* Instrueert de melder over eventueel te ondernemen acties.    
+* Instrueert de melder over eventueel te ondernemen acties.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -1482,7 +1482,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Inleven (1)  
 
-* Mondelinge communicatie (1)    
+* Mondelinge communicatie (1)   
 
 ####Beoordelingscriteria
 
@@ -1502,7 +1502,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Is in staat om een veilig en rustig gespreksklimaat te creëren.  
 
-* Kan verschillende communicatiestijlen en gesprekstechnieken toepassen en daartussen schakelen.    
+* Kan verschillende communicatiestijlen en gesprekstechnieken toepassen en daartussen schakelen.   
 
 ### Kerntaak  2:  
 
@@ -1526,7 +1526,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Bewaakt de paraatheid en spreiding (rest- of rayondekking).  
 
-* Onderhoudt als centraal informatiepunt contact met de hulpverleningseenheden tijdens de inzet.    
+* Onderhoudt als centraal informatiepunt contact met de hulpverleningseenheden tijdens de inzet.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -1540,7 +1540,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Inleven (1)  
 
-* Mondeling communiceren (1)    
+* Mondeling communiceren (1)   
 
 ####Beoordelingscriteria
 
@@ -1566,7 +1566,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Is in staat om de informatiestroom actueel te houden.  
 
-* Is in staat om overzicht te houden over het beschikbare materieel en personeel.    
+* Is in staat om overzicht te houden over het beschikbare materieel en personeel.   
 
 ### Kerntaak  3:  
 
@@ -1582,7 +1582,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Levert een bijdrage aan de algemene evaluatie van de melding.  
 
-* Signaleert en rapporteert verbeterpunten in procedures of werkwijzen.    
+* Signaleert en rapporteert verbeterpunten in procedures of werkwijzen.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -1590,7 +1590,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Probleem oplossen (1)  
 
-* Mondeling communiceren (1)    
+* Mondeling communiceren (1)   
 
 ####Beoordelingscriteria
 
@@ -1604,7 +1604,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Is in staat om feedback te geven en te ontvangen.  
 
-* Kan de toepasbaarheid van procedures toetsen.    
+* Kan de toepasbaarheid van procedures toetsen.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -1622,7 +1622,7 @@ Functie zoals genoemd in [artikel 2 lid 1 sub e Besluit personeel veiligheidsreg
 |:---|:---|
 | Beschrijving van de functie  | De chauffeur zorgt ervoor dat het brandweervoertuig op de plaats van een incident aankomt. Hij <sup>1</sup> bestuurt het brandweervoertuig op een verantwoorde wijze en past wanneer de noodzaak daartoe bestaat daarbij de brancherichtlijn ‘Optische en geluidssignalen brandweer’ toe. De chauffeur werkt, indien van toepassing, samen met de leden van een brandweereenheid en andere multidisciplinaire eenheden.  De chauffeur heeft kennis van de taken die behoren tot de functie van Manschap A.  |
 
-<sup>1</sup> Overal waar in dit document ‘hij’ wordt aangeduid kan ook ‘zij’ worden gelezen.  
+<sup>1</sup> Overal waar in dit document ‘hij’ wordt aangeduid kan ook ‘zij’ worden gelezen.
 
 ### 2.1  
 
@@ -1632,13 +1632,13 @@ Functie zoals genoemd in [artikel 2 lid 1 sub e Besluit personeel veiligheidsreg
 
 ####Uitruk/verkenning
 
-De chauffeur rijdt, na controle van het voertuig, veilig, effectief en efficiënt naar het incident. Hij plaatst het voertuig daar op de aangegeven opstelplaats en creëert een veilige situatie rondom het voertuig.  
+De chauffeur rijdt, na controle van het voertuig, veilig, effectief en efficiënt naar het incident. Hij plaatst het voertuig daar op de aangegeven opstelplaats en creëert een veilige situatie rondom het voertuig. 
 
 ### Kerntaak  2:  
 
 ####Nazorg
 
-De chauffeur maakt het voertuig inzetgereed in samenspraak met de bevelvoerder. Na afloop van de inzet neemt hij met de ploegleden deel aan een evaluatiegesprek over de inzet, en na een traumatische ervaring aan een nazorggesprek.  
+De chauffeur maakt het voertuig inzetgereed in samenspraak met de bevelvoerder. Na afloop van de inzet neemt hij met de ploegleden deel aan een evaluatiegesprek over de inzet, en na een traumatische ervaring aan een nazorggesprek. 
 
 | Functie: chauffeur  | Kerntaken  | Kern  | Organisatie  | Omgeving  |--- | Accuraat  | Samenwerken  | Stressbestendig  | Leren en reflecteren  | Daadkracht  | Inleven  | Onafhankelijk  | Mondeling communiceren  | Flexibel  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -1649,7 +1649,7 @@ De chauffeur maakt het voertuig inzetgereed in samenspraak met de bevelvoerder. 
 |:---|:---|:---|:---|:---|
 | Incidentbestrijding  | *  | --- | --- |
 
-In supplement gg is de competentiematrix uitgewerkt.  
+In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -1669,7 +1669,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Plaatst het voertuig op de aangegeven opstelplaats, indien van toepassing in overleg met de bevelvoerder of de voertuigbediener.  
 
-* Creëert een veilige situatie rondom het voertuig, indien van toepassing samen met de bevelvoerder of de voertuigbediener.    
+* Creëert een veilige situatie rondom het voertuig, indien van toepassing samen met de bevelvoerder of de voertuigbediener.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -1683,7 +1683,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Onafhankelijk (1)  
 
-* Flexibel (1)    
+* Flexibel (1)   
 
 ### Kerntaak  2:  
 
@@ -1697,7 +1697,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Neemt met de ploegleden deel aan een evaluatiegesprek over de inzet.  
 
-* Neemt na een traumatische ervaring met de ploegleden deel aan een nazorggesprek.    
+* Neemt na een traumatische ervaring met de ploegleden deel aan een nazorggesprek.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -1713,7 +1713,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Inleven (1)  
 
-* Mondelinge communicatie (1)    
+* Mondelinge communicatie (1)   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -1737,13 +1737,13 @@ Functie zoals genoemd in [artikel 2 lid 1 sub f Besluit personeel veiligheidsreg
 | --- | --- |
 | --- | In de beschrijving van de functie en bijbehorende kerntaken op de volgende pagina’s gaan we uit van de volgende rolverdeling:  |
 | --- | --- |
-| --- | *Commandant van dienst*:  – operationeel leider (OT)  – adviseur namens de brandweer in BT  |
+| --- |  *Commandant van dienst*:  – operationeel leider (OT)  – adviseur namens de brandweer in BT  |
 | --- | --- |
-| --- | *HOVD*:  – leider COPI  – hoofd sectie brandweer in OT  – compagniescommandant  |
+| --- |  *HOVD*:  – leider COPI  – hoofd sectie brandweer in OT  – compagniescommandant  |
 | --- | --- |
-| --- | *OVD*:  – leider dagelijkse incidentbestrijding  – pelotonscommandant  – brandweervertegenwoordiger in het COPI  |
+| --- |  *OVD*:  – leider dagelijkse incidentbestrijding  – pelotonscommandant  – brandweervertegenwoordiger in het COPI  |
 
-<sup>1</sup> Daar waar hij staat, kan ook zij gelezen worden.  
+<sup>1</sup> Daar waar hij staat, kan ook zij gelezen worden.
 
 ### 2.1  
 
@@ -1755,13 +1755,13 @@ De kerntaken van de commandant van dienst liggen in het verlengde van de hiervoo
 
 ####Optreden als operationeel leider ROT
 
-De commandant van dienst treedt op als operationeel leider (OL) en geeft in die rol leiding aan de multidisciplinaire samenwerking in het ROT. Hij is verantwoordelijk voor het multidisciplinair aanpakken van de gevolgen van het incident. Hij vertaalt de tactische informatie waar nodig naar strategische beslispunten en treedt in voorkomende gevallen namens het OT op als adviseur naar het bestuur/de burgemeester (BT). Vanaf GRIP 3 is de OL verantwoordelijk voor het samenstellen van realistische multidisciplinair samengestelde scenario’s, heldere adviezen en beslispunten voor het BT.  
+De commandant van dienst treedt op als operationeel leider (OL) en geeft in die rol leiding aan de multidisciplinaire samenwerking in het ROT. Hij is verantwoordelijk voor het multidisciplinair aanpakken van de gevolgen van het incident. Hij vertaalt de tactische informatie waar nodig naar strategische beslispunten en treedt in voorkomende gevallen namens het OT op als adviseur naar het bestuur/de burgemeester (BT). Vanaf GRIP 3 is de OL verantwoordelijk voor het samenstellen van realistische multidisciplinair samengestelde scenario’s, heldere adviezen en beslispunten voor het BT. 
 
 ### Kerntaak  2:  
 
 ####Adviseren van de burgemeester in het beleidsteam
 
-Als lid van het beleidsteam (BT) adviseert de commandant van dienst de burgemeester vanuit multidisciplinair perspectief over strategisch, politiek of bestuurlijk te nemen beslissingen. Op de volgende pagina’s worden de kerntaken nader uitgewerkt aan de hand van activiteiten en beoordelingscriteria.  
+Als lid van het beleidsteam (BT) adviseert de commandant van dienst de burgemeester vanuit multidisciplinair perspectief over strategisch, politiek of bestuurlijk te nemen beslissingen. Op de volgende pagina’s worden de kerntaken nader uitgewerkt aan de hand van activiteiten en beoordelingscriteria. 
 
 | Functie: CvD  |--- | Kerntaken  | Organisatie  | Omgeving  | Analyseren  | Plannen, organiseren en coördineren  | Politiek Bestuurlijk inzicht  | Communiceren  | Daadkracht  | Inleven  | Leiderschap  | Maatschappelijk georiënteerd  | Samenwerken  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -1773,7 +1773,7 @@ Als lid van het beleidsteam (BT) adviseert de commandant van dienst de burgemees
 | Incidentbestrijding  | --- | --- | x  |
 | Risico’s en veiligheid  | --- | --- | x  |
 
-In supplement gg is de competentiematrix uitgewerkt.  
+In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -1799,7 +1799,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Anticipeert op de ontwikkeling van het incident (scenariodenken) en stemt met het BT te nemen beleidsbeslissingen af.  
 
-* Informeert en adviseert gevraagd en ongevraagd het BT, dan wel de burgemeester.    
+* Informeert en adviseert gevraagd en ongevraagd het BT, dan wel de burgemeester.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -1817,7 +1817,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Leiderschap (2)  
 
-* Samenwerken (3)    
+* Samenwerken (3)   
 
 ### Kerntaak  2:  
 
@@ -1827,7 +1827,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Vormt met de deelnemers aan het BT een gemeenschappelijk beeld van het incident en draagt bij aan oordeelsvorming en besluitvorming.  
 
-* Adviseert de burgemeester vanuit multidisciplinair perspectief over strategisch, politiek of bestuurlijk te nemen beslissingen.    
+* Adviseert de burgemeester vanuit multidisciplinair perspectief over strategisch, politiek of bestuurlijk te nemen beslissingen.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -1843,7 +1843,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Maatschappelijk georiënteerd (2)  
 
-* Samenwerken (2)    
+* Samenwerken (2)   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -1869,19 +1869,19 @@ Functie zoals genoemd in [artikel 2 lid 1 sub g Besluit personeel veiligheidsreg
 
 ####Controleren
 
-De controleur brandpreventie controleert het brandveilig gebruik aan de hand van de gebruiksvoorwaarden uit het Gebruiksbesluit en handelt klachten af.  
+De controleur brandpreventie controleert het brandveilig gebruik aan de hand van de gebruiksvoorwaarden uit het Gebruiksbesluit en handelt klachten af. 
 
 ### Kerntaak  2:  
 
 ####Rapporteren
 
-De controleur brandpreventie rapporteert na locatiebezoek aan de leidinggevende en de gebruiker. Hij rapporteert klachten aan de leidinggevende.  
+De controleur brandpreventie rapporteert na locatiebezoek aan de leidinggevende en de gebruiker. Hij rapporteert klachten aan de leidinggevende. 
 
 ### Kerntaak  3:  
 
 ####Geven van voorlichting
 
-De controleur brandpreventie geeft situatiespecifieke voorlichting over gebruiksvoorwaarden met betrekking tot de brandveiligheid.  
+De controleur brandpreventie geeft situatiespecifieke voorlichting over gebruiksvoorwaarden met betrekking tot de brandveiligheid. 
 
 | Functie: controleur brandpreventie  | Kerntaken  | Organisatie  | Omgeving  |--- | Oordelen  | Analyseren  | Mondeling communiceren  | Flexibel  | Onafhankelijk  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -1889,7 +1889,7 @@ De controleur brandpreventie geeft situatiespecifieke voorlichting over gebruiks
 | Rapporteren  | --- | --- | 1  | --- | 1  |
 | Geven van voorlichting  | --- | --- | 1  | 1  | --- |
 
-Er zijn geen vakmatige en kenniscompetenties voor de controleur brandpreventie vastgesteld. In supplement gg is de competentiematrix uitgewerkt.  
+Er zijn geen vakmatige en kenniscompetenties voor de controleur brandpreventie vastgesteld. In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -1905,7 +1905,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de controleur brandpreventie v
 
 * Handelt meldingen en vragen op het gebied van brandveilig gebruik af.  
 
-* Voert zonodig hercontroles uit.    
+* Voert zonodig hercontroles uit.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -1913,7 +1913,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de controleur brandpreventie v
 
 * Analyseren (1)  
 
-* Onafhankelijk (1)    
+* Onafhankelijk (1)   
 
 ####Beoordelingscriteria
 
@@ -1925,7 +1925,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de controleur brandpreventie v
 
 * Gaat respectvol om met gebruikers van het te controleren object.  
 
-* Is communicatief vaardig, zowel mondeling als schriftelijk.    
+* Is communicatief vaardig, zowel mondeling als schriftelijk.   
 
 ### Kerntaak  2:  
 
@@ -1935,13 +1935,13 @@ Er zijn geen vakmatige en kenniscompetenties voor de controleur brandpreventie v
 
 * Maakt rapportages naar aanleiding van controles.  
 
-* Maakt rapportages als reactie op meldingen en vragen.    
+* Maakt rapportages als reactie op meldingen en vragen.   
 
 ####Vereiste competenties en niveaus van functioneren
 
 * Mondeling communiceren (1)  
 
-* Onafhankelijk (1)    
+* Onafhankelijk (1)   
 
 ####Beoordelingscriteria
 
@@ -1951,7 +1951,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de controleur brandpreventie v
 
 * Is in staat om efficiënt te plannen en effectief uit te voeren.  
 
-* Is communicatief vaardig, zowel mondeling als schriftelijk.    
+* Is communicatief vaardig, zowel mondeling als schriftelijk.   
 
 ### Kerntaak  3:  
 
@@ -1961,7 +1961,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de controleur brandpreventie v
 
 * Geeft voorlichting naar aanleiding van een controle op brandveilig gebruik (situatiespecifiek).  
 
-* Assisteert bij het geven van voorlichting op het gebied van de eigen kerntaak.    
+* Assisteert bij het geven van voorlichting op het gebied van de eigen kerntaak.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -1969,7 +1969,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de controleur brandpreventie v
 
 * Flexibel (1)  
 
-*     
+*    
 
 ####Beoordelingscriteria
 
@@ -1977,7 +1977,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de controleur brandpreventie v
 
 * Is in staat om doel- en doelgroepgerichte informatie te geven.  
 
-* Is communicatief vaardig.    
+* Is communicatief vaardig.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -2007,25 +2007,25 @@ Functie zoals genoemd in [artikel 2 lid 1 sub h Besluit personeel veiligheidsreg
 
 ####Didactisch handelen
 
-De docent richt het onderwijs in en verzorgt de lessen.  
+De docent richt het onderwijs in en verzorgt de lessen. 
 
 ### Kerntaak  2:  
 
 ####Coachen en begeleiden van cursisten in hun leerproces
 
-De docent begeleidt de deelnemers in hun leerproces en zorgt voor een goed leer- en leefklimaat.  
+De docent begeleidt de deelnemers in hun leerproces en zorgt voor een goed leer- en leefklimaat. 
 
 ### Kerntaak  3:  
 
 ####Begeleiden van toetsmomenten
 
-De docent richt formatieve toetsen in en bereidt cursisten voor op summatieve toetsen.  
+De docent richt formatieve toetsen in en bereidt cursisten voor op summatieve toetsen. 
 
 ### Kerntaak  4:  
 
 ####Functioneren binnen het opleidingsinstituut
 
-De docent werkt samen met andere instructeurs, leerwerkplekbegeleiders en gastdocenten. Hij stemt zijn werkzaamheden af met andere betrokkenen, zoals het hoofd opleidingen, de oefencoördinator, en trajectbegeleiders.  
+De docent werkt samen met andere instructeurs, leerwerkplekbegeleiders en gastdocenten. Hij stemt zijn werkzaamheden af met andere betrokkenen, zoals het hoofd opleidingen, de oefencoördinator, en trajectbegeleiders. 
 
 | Functie: docent  | Kerntaken  | Organisatie  | Omgeving  |--- | Analyseren  | Innoveren en creativiteit  | Oordelen  | Resultaatgericht  | Flexibel  | Taakgericht leiderschap  | Inleven  | Mondeling communiceren  | Leren en reflecteren  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -2039,7 +2039,7 @@ De docent werkt samen met andere instructeurs, leerwerkplekbegeleiders en gastdo
 | Incidentbestrijding  | --- | *  | --- |
 | Risico’s en veiligheid  | --- | *  | --- |
 
-In supplement gg is de competentiematrix uitgewerkt.  
+In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -2061,7 +2061,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Reflecteren op eigen functioneren.  
 
-* Zorg dragen voor fysiek veilige leeromgeving.    
+* Zorg dragen voor fysiek veilige leeromgeving.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -2079,7 +2079,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Mondeling communiceren (2)  
 
-* Leren en reflecteren (2)    
+* Leren en reflecteren (2)   
 
 ####Beoordelingscriteria
 
@@ -2097,7 +2097,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Toont aan vakinhoudelijk en didactisch bij te blijven, hij kent hiervoor de wegen en manieren.  
 
-* Evalueert zichzelf en vormt met behulp van de opgedane ervaringen nieuwe denkbeelden en of stelt deze bij.    
+* Evalueert zichzelf en vormt met behulp van de opgedane ervaringen nieuwe denkbeelden en of stelt deze bij.   
 
 ### Kerntaak  2:  
 
@@ -2111,7 +2111,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Zorgen voor een goed leer- en leefklimaat.  
 
-* Reflecteren op eigen functioneren.    
+* Reflecteren op eigen functioneren.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -2119,7 +2119,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Mondeling communiceren (2)  
 
-* Leren en reflecteren (2)    
+* Leren en reflecteren (2)   
 
 ####Beoordelingscriteria
 
@@ -2139,7 +2139,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Gebruikt kennis van groepsdynamische processen bij de omgang met cursisten en bij de inrichting van zijn of haar werk als docent.  
 
-* Stimuleert het reflecteren van cursisten op hun leergedrag en stelt hen in staat op grond daarvan zelf prioriteiten te stellen evalueert zichzelf en vormt met behulp van de opgedane ervaringen nieuwe denkbeelden en of stelt deze bij.    
+* Stimuleert het reflecteren van cursisten op hun leergedrag en stelt hen in staat op grond daarvan zelf prioriteiten te stellen evalueert zichzelf en vormt met behulp van de opgedane ervaringen nieuwe denkbeelden en of stelt deze bij.   
 
 ### Kerntaak  3:  
 
@@ -2149,7 +2149,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Uitvoeren van formatieve toetsmomenten.  
 
-* Cursisten voorbereiden op summatieve (her)toetsen.    
+* Cursisten voorbereiden op summatieve (her)toetsen.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -2157,7 +2157,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Oordelen (2)  
 
-* Mondeling Communiceren (2)    
+* Mondeling Communiceren (2)   
 
 ####Beoordelingscriteria
 
@@ -2175,7 +2175,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Voorziet de individuele cursisten van informatieve feedback.  
 
-* Is in staat in te schatten of een cursist klaar is voor de toetsen.    
+* Is in staat in te schatten of een cursist klaar is voor de toetsen.   
 
 ### Kerntaak  4:  
 
@@ -2189,7 +2189,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Terugkoppelen van ervaringen naar beleidsverantwoordelijken.  
 
-* Optreden als teamleider van een groep instructeurs.    
+* Optreden als teamleider van een groep instructeurs.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -2205,7 +2205,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Mondeling communiceren (2)  
 
-* Leren en reflecteren (2)    
+* Leren en reflecteren (2)   
 
 ####Beoordelingscriteria
 
@@ -2219,7 +2219,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Staat open voor constructieve feedback op eigen functioneren.  
 
-* Is pro-actief.    
+* Is pro-actief.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -2249,19 +2249,19 @@ Functie zoals genoemd in [artikel 2 lid 1 sub i Besluit personeel veiligheidsreg
 
 ####Uitruk/verkenning
 
-De duikploegleider maakt een inschatting van de aard, omvang en dynamiek van het incident en selecteert het van toepassing zijnde scenario. Hij adviseert de bevelvoerder of officier van dienst ten aanzien van de opschaling conform de geldende richtlijnen. De duikploegleider bepaalt de grootte en vorm van het zoekgebied. Hij zorgt er voor dat alle benodigde veiligheidsmaatregelen op de kant genomen worden.  
+De duikploegleider maakt een inschatting van de aard, omvang en dynamiek van het incident en selecteert het van toepassing zijnde scenario. Hij adviseert de bevelvoerder of officier van dienst ten aanzien van de opschaling conform de geldende richtlijnen. De duikploegleider bepaalt de grootte en vorm van het zoekgebied. Hij zorgt er voor dat alle benodigde veiligheidsmaatregelen op de kant genomen worden. 
 
 ### Kerntaak  2:  
 
 ####Inzet
 
-De duikploegleider geeft leiding aan de technische uitvoering van het duiken van een brandweerploeg. Hij communiceert met de reddingsduiker te water of met de seinlijnhouder met behulp van een seinlijn en communicatieapparatuur (spreekverbinding). In een noodsituatie maakt hij de keuze tussen communicatie met de duiker in nood of met de veiligheidsduiker. De duikploegleider organiseert de eerste medische hulp aan een duiker in nood. Hij is duikmedisch begeleider. In gevallen waarbij acuut gevaar bestaat voor het milieu of voor de scheepvaart mogen objecten worden opgespoord en geborgen. Beslissing hieromtrent wordt door de bevelvoerder en/of officier van dienst in overleg met de waterbeheerder genomen.  
+De duikploegleider geeft leiding aan de technische uitvoering van het duiken van een brandweerploeg. Hij communiceert met de reddingsduiker te water of met de seinlijnhouder met behulp van een seinlijn en communicatieapparatuur (spreekverbinding). In een noodsituatie maakt hij de keuze tussen communicatie met de duiker in nood of met de veiligheidsduiker. De duikploegleider organiseert de eerste medische hulp aan een duiker in nood. Hij is duikmedisch begeleider. In gevallen waarbij acuut gevaar bestaat voor het milieu of voor de scheepvaart mogen objecten worden opgespoord en geborgen. Beslissing hieromtrent wordt door de bevelvoerder en/of officier van dienst in overleg met de waterbeheerder genomen. 
 
 ### Kerntaak  3:  
 
 ####Nazorg
 
-De duikploegleider is verantwoordelijk voor de nazorg van het ingezette personeel, materiaal en materieel. Na afloop van de inzet voert hij een evaluatiegesprek met de ploegleden over de inzet, of een nazorggesprek als het een traumatische ervaring betreft. Hij registreert de noodzakelijke gegevens in zijn duiklogboek en tekent het door de duiker zelf ingevulde persoonlijke logboek af.  
+De duikploegleider is verantwoordelijk voor de nazorg van het ingezette personeel, materiaal en materieel. Na afloop van de inzet voert hij een evaluatiegesprek met de ploegleden over de inzet, of een nazorggesprek als het een traumatische ervaring betreft. Hij registreert de noodzakelijke gegevens in zijn duiklogboek en tekent het door de duiker zelf ingevulde persoonlijke logboek af. 
 
 | Functie: duikploegleider  | Kerntaken  | Kern  | Organisatie  | Omgeving  |--- | Accuraat  | Samenwerken  | Stressbestendig  | Analyseren  | Plannen, organiseren en coördineren  | Oordelen  | Resultaatgericht  | Probleem oplossen  | Leren en  reflecteren  | Daadkracht  | Onafhankelijk  | Mondeling communiceren  | Inleven  | Taakgericht leiderschap  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -2273,7 +2273,7 @@ De duikploegleider is verantwoordelijk voor de nazorg van het ingezette personee
 |:---|:---|:---|:---|:---|
 | Incident-bestrijding  | *  | --- | --- |
 
-In supplement gg is de competentiematrix uitgewerkt.  
+In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -2297,7 +2297,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Zorgt er voor dat alle benodigde veiligheidsmaatregelen op de kant genomen worden, zoals het plaatsen van duikvlaggen.  
 
-* Zorgt voor het plotten en bewaakt de duiktijd.    
+* Zorgt voor het plotten en bewaakt de duiktijd.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -2315,7 +2315,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Daadkracht (1)  
 
-* Onafhankelijk (2)    
+* Onafhankelijk (2)   
 
 ####Beoordelingscriteria
 
@@ -2331,7 +2331,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Kan een taak risicoanalyse (TRA) maken.  
 
-* Kent de te nemen veiligheidsmaatregelen.    
+* Kent de te nemen veiligheidsmaatregelen.   
 
 ### Kerntaak  2:  
 
@@ -2369,7 +2369,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Informeert zo nodig het duikmedisch centrum.  
 
-* Bewaakt luchtverbruik en de duiktijd van de duiker.    
+* Bewaakt luchtverbruik en de duiktijd van de duiker.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -2391,7 +2391,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Inleven (1)  
 
-* Taakgericht leiderschap (1)    
+* Taakgericht leiderschap (1)   
 
 ####Beoordelingscriteria
 
@@ -2429,7 +2429,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Is in staat om informatie helder te communiceren.  
 
-* Kent de Arbo-voorschriften en past deze toe    
+* Kent de Arbo-voorschriften en past deze toe   
 
 ### Kerntaak  3:  
 
@@ -2451,7 +2451,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Registreert de noodzakelijke evaluatiegegevens in het duikerslogboek en tekent het logboekvan de duikers af.  
 
-* Draagt er zorg voor dat slachtoffer of duiker in nood op een verantwoorde wijze op de kant wordt gebracht.    
+* Draagt er zorg voor dat slachtoffer of duiker in nood op een verantwoorde wijze op de kant wordt gebracht.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -2469,7 +2469,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Inleven (1)  
 
-* Taakgericht leiderschap (1)    
+* Taakgericht leiderschap (1)   
 
 ####Beoordelingscriteria
 
@@ -2481,7 +2481,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Kan evaluatiegegevens in een logboek registreren.  
 
-* Kan een (bijna)ongevallenrapportage maken.    
+* Kan een (bijna)ongevallenrapportage maken.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -2507,19 +2507,19 @@ Functie zoals genoemd in [artikel 2 lid 1 sub j Besluit personeel veiligheidsreg
 
 ####Uitruk/verkenning
 
-De gaspakdrager maakt op juiste en doeltreffende wijze gebruik van de door de inzetleider (op advies van OVD/AGS) geselecteerde beschermingsmiddelen en controleert deze. Hij voert, op veilige wijze en volgens vaste procedures, een verkenning uit met een collega gaspakdrager. Hij kan op een correcte manier meetapparatuur gebruiken, aflezen en de gegevens interpreteren.  
+De gaspakdrager maakt op juiste en doeltreffende wijze gebruik van de door de inzetleider (op advies van OVD/AGS) geselecteerde beschermingsmiddelen en controleert deze. Hij voert, op veilige wijze en volgens vaste procedures, een verkenning uit met een collega gaspakdrager. Hij kan op een correcte manier meetapparatuur gebruiken, aflezen en de gegevens interpreteren. 
 
 ### Kerntaak  2:  
 
 ####Inzet
 
-De gaspakdrager redt slachtoffers in diverse situaties en voert stabiliserende, bronbestrijdings- en effectbeperkende werkzaamheden uit. De gaspakdrager kan een noodontsmetting toepassen of hierbij assisteren.  
+De gaspakdrager redt slachtoffers in diverse situaties en voert stabiliserende, bronbestrijdings- en effectbeperkende werkzaamheden uit. De gaspakdrager kan een noodontsmetting toepassen of hierbij assisteren. 
 
 ### Kerntaak  3:  
 
 ####Nazorg
 
-De gaspakdrager voert de ontsmettingsprocedure uit en draagt zorg voor een zorgvuldige behandeling en registratie van de door hem gebruikte middelen. Na afloop van de inzet neemt hij met de ploegleden deel aan een evaluatiegesprek over de inzet, en na een traumatische ervaring aan een nazorggesprek.  
+De gaspakdrager voert de ontsmettingsprocedure uit en draagt zorg voor een zorgvuldige behandeling en registratie van de door hem gebruikte middelen. Na afloop van de inzet neemt hij met de ploegleden deel aan een evaluatiegesprek over de inzet, en na een traumatische ervaring aan een nazorggesprek. 
 
 | Functie: Gaspakdrager  | Kerntaken  | Kern  | Organisatie  | Omgeving  |--- | Accuraat  | Samenwerken  | Stressbestendig  | Probleem oplossen  | Resultaatgericht  | Plannen, organiseren en coördineren  | Analyseren  | Leren en reflecteren  | Daadkracht  | Mondeling communiceren  | Flexibel  | Inleven  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -2531,7 +2531,7 @@ De gaspakdrager voert de ontsmettingsprocedure uit en draagt zorg voor een zorgv
 |:---|:---|:---|:---|:---|
 | Incidentbestrijding  | *  | --- | --- |
 
-In supplement gg is de competentiematrix uitgewerkt.  
+In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -2555,7 +2555,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 ○ Identificeert de stof en kan gevaren voor de eigen inzet en de omgeving inschatten.  
 
-○ Schat de mogelijkheden voor een noodstabilisatie en bestrijding in.      
+○ Schat de mogelijkheden voor een noodstabilisatie en bestrijding in.     
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -2571,7 +2571,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Analyseren (1)  
 
-* Daadkracht (1)    
+* Daadkracht (1)   
 
 ####Beoordelingscriteria
 
@@ -2593,7 +2593,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Is in staat om te communiceren met handgebaren.  
 
-* Is in staat om in een stressvolle situatie kalm en overwogen te handelen.    
+* Is in staat om in een stressvolle situatie kalm en overwogen te handelen.   
 
 ### Kerntaak  2:  
 
@@ -2611,7 +2611,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 ○ voorziet slachtoffers van eerste hulp.    
 
-* Voert (nood)stabiliserende, bronbestrijdings- en effectbeperkende werkzaamheden uit.    
+* Voert (nood)stabiliserende, bronbestrijdings- en effectbeperkende werkzaamheden uit.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -2625,7 +2625,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Daadkracht (1)  
 
-* Flexibel (1)    
+* Flexibel (1)   
 
 ####Beoordelingscriteria
 
@@ -2643,7 +2643,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Is in staat om de voor de taak geschikte materialen te selecteren en op een veilige en doeltreffende wijze toe te passen.  
 
-* Is in staat om met beperkte bewegingsvrijheid en zintuiglijke waarnemingen de taak uit te oefenen.    
+* Is in staat om met beperkte bewegingsvrijheid en zintuiglijke waarnemingen de taak uit te oefenen.   
 
 ### Kerntaak  3:  
 
@@ -2659,7 +2659,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Neemt met de ploegleden deel aan een evaluatiegesprek over de inzet.  
 
-* Neemt, na een traumatische ervaring, met de ploegleden deel aan eennazorggesprek.    
+* Neemt, na een traumatische ervaring, met de ploegleden deel aan eennazorggesprek.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -2677,7 +2677,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Mondeling communiceren (1)  
 
-* Inleven (1)    
+* Inleven (1)   
 
 ####Beoordelingscriteria
 
@@ -2687,7 +2687,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Werkt mee aan een adequate registratie van zijn inzetgegevens in het persoonsdossier.  
 
-* Kan constructief deelnemen aan een groepsproces in een nazorgfase (evaluatie- en/of zorggesprek).    
+* Kan constructief deelnemen aan een groepsproces in een nazorgfase (evaluatie- en/of zorggesprek).   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -2717,19 +2717,19 @@ Functie zoals genoemd in [artikel 2 lid 1 sub k Besluit personeel veiligheidsreg
 
 ####Leidinggeven aan brandweereenheden bij de bestrijding van het incident
 
-De HOVD is als compagniescommandant verantwoordelijk voor de bestrijding van het incident in zijn compagniesvak.  
+De HOVD is als compagniescommandant verantwoordelijk voor de bestrijding van het incident in zijn compagniesvak. 
 
 ### Kerntaak  2:  
 
 ####Leidinggeven aan cq. coördineren van multidisciplinaire samenwerking
 
-De HOVD geeft leiding aan de multidisciplinaire samenwerking in het CoPI. Hij is verantwoordelijk voor het gecoördineerd optreden van alle disciplines ter plaatse van het incident.  
+De HOVD geeft leiding aan de multidisciplinaire samenwerking in het CoPI. Hij is verantwoordelijk voor het gecoördineerd optreden van alle disciplines ter plaatse van het incident. 
 
 ### Kerntaak  3:  
 
 ####Multidisciplinaire maatregelen (laten) treffen in het effectgebied
 
-Als hoofd van de sectie brandweer in het ROT ondersteunt de HOVD de eenheden die de bron- en effectbestrijding uitvoeren (voorwaardenscheppend) en hij is verantwoordelijk voor het treffen van maatregelen in het effectgebied.  
+Als hoofd van de sectie brandweer in het ROT ondersteunt de HOVD de eenheden die de bron- en effectbestrijding uitvoeren (voorwaardenscheppend) en hij is verantwoordelijk voor het treffen van maatregelen in het effectgebied. 
 
 | Functie: hoofdofficier van dienst  | Kerntaken  | Organisatie  | Omgeving  |--- | Analyseren  | Plannen, organiseren en coördineren  | Politiek-bestuurlijk inzicht  | Communiceren  | Daadkracht  | Inleven  | Leiderschap  | Maatschappelijk georiënteerd  | Samenwerken  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -2742,7 +2742,7 @@ Als hoofd van de sectie brandweer in het ROT ondersteunt de HOVD de eenheden die
 | Risico’s en veiligheid  | --- | --- | *  |
 | Incidentbestrijding  | --- | --- | *  |
 
-In supplement gg is de competentiematrix uitgewerkt.  
+In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -2788,7 +2788,7 @@ Treedt op als compagniescommandant:
 
 * Draagt zorg voor de watertransportvoorziening.  
 
-* Is belast met de verzorging van de compagnie.    
+* Is belast met de verzorging van de compagnie.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -2800,7 +2800,7 @@ Treedt op als compagniescommandant:
 
 * Daadkracht (3)  
 
-* Leiderschap (3)    
+* Leiderschap (3)   
 
 ####Beoordelingscriteria
 
@@ -2822,7 +2822,7 @@ Treedt op als compagniescommandant:
 
 * Past de juiste leiderschapsstijl toe (directief).  
 
-* Kan snel een situatierapport op hoofdlijnen produceren.    
+* Kan snel een situatierapport op hoofdlijnen produceren.   
 
 ### Kerntaak  2:  
 
@@ -2852,7 +2852,7 @@ Treedt op als compagniescommandant:
 
 * Levert sitraps (schriftelijk) aan het ROT.  
 
-* Anticipeert op de ontwikkeling van het incident en stemt met het ROT af omtrent de op- en afschaling.    
+* Anticipeert op de ontwikkeling van het incident en stemt met het ROT af omtrent de op- en afschaling.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -2870,7 +2870,7 @@ Treedt op als compagniescommandant:
 
 * Maatschappelijk georiënteerd (2)  
 
-* Samenwerken (3)    
+* Samenwerken (3)   
 
 ####Beoordelingscriteria
 
@@ -2884,7 +2884,7 @@ Treedt op als compagniescommandant:
 
 * Straalt rust en gezag uit.  
 
-* Zorgt voor een goed werkend coördinatie-overleg: efficiënt (start en stopt op tijd, iedereen is ter plaatse) en effectief (leidt tot besluiten, prioriteiten, afspraken).    
+* Zorgt voor een goed werkend coördinatie-overleg: efficiënt (start en stopt op tijd, iedereen is ter plaatse) en effectief (leidt tot besluiten, prioriteiten, afspraken).   
 
 ### Kerntaak  3:  
 
@@ -2908,7 +2908,7 @@ Neemt als hoofd sectie brandweer deel aan het ROT:
 
 * Levert situatierapport aan het BT.  
 
-* Draagt zorg voor het waarschuwen van de bevolking in de directe nabijheid van het incident.    
+* Draagt zorg voor het waarschuwen van de bevolking in de directe nabijheid van het incident.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -2926,7 +2926,7 @@ Neemt als hoofd sectie brandweer deel aan het ROT:
 
 * Maatschappelijk georiënteerd (2)  
 
-* Samenwerken (3)    
+* Samenwerken (3)   
 
 ####Beoordelingscriteria
 
@@ -2936,7 +2936,7 @@ Neemt als hoofd sectie brandweer deel aan het ROT:
 
 * Heeft een sitrap beschikbaar (mondeling).  
 
-* Verstrekt gestructureerd, eenduidig en kernachtig informatie.    
+* Verstrekt gestructureerd, eenduidig en kernachtig informatie.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -2968,25 +2968,25 @@ Functie zoals genoemd in [artikel 2 lid 1 sub l Besluit personeel veiligheidsreg
 
 ####Didactisch handelen
 
-De instructeur verzorgt afgebakende onderdelen en oefeningen.  
+De instructeur verzorgt afgebakende onderdelen en oefeningen. 
 
 ### Kerntaak  2:  
 
 ####Begeleiden van deelnemers
 
-De instructeur draagt bij aan de begeleiding van de deelnemers in hun leerproces en zorgt voor een goed leer- en leefklimaat.  
+De instructeur draagt bij aan de begeleiding van de deelnemers in hun leerproces en zorgt voor een goed leer- en leefklimaat. 
 
 ### Kerntaak  3:  
 
 ####Beoordelen van deelnemers
 
-De instructeur bereidt de deelnemers voor op de toetsen en beoordeelt de deelnemers.  
+De instructeur bereidt de deelnemers voor op de toetsen en beoordeelt de deelnemers. 
 
 ### Kerntaak  4:  
 
 ####Functioneren binnen het opleidingsinstituut
 
-De instructeur werkt samen met andere didactisch betrokkenen.  
+De instructeur werkt samen met andere didactisch betrokkenen. 
 
 | Functie: Instructeur  | Kerntaken  | Organisatie  | Omgeving  |--- | Analyseren  | Innoveren en creativiteit  | Oordelen  | Resultaatgericht  | Flexibel  | Taakgericht leiderschap  | Inleven  | Mondeling communiceren  | Leren en reflecteren  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -2999,7 +2999,7 @@ De instructeur werkt samen met andere didactisch betrokkenen.
 |:---|:---|:---|:---|:---|
 | Incidentbestrijding  | x  | --- | --- |
 
-In supplement gg is de competentiematrix uitgewerkt.  
+In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -3021,7 +3021,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Reflecteren op eigen functioneren.  
 
-* Zorg dragen voor fysiek veilige leeromgeving.    
+* Zorg dragen voor fysiek veilige leeromgeving.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -3035,7 +3035,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Mondeling communiceren (1)  
 
-* Leren en reflecteren (1)    
+* Leren en reflecteren (1)   
 
 ####Beoordelingscriteria
 
@@ -3053,7 +3053,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Is bekend met de leven lang leren cyclus.  
 
-* Is bekend met de relatie tussen het door hem te verzorgen programmaonderdeel en het totaal (leergang, oefenprogramma).    
+* Is bekend met de relatie tussen het door hem te verzorgen programmaonderdeel en het totaal (leergang, oefenprogramma).   
 
 ### Kerntaak  2:  
 
@@ -3069,7 +3069,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 – op deelvaardigheden  
 
-– gericht op het leerproces van de deelnemer,   in afstemming met docent of andere verantwoordelijke uit de vakbekwaamheidorganisatie.    
+– gericht op het leerproces van de deelnemer,   in afstemming met docent of andere verantwoordelijke uit de vakbekwaamheidorganisatie.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -3077,7 +3077,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Mondeling communiceren (1)  
 
-* Leren en reflecteren (1)    
+* Leren en reflecteren (1)   
 
 ####Beoordelingscriteria
 
@@ -3089,7 +3089,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Herkent risicozoekende houding, leer- en motivatieproblemen en rapporteert hierover naar de docent of andere verantwoordelijke uit de vakbekwaamheidorganisatie.  
 
-* Past kennis over groepsdynamische processen toe in de omgang met deelnemers.    
+* Past kennis over groepsdynamische processen toe in de omgang met deelnemers.   
 
 ### Kerntaak  3:  
 
@@ -3103,13 +3103,13 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Op informatieve wijze feedback geven aan deelnemers.  
 
-* Toepassen van de beoordelingssystematiek.    
+* Toepassen van de beoordelingssystematiek.   
 
 ####Vereiste competenties en niveaus van functioneren
 
 * Oordelen (1)  
 
-* Mondeling Communiceren (1)    
+* Mondeling Communiceren (1)   
 
 ####Beoordelingscriteria
 
@@ -3123,7 +3123,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Is in staat in te schatten of een deelnemer klaar is voor de proeve in afstemming met de docent.  
 
-* Het uitvoeren van formatieve toetsen in afstemming met de docent.    
+* Het uitvoeren van formatieve toetsen in afstemming met de docent.   
 
 ### Kerntaak  4:  
 
@@ -3135,7 +3135,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Communiceren met en rapporteren aan de vakbekwaamheidorganisatie conform hun geldende regels en procedures.  
 
-* Inzetten van de ter beschikking staande media, hulpmiddelen en systemen.    
+* Inzetten van de ter beschikking staande media, hulpmiddelen en systemen.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -3149,7 +3149,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Mondeling communiceren (1)  
 
-* Leren en reflecteren (1)    
+* Leren en reflecteren (1)   
 
 ####Beoordelingscriteria
 
@@ -3163,7 +3163,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Beheerst het gebruik van de beschikbare media, hulpmiddelen en systemen.  
 
-* Is bekend met de organisaties die een rol hebben in het vakbekwaamheidstelsel van de brandweer.    
+* Is bekend met de organisaties die een rol hebben in het vakbekwaamheidstelsel van de brandweer.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -3185,7 +3185,7 @@ Functie zoals genoemd in [artikel 2 lid 1 sub m Besluit personeel veiligheidsreg
 | --- | --- |
 | --- | Hij rapporteert en legt verantwoording af, direct of indirect, aan de leiding van de regionale brandweerorganisatie.  |
 
-<sup>1</sup> Overal in dit document waar de manager veiligheid in de mannelijke vorm wordt aangeduid, kan nadrukkelijk ook vrouwelijke vorm gelezen worden. Slechts omwille van de leesbaarheid is voor een enkelvoudige (mannelijke) aanduiding gekozen.  
+<sup>1</sup> Overal in dit document waar de manager veiligheid in de mannelijke vorm wordt aangeduid, kan nadrukkelijk ook vrouwelijke vorm gelezen worden. Slechts omwille van de leesbaarheid is voor een enkelvoudige (mannelijke) aanduiding gekozen.
 
 ### 2.1  
 
@@ -3195,25 +3195,25 @@ Functie zoals genoemd in [artikel 2 lid 1 sub m Besluit personeel veiligheidsreg
 
 ####Initiëren van strategisch beleid voor het eigen organisatieonderdeel/werkgebied en bijdragen aan het strategisch beleid van de organisatie als geheel
 
-De manager veiligheid is lid van het MT. Daarin heeft hij een tweeledige rol. Enerzijds draagt hij bij aan de totstandkoming van strategisch beleid voor de organisatie. Anderzijds heeft hij z’n eigen werkgebied waarvoor hij een meerjarenplan en meerjarenbegroting ontwikkelt als onderdeel van het meerjarenplan en de meerjarenbegroting van de organisatie. De manager veiligheid draagt daarbij zorg voor het beheren en beheersen van het beleid binnen zijn eigen organisatieonderdeel/werkgebied.  
+De manager veiligheid is lid van het MT. Daarin heeft hij een tweeledige rol. Enerzijds draagt hij bij aan de totstandkoming van strategisch beleid voor de organisatie. Anderzijds heeft hij z’n eigen werkgebied waarvoor hij een meerjarenplan en meerjarenbegroting ontwikkelt als onderdeel van het meerjarenplan en de meerjarenbegroting van de organisatie. De manager veiligheid draagt daarbij zorg voor het beheren en beheersen van het beleid binnen zijn eigen organisatieonderdeel/werkgebied. 
 
 ### Kerntaak  2:  
 
 ####Prioriteren en implementeren van vastgesteld beleid voor het eigen organisatieonderdeel/werkgebied
 
-De manager veiligheid geeft binnen zijn eigen organisatieonderdeel/werkgebied richting aan de implementatie van het vastgestelde beleid binnen de regionale brandweerorganisatie. Hij treedt hierin sturen en bepalend op. Specifiek geeft hij hierin sturing aan de uitwerking van programma’s.  
+De manager veiligheid geeft binnen zijn eigen organisatieonderdeel/werkgebied richting aan de implementatie van het vastgestelde beleid binnen de regionale brandweerorganisatie. Hij treedt hierin sturen en bepalend op. Specifiek geeft hij hierin sturing aan de uitwerking van programma’s. 
 
 ### Kerntaak  3:  
 
 ####Randvoorwaarden creëren voor de personele zorg en de inzet van middelen en situationeel leidinggeven aan zijn organisatieonderdeel/werkgebied
 
-De manager veiligheid is verantwoordelijk voor de personele zorg en de inzet van middelen van het organisatieonderdeel/werkgebied. Dit betreft de uitvoering van de HRM-taken en de inzet van middelen waarvoor de kaders wettelijk of door de eigen organisatie zijn vastgesteld.  
+De manager veiligheid is verantwoordelijk voor de personele zorg en de inzet van middelen van het organisatieonderdeel/werkgebied. Dit betreft de uitvoering van de HRM-taken en de inzet van middelen waarvoor de kaders wettelijk of door de eigen organisatie zijn vastgesteld. 
 
 ### Kerntaak  4:  
 
 ####Randvoorwaarden creëren voor en acteren in relevante netwerken
 
-Voor de manager veiligheid is het opbouwen en onderhouden van een netwerk cruciaal. Langs deze weg kan hij tijdig anticiperen op ontwikkelingen en is hij in beeld in zowel de mono- als multidisciplinaire omgeving.  
+Voor de manager veiligheid is het opbouwen en onderhouden van een netwerk cruciaal. Langs deze weg kan hij tijdig anticiperen op ontwikkelingen en is hij in beeld in zowel de mono- als multidisciplinaire omgeving. 
 
 | Functie: manager veiligheid  | Kerntaken  | Kern  | Organisatie  | Omgeving  |--- | Leren/reflecteren  | Ondernemen  | Visie  | Coachen  | Leiderschap  | Resultaatgericht  | Plannen, organiseren en coördineren  | Analyseren  | Kosten bewust  | Netwerken  | Samenwerken  | Maatschappelijk georiënteerd  | Politiek-bestuurlijk inzicht  | Communiceren  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -3266,7 +3266,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 ○ relevante externe partijen.    
 
-* Beheren en beheersen van het effect van het (strategisch) beleid.    
+* Beheren en beheersen van het effect van het (strategisch) beleid.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -3282,7 +3282,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Politiek bestuurlijk inzicht (3)  
 
-* Communiceren (3)    
+* Communiceren (3)   
 
 ####Beoordelingscriteria
 
@@ -3298,7 +3298,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Is extern actief en proactief in (brandweer)netwerken.  
 
-* Weet te handelen en te acteren in een netwerk- en procesmatige omgeving.    
+* Weet te handelen en te acteren in een netwerk- en procesmatige omgeving.   
 
 ### Kerntaak  2:  
 
@@ -3314,7 +3314,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Periodiek laten rapporteren door managers en overige betrokkenen over de voortgang in de implementatie van het vastgestelde beleid.  
 
-* Opstellen van een periodieke managementrapportage, over de behaalde resultaten ten opzichte van de gestelde doelen en benutting van resources. In deze rapportage worden nadrukkelijk ook de afwijkingen in de implementatie van het beleid benoemd en het effect daarvan op lange termijn.    
+* Opstellen van een periodieke managementrapportage, over de behaalde resultaten ten opzichte van de gestelde doelen en benutting van resources. In deze rapportage worden nadrukkelijk ook de afwijkingen in de implementatie van het beleid benoemd en het effect daarvan op lange termijn.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -3328,7 +3328,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Resultaatgericht (3)  
 
-* Maatschappelijk georiënteerd (3)    
+* Maatschappelijk georiënteerd (3)   
 
 ####Beoordelingscriteria
 
@@ -3336,7 +3336,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * De opdrachten (of taakstellingen) aan de tactisch manager zijn SMART (Specifiek, Meetbaar, Acceptabel, Realistisch en Tijdsgebonden) geformuleerd.  
 
-* Motiveert betrokkenen om de opdrachten uit te voeren.    
+* Motiveert betrokkenen om de opdrachten uit te voeren.   
 
 ### Kerntaak  3:  
 
@@ -3354,7 +3354,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Beslissen binnen gestelde kaders van de organisatie over werving en selectie, benoeming, ontwikkeling, promotie en ontslag.  
 
-* Het creëren van randvoorwaarden voor de inzet van middelen (o.a. financiën, ict, huistvesting) voor het optimaal functioneren van de organisatie.    
+* Het creëren van randvoorwaarden voor de inzet van middelen (o.a. financiën, ict, huistvesting) voor het optimaal functioneren van de organisatie.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -3366,7 +3366,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Coachen (3)  
 
-* Kosten bewust (2)    
+* Kosten bewust (2)   
 
 ####Beoordelingscriteria
 
@@ -3376,7 +3376,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Er is sprake van aantoonbare ontwikkeling van managers en overige betrokkenen passend bij de organisatiedoelen.  
 
-* De gesprekken uit de P-cyclus voldoen aan lokaal/regionaal gestelde eisen.    
+* De gesprekken uit de P-cyclus voldoen aan lokaal/regionaal gestelde eisen.   
 
 ### Kerntaak  4:  
 
@@ -3388,7 +3388,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Het oprichten van, deelnemen aan en onderhouden van relevante netwerken.  
 
-* Vertalen van belangen en activiteiten van het netwerk naar belangen en activiteiten van de organisatie en vice versa.    
+* Vertalen van belangen en activiteiten van het netwerk naar belangen en activiteiten van de organisatie en vice versa.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -3402,7 +3402,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Maatschappelijk georiënteerd (2)  
 
-* Politiek bestuurlijk inzicht (2)    
+* Politiek bestuurlijk inzicht (2)   
 
 ####Beoordelingscriteria
 
@@ -3410,7 +3410,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Verkrijgt medestanders voor voorstellen.  
 
-* Heeft een goed imago bij externe partijen op zowel het mono- als multidisciplinair terrein.    
+* Heeft een goed imago bij externe partijen op zowel het mono- als multidisciplinair terrein.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -3436,19 +3436,19 @@ Functie zoals genoemd in [artikel 2 lid 1 sub n Besluit personeel veiligheidsreg
 
 ####Voert uitrukwerkzaamheden uit
 
-Voert werkzaamheden uit met betrekking tot de voorbereiding op de verkenning en inzet.  
+Voert werkzaamheden uit met betrekking tot de voorbereiding op de verkenning en inzet. 
 
 ### Kerntaak  2:  
 
 ####Voert verkenningswerkzaamheden uit
 
-Verzamelt informatie over het incident ten behoeve van de inzet.  
+Verzamelt informatie over het incident ten behoeve van de inzet. 
 
 ### Kerntaak  3:  
 
 ####Voert inzetwerkzaamheden uit
 
-Voert werkzaamheden uit met betrekking tot de bestrijding van het incident en het redden van mens en/of dier.  
+Voert werkzaamheden uit met betrekking tot de bestrijding van het incident en het redden van mens en/of dier. 
 
 ### Kerntaak  4:  
 
@@ -3462,7 +3462,7 @@ Levert een bijdrage aan een juiste afwerking van het incident en neemt deel aan 
 
 * Optreden bij incidenten met gevaarlijke stoffen;  
 
-* Ondersteunen bij waterongevallen.    
+* Ondersteunen bij waterongevallen.   
 
 | Functie: Manschap A  | Kerntaken  | Kern  | Organisatie  | Omgeving  |--- | Accuraat  | Samenwerken  | Stressbestendig  | Probleem oplossen  | Innoveren en creativiteit  | Plannen, organiseren en coördineren  | Leren en reflecteren  | Daadkracht  | Mondeling communiceren  | Inleven  | Flexibel  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -3475,7 +3475,7 @@ Levert een bijdrage aan een juiste afwerking van het incident en neemt deel aan 
 |:---|:---|:---|:---|:---|
 | Incidentbestrijding  | x  | --- | --- |
 
-In supplement gg is de competentiematrix uitgewerkt.  
+In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -3489,9 +3489,9 @@ De manschap A voert met de overige leden van de blusploeg en onder leiding van d
 
 ### Kerntaak  1:  
 
-####Voert uitrukwerkzaamheden uit
+####Voert uitrukwerkzaamheden uit 
 
-####Werkzaamheden
+#### Werkzaamheden 
 
 * Selecteert de persoonlijke beschermingsmiddelen (afhankelijk van de situatie), maakt deze gebruiksgereed.  
 
@@ -3499,9 +3499,9 @@ De manschap A voert met de overige leden van de blusploeg en onder leiding van d
 
 * Herkent gevaarsituaties en is in staat adequaat hiernaar te handelen.  
 
-* Communiceert zijn bevindingen met de bevelvoerder en de rest van de ploeg.    
+* Communiceert zijn bevindingen met de bevelvoerder en de rest van de ploeg.   
 
-####Vereiste competenties en niveaus van functioneren
+#### Vereiste competenties en niveaus van functioneren 
 
 * Accuraat (1)  
 
@@ -3513,13 +3513,13 @@ De manschap A voert met de overige leden van de blusploeg en onder leiding van d
 
 * Daadkracht (1)  
 
-* Mondeling Communiceren (1)    
+* Mondeling Communiceren (1)   
 
 ### Kerntaak  2:  
 
-####Voert verkenningswerkzaamheden uit
+####Voert verkenningswerkzaamheden uit 
 
-####Werkzaamheden
+#### Werkzaamheden 
 
 * Verkent op eventuele slachtoffers.  
 
@@ -3527,9 +3527,9 @@ De manschap A voert met de overige leden van de blusploeg en onder leiding van d
 
 * Verkent de brandhaard.  
 
-* Herkent het stadium van de brand.    
+* Herkent het stadium van de brand.   
 
-####Vereiste competenties en niveaus van functioneren
+#### Vereiste competenties en niveaus van functioneren 
 
 * Accuraat (1)  
 
@@ -3543,13 +3543,13 @@ De manschap A voert met de overige leden van de blusploeg en onder leiding van d
 
 * Daadkracht (1)  
 
-* Mondeling communiceren (1)    
+* Mondeling communiceren (1)   
 
 ### Kerntaak  3:  
 
-####Voert inzetwerkzaamheden uit
+####Voert inzetwerkzaamheden uit 
 
-####Werkzaamheden
+#### Werkzaamheden 
 
 * Redt slachtoffers.  
 
@@ -3575,9 +3575,9 @@ De manschap A voert met de overige leden van de blusploeg en onder leiding van d
 
 * Past verschillende blustechnieken toe.  
 
-* Voert salvage werkzaamheden uit.    
+* Voert salvage werkzaamheden uit.   
 
-####Vereiste competenties en niveaus van functioneren
+#### Vereiste competenties en niveaus van functioneren 
 
 * Accuraat (1)  
 
@@ -3593,13 +3593,13 @@ De manschap A voert met de overige leden van de blusploeg en onder leiding van d
 
 * Daadkracht (1)  
 
-* Flexibel (1)    
+* Flexibel (1)   
 
 ### Kerntaak  4:  
 
-####Voert nazorgwerkzaamheden uit
+#### Voert nazorgwerkzaamheden uit 
 
-####Werkzaamheden
+#### Werkzaamheden 
 
 * Maakt, samen met de chauffeur/pompbediener/technische dienst, het ingezette voertuig inzetgereed.  
 
@@ -3607,9 +3607,9 @@ De manschap A voert met de overige leden van de blusploeg en onder leiding van d
 
 * Neemt met de ploegleden deel aan een evaluatiegesprek over de inzet.  
 
-* Neemt, na een traumatische ervaring, met de ploegleden deel aan een nazorggesprek.    
+* Neemt, na een traumatische ervaring, met de ploegleden deel aan een nazorggesprek.   
 
-####Vereiste competenties en niveaus van functioneren
+#### Vereiste competenties en niveaus van functioneren 
 
 * Accuraat (1)  
 
@@ -3621,39 +3621,39 @@ De manschap A voert met de overige leden van de blusploeg en onder leiding van d
 
 * Mondelinge communicatie (1)  
 
-* Inleven (1)    
+* Inleven (1)   
 
-####Beoordelingscriteria
+#### Beoordelingscriteria 
 
 ####Communicatie
 
 * De manschap kan opdrachten van de bevelvoerder interpreteren en relevante informatie helder aan de bevelvoerder/collega’s mededelen/terugkoppelen.  
 
-* De manschap kan volgens de voorgeschreven procedure communiceren.    
+* De manschap kan volgens de voorgeschreven procedure communiceren.   
 
 ####Gevaar-/risicoherkenning
 
-* De manschap kan de (in)directe bij brand(bestrijding) toepasselijke gevaren herkennen voor: a. voor zichzelf, b. collega’s en andere hulpverleners, c. voor slachtoffers en d. omgeving.    
+* De manschap kan de (in)directe bij brand(bestrijding) toepasselijke gevaren herkennen voor: a. voor zichzelf, b. collega’s en andere hulpverleners, c. voor slachtoffers en d. omgeving.   
 
 ####Persoonlijke bescherming(smiddelen)
 
-* De manschap kan alle persoonlijke beschermingsmiddelen hanteren die hij voor zijn taak nodig heeft. <sup> 1  Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen.  </sup>    
+* De manschap kan alle persoonlijke beschermingsmiddelen hanteren die hij<sup> 1 Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen. </sup>voor zijn taak nodig heeft.   
 
 ####Materialen
 
-* De manschap kan de voor zijn taak toepasselijke materialen selecteren en toepassen.    
+* De manschap kan de voor zijn taak toepasselijke materialen selecteren en toepassen.   
 
 ####Veiligheid
 
-* De manschap is in staat zodanig op te treden dat hij door zijn kennis en manier van handelen vermijdt dat slachtoffers, collega’s, andere hulpverleners en hijzelf in gevaar komen.    
+* De manschap is in staat zodanig op te treden dat hij door zijn kennis en manier van handelen vermijdt dat slachtoffers, collega’s, andere hulpverleners en hijzelf in gevaar komen.   
 
 ####Samenwerken
 
-* De manschap is in staat samen te werken met zijn ploegmaat en met de complete bemensing van de tankautospuit.    
+* De manschap is in staat samen te werken met zijn ploegmaat en met de complete bemensing van de tankautospuit.   
 
 ####Professionele beroepshouding
 
-* De manschap blijft kalm, objectief en effectief functioneren bij tijdsdruk, tegenslag, teleurstelling of tegenspel en kan omgaan met weerstanden van bijvoorbeeld omstanders.    
+* De manschap blijft kalm, objectief en effectief functioneren bij tijdsdruk, tegenslag, teleurstelling of tegenspel en kan omgaan met weerstanden van bijvoorbeeld omstanders.   
 
 ### Taakgebied  2:  
 
@@ -3663,9 +3663,9 @@ De manschap A maakt deel uit van de hulpverleningsploeg en kan onder leiding van
 
 ### Kerntaak  1:  
 
-####Voert uitrukwerkzaamheden uit
+####Voert uitrukwerkzaamheden uit 
 
-####Werkzaamheden
+#### Werkzaamheden 
 
 * Selecteert de persoonlijke beschermingsmiddelen (afhankelijk van de situatie), trekt deze aan en controleert deze.  
 
@@ -3673,9 +3673,9 @@ De manschap A maakt deel uit van de hulpverleningsploeg en kan onder leiding van
 
 * Herkent gevaarssituaties en is in staat adequaat hiernaar te handelen.  
 
-* Communiceert zijn bevindingen met de bevelvoerder en de rest van de ploeg.    
+* Communiceert zijn bevindingen met de bevelvoerder en de rest van de ploeg.   
 
-####Vereiste competenties en niveaus van functioneren
+#### Vereiste competenties en niveaus van functioneren 
 
 * Accuraat (1)  
 
@@ -3687,21 +3687,21 @@ De manschap A maakt deel uit van de hulpverleningsploeg en kan onder leiding van
 
 * Daadkracht (1)  
 
-* Mondeling Communiceren (1)    
+* Mondeling Communiceren (1)   
 
 ### Kerntaak  2:  
 
-####Voert verkenningswerkzaamheden uit
+####Voert verkenningswerkzaamheden uit 
 
-####Werkzaamheden
+#### Werkzaamheden 
 
 * Verkent de situatie.  
 
 * Verkent op eventuele slachtoffers.  
 
-* Verkent op uitbreidingskansen.    
+* Verkent op uitbreidingskansen.   
 
-####Vereiste competenties en niveaus van functioneren
+#### Vereiste competenties en niveaus van functioneren 
 
 * Accuraat (1)  
 
@@ -3715,13 +3715,13 @@ De manschap A maakt deel uit van de hulpverleningsploeg en kan onder leiding van
 
 * Daadkracht (1)  
 
-* Mondeling Communiceren (1)    
+* Mondeling Communiceren (1)   
 
 ### Kerntaak  3:  
 
-####Voert inzetwerkzaamheden uit
+####Voert inzetwerkzaamheden uit 
 
-####Werkzaamheden
+#### Werkzaamheden 
 
 * Zorgt dat er veilig gewerkt kan worden.  
 
@@ -3745,9 +3745,9 @@ De manschap A maakt deel uit van de hulpverleningsploeg en kan onder leiding van
 
 * Bestrijdt de gevolgen van stormschade en/of wateroverlast.  
 
-* Werkt samen met de overige hulpverleningsdiensten.    
+* Werkt samen met de overige hulpverleningsdiensten.   
 
-####Vereiste competenties en niveaus van functioneren
+#### Vereiste competenties en niveaus van functioneren 
 
 * Accuraat (1)  
 
@@ -3763,13 +3763,13 @@ De manschap A maakt deel uit van de hulpverleningsploeg en kan onder leiding van
 
 * Daadkracht (1)  
 
-* Flexibel (1)    
+* Flexibel (1)   
 
 ### Kerntaak  4:  
 
-####Voert nazorgwerkzaamheden uit
+####Voert nazorgwerkzaamheden uit 
 
-####Werkzaamheden
+#### Werkzaamheden 
 
 * Maakt, samen met de chauffeur/pompbediener/technische dienst, het ingezette voertuig inzetgereed.  
 
@@ -3777,9 +3777,9 @@ De manschap A maakt deel uit van de hulpverleningsploeg en kan onder leiding van
 
 * Neemt met de betrokkenen deel aan een evaluatiegesprek over de inzet.  
 
-* Neemt, na een traumatische ervaring, met de ploegleden deel aan een nazorggesprek.    
+* Neemt, na een traumatische ervaring, met de ploegleden deel aan een nazorggesprek.   
 
-####Vereiste competenties en niveaus van functioneren
+#### Vereiste competenties en niveaus van functioneren 
 
 * Accuraat (1)  
 
@@ -3791,45 +3791,45 @@ De manschap A maakt deel uit van de hulpverleningsploeg en kan onder leiding van
 
 * Mondelinge communicatie (1)  
 
-* Inleven (1)    
+* Inleven (1)   
 
-####Beoordelingscriteria
+#### Beoordelingscriteria 
 
 ####Communicatie
 
 * De manschap kan opdrachten van de bevelvoerder interpreteren en relevante informatie helder aan de bevelvoerder, collega’s, andere hulpverleners en betrokkenen mededelen/terugkoppelen  
 
-* De manschap kan volgens de voorgeschreven procedure communiceren.    
+* De manschap kan volgens de voorgeschreven procedure communiceren.   
 
 ####Gevaar-/risicoherkenning
 
-* De manschap heeft voldoende (technisch) inzicht om de (in)directe gevaren, veroorzaakt door eigen handelen, materiaal, omgeving en het incident te herkennen.    
+* De manschap heeft voldoende (technisch) inzicht om de (in)directe gevaren, veroorzaakt door eigen handelen, materiaal, omgeving en het incident te herkennen.   
 
 ####Samenwerking met andere hulpverleners
 
 * De manschap begrijpt de rolverdeling en taken van de andere hulpverleners/betrokkenen  
 
-* De manschap is in staat gegeven opdrachten snel en flexibel uit te voeren.    
+* De manschap is in staat gegeven opdrachten snel en flexibel uit te voeren.   
 
 ####Persoonlijke bescherming(smiddelen)
 
-* De manschap kan alle persoonlijke beschermingsmiddelen hanteren die hij voor zijn taak nodig heeft.    
+* De manschap kan alle persoonlijke beschermingsmiddelen hanteren die hij voor zijn taak nodig heeft.   
 
 ####Materialen
 
-* De manschap kan de voor zijn taak toepasselijke materialen selecteren en toepassen en weet wat de gevolgen van de werkzaamheden kunnen zijn.    
+* De manschap kan de voor zijn taak toepasselijke materialen selecteren en toepassen en weet wat de gevolgen van de werkzaamheden kunnen zijn.   
 
 ####Veiligheid
 
-* De manschap is in staat zodanig op te treden dat hij door zijn kennis en manier van handelen vermijdt dat hijzelf, slachtoffers, collega’s, andere hulpverleners en omgeving in gevaar komen.    
+* De manschap is in staat zodanig op te treden dat hij door zijn kennis en manier van handelen vermijdt dat hijzelf, slachtoffers, collega’s, andere hulpverleners en omgeving in gevaar komen.   
 
 ####Samenwerken
 
-* De manschap is in staat samen te werken met zijn ploegmaat en met de complete bemensing van de tankautospuit.    
+* De manschap is in staat samen te werken met zijn ploegmaat en met de complete bemensing van de tankautospuit.   
 
 ####Professionele beroepshouding
 
-* De manschap blijft kalm, objectief en effectief functioneren bij tijdsdruk, tegenslag, teleurstelling of tegenspel en kan omgaan met weerstanden.    
+* De manschap blijft kalm, objectief en effectief functioneren bij tijdsdruk, tegenslag, teleurstelling of tegenspel en kan omgaan met weerstanden.   
 
 ### Taakgebied  3:  
 
@@ -3839,9 +3839,9 @@ De manschap A voert met de overige leden van de blusploeg onder leiding van een 
 
 ### Kerntaak  1:  
 
-####Voert uitrukwerkzaamheden uit
+####Voert uitrukwerkzaamheden uit 
 
-####Werkzaamheden
+#### Werkzaamheden 
 
 * Selecteert de persoonlijke beschermingsmiddelen (afhankelijk van de situatie), trekt deze aan en controleert deze.  
 
@@ -3849,9 +3849,9 @@ De manschap A voert met de overige leden van de blusploeg onder leiding van een 
 
 * Herkent gevaarsituaties en is in staat adequaat hiernaar te handelen.  
 
-* Communiceert zijn bevindingen met de bevelvoerder en de rest van de ploeg.    
+* Communiceert zijn bevindingen met de bevelvoerder en de rest van de ploeg.   
 
-####Vereiste competenties en niveaus van functioneren
+#### Vereiste competenties en niveaus van functioneren 
 
 * Accuraat (1)  
 
@@ -3863,13 +3863,13 @@ De manschap A voert met de overige leden van de blusploeg onder leiding van een 
 
 * Daadkracht (1)  
 
-* Mondeling Communiceren (1)    
+* Mondeling Communiceren (1)   
 
 ### Kerntaak  2:  
 
-####Voert verkenningswerkzaamheden uit
+#### Voert verkenningswerkzaamheden uit 
 
-####Werkzaamheden
+#### Werkzaamheden 
 
 * Past de benodigde persoonlijke beschermingsmiddelen toe.  
 
@@ -3879,9 +3879,9 @@ De manschap A voert met de overige leden van de blusploeg onder leiding van een 
 
 * Verkent op eventuele slachtoffers.  
 
-* Verkent op uitbreidingsmogelijkheden.    
+* Verkent op uitbreidingsmogelijkheden.   
 
-####Vereiste competenties en niveaus van functioneren
+#### Vereiste competenties en niveaus van functioneren 
 
 * Accuraat (1)  
 
@@ -3895,13 +3895,13 @@ De manschap A voert met de overige leden van de blusploeg onder leiding van een 
 
 * Daadkracht (1)  
 
-* Mondeling communiceren (1)    
+* Mondeling communiceren (1)   
 
 ### Kerntaak  3:  
 
-####Voert inzetwerkzaamheden uit
+####Voert inzetwerkzaamheden uit 
 
-####Werkzaamheden
+#### Werkzaamheden 
 
 * Maakt het benodigde materiaal voor inzet gereed.  
 
@@ -3921,9 +3921,9 @@ De manschap A voert met de overige leden van de blusploeg onder leiding van een 
 
 * Voert het registratieonderdeel van de ontsmettingsprocedure uit.  
 
-* Voert metingen uit.    
+* Voert metingen uit.   
 
-####Vereiste competenties en niveaus van functioneren
+#### Vereiste competenties en niveaus van functioneren 
 
 * Accuraat (1)  
 
@@ -3939,13 +3939,13 @@ De manschap A voert met de overige leden van de blusploeg onder leiding van een 
 
 * Daadkracht (1)  
 
-* Flexibel (1)    
+* Flexibel (1)   
 
 ### Kerntaak  4:  
 
-####Voert nazorgwerkzaamheden uit
+####Voert nazorgwerkzaamheden uit 
 
-####Werkzaamheden
+#### Werkzaamheden 
 
 * Maakt, samen met de chauffeur/pompbediener/technische dienst, het ingezette voertuig inzetgereed.  
 
@@ -3953,9 +3953,9 @@ De manschap A voert met de overige leden van de blusploeg onder leiding van een 
 
 * Neemt met de ploegleden deel aan een evaluatiegesprek over de inzet.  
 
-* Neemt, na een traumatische ervaring, met de ploegleden deel aan een nazorggesprek.    
+* Neemt, na een traumatische ervaring, met de ploegleden deel aan een nazorggesprek.   
 
-####Vereiste competenties en niveaus van functioneren
+#### Vereiste competenties en niveaus van functioneren 
 
 * Accuraat (1)  
 
@@ -3967,47 +3967,47 @@ De manschap A voert met de overige leden van de blusploeg onder leiding van een 
 
 * Mondelinge communicatie (1)  
 
-* Inleven (1)    
+* Inleven (1)   
 
-####Beoordelingscriteria
+#### Beoordelingscriteria 
 
 ####Communicatie
 
-* De manschap kan volgens de voorgeschreven procedure communiceren en een heldere omschrijving van de situatie aan de inzetleider/bevelvoerder/adviseur gevaarlijke stoffen geven; hij verstrekt de relevante informatie en doet dat helder.    
+* De manschap kan volgens de voorgeschreven procedure communiceren en een heldere omschrijving van de situatie aan de inzetleider/bevelvoerder/adviseur gevaarlijke stoffen geven; hij verstrekt de relevante informatie en doet dat helder.   
 
 ####Gevaar-/risicoherkenning
 
 * De manschap heeft voldoende (technisch) inzicht om de (in)directe gevaren te herkennen.  
 
-* De manschap kan zelfstandig de beslissing nemen om een veilige grijpredding uit te voeren.    
+* De manschap kan zelfstandig de beslissing nemen om een veilige grijpredding uit te voeren.   
 
 ####Veiligheid
 
-* De manschap is in staat zodanig op te treden dat hij door zijn kennis en manier van handelen vermijdt dat hijzelf, slachtoffers, collega’s, andere hulpverleners en omgeving in gevaar komen.    
+* De manschap is in staat zodanig op te treden dat hij door zijn kennis en manier van handelen vermijdt dat hijzelf, slachtoffers, collega’s, andere hulpverleners en omgeving in gevaar komen.   
 
 ####Samenwerken
 
-* De manschap is in staat om samen te werken met zijn ploegmaat en met de complete bemensing van de tankautospuit.    
+* De manschap is in staat om samen te werken met zijn ploegmaat en met de complete bemensing van de tankautospuit.   
 
 ####Professionele beroepshouding
 
-* De manschap blijft kalm, objectief en effectief functioneren bij tijdsdruk, tegenslag, teleurstelling of tegenspel en kan omgaan met weerstanden (bijvoorbeeld van omstanders).    
+* De manschap blijft kalm, objectief en effectief functioneren bij tijdsdruk, tegenslag, teleurstelling of tegenspel en kan omgaan met weerstanden (bijvoorbeeld van omstanders).   
 
 ####Persoonlijke bescherming(smiddelen)
 
-* De manschap kan alle persoonlijke beschermingsmiddelen hanteren die hij voor zijn taak nodig heeft.    
+* De manschap kan alle persoonlijke beschermingsmiddelen hanteren die hij voor zijn taak nodig heeft.   
 
 ####Materialen
 
-* De manschap kan de voor zijn taak toepasselijke materialen selecteren en op de juiste wijze toepassen en weet wat de gevolgen daarvan kunnen zijn.    
+* De manschap kan de voor zijn taak toepasselijke materialen selecteren en op de juiste wijze toepassen en weet wat de gevolgen daarvan kunnen zijn.   
 
 ####Ontsmetting
 
-* De manschap kan een ontsmettingveld inrichten.    
+* De manschap kan een ontsmettingveld inrichten.   
 
 ####Lekkage
 
-* De manschap maakt een juiste inschatting van de grootte van de lekkage.    
+* De manschap maakt een juiste inschatting van de grootte van de lekkage.   
 
 ### Taakgebied  4:  
 
@@ -4017,9 +4017,9 @@ De manschap A voert met de overige leden van de blusploeg onder leiding van de b
 
 ### Kerntaak  1:  
 
-####Voert uitrukwerkzaamheden uit
+####Voert uitrukwerkzaamheden uit 
 
-####Werkzaamheden
+#### Werkzaamheden 
 
 * Selecteert de persoonlijke beschermingsmiddelen (afhankelijk van de situatie), trekt deze aan en controleert deze.  
 
@@ -4027,9 +4027,9 @@ De manschap A voert met de overige leden van de blusploeg onder leiding van de b
 
 * Herkent gevaarlijke situaties en is in staat adequaat hiernaar te handelen.  
 
-* Communiceert zijn bevindingen met de bevelvoerder en de rest van de ploeg.    
+* Communiceert zijn bevindingen met de bevelvoerder en de rest van de ploeg.   
 
-####Vereiste competenties en niveaus van functioneren
+#### Vereiste competenties en niveaus van functioneren 
 
 * Accuraat (1)  
 
@@ -4041,17 +4041,17 @@ De manschap A voert met de overige leden van de blusploeg onder leiding van de b
 
 * Daadkracht (1)  
 
-* Mondeling Communiceren (1)    
+* Mondeling Communiceren (1)   
 
 ### Kerntaak  2:  
 
-####Voert verkenningswerkzaamheden uit
+####Voert verkenningswerkzaamheden uit 
 
-####Werkzaamheden
+#### Werkzaamheden 
 
-* Traceert het voertuig/slachtoffer aan de hand van sporen en met behulp van omstanders.    
+* Traceert het voertuig/slachtoffer aan de hand van sporen en met behulp van omstanders.   
 
-####Vereiste competenties en niveaus van functioneren
+#### Vereiste competenties en niveaus van functioneren 
 
 * Accuraat (1)  
 
@@ -4065,13 +4065,13 @@ De manschap A voert met de overige leden van de blusploeg onder leiding van de b
 
 * Daadkracht (1)  
 
-* Mondeling Communiceren (1)    
+* Mondeling Communiceren (1)   
 
 ### Kerntaak  3:  
 
-####Voert inzetwerkzaamheden uit
+####Voert inzetwerkzaamheden uit 
 
-####Werkzaamheden
+#### Werkzaamheden 
 
 * Maakt incidentlocatie gereed voor de inzet van de duikploeg.  
 
@@ -4089,9 +4089,9 @@ De manschap A voert met de overige leden van de blusploeg onder leiding van de b
 
 * Helpt duikploegleden bij het op de kant brengen van slachtoffers.  
 
-* Past de protocollen levensreddend handelen toe.    
+* Past de protocollen levensreddend handelen toe.   
 
-####Vereiste competenties en niveaus van functioneren
+#### Vereiste competenties en niveaus van functioneren 
 
 * Accuraat (1)  
 
@@ -4107,13 +4107,13 @@ De manschap A voert met de overige leden van de blusploeg onder leiding van de b
 
 * Daadkracht (1)  
 
-* Flexibel (1)    
+* Flexibel (1)   
 
 ### Kerntaak  4:  
 
-####Voert nazorgwerkzaamheden uit
+####Voert nazorgwerkzaamheden uit 
 
-####Werkzaamheden
+#### Werkzaamheden 
 
 * Maakt, samen met de chauffeur/pompbediener/technische dienst, het ingezette voertuig inzetgereed.  
 
@@ -4121,9 +4121,9 @@ De manschap A voert met de overige leden van de blusploeg onder leiding van de b
 
 * Neemt met de ploegleden deel aan een evaluatiegesprek over de inzet.  
 
-* Neemt, na een traumatische ervaring, met de ploegleden deel aan een nazorggesprek.    
+* Neemt, na een traumatische ervaring, met de ploegleden deel aan een nazorggesprek.   
 
-####Vereiste competenties en niveaus van functioneren
+#### Vereiste competenties en niveaus van functioneren 
 
 * Accuraat (1)  
 
@@ -4135,35 +4135,35 @@ De manschap A voert met de overige leden van de blusploeg onder leiding van de b
 
 * Mondelinge communicatie (1)  
 
-* Inleven (1)    
+* Inleven (1)   
 
-####Beoordelingscriteria
+#### Beoordelingscriteria
 
 ####Communicatie
 
 * De manschap kan opdrachten van de bevelvoerder interpreteren en relevante informatie helder aan de bevelvoerder, collega’s, andere hulpverleners en betrokkenen mededelen/terugkoppelen.  
 
-* De manschap kan volgens de juiste procedure communiceren.    
+* De manschap kan volgens de juiste procedure communiceren.   
 
 ####Gevaar-/risicoherkenning
 
-* De manschap heeft voldoende (technisch) inzicht om de (in)directe gevaren te herkennen.    
+* De manschap heeft voldoende (technisch) inzicht om de (in)directe gevaren te herkennen.   
 
 ####Persoonlijke bescherming(smiddelen)
 
-* De manschap kan alle persoonlijke beschermingsmiddelen hanteren die hij voor zijn taak nodig heeft.    
+* De manschap kan alle persoonlijke beschermingsmiddelen hanteren die hij voor zijn taak nodig heeft.   
 
 ####Veiligheid
 
-* De manschap is in staat zodanig op te treden dat hij door zijn kennis en manier van handelen vermijdt dat hijzelf, slachtoffers, collega’s, andere hulpverleners en omgeving in gevaar komen.    
+* De manschap is in staat zodanig op te treden dat hij door zijn kennis en manier van handelen vermijdt dat hijzelf, slachtoffers, collega’s, andere hulpverleners en omgeving in gevaar komen.   
 
 ####Samenwerken
 
-* De manschap is in staat samen te werken met zijn ploegmaat en met de complete bemensing van de tankautospuit.    
+* De manschap is in staat samen te werken met zijn ploegmaat en met de complete bemensing van de tankautospuit.   
 
 ####Professionele beroepshouding
 
-* De manschap blijft kalm, objectief en effectief functioneren bij tijdsdruk, tegenslag, teleurstelling of tegenspel en kan omgaan met weerstanden (bijvoorbeeld van omstanders).    
+* De manschap blijft kalm, objectief en effectief functioneren bij tijdsdruk, tegenslag, teleurstelling of tegenspel en kan omgaan met weerstanden (bijvoorbeeld van omstanders).   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -4185,7 +4185,7 @@ Functie zoals genoemd in [artikel 2 lid 1 sub o Besluit personeel veiligheidsreg
 | --- | --- |
 | --- | Voor de kerntaak ‘Leidinggeven aan specifieke werkzaamheden’ en dan met name voor het onderdeel specifieke voertuigen, geldt als eis voor het optreden als zodanig ook het certificaat voor het specifieke voertuig als voertuigbediener.  |
 
-¹ Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen.  
+¹ Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen.
 
 ### 2.1  
 
@@ -4195,13 +4195,13 @@ Functie zoals genoemd in [artikel 2 lid 1 sub o Besluit personeel veiligheidsreg
 
 ####Geven van voorlichting
 
-De manschap B geeft algemene voorlichting over de werkzaamheden van de brandweer aan specifieke doelgroepen.  
+De manschap B geeft algemene voorlichting over de werkzaamheden van de brandweer aan specifieke doelgroepen. 
 
 ### Kerntaak  2:  
 
 ####Leidinggeven aan specifieke werkzaamheden
 
-De manschap B stuurt onder supervisie van een bevelvoerder een klein team aan bij het uitvoeren van specifieke werkzaamheden. Bij niet spoedeisende hulpverlening en dienstverlening treedt hij zelfstandig op.  
+De manschap B stuurt onder supervisie van een bevelvoerder een klein team aan bij het uitvoeren van specifieke werkzaamheden. Bij niet spoedeisende hulpverlening en dienstverlening treedt hij zelfstandig op. 
 
 | Functie: manschap B  | Kerntaken  | Organisatie  | Omgeving  |--- | resultaat gericht  | oordelen  | innoveren/creativiteit  | daadkracht  | flexibel  | inleven  | mondeling communiceren  | onafhankelijk  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -4212,7 +4212,7 @@ De manschap B stuurt onder supervisie van een bevelvoerder een klein team aan bi
 |:---|:---|:---|:---|:---|
 | Incidentbestrijding  | x  | --- | --- |
 
-In supplement gg is de competentiematrix uitgewerkt.  
+In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -4230,13 +4230,13 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 – tijdens open dagen.    
 
-* Koppelt vragen terug en geeft opmerkingen door aan de organisatie waaraan voorlichting is gegeven    
+* Koppelt vragen terug en geeft opmerkingen door aan de organisatie waaraan voorlichting is gegeven   
 
 ####Vereiste competenties en niveaus van functioneren
 
 * Innoveren/creativiteit (1)  
 
-* Flexibel (1)    
+* Flexibel (1)   
 
 ####Beoordelingscriteria
 
@@ -4252,7 +4252,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Weet waar hij de informatie kan halen.  
 
-* Weet politiek- en bestuurlijk en organisatie gevoelige zaken te herkennen en op de juiste wijze door te spelen.    
+* Weet politiek- en bestuurlijk en organisatie gevoelige zaken te herkennen en op de juiste wijze door te spelen.   
 
 ### Kerntaak  2:  
 
@@ -4266,7 +4266,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Levert input voor de incidentrapportage of doet dit zelfstandig.  
 
-* Treedt zelfstandig op bij dienstverlening.    
+* Treedt zelfstandig op bij dienstverlening.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -4274,7 +4274,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Mondeling communiceren (1)  
 
-* Onafhankelijk (1)    
+* Onafhankelijk (1)   
 
 ####Beoordelingscriteria
 
@@ -4290,7 +4290,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Heeft aandacht voor de veiligheid van eigen personeel en anderen.  
 
-* Bewaakt de fysieke inzetbelasting van zijn team.    
+* Bewaakt de fysieke inzetbelasting van zijn team.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -4318,25 +4318,25 @@ Functie zoals genoemd in [artikel 2 lid 1 sub p Besluit personeel veiligheidsreg
 
 ####Adviseren bij standaard en niet-complexe plantoetsing
 
-De medewerker brandpreventie adviseert bij standaard bouwvergunningen en niet-complexe milieuvergunningen en meldingen. Daarnaast behandelt hij vergunningen op basis van de Algemene Plaatselijke Verordening (APV) en Brandbeveiligingsverordening (BBV) in het kader van brandveilig gebruik. Adviseren bij en behandelen van gebruiksmeldingen en gebruiksvergunningen op basis van het [Besluit brandveilig gebruik bouwwerken](../../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md) behoren ook tot de werkzaamheden.  
+De medewerker brandpreventie adviseert bij standaard bouwvergunningen en niet-complexe milieuvergunningen en meldingen. Daarnaast behandelt hij vergunningen op basis van de Algemene Plaatselijke Verordening (APV) en Brandbeveiligingsverordening (BBV) in het kader van brandveilig gebruik. Adviseren bij en behandelen van gebruiksmeldingen en gebruiksvergunningen op basis van het [Besluit brandveilig gebruik bouwwerken](../../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md) behoren ook tot de werkzaamheden. 
 
 ### Kerntaak  2:  
 
 ####Uitvoeren van inspecties brandpreventie
 
-De medewerker brandpreventie voert (integrale brandveiligheids-) inspecties uit en rapporteert hierover.  
+De medewerker brandpreventie voert (integrale brandveiligheids-) inspecties uit en rapporteert hierover. 
 
 ### Kerntaak  3:  
 
 ####Onderhouden van netwerken en relevante in- en externe contacten
 
-De medewerker brandpreventie onderhoudt contacten met alle partners die van belang zijn voor het uitvoeren van zijn werkzaamheden.  
+De medewerker brandpreventie onderhoudt contacten met alle partners die van belang zijn voor het uitvoeren van zijn werkzaamheden. 
 
 ### Kerntaak  4:  
 
 ####Geven van voorlichting over brandpreventie
 
-De medewerker brandpreventie geeft voorlichting over zijn werkzaamheden aan diverse doelgroepen, zorgt voor informatieoverdracht aan de repressieve dienst en werkt mee aan voorlichtingscampagnes.  
+De medewerker brandpreventie geeft voorlichting over zijn werkzaamheden aan diverse doelgroepen, zorgt voor informatieoverdracht aan de repressieve dienst en werkt mee aan voorlichtingscampagnes. 
 
 | Functie: medewerker brandpreventie  | Kerntaken  | Organisatie  | Omgeving  |--- | analyseren  | oordelen  | accuraat  | flexibel  | mondeling communiceren  | onafhankelijk  | samenwerken  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -4345,7 +4345,7 @@ De medewerker brandpreventie geeft voorlichting over zijn werkzaamheden aan dive
 | Onderhouden van netwerken en relevante in- en externe contacten  | --- | --- | --- | --- | --- | --- | 1  |
 | Geven van voorlichting over brandpreventie  | --- | --- | --- | --- | 1  | --- | --- |
 
-Er zijn geen vakmatige en kenniscompetenties voor de medewerker brandpreventie vastgesteld. In supplement gg is de competentiematrix uitgewerkt.  
+Er zijn geen vakmatige en kenniscompetenties voor de medewerker brandpreventie vastgesteld. In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -4369,7 +4369,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de medewerker brandpreventie v
 
 * - installatietechnische voorzieningen (goedkeuring Programma van Eisen (PvE) e.d. (ook voor bouwplantoetsing)).  
 
-* Stelt een schriftelijk advies op voor de vergunning verlenende afdelingen.    
+* Stelt een schriftelijk advies op voor de vergunning verlenende afdelingen.   
 
 ####Vergunningen op basis van APV en BBV in het kader van het brandveilig gebruik
 
@@ -4381,7 +4381,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de medewerker brandpreventie v
 
 * Toetst het object aan de hand van tekeningen, eventueel ter plaatse.  
 
-* Stelt een schriftelijk advies op voor de vergunning verlenende afdelingen.    
+* Stelt een schriftelijk advies op voor de vergunning verlenende afdelingen.   
 
 ####Gebruiksmeldingen en gebruiksvergunningen op basis van het [Besluit brandveilig gebruik bouwwerken](../../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md)
 
@@ -4393,7 +4393,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de medewerker brandpreventie v
 
 * Toetst het object aan de hand van tekeningen, eventueel ter plaatse.  
 
-* Stelt een schriftelijk advies op voor de vergunning verlenende afdelingen.    
+* Stelt een schriftelijk advies op voor de vergunning verlenende afdelingen.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -4405,7 +4405,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de medewerker brandpreventie v
 
 * Onafhankelijk (1)  
 
-* Samenwerken (1)    
+* Samenwerken (1)   
 
 ####Beoordelingscriteria
 
@@ -4429,7 +4429,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de medewerker brandpreventie v
 
 * Heeft basiskennis op het gebied van installatietechniek.  
 
-* Heeft een professionele beroepshouding.    
+* Heeft een professionele beroepshouding.   
 
 ### Kerntaak  2:  
 
@@ -4449,7 +4449,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de medewerker brandpreventie v
 
 * Voert (zo nodig) herinspectie uit.  
 
-* Signaleert repressieve aandachtspunten en communiceert deze met de betreffende afdeling.    
+* Signaleert repressieve aandachtspunten en communiceert deze met de betreffende afdeling.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -4463,7 +4463,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de medewerker brandpreventie v
 
 * Mondeling communiceren (1)  
 
-* Onafhankelijk (1)    
+* Onafhankelijk (1)   
 
 ####Beoordelingscriteria
 
@@ -4489,7 +4489,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de medewerker brandpreventie v
 
 * Is zowel mondeling als schriftelijk communicatief vaardig.  
 
-* Heeft een professionele beroepshouding.    
+* Heeft een professionele beroepshouding.   
 
 ### Kerntaak  3:  
 
@@ -4505,11 +4505,11 @@ Er zijn geen vakmatige en kenniscompetenties voor de medewerker brandpreventie v
 
 * Neemt deel aan overlegvormen binnen de eigen organisatie.  
 
-* Neemt deel aan project- en werkgroepen.    
+* Neemt deel aan project- en werkgroepen.   
 
 ####Vereiste competenties en niveaus van functioneren
 
-* Samenwerken (1)    
+* Samenwerken (1)   
 
 ####Beoordelingscriteria
 
@@ -4519,7 +4519,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de medewerker brandpreventie v
 
 * Heeft basiskennis van die preparatieve en repressieve activiteiten van de brandweer, die van belang zijn voor zijn vakgebied.  
 
-* Heeft een professionele beroepshouding.    
+* Heeft een professionele beroepshouding.   
 
 ### Kerntaak  4:  
 
@@ -4539,11 +4539,11 @@ Er zijn geen vakmatige en kenniscompetenties voor de medewerker brandpreventie v
 
 * Heeft informatieoverdracht over brandpreventieve zaken t.b.v. de repressieve dienst.  
 
-* Werkt mee aan voorlichtingscampagnes.    
+* Werkt mee aan voorlichtingscampagnes.   
 
 ####Vereiste competenties en niveaus van functioneren
 
-* Mondeling communiceren (1)    
+* Mondeling communiceren (1)   
 
 ####Beoordelingscriteria
 
@@ -4553,7 +4553,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de medewerker brandpreventie v
 
 * Heeft het analytisch vermogen om tot een keuze te komen.  
 
-* Heeft een professionele beroepshouding.    
+* Heeft een professionele beroepshouding.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -4581,13 +4581,13 @@ Functie zoals genoemd in [artikel 2 lid 1 sub q Besluit personeel veiligheidsreg
 
 ####Verlenen van logistieke ondersteuning
 
-De medewerker operationele voorbereiding draagt er zorg voor dat de benodigde middelen op het juiste moment op de juiste plaats zijn zodat de repressieve taak goed uitgevoerd kan worden.  
+De medewerker operationele voorbereiding draagt er zorg voor dat de benodigde middelen op het juiste moment op de juiste plaats zijn zodat de repressieve taak goed uitgevoerd kan worden. 
 
 ### Kerntaak  2:  
 
 ####Leveren van informatie voor de operationele dienst
 
-De medewerker operationele voorbereiding draagt zorg voor de controle van bluswatervoorzieningen (o.a. brandkranen), zoekt en verstrekt informatie aan de repressieve dienst over actuele wijzigingen in de infrastructuur in het verzorgingsgebied (bijvoorbeeld in de vorm van bereikbaarheid- en aanvalskaarten) en zoekt en verstrekt informatie aan de repressieve dienst over objecten, zoals de bereikbaarheid van veiligheidsvoorzieningen in objecten.  
+De medewerker operationele voorbereiding draagt zorg voor de controle van bluswatervoorzieningen (o.a. brandkranen), zoekt en verstrekt informatie aan de repressieve dienst over actuele wijzigingen in de infrastructuur in het verzorgingsgebied (bijvoorbeeld in de vorm van bereikbaarheid- en aanvalskaarten) en zoekt en verstrekt informatie aan de repressieve dienst over objecten, zoals de bereikbaarheid van veiligheidsvoorzieningen in objecten. 
 
 ####Materieelbeheer
 
@@ -4595,7 +4595,7 @@ De medewerker operationele voorbereiding draagt zorg voor de controle van bluswa
 
 ####Uitvoeren van taken op het gebied van materieel beheer
 
-De medewerker operationele voorbereiding zorgt voor onderhoud van materieel en materiaal. Hij adviseert zijn leidinggevende over nieuw aan te schaffen materieel en materiaal en geeft input voor beleid op het gebied van materieelbeheer. Hij verzorgt instructie over het gebruik van materieel en materiaal. <sup> 1  Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen.  </sup>  
+De medewerker operationele voorbereiding zorgt voor onderhoud van materieel en materiaal. Hij<sup> 1 Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen. </sup>adviseert zijn leidinggevende over nieuw aan te schaffen materieel en materiaal en geeft input voor beleid op het gebied van materieelbeheer. Hij verzorgt instructie over het gebruik van materieel en materiaal. 
 
 | Functie: Medewerker operationele voorbereiding  | Kerntaken  | Organisatie  | Omgeving  |--- | Innoveren/creativiteit  | Problemen oplossen  | Plannen, organiseren en coördineren  | Flexibel  | Daadkracht  | Mondeling communiceren  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -4604,7 +4604,7 @@ De medewerker operationele voorbereiding zorgt voor onderhoud van materieel en m
 | Leveren van informatie voor de operationele dienst  | 1  | --- | 1  | --- | --- | 1  |
 | Uitvoeren van taken op het gebied van onderhoud en aanschaf  | 1  | 1  | --- | 1  | --- | 1  |
 
-Er zijn geen vakmatige en kenniscompetenties voor de medewerker operationele voorbereiding vastgesteld. In supplement gg is de competentiematrix uitgewerkt.  
+Er zijn geen vakmatige en kenniscompetenties voor de medewerker operationele voorbereiding vastgesteld. In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -4620,7 +4620,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de medewerker operationele voo
 
 * Draagt er zorg voor dat de benodigde middelen op het juiste moment op de juiste plaats zijn zodat de repressieve taak goed uitgevoerd kan worden.  
 
-* Zorgt dat de voorraden ten behoeve van de repressieve dienst op orde zijn.    
+* Zorgt dat de voorraden ten behoeve van de repressieve dienst op orde zijn.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -4628,7 +4628,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de medewerker operationele voo
 
 * Flexibel (1)  
 
-* Daadkracht (1)    
+* Daadkracht (1)   
 
 ####Beoordelingscriteria
 
@@ -4644,7 +4644,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de medewerker operationele voo
 
 * Kent het netwerk van interne en externe partners.  
 
-* Heeft kennis van de brandweerorganisatie en de multidisciplinaire partners.    
+* Heeft kennis van de brandweerorganisatie en de multidisciplinaire partners.   
 
 ### Kerntaak  2:  
 
@@ -4656,7 +4656,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de medewerker operationele voo
 
 * Zoekt en verstrekt informatie aan de repressieve dienst over actuele wijzigingen in de infrastructuur in het verzorgingsgebied (bijvoorbeeld in de vorm van bereikbaarheid- en aanvalskaarten).  
 
-* Zoekt en verstrekt informatie aan de repressieve dienst over objecten, zoals de bereikbaarheid van veiligheidsvoorzieningen in objecten.    
+* Zoekt en verstrekt informatie aan de repressieve dienst over objecten, zoals de bereikbaarheid van veiligheidsvoorzieningen in objecten.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -4664,7 +4664,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de medewerker operationele voo
 
 * Plannen, organiseren en coördineren (1)  
 
-* Mondeling communiceren (1)    
+* Mondeling communiceren (1)   
 
 ####Beoordelingscriteria
 
@@ -4688,7 +4688,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de medewerker operationele voo
 
 * Is bekend met het netwerk van interne en externe partners.  
 
-* Heeft kennis van de brandweerorganisatie en de multidisciplinaire partners.    
+* Heeft kennis van de brandweerorganisatie en de multidisciplinaire partners.   
 
 ### Kerntaak  3:  
 
@@ -4702,7 +4702,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de medewerker operationele voo
 
 * Adviseert aan zijn leidinggevende over het beleid op het gebied van materieel beheer.  
 
-* Draagt zorg voor gebruiksinstructie ten aanzien van materieel en materiaal.    
+* Draagt zorg voor gebruiksinstructie ten aanzien van materieel en materiaal.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -4712,7 +4712,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de medewerker operationele voo
 
 * Flexibel (1)  
 
-* Mondeling communiceren (1)    
+* Mondeling communiceren (1)   
 
 ####Beoordelingscriteria
 
@@ -4738,7 +4738,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de medewerker operationele voo
 
 * Is bekend met het netwerk van interne en externe partners.  
 
-* In staat om te gaan met tegenstrijdige belangen.    
+* In staat om te gaan met tegenstrijdige belangen.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -4768,19 +4768,19 @@ Functie zoals genoemd in [artikel 2 lid 1 sub r Besluit personeel veiligheidsreg
 
 ####Draagt bij aan het ontwikkelen van beleid op het gebied van opleiden en oefenen
 
-De medewerker opleiden en oefenen levert een inhoudelijke bijdrage aan het opstellen van het (meerjaren)beleid op het gebied van opleiden en oefenen en het regionaal of gemeentelijk jaarplan voor opleiden en oefenen. Hij draagt voor zijn eigen bijdrage zorg voor de afstemming van het meerjarenbeleid met opleidings- en oefenplannen van andere diensten en de behoefte van de werkomgeving (de eigen organisatie en die van de partners).  
+De medewerker opleiden en oefenen levert een inhoudelijke bijdrage aan het opstellen van het (meerjaren)beleid op het gebied van opleiden en oefenen en het regionaal of gemeentelijk jaarplan voor opleiden en oefenen. Hij draagt voor zijn eigen bijdrage zorg voor de afstemming van het meerjarenbeleid met opleidings- en oefenplannen van andere diensten en de behoefte van de werkomgeving (de eigen organisatie en die van de partners). 
 
 ### Kerntaak  2:  
 
 ####Coördineert de uitvoering van beleid
 
-De medewerker opleiden en oefenen vertaalt het vastgestelde beleid in (regionale) opleidings- en oefentrajecten en draagt in overleg met het regionaal opleidingsinstituut en het regionaal oefenbureau zorg voor de uitvoering ervan.  
+De medewerker opleiden en oefenen vertaalt het vastgestelde beleid in (regionale) opleidings- en oefentrajecten en draagt in overleg met het regionaal opleidingsinstituut en het regionaal oefenbureau zorg voor de uitvoering ervan. 
 
 ### Kerntaak  3:  
 
 ####Kwaliteitsbewaking
 
-De medewerker opleiden en oefenen bewaakt de kwaliteit van de uitvoering van de opleidings- en oefentrajecten. Hij verzamelt evaluatiegegevens en vertaalt deze naar voorstellen voor mogelijke aanpassingen van beleid. De medewerker opleiden en oefenen is verantwoordelijk voor de registratie van relevante opleidings- en oefengegevens dan wel de organisatie daarvan.  
+De medewerker opleiden en oefenen bewaakt de kwaliteit van de uitvoering van de opleidings- en oefentrajecten. Hij verzamelt evaluatiegegevens en vertaalt deze naar voorstellen voor mogelijke aanpassingen van beleid. De medewerker opleiden en oefenen is verantwoordelijk voor de registratie van relevante opleidings- en oefengegevens dan wel de organisatie daarvan. 
 
 | Functie: medewerker opleiden en oefenen  | Kerntaken  | Organisatie  | Omgeving  |--- | Leren en reflecteren  | Plannen, organiseren en coördineren  | Resultaatgericht  | Flexibel  | Daadkracht  | Mondeling communiceren  | Samenwerken  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -4788,7 +4788,7 @@ De medewerker opleiden en oefenen bewaakt de kwaliteit van de uitvoering van de 
 | Coördineert de uitvoering van beleid  | 1  | 2  | 1  | 1  | 1  | 1  | 2  |
 | Kwaliteitsbewaking  | 1  | 1  | --- | --- | 1  | --- | 1  |
 
-Er zijn geen vakmatige en kenniscompetenties voor de medewerker opleiden en oefenen vastgesteld. In supplement gg is de competentiematrix uitgewerkt.  
+Er zijn geen vakmatige en kenniscompetenties voor de medewerker opleiden en oefenen vastgesteld. In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -4812,7 +4812,7 @@ De medewerker opleiden en oefenen:
 
 * Zorgt voor een structuur om het opleidings- en oefenbeleid te implementeren.  
 
-* Adviseert de specialist opleiden en oefenen.    
+* Adviseert de specialist opleiden en oefenen.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -4822,7 +4822,7 @@ De medewerker opleiden en oefenen:
 
 * Mondeling communiceren (1)  
 
-* Samenwerken (1)    
+* Samenwerken (1)   
 
 ####Beoordelingscriteria
 
@@ -4836,7 +4836,7 @@ De medewerker opleiden en oefenen:
 
 * Is in staat om de behoefte aan opleiden en oefenen te inventariseren.  
 
-* Is een volwaardig (inhoudelijk) gesprekspartner voor alle betrokkenen o.a. doordat hij zich kan inleven in de belangen van deze betrokkenen.    
+* Is een volwaardig (inhoudelijk) gesprekspartner voor alle betrokkenen o.a. doordat hij zich kan inleven in de belangen van deze betrokkenen.   
 
 ### Kerntaak  2:  
 
@@ -4862,7 +4862,7 @@ De medewerker opleiden en oefenen:
 
 * Draagt zorg voor de registratie van opleidingen en/of oefeningen of de organisatie daarvan.  
 
-* Organiseert (tussentijdse) toetsen, examens en beoordelingsmomenten.    
+* Organiseert (tussentijdse) toetsen, examens en beoordelingsmomenten.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -4878,7 +4878,7 @@ De medewerker opleiden en oefenen:
 
 * Mondelinge communicatie (1)  
 
-* Samenwerken (2)    
+* Samenwerken (2)   
 
 ####Beoordelingscriteria
 
@@ -4892,7 +4892,7 @@ De medewerker opleiden en oefenen:
 
 * Is in staat om opleidingen en oefeningen te registreren en deze registraties te raadplegen.  
 
-* Heeft kennis van de relevante reglementen en richtlijnen voor opleiden, examineren en oefenen.    
+* Heeft kennis van de relevante reglementen en richtlijnen voor opleiden, examineren en oefenen.   
 
 ### Kerntaak  3:  
 
@@ -4908,7 +4908,7 @@ De medewerker opleiden en oefenen:
 
 * Rapporteert de resultaten van de evaluatie.  
 
-* Vertaalt evaluatiegegevens naar verbetervoorstellen voor het beleid en/of de uitvoering.    
+* Vertaalt evaluatiegegevens naar verbetervoorstellen voor het beleid en/of de uitvoering.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -4918,7 +4918,7 @@ De medewerker opleiden en oefenen:
 
 * Daadkracht (1)  
 
-* Samenwerken (1)    
+* Samenwerken (1)   
 
 ####Beoordelingscriteria
 
@@ -4932,7 +4932,7 @@ De medewerker opleiden en oefenen:
 
 * Is in staat om de uitkomsten van een evaluatie te analyseren en te verwerken in een rapportage.  
 
-* Is in staat om de evaluatiegegevens te vertalen naar concrete verbetervoorstellen voor beleid en/of uitvoering.    
+* Is in staat om de evaluatiegegevens te vertalen naar concrete verbetervoorstellen voor beleid en/of uitvoering.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -4954,7 +4954,7 @@ Functie zoals genoemd in [artikel 2 lid 1 sub s Besluit personeel veiligheidsreg
 | --- | --- |
 | --- | De MPL werkt nauw samen met de AGS voor wat betreft informatie-uitwisseling. Als hulpmiddelen maakt de MPL gebruik van naslagwerken, mallen, plotgegevens en OGS-software. De MPL treedt op als backoffice ten behoeve van de AGS. Bij meer complexe incidenten zal een (tweede) AGS optreden als adviseur van het OT en/of als intermediair tussen lokaal commando, externe deskundigheid en bestuur voor informatie gerelateerd aan gevaarlijke stoffen.  |
 
-¹ Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen.  
+¹ Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen.
 
 ### 2.1  
 
@@ -4964,19 +4964,19 @@ Functie zoals genoemd in [artikel 2 lid 1 sub s Besluit personeel veiligheidsreg
 
 ####Analyseren en beoordelen van effecten van incidenten
 
-Op basis van de gegevens die de MPL van de AGS en de meetploegen krijgt, analyseert en beoordeelt de MPL de mogelijke gevolgen van een incident voor de omgeving. Analytisch vermogen is hierbij van belang.  
+Op basis van de gegevens die de MPL van de AGS en de meetploegen krijgt, analyseert en beoordeelt de MPL de mogelijke gevolgen van een incident voor de omgeving. Analytisch vermogen is hierbij van belang. 
 
 ### Kerntaak  2:  
 
 ####Vormen advies
 
-Op basis van de beschikbare gegevens vormt de MPL adviezen over de maatregelen in het effectgebied. Hierbij houdt hij rekening met mogelijke ontwikkelingen van het incident, de operationele mogelijkheden en houdt hij rekening met de multidisciplinaire belangen van betrokkenen. Dit doet hij in nauwe samenwerking met de GAGS.  
+Op basis van de beschikbare gegevens vormt de MPL adviezen over de maatregelen in het effectgebied. Hierbij houdt hij rekening met mogelijke ontwikkelingen van het incident, de operationele mogelijkheden en houdt hij rekening met de multidisciplinaire belangen van betrokkenen. Dit doet hij in nauwe samenwerking met de GAGS. 
 
 ### Kerntaak  3:  
 
 ####Optreden als MPL (overdragen advies en samenwerken met betrokken partijen) bij incidenten met gevaarlijke stoffen
 
-Onder turbulente omstandigheden verifieert de MPL de inschatting van het effectgebied door het leiden van de meetplanorganisatie. De MPL brengt een gefundeerd en toepasbaar advies uit op basis van kerntaak 1 en 2. Flexibiliteit, werken onder tijdsdruk, omgaan met keuzes en dilemma’s, rekening houden met betrokken partijen en afstemming met de AGS spelen een belangrijke rol. Communicatie en informatie zijn hierbij van groot belang.  
+Onder turbulente omstandigheden verifieert de MPL de inschatting van het effectgebied door het leiden van de meetplanorganisatie. De MPL brengt een gefundeerd en toepasbaar advies uit op basis van kerntaak 1 en 2. Flexibiliteit, werken onder tijdsdruk, omgaan met keuzes en dilemma’s, rekening houden met betrokken partijen en afstemming met de AGS spelen een belangrijke rol. Communicatie en informatie zijn hierbij van groot belang. 
 
 | Functie: meetplanleider  | Kerntaken  | Organisatie  | Omgeving  |--- | Analyseren  | Plannen, organiseren en coördineren  | Accuraat  | Oordelen  | Daadkracht  | Inleven  | Communiceren  | Samenwerken  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -4989,7 +4989,7 @@ Onder turbulente omstandigheden verifieert de MPL de inschatting van het effectg
 | Risico’s en Veiligheid  | --- | *  | --- |
 | Incidentbestrijding  | --- | *  | --- |
 
-In supplement gg is de competentiematrix uitgewerkt  
+In supplement gg is de competentiematrix uitgewerkt 
 
 ### 3.1  
 
@@ -5033,7 +5033,7 @@ Op basis van de gegevens die de MPL van de AGS en de meetploegen krijgt, analyse
 
 ○ de noodzaak van het treffen van maatregelen voor de bevolking in de hot-warm-cold zone.    
 
-* Denkt vooruit in het incident, houdt rekening met scenario-ontwikkeling en het tijdspad.   Vraagt indien nodig een second opinion aan.  
+* Denkt vooruit in het incident, houdt rekening met scenario-ontwikkeling en het tijdspad.   Vraagt indien nodig een second opinion aan. 
 
 ####Vereiste competenties en niveaus van functioneren MPL
 
@@ -5049,7 +5049,7 @@ Op basis van de gegevens die de MPL van de AGS en de meetploegen krijgt, analyse
 
 * Communiceren (2)  
 
-* Samenwerken (3)    
+* Samenwerken (3)   
 
 ####Beoordelingscriteria
 
@@ -5061,7 +5061,7 @@ Op basis van de gegevens die de MPL van de AGS en de meetploegen krijgt, analyse
 
 * Kunnen en durven bijstellen van de meetstrategie en het advies.  
 
-* Analytisch vermogen op afstand.    
+* Analytisch vermogen op afstand.   
 
 ### Kerntaak  2:  
 
@@ -5085,13 +5085,13 @@ Op basis van de beschikbare gegevens vormt de MPL adviezen over de maatregelen i
 
 ○ andere, voor de bestrijding van het incident noodzakelijke, informatie.    
 
-* Vertaalt zijn bevindingen naar een gemotiveerd advies in de vorm van een plot met voorgestelde maatregelen voor het hoofd stafsectie brandweer en de (tweede) AGS. Stelt, bijvoorbeeld op basis van ontwikkelingen of second opion, het advies bij.    
+* Vertaalt zijn bevindingen naar een gemotiveerd advies in de vorm van een plot met voorgestelde maatregelen voor het hoofd stafsectie brandweer en de (tweede) AGS. Stelt, bijvoorbeeld op basis van ontwikkelingen of second opion, het advies bij.   
 
 ####Vereiste competenties en niveaus van functioneren MPL
 
 * Analyseren (2)  
 
-* Communiceren (2)    
+* Communiceren (2)   
 
 ####Beoordelingscriteria
 
@@ -5099,7 +5099,7 @@ Op basis van de beschikbare gegevens vormt de MPL adviezen over de maatregelen i
 
 * Adviezen zijn inhoudelijk correct en overzichtelijk.  
 
-* Adviezen zijn geloofwaardig (op maat/proportionaliteit), kort en krachtig en passend bij het tijdspad van het incident.    
+* Adviezen zijn geloofwaardig (op maat/proportionaliteit), kort en krachtig en passend bij het tijdspad van het incident.   
 
 ### Kerntaak  3:  
 
@@ -5139,7 +5139,7 @@ Onder turbulente omstandigheden verifieert de MPL de inschatting van het effectg
 
 ○ andere hulpdiensten.    
 
-* Volgt het incident- en bestrijdingsverloop ten behoeve van kerntaak 1.   Informeert en draagt advies voortvloeiend uit kerntaak 2 over aan hoofd stafsectie brandweer en AGS.  
+* Volgt het incident- en bestrijdingsverloop ten behoeve van kerntaak 1.   Informeert en draagt advies voortvloeiend uit kerntaak 2 over aan hoofd stafsectie brandweer en AGS. 
 
 ####Vereiste competenties en niveaus van functioneren MPL
 
@@ -5149,7 +5149,7 @@ Onder turbulente omstandigheden verifieert de MPL de inschatting van het effectg
 
 * Communiceren (2)  
 
-* Samenwerken (3)    
+* Samenwerken (3)   
 
 ####Beoordelingscriteria
 
@@ -5165,7 +5165,7 @@ Onder turbulente omstandigheden verifieert de MPL de inschatting van het effectg
 
 * Daadkrachtig en zelfverzekerd maar flexibel.  
 
-* Rekening houden met betrokken partijen, met oog voor de verschillende belangen (ook multidisciplinair).    
+* Rekening houden met betrokken partijen, met oog voor de verschillende belangen (ook multidisciplinair).   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -5191,25 +5191,25 @@ Functie zoals genoemd in [artikel 2 lid 1 sub t Besluit personeel veiligheidsreg
 
 ####Bijdragen aan beleidsvorming op het gebied van oefenen
 
-De oefencoördinator levert een bijdrage aan de beleidsvorming op het gebied van oefenen. Hij maakt daarbij gebruik van zijn kennis op het gebied van de oefenbehoefte, de leerpunten uit incidenten en de evaluatie van oefenactiviteiten. <sup> 1  Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen.  </sup>  
+De oefencoördinator levert een bijdrage aan de beleidsvorming op het gebied van oefenen. Hij <sup> 1 Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen. </sup>maakt daarbij gebruik van zijn kennis op het gebied van de oefenbehoefte, de leerpunten uit incidenten en de evaluatie van oefenactiviteiten. 
 
 ### Kerntaak  2:  
 
 ####Vertalen van oefenbeleid naar jaarlijkse oefendoelen en thema’s
 
-De oefencoördinator ontwikkelt oefenprogramma’s binnen de daarvoor geldende randvoorwaarden. Hij werkt daarvoor samen met de Specialist opleiden en oefenen.  
+De oefencoördinator ontwikkelt oefenprogramma’s binnen de daarvoor geldende randvoorwaarden. Hij werkt daarvoor samen met de Specialist opleiden en oefenen. 
 
 ### Kerntaak  3:  
 
 ####Coördineren en uitvoeren van het oefenprogramma
 
-De oefencoördinator zorgt ervoor dat het oefenprogramma daadwerkelijk uitgevoerd wordt.  
+De oefencoördinator zorgt ervoor dat het oefenprogramma daadwerkelijk uitgevoerd wordt. 
 
 ### Kerntaak  4:  
 
 ####Evalueren en kwaliteitszorg
 
-De oefencoördinator evalueert en registreert de oefenresultaten en levert hiermee een bijdrage aan kwaliteitszorg.  
+De oefencoördinator evalueert en registreert de oefenresultaten en levert hiermee een bijdrage aan kwaliteitszorg. 
 
 | Functie: oefencoördinator  | Kerntaken  | Organisatie  | Omgeving  |--- | Innoveren en creativiteit  | Plannen, organiseren en coördineren  | Resultaat gericht  | Analyseren  | Probleem oplossen  | Oordelen  | Daadkracht  | Mondeling communiceren  | Flexibiliteit  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -5218,7 +5218,7 @@ De oefencoördinator evalueert en registreert de oefenresultaten en levert hierm
 | Coördineren en uitvoeren van het oefenprogramma  | 1  | 1  | 1  | 1  | 1  | --- | 1  | 1  | 1  |
 | Evalueren en kwaliteitszorg  | 1  | --- | 1  | 1  | --- | 1  | 1  | 1  | --- |
 
-Er zijn geen vakmatige en kenniscompetenties voor de oefencoördinator vastgesteld. In supplement gg is de competentiematrix uitgewerkt.  
+Er zijn geen vakmatige en kenniscompetenties voor de oefencoördinator vastgesteld. In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -5240,7 +5240,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de oefencoördinator vastgeste
 
 – oefenplannen van het eigen korps te vergelijken met soortgelijke oefenplannen van andere diensten.    
 
-* Neemt deel aan overlegstructuren binnen het eigen vakgebied.    
+* Neemt deel aan overlegstructuren binnen het eigen vakgebied.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -5250,7 +5250,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de oefencoördinator vastgeste
 
 * Daadkracht (1)  
 
-* Mondeling Communiceren (1)    
+* Mondeling Communiceren (1)   
 
 ####Beoordelingscriteria
 
@@ -5260,7 +5260,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de oefencoördinator vastgeste
 
 * Stelt zich op als volwaardig gesprekspartner doordat hij zich kan inleven in belangen van anderen en dit objectief weet te vertalen in adviezen (op zijn niveau) ten aanzien van het beleid.  
 
-* Weet de juiste probleemeigenaar (functionaris) voor acties uit de evaluaties aan te spreken.    
+* Weet de juiste probleemeigenaar (functionaris) voor acties uit de evaluaties aan te spreken.   
 
 ### Kerntaak  2:  
 
@@ -5280,7 +5280,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de oefencoördinator vastgeste
 
 * Signaleert uitvoeringsproblemen bij het vertalen van beleid en komt met oplossingen.  
 
-* Verwerkt leerpunten ten aanzien van de randvoorwaarden in het nieuwe programma.    
+* Verwerkt leerpunten ten aanzien van de randvoorwaarden in het nieuwe programma.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -5294,7 +5294,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de oefencoördinator vastgeste
 
 * Daadkracht (1)  
 
-* Mondeling communiceren (1)    
+* Mondeling communiceren (1)   
 
 ####Beoordelingscriteria
 
@@ -5306,7 +5306,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de oefencoördinator vastgeste
 
 * Is in staat een aantrekkelijk programma neer te zetten wat geaccepteerd wordt in de doelgroep en waarbij de vooraf bepaalde oefendoelen gehaald worden.  
 
-* Draagt het oefenprogramma uit en creëert daarmee draagvlak en acceptatie.    
+* Draagt het oefenprogramma uit en creëert daarmee draagvlak en acceptatie.   
 
 ### Kerntaak  3:  
 
@@ -5330,7 +5330,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de oefencoördinator vastgeste
 
 *   
 
-* Begroot de kosten van een oefening.    
+* Begroot de kosten van een oefening.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -5348,7 +5348,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de oefencoördinator vastgeste
 
 * Mondeling Communiceren (1)  
 
-* Flexibel (1)    
+* Flexibel (1)   
 
 ####Beoordelingscriteria
 
@@ -5362,7 +5362,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de oefencoördinator vastgeste
 
 * Kan een oefening realistisch begroten.  
 
-* Maakt vooraf een juiste inschatting van de veiligheidsaspecten bij een oefening.    
+* Maakt vooraf een juiste inschatting van de veiligheidsaspecten bij een oefening.   
 
 ### Kerntaak  4:  
 
@@ -5380,7 +5380,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de oefencoördinator vastgeste
 
 * Gebruikt de evaluatiegegevens voor eventuele bijstelling van het oefenprogramma.  
 
-* Levert input met betrekking tot normstelling voor het oefenbeleidsplan.    
+* Levert input met betrekking tot normstelling voor het oefenbeleidsplan.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -5394,7 +5394,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de oefencoördinator vastgeste
 
 * Daadkracht (1)  
 
-* Mondeling Communiceren (1)    
+* Mondeling Communiceren (1)   
 
 ####Beoordelingscriteria
 
@@ -5404,7 +5404,7 @@ Er zijn geen vakmatige en kenniscompetenties voor de oefencoördinator vastgeste
 
 * Weet op juiste wijze de evaluatiegegevens te vertalen naar verbeterpunten voor het oefenprogramma en kan deze toelichten.  
 
-* Kan uitleg geven over de wijze van registreren en evalueren in het kader van kwaliteitszorg.    
+* Kan uitleg geven over de wijze van registreren en evalueren in het kader van kwaliteitszorg.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -5424,7 +5424,7 @@ Functie zoals genoemd in [artikel 2 lid 1 sub u Besluit personeel veiligheidsreg
 | --- | --- |
 | --- | De OVD is bekend met de taken behorende tot de functie van Bevelvoerder.  |
 
-<sup>1</sup> Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen.  
+<sup>1</sup> Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen.
 
 ### 2.1  
 
@@ -5434,19 +5434,19 @@ Functie zoals genoemd in [artikel 2 lid 1 sub u Besluit personeel veiligheidsreg
 
 ####Leidinggeven aan brandweereenheden bij de bestrijding van het incident
 
-De OVD stuurt brandweerprocessen aan bij basis en grootschalig monodisciplinair repressief optreden. Hij is eindverantwoordelijk voor de bestrijding van het incident bij basis monodisciplianir repressief optreden. Bij grootschalige incidenten is hij als pelotonscommandant verantwoordelijk voor de bestrijding van het incident in zijn pelotonsvak.  
+De OVD stuurt brandweerprocessen aan bij basis en grootschalig monodisciplinair repressief optreden. Hij is eindverantwoordelijk voor de bestrijding van het incident bij basis monodisciplianir repressief optreden. Bij grootschalige incidenten is hij als pelotonscommandant verantwoordelijk voor de bestrijding van het incident in zijn pelotonsvak. 
 
 ### Kerntaak  2:  
 
 ####Coördineren van multidisciplinaire samenwerking
 
-De OVD kan de multidisciplinaire samenwerking coördineren in het motorkapoverleg en start indien nodig het CoPI op. Hij kan verantwoordelijk zijn voor het gecoördineerd optreden van alle disciplines ter plaatse van het incident bij routinematige incidenten, vanaf GRIP 1 neemt de OVD de leiding van het CoPI op zich totdat de HOVD ter plaatse is.  
+De OVD kan de multidisciplinaire samenwerking coördineren in het motorkapoverleg en start indien nodig het CoPI op. Hij kan verantwoordelijk zijn voor het gecoördineerd optreden van alle disciplines ter plaatse van het incident bij routinematige incidenten, vanaf GRIP 1 neemt de OVD de leiding van het CoPI op zich totdat de HOVD ter plaatse is. 
 
 ### Kerntaak  3:  
 
 ####Informeren, ondersteunen en adviseren van de HOVD
 
-De OVD informeert en adviseert (gevraagd en ongevraagd) het bevoegd gezag, betrokken diensten, pers en publiek over de bestrijding van het incident.  
+De OVD informeert en adviseert (gevraagd en ongevraagd) het bevoegd gezag, betrokken diensten, pers en publiek over de bestrijding van het incident. 
 
 | Functie: officier van dienst  | Kerntaken  | Organisatie  | Omgeving  |--- | Analyseren  | Plannen, organiseren en coördineren  | Probleem oplossen  | Communiceren  | Daadkracht  | Inleven  | Leiderschap  | Samenwerken  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -5459,7 +5459,7 @@ De OVD informeert en adviseert (gevraagd en ongevraagd) het bevoegd gezag, betro
 | Risico’s en Veiligheid  | --- | --- | *  |
 | Incidentbestrijding  | --- | --- | *  |
 
-In supplement gg is de competentiematrix uitgewerkt.  
+In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -5499,7 +5499,7 @@ De OVD stuurt brandweerprocessen aan bij basis en grootschalig monodisciplinair 
 
 * Levert sitraps (schriftelijk) aan de compagniescommandant.  
 
-* Controleert en stemt af met de pelotonscommandant van het naastgelegen pelotonsvak.    
+* Controleert en stemt af met de pelotonscommandant van het naastgelegen pelotonsvak.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -5507,7 +5507,7 @@ De OVD stuurt brandweerprocessen aan bij basis en grootschalig monodisciplinair 
 
 * Daadkracht (3)  
 
-* Leiderschap (2)    
+* Leiderschap (2)   
 
 ####Beoordelingscriteria
 
@@ -5529,7 +5529,7 @@ De OVD stuurt brandweerprocessen aan bij basis en grootschalig monodisciplinair 
 
 * Heeft een sitrap beschikbaar (schriftelijk in de rol van pelotonscommandant).  
 
-* Heeft een rapportage van het incident beschikbaar.    
+* Heeft een rapportage van het incident beschikbaar.   
 
 ### Kerntaak  2:  
 
@@ -5551,7 +5551,7 @@ De OVD kan de multidisciplinaire samenwerking in het motorkapoverleg coördinere
 
 * Anticipeert op de ontwikkeling van het incident en coördineert de opschaling (GRIP) en start het CoPI op.  
 
-* Heft het motorkapoverleg op.    
+* Heft het motorkapoverleg op.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -5559,7 +5559,7 @@ De OVD kan de multidisciplinaire samenwerking in het motorkapoverleg coördinere
 
 * Plannen, organiseren en coördineren (3)  
 
-* Daadkracht (3)    
+* Daadkracht (3)   
 
 ####Beoordelingscriteria
 
@@ -5573,7 +5573,7 @@ De OVD kan de multidisciplinaire samenwerking in het motorkapoverleg coördinere
 
 * Straalt rust en gezag uit.  
 
-* Zorgt voor een goed werkend coördinatieoverleg: efficiënt (start en stopt op tijd, iedereen is ter plaatse) en effectief (leidt tot besluiten, prioriteiten, afspraken).    
+* Zorgt voor een goed werkend coördinatieoverleg: efficiënt (start en stopt op tijd, iedereen is ter plaatse) en effectief (leidt tot besluiten, prioriteiten, afspraken).   
 
 ### Kerntaak  3:  
 
@@ -5601,7 +5601,7 @@ De OVD informeert en adviseert (gevraagd en ongevraagd) het bevoegd gezag, betro
 
 * Draagt zorg voor de nazorg van personeel en materieel.  
 
-* Evalueert het optreden en maakt rapport incident op.    
+* Evalueert het optreden en maakt rapport incident op.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -5609,7 +5609,7 @@ De OVD informeert en adviseert (gevraagd en ongevraagd) het bevoegd gezag, betro
 
 * Inleven (2)  
 
-* Samenwerken (3)    
+* Samenwerken (3)   
 
 ####Beoordelingscriteria
 
@@ -5617,7 +5617,7 @@ De OVD informeert en adviseert (gevraagd en ongevraagd) het bevoegd gezag, betro
 
 * Zorgt dat de veiligheid van eigen personeel, andere hulpverleningsdiensten en derden optimaal is gewaarborgd.  
 
-* Verstrekt informatie gestructureerd, eenduidig en kernachtig.    
+* Verstrekt informatie gestructureerd, eenduidig en kernachtig.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -5641,7 +5641,7 @@ Functie zoals genoemd in [artikel 2 lid 1 sub v Besluit personeel veiligheidsreg
 | --- | --- |
 | --- | Samenvattend is de operationeel manager een beheersmatige functionaris is die:  • Een groep van circa 10 mensen aanstuurt.  • In de meeste gevallen de rol heeft van teamleider of bureauhoofd.  • Een enkelvoudige taak heeft (één vakgebied).  |
 
-¹ Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen.  
+¹ Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen.
 
 ### 2.1  
 
@@ -5651,31 +5651,31 @@ Functie zoals genoemd in [artikel 2 lid 1 sub v Besluit personeel veiligheidsreg
 
 ####Opstellen en (laten) uitvoeren van planningen
 
-De operationeel manager stuurt de werkuitvoering van de medewerkers van zijn afdeling aan. Het opstellen van plannen en het laten uitvoeren daarvan, vormen daarin het centrale sturingsmechanisme voor de bedrijfsvoering.  
+De operationeel manager stuurt de werkuitvoering van de medewerkers van zijn afdeling aan. Het opstellen van plannen en het laten uitvoeren daarvan, vormen daarin het centrale sturingsmechanisme voor de bedrijfsvoering. 
 
 ### Kerntaak  2:  
 
 ####Leidinggeven aan (project-)medewerkers
 
-De operationeel manager geeft leiding aan een team van medewerkers. Hij is het samenbindende element tussen deze individuele medewerkers en vormt de schakel tussen medewerkers en organisatie. Hij draagt bij aan de ontwikkeling van medewerkers en team en het creëren van een collegiaal werkklimaat.  
+De operationeel manager geeft leiding aan een team van medewerkers. Hij is het samenbindende element tussen deze individuele medewerkers en vormt de schakel tussen medewerkers en organisatie. Hij draagt bij aan de ontwikkeling van medewerkers en team en het creëren van een collegiaal werkklimaat. 
 
 ### Kerntaak  3:  
 
 ####Monitoren, bijsturen en rapporteren van de werkuitvoering
 
-De operationeel manager is verantwoordelijk voor de aanwending en besteding van middelen die door de naast hogere leidinggevende zijn gedelegeerd. Vanuit die verantwoordelijkheid is actieve procesbewaking van groot belang.  
+De operationeel manager is verantwoordelijk voor de aanwending en besteding van middelen die door de naast hogere leidinggevende zijn gedelegeerd. Vanuit die verantwoordelijkheid is actieve procesbewaking van groot belang. 
 
 ### Kerntaak  4:  
 
 ####Leveren van inhoudelijke bijdragen: signaleren van knelpunten en adviseren over aanpassingen van beleid en/of procedures en plannen
 
-De operationeel manager is niet alleen een leidinggevende; hij is daarnaast ook vakman op zijn kennisgebied. Dat vakmanschap benut hij om, in samenspraak met anderen, bijdragen te leveren aan de verbetering van werkprocessen, diensten en producten van zijn afdeling/team, maar ook daarbuiten.  
+De operationeel manager is niet alleen een leidinggevende; hij is daarnaast ook vakman op zijn kennisgebied. Dat vakmanschap benut hij om, in samenspraak met anderen, bijdragen te leveren aan de verbetering van werkprocessen, diensten en producten van zijn afdeling/team, maar ook daarbuiten. 
 
 ### Kerntaak  5:  
 
 ####Onderhouden van netwerken en relevante interne en externe contacten
 
-De brandweer is een speler in een veld met diverse actoren: interne collega’s, (keten)partners, burgers, etc. Samenwerken en elkaar kennen wordt steeds belangrijker. Op alle niveaus onderhoudt de brandweer contacten met al deze partijen, om van hen te leren maar ook om aan hen te leren. Ook de operationeel manager heeft deze rol.  
+De brandweer is een speler in een veld met diverse actoren: interne collega’s, (keten)partners, burgers, etc. Samenwerken en elkaar kennen wordt steeds belangrijker. Op alle niveaus onderhoudt de brandweer contacten met al deze partijen, om van hen te leren maar ook om aan hen te leren. Ook de operationeel manager heeft deze rol. 
 
 | Functie: operationeel manager  | Kerntaken  | Kern  | Organisatie  | Omgeving  |--- | Leren en reflecteren  | Ondernemen  | Coachen  | Daadkracht  | Resultaatgericht  | Overtuigen  | Plannen, organiseren en coördineren  | Accuraat  | Analyseren  | Kostenbewust  | Netwerken  | Maatschappelijk georiënteerd  | Communiceren  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -5699,7 +5699,7 @@ De brandweer is een speler in een veld met diverse actoren: interne collega’s,
 | Bestuurskunde (beleidstheorie/publieke organisatie)  | --- | *  | --- |
 | Projectmatig werken  | --- | *  | --- |
 
-In supplement gg is de competentiematrix uitgewerkt.  
+In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -5719,7 +5719,7 @@ De operationeel manager stuurt de werkuitvoering van de medewerkers van zijn afd
 
 * Zorgt voor afstemming van werkzaamheden, bijvoorbeeld door het laten voeren van overdrachtsgesprekken, samen opwerken en het organiseren van werkoverleg.  
 
-* Signaleert en analyseert problemen in de uitvoering en (laat) deze oplossen, waar mogelijk structureel.    
+* Signaleert en analyseert problemen in de uitvoering en (laat) deze oplossen, waar mogelijk structureel.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -5737,7 +5737,7 @@ De operationeel manager stuurt de werkuitvoering van de medewerkers van zijn afd
 
 * Kostenbewust (2)  
 
-* Communiceren (2)    
+* Communiceren (2)   
 
 ####Beoordelingscriteria
 
@@ -5749,7 +5749,7 @@ De operationeel manager stuurt de werkuitvoering van de medewerkers van zijn afd
 
 * Planning passen naar het oordeel van de naast hogere leidinggevende bij de organisatiedoelen.  
 
-* Medewerkers zijn bekend met de planning: benutten deze voor het maken van hun eigen planning.    
+* Medewerkers zijn bekend met de planning: benutten deze voor het maken van hun eigen planning.   
 
 ####Product
 
@@ -5759,7 +5759,7 @@ De operationeel manager stuurt de werkuitvoering van de medewerkers van zijn afd
 
 ○ Waar dit niet het geval is vindt tijdig overleg en verantwoording plaats met de naasthogere leidinggevende.    
 
-* De uitvoering verloopt efficiënt; binnen het beschikbare budget.    
+* De uitvoering verloopt efficiënt; binnen het beschikbare budget.   
 
 ### Kerntaak  2:  
 
@@ -5775,13 +5775,13 @@ De operationeel manager stuurt de werkuitvoering van de medewerkers van zijn afd
 
 * Teamleden vervullen zelf een actieve rol in de ontwikkeling van het teamfunctioneren.  
 
-* Verschillen tussen medewerkers worden benut om de teamontwikkeling te bevorderen.    
+* Verschillen tussen medewerkers worden benut om de teamontwikkeling te bevorderen.   
 
 ####Product
 
 * Er is sprake van aantoonbare ontwikkeling van individuele medewerkers, passend bij de organisatiedoelen.  
 
-* Er is sprake van een aantoonbare ontwikkeling van het team.    
+* Er is sprake van een aantoonbare ontwikkeling van het team.   
 
 ### Kerntaak  3:  
 
@@ -5797,7 +5797,7 @@ De operationeel manager is verantwoordelijk voor de aanwending en besteding van 
 
 * Stuurt waar nodig bij op afwijkingen in de uitvoering, en past zo nodig de planning hierop aan.  
 
-* Stelt periodieke rapportages op over de behaalde resultaten ten opzichte van de gestelde doelen en benutting van resources.    
+* Stelt periodieke rapportages op over de behaalde resultaten ten opzichte van de gestelde doelen en benutting van resources.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -5815,7 +5815,7 @@ De operationeel manager is verantwoordelijk voor de aanwending en besteding van 
 
 * Kostenbewust (2)  
 
-* Communiceren (2)    
+* Communiceren (2)   
 
 ####Beoordelingscriteria
 
@@ -5825,13 +5825,13 @@ De operationeel manager is verantwoordelijk voor de aanwending en besteding van 
 
 * Rapportages passen binnen de aangereikte kaders/het gangbare format.  
 
-* Besluiten tot bijsturing zijn verantwoord onderbouwd.    
+* Besluiten tot bijsturing zijn verantwoord onderbouwd.   
 
 ####Product
 
 * Waar nodig vindt tijdig bijsturing plaats.  
 
-* De naast hogere leidinggevende krijgt in de rapportage de voor hem benodigde informatie aangeleverd.    
+* De naast hogere leidinggevende krijgt in de rapportage de voor hem benodigde informatie aangeleverd.   
 
 ### Kerntaak  4:  
 
@@ -5845,7 +5845,7 @@ De operationeel manager is niet alleen leidinggevende; hij is daarnaast ook vakm
 
 * Signaleert voor het eigen vakgebied relevante ontwikkelingen (bijvoorbeeld maatschappelijk, korpsgebonden, gemeentelijk, vakinhoudelijk) en doet voorstellen (veelal schriftelijk) aan de naast hogere leidinggevende om hierop in te spelen.  
 
-* Levert vanuit het eigen vakgebied een bijdrage (veelal schriftelijk) aan beleidsinitiatieven voor andere afdelingen of vakgebieden.    
+* Levert vanuit het eigen vakgebied een bijdrage (veelal schriftelijk) aan beleidsinitiatieven voor andere afdelingen of vakgebieden.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -5863,7 +5863,7 @@ De operationeel manager is niet alleen leidinggevende; hij is daarnaast ook vakm
 
 * Kostenbewust (2)  
 
-* Communiceren (2)    
+* Communiceren (2)   
 
 ####Beoordelingscriteria
 
@@ -5873,13 +5873,13 @@ De operationeel manager is niet alleen leidinggevende; hij is daarnaast ook vakm
 
 * Verwijst indien nodig naar meer ervaren experts.  
 
-* Leveren van bijdragen gebeurt zowel reactief als proactief.    
+* Leveren van bijdragen gebeurt zowel reactief als proactief.   
 
 ####Product
 
 * Vragen worden adequaat beantwoord.  
 
-* Voorstellen zijn SMART geformuleerd.    
+* Voorstellen zijn SMART geformuleerd.   
 
 ####Bijlage A, behorende bij [artikel 2 lid 1 Besluit personeel veiligheidsregio’s](../../../../../AMvB/besluit/personeel/veiligheidsregio's/BWBR0027841/README.md)
 
@@ -5897,7 +5897,7 @@ Functie zoals genoemd in [artikel 2 lid 1 sub w Besluit personeel veiligheidsreg
 |:---|:---|
 | Beschrijving van de functie  | De ploegchef maakt deel uit van de afdeling repressie en geeft leiding aan een roosterploeg van medewerkers uit de operationele dienst. Hij ¹ coördineert de werkzaamheden binnen deze groep en draagt zorg voor de afstemming ervan. Tevens is hij verantwoordelijk voor de initiële en blijvende vakbekwaamheid van zijn ploeg en de registratie daarvan. De ploegchef vervult tenminste de functie van bevelvoerder.  |
 
-¹ Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen.  
+¹ Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen.
 
 ### 2.1  
 
@@ -5907,19 +5907,19 @@ Functie zoals genoemd in [artikel 2 lid 1 sub w Besluit personeel veiligheidsreg
 
 ####Leiding geven aan medewerkers
 
-De ploegchef is verantwoordelijk voor de kwaliteit, continuïteit, efficiency en vakbekwaamheid van de ploeg medewerkers waaraan hij leiding geeft. Tevens is hij verantwoordelijk voor de uitvoering van het personeelsbeleid binnen deze ploeg.  
+De ploegchef is verantwoordelijk voor de kwaliteit, continuïteit, efficiency en vakbekwaamheid van de ploeg medewerkers waaraan hij leiding geeft. Tevens is hij verantwoordelijk voor de uitvoering van het personeelsbeleid binnen deze ploeg. 
 
 ### Kerntaak  2:  
 
 ####Uitvoeren van beheersmatige taken
 
-De ploegchef zorgt voor planning van werkzaamheden en activiteiten op het gebied van materieel en materiaal, onderhoud, opleiden en oefenen. Hij draagt zorg voor het aanleveren van verschillende managementgegevens. Hij zorgt voor de invulling van de dienstroosters en de oefenregistratie. Hij bewaakt de kwaliteit van de ploeg.  
+De ploegchef zorgt voor planning van werkzaamheden en activiteiten op het gebied van materieel en materiaal, onderhoud, opleiden en oefenen. Hij draagt zorg voor het aanleveren van verschillende managementgegevens. Hij zorgt voor de invulling van de dienstroosters en de oefenregistratie. Hij bewaakt de kwaliteit van de ploeg. 
 
 ### Kerntaak  3:  
 
 ####Uitvoeren van administratieve taken
 
-De ploegchef draagt zorg voor gegevens ten behoeve van de personeelsadministratie, zoals de urenverantwoording en ziekmelding. Hij draagt tevens zorg voor het aanleveren van gegevens ten behoeve van het opstellen van onder meer MARAP’s en houdt planningslijsten en de oefenregistratie bij.  
+De ploegchef draagt zorg voor gegevens ten behoeve van de personeelsadministratie, zoals de urenverantwoording en ziekmelding. Hij draagt tevens zorg voor het aanleveren van gegevens ten behoeve van het opstellen van onder meer MARAP’s en houdt planningslijsten en de oefenregistratie bij. 
 
 | Functie: ploegchef  | Kerntaken  | Organisatie  | Omgeving  |--- | Plannen, organiseren en coördineren  | Probleem oplossen  | Resultaatgericht  | Flexibel  | Inleven  | Taakgericht leiderschap  | Mondeling communiceren  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -5927,7 +5927,7 @@ De ploegchef draagt zorg voor gegevens ten behoeve van de personeelsadministrati
 | Uitvoeren van administratieve taken  | 1  | 1  | 1  | --- | --- | --- | --- |
 | Uitvoeren van beheersmatige taken  | 1  | --- | --- | 1  | --- | --- | 1  |
 
-Er zijn geen vakmatige en kenniscompetenties voor de ploegchef vastgesteld. In supplement gg is de competentiematrix uitgewerkt.  
+Er zijn geen vakmatige en kenniscompetenties voor de ploegchef vastgesteld. In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -5955,7 +5955,7 @@ De ploegchef:
 
 * Participeert in werving en selectieprocedures.  
 
-* Stimuleert, motiveert en controleert.    
+* Stimuleert, motiveert en controleert.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -5965,7 +5965,7 @@ De ploegchef:
 
 * Taakgericht leiderschap (1)  
 
-* Mondeling communiceren (1)    
+* Mondeling communiceren (1)   
 
 ####Beoordelingscriteria
 
@@ -5989,7 +5989,7 @@ De ploegchef:
 
 * Is in staat om medewerkers te stimuleren, te motiveren en te coachen.  
 
-* Is in staat om het juiste evenwicht te vinden tussen het organisatiebelang en individuele belangen van medewerkers.    
+* Is in staat om het juiste evenwicht te vinden tussen het organisatiebelang en individuele belangen van medewerkers.   
 
 ### Kerntaak  2:  
 
@@ -6007,7 +6007,7 @@ De ploegchef:
 
 * Vertegenwoordigt de organisatie in (regionale) project- en werkgroepen.  
 
-* Bevordert werken conform Arbo-voorschriften.    
+* Bevordert werken conform Arbo-voorschriften.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -6015,7 +6015,7 @@ De ploegchef:
 
 * Problemen oplossen (1)  
 
-* Resultaatgericht (1)    
+* Resultaatgericht (1)   
 
 ####Beoordelingscriteria
 
@@ -6035,7 +6035,7 @@ De ploegchef:
 
 * Kan prioriteiten stellen.  
 
-* Is in staat om het juiste evenwicht te vinden tussen het organisatiebelang en individuele belangen van medewerkers.    
+* Is in staat om het juiste evenwicht te vinden tussen het organisatiebelang en individuele belangen van medewerkers.   
 
 ### Kerntaak  3:  
 
@@ -6049,7 +6049,7 @@ De ploegchef:
 
 * Verleent verlof en registreert dat.  
 
-* Verzorgt de verslaglegging van POP’s, functioneringsgesprekken en beoordelingsgesprekken.    
+* Verzorgt de verslaglegging van POP’s, functioneringsgesprekken en beoordelingsgesprekken.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -6057,7 +6057,7 @@ De ploegchef:
 
 * Flexibel (1)  
 
-* Mondeling communiceren (1)    
+* Mondeling communiceren (1)   
 
 ####Beoordelingscriteria
 
@@ -6069,7 +6069,7 @@ De ploegchef:
 
 * Heeft kennis van voor zijn werk noodzakelijke en beschikbare computersoftware.  
 
-* Is in staat om prioriteiten te stellen.    
+* Is in staat om prioriteiten te stellen.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -6089,9 +6089,9 @@ Functie zoals genoemd in [artikel 2 lid 1 sub x Besluitpersoneel veiligheidsregi
 | --- | --- |
 | --- |  *Positionering regionaal commandant*   De regionaal commandant draagt de integrale eindverantwoordelijkheid voor het rechtmatig, doeltreffend en doelmatig functioneren van de brandweerorganisatie en de strategische sturing van de brandweerorganisatie.  |
 | --- | --- |
-| --- | Hiërarchisch valt de regionaal commandant onder en rapporteert hij <sup>1</sup> aan het bestuur van de Veiligheidsregio. Daarnaast is hij ambtelijk eindverantwoordelijk voor de regionale brandweerorganisatie.  |
+| --- | Hiërarchisch valt de regionaal commandant onder en rapporteert hij<sup>1</sup> aan het bestuur van de Veiligheidsregio. Daarnaast is hij ambtelijk eindverantwoordelijk voor de regionale brandweerorganisatie.  |
 
-<sup>1</sup> Waar hij staat, kan ook zij gelezen worden.  
+<sup>1</sup> Waar hij staat, kan ook zij gelezen worden. 
 
 ### 2.1  
 
@@ -6101,19 +6101,19 @@ Functie zoals genoemd in [artikel 2 lid 1 sub x Besluitpersoneel veiligheidsregi
 
 ####Leiding geven aan de regionale brandweerorganisatie
 
-De regionaal commandant is ambtelijk eindverantwoordelijk voor de regionale brandweerorganisatie. Hij draagt daarin zorg voor het functioneren van de regionale brandweer en het personeel dat daarbij werkzaam is.  
+De regionaal commandant is ambtelijk eindverantwoordelijk voor de regionale brandweerorganisatie. Hij draagt daarin zorg voor het functioneren van de regionale brandweer en het personeel dat daarbij werkzaam is. 
 
 ### Kerntaak  2:  
 
 ####Ontwikkelen, vormen en uitzetten van visie en strategie voor de brandweerorganisatie
 
-De regionaal commandant initieert en ontwikkelt mede de visie en strategie voor de regionale brandweerorganisatie.  
+De regionaal commandant initieert en ontwikkelt mede de visie en strategie voor de regionale brandweerorganisatie. 
 
 ### Kerntaak  3:  
 
 ####Adviseren van het bestuur van de veiligheidsregio
 
-De regionaal commandant adviseert het (algemeen) bestuur van de veiligheidsregio en de lokale besturen gevraagd en ongevraagd over brandweeraangelegenheden. Daarbij ondersteunt hij het (algemeen) bestuur van de veiligheidsregio over strategische en bestuurlijke kwesties, inspelend op maatschappelijke, politieke en landelijke ontwikkelingen.  
+De regionaal commandant adviseert het (algemeen) bestuur van de veiligheidsregio en de lokale besturen gevraagd en ongevraagd over brandweeraangelegenheden. Daarbij ondersteunt hij het (algemeen) bestuur van de veiligheidsregio over strategische en bestuurlijke kwesties, inspelend op maatschappelijke, politieke en landelijke ontwikkelingen. 
 
 | Functie: regionaal commandant  | Kerntaken  | Kern  | Organisatie  | Omgeving  |--- | Leren/reflecteren  | Ondernemen  | Visie  | Coachen  | Leiderschap  | Resultaatgericht  | Analyseren  | Kosten bewust  | Netwerken  | Samenwerken  | Maatschappelijk georiënteerd  | Politiek-bestuurlijk inzicht  | Communiceren  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -6128,7 +6128,7 @@ De regionaal commandant adviseert het (algemeen) bestuur van de veiligheidsregio
 | Incidentbestrijding  | --- | *  | --- |
 | Voorbereiding rampenbestrijding en crisisbeheersing  | --- | *  | --- |
 
-In supplement gg is de competentiematrix uitgewerkt  
+In supplement gg is de competentiematrix uitgewerkt 
 
 ### 3.1  
 
@@ -6158,7 +6158,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Optimaliseert de kwaliteit van de bedrijfsvoering van de regionale brandweer en de veiligheidsregio.  
 
-* Behartigt de belangen van de brandweerorganisatie en de veiligheidsregio in diverse in- en externe overlegorganen.    
+* Behartigt de belangen van de brandweerorganisatie en de veiligheidsregio in diverse in- en externe overlegorganen.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -6176,7 +6176,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Maatschappelijke betrokkenheid (3)  
 
-* Politiek-bestuurlijk inzicht (3)    
+* Politiek-bestuurlijk inzicht (3)   
 
 ####Beoordelingscriteria
 
@@ -6212,7 +6212,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Weet te handelen en te acteren in een netwerk omgeving.  
 
-* Kan procesmatig handelen.    
+* Kan procesmatig handelen.   
 
 ### Kerntaak  2:  
 
@@ -6228,7 +6228,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Draagt zorg voor functionele samenhang voor beleid tussen de regionale (en lokale) brandweer, de gemeenten en andere parate diensten.  
 
-* Draagt bij aan de ontwikkeling, vorming en uiteenzetting van visie en strategie aangaande de brandweerorganisatie op landelijk niveau.    
+* Draagt bij aan de ontwikkeling, vorming en uiteenzetting van visie en strategie aangaande de brandweerorganisatie op landelijk niveau.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -6244,7 +6244,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Maatschappelijke betrokkenheid (3)  
 
-* Politiek-bestuurlijk inzicht (3)    
+* Politiek-bestuurlijk inzicht (3)   
 
 ####Beoordelingscriteria
 
@@ -6260,7 +6260,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Communiceert gestructureerd, eenduidig en kernachtig zonder gevoeligheden uit het oog te verliezen.  
 
-* Kan samenwerken met de diverse partners in de veiligheidsregio, met oog voor organisatiespecifieke kenmerken en prioriteiten.    
+* Kan samenwerken met de diverse partners in de veiligheidsregio, met oog voor organisatiespecifieke kenmerken en prioriteiten.   
 
 ### Kerntaak  3:  
 
@@ -6276,7 +6276,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Initieert en ontwikkelt mede het regionale strategisch beleid en zorgt voor de vertaling hiervan naar het tactisch/operationeel niveau.  
 
-* Signaleert en adviseert gevraagd en ongevraagd het bestuur over de kwaliteitsbewaking en de kwaliteitsverbeteringen.    
+* Signaleert en adviseert gevraagd en ongevraagd het bestuur over de kwaliteitsbewaking en de kwaliteitsverbeteringen.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -6288,7 +6288,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Analyseren (3)  
 
-* Politiek-bestuurlijk inzicht (3)    
+* Politiek-bestuurlijk inzicht (3)   
 
 ####Beoordelingscriteria
 
@@ -6306,7 +6306,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Communiceert gestructureerd, eenduidig en kernachtig zonder gevoeligheden uit het oog te verliezen.  
 
-* Kan samenwerken met de diverse partners in de veiligheidsregio, met oog voor organisatiespecifieke kenmerken en prioriteiten.    
+* Kan samenwerken met de diverse partners in de veiligheidsregio, met oog voor organisatiespecifieke kenmerken en prioriteiten.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -6328,7 +6328,7 @@ Functie zoals genoemd in [artikel 2 lid 1 sub y Besluit personeel veiligheidsreg
 | --- | --- |
 | --- | De specialist brandpreventie inspecteert naar aanleiding van vergunningsaanvragen. Indien een vergunningsverlening is afgerond en er periodiek controle plaatsvindt, behoort deze vorm van controle niet tot het takenpakket van een specialist brandpreventie.  |
 
-<sup>1</sup> Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen.  
+<sup>1</sup> Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen.
 
 ### 2.1  
 
@@ -6338,31 +6338,31 @@ Functie zoals genoemd in [artikel 2 lid 1 sub y Besluit personeel veiligheidsreg
 
 ####Bijdrage leveren aan totstandkoming van preventiebeleid
 
-De specialist brandpreventie heeft op basis van zijn praktijkervaring een signaalfunctie om relevante zaken aan te kaarten met betrekking tot preventiebeleid.  
+De specialist brandpreventie heeft op basis van zijn praktijkervaring een signaalfunctie om relevante zaken aan te kaarten met betrekking tot preventiebeleid. 
 
 ### Kerntaak  2:  
 
 ####Adviseren bij het verlenen van vergunningen
 
-De specialist brandpreventie adviseert de vergunning verlenende afdelingen over het al dan niet verlenen van bouw-, milieu- en gebruiksvergunningen.  
+De specialist brandpreventie adviseert de vergunning verlenende afdelingen over het al dan niet verlenen van bouw-, milieu- en gebruiksvergunningen. 
 
 ### Kerntaak  3:  
 
 ####Uitvoeren van inspecties brandpreventie
 
-De specialist brandpreventie voert op locatie inspectie uit of laat deze uitvoeren en geeft een waardeoordeel in de vorm van een inspectierapport aan de vergunningverlener.  
+De specialist brandpreventie voert op locatie inspectie uit of laat deze uitvoeren en geeft een waardeoordeel in de vorm van een inspectierapport aan de vergunningverlener. 
 
 ### Kerntaak  4:  
 
 ####Onderhouden van netwerken en relevante in- en externe contacten
 
-De werkzaamheden van de specialist brandpreventie zijn zowel intern als extern gericht. Vaak fungeert hij als solist binnen diverse teams. Afstemming en overleg zijn dan ook noodzakelijk. Het onderhouden van netwerken en relevante in- en externe contacten is daarom als aparte kerntaak gedefinieerd.  
+De werkzaamheden van de specialist brandpreventie zijn zowel intern als extern gericht. Vaak fungeert hij als solist binnen diverse teams. Afstemming en overleg zijn dan ook noodzakelijk. Het onderhouden van netwerken en relevante in- en externe contacten is daarom als aparte kerntaak gedefinieerd. 
 
 ### Kerntaak  5:  
 
 ####Geven van voorlichting over brandpreventie
 
-Het geven van brandpreventieve voorlichting vormt een structureel onderdeel van het takenpakket van de specialist brandpreventie. Zowel het geven van voorlichting buiten als binnen de organisatie of het leveren van een bijdrage aan schriftelijke voorlichting behoren tot zijn taken.  
+Het geven van brandpreventieve voorlichting vormt een structureel onderdeel van het takenpakket van de specialist brandpreventie. Zowel het geven van voorlichting buiten als binnen de organisatie of het leveren van een bijdrage aan schriftelijke voorlichting behoren tot zijn taken. 
 
 | Functie: specialist brandpreventie  | Kerntaken  | Kern  | Organisatie  | Omgeving  |--- | Leren en reflecteren  | Ondernemen  | Resultaatgericht  | Overtuigen  | Plannen, organiseren en coördineren  | Analyseren  | Oordelen  | Samenwerken  | Communiceren  | Netwerken  | Maatschappelijk georiënteerd  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -6386,7 +6386,7 @@ Het geven van brandpreventieve voorlichting vormt een structureel onderdeel van 
 | Bestuurskunde (beleidstheorie/publieke organisatie)  | --- | *  | --- |
 | Projectmatig werken  | *  | --- | --- |
 
-In supplement gg is de competentiematrix uitgewerkt.  
+In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -6404,7 +6404,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Bewaakt voortgang en spreekt deze personen aan als blijkt dat er te weinig wordt gedaan met het signaal; houdt vinger aan de pols.  
 
-* Draagt desgevraagd gegevens aan of werkt in een projectgroep mee aan de totstandkoming van preventiebeleid.    
+* Draagt desgevraagd gegevens aan of werkt in een projectgroep mee aan de totstandkoming van preventiebeleid.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -6424,7 +6424,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Samenwerken (2)  
 
-* Communiceren (2)    
+* Communiceren (2)   
 
 ####Beoordelingscriteria
 
@@ -6432,7 +6432,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Stevigheid en incasseringsvermogen.  
 
-* Durft de eigen leidinggevende aan te spreken en indien nodig te confronteren.    
+* Durft de eigen leidinggevende aan te spreken en indien nodig te confronteren.   
 
 ### Kerntaak  2:  
 
@@ -6456,7 +6456,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Stelt een schriftelijk advies op voor de vergunning verlenende afdelingen.  
 
-* Gaat na in hoeverre het advies is opgevolgd door bekijken van vergunning.    
+* Gaat na in hoeverre het advies is opgevolgd door bekijken van vergunning.   
 
 ####Gebruiksvergunningen en vergunningen op basis van APV en BBV
 
@@ -6470,7 +6470,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Stelt afhankelijk van het feitelijke brandveiligheidsrisicovoorwaarden op volgens de gebruikvergunningsprocedure.  
 
-* Stelt vergunningen op.    
+* Stelt vergunningen op.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -6488,7 +6488,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Oordelen (2)  
 
-* Communiceren (2)    
+* Communiceren (2)   
 
 ####Beoordelingscriteria
 
@@ -6508,7 +6508,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Rekening houden met de belangen van betrokkenen in het overleg: luisteren naar anderen, doorvragen, inspelen op de vragen en zorgen die geuit worden en deze meenemen in de oplossingen die je voorstelt.  
 
-* Doelen van het (voor)overleg zijn bereikt: voor de andere partij is duidelijk wat er van hem verwacht wordt en wat hij terug kan verwachten.    
+* Doelen van het (voor)overleg zijn bereikt: voor de andere partij is duidelijk wat er van hem verwacht wordt en wat hij terug kan verwachten.   
 
 ### Kerntaak  3:  
 
@@ -6524,7 +6524,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Voert (zo nodig) herinspectie uit.  
 
-* Rapporteert aan de juridische afdeling en de leidinggevende.    
+* Rapporteert aan de juridische afdeling en de leidinggevende.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -6538,7 +6538,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Analyseren (1)  
 
-* Communiceren (2)    
+* Communiceren (2)   
 
 ####Beoordelingscriteria
 
@@ -6556,7 +6556,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Correcte uitvoering van de inspectie: inspectielijst is volledig en afgewerkt  
 
-* Respectvol omgaan met gebruikers van het te inspecteren object.    
+* Respectvol omgaan met gebruikers van het te inspecteren object.   
 
 ### Kerntaak  4:  
 
@@ -6568,7 +6568,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Draagt informatie over aan interne collega’s: o.a. de afdelingen preparatie en repressie en de gemeentelijke afdelingen.  
 
-* Onderhoudt contacten met private en publieke (vergunnings-)partners.    
+* Onderhoudt contacten met private en publieke (vergunnings-)partners.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -6578,7 +6578,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Netwerken (2)  
 
-* Maatschappelijk georiënteerd (2)    
+* Maatschappelijk georiënteerd (2)   
 
 ####Beoordelingscriteria
 
@@ -6586,7 +6586,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Actieve houding.  
 
-* Efficiëntie in keuze.    
+* Efficiëntie in keuze.   
 
 ### Kerntaak  5:  
 
@@ -6604,7 +6604,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 ○ Aan (in)directe collega’s binnen de brandweer.    
 
-* Levert vakkundige inhoud aan t.b.v. preventieve schriftelijke voorlichting (persberichten).    
+* Levert vakkundige inhoud aan t.b.v. preventieve schriftelijke voorlichting (persberichten).   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -6622,7 +6622,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Oordelen (2)  
 
-* Communiceren (2)    
+* Communiceren (2)   
 
 ####Beoordelingscriteria
 
@@ -6630,7 +6630,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * De informatie moet voldoen aan de voorwaarde van een goede presentatie.  
 
-* Analytisch vermogen tot keuze.    
+* Analytisch vermogen tot keuze.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -6654,7 +6654,7 @@ Functie zoals genoemd in [artikel 2 lid 1 sub z Besluit personeel veiligheidsreg
 | --- | --- |
 | --- | De specialist operationele voorbereiding opereert in een samenstel van procedures en processen. Hierbij dient hij zich terdege bewust te zijn van zijn rol als onderdeel van zijn positie en taakstelling. Omgevingsbewustzijn is dan ook een belangrijke competentie voor de specialist operationele voorbereiding.  |
 
-<sup>1</sup> Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen.  
+<sup>1</sup> Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen.
 
 ### 2.1  
 
@@ -6668,7 +6668,7 @@ Functie zoals genoemd in [artikel 2 lid 1 sub z Besluit personeel veiligheidsreg
 
 * Inzetplannen transport en complexe gebouwen.  
 
-* Coördineren ontwikkeling bluswaterkaarten, aanvalsplannen, bereikbaarheidskaarten, enz.    
+* Coördineren ontwikkeling bluswaterkaarten, aanvalsplannen, bereikbaarheidskaarten, enz.   
 
 ### Kerntaak  2:  
 
@@ -6678,7 +6678,7 @@ Functie zoals genoemd in [artikel 2 lid 1 sub z Besluit personeel veiligheidsreg
 
 * Coördinatie en beheer specialismen (duiken, redvoertuigen, OGS (Ongevallen Gevaarlijke Stoffen)., schuim, grootschalige incidentbestrijding, ...).  
 
-* Evaluaties (incl. terugkoppeling naar implementatieplan).    
+* Evaluaties (incl. terugkoppeling naar implementatieplan).   
 
 ### Kerntaak  3:  
 
@@ -6688,7 +6688,7 @@ Functie zoals genoemd in [artikel 2 lid 1 sub z Besluit personeel veiligheidsreg
 
 * Opschalingprocedures (GRIP).  
 
-* Het ontwikkelen van scenario’s voor crisisbeheersing.    
+* Het ontwikkelen van scenario’s voor crisisbeheersing.   
 
 ### Kerntaak  4:  
 
@@ -6702,7 +6702,7 @@ Functie zoals genoemd in [artikel 2 lid 1 sub z Besluit personeel veiligheidsreg
 
 * Evaluaties en implementatieplan.  
 
-* Voorbereiding rampencoördinatiesystemen (gemeentelijke organisatie, ROT/BT).    
+* Voorbereiding rampencoördinatiesystemen (gemeentelijke organisatie, ROT/BT).   
 
 | Functie: specialist operationele voorbereiding  | Kerntaken  | Kern  | Organisatie  | Omgeving  |--- | Leren en reflecteren  | Samenwerken  | Resultaat gericht  | Overtuigen  | Plannen, organiseren en coördineren  | Analyseren  | Oordelen  | Samenwerken  | Communiceren  | Netwerken  | Maatschappelijk georiënteerd  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -6725,7 +6725,7 @@ Functie zoals genoemd in [artikel 2 lid 1 sub z Besluit personeel veiligheidsreg
 | Bestuurskunde (beleidstheorie/publieke organisatie)  | *  | --- | --- |
 | Projectmatig werken  | *  | --- | --- |
 
-In supplement gg is de competentiematrix uitgewerkt.  
+In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -6747,7 +6747,7 @@ Deze kerntaak omvat het ontwikkelen, valideren en implementeren van plannen, pro
 
 * Implementeert, in samenwerking met de repressieve dienst, plannen, procedures en instructies.  
 
-* Evalueert bruikbaarheid van plannen, procedures en instructies en stelt deze zonodig bij (in het kader van kwaliteitsbewaking).    
+* Evalueert bruikbaarheid van plannen, procedures en instructies en stelt deze zonodig bij (in het kader van kwaliteitsbewaking).   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -6771,7 +6771,7 @@ Deze kerntaak omvat het ontwikkelen, valideren en implementeren van plannen, pro
 
 * Netwerken (1)  
 
-* Maatschappelijk georiënteerd (1)    
+* Maatschappelijk georiënteerd (1)   
 
 ####Beoordelingscriteria
 
@@ -6807,7 +6807,7 @@ Deze kerntaak omvat het ontwikkelen, valideren en implementeren van plannen, pro
 
 * Signaleert knelpunten en ontwikkelingen en anticipeert.  
 
-* Bij coördinatie van de werkzaamheden: sociaal vaardig, taal spreken van andere partijen/betrokkenen, op hoofdlijnen weten wat er leeft en hoe er gewerkt wordt en onderhandelingsvermogen.    
+* Bij coördinatie van de werkzaamheden: sociaal vaardig, taal spreken van andere partijen/betrokkenen, op hoofdlijnen weten wat er leeft en hoe er gewerkt wordt en onderhandelingsvermogen.   
 
 ### Kerntaak  2:  
 
@@ -6841,7 +6841,7 @@ Deze kerntaak omvat het ontwikkelen en in stand houden van organisatorische kade
 
 * Volgen van trends en ontwikkelingen ten behoeve van planvorming. Inschatten van de bruikbaarheid voor de eigen organisatie en daar praktisch gevolg aan geven.  
 
-* Draagt bij aan het beheer en de verdere ontwikkeling van het kwaliteitszorgsysteem (inclusief evaluatie). Communiceert hierover met stakeholders.    
+* Draagt bij aan het beheer en de verdere ontwikkeling van het kwaliteitszorgsysteem (inclusief evaluatie). Communiceert hierover met stakeholders.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -6857,7 +6857,7 @@ Deze kerntaak omvat het ontwikkelen en in stand houden van organisatorische kade
 
 * Netwerken (1)  
 
-* Maatschappelijk georiënteerd (1)    
+* Maatschappelijk georiënteerd (1)   
 
 ####Beoordelingscriteria
 
@@ -6895,7 +6895,7 @@ Deze kerntaak omvat het ontwikkelen en in stand houden van organisatorische kade
 
 * Gesprekspartner op niveau.  
 
-* Daadkrachtig en zelfverzekerd maar flexibel.    
+* Daadkrachtig en zelfverzekerd maar flexibel.   
 
 ### Kerntaak  3:  
 
@@ -6919,7 +6919,7 @@ Deze kerntaak omvat het ontwikkelen valideren en implementeren van plannen en pr
 
 * Brengt gevraagd en ongevraagd advies uit aan de korpsleiding.  
 
-* Ondersteunt en bewaakt de (technische) implementatie van nieuwe procedures en toetst op output.    
+* Ondersteunt en bewaakt de (technische) implementatie van nieuwe procedures en toetst op output.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -6943,7 +6943,7 @@ Deze kerntaak omvat het ontwikkelen valideren en implementeren van plannen en pr
 
 * Netwerken (1)  
 
-* Maatschappelijk georiënteerd (1)    
+* Maatschappelijk georiënteerd (1)   
 
 ####Beoordelingscriteria
 
@@ -6975,7 +6975,7 @@ Deze kerntaak omvat het ontwikkelen valideren en implementeren van plannen en pr
 
 * Politiek-bestuurlijk invoelingsvermogen.  
 
-* Deskundig op het gebied van repressief optreden bij rampen en grote incidenten.    
+* Deskundig op het gebied van repressief optreden bij rampen en grote incidenten.   
 
 ### Kerntaak  4:  
 
@@ -7013,7 +7013,7 @@ Deze kerntaak omvat het ontwikkelen en in stand houden van organisatorische kade
 
 * Organiseren van evaluaties (overkoepelend) van (grote) incidenten  
 
-* Beheer regionale piketten brandweer.    
+* Beheer regionale piketten brandweer.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -7037,7 +7037,7 @@ Deze kerntaak omvat het ontwikkelen en in stand houden van organisatorische kade
 
 * Netwerken (1)  
 
-* Maatschappelijk georiënteerd (1)    
+* Maatschappelijk georiënteerd (1)   
 
 ####Beoordelingscriteria
 
@@ -7069,7 +7069,7 @@ Deze kerntaak omvat het ontwikkelen en in stand houden van organisatorische kade
 
 ○ hebben van draagvlak.    
 
-* In geval van geven van aansturing en (vooral) van voeren van regie: sociaal vaardig, taal spreken van andere partijen/betrokkenen, op hoofdlijnen weten wat er leeft en hoe er gewerkt wordt, onderhandelingsvermogen en afstand kunnen nemen van eigen discipline. Brede maatschappelijke oriëntatie, in staat zijn om verbanden te leggen.    
+* In geval van geven van aansturing en (vooral) van voeren van regie: sociaal vaardig, taal spreken van andere partijen/betrokkenen, op hoofdlijnen weten wat er leeft en hoe er gewerkt wordt, onderhandelingsvermogen en afstand kunnen nemen van eigen discipline. Brede maatschappelijke oriëntatie, in staat zijn om verbanden te leggen.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -7099,19 +7099,19 @@ Functie zoals genoemd in [artikel 2 lid 1 sub aa. Besluit personeel veiligheidsr
 
 ####Ontwikkelen van beleid op de terreinen van opleiden, oefenen en bijscholen
 
-Ontwikkeld beleid, afgestemd op landelijke beleidsmatige, juridische en maatschappelijke ontwikkelingen. Stelt de opleidings-, oefen- en bijscholingsbehoeften vast. Stelt meerjaren beleidsplan op.  
+Ontwikkeld beleid, afgestemd op landelijke beleidsmatige, juridische en maatschappelijke ontwikkelingen. Stelt de opleidings-, oefen- en bijscholingsbehoeften vast. Stelt meerjaren beleidsplan op. 
 
 ### Kerntaak  2:  
 
 ####Ontwikkelen, organiseren, leiden en evalueren van opleidingen, oefeningen en bijscholingsactiviteiten
 
-Ontwikkelt, organiseert en evalueert de opleidings-, oefen- en bijscholingsprogramma’s. Maakt gebruik van onderwijskundige concepten en didactische modellen om de inhoud, effectiviteit en kwaliteit van opleidingen, oefeningen en bijscholingsactiviteiten te ontwikkelen, evalueren, beoordelen en verbeteren. Stelt een opleidings-, oefen- en bijscholingsbegroting op. Geeft als eindverantwoordelijke leiding aan grootschalige, multidisciplinaire oefeningen, treedt op als oefenleider bij bestuurlijke oefeningen en veldoefeningen vanaf pelotonsniveau. Is verantwoordelijk voor het coachen van oefenleiders en instructeurs.  
+Ontwikkelt, organiseert en evalueert de opleidings-, oefen- en bijscholingsprogramma’s. Maakt gebruik van onderwijskundige concepten en didactische modellen om de inhoud, effectiviteit en kwaliteit van opleidingen, oefeningen en bijscholingsactiviteiten te ontwikkelen, evalueren, beoordelen en verbeteren. Stelt een opleidings-, oefen- en bijscholingsbegroting op. Geeft als eindverantwoordelijke leiding aan grootschalige, multidisciplinaire oefeningen, treedt op als oefenleider bij bestuurlijke oefeningen en veldoefeningen vanaf pelotonsniveau. Is verantwoordelijk voor het coachen van oefenleiders en instructeurs. 
 
 ### Kerntaak  3:  
 
 ####Zorg dragen voor en borgen van de kwaliteit van opleidingen, oefeningen en bijscholingsactiviteiten
 
-Richt mede een kwaliteitszorgsysteem in voor het opleiden, oefenen en bijscholen en onderhoudt het kwaliteitszorgsysteem.Voert steekproefsgewijs kwaliteitscontroles/audits uit.  
+Richt mede een kwaliteitszorgsysteem in voor het opleiden, oefenen en bijscholen en onderhoudt het kwaliteitszorgsysteem.Voert steekproefsgewijs kwaliteitscontroles/audits uit. 
 
 | Functie: Specialist opleiden en oefenen  | Kerntaken  | Kern  | Organisatie  | Omgeving  |--- | Leren en reflecteren  | Samenwerken  | Resultaatgericht  | Overtuigen  | Plannen, organiseren en coördineren  | Analyseren  | Oordelen  | Samenwerken  | Communiceren  | Netwerken  | Maatschappelijk georiënteerd  | Coachen  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -7133,7 +7133,7 @@ Richt mede een kwaliteitszorgsysteem in voor het opleiden, oefenen en bijscholen
 | Bestuurskunde (beleidstheorie/publieke organisatie)  | *  | --- | --- |
 | Projectmatig werken  | *  | --- | --- |
 
-In supplement gg is de competentiematrix uitgewerkt.  
+In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -7151,7 +7151,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Vertaalt landelijke, beleidsmatige, juridische en maatschappelijke ontwikkelingen en leerpunten van plaatsgevonden incidenten en voorgaande oefeningen naar beleid betreffende de inhoud en organisatie van opleidingen, oefeningen en bijscholingsactiviteiten.  
 
-* Stemt (in overleg met leidinggevende en overige betrokkenen) het meerjarig opleidings- en oefenbeleid af met landelijke richtlijnen, vergelijkbare oefenplannen van andere diensten én op de behoefte van de werkomgeving.    
+* Stemt (in overleg met leidinggevende en overige betrokkenen) het meerjarig opleidings- en oefenbeleid af met landelijke richtlijnen, vergelijkbare oefenplannen van andere diensten én op de behoefte van de werkomgeving.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -7171,7 +7171,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Samenwerken (2)  
 
-* Communiceren (2)    
+* Communiceren (2)   
 
 ####Beoordelingscriteria
 
@@ -7191,7 +7191,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Bereikt samenhang tussen opleidingen, oefeningen en bijscholingsactiviteiten.  
 
-* Maakt gebruik van recente ontwikkelingen en inzichten bij de totstandkoming van beleid rond opleidingen, oefeningen en bijscholingsactiviteiten.    
+* Maakt gebruik van recente ontwikkelingen en inzichten bij de totstandkoming van beleid rond opleidingen, oefeningen en bijscholingsactiviteiten.   
 
 ### Kerntaak  2:  
 
@@ -7229,7 +7229,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Is verantwoordelijk voor de coaching van oefenleiders en instructeurs.  
 
-* Draagt zorg voor de toepassing van het Landelijk Veiligheidsprotocol en de voortdurende beoordeling van de veiligheid bij opleidingen, oefeningen en bijscholingsactiviteiten.    
+* Draagt zorg voor de toepassing van het Landelijk Veiligheidsprotocol en de voortdurende beoordeling van de veiligheid bij opleidingen, oefeningen en bijscholingsactiviteiten.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -7249,7 +7249,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Maatschappelijk georiënteerd (2)  
 
-* Coachen (2)    
+* Coachen (2)   
 
 ####Beoordelingscriteria
 
@@ -7257,7 +7257,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Zorgt voor constructieve feedback met betrekking tot het proces (vakinhoudelijk en/of didactisch) voor, tijdens en na afloop van een opleiding, oefening en/of bijscholingsactiviteit.  
 
-* Realiseert binnen de gestelde kaders de doelstelling(en) van de opleiding, oefening en/of bijscholingsactiviteit.    
+* Realiseert binnen de gestelde kaders de doelstelling(en) van de opleiding, oefening en/of bijscholingsactiviteit.   
 
 ### Kerntaak  3:  
 
@@ -7273,7 +7273,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 ○ Overlegt met sleutelfunctionarissen over de huidige en gewenste kwaliteit van opleiden, oefenen en bijscholen.  
 
-○ Voert steekproefsgewijs kwaliteitscontroles/audits uit.      
+○ Voert steekproefsgewijs kwaliteitscontroles/audits uit.     
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -7287,7 +7287,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Samenwerken (2)  
 
-* Communiceren (2)    
+* Communiceren (2)   
 
 ####Beoordelingscriteria
 
@@ -7297,7 +7297,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Signaleert aan de hand van kwaliteitscontroles/audits verbeterpunten en vertaalt deze in verbetervoorstellen.  
 
-* Implementeert een verbeterplan binnen de organisatie voor opleiden, oefenen en bijscholen.    
+* Implementeert een verbeterplan binnen de organisatie voor opleiden, oefenen en bijscholen.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -7335,13 +7335,13 @@ Functie zoals genoemd in [artikel 2 lid 1 sub bb Besluit personeel veiligheidsre
 
 ####Ontwikkelen van beleid op het gebied van risicobeheersing
 
-De specialist risico’s en veiligheid vertaalt bevindingen op basis van zijn praktijkervaring naar beleidsvoorstellen op het gebied van risicobeheersing. Daarnaast levert de specialist risico’s en veiligheid input bij de totstandkoming van het regionaal en/of gemeentelijk integraal veiligheidsbeleid. Aanvullend heeft de specialist risico’s en veiligheid een rol bij implementatie en uitvoering.  
+De specialist risico’s en veiligheid vertaalt bevindingen op basis van zijn praktijkervaring naar beleidsvoorstellen op het gebied van risicobeheersing. Daarnaast levert de specialist risico’s en veiligheid input bij de totstandkoming van het regionaal en/of gemeentelijk integraal veiligheidsbeleid. Aanvullend heeft de specialist risico’s en veiligheid een rol bij implementatie en uitvoering. 
 
 ### Kerntaak  2:  
 
 ####Inventariseren, analyseren en beoordelen van bestaande en tijdelijke risico’s in het verzorgingsgebied
 
-De specialist risico’s en veiligheid genereert risico-informatie over het verzorgingsgebied als onderdeel van een cyclisch beleidsproces of in opdracht om uiteindelijk (eventueel ongevraagd) advies uit te brengen over de mate van beheersbaarheid van risico’s (inclusief het voorkomen van risico’s).  
+De specialist risico’s en veiligheid genereert risico-informatie over het verzorgingsgebied als onderdeel van een cyclisch beleidsproces of in opdracht om uiteindelijk (eventueel ongevraagd) advies uit te brengen over de mate van beheersbaarheid van risico’s (inclusief het voorkomen van risico’s). 
 
 ### Kerntaak  3:  
 
@@ -7355,19 +7355,19 @@ De specialist risico’s en veiligheid brengt schriftelijk advies uit aan het be
 
 * Ten behoeve van de totstandkoming van infrastructurele projecten.  
 
-* Ten behoeve van de bescherming van vitale objecten, infrastructuur en voorzieningen.    
+* Ten behoeve van de bescherming van vitale objecten, infrastructuur en voorzieningen.   
 
 ### Kerntaak  4:  
 
 ####Beoordelen van maatregelen
 
-De specialist risico’s en veiligheid beoordeelt de veiligheidsmaatregelen (technisch en procedureel) van bedrijven. Hij doet dit onder andere in het kader van [BEVI](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [BRZO](../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md), besluit bedrijfsbrandweren, complexe bouwvergunningen en de brandveiligheidsparagraaf in de milieuvergunning.  
+De specialist risico’s en veiligheid beoordeelt de veiligheidsmaatregelen (technisch en procedureel) van bedrijven. Hij doet dit onder andere in het kader van [BEVI](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [BRZO](../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md), besluit bedrijfsbrandweren, complexe bouwvergunningen en de brandveiligheidsparagraaf in de milieuvergunning. 
 
 ### Kerntaak  5:  
 
 ####Initiëren en onderhouden van netwerken, afstemmen met relevante partijen, stimuleren van veiligheidsbewustzijn
 
-De specialist risico’s en veiligheid stimuleert het veiligheidsbewustzijn door actief aandacht te vragen voor fysieke veiligheid. Ook stemt de specialist risico’s en veiligheid, zowel binnen als buiten de organisatie, zaken op het gebied van fysieke veiligheid af en wisselt deze uit.  
+De specialist risico’s en veiligheid stimuleert het veiligheidsbewustzijn door actief aandacht te vragen voor fysieke veiligheid. Ook stemt de specialist risico’s en veiligheid, zowel binnen als buiten de organisatie, zaken op het gebied van fysieke veiligheid af en wisselt deze uit. 
 
 | Functie: specialist risico’s en veiligheid  | Kerntaken  | Kern  | Organisatie  | Omgeving  |--- | Leren en reflecteren  | Samenwerken  | Resultaatgericht  | Overtuigen  | Plannen, organiseren en coördineren  | Analyseren  | Oordelen  | Samenwerken  | Communiceren  | Netwerken  | Maatschappelijk georiënteerd  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -7391,7 +7391,7 @@ De specialist risico’s en veiligheid stimuleert het veiligheidsbewustzijn door
 | Bestuurskunde (beleidstheorie/publieke organisatie)  | *  | --- | --- |
 | Projectmatig werken  | *  | --- | --- |
 
-In supplement gg is de competentiematrix uitgewerkt.  
+In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -7409,7 +7409,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Vertaalt deze bevindingen en belangen naar beleidsvoorstellen op het gebied van risicobeheersing.  
 
-* Vertaalt deze bevindingen en belangen naar voorstellen voor implementatie in het verzorgingsgebied.    
+* Vertaalt deze bevindingen en belangen naar voorstellen voor implementatie in het verzorgingsgebied.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -7423,7 +7423,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Analyseren (2)  
 
-* Oordelen (2)    
+* Oordelen (2)   
 
 ####Beoordelingscriteria
 
@@ -7439,7 +7439,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Heeft gevoel voor bestuurlijke verhoudingen.  
 
-* Is omgevingsbewust.    
+* Is omgevingsbewust.   
 
 ### Kerntaak  2:  
 
@@ -7459,7 +7459,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Bepaalt de noodzaak voor nader onderzoek.  
 
-* Trekt conclusies en brengt (eventueel ongevraagd) advies uit over de mate van beheersbaarheid.    
+* Trekt conclusies en brengt (eventueel ongevraagd) advies uit over de mate van beheersbaarheid.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -7477,7 +7477,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Samenwerken (2)  
 
-* Communiceren (2)    
+* Communiceren (2)   
 
 ####Beoordelingscriteria
 
@@ -7485,7 +7485,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Maakt een keuze voor het juiste instrumentarium (Worst Case versus Most Credible Accident versus Maatgevend scenario, etc).  
 
-* Biedt een adequaat afwegingskader ten behoeve van risicobeleid (regionaal beheersplan).    
+* Biedt een adequaat afwegingskader ten behoeve van risicobeleid (regionaal beheersplan).   
 
 ### Kerntaak  3:  
 
@@ -7523,7 +7523,7 @@ Brengt schriftelijk advies uit aan het bevoegd gezag:
 
 * Toepassen van procesmodellen, zoals veiligheidseffectrapportage (VER) en scenario’s.  
 
-* Integrale begeleiding van grote evenementen.    
+* Integrale begeleiding van grote evenementen.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -7541,7 +7541,7 @@ Brengt schriftelijk advies uit aan het bevoegd gezag:
 
 * Samenwerken (2)  
 
-* Communiceren (2)    
+* Communiceren (2)   
 
 ####Beoordelingscriteria
 
@@ -7561,7 +7561,7 @@ Brengt schriftelijk advies uit aan het bevoegd gezag:
 
 * Overtuigingskracht: eigen advies krachtig naar voren brengen zodat anderen hierdoor gewonnen worden.  
 
-* Rekening houdend met (bestuurlijke en maatschappelijke) belangen van betrokkenen in het overleg: luisteren naar anderen, doorvragen, inspelen op de vragen en zorgen die geuit worden en deze meenemen in de oplossingen die je voorstelt.    
+* Rekening houdend met (bestuurlijke en maatschappelijke) belangen van betrokkenen in het overleg: luisteren naar anderen, doorvragen, inspelen op de vragen en zorgen die geuit worden en deze meenemen in de oplossingen die je voorstelt.   
 
 ### Kerntaak  4:  
 
@@ -7569,7 +7569,7 @@ Brengt schriftelijk advies uit aan het bevoegd gezag:
 
 ####Werkzaamheden
 
-Een SRV beoordeelt de effectiviteit van beheersmaatregelen die door bedrijven of andere organisaties genomen dienen te worden. Meestal betreft dit een wettelijke adviestaak van de (regionale) brandweer. Het gaat hier bijvoorbeeld om werkzaamheden inzake het [Besluit Externe Veiligheid Inrichtingen](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) (BEVI). In samenwerking met een specialist uit de kernregio BRZO, het mede-uitvoeren van werkzaamheden in het kader van [BRZO](../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md): <sup> 1  Gegeven het aantal BRZO bedrijven per regio, zal niet elke SRV deze werkzaamheden volledig zelfstandig uitvoeren. Wel dient de SRV kennis te hebben van de werkzaamheden en de vertaalslag weten te maken naar het eigen verzorgingsgebied.  </sup> 
+Een SRV beoordeelt de effectiviteit van beheersmaatregelen die door bedrijven of andere organisaties genomen dienen te worden. Meestal betreft dit een wettelijke adviestaak van de (regionale) brandweer. Het gaat hier bijvoorbeeld om werkzaamheden inzake het [Besluit Externe Veiligheid Inrichtingen](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) (BEVI). In samenwerking met een specialist uit de kernregio BRZO, het mede-uitvoeren van werkzaamheden in het kader van [BRZO](../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md)<sup> 1 Gegeven het aantal BRZO bedrijven per regio, zal niet elke SRV deze werkzaamheden volledig zelfstandig uitvoeren. Wel dient de SRV kennis te hebben van de werkzaamheden en de vertaalslag weten te maken naar het eigen verzorgingsgebied. </sup>: 
 
 * Beoordelen veiligheidsrapporten (VR).  
 
@@ -7603,7 +7603,7 @@ Een SRV beoordeelt de effectiviteit van beheersmaatregelen die door bedrijven of
 
 * Opstellen van rapportages.  
 
-* Aanleveren van informatie ten behoeve van handhaving.    
+* Aanleveren van informatie ten behoeve van handhaving.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -7621,7 +7621,7 @@ Een SRV beoordeelt de effectiviteit van beheersmaatregelen die door bedrijven of
 
 * Oordelen (2)  
 
-* Communiceren (2)    
+* Communiceren (2)   
 
 ####Beoordelingscriteria
 
@@ -7659,7 +7659,7 @@ Een SRV beoordeelt de effectiviteit van beheersmaatregelen die door bedrijven of
 
 * In staat om snel de relevante informatie te destilleren uit het aanbod van documenten en andere gegevens.  
 
-* In staat om maatwerk te leveren per bedrijf.    
+* In staat om maatwerk te leveren per bedrijf.   
 
 ### Kerntaak  5:  
 
@@ -7677,7 +7677,7 @@ Actief relevante partners benaderen en uitleg geven over de noodzaak van aandach
 
 * input leveren aan landelijke producten;  
 
-* deelnemen van vakinhoudelijke platforms.    
+* deelnemen van vakinhoudelijke platforms.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -7687,7 +7687,7 @@ Actief relevante partners benaderen en uitleg geven over de noodzaak van aandach
 
 * Netwerken (2)  
 
-* Maatschappelijk georïenteerd (2)    
+* Maatschappelijk georïenteerd (2)   
 
 ####Beoordelingscriteria
 
@@ -7699,7 +7699,7 @@ Actief relevante partners benaderen en uitleg geven over de noodzaak van aandach
 
 * Kan eigen kennis op peil houden.  
 
-* Is in staat om ontbrekende kennis of deskundigheid in te laten vliegen/cq te organiseren.    
+* Is in staat om ontbrekende kennis of deskundigheid in te laten vliegen/cq te organiseren.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -7721,7 +7721,7 @@ Functie zoals genoemd in [artikel 2 lid 1 sub cc Besluit personeel veiligheidsre
 | --- | --- |
 | --- | Hij rapporteert en legt verantwoording af, direct of indirect, aan de leiding van de regionale brandweerorganisatie.  |
 
-¹ Overal in dit document waar de strategisch manager in de mannelijke vorm wordt aangeduid, kan nadrukkelijk ook vrouwelijke vorm gelezen worden. Slechts omwille van de leesbaarheid is voor een enkelvoudige (mannelijke) aanduiding gekozen.  
+¹ Overal in dit document waar de strategisch manager in de mannelijke vorm wordt aangeduid, kan nadrukkelijk ook vrouwelijke vorm gelezen worden. Slechts omwille van de leesbaarheid is voor een enkelvoudige (mannelijke) aanduiding gekozen.
 
 ### 2.1  
 
@@ -7731,25 +7731,25 @@ Functie zoals genoemd in [artikel 2 lid 1 sub cc Besluit personeel veiligheidsre
 
 ####Initiëren van strategisch beleid voor het eigen organisatieonderdeel/werkgebied en bijdragen aan het strategisch beleid van de organisatie als geheel
 
-De strategisch manager is lid van het MT. Daarin heeft hij een tweeledige rol. Enerzijds draagt hij bij aan de totstandkoming van strategisch beleid voor de organisatie. Anderzijds heeft hij z’n eigen werkgebied waarvoor hij een meerjarenplan en meerjarenbegroting ontwikkelt als onderdeel van het meerjarenplan en de meerjarenbegroting van de organisatie. De strategisch manager draagt daarbij zorg voor het beheren en beheersen van het beleid binnen zijn eigen organisatieonderdeel/werkgebied.  
+De strategisch manager is lid van het MT. Daarin heeft hij een tweeledige rol. Enerzijds draagt hij bij aan de totstandkoming van strategisch beleid voor de organisatie. Anderzijds heeft hij z’n eigen werkgebied waarvoor hij een meerjarenplan en meerjarenbegroting ontwikkelt als onderdeel van het meerjarenplan en de meerjarenbegroting van de organisatie. De strategisch manager draagt daarbij zorg voor het beheren en beheersen van het beleid binnen zijn eigen organisatieonderdeel/werkgebied. 
 
 ### Kerntaak  2:  
 
 ####Prioriteren en implementeren van vastgesteld beleid voor het eigen organisatieonderdeel/werkgebied
 
-De strategisch manager geeft binnen zijn eigen organisatieonderdeel/werkgebied richting aan de implementatie van het vastgestelde beleid binnen de regionale brandweerorganisatie. Hij treedt hierin sturen en bepalend op. Specifiek geeft hij hierin sturing aan de uitwerking van programma’s.  
+De strategisch manager geeft binnen zijn eigen organisatieonderdeel/werkgebied richting aan de implementatie van het vastgestelde beleid binnen de regionale brandweerorganisatie. Hij treedt hierin sturen en bepalend op. Specifiek geeft hij hierin sturing aan de uitwerking van programma’s. 
 
 ### Kerntaak  3:  
 
 ####Randvoorwaarden creëren voor de personele zorg en de inzet van middelen en situationeel leidinggeven aan zijn organisatieonderdeel/werkgebied
 
-De strategisch manager is verantwoordelijk voor de personele zorg en de inzet van middelen van het organisatieonderdeel/werkgebied. Dit betreft de uitvoering van de HRM-taken en de inzet van middelen waarvoor de kaders wettelijk of door de eigen organisatie zijn vastgesteld.  
+De strategisch manager is verantwoordelijk voor de personele zorg en de inzet van middelen van het organisatieonderdeel/werkgebied. Dit betreft de uitvoering van de HRM-taken en de inzet van middelen waarvoor de kaders wettelijk of door de eigen organisatie zijn vastgesteld. 
 
 ### Kerntaak  4:  
 
 ####Randvoorwaarden creëren voor en acteren in relevante netwerken
 
-Voor de strategisch manager is het opbouwen en onderhouden van een netwerk cruciaal. Langs deze weg kan hij tijdig anticiperen op ontwikkelingen en is hij in beeld in zowel de mono- als multidisciplinaire omgeving.  
+Voor de strategisch manager is het opbouwen en onderhouden van een netwerk cruciaal. Langs deze weg kan hij tijdig anticiperen op ontwikkelingen en is hij in beeld in zowel de mono- als multidisciplinaire omgeving. 
 
 | Functie: strategisch manager  | Kerntaken  | Kern  | Organisatie  | Omgeving  |--- | Leren/reflecteren  | Ondernemen  | Visie  | Coachen  | Leiderschap  | Resultaatgericht  | Plannen, organiseren en coördineren  | Analyseren  | Kosten bewust  | Netwerken  | Samenwerken  | Maatschappelijk georiënteerd  | Politiek-bestuurlijk inzicht  | Communiceren  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -7802,7 +7802,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 ○ relevante externe partijen.    
 
-* Beheren en beheersen van het effect van het (strategisch) beleid.    
+* Beheren en beheersen van het effect van het (strategisch) beleid.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -7818,7 +7818,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Politiek bestuurlijk inzicht (3)  
 
-* Communiceren (3)    
+* Communiceren (3)   
 
 ####Beoordelingscriteria
 
@@ -7834,7 +7834,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Is extern actief en proactief in (brandweer)netwerken.  
 
-* Weet te handelen en te acteren in een netwerk- en procesmatige omgeving.    
+* Weet te handelen en te acteren in een netwerk- en procesmatige omgeving.   
 
 ### Kerntaak  2:  
 
@@ -7850,7 +7850,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Periodiek laten rapporteren door managers en overige betrokkenen over de voortgang in de implementatie van het vastgestelde beleid.  
 
-* Opstellen van een periodieke managementrapportage, over de behaalde resultaten ten opzichte van de gestelde doelen en benutting van resources. In deze rapportage worden nadrukkelijk ook de afwijkingen in de implementatie van het beleid benoemd en het effect daarvan op lange termijn.    
+* Opstellen van een periodieke managementrapportage, over de behaalde resultaten ten opzichte van de gestelde doelen en benutting van resources. In deze rapportage worden nadrukkelijk ook de afwijkingen in de implementatie van het beleid benoemd en het effect daarvan op lange termijn.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -7864,7 +7864,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Resultaatgericht (3)  
 
-* Maatschappelijk georiënteerd (3)    
+* Maatschappelijk georiënteerd (3)   
 
 ####Beoordelingscriteria
 
@@ -7872,7 +7872,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * De opdrachten (of taakstellingen) aan de tactisch manager zijn SMART (Specifiek, Meetbaar, Acceptabel, Realistisch en Tijdsgebonden) geformuleerd.  
 
-* Motiveert betrokkenen om de opdrachten uit te voeren.    
+* Motiveert betrokkenen om de opdrachten uit te voeren.   
 
 ### Kerntaak  3:  
 
@@ -7890,7 +7890,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Beslissen binnen gestelde kaders van de organisatie over werving en selectie, benoeming, ontwikkeling, promotie en ontslag.  
 
-* Het creëren van randvoorwaarden voor de inzet van middelen (o.a. financiën, ict, huistvesting) voor het optimaal functioneren van de organisatie.    
+* Het creëren van randvoorwaarden voor de inzet van middelen (o.a. financiën, ict, huistvesting) voor het optimaal functioneren van de organisatie.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -7902,7 +7902,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Coachen (3)  
 
-* Kosten bewust (2)    
+* Kosten bewust (2)   
 
 ####Beoordelingscriteria
 
@@ -7912,7 +7912,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Er is sprake van aantoonbare ontwikkeling van managers en overige betrokkenen passend bij de organisatiedoelen.  
 
-* De gesprekken uit de P-cyclus voldoen aan lokaal/regionaal gestelde eisen.    
+* De gesprekken uit de P-cyclus voldoen aan lokaal/regionaal gestelde eisen.   
 
 ### Kerntaak  4:  
 
@@ -7924,7 +7924,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Het oprichten van, deelnemen aan en onderhouden van relevante netwerken.  
 
-* Vertalen van belangen en activiteiten van het netwerk naar belangen en activiteiten van de organisatie en vice versa.    
+* Vertalen van belangen en activiteiten van het netwerk naar belangen en activiteiten van de organisatie en vice versa.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -7938,7 +7938,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Maatschappelijk georiënteerd (2)  
 
-* Politiek bestuurlijk inzicht (2)    
+* Politiek bestuurlijk inzicht (2)   
 
 ####Beoordelingscriteria
 
@@ -7946,7 +7946,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 * Verkrijgt medestanders voor voorstellen.  
 
-* Heeft een goed imago bij externe partijen op zowel het mono- als multidisciplinair terrein.    
+* Heeft een goed imago bij externe partijen op zowel het mono- als multidisciplinair terrein.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -7976,31 +7976,31 @@ Functie zoals genoemd in [artikel 2 lid 1 sub dd Besluit personeel veiligheidsre
 
 ####Bijdragen aan het strategisch beleid van de organisatie en ontwikkelen van strategisch beleid voor het eigen organisatieonderdeel/werkgebied
 
-De tactisch manager is lid van het MT. Daarin heeft hij een tweeledige rol. Enerzijds draagt hij bij aan de totstandkoming van strategisch beleid voor de brandweerorganisatie. Anderzijds heeft hij z’n eigen werkgebied waarvoor hij een meerjarenplan en meerjarenbegroting ontwikkelt als onderdeel van het meerjarenplan en de meerjarenbegroting van de organisatie.  
+De tactisch manager is lid van het MT. Daarin heeft hij een tweeledige rol. Enerzijds draagt hij bij aan de totstandkoming van strategisch beleid voor de brandweerorganisatie. Anderzijds heeft hij z’n eigen werkgebied waarvoor hij een meerjarenplan en meerjarenbegroting ontwikkelt als onderdeel van het meerjarenplan en de meerjarenbegroting van de organisatie. 
 
 ### Kerntaak  2:  
 
 ####Implementeren van vastgesteld beleid voor het eigen organisatieonderdeel/werkgebied
 
-Uitgangspunt voor deze kerntaak is dat de tactisch manager voor het eigen organisatieonderdeel/werkgebied beschikt over een meerjarenplan en meerjarenbegroting. Nu is het zaak dit plan te concretiseren naar een jaarplan en naar concrete kaders voor de operationele managers, specialisten en projectleiders waaraan de tactisch manager leiding geeft. De tactisch manager weet het bieden van duidelijke kaders daarbij te verbinden met het inspireren en motiveren van zijn mensen.  
+Uitgangspunt voor deze kerntaak is dat de tactisch manager voor het eigen organisatieonderdeel/werkgebied beschikt over een meerjarenplan en meerjarenbegroting. Nu is het zaak dit plan te concretiseren naar een jaarplan en naar concrete kaders voor de operationele managers, specialisten en projectleiders waaraan de tactisch manager leiding geeft. De tactisch manager weet het bieden van duidelijke kaders daarbij te verbinden met het inspireren en motiveren van zijn mensen. 
 
 ### Kerntaak  3:  
 
 ####Randvoorwaarden creëren voor de personele zorg en situationeel leidinggeven aan operationele managers/vakspecialisten/projectleiders
 
-De tactisch manager is verantwoordelijk voor de personele zorg van het organisatieonderdeel. Dit betreft de uitvoering van de HRM-taken waarvoor de kaders wettelijk of door de eigen organisatie zijn vastgesteld.  
+De tactisch manager is verantwoordelijk voor de personele zorg van het organisatieonderdeel. Dit betreft de uitvoering van de HRM-taken waarvoor de kaders wettelijk of door de eigen organisatie zijn vastgesteld. 
 
 ### Kerntaak  4:  
 
 ####Coördineren, bijsturen en rapporteren van werkzaamheden
 
-Periodiek checkt de tactisch manager of de realisatie van plannen naar wens verloopt. Op basis van de uitkomsten beslist hij over het vervolg en vindt rapportage naar het strategisch management plaats.  
+Periodiek checkt de tactisch manager of de realisatie van plannen naar wens verloopt. Op basis van de uitkomsten beslist hij over het vervolg en vindt rapportage naar het strategisch management plaats. 
 
 ### Kerntaak  5:  
 
 ####Onderhouden van relevante netwerken
 
-Voor de tactisch manager binnen de brandweer is het opbouwen en onderhouden van een netwerk cruciaal. Langs deze weg kan hij tijdig anticiperen op ontwikkelingen en is hij ook in beeld bij de andere partijen om door hem betrokken te worden.  
+Voor de tactisch manager binnen de brandweer is het opbouwen en onderhouden van een netwerk cruciaal. Langs deze weg kan hij tijdig anticiperen op ontwikkelingen en is hij ook in beeld bij de andere partijen om door hem betrokken te worden. 
 
 | Functie: tactisch manager  | Kerntaken  | Kern  | Organisatie  | Omgeving  |--- | Leren/reflecteren  | Ondernemen  | Visie  | Coachen  | Leiderschap  | Resultaatgericht  | Plannen, organiseren en coördineren  | Analyseren  | Kosten bewust  | Netwerken  | Samenwerken  | Maatschappelijk georiënteerd  | Politiek-bestuurlijk inzicht  | Communiceren  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -8024,7 +8024,7 @@ Voor de tactisch manager binnen de brandweer is het opbouwen en onderhouden van 
 | Bestuurskunde (beleidstheorie/publieke organisatie)  | --- | *  | --- |
 | Projectmatig werken  | --- | --- | *  |
 
-In supplement gg is de competentiematrix uitgewerkt.  
+In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -8066,7 +8066,7 @@ De tactisch manager is lid van het MT. Daarin heeft hij een tweeledige rol. Ener
 
 ○ andere organisatieonderdelen/werkgebieden en;  
 
-○ relevante externe partijen.      
+○ relevante externe partijen.     
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -8082,7 +8082,7 @@ De tactisch manager is lid van het MT. Daarin heeft hij een tweeledige rol. Ener
 
 * Politiek- bestuurlijk inzicht (2)  
 
-* Communiceren (2)    
+* Communiceren (2)   
 
 ####Beoordelingscriteria
 
@@ -8096,7 +8096,7 @@ De tactisch manager is lid van het MT. Daarin heeft hij een tweeledige rol. Ener
 
 ○ medewerkers van het eigen onderdeel;  
 
-○ externe partijen.      
+○ externe partijen.     
 
 ### Kerntaak  2:  
 
@@ -8114,7 +8114,7 @@ Uitgangspunt voor deze kerntaak is dat de tactisch manager voor het eigen organi
 
 * Begeleiden, motiveren en coachen van de betrokkenen bij het uitwerken van de (project)plannen.  
 
-* Zorgen dat benodigde personeel en middelen (financiën, organisatie, informatie, automatisering, ...) beschikbaar komen om de afdelingsdoelen te bereiken.    
+* Zorgen dat benodigde personeel en middelen (financiën, organisatie, informatie, automatisering, ...) beschikbaar komen om de afdelingsdoelen te bereiken.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -8128,7 +8128,7 @@ Uitgangspunt voor deze kerntaak is dat de tactisch manager voor het eigen organi
 
 * Maatschappelijk georiënteerd (2)  
 
-* Politiek-bestuurlijk inzicht (2)    
+* Politiek-bestuurlijk inzicht (2)   
 
 ####Beoordelingscriteria
 
@@ -8138,7 +8138,7 @@ Uitgangspunt voor deze kerntaak is dat de tactisch manager voor het eigen organi
 
 * De opgestelde projectplannen zijn uitgewerkt volgens de eisen van projectmatig werken.  
 
-* Betrokkenen zijn gemotiveerd om de opdrachten uit te voeren.    
+* Betrokkenen zijn gemotiveerd om de opdrachten uit te voeren.   
 
 ### Kerntaak  3:  
 
@@ -8164,7 +8164,7 @@ De tactisch manager is verantwoordelijk voor de personele zorg van het organisat
 
 ○ exitgesprekken.    
 
-* Beslissen binnen gestelde kaders van de organisatie over werving & selectie, benoeming, promotie, ontslag en opleiding.    
+* Beslissen binnen gestelde kaders van de organisatie over werving & selectie, benoeming, promotie, ontslag en opleiding.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -8182,7 +8182,7 @@ De tactisch manager is verantwoordelijk voor de personele zorg van het organisat
 
 * Plannen, organisseren en coördineren (2)  
 
-* Kostenbewust (2)    
+* Kostenbewust (2)   
 
 ####Beoordelingscriteria
 
@@ -8192,7 +8192,7 @@ De tactisch manager is verantwoordelijk voor de personele zorg van het organisat
 
 * Er is sprake van aantoonbare ontwikkeling van operationele managers, specialisten en projectleiders passend bij de organisatiedoelen.  
 
-* De gesprekken uit de P-cyclus voldoen aan lokaal/regionaal gestelde eisen.    
+* De gesprekken uit de P-cyclus voldoen aan lokaal/regionaal gestelde eisen.   
 
 ### Kerntaak  4:  
 
@@ -8206,7 +8206,7 @@ Periodiek checkt de tactisch manager of de realisatie van plannen naar wens verl
 
 * Opstellen van een periodieke managementrapportage, over de behaalde resultaten ten opzichte van de gestelde doelen en benutting van resources.  
 
-* Waar nodig zorgdragen voor passende bijsturing (maatregelen om beoogde resultaten alsnog te behalen, of doelen bijstellen).    
+* Waar nodig zorgdragen voor passende bijsturing (maatregelen om beoogde resultaten alsnog te behalen, of doelen bijstellen).   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -8222,7 +8222,7 @@ Periodiek checkt de tactisch manager of de realisatie van plannen naar wens verl
 
 * Kostenbewust (2)  
 
-* Communiceren (2)    
+* Communiceren (2)   
 
 ####Beoordelingscriteria
 
@@ -8232,7 +8232,7 @@ Periodiek checkt de tactisch manager of de realisatie van plannen naar wens verl
 
 * Besluiten tot bijsturing zijn verantwoord onderbouwd.  
 
-* Het strategisch management is tevreden over de wijze van rapporteren.    
+* Het strategisch management is tevreden over de wijze van rapporteren.   
 
 ### Kerntaak  5:  
 
@@ -8246,7 +8246,7 @@ Voor de tactisch manager binnen de brandweer is het opbouwen en onderhouden van 
 
 * Leggen van contacten met actoren.  
 
-* Voeren van overleg met diverse gemeentelijke, regionale, provinciale en landelijke functionarissen, adviseurs, ondernemers, etc. over relevante onderwerpen betreffende het eigen werkgebied.    
+* Voeren van overleg met diverse gemeentelijke, regionale, provinciale en landelijke functionarissen, adviseurs, ondernemers, etc. over relevante onderwerpen betreffende het eigen werkgebied.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -8258,7 +8258,7 @@ Voor de tactisch manager binnen de brandweer is het opbouwen en onderhouden van 
 
 * Maatschappelijk georïenteerd (2)  
 
-* Politiek-bestuurlijk inzicht (2)    
+* Politiek-bestuurlijk inzicht (2)   
 
 ####Beoordelingscriteria
 
@@ -8270,7 +8270,7 @@ Voor de tactisch manager binnen de brandweer is het opbouwen en onderhouden van 
 
 ○ brandweer in het algemeen en;  
 
-○ tactisch manager in het bijzonder.      
+○ tactisch manager in het bijzonder.     
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -8298,19 +8298,19 @@ Functie zoals genoemd in [artikel 2 lid 1 sub ee Besluit personeel veiligheidsre
 
 ####Uitruk/verkenning
 
-De verkenner gevaarlijke stoffen selecteert de persoonlijke beschermingsmiddelen, controleert deze en trekt deze aan. Hij controleert de inventaris van de WVD-koffer op compleetheid en werking. De verkenner gevaarlijke stoffen ontvangt en registreert de meetopdracht en rukt met de meetploeg uit naar de opgegeven locatie.  
+De verkenner gevaarlijke stoffen selecteert de persoonlijke beschermingsmiddelen, controleert deze en trekt deze aan. Hij controleert de inventaris van de WVD-koffer op compleetheid en werking. De verkenner gevaarlijke stoffen ontvangt en registreert de meetopdracht en rukt met de meetploeg uit naar de opgegeven locatie. 
 
 ### Kerntaak  2:  
 
 ####Inzet
 
-De verkenner gevaarlijke stoffen voert metingen en waarnemingen uit.  
+De verkenner gevaarlijke stoffen voert metingen en waarnemingen uit. 
 
 ### Kerntaak  3:  
 
 ####Nazorg
 
-De verkenner gevaarlijke stoffen controleert na een inzet de inventaris van de WVD-koffer op compleetheid en werking en vult deze aan. Na afloop van de inzet neemt hij met de ploegleden deel aan de registratie en evaluatie.  
+De verkenner gevaarlijke stoffen controleert na een inzet de inventaris van de WVD-koffer op compleetheid en werking en vult deze aan. Na afloop van de inzet neemt hij met de ploegleden deel aan de registratie en evaluatie. 
 
 | Functie: verkenner gevaarlijke stoffen  | Kerntaken  | Kern  | Organisatie  | Omgeving  |--- | Accuraat  | Samenwerken  | Stressbestendig  | Probleem oplossen  | Leren en reflecteren  | Inleven  | Onafhankelijk  | Mondeling communiceren  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -8322,7 +8322,7 @@ De verkenner gevaarlijke stoffen controleert na een inzet de inventaris van de W
 |:---|:---|:---|:---|:---|
 | Incidentbestrijding  | *  | --- | --- |
 
-In supplement gg is de competentiematrix uitgewerkt.  
+In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -8342,7 +8342,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Registreert en verifieert de meetopdracht.  
 
-* Onderhoudt actief contact met MPL en/of AGS met behulp van communicatieapparatuur en rapporteert zijn bevindingen.    
+* Onderhoudt actief contact met MPL en/of AGS met behulp van communicatieapparatuur en rapporteert zijn bevindingen.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -8352,7 +8352,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Stressbestendig (1)  
 
-* Problemen oplossen (1)    
+* Problemen oplossen (1)   
 
 ####Beoordelingscriteria
 
@@ -8372,7 +8372,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Is in staat om op afstand gegeven opdrachten uit te voeren.  
 
-* Begeeft zich veilig, snel en via een bovenwindse aanrijdroute naar de opgegeven meetlocatie.    
+* Begeeft zich veilig, snel en via een bovenwindse aanrijdroute naar de opgegeven meetlocatie.   
 
 ### Kerntaak  2:  
 
@@ -8390,7 +8390,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Monitort de omgeving en de weersomstandigheden (meteo) continu m.b.t. de inzet en de eigen veiligheid.  
 
-* Bepaalt de exacte plaats en tijdstip van de meting    
+* Bepaalt de exacte plaats en tijdstip van de meting   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -8400,7 +8400,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Stressbestendig (1)  
 
-* Onafhankelijk (1)    
+* Onafhankelijk (1)   
 
 ####Beoordelingscriteria
 
@@ -8426,7 +8426,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Is in staat om op afstand gegeven opdrachten uit te voeren.  
 
-* Is in staat om zodanig te handelen dat hijzelf, slachtoffers, collega’s, andere hulpverleners en zijn omgeving niet in gevaar komen.    
+* Is in staat om zodanig te handelen dat hijzelf, slachtoffers, collega’s, andere hulpverleners en zijn omgeving niet in gevaar komen.   
 
 ### Kerntaak  3:  
 
@@ -8438,7 +8438,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Maakt overige gebruikte materialen, zoals persoonlijke beschermingsmiddelen en uitrukvoertuig inzetgereed.  
 
-* Neemt met de leden van de WVD-organisatie deel aan een evaluatiegesprek over de inzet en zorgt voor registratie van de inzetgegevens.    
+* Neemt met de leden van de WVD-organisatie deel aan een evaluatiegesprek over de inzet en zorgt voor registratie van de inzetgegevens.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -8454,7 +8454,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Inleven (1)  
 
-* Mondeling communiceren (1)    
+* Mondeling communiceren (1)   
 
 ####Beoordelingscriteria
 
@@ -8466,7 +8466,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Registreert op adequate wijze zijn inzetgegevens in zijn persoonsdossier.  
 
-* Kan constructief deelnemen aan een groepsproces in een nazorgfase (evaluatie- en/of zorggesprek).    
+* Kan constructief deelnemen aan een groepsproces in een nazorgfase (evaluatie- en/of zorggesprek).   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -8494,19 +8494,19 @@ Functie zoals genoemd in [artikel 2 lid 1 sub ff Besluit personeel veiligheidsre
 
 ####Uitruk/verkenning
 
-De voertuigbediener stelt, in samenwerking met de chauffeur, het voertuig op en creëert een veilige werkomgeving.  
+De voertuigbediener stelt, in samenwerking met de chauffeur, het voertuig op en creëert een veilige werkomgeving. 
 
 ### Kerntaak  2:  
 
 ####Inzet
 
-De voertuigbediener maakt het voertuig inzetgereed en houdt het operationeel.  
+De voertuigbediener maakt het voertuig inzetgereed en houdt het operationeel. 
 
 ### Kerntaak  3:  
 
 ####Nazorg
 
-De voertuigbediener draagt zorg voor het inzetgereed maken van het voertuig en neemt deel aan de evaluatie en nazorg.  
+De voertuigbediener draagt zorg voor het inzetgereed maken van het voertuig en neemt deel aan de evaluatie en nazorg. 
 
 | Functie: voertuigbediener  | Kerntaken  | Kern  | Organisatie  | Omgeving  |--- | Accuraat  | Samenwerken  | Stressbestendig  | probleem oplossen  | leren en reflecteren  | daadkracht  | inleven  | onafhankelijk  | mondeling communiceren  | flexibel  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -8518,7 +8518,7 @@ De voertuigbediener draagt zorg voor het inzetgereed maken van het voertuig en n
 |:---|:---|:---|:---|:---|
 | Incidentbestrijding  | *  | --- | --- |
 
-In supplement gg is de competentiematrix uitgewerkt.  
+In supplement gg is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -8534,7 +8534,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Creëert een veilige werkomgeving rondom het voertuig.  
 
-* Assisteert de chauffeur d.m.v. gidsen.    
+* Assisteert de chauffeur d.m.v. gidsen.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -8544,13 +8544,13 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Stressbestendig (1)  
 
-* Flexibel (1)    
+* Flexibel (1)   
 
 ####Beoordelingscriteria
 
 * Heeft kennis van het toegewezen materiaal.  
 
-* Kan de keuze van zijn opstelplaats motiveren.    
+* Kan de keuze van zijn opstelplaats motiveren.   
 
 ### Kerntaak  2:  
 
@@ -8576,7 +8576,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Geeft materiaal en middelen uit en neemt deze in.  
 
-* Heeft oog voor de omgeving van het voertuig/incident.    
+* Heeft oog voor de omgeving van het voertuig/incident.   
 
 ####Als bediener van redvoertuigen
 
@@ -8588,7 +8588,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Verhelpt eenvoudige storingen.  
 
-* Heeft overleg met andere hulpverleners over de inzet van het voertuig.    
+* Heeft overleg met andere hulpverleners over de inzet van het voertuig.   
 
 ####Als bediener van een hulpverleningsvoertuig
 
@@ -8600,7 +8600,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Verhelpt eenvoudige storingen.  
 
-* Heeft overleg met andere hulpverleners over de inzet van het voertuig.    
+* Heeft overleg met andere hulpverleners over de inzet van het voertuig.   
 
 ####Als bediener van een HAB
 
@@ -8612,7 +8612,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Verhelpt eenvoudige storingen.  
 
-* Heeft overleg met andere hulpverleners over de inzet van het voertuig.    
+* Heeft overleg met andere hulpverleners over de inzet van het voertuig.   
 
 ####Als bediener van de verbindingscommandowagen
 
@@ -8620,7 +8620,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Verhelpt eenvoudige storingen.  
 
-* Heeft overleg met andere hulpverleners over de inzet van het voertuig.    
+* Heeft overleg met andere hulpverleners over de inzet van het voertuig.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -8634,7 +8634,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Daadkracht (1)  
 
-* Onafhankelijk (1)    
+* Onafhankelijk (1)   
 
 ####Beoordelingscriteria
 
@@ -8648,7 +8648,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Interpreteert de meters en afsluiters en speelt in op veranderingen.  
 
-* Is zich onder alle omstandigheden bewust van de effecten die zijn handelen met zich mee brengen.    
+* Is zich onder alle omstandigheden bewust van de effecten die zijn handelen met zich mee brengen.   
 
 ####Als bediener redvoertuig
 
@@ -8664,7 +8664,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Interpreteert meetinstrumenten en speelt in op veranderingen.  
 
-* Kent de inzet(on)mogelijkheden van het voertuig.    
+* Kent de inzet(on)mogelijkheden van het voertuig.   
 
 ####Als bediener hulpverleningsvoertuig
 
@@ -8672,7 +8672,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Kan de in- en aangebouwde gereedschappen bedienen (bijvoorbeeld: lier, lichtmast, aggregaat en kraan).  
 
-* Is op de hoogte van de inhoud en de mogelijkheden van het voertuig.    
+* Is op de hoogte van de inhoud en de mogelijkheden van het voertuig.   
 
 ####Als bediener van een HAB (korpsspecifiek)
 
@@ -8680,13 +8680,13 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Kan de in- en aangebouwde gereedschappen bedienen (bijvoorbeeld: kraan, lier).  
 
-* Kan de specifieke korpsgerichte haakarmbak(ken) bedienen.    
+* Kan de specifieke korpsgerichte haakarmbak(ken) bedienen.   
 
 ####Als bediener van de verbindingscommandowagen
 
 * Kan de randapparatuur van het voertuig aansluiten.  
 
-* Kan het voertuig operationeel maken    
+* Kan het voertuig operationeel maken   
 
 ### Kerntaak  3:  
 
@@ -8698,7 +8698,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Neemt met de ploegleden deel aan een evaluatiegesprek over de inzet.  
 
-* Neemt met de ploegleden deel aan een nazorggesprek na een traumatische ervaring.    
+* Neemt met de ploegleden deel aan een nazorggesprek na een traumatische ervaring.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -8714,13 +8714,13 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 * Inleven (1)  
 
-* Mondeling communiceren (1)    
+* Mondeling communiceren (1)   
 
 ####Beoordelingscriteria
 
 * Kan constructief deelnemen aan een groepsproces in een nazorgfase.  
 
-* Niet afzonderlijk te beoordelen.    
+* Niet afzonderlijk te beoordelen.   
 
 ####Bijlage A, behorende bij artikel 1 lid 1  Regeling personeel veiligheidsregio’s
 
@@ -8728,7 +8728,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 ####uitwerking competentiematrix
 
-Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties onderscheidt: *Kerncompetenties:* bij de functieomschrijving de verschillende kerncompetenties beschreven, van gedragsvoorbeelden voorzien en vervolgens gekoppeld aan niveauduiding. Deze niveauduiding is opgedeeld in het niveau aangaande de strategische/organisatorische competenties en het niveau aangaande de sociaal, maatschappelijke en communicatieve competenties. *Strategische/organisatorische competenties:* dit betreft de verschillende competenties die met name betrekking hebben op het geven van richting aan organisatie(onderdeel) (visie, strategievorming) en de inrichting van het werk (de interne organisatie). Deze competenties zijn vervolgens gekoppeld aan een niveauduiding *Sociaal, maatschappelijke en communicatieve competenties (omgeving):* dit betreft de sociale, maatschappelijke en communicatieve competenties die betrekking hebben op de interactie met de omgeving zowel extern als intern. Deze competenties zijn vervolgens gekoppeld aan een niveauduiding *Vakmatige competenties:* Dit betreft de competenties op vakgebieden die specifiek voor de brandweer zijn. Deze competenties zijn vervolgens gekoppeld aan een niveauduiding 
+Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties onderscheidt:  *Kerncompetenties:* bij de functieomschrijving de verschillende kerncompetenties beschreven, van gedragsvoorbeelden voorzien en vervolgens gekoppeld aan niveauduiding. Deze niveauduiding is opgedeeld in het niveau aangaande de strategische/organisatorische competenties en het niveau aangaande de sociaal, maatschappelijke en communicatieve competenties.  *Strategische/organisatorische competenties:* dit betreft de verschillende competenties die met name betrekking hebben op het geven van richting aan organisatie(onderdeel) (visie, strategievorming) en de inrichting van het werk (de interne organisatie). Deze competenties zijn vervolgens gekoppeld aan een niveauduiding  *Sociaal, maatschappelijke en communicatieve competenties (omgeving):* dit betreft de sociale, maatschappelijke en communicatieve competenties die betrekking hebben op de interactie met de omgeving zowel extern als intern. Deze competenties zijn vervolgens gekoppeld aan een niveauduiding  *Vakmatige competenties:* Dit betreft de competenties op vakgebieden die specifiek voor de brandweer zijn. Deze competenties zijn vervolgens gekoppeld aan een niveauduiding 
 
 ####Competenties
 
@@ -8754,7 +8754,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * coördineert en corrigeert de werkzaamheden van meerdere personen/diensten, zodat fouten worden voorkomen en kwaliteit wordt verhoogd.  
 
-* heeft oog voor het cruciale belang van veiligheid onder alle omstandigheden, kan kritisch met mededelingen/informatie omgaan.    
+* heeft oog voor het cruciale belang van veiligheid onder alle omstandigheden, kan kritisch met mededelingen/informatie omgaan.   
 
 ####Samenwerken
 
@@ -8776,7 +8776,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * Doet actief aan kennisoverdracht door eigen kennis en ervaringen te delen en partners/experts te motiveren hun expertise in te brengen.  
 
-* Beweegt partners/experts tot samenwerken en zorgt ervoor dat het resultaat wordt ervaren als een gezamenlijke verantwoordelijkheid.    
+* Beweegt partners/experts tot samenwerken en zorgt ervoor dat het resultaat wordt ervaren als een gezamenlijke verantwoordelijkheid.   
 
 ####Stressbestendig
 
@@ -8804,7 +8804,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * Presteert langdurig goed onder tijdsdruk, tegenslag en complicaties.  
 
-* Schermt partners/experts af van stress door (tijds)druk en zorgt dat het werk hier geen schade van ondervindt.    
+* Schermt partners/experts af van stress door (tijds)druk en zorgt dat het werk hier geen schade van ondervindt.   
 
 ####Strategische en organisatorische competenties (organisatie)
 
@@ -8832,7 +8832,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Structureert, reflecteert, vraagt door en helpt zodoende ook partners/experts om tot oplossingen of alternatieven te komen  
 
-* Treedt op als bemiddelende derde partij; begeleidt partners/experts bij oplossen van problemen door het geven van handvaten.    
+* Treedt op als bemiddelende derde partij; begeleidt partners/experts bij oplossen van problemen door het geven van handvaten.   
 
 ####Innoveren en creativiteit
 
@@ -8858,7 +8858,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Benadert vraagstukken uit een andere invalshoek.  
 
-* Maakt zich los uit bestaande denkkaders en maakt zo nieuwe wegen zichtbaar, waardoor nieuwe oplossingsrichtingen ontstaan; zoekt en creëert ruimte.    
+* Maakt zich los uit bestaande denkkaders en maakt zo nieuwe wegen zichtbaar, waardoor nieuwe oplossingsrichtingen ontstaan; zoekt en creëert ruimte.   
 
 ####Plannen, organiseren en coördineren
 
@@ -8888,7 +8888,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Houdt op elk moment en op elk niveau het overzicht van werkzaamheden en stuurt indien nodig bij op hoofdlijnen.  
 
-* Anticipeert op onverwachte gebeurtenissen die van invloed zijn op de planning en past de planningen en doelstellingen hierop aan.    
+* Anticipeert op onverwachte gebeurtenissen die van invloed zijn op de planning en past de planningen en doelstellingen hierop aan.   
 
 ####Leren en reflecteren
 
@@ -8914,7 +8914,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Doorziet eigen leerprocessen en herkent bevorderende en belemmerende factoren voor leren.  
 
-* Stelt eigen ontwikkelplan op met langere termijn doelstellingen en onderneemt gerichte acties.    
+* Stelt eigen ontwikkelplan op met langere termijn doelstellingen en onderneemt gerichte acties.   
 
 ####Innoveren/creativiteit
 
@@ -8934,7 +8934,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Werkt pro-actief bij mogelijke problemen in een complexe omgeving en stelt alternatieve oplossingen voor; toont assertief gedrag.  
 
-* Improviseert in complexe situaties.    
+* Improviseert in complexe situaties.   
 
 ####Problemen oplossen
 
@@ -8954,7 +8954,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Analyseert problemen, achterhaalt de werkelijke vraag achter het probleem, ook zonder eigen inhoudelijke expertise.  
 
-* Formuleert verschillende passende oplossingen en helpt partners/experts bij het oplossen van problemen wanneer zij hier niet uit komen.    
+* Formuleert verschillende passende oplossingen en helpt partners/experts bij het oplossen van problemen wanneer zij hier niet uit komen.   
 
 ####Analyseren
 
@@ -8980,7 +8980,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Doorziet problemen en oplossingen die pas op lange termijn spelen.  
 
-* Heeft oog voor – kritische – informatie en activiteiten en beziet de mogelijkheden hiervan voor de rampenbestrijdingsorganisatie.    
+* Heeft oog voor – kritische – informatie en activiteiten en beziet de mogelijkheden hiervan voor de rampenbestrijdingsorganisatie.   
 
 ####Oordelen
 
@@ -9002,7 +9002,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Betrekt een breed scala aan alternatieve opvattingen en meningen in de oordeelsvorming en houdt rekening met gevolgen voor de betrokken partijen.  
 
-* Schetst de mogelijke gevolgen van plannen en meningen in situaties met een hoge mate van onzekerheid en complexiteit.    
+* Schetst de mogelijke gevolgen van plannen en meningen in situaties met een hoge mate van onzekerheid en complexiteit.   
 
 ####Resultaatgericht
 
@@ -9028,7 +9028,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Zorgt voor heldere structuren, taakverdeling en procedures die een effectieve en efficiënte inzet van medewerkers bevordert.  
 
-* Spreekt zichzelf en partners/experts tijdig en regelmatig aan op het nakomen van afspraken en het realiseren van doelstellingen; achterhaalt achterliggende oorzaak bij niet nakomen van afspraken en stuurt bij.    
+* Spreekt zichzelf en partners/experts tijdig en regelmatig aan op het nakomen van afspraken en het realiseren van doelstellingen; achterhaalt achterliggende oorzaak bij niet nakomen van afspraken en stuurt bij.   
 
 ####Probleem oplossen
 
@@ -9056,7 +9056,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Structureert, reflecteert, vraagt door en helpt zodoende ook partners/experts om tot oplossingen of alternatieven te komen.  
 
-* Treedt op als bemiddelende derde partij; begeleidt partners/experts bij oplossen van problemen door het geven van handvaten.    
+* Treedt op als bemiddelende derde partij; begeleidt partners/experts bij oplossen van problemen door het geven van handvaten.   
 
 ####Leren en reflecteren
 
@@ -9076,7 +9076,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Leert van en met partners/experts; formuleert leerdoelen en zet deze om in acties.  
 
-* Vertaalt ontwikkelingen in het vakgebied naar de praktijk.    
+* Vertaalt ontwikkelingen in het vakgebied naar de praktijk.   
 
 ####Sociaal, maatschappelijke en communicatieve competenties (omgeving)
 
@@ -9108,7 +9108,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Neemt een besluit in heroverweging wanneer de wijzigende omstandigheden daarom vragen.  
 
-* Durft buiten gebaande paden te treden bij het oplossen van vastzittende, complexe kwesties.    
+* Durft buiten gebaande paden te treden bij het oplossen van vastzittende, complexe kwesties.   
 
 ####Mondeling communiceren
 
@@ -9136,7 +9136,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Herkent persoonlijke belangen en kiest een geschikte manier om de ander te beïnvloeden; zet verschillende invloedstijlen effectief in.  
 
-* Beïnvloedt en stuurt het gesprek en de sfeer door gevoelens te benoemen, ook wanneer bij de ander geen respect lijkt te bestaan.    
+* Beïnvloedt en stuurt het gesprek en de sfeer door gevoelens te benoemen, ook wanneer bij de ander geen respect lijkt te bestaan.   
 
 ####Inleven
 
@@ -9164,7 +9164,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Bindt partners/experts aan de rampenbestrijdingsorganisatie door eigen optreden en persoonlijke uitstraling.  
 
-* Wisselt van stijl/gedrag om bewustwording bij de partner/expert te realiseren of om gedragspatronen te doorbreken of te versterken.    
+* Wisselt van stijl/gedrag om bewustwording bij de partner/expert te realiseren of om gedragspatronen te doorbreken of te versterken.   
 
 ####Daadkracht
 
@@ -9176,7 +9176,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Neemt en motiveert beslissingen binnen het eigen werkterrein.  
 
-* Blijft achter gemaakte keuzen (van zichzelf of van partners/experts) staan.    
+* Blijft achter gemaakte keuzen (van zichzelf of van partners/experts) staan.   
 
 ####Mondeling communiceren
 
@@ -9190,7 +9190,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Stelt open vragen en vraagt door; geeft feedback wanneer daar om wordt gevraagd.  
 
-* Redigeert interne documenten en schrijft documenten voor extern gebruik.    
+* Redigeert interne documenten en schrijft documenten voor extern gebruik.   
 
 ####Daadkracht
 
@@ -9210,7 +9210,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Neemt een besluit in heroverweging wanneer de wijzigende omstandigheden daarom vragen.  
 
-* Durft buiten gebaande paden te treden bij het oplossen van vastzittende, complexe kwesties.    
+* Durft buiten gebaande paden te treden bij het oplossen van vastzittende, complexe kwesties.   
 
 ####(taakgericht) Leiderschap
 
@@ -9236,7 +9236,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Creëert ruimte en mogelijkheden voor personeel om werkzaamheden op eigen (en eventueel andere) wijze uit te voeren.  
 
-* Inspireert partners/experts om hun visie te delen en om draagvlak en betrokkenheid hiervoor te realiseren.    
+* Inspireert partners/experts om hun visie te delen en om draagvlak en betrokkenheid hiervoor te realiseren.   
 
 ####Onafhankelijk
 
@@ -9258,7 +9258,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Houdt bij druk vast aan persoonlijke overtuiging wanneer daarop kritiek wordt geleverd of druk wordt uitgeoefend om zich aan te passen.  
 
-* Durft zich kwetsbaar op te stellen en neemt risico’s.    
+* Durft zich kwetsbaar op te stellen en neemt risico’s.   
 
 ####(mondeling) Communiceren
 
@@ -9286,7 +9286,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Herkent persoonlijke belangen en kiest een geschikte manier om de ander te beïnvloeden; zet verschillende invloedstijlen effectief in.  
 
-* Beïnvloedt en stuurt het gesprek en de sfeer door gevoelens te benoemen, ook wanneer bij de ander geen respect lijkt te bestaan.    
+* Beïnvloedt en stuurt het gesprek en de sfeer door gevoelens te benoemen, ook wanneer bij de ander geen respect lijkt te bestaan.   
 
 ####Inleven
 
@@ -9314,7 +9314,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Bindt partners/experts aan de rampenbestrijdingsorganisatie door eigen optreden en persoonlijke uitstraling.  
 
-* Wisselt van stijl/gedrag om bewustwording bij de partner/expert te realiseren of om gedragspatronen te doorbreken of te versterken.    
+* Wisselt van stijl/gedrag om bewustwording bij de partner/expert te realiseren of om gedragspatronen te doorbreken of te versterken.   
 
 ####Onafhankelijk
 
@@ -9336,7 +9336,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Houdt bij druk vast aan persoonlijke overtuiging wanneer daarop kritiek wordt geleverd of druk wordt uitgeoefend om zich aan te passen  
 
-* Durft zich kwetsbaar op te stellen en neemt risico’s.    
+* Durft zich kwetsbaar op te stellen en neemt risico’s.   
 
 ####Flexibel
 
@@ -9360,7 +9360,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Balanceert tussen diverse belangen en partijen:is intermediair.  
 
-* Schakelt bij weerstand over op een aanpak die wel tot het gestelde doel leidt.    
+* Schakelt bij weerstand over op een aanpak die wel tot het gestelde doel leidt.   
 
 ####Maatschappelijk georiënteerd
 
@@ -9388,7 +9388,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Heeft een visie op trends en ontwikkelingen in de maatschappij en destilleert hieruit onderwerpen voor de bestuurlijke agenda  
 
-* Speelt proactief in op vraagstukken/dilemma’s uit de maatschappij en vertaalt deze naar de eigen organisatie.    
+* Speelt proactief in op vraagstukken/dilemma’s uit de maatschappij en vertaalt deze naar de eigen organisatie.   
 
 ####Leiderschap
 
@@ -9400,7 +9400,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Creëert ruimte en mogelijkheden voor personeel om werkzaamheden op eigen (en eventueel andere) wijze uit te voeren.  
 
-* Inspireert partners/experts om hun visie te delen en om draagvlak en betrokkenheid hiervoor te realiseren.    
+* Inspireert partners/experts om hun visie te delen en om draagvlak en betrokkenheid hiervoor te realiseren.   
 
 ####Politiek-bestuurlijk inzicht
 
@@ -9428,7 +9428,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Benut het politiek-bestuurlijk krachtenveld rondom de brandweer en de ontwikkeling van de rampenbestrijdingsorganisatie, stemt zijn handelen af op dit krachtenveld en sluit allianties  
 
-* Legt relaties tussen de verwachte resultaten voor de eigen organisatie en criteria voor andere schakels in de bestuurlijke keten.    
+* Legt relaties tussen de verwachte resultaten voor de eigen organisatie en criteria voor andere schakels in de bestuurlijke keten.   
 
 ####Vakmatige competenties (professie)
 
@@ -9442,7 +9442,7 @@ Dit vakgebied omvat de repressieve taken van de rampenbestrijdingsorganisatie, z
 
 * Is in staat om buiten het eigen expertgebied te treden en zodoende verbanden met gerelateerde vakgebieden te leggen. Is in staat om eigen expertise over te dragen.   Expertniveau (3) 
 
-* Treedt op als vraagbaak en klankbord voor anderen en wordt binnen de organisatie benaderd als autoriteit op het betreffende expertgebied.    
+* Treedt op als vraagbaak en klankbord voor anderen en wordt binnen de organisatie benaderd als autoriteit op het betreffende expertgebied.   
 
 ####Risico’s en veiligheid
 
@@ -9452,9 +9452,9 @@ Dit vakgebied omvat het onderwerp risico’s en veiligheid. Het gaat hierbij om 
 
 * Is in staat om buiten het eigen expertgebied te treden en zodoende verbanden met gerelateerde vakgebieden te leggen. Is in staat om eigen expertise over te dragen.   Expertniveau (3) 
 
-* Treedt op als vraagbaak en klankbord voor anderen en wordt binnen de organisatie benaderd als autoriteit op het betreffende expertgebied.    
+* Treedt op als vraagbaak en klankbord voor anderen en wordt binnen de organisatie benaderd als autoriteit op het betreffende expertgebied.   
 
-### Bijlage  B  
+### Bijlage B 
 
 ####, behorende bij artikel 1 lid 2  Regeling personeel veiligheidsregio’s
 
@@ -9472,7 +9472,7 @@ Functie zoals genoemd in [artikel 2 lid 2 sub a Besluit personeel veiligheidsreg
 |:---|:---|
 | Beschrijving van de functie  | De CvD-G geeft leiding aan de geneeskundige hulpverlening op de plaats incident en stemt de multidisciplinaire samenwerking op operationeel niveau af binnen het Commando Plaats Incident (CoPI). Hij ¹ staat onder directe, operationele leiding van de Leider CoPI en directe, functionele leiding van het Hoofd Sectie GHOR. De CvD-G stemt de afvoer van slachtoffers af met de Coördinator Gewondenvervoer (CGV). De CvD-G geeft directe, functionele leiding aan de Officier(en) van Dienst Geneeskundig (OvD-G), Hoofd(en) Gewondennest (HGN) en alle geneeskundige hulpverleners op het rampterrein.  |
 
-¹ Overal waar in deze bijlage ‘hij’ wordt aangeduid kan ook ‘zij’ worden gelezen.  
+¹ Overal waar in deze bijlage ‘hij’ wordt aangeduid kan ook ‘zij’ worden gelezen.
 
 ### 2.1  
 
@@ -9512,7 +9512,7 @@ Functie zoals genoemd in [artikel 2 lid 2 sub a Besluit personeel veiligheidsreg
 | V5  | (Technische)hulpmiddelen  | gemiddeld niveau  |
 | V6  | Juridische aspecten  | hoofdlijnen  |
 
-In supplement k is de competentiematrix uitgewerkt.  
+In supplement k is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -9552,7 +9552,7 @@ Geeft operationeel leiding aan de uitvoering van de geneeskundige hulpverlening 
 
 * Initieert (waar nodig) de personele en materiële nazorg.  
 
-* Schaalt af.    
+* Schaalt af.   
 
 ### Kerntaak  2:  
 
@@ -9572,7 +9572,7 @@ Afstemmen van de multidisciplinaire samenwerking in het CoPI:
 
 * Stemt af over activiteiten voortkomend uit de processen en bewaakt de voortgang.  
 
-* Anticipeert op de ontwikkelingen van het incident en coördineert in overleg de opschaling (GRIP).    
+* Anticipeert op de ontwikkelingen van het incident en coördineert in overleg de opschaling (GRIP).   
 
 ### Kerntaak  3:  
 
@@ -9592,7 +9592,7 @@ Rapporteert en adviseert:
 
 * Laat zich (direct bij GRIP 1, of via het ROT vanaf GRIP 2) door deskundigen (o.a. GAGS, infectieziektenarts) adviseren over de veiligheidssituatie van het GHOR-personeel en de bevolking.  
 
-* Evalueert het optreden en maakt een incidentrapportage.    
+* Evalueert het optreden en maakt een incidentrapportage.   
 
 ### Supplement  b  
 
@@ -9645,7 +9645,7 @@ Functie zoals genoemd in artikel 2 lid 2 sub b Besluit personeel veiligheidsregi
 | V5  | (Technische)hulpmiddelen  | detailniveau  |
 | V6  | Juridische aspecten  | hoofdlijnen  |
 
-In supplement k is de competentiematrix uitgewerkt.  
+In supplement k is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -9687,7 +9687,7 @@ Richt een ambulancestation in en houdt deze in stand:
 
 * Geeft waar nodig opdrachten aan de assistent-CGV.  
 
-* Bewaakt de voortgang van de gegeven opdrachten.    
+* Bewaakt de voortgang van de gegeven opdrachten.   
 
 ### Kerntaak  2:  
 
@@ -9719,7 +9719,7 @@ Richt een ambulancestation in en houdt deze in stand:
 
 * Houdt via de MKA het overzicht van de beschikbare Medische Behandelcapaciteit (MBC) en opnamestops van de Spoedeisende Hulp (SEH) van de ziekenhuizen. Past het gewondenspreidingsplan hierop aan.  
 
-* Informeert de OvD-G/CvD-G over de voortgang en eventuele knelpunten bij het gewondenvervoer.    
+* Informeert de OvD-G/CvD-G over de voortgang en eventuele knelpunten bij het gewondenvervoer.   
 
 ### Kerntaak  3:  
 
@@ -9731,7 +9731,7 @@ Voert de registratie van de per ambulance vervoerde slachtoffers uit:
 
 * Registreert op basis van de richtlijnen omtrent de landelijke gewondenkaart alle slachtoffers die per ambulance worden afgevoerd.  
 
-* Geeft gevraagd en ongevraagd een totaaloverzicht van de vervoerde slachtoffers en de daaraan toegewezen ziekenhuisbestemming door aan de MKA en aan het Actiecentrum GHOR (mede ten behoeve van het Centraal Registratie- en Informatiebureau (CRIB) van de gemeente).    
+* Geeft gevraagd en ongevraagd een totaaloverzicht van de vervoerde slachtoffers en de daaraan toegewezen ziekenhuisbestemming door aan de MKA en aan het Actiecentrum GHOR (mede ten behoeve van het Centraal Registratie- en Informatiebureau (CRIB) van de gemeente).   
 
 ####Bijlage B, behorende bij artikel 1 lid 2  Regeling personeel veiligheidsregio’s
 
@@ -9783,7 +9783,7 @@ Functie zoals genoemd in [artikel 2 lid 2 sub c Besluit personeel veiligheidsreg
 | V5  | (Technische)hulpmiddelen  | gemiddeld niveau  |
 | V6  | Juridische aspecten  | hoofdlijnen  |
 
-In supplement k is de competentiematrix uitgewerkt.  
+In supplement k is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -9815,7 +9815,7 @@ Neemt als leidinggevende deel aan het Actiecentrum GHOR (Ac):
 
 * Bewaakt de voortgang van de opdrachten binnen het Ac.  
 
-* Onderhoudt een vergaderdiscipline binnen het Ac en organiseert de informatiestromen (rapportages) binnen het Ac.    
+* Onderhoudt een vergaderdiscipline binnen het Ac en organiseert de informatiestromen (rapportages) binnen het Ac.   
 
 ### Kerntaak  2:  
 
@@ -9831,7 +9831,7 @@ Neemt als leidinggevende deel aan het Actiecentrum GHOR (Ac):
 
 * Informeert en adviseert het HS-GHOR over logistieke, materiële en personele knelpunten die een tactische of strategische beleidsbeslissing vergen.  
 
-* Laat zich door de deskundigen (o.a. GAGS, infectieziektenarts) informeren over de veiligheidssituatie van het GHOR-personeel en de bevolking en adviseert het HS-GHOR over de te nemen beleidsbeslissingen hieromtrent.    
+* Laat zich door de deskundigen (o.a. GAGS, infectieziektenarts) informeren over de veiligheidssituatie van het GHOR-personeel en de bevolking en adviseert het HS-GHOR over de te nemen beleidsbeslissingen hieromtrent.   
 
 ####Bijlage B, behorende bij artikel 1 lid 2  Regeling personeel veiligheidsregio’s
 
@@ -9886,7 +9886,7 @@ Functie zoals genoemd in [artikel 2 lid 2 sub d Besluit personeel veiligheidsreg
 | V5  | (Technische)hulpmiddelen  | detailniveau  |
 | V6  | Juridische aspecten  | hoofdlijnen  |
 
-In supplement k is de competentiematrix uitgewerkt.  
+In supplement k is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -9914,7 +9914,7 @@ Richt een gewondennest (GN) of behandelcentrum (BC) in:
 
 * Neemt (na overleg met de OvD-G) aanvullende maatregelen om de ontwikkeling van het incident op te vangen.  
 
-* Coördineert de afbouw van het GN/BC en het terugbrengen naar de originele staat.    
+* Coördineert de afbouw van het GN/BC en het terugbrengen naar de originele staat.   
 
 ### Kerntaak  2:  
 
@@ -9934,7 +9934,7 @@ Richt een gewondennest (GN) of behandelcentrum (BC) in:
 
 * Maakt afspraken met de CvD-G/OvD-G en volgt zijn/haar opdrachten op.  
 
-* Zorgt voor orde en structuur in het GN/BC.    
+* Zorgt voor orde en structuur in het GN/BC.   
 
 ### Kerntaak  3:  
 
@@ -9950,7 +9950,7 @@ Het HGN rapporteert en adviseert aan de CvD-G/OvD-G:
 
 * Adviseert de CvD-G/OvD-G over preventieve maatregelen om GN/BC af te schermen van publiek, pers en niet-geautoriseerd personeel.  
 
-* Evalueert het optreden en maakt een incidentrapportage.    
+* Evalueert het optreden en maakt een incidentrapportage.   
 
 ####Bijlage B, behorende bij artikel 1 lid 2  Regeling personeel veiligheidsregio’s
 
@@ -10006,7 +10006,7 @@ Functie zoals genoemd in [artikel 2 lid 2 sub e Besluit personeel veiligheidsreg
 | V5  | (Technische)hulpmiddelen  | hoofdlijnen  |
 | V6  | Juridische aspecten  | hoofdlijnen  |
 
-In supplement k is de competentiematrix uitgewerkt.  
+In supplement k is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -10042,7 +10042,7 @@ Neemt als tactisch leidinggevende over de GHOR-keten deel aan het ROT:
 
 * Geeft opdrachten aan de leidinggevenden van de drie GHOR-processen (o.a. CvD-/OvDG, Leider Opvangteam).  
 
-* Stemt op tactisch/uitvoerend niveau af met de GHOR-ketenpartners en geeft (in opdracht van de RGF) opdrachten c.q. aanwijzingen.    
+* Stemt op tactisch/uitvoerend niveau af met de GHOR-ketenpartners en geeft (in opdracht van de RGF) opdrachten c.q. aanwijzingen.   
 
 ### Kerntaak  2:  
 
@@ -10062,7 +10062,7 @@ Neemt als adviseur deel aan het ROT:
 
 * Rapporteert over de voortgang van de uitvoering van de drie GHOR-processen aan de OL en het ROT.  
 
-* Adviseert het ROT vanuit GHOR-perspectief over multidisciplinaire tactische beleidsvraagstukken.    
+* Adviseert het ROT vanuit GHOR-perspectief over multidisciplinaire tactische beleidsvraagstukken.   
 
 ### Kerntaak  3:  
 
@@ -10074,7 +10074,7 @@ Rapporteert en adviseert aan de RGF in het GBT/RBT:
 
 * Informeert en adviseert de RGF omtrent zaken die een beleidsbeslissing vergen (o.a. verstrekkende maatregelen aangaande de bevolking of met politieke lading).  
 
-* Laat zich door de CvD-G/OvD-G en deskundigen (o.a. GAGS, infectieziektenarts) informeren over de veiligheidssituatie van het GHOR-personeel en de bevolking en adviseert de RGF over de te nemen strategische beleidsbeslissingen hieromtrent.    
+* Laat zich door de CvD-G/OvD-G en deskundigen (o.a. GAGS, infectieziektenarts) informeren over de veiligheidssituatie van het GHOR-personeel en de bevolking en adviseert de RGF over de te nemen strategische beleidsbeslissingen hieromtrent.   
 
 ####Bijlage B, behorende bij artikel 1 lid 2  Regeling personeel veiligheidsregio’s
 
@@ -10138,7 +10138,7 @@ Functie zoals genoemd in [artikel 2 lid 2 sub f Besluit personeel veiligheidsreg
 | V5  | (Technische)hulpmiddelen  | hoofdlijnen  |
 | V6  | Juridische aspecten  | hoofdlijnen  |
 
-In supplement k is de competentiematrix uitgewerkt.  
+In supplement k is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -10164,7 +10164,7 @@ Geeft namens de RGF leiding op tactisch niveau aan de psychosociale hulpverlenin
 
 * Draagt zorg voor aflossing en vervanging van de medewerkers kernteam en psychosociaal opvangteams.  
 
-* Neemt initiatief tot evaluatie van organisatorische procesgang tijdens en na inzet.    
+* Neemt initiatief tot evaluatie van organisatorische procesgang tijdens en na inzet.   
 
 ### Kerntaak  2:  
 
@@ -10182,7 +10182,7 @@ Geeft namens de RGF leiding op tactisch niveau aan de psychosociale hulpverlenin
 
 * Stelt op grond van analyse van bovenstaande gegevens plannen bij.  
 
-* Doet actief navraag ten aanzien van de wijze waarop de opvang van diverse groepen hulpverleners geregeld is.    
+* Doet actief navraag ten aanzien van de wijze waarop de opvang van diverse groepen hulpverleners geregeld is.   
 
 ### Kerntaak  3:  
 
@@ -10194,7 +10194,7 @@ Geeft namens de RGF leiding op tactisch niveau aan de psychosociale hulpverlenin
 
 * Verstrekken van informatie aan het HS-GHOR.  
 
-* Laat informatie verstrekken aan de direct en indirect getroffenen over mogelijke reacties op een schokkende gebeurtenis (psycho-educatie).    
+* Laat informatie verstrekken aan de direct en indirect getroffenen over mogelijke reacties op een schokkende gebeurtenis (psycho-educatie).   
 
 ### Kerntaak  4:  
 
@@ -10206,7 +10206,7 @@ Geeft namens de RGF leiding op tactisch niveau aan de psychosociale hulpverlenin
 
 * Adviseert HS-GHOR ter attentie van alle aspecten van lopend proces.  
 
-* Adviseert via het HS-GHOR de RGF ten aanzien van de noodzaak tot nazorg.    
+* Adviseert via het HS-GHOR de RGF ten aanzien van de noodzaak tot nazorg.   
 
 ### Kerntaak  5:  
 
@@ -10214,7 +10214,7 @@ Geeft namens de RGF leiding op tactisch niveau aan de psychosociale hulpverlenin
 
 ####Werkzaamheden
 
-Draagt zorg voor de logistieke en verbindingstechnische voorzieningen.  
+Draagt zorg voor de logistieke en verbindingstechnische voorzieningen. 
 
 ####Bijlage B, behorende bij artikel 1 lid 2  Regeling personeel veiligheidsregio’s
 
@@ -10270,7 +10270,7 @@ Functie zoals genoemd in [artikel 2 lid 2 sub g Besluit personeel veiligheidsreg
 | V5  | (Technische)hulpmiddelen  | hoofdlijnen  |
 | V6  | Juridische aspecten  | hoofdlijnen  |
 
-In supplement k is de competentiematrix uitgewerkt.  
+In supplement k is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -10296,7 +10296,7 @@ Directe leiding en uitvoeringscoördinatie van het psychosociaal opvangteam:
 
 * Adviseert het kernteam ten aanzien van de aflossing en vervanging van de medewerkers van psychosociaal opvangteam.  
 
-* Adviseert het kernteam PSHOR ten aanzien van de nazorg, na vertrek van getroffenen uit het opvangcentrum.    
+* Adviseert het kernteam PSHOR ten aanzien van de nazorg, na vertrek van getroffenen uit het opvangcentrum.   
 
 ### Kerntaak  2:  
 
@@ -10322,7 +10322,7 @@ Directe leiding en uitvoeringscoördinatie van het psychosociaal opvangteam:
 
 * Laat in overleg met het kernteam PSHOR informatie verstrekken aan huisartsen, onderwijzend personeel over mogelijke reacties op een schokkende gebeurtenis (psychoeducatie).  
 
-* Geeft de leider kernteam PSHOR inhoudelijk advies over contacten met de media.    
+* Geeft de leider kernteam PSHOR inhoudelijk advies over contacten met de media.   
 
 ### Kerntaak  3:  
 
@@ -10334,7 +10334,7 @@ Directe leiding en uitvoeringscoördinatie van het psychosociaal opvangteam:
 
 * Voert overleg en stemt de hulpverlening af met leidinggevende van diensten en organisaties in het opvangcentrum.  
 
-* Stemt de activiteiten af met andere zorgverleners (huisartsen, pastoren etc) in overleg met het kernteam.    
+* Stemt de activiteiten af met andere zorgverleners (huisartsen, pastoren etc) in overleg met het kernteam.   
 
 ####Bijlage B, behorende bij artikel 1 lid 2  Regeling personeel veiligheidsregio’s
 
@@ -10390,7 +10390,7 @@ Functie zoals genoemd in [artikel 2 lid 2 sub h Besluit personeel veiligheidsreg
 | V5  | (Technische)hulpmiddelen  | detailniveau  |
 | V6  | Juridische aspecten  | hoofdlijnen  |
 
-In supplement k is de competentiematrix uitgewerkt.  
+In supplement k is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -10436,7 +10436,7 @@ Geeft operationeel leiding aan de uitvoering van de geneeskundige hulpverlening 
 
 * Initieert (waar nodig) de personele en materiële nazorg.  
 
-* Schaalt af.    
+* Schaalt af.   
 
 ### Kerntaak  2:  
 
@@ -10456,7 +10456,7 @@ Afstemmen van de multidisciplinaire samenwerking in het motorkapoverleg of in he
 
 * Stemt af over activiteiten voortkomend uit de processen en bewaakt de voortgang.  
 
-* Anticipeert op de ontwikkelingen van het incident en coördineert in overleg de opschaling (GRIP).    
+* Anticipeert op de ontwikkelingen van het incident en coördineert in overleg de opschaling (GRIP).   
 
 ### Kerntaak  3:  
 
@@ -10476,7 +10476,7 @@ Rapporteert en adviseert:
 
 * Laat zich (direct bij GRIP 1, of via het ROT vanaf GRIP 2) door deskundigen (o.a. GAGS, arts infectieziekten) adviseren over de veiligheidssituatie van het GHOR-personeel en de bevolking (indien geen CvD-G is ingezet).  
 
-* Evalueert het optreden en maakt een incidentrapportage.    
+* Evalueert het optreden en maakt een incidentrapportage.   
 
 ####Bijlage B, behorende bij artikel 1 lid 2  Regeling personeel veiligheidsregio’s
 
@@ -10527,7 +10527,7 @@ Functie zoals genoemd in [artikel 2 lid 2 sub i Besluit personeel veiligheidsreg
 | V5  | (Technische)hulpmiddelen  | hoofdlijnen  |
 | V6  | Juridische aspecten  | hoofdlijnen  |
 
-In supplement k is de competentiematrix uitgewerkt.  
+In supplement k is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -10549,7 +10549,7 @@ Neemt als hoogste leidinggevende van de GHOR-keten deel aan het GBT/RBT:
 
 * Geeft op basis van de strategische beleidsbeslissingen van het GBT/RBT, na afstemming met de Operationeel Leider, opdrachten aan het HS-GHOR.  
 
-* Stemt op beleidsniveau af met de GHOR-ketenpartners en geeft (via het HS-GHOR) opdrachten c.q. aanwijzingen.    
+* Stemt op beleidsniveau af met de GHOR-ketenpartners en geeft (via het HS-GHOR) opdrachten c.q. aanwijzingen.   
 
 ### Kerntaak  2:  
 
@@ -10567,7 +10567,7 @@ Neemt als adviseur deel aan het GBT/RBT:
 
 * Laat zich door het HS-GHOR en deskundigen (o.a. GAGS, infectieziektenarts) informeren over de veiligheidssituatie van het GHOR-personeel en de bevolking en adviseert het GBT/RBT over de te nemen strategische beleidsbeslissingen hieromtrent.  
 
-* Onderhoudt contacten met de liaisons binnen het PCC en NCC en operationeel directeuren GHOR en van andere regio’s.    
+* Onderhoudt contacten met de liaisons binnen het PCC en NCC en operationeel directeuren GHOR en van andere regio’s.   
 
 ####Bijlage B, behorende bij artikel 1 lid 2  Regeling personeel veiligheidsregio’s
 
@@ -10616,7 +10616,7 @@ Functie zoals genoemd in [artikel 2 lid 2 sub j Besluit personeel veiligheidsreg
 | V5  | (Technische)hulpmiddelen  | detailniveau  |
 | V6  | Juridische aspecten  | hoofdlijnen  |
 
-In supplement k is de competentiematrix uitgewerkt.  
+In supplement k is de competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -10636,7 +10636,7 @@ Geeft binnen het Ac uitvoering aan de opdrachten van het HAc m.b.t. de logistiek
 
 * Verzamelt (demografische) kengetallen t.b.v. tactische en strategische beleidsbeslissingen.  
 
-* Werkt samen met de medewerkers van andere organisaties binnen het Ac (GGD, ziekenhuizen, NRK, PSHOR).    
+* Werkt samen met de medewerkers van andere organisaties binnen het Ac (GGD, ziekenhuizen, NRK, PSHOR).   
 
 ### Kerntaak  2:  
 
@@ -10650,7 +10650,7 @@ Rapporteert en adviseert aan het HAc:
 
 * Draagt zorg voor rapportage aan het HAc.  
 
-* Informeert en adviseert het HAc over logistieke, materiële en personele knelpunten die een tactische of strategische beleidsbeslissing vergen.    
+* Informeert en adviseert het HAc over logistieke, materiële en personele knelpunten die een tactische of strategische beleidsbeslissing vergen.   
 
 ####Bijlage B, behorende bij artikel 1 lid 2  Regeling personeel veiligheidsregio’s
 
@@ -10658,7 +10658,7 @@ Rapporteert en adviseert aan het HAc:
 
 ####Uitwerking competentiematrix
 
-Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties onderscheidt: *Gedragscompetenties:* hierbij zijn achttien verschillende competenties benoemd (genummerd G1 t/m G18), omschreven en van gedragsvoorbeelden voorzien. *Organisatie/procescompetenties:* hierbij wordt onderscheid gemaakt tussen drie typen organisatie- en proceskennis. *Vaktechnische competenties:* hierbij zijn zes competenties benoemd en uitgewerkt. De niveauaanduiding van de competenties is als volgt: *Gedragscompetenties:* uit de achttien omschreven gedragscompetenties worden er per functie maximaal acht toegewezen in volgorde van belangrijkheid (1 t/m 8). *Organisatie/procescompetenties:* per functie wordt aangegeven of het type organisatie- en proceskennis op strategisch, tactisch of operationeel niveau dient te zijn. *Vaktechnische competenties:* per functie wordt aangegeven of er sprake is van noodzakelijke kennis en kunde tot op detailniveau (d); of alleen op hoofdlijnen (h); of op gemiddeld niveau (m). 
+Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties onderscheidt:  *Gedragscompetenties:* hierbij zijn achttien verschillende competenties benoemd (genummerd G1 t/m G18), omschreven en van gedragsvoorbeelden voorzien.  *Organisatie/procescompetenties:* hierbij wordt onderscheid gemaakt tussen drie typen organisatie- en proceskennis.  *Vaktechnische competenties:* hierbij zijn zes competenties benoemd en uitgewerkt. De niveauaanduiding van de competenties is als volgt:  *Gedragscompetenties:* uit de achttien omschreven gedragscompetenties worden er per functie maximaal acht toegewezen in volgorde van belangrijkheid (1 t/m 8).  *Organisatie/procescompetenties:* per functie wordt aangegeven of het type organisatie- en proceskennis op strategisch, tactisch of operationeel niveau dient te zijn.  *Vaktechnische competenties:* per functie wordt aangegeven of er sprake is van noodzakelijke kennis en kunde tot op detailniveau (d); of alleen op hoofdlijnen (h); of op gemiddeld niveau (m). 
 
 ####Gedragscompetenties
 
@@ -10666,113 +10666,113 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 ####Leidinggeven
 
-*Richting en sturing geven aan anderen in het kader van hun taakvervulling; stijl en methode aanpassen aan betrokken individuen, taken en situatie.*   
+*Richting en sturing geven aan anderen in het kader van hun taakvervulling; stijl en methode aanpassen aan betrokken individuen, taken en situatie.*  
 
 ### G2:  
 
 ####Operationeel management
 
-*Aansturen en tot uitvoering brengen van diverse uitvoerende activiteiten. Taken en verantwoordelijkheden toewijzen. Activiteiten coördineren en zonodig knelpunt wegnemen. In organisatorische zin randvoorwaarden creëren.*   
+*Aansturen en tot uitvoering brengen van diverse uitvoerende activiteiten. Taken en verantwoordelijkheden toewijzen. Activiteiten coördineren en zonodig knelpunt wegnemen. In organisatorische zin randvoorwaarden creëren.*  
 
 ### G3:  
 
 ####Organiseren van eigen werk
 
-*Effectief organiseren van het eigen werk door het plannen van doelstellingen, tijd en activiteiten; beschikbare tijd en energie richten op de hoofdzaken en acute problemen.*   
+*Effectief organiseren van het eigen werk door het plannen van doelstellingen, tijd en activiteiten; beschikbare tijd en energie richten op de hoofdzaken en acute problemen.*  
 
 ### G4:  
 
 ####Delegeren
 
-*Eigen taken, beslissingsbevoegdheden en verantwoordelijkheden op duidelijke wijze toedelen aan juiste medewerkers.*   
+*Eigen taken, beslissingsbevoegdheden en verantwoordelijkheden op duidelijke wijze toedelen aan juiste medewerkers.*  
 
 ### G5:  
 
 ####Voortgangsbewaking
 
-*Opstellen en bewaken van procedures om de voortgang van de taken en activiteiten van medewerkers en van de eigen taken en verantwoordelijkheden te bewaken en zeker te stellen.*   
+*Opstellen en bewaken van procedures om de voortgang van de taken en activiteiten van medewerkers en van de eigen taken en verantwoordelijkheden te bewaken en zeker te stellen.*  
 
 ### G6:  
 
 ####Mondelinge/schriftelijke communicatie
 
-*Ideeën en meningen aan anderen duidelijk maken, gebruik makend van duidelijke taal. Ideeën en meningen duidelijk maken in een rapportage of document dat de juiste opzet heeft en structuur heeft, grammaticaal correct is en dat de juiste taal en terminologie voor de lezer bevat. Bijv. SitRaps, logboek.*   
+*Ideeën en meningen aan anderen duidelijk maken, gebruik makend van duidelijke taal. Ideeën en meningen duidelijk maken in een rapportage of document dat de juiste opzet heeft en structuur heeft, grammaticaal correct is en dat de juiste taal en terminologie voor de lezer bevat. Bijv. SitRaps, logboek.*  
 
 ### G7:  
 
 ####Overtuigingskracht
 
-*Gebruikmakend van de juiste stijl en methode proberen anderen te overtuigen van een bepaald standpunt en trachten instemming te verkrijgen met bepaalde plannen, ideeën of activiteiten.*   
+*Gebruikmakend van de juiste stijl en methode proberen anderen te overtuigen van een bepaald standpunt en trachten instemming te verkrijgen met bepaalde plannen, ideeën of activiteiten.*  
 
 ### G8:  
 
 ####Luisteren
 
-*Tonen belangrijke informatie op te pikken uit mondelinge mededelingen. Doorvragen en ingaan op reacties.*   
+*Tonen belangrijke informatie op te pikken uit mondelinge mededelingen. Doorvragen en ingaan op reacties.*  
 
 ### G9:  
 
 ####Samenwerken
 
-*Bijdragen aan een gezamenlijk resultaat, ook wanneer de samenwerking niet direct van eigen belang is.*   
+*Bijdragen aan een gezamenlijk resultaat, ook wanneer de samenwerking niet direct van eigen belang is.*  
 
 ### G10:  
 
 ####Probleemanalyse
 
-*Signaleren van problemen, herkennen van belangrijke informatie; verbanden leggen tussen gegevens. Opsporen van mogelijke oorzaken van problemen; zoeken naar ter zake doende gegevens.*   
+*Signaleren van problemen, herkennen van belangrijke informatie; verbanden leggen tussen gegevens. Opsporen van mogelijke oorzaken van problemen; zoeken naar ter zake doende gegevens.*  
 
 ### G11:  
 
 ####Oordeelsvorming
 
-*Gegevens en mogelijke alternatieve handelswijzen in het licht van relevante criteria tegen elkaar afwegen en tot realistische beoordelingen komen.*   
+*Gegevens en mogelijke alternatieve handelswijzen in het licht van relevante criteria tegen elkaar afwegen en tot realistische beoordelingen komen.*  
 
 ### G12:  
 
 ####Besluitvaardigheid
 
-*Beslissingen nemen door middel van het ondernemen van acties of het zich vastleggen door middel van het uitspreken van oordelen.*   
+*Beslissingen nemen door middel van het ondernemen van acties of het zich vastleggen door middel van het uitspreken van oordelen.*  
 
 ### G13:  
 
 ####Organisatiesensitiviteit
 
-*Onderkennen van invloed en gevolgen van eigen beslissingen of activiteiten op andere onderdelen van de organisatie; onderkennen van belangen van andere onderdelen van de organisatie.*   
+*Onderkennen van invloed en gevolgen van eigen beslissingen of activiteiten op andere onderdelen van de organisatie; onderkennen van belangen van andere onderdelen van de organisatie.*  
 
 ### G14:  
 
 ####Omgevingsbewustzijn
 
-*Laten blijken goed geïnformeerd te zijn over organisatorische, maatschappelijke en politieke ontwikkelingen of andere omgevingsfactoren en deze kennis effectief benutten voor de eigen functie en organisatie.*   
+*Laten blijken goed geïnformeerd te zijn over organisatorische, maatschappelijke en politieke ontwikkelingen of andere omgevingsfactoren en deze kennis effectief benutten voor de eigen functie en organisatie.*  
 
 ### G15:  
 
 ####Aanpassingsvermogen
 
-*Effectief blijven handelen door zich aan te passen aan veranderde omstandigheden, taken verantwoordelijkheden en/of mensen.*   
+*Effectief blijven handelen door zich aan te passen aan veranderde omstandigheden, taken verantwoordelijkheden en/of mensen.*  
 
 ### G16:  
 
 ####Stressbestendigheid
 
-*Effectief blijven presteren onder tijdsdruk, bij tegenslag en onder extreme fysieke en psychische omstandigheden.*   
+*Effectief blijven presteren onder tijdsdruk, bij tegenslag en onder extreme fysieke en psychische omstandigheden.*  
 
 ### G17:  
 
 ####Energie
 
-*Gedurende een lange periode in hoge mate actief zijn wanneer de functie dat vraagt. Hard werken, uithoudingsvermogen tonen.*   
+*Gedurende een lange periode in hoge mate actief zijn wanneer de functie dat vraagt. Hard werken, uithoudingsvermogen tonen.*  
 
 ### G18:  
 
 ####Discipline
 
-*Zich voegen naar het beleid en/of de procedures van de organisatie. Bij onduidelijkheid of veranderingen bevestiging zoeken bij de juiste autoriteit.*   
+*Zich voegen naar het beleid en/of de procedures van de organisatie. Bij onduidelijkheid of veranderingen bevestiging zoeken bij de juiste autoriteit.*  
 
 ####Organisatiecompetenties
 
-*O1: Beleid van de rampenorganisaties in het algemeen en de GHOR -ketenorganisaties in het bijzonder m.b.t. de ontwikkelingen in structuur, cultuur en inhoudelijke processen en procedures.*   *O2: Ontwikkelingen in de structuur en processen van de rampenorganisaties in het algemeen en de GHOR-ketenorganisaties in het bijzonder.*   *O3: De actuele organisatiestructuur en primaire processen en procedures van de GHOR-ketenorganisaties.*   
+*O1: Beleid van de rampenorganisaties in het algemeen en de GHOR -ketenorganisaties in het bijzonder m.b.t. de ontwikkelingen in structuur, cultuur en inhoudelijke processen en procedures.*   *O2: Ontwikkelingen in de structuur en processen van de rampenorganisaties in het algemeen en de GHOR-ketenorganisaties in het bijzonder.*   *O3: De actuele organisatiestructuur en primaire processen en procedures van de GHOR-ketenorganisaties.*  
 
 ####Vaktechnische competenties
 
@@ -10780,37 +10780,37 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 ####Bestuurlijke en operationele omgeving/positionering
 
-*Kent de bestuurlijke en operationele omgeving en zijn positie daarin.*   
+*Kent de bestuurlijke en operationele omgeving en zijn positie daarin.*  
 
 ### V2:  
 
 ####Verantwoordelijkheden en bevoegdheden
 
-*Heeft inzicht in verantwoordelijkheden en bevoegdheden.*   
+*Heeft inzicht in verantwoordelijkheden en bevoegdheden.*  
 
 ### V3:  
 
 ####Processen en taken
 
-*Beschikt over de benodigde kennis, inzicht en vaardigheden om processen en hieruit voortvloeiende taken te vervullen.*   
+*Beschikt over de benodigde kennis, inzicht en vaardigheden om processen en hieruit voortvloeiende taken te vervullen.*  
 
 ### V4:  
 
 ####Richtlijnen, protocollen en procedures
 
-*Kent de richtlijnen, protocollen en procedures en kan deze toepassen en waar nodig bijstellen.*.  
+*Kent de richtlijnen, protocollen en procedures en kan deze toepassen en waar nodig bijstellen.*. 
 
 ### V5:  
 
 ####Technische hulpmiddelen
 
-*Heeft kennis van en kan gebruik maken van de beschikbare (technische) hulpmiddelen.*   
+*Heeft kennis van en kan gebruik maken van de beschikbare (technische) hulpmiddelen.*  
 
 ### V6:  
 
 ####Juridische aspecten
 
-*Kent de juridische aspecten die van invloed zijn op de functies binnen de operationele GHOR organisatie.*   
+*Kent de juridische aspecten die van invloed zijn op de functies binnen de operationele GHOR organisatie.*  
 
 ####Niveauduiding gedragscompetenties
 
@@ -10900,17 +10900,17 @@ Niveau: 1
 
 * Neemt geen beslissingen zonder het effect daarvan op de rest van de organisatie vooraf te hebben onderzocht en ingeschat.  
 
-* Heeft zicht op organisatorische belemmeringen die medewerkers bij hun functioneren hebben en probeert deze belemmeringen weg te nemen.    
+* Heeft zicht op organisatorische belemmeringen die medewerkers bij hun functioneren hebben en probeert deze belemmeringen weg te nemen.   
 
 ####Niveauduiding organisatie/proces competenties
 
-Niveau: Strategisch Is en houdt zich op de hoogte van de beleidsontwikkelingen m.b.t. de rampenorganisaties en inhoudelijke processen en procedures. Kent de relevante sleutelfiguren in het beleids- en uitvoeringsveld. Niveau: Tactisch Is en houdt zich op de hoogte van de ontwikkelingen m.b.t. de rampenorganisaties en inhoudelijke processen en procedures. Kent de relevante sleutelfiguren in het uitvoeringsveld. Niveau: Operationeel Is en houdt zich op de hoogte van de ontwikkelingen mbt de GHOR-ketenorganisaties en de primaire processen in het algemeen en die van het eigen beroepsdomein in het bijzonder. Kent de relevante sleutelfiguren in zijn beroepsdomein.  
+Niveau: Strategisch Is en houdt zich op de hoogte van de beleidsontwikkelingen m.b.t. de rampenorganisaties en inhoudelijke processen en procedures. Kent de relevante sleutelfiguren in het beleids- en uitvoeringsveld. Niveau: Tactisch Is en houdt zich op de hoogte van de ontwikkelingen m.b.t. de rampenorganisaties en inhoudelijke processen en procedures. Kent de relevante sleutelfiguren in het uitvoeringsveld. Niveau: Operationeel Is en houdt zich op de hoogte van de ontwikkelingen mbt de GHOR-ketenorganisaties en de primaire processen in het algemeen en die van het eigen beroepsdomein in het bijzonder. Kent de relevante sleutelfiguren in zijn beroepsdomein. 
 
 ####Niveauduiding vaktechnische competenties
 
-Niveau: Op detailniveau Niveau: Op hoofdlijnen Niveau: Op gemiddeld niveau  
+Niveau: Op detailniveau Niveau: Op hoofdlijnen Niveau: Op gemiddeld niveau 
 
-### Bijlage  C  
+### Bijlage C 
 
 ####, behorende bij artikel 1 lid 3  Regeling personeel veiligheidsregio’s
 
@@ -10932,7 +10932,7 @@ Functie zoals genoemd in [artikel 2 lid 3 sub a Besluit personeel veiligheidsreg
 | --- | --- |
 | --- | De calamiteitencoördinator meldkamer geeft leiding aan het gemeenschappelijke, multidisciplinaire meldkamerproces. Hij ¹ geeft doeltreffend en doelmatig sturing aan het verzamelen van relevante gegevens, het verwerken tot informatie en de deling van de informatie bij alarmering, communicatie en opschaling. conform de GRIP structuur  |
 
-¹ Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij» worden gelezen. In supplement l. zijn de niveaus van aansturing uitgewerkt.  
+¹ Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij» worden gelezen.In supplement l. zijn de niveaus van aansturing uitgewerkt. 
 
 ### 2.1  
 
@@ -10942,13 +10942,13 @@ Functie zoals genoemd in [artikel 2 lid 3 sub a Besluit personeel veiligheidsreg
 
 ####Leidinggeven aan het gemeenschappelijk meldkamerproces
 
-De calamiteitencoördinator geeft leiding aan de multidisciplinaire invulling van het gemeenschappelijke meldkamerproces binnen het meldkamerdomein. Een adequate en snelle opschaling en het borgen van de veiligheid van de hulpverleningsdiensten zijn hierbij belangrijke aandachtspunten.  
+De calamiteitencoördinator geeft leiding aan de multidisciplinaire invulling van het gemeenschappelijke meldkamerproces binnen het meldkamerdomein. Een adequate en snelle opschaling en het borgen van de veiligheid van de hulpverleningsdiensten zijn hierbij belangrijke aandachtspunten. 
 
 ### Kerntaak  2:  
 
 ####Creëren en delen van informatie
 
-De calamiteitencoördinator geeft doelmatig sturing aan het verzamelen van relevante gegevens, het verwerken tot informatie en de deling van de informatie bij, alarmering en opschaling van de bestrijdingsorganisatie.  
+De calamiteitencoördinator geeft doelmatig sturing aan het verzamelen van relevante gegevens, het verwerken tot informatie en de deling van de informatie bij, alarmering en opschaling van de bestrijdingsorganisatie. 
 
 ### 2.2  
 
@@ -10967,7 +10967,7 @@ Voor deze functie zijn de acht belangrijkste competenties benoemd. Dit zijn de c
 | Delegeren  |
 | Politiek-bestuurlijk inzicht  |
 
-In supplement j. is het competentieoverzicht uitgewerkt.  
+In supplement j. is het competentieoverzicht uitgewerkt. 
 
 ### 3.1  
 
@@ -10991,7 +10991,7 @@ De calamiteitencoördinator geeft leiding aan de multidisciplinaire invulling va
 
 * Voorziet zichzelf van informatie over de actuele situatie en deelt relevante informatie binnen het meldkamerdomein.  
 
-* Houdt overzicht en denkt vooruit in scenario’s in onoverzichtelijke situaties binnen het meldkamerdomein.    
+* Houdt overzicht en denkt vooruit in scenario’s in onoverzichtelijke situaties binnen het meldkamerdomein.   
 
 ### Kerntaak  2:  
 
@@ -11017,7 +11017,7 @@ De calamiteitencoördinator geeft doeltreffend en doelmatig sturing aan het verz
 
 * Draagt zorg voor een juiste verslaglegging volgens afgesproken wijze.  
 
-* Beheerst tevens het communiceren en overdragen van het totaalbeeld.    
+* Beheerst tevens het communiceren en overdragen van het totaalbeeld.   
 
 ####Bijlage C, behorende bij artikel 1 lid 3  Regeling personeel veiligheidsregio’s
 
@@ -11043,31 +11043,31 @@ Functie zoals genoemd in [artikel 2 lid 3 sub b Besluit personeel veiligheidsreg
 
 ####Het voorbereiden op de uitvoering van de evaluatieopdracht
 
-De evaluator multidisciplinair oefenen zorgt ervoor dat hij een heldere opdrachtformulering ontvangt. Hij bereidt zich aan de hand van de opdrachtkaders en relevante documentatie voor op het observeren en evalueren van de multidisciplinaire oefening en maakt werkafspraken met zijn collega evaluatoren.  
+De evaluator multidisciplinair oefenen zorgt ervoor dat hij een heldere opdrachtformulering ontvangt. Hij bereidt zich aan de hand van de opdrachtkaders en relevante documentatie voor op het observeren en evalueren van de multidisciplinaire oefening en maakt werkafspraken met zijn collega evaluatoren. 
 
 ### Kerntaak  2:  
 
 ####Het observeren van teamgedrag en -prestaties (inhoud, proces en resultaat)
 
-De evaluator multidisciplinair oefenen observeert aan de hand van geoperationaliseerde oefendoelen (organisatorisch, functioneel en/of persoonlijk) de deelnemers aan de oefening en legt zijn waarnemingen vast.  
+De evaluator multidisciplinair oefenen observeert aan de hand van geoperationaliseerde oefendoelen (organisatorisch, functioneel en/of persoonlijk) de deelnemers aan de oefening en legt zijn waarnemingen vast. 
 
 ### Kerntaak  3:  
 
 ####Het geven van feedback
 
-De evaluator multidisciplinair oefenen analyseert zijn observaties, formuleert een oordeel hierover en doet aanbevelingen. Hij bespreekt dit met de deelnemers.  
+De evaluator multidisciplinair oefenen analyseert zijn observaties, formuleert een oordeel hierover en doet aanbevelingen. Hij bespreekt dit met de deelnemers. 
 
 ### Kerntaak  4:  
 
 ####Het uitvoeren van een schriftelijke evaluatie
 
-De evaluator multidisciplinair oefenen legt zijn observaties, zijn oordeel hierover en zijn aanbevelingen schriftelijk vast in een evaluatierapport. De eindrapportage wordt aangeboden aan de opdrachtgever.  
+De evaluator multidisciplinair oefenen legt zijn observaties, zijn oordeel hierover en zijn aanbevelingen schriftelijk vast in een evaluatierapport. De eindrapportage wordt aangeboden aan de opdrachtgever. 
 
 ### Kerntaak  5:  
 
 ####Afronding
 
-De evaluator multidisciplinair oefenen evalueert de klanttevredenheid van de opdrachtgever en de deelnemers.  
+De evaluator multidisciplinair oefenen evalueert de klanttevredenheid van de opdrachtgever en de deelnemers. 
 
 |--- | Strategische en organisatorische competenties  | Sociaal, maatschappelijke en communicatieve competenties  | Kerntaken  | Accuraat  | Analyseren  | Oordelen  | Plannen, organiseren, coördineren  | Resultaatgericht  | Coachen  | Communiceren  | Inleven  | Samenwerken  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -11077,7 +11077,7 @@ De evaluator multidisciplinair oefenen evalueert de klanttevredenheid van de opd
 | Het uitvoeren van een schriftelijke evaluatie  | --- | 2  | 2  | --- | 2  | --- | 2  | --- | --- |
 | Afronding  | 2  | 2  | --- | --- | --- | --- | --- | --- | --- |
 
-In supplement k. is deze competentiematrix uitgewerkt.  
+In supplement k. is deze competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -11103,7 +11103,7 @@ De evaluator multidisciplinair oefenen zorgt ervoor dat hij een heldere opdracht
 
 * Bespreekt werkafspraken aangaande de evaluatie tijdens de oefening met deelnemers aan de multidisciplinaire oefening.  
 
-* Betrekt deelnemers bij de formulering van het operationaliseren van individuele oefendoelen.    
+* Betrekt deelnemers bij de formulering van het operationaliseren van individuele oefendoelen.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -11115,7 +11115,7 @@ De evaluator multidisciplinair oefenen zorgt ervoor dat hij een heldere opdracht
 
 * Resultaatgericht (1)  
 
-* Samenwerken (1)    
+* Samenwerken (1)   
 
 ### Kerntaak  2:  
 
@@ -11135,13 +11135,13 @@ De evaluator multidisciplinair oefenen zorgt ervoor dat hij een heldere opdracht
 
 * Toets zijn observaties met observaties en bevindingen van collega evaluatoren.  
 
-* Signaleert en interpreteert relevante ontwikkelingen.    
+* Signaleert en interpreteert relevante ontwikkelingen.   
 
 ####Vereiste competenties en niveaus van functioneren
 
 * Accuraat (1)  
 
-* Samenwerken (1)    
+* Samenwerken (1)   
 
 ### Kerntaak  3:  
 
@@ -11155,7 +11155,7 @@ De evaluator multidisciplinair oefenen analyseert zijn observaties, formuleert e
 
 * Bespreekt observaties, oordelen en aanbevelingen met de deelnemers aan de oefeningactiviteit.  
 
-* Informeert en adviseert de deelnemers aan de oefenactiviteit gevraagd en ongevraagd over de uitvoering van de werkopdracht.    
+* Informeert en adviseert de deelnemers aan de oefenactiviteit gevraagd en ongevraagd over de uitvoering van de werkopdracht.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -11167,7 +11167,7 @@ De evaluator multidisciplinair oefenen analyseert zijn observaties, formuleert e
 
 * Communiceren (2)  
 
-* Inleven (2)    
+* Inleven (2)   
 
 ### Kerntaak  4:  
 
@@ -11185,7 +11185,7 @@ De Evaluator Multidisciplinair Oefenen legt zijn observaties, zijn oordeel hiero
 
 * Overlegt met de procesmanager oefenen over de schriftelijke verslaglegging van de evaluatie.  
 
-* Biedt de gemaakte evaluatie aan, aan de betrokken functionarissen en licht deze zonodig toe.    
+* Biedt de gemaakte evaluatie aan, aan de betrokken functionarissen en licht deze zonodig toe.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -11195,7 +11195,7 @@ De Evaluator Multidisciplinair Oefenen legt zijn observaties, zijn oordeel hiero
 
 * Resultaatgericht (2)  
 
-* Communiceren (2)    
+* Communiceren (2)   
 
 ### Kerntaak  5:  
 
@@ -11211,13 +11211,13 @@ De evaluator multidisciplinair oefenen evalueert de klanttevredenheid van de opd
 
 * Gebruikt input van de klanttevredenheid voor het opstellen van aanbevelingen.  
 
-* Koppelt resultaten terug naar de procesmanager oefenen.    
+* Koppelt resultaten terug naar de procesmanager oefenen.   
 
 ####Vereiste competenties en niveaus van functioneren
 
 * Accuraat (2)  
 
-* Analyseren (2)    
+* Analyseren (2)   
 
 ### Supplement  c  
 
@@ -11237,7 +11237,7 @@ Functie zoals genoemd in [artikel 2 lid 3 sub c Besluit personeel veiligheidsreg
 | --- | --- |
 | --- | De informatiemanager COPI draagt zorg voor het informatieproces in het COPI.  |
 
-In supplement l. zijn de niveaus van aansturing uitgewerkt.  
+In supplement l. zijn de niveaus van aansturing uitgewerkt. 
 
 ### 2.1  
 
@@ -11247,7 +11247,7 @@ In supplement l. zijn de niveaus van aansturing uitgewerkt.
 
 ####Zorg dragen voor het informatieproces in het COPI
 
-De informatiemanager COPI verzamelt, analyseert en beoordeelt zelfstandig informatie in het COPI. Tevens is hij verantwoordelijk voor het verzorgen van een adequaat en doelmatig informatieproces in het COPI. Hij is hiermee voorwaardenscheppend voor andere functionarissen in het COPI.  
+De informatiemanager COPI verzamelt, analyseert en beoordeelt zelfstandig informatie in het COPI. Tevens is hij verantwoordelijk voor het verzorgen van een adequaat en doelmatig informatieproces in het COPI. Hij is hiermee voorwaardenscheppend voor andere functionarissen in het COPI. 
 
 ### 2.2  
 
@@ -11266,7 +11266,7 @@ Voor deze functie zijn de acht belangrijkste competenties benoemd. Dit zijn de c
 | Stressbestendigheid  |
 | Samenwerken  |
 
-In supplement j. is het competentieoverzicht uitgewerkt.  
+In supplement j. is het competentieoverzicht uitgewerkt. 
 
 ### 3.1  
 
@@ -11286,7 +11286,7 @@ De informatiemanager COPI verzamelt, analyseert en beoordeelt zelfstandig inform
 
 * Draagt zorg voor het opstellen van het totaalbeeld.  
 
-* Adviseert leider COPI inzake op-/afschaling GRIP.    
+* Adviseert leider COPI inzake op-/afschaling GRIP.   
 
 ####Bijlage C, behorende bij artikel 1 lid 3  Regeling personeel veiligheidsregio’s
 
@@ -11308,7 +11308,7 @@ Functie zoals genoemd in [artikel 2 lid 3 sub d Besluit personeel veiligheidsreg
 | --- | --- |
 | --- | De informatiemanager ROT draagt zorg voor het regionale informatieproces en geeft leiding aan de sectie informatiemanagement. Daarnaast adviseert hij de regionaal operatoneel leider gevraagd en ongevraagd vanuit het informatieproces.  |
 
-In supplement l. zijn de niveaus van aansturing uitgewerkt.  
+In supplement l. zijn de niveaus van aansturing uitgewerkt. 
 
 ### 2.1  
 
@@ -11318,19 +11318,19 @@ In supplement l. zijn de niveaus van aansturing uitgewerkt.
 
 ####Sturing geven aan het regionale informatieproces
 
-De informatiemanager ROT zorgt voor het verzamelen, analyseren en beoordelen van informatie ten behoeve van het totaalbeeld van de ramp of crisis. Daarnaast is hij verantwoordelijk voor het beschikbaar houden van een actueel totaalbeeld tijdens een ramp of crisis.  
+De informatiemanager ROT zorgt voor het verzamelen, analyseren en beoordelen van informatie ten behoeve van het totaalbeeld van de ramp of crisis. Daarnaast is hij verantwoordelijk voor het beschikbaar houden van een actueel totaalbeeld tijdens een ramp of crisis. 
 
 ### Kerntaak  2:  
 
 ####Leiding geven aan de sectie informatiemanagement in het ROT
 
-De informatiemanager ROT geeft leiding en invulling aan de sectie informatiemanagement..  
+De informatiemanager ROT geeft leiding en invulling aan de sectie informatiemanagement.. 
 
 ### Kerntaak  3:  
 
 ####Optreden als adviseur in het informatieproces
 
-De informatiemanager ROT geeft gevraagd en ongevraagd advies aan de regionaal operationeel leider vanuit het informatieproces.  
+De informatiemanager ROT geeft gevraagd en ongevraagd advies aan de regionaal operationeel leider vanuit het informatieproces. 
 
 ### 2.2  
 
@@ -11349,7 +11349,7 @@ Voor deze functie zijn de acht belangrijkste competenties benoemd. Dit zijn de c
 | Communiceren  |
 | Inleven  |
 
-In supplement j. is het competentieoverzicht uitgewerkt.  
+In supplement j. is het competentieoverzicht uitgewerkt. 
 
 ### 3.1  
 
@@ -11377,7 +11377,7 @@ De informatiemanager ROT zorgt voor het verzamelen, analyseren en beoordelen van
 
 * Voert de regie op de verspreiding van informatie. Hij stelt het totaalbeeld en overige informatie ter beschikking aan belanghebbende actoren, conform de principes van netcentrisch werken.  
 
-* Doet verslag over het verloop van informatieproces aan operationeel leider en legt de bevindingen vast in een verslag.    
+* Doet verslag over het verloop van informatieproces aan operationeel leider en legt de bevindingen vast in een verslag.   
 
 ### Kerntaak  2:  
 
@@ -11393,7 +11393,7 @@ De informatiemanager ROT geeft leiding en invulling aan de multidisciplinaire se
 
 * Controleert en stuurt bij op het functioneren van de sectie.  
 
-* Vervult de rol van procesmanager in het regionale informatieproces en bewaakt dit proces.    
+* Vervult de rol van procesmanager in het regionale informatieproces en bewaakt dit proces.   
 
 ### Kerntaak  3:  
 
@@ -11411,7 +11411,7 @@ De informatiemanager ROT geeft gevraagd en ongevraagd advies aan de regionaal op
 
 ○ De besluitvorming.    
 
-* Adviseert over noodzakelijke aanpassingen van de structuur en organisatie van het regionale informatieproces.    
+* Adviseert over noodzakelijke aanpassingen van de structuur en organisatie van het regionale informatieproces.   
 
 ####Bijlage C, behorende bij artikel 1 lid 3  Regeling personeel veiligheidsregio’s
 
@@ -11433,7 +11433,7 @@ Functie zoals genoemd in [artikel 2 lid 3 sub e Besluit personeel veiligheidsreg
 | --- | --- |
 | --- | De leider COPI is verantwoordelijk voor de inrichting van het COPI. Hij plant en monitort de verrichtingen van de incidentbestrijding binnen een afgebakend gebied.  |
 
-In supplement l. zijn de niveaus van aansturing uitgewerkt.  
+In supplement l. zijn de niveaus van aansturing uitgewerkt. 
 
 ### 2.1  
 
@@ -11443,13 +11443,13 @@ In supplement l. zijn de niveaus van aansturing uitgewerkt.
 
 ####Leidinggeven aan het COPI
 
-De leider commando plaats incident (COPI), geeft leiding aan de multidisciplinaire samenwerking in het COPI. Hij is verantwoordelijk voor het multidisciplinair aanpakken van de gevolgen van het incident.  
+De leider commando plaats incident (COPI), geeft leiding aan de multidisciplinaire samenwerking in het COPI. Hij is verantwoordelijk voor het multidisciplinair aanpakken van de gevolgen van het incident. 
 
 ### Kerntaak  2:  
 
 ####Adviseren en informeren van het lokale bestuur (GRIP 1)/de regionaal operationeel leider (GRIP 2 en hoger)
 
-De leider commando plaats incident (COPI), adviseert en deelt doeltreffend en doelmatig informatie mede aan het lokale bestuur bij GRIP 1 en in het geval van GRIP 2 (en hoger) naar de regionaal operationeel leider.  
+De leider commando plaats incident (COPI), adviseert en deelt doeltreffend en doelmatig informatie mede aan het lokale bestuur bij GRIP 1 en in het geval van GRIP 2 (en hoger) naar de regionaal operationeel leider. 
 
 ### 2.2  
 
@@ -11468,7 +11468,7 @@ Voor deze functie zijn de acht belangrijkste competenties benoemd. Dit zijn de c
 | Communiceren  |
 | Aanpassingsvermogen  |
 
-In supplement j. is het competentieoverzicht uitgewerkt.  
+In supplement j. is het competentieoverzicht uitgewerkt. 
 
 ### 3.1  
 
@@ -11492,7 +11492,7 @@ De leider commando plaats incident (COPI), geeft leiding aan de multidisciplinai
 
 * Vertaalt taken in processen en draagt zorg voor het uitzetten en controleren van deze processen.  
 
-* Analyseert en beoordeelt de actuele situatie en schaalt indien nodig op naar een hogere GRIP status. Draagt hierbij tevens zorg voor de beeldvorming binnen het COPI.    
+* Analyseert en beoordeelt de actuele situatie en schaalt indien nodig op naar een hogere GRIP status. Draagt hierbij tevens zorg voor de beeldvorming binnen het COPI.   
 
 ### Kerntaak  2:  
 
@@ -11514,7 +11514,7 @@ De leider commando plaats incident (COPI), adviseert en deelt doeltreffend en do
 
 * Communiceert en onderhoudt contacten met de regionaal operationeel leider.  
 
-* Maakt analyses van partijen en belangen op bestuurlijk en ROT niveau.    
+* Maakt analyses van partijen en belangen op bestuurlijk en ROT niveau.   
 
 ####Bijlage C, behorende bij artikel 1 lid 3  Regeling personeel veiligheidsregio’s
 
@@ -11548,31 +11548,31 @@ Functie zoals genoemd in [artikel 2 lid 3 sub f Besluit personeel veiligheidsreg
 
 ####Bijdragen aan beleidsvorming op het gebied van multidisciplinaire OTO activiteiten
 
-De PMO levert binnen de veiligheidsregio een inhoudelijke bijdrage aan het opstellen en uitvoeren van het (meerjaren)beleid op het gebied van multidisciplinaire OTO activiteiten. Onderdeel daarvan is een beleidskader voor de evaluatie van deze activiteiten en de systematiek van borging. De PMO is bovendien mede verantwoordelijk voor het opstellen en uitvoeren van het jaarplan ‘Oefenen» van de desbetreffende veiligheidsregio. De PMO zorgt voor de afstemming van het (meerjaren)beleid en het jaarplan ‘Oefenen» met de regionale en landelijke richtlijnen. Ook stemt hij het beleid en het plan af op de mono-disciplinaire oefenplannen van andere diensten en de behoeften van zowel de eigen organisatie als die van de partners.  
+De PMO levert binnen de veiligheidsregio een inhoudelijke bijdrage aan het opstellen en uitvoeren van het (meerjaren)beleid op het gebied van multidisciplinaire OTO activiteiten. Onderdeel daarvan is een beleidskader voor de evaluatie van deze activiteiten en de systematiek van borging. De PMO is bovendien mede verantwoordelijk voor het opstellen en uitvoeren van het jaarplan ‘Oefenen» van de desbetreffende veiligheidsregio. De PMO zorgt voor de afstemming van het (meerjaren)beleid en het jaarplan ‘Oefenen» met de regionale en landelijke richtlijnen. Ook stemt hij het beleid en het plan af op de mono-disciplinaire oefenplannen van andere diensten en de behoeften van zowel de eigen organisatie als die van de partners. 
 
 ### Kerntaak  2:  
 
 ####Het ontwikkelen, organiseren en uitvoeren van multidisciplinaire OTO activiteiten
 
-De PMO vertaalt het vastgestelde (meerjaren)beleid in effectieve multidisciplinaire OTO activiteiten. Het team dat zorgt voor voorbereiding, uitvoering en evaluatie, ontwikkelt deze activiteiten onder zijn verantwoordelijke leiding. Daarbij houdt de PMO rekening met leerbehoefte(n), ontwikkelnoodzaak en leervoorkeur(en). In overleg met multidisciplinaire partners zorgt de PMO dat deze activiteiten worden uitgevoerd. De PMO draagt er zorg voor dat de deelnemers aan én begeleiders van de multidisciplinaire OTO- activiteiten, zijn of worden geïnstrueerd. Onder zijn verantwoordelijkheid vindt observatie en evaluatie van de activiteiten plaats. Indien nodig geeft de PMO zelf tussentijds feedback.  
+De PMO vertaalt het vastgestelde (meerjaren)beleid in effectieve multidisciplinaire OTO activiteiten. Het team dat zorgt voor voorbereiding, uitvoering en evaluatie, ontwikkelt deze activiteiten onder zijn verantwoordelijke leiding. Daarbij houdt de PMO rekening met leerbehoefte(n), ontwikkelnoodzaak en leervoorkeur(en). In overleg met multidisciplinaire partners zorgt de PMO dat deze activiteiten worden uitgevoerd. De PMO draagt er zorg voor dat de deelnemers aan én begeleiders van de multidisciplinaire OTO- activiteiten, zijn of worden geïnstrueerd. Onder zijn verantwoordelijkheid vindt observatie en evaluatie van de activiteiten plaats. Indien nodig geeft de PMO zelf tussentijds feedback. 
 
 ### Kerntaak  3:  
 
 ####Borgen van de kwaliteit van multidisciplinaire OTO activiteiten
 
-De PMO bewaakt de kwaliteit van de multidisciplinaire OTO activiteiten. Hij stelt voor iedere activiteit eenduidige kwaliteitscriteria op, in samenspraak met zijn team en relevante partners in de veiligheidsregio. Deze criteria zijn SMART geformuleerd. De PMO zorgt op basis van deze criteria voor evaluatie van de activiteiten en levert op die manier input ten behoeve van het kwaliteitssysteem in de desbetreffende veiligheidsregio. Op grond van de analyse adviseert de PMO in bijstelling en/of aanpassing van de multidisciplinaire OTO activiteiten.  
+De PMO bewaakt de kwaliteit van de multidisciplinaire OTO activiteiten. Hij stelt voor iedere activiteit eenduidige kwaliteitscriteria op, in samenspraak met zijn team en relevante partners in de veiligheidsregio. Deze criteria zijn SMART geformuleerd. De PMO zorgt op basis van deze criteria voor evaluatie van de activiteiten en levert op die manier input ten behoeve van het kwaliteitssysteem in de desbetreffende veiligheidsregio. Op grond van de analyse adviseert de PMO in bijstelling en/of aanpassing van de multidisciplinaire OTO activiteiten. 
 
 ### Kerntaak  4:  
 
 ####Het leren van multidisciplinaire OTO activiteiten door de cyclische inzet van evaluaties
 
-De PMO evalueert op cyclische basis, systematisch de kwaliteit van de multidisciplinaire OTO activiteiten, alsmede het professionele functioneren van de betrokken partijen. Evaluatie geschiedt, aan de hand van de vooraf gestelde criteria, in samenspraak met alle relevante betrokken partijen uit de veiligheidsregio. Daarbij stimuleert de PMO de betrokkenen tot reflectie op het eigen handelen. Evaluatie heeft enerzijds tot doel inhoudelijke en organisatorische verbeteringen te realiseren in de activiteiten. Anderzijds dient de cyclische evaluatie aantoonbaar te leiden tot verdere professionalisering van de betrokkenen. De PMO adviseert in het aanbrengen van noodzakelijke en gewenste verbeteringen in de multidisciplinaire activiteiten. Tevens adviseert hij in de wenselijkheid en noodzaak van gerichte professionaliseringsacties (zoals scholing, coaching, training en dergelijke).  
+De PMO evalueert op cyclische basis, systematisch de kwaliteit van de multidisciplinaire OTO activiteiten, alsmede het professionele functioneren van de betrokken partijen. Evaluatie geschiedt, aan de hand van de vooraf gestelde criteria, in samenspraak met alle relevante betrokken partijen uit de veiligheidsregio. Daarbij stimuleert de PMO de betrokkenen tot reflectie op het eigen handelen. Evaluatie heeft enerzijds tot doel inhoudelijke en organisatorische verbeteringen te realiseren in de activiteiten. Anderzijds dient de cyclische evaluatie aantoonbaar te leiden tot verdere professionalisering van de betrokkenen. De PMO adviseert in het aanbrengen van noodzakelijke en gewenste verbeteringen in de multidisciplinaire activiteiten. Tevens adviseert hij in de wenselijkheid en noodzaak van gerichte professionaliseringsacties (zoals scholing, coaching, training en dergelijke). 
 
 ### Kerntaak  5:  
 
 ####Het verzorgen van communicatie en public relations in het kader van de multidisciplinaire OTO activiteiten
 
-De PMO is verantwoordelijk voor het verzorgen van communicatie en public relations (PR) aangaande de ontwikkeling, voorbereiding en uitvoering van de multidisciplinaire OTO activiteiten. Daartoe stelt hij een communicatiebeleidsplan op. Hij draagt er zorg voor dat alle betrokkenen binnen de veiligheidsregio tijdig en juist zijn geïnformeerd. Zijn inzet is er tevens op gericht relevante partners in de veiligheidsregio te overtuigen van het nut en de noodzaak van de multidisciplinaire OTO activiteiten. Mede doordat hij zijn contacten met relevante betrokkenen zorgvuldig onderhoudt, creëert de PMO draagvlak voor de multidisciplinaire OTO activiteiten. De uitkomsten van evaluatie van ontwikkelde en uitgevoerde activiteiten koppelt de PMO terug aan alle relevante betrokkenen en het management team (MT). Hij legt zowel mondeling als schriftelijk verantwoording af over de verrichte werkzaamheden en behaalde resultaten.  
+De PMO is verantwoordelijk voor het verzorgen van communicatie en public relations (PR) aangaande de ontwikkeling, voorbereiding en uitvoering van de multidisciplinaire OTO activiteiten. Daartoe stelt hij een communicatiebeleidsplan op. Hij draagt er zorg voor dat alle betrokkenen binnen de veiligheidsregio tijdig en juist zijn geïnformeerd. Zijn inzet is er tevens op gericht relevante partners in de veiligheidsregio te overtuigen van het nut en de noodzaak van de multidisciplinaire OTO activiteiten. Mede doordat hij zijn contacten met relevante betrokkenen zorgvuldig onderhoudt, creëert de PMO draagvlak voor de multidisciplinaire OTO activiteiten. De uitkomsten van evaluatie van ontwikkelde en uitgevoerde activiteiten koppelt de PMO terug aan alle relevante betrokkenen en het management team (MT). Hij legt zowel mondeling als schriftelijk verantwoording af over de verrichte werkzaamheden en behaalde resultaten. 
 
 |--- | Strategische en organisatorische competenties  | Sociaal, maatschappelijke en communicatieve competenties  | Kerntaken  | Accuraat  | Analyseren  | Oordelen  | Plannen, organiseren, coördineren  | Resultaatgericht  | Coachen  | Communiceren  | Inleven  | Samenwerken  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -11582,7 +11582,7 @@ De PMO is verantwoordelijk voor het verzorgen van communicatie en public relatio
 | Het leren van multidisciplinaire OTO activiteiten door de cyclische inzet van evaluaties  | --- | 2  | --- | --- | 2  | 1  | --- | --- | --- |
 | Het verzorgen van communicatie en public relations in het kader van multidisciplinaire OTO activiteiten  | 1  | --- | --- | --- | --- | --- | 2  | --- | --- |
 
-In supplement k. is deze competentiematrix uitgewerkt.  
+In supplement k. is deze competentiematrix uitgewerkt. 
 
 ### 3.1  
 
@@ -11612,7 +11612,7 @@ De PMO levert binnen de veiligheidsregio een inhoudelijke bijdrage aan het opste
 
 * Creëert draagvlak voor het multidisciplinaire oefenbeleid door het onderhouden van contacten met alle betrokken kolommen, diensten en organisaties.  
 
-* Draagt zorg voor bestuurlijk draagvlak en commitment.    
+* Draagt zorg voor bestuurlijk draagvlak en commitment.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -11622,7 +11622,7 @@ De PMO levert binnen de veiligheidsregio een inhoudelijke bijdrage aan het opste
 
 * Resultaatgericht (2)  
 
-* Samenwerken (1)    
+* Samenwerken (1)   
 
 ### Kerntaak  2:  
 
@@ -11660,7 +11660,7 @@ De PMO vertaalt het vastgestelde (meerjaren)beleid in effectieve multidisciplina
 
 * Benutten kennis en vaardigheden van anderen om oefenactiviteiten te ontwikkelen.  
 
-* Legt contacten met leidinggevenden of coördinerende functionarissen bij betrokken organisaties en bewaakt dat er sprake is van vergelijkbare functieniveaus    
+* Legt contacten met leidinggevenden of coördinerende functionarissen bij betrokken organisaties en bewaakt dat er sprake is van vergelijkbare functieniveaus   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -11672,7 +11672,7 @@ De PMO vertaalt het vastgestelde (meerjaren)beleid in effectieve multidisciplina
 
 * Analyseren (1)  
 
-* Communiceren (1)    
+* Communiceren (1)   
 
 ### Kerntaak  3:  
 
@@ -11696,13 +11696,13 @@ De PMO bewaakt de kwaliteit van de multidisciplinaire OTO activiteiten. Hij stel
 
 * Zorgt voor het opstellen van een evaluatierapport.  
 
-* Vertaalt de evaluatieresultaten naar verbetervoorstellen voor het beleid en/of de uitvoering van multidisciplinaire oefeningen in de veiligheidsregio.    
+* Vertaalt de evaluatieresultaten naar verbetervoorstellen voor het beleid en/of de uitvoering van multidisciplinaire oefeningen in de veiligheidsregio.   
 
 ####Vereiste competenties en niveaus van functioneren
 
 * Plannen, organiseren, coördineren (1)  
 
-* Samenwerken (2)    
+* Samenwerken (2)   
 
 ### Kerntaak  4:  
 
@@ -11724,7 +11724,7 @@ De PMO evalueert op cyclische basis, systematisch de kwaliteit van de multidisci
 
 * Adviseert gericht in professionele ontwikkeling van betrokken functionarissen.  
 
-* Rapporteert de resultaten van de evaluatie en analyse aan het MT.    
+* Rapporteert de resultaten van de evaluatie en analyse aan het MT.   
 
 ####Vereiste competenties en niveaus van functioneren
 
@@ -11732,7 +11732,7 @@ De PMO evalueert op cyclische basis, systematisch de kwaliteit van de multidisci
 
 * Resultaat gericht (2)  
 
-* Coachen (1)    
+* Coachen (1)   
 
 ### Kerntaak  5:  
 
@@ -11758,13 +11758,13 @@ De PMO is verantwoordelijk voor het verzorgen van communicatie en public relatio
 
 * Stelt een communicatiebeleidsplan op (zowel voor intern als extern) ten aanzien de OTO activiteiten.  
 
-* Legt verantwoording af aan het MT ten aanzien van de werkzaamheden en behaalde resultaten.    
+* Legt verantwoording af aan het MT ten aanzien van de werkzaamheden en behaalde resultaten.   
 
 ####Vereiste competenties en niveaus van functioneren
 
 * Accuraat (1)  
 
-* Communiceren (2)    
+* Communiceren (2)   
 
 ####Bijlage C, behorende bij artikel 1 lid 3  Regeling personeel veiligheidsregio’s
 
@@ -11786,7 +11786,7 @@ Functie zoals genoemd in [artikel 2 lid 3 sub g Besluit personeel veiligheidsreg
 | --- | --- |
 | --- | De regionaal operationeel leider geeft richting aan de crisisorganisatie. Hij plant en monitort de te behalen operationele prestaties, binnen de bestuurlijke kaders.  |
 
-In supplement l. zijn de niveaus van aansturing uitgewerkt.  
+In supplement l. zijn de niveaus van aansturing uitgewerkt. 
 
 ### 2.1  
 
@@ -11796,13 +11796,13 @@ In supplement l. zijn de niveaus van aansturing uitgewerkt.
 
 ####Leiding geven aan het ROT
 
-De regionaal operationeel leider geeft leiding aan de multidisciplinaire samenwerking in het ROT. Hij is verantwoordelijk voor het multidisciplinair aanpakken van het effectgebied van het incident. Hierin vertaalt hij de tactische informatie waar nodig naar strategische beslispunten en treedt in voorkomende gevallen namens het ROT op als adviseur naar het bestuur/de burgemeester (beleidsteam).  
+De regionaal operationeel leider geeft leiding aan de multidisciplinaire samenwerking in het ROT. Hij is verantwoordelijk voor het multidisciplinair aanpakken van het effectgebied van het incident. Hierin vertaalt hij de tactische informatie waar nodig naar strategische beslispunten en treedt in voorkomende gevallen namens het ROT op als adviseur naar het bestuur/de burgemeester (beleidsteam). 
 
 ### Kerntaak  2:  
 
 ####Adviseren en informeren aan/van het beleidsteam
 
-De regionaal operationeel leider, is verantwoordelijk voor de benodigde informatie overdracht en advisering aan de burgemeester (beleidsteam). Hij vertaalt de tactische informatie waar nodig naar strategische beslispunten en treedt in voorkomende gevallen namens het ROT op als adviseur. (Vanaf GRIP 2 is de regionaal operationeel leider verantwoordelijk voor het samenstellen van realistische multidisciplinair samengestelde scenario’s, heldere adviezen en beslispunten voor het beleidsteam.)  
+De regionaal operationeel leider, is verantwoordelijk voor de benodigde informatie overdracht en advisering aan de burgemeester (beleidsteam). Hij vertaalt de tactische informatie waar nodig naar strategische beslispunten en treedt in voorkomende gevallen namens het ROT op als adviseur. (Vanaf GRIP 2 is de regionaal operationeel leider verantwoordelijk voor het samenstellen van realistische multidisciplinair samengestelde scenario’s, heldere adviezen en beslispunten voor het beleidsteam.) 
 
 ### 2.2  
 
@@ -11821,7 +11821,7 @@ Voor deze functie zijn de acht belangrijkste competenties benoemd. Dit zijn de c
 | Analyseren  |
 | Communiceren  |
 
-In supplement j. is het competentieoverzicht uitgewerkt.  
+In supplement j. is het competentieoverzicht uitgewerkt. 
 
 ### 3.1  
 
@@ -11853,7 +11853,7 @@ De regionaal operationeel leider geeft leiding aan de multidisciplinaire samenwe
 
 * Analyseert en beoordeelt de actuele situatie en kan een advies uitbrengen over op- of afschaling vanaf GRIP 2 naar een andere GRIP status.  
 
-* Is verantwoordelijk voor de externe communicatiestrategie (media) tijdens een GRIP 2 opschaling.    
+* Is verantwoordelijk voor de externe communicatiestrategie (media) tijdens een GRIP 2 opschaling.   
 
 ### Kerntaak  2:  
 
@@ -11869,7 +11869,7 @@ De regionaal operationeel leider, is verantwoordelijk voor de benodigde informat
 
 * Weegt kennis en beeldvorming tegen elkaar af om zo een juiste informatie voorziening richting het beleidsteam te realiseren.  
 
-* Draagt bij aan het vormen en vaststellen van doelstellingen ten tijden van een GRIP opschaling.    
+* Draagt bij aan het vormen en vaststellen van doelstellingen ten tijden van een GRIP opschaling.   
 
 ####Bijlage C, behorende bij artikel 1 lid 3  Regeling personeel veiligheidsregio’s
 
@@ -11889,7 +11889,7 @@ Functie zoals genoemd in [artikel 2 lid 3 sub h Besluit personeel veiligheidsreg
 | --- | --- |
 | --- | De taken, bevoegdheden en verantwoordelijkheden van de voorlichtingsfunctionaris COPI zijn afhankelijk van de fase van opschaling. De voorlichtingsfunctionaris COPI functioneert voornamelijk op het niveau ‘inrichten’ en is op de volgende wijze gepositioneerd:  • Hij ontvangt leiding van en legt verantwoording af de leider COPI.  • Hij geeft sturing aan het proces voorlichting.  • Hij informeert de leider COPI en (bij opschaling) de voorlichtingsfunctionaris ROT over het totale voorlichtingsproces.  |
 
-In supplement l. zijn de niveaus van aansturing uitgewerkt.  
+In supplement l. zijn de niveaus van aansturing uitgewerkt. 
 
 ### 2.1  
 
@@ -11899,13 +11899,13 @@ In supplement l. zijn de niveaus van aansturing uitgewerkt.
 
 ####Informeren van media
 
-De voorlichtingsfunctionaris commando plaats incident (COPI) heeft als primaire taak het informeren van de media en het geven van sturing aan het totale proces voorlichting bij het plaats incident.  
+De voorlichtingsfunctionaris commando plaats incident (COPI) heeft als primaire taak het informeren van de media en het geven van sturing aan het totale proces voorlichting bij het plaats incident. 
 
 ### Kerntaak  2:  
 
 ####Informatie delen
 
-Het doeltreffend en doelmatig verzamelen van informatie en die delen binnen het COPI en met de voorlichter ROT bij melding en opschaling conform de GRIP structuur.  
+Het doeltreffend en doelmatig verzamelen van informatie en die delen binnen het COPI en met de voorlichter ROT bij melding en opschaling conform de GRIP structuur. 
 
 ### 2.2  
 
@@ -11924,7 +11924,7 @@ Voor deze functie zijn de acht belangrijkste competenties benoemd. Dit zijn de c
 | Oordelen  |
 | Aanpassingsvermogen  |
 
-In supplement j. is het competentieoverzicht uitgewerkt.  
+In supplement j. is het competentieoverzicht uitgewerkt. 
 
 ### 3.1  
 
@@ -11956,7 +11956,7 @@ De voorlichtingsfunctionaris commando plaats incident (COPI) heeft als primaire 
 
 * Draagt zorg voor het vertaalproces van activiteiten binnen het COPI naar beeldvorming voor de externe omgeving.  
 
-* Heeft aandacht voor mogelijke opschaling en adviseert ook zodanig als opschaling noodzakelijk is.    
+* Heeft aandacht voor mogelijke opschaling en adviseert ook zodanig als opschaling noodzakelijk is.   
 
 ### Kerntaak  2:  
 
@@ -11974,7 +11974,7 @@ Het doeltreffend en doelmatig verzamelen van informatie en die delen binnen het 
 
 * Draagt zorg voor overdracht van aansturing van het proces bij opschaling  
 
-* Is in staat om oorzaak-gevolg relaties te overzien en in scenario’s te denken    
+* Is in staat om oorzaak-gevolg relaties te overzien en in scenario’s te denken   
 
 ####Bijlage C, behorende bij [artikel 2 lid 3 Besluit personeel veiligheidsregio’s](../../../../../AMvB/besluit/personeel/veiligheidsregio's/BWBR0027841/README.md)
 
@@ -11996,7 +11996,7 @@ Functie zoals genoemd in [artikel 2 lid 3 sub i Besluit personeel veiligheidsreg
 | --- | --- |
 | --- | De voorlichtingsfunctionaris ROT adviseert het ROT over alle aspecten van communicatie en geeft sturing aan het communicatieproces in het ROT.  |
 
-In supplement l. zijn de niveaus van aansturing uitgewerkt.  
+In supplement l. zijn de niveaus van aansturing uitgewerkt. 
 
 ### 2.1  
 
@@ -12006,13 +12006,13 @@ In supplement l. zijn de niveaus van aansturing uitgewerkt.
 
 ####Het adviseren van het ROT over alle aspecten van voorlichting
 
-De voorlichtingsfunctionaris ROT is verantwoordelijk voor een adequate en volledige communicatie met én advisering aan het ROT. Hij adviseert en informeert het ROT, waarmee dit team besluiten kan nemen op het operationeel niveau.  
+De voorlichtingsfunctionaris ROT is verantwoordelijk voor een adequate en volledige communicatie met én advisering aan het ROT. Hij adviseert en informeert het ROT, waarmee dit team besluiten kan nemen op het operationeel niveau. 
 
 ### Kerntaak  2:  
 
 ####Sturing geven aan het communicatieproces
 
-De voorlichtingsfunctionaris ROT geeft sturing aan het totale proces voorlichting. Hij draagt zorg voor een goedlopend voorlichtingsproces. Hij zorgt voor tijdige en kwalitatief hoogwaardige adviezen.  
+De voorlichtingsfunctionaris ROT geeft sturing aan het totale proces voorlichting. Hij draagt zorg voor een goedlopend voorlichtingsproces. Hij zorgt voor tijdige en kwalitatief hoogwaardige adviezen. 
 
 ### 2.2  
 
@@ -12031,7 +12031,7 @@ Voor deze functie zijn de acht belangrijkste competenties benoemd. Dit zijn de c
 | Inleven  |
 | Politiek-bestuurlijk inzicht  |
 
-In supplement j. is het competentieoverzicht uitgewerkt.  
+In supplement j. is het competentieoverzicht uitgewerkt. 
 
 ### 3.1  
 
@@ -12057,7 +12057,7 @@ De voorlichtingsfunctionaris ROT is verantwoordelijk voor een adequate en volled
 
 * Adviseert over de communicatiestrategie en de te ontplooien acties inzake het proces voorlichting.  
 
-* Draagt zorg voor het vertaalproces van activiteiten binnen het ROT naar beeldvorming voor de externe omgeving.    
+* Draagt zorg voor het vertaalproces van activiteiten binnen het ROT naar beeldvorming voor de externe omgeving.   
 
 ### Kerntaak  2:  
 
@@ -12075,7 +12075,7 @@ De voorlichtingsfunctionaris ROT geeft sturing aan het totale proces voorlichtin
 
 * Verwerft en deelt informatie met de voorlichter COPI en (bij opschaling) met de communicatieadviseur in de getroffen gemeente(n).  
 
-* Is in staat om oorzaak-gevolg relaties te overzien en in scenario’s te denken.    
+* Is in staat om oorzaak-gevolg relaties te overzien en in scenario’s te denken.   
 
 ####Bijlage C, behorende bij artikel 1 lid 3  Regeling personeel veiligheidsregio’s
 
@@ -12083,7 +12083,7 @@ De voorlichtingsfunctionaris ROT geeft sturing aan het totale proces voorlichtin
 
 ####Uitwerking competentieoverzicht
 
-Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties onderscheidt: *Kerncompetenties:* hierbij zijn de verschillende kerncompetenties omschreven en van gedragsvoorbeelden voorzien. 
+Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties onderscheidt:  *Kerncompetenties:* hierbij zijn de verschillende kerncompetenties omschreven en van gedragsvoorbeelden voorzien. 
 
 ####Kerncompetenties
 
@@ -12099,7 +12099,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * Past eigen standpunten aan dat van anderen aan.  
 
-* Raakt niet overspannen, toont geen disfunctioneel gedrag in geval van verandering, maar voegt zich snel in de nieuwe situatie.    
+* Raakt niet overspannen, toont geen disfunctioneel gedrag in geval van verandering, maar voegt zich snel in de nieuwe situatie.   
 
 ####Accuraat
 
@@ -12111,7 +12111,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * Coördineert en corrigeert de werkzaamheden van meerdere personen/diensten, zodat fouten worden voorkomen en kwaliteit wordt verhoogd.  
 
-* Heeft oog voor het cruciale belang van veiligheid onder alle omstandigheden, kan kritisch met mededelingen/informatie omgaan.    
+* Heeft oog voor het cruciale belang van veiligheid onder alle omstandigheden, kan kritisch met mededelingen/informatie omgaan.   
 
 ####Analyseren
 
@@ -12129,7 +12129,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * Heeft oog voor – kritische – informatie en activiteiten en beziet de mogelijkheden hiervan  
 
-* voor de rampenbestrijdingsorganisatie.    
+* voor de rampenbestrijdingsorganisatie.   
 
 ####Communiceren
 
@@ -12139,7 +12139,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * Herkent persoonlijke belangen en kiest een geschikte manier om de ander te beïnvloeden; zet verschillende invloedstijlen effectief in.  
 
-* Beïnvloedt en stuurt het gesprek en de sfeer door gevoelens te benoemen, ook wanneer bij de ander geen respect lijkt te bestaan.    
+* Beïnvloedt en stuurt het gesprek en de sfeer door gevoelens te benoemen, ook wanneer bij de ander geen respect lijkt te bestaan.   
 
 ####Daadkracht
 
@@ -12151,7 +12151,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * Neemt een besluit in heroverweging wanneer de wijzigende omstandigheden daarom vragen.  
 
-* Durft buiten gebaande paden te treden bij het oplossen van vastzittende, complexe kwesties.    
+* Durft buiten gebaande paden te treden bij het oplossen van vastzittende, complexe kwesties.   
 
 ####Delegeren
 
@@ -12169,7 +12169,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * Spreekt daarbij af op welke wijze en op welk tijdstip de medewerker over de resultaten rapporteert.  
 
-* Delegeert daadwerkelijk en niet ‘maar half’.    
+* Delegeert daadwerkelijk en niet ‘maar half’.   
 
 ####Inleven
 
@@ -12181,7 +12181,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * Bindt partners/experts aan de rampenbestrijdingsorganisatie door eigen opreden en persoonlijke uitstraling.  
 
-* Wisselt van stijl/gedrag om bewustwording bij de partner/expert te realiseren of om gedragspatronen te doorbreken of te versterken.    
+* Wisselt van stijl/gedrag om bewustwording bij de partner/expert te realiseren of om gedragspatronen te doorbreken of te versterken.   
 
 ####Leiding geven
 
@@ -12193,7 +12193,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * Creëert ruimte en mogelijkheden voor personeel om werkzaamheden op eigen (en eventueel andere) wijze uit te voeren  
 
-* Inspireert partners/experts om hun visie te delen en om draagvlak en betrokkenheid hiervoor te realiseren.    
+* Inspireert partners/experts om hun visie te delen en om draagvlak en betrokkenheid hiervoor te realiseren.   
 
 ####Omgevingsbewustzijn
 
@@ -12201,7 +12201,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * Stelt zich op de hoogte van externe (politieke en maatschappelijke) ontwikkelingen en vertaalt deze naar de eigen werksituatie.  
 
-* Stelt zich op de hoogte van veranderingen in de rampenbestrijdingsorganisatie en vertaalt deze naar de eigen werksituatie.    
+* Stelt zich op de hoogte van veranderingen in de rampenbestrijdingsorganisatie en vertaalt deze naar de eigen werksituatie.   
 
 ####Oordelen
 
@@ -12211,7 +12211,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * Betrekt een breed scala aan alternatieve opvattingen en meningen in de oordeelsvorming en houdt rekening met gevolgen voor de betrokken partijen.  
 
-* Schetst de mogelijke gevolgen van plannen en meningen in situaties met een hoge mate van onzekerheid en complexiteit.    
+* Schetst de mogelijke gevolgen van plannen en meningen in situaties met een hoge mate van onzekerheid en complexiteit.   
 
 ####Overtuigingskracht
 
@@ -12221,7 +12221,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * Wisselt relatiegericht van invloedstijl om zwaarwegende (belangen) tegenstellingen of conflicten te overbruggen  
 
-* Enthousiasmeert anderen voor zijn/haar standpunten, ook wanneer sprake is van fundamentele verschillen van inzichten of conflictsituaties; houdt de relatie daarbij in stand.    
+* Enthousiasmeert anderen voor zijn/haar standpunten, ook wanneer sprake is van fundamentele verschillen van inzichten of conflictsituaties; houdt de relatie daarbij in stand.   
 
 ####Plannen, organiseren en coördineren
 
@@ -12233,7 +12233,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * Houdt op elk moment en op elk niveau het overzicht van werkzaamheden en stuurt indien nodig bij op hoofdlijnen  
 
-* Anticipeert op onverwachte gebeurtenissen die van invloed zijn op de planning en past de planningen en doelstellingen hierop aan.    
+* Anticipeert op onverwachte gebeurtenissen die van invloed zijn op de planning en past de planningen en doelstellingen hierop aan.   
 
 ####Politiek-bestuurlijk inzicht
 
@@ -12243,7 +12243,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * Benut het politiek-bestuurlijk krachtenveld rondom de brandweer en de ontwikkeling van de rampenbestrijdingsorganisatie, stemt zijn handelen af op dit krachtenveld en sluit allianties  
 
-* Legt relaties tussen de verwachte resultaten voor de eigen organisatie en criteria voor andere schakels in de bestuurlijke keten.    
+* Legt relaties tussen de verwachte resultaten voor de eigen organisatie en criteria voor andere schakels in de bestuurlijke keten.   
 
 ####Probleemanalyse
 
@@ -12259,7 +12259,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * Weet symptomen van oorzaken te onderscheiden.  
 
-* Maakt onderscheid tussen feitelijke informatie en interpretaties/veronderstellingen.    
+* Maakt onderscheid tussen feitelijke informatie en interpretaties/veronderstellingen.   
 
 ####Samenwerken
 
@@ -12269,7 +12269,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * Doet actief aan kennisoverdracht door eigen kennis en ervaringen te delen en partners/experts te motiveren hun expertise in te brengen.  
 
-* Beweegt partners/experts tot samenwerken en zorgt ervoor dat het resultaat wordt ervaren als een gezamenlijke verantwoordelijkheid.    
+* Beweegt partners/experts tot samenwerken en zorgt ervoor dat het resultaat wordt ervaren als een gezamenlijke verantwoordelijkheid.   
 
 ####Stressbestendigheid
 
@@ -12281,7 +12281,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * Presteert langdurig goed onder tijdsdruk, tegenslag en complicaties  
 
-* Schermt partners/experts af van stress door (tijds)druk en zorgt dat het werk hier geen schade van ondervindt.    
+* Schermt partners/experts af van stress door (tijds)druk en zorgt dat het werk hier geen schade van ondervindt.   
 
 ####Sturing geven aan proces
 
@@ -12293,7 +12293,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * Creëert ruimte en mogelijkheden voor personeel om werkzaamheden op eigen (en eventueel andere) wijze uit te voeren  
 
-* Inspireert partners/experts om hun visie te delen en om draagvlak en betrokkenheid hiervoor te realiseren.    
+* Inspireert partners/experts om hun visie te delen en om draagvlak en betrokkenheid hiervoor te realiseren.   
 
 ####Bijlage C, behorende bij artikel 1 lid 3  Regeling personeel veiligheidsregio’s
 
@@ -12301,7 +12301,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 ####Uitwerking competentiematrix
 
-Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties onderscheidt: *Kerncompetenties:* bij de functieomschrijving de verschillende kerncompetenties beschreven, van gedragsvoorbeelden voorzien en vervolgens gekoppeld aan niveauduiding. Deze niveauduiding is opgedeeld in het niveau aangaande de strategische/organisatorische competenties en het niveau aangaande de sociaal, maatschappelijke en communicatieve competenties. *Strategische/organisatorische competenties:* dit betreft de verschillende competenties die met name betrekking hebben op het geven van richting aan organisatie(onderdeel) (visie, strategievorming) en de inrichting van het werk (de interne organisatie). Deze competenties zijn vervolgens gekoppeld aan een niveauduiding *Sociaal, maatschappelijke en communicatieve competenties (omgeving):* dit betreft de sociale, maatschappelijke en communicatieve competenties die betrekking hebben op de interactie met de omgeving zowel extern als intern. Deze competenties zijn vervolgens gekoppeld aan een niveauduiding 
+Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties onderscheidt:  *Kerncompetenties:* bij de functieomschrijving de verschillende kerncompetenties beschreven, van gedragsvoorbeelden voorzien en vervolgens gekoppeld aan niveauduiding. Deze niveauduiding is opgedeeld in het niveau aangaande de strategische/organisatorische competenties en het niveau aangaande de sociaal, maatschappelijke en communicatieve competenties.  *Strategische/organisatorische competenties:* dit betreft de verschillende competenties die met name betrekking hebben op het geven van richting aan organisatie(onderdeel) (visie, strategievorming) en de inrichting van het werk (de interne organisatie). Deze competenties zijn vervolgens gekoppeld aan een niveauduiding  *Sociaal, maatschappelijke en communicatieve competenties (omgeving):* dit betreft de sociale, maatschappelijke en communicatieve competenties die betrekking hebben op de interactie met de omgeving zowel extern als intern. Deze competenties zijn vervolgens gekoppeld aan een niveauduiding 
 
 ####Competenties
 
@@ -12327,7 +12327,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * coördineert en corrigeert de werkzaamheden van meerdere personen/diensten, zodat fouten worden voorkomen en kwaliteit wordt verhoogd.  
 
-* heeft oog voor het cruciale belang van veiligheid onder alle omstandigheden, kan kritisch met mededelingen/informatie omgaan.    
+* heeft oog voor het cruciale belang van veiligheid onder alle omstandigheden, kan kritisch met mededelingen/informatie omgaan.   
 
 ####Samenwerken
 
@@ -12349,7 +12349,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * Doet actief aan kennisoverdracht door eigen kennis en ervaringen te delen en partners/experts te motiveren hun expertise in te brengen.  
 
-* Beweegt partners/experts tot samenwerken en zorgt ervoor dat het resultaat wordt ervaren als een gezamenlijke verantwoordelijkheid.    
+* Beweegt partners/experts tot samenwerken en zorgt ervoor dat het resultaat wordt ervaren als een gezamenlijke verantwoordelijkheid.   
 
 ####Stressbestendig
 
@@ -12377,7 +12377,7 @@ Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties
 
 * Presteert langdurig goed onder tijdsdruk, tegenslag en complicaties.  
 
-* Schermt partners/experts af van stress door (tijds)druk en zorgt dat het werk hier geen schade van ondervindt.    
+* Schermt partners/experts af van stress door (tijds)druk en zorgt dat het werk hier geen schade van ondervindt.   
 
 ####Strategische en organisatorische competenties (organisatie)
 
@@ -12405,7 +12405,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Structureert, reflecteert, vraagt door en helpt zodoende ook partners/experts om tot oplossingen of alternatieven te komen  
 
-* Treedt op als bemiddelende derde partij; begeleidt partners/experts bij oplossen van problemen door het geven van handvaten.    
+* Treedt op als bemiddelende derde partij; begeleidt partners/experts bij oplossen van problemen door het geven van handvaten.   
 
 ####Innoveren en creativiteit
 
@@ -12431,7 +12431,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Benadert vraagstukken uit een andere invalshoek.  
 
-* Maakt zich los uit bestaande denkkaders en maakt zo nieuwe wegen zichtbaar, waardoor nieuwe oplossingsrichtingen ontstaan; zoekt en creëert ruimte.    
+* Maakt zich los uit bestaande denkkaders en maakt zo nieuwe wegen zichtbaar, waardoor nieuwe oplossingsrichtingen ontstaan; zoekt en creëert ruimte.   
 
 ####Plannen, organiseren en coördineren
 
@@ -12461,7 +12461,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Houdt op elk moment en op elk niveau het overzicht van werkzaamheden en stuurt indien nodig bij op hoofdlijnen.  
 
-* Anticipeert op onverwachte gebeurtenissen die van invloed zijn op de planning en past de planningen en doelstellingen hierop aan.    
+* Anticipeert op onverwachte gebeurtenissen die van invloed zijn op de planning en past de planningen en doelstellingen hierop aan.   
 
 ####Leren en reflecteren
 
@@ -12487,7 +12487,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Doorziet eigen leerprocessen en herkent bevorderende en belemmerende factoren voor leren.  
 
-* Stelt eigen ontwikkelplan op met langere termijn doelstellingen en onderneemt gerichte acties.    
+* Stelt eigen ontwikkelplan op met langere termijn doelstellingen en onderneemt gerichte acties.   
 
 ####Innoveren/creativiteit
 
@@ -12507,7 +12507,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Werkt pro-actief bij mogelijke problemen in een complexe omgeving en stelt alternatieve oplossingen voor; toont assertief gedrag.  
 
-* Improviseert in complexe situaties.    
+* Improviseert in complexe situaties.   
 
 ####Problemen oplossen
 
@@ -12527,7 +12527,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Analyseert problemen, achterhaalt de werkelijke vraag achter het probleem, ook zonder eigen inhoudelijke expertise.  
 
-* Formuleert verschillende passende oplossingen en helpt partners/experts bij het oplossen van problemen wanneer zij hier niet uit komen.    
+* Formuleert verschillende passende oplossingen en helpt partners/experts bij het oplossen van problemen wanneer zij hier niet uit komen.   
 
 ####Analyseren
 
@@ -12553,7 +12553,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Doorziet problemen en oplossingen die pas op lange termijn spelen.  
 
-* Heeft oog voor – kritische – informatie en activiteiten en beziet de mogelijkheden hiervan voor de rampenbestrijdingsorganisatie.    
+* Heeft oog voor – kritische – informatie en activiteiten en beziet de mogelijkheden hiervan voor de rampenbestrijdingsorganisatie.   
 
 ####Oordelen
 
@@ -12575,7 +12575,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Betrekt een breed scala aan alternatieve opvattingen en meningen in de oordeelsvorming en houdt rekening met gevolgen voor de betrokken partijen.  
 
-* Schetst de mogelijke gevolgen van plannen en meningen in situaties met een hoge mate van onzekerheid en complexiteit.    
+* Schetst de mogelijke gevolgen van plannen en meningen in situaties met een hoge mate van onzekerheid en complexiteit.   
 
 ####Resultaatgericht
 
@@ -12601,7 +12601,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Zorgt voor heldere structuren, taakverdeling en procedures die een effectieve en efficiënte inzet van medewerkers bevordert.  
 
-* Spreekt zichzelf en partners/experts tijdig en regelmatig aan op het nakomen van afspraken en het realiseren van doelstellingen; achterhaalt achterliggende oorzaak bij niet nakomen van afspraken en stuurt bij.    
+* Spreekt zichzelf en partners/experts tijdig en regelmatig aan op het nakomen van afspraken en het realiseren van doelstellingen; achterhaalt achterliggende oorzaak bij niet nakomen van afspraken en stuurt bij.   
 
 ####Probleem oplossen
 
@@ -12629,7 +12629,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Structureert, reflecteert, vraagt door en helpt zodoende ook partners/experts om tot oplossingen of alternatieven te komen.  
 
-* Treedt op als bemiddelende derde partij; begeleidt partners/experts bij oplossen van problemen door het geven van handvaten.    
+* Treedt op als bemiddelende derde partij; begeleidt partners/experts bij oplossen van problemen door het geven van handvaten.   
 
 ####Leren en reflecteren
 
@@ -12649,7 +12649,7 @@ Dit betreft strategische en organisatorische competenties die met name betrekkin
 
 * Leert van en met partners/experts; formuleert leerdoelen en zet deze om in acties.  
 
-* Vertaalt ontwikkelingen in het vakgebied naar de praktijk.    
+* Vertaalt ontwikkelingen in het vakgebied naar de praktijk.   
 
 ####Sociaal, maatschappelijke en communicatieve competenties (omgeving)
 
@@ -12681,7 +12681,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Neemt een besluit in heroverweging wanneer de wijzigende omstandigheden daarom vragen.  
 
-* Durft buiten gebaande paden te treden bij het oplossen van vastzittende, complexe kwesties.    
+* Durft buiten gebaande paden te treden bij het oplossen van vastzittende, complexe kwesties.   
 
 ####Mondeling communiceren
 
@@ -12709,7 +12709,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Herkent persoonlijke belangen en kiest een geschikte manier om de ander te beïnvloeden; zet verschillende invloedstijlen effectief in.  
 
-* Beïnvloedt en stuurt het gesprek en de sfeer door gevoelens te benoemen, ook wanneer bij de ander geen respect lijkt te bestaan.    
+* Beïnvloedt en stuurt het gesprek en de sfeer door gevoelens te benoemen, ook wanneer bij de ander geen respect lijkt te bestaan.   
 
 ####Inleven
 
@@ -12737,7 +12737,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Bindt partners/experts aan de rampenbestrijdingsorganisatie door eigen optreden en persoonlijke uitstraling.  
 
-* Wisselt van stijl/gedrag om bewustwording bij de partner/expert te realiseren of om gedragspatronen te doorbreken of te versterken.    
+* Wisselt van stijl/gedrag om bewustwording bij de partner/expert te realiseren of om gedragspatronen te doorbreken of te versterken.   
 
 ####Daadkracht
 
@@ -12749,7 +12749,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Neemt en motiveert beslissingen binnen het eigen werkterrein.  
 
-* Blijft achter gemaakte keuzen (van zichzelf of van partners/experts) staan.    
+* Blijft achter gemaakte keuzen (van zichzelf of van partners/experts) staan.   
 
 ####Mondeling communiceren
 
@@ -12763,7 +12763,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Stelt open vragen en vraagt door; geeft feedback wanneer daar om wordt gevraagd.  
 
-* Redigeert interne documenten en schrijft documenten voor extern gebruik.    
+* Redigeert interne documenten en schrijft documenten voor extern gebruik.   
 
 ####Daadkracht
 
@@ -12783,7 +12783,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Neemt een besluit in heroverweging wanneer de wijzigende omstandigheden daarom vragen.  
 
-* Durft buiten gebaande paden te treden bij het oplossen van vastzittende, complexe kwesties.    
+* Durft buiten gebaande paden te treden bij het oplossen van vastzittende, complexe kwesties.   
 
 ####(taakgericht) Leiderschap
 
@@ -12809,7 +12809,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Creëert ruimte en mogelijkheden voor personeel om werkzaamheden op eigen (en eventueel andere) wijze uit te voeren.  
 
-* Inspireert partners/experts om hun visie te delen en om draagvlak en betrokkenheid hiervoor te realiseren.    
+* Inspireert partners/experts om hun visie te delen en om draagvlak en betrokkenheid hiervoor te realiseren.   
 
 ####Onafhankelijk
 
@@ -12831,7 +12831,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Houdt bij druk vast aan persoonlijke overtuiging wanneer daarop kritiek wordt geleverd of druk wordt uitgeoefend om zich aan te passen.  
 
-* Durft zich kwetsbaar op te stellen en neemt risico’s.    
+* Durft zich kwetsbaar op te stellen en neemt risico’s.   
 
 ####(mondeling) Communiceren
 
@@ -12859,7 +12859,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Herkent persoonlijke belangen en kiest een geschikte manier om de ander te beïnvloeden; zet verschillende invloedstijlen effectief in.  
 
-* Beïnvloedt en stuurt het gesprek en de sfeer door gevoelens te benoemen, ook wanneer bij de ander geen respect lijkt te bestaan.    
+* Beïnvloedt en stuurt het gesprek en de sfeer door gevoelens te benoemen, ook wanneer bij de ander geen respect lijkt te bestaan.   
 
 ####Inleven
 
@@ -12887,7 +12887,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Bindt partners/experts aan de rampenbestrijdingsorganisatie door eigen optreden en persoonlijke uitstraling.  
 
-* Wisselt van stijl/gedrag om bewustwording bij de partner/expert te realiseren of om gedragspatronen te doorbreken of te versterken.    
+* Wisselt van stijl/gedrag om bewustwording bij de partner/expert te realiseren of om gedragspatronen te doorbreken of te versterken.   
 
 ####Onafhankelijk
 
@@ -12909,7 +12909,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Houdt bij druk vast aan persoonlijke overtuiging wanneer daarop kritiek wordt geleverd of druk wordt uitgeoefend om zich aan te passen  
 
-* Durft zich kwetsbaar op te stellen en neemt risico’s.    
+* Durft zich kwetsbaar op te stellen en neemt risico’s.   
 
 ####Flexibel
 
@@ -12933,7 +12933,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Balanceert tussen diverse belangen en partijen:is intermediair.  
 
-* Schakelt bij weerstand over op een aanpak die wel tot het gestelde doel leidt.    
+* Schakelt bij weerstand over op een aanpak die wel tot het gestelde doel leidt.   
 
 ####Maatschappelijk georiënteerd
 
@@ -12961,7 +12961,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Heeft een visie op trends en ontwikkelingen in de maatschappij en destilleert hieruit onderwerpen voor de bestuurlijke agenda  
 
-* Speelt proactief in op vraagstukken/dilemma’s uit de maatschappij en vertaalt deze naar de eigen organisatie.    
+* Speelt proactief in op vraagstukken/dilemma’s uit de maatschappij en vertaalt deze naar de eigen organisatie.   
 
 ####Leiderschap
 
@@ -12973,7 +12973,7 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Creëert ruimte en mogelijkheden voor personeel om werkzaamheden op eigen (en eventueel andere) wijze uit te voeren.  
 
-* Inspireert partners/experts om hun visie te delen en om draagvlak en betrokkenheid hiervoor te realiseren.    
+* Inspireert partners/experts om hun visie te delen en om draagvlak en betrokkenheid hiervoor te realiseren.   
 
 ####Politiek-bestuurlijk inzicht
 
@@ -13001,5 +13001,5 @@ Dit betreft sociale, maatschappelijke en communicatieve competenties die betrekk
 
 * Benut het politiek-bestuurlijk krachtenveld rondom de brandweer en de ontwikkeling van de rampenbestrijdingsorganisatie, stemt zijn handelen af op dit krachtenveld en sluit allianties  
 
-* Legt relaties tussen de verwachte resultaten voor de eigen organisatie en criteria voor andere schakels in de bestuurlijke keten.    
+* Legt relaties tussen de verwachte resultaten voor de eigen organisatie en criteria voor andere schakels in de bestuurlijke keten.   
 
