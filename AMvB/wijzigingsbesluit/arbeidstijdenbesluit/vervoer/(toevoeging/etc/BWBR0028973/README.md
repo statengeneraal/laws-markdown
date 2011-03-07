@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Arbeidstijdenbesluit vervoer.   
+Wijzigt het Arbeidstijdenbesluit vervoer. 
 
 ### Artikel  II  
 
-Ontheffingen verleend op grond van [artikel 4.9:1, eerste lid, van het Arbeidstijdenbesluit vervoer](../../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) zoals dat luidde voor het tijdstip van inwerkingtreding van artikel I van dit besluit, worden vanaf dat tijdstip gelijkgesteld met een ontheffing verleend op grond van artikel 4.9:1, eerste lid, onder a, van het Arbeidstijdenbesluit vervoer, zoals dat luidt na inwerkingtreding van artikel I van dit besluit.  
+Ontheffingen verleend op grond van [artikel 4.9:1, eerste lid, van het Arbeidstijdenbesluit vervoer](../../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) zoals dat luidde voor het tijdstip van inwerkingtreding van artikel I van dit besluit, worden vanaf dat tijdstip gelijkgesteld met een ontheffing verleend op grond van artikel 4.9:1, eerste lid, onder a, van het Arbeidstijdenbesluit vervoer, zoals dat luidt na inwerkingtreding van artikel I van dit besluit. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -31,13 +31,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 5 november 2010  
 Beatrix  
 
-De Staatssecretaris van Infrastructuur en Milieu, 
+De Staatssecretaris van Infrastructuur en Milieu,  
 J. J. Atsma   
 
-De Minister van Sociale Zaken en Werkgelegenheid, 
+De Minister van Sociale Zaken en Werkgelegenheid,  
 H. G. J. Kamp   
 
 de *drieëntwintigste* november 2010 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    
