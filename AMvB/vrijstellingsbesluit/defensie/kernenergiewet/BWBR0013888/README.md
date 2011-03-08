@@ -21,9 +21,9 @@ a. wet: [Kernenergiewet](../../../../../wet/kernenergiewet/BWBR0002402/README.md
 
 b. Onze Minister: Onze Minister van Defensie;  
 
-c. handeling: handeling als bedoeld in [artikel 1, eerste lid, van het Besluit stralingsbescherming](../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md);  
+c. handeling: handeling als bedoeld in artikel 1, eerste lid, van het Besluit stralingsbescherming;  
 
-d. werkzaamheid: werkzaamheid als bedoeld in [artikel 1, eerste lid, van het Besluit stralingsbescherming](../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md).    
+d. werkzaamheid: werkzaamheid als bedoeld in [artikel 1, eerste lid, van het Besluit stralingsbescherming](../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md).   
 
 ### Artikel  2  
 
@@ -31,47 +31,39 @@ Ten aanzien van splijtstoffen, ertsen, inrichtingen en uitrustingen, die in gebr
 
 ### Artikel  3  
 
-Ten aanzien van radioactieve stoffen, die in gebruik zijn dan wel bestemd zijn voor gebruik bij de Nederlandse krijgsmacht of bij de krijgsmacht van een bondgenootschappelijke mogendheid en met betrekking waartoe volgens de desbetreffende militaire voorschriften geheimhouding vereist is, wordt vrijstelling verleend van het in [artikel 29, eerste lid, van de wet](../../../../../wet/kernenergiewet/BWBR0002402/README.md) vervatte verbod.  
+Ten aanzien van radioactieve stoffen, die in gebruik zijn dan wel bestemd zijn voor gebruik bij de Nederlandse krijgsmacht of bij de krijgsmacht van een bondgenootschappelijke mogendheid en met betrekking waartoe volgens de desbetreffende militaire voorschriften geheimhouding vereist is, wordt vrijstelling verleend van het in [artikel 29, eerste lid, van de wet](../../../../../wet/kernenergiewet/BWBR0002402/README.md) vervatte verbod. 
 
 ### Artikel  4  
 
-Ten aanzien van toestellen, die in gebruik zijn dan wel bestemd zijn voor gebruik bij de Nederlandse krijgsmacht of bij de krijgsmacht van een bondgenootschappelijke mogendheid en met betrekking waartoe volgens de desbetreffende militaire voorschriften geheimhouding vereist is, zijn de [artikelen 21](../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) en [23 van het Besluit stralingsbescherming](../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) niet van toepassing.  
+Ten aanzien van toestellen, die in gebruik zijn dan wel bestemd zijn voor gebruik bij de Nederlandse krijgsmacht of bij de krijgsmacht van een bondgenootschappelijke mogendheid en met betrekking waartoe volgens de desbetreffende militaire voorschriften geheimhouding vereist is, zijn de [artikelen 21](../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) en [23 van het Besluit stralingsbescherming](../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) niet van toepassing. 
 
 ### Artikel  5  
 
-De artikelen 2, 3 en 4 zijn van overeenkomstige toepassing op splijtstoffen, ertsen, inrichtingen, uitrustingen, radioactieve stoffen en toestellen die blijkens een verklaring van Onze Minister of van een door hem aangewezen autoriteit in beheer zijn bij een krijgsmacht.  
+De artikelen 2, 3 en 4 zijn van overeenkomstige toepassing op splijtstoffen, ertsen, inrichtingen, uitrustingen, radioactieve stoffen en toestellen die blijkens een verklaring van Onze Minister of van een door hem aangewezen autoriteit in beheer zijn bij een krijgsmacht. 
 
 ### Artikel  6  
 
-In de gevallen, waarin artikel 2, 3, 4 of 5 van toepassing is, treft Onze Minister zodanige maatregelen dat de bescherming van de bij en krachtens [artikel 15b van de wet](../../../../../wet/kernenergiewet/BWBR0002402/README.md) aangewezen belangen, voor zover redelijkerwijs mogelijk, is verzekerd.  
+In de gevallen, waarin artikel 2, 3, 4 of 5 van toepassing is, treft Onze Minister zodanige maatregelen dat de bescherming van de bij en krachtens [artikel 15b van de wet](../../../../../wet/kernenergiewet/BWBR0002402/README.md) aangewezen belangen, voor zover redelijkerwijs mogelijk, is verzekerd. 
 
 ### Artikel  7  
 
-In de gevallen, waarin artikel 2, 3, 4 of 5 van toepassing is, houdt Onze Minister een administratie bij omtrent de betrokken splijtstoffen, ertsen, inrichtingen, uitrustingen, radioactieve stoffen of toestellen.  
-
-### Artikel  8  
-
-In de gevallen, waarin artikel 2, 3, 4 of 5 van toepassing is, pleegt Onze Minister voordat de desbetreffende handelingen of werkzaamheden worden verricht, onder de nodige waarborgen inzake geheimhouding ter zake overleg met Onze Ministers van Sociale Zaken en Werkgelegenheid, van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Volksgezondheid, Welzijn en Sport, indien: 
-
-a. niet-militaire personen aan de handelingen of werkzaamheden deelnemen of dergelijke personen geregeld moeten vertoeven ter plaatse, waar die handelingen of werkzaamheden worden verricht;  
-
-b. splijtstoffen of radioactieve stoffen zich bij normaal bedrijf in de biosfeer kunnen verspreiden.    
+In de gevallen, waarin artikel 2, 3, 4 of 5 van toepassing is, houdt Onze Minister een administratie bij omtrent de betrokken splijtstoffen, ertsen, inrichtingen, uitrustingen, radioactieve stoffen of toestellen. 
 
 ### Artikel  9  
 
-Van zoekraken, diefstal of ongewilde verspreiding van splijtstoffen, ertsen, radioactieve stoffen of toestellen als bedoeld in artikel 2, 3, 4 of 5 doet Onze Minister onmiddellijk mededeling aan Onze Ministers van Sociale Zaken en Werkgelegenheid, van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Volksgezondheid, Welzijn en Sport.  
+Van zoekraken, diefstal of ongewilde verspreiding van splijtstoffen, ertsen, radioactieve stoffen of toestellen als bedoeld in artikel 2, 3, 4 of 5 doet Onze Minister onmiddellijk mededeling aan Onze Minister van Economische Zaken, Landbouw en Innovatie. 
 
 ### Artikel  10  
 
-Het Vrijstellingsbesluit landsverdediging Kernenergiewet wordt ingetrokken.  
+Het Vrijstellingsbesluit landsverdediging Kernenergiewet wordt ingetrokken. 
 
 ### Artikel  11  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  12  
 
-Dit besluit wordt aangehaald als: Vrijstellingsbesluit defensie Kernenergiewet.  
+Dit besluit wordt aangehaald als: Vrijstellingsbesluit defensie Kernenergiewet. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -85,4 +77,4 @@ H. A. L. van Hoof
 de dertigste juli 2002 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     
