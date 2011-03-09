@@ -11,7 +11,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De ambtsketen van de gezaghebber bestaat uit een zilveren ketting met daaraan gehecht een zilveren penning, met aan de ene zijde het wapen van het openbaar lichaam en aan de andere zijde het Rijkswapen.  
+De ambtsketen van de gezaghebber bestaat uit een zilveren ketting met daaraan gehecht een zilveren penning, met aan de ene zijde het wapen van het openbaar lichaam en aan de andere zijde het Rijkswapen. 
 
 ### Artikel  2  
 
@@ -23,19 +23,19 @@ b. in geval van brand of verstoring van de openbare orde zich in het openbaar ve
 
 c. krachtens de [artikelen 174 tot en met 180 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) of enige andere wet in het openbaar bevelen geeft;  
 
-d. bij plechtige gelegenheden het openbaar lichaam vertegenwoordigt.    
+d. bij plechtige gelegenheden het openbaar lichaam vertegenwoordigt.   
 
 ### Artikel  3  
 
-Bij verhindering of ontstentenis van de gezaghebber wordt de ambtsketen in de gevallen, bedoeld in artikel 2, gedragen door degene die hem vervangt.  
+Bij verhindering of ontstentenis van de gezaghebber wordt de ambtsketen in de gevallen, bedoeld in artikel 2, gedragen door degene die hem vervangt. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) in werking treedt. 
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Besluit ambtsketen gezaghebbers BES.  
+Dit besluit wordt aangehaald als: Besluit ambtsketen gezaghebbers BES. 
 
 Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -43,10 +43,10 @@ Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uit
 30 september 2010  
 Beatrix  
 
-De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,  
 A. Th. B. Bijleveld-Schouten   
 
 de *zesde* oktober 2010 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    
