@@ -1,0 +1,60 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Wet van 2 december 2010 tot wijziging van de Gaswet en de Elektriciteitswet 1998, tot versterking van de werking van de gasmarkt, verbetering van de voorzieningszekerheid en houdende regels met betrekking tot de voorrang voor duurzame elektriciteit, alsmede enkele andere wijzigingen van deze wetten
+
+Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Gaswet](../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) en de [Elektriciteitswet 1998](../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) te wijzigen in verband met de versterking van de werking van de gasmarkt, de verbetering van de energie-infrastructuur, de verduurzaming van de energiehuishouding en de evaluatie van deze wetten;
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
+
+### Artikel  I  
+
+Wijzigt de Gaswet.   
+
+### Artikel  II  
+
+Wijzigt de Elektriciteitswet 1998.   
+
+### Artikel  IIa  
+
+Wijzigt de Wijzigingswet Elektriciteitswet 1998 en Gaswet (nadere regels omtrent een onafhankelijk netbeheer).   
+
+### Artikel  IIb  
+
+Wijzigt de Wijzigingswet Elektriciteitswet 1998, enz. (verbetering werking elektriciteits- en gasmarkt) (Kst. 31374).   
+
+### Artikel  IIc  
+
+Wijzigt deze wet.   
+
+### Artikel  IId  
+
+Wijzigt deze wet.   
+
+### Artikel  III  
+
+Voor overeenkomsten betreffende de verkoop van gas die zijn gesloten voor het tijdstip van inwerkingtreding van artikel I, onderdeel T, geldt [artikel 54a](../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) zoals dit artikel luidde voor het tijdstip van inwerkingtreding van dit artikel.  
+
+### Artikel  IV  
+
+Indien de artikelen I, onderdelen Y en AC en II, onderdeel S, in werking treden gedurende de periode, bedoeld in [artikel 81, eerste lid, van de Gaswet](../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) en [41, eerste lid, van de Elektriciteitswet 1998](../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) dan blijven voor die periode de [artikelen 80](../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) en [81c van de Gaswet](../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) en [41c van de Elektriciteitswet 1998](../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) van toepassing zoals die luidden voor dat tijdstip.  
+
+### Artikel  V  
+
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+
+’s-Gravenhage 
+2 december 2010  
+Beatrix  
+
+De Minister van Economische Zaken, Landbouw en Innovatie , 
+M. J. M. Verhagen   
+
+de *zeventiende* december 2010 
+
+De Minister van Veiligheid en Justitie , 
+I. W. Opstelten    

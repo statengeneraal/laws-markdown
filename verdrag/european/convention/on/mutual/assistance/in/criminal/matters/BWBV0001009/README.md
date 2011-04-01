@@ -13,8 +13,10 @@ The Governments signatory hereto, being Members of the Council of Europe, Consid
 
 ### Article  1  
 
-1.  The Contracting Parties undertake to afford each other, in accordance with the provisions of this Convention, the widest measure of mutual assistance in proceedings in respect of offences the punishment of which, at the time of the request for assistance, falls within the jurisdiction of the judicial authorities of the requesting Party.   
+1.  The Parties undertake promptly to afford each other, in accordance with the provisions of this Convention, the widest measure of mutual assistance in proceedings in respect of offences the punishment of which, at the time of the request for assistance, falls within the jurisdiction of the judicial authorities of the requesting Party.   
 2.  This Convention does not apply to arrests, the enforcement of verdicts or offences under military law which are not offences under ordinary criminal law.   
+3.  Mutual assistance may also be afforded in proceedings brought by the administrative authorities in respect of acts which are punishable under the national law of the requesting or the requested Party by virtue of being infringements of the rules of law, where the decision may give rise to proceedings before a court having jurisdiction in particular in criminal matters.   
+4.  Mutual assistance shall not be refused solely on the grounds that it relates to acts for which a legal person may be held liable in the requesting Party.   
 
 ### Article  2  
 
@@ -36,7 +38,8 @@ Assistance may be refused:
 
 ### Article  4  
 
-On the express request of the requesting Party the requested Party shall state the date and place of execution of the letters rogatory. Officials and interested persons may be present if the requested Party consents.  
+1.  On the express request of the requesting Party the requested Party shall state the date and place of execution of the letters rogatory. Officials and interested persons may be present if the requested Party consents.   
+2.  Requests for the presence of such officials or interested persons should not be refused where that presence is likely to render the execution of the request for assistance more responsive to the needs of the requesting Party and, therefore, likely to avoid the need for supplementary requests for assistance.   
 
 ### Article  5  
 
@@ -80,17 +83,17 @@ The allowances, including subsistence, to be paid and the travelling expenses to
 
 ### Article  11  
 
-1.  A person in custody whose personal appearance as a witness or for purposes of confrontation is applied for by the requesting Party, shall be temporarily transferred to the territory where the hearing is intended to take place, provided that he shall be sent back within the period stipulated by the requested Party and subject to the provisions of Article 12 in so far as these are applicable. Transfer may be refused: 
+1.  A person in custody whose personal appearance for evidentiary purposes other than for standing trial is applied for by the requesting Party shall be temporarily transferred to its territory, provided that he or she shall be sent back within the period stipulated by the requested Party and subject to the provisions of Article 12 of this Convention, in so far as these are applicable. Transfer may be refused if: 
 
-(a) if the person in custody does not consent,  
+a) the person in custody does not consent;  
 
-(b) if his presence is necessary at criminal proceedings pending in the territory of the requested Party,  
+b) his or her presence is necessary at criminal proceedings pending in the territory of the requested Party;  
 
-(c) if transfer is liable to prolong his detention, or  
+c) transfer is liable to prolong his or her detention, or  
 
-(d) if there are other overriding grounds for not transferring him to the territory of the requesting Party.     
-2.  Subject to the provisions of Article 2, in a case coming within the immediately preceding paragraph, transit of the person in custody through the territory of a third State, Party to this Convention, shall be granted on application, accompanied by all necessary documents, addressed by the Ministry of Justice of the requesting Party to the Ministry of Justice of the Party through whose territory transit is requested. A Contracting Party may refuse to grant transit to its own nationals.   
-3.  The transferred person shall remain in custody in the territory of the requesting Party and, where applicable, in the territory of the Party through which transit is requested, unless the Party from whom transfer is requested applies for his release.   
+d) there are other overriding grounds for not transferring him or her to the territory of the requesting Party.     
+2.  Subject to the provisions of Article 2 of this Convention, in a case coming within paragraph 1, transit of the person in custody through the territory of a third Party, shall be granted on application, accompanied by all necessary documents, addressed by the Ministry of Justice of the requesting Party to the Ministry of Justice of the Party through whose territory transit is requested. A Party may refuse to grant transit to its own nationals. A Contracting Party may refuse to grant transit to its own nationals.   
+3.  The transferred person shall remain in custody in the territory of the requesting Party and, where applicable, in the territory of the Party through which transit is requested, unless the Party from whom transfer is requested applies for his or her release.   
 
 ### Article  12  
 
@@ -126,13 +129,24 @@ The allowances, including subsistence, to be paid and the travelling expenses to
 
 ### Article  15  
 
-1.  Letters rogatory referred to in Articles 3, 4 and 5 as well as the applications referred to in Article 11 shall be addressed by the Ministry of Justice of the requesting Party to the Ministry of Justice of the requested Party and shall be returned through the same channels.   
-2.  In case of urgency, letters rogatory may be addressed directly by the judicial authorities of the requesting Party to the judicial authorities of the requested Party. They shall be returned together with the relevant documents through the channels stipulated in paragraph 1 of this article.   
-3.  Requests provided for in paragraph 1 of Article 13 may be addressed directly by the judicial authorities concerned to the appropriate authorities of the requested Party, and the replies may be returned directly by those authorities. Requests provided for in paragraph 2 of Article 13 shall be addressed by the Ministry of Justice of the requesting Party to the Ministry of Justice of the requested Party.   
-4.  Requests for mutual assistance, other than those provided for in paragraphs 1 and 3 of this article and, in particular, requests for investigation preliminary to prosecution, may be communicated directly between the judicial authorities.   
-5.  In cases where direct transmission is permitted under this Convention, it may take place through the International Criminal Police Organisation (Interpol).   
-6.  A Contracting Party may, when signing this Convention or depositing its instrument of ratification or accession, by a declaration addressed to the Secretary-General of the Council of Europe, give notice that some or all requests for assistance shall be sent to it through channels other than those provided for in this article, or require that, in a case provided for in paragraph 2 of this article, a copy of the letters rogatory shall be transmitted at the same time to its Ministry of Justice.   
-7.  The provisions of this article are without prejudice to those of bilateral agreements or arrangements in force between Contracting Parties which provide for the direct transmission of requests for assistance between their respective authorities.   
+1.  Requests for mutual assistance, as well as spontaneous information, shall be addressed in writing by the Ministry of Justice of the requesting Party to the Ministry of Justice of the requested Party and shall be returned through the same channels. However, they may be forwarded directly by the judicial authorities of the requesting Party to the judicial authorities of the requested Party and returned through the same channels.   
+2.  Applications as referred to in Article 11 of this Convention and Article 13 of the Second Additional Protocol to this Convention shall in all cases be addressed by the Ministry of Justice of the requesting Party to the Ministry of Justice of the requested Party and shall be returned through the same channels.   
+3.  Requests for mutual assistance concerning proceedings as mentioned in paragraph 3 of Article 1 of this Convention may also be forwarded directly by the administrative or judicial authorities of the requesting Party to the administrative or judicial authorities of the requested Party, as the case may be, and returned through the same channels.   
+4.  Requests for mutual assistance made under Articles 18 and 19 of the Second Additional Protocol to this Convention may also be forwarded directly by the competent authorities of the requesting Party to the competent authorities of the requested Party.   
+5.  Requests provided for in paragraph 1 of Article 13 of this Convention may be addressed directly by the judicial authorities concerned to the appropriate authorities of the requested Party, and the replies may be returned directly by those authorities. Requests provided for in paragraph 2 of Article 13 of this Convention shall be addressed by the Ministry of Justice of the requesting Party to the Ministry of Justice of the requested Party.   
+6.  Requests for copies of convictions and measures as referred to in Article 4 of the Additional Protocol to the Convention may be made directly to the competent authorities. Any Contracting State may, at any time, by a declaration addressed to the Secretary General of the Council of Europe, define what authorities it will, for the purpose of this paragraph, deem competent authorities.   
+7.  In urgent cases, where direct transmission is permitted under this Convention, it may take place through the International Criminal Police Organisation (Interpol).   
+8.  Any Party may, at any time, by a declaration addressed to the Secretary General of the Council of Europe, reserve the right to make the execution of requests, or specified requests, for mutual assistance dependent on one or more of the following conditions: 
+
+a) that a copy of the request be forwarded to the central authority designated in that declaration;  
+
+b) that requests, except urgent requests, be forwarded to the central authority designated in that declaration;  
+
+c) that, in case of direct transmission for reasons of urgency, a copy shall be transmitted at the same time to its Ministry of Justice;  
+
+d) that some or all requests for assistance shall be sent to it through channels other than those provided for in this article.     
+9.  Requests for mutual assistance and any other communications under this Convention or its Protocols may be forwarded through any electronic or other means of telecommunication provided that the requesting Party is prepared, upon request, to produce at any time a written record of it and the original. However, any Contracting State, may by a declaration addressed at any time to the Secretary General of the Council of Europe, establish the conditions under which it shall be willing to accept and execute requests received by electronic or other means of telecommunication.   
+10.  The provisions of this article are without prejudice to those of bilateral agreements or arrangements in force between Parties which provide for the direct transmission of requests for assistance between their respective authorities.   
 
 ### Article  16  
 
@@ -154,7 +168,16 @@ Reasons shall be given for any refusal of mutual assistance.
 
 ### Article  20  
 
-Subject to the provisions of Article 10, paragraph 3 execution of requests for mutual assistance shall not entail refunding of expenses except those incurred by the attendance of experts in the territory of the requested Party or the transfer of a person in custody carried out under Article 11.  
+1.  Parties shall not claim from each other the refund of any costs resulting from the application of this Convention or its Protocols, except: 
+
+a) costs incurred by the attendance of experts in the territory of the requested Party;  
+
+b) costs incurred by the transfer of a person in custody carried out under Articles 13 or 14 of the Second Additional Protocol to this Convention, or Article 11 of this Convention;  
+
+c) costs of a substantial or extraordinary nature.     
+2.  However, the cost of establishing a video or telephone link, costs related to the servicing of a video or telephone link in the requested Party, the remuneration of interpreters provided by it and allowances to witnesses and their travelling expenses in the requested Party shall be refunded by the requesting Party to the requested Party, unless the Parties agree otherwise.   
+3.  Parties shall consult with each other with a view to making arrangements for the payment of costs claimable under paragraph 1.c above.   
+4.  The provisions of this article shall apply without prejudice to the provisions of Article 10, paragraph 3, of this Convention.   
 
 ### CHAPTER  VI  
 
@@ -187,7 +210,7 @@ Subject to the provisions of Article 10, paragraph 3 execution of requests for m
 
 ### Article  24  
 
-A Contracting Party may, when signing the Convention or depositing its instrument of ratification or accession, by a declaration addressed to the Secretary-General of the Council of Europe, define what authorities it will, for the purposes of the Convention, deem judicial authorities.  
+Any State shall at the time of signature or when depositing their instrument of ratification, acceptance, approval or accession, by means of a declaration addressed to the Secretary General of the Council of Europe, define what authorities it will, for the purpose of the Convention, deem judicial authorities. It subsequently may, at any time and in the same manner, change the terms of its declaration.  
 
 ### Article  25  
 
@@ -248,8 +271,10 @@ De Regeringen die dit Verdrag hebben ondertekend, Leden van de Raad van Europa, 
 
 ### Artikel  1  
 
-1.  De Verdragsluitende Partijen verbinden zich om, overeenkomstig de regels van dit Verdrag, elkander wederzijds in zo ruim mogelijke mate rechtshulp te verlenen in elke procedure die betrekking heeft op strafbare feiten waarvan de bestraffing het tijdstip waarop de rechtshulp wordt gevraagd, tot de bevoegdheid behoort van de rechterlijke autoriteiten van de verzoekende Partij.   
-2.  Dit Verdrag is niet van toepassing op de tenuitvoerlegging van beslissingen tot vrijheidsbeneming of van veroordelingen, noch op militaire delicten die niet tevens strafbare feiten naar de gewone strafwet zijn.   
+1.  De Partijen verbinden zich er onmiddellijk toe om, in overeenstemming met de bepalingen van dit Verdrag, elkander wederzijds in zo ruim mogelijke mate rechtshulp te verlenen in procedures die betrekking hebben op strafbare feiten waarvan de bestraffing op het tijdstip van het verzoek om rechtshulp, tot de bevoegdheid behoort van rechterlijke autoriteiten van de verzoekende Partij.   
+2.  Dit Verdrag is niet van toepassing op de tenuitvoerlegging van beslissingen tot vrijheidsbeneming of van veroordelingen of delicten krachtens militair recht die geen strafbare feiten naar het gewone strafrecht zijn.   
+3.  Wederzijdse rechtshulp kan eveneens worden verleend in procedures wegens feiten die volgens het nationale recht van de verzoekende Partij of de aangezochte Partij als vergrijpen tegen voorschriften betreffende de orde door bestuurlijke autoriteiten worden bestraft, mits van hun beslissingen beroep openstaat op een ook in strafzaken bevoegde rechter.   
+4.  Wederzijdse rechtshulp wordt niet geweigerd op grond van het enkele feit dat deze betrekking heeft op handelingen waarvoor een rechtspersoon in de verzoekende Partij aansprakelijk kan worden gesteld.   
 
 ### Artikel  2  
 
@@ -271,7 +296,8 @@ Rechtshulp kan worden geweigerd:
 
 ### Artikel  4  
 
-De aangezochte Partij licht de verzoekende Partij, indien zij daarom uitdrukkelijk vraagt, in aangaande de datum waarop en de plaats waar de rogatoire commissie zal worden uitgevoerd. De autoriteiten van de verzoekende Partij en de betrokkenen kunnen bij die uitvoering aanwezig zijn indien de aangezochte Partij daarin toestemt.  
+1.  De aangezochte Partij licht de verzoekende Partij, indien zij daarom uitdrukkelijk vraagt, in aangaande de datum waarop en de plaats waar de rogatoire commissie zal worden uitgevoerd. De autoriteiten van de verzoekende Partij en de betrokkenen kunnen bij die uitvoering aanwezig zijn indien de aangezochte Partij daarin toestemt.   
+2.  Verzoeken om de aanwezigheid van dergelijke autoriteiten of betrokkenen mag niet worden geweigerd wanneer de uitvoering van het verzoek om rechtshulp door hun aanwezigheid naar verwachting beter aansluit bij de behoeften van de verzoekende Partij en aanvullende verzoeken om rechtshulp derhalve naar verwachting vermeden kunnen worden.   
 
 ### Artikel  5  
 
@@ -315,17 +341,17 @@ De schadeloosstelling en de vergoeding voor reis- en verblijfkosten die aan de g
 
 ### Artikel  11  
 
-1.  Indien de verzoekende Partij de verschijning in persoon, hetzij als getuige, hetzij tot confrontatie, verzoekt van een persoon die van zijn vrijheid is beroofd, wordt de betrokkene tijdelijk overgebracht naar het grondgebied waar het verhoor plaats moet vinden, op voorwaarde dat hij binnen de door de aangezochte Partij vastgestelde termijn wordt teruggezonden en onder voorbehoud van het bepaalde in artikel 12, voor zover dit toepassing kan vinden. De overbrenging kan worden geweigerd: 
+1.  Indien de verzoekende Partij, ten behoeve van de bewijsvoering en niet voor het terechtstaan van de betrokkene, de verschijning in persoon verzoekt van een gedetineerde, wordt deze tijdelijk overgebracht naar haar grondgebied, op voorwaarde dat hij of zij binnen de door de aangezochte Partij vastgestelde termijn wordt teruggebracht en onder voorbehoud van het bepaalde in artikel 12 van dit Verdrag, voor zover dit toepassing kan vinden. De overbrenging kan worden geweigerd indien: 
 
-(a) indien de gedetineerde er niet in toestemt;  
+a. de gedetineerde er niet in toestemt;  
 
-(b) indien zijn aanwezigheid vereist wordt in een strafrechtelijke procedure op het grondgebied van de aangezochte Partij;  
+b. zijn of haar aanwezigheid vereist wordt in een strafrechtelijke procedure op het grondgebied van de aangezochte Partij;  
 
-(c) indien zijn overbrenging de duur van zijn detentie zou kunnen verlengen of  
+c. de overbrenging de duur van zijn of haar detentie zou kunnen verlengen, of  
 
-(d) indien andere dwingende overwegingen zich tegen zijn overbrenging naar het grondgebied van de verzoekende Partij verzetten.     
-2.  In het geval bedoeld in het vorige lid wordt, onverminderd het in artikel 2 bepaalde, de doortocht van een gedetineerde door het grondgebied van een derde Staat die Partij is bij dit Verdrag, toegestaan. Het daartoe strekkende verzoek van het Ministerie van Justitie van de verzoekende Partij aan het Ministerie van Justitie van de derde Staat dient te zijn vergezeld van de daarvoor van belang zijnde stukken. Iedere Verdragsluitende Partij kan weigeren doortocht van zijn onderdanen toe te staan.   
-3.  De overgebrachte persoon blijft op het grondgebied van de verzoekende Partij en, in voorkomende gevallen, op het grondgebied van de Partij aan wie toestemming tot doortocht is verzocht, in hechtenis, tenzij de Partij die de overbrenging van de gedetineerde toestaat, zijn invrijheidstelling verzoekt.   
+d. andere dwingende overwegingen zich tegen zijn of haar overbrenging naar het grondgebied van de verzoekende Partij verzetten.     
+2.  Onverminderd artikel 2 van dit Verdrag, wordt, in het geval bedoeld in het eerste lid, de doortocht van de gedetineerde door het grondgebied van een derde Partij toegestaan Het daartoe strekkende verzoek van het Ministerie van Justitie van de verzoekende Partij aan het Ministerie van Justitie van de Partij voor wiens grondgebied om doortocht wordt verzocht dient te zijn vergezeld van de daarvoor van belang zijnde stukken. Een Partij kan weigeren doortocht van zijn onderdanen toe te staan.   
+3.  De overgebrachte persoon blijft op het grondgebied van de verzoekende Partij en, in voorkomende gevallen op het grondgebied van de Partij aan wie toestemming tot doortocht is verzocht, in detentie, tenzij de Partij die om toestemming tot doortocht wordt verzocht, zijn of haar invrijheidstelling verzoekt.   
 
 ### Artikel  12  
 
@@ -361,13 +387,24 @@ De schadeloosstelling en de vergoeding voor reis- en verblijfkosten die aan de g
 
 ### Artikel  15  
 
-1.  De rogatoire commissies bedoeld in de artikelen 3, 4 en 5, benevens de verzoeken bedoeld in artikel 11, worden door het Ministerie van Justitie van de verzoekende Partij gericht tot het Ministerie van Justitie van de aangezochte Partij en op dezelfde wijze teruggezonden.   
-2.  In spoedeisende gevallen kunnen de bedoelde rogatoire commissies rechtstreeks door de rechterlijke autoriteiten van de verzoekende Partij worden gericht tot de rechterlijke autoriteiten van de aangezochte Partij. Zij worden, vergezeld van de stukken die op hun uitvoering betrekking hebben, teruggezonden op de in het eerste lid van dit artikel voorziene wijze.   
-3.  De verzoeken bedoeld in het eerste lid van artikel 13 kunnen door de rechterlijke autoriteiten rechtstreeks worden gericht tot de bevoegde dienst van de aangezochte Partij en de antwoorden kunnen door die dienst rechtstreeks worden teruggezonden. De verzoeken bedoeld in het tweede lid van artikel 13 worden door het Ministerie van Justitie van de verzoekende Partij gericht tot het Ministerie van Justitie van de aangezochte Partij.   
-4.  Andere verzoeken om rechtshulp dan die bedoeld in het eerste lid van dit artikel en met name verzoeken om rechtshulp tijdens het opsporingsonderzoek kunnen rechtstreeks door de rechterlijke autoriteiten tot elkaar worden gericht.   
-5.  In de gevallen waarin dit Verdrag rechtstreekse toezending toestaat, kan zulks geschieden door tussenkomst van de Internationale Politie Organisatie (Interpol).   
-6.  Iedere Verdragsluitende Partij kan bij de ondertekening van dit Verdrag of bij de nederlegging van haar akte van bekrachtiging of van toetreding, door een verklaring gericht tot de Secretaris-Generaal van de Raad van Europa, hetzij doen weten dat alle of bepaalde verzoeken om rechtshulp tot haar dienen te worden gericht op andere wijze dan die aangegeven in dit artikel, hetzij verzoeken dat in het geval bedoeld in het tweede lid van dit artikel een afschrift van de rogatoire commissie tegelijkertijd wordt toegezonden aan haar Ministerie van Justitie.   
-7.  Dit artikel laat onverlet de bepalingen uit bilaterale overeenkomsten of afspraken welke tussen de Verdragsluitende Partijen van kracht zijn en volgens welke rechtstreekse toezending van verzoeken om rechtshulp tussen autoriteiten van de Partijen is voorzien.   
+1.  Verzoeken om wederzijdse rechtshulp, alsmede informatie op eigen initiatief, worden door het Ministerie van Justitie van de verzoekende Partij gericht aan het Ministerie van Justitie van de aangezochte Partij en op dezelfde wijze teruggezonden. Zij mogen evenwel rechtstreeks door de rechterlijke autoriteiten van de verzoekende Partij worden gericht aan de rechterlijke autoriteiten van de aangezochte Partij en op dezelfde wijze worden teruggezonden.   
+2.  De verzoeken bedoeld in artikel 11 van dit Verdrag en artikel 13 van het Tweede Aanvullend Protocol bij dit Verdrag worden in alle gevallen door het Ministerie van Justitie van de verzoekende Partij gericht aan het Ministerie van Justitie van de aangezochte Partij en op dezelfde wijze teruggezonden.   
+3.  Verzoeken om wederzijdse rechtshulp betreffende procedures als bedoeld in artikel 1, derde lid, van dit Verdrag kunnen eveneens rechtstreeks door de bestuurlijke of rechterlijke autoriteiten van de verzoekende Partij worden gericht aan de bestuurlijke of rechterlijke autoriteiten van de aangezochte Partij, naar gelang van het geval, en op dezelfde wijze worden teruggezonden.   
+4.  Verzoeken om wederzijdse rechtshulp gedaan ingevolge de artikelen 18 en 19 van het Tweede Aanvullend Protocol bij dit Verdrag kunnen eveneens rechtstreeks door de bevoegde autoriteiten van de verzoekende Partij worden gericht aan de bevoegde autoriteiten van de aangezochte Partij.   
+5.  De verzoeken bedoeld in artikel 13, eerste lid, van dit Verdrag kunnen rechtstreeks door de betrokken rechterlijke autoriteiten worden gericht aan de desbetreffende autoriteiten van de aangezochte Partij, en de antwoorden kunnen door deze autoriteiten rechtstreeks worden teruggezonden. De verzoeken bedoeld in artikel 13, tweede lid, van dit Verdrag worden door het Ministerie van Justitie van de verzoekende Partij gericht aan het Ministerie van Justitie van de aangezochte Partij.   
+6.  Verzoeken om afschriften van vonnissen en maatregelen als bedoeld in artikel 4 van het Aanvullend Protocol bij het Verdrag kunnen rechtstreeks aan de bevoegde autoriteiten worden gericht. Elke Verdragsluitende Staat kan te allen tijde door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring aangeven welke autoriteiten hij beschouwt als bevoegde autoriteiten in de zin van dit lid.   
+7.  In spoedeisende gevallen kan dit, wanneer rechtstreekse verzending ingevolge dit Verdrag is toegestaan, geschieden via de Internationale Politie Organisatie (Interpol).   
+8.  Elke Partij kan zich te allen tijde door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring het recht voorbehouden de uitvoering van verzoeken om wederzijdse rechtshulp, of gespecificeerde verzoeken, afhankelijk te stellen van een of meer van de volgende voorwaarden: 
+
+a. dat een afschrift van het verzoek aan de in die verklaring genoemde centrale autoriteit wordt gericht;  
+
+b. dat verzoeken, behoudens spoedeisende verzoeken, aan de in die verklaring genoemde centrale autoriteit worden gericht;  
+
+c. dat, in geval van rechtstreekse verzending vanwege spoedeisende redenen, tegelijkertijd een afschrift aan haar Ministerie van Justitie wordt gericht;  
+
+d. dat sommige of alle verzoeken om rechtshulp aan haar worden gericht op een andere wijze dan de in dit artikel bedoelde wijzen.     
+9.  Verzoeken om wederzijdse rechtshulp en alle overige mededelingen op grond van dit Verdrag of de Protocollen daarbij, kunnen worden verzonden via elektronische of andere telecommunicatiemiddelen mits de verzoekende Partij bereid is, op verzoek, op enig tijdstip een schriftelijk stuk en het origineel hiervan te verstrekken. Elke Verdragsluitende Staat kan evenwel door middel van een op enig tijdstip aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring de voorwaarden vaststellen waarop hij bereid is via elektronische of andere telecommunicatiemiddelen ontvangen verzoeken te aanvaarden en uit te voeren.   
+10.  Dit artikel laat onverlet de bepalingen uit bilaterale overeenkomsten of regelingen welke tussen de Partijen van kracht zijn en volgens welke rechtstreekse toezending van verzoeken om rechtshulp tussen hun onderscheiden autoriteiten is voorzien.   
 
 ### Artikel  16  
 
@@ -389,7 +426,16 @@ Elke weigering van rechtshulp wordt met redenen omkleed.
 
 ### Artikel  20  
 
-Onverminderd het bepaalde in artikel 10, lid 3 geeft de uitvoering van verzoeken om rechtshulp geen aanleiding tot vergoeding van de daarvoor gemaakte kosten, met uitzondering van die welke veroorzaakt zijn door het optreden van deskundigen op het grondgebied van de aangezochte Partij en door de overbrenging van gedetineerde personen overeenkomstig artikel 11.  
+1.  De Partijen vorderen van elkaar geen terugbetaling van kosten voortvloeiende uit de toepassing van dit Verdrag of de Protocollen daarbij, behoudens: 
+
+a. kosten veroorzaakt door het optreden van deskundigen op het grondgebied van de aangezochte Partij;  
+
+b. kosten veroorzaakt door de overbrenging van gedetineerden overeenkomstig artikel 13 of 14 van het Tweede Aanvullend Protocol bij dit Verdrag, of artikel 11 van dit Verdrag;  
+
+c. kosten van aanmerkelijke of buitengewone aard.     
+2.  De kosten van het tot stand brengen van een video- of telefoonverbinding, de kosten van het functioneren van een video- of telefoonverbinding in de aangezochte Partij, de vergoeding van door haar geleverde tolken en gelden betaald aan getuigen alsmede de door hen gemaakte reiskosten in de aangezochte Partij worden evenwel door de verzoekende Partij aan de aangezochte Partij terugbetaald, tenzij de Partijen anderszins overeenkomen.   
+3.  De Partijen plegen overleg met elkaar teneinde regelingen te treffen voor de betaling van de kosten die uit hoofde van het eerste lid, onder c, teruggevorderd kunnen worden.   
+4.  De bepalingen van dit artikel laten de bepalingen van artikel 10, derde lid, van dit Verdrag onverlet.   
 
 ### TITEL  VI  
 
@@ -422,7 +468,7 @@ Onverminderd het bepaalde in artikel 10, lid 3 geeft de uitvoering van verzoeken
 
 ### Artikel  24  
 
-Iedere Verdragsluitende Partij kan bij de ondertekening van dit Verdrag of bij de nederlegging van haar akte van bekrachtiging of van toetreding door een verklaring gericht tot de Secretaris-Generaal van de Raad van Europa aangeven welke autoriteiten zij beschouwt als rechterlijke autoriteiten in de zin van dit Verdrag.  
+Iedere Staat geeft op het tijdstip van ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding door een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa aan welke autoriteiten hij beschouwt als rechterlijke autoriteiten in de zin van dit Verdrag. Daarna kan hij deze verklaring te allen tijde en op dezelfde wijze wijzigen.  
 
 ### Artikel  25  
 
