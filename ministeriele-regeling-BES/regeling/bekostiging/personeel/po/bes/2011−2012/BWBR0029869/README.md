@@ -1,0 +1,111 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 6 april 2011, nr. WJZ/287111 (2759), houdende regels voor het vaststellen van de bekostiging personeel primair onderwijs in Caribisch Nederland voor het schooljaar 2011−2012 (Regeling bekostiging personeel PO BES 2011−2012)
+
+### Artikel  1  
+
+####Begripsbepalingen
+
+In deze regeling wordt verstaan onder: 
+
+a. *wet:*[Wet primair onderwijs BES](../../../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0028735/README.md);  
+
+b. *besluit:*[Besluit bekostiging WPO BES](../../../../../../../../AMvB-BES/besluit/bekostiging/wpo/bes/BWBR0029580/README.md);  
+
+c. *school:* school als bedoeld in [artikel 1 van de wet](../../../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0028735/README.md);  
+
+d. *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1 van de wet](../../../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0028735/README.md).    
+
+### Artikel  2  
+
+####Vaststelling bedragen
+
+Het bedrag per leerling, bedoeld in [artikel 164, eerste lid, van de wet](../../../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0028735/README.md) bedraagt USD 2 397,63.  
+
+### Artikel  3  
+
+####Aanvullende bekostiging schoolleiding
+
+Het bedrag, bedoeld in [artikel 20, van het besluit](../../../../../../../../AMvB-BES/besluit/bekostiging/wpo/bes/BWBR0029580/README.md), is voor scholen met een aantal leerlingen dat op de teldatum niet hoger is dan 97 leerlingen USD 14 825,83 en voor scholen met een aantal leerlingen dat op de teldatum hoger is dan 97 leerlingen USD 26 882,78.  
+
+### Artikel  4  
+
+####Vaststelling aanvullende bekostiging (zeer) kleine scholen
+
+Het bedrag, bedoeld in de in de eerste kolom genoemde artikelen van het [besluit](../../../../../../../../AMvB-BES/besluit/bekostiging/wpo/bes/BWBR0029580/README.md), is het bedrag, genoemd in de tweede kolom bij het desbetreffende artikel:  
+
+| Artikel  | Bedrag  |
+|:---|:---|
+| [18](../../../../../../../../AMvB-BES/besluit/bekostiging/wpo/bes/BWBR0029580/README.md) (zeer kleine scholen)  | USD 143 134,55  |
+| [19, tweede lid](../../../../../../../../AMvB-BES/besluit/bekostiging/wpo/bes/BWBR0029580/README.md) (kleine scholen voet)  | USD 102 486,77  |
+| [19, tweede lid](../../../../../../../../AMvB-BES/besluit/bekostiging/wpo/bes/BWBR0029580/README.md) (kleine scholen verminderingsbedrag)  | USD 709,85  |
+
+### Artikel  5  
+
+####Aanvullende bekostiging voor zorg voor leerlingen met een specifieke onderwijsbehoefte
+
+Het percentage, bedoeld in [artikel 22, van het besluit](../../../../../../../../AMvB-BES/besluit/bekostiging/wpo/bes/BWBR0029580/README.md) is 10,5% van de bekostiging bedoeld in de artikelen 2 tot en met 4.  
+
+### Artikel  6  
+
+####Aanvullende bekostiging voor de bestrijding van onderwijsachterstanden
+
+Het percentage, bedoeld in [artikel 21, van het besluit](../../../../../../../../AMvB-BES/besluit/bekostiging/wpo/bes/BWBR0029580/README.md) is 8% van de bekostiging bedoeld in de artikelen 2 tot en met 4.  
+
+### Artikel  7  
+
+####Bekostiging personeels- en arbeidsmarktbeleid
+
+De grondslag voor de omvang van de bekostiging, bedoeld in [artikel 166, van de wet](../../../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0028735/README.md) is 13% van de bekostiging bedoeld in de artikelen 2 tot en met 4.  
+
+### Artikel  8  
+
+####Bijzondere bekostiging: het overgangsbudget
+
+1.  Het bevoegd gezag ontvangt voor zijn school of scholen bijzondere bekostiging indien de bekostiging, berekend met inachtneming van de artikelen 2 tot en met 7, minder bedraagt dan de personele uitgaven van het jaar 2009 van die school of scholen zoals deze naar het oordeel van de Minister zijn vastgesteld.   
+2.  De bijzondere bekostiging bedraagt het verschil tussen de personele uitgaven van het jaar 2009 van de school, zoals deze naar het oordeel van de Minister zijn vastgesteld en het totaal van de voor de school berekende bekostiging berekend met inachtneming van de artikelen 2 tot en met 7.   
+
+### Artikel  9  
+
+####Bijzondere bekostiging: verhoging met 5%
+
+De bijzondere bekostiging bedraagt 5% van de bekostiging, berekend met inachtneming van de artikelen 2 tot en met 8.  
+
+### Artikel  10  
+
+####Betaalritme
+
+De maandelijkse betaling van de bekostigingsbedragen voor personeelskosten, bedoeld in de artikelen 2 tot en met 9, vindt plaats op grond van de volgende percentages:  
+
+| --- | --- |
+|:---|:---|
+| augustus  | 7,13%  |
+| september  | 7,13%  |
+| oktober  | 7,13%  |
+| november  | 7,13%  |
+| december  | 7,15%  |
+| januari  | 9,33%  |
+| februari  | 9,33%  |
+| maart  | 9,33%  |
+| april  | 9,33%  |
+| mei  | 9,33%  |
+| juni  | 9,33%  |
+| juli  | 8,35%  |
+
+### Artikel  11  
+
+####Inwerkingtreding
+
+1.  Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.   
+2.  Deze regeling heeft betrekking op het schooljaar 2011–2012 en vervalt met ingang van 1 augustus 2021, met dien verstande dat deze van toepassing blijft voor het tijdvak waarvoor zij gelding had.   
+
+### Artikel  12  
+
+####Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling bekostiging personeel PO BES 2011–2012.  
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
+
+De 
+Minister van Onderwijs, Cultuur en Wetenschap, 
+J.M. vanBijsterveldt-Vliegenthart   

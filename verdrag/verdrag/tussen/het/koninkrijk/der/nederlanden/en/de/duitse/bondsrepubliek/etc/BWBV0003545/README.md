@@ -20,55 +20,55 @@ Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland, Ten einde de gren
 | E8  | 55°  | 45'  | 54" N  | 03°  | 22'  | 13"  | O  |
 
 De ligging van de punten E4 tot en met E8 is uitgedrukt in lengte en breedte volgens Europese coördinaten (1e Vereffening 1950).   
-(2).  Het eindpunt E8 van de grens is het snijpunt van de grenzen tussen het Nederlandse, het Duitse en het Engelse deel van het continentaal plat onder de Noordzee.   
-(3).  Deze grens, alsmede het bij het Verdrag van 1 december 1964 vastgestelde grensgedeelte, zijn ter verduidelijking ingetekend op de als Bijlage 1 bij dit Verdrag gevoegde kaart.   
+(2).  Het eindpunt E8 van de grens is het snijpunt van de grenzen tussen het Nederlandse, het Duitse en het Engelse deel van het continentaal plat onder de Noordzee.  
+(3).  Deze grens, alsmede het bij het Verdrag van 1 december 1964 vastgestelde grensgedeelte, zijn ter verduidelijking ingetekend op de als Bijlage 1 bij dit Verdrag gevoegde kaart.  
 
 ### Artikel  2  
 
-(1).  Indien in of op het continentaal plat van een der Verdragsluitende Partijen een voorkomen van delfstoffen wordt vastgesteld en de andere Verdragsluitende Partij van oordeel is dat dit vastgestelde voorkomen zich in of op haar continentaal plat uitstrekt, dan kan zij dit onder overlegging van de gegevens waarop zij haar oordeel baseert, aan de eerstgenoemde Partij kenbaar maken. Indien deze de opvatting van de andere Partij niet deelt, dan doet het scheidsgerecht overeenkomstig artikel 5, op verzoek van een der Partijen, hierover uitspraak.   
-(2).  Indien de Verdragsluitende Partijen het erover eens zijn, of indien het scheidsgerecht heeft vastgesteld, dat het voorkomen zich in of op het continentaal plat van beide Partijen uitstrekt, dan zullen de Regeringen van de Verdragsluitende Partijen met het oog op de exploitatie een regeling treffen die, met inachtneming van de belangen van beide Partijen, rekening houdt met het beginsel dat elke Partij aanspraak heeft op de in of op haar continentaal plat aanwezige delfstoffen. Ingeval er reeds delfstoffen zijn gewonnen uit het grensoverschrijdende voorkomen, dient de regeling eveneens bepalingen voor een passende vereffening te bevatten.   
-(3).  Een regeling als bedoeld in het tweede lid kan, met toestemming van de Regeringen der Verdragsluitende Partijen, ook geheel of gedeeltelijk tussen de rechthebbenden worden getroffen. Rechthebbende is degene die een recht op winning van de desbetreffende delfstoffen heeft.   
-(4).  Indien een regeling overeenkomstig de leden 2 of 3 niet binnen een redelijke termijn tot stand komt, kan elk der Verdragsluitende Partijen een beroep doen op het scheidsgerecht overeenkomstig artikel 5. Het scheidsgerecht kan in zulke gevallen ook ex aequo et bono een uitspraak doen. Het scheidsgerecht is bevoegd, na het horen van de Verdragsluitende Partijen, voorlopige voorzieningen te treffen.   
+(1).  Indien in of op het continentaal plat van een der Verdragsluitende Partijen een voorkomen van delfstoffen wordt vastgesteld en de andere Verdragsluitende Partij van oordeel is dat dit vastgestelde voorkomen zich in of op haar continentaal plat uitstrekt, dan kan zij dit onder overlegging van de gegevens waarop zij haar oordeel baseert, aan de eerstgenoemde Partij kenbaar maken. Indien deze de opvatting van de andere Partij niet deelt, dan doet het scheidsgerecht overeenkomstig artikel 5, op verzoek van een der Partijen, hierover uitspraak.  
+(2).  Indien de Verdragsluitende Partijen het erover eens zijn, of indien het scheidsgerecht heeft vastgesteld, dat het voorkomen zich in of op het continentaal plat van beide Partijen uitstrekt, dan zullen de Regeringen van de Verdragsluitende Partijen met het oog op de exploitatie een regeling treffen die, met inachtneming van de belangen van beide Partijen, rekening houdt met het beginsel dat elke Partij aanspraak heeft op de in of op haar continentaal plat aanwezige delfstoffen. Ingeval er reeds delfstoffen zijn gewonnen uit het grensoverschrijdende voorkomen, dient de regeling eveneens bepalingen voor een passende vereffening te bevatten.  
+(3).  Een regeling als bedoeld in het tweede lid kan, met toestemming van de Regeringen der Verdragsluitende Partijen, ook geheel of gedeeltelijk tussen de rechthebbenden worden getroffen. Rechthebbende is degene die een recht op winning van de desbetreffende delfstoffen heeft.  
+(4).  Indien een regeling overeenkomstig de leden 2 of 3 niet binnen een redelijke termijn tot stand komt, kan elk der Verdragsluitende Partijen een beroep doen op het scheidsgerecht overeenkomstig artikel 5. Het scheidsgerecht kan in zulke gevallen ook ex aequo et bono een uitspraak doen. Het scheidsgerecht is bevoegd, na het horen van de Verdragsluitende Partijen, voorlopige voorzieningen te treffen.  
 
 ### Artikel  3  
 
-Onverminderd de volkenrechtelijke regels betreffende het leggen van pijpleidingen op het continentaal plat, zijn pijpleidingen die in verband met de winning van delfstoffen op het continentaal plat worden gelegd, met het oog op het tegengaan van verontreiniging van de zee en het afwenden van andere gevaren onderworpen aan de bepalingen betreffende de aanleg en het gebruik van pijpleidingen van de Verdragsluitende Partij over wier continentaal plat zodanige pijpleidingen worden gelegd.  
+Onverminderd de volkenrechtelijke regels betreffende het leggen van pijpleidingen op het continentaal plat, zijn pijpleidingen die in verband met de winning van delfstoffen op het continentaal plat worden gelegd, met het oog op het tegengaan van verontreiniging van de zee en het afwenden van andere gevaren onderworpen aan de bepalingen betreffende de aanleg en het gebruik van pijpleidingen van de Verdragsluitende Partij over wier continentaal plat zodanige pijpleidingen worden gelegd. 
 
 ### Artikel  4  
 
-(1).  De in Bijlage 2 bij dit Verdrag genoemde ondernemingen wordt voor de in deze Bijlage aangegeven gebieden, voor zover die overeenkomstig artikel 1 van dit Verdrag behoren tot het Duitse continentaal plat, op aanvraag de opsporings- en winningsvergunning naar Duits recht voor aardolie en aardgas, alsmede voor bij de winning daarvan gelijktijdig verkregen andere stoffen, verleend.   
-(2).  De vergunning bedoeld in het eerste lid moet binnen een jaar na de inwerkingtreding van dit Verdrag bij de bevoegde Duitse autoriteit worden aangevraagd.   
+(1).  De in Bijlage 2 bij dit Verdrag genoemde ondernemingen wordt voor de in deze Bijlage aangegeven gebieden, voor zover die overeenkomstig artikel 1 van dit Verdrag behoren tot het Duitse continentaal plat, op aanvraag de opsporings- en winningsvergunning naar Duits recht voor aardolie en aardgas, alsmede voor bij de winning daarvan gelijktijdig verkregen andere stoffen, verleend.  
+(2).  De vergunning bedoeld in het eerste lid moet binnen een jaar na de inwerkingtreding van dit Verdrag bij de bevoegde Duitse autoriteit worden aangevraagd.  
 
 ### Artikel  5  
 
-(1).  Geschillen tussen de Verdragsluitende Partijen over de uitlegging of de toepassing van dit Verdrag of van een ingevolge het tweede lid van artikel 2 getroffen regeling zullen zoveel mogelijk door onderhandeling worden beslecht.   
-(2).  Indien een geschil niet op deze wijze binnen een redelijke termijn wordt beslecht, wordt het op verzoek van een der Verdragsluitende Partijen ter beslechting voorgelegd aan een scheidsgerecht.   
-(3).  Het scheidsgerecht wordt ad hoc samengesteld. Voor zover de Verdragsluitende Partijen niet bij wege van een vereenvoudigde procedure in gemeen overleg één enkele scheidsman benoemen ter beslechting van het geschil, wordt op de volgende wijze een uit drie leden bestaand scheidsgerecht samengesteld: elke Verdragsluitende Partij benoemt een lid en de twee leden bereiken overeenstemming over een onderdaan van een derde Staat, die door beide Partijen tot voorzitter moet worden benoemd. De leden dienen te worden benoemd binnen twee maanden, de voorzitter binnen nogmaals twee maanden, nadat een der Partijen heeft verzocht het geschil door een scheidsgerecht te laten beslechten.   
-(4).  Indien de in het derde lid genoemde termijnen niet worden aangehouden, kan elk der Verdragsluitende Partijen de President van het Internationale Gerechtshof verzoeken de vereiste benoeming te verrichten. Indien de President de nationaliteit van een der Verdragsluitende Partijen bezit of indien hij om een andere reden verhinderd is zijn ambt uit te oefenen, wordt de benoeming verricht door de Vice-President. Indien ook de Vice-President de nationaliteit van één der Verdragsluitende Partijen bezit of indien ook hij verhinderd is, wordt de benoeming verricht door het in rang daaropvolgende lid van het Gerechtshof dat niet de nationaliteit van een der Partijen bezit en niet is verhinderd.   
-(5).  Het scheidsgerecht beslist bij meerderheid van stemmen. Elke Verdragsluitende Partij draagt de kosten van haar lid, alsmede van haar vertegenwoordiging bij de scheidsrechterlijke procedure; de kosten van de voorzitter alsmede de overige kosten worden ieder voor de helft door de Partijen gedragen.   
-(6).  Het scheidsgerecht of de enkele scheidsman beslist op grond van het volkenrecht dat tussen de Verdragsluitende Partijen van toepassing is. De beslissing is bindend.   
-(7).  Het scheidsgerecht of de enkele scheidsman bepalen zelf de procedure voor zover deze niet bij dit Verdrag of door de Verdragsluitende Partijen bij de instelling van het scheidsgerecht of de benoeming van de enkele scheidsman is bepaald.   
+(1).  Geschillen tussen de Verdragsluitende Partijen over de uitlegging of de toepassing van dit Verdrag of van een ingevolge het tweede lid van artikel 2 getroffen regeling zullen zoveel mogelijk door onderhandeling worden beslecht.  
+(2).  Indien een geschil niet op deze wijze binnen een redelijke termijn wordt beslecht, wordt het op verzoek van een der Verdragsluitende Partijen ter beslechting voorgelegd aan een scheidsgerecht.  
+(3).  Het scheidsgerecht wordt ad hoc samengesteld. Voor zover de Verdragsluitende Partijen niet bij wege van een vereenvoudigde procedure in gemeen overleg één enkele scheidsman benoemen ter beslechting van het geschil, wordt op de volgende wijze een uit drie leden bestaand scheidsgerecht samengesteld: elke Verdragsluitende Partij benoemt een lid en de twee leden bereiken overeenstemming over een onderdaan van een derde Staat, die door beide Partijen tot voorzitter moet worden benoemd. De leden dienen te worden benoemd binnen twee maanden, de voorzitter binnen nogmaals twee maanden, nadat een der Partijen heeft verzocht het geschil door een scheidsgerecht te laten beslechten.  
+(4).  Indien de in het derde lid genoemde termijnen niet worden aangehouden, kan elk der Verdragsluitende Partijen de President van het Internationale Gerechtshof verzoeken de vereiste benoeming te verrichten. Indien de President de nationaliteit van een der Verdragsluitende Partijen bezit of indien hij om een andere reden verhinderd is zijn ambt uit te oefenen, wordt de benoeming verricht door de Vice-President. Indien ook de Vice-President de nationaliteit van één der Verdragsluitende Partijen bezit of indien ook hij verhinderd is, wordt de benoeming verricht door het in rang daaropvolgende lid van het Gerechtshof dat niet de nationaliteit van een der Partijen bezit en niet is verhinderd.  
+(5).  Het scheidsgerecht beslist bij meerderheid van stemmen. Elke Verdragsluitende Partij draagt de kosten van haar lid, alsmede van haar vertegenwoordiging bij de scheidsrechterlijke procedure; de kosten van de voorzitter alsmede de overige kosten worden ieder voor de helft door de Partijen gedragen.  
+(6).  Het scheidsgerecht of de enkele scheidsman beslist op grond van het volkenrecht dat tussen de Verdragsluitende Partijen van toepassing is. De beslissing is bindend.  
+(7).  Het scheidsgerecht of de enkele scheidsman bepalen zelf de procedure voor zover deze niet bij dit Verdrag of door de Verdragsluitende Partijen bij de instelling van het scheidsgerecht of de benoeming van de enkele scheidsman is bepaald.  
 
 ### Artikel  6  
 
-De artikelen 2 en 3, alsmede artikel 5 voor zover dit de beslechting van geschillen over de uitlegging of de toepassing van de artikelen 2 en 3 betreft, worden op overeenkomstige wijze toegepast ten aanzien van het gebied van het continentaal plat in de nabijheid van de kust, dat is begrensd bij het Verdrag van 1 december 1964.  
+De artikelen 2 en 3, alsmede artikel 5 voor zover dit de beslechting van geschillen over de uitlegging of de toepassing van de artikelen 2 en 3 betreft, worden op overeenkomstige wijze toegepast ten aanzien van het gebied van het continentaal plat in de nabijheid van de kust, dat is begrensd bij het Verdrag van 1 december 1964. 
 
 ### Artikel  7  
 
-Dit Verdrag geldt eveneens voor het „Land” Berlijn, tenzij de Regering van de Bondsrepubliek Duitsland binnen drie maanden na de inwerkingtreding van dit Verdrag de Regering van het Koninkrijk der Nederlanden mededeling doet van het tegendeel.  
+Dit Verdrag geldt eveneens voor het „Land” Berlijn, tenzij de Regering van de Bondsrepubliek Duitsland binnen drie maanden na de inwerkingtreding van dit Verdrag de Regering van het Koninkrijk der Nederlanden mededeling doet van het tegendeel. 
 
 ### Artikel  8  
 
-(1).  Dit Verdrag dient te worden bekrachtigd. De akten van bekrachtiging zullen te Bonn worden uitgewisseld.   
-(2).  Dit Verdrag treedt in werking een maand na de uitwisseling der akten van bekrachtiging.   
+(1).  Dit Verdrag dient te worden bekrachtigd. De akten van bekrachtiging zullen te Bonn worden uitgewisseld.  
+(2).  Dit Verdrag treedt in werking een maand na de uitwisseling der akten van bekrachtiging.  
 
-TEN BLIJKE WAARVAN de daartoe behoorlijk Gevolmachtigden dit Verdrag hebben ondertekend. GEDAAN te Kopenhagen, 28 januari 1971, in tweevoud, in de Nederlandse en de Duitse taal, zijnde beide teksten gelijkelijk gezaghebbend. Voor het Koninkrijk der Nederlanden: (w.g.) H. VAN RIJCKEVORSEL Voor de Bondsrepubliek Duitsland: (w.g.) GÜNTHER SCHOLL  
+TEN BLIJKE WAARVAN de daartoe behoorlijk Gevolmachtigden dit Verdrag hebben ondertekend. GEDAAN te Kopenhagen, 28 januari 1971, in tweevoud, in de Nederlandse en de Duitse taal, zijnde beide teksten gelijkelijk gezaghebbend.Voor het Koninkrijk der Nederlanden:(w.g.) H. VAN RIJCKEVORSELVoor de Bondsrepubliek Duitsland:(w.g.) GÜNTHER SCHOLL  
 
-### Bijlage  1  
+###Bijlage 1  
 
 ![10000052112](http://wetten.overheid.nl/Illustration/10000052112)
 
-### Bijlage  2  (bij artikel 4)  
+### Bijlage  2  (bij artikel 4) 
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|

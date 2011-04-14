@@ -9,7 +9,7 @@ De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek B
 ### Artikel  I  
 
 1.  Het doel van deze Overeenkomst is het bevorderen van de technische samenwerking en het daartoe scheppen van het juridische en administratieve kader voor technische samenwerkingsprojecten waartoe de bevoegde bestuurlijke autoriteiten van de beide Partijen ter uitvoering van deze Overeenkomst besluiten.   
-2.  Een besluit tot samenwerking zoals bedoeld in het eerste lid hierboven, de bijdragen aan een project en de wijze waarop dat project zal worden uitgevoerd, worden voor elk afzonderlijk geval neergelegd in een door de beide bevoegde bestuurlijke autoriteiten op te stellen administratief akkoord.   
+2.  Een besluit tot samenwerking zoals bedoeld in het eerste lid hierboven, de bijdragen aan een project en de wijze waarop dat project zal worden uitgevoerd, worden voor elk afzonderlijk geval neergelegd in een door de beide bevoegde bestuurlijke autoriteiten op te stellen administratief akkoord.  
 
 ### Artikel  II  
 
@@ -25,9 +25,9 @@ d) regelingen te treffen voor belastingvrije invoer van een motorvoertuig door h
 
 | --- | --- |
 |:---|:---|
-| Minder dan 12 maanden gebruikt  | 100%  |
-| Tussen 12 en 18 maanden gebruikt  | 50%  |
-| Tussen 18 en 24 maanden gebruikt  | 30%  |
+| Minder dan 12 maanden gebruikt   | 100%  |
+| Tussen 12 en 18 maanden gebruikt  |  50%  |
+| Tussen 18 en 24 maanden gebruikt  |  30%  |
 
 Indien een motorvoertuig zodanig is beschadigd dat de benodigde herstelwerkzaamheden economisch niet verantwoord zijn, worden van geval tot geval regelingen getroffen overeenkomstig de regelingen die gelden voor de invoer/aankoop van het oorspronkelijke voertuig;  
 
@@ -45,39 +45,39 @@ j) de Nederlandse personeelsleden identiteitspapieren te verschaffen teneinde he
 
 k) onverminderd de op enig tijdstip en in enig deel van Bolivia van kracht zijnde voorschriften inzake buitenlandse valuta, geen valuta- of wisselbeperkingen op te leggen op gelden die uit buitenlandse bronnen in Bolivia worden ingevoerd door de Nederlandse personeelsleden en hun gezinnen voor hun persoonlijk gebruik; rekeningen voor niet-ingezetenen die door de Nederlandse personeelsleden en hun gezinnen in Bolivia worden geopend, blijven onverkort tot hun beschikking en de saldi van deze rekeningen mogen vrij worden overgemaakt, mits op deze rekeningen alleen geld is gestort uit buitenlandse bronnen; anders is de rekening onderworpen aan de gebruikelijke voorschriften inzake wisselcontrole;  
 
-l) er voor zorg dragen dat het Nederlandse personeel, alsmede de gezinnen daarvan, worden behandeld op een wijze die niet minder gunstig is dan die waarop door een ander land of een andere internationale organisatie aan de Republiek Bolivia toegewezen personeel voor technische bijstand wordt behandeld.    
+l) er voor zorg dragen dat het Nederlandse personeel, alsmede de gezinnen daarvan, worden behandeld op een wijze die niet minder gunstig is dan die waarop door een ander land of een andere internationale organisatie aan de Republiek Bolivia toegewezen personeel voor technische bijstand wordt behandeld.   
 
 ### Artikel  III  
 
 1.  De Boliviaanse Regering stelt de Nederlandse Regering en het Nederlandse personeel dat in Bolivia werkzaam is overeenkomstig deze Overeenkomst schadeloos en vrijwaart hen tegen aansprakelijkheid, aanklachten, rechtsvorderingen, eisen, eisen tot schadevergoeding, kosten of honoraria verband houdend met dodelijk letsel toegebracht aan derden of schade toegebracht aan bezittingen van derden of met enig ander verlies voortvloeiend uit of verband houdend met enig handelen of nalaten van het Nederlandse personeel bij de uitvoering van zijn taken.   
 2.  Indien de Boliviaanse Regering overeenkomstig het eerste lid van dit artikel namens de Nederlandse Regering of het Nederlandse personeel de behandeling overneemt van enigerlei vordering, is de Boliviaanse Regering gerechtigd om gebruik te maken van en uitvoering te geven aan enig recht van verweer of enig recht een schikking aan te bieden, of enig recht op tegenvorderingen, schadeloosstellingen, bijdragen of waarborgen waarop de Nederlandse Regering of het Nederlandse personeel aanspraak zou kunnen maken.   
-3.  Indien de Regering van de Republiek Bolivia zulks verzoekt, verschaft de Regering van het Koninkrijk der Nederlanden de bevoegde autoriteiten van de Republiek Bolivia de noodzakelijke administratieve of juridische bijstand voor een bevredigende regeling van de problemen die eventueel kunnen ontstaan in verband met de toepassing van bovenstaande leden van dit artikel.   
+3.  Indien de Regering van de Republiek Bolivia zulks verzoekt, verschaft de Regering van het Koninkrijk der Nederlanden de bevoegde autoriteiten van de Republiek Bolivia de noodzakelijke administratieve of juridische bijstand voor een bevredigende regeling van de problemen die eventueel kunnen ontstaan in verband met de toepassing van bovenstaande leden van dit artikel.  
 
 ### Artikel  IV  
 
 1.  De Boliviaanse Regering heeft, na overleg met de Nederlandse Regering, het recht de terugroeping te verzoeken van die Nederlandse personeelsleden waarvan het werk of het gedrag onbevredigend is; de Nederlandse Regering heeft, na soortgelijk overleg met de Boliviaanse Regering, het recht te allen tijde Nederlandse personeelsleden terug te roepen; in geval van terugroeping doet de Nederlandse Regering al het mogelijke om te zorgen voor een passende vervanging van de teruggeroepen Nederlandse personeelsleden indien de Boliviaanse Regering zulks verzoekt.   
-2.  Alle Nederlandse personeelsleden voeren hun taken uit die moeten worden vastgesteld in onderling overleg tussen de onderscheiden bevoegde autoriteiten. Voor zover het de dagelijkse werkzaamheden van een project betreft, handelen zij in nauw overleg met de Boliviaanse autoriteiten die verantwoordelijk zijn voor de uitvoering van het project en houden zij zich aan de door die autoriteiten gegeven werkinstructies. Berichtgeving tussen het Nederlandse personeel en de bevoegde Nederlandse autoriteiten wordt geregeld in de onderscheiden administratieve akkoorden met betrekking tot de projecten.   
+2.  Alle Nederlandse personeelsleden voeren hun taken uit die moeten worden vastgesteld in onderling overleg tussen de onderscheiden bevoegde autoriteiten. Voor zover het de dagelijkse werkzaamheden van een project betreft, handelen zij in nauw overleg met de Boliviaanse autoriteiten die verantwoordelijk zijn voor de uitvoering van het project en houden zij zich aan de door die autoriteiten gegeven werkinstructies. Berichtgeving tussen het Nederlandse personeel en de bevoegde Nederlandse autoriteiten wordt geregeld in de onderscheiden administratieve akkoorden met betrekking tot de projecten.  
 
 ### Artikel  V  
 
 1.  De bepalingen van deze Overeenkomst betreffende het Nederlandse personeel zijn gelijkelijk van toepassing op personen in dienst van de Nederlandse Regering en op personen in dienst van ondernemingen waarmee de Nederlandse Regering een contract heeft afgesloten voor de uitvoering van een project ten aanzien waarvan beide bevoegde autoriteiten tot samenwerking hebben besloten.   
-2.  Het ter beschikking gestelde Nederlandse personeel kan ter vervulling van zijn taak hetzij zelf werkzaamheden uitvoeren, hetzij adviseren.   
+2.  Het ter beschikking gestelde Nederlandse personeel kan ter vervulling van zijn taak hetzij zelf werkzaamheden uitvoeren, hetzij adviseren.  
 
 ### Artikel  VI  
 
 1.  Het bepaalde in de artikelen II, III en IV, eerste lid, van deze Overeenkomst is ook van toepassing op de operationele deskundigen die ter beschikking zijn gesteld door Nederland. Deze deskundigen zijn echter verplicht de plaatselijke inkomstenbelasting te betalen over de vergoedingen die zij van de Regering van de Republiek Bolivia ontvangen.   
-2.  De deskundigen bedoeld in het eerste lid van dit artikel staan uitsluitend onder leiding van de desbetreffende Boliviaanse autoriteiten. De deskundigen moeten zich houden aan de regelingen en voorschriften die te enigerlei tijd in Bolivia van kracht zijn, mits deze regelingen en voorschriften niet in strijd zijn met enige bepaling van deze Overeenkomst of enige andere tussen beide Overeenkomstsluitende Partijen getroffen regeling die van toepassing is op de betrokken deskundigen.   
+2.  De deskundigen bedoeld in het eerste lid van dit artikel staan uitsluitend onder leiding van de desbetreffende Boliviaanse autoriteiten. De deskundigen moeten zich houden aan de regelingen en voorschriften die te enigerlei tijd in Bolivia van kracht zijn, mits deze regelingen en voorschriften niet in strijd zijn met enige bepaling van deze Overeenkomst of enige andere tussen beide Overeenkomstsluitende Partijen getroffen regeling die van toepassing is op de betrokken deskundigen.  
 
 ### Artikel  VII  
 
-De Regering van de Republiek Bolivia stelt de door de Nederlandse Regering voor het project in de vorm van een schenking verschafte uitrusting (met inbegrip van motorvoertuigen) vrij van alle in- en uitvoerrechten en andere officiële heffingen.  
+De Regering van de Republiek Bolivia stelt de door de Nederlandse Regering voor het project in de vorm van een schenking verschafte uitrusting (met inbegrip van motorvoertuigen) vrij van alle in- en uitvoerrechten en andere officiële heffingen. 
 
 ### Artikel  VIII  
 
 1.  Deze Overeenkomst treedt in werking op de datum, waarop de beide Regeringen elkaar schriftelijk ervan in kennis hebben gesteld dat aan de in hun onderscheiden landen constitutioneel vereiste procedures is voldaan.   
 2.  Deze Overeenkomst blijft van kracht voor een aanvangsperiode van twee jaar. Indien geen van beide Regeringen drie maanden voor het einde van de Overeenkomst kennis geeft van haar voornemen deze te beëindigen, zal de Overeenkomst steeds voor een nieuwe periode van een jaar worden verlengd.   
 3.  Met betrekking tot projecten aangevangen voor de datum van beëindiging van deze Overeenkomst, blijven de voorgaande artikelen van kracht tot het project is afgelopen.   
-4.  Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst slechts van toepassing op het Europese deel van het Koninkrijk.   
+4.  Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst slechts van toepassing op het Europese deel van het Koninkrijk.  
 
 GEDAAN te La Paz op 6 september 1989 in tweevoud in de Nederlandse, Spaanse en Engelse taal, zijnde alle teksten gelijkelijk rechtsgeldig. (w.g.) H. ELINK SCHUURMAN Henri Elink Schuurman (w.g.) C. ITURRALDE B. Carlos Iturralde Ballivian  
 
@@ -149,8 +149,8 @@ c) Los organismos encargados conforme a los sub-párrafos a) y b), fijarán conj
 
 d) escripción detallada del proyecto con sus objetivos generales y específicos, actividades principales y formas de acción, se encuentra en el Anexo I de la presente Nota que es considerado parte integrante del mismo.    
 
-6. Este Acuerdo entrará en vigor simultáneamente con el Convenio de Cooperación Técnica entre la República de Bolivia y el Reino de los Países Bajos firmado en La Paz, el 6 de septiembre de 1989.   En caso de que el Ministro neerlandés de la Cooperación al Desarrollo se declare conforme, esta Nota y la Nota de respuesta de Vuestra Excelencia en la que conste la conformidad del Ministro neerlandés de la Cooperación al Desarrollo, constituirán un Acuerdo. Con este motivo, hago propicia la oportunidad para reiterarle, Excelentísimo señor Embajador, las seguridades de mi más alta y distinguida consideración. (fdo.) C. ITURRALDE B. Lie. Carlos Iturralde Ballivián Ministro de Relaciones Exteriores y Culto  *Excelentísimo Señor*   *D. Henri Elink-Schuurman*   *Embajador de los Países Bajos*   *Lima-Perú*    
+6. Este Acuerdo entrará en vigor simultáneamente con el Convenio de Cooperación Técnica entre la República de Bolivia y el Reino de los Países Bajos firmado en La Paz, el 6 de septiembre de 1989.   En caso de que el Ministro neerlandés de la Cooperación al Desarrollo se declare conforme, esta Nota y la Nota de respuesta de Vuestra Excelencia en la que conste la conformidad del Ministro neerlandés de la Cooperación al Desarrollo, constituirán un Acuerdo. Con este motivo, hago propicia la oportunidad para reiterarle, Excelentísimo señor Embajador, las seguridades de mi más alta y distinguida consideración. (fdo.) C. ITURRALDE B. Lie. Carlos Iturralde Ballivián Ministro de Relaciones Exteriores y Culto  *Excelentísimo Señor *   *D. Henri Elink-Schuurman *   *Embajador de los Países Bajos *   *Lima-Perú*    
 
 ### Nr.  II  
 
-No.4411. Lima, 6 de setiembre de 1989. Excelentísimo Señor Ministro: Tengo la honra de avisar recibo de su atenta Nota SPBOI/DGEA1404 de fecha 6 de setiembre de 1989, con la cual propone a la letra lo siguiente:  (Zoals in Nr. I)  En respuesta a la mencionada Nota tengo a honra expresarle que el Ministro Neerlandés de Cooperación al Desarrollo ha manifestado su conformidad sobre todo su contenido, y por lo tanto, dicha Nota y la presente constituyen el Acuerdo definitivo para la ejecución del proyecto "Fortalecimiento del Sistema de Multiplicación y Distribución de la Semilla de Papa en Bolivia". Hago propicia la ocasión para reiterarle, Excelentísimo Señor Ministro, las seguridades de mi más alta y distinguida consideración. (fdo.) H. ELINK-SCHUURMAN Henri Elink-Schuurman Embajador de los Países Bajos.  *Excelentísimo Señor*   *Dr. Carlos Iturralde*   *Ministro de Relaciones Exteriores y Culto*   *Presente.*    
+No.4411. Lima, 6 de setiembre de 1989. Excelentísimo Señor Ministro: Tengo la honra de avisar recibo de su atenta Nota SPBOI/DGEA1404 de fecha 6 de setiembre de 1989, con la cual propone a la letra lo siguiente:  (Zoals in Nr. I)  En respuesta a la mencionada Nota tengo a honra expresarle que el Ministro Neerlandés de Cooperación al Desarrollo ha manifestado su conformidad sobre todo su contenido, y por lo tanto, dicha Nota y la presente constituyen el Acuerdo definitivo para la ejecución del proyecto "Fortalecimiento del Sistema de Multiplicación y Distribución de la Semilla de Papa en Bolivia". Hago propicia la ocasión para reiterarle, Excelentísimo Señor Ministro, las seguridades de mi más alta y distinguida consideración. (fdo.) H. ELINK-SCHUURMAN Henri Elink-Schuurman  Embajador de los Países Bajos.  *Excelentísimo Señor*   *Dr. Carlos Iturralde*   *Ministro de Relaciones Exteriores y Culto*   *Presente.*    

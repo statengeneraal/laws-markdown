@@ -14,42 +14,42 @@ a. de uitdrukking „instellingen van hoger onderwijs”: alle universiteiten, h
 
 b. de uitdrukking „academische graad”: elk diploma of elke graad, die door een instelling van hoger onderwijs als bewijs van de voltooiing van een studie wordt verleend;  
 
-c. de uitdrukking „staatsexamen”: de onder overheidstoezicht af te leggen tussentijdse en afsluitende examens met betrekking tot een studie aan een instelling van hoger onderwijs.    
+c. de uitdrukking „staatsexamen”: de onder overheidstoezicht af te leggen tussentijdse en afsluitende examens met betrekking tot een studie aan een instelling van hoger onderwijs.   
 
 ### Artikel  2  
 
 1.  Aan overeenkomstige studies, met inbegrip van de examens en tussentijdse examens, in de Bondsrepubliek Duitsland wordt op verzoek in het Koninkrijk der Nederlanden eenzelfde waarde toegekend als daaraan in de Bondsrepubliek Duitsland werd toegekend.   
-2.  Aan overeenkomstige studies, met inbegrip van de examens en tussentijdse examens, in het Koninkrijk der Nederlanden wordt op verzoek in de Bondsrepubliek Duitsland eenzelfde waarde toegekend als daaraan in het Koninkrijk der Nederlanden werd toegekend.   
+2.  Aan overeenkomstige studies, met inbegrip van de examens en tussentijdse examens, in het Koninkrijk der Nederlanden wordt op verzoek in de Bondsrepubliek Duitsland eenzelfde waarde toegekend als daaraan in het Koninkrijk der Nederlanden werd toegekend.  
 
 ### Artikel  3  
 
-Academische graden en getuigschriften, verworven door middel van „staatsexamens”, geven de houder ervan het recht ten aanzien van een voortgezette studie of een verdere studie aan instellingen van hoger onderwijs in de andere Staat, tot deze studie te worden toegelaten zonder aanvullende examens, ingeval en voor zover de houder van de academische graad respectievelijk het getuigschrift, verworven door middel van een ,,staatsexamen” in de Staat waar deze is verleend tot de voortgezette studie of verdere studie zonder aanvullend examen gerechtigd is.  
+Academische graden en getuigschriften, verworven door middel van „staatsexamens”, geven de houder ervan het recht ten aanzien van een voortgezette studie of een verdere studie aan instellingen van hoger onderwijs in de andere Staat, tot deze studie te worden toegelaten zonder aanvullende examens, ingeval en voor zover de houder van de academische graad respectievelijk het getuigschrift, verworven door middel van een ,,staatsexamen” in de Staat waar deze is verleend tot de voortgezette studie of verdere studie zonder aanvullend examen gerechtigd is. 
 
 ### Artikel  4  
 
 1.  De houder van een doctorsgraad of van een academische graad, die rechtstreeks recht geeft op toelating tot promotie, heeft het recht deze graad op de wijze te voeren als deze in de Staat, waar hij werd verleend op grond van de wettelijke voorschriften mag worden gevoerd.   
-2.  De houder van een andere academische graad heeft het recht deze op de wijze te voeren als deze in de Staat, waar hij werd verleend op grond van de wettelijke voorschriften mag worden gevoerd onder vermelding van de instelling van hoger onderwijs die die graad heeft verleend.   
+2.  De houder van een andere academische graad heeft het recht deze op de wijze te voeren als deze in de Staat, waar hij werd verleend op grond van de wettelijke voorschriften mag worden gevoerd onder vermelding van de instelling van hoger onderwijs die die graad heeft verleend.  
 
 ### Artikel  5  
 
-Bij de toelating tot „staatsexamens” gelden de in artikel 2 van deze Overeenkomst bedoelde zelfde waardering en erkenning in het kader van de desbetreffende examenvoorschriften.  
+Bij de toelating tot „staatsexamens” gelden de in artikel 2 van deze Overeenkomst bedoelde zelfde waardering en erkenning in het kader van de desbetreffende examenvoorschriften. 
 
 ### Artikel  6  
 
 1.  Voor advies inzake alle vraagstukken, die zich ten gevolge van deze Overeenkomst voordoen, wordt een permanente commissie van deskundigen ingesteld, die bestaat uit een zestal, voor de helft door elk van beide Staten te benoemen leden. De namen van de leden worden langs diplomatieke weg ter kennis van de andere Staat gebracht.   
-2.  De permanente commissie van deskundigen komt op verzoek van een van beide Staten bijeen. De plaats van samenkomst wordt telkens in onderling overleg vastgesteld.   
+2.  De permanente commissie van deskundigen komt op verzoek van een van beide Staten bijeen. De plaats van samenkomst wordt telkens in onderling overleg vastgesteld.  
 
 ### Artikel  7  
 
-Deze Overeenkomst is slechts verbindend voor het Europees grondgebied van het Koninkrijk der Nederlanden.  
+Deze Overeenkomst is slechts verbindend voor het Europees grondgebied van het Koninkrijk der Nederlanden. 
 
 ### Artikel  8  
 
-Deze Overeenkomst geldt ook voor het „Land” Berlijn, tenzij de Regering van de Bondsrepubliek Duitsland binnen drie maanden na de inwerkingtreding van deze Overeenkomst aan de Regering van het Koninkrijk der Nederlanden een verklaring aflegt waaruit het tegendeel blijkt.  
+Deze Overeenkomst geldt ook voor het „Land” Berlijn, tenzij de Regering van de Bondsrepubliek Duitsland binnen drie maanden na de inwerkingtreding van deze Overeenkomst aan de Regering van het Koninkrijk der Nederlanden een verklaring aflegt waaruit het tegendeel blijkt. 
 
 ### Artikel  9  
 
-Deze Overeenkomst treedt op de dag van ondertekening in werking.  
+Deze Overeenkomst treedt op de dag van ondertekening in werking. 
 
 GEDAAN te Bonn de 23ste maart 1983, in twee exemplaren elk in de Nederlandse en Duitse taal, zijnde beide teksten gelijkelijk authentiek.  *Voor de Regering van het Koninkrijk der Nederlanden*  (w.g.) K. W. REININK  *Voor de Regering van de Bondsrepubliek Duitsland*  (w.g.) LAUTENSCHLAGER  
 
@@ -124,13 +124,13 @@ Der Staatssekretär im Auswärtigen Amt Bonn, den 23. März 1983 Herr Botschafte
 
 1. Das Abkommen soll innerhalb der von ihm umfaßten Disziplinen die dort erwähnten Anerkennungen und Anrechnungen zum Zwecke eines weiteren beziehungsweise weiterführenden Studiums (gegebenenfalls einschließlich der Zulassung zur Promotion) gewähren.  
 
-2. Der Gegenstand des Abkommens besteht darin, die Vorbildungsvoraussetzungen für eine Zulassung zu einem Studium in den Prüfungsbegriffen der beiden Vertragsstaaten festzulegen. Das Abkommen gewährt folglich Befreiungen vom Nachweis der erwähnten Vorbildungsvoraussetzungen nur zum Zwecke eines weiteren beziehungsweise weiterführenden Studiums. Es führt nicht zur Verleihung des Diploms, des Grades oder des Zeugnisses, von deren Nachweis befreit wird. <sup> 1)  [Red: Hier had ten rechte dienen te staan: das Abkommen schließenden Staaten.]  </sup>  
+2. Der Gegenstand des Abkommens besteht darin, die Vorbildungsvoraussetzungen für eine Zulassung zu einem Studium in den Prüfungsbegriffen der beiden Vertragsstaaten<sup> 1)  [Red: Hier had ten rechte dienen te staan: das Abkommen schließenden Staaten.] </sup>festzulegen. Das Abkommen gewährt folglich Befreiungen vom Nachweis der erwähnten Vorbildungsvoraussetzungen nur zum Zwecke eines weiteren beziehungsweise weiterführenden Studiums. Es führt nicht zur Verleihung des Diploms, des Grades oder des Zeugnisses, von deren Nachweis befreit wird.  
 
 3. Das Abkommen umfaßt nicht den effectus civilis. Nach Abschluß des Abkommens werden die das Abkommen schließenden Staaten prüfen, inwieweit Fragen des effectus civilis in einer Vereinbarung geregelt werden können.  
 
 4. Im Hinblick auf die Besonderheit der Studien, die mit einer Staatsprüfung abschließen, werden gemäß Artikel 5 des Abkommens Studienzeiten nur angerechnet und Prüfungen nur anerkannt nach Maßgabe des jeweiligen innerstaatlichen Prüfungsrechts.  
 
-5. Die in beiden Vertragsstaaten für die Zulassung zu Studiengängen und Studienabschnitten geltenden allgemeinen Zulassungsvoraussetzungen und Zulassungsbeschränkungen werden durch das Abkommen nicht berührt. <sup> 1)  [Red: Hier had ten rechte dienen te staan: das Abkommen schließenden Staaten.]  </sup>  
+5. Die in beiden Vertragsstaaten<sup> 1)  [Red: Hier had ten rechte dienen te staan: das Abkommen schließenden Staaten.] </sup>für die Zulassung zu Studiengängen und Studienabschnitten geltenden allgemeinen Zulassungsvoraussetzungen und Zulassungsbeschränkungen werden durch das Abkommen nicht berührt.  
 
 6. Die Verbindlichkeit des Abkommens für die Bundesrepublik Deutschland ist aufgrund der Zuständigkeitsverteilung zwischen dem Bund, den Ländern und den Hochschulen wie folgt zu interpretieren: 
 
@@ -178,4 +178,4 @@ d) die kraft Artikel 118 des Gesetzes über den wissenschaftlichen Unterricht da
 
 - die Katholische Theologische Hochschule in Utrecht, betreffend das Doktorat und das Zeugnis eines bestandenen Doktoralexamens in der Theologie (Königlicher Beschluß vom 23. Januar 1976, Staatsblatt 33).      
 
-10. Wegen der gegenwärtigen Unterschiede zwischen den beiden das Abkommen schließenden Staaten in der rechtlichen Definition des Hochschulbereichs wird betont, daß alle weiteren Einrichtungen von dem Abkommen erfaßt werden, denen durch Gesetz Hochschulcharakter im Sinne von Artikel 1 des Abkommens zuerkannt wird.   Ich beehre mich, Ihnen vorzuschlagen, daß dieses Schreiben und Ihre bestätigende Antwort eine Vereinbarung zwischen der Regierung des Königreichs der Niederlande und der Regierung der Bundesrepublik Deutschland bilden, die ein wesentlicher Teil des Abkommens ist und die am gleichen Tag in Kraft tritt und unter den gleichen Bedingungen gilt wie das Abkommen. Genehmigen Sie, sehr geehrter Herr Staatssekretär, die Versicherung meiner ausgezeichneten Hochachtung.« Ich beehre mich, Ihnen zu bestätigen, daß die Regierung der Bundesrepublik Deutschland mit dem Inhalt Ihres Schreibens einverstanden ist. Genehmigen Sie, Herr Botschafter, die Versicherung meiner ausgezeichneten Hochachtung. (gez.) LAUTENSCHLAGER  *Seiner Exzellenz*   *Herrn Dr. Kasper Willem Reinink*   *Außerordentlicher und bevollmächtigter*   *Botschafter des Königreichs der Niederlande*   *Sträßchensweg 10*   *5300 Bonn 1*    
+10. Wegen der gegenwärtigen Unterschiede zwischen den beiden das Abkommen schließenden Staaten in der rechtlichen Definition des Hochschulbereichs wird betont, daß alle weiteren Einrichtungen von dem Abkommen erfaßt werden, denen durch Gesetz Hochschulcharakter im Sinne von Artikel 1 des Abkommens zuerkannt wird.   Ich beehre mich, Ihnen vorzuschlagen, daß dieses Schreiben und Ihre bestätigende Antwort eine Vereinbarung zwischen der Regierung des Königreichs der Niederlande und der Regierung der Bundesrepublik Deutschland bilden, die ein wesentlicher Teil des Abkommens ist und die am gleichen Tag in Kraft tritt und unter den gleichen Bedingungen gilt wie das Abkommen. Genehmigen Sie, sehr geehrter Herr Staatssekretär, die Versicherung meiner ausgezeichneten Hochachtung.« Ich beehre mich, Ihnen zu bestätigen, daß die Regierung der Bundesrepublik Deutschland mit dem Inhalt Ihres Schreibens einverstanden ist. Genehmigen Sie, Herr Botschafter, die Versicherung meiner ausgezeichneten Hochachtung.  (gez.) LAUTENSCHLAGER  *Seiner Exzellenz*   *Herrn Dr. Kasper Willem Reinink*   *Außerordentlicher und bevollmächtigter*   *Botschafter des Königreichs der Niederlande*   *Sträßchensweg 10*   *5300 Bonn 1*    

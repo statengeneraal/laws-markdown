@@ -1,12 +1,12 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika houdende een overeenkomst betreffende een garantiefonds in verband met de beslechting van bepaalde geschillen tussen de Verenigde Staten van Amerika en Iran
+##Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika houdende een overeenkomst betreffende een garantiefonds in verband met de beslechting van bepaalde geschillen tussen de Verenigde Staten van Amerika en Iran 
 
 ### Nr  I  
 
 ###EMBASSY OF THE UNITED STATES OF AMERICA
 
-No. 59 The Embassy of the United States of America at The Hague presents its compliments to the Ministry of Foreign Affairs of the Kingdom of the Netherlands and has the honour to refer to the consultations between representatives of the Governments of the United States of America and the Kingdom of the Netherlands relating to the selection of De Nederlandsche Bank at Amsterdam by the Governments of the Islamic Republic of Iran and the United States of America as a mutually agreeable central bank within the meaning of the Declaration of the Government of the Democratic and Popular Republic of Algeria of 19 January 1981. During the course of these consultations a number of rules have been drawn up relating to the foregoing matter, with the intention of incorporating them in a host State convention to be concluded with the Kingdom of the Netherlands on behalf of the Iran-United States Claims Tribunal. However, it would appear to be desirable, in anticipation of the conclusion in due course of the more comprehensive convention, to lay down the rules in question in a separate agreement. If the selection of De Nederlandsche Bank as well as the relevant rules, set out in the Annex to this Note, are acceptable to the Government of the Kingdom of the Netherlands, the Embassy proposes that this Note together with the affirmative Note of reply of the Ministry constitute an Agreement between the United States of America and the Kingdom of the Netherlands which shall enter into force on the date of the Note of reply. Attachment: Annex The Embassy of the United States of America The Hague, July 10, 1981   
+No. 59 The Embassy of the United States of America at The Hague presents its compliments to the Ministry of Foreign Affairs of the Kingdom of the Netherlands and has the honour to refer to the consultations between representatives of the Governments of the United States of America and the Kingdom of the Netherlands relating to the selection of De Nederlandsche Bank at Amsterdam by the Governments of the Islamic Republic of Iran and the United States of America as a mutually agreeable central bank within the meaning of the Declaration of the Government of the Democratic and Popular Republic of Algeria of 19 January 1981. During the course of these consultations a number of rules have been drawn up relating to the foregoing matter, with the intention of incorporating them in a host State convention to be concluded with the Kingdom of the Netherlands on behalf of the Iran-United States Claims Tribunal. However, it would appear to be desirable, in anticipation of the conclusion in due course of the more comprehensive convention, to lay down the rules in question in a separate agreement. If the selection of De Nederlandsche Bank as well as the relevant rules, set out in the Annex to this Note, are acceptable to the Government of the Kingdom of the Netherlands, the Embassy proposes that this Note together with the affirmative Note of reply of the Ministry constitute an Agreement between the United States of America and the Kingdom of the Netherlands which shall enter into force on the date of the Note of reply. Attachment: Annex The Embassy of the United States of America  The Hague, July 10, 1981   
 
 ### Annex  
 
@@ -14,26 +14,26 @@ No. 59 The Embassy of the United States of America at The Hague presents its com
 
 (1).  The Governments of the Islamic Republic of Iran and the United States of America, desiring to give effect to certain provisions of the Declaration of the Government of the Democratic and Popular Republic of Algeria of 19 January 1981, have selected, as a mutually agreeable central bank, De Nederlandsche Bank at Amsterdam, to assume the management of a bank which shall act as Depositary of the funds in the Security Account established by the foregoing Declaration.   
 (2).  The Netherlands Government concurs in the appointment of De Nederlandsche Bank for this task, subject to the provisions of the present Agreement and subject to agreement being reached among the competent authorities or central banks of the other States concerned and De Nederlandsche Bank and the Depositary on the conditions subject to which the latter shall carry out their tasks. The agreement or agreements reached by De Nederlandsche Bank and the Depositary on this matter with the authorities or central banks of the other States shall hereafter be referred to as the "Technical Agreements."   
-(3).  Having regard to the international and public nature of the foregoing tasks entrusted to De Nederlandsche Bank and the Depositary, those banks shall, in performing their functions, enjoy immunity from jurisdiction in each of the Contracting States as described below.   
+(3).  Having regard to the international and public nature of the foregoing tasks entrusted to De Nederlandsche Bank and the Depositary, those banks shall, in performing their functions, enjoy immunity from jurisdiction in each of the Contracting States as described below.  
 
 ### Article  2  
 
 (1).  The Security Account is to be opened by the Depositary on its books in the name of the Banque Centrale d'Algérie, as Escrow Agent.   
 (2).  The Security Account may consist of one or more accounts as may be provided for in the Technical Agreements.   
 (3).  The Security Account has as its sole purpose to hold funds in order to secure the payment of, and to pay, claims in accordance with awards rendered by the Tribunal pursuant to the Declaration of the Government of the Democratic and Popular Republic of Algeria Concerning the Settlement of Claims by the Government of the United States of America and the Government of the Islamic Republic of Iran, of 19 January 1981, and in accordance with the Technical Agreements.   
-(4).  The sole function of the Depositary shall be to carry out the responsibilities specified in the present Agreement and in the Technical Agreements. Funds held by the Depositary shall not be invested in the United States of America or in Iran.   
+(4).  The sole function of the Depositary shall be to carry out the responsibilities specified in the present Agreement and in the Technical Agreements. Funds held by the Depositary shall not be invested in the United States of America or in Iran.  
 
 ### Article  3  
 
-Payments from the Security Account shall be made and the Account shall be closed in accordance with rules to be set forth in the Technical Agreements.  
+Payments from the Security Account shall be made and the Account shall be closed in accordance with rules to be set forth in the Technical Agreements. 
 
 ### Article  4  
 
-The Depositary is responsible to the Banque Central d'Algérie as Escrow Agent, and to the other parties to the Technical Agreements, for the management of the Security Account, in accordance with rules to be set forth in the Technical Agreements.  
+The Depositary is responsible to the Banque Central d'Algérie as Escrow Agent, and to the other parties to the Technical Agreements, for the management of the Security Account, in accordance with rules to be set forth in the Technical Agreements. 
 
 ### Article  5  
 
-The funds held in the Security Account and the funds in turn deposited with third parties by the Depositary are immune from attachment in each of the Contracting States.  
+The funds held in the Security Account and the funds in turn deposited with third parties by the Depositary are immune from attachment in each of the Contracting States. 
 
 ### Article  6  
 
@@ -43,23 +43,23 @@ a) the presence in the Netherlands of the funds in the Security Account;
 
 b) the assistance given by De Nederlandsche Bank or the Depositary in setting up and managing the Security Account;  
 
-c) actions performed or omitted by De Nederlandsche Bank or the Depositary in carrying out the tasks entrusted to them in accordance with the present Agreement.    
+c) actions performed or omitted by De Nederlandsche Bank or the Depositary in carrying out the tasks entrusted to them in accordance with the present Agreement.   
 
 ### Article  7  
 
-Judgments by foreign courts and writs of execution, insofar as they relate to claims as defined in Article 6 against De Nederlandsche Bank or against the Depositary, shall not be enforced or otherwise implemented within the territory of the Contracting States.  
+Judgments by foreign courts and writs of execution, insofar as they relate to claims as defined in Article 6 against De Nederlandsche Bank or against the Depositary, shall not be enforced or otherwise implemented within the territory of the Contracting States. 
 
 ### Article  8  
 
-If De Nederlandsche Bank or the Depositary appears before the courts in order to assert immunity, it shall not thereby be deemed to have waived immunity.  
+If De Nederlandsche Bank or the Depositary appears before the courts in order to assert immunity, it shall not thereby be deemed to have waived immunity. 
 
-*The Ministry of Foreign Affairs*   *of the Netherlands*   *The Hague*   
+*The Ministry of Foreign Affairs*   * of the Netherlands*   * The Hague*   
 
 ### Nr.  II  
 
 ###MINISTRY OF FOREIGN AFFAIRS
 
-The Hague The Ministry of Foreign Affairs presents its compliments to the Embassy of the United States of America at The Hague and has the honour to acknowledge receipt of the Note of 10 July 1981 of the Embassy, the text of which reads as follows:  (Zoals in Nr. I)  The Ministry has the honour to confirm that the contents of the Note and its Annex are acceptable to the Government of the Kingdom of the Netherlands and that the Note together with this Note constitute an Agreement between both Governments which shall enter into force on the date of this Note. The Hague, 10 July 1981  *To the Embassy of the*   *United States of America*   *at*   *The Hague*    
+The Hague The Ministry of Foreign Affairs presents its compliments to the Embassy of the United States of America at The Hague and has the honour to acknowledge receipt of the Note of 10 July 1981 of the Embassy, the text of which reads as follows:  (Zoals in Nr. I)  The Ministry has the honour to confirm that the contents of the Note and its Annex are acceptable to the Government of the Kingdom of the Netherlands and that the Note together with this Note constitute an Agreement between both Governments which shall enter into force on the date of this Note.  The Hague, 10 July 1981  *To the Embassy of the*   *United States of America*   *at*   *The Hague*    
 
 ####Declaration of the Government of the Democratic and Popular Republic of Algeria
 
@@ -121,37 +121,37 @@ The Government of the Democratic and Popular Republic of Algeria, on the basis o
 
 ### Article  I  
 
-Iran and the United States will promote the settlement of the claims described in Article II by the parties directly concerned. Any such claims not settled within six months from the date of entry into force of this agreement shall be submitted to binding third-party arbitration in accordance with the terms of this agreement. The aforementioned six months' period may be extended once by three months at the request of either party.  
+Iran and the United States will promote the settlement of the claims described in Article II by the parties directly concerned. Any such claims not settled within six months from the date of entry into force of this agreement shall be submitted to binding third-party arbitration in accordance with the terms of this agreement. The aforementioned six months' period may be extended once by three months at the request of either party. 
 
 ### Article  II  
 
 1.  An International Arbitral Tribunal (the Iran-United States Claims Tribunal) is hereby established for the purpose of deciding claims of nationals of the United States against Iran and claims of nationals of Iran against the United States, and any counterclaim which arises out of the same contract, transaction or occurrence that constitutes the subject matter of that national's claim, if such claims and counterclaims are outstanding on the date of this agreement, whether or not filed with any court, and arise out of debts, contracts (including transactions which are the subject of letters of credit or bank guarantees), expropriations or other measures affecting property rights, excluding claims described in Paragraph 11 of the Declaration of the Government of Algeria of January 19, 1981, and claims arising out of the actions of the United States in response to the conduct described in such paragraph, and excluding claims arising under a binding contract between the parties specifically providing that any disputes thereunder shall be within the sole jurisdiction of the competent Iranian courts in response to the Majlis position.   
 2.  The Tribunal shall also have jurisdiction over official claims of the United States and Iran against each other arising out of contractual arrangements between them for the purchase and sale of goods and services.   
-3.  The Tribunal shall have jurisdiction, as specified in Paragraphs 16-17 of the Declaration of the Government of Algeria of January 19, 1981 over any dispute as to the interpretation or performance of any provision of that declaration.   
+3.  The Tribunal shall have jurisdiction, as specified in Paragraphs 16-17 of the Declaration of the Government of Algeria of January 19, 1981 over any dispute as to the interpretation or performance of any provision of that declaration.  
 
 ### Article  III  
 
 1.  The Tribunal shall consist of nine members or such larger multiple of three as Iran and the United States may agree are necessary to conduct its business expeditiously. Within ninety days after the entry into force of this agreement, each government shall appoint one-third of the members. Within thirty days after their appointment, the members so appointed shall by mutual agreement select the remaining third of the members and appoint one of the remaining third President of the tribunal. Claims may be decided by the full tribunal or by a panel of three members of the tribunal as the President shall determine. Each such panel shall be composed by the President and shall consist of one member appointed by each of the three methods set forth above.   
 2.  Members of the Tribunal shall be appointed and the Tribunal shall conduct its business in accordance with the arbitration rules of the United Nations Commission on International Trade Law (UNCITRAL) except to the extent modified by the parties or by the Tribunal to ensure that this agreement can be carried out. The UNCITRAL rules for appointing members of three-member Tribunals shall apply mutatis mutandis to the appointment of the Tribunal.   
 3.  Claims of nationals of the United States and Iran that are within the scope of this agreement shall be presented to the Tribunal either by claimants themselves, or, in the case of claims of less than $ 250,000, by the Government of such national.   
-4.  No claim may be filed with the Tribunal more than one year after the entry into force of this agreement or six months after the date the President is appointed, whichever is later. These deadlines do not apply to the procedures contemplated by Paragraphs 16 and 17 of the Declaration of the Government of Algeria of January 19, 1981.   
+4.  No claim may be filed with the Tribunal more than one year after the entry into force of this agreement or six months after the date the President is appointed, whichever is later. These deadlines do not apply to the procedures contemplated by Paragraphs 16 and 17 of the Declaration of the Government of Algeria of January 19, 1981.  
 
 ### Article  IV  
 
 1.  All decisions and awards of the Tribunal shall be final and binding.   
 2.  The President of the Tribunal shall certify as prescribed in Paragraph 7 of the Declaration of the Government of Algeria of January 19, 1981, when all arbitral awards under this agreement have been satisfied.   
-3.  Any award which the Tribunal may render against either government shall be enforceable against such government in the courts of any nation in accordance with its laws.   
+3.  Any award which the Tribunal may render against either government shall be enforceable against such government in the courts of any nation in accordance with its laws.  
 
 ### Article  V  
 
-The Tribunal shall decide all cases on the basis of respect for law, applying such choice of law rules and principles of commercial and international law as the Tribunal determines to be applicable, taking into account relevant usages of the trade, contract provisions and changed circumstances.  
+The Tribunal shall decide all cases on the basis of respect for law, applying such choice of law rules and principles of commercial and international law as the Tribunal determines to be applicable, taking into account relevant usages of the trade, contract provisions and changed circumstances. 
 
 ### Article  VI  
 
 1.  The seat of the Tribunal shall be The Hague, The Netherlands, or any other place agreed by Iran and the United States.   
 2.  Each government shall designate an agent at the seat of the Tribunal to represent it to the Tribunal and to receive notices or other communications directed to it or to its nationals, agencies, instrumentalities, or entities in connection with proceedings before the Tribunal.   
 3.  The expenses of the Tribunal shall be borne equally by the two governments.   
-4.  Any question concerning the interpretation or application of this agreement shall be decided by the Tribunal upon the request of either Iran or the United States.   
+4.  Any question concerning the interpretation or application of this agreement shall be decided by the Tribunal upon the request of either Iran or the United States.  
 
 ### Article  VII  
 
@@ -163,11 +163,11 @@ For the purposes of this agreement:
 
 3. "Iran" means the Government of Iran, any political subdivision of Iran, and any agency, instrumentality, or entity controlled by the Government of Iran or any political subdivision thereof.  
 
-4. The "United States" means the Government of the United States, any political subdivision of the United States, any agency, instrumentality or entity controlled by the Government of the United States or any political subdivision thereof.    
+4. The "United States" means the Government of the United States, any political subdivision of the United States, any agency, instrumentality or entity controlled by the Government of the United States or any political subdivision thereof.   
 
 ### Article  VIII  
 
-This agreement shall enter into force when the Government of Algeria has received from both Iran and the United States a notification of adherence to the agreement.  
+This agreement shall enter into force when the Government of Algeria has received from both Iran and the United States a notification of adherence to the agreement. 
 
 ### Nr.  I  
 
@@ -181,26 +181,26 @@ Nr. 59 De Ambassade van de Verenigde Staten van Amerika te 's-Gravenhage biedt h
 
 1).  De Regeringen van de Islamitische Republiek Iran en de Verenigde Staten van Amerika, geleid door de wens een aantal bepalingen van de Verklaring van de Regering van de Democratische Volksrepubliek Algerije van 19 januari 1981 uit te voeren, hebben De Nederlandsche Bank te Amsterdam als een voor beide partijen aanvaardbare centrale bankinstelling uitgekozen om het beheer op zich te nemen van een bank die zal optreden als Depositaris van de gelden, gestort op het Garantiefonds dat bij bovengenoemde Verklaring is ingesteld.   
 2).  De Nederlandse Regering stemt in met de aanwijzing van De Nederlandsche Bank voor deze taak, waarvan de uitvoering afhankelijk is van de bepalingen van deze overeenkomst en van de nog te bereiken overeenstemming tussen de bevoegde autoriteiten of de centrale banken van de andere betrokken Staten en De Nederlandsche Bank en de Depositaris inzake de voorwaarden waarop laatstgenoemden hun taak zullen uitvoeren. De overeenkomst of overeenkomsten die door De Nederlandsche Bank en de Depositaris inzake deze kwestie met de autoriteiten of de centrale banken van de andere Staten is of zijn gesloten, worden hierna „technische overeenkomsten” genoemd.   
-3).  Gelet op het internationale en openbare karakter van de bovenvermelde, aan De Nederlandsche Bank en de Depositaris toevertrouwde taken, genieten deze banken bij de uitoefening van hun functies immuniteit van rechtsmacht in elk van de Overeenkomstsluitende Staten, zoals hierna is omschreven.   
+3).  Gelet op het internationale en openbare karakter van de bovenvermelde, aan De Nederlandsche Bank en de Depositaris toevertrouwde taken, genieten deze banken bij de uitoefening van hun functies immuniteit van rechtsmacht in elk van de Overeenkomstsluitende Staten, zoals hierna is omschreven.  
 
 ### Artikel  2  
 
 1).  Het Garantiefonds wordt door de Depositaris in zijn boeken ten name van de Banque Centrale d'Algérie als Gevolmachtigde (Escrow Agent) geopend.   
 2).  In de technische overeenkomsten kan worden bepaald dat het Garantiefonds uit één of uit meer rekeningen kan bestaan.   
 3).  Het Garantiefonds is uitsluitend bestemd voor de bewaring van gelden om de betaling van vorderingen te garanderen en deze betalingen te verrichten overeenkomstig de door het Scheidsgerecht gedane scheidsrechterlijke uitspraken ingevolge de Verklaring van de Regering van de Democratische Volksrepubliek Algerije betreffende het regelen van vorderingen door de Regering van de Verenigde Staten van Amerika en de Regering van de Islamitische Republiek Iran van 19 januari 1981, alsmede overeenkomstig de technische overeenkomsten.   
-4).  De functie van de Depositaris omvat uitsluitend de uitvoering van de in de onderhavige Overeenkomst en in de technische overeenkomsten omschreven taken. Gelden die door de Depositaris in bewaring worden gehouden, worden noch in de Verenigde Staten van Amerika noch in Iran belegd.   
+4).  De functie van de Depositaris omvat uitsluitend de uitvoering van de in de onderhavige Overeenkomst en in de technische overeenkomsten omschreven taken. Gelden die door de Depositaris in bewaring worden gehouden, worden noch in de Verenigde Staten van Amerika noch in Iran belegd.  
 
 ### Artikel  3  
 
-Betalingen ten laste van het Garantiefonds worden gedaan en de rekening wordt gesloten overeenkomstig de in de technische overeenkomsten neergelegde voorschriften.  
+Betalingen ten laste van het Garantiefonds worden gedaan en de rekening wordt gesloten overeenkomstig de in de technische overeenkomsten neergelegde voorschriften. 
 
 ### Artikel  4  
 
-De Depositaris is aan de Banque Centrale d'Algérie als Gevolmachtigde (Escrow Agent) en aan de andere partijen bij de technische overeenkomsten verantwoording verschuldigd voor het beheer van het Garantiefonds overeenkomstig de in de technische overeenkomsten neergelegde regels.  
+De Depositaris is aan de Banque Centrale d'Algérie als Gevolmachtigde (Escrow Agent) en aan de andere partijen bij de technische overeenkomsten verantwoording verschuldigd voor het beheer van het Garantiefonds overeenkomstig de in de technische overeenkomsten neergelegde regels. 
 
 ### Artikel  5  
 
-De gelden die in het Garantiefonds zijn gestort en de gelden die vervolgens door de Depositaris bij derden zijn gedeponeerd, zijn in geen enkele Overeenkomstsluitende Staat vatbaar voor beslaglegging.  
+De gelden die in het Garantiefonds zijn gestort en de gelden die vervolgens door de Depositaris bij derden zijn gedeponeerd, zijn in geen enkele Overeenkomstsluitende Staat vatbaar voor beslaglegging. 
 
 ### Artikel  6  
 
@@ -210,20 +210,20 @@ a) de aanwezigheid van de gelden van het Garantiefonds in Nederland;
 
 b) de door De Nederlandsche Bank of door de Depositaris verleende medewerking bij het openen en het beheer van het Garantiefonds;  
 
-c) door De Nederlandsche Bank of door de Depositaris verrichte of nagelaten handelingen bij de uitvoering van de hun overeenkomstig de onderhavige overeenkomst toevertrouwde taken.    
+c) door De Nederlandsche Bank of door de Depositaris verrichte of nagelaten handelingen bij de uitvoering van de hun overeenkomstig de onderhavige overeenkomst toevertrouwde taken.   
 
 ### Artikel  7  
 
-Rechterlijke uitspraken door buitenlandse rechters en deurwaardersexploten worden, voor zover zij betrekking hebben op vorderingen, ingesteld tegen De Nederlandsche Bank of tegen de Depositaris, zoals deze zijn omschreven in Artikel 6, niet geëxecuteerd of anderszins ten uitvoer gelegd binnen het grondgebied van de Overeenkomstsluitende Staten.  
+Rechterlijke uitspraken door buitenlandse rechters en deurwaardersexploten worden, voor zover zij betrekking hebben op vorderingen, ingesteld tegen De Nederlandsche Bank of tegen de Depositaris, zoals deze zijn omschreven in Artikel 6, niet geëxecuteerd of anderszins ten uitvoer gelegd binnen het grondgebied van de Overeenkomstsluitende Staten. 
 
 ### Artikel  8  
 
-Indien De Nederlandsche Bank of de Depositaris in rechte optreedt ter vaststelling van haar of zijn immuniteit, wordt zij of hij aldus doende niet geacht afstand van haar of zijn immuniteit te hebben gedaan.  
+Indien De Nederlandsche Bank of de Depositaris in rechte optreedt ter vaststelling van haar of zijn immuniteit, wordt zij of hij aldus doende niet geacht afstand van haar of zijn immuniteit te hebben gedaan. 
 
-*Aan het Ministerie van Buitenlandse*   *Zaken van het Koninkrijk der Nederlanden*   *te*   *'s-Gravenhage*   
+*Aan het Ministerie van Buitenlandse*  *Zaken van het Koninkrijk der Nederlanden*  * te*  * 's-Gravenhage* 
 
 ### Nr.  II  
 
-###MINISTERIE VAN BUITENLANDSE ZAKEN
+###MINISTERIE VAN BUITENLANDSE ZAKEN 
 
 s-GRAVENHAGE DVE/VV-189300 Het Ministerie van Buitenlandse Zaken biedt de Ambassade van de Verenigde Staten van Amerika te 's-Gravenhage zijn complimenten aan en heeft de eer de ontvangst te bevestigen van de nota van de Ambassade van 10 juli 1981, waarvan de inhoud luidt als volgt:  (Zoals in Nr. 1)  Het Ministerie heeft de eer te bevestigen dat de Regering van het Koninkrijk der Nederlanden zich met de inhoud van de nota en haar bijlage kan verenigen en dat de nota van de Ambassade en de onderhavige nota een overeenkomst tussen beide Regeringen zullen vormen, welke heden in werking treedt. 's-Gravenhage, 10 juli 1981.  *Aan de Ambassade van de*   *Verenigde Staten van Amerika*   *te*   *'s-Gravenhage*    

@@ -4,31 +4,31 @@
 
 ####Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname met betrekking tot de overdracht aan de Republiek Suriname van roerende en onroerende goederen van de troepenmacht in Suriname
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Suriname, Verlangende een regeling te treffen met betrekking tot de overdracht van roerende en onroerende goederen welke tot het tijdstip van het onafhankelijk worden van Suriname in gebruik waren bij de troepenmacht in Suriname,   zijn overeengekomen als volgt:    
+De Regering van het Koninkrijk der Nederlandenende Regering van de Republiek Suriname,Verlangende een regeling te treffen met betrekking tot de overdracht van roerende en onroerende goederen welke tot het tijdstip van het onafhankelijk worden van Suriname in gebruik waren bij de troepenmacht in Suriname,zijn overeengekomen als volgt:
 
 ### Artikel  1  
 
-Het Koninkrijk der Nederlanden draagt om niet aan de Republiek Suriname in eigendom over alle niet uitdrukkelijk in de aan deze Overeenkomst gehechte bijlage uitgezonderde roerende goederen, behorende tot de uitrusting en de bewapening van de troepenmacht in Suriname (hierna te noemen TRIS).  
+Het Koninkrijk der Nederlanden draagt om niet aan de Republiek Suriname in eigendom over alle niet uitdrukkelijk in de aan deze Overeenkomst gehechte bijlage uitgezonderde roerende goederen, behorende tot de uitrusting en de bewapening van de troepenmacht in Suriname (hierna te noemen TRIS).
 
 ### Artikel  2  
 
-Het Koninkrijk der Nederlanden draagt om niet aan de Republiek Suriname over alle rechten, welke het Koninkrijk ten aanzien van de onroerende goederen, in gebruik bij de TRIS, kan doen gelden.  
+Het Koninkrijk der Nederlanden draagt om niet aan de Republiek Suriname over alle rechten, welke het Koninkrijk ten aanzien van de onroerende goederen, in gebruik bij de TRIS, kan doen gelden.
 
 ### Artikel  3  
 
-De Republiek Suriname verleent het recht van onbelemmerde uitvoer zonder heffing van uitvoerrechten van het militair materieel, dat op grond van het bepaalde in artikel 1 niet aan de Republiek Suriname is overgedragen.  
+De Republiek Suriname verleent het recht van onbelemmerde uitvoer zonder heffing van uitvoerrechten van het militair materieel, dat op grond van het bepaalde in artikel 1 niet aan de Republiek Suriname is overgedragen.
 
 ### Artikel  4  
 
-De onderhavige Overeenkomst treedt in werking nadat de Overeenkomstsluitende Partijen elkaar hebben medegedeeld dat in hun landen aan de terzake geldende constitutionele vereisten is voldaan en werkt terug tot de datum van onafhankelijkwording van Suriname.  
+De onderhavige Overeenkomst treedt in werking nadat de Overeenkomstsluitende Partijen elkaar hebben medegedeeld dat in hun landen aan de terzake geldende constitutionele vereisten is voldaan en werkt terug tot de datum van onafhankelijkwording van Suriname.
 
-TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden, daartoe behoorlijk gemachtigd door hun onderscheiden Regeringen, deze Overeenkomst hebben ondertekend. GEDAAN te Paramaribo op 25 november 1975 in tweevoud, in de Nederlandse taal. Voor de Regering van het Koninkrijk der Nederlanden, (w.g.) J. M. DEN UYL Voor de Regering van de Republiek Suriname, (w.g.) H. A. E. ARRON  
+TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden, daartoe behoorlijk gemachtigd door hun onderscheiden Regeringen, deze Overeenkomst hebben ondertekend.GEDAAN te Paramaribo op 25 november 1975 in tweevoud, in de Nederlandse taal.Voor de Regering van het Koninkrijk der Nederlanden,(w.g.) J. M. DEN UYLVoor de Regering van de Republiek Suriname, (w.g.) H. A. E. ARRON
 
 ### Bijlage  
 
 De hieronder genoemde roerende goederen, behorende tot de uitrusting en bewapening van de TRIS worden van overdracht aan de Republiek Suriname uitgezonderd. 
 
-1. Het onder MAP -voorwaarden door Nederland van de V.S. verkregen TRIS-materiaal bestaande uit: <sup> 1)  Mutual Assistance Program  </sup> 
+1. Het onder MAP <sup>1) Mutual Assistance Program </sup>-voorwaarden door Nederland van de V.S. verkregen TRIS-materiaal bestaande uit: 
 
 a) 17 terugstootloze vuurmonden (TLV) 57 mm met de wapennummers 9516, 10206, 10434, 13439, 9401, 9860, 10416, 10511, 5010, 5602, 9025, 10371, 9381, 9656, 9676, 10323 en 10089;  
 
@@ -54,4 +54,4 @@ d) Munitie: 1000 CTG 9 mm ball.
 
 e) serviesgoederen: 15 lepels thee tvs eilepel, 15 schotel drinkkop wit, 2 dienbladen hout 60 x 45 cm, 15 drinkglazen water/ melk, 15 drinkglazen bier/whisky, 15 drinkglazen bitter, 15 drinkglazen port/sherry, 15 drinkglazen wijn groot v/Off, 15 drinkglazen wijn klein v/Off, 15 drinkkoppen wit, 1 koffiepot rvs, 1 theepot rvs, 1 suikerpot rvs, 1 kan melk rvs en 3 asbakjes wit.    
 
-4. De roerende goederen, die niet benodigd zijn voor de organieke uitrusting van de SKM, doch die voor Nederland een bijzondere betekenis hebben, zoals: het vaandel van de TRIS, de portretten van de Koninklijke familie, de door de TRIS als zodanig ten geschenke gekregen voorwerpen, de van de Nederlandse musea in bruikleen gekregen voorwerpen enz.     
+4. De roerende goederen, die niet benodigd zijn voor de organieke uitrusting van de SKM, doch die voor Nederland een bijzondere betekenis hebben, zoals: het vaandel van de TRIS, de portretten van de Koninklijke familie, de door de TRIS als zodanig ten geschenke gekregen voorwerpen, de van de Nederlandse musea in bruikleen gekregen voorwerpen enz.   

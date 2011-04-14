@@ -14,7 +14,7 @@ Das Auswärtige Amt beerht sich, der Königlich Niederländischen Botschaft unte
 
 ### I  
 
-An den Grenzübergängen Wyler-Beek und Wyler-Berg en Dal werden die deutsche und die niederländische Grenzabfertigung auf deutschem und niederländischem Gebiet zusammengelegt.  
+An den Grenzübergängen Wyler-Beek und Wyler-Berg en Dal werden die deutsche und die niederländische Grenzabfertigung auf deutschem und niederländischem Gebiet zusammengelegt. 
 
 ### II  
 
@@ -34,20 +34,20 @@ b) von 50 Metern, gemessen in Richtung Groesbeek,
 
 c) von 50 Metern, gemessen in Richtung Wyler, und  
 
-d) von 50 Metern, gemessen in Richtung Beek,   jeweils vom Schnittpunkt der gemeinsamen Grenze mit der Achse der Strasse von Wyler nach Berg en Dal.    
+d) von 50 Metern, gemessen in Richtung Beek,   jeweils vom Schnittpunkt der gemeinsamen Grenze mit der Achse der Strasse von Wyler nach Berg en Dal.   
 
 ### III  
 
-Diese Vereibarung wird gemäss Artikel 1 Absatz 5 des Abkommens bestätigt und in Kraft gesetzt. Der Zeitpunkt des Inkrafttretens wird in den diplomatischen Noten festgelegt.  
+Diese Vereibarung wird gemäss Artikel 1 Absatz 5 des Abkommens bestätigt und in Kraft gesetzt. Der Zeitpunkt des Inkrafttretens wird in den diplomatischen Noten festgelegt. 
 
 ### IV  
 
-Diese Vereinbarung kann jederzeit auf diplomatischem Wege gekündigt werden. Sie tritt sechs Monate nach ihrer Kündigung ausser Kraft.  
+Diese Vereinbarung kann jederzeit auf diplomatischem Wege gekündigt werden. Sie tritt sechs Monate nach ihrer Kündigung ausser Kraft. 
 
 ### V  
 
-Mit dem Inkrafttreten dieser Vereinbarung treten die Nummern 9 und 10 der Abschnitte I. und II. der Vereinbarung vom 18./25. Juni 1963 über die Zusammenlegung der Grenzabfertigung im Strassenverkehr nach Inkrafttreten des Ausgleichsvertrages vom 8. April 1960 ausser Kraft.  
-Die Regierung der Bundesrepublik Deutschland geht davon aus, dass die vorstehende Vereinbarung gemäss Artikel 1 Absatz 5 des Abkommens vom 30. Mai 1958 durch diese Verbalnote und die Antwortnote der Königlich Niederländischen Botschaft bestätigt wird und dass die Vereinbarung am 25. August 1972 in Kraft tritt. Das Auswärtige Amt benutzt diesen Anlass, die Königlich Niederländische Botschaft erneut seiner ausgezeichneten Hochachtung zu versichern. Bonn, den 25. August 1972.  *An die*   *Königlich Niederländische*   *Botschaft*    
+Mit dem Inkrafttreten dieser Vereinbarung treten die Nummern 9 und 10 der Abschnitte I. und II. der Vereinbarung vom 18./25. Juni 1963 über die Zusammenlegung der Grenzabfertigung im Strassenverkehr nach Inkrafttreten des Ausgleichsvertrages vom 8. April 1960 ausser Kraft. 
+Die Regierung der Bundesrepublik Deutschland geht davon aus, dass die vorstehende Vereinbarung gemäss Artikel 1 Absatz 5 des Abkommens vom 30. Mai 1958 durch diese Verbalnote und die Antwortnote der Königlich Niederländischen Botschaft bestätigt wird und dass die Vereinbarung am 25. August 1972 in Kraft tritt. Das Auswärtige Amt benutzt diesen Anlass, die Königlich Niederländische Botschaft erneut seiner ausgezeichneten Hochachtung zu versichern. Bonn, den 25. August 1972.  *An die*   * Königlich Niederländische*   * Botschaft*    
 
 ### Nr.  LVIII  
 
@@ -58,7 +58,7 @@ De Ambassade van het Koninkrijk der Nederlanden heeft de eer aan het Ministerie 
 
 ### I  
 
-Bij de grensovergangen Wyler-Beek en Wyler-Berg en Dal worden de Duitse en de Nederlandse grenscontrole samengevoegd.  
+Bij de grensovergangen Wyler-Beek en Wyler-Berg en Dal worden de Duitse en de Nederlandse grenscontrole samengevoegd. 
 
 ### II  
 
@@ -78,17 +78,17 @@ b. 50 meter, gemeten in de richting Groesbeek,
 
 c. 50 meter, gemeten in de richting Wyler en  
 
-d. 50 meter, gemeten in de richting Beek   telkens vanaf het snijpunt der gemeenschappelijke grens met de middellijn van de weg van Wyler naar Berg en Dal.    
+d. 50 meter, gemeten in de richting Beek   telkens vanaf het snijpunt der gemeenschappelijke grens met de middellijn van de weg van Wyler naar Berg en Dal.   
 
 ### III  
 
-Deze regeling wordt overeenkomstig artikel 1, lid 5, van de Overeenkomst bevestigd en in werking gesteld. Het tijdstip van het in werking treden wordt in de diplomatieke nota's vastgelegd.  
+Deze regeling wordt overeenkomstig artikel 1, lid 5, van de Overeenkomst bevestigd en in werking gesteld. Het tijdstip van het in werking treden wordt in de diplomatieke nota's vastgelegd. 
 
 ### IV  
 
-Deze regeling kan te allen tijde langs diplomatieke weg worden opgezegd. Zij treedt zes maanden na opzegging buiten werking.  
+Deze regeling kan te allen tijde langs diplomatieke weg worden opgezegd. Zij treedt zes maanden na opzegging buiten werking. 
 
 ### V  
 
-Met het van kracht worden van deze overeenkomst treden de nummers 9 en 10 van de hoofdstukken I en II van de Overeenkomst van 18/25 juni 1963 inzake de samenvoeging van de grenscontrole in het wegverkeer na de inwerkingtreding van het Algemeen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot regeling van met de grens verband houdende vraagstukken en andere tussen beide landen bestaande problemen, van 8 april 1960 buiten werking.  
+Met het van kracht worden van deze overeenkomst treden de nummers 9 en 10 van de hoofdstukken I en II van de Overeenkomst van 18/25 juni 1963 inzake de samenvoeging van de grenscontrole in het wegverkeer na de inwerkingtreding van het Algemeen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot regeling van met de grens verband houdende vraagstukken en andere tussen beide landen bestaande problemen, van 8 april 1960 buiten werking. 
 De Regering van de Bondsrepubliek Duitsland gaat ervan uit dat bovenstaande regeling overeenkomstig artikel 1, lid 5, van de Overeenkomst van 30 mei 1958 wordt bevestigd door deze nota-verbaal en de antwoord-nota van de Ambassade van het Koninkrijk der Nederlanden en dat deze regeling op 25 augustus 1972 in werking treedt.” De Ambassade heeft de eer het Ministerie van Buitenlandse Zaken mede te delen, dat de Regering van het Koninkrijk der Nederlanden ermede instemt dat de nota-verbaal van het Ministerie en deze antwoord-nota de in artikel 1, lid 5, van de Overeenkomst bedoelde bevestiging vormen van de hierboven aangehaalde briefwisseling tussen de Bondsminister van Economische Zaken en Financiën en de Nederlandse Staatssecretaris van Financiën en dat de regeling op 25 augustus 1972 in werking treedt. De Ambassade van het Koninkrijk der Nederlanden maakt van deze gelegenheid gebruik het Ministerie van Buitenlandse Zaken Van de Bondsrepubliek Duitsland haar bijzondere hoogachting te betuigen. Bonn, 25 augustus 1972.  *An das Auswärtige Amt*   *Bonn*    

@@ -24,7 +24,7 @@ Ministerio de Relaciones Exteriores GM-01463 Caracas, 10 set. 1985 Señor Encarg
 
 ###AMBASSADE VAN HET KONINKRIJK
 
-###DER NEDERLANDEN
+### DER NEDERLANDEN
 
 No 3218 Caracas, 10 september 1985 Excellentie, Ik heb de eer de ontvangst te bevestigen van Uw brief van 10 september 1985, nummer GM-01463, welke in de Nederlandse taal als volgt luidt: „Ten einde de tussen Venezuela en het Koninkrijk der Nederlanden bestaande hartelijke betrekkingen nog verder te verstevigen en de uitwisseling van ervaringen tussen Venezolaanse radiozendamateurs en Nederlandse en Nederlands-Antilliaanse radiozendamateurs mogelijk te maken, heb ik de eer U voor te stellen dat tussen de Republiek Venezuela en het Koninkrijk der Nederlanden een overeenkomst wordt gesloten krachtens welke, op basis van wederkerigheid, vergunningen aan radiozendamateurs worden verleend om tijdelijk hun radiozendinstallaties op de navolgende voorwaarden in het andere land te gebruiken: 
 
