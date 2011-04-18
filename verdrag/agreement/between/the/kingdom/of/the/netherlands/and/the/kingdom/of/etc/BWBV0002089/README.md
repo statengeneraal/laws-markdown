@@ -4,7 +4,7 @@
 
 ####Agreement between the Kingdom of the Netherlands and the Kingdom of Denmark on the reciprocal holding of stocks of crude oil and/or petroleum products
 
-The Kingdom of the Netherlands and the Kingdom of Denmark (hereinafter together referred to as ‘‘the Contracting Parties’’): Having regard to Council Directive 68/414/EEC of 20 December 1968 imposing obligations on Member States of the European Economic Community to maintain minimum stocks of crude oil and/or petroleum products, as amended by Council Directive 98/93/EC of 14 December 1998 (hereinafter together referred to as ‘‘the Directive’’); Having regard to Article 6, paragraph 2, of the Directive which envisages the establishment of stocks within the territory of a Member State for the account of undertakings, established in another Member State, under agreements between Governments; Having regard to national legislation regarding oil stockholding obligations; Have agreed as follows:    
+The Kingdom of the Netherlands and the Kingdom of Denmark (hereinafter together referred to as ‘‘the Contracting Parties’’): Having regard to Council Directive 68/414/EEC of 20 December 1968 imposing obligations on Member States of the European Economic Community to maintain minimum stocks of crude oil and/or petroleum products, as amended by Council Directive 98/93/EC of 14 December 1998 (hereinafter together referred to as ‘‘the Directive’’); Having regard to Article 6, paragraph 2, of the Directive which envisages the establishment of stocks within the territory of a Member State for the account of undertakings, established in another Member State, under agreements between Governments; Having regard to national legislation regarding oil stockholding obligations; Have agreed as follows:     
 
 ### Article  1  
 
@@ -20,11 +20,11 @@ d) ‘‘supply crisis’’ in this agreement shall have the same meaning as in
 
 e) ‘‘territory’’ means the area within the European Union over which each Contracting Party exercises jurisdiction and in respect of the Kingdom of Denmark the Faroe Islands and Greenland are not included;  
 
-f) ‘‘undertaking’’ means any undertaking, body or entity, established in the territory of one Contracting Party which holds stocks for the purpose of facilitating compliance, whether by that undertaking or a third party, with the law relating to oil stockholding obligations of that or the other Contracting Party.    
+f) ‘‘undertaking’’ means any undertaking, body or entity, established in the territory of one Contracting Party which holds stocks for the purpose of facilitating compliance, whether by that undertaking or a third party, with the law relating to oil stockholding obligations of that or the other Contracting Party.   
 
 ### Article  2  
 
-This Agreement applies to stocks covered by the Directive which have been accepted by the competent authorities of both Contracting Parties as being stocks to which this Agreement applies.  
+This Agreement applies to stocks covered by the Directive which have been accepted by the competent authorities of both Contracting Parties as being stocks to which this Agreement applies. 
 
 ### Article  3  
 
@@ -38,12 +38,12 @@ b) by an undertaking established in Denmark, on behalf of the undertaking establ
 a) directly by the undertaking established in Denmark; or  
 
 b) by an undertaking established in the Netherlands, on behalf of the undertaking established in Denmark.     
-3.  For stocks to be eligible for acceptance under Article 2 of this Agreement, the undertaking seeking acceptance of those stocks under that Article must have agreed to hold them itself or through the other undertaking, from the first day of any calendar quarter for one or more full calendar quarters, after acceptance by the competent authorities.   
-4.  If an undertaking holds stocks on behalf of another undertaking in accordance with paragraphs 1b or 2b of this Article, then those stocks shall not be taken into account in the State where they are held, but shall be taken into account by the Contracting Party where the undertaking entitled to claim the stock is established.   
+3.  For stocks to be eligible for acceptance under Article 2 of this Agreement, the undertaking seeking acceptance of those stocks under that Article must have agreed to hold them itself or through the other undertaking, from the first day of any calendar quarter for one or more full calendar quarters, after acceptance by the competent authorities.    
+4.  If an undertaking holds stocks on behalf of another undertaking in accordance with paragraphs 1b or 2b of this Article, then those stocks shall not be taken into account in the State where they are held, but shall be taken into account by the Contracting Party where the undertaking entitled to claim the stock is established.  
 
 ### Article  4  
 
-Neither Contracting Party shall oppose the removal of stocks to which this Agreement applies from its territory in accordance with directions issued by the competent authority of the other Contracting Party.  
+Neither Contracting Party shall oppose the removal of stocks to which this Agreement applies from its territory in accordance with directions issued by the competent authority of the other Contracting Party. 
 
 ### Article  5  
 
@@ -59,10 +59,10 @@ c) the period for which the stocks are to be held;
 d) the location, if known, of the depot(s) where the stocks are to be held.     
 3.  Where the application is approved by the competent authority of the Contracting Party under whose legislation the stockholding obligation arises (‘‘the first competent authority’’), the latter shall forward to the competent authority of the other Contracting Party (‘‘the second competent authority’’) the information listed in paragraph 2 of this Article no later than 10 (ten) working days before the start of the period for which authorisation was sought and notify it of such approval.   
 4.  The second competent authority shall use all reasonable endeavours to notify the first competent authority whether or not it approves the application no later than 5 (five) working days before the start of the period for which authorisation was sought. In the event that no such notification is received by the first competent authority before the date of commencement of such period, the second competent authority shall be deemed not to have approved the application in question.   
-5.  Notwithstanding the time limits indicated in Article 5 paragraphs 2, 3 and 4, the competent authorities may, if necessary, agree to amend any or all of those time limits.   
+5.  Notwithstanding the time limits indicated in Article 5 paragraphs 2, 3 and 4, the competent authorities may, if necessary, agree to amend any or all of those time limits.    
 6.  If there is any significant change in the matters regarding which information was supplied in accordance with paragraph 2 of this Article, a further application must be submitted by the applicant.   
 7.  Any acceptance of an application may be withdrawn by either competent authority if any significant inaccuracy is found in the particulars furnished in respect of that acceptance under paragraph 2 of this Article. Before withdrawing an acceptance under this provision the competent authority concerned shall inform the competent authority of the other Contracting Party and afford the undertaking with the stockholding obligation, which had furnished the particulars a reasonable opportunity to make representations.   
-8.  Both undertakings involved consent to disclose to the competent authorities any information obtained for the purpose of implementing this Agreement.   
+8.  Both undertakings involved consent to disclose to the competent authorities any information obtained for the purpose of implementing this Agreement.  
 
 ### Article  6  
 
@@ -75,11 +75,11 @@ b) the stocks are to be held by virtue of an agreement in writing between the pe
 c) the undertaking has the contractual right to acquire the stocks throughout the period of the contract and the methodology for establishing the price of such acquisition is specified in the contract: and  
 
 d) the actual availability of the stocks for the undertaking is guaranteed throughout the period of the contract.     
-2.  Both undertakings consent to disclose to the competent authorities any information obtained for the purpose of implementing this Agreement   
+2.  Both undertakings consent to disclose to the competent authorities any information obtained for the purpose of implementing this Agreement  
 
 ### Article  7  
 
-1.  Each competent authority shall require any undertaking holding stocks in the territory of the other Contracting Party to furnish it with a statistical return, at least monthly, of those stocks within six weeks of the expiry of the period to which the return relates.   
+1.  Each competent authority shall require any undertaking holding stocks in the territory of the other Contracting Party to furnish it with a statistical return, at least monthly, of those stocks within six weeks of the expiry of the period to which the return relates.    
 2.  Each statistical return to be furnished under paragraph 1 of this Article shall include particulars of: 
 
 a) the name and address of the undertaking holding the stocks in the territory of the other Contracting Party and, where applicable, the name and address of the undertaking established in the territory of the Contracting Party where the stocks are to be held, which is to hold the stocks on its behalf;  
@@ -87,7 +87,7 @@ a) the name and address of the undertaking holding the stocks in the territory o
 b) the category and quantity of the stocks; and  
 
 c) location, if known, of the depot(s) where the stocks are held.     
-3.  Each competent authority shall from time to time and, in particular, whenever so requested by the competent authority of the other Contracting Party, undertake any inspections, checks or other verification measures which it considers appropriate in respect of stocks accepted as being stocks to which this Agreement applies and shall notify the competent authority of the other Contracting Party immediately of any material discrepancy or irregularity which those measures reveal.   
+3.  Each competent authority shall from time to time and, in particular, whenever so requested by the competent authority of the other Contracting Party, undertake any inspections, checks or other verification measures which it considers appropriate in respect of stocks accepted as being stocks to which this Agreement applies and shall notify the competent authority of the other Contracting Party immediately of any material discrepancy or irregularity which those measures reveal.  
 
 ### Article  8  
 
@@ -96,27 +96,27 @@ c) location, if known, of the depot(s) where the stocks are held.
 
 (i) resolve any difficulty arising in the interpretation or application of this Agreement; or  
 
-(ii) amend any of the terms of the Agreement, in which case the consultations must in any event begin no later than sixty days after the request has been received.     
+(ii) amend any of the terms of the Agreement, in which case the consultations must in any event begin no later than sixty days after the request has been received.    
 
 ### Article  9  
 
-This Agreement may be amended by written agreement between the Contracting Parties. The Contracting Parties shall notify each other through the diplomatic channel when their constitutional requirements for the entry into force of the amended Agreement have been completed. The amended Agreement shall enter into force on the thirtieth day following the date of receipt of the last notification.  
+This Agreement may be amended by written agreement between the Contracting Parties. The Contracting Parties shall notify each other through the diplomatic channel when their constitutional requirements for the entry into force of the amended Agreement have been completed. The amended Agreement shall enter into force on the thirtieth day following the date of receipt of the last notification. 
 
 ### Article  10  
 
-This Agreement shall enter into force on the first day of the second month after each Contracting Party has notified the other Contracting Party through the diplomatic channel of the completion of its procedures necessary for the entry into force of the Agreement.  
+This Agreement shall enter into force on the first day of the second month after each Contracting Party has notified the other Contracting Party through the diplomatic channel of the completion of its procedures necessary for the entry into force of the Agreement. 
 
 ### Article  11  
 
 1.  This Agreement may be terminated by either Contracting Party upon giving notice in writing through the diplomatic channel to the other Contracting Party, not less than six months before the end of any calendar year. In such event the Agreement shall cease to be in force from the first day of the immediately following calendar year.   
 2.  If a Contracting Party exercises the power of termination in paragraph 1 of this Article it shall notify the Commission of the European Union in writing of the termination before it takes effect.   
-3.  The power of termination in paragraph 1 of this Article is not exercisable during a supply crisis.   
+3.  The power of termination in paragraph 1 of this Article is not exercisable during a supply crisis.  
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Agreement. DONE in two originals at The Hague, on this 19th day of January 2006, in the English language only.  *For the Kingdom of the Netherlands*  B. R. BOT  *For the Kingdom of Denmark*  K. M. BIERING  
 
 ####Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Denemarken inzake het wederzijds aanhouden van voorraden ruwe aardolie en/of aardolieproducten
 
-Het Koninkrijk der Nederlanden en het Koninkrijk Denemarken (hierna te noemen „de Verdragsluitende Partijen’’), Gelet op Richtlijn 68/414/EEG van de Raad van 20 december 1968 houdende de verplichting voor de lidstaten van de Europese Economische Gemeenschap om minimumvoorraden ruwe aardolie en/of aardolieproducten in opslag te houden, zoals gewijzigd bij Richtlijn 98/93/EG van de Raad van 14 december 1998 (hierna samen te noemen „de Richtlijn’’); Gelet op artikel 6, tweede lid, van de Richtlijn dat voorziet in het aanleggen van voorraden op het grondgebied van een lidstaat voor rekening van in een andere lidstaat gevestigde ondernemingen, uit hoofde van overeenkomsten tussen regeringen; Gelet op nationale wetgeving inzake de verplichting tot het aanhouden van voorraden aardolieproducten; Zijn het volgende overeengekomen:    
+Het Koninkrijk der Nederlanden en het Koninkrijk Denemarken (hierna te noemen „de Verdragsluitende Partijen’’), Gelet op Richtlijn 68/414/EEG van de Raad van 20 december 1968 houdende de verplichting voor de lidstaten van de Europese Economische Gemeenschap om minimumvoorraden ruwe aardolie en/of aardolieproducten in opslag te houden, zoals gewijzigd bij Richtlijn 98/93/EG van de Raad van 14 december 1998 (hierna samen te noemen „de Richtlijn’’); Gelet op artikel 6, tweede lid, van de Richtlijn dat voorziet in het aanleggen van voorraden op het grondgebied van een lidstaat voor rekening van in een andere lidstaat gevestigde ondernemingen, uit hoofde van overeenkomsten tussen regeringen; Gelet op nationale wetgeving inzake de verplichting tot het aanhouden van voorraden aardolieproducten;  Zijn het volgende overeengekomen:    
 
 ### Artikel  1  
 
@@ -126,17 +126,17 @@ a. „bevoegde autoriteit’’ het overheidsorgaan van elke Verdragsluitende Pa
 
 b. „voorraad’’ elke voorraad ruwe aardolie of aardolieproducten (met inbegrip van halffabrikaten en eindproducten) waarop de Richtlijn van toepassing is;  
 
-c. „voorraadverplichting ’’ de totale hoeveelheid voorraad die uit hoofde van de nationale wetgeving dient te worden aangehouden; <sup>  noot vertaler: later wordt in de Engelse tekst „stockholding’’ obligation gebruikt  </sup>  
+c. „voorraadverplichting<sup> noot vertaler: later wordt in de Engelse tekst „stockholding’’ obligation gebruikt </sup>’’ de totale hoeveelheid voorraad die uit hoofde van de nationale wetgeving dient te worden aangehouden;  
 
 d. „crisis in de voorziening’’ hetzelfde als in artikel 6, tweede lid, van de Richtlijn wordt verstaan;  
 
 e. „grondgebied’’ het binnen de Europese Unie gelegen grondgebied waarop elke Verdragsluitende Partij rechtsmacht uitoefent en wat betreft het Koninkrijk Denemarken met uitzondering van de Faeröer en Groenland;  
 
-f. „onderneming’’ een onderneming of instantie gevestigd op het grondgebied van een Verdragsluitende Partij die voorraden aanhoudt ten behoeve van het vergemakkelijken van de nakoming, door die onderneming of een derde, van de wetgeving inzake de verplichting tot het aanhouden van voorraden aardolieproducten van die of de andere Verdragsluitende Partij.    
+f. „onderneming’’ een onderneming of instantie gevestigd op het grondgebied van een Verdragsluitende Partij die voorraden aanhoudt ten behoeve van het vergemakkelijken van de nakoming, door die onderneming of een derde, van de wetgeving inzake de verplichting tot het aanhouden van voorraden aardolieproducten van die of de andere Verdragsluitende Partij.   
 
 ### Artikel  2  
 
-Dit Verdrag is van toepassing op voorraden waarop de Richtlijn van toepassing is die door de bevoegde autoriteiten in beide Verdragsluitende Partijen zijn aanvaard als zijnde voorraden waarop dit Verdrag van toepassing is.  
+Dit Verdrag is van toepassing op voorraden waarop de Richtlijn van toepassing is die door de bevoegde autoriteiten in beide Verdragsluitende Partijen zijn aanvaard als zijnde voorraden waarop dit Verdrag van toepassing is. 
 
 ### Artikel  3  
 
@@ -145,17 +145,17 @@ Dit Verdrag is van toepassing op voorraden waarop de Richtlijn van toepassing is
 a. hetzij rechtstreeks door de in Nederland gevestigde onderneming, hetzij  
 
 b. door een in Denemarken gevestigde onderneming, namens de in Nederland gevestigde onderneming.     
-2.  Een in Denemarken gevestigde onderneming kan in Nederland voorraden aanhouden waarop dit Verdrag van toepassing is. Dergelijke voorraden kunnen worden aangehouden: 
+2.  Een in Denemarken gevestigde onderneming kan in Nederland voorraden aanhouden waarop dit Verdrag van toepassing is. Dergelijke voorraden kunnen worden aangehouden:  
 
 a. hetzij rechtstreeks door de in Denemarken gevestigde onderneming, hetzij  
 
 b. door een in Nederland gevestigde onderneming, namens de in Denemarken gevestigde onderneming.     
 3.  Voorraden komen uitsluitend in aanmerking voor aanvaarding uit hoofde van artikel 2 van dit Verdrag indien de onderneming die aanvaarding van deze voorraden uit hoofde van genoemd artikel nastreeft, erin heeft toegestemd deze voorraden aan te houden, hetzij door hemzelf, hetzij door de andere onderneming, vanaf de eerste dag van een kalenderkwartaal gedurende een of meerdere volledige kalenderkwartalen, na aanvaarding door de bevoegde autoriteiten.   
-4.  Indien een onderneming voorraden aanhoudt namens een andere onderneming in overeenstemming met het eerste lid, onderdeel b, of het tweede lid, onderdeel b van dit artikel, dan mogen deze voorraden niet worden meegeteld in de Staat waar zij worden aangehouden, maar dienen zij te worden meegeteld door de Verdragsluitende Partij waar de onderneming die aanspraak kan maken op de voorraad is gevestigd.   
+4.  Indien een onderneming voorraden aanhoudt namens een andere onderneming in overeenstemming met het eerste lid, onderdeel b, of het tweede lid, onderdeel b van dit artikel, dan mogen deze voorraden niet worden meegeteld in de Staat waar zij worden aangehouden, maar dienen zij te worden meegeteld door de Verdragsluitende Partij waar de onderneming die aanspraak kan maken op de voorraad is gevestigd.  
 
 ### Artikel  4  
 
-Geen van de Verdragsluitende Partijen verzet zich tegen de verwijdering van haar grondgebied van voorraden waarop dit Verdrag van toepassing is, in overeenstemming met instructies van de bevoegde autoriteit van de andere Verdragsluitende Partij.  
+Geen van de Verdragsluitende Partijen verzet zich tegen de verwijdering van haar grondgebied van voorraden waarop dit Verdrag van toepassing is, in overeenstemming met instructies van de bevoegde autoriteit van de andere Verdragsluitende Partij. 
 
 ### Artikel  5  
 
@@ -174,7 +174,7 @@ d. de locatie, indien bekend, van de opslagruimte(n) waar de voorraden zullen wo
 5.  Onverminderd de in artikel 5, tweede, derde en vierde lid, vermelde termijnen, kunnen de bevoegde autoriteiten, indien nodig, overeenkomen een of alle termijnen te wijzigen.   
 6.  Indien er een wezenlijke verandering is opgetreden in zaken met betrekking waartoe informatie is verstrekt in overeenstemming met het tweede lid van dit artikel, dient de aanvrager een aanvullend verzoek in te dienen.   
 7.  Aanvaarding van een verzoek kan door elk van beide bevoegde autoriteiten worden ingetrokken indien er een wezenlijke onjuistheid wordt geconstateerd in de gegevens die met betrekking tot die aanvaarding zijn verstrekt uit hoofde van het tweede lid van dit artikel. Alvorens een aanvaarding in te trekken uit hoofde van deze bepaling stelt de betrokken bevoegde autoriteit de bevoegde autoriteit van de andere Verdragsluitende Partij hiervan in kennis en biedt zij de onderneming met de voorraadverplichting die de gegevens heeft verstrekt in redelijke mate de gelegenheid bezwaar te maken.   
-8.  Beide betrokken ondernemingen stemmen ermee in de bevoegde autoriteiten in kennis te stellen van enige informatie verkregen ten behoeve van de implementatie van dit Verdrag.   
+8.  Beide betrokken ondernemingen stemmen ermee in de bevoegde autoriteiten in kennis te stellen van enige informatie verkregen ten behoeve van de implementatie van dit Verdrag.  
 
 ### Artikel  6  
 
@@ -187,7 +187,7 @@ b. de voorraden zullen worden aangehouden uit hoofde van een schriftelijke overe
 c. de onderneming contractueel het recht heeft deze voorraden gedurende de gehele looptijd van de overeenkomst te verwerven en de wijze waarop de prijs van een dergelijke aankoop wordt bepaald, in de overeenkomst is vastgelegd; en  
 
 d. de feitelijke beschikbaarheid van de voorraden voor de onderneming gedurende de gehele looptijd van de overeenkomst gewaarborgd is.     
-2.  Beide ondernemingen stemmen ermee in de bevoegde autoriteiten in kennis te stellen van enige informatie verkregen ten behoeve van de implementatie van dit Verdrag.   
+2.  Beide ondernemingen stemmen ermee in de bevoegde autoriteiten in kennis te stellen van enige informatie verkregen ten behoeve van de implementatie van dit Verdrag.  
 
 ### Artikel  7  
 
@@ -208,21 +208,21 @@ c. indien bekend, de locatie van de opslagruimte(n) waar de voorraden worden aan
 
 i. moeilijkheden die zijn gerezen met betrekking tot de uitlegging of toepassing van dit Verdrag op te lossen; of  
 
-ii. bepalingen van dit Verdrag te wijzigen in welk geval het overleg in ieder geval uiterlijk zestig dagen na ontvangst van het verzoek dient aan te vangen.     
+ii. bepalingen van dit Verdrag te wijzigen in welk geval het overleg in ieder geval uiterlijk zestig dagen na ontvangst van het verzoek dient aan te vangen.    
 
 ### Artikel  9  
 
-Dit Verdrag kan met schriftelijke instemming van beide Verdragsluitende Partijen worden gewijzigd. De Verdragsluitende Partijen stellen elkaar langs diplomatieke weg ervan in kennis dat aan hun constitutionele vereisten voor de inwerkingtreding van het gewijzigde Verdrag is voldaan. Het gewijzigde Verdrag treedt in werking dertig dagen na de datum van ontvangst van de laatste kennisgeving.  
+Dit Verdrag kan met schriftelijke instemming van beide Verdragsluitende Partijen worden gewijzigd. De Verdragsluitende Partijen stellen elkaar langs diplomatieke weg ervan in kennis dat aan hun constitutionele vereisten voor de inwerkingtreding van het gewijzigde Verdrag is voldaan. Het gewijzigde Verdrag treedt in werking dertig dagen na de datum van ontvangst van de laatste kennisgeving. 
 
 ### Artikel  10  
 
-Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat beide Verdragsluitende Partijen elkaar langs diplomatieke weg ervan in kennis hebben gesteld dat de procedures vereist voor de inwerkingtreding van dit Verdrag zijn afgerond.  
+Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat beide Verdragsluitende Partijen elkaar langs diplomatieke weg ervan in kennis hebben gesteld dat de procedures vereist voor de inwerkingtreding van dit Verdrag zijn afgerond. 
 
 ### Artikel  11  
 
 1.  Dit Verdrag kan door elk van de Verdragsluitende Partijen langs diplomatieke weg worden beëindigd door schriftelijke kennisgeving aan de andere Verdragsluitende Partij ten minste zes maanden voor het einde van enig kalenderjaar. Het Verdrag houdt in dat geval op van kracht te zijn met ingang van de eerste dag van het eerstvolgende kalenderjaar.   
 2.  Indien een Verdragsluitende Partij gebruik maakt van de in het eerste lid van dit artikel vervatte bevoegdheid tot beëindiging, stelt zij de Commissie van de Europese Unie schriftelijk in kennis van de beëindiging alvorens deze van kracht wordt.   
-3.  De bevoegdheid tot beëindiging vervat in het eerste lid van dit artikel mag niet worden uitgeoefend tijdens een crisis in de voorziening.   
+3.  De bevoegdheid tot beëindiging vervat in het eerste lid van dit artikel mag niet worden uitgeoefend tijdens een crisis in de voorziening.  
 
-TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend. GEDAAN in tweevoud te ’s-Gravenhage op 19 januari 2005, alleen in de Engelse taal.  *Voor het Koninkrijk der Nederlanden*  B. R. BOT  *Voor het Koninkrijk Denemarken*  K. M. BIERING  
+TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend.  GEDAAN in tweevoud te ’s-Gravenhage op 19 januari 2005, alleen in de Engelse taal.  *Voor het Koninkrijk der Nederlanden*  B. R. BOT  *Voor het Koninkrijk Denemarken*  K. M. BIERING  
 
