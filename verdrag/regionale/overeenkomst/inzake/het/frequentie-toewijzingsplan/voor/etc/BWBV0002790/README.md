@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regionale overeenkomst inzake het frequentie-toewijzingsplan voor maritieme radiobakens in het Europese maritieme gebied
+##Regionale overeenkomst inzake het frequentie-toewijzingsplan voor maritieme radiobakens in het Europese maritieme gebied 
 
 ####Regional Agreement Concerning the Planning of the Maritime Radionavigation Service (Radiobeacons) in the European Maritime Area
 
-(Geneva, 1985)  
+(Geneva, 1985) 
 
 ###Preamble
 
@@ -85,22 +85,22 @@ For the purpose of this Agreement, the following terms shall have the meanings d
 ### *Abrogation and Replacement of the Regional Arrangement Concerning Maritime Radiobeacons in the European Area of Region 1 (Paris, 1951)* 
 
 13.1 This Agreement abrogates and replaces the Regional Arrangement Concerning Maritime Radiobeacons in the European Area of Region 1 (Paris, 1951). 
-###Article 14
+### Article 14
 
-### *Entry into Force of this Agreement* 
+###*Entry into Force of this Agreement* 
 
-14.1 This Agreement shall enter into force on 1 April 1992 at 0001 hours UTC. IN WITNESS WHEREOF the delegations of Members of the Union mentioned above have, on behalf of their respective competent authorities, signed this Agreement in a single copy in the Arabic, English, French, Russian and Spanish languages in which, in case of dispute, the French text shall be authentic. This copy shall remain deposited in the archives of the Union. The Secretary-General shall forward one certified copy to each Member in the European Maritime Area. DONE at Geneva, 13 March, 1985.   
+14.1 This Agreement shall enter into force on 1 April 1992 at 0001 hours UTC. IN WITNESS WHEREOF the delegations of Members of the Union mentioned above have, on behalf of their respective competent authorities, signed this Agreement in a single copy in the Arabic, English, French, Russian and Spanish languages in which, in case of dispute, the French text shall be authentic. This copy shall remain deposited in the archives of the Union. The Secretary-General shall forward one certified copy to each Member in the European Maritime Area. DONE at Geneva, 13 March, 1985.  
 
-### RESOLUTION  NO. I  
+### RESOLUTION NO. I  
 
 ####Application of Articles 4, 5 and 6 of the Agreement Before its Entry into Force
 
 The Regional Administrative Conference for the Planning of the Maritime Radionavigation Service (Radiobeacons) in the European Maritime Area (Geneva, 1985). considering a) that, in accordance with its agenda, it has adopted an Agreement and an associated Plan for the maritime radionavigation service (radiobeacons) in the band 283.5-315 kHz; b) that some administrations may need to modify the characteristics of assignments appearing in the Plan or to add new assignments to the Plan or to notify assignments included in the Plan before the Agreement enters into force; c) that some administrations may need to notify frequency assignments in the aeronautical radionavigation service in the band 283.5-315 kHz before the Agreement enters into force; d) that means must be provided, before the date of entry into force of the Agreement, to permit modifications to the Plan and to ensure that the proposed uses of the aeronautical radionavigation service in the relevant band are compatible with the Plan; resolves 1. that, pending the entry into force of the Agreement, administrations and the IFRB shall apply the procedures set out in Article 4 of the Agreement for modifications of the Plan; 2. that, during the same period, administrations and the IFRB shall apply the procedures set out in Articles 5 and 6 of the Agreement for the notification, examination and recording of frequency assignments in the relevant frequency band, as well as the provisions of paragraph 3 below; 3. that the transitional procedure in the Annex to this Resolution shall be applicable during the period in question. 4. that new radiobeacon stations of the maritime radionavigation service brought into use before the date of entry into force of the Agreement shall conform to the characteristics specified in the Plan except as regards the frequency; 5. that when selecting frequencies for use in the transitional period, administrations shall take account of the fact that some receivers in current use are less selective than the equipment to be used in future.   
 
-### ANNEX  
+### ANNEX 
 
 ####TO RESOLUTION NO. 1
 
-Transitional Procedure Applicable to Frequency Assignments Notified Under the Terms of Article 5 of the Agreement Before its Entry into Force  
+Transitional Procedure Applicable to Frequency Assignments Notified Under the Terms of Article 5 of the Agreement Before its Entry into Force 
 
 1. When an administration proposes to modify the characteristics of an assignment entered in the Master Register in order to make it consistent with the Plan, or when an administration wishes to bring into service an assignment in conformity with the Plan, it shall notify that assignment in accordance with Article 5 of the Agreement. 2. The IFRB shall examine such notifications relating to assignments entered in the Master Register on the date of receipt of the notification and shall inform the notifying administration of any incompatibility with assignments of other administrations. 3. The notifying administration shall endeavour to secure the agreement of the administrations identified under the terms of paragraph 2 above. 4. When the agreement of the administrations concerned has been obtained, the assignment may be brought into service in accordance with the Plan, and, if necessary, the corresponding assignment which has been the subject of the modification shall be deleted from the Master Register.   

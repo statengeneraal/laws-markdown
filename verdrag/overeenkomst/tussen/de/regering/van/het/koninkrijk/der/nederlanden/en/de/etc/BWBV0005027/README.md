@@ -4,7 +4,7 @@
 
 ####Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Unie van Socialistische Sovjet-Republieken inzake de voorkoming van incidenten op zee buiten de territoriale wateren
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Unie van Socialistische Sovjet-Republieken, hierna te noemen de „Partijen”; Geleid door de wens de veiligheid van de vaart van de schepen van hun respectieve strijdkrachten en van de vluchten van hun militaire luchtvaartuigen buiten de territoriale wateren te waarborgen; Erkennend dat handelingen die op grond van deze Overeenkomst zijn verboden ook niet moeten worden gepleegd jegens niet-militaire schepen van de Partijen; Geleid door de beginselen en regels van het internationale recht;   Zijn het volgende overeengekomen:    
+De Regering van het Koninkrijk der Nederlanden en de Regering van de Unie van Socialistische Sovjet-Republieken, hierna te noemen de „Partijen”; Geleid door de wens de veiligheid van de vaart van de schepen van hun respectieve strijdkrachten en van de vluchten van hun militaire luchtvaartuigen buiten de territoriale wateren te waarborgen; Erkennend dat handelingen die op grond van deze Overeenkomst zijn verboden ook niet moeten worden gepleegd jegens niet-militaire schepen van de Partijen; Geleid door de beginselen en regels van het internationale recht;  Zijn het volgende overeengekomen:  
 
 ### Artikel  I  
 
@@ -21,11 +21,11 @@ b. Onder „luchtvaartuig” wordt verstaan ieder bemand militair luchtvaartuig,
 c. Onder „formatie” wordt verstaan een opgedragen samenstel van twee of meer schepen die samen varen en gewoonlijk tezamen manoeuvreren.  
 
 d. Onder de definities van „schip” en „luchtvaartuig” zoals in dit artikel vervat, worden tevens begrepen de schepen en luchtvaartuigen die behoren tot de grenstroepen van de Unie van Socialistische Sovjet-Republieken.     
-2.  Deze Overeenkomst is van toepassing op schepen en luchtvaartuigen die opereren op de wateren buiten de territoriale wateren en in het luchtruim daarboven.   
+2.  Deze Overeenkomst is van toepassing op schepen en luchtvaartuigen die opereren op de wateren buiten de territoriale wateren en in het luchtruim daarboven.  
 
 ### Artikel  II  
 
-De Partijen nemen maatregelen om de commandanten van hun respectieve schepen te instrueren de Internationale Bepalingen ter Voorkoming van Aanvaringen op Zee van 1972, hierna te noemen de „Zee-aanvaringsbepalingen 1972”, strikt naar de letter en de geest na te leven. De Partijen erkennen dat hun vrijheid om operaties buiten de territoriale wateren uit te voeren, is gebaseerd op de beginselen die deel uitmaken van het erkende internationale recht.  
+De Partijen nemen maatregelen om de commandanten van hun respectieve schepen te instrueren de Internationale Bepalingen ter Voorkoming van Aanvaringen op Zee van 1972, hierna te noemen de „Zee-aanvaringsbepalingen 1972”, strikt naar de letter en de geest na te leven. De Partijen erkennen dat hun vrijheid om operaties buiten de territoriale wateren uit te voeren, is gebaseerd op de beginselen die deel uitmaken van het erkende internationale recht. 
 
 ### Artikel  III  
 
@@ -46,7 +46,7 @@ d. gebruiken geen laser op zodanige wijze dat letsel of schade wordt toegebracht
 
 e. vuren geen lichtraketten of andere pyrotechnische middelen af in de richting van schepen en luchtvaartuigen van de andere Partij op een zodanige wijze dat deze schepen of luchtvaartuigen in gevaar worden gebracht.     
 7.  Wanneer oefeningen met onder water bevindende onderzeeboten worden uitgevoerd, tonen begeleidende schepen de toepasselijke seinen die zijn voorgeschreven in het Internationaal Seinboek of in de Tabel van Speciale Seinen zoals deze is neergelegd in de bijlage bij de Overeenkomst, teneinde schepen van de andere Partij te attenderen op de aanwezigheid van onderzeeboten in het gebied.   
-8.  Schepen van een Partij nemen, wanneer zij schepen van de andere Partij, die operaties uitvoeren waarbij deze volgens voorschrift 3 (g) van de Zeeaanvaringsbepalingen 1972 beperkt zijn in hun manoeuvreerbaarheid en speciaal schepen die bezig zijn met het afvliegen of oplanden van luchtvaartuigen alsmede schepen die bezig zijn met het bevoorraden op zee, naderen, tijdig gepaste maatregelen om zeker te stellen dat de manoeuvres van die schepen niet worden gehinderd en blijven ruim vrij.   
+8.  Schepen van een Partij nemen, wanneer zij schepen van de andere Partij, die operaties uitvoeren waarbij deze volgens voorschrift 3 (g) van de Zeeaanvaringsbepalingen 1972 beperkt zijn in hun manoeuvreerbaarheid en speciaal schepen die bezig zijn met het afvliegen of oplanden van luchtvaartuigen alsmede schepen die bezig zijn met het bevoorraden op zee, naderen, tijdig gepaste maatregelen om zeker te stellen dat de manoeuvres van die schepen niet worden gehinderd en blijven ruim vrij.  
 
 ### Artikel  IV  
 
@@ -57,38 +57,38 @@ a. schijnaanvallen worden uitgevoerd of dat wapens gesimuleerd worden ingezet te
 b. kunstvluchten boven schepen van de andere Partij worden uitgevoerd;  
 
 c. voorwerpen in de nabijheid van schepen van de andere Partij worden afgeworpen op een zodanige wijze dat zulks gevaar voor die schepen of voor de scheepvaart oplevert.     
-2.  Wanneer luchtvaartuigen en schepen van de andere Partij worden genaderd tonen luchtvaartuigen van de Partijen die in duisternis of onder instrument vliegcondities vliegen hun navigatielichten, wanneer dit praktisch mogelijk is.   
+2.  Wanneer luchtvaartuigen en schepen van de andere Partij worden genaderd tonen luchtvaartuigen van de Partijen die in duisternis of onder instrument vliegcondities vliegen hun navigatielichten, wanneer dit praktisch mogelijk is.  
 
 ### Artikel  V  
 
 1.  Handelingen die op grond van deze Overeenkomst zijn verboden, worden evenmin gepleegd door schepen en luchtvaartuigen van een Partij jegens niet-militaire schepen die de vlag van de andere Partij voeren.   
-2.  De Partijen nemen maatregelen om die niet-militaire schepen op de hoogte te stellen van de bepalingen van deze Overeenkomst die zijn gericht op het verzekeren van de wederzijdse veiligheid.   
+2.  De Partijen nemen maatregelen om die niet-militaire schepen op de hoogte te stellen van de bepalingen van deze Overeenkomst die zijn gericht op het verzekeren van de wederzijdse veiligheid.  
 
 ### Artikel  VI  
 
-De Partijen geven, normaal gesproken tussen de 3 en 5 dagen van te voren, door middel van het gevestigde systeem van radiouitzendingen ten behoeve van informatie en waarschuwingen aan zeevarenden, kennis van handelingen buiten de territoriale wateren die een gevaar voor de scheepvaart of voor zich in de lucht bevindende luchtvaartuigen inhouden.  
+De Partijen geven, normaal gesproken tussen de 3 en 5 dagen van te voren, door middel van het gevestigde systeem van radiouitzendingen ten behoeve van informatie en waarschuwingen aan zeevarenden, kennis van handelingen buiten de territoriale wateren die een gevaar voor de scheepvaart of voor zich in de lucht bevindende luchtvaartuigen inhouden. 
 
 ### Artikel  VII  
 
-De Partijen wisselen tijdig passende informatie uit betreffende voorvallen van aanvaringen, incidenten die schade opleveren en andere incidenten op zee tussen schepen en luchtvaartuigen van de Partijen. De Koninklijke marine verschaft deze informatie door tussenkomst van de Marine-attaché of andere militaire attaché van de Unie van Socialistische Sovjet Republieken te 's-Gravenhage en de marine van de Unie van Socialistische Sovjet Republieken verschaft deze informatie door tussenkomst van de Nederlandse Marine-attaché of andere militaire attaché te Moskou.  
+De Partijen wisselen tijdig passende informatie uit betreffende voorvallen van aanvaringen, incidenten die schade opleveren en andere incidenten op zee tussen schepen en luchtvaartuigen van de Partijen. De Koninklijke marine verschaft deze informatie door tussenkomst van de Marine-attaché of andere militaire attaché van de Unie van Socialistische Sovjet Republieken te 's-Gravenhage en de marine van de Unie van Socialistische Sovjet Republieken verschaft deze informatie door tussenkomst van de Nederlandse Marine-attaché of andere militaire attaché te Moskou. 
 
 ### Artikel  VIII  
 
 1.  Deze Overeenkomst treedt in werking op de datum waarop beide Partijen schriftelijk aan elkaar te kennen hebben gegeven dat aan de constitutionele vereisten in hun respectieve landen is voldaan.   
 2.  Deze Overeenkomst kan door iedere Partij schriftelijk worden beëindigd met inachtneming van een termijn van zes maanden.   
-3.  Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst van toepassing op het gehele Koninkrijk, tenzij de in het eerste lid van dit artikel bedoelde kennisgeving anders bepaalt.   
+3.  Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst van toepassing op het gehele Koninkrijk, tenzij de in het eerste lid van dit artikel bedoelde kennisgeving anders bepaalt.  
 
 ### Artikel  IX  
 
-Vertegenwoordigers van de Partijen ontmoeten elkaar binnen een jaar na de datum van inwerkingtreding van deze Overeenkomst om zowel de toepassing van de bepalingen na te gaan als ter bespreking van de mogelijke wijze om een hoger niveau van veiligheid van de vaart van hun schepen en de vluchten van hun luchtvaartuigen buiten de territoriale wateren na te streven. Soortgelijk overleg wordt daarna jaarlijks gehouden of vaker naar goeddunken van Partijen.  
+Vertegenwoordigers van de Partijen ontmoeten elkaar binnen een jaar na de datum van inwerkingtreding van deze Overeenkomst om zowel de toepassing van de bepalingen na te gaan als ter bespreking van de mogelijke wijze om een hoger niveau van veiligheid van de vaart van hun schepen en de vluchten van hun luchtvaartuigen buiten de territoriale wateren na te streven. Soortgelijk overleg wordt daarna jaarlijks gehouden of vaker naar goeddunken van Partijen. 
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun onderscheiden Regeringen, deze Overeenkomst hebben ondertekend. GEDAAN in tweevoud te Moskou, op 19 juni 1990 in de Nederlandse en de Russische taal, zijnde teksten in beide talen gelijkelijk authentiek.  *Voor de Regering van het Koninkrijk der Nederlanden:*  (w.g.) A. L. ter Beek P. Buwalda  *Voor de Regering van de Unie van Socialistische Sovjet Republieken:*  (w.g.) D. T. Jazov  
 
 ### BIJLAGE  
 
-####Tabel van speciale seinen
+####Tabel van speciale seinen<sup> 1)  Веidе Рагijеп zullen wederzijds geaccordeerde instructies voor het gebruik van seinen van deze Tabel uitgeven. De vertegenwoordigers van de Partijen kunnen met wederzijds goedvinden noodzakelijke wijzigigngen en toevoegingen in deze Tabel aanbrengen.  </sup> 
 
-<sup> 1)  Веidе Рагijеп zullen wederzijds geaccordeerde instructies voor het gebruik van seinen van deze Tabel uitgeven. De vertegenwoordigers van de Partijen kunnen met wederzijds goedvinden noodzakelijke wijzigigngen en toevoegingen in deze Tabel aanbrengen.  </sup>   Yankee Victor one (YVI) De volgende seinen dienen te worden voorafgegaan door bovenstaande groep:  
+Yankee Victor one (YVI) De volgende seinen dienen te worden voorafgegaan door bovenstaande groep:  
 
 |
 |
@@ -116,10 +116,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun 
 | UY 8(...)  | Ik manoeuvreer om landingsvaartuigen aan boord te nemen/uit te zetten. Verzoeke vrij te blijven in de richting van mij als aangegeven .... (Tabel 3 van ISB)  |
 | UY 9  | Ik bereid mij voor om uit te voeren/voer uit helicopter operaties over mijn achtersteven  |
 | UY 10*  | Ik controleer mijn kanon systemen  |
-| UY 11*  | Ik controleer mijn raket systemen  |
+| UY 11*   | Ik controleer mijn raket systemen  |
 | UY 12(...)  | Ik bereid mij voor op het uitvoeren van/voer uit kanon-schietoefeningen/bombardementsoefeningen op een gesleept doel met luchtvaartuigen. Verzoeke vrij te blijven in de richting van mij als aangegeven (Tabel 3 van ISB)  |
 | ZL 1  | Ik heb Uw sein ontvangen en begrepen  |
 | ZL 2  | Heeft U mijn sein begrepen? Verzoeke bevestiging  |
 | ZL 3  | Uw sein is ontvangen, maar niet begrepen  |
 
-* Deze seinen moeten door schepen worden gebruikt bij het uitvoeren van routine controles van kanon- of raketsysytemen.   
+* Deze seinen moeten door schepen worden gebruikt bij het uitvoeren van routine controles van kanon- of raketsysytemen.  

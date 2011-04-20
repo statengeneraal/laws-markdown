@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regionale Overeenkomst inzake MF maritieme mobiele en luchtvaartradionavigatiediensten (Regio 1)
+##Regionale Overeenkomst inzake MF maritieme mobiele en luchtvaartradionavigatiediensten (Regio 1) 
 
 ####Regional Agreement Concerning the MF Maritime Mobile and Aeronautical Radionavigation Services (Region 1)
 
-(Geneva, 1985)  
+(Geneva, 1985) 
 
 ###Preamble
 
@@ -96,9 +96,9 @@ For the purpose of this Agreement, the following terms shall have the meanings d
 
 ### *Entry into Force of this Agreement* 
 
-14.1 This Agreement shall enter into force on 1st April, 1992 at 0001 hours UTC except for the bands 490-495 k Hz and 505-510 k Hz to which the Agreement shall be applied as from the date, if later, to be adopted by a competent administrative radio conference in accordance with No. 471 of the Radio Regulations and Resolution No. 206 (Mob-83) of the World Administrative Radio Conference for Mobile Services (Geneva, 1983). IN WITNESS WHEREOF the delegations of Members of the Union mentioned above have, on behalf of their respective competent authorities, signed this Agreement in a single copy in the Arabic, English, French, Russian and Spanish languages in which, in case of dispute, the French text shall be authentic. This copy shall remain deposited in the archives of the Union. The Secretary-General shall forward one certified copy to each Member in Region 1. DONE at Geneva, 15 March 1985.   
+14.1 This Agreement shall enter into force on 1st April, 1992 at 0001 hours UTC except for the bands 490-495 k Hz and 505-510 k Hz to which the Agreement shall be applied as from the date, if later, to be adopted by a competent administrative radio conference in accordance with No. 471 of the Radio Regulations and Resolution No. 206 (Mob-83) of the World Administrative Radio Conference for Mobile Services (Geneva, 1983). IN WITNESS WHEREOF the delegations of Members of the Union mentioned above have, on behalf of their respective competent authorities, signed this Agreement in a single copy in the Arabic, English, French, Russian and Spanish languages in which, in case of dispute, the French text shall be authentic. This copy shall remain deposited in the archives of the Union. The Secretary-General shall forward one certified copy to each Member in Region 1. DONE at Geneva, 15 March 1985.  
 
-### RESOLUTION  NO. I  
+### RESOLUTION NO. I  
 
 ###Application of Articles 4, 5 and 6 of the Agreement Before its Entry into Force
 
@@ -106,6 +106,6 @@ The Regional Administrative Conference for the Planning of the MF Maritime Mobil
 
 ####ANNEX TO RESOLUTION NO. 1
 
-Transitional Procedure Applicable to Frequency Assignments Notified Under Article 5 of the Agreement Before its Entry into Force  
+Transitional Procedure Applicable to Frequency Assignments Notified Under Article 5 of the Agreement Before its Entry into Force 
 
 1. When an administration proposes to modify the characteristics of an assignment entered in the Master Register in order to make it consistent with the Plan, or when an administration wishes to bring into service an assignment in conformity with the Plan, it shall notify that assignment under Article 5 of the Agreement. 2. The IFRB shall examine such notifications relating to assignments entered in the Master Register on the date of receipt of the notification and shall inform the notifying administration of any incompatibility it may identify with assignments of other administrations. 3. The notifying administration shall endeavour to secure the agreement of the administrations identified under paragraph 2 above. 4. When the agreement of the administrations concerned has been obtained, the assignment may be brought into service in accordance with the Plan and, if necessary, the corresponding assignment which has been the subject of the modification shall be deleted from the Master Register.   

@@ -6,7 +6,7 @@
 
 ### Preambule  
 
-Het Koninkrijk der Nederlanden, en Oekraïne, hierna te noemen de Verdragsluitende Partijen, gelet op het belang van een juiste vaststelling van de douanerechten en van het waarborgen van een juiste handhaving door hun douaneadministraties van verboden, beperkingen en controlemaatregelen met betrekking tot bepaalde goederen; overwegend dat inbreuken op de douanewetgeving, met inbegrip van inbreuken op intellectuele-eigendomsrechten, schadelijk zijn voor de economische, fiscale, sociale en culturele belangen en de belangen op het gebied van de volksgezondheid, veiligheid en handel van de Verdragsluitende Partijen; overwegend dat de illegale grensoverschrijdende handel in wapens, explosieven, chemische, biologische en nucleaire stoffen alsmede in verdovende middelen, psychotrope stoffen en precursoren een gevaar voor de samenleving vormt; erkennend de noodzaak van internationale samenwerking ter zake van aangelegenheden die verband houden met de toepassing en handhaving van hun douanewetgeving; ervan overtuigd dat het optreden tegen inbreuken op de douanewetgeving doeltreffender kan worden door middel van nauwe samenwerking tussen hun douaneadministraties op basis van wederzijds overeengekomen internationaalrechtelijke bepalingen; gelet op de Aanbeveling inzake wederzijdse administratieve bijstand, de Verklaring inzake verbetering van douanesamenwerking en wederzijdse administratieve bijstand (Verklaring van Cyprus) en de Resolutie inzake veiligheid en facilitatie van de internationale logistieke keten, aangenomen door de Internationale Douaneraad, tegenwoordig bekend als de Werelddouaneorganisatie, in respectievelijk december 1953, juli 2000 en juni 2002; gelet op internationale verdragen die verboden, beperkingen en bijzondere controlemaatregelen met betrekking tot bepaalde goederen bevatten; tevens gelet op de Universele Verklaring van de Rechten van de Mens van de Verenigde Naties van 1948; zijn het volgende overeengekomen:  
+Het Koninkrijk der Nederlanden, en Oekraïne, hierna te noemen de Verdragsluitende Partijen, gelet op het belang van een juiste vaststelling van de douanerechten en van het waarborgen van een juiste handhaving door hun douaneadministraties van verboden, beperkingen en controlemaatregelen met betrekking tot bepaalde goederen; overwegend dat inbreuken op de douanewetgeving, met inbegrip van inbreuken op intellectuele-eigendomsrechten, schadelijk zijn voor de economische, fiscale, sociale en culturele belangen en de belangen op het gebied van de volksgezondheid, veiligheid en handel van de Verdragsluitende Partijen; overwegend dat de illegale grensoverschrijdende handel in wapens, explosieven, chemische, biologische en nucleaire stoffen alsmede in verdovende middelen, psychotrope stoffen en precursoren een gevaar voor de samenleving vormt; erkennend de noodzaak van internationale samenwerking ter zake van aangelegenheden die verband houden met de toepassing en handhaving van hun douanewetgeving; ervan overtuigd dat het optreden tegen inbreuken op de douanewetgeving doeltreffender kan worden door middel van nauwe samenwerking tussen hun douaneadministraties op basis van wederzijds overeengekomen internationaalrechtelijke bepalingen; gelet op de Aanbeveling inzake wederzijdse administratieve bijstand, de Verklaring inzake verbetering van douanesamenwerking en wederzijdse administratieve bijstand (Verklaring van Cyprus) en de Resolutie inzake veiligheid en facilitatie van de internationale logistieke keten, aangenomen door de Internationale Douaneraad, tegenwoordig bekend als de Werelddouaneorganisatie, in respectievelijk december 1953, juli 2000 en juni 2002; gelet op internationale verdragen die verboden, beperkingen en bijzondere controlemaatregelen met betrekking tot bepaalde goederen bevatten; tevens gelet op de Universele Verklaring van de Rechten van de Mens van de Verenigde Naties van 1948; zijn het volgende overeengekomen: 
 
 ### HOOFDSTUK  I  
 
@@ -16,33 +16,33 @@ Het Koninkrijk der Nederlanden, en Oekraïne, hierna te noemen de Verdragsluiten
 
 Voor de toepassing van dit Verdrag wordt verstaan onder: 
 
-a. „douaneadministratie’’: wat Oekraïne betreft: de nationale douanedienst van Oekraïne; wat het Koninkrijk der Nederlanden betreft: de centrale administratie die verantwoordelijk is voor de toepassing van de douanewetgeving;  
+a. „douaneadministratie’’: wat Oekraïne betreft: de nationale douanedienst van Oekraïne;wat het Koninkrijk der Nederlanden betreft: de centrale administratie die verantwoordelijk is voor de toepassing van de douanewetgeving; 
 
-b. „douanevordering’’: elk bedrag aan douanerechten alsmede verhogingen, bestuurlijke boeten, achterstallige betalingen, renten en kosten die betrekking hebben op de genoemde rechten die niet in een van de Verdragsluitende Partijen kunnen worden geïnd;  
+b. „douanevordering’’: elk bedrag aan douanerechten alsmede verhogingen, bestuurlijke boeten, achterstallige betalingen, renten en kosten die betrekking hebben op de genoemde rechten die niet in een van de Verdragsluitende Partijen kunnen worden geïnd; 
 
-c. „douanerechten’’: alle rechten, belastingen of heffingen die geheven worden alsmede elke terugbetaling van restituties of exportsubsidies die gevorderd wordt op de grondgebieden van de Verdragsluitende Partijen met toepassing van de douanewetgeving, maar met uitzondering van heffingen voor verleende diensten;  
+c. „douanerechten’’: alle rechten, belastingen of heffingen die geheven worden alsmede elke terugbetaling van restituties of exportsubsidies die gevorderd wordt op de grondgebieden van de Verdragsluitende Partijen met toepassing van de douanewetgeving, maar met uitzondering van heffingen voor verleende diensten; 
 
-d. „douanewetgeving’’: alle wettelijke en administratieve bepalingen die door een van de douaneadministraties worden toegepast of gehandhaafd in verband met de invoer, uitvoer, overslag, doorvoer, opslag en het vervoer van goederen, met inbegrip van wettelijke en administratieve bepalingen met betrekking tot verboden, beperkingen en controlemaatregelen met betrekking tot bepaalde goederen, en in verband met de bestrijding van het witwassen en de financiering van terrorisme;  
+d. „douanewetgeving’’: alle wettelijke en administratieve bepalingen die door een van de douaneadministraties worden toegepast of gehandhaafd in verband met de invoer, uitvoer, overslag, doorvoer, opslag en het vervoer van goederen, met inbegrip van wettelijke en administratieve bepalingen met betrekking tot verboden, beperkingen en controlemaatregelen met betrekking tot bepaalde goederen, en in verband met de bestrijding van het witwassen en de financiering van terrorisme; 
 
-e. „inbreuk op de douanewetgeving’’: elke schending of poging tot schending van de douanewetgeving;  
+e. „inbreuk op de douanewetgeving’’: elke schending of poging tot schending van de douanewetgeving; 
 
-f. „informatie’’: alle gegevens, al dan niet bewerkt of geanalyseerd, en documenten, rapporten en andere mededelingen ongeacht in welke vorm, met inbegrip van de elektronische vorm, of gewaarmerkte of gelegaliseerde afschriften daarvan;  
+f. „informatie’’: alle gegevens, al dan niet bewerkt of geanalyseerd, en documenten, rapporten en andere mededelingen ongeacht in welke vorm, met inbegrip van de elektronische vorm, of gewaarmerkte of gelegaliseerde afschriften daarvan; 
 
-g. „internationale logistieke keten’’: alle processen die van toepassing zijn bij het grensoverschrijdend verkeer van goederen van de plaats van herkomst naar de uiteindelijke plaats van bestemming;  
+g. „internationale logistieke keten’’: alle processen die van toepassing zijn bij het grensoverschrijdend verkeer van goederen van de plaats van herkomst naar de uiteindelijke plaats van bestemming; 
 
-h. „functionaris’’: elke douaneambtenaar of andere regeringsambtenaar aangewezen door een van de douaneadministraties;  
+h. „functionaris’’: elke douaneambtenaar of andere regeringsambtenaar aangewezen door een van de douaneadministraties; 
 
-i. „persoon’’: elke natuurlijke persoon of rechtspersoon;  
+i. „persoon’’: elke natuurlijke persoon of rechtspersoon; 
 
-j. „persoonsgegevens’’: alle gegevens betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;  
+j. „persoonsgegevens’’: alle gegevens betreffende een geïdentificeerde of identificeerbare natuurlijke persoon; 
 
 k. „aangezochte administratie’’: de douaneadministratie die om bijstand wordt verzocht;  
 
-l. „verzoekende administratie’’: de douaneadministratie die om bijstand verzoekt;  
+l. „verzoekende administratie’’: de douaneadministratie die om bijstand verzoekt; 
 
-m. „aangezochte Verdragsluitende Partij’’: de Verdragsluitende Partij wier douaneadministratie om bijstand wordt verzocht;  
+m. „aangezochte Verdragsluitende Partij’’: de Verdragsluitende Partij wier douaneadministratie om bijstand wordt verzocht; 
 
-n. „verzoekende Verdragsluitende Partij’’: de Verdragsluitende Partij wier douaneadministratie om bijstand verzoekt.    
+n. „verzoekende Verdragsluitende Partij’’: de Verdragsluitende Partij wier douaneadministratie om bijstand verzoekt.  
 
 ### HOOFDSTUK  II  
 
@@ -54,7 +54,7 @@ n. „verzoekende Verdragsluitende Partij’’: de Verdragsluitende Partij wier
 2.  Alle bijstand uit hoofde van dit Verdrag door een Verdragsluitende Partij wordt verleend in overeenstemming met haar wettelijke en administratieve bepalingen en binnen de grenzen van de bevoegdheden en beschikbare middelen van haar douaneadministratie.   
 3.  Dit Verdrag laat onverlet de verplichtingen van het Koninkrijk der Nederlanden ingevolge de wetgeving van de Europese Unie inzake zijn huidige en toekomstige verplichtingen als lidstaat van de Europese Unie en alle wetgeving die is vastgesteld om die verplichtingen na te komen, alsmede zijn huidige en toekomstige verplichtingen die voortvloeien uit internationale overeenkomsten tussen de lidstaten van de Europese Unie.   
 4.  Dit Verdrag heeft betrekking op de wederzijdse administratieve bijstand tussen de Verdragsluitende Partijen door tussenkomst van hun douaneadministraties en is niet bedoeld van invloed te zijn op verdragen inzake wederzijdse rechtshulp tussen hen. Indien wederzijdse bijstand moet worden verleend door andere autoriteiten van de aangezochte Verdragsluitende Partij zal de aangezochte administratie deze autoriteiten en waar bekend het desbetreffende verdrag dat van toepassing is vermelden.   
-5.  Personen kunnen aan de bepalingen van dit Verdrag niet het recht ontlenen de uitvoering van een verzoek om bijstand te doen beletten.   
+5.  Personen kunnen aan de bepalingen van dit Verdrag niet het recht ontlenen de uitvoering van een verzoek om bijstand te doen beletten.  
 
 ### HOOFDSTUK  III  
 
@@ -75,7 +75,7 @@ c. goederen waarvan bekend is dat zij worden gebruikt voor het maken van inbreuk
 d. personen van wie bekend is dat zij een inbreuk op de douanewetgeving hebben gemaakt of van wie wordt vermoed dat zij een inbreuk op de douanewetgeving gaan maken;  
 
 e. alle andere gegevens die de douaneadministraties van nut kunnen zijn bij de risicobeoordeling voor controle- en facilitatiedoeleinden.     
-2.  Op verzoek verstrekt de aangezochte administratie de verzoekende administratie informatie die betrekking heeft op gevallen waarin de laatste reden heeft te twijfelen aan door de betreffende persoon verstrekte informatie in een zaak die verband houdt met de toepassing van de douanewetgeving.   
+2.  Op verzoek verstrekt de aangezochte administratie de verzoekende administratie informatie die betrekking heeft op gevallen waarin de laatste reden heeft te twijfelen aan door de betreffende persoon verstrekte informatie in een zaak die verband houdt met de toepassing van de douanewetgeving.  
 
 ### Artikel  4  
 
@@ -92,19 +92,19 @@ Op verzoek stelt de aangezochte administratie de verzoekende administratie ervan
 
 a. of goederen die werden uitgevoerd uit het grondgebied van de verzoekende Verdragsluitende Partij op rechtmatige wijze zijn ingevoerd in het grondgebied van de aangezochte Verdragsluitende Partij en onder welke douaneregeling de goederen eventueel zijn geplaatst;  
 
-b. of goederen die zijn ingevoerd in het grondgebied van de verzoekende Verdragsluitende Partij op rechtmatige wijze werden uitgevoerd uit het grondgebied van de aangezochte Verdragsluitende Partij.    
+b. of goederen die zijn ingevoerd in het grondgebied van de verzoekende Verdragsluitende Partij op rechtmatige wijze werden uitgevoerd uit het grondgebied van de aangezochte Verdragsluitende Partij.   
 
 ### Artikel  6  
 
 ####Automatisch verstrekken van informatie
 
-De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig artikel 20 van dit Verdrag, informatie die onder dit Verdrag valt op een automatische wijze verstrekken.  
+De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig artikel 20 van dit Verdrag, informatie die onder dit Verdrag valt op een automatische wijze verstrekken. 
 
 ### Artikel  7  
 
 ####Vooraf verstrekken van informatie
 
-De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig artikel 20 van dit Verdrag, specifieke informatie verstrekken voorafgaand aan de aankomst van zendingen op het grondgebied van de andere Verdragsluitende Partij.  
+De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig artikel 20 van dit Verdrag, specifieke informatie verstrekken voorafgaand aan de aankomst van zendingen op het grondgebied van de andere Verdragsluitende Partij. 
 
 ### HOOFDSTUK  IV  
 
@@ -115,13 +115,13 @@ De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling 
 ####Invordering van douanevorderingen
 
 1.  Op verzoek verlenen de douaneadministraties elkaar bijstand met het oog op de invordering van douanevorderingen in overeenstemming met de respectieve nationale wettelijke en administratieve bepalingen voor de invordering van hun eigen douanerechten.   
-2.  Bijstand bij de invordering van douanevorderingen wordt nader geregeld overeenkomstig artikel 20 van dit Verdrag.   
+2.  Bijstand bij de invordering van douanevorderingen wordt nader geregeld overeenkomstig artikel 20 van dit Verdrag.  
 
 ### Artikel  9  
 
 ####Toezicht en informatie
 
-1.  Op verzoek houdt de aangezochte administratie toezicht op en verstrekt zij informatie over: 
+1.  Op verzoek houdt de aangezochte administratie toezicht op en verstrekt zij informatie over:  
 
 a. goederen in vervoer of in opslag waarvan bekend is dat zij gebruikt zijn of waarvan het vermoeden bestaat dat zij gebruikt worden voor het maken van een inbreuk op de douanewetgeving van de verzoekende Verdragsluitende Partij;  
 
@@ -130,13 +130,13 @@ b. vervoermiddelen waarvan bekend is dat zij gebruikt zijn of waarvan het vermoe
 c. panden op het grondgebied van de aangezochte Verdragsluitende Partij waarvan bekend is dat zij gebruikt zijn of waarvan het vermoeden bestaat dat zij gebruikt worden in verband met het maken van een inbreuk op de douanewetgeving van de verzoekende Verdragsluitende Partij;  
 
 d. personen van wie bekend is dat zij een inbreuk op de douanewetgeving hebben gemaakt of van wie het vermoeden bestaat dat zij op het punt staan een inbreuk te maken op de douanewetgeving van de verzoekende Verdragsluitende Partij, in het bijzonder diegenen die het grondgebied van de aangezochte Verdragsluitende Partij betreden en verlaten.     
-2.  De douaneadministratie van een Verdragsluitende Partij kan uit eigen beweging dergelijk toezicht houden en dergelijke informatie aan de douaneadministratie van de andere Verdragsluitende Partij verstrekken indien zij redenen heeft om aan te nemen dat voorgenomen, lopende of voltooide activiteiten een inbreuk op de douanewetgeving van de andere Verdragsluitende Partij lijken te vormen.   
+2.  De douaneadministratie van een Verdragsluitende Partij kan uit eigen beweging dergelijk toezicht houden en dergelijke informatie aan de douaneadministratie van de andere Verdragsluitende Partij verstrekken indien zij redenen heeft om aan te nemen dat voorgenomen, lopende of voltooide activiteiten een inbreuk op de douanewetgeving van de andere Verdragsluitende Partij lijken te vormen.  
 
 ### Artikel  10  
 
 ####Gecontroleerde aflevering
 
-De douaneadministraties kunnen, in overeenstemming met hun nationale wettelijke en administratieve bepalingen, door middel van een wederzijdse regeling, toestemming verlenen voor de onder hun toezicht verrichte invoer in, uitvoer uit of doorvoer via hun respectieve nationale grondgebieden van goederen die betrokken zijn bij ongeoorloofde handel om deze ongeoorloofde handel tegen te gaan. Indien de douaneadministratie niet bevoegd is bedoelde toestemming te verlenen, tracht die administratie samenwerking te bewerkstelligen met de nationale autoriteiten die daartoe wel bevoegd zijn of draagt zij de zaak aan hen over.  
+De douaneadministraties kunnen, in overeenstemming met hun nationale wettelijke en administratieve bepalingen, door middel van een wederzijdse regeling, toestemming verlenen voor de onder hun toezicht verrichte invoer in, uitvoer uit of doorvoer via hun respectieve nationale grondgebieden van goederen die betrokken zijn bij ongeoorloofde handel om deze ongeoorloofde handel tegen te gaan. Indien de douaneadministratie niet bevoegd is bedoelde toestemming te verlenen, tracht die administratie samenwerking te bewerkstelligen met de nationale autoriteiten die daartoe wel bevoegd zijn of draagt zij de zaak aan hen over. 
 
 ### Artikel  11  
 
@@ -161,7 +161,7 @@ c. een korte beschrijving van de desbetreffende zaak en van de wettelijke en adm
 
 d. de namen en adressen van de personen op wie het verzoek betrekking heeft, voorzover bekend.     
 3.  Wanneer de verzoekende administratie verlangt dat een bepaalde procedure of methode gevolgd wordt, zal de aangezochte administratie aan een dergelijk verzoek voldoen met inachtneming van haar nationale wettelijke en administratieve bepalingen.   
-4.  Om originele informatie wordt slechts verzocht in gevallen waarin niet met afschriften kan worden volstaan en deze wordt zo spoedig mogelijk teruggezonden. De rechten van de aangezochte administratie of van derden terzake blijven onverlet.   
+4.  Om originele informatie wordt slechts verzocht in gevallen waarin niet met afschriften kan worden volstaan en deze wordt zo spoedig mogelijk teruggezonden. De rechten van de aangezochte administratie of van derden terzake blijven onverlet.  
 
 ### HOOFDSTUK  VI  
 
@@ -182,13 +182,13 @@ Door de verzoekende administratie aangewezen functionarissen kunnen, met instemm
 
 a. ten kantore van de aangezochte administratie documenten en alle andere informatie met betrekking tot die inbreuk op de douanewetgeving onderzoeken, en daarvan afschriften verkrijgen;  
 
-b. aanwezig zijn bij een door de aangezochte administratie geleid onderzoek op het grondgebied van de aangezochte Verdragsluitende Partij dat van belang is voor de verzoekende administratie; deze ambtenaren zullen uitsluitend een adviserende rol hebben.    
+b. aanwezig zijn bij een door de aangezochte administratie geleid onderzoek op het grondgebied van de aangezochte Verdragsluitende Partij dat van belang is voor de verzoekende administratie; deze ambtenaren zullen uitsluitend een adviserende rol hebben.   
 
 ### Artikel  15  
 
 ####Aanwezigheid van functionarissen van de verzoekende Verdragsluitende Partij op uitnodiging van de aangezochte administratie
 
-Indien de aangezochte administratie het wenselijk acht dat functionarissen van de verzoekende Verdragsluitende Partij aanwezig zijn wanneer, overeenkomstig een verzoek, bijstandsmaatregelen worden uitgevoerd, kan zij de verzoekende administratie uitnodigen daartoe functionarissen ter beschikking te stellen, met inachtneming van alle door haar daaraan verbonden voorwaarden.  
+Indien de aangezochte administratie het wenselijk acht dat functionarissen van de verzoekende Verdragsluitende Partij aanwezig zijn wanneer, overeenkomstig een verzoek, bijstandsmaatregelen worden uitgevoerd, kan zij de verzoekende administratie uitnodigen daartoe functionarissen ter beschikking te stellen, met inachtneming van alle door haar daaraan verbonden voorwaarden. 
 
 ### Artikel  16  
 
@@ -206,7 +206,7 @@ Indien de aangezochte administratie het wenselijk acht dat functionarissen van d
 1.  Uit hoofde van dit Verdrag ontvangen informatie mag slechts door de douaneadministraties van de Verdragsluitende Partijen en uitsluitend ten behoeve van administratieve bijstand worden gebruikt, met inachtneming van de in dit Verdrag vervatte voorwaarden.   
 2.  Niettegenstaande het eerste lid van dit artikel kan de Verdragsluitende Partij die de informatie heeft verstrekt, op verzoek, haar goedkeuring hechten aan het gebruik ervan door andere autoriteiten of voor andere doeleinden, met inachtneming van alle door haar daaraan verbonden voorwaarden. Dergelijk gebruik dient in overeenstemming te zijn met de wettelijke en administratieve bepalingen van de Verdragsluitende Partij die de informatie wil gebruiken. Het gebruik van informatie voor andere doeleinden omvat het gebruik bij strafrechtelijk onderzoek, strafrechtelijke vervolging en strafrechtelijke procedures.   
 3.  Uit hoofde van dit Verdrag ontvangen informatie wordt vertrouwelijk behandeld en daarvoor gelden ten minste dezelfde vertrouwelijkheid en bescherming als die welke voor soortgelijke informatie gelden krachtens de wettelijke en administratieve bepalingen van de Verdragsluitende Partij waar zij wordt ontvangen.   
-4.  Toezending van persoonsgegevens uit hoofde van dit Verdrag geschiedt in overeenstemming met de wettelijke en administratieve bepalingen van de desbetreffende Verdragsluitende Partij en is onderworpen aan de bepalingen in de Bijlage bij dit Verdrag, die een integrerend deel uitmaakt van dit Verdrag.   
+4.  Toezending van persoonsgegevens uit hoofde van dit Verdrag geschiedt in overeenstemming met de wettelijke en administratieve bepalingen van de desbetreffende Verdragsluitende Partij en is onderworpen aan de bepalingen in de Bijlage bij dit Verdrag, die een integrerend deel uitmaakt van dit Verdrag.  
 
 ### HOOFDSTUK  VIII  
 
@@ -215,10 +215,10 @@ Indien de aangezochte administratie het wenselijk acht dat functionarissen van d
 ### Artikel  18  
 
 1.  Indien de bijstand waar uit hoofde van dit Verdrag om wordt verzocht een inbreuk zou kunnen vormen op de soevereiniteit, de veiligheid, de openbare orde of een ander wezenlijk nationaal belang van de aangezochte Verdragsluitende Partij, of rechtmatige handels- of beroepsbelangen zou kunnen schaden, kan deze bijstand door die Verdragsluitende Partij worden geweigerd of worden verstrekt onder de voorwaarden die zij verlangt.   
-2.  Indien de verzoekende administratie niet in staat zou zijn een soortgelijk verzoek van de aangezochte administratie in te willigen, wijst zij daarop in haar verzoek. Inwilliging van een dergelijk verzoek wordt overgelaten aan het oordeel van de aangezochte administratie.   
+2.  Indien de verzoekende administratie niet in staat zou zijn een soortgelijk verzoek van de aangezochte administratie in te willigen, wijst zij daarop in haar verzoek. Inwilliging van een dergelijk verzoek wordt overgelaten aan het oordeel van de aangezochte administratie.    
 3.  De bijstand kan worden uitgesteld indien er gronden zijn om aan te nemen dat een lopend onderzoek of een lopende vervolging of procedure hiermee wordt doorkruist. In een dergelijk geval pleegt de aangezochte administratie overleg met de verzoekende administratie om te bepalen of de bijstand kan worden verleend onder de voorwaarden die de aangezochte administratie verlangt.   
 4.  Indien de aangezochte administratie van mening is dat de inspanningen die moeten worden verricht om aan het verzoek te voldoen duidelijk niet in verhouding staan tot het veronderstelde voordeel voor de verzoekende administratie, kan zij de bijstand weigeren.   
-5.  Indien de bijstand wordt geweigerd of uitgesteld, worden de redenen hiervoor medegedeeld.   
+5.  Indien de bijstand wordt geweigerd of uitgesteld, worden de redenen hiervoor medegedeeld.  
 
 ### HOOFDSTUK  IX  
 
@@ -228,7 +228,7 @@ Indien de aangezochte administratie het wenselijk acht dat functionarissen van d
 
 1.  Behoudens het bepaalde in het tweede en derde lid van dit artikel zien de Verdragsluitende Partijen af van alle vorderingen tot vergoeding van ter uitvoering van dit Verdrag gemaakte kosten.   
 2.  Bedragen en vergoedingen betaald aan deskundigen en getuigen, alsook de kosten van vertalers en tolken die niet in dienst zijn van de regering, worden gedragen door de verzoekende Verdragsluitende Partij.   
-3.  Indien met de uitvoering van het verzoek aanmerkelijke kosten of kosten van buitengewone aard zullen zijn gemoeid, plegen de Verdragsluitende Partijen overleg om de voorwaarden te bepalen waaronder het verzoek zal worden uitgevoerd, alsmede de wijze waarop de kosten worden gedragen.   
+3.  Indien met de uitvoering van het verzoek aanmerkelijke kosten of kosten van buitengewone aard zullen zijn gemoeid, plegen de Verdragsluitende Partijen overleg om de voorwaarden te bepalen waaronder het verzoek zal worden uitgevoerd, alsmede de wijze waarop de kosten worden gedragen.  
 
 ### HOOFDSTUK  X  
 
@@ -236,7 +236,7 @@ Indien de aangezochte administratie het wenselijk acht dat functionarissen van d
 
 ### Artikel  20  
 
-De douaneadministraties besluiten gezamenlijk, binnen het kader van dit Verdrag, over nadere regelingen ter vergemakkelijking van de uitvoering en toepassing van dit Verdrag.  
+De douaneadministraties besluiten gezamenlijk, binnen het kader van dit Verdrag, over nadere regelingen ter vergemakkelijking van de uitvoering en toepassing van dit Verdrag. 
 
 ### HOOFDSTUK  XI  
 
@@ -245,7 +245,7 @@ De douaneadministraties besluiten gezamenlijk, binnen het kader van dit Verdrag,
 ### Artikel  21  
 
 1.  Wat Oekraïne betreft, is dit Verdrag van toepassing op het gehele grondgebied van de staat zoals vastgesteld in de nationale wetgeving.   
-2.  Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag van toepassing op het grondgebied in Europa. Bij diplomatieke notawisseling kan het Verdrag, hetzij in zijn geheel, hetzij met de nodige wijzigingen, worden uitgebreid tot de Nederlandse Antillen of tot Aruba.   
+2.  Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag van toepassing op het grondgebied in Europa. Bij diplomatieke notawisseling kan het Verdrag, hetzij in zijn geheel, hetzij met de nodige wijzigingen, worden uitgebreid tot de Nederlandse Antillen of tot Aruba.  
 
 ### HOOFDSTUK  XII  
 
@@ -253,7 +253,7 @@ De douaneadministraties besluiten gezamenlijk, binnen het kader van dit Verdrag,
 
 ### Artikel  22  
 
-Geschillen of problemen betreffende de interpretatie of toepassing van dit Verdrag worden in onderlinge overeenstemming tussen de Verdragsluitende Partijen of langs diplomatieke weg geregeld.  
+Geschillen of problemen betreffende de interpretatie of toepassing van dit Verdrag worden in onderlinge overeenstemming tussen de Verdragsluitende Partijen of langs diplomatieke weg geregeld. 
 
 ### HOOFDSTUK  XIII  
 
@@ -265,7 +265,7 @@ Geschillen of problemen betreffende de interpretatie of toepassing van dit Verdr
 
 1.  Dit Verdrag treedt in werking op de eerste dag van de tweede maand na de datum van ontvangst door een van de Verdragsluitende Partijen van de laatste schriftelijke kennisgeving dat de voor de inwerkingtreding van dit Verdrag vereiste interne procedures zijn voltooid.   
 2.  Dit Verdrag kan met wederzijds goedvinden van beide Verdragsluitende Partijen worden gewijzigd bij afzonderlijke protocollen, die een integrerend onderdeel van dit Verdrag uitmaken en die in werking treden overeenkomstig de bepalingen in het eerste lid van dit artikel.   
-3.  De bepalingen van artikel 8 van dit Verdrag worden toegepast na de datum van ontvangst van de laatste schriftelijke kennisgeving van de inwerkingtreding op het grondgebied van de andere Verdragsluitende Partij van de in het eerste lid van artikel 8 vermelde nationale wettelijke en administratieve bepalingen.   
+3.  De bepalingen van artikel 8 van dit Verdrag worden toegepast na de datum van ontvangst van de laatste schriftelijke kennisgeving van de inwerkingtreding op het grondgebied van de andere Verdragsluitende Partij van de in het eerste lid van artikel 8 vermelde nationale wettelijke en administratieve bepalingen.  
 
 ### Artikel  24  
 

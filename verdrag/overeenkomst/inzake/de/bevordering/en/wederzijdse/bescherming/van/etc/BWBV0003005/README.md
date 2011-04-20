@@ -4,7 +4,7 @@
 
 ####Overeenkomst inzake de bevordering en wederzijdse bescherming van investeringen tussen het Koninkrijk der Nederlanden en de Tsjechische en Slowaakse Federatieve Republiek
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Tsjechische en Slowaakse Federatieve Republiek, hierna aangeduid als de Overeenkomstsluitende Partijen, Geleid door de wens de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door investeerders van de ene Overeenkomstsluitende Partij op het grondgebied van de andere Overeenkomstsluitende Partij betreft, In het besef dat overeenstemming omtrent de aan zulke investeringen toe te kennen behandeling, het kapitaalverkeer en de uitwisseling van technologie tussen, alsmede de economische ontwikkeling van de Overeenkomstsluitende Partijen zal stimuleren en dat een eerlijke en rechtvaardige behandeling wenselijk is, Wijzend op de Slotakte van de Conferentie over Veiligheid en Samenwerking in Europa, ondertekend te Helsinki op 1 augustus 1975, zijn als volgt overeengekomen:    
+De Regering van het Koninkrijk der Nederlanden en de Regering van de Tsjechische en Slowaakse Federatieve Republiek, hierna aangeduid als de Overeenkomstsluitende Partijen,  Geleid door de wens de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door investeerders van de ene Overeenkomstsluitende Partij op het grondgebied van de andere Overeenkomstsluitende Partij betreft, In het besef dat overeenstemming omtrent de aan zulke investeringen toe te kennen behandeling, het kapitaalverkeer en de uitwisseling van technologie tussen, alsmede de economische ontwikkeling van de Overeenkomstsluitende Partijen zal stimuleren en dat een eerlijke en rechtvaardige behandeling wenselijk is,  Wijzend op de Slotakte van de Conferentie over Veiligheid en Samenwerking in Europa, ondertekend te Helsinki op 1 augustus 1975, zijn als volgt overeengekomen:    
 
 ### Artikel  1  
 
@@ -28,11 +28,11 @@ i. natuurlijke personen die in overeenstemming met het recht van een der Overeen
 
 ii. rechtspersonen die zijn opgericht in overeenstemming met het recht van een der Overeenkomstsluitende Partijen.    
 
-c. omvat de term „grondgebied”: mede de zeegebieden grenzend aan de kust van de betrokken Staat, voor zover die Staat overeenkomstig het internationale recht soevereine rechten of rechtsmacht in deze gebieden kan uitoefenen.    
+c. omvat de term „grondgebied”: mede de zeegebieden grenzend aan de kust van de betrokken Staat, voor zover die Staat overeenkomstig het internationale recht soevereine rechten of rechtsmacht in deze gebieden kan uitoefenen.   
 
 ### Artikel  2  
 
-Elke Overeenkomstsluitende Partij bevordert investeringen van investeerders van de andere Overeenkomstsluitende Partij op haar grondgebied en laat dergelijke investeringen toe in overeenstemming met haar wettelijke bepalingen.  
+Elke Overeenkomstsluitende Partij bevordert investeringen van investeerders van de andere Overeenkomstsluitende Partij op haar grondgebied en laat dergelijke investeringen toe in overeenstemming met haar wettelijke bepalingen. 
 
 ### Artikel  3  
 
@@ -44,7 +44,7 @@ a. uit hoofde van het lidmaatschap van eerstbedoelde Partij van een bestaande of
 
 b. op grond van een overeenkomst inzake de vermijding van dubbele belasting dan wel op basis van wederkerigheid met een derde Staat.     
 4.  Elke Overeenkomstsluitende Partij komt alle verplichtingen na die zij is aangegaan met betrekking tot investeringen van investeerders van de andere Overeenkomstsluitende Partij.   
-5.  Indien naast deze Overeenkomst de wettelijke bepalingen van één van beide Overeenkomstsluitende Partijen of verplichtingen krachtens internationaal recht, die thans bestaan of op een later tijdstip door de Overeenkomstsluitende Partijen worden aangegaan, algemene of bijzondere regelingen bevatten op grond waarvan investeringen door investeerders van de andere Overeenkomstsluitende Partij aanspraak kunnen maken op een behandeling die gunstiger is dan in deze Overeenkomst is voorzien, hebben dergelijke regelingen, in zoverre zij gunstiger zijn, voorrang boven deze Overeenkomst.   
+5.  Indien naast deze Overeenkomst de wettelijke bepalingen van één van beide Overeenkomstsluitende Partijen of verplichtingen krachtens internationaal recht, die thans bestaan of op een later tijdstip door de Overeenkomstsluitende Partijen worden aangegaan, algemene of bijzondere regelingen bevatten op grond waarvan investeringen door investeerders van de andere Overeenkomstsluitende Partij aanspraak kunnen maken op een behandeling die gunstiger is dan in deze Overeenkomst is voorzien, hebben dergelijke regelingen, in zoverre zij gunstiger zijn, voorrang boven deze Overeenkomst.  
 
 ### Artikel  4  
 
@@ -62,7 +62,7 @@ c. gelden voor terugbetaling van leningen;
 
 d. inkomsten uit arbeid van natuurlijke personen; en  
 
-e. de opbrengst van de verkoop of liquidatie van de investering.    
+e. de opbrengst van de verkoop of liquidatie van de investering.   
 
 ### Artikel  5  
 
@@ -72,15 +72,15 @@ a. de maatregelen worden genomen in het algemeen belang en met inachtneming van 
 
 b. de maatregelen zijn niet discriminatoir;  
 
-c. de maatregelen gaan vergezeld van een regeling voor de betaling van een billijke schadeloosstelling. Deze schadeloosstelling dient de werkelijke waarde van de getroffen investeringen te zijn en dient, wil zij doeltreffend zijn voor de gerechtigden, zonder onnodige vertraging te worden betaald en te kunnen worden overgemaakt naar het door de betrokken gerechtigden aangewezen land en in een door de gerechtigden aanvaarde vrij inwisselbare valuta.    
+c. de maatregelen gaan vergezeld van een regeling voor de betaling van een billijke schadeloosstelling. Deze schadeloosstelling dient de werkelijke waarde van de getroffen investeringen te zijn en dient, wil zij doeltreffend zijn voor de gerechtigden, zonder onnodige vertraging te worden betaald en te kunnen worden overgemaakt naar het door de betrokken gerechtigden aangewezen land en in een door de gerechtigden aanvaarde vrij inwisselbare valuta.   
 
 ### Artikel  6  
 
-Aan investeerders van de ene Overeenkomstsluitende Partij die verliezen lijden met betrekking tot hun investeringen op het grondgebied van de andere Overeenkomstsluitende Partij wegens oorlog of een ander gewapend conflict, een nationale noodtoestand, burgerlijke ongeregeldheden of andere uitzonderlijke situaties wordt door de laatstgenoemde Overeenkomstsluitende Partij wat restitutie, schadevergoeding, schadeloosstelling of een andere regeling betreft, geen minder gunstige behandeling toegekend dan die welke die Overeenkomstsluitende Partij toekent aan haar eigen investeerders of aan investeerders van een derde Staat, naar gelang van wat het gunstigst is voor de betrokken investeerders.  
+Aan investeerders van de ene Overeenkomstsluitende Partij die verliezen lijden met betrekking tot hun investeringen op het grondgebied van de andere Overeenkomstsluitende Partij wegens oorlog of een ander gewapend conflict, een nationale noodtoestand, burgerlijke ongeregeldheden of andere uitzonderlijke situaties wordt door de laatstgenoemde Overeenkomstsluitende Partij wat restitutie, schadevergoeding, schadeloosstelling of een andere regeling betreft, geen minder gunstige behandeling toegekend dan die welke die Overeenkomstsluitende Partij toekent aan haar eigen investeerders of aan investeerders van een derde Staat, naar gelang van wat het gunstigst is voor de betrokken investeerders. 
 
 ### Artikel  7  
 
-Indien de investeringen van een investeerder van de ene Overeenkomstsluitende Partij krachtens een bij wet ingesteld stelsel verzekerd zijn tegen niet-commerciële risico's, wordt de subrogatie van de verzekeraar of de herverzekeraar in de rechten van de genoemde investeerder, ingevolge de voorwaarden van deze verzekering, door de andere Overeenkomstsluitende Partij erkend.  
+Indien de investeringen van een investeerder van de ene Overeenkomstsluitende Partij krachtens een bij wet ingesteld stelsel verzekerd zijn tegen niet-commerciële risico's, wordt de subrogatie van de verzekeraar of de herverzekeraar in de rechten van de genoemde investeerder, ingevolge de voorwaarden van deze verzekering, door de andere Overeenkomstsluitende Partij erkend. 
 
 ### Artikel  8  
 
@@ -98,37 +98,37 @@ Indien de investeringen van een investeerder van de ene Overeenkomstsluitende Pa
 - de bepalingen van bijzondere overeenkomsten betreffende de investering;  
 
 - de algemene beginselen van het internationale recht.     
-7.  Het scheidsgerecht neemt zijn beslissing met een meerderheid van stemmen; deze beslissing is onherroepelijk en bindend voor de partijen bij het geschil.   
+7.  Het scheidsgerecht neemt zijn beslissing met een meerderheid van stemmen; deze beslissing is onherroepelijk en bindend voor de partijen bij het geschil.  
 
 ### Artikel  9  
 
-Elk der Overeenkomstsluitende Partijen kan de andere Partij voorstellen overleg te plegen inzake iedere aangelegenheid betreffende de uitlegging of toepassing van de Overeenkomst. De andere Partij neemt dit overleg in welwillende overweging en biedt daartoe passende gelegenheid.  
+Elk der Overeenkomstsluitende Partijen kan de andere Partij voorstellen overleg te plegen inzake iedere aangelegenheid betreffende de uitlegging of toepassing van de Overeenkomst. De andere Partij neemt dit overleg in welwillende overweging en biedt daartoe passende gelegenheid. 
 
 ### Artikel  10  
 
 1.  Geschillen tussen de Overeenkomstsluitende Partijen betreffende de uitlegging of toepassing van deze Overeenkomst worden zo mogelijk in der minne geschikt.   
-2.  Indien een geschil tussen de Overeenkomstsluitende Partijen niet op deze wijze kan worden geregeld, wordt het op verzoek van een der Overeenkomstsluitende Partijen voorgelegd aan een scheidsgerecht.   
+2.   Indien een geschil tussen de Overeenkomstsluitende Partijen niet op deze wijze kan worden geregeld, wordt het op verzoek van een der Overeenkomstsluitende Partijen voorgelegd aan een scheidsgerecht.   
 3.  Zulk een scheidsgerecht wordt in elk afzonderlijk geval op de volgende wijze samengesteld. Binnen twee maanden na ontvangst van het verzoek om arbitrage benoemt elke Overeenkomstsluitende Partij één lid van het scheidsgerecht. Deze twee leden kiezen dan een onderdaan van een derde Staat die wordt benoemd tot Voorzitter van het scheidsgerecht. De Voorzitter wordt benoemd binnen twee maanden na de datum van benoeming van de andere twee leden.   
 4.  Indien de noodzakelijke benoemingen niet zijn verricht binnen de in het derde lid van dit artikel genoemde termijnen, kan elk der Overeenkomstsluitende Partijen de President van het Internationale Gerechtshof verzoeken de noodzakelijke benoemingen te verrichten. Indien de President onderdaan is van een der Overeenkomstsluitende Partijen of indien hij anderszins verhinderd is deze functie uit te oefenen, wordt de Vice-President verzocht de noodzakelijke benoemingen te verrichten. Indien de Vice-President onderdaan is van een der Overeenkomstsluitende Partijen of indien ook hij verhinderd is deze functie uit te oefenen, wordt het lid van het Internationale Gerechtshof dat het hoogst in anciënniteit is en geen onderdaan is van een der Overeenkomstsluitende Partijen verzocht de noodzakelijke benoemingen te verrichten.   
 5.  Het scheidsgerecht stelt zijn eigen procedure vast. De beslissing van het scheidsgerecht is onherroepelijk en bindend voor beide Overeenkomstsluitende Partijen.   
 6.  Alvorens een beslissing te nemen kan het scheidsgerecht in elke stand van het geding een minnelijke schikking van het geschil aan de Partijen voorstellen.   
-7.  Het scheidsgerecht beslist op basis van deze Overeenkomst en andere van belang zijnde overeenkomsten tussen de twee Overeenkomstsluitende Partijen, de algemene beginselen van het internationale recht alsmede de algemene rechtsregels die het scheidsgerecht toepasselijk acht. De voorgaande bepalingen doen geen afbreuk aan de bevoegdheid van het scheidsgerecht aan om in het geschil een uitspraak ex aequo et bono te doen indien de partijen daarmede instemmen. <sup> 1)  [Red: Het woord „aan” dient hier te worden geschrapt.]  </sup>   
-8.  Elke Overeenkomstsluitende Partij draagt de kosten van haar vertegenwoordiging in de scheidsrechterlijke procedure; de kosten van de Voorzitter en de resterende kosten worden in gelijke delen door de Overeenkomstsluitende Partijen gedragen. Het scheidsgerecht kan in zijn beslissing evenwel bevelen dat een der beide Overeenkomstsluitende Partijen een groter aandeel in de kosten dient te dragen en deze uitspraak is onherroepelijk en bindend voor beide Overeenkomstsluitende Partijen.   
+7.   Het scheidsgerecht beslist op basis van deze Overeenkomst en andere van belang zijnde overeenkomsten tussen de twee Overeenkomstsluitende Partijen, de algemene beginselen van het internationale recht alsmede de algemene rechtsregels die het scheidsgerecht toepasselijk acht. De voorgaande bepalingen doen geen afbreuk aan de bevoegdheid van het scheidsgerecht aan<sup> 1)  [Red: Het woord „aan” dient hier te worden geschrapt.] </sup>om in het geschil een uitspraak ex aequo et bono te doen indien de partijen daarmede instemmen.   
+8.  Elke Overeenkomstsluitende Partij draagt de kosten van haar vertegenwoordiging in de scheidsrechterlijke procedure; de kosten van de Voorzitter en de resterende kosten worden in gelijke delen door de Overeenkomstsluitende Partijen gedragen. Het scheidsgerecht kan in zijn beslissing evenwel bevelen dat een der beide Overeenkomstsluitende Partijen een groter aandeel in de kosten dient te dragen en deze uitspraak is onherroepelijk en bindend voor beide Overeenkomstsluitende Partijen.  
 
 ### Artikel  11  
 
-Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst van toepassing op het deel van het Rijk in Europa, de Nederlandse Antillen en Aruba, tenzij in de mededeling voorzien in artikel 13, eerste lid, anders wordt bepaald.  
+Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst van toepassing op het deel van het Rijk in Europa, de Nederlandse Antillen en Aruba, tenzij in de mededeling voorzien in artikel 13, eerste lid, anders wordt bepaald. 
 
 ### Artikel  12  
 
-De bepalingen van deze Overeenkomst zijn van de datum van inwerkingtreding daarvan tevens van toepassing op investeringen gedaan na 1 januari 1950.  
+De bepalingen van deze Overeenkomst zijn van de datum van inwerkingtreding daarvan tevens van toepassing op investeringen gedaan na 1 januari 1950. 
 
 ### Artikel  13  
 
 1.  Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand, volgend op de datum waarop de Overeenkomstsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan de in hun onderscheiden landen hiertoe constitutioneel vereiste procedures is voldaan, en zij blijft van kracht gedurende een tijdvak van tien jaar.   
 2.  Tenzij door één van beide Overeenkomstsluitende Partijen tenminste zes maanden voor de datum van het verstrijken van de geldigheidsduur mededeling van beëindiging is gedaan, wordt deze Overeenkomst telkens stilzwijgend verlengd voor een tijdvak van tien jaar, waarbij elke Overeenkomstsluitende Partij zich het recht voorbehoudt de Overeenkomst te beëindigen met inachtneming van een opzegtermijn van ten minste zes maanden voor de datum van het verstrijken van de lopende termijn van geldigheid.   
 3.  Ten aanzien van investeringen die zijn gedaan voor de datum van beëindiging van deze Overeenkomst, blijven de voorgaande artikelen van kracht gedurende een tijdvak van vijftien jaar vanaf die datum.   
-4.  Met inachtneming van de in het tweede lid van dit artikel genoemde termijn is de Regering van het Koninkrijk der Nederlanden gerechtigd de toepassing van deze Overeenkomst ten aanzien van een deel van het Koninkrijk afzonderlijk te beëindigen.   
+4.  Met inachtneming van de in het tweede lid van dit artikel genoemde termijn is de Regering van het Koninkrijk der Nederlanden gerechtigd de toepassing van deze Overeenkomst ten aanzien van een deel van het Koninkrijk afzonderlijk te beëindigen.  
 
 TEN BLIJKE WAARVAN de ondertekenende vertegenwoordigers, daartoe naar behoren gemachtigd, deze Overeenkomst hebben ondertekend. GEDAAN in tweevoud te Praag op de 29e april 1991 in de Engelse, de Nederlandse en de Tsjechische taal, zijnde de drie teksten gelijkelijk authentiek. In geval van verschil in uitlegging is de Engelse tekst doorslaggevend.  *Voor de Regering van het Koninkrijk der Nederlanden,*  (w.g.) Y. VAN ROOY (w.g.) H. J. HEINEMANN  *Voor de Regering van de Tsjechische en Slowaakse Federatieve Republiek,*  (w.g.) JOZEF BAKŠAY  
 
@@ -154,25 +154,25 @@ By written consultation made on 30 October 2001, the Czech Republic requested th
 
 ####On the issue of the purpose and context of the Agreement
 
-Both delegations agree that the purpose of the Agreement is to protect investments of investors of one Contracting Party in the territory of the other Contracting Party. The Agreement creates rights and obligations for the Contracting Parties and gives rights to investors in respect of their investments. They agree that the IPPA is applicable to investments of investors made after 1 January 1950 from the moment an investor of one Contracting Party acquires an investment in the territory of the other Contracting Party. The IPPA protects investments of investors who are either natural persons, having the nationality of one of the Contracting Parties in accordance with its law, or legal persons constituted under the law of one of the Contracting Parties. The investments covered by the IPPA are invested either directly or through an investor of a third State. Investors and investments not falling within these categories are not protected by the IPPA. Investments can be new investments (greenfield investments) or existing investments acquired by an investor.  
+Both delegations agree that the purpose of the Agreement is to protect investments of investors of one Contracting Party in the territory of the other Contracting Party. The Agreement creates rights and obligations for the Contracting Parties and gives rights to investors in respect of their investments. They agree that the IPPA is applicable to investments of investors made after 1 January 1950 from the moment an investor of one Contracting Party acquires an investment in the territory of the other Contracting Party. The IPPA protects investments of investors who are either natural persons, having the nationality of one of the Contracting Parties in accordance with its law, or legal persons constituted under the law of one of the Contracting Parties. The investments covered by the IPPA are invested either directly or through an investor of a third State. Investors and investments not falling within these categories are not protected by the IPPA. Investments can be new investments (greenfield investments) or existing investments acquired by an investor. 
 
 ### 2  
 
 ####On the issue of investment disputes and interpretation of Article 8.6 of the Agreement
 
-The delegations agree that the arbitral tribunal shall decide on the basis of the law. When making its decision, the arbitral shall take into account, in particular, though not exlusively, the four sources of law set out in Article 8.6. The arbitral tribunal must therefore take into account as far as they are relevant to the dispute the law in force of the Contracting Party concerned and the other sources of law set out in Article 8.6. To the extent that there is a conflict between national law and international law, the arbitral tribunal shall apply international law.  
+The delegations agree that the arbitral tribunal shall decide on the basis of the law. When making its decision, the arbitral shall take into account, in particular, though not exlusively, the four sources of law set out in Article 8.6. The arbitral tribunal must therefore take into account as far as they are relevant to the dispute the law in force of the Contracting Party concerned and the other sources of law set out in Article 8.6. To the extent that there is a conflict between national law and international law, the arbitral tribunal shall apply international law. 
 
 ### 3  
 
 ####On the issue of the assignment of claims arising under the Agreement
 
-The delegations agree that each investor that qualifies under the IPPA is entitled to the protection of the IPPA from the time the investment is acquired by that investor. Investors are free to assign their investments protected by the IPPA. A claim which the first investor has under the IPPA may pass to a second qualifying investor if that claim has been transferred to the second investor either expressly or impliedly by operation of the law applicable to the transfer and the claim so transferred will be available to the second investor on the same basis as it was available to the first investor. If the first investor’s claim does not so pass to the second investor, the first investor may still be able to make the claim.  
+The delegations agree that each investor that qualifies under the IPPA is entitled to the protection of the IPPA from the time the investment is acquired by that investor. Investors are free to assign their investments protected by the IPPA. A claim which the first investor has under the IPPA may pass to a second qualifying investor if that claim has been transferred to the second investor either expressly or impliedly by operation of the law applicable to the transfer and the claim so transferred will be available to the second investor on the same basis as it was available to the first investor. If the first investor’s claim does not so pass to the second investor, the first investor may still be able to make the claim. 
 
 ### 4  
 
 ####On the issue of the application of the Agreement where another IPPA is invoked
 
-The two delegations agree that, although it might be undesirable that investors submit the same subject matter to different arbitral tribunals under different Investment Protection Agreements, the Czech – Dutch investment Agreement does not deal with this situation. If the Contracting Parties wish to address this issue further, it could be dealt with either by future amendment of the IPPA or within the framework of a multilateral investment protection agreement, taking into account the complexity of the matter and the various situations which may occur. The delegation of the Netherlands believes that neither written, nor unwritten international law at present deals with this question. The Czech delegation indicated that there are rules available in international law, based on fundamental principles, which deal with the question referred to. The delegations, however, agreed that the consultations do not provide the context to resolve the issue. On the issue of different tribunals dealing with supposedly identical cases, the Netherlands delegation believes that it cannot be maintained that there are always identical cases when a legal dispute is submitted to international arbitration under different Investment Protection Treaties and/or by different investors. The provisions of Investment Protection Treaties may differ and/or the claimant(s) may differ. Claims of different legal entities, even though they may be controlled by the same economic entity, are not necessarily the same claims and difference in legal personality has been recognised by tribunals (see, e.g., the ICJ Barcelona traction case). For instance, subsidiaries can operate rather independently from the parent company. The Netherlands delegation points out that an arbitral tribunal decides on its own jurisdiction. The Netherlands added that within the framework of the World Trade Organisation (WTO) new negotiations on a multilateral investment agreement are foreseen and may deal with this matter, but it may take some time before a result may be accomplished.  
+The two delegations agree that, although it might be undesirable that investors submit the same subject matter to different arbitral tribunals under different Investment Protection Agreements, the Czech – Dutch investment Agreement does not deal with this situation. If the Contracting Parties wish to address this issue further, it could be dealt with either by future amendment of the IPPA or within the framework of a multilateral investment protection agreement, taking into account the complexity of the matter and the various situations which may occur. The delegation of the Netherlands believes that neither written, nor unwritten international law at present deals with this question. The Czech delegation indicated that there are rules available in international law, based on fundamental principles, which deal with the question referred to. The delegations, however, agreed that the consultations do not provide the context to resolve the issue. On the issue of different tribunals dealing with supposedly identical cases, the Netherlands delegation believes that it cannot be maintained that there are always identical cases when a legal dispute is submitted to international arbitration under different Investment Protection Treaties and/or by different investors. The provisions of Investment Protection Treaties may differ and/or the claimant(s) may differ. Claims of different legal entities, even though they may be controlled by the same economic entity, are not necessarily the same claims and difference in legal personality has been recognised by tribunals (see, e.g., the ICJ Barcelona traction case). For instance, subsidiaries can operate rather independently from the parent company. The Netherlands delegation points out that an arbitral tribunal decides on its own jurisdiction. The Netherlands added that within the framework of the World Trade Organisation (WTO) new negotiations on a multilateral investment agreement are foreseen and may deal with this matter, but it may take some time before a result may be accomplished. 
 
 The Hague, 17 June, 2002 For the delegation of the Kingdom of the Netherlands: PETER D.U. DEN BOER Ministry of Economic Affairs Prague, 1 July 2002 For the delegation of the Czech Republic: VACLAV ROMBALD Ministry of Finance  
 
