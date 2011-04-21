@@ -14,23 +14,23 @@ Partijen Waterschap Rivierenland, gevestigd te Tiel, ten deze krachtens artikel 
 
 ### Artikel  1  
 
-Wijzigt de Overeenkomst tussen het Duitse Deichverband "Kleve-Landesgrenze" en het Nederlandse Polderdistrict "Maas en Waal" over de waterafvoer uit het gemeenschappelijke stroomgebied naar het gemaal te Nijmegen; Kranenburg, 20 september 1972.   
+Wijzigt de Overeenkomst tussen het Duitse Deichverband "Kleve-Landesgrenze" en het Nederlandse Polderdistrict "Maas en Waal" over de waterafvoer uit het gemeenschappelijke stroomgebied naar het gemaal te Nijmegen; Kranenburg, 20 september 1972. 
 
 ### Artikel  2  
 
-De in artikel 1 van deze wijzigingsovereenkomst bedoelde wijziging van het kostenaandeel van het Deichverband dient te worden herberekend vanaf 1 januari 1998. Dat is de datum dat de polder Erlecom rechtstreeks is gaan lozen op het gemeenschappelijk stroomgebied, hetgeen het Nederlands aandeel in de gemeenschappelijke waterafvoer heeft doen toenemen met 7%.  
+De in artikel 1 van deze wijzigingsovereenkomst bedoelde wijziging van het kostenaandeel van het Deichverband dient te worden herberekend vanaf 1 januari 1998. Dat is de datum dat de polder Erlecom rechtstreeks is gaan lozen op het gemeenschappelijk stroomgebied, hetgeen het Nederlands aandeel in de gemeenschappelijke waterafvoer heeft doen toenemen met 7%. 
 
 ### Artikel  3  
 
-Wijzigt de Overeenkomst tussen het Duitse Deichverband "Kleve-Landesgrenze" en het Nederlandse Polderdistrict "Maas en Waal" over de waterafvoer uit het gemeenschappelijke stroomgebied naar het gemaal te Nijmegen; Kranenburg, 20 september 1972.   
+Wijzigt de Overeenkomst tussen het Duitse Deichverband "Kleve-Landesgrenze" en het Nederlandse Polderdistrict "Maas en Waal" over de waterafvoer uit het gemeenschappelijke stroomgebied naar het gemaal te Nijmegen; Kranenburg, 20 september 1972.
 
 ### Artikel  4  
 
-Verrekening van het verschil tussen het oorspronkelijke kostenaandeel van het Deichverband van 60% en het nieuwe kostenaandeel van 53% over de periode tussen 1 januari 1998 en 31 december 2009 heeft inmiddels plaatsgevonden. Met de ondertekening van deze overeenkomst wordt afgezien van verdere verrekeningen.  
+Verrekening van het verschil tussen het oorspronkelijke kostenaandeel van het Deichverband van 60% en het nieuwe kostenaandeel van 53% over de periode tussen 1 januari 1998 en 31 december 2009 heeft inmiddels plaatsgevonden. Met de ondertekening van deze overeenkomst wordt afgezien van verdere verrekeningen. 
 
 ### Artikel  5  
 
-Deze wijziging van de op 20 september 1972 gesloten [overeenkomst](../../../../../../../../../../../../verdrag/overeenkomst/tussen/het/duitse/deichverband/kleve-landesgrenze/en/het/etc/BWBV0003825/README.md) treedt in werking op 1 januari 2010. Voor het overige blijft de op 20 september 1972 gesloten overeenkomst ongewijzigd.  
+Deze wijziging van de op 20 september 1972 gesloten [overeenkomst](../../../../../../../../../../../../verdrag/overeenkomst/tussen/het/duitse/deichverband/kleve-landesgrenze/en/het/etc/BWBV0003825/README.md) treedt in werking op 1 januari 2010. Voor het overige blijft de op 20 september 1972 gesloten overeenkomst ongewijzigd. 
 
-Aldus in viervoud opgemaakt en ondertekend; in de Duitse en Nederlandse taal, zijn de beide teksten gelijkelijk gezaghebbend. Nijmegen 18 augustus 2010,  *Waterschap Rivierenland*  G. N. KOK Dijkgraaf  *Deichverband „Kleve-Landesgrenze”*  J. MEISTERS Verbandsdeichgraf  
+Aldus in viervoud opgemaakt en ondertekend; in de Duitse en Nederlandse taal, zijn de beide teksten gelijkelijk gezaghebbend. Nijmegen 18 augustus 2010, *Waterschap Rivierenland* G. N. KOK Dijkgraaf  *Deichverband „Kleve-Landesgrenze”* J. MEISTERS Verbandsdeichgraf  
 

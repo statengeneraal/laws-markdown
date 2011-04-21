@@ -8,7 +8,7 @@ Het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Ko
 
 ### Artikel  1  
 
-De Republiek Bulgarije en Roemenië (hierna „de nieuwe lidstaten” genoemd) worden partij bij de Overeenkomst inzake handel, ontwikkeling en samenwerking en dienen, op dezelfde wijze als de andere lidstaten van de Gemeenschap, de teksten van de overeenkomst, alsmede de daaraan gehechte bijlagen, protocollen en verklaringen goed te keuren en er nota van te nemen.  
+De Republiek Bulgarije en Roemenië (hierna „de nieuwe lidstaten” genoemd) worden partij bij de Overeenkomst inzake handel, ontwikkeling en samenwerking en dienen, op dezelfde wijze als de andere lidstaten van de Gemeenschap, de teksten van de overeenkomst, alsmede de daaraan gehechte bijlagen, protocollen en verklaringen goed te keuren en er nota van te nemen. 
 
 ### HOOFDSTUK  I  
 
@@ -16,13 +16,13 @@ De Republiek Bulgarije en Roemenië (hierna „de nieuwe lidstaten” genoemd) w
 
 ####Talen en aantal originelen
 
-Wijzigt de Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds; Tshwane (Pretoria), 11-10-1999   
+Wijzigt de Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds; Tshwane (Pretoria), 11-10-1999 
 
 ### Artikel  3  
 
 ####Oorsprongsregels
 
-wijzigt de Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds; Tshwane (Pretoria), 11-10-1999   
+wijzigt de Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds; Tshwane (Pretoria), 11-10-1999 
 
 ### HOOFDSTUK  II  
 
@@ -33,7 +33,7 @@ wijzigt de Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Eu
 ####Goederen die onderweg zijn of zich in voorlopige opslag bevinden
 
 1.  De bepalingen van de Overeenkomst inzake handel, ontwikkeling en samenwerking worden toegepast op goederen die uit Zuid-Afrika naar een van de nieuwe lidstaten of uit een van de nieuwe lidstaten naar Zuid-Afrika worden geëxporteerd, die voldoen aan de bepalingen van Protocol nr. 1 bij de Overeenkomst en die op de datum van toetreding ofwel onderweg zijn of in tijdelijke opslag zijn in een douane-entrepot of een vrije zone in Zuid-Afrika of in die nieuwe lidstaat.   
-2.  In dergelijke gevallen wordt preferentiële behandeling verleend, mits binnen vier maanden na de datum van toetreding bij de douaneautoriteiten van het land van invoer een bewijs van oorsprong wordt ingediend dat achteraf is afgegeven door de douaneautoriteiten van het land van uitvoer.   
+2.  In dergelijke gevallen wordt preferentiële behandeling verleend, mits binnen vier maanden na de datum van toetreding bij de douaneautoriteiten van het land van invoer een bewijs van oorsprong wordt ingediend dat achteraf is afgegeven door de douaneautoriteiten van het land van uitvoer.  
 
 ### HOOFDSTUK  III  
 
@@ -41,21 +41,21 @@ wijzigt de Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Eu
 
 ### Artikel  5  
 
-Dit protocol vormt een integrerend onderdeel van de Overeenkomst inzake handel, ontwikkeling en samenwerking.  
+Dit protocol vormt een integrerend onderdeel van de Overeenkomst inzake handel, ontwikkeling en samenwerking. 
 
 ### Artikel  6  
 
 1.  Dit protocol wordt door de Gemeenschap, door de Raad van de Europese Unie namens de lidstaten en door de Republiek Zuid-Afrika volgens hun eigen procedures goedgekeurd.   
-2.  De partijen geven elkaar kennis van de voltooiing van de in lid 1 bedoelde procedures. De akten van goedkeuring worden neergelegd bij het Secretariaat-generaal van de Raad van de Europese Unie.   
+2.  De partijen geven elkaar kennis van de voltooiing van de in lid 1 bedoelde procedures. De akten van goedkeuring worden neergelegd bij het Secretariaat-generaal van de Raad van de Europese Unie.  
 
 ### Artikel  7  
 
 1.  Dit protocol treedt in werking op de eerste dag van de eerste maand volgende op de datum waarop de laatste akte van goedkeuring is neergelegd.   
-2.  Dit protocol is voorlopig van toepassing met ingang van 1 januari 2007.   
+2.  Dit protocol is voorlopig van toepassing met ingang van 1 januari 2007.  
 
 ### Artikel  8  
 
-Dit protocol is in twee exemplaren opgesteld in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal en in de officiële talen van Zuid-Afrika andere dan het Engels, namelijk het Sepedi, het Sesotho, het Setswana, het siSwati, het Tshivenda, het Xitsonga, het Afrikaans, het isiNdebele, het isiXhosa en het isiZulu, waarbij al deze teksten gelijkelijk authentiek zijn.  
+Dit protocol is in twee exemplaren opgesteld in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal en in de officiële talen van Zuid-Afrika andere dan het Engels, namelijk het Sepedi, het Sesotho, het Setswana, het siSwati, het Tshivenda, het Xitsonga, het Afrikaans, het isiNdebele, het isiXhosa en het isiZulu, waarbij al deze teksten gelijkelijk authentiek zijn. 
 
 GEDAAN te Pretoria, de tiende oktober tweeduizend zeven.  
 

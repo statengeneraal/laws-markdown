@@ -11,19 +11,19 @@ Het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen en de Ve
 ####Doelstelling en Reikwijdte van dit Verdrag
 
 1.  De bevoegde autoriteiten van de Verdragsluitende Partijen verlenen elkaar bijstand door middel van de uitwisseling van inlichtingen die naar verwachting van belang zullen zijn voor de toepassing en handhaving van de nationale wetten van de Verdragsluitende Partijen die betrekking hebben op de belastingen waarop dit Verdrag van toepassing is. Deze inlichtingen omvatten informatie die naar verwachting van belang zal zijn voor de bepaling, vaststelling en inning van deze belastingen, de invordering en tenuitvoerlegging van belastingvorderingen of het onderzoek naar of de vervolging van belastingzaken. Inlichtingen worden uitgewisseld in overeenstemming met de bepalingen van dit Verdrag en worden vertrouwelijk behandeld op de wijze voorzien in artikel 8. De uit hoofde van de wetgeving of administratieve praktijk van de aangezochte Partij aan personen toegekende rechten en waarborgen blijven van toepassing voor zover zij de doeltreffende uitwisseling van inlichtingen niet onnodig verhinderen of vertragen.   
-2.  Wat het Koninkrijk der Nederlanden betreft is dit Verdrag alleen van toepassing op de Nederlandse Antillen.   
+2.  Wat het Koninkrijk der Nederlanden betreft is dit Verdrag alleen van toepassing op de Nederlandse Antillen.  
 
 ### Artikel  2  
 
 ####Rechtsmacht
 
-Een aangezochte Partij is niet verplicht inlichtingen te verstrekken die noch in het bezit zijn van haar autoriteiten, noch in het bezit of onder de macht van personen die zich binnen haar territoriale rechtsgebied bevinden.  
+Een aangezochte Partij is niet verplicht inlichtingen te verstrekken die noch in het bezit zijn van haar autoriteiten, noch in het bezit of onder de macht van personen die zich binnen haar territoriale rechtsgebied bevinden. 
 
 ### Artikel  3  
 
 ####Interpretatie
 
-Bij de interpretatie van de bepalingen van dit Verdrag die identiek zijn aan de bepalingen van het modelverdrag tot uitwisseling van informatie betreffende belastingaangelegenheden van 2002 van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO-modelverdrag) kunnen de bevoegde autoriteiten de commentaren bij dat model in aanmerking nemen.  
+Bij de interpretatie van de bepalingen van dit Verdrag die identiek zijn aan de bepalingen van het modelverdrag tot uitwisseling van informatie betreffende belastingaangelegenheden van 2002 van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO-modelverdrag) kunnen de bevoegde autoriteiten de commentaren bij dat model in aanmerking nemen. 
 
 ### Artikel  4  
 
@@ -51,7 +51,7 @@ b) in Mexico:
 
 – de belasting toegevoegde waarde (*el impuesto al valor agregado*).       
 2.  Dit Verdrag is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van ondertekening van dit Verdrag naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de Verdragsluitende Partijen doen elkaar mededeling van alle wezenlijke wijzigingen die zijn aangebracht in de belastingheffing en daarmee samenhangende maatregelen ten behoeve van het verzamelen van inlichtingen waarop dit Verdrag van toepassing is.   
-3.  Dit Verdrag is niet van toepassing op belastingen die worden geheven door staten, gemeenten of andere staatkundige onderdelen van een Verdragsluitende Partij.   
+3.  Dit Verdrag is niet van toepassing op belastingen die worden geheven door staten, gemeenten of andere staatkundige onderdelen van een Verdragsluitende Partij.  
 
 ### Artikel  5  
 
@@ -92,7 +92,7 @@ o) wordt verstaan onder de uitdrukking „inlichtingen” alle feiten, verklarin
 p) wordt verstaan onder de uitdrukking „strafwetten” alle strafrechtelijke bepalingen die krachtens de nationale wetgeving als zodanig worden aangeduid, ongeacht of zij zijn opgenomen in belastingwetten, het wetboek van strafrecht of andere wetten;  
 
 q) wordt verstaan onder de uitdrukking „fiscale delicten”, belastingzaken waarbij sprake is van opzettelijke gedragingen die vervolgd kunnen worden krachtens de strafwetten van de verzoekende Partij.     
-2.  Voor de toepassing van dit Verdrag door een Verdragsluitende Partij op enig moment heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat tijdstip heeft volgens de wetgeving van die Partij, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die Partij prevaleert boven een betekenis die volgens andere wetgeving van die Partij aan die uitdrukking wordt gegeven.   
+2.  Voor de toepassing van dit Verdrag door een Verdragsluitende Partij op enig moment heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat tijdstip heeft volgens de wetgeving van die Partij, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die Partij prevaleert boven een betekenis die volgens andere wetgeving van die Partij aan die uitdrukking wordt gegeven.  
 
 ### Artikel  6  
 
@@ -125,7 +125,7 @@ g) een verklaring dat de verzoekende Partij op haar eigen grondgebied alles in h
 
 a) bevestigt de bevoegde autoriteit van de aangezochte Partij de ontvangst van een verzoek schriftelijk aan de bevoegde autoriteit van de verzoekende Partij en stelt zij de bevoegde autoriteit van de verzoekende Partij binnen 60 dagen na ontvangst van het verzoek in kennis van eventuele gebreken in het verzoek; en  
 
-b) indien de bevoegde autoriteit van de aangezochte Partij niet in staat is de inlichtingen binnen 90 dagen na ontvangst van het verzoek te verkrijgen en te verstrekken, onder meer omdat zij belemmeringen ondervindt bij het verstrekken van de inlichtingen dan wel weigert de inlichtingen te verstrekken, stelt zij de verzoekende Partij daarvan onverwijld op de hoogte, onder vermelding van de oorzaken van de onmogelijkheid, de aard van de belemmeringen of de redenen voor haar weigering.     
+b) indien de bevoegde autoriteit van de aangezochte Partij niet in staat is de inlichtingen binnen 90 dagen na ontvangst van het verzoek te verkrijgen en te verstrekken, onder meer omdat zij belemmeringen ondervindt bij het verstrekken van de inlichtingen dan wel weigert de inlichtingen te verstrekken, stelt zij de verzoekende Partij daarvan onverwijld op de hoogte, onder vermelding van de oorzaken van de onmogelijkheid, de aard van de belemmeringen of de redenen voor haar weigering.    
 
 ### Artikel  7  
 
@@ -140,25 +140,25 @@ a) plaatsvindt ten behoeve van het verzoeken om of verstrekken van juridisch adv
 b) plaatsvindt ten behoeve van bestaande of mogelijk in te stellen gerechtelijke procedures.     
 4.  De aangezochte Partij kan een verzoek om inlichtingen afwijzen indien openbaarmaking van de inlichtingen in strijd zou zijn met de openbare orde.   
 5.  Een verzoek om inlichtingen wordt niet geweigerd op grond van het feit dat de belastingvordering die aanleiding gaf tot het verzoek wordt betwist door de betaler van de belasting.   
-6.  De aangezochte Partij kan een verzoek om inlichtingen afwijzen indien de inlichtingen door de verzoekende Partij worden gevraagd om een bepaling van de belastingwetgeving van de verzoekende Partij ten uitvoer te leggen of te handhaven die, of een daarmee verband houdend vereiste dat, discriminatie inhoudt van een onderdaan van de aangezochte Partij ten opzichte van een onderdaan van de verzoekende Partij die zich in dezelfde omstandigheden bevindt.   
+6.  De aangezochte Partij kan een verzoek om inlichtingen afwijzen indien de inlichtingen door de verzoekende Partij worden gevraagd om een bepaling van de belastingwetgeving van de verzoekende Partij ten uitvoer te leggen of te handhaven die, of een daarmee verband houdend vereiste dat, discriminatie inhoudt van een onderdaan van de aangezochte Partij ten opzichte van een onderdaan van de verzoekende Partij die zich in dezelfde omstandigheden bevindt.  
 
 ### Artikel  8  
 
 ####Vertrouwelijkheid
 
-Alle uit hoofde van dit Verdrag door een Verdragsluitende Partij ontvangen inlichtingen worden vertrouwelijk behandeld en worden uitsluitend ter kennis gebracht van personen of autoriteiten (met inbegrip van rechterlijke instanties en administratieve lichamen) die onder de rechtsmacht van de desbetreffende Verdragsluitende Partij vallen en betrokken zijn bij de vaststelling of inning van, de tenuitvoerlegging of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de belastingen waarop dit Verdrag van toepassing is. Deze personen of autoriteiten mogen uitsluitend voor deze doeleinden van deze inlichtingen gebruikmaken. Zij mogen de inlichtingen bekendmaken in openbare rechtszittingen of in rechterlijke beslissingen. De inlichtingen mogen niet ter kennis worden gebracht van enige andere persoon, instelling, autoriteit of rechterlijke instantie zonder de uitdrukkelijke schriftelijke toestemming van de bevoegde autoriteit van de aangezochte Partij.  
+Alle uit hoofde van dit Verdrag door een Verdragsluitende Partij ontvangen inlichtingen worden vertrouwelijk behandeld en worden uitsluitend ter kennis gebracht van personen of autoriteiten (met inbegrip van rechterlijke instanties en administratieve lichamen) die onder de rechtsmacht van de desbetreffende Verdragsluitende Partij vallen en betrokken zijn bij de vaststelling of inning van, de tenuitvoerlegging of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de belastingen waarop dit Verdrag van toepassing is. Deze personen of autoriteiten mogen uitsluitend voor deze doeleinden van deze inlichtingen gebruikmaken. Zij mogen de inlichtingen bekendmaken in openbare rechtszittingen of in rechterlijke beslissingen. De inlichtingen mogen niet ter kennis worden gebracht van enige andere persoon, instelling, autoriteit of rechterlijke instantie zonder de uitdrukkelijke schriftelijke toestemming van de bevoegde autoriteit van de aangezochte Partij. 
 
 ### Artikel  9  
 
 ####Kosten
 
-Tenzij de bevoegde autoriteiten van de Verdragsluitende Partijen anders overeenkomen, worden gewone kosten gemaakt bij het verlenen van bijstand gedragen door de aangezochte Partij en worden buitengewone kosten gemaakt bij het verlenen van bijstand (met inbegrip van redelijke kosten voor het inschakelen van externe adviseurs in verband met een rechtsgeding of andere kosten) gedragen door de verzoekende Partij. Op verzoek van een van de Verdragsluitende Partijen plegen de bevoegde autoriteiten van tijd tot tijd overleg met betrekking tot dit artikel en in het bijzonder de bevoegde autoriteit van de aangezochte Partij overlegt vooraf met de bevoegde autoriteit van de verzoekende Partij indien de kosten van het verschaffen van inlichtingen naar aanleiding van een specifiek verzoek naar verwachting aanmerkelijk zullen zijn.  
+Tenzij de bevoegde autoriteiten van de Verdragsluitende Partijen anders overeenkomen, worden gewone kosten gemaakt bij het verlenen van bijstand gedragen door de aangezochte Partij en worden buitengewone kosten gemaakt bij het verlenen van bijstand (met inbegrip van redelijke kosten voor het inschakelen van externe adviseurs in verband met een rechtsgeding of andere kosten) gedragen door de verzoekende Partij. Op verzoek van een van de Verdragsluitende Partijen plegen de bevoegde autoriteiten van tijd tot tijd overleg met betrekking tot dit artikel en in het bijzonder de bevoegde autoriteit van de aangezochte Partij overlegt vooraf met de bevoegde autoriteit van de verzoekende Partij indien de kosten van het verschaffen van inlichtingen naar aanleiding van een specifiek verzoek naar verwachting aanmerkelijk zullen zijn. 
 
 ### Artikel  10  
 
 ####Uitvoeringswetgeving
 
-De Verdragsluitende Partijen stellen alle wetgeving vast die noodzakelijk is om te voldoen aan en ter uitvoering van de bepalingen van dit Verdrag.  
+De Verdragsluitende Partijen stellen alle wetgeving vast die noodzakelijk is om te voldoen aan en ter uitvoering van de bepalingen van dit Verdrag. 
 
 ### Artikel  11  
 
@@ -167,7 +167,7 @@ De Verdragsluitende Partijen stellen alle wetgeving vast die noodzakelijk is om 
 1.  De bevoegde autoriteiten van de Verdragsluitende Partijen trachten moeilijkheden of twijfelpunten die mochten rijzen met betrekking tot de uitlegging of de toepassing van dit Verdrag gezamenlijk op te lossen.   
 2.  Naast de in het eerste lid bedoelde afspraken, kunnen de bevoegde autoriteiten van de Verdragsluitende Partijen in onderling overleg de krachtens artikel 6 te hanteren procedures vaststellen.   
 3.  De bevoegde autoriteiten van de Verdragsluitende Partijen kunnen zich rechtstreeks met elkaar in verbinding stellen voor de toepassing van dit artikel.   
-4.  De Verdragsluitende Partijen kunnen ook overeenstemming bereiken over andere vormen van geschillenregeling.   
+4.  De Verdragsluitende Partijen kunnen ook overeenstemming bereiken over andere vormen van geschillenregeling.  
 
 ### Artikel  12  
 
@@ -175,7 +175,7 @@ De Verdragsluitende Partijen stellen alle wetgeving vast die noodzakelijk is om 
 
 1.  De Verdragsluitende Partijen stellen elkaar langs diplomatieke weg er schriftelijk van in kennis dat aan de interne procedures van beide Verdragsluitende Partijen nodig voor de inwerkingtreding van dit Verdrag is voldaan.   
 2.  Dit Verdrag treedt in werking na een tijdvak van drie maanden na de datum van ontvangst van de laatste van de in het eerste lid bedoelde kennisgevingen.   
-3.  De bepalingen van dit Verdrag zijn van toepassing op inlichtingen die voorafgaand aan de inwerkingtreding van dit Verdrag zijn verstrekt.   
+3.  De bepalingen van dit Verdrag zijn van toepassing op inlichtingen die voorafgaand aan de inwerkingtreding van dit Verdrag zijn verstrekt.  
 
 ### Artikel  13  
 
@@ -183,7 +183,7 @@ De Verdragsluitende Partijen stellen alle wetgeving vast die noodzakelijk is om 
 
 1.  Dit Verdrag blijft van kracht totdat het door een Verdragsluitende Partij wordt beëindigd. Elk van de Verdragsluitende Partijen kan het Verdrag langs diplomatieke weg beëindigen door ten minste zes maanden voor het einde van enig kalenderjaar beginnend op of na het verstrijken van een tijdvak van twee jaar na de datum van inwerkingtreding van het Verdrag, schriftelijk kennis te geven van beëindiging.   
 2.  In dat geval houdt het Verdrag op 1 januari van het kalenderjaar eerstvolgend op het jaar waarin de kennisgeving is gedaan op van kracht te zijn.   
-3.  Niettegenstaande de beëindiging van dit Verdrag, blijven de Verdragsluitende Partijen gebonden door de bepalingen van artikel 8 ten aanzien van alle uit hoofde van dit Verdrag verkregen inlichtingen.   
+3.  Niettegenstaande de beëindiging van dit Verdrag, blijven de Verdragsluitende Partijen gebonden door de bepalingen van artikel 8 ten aanzien van alle uit hoofde van dit Verdrag verkregen inlichtingen.  
 
-TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend. GEDAAN te Mexico-Stad op eerste september tweeduizendnegen, in tweevoud in de Nederlandse, Spaanse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend. <sup> 1)  Hier is kennelijk het woord „de” weggevallen.  </sup>  *Voor het Koninkrijk der Nederlanden ten behoeve van de Nederlandse Antillen,*  ALEX D. ROSARIA Staatssecretaris van Financiën van de Nederlandse Antillen  *Voor de Verenigde Mexicaanse Staten,*  AGUSTÍN GUILLERMO CARSTENS CARSTENS Minister van Financiën en Overheidskrediet  
+TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend. GEDAAN te Mexico-Stad op<sup> 1) Hier is kennelijk het woord „de” weggevallen. </sup> eerste september tweeduizendnegen, in tweevoud in de Nederlandse, Spaanse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend. *Voor het Koninkrijk der Nederlanden ten behoeve van de Nederlandse Antillen,* ALEX D. ROSARIA Staatssecretaris van Financiën van de Nederlandse Antillen *Voor de Verenigde Mexicaanse Staten,* AGUSTÍN GUILLERMO CARSTENS CARSTENS Minister van Financiën en Overheidskrediet  
 

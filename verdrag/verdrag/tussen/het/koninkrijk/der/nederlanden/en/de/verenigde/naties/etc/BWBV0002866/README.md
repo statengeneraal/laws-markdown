@@ -61,19 +61,19 @@ v) “competent authorities” means national, provincial, municipal and other c
 
 w) “Vienna Convention” means the Vienna Convention on Diplomatic Relations of 18 April 1961;  
 
-x) “Rules of Procedure and Evidence” means the Rules of Procedure and Evidence of the Tribunal adopted in accordance with article 28 of the Statute.    
+x) “Rules of Procedure and Evidence” means the Rules of Procedure and Evidence of the Tribunal adopted in accordance with article 28 of the Statute.   
 
 ### Article  2  
 
 ####Purpose and scope of this Agreement
 
-This Agreement shall regulate matters relating to or arising out of the establishment and the proper functioning of the Tribunal in the host State. It shall, inter alia, create conditions conducive to the stability and independence of the Tribunal and facilitate its smooth and efficient functioning, including, in particular, its needs with regard to all persons required by the Tribunal to be present at its seat and with regard to the transfer of information, potential evidence and evidence into and out of the host State.  
+This Agreement shall regulate matters relating to or arising out of the establishment and the proper functioning of the Tribunal in the host State. It shall, inter alia, create conditions conducive to the stability and independence of the Tribunal and facilitate its smooth and efficient functioning, including, in particular, its needs with regard to all persons required by the Tribunal to be present at its seat and with regard to the transfer of information, potential evidence and evidence into and out of the host State. 
 
 ### Article  3  
 
 ####Seat of the Tribunal
 
-The Tribunal shall have its seat in the Netherlands.  
+The Tribunal shall have its seat in the Netherlands. 
 
 ### PART  II  
 
@@ -92,13 +92,13 @@ b) to acquire and dispose of movable and immovable property;
 c) to institute proceedings; and  
 
 d) to enter into agreements as may be necessary for the exercise of its functions and for the operation of the Tribunal in accordance with article 7, paragraph d, of the document annexed to Security Council resolution 1757 (2007).     
-2.  For the purpose of this article the Tribunal shall be represented by the Registrar.   
+2.  For the purpose of this article the Tribunal shall be represented by the Registrar.  
 
 ### Article  5  
 
 ####Privileges, immunities and facilities
 
-The Tribunal shall enjoy, in the territory of the host State, such privileges, immunities and facilities as are necessary for the fulfilment of its purposes.  
+The Tribunal shall enjoy, in the territory of the host State, such privileges, immunities and facilities as are necessary for the fulfilment of its purposes. 
 
 ### Article  6  
 
@@ -108,7 +108,7 @@ The Tribunal shall enjoy, in the territory of the host State, such privileges, i
 2.  The competent authorities shall not enter the premises to perform any official duty, except with the express consent, or at the request of the Registrar, or a staff member of the Tribunal designated by him or her. Judicial actions and the service or execution of legal process, including the seizure of private property, cannot be enforced on the premises except with the consent of and in accordance with conditions approved by the Registrar.   
 3.  In case of fire or other emergency requiring prompt protective action, or in the event that the competent authorities have reasonable cause to believe that such an emergency has occurred or is about to occur on the premises , the consent of the Registrar, or a staff member of the Tribunal designated by him or her, to any necessary entry into the premises shall be presumed if neither of them can be contacted in time.   
 4.  Subject to paragraphs 1, 2 and 3 of this article, the competent authorities shall take the necessary action to protect the premises against fire or other emergency.   
-5.  The Tribunal shall prevent its premises from being used as a refuge by persons who are avoiding arrest or the proper administration of justice under any law of the host State.   
+5.  The Tribunal shall prevent its premises from being used as a refuge by persons who are avoiding arrest or the proper administration of justice under any law of the host State.  
 
 ### Article  7  
 
@@ -118,7 +118,7 @@ The Tribunal shall enjoy, in the territory of the host State, such privileges, i
 2.  If so requested by the Registrar, the competent authorities shall, in consultation with the Registrar, to the extent it is deemed necessary by the competent authorities, provide adequate protection, including police protection, for the preservation of law and order on the premises or in the immediate vicinity thereof, and for the removal of persons therefrom.   
 3.  The competent authorities shall take all reasonable steps to ensure that the amenities of the premises are not prejudiced and that the purposes for which the premises are required are not obstructed by any use made of the land or buildings in the vicinity of the premises.   
 4.  The Tribunal shall take all reasonable steps to ensure that the amenities of the land in the vicinity of the premises are not prejudiced by any use made of the land or buildings in the premises.   
-5.  The Tribunal shall provide the competent authorities with all information relevant to the security and protection of the premises.   
+5.  The Tribunal shall provide the competent authorities with all information relevant to the security and protection of the premises.  
 
 ### Article  8  
 
@@ -130,7 +130,7 @@ The Tribunal shall enjoy, in the territory of the host State, such privileges, i
 4.  The Tribunal may expel or exclude persons from the premises for violation of its regulations and shall inform in advance the competent authorities of such measures.   
 5.  Subject to the regulations referred to in paragraph 3 of this article, and consistent with the laws and regulations of the host State, only staff authorized by the Registrar shall be allowed to carry arms on the premises.   
 6.  The Registrar shall notify the host State of the name and identity of staff authorized by the Registrar to carry arms on the premises, as well as the name, type, calibre and serial number of the arm or arms at his or her disposition.   
-7.  Any dispute between the Tribunal and the host State as to whether a regulation of the Tribunal come within the ambit of this article or as to whether a law or regulation of the host State is inconsistent with a regulation of the Tribunal under this article shall promptly be settled by the procedure set out in article 48 of this Agreement. Pending such settlement, the regulation of the Tribunal shall apply and the law or regulation of the host State shall be inapplicable on the premises to the extent that the Tribunal claims it to be inconsistent with its regulation.   
+7.  Any dispute between the Tribunal and the host State as to whether a regulation of the Tribunal come within the ambit of this article or as to whether a law or regulation of the host State is inconsistent with a regulation of the Tribunal under this article shall promptly be settled by the procedure set out in article 48 of this Agreement. Pending such settlement, the regulation of the Tribunal shall apply and the law or regulation of the host State shall be inapplicable on the premises to the extent that the Tribunal claims it to be inconsistent with its regulation.  
 
 ### Article  9  
 
@@ -140,13 +140,13 @@ The Tribunal shall enjoy, in the territory of the host State, such privileges, i
 2.  In cases where the services referred to in paragraph 1 of this article are made available to the Tribunal by the competent authorities, or where the prices thereof are under their control, the rates for such services shall not exceed the lowest comparable rates accorded to essential agencies and organs of the host State.   
 3.  In case of any interruption or threatened interruption of any such services, the Tribunal shall be accorded the priority given to essential agencies and organs of the host State, and the host State shall take steps accordingly to ensure that the work of the Tribunal is not prejudiced.   
 4.  Upon request of the competent authorities, the Registrar, or staff member of the Tribunal designated by him or her, shall make suitable arrangements to enable duly authorized representatives of the appropriate public services to inspect, repair, maintain, reconstruct and relocate utilities, conduits, mains and sewers on the premises under conditions which shall not unreasonably disturb the carrying out of the functions of the Tribunal.   
-5.  Underground constructions may be undertaken by the competent authorities on the premises only after consultation with the Registrar, or a staff member of the Tribunal designated by him or her, and under conditions which shall not disturb the carrying out of the functions of the Tribunal.   
+5.  Underground constructions may be undertaken by the competent authorities on the premises only after consultation with the Registrar, or a staff member of the Tribunal designated by him or her, and under conditions which shall not disturb the carrying out of the functions of the Tribunal.  
 
 ### Article  10  
 
 ####Flag, emblem and markings
 
-The Tribunal shall be entitled to display its flag, emblem and markings at its premises and on vehicles and other means of transportation used for official purposes.  
+The Tribunal shall be entitled to display its flag, emblem and markings at its premises and on vehicles and other means of transportation used for official purposes. 
 
 ### Article  11  
 
@@ -154,14 +154,14 @@ The Tribunal shall be entitled to display its flag, emblem and markings at its p
 
 1.  The Tribunal, its funds, assets and other property, wherever located and by whomsoever held, shall enjoy immunity from every form of legal process, except insofar as in any particular case the Tribunal has expressly waived its immunity. It is understood, however, that no waiver of immunity shall extend to any measure of execution.   
 2.  Funds, assets and other property of the Tribunal, wherever located and by whomsoever held, shall be immune from search, seizure, requisition, confiscation, expropriation and any other form of interference, whether by executive, administrative, judicial or legislative action.   
-3.  To the extent necessary to carry out the functions of the Tribunal, funds, assets and other property of the Tribunal, wherever located and by whomsoever held, shall be exempt from restrictions, regulations, control or moratoria of any nature.   
+3.  To the extent necessary to carry out the functions of the Tribunal, funds, assets and other property of the Tribunal, wherever located and by whomsoever held, shall be exempt from restrictions, regulations, control or moratoria of any nature.  
 
 ### Article  12  
 
 ####Inviolability of archives, documents and materials
 
 1.  The archives of the Tribunal, and all papers and documents in whatever form, and materials being sent to or from the Tribunal, held by the Tribunal or belonging to it, wherever located and by whomsoever held, shall be inviolable.   
-2.  The termination or absence of such inviolability shall not affect protective measures that the Tribunal may order with regard to documents and material made available to or used by the Tribunal.   
+2.  The termination or absence of such inviolability shall not affect protective measures that the Tribunal may order with regard to documents and material made available to or used by the Tribunal.  
 
 ### Article  13  
 
@@ -172,7 +172,7 @@ The Tribunal shall be entitled to display its flag, emblem and markings at its p
 3.  The Tribunal shall have the right to operate all appropriate means of communication, including electronic means of communication, and shall have the right to use codes or cipher for its official communications and correspondence. The official communications and correspondence of the Tribunal shall be inviolable.   
 4.  The Tribunal shall have the right to dispatch and receive correspondence and other materials or communications by courier or in sealed bags, which shall enjoy the same privileges, immunities and facilities as diplomatic couriers and bags.   
 5.  The Tribunal shall have the right to operate radio and other telecommunication equipment on any frequencies allocated to it by the host State in accordance with its national procedures. The host State shall endeavour to allocate to the Tribunal, to the extent possible, frequencies for which it has applied.   
-6.  For the fulfilment of its purposes and efficient discharge of its responsibilities, the Tribunal shall have the right to publish freely and without restrictions within the host State in conformity with this Agreement.   
+6.  For the fulfilment of its purposes and efficient discharge of its responsibilities, the Tribunal shall have the right to publish freely and without restrictions within the host State in conformity with this Agreement.  
 
 ### Article  14  
 
@@ -187,7 +187,7 @@ b) operate accounts in any currency;
 c) purchase, hold and use funds, securities and gold; and  
 
 d) transfer its funds, securities, gold and currencies to or from the host State, to or from any other country, or within the host State and convert any currency held by it in any other currency.     
-2.  The Tribunal shall enjoy treatment not less favourable than that accorded by the host State to any intergovernmental organization or diplomatic mission in respect of rates of exchange for its financial transactions.   
+2.  The Tribunal shall enjoy treatment not less favourable than that accorded by the host State to any intergovernmental organization or diplomatic mission in respect of rates of exchange for its financial transactions.  
 
 ### Article  15  
 
@@ -217,13 +217,13 @@ i) tax on mains water (belasting op leidingwater, BOL);
 j) any other taxes and duties of a substantially similar character as the taxes provided for in this paragraph, levied in the host State subsequent to the date of signature of this Agreement.     
 3.  The exemptions provided for in paragraph 2, subparagraphs d), e), f), g), h), i) and j) of this article may be granted by way of a refund. These exemptions shall be applied in accordance with the formal requirements of the host State. These requirements, however, shall not affect the general principles laid down in paragraph 2 of this article.   
 4.  Goods acquired or imported under the terms set out in paragraph 2 of this article shall not be sold, let out, given away or otherwise disposed of, except in accordance with conditions agreed upon with the host State.   
-5.  The Tribunal shall not claim exemption from taxes which are, in fact, no more than charges for public utility services provided at a fixed rate according to the amount of services rendered and which can be specifically identified, described and itemized.   
+5.  The Tribunal shall not claim exemption from taxes which are, in fact, no more than charges for public utility services provided at a fixed rate according to the amount of services rendered and which can be specifically identified, described and itemized.  
 
 ### Article  16  
 
 ####Exemption from import and export restrictions
 
-The Tribunal shall be exempted from all restrictions on imports and exports in respect of articles imported or exported by the Tribunal for its official use and in respect of its publications.  
+The Tribunal shall be exempted from all restrictions on imports and exports in respect of articles imported or exported by the Tribunal for its official use and in respect of its publications. 
 
 ### PART  III  
 
@@ -270,7 +270,7 @@ d) exemption from taxation on salaries, emoluments and allowances paid to them i
 e) for the purpose of their communications with the Tribunal the right to receive and send papers in whatever form;  
 
 f) the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State.     
-6.  Persons referred to in paragraph 6 of this article shall not be subjected by the host State to any measure which may affect the free and independent performance of their functions before the Tribunal.   
+6.  Persons referred to in paragraph 6 of this article shall not be subjected by the host State to any measure which may affect the free and independent performance of their functions before the Tribunal.  
 
 ### Article  18  
 
@@ -312,14 +312,14 @@ d) exemption from taxation on salaries, emoluments and allowances paid to them i
 e) for the purposes of their communications with the Tribunal the right to receive and send papers in whatever form;  
 
 f) the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State.     
-7.  Persons referred to in paragraph 6 of this article shall not be subjected by the host State to any measure which may affect the free and independent performance of their functions before the Tribunal.   
+7.  Persons referred to in paragraph 6 of this article shall not be subjected by the host State to any measure which may affect the free and independent performance of their functions before the Tribunal.  
 
 ### Article  19  
 
 ####Personnel recruited locally and not otherwise covered by this Agreement
 
 1.  Personnel recruited locally by the Tribunal and not otherwise covered by this Agreement shall be accorded immunity from legal process in respect of words spoken or written and all acts performed by them in their official capacity for the Tribunal. Such immunity shall continue to be accorded even after termination of their employment with the Tribunal. During their employment, they shall also be accorded such other facilities as may be necessary for the independent performance of their functions for the Tribunal.   
-2.  The terms and conditions of the employment of personnel recruited locally by the Tribunal and not otherwise covered by this Agreement shall be in accordance with the relevant resolutions, decisions, regulations, rules and policies of the Tribunal.   
+2.  The terms and conditions of the employment of personnel recruited locally by the Tribunal and not otherwise covered by this Agreement shall be in accordance with the relevant resolutions, decisions, regulations, rules and policies of the Tribunal.  
 
 ### Article  20  
 
@@ -328,7 +328,7 @@ f) the right to import free of duties and taxes, except payments for services, t
 1.  Members of the family forming part of the household of a judge, Prosecutor, Deputy Prosecutor, Registrar, Head of the Defence Office or member of the staff of the Tribunal shall be authorized to engage in gainful employment in the host State for the duration of the term of office of the judge, Prosecutor, Deputy Prosecutor, Registrar, Head of the Defence Office or member of the staff of the Tribunal concerned.   
 2.  Members of the family forming part of the household of a judge, Prosecutor, Deputy Prosecutor, Registrar, Head of the Defence Office or member of the staff of the Tribunal who obtain gainful employment shall enjoy no immunity from criminal, civil or administrative jurisdiction with respect to matters arising in the course of or in connection with such employment. However, any measures of execution shall be taken without infringing the inviolability of their person or of their residence, if they are entitled to such inviolability.   
 3.  In case of the insolvency of a person aged under 18 with respect to a claim arising out of gainful employment of that person, the immunity of the judges, the Prosecutor, the Deputy Prosecutor, the Registrar, the Head of the Defence Office and staff of whose family the person concerned is a member shall be waived for the purpose of settlement of the claim, in accordance with the provisions of article 28 of this Agreement.   
-4.  The employment referred to in paragraph 1 of this article shall be in accordance with the legislation of the host State, including fiscal and social security legislation.   
+4.  The employment referred to in paragraph 1 of this article shall be in accordance with the legislation of the host State, including fiscal and social security legislation.  
 
 ### Article  21  
 
@@ -353,7 +353,7 @@ e) the intern shall leave the host State within fifteen days after the end of th
 a) immunity from legal process in respect of words spoken or written and all acts performed by them in their official capacity for the Tribunal, which immunity shall continue to be accorded even after termination of the internship with the Tribunal for activities carried out on its behalf;  
 
 b) inviolability of all papers, documents in whatever form and materials relating to the performance of their functions for the Tribunal.     
-6.  The Tribunal shall notify the Ministry of Foreign Affairs of the final departure of the intern from the host State within eight days after such departure, and shall at the same time return the intern’s identity card. In exceptional circumstances the maximum period of one year mentioned in paragraph 2 of this article may be extended once by a maximum period of one year.   
+6.  The Tribunal shall notify the Ministry of Foreign Affairs of the final departure of the intern from the host State within eight days after such departure, and shall at the same time return the intern’s identity card. In exceptional circumstances the maximum period of one year mentioned in paragraph 2 of this article may be extended once by a maximum period of one year.  
 
 ### Article  22  
 
@@ -391,7 +391,7 @@ c) inviolability of all papers, documents in whatever form and materials relatin
 d) for the purpose of their communications with the Tribunal the right to receive and send papers in whatever form.     
 5.  Counsel shall not be subjected by the host State to any measure which may affect the free and independent performance of their functions before the Tribunal.   
 6.  The provisions of this article shall apply, mutatis mutandis, to persons assisting counsel in accordance with the Rules of Procedure and Evidence.   
-7.  This article shall be without prejudice to such disciplinary rules as may be applicable to counsel.   
+7.  This article shall be without prejudice to such disciplinary rules as may be applicable to counsel.  
 
 ### Article  23  
 
@@ -424,7 +424,7 @@ c) inviolability of all papers, documents in whatever form and materials relatin
 
 d) for the purpose of their communications with the Tribunal and with their counsel in connection with their appearance or testimony, the right to receive and send papers in whatever form.     
 5.  Witnesses shall not be subjected by the host State to any measure which may affect their appearance or testimony before the Tribunal.   
-6.  The Registrar shall take all necessary measures to arrange the immediate relocation to third States of witnesses who for security reasons cannot return to their home countries or their countries of permanent residence after testifying before the Tribunal.   
+6.  The Registrar shall take all necessary measures to arrange the immediate relocation to third States of witnesses who for security reasons cannot return to their home countries or their countries of permanent residence after testifying before the Tribunal.  
 
 ### Article  24  
 
@@ -444,7 +444,7 @@ e) exemption from immigration restrictions and alien registration when they trav
 2.  Victims shall be provided by the Registrar with a document certifying their participation in the proceedings of the Tribunal and specifying a time period for that participation. Such document shall be withdrawn prior to its expiry if the victim is no longer participating in the proceedings of the Tribunal, or if the victim's presence at the seat of the Tribunal is no longer required.   
 3.  The privileges, immunities and facilities referred to in paragraph 1 of this article shall cease to apply after fifteen consecutive days following the date on which the presence of the victim concerned is no longer required by the Tribunal, provided such victim had an opportunity to leave the host State during that period.   
 4.  Victims who are nationals or permanent residents of the host State shall enjoy no privileges, immunities and facilities, except, to the extent necessary for their appearance before the Tribunal, immunity from legal process in respect of words spoken or written and all acts performed by them in the course of their appearance before the Tribunal, which immunity shall continue to be accorded even after their appearance before the Tribunal.   
-5.  Victims shall not be subjected by the host State to any measure which may affect their appearance before the Tribunal.   
+5.  Victims shall not be subjected by the host State to any measure which may affect their appearance before the Tribunal.  
 
 ### Article  25  
 
@@ -480,7 +480,7 @@ b) immunity from legal process of every kind in respect of words spoken or writt
 c) inviolability of all papers, documents in whatever form and materials relating to the performance of their functions or their appearance or testimony;  
 
 d) for the purpose of their communications with the Tribunal the right to receive and send papers in whatever form.     
-5.  Experts shall not be subjected by the host State to any measure which may affect the independent performance of their functions for the Tribunal.   
+5.  Experts shall not be subjected by the host State to any measure which may affect the independent performance of their functions for the Tribunal.  
 
 ### Article  26  
 
@@ -490,13 +490,13 @@ d) for the purpose of their communications with the Tribunal the right to receiv
 2.  Persons referred to in this article shall be provided by the Registrar with a document certifying that their presence is required at the seat of the Tribunal and specifying a time period during which such presence is necessary. Such document shall be withdrawn prior to its expiry if their presence at the seat of the Tribunal is no longer required.   
 3.  The privileges, immunities and facilities referred to in paragraph 1 of this article shall cease to apply after fifteen consecutive days following the date on which the presence of such other person concerned is no longer required by the Tribunal, provided that such other person had an opportunity to leave the host State during that period.   
 4.  Persons referred to in this article who are nationals or permanent residents of the host State shall enjoy no privileges, immunities and facilities, except, to the extent necessary for their presence at the seat of the Tribunal, immunity from legal process in respect of words spoken or written and all acts performed by them in the course of their presence at the seat of the Tribunal. Such immunity shall continue to be accorded even after their presence at the seat of the Tribunal is no longer required.   
-5.  Persons referred to in this article shall not be subjected by the host State to any measures which may affect their presence before the Tribunal.   
+5.  Persons referred to in this article shall not be subjected by the host State to any measures which may affect their presence before the Tribunal.  
 
 ### Article  27  
 
 ####Representatives of States participating in meetings of the Management Committee
 
-Representatives of States participating in meetings of the Management Committee, shall while exercising their functions and during the journey to and from the host State, enjoy the privileges and immunities provided for in Article IV of the Convention on the Privileges and Immunities of the United Nations of 13 February 1946.  
+Representatives of States participating in meetings of the Management Committee, shall while exercising their functions and during the journey to and from the host State, enjoy the privileges and immunities provided for in Article IV of the Convention on the Privileges and Immunities of the United Nations of 13 February 1946. 
 
 ### PART  IV  
 
@@ -512,7 +512,7 @@ a) as concerns the judges, the Prosecutor, the Deputy Prosecutor, the Registrar,
 
 b) as concerns staff, personnel recruited locally, interns, and members of their family forming part of the household, with the Registrar;  
 
-c) as concerns witnesses, victims, experts, other persons required to be present at the seat of the Tribunal, counsel, persons assisting counsel, and members of their family forming part of the household, with the President.    
+c) as concerns witnesses, victims, experts, other persons required to be present at the seat of the Tribunal, counsel, persons assisting counsel, and members of their family forming part of the household, with the President.   
 
 ### PART  V  
 
@@ -528,7 +528,7 @@ c) as concerns witnesses, victims, experts, other persons required to be present
 
 1.  Whenever this Agreement imposes obligations on the competent authorities, the ultimate responsibility for the fulfilment of such obligations shall rest with the Government of the host State.   
 2.  The host State shall promptly inform the Tribunal of the office designated to serve as the official contact point and to be primarily responsible for all matters in relation to this Agreement, as well as of any subsequent changes in this regard.   
-3.  The Registrar, or a staff member of the Tribunal designated by him or her, shall serve as the official contact point for the host State, and shall be primarily responsible for all matters in relation to this Agreement. The host State shall be informed promptly about this designation and of any subsequent changes in this regard.   
+3.  The Registrar, or a staff member of the Tribunal designated by him or her, shall serve as the official contact point for the host State, and shall be primarily responsible for all matters in relation to this Agreement. The host State shall be informed promptly about this designation and of any subsequent changes in this regard.  
 
 ### Article  30  
 
@@ -539,7 +539,7 @@ c) as concerns witnesses, victims, experts, other persons required to be present
 3.  Without prejudice to their privileges, immunities and facilities, it is the duty of all persons enjoying such privileges, immunities and facilities to respect the laws and regulations of the host State. They also have the duty not to interfere in the internal affairs of the host State.   
 4.  The Tribunal shall cooperate with the competent authorities responsible for health, safety at work, electronic communications and fire prevention.   
 5.  The Tribunal shall observe all security directives as agreed with the host State, as well as all directives of the competent authorities responsible for fire prevention regulations.   
-6.  The host State will use its best efforts to notify the Tribunal of any proposed or enacted national laws and regulations having a direct impact on the privileges, immunities, facilities, rights and obligations of the Tribunal and the judges, the Prosecutor, the Deputy Prosecutor, the Registrar, the Head of the Defence Office and staff. The Tribunal shall have the right to provide observations as to proposed national laws and regulations.   
+6.  The host State will use its best efforts to notify the Tribunal of any proposed or enacted national laws and regulations having a direct impact on the privileges, immunities, facilities, rights and obligations of the Tribunal and the judges, the Prosecutor, the Deputy Prosecutor, the Registrar, the Head of the Defence Office and staff. The Tribunal shall have the right to provide observations as to proposed national laws and regulations.  
 
 ### Article  31  
 
@@ -553,14 +553,14 @@ b) the arrival and final departure date of members of the family forming part of
 
 c) the arrival and final departure date of private or domestic servants of persons referred to in subparagraph 1a) of this article and, where appropriate, the fact that they are leaving the employ of such persons.     
 2.  The host State shall issue to the judges, the Prosecutor, the Deputy Prosecutor, the Registrar, the Head of the Defence Office and staff and to members of their family forming part of their household and to private or domestic servants an identity card bearing the photograph of the holder. This card shall serve to identify the holder in relation to the competent authorities.   
-3.  At the final departure of the persons referred to in paragraph 2 of this article or when these persons have ceased to perform their functions, the identity card referred to in paragraph 2 of this article shall be promptly returned by the Tribunal to the Ministry of Foreign Affairs.   
+3.  At the final departure of the persons referred to in paragraph 2 of this article or when these persons have ceased to perform their functions, the identity card referred to in paragraph 2 of this article shall be promptly returned by the Tribunal to the Ministry of Foreign Affairs.  
 
 ### Article  32  
 
 ####Social security regime
 
 1.  If the social security system of the Tribunal offers coverage comparable to the coverage under the legislation of the host State, the Tribunal and the judges, the Prosecutor, the Deputy Prosecutor, the Registrar, the Head of the Defence Office and staff to whom the aforementioned scheme applies shall be exempt from social security provisions of the host State. Consequently, they shall not be covered against the risks described in the social security provisions of the host State. This exemption applies to them, unless they take up gainful activity in the host State.   
-2.  Paragraph 1 of this article shall apply, mutatis mutandis, to members of the family forming part of the household of the persons referred to in paragraph 1, unless they are engaged in gainful employment in the host State, or are self-employed, or receive social security benefits from the host State.   
+2.  Paragraph 1 of this article shall apply, mutatis mutandis, to members of the family forming part of the household of the persons referred to in paragraph 1, unless they are engaged in gainful employment in the host State, or are self-employed, or receive social security benefits from the host State.  
 
 ### SECTION  2:  
 
@@ -572,7 +572,7 @@ c) the arrival and final departure date of private or domestic servants of perso
 
 1.  The judges, the Prosecutor, the Deputy Prosecutor, the Registrar, the Head of the Defence Office, staff, counsel and persons assisting counsel, as notified as such by the Registrar to the host State, shall have the right of unimpeded entry into, exit from and movement within the host State including unimpeded access to the premises.   
 2.  Visas, where required, shall be granted free of charge and as promptly as possible.   
-3.  Applications for visas where required from members of the family forming part of the household of the persons referred to in paragraph 1 of this article shall be processed by the host State as promptly as possible and granted free of charge.   
+3.  Applications for visas where required from members of the family forming part of the household of the persons referred to in paragraph 1 of this article shall be processed by the host State as promptly as possible and granted free of charge.  
 
 ### Article  34  
 
@@ -581,7 +581,7 @@ c) the arrival and final departure date of private or domestic servants of perso
 1.  All persons referred to in articles 21, 23, 24, 25 and 26 of this Agreement, as notified as such by the Registrar to the host State, shall have the right of unimpeded entry into, exit from and, subject to paragraph 3 of this article, movement within the host State, as appropriate and for the purposes of the Tribunal.   
 2.  Visas, where required, shall be granted free of charge and as promptly as possible. The same facilities shall be accorded to persons accompanying witnesses and victims, who have been notified as such by the Registrar to the host State.   
 3.  The host State may attach such conditionsor restrictions to the visa as may be necessary to prevent violations of its public order or to protect the safety of the person concerned.   
-4.  Before applying paragraph 3 of this article, the host State will seek observations from the Tribunal.   
+4.  Before applying paragraph 3 of this article, the host State will seek observations from the Tribunal.  
 
 ### Article  35  
 
@@ -596,21 +596,21 @@ b) an alert has been issued against them for the purpose of refusing entry; or
 
 c) they must be considered a threat to public order, national security or the international relations of any of the Contracting Parties to the Convention implementing the Schengen Agreement of 14 June 1985 between the Governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the Gradual Abolition of Checks at their Common Borders.     
 3.  The host State may attach such conditions or restrictions to the visa as may be necessary to prevent violations of its public order or to protect the safety of the person concerned.   
-4.  Before applying paragraph 2 or 3 of this article, the host State will seek observations from the Tribunal.   
+4.  Before applying paragraph 2 or 3 of this article, the host State will seek observations from the Tribunal.  
 
 ### Article  36  
 
 ####Laissez-passer
 
-The host State shall recognize and accept the United Nations laissez-passer as a valid travel document.  
+The host State shall recognize and accept the United Nations laissez-passer as a valid travel document. 
 
 ### Article  37  
 
 ####Driving licence
 
-During their period of employment, the judges, the Prosecutor, the Deputy Prosecutor, the Registrar, the Head of the Defence Office and staff , members of their family forming part of their household and their private or domestic servants shall be allowed to obtain from the host State a driving licence on presentation of their valid foreign driving licence or to continue to drive using their own valid foreign driving licence, provided the holder is in possession of an identity card issued by the host State in accordance with article 31of this Agreement.  
+During their period of employment, the judges, the Prosecutor, the Deputy Prosecutor, the Registrar, the Head of the Defence Office and staff , members of their family forming part of their household and their private or domestic servants shall be allowed to obtain from the host State a driving licence on presentation of their valid foreign driving licence or to continue to drive using their own valid foreign driving licence, provided the holder is in possession of an identity card issued by the host State in accordance with article 31of this Agreement. 
 
-### SECTION  3:  
+### SECTION   3:  
 
 ####SECURITY, OPERATIONAL ASSISTANCE
 
@@ -620,7 +620,7 @@ During their period of employment, the judges, the Prosecutor, the Deputy Prosec
 
 1.  Without prejudice to their privileges, immunities and facilities, the competent authorities shall take effective and adequate action which may be required to ensure the security, safety and protection of persons referred to in this Agreement, indispensable for the proper functioning of the Tribunal, free from interference of any kind.   
 2.  The Tribunal shall cooperate with the competent authorities to ensure that all persons referred to in this Agreement observe the directives necessary for their security and safety, as given to them by the competent authorities.   
-3.  Without prejudice to their privileges, immunities and facilities, it is the duty of all persons referred to in this Agreement to observe the directives necessary for their security and safety, as given to them by the competent authorities.   
+3.  Without prejudice to their privileges, immunities and facilities, it is the duty of all persons referred to in this Agreement to observe the directives necessary for their security and safety, as given to them by the competent authorities.  
 
 ### Article  39  
 
@@ -638,21 +638,21 @@ b) the impossibility, despite best efforts, to make adequate security arrangemen
 
 c) the existence of a threat to public order and security in the host State.     
 6.  A person in custody shall be transported directly and without impediment to the destination specified in paragraphs 1 and 2 of this article or to any other destination as requested by the Tribunal under paragraph 3 of this article.   
-7.  The Tribunal and the host State shall, as appropriate, make practical arrangements for the transport of persons in custody in accordance with this article.   
+7.  The Tribunal and the host State shall, as appropriate, make practical arrangements for the transport of persons in custody in accordance with this article.  
 
 ### Article  40  
 
 ####Transport of persons appearing before the Tribunal on a basis other than a warrant of arrest
 
 1.  The provisions of article 39 of this Agreement shall apply, mutatis mutandis, to the transport of persons appearing before the Tribunal pursuant to such orders other than a warrant for arrest.   
-2.  If the Tribunal issues any order other than a warrant of arrest in order to secure the appearance of a person before the Tribunal, the host State reserves the right to take any measures necessary to protect the public order and national security.   
+2.  If the Tribunal issues any order other than a warrant of arrest in order to secure the appearance of a person before the Tribunal, the host State reserves the right to take any measures necessary to protect the public order and national security.  
 
 ### Article  41  
 
 ####Cooperation in detention matters
 
 1.  The host State shall cooperate with the Tribunal to facilitate the detention of persons and to allow the Tribunal to perform its functions within its detention centre.   
-2.  Where the presence of a person in custody is required for the purpose of giving testimony or other assistance to the Tribunal and where, for security reasons, such a person cannot be maintained in custody in the detention centre of the Tribunal, the Tribunal and the host State shall consult and, where necessary, make arrangements to transport the person to a prison facility or other place made available by the host State.   
+2.  Where the presence of a person in custody is required for the purpose of giving testimony or other assistance to the Tribunal and where, for security reasons, such a person cannot be maintained in custody in the detention centre of the Tribunal, the Tribunal and the host State shall consult and, where necessary, make arrangements to transport the person to a prison facility or other place made available by the host State.  
 
 ### Article  42  
 
@@ -660,7 +660,7 @@ c) the existence of a threat to public order and security in the host State.
 
 1.  The host State shall facilitate the transfer of persons granted provisional release into a State other than the host State.   
 2.  The host State shall facilitate the re-entry into the host State of persons granted provisional release and their short-term stay in the host State for any purpose related to proceedings before the Tribunal.   
-3.  The Tribunal and the host State shall make practical arrangements as to the implementation of this article.   
+3.  The Tribunal and the host State shall make practical arrangements as to the implementation of this article.  
 
 ### Article  43  
 
@@ -668,7 +668,7 @@ c) the existence of a threat to public order and security in the host State.
 
 1.  Where a person surrendered to the Tribunal is released from the custody of the Tribunal because the Tribunal does not have jurisdiction, the case is inadmissible, the charges have not been confirmed, the person has been acquitted at trial or on appeal, or for any other reason, the Tribunal shall, as soon as possible, make such arrangements as it considers appropriate for the transfer of the person, taking into account the views of the person, to a State which is obliged to receive him or her, to another State which agrees to receive him or her, or to a State which has requested his or her extradition with the consent of the original surrendering State.   
 2.  The provisions of article 39 of this Agreement shall apply, mutatis mutandis, to the transport of persons referred to in this article within the host State.   
-3.  The Tribunal shall not release a person referred to in this article on the territory of the host State except with the latter’s consent.   
+3.  The Tribunal shall not release a person referred to in this article on the territory of the host State except with the latter’s consent.  
 
 ### Article  44  
 
@@ -676,14 +676,14 @@ c) the existence of a threat to public order and security in the host State.
 
 1.  Imprisonment shall be served in a State designated by the President of the Special Tribunal from a list of States that have indicated their willingness to accept persons convicted by the Tribunal.   
 2.  The President shall begin the process of designating a State of enforcement as soon as possible, based on the list referred to above, with a view to the immediate transfer of the convicted person for the purpose of serving a sentence of imprisonment imposed by the Tribunal.   
-3.  The host State shall be under no obligation to let persons convicted by the Tribunal serve their sentence of imprisonment in a prison facility on its territory.   
+3.  The host State shall be under no obligation to let persons convicted by the Tribunal serve their sentence of imprisonment in a prison facility on its territory.  
 
 ### Article  45  
 
 ####Limitation to the exercise of jurisdiction by the host State
 
 1.  The host State shall not exercise its jurisdiction or proceed with a request for assistance or extradition from another State with regard to persons surrendered to the Tribunal, persons granted provisional release or persons who appear before the Tribunal voluntarily or pursuant to a summons, for any acts, omissions or convictions prior to the surrender, the transfer or the appearance before the Tribunal except as may be provided for in the Rules of Procedure and Evidence.   
-2.  Where a person referred to in paragraph 1 of this article is, for any reason, released from the custody of the Tribunal without conviction, that paragraph shall continue to apply for a period of fifteen consecutive days from the date of his or her release.   
+2.  Where a person referred to in paragraph 1 of this article is, for any reason, released from the custody of the Tribunal without conviction, that paragraph shall continue to apply for a period of fifteen consecutive days from the date of his or her release.  
 
 ### PART  VI  
 
@@ -693,7 +693,7 @@ c) the existence of a threat to public order and security in the host State.
 
 ####Supplementary arrangements and agreements
 
-The Tribunal and the host State may, for the purpose of implementing this Agreement or of addressing matters not foreseen in this Agreement, make other supplementary agreements and arrangements as appropriate.  
+The Tribunal and the host State may, for the purpose of implementing this Agreement or of addressing matters not foreseen in this Agreement, make other supplementary agreements and arrangements as appropriate. 
 
 ### Article  47  
 
@@ -703,7 +703,7 @@ The Tribunal shall make provisions for appropriate modes of settlement of:
 
 a) disputes arising out of contracts and other disputes of a private-law character to which the Tribunal is a party;  
 
-b) disputes involving any person referred to in this Agreement who, by reason of his or her official position or function in connection with the Tribunal, enjoys immunity, if such immunity has not been waived.    
+b) disputes involving any person referred to in this Agreement who, by reason of his or her official position or function in connection with the Tribunal, enjoys immunity, if such immunity has not been waived.   
 
 ### Article  48  
 
@@ -713,13 +713,13 @@ b) disputes involving any person referred to in this Agreement who, by reason of
 2.  If the difference is not settled in accordance with paragraph 1 of this article within three months following a written request by one of the Parties to the difference, it shall, at the request of either party, be referred to an arbitral tribunal according to the procedure set forth in paragraphs 3 to 5 of this article.   
 3.  The arbitral tribunal shall be composed of three members: one to be chosen by each party and the third, who shall be the chairman of the arbitral tribunal, to be chosen by the other two members. If either party has failed to make its appointment of a member of the arbitral tribunal within two months of the appointment of a member by the other party, that other party may invite the President of the International Court of Justice to make such appointment. Should the first two members fail to agree upon the appointment of the chairman of the tribunal within two months following their appointment, either party may invite the President of the International Court of Justice to choose the chairman.   
 4.  Unless the Tribunal and the host State otherwise agree, the arbitral tribunal shall determine its own procedure and the expenses shall be borne by the Tribunal and the host State as assessed by the arbitral tribunal.   
-5.  The arbitral tribunal, which shall decide by a majority of votes, shall reach a decision on the difference on the basis of the provisions of this Agreement and subsequent arrangements or agreements and the applicable rules of international law. The decision of the arbitral tribunal shall be final and binding on the Tribunal and the host State.   
+5.  The arbitral tribunal, which shall decide by a majority of votes, shall reach a decision on the difference on the basis of the provisions of this Agreement and subsequent arrangements or agreements and the applicable rules of international law. The decision of the arbitral tribunal shall be final and binding on the Tribunal and the host State.  
 
 ### Article  49  
 
 ####Application
 
-With respect to the host State, this Agreement shall apply to the part of the Kingdom of the Netherlands in Europe only.  
+With respect to the host State, this Agreement shall apply to the part of the Kingdom of the Netherlands in Europe only. 
 
 ### Article  50  
 
@@ -728,14 +728,14 @@ With respect to the host State, this Agreement shall apply to the part of the Ki
 1.  This Agreement may be amended by mutual consent of the Parties.   
 2.  This Agreement shall cease to be in force if the seat of the Tribunal is removed from the territory of the host State or if the Tribunal is dissolved, except for such provisions as may be applicable in connection with the orderly termination of the operations of the Tribunal at its seat in the host State and the disposition of its property therein, as well as provisions granting immunity from legal process of every kind in respect of words spoken or written or acts done in an official capacity.   
 3.  The provisions relating to the inviolability of the funds, assets, archives and documents of the Tribunal, shall survive termination of this Agreement.   
-4.  The host State shall be notified in a timely manner with respect to the dissolution of the Tribunal.   
+4.  The host State shall be notified in a timely manner with respect to the dissolution of the Tribunal.  
 
 ### Article  51  
 
 ####Entry into force
 
 1.  The provisions of this Agreement shall be applied provisionally as from the date of signature.   
-2.  This Agreement shall enter into force on the first day of the second month after both Parties have notified each other in writing that the legal requirements for entry into force have been complied with.   
+2.  This Agreement shall enter into force on the first day of the second month after both Parties have notified each other in writing that the legal requirements for entry into force have been complied with.  
 
 IN WITNESS WHEREOF, the undersigned, duly authorized thereto, have signed this Agreement. DONE at New York on 21 December 2007 in duplicate, in the English language. For the Kingdom of the Netherlands, FRANK MAJOOR For the United Nations, LARRY D. JOHNSON  
 
@@ -757,7 +757,7 @@ e) other persons who, in exceptional cases or for humanitarian reasons, the Trib
 
 UNITED NATIONS HEADQUARTERS New York, 21 December 2007 Excellency, I have the honour to acknowledge receipt of your letter of 21 December 2007, in which you set out your Government’s understandings regarding the joint interpretation of certain provisions of the Agreement between the United Nations and the Kingdom of the Netherlands concerning the Headquarters of the Special Tribunal for Lebanon. In accordance with your request, I wish to confirm, on behalf of the United Nations, that the understandings reflected in your letter confirm with those of the United Nations. Please accept, Excellency, the assurances of my highest consideration. Yours sincerely, LARRY D. JOHNSON Assistent Secretary-General in charge of the Office of Legal Affairs H.E. Ambassador Frank Majoor Permanent Representative of the Kingdom of the Netherlands to the United Nations New York   
 
-PERMANENT REPRESENTATION OF THE KINGDOM OF THE NETHERLANDS TO THE UNITED NATIONS The Ambassador New York, 21 December 2007 NYV/2007/3766 On the occasion of the signing of the Agreement between the Kingdom of the Netherlands and the United Nations concerning the Headquarters of the Special Tribunal for Lebanon, the Government of the Netherlands would like to refer the Exchange of Letters concerning the understandings regarding the joint interpretation of certain provisions in that Agreement. The Government of the Netherlands would like to clarify that it will interpret the notion of ‘ *spouses* of the judges, the Prosecutor, the Deputy Prosecutor, the Registrar, the Head of the Defence Office and staff’ to include ‘registered partners’ recognized as such under the laws and regulations of the Netherlands. Please accept, Excellency, the assurances of my highest consideration, FRANK MAJOOR H.E. Mr. Nicolas Michel Under-Secretary-General The Legal Counsel United Nations Headquarters Room 3427A New York, NY 10017   
+PERMANENT REPRESENTATION OF THE KINGDOM OF THE NETHERLANDS TO THE UNITED NATIONS  The AmbassadorNew York, 21 December 2007 NYV/2007/3766 On the occasion of the signing of the Agreement between the Kingdom of the Netherlands and the United Nations concerning the Headquarters of the Special Tribunal for Lebanon, the Government of the Netherlands would like to refer the Exchange of Letters concerning the understandings regarding the joint interpretation of certain provisions in that Agreement. The Government of the Netherlands would like to clarify that it will interpret the notion of ‘*spouses* of the judges, the Prosecutor, the Deputy Prosecutor, the Registrar, the Head of the Defence Office and staff’ to include ‘registered partners’ recognized as such under the laws and regulations of the Netherlands. Please accept, Excellency, the assurances of my highest consideration, FRANK MAJOOR H.E. Mr. Nicolas Michel Under-Secretary-General The Legal Counsel United Nations Headquarters Room 3427A New York, NY 10017   
 
 ####Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciaal Tribunaal voor Libanon
 
@@ -818,7 +818,7 @@ v. „bevoegde autoriteiten”, de nationale, provinciale, gemeentelijke en over
 
 w. „Verdrag van Wenen”, het Verdrag van Wenen inzake Diplomatiek Verkeer van 18 april 1961;  
 
-x. „Reglement van proces- en bewijsvoering’’, het in overeenstemming met artikel 28 van het Statuut aangenomen Reglement van proces- en bewijsvoering van het Tribunaal.    
+x. „Reglement van proces- en bewijsvoering’’, het in overeenstemming met artikel 28 van het Statuut aangenomen Reglement van proces- en bewijsvoering van het Tribunaal.   
 
 ### Artikel  2  
 
@@ -830,7 +830,7 @@ Dit Verdrag regelt alle zaken die verband houden met of voortvloeien uit de inst
 
 ####Zetel van het Tribunaal
 
-Het Tribunaal heeft zijn zetel in Nederland.  
+Het Tribunaal heeft zijn zetel in Nederland. 
 
 ### DEEL  II  
 
@@ -849,7 +849,7 @@ b. roerende en onroerende zaken te verwerven en te vervreemden;
 c. in rechte op te treden; en  
 
 d. overeenkomsten aan te gaan die noodzakelijk kunnen zijn voor het vervullen van zijn taken en voor het functioneren van het Tribunaal in overeenstemming met artikel 7, onderdeel d, van het document dat als bijlage bij resolutie 1757 (2007) van de Veiligheidsraad is gevoegd.     
-2.  Voor de toepassing van dit artikel wordt het Tribunaal vertegenwoordigd door de Griffier.   
+2.  Voor de toepassing van dit artikel wordt het Tribunaal vertegenwoordigd door de Griffier.  
 
 ### Artikel  5  
 
@@ -865,7 +865,7 @@ Het Tribunaal geniet op het grondgebied van het Gastland de voorrechten, immunit
 2.  De bevoegde autoriteiten betreden het terrein niet voor het vervullen van een officiële taak tenzij dit geschiedt met de uitdrukkelijke instemming of op verzoek van de Griffier, of van een door hem of haar aangewezen lid van het personeel van het Tribunaal. Op het terrein vinden geen gerechtelijke acties en geen betekening of tenuitvoerlegging ter zake van rechtsvervolging plaats, met inbegrip van de inbeslagneming van privé-eigendommen, behoudens met instemming van de Griffier en in overeenstemming met de door hem of haar goedgekeurde voorwaarden.   
 3.  In het geval van brand of andere noodgevallen die onmiddellijk beschermend optreden vereisen, of indien de bevoegde autoriteiten in redelijkheid kunnen aannemen dat een dergelijk noodgeval zich heeft voorgedaan of op het punt staat zich voor te doen op het terrein, wordt de instemming van de Griffier, of van een door hem of haar aangewezen lid van het personeel van het Tribunaal, voor de noodzakelijke toegang tot het terrein geacht te zijn gegeven indien geen van beiden op tijd kan worden bereikt.   
 4.  Onverminderd het bepaalde in het eerste, tweede en derde lid van dit artikel, nemen de bevoegde autoriteiten de nodige stappen om het terrein tegen brand of ander onheil te beveiligen.   
-5.  Het Tribunaal voorkomt dat zijn terrein gebruikt wordt als toevluchtsoord voor personen die arrestatie of berechting op grond van enige wet van het Gastland willen ontlopen.   
+5.  Het Tribunaal voorkomt dat zijn terrein gebruikt wordt als toevluchtsoord voor personen die arrestatie of berechting op grond van enige wet van het Gastland willen ontlopen.  
 
 ### Artikel  7  
 
@@ -875,7 +875,7 @@ Het Tribunaal geniet op het grondgebied van het Gastland de voorrechten, immunit
 2.  Indien de Griffier daarom verzoekt, voorzien de bevoegde autoriteiten, in overleg met de Griffier en voor zover de bevoegde autoriteiten dit noodzakelijk achten, in voldoende bescherming, met inbegrip van politiebescherming, voor de handhaving van de openbare orde op het terrein of in de onmiddellijke omgeving daarvan, en voor het verwijderen van personen van deze locatie.   
 3.  De bevoegde autoriteiten treffen alle redelijke maatregelen om te waarborgen dat het ongestoord gebruik van het terrein niet wordt belemmerd en dat het terrein kan worden gebruikt voor de doeleinden waarvoor het is bestemd zonder hinder door de wijze van gebruik van de percelen of gebouwen in de omgeving van het terrein.   
 4.  Het Tribunaal treft alle redelijke maatregelen om te waarborgen dat het ongestoord gebruik van de percelen in de omgeving van het terrein niet nadelig wordt beïnvloed door de wijze van gebruik van de percelen of gebouwen van het terrein.   
-5.  Het Tribunaal voorziet de bevoegde autoriteiten van alle informatie die relevant is voor de veiligheid en bescherming van het terrein.   
+5.  Het Tribunaal voorziet de bevoegde autoriteiten van alle informatie die relevant is voor de veiligheid en bescherming van het terrein.  
 
 ### Artikel  8  
 
@@ -887,7 +887,7 @@ Het Tribunaal geniet op het grondgebied van het Gastland de voorrechten, immunit
 4.  Het Tribunaal kan personen vanwege schending van zijn regels van het terrein verwijderen of de toegang ertoe ontzeggen en stelt de bevoegde autoriteiten vooraf van dergelijke maatregelen in kennis.   
 5.  Met inachtneming van de in het derde lid van dit artikel bedoelde regels en in overeenstemming met de wet- en regelgeving van het Gastland, is het uitsluitend leden van het personeel die daartoe door de Griffier gemachtigd zijn toegestaan wapens te dragen op het terrein.   
 6.  De Griffier stelt het Gastland in kennis van de naam en identiteit van elk lid van het personeel dat door de Griffier gemachtigd is een wapen te dragen op het terrein, alsmede van de naam, het type, kaliber en serienummer van het wapen of de wapens die hem of haar ter beschikking staan.   
-7.  Ieder geschil tussen het Tribunaal en het Gastland over de vraag of regels van het Tribunaal onder dit artikel vallen of over de vraag of wetten of regels van het Gastland onverenigbaar zijn met de regels van het Tribunaal uit hoofde van dit lid, wordt onverwijld beslecht volgens de in artikel 48 van dit Verdrag vervatte procedure. Zolang het geschil nog niet is beslecht, is de regel van het Tribunaal van toepassing en is de wet en/of regel van het Gastland op het terrein niet van toepassing voor zover het Tribunaal deze onverenigbaar met zijn regels acht.   
+7.  Ieder geschil tussen het Tribunaal en het Gastland over de vraag of regels van het Tribunaal onder dit artikel vallen of over de vraag of wetten of regels van het Gastland onverenigbaar zijn met de regels van het Tribunaal uit hoofde van dit lid, wordt onverwijld beslecht volgens de in artikel 48 van dit Verdrag vervatte procedure. Zolang het geschil nog niet is beslecht, is de regel van het Tribunaal van toepassing en is de wet en/of regel van het Gastland op het terrein niet van toepassing voor zover het Tribunaal deze onverenigbaar met zijn regels acht.  
 
 ### Artikel  9  
 
@@ -897,13 +897,13 @@ Het Tribunaal geniet op het grondgebied van het Gastland de voorrechten, immunit
 2.  Wanneer de openbare voorzieningen bedoeld in het eerste lid van dit artikel door de bevoegde autoriteiten aan het Tribunaal worden geleverd of de prijzen daarvan worden bepaald door deze autoriteiten, zijn de tarieven voor deze voorzieningen niet hoger dan de laagste vergelijkbare tarieven voor instellingen en organen van wezenlijk belang voor het Gastland.   
 3.  In het geval van onderbreking of dreiging van onderbreking van dergelijke voorzieningen zal aan het Tribunaal de voorrang worden gegeven die ook aan instellingen en organen van wezenlijk belang voor het Gastland worden gegeven, en het Gastland treft de daartoe benodigde maatregelen om te waarborgen dat de werkzaamheden van het Tribunaal niet worden belemmerd.   
 4.  De Griffier, of een door hem of haar aangewezen lid van het personeel van het Tribunaal, treft op verzoek van de bevoegde autoriteiten passende maatregelen om naar behoren gemachtigde vertegenwoordigers van de desbetreffende nutsbedrijven in staat te stellen op het terrein van het Tribunaal voorzieningen, leidingen, buizen en rioleringen te inspecteren, repareren, onderhouden, reconstrueren of te verplaatsen zonder de uitoefening van de taken van het Tribunaal onnodig te verstoren.   
-5.  Ondergrondse werkzaamheden op het terrein kunnen door de bevoegde autoriteiten alleen worden uitgevoerd na overleg met de Griffier of een door hem of haar aangewezen lid van het personeel van het Tribunaal en zonder de uitoefening van de taken van het Tribunaal te verstoren.   
+5.  Ondergrondse werkzaamheden op het terrein kunnen door de bevoegde autoriteiten alleen worden uitgevoerd na overleg met de Griffier of een door hem of haar aangewezen lid van het personeel van het Tribunaal en zonder de uitoefening van de taken van het Tribunaal te verstoren.  
 
 ### Artikel  10  
 
 ####Vlag, embleem en onderscheidingstekens
 
-Het Tribunaal is bevoegd zijn vlag, embleem en onderscheidingstekens te tonen op zijn terrein en op voertuigen en andere vervoermiddelen die voor officiële doeleinden worden gebruikt.  
+Het Tribunaal is bevoegd zijn vlag, embleem en onderscheidingstekens te tonen op zijn terrein en op voertuigen en andere vervoermiddelen die voor officiële doeleinden worden gebruikt. 
 
 ### Artikel  11  
 
@@ -911,14 +911,14 @@ Het Tribunaal is bevoegd zijn vlag, embleem en onderscheidingstekens te tonen op
 
 1.  Het Tribunaal en zijn fondsen, bezittingen en overige eigendommen, ongeacht waar deze zich bevinden of wie deze onder zich heeft, zijn vrijgesteld van elke vorm van rechtsvervolging, behoudens voor zover het Tribunaal in een bijzonder geval uitdrukkelijk van zijn immuniteit afstand heeft gedaan, evenwel met dien verstande dat afstand van immuniteit zich nooit uitstrekt tot executiemaatregelen.   
 2.  Fondsen, bezittingen en overige eigendommen van het Tribunaal, ongeacht waar deze zich bevinden of wie deze onder zich heeft, zijn vrijgesteld van onderzoek, beslaglegging, vordering, confiscatie, onteigening en iedere andere vorm van ingrijpen, ongeacht of het optreden van uitvoerende, bestuursrechtelijke, rechterlijke of wetgevende aard is.   
-3.  Voor zover benodigd voor de uitoefening van de taken van het Tribunaal zijn de fondsen, bezittingen en overige eigendommen van het Tribunaal, ongeacht waar deze zich bevinden of wie deze onder zich heeft, vrijgesteld van beperkingen, voorschriften, controles en moratoria van welke aard dan ook.   
+3.  Voor zover benodigd voor de uitoefening van de taken van het Tribunaal zijn de fondsen, bezittingen en overige eigendommen van het Tribunaal, ongeacht waar deze zich bevinden of wie deze onder zich heeft, vrijgesteld van beperkingen, voorschriften, controles en moratoria van welke aard dan ook.  
 
 ### Artikel  12  
 
 ####Onschendbaarheid van archieven, documenten en materiaal
 
 1.  De archieven van het Tribunaal en alle stukken en documenten in welke vorm dan ook alsmede naar of door het Tribunaal verzonden materiaal in het bezit van of toebehorend aan het Tribunaal ongeacht waar deze zich bevinden of wie deze onder zich heeft, zijn onschendbaar.   
-2.  De beëindiging of afwezigheid van deze onschendbaarheid doet geen afbreuk aan de beschermende maatregelen waartoe het Tribunaal kan bevelen ten aanzien van aan het Tribunaal beschikbaar gestelde of door het Tribunaal gebruikte materialen en documenten.   
+2.  De beëindiging of afwezigheid van deze onschendbaarheid doet geen afbreuk aan de beschermende maatregelen waartoe het Tribunaal kan bevelen ten aanzien van aan het Tribunaal beschikbaar gestelde of door het Tribunaal gebruikte materialen en documenten.  
 
 ### Artikel  13  
 
@@ -929,7 +929,7 @@ Het Tribunaal is bevoegd zijn vlag, embleem en onderscheidingstekens te tonen op
 3.  Het Tribunaal is bevoegd alle geschikte communicatiemiddelen te gebruiken, met inbegrip van elektronische communicatiemiddelen, en heeft het recht ten behoeve van zijn officiële communicatie en correspondentie codes of versleutelde gegevens te gebruiken. De officiële communicatie en correspondentie van het Tribunaal zijn onschendbaar.   
 4.  Het Tribunaal heeft het recht correspondentie en andere materialen of berichten te verzenden en te ontvangen per koerier of in verzegelde tassen, ten aanzien waarvan dezelfde voorrechten, immuniteiten en faciliteiten gelden als voor diplomatieke koeriers en tassen.   
 5.  Het Tribunaal heeft het recht radioapparatuur en andere telecommunicatieapparatuur te gebruiken op de frequenties die aan het Tribunaal zijn toegewezen door het Gastland in overeenstemming met zijn nationale procedures. Het Gastland streeft ernaar de door het Tribunaal aangevraagde frequenties zoveel mogelijk toe te wijzen.   
-6.  Teneinde zijn doelstellingen te verwezenlijken en zich doeltreffend van zijn verantwoordelijkheden te kwijten in overeenstemming met dit Verdrag heeft het Tribunaal het recht vrijelijk en zonder beperkingen berichten te publiceren in het Gastland.   
+6.  Teneinde zijn doelstellingen te verwezenlijken en zich doeltreffend van zijn verantwoordelijkheden te kwijten in overeenstemming met dit Verdrag heeft het Tribunaal het recht vrijelijk en zonder beperkingen berichten te publiceren in het Gastland.  
 
 ### Artikel  14  
 
@@ -944,7 +944,7 @@ b. rekeningen aanhouden in welke valuta ook;
 c. fondsen, effecten en goud kopen, bezitten en gebruiken; en  
 
 d. zijn fondsen, effecten, goud en valuta’s overbrengen naar of uit het Gastland, naar of uit enig ander land, of binnen het Gastland, en valuta’s die het bezit omwisselen in welke andere valuta ook.     
-2.  Het Tribunaal geniet een behandeling die niet minder gunstig is dan die welke door het Gastland wordt toegekend aan een intergouvernementele organisatie of diplomatieke missie ter zake van wisselkoersen voor zijn financiële transacties.   
+2.  Het Tribunaal geniet een behandeling die niet minder gunstig is dan die welke door het Gastland wordt toegekend aan een intergouvernementele organisatie of diplomatieke missie ter zake van wisselkoersen voor zijn financiële transacties.  
 
 ### Artikel  15  
 
@@ -974,13 +974,13 @@ i. belasting op leidingwater (BOL);
 j. andere belastingen en heffingen van een in hoofdzaak vergelijkbare aard als de in dit lid genoemde belastingen, die na de datum van ondertekening van dit Verdrag door het Gastland worden ingesteld.     
 3.  De in het tweede lid, onderdelen d, e, f, g, h, i, en j, van dit artikel genoemde vrijstellingen kunnen worden toegekend in de vorm van een teruggave. Deze vrijstellingen worden toegepast overeenkomstig de formele vereisten van het Gastland. Deze vereisten doen evenwel geen afbreuk aan de in het tweede lid van dit artikel vervatte algemene beginselen.   
 4.  Goederen verworven of ingevoerd onder de in het tweede lid van dit artikel omschreven voorwaarden worden niet verkocht, verhuurd, geschonken of op andere wijze vervreemd, behalve overeenkomstig de met het Gastland overeengekomen voorwaarden.   
-5.  Het Tribunaal zal zich evenwel niet beroepen op vrijstelling van belastingen die in feite niets anders zijn dan retributies voor openbare diensten die worden geleverd tegen een vast bedrag overeenkomstig het aantal geleverde diensten en die nauwkeurig kunnen worden geïdentificeerd, omschreven en gespecificeerd.   
+5.  Het Tribunaal zal zich evenwel niet beroepen op vrijstelling van belastingen die in feite niets anders zijn dan retributies voor openbare diensten die worden geleverd tegen een vast bedrag overeenkomstig het aantal geleverde diensten en die nauwkeurig kunnen worden geïdentificeerd, omschreven en gespecificeerd.  
 
 ### Artikel  16  
 
 ####Vrijstelling van invoer- en uitvoerbeperkingen
 
-Het Tribunaal is vrijgesteld van alle invoer- en uitvoerbeperkingen met betrekking tot de door het Tribunaal voor officieel gebruik ingevoerde of uitgevoerde artikelen en met betrekking tot zijn publicaties.  
+Het Tribunaal is vrijgesteld van alle invoer- en uitvoerbeperkingen met betrekking tot de door het Tribunaal voor officieel gebruik ingevoerde of uitgevoerde artikelen en met betrekking tot zijn publicaties. 
 
 ### DEEL  III  
 
@@ -1027,7 +1027,7 @@ d. vrijstelling van belasting op de salarissen, emolumenten en vergoedingen die 
 e. het recht ten behoeve van communicatie met het Tribunaal in welke vorm dan ook stukken te ontvangen en te verzenden;  
 
 f. het recht vrij van rechten en belastingen, behoudens betalingen voor verleende diensten, hun meubels en bezittingen in te voeren wanneer zij voor de eerste maal hun functie in het Gastland aanvaarden.     
-6.  De in het zesde lid van dit artikel bedoelde personen worden door het Gastland niet aan enige maatregel onderworpen die de vrije en onafhankelijke uitoefening van hun functie bij het Tribunaal kan belemmeren.   
+6.  De in het zesde lid van dit artikel bedoelde personen worden door het Gastland niet aan enige maatregel onderworpen die de vrije en onafhankelijke uitoefening van hun functie bij het Tribunaal kan belemmeren.  
 
 ### Artikel  18  
 
@@ -1054,7 +1054,7 @@ h. tezamen met de gezinsleden die deel uitmaken van hun huishouding, dezelfde re
 i. het recht vrij van rechten en belastingen, behoudens betalingen voor verleende diensten, hun meubels en bezittingen in te voeren wanneer zij voor de eerste maal hun functie in het Gastland aanvaarden, en deze meubels en bezittingen vrij van rechten en belastingen weer uit te voeren naar het land waar zij hun vaste verblijfplaats hebben.     
 2.  Naast de in het eerste lid van dit artikel genoemde voorrechten, immuniteiten en faciliteiten, genieten de leden van het personeel met een rang die vergelijkbaar is met niveau P-5 en hoger van de Verenigde Naties, tezamen met de gezinsleden die deel uitmaken van hun huishouding en die geen onderdaan zijn van of een vaste woonplaats hebben in het Gastland, dezelfde voorrechten, immuniteiten en faciliteiten als die welke overeenkomstig het Verdrag van Wenen door het Gastland worden toegekend aan diplomatieke ambtenaren met vergelijkbare rang van de diplomatieke missies die in het Gastland zijn gevestigd.   
 3.  Naast de in het eerste lid van dit artikel genoemde voorrechten, immuniteiten en faciliteiten genieten de leden van het personeel met een rang die vergelijkbaar is met niveau P-4 en lager van de Verenigde Naties, tezamen met de gezinsleden die deel uitmaken van hun huishouding en die geen onderdaan zijn van of een vaste woonplaats hebben in het Gastland, dezelfde voorrechten, immuniteiten en faciliteiten als die welke overeenkomstig het Verdrag van Wenen door het Gastland worden toegekend aan leden van het administratief en technisch personeel van diplomatieke missies die in het Gastland zijn gevestigd, met dien verstande dat de immuniteit ten aanzien van de rechtsmacht in strafzaken en de persoonlijke onschendbaarheid zich niet uitstrekken tot handelingen verricht buiten hun officiële taken.   
-4.  Voor zover het vaststellen van enige vorm van belasting wordt gebaseerd op het ingezetenschap worden tijdvakken gedurende welke de leden van het personeel voor de uitoefening van hun functies aanwezig zijn in het Gastland, niet aangemerkt als tijdvakken van ingezetenschap.   
+4.  Voor zover het vaststellen van enige vorm van belasting wordt gebaseerd op het ingezetenschap worden tijdvakken gedurende welke de leden van het personeel voor de uitoefening van hun functies aanwezig zijn in het Gastland, niet aangemerkt als tijdvakken van ingezetenschap.    
 5.  Het Gastland is niet verplicht uitkeringen of annuïteiten betaald aan voormalige leden van het personeel alsmede aan de gezinsleden die deel uitmaken van hun huishouding vrij te stellen van inkomstenbelasting.   
 6.  Onverminderd het vierde lid van dit artikel genieten de in dit artikel bedoelde personen die onderdaan van het Gastland zijn of duurzaam verblijf houden in het Gastland, uitsluitend de volgende voorrechten, immuniteiten en faciliteiten voor zover benodigd voor de onafhankelijke uitoefening van hun functie: 
 
@@ -1069,14 +1069,14 @@ d. vrijstelling van belasting op de salarissen, emolumenten en vergoedingen die 
 e. het recht ten behoeve van communicatie met het Tribunaal in welke vorm dan ook stukken te ontvangen en te verzenden;  
 
 f. het recht vrij van rechten en belastingen, behoudens betalingen voor verleende diensten, hun meubels en bezittingen in te voeren wanneer zij voor de eerste maal hun functie in het Gastland aanvaarden.     
-7.  De in het zesde lid van dit artikel bedoelde personen worden door het Gastland niet aan enige maatregel onderworpen die de vrije en onafhankelijke uitoefening van hun functie bij het Tribunaal kan belemmeren.   
+7.  De in het zesde lid van dit artikel bedoelde personen worden door het Gastland niet aan enige maatregel onderworpen die de vrije en onafhankelijke uitoefening van hun functie bij het Tribunaal kan belemmeren.  
 
 ### Artikel  19  
 
 ####Lokaal geworven personeel ten aanzien waarvan in dit Verdrag niets anders is geregeld
 
 1.  Aan de leden van door het Tribunaal lokaal geworven personeel ten aanzien van wie in dit Verdrag niets anders is geregeld wordt immuniteit van rechtsvervolging toegekend met betrekking tot alle door hen in hun officiële hoedanigheid voor het Tribunaal gesproken of geschreven woorden of verrichte handelingen. Deze immuniteit blijft ook gelden na beëindiging van hun dienstverband bij het Tribunaal. Gedurende hun dienstverband worden aan hen tevens de faciliteiten toegekend die benodigd zijn voor de onafhankelijke uitoefening van hun functie bij het Tribunaal.   
-2.  De arbeidsvoorwaarden van door het Tribunaal lokaal geworven personeel ten aanzien waarvan in dit Verdrag niets anders is geregeld dienen in overeenstemming te zijn met de relevante resoluties, besluiten, voorschriften, regels en het beleid van het Tribunaal.   
+2.  De arbeidsvoorwaarden van door het Tribunaal lokaal geworven personeel ten aanzien waarvan in dit Verdrag niets anders is geregeld dienen in overeenstemming te zijn met de relevante resoluties, besluiten, voorschriften, regels en het beleid van het Tribunaal.  
 
 ### Artikel  20  
 
@@ -1085,7 +1085,7 @@ f. het recht vrij van rechten en belastingen, behoudens betalingen voor verleend
 1.  Het wordt gezinsleden die deel uitmaken van de huishouding van een rechter, Aanklager, Substituut-Aanklager, Griffier, Hoofd van het kantoor van de verdediging of een lid van het personeel van het Tribunaal toegestaan in het Gastland betaalde werkzaamheden te verrichten gedurende het tijdvak waarin de desbetreffende rechter, Aanklager, Substituut-Aanklager, Griffier of het desbetreffende Hoofd van het kantoor van de verdediging of het lid van het personeel van het Tribunaal is aangesteld.   
 2.  Gezinsleden die deel uitmaken van de huishouding van een rechter, Aanklager, Substituut-Aanklager, Griffier, Hoofd van het kantoor van de verdediging of een lid van het personeel van het Tribunaal die betaalde werkzaamheden verrichten, genieten geen immuniteit ten aanzien van de strafrechtelijke, civielrechtelijke of bestuursrechtelijke rechtsmacht wat betreft aangelegenheden die ontstaan in de loop van of verband houden met deze werkzaamheden, met dien verstande dat executiemaatregelen worden genomen zonder inbreuk te maken op de onschendbaarheid van hun persoon of hun woning, indien zij recht hebben op een dergelijke onschendbaarheid.   
 3.  Bij insolventie van een persoon jonger dan 18 jaar in verband met een vordering die voortvloeit uit betaalde werkzaamheden van die persoon wordt in overeenstemming met de bepalingen van artikel 28 van dit Verdrag ten behoeve van schikking van de vordering afstand gedaan van de immuniteit van de rechter, Aanklager, Substituut-Aanklager, Griffier, Hoofd van het kantoor van de verdediging of het lid van het personeel van het Tribunaal van wiens gezin de betrokkene lid is.   
-4.  De in het eerste lid van dit artikel bedoelde werkzaamheden dienen in overeenstemming te zijn met de wetgeving van het Gastland, met inbegrip van de wetgeving inzake belastingen en sociale zekerheid.   
+4.  De in het eerste lid van dit artikel bedoelde werkzaamheden dienen in overeenstemming te zijn met de wetgeving van het Gastland, met inbegrip van de wetgeving inzake belastingen en sociale zekerheid.  
 
 ### Artikel  21  
 
@@ -1110,7 +1110,7 @@ e. de stagiair(e) het Gastland verlaat binnen vijftien dagen na het einde van zi
 a. immuniteit van enigerlei rechtsvervolging met betrekking tot alle door hen in hun officiële hoedanigheid voor het Tribunaal gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na beëindiging van de stage bij het Tribunaal voor namens het Tribunaal uitgevoerde activiteiten;  
 
 b. onschendbaarheid van alle stukken en documenten in welke vorm dan ook en materiaal dat betrekking heeft op de uitoefening van hun functie bij het Tribunaal.     
-6.  Het Tribunaal stelt het ministerie van Buitenlandse Zaken binnen acht dagen na het definitieve vertrek van de stagiair(e) uit het Gastland daarvan in kennis en retourneert daarbij de identiteitskaart van de stagiair(e). In uitzonderlijke omstandigheden kan het maximumtijdvak van een jaar genoemd in het tweede lid van dit artikel worden verlengd met ten hoogste een jaar.   
+6.  Het Tribunaal stelt het ministerie van Buitenlandse Zaken binnen acht dagen na het definitieve vertrek van de stagiair(e) uit het Gastland daarvan in kennis en retourneert daarbij de identiteitskaart van de stagiair(e). In uitzonderlijke omstandigheden kan het maximumtijdvak van een jaar genoemd in het tweede lid van dit artikel worden verlengd met ten hoogste een jaar.  
 
 ### Artikel  22  
 
@@ -1148,7 +1148,7 @@ c. onschendbaarheid van alle stukken en documenten in welke vorm dan ook en van 
 d. het recht ten behoeve van de communicatie met het Tribunaal in welke vorm dan ook stukken te ontvangen en te verzenden.     
 5.  Raadslieden worden door het Gastland niet aan enige maatregel onderworpen die de vrije en onafhankelijke uitoefening van hun functie bij het Tribunaal kan beïnvloeden.   
 6.  De bepalingen van dit artikel zijn van overeenkomstige toepassing op personen die de verdediging bijstaan in overeenstemming met het Reglement van proces- en bewijsvoering.   
-7.  Dit artikel doet geen afbreuk aan mogelijke disciplinaire regels die op de raadslieden van toepassing zijn.   
+7.  Dit artikel doet geen afbreuk aan mogelijke disciplinaire regels die op de raadslieden van toepassing zijn.  
 
 ### Artikel  23  
 
@@ -1181,7 +1181,7 @@ c. onschendbaarheid van alle stukken en documenten in welke vorm dan ook en van 
 
 d. ten behoeve van de communicatie met het Tribunaal en met hun raadslieden in verband met hun verschijning of getuigenverklaring, het recht stukken in welke vorm dan ook te ontvangen en te verzenden.     
 5.  Getuigen worden door het Gastland niet aan enige maatregel onderworpen die hun verschijning of getuigenverklaring voor het Tribunaal kan beïnvloeden.   
-6.  De Griffier neemt alle maatregelen die noodzakelijk zijn om de onverwijlde verplaatsing naar een derde Staat te regelen van getuigen die na het afleggen van een getuigenverklaring om veiligheidsredenen niet kunnen terugkeren naar hun vaderland of naar het land waar zij hun vaste verblijfplaats hebben.   
+6.  De Griffier neemt alle maatregelen die noodzakelijk zijn om de onverwijlde verplaatsing naar een derde Staat te regelen van getuigen die na het afleggen van een getuigenverklaring om veiligheidsredenen niet kunnen terugkeren naar hun vaderland of naar het land waar zij hun vaste verblijfplaats hebben.  
 
 ### Artikel  24  
 
@@ -1201,7 +1201,7 @@ e. vrijstelling van inreisbeperkingen en vreemdelingenregistratie wanneer zij te
 2.  Aan slachtoffers wordt door de Griffier een document uitgereikt waaruit hun deelname aan de procedure voor het Tribunaal blijkt en waarin het tijdsbestek van die deelname wordt vermeld. Een dergelijk document wordt voor het verstrijken van de geldigheidsduur ervan ingetrokken indien het slachtoffer niet langer deelneemt aan de procedures voor het Tribunaal, of de aanwezigheid van het slachtoffer op de zetel van het Tribunaal niet langer vereist is.   
 3.  De in het eerste lid van dit artikel bedoelde voorrechten, immuniteiten en faciliteiten houden op van toepassing te zijn na een tijdvak van vijftien aaneengesloten dagen na de datum waarop de aanwezigheid van het betrokken slachtoffer niet langer door het Tribunaal vereist is, op voorwaarde dat een dergelijk slachtoffer de gelegenheid heeft gehad het Gastland in dat tijdvak te verlaten.   
 4.  Slachtoffers die onderdaan van het Gastland zijn of duurzaam verblijf houden in het gastland, genieten geen voorrechten, immuniteiten en faciliteiten uitgezonderd, voor zover benodigd voor hun verschijning voor het Tribunaal, immuniteit van enigerlei rechtsvervolging met betrekking tot alle door hen tijdens hun verschijning voor het Tribunaal gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na hun verschijning voor het Tribunaal.   
-5.  Slachtoffers worden door het Gastland niet aan enige maatregel onderworpen die hun verschijning voor het Tribunaal kan beïnvloeden.   
+5.  Slachtoffers worden door het Gastland niet aan enige maatregel onderworpen die hun verschijning voor het Tribunaal kan beïnvloeden.  
 
 ### Artikel  25  
 
@@ -1237,7 +1237,7 @@ b. immuniteit van enigerlei rechtsvervolging met betrekking tot alle door hen ge
 c. onschendbaarheid van alle stukken en documenten in welke vorm dan ook en materiaal met betrekking tot de uitoefening van hun functie of hun verschijning of verklaring;  
 
 d. het recht ten behoeve van de communicatie met het Tribunaal in welke vorm dan ook stukken te ontvangen en te verzenden.     
-5.  Deskundigen worden door het Gastland niet aan enige maatregel onderworpen die de onafhankelijke uitoefening van hun functie bij het Tribunaal kan beïnvloeden.   
+5.  Deskundigen worden door het Gastland niet aan enige maatregel onderworpen die de onafhankelijke uitoefening van hun functie bij het Tribunaal kan beïnvloeden.  
 
 ### Artikel  26  
 
@@ -1247,13 +1247,13 @@ d. het recht ten behoeve van de communicatie met het Tribunaal in welke vorm dan
 2.  Aan de in dit artikel bedoelde personen wordt door de Griffier een document uitgereikt waaruit blijkt dat hun aanwezigheid op de zetel van het Tribunaal vereist is en waarin het tijdsbestek wordt vermeld gedurende welk de aanwezigheid nodig is. Een dergelijk document wordt voor het verstrijken van de geldigheidsduur ervan ingetrokken indien hun aanwezigheid op de zetel van het Tribunaal niet langer vereist is.   
 3.  De in het eerste lid van dit artikel bedoelde voorrechten, immuniteiten en faciliteiten houden op van toepassing te zijn na een tijdvak van vijftien aaneengesloten dagen na de datum waarop de aanwezigheid van de betrokken overige persoon niet langer door het Tribunaal vereist is, op voorwaarde dat een dergelijke persoon de gelegenheid heeft gehad het Gastland in dat tijdvak te verlaten.   
 4.  In dit artikel bedoelde personen die onderdaan van het Gastland zijn of duurzaam verblijf houden in het Gastland, genieten geen voorrechten, immuniteiten en faciliteiten uitgezonderd, voor zover benodigd voor hun aanwezigheid op de zetel van het Tribunaal, immuniteit van enigerlei rechtsvervolging met betrekking tot alle door hen tijdens hun aanwezigheid op de zetel van het Tribunaal gesproken of geschreven woorden en verrichte handelingen. Deze immuniteit blijft ook gelden nadat hun aanwezigheid op de zetel van het Tribunaal niet langer vereist is.   
-5.  In dit artikel bedoelde personen worden door het Gastland niet aan enige maatregel onderworpen die hun aanwezigheid voor het Tribunaal kan beïnvloeden.   
+5.  In dit artikel bedoelde personen worden door het Gastland niet aan enige maatregel onderworpen die hun aanwezigheid voor het Tribunaal kan beïnvloeden.  
 
 ### Artikel  27  
 
 ####Vertegenwoordigers van Staten die deelnemen aan bijeenkomsten van het Comité van Beheer
 
-Vertegenwoordigers van Staten die deelnemen aan bijeenkomsten van het Comité van Beheer genieten bij de uitoefening van hun functie en gedurende de reis naar en van het Gastland de privileges en immuniteiten voorzien in artikel IV van het Verdrag nopens de voorrechten en immuniteiten van de Verenigde Naties van 13 februari 1946.  
+Vertegenwoordigers van Staten die deelnemen aan bijeenkomsten van het Comité van Beheer genieten bij de uitoefening van hun functie en gedurende de reis naar en van het Gastland de privileges en immuniteiten voorzien in artikel IV van het Verdrag nopens de voorrechten en immuniteiten van de Verenigde Naties van 13 februari 1946. 
 
 ### DEEL  IV  
 
@@ -1269,7 +1269,7 @@ a. kantoor van de verdediging en de gezinsleden die deel uitmaken van hun huisho
 
 b. in het geval van leden van het personeel, lokaal geworven personeel, stagiair(e)s en de gezinsleden die deel uitmaken van hun huishouding, bij de Griffier;  
 
-c. in het geval van getuigen, slachtoffers, deskundigen, overige personen wier aanwezigheid op de zetel van het Tribunaal vereist is, raadslieden en personen die de verdediging bijstaan, en de gezinsleden die deel uitmaken van hun huishouding, bij de President.    
+c. in het geval van getuigen, slachtoffers, deskundigen, overige personen wier aanwezigheid op de zetel van het Tribunaal vereist is, raadslieden en personen die de verdediging bijstaan, en de gezinsleden die deel uitmaken van hun huishouding, bij de President.   
 
 ### DEEL  V  
 
@@ -1285,7 +1285,7 @@ c. in het geval van getuigen, slachtoffers, deskundigen, overige personen wier a
 
 1.  Waar dit Verdrag verplichtingen oplegt aan de bevoegde autoriteiten, ligt de uiteindelijke verantwoordelijkheid voor de vervulling van deze verplichtingen bij de Regering van het Gastland.   
 2.  Het Gastland stelt het Tribunaal onverwijld in kennis van de keuze van de instantie die wordt aangewezen als officieel en primair verantwoordelijk aanspreekpunt ten aanzien van alle aangelegenheden met betrekking tot dit Verdrag en van alle eventuele wijzigingen ter zake.   
-3.  De Griffier, of een door hem of haar aangewezen lid van het personeel van het Tribunaal, fungeert als officieel aanspreekpunt voor het Gastland en is primair verantwoordelijk ten aanzien van alle aangelegenheden met betrekking tot dit Verdrag. Het Gastland wordt onverwijld van deze aanwijzing in kennis gesteld alsmede van alle eventuele wijzigingen ter zake.   
+3.  De Griffier, of een door hem of haar aangewezen lid van het personeel van het Tribunaal, fungeert als officieel aanspreekpunt voor het Gastland en is primair verantwoordelijk ten aanzien van alle aangelegenheden met betrekking tot dit Verdrag. Het Gastland wordt onverwijld van deze aanwijzing in kennis gesteld alsmede van alle eventuele wijzigingen ter zake.  
 
 ### Artikel  30  
 
@@ -1296,7 +1296,7 @@ c. in het geval van getuigen, slachtoffers, deskundigen, overige personen wier a
 3.  Onverminderd hun voorrechten, immuniteiten en faciliteiten is het de plicht van alle personen die uit hoofde van dit Verdrag dergelijke voorrechten, immuniteiten en faciliteiten genieten de wet- en regelgeving na te leven van het Gastland. Zij zijn tevens gehouden zich niet te mengen in de interne aangelegenheden van het Gastland   
 4.  Het Tribunaal werkt samen met de bevoegde autoriteiten die verantwoordelijk zijn voor gezondheid, arbeidsveiligheid, elektronische communicatie en brandpreventie.   
 5.  Het Tribunaal leeft de met het Gastland overeengekomen veiligheidsrichtlijnen na, alsook de richtlijnen van de bevoegde autoriteiten die verantwoordelijk zijn voor de voorschriften inzake brandpreventie.   
-6.  Het Gastland stelt alles in het werk om het Tribunaal in kennis te stellen van alle voorgestelde of vastgestelde nationale wet- of regelgeving die directe gevolgen heeft voor de voorrechten, immuniteiten, faciliteiten, rechten en verplichtingen van het Tribunaal en de rechters, de Aanklager, de Substituut-Aanklager, de Griffier, het Hoofd van het kantoor van de verdediging en de leden van het personeel. Het Tribunaal heeft het recht zijn zienswijze kenbaar te maken ter zake van de voorgestelde nationale wet- en regelgeving.   
+6.  Het Gastland stelt alles in het werk om het Tribunaal in kennis te stellen van alle voorgestelde of vastgestelde nationale wet- of regelgeving die directe gevolgen heeft voor de voorrechten, immuniteiten, faciliteiten, rechten en verplichtingen van het Tribunaal en de rechters, de Aanklager, de Substituut-Aanklager, de Griffier, het Hoofd van het kantoor van de verdediging en de leden van het personeel. Het Tribunaal heeft het recht zijn zienswijze kenbaar te maken ter zake van de voorgestelde nationale wet- en regelgeving.  
 
 ### Artikel  31  
 
@@ -1310,14 +1310,14 @@ b. de datum van aankomst en van het definitieve vertrek van gezinsleden die deel
 
 c. de datum van aankomst en van het definitieve vertrek van personen in persoonlijke dienst of huishoudelijk personeel van de in onderdeel a van dit lid bedoelde personen en, waar van toepassing, het feit dat zij uit dienst treden van dergelijke personen.     
 2.  Het Gastland verstrekt aan de rechters, de Aanklager, de Substituut-Aanklager, de Griffier, het Hoofd van het kantoor van de verdediging en leden van het personeel en aan de gezinsleden die deel uitmaken van hun huishouding alsmede aan personen in persoonlijke dienst of huishoudelijk personeel een identiteitskaart voorzien van de foto van de houder. Deze kaart dient ter identificatie van de houder ten overstaan van de bevoegde autoriteiten.   
-3.  Bij het definitieve vertrek van de in het tweede lid van dit artikel bedoelde personen of wanneer deze personen niet langer hun functie uitoefenen, dient de in het tweede lid van dit artikel bedoelde identiteitskaart onverwijld door het Tribunaal te worden geretourneerd aan het ministerie van Buitenlandse Zaken.   
+3.  Bij het definitieve vertrek van de in het tweede lid van dit artikel bedoelde personen of wanneer deze personen niet langer hun functie uitoefenen, dient de in het tweede lid van dit artikel bedoelde identiteitskaart onverwijld door het Tribunaal te worden geretourneerd aan het ministerie van Buitenlandse Zaken.  
 
 ### Artikel  32  
 
 ####Socialezekerheidsstelsel
 
 1.  Indien het socialezekerheidsstelsel van het Tribunaal een dekking biedt die vergelijkbaar is met de dekking krachtens de wetgeving van het Gastland, zijn de rechters, de Aanklager, de Substituut-Aanklager, de Griffier, het Hoofd van het kantoor van de verdediging en leden van het personeel op wie het bovenbedoelde stelsel van toepassing is vrijgesteld van de bepalingen op het gebied van sociale zekerheid van het Gastland. Zij zijn dientengevolge niet gedekt tegen de risico’s vervat in de bepalingen op het gebied van sociale zekerheid in het Gastland. Deze vrijstelling is op hen van toepassing tenzij zij betaalde werkzaamheden gaan verrichten in het Gastland.   
-2.  Het eerste lid van dit artikel is van overeenkomstige toepassing op de gezinsleden die deel uitmaken van de huishouding van de in het eerste lid bedoelde personen, tenzij zij betaalde werkzaamheden verrichten in het Gastland, als zelfstandige werkzaam zijn of socialezekerheidsuitkeringen van het Gastland ontvangen.   
+2.  Het eerste lid van dit artikel is van overeenkomstige toepassing op de gezinsleden die deel uitmaken van de huishouding van de in het eerste lid bedoelde personen, tenzij zij betaalde werkzaamheden verrichten in het Gastland, als zelfstandige werkzaam zijn of socialezekerheidsuitkeringen van het Gastland ontvangen.  
 
 ### AFDELING  2:  
 
@@ -1329,7 +1329,7 @@ c. de datum van aankomst en van het definitieve vertrek van personen in persoonl
 
 1.  De rechters, de Aanklager, de Substituut-Aanklager, de Griffier, het Hoofd van het kantoor van de verdediging, leden van het personeel, raadslieden en personen die de verdediging bijstaan, door de Griffier als zodanig bekendgemaakt aan het Gastland, hebben recht op onbelemmerde binnenkomst in, vertrek uit en verplaatsing binnen het Gastland, met inbegrip van onbelemmerde toegang tot het terrein.   
 2.  Visa, waar deze vereist zijn, worden kosteloos en zo spoedig mogelijk afgegeven.   
-3.  Aanvragen voor visa, waar deze vereist zijn, van gezinsleden die deel uitmaken van de huishouding van de in het eerste lid van dit artikel bedoelde personen, worden door het Gastland zo spoedig mogelijk behandeld en kosteloos verstrekt.   
+3.  Aanvragen voor visa, waar deze vereist zijn, van gezinsleden die deel uitmaken van de huishouding van de in het eerste lid van dit artikel bedoelde personen, worden door het Gastland zo spoedig mogelijk behandeld en kosteloos verstrekt.  
 
 ### Artikel  34  
 
@@ -1338,7 +1338,7 @@ c. de datum van aankomst en van het definitieve vertrek van personen in persoonl
 1.  Alle in de artikelen 21, 23, 24, 25 en 26 van dit Verdrag bedoelde personen, door de Griffier als zodanig bekend gemaakt aan het Gastland, hebben recht op onbelemmerde binnenkomst in, vertrek uit en, met inachtneming van het derde lid van dit artikel, verplaatsing binnen het Gastland, wanneer van toepassing en ten behoeve van het Tribunaal.   
 2.  Visa, waar deze vereist zijn, worden kosteloos en zo spoedig mogelijk afgegeven. Dezelfde faciliteiten gelden voor personen die getuigen en slachtoffers begeleiden en die door de Griffier als zodanig zijn bekendgemaakt aan het Gastland.   
 3.  Het Gastland kan aan de visa de voorwaarden of beperkingen verbinden die noodzakelijk zijn om schendingen van zijn openbare orde te voorkomen of de veiligheid van de betrokken persoon te beschermen.   
-4.  Alvorens het derde lid van dit artikel toe te passen vraagt het Gastland het Tribunaal om zijn zienswijze.   
+4.  Alvorens het derde lid van dit artikel toe te passen vraagt het Gastland het Tribunaal om zijn zienswijze.  
 
 ### Artikel  35  
 
@@ -1353,19 +1353,19 @@ b. zij ter fine van weigering van toegang gesignaleerd staan; of
 
 c. zij worden beschouwd als een gevaar voor de openbare orde, de nationale veiligheid of de internationale betrekkingen van een van de Overeenkomstsluitende Partijen bij de Overeenkomst ter uitvoering van het tussen de Regeringen van de Staten van de Benelux Economische Unie, de Bondsrepubliek Duitsland en de Franse Republiek op 14 juni 1985 te Schengen gesloten Akkoord betreffende de geleidelijke afschaffing van de controles aan de gemeenschappelijke grenzen.     
 3.  Het Gastland kan aan de visa de voorwaarden of beperkingen verbinden die noodzakelijk zijn om schendingen van zijn openbare orde te voorkomen of de veiligheid van de betrokken persoon te beschermen.   
-4.  Alvorens het tweede of derde lid van dit artikel toe te passen vraagt het Gastland het Tribunaal om zijn zienswijze.   
+4.  Alvorens het tweede of derde lid van dit artikel toe te passen vraagt het Gastland het Tribunaal om zijn zienswijze.  
 
 ### Artikel  36  
 
 ####Laissez-passer
 
-Het Gastland erkent en accepteert het laissez-passer van de Verenigde Naties als geldig reisdocument.  
+Het Gastland erkent en accepteert het laissez-passer van de Verenigde Naties als geldig reisdocument. 
 
 ### Artikel  37  
 
 ####Rijbewijs
 
-Voor de duur van hun tewerkstelling is het de rechters, de Aanklager, de Substituut-Aanklager, de Griffier, het Hoofd van het kantoor van de verdediging en leden van het personeel, alsmede gezinsleden die deel uitmaken van hun huishouding en personen in persoonlijke dienst of huishoudelijk personeel toegestaan van het Gastland een rijbewijs te verkrijgen op vertoon van hun geldige buitenlandse rijbewijs dan wel hun eigen geldige buitenlandse rijbewijs te blijven gebruiken, mits de houder in het bezit is van een door het Gastland in overeenstemming met artikel 31 van dit Verdrag afgegeven identiteitskaart.  
+Voor de duur van hun tewerkstelling is het de rechters, de Aanklager, de Substituut-Aanklager, de Griffier, het Hoofd van het kantoor van de verdediging en leden van het personeel, alsmede gezinsleden die deel uitmaken van hun huishouding en personen in persoonlijke dienst of huishoudelijk personeel toegestaan van het Gastland een rijbewijs te verkrijgen op vertoon van hun geldige buitenlandse rijbewijs dan wel hun eigen geldige buitenlandse rijbewijs te blijven gebruiken, mits de houder in het bezit is van een door het Gastland in overeenstemming met artikel 31 van dit Verdrag afgegeven identiteitskaart. 
 
 ### AFDELING  3:  
 
@@ -1377,7 +1377,7 @@ Voor de duur van hun tewerkstelling is het de rechters, de Aanklager, de Substit
 
 1.  Onverminderd hun voorrechten, immuniteiten en faciliteiten nemen de bevoegde autoriteiten doeltreffende en adequate maatregelen die vereist kunnen zijn om de beveiliging, veiligheid en bescherming van de in dit Verdrag bedoelde personen te waarborgen, en die noodzakelijk zijn voor het naar behoren functioneren van het Tribunaal, zonder inmenging van welke aard dan ook.   
 2.  Het Tribunaal werkt samen met de bevoegde autoriteiten teneinde te waarborgen dat alle in dit Verdrag bedoelde personen zich houden aan de instructies die hun door de bevoegde autoriteiten worden gegeven met het oog op hun beveiliging en veiligheid.   
-3.  Onverminderd hun voorrechten, immuniteiten en faciliteiten is het de plicht van alle in dit Verdrag bedoelde personen zich te houden aan de instructies die hun door de bevoegde autoriteiten worden gegeven met het oog op hun beveiliging en veiligheid.   
+3.  Onverminderd hun voorrechten, immuniteiten en faciliteiten is het de plicht van alle in dit Verdrag bedoelde personen zich te houden aan de instructies die hun door de bevoegde autoriteiten worden gegeven met het oog op hun beveiliging en veiligheid.  
 
 ### Artikel  39  
 
@@ -1395,21 +1395,21 @@ b. de onmogelijkheid, ondanks alle mogelijke inspanningen, adequate veiligheidsm
 
 c. het bestaan van een gevaar voor de openbare orde en veiligheid in het Gastland.     
 6.  Een persoon die zich in hechtenis bevindt, wordt rechtstreeks en zonder belemmering naar de in het eerste en tweede lid van dit artikel genoemde bestemming vervoerd of naar enige andere bestemming waarom het Tribunaal ingevolge het derde lid van dit artikel kan verzoeken.   
-7.  Het Tribunaal en het Gastland treffen, naargelang van toepassing, praktische voorzieningen voor het vervoer van personen die zich in hechtenis bevinden in overeenstemming met dit artikel.   
+7.  Het Tribunaal en het Gastland treffen, naargelang van toepassing, praktische voorzieningen voor het vervoer van personen die zich in hechtenis bevinden in overeenstemming met dit artikel.  
 
 ### Artikel  40  
 
 ####Vervoer van personen die op andere gronden dan een bevel tot aanhouding voor het Tribunaal verschijnen
 
 1.  De bepalingen van artikel 39 van dit Verdrag zijn van overeenkomstige toepassing op het vervoer van personen die ingevolge een ander bevel dan een bevel tot aanhouding voor het Tribunaal verschijnen.   
-2.  Indien het Tribunaal een ander bevel dan een bevel tot aanhouding uitvaardigt teneinde de verschijning van een persoon voor het Tribunaal te waarborgen, behoudt het Gastland zich het recht voor alle maatregelen te nemen die nodig zijn om de openbare orde te handhaven en de nationale veiligheid te beschermen.   
+2.  Indien het Tribunaal een ander bevel dan een bevel tot aanhouding uitvaardigt teneinde de verschijning van een persoon voor het Tribunaal te waarborgen, behoudt het Gastland zich het recht voor alle maatregelen te nemen die nodig zijn om de openbare orde te handhaven en de nationale veiligheid te beschermen.  
 
 ### Artikel  41  
 
 ####Samenwerking bij detentie
 
 1.  Het Gastland werkt met het Tribunaal samen om de detentie van personen te vergemakkelijken en het Tribunaal in staat te stellen zijn taken uit te oefenen in zijn cellencomplex.   
-2.  Wanneer de aanwezigheid van een persoon die zich in hechtenis bevindt, vereist is voor het afleggen van een verklaring of andere medewerking aan het Tribunaal en wanneer, om veiligheidsredenen, een dergelijke persoon niet kan worden vastgehouden in het cellencomplex van het Tribunaal, plegen het Tribunaal en het Gastland overleg en treffen, wanneer noodzakelijk, voorzieningen om de persoon te vervoeren naar een penitentiaire inrichting of andere door het Gastland ter beschikking gestelde locatie.   
+2.  Wanneer de aanwezigheid van een persoon die zich in hechtenis bevindt, vereist is voor het afleggen van een verklaring of andere medewerking aan het Tribunaal en wanneer, om veiligheidsredenen, een dergelijke persoon niet kan worden vastgehouden in het cellencomplex van het Tribunaal, plegen het Tribunaal en het Gastland overleg en treffen, wanneer noodzakelijk, voorzieningen om de persoon te vervoeren naar een penitentiaire inrichting of andere door het Gastland ter beschikking gestelde locatie.  
 
 ### Artikel  42  
 
@@ -1417,7 +1417,7 @@ c. het bestaan van een gevaar voor de openbare orde en veiligheid in het Gastlan
 
 1.  Het Gastland vergemakkelijkt de overbrenging van personen die voorlopig in vrijheid zijn gesteld naar een Staat niet zijnde het Gastland.   
 2.  Het Gastland vergemakkelijkt de terugkeer naar het Gastland van personen die voorlopig in vrijheid zijn gesteld alsmede hun korte verblijf in het Gastland voor elk doel dat verband houdt met de procedures van het Tribunaal.   
-3.  Het Tribunaal en het Gastland treffen praktische voorzieningen voor de uitvoering van dit artikel.   
+3.  Het Tribunaal en het Gastland treffen praktische voorzieningen voor de uitvoering van dit artikel.  
 
 ### Artikel  43  
 
@@ -1425,7 +1425,7 @@ c. het bestaan van een gevaar voor de openbare orde en veiligheid in het Gastlan
 
 1.  Wanneer een aan het Tribunaal overgedragen persoon in vrijheid wordt gesteld vanwege het feit dat het Tribunaal geen rechtsmacht bezit, de zaak niet-ontvankelijk is, de ten laste gelegde feiten niet zijn bewezen, de persoon tijdens het proces of in beroep, of om een andere reden is vrijgesproken, treft het Tribunaal zo spoedig mogelijk voorzieningen die het passend acht voor de overbrenging van de persoon, rekening houdend met de opvattingen van de persoon, naar een Staat die verplicht is hem of haar te ontvangen, een andere Staat die ermee instemt hem of haar te ontvangen, of een Staat die om zijn of haar uitlevering heeft verzocht met instemming van de Staat die hem of haar oorspronkelijk had overgedragen.   
 2.  De bepalingen van artikel 39 van dit Verdrag zijn van overeenkomstige toepassing op het vervoer van de in dit artikel bedoelde personen binnen het Gastland.   
-3.  Het Tribunaal stelt een in dit artikel bedoelde persoon niet in vrijheid op het grondgebied van het Gastland, tenzij laatstgenoemde hiermee instemt.   
+3.  Het Tribunaal stelt een in dit artikel bedoelde persoon niet in vrijheid op het grondgebied van het Gastland, tenzij laatstgenoemde hiermee instemt.  
 
 ### Artikel  44  
 
@@ -1433,14 +1433,14 @@ c. het bestaan van een gevaar voor de openbare orde en veiligheid in het Gastlan
 
 1.  De gevangenisstraf wordt ondergaan in een Staat die door de President van het Speciaal Tribunaal wordt aangewezen op basis van een lijst van Staten die zich bereid hebben verklaard door het Tribunaal veroordeelde personen te ontvangen.   
 2.  De President begint zo spoedig mogelijk met het proces van het aanwijzen van een Staat van tenuitvoerlegging, gebaseerd op de bovenbedoelde lijst, met het oog op de onverwijlde overbrenging van de veroordeelde teneinde de door het Tribunaal opgelegde gevangenisstraf te ondergaan.   
-3.  Het Gastland is op geen enkele wijze verplicht de door het Tribunaal veroordeelde personen hun gevangenisstraf te laten ondergaan in een penitentiaire inrichting op zijn grondgebied.   
+3.  Het Gastland is op geen enkele wijze verplicht de door het Tribunaal veroordeelde personen hun gevangenisstraf te laten ondergaan in een penitentiaire inrichting op zijn grondgebied.  
 
 ### Artikel  45  
 
 ####Beperking van de uitoefening van rechtsmacht door het Gastland
 
 1.  Het Gastland zal geen rechtsmacht uitoefenen of uitvoering geven aan een verzoek om bijstand of uitlevering van een andere Staat met betrekking tot personen die aan het Tribunaal zijn overgedragen, personen die voorlopig in vrijheid zijn gesteld of personen die vrijwillig of na een dagvaarding voor het Tribunaal verschijnen, ten aanzien van handelen, nalaten te handelen of veroordelingen voorafgaand aan de overdracht, overbrenging of verschijning voor het Tribunaal, uitgezonderd zoals vervat in het Reglement van proces- en bewijsvoering.   
-2.  Wanneer een in het eerste lid van dit artikel bedoelde persoon, om welke reden dan ook, zonder veroordeling in vrijheid wordt gesteld door het Tribunaal, blijft dat lid van toepassing gedurende een tijdvak van vijftien opeenvolgende dagen na de datum van zijn of haar invrijheidstelling.   
+2.  Wanneer een in het eerste lid van dit artikel bedoelde persoon, om welke reden dan ook, zonder veroordeling in vrijheid wordt gesteld door het Tribunaal, blijft dat lid van toepassing gedurende een tijdvak van vijftien opeenvolgende dagen na de datum van zijn of haar invrijheidstelling.  
 
 ### DEEL  VI  
 
@@ -1450,7 +1450,7 @@ c. het bestaan van een gevaar voor de openbare orde en veiligheid in het Gastlan
 
 ####Aanvullende regelingen en overeenkomsten
 
-Het Tribunaal en het Gastland kunnen, voor de toepassing van dit Verdrag of teneinde in dit Verdrag niet voorziene kwesties te regelen, in voorkomende gevallen aanvullende regelingen treffen en overeenkomsten sluiten.  
+Het Tribunaal en het Gastland kunnen, voor de toepassing van dit Verdrag of teneinde in dit Verdrag niet voorziene kwesties te regelen, in voorkomende gevallen aanvullende regelingen treffen en overeenkomsten sluiten. 
 
 ### Artikel  47  
 
@@ -1460,7 +1460,7 @@ Het Tribunaal stelt bepalingen vast ten behoeve van een passende wijze van besle
 
 a. geschillen die voortvloeien uit contracten en andere geschillen van privaatrechtelijke aard waarbij het Tribunaal partij is;  
 
-b. geschillen waarbij in dit Verdrag bedoelde personen betrokken zijn die uit hoofde van hun officiële positie of functie in verband met het Tribunaal immuniteit genieten, indien van deze immuniteit geen afstand is gedaan.    
+b. geschillen waarbij in dit Verdrag bedoelde personen betrokken zijn die uit hoofde van hun officiële positie of functie in verband met het Tribunaal immuniteit genieten, indien van deze immuniteit geen afstand is gedaan.   
 
 ### Artikel  48  
 
@@ -1470,13 +1470,13 @@ b. geschillen waarbij in dit Verdrag bedoelde personen betrokken zijn die uit ho
 2.  Indien het geschil niet in overeenstemming met het eerste lid van dit artikel binnen drie maanden na een schriftelijk verzoek daartoe door een van de partijen bij het geschil is beslecht, wordt het geschil, op verzoek van een van beide partijen, overeenkomstig de in het derde tot en met het vijfde lid van dit artikel vervatte procedure, voorgelegd aan een scheidsgerecht.   
 3.  Het scheidsgerecht wordt gevormd door drie leden: elke partij benoemt één lid, en de derde, die de voorzitter is van het scheidsgerecht, wordt benoemd door de twee andere leden. Indien een van de partijen nalaat een lid van het scheidsgerecht te benoemen binnen twee maanden na de benoeming van een lid door de andere partij, kan die andere partij de President van het Internationale Gerechtshof verzoeken deze benoeming te verrichten. Indien de eerste twee leden er niet in slagen binnen twee maanden na hun benoeming overeenstemming te bereiken over de benoeming van de voorzitter van het scheidsgerecht, kan elk van beide partijen de President van het Internationale Gerechtshof verzoeken de voorzitter te kiezen.   
 4.  Tenzij de partijen bij het geschil anderszins overeenkomen, stelt het scheidsgerecht zijn eigen procedure vast en worden de kosten zoals begroot door het scheidsgerecht door het Tribunaal en het Gastland gedragen.   
-5.  Het scheidsgerecht, dat beslist met een meerderheid van stemmen, doet uitspraak over het geschil op basis van de bepalingen van dit Verdrag en van aanvullende regelingen of overeenkomsten en de toepasselijke regels van het internationale recht. De uitspraak van het scheidsgerecht is onherroepelijk en bindend voor het Tribunaal en het Gastland.   
+5.  Het scheidsgerecht, dat beslist met een meerderheid van stemmen, doet uitspraak over het geschil op basis van de bepalingen van dit Verdrag en van aanvullende regelingen of overeenkomsten en de toepasselijke regels van het internationale recht. De uitspraak van het scheidsgerecht is onherroepelijk en bindend voor het Tribunaal en het Gastland.  
 
 ### Artikel  49  
 
 ####Toepassing
 
-Wat het Gastland betreft, is dit Verdrag slechts van toepassing op het deel van het Koninkrijk in Europa.  
+Wat het Gastland betreft, is dit Verdrag slechts van toepassing op het deel van het Koninkrijk in Europa. 
 
 ### Artikel  50  
 
@@ -1485,14 +1485,14 @@ Wat het Gastland betreft, is dit Verdrag slechts van toepassing op het deel van 
 1.  Dit Verdrag kan met wederzijds goedvinden van beide Partijen worden gewijzigd.   
 2.  Dit Verdrag houdt op van kracht te zijn indien de zetel van het Tribunaal wordt verwijderd van het grondgebied van het Gastland of indien het Tribunaal wordt ontbonden, met uitzondering van de bepalingen die van toepassing kunnen zijn in verband met de ordentelijke beëindiging van de werkzaamheden van het Tribunaal op zijn zetel in het Gastland en de vervreemding van zijn bezittingen aldaar, alsmede van de bepalingen inzake immuniteit ten aanzien van elke juridische procedure met betrekking tot alle in een officiële hoedanigheid gesproken of geschreven woorden en verrichte handelingen.   
 3.  De bepalingen inzake de onschendbaarheid van fondsen, bezittingen, archieven en documenten van het Tribunaal blijven na beëindiging van dit Verdrag van kracht.   
-4.  Het Gastland wordt tijdig op de hoogte gebracht van de ontbinding van het Tribunaal.   
+4.  Het Gastland wordt tijdig op de hoogte gebracht van de ontbinding van het Tribunaal.  
 
 ### Artikel  51  
 
 ####Inwerkingtreding
 
 1.  De bepalingen van dit Verdrag worden voorlopig toegepast vanaf de datum van ondertekening.   
-2.  Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat de beide Partijen elkaar schriftelijk ervan in kennis hebben gesteld dat aan de wettelijke vereisten voor de inwerkingtreding is voldaan.   
+2.  Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat de beide Partijen elkaar schriftelijk ervan in kennis hebben gesteld dat aan de wettelijke vereisten voor de inwerkingtreding is voldaan.  
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend. GEDAAN te New York, op 21 december 2007, in tweevoud, in de Engelse taal. Voor het Koninkrijk der Nederlanden, FRANK MAJOOR Voor de Verenigde Naties, NICOLAS MICHEL  
 
