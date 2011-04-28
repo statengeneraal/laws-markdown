@@ -24,6 +24,8 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
+*accreditatie-instantie:* nationale accreditatie-instantie als bedoeld in artikel 4, eerste lid, van verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van de Europese Unie van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en marktoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93 (PbEU L 218);  
+
 *belangrijke wijziging:* wijziging van het thermisch vermogen van een stookinstallatie, die leidt tot een toename van de emissies van de in dit besluit bedoelde stoffen met meer dan 10%, alsmede elke andere wijziging die naar het oordeel van het bevoegd gezag aanzienlijke negatieve gevolgen voor de menselijke gezondheid of het milieu kan hebben;  
 
 *belasting:* deel van het thermische vermogen waarbij de stookinstallatie daadwerkelijk wordt bedreven;  
@@ -91,7 +93,7 @@ b. waarop het [Besluit verbranden afvalstoffen](../../../../../../../AMvB/beslui
 c. die blijkens een daarvoor verleende vergunning worden gebruikt voor het onderzoeken, beproeven of demonstreren van experimentele verbrandingstechnieken of van technieken ter bestrijding van de uitworp van zwaveldioxide (SO <sub>2</sub>), stikstofoxiden (NO <sub>x</sub>) of totaal stof,  
 
 d. zijnde een noodvoorziening, die ten hoogste vijfhonderd uren per jaar in bedrijf is.     
-2.  Dit besluit is, voor zover het emissiegrenswaardenvoor stikstofoxiden (NO <sub>x</sub>) betreft, uitgezonderd artikel 2.1.5, eerste en tweede lid, voorts niet van toepassing op stookinstallaties, waarop [titel 16.3 van de wet](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is.   
+2.  Dit besluit is, voor zover het emissiegrenswaarden en meetmethoden voor stikstofoxiden (NO <sub>x</sub>) betreft, uitgezonderd artikel 2.1.5, eerste en tweede lid, voorts niet van toepassing op stookinstallaties, waarop [titel 16.3 van de wet](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is.   
 3.  Dit besluit is, uitgezonderd de artikelen 4.1 en 5.1, tweede lid, niet van toepassing op een ketelinstallatie met een nominaal vermogen kleiner dan 1 megawatt.   
 
 ### Hoofdstuk  2  
@@ -106,7 +108,7 @@ d. zijnde een noodvoorziening, die ten hoogste vijfhonderd uren per jaar in bedr
 
 1.  Het rookgas van een ketelinstallatie waarin de brandstof in vaste of vloeibare vorm wordt verstookt, voldoet aan de volgende emissiegrenswaarden: 
 
-a. stikstofoxiden (NO <sub>x</sub>): 100 milligram per Nm <sup>3</sup>;  
+a. stikstofoxiden (NO <sub>x</sub>): 100 milligram per Nm <sup>3</sup>, voor zover de brandstof in vaste vorm wordt verstookt, en 120 milligram per Nm <sup>3</sup>, voor zover de brandstof in vloeibare vorm wordt verstookt;  
 
 b. zwaveldioxide (SO <sub>2</sub>): 200 milligram per Nm <sup>3</sup>, en  
 
@@ -138,7 +140,7 @@ c. voor zover op vloeibare brandstof wordt gestookt, totaal stof: 15 milligram 
 
 Het rookgas van een vloeistofmotorinstallatie voldoet aan de volgende emissiegrenswaarden: 
 
-a. stikstofoxiden (NO <sub>x</sub>): 450 milligram per Nm <sup>3</sup>, teruggerekend naar ISO-luchtcondities en betrokken op de warmte-inhoud van de toegevoerde brandstof;  
+a. stikstofoxiden (NO <sub>x</sub>): 450 milligram per Nm <sup>3</sup>, teruggerekend naar ISO-luchtcondities;  
 
 b. zwaveldioxide (SO <sub>2</sub>): 200 milligram per Nm <sup>3</sup>, en  
 
@@ -167,9 +169,8 @@ c. onverbrande koolwaterstoffen (C <sub>x</sub> H <sub>y</sub>, uitgedrukt in C)
 ### Artikel  2.2.1  
 
 1.  Een bestaande stookinstallatie voldoet aan de emissiegrenswaarden die onmiddellijk voorafgaand aan de inwerkingtreding van dit besluit voor die installatie golden ingevolge het [Besluit emissie-eisen stookinstallaties milieubeheer B](../../../../../../../AMvB/besluit/emissie-eisen/stookinstallaties/milieubeheer/b/BWBR0004833/README.md), dan wel de daarvan afwijkende emissiegrenswaarden, die voor die stookinstallatie gelden ingevolge een voor die installatie verleende vergunning.   
-2.  Indien een stookinstallatie als bedoeld in het eerste lid aan verdergaande emissiegrenswaarden voldoet dan bedoeld in dat lid, blijft die installatie voldoen aan die verdergaande emissiegrenswaarden.   
-3.  Een stookinstallatie als bedoeld in het eerste of tweede lid voldoet vanaf 1 januari 2017 aan de in de artikelen 2.1.1 tot en met 2.1.5 gestelde emissiegrenswaarden.   
-4.  In afwijking van het eerste of tweede lid, voldoen stookinstallaties die zich binnen de exclusieve economische zone bevinden dan wel deel uitmaken van een inrichting waarin kooldioxide (CO <sub>2</sub>), afkomstig van een andere inrichting, wordt ingezet ten behoeve van de bemesting van gewassen teneinde het gebruik van brandstof te verminderen, met ingang van 1 januari 2019 aan de in het derde lid bedoelde emissiegrenswaarden.   
+2.  Een stookinstallatie als bedoeld in het eerste lid voldoet vanaf 1 januari 2017 aan de in de artikelen 2.1.1 tot en met 2.1.5 gestelde emissiegrenswaarden.   
+3.  In afwijking van het eerste lid voldoen stookinstallaties die zich binnen de exclusieve economische zone bevinden dan wel deel uitmaken van een inrichting waarin kooldioxide (CO <sub>2</sub>), afkomstig van een andere inrichting, wordt ingezet ten behoeve van de bemesting van gewassen teneinde het gebruik van brandstof te verminderen, met ingang van 1 januari 2019 aan de in het derde lid bedoelde emissiegrenswaarden.   
 
 ### Artikel  2.2.2  
 
@@ -245,9 +246,9 @@ a. emissiemeting:
 
 b. monstername betreffende de onder a genoemde stoffen: NEN-EN 15259 «Luchtkwaliteit – Meetmethode emissies van stationaire bronnen – Eisen voor meetvlakken en meetlocaties en voor doelstelling, meetplan en rapportage van de meting».     
 3.  Met de normbladen, bedoeld in het tweede lid, worden gelijkgesteld normbladen die worden gesteld in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, en die een beschermingsniveau waarborgen dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.   
-4.  Het uitvoeren van afzonderlijke metingen, parallelmetingen en referentiemetingen geschiedt door een bedrijf dat met het oog op het verrichten van die metingen is geaccrediteerd door de Raad voor Accreditatie.   
-5.  Onverminderd het vierde lid, mag een afzonderlijke meting ook worden uitgevoerd door een persoon die beschikt over een geldig certificaat dat is afgegeven door een instelling die door de Raad voor Accreditatie is geaccrediteerd teneinde uitvoering te kunnen geven aan de «Beoordelingrichtlijn voor het uitvoeren van onderhoud en inspecties aan stookinstallaties, Scope 6» van de Stichting Certificatie Inspectie en Onderhoud Stookinstallaties of door een persoon die beschikt over een bewijs dat aangeeft dat aan met die beoordelingrichtlijn, Scope 6, vergelijkbare eisen wordt voldaan.   
-6.  Met een accreditatie als bedoeld in het vijfde lid wordt gelijkgesteld een accreditatie afgegeven door een daartoe bevoegd verklaarde accreditatie-instelling, in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, welke accreditatie is afgegeven op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale onderzoekingen of normdocumenten wordt gewaarborgd. Op een certificaat als bedoeld in het vijfde lid is artikel 4.1, vijfde en zesde lid, van toepassing.   
+4.  Het uitvoeren van afzonderlijke metingen, parallelmetingen en referentiemetingen geschiedt door een instantie die is geaccrediteerd door een accreditatie-instantie.   
+5.  In afwijking van het vierde lid, mag een afzonderlijke meting ook worden uitgevoerd door een persoon die beschikt over een geldig certificaat dat is afgegeven door een instantie die is geaccrediteerd door een accreditatie-instantie teneinde uitvoering te kunnen geven aan de «Beoordelingrichtlijn voor het uitvoeren van onderhoud en inspecties aan stookinstallaties, Scope 6» van de Stichting Certificatie Inspectie en Onderhoud Stookinstallaties, mits hij die meting uitvoert overeenkomstig Scope 6, of door een persoon die beschikt over een bewijs dat aangeeft dat aan met die beoordelingrichtlijn, Scope 6, vergelijkbare eisen wordt voldaan, mits hij de meting uitvoert overeenkomstig die vergelijkbare eisen.   
+6.  Op een certificaat als bedoeld in het vijfde lid is artikel 4.1, vijfde lid, van toepassing.   
 
 ### §  3.2  
 
@@ -306,7 +307,7 @@ Bij een continue meting als bedoeld in artikel 3.3.1 is aan een emissiegrenswaar
 ### Artikel  3.3.3  
 
 1.  Indien de concentratie aan stikstofoxiden, zwaveldioxide, onverbrande koolwaterstoffen of totaal stof continu wordt gemeten, wordt de uitworp tijdens het opstarten en stilleggen van de stookinstallatie niet meegerekend bij het bepalen of aan de emissiegrenswaarde wordt voldaan.   
-2.  Indien de concentratie aan zwaveldioxide of totaal stof continu wordt gemeten en de stookinstallatie is uitgerust met een rookgasontzwavelingsinstallatie, wordt de uitworp tijdens perioden als bedoeld in artikel 2.3.1, eerste lid, niet meegerekend.   
+2.  Indien de concentratie aan stikstofoxiden, zwaveldioxide, onverbrande koolwaterstoffen of totaal stof continu wordt gemeten en de stookinstallatie is uitgerust met nageschakelde apparatuur die is bedoeld voor het verminderen van de emissie van genoemde stoffen, wordt de uitworp tijdens perioden als bedoeld in artikel 2.3.1, eerste lid, niet meegerekend.   
 
 ### Artikel  3.3.4  
 
@@ -343,10 +344,9 @@ a. 20 kilowatt tot ten hoogste 100 kilowatt, wordt ten minste eenmaal per vier j
 b. meer dan 100 kilowatt, wordt ten minste eenmaal per twee jaar gekeurd op veilig functioneren, optimale verbranding en energiezuinigheid.     
 2.  Een gasgestookte stookinstallatie als bedoeld in dit besluit met een nominaal vermogen van meer dan 100 kilowatt wordt ten minste eenmaal per vier jaar gekeurd op veilig functioneren, optimale verbranding en energiezuinigheid.   
 3.  Een keuring als bedoeld in het eerste of tweede lid omvat mede de afstelling voor de verbranding, het systeem voor de toevoer van brandstof en verbrandingslucht en de afvoer van verbrandingsgassen.   
-4.  Een keuring als bedoeld in het eerste of tweede lid wordt verricht door een persoon die beschikt over een geldig certificaat dat is afgegeven door een instelling die door de Raad voor Accreditatie is geaccrediteerd teneinde uitvoering te kunnen geven aan de «Beoordelingrichtlijn voor het uitvoeren van onderhoud en inspecties aan stookinstallaties» van de Stichting Certificatie Inspectie en Onderhoud Stookinstallaties of door een persoon die beschikt over een bewijs dat aangeeft dat aan met die beoordelingsrichtlijn vergelijkbare eisen wordt voldaan. Degene die de inrichting drijft vraagt van degene die een keuring verricht een door hem opgesteld en ondertekend verslag van die keuring, waaruit ten minste blijkt wanneer en door wie de keuring is verricht en de resultaten van de keuring.   
+4.  Een keuring als bedoeld in het eerste of tweede lid wordt verricht door een persoon die beschikt over een geldig certificaat dat is afgegeven door een instantie die door een accreditatie-instantie is geaccrediteerd teneinde uitvoering te kunnen geven aan de «Beoordelingrichtlijn voor het uitvoeren van onderhoud en inspecties aan stookinstallaties» van de Stichting Certificatie Inspectie en Onderhoud Stookinstallaties of door een persoon die beschikt over een bewijs dat aangeeft dat aan met die beoordelingsrichtlijn vergelijkbare eisen wordt voldaan. Degene die de inrichting drijft vraagt van degene die een keuring verricht een door hem opgesteld en ondertekend verslag van die keuring, waaruit ten minste blijkt wanneer en door wie de keuring is verricht en de resultaten van de keuring.   
 5.  Bij ministeriële regeling worden nadere voorschriften gegeven betreffende de in het vierde lid bedoelde beoordelingrichtlijn.   
-6.  Met een certificaat of accreditatie als bedoeld in het vierde lid, wordt gelijkgesteld een certificaat of een accreditatie afgegeven door een daartoe bevoegd verklaarde certificeringinstelling, onderscheidenlijk accreditatie-instelling in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, welk certificaat of welke accreditatie is afgegeven op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale onderzoekingen of normdocumenten wordt gewaarborgd.   
-7.  Indien uit een keuring als bedoeld in het vierde lid blijkt dat de stookinstallatie onderhoud behoeft, vindt dat onderhoud binnen twee weken na de keuring plaats. Degene die de inrichting drijft vraagt van degene die het onderhoud verricht aan de stookinstallatie een door hem ondertekend bewijs waaruit blijkt wanneer, door wie en welk onderhoud is verricht.   
+6.  Indien uit een keuring als bedoeld in het vierde lid blijkt dat de stookinstallatie onderhoud behoeft, vindt dat onderhoud binnen twee weken na de keuring plaats. Degene die de inrichting drijft vraagt van degene die het onderhoud verricht aan de stookinstallatie een door hem ondertekend bewijs waaruit blijkt wanneer, door wie en welk onderhoud is verricht.   
 
 ### Hoofdstuk  5  
 

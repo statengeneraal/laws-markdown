@@ -561,15 +561,15 @@ Ieder lid spreekt staande, tenzij de Voorzitter hem verlof geeft zittende te spr
 
 ### §  2a  
 
-####Het spoeddebat
+####Het dertigledendebat
 
 ### Artikel  54a  
 
-####Het spoeddebat
+####Het dertigledendebat
 
-1.  Een spoeddebat wordt gehouden indien een verzoek daartoe wordt gesteund door ten minste dertig leden.   
-2.  Het verzoek geschiedt bij de regeling van werkzaamheden onder aanduiding van het onderwerp van het spoeddebat.   
-3.  De Voorzitter bepaalt de dag waarop het spoeddebat wordt gehouden.   
+1.  Een dertigledendebat wordt gehouden indien een verzoek daartoe wordt gesteund door ten minste dertig leden.   
+2.  Het verzoek geschiedt bij de regeling van werkzaamheden onder aanduiding van het onderwerp van het dertigledendebat.   
+3.  De Voorzitter bepaalt de dag waarop het dertigledendebat wordt gehouden.   
 
 ### §  2b  
 

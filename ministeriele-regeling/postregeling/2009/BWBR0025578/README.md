@@ -84,32 +84,33 @@ b. ten dienste van alle overige collectieve gebouwen zo dicht mogelijk bij de in
 
 ### Artikel  7  
 
-1.  Bij de wijze van toerekening van de kosten van de universele postdienst hanteert de verlener van de universele postdienst een kostentoerekeningssysteem dat: 
-
-a. inzichtelijk maakt hoe de toe te rekenen kosten zijn bepaald;  
-
-b. de rechtstreeks aan de universele postdienst toerekenbare kosten toerekent;  
-
-c. de gemeenschappelijke kosten die niet rechtstreeks aan de universele postdienst toe te rekenen zijn als volgt toerekent: 
-
-1°. indien mogelijk op basis van een rechtstreekse analyse van de aard van de kosten zelf;  
-
-2°. indien een rechtstreekse analyse niet mogelijk is, worden de gemeenschappelijke kosten toegerekend op grond van een indirect verband met een categorie van kosten of met een andere groep van kostencategorieën waarvoor een rechtstreekse toerekening mogelijk is, waarbij het indirecte verband steunt op vergelijkbare kostenstructuren;  
-
-3°. indien geen rechtstreekse of indirecte toerekening als bedoeld onder 1° en 2° mogelijk is, wordt de kostencategorie toegerekend op grond van een algemene verdeelsleutel waarbij de verhouding wordt weergegeven tussen enerzijds alle uitgaven die rechtstreeks of indirect worden toegerekend aan de universele postdienst, en anderzijds, alle uitgaven die rechtstreeks of indirect worden toegerekend aan andere activiteiten van de verlener van de universele postdienst;  
-
-4°. indien het gemeenschappelijke kosten betreft die nodig zijn voor het aanbieden van zowel de universele postdienst als overige diensten, worden deze kosten dienovereenkomstig toegerekend, met dien verstande dat voor de universele postdienst en voor de overige diensten dezelfde kostendrijvers worden gehanteerd.       
-2.  Het kostentoerekeningssysteem: 
+1.  Bij de toerekening van de kosten aan de universele postdienst hanteert de verlener van de universele postdienst een kostentoerekeningssysteem dat: 
 
 a. voldoet aan de beginselen van marktconformiteit, proportionaliteit en integraliteit;  
 
-b. is gebaseerd op een door de verlener van de universele postdienst gehanteerde consistente, objectieve en transparante methode;  
+b. gebruik maakt van de berekeningsmethode activity based costing;  
 
-c. is gebaseerd op de berekeningsmethode activity based costing;  
+c. inzichtelijk maakt hoe de hoogte van de toe te rekenen kosten is bepaald;  
 
-d. geeft het oorzakelijk verband aan tussen de kosten die variëren met het volume van de universele postdienst;  
+d. kosten zoveel mogelijk rechtstreeks toerekent;  
 
-e. rekent de kosten slechts eenmaal toe.     
+e. het oorzakelijk verband aangeeft tussen de kosten en daaraan ten grondslag liggende kostenveroorzakers;  
+
+f. de kosten slechts eenmaal toerekent.     
+2.  De rechtstreeks aan de universele postdienst toerekenbare kosten worden rechtstreeks toegerekend.   
+3.  De gemeenschappelijke kosten die niet rechtstreeks aan de universele postdienst of de overige diensten van de verlener van de universele postdienst toe te rekenen zijn worden slechts aan de universele postdienst toegerekend: 
+
+a. indien dat gerechtvaardigd kan worden op grond van een rechtstreekse analyse van de aard van de kosten zelf;  
+
+b. indien een rechtstreekse analyse niet mogelijk is, de toerekening gerechtvaardigd kan worden op grond van een indirect verband met een categorie van kosten of met een andere groep van kostencategorieën waarvoor een rechtstreekse toerekening mogelijk is, waarbij het indirecte verband steunt op vergelijkbare kostenstructuren;  
+
+c. indien geen rechtstreekse of indirecte toerekening als bedoeld onder a en b mogelijk is, de toerekening gerechtvaardigd kan worden op grond van een algemene verdeelsleutel waarbij de verhouding wordt weergegeven tussen enerzijds alle uitgaven die rechtstreeks of indirect worden toegerekend aan de universele postdienst, en anderzijds, alle uitgaven die rechtstreeks of indirect worden toegerekend aan andere activiteiten van de verlener van de universele postdienst, met dien verstande dat voor de universele postdienst en voor de overige diensten dezelfde kostendrijvers worden gehanteerd.     
+4.  De aan de universele postdienst toerekenbare kosten worden toegerekend aan het postvervoer van de volgende categorieën poststukken: 
+
+a. brieven als bedoeld in [artikel 16, eerste lid, onderdelen a en c, tweede lid, onderdelen a en d, derde en vierde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md);  
+
+b. poststukken niet zijnde brieven als bedoeld in [artikel 16, eerste lid, onderdeel b, tweede lid, onderdelen b en c, derde lid, onderdelen a en b, en vierde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md).     
+5.  Bij de toerekening, bedoeld in het vierde lid, zijn het tweede en derde lid van overeenkomstige toepassing.   
 
 ### Artikel  8  
 
@@ -149,7 +150,13 @@ c. een nauwkeurige omschrijving van de door de instelling toegepaste meetsystema
 ### Artikel  11  
 
 1.  De jaarlijkse rapportage gaat vergezeld van een financiële verantwoording van de verlener van de universele postdienst over de activiteiten ter uitvoering van de universele postdienst die is gebaseerd op de boekhouding van de verlener van de universele postdienst, bedoeld in artikel 8.   
-2.  De financiële verantwoording bevat de gegevens over de behaalde financiële resultaten en het behaalde rendement uit de activiteiten ter uitvoering van de universele postdienst zoals deze zijn opgenomen in een overzicht van de opbrengsten en de kosten aan de hand waarvan het netto bedrijfsresultaat van de activiteiten ter uitvoering van de universele postdienst kan worden vastgesteld.   
+2.  De financiële verantwoording bevat: 
+
+a. een overzicht van de daadwerkelijke kosten van het postvervoer per categorie poststukken, genoemd in artikel 7, vierde lid;  
+
+b. een overzicht van de gerealiseerde volumes;  
+
+c. de gegevens over de behaalde financiële resultaten en het behaalde rendement uit de activiteiten ter uitvoering van de universele postdienst zoals deze zijn opgenomen in een overzicht van de opbrengsten en de kosten aan de hand waarvan het netto bedrijfsresultaat van de activiteiten ter uitvoering van de universele postdienst kan worden vastgesteld.     
 3.  De verlener van de universele postdienst legt bij de financiële verantwoording de vastgestelde jaarrekening en het vastgestelde jaarverslag over van het jaar waarop de financiële verantwoording betrekking heeft.   
 
 ### Artikel  12  
@@ -185,33 +192,40 @@ f. de financiële verantwoording, bedoeld in artikel 11.
 
 ### Artikel  13  
 
-1.  De daadwerkelijke kosten, bedoeld in [artikel 25, derde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), zijn de aan de universele postdienst toe te rekenen kosten, bedoeld in artikel 7, eerste lid, onderdelen b en c.   
-2.  De verlener van de universele postdienst berekent de daadwerkelijke kosten voor de onderscheiden postvervoerdiensten, bedoeld in [artikel 16, eerste, tweede, derde en vierde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md) op grond van de kosten die zijn gemaakt in het kalenderjaar voorafgaand aan de inwerkingtreding van de [wet](../../../../wet/postwet/2009/BWBR0025572/README.md).   
+1.  De daadwerkelijke kosten, bedoeld in [artikel 25, derde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), zijn de aan de universele postdienst toe te rekenen kosten, bedoeld in artikel 7, tweede en derde lid.   
+2.  De verlener van de universele postdienst berekent de daadwerkelijke kosten van het postvervoer per categorie poststukken, genoemd in artikel 7, vierde lid, op grond van de kosten die zijn gemaakt in het kalenderjaar voorafgaand aan het jaar waarin de tarieven door het college worden aangepast.   
 
 ### Artikel  14  
 
-Het redelijk rendement van de verlener van de universele postdienst, bedoeld in [artikel 25, derde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), is het door de verlener van de universele postdienst in het kalenderjaar voorafgaand aan de inwerkingtreding van de [wet](../../../../wet/postwet/2009/BWBR0025572/README.md) behaalde rendement op de universele postdienst, bedoeld in [artikel 16](../../../../wet/postwet/2009/BWBR0025572/README.md) en [17 van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md).  
+Het redelijk rendement per categorie poststukken, genoemd in artikel 7, vierde lid, van de verlener van de universele postdienst, bedoeld in [artikel 25, derde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), is 11,11 procent van de daadwerkelijke kosten, bedoeld in artikel 13, eerste lid, van de betreffende categorie in het jaar voorafgaand aan de aanpassing van de tarieven door het college.  
 
 ### Artikel  15  
 
-1.  Binnen acht weken na inwerkingtreding van deze regeling legt de verlener van de universele postdienst ten behoeve van de vaststelling door het college van de tarieven, bedoeld in [artikel 25, vijfde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), aan het college over: 
+1.  Het college past in 2011 en vervolgens vierjaarlijks uiterlijk 1 oktober de tarieven, bedoeld in [artikel 25, derde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), aan.   
+2.  In het jaar waarin de tarieven door het college worden aangepast, legt de verlener van de universele postdienst uiterlijk 1 juni aan het college over: 
 
-a. een overzicht van de daadwerkelijke kosten berekend op grond van artikel 13;  
+a. een overzicht van de daadwerkelijke kosten van het postvervoer per categorie poststukken, genoemd in artikel 7, vierde lid, in het jaar voorafgaand aan de aanpassing van de tarieven door het college, berekend op grond van artikel 13;  
 
-b. de berekening van het redelijk rendement op grond van artikel 14.     
-2.  De verlener van de universele postdienst doet op basis van het overzicht en de berekening, bedoeld in het eerste lid, onderdelen a en b, aan het college een voorstel voor de door het college vast te stellen tarieven.   
-3.  Het college kan binnen vier weken na ontvangst van het overzicht, de berekening en het voorstel, de verlener van de universele postdienst verzoeken om een nadere onderbouwing hiervan of een nadere toelichting hierbij of verzoeken om het overleggen van nadere gegevens.   
-4.  De verlener van de universele postdienst voldoet binnen vier weken aan het verzoek.   
-5.  Uiterlijk drie maanden nadat de starttarieven, bedoeld in [artikel 25, derde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), door het college zijn vastgesteld, verricht de verlener van de universele postdienst de postvervoerdiensten binnen de universele postdienst tegen deze tarieven.   
+b. een overzicht van de gerealiseerde volumes in het kalenderjaar voorafgaand aan de aanpassing van de tarieven door het college;  
+
+c. een voorstel voor de door het college aan te passen tarieven, waarbij de vermenigvuldiging van de tarieven met de gerealiseerde volumes, bedoeld in onderdeel b, niet groter is dan de daadwerkelijke kosten, bedoeld in artikel 13, vermeerderd met het redelijk rendement, bedoeld in artikel 14.     
+3.  Het tweede lid, onderdeel a, is niet van toepassing indien de financiële verantwoording bij de jaarlijkse rapportage, bedoeld in artikel 11, over het jaar voorafgaand aan de aanpassing van de tarieven door het college, reeds is overgelegd.   
+4.  Het college kan na ontvangst van het voorstel, de verlener van de universele postdienst verzoeken om een nadere onderbouwing hiervan of een nadere toelichting hierbij of verzoeken om het overleggen van nadere gegevens.   
+5.  De verlener van de universele postdienst voldoet binnen vier weken aan het verzoek.   
+6.  Uiterlijk per 1 januari van het kalenderjaar na afloop van het jaar waarin de tarieven door het college zijn aangepast, verricht de verlener van de universele postdienst de postvervoerdiensten binnen de universele postdienst tegen deze tarieven.   
 
 ### Artikel  16  
 
-1.  De verlener van de universele postdienst legt op het tijdstip, bedoeld in artikel 15, eerste lid, tevens aan het college een verklaring van een onafhankelijke, door het college aan te wijzen, accountant over.   
-2.  De verklaring, bedoeld in het eerste lid, heeft betrekking op de controle van de accountant op: 
+1.  De verlener van de universele postdienst legt op het tijdstip, bedoeld in artikel 15, tweede lid, tevens aan het college een verklaring van een onafhankelijke, door het college aan te wijzen, accountant over, die betrekking heeft op de controle van de accountant op: 
 
 a. de wijze van de berekening en de vaststelling van de daadwerkelijke kosten, bedoeld in artikel 13;  
 
-b. de wijze van de berekening en de vaststelling van het rendement, bedoeld in artikel 14.     
+b. de vaststelling van de gerealiseerde volumes, bedoeld in artikel 15, tweede lid, onderdeel b;  
+
+c. de wijze van inrichting en toepassing van het kostentoerekeningssysteem, bedoeld in artikel 7.     
+2.  De verklaring gaat vergezeld van het controleplan, het controleverslag van de accountant en het oordeel van de accountant over zijn controle.   
+3.  Artikel 12, vierde tot en met achtste lid, zijn van overeenkomstige toepassing, tenzij de vakgenootschappelijke toetsing, bedoeld in artikel 12, vierde lid, reeds is verricht.   
+4.  Het eerste en tweede lid zijn niet van toepassing indien de accountantsverklaring bij de jaarlijkse rapportage, bedoeld in artikel 12, over het jaar voorafgaand aan de aanpassing van de tarieven door het college, reeds is overgelegd.   
 
 ### §  2  
 
@@ -224,10 +238,15 @@ b. de wijze van de berekening en de vaststelling van het rendement, bedoeld in a
 a. de enkelstukstarieven voor het verlenen van de universele postdienst met betrekking tot het postvervoer van brieven als bedoeld in [artikel 16, eerste lid, onderdeel a, tweede lid, onderdeel a, derde lid, onderdeel a en b, en vierde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), en anderzijds;  
 
 b. de enkelstukstarieven voor het verlenen van de universele postdienst met betrekking tot het postvervoer van poststukken niet zijnde brieven als bedoeld in [artikel 16, eerste lid, onderdeel b, tweede lid, onderdeel b en c, derde lid, onderdeel a en b, en vierde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md).     
-2.  Het percentage bedoeld in [artikel 25, eerste lid, onderdeel a, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), waarmee de gewogen gemiddelde tarieven, bedoeld in het eerste lid, voor de universele postdienst in de periode vanaf de meest recente vaststelling van de tarieven op basis van [artikel 25, derde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md) tot aan de voorgestelde ingangsdatum van de tariefswijziging jaarlijks mogen worden gewijzigd, is voor alle tariefswijzigingen over voornoemde periode tezamen ten hoogste gelijk aan de gecumuleerde ontwikkeling van de door het Centraal Planbureau gepubliceerde consumentenprijsindex in de periode vanaf de eerste dag van het kalenderjaar waarin de meest recente vaststelling van de tarieven op basis van [artikel 25, derde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md) heeft plaatsgevonden tot en met de laatste dag van het kalenderjaar waarin de voorgestelde tariefswijziging ingaat.   
+2.  Het percentage bedoeld in [artikel 25, eerste lid, onderdeel a, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), waarmee de gewogen gemiddelde tarieven, bedoeld in het eerste lid, voor de universele postdienst in de periode vanaf de meest recente aanpassing van de tarieven op basis van artikel 15, eerste lid, tot aan de voorgestelde ingangsdatum van de tariefswijziging jaarlijks mogen worden gewijzigd, is voor alle tariefswijzigingen over voornoemde periode tezamen ten hoogste gelijk aan de gecumuleerde ontwikkeling van de door het Centraal Planbureau gepubliceerde consumentenprijsindex in de periode vanaf de eerste dag van het kalenderjaar waarin de meest recente vaststelling van de tarieven op basis van [artikel 25, derde lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md) heeft plaatsgevonden tot en met de laatste dag van het kalenderjaar waarin de voorgestelde tariefswijziging ingaat.   
 3.  Het college toetst of een tariefswijziging van de verlener van de universele dienst voldoet aan het tweede lid.   
-4.  De weging, bedoeld in het eerste lid, wordt gebaseerd op de omzetaandelen van de binnen het postvervoer, bedoeld in het eerste lid, onderdeel a onderscheidenlijk onderdeel b, te onderscheiden postdiensten van het kalenderjaar voorafgaand aan de inwerkingtreding van deze [wet](../../../../wet/postwet/2009/BWBR0025572/README.md).   
-5.  Op verzoek van de verlener van de universele dienst kan de weging, bedoeld in het eerste lid, vier jaar na inwerkingtreding van de [wet](../../../../wet/postwet/2009/BWBR0025572/README.md), in afwijking van het vierde lid, gebaseerd worden op de omzetaandelen van een later kalenderjaar. De verlener van de universele dienst dient dit verzoek voor 1 juni in bij het college. Bij het verzoek legt hij een verklaring over van de openbaar accountant, bedoeld in artikel 12, aangaande de juistheid en de volledigheid van de verstrekte omzetaandelen.   
+4.  De weging, bedoeld in het eerste lid, wordt gebaseerd op de omzetaandelen van de binnen het postvervoer, bedoeld in het eerste lid, onderdeel a onderscheidenlijk onderdeel b, te onderscheiden postdiensten van het kalenderjaar voorafgaand aan het jaar waarin door het college de tarieven worden aangepast op grond van artikel 15, eerste lid.   
+5.  In afwijking van het vierde lid, kan de weging, bedoeld in het eerste lid, gebaseerd worden op de omzetaandelen van een later kalenderjaar: 
+
+a. op verzoek van de verlener van de universele dienst;  
+
+b. indien de indeling van de diensten binnen een in het eerste lid genoemde categorie is of wordt gewijzigd.     
+6.  De verlener van de universele dienst dient een verzoek, als bedoeld in het vijfde lid, onderdeel a, voor 1 juni in bij het college. Bij het verzoek legt hij een verklaring over van de openbaar accountant, bedoeld in artikel 12, aangaande de juistheid en de volledigheid van de verstrekte omzetaandelen.   
 
 ### §  3  
 
@@ -235,7 +254,7 @@ b. de enkelstukstarieven voor het verlenen van de universele postdienst met betr
 
 ### Artikel  18  
 
-1.  De verlener van de universele postdienst legt bij de toezending aan het college, bedoeld in [artikel 27, eerste lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), gegevens over waaruit blijkt dat de tarieven en de wijziging van de tarieven in overeenstemming zijn met de vereisten van [artikel 24, tweede en derde lid](../../../../wet/postwet/2009/BWBR0025572/README.md), en [artikel 25, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md).   
+1.  De verlener van de universele postdienst legt bij de toezending aan het college, bedoeld in [artikel 27, eerste lid, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md), gegevens over waaruit blijkt dat de tarieven en de wijziging van de tarieven in overeenstemming zijn met de vereisten van [artikel 24, tweede en derde lid](../../../../wet/postwet/2009/BWBR0025572/README.md), en [artikel 25, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md). Indien de indeling van de diensten binnen een in artikel 17, eerste lid, genoemde categorie is of wordt gewijzigd overlegt de verlener van de universele postdienst gegevens over waaruit blijkt wat de effecten van de nieuwe indeling zijn op de gewogen gemiddelde tarieven.   
 2.  De verlener van de universele postdienst legt bij de gegevens, bedoeld in het eerste lid, een verklaring over van een onafhankelijke, door het college aan te wijzen, accountant. De verklaring heeft betrekking op de controle van de accountant van de gegevens, bedoeld in het eerste lid, aan de vereisten van [artikel 24, tweede en derde lid](../../../../wet/postwet/2009/BWBR0025572/README.md), en [artikel 25, van de wet](../../../../wet/postwet/2009/BWBR0025572/README.md).   
 
 ### Artikel  19  
