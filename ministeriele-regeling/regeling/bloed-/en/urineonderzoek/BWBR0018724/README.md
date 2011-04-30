@@ -78,9 +78,7 @@ c. € 91 voor het onderzoek naar het alcoholgehalte van het bloed, bedoeld in 
 
 a. het Laboratorium van de Apotheek van het Onze-Lieve-Vrouwe Gasthuis, te Amsterdam;  
 
-b. het Laboratorium der Apotheek, Academisch Ziekenhuis Rotterdam-Dijkzigt, te Rotterdam,  
-
-c. het Laboratorium der Apotheek, Academisch Ziekenhuis Groningen te Groningen;     
+b. het Laboratorium der Apotheek, Academisch Ziekenhuis Groningen te Groningen;     
 2.  Het Nederlands Forensisch Instituut zendt het laboratorium dat het tegenonderzoek verricht, tenminste 1 milliliter bloed of urine.   
 
 ### Artikel  13  
