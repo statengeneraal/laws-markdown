@@ -69,17 +69,17 @@ Douanekantoren zijn gevestigd in de plaatsen genoemd in bijlage I.
 
 ### Artikel  1:4  
 
-1.  De algemeen directeur, de directeuren en de voorzitter, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), zijn inspecteur en ontvanger als bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md).   
+1.  De algemeen directeur en de directeuren, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), zijn inspecteur en ontvanger als bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md).   
 2.  De directeur-generaal Belastingdienst is inspecteur en ontvanger als bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md), voor zover het de belastingaangelegenheden betreft die verband houden met het Koninklijk Huis.   
 
 ### Artikel  1:5  
 
-1.  De algemeen directeur Douane, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) en de directeuren en de voorzitter, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), zijn ambtenaar als bedoeld in [artikel 11:7 van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md) (contactambtenaar).   
+1.  De algemeen directeur Douane, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) en de directeuren, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), zijn ambtenaar als bedoeld in [artikel 11:7 van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md) (contactambtenaar).   
 2.  De algemeen directeur Douane, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling belastingdienst 2003](../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), is op grond van [artikel 1:28, zesde lid, van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md) bevoegd tot het geven van toestemming voor het vorderen van gehele ontkleding dan wel het onderzoek van het onderlichaam van degene die aan lijfsvisitatie wordt onderworpen.   
 
 ### Artikel  1:6  
 
-De verplichtingen die ingevolge [artikel 1:32 van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md) bestaan jegens de inspecteur en de ontvanger, gelden mede jegens de voorzitter van het managementteam van de FIOD-ECD alsmede jegens de door deze voorzitter aangewezen ambtenaren van de Belastingdienst.  
+De verplichtingen die ingevolge [artikel 1:32 van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md) bestaan jegens de inspecteur en de ontvanger, gelden mede jegens de directeur van de FIOD alsmede jegens de door deze directeur aangewezen ambtenaren van de Belastingdienst.  
 
 ### Artikel  1:7  
 
@@ -1067,7 +1067,7 @@ Voor goederen, vermeld in onderstaande lijst, die in kleine zendingen of door re
 |:---|:---|:---|
 | a. overige alcoholhoudende producten als bedoeld in [artikel 12 van de Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md):  | liter  | € 5,72  |
 | b. rooktabak  | kleinhandelsprijs van  soortgelijke producten  | 50,6%  |
-| c. sigaretten  | kleinhandelsprijs van  soortgelijke producten  | 57,0%  |
+| c. sigaretten  | kleinhandelsprijs van  soortgelijke producten  | 59,3%  |
 
 ### Artikel  7:18  
 

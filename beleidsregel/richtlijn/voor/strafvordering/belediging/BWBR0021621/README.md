@@ -51,11 +51,15 @@ Medeplegen
 
 - Geen ambtenaar, bewaker, ordehandhaver of toezichthouder: +0%  
 
-- Het betreft een ambtenaar, bewaker, ordehandhaver of toezichthouder: +25%   Discriminatoire aspecten 
+- Het betreft een ambtenaar, bewaker, ordehandhaver of toezichthouder: +25%   Discriminatoire aspecten  
 
-- Geen sprake van discriminatoire aspecten: +0%  
+| --- | --- |
+|:---|:---|
+| – Geen sprake van discriminatoire aspecten  | +0 %  |
+| – Er is sprake van discriminatoire aspecten bij een minder ingrijpend feit  | +50 %  |
+| – Er is sprake van discriminatoire aspecten en het betreft een ingrijpend feit  | + 100%  + dagvaarden  |
 
-- Er is sprake van discriminatoire aspecten +50%    In samenhang met een sportevenement 
+In samenhang met een sportevenement 
 
 - Geen sprake van samenhang met een sportevenement: +0%  
 
@@ -134,9 +138,13 @@ Medeplegen
 Met betrekking tot een aantal delicten, zoals mishandeling, openlijke geweld, vernieling en bedreiging, dient het eventuele feit dat de gepleegde agressieve handeling samenhangt met, of terug te voeren is op een verkeerssituatie, strafverzwarend te worden beoordeeld. Reden voor die verzwaring is enerzijds het risico van escalatie van dergelijke delicten in een overgevoelige situatie, en anderzijds de verhoogde gevaarzetting die agressie in een verkeerssituatie voor andere verkeersdeelnemers doorgaans oplevert. 
 ###Discriminatoire aspecten
 
-- Geen sprake van discriminatoire aspecten: +0%  
+| --- | --- |
+|:---|:---|
+| – Geen sprake van discriminatoire aspecten  | +0 %  |
+| – Er is sprake van discriminatoire aspecten bij een minder ingrijpend feit  | +50 %  |
+| – Er is sprake van discriminatoire aspecten en het betreft een ingrijpend feit  | + 100%  + dagvaarden  |
 
-- Er is sprake van discriminatoire aspecten: +50%   In samenhang met een sportevenement 
+In samenhang met een sportevenement 
 
 - Geen sprake van samenhang met een sportevenement: +0%  
 
@@ -198,11 +206,15 @@ Medeplegen
 
 - Geen ambtenaar, bewaker, ordehandhaver of toezichthouder: +0%  
 
-- Het betreft een ambtenaar, bewaker, ordehandhaver of toezichthouder: +25%   Discriminatoire aspecten 
+- Het betreft een ambtenaar, bewaker, ordehandhaver of toezichthouder: +25%   Discriminatoire aspecten  
 
-- Geen sprake van discriminatoire aspecten: +0%  
+| --- | --- |
+|:---|:---|
+| – Geen sprake van discriminatoire aspecten  | +0 %  |
+| – Er is sprake van discriminatoire aspecten bij een minder ingrijpend feit  | +50 %  |
+| – Er is sprake van discriminatoire aspecten en het betreft een ingrijpend feit  | + 100%  + dagvaarden  |
 
-- Er is sprake van discriminatoire aspecten: +50%   In samenhang met een sportevenement 
+In samenhang met een sportevenement 
 
 - Geen sprake van samenhang met een sportevenement: + 0%  
 

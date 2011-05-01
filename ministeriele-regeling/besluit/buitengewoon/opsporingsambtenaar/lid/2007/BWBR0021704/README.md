@@ -29,7 +29,7 @@ Maximaal 30 personen, werkzaam bij de LID als inspecteur dierenbescherming, zijn
 ### Artikel  4  
 
 1.  Als toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de hoofdofficier van justitie van het Functioneel Parket.   
-2.  Als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de korpschef van het regionaal politiekorps Gooi en Vechtstreek.   
+2.  Als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de korpschef van het Korps landelijke politiediensten.   
 
 ### Artikel  5  
 

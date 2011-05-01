@@ -916,7 +916,7 @@ a. de burgemeester van de gemeente of de gezaghebber van het openbaar lichaam wa
 
 b. de autoriteit in Aruba, Curaçao of Sint Maarten, die het reisdocument heeft verstrekt, dan wel  
 
-c. het hoofd van de Nederlandse consulaire post in het buitenland of de burgemeester van Den Haag, Enschede, Maastricht of Echt-Susteren, die het reisdocument heeft verstrekt, dan wel  
+c. het hoofd van de Nederlandse consulaire post in het buitenland of de burgemeester van Den Haag, Enschede, Maastricht, Echt-Susteren of Oldambt, die het reisdocument heeft verstrekt, dan wel  
 
 d. de burgemeester van de gemeente of de gezaghebber van het openbaar lichaam waar de houder voor het laatst als ingezetene in de basisadministratie was ingeschreven, indien het reisdocument niet door een in b of c genoemde autoriteit is verstrekt.     
 2.  Van de ongedaanmaking van een bijschrijving als bedoeld in artikel 79 wordt met gebruikmaking van modelformulier C3 kennis gegeven aan de autoriteit, bedoeld in het eerste lid, onder a, b of c, die de bijschrijving heeft geplaatst, dan wel aan de burgemeester van de gemeente of de gezaghebber van het openbaar lichaam waar het bijgeschreven kind voor het laatst als ingezetene in de basisadministratie was ingeschreven, indien de bijschrijving niet door een in het eerste lid onder b of c genoemde autoriteit is geplaatst.   

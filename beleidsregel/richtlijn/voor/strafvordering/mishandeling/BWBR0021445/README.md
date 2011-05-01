@@ -95,7 +95,8 @@ Is het slachtoffer een ambtenaar of een ander, herkenbaar belast met bewaking, h
 | --- | --- |
 |:---|:---|
 | – Geen sprake van discriminatoire aspecten  | +0 %  |
-| – Er is sprake van discriminatoire aspecten  | +50%  |
+| – Er is sprake van discriminatoire aspecten bij een minder ingrijpend feit  | +50 %  |
+| – Er is sprake van discriminatoire aspecten en het betreft een ingrijpend feit  | + 100%  + dagvaarden  |
 
 ###In samenhang met een sportevenement
 

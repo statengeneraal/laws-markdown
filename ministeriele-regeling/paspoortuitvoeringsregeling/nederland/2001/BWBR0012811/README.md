@@ -105,9 +105,9 @@ b. een laissez-passer, indien verstrekking van een noodpaspoort met gebruikmakin
 
 ### Artikel  7  
 
-####De burgemeesters van Den Haag, Enschede, Maastricht en Echt-Susteren
+####De burgemeesters van Den Haag, Enschede, Maastricht, Echt-Susteren en Oldambt
 
-De burgemeesters van Den Haag, Enschede, Maastricht en Echt-Susteren verrichten de handelingen ingevolge de [wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) en artikel 6 tevens ten behoeve van personen die niet als ingezetene in de basisadministratie van een gemeente zijn ingeschreven.  
+De burgemeesters van Den Haag, Enschede, Maastricht, Echt-Susteren en Oldambt verrichten de handelingen ingevolge de [wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) en artikel 6 tevens ten behoeve van personen die niet als ingezetene in de basisadministratie van een gemeente zijn ingeschreven.  
 
 ### Artikel  8  
 

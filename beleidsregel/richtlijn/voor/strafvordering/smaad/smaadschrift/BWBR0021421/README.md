@@ -44,7 +44,8 @@ Discriminatoire aspecten
 | --- | --- |
 |:---|:---|
 | – Geen sprake van discriminatoire aspecten  | +0 %  |
-| – Er is sprake van discriminatoire aspecten  | +50%  |
+| – Er is sprake van discriminatoire aspecten bij een minder ingrijpend feit  | +50 %  |
+| – Er is sprake van discriminatoire aspecten en het betreft een ingrijpend feit  | + 100%  + dagvaarden  |
 
 Medeplegen   
 
@@ -127,7 +128,8 @@ Discriminatoire aspecten
 | --- | --- |
 |:---|:---|
 | – Geen sprake van discriminatoire aspecten  | +0 %  |
-| – Er is sprake van discriminatoire aspecten  | +50%  |
+| – Er is sprake van discriminatoire aspecten bij een minder ingrijpend feit  | +50 %  |
+| – Er is sprake van discriminatoire aspecten en het betreft een ingrijpend feit  | + 100%  + dagvaarden  |
 
 Medeplegen   
 
@@ -209,8 +211,9 @@ Discriminatoire aspecten
 
 | --- | --- |
 |:---|:---|
-| – Geen sprake van discriminatoire aspecten  | +0%  |
-| – Er is sprake van discriminatoire aspecten  | +50%  |
+| – Geen sprake van discriminatoire aspecten  | +0 %  |
+| – Er is sprake van discriminatoire aspecten bij een minder ingrijpend feit  | +50 %  |
+| – Er is sprake van discriminatoire aspecten en het betreft een ingrijpend feit  | + 100%  + dagvaarden  |
 
 Medeplegen   
 

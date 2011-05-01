@@ -579,32 +579,32 @@ b. € 14,00 indien de schuld € 454,00 of meer bedraagt.
 
 a. Indien de werkzaamheden op verzoek worden verricht op maandag, dinsdag, woensdag, donderdag of vrijdag in de periode 7.00 uur tot 20.00 uur 
 
-1°. voor pootaardappelen een tarief per inspectieaanvraag van € 32,65 wanneer de fytosanitaire keuring samenvalt met de kwaliteitskeuring, en € 76,15 wanneer de fytosanitaire keuring afzonderlijk plaatsvindt;  
+1°. voor pootaardappelen een tarief per inspectieaanvraag van € 33,45 wanneer de fytosanitaire keuring samenvalt met de kwaliteitskeuring, en € 78,00 wanneer de fytosanitaire keuring afzonderlijk plaatsvindt;  
 
-2°. voor consumptieaardappelen en overige producten een starttarief van € 43,50 per inspectieaanvraag voor de eerste partij op locatie, vermeerderd met een tarief van € 1,15 per minuut voor het inspecteren van deze partij en alle partijen consumptieaardappelen en overige producten die tijdens hetzelfde bezoek aansluitend op de eerste partij worden geïnspecteerd;    
+2°. voor consumptieaardappelen en overige producten een starttarief van € 47,85 per inspectieaanvraag voor de eerste partij op locatie, vermeerderd met een tarief van € 1,25 per minuut voor het inspecteren van deze partij en alle partijen consumptieaardappelen en overige producten die tijdens hetzelfde bezoek aansluitend op de eerste partij worden geïnspecteerd;    
 
 b. Indien de werkzaamheden op verzoek worden verricht op zaterdag of op maandag, dinsdag, woensdag, donderdag of vrijdag in een andere periode dan de periode bedoeld in het eerste lid 
 
-1°. voor pootaardappelen een tarief per inspectieaanvraag van € 49,00 wanneer de fytosanitaire keuring samenvalt met de kwaliteitskeuring, en € 114,20 wanneer de fytosanitaire keuring afzonderlijk plaatsvindt;  
+1°. voor pootaardappelen een tarief per inspectieaanvraag van € 50,20 wanneer de fytosanitaire keuring samenvalt met de kwaliteitskeuring, en € 117,00 wanneer de fytosanitaire keuring afzonderlijk plaatsvindt;  
 
-2°. voor consumptieaardappelen en overige producten een starttarief van € 65,25 per inspectieaanvraag voor de eerst partij op locatie, vermeerderd met een tarief van € 1,75 per minuut voor het inspecteren van deze partij en alle partijen consumptieaardappelen en overige producten die tijdens hetzelfde bezoek aansluitend op de eerste partij worden geïnspecteerd.    
+2°. voor consumptieaardappelen en overige producten een starttarief van € 71,80 per inspectieaanvraag voor de eerst partij op locatie, vermeerderd met een tarief van € 1,90 per minuut voor het inspecteren van deze partij en alle partijen consumptieaardappelen en overige producten die tijdens hetzelfde bezoek aansluitend op de eerste partij worden geïnspecteerd.    
 
 c. Indien de werkzaamheden op verzoek worden verricht op zondag of op een algemeen erkende feestdag, met uitzondering van 5 mei, 
 
-1°. voor pootaardappelen een tarief van € 65,30 wanneer de fytosanitaire keuring samenvalt met de kwaliteitskeuring, en € 152,30 wanneer de fytosanitaire keuring afzonderlijk plaatsvindt;  
+1°. voor pootaardappelen een tarief van € 66,90 wanneer de fytosanitaire keuring samenvalt met de kwaliteitskeuring, en € 156,00 wanneer de fytosanitaire keuring afzonderlijk plaatsvindt;  
 
-2°. voor consumptieaardappelen en overige producten een starttarief van € 87,00 per inspectieaanvraag voor de eerste partij op locatie, vermeerderd met een tarief van € 2,30 per minuut voor het inspecteren van deze partij en alle partijen consumptieaardappelen en overige producten die tijdens hetzelfde bezoek aansluitend op de eerste partij worden geïnspecteerd;    
+2°. voor consumptieaardappelen en overige producten een starttarief van € 95,70 per inspectieaanvraag voor de eerste partij op locatie, vermeerderd met een tarief van € 2,50 per minuut voor het inspecteren van deze partij en alle partijen consumptieaardappelen en overige producten die tijdens hetzelfde bezoek aansluitend op de eerste partij worden geïnspecteerd;    
 
-d. Indien de werkzaamheden niet voor 11.00 uur worden aangevraagd om te worden verricht op dezelfde dag, zijnde een werkdag, tussen 13.00 uur en 18.00 uur, dan wel niet voor 17.00 uur worden aangevraagd om te worden verricht op de eerstvolgende werkdag tussen 7.00 uur en 13.00 uur, in afwijking op de starttarieven vermeld in de onderdelen a en b, een starttarief van € 87,00 per inspectieaanvraag.     
+d. Indien de werkzaamheden niet voor 11.00 uur worden aangevraagd om te worden verricht op dezelfde dag, zijnde een werkdag, tussen 13.00 uur en 18.00 uur, dan wel niet voor 17.00 uur worden aangevraagd om te worden verricht op de eerstvolgende werkdag tussen 7.00 uur en 13.00 uur, in afwijking op de starttarieven vermeld in de onderdelen a en b, een starttarief van € 95,70 per inspectieaanvraag.     
 2.  De tarieven, bedoeld in het eerste lid, voor consumptieaardappelen en overige producten zijn eveneens van toepassing ingeval de inspectieaanvragen uitsluitend betrekking hebben op administratieve controles en daarmee verband houdende werkzaamheden.   
-3.  Voor alle inspectieaanvragen wordt een toeslag berekend van € 12,50 voor toezicht en loonsuppletie.   
-4.  Voor de afgifte van een exportcertificaat dat is aangevraagd via CLIENT Export, wordt een bedrag van € 4,50 in rekening gebracht.   
-5.  Voor het opmaken en afgeven van een exportcertificaat waarvan de gegevens niet via CLIENT Export worden aangeleverd, wordt per certificaat naast het tarief, genoemd in het vierde lid, een bedrag van €26,25 in rekening gebracht.   
-6.  Voor het opmaken van een certificaat waarvan de gegevens niet via het elektronische systeem CLIENT Export worden aangeleverd, wordt naast het tarief bedoeld in het eerste lid, een tarief van € 13,90 per inspectiebiljet in rekening gebracht.   
+3.  Voor alle inspectieaanvragen wordt een toeslag berekend van € 12,50 voor toezicht.   
+4.  Voor de afgifte van een exportcertificaat dat is aangevraagd via CLIENT Export, wordt een bedrag van € 4,62 in rekening gebracht.   
+5.  Voor het opmaken en afgeven van een exportcertificaat waarvan de gegevens niet via CLIENT Export worden aangeleverd, wordt per certificaat naast het tarief, genoemd in het vierde lid, een bedrag van € 26,50 in rekening gebracht.   
+6.  Voor het opmaken van een certificaat waarvan de gegevens niet via het elektronische systeem CLIENT Export worden aangeleverd, wordt naast het tarief bedoeld in het eerste lid, een tarief van € 14,25 per inspectiebiljet in rekening gebracht.   
 
 ### Artikel  39  
 
-Bedrijven die fytosanitaire inspectieaanvragen bij de NAK indienen wordt jaarlijks voor registratie een bedrag van € 68,00 in rekening gebracht, tenzij zij reeds een registratiebedrag in het kader van kwaliteitsinspecties hebben betaald.  
+Bedrijven die fytosanitaire inspectieaanvragen bij de NAK indienen wordt jaarlijks voor registratie een bedrag van € 69,70 in rekening gebracht, tenzij zij reeds een registratiebedrag in het kader van kwaliteitsinspecties hebben betaald.  
 
 ### Artikel  40  
 
@@ -613,18 +613,18 @@ Bedrijven die fytosanitaire inspectieaanvragen bij de NAK indienen wordt jaarlij
 
 ### Artikel  41  
 
-1.  Indien de controles van de identiteit en de fytosanitaire controles bedoeld in [artikel 12, eerste lid, onder a tot en met c, van de Regeling invoer, uitvoer en verkeer van planten](../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) overeenkomstig het [zevende lid van dat artikel](../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief van € 13,90 per zending in rekening gebracht.   
-2.  Voor een op verzoek van de aanvrager door de keuringsdienst afgegeven document ter facilitering van de fytosanitaire exportcertificering van een zending planten of plantaardige producten door een andere lidstaat dan de lidstaat van herkomst, wordt bij de aanvrager per document € 48,55 in rekening gebracht.   
+1.  Indien de controles van de identiteit en de fytosanitaire controles bedoeld in [artikel 12, eerste lid, onder a tot en met c, van de Regeling invoer, uitvoer en verkeer van planten](../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) overeenkomstig het [zevende lid van dat artikel](../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief van € 14,25 per zending in rekening gebracht.   
+2.  Voor een op verzoek van de aanvrager door de keuringsdienst afgegeven document ter facilitering van de fytosanitaire exportcertificering van een zending planten of plantaardige producten door een andere lidstaat dan de lidstaat van herkomst, wordt bij de aanvrager per document € 49,50 in rekening gebracht.   
 
 ### Artikel  42  
 
 Indien degene die voor het verrichten van werkzaamheden, bedoeld in artikel 38, desgevraagd op een bepaald tijdstip en op een bepaalde plaats aanwezig is, maar de werkzaamheden door omstandigheden buiten toedoen van de met deze werkzaamheden belaste persoon niet kunnen worden verricht, wordt de aanvrager als kosten een bedrag in rekening gebracht: 
 
-a. € 87,00 indien het werkzaamheden bedoeld in artikel 38, eerste lid, onderdeel a, betreft;  
+a. € 95,70 indien het werkzaamheden bedoeld in artikel 38, eerste lid, onderdeel a, betreft;  
 
-b. € 130,50 indien het werkzaamheden bedoeld in artikel 38, eerste lid, onderdeel b, betreft;  
+b. € 143,55 indien het werkzaamheden bedoeld in artikel 38, eerste lid, onderdeel b, betreft;  
 
-c. € 174,00 indien het werkzaamheden bedoeld in artikel 38, eerste lid, onderdeel c, betreft.    
+c. € 191,40 indien het werkzaamheden bedoeld in artikel 38, eerste lid, onderdeel c, betreft.    
 
 ### §  6.2  
 
@@ -632,12 +632,11 @@ c. € 174,00 indien het werkzaamheden bedoeld in artikel 38, eerste lid, onder
 
 ### Artikel  43  
 
-1.  Indien in het kader van de werkzaamheden, bedoeld in artikel 38, laboratoriumonderzoek noodzakelijk is, wordt de aanvrager boven de in dat artikel genoemde vergoeding een bedrag van € 105,00 per genomen monster in rekening gebracht.   
-2.  Indien dit onderzoek door de Plantenziektenkundige Dienst wordt uitgevoerd, wordt hiervoor het tarief bedoeld in artikel 4 in rekening gebracht, vermeerderd met € 51,50 voor bemonstering en administratie.   
-3.  Indien een monster uit een partij bestemd voor import of export wordt genomen voor bruin- en ringrotonderzoek, wordt hiervoor een tarief van € 114,95 in rekening gebracht.   
-4.  Indien het indicatief onderzoek ten behoeve van export met betrekking tot bietencystenaaltjes wordt uitgevoerd, wordt per monster een tarief van € 13,60 in rekening gebracht.   
-5.  Als vergoeding voor de monstername voorafgaande aan de teelt, het onderzoek en de verklaring betreffende Rhizomanie ten behoeve van verkeer naar de binnen de EU beschermde gebieden voor Rhizomanie, wordt een bedrag van € 40,10, € 41,65 respectievelijk € 30,40 per perceel in rekening gebracht. Voor het na de oogst verstrekken van een verklaring betreffende Rhizomanie wordt een tarief van € 87,65 in rekening gebracht.   
-6.  Als vergoeding voor onderzoek naar Meloidogyne chitwoodi, van partijen pootaardappelen die in het verkeer worden gebracht en afkomstig zijn uit aangewezen gebieden voor Meloidogyne, wordt per partij een bedrag van € 68,40 (incubatie) dan wel € 87,05 (PCR) in rekening gebracht.   
+1.  Indien dit onderzoek door de Plantenziektenkundige Dienst wordt uitgevoerd, wordt hiervoor het tarief bedoeld in artikel 4 in rekening gebracht, vermeerderd met € 54,10 voor bemonstering en administratie.   
+2.  Indien een monster uit een partij bestemd voor import of export wordt genomen voor bruin- en ringrotonderzoek, wordt hiervoor een tarief van € 117,80 in rekening gebracht.   
+3.  Indien het indicatief onderzoek ten behoeve van export met betrekking tot bietencystenaaltjes wordt uitgevoerd, wordt per monster een tarief van € 13,95 in rekening gebracht.   
+4.  Als vergoeding voor de monstername voorafgaande aan de teelt, het onderzoek en de verklaring betreffende Rhizomanie ten behoeve van verkeer naar de binnen de EU beschermde gebieden voor Rhizomanie, wordt een bedrag van € 41,10, € 42,70 respectievelijk €31,15 per perceel in rekening gebracht. Voor het na de oogst verstrekken van een verklaring betreffende Rhizomanie wordt een tarief van € 89,85 in rekening gebracht.   
+5.  Als vergoeding voor onderzoek naar Meloidogyne chitwoodi, van partijen pootaardappelen die in het verkeer worden gebracht en afkomstig zijn uit aangewezen gebieden voor Meloidogyne, wordt per partij een bedrag van € 70,10 (incubatie) dan wel € 89,25 (PCR) in rekening gebracht.   
 
 ### §  6.3  
 
@@ -645,7 +644,7 @@ c. € 174,00 indien het werkzaamheden bedoeld in artikel 38, eerste lid, onder
 
 ### Artikel  44  
 
-Als vergoeding voor het ten kantore van de NAK waarmerken van certificaten ten behoeve van niet-inspectieplichtige zendingen wordt de aanvrager € 6,75 per certificaat in rekening gebracht.  
+Als vergoeding voor het ten kantore van de NAK waarmerken van certificaten ten behoeve van niet-inspectieplichtige zendingen wordt de aanvrager € 6,90 per certificaat in rekening gebracht.  
 
 ### §  6.4  
 
@@ -655,53 +654,57 @@ Als vergoeding voor het ten kantore van de NAK waarmerken van certificaten ten b
 
 1.  Als vergoeding voor de kosten van het onderzoek ten behoeve van het afgeven van een verklaring als bedoeld in [artikel 5, derde lid](../../../../../ministeriele-regeling/regeling/bruin-/en/ringrot/2000/BWBR0011741/README.md), en [artikel 6, tweede lid, van de Regeling bruin- en ringrot 2000](../../../../../ministeriele-regeling/regeling/bruin-/en/ringrot/2000/BWBR0011741/README.md), worden de volgende kosten in rekening gebracht: 
 
-a. € 80,50 indien één monster per partij is genomen;  
+a. € 82,50 indien één monster per partij is genomen;  
 
-b. € 75,10 per monster indien meer dan één monster per partij is genomen;  
+b. € 77,05 per monster indien meer dan één monster per partij is genomen;  
 
-c. € 114,95 indien het monster na 1 november van elk jaar tot 1 juli van het daaropvolgend jaar wordt genomen;  
+c. € 117,80 indien het monster na 1 november van elk jaar tot 1 juli van het daaropvolgend jaar wordt genomen;  
 
-d. € 46,45 voor monsters ontvangen van kweekbedrijven voor 1 november van elk jaar;  
+d. € 47,60 voor monsters ontvangen van kweekbedrijven voor 1 november van elk jaar;  
 
-e. € 92,90 voor monsters ontvangen van kweekbedrijven op of na 1 november van elk jaar;  
+e. € 95,20 voor monsters ontvangen van kweekbedrijven op of na 1 november van elk jaar;  
 
-f. € 6,95 voor aanvullend ringrotonderzoek aan een ingezonden monster.     
-2.  Indien het gaat om spoedbemonstering en spoedonderzoek, worden de in het eerste lid bedoelde tarieven vermeerderd met een tarief van € 46,45.   
+f. € 7,10 voor aanvullend ringrotonderzoek aan een ingezonden monster.     
+2.  Indien het gaat om spoedbemonstering en spoedonderzoek, worden de in het eerste lid bedoelde tarieven vermeerderd met een tarief van € 47,60.   
 3.  Als vergoeding voor de kosten van aanvullend onderzoek op bruinrot en/of ringrot, exclusief monstername, worden de volgende kosten in rekening gebracht: 
 
-a. bruinrot- en ringrotonderzoek € 32,30 bij een monster van 1 tot 20 knollen, € 38,80 bij een monster van 21 tot 40 knollen, € 57,90 bij een monster van 41 tot 100 knollen en € 89,70 bij een monster van 101 tot 200 knollen;  
+a. bruinrot- en ringrotonderzoek € 33,10 bij een monster van 1 tot 20 knollen, € 39,70 bij een monster van 21 tot 40 knollen, € 59,35 bij een monster van 41 tot 100 knollen en € 91,95 bij een monster van 101 tot 200 knollen;  
 
-b. bruinrot- of ringrotonderzoek € 26,00 bij een monster van 1 tot 20 knollen, € 32,40 bij een monster van 21 tot 40 knollen, € 51,50 bij een monster van 41 tot 100 knollen en € 83,20 bij een monster van 101 tot 200 knollen;  
+b. bruinrot- of ringrotonderzoek € 26,65 bij een monster van 1 tot 20 knollen, € 33,20 bij een monster van 21 tot 40 knollen, € 52,80 bij een monster van 41 tot 100 knollen en € 85,30 bij een monster van 101 tot 200 knollen;  
 
-c. bruinrot- of ringrotonderzoek aan vitromateriaal € 39,35 bij een monster van 1 tot 20 knollen, € 52,80 bij een monster van 21 tot 40 knollen, € 66,15 bij een monster van 41 tot 60 knollen, € 79,65 bij een monster van 61 tot 80 knollen, € 93,00 bij een monster van 81 tot 100 knollen en € 160,95 bij een monster van 101 tot 200 knollen;  
+c. bruinrot- of ringrotonderzoek aan vitromateriaal € 40,35 bij een monster van 1 tot 20 knollen, € 54,10 bij een monster van 21 tot 40 knollen, € 67,80 bij een monster van 41 tot 60 knollen, € 81,65 bij een monster van 61 tot 80 knollen, € 95,35 bij een monster van 81 tot 100 knollen en € 164,95 bij een monster van 101 tot 200 knollen;  
 
-d. bruinrot- en ringrotonderzoek aan vitroplanten € 55,25;  
+d. bruinrot- en ringrotonderzoek aan vitroplanten € 56,65;  
 
-e. € 15,90 administratiekosten per aanvraag, inclusief de behandelingskosten tot maximaal 5 monsters, met voor de daaropvolgende monsters een tarief van € 0,90 per monster aan behandelingskosten.     
+e. € 16,30 administratiekosten per aanvraag, inclusief de behandelingskosten tot maximaal 5 monsters, met voor de daaropvolgende monsters een tarief van € 0,95 per monster aan behandelingskosten.     
 
 ### Artikel  45a  
 
-1.  Als vergoeding voor de kosten van het onderzoek ten behoeve van het afgeven van een verklaring als bedoeld in artikel 12b van het [Besluit bestrijding schadelijke organismen](../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md), wordt de aanvrager het volgende tarief in rekening gebracht: 
+1.  Als vergoeding voor de kosten van het onderzoek ten behoeve van het afgeven van een verklaring als bedoeld in [artikel 12b van het Besluit bestrijding schadelijke organismen](../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md), wordt de aanvrager het volgende tarief in rekening gebracht: 
 
 a. Voor onderzoek naar aardappelmoeheid: 
 
-1°. voor AMEX 200 cc 1/3 ha en uitslag binnen drie weken € 66,25 per hectare, uitslag binnen acht weken € 53,00 per hectare, uitslag voor 1 april volgend jaar € 50,35 per hectare en uitslag voor 1 september volgend jaar € 47,70 per hectare;  
+1. voor AMEX 200 cc 1/3 ha en uitslag binnen drie weken € 67,90 per hectare, uitslag binnen acht weken € 54,35 per hectare, uitslag voor 1 april volgend jaar € 51,60 per hectare en uitslag voor 1 september volgend jaar € 48,90 per hectare;  
 
-2°. voor AMEX 600 cc 1 ha en uitslag binnen drie weken € 51,25 per hectare, uitslag binnen acht weken € 41,00 per hectare, uitslag voor 1 april volgend jaar € 38,95 per hectare en uitslag voor 1 september volgend jaar € 36,90 per hectare;  
+2. voor AMEX 600 cc 1 ha en uitslag binnen drie weken € 52,55 per hectare, uitslag binnen acht weken € 42,05 per hectare, uitslag voor 1 april volgend jaar € 39,90 per hectare en uitslag voor 1 september volgend jaar € 37,80 per hectare;  
 
-3°. voor AMEX 500 cc 1/3 ha en uitslag binnen drie weken € 67,50 per hectare, uitslag binnen acht weken € 54,00 per hectare, uitslag voor 1 april volgend jaar € 51,30 per hectare en uitslag voor 1 september volgend jaar € 48,60 per hectare.    
+3. voor AMEX 500 cc 1/3 ha en uitslag binnen drie weken € 69,20 per hectare, uitslag binnen acht weken € 55,35 per hectare, uitslag voor 1 april volgend jaar € 52,60 per hectare en uitslag voor 1 september volgend jaar € 49,80 per hectare.    
 
-b. Voor de in dit lid genoemde hectaretarieven geldt een minimum van € 75,00 per perceel of perceelsgedeelte.     
+b. Voor de in dit lid genoemde hectaretarieven geldt een minimum van € 77,00 per perceel of perceelsgedeelte.  
+
+c. Voor spoedbemonstering en spoedonderzoek met uitslag binnen 5 werkdagen, wordt een toeslag van € 51,25 per aanvraag en € 10,25 per monster in rekening gebracht.     
 2.  Voor de administratieve afhandeling wordt het volgende tarief in rekening gebracht: 
 
-a. voor een onderzoek, bedoeld in het eerste lid, € 25,00 per perceel of perceelsgedeelte;  
+a. voor een onderzoek, bedoeld in het eerste lid, € 25,60 per perceel of perceelsgedeelte;  
 
-b. voor het herstellen van ten onrechte aangemelde besmetverklaringen € 53,00 per perceel of perceelsgedeelte;  
+b. voor het herstellen van ten onrechte aangemelde besmetverklaringen € 54,35 per perceel of perceelsgedeelte;  
 
-c. voor werkzaamheden ter controle van de bemonstering op 600cc per hectare, € 60,00 per perceel of perceelsgedeelte.     
-3.  Als vergoeding voor de kosten van het bepalen van de soort aardappelcysten wordt een tarief van € 47,75 per perceel in rekening gebracht.   
-4.  Als vergoeding voor het afgeven of de verlenging van een onderzoeksverklaring wordt een tarief van € 24,95 per aanvraag in rekening gebracht.   
-5.  Als vergoeding voor de kosten van het aanvullend AM-onderzoek aan aanhangende grond wordt een tarief van € 9,50 per monster in rekening gebracht.   
+c. voor werkzaamheden ter controle van de bemonstering op 600cc per hectare, € 61,50 per perceel of perceelsgedeelte.  
+
+d. Voor het kopiëren van een AM-dossier, € 15,40 per dossier.     
+3.  Als vergoeding voor de kosten van het bepalen van de soort aardappelcysten wordt een tarief van € 48,95 per perceel in rekening gebracht.   
+4.  Als vergoeding voor het afgeven of de verlenging van een onderzoeksverklaring wordt een tarief van € 25,60 per aanvraag in rekening gebracht.   
+5.  Als vergoeding voor de kosten van het aanvullend AM-onderzoek aan aanhangende grond wordt een tarief van € 9,75 per monster in rekening gebracht.   
 
 ### §  6.5  
 

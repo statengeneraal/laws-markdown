@@ -44,8 +44,9 @@ Discriminatoire aspecten
 
 | --- | --- |
 |:---|:---|
-| – Geen sprake van discriminatoire aspecten  | +0 %  |
-| – Er is sprake van discriminatoire aspecten  | +50%  |
+| --- | +0 %  |
+| – Er is sprake van discriminatoire aspecten bij een minder ingrijpend feit  | +50 %  |
+| – Er is sprake van discriminatoire aspecten en het betreft een ingrijpend feit  | + 100%  + dagvaarden  |
 
 In samenhang met een sportevenement  
 
@@ -157,7 +158,8 @@ Met betrekking tot een aantal delicten, zoals mishandeling, openlijke geweld, ve
 | --- | --- |
 |:---|:---|
 | – Geen sprake van discriminatoire aspecten  | +0 %  |
-| – Er is sprake van discriminatoire aspecten  | +50%  |
+| – Er is sprake van discriminatoire aspecten bij een minder ingrijpend feit  | +50 %  |
+| – Er is sprake van discriminatoire aspecten en het betreft een ingrijpend feit  | + 100%  + dagvaarden  |
 
 ###In samenhang met een sportevenement
 
@@ -269,7 +271,8 @@ Met betrekking tot een aantal delicten, zoals mishandeling, openlijke geweld, ve
 | --- | --- |
 |:---|:---|
 | – Geen sprake van discriminatoire aspecten  | +0 %  |
-| – Er is sprake van discriminatoire aspecten  | +50%  |
+| – Er is sprake van discriminatoire aspecten bij een minder ingrijpend feit  | +50 %  |
+| – Er is sprake van discriminatoire aspecten en het betreft een ingrijpend feit  | + 100%  + dagvaarden  |
 
 ###In samenhang met een sportevenement
 

@@ -37,17 +37,17 @@ g. *wet:*[Douane- en Accijnswet BES](../../../../../../../wet-BES/douane-/en/acc
 
 Inspecteur en ontvanger als bedoeld in [artikel 1.1, aanhef en onderdeel h, van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn: 
 
-a. de algemeen directeur Douane, de directeuren en de voorzitter, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md);  
+a. de algemeen directeur Douane en de directeuren, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md);  
 
 b. de directeur-generaal Belastingdienst, voor zover het de belastingaangelegenheden betreft die verband houden met het Koninklijk Huis.    
 
 ### Artikel  1.3  
 
-De algemeen directeur Douane, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), en de directeuren en de voorzitter, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), zijn ambtenaar als bedoeld in [artikel 2.153 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) (contactambtenaar).  
+De algemeen directeur Douane, bedoeld in [artikel 4, derde lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), en de directeuren, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), zijn ambtenaar als bedoeld in [artikel 2.153 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) (contactambtenaar).  
 
 ### Artikel  1.4  
 
-De verplichtingen, die ingevolge de [artikelen 2.51 tot en met 2.54 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) gelden jegens de inspecteur, gelden ook jegens de voorzitter van het managementteam van de Fiscale inlichtingen- en opsporingsdienst (FIOD) en jegens de door deze voorzitter aangewezen ambtenaren van de Belastingdienst.  
+De verplichtingen, die ingevolge de [artikelen 2.51 tot en met 2.54 van de wet](../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) gelden jegens de inspecteur, gelden ook jegens de directeur van de FIOD alsmede jegens de door deze directeur aangewezen ambtenaren van de Belastingdienst.  
 
 ### Afdeling  1.3  
 

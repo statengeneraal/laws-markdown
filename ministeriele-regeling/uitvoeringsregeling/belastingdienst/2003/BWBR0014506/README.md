@@ -23,7 +23,7 @@ Deze regeling berust op de [artikelen 2, derde lid, onderdeel b, en vierde lid](
 
 1.  De organisatie van de Belastingdienst bestaat uit de volgende onderdelen: 
 
-a1. Belastingdienst/Landelijk kantoor Belastingregio’s;  
+a1. Belastingdienst/Landelijk Kantoor Belastingregio’s;  
 
 a2. Belastingregio’s: - Belastingdienst/Noord; - Belastingdienst/Oost; - Belastingdienst/Randmeren; - Belastingdienst/Rivierenland; - Belastingdienst/Utrecht-Gooi; - Belastingdienst/Amsterdam; - Belastingdienst/Holland Noord; - Belastingdienst/Haaglanden; - Belastingdienst/Holland Midden; - Belastingdienst/Rijnmond; - Belastingdienst/Zuidwest; - Belastingdienst/Oost-Brabant; - Belastingdienst/Limburg; - Belastingdienst/Caribisch Nederland;  
 
@@ -53,7 +53,7 @@ c1. Belastingdienst/Centrale administratie (B/CA);
 
 c2. Belastingdienst/Fiscale inlichtingen- en opsporingsdienst – Economische controledienst (FIOD-ECD of FIOD);  
 
-d.  - Belastingdienst /Centrum voor applicatieontwikkeling en -onderhoud (B/CAO); - Belastingdienst/Centrum voor infrastructuur en exploitatie (B/CIE); - Belastingdienst/Centrum voor ondersteuning IV (B/COI); - Belastingdienst/Centrum voor facilitaire dienstverlening (B/CFD); - Belastingdienst/Centrum voor kennis en communicatie (B/CKC); - Belastingdienst/BelastingTelefoon; - Belastingdienst/Central Liaison Office (B/CLO);  
+d.  - Belastingdienst /Centrum voor applicatieontwikkeling en -onderhoud (B/CAO); - Belastingdienst/Centrum voor infrastructuur en exploitatie (B/CIE); - Belastingdienst/Centrum voor facilitaire dienstverlening (B/CFD); - Belastingdienst/Centrum voor kennis en communicatie (B/CKC); - Belastingdienst/BelastingTelefoon; - Belastingdienst/Central Liaison Office (B/CLO);  
 
 e.  - Centrale dienst voor in- en uitvoer (CDIU); - Douane informatiecentrum (DIC); - Douane Laboratorium;  
 
@@ -93,8 +93,8 @@ b. teruggaaf op verzoek wordt verleend.
 ### Artikel  4  
 
 1.  De Belastingdienst staat onder leiding van de directeur-generaal Belastingdienst, bijgestaan door een managementteam (het managementteam Belastingdienst).   
-2.  De organisatieonderdelen, genoemd in artikel 3, eerste lid, onderdeel a2, staan elk onder leiding van een directeur en de organisatieonderdelen, genoemd in artikel 3, eerste lid, onderdelen c1, c2, d en f, staan elk onder leiding van een managementteam met een voorzitter.   
-3.  Het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel a1, staat onder leiding van de algemeen directeur Belastingregio’s. De algemeen directeur Belastingregio’s geeft leiding aan de directeuren van de organisatieonderdelen, genoemd in artikel 3, eerste lid,onderdeel a2. De organisatieonderdelen, genoemd in artikel 3, eerste lid, onderdelen b1, b2 en e, staan onder leiding van de algemeen directeur Douane.   
+2.  De organisatieonderdelen, genoemd in artikel 3, eerste lid, onderdelen a2, c1, c2, d en f, staan, met uitzondering van de B/CLO, elk onder leiding van een directeur.   
+3.  Het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel a1, staat onder leiding van de algemeen directeur Belastingregio’s. De algemeen directeur Belastingregio’s geeft leiding aan de directeuren van de organisatieonderdelen, genoemd in artikel 3, eerste lid, onderdeel a2. De organisatieonderdelen, genoemd in artikel 3, eerste lid, onderdelen b1, b2 en e, staan onder leiding van de algemeen directeur Douane.   
 
 ### Hoofdstuk  2  
 
@@ -102,12 +102,12 @@ b. teruggaaf op verzoek wordt verleend.
 
 ### Artikel  5  
 
-1.  De directeuren van de in artikel 3, eerste lid, onderdeel a2, genoemde organisatieonderdelen, de voorzitter van het managementteam van het in artikel 3, eerste lid, onderdeel c1, genoemde organisatieonderdeel en de algemeen directeur van de in artikel 3, eerste lid, onderdelen b1, b2 en e, genoemde organisatieonderdelen zijn inspecteur en ontvanger als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [artikel 1.3, onderdeel k, van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md).   
+1.  De directeuren van de in artikel 3, eerste lid, onderdelen a2 en c1, genoemde organisatieonderdelen en de algemeen directeur van de in artikel 3, eerste lid, onderdelen b1, b2 en e, genoemde organisatieonderdelen zijn inspecteur en ontvanger als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [artikel 1.3, onderdeel k, van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md).   
 2.  De directeur-generaal Belastingdienst is inspecteur en ontvanger als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) voorzover het de belastingaangelegenheden betreft die verband houden met het Koninklijk Huis.   
 
 ### Artikel  5a  
 
-1.  De directeuren van de in artikel 3, eerste lid, onderdeel a2, genoemde organisatieonderdelen, de voorzitter van het managementteam van het in artikel 3, eerste lid, onderdeel c1, genoemde organisatieonderdeel en de algemeen directeur van de in artikel 3, eerste lid, onderdelen b1, b2 en e, genoemde organisatieonderdelen zijn inspecteur als bedoeld in [artikel 1, onderdeel t, van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en [artikel 1, onderdeel g, van de Invoeringswet Wet financiering sociale verzekeringen](../../../../../wet/invoeringswet/wet/financiering/sociale/verzekeringen/BWBR0017747/README.md).   
+1.  De directeuren van de in artikel 3, eerste lid, onderdelen a2 en c1, genoemde organisatieonderdelen en de algemeen directeur van de in artikel 3, eerste lid, onderdelen b1, b2 en e, genoemde organisatieonderdelen zijn inspecteur als bedoeld in [artikel 1, onderdeel t, van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en [artikel 1, onderdeel g, van de Invoeringswet Wet financiering sociale verzekeringen](../../../../../wet/invoeringswet/wet/financiering/sociale/verzekeringen/BWBR0017747/README.md).   
 2.  De directeuren van de in artikel 3, eerste lid, onderdeel a2, genoemde organisatieonderdelen zijn inspecteur en ontvanger als bedoeld in [artikel 1, onderdeel h onderscheidenlijk onderdeel i, van het Besluit tegemoetkoming specifieke zorgkosten](../../../../../AMvB/besluit/tegemoetkoming/specifieke/zorgkosten/BWBR0027859/README.md).   
 
 ### Artikel  6  
@@ -120,7 +120,7 @@ De bevoegde functionaris, bedoeld in [artikel 2, eerste lid, onderdeel e, van d
 
 a. voor de toepassing van de [artikelen 4e](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md) en [4l van die wet](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md): de inspecteur, bedoeld in artikel 5, eerste lid;  
 
-b. voor de toepassing van de [artikelen 4j](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md), [4k](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md) en [6a van die wet](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md): de voorzitter van het managementteam van de Belastingdienst/Centrale administratie (B/CA);  
+b. voor de toepassing van de [artikelen 4j](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md), [4k](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md) en [6a van die wet](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md): de directeur van de Belastingdienst/Centrale administratie (B/CA);  
 
 c. voor de toepassing van [artikel 4o van die wet](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md): de directeur van de Belastingdienst/Oost.    
 
@@ -130,11 +130,11 @@ De algemeen directeur Belastingregio’s van het in artikel 3, eerste lid, onder
 
 ### Artikel  8  
 
-De directeuren van de in artikel 3, eerste lid, onderdeel a2, genoemde organisatieonderdelen, de voorzitters van de managementteams van de in artikel 3, eerste lid, onderdelen c1 en c2, genoemde organisatieonderdelen en de algemeen directeur van de in artikel 3, eerste lid, onderdelen b1, b2 en e, genoemde organisatieonderdelen oefenen het bestuur van 's Rijks belastingen uit. De directeuren, de voorzitters en de algemeen directeur kunnen ambtenaren aanwijzen die namens hen de bevoegdheden van het bestuur van 's Rijks belastingen uitoefenen.  
+De directeuren van de in artikel 3, eerste lid, onderdelen a2, c1 en c2, genoemde organisatieonderdelen en de algemeen directeur van de in artikel 3, eerste lid, onderdelen b1, b2 en e, genoemde organisatieonderdelen oefenen het bestuur van 's Rijks belastingen uit. De directeuren en de algemeen directeur kunnen ambtenaren aanwijzen die namens hen de bevoegdheden van het bestuur van 's Rijks belastingen uitoefenen.  
 
 ### Artikel  9  
 
-De directeuren van de in artikel 3, eerste lid, onderdeel a2, genoemde organisatieonderdelen, de voorzitter van het managementteam van het in artikel 3, eerste lid, onderdeel c1, genoemde organisatieonderdeel en de algemeen directeur van de in artikel 3, eerste lid, onderdelen b1, b2 en e, genoemde organisatieonderdelen zijn ambtenaar als bedoeld in [artikel 84 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (contactambtenaar).  
+De directeuren van de in artikel 3, eerste lid, onderdelen a2 en c1, genoemde organisatieonderdelen en de algemeen directeur van de in artikel 3, eerste lid, onderdelen b1, b2 en e, genoemde organisatieonderdelen zijn ambtenaar als bedoeld in [artikel 84 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (contactambtenaar).  
 
 ### Artikel  9a  
 
@@ -142,7 +142,7 @@ De ambtenaren van de in artikel 3, eerste lid, onderdelen a2, c1 en c2, genoemde
 
 ### Artikel  10  
 
-De verplichtingen die ingevolge de [artikelen 47](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [47a](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [48](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [49](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [50](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [53](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [55 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de [artikelen 58](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [59](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [60](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [62 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [artikelen 8.83](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.84](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.85](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.87](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [8.91 van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) bestaan jegens de inspecteur en de ontvanger, gelden mede jegens de voorzitter van het managementteam van de FIOD-ECD alsmede jegens de door deze voorzitter aangewezen ambtenaren van de Belastingdienst.  
+De verplichtingen die ingevolge de [artikelen 47](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [47a](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [48](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [49](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [50](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [53](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [55 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de [artikelen 58](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [59](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [60](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [62 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [artikelen 8.83](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.84](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.85](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.87](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [8.91 van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) bestaan jegens de inspecteur en de ontvanger, gelden mede jegens de directeur van de FIOD alsmede jegens de door deze directeur aangewezen ambtenaren van de Belastingdienst.  
 
 ### Hoofdstuk  3  
 
@@ -207,11 +207,11 @@ Voor een verzoek om te worden aangemerkt als een instelling als bedoeld in [arti
 
 ### Artikel  17  
 
-Met betrekking tot de heffing en invordering van de motorrijtuigenbelasting en de belasting zware motorrijtuigen alsmede de uitvoering van [artikel 35a van de Wet op de belasting van personenauto's en motorrijwielen 1992](../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), zoals dit luidde op 31 december 2002, ressorteert de natuurlijk persoon, het lichaam of de entiteit onder de voorzitter van het managementteam van de B/CA dan wel wat betreft de invordering van de motorrijtuigenbelasting en de belasting zware motorrijtuigen onder de directeur van een van de in artikel 3, eerste lid, onderdeel a2, genoemde organisatieonderdelen met inachtneming van artikel 11, eerste lid.  
+Met betrekking tot de heffing en invordering van de motorrijtuigenbelasting en de belasting zware motorrijtuigen alsmede de uitvoering van [artikel 35a van de Wet op de belasting van personenauto's en motorrijwielen 1992](../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), zoals dit luidde op 31 december 2002, ressorteert de natuurlijk persoon, het lichaam of de entiteit onder de directeur van de B/CA dan wel wat betreft de invordering van de motorrijtuigenbelasting en de belasting zware motorrijtuigen onder de directeur van een van de in artikel 3, eerste lid, onderdeel a2, genoemde organisatieonderdelen met inachtneming van artikel 11, eerste lid.  
 
 ### Artikel  18  
 
-Met betrekking tot de uitvoering van [artikel 53, tweede en derde lid, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [artikel 8, derde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md), ressorteert de administratieplichtige onder de voorzitter van het managementteam van de B/CA.  
+Met betrekking tot de uitvoering van [artikel 53, tweede en derde lid, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [artikel 8, derde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md), ressorteert de administratieplichtige onder de directeur van de B/CA.  
 
 ### Artikel  19  
 
@@ -371,7 +371,7 @@ A.
 | Alkmaar  | Holland Noord  | Amsterdam  |
 | Almelo  | Oost  | Nijmegen  |
 | Almere  | Randmeren  | Nijmegen  |
-| Alphen aan den Rijn  | Haaglanden  | Amsterdam/Nijmegen  |
+| Alphen aan den Rijn  | Haaglanden  | Amsterdam  |
 | Alphen-Chaam  | Zuidwest  | Roosendaal  |
 | Ameland  | Noord  | Groningen  |
 | Amersfoort  | Utrecht-Gooi  | Nijmegen  |
