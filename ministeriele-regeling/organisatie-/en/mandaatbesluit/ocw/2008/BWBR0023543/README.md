@@ -78,7 +78,7 @@ e. bureaus.
 2.  De Dienst Uitvoering Onderwijs en het Nationaal Archief zijn baten-lastendienst.   
 3.  De organisatie van het Ministerie wordt nader vastgesteld door middel van de bij dit besluit behorende bijlage.   
 4.  Wijziging van de bijlage geschiedt door de secretaris-generaal.   
-5.  De directeur Concernondersteuning draagt zorg voor bekendmaking van de bijlage door openbare ter inzage legging op het Ministerie en door plaatsing op het intranet en de internetsite van het Ministerie.   
+5.  De directeur Personeel & Organisatie draagt zorg voor bekendmaking van de bijlage door openbare ter inzage legging op het Ministerie en door plaatsing op het intranet en de internetsite van het Ministerie.   
 
 ### Artikel  4  
 
@@ -161,7 +161,7 @@ b. de goedkeuring van het departementale bestedingsplan.
 
 1.  De secretaris-generaal maakt managementafspraken met de plaatsvervangend secretaris-generaal, de directeuren-generaal en de volgens de bijlage onder hem ressorterende hoofden van de in de bijlage opgenomen organisatieonderdelen.   
 2.  De plaatsvervangend secretaris-generaal en de directeuren-generaal maken managementafspraken met de volgens de bijlage onder hen ressorterende hoofden van de in de bijlage opgenomen organisatieonderdelen.   
-3.  De directeur Concernondersteuning draagt zorg voor bekendmaking van de managementafspraken voor zover het betreft daarin opgenomen beperkingen of uitbreidingen van een mandaat dat op grond van dit besluit is verleend, door openbare ter inzage legging op het Ministerie en door plaatsing op het intranet en de internetsite van het Ministerie.   
+3.  De directeur Personeel & Organisatie draagt zorg voor bekendmaking van de managementafspraken voor zover het betreft daarin opgenomen beperkingen of uitbreidingen van een mandaat dat op grond van dit besluit is verleend, door openbare ter inzage legging op het Ministerie en door plaatsing op het intranet en de internetsite van het Ministerie.   
 
 ### Artikel  11  
 
@@ -169,7 +169,7 @@ b. de goedkeuring van het departementale bestedingsplan.
 
 1.  Ondermandaat van de in dit besluit gemandateerde bevoegdheden is mogelijk, tenzij in dit besluit anders is bepaald. Bij het verlenen van ondermandaat wordt aangegeven in hoeverre het verlenen van verder ondermandaat mogelijk is.   
 2.  Voor het verlenen van ondermandaat door een directeur is de goedkeuring vereist door de desbetreffende leidinggevende functionaris. Voor machtiging om op te treden in gerechtelijke procedures en ondermandaat inzake het passeren van notariële akten is de goedkeuring niet vereist.   
-3.  De directeur Concernondersteuning draagt zorg voor bekendmaking van krachtens dit besluit verleende algemene ondermandaten door openbare ter inzage legging op het Ministerie en door plaatsing op het intranet en de internetsite van het Ministerie. In afwijking hiervan dragen de hoofden van inspecties en de functionarissen die aan het hoofd staan van een baten-lastendienst zorg voor bekendmaking van de krachtens dit besluit door hen verleende ondermandaten door openbare ter inzage legging op het Ministerie en plaatsing op het intranet en de internetsite van het Ministerie.   
+3.  De directeur Personeel & Organisatie draagt zorg voor bekendmaking van krachtens dit besluit verleende algemene ondermandaten door openbare ter inzage legging op het Ministerie en door plaatsing op het intranet en de internetsite van het Ministerie. In afwijking hiervan dragen de hoofden van inspecties en de functionarissen die aan het hoofd staan van een baten-lastendienst zorg voor bekendmaking van de krachtens dit besluit door hen verleende ondermandaten door openbare ter inzage legging op het Ministerie en plaatsing op het intranet en de internetsite van het Ministerie.   
 4.  De functionarissen genoemd in lid 3 houden een register bij van de handtekeningen van de functionarissen, waarvan het mandaat door hen bekend is gemaakt.   
 
 ### Artikel  12  
@@ -248,9 +248,9 @@ h. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijts
 
 ### Artikel  14  
 
-####Voorbehouden aan de directeur-generaal DUO en de directeur CO
+####Voorbehouden aan de directeur-generaal DUO en de directeur P&O
 
-1.  De directeur-generaal DUO en de directeur Concernondersteuning zijn voor de onder hen ressorterende medewerkers gemandateerd met betrekking tot het nemen van personele besluiten, onverminderd artikel 4, artikel 12 en artikel 13, voor zover het betreft: 
+1.  De directeur Personeel & Organisatie is met uitsluiting van anderen dan de secretaris-generaal gemandateerd met betrekking tot het nemen van personele besluiten, onverminderd artikel 4, artikel 12, artikel 13 en het tweede lid, voor zover het betreft: 
 
 a. aanstellings- en benoemingsbesluiten en daaraan voorafgaande besluiten die daarop betrekking hebben,  
 
@@ -259,7 +259,8 @@ b. toekenning van een salarisschaal en functiewaardering,
 c. ontslagbesluiten, anders dan besluiten inhoudende reorganisatieontslag, ontslag als bedoeld in [artikel 99 van het algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en voorwaardelijk en onvoorwaardelijk strafontslag,  
 
 d. besluiten inhoudende erkenning van aansprakelijkheid ten aanzien van beroepsziekte, dienstongeval en beroepsincident en daaruit voortvloeiende besluiten met betrekking tot vergoeding van schade en besluiten met betrekking tot vergoedingen als bedoeld in de [artikelen 47](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [48](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [66](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [69](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [73 van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).     
-2.  In afwijking van het bepaalde in artikel 11 lid 2 van dit besluit is ondermandaat van de in dit artikel opgenomen bevoegdheden mogelijk na instemming van de secretaris-generaal en de plaatsvervangend secretaris-generaal.   
+2.  De directeur-generaal DUO is met uitsluiting van anderen dan de secretaris-generaal gemandateerd, onverminderd artikel 4 en artikel 12, voor de onder hem ressorterende medewerkers ten aanzien van de personele besluiten, genoemd in het eerste lid.   
+3.  In afwijking van het bepaalde in artikel 11 lid 2 van dit besluit is ondermandaat van de in dit artikel opgenomen bevoegdheden mogelijk na instemming van de secretaris-generaal en de plaatsvervangend secretaris-generaal.   
 
 ### Artikel  14a  
 
@@ -344,7 +345,7 @@ a. Inspecties:
 
 2e. Erfgoedinspectie      
 
-3.2 organisatieonderdelen die rechtstreeks ressorteren onder de PSG: 
+3.2 organisatieonderdelen die rechtstreeks ressorteren onder de pSG: 
 
 1e. Auditdienst (AD)  
 
@@ -352,7 +353,7 @@ a. Inspecties:
 
 3e. Communicatie (COM)  
 
-4e. Concernondersteuning (CO)  
+4e. Facilitair Management en ICT (FM/ICT)  
 
 5e. Financieel-Economische Zaken (FEZ)  
 
@@ -360,7 +361,9 @@ a. Inspecties:
 
 7e. Kennis  
 
-8e. Wetgeving en Juridische Zaken (WJZ)    
+8e. Personeel & Organisatie (P&O)  
+
+9e. Wetgeving en Juridische Zaken (WJZ)    
 
 3.3 organisatieonderdelen die rechtstreeks ressorteren onder de DGPV: 
 
@@ -453,9 +456,9 @@ De directie BOA is verantwoordelijk voor de ondersteuning van de sturing op de p
 ###4.3 Directie Communicatie (COM)
 
 De directie COM is verantwoordelijk voor de interne en externe communicatie van het departement. 
-###4.4 Directie Concernondersteuning (CO)
+###4.4 Directie Facilitair Management en ICT (FM/ICT)
 
-De directie CO is verantwoordelijk voor de ontwikkeling en totstandkoming van de concernbrede visie, kaderstelling, advisering, toetsing en uitvoering op het gebied van de bedrijfsvoering ten behoeve van geheel OCW. In operationele zin betekent dit dat de directie Concernondersteuning zich primair bezig houdt met taken op het gebied van huisvesting, facility management, milieu & energie, inkoop, personeel en organisatie, informatievoorziening en ICT. Tevens is de directie Concernondersteuning verantwoordelijk voor de control op en het beheer van de formatie en APK budget voor het gehele OCW concern. 
+De directie FM/ICT verzorgt kaderstellend beleid en centrale regieorganisatie-taken voor het concern OCW naast decentrale regieorganisatie-taken en ondersteuning voor het bestuursdepartement op het gebied van Facilitair management, Huisvesting, Inkoop, Duurzaamheid en services (telefoon, receptie, vervoer, beveiliging, post, archief, huishoudelijke zaken) en ICT (beleid en beheer en diensten conform productdienstencatalogus). 
 ###4.5 Directie Financieel-Economische Zaken (FEZ)
 
 De directie FEZ is verantwoordelijk voor het begrotingsproces en bewaakt de uitkomsten daarvan. Tevens is de directie verantwoordelijk voor de interne planning & control cyclus van het Ministerie. Vanuit de financiële expertise ondersteunt zij bij alle aspecten van beleid en bedrijfsvoering. Dit gebeurt zowel op het niveau van de DG (DG control) als op het niveau van SG respectievelijk minister (Concern control). De directie is belast met de algemene beleidsvorming en advisering over toezicht. De directie is tevens verantwoordelijk voor de beleidsontwikkeling op het terrein arbeidszaken. 
@@ -465,7 +468,16 @@ De directie IB is verantwoordelijk voor de inbreng van Nederland overal waar ond
 ###4.7 Directie Kennis
 
 De directie Kennis is verantwoordelijk voor het verbinden van beleidsvorming, wetenschap en praktijk. Daarmee wordt de kwaliteit van de beleidsvorming vergroot en wordt de relevantie van wetenschappelijk onderzoek op OCW-gebied versterkt. Door te werken aan het vergroten van het inzicht in de prestaties van de OCW-stelsels bij alle actoren, worden die actoren in staat gesteld de eigen prestaties te verhogen. 
-###4.8 Directie Wetgeving en Juridische Zaken (WJZ)
+###4.8 Directie Personeel en Organisatie (P&O)
+
+De directie P&O verzorgt binnen de door de rijksoverheid gegeven kaders: 
+
+– centrale regieorganisatie-, beleids- en adviestaken voor het Concern OCW/(p)SG en MT OCW;  
+
+– op directieniveau decentrale regieorganisatie- en adviestaken voor het management en de medewerkers van het bestuursdepartement en ook aan afzonderlijke diensten;  
+
+– administratieve beheertaken (concernbreed) voor zover niet ondergebracht in P-Direkt.   Tevens is de directie P&O verantwoordelijk voor de ontwikkeling en het beheer van managementinformatie en het uitvoeren van planning en control-taken inclusief advies en rapportages op het gebied van de bedrijfsvoering (apparaatskosten en centrale budgetten). 
+###4.9 Directie Wetgeving en Juridische Zaken (WJZ)
 
 De directie WJZ is verantwoordelijk voor de totstandkoming van de wet- en regelgeving van OCW. Voorts is de directie WJZ verantwoordelijk voor de advisering op het terrein van bestuurlijke en juridische aangelegenheden, voor de toetsing van internationale- en EU-regelgeving alsmede beleid en regels waarvan de totstandkoming tot de rechtstreekse verantwoordelijkheid van de andere directies behoort. 
 ###Hoofdstuk 5. Taken en verantwoordelijkheden beleidsdirecties ressorterend onder DGPV
@@ -534,7 +546,7 @@ DUO is de hoofduitvoerder van OCW en voert de volgende kerntaken uit:
 
 * Het bekostigen van onderwijsinstellingen: de bekostiging van erkende onderwijsinstellingen in het PO, VO, BVE en HO.  
 
-* Studiefinanciering, tegemoetkoming schoolkosten en inning debiteuren: het financieren van studerenden aan erkende hogere onderwijsinstellingen in het VO, BVE en HO. Het nemen van een besluit over de toekenning van financiering op basis van het volgen van onderwijs. Het op basis van een toekenning financiering of contractafspraken uitbetalen van geld aan een student. Het op basis van ontvangen financiering of betaalverplichtingen anderszins, afhandelen van vorderingen op studenten.  
+* Studiefinanciering, tegemoetkoming schoolkosten en inning debiteuren: het financieren van studerenden aan erkende en aangewezen onderwijsinstellingen in het VO, BVE en HO. Het nemen van een besluit over de toekenning van financiering op basis van het volgen van onderwijs. Het op basis van een toekenning financiering of contractafspraken uitbetalen van geld aan een student. Het op basis van ontvangen financiering of betaalverplichtingen anderszins, afhandelen van vorderingen op studenten.  
 
 * Diploma’s en examens: het afgeven, erkennen, legaliseren en beheren van diploma’s en examens. Het verzorgen van het proces van aanmelding, selectie en plaatsing voor het hoger onderwijs. Het organiseren van staatsexamens.  
 
