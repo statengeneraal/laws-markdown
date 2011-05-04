@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur van 8 juli 1988, DGVGZ/GMI-711191, Ons gedaan na bekendmaking van het ontwerp van dit besluit in de *Nederlandse Staatscourant* van 30 november 1982, no. 231;
 
-Gelet op de [artikelen 3](../../../../../../wet/wet/op/de/medische/hulpmiddelen/BWBR0002697/README.md) en [11 van de Wet op de medische hulpmiddelen](../../../../../../wet/wet/op/de/medische/hulpmiddelen/BWBR0002697/README.md) (*Stb.* 1970, 53);
+Gelet op de artikelen 3 en 11 van de Wet op de medische hulpmiddelen (*Stb.* 1970, 53);
 
 De Raad van State gehoord (advies van 22 augustus 1988, no. W 13.88.0381);
 
@@ -24,8 +24,8 @@ a. verantwoordelijke persoon: persoon, rechtspersoon daaronder begrepen, die bed
 
 b. partij: aantal in één bewerkingsgang gesteriliseerde medische hulpmiddelen, of in geval het steriliseren geschiedt in een continu proces, het aantal binnen een tijdvak van 24 uur onder gelijke omstandigheden gesteriliseerde medische hulpmiddelen.     
 2.  Dit besluit is van toepassing op medische hulpmiddelen die ter sterilisatie zijn aangeboden aan een verantwoordelijke persoon.   
-3.  Dit besluit is niet van toepassing op actieve implantaten in de zin van het [Besluit actieve implantaten](../../../../../../AMvB/besluit/actieve/implantaten/BWBR0006060/README.md).   
-3.  Dit besluit is niet van toepassing op de verantwoordelijke persoon die medische hulpmiddelen steriliseert ten behoeve van en in opdracht van een fabrikant in de zin van [artikel 1 van het Besluit medische hulpmiddelen](../../../../../../AMvB/besluit/medische/hulpmiddelen/BWBR0007307/README.md).   
+3.  Dit besluit is niet van toepassing op actieve implantaten in de zin van het Besluit actieve implantaten.   
+3.  Dit besluit is niet van toepassing op de verantwoordelijke persoon die medische hulpmiddelen steriliseert ten behoeve van en in opdracht van een fabrikant in de zin van artikel 1 van het Besluit medische hulpmiddelen.   
 
 ### §  2  
 
@@ -52,7 +52,7 @@ c. de toegepaste sterilisatiemethode(n);
 
 d. de naam van de in artikel 5, eerste lid, onder *a*, bedoelde deskundige persoon onder aanduiding van de wetenschappelijke of technische kwalificatie van die deskundige persoon;  
 
-e. een uittreksel uit het handelsregister.     
+e. zijn unieke nummer, bedoeld in artikel 9, onder a, van de Handelsregisterwet 2007.     
 3.  Van elke wijziging in de in het tweede lid bedoelde gegevens moet zo spoedig mogelijk kennis worden gegeven aan Onze Minister.   
 
 ### Artikel  4  

@@ -1322,9 +1322,7 @@ f. jaarlijkse overzichten van nutsbedrijven van het verbruik van water;
 
 g. de veiligheidsinformatiebladen, die behoren bij de in het glastuinbouwbedrijf aanwezige gevaarlijke stoffen;  
 
-h. afgiftebewijzen van bedrijfsafvalstoffen en  
-
-i. een uittreksel van de inschrijving in het handelsregister.   3.3.2. Voorzover zij voor de inrichting zijn afgegeven, worden de PBV-Verklaring vloeistofdichte voorziening, het daarbij behorende inspectierapport en de documenten waaruit blijkt dat de controles, bedoeld in voorschrift 3.2.7, onderdeel f, zijn uitgevoerd, gedurende zes jaar na dagtekening bewaard.  
+h. afgiftebewijzen van bedrijfsafvalstoffen.   3.3.2. Voorzover zij voor de inrichting zijn afgegeven, worden de PBV-Verklaring vloeistofdichte voorziening, het daarbij behorende inspectierapport en de documenten waaruit blijkt dat de controles, bedoeld in voorschrift 3.2.7, onderdeel f, zijn uitgevoerd, gedurende zes jaar na dagtekening bewaard.  
 
 ### Hoofdstuk 4  
 

@@ -54,9 +54,9 @@ b. rechtbank Arnhem: Wageningen;
 
 c. rechtbank Dordrecht: Gorinchem;  
 
-d. rechtbank Groningen: Winschoten;  
+d. rechtbank Groningen: Oldambt;  
 
-e. rechtbank Leeuwarden: Sneek;  
+e. rechtbank Leeuwarden: Súdwest Fryslân;  
 
 f. rechtbank Roermond: Venray;  
 
@@ -215,7 +215,7 @@ Deze bijlage bevat voor de behandeling van kantonzaken per rechtbank voor de hoo
 |:---|:---|:---|
 |  *Alkmaar*   hoofdplaats  |  *Hoorn*   nevenvestigingsplaats  |  *Den Helder*   nevenzittingsplaats  |
 | --- | --- | --- |
-| Alkmaar  Bergen  Castricum  Graft-De Rijp  Harenkarspel  Heerhugowaard  Heiloo  Langedijk  Niedorp  Schagen  Schermer  Zijpe  | Andijk  Drechterland  Enkhuizen  Hoorn  Koggenland  Medemblik  Opmeer  Stede Broec  Wervershoof  | Anna Paulowna  Den Helder  Texel  Wieringen  Wieringermeer  |
+| Alkmaar  Bergen  Castricum  Graft-De Rijp  Harenkarspel  Heerhugowaard  Heiloo  Langedijk  Niedorp  Schagen  Schermer  Zijpe  | Drechterland  Enkhuizen  Hoorn  Koggenland  Medemblik  Opmeer  Stede Broec  | Anna Paulowna  Den Helder  Texel  Wieringen  Wieringermeer  |
 
 |  *RECHTBANK ALMELO*   |--- |
 |:---|:---|
@@ -274,11 +274,11 @@ Deze bijlage bevat voor de behandeling van kantonzaken per rechtbank voor de hoo
 |:---|:---|:---|
 |  *’s-Gravenhage*   hoofdplaats  |  *Delft*   nevenvestigingsplaats  |  *Leiden*   nevenvestigingsplaats  |  *Gouda*   nevenvestigingsplaats  |
 | --- | --- | --- | --- |
-| ’s-Gravenhage  Leidschendam-Voorburg  Rijswijk  Wassenaar  | Delft  Midden-Delfland  Pijnacker-Nootdorp  Westland  Zoetermeer  | Hillegom  Kaag en Braassem  Katwijk  Leiden  Leiderdorp  Lisse  Noordwijk  Noordwijkerhout  Oegstgeest  Teylingen  Voorschoten  Zoeterwoude  | Bergambacht  Gouda  Nederlek  Ouderkerk  Reeuwijk  Schoonhoven  Vlist  Waddinxveen  Zuidplas  |
+| ’s-Gravenhage  Leidschendam-Voorburg  Rijswijk  Wassenaar  | Delft  Midden-Delfland  Pijnacker-Nootdorp  Westland  Zoetermeer  | Hillegom  Kaag en Braassem  Katwijk  Leiden  Leiderdorp  Lisse  Noordwijk  Noordwijkerhout  Oegstgeest  Teylingen  Voorschoten  Zoeterwoude  | Bergambacht  Gouda  Nederlek  Ouderkerk  Bodegraven-Reeuwijk  Schoonhoven  Vlist  Waddinxveen  Zuidplas  |
 |  *Alphen aan den Rijn*   | --- | --- | --- |
 | nevenvestigingsplaats  | --- | --- | --- |
 | --- | --- | --- | --- |
-| Alphen aan den Rijn  Bodegraven  Boskoop  Nieuwkoop  Rijnwoude  | --- | --- | --- |
+| Alphen aan den Rijn  Boskoop  Nieuwkoop  Rijnwoude  | --- | --- | --- |
 
 |  *RECHTBANK GRONINGEN*   |--- |
 |:---|:---|
@@ -296,33 +296,33 @@ Deze bijlage bevat voor de behandeling van kantonzaken per rechtbank voor de hoo
 |:---|:---|:---|
 |  *’s-Hertogenbosch*   hoofdplaats  |  *Eindhoven*   nevenvestigingsplaats  |  *Helmond*   nevenvestigingsplaats  |  *Boxmeer*   nevenvestigingsplaats  |
 | --- | --- | --- | --- |
-| Bernheze  Boekel  Boxtel  Haaren  ’s-Hertogenbosch  Heusden  Landerd  Lith  Maasdonk  Sint-Michielsgestel  Oss  Schijndel  Uden  Veghel  Vught  | Bergeijk  Best  Bladel  Cranendonck  Eersel  Eindhoven  Geldrop-Mierlo  Heeze-Leende  Nuenen, Gerwen en Nederwetten  Oirschot  Reusel-De Mierden  Sint-Oedenrode  Son en Breugel  Valkenswaard  Veldhoven  Waalre  | Asten  Deurne  Gemert-Bakel  Helmond  Laarbeek  Someren  | Boxmeer  Cuijk  Grave  Mill en Sint Hubert  Sint Anthonis  |
+| Bernheze  Boekel  Boxtel  Haaren  ’s-Hertogenbosch  Heusden  Landerd  Maasdonk  Sint-Michielsgestel  Oss  Schijndel  Uden  Veghel  Vught  | Bergeijk  Best  Bladel  Cranendonck  Eersel  Eindhoven  Geldrop-Mierlo  Heeze-Leende  Nuenen, Gerwen en Nederwetten  Oirschot  Reusel-De Mierden  Sint-Oedenrode  Son en Breugel  Valkenswaard  Veldhoven  Waalre  | Asten  Deurne  Gemert-Bakel  Helmond  Laarbeek  Someren  | Boxmeer  Cuijk  Grave  Mill en Sint Hubert  Sint Anthonis  |
 
 |  *RECHTBANK LEEUWARDEN*   |--- |--- |  *Leeuwarden*   hoofdplaats  |  *Heerenveen*   nevenvestigingsplaats  |  *Sneek*   nevenzittingsplaats  |
 |:---|:---|:---|:---|:---|:---|
-| Achtkarspelen  | Heerenveen  | Bolsward  |
-| Ameland  | Lemsterland  | Gaasterlân-Sleat  |
-| Boarnsterhim  | Ooststellingwerf  | Littenseradiel  |
-| Dantumadeel  | Opsterland  | Nijefurd  |
-| Dongeradeel  | Skarsterlân  | Sneek  |
-| Ferwerderadiel  | Smallingerland  | Wûnseradiel  |
-| Franekeradeel  | Weststellingwerf  | Wymbritseradiel  |
+| Achtkarspelen  | Heerenveen  | Gaasterlân-Sleat  |
+| Ameland  | Lemsterland  | Littenseradiel  |
+| Boarnsterhim  | Ooststellingwerf  | Súdwest Fryslân  |
+| Dantumadiel  | Opsterland  | --- |
+| Dongeradeel  | Skarsterlân  | --- |
+| Ferwerderadiel  | Smallingerland  | --- |
+| Franekeradeel  | Weststellingwerf  | --- |
 | Harlingen  | --- | --- |
 | Het Bildt  | --- | --- |
 | Kollumerland en Nieuwkruisland  | --- |
 | Leeuwarden  | --- | --- |
 | Leeuwarderadeel  | --- | --- |
-| Menaldumadeel  | --- | --- |
+| Menameradiel  | --- | --- |
 | Schiermonnikoog  | --- | --- |
 | Terschelling  | --- | --- |
-| Tytjerksteradiel  | --- | --- |
+| Tytsjerksteradiel  | --- | --- |
 | Vlieland  | --- | --- |
 
 |  *RECHTBANK MAASTRICHT*   |--- |--- |
 |:---|:---|:---|
 |  *Maastricht*   hoofdplaats  |  *Heerlen*   nevenvestigingsplaats  |  *Sittard-Geleen*   nevenvestigingsplaats  |
 | --- | --- | --- |
-| Eijsden  Gulpen-Wittem  Maastricht  Margraten  Meerssen  Vaals  Valkenburg aan de Geul  | Brunssum  Heerlen  Kerkrade  Landgraaf  Nuth  Simpelveld  Voerendaal  | Beek  Onderbanken  Schinnen  Sittard-Geleen  Stein  |
+| Eijsden-Margraten  Gulpen-Wittem  Maastricht  Meerssen  Vaals  Valkenburg aan de Geul  | Brunssum  Heerlen  Kerkrade  Landgraaf  Nuth  Simpelveld  Voerendaal  | Beek  Onderbanken  Schinnen  Sittard-Geleen  Stein  |
 
 |  *RECHTBANK MIDDELBURG*   |--- |  *Middelburg*   hoofdplaats  |  *Terneuzen*   nevenvestigingsplaats  |
 |:---|:---|:---|:---|
@@ -353,7 +353,7 @@ Deze bijlage bevat voor de behandeling van kantonzaken per rechtbank voor de hoo
 |:---|:---|
 |  *Utrecht*   hoofdplaats  |  *Amersfoort*   nevenvestigingsplaats  |
 | --- | --- |
-| Abcoude  Breukelen  Bunnik  De Bilt  De Ronde Venen  Houten  Loenen  Lopik  Maarssen  Montfoort  Nieuwegein  Oudewater  Utrecht  Utrechtse Heuvelrug  Vianen  Woerden  Wijk bij Duurstede  IJsselstein  Zeist  | Amersfoort  Baarn  Bunschoten  Eemnes  Leusden  Renswoude  Rhenen  Soest  Veenendaal  Woudenberg  |
+| Bunnik  De Bilt  De Ronde Venen  Houten  Lopik  Montfoort  Nieuwegein  Oudewater  Stichtse Vecht  Utrecht  Utrechtse Heuvelrug  Vianen  Woerden  Wijk bij Duurstede  IJsselstein  Zeist  | Amersfoort  Baarn  Bunschoten  Eemnes  Leusden  Renswoude  Rhenen  Soest  Veenendaal  Woudenberg  |
 
 |  *RECHTBANK ZUTPHEN*   |--- |--- |
 |:---|:---|:---|

@@ -3,7 +3,7 @@
 ##Beleidsregels van de Minister van Landbouw, Natuur en Voedselkwaliteit van 22 december 2008, nr. TRCJZ/2008/3638, houdende vaststelling van beleidsregels inzake dierenwelzijn
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
-Gelet op de [artikelen 3](../../../../../ministeriele-regeling/regeling/dierenvervoer/2007/BWBR0020684/README.md), [5](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md) en [8 van de Regeling dierenvervoer 2007](../../../../../ministeriele-regeling/regeling/dierenvervoer/2007/BWBR0020684/README.md), de [artikelen 4](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md), [5](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md), [7](../../../../../ministeriele-regeling/vrijstellingsregeling/ingrepen/BWBR0012793/README.md) en [19 van het Varkensbesluit](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md), de [artikelen 6](../../../../../ministeriele-regeling/vrijstellingsregeling/ingrepen/BWBR0012793/README.md), [7](../../../../../ministeriele-regeling/vrijstellingsregeling/ingrepen/BWBR0012793/README.md) en [8 van de Vrijstellingsregeling dierenwelzijn](../../../../../ministeriele-regeling/vrijstellingsregeling/ingrepen/BWBR0012793/README.md), [artikel 106 Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en de [artikelen 4:81 tot en met 4:84 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op de artikelen 3, 5 en 8 van de Regeling dierenvervoer 2007, de artikelen 4, 5, 7 en 19 van het Varkensbesluit, de artikelen 6, 7 en 8 van de Vrijstellingsregeling dierenwelzijn, artikel 106 Gezondheids- en welzijnswet voor dieren en de artikelen 4:81 tot en met 4:84 van de Algemene wet bestuursrecht;
 Besluit:     
 ### Hoofdstuk  I  
 
@@ -31,7 +31,7 @@ In deze beleidsregels wordt verstaan onder:
 
 In dit hoofdstuk wordt verstaan onder: 
 
-– bestuurlijke boete: bestuurlijke boete als bedoeld in [artikel 120b van de wet](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+– bestuurlijke boete: bestuurlijke boete als bedoeld in artikel 120b van de wet;  
 
 – *certificaat van goedkeuring;* certificaat van goedkeuring van het wegvervoermiddel als bedoeld in artikel 18 van de Verordening (EG) nr. 1/2005 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de richtlijnen 64/432/EEG en 93/119/EG en van verordening 1255/97 (PbEU 2005 L 1);  
 
@@ -39,7 +39,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 – *houder;* houder als bedoeld in artikel 2, onderdeel k, van de Verordening (EG) nr. 1/2005 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de richtlijnen 64/432/EEG en 93/119/EG en van verordening 1255/97 (PbEU 2005 L 1);  
 
-– *last onder dwangsom;* last onder dwangsom als bedoeld in [artikel 5:31d van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+– *last onder dwangsom;* last onder dwangsom als bedoeld in artikel 5:31d van de Algemene wet bestuursrecht;  
 
 – *organisator:* organisator als bedoeld in artikel 2, onderdeel q, van de Verordening (EG) nr. 1/2005 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de richtlijnen 64/432/EEG en 93/119/EG en van verordening 1255/97 (PbEU 2005 L 1);  
 
@@ -222,12 +222,15 @@ Onverminderd de bepalingen van deze beleidsregels zal de minister overgaan tot o
 
 1.  Als voldoende stahoogte als bedoeld in artikel 3, onderdeel g, van de transportverordening wordt beschouwd: 
 
-a. Voor runderen: ten minste 20 centimeter ruimte boven de kruin van het grootste dier;  
+a. Voor runderen, behoudens voor slachtrunderen ouder dan één jaar: ten minste 20 centimeter ruimte boven de kruin van het grootste dier;  
 
-b. Voor schapen en geiten: ten minste 20 centimeter ruimte boven de kruin van het grootste dier;  
+b. Voor slachtrunderen ouder dan één jaar: ten minste 25 centimeter boven de schofthoogte van het hoogste dier;  
 
-c. Voor varkens: ten minste 30 centimeter ruimte boven het hoogste punt van het grootste dier.     
+c. Voor schapen en geiten: ten minste 20 centimeter ruimte boven de kruin van het grootste dier;  
+
+d. Voor varkens: ten minste 30 centimeter ruimte boven het hoogste punt van het grootste dier.     
 2.  Indien het vervoermiddels is voorzien van een geforceerd ventilatiesysteem wordt in afwijking van het eerste lid, onderdeel c, 15 centimeter ruimte boven het hoogste punt van het grootste dier als voldoende stahoogte beschouwd.   
+3.  Voor de toepassing van deze beleidsregels wordt als maximum toegestane hoogte van bedrijfsauto’s de hoogte gehanteerd die bepaald is bij artikel 5.3.6 van de Regeling voertuigen.   
 
 ### Hoofdstuk  III  
 
@@ -253,29 +256,29 @@ a. *plateaustal:* een stal, waarin gebruiksvarkens beschikken over twee verblijf
 
 6°. een plateau is bereikbaar via een loopplank van tenminste 0,75 meter breed en zodanig geplaatst en ontworpen dat de varkens zonder veel moeite het plateau kunnen bereiken;    
 
-b. *besluit:*[Varkensbesluit](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md);  
+b. *besluit:*Varkensbesluit;  
 
-c. *regeling:*[Vrijstellingsregeling dierenwelzijn](../../../../../ministeriele-regeling/vrijstellingsregeling/ingrepen/BWBR0012793/README.md).    
+c. *regeling:*Vrijstellingsregeling dierenwelzijn.    
 
 ### Artikel  18  
 
 ####(trog)
 
-1.  Bij gebruik van een zwevende trog waarvan de onderkant zich minimaal 20 centimeter boven de vloer bevindt, mag in de gevallen dat het varken ongehinderd met zijn kop onder de trog kan rusten, de ruimte onder de zwevende trog als vrije ruimte als bedoeld in [artikel 7 van het besluit](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md), worden meegerekend.   
-2.  Bij gebruik van een verzonken trog zonder obstakels mag van de vrije ruimte als bedoeld in [artikel 7 van het besluit](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md), 15 centimeter verzonken zijn.   
+1.  Bij gebruik van een zwevende trog waarvan de onderkant zich minimaal 20 centimeter boven de vloer bevindt, mag in de gevallen dat het varken ongehinderd met zijn kop onder de trog kan rusten, de ruimte onder de zwevende trog als vrije ruimte als bedoeld in artikel 7 van het besluit, worden meegerekend.   
+2.  Bij gebruik van een verzonken trog zonder obstakels mag van de vrije ruimte als bedoeld in artikel 7 van het besluit, 15 centimeter verzonken zijn.   
 
 ### Artikel  19  
 
 ####(plateaustal)
 
-1.  Bij gebruik van een plateaustal mag de voor gebruiksvarkens beschikbare oppervlakte van een plateau als beschikbare oppervlakte als bedoeld in [artikel 4, tweede lid, van het besluit](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md), [artikel 6, tweede lid](../../../../../ministeriele-regeling/vrijstellingsregeling/ingrepen/BWBR0012793/README.md), en [artikel 8, tweede lid van de regeling](../../../../../ministeriele-regeling/vrijstellingsregeling/ingrepen/BWBR0012793/README.md), worden meegerekend.   
-2.  Bij gebruik van een plateaustal mag het dichte deel van de voor gebruiksvarkens beschikbare vloer van een plateau als het dichte deel van de beschikbare vloer als bedoeld in [artikel 5, derde lid, van het besluit](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md), en [artikel 7, tweede lid](../../../../../ministeriele-regeling/vrijstellingsregeling/ingrepen/BWBR0012793/README.md), en [artikel 8, vierde lid, van de regeling](../../../../../ministeriele-regeling/vrijstellingsregeling/ingrepen/BWBR0012793/README.md), worden meegerekend.   
+1.  Bij gebruik van een plateaustal mag de voor gebruiksvarkens beschikbare oppervlakte van een plateau als beschikbare oppervlakte als bedoeld in artikel 4, tweede lid, van het besluit, artikel 6, tweede lid, en artikel 8, tweede lid van de regeling, worden meegerekend.   
+2.  Bij gebruik van een plateaustal mag het dichte deel van de voor gebruiksvarkens beschikbare vloer van een plateau als het dichte deel van de beschikbare vloer als bedoeld in artikel 5, derde lid, van het besluit, en artikel 7, tweede lid, en artikel 8, vierde lid, van de regeling, worden meegerekend.   
 
 ### Artikel  20  
 
 ####(stal)
 
-Onder het begrip stal in [artikel 19 van het besluit](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md), wordt verstaan de kleinste eenheid waarin varkens kunnen worden gehuisvest.  
+Onder het begrip stal in artikel 19 van het besluit, wordt verstaan de kleinste eenheid waarin varkens kunnen worden gehuisvest.  
 
 ### Hoofdstuk  IV  
 
@@ -291,7 +294,7 @@ De in deze beleidsregels gehanteerde verjaringstermijn van drie jaar loopt vanaf
 
 ####(intrekking beleidsregels)
 
-De [beleidsregels dierenwelzijn](../../../../../beleidsregel/beleidsregels/dierenwelzijn/BWBR0013173/README.md) worden ingetrokken.  
+De beleidsregels dierenwelzijn worden ingetrokken.  
 
 ### Artikel  23  
 

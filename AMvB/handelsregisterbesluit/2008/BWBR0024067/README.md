@@ -149,6 +149,11 @@ a. het aantal werkzame personen, onderverdeeld naar vestiging, op de eerste werk
 
 b. een korte aanduiding van de uitgeoefende activiteit of activiteiten.    
 
+### Artikel  11a  
+
+1.  Een onderneming zonder vestiging in Nederland kan worden ingeschreven in het handelsregister, indien de activiteiten van de onderneming in Nederland zelfstandig zouden kwalificeren als een onderneming in de zin van artikel 2.   
+2.  In het handelsregister wordt over een onderneming zonder vestiging in Nederland het adres opgenomen waarop degene aan wie de onderneming toebehoort fysiek bereikbaar is.   
+
 ### Artikel  12  
 
 1.  Indien een onderneming één of meer gevolmachtigde handelsagenten heeft die in Nederland werkzaam zijn, dan worden hun persoonlijke gegevens en de inhoud van hun volmacht in het handelsregister opgenomen.   
@@ -331,6 +336,7 @@ a. indien de hoofdvestiging van de onderneming buiten Nederland is gelegen, het 
 
 b. de persoonlijke gegevens van de bij de onderneming of de hoofdnederzetting werkzame beheerder of een andere dergelijke gevolmachtigde, zijn functie, de datum waarop hij bij de onderneming of de hoofdnederzetting als zodanig in en uit functie is getreden en de inhoud van zijn volmacht.     
 4.  Artikel 24, vierde lid, voor zover het een rechtspersoon betreft, en vijfde lid, zijn van overeenkomstige toepassing.   
+5.  In afwijking van het tweede lid, onderdeel a, worden over een rechtspersoon met meer dan 20 vennoten, niet de in dat lid genoemde gegevens opgenomen over de vennoten die niet aan de Nederlandse vestiging van de rechtspersoon zijn verbonden.   
 
 ### Artikel  27  
 
@@ -453,6 +459,14 @@ In het handelsregister worden over een vestiging opgenomen:
 a. het telefoonnummer, het faxnummer, het e-mailadres en het internetadres;  
 
 b. een korte aanduiding van de uitgeoefende activiteit of activiteiten.    
+
+### §  5a  
+
+####Functionarissen
+
+### Artikel  35a  
+
+Over een bestuurder of een gevolmachtigde of een andere functionaris die niet een natuurlijk persoon is en die niet is ingeschreven in het handelsregister kan een door de kamer toe te kennen uniek nummer worden opgenomen. De Belastingdienst verstrekt daartoe op verzoek van de kamer de bij hem bekende nummers van deze gevolmachtigden of functionarissen.  
 
 ### §  6  
 

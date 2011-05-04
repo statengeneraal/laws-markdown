@@ -664,7 +664,7 @@ Door aanvrager (eigenaar of erfpachter) dienen de volgende documenten te worden 
 
 – Beschikking inzake saneringsnoodzaak;  
 
-– Uittreksel handelsregister van betreffende onderneming en van alle ondernemingen die organisatorisch en economisch verbonden zijn (tot de groep behoren);  
+– Het door een kamer toegekend uniek nummer, bedoeld in [artikel 9, onder a, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), van de betreffende onderneming en alle ondernemingen die organisatorisch en economisch verbonden zijn (tot de groep behoren);  
 
 – Document waaruit instemming van het bevoegd gezag blijkt (bijvoorbeeld een door het bevoegd gezag goedgekeurde offerte saneringskosten);  
 

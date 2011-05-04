@@ -31,7 +31,11 @@ b. producent:
 
 - de andere personen die beroepshalve betrokken zijn bij de verhandelingsketen, voor zover hun activiteiten van invloed zijn op de veiligheidskenmerken van de producten die op de markt worden gebracht;    
 
-c. distributeur: de persoon die beroepshalve betrokken is bij de verhandelingsketen en wiens activiteit geen invloed heeft op de veiligheidskenmerken van de produkten.     
+c. distributeur: de persoon die beroepshalve betrokken is bij de verhandelingsketen en wiens activiteit geen invloed heeft op de veiligheidskenmerken van de produkten;  
+
+d. verordening (EG) nr. 764/2008: verordening (EG) nr. 764/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van procedures voor de toepassing van bepaalde nationale technische voorschriften op goederen die in een andere lidstaat rechtmatig in de handel zijn gebracht, en tot intrekking van Beschikking nr. 3052/95/EG (PbEU L 218);  
+
+e. verordening (EG) nr. 765/2008: verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93 (PbEU L 218).     
 2.  Dit besluit is niet van toepassing op tweedehands producten die als antiek geleverd worden of als producten die vóór het gebruik gerepareerd moeten worden of opnieuw in goede staat moeten worden gebracht, mits de leverancier de persoon aan wie hij het product levert, hiervan duidelijk op de hoogte stelt.   
 3.  Dit besluit is niet van toepassing op producten, indien ten aanzien daarvan bij of ter uitvoering van een krachtens het Verdrag tot oprichting van de Europese Gemeenschap tot stand gekomen bindende regeling specifieke bepalingen zijn vastgesteld die op hetzelfde doel zien als de eisen die bij of krachtens dit besluit worden gesteld.   
 
@@ -87,6 +91,7 @@ b. luchtvaartuigen als bedoeld in [artikel 1.1, eerste lid, onderdeel k, van de 
 3.  Voor de toepassing van de [artikelen 21](../../../../../wet/warenwet/BWBR0001969/README.md), [21a](../../../../../wet/warenwet/BWBR0001969/README.md), [21b](../../../../../wet/warenwet/BWBR0001969/README.md), [32a](../../../../../wet/warenwet/BWBR0001969/README.md), [32e](../../../../../wet/warenwet/BWBR0001969/README.md), [32f](../../../../../wet/warenwet/BWBR0001969/README.md), [32g](../../../../../wet/warenwet/BWBR0001969/README.md) en [32h, van de Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md) wordt Onze Minister van Economische Zaken aangewezen voor wat betreft randapparaten en radioapparaten als bedoeld in [artikel 1.1 van de Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md).   
 4.  Met het toezicht op de naleving van het eerste lid, onderdelen a en b, en tweede lid, met betrekking tot de daar genoemde waren, zijn belast de bij besluit van Onze Minister van Verkeer en Waterstaat aangewezen ambtenaren.   
 5.  Met het toezicht op de naleving van het derde lid met betrekking tot de daar genoemde waren, zijn belast de bij besluit van Onze Minister van Economische Zaken aangewezen ambtenaren.   
+6.  Onze Minister stelt nadere regels voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens verordening (EG) nr. 764/2008 en de bij of krachtens verordening (EG) nr. 765/2008 gestelde voorschriften. Deze nadere regels kunnen mede betrekking hebben op het aanwijzen van autoriteiten die belast zijn met de controle van producten die de communautaire markt binnenkomen.   
 
 ### Artikel  2c  
 

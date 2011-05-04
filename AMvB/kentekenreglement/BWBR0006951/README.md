@@ -436,24 +436,22 @@ d. voor dat voertuig nadien een kentekenbewijs met een bijzonder kenteken is afg
 
 1.  Indien de aanvraag, bedoeld in artikel 25, tweede lid, wordt gedaan met betrekking tot een voertuig in bedrijfsvoorraad van een erkend bedrijf dat gebruik maakt van de bevoegdheid, bedoeld in artikel 46, tweede lid, onderdeel f, kan de aanvraag, gericht tot de Dienst Wegverkeer, bij dat bedrijf worden ingediend. In afwijking van artikel 25, tweede en derde lid, is dit artikel van toepassing.   
 2.  Indien de aanvraag wordt gedaan door een natuurlijke persoon overlegt deze in persoon aan het erkende bedrijf ter legitimatie een rijbewijs, alsmede een verklaring waaruit duidelijk het verzoek tot tenaamstelling blijkt en het kenteken van het voertuig dat wordt overgedragen, en welke overigens voldoet aan bij ministeriële regeling als bedoeld in [artikel 50, vijfde lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), gestelde voorschriften.   
-3.  Indien de aanvraag wordt gedaan door een in Nederland gevestigde rechtspersoon, die is ingeschreven in een daartoe bij de wet aangewezen register, machtigt deze het erkende bedrijf de aanvraag bij de Dienst Wegverkeer in te dienen. Degene die blijkens het register bevoegd is de rechtspersoon te vertegenwoordigen verstrekt aan het erkende bedrijf: 
+3.  Indien de aanvraag wordt gedaan door een in Nederland gevestigde rechtspersoon, die is ingeschreven in het handelsregister, machtigt deze het erkende bedrijf de aanvraag bij de Dienst Wegverkeer in te dienen. Degene die blijkens het handelsregister bevoegd is de rechtspersoon te vertegenwoordigen verstrekt aan het erkende bedrijf: 
 
 a. een kopie van zijn rijbewijs;  
 
-b. een gewaarmerkt uittreksel, uit het in de aanhef bedoelde register;  
-
-c. een ondertekende machtiging welke vermeldt: 
+b. een ondertekende machtiging welke vermeldt: 
 
 1°. naam en adres van de aanvrager,  
 
-2°. het inschrijfnummer van het Handelsregister als bedoeld in [artikel 2 van de Handelsregisterwet 1996](../../../wet/handelsregisterwet/1996/BWBR0007893/README.md),  
+2°. een opgave van zijn unieke nummer, bedoeld in [artikel 9, onder a, van de Handelsregisterwet 2007](../../../wet/handelsregisterwet/2007/BWBR0021777/README.md),  
 
 3°. naam en geboortedatum van degene die de rechtspersoon vertegenwoordigt,  
 
 4°. naam en adres van het erkende bedrijf waar de aanvraag wordt ingediend, en  
 
 5°. het kenteken van het voertuig waarop de aanvraag betrekking heeft.       
-4.  Het erkende bedrijf dient de aanvraag bij de Dienst Wegverkeer in en meldt de bij ministeriële regeling als bedoeld in [artikel 62, vierde lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), voorgeschreven gegevens vermeld op deel I A en het deel II en het rijbewijsnummer. In geval van een aanvraag als bedoeld in het tweede lid meldt het bedrijf ook de geboortedatum van de aanvrager. In geval van een aanvraag als bedoeld in het derde lid meldt het bedrijf ook de vestigingsdatum, vermeld op het uittreksel, bedoeld in het derde lid, onderdeel b, en de gegevens vermeld in de machtiging.   
+4.  Het erkende bedrijf dient de aanvraag bij de Dienst Wegverkeer in en meldt de bij ministeriële regeling als bedoeld in [artikel 62, vierde lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), voorgeschreven gegevens vermeld op deel I A en het deel II en het rijbewijsnummer. In geval van een aanvraag als bedoeld in het tweede lid meldt het bedrijf ook de geboortedatum van de aanvrager. In geval van een aanvraag als bedoeld in het derde lid meldt het bedrijf ook de vestigingsdatum en de gegevens vermeld in de machtiging.   
 5.  De Dienst Wegverkeer geeft, indien aan de verplichtingen in het eerste tot en met vierde lid is voldaan, een deel I B af. Het erkende bedrijf verstrekt het deel I B tezamen met het deel I A en het deel II zo spoedig mogelijk aan de aanvrager.   
 6.  De Dienst Wegverkeer houdt de beslissing op de aanvraag aan, indien daartoe naar het oordeel van deze dienst aanleiding bestaat. In dat geval wendt de aanvrager zich tot de Dienst Wegverkeer.   
 
@@ -530,24 +528,22 @@ c. bij het erkende bedrijf de bij ministeriële regeling aangewezen documenten o
 
 1.  In geval van overdracht van een voertuig dat ophoudt te behoren tot de bedrijfsvoorraad van een erkend bedrijf dat gebruik maakt van de bevoegdheid, bedoeld in artikel 46, tweede lid, onderdeel f, kan, in afwijking van artikel 28, een aanvraag van een nieuw deel I B, gericht aan de Dienst Wegverkeer, bij dat bedrijf worden ingediend. In afwijking van artikel 28 is dit artikel van toepassing.   
 2.  Indien de aanvraag wordt gedaan door een natuurlijke persoon overlegt deze in persoon aan het erkende bedrijf een rijbewijs, alsmede een verklaring waaruit duidelijk het verzoek tot tenaamstelling blijkt en het kenteken van het voertuig dat wordt overgedragen, en welke overigens voldoet aan bij ministeriële regeling als bedoeld in [artikel 50, vijfde lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), gestelde voorschriften.   
-3.  Indien de aanvraag wordt ingediend door een in Nederland gevestigde rechtspersoon, die dient te zijn ingeschreven in een daartoe bij de wet aangewezen register, machtigt deze het erkende bedrijf de aanvraag bij de Dienst Wegverkeer in te dienen. Degene die blijkens het register bevoegd is de rechtspersoon te vertegenwoordigen verstrekt aan het erkende bedrijf: 
+3.  Indien de aanvraag wordt gedaan door een in Nederland gevestigde rechtspersoon, die is ingeschreven in het handelsregister, machtigt deze het erkende bedrijf de aanvraag bij de Dienst Wegverkeer in te dienen. Degene die blijkens het handelsregister bevoegd is de rechtspersoon te vertegenwoordigen verstrekt aan het erkende bedrijf: 
 
 a. een kopie van zijn rijbewijs;  
 
-b. een gewaarmerkt uittreksel uit het in de aanhef bedoelde register;  
-
-c. een ondertekende machtiging welke vermeldt: 
+b. een ondertekende machtiging welke vermeldt: 
 
 1°. naam en adres van de aanvrager,  
 
-2°. het inschrijfnummer van het Handelsregister als bedoeld in [artikel 2 van de Handelsregisterwet 1996](../../../wet/handelsregisterwet/1996/BWBR0007893/README.md),  
+2°. een opgave van zijn unieke nummer, bedoeld in [artikel 9, onder a, van de Handelsregisterwet 2007](../../../wet/handelsregisterwet/2007/BWBR0021777/README.md)  
 
 3°. naam en geboortedatum van degene die de rechtspersoon vertegenwoordigt,  
 
 4°. naam en adres van het erkende bedrijf waar de aanvraag wordt ingediend, en  
 
 5°. het kenteken van het voertuig waarop de aanvraag betrekking heeft.       
-4.  Het erkende bedrijf meldt de bij ministeriële regeling als bedoeld in [artikel 62, vierde lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), voorgeschreven gegevens vermeld op het deel II, op het uittreksel, bedoeld in het derde lid, onderdeel b, op het bedrijfsvoorraad deel I B en het rijbewijsnummer. In geval van een aanvraag als bedoeld in het tweede lid meldt het bedrijf ook de geboortedatum van de aanvrager. In geval van een aanvraag als bedoeld in het derde lid meldt het bedrijf ook de vestigingsdatum en de gegevens vermeld in de machtiging.   
+4.  Het erkende bedrijf meldt de bij ministeriële regeling als bedoeld in [artikel 62, vierde lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), voorgeschreven gegevens vermeld op het deel II, op het bedrijfsvoorraad deel I B en het rijbewijsnummer. In geval van een aanvraag als bedoeld in het tweede lid meldt het bedrijf ook de geboortedatum van de aanvrager. In geval van een aanvraag als bedoeld in het derde lid meldt het bedrijf ook de vestigingsdatum en de gegevens vermeld in de machtiging.   
 5.  De Dienst Wegverkeer geeft, indien aan de verplichtingen in het tweede tot en met vierde lid is voldaan, een nieuw deel I B en een vrijwaringsbewijs af en verstrekt dit aan het erkende bedrijf. Het erkende bedrijf stelt het nieuwe deel I B tezamen met het deel I A en het deel II terstond in handen van de aanvrager, of doet deze, in geval van een aanvraag als bedoeld in het derde lid, zo spoedig mogelijk aan de aanvrager toekomen.   
 
 ### Artikel  29  
@@ -1041,24 +1037,22 @@ c. bij het erkende bedrijf de bij ministeriële regeling aangewezen documenten o
 
 1.  In geval van overdracht van een voertuig dat ophoudt te behoren tot de bedrijfsvoorraad van een erkend bedrijf dat gebruik maakt van de bevoegdheid, bedoeld in artikel 46, tweede lid, onderdeel f, kan, in afwijking van artikel 58d, een aanvraag van een nieuw deel I B, gericht aan de Dienst Wegverkeer, bij dat bedrijf worden ingediend. In afwijking van artikel 58d is dit artikel van toepassing.   
 2.  Indien de aanvraag wordt gedaan door een natuurlijke persoon overlegt deze in persoon aan het erkende bedrijf een rijbewijs, alsmede een verklaring waaruit duidelijk het verzoek tot tenaamstelling blijkt en het kenteken van het voertuig dat wordt overgedragen, en welke overigens voldoet aan bij ministeriële regeling als bedoeld in [artikel 50, vijfde lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), gestelde voorschriften.   
-3.  Indien de aanvraag wordt ingediend door een in Nederland gevestigde rechtspersoon, die dient te zijn ingeschreven in een daartoe bij de wet aangewezen register, machtigt deze het erkende bedrijf de aanvraag bij de Dienst Wegverkeer in te dienen. Degene die blijkens het register bevoegd is de rechtspersoon te vertegenwoordigen verstrekt aan het erkende bedrijf: 
+3.  Indien de aanvraag wordt gedaan door een in Nederland gevestigde rechtspersoon, die is ingeschreven in het handelsregister, machtigt deze het erkende bedrijf de aanvraag bij de Dienst Wegverkeer in te dienen. Degene die blijkens het handelsregister bevoegd is de rechtspersoon te vertegenwoordigen verstrekt aan het erkende bedrijf: 
 
 a. een kopie van zijn rijbewijs;  
 
-b. een gewaarmerkt uittreksel uit het in de aanhef bedoelde register;  
-
-c. een ondertekende machtiging welke vermeldt: 
+b. een ondertekende machtiging welke vermeldt: 
 
 1°. naam en adres van de aanvrager,  
 
-2°. het inschrijfnummer van het Handelsregister als bedoeld in [artikel 2 van de Handelsregisterwet 1996](../../../wet/handelsregisterwet/1996/BWBR0007893/README.md),  
+2°. een opgave van zijn unieke nummer, bedoeld in [artikel 9, onder a, van de Handelsregisterwet 2007](../../../wet/handelsregisterwet/2007/BWBR0021777/README.md)  
 
 3°. naam en geboortedatum van degene die de rechtspersoon vertegenwoordigt,  
 
 4°. naam en adres van het erkende bedrijf waar de aanvraag wordt ingediend, en  
 
 5°. het kenteken van het voertuig waarop de aanvraag betrekking heeft.       
-4.  Het erkende bedrijf meldt de bij ministeriële regeling als bedoeld in [artikel 62, vierde lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), voorgeschreven gegevens vermeld op het overschrijvingsbewijs, op het uittreksel, bedoeld in het derde lid, onderdeel b, op het bedrijfsvoorraad deel II of I B, het rijbewijsnummer. In geval van een aanvraag als bedoeld in het tweede lid meldt het bedrijf ook de geboortedatum van de aanvrager. In geval van een aanvraag als bedoeld in het derde lid meldt het bedrijf ook de vestigingsdatum en de gegevens, vermeld in de machtiging.   
+4.  Het erkende bedrijf meldt de bij ministeriële regeling als bedoeld in [artikel 62, vierde lid, van de wet](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), voorgeschreven gegevens vermeld op het overschrijvingsbewijs, op het bedrijfsvoorraad deel II of I B, het rijbewijsnummer. In geval van een aanvraag als bedoeld in het tweede lid meldt het bedrijf ook de geboortedatum van de aanvrager. In geval van een aanvraag als bedoeld in het derde lid meldt het bedrijf ook de vestigingsdatum en de gegevens, vermeld in de machtiging.   
 5.  De Dienst Wegverkeer geeft, indien aan de verplichtingen in het tweede tot en met vierde lid is voldaan, een nieuw deel I B en een vrijwaringsbewijs af en verstrekt dit aan het erkende bedrijf. Het erkende bedrijf stelt het nieuwe deel I B te zamen met het deel I en het overschrijvingsbewijs terstond in handen van de aanvrager, of doet deze, in geval van een aanvraag als bedoeld in het derde lid, zo spoedig mogelijk aan de aanvrager toekomen.   
 
 ### Artikel  58f  

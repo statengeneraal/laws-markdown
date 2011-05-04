@@ -894,9 +894,7 @@ g. jaarlijkse overzichten van nutsbedrijven van het verbruik van gas, elektricit
 
 h. veiligheidsinformatiebladen, die behoren bij de in de inrichting aanwezige gevaarlijke stoffen;  
 
-i. afgiftebewijzen van bedrijfsafvalstoffen;  
-
-j. uittreksel van de inschrijving in het handelsregister, en  
+i. afgiftebewijzen van bedrijfsafvalstoffen, en  
 
 k. een rapport van een onderzoek, als bedoeld in artikel 7.   3.3.2. Voorzover zij voor de inrichting zijn afgegeven, worden de PBV-Verklaring vloeistofdichte voorziening, het daarbij behorende inspectierapport en de documenten waaruit blijkt dat de controles, bedoeld in voorschrift 3.2.6, onderdeel f, zijn uitgevoerd, gedurende zes jaar na dagtekening bewaard.  
 

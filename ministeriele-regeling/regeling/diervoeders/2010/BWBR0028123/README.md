@@ -819,114 +819,105 @@ G.Verburg
 
 ####Analysemethoden in flexibele scope
 
-####Dierlijke en plantaardige producten, diervoeder (grondstoffen) en water – het aantonen, bepalen en bevestigen van dierbehandelingsmiddelen; vloeistofchromatografie, massaspectrometrische detectie en fluorescentie detectie
+*Dierlijke en plantaardige producten, diervoeder (grondstoffen) en water – Het aantonen, bepalen en bevestigen van dierbehandelingsmiddelen; vloeistofchromatografie, massaspectrometrische detectie en fluorescentie detectie*   
 
 | --- | --- |
 |:---|:---|
-| A0579  | dierlijke weefsels, dierlijke excreta, honing, veevoeders en veevoedergrondstoffen – het bepalen en bevestigen van chlooramfenicol – LC-MS/MS  |
-| A0846  | voedermiddelen, premixen en mineralenmengsels – het bepalen van coccidiostatica en groeibevorderaars – LC-MS/MS  |
-| A0929  | diervoeders – het bepalen en bevestigen van tetracyclines – LC-MS/MS  |
-| A0939  | diervoeders – het bepalen en bevestigen van enkele sulfonamiden – LC-MS/MS  |
-| A0960  | diervoeders – het bepalen en bevestigen van enkele macroliden en lincomycine – LC-MS/MS  |
-| A0963  | diervoeders – het bepalen en bevestigen van penicillines – LC-MS/MS  |
-| A1005  | diervoeders – het bepalen en bevestigen van ionoforen – LC-MS/MS  |
-| A1037  | diervoeders – het bevestigen van avilamycine – LC-MS/MS  |
+| A0579  | Dierlijke weefsels, dierlijke excreta, honing, veevoeders en veevoedergrondstoffen – Het bepalen en bevestigen van chlooramfenicol – LC-MS/MS  |
+| A0846  | Voedermiddelen, premixen en mineralenmengsels – Het bepalen van coccidiostatica en groeibevorderaars – LC-MS/MS  |
+| A0929  | Diervoeders – Het bepalen en bevestigen van tetracyclines – LC-MS/MS  |
+| A0939  | Diervoeders – Het bepalen en bevestigen van enkele sulfonamiden – LC-MS/MS  |
+| A0960  | Diervoeders – Het bepalen en bevestigen van enkele macroliden en lincomycine – LC-MS/MS  |
+| A0963  | Diervoeders – Het bepalen en bevestigen van penicillines – LC-MS/MS  |
+| A1005  | Diervoeders – Het bepalen en bevestigen van ionoforen – LC-MS/MS  |
+| A1037  | Diervoeders – Het bevestigen van avilamycine – LC-MS/MS  |
+| A1098  | Diervoeders – Het bepalen en bevestigen van coccidiostatica (Richtlijn 2009/8/EG) – LC-MS/MS  |
 
-####Dierlijke en plantaardige producten, diervoeder (grondstoffen) – het aantonen, bepalen en bevestigen van natuurlijke toxinen; vloeistofchromatografie en massaspectrometrische detectie en UV detectie
-
-| --- | --- |
-|:---|:---|
-| A1070  | diervoeders – het bepalen van ergotalkaloïden – LC-MS/MS  |
-
-####Dierlijke en plantaardige producten – bepalen van het gehalte aan dioxinen, dibenzofuranen, nonorthoPCB’s en monoortho PCB’s (en indicator PCB’s); GCHRMS
+*Dierlijke en plantaardige producten, diervoeder (grondstoffen) – Het aantonen, bepalen en bevestigen van natuurlijke toxinen; vloeistofchromatografie en massaspectrometrische detectie en UV detectie en fluorescentie*   
 
 | --- | --- |
 |:---|:---|
-| A0565  | dioxinen en PCB’s bevattende extracten – gehaltebepaling met behulp van hoog oplossend vermogen massaspectrometrie  |
-| A0561  | melk(producten), dierlijk vetweefsel – isolatie van vet voor de bepaling van dioxinen en pcb’s  |
-| A1054  | dioxine-en PCB bevattende extracten – zuivering met behulp van een geautomatiseerd Power-Prep clean-up systeem  |
+| A0255  | Diervoeder en meel – Multimethode Mycotoxinen – LC-MS/MS  |
+| A0932  | Diervoeder en diervoedergrondstoffen – Bepaling van het gehalte aan aflatoxine B1 – immunoaffiniteit – HPLC – fluorescentiedetectie  |
+| A1070  | Diervoeders – Het bepalen van ergotalkaloïden – LC-MS/MS  |
 
-####Dierlijke en plantaardige producten – bepalen van het gehalte aan bestrijdingsmiddelen, gaschromatografie en ECD
-
-| --- | --- |
-|:---|:---|
-| A0204  | oliën en vetten – bepaling van organochloorverbindingen – gelpermeatiechromatografie, capillaire gaschromatografie, electron capture detectie  |
-
-####Dierlijke en plantaardige producten – bepalen van het gehalte aan mycotoxinen; HPLC en massaspectrometrische detectie
+*Dierlijke en plantaardige producten – Bepalen van het gehalte aan dioxinen, dibenzofuranen, nonorthoPCB’s en monoortho PCB’s (en indicator PCB’s); GCHRMS*   
 
 | --- | --- |
 |:---|:---|
-| A0255  | diervoeder en meel – multimethode Mycotoxinen – LC-MS/MS  |
+| A0565  | Dioxinen en PCB’s bevattende extracten – gehaltebepaling met behulp van hoog oplossend vermogen massaspectrometrie  |
+| A0561  | Melk(producten), dierlijk vetweefsel – Isolatie van vet voor de bepaling van dioxinen en pcb’s  |
+| A1054  | Dioxine-en PCB bevattende extracten – Zuivering met behulp van een geautomatiseerd Power-Prep clean-up systeem  |
 
-####Dierlijke en plantaardige producten – bepalen van het gehalte aan mycotoxinen; HPLC en fluorescentie detectie
-
-| --- | --- |
-|:---|:---|
-| A0932  | diervoeder en diervoedergrondstoffen – bepaling van het gehalte aan aflatoxine B1 – immunoaffiniteit – HPLC – fluorescentiedetectie  |
-
-####Plantaardige en dierlijke producten – bepalen van metalen; ETAAS, FAAS en koude damp-AFS techniek
+*Dierlijke en plantaardige producten – Bepalen van het gehalte aan bestrijdingsmiddelen, gaschromatografie en ECD*   
 
 | --- | --- |
 |:---|:---|
-| A1057  | dierlijk weefsel, voedsel en grondstoffen, voeder en grondstoffen, meststoffen en milieumatrices – bepaling van het gehalte aan (sporen)elementen  |
-| A1058  | water en destruaten – bepaling van het elementgehalte – absorptie spectrometrie met grafietoventechniek (ETAAS).  |
-| A1059  | water en destruaten – bepaling van het elementgehalte – atomaire absorptie spectrometrie met vlam-AAS techniek (FAAS)  |
-| A1060  | water en destruaten – bepaling van het kwikgehalte – Koude damp / atomaire fluorescentie spectrometrie (Mercur)  |
+| A0204  | Oliën en vetten – Bepaling van organochloorverbindingen – Gelpermeatiechromatografie, capillaire gaschromatografie, electron capture detectie  |
 
-####Plantaardige en dierlijke producten, diervoeders – bepaling van het gehalte vocht; gewichtsverlies na verwarmen, gravimetrisch
+*Plantaardige en dierlijke producten – Bepalen van metalen; ETAAS, FAAS en koude damp-AFS techniek*   
 
 | --- | --- |
 |:---|:---|
-| A0582  | diervoeders – bepaling van vocht – gravimetrisch  |
+| A1057  | Dierlijk weefsel, voedsel en grondstoffen, voeder en grondstoffen, meststoffen en milieumatrices – Bepaling van het gehalte aan (sporen)elementen  |
+| A1058  | Water en destruaten – Bepaling van het elementgehalte – absorptie spectrometrie met grafietoventechniek (ETAAS).  |
+| A1059  | Water en destruaten – Bepaling van het elementgehalte – atomaire absorptie spectrometrie met vlam-AAS techniek (FAAS).  |
+| A1060  | Water en destruaten – Bepaling van het kwikgehalte – Koude damp / atomaire fluorescentie spectrometrie (Mercur).  |
 
-####Dierlijke en plantaardige producten, diervoeder (grondstoffen) en water – het aantonen, bepalen en bevestigen van stoffen met hormonale werking en van beta-agonisten; vloeistofchromatografie en massaspectrometrische detectie
-
-| --- | --- |
-|:---|:---|
-| A0853  | varkensdroogvoeders – het bepalen en bevestigen van medroxyprogesteronacetaat (MPA) – LC-MS/MS  |
-| A0993  | diervoeders – het aantonen van ß-agonisten – LC-MS/MS  |
-
-####Dierlijke en plantaardige producten, diervoeder (grondstoffen) en water – het aantonen, bepalen en bevestigen van stoffen met hormonale werking; gaschromatografie en massaspectrometrische detectie
+*Plantaardige en dierlijke producten, diervoeders – Bepaling van het gehalte vocht; gewichtsverlies na verwarmen, gravimetrisch*   
 
 | --- | --- |
 |:---|:---|
-| A1017  | runderurine en diervoeder – fractionering van anabole steroïden – GC-MS/MS  |
-| A1018  | diervoeder – het bepalen en bevestigen van anabole steroïden – GC-MS/MS  |
-| A1022  | diervoeder – extractie en opzuivering van anabole steroïden  |
-| A1035  | runderurine en water – het bepalen en bevestigen van anabole steroïden – GC-MS/MS  |
+| A0582  | Diervoeders – Bepaling van vocht – gravimetrisch  |
 
-####Dierlijke en plantaardige producten, diervoeder (grondstoffen) en water – het aantonen van stoffen met hormonale werking en dierbehandelingsmiddelen; immunochemische detectie
+*Dierlijke en plantaardige producten, diervoeder (grondstoffen) en water – Het aantonen, bepalen en bevestigen van stoffen met hormonale werking en van beta-agonisten; vloeistofchromatografie en massaspectrometrische detectie*   
 
 | --- | --- |
 |:---|:---|
-| A0995  | diervoeders – het aantonen van clenbuterol en salbutamol – competitieve EIA (clen-EIA en mix-EIA)  |
-| A1065  | veevoeders, veevoedergrondstoffen, rauwe melk, melkpoeder en kalver- en runderurines – aantonen van chlooramfenicol – EIA  |
+| A0853  | Varkensdroogvoeders – Het bepalen en bevestigen van medroxyprogesteronacetaat (MPA) – LC-MS/MS  |
+| A0993  | Diervoeders – Het aantonen van ß-agonisten – LC-MS/MS  |
 
-####Urine en diervoeder(grondstoffen) – screening op hormonale activiteit; gist bioassay met fluorescentiemeting
-
-| --- | --- |
-|:---|:---|
-| A1008  | diervoeders – screening op estrogene activiteit – gist bioassay met fluorescentiemeting  |
-| A1028  | diervoeder – screening op androgene activiteit – gist bioassay met fluorescentiemeting  |
-
-####Plantaardige en dierlijke producten, diervoeders, water – bepalen van het gehalte stikstof/ruw eiwit; Kjeldahl
+*Dierlijke en plantaardige producten, diervoeder (grondstoffen) en water – Het aantonen, bepalen en bevestigen van stoffen met hormonale werking; gaschromatografie en massaspectrometrische detectie*   
 
 | --- | --- |
 |:---|:---|
-| A0584  | grasmeel en luzernemeel – bepaling van ruw eiwit – Kjeldahlmethode  |
+| A1017  | Runderurine en diervoeder – Fractionering van anabole steroïden – GC-MS/MS  |
+| A1018  | Diervoeder – Het bepalen en bevestigen van anabole steroïden – GC-MS/MS  |
+| A1022  | Diervoeder- Extractie en opzuivering van anabole steroïden  |
+| A1035  | Runderurine en water – Het bepalen en bevestigen van anabole steroïden – GC-MS/MS  |
 
-####Plantaardige en dierlijke producten, diervoeders, water – bepaling van het gehalte lactose na chromatografische scheiding; LCRI
-
-| --- | --- |
-|:---|:---|
-| A0849  | magere melkpoeder – bepaling van het gehalte lactose – HPLC  |
-
-####Grondstoffen, voedingsmiddelen en diervoeders – het aantonen en bepalen van genetisch gemodificeerde organismen en afgeleide producten; (realtime) PCR
+*Dierlijke en plantaardige producten, diervoeder (grondstoffen) en water – Het aantonen van stoffen met hormonale werking en dierbehandelingsmiddelen; immunochemische detectie*   
 
 | --- | --- |
 |:---|:---|
-| A1007  | grondstoffen, voedingsmiddelen en diervoeders – DNA-isolatie met het Promega Wizard Magnetic DNA purification system for food.  |
-| A1012  | grondstoffen, voedingsmiddelen en diervoeders – DNA-isolatie met de CTAB methode.  |
-| A1033  | grondstoffen, voedingsmiddelen en diervoeders – uitvoering en beoordeling van (real-time) PCR GGO analyses  |
-| N0112  | grondstoffen, voedingsmiddelen en diervoeders – DNA-isolatie met de DNeasy Plant Mini Kit.  |
+| A0995  | Diervoeders – Het aantonen van clenbuterol en salbutamol – Competitieve EIA (clen-EIA en mix-EIA)  |
+| A1065  | Veevoeders, veevoedergrondstoffen, rauwe melk, melkpoeder en kalver- en runderurines – Aantonen van chlooramfenicol – EIA  |
+
+*Urine en diervoeder(grondstoffen) – Screening op hormonale activiteit; Gist bioassay met fluorescentiemeting*   
+
+| --- | --- |
+|:---|:---|
+| A1008  | Diervoeders – Screening op estrogene activiteit – Gist bioassay met fluorescentiemeting  |
+| A1028  | Diervoeder – Screening op androgene activiteit – Gist Bioassay met fluorescentiemeting  |
+
+*Plantaardige en dierlijke producten, diervoeders, water – Bepalen van het gehalte stikstof/ruw eiwit; Kjeldahl*   
+
+| --- | --- |
+|:---|:---|
+| A0584  | Grasmeel en luzernemeel – Bepaling van ruw eiwit – Kjeldahlmethode  |
+
+*Plantaardige en dierlijke producten, diervoeders, water – Bepaling van het gehalte lactose na chromatografische scheiding; LCRI*   
+
+| --- | --- |
+|:---|:---|
+| A0849  | Magere melkpoeder – Bepaling van het gehalte lactose – HPLC  |
+
+*Grondstoffen, voedingsmiddelen en diervoeders – Het aantonen en bepalen van genetisch gemodificeerde organismen en afgeleide producten; (realtime) PCR*   
+
+| --- | --- |
+|:---|:---|
+| A1007  | Grondstoffen, voedingsmiddelen en diervoeders – DNA-isolatie met het Promega Wizard Magnetic DNA purification system for food.  |
+| A1012  | Grondstoffen, voedingsmiddelen en diervoeders – DNA isolatie met de CTAB methode.  |
+| A1033  | Grondstoffen, voedingsmiddelen en diervoeders – Uitvoering en beoordeling van (real-time) PCR GGO analyses  |
+| N0112  | Grondstoffen, voedingsmiddelen en diervoeders – DNA-isolatie met de DNeasy Plant Mini Kit.  |
 

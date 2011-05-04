@@ -54,7 +54,7 @@ e. een beschrijving van de juridische en organisatorische structuur van de aanvr
 
 f. de statuten of overeenkomsten waarin de juridische en organisatorische structuur van de aanvrager zijn vastgelegd;  
 
-g. indien van toepassing: een uittreksel van de inschrijving van de aanvrager in het handelsregister;  
+g. indien van toepassing: een opgave van het nummer van inschrijving in het handelsregister;  
 
 h. de namen, adressen en vestigingsplaatsen van alle vestigingen van de aanvrager;  
 

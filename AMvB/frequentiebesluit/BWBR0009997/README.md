@@ -356,7 +356,7 @@ b. veiling- of vergelijkende toetsprocedures die zijn aangevangen voor de inwerk
 
 c. vergunningen die op of na de inwerkingtredingsdatum zijn verleend door middel van een veiling- of vergelijkende toetsprocedure die is aangevangen voor de inwerkingtredingsdatum.     
 3.  Artikel 17 is van toepassing op de in het eerste lid bedoelde vergunningen.   
-4.  Artikel 9 zoals dat luidde voor de inwerkingtreding van het Besluit van de Minister van Economische Zaken, Landbouw en Innovatie van 18 februari 2011, nr. WJZ......, houdende wijziging van het Frequentiebesluit in verband met het digitaliseringsbeleid voor commerciële radio, blijft van toepassing op aanvragen om verlenging die zijn ingediend voor het tijdstip van inwerkingtreding van dat besluit.   
+4.  Artikel 9 zoals dat luidde voor 25 februari 2011, blijft van toepassing op aanvragen om verlenging die zijn ingediend voor het tijdstip van inwerkingtreding van dat besluit.   
 
 ### Artikel  23  
 

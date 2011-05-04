@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-In deze wet en de daarop berustende bepalingen wordt verstaan onder: Onze Minister: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer; inspecteur: als zodanig bij besluit van Onze Minister aangewezen ambtenaar; bodem: het vaste deel van de aarde met de zich daarin bevindende vloeibare en gasvormige bestanddelen en organismen; belang van de bescherming van de bodem: het belang van het voorkomen, beperken of ongedaan maken van veranderingen van hoedanigheden van de bodem, die een vermindering of bedreiging betekenen van de functionele eigenschappen die de bodem voor mens, plant of dier heeft; geval van verontreiniging: geval van verontreiniging of dreigende verontreiniging van de bodem dat betrekking heeft op grondgebieden die vanwege die verontreiniging, de oorzaak of de gevolgen daarvan in technische, organisatorische en ruimtelijke zin met elkaar samenhangen; oriënterend onderzoek: onderzoek naar aanleiding van een vermoeden dat sprake is van een geval van verontreiniging; nader onderzoek: onderzoek met betrekking tot de vraag of een geval van verontreiniging een geval van ernstige verontreiniging is; onderzoeksgeval: geval waarin oriënterend of nader onderzoek zal plaatsvinden of plaatsvindt; saneren: het beperken en zoveel mogelijk ongedaan maken van verontreiniging en de directe gevolgen daarvan of van dreigende verontreiniging van de bodem; geval van ernstige verontreiniging: geval van verontreiniging waarbij de bodem zodanig is of dreigt te worden verontreinigd, dat de functionele eigenschappen die de bodem voor mens, plant of dier heeft, ernstig zijn of dreigen te worden verminderd; saneringsonderzoek: inventarisatie van de mogelijke wijzen van sanering, inhoudende een beschrijving van hun milieuhygiënische, technische en financiële aspecten, alsmede van de kwaliteit van de bodem die met de op die wijzen uitgevoerde sanering zal worden bereikt, uitmondend in een keuze van de wijze van sanering; beheerder: beheerder als bedoeld in [artikel 1.1 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md); provinciaal milieuprogramma: provinciaal milieuprogramma, bedoeld in [artikel 4.14 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), voor zover dat betrekking heeft op gevallen als bedoeld in het [tweede lid, onder *a*, onder 1°, van dat artikel](../../../../wet/wet/milieubeheer/BWBR0003245/README.md); budgetperiode: de periode van vijf jaar waarvoor Onze Minister aan provincies een budget kan verlenen op grond van de artikelen 76 en 76n;  
+In deze wet en de daarop berustende bepalingen wordt verstaan onder: Onze Minister: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer; inspecteur: als zodanig bij besluit van Onze Minister aangewezen ambtenaar; bodem: het vaste deel van de aarde met de zich daarin bevindende vloeibare en gasvormige bestanddelen en organismen; belang van de bescherming van de bodem: het belang van het voorkomen, beperken of ongedaan maken van veranderingen van hoedanigheden van de bodem, die een vermindering of bedreiging betekenen van de functionele eigenschappen die de bodem voor mens, plant of dier heeft; geval van verontreiniging: geval van verontreiniging of dreigende verontreiniging van de bodem dat betrekking heeft op grondgebieden die vanwege die verontreiniging, de oorzaak of de gevolgen daarvan in technische, organisatorische en ruimtelijke zin met elkaar samenhangen; oriënterend onderzoek: onderzoek naar aanleiding van een vermoeden dat sprake is van een geval van verontreiniging; nader onderzoek: onderzoek met betrekking tot de vraag of een geval van verontreiniging een geval van ernstige verontreiniging is; onderzoeksgeval: geval waarin oriënterend of nader onderzoek zal plaatsvinden of plaatsvindt; saneren: het beperken en zoveel mogelijk ongedaan maken van verontreiniging en de directe gevolgen daarvan of van dreigende verontreiniging van de bodem; geval van ernstige verontreiniging: geval van verontreiniging waarbij de bodem zodanig is of dreigt te worden verontreinigd, dat de functionele eigenschappen die de bodem voor mens, plant of dier heeft, ernstig zijn of dreigen te worden verminderd; saneringsonderzoek: inventarisatie van de mogelijke wijzen van sanering, inhoudende een beschrijving van hun milieuhygiënische, technische en financiële aspecten, alsmede van de kwaliteit van de bodem die met de op die wijzen uitgevoerde sanering zal worden bereikt, uitmondend in een keuze van de wijze van sanering; beheerder: beheerder als bedoeld in [artikel 1.1 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md); provinciaal milieuprogramma: provinciaal milieuprogramma, bedoeld in [artikel 4.14 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), voor zover dat betrekking heeft op gevallen als bedoeld in het [tweede lid, onder a, onder 1°, van dat artikel](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
 
 ### Hoofdstuk  II  
 
@@ -825,87 +825,6 @@ b. de veroorzaker met het oog op deze ernstige gevaren zich ernstig verwijtbaar 
 
 ####Verstrekken budget aan overheden
 
-### Artikel  75a  
-
-1.  De artikelen 76 tot en met 83 zijn niet van toepassing op de kosten van het onderzoek van onderzoeksgevallen en van het saneringsonderzoek en de sanering van gevallen van ernstige verontreiniging die worden genoemd in een ontwikkelingsprogramma als bedoeld in [artikel 7, eerste lid, van de Wet stedelijke vernieuwing](../../../../wet/wet/stedelijke/vernieuwing/BWBR0011788/README.md), een aanvraag als bedoeld in [artikel 7, vierde lid, van die wet](../../../../wet/wet/stedelijke/vernieuwing/BWBR0011788/README.md) of een aanvraag voor een subsidie als bedoeld in de [artikelen 19, eerste lid](../../../../wet/wet/stedelijke/vernieuwing/BWBR0011788/README.md), of  [20, eerste lid, van die wet](../../../../wet/wet/stedelijke/vernieuwing/BWBR0011788/README.md).   
-2.  Bijdragen als bedoeld in artikel 76 worden niet gebruikt voor het onderzoek van onderzoeksgevallen en van het saneringsonderzoek en de sanering van gevallen van ernstige verontreiniging die worden genoemd in een ontwikkelingsprogramma als bedoeld in [artikel 7, eerste lid, van de Wet stedelijke vernieuwing](../../../../wet/wet/stedelijke/vernieuwing/BWBR0011788/README.md), een aanvraag als bedoeld in [artikel 7, vierde lid, van die wet](../../../../wet/wet/stedelijke/vernieuwing/BWBR0011788/README.md) of een aanvraag voor een subsidie als bedoeld in de [artikelen 19, eerste lid](../../../../wet/wet/stedelijke/vernieuwing/BWBR0011788/README.md), of  [20, eerste lid, van die wet](../../../../wet/wet/stedelijke/vernieuwing/BWBR0011788/README.md).   
-
-### Artikel  75b  
-
-De artikelen 76 tot en met 76b hebben uitsluitend betrekking op de sanering van de bodem anders dan de bodem of oever van een oppervlaktewaterlichaam.  
-
-### Artikel  76  
-
-Onze Minister kan aan provincies budget verlenen voor een periode van vijf jaar ter financiering van het onderzoek van onderzoeksgevallen, het saneringsonderzoek en de sanering van gevallen van ernstige verontreiniging.  
-
-### Artikel  76a  
-
-1.  Voorafgaand aan een budgetperiode geeft Onze Minister een indicatie van de hoogte van het budget per provincie.   
-2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de in het eerste lid, bedoelde indicatie.   
-3.  Naast de in het eerste lid bedoelde indicatief aangegeven budgetten kan Onze Minister eveneens budget aan provincies ter beschikking stellen ten behoeve van de in artikel 76 genoemde doelstellingen, indien het betreft bijzondere gevallen van ernstige verontreiniging en financiering niet of niet geheel uit de indicatief aangegeven budgetten zal plaatsvinden. Artikel 76b, tweede volzin, is van overeenkomstige toepassing.   
-
-### Artikel  76b  
-
-Naast het in artikel 76 genoemde budget, kan Onze minister een aanvullende vergoeding toekennen voor apparaatskosten en andere niet-projectgebonden kosten die betrekking hebben op de bodemsanering en niet uit het budget mogen worden voldaan. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter zake van deze kosten en ter zake van de toekenning daarvan, waarbij de artikelen 76c tot en met 76iii geheel of ten dele van overeenkomstige toepassing kunnen worden verklaard.  
-
-### Artikel  76c  
-
-1.  Een aanvraag tot verlening van het budget wordt voorafgaand aan de budgetperiode gedaan en gaat vergezeld van een programma waarin de doelstellingen voor de bodemsanering worden aangegeven en inzicht wordt gegeven in de aard en de omvang van de activiteiten tegen de achtergrond van die doelstellingen en in de kosten en de wijze van financiering van het programma. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld ter zake van het bepaalde in de eerste volzin.   
-2.  Tenzij het een in artikel 88, eerste lid, bedoelde gemeente betreft, beslist Onze Minister niet op een aanvraag van een gemeente dan nadat hij gedeputeerde staten van de betrokken provincie gedurende tenminste vier weken in de gelegenheid heeft gesteld hem van advies te dienen.   
-
-### Artikel  76d  
-
-1.  Onze Minister verleent het budget, waarvan de hoogte volgens bij algemene maatregel van bestuur vast te stellen regels wordt bepaald.   
-2.  De verlening van het budget kan geheel of gedeeltelijk worden geweigerd indien het programma niet voldoet aan de eisen die op grond van artikel 76c, eerste lid, zijn gesteld dan wel het advies van de provincie, bedoeld in artikel 76c, tweede lid, daartoe aanleiding geeft.   
-
-### Artikel  76e  
-
-Bij of krachtens algemene maatregel van bestuur kan worden bepaald onder welke omstandigheden gedeputeerde staten gedurende de budgetperiode, een geactualiseerd en geconcretiseerd overzicht moeten indienen van de doelstellingen van het programma alsmede de gevolgen daarvan voor de aard en de omvang van de activiteiten tegen de achtergrond van die doelstellingen, en voor de kosten en wijze van financiering van het programma.  
-
-### Artikel  76f  
-
-1.  Zolang het budget niet is vastgesteld, kan Onze Minister, nadat tenminste twee jaren van de budgetperiode zijn verstreken, de verlening van het budget ten nadele van de provincie in ieder geval wijzigen, indien de doelstellingen waarvoor het budget is verleend kennelijk niet of niet geheel zullen worden verwezenlijkt en dit gedeputeerde staten kan worden toegerekend.   
-2.  Zolang het budget niet is vastgesteld, kan Onze Minister de verlening van het budget ten nadele van gedeputeerde staten in ieder geval wijzigen, indien: 
-
-a. verleend budget aan een ander doel is besteed dan waarvoor het beschikbaar is gesteld;  
-
-b. gedeputeerde staten onjuiste of onvolledige gegevens hebben verstrekt en de verstrekking van juiste of volledige gegevens tot een andere beschikking op de aanvraag tot verlening van het budget zou hebben geleid, of  
-
-c. de verlening van het budget anderszins onjuist was en gedeputeerde staten dit wisten of behoorden te weten.     
-3.  De wijziging werkt terug tot het tijdstip waarop het budget is verleend, tenzij bij de wijziging anders is bepaald.   
-
-### Artikel  76g  
-
-1.  Gedeputeerde staten dienen na afloop van de budgetperiode een aanvraag in tot vaststelling van het budget bij Onze Minister.   
-2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gegeven omtrent deze aanvraag en de in verband daarmee te verstrekken informatie.   
-
-### Artikel  76h  
-
-Naar aanleiding van de aanvraag stelt Onze Minister het budget vast op het bedrag van het verleende budget, voorzover voldaan is aan de voorwaarden geregeld bij of krachtens artikel 76g, geen van de in artikel 76f, eerste en tweede lid, bedoelde omstandigheden zich voordoen en geen toepassing wordt gegeven aan het bepaalde in de artikelen 76i tot en met 76iii.  
-
-### Artikel  76hh  
-
-1.  Onze Minister verleent gedurende de budgetperiode per jaar een voorschot aan de provincies waaraan hij budget heeft verleend.   
-2.  Indien budgettaire omstandigheden daartoe aanleiding geven, kan de verlening van voorschot in afwijking van het eerste lid plaatsvinden over zeven kalenderjaren, waarbij over de uitgestelde betalingen van voorschotten geen rente wordt vergoed.   
-
-### Artikel  76i  
-
-Onze Minister kan jegens de betrokken provincie verplichtingen verbinden aan het budget dat voor de lopende budgetperiode wordt of is verleend, indien met betrekking tot de afgelopen budgetperiode: 
-
-a. de in het programma opgenomen doelstellingen naar het oordeel van Onze Minister onvoldoende zijn bereikt en dit de provincie kan worden toegerekend;  
-
-b. de verleende budgetten door de provincie zijn besteed aan een ander doel dan waarvoor het beschikbaar is gesteld, of  
-
-c. de aanvraag tot vaststelling van het budget niet of niet tijdig is ingediend.    
-
-### Artikel  76ii  
-
-Indien naar het oordeel van Onze Minister genoegzaam vaststaat dat aan de in artikel 76i bedoelde verplichtingen niet zal worden voldaan, dan wel van het opleggen daarvan in redelijkheid onvoldoende resultaat kan worden verwacht, kan het budget over de afgelopen budgetperiode, lager worden vastgesteld dan het eerder voor dat tijdvak verleende budget.  
-
-### Artikel  76iii  
-
-Onze Minister kan onverschuldigd betaalde bedragen aan budget terugvorderen, voor zover na de dag waarop het budget is vastgesteld nog geen vijf jaren zijn verstreken. Bij de terugvordering kan worden bepaald dat over de onverschuldigd betaalde bedragen een rentevergoeding verschuldigd is.  
-
 ### §  3.2  
 
 ####Verstrekken subsidie aan derden
@@ -947,30 +866,9 @@ g. de betaling van de subsidie en het verlenen van voorschotten.
 
 ####Verstrekken budget voor waterbodems
 
-### Artikel  76n  
-
-1.  Onze Minister kan voor een periode van vijf jaar een door hem vast te stellen budget aan de provincie verlenen ter tegemoetkoming in de in de daarop volgende vijf jaar te maken kosten van het onderzoek van onderzoeksgevallen en van het saneringsonderzoek en de sanering van gevallen van ernstige verontreiniging in de bodem of oever van tot de regionale wateren behorende oppervlaktewaterlichamen als bedoeld in [artikel 1.1 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), die door de beheerder in de betrokken provincie zullen worden uitgevoerd.   
-2.  De artikelen 76a tot en met 76iii zijn van overeenkomstige toepassing. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld voor de berekening van de in het eerste lid, bedoelde bijdrage en over de in aanmerking te nemen kosten.   
-3.  Uit het budget bekostigt de provincie per geval van verontreiniging negentig procent van de kosten van nader onderzoek en van saneringsonderzoek en sanering van gevallen van ernstige verontreiniging als bedoeld in het eerste lid, voorzover die kosten niet overeenkomstig artikel 76o, eerste lid, ten laste komen van de betrokken beheerder.   
-
-### Artikel  76o  
-
-1.  In gevallen van verontreiniging in de bodem of oever van tot de regionale wateren behorende oppervlaktewaterlichamen als bedoeld in [artikel 1.1 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), draagt de beheerder in een geval waarin nader onderzoek zal plaats vinden of in een geval van ernstige verontreiniging, voorzover dit geval de bodem onder of de oever van oppervlaktewater dat tot zijn beheer behoort, betreft, met betrekking tot dat geval: 
-
-a. de in artikel 76n, derde lid, bedoelde kosten per geval, tot ten hoogste het bedrag dat wordt verkregen door een bij algemene maatregel van bestuur vast te stellen bedrag te vermenigvuldigen met het aantal inwonerequivalenten waarover de betrokken beheerder op 1 januari van het jaar waarop de bijdrage verschuldigd wordt, de heffing, bedoeld in [artikel 7.2 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), heft, en daarenboven,  
-
-b. indien de in artikel 76n, derde lid, bedoelde kosten per geval meer bedragen dan het bij toepassing van onderdeel a door vermenigvuldiging verkregen bedrag, tien procent van het overblijvende gedeelte van die kosten.     
-2.  Bij de maatregel, bedoeld in het eerste lid, onder a, wordt een maximum gesteld aan het bij toepassing van dat onderdeel door vermenigvuldiging verkregen bedrag.   
-3.  Voor de berekening van de kosten per geval, als bedoeld in het eerste lid, worden de kosten van de gevallen waarvan de sanering met toepassing van artikel 42 tezelfdertijd wordt begonnen, beschouwd als kosten van een enkel geval.   
-4.  De beheerder draagt de volledige kosten van oriënterend onderzoek van gevallen die de bodem of oever van een oppervlaktewaterlichaam betreffen, die tot zijn beheer behoren.   
-
 ### §  3.4  
 
 ####Overige bepalingen
-
-### Artikel  77a  
-
-Voorzover bij de voorbereiding of de uitvoering van een provinciaal milieuprogramma verplichtingen zijn aangegaan met betrekking tot gevallen waarvoor een bijdrage is verleend krachtens artikel 76 en 76n, blijft voor die gevallen deze wet van toepassing.  
 
 ### Artikel  82  
 
@@ -997,10 +895,6 @@ c. op het moment waarop de grond voor woningbouw is verkocht of in erfpacht is u
 
 Met betrekking tot beschikkingen krachtens deze wet worden geen rechten geheven.  
 
-### Artikel  86b  
-
-Indien het bedrag dat uit s Rijks kas beschikbaar is voor het budget gedurende de budgetperiode wordt verhoogd dan wel op andere wijze budgettaire ruimte ontstaat, kan Onze Minister het budget verhogen volgens bij of krachtens algemene maatregel van bestuur te stellen regels waarbij de criteria neergelegd in de krachtens het eerste lid van artikel 76c tot stand gebrachte algemene maatregel van bestuur kunnen worden uitgebreid.  
-
 ### Hoofdstuk  VIII  
 
 ####Beroep op de administratieve rechter
@@ -1016,27 +910,25 @@ Indien het bedrag dat uit s Rijks kas beschikbaar is voor het budget gedurende d
 
 ### Artikel  87a  
 
-1.  Onze Minister doet de Staten-Generaal jaarlijks voor de derde woensdag in mei een verslag toekomen over de voortgang van de uitvoering van de bodemsaneringsoperatie.   
-2.  Gedeputeerde staten doen Onze Minister ieder jaar voor de tweede dinsdag in januari de gegevens ten behoeve van het verslag, bedoeld in het eerste lid, toekomen.   
-3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de gegevens, bedoeld in het tweede lid.   
-4.  Burgemeester en wethouders van de gemeenten die niet in artikel 88, eerste en achtste lid, worden genoemd doen met betrekking tot het grondgebied van hun gemeente aan gedeputeerde staten van een provincie een opgave van de gegevens, bedoeld in het tweede lid.   
+1.  Op verzoek van Onze Minister doen gedeputeerde staten verslag over: 
 
-### Artikel  87b  
+a. de uitvoering van deze wet op hun grondgebied, en  
 
-1.  Gedeputeerde staten doen Onze Minister ieder jaar voor 1 mei verslag over de uitvoering van deze wet op hun grondgebied.   
-2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de wijze waarop het verslag wordt gedaan, alsmede omtrent de gegevens die daarbij worden verstrekt.   
-3.  Naar aanleiding van het verslag, bedoeld in het tweede lid, kan een gesprek van Onze Minister met gedeputeerde staten over de uitvoering van de wet plaatsvinden.   
+b. de voortgang van de uitvoering van de bodemsaneringsoperatie.     
+2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de wijze waarop het verslag, bedoeld in het eerste lid, wordt gedaan, alsmede omtrent de gegevens die daarbij worden verstrekt.   
+3.  Naar aanleiding van het verslag, bedoeld in het eerste lid, kan een gesprek van Onze Minister met gedeputeerde staten over de uitvoering van de wet plaatsvinden.   
+4.  Burgemeester en wethouders van de gemeenten die niet in artikel 88, eerste lid of krachtens het zevende lid, zijn genoemd, doen met betrekking tot het grondgebied van hun gemeente aan gedeputeerde staten van een provincie een opgave van de gegevens, bedoeld in het tweede lid.   
 
 ### Artikel  88  
 
 1.  De gemeenten Amsterdam, 's-Gravenhage, Rotterdam en Utrecht worden gelijkgesteld met een provincie voor de toepassing van: 
 
-a. de artikelen 27 tot en met 34, 37, artikel 38, derde en vierde lid, 39, 39a, 39b, 39c, 39d, derde, vierde en vijfde lid, 39f, eerste lid, 40, 42, 43 tot en met 52, 55, 55b, derde lid, 74 tot en met 76l, 83, 86b, 87a, 87b en 92b;  
+a. de artikelen 27 tot en met 34, 37, artikel 38, derde en vierde lid, 39, 39a, 39b, 39c, 39d, derde, vierde en vijfde lid, 39f, eerste lid, 40, 42, 43 tot en met 52, 55, 55b, derde lid, 74 tot en met 76l, 83, 87a en 92b;  
 
 b. de [artikelen 4.14, eerste lid, en tweede lid, onder a, onder 1°, en onder b](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), voor zover het de activiteiten, bedoeld onder a , onder 1°, betreft, en [4.15, derde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).     
 2.  Een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat wordt gelijkgesteld met een provincie voor de toepassing van de in het eerste lid genoemde artikelen, alsmede voor de artikelen 41, 51, 53 en 54. De gelijkstelling vindt toepassing: 
 
-– voor de locaties waarvoor de plusregio rechtstreeks middelen van het Rijk ontvangt voor de in artikel 76 omschreven activiteiten, en  
+– voor de locaties waarvoor de plusregio rechtstreeks middelen van het Rijk ontvangt voor het onderzoek van onderzoeksgevallen, het saneringsonderzoek en de sanering van gevallen van ernstige verontreiniging, en  
 
 – indien de in deze artikelen bedoelde bevoegdheden aan de plusregio bij algemene maatregel van bestuur zijn overgedragen.     
 3.  In de gevallen waarin de in het eerste lid bedoelde gelijkstelling van toepassing is, blijven de artikelen 41, 51, 53 en 54 buiten toepassing.   

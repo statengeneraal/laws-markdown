@@ -117,8 +117,8 @@ Vervallen   | --- | --- | --- | --- |
 | --- | --- | --- | Oost-Nederland  | 04-10 t/m 12/11  | 4.000.000  |
 | --- | --- | --- | Noordvleugel Randstad  | 04-10 t/m 12/11  | 4.500.000  |
 | --- | --- | --- | Zuidvleugel Randstad  | 04-10 t/m 12/11  | 4.000.000  |
-| --- | --- | --- | Zuidwest-Nederland  | 04-10 t/m 12/11  | 1.000.000  |
-| --- | --- | --- | Zuidoost-Nederland  | 04-10 t/m 12/11  | 3.000.000  |
+| --- | --- | --- | Zuidwest-Nederland  | 04-10 t/m 12/11  | 2.500.000  |
+| --- | --- | --- | Zuidoost-Nederland  | 04-10 t/m 12/11  | 7.000.000  |
 | 4.2  | Subsidieregeling sterktes in de regio (regionale investeringsprojecten)  | 3.2  | --- | 12-07 t/m 15-11  | 10.400.000  |
 |  [Subsidieregeling energie en innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md)   |
 | 5.1  | Subsidieregeling energie en innovatie (EOS: lange termijn  | 2.1.2  | NEO haalbaarheidsstudie  | 11-02 t/m 14-10  | 500.000  |
