@@ -17,7 +17,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *de minister:* de Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs op het gebied van de landbouw en de natuurlijke omgeving, de Minister van Landbouw, Natuurbeheer en Voedselkwaliteit;  
+a. *de minister:* de Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs op het gebied van de landbouw en de natuurlijke omgeving, de Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. *school:* een school of scholengemeenschap voor voortgezet onderwijs, bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), waaronder begrepen het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum bedoeld in [artikel 1.3.3, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
@@ -27,7 +27,7 @@ d. *GBA:* de gemeentelijke basisadministratie, bedoeld in [artikel 2 van de Wet 
 
 e. *basisregister onderwijs:* het basisregister onderwijs, bedoeld in artikel [24b van de Wet op het onderwijstoezicht](../../../../../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
 
-f. *persoonsgebonden nummer:* het persoonsgebonden nummer, bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 1.1.1, onderdeel z, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+f. *persoonsgebonden nummer:* het persoonsgebonden nummer, bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 1.1.1, onderdeel y, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
 g. *teldatum:* 1 oktober van enig kalenderjaar;  
 
@@ -77,7 +77,7 @@ n. *peildatum:* 1 april of 1 oktober van enig kalenderjaar.
 
 1.  De verstrekking van de aanvullende personele bekostiging, bedoeld in artikel 2, eerste lid, vindt telkens plaats voor twee kalenderjaren.   
 2.  De aanvullende personele bekostiging wordt bepaald op grond van het aantal L+A-leerlingen dat op de teldatum van enig kalenderjaar bij de school als werkelijk schoolgaand staat ingeschreven.   
-3.  Verstrekking van de aanvullende personele bekostiging vindt uiterlijk in de maand maart plaats na de teldatum waarop voor de tweede maal de drempel, bedoeld in artikel 4, eerste lid, is gehaald.   
+3.  Verstrekking van de aanvullende personele bekostiging vindt uiterlijk in de maand mei plaats na de teldatum waarop voor de tweede maal de drempel, bedoeld in artikel 4, eerste lid, is gehaald.   
 4.  De betaling van de aanvullende personele bekostiging vindt plaats volgens het betaalritme van de reguliere personele bekostiging.   
 5.  De minister kan de hoogte van de aanvullende personele bekostiging wijzigen indien de verklaring van de accountant, bedoeld in de [artikelen 14a, tweede lid, onder c](../../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md), en [15b, zesde lid, onder c, van het Bekostigingsbesluit W.V.O.](../../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md), daartoe aanleiding geeft.   
 6.  Vaststelling van de aanvullende personele bekostiging vindt plaats na de verstrekking van de aanvullende personele bekostiging, bedoeld in het derde lid, en binnen zes maanden na ontvangst van de verklaring van de accountant, bedoeld in het vijfde lid.   
@@ -94,7 +94,7 @@ b. minimaal 30% apc-leerlingen in het vmbo
 
 c. minimaal 50% apc-leerlingen in het havo  
 
-d. minimaal 60% apc-leerlingen in het vwo  
+d. minimaal 65% apc-leerlingen in het vwo  
 
 e. minimaal 30% apc-leerlingen in gedeelde onderbouw met vmbo  
 
@@ -110,7 +110,7 @@ f. minimaal 50% apc-leerlingen in gedeelde onderbouw zonder vmbo.
 
 1.  De aanvullende personele bekostiging voor het Leerplusarrangement VO wordt berekend door het aantal L+A-leerlingen op basis van de tweede achtereenvolgende teldatum, te vermenigvuldigen met het bedrag per L+A-leerling.   
 2.  Het bedrag per L+A-leerling, bedoeld in het eerste lid, wordt bepaald door het beschikbare budget per kalenderjaar te delen door het totaal aantal L+A-leerlingen van de scholen op de tweede teldatum, met uitzondering van het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum.   
-3.  Het beschikbare budget en het bedrag per L+A-leerling worden elk tweede kalenderjaar uiterlijk in de maand december in de Staatscourant bekend gemaakt als bijlage 4 bij deze regeling.   
+3.  Het beschikbare budget en het bedrag per L+A-leerling worden elk tweede kalenderjaar uiterlijk in de maand december in de Staatscourant bekend gemaakt als bijlage 4 bij deze regeling. Voor de twee kalenderjaren kunnen verschillende budgetten verstrekt worden.   
 4.  Het bedrag per L+A-leerling, bedoeld in het eerste lid, wordt voor het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum gelijkgesteld aan het bedrag per L+A-leerling als berekend op grond van het tweede lid.   
 5.  De lijst met postcodes van de armoedeprobleemcumulatiegebieden wordt elk tweede kalenderjaar uiterlijk in augustus van het tweede kalenderjaar in de Staatscourant bekendgemaakt als bijlage 5 bij deze regeling.   
 
@@ -337,8 +337,9 @@ B. Verblijfsduur
 
 ### Bijlage  2  
 
-####bij artikel 14 
+####behorende bij artikel 14  van de Regeling Leerplusarrangement VO, Nieuwkomers VO en eerste opvang Vreemdelingen 2009
 
+![248844](http://wetten.overheid.nl/Illustration/248844)
 ![248844](http://wetten.overheid.nl/Illustration/248844)
 
 ### Bijlage  3  
@@ -742,14 +743,14 @@ Elementcodetabel VO schooljaar 2010–2011
 
 ### Bijlage  4  
 
-####bij artikel 5, derde lid 
+####behorende bij artikel 5, derde lid , van de Regeling Leerplusarrangement VO, Nieuwkomers VO en eerste opvang Vreemdelingen 2009
 
-Het beschikbare budget en het bedrag per L+A leerling voor de jaren 2009 en 2010  
+Het totaal beschikbare budget en het bedrag per L+A leerling is:  
 
-| --- | --- |
-|:---|:---|
-| Totaal beschikbaar budget per jaar voor L+A voor de jaren 2009 en 2010:  | € 60.451.000  |
-| Bedrag per L+A leerling voor 2009-2010:  | € 892  |
+|--- | 2011  | 2012  |
+|:---|:---|:---|
+| Totaal beschikbare budget per jaar voor L+A  | € 60.700.000  | € 50.700.000  |
+| Bedrag per L+A-leerling  | € 892  | € 750  |
 
 ### Bijlage  5  
 

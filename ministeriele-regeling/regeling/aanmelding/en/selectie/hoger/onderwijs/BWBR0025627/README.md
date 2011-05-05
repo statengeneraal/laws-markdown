@@ -35,7 +35,7 @@ i. decentrale selectie: decentrale selectie als bedoeld in [artikel 7.57e van de
 
 j. bewijs van toelating: een bewijs van toelating als bedoeld in [artikel 7.57a, tweede lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
 
-k. diploma: een diploma als bedoeld in [artikel 7.24, eerste en tweede lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), dan wel een daarmee overeenkomend diploma, behaald in Suriname, de Nederlandse Antillen of Aruba;  
+k. diploma: een diploma als bedoeld in [artikel 7.24, eerste en tweede lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), dan wel een daarmee overeenkomend diploma, behaald in Suriname, Curaçao, Sint Maarten of Aruba;  
 
 l. getuigschrift: een getuigschrift als bedoeld in [artikel 7.28, eerste lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
 
@@ -74,7 +74,7 @@ c. een gewaarmerkte verklaring van het bestuur van een instelling, inhoudende da
 
 ####Bevestiging aanmelding
 
-1.  De gegadigde die zich heeft aangemeld, ontvangt hiervan een schriftelijke bevestiging.   
+1.  De gegadigde die zich heeft aangemeld, ontvangt hiervan een digitale bevestiging.   
 2.  De Minister maakt aan de gegadigde tevens zo spoedig mogelijk bekend: 
 
 a. of de opleiding waarvoor hij zich aanmeldt, een fixusopleiding is,  
@@ -82,6 +82,7 @@ a. of de opleiding waarvoor hij zich aanmeldt, een fixusopleiding is,
 b. of de instelling voor die fixusopleiding artikel 28 wenst toe te passen, en  
 
 c. welke andere fixusopleidingen zullen bestaan.     
+3.  In afwijking van het eerste lid, ontvangt de gegadigde, die zich heeft aangemeld voor een fixusopleiding, een schriftelijke bevestiging.   
 
 ### Artikel  4  
 
@@ -202,9 +203,10 @@ Indien de gegadigde niet binnen de gestelde termijnen heeft voldaan aan de bepal
 ####Gemiddeld eindexamencijfer
 
 1.  Het gemiddelde eindexamencijfer, bedoeld in [artikel 7.57b, eerste en tweede lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), van een gegadigde die met goed gevolg eindexamen heeft afgelegd volgens de [artikelen 12 tot en met 15](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [22 van de Wet op het voortgezet onderwijs](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), wordt berekend uit de eindcijfers van het gemeenschappelijk deel, het profieldeel en het hoogste eindcijfer van het vrije deel gezamenlijk. Daarbij wordt, indien de gegadigde het eindexamen heeft afgelegd volgens de bij of krachtens de [Wet op het voortgezet onderwijs](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) gegeven voorschriften zoals luidend vanaf 1 augustus 2007, het gemiddelde van de eindcijfers bedoeld in [artikel 49, zesde lid van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), aangemerkt als het eind(examen)cijfer van één vak.   
-2.  Het gemiddelde eindexamencijfer, bedoeld in [artikel 7.57b, eerste en tweede lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), van een gegadigde met een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid, onder d en e, van de Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of met een diploma middelbaar beroepsonderwijs wordt berekend uit de combinatie van vijf cijfers van de cijferlijst die het hoogste gemiddelde oplevert.   
-3.  Indien de beoordelingen bij een diploma als bedoeld in het tweede lid zijn uitgedrukt in de termen goed, voldoende of onvoldoende, worden deze voor de berekening van het gemiddelde eindexamencijfer geïnterpreteerd als respectievelijk 8, 6 en 4.   
-4.  Indien op de cijferlijst minder dan het in het tweede lid bedoelde aantal cijfers is vermeld, is het gemiddelde eindexamencijfer het gemiddelde van de vermelde cijfers.   
+2.  Het gemiddelde eindexamencijfer, bedoeld in [artikel 7.57b, eerste en tweede lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), van een gegadigde met een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid, onder d en e, van de Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of met een diploma middelbaar beroepsonderwijs wordt berekend uit de combinatie van vijf cijfers van de cijferlijst die het hoogste gemiddelde oplevert, met dien verstande dat indien het een diploma betreft van een experimentele opleiding als bedoeld in [artikel 12.1a.2 van de laatstgenoemde wet](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), het gemiddelde eindexamencijfer wordt berekend op basis van de cijfers voor de kerntaken.   
+3.  Bij de berekening, bedoeld in het tweede lid, worden de resultaten van een gegadigde voor de onderdelen ‘leren, loopbaan en burgerschap’ of ‘ loopbaan en burgerschap’, Nederlands, rekenen en Engels, of een andere moderne vreemde taal, buiten beschouwing gelaten.   
+4.  Indien de beoordelingen bij een diploma zijn uitgedrukt in de termen uitmuntend, zeer goed, goed, ruim voldoende, voldoende, matig, onvoldoende, ruim onvoldoende, slecht en zeer slecht, dan worden deze voor de berekening van het gemiddelde eindexamencijfer geïnterpreteerd als respectievelijk 10, 9, 8, 7, 6, 5, 4, 3, 2 en 1.   
+5.  Indien op de cijferlijst minder dan het in het tweede lid bedoelde aantal cijfers is vermeld, is het gemiddelde eindexamencijfer het gemiddelde van de vermelde cijfers.   
 
 ### §  2  
 
@@ -212,22 +214,22 @@ Indien de gegadigde niet binnen de gestelde termijnen heeft voldaan aan de bepal
 
 ### Artikel  14  
 
-####Selectie van gegadigden uit de Nederlandse Antillen en Aruba
+####Selectie van gegadigden uit Curaçao, Sint Maarten, Aruba en de openbare lichamen Bonaire, Sint Eustatius en Saba
 
-1.  Het aantal plaatsen voor gegadigden uit de Nederlandse Antillen en Aruba, die op hun verzoek worden aangewezen voor inschrijving voor een fixusopleiding in het hoger beroepsonderwijs, bedraagt veertien, onderscheidenlijk zes, waaronder indien mogelijk ten minste vier, onderscheidenlijk twee, voor vrouwelijke gegadigden.   
-2.  Het aantal plaatsen voor gegadigden uit de Nederlandse Antillen en Aruba, die op hun verzoek worden aangewezen voor inschrijving voor een fixusopleiding in het wetenschappelijk onderwijs, bedraagt eveneens veertien, onderscheidenlijk zes, waaronder indien mogelijk ten minste vier, onderscheidenlijk twee, voor vrouwelijke gegadigden.   
-3.  Door of namens de regering van de Nederlandse Antillen en Aruba wordt aan de Minister voor 5 juli de namen bekendgemaakt van ten hoogste veertig gegadigden die in aanmerking worden gebracht voor de plaatsen, bedoeld in het eerste en tweede lid.   
-4.  De Minister wijst de gegadigden op de lijst, bedoeld in het derde lid, aan, met inachtneming van het eerste en tweede lid.   
+1.  Het aantal plaatsen voor gegadigden afkomstig van Curaçao, Sint Maarten, Aruba en de openbare lichamen Bonaire, Sint Eustatius en Saba, die door de minister kunnen worden aangewezen voor indeling in de lotingsklasse, genoemd in [artikel 7.57b, tweede lid, onderdeel a, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), bij inschrijving voor een fixusopleiding in het hoger beroepsonderwijs, bedraagt respectievelijk acht, drie, acht en vier. Daarbij wordt nagestreefd dat van de gegadigden tenminste respectievelijk drie, een, drie en twee van het vrouwelijk geslacht zijn.   
+2.  Het aantal plaatsen voor gegadigden afkomstig van Curaçao, Sint Maarten, Aruba en de openbare lichamen Bonaire, Sint Eustatius en Saba, die door de minister kunnen worden aangewezen voor indeling in de lotingsklasse, genoemd in [artikel 7.57b, tweede lid, onderdeel a, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), bij inschrijving voor een fixusopleiding in het wetenschappelijk onderwijs, bedraagt respectievelijk acht, drie, acht en vier. Daarbij wordt nagestreefd dat van de gegadigden tenminste respectievelijk drie, een, drie en twee van het vrouwelijk geslacht zijn.   
+3.  De gegadigden voor de plaatsen, bedoeld in het eerste en tweede lid, worden door de minister aangewezen.   
+4.  De minister wijst de gegadigden, afkomstig van Curaçao, Sint Maarten, Aruba, aan op voordracht van de regeringen van Curaçao, Sint Maarten en Aruba. De voordracht aan de minister wordt gedaan vóór 5 juli.   
 
 ### Artikel  15  
 
 ####Directe plaatsing
 
-De Minister verstrekt een bewijs van toelating aan de gegadigden, bedoeld in [artikel 7.57c, eerste lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md): 
+De Minister verstrekt direct een bewijs van toelating aan: 
 
-a. wat betreft een gegadigde als bedoeld in [artikel 7.57b, tweede lid, onder a, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), nadat deze heeft voldaan aan artikel 7, en  
+a. een gegadigde als bedoeld in [artikel 7.57b, tweede lid, onderdeel a, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), nadat deze heeft voldaan aan artikel 7;  
 
-b. wat betreft een gegadigde, afkomstig uit de Nederlandse Antillen of Aruba, na aanwijzing ingevolge artikel 14, vierde lid.    
+b. de gegadigden, die door de minister zijn aangewezen als bedoeld in artikel 14, derde.    
 
 ### §  3  
 
@@ -388,17 +390,11 @@ De gegadigde die toepassing verlangt van [artikel 7.57d, derde lid, van de wet](
 
 ####Slot- en overgangsbepalingen
 
-### Artikel  33  
-
-####Intrekking eerdere regeling
-
-De Regeling aanmelding en loting hoger onderwijs wordt ingetrokken.  
-
 ### Artikel  34  
 
-####Bekendmaking
+####Omhangbepaling
 
-Deze regeling wordt met toelichting in Uitleg OCenW-Regelingen geplaatst. Van deze plaatsing wordt mededeling gedaan in de Staatscourant.  
+Deze regeling berust mede op [artikel 7.37, vierde lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).  
 
 ### Artikel  35  
 
