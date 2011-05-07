@@ -36,43 +36,34 @@ f. deelnemer: door een onderwijsinstelling voor bekostiging aangemeld natuurlijk
 
 1.  De Minister kan aan een onderwijsinstelling jaarlijks een subsidie verstrekken voor het aanbieden en toedienen van vaccinatie tegen hepatitis B aan een deelnemer van een zorgopleiding.   
 2.  De subsidie wordt per studiejaar verstrekt.   
-3.  De subsidie bestaat uit het bedrag dat wordt berekend met de formule A × B, waarbij wordt verstaan onder: 
-
-A het aantal door de onderwijsinstelling voor bekostiging aangemelde natuurlijke personen dat op 1 oktober van het studiejaar waarvoor de subsidie wordt verstrekt ingeschreven stond voor een zorgopleiding en op 1 oktober van het daaraan voorafgaande studiejaar niet ingeschreven stond voor een opleiding;  
-
-B een normbedrag van € 125.     
 
 ### Artikel  3  
 
-1.  De subsidie wordt op aanvraag verleend.   
+1.  De subsidie wordt op aanvraag verstrekt.   
 2.  Voor de aanvraag wordt een door de Minister vastgesteld formulier gebruikt.   
 3.  De aanvraag wordt ingediend uiterlijk 1 mei van het studiejaar voorafgaand aan het studiejaar waarvoor de subsidie wordt aangevraagd.   
 4.  De aanvraag wordt ondertekend door een persoon die daartoe bevoegd is.   
-5.  De Minister kan ontheffing verlenen van de in het derde lid genoemde aanvraagtermijn.   
+5.  De Minister kan vrijstelling en ontheffing verlenen van de in het derde lid genoemde aanvraagtermijn.   
 
 ### Artikel  4  
 
 1.  De Minister geeft een beschikking op een aanvraag van de subsidie binnen dertien weken na ontvangst van de aanvraag.   
-2.  De subsidie wordt slechts verleend indien naar het oordeel van de Minister mag worden verwacht dat de met de subsidiëring beoogde doeleinden zullen worden bereikt.   
-3.  De beschikking tot subsidieverlening vermeldt de wijze waarop het bedrag van de subsidie wordt bepaald.   
-4.  De beschikking tot subsidieverlening vermeldt niet het bedrag waarop de subsidie ten hoogste kan worden vastgesteld.   
-5.  Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-6.  De Minister kan bij de verlening van de subsidie verplichtingen opleggen die strekken tot verwezenlijking van het doel van de subsidie.   
+2.  De subsidie wordt slechts verstrekt indien naar het oordeel van de Minister mag worden verwacht dat de met de subsidiëring beoogde doeleinden zullen worden bereikt.   
+3.  De subsidie wordt vastgesteld op een door de Minister te bepalen bedrag dat in het besluit tot vaststelling wordt genoemd.   
+4.  De Minister betaalt het bedrag van de subsidie in één keer.   
+5.  De Minister kan bij de vaststelling van de subsidie verplichtingen opleggen die strekken tot verwezenlijking van het doel van de subsidie.   
 
 ### Artikel  5  
 
-1.  De Minister verstrekt binnen twee weken na de verlening van de subsidie een voorschot op de verleende subsidie.   
-2.  Het voorschot bestaat uit het bedrag dat wordt berekend met de formule A × B × C, waarbij wordt verstaan onder: 
+De subsidie bestaat uit het bedrag dat wordt berekend met de formule A × B, waarbij wordt verstaan onder: 
 
-A het aantal door de onderwijsinstelling voor bekostiging aangemelde natuurlijke personen dat op 1 oktober van het tweede studiejaar voorafgaande aan het studiejaar waarvoor de subsidie wordt verstrekt ingeschreven stond voor een zorgopleiding en op 1 oktober van het derde studiejaar voorafgaande aan het studiejaar waarvoor de subsidie wordt verstrekt niet ingeschreven stond voor een opleiding;  
+A het aantal door de onderwijsinstelling voor bekostiging aangemelde natuurlijke personen dat op 1 oktober van het tweede studiejaar voorafgaande aan het studiejaar waarvoor de subsidie wordt verstrekt ingeschreven stond voor een zorgopleiding en op 1 oktober van het derde studiejaar voorafgaande aan het studiejaar waarvoor de subsidie wordt verstrekt niet ingeschreven stond voor een opleiding;  
 
-B een normbedrag van € 125;  
-
-C een percentage van 90%.     
+B een normbedrag van € 125.    
 
 ### Artikel  6  
 
-1.  Het aantal personen, bedoeld in artikel 2, derde lid, onder A, en artikel 5, tweede lid, onder A, wordt ontleend aan: 
+1.  Het aantal personen, bedoeld in artikel 5, onder A, wordt ontleend aan: 
 
 a. het basisregister onderwijs, bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md) voor een zorgopleiding als bedoeld in artikel 1, onderdeel c, onder 1°, en voor een opleiding als bedoeld in artikel 1, onderdeel d, onder 1°;  
 
@@ -82,7 +73,7 @@ b. het Centraal register inschrijving hoger onderwijs, bedoeld in [artikel 7.52 
 
 ### Artikel  7  
 
-1.  In het studiejaar waarvoor de subsidie wordt verleend, biedt de onderwijsinstelling aan elke deelnemer vanaf de aanvang van zijn deelname aan de zorgopleiding, ongeacht de datum van beëindiging van zijn deelname aan de zorgopleiding, volledige vaccinatie tegen hepatitis B aan, met inbegrip van het bepalen van het titer antistoffen ter afronding van de vaccinatie.   
+1.  In het studiejaar waarvoor de subsidie wordt verstrekt, biedt de onderwijsinstelling aan elke deelnemer vanaf de aanvang van zijn deelname aan de zorgopleiding, ongeacht de datum van beëindiging van zijn deelname aan de zorgopleiding, volledige vaccinatie tegen hepatitis B aan, met inbegrip van het bepalen van het titer antistoffen ter afronding van de vaccinatie.   
 2.  De onderwijsinstelling zorgt ervoor dat: 
 
 a. het aanbod, bedoeld in het eerste lid, op doelmatige en doeltreffende wijze wordt gedaan;  
@@ -96,37 +87,19 @@ b. elke deelnemer in de gelegenheid wordt gesteld daadwerkelijk gebruik te maken
 
 1°. het aantal deelnemers dat op kosten van de onderwijsinstelling gevaccineerd is tegen hepatitis B;  
 
-2°. de gemiddelde kosten per gevaccineerde deelnemer;  
+2°. het tarief voor de eigen bijdrage van de deelnemers.     
+2.  De onderwijsinstelling meldt meteen aan de Minister als: 
 
-3°. de eigen bijdragen van de deelnemers in die kosten.     
-2.  De onderwijsinstelling doet zo spoedig mogelijk schriftelijk mededeling aan de Minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie.   
-3.  De onderwijsinstelling verstrekt aan de door de Minister aangewezen personen op hun verzoek alle bescheiden en inlichtingen die noodzakelijk zijn voor een juiste vervulling van hun taak.   
-4.  De onderwijsinstelling werkt mee aan de door of namens de Minister ingestelde onderzoekingen die erop zijn gericht de Minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid.   
+a. het aannemelijk is geworden dat niet of niet geheel aan de subsidieverplichtingen zal worden voldaan of  
 
-### Artikel  9  
-
-1.  Binnen negen maanden na afloop van het studiejaar dient de onderwijsinstelling een aanvraag in voor de vaststelling van de subsidie.   
-2.  De aanvraag voor de subsidievaststelling gaat vergezeld van een verklaring waaruit kan worden afgeleid in hoeverre: 
-
-a. de activiteiten waarvoor subsidie was verstrekt, zijn uitgevoerd;  
-
-b. de subsidiebepalingen door de onderwijsinstelling zijn nageleefd.     
-3.  Voor de aanvraag en de verklaring wordt een door de Minister vastgesteld formulier gebruikt.   
-4.  De aanvraag en de verklaring worden ondertekend door een persoon die daartoe bevoegd is.   
-5.  De Minister kan ontheffing verlenen van de in het eerste lid genoemde aanvraagtermijn.   
-
-### Artikel  11  
-
-Binnen vijf maanden na ontvangst van de aanvraag voor de subsidievaststelling geeft de Minister een beschikking tot vaststelling.  
-
-### Artikel  12  
-
-1.  In afwijking van artikel 3, derde lid, wordt de aanvraag van een subsidie ten behoeve van het studiejaar dat aanvangt in 2008 uiterlijk 1 oktober 2008 ingediend.   
-2.  In afwijking van artikel 3, derde lid, wordt de aanvraag van een subsidie ten behoeve van het studiejaar dat aanvangt in 2009 uiterlijk 1 juli 2009 ingediend.   
+b. zich andere omstandigheden voordoen of zullen voordoen die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie.     
+3.  De melding wordt schriftelijk gedaan. De melding wordt voorzien van een toelichting. Bij de melding worden de relevante stukken overgelegd.   
+4.  De onderwijsinstelling verstrekt aan de door de Minister aangewezen personen op hun verzoek alle bescheiden en inlichtingen die noodzakelijk zijn voor een juiste vervulling van hun taak.   
+5.  De onderwijsinstelling werkt mee aan de door of namens de Minister ingestelde onderzoekingen die erop zijn gericht de Minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid.   
 
 ### Artikel  13  
 
-De Minister kan indien bijzondere omstandigheden daartoe aanleiding geven, artikelen buiten toepassing laten of daarvan afwijken.  
+De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard.  
 
 ### Artikel  14  
 
@@ -152,9 +125,9 @@ A.Klink
 | vanaf 2008/2009  | 10776  | Doktersassistent  |
 | vanaf 2008/2009  | 91310  | Doktersassistent  |
 | vanaf 2008/2009  | 92600  | MBO-Verpleegkundige  |
-| vanaf 2008/2009  | 92601  | MBO-Verpleegkundige (Geestelijke vanaf Gezondheidszorg)  |
+| vanaf 2008/2009  | 92601  | MBO-Verpleegkundige (Geestelijke Gezondheidszorg)  |
 | vanaf 2008/2009  | 92602  | MBO-Verpleegkundige (Gehandicaptenzorg)  |
-| vanaf 2008/2009  | 92603  | MBO-Verpleegkundige (VVT)  |
+| vanaf 2008/2009  | 92603  | MBO-Verpleegkundige (Verpleeg- en verzorgingshuiszorg en thuiszorg)  |
 | vanaf 2008/2009  | 92604  | MBO-Verpleegkundige (Ziekenhuiszorg)  |
 | vanaf 2008/2009  | 93510  | MBO-Verpleegkundige  |
 | vanaf 2008/2009  | 10426  | Verpleegkundige  |
@@ -165,7 +138,7 @@ A.Klink
 | vanaf 2008/2009  | 92613  | Verzorgende (Kraamzorg)  |
 | vanaf 2008/2009  | 92614  | Verzorgende (Verpleeg- en verzorgingshuiszorg en thuiszorg)  |
 | vanaf 2008/2009  | 93260  | Verzorgende  |
-| vanaf 2008/2009  | 91730  | Laborant (Allround laborant)  |
+| vanaf 2008/2009  | 91730  | Laboratoriummedewerker (Allround laborant)  |
 | vanaf 2008/2009  | 10702  | Vakfunctionaris Laboratoriumtechniek  |
 | vanaf 2008/2009  | 10703  | Vakfunctionaris Medische Laboratoriumtechniek  |
 | vanaf 2008/2009  | 10704  | Middenkaderfunctionaris Biologische Laboratoriumtechniek  |
@@ -183,26 +156,23 @@ A.Klink
 | vanaf 2008/2009  | 93715  | Analist (Microbiologisch analist)  |
 | vanaf 2008/2009  | 92650  | Maatschappelijke Zorg (Medewerker Maatschappelijke zorg) 3  |
 | vanaf 2008/2009  | 92660  | Maatschappelijke Zorg 4  |
-| vanaf 2008/2009  | 92661  | Maatschappelijke Zorg (Medewerker Gehandicaptenzorg)  |
+| vanaf 2008/2009  | 92661  | Maatschappelijke Zorg (Medewerker gehandicaptenzorg niveau 4)  |
 | vanaf 2008/2009  | 92662  | Maatschappelijke Zorg (Medewerker Volwassenenwerk)  |
-| vanaf 2008/2009  | 91430  | Medewerker Gehandicaptenzorg  |
+| vanaf 2008/2009  | 91430  | Medewerker gehandicaptenzorg niveau 4  |
 | vanaf 2008/2009  | 10505  | Voetverzorger  |
-| vanaf 2008/2009  | 94430  | Voetverzorger  |
-| vanaf 2008/2009  | 94440  | Voetverzorger  |
+| vanaf 2008/2009  | 94430  | Pedicure  |
+| vanaf 2008/2009  | 94440  | Pedicure (Medisch pedicure)  |
 | vanaf 2008/2009  | 94830  | Verzorgende IG  |
-| vanaf 2008/2009  | 94831  | Verzorgende-IG (Verpleeg- en verzorgingshuizen en thuiszorg)  |
-| vanaf 2008/2009  | 94832  | Verzorgende-IG (Gehandicaptenzorg)  |
-| vanaf 2008/2009  | 94833  | Verzorgende-IG (Geestelijke gezondheidszorg)  |
-| vanaf 2008/2009  | 94834  | Verzorgende-IG (Kraamzorg)  |
 | vanaf 2009/2010  | 10428  | Helpende  |
 | vanaf 2009/2010  | 91340  | Helpende breed  |
 | vanaf 2009/2010  | 91350  | Helpende  |
 | vanaf 2009/2010  | 91351  | Helpende (Zorg)  |
 | vanaf 2009/2010  | 92640  | Helpende Zorg & Welzijn  |
-| vanaf 2009/2010  | 94430  | Pedicure  |
-| vanaf 2009/2010  | 94440  | Medisch Pedicure  |
 | vanaf 2010/2011  | 80030  | Experimentele leergang vmbo-mbo niveau 2 in de sector zorg en welzijn  |
-| vanaf 2010/2011  | 91720  | Laboratoriummedewerker (Laborant) (basisberoepsopleiding)  |
+| vanaf 2010/2011  | 91720  | Laboratoriummedewerker (Laborant)  |
+| vanaf 2011/2012  | 92860  | Orthopedisch technisch medewerker  |
+| vanaf 2011/2012  | 95520  | MBO-verpleegkundige  |
+| vanaf 2011/2012  | 95530  | Verzorgende-IG  |
 
 ### Bijlage  2  
 
@@ -212,8 +182,7 @@ A.Klink
 |:---|:---|:---|
 | vanaf 2008/2009  | 34397  | Biologie en medisch laboratorium onderzoek  |
 | vanaf 2008/2009  | 34560  | Opleiding tot verpleegkundige  |
-| vanaf 2008/2009  | 34576  | Mondhygiëne (Mondzorgkunde)  |
-| vanaf 2008/2009  | 34565  | Opleiding tot verpleegkundige in de Maatschappelijke Gezondheidszorg  |
+| vanaf 2008/2009  | 34576  | Mondzorgkunde  |
 | vanaf 2008/2009  | 34091  | Huidtherapie  |
 | vanaf 2008/2009  | 34570  | Opleiding tot fysiotherapeut  |
 | vanaf 2008/2009  | 34581  | Opleiding Podotherapie  |
@@ -224,4 +193,8 @@ A.Klink
 | vanaf 2009/2010  | 34549  | B Optometrie  |
 | vanaf 2009/2010  | 34577  | B Orthoptie  |
 | vanaf 2010/2011  | 34953  | B Orthopedische technologie  |
+| vanaf 2011/2012  | 30023  | B Medische Hulpverlening  |
+| vanaf 2011/2012  | 34571  | B Oefentherapie Cesar  |
+| vanaf 2011/2012  | 34572  | B Opleiding tot Oefentherapeut-Mensendieck  |
+| vanaf 2011/2012  | 80084  | Ad Medische Laboratoriumdiagnostiek.  |
 
