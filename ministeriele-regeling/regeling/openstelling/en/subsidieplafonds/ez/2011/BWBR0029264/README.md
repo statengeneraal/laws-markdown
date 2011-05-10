@@ -26,6 +26,7 @@ Besluit:
 | 1.9  | Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven)  | 9.3  | --- | 01-02 t/m 01-12  | 3.000.000  |
 |  [Subsidieregeling innoveren](../../../../../../../../ministeriele-regeling/subsidieregeling/innoveren/BWBR0024855/README.md)   |
 | 2.1  | Subsidieregeling innoveren (Eurostars-projecten)  | 2.2  | --- | 01-02 t/m 22-02  | 3.125.000  |
+| --- | --- | --- | --- | 04-07 t/m 27-07  | 3.125.000  |
 | 2.2  | Subsidieregeling innoveren (innovatiekredieten)  | 3.2  | Klinische ontwikkelingsprojecten  | 01-01 t/m 31-12  | 15.500.000  |
 | --- | Subsidieregeling innoveren (innovatiekredieten)  | 3.2  | Technische ontwikkelingsprojecten  | 01-01 t/m 31-12  | 32.000.000  |
 | --- | Subsidieregeling innoveren (innovatiekredieten)  | 3.2  | Duurzame technische ontwikkelingsprojecten  | –  | –  |
@@ -40,16 +41,16 @@ Besluit:
 | 2.11  | Subsidieregeling innoveren (private innovatievouchers)  | 5a.9  | --- | –  | –  |
 | 2.12  | Subsidieregeling innoveren (innovatie voor maatschappelijke veiligheid)  | 6.2  | --- | 02-01 t/m 31-01  | 23.000.000  |
 |  [Subsidieregeling sterktes in innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md)   |
-| 3.1  | Subsidieregeling sterktes in innovatie (internationaal innoveren)  | 2.2  | Eureka–innovatieprojecten en geïndustrialiseerde landen innovatieprojecten  | –  | –  |
-| --- | Subsidieregeling sterktes in innovatie (internationaal innoveren)  | *2*.2  | Opkomende markten innovatieprojecten  | –  | –  |
-| 3.2  | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | Genomics (periode vooraanmelding)  | –  | –  |
-| --- | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | Genomics  | –  | –  |
+| 3.1  | Subsidieregeling sterktes in innovatie (internationaal innoveren)  | 2.2  | Eureka–innovatieprojecten en geïndustrialiseerde landen innovatieprojecten  | 10-05 t/m 19-09  | 6.445.000  |
+| --- | Subsidieregeling sterktes in innovatie (internationaal innoveren)  | 2.2  | Opkomende markten innovatieprojecten  | 10-05 t/m 19-09  | 6.000.000  |
+| 3.2  | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | Genomics (periode vooraanmelding)  | 10-05 t/m 22-06  | --- |
+| --- | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | Genomics  | 10-08 t/m 14-09  | 200.000  |
 | --- | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | EMVT (periode vooraanmelding)  | –  | –  |
 | --- | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | EMVT  | –  | –  |
 | --- | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | Precisietechnologie (periode vooraanmelding)  | –  | –  |
 | --- | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | Precisietechnologie  | –  | –  |
-| --- | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | IPCR (periode vooraanmelding)  | –  | –  |
-| --- | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | IPCR  | –  | –  |
+| --- | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | IPCR (periode vooraanmelding)  | 10-05 t/m 15-06  | --- |
+| --- | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | IPCR  | 5-09 t/m 5-10  | 2.500.000  |
 | --- | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | MMI (periode vooraanmelding)  | –  | –  |
 | --- | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | MMI  | –  | –  |
 | --- | Subsidieregeling sterktes in innovatie (IOP’s)  | 3.2  | Self healing materials (periode vooraanmelding)  | –  | –  |
@@ -72,13 +73,13 @@ Besluit:
 | 3.10  | Subsidieregeling sterktes in innovatie ( HTAS-EVT-projecten)  | 6.18  | --- | –  | –  |
 | 3.11  | Subsidieregeling sterktes in innovatie (InnoWATOR-projecten)  | 7.2  | --- | –  | –  |
 | 3.12  | Subsidieregeling sterktes in innovatie (internationale InnoWATOR-projecten)  | 7.11  | --- | –  | –  |
-| 3.13  | Subsidieregeling sterktes in innovatie (InnoWATOR garantiefaciliteit)  | 7.20  | --- | –  | –  |
+| 3.13  | Subsidieregeling sterktes in innovatie (InnoWATOR garantiefaciliteit)  | 7.20  | --- | 1-06 t/m 16-11  | 2.000.000  |
 | 3.14  | Subsidieregeling sterktes in innovatie (maritieme MKB-projecten)  | 8.2  | --- | –  | –  |
 | 3.15  | Subsidieregeling sterktes in innovatie (maritieme innovatieprojecten)  | 8.8  | --- | –  | –  |
 | 3.16  | Subsidieregeling sterktes in innovatie (Point-One haalbaarheidsprojecten)  | 9.1a  | --- | –  | –  |
 | 3.17  | Subsidieregeling sterktes in innovatie (Point-One MKB–innovatieprojecten)  | 9.2  | --- | –  | –  |
 | 3.18  | Subsidieregeling sterktes in innovatie (Point-One R&D–projecten)  | 9.8  | --- | –  | –  |
-| 3.19  | Subsidieregeling sterktes in innovatie (internationale Point-One R&D-projecten)  | 9.17  | --- | –  | –  |
+| 3.19  | Subsidieregeling sterktes in innovatie (internationale Point-One R&D-projecten)  | 9.17  | --- | 10-05 t/m 15-07  | 10.000.000  |
 | 3.20  | Subsidieregeling sterktes in innovatie (Point-One University-Industry Interaction projecten)  | 9.25  | --- | –  | –  |
 | 3.21  | Subsidieregeling sterktes in innovatie (polymeren haalbaarheidsprojecten)  | 10.2  | --- | –  | –  |
 | 3.22  | Subsidieregeling sterktes in innovatie (polymeren MKB-innovatieprojecten)  | 10.8  | --- | –  | –  |
@@ -89,7 +90,7 @@ Besluit:
 | --- | Subsidieregeling sterktes in innovatie (civiele vliegtuigontwikkeling)  | 10c.2  | Projecten, betrekking hebbend op industrieel onderzoek  | –  | –  |
 | 3.27  | Subsidieregeling sterktes in innovatie (technologische topinstituten)  | 10d.2  | --- | –  | –  |
 | 3.28  | Subsidieregeling sterktes in innovatie (innovatieve zeescheepsbouw)  | 10e.2  | --- | –  | –  |
-| 3.29  | Subsidieregeling sterktes in innovatie (prekwalificatie ESA/programma’s)  | 10f.2  | --- | –  | –  |
+| 3.29  | Subsidieregeling sterktes in innovatie (prekwalificatie ESA-programma’s)  | 10f.2  | --- | 10-05 t/m 5-07  | 4.000.000  |
 | 3.30  | Subsidieregeling sterktes in innovatie (strategisch onderzoeksprogramma vliegtuigontwikkeling)  | 10g.2  | Onderzoek op motorcomponenten  | –  | –  |
 | --- | Subsidieregeling sterktes in innovatie (strategisch onderzoeksprogramma vliegtuigontwikkeling)  | 10g.2  | Thermoplasten en composieten, vezel–metaal laminaten, ontwerpmethodieken, toekomstige technologieën, vliegtuigsystemen  | –  | –  |
 | 3.31  | Subsidieregeling sterktes in innovatie (service innovation & ICT)  | 10h.2  | --- | –  | –  |
