@@ -586,7 +586,7 @@ Voor de afgifte of vervanging van een monsterboekje of een voorlopig monsterboek
 
 ####Tarief vaarbevoegdheidsbewijs
 
-Voor de afgifte van een vaarbevoegdheidsbewijs als bedoeld in [artikel 18, eerste lid, van de Zeevaartbemanningswet](../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), zijn de volgende tarieven verschuldigd: 
+1.  Voor de afgifte van een vaarbevoegdheidsbewijs als bedoeld in [artikel 18, eerste lid, van de Zeevaartbemanningswet](../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), zijn de volgende tarieven verschuldigd: 
 
 a. € 98 voor elk vaarbevoegdheidsbewijs of een duplicaat van een vaarbevoegdheidsbewijs, waarop ten minste één van de volgende functies voorkomt: 
 
@@ -618,7 +618,8 @@ a. € 98 voor elk vaarbevoegdheidsbewijs of een duplicaat van een vaarbevoegdh
 
 b. € 64 voor elk vaarbevoegdheidsbewijs of duplicaat van een vaarbevoegdheidsbewijs waarop de in onderdeel a genoemde functies niet voorkomen.  
 
-c. € 98 voor een vaarbevoegdheidsbewijs van erkenning als bedoeld in [artikel 22, tweede lid, van de Zeevaartbemanningswet](../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md).    
+c. € 98 voor een vaarbevoegdheidsbewijs van erkenning als bedoeld in [artikel 22, tweede lid, van de Zeevaartbemanningswet](../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md).     
+2.  Voor de behandeling van een aanvraag om ontheffing van de verplichting om in het bezit te zijn van een geldig vaarbevoegdheidsbewijs, bedoeld in [artikel 25 van de Zeevaartbemanningswet](../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), is een tarief verschuldigd van € 212.   
 
 ### Artikel  2.26  
 
@@ -697,10 +698,11 @@ b. € 145 voor een duplicaat of gewaarmerkt afschrift van een ontheffing.
 
 ### Artikel  3.4  
 
-####Tarief bemanningscertificaat en beoordeling bemanningsplan [Zeevaartbemanningswet](../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md).
+####Tarief bemanningscertificaat en beoordeling bemanningsplan [Zeevaartbemanningswet](../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md)
 
 1.  Voor de afgifte van een bemanningscertificaat als bedoeld in [artikel 5, eerste lid, van de Zeevaartbemanningswet](../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), is een tarief verschuldigd van € 212.   
 2.  Voor de beoordeling van een bemanningsplan als bedoeld in [artikel 7, eerste lid, Zeevaartbemanningswet](../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), is een tarief verschuldigd van € 266.   
+3.  Voor de behandeling van een aanvraag om ontheffing van de verplichting om een schip te bemannen in overeenstemming met het bemanningscertificaat, bedoeld in [artikel 16 van de Zeevaartbemanningswet](../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), is een tarief verschuldigd van € 212.   
 
 ### Hoofdstuk  4  
 
