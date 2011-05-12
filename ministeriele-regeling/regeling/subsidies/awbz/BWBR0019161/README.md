@@ -571,7 +571,7 @@ g. de verzekerde blijkens de gemeentelijke basisadministratie niet beschikt over
 
 h. de verzekerde is geïndiceerd voor een zorgzwaartepakket 4 LVG, 5 LVG, 1 SGLVG, 1B GGZ, 2B GGZ, 3B GGZ, 4B GGZ, 5B GGZ, 6B GGZ of 7B GGZ als bedoeld in [bijlage 2 van de Regeling zorgaanspraken AWBZ](../../../../../ministeriele-regeling/regeling/zorgaanspraken/awbz/BWBR0014855/README.md).     
 3.  Bij de uitvoering van het tweede lid, onderdeel d, gaat het zorgkantoor uit van de ontvangstdatum van het in het eerste lid, onderdeel b, bedoelde aanvraagformulier of indien het aanvraagformulier is ontvangen voor de datum van het indicatiebesluit, de datum van het indicatiebesluit.   
-4.  De onderdelen e, f, g, en h van het tweede lid zijn niet van toepassing op verzekerden waaraan vóór 1 januari 2011 een persoonsgebonden budget is verleend en verzekerden die in vervolg op een weigering van het persoonsgeboden budget wegens uitputting van het subsidieplafond voor 1 januari 2011 hebben aangegeven alsnog in aanmerking te willen komen voor een persoonsgebonden budget.   
+4.  De onderdelen e, f, g, en h van het tweede lid zijn niet van toepassing op verzekerden waaraan vóór 1 januari 2011 een persoonsgebonden budget is verleend en verzekerden die in vervolg op een weigering van het persoonsgebonden budget wegens uitputting van het subsidieplafond voor 1 januari 2011 hebben aangegeven alsnog in aanmerking te willen komen voor een persoonsgebonden budget.   
 5.  In afwijking van het eerste lid kan het zorgkantoor verlening van een netto persoonsgebonden budget weigeren indien de verzekerde zich niet heeft gehouden aan bij de verstrekking van een eerder persoonsgebonden budget opgelegde verplichtingen.   
 6.  In afwijking van het tweede lid, onderdeel a, kan het zorgkantoor een persoonsgebonden budget verlenen voor begeleiding groep indien de verzekerde verblijft in een instelling waar de dagbesteding geen onderdeel vormt van het door het zorgkantoor gecontracteerde verblijf.   
 7.  Indien het indicatiebesluit ten nadele van de verzekerde wordt herzien als gevolg van bezwaar of beroep dan wordt het persoonsgebonden budget verlaagd met ingang van de dag waarop het besluit tot herziening wordt genomen.   
@@ -731,11 +731,9 @@ g. de verzekerde brengt gedurende de subsidieperiode voor de vormen van zorg waa
 
 h. de verzekerde die geïndiceerd is voor verblijf anders dan kortdurend verblijf, brengt gedurende de subsidieperiode zijn aanspraak op verblijf niet tot gelding;  
 
-i. de verzekerde gebruikt het budget niet ten behoeve van betalingen van werkzaamheden die zijn verricht door een verzekerde aan wie een persoonsgebonden budget is verleend;  
+i. de verzekerde draagt er zorg voor dat een zorgverlener op wie het Arbeidstijdenbesluit niet van toepassing is niet meer dan veertig uur in één week voor hem werkzaamheden verricht;  
 
-j. de verzekerde draagt er zorg voor dat een zorgverlener op wie het Arbeidstijdenbesluit niet van toepassing is niet meer dan veertig uur in één week voor hem werkzaamheden verricht;  
-
-k. de verzekerde deelt het zorgkantoor op diens verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op de verstrekking van het persoonsgebonden budget.     
+j. de verzekerde deelt het zorgkantoor op diens verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op de verstrekking van het persoonsgebonden budget.     
 2.  In afwijking van het eerste lid, onderdeel a, mag vervoer slechts worden betaald uit een budget verleend voor begeleiding groep inclusief vervoer.   
 3.  In afwijking van het eerste lid, onderdelen a en e, mag de verzekerde in een kalenderjaar maximaal 1,5% van het voor dat jaar beschikbare netto persoonsgebonden budget, maar ten minste € 250 en ten hoogste € 1 250, gebruiken voor andere betalingen dan betalingen bedoeld in onderdeel a, en geldt de verantwoordingsplicht, bedoeld in onderdeel e, niet voor dit deel van het budget.   
 4.  Indien een subsidieperiode met ingang van een andere dag dan 1 januari van een kalenderjaar aanvangt of op een andere dag dan 31 december eindigt, worden de bedragen, genoemd in het derde lid, voor dat kalenderjaar vermenigvuldigd met een breuk waarvan de teller bestaat uit het aantal dagen van de subsidieperiode in het desbetreffende kalenderjaar en de noemer uit het aantal dagen in dat kalenderjaar.   
@@ -832,9 +830,10 @@ b. het restant van het voor het kalenderjaar beschikbare netto persoonsgebonden 
 
 2°. voor zover deze betalingen betrekking hebben op kosten die niet hoger zijn dan € 62 per uur, € 57 per dagdeel, of, voor zover het bemiddelingskosten betreft, € 250 per jaar indien het verleende bruto persoonsgebonden budget op jaarbasis € 25 000 of minder bedraagt en € 500 per jaar indien het verleende bruto persoonsgebonden budget op jaarbasis meer dan € 25 000 bedraagt, en  
 
-3°. voor zover het aantal door de zorgverlener voor de verzekerde gewerkte uren niet afwijkt van het [Arbeidstijdenbesluit](../../../../../AMvB/arbeidstijdenbesluit/BWBR0007687/README.md) dan wel artikel 2.6.9, eerste lid, onderdeel j.       
-6.  Indien de verzekerde geen betalingen heeft gedaan als bedoeld in artikel 2.6.9, eerste lid, onderdeel a, dan wordt de subsidie, in afwijking van het vijfde lid, vastgesteld op nihil.   
-7.  Indien een subsidieperiode met ingang van een andere dag dan 1 januari van een kalenderjaar aanvangt of op een andere dag dan 31 december eindigt, worden de bedragen, genoemd in het vijfde lid, voor dat kalenderjaar vermenigvuldigd met een breuk waarvan de teller bestaat uit het aantal dagen van de subsidieperiode in het desbetrefende kalenderjaar en de noemer uit het aantal dagen in dat kalenderjaar.   
+3°. voor zover het aantal door de zorgverlener voor de verzekerde gewerkte uren niet afwijkt van het [Arbeidstijdenbesluit](../../../../../AMvB/arbeidstijdenbesluit/BWBR0007687/README.md) dan wel artikel 2.6.9, eerste lid, onderdeel i.       
+6.  In afwijking van het vijfde lid, onderdeel b, subonderdeel 2°, is voor zorg waarvoor de Nederlandse Zorgautoriteit op grond van de [Wet marktordening gezondheidszorg](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) een hoger tarief heeft vastgesteld dan € 62 per uur of € 57 per dagdeel dat hogere tarief van toepassing.   
+7.  Indien de verzekerde geen betalingen heeft gedaan als bedoeld in artikel 2.6.9, eerste lid, onderdeel a, dan wordt de subsidie, in afwijking van het vijfde lid, vastgesteld op nihil.   
+8.  Indien een subsidieperiode met ingang van een andere dag dan 1 januari van een kalenderjaar aanvangt of op een andere dag dan 31 december eindigt, worden de bedragen, genoemd in het vijfde lid, voor dat kalenderjaar vermenigvuldigd met een breuk waarvan de teller bestaat uit het aantal dagen van de subsidieperiode in het desbetrefende kalenderjaar en de noemer uit het aantal dagen in dat kalenderjaar.   
 
 ### Artikel  2.6.14  
 
@@ -949,29 +948,27 @@ c. dr. Frans Wong Kliniek te Amsterdam, Stichting dr. Frans Wong;
 
 d. Mildredhuis te Arnhem, Stichting Mildredhuis, Centrum voor seksuele gezondheid Arnhem e.o.;  
 
-e. Preterm Kliniek te Den Haag, Stichting Polikliniek voor Zwangerschapsonderbreking;  
+e. CASA Den Haag te Den Haag, Stichting Centrum voor Anticonceptie, Seksualiteit en Abortus;  
 
-f. CASA Den Haag te Den Haag, Stichting Centrum voor Anticonceptie, Seksualiteit en Abortus;  
+f. g. Stichting RutgersStimezo Zuid Nederland, centrum voor seksuele gezondheid Eindhoven e.o.;  
 
-g. g. Stichting RutgersStimezo Zuid Nederland, centrum voor seksuele gezondheid Eindhoven e.o.;  
+g. Emma Kliniek te Enschede, Stichting ter bevordering van medisch verantwoorde zwangerschapsafbreking Enschede en omstreken;  
 
-h. Emma Kliniek te Enschede, Stichting ter bevordering van medisch verantwoorde zwangerschapsafbreking Enschede en omstreken;  
+h. CASA Goes te Goes, Stichting Centrum voor Anticonceptie, Seksualiteit en Abortus;  
 
-i. CASA Goes te Goes, Stichting Centrum voor Anticonceptie, Seksualiteit en Abortus;  
+i. Stimezo Groningen te Groningen, Stichting Medisch Centrum voor Geboorteregeling Stimezo Groningen;  
 
-j. Stimezo Groningen te Groningen, Stichting Medisch Centrum voor Geboorteregeling Stimezo Groningen;  
+j. Beahuis te Heemstede, Stichting Hulpverlening Zwangerschapsonderbreking Noord-Holland ‘STIZO’;  
 
-k. Beahuis te Heemstede, Stichting Hulpverlening Zwangerschapsonderbreking Noord-Holland ‘STIZO’;  
+k. CASA Leiden te Leiden, Stichting Centrum voor Anticonceptie, Seksualiteit en Abortus;  
 
-l. CASA Leiden te Leiden, Stichting Centrum voor Anticonceptie, Seksualiteit en Abortus;  
+l. CASA Maastricht te Maastricht, Stichting Centrum voor Anticonceptie, Seksualiteit en Abortus;  
 
-m. CASA Maastricht te Maastricht, Stichting Centrum voor Anticonceptie, Seksualiteit en Abortus;  
+m. CASA Rotterdam te Rotterdam, Stichting Centrum voor Anticonceptie, Seksualiteit en Abortus;  
 
-n. CASA Rotterdam te Rotterdam, Stichting Centrum voor Anticonceptie, Seksualiteit en Abortus;  
+n. Vrelinghuis te Utrecht, Stichting voor Hulpverlening bij Zwangerschapsonderbreking Utrecht en omgeving;  
 
-o. Vrelinghuis te Utrecht, Stichting voor Hulpverlening bij Zwangerschapsonderbreking Utrecht en omgeving;  
-
-p. Stimezo Zwolle te Zwolle, Stichting Stimezo Zwolle.    
+o. Stimezo Zwolle te Zwolle, Stichting Stimezo Zwolle.    
 
 ### Artikel  2.11.2  
 
@@ -1018,13 +1015,13 @@ Indien de subsidieontvanger tevens zwangerschapsafbrekingen, overtijdsbehandelin
 
 In afwijking van artikel 1.2.1 wordt de maximale subsidie voor 2011 als volgt berekend: 
 
-a. voor de eerste duizend zwangerschapsafbrekingen een bedrag van € 416 per behandeling en voor elke volgende behandeling een bedrag van € 253;  
+a. voor de eerste duizend zwangerschapsafbrekingen een bedrag van € 416,11 per behandeling en voor elke volgende behandeling een bedrag van € 253,29;  
 
-b. voor tweede trimesterbehandelingen een opslag van € 179 per behandeling;  
+b. voor tweede trimesterbehandelingen een opslag van € 179,35 per behandeling;  
 
 c. Voor eerste en tweede trimesterbehandelingen onder narcose een opslag van € 106 per behandeling bij een sedatiescore van vier of vijf overeenkomstig de door het centraal begeleidingsorgaan voor de Intercollegiale Toetsing vastgelegde consensus ‘Sedatie en/of analgesie door niet anesthesiologen’, indien de begeleiding in handen is van een tweede arts die daartoe bevoegd en bekwaam is;  
 
-d. voor behandelingen met prostaglandine naast de opslag, vermeld in onderdeel c, een extra opslag van € 315 per behandeling;  
+d. voor behandelingen met prostaglandine naast de opslag, vermeld in onderdeel c, een extra opslag van € 315,32 per behandeling;  
 
 e. voor huisvestingskosten: 
 
@@ -1034,9 +1031,9 @@ e. voor huisvestingskosten:
 
 3°. de rente van geldleningen die rechtstreeks verband houden met de financiering van de huisvesting of, ingeval financiering plaatsvindt met eigen vermogen, de rentevergoeding volgens artikel 2.11.8;    
 
-f. een toeslag voor overige kapitaalslasten van € 23 582, indien het totale aantal behandelingen minder dan 1500 is en een toeslag van € 28 927, indien het totale aantal behandelingen 1500 of meer bedraagt;  
+f. een toeslag voor overige kapitaalslasten van € 23 581,99 indien het totale aantal behandelingen minder dan 1500 is en een toeslag van € 28 926,52, indien het totale aantal behandelingen 1500 of meer bedraagt;  
 
-g. een opslag per consult dat geen behandeling tot gevolg heeft van € 76.    
+g. een opslag per consult dat geen behandeling tot gevolg heeft van € 76,03.    
 
 ### Artikel  2.11.7  
 
