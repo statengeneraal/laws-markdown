@@ -119,97 +119,104 @@ Deze paragraaf is niet van toepassing op gevogelte, gehouden in dierentuinen.
 
 ### Artikel  2.1.1  
 
-1.  In afwijking van [artikel 1, eerste lid, van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) wordt in deze paragraaf verstaan onder pluimvee: pluimvee als bedoeld in artikel 2, onderdeel 4, van richtlijn nr. 2005/94/EG.   
-2.  In deze paragraaf wordt verstaan onder: 
+####(aanvullende begripsbepalingen)
 
-a. *laagpathogene aviaire influenza (LPAI):* een besmetting van pluimvee of andere in gevangenschap levende vogels als omschreven in bijlage I, onderdeel 3, van richtlijn nr. 2005/94/EG;  
+In deze paragraaf wordt verstaan onder: 
 
-b. *andere in gevangenschap levende vogels:* andere in gevangenschap levende vogels als bedoeld in artikel 2, onderdeel 6, van richtlijn nr. 2005/94/EG;  
+a. *laagpathogene aviaire influenza (LPAI):* een besmetting van gevogelte of andere gehouden vogels als omschreven in bijlage I, onderdeel 3, van richtlijn nr. 2005/94/EG;  
 
-c. *zoogdier:* een tot de klasse Mammalia behorend dier, met uitzondering van de mens;  
+b. *zoogdier:* een tot de klasse Mammalia behorend dier;  
 
-d. *bedrijf:* bedrijf als bedoeld in artikel 2, onderdeel 8, van richtlijn nr. 2005/94/EG;  
-
-e. *gebied:* in bijlage I aangewezen beperkingsgebied.     
+c. *gebied:* in bijlage I aangewezen beperkingsgebied.    
 
 ### Artikel  2.1.2  
 
-Het is in een gebied verboden te handelen in strijd met de in bijlage I bij de onderscheiden aangewezen gebieden telkens van toepassing verklaarde artikelen of artikelonderdelen van deze regeling.  
+####(gebiedsbepaling)
+
+Het is in een gebied verboden te handelen in strijd met de in bijlage I van toepassing verklaarde artikelen of artikelonderdelen van deze regeling.  
 
 ### Artikel  2.1.3  
 
-1.  Het vervoer, met inbegrip van verplaatsing over de openbare weg zonder vervoermiddel, van 
+####(vervoers- en uitrijdverboden)
 
-a. pluimvee of andere in gevangenschap levende vogels,  
+1.  Het vervoer, met inbegrip van verplaatsing over de openbare weg zonder vervoermiddel, van: 
 
-b. gebruikt strooisel, mest of drijfmest,  
+a. gevogelte of andere gehouden vogels, uitgezonderd duiven,  
 
-c. broed- en consumptie-eieren,   uit, naar of binnen het gebied, is verboden.   
+b. gebruikt strooisel, mest of drijfmest, of  
+
+c. broed- en consumptie-eieren,   uit, of binnen het gebied, is verboden.   
 2.  Het aanwenden van gebruikt strooisel, mest of drijfmest binnen het gebied is verboden.   
-3.  Het vervoer, met inbegrip van verplaatsing over de openbare weg zonder vervoermiddel, van gedomesticeerde zoogdieren van of naar een bedrijf is verboden tenzij de gedomesticeerde zoogdieren alleen toegang hebben tot voor mensen bestemde leefruimten waar zij 
-
-– niet in contact komen met het pluimvee van het bedrijf of andere in gevangenschap levende vogels, en  
-
-– geen toegang hebben tot de kooien of zones waar het pluimvee van het bedrijf of andere in gevangenschap levende vogels worden gehouden.     
-4.  Het verbod bedoeld in het eerste lid is niet van toepassing ten aanzien van het vervoer van consumptie-eieren afkomstig van bedrijven, anders dan bedrijven zoals pakstations en soortgelijke inrichtingen, en bedrijven waar zich pluimvee bevindt.   
+3.  Het vervoer, met inbegrip van verplaatsing over de openbare weg zonder vervoermiddel, van gedomesticeerde zoogdieren van of naar een bedrijf, waar gevogelte, met uitzondering van hobbypluimvee of duiven, wordt gehouden, is verboden.   
+4.  De aanvoer van sperma ten behoeve van de bevruchting van gevogelte is verboden.   
+5.  In afwijking van het bepaalde in het eerste lid is de doorvoer van de in dat lid genoemde dieren en dierlijke producten over de snelweg A1 door het gebied, zonder dat halt gehouden wordt om te laden of te lossen, toegestaan.   
+6.  In afwijking van het bepaalde in het eerste en tweede lid is de afvoer, het vervoer en de aanwendig van mest, niet zijnde mest afkomstig van gevogelte, toegestaan, indien de mest afkomstig is van een bedrijf waar geen gevogelte, behalve hobbypluimvee of duiven, worden gehouden.   
+7.  Het verbod bedoeld in het eerste lid is niet van toepassing ten aanzien van het vervoer van consumptie-eieren afkomstig van bedrijven, anders dan bedrijven waar zich gevogelte bevindt.   
 
 ### Artikel  2.1.4  
 
-Artikel 2.5, tweede en derde lid, van deze regeling is niet van toepassing.  
+####(verzamelverbod)
+
+Alle wedvluchten, culturele elementen, tentoonstellingen, keuringen of andere tijdelijke verzamelingen waar gevogelte en andere vogels afkomstig van verschillende plaatsen tijdelijk op één plaats worden verzameld zijn verboden. Vrijstellingen op grond van artikel 2.5, tweede en derde lid, zijn geschorst.  
 
 ### Artikel  2.1.5  
 
+####Diervoeders en melk
+
+1.  De aanvoer van diervoeders op en de afvoer van rauwe melk van een bedrijf waar gevogelte, uitgezonderd hobbypluimvee of duiven, wordt gehouden is verboden.   
+2.  Het verbod bedoeld in het eerste lid geldt niet voor het rechtstreekse vervoer van de diervoeders naar het bedrijf respectievelijk het rechtstreekse vervoer van de melk naar de melkfabriek waarbij de vervoermiddelen bij het verlaten van het bedrijf worden gereinigd en ontsmet in overeenstemming met een door de VWA goedgekeurd hygiëneprotocol dat in overeenstemming is met de eisen voor reiniging en ontsmetting vermeld in bijlage VI bij richtlijn nr. 2005/94/EG.   
+
+### Artikel  2.1.6  
+
+####(verplaatsingsverbod risicovolle voertuigen)
+
 1.  Het is verboden vervoermiddelen, gebruikt of kennelijk bestemd voor het vervoer van: 
 
-a. levend pluimvee of andere in gevangenschap levende vogels;  
+a. gevogelte of andere gehouden vogels;  
 
-b. gedomesticeerde zoogdieren afkomstig van een bedrijf waar tevens pluimvee aanwezig is;  
+b. gedomesticeerde zoogdieren afkomstig van een bedrijf waar tevens gevogelte aanwezig is;  
 
-c. voeder, gebruikt strooisel of mest;  
+c. voeder, gebruikt strooisel, rauwe melk of mest afkomstig van of bestemd voor een bedrijf waar tevens gevogelte aanwezig is, of  
 
 d. broed- en consumptie-eieren;   te verplaatsen binnen het gebied.   
-2.  Het verbod, bedoeld in het eerste lid, geldt niet voor de toepassing van artikel 2.1.3, derde en vierde lid, of artikel 2.1.4, mits de vervoermiddelen bij het verlaten van het bedrijf worden gereinigd en ontsmet overeenkomstig een door de VWA goedgekeurd hygiëneprotocol dat in overeenstemming is met de eisen voor reiniging en ontsmetting vermeld in bijlage VI bij richtlijn nr. 2005/94/EG.   
+2.  Het verbod, bedoeld in het eerste lid, geldt niet voor de toepassing van artikel 2.1.3, zesde lid en voor het vervoer van gedomesticeerde zoogdieren van of naar een bedrijf waar hobbypluimvee of duiven worden gehouden, mits de vervoermiddelen bij het verlaten van het bedrijf worden gereinigd en ontsmet in overeenstemming met een door de VWA goedgekeurd hygiëneprotocol dat in overeenstemming is met de eisen voor reiniging en ontsmetting vermeld in bijlage VI bij richtlijn nr. 2005/94/EG.   
 3.  Het verbod, bedoeld in het eerste lid, is niet van toepassing indien: 
 
 a. de bestuurder van het vervoermiddel kan aantonen dat het vervoer betreft anders dan het vervoer als bedoeld in het eerste lid, of  
 
-b. het vervoermiddel aantoonbaar een dubbele reiniging en ontsmetting heeft ondergaan en na de dubbele reiniging en ontsmetting drie dagen stil heeft gestaan voordat het vervoermiddel verplaatst wordt binnen het gebied.     
-
-### Artikel  2.1.6  
-
-Op verzoek van een houder kan de VWA ontheffing onder voorwaarden verlenen van het bepaalde in de artikelen 2.1.3 en 2.1.4.  
+b. het vervoermiddel aantoonbaar een dubbele reiniging en ontsmetting heeft ondergaan en na de dubbele reiniging en ontsmetting 24 uur stil heeft gestaan voordat het vervoermiddel verplaatst wordt binnen het gebied.     
 
 ### Artikel  2.1.7  
 
-1.  Op een bedrijf waar voor commerciële doeleinden pluimvee wordt gehouden, is de houder van dat pluimvee verplicht maatregelen te nemen zodat elk contact tussen bezoekers en pluimvee is uitgesloten en al het noodzakelijke te doen, dan wel na te laten om te voorkomen dat besmetting met of verspreiding van LPAI zich voordoet. Onder al het noodzakelijke wordt tenminste verstaan het aanbrengen van fysieke afscheidingen tussen het pluimvee en de overige op het bedrijf aanwezige dieren.   
-2.  Het is de houder, bedoeld in het eerste lid, toegestaan: 
+####(ontheffing door VWA)
 
-a. politiebeambten, huisartsen, ambulancepersoneel, brandweerlieden, psychosociale hulpverleners en andere soortgelijke noodhulpdiensten en hun materieel;  
-
-b. monteurs, loonwerkers, dierenartsen en bedrijfsverzorgers met inbegrip van pluimveeservicebedrijven, indien er een acuut gevaar voor de gezondheid van pluimvee aanwezig is en werkzaamheden van deze personen noodzakelijk zijn om deze situatie op te heffen;  
-
-c. toezichthouders;   in contact te laten treden met pluimvee, mits de in de onderdelen a, b en c bedoelde personen bij het betreden en het verlaten van een bedrijfsgebouw de nodige hygiënemaatregelen in acht nemen om elk risico van verspreiding van LPAI zo veel mogelijk te beperken en de kleding en het materieel van deze personen bij het betreden en het verlaten van een bedrijfsgebouw is gereinigd en ontsmet om te voorkomen dat besmetting met of verspreiding van LPAI zich voordoet.   
+Op verzoek van een houder kan de VWA onder voorwaarden ontheffing verlenen van het bepaalde in de artikelen 2.1.3 en 2.1.4.  
 
 ### Artikel  2.1.8  
 
-Op een bedrijf, niet zijnde een bedrijf als bedoeld in artikel 2.1.7, zorgt de houder van het op dit bedrijf aanwezige pluimvee ervoor dat een bezoeker voordat deze een bedrijfsgebouw betreedt, of voordat hij het bezochte bedrijfsgebouw verlaat, de nodige hygiënemaatregelen in acht neemt om elk risico van verspreiding van LPAI zo veel mogelijk te beperken.  
+####(bezoekersregeling)
+
+1.  De houder van gevogelte, niet zijnde hobbypluimvee of duiven, neemt maatregelen zodat elk contact tussen bezoekers en gevogelte is uitgesloten.   
+2.  Het is de houder, bedoeld in het eerste lid, toegestaan: 
+
+a. ambtenaren van politie, huisartsen, ambulancepersoneel, brandweerlieden, psychosociale hulpverleners en andere soortgelijke noodhulpdiensten en hun materieel;  
+
+b. monteurs, loonwerkers, dierenartsen en bedrijfsverzorgers met inbegrip van pluimveeservicebedrijven, indien er een acuut gevaar voor de gezondheid van gevogelte aanwezig is en werkzaamheden van deze personen noodzakelijk zijn om deze situatie op te heffen;  
+
+c. toezichthouders;   in de uitoefening van hun functie in contact te laten treden met gevogelte, mits de in de onderdelen a, b en c bedoelde personen bij het betreden en het verlaten van een bedrijfsgebouw de nodige hygiënemaatregelen in acht nemen om elk risico van verspreiding van LPAI zo veel mogelijk te beperken en de kleding en het materieel van deze personen bij het betreden en het verlaten van een bedrijfsgebouw is gereinigd en ontsmet om te voorkomen dat besmetting met of verspreiding van LPAI zich voordoet.   
 
 ### Artikel  2.1.9  
 
-Het is verboden pluimvee of andere in gevangenschap levende vogels die bestemd zijn om in het wild te worden uitgezet, vrij te laten.  
+####(bioveiligheidsmaatregelen, afscherm- en ophokplicht)
+
+1.  De houder van gevogelte brengt afscheidingen aan tussen het gevogelte en de op het landbouwbedrijf aanwezige zoogdieren.   
+2.  De houder van gevogelte, niet zijnde hobbypluimvee of duiven, neemt passende maatregelen om zo veel mogelijk te voorkomen dat de door hem gehouden dieren in contact komen met buiten het verblijf levende wilde dieren, zoals in het wild levende vogels, of hun uitwerpselen.   
+3.  Onder passende maatregelen als bedoeld in het eerste lid wordt ten minste begrepen het binnen een gebouw brengen en daar houden van het gevogelte.   
+4.  Het derde lid is niet van toepassing op dieren van een soort behorende tot de orde van de eendvogels (Anseriformes), de families van de struisvogels (Struthionidae), emoes (Dromaiidae) en nandoes (Rheidae).   
 
 ### Artikel  2.1.10  
 
-1.  De houder van pluimvee of andere in gevangenschap levende vogels neemt passende maatregelen om zo veel mogelijk te voorkomen dat de door hem gehouden dieren in contact komen met buiten het verblijf levende wilde dieren, waaronder wilde vogels, of hun uitwerpselen.   
-2.  Onder passende maatregelen als bedoeld in het eerste lid wordt ten minste begrepen het niet doorlaatbaar afdichten aan de bovenzijde van de al dan niet beperkte uitloop en het afschermen met netten van de zijkanten van deze uitloop.   
-
-### Artikel  2.1.11  
-
-Deze paragraaf laat het bepaalde op grond van [artikel 25 van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en het bepaalde in paragraaf 2 van deze regeling onverlet met dien verstande dat artikel 2.5, tweede en derde lid, van paragraaf 2 niet van toepassing is.  
-
-### Artikel  2.1.12  
-
-Het verbod, bedoeld in artikel 2.1.3, eerste lid, en in artikel 2.1.5, eerste lid, geldt niet voor zover het betreft doorgaand vervoer, zonder onderbreking in het gebied, over de A58.  
+Deze paragraaf laat het bepaalde op grond van [artikel 25 van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en het bepaalde in paragraaf 2 van deze regeling onverlet met dien verstande dat artikel 2.5, tweede en derde lid, van paragraaf 2 niet van toepassing is in het gebied.  
 
 ### §  3  
 
@@ -680,19 +687,65 @@ G.Verburg
 
 ####Beperkingsgebied
 
-1. De artikelen 2.1.1 tot en met 2.1.10 zijn op dit gebied van toepassing.  
+1. De artikelen 2.1.3 tot en met 2.1.9 zijn op dit gebied van toepassing.  
 
 2. Het gebied is als volgt begrensd: 
 
-1. Vanaf kruising Nijverheidsweg met Rijksweg N289, N289 volgend in oostelijke richting over het kanaal door Zuid-Beveland tot aan Kanaalweg Oostzijde.  
+1. Vanaf de kruising van de N303 en de Zeumerseweg (Voorthuizen), de Zeumerseweg volgend in oostelijke richting tot aan het water van het recreatiegebied Zeumeren.  
 
-2. Kanaalweg Oostzijde volgend in zuidelijke richting tot aan Westerschelde.  
+2. Het water overstekend in oostelijke richting tot aan de Goorderweg.  
 
-3. Westerschelde volgend in west-noordwestelijkelijke richting tot aan de Weg langs de Zeedijk.  
+3. Goorderweg volgend in oostelijke richting tot aan de Lange Zuiderweg.  
 
-4. Weg langs de Zeedijk volgend in noordoostelijke richting tot aan de Schoorse Zeedijk.  
+4. Lange Zuiderweg volgend in noordoostelijke richting tot aan de Brugveenseweg.  
 
-5. Schoorse Zeedijk volgend in noordelijke richting overgaand in Schoorse Oude Dijk volgend in noordwestelijke richting tot aan Rijksweg N289.  
+5. Brugveenseweg volgend in oostelijke richting tot aan de Welgelegenweg.  
 
-6. N289 volgend in oostelijke richting tot aan kruising met Nijverheidsweg.      
+6. Welgelegenweg volgend in noordoostelijke richting tot aan de Heideweg.  
+
+7. Heideweg volgend in zuidelijke richting tot aan de Gruttoweg.  
+
+8. Gruttoweg volgend in zuidelijke richting overgaand in de Stroeërschoolweg tot aan de Stroeërweg.  
+
+9. Stroeërweg volgend in oostelijke richting tot aan de Ravenweg.  
+
+10. Ravenweg volgend in zuidoostelijke richting tot aan de N800.  
+
+11. N800 volgend in zuidwestelijke richting tot aan de Garderbroekerweg.  
+
+12. Garderbroekweg volgend in zuidoostelijke richting tot aan de Breihutterweg.  
+
+13. Breihutterweg volgend in zuidelijke richting tot aan de Topperweg.  
+
+14. Topperweg volgend in zuidelijke richting tot aan de Essenerweg.  
+
+15. Essenerweg volgend in zuidoostelijke richting tot aan de Dwarsgraafweg.  
+
+16. Dwarsgraafweg volgend in zuidelijke richting tot aan de Broekdijk.  
+
+17. Broekdijk volgend in zuidelijke richting tot aan de N801.  
+
+18. N801 volgend in zuidoostelijke richting tot aan de Koudhoornweg.  
+
+19. Koudhoornweg volgend in zuidelijke richting Hoge Valkseweg.  
+
+20. Hoge Valkseweg volgend in westelijke richting tot aan de Meulunterseweg.  
+
+21. Meulunterseweg volgend in zuidelijke richting overgaand in westelijke richting in Kattenbroekerweg tot aan de Duivenkampweg.  
+
+22. Duivenkampweg volgend in zuidelijke richting tot aan de Ruitenbeekweg.  
+
+23. Ruitenbeekweg volgend in zuidelijke richting tot aan de Overwoudsesteeg.  
+
+24. Overwoudsesteeg volgend in westelijke richting tot aan de Overwoudseweg.  
+
+25. Overwoudseweg volgend in noordelijke richting tot aan de Zeggelaarsweg.  
+
+26. Zeggelaarsweg volgend in zuidwestelijke richting tot aan de Hessenweg.  
+
+27. Hessenweg volgend in noordelijke richting tot aan de Gelkenhorsterweg.  
+
+28. Gelkenhorsterweg volgend in noordoostelijke richting tot aan de Valkseweg.  
+
+29. Valkseweg volgend in westelijke richting overgaand in noordelijke richting in de Dr Willem Dreeslaan overgaand in de van Zuijlen van Nieveltlaan overgaand in de Stationsweg overgaand in de Baron van Nagellstraat overgaand in de N303 tot aan de Zeumerseweg.      
 
