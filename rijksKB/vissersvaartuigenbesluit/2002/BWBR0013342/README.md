@@ -22,13 +22,17 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsomschrijvingen
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
+In dit besluit en de daarop berustende bepalingen wordt, tenzij anders is bepaald, verstaan onder: 
 
 a. *wet*: de [Schepenwet](../../../../rijkswet/schepenwet/BWBR0001876/README.md);  
 
-b. *vissersvaartuig*: een vissersvaartuig als bedoeld in [artikel 1, eerste lid, van de wet](../../../../rijkswet/schepenwet/BWBR0001876/README.md);  
+b. *Onze Minister:* Onze Minister van Infrastructuur en Milieu;  
 
-c. *nieuw vissersvaartuig*: een vissersvaartuig waarvoor 
+c. *Nederlands vissersvaartuig:* een vissersvaartuig dat ingevolge [artikel 1, tweede lid, van de Uitvoeringswet Visserijverdrag 1967](../../../../wet/uitvoeringswet/visserijverdrag/1967/BWBR0002897/README.md) als Nederlands geldt;  
+
+d. *vissersvaartuig*: een vissersvaartuig als bedoeld in [artikel 1, eerste lid, van de wet](../../../../rijkswet/schepenwet/BWBR0001876/README.md);  
+
+e. *nieuw vissersvaartuig*: een vissersvaartuig waarvoor 
 
 1°. op of na 1 januari 1999 het bouwcontract of het contract voor een ingrijpende verbouwing wordt gegund, of  
 
@@ -42,13 +46,13 @@ c. *nieuw vissersvaartuig*: een vissersvaartuig waarvoor
 
 – een aanvang wordt gemaakt met de samenbouw die ten minste 50 ton of 1% van de geschatte massa van alle constructiemateriaal omvat, waarbij de kleinste van de twee hoeveelheden bepalend is;      
 
-d. *bestaand vissersvaartuig*: een vissersvaartuig dat geen nieuw vissersvaartuig is;  
+f. *bestaand vissersvaartuig*: een vissersvaartuig dat geen nieuw vissersvaartuig is;  
 
-e. *lengte of L*: tenzij anders bepaald, 96% van de totale lengte op een waterlijn op 85% van de kleinste holte gemeten vanaf de kiellijn, of de lengte van de voorzijde van de voorsteven tot de hartlijn van de roerkoning op die waterlijn, indien deze lengte groter is. Bij vissersvaartuigen die met stuurlast ontworpen zijn, moet de waterlijn waarop deze lengte gemeten wordt, evenwijdig aan de ontwerplastlijn worden genomen;  
+g. *lengte of L*: tenzij anders bepaald, 96% van de totale lengte op een waterlijn op 85% van de kleinste holte gemeten vanaf de kiellijn, of de lengte van de voorzijde van de voorsteven tot de hartlijn van de roerkoning op die waterlijn, indien deze lengte groter is. Bij vissersvaartuigen die met stuurlast ontworpen zijn, moet de waterlijn waarop deze lengte gemeten wordt, evenwijdig aan de ontwerplastlijn worden genomen;  
 
-f. *breedte of B:* de grootste breedte van het vaartuig, uitgedrukt in meters, midscheeps gemeten op de buitenkant van de spanten bij een vaartuig met een metalen huid en op de buitenkant van de huid bij een vaartuig met een huid van een ander materiaal;  
+h. *breedte of B:* de grootste breedte van het vaartuig, uitgedrukt in meters, midscheeps gemeten op de buitenkant van de spanten bij een vaartuig met een metalen huid en op de buitenkant van de huid bij een vaartuig met een huid van een ander materiaal;  
 
-g.  *holte:*  
+i.  *holte:*  
 
 1°. de verticale afstand, uitgedrukt in meters, gemeten vanaf de kiellijn tot de bovenkant van de balken van het werkdek in de zijde,  
 
@@ -56,15 +60,15 @@ g.  *holte:*
 
 3°. indien het werkdek verspringt en het verhoogde gedeelte zich uitstrekt voorbij het punt waar de holte moet worden bepaald, wordt de holte gemeten tot een lijn die vanaf het lage gedeelte van het dek, evenwijdig aan het verhoogde gedeelte wordt doorgetrokken;    
 
-h. *holte D:* de holte midscheeps gemeten;  
+j. *holte D:* de holte midscheeps gemeten;  
 
-i. *hoogst gelegen lastlijn:* de lastlijn behorende bij de maximum toelaatbare diepgang tijdens de reis;  
+k. *hoogst gelegen lastlijn:* de lastlijn behorende bij de maximum toelaatbare diepgang tijdens de reis;  
 
-j. *werkdek:* in het algemeen het doorlopende blootgestelde dek van waar de visserij wordt uitgeoefend, maar bij vaartuigen met twee of meer doorlopende dekken kan het Hoofd van de Scheepvaartinspectie toestaan dat een lager dek als werkdek wordt aangemerkt mits dit dek is gelegen boven de hoogst gelegen lastlijn;  
+l. *werkdek:* in het algemeen het doorlopende blootgestelde dek van waar de visserij wordt uitgeoefend, maar bij vaartuigen met twee of meer doorlopende dekken kan het Hoofd van de Scheepvaartinspectie toestaan dat een lager dek als werkdek wordt aangemerkt mits dit dek is gelegen boven de hoogst gelegen lastlijn;  
 
-k. *bovenbouw:* de overdekte constructie op het werkdek, die zich van boord tot boord uitstrekt of waarvan de afstand van de zijbeplating tot elk boord niet groter is dan 4% van de breedte;  
+m. *bovenbouw:* de overdekte constructie op het werkdek, die zich van boord tot boord uitstrekt of waarvan de afstand van de zijbeplating tot elk boord niet groter is dan 4% van de breedte;  
 
-l. *gesloten bovenbouw:* een bovenbouw waarvan: 
+n. *gesloten bovenbouw:* een bovenbouw waarvan: 
 
 1°. de eindschotten voldoende sterk zijn,  
 
@@ -74,15 +78,15 @@ l. *gesloten bovenbouw:* een bovenbouw waarvan:
 
 4°. afzonderlijke toegangen voor de bemanning naar de binnen een brughuis of een kampanje gelegen voortstuwingsruimten en andere werkruimten te allen tijde kunnen worden gebruikt wanneer de openingen in de schotten zijn gesloten;    
 
-m. *opbouwdek:* het doorlopende dek of dekgedeelte dat de bovenkant van een bovenbouw, dekhuis of andere opbouw vormt en dat ten minste 1,80 m boven het werkdek ligt. In gevallen waarin de hoogte minder is dan 1,80 m wordt de bovenkant van zulk een bovenbouw, dekhuis of andere opbouw gelijkgesteld met het werkdek;  
+o. *opbouwdek:* het doorlopende dek of dekgedeelte dat de bovenkant van een bovenbouw, dekhuis of andere opbouw vormt en dat ten minste 1,80 m boven het werkdek ligt. In gevallen waarin de hoogte minder is dan 1,80 m wordt de bovenkant van zulk een bovenbouw, dekhuis of andere opbouw gelijkgesteld met het werkdek;  
 
-n. *hoogte van een bovenbouw, dekhuis of andere opbouw:* de kleinste verticale hoogte, gemeten in de zijde vanaf de bovenkant van de balken van het opbouwdek tot de bovenkant van de balken van het werkdek;  
+p. *hoogte van een bovenbouw, dekhuis of andere opbouw:* de kleinste verticale hoogte, gemeten in de zijde vanaf de bovenkant van de balken van het opbouwdek tot de bovenkant van de balken van het werkdek;  
 
-o. *dicht tegen weer en wind:* zodanig dicht dat onder alle omstandigheden die zich op zee kunnen voordoen, geen water in het vaartuig kan binnendringen;  
+q. *dicht tegen weer en wind:* zodanig dicht dat onder alle omstandigheden die zich op zee kunnen voordoen, geen water in het vaartuig kan binnendringen;  
 
-p. *waterdicht:* het vermogen van de constructie om het doorlaten van water in enige richting te voorkomen bij een waterdruk waartegen de omgevende constructie volgens het ontwerp bestand is;  
+r. *waterdicht:* het vermogen van de constructie om het doorlaten van water in enige richting te voorkomen bij een waterdruk waartegen de omgevende constructie volgens het ontwerp bestand is;  
 
-q. *aanvaringsschot:* een waterdicht schot dat in het voorste deel van het vissersvaartuig tot het werkdek is opgetrokken en dat voldoet aan de volgende voorwaarden: 
+s. *aanvaringsschot:* een waterdicht schot dat in het voorste deel van het vissersvaartuig tot het werkdek is opgetrokken en dat voldoet aan de volgende voorwaarden: 
 
 1°. het schot is zodanig geplaatst dat de afstand tot de voorloodlijn: 
 
@@ -96,17 +100,17 @@ q. *aanvaringsschot:* een waterdicht schot dat in het voorste deel van het visse
 
 3°. indien het aanvaringsschot is voorzien van trapsgewijze sprongen of nissen, vallen deze binnen de beperkingen, bedoeld onder 1°;    
 
-r. *klassebureau:* een natuurlijke persoon of rechtspersoon, aangewezen krachtens [artikel 6, tweede lid, van de wet](../../../../rijkswet/schepenwet/BWBR0001876/README.md);  
+t. *klassebureau:* een natuurlijke persoon of rechtspersoon, aangewezen krachtens [artikel 6, tweede lid, van de wet](../../../../rijkswet/schepenwet/BWBR0001876/README.md);  
 
-s. *IMO:* de Internationale Maritieme Organisatie van de Verenigde Naties;  
+u. *IMO:* de Internationale Maritieme Organisatie van de Verenigde Naties;  
 
-t. *schipper:* de kapitein of gezagvoerder van een vaartuig of degene die deze vervangt.    
+v. *schipper:* de kapitein of gezagvoerder van een vaartuig of degene die deze vervangt.    
 
 ### Artikel  1.2  
 
 ####Reikwijdte
 
-1.  Dit besluit is van toepassing op nieuwe en, voorzover uitdrukkelijk bepaald, bestaande vissersvaartuigen die zijn uitgerust of met commercieel oogmerk gebruikt worden voor het vangen van vis of andere levende rijkdommen van de zee, en waarvan de lengte 24 meter of meer bedraagt.   
+1.  Dit besluit is, met uitzondering van de artikelen 1.15 en 12.1, van toepassing op nieuwe en, voor zover uitdrukkelijk bepaald, bestaande vissersvaartuigen die zijn uitgerust of met commercieel oogmerk gebruikt worden voor het vangen van vis of andere levende rijkdommen van de zee, en waarvan de lengte 24 meter of meer bedraagt.   
 2.  De normen voor het ontwerp, de bouw en het onderhoud van de romp, de hoofdmachines en hulpwerktuigen, alsmede de elektrische en automatische systemen van een vissersvaartuig zijn de voorschriften die op dat vaartuig van toepassing waren ten tijde van de bouw.   
 3.  Dit besluit is niet van toepassing op pleziervaartuigen die niet-commerciële visserij beoefenen.   
 
@@ -137,11 +141,19 @@ Met een goedkeuring door het Hoofd van de Scheepvaartinspectie wordt gelijkgeste
 
 ### Artikel  1.7  
 
-####Klassebureaus
+####Klassenregels
 
-1.  Voordat een eerste onderzoek als bedoeld in artikel 1.12, eerste lid, plaatsvindt, kiest de eigenaar of de bouwer van een vissersvaartuig voor de regels van een bepaald klassebureau of voor de regels die door de Scheepvaartinspectie worden gebruikt.   
-2.  Bij onderzoeken als bedoeld in artikel 1.12 voldoet een vissersvaartuig met betrekking tot het ontwerp, de bouw en het onderhoud van de romp, de hoofdmachines en hulpwerktuigen alsmede de elektrische en automatische systemen, aan de regels van een krachtens het eerste lid gekozen klassebureau, of aan de regels die door de Scheepvaartinspectie worden gebruikt, voorzover deze regels niet in strijd zijn met het bepaalde bij of krachtens dit besluit.   
-3.  Het Hoofd van de Scheepvaartinspectie kan onderzoeken die zijn verricht door een klassebureau gelijkstellen met onderzoeken die zijn verricht door een ambtenaar van de Scheepvaartinspectie.   
+1.  Onze Minister wijst instanties aan waarvan de regels kunnen gelden als eisen als bedoeld in [artikel 3a, eerste lid, van de wet](../../../../rijkswet/schepenwet/BWBR0001876/README.md).   
+2.  Voordat een eerste onderzoek als bedoeld in artikel 1.12, eerste lid, plaatsvindt, kiest de eigenaar of de bouwer van een vissersvaartuig voor de regels van een ingevolge het eerste lid aangewezen instantie of voor de regels die door de Scheepvaartinspectie worden gebruikt.   
+3.  Bij onderzoeken als bedoeld in artikel 1.12 voldoet een vissersvaartuig met betrekking tot het ontwerp, de bouw en het onderhoud van de romp, de hoofdmachines en hulpwerktuigen alsmede de elektrische en automatische systemen, aan de regels van een ingevolge het eerste lid aangewezen instantie, of aan de regels die door de Scheepvaartinspectie worden gebruikt, voor zover deze regels niet in strijd zijn met het bepaalde bij of krachtens dit besluit.   
+
+### Artikel  1.7a  
+
+####Aanwijzing natuurlijke personen of rechtspersonen
+
+1.  Onze Minister wijst de natuurlijke personen en rechtspersonen aan die zijn belast met de door hem aan te geven, in het kader van de onderzoeken, bedoeld in artikel 1.12, te verrichten taken.   
+2.  Een ingevolge het eerste lid aangewezen natuurlijke persoon of rechtspersoon is, indien bij een onderzoek gebreken aan het vissersvaartuig of zijn uitrusting worden geconstateerd, bevoegd om herstel van deze gebreken te vorderen.   
+3.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze waarop de ingevolge het eerste lid aangewezen natuurlijke personen of rechtspersonen hun taken uitoefenen.   
 
 ### Artikel  1.8  
 
@@ -213,8 +225,7 @@ Nadat een onderzoek als bedoeld in artikel 1.12 is beëindigd:
 
 ####Uitvoering van communautaire voorschriften
 
-1.  Bij ministeriële regeling kunnen regels worden gesteld die strekken ter uitvoering van bindende besluiten van de Raad van de Europese Unie, van het Europees Parlement en de Raad van de Europese Unie gezamenlijk of van de Commissie van de Europese Gemeenschappen, genomen krachtens artikel 8 van richtlijn nr. 97/70/EG van de Raad van de Europese Unie van 11 december 1997 betreffende de invoering van een geharmoniseerde veiligheidsregeling voor vissersvaartuigen waarvan de lengte 24 m of meer bedraagt (PbEG L 1998, 34).   
-2.  In een regeling als bedoeld in het eerste lid kan worden bepaald dat de regels alleen van toepassing zijn op vissersvaartuigen die dienstdoen in wateren van het Europese deel van Nederland of hun vangst aan land brengen in een haven in het Europese deel van Nederland.   
+Ter uitvoering van een besluit van een of meer van de instellingen van de Europese Unie alleen of gezamenlijk betreffende de veiligheid van in de lidstaten van de Europese Unie geregistreerde vissersvaartuigen en vissersvaartuigen in Europese wateren onder de jurisdictie van de lidstaten van de Europese Unie kunnen bij ministeriële regeling regels worden gesteld.  
 
 ### Hoofdstuk  2  
 
@@ -410,7 +421,7 @@ b.
 
 ####Toepasselijkheid van de artikelen 2.16 , 2.17  en 2.18 
 
-De artikelen 2.16, 2.17 en 2.18 zijn slechts van toepassing op vissersvaartuigen die dienst doen in Nederlandse wateren of hun vangst aan land brengen in een Nederlandse haven.  
+De artikelen 2.16, 2.17, 2.18 zijn slechts van toepassing op Nederlandse vissersvaartuigen.  
 
 ### Hoofdstuk  3  
 
@@ -514,7 +525,7 @@ b. uitgerust met middelen voor het verwijderen van ijs ten genoegen van het Hoof
 1.  Elk vissersvaartuig wordt na voltooiing aan een hellingproef onderworpen, waarbij het werkelijke gewicht en de ligging van het zwaartepunt worden bepaald voor de toestand van het lege vaartuig.   
 2.  Indien een vissersvaartuig wijzigingen heeft ondergaan die van invloed kunnen zijn op de toestand van het lege vaartuig en de ligging van het zwaartepunt, wordt het vaartuig, indien het Hoofd van de Scheepvaartinspectie van oordeel is dat dit noodzakelijk is, opnieuw aan een hellingproef onderworpen en worden de stabiliteitsgegevens herzien.   
 3.  Het Hoofd van de Scheepvaartinspectie kan ontheffing verlenen van de eis van de hellingproef van een individueel vaartuig indien de basisstabiliteitsgegevens beschikbaar zijn van de hellingproef van een zusterschip en ten genoegen van het Hoofd van de Scheepvaartinspectie is aangetoond dat betrouwbare gegevens betreffende de stabiliteit vanuit dergelijke basisgegevens kan worden verkregen voor het vaartuig dat van de hellingproef is uitgezonderd.   
-4.  Voor schepen die dienstdoen in Nederlandse wateren of die hun vangst in een Nederlandse haven aan land brengen vinden de hellingproef en de vaststelling van de voorwaarden, bedoeld in het eerste lid, ten minste om de tien jaar plaats.   
+4.  Voor Nederlandse vissersvaartuigen vinden de hellingproef en de vaststelling van de voorwaarden, bedoeld in het eerste lid, ten minste om de tien jaar plaats.   
 
 ### Artikel  3.10  
 
@@ -560,7 +571,7 @@ Van een vissersvaartuig waarvan de lengte 100 m of meer bedraagt en met 100 of 
 
 ####Toepassing
 
-Dit hoofdstuk is van toepassing op vissersvaartuigen met een lengte van 45 m of meer en op nieuwe vissersvaartuigen met een lengte van 24 m of meer die dienstdoen in Nederlandse wateren of hun vangst aan land brengen in een Nederlandse haven.  
+Dit hoofdstuk is van toepassing op vissersvaartuigen met een lengte van 45 meter of meer en op nieuwe Nederlandse vissersvaartuigen met een lengte van 24 meter of meer.  
 
 ### Artikel  4.2  
 
@@ -713,7 +724,7 @@ b. Waar dit noodzakelijk is, zijn brandstofolie- en smeerolieleidingen, voor zov
 8.  Voor zover dit praktisch uitvoerbaar is, maken de brandstofolietanks deel uit van de scheepsconstructie en zijn buiten de ruimten voor machines van categorie A als bedoeld in artikel 5.2, veertiende lid, gelegen. Wanneer brandstofolietanks, geen dubbele-bodemtanks zijnde, noodzakelijkerwijze naast of in ruimten voor machines van categorie A gelegen zijn, valt ten minste één van hun verticale zijden samen met de begrenzingwanden van de ruimte voor machines en hebben zij bij voorkeur een gemeenschappelijke begrenzingwand met dubbele-bodemtanks indien deze zijn aangebracht. De oppervlakte van de begrenzingwand tussen de tank en de ruimte voor machines is zo klein mogelijk. Wanneer dergelijke tanks gelegen zijn binnen de begrenzingwanden van ruimten voor machines van categorie A, mogen zij geen brandstofolie bevatten met een vlampunt dat lager is dan 60°C. Het gebruik van vrijstaande brandstofolietanks in brandgevaarlijke ruimten en in het bijzonder in ruimten voor machines van categorie A is in het algemeen niet toegestaan. Het Hoofd van de Scheepvaartinspectie kan echter de toepassing van vrijstaande brandstofolietanks toestaan. In dat geval zijn zij geplaatst in een lekbak van ruime afmetingen welke is voorzien van een afvoerleiding van voldoende afmetingen, welke naar een lekolietank leidt met voldoende capaciteit.   
 9.  De ventilatie van ruimten voor machines is onder alle bedrijfsomstandigheden voldoende om opeenhoping van oliedampen te voorkomen.   
 10.  De inrichtingen voor de opslag, verdeling en het gebruik van olie voor smeeroliesystemen onder druk zijn ten genoegen van het Hoofd van de Scheepvaartinspectie. Indien deze inrichtingen zijn aangebracht in ruimten voor machines van categorie A als bedoeld in artikel 5.2, veertiende lid en, indien praktisch uitvoerbaar, in andere ruimten voor machines, voldoen zij ten minste aan het eerste, derde, zesde en zevende lid en, voorzover dit naar het oordeel van het Hoofd van de Scheepvaartinspectie noodzakelijk is, aan het tweede en vierde lid. Het gebruik van kijkglazen in smeeroliesystemen is toegestaan mits door middel van een proef is aangetoond dat zij in voldoende mate brandbestendig zijn.   
-11.  De inrichtingen voor de opslag, verdeling en het gebruik van ontvlambare oliën die onder druk worden toegepast in hydraulische systemen voor het overbrengen van vermogen en die geen oliën zijn als bedoeld in het voorgaande lid, alsmede van oliën die worden gebruikt in bedienings-, bekrachtigings- en verwarmingssystemen, zijn ten genoegen van het Hoofd van de Scheepvaartinspectie. Op plaatsen waar ontstekingsbronnen aanwezig zijn, voldoen dergelijke inrichtingen ten minste aan het tweede en zesde lid en ten aanzien van sterkte en constructie aan het derde, zevende en achtste lid.   
+11.  De inrichtingen voor de opslag, verdeling en het gebruik van ontvlambare oliën die onder druk worden toegepast in hydraulische systemen voor het overbrengen van vermogen en die geen oliën zijn als bedoeld in het voorgaande lid, alsmede van oliën die worden gebruikt in bedienings-, bekrachtigings- en verwarmingssystemen, zijn ten genoegen van het Hoofd van de Scheepvaartinspectie. Op plaatsen waar ontstekingsbronnen aanwezig zijn, voldoen dergelijke inrichtingen ten minste aan het tweede en zesde lid en ten aanzien van sterkte en constructie aan het derde en zevende lid.   
 12.  Voorpiektanks bevatten geen brandstofolie, smeerolie of andere ontvlambare oliën.   
 
 ### Artikel  4.11  
@@ -755,7 +766,7 @@ Bij ministeriële regeling kunnen maatregelen worden getroffen om geluidhinder i
 7.  Het vermogen en de uitvoering van de hoofdstuurinrichting zijn zodanig dat het roer van 35° uitslag aan een zijde naar 35° uitslag aan de andere zijde kan worden bewogen wanneer het vaartuig zich bij maximum toelaatbare diepgang, met maximum dienstsnelheid vooruit beweegt. Het roer kan onder deze omstandigheden van 35° uitslag aan één zijde in niet meer dan 28 seconden naar 30° uitslag aan de andere zijde worden bewogen. Zonodig dient de hoofdstuurinrichting werktuiglijk te kunnen worden bewogen teneinde aan deze eisen te voldoen.   
 8.  Het krachtwerktuig voor de hoofdstuurinrichting wordt hetzij handmatig vanuit het stuurhuis in werking gesteld, hetzij automatisch in werking gesteld zodra de energievoorziening, na te zijn uitgevallen, weer is hersteld.   
 9.  De hulpstuurinrichting is voldoende sterk gebouwd en is geschikt voor de besturing van het vaartuig bij een snelheid, waarbij het nog manoeuvreerbaar is en is voorts ingericht om in noodgevallen snel in werking te kunnen worden gebracht.   
-10.  De hulpstuurinrichting is geschikt om het roer in niet meer dan 60 seconden van 15° uitslag aan een zijde te bewegen naar 15° uitslag aan de andere zijde, bij een snelheid vooruit welke maximaal of de helft van de maximum dienstsnelheid of 7 mijl per uur bedraagt, afhankelijk van welke van de twee waarden het grootst is. De hulpstuurinrichting kan werktuiglijk worden bewogen voorzover dit nodig is om aan deze eisen te kunnen voldoen. Ten aanzien van vaartuigen die dienstdoen in Nederlandse wateren of die hun vangst aan land brengen in een Nederlandse haven geldt dat in geval van elektrische aandrijving de noodkrachtbron in staat is om de hulpstuurinrichting gedurende ten minste 10 minuten te bedienen.   
+10.  De hulpstuurinrichting is geschikt om het roer in niet meer dan 60 seconden van 15° uitslag aan een zijde te bewegen naar 15° uitslag aan de andere zijde, bij een snelheid vooruit welke maximaal of de helft van de maximum dienstsnelheid of 7 mijl per uur bedraagt, afhankelijk van welke van de twee waarden het grootst is. De hulpstuurinrichting kan werktuiglijk worden bewogen voorzover dit nodig is om aan deze eisen te kunnen voldoen. Ten aanzien van Nederlandse vissersvaartuigen geldt dat in geval van elektrische aandrijving de noodkrachtbron in staat is om de hulpstuurinrichting gedurende ten minste 10 minuten te bedienen.   
 11.  Aan boord van een vaartuig met een lengte van 75 m of meer wordt de elektrische of elektrisch-hydraulische stuurinrichting bediend door ten minste twee stroomkringen, gevoed vanaf het hoofdschakelbord. De stroomkringen zijn over hun gehele lengte, zover als praktisch mogelijk is, van elkaar verwijderd aangebracht.   
 
 ### Artikel  4.14  
@@ -806,7 +817,7 @@ d. Indien transformatoren een essentieel onderdeel vormen van de stroomvoorzieni
 a. De hoofdverlichtingsinstallatie is zodanig ingericht dat een brand of ander ongeval in de ruimte of ruimten waarin de elektrische hoofdkrachtbron inclusief eventuele transformatoren is opgesteld, niet de noodverlichtingsinstallatie buiten werking zal stellen.  
 
 b. De noodverlichtingsinstallatie is zodanig ingericht dat een brand of ander ongeval in de ruimte of ruimten waarin de elektrische noodkrachtbron inclusief eventuele transformatoren is opgesteld, niet de hoofdverlichtingsinstallatie buiten werking zal stellen.     
-3.  Ten aanzien van vaartuigen die dienstdoen in Nederlandse wateren of die hun vangst aan land brengen in een Nederlandse haven geldt dat de navigatielichten, indien zij alleen op elektrische stroom werken, worden gevoed via een apart schakelbord en er adequate controlevoorzieningen voor die lichten worden geïnstalleerd.   
+3.  Ten aanzien van Nederlandse vissersvaartuigen geldt dat de navigatielichten, indien zij alleen op elektrische stroom werken, worden gevoed via een apart schakelbord en er adequate controlevoorzieningen voor die lichten worden geïnstalleerd.   
 
 ### Artikel  4.17  
 
@@ -837,7 +848,7 @@ c. de navigatielichten, indien deze alleen elektrisch zijn uitgevoerd, en de noo
 
 5°. in visverwerkingruimten, en    
 
-d. de bediening van de noodbrandbluspomp, indien deze aanwezig is.   Ten aanzien van vaartuigen die dienstdoen in Nederlandse wateren of die hun vangst aan land brengen in een Nederlandse haven geldt dat de elektrische noodkrachtbron op vaartuigen met een lengte van 45 m of meer gedurende ten minste 8 uur stroom kan leveren voor de in dit artikel vermelde installaties.   
+d. de bediening van de noodbrandbluspomp, indien deze aanwezig is.   Ten aanzien van Nederlandse vissersvaartuigen geldt dat de elektrische noodkrachtbron op vissersvaartuigen met een lengte van 45 meter of meer gedurende ten minste 8 uur stroom kan leveren voor de in dit artikel vermelde installaties.   
 3.  De elektrische noodkrachtbron kan een generator of een accumulatorenbatterij zijn.   
 4.  
 
@@ -1562,7 +1573,7 @@ b. een voldoende aantal draagbare schuimbrandblustoestellen of daaraan gelijkwaa
 4.  Indien er naar het oordeel van het Hoofd van de Scheepvaartinspectie brandgevaar aanwezig is in ruimten voor machines ten aanzien waarvan geen bepaalde voorschriften omtrent brandblusmiddelen zijn gegeven in het eerste, tweede en derde lid, zijn in of dicht bij deze ruimten een zodanig aantal brandblustoestellen of andere brandblusmiddelen opgesteld als door hem voldoende wordt geacht.   
 5.  Een vast aangebrachte brandblusinstallatie die niet in dit hoofdstuk wordt voorgeschreven, is ten genoegen van het Hoofd van de Scheepvaartinspectie.   
 6.  Voor een ruimte voor machines van categorie A die op een laag niveau toegankelijk is vanuit een aangrenzende schroefastunnel, is, behalve een waterdichte deur aan de van deze ruimte voor machines afgekeerde zijde, een lichte stalen brandwerende deur aangebracht die aan beide zijden geopend kan worden.   
-7.  Ten aanzien van vaartuigen die dienstdoen in Nederlandse wateren of die hun vangst aan land brengen in een Nederlandse haven geldt dat alle machineruimten van categorie A zijn uitgerust met een vast aangebrachte brandblusinrichting.   
+7.  Ten aanzien van Nederlandse vissersvaartuigen geldt dat alle machineruimten van categorie A zijn uitgerust met een vast aangebrachte brandblusinrichting.   
 
 ### Artikel  5.23  
 
@@ -1744,14 +1755,14 @@ Op vissersvaartuigen waar het Hoofd van de Scheepvaartinspectie op grond van het
 
 a. één werktuiglijke pomp die voor de aandrijving niet afhankelijk is van het hoofdwerktuig of  
 
-b. één werktuiglijke pomp die door het hoofdwerktuig wordt aangedreven, onder voorwaarde dat de schroefas is voorzien van een uitschakelbare koppeling, of van een verstelbare schroef.   Ongeacht het bepaalde onder a en b zijn er op vissersvaartuigen die dienstdoen in Nederlandse wateren dan wel hun vangst aan land brengen in een Nederlandse haven te allen tijde ten minste twee brandbluspompen aanwezig.   
+b. één werktuiglijke pomp die door het hoofdwerktuig wordt aangedreven, onder voorwaarde dat de schroefas is voorzien van een uitschakelbare koppeling, of van een verstelbare schroef.   Ongeacht het bepaalde onder a en b zijn er op Nederlandse vissersvaartuigen te allen tijde ten minste twee brandbluspompen aanwezig.   
 2.  Sanitair-, ballast-, lens-, algemene dienstpompen of andere pompen mogen als brandbluspompen worden gebruikt indien zij voldoen aan het gestelde in dit hoofdstuk en, bij gebruik van deze pompen als brandbluspomp, de lenscapaciteit van het vaartuig hierdoor niet wordt beïnvloed. Brandbluspompen zijn zo aangesloten dat het niet mogelijk is hiermee olie of andere brandbare vloeistoffen te verpompen.   
 3.  Bij centrifugaalpompen of andere op de brandblusleiding aangesloten pompen waarbij het mogelijk is dat het water door de pomp kan terugstromen, is in de persleiding een terugslagklep aangebracht.   
 4.  Vissersvaartuigen die niet zijn uitgerust met een werktuiglijk bediende noodbrandbluspomp en zonder een vast aangebrachte brandblusinstallatie in de ruimten voor machines zijn ten genoegen van het Hoofd van de Scheepvaartinspectie voorzien van aanvullende brandblusmiddelen.   
 5.  Werktuiglijk bediende noodbrandbluspompen, indien aangebracht, zijn onafhankelijk gedreven, op zich zelf staande pompen die zijn uitgerust met een eigen aandrijfwerktuig en brandstoftoevoer en die zijn opgesteld op een toegankelijke plaats buiten de ruimte waarin de hoofdbrandbluspompen zijn ondergebracht of worden aangedreven door een op zich zelf staande generator, die de noodgenerator mag zijn, die van voldoende capaciteit is en op een veilige plaats buiten de machinekamer is opgesteld, bij voorkeur boven het werkdek.   
 6.  Voor elke noodbrandbluspomp, indien aangebracht, kunnen de pomp, zee-inlaatafsluiters en andere noodzakelijke afsluiters worden bediend vanaf een plaats die is gelegen buiten de ruimten waarin de hoofdbrandbluspompen zijn ondergebracht. Deze plaats is zodanig dat het niet waarschijnlijk is dat zij in geval van brand in de bedoelde ruimten onbereikbaar wordt.   
 7.  De totale capaciteit (Q) van de werktuiglijk bediende hoofdbrandbluspompen is ten minste gelijk aan: Q = [0,15 √{L(B+D)} + 2,25] <sup>2</sup>  m <sup>2</sup> per uur, waarbij L, B en D in meters zijn uitgedrukt.   
-8.  Indien twee onafhankelijk werktuiglijk bediende brandbluspompen zijn aangebracht, mag de capaciteit van elke pomp niet minder zijn dan 40 percent van de vereiste capaciteit volgens het bepaalde in het zevende lid of 25m <sup>2</sup> per uur, waarbij voor vissersvaartuigen die dienstdoen in Nederlandse wateren dan wel hun vangst aan land brengen in een Nederlandse haven de hoogste waarde bepalend is.   
+8.  Indien twee onafhankelijk werktuiglijk bediende brandbluspompen zijn aangebracht, mag de capaciteit van elke pomp niet minder zijn dan 40 percent van de vereiste capaciteit volgens het bepaalde in het zevende lid of 25m <sup>2</sup> per uur, waarbij voor Nederlandse vissersvaartuigen de hoogste waarde bepalend is.   
 9.  Wanneer hoofdbrandbluspompen de volgens de in het zevende lid vereiste opbrengst leveren aan de hoofdbrandblusleiding, brandslangen en straalpijpen mag de druk bij elke brandkraan niet minder zijn dan 0,25 N/mm <sup>2</sup>.   
 10.  Indien werktuiglijk aangedreven noodbrandbluspompen de maximum opbrengst leveren met de straal water volgens het bepaalde in artikel 5.37, eerste lid, is de druk bij elke brandkraan ten genoegen van het Hoofd van de Scheepvaartinspectie.   
 
@@ -1801,7 +1812,7 @@ b. één werktuiglijke pomp die door het hoofdwerktuig wordt aangedreven, onder 
 
 1.  
 
-a. Ten genoegen van het Hoofd van de Scheepvaartinspectie zijn ruimten waarin oliegestookte ketels, oliestookinrichtingen of verbrandingsmotoren of gasturbines zijn opgesteld waarbij deze werktuigen tezamen een totaal vermogen hebben van niet minder dan 750 kW dan wel, voor vissersvaartuigen die dienstdoen in Nederlandse wateren dan wel hun vangst aan land brengen in een Nederlandse haven, 375 kW, voorzien van één van de volgende vast aangebrachte brandblusinstallaties: 
+a. Ten genoegen van het Hoofd van de Scheepvaartinspectie zijn ruimten waarin oliegestookte ketels, oliestookinrichtingen of verbrandingsmotoren of gasturbines zijn opgesteld waarbij deze werktuigen tezamen een totaal vermogen hebben van niet minder dan 750 kW dan wel, voor Nederlandse vissersvaartuigen, 375 kW, voorzien van één van de volgende vast aangebrachte brandblusinstallaties: 
 
 1°. een sproei-installatie voor water onder druk,  
 
@@ -1818,7 +1829,7 @@ c. Indien machinekamers en ketelruimen niet volkomen van elkaar zijn gescheiden 
 3.  Op vaartuigen die geheel of gedeeltelijk zijn vervaardigd van hout of kunststof en waarin oliegestookte ketels, verbrandingsmotoren of gasturbines zijn opgesteld en waarvan de ruimten voor machines zijn omgeven door schotten of dekken van dergelijke materialen, zijn deze ruimten voorzien van een vast aangebrachte brandblusinstallatie zoals voorgeschreven in het eerste lid.   
 4.  In elke ruimte voor machines van categorie A zijn ten minste twee draagbare brandblustoestellen aanwezig van een type dat geschikt is voor het blussen van branden waarbij brandstofolie is betrokken. Indien in dergelijke ruimten werktuigen zijn opgesteld met een totaal vermogen van niet minder dan 250 kW, zijn ten minste drie van dergelijke brandblustoestellen aanwezig. Een van de brandblustoestellen is nabij de toegang tot die ruimte geplaatst.   
 5.  Vissersvaartuigen met ruimten voor machines die niet zijn beschermd door een vast aangebrachte brandblusinstallatie zijn voorzien van een schuimbrandblustoestel met een inhoud van ten minste 45 liter of een daarmee gelijkwaardig brandblustoestel dat geschikt is voor het blussen van oliebranden. Indien deze bepaling door de afmetingen van de ruimten voor machines praktisch niet uitvoerbaar is, kan het Hoofd van de Scheepvaartinspectie toestaan dat een aanvullend aantal draagbare brandblustoestellen wordt opgesteld.   
-6.  Op vissersvaartuigen die dienstdoen in Nederlandse wateren dan wel hun vangst aan land brengen in een Nederlandse haven zijn alle ruimten voor machines van categorie A uitgerust met een vast aangebrachte brandblusinstallatie.   
+6.  Op Nederlandse vissersvaartuigen zijn alle ruimten voor machines van categorie A uitgerust met een vast aangebrachte brandblusinstallatie.   
 
 ### Artikel  5.41  
 
@@ -1981,7 +1992,7 @@ c. voldoen aan bij ministeriële regeling te stellen nadere eisen inzake symbole
 
 ####Toepassing
 
-Dit hoofdstuk is van toepassing op vissersvaartuigen met een lengte van 45 meter of meer en op nieuwe vissersvaartuigen met een lengte van 24 meter of meer die dienstdoen in Nederlandse wateren of hun vangst aan land brengen in een Nederlandse haven.  
+Dit hoofdstuk is van toepassing op vissersvaartuigen met een lengte van 45 meter of meer en op nieuwe Nederlandse vissersvaartuigen met een lengte van 24 meter of meer.  
 
 ### Artikel  7.2  
 
@@ -3534,7 +3545,7 @@ l. maatregelen die genomen dienen te worden bij het blussen van brand, zoals:
 
 ####Toepassing
 
-1.  Tenzij anders bepaald is dit hoofdstuk van toepassing op vissersvaartuigen met een lengte van 45 m of meer en op nieuwe vissersvaartuigen met een lengte van 24 meter of meer die dienst doen in Nederlandse wateren dan wel hun vangst aan land brengen in een Nederlandse haven.   
+1.  Tenzij anders is bepaald is dit hoofdstuk van toepassing op vissersvaartuigen met een lengte van 45 meter of meer en op nieuwe Nederlandse vissersvaartuigen met een lengte van 24 meter of meer.   
 2.  Niets in dit hoofdstuk staat eraan in de weg dat een vaartuig, een groepsreddingsmiddel of een persoon in nood elk beschikbaar middel gebruikt om aandacht te trekken, zijn positie kenbaar te maken of hulp te krijgen.   
 
 ### Artikel  9.2  
@@ -4279,9 +4290,13 @@ De eigenaar van een vaartuig is verplicht aan de schipper de middelen te verscha
 
 ### Hoofdstuk  12  
 
-####Voorschriften voor visservaartuigen kleiner dan 24 m
+####Voorschriften voor vissersvaartuigen kleiner dan 24 m
 
-(gereserveerd)  
+### Artikel  12.1  
+
+####Algemene bepaling
+
+Bij ministeriële regeling kunnen regels worden gesteld over de veiligheid van vissersvaartuigen met een lengte van minder dan 24 meter.  
 
 ### Hoofdstuk  13  
 

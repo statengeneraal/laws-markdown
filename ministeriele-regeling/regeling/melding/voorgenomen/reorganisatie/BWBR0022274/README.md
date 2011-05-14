@@ -8,8 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Het bevoegd gezag bedoeld in [artikel 1, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), meldt een voorgenomen besluit tot reorganisatie tijdig bij de Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
-2.  Het bevoegd gezag neemt bij de melding de procedure zoals vervat in Bijlage 1 bij deze regeling in acht.   
+Het bevoegd gezag neemt bij de melding, zoals bedoeld in [artikel 55j, eerste lid, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), de procedure zoals vervat in Bijlage 1 bij deze regeling in acht.  
 
 ### Artikel  2  
 
@@ -18,6 +17,10 @@ Besluit:
 3.  Ter voorbereiding van het overleg wordt door de Minister van Binnenlandse Zaken en Koninkrijksrelaties een Adviescommissie melding voorgenomen reorganisatie ingesteld.   
 4.  Zo nodig zal ten behoeve van het in lid 1, bedoelde overleg op verzoek van voornoemde Commissie voor georganiseerd overleg in politie-ambtenarenzaken door of namens het bevoegd gezag nadere mondelinge toelichting worden gegeven op reeds verstrekte informatie.   
 
+### Artikel  2a  
+
+In afwijking van artikel 2, indien een voorgenomen reorganisatie voor 20 of minder ambtenaren wijziging van de rechtspositie tot gevolgen heeft, adviseert de Adviescommissie, bedoeld in artikel 2, derde lid, de Minister van Veiligheid en Justitie over het verzoek, als bedoeld in [artikel 5, tweede lid, van de Regeling landelijk sociaal statuut](../../../../../../ministeriele-regeling/regeling/landelijk/sociaal/statuut/politie/BWBR0029961/README.md), van het bevoegd gezag om het instellen van een plaatsingsadviescommissie, bedoeld in artikel 5, eerste lid, van de Regeling landelijk sociaal statuut, achterwege te laten.  
+
 ### Artikel  3  
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties brengt het in artikel 1 bedoelde bevoegd gezag op de hoogte van de uitkomsten van het overleg bedoeld in artikel 2.  
@@ -25,6 +28,10 @@ De Minister van Binnenlandse Zaken en Koninkrijksrelaties brengt het in artikel 
 ### Artikel  4  
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+
+### Artikel  4a  
+
+Deze regeling berust op [artikel 55u Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md).  
 
 ### Artikel  5  
 

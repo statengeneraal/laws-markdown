@@ -602,11 +602,7 @@ De kapitein van een schip waarvoor een veiligheidscertificaat, behorende bij de 
 
 a. voor in Nederland geregistreerde schepen: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, in overeenstemming met Onze Ministers van Algemene Zaken en van Justitie;  
 
-b. voor in Curaçao geregistreerde schepen: Onze Minister van Algemene Zaken en Buitenlandse Betrekkingen van Curaçao, in overeenstemming met Onze Minister van Verkeer en Vervoer van Curaçao;  
-
-c. voor in Aruba geregistreerde schepen: Onze Minister van Toerisme en Transport van Aruba, op voorstel van Onze Ministers van Algemene Zaken en van Justitie van Aruba;  
-
-d. voor in Sint Maarten geregistreerde schepen: Onze Minister van Toerisme, Economische Zaken, Vervoer en Telecommunicatie in overeenstemming met Onze Minister van Algemene Zaken van Sint Maarten.     
+b. voor in Aruba, Curaçao onderscheidenlijk Sint Maarten geregistreerde schepen: de minster van Aruba, Curaçao onderscheidenlijk Sint Maarten belast met het beleidsterrein scheepvaart.     
 
 ### Artikel  64  
 
@@ -657,11 +653,17 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekkin
 
 ####Slotbepalingen
 
+### Artikel  69a  
+
+####Strafbaarstelling
+
+Gedragingen in strijd met het bepaalde in de artikelen 61, 64, 66, 67 en 68 alsmede gedragingen in strijd met het bepaalde krachtens artikel 65 zijn strafbare feiten.  
+
 ### Artikel  70  
 
 ####Bekendmaking van Codes
 
-1.  Onze Minister draagt zorg voor de bekendmaking van de op grond van dit besluit toepasselijke Codes.   
+1.  Onze Minister draagt zorg voor de bekendmaking van de op grond van dit besluit toepasselijke Codes, voor zover bekendmaking daarvan niet geschiedt in het Tractatenblad.   
 2.  Van de wijze van bekendmaking wordt mededeling gedaan in de Staatscourant, de Landscourant van Aruba, de Curaçaose Courant en de Landscourant van Sint Maarten.   
 
 ### Artikel  71  
