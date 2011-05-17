@@ -10,7 +10,7 @@ Besluit:
 
 In deze beleidsregels wordt verstaan onder: 
 
-a. *de Minister:* de Minister van Justitie;  
+a. *de Minister:* de Minister van Veiligheid en Justitie;  
 
 b. *preventieve maatregelen:* maatregelen die erop gericht zijn te voorkomen dat opnieuw een overval wordt gepleegd, waaronder het inwinnen van advies en het verkrijgen van een certificaat;  
 
@@ -29,7 +29,7 @@ e. *Commissie Schadefonds Geweldsmisdrijven:* de commissie, bedoeld in [artikel 
 
 1.  De subsidie kan worden verstrekt indien: 
 
-a. de aanvrager door middel van een proces-verbaal van aangifte aantoont dat in 2010 een overval in diens woning, bedrijf of vestiging van een bedrijf is gepleegd;  
+a. de aanvrager door middel van een proces-verbaal van aangifte aantoont dat in 2010 of in 2011 een overval in diens woning, bedrijf of vestiging van een bedrijf is gepleegd;  
 
 b. de aanvrager door middel van facturen of betalingsbewijzen aantoont preventieve maatregelen te hebben genomen.     
 2.  De subsidie wordt niet verstrekt indien aannemelijk is dat de overval verband houdt met criminele activiteiten van de aanvrager.   
@@ -38,12 +38,12 @@ b. de aanvrager door middel van facturen of betalingsbewijzen aantoont preventie
 
 1.  Een aanvraag tot subsidievaststelling wordt ingediend bij de Commissie Schadefonds Geweldsmisdrijven.   
 2.  De aanvraag wordt ingediend met gebruikmaking van het formulier dat is opgenomen in bijlage 2 van deze beleidsregels. De aanvraag gaat vergezeld van een kopie van het proces-verbaal van aangifte, een kopie van facturen of betalingsbewijzen van de genomen preventieve maatregelen en een kopie van een geldig identiteitsbewijs.   
-3.  De aanvraag wordt ingediend vóór 1 juli 2011.   
+3.  De aanvraag wordt ingediend vóór 1 juli 2012.   
 
 ### Artikel  5  
 
 1.  Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst.   
-2.  Deze beleidsregels vervallen met ingang van 1 oktober 2011, met dien verstande dat zij van toepassing blijven op subsidies die voor 1 oktober 2011 zijn verstrekt.   
+2.  Deze beleidsregels vervallen met ingang van 1 oktober 2012, met dien verstande dat zij van toepassing blijven op subsidies die voor 1 oktober 2012 zijn verstrekt.   
 
 ### Artikel  6  
 
