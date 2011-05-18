@@ -31,7 +31,9 @@ a. de directie Bedrijfsvoering;
 
 b. de Auditdienst;  
 
-c. de directie Bestuursondersteuning.    
+c. de directie Bestuursondersteuning;  
+
+d. het Agentschap SZW.    
 
 ### §  3  
 
@@ -135,6 +137,20 @@ c. het beleid op het gebied van beveiliging, informatiebeveiliging en het toezic
 
 d. de persoonlijke beveiliging van de bewindspersonen en hun huisgenoten en de coördinatie en de bemensing van de crisisbeheersingsorganisatie.    
 
+### Artikel  6a  
+
+1.  Het Agentschap SZW is verantwoordelijk voor: 
+
+a. de uitvoering van door de minister vastgestelde subsidieregelingen op het terrein van het Europees Sociaal Fonds;  
+
+b. de eventuele uitvoering van overige door de minister vastgestelde regelingen op het terrein van werk en inkomen;  
+
+c. het, na instemming van de plaatsvervangend secretaris-generaal, verrichten van andere dan in dit artikel bedoelde diensten;  
+
+d. het, na instemming van de plaatsvervangend secretaris-generaal, uitvoeren van regelingen voor opdrachtgevers buiten het ministerie.     
+2.  De directeur van het Agentschap SZW is verantwoordelijk voor de werkgeversverplichtingen die voortvloeien uit wet- en regelgeving op het gebied van arbeidsomstandigheden ten aanzien van het Agentschap SZW, voor zover het niet gaat om centraal georganiseerde werkgeversverplichtingen als bedoeld in [artikel 6, vijfde lid, onderdeel b, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2009/BWBR0024956/README.md).   
+3.  De directeur van het Agentschap SZW is tevens verantwoordelijk voor het inzake van zijn directie optreden als bestuurder in de zin van [artikel 1 van de Wet op de ondernemingsraden](../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md).   
+
 ### §  4  
 
 ####Bevoegdheden directeuren
@@ -181,6 +197,23 @@ g. overeenkomsten met betrekking tot de Landsadvocaat inzake advisering en procu
 h. overeenkomsten met bestrekking tot de arbodienst en het centraal flankerend beleid ten behoeve van herplaatsers.     
 7.  In aanvulling op het vierde lid geldt voor directeur Auditdienst en de directeur Bestuursondersteuning dat deze bevoegd zijn om overeenkomsten met betrekking tot incidentele beleidsinformatie, met uitzondering van overeenkomsten met het Centraal bureau voor de statistiek, aan te gaan tot een waarde van € 500.000,– per overeenkomst.   
 
+### Artikel  7a  
+
+1.  De directeur van het Agentschap SZW is bevoegd om besluiten te nemen over en stukken vast te stellen en te ondertekenen met betrekking tot het uitvoeren van bekostigingsactiviteiten die verband houden met de toekenning en de verrekening van subsidies, voorschotten en budgetten aan uitvoerende instellingen in het kader van subsidieregelingen waarvan de uitvoering aan het Agentschap SZW is opgedragen.   
+2..  De directeur van het Agentschap SZW is bevoegd tot het afsluiten van: 
+
+a. overeenkomsten met betrekking tot meerjarige, structurele beleidsinformatievoorziening, na afstemming met de directeur Financieel-Economische Zaken;  
+
+b. overeenkomsten met betrekking tot systeemontwikkeling, licenties, functioneel beheer en onderhoud van applicaties van voorlichtings- en documentatiesystemen;  
+
+c. overeenkomsten met betrekking tot de productie en distributie van voorlichtingsmateriaal voor zover het betreft de voorlichting over de door het Agentschap SZW uit te voeren subsidieprogramma’s aan doelgroepen en publiek, na afstemming met de directeur Communicatie;  
+
+d. overeenkomsten met betrekking tot systeemontwikkeling, licenties, functioneel beheer en onderhoud van applicaties van geautomatiseerde informatie- en salarissystemen, systeemontwikkeling en licenties, mits er gebleven wordt binnen de door de secretaris-generaal en de inspecteur-generaal Sociale Zaken en Werkgelegenheid te stellen kaders;  
+
+e. overeenkomsten met betrekking tot de technische infrastructuur, de hardware, de kantoorautomatiseringssoftware, de datacommunicatievoorzieningen, de huisvesting, facilitaire voorzieningen en het technisch beheer van geautomatiseerde systemen voor zover geen gebruik wordt gemaakt van de departementale infrastructuur en er geen sprake is van huisvesting in een gebouw waar tevens andere organisatieonderdelen van het ministerie, die niet ressorteren onder de inspecteur-generaal, zijn gehuisvest.     
+3.  In afwijking van artikel 7, vijfde lid, geldt voor de directeur van het Agentschap SZW dat deze bevoegd is om overeenkomsten aan te gaan tot een waarde van ten hoogste € 500.000,– per overeenkomst.   
+4.  De directeur van het Agentschap SZW is bevoegd om beslissingen op bezwaarschriften te nemen die verband houden met de verantwoordelijkheden, genoemd in artikel 6A, eerste lid.   
+
 ### §  5  
 
 ####Slotbepalingen
@@ -207,6 +240,10 @@ Het [Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-gener
 ### Artikel  10  
 
 Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2009](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directie/bo/szw/2009/BWBR0025904/README.md) dat genomen is krachtens de [artikelen 3, aanhef en onderdeel k](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/secretaris-generaal/2009/BWBR0024991/README.md), en [11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/secretaris-generaal/2009/BWBR0024991/README.md) op de artikelen 3, eerste lid, aanhef en onderdeel k, en 9 van deze regeling.  
+
+### Artikel  10a  
+
+Met ingang van 1 april 2011 berust het [Organisatie-, mandaat- en volmachtbesluit Agentschap SZW 2010](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/agentschap/szw/2010/BWBR0028311/README.md) dat genomen is krachtens de [artikelen 3, eerste lid, onderdeel k](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspecteur-generaal/szw/2010/BWBR0027955/README.md), en [18 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2010](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspecteur-generaal/szw/2010/BWBR0027955/README.md) op de artikelen 3, aanhef en onderdeel k, en 8 van deze regeling.  
 
 ### Artikel  11  
 

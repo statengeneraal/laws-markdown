@@ -13,11 +13,11 @@ Besluit:
 
 In deze regeling en daarop berustende bepalingen wordt verstaan onder: 
 
-a. *directie:* een van de organisatieonderdelen, genoemd in artikel 2, onderdelen a tot en met e en onderdeel i;  
+a. *directie:* een van de organisatieonderdelen, genoemd in artikel 2, onderdelen a tot en met d en onderdeel h;  
 
 b. *directeur:* een functionaris die leiding geeft aan een directie;  
 
-c. *teamleider stafbureau:* de functionaris die leiding geeft aan het stafbureau, genoemd in artikel 2, onderdeel j.    
+c. *teamleider stafbureau:* de functionaris die leiding geeft aan het stafbureau, genoemd in artikel 2, onderdeel i.    
 
 ### §  2  
 
@@ -27,25 +27,23 @@ c. *teamleider stafbureau:* de functionaris die leiding geeft aan het stafbureau
 
 Onder de inspecteur-generaal Sociale Zaken en Werkgelegenheid ressorteren: 
 
-a. het Agentschap SZW;  
+a. de Sociale Inlichtingen- en Opsporingsdienst;  
 
-b. de Sociale Inlichtingen- en Opsporingsdienst;  
+b. de directie AI Arbeidsomstandigheden;  
 
-c. de directie AI Arbeidsomstandigheden;  
+c. de directie AI Major Hazard Control;  
 
-d. de directie AI Major Hazard Control;  
+d. de directie AI Arbeidsmarktfraude;  
 
-e. de directie AI Arbeidsmarktfraude;  
+e. een Concernstaf AI;  
 
-f. een Concernstaf AI;  
+f. de afdeling Personeelsontwikkeling AI;  
 
-g. de afdeling Personeelsontwikkeling AI;  
+g. de afdeling Informatievoorziening AI;  
 
-h. de afdeling Informatievoorziening AI;  
+h. de Inspectie Werk en Inkomen;  
 
-i. de Inspectie Werk en Inkomen;  
-
-j. een stafbureau.    
+i. een stafbureau.    
 
 ### §  3  
 
@@ -85,15 +83,7 @@ n. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverhei
 
 o. het bijdragen aan taken betreffende de Inspectie Sociale Zaken en Werkgelegenheid en de ontwikkeling daarvan.     
 2.  Het eerste lid, met uitzondering van onderdeel k, is van overeenkomstige toepassing op de hoofden van de Concernstaf AI, de afdeling Personeelsontwikkeling AI en de afdeling Informatievoorziening AI, alsmede de teamleider stafbureau.   
-3.  De directeuren van het Agentschap SZW, de Sociale Inlichtingen- en Opsporingsdienst en de Inspectie Werk en Inkomen zijn tevens verantwoordelijk voor het inzake hun directie optreden als bestuurder in de zin van [artikel 1 van de Wet op de ondernemingsraden](../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md).   
-
-### Artikel  4  
-
-1.  Het Agentschap SZW is belast met de uitvoering van door de minister vastgestelde subsidieregelingen op het terrein van het Europees Sociaal Fonds.   
-2.  Het Agentschap SZW kan ook belast worden met de uitvoering van overige door de minister vastgestelde regelingen op het terrein van werk en inkomen.   
-3.  Het Agentschap SZW kan, na instemming van de inspecteur-generaal Sociale Zaken en Werkgelegenheid andere dan in dit artikel bedoelde diensten verrichten.   
-4.  Het Agentschap SZW kan, na instemming van de inspecteur-generaal Sociale Zaken en Werkgelegenheid regelingen uitvoeren voor opdrachtgevers buiten het ministerie.   
-5.  De directeur van het Agentschap SZW is verantwoordelijk voor de werkgeversverplichtingen die voortvloeien uit wet- en regelgeving op het gebied van arbeidsomstandigheden ten aanzien van het Agentschap SZW, voor zover het niet gaat om centraal georganiseerde werkgeversverplichtingen als bedoeld in [artikel 8, derde lid, onderdeel c, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2009/BWBR0024956/README.md).   
+3.  De directeuren van de Sociale Inlichtingen- en Opsporingsdienst en de Inspectie Werk en Inkomen zijn tevens verantwoordelijk voor het inzake hun directie optreden als bestuurder in de zin van [artikel 1 van de Wet op de ondernemingsraden](../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md).   
 
 ### Artikel  5  
 
@@ -195,23 +185,6 @@ a. het vaststellen van de plannen, genoemd in [artikel 38 van de Wet structuur u
 
 b. het vaststellen en ondertekenen van brieven, gericht aan een bewindspersoon of de secretaris-generaal, alsmede brieven ter aanbieding van vastgestelde jaarplannen, meerjarenplannen en rapporten aan instellingen die onder toezicht staan van de Inspectie Werk en Inkomen.     
 2.  De in het artikel 14, eerste lid, genoemde bevoegdheid omvat voor de directeur van de Inspectie Werk en Inkomen mede de bevoegdheid tot het maken van werkafspraken met de directeur van de Auditdienst van het ministerie over de uitvoering van door de inspecteur-generaal Sociale Zaken en Werkgelegenheid, in zijn functie van inspecteur-generaal, genoemd in [artikel 36 van de Wet structuur uitvoering werk en inkomen](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), vastgestelde jaarplannen betreffende de door de Auditdienst van het ministerie in opdracht van de Inspectie Werk en Inkomen uit te voeren werkzaamheden ten behoeve van het rechtmatigheids- en doelmatigheidstoezicht (exclusief doeltreffendheid) van de Inspectie Werk en Inkomen, voor zover dat is gericht op het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank, genoemd in [artikel 2](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), respectievelijk [artikel 3 van de Wet structuur uitvoering werk en inkomen](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), en over afzonderlijk door de inspecteur-generaal Sociale Zaken en Werkgelegenheid in bovengenoemde functie aan de directeur van de Auditdienst opgedragen werkzaamheden.   
-
-### Artikel  16  
-
-1.  De directeur van het Agentschap SZW is bevoegd om besluiten te nemen over en stukken vast te stellen en te ondertekenen met betrekking tot het uitvoeren van bekostigingsactiviteiten die verband houden met de toekenning en de verrekening van subsidies, voorschotten en budgetten aan uitvoerende instellingen in het kader van subsidieregelingen waarvan de uitvoering aan het Agentschap SZW is opgedragen.   
-2.  De directeur van het Agentschap SZW is bevoegd tot het afsluiten van: 
-
-a. overeenkomsten met betrekking tot meerjarige, structurele beleidsinformatievoorziening, na afstemming met de directeur Financieel-Economische Zaken;  
-
-b. overeenkomsten met betrekking tot systeemontwikkeling, licenties, functioneel beheer en onderhoud van applicaties van voorlichtings- en documentatiesystemen;  
-
-c. overeenkomsten met betrekking tot de productie en distributie van voorlichtingsmateriaal voor zover het betreft de voorlichting over de door het Agentschap SZW uit te voeren subsidieprogramma’s aan doelgroepen en publiek, na afstemming met de directeur Communicatie;  
-
-d. overeenkomsten met betrekking tot systeemontwikkeling, licenties, functioneel beheer en onderhoud van applicaties van geautomatiseerde informatie- en salarissystemen, systeemontwikkeling en licenties, mits er gebleven wordt binnen de door de secretaris-generaal en de inspecteur-generaal Sociale Zaken en Werkgelegenheid te stellen kaders;  
-
-e. overeenkomsten met betrekking tot de technische infrastructuur, de hardware, de kantoorautomatiseringssoftware, de datacommunicatievoorzieningen, de huisvesting, facilitaire voorzieningen en het technisch beheer van geautomatiseerde systemen voor zover geen gebruik wordt gemaakt van de departementale infrastructuur en er geen sprake is van huisvesting in een gebouw waar tevens andere organisatieonderdelen van het ministerie, die niet ressorteren onder de inspecteur-generaal, zijn gehuisvest.     
-3.  In afwijking van artikel 14, vijfde lid, geldt voor de directeur van het Agentschap SZW dat deze bevoegd is om overeenkomsten aan te gaan tot een waarde van ten hoogste € 500.000 per overeenkomst.   
-4.  De directeur van het Agentschap SZW is bevoegd om beslissingen op bezwaarschriften te nemen die verband houden met de verantwoordelijkheden, genoemd in artikel 4, eerste tot en met vierde lid.   
 
 ### Artikel  17  
 

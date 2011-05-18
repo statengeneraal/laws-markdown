@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling en de daarop berustende bepalingen wordt verstaan onder Agentschap SZW: het Agentschap SZW, genoemd in [artikel 2, onderdeel a, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2010](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspecteur-generaal/szw/2010/BWBR0027955/README.md), waaraan de Ministers van Financiën en van Sociale Zaken en Werkgelegenheid bij besluit van 9 december 2002 de status van baten-lastendienst als bedoeld in [artikel 10, eerste lid, van de Comptabiliteitswet 2001](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) hebben verleend.  
+In deze regeling en de daarop berustende bepalingen wordt verstaan onder Agentschap SZW: het Agentschap SZW, genoemd in [artikel 2, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/plaatsvervangend/etc/BWBR0026589/README.md), waaraan de Ministers van Financiën en van Sociale Zaken en Werkgelegenheid bij besluit van 9 december 2002 de status van baten-lastendienst als bedoeld in [artikel 10, eerste lid, van de Comptabiliteitswet 2001](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) hebben verleend.  
 
 ### §  2  
 
@@ -83,9 +83,9 @@ h. het adviseren van de directeur over te nemen acties ter voorbereiding op en n
 
 i. het planmatig, op basis van risicoanalyse, uitvoeren van operational audits binnen het Agentschap SZW om een oordeel over de kwaliteit van de interne processen te kunnen geven;  
 
-j. het uitvoeren van uitvoerbaarheidstoetsen, waaronder de toets op misbruik en oneigenlijk gebruik; a  
+j. het uitvoeren van uitvoerbaarheidstoetsen, waaronder de toets op misbruik en oneigenlijk gebruik;  
 
-k. dministratieve taken en postverwerking de afdeling betreffende.    
+k. administratieve taken en postverwerking de afdeling betreffende.    
 
 ### Artikel  7  
 
