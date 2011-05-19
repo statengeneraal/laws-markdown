@@ -653,7 +653,9 @@ C. Gebieden als bedoeld in artikel 6, vierde lid. De nationale vervoerbewijzen a
 
 I. Het gebied waar openbaar vervoer op grond van een door de Stadsregio Rotterdam verleende concessie wordt verricht.  
 
-II. Het gebied waar openbaar vervoer op grond van een door de Stadsregio Amsterdam verleende concessie wordt verricht.     
+II. Het gebied waar openbaar vervoer op grond van een door de Stadsregio Amsterdam verleende concessie wordt verricht.  
+
+III. Het gebied waar openbaar vervoer op grond van een door de provincie Zuid-Holland of door het Stadsgewest Haaglanden verleende concessie wordt verricht.     
 
 ### Bijlage  4  
 

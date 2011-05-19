@@ -230,10 +230,6 @@ E.Borst-Eilers
 | 13689  | Xatral tablet 2,5mg  | --- |
 | 31635  | Alfuzosine hcl pch tablet 2,5mg  | --- |
 | Productgroep  | --- | Maximumprijs  |
-| ALGLUCOSIDASE ALFA-50-MG-POED. V. INFUSIE, FLACON  | 517.63811800 per st  |
-| Registratienummer  | Artikelnaam  | --- |
-| EU/1/06/333/002  | Myozyme infusiepoeder flacon 50mg  | --- |
-| Productgroep  | --- | Maximumprijs  |
 | ALISKIREN-150-MG-TABLET  | 0.78109700 per stuk  |
 | Registratienummer  | Artikelnaam  | --- |
 | EU/1/07/405/003  | Rasilez tablet filmomhuld 150mg  | --- |
@@ -1993,10 +1989,6 @@ E.Borst-Eilers
 | CLODRONIC ACID-800-MG-TABLET  | 3.20820400 per stuk  |
 | Registratienummer  | Artikelnaam  | --- |
 | 20245  | Bonefos tablet 800mg  | --- |
-| Productgroep  | --- | Maximumprijs  |
-| CLOFARABINE-1-MG/ML-INFUUSVLOEISTOF, FLACON  | 80.44477200 per ml  |
-| Registratienummer  | Artikelnaam  | --- |
-| EU/1/06/334/002  | Evoltra infvlst conc 1mg/ml flacon 20ml  | --- |
 | Productgroep  | --- | Maximumprijs  |
 | CLOMIPRAMINE-10-MG-TABLET  | 0.03053100 per stuk  |
 | Registratienummer  | Artikelnaam  | --- |
@@ -5396,10 +5388,6 @@ E.Borst-Eilers
 | 101782//31929  | Fosrenol kauwtablet 750mg  | --- |
 | 105507//31929  | Fosrenol kauwtablet 750mg  | --- |
 | 31929  | Fosrenol kauwtablet 750mg  | --- |
-| Productgroep  | --- | Maximumprijs  |
-| LARONIDASE-100-IE/ML-INFUUSVLOEISTOF, FLACON  | 130.13644900 per ml  |
-| Registratienummer  | Artikelnaam  | --- |
-| EU/1/03/253/001  | Aldurazyme infvlst conc 100u/ml flacon 5ml  | --- |
 | Productgroep  | --- | Maximumprijs  |
 | LATANOPROST-.05-MG/ML-OOGDRUPPELS  | 6.35999200 per ml  |
 | Registratienummer  | Artikelnaam  | --- |
