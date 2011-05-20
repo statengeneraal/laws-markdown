@@ -16,20 +16,13 @@ Onder de buitengewoon opsporingsambtenaar wordt in het besluit verstaan: De ambt
 
 ### Artikel  2  
 
-1.  De buitengewoon opsporingsambtenaar, werkzaam als leerplichtambtenaar, is bevoegd tot de opsporing van feiten strafbaar gesteld bij of krachtens: 
-
-a. De [Leerplichtwet 1969](../../../../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md);  
-
-b. [Artikel 447 <sup>e</sup> van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
-
-c. andere strafbare feiten, indien en voor zover hij daarmee in een concreet opsporingsonderzoek door een officier van justitie wordt belast voor de duur van dat onderzoek;  
-
-d. feiten strafbaar gesteld bij verordeningen voor zover hij daarvoor door het bevoegd bestuursorgaan is aangewezen.     
-2.  De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van geheel Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.   
+1.  De in artikel 2 bedoelde ambtenaren zijn bevoegd tot het opsporen van de strafbare feiten genoemd in domein III Onderwiijs, van [bijlage A-I van de Circulaire Buitengewoon opsporingsambtenaar](../../../../../../../../../../circulaire/circulaire/buitengewoon/opsporingsambtenaar/BWBR0029447/README.md), voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.   
+2.  De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.   
+3.  De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het domein waarin hij is aangesteld.   
 
 ### Artikel  3  
 
-Op grond van dit besluit kunnen maximaal 7 personen als buitengewoon opsporingsambtenaar beëdigd worden.  
+Op grond van dit besluit kunnen 20 personen als buitengewoon opsporingsambtenaar beëdigd worden.  
 
 ### Artikel  4  
 
