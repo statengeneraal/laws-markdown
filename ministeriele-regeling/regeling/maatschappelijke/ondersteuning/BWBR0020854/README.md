@@ -255,7 +255,7 @@ De bevoegdheid tot het verstrekken van een uitkering als bedoeld in [artikel 19a
 
 ### Artikel  6g  
 
-De uitkering bedraagt voor het jaar 2010 € 250.  
+De uitkering bedraagt voor het jaar 2011 € 250.  
 
 ### Artikel  6h  
 

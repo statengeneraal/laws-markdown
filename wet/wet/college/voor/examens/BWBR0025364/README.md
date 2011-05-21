@@ -22,7 +22,7 @@ In deze wet wordt verstaan onder:
 ### Artikel  2  
 
 1.  Er is een College voor examens.   
-2.  Het college is belast met de volgende taken op het gebied van de centrale examens, bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 7.4.11 van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en de daarop berustende bepalingen: 
+2.  Het college is belast met de volgende taken op het gebied van de centrale examens, bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de [Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), [artikel 7.4.11 van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 7.4.13 van de Wet educatie en beroepsonderwijs BES](../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md) en de daarop berustende bepalingen: 
 
 a. het vaststellen van het aantal toetsen, de tijdsduur en de aard van de toetsen, overeenkomstig het examenprogramma;  
 
@@ -37,7 +37,7 @@ e. het geven van regels voor de omzetting van de scores in cijfers;
 f. het tot stand brengen en bij regeling vaststellen van syllabi, overeenkomstig het examenprogramma; en  
 
 g. het geven van regels met betrekking tot de hulpmiddelen die gebruikt mogen worden bij het maken van de opgaven.     
-3.  Het college is belast met de volgende taken op het gebied van de staatsexamens, bedoeld in [artikel 60 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de daarop berustende bepalingen: 
+3.  Het college is belast met de volgende taken op het gebied van de staatsexamens, bedoeld in [artikel 60 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de daarop berustende bepalingen en de staatsexamens, bedoeld in [artikel 116 van de Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) en de daarop berustende bepalingen: 
 
 a. het bij regeling vaststellen van het examenreglement;  
 
@@ -46,14 +46,14 @@ b. het organiseren, afnemen en beoordelen;
 c. de benoeming van examenfunctionarissen; en  
 
 d. het vaststellen van de uitslag en het uitreiken van diploma’s, certificaten of cijferlijsten.     
-4.  Het college is belast met de volgende taken op het gebied van de college-examens van de staatsexamens, bedoeld in [artikel 60, eerste lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de op het [vijfde lid van dat artikel](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) berustende bepalingen: 
+4.  Het college is belast met de volgende taken op het gebied van de college-examens van de staatsexamens, bedoeld in [artikel 60, eerste lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de op het [vijfde lid van dat artikel](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) berustende bepalingen en de college-examens van de staatsexamens, bedoeld in [artikel 116, eerste lid, van de Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) en de op het vijfde lid van dat artikel berustende bepalingen: 
 
 a. het bij regeling vaststellen van het programma van toetsing en afsluiting;  
 
 b. het tot stand brengen en vaststellen van de opgaven; en  
 
 c. het tot stand brengen en bij regeling vaststellen van de beoordelingsnormen.     
-5.  Het college is belast met de volgende taken op het gebied van de staatsexamens, bedoeld in [artikel 60, tweede lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de op het vijfde lid van dat artikel berustende bepalingen: 
+5.  Het college is belast met de volgende taken op het gebied van de staatsexamens, bedoeld in [artikel 60, tweede lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de op het vijfde lid van dat artikel berustende bepalingen de staatsexamens, bedoeld in [artikel 116, tweede lid, van de Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) en de op het vijfde lid van dat artikel berustende bepalingen: 
 
 a. het bij regeling vaststellen van het examenprogramma;  
 
@@ -72,7 +72,7 @@ c. het uitoefenen van andere door Onze Minister opgedragen taken.
 
 ### Artikel  3  
 
-Het college is belast met bij algemene maatregel van bestuur aan te wijzen taken ten aanzien van de uitvoering van de centrale examinering in het beroepsonderwijs, bedoeld in [artikel 7.4.3a van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en de op dit artikel gebaseerde uitvoeringsvoorschriften.  
+Het college is belast met bij algemene maatregel van bestuur aan te wijzen taken ten aanzien van de uitvoering van de centrale examinering in het beroepsonderwijs, bedoeld in [artikel 7.4.3a van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 7.4.4 van de Wet educatie en beroepsonderwijs BES](../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md), en de op dit artikel gebaseerde uitvoeringsvoorschriften.  
 
 ### Artikel  4  
 
