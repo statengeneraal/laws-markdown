@@ -30,7 +30,7 @@ a. aan andere bedrijven dan die, waarin meel en/of bloem van granen wordt bereid
 b. aan andere bedrijven dan die, welke naar het oordeel van het productschap behoren tot de bloemverwerkende industr  
 
 c. anders dan in verpakkingen van ten hoogste 5 kilogram bestemd voor huishoudelijk gebruik.     
-2.  Ter vaststelling van het juiste heffingsbedrag moet een bij het productschap te verkrijgen speciaal daarvoor bestemde afrekeningstaat worden ingediend.   
+2.  Ter vaststelling van het juiste heffingsbedrag moet een bij het productschap te verkrijgen speciaal daarvoor bestemde afrekeningstaat worden ingediend. De [Verordening PA algemene bepalingen 2008](../../../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md) is hierbij van toepassing.   
 3.  De heffing, bedoeld in het eerste lid, wordt aan de afnemers doorberekend.   
 
 ### Artikel  3  
@@ -44,7 +44,7 @@ a. aan andere bedrijven dan die, waarin meel en/of bloem van granen wordt bereid
 b. aan andere bedrijven dan die, welke naar het oordeel van het productschap behoren tot de bloemverwerkende industrie;  
 
 c. anders dan in verpakkingen van ten hoogste 5 kilogram, bestemd voor huishoudelijk gebruik.     
-2.  Ter vaststelling van het juiste heffingsbedrag moet een bij het productschap te verkrijgen speciaal daarvoor bestemde afrekeningstaat worden ingediend.   
+2.  Ter vaststelling van het juiste heffingsbedrag moet een bij het productschap te verkrijgen speciaal daarvoor bestemde afrekeningstaat worden ingediend. De [Verordening PA algemene bepalingen 2008](../../../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md) is hierbij van toepassing.   
 3.  De heffing bedoeld in het eerste lid, wordt aan de afnemers doorberekend.   
 
 ### Artikel  4  
@@ -58,7 +58,7 @@ a. aan andere bedrijven dan die, waarin meel en/of bloem van granen wordt bereid
 b. aan andere bedrijven dan die, welke naar het oordeel van het productschap behoren tot de bloemverwerkende industrie;  
 
 c. anders dan in verpakkingen van ten hoogste 5 kilogram, bestemd voor huishoudelijk gebruik.     
-2.  Ter vaststelling van het juiste heffingsbedrag moet een bij het productschap te verkrijgen speciaal daarvoor bestemde afrekeningstaat worden ingediend.   
+2.  Ter vaststelling van het juiste heffingsbedrag moet een bij het productschap te verkrijgen speciaal daarvoor bestemde afrekeningstaat worden ingediend. De [Verordening PA algemene bepalingen 2008](../../../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md) is hierbij van toepassing.   
 3.  De heffing bedoeld in het eerste lid, wordt aan de afnemers doorberekend.   
 4.  Aan hem, die een in het eerste lid bedoelde onderneming drijft en die meel en/of bloem van granen heeft afgenomen tegen een prijs, waarin de in artikel 2, 3 of in het eerste lid omschreven heffing is opgenomen, wordt op zijn verzoek deze heffing geheel of gedeeltelijk door het productschap terugbetaald, indien het terug te betalen bedrag ten minste € 50,- bedraagt en voor zover ten genoegen van het productschap is aangetoond: 
 
@@ -76,7 +76,7 @@ d. dat hij meel en/of bloem van granen in verpakkingen van ten hoogste 5 kilogra
 ####Heffing/restitutie bij bakkerij
 
 1.  Degene, die een onderneming drijft, waarin bakkerijproducten worden bereid is verplicht aan het productschap een heffing te betalen van € 0,60 per 100 kilogram meel en/of bloem van granen over die hoeveelheden aan hem geleverd(e) meel en/of bloem van granen, waarover geen der in de artikelen 2, 3 of 4 bedoelde heffingen zijn betaald.   
-2.  Ter vaststelling van het juiste heffingsbedrag moet een bij het productschap te verkrijgen speciaal daarvoor bestemde afrekeningstaat worden ingediend.   
+2.  Ter vaststelling van het juiste heffingsbedrag moet een bij het productschap te verkrijgen speciaal daarvoor bestemde afrekeningstaat worden ingediend. De [Verordening PA algemene bepalingen 2008](../../../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md) is hierbij van toepassing.   
 3.  Aan hem, die een in het eerste lid bedoelde onderneming drijft, en die meel en/of bloem van granen heeft afgenomen tegen een prijs, waarin de in het artikel 2, 3 of 4 genoemde heffing is opgenomen dan wel de in het eerste lid bedoelde heffing heeft betaald, wordt op zijn verzoek deze heffing terugbetaald, indien het terug te betalen bedrag tenminste € 50,- bedraagt en voor zover ten genoegen van het productschap is aangetoond: 
 
 a. dat hij meel en/of bloem van granen heeft afgeleverd buiten Nederland;  

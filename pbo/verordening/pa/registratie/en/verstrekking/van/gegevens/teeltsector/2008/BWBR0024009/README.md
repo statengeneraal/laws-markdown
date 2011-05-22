@@ -29,7 +29,7 @@ Deze verordening verstaat onder:
 | --- | --- | --- | 2  | afgebakken aardappelproducten (producten ex GN-code 2005 20 20)  |
 | --- | --- | --- | 3  | gedroogde aardappelproducten (producten ex GN-code 1105 10 00 onderscheidenlijk 1105 20 00 onderscheidenlijk 0712 90 05 onderscheidenlijk 2004 10 91 onderscheidenlijk 2005 20 10)  |
 | --- | --- | --- | 4  | overige aardappelproducten (producten ex GN-code 2004 10 99 onderscheidenlijk 0710 10 00 onderscheidenlijk 0711 90 80);  |
-| j.  | Nederlandse grootte- Eenheid  | :  | een eenheid berekend op basis van de bruto- standaard-saldi, zoals deze bij de laatste in de Nederlandse Staatscourant gepubliceerde Regeling Landbouwtelling ingevolge de [artikelen 24](../../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [25 van de Landbouwwet](../../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) worden toegepast;  |
+| j.  | Standaardopbrengst  | :  | de standaardwaarde van de brutoproductie, zoals deze bij de laatste in de Nederlandse Staatscourant gepubliceerde [Regeling landbouwtelling en gecombineerde opgave](../../../../../../../../../../../ministeriele-regeling/regeling/landbouwtelling/en/gecombineerde/opgave/2011/BWBR0029777/README.md) ingevolge de [artikelen 24](../../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [25 van de Landbouwwet](../../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) wordt toegepast;    |
 | k.  | gecombineerde opgave  | :  | een opgaveset waarmee door de ondernemer opgave wordt gedaan voor landbouwtelling, gebruik gewaspercelen en verzamelaanvraag, bedoeld in [artikel 25 van de Landbouwwet](../../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md);  |
 | l.  | bedrijfskaart(en)  | :  | een kaart waarop de door de ondernemer gebruikte gewaspercelen staan aangegeven, alsmede de daarop geteelde of te telen gewassen;  |
 | m.  | Dienst Regelingen  | :  | Dienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.  |
@@ -46,7 +46,7 @@ a. werkzaamheden worden verrichten met betrekking tot:
 
 – de be- en verwerking van consumptieaardappelen    
 
-b. akkerbouw wordt uitgeoefend en waarvan de bedrijfsomvang ten minste gelijk is aan drie Nederlandse grootte-eenheden.     
+b. akkerbouw wordt uitgeoefend en waarvan de bedrijfsomvang ten minste gelijk is aan € 2000,- standaardopbrengst.     
 2.  Van de registratie zijn uitgesloten ondernemingen die zich bezig houden met: 
 
 – de be- en verwerking van aardappelen ten behoeve van de zetmeelproductie.     
