@@ -49,12 +49,6 @@ Van de bepalingen van deze titel mag slechts worden afgeweken, indien en voor zo
 
 Op eenig beding, als bedoeld in de voorafgaande twee artikelen, kan wegens niet tijdige nakoming beroep alleen worden gedaan, indien de schuldenaar, na in gebreke te zijn gesteld, nalatig blijft om zijne verplichtingen na te komen.  
 
-### Artikel  1576e  
-
-1.  De kooper is steeds bevoegd tot vervroegde betaling van één of meer eerstvolgende termijnen van den koopprijs.   
-2.  In geval van vervroegde betaling ineens van het geheele nog verschuldigde bedrag heeft hij recht op een aftrek, berekend naar vijf ten honderd ’s jaars over elken daarbij vervroegd betaalden termijn.   
-3.  Van de bepalingen van dit artikel kan ten voordeele van den kooper door partijen worden afgeweken.   
-
 ### Artikel  1576f  
 
 1.  Overdracht, inpandgeving of elke andere handeling, waardoor de kooper aan den verkooper of aan een derde eenig recht toekent op zijn loon, pensioen of andere periodieke inkomsten wegens arbeidsovereenkomst, kan ter zake van koop en verkoop op afbetaling, behalve voor opeischbare verplichtingen, alleen geschieden voor betalingen, waartoe de kooper bij regelmatige nakoming van de overeenkomst zal gehouden zijn, en voor de kosten.   

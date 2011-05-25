@@ -89,7 +89,7 @@ c. de veiligheid of het vlotte verloop van de scheepvaart in gevaar wordt gebrac
 
 ### Artikel  5  
 
-1.  Een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert of een zeeschip met een bruto-tonnage als bedoeld in de [Meetbrievenwet 1981](../../../../../wet/meetbrievenwet/1981/BWBR0003378/README.md) van 300 of meer, vaart geen in Nederland gelegen haven, ankerplaats, of een in de Nederlandse territoriale zee gelegen laad- of losinrichting binnen, voordat de kapitein, de exploitant of de agent aan de bevoegde autoriteit van de eerste bestemming in Nederland de bij ministeriële regeling vastgestelde gegevens heeft gemeld omtrent het schip, de positie, het tijdstip van aankomst en vertrek daarvan, de daarmee vervoerde lading, het aantal personen aan boord en de uit te voeren reis, op een bij die regeling bepaalde wijze.   
+1.  Een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert of een zeeschip met een bruto-tonnage als bedoeld in de [Meetbrievenwet 1981](../../../../../wet/meetbrievenwet/1981/BWBR0003378/README.md) van 300 of meer, doet geen in Nederland gelegen haven, ankerplaats, terminal of een in de Nederlandse territoriale zee gelegen laad- of losinrichting aan, voordat de kapitein, de exploitant of de agent aan de bevoegde autoriteit van de eerste bestemming in Nederland de bij ministeriële regeling vastgestelde gegevens heeft gemeld omtrent het schip, de positie, het tijdstip van aankomst en vertrek daarvan, de daarmee vervoerde lading, het aantal personen aan boord en de uit te voeren reis, op een bij die regeling bepaalde wijze.   
 2.  De in het eerste lid bedoelde melding geschiedt: 
 
 a. door een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert: 
@@ -151,7 +151,7 @@ e. voorwerpen of stoffen heeft verloren of dreigt te verliezen, die het scheepva
 
 ### Artikel  8  
 
-Een schip gaat in een aanloopgebied niet voor anker, dan na daartoe van de bevoegde autoriteit toestemming te hebben verkregen.  
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2010/748.  Een schip gaat in een aanloopgebied niet voor anker, dan na daartoe van de bevoegde autoriteit toestemming te hebben verkregen.  
 
 ####Bescherming van verkeerstekens
 
@@ -215,11 +215,7 @@ De bij dit besluit behorende bijlage 2 vermeldt de verkeerstekens ter markering 
 
 ### Artikel  17  
 
-1.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de deelname aan het scheepvaartverkeer door: 
-
-a. schepen in de Eurogeul en de Maasgeul, met een diepgang van 174 decimeter (57 voet) of meer;  
-
-b. schepen in de IJgeul, met een diepgang van 137 decimeter (45 voet) of meer.     
+1.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de deelname aan het scheepvaartverkeer door schepen in de Eurogeul, de Maasgeul en de IJgeul, die een in die regeling vastgestelde diepgang hebben.   
 2.  De in het eerste lid bedoelde regels kunnen slechts voorschriften inhouden aangaande: 
 
 a. de toegelaten afmetingen van een schip;  
@@ -259,7 +255,9 @@ Aan een toestemming als bedoeld in de artikelen 7, eerste en tweede lid, 8, 12, 
 
 ### Artikel  20  
 
-Overtreding van de bij of krachtens de artikelen 4, 5, eerste tot en met zesde lid en tiende lid, 5a, tweede lid, 6, 7, eerste en tweede lid, 8, 9, 10, 11, 12, eerste, tweede en derde lid, 13, 16, 17, en 18, eerste lid, gestelde regels, alsmede overtreding van de aan toestemming verbonden voorschriften, is een strafbaar feit.  
+####Strafbaarstelling
+
+Overtreding van de bij of krachtens dit besluit vastgestelde regels, alsmede overtreding van de aan toestemming verbonden voorschriften, is een strafbaar feit.  
 
 ### Paragraaf  7  
 
@@ -357,26 +355,25 @@ W. Sorgdrager
 
 ### Bijlage  1  
 
-####behorend bij artikel 2, onderdeel d , van het Scheepvaartreglement territoriale zee
+####behorend bij artikel 2, onderdeel d 
 
-Aanloopgebieden  
+Bijlage 1. Aanloopgebieden  
 
 Met betrekking tot het Scheepvaartreglement territoriale zee, worden de navolgende aanloopgebieden onderscheiden: 
 
-a. het aanloopgebied *Eemsmonding*, gevormd door: het bij de Eemsmonding aansluitende gedeelte van de territoriale zee dat ligt binnen het gebied begrensd door een lijn die loopt van de positie 53°34'.7 NB, 06°21'.9 OL, naar 53°34'.9 NB, 06°13'.7 OL, vandaar naar 53°37'.1 NB, 06°19'.5 OL, vandaar naar 53°39'.0 NB, 06°27'.1 OL, en vandaar naar 53°37'.5 NB, 06°31'.2 OL;  
+a. het aanloopgebied *Eemsmonding*, gevormd door: het bij de Eemsmonding aansluitende gedeelte van de territoriale zee dat ligt binnen het gebied begrensd door een lijn die loopt van de positie 53°34’.6 N 006°21’.8 E, naar 53°34’.8 N 006°13’.6 E, vandaar naar 53°37’.0 N 006°19’.4 E, vandaar naar 53°38’.9 N 006°27’.0 E, en vandaar naar 53°37’.4 N 006°31’.1 E;  
 
-b. het aanloopgebied Brandaris, gevormd door: het zeegat van Terschelling vanaf de ton W. Drawa, de lichtboei SM, de lichtboei TG, de lichtboei Stolzenfels en het punt op de noordkust van Terschelling met de geografische coördinaten 53°23'.38 NB, 05°11'.38 OL;  
+b. het aanloopgebied *Brandaris*, gevormd door: het zeegat van Terschelling vanaf de boei Drawa W, de lichtboei ZS, de lichtboei TG, de lichtboei Stolzenfels en het punt op de noordkust van Terschelling met de geografische coördinaten 53°23’.3 N 005°11’.3 E;  
 
-c. het aanloopgebied Den Helder, gevormd door: het zeegebied vanaf lichtopstand «grote Kaap» (52°52'.9 NB, 04°42'.9 OL), lichtboei SG, lichtboei ZH, lichtboei MR, lichtboei NH, lichtboei MG en paal 15 op Texel (53°03'.8 NB, 04°43'.4 OL). Van dit gebied is dat gedeelte van de territoriale zee uitgezonderd, dat zich zeewaarts van de in artikel 1, eerste lid, bedoelde lijn bevindt en dat gemeentelijk is ingedeeld, behoudens in het zeegat dat is gelegen tussen de kop van de provincie Noord-Holland en de zuidpunt van het eiland Texel;  
+c. het aanloopgebied *Den Helder*, gevormd door: het zeegebied vanaf lichtopstand «grote Kaap» (52°52’.9N 004°42’.9 E), lichtboei SG, lichtboei ZH, lichtboei MR, lichtboei NH, lichtboei MG en paal 15 op Texel (53°03’.7 N 004°43’.3 E). Van dit gebied is dat gedeelte van de territoriale zee uitgezonderd, dat zich zeewaarts van de in artikel 1, eerste lid, bedoelde lijn bevindt en dat gemeentelijk is ingedeeld, behoudens in het zeegat dat is gelegen tussen de kop van de provincie Noord-Holland en de zuidpunt van het eiland Texel;  
 
-d. het aanloopgebied *IJmuiden*, gevormd door: het gedeelte van de territoriale zee dat ligt binnen het gebied, begrensd door een lijn die loopt van de positie 52°28'.00 NB, 04°32'.18 OL (referentiepunt), naar positie 52°16'.36 NB, 04°26'.18 OL, vandaar in een zeewaarts gerichte boog met een straal van 12 zeemijlen gerekend vanuit het referentiepunt naar positie 52°39'.36. NB, 04°37'.00 OL;  
+d. het aanloopgebied *IJmuiden*, gevormd door: het gedeelte van de territoriale zee dat ligt binnen het gebied, begrensd door een lijn die loopt van de positie 52°27’.9 N 004°32’.1 E (referentiepunt), naar positie 52°16’.3 N 004°26’.1 E, vandaar in een zeewaarts gerichte boog met een straal van 12 zeemijlen gerekend vanuit het referentiepunt naar positie 52°39’.3 N 004°36’.9 E;  
 
-e. het aanloopgebied *Scheveningen*, gevormd door: het gebied, begrensd door een lijn die loopt van de positie 52°06'.2 NB, 04°15'.8 OL, naar 52°07'.7 NB, 04°17'.5 OL, vandaar naar 52°09'.4 NB, 04°14'.2 OL, vandaar naar 52°06'.5 NB, 04°10'.0 OL, en vandaar naar 52°04'.8 NB, 04°13'.4 OL, en vandaar naar 52°06'.2 NB, 04°15'.8 OL en het gebied, begrensd door een lijn die loopt van de positie 52°10'.00 NB, 04°13'.2 OL, naar 52°11'.7 NB, 04°15'.5 OL, vandaar naar 52°13'.0 NB, 04°13'.5 OL, en vandaar naar 52°11'.85 NB, 04°11'.75 OL;  
+e. het aanloopgebied *Scheveningen*, gevormd door: het gebied, begrensd door een lijn die loopt van de positie 52°06’.1 N 004°15’.7 E, naar 52°07’.6 N 004°17’.4 E, vandaar naar 52°09’.3 N 004°14’.1 E, vandaar naar 52°06’.4 N 004°09’.9 E, en vandaar naar 52°04’.7 N 004°13’.3 E, en vandaar naar 52°06’.1 N 004°15’.7 E en het gebied, begrensd door een lijn die loopt van de positie 52°09’.9 N 004°13’.1 E, naar 52°11’.6 N 004°15’.4 E, vandaar naar 52°12’.9 N 004°13’.4 E, en vandaar naar 52°11’.8 N 004°11’.7 E;  
 
-f. het aanloopgebied *Rotterdam*, gevormd door: het zeegebied in de aanloop van de Maasmond, ten noorden begrensd door de lijn vanuit de positie 100 m oostelijk van het havenlicht op de kop van de Noorderdam (51°59'.7 NB, 04°03'.0 OL) via de Indusbank-N boei (52°03'.0 NB, 04°03'.8 OL) naar de positie 52°10'.0 NB, 04°05'.3 OL en vandaar in de richting 280°, ten westen door de territoriale grens en ten zuiden door een lijn vanaf de positie 51°57'.7 NB, 04°00'.5 OL via lichteiland Goeree (51°55'.6 NB, 03°40'.2 OL) naar de territoriale grens;  
+f. het aanloopgebied *Rotterdam*, gevormd door: het zeegebied dat wordt begrensd door een lijn vanuit het havenlicht op de kop van de Noorderdam (51°59’.7 N 004°02’.8 E) via boei MN 3 (52°07’.0 N 004°00’.0 E), via boei MN 2 (52°07’.4 N 003°51’.4 E), via boei MNW 2 (52°07’.4 N 003°45’.0 E), via boei MNW 3-MW 6 (52°04’.8 N 003°41’.0 E), via boei MW 5 (51°57’.2 N 003°42’.0 E) naar 51°58’.0 N 003°56’.9 E en vervolgens naar boei MV-C (51°57’.8 N 003°56’.7 E), vandaar naar boei MV-B (51°56’.5 N 003°57’.2 E), vandaar naar boei MV-A (51°55’.5 N 003°57’.8 E) en dan naar 51°54’.9 N 003°59’.6 E;  
 
-g. het aanloopgebied *Scheldemonden*, gevormd door: het in de Nederlandse territoriale zee gelegen gebied ten zuiden van de lijn die loopt van de positie 51°48'.6 NB, 03°51'.6 OL, en vervolgens westwaarts tot aan de grens van de territoriale zee, uitgezonderd het gedeelte van dat gebied dat wordt gevormd door een lijn over de kerktorens van Aagtekerke en Domburg tot de positie 51°37'.0 N, 03°27'.2 O, vandaar naar 51°35'.6 N, 03°23'.3 O, vandaar naar 51°34'.0 N, 03°22'.2 O, vandaar naar 51°24'.7 N, 03°17'.9 O, en vandaar naar grenspaal 369. Van dit gebied is dat gedeelte van de territoriale zee uitgezonderd, dat zich zeewaarts van de in artikel 1, eerste lid, bedoelde lijn bevindt en dat gemeentelijk is ingedeeld, behoudens in het zeegat dat toegang verschaft tot de Oosterschelde.     ![14832](http://wetten.overheid.nl/Illustration/14832)
-Aan een toestemming als bedoeld in de artikelen 7, eerste en tweede lid, 8, 12, tweede en derde lid, en 13, kunnen voorschriften worden verbonden. 
+g. het aanloopgebied *Scheldemonden*, gevormd door: het in de Nederlandse territoriale zee gelegen gebied ten zuiden van de lijn die loopt van de positie 51°48’.5 N 003°51’.5 E, en vervolgens westwaarts tot aan de grens van de territoriale zee, uitgezonderd het gedeelte van dat gebied dat wordt gevormd door een lijn over de kerktorens van Aagtekerke en Domburg tot de positie 51°36’.9 N 003°27’.1 E, vandaar naar 51°35’.5 N 003°23’.2 E, vandaar naar 51°33’.9 N 003°22’.1 E, vandaar naar 51°26’.0 N 003°18’.5 E, en vandaar naar grenspaal 369. Van dit gebied is dat gedeelte van de territoriale zee uitgezonderd, dat zich zeewaarts van de in artikel 1, eerste lid, bedoelde lijn bevindt en dat gemeentelijk is ingedeeld, behoudens in het zeegat dat toegang verschaft tot de Oosterschelde.   
 
 ### Bijlage  2  
 
@@ -430,10 +427,10 @@ Laterale markeringen verschillen in de twee internationaal vastgestelde betonnin
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | --- | kleur:  | rood  | --- | kleur:  | groen  |
 | --- | vorm:  | stomp, pilaar of spar  | --- | vorm:  | spits, pilaar of spar  |
-| --- | topteken :  <sup> *   Indien aanwezig    </sup> | enkele rode cilinder  | --- | topteken :  <sup> *   Indien aanwezig    </sup> | enkele groene kegel met de top naar boven gericht  |
-| --- | licht :  <sup> *   Indien aanwezig    </sup> |   –  kleur: rood     – karakter:  naar keuze behalve het karakter omschreven in par. 2.3.3.1.      | --- | licht :  <sup> *   Indien aanwezig    </sup> |   – kleur:  groen     – karakter:  naarkeuze behalve het karakter omschreven in par. 2.3.3.2.      |
+| --- | topteken*:  | enkele rode cilinder  | --- | topteken*:  | enkele groene kegel met de top naar boven gericht  |
+| --- | licht*:  |   –  kleur: rood     – karakter:  naar keuze behalve het karakter omschreven in par. 2.3.3.1.      | --- | licht*:  |   – kleur:  groen     – karakter:  naarkeuze behalve het karakter omschreven in par. 2.3.3.2.      |
 
-![14841](http://wetten.overheid.nl/Illustration/14841)
+* Indien aanwezig.   ![14841](http://wetten.overheid.nl/Illustration/14841)
 2.3.3 *Splitsing* Wanneer een vaarwater zich splitst kan, varend in de betonningsrichting, als volgt een aanbevolen route worden aangegeven door een aangepaste bakboords- of stuurboordsmarkering.  
 
 | 2.3.3.1  | Aanbevolen vaarwater aan stuurboord  | 2.3.3.2.  | Aanbevolen vaarwater aan bakboord  |--- |--- |--- |--- |--- |--- |
@@ -441,13 +438,13 @@ Laterale markeringen verschillen in de twee internationaal vastgestelde betonnin
 | --- | kleur:  | rood met een brede groene horizontale band  | --- | kleur:  | groen met een brede rode horizontale band  |
 | --- | --- | --- | vorm:  | spits, pilaar of spar  |
 | --- | vorm:  | stomp, pilaarof spar  | --- | --- |
-| --- | --- | --- | topteken :  <sup> *   Indien aanwezig    </sup> | een enkele groene kegel met de top naar boven gericht  |
-| --- | topteken :  <sup> *   Indien aanwezig    </sup> | een enkelerode cilinder  | --- | --- |
+| --- | --- | --- | topteken*:  | een enkele groene kegel met de top naar boven gericht  |
+| --- | topteken*:  | een enkelerode cilinder  | --- | --- |
 | --- | --- | --- | --- |
-| --- | licht :  <sup> *   Indien aanwezig    </sup> |   – kleur:  rood     – karakter:  samengesteld groep schitterlicht (2+1).      | --- | --- |
-| --- | --- | --- | licht :  <sup> *   Indien aanwezig    </sup> |   – kleur:  groen     – karakter:  samengesteld groep schitterlicht (2+1).      |
+| --- | licht*:  |   – kleur:  rood     – karakter:  samengesteld groep schitterlicht (2+1).      | --- | --- |
+| --- | --- | --- | licht*:  |   – kleur:  groen     – karakter:  samengesteld groep schitterlicht (2+1).      |
 
-![14841](http://wetten.overheid.nl/Illustration/14841)
+* Indien aanwezig.   ![14841](http://wetten.overheid.nl/Illustration/14841)
 
 ### 2.4  
 
@@ -484,29 +481,31 @@ Een cardinale markering kan b.v. worden gebruikt om:
 ![14842](http://wetten.overheid.nl/Illustration/14842)
 3.3.1 *Noord cardinale markering*  
 
-| topteken  <sup> **)   Het uit twee kegels bestaande topteken is overdag het belangrijkste kenmerk van de cardinale markering en dient, waar dit uitvoerbaar is, altijd toegepast te worden en zo groot mogelijk te zijn, met een duidelijke ruimte tussen de beide kegels.    </sup> | 2 boven elkaar geplaatste zwarte kegels met de toppen naar boven gericht  | kleur:  | zwart boven geel  |
+| topteken**)  | 2 boven elkaar geplaatste zwarte kegels met de toppen naar boven gericht  | kleur:  | zwart boven geel  |
 |:---|:---|:---|:---|
 | vorm:  | pilaar of spar  |
-| licht :  <sup> *   Indien aanwezig    </sup> |   –  kleur: wit     –  karakter: VQ of Q      |
+| licht*:  |   –  kleur: wit     –  karakter: VQ of Q      |
 
 3.3.2 *Oost cardinale markering*  
 
-| topteken  <sup> **)   Het uit twee kegels bestaande topteken is overdag het belangrijkste kenmerk van de cardinale markering en dient, waar dit uitvoerbaar is, altijd toegepast te worden en zo groot mogelijk te zijn, met een duidelijke ruimte tussen de beide kegels.    </sup> | 2 boven elkaar geplaatste zwarte kegels met de bases naar elkaar toe gericht  | kleur:  | zwart met één gele horizontale band  |
+| topteken**)  | 2 boven elkaar geplaatste zwarte kegels met de bases naar elkaar toe gericht  | kleur:  | zwart met één gele horizontale band  |
 |:---|:---|:---|:---|
 | vorm:  | pilaar of spar  |
-| licht :  <sup>    Indien aanwezig    </sup> |   –  kleur: wit     –  karakter: VQ(3) 5 sec. of Q(3) 10 sec.      |
+| licht*:  |   –  kleur: wit     –  karakter: VQ(3) 5 sec. of Q(3) 10 sec.      |
 
 3.3.3 *Zuid cardinale markering*  
 
-| topteken  <sup> **)   Het uit twee kegels bestaande topteken is overdag het belangrijkste kenmerk van de cardinale markering en dient, waar dit uitvoerbaar is, altijd toegepast te worden en zo groot mogelijk te zijn, met een duidelijke ruimte tussen de beide kegels.    </sup> | 2 boven elkaar geplaatste zwarte kegels met de toppen naar beneden gericht kleur: geel boven zwart  | vorm:  | pilaar of spar  |
+| topteken**)  | 2 boven elkaar geplaatste zwarte kegels met de toppen naar beneden gericht kleur: geel boven zwart  | vorm:  | pilaar of spar  |
 |:---|:---|:---|:---|
-| licht :  <sup> *   Indien aanwezig    </sup> |   –  kleur: wit     –  karakter: VQ(6)+LFI 10 sec. of Q(6) + LFI 15 sec.      |
+| licht*:  |   –  kleur: wit     –  karakter: VQ(6)+LFI 10 sec. of Q(6) + LFI 15 sec.      |
 
 3.3.4 *West cardinale markering*  
 
-| topteken  <sup> **)   Het uit twee kegels bestaande topteken is overdag het belangrijkste kenmerk van de cardinale markering en dient, waar dit uitvoerbaar is, altijd toegepast te worden en zo groot mogelijk te zijn, met een duidelijke ruimte tussen de beide kegels.    </sup> | 2 boven elkaar geplaatste zwarte kegels met de toppen naar elkaar toe gericht  | kleur:  | geel met één zwarte brede horizontale band  |
+| topteken**)  | 2 boven elkaar geplaatste zwarte kegels met de toppen naar elkaar toe gericht  | kleur:  | geel met één zwarte brede horizontale band  |
 |:---|:---|:---|:---|
-| licht :  <sup> *   Indien aanwezig    </sup> |   –  kleur: wit     –  karakter: VQ(9) 10 sec. of Q(9) 15 sec.      |
+| licht*:  |   –  kleur: wit     –  karakter: VQ(9) 10 sec. of Q(9) 15 sec.      |
+
+**) Het uit twee kegels bestaande topteken is overdag het belangrijkste kenmerk van de cardinale markering en dient, waar dit uitvoerbaar is, altijd toegepast te worden en zo groot mogelijk te zijn, met een duidelijke ruimte tussen de beide kegels. * Indien aanwezig  
 
 ### 4  
 
@@ -522,12 +521,12 @@ Een markering ter aanduiding van een afzonderlijk gevaar is een markering die is
 
 ####Beschrijving van de betonning ter aanduiding van afzonderlijke gevaren
 
-| topteken :  <sup> **)   Het uit twee bollen bestaande topteken is overdag het belangrijkste kenmerk van de markering ter aanduiding van een afzonderlijk gevaar en dient, waar dit uitvoerbaar is, altijd toegepast te worden en zo groot mogelijk te zijn, met een duidelijke ruimte tussen de twee bollen.    </sup> | 2 boven elkaar geplaatste zwarte bollen  | kleur:  | zwart met één of meer brede rode horizontale band(en)  |
+| topteken**):  | 2 boven elkaar geplaatste zwarte bollen  | kleur:  | zwart met één of meer brede rode horizontale band(en)  |
 |:---|:---|:---|:---|
 | vorm:  | naar keuze maar niet in strijd met de latere betonning, bij voorkeur pilaar of spar  |
-| licht :  <sup> *   Indien aanwezig    </sup> |   –  kleur, wit     –  karakter: groep schitter (2).      |
+| licht*:  |   –  kleur, wit     –  karakter: groep schitter (2).      |
 
-![14843](http://wetten.overheid.nl/Illustration/14843)
+**) Het uit twee bollen bestaande topteken is overdag het belangrijkste kenmerk van de markering ter aanduiding van een afzonderlijk gevaar en dient, waar dit uitvoerbaar is, altijd toegepast te worden en zo groot mogelijk te zijn, met een duidelijke ruimte tussen de twee bollen.   ![14843](http://wetten.overheid.nl/Illustration/14843)
 
 ### 5  
 
@@ -545,11 +544,11 @@ Een markering ter aanduiding van veilig vaarwater geeft aan dat zich rond de mar
 
 | kleur:  | rood-wit vertikaal gestreept  | vorm:  | bol; pilaar of spar met een bol topteken  |
 |:---|:---|:---|:---|
-| topteken :  <sup> *   Indien aanwezig    </sup> | enkele rode bol  |
-| licht :  <sup> *   Indien aanwezig    </sup> | – kleur, wit  |
+| topteken*:  | enkele rode bol  |
+| licht:  | – kleur, wit  |
 | --- | – karakter: Iso, Oc, LFI 10 sec. of Morse Code «A».  |
 
-![14844](http://wetten.overheid.nl/Illustration/14844)
+* Indien aanwezig   ![14844](http://wetten.overheid.nl/Illustration/14844)
 
 ### 6  
 
@@ -577,11 +576,11 @@ Markeringen die niet in de eerste plaats bestemd zijn voor de navigatie, maar di
 
 | kleur:  | geel  | vorm:  | naar keuze, maar niet in strijd met de laterale betonning  |
 |:---|:---|:---|:---|
-| topteken :  <sup> *   Indien aanwezig    </sup> | enkel geel liggend kruis  |
-| licht :  <sup> *   Indien aanwezig    </sup> | – kleur: geel  |
+| topteken*:  | enkel geel liggend kruis  |
+| licht*:  | – kleur: geel  |
 | --- | – karakter: naar keuze Fl, Fl(3), Fl(4), Fl(5).  |
 
-![14845](http://wetten.overheid.nl/Illustration/14845)
+* Indien aanwezig   ![14845](http://wetten.overheid.nl/Illustration/14845)
 
 ### 6.3  
 
@@ -604,4 +603,30 @@ De term «nieuwe gevaren» wordt gebruikt voor recent ontdekte gevaren die nog n
 ####Het markeren van nieuwe gevaren
 
 7.2.1 Nieuwe gevaren dienen overeenkomstig de voorgaande regels te worden gemarkeerd. Indien de verantwoordelijke autoriteit meent dat het nieuwe gevaar bijzonder ernstig is, dan dient tenminste één van de markeringen ten spoedigste in dubbele uitvoering te worden toegepast. 7.2.2 Elke voor dit doel gebruikte lichtboei dient te zijn uitgerust met een geschikt cardinaal of lateraal VQ of Q karakter. 7.2.3 Van elke dubbel uitgevoerde markering dienen beide eenheden geheel gelijk aan elkaar te zijn. 7.2.4 Een markering van een nieuw gevaar kan worden uitgerust met een racon, voorzien van de morse code «D», die een signaal geeft op het radarscherm ter lengte van één zeemijl. 7.2.5 De dubbele markering kan worden verwijderd indien de betrokken autoriteit van mening is dat de gegevens betreffende het nieuwe gevaar op voldoende wijze zijn bekendgesteld.  
+
+### 8  
+
+####Nood-Wrakboei
+
+De nood-wrakboei is bedoeld om direct bij een nieuw wrak te worden geplaatst en in positie te worden gehouden totdat de locatie van het wrak voldoende bekend is gesteld en de gebruikelijke cardinale betonning is geplaatst. Eén of meerdere nood-wrakboeien moeten zo dicht mogelijk bij het wrak worden geplaatst als uitvoerbaar is. De nood-wrakboeien moeten in positie blijven totdat: 
+
+– het bestaan van het wrak algemeen bekend is en voldoende bekend is gemaakt in de nautische publicaties;  
+
+– het wrak geheel onderzocht is, zodat de exacte gegevens over de positie van het wrak en de diepte waarop het ligt bekend zijn; en  
+
+– een permanente markering is aangebracht.   De nood-wrakboei heeft de volgende specificaties (zie bijgevoegde markering): 
+
+– een pilaar- of sparvormige boei, waarvan het formaat van de locatie afhangt;  
+
+– voorzien van evenveel gele als blauwe strepen van hetzelfde formaat, minimaal vier en maximaal acht;  
+
+– voorzien van een afwisselend geel en blauw knipperend licht met een nominale dracht van vier mijl;  
+
+– het lichtkarakter van de gele en blauwe lichten is: Bu 1.0s + 0.5s + Y 1.0s + 0.5s = 3.0s;  
+
+– synchronisatie van de lichten bij toepassing van meerdere boeien;  
+
+– er kan een Racon met morsecode «D» of een AIS-baken worden bevestigd;  
+
+– er kan een geel topteken worden bevestigd, in de vorm van een rechtopstaand kruis.     ![248002](http://wetten.overheid.nl/Illustration/248002)
 

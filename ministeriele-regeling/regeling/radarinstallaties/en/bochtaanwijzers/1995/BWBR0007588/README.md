@@ -34,7 +34,7 @@ a. de Waddenzee;
 
 b. de havens van Termunten, van Delfzijl, van Hefshuizen (Eemshaven) en van Scheveningen;  
 
-c. het Noordzeekanaal, met inbegrip van zijkanaal G tot aan de Zaansluizen, en het IJ;  
+c. het Noordzeekanaal, met inbegrip van zijkanaal G tot aan de Zaansluizen, het IJ en de vaarwegen ten westen van de Noordzeesluizen te IJmuiden;  
 
 d. het IJsselmeer, met inbegrip van het Markermeer en het IJmeer en met uitzondering van de Gouwzee;  
 

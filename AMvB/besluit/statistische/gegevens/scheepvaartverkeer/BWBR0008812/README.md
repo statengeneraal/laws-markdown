@@ -34,7 +34,7 @@ Artikel 2 is van overeenkomstige toepassing op degene die een schip voert dat zi
 
 ### Artikel  5  
 
-1.  Degene die een zeeschip voert als bedoeld in artikel 2, tweede lid, van richtlijn nr. 95/64/EG van de Raad van de Europese Unie van 8 december 1995 betreffende de statistiek van het zeevervoer van goederen en personen (*PbEG* L 320), draagt er zorg voor dat de gegevens bedoeld in artikel 3 van die richtlijn, die volgens opgave van het Centraal bureau voor de statistiek dienen te worden gemeld, aan het Centraal bureau voor de statistiek worden verstrekt.   
+1.  Degene die een zeeschip voert als bedoeld in artikel 2, tweede lid, van richtlijn nr. 2009/42/EG van het Europees Parlement en de Raad van 6 mei 2009 betreffende de statistiek van het zeevervoer van goederen en personen, draagt er zorg voor dat de gegevens bedoeld in artikel 3 van die richtlijn, die volgens opgave van het Centraal bureau voor de statistiek dienen te worden gemeld, aan het Centraal bureau voor de statistiek worden verstrekt.   
 2.  De verstrekking van statistische gegevens als bedoeld in het eerste lid, geschiedt in schriftelijke vorm of op een andere door het Centraal bureau voor de statistiek toegelaten wijze, binnen een door dat Centraal bureau aan te geven termijn.   
 
 ### Artikel  6  

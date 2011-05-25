@@ -1029,6 +1029,11 @@ Artikel 407 van Boek 7 is niet van toepassing op een overeenkomst van lastgeving
 2.  Bij de bepaling van de vergoeding bedoeld in artikel 442 van Boek 7 wordt de hogere waarde die de handelsagent aan de principaal heeft verschaft in de periode vóór 1 januari 1971, buiten beschouwing gelaten, indien de agentuurovereenkomst vóór 1 januari 1994 eindigt.   
 3.  Wijzigt de Wet van 23 maart 1977, Stb. 153, en de wet van 5 juli 1989, Stb. 312..   
 
+### Artikel  211a  
+
+1.  [Titel 2A](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet van toepassing op kredietovereenkomsten die vóór het inwerkingtreden van deze titel zijn gesloten.   
+2.  Op kredietovereenkomsten met onbepaalde looptijd die op het tijdstip van het inwerkingtreden van [titel 2A](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) reeds liepen, zijn vanaf dat tijdstip de [artikelen 62](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [63](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [65](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [69](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [70 lid 2](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van toepassing.   
+
 ### Artikel  212  
 
 [Artikel 665a van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet van toepassing indien het besluit tot overgang wordt genomen of voorgenomen vóór het tijdstip waarop deze bepaling in werking treedt en de overgang op of na bedoeld tijdstip plaatsvindt.  

@@ -13,9 +13,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder: 
 
-a. geldkrediet: geldkrediet als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+a. geldkrediet: krediet als bedoeld in onderdeel a van de definitie van krediet in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-b. goederenkrediet: goederenkrediet als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+b. goederenkrediet: krediet als bedoeld in onderdeel b van de definitie van krediet in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
 c. goed: een roerende zaak of een vermogensrecht dat geen registergoed is;  
 

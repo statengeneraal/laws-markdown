@@ -23,7 +23,7 @@ Navigatielantaarns die zijn goedgekeurd door de bevoegde autoriteit van een der 
 
 1.  Op de hiernagenoemde vaarwegen: 
 
-a. het Noordzeekanaal en de zijkanalen daarvan met inbegrip van de Voorzaan noordwaarts tot aan de Zaansluizen en het IJ, alsmede de havens aan deze vaarwegen;  
+a. het Noordzeekanaal en de zijkanalen daarvan met inbegrip van de Voorzaan noordwaarts tot aan de Zaansluizen, het IJ en de vaargebieden ten westen van de Noordzeesluizen te IJmuiden, alsmede de havens aan deze vaarwegen;  
 
 b. de Maasmond, de Nieuwe Waterweg, de Nieuwe Maas, het Beerkanaal, het Calandkanaal en het Hartelkanaal, alsmede de havens aan deze vaarwegen;  
 

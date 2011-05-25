@@ -1693,7 +1693,11 @@ b. het luchthavenbesluit dat op deze luchthaven betrekking heeft,   en op die pl
 
 *luchthavenexploitatievergunning:* de vergunning, bedoeld in artikel 8.25;  
 
-*raad:* de raad van bestuur van de Nederlandse Mededingingsautoriteit, bedoeld in [artikel 2 van de Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md).     
+*luchthavennetwerk:* een groep luchthavens die als zodanig door de lidstaat is aangewezen en die wordt geëxploiteerd door een en dezelfde exploitant van de luchthaven;  
+
+*raad:* de raad van bestuur van de Nederlandse Mededingingsautoriteit, bedoeld in [artikel 2 van de Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md);  
+
+*representatieve organisatie:* een bij ministeriële regeling aangewezen rechtspersoon die de belangen vertegenwoordigt van gebruikers.     
 2.  In deze titel wordt onder bestemmingsplan mede verstaan een inpassingsplan als bedoeld in [artikel 3.26](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of  [3.28 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
 
 ### Artikel  8.2  
@@ -1948,59 +1952,79 @@ Indien een ernstig vermoeden bestaat dat een omstandigheid als bedoeld in artike
 
 1.  De exploitant van de luchthaven stelt ten minste eenmaal per jaar de tarieven en voorwaarden vast voor de activiteiten van de exploitant van de luchthaven ten behoeve van het gebruik van de luchthaven door gebruikers. De exploitant van de luchthaven doet voorafgaande aan de periode waarop de tarieven en voorwaarden betrekking hebben, mededeling van de tarieven en voorwaarden.   
 2.  De tarieven en voorwaarden zijn redelijk en non-discriminatoir.   
-3.  De tarieven voor de activiteiten, bedoeld in het eerste lid, zijn voor het geheel van de activiteiten kostengeoriënteerd.   
-4.  Onverminderd het derde lid, zijn de tarieven voor de beveiliging van passagiers en hun bagage voor het geheel van de beveiligingsactiviteiten kostengeoriënteerd.   
-5.  Bij de vaststelling van de tarieven neemt de exploitant van de luchthaven de toegerekende opbrengsten in aanmerking uit overige activiteiten van de exploitant van de luchthaven die rechtstreeks verband houden met de activiteiten, bedoeld in het eerste lid.   
-6.  Bij de vaststelling van de tarieven neemt de exploitant van de luchthaven de kosten in aanmerking van structurele maatregelen voor de uitvoering van een bijzondere aanwijzing van Onze Minister van Justitie, bedoeld in [artikel 37ac, tweede lid, van de Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md), voor zover die maatregelen betrekking hebben op de beveiliging van passagiers en hun bagage.   
-7.  Bij de vaststelling van de tarieven kan, in afwijking van het derde en vierde lid, de exploitant van de luchthaven een bijdrage uit andere activiteiten dan die, bedoeld in het eerste en vijfde lid, in aanmerking nemen.   
-8.  Bij de vaststelling van de tarieven wordt de bijdrage, bedoeld in het zevende lid, naar rato van de kosten toegerekend aan de activiteiten voor de beveiliging van passagiers en hun bagage, bedoeld in het vierde lid, en de overige activiteiten ten behoeve van het gebruik van de luchthaven door gebruikers, bedoeld in het vijfde lid.   
-9.  De exploitant van de luchthaven verrekent bij de vaststelling van de tarieven, nadat deze zijn bepaald met inachtneming van het tweede tot en met achtste lid, het verschil tussen de geraamde en de werkelijke opbrengsten en kosten in verband met de prognoses en de realisatie van het volume van het luchthavenluchtverkeer, het vervoer van passagiers en vracht en van de uitvoering van investeringen, zoals volgt uit de financiële verantwoording over het aan het moment van vaststelling van de tarieven voorafgaande boekjaar.   
-10.  Bij de vaststelling van het tarief voor de beveiliging van passagiers en hun bagage, nadat deze is bepaald met inachtneming het tweede tot en met achtste lid, verrekent de exploitant van de luchthaven de extra opbrengst voor de beveiliging van passagiers en hun bagage die is verkregen nadat een structurele maatregel als bedoeld in het zesde lid, is ingetrokken, en het tarief voor de beveiliging van passagiers en hun bagage nog niet dienovereenkomstig is aangepast.   
-11.  De exploitant van de luchthaven hanteert de tarieven en voorwaarden die ingevolge het eerste lid zijn vastgesteld, gedurende de periode waarop de vaststelling van de tarieven en voorwaarden betrekking heeft.   
-12.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent: 
+3.  De tarieven kunnen worden gedifferentieerd uit een oogpunt van algemeen belang, met inbegrip van de bescherming van het milieu. De criteria voor deze tariefsdifferentiatie dienen differentiatie te kunnen rechtvaardigen en zijn objectief en transparant.   
+4.  De tarieven voor de activiteiten, bedoeld in het eerste lid, zijn voor het geheel van de activiteiten kostengeoriënteerd.   
+5.  Onverminderd het vierde lid, zijn de tarieven voor de beveiliging van passagiers en hun bagage, alsmede vracht voor het geheel van de beveiligingsactiviteiten kostengeoriënteerd.   
+6.  Bij de vaststelling van de tarieven neemt de exploitant van de luchthaven de toegerekende opbrengsten in aanmerking uit overige activiteiten van de exploitant van de luchthaven die rechtstreeks verband houden met de activiteiten, bedoeld in het eerste lid.   
+7.  Bij de vaststelling van de tarieven neemt de exploitant van de luchthaven de kosten in aanmerking van structurele maatregelen voor de uitvoering van een bijzondere aanwijzing van Onze Minister van Justitie, bedoeld in [artikel 37ac, tweede lid, van de Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md), voor zover die maatregelen betrekking hebben op de beveiliging van passagiers en hun bagage.   
+8.  Bij de vaststelling van de tarieven kan, in afwijking van het vierde en vijfde lid, de exploitant van de luchthaven een bijdrage uit andere activiteiten dan die, bedoeld in het eerste en zesde lid, in aanmerking nemen.   
+9.  Bij de vaststelling van de tarieven wordt de bijdrage, bedoeld in het achtste lid, naar rato van de kosten toegerekend aan de activiteiten voor de beveiliging van passagiers en hun bagage, bedoeld in het vijfde lid, en de overige activiteiten ten behoeve van het gebruik van de luchthaven door gebruikers, bedoeld in het zesde lid.   
+10.  De exploitant van de luchthaven verrekent bij de vaststelling van de tarieven, nadat deze zijn bepaald met inachtneming van het tweede tot en met negende lid, het verschil tussen de geraamde en de werkelijke opbrengsten en kosten in verband met de prognoses en de realisatie van het volume van het luchthavenluchtverkeer, het vervoer van passagiers en vracht en van de uitvoering van investeringen, zoals volgt uit de financiële verantwoording over het aan het moment van vaststelling van de tarieven voorafgaande boekjaar.   
+11.  Bij de vaststelling van het tarief voor de beveiliging van passagiers en hun bagage, nadat deze is bepaald met inachtneming van het tweede tot en met negende lid, verrekent de exploitant van de luchthaven de extra opbrengst voor de beveiliging van passagiers en hun bagage die is verkregen nadat een structurele maatregel als bedoeld in het zevende lid, is ingetrokken, en het tarief voor de beveiliging van passagiers en hun bagage nog niet dienovereenkomstig is aangepast.   
+12.  De exploitant van de luchthaven hanteert de tarieven en voorwaarden die ingevolge het eerste lid zijn vastgesteld, gedurende de periode waarop de vaststelling van de tarieven en voorwaarden betrekking heeft.   
+13.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent: 
 
 a. de activiteiten ten behoeve van het gebruik van de luchthaven door gebruikers waarvoor tarieven en voorwaarden als bedoeld in het eerste lid, worden vastgesteld;  
 
-b. de activiteiten, bedoeld in het vijfde lid, die rechtstreeks verband houden met de activiteiten ten behoeve van het gebruik van de luchthaven, bedoeld in het eerste lid;  
+b. de activiteiten, bedoeld in het zesde lid, die rechtstreeks verband houden met de activiteiten ten behoeve van het gebruik van de luchthaven, bedoeld in het eerste lid;  
 
 c. de wijze en het tijdstip waarop de mededeling, bedoeld in het eerste lid, plaatsvindt;  
 
-d. de kostenoriëntatie, bedoeld in het derde en vierde lid;  
+d. de kostenoriëntatie, bedoeld in het vierde en vijfde lid;  
 
 e. het tijdstip van vaststelling en inwerkingtreding van de tarieven en voorwaarden;  
 
-f. de wijze waarop de exploitant van de luchthaven, zonodig in afwijking van de regels, bedoeld in onderdeel e, uitvoering geeft aan het zesde lid.     
-13.  De voordracht voor een krachtens het twaalfde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.   
+f. de wijze waarop de exploitant van de luchthaven, zonodig in afwijking van de regels, bedoeld in onderdeel e, uitvoering geeft aan het zevende lid.     
+14.  De voordracht voor een krachtens het dertiende lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.   
+
+### Artikel  8.25da  
+
+1.  Onze minister van Verkeer en Waterstaat kan een groep luchthavens die wordt geëxploiteerd door de exploitant van de luchthaven of, indien dit een ander is, een en dezelfde houder van de luchthavenexploitatievergunning, aanwijzen als luchthavennetwerk.   
+2.  Onze minister van Verkeer en Waterstaat kan de exploitant van het luchthavennetwerk toestemming verlenen om een gemeenschappelijk, transparant systeem van tarieven vast te stellen voor het gehele luchthavennetwerk.   
+3.  Onze minister van Verkeer en Waterstaat kan de exploitant van de luchthaven en de exploitant van elke deelnemende overige burgerluchthaven, voor zover zij luchtverbindingen voor dezelfde stad of agglomeratie verzorgen, toestemming verlenen om een gemeenschappelijk, transparant systeem van tarieven vast te stellen voor alle luchthavens die de luchtverbindingen voor dezelfde stad of agglomeratie verzorgen.   
+4.  In geval van een gemeenschappelijk, transparant systeem van tarieven, als bedoeld in het tweede of derde lid, doet de exploitant van de luchthaven aan de gebruikers mededeling van een voorstel voor de tarieven en voorwaarden en stelt hij de tarieven en voorwaarden vast voor de luchthaven Schiphol overeenkomstig de artikelen 8.25d tot en met 8.25i. De exploitant van elke deelnemende overige burgerluchthaven doet aan de gebruikers mededeling van een voorstel en stelt de tarieven vast overeenkomstig de artikelen 8.25d, eerste, tweede, zesde en tiende lid, 8.25e, 8.25f, 8.25h, 8.25i en 8.25j. De exploitant en de deelnemende overige burgerluchthavens dragen zorg voor de noodzakelijke onderlinge afstemming.   
+5.  In het geval dat een overige burgerluchthaven de drempelwaarde van vijf miljoen passagiersbewegingen overschrijdt, doet de exploitant van deze luchthaven aan de gebruikers mededeling van een voorstel voor de tarieven en voorwaarden en stelt hij de tarieven en voorwaarden vast overeenkomstig de artikelen 8.25d, eerste, tweede, zesde en tiende lid, 8.25e, 8.25f, 8.25h, 8.25i en 8.25j.   
 
 ### Artikel  8.25e  
 
-1.  Voorafgaand aan de vaststelling van de tarieven en voorwaarden, bedoeld in artikel 8.25d, eerste lid, doet de exploitant van de luchthaven aan de gebruikers van de luchthaven mededeling van een voorstel van deze tarieven en voorwaarden met een omschrijving van de daarvoor te leveren diensten, alsmede een toelichting, inhoudende een economische onderbouwing en een omschrijving, aan de hand van indicatoren, van het kwaliteitsniveau van de aangeboden diensten ten behoeve van het gebruik van de luchthaven.   
-2.  De exploitant van de luchthaven raadpleegt de gebruikers van de luchthaven over het voorstel, bedoeld in het eerste lid, alvorens de tarieven en voorwaarden vast te stellen.   
-3.  De exploitant van de luchthaven houdt bij de vaststelling van de tarieven en voorwaarden rekening met de zienswijze van de gebruikers van de luchthaven naar aanleiding van de raadpleging, bedoeld in het tweede lid, en motiveert bij de vaststelling van de tarieven en voorwaarden zijn overwegingen omtrent de ingebrachte zienswijzen.   
-4.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent: 
+1.  Voorafgaand aan de vaststelling van de tarieven en voorwaarden, bedoeld in artikel 8.25d, eerste lid, doet de exploitant van de luchthaven aan de gebruikers van de luchthaven en representatieve organisaties mededeling van een voorstel van deze tarieven en voorwaarden met een omschrijving van de daarvoor te leveren diensten, alsmede een toelichting, inhoudende een economische onderbouwing en een omschrijving, aan de hand van indicatoren, van het kwaliteitsniveau van de aangeboden diensten ten behoeve van het gebruik van de luchthaven.   
+2.  Voorafgaand aan het voorstel voor de vaststelling van de tarieven en voorwaarden, bedoeld in artikel 8.25d, eerste lid, verstrekken de gebruikers aan de exploitant de bij of krachtens algemene maatregel van bestuur voorgeschreven informatie.   
+3.  De exploitant van de luchthaven raadpleegt de gebruikers van de luchthaven en representatieve organisaties over het voorstel, bedoeld in het eerste lid, alvorens de tarieven en voorwaarden vast te stellen.   
+4.  De exploitant van de luchthaven houdt bij de vaststelling van de tarieven en voorwaarden rekening met de zienswijze van de gebruikers van de luchthaven en van representatieve organisaties naar aanleiding van de raadpleging, bedoeld in het derde lid, en motiveert bij de vaststelling van de tarieven en voorwaarden zijn overwegingen omtrent de ingebrachte zienswijzen.   
+5.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent: 
 
 a. de wijze en het tijdstip waarop de mededeling, bedoeld in het eerste lid, plaatsvindt;  
 
-b. de wijze waarop de raadpleging, bedoeld in het tweede lid, plaatsvindt;  
+b. de wijze waarop de raadpleging, bedoeld in het derde lid, plaatsvindt;  
 
 c. de indicatoren, bedoeld in het eerste lid;  
 
 d. de gegevens die door de exploitant van de luchthaven moeten worden opgenomen in het voorstel voor de tarieven en voorwaarden, bedoeld in het eerste lid, en de daarbij behorende toelichting.     
+6.  De op basis van dit artikel door de exploitant aan de gebruikers van de luchthaven verstrekte informatie dient door de gebruikers te worden beschouwd en behandeld als bedrijfsvertrouwelijk of economisch gevoelig. De op basis van dit artikel door de gebruikers van de luchthaven aan de exploitant verstrekte informatie dient door de exploitant evenzeer te worden beschouwd en behandeld als bedrijfsvertrouwelijk of economisch gevoelig en mag door de exploitant bovendien niet in een tot een gebruiker herleidbare vorm in het voorstel worden verwerkt.   
+
+### Artikel  8.25ea  
+
+1.  Gebruikers van de luchthaven die gebruik wensen te maken van diensten op maat of specifiek voor hen gereserveerde terminals of delen van terminals, kunnen een verzoek daartoe richten aan de exploitant.   
+2.  De exploitant van de luchthaven stelt relevante, objectieve, transparante en non-discriminatoire criteria vast, op basis waarvan een verzoek van gebruikers van de luchthaven wordt beoordeeld.   
+3.  Naast de criteria, bedoeld in het tweede lid, kan de exploitant van de luchthaven aanvullende criteria hanteren indien de inhoud van het verzoek daartoe noodzaakt. De aanvullende criteria voldoen aan dezelfde eisen als de criteria bedoeld in het tweede lid.   
+4.  Indien binnen vier weken nadat de exploitant van de luchthaven heeft beslist op een verzoek als bedoeld in het eerste lid, daartoe een aanvraag van een gebruiker is ingediend, stelt de raad vast of de beslissing van de exploitant in strijd is met bij of krachtens deze wet gestelde regels. De raad geeft zijn oordeel binnen drie maanden. Indien de raad vaststelt dat de beslissing in strijd is met bij of krachtens deze wet gestelde regels, deelt hij dit terstond mede aan de exploitant van de luchthaven. De exploitant van de luchthaven neemt binnen vier weken een nieuwe beslissing op het verzoek met inachtneming van de overwegingen van de raad.   
 
 ### Artikel  8.25f  
 
-1.  Indien binnen vier weken na de mededeling, bedoeld in artikel 8.25d, eerste lid, van de vaststelling van de tarieven en voorwaarden daartoe een aanvraag van een gebruiker is ingediend, stelt de raad vast of de tarieven en voorwaarden in strijd zijn met bij of krachtens deze wet gestelde regels. De raad deelt de exploitant van de luchthaven terstond mede dat een aanvraag van een gebruiker is ontvangen.   
-2.  De raad beslist zo spoedig mogelijk op de aanvraag doch uiterlijk binnen drie maanden na ontvangst van de aanvraag. Deze termijn kan eenmaal worden verlengd met ten hoogste acht weken.   
-3.  Indien de raad vaststelt dat de tarieven en voorwaarden in strijd zijn met bij of krachtens deze wet gestelde regels, deelt hij dit terstond mede aan de exploitant van de luchthaven. De exploitant van de luchthaven stelt opnieuw de tarieven en voorwaarden vast met inachtneming van de overwegingen van de raad op grond van het eerste lid.   
-4.  Het eerste lid en artikel 8.25e zijn niet van toepassing op de vaststelling van tarieven en voorwaarden als bedoeld in het derde lid.   
-5.  De exploitant van de luchthaven hanteert de ingevolge het derde lid vastgestelde tarieven en voorwaarden gedurende het resterende deel van de periode waarvoor de tarieven en voorwaarden overeenkomstig artikel 8.25d, eerste lid, waren vastgesteld.   
-6.  Vanaf de dag waarop door de raad is vastgesteld dat de tarieven en voorwaarden, bedoeld in het eerste lid, in strijd zijn met bij of krachtens deze wet gestelde regels, tot het moment dat de tarieven en voorwaarden, bedoeld in het derde lid, zijn vastgesteld, hanteert de exploitant van de luchthaven de tarieven en voorwaarden die golden in de periode voorafgaande aan de periode waarvoor de bestreden tarieven waren vastgesteld.   
-7.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de aanvraag, bedoeld in het eerste lid, aan de raad en omtrent de vaststelling van tarieven en voorwaarden, bedoeld in het derde lid.   
+1.  Indien binnen vier weken na de mededeling, bedoeld in artikel 8.25d, eerste lid, van de vaststelling van de tarieven en voorwaarden bij de raad een aanvraag van een gebruiker of van een representatieve organisatie is ingediend tot vaststelling of de tarieven en voorwaarden in strijd zijn met bij of krachtens deze wet gestelde regels, treden de tarieven en voorwaarden op de voorgenomen ingangsdatum niet in werking. De raad deelt de exploitant van de luchthaven terstond mede dat een aanvraag van een gebruiker of van een representatieve organisatie is ontvangen.   
+2.  De raad neemt binnen vier weken na ontvangst van de aanvraag een besluit omtrent de inwerkingtreding van de door de exploitant vastgestelde tarieven en voorwaarden. De raad wijst daarbij de tarieven en voorwaarden aan waarvoor, gelet op de aanvraag, de in het eerste lid bedoelde opschorting van de inwerkingtreding noodzakelijk blijft. In plaats van deze aangewezen tarieven en voorwaarden hanteert de exploitant de tarieven en voorwaarden die golden in de periode voorafgaand aan de periode waarvoor de aangewezen tarieven en voorwaarden waren vastgesteld. De tarieven en voorwaarden die niet zijn aangewezen, treden op de door de exploitant voorgenomen ingangsdatum in werking. Het nemen van een besluit als bedoeld in de eerste volzin, blijft achterwege indien binnen de daarin genoemde termijn een besluit over de aanvraag kan worden genomen.   
+3.  De raad beslist zo spoedig mogelijk doch uiterlijk binnen vier maanden na ontvangst van de aanvraag. Deze termijn kan in uitzonderlijke gevallen met twee maanden worden verlengd. De raad doet de aanvrager voor het einde van de in de eerste volzin bedoelde termijn met redenen omkleed mededeling van de verlenging.   
+4.  Indien de raad vaststelt dat de tarieven en voorwaarden in strijd zijn met bij of krachtens deze wet gestelde regels, deelt hij dit terstond mede aan de exploitant van de luchthaven. De exploitant van de luchthaven stelt opnieuw de tarieven en voorwaarden vast met inachtneming van de overwegingen van de raad. Nadat de tarieven en voorwaarden opnieuw zijn vastgesteld, trekt de raad het besluit omtrent de inwerkingtreding bedoeld in het tweede lid in. De opnieuw vastgestelde tarieven en voorwaarden gelden vanaf de door de exploitant oorspronkelijk voorgenomen ingangsdatum.   
+5.  Indien de raad heeft vastgesteld dat de tarieven en voorwaarden niet in strijd zijn met bij of krachtens deze wet gestelde regels, trekt hij het besluit omtrent de inwerkingtreding bedoeld in het tweede lid in, en gelden deze tarieven en voorwaarden vanaf de door de exploitant oorspronkelijk voorgenomen ingangsdatum.   
+6.  Eventuele verschillen in tarieven, voortvloeiende uit beslissingen van de raad als bedoeld in het eerste tot en met vijfde lid, worden vereffend bij de hernieuwde vaststelling van de tarieven en voorwaarden.   
+7.  Het eerste lid en artikel 8.25e zijn niet van toepassing op de vaststelling van tarieven en voorwaarden als bedoeld in het vierde lid.   
+8.  De exploitant van de luchthaven hanteert de ingevolge het vierde lid vastgestelde tarieven en voorwaarden gedurende het resterende deel van de periode waarvoor de tarieven en voorwaarden overeenkomstig artikel 8.25d, eerste lid, waren vastgesteld.   
+9.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de aanvraag, bedoeld in het eerste lid, aan de raad en omtrent de vaststelling van tarieven en voorwaarden, bedoeld in het vierde lid.   
 
 ### Artikel  8.25g  
 
 1.  De exploitant van de luchthaven stelt een toerekeningssysteem vast voor de kosten en opbrengsten van de activiteiten, bedoeld in artikel 8.25d, eerste lid, dat voldoet aan de eisen van marktconformiteit, proportionaliteit en integraliteit. De exploitant van de luchthaven legt het toerekeningssysteem ter goedkeuring voor aan de raad.   
-2.  De exploitant van de luchthaven voert voor de activiteiten met betrekking tot het gebruik van de luchthaven door gebruikers een gescheiden administratie binnen de boekhouding, waarbinnen de kosten en opbrengsten van de uitvoering van de beveiliging van passagiers en hun bagage, bedoeld in artikel 8.25d, vierde lid, afzonderlijk worden geadministreerd.   
+2.  De exploitant van de luchthaven voert voor de activiteiten met betrekking tot het gebruik van de luchthaven door gebruikers een gescheiden administratie binnen de boekhouding, waarbinnen de kosten en opbrengsten van de uitvoering van de beveiliging van passagiers en hun bagage, bedoeld in artikel 8.25d, vijfde lid, afzonderlijk worden geadministreerd.   
 3.  Op grond van de gescheiden administratie binnen de boekhouding, bedoeld in het tweede lid, stelt de exploitant van de luchthaven jaarlijks een financiële verantwoording op over het voorafgaande boekjaar, die bestaat uit een afzonderlijke exploitatierekening en een overzicht van de toegedeelde materiële vaste activa voor het geheel van de activiteiten, bedoeld in artikel 8.25d, eerste lid. De financiële verantwoording bevat een toelichting en is voorzien van een verklaring van een onafhankelijke accountant.   
 4.  De exploitant van de luchthaven legt binnen vijf maanden na afloop van het boekjaar van de exploitant van de luchthaven de financiële verantwoording over het voorafgaande boekjaar tezamen met de verklaring van de onafhankelijke accountant, over aan de raad en de gebruikers die daarom verzoeken.   
 5.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de inrichting en goedkeuring van het toerekeningssysteem, bedoeld in het eerste lid, de toedeling van activa aan de activiteiten, bedoeld in artikel 8.25d, eerste lid, de inrichting van de gescheiden administratie binnen de boekhouding, bedoeld in het tweede lid, en omtrent de financiële verantwoording, bedoeld in het derde lid.   
@@ -2024,8 +2048,9 @@ De exploitant van de luchthaven zendt de raad en de gebruikers binnen vijf maand
 ### Artikel  8.25i  
 
 1.  Een belanghebbende kan beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State tegen een besluit als bedoeld in de artikelen 8.25, tweede lid, 8.25b en 8.25c.   
-2.  In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten van de raad op grond van artikel 8.25f, eerste lid, en artikel 8.25g, eerste lid, de rechtbank te Rotterdam bevoegd.   
-3.  In geval van een beroep tegen besluiten als bedoeld in artikel 8.25f, eerste lid, en artikel 8.25g, eerste lid, blijft [artikel 7:1 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) buiten toepassing.   
+2.  Een belanghebbende kan beroep instellen bij het College van Beroep voor het bedrijfsleven tegen een besluit omtrent de voorlopige inwerkingtreding als bedoeld in artikel 8.25f, tweede lid.   
+3.  In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten van de raad op grond van artikel 8.25f, eerste lid, en artikel 8.25g, eerste lid, de rechtbank te Rotterdam bevoegd.   
+4.  In geval van een beroep tegen besluiten als bedoeld in artikel 8.25f, eerste en tweede lid, en artikel 8.25g, eerste lid, blijft [artikel 7:1 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) buiten toepassing.   
 
 ### Artikel  8.25j  
 
@@ -3633,7 +3658,7 @@ b. een maatregel als bedoeld in de artikelen 8.45 of 8.64, zesde lid, juncto art
 
 ### Artikel  11.24  
 
-Ingeval van overtreding van de artikelen 8.25d, eerste tot en met elfde lid, de krachtens het twaalfde lid gestelde regels, 8.25e, eerste, tweede of derde lid, de krachtens het vierde lid gestelde regels, 8.25f, derde, vijfde of zesde lid, de krachtens het zevende lid gestelde regels, 8.25g, eerste, tweede, derde of vierde lid, de krachtens het vijfde lid gestelde regels, 8.25ga of 8.25h, eerste of derde lid, zijn [artikel 54a](../../../../wet/mededingingswet/BWBR0008691/README.md) en [hoofdstuk 7](../../../../wet/mededingingswet/BWBR0008691/README.md), met uitzondering van [artikel 63, van de Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md) van overeenkomstige toepassing.  
+Ingeval van overtreding van de artikelen 8.25d, eerste tot en met dertiende lid, de krachtens het veertiende lid gestelde regels, 8.25da, vijfde en zesde lid, 8.25e, eerste, tweede, derde of vierde lid, de krachtens het vijfde lid gestelde regels, 8.25ea, tweede, derde lid of vierde lid, laatste volzin, 8.25f, eerste, tweede, vierde, achtste of negende lid, de krachtens het tiende lid gestelde regels, 8.25ga of 8.25h, eerste of derde lid, zijn [artikel 54a](../../../../wet/mededingingswet/BWBR0008691/README.md) en [hoofdstuk 7](../../../../wet/mededingingswet/BWBR0008691/README.md), met uitzondering van de [artikelen 58a](../../../../wet/mededingingswet/BWBR0008691/README.md) en [63, van de Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md) van overeenkomstige toepassing.  
 
 ### Titel  11.3  
 

@@ -26,7 +26,7 @@ a. *krediettransactie:* iedere overeenkomst en ieder samenstel van overeenkomste
 
 2°. door of vanwege de eerste partij (de kredietgever) aan de tweede partij (de kredietnemer) het genot van een roerende zaak wordt verschaft of een bij algemene maatregel van bestuur aangewezen dienst wordt verleend en de tweede partij aan de eerste partij een of meer betalingen doet, of  
 
-3°. door of vanwege de eerste partij (de kredietgever) aan de tweede partij (de kredietnemer), dan wel ten behoeve van deze aan een derde partij (de leverancier) een geldsom ter beschikking wordt gesteld ter zake van het verschaffen van het genot van een roerende zaak of het verlenen van een bij algemene maatregel van bestuur aangewezen dienst aan de tweede partij, en de tweede partij aan de eerste partij of aan de derde partij een of meer betalingen doet,   en dat ten minste een van de betalingen van de kredietnemer later plaatsvindt dan drie maanden nadat de geldsom ter beschikking is gesteld, onderscheidenlijk nadat met het verschaffen van het genot van de zaak of het verlenen van de dienst een aanvang is gemaakt;  
+3°. door of vanwege de eerste partij (de kredietgever) aan de tweede partij (de kredietnemer), dan wel ten behoeve van deze aan een derde partij (de leverancier) een geldsom ter beschikking wordt gesteld ter zake van het verschaffen van het genot van een roerende zaak of het verlenen van een bij algemene maatregel van bestuur aangewezen dienst aan de tweede partij, en de tweede partij aan de eerste partij of aan de derde partij een of meer betalingen doet;    
 
 b. *krediet verlenen:* het als kredietgever deelnemen aan een krediettransactie;  
 
@@ -54,9 +54,7 @@ m. *kredietsom bij goederenkrediet:* het verschil tussen het totaal van de conta
 
 n. *gemeentelijke kredietbank:* een instelling voor kredietverlening, opgericht door een of meer gemeenten;  
 
-o. *Onze Minister:* Onze Minister van Economische Zaken;  
-
-p. *richtlijn:*richtlijn (EEG) nr. 87/102 van de Raad van de Europese Gemeenschappen, van 22 december 1986, betreffende de harmonisatie van de wettelijke en bestuursrechtelijke bepalingen der Lid-Staten inzake het consumentenkrediet (*PbEG* L 42).    
+o. *Onze Minister:* Onze Minister van Economische Zaken.    
 
 ### Afdeling  2  
 
@@ -64,37 +62,13 @@ p. *richtlijn:*richtlijn (EEG) nr. 87/102 van de Raad van de Europese Gemeenscha
 
 ### Artikel  2  
 
-Deze wet geldt slechts voor krediettransacties, waaraan de kredietgever en, in voorkomend geval, de leverancier, deelnemen in de uitoefening van een bedrijf of beroep en waarbij de kredietnemer een natuurlijke persoon is.  
+1.  Onverminderd de bepalingen van [titel 2A van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) gelden voor de daar geregelde kredietovereenkomsten de volgende bepalingen.   
+2.  Onverminderd de bepalingen van [titel 2A van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) gelden, in afwijking van het eerste lid, voor krediettransacties waarbij de betalingen van de kredietnemer plaatsvinden binnen drie maanden nadat de geldsom ter beschikking is gesteld, onderscheidenlijk nadat met het verschaffen van het genot van de zaak of het verlenen van de dienst een aanvang is gemaakt, uitsluitend de artikelen 34 tot en met 36.   
+3.  In afwijking van het eerste lid, gelden de volgende bepalingen niet voor de overeenkomst betreffende effectenkrediet, bedoeld in [artikel 57 lid 1, onderdeel o, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).   
 
 ### Artikel  3  
 
 1.  Deze wet geldt niet voor krediettransacties, waarbij de kredietsom meer dan € 40 000 bedraagt.   
-
-### Artikel  4  
-
-1.  Deze wet geldt voorts niet voor krediettransacties: 
-
-a. waarbij het effectieve kredietvergoedingspercentage op jaarbasis, berekend op door Onze Minister aan te geven wijze, op het tijdstip van aangaan van de transactie niet meer bedraagt dan de wettelijke rente, zoals vastgesteld bij de algemene maatregel van bestuur, bedoeld in [artikel 120, eerste lid van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), mits geen openbaar aanbod wordt gedaan tot het deelnemen aan die transacties;  
-
-b. betreffende zaken, die naar hun aard uitsluitend in de uitoefening van een bedrijf of van een zelfstandig uitgeoefend beroep plegen te worden gebruikt of verbruikt;  
-
-c. waaraan als kredietnemer deelneemt een ondernemer, die de betrokken zaken in de uitoefening van een bedrijf wederverkoopt;  
-
-d. waaraan als kredietnemer deelneemt een ondernemer of zelfstandige beroepsbeoefenaar en met betrekking waartoe in een door de kredietnemer ondertekende verklaring staat vermeld, dat het krediet wordt verleend ten behoeve van de uitoefening van diens bedrijf of beroep;  
-
-e. die bestaan uit een overeenkomst van huur en verhuur of waartoe een zodanige overeenkomst behoort, tenzij deze betrekking heeft op bij algemene maatregel van bestuur aan te wijzen zaken en de strekking heeft dat het verschaffen van het genot van de zaak, waarop de overeenkomst betrekking heeft, al of niet door verlenging van die overeenkomst of het aangaan van een nieuwe overeenkomst, langer dan zes maanden zal duren;  
-
-f. die bestaan uit een geldkrediet, bij het aangaan waarvan hypothecaire zekerheid wordt verleend, dan wel een geldkrediet met betrekking waartoe reeds hypothecaire zekerheid bestaan, mits het krediet wordt verleend tegen een voor hypothecaire financieringen van de betrokken kredietgever gebruikelijk effectief kredietvergoedingspercentage op jaarbasis;  
-
-g. die bestaan uit belening van een levensverzekering bij de betrokken levensverzekeraar;  
-
-h. die bestaan uit belening van ter beurze genoteerde effecten dan wel van niet ter beurze genoteerde effecten, voor zover de waarde daarvan door middel van een openbare prijsaanduiding voor een ieder kenbaar is, mits de kredietsom de waarde van de betrokken effecten op het tijdstip van het aangaan van de transactie niet te boven gaat;  
-
-i. die bestaan uit een belening in de zin van de [Pandhuiswet](../../../../../../wet/pandhuiswet/1910/BWBR0001880/README.md) (*Stb.* 1910, 321), welke plaats vindt in een bank van lening als bedoeld in artikel 1, eerste lid, van die wet, indien daar in hoofdzaak beleningen plaatsvinden op de in die bepaling omschreven wijze;  
-
-j. waaraan wordt deelgenomen door openbare lichamen, ter uitvoering van een wettelijke taak.     
-2.   Vervallen.    
-3.  Indien een kredietgever bij het deelnemen aan krediettransacties als bedoeld in het eerste lid, onder *a*, handelt in strijd met hetgeen van een goed kredietgever in het maatschappelijk verkeer mag worden verwacht kan Onze Minister deze wet dan wel een of meer bepalingen daarvan van toepassing verklaren ter zake van zodanige krediettransacties.   
 
 ### Afdeling  3  
 
@@ -154,45 +128,11 @@ b. in het kader van een regeling met betrekking tot de bestaande schuldenlast va
 
 ####Het aangaan van een krediettransactie
 
-### Artikel  30  
-
-1.  Een overeenkomst die een krediettransactie vormt of tot een zodanige transactie behoort en waarbij een kredietnemer partij is, wordt aangegaan bij een door of namens alle partijen ondertekende onderhandse of notariële akte.   
-2.  Indien een overeenkomst als bedoeld in het eerste lid wordt aangegaan bij onderhandse akte, verstrekt de kredietgever of, in geval van een overeenkomst waarbij uitsluitend een leverancier en een kredietnemer partij zijn, de leverancier een door hem ondertekend afschrift aan de kredietnemer.   
-3.  De kredietgever en de leverancier dragen er, ieder voor zover hij aan de transactie deelneemt, zorg voor, dat de akte in ieder geval de volgende gegevens bevat: 
-
-a. de naam en het adres van ieder der partijen;  
-
-b. de naam en het adres van de kredietbemiddelaar die bij de totstandkoming van de overeenkomst betrokken is geweest;  
-
-c. de kredietsom in cijfers en in letterschrift;  
-
-d. bij goederenkrediet: de contantprijs van elk van de zaken of diensten, met dien verstande dat bij doorlopend goederenkrediet slechts de contantprijs behoeft te worden vermeld van de zaken onderscheidenlijk diensten, waarvan bij het aangaan van de transactie bekend is dat aan de kredietnemer het genot daarvan wordt verschaft onderscheidenlijk dat zij worden verleend;  
-
-e. het totaalbedrag van de kredietvergoeding, voor zover het niet betreft een doorlopend krediet of een krediettransactie waarbij de kredietvergoeding variabel is;  
-
-f. het effectieve kredietvergoedingspercentage op jaarbasis, berekend op door Onze Minister aan te geven wijze;  
-
-g. de betalingsregeling;  
-
-h. de bedingen betreffende zekerheidsrechten van de kredietgever of de leverancier, met inbegrip van een afzonderlijke aanduiding van elke zaak waarop een zodanig recht rust en de ingevolge artikel 40, tweede lid, geldende regeling betreffende overgang van eigendom;  
-
-i. de bevoegdheid van de kredietnemer tot volledige of gedeeltelijke vervroegde aflossing;  
-
-j. de plaats en datum van ondertekening.     
-4.  De in het derde lid voorgeschreven vermeldingen moeten duidelijk leesbaar en bevattelijk zijn.   
-5.  Indien niet is voldaan aan het bepaalde in het eerste of tweede lid, is de overeenkomst vernietigbaar; slechts de kredietnemer kan een beroep op de vernietigingsgrond doen.   
-6.  Bedingen waarbij aan de kredietnemer een verplichting wordt opgelegd of een recht wordt ontnomen ingeval hij een beroep op de vernietigingsgrond doet, zijn nietig.   
-
 ### Artikel  31  
 
-1.  Een kredietnemer kan geen volmacht tot ondertekening van een overeenkomst als bedoeld in artikel 30, eerste lid, verlenen aan een kredietgever, een leverancier, een kredietbemiddelaar of iemand, die bij een van hen werkzaam is.   
+1.  Een kredietnemer kan geen volmacht tot ondertekening van een overeenkomst als bedoeld in [artikel 61 lid 1 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), verlenen aan een kredietgever, een leverancier, een kredietbemiddelaar of iemand, die bij een van hen werkzaam is.   
 2.  Bedingen waarbij aan de kredietnemer een verplichting wordt opgelegd of een recht wordt ontnomen ingeval hij een beroep op de ongeldigheid van de volmacht doet, zijn nietig.   
-3.  De kredietnemer kan geen onherroepelijke volmacht tot ondertekening van een overeenkomst als bedoeld in artikel 30, eerste lid, verlenen. Bedingen waarbij aan de kredietnemer een verplichting wordt opgelegd of een recht wordt ontnomen ingeval hij een volmacht tot zodanige ondertekening herroept, zijn nietig.   
-
-### Artikel  32  
-
-1.  In afwijking van artikel 30, eerste lid, kunnen de kredietgever en de leverancier ten aanzien van een krediettransactie, waarvan de kredietsom niet meer dan € 1 000 bedraagt, volstaan met het onverwijld aan de kredietnemer verstrekken van een schriftelijke bevestiging van de transactie, ieder voor zover hij daaraan heeft deelgenomen. Artikel 30, derde tot en met zesde lid, is van overeenkomstige toepassing ten aanzien van de schriftelijke bevestiging.   
-2.  Het in het eerste lid bedoelde bedrag kan, in verband met geldontwaarding, bij algemene maatregel van bestuur worden gewijzigd. Een aldus bij algemene maatregel van bestuur vastgesteld bedrag treedt in de plaats van het in het eerste lid genoemde bedrag.   
+3.  De kredietnemer kan geen onherroepelijke volmacht tot ondertekening van een overeenkomst als bedoeld in [artikel 61 lid 1 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), verlenen. Bedingen waarbij aan de kredietnemer een verplichting wordt opgelegd of een recht wordt ontnomen ingeval hij een volmacht tot zodanige ondertekening herroept, zijn nietig.   
 
 ### Afdeling  2  
 
@@ -200,7 +140,7 @@ j. de plaats en datum van ondertekening.
 
 ### Artikel  33  
 
-Nietig is een overeenkomst als bedoeld in artikel 30, eerste lid, voor zover daarbij: 
+Nietig is een overeenkomst als bedoeld in [artikel 61 lid 1 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), voor zover daarbij: 
 
 a. de kredietgever of leverancier de bevoegdheid wordt verleend, anders dan bij wijze van een verhoging van de kredietvergoeding welke is toegelaten ingevolge het bepaalde krachtens artikel 35, eenzijdig de kredietvergoeding te verhogen of anderszins de verplichtingen van de kredietnemer te verzwaren;  
 
@@ -208,7 +148,7 @@ b. de kredietnemer zich verplicht tot het aangaan van een andere overeenkomst, a
 
 1°. uitdrukkelijk aan de kredietnemer het recht wordt toegekend te bepalen met welke wederpartij die overeenkomst zal worden aangegaan, of  
 
-2°. de overeenkomst verplicht tot het aanhouden van een betaalrekening bij de kredietgever, door middel waarvan de uit de krediettransactie voortvloeiende betalingen dienen plaats te vinden en waaraan voor de kredietnemer geen kosten zijn verbonden;    
+2°. de overeenkomst verplicht tot het aanhouden van een betaalrekening bij de kredietgever, door middel waarvan de uit de krediettransactie voortvloeiende betalingen dienen plaats te vinden;    
 
 c. vervroegde opeisbaarheid van het door de kredietnemer verschuldigde wordt bedongen, anders dan voor het geval dat: 
 
@@ -252,25 +192,11 @@ c. een vergoeding die verschuldigd wordt indien de kredietnemer vervroegd aflost
 
 Het is de kredietgever en de leverancier verboden een hogere kredietvergoeding in rekening te brengen, te bedingen of te aanvaarden, dan wel kredietvergoeding op een ander tijdstip in rekening te brengen, dan is toegelaten ingevolge artikel 35.  
 
-### Artikel  37  
-
-1.  De kredietnemer is te allen tijde bevoegd tot volledige of gedeeltelijke vervroegde aflossing.   
-2.  De kredietgever of de leverancier kan bedingen dat gedeeltelijke vervroegde aflossing slechts plaatsvindt door een betaling ter grootte van ten minste een termijnbedrag overeenkomstig de betalingsregeling of, indien meer wordt afgelost, een veelvoud van een zodanig bedrag, op een tijdstip waarop ingevolge de betalingsregeling een termijnbedrag dient te worden voldaan.   
-
 ### Artikel  38  
 
 Het is de kredietgever en de leverancier verboden: 
 
-a. ter zake van nog niet opeisbare verplichtingen van de kredietnemer andere dan chartale betaalmiddelen aan te nemen, anders dan voor volledige of gedeeltelijke vervroegde aflossing;  
-
-b. een wissel op de kredietnemer te trekken of een orderbriefje van de kredietnemer aan te nemen ter zake van hetgeen de kredietnemer verschuldigd is, dan wel een van de kredietnemer ter betaling ontvangen cheque over te dragen aan een derde.    
-
-### Artikel  39  
-
-1.  Bij algemene maatregel van bestuur kunnen, in het belang van een goede voorlichting, regels worden gesteld ten aanzien van de inhoud van schriftelijke mededelingen betreffende het uitstaand saldo en de hoogte van de kredietvergoeding, welke gedurende de looptijd van de krediettransactie door de kredietgever aan de kredietnemer worden verstrekt.   
-2.  Bij transacties met een variabele kredietvergoeding is de kredietgever verplicht om van elke wijziging van de kredietvergoeding op het eerstvolgende rekeningafschrift mededeling te doen aan de kredietnemer, waarbij hij tevens het gewijzigde effectieve kredietvergoedingspercentage op jaarbasis, berekend op door Onze Minister aangegeven wijze, vermeldt.   
-3.  De kredietgever verstrekt op een daartoe strekkend verzoek van de kredietnemer een gespecificeerd overzicht van het uitstaand saldo. Hij kan daarbij een vergoeding in rekening brengen tot ten hoogste het bedrag van de werkelijke kosten.   
-4.  Binnen korte tijd na het tenietgaan van de verbintenis van de kredietnemer verstrekt de kredietgever aan de kredietnemer op diens verzoek kosteloos een gespecificeerde afrekening.   
+a. ter zake van nog niet opeisbare verplichtingen van de kredietnemer andere dan chartale betaalmiddelen aan te nemen, anders dan voor volledige of gedeeltelijke vervroegde aflossing.    
 
 ### Afdeling  4  
 
@@ -313,20 +239,8 @@ b. zodra de kredietnemer drie vierde deel van de kredietsom heeft afgelost.
 
 ### Artikel  44  
 
-1.  Een overeenkomst als bedoeld in artikel 30, eerste lid, kan slechts door rechterlijke tussenkomst worden ontbonden, behoudens het bepaalde in artikel 41, derde lid, van deze wet en de [artikelen 37](../../../../../../wet/faillissementswet/BWBR0001860/README.md) en [38 *a* van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) (*Stb.* 1893, 140).   
+1.  Een overeenkomst als bedoeld in [artikel 61 lid 1 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), kan slechts door rechterlijke tussenkomst worden ontbonden, behoudens het bepaalde in artikel 41, derde lid, van deze wet en de [artikelen 37](../../../../../../wet/faillissementswet/BWBR0001860/README.md) en [38a van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md) (*Stb.* 1893, 140).   
 2.  Indien bij ontbinding van zodanige overeenkomst een der partijen in een betere vermogenstoestand zou geraken dan bij het in stand blijven van die overeenkomst en afwikkeling overeenkomstig de betalingsregeling, vindt volledige verrekening plaats.   
-
-### Artikel  45  
-
-1.  Indien de leverancier van een roerende zaak of een dienst waarop een krediettransactie als bedoeld in artikel 1, onder *a*, sub 3°, betrekking heeft, jegens de kredietnemer tekortschiet in de nakoming van zijn verbintenis, is de kredietnemer jegens de kredietgever bevoegd op dezelfde voet de nakoming van zijn verplichtingen uit die transactie op te schorten als hij zou zijn indien het een transactie als bedoeld in artikel 1, onder *a*, sub 2°, betrof, indien: 
-
-a. de kredietnemer het krediet heeft verkregen krachtens een voordien tussen de kredietgever en de leverancier tot stand gekomen overeenkomst op grond waarvan uitsluitend door die kredietgever aan een wederpartij van die leverancier krediet wordt verstrekt, en  
-
-b. de kredietnemer van de leverancier schriftelijk nakoming van diens verbintenis heeft verlangd en de leverancier in gebreke is gebleven daaraan te voldoen.     
-2.  De in het eerste lid bedoelde bevoegdheid vervalt zodra de leverancier zijn verbintenis volledig aan de kredietnemer heeft voldaan of voor de voldoening van die verbintenis zekerheid is gesteld.   
-3.  Indien op grond van de in het eerste lid, onder *b*, bedoelde niet-nakoming de overeenkomst tussen de kredietnemer en de leverancier wordt ontbonden, kan de kredietnemer de vordering die hij op de voet van het tweede lid van artikel 44 heeft jegens de leverancier, geldend maken jegens de kredietgever. Het bepaalde in het eerste lid, onder *b*, is van overeenkomstige toepassing, tenzij de ontbinding van de overeenkomst geschiedt in verband met het faillissement van de leverancier of de toepassing ten aanzien van de leverancier van de schuldsaneringsregeling natuurlijke personen.   
-4.  Dit artikel is niet van toepassing op een krediettransactie waarbij de kredietsom minder dan € 200 bedraagt. Het in de vorige volzin genoemde bedrag kan in verband met geldontwaarding, dan wel in verband met een herziening van bedragen als bedoeld in artikel 13, tweede lid, van de richtlijn bij algemene maatregel van bestuur worden aangepast. Een aldus bij algemene maatregel van bestuur vastgesteld bedrag treedt in de plaats van het in de eerste volzin genoemde bedrag.   
-5.  Van de bepalingen van dit artikel kan door partijen slechts ten voordele van de kredietnemer worden afgeweken.   
 
 ### Artikel  46  
 

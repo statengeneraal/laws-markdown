@@ -8,13 +8,13 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Met betrekking tot de [artikelen 5, eerste en vierde lid](../../../../../../../../AMvB/scheepvaartreglement/territoriale/zee/BWBR0007914/README.md), [6](../../../../../../../../AMvB/scheepvaartreglement/territoriale/zee/BWBR0007914/README.md), [7, eerste en derde lid](../../../../../../../../AMvB/scheepvaartreglement/territoriale/zee/BWBR0007914/README.md), [8](../../../../../../../../AMvB/scheepvaartreglement/territoriale/zee/BWBR0007914/README.md), [12, eerste, tweede en vierde lid](../../../../../../../../AMvB/scheepvaartreglement/territoriale/zee/BWBR0007914/README.md), en [13](../../../../../../../../AMvB/scheepvaartreglement/territoriale/zee/BWBR0007914/README.md), voor wat de in de Nederlandse territoriale zee gelegen ankerplaatsen, of laad- of losinrichtingen betreft, en met betrekking tot [artikel 5, derde lid](../../../../../../../../AMvB/scheepvaartreglement/territoriale/zee/BWBR0007914/README.md): 
+1.  Met betrekking tot de [artikelen 5, eerste en vierde lid](../../../../../../../../AMvB/scheepvaartreglement/territoriale/zee/BWBR0007914/README.md), [6](../../../../../../../../AMvB/scheepvaartreglement/territoriale/zee/BWBR0007914/README.md), [7, eerste en derde lid](../../../../../../../../AMvB/scheepvaartreglement/territoriale/zee/BWBR0007914/README.md), [12, eerste, tweede en vierde lid](../../../../../../../../AMvB/scheepvaartreglement/territoriale/zee/BWBR0007914/README.md), en [13](../../../../../../../../AMvB/scheepvaartreglement/territoriale/zee/BWBR0007914/README.md), voor wat de in de Nederlandse territoriale zee gelegen ankerplaatsen, of laad- of losinrichtingen betreft, en met betrekking tot [artikel 5, derde lid](../../../../../../../../AMvB/scheepvaartreglement/territoriale/zee/BWBR0007914/README.md): 
 
 a. voor het aanloopgebied Scheldemonden: de Rijkshavenmeester Westerschelde, bedoeld in [artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990](../../../../../../../../AMvB/scheepvaartreglement/westerschelde/1990/BWBR0005393/README.md);  
 
 b. voor het aanloopgebied Rotterdam: de havenmeester van Rotterdam, werkzaam bij Havenbedrijf Rotterdam N.V.;  
 
-c. voor het aanloopgebied Scheveningen: de Stadsbeheermanager van het Stadsdeel Scheveningen van de Dienst Stadsbeheer van de gemeente Den Haag;  
+c. voor het aanloopgebied Scheveningen: het Hoofd Verkeerscentrale en Haven van de gemeente Den Haag;  
 
 d. voor het aanloopgebied IJmuiden: de hoofdingenieur-directeur in de directie Noord-Holland van het Directoraat-Generaal Rijkswaterstaat;  
 

@@ -484,7 +484,7 @@ b. tabaksrolletjes bestaande uit een gebroken melange, met een dekblad van gerec
 
 a. sigaren 5;  
 
-b. sigaretten 20,56 per 1 augustus 2009: 20,52 benevens per 1000 stuks € 67,21 per 1 maart 2011: € 99,85, met dien verstande dat het totale bedrag van de accijns per 1000 stuks ten minste € 101,89 per 1 maart 2011: € 156,00 bedraagt;  
+b. sigaretten 20,56 per 1 mei 2011: 21,66 benevens per 1000 stuks € 67,21 per 1 mei 2011: € 99,01, met dien verstande dat het totale bedrag van de accijns per 1000 stuks ten minste € 101,89 per 1 maart 2011: € 156,00 bedraagt;  
 
 c. rooktabak 14,60 per 1 maart 2011: 17,34 benevens per kilogram € 28,13 per 1 maart 2011: € 43,10, met dien verstande dat het totale bedrag van de accijns per kilogram ten minste € 40,31 per 1 maart 2011: € 65,54 bedraagt.     
 2.  Onder de kleinhandelsprijs van een tabaksprodukt wordt verstaan de prijs waarvoor dat produkt aan anderen dan wederverkopers wordt verkocht, met inbegrip van alle belastingen en de kosten van de verpakking.   
@@ -1100,7 +1100,7 @@ b. vloeibaar gemaakt petroleumgas, per 1000 kilogram € 77,52.
 ### Artikel  71h  
 
 1.  Op verzoek wordt teruggaaf van accijns verleend voor duurzaam geproduceerde E85 dat is belast naar het laatstgenoemde tarief, bedoeld in artikel 27, eerste lid, onderdeel a.   
-2.  Voor de toepassing van het eerste lid wordt onder duurzaam geproduceerde E85 verstaan de vloeistof bestaande uit een combinatie van uitsluitend bio-ethanol (ethanol uit biomassa) en ongelode lichte olie waarbij de bio-ethanol tenminste zeventig percent en ten hoogste vijfentachtig percent uitmaakt van deze vloeistof mits de bio-ethanol in deze vloeistof aantoonbaar, door middel van een certificaat van een onafhankelijk geaccrediteerde certificeringinstelling, voldoet aan de eisen van duurzaamheid zoals vastgelegd in NTA 8080 of daaraan gelijkwaardig.   
+2.  Voor de toepassing van het eerste lid wordt onder duurzaam geproduceerde E85 verstaan de vloeistof bestaande uit een combinatie van uitsluitend bio-ethanol (ethanol uit biomassa) en ongelode lichte olie waarbij de bio-ethanol ten minste 70 percent en ten hoogste 85 percent uitmaakt van deze vloeistof mits de bio-ethanol in deze vloeistof aantoonbaar voldoet aan eisen van duurzaamheid. Bij ministeriële regeling worden nadere regels gesteld omtrent de eisen van duurzaamheid en de controle hierop.   
 3.  De teruggaaf bedraagt 27 percent van het in het eerste lid bedoelde accijnstarief.   
 4.  De teruggaaf wordt verleend aan degene die de accijns ter zake van de uitslag tot verbruik van E85 verschuldigd is geworden.   
 5.  Bij ministeriële regeling kunnen nadere voorwaarden en beperkingen worden gesteld ter uitvoering van de teruggaaf.   

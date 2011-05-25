@@ -636,23 +636,25 @@ In deze titel wordt verstaan onder:
 
 a. financiëlezekerheidsovereenkomst: een financiëlezekerheidsovereenkomst tot overdracht of een financiëlezekerheidsovereenkomst tot vestiging van een pandrecht;  
 
-b. financiëlezekerheidsovereenkomst tot overdracht: een overeenkomst op grond waarvan de onder d of e bedoelde goederen worden overgedragen als waarborg voor een verplichting;  
+b. financiëlezekerheidsovereenkomst tot overdracht: een overeenkomst op grond waarvan de onder d, e of f bedoelde goederen worden overgedragen als waarborg voor een verplichting;  
 
-c. financiëlezekerheidsovereenkomst tot vestiging van een pandrecht: een overeenkomst op grond waarvan een pandrecht wordt verschaft op de onder d of e bedoelde goederen;  
+c. financiëlezekerheidsovereenkomst tot vestiging van een pandrecht: een overeenkomst op grond waarvan een pandrecht wordt verschaft op de onder d, e of f bedoelde goederen;  
 
 d. geld: op een rekening of deposito gecrediteerd tegoed in geld;  
 
 e. effecten: aandelen en andere met aandelen gelijk te stellen effecten, obligaties en andere schuldinstrumenten indien deze op de kapitaalmarkt verhandelbaar zijn, en alle andere gewoonlijk verhandelde effecten waarmee die aandelen, obligaties of andere effecten via inschrijving, koop of omruiling kunnen worden verkregen of die aanleiding kunnen geven tot afwikkeling in geld met uitsluiting van waardepapieren die een betalingsopdracht belichamen, inclusief rechten van deelneming in instellingen voor collectieve belegging, geldmarktinstrumenten en vorderingen op of rechten ten aanzien van een van de voornoemde instrumenten;  
 
-f. gelijkwaardige goederen: 
+f. kredietvordering: een geldvordering voortvloeiend uit een overeenkomst waarbij een kredietinstelling als bedoeld in [artikel 1:1 Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) krediet verschaft in de vorm van een lening met uitzondering van geldvorderingen waarbij de debiteur een natuurlijk persoon is die niet handelt in de uitoefening van beroep of bedrijf, tenzij de zekerheidsnemer of zekerheidsverschaffer van een dergelijke kredietvordering een van de instellingen is als genoemd in artikel 52 lid 1 onder b;  
+
+g. gelijkwaardige goederen: 
 
 1. wanneer het betreft geld: hetzelfde bedrag in dezelfde valuta;  
 
 2. wanneer het betreft effecten: effecten van dezelfde uitgevende instelling of debiteur, behorende tot dezelfde emissie of categorie, ter waarde van hetzelfde nominale bedrag, luidende in dezelfde valuta en van dezelfde soort, onderscheidenlijk andere goederen indien de financiëlezekerheidsoverkomst voorziet in de overdracht daarvan na het plaatsvinden van een gebeurtenis die betrekking heeft op of gevolgen heeft voor de effecten waarop de schuldenaar een pandrecht heeft gevestigd;    
 
-g. executiegrond: verzuim of een andere omstandigheid op grond waarvan de zekerheidsnemer krachtens een financiëlezekerheidsovereenkomst of de wet gerechtigd is verpande goederen te verkopen of zich toe te eigenen dan wel gebruik te maken van een verrekenbeding;  
+h. executiegrond: verzuim of een andere omstandigheid op grond waarvan de zekerheidsnemer krachtens een financiëlezekerheidsovereenkomst of de wet gerechtigd is verpande goederen te verkopen of zich toe te eigenen dan wel gebruik te maken van een verrekenbeding;  
 
-h. verrekenbeding: een beding in een financiëlezekerheidsovereenkomst of een overeenkomst waarvan een financiëlezekerheidsovereenkomst deel uitmaakt, of een wettelijk voorschrift, op grond waarvan bij het voldoen aan de voorwaarden van een executiegrond: 
+i. verrekenbeding: een beding in een financiëlezekerheidsovereenkomst of een overeenkomst waarvan een financiëlezekerheidsovereenkomst deel uitmaakt, of een wettelijk voorschrift, op grond waarvan bij het voldoen aan de voorwaarden van een executiegrond: 
 
 – de verplichtingen van partijen onmiddellijk opeisbaar worden, alsmede omgezet in een verplichting tot het betalen van een bedrag dat hun geschatte actuele waarde vertegenwoordigt, dan wel de verplichtingen vervallen en worden vervangen door een verplichting tot het betalen van het voornoemde bedrag, of  
 
@@ -678,9 +680,10 @@ d. een centrale tegenpartij, een afwikkelende instantie of een verrekeningsinsti
 ### Artikel  53  
 
 1.  Bij een financiëlezekerheidsovereenkomst tot vestiging van een pandrecht kan worden bedongen dat de zekerheidsnemer de verpande goederen kan gebruiken of verkopen en de opbrengst behouden.   
-2.  Uitoefening van het recht tot gebruik of verkoop brengt van rechtswege een verplichting van de zekerheidsnemer mee tot overdracht van gelijkwaardige goederen aan de zekerheidsgever, uiterlijk op het tijdstip waarop moet worden voldaan aan de vordering waarvoor het verpande tot zekerheid strekt.   
-3.  In afwijking van lid 2 kan in de financiëlezekerheidsovereenkomst worden bepaald dat de zekerheidsnemer de vordering waarvoor het verpande tot zekerheid strekt verrekent met de waarde van gelijkwaardige goederen, op het tijdstip waarop de vordering moet worden voldaan of zoveel eerder als zich een executiegrond voordoet.   
-4.  Het pandrecht strekt zich van rechtswege uit over de goederen die als gevolg van dit artikel in de plaats worden gesteld van de verbonden goederen.   
+2.  Uitoefening van het recht tot gebruik of verkoop brengt van rechtswege een verplichting van de zekerheidsnemer mee tot overdracht van gelijkwaardige goederen aan de zekerheidsgever, uiterlijk op het tijdstip waarop moet worden voldaan aan de vordering waarvoor het verpande tot zekerheid strekt. De zekerheidsnemer krijgt een pandrecht op het verkregene. Dit recht wordt geacht te zijn verkregen op het moment dat de financiëlezekerheidsovereenkomst werd gesloten.   
+3.  Voor de in het tweede lid bedoelde vordering van de zekerheidsgever tot overdracht van gelijkwaardige goederen heeft deze een voorrecht op de bij de zekerheidsnemer aanwezige gelden en effecten.   
+4.  In afwijking van lid 2 kan in de financiëlezekerheidsovereenkomst worden bepaald dat de zekerheidsnemer de vordering waarvoor het verpande tot zekerheid strekt verrekent met de waarde van de gelijkwaardige goederen, op het tijdstip waarop de vordering moet worden voldaan of zoveel eerder als zich een executiegrond voordoet.   
+5.  Dit artikel is niet van toepassing indien de financiëlezekerheidsovereenkomst strekt tot verpanding van een kredietvordering in de zin van artikel 51 onder f.   
 
 ### Artikel  54  
 
@@ -688,7 +691,9 @@ d. een centrale tegenpartij, een afwikkelende instantie of een verrekeningsinsti
 
 a. effecten waarop het pandrecht rust te verkopen en het hem verschuldigde op de opbrengst te verhalen onderscheidenlijk deze effecten zich toe te eigenen en de waarde van de effecten te verrekenen met het hem verschuldigde;  
 
-b. geld waarop het pandrecht rust te verrekenen met het hem verschuldigde.     
+b. geld waarop het pandrecht rust te verrekenen met het hem verschuldigde;  
+
+c. de kredietvordering waarop het pandrecht rust over te dragen en de opbrengst te verrekenen met het hem verschuldigde.     
 2.  De verkoop van effecten geschiedt op een markt door tussenkomst van een tussenpersoon in het vak of ter beurze door die van een bevoegde tussenpersoon overeenkomstig de regels en gebruiken die aldaar voor een gewone verkoop gelden.   
 3.  De zekerheidsnemer kan zich effecten toe-eigenen indien dit in de financiëlezekerheidsovereenkomst tot de vestiging van een pandrecht is bedongen en de waardering van de effecten is gebaseerd op de waarde op een markt of ter beurze.   
 4.  In afwijking van lid 2 en lid 3 kan in een financiëlezekerheidsovereenkomst worden bedongen dat de voorzieningenrechter van de rechtbank op verzoek van de zekerheidsnemer of de zekerheidsgever kan bepalen dat effecten worden verkocht op een afwijkende wijze, of dat de voorzieningenrechter op verzoek van de zekerheidsnemer kan bepalen dat effecten voor een door de voorzieningenrechter vast te stellen bedrag bij wege van toe-eigening aan de zekerheidsnemer zullen verblijven.   
@@ -697,6 +702,367 @@ b. geld waarop het pandrecht rust te verrekenen met het hem verschuldigde.
 ### Artikel  55  
 
 Een overdracht ter nakoming van een financiëlezekerheidsovereenkomst tot overdracht is geen overdracht tot zekerheid of een overdracht die de strekking mist het goed na de overdracht in het vermogen van de verkrijger te doen vallen in de zin van [artikel 84 lid 3 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). De regels betreffende pandrecht zijn op een zodanige overeenkomst en de uitvoering daarvan niet van toepassing of overeenkomstige toepassing.  
+
+### Titel  2a  
+
+####Consumentenkredietovereenkomsten
+
+### Afdeling  1  
+
+####Algemene bepalingen
+
+### Artikel  57  
+
+1.  In deze titel wordt verstaan onder: 
+
+a. *consument:* een natuurlijk persoon die handelt voor doeleinden die buiten zijn bedrijfs- of beroepsactiviteiten vallen;  
+
+b. *kredietgever:* een natuurlijk persoon of rechtspersoon die in het kader van de uitoefening van zijn bedrijfs- of beroepsactiviteiten krediet verleent of toezegt;  
+
+c. *kredietovereenkomst:* een overeenkomst waarbij een kredietgever aan een consument krediet verleent of toezegt in de vorm van uitstel van betaling, een lening of een andere, soortgelijke betalingsfaciliteit, met uitzondering van overeenkomsten voor doorlopende dienstverlening en doorlopende levering van dezelfde goederen, waarbij de consument, zolang de diensten respectievelijk goederen worden geleverd, de kosten daarvan in termijnen betaalt;  
+
+d. *geoorloofde debetstand op een rekening:* een uitdrukkelijke kredietovereenkomst waarbij een kredietgever een consument de mogelijkheid biedt bedragen op te nemen die het beschikbare tegoed op de rekening van de consument te boven gaan;  
+
+e. *overschrijding:* een stilzwijgend aanvaarde debetstand waarbij een kredietgever een consument de mogelijkheid biedt bedragen op te nemen die het beschikbare tegoed of de overeengekomen geoorloofde debetstand op de rekening van de consument te boven gaan;  
+
+f. *kredietbemiddelaar:* een natuurlijk persoon of rechtspersoon die niet optreedt als kredietgever en die in het kader van zijn bedrijfs- of beroepsactiviteiten tegen een vergoeding in de vorm van geld of een andere overeengekomen financiële beloning: 
+
+1°. aan consumenten kredietovereenkomsten voorstelt of aanbiedt;  
+
+2°. consumenten bijstaat bij de voorbereiding van het sluiten van kredietovereenkomsten anders dan bedoeld onder 1°, of  
+
+3°. namens de kredietgever met consumenten kredietovereenkomsten sluit;    
+
+g. *totale kosten van het krediet voor de consument:* alle kosten, met inbegrip van rente, commissielonen, belastingen en vergoedingen van welke aard ook, die de consument in verband met de kredietovereenkomst moet betalen en die de kredietgever bekend zijn, met uitzondering van notariskosten;  
+
+h. *totale door de consument te betalen bedrag:* de som van het totale kredietbedrag en de totale kosten van het krediet voor de consument;  
+
+i. *jaarlijks kostenpercentage:* de totale kosten van het krediet voor de consument, uitgedrukt in een percentage op jaarbasis van het totale kredietbedrag, indien toepasselijk te vermeerderen met de in lid 3 bedoelde kosten;  
+
+j. *debetrentevoet:* de rentevoet, uitgedrukt op jaarbasis en toegepast in een vast of variabel percentage;  
+
+k. *vaste debetrentevoet:* een door de kredietgever en de consument voor de volledige duur van de kredietovereenkomst overeengekomen enkele debetrentevoet dan wel verschillende door de kredietgever en de consument voor deeltermijnen overeengekomen debetrentevoeten waarvoor uitsluitend een vast specifiek percentage wordt gebruikt;  
+
+l. *totaal kredietbedrag:* het plafond of de som van alle bedragen die op grond van een kredietovereenkomst beschikbaar worden gesteld;  
+
+m. *duurzame drager:* ieder hulpmiddel dat de consument in staat stelt persoonlijk aan hem gerichte informatie op te slaan op een wijze die deze informatie toegankelijk maakt voor toekomstig gebruik gedurende een periode die is afgestemd op het doel waarvoor de informatie kan dienen, en die een ongewijzigde reproductie van de opgeslagen informatie mogelijk maakt;  
+
+n. *gelieerde kredietovereenkomst:* een kredietovereenkomst waarbij geldt dat: 
+
+1°. het betreffende krediet uitsluitend dient ter financiering van een overeenkomst voor de levering van een bepaald goed of de verrichting van een bepaalde dienst, en  
+
+2°. die twee overeenkomsten objectief gezien een commerciële eenheid vormen;    
+
+o. *overeenkomst betreffende effectenkrediet:* een overeenkomst waarbij: 
+
+1°. tegen onderpand van een effectenportefeuille een doorlopend krediet wordt verleend of toegezegd, inhoudende dat de consument op verschillende tijdstippen geldsommen bij de kredietgever kan opnemen, voor zover het uitstaande saldo een bepaalde kredietlimiet niet overschrijdt;  
+
+2°. de consument met het krediet transacties kan verrichten in financiële instrumenten, en  
+
+3°. de kredietgever betrokken is bij die transacties;    
+
+p. *effectenportefeuille:* een pakket financiële instrumenten dat in het bezit is van de consument;  
+
+q. *financieel instrument:* een financieel instrument als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+r. *dekkingspercentage:* een door de kredietgever vastgesteld percentage van de waarde van de in onderpand gegeven effectenportefeuille of van de daartoe behorende afzonderlijke financiële instrumenten aan de hand waarvan de kredietgever de kredietlimiet bepaalt;  
+
+s. *spreidingseis:* een door de kredietgever gestelde eis ten aanzien van de samenstelling van de effectenportefeuille;  
+
+t. *Richtlijn:* Richtlijn nr. 2008/48/EG van het Europees Parlement en de Raad van de Europese Unie van 23 april 2008 inzake kredietovereenkomsten voor consumenten en tot intrekking van Richtlijn 87/102/EEG (Pb EU L 133).     
+2.  De totale kosten van het krediet voor de consument, bedoeld in lid 1, onderdeel g, omvatten ook de kosten in verband met nevendiensten met betrekking tot de kredietovereenkomst, met name verzekeringspremies, indien het sluiten van een dienstencontract verplicht is om het krediet, in voorkomend geval op de geadverteerde voorwaarden, te verkrijgen.   
+3.  Voor de toepassing van lid 1, onderdeel i, worden de kosten voor het beheer van een rekening waarop zowel betalingen als kredietopnemingen worden geboekt, de kosten voor het gebruik van een betaalmiddel waarmee zowel betalingen als kredietopnemingen kunnen worden verricht, en de overige kosten voor betalingsverrichtingen in de totale kosten van het krediet voor de consument meegerekend, tenzij de opening van de rekening facultatief is en de kosten voor de rekening duidelijk en afzonderlijk in de kredietovereenkomst of een andere met de consument gesloten overeenkomst zijn vastgesteld.   
+4.  Indien niet alle debetrentevoeten in de kredietovereenkomst worden gespecificeerd, is alleen sprake van een vaste debetrentevoet als bedoeld in lid 1, onderdeel k, voor die deeltermijnen waarvoor bij de sluiting van de kredietovereenkomst de debetrentevoeten zijn overeengekomen en die uitsluitend aan de hand van een vast specifiek percentage zijn vastgesteld.   
+5.  Een commerciële eenheid als bedoeld in lid 1, onderdeel n wordt geacht te bestaan: 
+
+a. indien de bij de overeenkomst voor de levering van een bepaald goed of de verrichting van een bepaalde dienst betrokken leverancier dan wel dienstenaanbieder zelf het krediet van de consument financiert, dan wel  
+
+b. in het geval van financiering door een derde, indien: 
+
+1°. de kredietgever bij het voorbereiden of sluiten van de kredietovereenkomst gebruik maakt van de diensten van de bij de overeenkomst voor de levering van een bepaald goed of de verrichting van een bepaalde dienst betrokken leverancier dan wel dienstenaanbieder, of  
+
+2°. het goed dan wel de dienst waarop de overeenkomst voor de levering van een bepaald goed of de verrichting van een bepaalde dienst ziet uitdrukkelijk wordt vermeld in de kredietovereenkomst.       
+
+### Artikel  58  
+
+1.  Deze titel is van toepassing op kredietovereenkomsten.   
+2.  Deze titel is niet van toepassing op: 
+
+a. kredietovereenkomsten die gewaarborgd worden door een hypotheek of door een andere vergelijkbare zekerheid op een registergoed, dan wel door een recht op een registergoed tegen voor hypothecaire financiering door de betrokken kredietgever gebruikelijke voorwaarden;  
+
+b. kredietovereenkomsten voor het verkrijgen of het behouden van eigendomsrechten betreffende grond of een bestaand of gepland gebouw;  
+
+c. huur of lease-overeenkomsten, tenzij: 
+
+1°. zij een verplichting tot aankoop van het object van de overeenkomst inhouden of een dergelijke verplichting bij afzonderlijke overeenkomst is toegevoegd, waaronder tevens is begrepen dat tot de verplichting tot aankoop eenzijdig door de kredietgever wordt besloten, dan wel  
+
+2°. zij krachtens [artikel 7A:1576h lid 2](../../../../../../wet/burgerlijk/wetboek/boek/7a/BWBR0006000/README.md) als huurkoop moeten worden aangemerkt;    
+
+d. kredietovereenkomsten die in de vorm van een geoorloofde debetstand op een rekening worden verleend en die binnen een maand moeten worden afgelost;  
+
+e. kredietovereenkomsten zonder rente en andere kosten, en kredietovereenkomsten waarbij het krediet binnen een termijn van drie maanden moet worden terugbetaald en slechts onbetekenende kosten worden aangerekend;  
+
+f. kredietovereenkomsten waarbij het krediet als nevenactiviteit door een werkgever rentevrij of tegen een jaarlijks kostenpercentage dat lager is dan gebruikelijk op de markt, aan zijn werknemers wordt toegekend, en die niet aan het publiek in het algemeen worden aangeboden;  
+
+g. kredietovereenkomsten die het resultaat zijn van een schikking voor de rechter of een andere daartoe van overheidswege bevoegde instantie;  
+
+h. kredietovereenkomsten die voorzien in kosteloos uitstel van betaling van een bestaande schuld;  
+
+i. kredietovereenkomsten bij het sluiten waarvan van de consument wordt verlangd dat hij bij de kredietgever een goed als zekerheid in bewaring geeft, en waarbij de aansprakelijkheid van de consument zich strikt beperkt tot dit in pand gegeven goed, en  
+
+j. kredietovereenkomsten betreffende leningen die krachtens een wettelijke bepaling met een doelstelling van algemeen belang aan een beperkt publiek worden toegekend tegen een lagere dan op de markt gebruikelijke rentevoet, dan wel rentevrij, of onder andere voorwaarden die voor de consument gunstiger zijn dan de op de markt gebruikelijke voorwaarden en tegen rentetarieven die niet hoger zijn dan de op de markt gebruikelijke.     
+3.  Op de kredietovereenkomst waarbij het krediet in de vorm van een geoorloofde debetstand op een rekening wordt verleend en op verzoek of binnen een termijn van drie maanden moet worden terugbetaald, zijn uitsluitend de artikelen 57, 58, 61 leden 1, 5 en 6, 63, 67, 69 en de artikelen 71 tot en met 73 van toepassing. De artikelen 59 en 60 zijn slechts van toepassing, voorzover de kredietgever zijn verplichtingen uit de artikelen 4 lid 1 onderdelen a tot en met c en 6 van de Richtlijn betreffende de in reclame op te nemen standaardinformatie niet in acht neemt.   
+4.  Op kredietovereenkomsten in de vorm van overschrijding zijn uitsluitend de artikelen 57, 58, 70 en 73 van toepassing.   
+
+### Afdeling  2  
+
+####Informatieverstrekking en handelingen voorafgaand aan het sluiten van de kredietovereenkomst
+
+### Artikel  59  
+
+1.  Een kredietgever die in reclame voor kredietovereenkomsten, overeenkomsten betreffende effectenkrediet niet daaronder begrepen, artikel 4 van de Richtlijn betreffende de in reclame op te nemen standaardinformatie niet in acht neemt, verricht een oneerlijke handelspraktijk als bedoeld in de [artikel 193b van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).   
+2.  Een kredietgever verricht een oneerlijke handelspraktijk als bedoeld in [artikel 193b van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), indien hij in reclame voor overeenkomsten betreffende effectenkrediet: 
+
+a. niet vermeld dat een doorlopend krediet wordt verleend of toegezegd tegen onderpand van een effectenportefeuille, en de kredietlimiet afhankelijk is van de waarde daarvan, of  
+
+b. artikel 4 leden 1, 2 onderdeel a, 3 of 4 van de Richtlijn betreffende de in reclame voor kredietovereenkomsten op te nemen standaardinformatie niet in acht neemt.     
+
+### Artikel  60  
+
+1.  De kredietgever of, in voorkomend geval, de kredietbemiddelaar, verstrekt de consument geruime tijd voordat deze door een kredietovereenkomst of een aanbod wordt gebonden, de in de artikelen 5 en 6 van de Richtlijn voorgeschreven precontractuele informatie, op de in die artikelen voorgeschreven wijze.   
+2.  De kredietgever of, in voorkomend geval, de kredietbemiddelaar, verstrekt de consument geruime tijd voordat deze door een overeenkomst of een aanbod betreffende effectenkrediet wordt gebonden, de in artikel 6 van de Richtlijn voorgeschreven precontractuele informatie, met uitzondering van de informatie, bedoeld in lid 1, onderdelen c, d, f, h en k van dat artikel, op de in dat artikel voorgeschreven wijze. Daarbij deelt de kredietgever of, in voorkomend geval, de kredietbemiddelaar, de consument eveneens mee: 
+
+a. dat een doorlopend krediet wordt verleend of toegezegd tegen onderpand van een effectenportefeuille en dat de kredietlimiet afhankelijk is van een bepaald dekkingspercentage en, indien van toepassing, bepaalde spreidingseisen;  
+
+b. welk dekkingspercentage en welke spreidingseisen worden gehanteerd ten aanzien van de in onderpand gegeven effectenportefeuille, en  
+
+c. in het geval dat de kredietgever voor verschillende soorten financiële instrumenten andere dekkingspercentages hanteert, per soort financieel instrument, welk dekkingspercentage daarop van toepassing is.     
+3.  Indien de kredietgever of, in voorkomend geval, de kredietbemiddelaar, lid 1 of 2 niet in acht neemt, verricht hij een oneerlijke handelspraktijk als bedoeld in [artikel 193b van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).   
+
+### Afdeling  3  
+
+####Informatie en rechten betreffende kredietovereenkomsten
+
+### Artikel  61  
+
+1.  De kredietovereenkomst wordt op papier of op een andere duurzame drager aangegaan. De kredietgever verstrekt de consument een exemplaar van de kredietovereenkomst en behoudt zelf ook een exemplaar.   
+2.  In de kredietovereenkomst worden op duidelijke en beknopte wijze vermeld: 
+
+a. het soort krediet;  
+
+b. de identiteit en geografische adressen van de overeenkomst sluitende partijen en in voorkomend geval de identiteit en het geografische adres van de betrokken kredietbemiddelaar;  
+
+c. de duur van de kredietovereenkomst;  
+
+d. het totale kredietbedrag en de voorwaarden voor kredietopneming;  
+
+e. in geval van een krediet in de vorm van uitstel van betaling voor een goed of een dienst, dan wel van een gelieerde kredietovereenkomst, het goed of de dienst ter financiering waarvan het krediet strekt en de contante prijs daarvan;  
+
+f. de debetrentevoet, de voorwaarden die de toepassing van deze rentevoet regelen en voor zover beschikbaar, indices of referentierentevoeten die betrekking hebben op de aanvankelijke debetrentevoet, alsmede de termijnen, voorwaarden en procedures voor wijziging ervan;  
+
+g. indien naargelang van de verschillende omstandigheden verschillende debetrentevoeten worden toegepast, de in onderdeel f genoemde informatie met betrekking tot alle toepasselijke rentevoeten;  
+
+h. het jaarlijks kostenpercentage en het totale door de consument te betalen bedrag, berekend bij het sluiten van de kredietovereenkomst, alsmede alle bij de berekening van dit percentage gebruikte hypothesen;  
+
+i. het bedrag, het aantal en de frequentie van de door de consument te verrichten betalingen, en, in voorkomend geval, de volgorde waarin de betalingen aan de verschillende openstaande saldi tegen verschillende debetrentevoeten worden toegerekend met het oog op aflossing;  
+
+j. in geval van aflossing van het kapitaal van een kredietovereenkomst met vaste looptijd, het recht van de consument om gratis en op verzoek op enig ogenblik tijdens de loop van de kredietovereenkomst een overzicht van de rekening in de vorm van een aflossingstabel te ontvangen;  
+
+k. indien kosten en interesten worden betaald zonder aflossing van het kapitaal, een overzicht van de termijnen en voorwaarden voor de betaling van de rente en periodiek en niet-perodieke bijbehorende kosten;  
+
+l. de eventuele kosten voor het aanhouden van een of meer rekeningen voor de boeking van zowel betalingen als kredietopnemingen, tenzij het openen van een rekening facultatief is, tezamen met de kosten voor het gebruik van een betaalmiddel voor zowel betalingen als kredietopnemingen, andere uit de kredietovereenkomst voortvloeiende kosten, alsmede de voorwaarden waaronder die kosten kunnen worden gewijzigd;  
+
+m. de op het tijdstip van het sluiten van de kredietovereenkomst geldende rentevoet ingeval van betalingsachterstand daarvan alsmede de wijzigingsmodaliteiten en, in voorkomend geval, kosten van niet-nakoming;  
+
+n. een waarschuwing betreffende de gevolgen van wanbetaling;  
+
+o. dat in voorkomend geval notariskosten in rekening worden gebracht;  
+
+p. de eventueel gevraagde zekerheden en verzekeringen;  
+
+q. het al dan niet bestaan van het in artikel 66 bedoelde recht van ontbinding van de kredietovereenkomst en de termijn voor de uitoefening daarvan, alsmede andere uitoefeningsvoorwaarden, zoals informatie over de verplichting voor de consument om overeenkomstig artikel 66 lid 3 het opgenomen kapitaal en de rente te betalen en het bedrag van de lopende rente per dag;  
+
+r. informatie over de uit artikel 67 voortvloeiende rechten en de voorwaarden voor de uitoefening daarvan;  
+
+s. het in artikel 68 bedoelde recht op vervroegde aflossing, de hiervoor te volgen procedure alsmede, in voorkomend geval, informatie over het recht van de kredietgever op een vergoeding en de wijze waarop deze vergoeding wordt vastgesteld;  
+
+t. de procedure voor de uitoefening van het in artikel 65 bedoelde recht van beëindiging van de kredietovereenkomst;  
+
+u. of voor de consument buitengerechtelijke klachten- en beroepsprocedures openstaan en, indien dit het geval is, hoe hij die procedures kan inleiden;  
+
+v. in voorkomend geval, de overige contractvoorwaarden, en  
+
+w. in voorkomend geval, naam en adres van de bevoegde toezichthoudende autoriteit.     
+3.  De aflossingstabel, bedoeld in lid 2, onderdeel j, geeft de te betalen bedragen en de betalingstermijnen en voorwaarden aan. In de aflossingstabel wordt elke periodieke betaling uitgesplitst in afgelost kapitaal, op basis van de debetrentevoet berekende rente en, in voorkomend geval, bijkomende kosten. Indien krachtens de kredietovereenkomst het rentepercentage niet vast is of de bijkomende kosten kunnen worden gewijzigd, wordt in de aflossingstabel op een duidelijke en beknopte wijze vermeld dat de gegevens van de tabel alleen gelden tot de wijziging van de debetrentevoet of van de bijkomende kosten overeenkomstig de kredietovereenkomst.   
+4.  In geval van toepassing van de leden 2, onderdeel j, en 3 stelt de kredietgever, gratis en op elk ogenblik tijdens de duur van de kredietovereenkomst, een overzicht van de rekening in de vorm van een aflossingstabel ter beschikking aan de consument.   
+5.  De ingevolge de leden 2 en 3 te verstrekken informatie bij een kredietovereenkomst waarbij de betalingen door de consument niet tot een directe overeenkomstige aflossing van het totale kredietbedrag leiden, maar dienen voor kapitaalvorming gedurende de termijnen en onder de voorwaarden die zijn vastgesteld in de kredietovereenkomst of in een nevenovereenkomst, bevat een duidelijke en beknopte vermelding dat dergelijke kredietovereenkomsten niet voorzien in een garantie tot terugbetaling van het totale uit hoofde van de kredietovereenkomst opgenomen kredietbedrag, tenzij die garantie wordt gegeven.   
+6.  Bij kredietovereenkomsten die in de vorm van een geoorloofde debetstand op een rekening overeenkomstig artikel 58 lid 3 worden verleend, worden op duidelijke en beknopte wijze vermeld: 
+
+a. het soort krediet;  
+
+b. de identiteit en het geografische adres van de overeenkomstsluitende partijen en, in voorkomend geval, de identiteit en het geografische adres van de betrokken kredietbemiddelaar;  
+
+c. de duur van de kredietovereenkomst;  
+
+d. het totale kredietbedrag en de voorwaarden voor kredietopneming;  
+
+e. de debetrentevoet, de voorwaarden die de toepassing van deze rentevoet regelen, en, voor zover beschikbaar, indices of referentierentevoeten die betrekking hebben op de aanvankelijke debetrentevoet, alsook de termijnen, de voorwaarden en de procedure voor wijziging van de debetrentevoet;  
+
+f. indien naargelang van de verschillende omstandigheden verschillende debetrentevoeten worden toegepast, de in onderdeel e genoemde informatie met betrekking tot alle toepasselijke rentevoeten;  
+
+g. in voorkomend geval, de vermelding dat de consument te allen tijde gevraagd kan worden het kredietbedrag volledig terug te betalen;  
+
+h. de procedure voor de uitoefening van het in artikel 66 bedoelde recht van ontbinding van de kredietovereenkomst, en  
+
+i. de informatie over de vanaf het sluiten van de overeenkomst verschuldigde kosten, alsmede, voor zover van toepassing, de voorwaarden waaronder deze gewijzigd kunnen worden.     
+7.  In overeenkomsten betreffende effectenkrediet worden op duidelijke en beknopte wijze vermeld: 
+
+a. dat het krediet kan worden aangewend voor de financiering van transacties in financiële instrumenten;  
+
+b. de identiteit en het geografische adres van de overeenkomstsluitende partijen en, in voorkomend geval, de identiteit en het geografische adres van de betrokken kredietbemiddelaar;  
+
+c. de wijze waarop de consument actuele informatie kan verkrijgen over de dekkingspercentages en indien van toepassing, de spreidingseisen, die de kredietgever hanteert bij het bepalen van de kredietlimiet en de voorwaarden waaronder de kredietgever deze kan wijzigen;  
+
+d. de voorwaarden voor kredietopneming;  
+
+e. de debetrentevoet, de voorwaarden die de toepassing van deze rentevoet regelen, en, voor zover beschikbaar, indices of referentierentevoeten die betrekking hebben op de aanvankelijke debetrentevoet, alsook de termijnen, de voorwaarden en de procedure voor wijziging van de debetrentevoet;  
+
+f. indien naargelang van de verschillende omstandigheden verschillende debetrentevoeten worden toegepast, de in onderdeel e genoemde informatie met betrekking tot alle toepasselijke rentevoeten;  
+
+g. informatie betreffende het niet bestaan van het in de artikelen 66 lid 1 en 67 lid 1 bedoelde recht van ontbinding van de kredietovereenkomst;  
+
+h. de informatie over de vanaf het sluiten van de overeenkomst verschuldigde kosten, alsmede, voor zover van toepassing, de voorwaarden waaronder deze gewijzigd kunnen worden;  
+
+i. een waarschuwing betreffende de gevolgen van wanbetaling;  
+
+j. de gevraagde zekerheden;  
+
+k. de procedure voor de uitoefening van het in artikel 65 bedoelde recht van beëindiging van de kredietovereenkomst;  
+
+l. of voor de consument buitengerechtelijke klachten- en beroepsprocedures openstaan en, indien dit het geval is, hoe hij die procedures kan inleiden, en  
+
+m. in voorkomende geval, naam en adres van de bevoegde toezichthoudende autoriteit.     
+
+### Artikel  62  
+
+1.  In voorkomend geval wordt de consument op papier of op een andere duurzame drager in kennis gesteld van een wijziging van de debetrentevoet voordat de wijziging van kracht wordt. Daarbij wordt het bedrag van de na de inwerkingtreding van de nieuwe debetrentevoet te verrichten betalingen vermeld evenals bijzonderheden betreffende een eventuele wijziging in het aantal of de frequentie van de betalingen.   
+2.  De partijen kunnen echter in de kredietovereenkomst overeenkomen dat de informatie, bedoeld in lid 1, periodiek aan de consument wordt verstrekt indien de wijziging van de debetrentevoet het gevolg is van een wijziging van een referentierentevoet en het publiek via passende middelen kennis kan nemen van de nieuwe referentierentevoet en de informatie over de nieuwe referentierentevoet ook beschikbaar is in de gebouwen van de kredietgever.   
+
+### Artikel  63  
+
+1.  Bij een kredietovereenkomst in de vorm van een geoorloofde debetstand op een rekening als bedoeld in artikel 58 lid 3 wordt de consument regelmatig door middel van een rekeningafschrift op papier of op een andere duurzame drager op de hoogte gebracht van de volgende informatie: 
+
+a. de periode waarop het rekeningafschrift betrekking heeft;  
+
+b. de opgenomen bedragen en de datum van opneming;  
+
+c. het saldo en de datum van het vorige afschrift;  
+
+d. het nieuwe saldo;  
+
+e. de datum en het bedrag van de door de consument verrichte betalingen;  
+
+f. de toegepaste debetrentevoet;  
+
+g. de eventueel toegepaste kosten, en  
+
+h. in voorkomend geval, het te betalen minimumbedrag.     
+2.  De consument wordt, voordat de betreffende wijziging van kracht wordt, op papier of op een andere duurzame drager in kennis gesteld van verhogingen van de debetrentevoet of van de kosten.   
+3.  De partijen kunnen in de kredietovereenkomst overeenkomen dat informatie over wijzigingen van de debetrentevoet door middel van het rekeningafschrift, bedoeld in lid 1, moet worden verstrekt, indien de wijziging van de debetrentevoet het gevolg is van een wijziging van een referentierentevoet en het publiek via passende middelen kennis kan nemen van de nieuwe referentierentevoet en de informatie over de nieuwe referentierentevoet ook beschikbaar is in de gebouwen van de kredietgever.   
+
+### Artikel  64  
+
+Bij overeenkomsten betreffende effectenkrediet maakt de kredietgever melding van wijzigingen in de dekkingspercentages en de spreidingseisen op de dag dat de betreffende wijziging ingaat, op de ingevolge artikel 61 lid 7, onderdeel c, overeengekomen wijze.  
+
+### Artikel  65  
+
+1.  De consument kan een kredietovereenkomst met onbepaalde looptijd te allen tijde kosteloos beëindigen. Indien partijen een opzeggingstermijn zijn overeengekomen, mag deze termijn niet langer zijn dan één maand.   
+2.  De kredietgever kan, indien dit in de kredietovereenkomst is overeengekomen, een kredietovereenkomst met onbepaalde looptijd beëindigen door de consument met inachtneming van een opzegtermijn van ten minste twee maanden een opzegging te doen toekomen op papier of op een andere duurzame drager.   
+3.  De kredietgever kan, indien dit in de kredietovereenkomst is overeengekomen, op objectieve gronden de consument het recht ontnemen om op grond van een kredietovereenkomst met onbepaalde looptijd krediet op te nemen. De kredietgever stelt de consument, op papier of op een andere duurzame drager, indien mogelijk van tevoren en uiterlijk onmiddellijk na deze ontneming, van deze ontneming in kennis, alsook van de gronden hiervoor, tenzij het verstrekken van dergelijke informatie op grond van andere communautaire wetgeving is verboden of indruist tegen doelstellingen van openbare orde of openbare veiligheid.   
+
+### Artikel  66  
+
+1.  De consument heeft het recht om de kredietovereenkomst zonder opgave van redenen te ontbinden gedurende veertien kalenderdagen na: 
+
+a. de dag van de sluiting van de kredietovereenkomst, of  
+
+b. de dag waarop de consument de contractuele voorwaarden en informatie overeenkomstig artikel 61 ontvangt, als die dag later valt dan de in onderdeel a bedoelde dag.     
+2.  De consument oefent het recht, bedoeld in lid 1, uit door binnen de gestelde termijn een daartoe strekkende kennisgeving te richten tot de kredietgever. De kennisgeving is in lijn met de door de kredietgever ingevolge artikel 61 lid 2, onderdeel q, verstrekte informatie en wordt gedaan op een wijze die voor bewijs vatbaar is. De gestelde termijn is in acht genomen indien, een kennisgeving op papier of op een andere duurzame drager waarover de kredietgever beschikt en waartoe hij toegang heeft, vóór het verstrijken van de termijn is verzonden.   
+3.  In geval van ontbinding van de kredietovereenkomst overeenkomstig lid 1 betaalt de consument het kapitaal aan de kredietgever terug met de op dit kapitaal lopende rente vanaf de datum waarop het krediet is verstrekt tot de datum waarop het kapitaal wordt terugbetaald. De verschuldigde debetrente wordt berekend aan de hand van de overeengekomen debetrentevoet. De terugbetaling moet onverwijld en uiterlijk binnen 30 kalenderdagen na de verzending van de kennisgeving, bedoeld in lid 2, plaatsvinden.   
+4.  De kredietgever heeft bij toepassing van lid 1 geen recht op een andere vergoeding van de consument dan die welke verschuldigd is volgens lid 3, met uitzondering van de vergoeding voor niet voor terugbetaling in aanmerking komende kosten die de kredietgever aan een overheidsorgaan heeft betaald.   
+5.  Indien door de kredietgever of een derde partij op grond van een onderlinge overeenkomst een nevendienst in verband met de kredietovereenkomst wordt verricht, brengt de ontbinding van de kredietovereenkomst overeenkomstig lid 1, van rechtswege mee dat de consument niet langer aan de nevendienst gebonden is.   
+6.  Indien de consument overeenkomstig lid 1 een recht van ontbinding heeft, zijn andere bepalingen die een soortgelijk recht op ontbinding aan de consument toekennen, niet van toepassing.   
+7.  Lid 1 is niet van toepassing op overeenkomsten betreffende effectenkrediet.   
+
+### Artikel  67  
+
+1.  Indien de consument een overeenkomst voor de levering van een goed of het verrichten van een dienst heeft ontbonden overeenkomstig artikel 46d lid 1 of 48c lid 2 dan wel [artikel 25 van de Colportagewet](../../../../../../wet/colportagewet/BWBR0002896/README.md), is hij evenmin langer gebonden aan de daarmee gelieerde kredietovereenkomst.   
+2.  Indien onder de gelieerde kredietovereenkomsten vallende goederen niet of slechts gedeeltelijk geleverd worden of niet beantwoorden aan de voorwaarden van de overeenkomst voor de levering van de goederen en de consument zijn rechten ter zake daarvan jegens de leverancier heeft ingeroepen, maar er niet in is geslaagd te verkrijgen waarop hij volgens de genoemde overeenkomst recht heeft, is de consument gerechtigd zijn rechten jegens de kredietgever geldend te maken.   
+3.  Indien onder de gelieerde kredietovereenkomsten vallende diensten niet of slechts gedeeltelijk verricht worden of niet beantwoorden aan de voorwaarden van de overeenkomst voor het verrichten van de diensten en de consument zijn rechten ter zake daarvan jegens de dienstenaanbieder heeft ingeroepen, maar er niet in is geslaagd te verkrijgen waarop hij volgens de genoemde overeenkomst recht heeft, is de consument gerechtigd zijn rechten jegens de kredietgever geldend te maken.   
+4.  Lid 1 is niet van toepassing op overeenkomsten betreffende effectenkrediet.   
+
+### Artikel  68  
+
+1.  De consument heeft het recht om zich te allen tijde geheel of gedeeltelijk van zijn verplichtingen op grond van een kredietovereenkomst te kwijten. In dat geval heeft hij recht op een verlaging van de totale kredietkosten, bestaande uit de interesten en de kosten gedurende de resterende duur van de overeenkomst.   
+2.  De kredietgever heeft in geval van een vervroegde aflossing recht op een billijke en objectief gegronde vergoeding voor eventuele kosten die hiermee rechtstreeks verband houden, mits de vervroegde aflossing valt in een termijn waarvoor een vaste debetrentevoet geldt. De vergoeding mag niet hoger zijn dan: 
+
+a. 0,5% van het vervroegd afgeloste kredietbedrag, indien de termijn tussen de vervroegde aflossing en het overeengekomen einde van de kredietovereenkomst ten hoogste één jaar is;  
+
+b. 1% van het vervroegd afgeloste kredietbedrag, indien de termijn tussen de vervroegde aflossing en het overeengekomen einde van de kredietovereenkomst langer is dan één jaar.     
+3.  In afwijking van lid 2, onderdelen a en b, kan de kredietgever de consument bij kredieten boven € 75 000 een hogere vergoeding in rekening brengen, indien hij aannemelijk maakt dat het door de vervroegde aflossing geleden verlies het krachtens lid 2 bepaalde bedrag overstijgt. Het verlies bestaat uit het verschil tussen de oorspronkelijk overeengekomen rentevoet en de rentevoet waartegen de kredietgever een lening kan verstrekken ter hoogte van het vervroegd afgeloste bedrag op de markt op het ogenblik van de vervroegde aflossing. Bij de bepaling van het verlies wordt tevens rekening gehouden met de administratieve kosten van de vervroegde aflossing.   
+4.  De in de leden 2 en 3 bedoelde vergoeding mag niet hoger zijn dan het rentebedrag dat de consument zou hebben betaald gedurende de termijn tussen de vervroegde aflossing en het overeengekomen einde van de kredietovereenkomst.   
+5.  De kredietgever kan de consument geen vergoeding als bedoeld in lid 2 of lid 3 in rekening brengen: 
+
+a. als de vervroegde aflossing heeft plaatsgevonden uit hoofde van een verzekeringscontract dat bedoeld is om een kredietaflossingsgarantie te bieden, of  
+
+b. bij een geoorloofde debetstand op een rekening.     
+
+### Artikel  69  
+
+1.  Indien de rechten die de kredietgever op grond van de kredietovereenkomst heeft, dan wel de overeenkomst zelf, aan een derde worden overgedragen, kan de consument jegens de verkrijger alle verweermiddelen inroepen die hem jegens de oorspronkelijke kredietgever ten dienste stonden, met inbegrip van de bevoegdheid tot verrekening.   
+2.  De consument wordt geïnformeerd over de in lid 1 bedoelde overdracht, behalve indien de oorspronkelijke kredietgever, in overleg met de verkrijger tegenover de consument het krediet verder beheert.   
+
+### Artikel  70  
+
+1.  Wanneer de kredietgever in een overeenkomst tot opening van een rekening de consument de mogelijkheid biedt van een overschrijding, wordt in die overeenkomst eveneens de in artikel 6 lid 1, onderdeel e, van de richtlijn bedoelde informatie vermeld. De kredietgever verstrekt die informatie in elk geval op papier of op een andere duurzame drager en op gezette tijden.   
+2.  In geval van een aanzienlijke overschrijding gedurende meer dan een maand brengt de kredietgever de consument, op papier of op een andere duurzame drager, op de hoogte van: 
+
+a. de overschrijding;  
+
+b. het betreffende bedrag;  
+
+c. de debetrentevoet, en  
+
+d. de eventuele toepasselijke boetes, kosten of rente wegens achterstand.     
+
+### Afdeling  4  
+
+####Jaarlijks kostenpercentage
+
+### Artikel  71  
+
+Het jaarlijks kostenpercentage wordt door de kredietgever berekend overeenkomstig artikel 19 van de Richtlijn.  
+
+### Afdeling  5  
+
+####Kredietgevers en kredietbemiddelaars
+
+### Artikel  72  
+
+1.  Indien de kredietovereenkomst wordt gesloten door tussenkomst van een kredietbemiddelaar, wordt door deze in voor de consument bestemde documenten de omvang van zijn volmacht vermeld en tevens of hij exclusief met één of meer kredietgevers dan wel als onafhankelijk kredietbemiddelaar werkt.   
+2.  Indien de kredietbemiddelaar met in achtneming van [artikel 4:74 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) de consument voor zijn dienstverlening een vergoeding in rekening brengt, maakt hij het bedrag van de vergoeding kenbaar aan de consument. Het bedrag van de vergoeding wordt voor sluiting van de kredietovereenkomst tussen de consument en de kredietbemiddelaar overeengekomen op papier of een andere duurzame drager.   
+3.  De kredietbemiddelaar is verplicht de vergoeding die de consument aan hem dient te betalen voor zijn dienstverlening, mee te delen aan de kredietgever teneinde het jaarlijks kostenpercentage te kunnen berekenen.   
+4.  Indien de kredietbemiddelaar niet aan zijn in de leden 1 tot en met 3 bedoelde verplichtingen voldoet, is de consument geen vergoeding voor zijn dienstverlening verschuldigd.   
+
+### Afdeling  6  
+
+####Slotbepalingen
+
+### Artikel  73  
+
+1.  Van het bepaalde bij deze titel kan niet ten nadele van de consument worden afgeweken.   
+2.  De consument kan de hem krachtens deze titel toegekende bescherming niet worden ontzegd, door overeenkomsten een bijzondere vorm te geven, met name door kredietopnemingen of kredietovereenkomsten die onder de Richtlijn vallen op te nemen in overeenkomsten die, door de aard of het doel ervan, buiten de werkingssfeer ervan zouden kunnen vallen.   
+3.  Aan de consument kan, indien de kredietovereenkomst een nauwe band heeft met het grondgebied van een of meer lidstaten van de Europese Unie, de hem krachtens de Richtlijn door het recht van die staat toegekende bescherming niet worden onthouden, ongeacht het recht dat de kredietovereenkomst beheerst.   
 
 ### Titel  3  
 
@@ -3136,7 +3502,7 @@ Bij of krachtens de algemene maatregel van bestuur, bedoeld in [artikel 4:22 van
 ### Artikel  550  
 
 1.  Van het bepaalde bij deze titel kan niet ten nadele van de betaaldienstgebruiker worden afgeweken, tenzij anders is bepaald.   
-2.  Indien de betaaldienstgebruiker geen consument is, kunnen partijen overeenkomen dat de artikelen 516 tot en met 519, 520, eerste lid, 522, tweede lid, tweede zin, 527, 529 tot en met 531, 534, 543, 544 en 545 in het geheel of ten dele niet van toepassing zijn. De partijen kunnen een andere termijn overeenkomen dan die welke is gesteld bij artikel 526.   
+2.  Indien de betaaldienstgebruiker geen consument is, kunnen partijen overeenkomen dat de artikelen 516 tot en met 519, 520, eerste lid, 522, derde lid, 527, 529 tot en met 531, 534, 543, 544 en 545 in het geheel of ten dele niet van toepassing zijn. De partijen kunnen een andere termijn overeenkomen dan die welke is gesteld bij artikel 526.   
 
 ### Artikel  551  
 

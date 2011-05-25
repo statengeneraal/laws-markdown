@@ -75,7 +75,11 @@ q. exploitant: de eigenaar, rompbevrachter of ieder ander die de zeggenschap hee
 
 r. richtlijn nr. 2002/59/EG: richtlijn nr. 2002/59/EG van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor de zeescheepvaart en tot intrekking van Richtlijn 93/75/EEG van de Raad (PbEG L 208);  
 
-s. een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert: elk vrachtschip, iedere olie-, chemicaliën-, of gastanker, of een passagiersschip, waarmee wordt vervoerd een gevaarlijke stof als bedoeld in artikel 3, onderdeel g, of een schadelijke stof als bedoeld in artikel 3, onderdeel h, van richtlijn nr. 2002/59/EG.     
+s. een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert: elk vrachtschip, iedere olie-, chemicaliën-, of gastanker, of een passagiersschip, waarmee wordt vervoerd een gevaarlijke stof als bedoeld in artikel 3, onderdeel g, of een schadelijke stof als bedoeld in artikel 3, onderdeel h, van richtlijn nr. 2002/59/EG;  
+
+t. waterscooter: klein schip dat, bij gebruikmaking van zijn mechanische middelen tot voortbeweging, sneller dan 20 km per uur ten opzichte van het water kan varen en gebouwd of ingericht is om door een of meer personen skiënd door of over het water te worden voortbewogen;  
+
+u. zeilplank: klein zeilschip voorzien van een vrij bewegende zeiltuigage die is gemonteerd op een in alle richtingen draaibare mastvoet en die tijdens het zeilen niet in een vaste positie wordt ondersteund.     
 2.  In dit reglement wordt verstaan onder: 
 
 a. bevoegde autoriteit: 
@@ -118,7 +122,7 @@ k. schepen in zicht van elkaar: vanaf het ene schip kan het andere met het oog w
 
 l. beperkt zicht: elke omstandigheid waarin het zicht wordt beperkt door mist, nevelig weer, sneeuwval, zware regenbuien, rook, damp of andere soortgelijke oorzaken;  
 
-l. keren: het schip dat varende is verandert zodanig van vaarrichting dat het komt te varen in een richting tegengesteld aan die waarin het voer;     
+m. keren: het schip dat varende is verandert zodanig van vaarrichting dat het komt te varen in een richting tegengesteld aan die waarin het voer.     
 
 ### Artikel  2a  
 
@@ -404,12 +408,11 @@ c. een schip dat over stuurboordboeg ligt en dat aan zijn loefzijde een schip zi
 
 ####Gedrag bij beperkt zicht
 
-1.  De voorschriften van dit artikel zijn van toepassing op schepen die niet in zicht van elkaar zijn wanneer zij varen in of in de buurt van een gebied met beperkt zicht.   
+1.  Bij beperkt zicht maakt een schip gebruik van radar. Als een schip niet op radar kan varen, gaat het bij beperkt zicht op de dichtstbijzijnde daarvoor geschikte plaats stilliggen.   
 2.  Elk schip moet een veilige vaart aanhouden aangepast aan de heersende omstandigheden en de toestanden van beperkt zicht en zonodig stoppen. Een werktuiglijk voortbewogen schip moet zijn machines gereed hebben ten einde onmiddellijk te kunnen manoeuvreren.   
-3.  Met uitzondering van een klein schip moet elk schip dat niet met behulp van radar vaart, voorop een uitkijk hebben die zich of binnen gezichts- en of gehoorafstand van de kapitein of schipper bevindt of een spreekverbinding met hem heeft.   
-4.  Een schip dat alleen met radar de aanwezigheid van een ander schip waarneemt, moet vaststellen of zich een situatie ontwikkelt waarin men elkaar zo dicht nadert dat gevaar voor aanvaring kan ontstaan. Is dit het geval dan moet het bijtijds maatregelen ter vermijding daarvan nemen.   
-5.  Behalve wanneer is vastgesteld dat geen gevaar voor aanvaring bestaat, moet elk schip dat meent voorlijker dan dwars het mistsein te horen van een ander schip of dat een dicht naderen van een schip voorlijker dan dwars niet kan vermijden, zijn vaart verminderen tot het minimum waarbij het op koers kan worden gehouden. Indien nodig moet de vaart geheel uit het schip worden gehaald en in elk geval uiterst voorzichtig gemanoeuvreerd worden tot het gevaar voor aanvaring is geweken.   
-6.  Schepen mogen slechts met behulp van radar varen indien: 
+3.  Een schip dat alleen met radar de aanwezigheid van een ander schip waarneemt, moet vaststellen of zich een situatie ontwikkelt waarin men elkaar zo dicht nadert dat gevaar voor aanvaring kan ontstaan. Is dit het geval dan moet het bijtijds maatregelen ter vermijding daarvan nemen.   
+4.  Behalve wanneer is vastgesteld dat geen gevaar voor aanvaring bestaat, moet elk schip dat meent voorlijker dan dwars het mistsein te horen van een ander schip of dat een dicht naderen van een schip voorlijker dan dwars niet kan vermijden, zijn vaart verminderen tot het minimum waarbij het op koers kan worden gehouden. Indien nodig moet de vaart geheel uit het schip worden gehaald en in elk geval uiterst voorzichtig gemanoeuvreerd worden tot het gevaar voor aanvaring is geweken.   
+5.  Schepen mogen slechts met behulp van radar varen indien: 
 
 a. ze zijn uitgerust met een voor de behoeften van de binnenvaart geschikte radarinstallatie en een bochtaanwijzer;  
 
@@ -418,7 +421,7 @@ b. ze zijn uitgerust met een marifooninstallatie waarmede het onderhouden van ve
 c. zich aan boord een persoon bevindt die houder is van een diploma dat overeenkomstig de daaromtrent vastgestelde regelen is afgegeven;  
 
 d. zowel de in onderdeel *c* bedoelde persoon als een tweede persoon, die met deze wijze van varen voldoende op de hoogte is, zich voortdurend in de stuurhut bevinden. Voor een schip waarvan de stuurstelling zodanig is ingericht, dat het voeren van het schip dat vaart met behulp van radar, door één persoon kan geschieden, behoeft de tweede persoon slechts aan boord beschikbaar te zijn.   De radar, de marifooninstallatie en de bochtaanwijzer moeten goed functioneren en goedgekeurd zijn door Onze Minister van Verkeer en Waterstaat.   
-7.  Bij het varen bij beperkt zicht met behulp van radar moet de marifooninstallatie voortdurend op het kanaal zijn ingeschakeld dat door de bevoegde autoriteit is voorgeschreven en aan de scheepvaart is bekend gemaakt, hetzij om uit te luisteren, hetzij om inlichtingen te geven ten behoeve van andere schepen. De marifooninstallatie moet tevens worden gebruikt voor het onderhouden van verbinding met de bevoegde personen aan de wal.   
+6.  Bij het varen bij beperkt zicht met behulp van radar moet de marifooninstallatie voortdurend op het kanaal zijn ingeschakeld dat door de bevoegde autoriteit is voorgeschreven en aan de scheepvaart is bekend gemaakt, hetzij om uit te luisteren, hetzij om inlichtingen te geven ten behoeve van andere schepen. De marifooninstallatie moet tevens worden gebruikt voor het onderhouden van verbinding met de bevoegde personen aan de wal.   
 
 ### Hoofdstuk  3  
 
@@ -483,7 +486,11 @@ In dit reglement wordt verstaan onder:
 
 a. zichtbaar: zichtbaar bij donkere nacht en bij heldere dampkring;  
 
-b. gewoon licht, helder licht en krachtig licht: lichten die op een afstand van onderscheidenlijk ten minste 1000 meter, 2000 meter en 3000 meter zichtbaar zijn.    
+b. gewoon licht, helder licht en krachtig licht: 
+
+1. voor zeeschepen: lichten die op een afstand van onderscheidenlijk ten minste 1.000 meter, 2.000 meter en 3.000 meter zichtbaar zijn;  
+
+2. voor binnenschepen: de lichten die voldoen aan de eisen van [bijlage 1.5 van de Binnenvaartregeling](../../../../../../../../../../ministeriele-regeling/binnenvaartregeling/BWBR0025958/README.md).      
 
 ### Artikel  23  
 
@@ -565,7 +572,7 @@ d. Indien een duwstel of een gekoppeld samenstel één of meer schepen bevat, be
 e. Een binnenschip, een duwstel of een gekoppeld samenstel, geladen met verschillende gevaarlijke stoffen, als bedoeld onder *a*, *b*, en *c*, moet uitsluitend de lichten of kegels voeren voorgeschreven voor de gevaarlijke stof die volgens dit lid het grootste aantal blauwe lichten of kegels vereist.  
 
 f. De sterkte van de blauwe lichten voorgeschreven in dit lid dient ten minste gelijk te zijn aan die van blauwe gewone lichten.     
-3.  Het eerste en tweede lid zijn ook van toepassing op tankschepen, die na het lossen van de in de bij dit besluit behorende bijlagen 1 tot en met 3 bedoelde stoffen nog niet gereinigd, ontgast of geheel geïnertiseerd zijn.   
+3.  Het eerste en tweede lid zijn ook van toepassing op tankschepen, die na het lossen van de in de bij dit besluit behorende bijlage 1 bedoelde stoffen nog niet gereinigd, ontgast of geheel geïnertiseerd zijn.   
 4.  Een binnenschip, dat in het bezit is van een certificaat van goedkeuring als bedoeld in het ADNR, nr. 8.1.8 en dat voldoet aan de veiligheidsvoorschriften die gelden voor een schip als bedoeld in het tweede lid, onderdeel *a*, mag, indien het gelijktijdig geschut wil worden met een schip dat de tekens van het tweede lid, onder *a*, moet voeren, bij nadering van een sluis de tekens, bedoeld in het tweede lid, onder *a*, voeren.   
 
 ### Artikel  26  
@@ -806,29 +813,30 @@ h. reeksen klokslagen of herhaalde lange stoten.
 
 ####Toegelaten afmetingen en diepgang
 
-1.  Het is verboden te varen met een schip of samenstel dat de hieronder vermelde grootst toegelaten afmetingen en diepgang overschrijdt: 
+1.  Het is verboden te varen met een schip of samenstel dat de hieronder vermelde grootst toegelaten afmetingen en diepgang, uitgaande van een waterstand in het kanaal van Normaal Amsterdams Peil + 2,13 meter in zoet water, overschrijdt: 
 
-a. voor zeeschepen: lengte: 256 meter breedte: 34 meter diepgang: 12,25 meter in zoet water;  
+a. voor zeeschepen: lengte: 265 meter breedte: 34 meter diepgang: 
 
-b. voor binnenschepen en gekoppelde samenstellen: lengte: 140,00 meter breedte: 23,00 meter diepgang: 4,00 meter wat de Oostsluis betreft;  
+1° 12,50 meter in opvaart  
 
-c. voor duwstellen: lengte: 200 meter breedte: 23 meter diepgang: 4,00 meter wat de Oostsluis betreft;  
+2°. 12,30 meter in afvaart;    
+
+b. voor binnenschepen en gekoppelde samenstellen: lengte: 140,00 meter breedte: 23,00 meter diepgang: 4,30 meter wat de Oostsluis betreft;  
+
+c. voor duwstellen: lengte: 200 meter breedte: 23 meter diepgang: 4,30 meter wat de Oostsluis betreft;  
 
 d. diepgang op de toeleidings- en zijkanalen: 
 
 1. toeleidingskanaal naar de Middensluis: 7,25 meter  
 
-2. toeleidingskanaal naar de Oostsluis: 4,00 meter  
+2. toeleidingskanaal naar de Oostsluis: 4,30 meter  
 
 3. Axelse Vlakte te Sluiskil: 9,00 meter  
 
 4. Zijkanaal F (naar Passluis): 2,60 meter  
 
 5. Zijkanaal G (naar Sas van Gent): 5,00 meter.        
-2.  De grootst toegelaten diepgang geldt bij een kanaalpeil van N.A.P. + 2,13 meter. Bij een lager kanaalpeil kunnen kleinere waarden voor de grootst toegelaten diepgang gelden.   
-3.  Bij bijzondere omstandigheden, zoals extreme waterstanden, extreme weersomstandigheden, optredende ongevallen, uitvallen van een sluis of een brug, noodzakelijke werkzaamheden in of aan de vaarweg, kunnen de in het eerste lid vermelde grootst toegelaten afmetingen en diepgang door de bevoegde autoriteit tijdelijk worden aangepast en zonodig nadere voorschriften aan de vaart worden verbonden.   
-4.  Door de bevoegde autoriteit kunnen nadere voorschriften worden verbonden aan de vaart met schepen die vanwege hun bijzondere constructie, afmetingen, vorm of opbouw een verhoogd risico vormen.   
-5.  Ten aanzien van de vaart met een bijzonder transport kan de bevoegde autoriteit ontheffing verlenen van het eerste lid.   
+2.  De bevoegde autoriteit kan vrijstelling of ontheffing verlenen van de in het eerste lid vermelde grootst toegelaten afmetingen en diepgang.   
 
 ### Artikel  39  
 
@@ -939,7 +947,7 @@ b. door een zeeschip met een bruto-tonnage als bedoeld in de [Meetbrievenwet 198
 3°. indien de bestemming bij de afvaart uit de vorige haven nog niet bekend was of tijdens de reis wordt gewijzigd, zodra deze bekend is, maar uiterlijk bij het binnenvaren van de Nederlandse territoriale zee.       
 3.  De kapitein, de exploitant of de agent van een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert, deelt voor de afvaart van dat schip uit een aan het kanaal gelegen haven, ankerplaats, laad- of losinrichting of wachtplaats, aan de bevoegde autoriteit de bij ministeriële regeling vastgestelde gegevens mede omtrent het schip, het tijdstip van vertrek daarvan, de daarmee vervoerde lading, het aantal personen aan boord en de uit te voeren reis, op een bij die regeling bepaalde wijze.   
 4.  De in het eerste lid bedoelde meldingsplicht is niet van toepassing op een in aanloop zijnd schip dat zich reeds op grond van het [Scheepvaartreglement territoriale zee](../../../../../../../../../../AMvB/scheepvaartreglement/territoriale/zee/BWBR0007914/README.md) heeft gemeld.   
-5.  De Rijkshavenmeester Westerschelde kan ontheffing verlenen van de in het eerste en het derde lid bedoelde meldingsplichten met betrekking tot een zeeschip als bedoeld in die leden, dat in lijndienst vaart tussen twee in Nederland gelegen havens of tussen een in Nederland gelegen haven en een haven gelegen in een andere staat, als wordt voldaan aan de voorschriften, bedoeld in artikel 15, eerste en tweede lid, van richtlijn nr. 2002/59/EG.   
+5.  De bevoegde autoriteit kan ontheffing verlenen van de in het eerste en het derde lid bedoelde meldingsplichten met betrekking tot een zeeschip als bedoeld in die leden, dat in lijndienst vaart tussen twee in Nederland gelegen havens of tussen een in Nederland gelegen haven en een haven gelegen in een andere staat, als wordt voldaan aan de voorschriften, bedoeld in artikel 15, eerste en tweede lid, van richtlijn nr. 2002/59/EG.   
 6.  De bevoegde autoriteit trekt de ontheffing in wanneer niet meer wordt voldaan aan de voorschriften, bedoeld in het vijfde lid.   
 7.  Het eerste en derde lid zijn niet van toepassing op een schip als bedoeld in artikel 2, tweede lid, in samenhang met artikel 6 bis van richtlijn nr. 2002/59/EG.   
 
@@ -1013,9 +1021,9 @@ Zonder vergunning van de bevoegde autoriteit is het verboden een sportevenement,
 
 ### Artikel  50  
 
-####Toestemmingen, ontheffingen en vergunningen
+####Toestemmingen, ontheffingen, vrijstellingen en vergunningen
 
-Aan toestemmingen, ontheffingen en vergunningen kunnen voorschriften worden verbonden.  
+Aan toestemmingen, ontheffingen, vrijstellingen en vergunningen kunnen voorschriften worden verbonden.  
 
 ### Artikel  51  
 
@@ -1062,10 +1070,10 @@ b. schade door het scheepvaartverkeer aan de landschappelijke of natuurwetenscha
 
 ####Aanwijzingen en bekendmakingen
 
-1.  In het belang van de veiligheid en het vlotte verloop van het scheepvaartverkeer alsmede in het belang van de instandhouding van de werken kunnen verkeersaanwijzingen worden gegeven.   
-2.  De bevoegde autoriteit kan ter verzekering van de in het eerste lid bedoelde belangen voor bijzondere situaties tijdelijke voorschriften vaststellen, die als bekendmakingen aan de scheepvaart worden uitgegeven.   
+1.  In het belang van de veiligheid en het vlotte verloop van het scheepvaartverkeer alsmede in het belang van de instandhouding van de werken kunnen door of namens de bevoegde autoriteit verkeersaanwijzingen worden gegeven.   
+2.  Onder de in het eerste lid genoemde verkeersaanwijzingen worden mede verstaan de bekendmakingen aan de scheepvaart die door de bevoegde autoriteit worden uitgevaardigd.   
 3.  De bekendmakingen, bedoeld in het tweede lid, worden gepubliceerd in de Staatscourant.   
-4.  Kapiteins en schippers moeten aan de verkeersaanwijzingen gevolg geven en de tijdelijke voorschriften naleven.   
+4.  Kapiteins en schippers moeten aan de verkeersaanwijzingen gevolg geven en de bekendmakingen aan de scheepvaart naleven.   
 
 ### Hoofdstuk  6  
 
@@ -1075,13 +1083,13 @@ b. schade door het scheepvaartverkeer aan de landschappelijke of natuurwetenscha
 
 ####Verplichting tot aan boord hebben van een reglement
 
-Aan boord van elk schip, met uitzondering van een open klein schip, waarop dit reglement van toepassing is, moet een bijgewerkt exemplaar van dit reglement aanwezig zijn dat op eerste aanvraag van een opsporingsambtenaar ter inzage moet worden gegeven.  
+Aan boord van elk schip, met uitzondering van een open klein schip, waarop dit reglement van toepassing is, moet een volledig bijgewerkt exemplaar van dit reglement in papieren vorm of dat via een elektronisch middel op ieder moment geraadpleegd kan worden aanwezig zijn, en dat op eerste aanvraag van een opsporingsambtenaar door deze kan worden ingezien.  
 
 ### Artikel  55  
 
 ####Strafbare feiten
 
-Overtreding van de bij of krachtens dit reglement vastgestelde bepalingen, met uitzondering van de artikelen 1, 2, 2a, 3, eerste, derde en achtste lid, 4, 11, 19, eerste lid, 21, eerste lid, 22, 30, derde lid, onder *c,* 32, 38, tweede tot en met vijfde lid, 39, twaalfde lid, 41, negende lid, 42, vierde lid, 50, 51, 52, 53, eerste tot en met derde lid, 55 tot en met 59, alsmede overtreding van de aan een vergunning, ontheffing of toestemming verbonden voorschriften, met uitzondering van overtreding van de voorschriften verbonden aan een ontheffing als bedoeld in artikel 43a, vijfde lid, is een strafbaar feit.  
+Overtreding van de bij of krachtens dit besluit vastgestelde bepalingen, alsmede overtreding van de aan een vergunning, ontheffing, vrijstelling of toestemming verbonden voorschriften, is een strafbaar feit.  
 
 ### Artikel  56  
 

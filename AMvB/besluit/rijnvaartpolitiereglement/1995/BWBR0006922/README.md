@@ -19,10 +19,6 @@ Hebben goedgevonden en verstaan:
 
 Voor de Rijn in Nederland met inbegrip van de Waal en de Lek is van kracht het Reglement van politie voor de Rijnvaart met de daarbij behorende bijlagen, dat is gevoegd bij dit besluit en dat kan worden aangehaald als " Rijnvaartpolitiereglement 1995".  
 
-### Artikel  2  
-
-Onze Minister van Verkeer en Waterstaat bepaalt op welke gedeelten van de vaarweg het ligplaats nemen, ankeren of meren, bedoeld in het eerste lid, onderdeel *a*, van de artikelen 7.02, 7.03 en 7.04 van het Rijnvaartpolitiereglement 1995 niet is toegestaan.  
-
 ### Artikel  3  
 
 Onze Minister van Verkeer en Waterstaat bepaalt wie de bevoegde autoriteit of de bevoegde autoriteiten zijn, bedoeld in het Rijnvaartpolitiereglement 1995.  

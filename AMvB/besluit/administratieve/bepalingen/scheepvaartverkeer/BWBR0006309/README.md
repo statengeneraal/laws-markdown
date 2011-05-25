@@ -165,7 +165,7 @@ In afwijking van artikel 10 geschiedt de tijdelijke aanbrenging krachtens een ve
 - het marifoonkanaal waarop een melding door de scheepvaart dient plaats te vinden;  
 
 - punten bij het passeren waarvan een melding door de scheepvaart dient plaats te vinden.     
-5.  Met betrekking tot het derde lid is artikel 1.01, onderdelen *b*.1, *x*, *x*.1, en *ij*, van het Binnenvaartpolitiereglement van overeenkomstige toepassing.   
+5.  Met betrekking tot het derde lid is [artikel 1.01, onderdeel A, 15° tot en met 18°, van het Binnenvaartpolitiereglement](../../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) van overeenkomstige toepassing.   
 6.  De artikelen 4 tot en met 6 en 10 tot en met 12 zijn van overeenkomstige toepassing op bekendmakingen met dezelfde strekking als een verkeersteken.   
 
 ### Hoofdstuk  3  

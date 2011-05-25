@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 ####Toepassingsgebied
 
-Dit reglement is van toepassing op de Westerschelde met haar mondingen, met inbegrip van het gedeelte van de territoriale zee dat wordt begrensd door de lijn over de kerktorens van Aagtekerke en Domburg tot de positie 51°37'.0 N, 03°27'.2 O, vandaar naar 51°35'.6 N, 03°23'.3 O, vandaar naar 51°34'.0 N, 03°22'.2 O, vandaar naar 51°24'.7 N, 03°17'.9 O en vandaar naar grenspaal 369.  
+Dit reglement is van toepassing op de Westerschelde met haar mondingen, met inbegrip van het gedeelte van de territoriale zee dat wordt begrensd door de lijn over de kerktorens van Aagtekerke en Domburg tot de positie 51°36’.95 N en 003°27’.12 E, vandaar naar 51°35’.55 N en 003°23’.22 E, vandaar naar 51°33’.95 N en 003°22’.12 E, vandaar naar 51°26’.03 N en 003°18’.46 E, en vandaar naar grenspaal 369. De coördinaten zijn uitgedrukt in lengte en breedte volgens het World Geodetic System (WGS-84), in graden en minuten.  
 
 ### Artikel  2  
 
@@ -40,7 +40,11 @@ e. sleepboot: een werktuiglijk voortbewogen schip dat sleepdienst verricht of as
 
 f. zeilschip: een schip dat onder zeil is mits de voortstuwingswerktuigen, indien aangebracht, niet worden gebruikt;  
 
+f.1. zeilplank: klein zeilschip voorzien van een vrij bewegende zeiltuigage die is gemonteerd op een in alle richtingen draaibare mastvoet en die tijdens het zeilen niet in een vaste positie wordt ondersteund;  
+
 g. klein schip: een schip met een lengte van minder dan 20 meter, uitgezonderd een sleepboot, een duwboot en een schip bezig met de uitoefening van de visserij;  
+
+g.1. waterscooter: klein schip dat, bij gebruikmaking van zijn mechanische middelen tot voortbeweging, sneller dan 20 km per uur ten opzichte van het water kan varen en gebouwd of ingericht is om door een of meer personen skiënd door of over het water te worden voortbewogen;  
 
 h. samenstel: een sleep, een duwstel of een gekoppeld samenstel;  
 
@@ -368,7 +372,7 @@ g. moet een klein schip dat varende is, uitwijken voor andere dan kleine schepen
 
 ####Gedrag bij beperkt zicht
 
-1.  De voorschriften van dit artikel zijn van toepassing op schepen die niet in zicht van elkaar zijn wanneer zij varen in of in de buurt van een gebied met beperkt zicht.   
+1.  Bij beperkt zicht maakt een schip gebruik van radar. Als een schip niet op radar kan varen, gaat het bij beperkt zicht op de dichtstbijzijnde daarvoor geschikte plaats stilliggen.   
 2.  Elk schip moet een veilige vaart aanhouden aangepast aan de heersende omstandigheden en de toestanden van beperkt zicht. Een werktuiglijk voortbewogen schip moet zijn machines gereed hebben ten einde onmiddellijk te kunnen manoeuvreren.   
 3.  Een schip dat alleen met radar de aanwezigheid van een ander schip waarneemt, moet vaststellen of zich een situatie ontwikkelt waarin men elkaar zo dicht nadert dat gevaar voor aanvaring kan ontstaan. Is dit het geval, dan moet het bijtijds maatregelen ter vermijding daarvan nemen.   
 4.  Behalve wanneer is vastgesteld dat geen gevaar voor aanvaring bestaat, moet elk schip dat meent voorlijker dan dwars het mistsein te horen van een ander schip of dat een dicht naderen van een schip voorlijker dan dwars niet kan vermijden, zijn vaart verminderen tot het minimum waarbij het op koers kan worden gehouden. Indien nodig moet de vaart geheel uit het schip worden gehaald en in elk geval uiterst voorzichtig gemanoeuvreerd worden tot het gevaar voor aanvaring is geweken.   
@@ -436,7 +440,11 @@ In dit reglement wordt verstaan onder:
 
 a. zichtbaar: zichtbaar bij donkere nacht en bij heldere dampkring;  
 
-b. gewoon licht, helder licht en krachtig licht: lichten die op een afstand van onderscheidenlijk ten minste 1 000 meter, 2.000 meter en 3.000 meter zichtbaar zijn.    
+b. gewoon licht, helder licht en krachtig licht: 
+
+1. voor zeeschepen: lichten die op een afstand van onderscheidenlijk ten minste 1.000 meter, 2.000 meter en 3.000 meter zichtbaar zijn;  
+
+2. voor binnenschepen: de lichten die voldoen aan de eisen van [bijlage 1.5 van de Binnenvaartregeling](../../../../../ministeriele-regeling/binnenvaartregeling/BWBR0025958/README.md).      
 
 ### Artikel  23  
 
@@ -499,7 +507,7 @@ b. een ruitvormig dagmerk aan of nabij het achterste uiteinde van de sleep.
 
 Een schip bezig met de uitoefening van de visserij moet voeren: 
 
-a. twee rondom zichtbare heldere lichten, het ene loodrecht onder het andere, het bovenste groen en het onderste wit, of een dagmerk bestaande uit twee kegels met de punten tegen elkaar, de ene loodrecht onder de andere; een schip met een lengte van minder dan 20 meter mag in plaats van het hierboven vermelde dagmerk een mand voeren;  
+a. twee rondom zichtbare heldere lichten, het ene loodrecht onder het andere, het bovenste groen en het onderste wit, of een dagmerk bestaande uit twee kegels met de punten tegen elkaar, de ene loodrecht onder de andere.  
 
 b. ingeval het vaart door het water loopt, tevens de zijdelichten en het heklicht.    
 
@@ -536,7 +544,7 @@ Een bovenmaats zeeschip dat varende is, moet voeren, daar waar dit het best kan 
 
 a. behalve de lichten voorgeschreven voor een werktuiglijk voortbewogen schip, drie rondom zichtbare rode krachtige lichten geplaatst in verticale lijn;  
 
-b. een cilinder.    
+b. een cilinder als dagmerk.    
 
 ### Artikel  29  
 
@@ -622,7 +630,7 @@ d. Indien een duwstel of een gekoppeld samenstel één of meer schepen bevat, be
 e. Een binnenschip, een duwstel of een gekoppeld samenstel, geladen met verschillende gevaarlijke stoffen als bedoeld onder *a, b*, en *c* moet uitsluitend de lichten of kegels voeren voorgeschreven voor de gevaarlijke stof die volgens dit lid het grootste aantal blauwe lichten of kegels vereist.  
 
 f. De sterkte van de blauwe lichten voorgeschreven in dit lid moet ten minste gelijk zijn aan die van blauwe gewone lichten.     
-7.  Het vijfde en zesde lid zijn ook van toepassing op tankschepen, die na het lossen van de in de bij dit besluit behorende bijlagen 1 tot en met 3 bedoelde stoffen nog niet gereinigd, ontgast of geheel geïnertiseerd zijn.   
+7.  Het vijfde en zesde lid zijn ook van toepassing op tankschepen, die na het lossen van de in de bij dit besluit behorende bijlage 1 bedoelde stoffen nog niet gereinigd, ontgast of geheel geïnertiseerd zijn.   
 
 ### Hoofdstuk  4  
 
@@ -851,22 +859,22 @@ c. een schip dat over stuurboordboeg ligt en dat aan zijn loefzijde een schip zi
 
 a. aan de noordzijde door de lijn lopende langs de wal van Walcheren, over de koppen van de havendammen van de Koopmanshaven, de koppen van de havendammen van de buitenvoorhaven van het kanaal door Walcheren, en de koppen van de havendammen van de Sloehaven;  
 
-b. aan de westzijde door de meridiaan van het licht "Kruishoofd" op de wal van Zeeuws-Vlaanderen tot de positie 51°26'.3 N., 03°28'.3 O., en vervolgens door de lijn in ongeveer noordoostelijke richting over de positie 51°27'.6 N., 03°31'.3 O. naar de wal van Walcheren;  
+b. aan de westzijde door de lijn gaande over het gedoofde oeverlicht «Kruishoofd» op de wal van Zeeuws-Vlaanderen tot de boei «Trawl» en vervolgens door de lijn in ongeveer noordoostelijke richting over de boei OG 12 naar de wal van Walcheren;  
 
 c. aan de oostzijde door de meridiaan van het groene havenlicht van de Sloehaven;  
 
 d. aan de zuidzijde door de lijn lopende langs de wal van Zeeuws-Vlaanderen en over de koppen van de havendammen van de veerhaven van Breskens en vervolgens door de parallel van het rode havenlicht van deze veerhaven.     
 2.  Als voorzorgsgebied wordt aangeduid het gedeelte van het redegebied Vlissingen, dat als volgt wordt begrensd: 
 
-a. aan de noordzijde door de lijn gaande over de boeien W 6, W 8, W 10, W 12, SG-W, SG 5, SG 3, SG 1, OG 19, OG 17, OG 15 tot aan het snijpunt met de lijn gaande over de boeien "Trawl" en OG 6, vervolgens in ongeveer noordoostelijke richting gaande tot aan de boei OG 6, vervolgens gaande over de boei SG 2 en over het worteleinde van het Leugenaarshoofd, vervolgens gaande langs de wal van Walcheren, over de koppen van de havendammen van de Koopmanshaven, de koppen van de havendammen van de buitenvoorhaven van het kanaal door Walcheren, de koppen van de havendammen van de Sloehaven en over de tussenliggende betonning;  
+a. aan de noordzijde door de lijn gaande over de boeien W 6, W 8, W 10, SG-W, SG 3, SG 1, OG 21, OG 19 tot aan het snijpunt met de lijn gaande over de boeien «Trawl» en OG 14, vervolgens in ongeveer noordoostelijke richting gaande tot aan de boei OG 14, vervolgens gaande over de boeien OG 16, SG 2, SG 4 en over het worteleinde van het Leugenaarshoofd, vervolgens gaande langs de wal van Walcheren, over de koppen van de havendammen van de Koopmanshaven, vervolgens gaande over de boeien RV 2, RV 4, RV 6, de koppen van de havendammen van de buitenvoorhaven van het kanaal door Walcheren, vervolgens gaande over de boei 2 en de koppen van de havendammen van de Sloehaven;  
 
-b. aan de oostzijde door de meridiaan van het groene havenlicht van de Sloehaven;  
+b. aan de oostzijde door de meridiaan van het groene havenlicht aan de Sloehaven;  
 
-c. aan de zuidzijde door de lijn gaande over de boeien 7, 5, 3, 1, H-SS, Songa, W9 en W7;  
+c. aan de zuidzijde door de lijn gaande over de boeien 7, 5, 3, 1, H-SS, SS 1, Songa, W9 en W7;  
 
-d. aan de westzijde door de meridiaan van het licht "Kruishoofd" op de wal van Zeeuws-Vlaanderen.   De Rijkshavenmeester Westerschelde kan ter vervanging van bedoelde boeien en tonnen andere punten ter begrenzing van het voorzorgsgebied vaststellen.   
+d. aan de westzijde door de lijn gaande over het gedoofde oeverlicht «Kruishoofd» op de wal van Zeeuws-Vlaanderen en de boei «Trawl».   De Rijkshavenmeester Westerschelde kan ter vervanging van bedoelde boeien en tonnen andere punten ter begrenzing van het voorzorgsgebied vaststellen. Deze punten worden in de Staatscourant gepubliceerd.   
 3.  Het voorzorgsgebied wordt beschouwd als hoofdvaargeul.   
-4.  Op het redegebied Vlissingen zijn artikel 9, eerste en vierde lid, onder *a*, en artikel 18, onder *d* 3° en *e* 2°, niet van toepassing.   
+4.  Op het redegebied Vlissingen zijn artikel 9, eerste en vierde lid, onder *a*, en artikel 18, onder d 3° en e 2°, niet van toepassing.   
 
 ### Artikel  44  
 
@@ -878,7 +886,7 @@ Een schip bezig met de uitoefening van de visserij in het redegebied Vlissingen 
 
 ####Gedrag in het voorzorgsgebied
 
-1.  Een schip met oostelijke koers moet zoveel als mogelijk vermijden te varen ten noorden van de lijn lopende van een punt 600 meter ten zuiden van het westelijke hoofd van de Koopmanshaven te Vlissingen naar een punt 600 meter ten zuiden van het rode licht van de buitenvoorhaven van het kanaal door Walcheren.   
+1.  Een schip met oostelijke koers vermijdt zoveel als mogelijk te varen ten noorden van de lijn lopende van een door de Rijkshavenmeester Westerschelde vastgesteld punt ten zuiden van het westelijke hoofd van de Koopmanshaven te Vlissingen naar een door de Rijkshavenmeester Westerschelde vastgesteld punt ten zuiden van het rode licht van de Buitenhaven te Vlissingen. Deze punten worden in de Staatscourant gepubliceerd.   
 2.  Een schip met westelijke koers moet zoveel als mogelijk vermijden te varen ten zuiden van de bij het eerste lid vermelde lijn, met dien verstande dat een schip dat het voornemen heeft door de Wielingen te varen deze lijn reeds mag overschrijden voordat het de westelijke grens daarvan heeft bereikt.   
 3.  Een schip dat van loods moet verwisselen, moet zoveel als mogelijk vermijden een ander schip op te lopen.   
 
@@ -893,21 +901,8 @@ Wanneer aan de radartoren, die zich langs de boulevard te Vlissingen bevind, een
 ####Verbod tot ankeren
 
 1.  In het voorzorgsgebied mag een schip niet ankeren.   
-2.  Buiten het voorzorgsgebied mag een schip niet ankeren in een strook die aan de noordzijde wordt begrensd door de zuidgrens van de vaargeul van het voorzorgsgebied. De westelijke grens loopt langs de lijn westkop veerhaven Breskens en de radartoren aan de boulevard te Vlissingen, de oostelijke grens langs de lijn over de toren van de hervormde kerk te Breskens en het Schelde Coördinatie Centrum te Vlissingen.   
+2.  Buiten het voorzorgsgebied mag een schip niet ankeren in een strook die aan de noordzijde wordt begrensd door de zuidgrens van de vaargeul van het voorzorgsgebied. De westelijke grens wordt gevormd door de witte sectorbegrenzing 024°, lopende over de lichtboei Songa, van het oeverlicht Boulevard De Ruyter. De oostelijke grens wordt gevormd door de witte sectorbegrenzing 013°, lopende over de lichtboei ARV-VH, van het oeverlicht Boulevard De Ruyter.   
 3.  De Rijkshavenmeester Westerschelde kan ontheffing verlenen van de bij het eerste en tweede lid gestelde verboden.   
-
-### Artikel  48  
-
-####Seinen ter aanduiding door welk zeegat een naar zee varend schip het redegebied Vlissingen zal verlaten
-
-1.  In het redegebied Vlissingen moet een naar zee varend schip, behalve een klein schip, ter aanduiding dat het voornemens is het Oostgat te kiezen, bij nacht één rondom zichtbaar groen gewoon licht voeren of overdag de seinvlag O van het Internationaal seinboek.   
-2.  Het bij het eerste lid bedoelde licht moet worden gevoerd zo hoog mogelijk daar waar dit het best kan worden gezien, doch ten minste 2 m boven de zijdelichten. Indien ten gevolge van de weersomstandigheden verwarring met de zijdelichten zou kunnen ontstaan, mag bedoeld licht niet worden gevoerd.   
-
-### Artikel  49  
-
-####Seinen bij kompasstellen
-
-Een schip dat in het redegebied Vlissingen bezig is met kompasstellen of met calibreren van de richtingszoeker moet bij nacht één of meer groene, heldere flikkerlichten voeren zodanig geplaatst dat ten minste één van deze lichten rondom zichtbaar is of overdag het tweevlagssein OQ van het Internationaal seinboek.  
 
 ### Hoofdstuk  8  
 
@@ -1009,7 +1004,7 @@ b. door een zeeschip met een bruto-tonnage als bedoeld in de [Meetbrievenwet 198
 4.  De kapitein, de exploitant of de agent van een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert, deelt voor de afvaart van dat schip van een in het gebied waarop dit reglement van toepassing is gelegen ankerplaats, laad- of losinrichting of wachtplaats, aan de Rijkshavenmeester Westerschelde de bij ministeriële regeling vastgestelde gegevens mede omtrent het schip, het tijdstip van vertrek daarvan, de daarmee vervoerde lading, het aantal personen aan boord en de uit te voeren reis, op een bij die regeling bepaalde wijze.   
 5.  De in het eerste en het derde lid bedoelde meldingsplicht is niet van toepassing op een in aanloop zijnd schip dat zich reeds op grond van het [Scheepvaartreglement territoriale zee](../../../../../AMvB/scheepvaartreglement/territoriale/zee/BWBR0007914/README.md) heeft gemeld.   
 6.  De Rijkshavenmeester Westerschelde kan ontheffing verlenen van de in het eerste en vierde lid bedoelde meldingsplichten met betrekking tot een zeeschip als bedoeld in die leden, dat in lijndienst vaart tussen twee in Nederland gelegen havens of tussen een in Nederland gelegen haven en een haven gelegen in een andere staat, als wordt voldaan aan de voorschriften, bedoeld in artikel 15, eerste en tweede lid, van richtlijn nr. 2002/59/EG.   
-7.  De bevoegde autoriteit trekt de ontheffing in wanneer niet meer wordt voldaan aan de voorschriften, bedoeld in het zesde lid.   
+7.  De Rijkshavenmeester Westerschelde trekt de ontheffing in wanneer niet meer wordt voldaan aan de voorschriften, bedoeld in het zesde lid.   
 8.  Het eerste, derde en vierde lid zijn niet van toepassing op een schip als bedoeld in artikel 2, tweede lid, in samenhang met artikel 6 bis van richtlijn nr. 2002/59/EG.   
 
 ### Artikel  52  
@@ -1048,19 +1043,13 @@ b. door een zeeschip met een bruto-tonnage als bedoeld in de [Meetbrievenwet 198
 
 ####Verplichting tot aan boord hebben van reglement en zeekaart
 
-Aan boord van elk schip, met uitzondering van een open klein schip, waarop dit reglement van toepassing is, moeten een bijgewerkt exemplaar van dit reglement en de meest recente uitgave van, of een volledig bijgewerkte zeekaart van het in artikel 1 genoemde gebied aanwezig zijn; deze moeten op eerste aanvraag van een opsporingsambtenaar ter inzage worden gegeven.  
+Aan boord van elk schip, met uitzondering van een open klein schip, waarop dit reglement van toepassing is, moeten een volledig bijgewerkt exemplaar van dit reglement en de meest recente uitgave van, of een volledig bijgewerkte zeekaart van het in artikel 1 genoemde gebied aanwezig zijn. Een volledig bijgewerkt exemplaar van dit reglement en een volledig bijgewerkt exemplaar van de zeekaart die via een elektronisch middel op ieder moment geraadpleegd kunnen worden, zijn eveneens toegestaan. Deze moeten op eerste aanvraag van een opsporingsambtenaar door deze kunnen worden ingezien.  
 
 ### Artikel  56  
 
 ####Strafbare feiten
 
-Overtreding van de bij of krachtens dit reglement vastgestelde bepalingen, met uitzondering van de artikelen 1, 2, 2a, 3, tweede lid, 4, 9, achtste lid, 11, 13, negende lid, 19, eerste lid, 21, eerste lid, 22, 30, derde lid onder *c,* 31, tweede lid, 32, 38, 40, 43, 47, derde lid, 52, tweede lid, 53, tweede lid, 54, tweede lid, 56 tot en met 60, alsmede overtreding van de aan een vergunning, ontheffing of toestemming verbonden voorschriften, met uitzondering van overtreding van de voorschriften verbonden aan een ontheffing als bedoeld in artikel 51a, zesde lid, is een strafbaar feit.  
-
-### Artikel  57  
-
-####Kaart Redegebied Vlissingen
-
-Bij dit besluit is als bijlage 5 een kaart van het Redegebied Vlissingen gevoegd.  
+Overtreding van de bij of krachtens dit besluit vastgestelde bepalingen, alsmede overtreding van de aan een vergunning, vrijstelling, ontheffing of toestemming verbonden voorschriften, is een strafbaar feit.  
 
 ### Artikel  58  
 
@@ -1119,8 +1108,3 @@ Vervallen.
 ### Bijlage  4  
 
 Vervallen.  
-
-### Bijlage  5  
-
-![3526](http://wetten.overheid.nl/Illustration/3526)
-
