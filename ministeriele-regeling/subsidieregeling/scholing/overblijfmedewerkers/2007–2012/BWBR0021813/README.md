@@ -33,7 +33,7 @@ a. van een niet uit ’s Rijks kas bekostigde korte cursus gericht op het overb
 b. van een niet uit ’s Rijks kas bekostigde beroepsgerichte scholing op het terrein van opvang van en toezicht op kinderen, of  
 
 c. die voor een deelnemer voortvloeien uit het volgen van een uit ‘s Rijks kas bekostigde opleiding of deel van een opleiding gericht op het behalen van een kwalificatie of één of meer deelkwalificaties op het terrein van opvang van en toezicht op kinderen.     
-3.  Subsidie wordt slechts verleend voor zover de activiteiten, bedoeld in het tweede lid, in de schooljaren 2007–2008, 2008–2009, 2009–2010 of 2010–2011 een aanvang nemen.   
+3.  Subsidie wordt slechts verleend voor zover de activiteiten, bedoeld in het tweede lid, in de schooljaren 2007–2008, 2008–2009, 2009–2010 , 2010–2011 of 2011–2012 een aanvang nemen.   
 
 ### Artikel  3  
 
@@ -45,11 +45,11 @@ Een bevoegd gezag dient per schooljaar één gezamenlijke subsidieaanvraag voor 
 
 ####Vaststelling subsidieplafond
 
-1.  Voor de subsidies die op grond van deze regeling verstrekt kunnen worden is per schooljaar een bedrag van € 4.000.000,00 beschikbaar, waarvan ten hoogste: 
+1.  Voor de subsidies die op grond van deze regeling verstrekt kunnen worden is per schooljaar een bedrag van € 3.668.000,00 beschikbaar, waarvan ten hoogste: 
 
-a. € 3.148.000,00 beschikbaar is voor korte cursussen als bedoeld in artikel 2, tweede lid, onderdeel a, en  
+a. € 2.898.000,00 beschikbaar is voor korte cursussen als bedoeld in artikel 2, tweede lid, onderdeel a, en  
 
-b. € 852.000,00 beschikbaar is voor beroepsgerichte scholing als bedoeld in artikel 2, tweede lid, onderdeel b, en voor kosten die voortvloeien uit een opleiding als bedoeld in artikel 2, tweede lid, onderdeel c.     
+b. € 770.000,00 beschikbaar is voor beroepsgerichte scholing als bedoeld in artikel 2, tweede lid, onderdeel b, en voor kosten die voortvloeien uit een opleiding als bedoeld in artikel 2, tweede lid, onderdeel c.     
 2.  Indien een van de subsidieplafonds als bedoeld in het eerste lid, onderdelen a of b, na de wijze waarop het beschikbare bedrag, bedoeld in artikel 9, is verdeeld niet is bereikt, wordt het resterende bedrag toegevoegd aan het andere subsidieplafond.   
 
 ### Artikel  5  
@@ -75,7 +75,7 @@ b. € 2.000,00 voor elke deelnemer aan een:
 ####Subsidieaanvraag
 
 1.  De subsidieaanvragen kunnen voor het schooljaar 2007–2008 vanaf 15 mei worden ingediend, en voor de schooljaren 2008–2009 en 2009–2010 vanaf 1 mei.   
-2.  De subsidieaanvragen kunnen voor het schooljaar 2010–2011 vanaf 5 september worden ingediend.   
+2.  De subsidieaanvragen kunnen voor het schooljaar 2010–2011 vanaf 5 september 2010 en voor het schooljaar 2011–2012 vanaf 1 juni 2011 worden ingediend.   
 3.  De subsidieaanvragen welke zijn ingediend voorafgaand aan de data, bedoeld in het eerste en tweede lid, worden niet in behandeling genomen.   
 
 ### Artikel  7  
@@ -84,13 +84,14 @@ b. € 2.000,00 voor elke deelnemer aan een:
 
 1.  De subsidieaanvraag wordt op een volledig ingevuld en door het bevoegd gezag ondertekend formulier met het kenmerk CFI-67012 (schooljaar 2007–2008), CFI-68012 (schooljaar 2008–2009) en CFI-69012 (schooljaar 2009–2010), ingediend bij Centrale Financiën Instellingen.   
 2.  De subsidieaanvraag voor het schooljaar 2010–2011 wordt op een volledig ingevuld en door het bevoegd gezag ondertekend formulier met het kenmerk 69012-03 of via een digitaal ingevuld formulier met dat kenmerk ingediend bij de Dienst Uitvoering Onderwijs van het Ministerie van Onderwijs, Cultuur en Wetenschap.   
+3.  De subsidieaanvraag voor het schooljaar 2011-2012 wordt op een volledig en door het bevoegd gezag ondertekend formulier met het kenmerk 69012-004 ingediend bij de Dienst Uitvoering Onderwijs van het Ministerie van Onderwijs, Cultuur en Wetenschap.   
 
 ### Artikel  8  
 
 ####Termijn indiening
 
 1.  De subsidieaanvraag wordt voor het schooljaar 2007–2008 uiterlijk 2 juli 2007, voor het schooljaar 2008–2009 uiterlijk 1 juli 2008 en voor het schooljaar 2009–2010 uiterlijk 1 juli 2009 bij Centrale Financiën Instellingen ingediend.   
-2.  De subsidieaanvraag voor het schooljaar 2010–2011 wordt uiterlijk 15 oktober 2010 bij Dienst Uitvoering Onderwijs van het Ministerie van Onderwijs, Cultuur en Wetenschap ingediend.   
+2.  De subsidieaanvraag voor het schooljaar 2010–2011 wordt uiterlijk 15 oktober 2010 en de subsidieaanvraag voor het schooljaar 2011–2012 uiterlijk 30 juni 2011 ingediend bij de Dienst Uitvoering Onderwijs van het Ministerie van Onderwijs, Cultuur en Wetenschap.   
 3.  Als aan de voorwaarden, bedoeld in het eerste of tweede lid, niet is voldaan, wordt de aanvraag niet in behandeling genomen.   
 
 ### Paragraaf  3  
@@ -116,13 +117,13 @@ b. per school niet meer wordt verleend dan:
 
 ####Beslistermijnen
 
-De minister beslist jaarlijks in augustus op een aanvraag voor subsidie, met dien verstande dat de minister uiterlijk in december beslist op een subsidieaanvraag voor het schooljaar 2010–2011.  
+De minister beslist jaarlijks in augustus op een aanvraag voor subsidie, met dien verstande dat de minister uiterlijk in december 2010 beslist op een subsidieaanvraag voor het schooljaar 2010–2011 en uiterlijk in oktober 2011 op een subsidieaanvraag voor het schooljaar 2011–2012.  
 
 ### Artikel  11  
 
 ####Tijdvak subsidieverlening
 
-Subsidie wordt voor het schooljaar 2007–2008 verleend voor de periode tot en met 31 december 2008, voor het schooljaar 2008–2009 voor de periode tot en met 31 december 2009, voor het schooljaar 2009–2010 voor de periode tot en met 31 december 2010 en voor het schooljaar 2010–2011 voor de periode tot en met 31 december 2011.  
+Subsidie wordt voor het schooljaar 2007–2008 verleend voor de periode tot en met 31 december 2008, voor het schooljaar 2008–2009 voor de periode tot en met 31 december 2009, voor het schooljaar 2009–2010 voor de periode tot en met 31 december 2010, voor het schooljaar 2010–2011 voor de periode tot en met 31 december 2011 en voor het schooljaar 2011–2012 voor de periode tot en met 31 december 2012.  
 
 ### Artikel  12  
 
@@ -145,10 +146,10 @@ De subsidieontvanger werkt mee aan door of namens de minister ingestelde onderzo
 
 ####Verantwoording
 
-1.  Het bevoegd gezag verantwoordt jaarlijks de besteding van de subsidie via bijlage D2 van de jaarrekening. Uit de administratie blijkt hoe de middelen per school zijn ingezet.   
+1.  De subsidie wordt uitsluitend besteed aan de activiteiten waarvoor zij wordt verstrekt.   
 2.  De subsidie wordt uitsluitend aangewend voor het doel waarvoor zij is verstrekt. Eventueel niet-bestede middelen of overschotten na afloop van de activiteiten zullen op schoolniveau worden teruggevorderd.   
 3.  De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van de subsidie.   
-4.  De subsidie wordt voor het schooljaar 2007–2008 uiterlijk in 2008, voor het schooljaar 2008–2009 uiterlijk in 2009, voor het schooljaar 2009–2010 uiterlijk in 2010 en voor het schooljaar 2010–2011 uiterlijk in 2011 besteed en verantwoord in de jaarrekening die op dat jaar betrekking heeft.   
+4.  De subsidie wordt voor het schooljaar 2007–2008 uiterlijk in 2008, voor het schooljaar 2008–2009 uiterlijk in 2009, voor het schooljaar 2009–2010 uiterlijk in 2010, voor het schooljaar 2010–2011 uiterlijk in 2011 en voor het schooljaar 2011–2012 uiterlijk in 2012 besteed en verantwoord in de jaarrekening die op dat jaar betrekking heeft.   
 
 ### Paragraaf  5  
 
@@ -187,7 +188,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Subsidieregeling scholing overblijfmedewerkers 2007–2011.  
+Deze regeling wordt aangehaald als: Subsidieregeling scholing overblijfmedewerkers 2007–2012.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 

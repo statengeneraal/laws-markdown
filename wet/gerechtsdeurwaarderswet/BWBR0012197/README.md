@@ -278,7 +278,7 @@ a. een gerechtsdeurwaarder;
 
 b. een persoon die voldoet aan de vereisten voor benoeming tot gerechtsdeurwaarder, met uitzondering van het vereiste van artikel 5, eerste lid, onder d;  
 
-c. in geval van ontslag wegens het bereiken van de leeftijd van 65 jaren, de ontslagene zelf, doch niet voor langer dan één jaar.     
+c. in geval van ontslag wegens het bereiken van de leeftijd van zeventig jaar, de ontslagene zelf, doch niet voor langer dan één jaar.     
 3.  Een persoon als bedoeld in het tweede lid, onderdeel b, die voor de eerste maal tot waarnemend gerechtsdeurwaarder wordt benoemd, legt zo spoedig mogelijk na zijn benoeming ter openbare terechtzitting voor de rechtbank van het arrondissement waarin de plaats van vestiging is gelegen, de navolgende eed of belofte af: «Ik zweer (beloof) getrouwheid aan de Koning en de [Grondwet](../../../wet/grondwet/BWBR0001840/README.md).» «Ik zweer (beloof), dat ik mij zal gedragen naar de wetten en voorschriften op mijn ambt van toepassing en dat ik mijn taak eerlijk en nauwgezet zal uitvoeren.»   
 4.  De waarneming eindigt: 
 
@@ -570,7 +570,7 @@ e. indien ten aanzien van hem de schuldsaneringsregeling natuurlijke personen va
 
 ### Artikel  52  
 
-1.  De gerechtsdeurwaarder is met ingang van de eerstvolgende maand na het bereiken van de 65-jarige leeftijd van rechtswege ontslagen.   
+1.  De gerechtsdeurwaarder is met ingang van de eerstvolgende maand na het bereiken van de leeftijd van zeventig jaar van rechtswege ontslagen.   
 2.  De gerechtsdeurwaarder wordt bij koninklijk besluit ontslag verleend: 
 
 a. op zijn verzoek;  
@@ -812,7 +812,7 @@ Wijzigt de Ambtenarenwet.
 
 ### Artikel  92  
 
-Onverminderd de mogelijkheid van ontslag om andere redenen worden gerechtsdeurwaarders die op het tijdstip van inwerkingtreding van deze wet zijn benoemd, in afwijking van artikel 52, eerste lid, gedurende tien jaren na inwerkingtreding van deze wet van rechtswege ontslag verleend op de eerste dag van de maand volgend op die waarin zij de leeftijd van 70 jaren hebben bereikt.  
+Onverminderd de mogelijkheid van ontslag om andere redenen worden gerechtsdeurwaarders die op het tijdstip van inwerkingtreding van deze wet zijn benoemd, in afwijking van artikel 52, eerste lid, zoals dat luidde op het moment waarop het in werking trad, gedurende tien jaren na inwerkingtreding van deze wet van rechtswege ontslag verleend op de eerste dag van de maand volgend op die waarin zij de leeftijd van 70 jaren hebben bereikt.  
 
 ### Artikel  93  
 
