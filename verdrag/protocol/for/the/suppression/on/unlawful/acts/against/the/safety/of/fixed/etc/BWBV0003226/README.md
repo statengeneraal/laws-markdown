@@ -8,7 +8,7 @@ The States Parties to this Protocol, Being Parties to the Convention for the Sup
 
 ### Article  1  
 
-1.  The provisions of articles 5 and 7 and of articles 10 to 16 of the Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation (hereinafter referred to as “the Convention”) shall also apply *mutatis mutandis* to the offences set forth in article 2 of this Protocol where such offences are committed on board or against fixed platforms located on the continental shelf.   
+1.  The provisions of article 1, paragraphs 1(c), (d), (e), (f), (g), (h), and 2(a), of articles 2 *bis*, 5, 5 *bis* and 7, and of articles 10 to 16, including articles 11 *bis*, 11 *ter* and 12 *bis*, of the Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation, as amended by the Protocl of 2005 to the Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation, shall also apply mutatis mutandis to the offences set forth in articles 2, 2 *bis* and 2 *ter* of this Protocol where such offences are committed on board or against fixed platforms located on the continental shelf.   
 2.  In cases where this Protocol does not apply pursuant to paragraph 1, it nevertheless applies when the offender or the alleged offender is found in the territory of a State Party other than the State in whose internal waters or territorial sea the fixed platform is located.   
 3.  For the purposes of this Protocol, “fixed platform” means an artificial island, installation or structure permanently attached to the seabed for the purpose of exploration or exploitation of resources or for other economic purposes.   
 
@@ -22,24 +22,44 @@ The States Parties to this Protocol, Being Parties to the Convention for the Sup
 
 (c) destroys a fixed platform or causes damage to it which is likely to endanger its safety; or  
 
-(d) places or causes to be placed on a fixed platform, by any means whatsoever, a device or substance which is likely to destroy that fixed platform or likely to endanger its safety; or  
+(d) places or causes to be placed on a fixed platform, by any means whatsoever, a device or substance which is likely to destroy that fixed platform or likely to endanger its safety.     
+2.  Any person also commits an offence if that person threatens, with or without a condition, as is provided for under national law, aimed at compelling a physical or juridicial person to do or refrain from doing any act, to commit any of the offences set forth in paragraphs 1b) and c), if that threat is likely to endanger the safety of the fixed platform.   
 
-(e) injures or kills any person in connection with the commission or the attempted commission of any of the offences set forth in subparagraphs (a) to (d).     
-2.  Any person also commits an offence if that person: 
+### Article  2bis  
 
-(a) attempts to commit any of the offences set forth in paragraph 1; or  
+Any person commits an offence within the meaning of this Protocol if that person unlawfully and intentionally, when the purpose of the act, by its nature or context, is to intimidate a population, or to compel a government or an international organization to do or to obstain from doing any act: 
 
-(b) abets the commission of any such offences perpetrated by any person or is otherwise an accomplice of a person who commits such an offence; or  
+a) uses against or on a fixed platform or discharges from a fixed platform any explosive, radioactive material or BCN weapon in a manner that causes or is likely to cause death or serious injury or damage; or  
 
-(c) threatens, with or without a condition, as is provided for under national law, aimed at compelling a physical or juridical person to do or refrain from doing any act, to commit any of the offences set forth in paragraph 1, subparagraphs (b) and (c), if that threat is likely to endanger the safety of the fixed platform.     
+b) discharges, from a fixed platform, oil, liquefied natural gas, or other hazardous or noxious substance, which is not covered by subparagraph a), in such quantity or concentration that causes or is likely to cause death or serious injury or damage; or  
+
+c) threatens, with or without a condition, as is provided for under national law, to commit an offence set forth in subparagraph a) or b).    
+
+### Article  2ter  
+
+Any person also commits an offence within the meaning of this Protocol if that person: 
+
+a) unlawfully and intentionally injures or killes any person in connection with the commission of any of the offences set forth in article 2, paragraph 1, or article 2 *bis*; or  
+
+b) attempts to commit an offence set forth in article 2, paragraph 1, article 2 *bis*, subparagraph a) or b), or subparagraph a) of this article; or  
+
+c) participates as an accomplice in an offence set forth in article 2, article 2 *bis* or subparagraph a) or b) of this article; or  
+
+d) organizes or directs others to commit an offence set forth in article 2, article 2 *bis* or subparagraph a) or b) of this article; or  
+
+e) contributes to the commission of one or more offences set forth in article 2, article 2 *bis* or subparagraph a) or b) of this article, by a group of persons acting with a common purpose, intentionally and either: 
+
+i) with the aim of furthering the criminal activity or criminal purpose of the group, where such activity or purpose involves the commission of an offence set forth in article 2 or 2 *bis*; or  
+
+ii) in the knowledge of the intention of the group to commit an offence set forth in article 2 or 2 *bis*.      
 
 ### Article  3  
 
-1.  Each State Party shall take such measures as may be necessary to establish its jurisdiction over the offences set forth in article 2 when the offence is committed: 
+1.  Each State Party shall take such measures as may be necessary to establish its jurisdiction over the offences set forth in articles 2, 2 *bis* and 2 *ter* when the offence is committed: 
 
-(a) against or on board a fixed platform while it is located on the continental shelf of that State; or  
+a) against or on board a fixed platform while it is located on the continental shelf of that State; or  
 
-(b) by a national of that State.     
+b) by a national of that State.     
 2.  A State Party may also establish its jurisdiction over any such offence when: 
 
 (a) it is committed by a stateless person whose habitual residence is in that State;  
@@ -47,13 +67,19 @@ The States Parties to this Protocol, Being Parties to the Convention for the Sup
 (b) during its commission a national of that State is seized, threatened, injured or killed; or  
 
 (c) it is committed in an attempt to compel that State to do or abstain from doing any act.     
-3.  Any State Party which has established jurisdiction mentioned in paragraph 2 shall notify the Secretary-General of the International Maritime Organization (hereinafter referred to as “the Secretary-General”). If such State Party subsequently rescinds that jurisdiction, it shall notify the Secretary-General.   
-4.  Each State Party shall take such measures as may be necessary to establish its jurisdiction over the offences set forth in article 2 in cases where the alleged offender is present in its territory and it does not extradite him to any of the States Parties which have established their jurisdiction in accordance with paragraphs 1 and 2 of this article.   
+3.  Any State Party which has established jurisdiction mentioned in paragraph 2 shall notify the Secretary-General. If such State Party subsequently rescinds that jurisdiction, it shall notify the Secretary-General.   
+4.  Each State Party shall take such measures as may be necessary to establish its jurisdiction over the offences set forth in articles 2, 2 *bis* and 2 *ter* in cases where the alleged offender is present in its territory and it does not extradite the alleged offender to any of the States Parties which have established their jurisdiction in accordance with paragraphs 1 and 2.   
 5.  This Protocol does not exclude any criminal jurisdiction exercised in accordance with national law.   
 
 ### Article  4  
 
 Nothing in this Protocol shall affect in any way the rules of international law pertaining to fixed platforms located on the continental shelf.  
+
+### Article  4bis  
+
+####Final clauses of the Protocol for the Suppression of Unlawful Acts against the Safety of Fixed Platforms Located on the Continental Shelf, 2005
+
+The final clauses of the Protocol for the Suppression of Unlawful Acts against the Safety of Fixed Platforms Located on the Continental Shelf, shall be articles 8 to 13 of the Protocol of 2005 to the Protocol for the Suppression of Unlawful Acts against the Safety of Fixed Platforms Located on the Continental Shelf. References in this Protocol to States Parties shall be taken to mean references to States Parties to the 2005 Protocol.  
 
 ### Article  5  
 
@@ -116,7 +142,7 @@ De Staten-Partijen bij dit Protocol, Als partijen bij het Verdrag tot bestrijdin
 
 ### Artikel  1  
 
-1.  De bepalingen van de artikelen 5 en 7 en van de artikelen 10 tot en met 16 van het Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de zeevaart (hierna te noemen „het Verdrag”) zijn *mutatis mutandis* ook van toepassing op de strafbare feiten genoemd in artikel 2 van dit Protocol, indien bedoelde strafbare feiten worden gepleegd aan boord van of zijn gericht tegen vaste platforms op het continentale plat.   
+1.  De bepalingen van artikel 1, eerste lid, sub c, d, e, f, g, h, en tweede lid, sub a, en van de artikelen 2bis, 5, 5 *bis*, 5, 5 *bis* en 7, en van de artikelen 10 tot en met 16, met inbegrip van de artikelen 11 *bis*, 11 *ter* en 12 *bis* van het Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de zeevaart, zoals gewijzigd bij het Protocol van 2005 bij het Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de zeevaart zijn van overeenkomstige toepassing op de strafbare feiten omschreven in de artikelen 2, 2 *bis* en 2 *ter* van dit Protocol, indien deze strafbare feiten worden gepleegd aan boord van of tegen vaste platforms op het continentale plat.   
 2.  Ingeval dit Protocol niet van toepassing is op grond van het eerste lid, is het niettemin van toepassing indien de dader of de vermoedelijke dader wordt aangetroffen op het grondgebied van een andere Staat-Partij dan de Staat in de binnenwateren of de territoriale zee waarvan het vaste platform zich bevindt.   
 3.  Voor de toepassing van dit Protocol wordt verstaan onder „vast platform”: een kunstmatig eiland, installatie of inrichting die permanent met de zeebodem is verbonden ten behoeve van de exploratie of exploitatie van rijkdommen of voor andere economische doeleinden.   
 
@@ -130,24 +156,44 @@ De Staten-Partijen bij dit Protocol, Als partijen bij het Verdrag tot bestrijdin
 
 (c) een vast platform vernielt of daaraan schade toebrengt waardoor de veiligheid ervan in gevaar kan worden gebracht; of  
 
-(d) op een vast platform, op welke wijze dan ook, een voorwerp of substantie plaatst of doet plaatsen waarmee het vaste platform kan worden vernield of de veiligheid ervan in gevaar kan worden gebracht; of  
+(d) op een vast platform, op welke wijze dan ook, een voorwerp of substantie plaatst of doet plaatsen waarmee het vaste platform kan worden vernield of de veiligheid ervan in gevaar kan worden gebracht.     
+2.  Aan een strafbaar feit maakt zich eveneens schuldig hij die dreigt, al dan niet gepaard gaand met een voorwaarde zoals voorzien in de nationale wetgeving, teneinde een natuurlijke persoon of een rechtspersoon te dwingen tot het verrichten of zich onthouden van een handeling, een van de in het eerste lid, sub b en c omschreven strafbare feiten te plegen, indien door deze dreiging de veiligheid van het vaste platform in gevaar kan worden gebracht.   
 
-(e) in verband met het plegen of de poging tot het plegen van één van de sub (a) tot en met (d) genoemde strafbare feiten een persoon verwondt of doodt.     
-2.  Aan een strafbaar feit maakt zich eveneens schuldig hij die: 
+### Artikel  2bis  
 
-(a) een poging doet een in het eerste lid genoemd strafbaar feit te plegen; of  
+Aan een strafbaar feit in de zin van dit Protocol maakt zich schuldig hij die wederrechtelijk en opzettelijk, indien het doel van de gedraging door haar aard of context is een bevolking te intimideren of een regering of internationale organisatie te dwingen tot het verrichten of zich onthouden van enige handeling: 
 
-(b) een dergelijk strafbaar feit uitlokt of anderszins medeplichtige is van een persoon die zulk een strafbaar feit pleegt; of  
+a. tegen, op of vanaf een vast platform een explosief, radioactief materiaal of een biologisch, chemisch of nucleair wapen doet vrijkomen op een wijze die leidt of kan leiden tot de dood of ernstig letsel of ernstige schade; of  
 
-(c) dreigt één der in het eerste lid sub (b) en (c) genoemde strafbare feiten te plegen, indien door deze dreiging de veiligheid van het vaste platform in gevaar kan worden gebracht, al dan niet gepaard gaand met een voorwaarde zoals voorzien in de nationale wetgeving, teneinde een natuurlijke persoon of een rechtspersoon te dwingen tot het verrichten of het zich onthouden van een handeling.     
+b. van een vast platform olie, vloeibaar gemaakt aardgas of een andere schadelijke of gevaarlijke stof doet vrijkomen waarop sub a niet van toepassing is en wel in een zodanige hoeveelheid of concentratie dat dit leidt of kan leiden tot de dood of ernstig letsel of ernstige schade; of  
+
+c. al dan niet gepaard gaand met een voorwaarde zoals voorzien in de nationale wetgeving dreigt met het plegen van een strafbaar feit zoals voorzien in sub a of b.    
+
+### Artikel  2ter  
+
+Aan een strafbaar feit in de zin van dit Protocol maakt zich tevens schuldig hij die: 
+
+a. wederrechtelijk en opzettelijk een ander verwondt of doodt in verband met het plegen van een van de strafbare feiten omschreven in artikel 2, eerste lid, of in artikel 2 *bis*; of  
+
+b. poogt een strafbaar feit te plegen omschreven in artikel 2, eerste lid, artikel 2 *bis*, sub a of b, of sub a van dit artikel; of  
+
+c. als medeplichtige deelneemt aan een strafbaar feit omschreven in artikel 2, artikel 2 *bis* of sub a of b van dit artikel; of  
+
+d. het plegen van een strafbaar feit omschreven in artikel 2, artikel 2 *bis* of sub a of b van dit artikel organiseert of anderen opdracht geeft een van deze strafbare feiten te plegen; of  
+
+e. bijdraagt tot het plegen van een of meer van de strafbare feiten omschreven in artikel 2, artikel 2 *bis* of sub a of b van dit artikel, door een groep personen die opzettelijk, met een gemeenschappelijk doel handelt en: 
+
+i. hetzij met het oog op de bevordering van de criminele activiteit of het criminele doel van de groep, wanneer een dergelijke activiteit of het doel het plegen van een strafbaar feit inhoudt zoals omschreven in artikel 2 of 2 *bis*;  
+
+ii. hetzij met de wetenschap van het doel van de groep een strafbaar feit te plegen zoals omschreven in artikel 2 of 2 *bis*.      
 
 ### Artikel  3  
 
-1.  Elke Staat-Partij neemt de maatregelen die nodig zijn om zijn rechtsmacht vast te leggen met betrekking tot de in artikel 2 genoemde strafbare feiten, wanneer het strafbare feit wordt gepleegd: 
+1.  Elke Staat-Partij neemt de maatregelen die nodig zijn om zijn rechtsmacht te vestigen met betrekking tot de in artikelen 2, 2 *bis* en 2 *ter* omschreven strafbare feiten, wanneer het strafbare feit wordt gepleegd: 
 
-(a) tegen of aan boord van een vast platform dat is gelegen op het continentale plat van die Staat; of  
+a. tegen of aan boord van een vast platform dat is gelegen op het continentale plat van die Staat; of  
 
-(b) door een onderdaan van die Staat.     
+b. door een onderdaan van die Staat.     
 2.  Een Staat-Partij kan eveneens zijn rechtsmacht met betrekking tot genoemde strafbare feiten vastleggen, wanneer: 
 
 (a) het feit wordt gepleegd door een staatloze die in die Staat zijn gewone verblijfplaats heeft; of  
@@ -155,13 +201,19 @@ De Staten-Partijen bij dit Protocol, Als partijen bij het Verdrag tot bestrijdin
 (b) tijdens het plegen van het feit een onderdaan van die Staat wordt vastgehouden, bedreigd, verwond of gedood; of  
 
 (c) het feit wordt gepleegd in een poging die Staat te dwingen tot het verrichten of het zich onthouden van een handeling.     
-3.  Elke Staat-Partij die de in het tweede lid bedoelde rechtsmacht heeft vastgelegd, stelt de Secretaris-Generaal van de Internationale Maritieme Organisatie (hierna te noemen „de Secretaris-Generaal”) daarvan in kennis. Indien een Staat-Partij daarna deze wetgeving intrekt, stelt hij de Secretaris-Generaal daarvan in kennis.   
-4.  Elke Staat-Partij neemt de maatregelen die nodig zijn om zijn rechtsmacht vast te leggen met betrekking tot de in artikel 2 genoemde strafbare feiten ingeval de vermoedelijke dader zich op zijn grondgebied bevindt en hij deze niet uitlevert aan een Staat-Partij die zijn rechtsmacht heeft vastgelegd in overeenstemming met het eerste en het tweede lid van dit artikel.   
+3.  Elke Staat-Partij die zijn rechtsmacht bedoeld in het tweede lid heeft gevestigd, stelt de Secretaris-Generaal daarvan in kennis. Indien een Staat-Partij daarna zijn rechtsmacht ter zake intrekt, stelt hij de Secretaris-Generaal daarvan in kennis.   
+4.  Elke Staat-Partij neemt de maatregelen die nodig zijn om zijn rechtsmacht te vestigen met betrekking tot de in artikel 2, 2 *bis* en 2 *ter* omschreven strafbare feiten in gevallen waarin de vermoedelijke dader zich op zijn grondgebied bevindt en hij deze persoon niet uitlevert aan een Staat-Partij die zijn rechtsmacht heeft gevestigd in overeenstemming met het eerste en tweede lid.   
 5.  Dit Protocol sluit geen enkele krachtens de nationale wetgeving uitgeoefende rechtsmacht in strafrechtelijke aangelegenheden uit.   
 
 ### Artikel  4  
 
 De regelen van internationaal recht met betrekking tot vaste platforms gelegen op het continentale plat worden op generlei wijze door dit Protocol aangetast.  
+
+### Artikel  4bis  
+
+####Slotbepalingen van het Protocol tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van vaste platforms op het continentale plat van 2005
+
+De slotbepalingen van het Protocol tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van vaste platforms op het continentale plat van 2005 zijn de artikelen 8 tot en met 13 van het Protocol van 2005 bij het Protocol tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van vaste platforms op het continentale plat. Verwijzingen in dit Protocol naar Staten-Partijen verwijzen naar Staten die Partij zijn bij het Protocol van 2005.  
 
 ### Artikel  5  
 
