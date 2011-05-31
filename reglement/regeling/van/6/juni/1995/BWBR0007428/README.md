@@ -168,12 +168,12 @@ Leden die geen deel meer uitmaken van de in het vorig artikel bedoelde fracties,
 
 ### Artikel  26  
 
-1.  De Kamer benoemt en ontslaat de Griffier en de plaatsvervangende griffier(s).   
-2.  De overige ambtenaren worden door of namens de Huishoudelijke Commissie aangesteld onderscheidenlijk op arbeidsovereenkomst naar burgerlijk recht in dienst genomen, dan wel ontslagen.   
+1.  De Kamer benoemt en ontslaat de Griffier.   
+2.  De Huishoudelijke Commissie benoemt en ontslaat de plaatsvervangend griffier(s). De overige ambtenaren worden door of namens de Huishoudelijke Commissie aangesteld onderscheidenlijk op arbeidsovereenkomst naar burgerlijk recht in dienst genomen, dan wel ontslagen.   
 
 ### Artikel  27  
 
-Beraadslagingen omtrent personen, bedoeld in artikel 26, vinden plaats achter gesloten deuren.  
+Beraadslagingen omtrent de persoon, bedoeld in artikel 26 eerste lid, vinden plaats achter gesloten deuren.  
 
 ### Artikel  28  
 

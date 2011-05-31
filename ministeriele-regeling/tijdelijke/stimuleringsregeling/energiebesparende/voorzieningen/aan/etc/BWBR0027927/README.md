@@ -26,7 +26,7 @@ f. *erkende adviseur:* adviseur die beschikt over een geldig procescertificaat v
 
 g. *maatwerkadvies:* EnergiePrestatieAdvies maatwerkrapport bestaande woningen als bedoeld in BRL9500, deel 2, opgesteld door een erkende adviseur met een geldig KOMO-procescertificaat;  
 
-h. *minister:* Minister voor Wonen, Wijken en Integratie.     
+h. *minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties.     
 2.  Onder eigendom wordt mede verstaan een appartementsrecht en een recht van erfpacht, opstal of vruchtgebruik.   
 3.  Aan een erkende adviseur als bedoeld in deze regeling staat gelijk een adviseur die voldoet aan beroepseisen die worden gesteld in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt en die een beroepsniveau waarborgen dat ten minste gelijkwaardig is aan het beroepsniveau dat met de nationale eisen wordt nagestreefd. De eerste zin is van overeenkomstige toepassing op de door erkende adviseurs te verlenen diensten.   
 4.  Het [Besluit milieusubsidies](../../../../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md) is niet van toepassing.   
@@ -80,7 +80,7 @@ c. de aanvraag daartoe niet binnen een jaar na de melding, bedoeld in artikel 4,
 
 ### Artikel  8  
 
-1.  Het subsidieplafond voor 2010 bedraagt € 5.000.000,–.   
+1.  Het subsidieplafond voor 2011 bedraagt € 10.000.000,–.   
 2.  Het subsidieplafond wordt bereikt, zodra de reserveringen, bedoeld in artikel 4, eerste lid, het in het eerste lid van dit artikel genoemde bedrag belopen.   
 
 ### Artikel  9  
