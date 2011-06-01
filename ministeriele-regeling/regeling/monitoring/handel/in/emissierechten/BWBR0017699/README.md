@@ -799,13 +799,12 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 1.  Deze paragraaf is van toepassing op inrichtingen waarin zich installaties bevinden waarin een of meer activiteiten worden verricht, die behoren tot een categorie die is aangewezen in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten, zoals die bijlage is komen te luiden ingevolge artikel I, onderdeel 30, van richtlijn nr. 2009/29/EG, en die in aanmerking komen voor kosteloze toewijzing van broeikasgasemissierechten op grond van artikel 11 van de EG-richtlijn handel in broeikasgasemissierechten, zoals die richtlijn is komen te luiden ingevolge richtlijn nr. 2009/29/EG.   
 2.  Deze paragraaf is mede van toepassing op inrichtingen als bedoeld in het eerste lid, die niet in aanmerking komen voor kosteloze toewijzing van broeikasgasemissierechten, met dien verstande dat op die inrichtingen uitsluitend de artikelen 34bd en 34bf van toepassing zijn.   
-3.  Deze paragraaf is, met uitzondering van de artikelen 34bi tot en met 34bl, van toepassing op inrichtingen die behoren tot een categorie inrichtingen waarvan de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer voornemens is deze op grond van artikel 27 van de EG-richtlijn handel in broeikasgasemissierechten, zoals die richtlijn is komen te luiden ingevolge richtlijn nr. 2009/29/EG, aan te melden bij de Europese Commissie voor uitsluiting van deelname aan het Europese systeem van handel in broeikasgasemissierechten. De categorieën inrichtingen die voornoemde minister voornemens is aan te melden, worden gepubliceerd in de Staatscourant. Dit lid blijft van toepassing ongeacht of de aanmelding, bedoeld in de eerste volzin, plaatsvindt en, indien de aanmelding heeft plaatsgevonden, ongeacht de reactie van de Europese Commissie op de aanmelding.   
 
 ### Artikel  34bd  
 
 ####Gegevensverstrekking
 
-1.  Degene die een inrichting drijft, verstrekt het bestuur van de emissieautoriteit voor 1 juli 2011 de door dat bestuur overeenkomstig de uitvoeringsmaatregelen in het standaardformulier, bedoeld in artikel 34bf, aangewezen gegevens met betrekking tot de kalenderjaren 2005 tot en met 2009 en, voor zover van toepassing, 2010 en 2011.   
+1.  Degene die een inrichting drijft, verstrekt het bestuur van de emissieautoriteit de door dat bestuur overeenkomstig de uitvoeringsmaatregelen in het standaardformulier, bedoeld in artikel 34bf, aangewezen gegevens met betrekking tot de kalenderjaren 2005 tot en met 2010 en, voor zover van toepassing, 2011. De gegevensverstrekking vindt plaats voor de dag die ligt drie maanden na de dag waarop het bestuur van de emissieautoriteit kennisgeving heeft gedaan van het feit dat het standaardformulier op de website van de emissieautoriteit is geplaatst. De kennisgeving, bedoeld in de eerste volzin, wordt gedaan in de Staatscourant en op genoemde website.   
 2.  Als gegevens als bedoeld in het eerste lid kunnen in ieder geval worden aangewezen gegevens die betrekking hebben op een activiteit als bedoeld in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten, zoals die bijlage is komen te luiden ingevolge artikel I, onderdeel 30, van richtlijn nr. 2009/29/EG, over: 
 
 a. de jaarlijkse productie van de betrokken installaties;  
@@ -820,10 +819,10 @@ e. het jaarlijkse verbruik van elektriciteit door de betrokken installaties.
 
 ### Artikel  34be  
 
-####Overleggen verantwoordingsrapportage
+####Overleggen methodologieverslag
 
-1.  Bij het verstrekken van gegevens op grond van artikel 34bd wordt tevens een rapportage overgelegd waarin verantwoording wordt afgelegd over die gegevens.   
-2.  De verantwoordingsrapportage bevat ten minste: 
+1.  Bij het verstrekken van gegevens op grond van artikel 34bd wordt tevens een methodologieverslag overgelegd waarin verantwoording wordt afgelegd over die gegevens.   
+2.  Het methodologieverslag wordt opgesteld overeenkomstig de uitvoeringsmaatregelen en de daarbij behorende Europese interpretatiedocumenten, zoals die zijn geplaatst op de website van de emissieautoriteit. Het verslag bevat ten minste: 
 
 a. de algemene identificatiegegevens van de inrichting;  
 
@@ -831,26 +830,18 @@ b. een overzicht van de in de inrichting uitgevoerde activiteiten als bedoeld in
 
 c. een beschrijving van de systeemgrenzen van de inrichting in een schematische weergave, met inbegrip van een beschrijving van de installatie, de subinstallaties en de verbrandings- of proceseenheden;  
 
-d. een lijst met subinstallaties en de daarbij behorende gegevens, te weten: 
-
-1°. de benchmark die overeenkomstig de uitvoeringsmaatregelen op de subinstallatie van toepassing is;  
-
-2°. de NACE-code die op de subinstallatie van toepassing is overeenkomstig verordening nr. 1893/2006/EG van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 tot vaststelling van de statistische classificatie van economische activiteiten NACE Rev. 2 en tot wijziging van Verordening (EEG) nr. 3037/90 en enkele EG-verordeningen op specifieke statistische gebieden (PbEU L 393);  
-
-3°. de NACE-code die op de subinstallatie van toepassing is overeenkomstig besluit nr. 2010/2/EU van de Europese Commissie van 24 december 2009 tot vaststelling, overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad, van een lijst van inrichtingstakken en deeltakken die worden geacht te zijn blootgesteld aan een significant CO <sub>2</sub> -weglekrisico (PbEU L 2010, 1), waarbij wordt aangegeven of de subinstallatie wordt geacht te zijn blootgesteld aan een significant weglekrisico als bedoeld in artikel 10bis van de EG-richtlijn handel in broeikasgasemissierechten, zoals die richtlijn is komen te luiden ingevolge richtlijn nr. 2009/29/EG;  
-
-4°. de op de subinstallatie van toepassing zijnde PRODCOM-code, zoals vastgesteld in de uitvoeringsmaatregelen;    
+d. een lijst met subinstallaties en de daarbij behorende gegevens;  
 
 e. de wijze waarop de in artikel 34bd bedoelde gegevens zijn bepaald;  
 
 f. de wijze waarop onduidelijkheden en leemtes in de gegevens zijn geïdentificeerd en behandeld.     
-3.  De verantwoordingsrapportage bevat naast het in het tweede lid bepaalde alle overige informatie die het bestuur van de emissieautoriteit nodig heeft om te kunnen beoordelen of degene die de inrichting drijft, op adequate wijze verantwoording heeft afgelegd over de in artikel 34bd bedoelde gegevens en die voor voornoemd bestuur noodzakelijk zijn om voor de betrokken categorie installaties het aantal overeenkomstig artikel 10bis van de EG-richtlijn handel in broeikasgasemissierechten, zoals die richtlijn is komen te luiden ingevolge richtlijn nr. 2009/29/EG, kosteloos toe te wijzen broeikasgasemissierechten te kunnen berekenen.   
+3.  Het methodologieverslag bevat naast het in het tweede lid bepaalde alle overige informatie die het bestuur van de emissieautoriteit nodig heeft om te kunnen beoordelen of degene die de inrichting drijft, op adequate wijze verantwoording heeft afgelegd over de in artikel 34bd bedoelde gegevens en die voor voornoemd bestuur noodzakelijk zijn om voor de betrokken categorie installaties het aantal overeenkomstig artikel 10bis van de EG-richtlijn handel in broeikasgasemissierechten, zoals die richtlijn is komen te luiden ingevolge richtlijn nr. 2009/29/EG, kosteloos toe te wijzen broeikasgasemissierechten te kunnen berekenen.   
 
 ### Artikel  34bf  
 
 ####Standaardformulier
 
-De in artikel 34bd bedoelde gegevens worden verstrekt en de in artikel 34be bedoelde verantwoordingsrapportage wordt overgelegd op een door het bestuur van de emissieautoriteit aangegeven wijze en met gebruikmaking van een door het bestuur van de emissieautoriteit vastgesteld standaardformulier.  
+De in artikel 34bd bedoelde gegevens worden verstrekt en het in artikel 34be bedoelde methodologieverslag wordt opgesteld en overgelegd op een door het bestuur van de emissieautoriteit aangegeven wijze en met gebruikmaking van een door dat bestuur op de website van de emissieautoriteit geplaatst standaardformulier.  
 
 ### Artikel  34bg  
 
@@ -860,7 +851,7 @@ De in artikel 34bd bedoelde gegevens worden verstrekt en de in artikel 34be be
 2.  Indien zich binnen de inrichting installaties bevinden waarop [afdeling 16.2.1 van de wet](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is en indien op de inrichting op grond van de uitvoeringsmaatregelen een warmtebenchmark, een brandstofbenchmark of een aan procesemissies gerelateerde benchmark van toepassing is, bepaalt degene die de inrichting drijft, het jaarlijkse verbruik van brandstoffen, bedoeld in artikel 34bd, tweede lid, onder c, en de daarbij behorende parameters onderscheidenlijk de procesemissies, bedoeld in artikel 34bd, tweede lid, onder d, en de daarbij behorende parameters voor zover mogelijk overeenkomstig de op de inrichting van toepassing zijnde eisen van deze regeling.   
 3.  Degene die een inrichting drijft, neemt bij het bepalen van de in artikel 34bd bedoelde gegevens alle subinstallaties in acht alsmede alle voor de van toepassing zijnde benchmark relevante producten, warmtestromen, brandstofstromen, materiaalstromen en bronnen die samenhangen met de activiteiten, bedoeld in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten, zoals die bijlage is komen te luiden ingevolge artikel I, onderdeel 30, van richtlijn nr. 2009/29/EG.   
 4.  Degene die een inrichting drijft, zorgt ervoor dat dubbeltelling van subinstallaties, producten, warmtestromen, brandstofstromen, materiaalstromen en bronnen als bedoeld in het derde lid wordt voorkomen.   
-5.  Degene die een inrichting drijft, zorgt ervoor dat de in artikel 34bd bedoelde gegevens consistent zijn over de kalenderjaren 2005 tot en met 2009 en, voor zover van toepassing, 2010 en 2011. Degene die de inrichting drijft, maakt daartoe zoveel mogelijk gebruik van dezelfde monitoringsmethodieken en gegevensbestanden.   
+5.  Degene die een inrichting drijft, zorgt ervoor dat de in artikel 34bd bedoelde gegevens consistent zijn over de kalenderjaren 2005 tot en met 2010 en, voor zover van toepassing, 2011. Degene die de inrichting drijft, maakt daartoe zoveel mogelijk gebruik van dezelfde monitoringsmethodieken en gegevensbestanden.   
 6.  Degene die een inrichting drijft, verzamelt, registreert, analyseert en documenteert de in artikel 34bd bedoelde gegevens.   
 7.  Degene die een inrichting drijft, bepaalt de in artikel 34bd bedoelde gegevens met de hoogst mogelijke graad van nauwkeurigheid waarbij bronnen van onzekerheid zoveel mogelijk worden beperkt.   
 
@@ -868,23 +859,23 @@ De in artikel 34bd bedoelde gegevens worden verstrekt en de in artikel 34be be
 
 ####Ontbreken van gegevens
 
-Indien met betrekking tot de kalenderjaren 2005 tot en met 2009 of, voor zover van toepassing, 2010 en 2011 geen gegevens als bedoeld in artikel 34bd beschikbaar zijn of indien deze gegevens niet volledig of onduidelijk zijn, worden deze gegevens door degene die de inrichting drijft, op een zodanige wijze geschat dat deze schatting niet leidt tot een te hoge kosteloze toewijzing van broeikasgasemissierechten. De wijze waarop tot de schatting is gekomen, wordt opgenomen in de in artikel 34be bedoelde verantwoordingsrapportage.  
+Indien met betrekking tot de kalenderjaren 2005 tot en met 2010 of, voor zover van toepassing, 2011 geen gegevens als bedoeld in artikel 34bd beschikbaar zijn of indien deze gegevens niet volledig of onduidelijk zijn, worden deze gegevens door degene die de inrichting drijft, overeenkomstig de uitvoeringsmaatregelen op een zodanige wijze geschat dat deze schatting niet leidt tot een te hoge kosteloze toewijzing van broeikasgasemissierechten. De wijze waarop tot de schatting is gekomen, wordt opgenomen in het in artikel 34be bedoelde methodologieverslag.  
 
 ### Artikel  34bi  
 
 ####Verklaring verificateur
 
-De in artikel 34bd bedoelde gegevens en de in artikel 34be bedoelde verantwoordingsrapportage gaan vergezeld van een verklaring van een verificateur, waarin de resultaten worden weergegeven van een door hem uitgevoerde beoordeling overeenkomstig artikel 34bj.  
+De in artikel 34bd bedoelde gegevens en het in artikel 34be bedoelde methodologieverslag gaan vergezeld van een verklaring van een verificateur, waarin de resultaten worden weergegeven van een door hem uitgevoerde beoordeling overeenkomstig artikel 34bj.  
 
 ### Artikel  34bj  
 
 ####Verificatiewerkzaamheden
 
-1.  De verificateur past het door het bestuur van de emissieautoriteit vastgestelde verificatieprotocol ‘Verificatie van allocatiegegevens voor de derde handelsperiode’ toe bij: 
+1.  De verificateur handelt overeenkomstig de uitvoeringsmaatregelen en de daarbij behorende Europese interpretatiedocumenten, zoals die zijn geplaatst op de website van de emissieautoriteit, bij: 
 
 a. het uitvoeren van de verificatiewerkzaamheden die nodig zijn om een verklaring als bedoeld in artikel 34bi te kunnen afgeven;  
 
-b. de constatering van onjuiste opgaven in de in artikel 34bd bedoelde gegevens of de in artikel 34be bedoelde verantwoordingsrapportage alsmede de constatering van het feit dat de in artikel 34bd bedoelde gegevens of de in artikel 34be bedoelde verantwoordingsrapportage niet voldoen aan de in het vierde lid bedoelde eisen;  
+b. de constatering van onjuiste opgaven in de in artikel 34bd bedoelde gegevens of het in artikel 34be bedoelde methodologieverslag alsmede de constatering van het feit dat de in artikel 34bd bedoelde gegevens of het in artikel 34be bedoelde methodologieverslag niet voldoen aan de in het tweede lid bedoelde eisen;  
 
 c. het mededelen van de onder b bedoelde constateringen aan degene die de inrichting drijft;  
 
@@ -892,28 +883,27 @@ d. het beoordelen van de materialiteit van de onder b bedoelde constateringen;
 
 e. het opstellen van een verklaring als bedoeld in artikel 34bi;  
 
-f. het doen van een verzoek als bedoeld in het vijfde lid.     
-2.  Het verificatieprotocol, bedoeld in het eerste lid, wordt gepubliceerd op de website van de emissieautoriteit (www.emissieautoriteit.nl).   
-3.  De verificatie van de in artikel 34bd bedoelde gegevens en de in artikel 34be bedoelde verantwoordingsrapportage is erop gericht om met een beperkte mate van zekerheid vast te stellen of de gerapporteerde gegevens en de gegevens in de verantwoordingsrapportage niet onjuist zijn.   
-4.  De verificateur beoordeelt of de in artikel 34bd bedoelde gegevens en de in artikel 34be bedoelde verantwoordingsrapportage geen onjuiste opgaven bevatten en niet in strijd zijn met de eisen die zijn gesteld in deze paragraaf.   
-5.  De verificateur verzoekt degene die de inrichting drijft, binnen een door hem te bepalen termijn eventueel ontbrekende gegevens alsnog te verstrekken, afwijkingen in de in artikel 34bd bedoelde gegevens of de in artikel 34be bedoelde verantwoordingsrapportage te verklaren of, indien noodzakelijk, berekeningen te herzien dan wel de gerapporteerde gegevens bij te stellen, alvorens hij een verklaring als bedoeld in artikel 34bi afgeeft.   
-6.  Indien de in artikel 34bd bedoelde gegevens of de in artikel 34be bedoelde verantwoordingsrapportage in individuele of geaggregeerde vorm materieel onjuiste opgaven bevatten of in materiële zin niet voldoen aan de in het vierde lid bedoelde eisen, geeft de verificateur geen verklaring als bedoeld in artikel 34bi af.   
-7.  De verificateur kan afzien van het afgeven van een verklaring als bedoeld in artikel 34bi over de in artikel 34bd bedoelde gegevens en de in artikel 34be bedoelde verantwoordingsrapportage, indien hij wegens opgelegde restricties of door andere omstandigheden niet al het noodzakelijke bewijsmateriaal heeft kunnen verkrijgen dat nodig is om een dergelijke verklaring af te geven.   
+f. het doen van een verzoek als bedoeld in het derde lid.     
+2.  De verificateur beoordeelt of de in artikel 34bd bedoelde gegevens en het in artikel 34be bedoelde methodologieverslag geen onjuiste opgaven bevatten en niet in strijd zijn met de eisen die zijn gesteld in deze paragraaf.   
+3.  De verificateur verzoekt degene die de inrichting drijft, binnen een door hem te bepalen termijn eventueel ontbrekende gegevens alsnog te verstrekken, afwijkingen in de in artikel 34bd bedoelde gegevens of het in artikel 34be bedoelde methodologieverslag te verklaren of, indien noodzakelijk, berekeningen te herzien dan wel de gerapporteerde gegevens bij te stellen, alvorens hij een verklaring als bedoeld in artikel 34bi afgeeft.   
+4.  Indien de in artikel 34bd bedoelde gegevens of het in artikel 34be bedoelde methodologieverslag in individuele of geaggregeerde vorm materieel onjuiste opgaven bevatten of in materiële zin niet voldoen aan de in het tweede lid bedoelde eisen, geeft de verificateur geen verklaring als bedoeld in artikel 34bi af.   
+5.  De verificateur kan afzien van het afgeven van een verklaring als bedoeld in artikel 34bi over de in artikel 34bd bedoelde gegevens en het in artikel 34be bedoelde methodologieverslag, indien hij wegens opgelegde restricties of door andere omstandigheden niet al het noodzakelijke bewijsmateriaal heeft kunnen verkrijgen dat nodig is om een dergelijke verklaring af te geven.   
 
 ### Artikel  34bk  
 
 ####Verplichtingen van de inrichting met betrekking tot verificatie
 
-1.  Degene die de inrichting drijft, stelt de in artikel 34bd bedoelde gegevens, de in artikel 34be bedoelde verantwoordingsrapportage alsmede andere voor de verificatie relevante informatie ter beschikking aan de verificateur.   
-2.  Degene die de inrichting drijft, herstelt, voor zover mogelijk, de in artikel 34bj, eerste lid, onder b, bedoelde onjuiste opgaven alsmede de in artikel 34bj, eerste lid, onder b, bedoelde strijd met de in artikel 34bj, vierde lid, bedoelde eisen.   
+1.  Degene die de inrichting drijft, stelt de in artikel 34bd bedoelde gegevens, het in artikel 34be bedoelde methodologieverslag alsmede andere voor de verificatie relevante informatie ter beschikking aan de verificateur.   
+2.  Degene die de inrichting drijft, herstelt, voor zover mogelijk, de in artikel 34bj, eerste lid, onder b, bedoelde onjuiste opgaven alsmede de in artikel 34bj, eerste lid, onder b, bedoelde strijd met de in artikel 34bj, tweede lid, bedoelde eisen.   
 
 ### Artikel  34bl  
 
 ####Eisen aan verificateur
 
 1.  De verificateur is werkzaam bij een verificatie-instelling die voor een of meer activiteiten als bedoeld in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten is geaccrediteerd door een accreditatie-instantie volgens de richtsnoeren van de Europese Samenwerking voor Accreditatie inzake de erkenning van verificateurs onder genoemde richtlijn.   
-2.  Een verificateur mag niet de in artikel 34bd bedoelde gegevens en de in artikel 34be bedoelde verantwoordingsrapportage verifiëren van een inrichting waarin activiteiten als bedoeld in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten worden verricht waarvoor hij niet door een accreditatie-instantie is geaccrediteerd als bedoeld in het eerste lid. De eerste volzin is niet van toepassing voor de activiteiten die met ingang van 1 januari 2013 zullen behoren tot een categorie die in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten, zoals die bijlage is komen te luiden ingevolge artikel I, onderdeel 30, van richtlijn nr. 2009/29/EG, is opgenomen.   
-3.  De verificateur houdt een interne verificatiedocumentatie bij die voldoende informatie bevat om daarop de verificatieverklaring, bedoeld in artikel 34bi, te baseren en voldoet aan de eisen die daartoe in het in artikel 34bj, eerste lid, bedoelde verificatieprotocol zijn opgenomen.   
+2.  Een verificateur mag niet de in artikel 34bd bedoelde gegevens en het in artikel 34be bedoelde methodologieverslag verifiëren van een inrichting waarin activiteiten als bedoeld in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten worden verricht waarvoor hij niet door een accreditatie-instantie is geaccrediteerd als bedoeld in het eerste lid. De eerste volzin is niet van toepassing voor de activiteiten die met ingang van 1 januari 2013 zullen behoren tot een categorie die in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten, zoals die bijlage is komen te luiden ingevolge artikel I, onderdeel 30, van richtlijn nr. 2009/29/EG, is opgenomen.   
+3.  De verificateur houdt een interne verificatiedocumentatie bij die voldoende informatie bevat om daarop de verificatieverklaring, bedoeld in artikel 34bi, te baseren.   
+4.  De verificateur voldoet aan de eisen die in de uitvoeringsmaatregelen en de daarbij behorende Europese interpretatiedocumenten, zoals die zijn geplaatst op de website van de emissieautoriteit, aan verificateurs zijn gesteld.   
 
 ### Afdeling  2.2  
 

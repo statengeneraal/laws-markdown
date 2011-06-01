@@ -498,7 +498,9 @@ s. inkomensondersteunende uitkeringen ingevolge [artikel 108, eerste lid, van de
 
 t. uitkeringen ingevolge de [Wet inkomensvoorziening oudere werklozen](../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md);  
 
-u. uitkeringen ingevolge een pensioenregeling waaraan deelneming verplicht is op grond van de [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md).     
+u. uitkeringen ingevolge een pensioenregeling waaraan deelneming verplicht is op grond van de [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md);  
+
+v. tegemoetkomingen ingevolge de [Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen](../../../../../wet/wet/mogelijkheid/koopkrachttegemoetkoming/oudere/belastingplichtigen/BWBR0029984/README.md).     
 2.  De in het eerste lid bedoelde inkomsten worden aangemerkt als loon uit vroegere arbeid.   
 
 ### Artikel  12  
