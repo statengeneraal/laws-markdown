@@ -40,11 +40,9 @@ f. vaste kredietvergoeding: kredietvergoeding ten aanzien waarvan bij het aangaa
 
 g. variabele kredietvergoeding: kredietvergoeding ten aanzien waarvan bij het aangaan van de krediettransactie is overeengekomen dat het kredietvergoedingspercentage per betalingstermijn gedurende de looptijd kan worden gewijzigd;  
 
-h. kredietvergoeding bij regelmatige afwikkeling: de in [artikel 34, onder *a*, van de wet](../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md) bedoelde vorm van kredietvergoeding;  
+h. kredietvergoeding bij regelmatige afwikkeling: de in [artikel 34, onder a, van de wet](../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md) bedoelde vorm van kredietvergoeding;  
 
-i. vertragingsvergoeding: de in [artikel 34, onder *b*, van de wet](../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md) bedoelde vorm van kredietvergoeding;  
-
-j. vergoeding bij vervroegde aflossing: de in [artikel 34, onder *c*, van de wet](../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md) bedoelde vorm van kredietvergoeding.    
+i. vertragingsvergoeding: de in [artikel 34, onder b, van de wet](../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md) bedoelde vorm van kredietvergoeding.    
 
 ### Artikel  2  
 
@@ -87,7 +85,7 @@ b. de eerste of de laatste betalingstermijn dan wel die beide betalingstermijnen
 
 a. de betalingstermijn en het termijnbedrag gedurende de looptijd gelijk blijven, of  
 
-b. de betalingstermijn gedurende de looptijd gelijk blijft en het eerste of het laatste termijnbedrag afwijkt van de overige termijnbedragen, die gedurende de looptijd gelijk blijven, voor zover deze afwijking een gevolg is van afrondingen, wordt berekend als volgt:   TKV = n . T - K, waarbij:   ![2616](http://wetten.overheid.nl/Illustration/2616)
+b. de betalingstermijn gedurende de looptijd gelijk blijft en het eerste of het laatste termijnbedrag afwijkt van de overige termijnbedragen, die gedurende de looptijd gelijk blijven, voor zover deze afwijking een gevolg is van afrondingen, wordt berekend als volgt:   TKV = n . T - K, waarbij:   ![2615](http://wetten.overheid.nl/Illustration/2615)
 en   ![2616](http://wetten.overheid.nl/Illustration/2616)
 . In deze formules is: TKV: de ten hoogste toegelaten totale kredietvergoeding; n: het totale aantal betalingstermijnen; T: het termijnbedrag dat geldt indien het ten hoogste toegelaten kredietvergoedingspercentage per betalingstermijn wordt gehanteerd; K: de kredietsom; im: het honderdste deel van het ten hoogste toegelaten kredietvergoedingspercentage per betalingstermijn; i: het honderdste deel van het ingevolge afdeling 1 ten hoogste toegelaten effectieve kredietvergoedingspercentage op jaarbasis; m: het aantal betalingstermijnen per jaar.   
 2.  De ten hoogste toegelaten totale kredietvergoeding bij regelmatige afwikkeling van niet-doorlopende krediettransacties met een vaste kredietvergoeding, waarbij de eerste betalingstermijn afwijkt van de overige betalingstermijnen, voor zover deze afwijking tot gevolg heeft dat het eerste of het laatste termijnbedrag afwijkt van de overige termijnbedragen, terwijl die overige betalingstermijnen en termijnbedragen gedurende de looptijd gelijk blijven, wordt berekend als de som van: 
@@ -133,29 +131,6 @@ De ten hoogste toegelaten vertragingsvergoeding wordt op dagbasis berekend. De t
 
 ####Ten hoogste toegelaten vergoeding bij vervroegde aflossing
 
-### Artikel  12  
-
-Het is verboden vergoeding bij vervroegde aflossing in rekening te brengen, te bedingen of te aanvaarden bij krediettransacties met een variabele kredietvergoeding.  
-
-### Artikel  13  
-
-1.  De ten hoogste toegelaten vergoeding bij vervroegde aflossing bij krediettransacties met een vaste kredietvergoeding bedraagt, indien vervroegde aflossing plaatsvindt: 
-
-a. voordat meer dan een vijfde deel van de looptijd is verstreken: een evenredig deel van 5% van de kredietsom;  
-
-b. nadat meer dan een vijfde deel, maar niet meer dan twee vijfde deel van de looptijd is verstreken: een evenredig deel van 3% van de kredietsom;  
-
-c. nadat meer dan twee vijfde deel, maar niet meer dan drie vijfde deel van de looptijd is verstreken: een evenredig deel van 2% van de kredietsom;  
-
-d. nadat meer dan drie vijfde deel van de looptijd is verstreken: nihil.     
-2.  Het evenredig deel, bedoeld in het eerste lid, onder *a, b* en *c*, is gelijk aan het quotiënt van het bedrag dat vervroegd wordt afgelost en het uitstaand saldo op het tijdstip waarop vervroegde aflossing plaatsvindt.   
-
-### Artikel  14  
-
-1.  Bij volledige vervroegde aflossing treedt de in artikel 13 bedoelde kredietvergoeding in de plaats van de ten hoogste toegelaten kredietvergoeding bij regelmatige afwikkeling, die over de restant-looptijd in rekening zou kunnen worden gebracht indien geen vervroegde aflossing zou hebben plaatsgevonden.   
-2.  Bij gedeeltelijke vervroegde aflossing van een krediettransactie als bedoeld in artikel 7, eerste, onderscheidenlijk tweede lid, wordt de ten hoogste toegelaten totale kredietvergoeding bij regelmatige afwikkeling, in afwijking van artikel 7, eerste lid, onderscheidenlijk artikel 7, tweede lid, onder a, berekend volgens, onderscheidenlijk met gebruikmaking van, de volgende formule: TKV = x . T - (K - Rx), waarbij:   ![2620](http://wetten.overheid.nl/Illustration/2620)
-. In deze formules is: TKV: de ten hoogste toegelaten kredietvergoeding; x: het aantal niet vervroegd betaalde gelijk blijvende termijnbedragen; T: het gelijkblijvende termijnbedrag; K: de kredietsom; R*: het uitstaande saldo nadat het aantal werkelijk betaalde termijnbedragen is voldaan; i: het honderdste deel van het aan de krediettransactie ten grondslag liggende kredietvergoedingspercentage per betalingstermijn; n: het totale aantal betalingstermijnen volgens de betalingsregeling.   
-
 ### Hoofdstuk  V  
 
 ####Slotbepalingen
@@ -171,6 +146,11 @@ Indien gedurende de looptijd van een krediettransactie de wettelijke rente wijzi
 a. de krediettransactie is aangegaan, indien het betreft vaste kredietvergoeding;  
 
 b. de hoogte van de kredietvergoeding laatstelijk is gewijzigd, indien het betreft variabele kredietvergoeding.    
+
+### Artikel  16a  
+
+1.  De artikelen 4 tot en met 10 en 15 zijn niet van toepassing wanneer het jaarlijks kostenpercentage, bedoeld in [artikel 1 van het Besluit Gedragstoezicht financiële ondernemingen Wft](../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) ten hoogste de wettelijke rente verhoogd met 12 procentpunten bedraagt.   
+2.  Indien het eerste lid van toepassing is, wordt in artikel 16 in plaats van «effectieve kredietvergoedingspercentage op jaarbasis» gelezen: jaarlijks kostenpercentage.   
 
 ### Artikel  17  
 
