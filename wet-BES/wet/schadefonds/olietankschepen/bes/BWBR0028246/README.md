@@ -16,7 +16,9 @@ b. *Verdrag:* het op 27 november 1992 te Londen tot stand gekomen Internationaal
 
 c. *Fonds:* het Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, bedoeld in artikel 2 van het Verdrag;  
 
-d. *Aansprakelijkheidsverdrag 1992:* het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1992 (Trb. 1994, 229).     
+d. *Aansprakelijkheidsverdrag 1992:* het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1992 (Trb. 1994, 229);  
+
+e. *‘Aanvullend Fonds’*: het Internationaal Aanvullend Fonds voor de vergoeding van schade door verontreiniging door olie, bedoeld in artikel 2 van het op 16 mei 2003 te Londen tot stand gekomen Protocol bij het Internationaal Verdrag betreffende de instelling van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, 1992 (Trb. 2004, 196).     
 2.  In het bepaalde bij of krachtens deze wet wordt onder schip, persoon, eigenaar, bijdragende olie, ton en garant verstaan hetgeen daaronder wordt verstaan in artikel 1 van het Verdrag.   
 3.  Onder geassocieerde personen, bedoeld in artikel 10, tweede lid, onderdeel b, van het Verdrag, worden verstaan: 
 
@@ -114,6 +116,10 @@ Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikk
 ### Artikel  13  
 
 Bij of krachtens algemene maatregel van bestuur kunnen, indien dit in het belang van een goede uitvoering van de wet of in verband met internationale afspraken inzake de uitvoering van het Verdrag en de daarop berustende regelingen gewenst is, nadere regels worden gegeven betreffende de verkrijging van gegevens aangaande in de openbare lichamen Bonaire, Sint Eustatius en Saba ontvangen bijdragende olie en andere in deze wet geregelde onderwerpen.  
+
+### Artikel  13a  
+
+Tenzij anders is aangegeven, is het in of krachtens de artikelen 2 tot en met 13 bepaalde van overeenkomstige toepassing ten aanzien van het Aanvullend Fonds, met dien verstande dat een opgave van bijdragende olie als bedoeld in artikel 5, eerste lid, alsmede een mededeling als bedoeld in artikel 5, tweede lid, die is geschied ten aanzien van het Fonds, geacht wordt tevens ten aanzien van het Aanvullend Fonds te zijn gedaan.  
 
 ### Artikel  14  
 
