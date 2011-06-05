@@ -3,9 +3,9 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 28 oktober 2010, houdende de vaststelling van de aan de onder het Productschap Pluimvee en Eieren ressorterende ondernemers op te leggen huishoudelijke heffingen voor het jaar 2010 (Verordening huishoudelijke heffingen pluimveesector (PPE) 2011)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 6](../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md) en [8 van het Instellingsbesluit Productschap Pluimvee en Eieren](../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md);
+Gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie en de artikelen 6 en 8 van het Instellingsbesluit Productschap Pluimvee en Eieren;
 
-Gezien de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md);
+Gezien de Verordening algemene bepalingen heffingen (PPE) 2005;
 Besluit:     
 ### 1  
 
@@ -13,7 +13,7 @@ Besluit:
 
 ### Artikel  1  
 
-Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md).  
+Deze verordening neemt over de begripsbepalingen van de Verordening algemene bepalingen heffingen (PPE) 2005.  
 
 ### 2  
 
@@ -25,13 +25,13 @@ Deze verordening neemt over de begripsbepalingen van de [Verordening algemene be
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt voor broedeieren voor het verkrijgen van fok- en vermeerderingspluimvee:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | voor vleesrassen kippen  | € 0,00046 per ingelegd broedei.  |
 
 3.  Het tarief van de in het eerste lid bedoelde heffing bedraagt voor broedeieren voor het verkrijgen van gebruikspluimvee:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | a.  | voor vleesrassen kippen  | € 0,00044 per ingelegd broedei,  |
 | b.  | voor eenden  | € 0,00035 per ingelegd broedei,  |
 | c.  | voor kalkoenen  | € 0,00276 per ingelegd broedei.  |
@@ -42,7 +42,7 @@ Deze verordening neemt over de begripsbepalingen van de [Verordening algemene be
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | a.  | voor vleesrassen kippen  | € 0,01785 per eendagskuiken in geval van grootmoederdieren,  |
 | b.  | voor vleesrassen kippen  | € 0,0105 per eendagskuiken in geval van moederdieren,  |
 | c.  | voor kalkoenen  | € 0,04603 per eendagskuiken in geval van moederdieren.  |
@@ -53,7 +53,7 @@ Deze verordening neemt over de begripsbepalingen van de [Verordening algemene be
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | a.  | voor vleesrassen kippen  | € 0,04056 per grootmoederdier,  |
 | b.  | voor vleesrassen kippen  | € 0,03120 per moederdier,  |
 | c.  | voor kalkoenen  | € 0,09195 per moederdier.  |
@@ -140,7 +140,7 @@ b. zodra de grootmoederdieren of moederdieren de leeftijd van 20 weken hebben be
 
 ### Artikel  12  
 
-1.  De ondernemer die legkippen houdt is aan het productschap een heffing verschuldigd over de door hem in het kalenderjaar 2011 gehouden legkippen tegen een tarief van € 0,01316 per legkip.   
+1.  De ondernemer die legkippen houdt is aan het productschap een heffing verschuldigd over de door hem in het kalenderjaar 2011 gehouden legkippen tegen een tarief van € 0,01171 per legkip.   
 2.  De in het eerste lid bedoelde heffing is gedurende het leven van legkippen éénmaal verschuldigd, en wel: 
 
 a. zodra de legkippen zijn geplaatst, of  
@@ -203,7 +203,7 @@ De ondernemer die in het kalenderjaar 2011 vaccinbroedeieren inlegt of pleegt in
 ### Artikel  20  
 
 1.  De ondernemer die nertsen houdt is aan het productschap een heffing verschuldigd over het aantal moederdieren nertsen dat hij in het kader van de Landbouwtelling in het kalenderjaar 2011 houdt.   
-2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt € 0,05 per moederdier nerts.   
+2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt € 0,04 per moederdier nerts.   
 
 ### 6  
 
@@ -211,7 +211,7 @@ De ondernemer die in het kalenderjaar 2011 vaccinbroedeieren inlegt of pleegt in
 
 ### Artikel  21  
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md).  
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PPE) 2005.  
 
 ### 7  
 
