@@ -10,6 +10,7 @@ Besluit:
 
 1.  De in [artikel 9, eerste lid, van het Frequentiebesluit](../../../../../../../AMvB/frequentiebesluit/BWBR0009997/README.md) bedoelde periode waarbinnen een aanvraag om verlenging van een vergunning moet worden ingediend, vangt voor vergunningen voor commerciële radio-omroep, zijnde radio-omroep als bedoeld in [artikel 1.1, eerste lid, van de Mediawet 2008](../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) die wordt verzorgd door een commerciële media-instelling als bedoeld in artikel 1.1, eerste lid, van die wet, aan op 1 september 2009 en eindigt op 1 november 2010.   
 2.  Voor FM-vergunningen als bedoeld in [artikel 1 van de Regeling verlenging en digitalisering landelijke commerciële radio-omroep](../../../../../../../ministeriele-regeling/regeling/verlenging/en/digitalisering/landelijke/commerciële/radio-omroep/BWBR0029751/README.md) kan een aanvraag om verlenging tevens worden ingediend gedurende een periode die aanvangt op het tijdstip van inwerkingtreding van die regeling en eindigt op 15 april 2011.   
+3.  Voor FM- en middengolfvergunningen als bedoeld in [artikel 1 van de Regeling verlenging en digitalisering commerciële radio-omroep (middengolf en niet-landelijke FM)](../../../../../../../ministeriele-regeling/regeling/verlenging/en/digitalisering/commerciële/radio-omroep/(middengolf/etc/BWBR0030039/README.md) kan een aanvraag om verlenging tevens worden ingediend gedurende een periode die aanvangt op het tijdstip van inwerkingtreding van die regeling en eindigt op 28 juni 2011 om 14.00 uur.   
 
 ### Artikel  2  
 
