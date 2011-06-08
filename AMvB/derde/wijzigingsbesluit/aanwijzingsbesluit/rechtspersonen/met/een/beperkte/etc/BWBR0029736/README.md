@@ -15,23 +15,23 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.   
+Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie. 
 
 ### Artikel  II  
 
-Onze Minister van Financiën is belast met plaatsing in de Staatscourant van de op het moment van die plaatsing actuele A1-, A2- en B1-lijst, behorende bij het [Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie](../../../../../../../../../../AMvB/aanwijzingsbesluit/rechtspersonen/met/een/beperkte/kasbeheerfunctie/BWBR0017117/README.md).  
+Onze Minister van Financiën is belast met plaatsing in de Staatscourant van de op het moment van die plaatsing actuele A1-, A2- en B1-lijst, behorende bij het [Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie](../../../../../../../../../../AMvB/aanwijzingsbesluit/rechtspersonen/met/een/beperkte/kasbeheerfunctie/BWBR0017117/README.md). 
 
 ### Artikel  III  
 
-Het [koninklijk besluit van 11 juni 1926, houdende regeling van de toekenning ener vergoeding aan leden van commissiën bij vergadering in de woonplaats](../../../../../../../../../../KB/vergoeding/voor/leden/van/commissiën/BWBR0001934/README.md) wordt ingetrokken.  
+Het [koninklijk besluit van 11 juni 1926, houdende regeling van de toekenning ener vergoeding aan leden van commissiën bij vergadering in de woonplaats](../../../../../../../../../../KB/vergoeding/voor/leden/van/commissiën/BWBR0001934/README.md) wordt ingetrokken. 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt voor artikel I, onderdelen E2, E3 en E12, terug tot 1 januari 2010.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt voor artikel I, onderdelen E2, E3 en E12, terug tot 1 januari 2010. 
 
 ### Artikel  V  
 
-Dit besluit wordt aangehaald als: Derde wijzigingsbesluit Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.  
+Dit besluit wordt aangehaald als: Derde wijzigingsbesluit Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

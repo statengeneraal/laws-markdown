@@ -10,26 +10,26 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ [selectielijst voor de neerslag van de handelingen van de Minister van Defensie en de onder hem ressorterende actoren op het beleidsterrein Militair materieel over de periode vanaf 1945](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021737/README.md) ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘[selectielijst voor de neerslag van de handelingen van de Minister van Defensie en de onder hem ressorterende actoren op het beleidsterrein Militair materieel over de periode vanaf 1945](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021737/README.md)’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-De ‘Lijst van te bewaren/vernietigen archiefbescheiden [basisselectiedocument] voor de onder de Minister van Defensie vallende actoren binnen het beleidsterrein militair materieel’ (vastgesteld bij beschikking van de staatssecretaris van Onderwijs, Cultuur en Wetenschappen en de Minister van Defensie, nr. 94.1034.RWS/EIB d.d. 23 november 1994 (gepubliceerd in de Staatscourant 1995, nr. 89)) wordt ingetrokken.  
+De ‘Lijst van te bewaren/vernietigen archiefbescheiden [basisselectiedocument] voor de onder de Minister van Defensie vallende actoren binnen het beleidsterrein militair materieel’ (vastgesteld bij beschikking van de staatssecretaris van Onderwijs, Cultuur en Wetenschappen en de Minister van Defensie, nr. 94.1034.RWS/EIB d.d. 23 november 1994 (gepubliceerd in de Staatscourant 1995, nr. 89)) wordt ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende [selectielijst](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0021737/README.md) en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 29 januari 2007   
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
+Minister van Onderwijs, Cultuur en Wetenschap, namens deze:de 
 algemene rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
-Minister van Defensie, namens deze: de 
+Minister van Defensie, namens deze:de 
 project directeur Project Wegwerken Archiefachterstanden PWAA, 
-A. van derKooij   
+A. van der  Kooij     

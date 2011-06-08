@@ -29,7 +29,7 @@ Deze verordening verstaat onder:
 | --- | --- | --- | 2  | afgebakken aardappelproducten (producten ex GN-code 2005 20 20)  |
 | --- | --- | --- | 3  | gedroogde aardappelproducten (producten ex GN-code 1105 10 00 onderscheidenlijk 1105 20 00 onderscheidenlijk 0712 90 05 onderscheidenlijk 2004 10 91 onderscheidenlijk 2005 20 10)  |
 | --- | --- | --- | 4  | overige aardappelproducten (producten ex GN-code 2004 10 99 onderscheidenlijk 0710 10 00 onderscheidenlijk 0711 90 80);  |
-| j.  | Standaardopbrengst  | :  | de standaardwaarde van de brutoproductie, zoals deze bij de laatste in de Nederlandse Staatscourant gepubliceerde [Regeling landbouwtelling en gecombineerde opgave](../../../../../../../../../../../ministeriele-regeling/regeling/landbouwtelling/en/gecombineerde/opgave/2011/BWBR0029777/README.md) ingevolge de [artikelen 24](../../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [25 van de Landbouwwet](../../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) wordt toegepast;    |
+| j.  | Standaardopbrengst  | :  | de standaardwaarde van de brutoproductie, zoals deze bij de laatste in de Nederlandse Staatscourant gepubliceerde [Regeling landbouwtelling en gecombineerde opgave](../../../../../../../../../../../ministeriele-regeling/regeling/landbouwtelling/en/gecombineerde/opgave/2011/BWBR0029777/README.md) ingevolge de [artikelen 24](../../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [25 van de Landbouwwet](../../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) wordt toegepast;   |
 | k.  | gecombineerde opgave  | :  | een opgaveset waarmee door de ondernemer opgave wordt gedaan voor landbouwtelling, gebruik gewaspercelen en verzamelaanvraag, bedoeld in [artikel 25 van de Landbouwwet](../../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md);  |
 | l.  | bedrijfskaart(en)  | :  | een kaart waarop de door de ondernemer gebruikte gewaspercelen staan aangegeven, alsmede de daarop geteelde of te telen gewassen;  |
 | m.  | Dienst Regelingen  | :  | Dienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.  |
@@ -51,18 +51,18 @@ b. akkerbouw wordt uitgeoefend en waarvan de bedrijfsomvang ten minste gelijk is
 
 – de be- en verwerking van aardappelen ten behoeve van de zetmeelproductie.     
 3.  Aan de ingeschreven ondernemingen wordt een registratienummer toegekend.   
-4.  Het doel van het register is het leveren van een bijdrage aan de uitvoering van de aan het productschap opgedragen publiekrechtelijke taak.   
+4.  Het doel van het register is het leveren van een bijdrage aan de uitvoering van de aan het productschap opgedragen publiekrechtelijke taak.  
 
 ### Artikel  3  
 
 1.  Dienst Regelingen wordt aangewezen als instantie, aan wie een mededeling als bedoeld in artikel 4, tweede en derde lid, dient te worden verstrekt.   
-2.  Dienst Regelingen is bevoegd de conform het eerste lid verkregen gegevens aan te wenden ten behoeve van het bepaalde in [artikel 24 van de Landbouwwet](../../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md).   
+2.  Dienst Regelingen is bevoegd de conform het eerste lid verkregen gegevens aan te wenden ten behoeve van het bepaalde in [artikel 24 van de Landbouwwet](../../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md).  
 
 ### Artikel  4  
 
 1.  Degene die een onderneming drijft als bedoeld in artikel 2, eerste lid, onderdeel a, is verplicht binnen 1 maand na aanvang van de onderneming hiervan schriftelijk mededeling te doen aan het productschap.   
 2.  Degene die een onderneming drijft als bedoeld in artikel 2, eerste lid, onderdeel b, is verplicht binnen 1 maand na aanvang van de onderneming hiervan schriftelijk mededeling te doen aan Dienst Regelingen ten behoeve van het productschap.   
-3.  Een mededeling als bedoeld in het tweede lid, dient door een ondernemer eveneens te worden gedaan binnen 1 maand nadat de bedrijfsomvang van zijn onderneming is gaan voldoen aan de norm, vermeld in artikel 2, eerste lid, onderdeel b.   
+3.  Een mededeling als bedoeld in het tweede lid, dient door een ondernemer eveneens te worden gedaan binnen 1 maand nadat de bedrijfsomvang van zijn onderneming is gaan voldoen aan de norm, vermeld in artikel 2, eerste lid, onderdeel b.  
 
 ### Artikel  5  
 
@@ -78,7 +78,7 @@ c. plaats van vestiging van de (hoofd)zetel van de onderneming;
 d. functies die de onderneming in de consumptieaardappelsector uitoefent;  
 
 e. overige aangelegenheden van belang voor een doelmatige registratie.     
-3.  Indien de ondernemer een opgave als bedoeld in de voorgaande leden heeft ingediend en géén registratie, dan wel een afwijkende registratie, van die opgave plaatsvindt, deelt de secretaris, namens het bestuur, hem dit schriftelijk en gemotiveerd mede.   
+3.  Indien de ondernemer een opgave als bedoeld in de voorgaande leden heeft ingediend en géén registratie, dan wel een afwijkende registratie, van die opgave plaatsvindt, deelt de secretaris, namens het bestuur, hem dit schriftelijk en gemotiveerd mede.  
 
 ### Artikel  6  
 
@@ -98,20 +98,20 @@ f. de giro- of bankrekening;
 
 g. de locatie van tot het bedrijf behorende percelen en de daarop geteelde gewassen (bouwplan);  
 
-h. het e-mailadres en het telefoonnummer.     
+h.het e-mailadres en het telefoonnummer.   
 2.  De gegevens, bedoeld in het eerste lid, dienen aan het productschap te worden verstrekt door middel van de gecombineerde opgave.   
 3.  De in het tweede lid bedoelde formulieren en bedrijfskaarten worden door Dienst Regelingen aan de ondernemer verstrekt en dienen na invulling en ondertekening door de ondernemer bij Dienst Regelingen te worden ingediend.   
-4.  In afwijking van het bepaalde in het tweede en derde lid dient de ondernemer die in enig kalenderjaar aanvangt een onderneming te drijven, dan wel de exploitatie van de onderneming beëindigt, dit te melden bij Dienst Regelingen op een door Dienst Regelingen verstrekt formulier.   
+4.  In afwijking van het bepaalde in het tweede en derde lid dient de ondernemer die in enig kalenderjaar aanvangt een onderneming te drijven, dan wel de exploitatie van de onderneming beëindigt, dit te melden bij Dienst Regelingen op een door Dienst Regelingen verstrekt formulier.  
 
 ### Artikel  7  
 
 1.  De ondernemer is verplicht wijziging van de gegevens die op grond van artikel 5 zijn verstrekt, schriftelijk aan de secretaris mede te delen.   
 2.  De ondernemer is verplicht wijziging van de gegevens die op grond van artikel 6 zijn verstrekt, schriftelijk aan Dienst Regelingen mede te delen.   
-3.  Deze gegevens moeten worden verstrekt binnen 1 maand nadat de wijziging heeft plaatsgevonden.   
+3.  Deze gegevens moeten worden verstrekt binnen 1 maand nadat de wijziging heeft plaatsgevonden.  
 
 ### Artikel  8  
 
-Indien de secretaris, op een andere wijze dan ingevolge het bepaalde in artikel 7, kennis draagt van een wijziging van de gegevens, die op grond van artikel 5 zijn verstrekt, is hij namens het bestuur bevoegd een wijziging in het register aan te brengen. De ondernemer wordt hiervan vooraf schriftelijk op de hoogte gesteld.  
+Indien de secretaris, op een andere wijze dan ingevolge het bepaalde in artikel 7, kennis draagt van een wijziging van de gegevens, die op grond van artikel 5 zijn verstrekt, is hij namens het bestuur bevoegd een wijziging in het register aan te brengen. De ondernemer wordt hiervan vooraf schriftelijk op de hoogte gesteld. 
 
 ### §  3  
 
@@ -121,15 +121,15 @@ Indien de secretaris, op een andere wijze dan ingevolge het bepaalde in artikel 
 
 1.  Het bestuur kan bij besluit, gehoord de commissie, vrijstelling verlenen van een of meer bepalingen uit deze verordening en daarbij nadere voorschriften vaststellen.   
 2.  De voorzitter is namens het bestuur bevoegd bij besluit, gehoord de commissie, andere dan de in de bijlage bedoelde gegevens te vragen, een en ander totdat bij verordening tot wijziging van de bijlage daarin is voorzien. Alsdan wordt het betreffende besluit geacht te zijn ingetrokken.   
-3.  De secretaris is namens het bestuur bevoegd op schriftelijk verzoek van de ondernemer ontheffing te verlenen van het bepaalde in de artikelen 3, 4, 5, 6 en 7 en kan daarbij nadere voorschriften vaststellen.   
+3.  De secretaris is namens het bestuur bevoegd op schriftelijk verzoek van de ondernemer ontheffing te verlenen van het bepaalde in de artikelen 3, 4, 5, 6 en 7 en kan daarbij nadere voorschriften vaststellen.  
 
 ### Artikel  10  
 
-De Verordening PA algemene bepalingen 2008 is van toepassing.  
+De Verordening PA algemene bepalingen 2008 is van toepassing. 
 
 ### Artikel  11  
 
-Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld.  
+Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld. 
 
 ### §  4  
 
@@ -137,16 +137,16 @@ Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtre
 
 ### Artikel  12  
 
-Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie.  
+Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie. 
 
 ### Artikel  13  
 
-Deze verordening wordt aangehaald als Verordening PA registratie en verstrekking van gegevens teeltsector 2008.  
+Deze verordening wordt aangehaald als Verordening PA registratie en verstrekking van gegevens teeltsector 2008. 
 
 Den Haag 
 27 maart 2008   
 
-Th.A.M. Meijer  
+Th.A.M.  Meijer  
 voorzitter  
 
 M. Elema  

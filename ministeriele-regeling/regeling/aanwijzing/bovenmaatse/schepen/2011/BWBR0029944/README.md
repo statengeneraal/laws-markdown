@@ -36,21 +36,21 @@ l. dat zich bevindt in het Noordzeekanaal of in één van de zijkanalen daarvan,
 
 m. dat zich bevindt in de Voorzaan noordwaarts tot aan de Den Uylbrug, met inbegrip van de daaraan gelegen havens, en een diepgang heeft van 8 meter of meer, dan wel een lengte heeft van 150 meter of meer, of  
 
-n. dat zich bevindt in het Afgesloten IJ vanaf de oostzijde van de ingang van de Mercuriushaven in oostelijke richting, met inbegrip van de daaraan gelegen havens, en een diepgang heeft van 6 meter of meer, dan wel een lengte heeft van 150 meter of meer.    
+n. dat zich bevindt in het Afgesloten IJ vanaf de oostzijde van de ingang van de Mercuriushaven in oostelijke richting, met inbegrip van de daaraan gelegen havens, en een diepgang heeft van 6 meter of meer, dan wel een lengte heeft van 150 meter of meer.   
 
 ### Artikel  2  
 
-Het [besluit van de Minister van Verkeer en Waterstaat van 18 mei 1993, nr. DGSM/J 30.876/93 houdende vaststelling diepgang of scheepslengte verbonden aan gedeelte van vaarweg](../../../../../../../ministeriele-regeling/vaststelling/diepgang/of/scheepslengte/verbonden/aan/gedeelte/van/vaarweg/BWBR0005991/README.md) (Stcrt. 98) en het [Besluit aanwijzing bovenmaatse schepen](../../../../../../../ministeriele-regeling/besluit/aanwijzing/bovenmaatse/schepen/BWBR0017542/README.md) worden ingetrokken.  
+Het [besluit van de Minister van Verkeer en Waterstaat van 18 mei 1993, nr. DGSM/J 30.876/93 houdende vaststelling diepgang of scheepslengte verbonden aan gedeelte van vaarweg](../../../../../../../ministeriele-regeling/vaststelling/diepgang/of/scheepslengte/verbonden/aan/gedeelte/van/vaarweg/BWBR0005991/README.md) (Stcrt. 98) en het [Besluit aanwijzing bovenmaatse schepen](../../../../../../../ministeriele-regeling/besluit/aanwijzing/bovenmaatse/schepen/BWBR0017542/README.md) worden ingetrokken. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit van 20 september 2010, houdende vaststelling van een aantal wijzigingen van het Vaststellingsbesluit Binnenvaartpolitiereglement, het Besluit Rijnvaartpolitiereglement 1995, het Scheepvaartreglement Westerschelde 1990, het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen, het Scheepvaartreglement territoriale zee, het Besluit verkeersinformatie en verkeersaanwijzingen scheepvaartverkeer, het Besluit administratieve bepalingen scheepvaartverkeer, het Besluit houdende het van toepassing verklaren van de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972, het Scheepvaartreglement Eemsmonding en het Besluit statistische gegevens scheepvaartverkeer](../../../../../../../AMvB/wijzigingsbesluit/vaststellingsbesluit/binnenvaartpolitiereglement/enz./BWBR0028923/README.md) (Stb. 748) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop het [Besluit van 20 september 2010, houdende vaststelling van een aantal wijzigingen van het Vaststellingsbesluit Binnenvaartpolitiereglement, het Besluit Rijnvaartpolitiereglement 1995, het Scheepvaartreglement Westerschelde 1990, het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen, het Scheepvaartreglement territoriale zee, het Besluit verkeersinformatie en verkeersaanwijzingen scheepvaartverkeer, het Besluit administratieve bepalingen scheepvaartverkeer, het Besluit houdende het van toepassing verklaren van de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972, het Scheepvaartreglement Eemsmonding en het Besluit statistische gegevens scheepvaartverkeer](../../../../../../../AMvB/wijzigingsbesluit/vaststellingsbesluit/binnenvaartpolitiereglement/enz./BWBR0028923/README.md) (Stb. 748) in werking treedt. 
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Regeling aanwijzing bovenmaatse schepen 2011.  
+Deze regeling wordt aangehaald als: Regeling aanwijzing bovenmaatse schepen 2011. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Infrastructuur en Milieu,
-M.H.Schultz van Haegen-Maas Geesteranus   
+Minister van Infrastructuur en Milieu, 
+M.H. Schultz van Haegen-Maas Geesteranus     

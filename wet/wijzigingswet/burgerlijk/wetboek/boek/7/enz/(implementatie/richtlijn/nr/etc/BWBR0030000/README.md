@@ -11,45 +11,45 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt het Burgerlijk Wetboek Boek 7 en Burgerlijk Wetboek Boek 7A.   
+Wijzigt het Burgerlijk Wetboek Boek 7 en Burgerlijk Wetboek Boek 7A. 
 
 ### Artikel  II  
 
-Wijzigt de Wet op het consumentenkrediet.   
+Wijzigt de Wet op het consumentenkrediet. 
 
 ### Artikel  III  
 
-Wijzigt de Wet op het financieel toezicht.   
+Wijzigt de Wet op het financieel toezicht. 
 
 ### Artikel  IV  
 
-Wijzigt de Colportagewet.   
+Wijzigt de Colportagewet. 
 
 ### Artikel  V  
 
-Wijzigt de Overgangswet nieuw Burgerlijk Wetboek.   
+Wijzigt de Overgangswet nieuw Burgerlijk Wetboek. 
 
 ### Artikel  VI  
 
-De artikelen II en III zijn niet van toepassing op kredietovereenkomsten die vóór het inwerkingtreden van die artikelen zijn gesloten.  
+De artikelen II en III zijn niet van toepassing op kredietovereenkomsten die vóór het inwerkingtreden van die artikelen zijn gesloten. 
 
 ### Artikel  VII  
 
-Deze wet treedt in werking met ingang van 11 juni 2010. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven op of na 11 juni 2010, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van 11 juni 2010. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven op of na 11 juni 2010, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 19 mei 2011  
 Beatrix  
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten   
 
-De Minister van Financiën, 
+De Minister van Financiën,  
 J. C. de Jager   
 
 de *vierentwintigste* mei 2011 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

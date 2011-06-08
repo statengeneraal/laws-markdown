@@ -10,20 +10,20 @@ Besluit:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van het College van Beroep voor het Bedrijfsleven op het beleidsterrein Goederenvervoer over de periode vanaf 1945 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van het College van Beroep voor het Bedrijfsleven op het beleidsterrein Goederenvervoer over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 19 april 2007   
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap, namens deze, de 
+Minister van Onderwijs, Cultuur en Wetenschap, namens deze,de 
 algemene rijksarchivaris, 
-M.W. vanBoven  
+M.W. van Boven    
 
 ####Basisselectiedocument goederenvervoer 1945–
 
@@ -33,7 +33,7 @@ M.W. vanBoven
 
 – Minister van Onderwijs, Cultuur en Wetenschap (1945–);  
 
-– College van Beroep voor het bedrijfsleven (1984–1992).    
+– College van Beroep voor het bedrijfsleven (1984–1992).   
 
 ###A. Spieksma (Doxis) en Machteld Doekes (Digital display)
 
@@ -41,7 +41,7 @@ In opdracht van Verkeer en Waterstaat
 
 ####Afkortingenlijst
 
-ADN: Accord Européen rélatif au transport international des marchandises dangereuses par voie de navigation intérieure ADNR: Règlement pour le transport des matières dangereuses sur le Rhin ADR: Accord Européen relatif au transport international des marchandises dangereuses par route AMvB: Algemene maatregel van bestuur ARV: Algemeen Reglement voor het vervoer op de spoorwegen ARVL: Algemeen Reglement voor het vervoer op lokaalspoorwegen AVV: Adviesdienst Verkeer en Vervoer Bgw: [Besluit goederenvervoer over de weg](../../../../../../../../../AMvB/besluit/goederenvervoer/over/de/weg/BWBR0005496/README.md) BIG: Buisleiding Industrie Gilde BISB: Beleidsinformatiesysteem Binnenvaart Bolegno: (Vereniging van) Boorondernemers en Buizenleggers BOR: Bereikbaarheidsoffensief Randstad BOVV: beperkt ongeregeld vervoer BSB: Besluit sloopregeling binnenvaart BSD: Basisselectiedocument BVB: [Besluit vervoer binnenvaart](../../../../../../../../../AMvB/besluit/vervoer/binnenvaart/BWBR0005503/README.md) BVGS: [Besluit Vervoer Gevaarlijke Stoffen](../../../../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/BWBR0008080/README.md) BZK: (Ministerie van) Binenlandse Zaken en Koninkrijksrelaties CBB: College van beroep voor het bedrijfsleven CBR: Centraal Bureau Rijvaardigheidsbewijzen CBOB: Christelijke Bond van Ondernemers in de Binnenvaart CBS: Centraal Bureau voor de Statistiek CBRB: Centraal Bureau voor Rijn- en Binnenvaart CCR: Centrale Commissie voor de Rijnvaart CEMT: Conférence Européenne des Ministres de Transport CEW: Commission Echange des Wagons CGB: Commissie Grensoverschrijdend Beroepsgoederenvervoer CIM: Verdrag betreffende het goederenvervoer per spoorweg CIT: Comité International des Transport par Chemin de Fer CIV: Verdrag betreffende het vervoer van reizigers en bagage per spoorweg CoCo: Coördinatiecommissie COTIF: Convention relative aux transports internationaux ferroviaires CPV: (Directie) Collectief Personenvervoer CRB: Centrale registratie binnenschepen CUB: Container Uitwisselpunt Binnenvaart CVG: Commissie Vergunningen Goederenvervoer CVV: Commissie Vervoervergunningen CVW: Commissie Vergunningen Wegvervoer DGV: Directoraat-Generaal van het Verkeer (Ministerie van Verkeer en Waterstaat) DGG: Directoraat-Generaal Goederenvervoer (Ministerie van Verkeer en Waterstaat) DGP: Directoraat-Generaal Personenvervoer (Ministerie van Verkeer en Waterstaat) ECE: Economic Commission for Europe ECITO: European Central Inland Transport Organisation EDI: Electronic Data Interchange EG: Europese Gemeenschap EGKS: Europese Gemeenschap voor Kolen en Staal EVO: Algemene Verladers- en Eigen Vervoer Organisatie FENEX: Federatie van Nederlandse Expediteursorganisaties G: (Directie) Goederenvervoer GPdW: Stichting Gemeenschappelijke Personeelsdienst Wegvervoer GWRV: Gecombineerd Weg-Rail Vervoer HdTK: Handelingen der Tweede Kamer HIP: Subsidieregeling Haveninterne Projecten ICAO-TI: International civil aviation organization Technical Instructions (for the safe Transport of dangerous goods by air) IMAGO: Initiatief Milieu Actie Goederenvervoer IMDG: International Maritime Dangerous Goods Code IMO: International Maritime Organisation IOG: Internationale Overeenkomst omtrent het goederenvervoer per spoorweg IP: (Directie) Individueel Personenverkeer (Ministerie van Verkeer en Waterstaat) IPO: Interprovinciaal Overleg IPOT: Interdepartementale Projectorganisatie Ondergronds Transport IRU: International Road Transport Union ITC: Inland Transport Committee IVV: Integraal Verkeers- en Vervoerbeleid IVW: Inspectie Verkeer en Waterstaat KCGS: Korps Controleurs Gevaarlijke Stoffen KNHG: Koninklijk Nederlands Historisch Genootschap KNV: Koninklijk Nederlands Vervoer KNVTO: Koninklijke Nederlandse Vereniging van Transport Ondernemingen KOFS: Stichting Koninklijk Onderwijsfonds voor de Scheepvaart MAVIT: Project Maatschappelijk Aanvaardbaar Veiligheidsniveau Infrastructuur Tunnels MIT: Meerjarenplan Infrastructuur en Transport MJA: Meerjarenafspraak MJP: Meerjarenprogramma NCM: Nieuwe Controle Methodiek NDL: Nederland Distributie Land NTDL: Nederland Transport en Distributieland NIWO: Stichting Nationale en Internationale Wegvervoer Organisatie NOB Wegtransport: Nationale Organisatie voor het Beroepsgoederenvervoer Wegtransport NOVEM: Nederlandse Onderneming voor energie en milieu NVVP: Nationaal Verkeers- en Vervoersplan OCTI: Centraal Bureau voor het Internationale Spoorwegvervoer OCW: (Ministerie van) Onderwijs, Cultuur en Wetenschap OGV: Permanent Overlegorgaan Goederenvervoer ONS: Onafhankelijke Nederlandse Schippersvakbond OEES: Organisatie voor Europese Economische Samenwerking OESO: Organisatie voor Economische Samenwerking en Ontwikkeling OTB: ondergronds transport via buisleidingen OTIV: Intergouvernementele Organisatie voor het internationale Spoorwegvervoer PACT: programma voor modelprojecten Pb: Publicatieblad (voor Europese verordeningen) PIVOT: Project invoering verkorting overbrengingstermijn PVC: Permanente verpakkingscommissie PWC: Planologische werkcommissie RDW: Rijksdienst voor het Wegverkeer RGS: Reglement Gevaarlijke Stoffen RID: Règlement concernant le transport international ferroviaire des marchandises dangereuses RIO: Rapport Institutioneel Onderzoek RIV: Reglement voor het wederzijds gebruik van wagens in internationaal verkeer RONS/ RO/NS: Rijksoverheid/NS-Goederenvervoer RVB: Reglement Vervoer Benzine RVI: Rijksverkeersinspectie RVV: (Directie) Regie Verkeer en Vervoer (Ministerie van Verkeer en Waterstaat) RWS: Rijkswaterstaat S&C: (Directie) Strategie en Coördinatie (Ministerie van Verkeer en Waterstaat) SBE: Stichting bureau examens voor het beroepsgoederenvervoer SBV: [Subsidieregeling Bedrijfsgebonden Vaarwegaansluitingen](../../../../../../../../../ministeriele-regeling/subsidieregeling/bedrijfsgebonden/vaarwegaansluitingen/(sbv)/BWBR0012284/README.md) SCG: [Stimuleringsregeling gecombineerd goederenvervoer](../../../../../../../../../ministeriele-regeling/stimuleringsregeling/gecombineerd/goederenvervoer/2000/BWBR0010927/README.md) SER: Sociaal-Economische Raad SIEV: Stichting Inschrijving Eigen Vervoer SMEG: [Subsidieregeling milieu- en energie-efficiency in het goederenvervoer](../../../../../../../../../ministeriele-regeling/subsidieregeling/milieu-/en/energie-efficiency/in/het/goederenvervoer/2002/BWBR0013040/README.md) SOIT: [Subsidieregeling Openbare Inland Terminals](../../../../../../../../../ministeriele-regeling/subsidieregeling/openbare/inland/terminals/BWBR0011721/README.md) SP: (Directie) Strategie en Programmering Intergraal Verkeer en Vervoer (Ministerie van Verkeer en Waterstaat) Stb: Staatsblad Stcrt: Staatscourant STIGOWA: Stimuleren Goederenvervoer over Water SVV: Structuurschema Verkeer en Vervoer SW: [Spoorwegenwet](../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) SWAB: Samen werken aan bereikbaarheid SZW: (Ministerie van) Sociale Zaken en Werkgelegenheid TBBV: [Tijdelijke beleidsregeling bijdragen vaarwegaansluitingen](../../../../../../../../../ministeriele-regeling/tijdelijke/beleidsregeling/bijdragen/vaarwegaansluitingen/BWBR0007716/README.md) TI: TIB: Transport in Balans TK: Tweede Kamer TLN: Transport en Logistiek Nederland TMS: Transactie Modal Shift Trb: Tractatenblad TWNZ: Tijdelijke wet vrachtverdeling Noord-Zuid-vervoer TZ: UAG: Uitvoeringsbesluit Autovervoer Goederen UGB: Uitvoeringsbesluit Goederenvervoer Binnenscheepvaart UIC: Union Internationale des Chemins de Fer VBG: Reglement voor het vervoer over de binnenwateren van gevaarlijke stoffen VELIN: Vereniging van Leidingeigenaren in Nederland VenW/V&W: (Ministerie van) Verkeer en Waterstaat VLG: Reglement vervoer over land van gevaarlijke stoffen VNG: Vereniging van Nederlandse Gemeenten VROM: (Ministerie van) Volkshuisvesting, Ruimtelijke Ordening en Milieu VSG: Reglement vervoer over de spoorweg van gevaarlijke stoffen WAG: Wet autovervoer goederen Wegvervoer CVO: Wegvervoer Christelijke Vervoerders Organisatie WGB: Wet Goederenvervoer Binnenvaart WGS: Wet gevaarlijke stoffen Wgw: [Wet goederenvervoer over de weg](../../../../../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md) WSB: Wet sloopregeling binnenvaart WSSB: Wet structurele sanering binnenvaart Wvb: [Wet vervoer binnenvaart](../../../../../../../../../wet/wet/vervoer/binnenvaart/BWBR0005319/README.md) WVGS: [Wet Vervoer van Gevaarlijke Stoffen](../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md)  
+ADN: Accord Européen rélatif au transport international des marchandises dangereuses par voie de navigation intérieure ADNR: Règlement pour le transport des matières dangereuses sur le Rhin ADR: Accord Européen relatif au transport international des marchandises dangereuses par route AMvB: Algemene maatregel van bestuur ARV: Algemeen Reglement voor het vervoer op de spoorwegen ARVL: Algemeen Reglement voor het vervoer op lokaalspoorwegen AVV: Adviesdienst Verkeer en Vervoer Bgw: [Besluit goederenvervoer over de weg](../../../../../../../../../AMvB/besluit/goederenvervoer/over/de/weg/BWBR0005496/README.md) BIG: Buisleiding Industrie Gilde BISB: Beleidsinformatiesysteem Binnenvaart Bolegno: (Vereniging van) Boorondernemers en Buizenleggers BOR: Bereikbaarheidsoffensief Randstad BOVV: beperkt ongeregeld vervoer BSB: Besluit sloopregeling binnenvaart BSD: Basisselectiedocument BVB: [Besluit vervoer binnenvaart](../../../../../../../../../AMvB/besluit/vervoer/binnenvaart/BWBR0005503/README.md) BVGS: [Besluit Vervoer Gevaarlijke Stoffen](../../../../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/BWBR0008080/README.md) BZK: (Ministerie van) Binenlandse Zaken en Koninkrijksrelaties CBB: College van beroep voor het bedrijfsleven CBR: Centraal Bureau Rijvaardigheidsbewijzen CBOB: Christelijke Bond van Ondernemers in de Binnenvaart CBS: Centraal Bureau voor de Statistiek CBRB: Centraal Bureau voor Rijn- en Binnenvaart CCR: Centrale Commissie voor de Rijnvaart CEMT: Conférence Européenne des Ministres de Transport CEW: Commission Echange des Wagons CGB: Commissie Grensoverschrijdend Beroepsgoederenvervoer CIM: Verdrag betreffende het goederenvervoer per spoorweg CIT: Comité International des Transport par Chemin de Fer CIV: Verdrag betreffende het vervoer van reizigers en bagage per spoorweg CoCo: Coördinatiecommissie COTIF: Convention relative aux transports internationaux ferroviaires CPV: (Directie) Collectief Personenvervoer CRB: Centrale registratie binnenschepen CUB: Container Uitwisselpunt Binnenvaart CVG: Commissie Vergunningen Goederenvervoer CVV: Commissie Vervoervergunningen CVW: Commissie Vergunningen Wegvervoer DGV: Directoraat-Generaal van het Verkeer (Ministerie van Verkeer en Waterstaat) DGG: Directoraat-Generaal Goederenvervoer (Ministerie van Verkeer en Waterstaat) DGP: Directoraat-Generaal Personenvervoer (Ministerie van Verkeer en Waterstaat) ECE: Economic Commission for Europe ECITO: European Central Inland Transport Organisation EDI: Electronic Data Interchange EG: Europese Gemeenschap EGKS: Europese Gemeenschap voor Kolen en Staal EVO: Algemene Verladers- en Eigen Vervoer Organisatie FENEX: Federatie van Nederlandse Expediteursorganisaties G: (Directie) Goederenvervoer GPdW: Stichting Gemeenschappelijke Personeelsdienst Wegvervoer GWRV: Gecombineerd Weg-Rail Vervoer HdTK: Handelingen der Tweede Kamer HIP: Subsidieregeling Haveninterne Projecten ICAO-TI: International civil aviation organization Technical Instructions (for the safe Transport of dangerous goods by air) IMAGO: Initiatief Milieu Actie Goederenvervoer IMDG: International Maritime Dangerous Goods Code IMO: International Maritime Organisation IOG: Internationale Overeenkomst omtrent het goederenvervoer per spoorweg IP: (Directie) Individueel Personenverkeer (Ministerie van Verkeer en Waterstaat) IPO: Interprovinciaal Overleg IPOT: Interdepartementale Projectorganisatie Ondergronds Transport IRU: International Road Transport Union ITC: Inland Transport Committee IVV: Integraal Verkeers- en Vervoerbeleid IVW: Inspectie Verkeer en Waterstaat KCGS: Korps Controleurs Gevaarlijke Stoffen KNHG: Koninklijk Nederlands Historisch Genootschap KNV: Koninklijk Nederlands Vervoer KNVTO: Koninklijke Nederlandse Vereniging van Transport Ondernemingen KOFS: Stichting Koninklijk Onderwijsfonds voor de Scheepvaart MAVIT: Project Maatschappelijk Aanvaardbaar Veiligheidsniveau Infrastructuur Tunnels MIT: Meerjarenplan Infrastructuur en Transport MJA: Meerjarenafspraak MJP: Meerjarenprogramma NCM: Nieuwe Controle Methodiek NDL: Nederland Distributie Land NTDL: Nederland Transport en Distributieland NIWO: Stichting Nationale en Internationale Wegvervoer Organisatie NOB Wegtransport: Nationale Organisatie voor het Beroepsgoederenvervoer Wegtransport NOVEM: Nederlandse Onderneming voor energie en milieu NVVP: Nationaal Verkeers- en Vervoersplan OCTI: Centraal Bureau voor het Internationale Spoorwegvervoer OCW: (Ministerie van) Onderwijs, Cultuur en Wetenschap OGV: Permanent Overlegorgaan Goederenvervoer ONS: Onafhankelijke Nederlandse Schippersvakbond OEES: Organisatie voor Europese Economische Samenwerking OESO: Organisatie voor Economische Samenwerking en Ontwikkeling OTB: ondergronds transport via buisleidingen OTIV: Intergouvernementele Organisatie voor het internationale Spoorwegvervoer PACT: programma voor modelprojecten Pb: Publicatieblad (voor Europese verordeningen) PIVOT: Project invoering verkorting overbrengingstermijn PVC: Permanente verpakkingscommissie PWC: Planologische werkcommissie RDW: Rijksdienst voor het Wegverkeer RGS: Reglement Gevaarlijke Stoffen RID: Règlement concernant le transport international ferroviaire des marchandises dangereuses RIO: Rapport Institutioneel Onderzoek RIV: Reglement voor het wederzijds gebruik van wagens in internationaal verkeer RONS/ RO/NS: Rijksoverheid/NS-Goederenvervoer RVB: Reglement Vervoer Benzine RVI: Rijksverkeersinspectie RVV: (Directie) Regie Verkeer en Vervoer (Ministerie van Verkeer en Waterstaat) RWS: Rijkswaterstaat S&C: (Directie) Strategie en Coördinatie (Ministerie van Verkeer en Waterstaat) SBE: Stichting bureau examens voor het beroepsgoederenvervoer SBV: [Subsidieregeling Bedrijfsgebonden Vaarwegaansluitingen](../../../../../../../../../ministeriele-regeling/subsidieregeling/bedrijfsgebonden/vaarwegaansluitingen/(sbv)/BWBR0012284/README.md) SCG: [Stimuleringsregeling gecombineerd goederenvervoer](../../../../../../../../../ministeriele-regeling/stimuleringsregeling/gecombineerd/goederenvervoer/2000/BWBR0010927/README.md) SER: Sociaal-Economische Raad SIEV: Stichting Inschrijving Eigen Vervoer SMEG: [Subsidieregeling milieu- en energie-efficiency in het goederenvervoer](../../../../../../../../../ministeriele-regeling/subsidieregeling/milieu-/en/energie-efficiency/in/het/goederenvervoer/2002/BWBR0013040/README.md) SOIT: [Subsidieregeling Openbare Inland Terminals](../../../../../../../../../ministeriele-regeling/subsidieregeling/openbare/inland/terminals/BWBR0011721/README.md) SP: (Directie) Strategie en Programmering Intergraal Verkeer en Vervoer (Ministerie van Verkeer en Waterstaat) Stb: Staatsblad Stcrt: Staatscourant STIGOWA: Stimuleren Goederenvervoer over Water SVV: Structuurschema Verkeer en Vervoer SW: [Spoorwegenwet](../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) SWAB: Samen werken aan bereikbaarheid SZW: (Ministerie van) Sociale Zaken en Werkgelegenheid TBBV: [Tijdelijke beleidsregeling bijdragen vaarwegaansluitingen](../../../../../../../../../ministeriele-regeling/tijdelijke/beleidsregeling/bijdragen/vaarwegaansluitingen/BWBR0007716/README.md) TI: TIB: Transport in Balans TK: Tweede Kamer TLN: Transport en Logistiek Nederland TMS: Transactie Modal Shift Trb: Tractatenblad TWNZ: Tijdelijke wet vrachtverdeling Noord-Zuid-vervoer TZ: UAG: Uitvoeringsbesluit Autovervoer Goederen UGB: Uitvoeringsbesluit Goederenvervoer Binnenscheepvaart UIC: Union Internationale des Chemins de Fer VBG: Reglement voor het vervoer over de binnenwateren van gevaarlijke stoffen VELIN: Vereniging van Leidingeigenaren in Nederland VenW/V&W: (Ministerie van) Verkeer en Waterstaat VLG: Reglement vervoer over land van gevaarlijke stoffen VNG: Vereniging van Nederlandse Gemeenten VROM: (Ministerie van) Volkshuisvesting, Ruimtelijke Ordening en Milieu VSG: Reglement vervoer over de spoorweg van gevaarlijke stoffen WAG: Wet autovervoer goederen Wegvervoer CVO: Wegvervoer Christelijke Vervoerders Organisatie WGB: Wet Goederenvervoer Binnenvaart WGS: Wet gevaarlijke stoffen Wgw: [Wet goederenvervoer over de weg](../../../../../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md) WSB: Wet sloopregeling binnenvaart WSSB: Wet structurele sanering binnenvaart Wvb: [Wet vervoer binnenvaart](../../../../../../../../../wet/wet/vervoer/binnenvaart/BWBR0005319/README.md) WVGS: [Wet Vervoer van Gevaarlijke Stoffen](../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) 
 
 ### 1  
 
@@ -77,7 +77,7 @@ Het PIVOT-rapport nr. 85, Goed vervoerd. Een institutioneel onderzoek op het be
 
 – Handeling 103 bleek handeling 97 te dubbelen; idem gold voor 222 die 52 dubbelde, 246 die 238 dubbelde, 296 die 297 dubbelde, 314 die 110 dubbelde, 330 die 152 dubbelde, 337 die 157 dubbelde, 349 die 183 dubbelde, 511 die 257 dubbelde, 566 die 565 dubbelde en 742 die 741 dubbelde. Wanneer het geen consequenties had voor het begrip van het RIO zijn deze handelingen ook uit het RIO verwijderd. In de andere gevallen is de vermelding ‘vervallen’ aan de handelingen in het RIO toegevoegd.  
 
-– Handeling 64 is samengevoegd met handeling 63.   Het BSD is nog voor geen enkele actor eerder vastgesteld. Er hoeven na vaststelling van deze selectielijst geen andere selectie- en/of vernietigingslijsten te worden ingetrokken.  
+– Handeling 64 is samengevoegd met handeling 63.   Het BSD is nog voor geen enkele actor eerder vastgesteld. Er hoeven na vaststelling van deze selectielijst geen andere selectie- en/of vernietigingslijsten te worden ingetrokken. 
 
 ### 1.2  
 
@@ -97,7 +97,7 @@ Het beleidsterrein goederenvervoer, omvat het inland-vervoer van goederen. Onder
 
 – intermodaal vervoer  
 
-– vervoer van gevaarlijke stoffen.   In de afbakening hieronder zal uiteen worden gezet hoe die overlapping plaatsvindt.  
+– vervoer van gevaarlijke stoffen.   In de afbakening hieronder zal uiteen worden gezet hoe die overlapping plaatsvindt. 
 
 ### 1.3  
 
@@ -109,25 +109,25 @@ Zoals hierboven al aangegeven bestaan er binnen het beleidsterrein goederenvervo
 
 ####Integraal beleid goederenvervoer
 
-Integraal beleid wil zoveel zeggen als ‘alles omvattend’. Met andere woorden: het algemene, overkoepelende en alle modaliteiten van vervoer omvattende beleid inzake het vervoer van goederen. Zie voor meer informatie van dit deelbeleidsterrein hierover hoofdstuk 2 van het RIO.  
+Integraal beleid wil zoveel zeggen als ‘alles omvattend’. Met andere woorden: het algemene, overkoepelende en alle modaliteiten van vervoer omvattende beleid inzake het vervoer van goederen. Zie voor meer informatie van dit deelbeleidsterrein hierover hoofdstuk 2 van het RIO. 
 
 ### 1.3.2  
 
 ####Intermodaal vervoer
 
-Intermodaal vervoer betekent het tot stand brengen van integrale vervoersketens. De verschillende vervoersmodaliteiten dienen op integrale wijze in de logistieke keten te zijn opgenomen. Als het gaat om dit deelbeleidsterrein ligt de nadruk van de handelingen die de verschillende vervoersmodaliteiten opnemen in een vervoersketen om op die manier een alternatief te bieden voor het lange-afstand wegtransport. Zie voor meer informatie over de afbakening van dit deelbeleidsterrein paragraaf 7.1.2 van het RIO.  
+Intermodaal vervoer betekent het tot stand brengen van integrale vervoersketens. De verschillende vervoersmodaliteiten dienen op integrale wijze in de logistieke keten te zijn opgenomen. Als het gaat om dit deelbeleidsterrein ligt de nadruk van de handelingen die de verschillende vervoersmodaliteiten opnemen in een vervoersketen om op die manier een alternatief te bieden voor het lange-afstand wegtransport. Zie voor meer informatie over de afbakening van dit deelbeleidsterrein paragraaf 7.1.2 van het RIO. 
 
 ### 1.3.3  
 
 ####Vervoer gevaarlijke stoffen
 
-Dit deelbeleidsterrein betreft die handelingen, die expliciet betrekking hebben op het vervoer van gevaarlijke stoffen over de weg, per spoor en de binnenwateren. Met andere woorden: het inland transport. Het vervoer van gevaarlijke stoffen, waar het gaat om transport over zee en door de lucht, alsmede het vervoer van radioactieve stoffen en militaire transporten maken geen deel uit van dit onderzoek. Zie voor meer informatie over de afbakening van dit deelbeleidsterrein paragraaf 8.1.2 van het RIO.  
+Dit deelbeleidsterrein betreft die handelingen, die expliciet betrekking hebben op het vervoer van gevaarlijke stoffen over de weg, per spoor en de binnenwateren. Met andere woorden: het inland transport. Het vervoer van gevaarlijke stoffen, waar het gaat om transport over zee en door de lucht, alsmede het vervoer van radioactieve stoffen en militaire transporten maken geen deel uit van dit onderzoek. Zie voor meer informatie over de afbakening van dit deelbeleidsterrein paragraaf 8.1.2 van het RIO. 
 
 ### 1.3.4  
 
 ####Raakvlakken van het beleidsterrein goederenvervoer met andere beleidsterreinen
 
-Het beleidsterrein goederenvervoer heeft binnen het departement Verkeer en Waterstaat raakvlakken met andere beleidsterreinen. Het goederenvervoer over zee wordt behandeld in het rapport nr. 21 De stuurlui aan wal, over het beleidsterrein Scheepvaart en maritieme zaken. De hierop gebaseerde selectielijst is gepubliceerd in Stcrt. 2002, 215. Het goederenvervoer in de lucht wordt behandeld in het rapport nr. 16, Luchtvaart gebonden, over het beleidsterrein luchtvaart. De hierop gebaseerde selectielijst is nog niet gepubliceerd. Het beleidsterrein goederenvervoer omvat wel het vervoer over de binnenwateren. Dat wordt dus niet behandeld in het rapport nr. 28, Waterstaat, over de infrastructuur van de binnenwateren en waterstaat. De hierop gebaseerde selectielijst is gepubliceerd Stcrt. 1997, 217. Het beleidsterrein kent ook raakvlakken met beleidsterreinen van andere departementen. Als vervoersMinister is de Minister van Verkeer en Waterstaat verantwoordelijk voor het intermodaal vervoer. De Minister van Economische Zaken levert een bijdrage aan (het stimuleren van) intermodaal vervoer vanuit ondermeer het gezichtspunt van stimulering van (regionale) werkgelegenheid en gebruik van (geavanceerde) technologie. Relevante selectielijsten zijn de BSD’s die gebaseerd zijn op RIO’s 148 en 150, resp. Industrie- en technologiebeleid en Regionaal economisch beleid. De Minister van VROM levert een bijdrage aan (het stimuleren van) intermodaal vervoer vanuit het oogpunt van ruimtelijke ordening en milieu. Het beleidsterrein Ruimtelijke Ordening wordt behandeld in het gelijknamige RIO 120. De hierop gebaseerde selectielijst is gepubliceerd in Stcrt. 2002, 215. Het beleidsterrein Milieubeheer wordt behandeld in het gelijknamige RIO 94. De hierop gebaseerde selectielijst is gepubliceerd in Stcrt. 2003, 155-158.  
+Het beleidsterrein goederenvervoer heeft binnen het departement Verkeer en Waterstaat raakvlakken met andere beleidsterreinen. Het goederenvervoer over zee wordt behandeld in het rapport nr. 21 De stuurlui aan wal, over het beleidsterrein Scheepvaart en maritieme zaken. De hierop gebaseerde selectielijst is gepubliceerd in Stcrt. 2002, 215. Het goederenvervoer in de lucht wordt behandeld in het rapport nr. 16, Luchtvaart gebonden, over het beleidsterrein luchtvaart. De hierop gebaseerde selectielijst is nog niet gepubliceerd. Het beleidsterrein goederenvervoer omvat wel het vervoer over de binnenwateren. Dat wordt dus niet behandeld in het rapport nr. 28, Waterstaat, over de infrastructuur van de binnenwateren en waterstaat. De hierop gebaseerde selectielijst is gepubliceerd Stcrt. 1997, 217. Het beleidsterrein kent ook raakvlakken met beleidsterreinen van andere departementen. Als vervoersMinister is de Minister van Verkeer en Waterstaat verantwoordelijk voor het intermodaal vervoer. De Minister van Economische Zaken levert een bijdrage aan (het stimuleren van) intermodaal vervoer vanuit ondermeer het gezichtspunt van stimulering van (regionale) werkgelegenheid en gebruik van (geavanceerde) technologie. Relevante selectielijsten zijn de BSD’s die gebaseerd zijn op RIO’s 148 en 150, resp. Industrie- en technologiebeleid en Regionaal economisch beleid. De Minister van VROM levert een bijdrage aan (het stimuleren van) intermodaal vervoer vanuit het oogpunt van ruimtelijke ordening en milieu. Het beleidsterrein Ruimtelijke Ordening wordt behandeld in het gelijknamige RIO 120. De hierop gebaseerde selectielijst is gepubliceerd in Stcrt. 2002, 215. Het beleidsterrein Milieubeheer wordt behandeld in het gelijknamige RIO 94. De hierop gebaseerde selectielijst is gepubliceerd in Stcrt. 2003, 155-158. 
 
 ### 1.4  
 
@@ -145,7 +145,7 @@ Goederenvervoer is voor Nederland een belangrijke bron van inkomsten. De sector 
 
 – het stimuleren van marktverkenning en voorlichting  
 
-– het in gang zetten van gezamenlijke promotie en pre-selling   Door deze thema’s centraal te stellen, moet het goederenvervoer zijn prominente positie binnen het internationale beleid minstens behouden. Eind 1988 wordt de Tweede Structuurschema Verkeer en Vervoer gepresenteerd. Het SVV bevat het te volgen beleidsvoornemen tot het jaar 2010. Wat betreft het goederenvervoer wordt de prioriteit gelegd op het hoofdwegennet door het aanwijzen van onder andere hoofdtransportassen en het vergroten van de bereikbaarheid van economisch belangrijke centra. Daarnaast wordt het goederenvervoer over spoor en water aantrekkelijker gemaakt. Vanaf het begin van de jaren 90 groeit het goederenvervoer weer sterk. De nadruk van beleid komt te liggen op het versterken van de internationale concurrentiepositie en het verschuiven van transport van goederen in de richting van een milieuvriendelijker model en verbeterde toepassing van het goederenvervoer om de ruimtelijke kwaliteit te verbeteren. In 2005 moet het aandeel vervoer per spoor zijn verdubbeld (hiervoor wordt bijvoorbeeld de Betuweroute aangelegd) en moet project TRANSACTIE leiden tot een aanzienlijke reductie van de uitstoot van CO <sub>2</sub>. In 1996 is de prognose, dat het goederenvervoer ook de komende jaren fors zal blijven groeien. Om deze ontwikkeling in goede banen te leiden is een evenwichtig beleid uitgestippeld. Groei is mooi voor de economie, maar het milieu en de leefomgeving moeten zoveel mogelijk worden gespaard. Zo’n beleid is uiteengezet in de nota’s ‘Transport in Balans’ (TIB) en ‘Samen werken aan bereikbaarheid’ (SWAB). Beide nota’s zijn in 1996 aan de Tweede Kamer gepresenteerd. De nota ‘Transport in Balans’ uit 1996 is de uitwerking voor het goederenvervoer van het beleid dat in de nota ‘Samenwerken aan bereikbaarheid’ is weergegeven. De centrale doelstelling in de goederennota is dat het goederenvervoer blijvend moet bijdragen aan de economische groei, zonder te veel belasting voor milieu en omgeving op te leveren. De in deze nota geformuleerde beleidsdoelen zijn: 
+– het in gang zetten van gezamenlijke promotie en pre-selling   Door deze thema’s centraal te stellen, moet het goederenvervoer zijn prominente positie binnen het internationale beleid minstens behouden. Eind 1988 wordt de Tweede Structuurschema Verkeer en Vervoer gepresenteerd. Het SVV bevat het te volgen beleidsvoornemen tot het jaar 2010. Wat betreft het goederenvervoer wordt de prioriteit gelegd op het hoofdwegennet door het aanwijzen van onder andere hoofdtransportassen en het vergroten van de bereikbaarheid van economisch belangrijke centra. Daarnaast wordt het goederenvervoer over spoor en water aantrekkelijker gemaakt. Vanaf het begin van de jaren 90 groeit het goederenvervoer weer sterk. De nadruk van beleid komt te liggen op het versterken van de internationale concurrentiepositie en het verschuiven van transport van goederen in de richting van een milieuvriendelijker model en verbeterde toepassing van het goederenvervoer om de ruimtelijke kwaliteit te verbeteren. In 2005 moet het aandeel vervoer per spoor zijn verdubbeld (hiervoor wordt bijvoorbeeld de Betuweroute aangelegd) en moet project TRANSACTIE leiden tot een aanzienlijke reductie van de uitstoot van CO<sub>2</sub>. In 1996 is de prognose, dat het goederenvervoer ook de komende jaren fors zal blijven groeien. Om deze ontwikkeling in goede banen te leiden is een evenwichtig beleid uitgestippeld. Groei is mooi voor de economie, maar het milieu en de leefomgeving moeten zoveel mogelijk worden gespaard. Zo’n beleid is uiteengezet in de nota’s ‘Transport in Balans’ (TIB) en ‘Samen werken aan bereikbaarheid’ (SWAB). Beide nota’s zijn in 1996 aan de Tweede Kamer gepresenteerd. De nota ‘Transport in Balans’ uit 1996 is de uitwerking voor het goederenvervoer van het beleid dat in de nota ‘Samenwerken aan bereikbaarheid’ is weergegeven. De centrale doelstelling in de goederennota is dat het goederenvervoer blijvend moet bijdragen aan de economische groei, zonder te veel belasting voor milieu en omgeving op te leveren. De in deze nota geformuleerde beleidsdoelen zijn: 
 
 – Versterken van de concurrentiepositie van het duurzame goederenvervoer, met name rail, binnenvaart en kustvaart, onder meer door infrastructurele maatregelen  
 
@@ -173,7 +173,7 @@ Goederenvervoer is voor Nederland een belangrijke bron van inkomsten. De sector 
 
 – intermodale vervoer benaderen per corridor  
 
-– verruiming Verordening 1107/70 voor het afdekken van aanloopverliezen voor shuttleverbindingen   De rijksoverheid wil een efficiënt en slim goederenvervoer en bevordert om die reden de innovatie van vervoersystemen en -concepten: innovaties in de technologie van vracht- en bestelwagens, schepen en treinen, innovaties in de infrastructuur en innovaties in logistieke concepten. Van deze innovaties, gestimuleerd door ontwikkelingen in de informatie- en communicatietechnologie en telematica, wordt een gunstige invloed verwacht, zowel op de efficiency van het goederenvervoer, als op de veiligheid en duurzaamheid. Het rijk heeft om deze ontwikkelingen te bevorderen eigen innovatieprogramma’s en ondersteunt of participeert in onderzoeksinstellingen voor verkeer en vervoer. Innovatieve ontwikkelingen worden ook gestimuleerd door het uitvoeren van internationale afspraken en het formuleren van gewenste eindresultaten, bijvoorbeeld ten behoeve van de veiligheid of het milieu. Het streven is om een brede stimuleringsregeling op te zetten voor innovaties van voertuigen, systemen en logistieke concepten in het goederenvervoer. Deze stimuleringsregeling zal dan alle bestaande ad-hoc regelingen vervangen. Voor detailinformatie kan het RIO worden geraadpleegd. Daarin wordt aan het begin van elk hoofdstuk over de verschillende modaliteiten en deelbeleidsterreinen een overzicht gegeven van het verloop van de doelstellingen en ontwikkelingen.  
+– verruiming Verordening 1107/70 voor het afdekken van aanloopverliezen voor shuttleverbindingen   De rijksoverheid wil een efficiënt en slim goederenvervoer en bevordert om die reden de innovatie van vervoersystemen en -concepten: innovaties in de technologie van vracht- en bestelwagens, schepen en treinen, innovaties in de infrastructuur en innovaties in logistieke concepten. Van deze innovaties, gestimuleerd door ontwikkelingen in de informatie- en communicatietechnologie en telematica, wordt een gunstige invloed verwacht, zowel op de efficiency van het goederenvervoer, als op de veiligheid en duurzaamheid. Het rijk heeft om deze ontwikkelingen te bevorderen eigen innovatieprogramma’s en ondersteunt of participeert in onderzoeksinstellingen voor verkeer en vervoer. Innovatieve ontwikkelingen worden ook gestimuleerd door het uitvoeren van internationale afspraken en het formuleren van gewenste eindresultaten, bijvoorbeeld ten behoeve van de veiligheid of het milieu. Het streven is om een brede stimuleringsregeling op te zetten voor innovaties van voertuigen, systemen en logistieke concepten in het goederenvervoer. Deze stimuleringsregeling zal dan alle bestaande ad-hoc regelingen vervangen. Voor detailinformatie kan het RIO worden geraadpleegd. Daarin wordt aan het begin van elk hoofdstuk over de verschillende modaliteiten en deelbeleidsterreinen een overzicht gegeven van het verloop van de doelstellingen en ontwikkelingen. 
 
 ### 1.5  
 
@@ -253,13 +253,13 @@ Goederenvervoer is voor Nederland een belangrijke bron van inkomsten. De sector 
 
 – Minister van Onderwijs, Cultuur en Wetenschap (1945–);  
 
-– College van beroep voor het bedrijfsleven (1984–1992).    
+– College van beroep voor het bedrijfsleven (1984–1992).   
 
 ### 2  
 
 ####Doelstelling van de selectie
 
-De doelstelling van het Nationaal Archief bij de selectie van overheidsarchieven is dat de belangrijkste bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de rijksoverheid ten opzichte van haar omgeving, maar ook van de belangrijkste historisch-maatschappelijke gebeurtenissen en ontwikkelingen, voor zover deze zijn te reconstrueren uit overheidsarchieven. Deze selectiedoelstelling wordt in het BSD toegepast op het betreffende beleidsterrein.  
+De doelstelling van het Nationaal Archief bij de selectie van overheidsarchieven is dat de belangrijkste bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de rijksoverheid ten opzichte van haar omgeving, maar ook van de belangrijkste historisch-maatschappelijke gebeurtenissen en ontwikkelingen, voor zover deze zijn te reconstrueren uit overheidsarchieven. Deze selectiedoelstelling wordt in het BSD toegepast op het betreffende beleidsterrein. 
 
 ### 3  
 
@@ -271,10 +271,10 @@ Om de selectiedoelstelling te bereiken worden de handelingen in het BSD gewaarde
 
 ###Handelingen die worden gewaardeerd met B (Bewaren)
 
-1. Handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieronder valt ook het toetsen van en het toezien op beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op verantwoording van beleid op hoofdlijnen aan andere actoren *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten *Toelichting:* Bijvoorbeeld in het geval de Ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. 
+1. Handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieronder valt ook het toetsen van en het toezien op beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op verantwoording van beleid op hoofdlijnen aan andere actoren  *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt  *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten  *Toelichting:* Bijvoorbeeld in het geval de Ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. 
 ###Uitzonderingscriteria
 
-Naast de algemene criteria kunnen door de zorgdrager(s) en het Nationaal Archief, eveneens binnen het kader van de selectiedoelstelling, gezamenlijk beleidsterrein-specifieke criteria worden geformuleerd. Deze criteria worden doorlopend genummerd, waarbij wordt aangesloten bij de zes algemene criteria (dus vanaf 7). Conform het [Archiefbesluit 1995, art. 5, onder d 1°](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) worden in het BSD de algemene criteria en eventuele beleidsterrein-specifieke criteria opgesomd om verantwoording te geven van de wijze waarop toepassing is gegeven aan het selectiebeleid. Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd.  
+Naast de algemene criteria kunnen door de zorgdrager(s) en het Nationaal Archief, eveneens binnen het kader van de selectiedoelstelling, gezamenlijk beleidsterrein-specifieke criteria worden geformuleerd. Deze criteria worden doorlopend genummerd, waarbij wordt aangesloten bij de zes algemene criteria (dus vanaf 7). Conform het [Archiefbesluit 1995, art. 5, onder d 1°](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) worden in het BSD de algemene criteria en eventuele beleidsterrein-specifieke criteria opgesomd om verantwoording te geven van de wijze waarop toepassing is gegeven aan het selectiebeleid. Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. 
 
 ### 4  
 
@@ -292,7 +292,7 @@ In de selectielijst zijn de handelingen uit het rapport Goed vervoerd geordend p
 
 – wijzigingen in de grondslag en het vervallen hiervan;  
 
-– het betreffende artikel en lid daarvan.    *Bijvoorbeeld:*  [Subsidieregeling milieu- en energie-efficiency in het goederenvervoer](../../../../../../../../../ministeriele-regeling/subsidieregeling/milieu-/en/energie-efficiency/in/het/goederenvervoer/2002/BWBR0013040/README.md) (SMEG) 1996 Stcrt. 206, art. 2 Uitvoeringsbesluit Autovervoer Goederen (UAG) 1954, Stb. 6, sedertdien gewijzigd, ingetrokken 1988, Stb. 209 en vervangen door UAG 1988, Stb. 209, sedertdien gewijzigd en ingetrokken 1992 en Richtlijnen Goederenvervoer 1954, Stb. 24, ingetrokken 1988, Stb. 209 NB: Met *vindplaats* wordt de vermelding in het staatsblad of staatscourant bedoeld. Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de bron (interne regelgeving, beleidsnota’s) worden genoemd waarin de betreffende handeling staat vermeld. Product: Hier achter staat het product vermeld waarin de handeling resulteert of zou moeten resulteren. Opsommingen geven een indicatie van de producten en zijn niet altijd uitputtend. Vaak wordt volstaan met een algemeen omschreven eindproduct. Opmerking: Deze aanvullende informatie wordt slechts vermeld wanneer (een onderdeel van) het handelingenblok toelichting behoeft. Waardering: Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn, zonodig aangevuld met een bewerkingsinstructie, bijvoorbeeld: ‘v 5 jaar na voltooiing project’. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering.  
+– het betreffende artikel en lid daarvan.    *Bijvoorbeeld:*  [Subsidieregeling milieu- en energie-efficiency in het goederenvervoer](../../../../../../../../../ministeriele-regeling/subsidieregeling/milieu-/en/energie-efficiency/in/het/goederenvervoer/2002/BWBR0013040/README.md) (SMEG) 1996 Stcrt. 206, art. 2 Uitvoeringsbesluit Autovervoer Goederen (UAG) 1954, Stb. 6, sedertdien gewijzigd, ingetrokken 1988, Stb. 209 en vervangen door UAG 1988, Stb. 209, sedertdien gewijzigd en ingetrokken 1992 en Richtlijnen Goederenvervoer 1954, Stb. 24, ingetrokken 1988, Stb. 209 NB: Met *vindplaats* wordt de vermelding in het staatsblad of staatscourant bedoeld.  Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de bron (interne regelgeving, beleidsnota’s) worden genoemd waarin de betreffende handeling staat vermeld. Product: Hier achter staat het product vermeld waarin de handeling resulteert of zou moeten resulteren. Opsommingen geven een indicatie van de producten en zijn niet altijd uitputtend. Vaak wordt volstaan met een algemeen omschreven eindproduct. Opmerking: Deze aanvullende informatie wordt slechts vermeld wanneer (een onderdeel van) het handelingenblok toelichting behoeft. Waardering: Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn, zonodig aangevuld met een bewerkingsinstructie, bijvoorbeeld: ‘v 5 jaar na voltooiing project’. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering. 
 
 ### 5  
 
@@ -310,7 +310,7 @@ Dit hoofdstuk geeft een overzicht van de actoren die op het beleidsterrein goede
 
 ###Minister van Verkeer en Waterstaat (1945–)
 
-Onder verantwoordelijkheid van de Minister van Verkeer en Energie wordt in 1946 het nieuwe Directoraat-Generaal van het Verkeer (DGV) belast met de zorg voor het vervoer. Het Ministerie krijgt, na nog even als Ministerie voor het Verkeer door het leven te zijn gegaan, bij KB van 18 februari 1947 zijn huidige naam: Ministerie van Verkeer en Waterstaat. Binnen DGV is de Afdeling Vervoersdiensten, vanaf 1951 Directie van het Verkeer geheten, de uitvoerende directie. Deze directie wordt in 1975 opgesplitst in een Directie Goederenvervoer en een Directie Personenvervoer. De uitvoering van taken op het terrein van het goederenvervoer berust binnen het Ministerie bij verschillende uitvoerende diensten. De Rijksverkeersinspectie (RVI) is ingesteld in 1936 (Stb. 573). De ambtenaren van deze inspectie hebben opsporingsbevoegdheid inzake strafbare feiten uit de vervoerswetgevingen. Naast deze strafrechtelijke handhavingstaak is de RVI sinds 1945 belast met tal van uitvoerende taken waaronder het beheer van schippersbeurzen. De Directeur-Generaal/Inspecteur-Generaal van het Verkeer staat aan het hoofd van de Rijksverkeersinspectie. De Directeur-/Inspecteur-Generaal is belast met verschillende taken op het gebied van vergunningsverlening en inschrijving, zoals tijdelijke vergunningsverlening in bijzondere gevallen. De Rijks(hoofd)inspecteur van het Verkeer is het hoofd van een district van de Rijksverkeersinspectie volgens de voor het goederenvervoer geldende districtsindeling. Het begin van het Korps Controleurs Gevaarlijke Stoffen (KCGS) ligt in het KB van 1 juni 1886 (Stb. 39). De aanvankelijke naam is Korps Geleiders Ontplofbare Stoffen. In feite is dit ook de belangrijkste taak tot 1957. Door het in werking treden van het Reglement Vervoer Benzine wordt meer aandacht besteed aan het vervoer van licht ontvlambare stoffen. Per 1 januari 1962 krijgt het korps de naam KCGS. In de jaren zeventig wordt de taak steeds meer uitgebreid. In 1992 wordt het korps geïncorporeerd in de Rijksverkeersinspectie. De Scheepvaartinspectie houdt zich bezig met de handhaving van de regelgeving met betrekking tot veiligheid en milieuvriendelijkheid van de scheepvaart en toezicht op arbeids- en leefomstandigheden van bemanningen. De Rijksdienst voor het Wegverkeer (RDW) is belast met de registratie van voertuigen, zoals de uitgifte van rijbewijzen en het keuren of laten keuren van voertuigen of onderdelen van voertuigen en de daarmee samenhangende uitgifte van keuringscertificaten. Sinds 1 juli 1996 is de RDW een zelfstandig bestuursorgaan (Zie hiervoor: De heilige koe geboekstaafd. Een institutioneel onderzoek naar het handelen van de Rijksdienst voor het Wegverkeer, 1951–1994, PIVOT rapport 18, Den Haag 1994; Het blik waardig keuren. Een institutioneel onderzoek naar het takenpakket van de RDW Centrum voor voertuigtechniek en informatie, 1996–, Zoetermeer/Leidschendam 1998.  
+Onder verantwoordelijkheid van de Minister van Verkeer en Energie wordt in 1946 het nieuwe Directoraat-Generaal van het Verkeer (DGV) belast met de zorg voor het vervoer. Het Ministerie krijgt, na nog even als Ministerie voor het Verkeer door het leven te zijn gegaan, bij KB van 18 februari 1947 zijn huidige naam: Ministerie van Verkeer en Waterstaat. Binnen DGV is de Afdeling Vervoersdiensten, vanaf 1951 Directie van het Verkeer geheten, de uitvoerende directie. Deze directie wordt in 1975 opgesplitst in een Directie Goederenvervoer en een Directie Personenvervoer. De uitvoering van taken op het terrein van het goederenvervoer berust binnen het Ministerie bij verschillende uitvoerende diensten. De Rijksverkeersinspectie (RVI) is ingesteld in 1936 (Stb. 573). De ambtenaren van deze inspectie hebben opsporingsbevoegdheid inzake strafbare feiten uit de vervoerswetgevingen. Naast deze strafrechtelijke handhavingstaak is de RVI sinds 1945 belast met tal van uitvoerende taken waaronder het beheer van schippersbeurzen. De Directeur-Generaal/Inspecteur-Generaal van het Verkeer staat aan het hoofd van de Rijksverkeersinspectie. De Directeur-/Inspecteur-Generaal is belast met verschillende taken op het gebied van vergunningsverlening en inschrijving, zoals tijdelijke vergunningsverlening in bijzondere gevallen. De Rijks(hoofd)inspecteur van het Verkeer is het hoofd van een district van de Rijksverkeersinspectie volgens de voor het goederenvervoer geldende districtsindeling. Het begin van het Korps Controleurs Gevaarlijke Stoffen (KCGS) ligt in het KB van 1 juni 1886 (Stb. 39). De aanvankelijke naam is Korps Geleiders Ontplofbare Stoffen. In feite is dit ook de belangrijkste taak tot 1957. Door het in werking treden van het Reglement Vervoer Benzine wordt meer aandacht besteed aan het vervoer van licht ontvlambare stoffen. Per 1 januari 1962 krijgt het korps de naam KCGS. In de jaren zeventig wordt de taak steeds meer uitgebreid. In 1992 wordt het korps geïncorporeerd in de Rijksverkeersinspectie. De Scheepvaartinspectie houdt zich bezig met de handhaving van de regelgeving met betrekking tot veiligheid en milieuvriendelijkheid van de scheepvaart en toezicht op arbeids- en leefomstandigheden van bemanningen. De Rijksdienst voor het Wegverkeer (RDW) is belast met de registratie van voertuigen, zoals de uitgifte van rijbewijzen en het keuren of laten keuren van voertuigen of onderdelen van voertuigen en de daarmee samenhangende uitgifte van keuringscertificaten. Sinds 1 juli 1996 is de RDW een zelfstandig bestuursorgaan (Zie hiervoor: De heilige koe geboekstaafd. Een institutioneel onderzoek naar het handelen van de Rijksdienst voor het Wegverkeer, 1951–1994, PIVOT rapport 18, Den Haag 1994; Het blik waardig keuren. Een institutioneel onderzoek naar het takenpakket van de RDW Centrum voor voertuigtechniek en informatie, 1996–, Zoetermeer/Leidschendam 1998. 
 
 ### 5.1.2  
 
@@ -359,7 +359,7 @@ De bevrachtingscommissie is ingesteld bij beschikking van 8 februari 1954 (Stcr
 – alle overige vraagstukken op het gebied van de bevrachting in het ongeregeld goederenvervoer te water.   
 ###Centraal advieslichaam voor het vervoer van gevaarlijke stoffen (1963–1995)
 
-Dit advieslichaam, ingesteld bij de WGS 1963 (Stb. 313) is een niet zelfstandig conglomeraat van drie rechtstreeks adviserende commissies: *Vaste Coördinatiecommissie*. De commissie heeft als taak de Minister te adviseren inzake de coördinatie van aangelegenheden betreffende het vervoer van gevaarlijke stoffen *Vaste Commissie voor Vervoersaangelegenheden*. Deze commissie heeft als taak de Minister te adviseren inzake belangenkwesties betreffende het vervoer van gevaarlijke stoffen *Vaste Commissie Juridische Aangelegenheden*. Deze commissie heeft als taak de Minister te adviseren inzake juridische aangelegenheden betreffende het vervoer van gevaarlijke stoffen Eventueel kunnen andere commissies worden toegevoegd, hetzij voor het vervoer van gevaarlijke stoffen of groepen van zodanige stoffen. Het Centraal advieslichaam heeft als taak het in onderling overleg van de commissies adviseren op het gebied van het vervoer van gevaarlijke stoffen 
+Dit advieslichaam, ingesteld bij de WGS 1963 (Stb. 313) is een niet zelfstandig conglomeraat van drie rechtstreeks adviserende commissies:  *Vaste Coördinatiecommissie*. De commissie heeft als taak de Minister te adviseren inzake de coördinatie van aangelegenheden betreffende het vervoer van gevaarlijke stoffen  *Vaste Commissie voor Vervoersaangelegenheden*. Deze commissie heeft als taak de Minister te adviseren inzake belangenkwesties betreffende het vervoer van gevaarlijke stoffen  *Vaste Commissie Juridische Aangelegenheden*. Deze commissie heeft als taak de Minister te adviseren inzake juridische aangelegenheden betreffende het vervoer van gevaarlijke stoffen Eventueel kunnen andere commissies worden toegevoegd, hetzij voor het vervoer van gevaarlijke stoffen of groepen van zodanige stoffen. Het Centraal advieslichaam heeft als taak het in onderling overleg van de commissies adviseren op het gebied van het vervoer van gevaarlijke stoffen 
 ###College van advies inzake de naleving van arbeidsvoorwaarden in het beroepsgoederenvervoer (1977–1992)
 
 Dit college, ingesteld bij de WAG 1951, zoals gewijzigd bij wet van 8 juni 1977 (Stb. 354) heeft tot 1992 tot taak het onderzoeken van klachten van belanghebbenden m.b.t. de nakoming van arbeidsvoorwaarden door de ondernemer en het adviseren hierover aan de CVW. 
@@ -428,7 +428,7 @@ Ingevolge de WAG 1951 en UAG 1954 is een tuchtcollege voor het grensoverschrijde
 Deze commissie wordt ingesteld bij KB van 29 september 1992 (Stb. 503). Ze is verantwoordelijk voor het voorbereiden van adviezen van de Raad voor Verkeer en Waterstaat die betrekking hebben op het beleid inzake het vervoer van goederen. 
 ###Voorlopige Raad voor het Vervoer (1987–1992)
 
-De Voorlopige Raad voor het Vervoer, ingesteld bij Besluit van 2 januari 1987 (Stb. 26) fungeerde van 1987 tot 1991 als voorloper van de Raad voor Verkeer en Waterstaat. Deze voorlopige raad had tot taak het adviseren van de Minister over het beleid inzake het vervoer, het adviseren van de Tweede Kamer inzake initiatiefvoorstellen van wet en de Voorlopige Raad voor Verkeer en Waterstaat inzake de herziening van de adviesstructuur, en het coördineren van adviezen van andere adviescommissies op dit terrein.  
+De Voorlopige Raad voor het Vervoer, ingesteld bij Besluit van 2 januari 1987 (Stb. 26) fungeerde van 1987 tot 1991 als voorloper van de Raad voor Verkeer en Waterstaat. Deze voorlopige raad had tot taak het adviseren van de Minister over het beleid inzake het vervoer, het adviseren van de Tweede Kamer inzake initiatiefvoorstellen van wet en de Voorlopige Raad voor Verkeer en Waterstaat inzake de herziening van de adviesstructuur, en het coördineren van adviezen van andere adviescommissies op dit terrein. 
 
 ### 5.1.3  
 
@@ -469,7 +469,7 @@ Bij bezwaren tegen beschikkingen op bepaalde wetten konden deze aanhangig worden
 Bij dit college kan sinds 1983 tegen beschikkingen genomen op grond van de WGB of de daarop rustende bepalingen, door degene, die rechtstreeks in zijn belang wordt getroffen, beroep worden ingesteld. Het CBB wordt als enige beroepsinstantie tegen beschikkingen aangewezen. 
 ###Sociaal-Economische Raad (SER)
 
-Door de SER is, bij besluit van 25 juni 1971, de commissie Vervoersvraagstukken ingesteld. Hierin hebben vertegenwoordigers van de belangenorganisaties van de verschillende vervoerstakken, een aantal onafhankelijke leden en een viertal ambtelijke vertegenwoordigers zitting. De commissie heeft tot taak het zelfstandig adviseren, of het voorbereiden van adviezen van de SER inzake vervoersvraagstukken, in het bijzonder van internationale aard. De commissie heeft zich in toenemende mate gespecialiseerd in adviezen over EG-richtlijnen en -verordeningen en over rapporten over het (goederen)vervoer die door de EG zijn uitgebracht. De SER beschikt over een eigen selectielijst (Stcrt. 1999, 216), gebaseerd op RIO 58.  
+Door de SER is, bij besluit van 25 juni 1971, de commissie Vervoersvraagstukken ingesteld. Hierin hebben vertegenwoordigers van de belangenorganisaties van de verschillende vervoerstakken, een aantal onafhankelijke leden en een viertal ambtelijke vertegenwoordigers zitting. De commissie heeft tot taak het zelfstandig adviseren, of het voorbereiden van adviezen van de SER inzake vervoersvraagstukken, in het bijzonder van internationale aard. De commissie heeft zich in toenemende mate gespecialiseerd in adviezen over EG-richtlijnen en -verordeningen en over rapporten over het (goederen)vervoer die door de EG zijn uitgebracht. De SER beschikt over een eigen selectielijst (Stcrt. 1999, 216), gebaseerd op RIO 58. 
 
 ### 5.2  
 
@@ -526,7 +526,7 @@ CNV BedrijvenBond is de grootste CNV bond en vertegenwoordigt werknemers in onde
 De FNV bestaat uit 16 zelfstandige vakbonden, die werkzaam zijn in bijna alle sectoren van onze maatschappij. Zij werken samen binnen de overkoepelende vakcentrale. 
 ###Wegvervoer CVO
 
-Na NOB Wegtransport is Wegvervoer Christelijke Vervoerders Organisatie de tweede werkgeversorganisatie in het beroepsgoederenvervoer over de weg.  
+Na NOB Wegtransport is Wegvervoer Christelijke Vervoerders Organisatie de tweede werkgeversorganisatie in het beroepsgoederenvervoer over de weg. 
 
 ### 6  
 
@@ -619,7 +619,7 @@ Handeling: Het afgeven van vakbekwaamheidcertificaten Periode: 1945– Opmerking
 Handeling: Het opstellen van eisen voor opleidingen en het (laten) verzorgen van opleidingen Periode: 1945– Waardering: B 5: eisen V 10 jaar: rest 
 ###(847)
 
-Handeling: het onderzoeken van conflicten/arbeidsonrust op het beleidsterrein goederenvervoer Periode: 1945– Waardering: B5  
+Handeling: het onderzoeken van conflicten/arbeidsonrust op het beleidsterrein goederenvervoer Periode: 1945– Waardering: B5 
 
 ### 6.1.1.1.2  
 
@@ -669,7 +669,7 @@ Handeling: Het voorbereiden van de totstandkoming, wijziging, evaluatie en intre
 Handeling: Het verstrekken van informatie aan de Commissies voor de Verzoekschriften van de Staten Generaal, aan overige kamercommissies en aan de Nationale Ombudsman naar aanleiding van klachten van burgers inzake het vervoer van goederen. Periode: 1945– Product: brieven, notities Bron: – Waardering: B 3 
 ###(15)
 
-Handeling: Het beslissen op beroepsschriften naar aanleiding van beschikkingen inzake het vervoer van goederen en het voeren van verweer in beroepsschriftenprocedures voor de Raad van State en/of kantonrechter. Periode: 1945– Product: brieven, notities Bron: – Waardering: V 10 jaar  
+Handeling: Het beslissen op beroepsschriften naar aanleiding van beschikkingen inzake het vervoer van goederen en het voeren van verweer in beroepsschriftenprocedures voor de Raad van State en/of kantonrechter. Periode: 1945– Product: brieven, notities Bron: – Waardering: V 10 jaar 
 
 ### 6.1.1.1.3  
 
@@ -719,7 +719,7 @@ Handeling: Het opstellen en inbrengen van Nederlandse standpunten en bijdragen i
 Handeling: Het coördineren van bilaterale en multilaterale betrekkingen op het gebied van het goederenvervoer. Periode: 1945– Product: verslagen Bron: Waardering: B5 
 ###(30)
 
-Handeling: Het plegen van overleg met de overheden van (groepen) andere landen op het gebied van het vervoer van goederen. Periode: 1945– Product: Bron: Waardering: B1  
+Handeling: Het plegen van overleg met de overheden van (groepen) andere landen op het gebied van het vervoer van goederen. Periode: 1945– Product: Bron: Waardering: B1 
 
 ### 6.1.1.2  
 
@@ -734,7 +734,7 @@ Handeling: Het plegen van overleg met de overheden van (groepen) andere landen o
 Handeling: Het instellen van een Adviescollege Demonstratieprogramma/Regeling telematicatoepassingen in het goederenvervoer over weg, rail en water. Periode: 1992 Product: Bron: Regeling Telematicatoepassingen in het goederenvervoer over weg, rail of water 1995 Stcrt. 105, art. 2; en: Instellingsregeling adviescollege regeling telematicatoepassingen in het goederenvervoer over weg, rail of water 1995 Stcrt. 186 Waardering: V 10 jaar 
 ###(38)
 
-Handeling: Het benoemen en ontslaan van de leden van het adviescollege Demonstratieprogramma/Regeling telematicatoepassingen. Periode: 1995–1996 Product: Bron: Instellingsregeling adviescollege regeling telematicatoepassingen in het goederenvervoer 1995 Stcrt. 186, art. 4 Waardering: V 10 jaar na ontslag  
+Handeling: Het benoemen en ontslaan van de leden van het adviescollege Demonstratieprogramma/Regeling telematicatoepassingen. Periode: 1995–1996 Product: Bron: Instellingsregeling adviescollege regeling telematicatoepassingen in het goederenvervoer 1995 Stcrt. 186, art. 4 Waardering: V 10 jaar na ontslag 
 
 ### 6.1.1.2.2  
 
@@ -751,7 +751,7 @@ Handeling: Het verlenen van financiële bijdragen aan de Vereniging Nederland Di
 Handeling: Het coördineren en aansturen van de Vereniging Nederland Distributieland. Periode: 1987– Product: Bron: Werkprogramma G 1996, p. 14 Waardering: B1 
 ###(43)
 
-Handeling: Het voorbereiden en coördineren van internationale projecten op het gebied van het vervoer van goederen. Periode: 1945– Product: verslagen, rapporten, bijdragen Bron: Waardering: B 5  
+Handeling: Het voorbereiden en coördineren van internationale projecten op het gebied van het vervoer van goederen. Periode: 1945– Product: verslagen, rapporten, bijdragen Bron: Waardering: B 5 
 
 ### 6.1.1.2.3  
 
@@ -780,7 +780,7 @@ Handeling: Het op verzoek in kennis stellen van de Hoge Autoriteit van de EGKS v
 Handeling: Het, samen met de Minister van Justitie, aanwijzen van ambtenaren, die belast zijn met de controle op de naleving van de voorschriften van de Wet vrachtprijzen vervoer van kolen en staal. Periode: 1966– Product: Ministeriële regeling Bron: Wet vrachtprijzen vervoer van kolen en staal 1963, Stb. 343, art. 5 Waardering: V 10 jaar na intrekking aanwijzing 
 ###(51)
 
-Handeling: Het uitoefenen van controle op de naleving van de voorschriften van de Wet vrachtprijzen vervoer van kolen en staal. Periode: 1966– Product: Bron: Wet vrachtprijzen vervoer van kolen en staal 1963, Stb. 343, art. 5 Waardering: V 5 jaar  
+Handeling: Het uitoefenen van controle op de naleving van de voorschriften van de Wet vrachtprijzen vervoer van kolen en staal. Periode: 1966– Product: Bron: Wet vrachtprijzen vervoer van kolen en staal 1963, Stb. 343, art. 5 Waardering: V 5 jaar 
 
 ### 6.1.1.2.4  
 
@@ -819,7 +819,7 @@ Handeling: Het sluiten van een contract met een uitvoeringsorganisatie betreffen
 Handeling: Het verlenen van of het afwijzen van een verzoek tot financiële bijdrage en het eventueel stellen van nadere voorwaarden in het kader van de Regeling Telematicatoepassingen in het goederenvervoer. Periode: 1995– Product: Beschikkingen Bron: Regeling Telematicatoepassingen in het goederenvervoer over weg, rails of water 1995 Stcrt. 105, art. 4 Waardering: V 10 jaar 
 ###(61)
 
-Handeling: Het ontwerpen en samenstellen van de standaardformulieren Telematica in Transport. Periode: 1995– Product: Bron: Regeling telematicatoepassingen in het goederenvervoer, art. 5 Waardering: V 5 jaar na wijziging  
+Handeling: Het ontwerpen en samenstellen van de standaardformulieren Telematica in Transport. Periode: 1995– Product: Bron: Regeling telematicatoepassingen in het goederenvervoer, art. 5 Waardering: V 5 jaar na wijziging 
 
 ### 6.1.1.2.5  
 
@@ -848,7 +848,7 @@ Handeling: Het samen met de Minister van Defensie voorbereiden van door de Minis
 Handeling: Het leveren van een bijdrage aan het opstellen van structuurschema’s, nationale plannen en andere planologische kernbeslissingen vanuit het goederenvervoerbeleid Periode: 1997– Product: bijdragen Waardering V 10 jaar 
 ###(844)
 
-Handeling: Het uitvoeren van de plannen van structuurschema’s, nationale plannen en andere planologische kernbeslissingen vanuit het goederenvervoerbeleid Periode: 1997– Product: Bijvoorbeeld de gespreksagenda goederenvervoer Bron: De betreffende structuurschema’s, nationale plannen en andere planologische kernbeslissingen Waardering B 1  
+Handeling: Het uitvoeren van de plannen van structuurschema’s, nationale plannen en andere planologische kernbeslissingen vanuit het goederenvervoerbeleid Periode: 1997– Product: Bijvoorbeeld de gespreksagenda goederenvervoer Bron: De betreffende structuurschema’s, nationale plannen en andere planologische kernbeslissingen Waardering B 1 
 
 ### 6.1.1.3  
 
@@ -869,7 +869,7 @@ Handeling: Het leveren van bijdragen aan de totstandkoming van het sectorale goe
 Handeling: Het leveren van bijdragen aan de totstandkoming van beleid op het gebied van verkeer en vervoer, in het bijzonder goederenvervoer over de weg, waar de Minister van Verkeer en Waterstaat niet eerst verantwoordelijk is. Periode: 1945– Product: Bron: – Waardering: B1 
 ###(73)
 
-Handeling: Het (laten) uitvoeren van (strategisch) onderzoek op het gebied van goederenvervoer over de weg. Periode: 1945– Product: Onderzoeksopdrachten en onderzoeksrapporten Bron: Werkprogramma Goederenvervoer 1996 Waardering: B 1  
+Handeling: Het (laten) uitvoeren van (strategisch) onderzoek op het gebied van goederenvervoer over de weg. Periode: 1945– Product: Onderzoeksopdrachten en onderzoeksrapporten Bron: Werkprogramma Goederenvervoer 1996 Waardering: B 1 
 
 ### 6.1.1.3.2  
 
@@ -889,7 +889,7 @@ Handeling: Het voorbereiden, vaststellen en evalueren van de (wijzigingen van de
 Handeling: Het op grond van de Wet goederenvervoer over de weg bij algemene maatregel van bestuur geven van voorschriften inzake het goederenvervoer over de weg. Periode: 1990– Product: Besluit goederenvervoer over de weg 1992, Stb. 197 Bron: Wet goederenvervoer over de weg van 12 maart 1992, Stb. 145 Waardering: B1 
 ###(78)
 
-Handeling: Het leveren van bijdragen aan de totstandkoming van (wijzigingen van de) regelgeving o.a. t.a.v. de rij-, rust- en diensttijden en t.a.v. fiscale harmonisatie binnen Europa. Periode: 1945– Product: Rij-, rust- en diensttijden: Bijdragen aan Rijtijdenwet, Stb. 1936, 802 en Rijtijdenbesluit, Stb. 1977, 547, laatstelijk gewijzigd bij besluit van 27 april 1992, Stb. 197, waarvoor Sociale Zaken en Werkgelegenheid eerst verantwoordelijk is. Fiscale harmonisatie wegvervoer: Eurovignet. Opmerking: ad 1. Momenteel wordt ter vervanging van bovengenoemde producten gewerkt aan een nieuw, gedereguleerd Rijtijdenbesluit, dat in de vorm van een amvb voor het vervoer aan de Arbeidstijdenwet wordt opgehangen. De betrokken Ministeries zijn naast V&W SZW, Justitie en EZ (opdrachtgever). Ad 2. Aan de invoering van het eurovignet in internationaal verband wordt gewerkt o.l.v. Financiën (zie paragraaf Internationaal). Bron: Inl. dhr. Ministeriële regeling. C.H. Fabius (G/Hoofdafdeling Wegvervoer), 30 juli 1996; V&W/DGV, Werkplan G-2 1996, p. 6–7 Waardering: B1  
+Handeling: Het leveren van bijdragen aan de totstandkoming van (wijzigingen van de) regelgeving o.a. t.a.v. de rij-, rust- en diensttijden en t.a.v. fiscale harmonisatie binnen Europa. Periode: 1945– Product: Rij-, rust- en diensttijden: Bijdragen aan Rijtijdenwet, Stb. 1936, 802 en Rijtijdenbesluit, Stb. 1977, 547, laatstelijk gewijzigd bij besluit van 27 april 1992, Stb. 197, waarvoor Sociale Zaken en Werkgelegenheid eerst verantwoordelijk is. Fiscale harmonisatie wegvervoer: Eurovignet. Opmerking: ad 1. Momenteel wordt ter vervanging van bovengenoemde producten gewerkt aan een nieuw, gedereguleerd Rijtijdenbesluit, dat in de vorm van een amvb voor het vervoer aan de Arbeidstijdenwet wordt opgehangen. De betrokken Ministeries zijn naast V&W SZW, Justitie en EZ (opdrachtgever). Ad 2. Aan de invoering van het eurovignet in internationaal verband wordt gewerkt o.l.v. Financiën (zie paragraaf Internationaal). Bron: Inl. dhr. Ministeriële regeling. C.H. Fabius (G/Hoofdafdeling Wegvervoer), 30 juli 1996; V&W/DGV, Werkplan G-2 1996, p. 6–7 Waardering: B1 
 
 ### 6.1.1.3.3  
 
@@ -906,7 +906,7 @@ Handeling: Het, gehoord de adviescommissie, benoemen, schorsen of ontslaan van d
 Handeling: Het goedkeuren van het reglement van orde, dat door de adviescommissie Goederenvervoer is vastgesteld. Periode: 1954–1992 Product: Bron: UAG 1954, art. 71; UAG 1988, art. 79 Waardering: V 5 jaar na wijziging 
 ###(845)
 
-Handeling: het voeren van (periodiek terugkerend) overleg met vertegenwoordigers uit de transportsector op het beleidsterrein goederenvervoer Periode: 1945– Bron: UAG 1954, art. 71; UAG 1988, art. 79 Waardering: B5: indien het secretariaat door het Ministerie van Verkeer en Waterstaat wordt gevoerd; V 10 jaar: indien het secretariaat niet door het Ministerie van Verkeer en Waterstaat wordt gevoerd.  
+Handeling: het voeren van (periodiek terugkerend) overleg met vertegenwoordigers uit de transportsector op het beleidsterrein goederenvervoer Periode: 1945– Bron: UAG 1954, art. 71; UAG 1988, art. 79 Waardering: B5: indien het secretariaat door het Ministerie van Verkeer en Waterstaat wordt gevoerd; V 10 jaar: indien het secretariaat niet door het Ministerie van Verkeer en Waterstaat wordt gevoerd. 
 
 ### 6.1.1.3.4  
 
@@ -1194,7 +1194,7 @@ Handeling: Het op aanvraag beschikbaar stellen van de verklaring van dienstbetre
 Handeling: Het op grond van de Wet en het Besluit goederenvervoer over de weg bij Ministeriële regeling vaststellen van nadere regels m.b.t. het verbod op het verrichten van beroepsvervoer zonder vrachtbrief. Periode: 1992– Product: – Regeling vrachtbrief (Stcrt. 1992, 85); – Regeling aanwijzing ambtenaren (Stcrt. 1992, 85, gewijzigd bij Ministeriële regeling Stcrt. 1992, 147). Bron: Bwg 1992, art. 104, eerste lid en art. 105, tweede lid; Bwg 1992, art. 105, derde lid Waardering: B5 
 ###(204)
 
-Handeling: Het op grond van de Wet en het Besluit goederenvervoer over de weg bij Ministeriële regeling vaststellen van nadere regels m.b.t. de vrijstelling van documenten in het beroeps- en eigen vervoer. Periode: 1992– Product: Regeling vrijstelling documenten (Stcrt. 1992, 85, gewijzigd bij Ministeriële regeling Stcrt. 1992, 234) Bron: Wgw 1992, art. 25, tweede lid, 26, tweede lid en Bwg 1992 art. 50, 58, 64, 92, derde lid en 98, derde lid Waardering: B5  
+Handeling: Het op grond van de Wet en het Besluit goederenvervoer over de weg bij Ministeriële regeling vaststellen van nadere regels m.b.t. de vrijstelling van documenten in het beroeps- en eigen vervoer. Periode: 1992– Product: Regeling vrijstelling documenten (Stcrt. 1992, 85, gewijzigd bij Ministeriële regeling Stcrt. 1992, 234) Bron: Wgw 1992, art. 25, tweede lid, 26, tweede lid en Bwg 1992 art. 50, 58, 64, 92, derde lid en 98, derde lid Waardering: B5 
 
 ### 6.1.1.3.5  
 
@@ -1241,7 +1241,7 @@ Handeling: Het aan de NOVEM uitbesteden van het beheer, m.u.v. de financiën, va
 Handeling: Het vanuit het belang van het goederenvervoer over de weg leveren van bijdragen m.b.t. de aanleg en benutting van wegen (MIT). Periode: 1945– Product: Bron: V&W/DGV, Werkplan G-2 1996 Waardering: B1 
 ###(236)
 
-Handeling: Het vanuit het belang van het goederenvervoer over de weg leveren van bijdragen m.b.t. de verkeersveiligheid. Periode: 1945– Product: bijvoorbeeld Plan van Aanpak Bron: V&W/DGV, Werkplan G-2 1996 Waardering: B1  
+Handeling: Het vanuit het belang van het goederenvervoer over de weg leveren van bijdragen m.b.t. de verkeersveiligheid. Periode: 1945– Product: bijvoorbeeld Plan van Aanpak Bron: V&W/DGV, Werkplan G-2 1996 Waardering: B1 
 
 ### 6.1.1.3.6  
 
@@ -1264,7 +1264,7 @@ Handeling: Het, gehoord de beroepscommissie, beslissen in een beroep, ingesteld 
 Handeling: Het eventueel bij dwangbevel invorderen van de kosten van het overbrengen van een in bewaring gestelde vrachtauto naar een aangewezen plaats bij de vergunninghouder die in overtreding is. Periode: 1992– Product: Beschikkingen Bron: Wgw 1992, art. 50, eerste lid Waardering: V 10 jaar 
 ###(249)
 
-Handeling: Het toelichten van het standpunt, dan wel het zich als belanghebbende verweren inzake beroep, ingesteld tegen een door de Minister genomen beschikking, betreffende het de NIWO of SIEV ontheffen van haar taken. Periode: 1992– Product: Ambtsberichten Bron: Wgw 1992, art. 42, eerste lid; Toelichting (B) Wgw, Kon. Vermande, p. 84; Wet administratieve rechtspraak overheidsbeschikkingen Waardering: V 5 jaar  
+Handeling: Het toelichten van het standpunt, dan wel het zich als belanghebbende verweren inzake beroep, ingesteld tegen een door de Minister genomen beschikking, betreffende het de NIWO of SIEV ontheffen van haar taken. Periode: 1992– Product: Ambtsberichten Bron: Wgw 1992, art. 42, eerste lid; Toelichting (B) Wgw, Kon. Vermande, p. 84; Wet administratieve rechtspraak overheidsbeschikkingen Waardering: V 5 jaar 
 
 ### 6.1.1.3.7  
 
@@ -1336,7 +1336,7 @@ Handeling: Het, op verzoek van de CVW of de NIWO, instellen van een nader onderz
 Handeling: Het voorbereiden van de Kroonbeslissing tot benoeming van de leden en het, gehoord het college, benoemen, schorsen en ontslaan van een secretaris van het Tuchtcollege voor het grensoverschrijdend vervoer. Periode: 1954–1992 Product: Bron: WAG 1951, art. 3; UAG 1954, art. 49; UAG 1988, art. 54 Waardering: V 10 jaar na einde benoeming 
 ###(272)
 
-Handeling: Het ambtshalve besluiten over de tijdelijke of blijvende wijziging (sinds 1988) en doorhaling van een inschrijving tot het verrichten van eigen vervoer. Periode: 1954–1992 Product: Beschikkingen Bron: WAG 1951, art. 11 en 49; WAG 1951, zoals gewijzigd bij wet van 11 december 1986, Stb. 735, art. 11 en 49; Beschikking overdracht inschrijving eigen vervoer; UAG 1988, art. 113; Waardering: V 5 jaar  
+Handeling: Het ambtshalve besluiten over de tijdelijke of blijvende wijziging (sinds 1988) en doorhaling van een inschrijving tot het verrichten van eigen vervoer. Periode: 1954–1992 Product: Beschikkingen Bron: WAG 1951, art. 11 en 49; WAG 1951, zoals gewijzigd bij wet van 11 december 1986, Stb. 735, art. 11 en 49; Beschikking overdracht inschrijving eigen vervoer; UAG 1988, art. 113; Waardering: V 5 jaar 
 
 ### 6.1.1.3.8  
 
@@ -1346,7 +1346,7 @@ Handeling: Het ambtshalve besluiten over de tijdelijke of blijvende wijziging (s
 
 ###(275)
 
-Handeling: Het opstellen en inbrengen van Nederlandse standpunten en bijdragen in de vergaderingen van de Werkgroep Verkeer en Vervoer van de Commissie van de EU, inzake goederenvervoer over de weg. Periode: 1957– Product: Bijdragen, afspraken, o.a. over EU-contingent Bron: EG- richtlijn 91/440 van 29 juli 1991 Waardering: B1 
+Handeling: Het opstellen en inbrengen van Nederlandse standpunten en bijdragen in de vergaderingen van de Werkgroep Verkeer en Vervoer van de Commissie van de EU, inzake goederenvervoer over de weg. Periode: 1957– Product: Bijdragen, afspraken, o.a. over EU-contingent Bron: EG-richtlijn 91/440 van 29 juli 1991 Waardering: B1 
 ###(276)
 
 Handeling: Het opstellen en inbrengen van Nederlandse bijdragen en standpunten in de vergaderingen van het Road Transport Committee, ter voorbereiding van resoluties van de Ministerraad van de CEMT, inzake goederenvervoer over de weg. Periode: 1953– Product: Afspraken inz. CEMT-contingent Bron: Directieplan Goederenvervoer 1997–2001 Waardering: B1 
@@ -1369,7 +1369,7 @@ Handeling: Het opstellen en inbrengen van Nederlandse standpunten en bijdragen i
 
 ###(282)
 
-Handeling: Het voorbereiden, voeren en evalueren van overleg, en het sluiten van een overeenkomst met een Minister van Verkeer van een (buur-) land, inzake goederenvervoer over de weg. Periode: 1945– Product: Jaarplanningen, verdragen, instructies, verslagen en protocollen Bron: V&W/DGV, Werkplan G-2 1996, p. 9–10; Inl. dhr. Ministeriële regeling. C.H. Fabius (G/Hoofdafdeling Wegvervoer), 30 juli 1996 Waardering: B1  
+Handeling: Het voorbereiden, voeren en evalueren van overleg, en het sluiten van een overeenkomst met een Minister van Verkeer van een (buur-) land, inzake goederenvervoer over de weg. Periode: 1945– Product: Jaarplanningen, verdragen, instructies, verslagen en protocollen Bron: V&W/DGV, Werkplan G-2 1996, p. 9–10; Inl. dhr. Ministeriële regeling. C.H. Fabius (G/Hoofdafdeling Wegvervoer), 30 juli 1996 Waardering: B1 
 
 ### 6.1.1.4  
 
@@ -1393,7 +1393,7 @@ Handeling: Het leveren van bijdragen aan de totstandkoming van beleid op het geb
 Handeling: Het (laten) uitvoeren van (strategisch) onderzoek op het gebied van vervoer van goederen met binnenschepen. Periode: 1945– Product: Onderzoeksopdrachten en onderzoeken Bron: V&W/DGV, Werkprogramma Goederenvervoer 1996 Waardering: B 1 
 ###(292)
 
-Handeling: Het opzetten en onderhouden van het Beleidsinformatiesysteem Binnenvaart (BISB). Periode: 1990– Product: Bron: V&W, De Binnenscheepvaart 1993, p. 28 Waardering: B5  
+Handeling: Het opzetten en onderhouden van het Beleidsinformatiesysteem Binnenvaart (BISB). Periode: 1990– Product: Bron: V&W, De Binnenscheepvaart 1993, p. 28 Waardering: B5 
 
 ### 6.1.1.4.2  
 
@@ -1435,7 +1435,7 @@ Handeling: Het op grond van de Tijdelijke wet vrachtverdeling Noord-zuid-vervoer
 
 ###(302)
 
-Handeling: Het leveren van bijdragen aan de totstandkoming van (wijzigingen van de) regelgeving m.b.t. de arbeidsomstandigheden in de binnenvaart Periode: 1945– Product: Bv. Wet vaartijden en bemanningssterkte binnenvaart (Stb. 1993, 368) en bijbehorend besluit (Stb. 1994, 897) Opmerking: De Minister van Sociale Zaken en Werkgelegenheid is eerste ondertekenaar van bovengenoemde wet; op basis van haar expertise heeft DGV een belangrijke bijdrage geleverd aan de totstandkoming van dit gezamenlijke product. Bron: Inl. dhr. drs. H. Meintjes (G/Binnenvaart), 4 september 1997 Waardering: B1  
+Handeling: Het leveren van bijdragen aan de totstandkoming van (wijzigingen van de) regelgeving m.b.t. de arbeidsomstandigheden in de binnenvaart Periode: 1945– Product: Bv. Wet vaartijden en bemanningssterkte binnenvaart (Stb. 1993, 368) en bijbehorend besluit (Stb. 1994, 897) Opmerking: De Minister van Sociale Zaken en Werkgelegenheid is eerste ondertekenaar van bovengenoemde wet; op basis van haar expertise heeft DGV een belangrijke bijdrage geleverd aan de totstandkoming van dit gezamenlijke product. Bron: Inl. dhr. drs. H. Meintjes (G/Binnenvaart), 4 september 1997 Waardering: B1 
 
 ### 6.1.1.4.3  
 
@@ -1645,7 +1645,7 @@ Handeling: Het op aanvraag verlenen van een inschrijving voor voortzetting van h
 Handeling: Het op aanvraag van een ingeschrevene afgeven, ambtshalve wijzigen, dan wel op aanvraag of ambtshalve doorhalen van een inschrijvingsbewijs voor gebruik in het binnenschip. Periode: 1992– Product: Inschrijvingsbewijs Bron: Wvb 1992, art. 46 en 47 Waardering: V 5 jaar 
 ###(383)
 
-Handeling: Het verlenen van tussenkomst bij het sluiten van een huurovereenkomst inzake de huur van een binnenschip voor het verrichten van eigen vervoer. Periode: 1992– Product: Huurovereenkomst Bron: Bvb 1992, art. 25 Waardering: V 5 jaar  
+Handeling: Het verlenen van tussenkomst bij het sluiten van een huurovereenkomst inzake de huur van een binnenschip voor het verrichten van eigen vervoer. Periode: 1992– Product: Huurovereenkomst Bron: Bvb 1992, art. 25 Waardering: V 5 jaar 
 
 ### 6.1.1.4.4  
 
@@ -1846,7 +1846,7 @@ Handeling: Het vaststellen van een toeslag voor die goederen die niet in de bijl
 Handeling: Het, gehoord de Bevrachtingscommissie, vaststellen van toeslagen en kortingen met betrekking tot extra vaar- en oponthoudskosten en kosten i.v.m. laden en lossen, en van compensatie voor overige extra kosten. Periode: 1993– Product: Bron: Tariefregeling goederenvervoer binnenvaart 1992, art. 9, vijfde lid; Tijdelijke tariefregeling Noord-Zuid-vervoer 1995, art. 8 Waardering: V 5 jaar na wijziging 
 ###(453)
 
-Handeling: Het, gehoord de Bevrachtingscommissie, vaststellen van bijzondere tarieven (o.a. meelaadtarieven en tarieven voor meerdere reizen), tarieven m.b.t. niet vrijgesteld vervoer en tarieven m.b.t. periodevervoer. Periode: 1993– Product: Diverse tariefregelingen, bv. Tarief meelaadregeling kolenvervoer Terneuzen Borsele, Tariefregeling binnenbeursgedeelte kolenvervoer elektriciteitscentrales, Regeling tarief periodevervoer van containers tussen Rotterdam en Born. Bron: Tariefregeling goederenvervoer binnenvaart 1992, art. 16, 17 en 33; Tijdelijke tariefregeling Noord-Zuid-vervoer 1995, art. 12 Waardering: V 5 jaar na wijziging  
+Handeling: Het, gehoord de Bevrachtingscommissie, vaststellen van bijzondere tarieven (o.a. meelaadtarieven en tarieven voor meerdere reizen), tarieven m.b.t. niet vrijgesteld vervoer en tarieven m.b.t. periodevervoer. Periode: 1993– Product: Diverse tariefregelingen, bv. Tarief meelaadregeling kolenvervoer Terneuzen Borsele, Tariefregeling binnenbeursgedeelte kolenvervoer elektriciteitscentrales, Regeling tarief periodevervoer van containers tussen Rotterdam en Born. Bron: Tariefregeling goederenvervoer binnenvaart 1992, art. 16, 17 en 33; Tijdelijke tariefregeling Noord-Zuid-vervoer 1995, art. 12 Waardering: V 5 jaar na wijziging 
 
 ### 6.1.1.4.5  
 
@@ -1930,7 +1930,7 @@ Handeling: Het aanwijzen van een organisatie werkzaam op het terrein van de binn
 
 ###(476)
 
-Handeling: Het op aanvraag al dan niet verstrekken van een uitkering aan een ondernemer terzake van het beëindigen van een onderneming. Periode: 1996–1998 Product: Bron: Bedrijfsbeëindigingsregeling binnenvaart 1995, art. 2–12 Waardering: V 10 jaar  
+Handeling: Het op aanvraag al dan niet verstrekken van een uitkering aan een ondernemer terzake van het beëindigen van een onderneming. Periode: 1996–1998 Product: Bron: Bedrijfsbeëindigingsregeling binnenvaart 1995, art. 2–12 Waardering: V 10 jaar 
 
 ### 6.1.1.4.6  
 
@@ -1997,7 +1997,7 @@ Handeling: Het, gehoord de betrokken instelling, beoordelen en beslissen over su
 Handeling: Het betaalbaar stellen en uitoefenen van (financieel) toezicht op de besteding van de rijksbijdragen ten behoeve van de schipperszorg. Periode: 1996– Product: Bron: Subsidieregeling schipperszorg binnenvaart 1996, art. 13 en 14 Waardering: V 10 jaar 
 ###(493)
 
-Handeling: Het evalueren van de subsidieregeling inzake doeltreffendheid en effecten. Periode: 1999 Product: Evaluatierapport Bron: Subsidieregeling schipperszorg binnenvaart 1996, art. 15 Waardering: B2  
+Handeling: Het evalueren van de subsidieregeling inzake doeltreffendheid en effecten. Periode: 1999 Product: Evaluatierapport Bron: Subsidieregeling schipperszorg binnenvaart 1996, art. 15 Waardering: B2 
 
 ### 6.1.1.4.7  
 
@@ -2027,7 +2027,7 @@ Handeling: Het, gehoord de indiener en de commissie, beslissen op een bezwaarsch
 Handeling: Het beschikken op een bezwaarschrift ingediend tegen een besluit van de Minister dat op grond van de WSSB, Wvb of Tijdelijke wet vrachtverdeling Noord-Zuid-vervoer is genomen. Periode: 1994– Product: Beschikking Bron: RVI Jaarverslag 1994, p. 30; WSSB 1990; Wvb 1992; TWNZ 1995 Waardering: V 5 jaar 
 ###(503)
 
-Handeling: Het al dan niet verstrekken van inlichtingen en het zich verweren inzake een beroep, ingesteld tegen een op grond van de WSSB, Wvb of TWNZ genomen beschikking. Periode: 1990– Product: Verweerschrift, conclusie van dupliek, verzoekschrift e.d Bron: Wet administratieve rechtspraak bedrijfsorganisatie 1954, Stb. 416, diverse art., gewijzigd bij wet van 16 december 1993, o.a. de citeertitel in Wet bestuursrechtspraak bedrijfsorganisatie Waardering: V 5 jaar  
+Handeling: Het al dan niet verstrekken van inlichtingen en het zich verweren inzake een beroep, ingesteld tegen een op grond van de WSSB, Wvb of TWNZ genomen beschikking. Periode: 1990– Product: Verweerschrift, conclusie van dupliek, verzoekschrift e.d Bron: Wet administratieve rechtspraak bedrijfsorganisatie 1954, Stb. 416, diverse art., gewijzigd bij wet van 16 december 1993, o.a. de citeertitel in Wet bestuursrechtspraak bedrijfsorganisatie Waardering: V 5 jaar 
 
 ### 6.1.1.4.8  
 
@@ -2078,7 +2078,7 @@ Handeling: Het eventueel uitsluiten van een binnenschip voor een bepaalde period
 Handeling: Het, gehoord de betreffende scheepsbevrachter, uitsluiten van de scheepsbevrachter van het bemiddelen bij het totstandkomen van een vervoerovereenkomst, indien deze in strijd heeft gehandeld met de gestelde regels. Periode: 1993– Product: Bron: Vrachtverdelingsregeling 1992, art. 51 Waardering: V 5 jaar 
 ###(518)
 
-Handeling: Het verwijderen uit of de toegang ontzeggen tot plaatsen van tussenkomst en samenkomst van degene, die handelt in strijd met de door of vanwege de Minister gegeven aanwijzingen m.b.t. de handhaving van de orde en beperking van de hinder. Periode: 1993– Product: Bron: Vrachtverdelingsregeling 1992, art. 53-55; TWNZ 1995, art. 6, derde en vierde lid Waardering: V 5 jaar  
+Handeling: Het verwijderen uit of de toegang ontzeggen tot plaatsen van tussenkomst en samenkomst van degene, die handelt in strijd met de door of vanwege de Minister gegeven aanwijzingen m.b.t. de handhaving van de orde en beperking van de hinder. Periode: 1993– Product: Bron: Vrachtverdelingsregeling 1992, art. 53-55; TWNZ 1995, art. 6, derde en vierde lid Waardering: V 5 jaar 
 
 ### 6.1.1.4.9  
 
@@ -2092,7 +2092,7 @@ Handeling: Het, in samenwerking met de andere Rijnvaart-commissarissen, opstelle
 Handeling: Het opstellen en inbrengen van Nederlandse standpunten en bijdragen in de vergaderingen van de comités en werkgroepen van de Centrale Commissie voor de Rijnvaart, met betrekking tot de sociaal-economische aspecten van de Rijnvaart. Periode: 1945– Product: Bron: PIVOT-rapport Waterstaat, p. 224 Waardering: B1 
 ###(521)
 
-Handeling: Het opstellen en inbrengen van Nederlandse standpunten en bijdragen in de vergaderingen van de Werkgroep Verkeer en Vervoer van de Commissie van de EU, inzake goederenvervoer over de binnenwateren. Periode: 1957– Product: Bijdragen, afspraken Bron: EG- richtlijn 91/440 van 29 juli 1991 Waardering: B1 
+Handeling: Het opstellen en inbrengen van Nederlandse standpunten en bijdragen in de vergaderingen van de Werkgroep Verkeer en Vervoer van de Commissie van de EU, inzake goederenvervoer over de binnenwateren. Periode: 1957– Product: Bijdragen, afspraken Bron: EG-richtlijn 91/440 van 29 juli 1991 Waardering: B1 
 ###(522)
 
 Handeling: Het leveren van bijdragen aan de (voorbereiding van de) onderhandelingen van de EU met de binnenvaartlanden van Midden- en Oost-Europa. Periode: 1990– Product: Bijdragen Bron: V&W/DGV, Werkprogramma G 1996, p. 90 Waardering: B1 
@@ -2110,7 +2110,7 @@ Handeling: Het opstellen en inbrengen van Nederlandse standpunten en bijdragen i
 Handeling: Het opstellen en inbrengen van Nederlandse standpunten en bijdragen in de vergaderingen van de ECITO, inzake goederenvervoer over de binnenwateren. Periode: 1945–1947 Product: Bijdragen Bron: Van Tol, project Historisch Archief NS Waardering: B1 
 ###(527)
 
-Handeling: Het opstellen en inbrengen van Nederlandse standpunten en bijdragen in de vergaderingen van de organen van non-gouvernementele internationale organisaties, inzake goederenvervoer over de binnenwateren. Periode: 1945– Product: Bron: Waardering: B1  
+Handeling: Het opstellen en inbrengen van Nederlandse standpunten en bijdragen in de vergaderingen van de organen van non-gouvernementele internationale organisaties, inzake goederenvervoer over de binnenwateren. Periode: 1945– Product: Bron: Waardering: B1 
 
 ### 6.1.1.5  
 
@@ -2134,7 +2134,7 @@ Handeling: Het nader regelen van de bestuurlijke en financiële verhouding tusse
 Handeling: Het voorbereiden en vaststellen van algemene beleidsmaatregelen ter implementatie van de verzelfstandiging van de NS 1e en 2e fase met betrekking tot NS Cargo. Periode: 1993–1999 Product: Beleidsnota’s, bussinessplan McKinsey, overeenkomsten Bron: RO/NS, Overeenkomst op hoofdlijnen, bijl. III; RO/NS, Aktiepuntenlijst 2e fase verzelfstandiging, nr. III Waardering: B1 
 ###(535)
 
-Handeling: Het (laten) uitvoeren van (strategisch) onderzoek op het gebied van goederenvervoer per spoor Periode: 1945– Product: Onderzoeksopdrachten en onderzoeken Bron: Werkprogramma Goederenvervoer 1996 Waardering: B 1  
+Handeling: Het (laten) uitvoeren van (strategisch) onderzoek op het gebied van goederenvervoer per spoor Periode: 1945– Product: Onderzoeksopdrachten en onderzoeken Bron: Werkprogramma Goederenvervoer 1996 Waardering: B 1 
 
 ### 6.1.1.5.2  
 
@@ -2144,7 +2144,7 @@ Handeling: Het (laten) uitvoeren van (strategisch) onderzoek op het gebied van g
 
 ###(538)
 
-Handeling: Het voorbereiden van bij algemene maatregel van bestuur te geven voorschriften inzake het vervoer van goederen Periode: (1875) 1945– Product: Reglement voor het vervoer (ARV) 1928, 1966 geheel herzien, sedertdien gewijzigd Bron: SW 1875, art. 3, 27, 50–51 Waardering: B1  
+Handeling: Het voorbereiden van bij algemene maatregel van bestuur te geven voorschriften inzake het vervoer van goederen Periode: (1875) 1945– Product: Reglement voor het vervoer (ARV) 1928, 1966 geheel herzien, sedertdien gewijzigd Bron: SW 1875, art. 3, 27, 50–51 Waardering: B1 
 
 ### 6.1.1.5.3  
 
@@ -2179,7 +2179,7 @@ Handeling: Het al dan niet toestaan van een afwijking van het ARV voor het vervo
 Handeling: Het uitoefenen van toezicht op de aan de spoorweg toegekende bevoegdheid in specifieke omstandigheden af te wijken van een aantal vervoervoorwaarden van het ARV, d.m.v. het geven van voorschriften en/of het doen opheffen van door de spoorweg getroffen maatregelen. Periode: 1945– Product: Bron: SW 1875, gewijzigd 1988, art. 7-8; ARV 1966, art. 115, eerste lid en bovengenoemde artikelen; ARV 1928 bovengenoemde artikelen Waardering: V 5 jaar 
 ###(549)
 
-Handeling: Het al dan niet voorwaardelijk, geheel of gedeeltelijk verlenen van een ontheffing van de bepalingen van het reglement voor lokaalspoorwegen (ARVL), die uitsluitend bestemd zijn voor het vervoer van goederen. Periode: 1945– Product: Ontheffing Bron: ARV 1966, art.115a, 2de lid; ARVL 1928, art. 10 Waardering: V 5 jaar  
+Handeling: Het al dan niet voorwaardelijk, geheel of gedeeltelijk verlenen van een ontheffing van de bepalingen van het reglement voor lokaalspoorwegen (ARVL), die uitsluitend bestemd zijn voor het vervoer van goederen. Periode: 1945– Product: Ontheffing Bron: ARV 1966, art.115a, 2de lid; ARVL 1928, art. 10 Waardering: V 5 jaar 
 
 ### 6.1.1.5.4  
 
@@ -2193,7 +2193,7 @@ Handeling: Het op grond van art. 2 van de L.T.wet vanwege de Kroon verlenen/wijz
 Handeling: Het in het kader van de verzelfstandiging van NS treffen van een overgangsregeling inzake de exploitatievergunning. Periode: 1993–1995 Product: Notities en contract Bron: V&W/MOVER, Juridisch bouwwerk, hoofdlijnen, p. 14 Waardering: B5 
 ###(552)
 
-Handeling: Het verlenen van een exploitatievergunning aan een spoorwegonderneming voor goederenvervoer per spoor. Periode: 1995– Product: Vergunning Bron: V&W/MOVER, Juridisch bouwwerk, schema 6 Waardering: V 10 jaar na intrekken vergunning  
+Handeling: Het verlenen van een exploitatievergunning aan een spoorwegonderneming voor goederenvervoer per spoor. Periode: 1995– Product: Vergunning Bron: V&W/MOVER, Juridisch bouwwerk, schema 6 Waardering: V 10 jaar na intrekken vergunning 
 
 ### 6.1.1.5.5  
 
@@ -2207,7 +2207,7 @@ Handeling: Het samen met de Minister van Financiën namens de staat verstrekken 
 Handeling: Het op basis van de overeenkomst Rijk-NS goederenvervoer (1984) beoordelen en beslissen over een aanvraag voor een exploitatiebijdrage voor goederenvervoer. Periode: 1984–1988 Product: Beschikking Opmerking: In de Tweede Regeling Rijksoverheid/NS-goederenvervoer (1988) wordt expliciet een bijdrage verstrekt in verband met het concurrentienadeel voor NS-goederenvervoer als gevolg van de ongelijke situatie m.b.t. de toerekening van de infrastructuurkosten. Voor de bijdrage voor het Gecombineerd Weg-Rail Vervoer (GWRV) ingevolge deze overeenkomsten, zie hoofdstuk intermodaal vervoer. Voor de financiële compensatie van kosten gemaakt op grond van aan NS te stellen eisen m.b.t. milieu en gevaarlijke stoffen, die niet voor de andere vervoerstakken gelden, zie paragraaf milieu en hoofdstuk vervoer gevaarlijke stoffen. Voor de ontheffing voor wat betreft de contractvracht van de Prijzenbeschikkingen, zie paragraaf tarieven. Bron: V&W/NS, Rapport RONS-goederenvervoer 1984 Waardering: V 10 jaar 
 ###(555)
 
-Handeling: Het betaalbaar stellen en uitoefenen van financieel toezicht op de besteding van een exploitatiebijdrage, verstrekt op grond van de overeenkomst Rijk/NS-goederenvervoer (1984). Periode: 1984–1988 Product: Bron: V&W/NS, Rapport RONS-goederenvervoer 1984 Waardering: V 10 jaar  
+Handeling: Het betaalbaar stellen en uitoefenen van financieel toezicht op de besteding van een exploitatiebijdrage, verstrekt op grond van de overeenkomst Rijk/NS-goederenvervoer (1984). Periode: 1984–1988 Product: Bron: V&W/NS, Rapport RONS-goederenvervoer 1984 Waardering: V 10 jaar 
 
 ### 6.1.1.5.6  
 
@@ -2218,7 +2218,7 @@ Handeling: Het betaalbaar stellen en uitoefenen van financieel toezicht op de be
 Handeling: Het goedkeuren van een investeringsvoorstel van de NS voor de aanschaf van rollend materieel. Periode: 1937–1994 Product: Beschikking Bron: Concessie 1938, sedertdien gewijzigd, art. 3; Commissie-Wijffels, Sporen voor straks, p. I-8 en I-10 Waardering: V 5 jaar 
 ###(557)
 
-Handeling: Het op basis van de overeenkomsten rijk-NS Goederenvervoer (1984 en 1988) beoordelen van en beslissen over aanvragen betreffende financiële compensatie van kosten gemaakt op grond van aan de NS te stellen eisen m.b.t. milieu, die niet voor de andere vervoerstakken gelden. Periode: 1984–1993 Product: Beschikkingen Bron: V&W/NS, Rapport RONS-goederenvervoer 1984 en II 1988 Waardering: V 10 jaar  
+Handeling: Het op basis van de overeenkomsten rijk-NS Goederenvervoer (1984 en 1988) beoordelen van en beslissen over aanvragen betreffende financiële compensatie van kosten gemaakt op grond van aan de NS te stellen eisen m.b.t. milieu, die niet voor de andere vervoerstakken gelden. Periode: 1984–1993 Product: Beschikkingen Bron: V&W/NS, Rapport RONS-goederenvervoer 1984 en II 1988 Waardering: V 10 jaar 
 
 ### 6.1.1.5.7  
 
@@ -2226,7 +2226,7 @@ Handeling: Het op basis van de overeenkomsten rijk-NS Goederenvervoer (1984 en 1
 
 ###(558)
 
-Handeling: Het goedkeuren van (wijzigingen van) de dienstregeling voor het goederenvervoer per trein. Periode: (1875) 1945–1993 Product: Beschikking Bron: SW 1875, art. 6, gewijzigd 1988, art. 28, 29, 30, 31 Waardering: V 5 jaar na wijziging  
+Handeling: Het goedkeuren van (wijzigingen van) de dienstregeling voor het goederenvervoer per trein. Periode: (1875) 1945–1993 Product: Beschikking Bron: SW 1875, art. 6, gewijzigd 1988, art. 28, 29, 30, 31 Waardering: V 5 jaar na wijziging 
 
 ### 6.1.1.5.8  
 
@@ -2246,7 +2246,7 @@ Handeling: Het goedkeuren van (wijzigingen van) de maximumtarieven, dan wel verl
 Handeling: Het bepalen en in de Staatscourant publiceren van de grens van de vrachtprijs voor het vervoer van kolen en van staal per spoor, waarvan bij afwijking in een overeenkomst de verplichting bestaat gegevens te verstrekken. Periode: 1966– Product: Ministeriële regeling, bv. Besluit ex art. 2 Uitvoeringsbesluit vrachtprijzen vervoer van kolen en staal van 14 februari 1978, Stcrt. 41 Bron: Uitvoeringsbesluit vrachtprijzen vervoer van kolen en staal 1965, Stb. 495, art. 2, tweede lid Waardering: V 5 jaar na wijziging 
 ###(563)
 
-Handeling: Het, samen met de Minister van Economische Zaken, op basis van de overeenkomsten rijk/NS-goederenvervoer (1984 en 1988) al dan niet verlenen van een ontheffing van de Prijzenbeschikkingen voor wat betreft de contractvrachten. Periode: 1984–1993 Product: Beschikking Bron: Rapporten van de werkgroep uitwerking regeling Rijksoverheid/NS Goederenvervoer I (1984) en II (1988) Waardering: V 5 jaar  
+Handeling: Het, samen met de Minister van Economische Zaken, op basis van de overeenkomsten rijk/NS-goederenvervoer (1984 en 1988) al dan niet verlenen van een ontheffing van de Prijzenbeschikkingen voor wat betreft de contractvrachten. Periode: 1984–1993 Product: Beschikking Bron: Rapporten van de werkgroep uitwerking regeling Rijksoverheid/NS Goederenvervoer I (1984) en II (1988) Waardering: V 5 jaar 
 
 ### 6.1.1.5.9  
 
@@ -2257,7 +2257,7 @@ Handeling: Het, samen met de Minister van Economische Zaken, op basis van de ove
 Handeling: Het om redenen van staatsbelang geheel of gedeeltelijk staken van de spoorwegdienst, dan wel tijdelijk uitsluiten, voorwaardelijk toelaten of voorrang verlenen van bepaalde zendingen en het treffen van alternatieve vervoersvoorzieningen voor de stakingsduur. Periode: (1875) 1945– Product: Koninklijke besluiten Bron: SW 1875, gewijzigd 1988, art. 17–21; ARV 1928, art. 51, tweede lid; ARV 1966, art. 46, 2de lid Waardering: B 6 
 ###(565)
 
-Handeling: Het om dringende redenen in het belang van de spoorweg geheel of gedeeltelijk (tijdelijk) staken van de spoorwegdienst, dan wel tijdelijk uitsluiten, voorwaardelijk toelaten of voorrang verlenen van bepaalde zendingen en het treffen van alternatieve vervoersvoorzieningen voor de stakingsduur. Periode: (1928) 1945– Product: Koninklijke besluiten Bron: SW 1875, gewijzigd 1988, artt. 7–8 en 17-21; ARV 1928, art. 46, tweede lid en art. 51, tweede lid Waardering: B 6  
+Handeling: Het om dringende redenen in het belang van de spoorweg geheel of gedeeltelijk (tijdelijk) staken van de spoorwegdienst, dan wel tijdelijk uitsluiten, voorwaardelijk toelaten of voorrang verlenen van bepaalde zendingen en het treffen van alternatieve vervoersvoorzieningen voor de stakingsduur. Periode: (1928) 1945– Product: Koninklijke besluiten Bron: SW 1875, gewijzigd 1988, artt. 7–8 en 17-21; ARV 1928, art. 46, tweede lid en art. 51, tweede lid Waardering: B 6 
 
 ### 6.1.1.5.10  
 
@@ -2304,7 +2304,7 @@ Handeling: Het bepalen van standpunten en leveren van bijdragen in de Herziening
 Handeling: Het verstrekken van gegevens en betalen van bijdragen in de kosten de OTIF. Periode: 1945– Product: Bron: COTIF, art. 9-10 Waardering: V 10 jaar 
 ###(580)
 
-Handeling: Het opstellen en inbrengen van Nederlandse standpunten en bijdragen in de vergaderingen van de organen van non-gouvernementele internationale organisaties, inzake goederenvervoer per spoor. Periode: 1945– Product: Opmerking: Het gaat om het Comité International des Transport par Chemin de Fer (CIT), de Union Internationale des Chemins de Fer (UIC) en de Conférence Internationale pour l’Unité Technique des Chemins de Fer. Bron: Waardering: B1  
+Handeling: Het opstellen en inbrengen van Nederlandse standpunten en bijdragen in de vergaderingen van de organen van non-gouvernementele internationale organisaties, inzake goederenvervoer per spoor. Periode: 1945– Product: Opmerking: Het gaat om het Comité International des Transport par Chemin de Fer (CIT), de Union Internationale des Chemins de Fer (UIC) en de Conférence Internationale pour l’Unité Technique des Chemins de Fer. Bron: Waardering: B1 
 
 ### 6.1.1.6  
 
@@ -2322,7 +2322,7 @@ Handeling: Het, samen met de Minister van VROM, voorbereiden, vaststellen en eva
 Handeling: Het, samen met de Minister van Defensie, voorbereiden, vaststellen en evalueren van beleid inzake civiele medegebruik van de NAVO-pijpleiding. Periode: 1965– Product: Bron: V&W/DGV, Werkprogramma G 1996, p. 81 Waardering: B1 
 ###(587)
 
-Handeling: Het (laten) uitvoeren van onderzoek op het gebied van goederenvervoer per buisleiding. Periode: 1945– Product: Onderzoeksopdrachten en onderzoeksrapporten, bv. ‘Goederenvervoer per buisleiding’ 1993, ‘Unit Transport per Pijpleiding’ 1995. Bron: – Waardering: B 1  
+Handeling: Het (laten) uitvoeren van onderzoek op het gebied van goederenvervoer per buisleiding. Periode: 1945– Product: Onderzoeksopdrachten en onderzoeksrapporten, bv. ‘Goederenvervoer per buisleiding’ 1993, ‘Unit Transport per Pijpleiding’ 1995. Bron: – Waardering: B 1 
 
 ### 6.1.1.6.2  
 
@@ -2376,7 +2376,7 @@ Handeling: Het eventueel geheel of gedeeltelijk verbieden van het vervoer door i
 Handeling: Het al dan niet goedkeuren van het toewijzen, dan wel onttrekken aan het Rijk van de eigendom, het beheer en het onderhoud van wegen en waterlopen, opgenomen in het plan t.b.v. de inrichting van de buisleidingenstraat Zuidwest Nederland. Periode: 1972– Product: Goedkeuringen Bron: Nutswet van 11 maart 1972, Stb. 145, zoals gewijzigd bij Wet van 8 november 1988, Stb. 676, art. 7, derde lid Waardering: V 5 jaar 
 ###(610)
 
-Handeling: Het, na advies van het beheerslichaam, aan houders van buisleidingen opleggen van de verplichting hun buisleiding, die voor de inwerkingtreding van de Nutswet 1972 is aangelegd, te verleggen naar de buisleidingenstraat Zuidwest Nederland. Periode: 1972– Product: Beschikkingen Bron: Nutswet van 11 maart 1972, Stb. 145, zoals gewijzigd bij Wet van 8 november 1988, Stb. 676, art. 8 Waarering: V 5 jaar  
+Handeling: Het, na advies van het beheerslichaam, aan houders van buisleidingen opleggen van de verplichting hun buisleiding, die voor de inwerkingtreding van de Nutswet 1972 is aangelegd, te verleggen naar de buisleidingenstraat Zuidwest Nederland. Periode: 1972– Product: Beschikkingen Bron: Nutswet van 11 maart 1972, Stb. 145, zoals gewijzigd bij Wet van 8 november 1988, Stb. 676, art. 8 Waarering: V 5 jaar 
 
 ### 6.1.1.7  
 
@@ -2400,7 +2400,7 @@ Handeling: Het voorbereiden, vaststellen en evalueren van het beleid ten aanzien
 Handeling: Het formuleren van beleidsmaatregelen gericht op (stimuleren van) intermodaal vervoer. Periode: 1970– Product: regelingen Bron: Richtlijn van de Raad van 17 februari 1975(75/130/EEG), Richtlijn van de Raad van 27 maart 1991 (91/224/EEG), Transport in balans, p. 25 Waardering: B1 
 ###(615)
 
-Handeling: Het participeren in overleg met vertegenwoordigers van overheid en/of bedrijfsleven over intermodaal vervoer. Periode: 1970– Product: notities, overlegverslagen Bron: Beleidsnotities, toelichtingen op de rijksbegroting Waardering: B1  
+Handeling: Het participeren in overleg met vertegenwoordigers van overheid en/of bedrijfsleven over intermodaal vervoer. Periode: 1970– Product: notities, overlegverslagen Bron: Beleidsnotities, toelichtingen op de rijksbegroting Waardering: B1 
 
 ### 6.1.1.8  
 
@@ -2440,7 +2440,7 @@ Handeling: Het beoordelen en beslissen over subsidieaanvragen ten behoeve van de
 Handeling: Het beslissen op bezwaarschriften tegen beschikkingen op grond van de stimuleringsregelingen gecombineerd goederenvervoer 1995 en 1997. Periode: 1996– Product: Beschikkingen Bron: Besluit mandaatverlening Senter, Stcrt. 1997 art. 5 Waardering: V 5 jaar 
 ###(628)
 
-Handeling: Het evalueren van de stimuleringsregeling gecombineerd goederenvervoer. Periode: 1996 Product: Evaluatierapport Effectmeting Stimuleringsregeling gecombineerd goederenvervoer (SCG) Bron: Stimuleringsregeling gecombineerd goederenvervoer 1995, art. 13 Waardering: B2  
+Handeling: Het evalueren van de stimuleringsregeling gecombineerd goederenvervoer. Periode: 1996 Product: Evaluatierapport Effectmeting Stimuleringsregeling gecombineerd goederenvervoer (SCG) Bron: Stimuleringsregeling gecombineerd goederenvervoer 1995, art. 13 Waardering: B2 
 
 ### 6.1.1.8.2  
 
@@ -2457,7 +2457,7 @@ Handeling: Het leveren van bijdragen aan opleidingsprogramma’s betreffende int
 Handeling: Het samenstellen van actieprogramma’s ten behoeve van promotie van en voorlichting over intermodaal vervoer Periode: 1990– Product: Projecten en programma’s Bron: Beleidsnotities Waardering: B5 
 ###(632)
 
-Handeling: Het (doen) uitvoeren van promotie- en voorlichtingsactiviteiten ten behoeve van intermodaal vervoer Periode: 1990– Product: Bron: Beleidsnotities Waardering: B5: eindproduct V 5 jaar: rest  
+Handeling: Het (doen) uitvoeren van promotie- en voorlichtingsactiviteiten ten behoeve van intermodaal vervoer Periode: 1990– Product: Bron: Beleidsnotities Waardering: B5: eindproduct V 5 jaar: rest 
 
 ### 6.1.1.9  
 
@@ -2478,7 +2478,7 @@ Handeling: Het leveren van bijdragen aan de totstandkoming van het beleid betref
 Handeling: Het (laten) uitvoeren van onderzoek op het gebied van het vervoer van gevaarlijke stoffen. Periode: 1945– Product: Onderzoeksrapporten Bron: B 1 
 ###(636)
 
-Handeling: Het voorbereiden, vaststellen en uitvoeren van voorlichtingsactiviteiten op het gebied van het vervoer van gevaarlijke stoffen. Periode: 1945– Product: Voorlichtingsmateriaal Bron: Waardering: B5: eindproduct V 5 jaar: rest  
+Handeling: Het voorbereiden, vaststellen en uitvoeren van voorlichtingsactiviteiten op het gebied van het vervoer van gevaarlijke stoffen. Periode: 1945– Product: Voorlichtingsmateriaal Bron: Waardering: B5: eindproduct V 5 jaar: rest 
 
 ### 6.1.1.9.2  
 
@@ -2526,7 +2526,7 @@ Handeling: Het bij of krachtens algemene maatregel van bestuur verbieden van, of
 Handeling: Het bij of krachtens algemene maatregel van bestuur op voordracht van onze Minister van Defensie stellen van regels betreffende de handelingen met gevaarlijke stoffen onder verantwoordelijkheid van de krijgsmacht of van de krijgsmacht van een andere mogendheid. Periode: 1996– Product: Bron: WVGS 1995, art 8 eerste lid Waardering: B1 
 ###(647)
 
-Handeling: Het in bijzondere gevallen verlenen, weigeren, wijzigen of intrekken van ontheffing of vrijstelling van, of het verbinden van voorwaarden aan het verrichten van handelingen betreffende het vervoer van gevaarlijke stoffen. Periode: 1996– Product: Bron: WVGS 1995, art. 9 Waardering: B5  
+Handeling: Het in bijzondere gevallen verlenen, weigeren, wijzigen of intrekken van ontheffing of vrijstelling van, of het verbinden van voorwaarden aan het verrichten van handelingen betreffende het vervoer van gevaarlijke stoffen. Periode: 1996– Product: Bron: WVGS 1995, art. 9 Waardering: B5 
 
 ### 6.1.1.9.3  
 
@@ -2543,7 +2543,7 @@ Handeling: Het samenstellen van de onder het centraal advieslichaam ressorterend
 Handeling: Het toevoegen van een secretaris aan de Rubriceringscommissie. Periode: 1992–1995 Product: Beschikkingen Bron: WGS 1963, wijz. 1992 Stb. 146, art. 47 (art. 6h) Waardering: V 10 jaar na einde benoeming 
 ###(661)
 
-Handeling: Het inwinnen van advies van de Raad voor verkeer en waterstaat omtrent aangelegenheden die betrekking hebben op het vervoer van gevaarlijke stoffen. Periode: 1992–1995 Product: adviezen, rapporten Bron: Waardering: V 5 jaar  
+Handeling: Het inwinnen van advies van de Raad voor verkeer en waterstaat omtrent aangelegenheden die betrekking hebben op het vervoer van gevaarlijke stoffen. Periode: 1992–1995 Product: adviezen, rapporten Bron: Waardering: V 5 jaar 
 
 ### 6.1.1.9.4  
 
@@ -2563,7 +2563,7 @@ Handeling: Het opstellen en inbrengen van Nederlandse standpunten en bijdragen i
 Handeling: Het opstellen en inbrengen van Nederlandse bijdragen en standpunten in de vergaderingen van de werkgroepen inzake gevaarlijke stoffen van de ECE. Periode: 1947– Product: bijdragen, instructies, verslagen Bron: Werkprogramma Goederenvervoer 1996; Inl. dhr. drs p. van Dalen (G/binnenvaart), 27 augustus 1997 Waardering: B1 
 ###(673)
 
-Handeling: Het opstellen en inbrengen van Nederlandse bijdragen en standpunten in de vergaderingen in ad hoc groepen, ingesteld door de werkgroep gevaarlijke stoffen. Periode: 1947– Product: bijdrage Bron: Werkprogramma goederenvervoer 1996 Waardering: B1  
+Handeling: Het opstellen en inbrengen van Nederlandse bijdragen en standpunten in de vergaderingen in ad hoc groepen, ingesteld door de werkgroep gevaarlijke stoffen. Periode: 1947– Product: bijdrage Bron: Werkprogramma goederenvervoer 1996 Waardering: B1 
 
 ### 6.1.1.9.5  
 
@@ -2622,7 +2622,7 @@ Handeling: Het verlenen van een machtiging ontheffing te verlenen van de Regelin
 Handeling: Het vaststellen van tarieven voor het verlenen van diensten en het behandelen van een verzoek inzake het vervoer van gevaarlijke stoffen. Periode: 1968–1996 Product: Bron: WGS 1963, art. 10 Waardering: V 5 jaar na wijziging 
 ###(689)
 
-Handeling: Het bij Ministeriële regeling vaststellen van tarieven voor het behandelen van een verzoek met betrekking tot het vervoer van gevaarlijke stoffen. Periode: 1996– Product: Tariefregeling vervoer gevaarlijke stoffen Bron: WVGS 1995, art. 49, tariefregeling in 1996 Stcrt. 126 Waardering: V 5 jaar na wijziging  
+Handeling: Het bij Ministeriële regeling vaststellen van tarieven voor het behandelen van een verzoek met betrekking tot het vervoer van gevaarlijke stoffen. Periode: 1996– Product: Tariefregeling vervoer gevaarlijke stoffen Bron: WVGS 1995, art. 49, tariefregeling in 1996 Stcrt. 126 Waardering: V 5 jaar na wijziging 
 
 ### 6.1.1.9.6  
 
@@ -2778,7 +2778,7 @@ Handeling: Het erkennen van vakbekwaamheidscertificaten die zijn afgegeven door 
 Handeling: Het verlenen van goedkeuring van de opleiding van bestuurders van voertuigen waarmee gevaarlijke stoffen worden vervoerd. Periode: 1995– Product: goedkeuringsdocument Bron: VLG 1995, rn. 240.200 Waardering: V 5 jaar na wijziging 
 ###(736)
 
-Handeling: Het (zorgen voor het) houden van toezicht op de opleiding en de examens voor bestuurders van voertuigen waarmee gevaarlijke stoffen worden vervoerd. Periode: 1995– Product: Bron: VLG 1995, rn. 240.201(3) Waardering: V 10 jaar  
+Handeling: Het (zorgen voor het) houden van toezicht op de opleiding en de examens voor bestuurders van voertuigen waarmee gevaarlijke stoffen worden vervoerd. Periode: 1995– Product: Bron: VLG 1995, rn. 240.201(3) Waardering: V 10 jaar 
 
 ### 6.1.1.9.7  
 
@@ -2825,7 +2825,7 @@ Handeling: Het aanwijzen van vaarwegen en spoorwegen of gedeelten daarvan waarov
 Handeling: Het verlenen van een ontheffing inzake het verbod gevaarlijke stoffen te vervoeren over bij het rijk of bij anderen dan publiekrechtelijke rechtspersonen in beheer zijnde (delen van) vaarwegen indien dat noodzakelijk is voor het laden en lossen van gevaarlijke stoffen. Periode: 1996– Product: ontheffingen Bron: WVGS 1995, art. 28 Waardering: V 10 jaar 
 ###(749)
 
-Handeling: Het verlenen van een ontheffing inzake het verbod gevaarlijke stoffen te vervoeren over bij het rijk in beheer zijnde (delen van) spoorwegen indien dat noodzakelijk is voor het laden en lossen van gevaarlijke stoffen. Periode: 1996– Product: ontheffingen Bron: WVGS 1995, art. 32 Waardering: V 10 jaar  
+Handeling: Het verlenen van een ontheffing inzake het verbod gevaarlijke stoffen te vervoeren over bij het rijk in beheer zijnde (delen van) spoorwegen indien dat noodzakelijk is voor het laden en lossen van gevaarlijke stoffen. Periode: 1996– Product: ontheffingen Bron: WVGS 1995, art. 32 Waardering: V 10 jaar 
 
 ### 6.1.1.9.8  
 
@@ -2901,7 +2901,7 @@ Handeling: Het jaarlijks voorleggen aan de Minister voor een plan inzake het in 
 Handeling: Het goedkeuren van het door de directeur van de RVI ingediende plan inzake het in het komende jaar te houden toezicht. Periode: 1995– Product: Bron: VLG 1997 hoofdstuk III, art. 1 Waardering: V 5 jaar 
 ###(770)
 
-Handeling: Het eventueel nemen van maatregelen indien overtredingen zijn geconstateerd overeenkomstig bijlage II van de richtlijn 95/50/EG. Periode: 1995– Product: Bron: VLG 1995 bijlage 2 hoofdstuk 3, art. 3 tweede lid Waardering: V 5 jaar  
+Handeling: Het eventueel nemen van maatregelen indien overtredingen zijn geconstateerd overeenkomstig bijlage II van de richtlijn 95/50/EG. Periode: 1995– Product: Bron: VLG 1995 bijlage 2 hoofdstuk 3, art. 3 tweede lid Waardering: V 5 jaar 
 
 ### 6.1.1.10  
 
@@ -2912,7 +2912,7 @@ Handeling: Het eventueel nemen van maatregelen indien overtredingen zijn geconst
 Handeling: Het bevorderen van de invoering van (technische) systemen die de veiligheid bevorderen. Periode: 1997– Bron: Jaarplan directie Veiligheid Waardering: B 5 
 ###(824)
 
-Handeling: Het exploiteren van middelen die de veiligheid bevorderen. Periode: 1997– Bron: Jaarplan directie Veiligheid Waardering: V 10 jaar  
+Handeling: Het exploiteren van middelen die de veiligheid bevorderen. Periode: 1997– Bron: Jaarplan directie Veiligheid Waardering: V 10 jaar 
 
 ### 6.1.1.11  
 
@@ -2923,7 +2923,7 @@ Handeling: Het exploiteren van middelen die de veiligheid bevorderen. Periode: 1
 Handeling: Het bevorderen van de aanleg of reactivatie van infrastructurele werken en van het beheer daarvan ten behoeve van het goederenvervoer. Periode: 1995– Bron: Directieplan TI, 2003 Waardering: B 5 
 ###(826)
 
-Handeling: Het opzetten van registratiesystemen voor infrastructurele werken ten behoeve van het goederenvervoer Periode: 2002– Product: Registratiesysteem Bron: Werkplan Project OTB Waardering: B 5  
+Handeling: Het opzetten van registratiesystemen voor infrastructurele werken ten behoeve van het goederenvervoer Periode: 2002– Product: Registratiesysteem Bron: Werkplan Project OTB Waardering: B 5 
 
 ### 6.1.1.12  
 
@@ -2940,7 +2940,7 @@ Handeling: Het opzetten van een register, waarin gegevens worden opgenomen met b
 Handeling: Het bevorderen van de marktwerking in het goederenvervoer door middel van het wegnemen van belemmeringen en het versterken van de concurrentiekracht Periode: 1998– Bron: Directieplan TI 2003–2007, 2002 Waardering: B 1 
 ###(830)
 
-Handeling: Het beoordelen van mededelingen van omstandigheden zoals bedoeld in het Scheepvaartreglement territoriale zee of het Scheepvaartreglement Westerschelde 1990. Periode: 1990– Bron: Scheepvaartreglement territoriale zee; Scheepvaartreglement Westerschelde 1990 Opmerking: – De mededeling wordt beoordeeld door de volgende bevoegde autoriteiten: – Voor het aanloopgebied Scheldemonden: de Rijkshavenmeester Westerschelde, bedoeld in het Scheepvaartreglement Westerschelde 1990. – Voor het aanloopgebied Rotterdam: de havenmeester van de gemeente Rotterdam. – Voor het aanloopgebied Scheveningen: de technisch directeur van de gemeentelijke dienst stadsbeheer van de gemeente Den Haag. – Voor het aanloopgebied IJmuiden: de hoofdingenieur-directeur in de directie Noord-Holland van het Directoraat-Generaal Rijkswaterstaat. – Voor het aanloopgebied Den Helder: de Commandant der maritieme middelen van de Koninklijke marine te Den Helder. – Voor het aanloopgebied Brandaris en het aanloopgebied Eemsmonding: de hoofdingenieur-directeur in de directie Noord-Nederland van het Directoraat-Generaal Rijkswaterstaat. – Voor de territoriale zee, behoudens de aanloopgebieden: de directeur Kustwacht. – De omstandigheden waarvan mededeling gedaan moet worden, zijn: (1) Wanneer een schip aan de grond is geraakt of gezonken; (2) Wanneer een schip in aanraking is gekomen met een ander schip en daarbij schade van betekenis is ontstaan of zich persoonlijke ongevallen hebben voorgedaan; (3) Wanneer een schip een boei, baken of waterstaatswerk heeft aangevaren, verplaatst of beschadigd; (4) Wanneer een schip in een toestand verkeert waardoor de manoeuvreerbaarheid of de veiligheid nadelig wordt beïnvloed; (5) Wanneer een schip voorwerpen of stoffen heeft verloren of dreigt te verliezen, die het scheepvaartverkeer in gevaar kunnen brengen. Waardering: B2  
+Handeling: Het beoordelen van mededelingen van omstandigheden zoals bedoeld in het Scheepvaartreglement territoriale zee of het Scheepvaartreglement Westerschelde 1990. Periode: 1990– Bron: Scheepvaartreglement territoriale zee; Scheepvaartreglement Westerschelde 1990 Opmerking: – De mededeling wordt beoordeeld door de volgende bevoegde autoriteiten: – Voor het aanloopgebied Scheldemonden: de Rijkshavenmeester Westerschelde, bedoeld in het Scheepvaartreglement Westerschelde 1990. – Voor het aanloopgebied Rotterdam: de havenmeester van de gemeente Rotterdam. – Voor het aanloopgebied Scheveningen: de technisch directeur van de gemeentelijke dienst stadsbeheer van de gemeente Den Haag. – Voor het aanloopgebied IJmuiden: de hoofdingenieur-directeur in de directie Noord-Holland van het Directoraat-Generaal Rijkswaterstaat. – Voor het aanloopgebied Den Helder: de Commandant der maritieme middelen van de Koninklijke marine te Den Helder. – Voor het aanloopgebied Brandaris en het aanloopgebied Eemsmonding: de hoofdingenieur-directeur in de directie Noord-Nederland van het Directoraat-Generaal Rijkswaterstaat. – Voor de territoriale zee, behoudens de aanloopgebieden: de directeur Kustwacht. – De omstandigheden waarvan mededeling gedaan moet worden, zijn: (1) Wanneer een schip aan de grond is geraakt of gezonken; (2) Wanneer een schip in aanraking is gekomen met een ander schip en daarbij schade van betekenis is ontstaan of zich persoonlijke ongevallen hebben voorgedaan; (3) Wanneer een schip een boei, baken of waterstaatswerk heeft aangevaren, verplaatst of beschadigd; (4) Wanneer een schip in een toestand verkeert waardoor de manoeuvreerbaarheid of de veiligheid nadelig wordt beïnvloed; (5) Wanneer een schip voorwerpen of stoffen heeft verloren of dreigt te verliezen, die het scheepvaartverkeer in gevaar kunnen brengen. Waardering: B2 
 
 ### 6.1.1.13  
 
@@ -2960,7 +2960,7 @@ Handeling: Het verlenen van toestemming om binnen de Nederlandse territoriale ze
 Handeling: Het verlenen van financiële bijdragen aan vissers voor opgeviste explosieven uit de Eerste of Tweede Wereldoorlog. Periode: 1992– Bron: Bijstands- en bijdrageregeling opgeviste explosieven Opmerking: De bijdrage is bedoeld voor en wordt toegekend na het overdragen aan het Kustwachtcentrum om het opgeviste explosief onschadelijk te laten maken Waardering: V 10 jaar 
 ###(835)
 
-Handeling: Het verlenen van ontheffing van de verplichting tot het aanbrengen van geluidsbakens en lichtbakens op een mijnbouwinstallatie. Periode: 2002– Bron: Mijnbouwbesluit Opmerking: De ontheffing kan onder beperkingen worden verleend of er kunnen voorschriften aan worden verbonden. Waardering: V 5 jaar  
+Handeling: Het verlenen van ontheffing van de verplichting tot het aanbrengen van geluidsbakens en lichtbakens op een mijnbouwinstallatie. Periode: 2002– Bron: Mijnbouwbesluit Opmerking: De ontheffing kan onder beperkingen worden verleend of er kunnen voorschriften aan worden verbonden. Waardering: V 5 jaar 
 
 ### 6.1.1.14  
 
@@ -2983,7 +2983,7 @@ Handeling Het opsporen van strafbaar gestelde feiten. Periode 2002– Waardering
 Handeling Het opleggen van verboden, het intrekken van machtigingen en het opleggen van boetes bij het niet naleven van de bepalingen in de wetgeving. Periode 2002– Waardering: V 10 jaar 
 ###(841)
 
-Handeling Het toezicht houden op de naleving van wettelijke voorschriften. Periode 2002– Waardering: B5 voor calamiteiten V5 jaar overig  
+Handeling Het toezicht houden op de naleving van wettelijke voorschriften. Periode 2002– Waardering: B5 voor calamiteiten V5 jaar overig 
 
 ### 6.1.2  
 
@@ -2991,7 +2991,7 @@ Handeling Het toezicht houden op de naleving van wettelijke voorschriften. Perio
 
 ###(37)
 
-Handeling: Het adviseren van de Minister omtrent aanvragen tot deelneming aan het Demonstratieprogramma of de Regeling telematicatoepassingen in het goederenvervoer over weg, rail of water Periode: 1995–1996 Product: adviezen Bron: Instellingsregeling adviescollege regeling telematicatoepassingen in het goederenvervoer, art. 3 (Stcrt. 1995, 186) Waardering: B1  
+Handeling: Het adviseren van de Minister omtrent aanvragen tot deelneming aan het Demonstratieprogramma of de Regeling telematicatoepassingen in het goederenvervoer over weg, rail of water Periode: 1995–1996 Product: adviezen Bron: Instellingsregeling adviescollege regeling telematicatoepassingen in het goederenvervoer, art. 3 (Stcrt. 1995, 186) Waardering: B1 
 
 ### 6.1.3  
 
@@ -3017,7 +3017,7 @@ Handeling: Het gevraagd en ongevraagd adviseren van de Minister in alle vraagstu
 Handeling: Het voeren van overleg over beleidsaangelegenheden met betrekking tot het vervoer van goederen te water. Periode: 1992 Product: rapport Bron: Besluit advies en overleg verkeer en waterstaat 1992; Wet vervoer binnenvaart 1991 Waardering: B1 
 ###(331)
 
-Handeling: Het adviseren van de CVG/CVV c.q. Rijksinspecteur over voorstellen tot wijziging of intrekking in het algemeen vervoerbelang van vergunningen voor geregeld vervoer. Periode: 1954–1992 Product: Adviezen, rapporten, verslagen Bron: Wet Goederenvervoer Binnenscheepvaart 1951, sedertdien gewijzigd, art. 6; UGB 1954, art. 13 Waardering: V 5 jaar  
+Handeling: Het adviseren van de CVG/CVV c.q. Rijksinspecteur over voorstellen tot wijziging of intrekking in het algemeen vervoerbelang van vergunningen voor geregeld vervoer. Periode: 1954–1992 Product: Adviezen, rapporten, verslagen Bron: Wet Goederenvervoer Binnenscheepvaart 1951, sedertdien gewijzigd, art. 6; UGB 1954, art. 13 Waardering: V 5 jaar 
 
 ### 6.1.14  
 
@@ -3025,7 +3025,7 @@ Handeling: Het adviseren van de CVG/CVV c.q. Rijksinspecteur over voorstellen to
 
 ###(459)
 
-Handeling: Het adviseren van de Minister van Verkeer en Waterstaat over vraagstukken van algemene aard, die verband houden met de uitvoering van de Wet Sloopregeling Binnenvaart. Periode: 1977– Product: Advies Bron: WSB 1976, art. 15, eerste lid Waardering: B1  
+Handeling: Het adviseren van de Minister van Verkeer en Waterstaat over vraagstukken van algemene aard, die verband houden met de uitvoering van de Wet Sloopregeling Binnenvaart. Periode: 1977– Product: Advies Bron: WSB 1976, art. 15, eerste lid Waardering: B1 
 
 ### 6.1.5  
 
@@ -3033,7 +3033,7 @@ Handeling: Het adviseren van de Minister van Verkeer en Waterstaat over vraagstu
 
 ###(477)
 
-Handeling: Het opstellen van een actieplan ter bevordering van de internationale binnenvaart. Periode: 1993 Product: Eindrapport ‘Vaart in de keten. Actieplan ter bevordering van internationaal goederenvervoer via de binnenvaart, ’s-Gravenhage 1993. Bron: Notitie Goederenvervoer, TK, 1993–1994, 23 709, nr. 1, p. 14 Waardering: B1  
+Handeling: Het opstellen van een actieplan ter bevordering van de internationale binnenvaart. Periode: 1993 Product: Eindrapport ‘Vaart in de keten. Actieplan ter bevordering van internationaal goederenvervoer via de binnenvaart, ’s-Gravenhage 1993. Bron: Notitie Goederenvervoer, TK, 1993–1994, 23 709, nr. 1, p. 14 Waardering: B1 
 
 ### 6.1.6  
 
@@ -3041,7 +3041,7 @@ Handeling: Het opstellen van een actieplan ter bevordering van de internationale
 
 ###(39)
 
-Handeling: Het adviseren van en het leveren van informatie aan de Minister, andere overheden en belangenorganisaties met betrekking tot het inland-vervoer van goederen. Periode: 1993– Product: Adviezen, onderzoeken, rapporten Bron: Staatsalmanak Waardering: B1  
+Handeling: Het adviseren van en het leveren van informatie aan de Minister, andere overheden en belangenorganisaties met betrekking tot het inland-vervoer van goederen. Periode: 1993– Product: Adviezen, onderzoeken, rapporten Bron: Staatsalmanak Waardering: B1 
 
 ### 6.1.7  
 
@@ -3049,7 +3049,7 @@ Handeling: Het adviseren van en het leveren van informatie aan de Minister, ande
 
 ###(242)
 
-Handeling: Het adviseren van de Minister inzake een beroep ingediend tegen een beschikking van de Voorzitter van de CVG/CVV, de Rijks(hoofd-)inspecteur, of een instantie waaraan bevoegdheden van de Voorzitter CVG/CVV of de Rijks(hoofd-)inspecteur zijn overgedragen (SIEV). Periode: 1954–1984 Product: Adviezen Bron: WAG 1951, art. 54; UAG 1954, art. 141–152 Waardering: B1: advies aan Minister V 5 jaar: rest  
+Handeling: Het adviseren van de Minister inzake een beroep ingediend tegen een beschikking van de Voorzitter van de CVG/CVV, de Rijks(hoofd-)inspecteur, of een instantie waaraan bevoegdheden van de Voorzitter CVG/CVV of de Rijks(hoofd-)inspecteur zijn overgedragen (SIEV). Periode: 1954–1984 Product: Adviezen Bron: WAG 1951, art. 54; UAG 1954, art. 141–152 Waardering: B1: advies aan Minister V 5 jaar: rest 
 
 ### 6.1.8  
 
@@ -3057,7 +3057,7 @@ Handeling: Het adviseren van de Minister inzake een beroep ingediend tegen een b
 
 ###(496)
 
-Handeling: Het adviseren van de Minister inzake een beroep ingediend tegen een beschikking van de Voorzitter van de CVG/CVV, de Rijksinspecteur, of een instantie waaraan bevoegdheden van de CVG/CVV zijn overgedragen, dan wel tegen een beslissing tot ontheffing van het bestuur van een schippersbeurs. Periode: 1954–1984 Product: Advies Bron: WGB 1951, art. 55; UGB 1954, art. 83 Waardering: B1  
+Handeling: Het adviseren van de Minister inzake een beroep ingediend tegen een beschikking van de Voorzitter van de CVG/CVV, de Rijksinspecteur, of een instantie waaraan bevoegdheden van de CVG/CVV zijn overgedragen, dan wel tegen een beslissing tot ontheffing van het bestuur van een schippersbeurs. Periode: 1954–1984 Product: Advies Bron: WGB 1951, art. 55; UGB 1954, art. 83 Waardering: B1 
 
 ### 6.1.9  
 
@@ -3074,7 +3074,7 @@ Handeling: Het gevraagd en ongevraagd adviseren van de Minister, de Inspecteur-G
 Handeling: Het samenstellen alsmede wijzigen van de lijst met toeslagen bij de Tariefbeschikking Ongeregeld Goederenvervoer Binnenscheepvaart. Periode: 1981–1992 Product: Bron: Beursreglement 1954, Stcrt. 28 en 31, zoals laatstelijk gewijzigd bij regeling van 5 oktober 1989, Stcrt. 205. Waardering: V 5 jaar na wijziging 
 ###(426)
 
-Handeling: Het gevraagd en ongevraagd adviseren van de Minister over de vrachtverdelingsregeling, de tarieven en te verlenen vrijstellingen. Periode: 1993– Product: Adviezen Bron: Vrachtverdelingsregeling 1992, Stcrt. 248, zoals gewijzigd bij Ministeriële regeling 1993, Stcrt. 40; Regeling instelling Bevrachtingscommissie 1992, Stcrt. 248, zoals laatstelijk gewijzigd bij Ministeriële regeling 1993, Stcrt. 40, art. 2 Waardering: V 5 jaar  
+Handeling: Het gevraagd en ongevraagd adviseren van de Minister over de vrachtverdelingsregeling, de tarieven en te verlenen vrijstellingen. Periode: 1993– Product: Adviezen Bron: Vrachtverdelingsregeling 1992, Stcrt. 248, zoals gewijzigd bij Ministeriële regeling 1993, Stcrt. 40; Regeling instelling Bevrachtingscommissie 1992, Stcrt. 248, zoals laatstelijk gewijzigd bij Ministeriële regeling 1993, Stcrt. 40, art. 2 Waardering: V 5 jaar 
 
 ### 6.1.10  
 
@@ -3082,7 +3082,7 @@ Handeling: Het gevraagd en ongevraagd adviseren van de Minister over de vrachtve
 
 ###(650)
 
-Handeling: Het op verzoek adviseren van de Minister omtrent aangelegenheden die betrekking hebben op het vervoer van gevaarlijke stoffen. Periode: 1963–1995 Bron: WGS 1963, art 6 tweede lid Waardering: B1  
+Handeling: Het op verzoek adviseren van de Minister omtrent aangelegenheden die betrekking hebben op het vervoer van gevaarlijke stoffen. Periode: 1963–1995 Bron: WGS 1963, art 6 tweede lid Waardering: B1 
 
 ### 6.1.11  
 
@@ -3090,7 +3090,7 @@ Handeling: Het op verzoek adviseren van de Minister omtrent aangelegenheden die 
 
 ###(265)
 
-Handeling: Het onderzoeken van en schriftelijk adviseren aan de CVV/CVW over klachten omtrent de nakoming door de ondernemer van arbeidsvoorwaarden. Periode: 1977–1992 Product: Adviezen Bron: WAG 1951, zoals gewijzigd bij wet van 8 juni 1977, Stb. 354, art. 42a en 45a; UAG 1988, art. 83 en 84 Waardering: V 5 jaar  
+Handeling: Het onderzoeken van en schriftelijk adviseren aan de CVV/CVW over klachten omtrent de nakoming door de ondernemer van arbeidsvoorwaarden. Periode: 1977–1992 Product: Adviezen Bron: WAG 1951, zoals gewijzigd bij wet van 8 juni 1977, Stb. 354, art. 42a en 45a; UAG 1988, art. 83 en 84 Waardering: V 5 jaar 
 
 ### 6.1.12  
 
@@ -3104,7 +3104,7 @@ Handeling: Het op verzoek van de Minister geven van advies omtrent de geschikthe
 Handeling: Het afnemen van een examen, en bij goed gevolg afgeven van een verklaring, ter verkrijging van de vakbekwaamheid van scheepsbevrachter. Periode: 1993– Product: Bron: Vrachtverdelingsregeling 1992, art. 43 en 48; Regeling Instelling Adviescommissie omtrent geschiktheid als scheepsbevrachter 1992, art. 2, onderdeel a en b; Tijdelijke regeling vrachtverdeling Noord-Zuid-vervoer 1995, art. 19 Waardering: V 5 jaar 
 ###(444)
 
-Handeling: Het desgevraagd uitbrengen van adviezen aan de Kamers van Koophandel en Fabrieken: inzake de bekwaamheid van hen, die zich in het buitenland als scheepsbevrachter willen vestigen; en inzake de bekwaamheid van hen, die zich voor beëdiging als makelaar in scheepsvrachten aanmelden. Periode: 1993– Product: Bron: Regeling Instelling Adviescommissie omtrent geschiktheid als scheepsbevrachter 1992, art. 2, onderdeel c Waardering: V 5 jaar  
+Handeling: Het desgevraagd uitbrengen van adviezen aan de Kamers van Koophandel en Fabrieken: inzake de bekwaamheid van hen, die zich in het buitenland als scheepsbevrachter willen vestigen; en inzake de bekwaamheid van hen, die zich voor beëdiging als makelaar in scheepsvrachten aanmelden. Periode: 1993– Product: Bron: Regeling Instelling Adviescommissie omtrent geschiktheid als scheepsbevrachter 1992, art. 2, onderdeel c Waardering: V 5 jaar 
 
 ### 6.1.13  
 
@@ -3112,7 +3112,7 @@ Handeling: Het desgevraagd uitbrengen van adviezen aan de Kamers van Koophandel 
 
 ###(421)
 
-Handeling: Het in opdracht van de Minister bemiddelen in het conflict in de binnenscheepvaart inzake het Noord-Zuid-vervoer per binnenschip. Periode: 1993–1994 Product: Rapportage Bemiddeling Conflict Binnenscheepvaart Bron: Commissie Albeda, Rapportage Bemiddeling Conflict Binnenscheepvaart, p. 22 Waardering: B1  
+Handeling: Het in opdracht van de Minister bemiddelen in het conflict in de binnenscheepvaart inzake het Noord-Zuid-vervoer per binnenschip. Periode: 1993–1994 Product: Rapportage Bemiddeling Conflict Binnenscheepvaart Bron: Commissie Albeda, Rapportage Bemiddeling Conflict Binnenscheepvaart, p. 22 Waardering: B1 
 
 ### 6.1.14  
 
@@ -3120,7 +3120,7 @@ Handeling: Het in opdracht van de Minister bemiddelen in het conflict in de binn
 
 ###(536)
 
-Handeling: Het formuleren van een aantal onderzoeksopdrachten, en het voorbereiden en begeleiden van een aantal onderzoeken inzake NS-goederenvervoer. Periode: 1979–1981 Product: Onderzoeksopdrachten en onderzoeken Bron: Staatsalmanak 1981, J 49 Waardering: B1: onderzoeksopdrachten en eindrapporten V 10 jaar: rest  
+Handeling: Het formuleren van een aantal onderzoeksopdrachten, en het voorbereiden en begeleiden van een aantal onderzoeken inzake NS-goederenvervoer. Periode: 1979–1981 Product: Onderzoeksopdrachten en onderzoeken Bron: Staatsalmanak 1981, J 49 Waardering: B1: onderzoeksopdrachten en eindrapporten V 10 jaar: rest 
 
 ### 6.1.15  
 
@@ -3134,7 +3134,7 @@ Handeling: Het gevraagd en ongevraagd adviseren van de Minister in alle vraagstu
 Handeling: Het voeren van overleg over beleidsaangelegenheden met betrekking tot het vervoer van goederen te water. Periode: 1992 Product: rapport Bron: Besluit advies en overleg verkeer en waterstaat 1992; Wet vervoer binnenvaart 1991 Waardering: B1 
 ###(456)
 
-Handeling: Het zowel gevraagd als ongevraagd adviseren over maatregelen die moeten worden genomen om te komen tot gezondmaking van het vervoer van droge lading in de binnenvaart. Periode: 1975–1986 Product: Adviesrapporten Bron: Beschikking van 10 december 1975, Stcrt. 252; Staatsalmanak, diverse jaren Waardering: B1  
+Handeling: Het zowel gevraagd als ongevraagd adviseren over maatregelen die moeten worden genomen om te komen tot gezondmaking van het vervoer van droge lading in de binnenvaart. Periode: 1975–1986 Product: Adviesrapporten Bron: Beschikking van 10 december 1975, Stcrt. 252; Staatsalmanak, diverse jaren Waardering: B1 
 
 ### 6.1.16  
 
@@ -3145,7 +3145,7 @@ Handeling: Het zowel gevraagd als ongevraagd adviseren over maatregelen die moet
 Handeling: Het rubriceren van nieuwe gevaarlijke en bijtende stoffen. Periode: 1969–1985 Product: rapporten, rapportages Bron: Besluit 10 december 1969 Stcrt. 245 Waardering: B 5 
 ###(652)
 
-Handeling: Het zich mede doen uitspreken over de wijze van verpakking en over het vervoer in tanks van de door haar gerubriceerde stoffen indien en voorzover naar haar oordeel daartoe in verband met speciale eigenschappen van die stoffen aanleiding bestaat. Periode: 1971–1985 Product: Adviezen Bron: Besluit 9 maart 1971 Stcrt. 50 Waardering: V 20 jaar  
+Handeling: Het zich mede doen uitspreken over de wijze van verpakking en over het vervoer in tanks van de door haar gerubriceerde stoffen indien en voorzover naar haar oordeel daartoe in verband met speciale eigenschappen van die stoffen aanleiding bestaat. Periode: 1971–1985 Product: Adviezen Bron: Besluit 9 maart 1971 Stcrt. 50 Waardering: V 20 jaar 
 
 ### 6.1.17  
 
@@ -3156,7 +3156,7 @@ Handeling: Het zich mede doen uitspreken over de wijze van verpakking en over he
 Handeling: Het rubriceren van de gevaarlijke stoffen behorend tot de open klassen. Periode: 1985–1992 Product: Bron: Beschikking 1985, 1986 Stcrt. 19, later gewijzigd. Waardering: B 5 
 ###(654)
 
-Handeling: Het zich mede uitspreken over de wijze van verpakking en over het vervoer in tanks van de door haar gerubriceerde stoffen indien daartoe aanleiding bestaat. Periode: 1985–1992 Product: Adviezen Bron: Beschikking 1985, 1986 Stcrt. 19 Waardering: V 10 jaar  
+Handeling: Het zich mede uitspreken over de wijze van verpakking en over het vervoer in tanks van de door haar gerubriceerde stoffen indien daartoe aanleiding bestaat. Periode: 1985–1992 Product: Adviezen Bron: Beschikking 1985, 1986 Stcrt. 19 Waardering: V 10 jaar 
 
 ### 6.1.18  
 
@@ -3176,7 +3176,7 @@ Handeling: Het vaststellen van een reglement ter regeling van de werkwijze van d
 Handeling: Het jaarlijks opstellen van een ontwerp-begroting voor de Minister voor haar werkzaamheden van het komende jaar. Periode: 1992–1995 Product: ontwerp-begrotingen Bron: WGS 1963, wijz. 1992 Stb. 146, art. 47 (art. 6g.2) Waardering: B3 
 ###(660)
 
-Handeling: Het, telkens binnen een periode van vijf jaar, uitbrengen van een rapport aan de Minister waarin haar taakvervulling aan een nader onderzoek wordt onderworpen en voorstellen kunnen worden gedaan voor daarin gewenste veranderingen. Periode: 1992–1995 Product: Rapporten Bron: WGS 1963, wijz. 1992 Stb. 146, art. 47 (art. 6i) Waardering: B2  
+Handeling: Het, telkens binnen een periode van vijf jaar, uitbrengen van een rapport aan de Minister waarin haar taakvervulling aan een nader onderzoek wordt onderworpen en voorstellen kunnen worden gedaan voor daarin gewenste veranderingen. Periode: 1992–1995 Product: Rapporten Bron: WGS 1963, wijz. 1992 Stb. 146, art. 47 (art. 6i) Waardering: B2 
 
 ### 6.1.19  
 
@@ -3187,7 +3187,7 @@ Handeling: Het, telkens binnen een periode van vijf jaar, uitbrengen van een rap
 Handeling: Het vaststellen van een reglement betreffende haar werkwijze en het jaarlijks aan de Minister overleggen van een begroting. Periode: 1996–2000 Product: Bron: TWNZ 1995, art. 17, achtste en tiende lid Waardering: V 5 jaar na wijziging 
 ###(432)
 
-Handeling: Het adviseren van de Minister over een ontwerp-overeenkomst met afwijkende tarieven en voorwaarden. Periode: 1996–2000 Product: Adviezen Bron: TWNZ 1995, art. 17-20 Waardering: V 5 jaar  
+Handeling: Het adviseren van de Minister over een ontwerp-overeenkomst met afwijkende tarieven en voorwaarden. Periode: 1996–2000 Product: Adviezen Bron: TWNZ 1995, art. 17-20 Waardering: V 5 jaar 
 
 ### 6.1.20  
 
@@ -3231,7 +3231,7 @@ Handeling: Het in een ‘korte’ procedure op verzoek van de ondernemer besluit
 Handeling: Het ‘in bijzondere omstandigheden’ verlenen of intrekken van een tijdelijke vergunning voor de uitvoering van geregeld dan wel ongeregeld beroepsvervoer: – ex art. 12 geregeld vervoer – ex art. 32/33 onbeperkt ongeregeld vervoer (wilde vaart) – ex art. 34 beperkt ongeregeld vervoer (zgn. BOW-vergunning). Periode: 1954–1959 Product: Beschikking o.b.v. aanvragen en verklaringen van ondernemers, ingediend bij de Rijksinspecteur van het Verkeer, en mededelingen aan de Commissie Bron: WGB 1951, art. 20, 25, 37 Waardering: V 5 jaar 
 ###(342)
 
-Handeling: Het overdragen aan een Rijksinspecteur van de behandeling van, en de beslissing op, aanvragen en verzoeken betreffende de vergunningsverlening voor het (geregeld dan wel ongeregeld) beroepsvervoer. Periode: 1954–1959 Product: bekendmaking Bron: WGB 1951, art. 8, derde lid; Richtlijnen Goederenvervoer 1954; UGB 1954, art. 36–39; Richtlijnen goederenvervoer binnenschepen 1988 Waardering: V 5 jaar  
+Handeling: Het overdragen aan een Rijksinspecteur van de behandeling van, en de beslissing op, aanvragen en verzoeken betreffende de vergunningsverlening voor het (geregeld dan wel ongeregeld) beroepsvervoer. Periode: 1954–1959 Product: bekendmaking Bron: WGB 1951, art. 8, derde lid; Richtlijnen Goederenvervoer 1954; UGB 1954, art. 36–39; Richtlijnen goederenvervoer binnenschepen 1988 Waardering: V 5 jaar 
 
 ### 6.1.21  
 
@@ -3260,7 +3260,7 @@ Handeling: Het overdragen aan een Rijksinspecteur van de behandeling van, en de 
 Handeling: Het in bijzondere gevallen gunstig beslissen op een verzoek om omzetting, dan wel wijziging strekkende tot uitbreiding van een vergunning, in afwijking van de wettelijke eis van het maken van winst. Periode: 1988–1992 Product: beschikking Bron: Richtlijnen Goederenvervoer 1988, Stb. 211, art. 9, tweede lid Waardering: V 5 jaar 
 ###(268)
 
-Handeling: Het, in overeenstemming met het advies van het College van Advies, al dan niet tijdelijk of blijvend wijzigen of intrekken van een vergunning voor beroepsvervoer. Periode: 1988–1992 Product: Beschikkingen Bron: WAG 1951, zoals gewijzigd bij wet van 11 december 1986, Stb. 735, art. 42a Waardering: V 5 jaar  
+Handeling: Het, in overeenstemming met het advies van het College van Advies, al dan niet tijdelijk of blijvend wijzigen of intrekken van een vergunning voor beroepsvervoer. Periode: 1988–1992 Product: Beschikkingen Bron: WAG 1951, zoals gewijzigd bij wet van 11 december 1986, Stb. 735, art. 42a Waardering: V 5 jaar 
 
 ### 6.1.22  
 
@@ -3316,7 +3316,7 @@ Handeling: Het ‘in bijzondere omstandigheden’ verlenen of intrekken van een 
 Handeling: Het overdragen aan een Rijksinspecteur van de behandeling van, en de beslissing op, aanvragen en verzoeken betreffende de vergunningsverlening voor het (geregeld dan wel ongeregeld) beroepsvervoer. Periode: 1954–1959 Product: bekendmaking Bron: WGB 1951, art. 8, derde lid; Richtlijnen Goederenvervoer 1954; UGB 1954, art. 36–39; Richtlijnen goederenvervoer binnenschepen 1988 Waardering: V 5 jaar 
 ###(498)
 
-Handeling: Het al dan niet verstrekken van inlichtingen en het zich verweren inzake een beroep, ingesteld tegen een op grond van de WGB genomen beschikking. Periode: 1984–1992 Product: Verweerschrift, conclusie van dupliek, verzoekschrift e.d. Bron: Wet administratieve rechtspraak bedrijfsorganisatie 1954, Stb. 416, diverse art. Waardering: V 5 jaar  
+Handeling: Het al dan niet verstrekken van inlichtingen en het zich verweren inzake een beroep, ingesteld tegen een op grond van de WGB genomen beschikking. Periode: 1984–1992 Product: Verweerschrift, conclusie van dupliek, verzoekschrift e.d. Bron: Wet administratieve rechtspraak bedrijfsorganisatie 1954, Stb. 416, diverse art. Waardering: V 5 jaar 
 
 ### 6.1.23  
 
@@ -3327,7 +3327,7 @@ Handeling: Het al dan niet verstrekken van inlichtingen en het zich verweren inz
 Handeling: Het binnen het kader van door de Minister goedgekeurde of voorgeschreven tarieven vaststellen van noteringen, waartegen de afroep van aanvragen om scheepsruimte op plaatsen van tussenkomst in het district plaats vindt. Periode: 1954–1981 Bron: Beursreglement 1954, Stcrt. 28 en 31, zoals laatstelijk gewijzigd bij beschikking van 24 maart 1975, Stcrt. 63, art. 2 Waardering: V 5 jaar 
 ###(411)
 
-Handeling: Het adviseren van: de Rijksinspecteur van het district t.a.v. de toepassing van toeslagen m.b.t. ijsrisico; desgevraagd de Minister t.a.v. verzoeken m.b.t. het verlenen van ontheffing van tarieven dan wel vaststellen/goedkeuren van speciale tarieven. Periode: 1954–1981 Product: Adviezen Opmerking: Ad b: Een advies wordt pas uitgebracht nadat de betrokken vervoerders en verladers door de commissie zijn gehoord of daartoe opgeroepen. Bron: Beursreglement 1954, Stcrt. 28 en 31, zoals laatstelijk gewijzigd bij beschikking van 24 maart 1975, Stcrt. 63, art. 2 en 6 Waardering: V 5 jaar  
+Handeling: Het adviseren van: de Rijksinspecteur van het district t.a.v. de toepassing van toeslagen m.b.t. ijsrisico; desgevraagd de Minister t.a.v. verzoeken m.b.t. het verlenen van ontheffing van tarieven dan wel vaststellen/goedkeuren van speciale tarieven. Periode: 1954–1981 Product: Adviezen Opmerking: Ad b: Een advies wordt pas uitgebracht nadat de betrokken vervoerders en verladers door de commissie zijn gehoord of daartoe opgeroepen. Bron: Beursreglement 1954, Stcrt. 28 en 31, zoals laatstelijk gewijzigd bij beschikking van 24 maart 1975, Stcrt. 63, art. 2 en 6 Waardering: V 5 jaar 
 
 ### 6.1.24  
 
@@ -3341,7 +3341,7 @@ Handeling: Het vaststellen van een reglement van orde. Periode: 1954–1992 Prod
 Handeling: Het adviseren van de Rijksinspecteur omtrent een aanvraag om een vergunning voor het geregeld dan wel ongeregeld beroepsvervoer. Periode: 1954–1992 Product: adviezen Bron: WAG 1951, art. 23, vijfde lid en 35, derde lid; UAG 1954, art. 72; WGB 1951, art. 21, vijfde lid en 33, derde lid UGB 1954, art. 14, tweede lid Opmerking: De Rijksinspecteur deelt de commissie zijn beslissing in deze mede. Waardering: V 5 jaar 
 ###(183)
 
-Handeling: Het adviseren van de SIEV respectievelijk de Rijksinspecteur omtrent een aanvraag dan wel een doorhaling van een inschrijving van eigen vervoer. Periode: 1954–1992 Product: Adviezen Bron: WAG 1951, art. 46 en 49; UAG 1954, art. 74; WGB 1951, art. 47 en 50; UGB 1954, art. 16 en 65; Beschikking overdracht inschrijving eigen vervoer, Stcrt. 1954 Waardering: V 5 jaar  
+Handeling: Het adviseren van de SIEV respectievelijk de Rijksinspecteur omtrent een aanvraag dan wel een doorhaling van een inschrijving van eigen vervoer. Periode: 1954–1992 Product: Adviezen Bron: WAG 1951, art. 46 en 49; UAG 1954, art. 74; WGB 1951, art. 47 en 50; UGB 1954, art. 16 en 65; Beschikking overdracht inschrijving eigen vervoer, Stcrt. 1954 Waardering: V 5 jaar 
 
 ### 6.1.25  
 
@@ -3364,7 +3364,7 @@ Handeling: Het voeren van overleg over beleidsaangelegenheden, voor zover deze b
 Handeling: Het voeren van overleg over beleidsaangelegenheden, voor zover deze betrekking hebben op het deelterrein intermodaal vervoer. Periode: 1992– Product: Rapporten Bron: Wet Raad voor verkeer en waterstaat van 2 maart 1992 (Stb. 1992, 146) en Besluit van 18 september 1992 (Stb. 1992, 503) Waardering: V 5 jaar 
 ###(668)
 
-Handeling: Het voeren van overleg over beleidsaangelegenheden met betrekking tot het vervoer van gevaarlijke stoffen. Periode: 1992–1996 Product: Rapporten, verslagen Bron: Besluit advies en overleg verkeer en waterstaat 1992 Waardering: B5  
+Handeling: Het voeren van overleg over beleidsaangelegenheden met betrekking tot het vervoer van gevaarlijke stoffen. Periode: 1992–1996 Product: Rapporten, verslagen Bron: Besluit advies en overleg verkeer en waterstaat 1992 Waardering: B5 
 
 ### 6.1.26  
 
@@ -3381,7 +3381,7 @@ Handeling: Het opstellen van richtlijnen ten behoeve van de rapportage van keuri
 Handeling: Het uitgeven van VN-kenmerken aan verpakkingen op basis van verrichte keuringen en keuringsrapporten. Periode: 1983–1995 Product: Bron: Regeling 27 september 1983 Stcrt. 207, art. 2g Waardering: V 5 jaar 
 ###(665)
 
-Handeling: Het zo nodig adviseren bij het verlenen van ontheffingen voor speciale transporten. Periode: 1983–1995 Product: adviezen Bron: Regeling 27 september 1983 Stcrt. 207, art. 2i Waardering: V 5 jaar  
+Handeling: Het zo nodig adviseren bij het verlenen van ontheffingen voor speciale transporten. Periode: 1983–1995 Product: adviezen Bron: Regeling 27 september 1983 Stcrt. 207, art. 2i Waardering: V 5 jaar 
 
 ### 6.1.27  
 
@@ -3395,7 +3395,7 @@ Handeling: Het regelen van de werkzaamheden van de Raad. Periode: 1988–1992 Pr
 Handeling: Het jaarlijks verslag uitbrengen aan de Minister over de werkzaamheden. Periode: 1988–1992 Product: jaarverslag Bron: UAG 1988, art. 73 Waardering: B3 
 ###(152)
 
-Handeling: Het nader uitwerken van het te voeren beleid m.b.t. het verlenen van vergunningen. Periode: 1954–1992 Product: Rapporten, bv. ‘De capaciteitssituatie in het onbeperkt ongeregeld beroepsgoederenvervoer over de weg in 1985’ (Den Haag 1986); Rapporten, Bekendmakingen, bv. Bekendmaking van de CVV van 31 maart 1966 betreffende stopzetting verlening vergunningen ex art. 32 WGB, Stcrt. 66; Bekendmaking CVV van 20 maart 1980 inzake de beoordeling schepen van verzoeken om verlenging van wildevaartvergunningen, Stcrt. 243 Bron: WAG 1951, gewijzigd bij wet van 11 december 1986, Stb. 735, art. 8; Richtlijnen goederenvervoer 1954, Stb. 24, II A 1 en II C 4, eerste lid: Richtlijnen autovervoer goederen van 2 mei 1988, Stb. 211, art. 2-4; WGB 1951, Stb. 472, sedertdien gewijzigd, art. 8; Richtlijnen goederenvervoer 1954, Stb. 24, II A 1 Opmerking: De doelstelling van onder andere de Raad is het verzekeren van een uit een algemeen maatschappelijk oogpunt verantwoord apparaat voor het vervoer van goederen, waarbij het particulier initiatief zoveel mogelijk tot haar recht dient te komen. In dit verband is de Raad ook bevoegd voorstellen te doen m.b.t. ander vervoer dan bedoeld in de WAG. Waardering: B5  
+Handeling: Het nader uitwerken van het te voeren beleid m.b.t. het verlenen van vergunningen. Periode: 1954–1992 Product: Rapporten, bv. ‘De capaciteitssituatie in het onbeperkt ongeregeld beroepsgoederenvervoer over de weg in 1985’ (Den Haag 1986); Rapporten, Bekendmakingen, bv. Bekendmaking van de CVV van 31 maart 1966 betreffende stopzetting verlening vergunningen ex art. 32 WGB, Stcrt. 66; Bekendmaking CVV van 20 maart 1980 inzake de beoordeling schepen van verzoeken om verlenging van wildevaartvergunningen, Stcrt. 243 Bron: WAG 1951, gewijzigd bij wet van 11 december 1986, Stb. 735, art. 8; Richtlijnen goederenvervoer 1954, Stb. 24, II A 1 en II C 4, eerste lid: Richtlijnen autovervoer goederen van 2 mei 1988, Stb. 211, art. 2-4; WGB 1951, Stb. 472, sedertdien gewijzigd, art. 8; Richtlijnen goederenvervoer 1954, Stb. 24, II A 1 Opmerking: De doelstelling van onder andere de Raad is het verzekeren van een uit een algemeen maatschappelijk oogpunt verantwoord apparaat voor het vervoer van goederen, waarbij het particulier initiatief zoveel mogelijk tot haar recht dient te komen. In dit verband is de Raad ook bevoegd voorstellen te doen m.b.t. ander vervoer dan bedoeld in de WAG. Waardering: B5 
 
 ### 6.1.28  
 
@@ -3421,7 +3421,7 @@ Handeling: Het voeren van overleg over beleidsaangelegenheden, voor zover deze b
 Handeling: Het adviseren over beleidsaangelegenheden, voor zover deze betrekking hebben op het deelterrein intermodaal vervoer. Periode: 1992– Product: rapporten, voorbeeld: Advies Trans-Europees intermodaal goederenvervoer (1996) Bron: Wet Raad voor Verkeer en Waterstaat 1992, Stb. 146 en Besluit van 18 september 1992, Stb. 503 Waardering: B1 
 ###(666)
 
-Handeling: Het adviseren van de Minister omtrent aangelegenheden die betrekking hebben op het vervoer van gevaarlijke stoffen. Periode: 1992–1996 Product: Adviezen, rapporten, verslagen Bron: WGS 1963, wijziging art. 6 in Wet Raad voor Verkeer en Waterstaat 1992, Stb 146 art. 51 Waardering: B1  
+Handeling: Het adviseren van de Minister omtrent aangelegenheden die betrekking hebben op het vervoer van gevaarlijke stoffen. Periode: 1992–1996 Product: Adviezen, rapporten, verslagen Bron: WGS 1963, wijziging art. 6 in Wet Raad voor Verkeer en Waterstaat 1992, Stb 146 art. 51 Waardering: B1 
 
 ### 6.1.29  
 
@@ -3435,7 +3435,7 @@ Handeling: Het vaststellen van, en afnemen van examens ter voldoening aan, de ei
 Handeling: Het organiseren van examens voor vakdiploma’s voor het beroepsvervoer, die dienen ter voldoening aan de eis van vakbekwaamheid voor binnenlands dan wel grensoverschrijdend beroepsvervoer. Periode: 1954–1992 Product: diploma binnenlands vervoer met vrachtauto’s tegen vergoeding / diploma grensoverschrijdend vervoer met vrachtauto’s tegen vergoeding Bron: Staatsalmanak 1994–1995, Z 25 Waardering: V 5 jaar 
 ###(198)
 
-Handeling: Het vaststellen van het reglement en het organiseren van het examen voor de vakdiploma’s voor het beroepsvervoer, die dienen ter voldoening aan de eis van vakbekwaamheid voor binnenlands dan wel grensoverschrijdend beroepsvervoer. Periode: 1992– Product: Reglement van het examen ter verkrijging van het Vakdiploma Binnenlands Beroepsgoederenvervoer met vrachtauto’s dan wel van het Vakdiploma Grensoverschrijdend Beroepsgoederenvervoer met vrachtauto’s Bron: Staatsalmanak 1994–1995, Z 25; Bgw 1992, art. 21 en 22 Waardering: V 5 jaar na wijziging  
+Handeling: Het vaststellen van het reglement en het organiseren van het examen voor de vakdiploma’s voor het beroepsvervoer, die dienen ter voldoening aan de eis van vakbekwaamheid voor binnenlands dan wel grensoverschrijdend beroepsvervoer. Periode: 1992– Product: Reglement van het examen ter verkrijging van het Vakdiploma Binnenlands Beroepsgoederenvervoer met vrachtauto’s dan wel van het Vakdiploma Grensoverschrijdend Beroepsgoederenvervoer met vrachtauto’s Bron: Staatsalmanak 1994–1995, Z 25; Bgw 1992, art. 21 en 22 Waardering: V 5 jaar na wijziging 
 
 ### 6.1.30  
 
@@ -3473,7 +3473,7 @@ Handeling: Het al dan niet afgeven dan wel intrekken van aanvullende documenten 
 Handeling: Het doorhalen van een inschrijving voor eigen vervoer Periode: 1992– Product: Doorhalingen Bron: Wgw 1992, art. 23; Bwg 1992, art. 61 Waardering: V 5 jaar 
 ###(284)
 
-Handeling: Het deelnemen aan onderhandelingen in het kader van bilaterale verdragen met andere Staten, dan wel ter afsluiting van bilaterale verdragen. Periode: 1992– Product: Verdragen Bron: Wgw 1992, art. 34, onderdeel g Waardering: V 5 jaar  
+Handeling: Het deelnemen aan onderhandelingen in het kader van bilaterale verdragen met andere Staten, dan wel ter afsluiting van bilaterale verdragen. Periode: 1992– Product: Verdragen Bron: Wgw 1992, art. 34, onderdeel g Waardering: V 5 jaar 
 
 ### 6.1.31  
 
@@ -3484,7 +3484,7 @@ Handeling: Het deelnemen aan onderhandelingen in het kader van bilaterale verdra
 Handeling: Het opstellen van een reglement ter verkrijging van diploma’s voor het beroep van schipper en machinist voor zowel de binnenlandse als de Rijnvaart. Periode: 1945–1995 Product: reglement Bron: Van Marle, Binnenlands vervoer, p. 84 Waardering: V 5 jaar na wijziging 
 ###(360)
 
-Handeling: Het, indien het betreffende examen met goed gevolg is afgelegd, afgeven van het Vakdiploma Ondernemer in de Binnenvaart, dat dient ter voldoening aan de eis van vakbekwaamheid. Periode: 1993–1995 Product: Beschikking Bron: Regeling vergunningsverlening vervoer 1992, art. 2, eerste lid Waardering: V 5 jaar na overlijden van de examenkandidaat.  
+Handeling: Het, indien het betreffende examen met goed gevolg is afgelegd, afgeven van het Vakdiploma Ondernemer in de Binnenvaart, dat dient ter voldoening aan de eis van vakbekwaamheid. Periode: 1993–1995 Product: Beschikking Bron: Regeling vergunningsverlening vervoer 1992, art. 2, eerste lid Waardering: V 5 jaar na overlijden van de examenkandidaat. 
 
 ### 6.1.32  
 
@@ -3564,7 +3564,7 @@ Handeling: Het (eventueel) uitvoeren van overige, bij Ministeriële regeling te 
 Handeling: Het intrekken van een vergunning voor binnenlands beroepsvervoer. Periode: 1992– Product: Bron: Wgw 1992, art. 12; Bwg 1992, art. 36 en 37 Waardering: V 5 jaar 
 ###(283)
 
-Handeling: Het deelnemen aan onderhandelingen in het kader van bilaterale verdragen, dan wel ter afsluiting van bilaterale verdragen. Periode: 1992– Product: Verdragen Bron: Wgw 1992, art. 32, onderdeel g; Bgw 1992, art. 7, eerste lid, onderdeel c Waardering: B1  
+Handeling: Het deelnemen aan onderhandelingen in het kader van bilaterale verdragen, dan wel ter afsluiting van bilaterale verdragen. Periode: 1992– Product: Verdragen Bron: Wgw 1992, art. 32, onderdeel g; Bgw 1992, art. 7, eerste lid, onderdeel c Waardering: B1 
 
 ### 6.1.33  
 
@@ -3572,7 +3572,7 @@ Handeling: Het deelnemen aan onderhandelingen in het kader van bilaterale verdra
 
 ###(271)
 
-Handeling: Het, op klacht of ambtshalve, al dan niet besluiten tot behandeling van een zaak en het nemen van een of meerdere maatregelen, zijnde: – het geheel of gedeeltelijk intrekken van de vergunning, dan wel de ontheffing voor (on-) bepaalde tijd c.q. het opleggen van een verbod; – een geldboete; – een waarschuwing. Periode: 1954–1992 Product: Beschikkingen Bron: WAG 1951, zoals gewijzigd bij wet van 11 december 1986, Stb. 735, art. 42a; UAG 1988 55 e.v. Waardering: V 10 jaar  
+Handeling: Het, op klacht of ambtshalve, al dan niet besluiten tot behandeling van een zaak en het nemen van een of meerdere maatregelen, zijnde: – het geheel of gedeeltelijk intrekken van de vergunning, dan wel de ontheffing voor (on-) bepaalde tijd c.q. het opleggen van een verbod; – een geldboete; – een waarschuwing. Periode: 1954–1992 Product: Beschikkingen Bron: WAG 1951, zoals gewijzigd bij wet van 11 december 1986, Stb. 735, art. 42a; UAG 1988 55 e.v. Waardering: V 10 jaar 
 
 ### 6.1.34  
 
@@ -3595,7 +3595,7 @@ Handeling: Het adviseren over het gemeenschappelijk (EU-) spoorwegbeleid Periode
 Handeling: Het adviseren over beleidsaangelegenheden, voor zover deze betrekking hebben op het deelterrein intermodaal vervoer. Periode: 1992– Product: rapporten, voorbeeld: Advies Trans-Europees intermodaal goederenvervoer (1996) Bron: Wet Raad voor Verkeer en Waterstaat 1992, Stb. 146 en Besluit van 18 september 1992, Stb. 503 Waardering: B1 
 ###(667)
 
-Handeling: Het voorbereiden van adviezen van de Raad voor Verkeer en Waterstaat die betrekking hebben op het beleid ten aanzien van het vervoer van gevaarlijke stoffen. Periode: 1992–1996 Product: adviezen Bron: Besluit advies en overleg verkeer en waterstaat 1992, Stb. 503, art. 1d Waardering: B1  
+Handeling: Het voorbereiden van adviezen van de Raad voor Verkeer en Waterstaat die betrekking hebben op het beleid ten aanzien van het vervoer van gevaarlijke stoffen. Periode: 1992–1996 Product: adviezen Bron: Besluit advies en overleg verkeer en waterstaat 1992, Stb. 503, art. 1d Waardering: B1 
 
 ### 6.1.35  
 
@@ -3615,7 +3615,7 @@ Handeling: Het adviseren over het gemeenschappelijk (EU-) beleid inzake het goed
 Handeling: Het adviseren over het gemeenschappelijk (EU-) beleid inzake het goederenvervoer over de binnenwateren. Periode: 1987–1991 Product: Advies Bron: -- Waardering: B1 
 ###(582)
 
-Handeling: Het adviseren over het gemeenschappelijk (EU-) spoorwegbeleid Periode: 1987–1991 Product: Adviezen Bron: Raad voor het Vervoer, Advies spoorwegbeleid Waardering: B1  
+Handeling: Het adviseren over het gemeenschappelijk (EU-) spoorwegbeleid Periode: 1987–1991 Product: Adviezen Bron: Raad voor het Vervoer, Advies spoorwegbeleid Waardering: B1 
 
 ### 6.2  
 
@@ -3629,7 +3629,7 @@ Handeling: Het goedkeuren van het reglement, opgesteld door het Koninklijk Onder
 Handeling: Het, samen met de Minister van Verkeer en Waterstaat, goedkeuren van het examenreglement, opgesteld door de Stichting Koninklijk Onderwijsfonds voor de Scheepvaart (KOF), voor het verkrijgen van het Vakdiploma Ondernemer in de Binnenvaart. Periode: 1993– Product: Beschikking Bron: Regeling vergunningsverlening vervoer 1992, art. 2, tweede lid Waardering: V 5 jaar na wijziging 
 ###(842)
 
-Handeling: Het goedkeuren van de financiële verantwoording van het Koninklijk Onderwijsfonds voor de Scheepvaart. Periode: 1951–2004 Product: Beschikking Bron: Interview met J. ’t Hoen Waardering: V, 10 jaar  
+Handeling: Het goedkeuren van de financiële verantwoording van het Koninklijk Onderwijsfonds voor de Scheepvaart. Periode: 1951–2004 Product: Beschikking Bron: Interview met J. ’t Hoen Waardering: V, 10 jaar 
 
 ### 6.3  
 
@@ -3650,5 +3650,5 @@ Handeling: Het beslissen in een beroep, ingesteld tegen een op grond van de Wgw 
 Handeling: Het beslissen in een beroep, ingesteld tegen een op grond van de WGB genomen beschikking. Periode: 1984–1992 Product: Beschikking Bron: WGB 1951, zoals gewijzigd bij wet van 28 april 1983, Stb. 254 en bij wet van 12 maart 1986, Stb. 99, art. 53-56 Waardering: B 5 
 ###(504)
 
-Handeling: Het beslissen in een beroep, ingesteld tegen een op grond van de WSSB, Wvb of TWNZ genomen beschikking. Periode: 1990– Product: Beschikking Bron: WSS 1990, art. 18; Wvb 1991, art. 59; TWNZ 1995, art. 28 Waardering: B 5.  
+Handeling: Het beslissen in een beroep, ingesteld tegen een op grond van de WSSB, Wvb of TWNZ genomen beschikking. Periode: 1990– Product: Beschikking Bron: WSS 1990, art. 18; Wvb 1991, art. 59; TWNZ 1995, art. 28 Waardering: B 5. 
 

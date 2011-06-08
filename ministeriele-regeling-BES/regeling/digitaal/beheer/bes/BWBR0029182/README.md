@@ -36,15 +36,15 @@ In deze regeling wordt verstaan onder:
 
 *vorm:* de uiterlijke verschijning waarin de structuur zichtbaar is;  
 
-*werkproces:* de uitvoering van de taak of handeling uit hoofde waarvan archiefbescheiden door een overheidsorgaan worden ontvangen of opgemaakt als naar hun aard bestemd om daaronder te berusten.    
+*werkproces:* de uitvoering van de taak of handeling uit hoofde waarvan archiefbescheiden door een overheidsorgaan worden ontvangen of opgemaakt als naar hun aard bestemd om daaronder te berusten.   
 
 ### Artikel  2  
 
-Deze regeling is op de in de archiefbewaarplaats berustende archiefbescheiden slechts van toepassing indien daaraan voldaan was op het tijdstip van de overbrenging, bedoeld in [artikel 17 van de Archiefwet BES](../../../../../../wet-BES/archiefwet/bes/BWBR0028369/README.md).  
+Deze regeling is op de in de archiefbewaarplaats berustende archiefbescheiden slechts van toepassing indien daaraan voldaan was op het tijdstip van de overbrenging, bedoeld in [artikel 17 van de Archiefwet BES](../../../../../../wet-BES/archiefwet/bes/BWBR0028369/README.md). 
 
 ### Artikel  3  
 
-De zorgdrager draagt zorg dat elk onder hem ressorterend overheidsorgaan beschikt over een documentair structuurplan.  
+De zorgdrager draagt zorg dat elk onder hem ressorterend overheidsorgaan beschikt over een documentair structuurplan. 
 
 ### Artikel  4  
 
@@ -54,11 +54,11 @@ Van elk van de archiefbescheiden dient te allen tijde te kunnen worden vastgeste
 
 * b. op welk tijdstip en uit hoofde van welke taak of handeling het door het overheidsorgaan werd ontvangen of opgemaakt;  
 
-* c. de samenhang met de andere door het overheidsorgaan ontvangen en opgemaakte archiefbescheiden.    
+* c. de samenhang met de andere door het overheidsorgaan ontvangen en opgemaakte archiefbescheiden.   
 
 ### Artikel  5  
 
-De zorgdrager draagt zorg dat elk onder hem ressorterend overheidsorgaan beschikt over een compleet en logisch samenhangend overzicht van de bij dat overheidsorgaan berustende archiefbescheiden (geordend overeenkomstig het ten tijde van de vorming van het archief daarvoor geldende documentair structuurplan) en de bestanden waarin deze bewaard worden, met daarin ten minste de gegevens, bedoeld in artikel 11, eerste lid, onderdeel e, alsmede de verblijfplaats van de archiefbescheiden.  
+De zorgdrager draagt zorg dat elk onder hem ressorterend overheidsorgaan beschikt over een compleet en logisch samenhangend overzicht van de bij dat overheidsorgaan berustende archiefbescheiden (geordend overeenkomstig het ten tijde van de vorming van het archief daarvoor geldende documentair structuurplan) en de bestanden waarin deze bewaard worden, met daarin ten minste de gegevens, bedoeld in artikel 11, eerste lid, onderdeel e, alsmede de verblijfplaats van de archiefbescheiden. 
 
 ### Artikel  6  
 
@@ -66,7 +66,7 @@ De zorgdrager draagt zorg dat het archiefbeheerssysteem de toegankelijke staat v
 
 * a. elk van de archiefbescheiden kan worden gevonden, waarvan slechts bekend is hetzij enig onderwerp dat in het stuk behandeld is, hetzij het werkproces uit hoofde waarvan het stuk is ontvangen of opgemaakt, hetzij wie de afzender is, zomede de datum en het nummer door de afzender aan het stuk gegeven, hetzij het nummer waaronder het stuk bij het ontstaan is geregistreerd;  
 
-* b. elk van de archiefbescheiden binnen redelijke tijd leesbaar of waarneembaar te maken is. Daartoe verleent degene die met het beheer is belast de benodigde medewerking met inbegrip van het verschaffen van het benodigde inzicht in de opzet en de werking van het archiefbeheerssysteem.    
+* b. elk van de archiefbescheiden binnen redelijke tijd leesbaar of waarneembaar te maken is. Daartoe verleent degene die met het beheer is belast de benodigde medewerking met inbegrip van het verschaffen van het benodigde inzicht in de opzet en de werking van het archiefbeheerssysteem.   
 
 ### Artikel  7  
 
@@ -74,21 +74,21 @@ De zorgdrager draagt zorg dat het archiefbeheerssysteem de toegankelijke staat v
 
 * 2. Iedere conversie of migratie die niet geschiedt met inachtneming van het in de artikelen 4, 5 en 6 bepaalde, is een vervanging in de zin van [artikel 8 van de Archiefwet BES](../../../../../../wet-BES/archiefwet/bes/BWBR0028369/README.md).  
 
-* 3. De zorgdrager maakt van de conversie of migratie een verklaring op, die ten minste een specificatie van de geconverteerde of gemigreerde archiefbescheiden bevat, alsmede aangeeft op welke wijze en met welk resultaat getoetst is of aan het in de artikelen 4, 5 en 6 bepaalde voldaan kan worden na de conversie of migratie.    
+* 3. De zorgdrager maakt van de conversie of migratie een verklaring op, die ten minste een specificatie van de geconverteerde of gemigreerde archiefbescheiden bevat, alsmede aangeeft op welke wijze en met welk resultaat getoetst is of aan het in de artikelen 4, 5 en 6 bepaalde voldaan kan worden na de conversie of migratie.   
 
 ### Artikel  8  
 
-Digitale archiefbescheiden dienen, uiterlijk op het tijdstip van overbrenging naar de archiefbewaarplaats, bedoeld in de [artikelen 17](../../../../../../wet-BES/archiefwet/bes/BWBR0028369/README.md) en [18 van de Archiefwet BES](../../../../../../wet-BES/archiefwet/bes/BWBR0028369/README.md), te worden opgeslagen volgens de standaard, vermeld in bijlage 1.  
+Digitale archiefbescheiden dienen, uiterlijk op het tijdstip van overbrenging naar de archiefbewaarplaats, bedoeld in de [artikelen 17](../../../../../../wet-BES/archiefwet/bes/BWBR0028369/README.md) en [18 van de Archiefwet BES](../../../../../../wet-BES/archiefwet/bes/BWBR0028369/README.md), te worden opgeslagen volgens de standaard, vermeld in bijlage 1. 
 
 ### Artikel  9  
 
-De ordening en toegankelijkheid van de archiefbescheiden, zoals gerealiseerd door middel van toepassingsprogrammatuur, maken onverbrekelijk onderdeel uit van de archiefbescheiden waarop ze betrekking hebben.  
+De ordening en toegankelijkheid van de archiefbescheiden, zoals gerealiseerd door middel van toepassingsprogrammatuur, maken onverbrekelijk onderdeel uit van de archiefbescheiden waarop ze betrekking hebben. 
 
 ### Artikel  10  
 
 * 1. De zorgdrager draagt zorg voor het vastleggen van de functionele eisen ten aanzien van de inhoud, structuur en vorm, bedoeld in artikel 4.  
 
-* 2. De zorgdrager draagt, teneinde aan het in de artikelen 4, 5, 6 en 9 bepaalde te voldoen, zorg voor de bewaring van de toepassingsprogrammatuur, met inbegrip van de nieuwere versies, overeenkomstig het bij of krachtens de [Archiefwet BES](../../../../../../wet-BES/archiefwet/bes/BWBR0028369/README.md) voor archiefbescheiden bepaalde. In voorkomende gevallen draagt de zorgdrager zorg voor de daartoe noodzakelijke regeling van licenties inzake toepassingsprogrammatuur.    
+* 2. De zorgdrager draagt, teneinde aan het in de artikelen 4, 5, 6 en 9 bepaalde te voldoen, zorg voor de bewaring van de toepassingsprogrammatuur, met inbegrip van de nieuwere versies, overeenkomstig het bij of krachtens de [Archiefwet BES](../../../../../../wet-BES/archiefwet/bes/BWBR0028369/README.md) voor archiefbescheiden bepaalde. In voorkomende gevallen draagt de zorgdrager zorg voor de daartoe noodzakelijke regeling van licenties inzake toepassingsprogrammatuur.   
 
 ### Artikel  11  
 
@@ -118,7 +118,7 @@ De ordening en toegankelijkheid van de archiefbescheiden, zoals gerealiseerd doo
 
 * l. in geval van een database: de documentatie over de structuur, tenminste omvattende een compleet logisch datamodel met beschrijving van de entiteiten.    
 
-* 2. Op de vastlegging en bewaring, bedoeld in het eerste lid, zijn de voor archiefbescheiden ingevolge [artikel 12 van de Archiefwet BES](../../../../../../wet-BES/archiefwet/bes/BWBR0028369/README.md) geldende regels van overeenkomstige toepassing.    
+* 2. Op de vastlegging en bewaring, bedoeld in het eerste lid, zijn de voor archiefbescheiden ingevolge [artikel 12 van de Archiefwet BES](../../../../../../wet-BES/archiefwet/bes/BWBR0028369/README.md) geldende regels van overeenkomstige toepassing.   
 
 ### Artikel  12  
 
@@ -126,29 +126,29 @@ De ordening en toegankelijkheid van de archiefbescheiden, zoals gerealiseerd doo
 
 * 2. Onverminderd het in artikel 7 bepaalde worden de archiefbescheiden, bedoeld in het eerste lid, in hun oorspronkelijke opslagformaat bewaard.  
 
-* 3. Met toestemming van de minister blijven de artikelen 4, 6, 8 en 10 buiten toepassing ten aanzien van sedert 1 januari 2006 ontvangen en opgemaakte digitale archiefbescheiden in bestanden waaraan sedert 1 januari 2007 geen gegevens zijn toegevoegd of waarin sedert die datum geen gegevens zijn gewijzigd. Aan deze toestemming kunnen voorwaarden worden verbonden.    
+* 3. Met toestemming van de minister blijven de artikelen 4, 6, 8 en 10 buiten toepassing ten aanzien van sedert 1 januari 2006 ontvangen en opgemaakte digitale archiefbescheiden in bestanden waaraan sedert 1 januari 2007 geen gegevens zijn toegevoegd of waarin sedert die datum geen gegevens zijn gewijzigd. Aan deze toestemming kunnen voorwaarden worden verbonden.   
 
 ### Artikel  13  
 
-Vervallen  
+Vervallen 
 
 ### Artikel  14  
 
-Vervallen  
+Vervallen 
 
 ### Artikel  15  
 
-Vervallen  
+Vervallen 
 
 ### Artikel  16  
 
-Vervallen  
+Vervallen 
 
 ### Artikel  17  
 
-Deze regeling wordt aangehaald als: Regeling digitaal beheer BES.  
+Deze regeling wordt aangehaald als: Regeling digitaal beheer BES. 
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####behorende bij de Regeling digitaal beheer BES
 

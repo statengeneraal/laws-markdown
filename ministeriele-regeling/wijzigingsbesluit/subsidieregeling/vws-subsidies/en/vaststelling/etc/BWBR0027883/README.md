@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Subsidieregeling VWS-subsidies.   
+Wijzigt de Subsidieregeling VWS-subsidies. 
 
 ### Artikel  II  
 
@@ -19,13 +19,13 @@ a. wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht
 
 b. wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad een onvolledige of incorrecte aanvraag aan te vullen, de dag waarop de aangevulde aanvraag is ontvangen, met betrekking tot de verdeling als de datum van ontvangst geldt. Indien de gelegenheid tot het aanvullen van de aanvraag meer dan vier weken na ontvangst van de aanvraag is geboden, wordt de datum van ontvangst van de aangevulde aanvraag met betrekking tot de verdeling vervroegd met het aantal dagen waarmee de termijn van vier weken is overschreden;  
 
-c. indien honorering van alle aanvragen die op dezelfde dag zijn ontvangen ertoe zou leiden dat het subsidieplafond zou worden overschreden, de minister voorrang geeft aan aanvragen met het laagst aangevraagde subsidiebedrag.     
+c. indien honorering van alle aanvragen die op dezelfde dag zijn ontvangen ertoe zou leiden dat het subsidieplafond zou worden overschreden, de minister voorrang geeft aan aanvragen met het laagst aangevraagde subsidiebedrag.    
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-A.Klink.   
+Minister van Volksgezondheid, Welzijn en Sport, 
+A. Klink.     

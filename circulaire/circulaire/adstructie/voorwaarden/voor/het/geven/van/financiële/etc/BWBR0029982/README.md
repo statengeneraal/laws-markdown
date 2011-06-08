@@ -38,6 +38,6 @@ Deze MG-circulaire treedt in werking met ingang van de dag na de datum van uitgi
 Hoogachtend, 
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties,voor deze:
-de Directeur-Generaal Wonen, Wijken en Integratie,
-M.Frequin   
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: 
+de Directeur-Generaal Wonen, Wijken en Integratie,  
+M. Frequin     

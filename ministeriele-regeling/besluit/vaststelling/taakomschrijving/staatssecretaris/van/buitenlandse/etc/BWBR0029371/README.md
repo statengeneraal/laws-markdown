@@ -24,17 +24,17 @@ e. Ontwikkelingssamenwerking en de OS-coherentie;
 
 f. De coördinatie van de ODA-middelen;  
 
-g. en andere aangelegenheden waarvan behartiging door de minister aan hem wordt toevertrouwd.    
+g. en andere aangelegenheden waarvan behartiging door de minister aan hem wordt toevertrouwd.   
 
 ### Artikel  2  
 
-De staatssecretaris voert in de contacten, die hij bij de behartiging van de onder a. tot en met g. genoemde aangelegenheden met buitenlanders heeft, de titel: minister voor Europese Zaken en Internationale Samenwerking.  
+De staatssecretaris voert in de contacten, die hij bij de behartiging van de onder a. tot en met g. genoemde aangelegenheden met buitenlanders heeft, de titel: minister voor Europese Zaken en Internationale Samenwerking. 
 
 ### Artikel  3  
 
-De taaktoebedeling aan de staatssecretaris is per 14 oktober 2010 ingegaan.  
+De taaktoebedeling aan de staatssecretaris is per 14 oktober 2010 ingegaan. 
 Dit besluit zal in de Staatscourant worden geplaatst.  
 
 De 
-minister van Buitenlandse Zaken,
-U.Rosenthal   
+minister van Buitenlandse Zaken, 
+U. Rosenthal     

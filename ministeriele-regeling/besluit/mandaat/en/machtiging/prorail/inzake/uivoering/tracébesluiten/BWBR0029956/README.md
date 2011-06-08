@@ -27,7 +27,7 @@ In dit besluit wordt verstaan onder:
 
 *projectmanager:* bij ProRail werkzame manager die verantwoordelijk is voor de realisering van het in zijn functieaanduiding genoemde tracébesluit;  
 
-*tracébesluit:* een besluit op grond van de [Tracéwet](../../../../../../../../../../wet/tracéwet/BWBR0006147/README.md) tot aanleg of wijziging van een landelijke spoorweg als bedoeld in [artikel 1, eerste lid, onder d, van die wet](../../../../../../../../../../wet/tracéwet/BWBR0006147/README.md), met uitzondering van het Tracébesluit Betuweroute en het Tracébesluit HSL-Zuid.    
+*tracébesluit:* een besluit op grond van de [Tracéwet](../../../../../../../../../../wet/tracéwet/BWBR0006147/README.md) tot aanleg of wijziging van een landelijke spoorweg als bedoeld in [artikel 1, eerste lid, onder d, van die wet](../../../../../../../../../../wet/tracéwet/BWBR0006147/README.md), met uitzondering van het Tracébesluit Betuweroute en het Tracébesluit HSL-Zuid.   
 
 ### §  2  
 
@@ -35,16 +35,16 @@ In dit besluit wordt verstaan onder:
 
 ### Artikel  2  
 
-Aan de Manager GJZ wordt mandaat en machtiging verleend om namens de minister de bevoegdheden uit te oefenen en de taken uit te voeren, zoals deze aan de minister op grond van [artikel 20, tweede tot en met vierde lid, en tiende lid, van de Tracéwet](../../../../../../../../../../wet/tracéwet/BWBR0006147/README.md) zijn toegekend.  
+Aan de Manager GJZ wordt mandaat en machtiging verleend om namens de minister de bevoegdheden uit te oefenen en de taken uit te voeren, zoals deze aan de minister op grond van [artikel 20, tweede tot en met vierde lid, en tiende lid, van de Tracéwet](../../../../../../../../../../wet/tracéwet/BWBR0006147/README.md) zijn toegekend. 
 
 ### Artikel  3  
 
 1.  De Manager GJZ kan van het hem in artikel 2 verleende mandaat ondermandaat verlenen en de in dat artikel bedoelde machtiging doorgeven aan een of meer onder hem ressorterende medewerkers, met uitzondering van de bevoegdheden, bedoeld in [artikel 20, vierde lid, onderdelen a en d, van de Tracéwet](../../../../../../../../../../wet/tracéwet/BWBR0006147/README.md).   
-2.  Van de verlening van ondermandaat en van het doorgeven van machtiging doet de Manager GJZ schriftelijk mededeling aan de minister.   
+2.  Van de verlening van ondermandaat en van het doorgeven van machtiging doet de Manager GJZ schriftelijk mededeling aan de minister.  
 
 ### Artikel  4  
 
-Bij de uitoefening van het mandaat en de machtiging neemt de Manager GJZ of, indien toepassing is gegeven aan artikel 3, de betreffende medewerker, de in de bijlage bij dit besluit opgenomen algemene instructie en de door de minister per geval gegeven instructie in acht.  
+Bij de uitoefening van het mandaat en de machtiging neemt de Manager GJZ of, indien toepassing is gegeven aan artikel 3, de betreffende medewerker, de in de bijlage bij dit besluit opgenomen algemene instructie en de door de minister per geval gegeven instructie in acht. 
 
 ### §  3  
 
@@ -52,51 +52,51 @@ Bij de uitoefening van het mandaat en de machtiging neemt de Manager GJZ of, ind
 
 ### Artikel  5  
 
-Aan de projectmanager wordt mandaat verleend om namens de minister te beslissen op een verzoek om schadevergoeding als bedoeld in [artikel 20d, eerste lid, van de Tracéwet](../../../../../../../../../../wet/tracéwet/BWBR0006147/README.md) en machtiging verleend om ter voorbereiding van die beslissing de benodigde handelingen te verrichten. De projectmanager geeft daarbij toepassing aan de [Regeling nadeelcompensatie Verkeer en Waterstaat 1999](../../../../../../../../../../ministeriele-regeling/regeling/nadeelcompensatie/verkeer/en/waterstaat/1999/BWBR0010692/README.md).  
+Aan de projectmanager wordt mandaat verleend om namens de minister te beslissen op een verzoek om schadevergoeding als bedoeld in [artikel 20d, eerste lid, van de Tracéwet](../../../../../../../../../../wet/tracéwet/BWBR0006147/README.md) en machtiging verleend om ter voorbereiding van die beslissing de benodigde handelingen te verrichten. De projectmanager geeft daarbij toepassing aan de [Regeling nadeelcompensatie Verkeer en Waterstaat 1999](../../../../../../../../../../ministeriele-regeling/regeling/nadeelcompensatie/verkeer/en/waterstaat/1999/BWBR0010692/README.md). 
 
 ### Artikel  6  
 
-Aan de projectmanager wordt mandaat verleend om namens de minister een beslissing te nemen over de verschuldigdheid en de hoogte van de dwangsom bij niet tijdig beslissen op verzoeken als bedoeld in artikel 5 en machtiging verleend om ter voorbereiding van die eerstgenoemde beslissing de benodigde handelingen te verrichten.  
+Aan de projectmanager wordt mandaat verleend om namens de minister een beslissing te nemen over de verschuldigdheid en de hoogte van de dwangsom bij niet tijdig beslissen op verzoeken als bedoeld in artikel 5 en machtiging verleend om ter voorbereiding van die eerstgenoemde beslissing de benodigde handelingen te verrichten. 
 
 ### Artikel  7  
 
 1.  De projectmanager kan van het mandaat, bedoeld in de artikelen 5 en 6, ondermandaat verlenen en de machtiging, bedoeld in die artikelen, doorgeven aan een plaatsvervanger.   
-2.  Van de verlening van ondermandaat en van het doorgeven van de machtiging doet de projectmanager schriftelijk mededeling aan de minister.   
+2.  Van de verlening van ondermandaat en van het doorgeven van de machtiging doet de projectmanager schriftelijk mededeling aan de minister.  
 
 ### Artikel  8  
 
-Bij de uitoefening van het mandaat en de machtiging neemt de projectmanager of, indien toepassing is gegeven aan artikel 7, zijn plaatsvervanger, de in de bijlage bij dit besluit opgenomen algemene instructie in acht.  
+Bij de uitoefening van het mandaat en de machtiging neemt de projectmanager of, indien toepassing is gegeven aan artikel 7, zijn plaatsvervanger, de in de bijlage bij dit besluit opgenomen algemene instructie in acht. 
 
 ### Artikel  9  
 
-Aan de Directeur Projecten wordt mandaat verleend om namens de minister te beslissen op een bezwaar tegen een beslissing als bedoeld in artikel 5 en machtiging verleend om ter voorbereiding van die beslissing de benodigde handelingen te verrichten.  
+Aan de Directeur Projecten wordt mandaat verleend om namens de minister te beslissen op een bezwaar tegen een beslissing als bedoeld in artikel 5 en machtiging verleend om ter voorbereiding van die beslissing de benodigde handelingen te verrichten. 
 
 ### Artikel  10  
 
-Aan de Directeur Projecten wordt mandaat verleend om namens de minister een beslissing te nemen over de verschuldigdheid en de hoogte van de dwangsom bij niet tijdig beslissen op bezwaar als bedoeld in artikel 9 en machtiging verleend om ter voorbereiding van die eerstgenoemde beslissing de benodigde handelingen te verrichten.  
+Aan de Directeur Projecten wordt mandaat verleend om namens de minister een beslissing te nemen over de verschuldigdheid en de hoogte van de dwangsom bij niet tijdig beslissen op bezwaar als bedoeld in artikel 9 en machtiging verleend om ter voorbereiding van die eerstgenoemde beslissing de benodigde handelingen te verrichten. 
 
 ### Artikel  11  
 
 1.  De Directeur Projecten kan van het mandaat, bedoeld in de artikelen 9 en 10, ondermandaat verlenen aan een plaatsvervanger, niet zijnde de projectmanager of diens plaatsvervanger, en de machtiging, bedoeld in die artikelen, doorgeven aan de Manager GJZ of een onder die manager ressorterende medewerker.   
-2.  Van de verlening van ondermandaat en van het doorgeven van de machtiging doet de Directeur Projecten schriftelijk mededeling aan de minister.   
+2.  Van de verlening van ondermandaat en van het doorgeven van de machtiging doet de Directeur Projecten schriftelijk mededeling aan de minister.  
 
 ### Artikel  12  
 
-Bij de uitoefening van mandaat en machtiging nemen de Directeur Projecten en, indien toepassing is gegeven aan het bepaalde in artikel 11, eerste lid, zijn plaatsvervanger, de Manager GJZ of de onder die manager ressorterende medewerker, de in de bijlage bij dit besluit opgenomen algemene instructie in acht.  
+Bij de uitoefening van mandaat en machtiging nemen de Directeur Projecten en, indien toepassing is gegeven aan het bepaalde in artikel 11, eerste lid, zijn plaatsvervanger, de Manager GJZ of de onder die manager ressorterende medewerker, de in de bijlage bij dit besluit opgenomen algemene instructie in acht. 
 
 ### Artikel  13  
 
 1.  Aan de Manager GJZ wordt machtiging verleend de minister te vertegenwoordigen in de procedure bij de bestuursrechter naar aanleiding van een door belanghebbende ingesteld beroep tegen een beslissing als bedoeld in artikel 5 of artikel 9 of naar aanleiding van een door een belanghebbende ingesteld hoger beroep tegen de uitspraak van de rechtbank en alle daartoe benodigde handelingen te verrichten.   
-2.  Aan de Manager GJZ wordt machtiging verleend om namens de minister hoger beroep in te stellen tegen een uitspraak van de rechtbank inzake een beroep tegen een beslissing als bedoeld in het eerste lid.   
+2.  Aan de Manager GJZ wordt machtiging verleend om namens de minister hoger beroep in te stellen tegen een uitspraak van de rechtbank inzake een beroep tegen een beslissing als bedoeld in het eerste lid.  
 
 ### Artikel  14  
 
 1.  De Manager GJZ kan de machtiging, bedoeld in het artikel 13, eerste lid, doorgeven aan een of meer onder hem ressorterende medewerkers.   
-2.  Van het doorgeven van de machtiging doet de Manager GJZ mededeling aan de minister.   
+2.  Van het doorgeven van de machtiging doet de Manager GJZ mededeling aan de minister.  
 
 ### Artikel  15  
 
-Bij de uitoefening van mandaat en machtiging nemen de Manager GJZ en, indien toepassing is gegeven aan het bepaalde in artikel 14, eerste lid, die medewerker, de in de bijlage bij dit besluit opgenomen algemene instructie in acht.  
+Bij de uitoefening van mandaat en machtiging nemen de Manager GJZ en, indien toepassing is gegeven aan het bepaalde in artikel 14, eerste lid, die medewerker, de in de bijlage bij dit besluit opgenomen algemene instructie in acht. 
 
 ### §  4  
 
@@ -106,28 +106,28 @@ Bij de uitoefening van mandaat en machtiging nemen de Manager GJZ en, indien toe
 
 De volgende besluiten worden ingetrokken: 
 
-a. het [Besluit mandaat en machtiging projectuitvoering en nadeelcompensatie Hanzelijn en Sloelijn](../../../../../../../../../../ministeriele-regeling/besluit/mandaat/en/machtiging/projectuitvoering/hanzelijn/en/sloelijn/BWBR0018393/README.md);  
+a.het [Besluit mandaat en machtiging projectuitvoering en nadeelcompensatie Hanzelijn en Sloelijn](../../../../../../../../../../ministeriele-regeling/besluit/mandaat/en/machtiging/projectuitvoering/hanzelijn/en/sloelijn/BWBR0018393/README.md);
 
-b. het [Besluit mandaat en machtiging projectuitvoering ‘Sporen in Utrecht’ en ‘Sporen in Arnhem’](../../../../../../../../../../ministeriele-regeling/besluit/mandaat/en/machtiging/projectuitvoering/sporen/in/utrecht/en/etc/BWBR0026106/README.md);  
+b.het [Besluit mandaat en machtiging projectuitvoering ‘Sporen in Utrecht’ en ‘Sporen in Arnhem’](../../../../../../../../../../ministeriele-regeling/besluit/mandaat/en/machtiging/projectuitvoering/sporen/in/utrecht/en/etc/BWBR0026106/README.md);
 
-c. het [Besluit mandaat en machtiging Nadeelcompensatie ‘Sporen in Arnhem’ en ‘Sporen in Utrecht](../../../../../../../../../../ministeriele-regeling/besluit/mandaat/en/machtiging/nadeelcompensatie/‘sporen/in/arnhem'/en/etc/BWBR0026431/README.md) ’;  
+c.het [Besluit mandaat en machtiging Nadeelcompensatie ‘Sporen in Arnhem’ en ‘Sporen in Utrecht](../../../../../../../../../../ministeriele-regeling/besluit/mandaat/en/machtiging/nadeelcompensatie/‘sporen/in/arnhem'/en/etc/BWBR0026431/README.md)’;
 
-d. het [Besluit projectuitvoering SAAL](../../../../../../../../../../ministeriele-regeling/besluit/mandaat/en/machtiging/projectuitvoering/saal/BWBR0027887/README.md); en  
+d.het [Besluit projectuitvoering SAAL](../../../../../../../../../../ministeriele-regeling/besluit/mandaat/en/machtiging/projectuitvoering/saal/BWBR0027887/README.md); en
 
-e. het [Besluit mandaat en machtiging projectuitvoering Vrije Spoorkruising Amersfoort-West](../../../../../../../../../../ministeriele-regeling/besluit/mandaat/en/machtiging/projectuitvoering/vrije/spoorkruising/etc/BWBR0029586/README.md).    
+e.het [Besluit mandaat en machtiging projectuitvoering Vrije Spoorkruising Amersfoort-West](../../../../../../../../../../ministeriele-regeling/besluit/mandaat/en/machtiging/projectuitvoering/vrije/spoorkruising/etc/BWBR0029586/README.md).
 
 ### Artikel  17  
 
-Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  18  
 
-Dit besluit kan worden aangehaald als: ‘Besluit mandaat en machtiging ProRail inzake uitvoering tracébesluiten’.  
+Dit besluit kan worden aangehaald als: ‘Besluit mandaat en machtiging ProRail inzake uitvoering tracébesluiten’. 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Infrastructuur en Milieu,
-M.H.Schultz van Haegen-Maas Geesteranus  
+Minister van Infrastructuur en Milieu, 
+M.H. Schultz van Haegen-Maas Geesteranus    
 
 ### Bijlage  
 
@@ -161,7 +161,7 @@ d. De bekendmaking van besluiten met het oog op de uitvoering van een tracébesl
 
 8. Een document als bedoeld in onderdeel 7, vastgesteld door de Manager GJZ, vermeldt aan het slot: ‘DE MINISTER VAN INFRASTRUCTUUR EN MILIEU, namens deze,’ gevolgd door de functieaanduiding ‘De Manager Grondverwerving en Juridische Zaken van ProRail B.V.’, zijn handtekening en zijn naam.  
 
-9. Een document als bedoeld in onderdeel 7, vastgesteld door een onder de Manager GJZ ressorterende medewerker als bedoeld in artikel 3 van het Besluit vermeldt aan het slot: ‘DE MINISTER VAN INFRASTRUCTUUR EN MILIEU, namens deze,’ gevolgd door de functieaanduiding, de handtekening en de naam van de medewerker.    
+9. Een document als bedoeld in onderdeel 7, vastgesteld door een onder de Manager GJZ ressorterende medewerker als bedoeld in artikel 3 van het Besluit vermeldt aan het slot: ‘DE MINISTER VAN INFRASTRUCTUUR EN MILIEU, namens deze,’ gevolgd door de functieaanduiding, de handtekening en de naam van de medewerker.   
 
 ### Paragraaf  2  
 
@@ -187,5 +187,5 @@ b. twee vertegenwoordigers van Rijkswaterstaat.
 
 8. Gemandateerden en gemachtigden verstrekken desgevraagd alle inlichtingen omtrent de behandeling van de verzoeken, de behandeling van de bezwaar- en de beroepschriften en de redenen om tegen een uitspraak van de rechtbank hoger beroep in te stellen.  
 
-9. Gemandateerden en gemachtigden informeren de minister over zaken van principiële aard dan wel met buitengewone consequenties of een grote precedentwerking.    
+9. Gemandateerden en gemachtigden informeren de minister over zaken van principiële aard dan wel met buitengewone consequenties of een grote precedentwerking.   
 

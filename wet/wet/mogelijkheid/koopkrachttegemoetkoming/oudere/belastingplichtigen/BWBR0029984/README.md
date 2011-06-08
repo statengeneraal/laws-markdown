@@ -18,21 +18,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop gebaseerde bepalingen wordt verstaan onder: 
 
-a. *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;  
+a.  *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;  
 
-b. *binnenlandse belastingplichtige:* belastingplichtige als bedoeld in [artikel 2.1, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+b.  *binnenlandse belastingplichtige:* belastingplichtige als bedoeld in [artikel 2.1, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
 
-c. *buitenlandse belastingplichtige:* belastingplichtige als bedoeld in [artikel 2.1, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), die aantoont dat ten minste 90% van zijn wereldinkomen, na toepassing van regelingen ter voorkoming van dubbele belasting, in Nederland aan de belastingheffing naar het inkomen is onderworpen;  
+c.  *buitenlandse belastingplichtige:* belastingplichtige als bedoeld in [artikel 2.1, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), die aantoont dat ten minste 90% van zijn wereldinkomen, na toepassing van regelingen ter voorkoming van dubbele belasting, in Nederland aan de belastingheffing naar het inkomen is onderworpen;  
 
-d. *ouderenkorting:* heffingskorting als bedoeld in de [artikelen 8.17 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [22b van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
+d.  *ouderenkorting:* heffingskorting als bedoeld in de [artikelen 8.17 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [22b van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
 
-e. *de SVB:* de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).    
+e.  *de SVB:* de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).   
 
 ### Artikel  2  
 
 ####Uitvoering van de wet
 
-De SVB is belast met de uitvoering van deze wet.  
+De SVB is belast met de uitvoering van deze wet. 
 
 ### Hoofdstuk  2  
 
@@ -42,13 +42,13 @@ De SVB is belast met de uitvoering van deze wet.
 
 ####Tegemoetkoming
 
-De binnenlandse of buitenlandse belastingplichtige die de leeftijd heeft bereikt waarop recht kan ontstaan op de ouderenkorting, heeft recht op een tegemoetkoming. Bij algemene maatregel van bestuur wordt de hoogte van de tegemoetkoming vastgesteld en kan worden bepaald in welke gevallen voor het vaststellen van het recht op tegemoetkoming een ander tijdvak in aanmerking wordt genomen dan het kalenderjaar van het recht op tegemoetkoming.  
+De binnenlandse of buitenlandse belastingplichtige die de leeftijd heeft bereikt waarop recht kan ontstaan op de ouderenkorting, heeft recht op een tegemoetkoming. Bij algemene maatregel van bestuur wordt de hoogte van de tegemoetkoming vastgesteld en kan worden bepaald in welke gevallen voor het vaststellen van het recht op tegemoetkoming een ander tijdvak in aanmerking wordt genomen dan het kalenderjaar van het recht op tegemoetkoming. 
 
 ### Artikel  4  
 
 ####Ontstaan van het recht op de tegemoetkoming
 
-Het recht op de tegemoetkoming ontstaat van rechtswege op de eerste dag van de maand, waarin aan de voorwaarden, genoemd in artikel 3, eerste lid, is voldaan.  
+Het recht op de tegemoetkoming ontstaat van rechtswege op de eerste dag van de maand, waarin aan de voorwaarden, genoemd in artikel 3, eerste lid, is voldaan. 
 
 ### Artikel  5  
 
@@ -65,13 +65,13 @@ Het recht op de tegemoetkoming ontstaat van rechtswege op de eerste dag van de m
 
 a. niet langer aannemelijk is dat betrokkene een binnenlandse of buitenlandse belastingplichtige is die recht heeft op de tegemoetkoming;  
 
-b. betrokkene zijn verplichting op grond van artikel 11 niet is nagekomen.     
+b. betrokkene zijn verplichting op grond van artikel 11 niet is nagekomen.    
 
 ### Artikel  6  
 
 ####Einde van het recht op de tegemoetkoming
 
-Het recht op tegemoetkoming eindigt met ingang van de eerste dag van de maand volgend op de maand waarin de dag is gelegen dat niet meer aan de voorwaarden voor het recht op de tegemoetkoming wordt voldaan. Na het overlijden van de belastingplichtige eindigt het recht op tegemoetkoming evenwel met ingang van de dag na dat overlijden.  
+Het recht op tegemoetkoming eindigt met ingang van de eerste dag van de maand volgend op de maand waarin de dag is gelegen dat niet meer aan de voorwaarden voor het recht op de tegemoetkoming wordt voldaan. Na het overlijden van de belastingplichtige eindigt het recht op tegemoetkoming evenwel met ingang van de dag na dat overlijden. 
 
 ### Artikel  7  
 
@@ -85,7 +85,7 @@ a. geheel of gedeeltelijk van terugvordering af te zien indien daarvoor dringend
 b. van terugvordering af te zien indien het te vorderen bedrag een door Onze Minister vastgesteld bedrag niet te boven gaat.     
 3.  Degene van wie wordt teruggevorderd, is verplicht desgevraagd aan de SVB de inlichtingen te verstrekken die voor de terugvordering van belang zijn.   
 4.  De SVB kan het teruggevorderde bedrag invorderen bij dwangbevel.   
-5.  De SVB is bevoegd om het teruggevorderde bedrag te verrekenen met hetgeen de SVB uit hoofde van de andere door de SVB uitgevoerde wettelijke regelingen, aan de betrokkene verschuldigd is.   
+5.  De SVB is bevoegd om het teruggevorderde bedrag te verrekenen met hetgeen de SVB uit hoofde van de andere door de SVB uitgevoerde wettelijke regelingen, aan de betrokkene verschuldigd is.  
 
 ### Artikel  8  
 
@@ -111,13 +111,13 @@ a. niet binnen twaalf maanden nadat dat besluit is bekendgemaakt, een schuldrege
 b. de betrokkene, of zijn wettelijke vertegenwoordiger, zijn schuld aan de SVB niet overeenkomstig de schuldregeling voldoet; of  
 
 c. onjuiste of onvolledige gegevens zijn verstrekt en de verstrekking van juiste of volledige gegevens tot een ander besluit zou hebben geleid.     
-3.  Bij ministeriële regeling kunnen met betrekking tot dit artikel nadere regels worden gesteld ten aanzien van de uitoefening van de bevoegdheid om mee te werken aan schuldregelingen.   
+3.  Bij ministeriële regeling kunnen met betrekking tot dit artikel nadere regels worden gesteld ten aanzien van de uitoefening van de bevoegdheid om mee te werken aan schuldregelingen.  
 
 ### Artikel  9  
 
 ####Bevoorrechte vordering
 
-Een vordering van de SVB als bedoeld in de artikelen 7 en 8 is bevoorrecht en volgt onmiddellijk na de vorderingen uit [artikel 288 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).  
+Een vordering van de SVB als bedoeld in de artikelen 7 en 8 is bevoorrecht en volgt onmiddellijk na de vorderingen uit [artikel 288 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). 
 
 ### Artikel  10  
 
@@ -129,7 +129,7 @@ a. onvervreemdbaar, en
 
 b. niet vatbaar voor verpanding, belening of beslag.     
 2.  Volmacht tot ontvangst van de tegemoetkoming, onder welke vorm of welke benaming ook door de belastingplichtige verleend, is steeds herroepelijk.   
-3.  Elk beding strijdig met enige bepaling van dit artikel, is nietig.   
+3.  Elk beding strijdig met enige bepaling van dit artikel, is nietig.  
 
 ### Hoofdstuk  3  
 
@@ -139,7 +139,7 @@ b. niet vatbaar voor verpanding, belening of beslag.
 
 ####Informatieverplichting
 
-Een ieder die de tegemoetkoming ontvangt, deelt aan de SVB desgevraagd of uit eigen beweging onverwijld alle feiten en omstandigheden mee, waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op een tegemoetkoming.  
+Een ieder die de tegemoetkoming ontvangt, deelt aan de SVB desgevraagd of uit eigen beweging onverwijld alle feiten en omstandigheden mee, waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op een tegemoetkoming. 
 
 ### Artikel  12  
 
@@ -147,7 +147,7 @@ Een ieder die de tegemoetkoming ontvangt, deelt aan de SVB desgevraagd of uit ei
 
 1.  Indien aan het niet naleven van artikel 11 te wijten is dat ten onrechte tegemoetkoming is uitbetaald, is de SVB bevoegd een bestuurlijke boete op te leggen van ten hoogste 100 percent van het op grond van artikel 7, eerste lid, terug te vorderen bedrag.   
 2.  De bevoegdheid tot het opleggen van de boete, genoemd in het eerste lid, vervalt door verloop van vijf jaren na het einde van het kalenderjaar waarin de SVB bekend was of redelijkerwijs had kunnen zijn met het niet naleven van artikel 11.   
-3.  Wanneer degene die de tegemoetkoming ontvangt of heeft ontvangen bepaalde informatie op een later tijdstip verstrekt dan bedoeld in artikel 11 maar vóórdat hij weet of redelijkerwijs kon vermoeden dat de informatie bij de SVB bekend is, legt de SVB geen bestuurlijke boete op.   
+3.  Wanneer degene die de tegemoetkoming ontvangt of heeft ontvangen bepaalde informatie op een later tijdstip verstrekt dan bedoeld in artikel 11 maar vóórdat hij weet of redelijkerwijs kon vermoeden dat de informatie bij de SVB bekend is, legt de SVB geen bestuurlijke boete op.  
 
 ### Hoofdstuk  4  
 
@@ -160,7 +160,7 @@ Een ieder die de tegemoetkoming ontvangt, deelt aan de SVB desgevraagd of uit ei
 1.  Onze Minister verstrekt jaarlijks ten laste van ’s Rijks kas aan de SVB een uitkering voor de lasten van de door de SVB uitbetaalde tegemoetkomingen, bedoeld in artikel 3, eerste lid, en de daaraan verbonden uitvoeringskosten.   
 2.  De SVB verantwoordt de lasten van de tegemoetkomingen en uitvoeringskosten  afzonderlijk.   
 3.  [Hoofdstuk 8 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) is van overeenkomstige toepassing voor begroting, beheer en verantwoording door de SVB van de uitvoering van deze wet.   
-4.  Bij ministeriële regeling kunnen regels worden gesteld voor de berekening van het bedrag van de uitkering en de daarvoor noodzakelijke gegevens.   
+4.  Bij ministeriële regeling kunnen regels worden gesteld voor de berekening van het bedrag van de uitkering en de daarvoor noodzakelijke gegevens.  
 
 ### Hoofdstuk  5  
 
@@ -170,31 +170,31 @@ Een ieder die de tegemoetkoming ontvangt, deelt aan de SVB desgevraagd of uit ei
 
 ####Wijziging van de Algemene Ouderdomswet
 
-Wijzigt de Algemene Ouderdomswet.   
+Wijzigt de Algemene Ouderdomswet. 
 
 ### Artikel  15  
 
 ####Wijziging van de Wet werk en bijstand
 
-Wijzigt de Wet werk en bijstand.   
+Wijzigt de Wet werk en bijstand. 
 
 ### Artikel  16  
 
 ####Wijziging van de Wet financiering sociale verzekeringen
 
-Wijzigt de Wet financiering sociale verzekeringen.   
+Wijzigt de Wet financiering sociale verzekeringen. 
 
 ### Artikel  17  
 
 ####Wijziging van de Wet op de huurtoeslag
 
-Wijzigt de Wet op de huurtoeslag.   
+Wijzigt de Wet op de huurtoeslag. 
 
 ### Artikel  18  
 
 ####Wijziging van de Algemene nabestaandenwet
 
-Wijzigt de Algemene nabestaandenwet.   
+Wijzigt de Algemene nabestaandenwet. 
 
 ### Hoofdstuk  6  
 
@@ -205,30 +205,30 @@ Wijzigt de Algemene nabestaandenwet.
 ####Bezwaar en beroep
 
 1.  [Hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van overeenkomstige toepassing op beschikkingen als bedoeld in het tweede lid.   
-2.  Voor de overeenkomstige toepassing van [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is een beschikking die is genomen op grond van deze wet voor bezwaar vatbaar.   
+2.  Voor de overeenkomstige toepassing van [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is een beschikking die is genomen op grond van deze wet voor bezwaar vatbaar.  
 
 ### Artikel  20  
 
 ####Inwerkingtreding
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  21  
 
 ####Citeertitel
 
-Deze wet wordt aangehaald als: Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen.  
+Deze wet wordt aangehaald als: Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 21 april 2011  
 Beatrix  
 
-De Minister van Sociale Zaken en Werkgelegenheid, 
+De Minister van Sociale Zaken en Werkgelegenheid,  
 H. G. J. Kamp   
 
 de *twintigste* mei 2011 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

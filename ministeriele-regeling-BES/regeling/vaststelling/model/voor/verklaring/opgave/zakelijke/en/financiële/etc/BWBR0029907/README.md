@@ -2,18 +2,22 @@
 
 ##Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 13 april 2011, nr. CZW/WBI, 2011-2000120991, tot vaststelling van het model voor de verklaring voor de opgave van zakelijke en financiële belangen van een eilandgedeputeerde en een gezaghebber van de openbare lichamen Bonaire, Sint Eustatius en Saba
 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
+Gelet op [artikel 49, vijfde lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md);
+Besluit:    
+
 ### Artikel  1  
 
-Het model voor de verklaring van een eilandgedeputeerde en een gezaghebber wordt vastgesteld zoals in de bijlage behorende bij deze regeling.  
+Het model voor de verklaring van een eilandgedeputeerde en een gezaghebber wordt vastgesteld zoals in de bijlage behorende bij deze regeling. 
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties,
-J.P.H.Donner  
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+J.P.H. Donner    
 
 ### Bijlage  
 

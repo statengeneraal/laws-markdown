@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Artikel  I  
 
-Wijzigt de Visserijwet 1963.   
+Wijzigt de Visserijwet 1963. 
 
 ### Artikel  II  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten. 
 
 ### Artikel  III  
 
@@ -23,29 +23,29 @@ Wijzigt de Wet op de economische delicten.
 
 a. berusten de op grond van [artikel 54c van de Visserijwet 1963](../../../../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) vastgestelde maatregelen, regelingen of besluiten op de artikelen 5.1 en 5.10 van de Wet dieren;  
 
-b.  wijzigt de Visserijwet 1963;   
+b. wijzigt de Visserijwet 1963;  
 
-c.  wijzigt de Visserijwet 1963;   
+c. wijzigt de Visserijwet 1963;  
 
-d.  wijzigt de Wet op de economische delicten;   
+d. wijzigt de Wet op de economische delicten;  
 
-e.  wijzigt de Wet op de economische delicten.      
-2.  [Artikel 54c van de Visserijwet 1963](../../../../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) zoals dit luidde voor de inwerkingtreding van de artikelen genoemd in het eerste lid, aanhef, blijft van toepassing met betrekking tot gedragingen die hebben plaatsgevonden in het tijdvak tussen inwerkingtreding van de Tijdelijke wijziging van de Visserijwet 1963 in verband met de invoering van de bevoegdheid tot het treffen van bestuurlijke maatregelen en de inwerkingtreding van de in het eerste lid, aanhef, genoemde artikelen.   
+e. wijzigt de Wet op de economische delicten.     
+2.  [Artikel 54c van de Visserijwet 1963](../../../../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) zoals dit luidde voor de inwerkingtreding van de artikelen genoemd in het eerste lid, aanhef, blijft van toepassing met betrekking tot gedragingen die hebben plaatsgevonden in het tijdvak tussen inwerkingtreding van de Tijdelijke wijziging van de Visserijwet 1963 in verband met de invoering van de bevoegdheid tot het treffen van bestuurlijke maatregelen en de inwerkingtreding van de in het eerste lid, aanhef, genoemde artikelen.  
 
 ### Artikel  IV  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 30 maart 2011  
 Beatrix  
 
-De Staatssecretaris van Economische Zaken, Landbouw en Innovatie, 
+De Staatssecretaris van Economische Zaken, Landbouw en Innovatie,  
 H. Bleker   
 
 de *eenendertigste* maart 2011 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

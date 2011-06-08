@@ -109,15 +109,15 @@ Informatie die betrekking heeft op provinciale politieke ambtsdragers, kunt u vi
 Hoogachtend, 
 
 De 
-minister van Binnenlandse Zaken en Koninkrijksrelaties,namens deze:
-L.D.P.Lombaers,
-Directeur Arbeidszaken Publieke Sector.  
+minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze: 
+L.D.P. Lombaers,  
+Directeur Arbeidszaken Publieke Sector.   
 
-### Bijlage  1  
+### Bijlage  1 
 
 ![248695](http://wetten.overheid.nl/Illustration/248695)
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####Overzicht hoogte ambtstoelage en onkostenvergoedingen
 
@@ -127,15 +127,15 @@ Directeur Arbeidszaken Publieke Sector.
 
 ####Ambtstoelage commissarisen van de Koningin
 
-De in [artikel 3, tweede lid, van het Rechtspositiebesluit commissarissen van de Koning](../../../../../../../../../AMvB/rechtspositiebesluit/commissarissen/van/de/koning/BWBR0006738/README.md) genoemde ambtstoelage bedraagt per 1 januari 2011 € 635,29 en de vergoeding van overige ambtskosten ad € 1.011,93.  
+De in [artikel 3, tweede lid, van het Rechtspositiebesluit commissarissen van de Koning](../../../../../../../../../AMvB/rechtspositiebesluit/commissarissen/van/de/koning/BWBR0006738/README.md) genoemde ambtstoelage bedraagt per 1 januari 2011 € 635,29 en de vergoeding van overige ambtskosten ad € 1.011,93. 
 
 ####Onkostenvergoeding gedeputeerden
 
-Met ingang van 1 januari 2011 bedraagt de onkostenvergoeding genoemd in [artikel 21, eerste lid, van het Rechtspositiebesluit gedeputeerden](../../../../../../../../../AMvB/rechtspositiebesluit/gedeputeerden/BWBR0006533/README.md) € 666,45.  
+Met ingang van 1 januari 2011 bedraagt de onkostenvergoeding genoemd in [artikel 21, eerste lid, van het Rechtspositiebesluit gedeputeerden](../../../../../../../../../AMvB/rechtspositiebesluit/gedeputeerden/BWBR0006533/README.md) € 666,45. 
 
 ####Onkostenvergoeding statenleden
 
-Met ingang van 1 januari 2011 bedraagt de onkostenvergoeding genoemd in [artikel 2, derde lid, van het Rechtspositiebesluit staten- en commissieleden](../../../../../../../../../AMvB/rechtspositiebesluit/staten-/en/commissieleden/BWBR0006534/README.md) voor de onkostenvergoeding voor aan de uitoefening van het statenlidmaatschap verbonden kosten € 86,56. Ingeval van een fictieve dienstbetrekking bedraagt deze onkostenvergoeding € 180,35.  
+Met ingang van 1 januari 2011 bedraagt de onkostenvergoeding genoemd in [artikel 2, derde lid, van het Rechtspositiebesluit staten- en commissieleden](../../../../../../../../../AMvB/rechtspositiebesluit/staten-/en/commissieleden/BWBR0006534/README.md) voor de onkostenvergoeding voor aan de uitoefening van het statenlidmaatschap verbonden kosten € 86,56. Ingeval van een fictieve dienstbetrekking bedraagt deze onkostenvergoeding € 180,35. 
 
 ### b  
 
@@ -143,13 +143,13 @@ Met ingang van 1 januari 2011 bedraagt de onkostenvergoeding genoemd in [artike
 
 ####Ambtstoelage commissarissen van de Koningin
 
-De in [artikel 3, tweede lid, van het Rechtspositiebesluit commissarissen van de Koning](../../../../../../../../../AMvB/rechtspositiebesluit/commissarissen/van/de/koning/BWBR0006738/README.md) genoemde ambtstoelage bedraagt per 1 januari 2011 € 635,29 en de vergoeding van overige ambtskosten ad € 485,73.  
+De in [artikel 3, tweede lid, van het Rechtspositiebesluit commissarissen van de Koning](../../../../../../../../../AMvB/rechtspositiebesluit/commissarissen/van/de/koning/BWBR0006738/README.md) genoemde ambtstoelage bedraagt per 1 januari 2011 € 635,29 en de vergoeding van overige ambtskosten ad € 485,73. 
 
 ####Onkostenvergoeding gedeputeerden
 
-Met ingang van 1 januari 2011 wordt het bedrag genoemd in [artikel 21, eerste lid, van het Rechtspositiebesluit gedeputeerden](../../../../../../../../../AMvB/rechtspositiebesluit/gedeputeerden/BWBR0006533/README.md) gewijzigd in € 319,89.  
+Met ingang van 1 januari 2011 wordt het bedrag genoemd in [artikel 21, eerste lid, van het Rechtspositiebesluit gedeputeerden](../../../../../../../../../AMvB/rechtspositiebesluit/gedeputeerden/BWBR0006533/README.md) gewijzigd in € 319,89. 
 
 ####Onkostenvergoeding statenleden
 
-Met ingang van 1 januari 2011 bedraagt de onkostenvergoeding genoemd in [artikel 2, derde lid, van het Rechtspositiebesluit staten- en commissieleden](../../../../../../../../../AMvB/rechtspositiebesluit/staten-/en/commissieleden/BWBR0006534/README.md) voor de onkostenvergoeding voor aan de uitoefening van het statenlidmaatschap verbonden kosten € 86,56. Ook ingeval van een fictieve dienstbetrekking bedraagt deze onkostenvergoeding € 86,56.  
+Met ingang van 1 januari 2011 bedraagt de onkostenvergoeding genoemd in [artikel 2, derde lid, van het Rechtspositiebesluit staten- en commissieleden](../../../../../../../../../AMvB/rechtspositiebesluit/staten-/en/commissieleden/BWBR0006534/README.md) voor de onkostenvergoeding voor aan de uitoefening van het statenlidmaatschap verbonden kosten € 86,56. Ook ingeval van een fictieve dienstbetrekking bedraagt deze onkostenvergoeding € 86,56. 
 

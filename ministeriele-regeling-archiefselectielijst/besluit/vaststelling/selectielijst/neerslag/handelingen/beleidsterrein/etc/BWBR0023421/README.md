@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Ouderenbeleid vanaf 1945 (Minister van Verkeer en Waterstaat)
+##Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Ouderenbeleid vanaf 1945 (Minister van Verkeer en Waterstaat) 
 
 De Minister van Onderwijs, Cultuur en Wetenschap, en de Minister van Verkeer en Waterstaat,  
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
@@ -10,22 +10,22 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ [selectielijst voor de neerslag van de handelingen van de Minister van Verkeer en Waterstaat en de onder hem ressorterende actoren op het beleidsterrein Ouderenbeleid over de periode vanaf 1945](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023415/README.md) ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘[selectielijst voor de neerslag van de handelingen van de Minister van Verkeer en Waterstaat en de onder hem ressorterende actoren op het beleidsterrein Ouderenbeleid over de periode vanaf 1945](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023415/README.md)’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende [selectielijst](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023415/README.md) en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 13 december 2007   
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
-algemene rijksarchivaris, 
-M.W. vanBoven 
+Minister van Onderwijs, Cultuur en Wetenschap, namens deze:de 
+algemene rijksarchivaris,
+M.W. van Boven   
 
 De 
-Minister van Verkeer en Waterstaat, namens deze:
+Minister van Verkeer en Waterstaat, namens deze: 
 plaatsvervangend Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport, 
-P.H.A.M.Huijts   
+P.H.A.M. Huijts     

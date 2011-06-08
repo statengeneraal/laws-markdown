@@ -10,15 +10,15 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ [selectielijst voor de neerslag van de handelingen van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de onder hem ressorterende actoren op het beleidsterrein rijkshuisvesting over de periode vanaf 1945](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022281/README.md) ’ met de daarbij behorende toelichting wordt vastgesteld.  
+De bij dit besluit gevoegde ‘[selectielijst voor de neerslag van de handelingen van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de onder hem ressorterende actoren op het beleidsterrein rijkshuisvesting over de periode vanaf 1945](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022281/README.md)’ met de daarbij behorende toelichting wordt vastgesteld. 
 
 ### Artikel  2  
 
-De ‘selectielijst rijkshuisvesting van handelingen van het Ministerie van VROM’ (vastgesteld bij beschikking van de Minister van OCW en de Minister van VROM, gepubliceerd in de Staatscourant nr. 184 d.d. 24-09-2001) wordt ingetrokken.  
+De ‘selectielijst rijkshuisvesting van handelingen van het Ministerie van VROM’ (vastgesteld bij beschikking van de Minister van OCW en de Minister van VROM, gepubliceerd in de Staatscourant nr. 184 d.d. 24-09-2001) wordt ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende [selectielijst](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022281/README.md) en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
@@ -27,9 +27,9 @@ Den Haag
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
 algemene rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, namens deze: de 
 directeur Personeel, Organisatie en Informatie, 
-J.H.M.Nichting   
+J.H.M. Nichting     

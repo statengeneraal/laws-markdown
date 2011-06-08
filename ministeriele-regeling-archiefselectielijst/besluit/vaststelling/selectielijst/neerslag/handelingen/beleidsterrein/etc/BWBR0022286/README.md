@@ -10,15 +10,15 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ [selectielijst voor de neerslag van de handelingen van de Minister van Defensie en de onder hem ressorterende actoren op het beleidsterrein rijkshuisvesting over de periode vanaf 1945](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022281/README.md) ’ met de daarbij behorende toelichting wordt vastgesteld.  
+De bij dit besluit gevoegde ‘[selectielijst voor de neerslag van de handelingen van de Minister van Defensie en de onder hem ressorterende actoren op het beleidsterrein rijkshuisvesting over de periode vanaf 1945](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022281/README.md)’ met de daarbij behorende toelichting wordt vastgesteld. 
 
 ### Artikel  2  
 
-De ‘selectielijst van handelingen van het Ministerie van Defensie vanaf 1945, onderdeel dienst gebouwen, werken en terreinen’ (vastgesteld bij beschikking van 24 juni 2002 en gepubliceerd in de Staatscourant nr. 180 d.d. 19-09-2002) wordt ingetrokken.  
+De ‘selectielijst van handelingen van het Ministerie van Defensie vanaf 1945, onderdeel dienst gebouwen, werken en terreinen’ (vastgesteld bij beschikking van 24 juni 2002 en gepubliceerd in de Staatscourant nr. 180 d.d. 19-09-2002) wordt ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende [selectielijst](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022281/README.md) en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
@@ -27,9 +27,9 @@ Den Haag
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
 algemene rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
 Minister van Defensie, namens deze: de 
 plv. secretaris-generaal, 
-P.E. de laChambre   
+P.E. de la Chambre     

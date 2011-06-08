@@ -40,11 +40,11 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 | W.  | 11°  | 39’  | 49.5"N  | 68°  | 23’  | 24.2"W  |
 
 2.  De ligging van de hierboven beschreven punten is uitgedrukt in lengte en breedte volgens het World Geodetic System 1984 (WGS84).   
-3.  De grenslijn is bij wijze van illustratie ingetekend op de als bijlage 1 bij deze rijkswet gevoegde kaart.   
+3.  De grenslijn is bij wijze van illustratie ingetekend op de als bijlage 1 bij deze rijkswet gevoegde kaart.  
 
 ### Artikel  2  
 
-In noordelijke richting is het eindpunt van de grenslijn punt A, en in zuidelijke richting is het eindpunt van de grenslijn punt W, die de snijpunten vormen van de grenslijnen tussen de zeegebieden van het land Curaçao, het openbaar lichaam Bonaire, en de Republiek Venezuela.  
+In noordelijke richting is het eindpunt van de grenslijn punt A, en in zuidelijke richting is het eindpunt van de grenslijn punt W, die de snijpunten vormen van de grenslijnen tussen de zeegebieden van het land Curaçao, het openbaar lichaam Bonaire, en de Republiek Venezuela. 
 
 ### Artikel  3  
 
@@ -63,31 +63,31 @@ In noordelijke richting is het eindpunt van de grenslijn punt A, en in zuidelijk
 | I.  | 17°  | 52’  | 21.1"N  | 63°  | 17’  | 10.8"W  |
 
 2.  De ligging van de hierboven beschreven punten is uitgedrukt in lengte en breedte volgens het World Geodetic System 1984 (WGS84).   
-3.  De grenslijn is bij wijze van illustratie ingetekend op de als bijlage 2 bij deze rijkswet gevoegde kaart.   
+3.  De grenslijn is bij wijze van illustratie ingetekend op de als bijlage 2 bij deze rijkswet gevoegde kaart.  
 
 ### Artikel  4  
 
-In oostelijke richting en in westelijke richting zijn de eindpunten van de zeegrens, bedoeld in artikel 3, eerste lid, de tripunten, die de snijpunten vormen van de middellijnen tussen de zeegebieden van het land Sint Maarten, het openbaar lichaam Saba en Frankrijk.  
+In oostelijke richting en in westelijke richting zijn de eindpunten van de zeegrens, bedoeld in artikel 3, eerste lid, de tripunten, die de snijpunten vormen van de middellijnen tussen de zeegebieden van het land Sint Maarten, het openbaar lichaam Saba en Frankrijk. 
 
 ### Artikel  5  
 
-Deze rijkswet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.  
+Deze rijkswet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip. 
 
-Lasten en bevelen dat deze in het Staatsblad en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 7 juli 2010  
 Beatrix  
 
-De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,  
 A. Th. B. Bijleveld-Schouten   
 
-De Minister van Buitenlandse Zaken, 
+De Minister van Buitenlandse Zaken,  
 M. J. M. Verhagen   
 
 de *eerste* september 2010 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    
 
 ### Bijlage  1  

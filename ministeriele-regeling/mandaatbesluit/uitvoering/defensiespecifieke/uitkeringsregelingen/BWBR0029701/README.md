@@ -8,9 +8,9 @@ De Minister van Defensie,  Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *bestuur:* het bestuur van de Stichting Pensioenfonds ABP;  
+a.  *bestuur:* het bestuur van de Stichting Pensioenfonds ABP;  
 
-b. *Minister:* de Minister van Defensie.    
+b.  *Minister:* de Minister van Defensie.   
 
 ### Artikel  2  
 
@@ -56,7 +56,7 @@ s. Voor zover de Minister zich de uitvoering daarvan niet heeft voorbehouden, de
 
 t. De [Uitkeringswet financiële compensatie langdurige militaire dienst](../../../../../../wet/uitkeringswet/financiële/compensatie/langdurige/militaire/dienst/BWBR0005569/README.md);  
 
-u. De [Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen](../../../../../../wet/uitkeringswet/tegemoetkoming/twee/tot/vijfjarige/diensttijd/veteranen/BWBR0009197/README.md).    
+u. De [Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen](../../../../../../wet/uitkeringswet/tegemoetkoming/twee/tot/vijfjarige/diensttijd/veteranen/BWBR0009197/README.md).   
 
 ### Artikel  3  
 
@@ -66,44 +66,44 @@ a. het bestuur gerede twijfels heeft over het in een individueel geval toepassen
 
 b. het naar het oordeel van het bestuur een geval betreft dat grote beleidsmatige of financiële gevolgen kan hebben voor het Ministerie van Defensie, dan wel kan leiden tot precedentwerking.  
 
-c. het door de Minister nader aan te wijzen gevallen betreft die van belang zijn voor de beleidsvorming dan wel in het kader van kwaliteitstoetsing en -verbetering.    
+c. het door de Minister nader aan te wijzen gevallen betreft die van belang zijn voor de beleidsvorming dan wel in het kader van kwaliteitstoetsing en -verbetering.   
 
 ### Artikel  4  
 
-De Minister verleent mandaat aan het bestuur om te beslissen op bezwaarschriften aangaande ingevolge artikel 2 genomen besluiten. Een en ander met dien verstande dat degene die betrokken is bij het besluitvormingsproces ten aanzien van het bezwaarschrift niet ook betrokken is geweest bij het besluitvormingsproces in eerste aanleg. Het gestelde in artikel 3 is daarbij van overeenkomstige toepassing.  
+De Minister verleent mandaat aan het bestuur om te beslissen op bezwaarschriften aangaande ingevolge artikel 2 genomen besluiten. Een en ander met dien verstande dat degene die betrokken is bij het besluitvormingsproces ten aanzien van het bezwaarschrift niet ook betrokken is geweest bij het besluitvormingsproces in eerste aanleg. Het gestelde in artikel 3 is daarbij van overeenkomstige toepassing. 
 
 ### Artikel  5  
 
-De Minister verleent aan het bestuur bevoegdheid in rechte op te treden indien tegen een ingevolge artikel 2 dan wel artikel 4 genomen besluit beroep wordt ingesteld. Indien het een zaak betreft met een kennelijk aanzienlijk financieel of rechtspositioneel belang, oefent het bestuur deze bevoegdheid niet uit dan na verkregen instemming van de Minister met betrekking tot de gronden voor het beroep. Het bestuur is in dat geval bevoegd om vooruitlopend hierop zo nodig voorlopig beroep in te stellen.  
+De Minister verleent aan het bestuur bevoegdheid in rechte op te treden indien tegen een ingevolge artikel 2 dan wel artikel 4 genomen besluit beroep wordt ingesteld. Indien het een zaak betreft met een kennelijk aanzienlijk financieel of rechtspositioneel belang, oefent het bestuur deze bevoegdheid niet uit dan na verkregen instemming van de Minister met betrekking tot de gronden voor het beroep. Het bestuur is in dat geval bevoegd om vooruitlopend hierop zo nodig voorlopig beroep in te stellen. 
 
 ### Artikel  6  
 
 a. Het bestuur kan het aan artikel 2, artikel 4 en artikel 5 ontleende mandaat geheel of gedeeltelijk mandateren.  
 
-b. De verlening van een mandaat door het bestuur geschiedt schriftelijk.    
+b. De verlening van een mandaat door het bestuur geschiedt schriftelijk.   
 
 ### Artikel  7  
 
-Het bestuur houdt een register bij betreffende verleende mandaten. Het register bevat de namen van de functionarissen van het fonds die op basis van het mandaat besluiten kunnen nemen, alsmede gegevens omtrent de inhoud van het mandaat. Het betreffende register en iedere wijziging daarvan wordt onverwijld door het bestuur aan de Minister kenbaar gemaakt.  
+Het bestuur houdt een register bij betreffende verleende mandaten. Het register bevat de namen van de functionarissen van het fonds die op basis van het mandaat besluiten kunnen nemen, alsmede gegevens omtrent de inhoud van het mandaat. Het betreffende register en iedere wijziging daarvan wordt onverwijld door het bestuur aan de Minister kenbaar gemaakt. 
 
 ### Artikel  8  
 
-De stukken die op grond van dit besluit worden afgedaan en ondertekend, vermelden aan het slot: Namens de Minister van Defensie de Stichting Pensioenfonds ABP, voor deze, ... (handtekening en naam van de functionaris) ... (de functie van de ondertekenaar)  
+De stukken die op grond van dit besluit worden afgedaan en ondertekend, vermelden aan het slot: Namens de Minister van Defensie de Stichting Pensioenfonds ABP, voor deze, ... (handtekening en naam van de functionaris) ... (de functie van de ondertekenaar) 
 
 ### Artikel  9  
 
-Het [besluit van 23 april 2009](../../../../../../ministeriele-regeling/mandaatbesluit/uitvoering/defensiespecifieke/uitkeringsregelingen/BWBR0025836/README.md), Stcrt. 2009, 87 wordt ingetrokken.  
+Het [besluit van 23 april 2009](../../../../../../ministeriele-regeling/mandaatbesluit/uitvoering/defensiespecifieke/uitkeringsregelingen/BWBR0025836/README.md), Stcrt. 2009, 87 wordt ingetrokken. 
 
 ### Artikel  10  
 
-Dit besluit treedt in werking met ingang van de datum van ondertekening en werkt terug tot en met 14 mei 2010.  
+Dit besluit treedt in werking met ingang van de datum van ondertekening en werkt terug tot en met 14 mei 2010. 
 Dit besluit zal worden gepubliceerd in de Staatscourant.   
 
 Den Haag 
 25 februari 2011   
 
 De 
-Minister van Defensie,voor deze:
-de Hoofddirecteur Personeel,
-J.G.A.Leijh,
-Luitenant-generaal.   
+Minister van Defensie, voor deze: 
+de Hoofddirecteur Personeel, 
+J.G.A. Leijh,  
+Luitenant-generaal.    

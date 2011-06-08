@@ -10,51 +10,51 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Minister Justitie en de onder hem ressorterende actoren op het beleidsterrein Gefinancierde Rechtsbijstand over de periode vanaf 1945 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister Justitie en de onder hem ressorterende actoren op het beleidsterrein Gefinancierde Rechtsbijstand over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 7 februari 2008   
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
+Minister van Onderwijs, Cultuur en Wetenschap, namens deze:de 
 wnd. algemene rijksarchivaris, 
-P.Brood 
+P. Brood   
 
 De 
-Minister van Justitie, namens deze: de 
+Minister van Justitie, namens deze:de 
 projectdirecteur, Project Wegwerken Archiefachterstanden PWAA, 
-A. van derKooij  
+A. van der  Kooij    
 
-####Basisselectiedocument
+####Basisselectiedocument 
 
 #### *Instrument voor de selectie – ter vernietiging dan wel blijvende bewaring – van de administratieve neerslag van de zorgdrager* 
 
 ### *Minister van Justitie* 
 
-Op het beleidsterrein *Gefinancierde rechtsbijstand* 1945–  *Auteurs: Geert Beks en Noor Schreuder (Nationaal Archief 2002)*   *Eindredactie PWAA*   
+Op het beleidsterrein  *Gefinancierde rechtsbijstand *1945–  *Auteurs: Geert Beks en Noor Schreuder (Nationaal Archief 2002)*   *Eindredactie PWAA*   
 
 ####Lijst van Afkortingen
 
-AMvB: Algemene maatregel van bestuur BRON: Bureaus voor Rechtshulp Ondersteuningssysteem BSD: Basis selectiedocument CBB: Centraal Bureau van Bijstand COREPER : Comité des Représentants Permanents (EG) EU: Europese Unie JUS: (Ministerie van) Justitie NA: Nationaal Archief PIVOT: Project Invoering Verkorting Overbrengingstermijn RIO: Rapport Institutioneel Onderzoek Stb.: Staatsblad Stcrt.: Staatscourant WROM: Wet Rechtsbijstand aan On- en Minvermogenden  
+AMvB: Algemene maatregel van bestuur BRON: Bureaus voor Rechtshulp Ondersteuningssysteem BSD: Basis selectiedocument CBB: Centraal Bureau van Bijstand COREPER : Comité des Représentants Permanents (EG) EU: Europese Unie JUS: (Ministerie van) Justitie NA: Nationaal Archief PIVOT: Project Invoering Verkorting Overbrengingstermijn RIO: Rapport Institutioneel Onderzoek Stb.: Staatsblad Stcrt.: Staatscourant WROM: Wet Rechtsbijstand aan On- en Minvermogenden 
 
 ####Verantwoording
 
 #### *Doel en werking van het Basis Selectiedocument* 
 
-Een Basis Selectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van één (enkele) organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Het BSD geldt dus voor de archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voor zover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Dit betekent dat er geen handelingen van particuliere actoren worden opgenomen. Een BSD wordt normaliter opgesteld op basis van institutioneel onderzoek. In het rapport institutioneel onderzoek (RIO) wordt dan het betreffende beleidsterrein beschreven, evenals de taken en bevoegdheden van de betrokken organen. De handelingen van de overheid op het beleidsterrein staan in het RIO in hun functionele context geplaatst. In het BSD zijn de handelingen overgenomen, alleen nu geordend naar de actor. Bovendien is bij elke handeling aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden. Door de beleidsterreingerichte benadering komen verschillende aspecten betreffende het beheer van de eigen organisatie van de zorgdrager (personeelsbeleid, financieel beleid, etc.) niet aan bod. Voor het selecteren van de administratieve neerslag die betrekking heeft op de instandhouding en ontwikkeling van de eigen organisaties van overheidsorganen dienen een aantal zogeheten ‘horizontale’ BSD’s. Deze horizontale BSD’s zijn van toepassing op alle organisaties van de rijksoverheid. Het niveau waarop geselecteerd wordt, is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voorzien van een waardering en indien van toepassing een vernietigingstermijn. De selectielijst treedt in werking twee dagen na publicatie in de Staatscourant en blijft in de huidige vorm hoogstens 20 jaar geldig.  
+Een Basis Selectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van één (enkele) organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Het BSD geldt dus voor de archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voor zover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Dit betekent dat er geen handelingen van particuliere actoren worden opgenomen. Een BSD wordt normaliter opgesteld op basis van institutioneel onderzoek. In het rapport institutioneel onderzoek (RIO) wordt dan het betreffende beleidsterrein beschreven, evenals de taken en bevoegdheden van de betrokken organen. De handelingen van de overheid op het beleidsterrein staan in het RIO in hun functionele context geplaatst. In het BSD zijn de handelingen overgenomen, alleen nu geordend naar de actor. Bovendien is bij elke handeling aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden. Door de beleidsterreingerichte benadering komen verschillende aspecten betreffende het beheer van de eigen organisatie van de zorgdrager (personeelsbeleid, financieel beleid, etc.) niet aan bod. Voor het selecteren van de administratieve neerslag die betrekking heeft op de instandhouding en ontwikkeling van de eigen organisaties van overheidsorganen dienen een aantal zogeheten ‘horizontale’ BSD’s. Deze horizontale BSD’s zijn van toepassing op alle organisaties van de rijksoverheid. Het niveau waarop geselecteerd wordt, is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voorzien van een waardering en indien van toepassing een vernietigingstermijn. De selectielijst treedt in werking twee dagen na publicatie in de Staatscourant en blijft in de huidige vorm hoogstens 20 jaar geldig. 
 
 #### *Definitie van het beleidsterrein* 
 
-Van oudsher betekent rechtsbijstand c.q. rechtshulp juridische bijstand in burgerlijke en strafprocessen en in geschillen met de overheid. Actoren op het beleidsterrein zijn ofwel betrokken bij de facilitering van de rechtsbijstand in de zin van het opstellen van wet- en regelgeving en financiering, ofwel verlenen zelf rechtsbijstand.  
+Van oudsher betekent rechtsbijstand c.q. rechtshulp juridische bijstand in burgerlijke en strafprocessen en in geschillen met de overheid. Actoren op het beleidsterrein zijn ofwel betrokken bij de facilitering van de rechtsbijstand in de zin van het opstellen van wet- en regelgeving en financiering, ofwel verlenen zelf rechtsbijstand. 
 
 #### *Afbakening van het beleidsterrein* 
 
-In dit BSD wordt het beleidsterrein Gefinancierde Rechtsbijstand ( of Rechtshulp) behandeld. Het beleidsterrein bestrijkt uitsluitend de financiering en organisatie van de door de overheid gefinancierde rechtshulp. De rechtshulp wordt in Nederland verleend door advocaten, deurwaarders, notarissen , en andere al dan niet commerciële juridische hulpverleners zoals de sociale raadslieden, juristen van vakbond en verenigingen als de ANWB, ombudslieden, etc. Al deze rechtshulpverleners verlenen hun hulp in principe als particulieren. Daarom maken de handelingen van de rechtshulpverleners zelf geen deel uit van het rapport. Notarissen en deurwaarders hebben naast taken op het terrein van de rechtshulpverlening ook taken als ‘publiek rechtspersoon’. De handelingen van de overheid ten aanzien van deze beroepsgroepen en de handelingen van de notarissen en gerechtsdeurwaarders voor zover deze behoren tot het ‘overheidsdomein’ worden in aparte institutionele onderzoeken behandeld. Zie hiervoor respectievelijk het RIO *Notarissen. Een institutioneel onderzoek naar het beleidsterrein Notarissen* (PIVOT-nummer 172) van de auteurs drs. R.A. van Abel en drs. W.F. Fijnheer en het RIO *Gerechtsdeurwaarders. Een institutioneel onderzoek naar het beleid ten aanzien van het ambt van de gerechtsdeurwaarder 1945-2001* (nr. 182) van de auteur drs. H. R. Jordaan. <sup> 1  Tot de rechtshulpverleners worden traditioneel ook de notarissen en deurwaarders gerekend. Dit geldt voor een onderdeel van hun taken. In een kantongerechtszaak kan een deurwaarder worden toegevoegd, d.w.z. deze kan een cliënt bijstaan in een procedure voor een kantongerecht. Een notaris kan op last van de president van een rechtbank kosteloos diensten verlenen. Hiervoor ontvangt deze geen vergoeding van de staat.  </sup> Rechtshulp betreft voor een belangrijk deel bijstand in processen voor een rechter. De handelingen van de rechterlijke macht worden behandeld in het RIO *Gedeelde geschillen*. *Een institutioneel onderzoek naar het handelen van de rechterlijke macht vanaf 1950* (nr. 124) van de auteurs R.P.B.A. Dingemans en R. W. Steensma. De Nationale Ombudsman is een hoog college van Staat en is in een apart RIO behandeld. Zie hiervoor *Behoorlijk behandeld. Rapport van een institutioneel onderzoek naar actoren en handelingen op het terrein van de Nationale ombudsman in de periode (1964) 1982–1997* (nr. 56) van de auteur drs. R.J.B. Hageman. De begrippen rechtshulp en rechtsbijstand worden nogal eens door elkaar gebruikt. In dit RIO wordt zoveel mogelijk het begrip rechtsbijstand gebruikt voor de door de overheid meegefinancierde rechtshulp. De term rechtshulp wordt gebruikt voor de hulp en ondersteuning die wordt verleend aan particulieren die hun recht willen uitoefenen.  
+In dit BSD wordt het beleidsterrein Gefinancierde Rechtsbijstand ( of Rechtshulp) behandeld. Het beleidsterrein bestrijkt uitsluitend de financiering en organisatie van de door de overheid gefinancierde rechtshulp. De rechtshulp wordt in Nederland verleend door advocaten, deurwaarders, notarissen<sup>1Tot de rechtshulpverleners worden traditioneel ook de notarissen en deurwaarders gerekend. Dit geldt voor een onderdeel van hun taken. In een kantongerechtszaak kan een deurwaarder worden toegevoegd, d.w.z. deze kan een cliënt bijstaan in een procedure voor een kantongerecht. Een notaris kan op last van de president van een rechtbank kosteloos diensten verlenen. Hiervoor ontvangt deze geen vergoeding van de staat.</sup>, en andere al dan niet commerciële juridische hulpverleners zoals de sociale raadslieden, juristen van vakbond en verenigingen als de ANWB, ombudslieden, etc. Al deze rechtshulpverleners verlenen hun hulp in principe als particulieren. Daarom maken de handelingen van de rechtshulpverleners zelf geen deel uit van het rapport. Notarissen en deurwaarders hebben naast taken op het terrein van de rechtshulpverlening ook taken als ‘publiek rechtspersoon’. De handelingen van de overheid ten aanzien van deze beroepsgroepen en de handelingen van de notarissen en gerechtsdeurwaarders voor zover deze behoren tot het ‘overheidsdomein’ worden in aparte institutionele onderzoeken behandeld. Zie hiervoor respectievelijk het RIO *Notarissen. Een institutioneel onderzoek naar het beleidsterrein Notarissen* (PIVOT-nummer 172) van de auteurs drs. R.A. van Abel en drs. W.F. Fijnheer en het RIO *Gerechtsdeurwaarders. Een institutioneel onderzoek naar het beleid ten aanzien van het ambt van de gerechtsdeurwaarder 1945-2001* (nr. 182) van de auteur drs. H. R. Jordaan. Rechtshulp betreft voor een belangrijk deel bijstand in processen voor een rechter. De handelingen van de rechterlijke macht worden behandeld in het RIO *Gedeelde geschillen*. *Een institutioneel onderzoek naar het handelen van de rechterlijke macht vanaf 1950* (nr. 124) van de auteurs R.P.B.A. Dingemans en R. W. Steensma. De Nationale Ombudsman is een hoog college van Staat en is in een apart RIO behandeld. Zie hiervoor *Behoorlijk behandeld. Rapport van een institutioneel onderzoek naar actoren en handelingen op het terrein van de Nationale ombudsman in de periode (1964) 1982–1997* (nr. 56) van de auteur drs. R.J.B. Hageman. De begrippen rechtshulp en rechtsbijstand worden nogal eens door elkaar gebruikt. In dit RIO wordt zoveel mogelijk het begrip rechtsbijstand gebruikt voor de door de overheid meegefinancierde rechtshulp. De term rechtshulp wordt gebruikt voor de hulp en ondersteuning die wordt verleend aan particulieren die hun recht willen uitoefenen. 
 
 #### *De doelstelling(en) van de overheid en ontwikkelingen op het beleidsterrein* 
 
@@ -112,11 +112,11 @@ c. rechtsbijstand door gerechtsdeurwaarders,
 
 d. anderen met wie de Raad voor Rechtsbijstand een overeenkomst is aangegaan tot het verlenen van rechtsbijstand op bepaalde rechtsgebieden,  
 
-e. een ontnemingsvordering.   In een aantal gevallen was de toevoeging van een advocaat kosteloos. Het gold met zaken waarbij in het [Wetboek van Strafrecht](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [Wetboek van strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) wordt voorzien in het toevoegen van een raadsman door de rechter en in zaken in het kader van artikelen van de [Uitleveringswet](../../../../../../../../../wet/uitleveringswet/BWBR0002559/README.md); [Vreemdelingenwet](../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [Penitentiaire beginselenwet](../../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [Wet op de jeugdhulpverlening](../../../../../../../../../wet/wet/op/de/jeugdhulpverlening/BWBR0004608/README.md), [Wet overdracht tenuitvoerlegging strafvonnissen](../../../../../../../../../wet/wet/overdracht/tenuitvoerlegging/strafvonnissen/BWBR0004028/README.md), [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), [Beginselenwet verpleging ter beschikking gestelden](../../../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md).  
+e. een ontnemingsvordering.   In een aantal gevallen was de toevoeging van een advocaat kosteloos. Het gold met zaken waarbij in het [Wetboek van Strafrecht](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [Wetboek van strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) wordt voorzien in het toevoegen van een raadsman door de rechter en in zaken in het kader van artikelen van de [Uitleveringswet](../../../../../../../../../wet/uitleveringswet/BWBR0002559/README.md); [Vreemdelingenwet](../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [Penitentiaire beginselenwet](../../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [Wet op de jeugdhulpverlening](../../../../../../../../../wet/wet/op/de/jeugdhulpverlening/BWBR0004608/README.md), [Wet overdracht tenuitvoerlegging strafvonnissen](../../../../../../../../../wet/wet/overdracht/tenuitvoerlegging/strafvonnissen/BWBR0004028/README.md), [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md), [Beginselenwet verpleging ter beschikking gestelden](../../../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md). 
 
 #### *Totstandkoming van het BSD* 
 
-Het beleidsterrein Rechtsbijstand is behandeld in het RIO *Rechtspleging en rechtshulp. De datageschiedenis van handelingen en organisatie-eenheden van de justitiële ministeriële organisatie van de rechtspleging en rechtshulp, 1945–1992* (Den Haag 1993). De auteur van dit RIO (PIVOT-nummer 10) is drs. C. K. Berghuis. De basis van dit BSD wordt echter gevormd door het RIO *Gefinancierde rechtsbijstand* uit 2002 en twee concept-selectielijsten voor de actoren de minister van Justitie en de Raden voor de Rechtsbijstand van de hand van drs. G. Beks en mw. E.A.T.M. Schreuderde de basis voor dit BSD. Een advies van de Raad voor Cultuur (20 november 2001, arc-2001.3097/3) was aanleiding om de beide selectielijsten samen te voegen en de context (het institutioneel onderzoek) compleet te maken. De onderstaande tekst is deels het resultaat van onderzoek gedaan door drs. G. Beks, deels het resultaat van aanvullend onderzoek gedaan door mw. E.A.T.M.Schreuder. Het laatste onderzoek loopt tot het jaar 2002. Daarnaast is aan het BSD een overzicht van alle actoren die in het BSD zijn opgenomen toegevoegd, alsook een afbakening van het beleidsterrein. De handelingen zoals beschreven door drs. G. Beks zijn gehandhaafd, maar de volgorde is gewijzigd. De handelingen zijn voorzien van een nieuw nummer. Ook zijn nog een aantal handelingen toegevoegd, onder andere voor de minister van Justitie en een aantal commissies, op basis van een (derde) concept-BSD van drs. R. van Abel uit 2006. Deze handelingen zijn doorgenummerd vanaf 165. De Raden voor Rechtsbijstand zijn uit dit BSD verwijderd. De Raden voor Rechtsbijstand zijn zorgdrager voor de eigen archiefbescheiden en gedeeltelijk voor dat van haar voorgangers de Bureaus voor Rechtshulp. In opdracht van de Raad voor Rechtsbijstand in Amsterdam wordt gewerkt aan een selectiedocument voor deze Raad. Dit BSD zal als uitgangspunt dienen voor een selectiedocument voor de andere Raden van Rechtsbijstand. De bijgaande selectielijst is daarom alleen bedoeld voor de zorgdrager de minister van Justitie en de onder deze minister ressorterende actoren. Handeling 134 is uit het BSD geschrapt. Deze handeling is onvoldoende duidelijk.  
+Het beleidsterrein Rechtsbijstand is behandeld in het RIO *Rechtspleging en rechtshulp. De datageschiedenis van handelingen en organisatie-eenheden van de justitiële ministeriële organisatie van de rechtspleging en rechtshulp, 1945–1992* (Den Haag 1993). De auteur van dit RIO (PIVOT-nummer 10) is drs. C. K. Berghuis.  De basis van dit BSD wordt echter gevormd door het RIO *Gefinancierde rechtsbijstand* uit 2002 en twee concept-selectielijsten voor de actoren de minister van Justitie en de Raden voor de Rechtsbijstand van de hand van drs. G. Beks en mw. E.A.T.M. Schreuderde de basis voor dit BSD. Een advies van de Raad voor Cultuur (20 november 2001, arc-2001.3097/3) was aanleiding om de beide selectielijsten samen te voegen en de context (het institutioneel onderzoek) compleet te maken. De onderstaande tekst is deels het resultaat van onderzoek gedaan door drs. G. Beks, deels het resultaat van aanvullend onderzoek gedaan door mw. E.A.T.M.Schreuder. Het laatste onderzoek loopt tot het jaar 2002. Daarnaast is aan het BSD een overzicht van alle actoren die in het BSD zijn opgenomen toegevoegd, alsook een afbakening van het beleidsterrein. De handelingen zoals beschreven door drs. G. Beks zijn gehandhaafd, maar de volgorde is gewijzigd. De handelingen zijn voorzien van een nieuw nummer. Ook zijn nog een aantal handelingen toegevoegd, onder andere voor de minister van Justitie en een aantal commissies, op basis van een (derde) concept-BSD van drs. R. van Abel uit 2006. Deze handelingen zijn doorgenummerd vanaf 165. De Raden voor Rechtsbijstand zijn uit dit BSD verwijderd. De Raden voor Rechtsbijstand zijn zorgdrager voor de eigen archiefbescheiden en gedeeltelijk voor dat van haar voorgangers de Bureaus voor Rechtshulp. In opdracht van de Raad voor Rechtsbijstand in Amsterdam wordt gewerkt aan een selectiedocument voor deze Raad. Dit BSD zal als uitgangspunt dienen voor een selectiedocument voor de andere Raden van Rechtsbijstand. De bijgaande selectielijst is daarom alleen bedoeld voor de zorgdrager de minister van Justitie en de onder deze minister ressorterende actoren. Handeling 134 is uit het BSD geschrapt. Deze handeling is onvoldoende duidelijk. 
 
 ####Selectiedoelstelling
 
@@ -127,11 +127,11 @@ In de productbeschrijving BSD van maart 2004 is de selectiedoelstelling van het 
 Uitgaande van de algemene selectiedoelstelling heeft PIVOT in 1998 een (gewijzigde) lijst van algemene selectiecriteria geformuleerd. Met behulp van die algemene criteria wordt in een BSD een waardering toegekend aan de handelingen die door middel van het institutioneel onderzoek in kaart zijn gebracht. De algemene selectiecriteria van PIVOT zijn positief geformuleerd; het zijn bewaarcriteria. Is een handeling op grond van een criterium gewaardeerd met B (‘blijvend te bewaren’), dan betekent dit dat de administratieve neerslag van die handeling te zijner tijd geheel dient te worden overgebracht naar het NA. De neerslag van een handeling die niet aan één van de selectiecriteria voldoet, wordt op termijn vernietigd. De waardering van de desbetreffende handeling luidt dan V (vernietigen), onder vermelding van de periode waarna de vernietiging dient plaats te vinden. De neerslag die uit dergelijke handelingen voortvloeit, is dus niet noodzakelijk geacht voor een reconstructie van het overheidshandelen op hoofdlijnen. 
 ###Algemene selectiecriteria
 
-HANDELINGEN DIE WORDEN GEWAARDEERD MET B (ewaren) 1. Handelingen die betrekking hebben op *voorbereiding en bepaling van beleid* op hoofdlijnen *toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op *evaluatie van beleid op hoofdlijnen* *toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieronder valt ook het toetsen van en het toezien op beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op *verantwoording van beleid op hoofdlijnen aan andere actoren* *toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op *(her)inrichting van organisaties belast met beleid op hoofdlijnen* *toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop *beleidsuitvoering* op hoofdlijnen plaatsvindt *toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op *beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten *toelichting:* Bijvoorbeeld in het geval de ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Overigens kan, ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) neerslag van bepaalde, als te vernietigen gewaardeerde handelingen, betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd.  Naast algemene criteria kunnen, eveneens binnen het kader van de selectiedoelstelling, in een BSD specifieke criteria worden geformuleerd voor handelingen die met behulp van de algemene criteria niet kunnen worden gewaardeerd. Daar de noodzaak hiertoe niet aanwezig werd geacht, is in dit BSD de mogelijkheid om specifieke selectiecriteria te formuleren niet benut.  
+HANDELINGEN DIE WORDEN GEWAARDEERD MET B (ewaren) 1. Handelingen die betrekking hebben op *voorbereiding en bepaling van beleid* op hoofdlijnen  *toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op *evaluatie van beleid op hoofdlijnen*   *toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieronder valt ook het toetsen van en het toezien op beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op *verantwoording van beleid op hoofdlijnen aan andere actoren*   *toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op *(her)inrichting van organisaties belast met beleid op hoofdlijnen*   *toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop *beleidsuitvoering* op hoofdlijnen plaatsvindt   *toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op *beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten  *toelichting:* Bijvoorbeeld in het geval de ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Overigens kan, ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) neerslag van bepaalde, als te vernietigen gewaardeerde handelingen, betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd.  Naast algemene criteria kunnen, eveneens binnen het kader van de selectiedoelstelling, in een BSD specifieke criteria worden geformuleerd voor handelingen die met behulp van de algemene criteria niet kunnen worden gewaardeerd. Daar de noodzaak hiertoe niet aanwezig werd geacht, is in dit BSD de mogelijkheid om specifieke selectiecriteria te formuleren niet benut. 
 
 #### *De vaststelling als selectielijst* 
 
-In juli 2007 is het ontwerp-BSD door de minister van Justitie aan de minister van Onderwijs, Cultuur en Wetenschap aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 3 december 2007 lag de selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Nationaal Archief. Tevens is de selectielijst beschikbaar gesteld via de website van het Nationaal Archief en de website van het ministerie van Onderwijs, Cultuur en Wetenschap, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 30 januari 2008 bracht de RvC advies uit (bca-2008.04316/1), hetwelk geen aanleiding heeft gegeven tot wijzigingen in de ontwerp-selectielijst. Daarop werd het BSD op 7 februari 2008 door de wnd. algemene rijksarchivaris, namens de minister van Onderwijs, Cultuur en Wetenschap en Projectdirecteur Project Wegwerken Archiefachterstanden (conform het convenant d.d. 30 mei 2006) namens de minister van Justitie (C/S&A/08/79) vastgesteld.  
+In juli 2007 is het ontwerp-BSD door de minister van Justitie aan de minister van Onderwijs, Cultuur en Wetenschap aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 3 december 2007 lag de selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Nationaal Archief. Tevens is de selectielijst beschikbaar gesteld via de website van het Nationaal Archief en de website van het ministerie van Onderwijs, Cultuur en Wetenschap, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 30 januari 2008 bracht de RvC advies uit (bca-2008.04316/1), hetwelk geen aanleiding heeft gegeven tot wijzigingen in de ontwerp-selectielijst. Daarop werd het BSD op 7 februari 2008 door de wnd. algemene rijksarchivaris, namens de minister van Onderwijs, Cultuur en Wetenschap en Projectdirecteur Project Wegwerken Archiefachterstanden (conform het convenant d.d. 30 mei 2006) namens de minister van Justitie (C/S&A/08/79) vastgesteld. 
 
 #### *Leeswijzer* 
 
@@ -164,7 +164,7 @@ Reclasseringsregeling 1947, art. 9, lid 2 (Stb. 1947, H 423), Reclasseringsregel
 Deze aanvullende informatie wordt slechts vermeld wanneer de strekking van de handeling toelichting behoeft. 
 ###Waardering
 
-Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering.  
+Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering. 
 
 ####Actorenoverzicht
 
@@ -318,7 +318,7 @@ Ingesteld bij besluit van 29 oktober 2001 van de staatssecretaris van Justitie.
 Ingesteld bij beschikking van 8 november 1985 van de minister van Justitie. Taak: Toezicht houden op de uitvoering en naleving van de afspraken in het convenant inzake de organisatie van de bureaus voor rechtshulp en hierover rapporteren. Daarnaast het adviseren over de inzet en aanwending van middelen om de organisatieveranderingen te bevorderen en mogelijk te maken. 
 ###Commissie Herijking vergoedingen rechtsbijstand (1995-)
 
-Ingesteld bij besluit van 9 mei 1995 van de staatssecretaris van Justitie. Taak: Op basis van onderzoek doen van aanbevelingen over aanpassing van de vergoedingsnormen voor rechtsbijstandverleners.  
+Ingesteld bij besluit van 9 mei 1995 van de staatssecretaris van Justitie. Taak: Op basis van onderzoek doen van aanbevelingen over aanpassing van de vergoedingsnormen voor rechtsbijstandverleners. 
 
 ####Selectielijsten
 
@@ -384,7 +384,7 @@ Handeling: Het mede-voorbereiden van het vaststellen, wijzigen en intrekken van 
 Handeling: Het voorbereiden, wijzigen, vaststellen en intrekken van voorschriften, richtlijnen, instructies, aanschrijvingen, aanwijzingen, maatregelen, circulaires, boekwerken, leidraden, etc. betreffende het te volgen beleid inzake de gefinancierde rechtsbijstand en rechtshulp. Periode: 1945– Waardering: B, 5 
 ###15.
 
-Handeling: Het binnen vijf jaar na inwerking treden van de Wet op de rechtsbijstand aan de Staten-Generaal verslag uitbrengen over de doeltreffendheid en de effecten van deze wet in de praktijk. Periode: 1994– Grondslag: art. 65 Wet op de rechtsbijstand. Waardering: B 3  
+Handeling: Het binnen vijf jaar na inwerking treden van de Wet op de rechtsbijstand aan de Staten-Generaal verslag uitbrengen over de doeltreffendheid en de effecten van deze wet in de praktijk. Periode: 1994– Grondslag: art. 65 Wet op de rechtsbijstand. Waardering: B 3 
 
 #### *Handelingen met betrekking tot de Nederlandse inbreng in de Europese Unie* 
 
@@ -452,7 +452,7 @@ Handeling: Het, indien het jaarplan niet tijdig goedgekeurd kan worden, treffen 
 Handeling: Het geven van aanwijzingen voor de inrichting van de voortgangsrapportage. Periode: 1945–1999 Grondslag: art. 10 Financieringsregeling Raden voor Rechtsbijstand 1994, art. 10 Financieringsregeling Raden voor Rechtsbijstand 1996. Waardering: V 5 jaar 
 ###40.
 
-Handeling: Het beslissen op verzoeken om toestemming voor diverse rechtshandelingen. Periode: 1996 - 1999 Grondslag: art. 20 lid 2 Financieringsregeling Raden voor Rechtsbijstand 1996. Waardering: B, 5  
+Handeling: Het beslissen op verzoeken om toestemming voor diverse rechtshandelingen. Periode: 1996 - 1999 Grondslag: art. 20 lid 2 Financieringsregeling Raden voor Rechtsbijstand 1996. Waardering: B, 5 
 
 #### *Benoeming en ontslag van (bestuurs-)leden en personeel* 
 
@@ -473,7 +473,7 @@ Handeling: Het vaststellen van de personeelsformatie van medewerkers in vaste di
 Handeling: Het vaststellen van de reis- en verblijfkosten voor de leden van de Raad voor Rechtsbijstand. Periode: 1945– Grondslag: art. 6 lid 2 Wet op de rechtsbijstand. Waardering: V 7 jaar 
 ###57.
 
-Handeling: Het, na overleg met de Raden voor Rechtsbijstand en de Werkgeversvereniging Bureaus voor Rechtshulp, bepalen op welke wijze het jaarlijkse arbeidsvoorwaardenoverleg wordt vormgegeven. Periode: 1945–1999 Grondslag: art. 30 Financieringsregeling Raden voor Rechtsbijstand 1996. Waardering: V 5 jaar  
+Handeling: Het, na overleg met de Raden voor Rechtsbijstand en de Werkgeversvereniging Bureaus voor Rechtshulp, bepalen op welke wijze het jaarlijkse arbeidsvoorwaardenoverleg wordt vormgegeven. Periode: 1945–1999 Grondslag: art. 30 Financieringsregeling Raden voor Rechtsbijstand 1996. Waardering: V 5 jaar 
 
 #### *Financiering en administratie* 
 
@@ -545,7 +545,7 @@ Handeling: Het geven van toestemming aan Raden voor Rechtsbijstand om de activit
 Handeling: Het tijdens de begrotingsuitvoering verlagen van de egalisatiereserves en de voorziening ‘toevoeging’ indien de financiële positie van een of meer raden daartoe noodzaakt. Periode: 1945–1999 Grondslag: O.a. art. 27 Financieringsregeling Raden voor Rechtsbijstand 1996. Waardering: V 7 jaar 
 ###84.
 
-Handeling: Het goedkeuren van de regels die Raden voor Rechtsbijstand stellen aan de subsidieverstrekking voor de Stichtingen Rechtsbijstand. Periode: 1945– Grondslag: art. 42b lid 4 Wet op de rechtsbijstand. Waardering: B, 4  
+Handeling: Het goedkeuren van de regels die Raden voor Rechtsbijstand stellen aan de subsidieverstrekking voor de Stichtingen Rechtsbijstand. Periode: 1945– Grondslag: art. 42b lid 4 Wet op de rechtsbijstand. Waardering: B, 4 
 
 #### *De verlening van rechtsbijstand* 
 
@@ -553,7 +553,7 @@ Handeling: Het goedkeuren van de regels die Raden voor Rechtsbijstand stellen aa
 
 ###85.
 
-Handeling: Het stellen van regels met betrekking tot de deskundigheid waaraan degenen die ten behoeve van de Stichting Rechtshulp (Bureau voor Rechtshulp) werkzaamheden verrichten moeten voldoen. Periode: 1945–[1992] Grondslag: art. 5.2 lid 2 Financieringsregeling Bureaus voor Rechtshulp 1990. Waardering: B, 5  
+Handeling: Het stellen van regels met betrekking tot de deskundigheid waaraan degenen die ten behoeve van de Stichting Rechtshulp (Bureau voor Rechtshulp) werkzaamheden verrichten moeten voldoen. Periode: 1945–[1992] Grondslag: art. 5.2 lid 2 Financieringsregeling Bureaus voor Rechtshulp 1990. Waardering: B, 5 
 
 #### *Verlenen van rechtshulp en toevoegingen* 
 
@@ -571,7 +571,7 @@ Handeling: Het bij algemene maatregel van bestuur stellen van nadere regels betr
 Handeling: Het vaststellen van het formulier waarmee een toevoeging aangevraagd moet worden. Periode: 1945– Grondslag: art. 24 lid 2 Wet op de rechtsbijstand. Waardering: V 5 jaar 
 ###102.
 
-Handeling: Het vaststellen van het model van het toevoegingbewijs. Periode: 1945– Grondslag: art. 24 lid 5 Wet op de rechtsbijstand. Waardering: V 5 jaar  
+Handeling: Het vaststellen van het model van het toevoegingbewijs. Periode: 1945– Grondslag: art. 24 lid 5 Wet op de rechtsbijstand. Waardering: V 5 jaar 
 
 #### *Vergoedingen aan rechtshulpverleners* 
 
@@ -613,7 +613,7 @@ Handeling: Het aan een rechtsbijstandverlener die buiten zijn arrondissement opt
 Handeling: Het zorgdragen voor de tenuitvoerlegging van een bevelschrift om de aan een rechtsbijstandsverlener toegekende vergoeding te verhalen op de goederen van de persoon aan wie rechtsbijstand is verleend. Periode: 1945– Grondslag: art. 56 lid 1 en art. 56 lid 2 Besluit vergoedingen rechtsbijstand 1994. Waardering: V 5 jaar Opmerking: Het bevelschrift wordt afgegeven door de rechter. 
 ###132.
 
-Handeling: Het aanwijzen van een instantie waar gerechtsdeurwaarders die rechtsbijstand verleend hebben hun vergoeding voor de verrichte werkzaamheden kunnen aanvragen. Periode: 1945– Grondslag: art. 63 Besluit vergoedingen rechtsbijstand 1994. Waardering: V 5 jaar  
+Handeling: Het aanwijzen van een instantie waar gerechtsdeurwaarders die rechtsbijstand verleend hebben hun vergoeding voor de verrichte werkzaamheden kunnen aanvragen. Periode: 1945– Grondslag: art. 63 Besluit vergoedingen rechtsbijstand 1994. Waardering: V 5 jaar 
 
 #### *Vaststelling draagkracht en eigen bijdragen* 
 
@@ -652,7 +652,7 @@ Handeling: Het bepalen van de regelmaat en omvang waarmee het Bureau Rechtsbijst
 Handeling: Het wijzigen van de normen voor de financiële draagkracht van de rechtzoekende. Periode: 1945– Grondslag: art. 35 lid 5b Wet op de rechtsbijstand. Waardering: B 5 
 ###149.
 
-Handeling: Het bij algemene maatregel van bestuur geven van (nadere) regels: a. voor de vaststelling van het voor de financiële draagkracht in aanmerking te nemen inkomen en vermogen, b. over de gevallen waarin het Bureau Rechtsbijstandvoorziening bevoegd is geen of een lagere eigen bijdrage op te leggen, c. betreffende de bescheiden die rechtzoekenden bij het aanvragen van rechtsbijstand moeten overleggen. Periode: 1945– Grondslag: a. art. 34 lid 4 Wet op de rechtsbijstand, b. art. 35 lid 6 Wet op de rechtsbijstand, c. art. 13 lid 5 Besluit draagkrachtcriteria rechtsbijstand. Waardering: B, 5  
+Handeling: Het bij algemene maatregel van bestuur geven van (nadere) regels: a. voor de vaststelling van het voor de financiële draagkracht in aanmerking te nemen inkomen en vermogen, b. over de gevallen waarin het Bureau Rechtsbijstandvoorziening bevoegd is geen of een lagere eigen bijdrage op te leggen, c. betreffende de bescheiden die rechtzoekenden bij het aanvragen van rechtsbijstand moeten overleggen. Periode: 1945– Grondslag: a. art. 34 lid 4 Wet op de rechtsbijstand, b. art. 35 lid 6 Wet op de rechtsbijstand, c. art. 13 lid 5 Besluit draagkrachtcriteria rechtsbijstand. Waardering: B, 5 
 
 #### *Bezwaar en beroep* 
 
@@ -664,7 +664,7 @@ Handeling: Het beslissen op beroepschriften naar aanleiding van beschikkingen be
 Handeling: Het bij algemene maatregel van bestuur bepalen of beslissingen vatbaar zijn voor hoger beroep of cassatie. Periode: 1945–1994 Grondslag: art. 25 lid 4 Wet rechtsbijstand aan on- en minvermogenden. Waardering: B, 5 
 ###153.
 
-Handeling: Het goedkeuren van de klachtenregeling van de Raad voor Rechtsbijstand. Periode: 1945– Grondslag: art. 22 lid 3 Wet op de rechtsbijstand. Waardering: B, 4  
+Handeling: Het goedkeuren van de klachtenregeling van de Raad voor Rechtsbijstand. Periode: 1945– Grondslag: art. 22 lid 3 Wet op de rechtsbijstand. Waardering: B, 4 
 
 #### *Actor: Raad voor Rechtsbijstand in strafzaken* 
 
@@ -676,7 +676,7 @@ Handeling: Het beantwoorden van vragen van individuele burgers, bedrijven en ins
 Handeling: Het uitvoeren van voorlichtingsactiviteiten op het terrein van de gefinancierde rechtsbijstand en rechtshulp. Periode: 1949–1994 Waardering: V 2 jaar B 5 één exemplaar van het eindproduct 
 ###94.
 
-Handeling: Het toevoegen van een raadsman aan onvermogende verdachten en, in geval van onvermogen, ook aan andere personen die zich krachtens het Wetboek van Strafvordering door een advocaat kunnen doen bijstaan. Periode: 1949–1994 Grondslag: art. 76 Advocatenwet. Waardering: V 5 jaar  
+Handeling: Het toevoegen van een raadsman aan onvermogende verdachten en, in geval van onvermogen, ook aan andere personen die zich krachtens het Wetboek van Strafvordering door een advocaat kunnen doen bijstaan. Periode: 1949–1994 Grondslag: art. 76 Advocatenwet. Waardering: V 5 jaar 
 
 #### *Actor: Bureaus voor Consultatie* 
 
@@ -688,7 +688,7 @@ Handeling: Het beantwoorden van vragen van individuele burgers, bedrijven en ins
 Handeling: Het uitvoeren van voorlichtingsactiviteiten op het terrein van de gefinancierde rechtsbijstand en rechtshulp. Periode: 1949–1993 Waardering: V 2 jaar B 5 één exemplaar van het eindproduct 
 ###182.
 
-Handeling: Het verlenen van rechtsbijstand Periode: 1958–1993 Grondslag: Wet tot regeling van de rechtsbijstand aan on- en minvermogenden, art. 2 (*Stb.* 1957, 233, gewijzigd bij *Stb.* 1983, 642) Product: zaakdossiers Opmerking: Het verlenen van rechtsbijstand vindt plaats hetzij door het geven van advies ter zitting, hetzij door toevoeging van een advocaat, procureur of gerechtsdeurwaarder. In spoedeisende gevallen kan het bureau een voorlopige toevoeging verlenen. In geval van een aanmerkelijk financieel belang kan het bureau een voorwaardelijke toevoeging verlenen. Bij toevoeging deelt het bureau de hoogte van de opgelegde eigen bijdrage aan de bezoeker mee. Het bureau kan de toevoeging na beëindiging van de zaak of in bepaalde omstandigheden weer intrekken. Waardering: V 7 jaar na verstrekking rechtsbijstand 
+Handeling: Het verlenen van rechtsbijstand Periode: 1958–1993 Grondslag: Wet tot regeling van de rechtsbijstand aan on- en minvermogenden, art. 2 (*Stb.* 1957, 233, gewijzigd bij *Stb.* 1983, 642)  Product: zaakdossiers Opmerking: Het verlenen van rechtsbijstand vindt plaats hetzij door het geven van advies ter zitting, hetzij door toevoeging van een advocaat, procureur of gerechtsdeurwaarder. In spoedeisende gevallen kan het bureau een voorlopige toevoeging verlenen. In geval van een aanmerkelijk financieel belang kan het bureau een voorwaardelijke toevoeging verlenen. Bij toevoeging deelt het bureau de hoogte van de opgelegde eigen bijdrage aan de bezoeker mee. Het bureau kan de toevoeging na beëindiging van de zaak of in bepaalde omstandigheden weer intrekken. Waardering: V 7 jaar na verstrekking rechtsbijstand 
 ###24.
 
 Handeling: Het bij de Staatssecretaris van Justitie indienen van een voortgangsrapportage, een jaarrekening, een activiteitenverslag en een jaarverslag. Periode: 1958–1993 Grondslag: Wet tot regeling van de rechtsbijstand aan on- en minvermogenden, art. 7 lid 1-2 (*Stb.* 1957, 233); art. 7.5 Financieringsregeling Bureaus voor Rechtshulp 1990, Waardering: B, 2 
@@ -703,79 +703,79 @@ Handeling: Het informeren van de Staatssecretaris van Justitie van het voornemen
 Handeling: Het in rekening brengen van een vergoeding voor verrichte diensten of beschikbaar gestelde diensten aan anderen dan de door de Staatssecretaris in het kader van de rechtshulp gesubsidieerde organisaties. Periode: 1990–[1992] Grondslag: art. 8.4 Financieringsregeling Bureaus voor Rechtshulp 1990. Waardering: V 7 jaar 
 ###66.
 
-Handeling: Het aan de Staatssecretaris van Justitie of aan door hem aangewezen personen alle informatie doen toekomen en inzage verlenen in haar boeken. Periode: 1990–1993 Grondslag: art. 2.6 Financieringsregeling bureaus voor rechtshulp 1990. Waardering: V 7 jaar  
+Handeling: Het aan de Staatssecretaris van Justitie of aan door hem aangewezen personen alle informatie doen toekomen en inzage verlenen in haar boeken. Periode: 1990–1993 Grondslag: art. 2.6 Financieringsregeling bureaus voor rechtshulp 1990. Waardering: V 7 jaar 
 
 #### *Actor: Commissie Draagkrachtvaststelling Gefinancierde Rechtshulp* 
 
 ###184.
 
-Handeling: Het adviseren van de Minister van Justitie naar aanpassingen van het systeem van draagkrachtberekening. Periode: 1989 Grondslag: Instellingsbesluit, HDORR nr. 188 R 889, 15 februari 1989 Waardering: B 1  
+Handeling: Het adviseren van de Minister van Justitie naar aanpassingen van het systeem van draagkrachtberekening. Periode: 1989 Grondslag: Instellingsbesluit, HDORR nr. 188 R 889, 15 februari 1989 Waardering: B 1 
 
 #### *Actor: Commissie Rechtsbijstand aan on- en minvermogenden* 
 
 ###185.
 
-Handeling: Het adviseren van de Minister van Justitie over de wenselijkheid van door de minister voorgestelde veranderingen van de Wet Rechtsbijstand aan On- en Minvermogenden Periode: 1968– Grondslag: Instellingsbesluit d.d. 19-7-1968 Product: advies Waardering: B 1  
+Handeling: Het adviseren van de Minister van Justitie over de wenselijkheid van door de minister voorgestelde veranderingen van de Wet Rechtsbijstand aan On- en Minvermogenden Periode: 1968– Grondslag: Instellingsbesluit d.d. 19-7-1968 Product: advies Waardering: B 1 
 
 #### *Actor: Commissie Toekomstige Structuur Gefinancierde Rechtshulp* 
 
 ###186.
 
-Handeling: Het adviseren van de Minister van Justitie over de wijziging van de structuur van de gefinancierde rechtshulp Periode: 1988–1989 Grondslag: Besluit HDORR 1869 R 888, d.d. 23 december 1988 Waardering: B 1  
+Handeling: Het adviseren van de Minister van Justitie over de wijziging van de structuur van de gefinancierde rechtshulp Periode: 1988–1989 Grondslag: Besluit HDORR 1869 R 888, d.d. 23 december 1988 Waardering: B 1 
 
 #### *Actor: Commissie Tweedelijns Rechtshulp in Sociale Verzekeringen* 
 
 ###187.
 
-Handeling: Het adviseren van de Minister van Justitie inzake tweedelijns rechtshulp in sociale verzekeringen. Periode: 1979–1980 Grondslag: Instellingsbrief d.d. 10 juli 1979 Waardering: B 1  
+Handeling: Het adviseren van de Minister van Justitie inzake tweedelijns rechtshulp in sociale verzekeringen. Periode: 1979–1980 Grondslag: Instellingsbrief d.d. 10 juli 1979 Waardering: B 1 
 
 #### *Actor: Commissie van Advies inzake Toevoegingsaangelegenheden (Commissie Schaafsma)* 
 
 ###188.
 
-Handeling: Het adviseren van de Minister van Justitie inzake toevoegingsaangelegenheden Periode: 1980– Grondslag: Instellingsbesluit (*Stcrt.* 1980, 77) Waardering: B 1  
+Handeling: Het adviseren van de Minister van Justitie inzake toevoegingsaangelegenheden Periode: 1980– Grondslag: Instellingsbesluit (*Stcrt.* 1980, 77) Waardering: B 1 
 
 #### *Actor: Evaluatiecommissie Moduulbesluit* 
 
 ###189.
 
-Handeling: Het evalueren van het Moduulbesluit. Periode: 1984 - 1986 Grondslag: Instellingsbeschikking, HDORR nr. 194 R 884 Waardering: B 2  
+Handeling: Het evalueren van het Moduulbesluit. Periode: 1984 - 1986 Grondslag: Instellingsbeschikking, HDORR nr. 194 R 884 Waardering: B 2 
 
 #### *Actor: Stuurgroep Wet op de Rechtsbijstand* 
 
 ###190.
 
-Handeling: Het coördineren van de voorbereiding van de totstandkoming van de Wet op de Rechtsbijstand. Periode: 1990 Grondslag: Instellingsbeschikking, HDORR nr. 16114, 890, 2 mei 1990 Opmerking: Hieronder viel ook het toezicht op de werkzaamheden van de Technische Commissie Waardering: V, 5 jaar  
+Handeling: Het coördineren van de voorbereiding van de totstandkoming van de Wet op de Rechtsbijstand. Periode: 1990 Grondslag: Instellingsbeschikking, HDORR nr. 16114, 890, 2 mei 1990 Opmerking: Hieronder viel ook het toezicht op de werkzaamheden van de Technische Commissie Waardering: V, 5 jaar 
 
 #### *Actor: Technische Commissie* 
 
 ###191.
 
-Handeling: Het adviseren van de Minister van Justitie inzake implementatie van de voorstellen van de Commissie Toekomstige Structuur Gefinancierde Rechtshulp. Periode: 1990 Grondslag: Instellingsbesluit, HDORR nr. 16114, 890, 2 mei 1990 Waardering: B 5  
+Handeling: Het adviseren van de Minister van Justitie inzake implementatie van de voorstellen van de Commissie Toekomstige Structuur Gefinancierde Rechtshulp. Periode: 1990 Grondslag: Instellingsbesluit, HDORR nr. 16114, 890, 2 mei 1990 Waardering: B 5 
 
 #### *Actor: Werkgroep Financiële functie* 
 
 ###192.
 
-Handeling: Het adviseren over de financiële functie van centrale en decentrale beheersafdelingen Periode: 1981– Grondslag: Instellingsbesluit van de Secretaris-Generaal van het ministerie van Justitie, 17 november 1981, nr. 010 SVO 81 Waardering: B 1  
+Handeling: Het adviseren over de financiële functie van centrale en decentrale beheersafdelingen Periode: 1981– Grondslag: Instellingsbesluit van de Secretaris-Generaal van het ministerie van Justitie, 17 november 1981, nr. 010 SVO 81 Waardering: B 1 
 
 #### *Actor: Commissie Heroverweging eigen bijdragen* 
 
 ###193.
 
-Handeling: Het adviseren over de afwegingsfunctie en opbouw van de eigen bijdragen voor de gefinancierde rechtsbijstand Periode: 1998 Grondslag: Instellingsbesluit van de Staatssecretaris van Justitie, 30 juli 1998, Stcrt. 1998/158 Waardering: B 1  
+Handeling: Het adviseren over de afwegingsfunctie en opbouw van de eigen bijdragen voor de gefinancierde rechtsbijstand Periode: 1998 Grondslag: Instellingsbesluit van de Staatssecretaris van Justitie, 30 juli 1998, Stcrt. 1998/158 Waardering: B 1 
 
 #### *Actor: Commissie Ouwerkerk* 
 
 ###194.
 
-Handeling: Het adviseren over een herpositionering van de bureaus voor de rechtshulp en de instelling van een juridisch loket Periode: 2001–2002 Grondslag: Instellingsbesluit van de Staatssecretaris van Justitie, 29 oktober 2001 Waardering: B 1  
+Handeling: Het adviseren over een herpositionering van de bureaus voor de rechtshulp en de instelling van een juridisch loket Periode: 2001–2002 Grondslag: Instellingsbesluit van de Staatssecretaris van Justitie, 29 oktober 2001 Waardering: B 1 
 
 #### *Actor: Klankbordgroep Wet op de Rechtsbijstand* 
 
 ###195.
 
-Handeling: Het adviseren over de aan de voorbereiding van de invoering van de Wet op de Rechtsbijstand verbonden werkzaamheden Periode: 1992–1993 Waardering: B 1  
+Handeling: Het adviseren over de aan de voorbereiding van de invoering van de Wet op de Rechtsbijstand verbonden werkzaamheden Periode: 1992–1993 Waardering: B 1 
 
 #### *Actor: Stuurgroep organisatie-ontwikkeling bureaus voor rechtshulp* 
 
@@ -784,17 +784,17 @@ Handeling: Het adviseren over de aan de voorbereiding van de invoering van de We
 Handeling: Het houden van toezicht op de uitwerking en invoering van organisatieveranderingen van de bureaus voor de rechtshulp Periode: 1985–1987 Grondslag: Instellingsbeschikking, HDORR nr. 1565 R, 885, 8 november 1985 Produkt: Rapporten Waardering: B 5 
 ###198.
 
-Handeling: Het adviseren over de inzet en aanwending van middelen om de organisatieveranderingen te bevorderen en mogelijk te maken. Periode: 1985–1987 Grondslag: Instellingsbeschikking, HDORR nr. 1565 R, 885, 8 november 1985 Produkt: Rapporten Waardering: B 5  
+Handeling: Het adviseren over de inzet en aanwending van middelen om de organisatieveranderingen te bevorderen en mogelijk te maken. Periode: 1985–1987 Grondslag: Instellingsbeschikking, HDORR nr. 1565 R, 885, 8 november 1985 Produkt: Rapporten Waardering: B 5 
 
 #### *Actor: Commissie Herijking vergoedingen rechtsbijstand* 
 
 ###197.
 
-Handeling: Het op basis van onderzoek doen van aanbevelingen over aanpassing van de vergoedingsnormen voor rechtsbijstandverleners Periode: 1995– Grondslag: Instellingsbesluit nr. 488612/895, 9 mei 1995 Produkt: Rapportages Waardering: B 1  
+Handeling: Het op basis van onderzoek doen van aanbevelingen over aanpassing van de vergoedingsnormen voor rechtsbijstandverleners Periode: 1995– Grondslag: Instellingsbesluit nr. 488612/895, 9 mei 1995 Produkt: Rapportages Waardering: B 1 
 
 #### *Actor: (Interdepartementale) Commissie, Raad of Werkgroep* 
 
 ###14.
 
-Handeling: Het adviseren van de minister van Justitie over de gefinancierde rechtsbijstand. Periode: 1945– Opmerking: Deze handeling is opgenomen voor het geval er interdepartementale commissies of raden zijn geweest op het terrein van de financiering van de rechtsbijstand die niet zijn vermeld in dit BSD. Waardering: B 1.  
+Handeling: Het adviseren van de minister van Justitie over de gefinancierde rechtsbijstand. Periode: 1945– Opmerking: Deze handeling is opgenomen voor het geval er interdepartementale commissies of raden zijn geweest op het terrein van de financiering van de rechtsbijstand die niet zijn vermeld in dit BSD. Waardering: B 1. 
 

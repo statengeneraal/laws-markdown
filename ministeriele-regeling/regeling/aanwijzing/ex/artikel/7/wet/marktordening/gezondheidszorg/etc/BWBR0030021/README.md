@@ -20,25 +20,25 @@ Besluit:
 
 In deze aanwijzing wordt verstaan onder: 
 
-a. *minister:* de minister van Volksgezondheid, Welzijn en Sport;  
+a.  *minister:* de minister van Volksgezondheid, Welzijn en Sport;  
 
-b. *wet:* de [Wet marktordening gezondheidszorg](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+b.  *wet:* de [Wet marktordening gezondheidszorg](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
 
-c. *zorgautoriteit:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+c.  *zorgautoriteit:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
 
-d. *besluit:* het [Besluit uitbreiding en beperking werkingssfeer WMG](../../../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/werkingssfeer/wmg/BWBR0020326/README.md)    
+d.  *besluit:* het [Besluit uitbreiding en beperking werkingssfeer WMG](../../../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/werkingssfeer/wmg/BWBR0020326/README.md)   
 
 ### Artikel  2  
 
 ####Werkingssfeer
 
-Deze aanwijzing is van toepassing op farmaceutische zorg waarop de [artikelen 50 tot en met 56 van de wet](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) van toepassing zijn zoals bepaald in [artikel 3, eerste lid, onder a, van het besluit](../../../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/werkingssfeer/wmg/BWBR0020326/README.md).  
+Deze aanwijzing is van toepassing op farmaceutische zorg waarop de [artikelen 50 tot en met 56 van de wet](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) van toepassing zijn zoals bepaald in [artikel 3, eerste lid, onder a, van het besluit](../../../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/werkingssfeer/wmg/BWBR0020326/README.md). 
 
 ### Artikel  3  
 
 ####Uitvoering van de aanwijzing
 
-Ter uitvoering van deze aanwijzing stelt de zorgautoriteit een beleidsregel vast.  
+Ter uitvoering van deze aanwijzing stelt de zorgautoriteit een beleidsregel vast. 
 
 ### Artikel  4  
 
@@ -46,14 +46,14 @@ Ter uitvoering van deze aanwijzing stelt de zorgautoriteit een beleidsregel vast
 
 1.  Met ingang van 1 januari 2012 gelden voor de in artikel 2 aangeduide  zorg, vrije tarieven als bedoeld in [artikel 57, vierde lid, onder c, van de wet](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).   
 2.  De zorgautoriteit stelt met ingang van 1 januari 2012 op grond van [artikel 57, vijfde lid, van de wet](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) prestatiebeschrijvingen vast voor de in artikel 2 bedoelde zorg.   
-3.  De zorgautoriteit voorziet in de beleidsregel zoals bedoeld in artikel 3, in aanvulling op het tweede lid, in de mogelijkheid dat zij op gezamenlijk verzoek van een zorgaanbieder en zorgverzekeraar een andere  prestatiebeschrijving vaststelt dan die bedoeld in het tweede lid van dit artikel.   
+3.  De zorgautoriteit voorziet in de beleidsregel zoals bedoeld in artikel 3, in aanvulling op het tweede lid, in de mogelijkheid dat zij op gezamenlijk verzoek van een zorgaanbieder en zorgverzekeraar een andere  prestatiebeschrijving vaststelt dan die bedoeld in het tweede lid van dit artikel.  
 
 ### Artikel  5  
 
 ####Inwerkingtreding en publicatie
 
-Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.  
+Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst. 
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers   
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers     

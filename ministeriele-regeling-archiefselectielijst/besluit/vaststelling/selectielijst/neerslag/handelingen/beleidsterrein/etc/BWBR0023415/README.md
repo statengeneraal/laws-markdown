@@ -10,25 +10,25 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Minister van Sociale Zaken en Werkgelegenheid en de onder hem ressorterende actoren op het beleidsterrein Ouderenbeleid over de periode vanaf 1945 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Sociale Zaken en Werkgelegenheid en de onder hem ressorterende actoren op het beleidsterrein Ouderenbeleid over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 13 december 2007   
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
+Minister van Onderwijs, Cultuur en Wetenschap, namens deze:de 
 algemene rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
-Minister van Sociale Zaken en Werkgelegenheid, namens deze:
+Minister van Sociale Zaken en Werkgelegenheid, namens deze: 
 plaatsvervangend Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport, 
-P.H.A.M.Huijts  
+P.H.A.M. Huijts    
 
 ####Basisselectiedocument ouderenbeleid 1945–
 
@@ -38,7 +38,7 @@ de Minister van VWS de Minister van Financiën de Minister van OCW de Minister v
 
 ####Lijst van afkortingen
 
-art.: artikel BSD: Basis Selectie Document b.w.: buiten werking BZK: Minister(ie) van Binnenlandse Zaken en Koninkrijksrelaties CCB: Centrale Commissie voor de Bejaardenoorden CRM: Minister(ie) van Cultuur, Recreatie en Maatschappelijk Werk EZ: Minister(ie) van Economische Zaken GOO: Gestructureerd Overleg Ouderenbeleid ISB: Interdepartementale Stuurgroep Bejaardenbeleid ISO: Interdepartementale Stuurgroep Ouderenbeleid MaWe: Minister(ie) van Maatschappelijk Werk NESTOR: Stuurgroep Nederlands Stimuleringsprogramma Ouderenonderzoek OCW: Minister(ie) van Onderwijs, Cultuur en Wetenschap OGA: subsidieregeling Ouderenzorg, Gehandicaptenzorg en Algemeen maatschappelijke hulpverlening PIVOT: Project Invoering Verkorting Overbrengingstermijn RIO: Rapport Institutioneel Onderzoek SOOM: Stuurgroep Onderzoek op het terrein van de Ouder wordende Mens Stb.: Staatsblad Stcrt.: Staatscourant SZW: Minister(ie) van Sociale Zaken en Werkgelegenheid VRO: Voorlopige Raad voor het Ouderenbeleid VWS: Minister(ie) van Volksgezondheid, Welzijn en Sport WBO: Wet op de bejaardenoorden WVC: Minister(ie) van Welzijn, Volksgezondheid en Cultuur  
+art.: artikel BSD: Basis Selectie Document b.w.: buiten werking BZK: Minister(ie) van Binnenlandse Zaken en Koninkrijksrelaties CCB: Centrale Commissie voor de Bejaardenoorden CRM: Minister(ie) van Cultuur, Recreatie en Maatschappelijk Werk EZ: Minister(ie) van Economische Zaken GOO: Gestructureerd Overleg Ouderenbeleid ISB: Interdepartementale Stuurgroep Bejaardenbeleid ISO: Interdepartementale Stuurgroep Ouderenbeleid MaWe: Minister(ie) van Maatschappelijk Werk NESTOR: Stuurgroep Nederlands Stimuleringsprogramma Ouderenonderzoek OCW: Minister(ie) van Onderwijs, Cultuur en Wetenschap OGA: subsidieregeling Ouderenzorg, Gehandicaptenzorg en Algemeen maatschappelijke hulpverlening PIVOT: Project Invoering Verkorting Overbrengingstermijn RIO: Rapport Institutioneel Onderzoek SOOM: Stuurgroep Onderzoek op het terrein van de Ouder wordende Mens Stb.: Staatsblad Stcrt.: Staatscourant SZW: Minister(ie) van Sociale Zaken en Werkgelegenheid VRO: Voorlopige Raad voor het Ouderenbeleid VWS: Minister(ie) van Volksgezondheid, Welzijn en Sport WBO: Wet op de bejaardenoorden WVC: Minister(ie) van Welzijn, Volksgezondheid en Cultuur 
 
 ### 1  
 
@@ -56,13 +56,13 @@ Ingevolge [artikel 3 van de Archiefwet 1995](../../../../../../../../../wet/arch
 
 – de waarde van de archiefbescheiden als bestanddeel van het cultureel erfgoed;  
 
-– het belang van de in de bescheiden voorkomende gegevens voor overheidsorganen, recht- of bewijszoekenden en historisch onderzoek.   Voorts moeten ingevolge [art. 3 van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) (*Stb.* 1995, 671) bij het ontwerpen van een selectielijst ten minste betrokken zijn een deskundige op het gebied van de organisatie en taken van het desbetreffende overheidsorgaan, een deskundige ten aanzien van het beheer van de archiefbescheiden van dat orgaan en (een vertegenwoordiger van) de Algemeen Rijksarchivaris. Wat betreft de geldigheidsduur van de selectielijst wordt uitgegaan van de wettelijke periode van twintig jaar vanaf de vaststelling. Dit laat uiteraard onverlet dat de selectielijst (of een bepaald onderdeel daarvan) binnen deze termijn zal komen te vervallen, indien dit mocht worden bepaald bij de vaststelling (via de aangewezen archiefwettelijke weg) van een nieuwe dan wel herziene selectielijst.  
+– het belang van de in de bescheiden voorkomende gegevens voor overheidsorganen, recht- of bewijszoekenden en historisch onderzoek.   Voorts moeten ingevolge [art. 3 van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) (*Stb.* 1995, 671) bij het ontwerpen van een selectielijst ten minste betrokken zijn een deskundige op het gebied van de organisatie en taken van het desbetreffende overheidsorgaan, een deskundige ten aanzien van het beheer van de archiefbescheiden van dat orgaan en (een vertegenwoordiger van) de Algemeen Rijksarchivaris. Wat betreft de geldigheidsduur van de selectielijst wordt uitgegaan van de wettelijke periode van twintig jaar vanaf de vaststelling. Dit laat uiteraard onverlet dat de selectielijst (of een bepaald onderdeel daarvan) binnen deze termijn zal komen te vervallen, indien dit mocht worden bepaald bij de vaststelling (via de aangewezen archiefwettelijke weg) van een nieuwe dan wel herziene selectielijst. 
 
 ### 1.2  
 
 ####Doel en werking van het Basis Selectiedocument
 
-Een Basis Selectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van één (enkele) organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Een BSD kan bestaan uit één of meer selectielijsten. Een BSD wordt opgesteld op basis van institutioneel onderzoek. In een Rapport Institutioneel Onderzoek (RIO) worden de taken en bevoegdheden van alle actoren op een beleidsterrein beschreven. Het niveau waarop geselecteerd wordt is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen waarbij elke handeling is voorzien van een waardering en indien van toepassing een vernietigingstermijn. Het opgestelde ontwerp-BSD wordt voorgelegd aan de Raad van Cultuur en op verschillende plaatsen ter inzage gelegd. Na eventuele wijziging van het ontwerp-BSD kan worden overgegaan tot de vaststelling. Het BSD wordt vastgesteld in een gezamenlijk besluit van de Minister belast met het cultuurbeleid (tegenwoordig de Minister van OCW) en de betrokken zorgdrager(s).  
+Een Basis Selectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van één (enkele) organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Een BSD kan bestaan uit één of meer selectielijsten. Een BSD wordt opgesteld op basis van institutioneel onderzoek. In een Rapport Institutioneel Onderzoek (RIO) worden de taken en bevoegdheden van alle actoren op een beleidsterrein beschreven. Het niveau waarop geselecteerd wordt is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen waarbij elke handeling is voorzien van een waardering en indien van toepassing een vernietigingstermijn. Het opgestelde ontwerp-BSD wordt voorgelegd aan de Raad van Cultuur en op verschillende plaatsen ter inzage gelegd. Na eventuele wijziging van het ontwerp-BSD kan worden overgegaan tot de vaststelling. Het BSD wordt vastgesteld in een gezamenlijk besluit van de Minister belast met het cultuurbeleid (tegenwoordig de Minister van OCW) en de betrokken zorgdrager(s). 
 
 ### 1.3  
 
@@ -74,7 +74,7 @@ Een Basis Selectiedocument (BSD) is een bijzondere vorm van een selectielijst. I
 
 – Voor de Minister belast met het cultuurbeleid (vertegenwoordigd door de Algemeen Rijksarchivaris) vormt het BSD samen met het verslag van het driehoeksoverleg de verantwoording inzake het bewaarbeleid vanuit het cultureel-historisch belang ([Archiefbesluit 1995, art. 2, eerste lid, onder c](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md)).  
 
-– Voor de Centrale Archief Selectiedienst is het BSD het uitgangspunt voor de Institutionele Toegangen.    
+– Voor de Centrale Archief Selectiedienst is het BSD het uitgangspunt voor de Institutionele Toegangen.   
 
 ### 1.4  
 
@@ -88,13 +88,13 @@ Deze selectielijst is gebaseerd op het rapport institutioneel onderzoek (RIO) �
 
 – het niet opnemen van een (sub-)handeling uit het RIO, bijv. omdat de handeling naar nieuwe inzichten als een activiteit is te beschouwen;  
 
-– het opnemen van handelingen in het BSD die niet in het RIO zijn opgenomen (bijv. de algemene handelingen).   In de concordans bij dit BSD zijn de relaties terug te vinden. Voor dit beleidsterrein zijn momenteel nog geen selectie- of vernietigingslijsten vastgesteld.  
+– het opnemen van handelingen in het BSD die niet in het RIO zijn opgenomen (bijv. de algemene handelingen).   In de concordans bij dit BSD zijn de relaties terug te vinden. Voor dit beleidsterrein zijn momenteel nog geen selectie- of vernietigingslijsten vastgesteld. 
 
 ### 1.5  
 
 ####Doelstellingen van de overheid op het beleidsterrein Ouderenbeleid
 
-Op het beleidsterrein ‘ouderenbeleid’ kunnen de volgende hoofdlijnen worden beschreven. Tot de Tweede Wereldoorlog kan er niet of nauwelijks worden gesproken van een ouderenbeleid van de rijksoverheid. Na de Tweede Wereldoorlog verandert dit. Het aantal bejaarden neemt snel toe en daarmee komt de overheidsbemoeienis op gang. Door de jaren heen zijn ‘zelfstandigheid’ en ‘emancipatie’ van ouderen belangrijke items geweest in het overheidsbeleid met betrekking tot ouderen. In de jaren ’50 wordt dit vooral gestimuleerd via het verstrekken van subsidies voor bijv. sociaal onderzoek en aan belangenverenigingen van bejaarden. Als gevolg van de woningnood werd daarnaast tevens de bouw van bejaardentehuizen bevorderd. Vanaf 1954 worden voorbereidingen getroffen voor een wet om de misstanden in de particuliere tehuizen voor bejaarden tegen te gaan. Dit leidde in 1963 tot de ‘ Wet op de bejaardenoorden ’. In de loop der jaren is deze wet nog een aantal malen gewijzigd. Ook in de jaren ’60 bleven ‘zelfstandigheid’ en ‘emancipatie’ belangrijke thema’s. Dit kwam onder ander tot uiting in een rijksbijdrageregeling voor dienstencentra (1967). Deze dienstencentra kwamen in de plaats van het sociëteitswerk voor bejaarden. In de tweede helft van de jaren ’60 wil de rijksoverheid komen tot een meer gecoördineerd beleid voor bejaarden. Dit resulteert onder meer in de oprichting van de ‘Interdepartementale Stuurgroep Bejaardenbeleid’ (1968; later gewijzigd in ‘Interdepartementale Stuurgroep Ouderenbeleid’) en van een intradepartementale stuurgroep, de ‘Coördinatiegroep bejaardenbeleid Cultuur, Recreatie en Maatschappelijk Werk’ (1974). Voor advisering met betrekking tot beleidsvoorbereiding en beleidsvorming werd de ‘Centrale commissie voor de bejaardenoorden’ in het leven geroepen (1972). Bevordering van de zelfstandigheid van bejaarden bleef ook in deze periode een belangrijk item. Wel werd het beleid anders ingevuld. Het ‘zelfstandig’ wonen van bejaarden werd bevorderd, waarbij de betrokkenen de noodzakelijke zorg thuis ontvingen (middels het gecoördineerd bejaardenwerk). Aanleiding voor deze beleidsombuiging was onder andere een poging de overheidsuitgaven (met name die op basis van de [Algemene Bijstandswet](../../../../../../../../../wet/algemene/bijstandswet/BWBR0007333/README.md)) in toom te houden. Eind jaren ’70 en begin jaren ’80 wilde de rijksoverheid meer inzicht verkrijgen in de problemen van de ouder wordende mens. Dit leidde in 1977 tot de oprichting van de ‘Planninggroep voor het wetenschappelijk onderzoek op het gebied van de ouder wordende mens’ en in 1982, als vervolg op de Planninggroep, tot de instelling van de ‘Stuurgroep Onderzoek op het gebied van de Ouder wordende Mens’. Tegelijkertijd bleef de bevordering van het zolang mogelijk zelfstandig functioneren van ouderen en de vermindering van de collectieve uitgaven op het gebied van het ouderenbeleid een belangrijk punt. Met name in de jaren ’80 werd bezuinigd op het budget voor ouderenbeleid. Nieuw was in deze jaren het zgn. ‘flankerend beleid’. Hierbij werd de wijkfunctie van de bejaardenoorden verstevigd. Het ‘flankerend ouderenbeleid’ kwam in 1985 onder de ‘ Wet op de bejaardenoorden ’ te vallen; in 1987 werd dit grotendeels onder de ‘Welzijnswet’ gebracht. In de tweede helft van de jaren ’80 werd een adviesraad ingesteld met betrekking tot het ouderenbeleid, de Voorlopige Raad voor het ouderenbeleid (1988; later gewijzigd in: Raad voor het ouderenbeleid). In dezelfde periode zette de rijksoverheid in op een meer gelijkwaardige positie van de ouderen in de samenleving. Oftewel: participatie en medezeggenschap van ouderen in de samenleving was het streven. En voor de zorgbehoevende ouderen hield de overheid intussen vast aan zijn verantwoordelijkheid voor de zorgverlening aan ouderen.  
+Op het beleidsterrein ‘ouderenbeleid’ kunnen de volgende hoofdlijnen worden beschreven. Tot de Tweede Wereldoorlog kan er niet of nauwelijks worden gesproken van een ouderenbeleid van de rijksoverheid. Na de Tweede Wereldoorlog verandert dit. Het aantal bejaarden neemt snel toe en daarmee komt de overheidsbemoeienis op gang. Door de jaren heen zijn ‘zelfstandigheid’ en ‘emancipatie’ van ouderen belangrijke items geweest in het overheidsbeleid met betrekking tot ouderen. In de jaren ’50 wordt dit vooral gestimuleerd via het verstrekken van subsidies voor bijv. sociaal onderzoek en aan belangenverenigingen van bejaarden. Als gevolg van de woningnood werd daarnaast tevens de bouw van bejaardentehuizen bevorderd. Vanaf 1954 worden voorbereidingen getroffen voor een wet om de misstanden in de particuliere tehuizen voor bejaarden tegen te gaan. Dit leidde in 1963 tot de ‘Wet op de bejaardenoorden’. In de loop der jaren is deze wet nog een aantal malen gewijzigd. Ook in de jaren ’60 bleven ‘zelfstandigheid’ en ‘emancipatie’ belangrijke thema’s. Dit kwam onder ander tot uiting in een rijksbijdrageregeling voor dienstencentra (1967). Deze dienstencentra kwamen in de plaats van het sociëteitswerk voor bejaarden. In de tweede helft van de jaren ’60 wil de rijksoverheid komen tot een meer gecoördineerd beleid voor bejaarden. Dit resulteert onder meer in de oprichting van de ‘Interdepartementale Stuurgroep Bejaardenbeleid’ (1968; later gewijzigd in ‘Interdepartementale Stuurgroep Ouderenbeleid’) en van een intradepartementale stuurgroep, de ‘Coördinatiegroep bejaardenbeleid Cultuur, Recreatie en Maatschappelijk Werk’ (1974). Voor advisering met betrekking tot beleidsvoorbereiding en beleidsvorming werd de ‘Centrale commissie voor de bejaardenoorden’ in het leven geroepen (1972). Bevordering van de zelfstandigheid van bejaarden bleef ook in deze periode een belangrijk item. Wel werd het beleid anders ingevuld. Het ‘zelfstandig’ wonen van bejaarden werd bevorderd, waarbij de betrokkenen de noodzakelijke zorg thuis ontvingen (middels het gecoördineerd bejaardenwerk). Aanleiding voor deze beleidsombuiging was onder andere een poging de overheidsuitgaven (met name die op basis van de [Algemene Bijstandswet](../../../../../../../../../wet/algemene/bijstandswet/BWBR0007333/README.md)) in toom te houden. Eind jaren ’70 en begin jaren ’80 wilde de rijksoverheid meer inzicht verkrijgen in de problemen van de ouder wordende mens. Dit leidde in 1977 tot de oprichting van de ‘Planninggroep voor het wetenschappelijk onderzoek op het gebied van de ouder wordende mens’ en in 1982, als vervolg op de Planninggroep, tot de instelling van de ‘Stuurgroep Onderzoek op het gebied van de Ouder wordende Mens’. Tegelijkertijd bleef de bevordering van het zolang mogelijk zelfstandig functioneren van ouderen en de vermindering van de collectieve uitgaven op het gebied van het ouderenbeleid een belangrijk punt. Met name in de jaren ’80 werd bezuinigd op het budget voor ouderenbeleid. Nieuw was in deze jaren het zgn. ‘flankerend beleid’. Hierbij werd de wijkfunctie van de bejaardenoorden verstevigd. Het ‘flankerend ouderenbeleid’ kwam in 1985 onder de ‘Wet op de bejaardenoorden’ te vallen; in 1987 werd dit grotendeels onder de ‘Welzijnswet’ gebracht. In de tweede helft van de jaren ’80 werd een adviesraad ingesteld met betrekking tot het ouderenbeleid, de Voorlopige Raad voor het ouderenbeleid (1988; later gewijzigd in: Raad voor het ouderenbeleid). In dezelfde periode zette de rijksoverheid in op een meer gelijkwaardige positie van de ouderen in de samenleving. Oftewel: participatie en medezeggenschap van ouderen in de samenleving was het streven. En voor de zorgbehoevende ouderen hield de overheid intussen vast aan zijn verantwoordelijkheid voor de zorgverlening aan ouderen. 
 
 ### 1.6  
 
@@ -142,7 +142,7 @@ Actoren op dit beleidsterrein zijn:
 
 – de Minister van Verkeer en Waterstaat;  
 
-– de Minister van BZK (Binnenlandse Zaken).    
+– de Minister van BZK (Binnenlandse Zaken).   
 
 ### 2  
 
@@ -157,7 +157,7 @@ De doelstelling van het Nationaal Archief bij de selectie van overheidsarchieven
 Uitgaande van de algemene selectiedoelstelling heeft PIVOT in 1998 een (gewijzigde) lijst van algemene selectiecriteria geformuleerd. Met behulp van die algemene criteria wordt in een BSD een waardering toegekend aan de handelingen die door middel van het institutioneel onderzoek in kaart zijn gebracht. De algemene selectiecriteria van PIVOT zijn positief geformuleerd; het zijn bewaarcriteria. Is een handeling op grond van een criterium gewaardeerd met B (‘blijvend te bewaren’), dan betekent dit dat de administratieve neerslag van die handeling te zijner tijd geheel dient te worden overgebracht naar het Nationaal Archief. De neerslag van een handeling die niet aan één van de selectiecriteria voldoet, wordt op termijn vernietigd. De waardering van de desbetreffende handeling luidt dan V (‘vernietigen’), onder vermelding van de periode waarna de vernietiging dient plaats te vinden. De neerslag die uit dergelijke handelingen voortvloeit, is dus niet noodzakelijk geacht voor een reconstructie van het overheidshandelen op hoofdlijnen. 
 ###Algemeen selectiecriterium
 
-*1. Handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen*  *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten.  *2. Handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen*  *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet persé consequenties getrokken zoals bij terugkoppeling van beleid.  *3. Handelingen die betrekking hebben verantwoordingvan beleid op hoofdlijnen aan andere actoren*  *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie.  *4. Handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen*  *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan.  *5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt*  *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken.  *6. Handelingen die betrekking hebben opbeleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten*  *Toelichting:* Bijvoorbeeld in het geval de Ministeriele verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Overigens kan, ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) neerslag van bepaalde, als te vernietigen gewaardeerde handelingen, betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. De vernietigingstermijnen van de neerslag van de met ‘V’ (= vernietigen) gewaardeerde handelingen zijn vastgesteld in overleg met deskundigen van dit Ministerie op dit terrein.  
+*1. Handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen*   *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten.  *2. Handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen*   *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet persé consequenties getrokken zoals bij terugkoppeling van beleid.  *3. Handelingen die betrekking hebben verantwoordingvan beleid op hoofdlijnen aan andere actoren*   *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie.  *4. Handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen*   *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan.  *5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt*   *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken.  *6. Handelingen die betrekking hebben opbeleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten*   *Toelichting:* Bijvoorbeeld in het geval de Ministeriele verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Overigens kan, ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) neerslag van bepaalde, als te vernietigen gewaardeerde handelingen, betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. De vernietigingstermijnen van de neerslag van de met ‘V’ (= vernietigen) gewaardeerde handelingen zijn vastgesteld in overleg met deskundigen van dit Ministerie op dit terrein. 
 
 ### 3  
 
@@ -171,13 +171,13 @@ De handelingen worden beschreven in handelingenblokken. Daarin worden de volgend
 
 – de vindplaats, dwz. de vermelding van Staatsblad of Staatscourant  
 
-– wijzigingen in de grondslag en het vervallen hiervan.   Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de bron worden genoemd waarin de betreffende handeling staat vermeld. Product: Hier staat het product vermeld waarin de handeling resulteert of zou moeten resulteren. Opsommingen geven een indicatie van de producten en zijn niet altijd uitputtend. Vaak wordt volstaan met een algemeen omschreven eindproduct. Opmerking: Deze aanvullende informatie wordt slechts vermeld wanneer de strekking van de handeling toelichting behoeft. Waardering: Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering.  
+– wijzigingen in de grondslag en het vervallen hiervan.   Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de bron worden genoemd waarin de betreffende handeling staat vermeld. Product: Hier staat het product vermeld waarin de handeling resulteert of zou moeten resulteren. Opsommingen geven een indicatie van de producten en zijn niet altijd uitputtend. Vaak wordt volstaan met een algemeen omschreven eindproduct. Opmerking: Deze aanvullende informatie wordt slechts vermeld wanneer de strekking van de handeling toelichting behoeft. Waardering: Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering. 
 
 ### 4  
 
 ####Verslag van de vaststellingsprocedure
 
-In april 2006 is het ontwerp-BSD door de Minister van Volksgezondheid, Welzijn en Sport, de Minister van Binnenlandse Zaken en Koninkrijksrelaties, de Minister van Economische Zaken, de Minister van Financiën, de Minister van Onderwijs, Cultuur en Wetenschap, de Minister van Sociale Zaken en Werkgelegenheid en de Minister van Verkeer en Waterstaat aan de Minister van Onderwijs, Cultuur en Wetenschap aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 3 september 2007 lag de selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Nationaal Archief. Tevens is de selectielijst beschikbaar gesteld via de website van het Nationaal Archief en de website van het Ministerie van Onderwijs, Cultuur en Wetenschap, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 25 oktober 2007 bracht de RvC advies uit (aca-2007.04045/3), hetwelk geen aanleiding heeft gegeven tot wijzigingen in de ontwerp-selectielijst. Daarop werd het BSD op 13 december 2007 door de algemene rijksarchivaris, namens de Minister van Onderwijs, Cultuur en Wetenschap en de plaatsvervangend Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport, namens de Minister van Volksgezondheid, Welzijn en Sport, voor de Minister van Volksgezondheid, Welzijn en Sport ([C/S&A/07/2503](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023420/README.md)), de Minister van Verkeer en Waterstaat ([C/S&A/07/2502](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023421/README.md)), de Minister van Financiën ([C/S&A/07/2504](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023419/README.md)), de Minister van Onderwijs, Cultuur en Wetenschap ([C/S&A/07/2505](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023418/README.md)), de Minister van Binnenlandse Zaken en Koninkrijksrelaties ([C/S&A/07/2754](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023417/README.md)), de Minister van Economische Zaken ([C/S&A/07/2755](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023416/README.md)) en de Minister van Sociale Zaken en Werkgelegenheid (C/S&A/07/2756) vastgesteld.  
+In april 2006 is het ontwerp-BSD door de Minister van Volksgezondheid, Welzijn en Sport, de Minister van Binnenlandse Zaken en Koninkrijksrelaties, de Minister van Economische Zaken, de Minister van Financiën, de Minister van Onderwijs, Cultuur en Wetenschap, de Minister van Sociale Zaken en Werkgelegenheid en de Minister van Verkeer en Waterstaat aan de Minister van Onderwijs, Cultuur en Wetenschap aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 3 september 2007 lag de selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Nationaal Archief. Tevens is de selectielijst beschikbaar gesteld via de website van het Nationaal Archief en de website van het Ministerie van Onderwijs, Cultuur en Wetenschap, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 25 oktober 2007 bracht de RvC advies uit (aca-2007.04045/3), hetwelk geen aanleiding heeft gegeven tot wijzigingen in de ontwerp-selectielijst. Daarop werd het BSD op 13 december 2007 door de algemene rijksarchivaris, namens de Minister van Onderwijs, Cultuur en Wetenschap en de plaatsvervangend Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport, namens de Minister van Volksgezondheid, Welzijn en Sport, voor de Minister van Volksgezondheid, Welzijn en Sport ([C/S&A/07/2503](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023420/README.md)), de Minister van Verkeer en Waterstaat ([C/S&A/07/2502](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023421/README.md)), de Minister van Financiën ([C/S&A/07/2504](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023419/README.md)), de Minister van Onderwijs, Cultuur en Wetenschap ([C/S&A/07/2505](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023418/README.md)), de Minister van Binnenlandse Zaken en Koninkrijksrelaties ([C/S&A/07/2754](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023417/README.md)), de Minister van Economische Zaken ([C/S&A/07/2755](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023416/README.md)) en de Minister van Sociale Zaken en Werkgelegenheid (C/S&A/07/2756) vastgesteld. 
 
 ### 5  
 
@@ -301,7 +301,7 @@ De Commissie Modernisering Ouderenzorg is in 1993 ingesteld door de Minister van
 
 a. een advies te geven over modernisering van het stelsel van ouderenzorg als onderdeel van het zorgsysteem; daarbij dient de demografische ontwikkeling tot het jaar 2015 als uitgangspunt genomen te worden;  
 
-b. een advies te geven over de concrete uitwerkingsmodaliteiten van de ordening van wonen en zorg, waarbij de beleidsinhoudelijke en financiële verantwoordelijkheid en aansprakelijkheid corresponderen, op basis van de brief van het kabinet d.d. 24 mei 1993 en het debat over deze brief.   In 1994 is het rapport ‘Ouderenzorg met toekomst’ van de commissie verschenen.  
+b. een advies te geven over de concrete uitwerkingsmodaliteiten van de ordening van wonen en zorg, waarbij de beleidsinhoudelijke en financiële verantwoordelijkheid en aansprakelijkheid corresponderen, op basis van de brief van het kabinet d.d. 24 mei 1993 en het debat over deze brief.   In 1994 is het rapport ‘Ouderenzorg met toekomst’ van de commissie verschenen. 
 
 ####Actoren die vallen onder verantwoordelijkheid van de secundaire zorgdrager(s):
 
@@ -325,14 +325,14 @@ De Minister van Economische Zaken is vooral betrokken bij de totstandkoming van 
 De Minister van Verkeer en Waterstaat is betrokken bij verschillende stuurgroepen op het beleidsterrein. 
 ###de Minister van Binnenlandse Zaken
 
-De Minister van Binnenlandse Zaken is betrokken bij verschillende stuurgroepen op het beleidsterrein.  
+De Minister van Binnenlandse Zaken is betrokken bij verschillende stuurgroepen op het beleidsterrein. 
 
 ####Overige actoren (geen handelingen opgenomen in dit BSD):
 
-###** provincies* (Gedeputeerde Staten / Provinciale Staten)
+### ** provincies* (Gedeputeerde Staten / Provinciale Staten)
 
 De provincies hebben lange tijd een toezichthoudende rol (o.a. op de prijsvorming in bejaardenoorden). Ook diende elke provincie een zgn. provinciale Commissie voor de bejaardenoorden in te stellen. 
-###** gemeenten* (Burgemeester en Wethouders)
+### ** gemeenten* (Burgemeester en Wethouders)
 
 De gemeenten konden lange tijd bepalen welke bejaardenoorden als een bejaardenoord in de zin der wet werden beschouwd. 
 ###* houders van bejaardenoorden
@@ -343,10 +343,10 @@ De houder van een bejaardenoord diende zijn bejaardenoord (tot 1972) aan te meld
 Zoals bijvoorbeeld: de Vereniging van Nederlandse Bejaardenoorden (VNB) en het Centraal Orgaan Samenwerkende Bonden van Ouderen in Nederland (COSBO). 
 ###* onderzoeksinstellingen
 
-Zoals bijvoorbeeld: het Nederlands Instituut voor Zorg en Welzijn (NIZW; hierin is ook onder andere opgenomen het Nederlands Instituut voor Gerontologie, NIG) en het Sociaal en Cultureel Planbureau (SCP; selectielijst gepubliceerd in *Stcrt.* 1999, 22). 
+Zoals bijvoorbeeld: het Nederlands Instituut voor Zorg en Welzijn (NIZW; hierin is ook onder andere opgenomen het Nederlands Instituut voor Gerontologie, NIG) en het Sociaal en Cultureel Planbureau (SCP; selectielijst gepubliceerd in *Stcrt.* 1999, 22).  
 ###* adviesorganen
 
-Zoals bijvoorbeeld: de Raad voor Maatschappelijke Ontwikkeling (RMO; selectielijst in voorbereiding) en de Gezondheidsraad (selectielijst gepubliceerd in *Stcrt.* 1998, 61). Van actoren met een * zijn geen handelingen opgenomen in dit BSD.  
+Zoals bijvoorbeeld: de Raad voor Maatschappelijke Ontwikkeling (RMO; selectielijst in voorbereiding) en de Gezondheidsraad (selectielijst gepubliceerd in *Stcrt.* 1998, 61). Van actoren met een * zijn geen handelingen opgenomen in dit BSD. 
 
 ####Selectielijst voor de zorgdrager Minister van VWS
 
@@ -426,7 +426,7 @@ Handeling: Het toekennen van vergoedingen aan leden, secretarissen en deskundige
 Handeling: Het vaststellen, wijzigen en intrekken van nadere voorschriften met betrekking tot de samenstelling en werkwijze van organen, diensten, commissies etc., ingesteld bij of krachtens wet, bij koninklijk besluit of bij Ministerieel besluit, betreffende ‘het ouderenbeleid’. Periode: 1945– Grondslag: o.a.: – Besluit Voorlopige raad voor het ouderenbeleid, art. 12 Waardering: V, 10 jaar 
 ###(22.)
 
-Handeling: Het voorbereiden van, deelnemen aan en rapporteren over het overleg van onderraden, Ministeriële commissies, interdepartementale commissies, ambtelijke voorportalen en andere overlegorganen, waarvan het voorzitterschap en/of secretariaat niet berust bij het Ministerie onder wie Welzijn ressorteert. Periode: 1945– Product: o.a. (lidmaatschaps)archief Waardering: V, 10 jaar  
+Handeling: Het voorbereiden van, deelnemen aan en rapporteren over het overleg van onderraden, Ministeriële commissies, interdepartementale commissies, ambtelijke voorportalen en andere overlegorganen, waarvan het voorzitterschap en/of secretariaat niet berust bij het Ministerie onder wie Welzijn ressorteert. Periode: 1945– Product: o.a. (lidmaatschaps)archief Waardering: V, 10 jaar 
 
 ### 6.1.2  
 
@@ -603,7 +603,7 @@ Handeling: Het overeenstemmen met de directeur-generaal van het CBS inzake het v
 Handeling: Het toestemmen in de afgifte van een verklaring van geen bezwaar door Gedeputeerde Staten, totdat het provinciale plan voor de bejaardenoorden is vastgesteld. Periode: 1972–1984 Grondslag: WBO, art. 33, lid 1 Product: o.a. correspondentie Waardering: V, 10 jaar 
 ###(69.)
 
-Handeling: Het bij Gedeputeerde Staten opvragen van gegevens die nodig zijn voor een goede uitvoering van de WBO. Periode: 1984–1997 Grondslag: WBO, art. 33e Product: o.a. correspondentie Opmerking: * de Minister heeft (financiële) gegevens nodig voor: a. informatie en verantwoording aan het parlement; b. het ontwerpen van regeringsnota’s en wetgeving (mede) betreffende het ouderenbeleid; c. specifieke taken op rijksniveau bij de uitvoering van de WBO. Deze handeling is met name bedoeld voor c. * de gemeenten Amsterdam, Rotterdam, ’s-Gravenhage en Utrecht worden voor de toepassing van dit artikel gelijkgesteld met een provincie. Waardering: V, 10 jaar  
+Handeling: Het bij Gedeputeerde Staten opvragen van gegevens die nodig zijn voor een goede uitvoering van de WBO. Periode: 1984–1997 Grondslag: WBO, art. 33e Product: o.a. correspondentie Opmerking: * de Minister heeft (financiële) gegevens nodig voor: a. informatie en verantwoording aan het parlement; b. het ontwerpen van regeringsnota’s en wetgeving (mede) betreffende het ouderenbeleid; c. specifieke taken op rijksniveau bij de uitvoering van de WBO. Deze handeling is met name bedoeld voor c. * de gemeenten Amsterdam, Rotterdam, ’s-Gravenhage en Utrecht worden voor de toepassing van dit artikel gelijkgesteld met een provincie. Waardering: V, 10 jaar 
 
 ### 6.1.3  
 
@@ -611,10 +611,10 @@ Handeling: Het bij Gedeputeerde Staten opvragen van gegevens die nodig zijn voor
 
 ###(70.)
 
-Handeling: Het vaststellen, wijzigen en intrekken van Ministeriële regelingen met betrekking tot de uitvoering van de Tijdelijke rijksgroepsregeling bejaarden in bejaardenoorden (*Stb.* 1970, 14) en Besluit Landelijke Normering (*Stb.* 1974, 418). Periode: 1970–1974 Grondslag: o.a. Tijdelijke Rijksgroepsregeling bejaarden in bejaardenoorden, art. 3, lid 3 en art. 9 Product: Ministeriële regeling Opmerking: – tezamen met de Minister van Sociale Zaken en Volksgezondheid; – de bijdrage die de Minister onder wie Welzijn ressorteert levert aan de AMvB’s op grond waarvan deze regelingen tot stand zijn gekomen is verwoord in de algemene handeling 14. Waardering: B 5 
+Handeling: Het vaststellen, wijzigen en intrekken van Ministeriële regelingen met betrekking tot de uitvoering van de Tijdelijke rijksgroepsregeling bejaarden in bejaardenoorden (*Stb.* 1970, 14) en Besluit Landelijke Normering (*Stb.* 1974, 418).  Periode: 1970–1974 Grondslag: o.a. Tijdelijke Rijksgroepsregeling bejaarden in bejaardenoorden, art. 3, lid 3 en art. 9 Product: Ministeriële regeling Opmerking: – tezamen met de Minister van Sociale Zaken en Volksgezondheid; – de bijdrage die de Minister onder wie Welzijn ressorteert levert aan de AMvB’s op grond waarvan deze regelingen tot stand zijn gekomen is verwoord in de algemene handeling 14. Waardering: B 5 
 ###(71.)
 
-Handeling: Het wijzigen van bedragen, genoemd in de Tijdelijke rijksgroepsregeling bejaarden in bejaardenoorden. Periode: 1970–1974 Grondslag: Tijdelijke Rijksgroepsregeling bejaarden in bejaardenoorden, art. 4 Product: o.a. beschikking Waardering: V, 10 jaar na wijziging  
+Handeling: Het wijzigen van bedragen, genoemd in de Tijdelijke rijksgroepsregeling bejaarden in bejaardenoorden. Periode: 1970–1974 Grondslag: Tijdelijke Rijksgroepsregeling bejaarden in bejaardenoorden, art. 4 Product: o.a. beschikking Waardering: V, 10 jaar na wijziging 
 
 ### 6.1.4  
 
@@ -625,7 +625,7 @@ Handeling: Het wijzigen van bedragen, genoemd in de Tijdelijke rijksgroepsregeli
 Handeling: Het verlenen van medewerking aan de vaststelling, wijziging en intrekking van prijzenbeschikkingen door de Minister van Economische Zaken. Periode: 1964–1971 Grondslag: Prijzenwet, art. 2 Product: o.a.: – Prijzenbeschikking bejaardenoorden (Stcrt. 1964, 14, Stcrt. 1970, 22, Stcrt. 1971, 44); – Prijzenbeschikking goederen en diensten (Stcrt. 1969, 67 en Stcrt. 1969, 170) Waardering: V, 10 jaar na wijziging of intrekking 
 ###(73.)
 
-Handeling: Het vaststellen, wijzigen en intrekken van prijsregelen voor bejaardenoorden, in overeenstemming met de Minister van Economische Zaken. Periode: 1972–1983 Grondslag: Product: o.a. prijsregelen Waardering: B 5  
+Handeling: Het vaststellen, wijzigen en intrekken van prijsregelen voor bejaardenoorden, in overeenstemming met de Minister van Economische Zaken. Periode: 1972–1983 Grondslag: Product: o.a. prijsregelen Waardering: B 5 
 
 ### 6.1.5  
 
@@ -660,7 +660,7 @@ Handeling: Het vaststellen, wijzigen en intrekken van regels inzake het function
 Handeling: Het vaststellen en wijzigen van modellen voor de begroting, het activiteitenplan, de jaarrekening, de financiële verantwoording en het verslag van de werkzaamheden. Periode: 1987– Grondslag: Subsidieregeling ouderenzorg, gehandicapten-zorg en algemeen maatschappelijke hulpverlening, art. 19 Product: o.a. modellen Waardering: V, 10 jaar na wijziging of intrekking 
 ###(81.)
 
-Handeling: Het verlenen van een ontheffing aan de uitvoerder van een voorziening voor ouderenzorg van bepalingen in de subsidieregeling OGA. Periode: 1987– Grondslag: Subsidieregeling ouderenzorg, gehandicapten-zorg en algemeen maatschappelijke hulpverlening, art. 24 Product: o.a. ontheffingen Waardering: V, 10 jaar na intrekking  
+Handeling: Het verlenen van een ontheffing aan de uitvoerder van een voorziening voor ouderenzorg van bepalingen in de subsidieregeling OGA. Periode: 1987– Grondslag: Subsidieregeling ouderenzorg, gehandicapten-zorg en algemeen maatschappelijke hulpverlening, art. 24 Product: o.a. ontheffingen Waardering: V, 10 jaar na intrekking 
 
 ### 6.1.6  
 
@@ -668,7 +668,7 @@ Handeling: Het verlenen van een ontheffing aan de uitvoerder van een voorziening
 
 ###(82.)
 
-Handeling: Het verlenen van subsidies in verband met de maatschappelijke bemoeiingen met bejaarden. Periode: 1953– Grondslag: Begrotingswetten 1953–1990 Product: o.a. subsidies Opmerking: subsidies worden onder andere verleend aan de Nationale Federatie voor Bejaardenzorg, dienstencentra, bejaardensociëteiten, Pas 65, wetenschappelijk onderzoek etc. Waardering: V, 7 jaar na afrekening  
+Handeling: Het verlenen van subsidies in verband met de maatschappelijke bemoeiingen met bejaarden. Periode: 1953– Grondslag: Begrotingswetten 1953–1990 Product: o.a. subsidies Opmerking: subsidies worden onder andere verleend aan de Nationale Federatie voor Bejaardenzorg, dienstencentra, bejaardensociëteiten, Pas 65, wetenschappelijk onderzoek etc. Waardering: V, 7 jaar na afrekening 
 
 ### 6.2  
 
@@ -682,7 +682,7 @@ Handeling: Het opstellen van rapporten over de ontwikkeling van de werkzaamheden
 Handeling: Het evalueren van ervaringen en resultaten verkregen bij de begeleiding van de werkzaamheden van de dienstencentra voor bejaarden welke voor een rijksbijdrage in aanmerking komen. Periode: 1964– ca. 1969 Grondslag: Instellingsbeschikking, art. 2, lid c Product: Waardering: B 5 
 ###(85.)
 
-Handeling: Het instellen en opheffen van ad hoc sub-commissies. Periode: 1964– ca. 1969 Grondslag: Instellingsbeschikking, art. 2, lid e Product: Waardering: V, 10 jaar na opheffing  
+Handeling: Het instellen en opheffen van ad hoc sub-commissies. Periode: 1964– ca. 1969 Grondslag: Instellingsbeschikking, art. 2, lid e Product: Waardering: V, 10 jaar na opheffing 
 
 ### 6.3  
 
@@ -711,7 +711,7 @@ Handeling: Het adviseren van de betrokken Ministers over de taak en samenstellin
 Handeling: Het aanwijzen van een plaatsvervangend voorzitter. Periode: 1967– Grondslag: Instellingsbeschikking ISB, art. 3, lid 4; ISO (1993), art. 4, lid 4 Waardering: V, 10 jaar na einde aanwijzing 
 ###(93.)
 
-Handeling: Het instellen en opheffen van subgroepen. Periode: 1967– Grondslag: Instellingsbeschikking ISB, art. 4, lid 2; ISO, art. 5, lid 2; ISO (1993), art. 6, lid 2 Product: Waardering: V, 10 jaar na opheffing  
+Handeling: Het instellen en opheffen van subgroepen. Periode: 1967– Grondslag: Instellingsbeschikking ISB, art. 4, lid 2; ISO, art. 5, lid 2; ISO (1993), art. 6, lid 2 Product: Waardering: V, 10 jaar na opheffing 
 
 ### 6.4  
 
@@ -719,7 +719,7 @@ Handeling: Het instellen en opheffen van subgroepen. Periode: 1967– Grondslag:
 
 ###(94.)
 
-Handeling: Het (gevraagd en ongevraagd) adviseren van de Minister over aangelegenheden betreffende de bejaardenoorden. Periode: 1975–1996 Grondslag: Wet op de bejaardenoorden (*Stb.* 1972, 344) art. 16a lid 1 en 2 (bij wijzigingswet in 1984 vernummerd tot art. 16x, lid 1 en 2) Product: advies Opmerking: Tevens worden adviezen over ontwerpen van algemene maatregelen van bestuur en Ministeriële regelingen gegeven. Waardering: B 1 
+Handeling: Het (gevraagd en ongevraagd) adviseren van de Minister over aangelegenheden betreffende de bejaardenoorden. Periode: 1975–1996 Grondslag: Wet op de bejaardenoorden (*Stb.* 1972, 344) art. 16a lid 1 en 2 (bij wijzigingswet in 1984 vernummerd tot art. 16x, lid 1 en 2)  Product: advies Opmerking: Tevens worden adviezen over ontwerpen van algemene maatregelen van bestuur en Ministeriële regelingen gegeven. Waardering: B 1 
 ###(95.)
 
 Handeling: Het aanwijzen van een ondervoorzitter. Periode: 1975–1996 Grondslag: Besluit centrale commissie bejaardenoorden (*Stb.* 1975, 520), art. 5, lid 1 Waardering: V, 10 jaar na einde aanwijzing 
@@ -734,7 +734,7 @@ Handeling: Het aanwijzen van de voorzitter van een sub-commissie. Periode: 1975�
 Handeling: Het vaststellen, wijzigen en intrekken van nadere regels inzake de openbaarheid van vergaderingen. Periode: 1975–1996 Grondslag: Besluit centrale commissie bejaardenoorden (*Stb.* 1975, 520), art. 10, lid 4 Product: Waardering: V, 10 jaar na wijziging of intrekking 
 ###(99.)
 
-Handeling: Het jaarlijks opstellen van een verslag omtrent de werkzaamheden van de commissie. Periode: 1975–1996 Grondslag: Besluit centrale commissie bejaardenoorden (*Stb.* 1975, 520), art. 15 Product: jaarverslag Waardering: B 3: verslag V, 10 jaar: overige neerslag  
+Handeling: Het jaarlijks opstellen van een verslag omtrent de werkzaamheden van de commissie. Periode: 1975–1996 Grondslag: Besluit centrale commissie bejaardenoorden (*Stb.* 1975, 520), art. 15 Product: jaarverslag Waardering: B 3: verslag V, 10 jaar: overige neerslag 
 
 ### 6.5  
 
@@ -745,7 +745,7 @@ Handeling: Het jaarlijks opstellen van een verslag omtrent de werkzaamheden van 
 Handeling: Het (gevraagd en ongevraagd) rapporteren aan en adviseren van de Minister of de hoofden van departementale onderdelen over aangelegenheden op het terrein van het bejaardenbeleid. Periode: 1974–19.. Grondslag: Instellingsbeschikking, art. 2 Product: rapportage, advies Waardering: B 1 
 ###(101.)
 
-Handeling: Het instellen en opheffen van werkgroepen. Periode: 1974–19.. Grondslag: Instellingsbeschikking, art. 6 Product: Waardering: V, 10 jaar na opheffing  
+Handeling: Het instellen en opheffen van werkgroepen. Periode: 1974–19.. Grondslag: Instellingsbeschikking, art. 6 Product: Waardering: V, 10 jaar na opheffing 
 
 ### 6.6  
 
@@ -757,7 +757,7 @@ Handeling: Het instellen en opheffen van werkgroepen. Periode: 1974–19.. Grond
 Handeling: Het (laten) verrichten van onderzoek naar andere vormen van financiering van de verzorging in de bejaardenoorden. Periode: 1976–1977 Grondslag: Instellingsbeschikking, art. 2 Opmerking: Onderzoek uitgevoerd door een extern organisatie- en accountancy-bureau. Waardering: B 5: eindproduct V, 10 jaar: overige neerslag 
 ###(103.)
 
-Handeling: Het adviseren van de Minister met betrekking tot financieringsalternatieven voor de verzorging in de bejaardenoorden. Periode: 1976–1977 Grondslag: Instellingsbeschikking, art. 2 Product: ‘Rapport over Financieringsalternatieven voor de kosten van verzorging in bejaardenoorden’ Waardering: B 1  
+Handeling: Het adviseren van de Minister met betrekking tot financieringsalternatieven voor de verzorging in de bejaardenoorden. Periode: 1976–1977 Grondslag: Instellingsbeschikking, art. 2 Product: ‘Rapport over Financieringsalternatieven voor de kosten van verzorging in bejaardenoorden’ Waardering: B 1 
 
 ### 6.7  
 
@@ -777,7 +777,7 @@ Handeling: Het rapporteren aan de betrokken Ministers inzake het ontwerp van een
 Handeling: Het instellen en opheffen van werkgroepen. Periode: 1977–1982 Grondslag: Instellingsbeschikking, art. 6 Product: Waardering: V, 10 jaar na opheffing 
 ###(108.)
 
-Handeling: Het nader regelen van de werkwijze van de planninggroep. Periode: 1977–1982 Grondslag: Instellingsbeschikking, art. 8 Product: Waardering: B 5  
+Handeling: Het nader regelen van de werkwijze van de planninggroep. Periode: 1977–1982 Grondslag: Instellingsbeschikking, art. 8 Product: Waardering: B 5 
 
 ### 6.8  
 
@@ -797,7 +797,7 @@ Handeling: Het jaarlijks opstellen van een verslag omtrent de werkzaamheden van 
 Handeling: Het instellen en opheffen van subgroepen. Periode: 1982–1987 Grondslag: Instellingsbeschikking, art. 7 Product: Waardering: V, 10 jaar na opheffing 
 ###(113.)
 
-Handeling: Het nader regelen van de werkwijze van de stuurgroep. Periode: 1982–1987 Grondslag: Instellingsbeschikking, art. 9 Product: Waardering: B 5  
+Handeling: Het nader regelen van de werkwijze van de stuurgroep. Periode: 1982–1987 Grondslag: Instellingsbeschikking, art. 9 Product: Waardering: B 5 
 
 ### 6.9  
 
@@ -805,7 +805,7 @@ Handeling: Het nader regelen van de werkwijze van de stuurgroep. Periode: 1982�
 
 ###(114.)
 
-Handeling: Het adviseren van de Minister over de totstandkoming van een adviesraad voor het overheidsbeleid inzake de positie van ouderen in de samenleving. Periode: 1986–1987 Grondslag: Instellingsbeschikking, art. 2 Product: rapport ‘Naar een Raad voor het Ouderenbeleid’ Waardering: B 1  
+Handeling: Het adviseren van de Minister over de totstandkoming van een adviesraad voor het overheidsbeleid inzake de positie van ouderen in de samenleving. Periode: 1986–1987 Grondslag: Instellingsbeschikking, art. 2 Product: rapport ‘Naar een Raad voor het Ouderenbeleid’ Waardering: B 1 
 
 ### 6.10  
 
@@ -834,7 +834,7 @@ Handeling: Het instellen en opheffen van commissies. Periode: 1988–1996 Gronds
 Handeling: Het aanwijzen van een voorzitter van een commissie. Periode: 1988–1996 Grondslag: Besluit Voorlopige raad voor het bejaardenbeleid, art. 8, lid 3 Product: Waardering: V, 10 jaar na einde aanwijzing 
 ###(122.)
 
-Handeling: Het vaststellen, wijzigen en intrekken van nadere regels voor de werkwijze van de raad en van zijn commissies, ter goedkeuring van de Minister. Periode: 1988–1996 Grondslag: Besluit Voorlopige raad voor het bejaardenbeleid, art. 12 Product: Waardering: B 5  
+Handeling: Het vaststellen, wijzigen en intrekken van nadere regels voor de werkwijze van de raad en van zijn commissies, ter goedkeuring van de Minister. Periode: 1988–1996 Grondslag: Besluit Voorlopige raad voor het bejaardenbeleid, art. 12 Product: Waardering: B 5 
 
 ### 6.11  
 
@@ -857,7 +857,7 @@ Handeling: Het jaarlijks opstellen van een verslag omtrent de werkzaamheden van 
 Handeling: Het instellen en opheffen van programmacommissies. Periode: 1988– Grondslag: Instellingsbeschikking, art. 5 Product: Waardering: V, 10 jaar na opheffing 
 ###(128.)
 
-Handeling: Het nader regelen van de werkwijze van de stuurgroep. Periode: 1988– Grondslag: Instellingsbeschikking, art. 8 Product: Waardering: B 5  
+Handeling: Het nader regelen van de werkwijze van de stuurgroep. Periode: 1988– Grondslag: Instellingsbeschikking, art. 8 Product: Waardering: B 5 
 
 ### 6.12  
 
@@ -868,7 +868,7 @@ Handeling: Het nader regelen van de werkwijze van de stuurgroep. Periode: 1988�
 Handeling: Het voeren van overleg tussen Minister en landelijke organisaties op het terrein van ouderenvoorzieningen over een samenhangend ouderenbeleid. Periode: 1988– Grondslag: Regeling Gestructureerd Overleg Ouderenbeleid, art. 1 en art. 8, lid 2 Product: Opmerking: bijeenkomsten van het bestuurlijk GOO worden voorbereid in een zgn. ‘ambtelijk vooroverleg’. Waardering: B 1 
 ###(130.)
 
-Handeling: Het instellen en opheffen van werkgroepen. Periode: 1988– Grondslag: Regeling Gestructureerd Overleg Ouderenbeleid, art. 7 Product: Waardering: V, 10 jaar na opheffing  
+Handeling: Het instellen en opheffen van werkgroepen. Periode: 1988– Grondslag: Regeling Gestructureerd Overleg Ouderenbeleid, art. 7 Product: Waardering: V, 10 jaar na opheffing 
 
 ### 6.13  
 
@@ -882,7 +882,7 @@ Handeling: Het selecteren van kandidaat-leden voor de (in te stellen) Raad voor 
 Handeling: Het aanwijzen van een plaatsvervangend voorzitter. Periode: 1992–1996 Grondslag: Besluit Commissie van wijze vrouwen en mannen, art. 6, lid 1 Product: Waardering: V, 10 jaar na einde aanwijzing 
 ###(133.)
 
-Handeling: Het regelen van de werkwijze van de commissie. Periode: 1992–1996 Grondslag: Besluit Commissie van wijze vrouwen en mannen, art. 6, lid 2 Product: Waardering: B 5  
+Handeling: Het regelen van de werkwijze van de commissie. Periode: 1992–1996 Grondslag: Besluit Commissie van wijze vrouwen en mannen, art. 6, lid 2 Product: Waardering: B 5 
 
 ### 6.14  
 
@@ -893,7 +893,7 @@ Handeling: Het regelen van de werkwijze van de commissie. Periode: 1992–1996 G
 Handeling: Het geven van een advies aan de Minister onder wie Welzijn ressorteert over de modernisering van het stelsel van ouderenzorg als onderdeel van het zorgsysteem en over de concrete uitwerkingsmodaliteiten van de ordening van wonen en zorg. Periode: 1993–1994 Grondslag: Instellingsbeschikking, art. 2 en 6 Product: Waardering: B 1 
 ###(135.)
 
-Handeling: Het regelen van de werkzaamheden van de commissie. Periode: 1993–1994 Grondslag: Instellingsbeschikking, art. 4 Product: Waardering: B 5  
+Handeling: Het regelen van de werkzaamheden van de commissie. Periode: 1993–1994 Grondslag: Instellingsbeschikking, art. 4 Product: Waardering: B 5 
 
 ### 6.15  
 
@@ -907,7 +907,7 @@ Handeling: Het instellen en opheffen van commissies etc. betreffende het ouderen
 Handeling: Het benoemen, schorsen en ontslaan van de voorzitter, vice-voorzitter en de overige leden van commissies etc. betreffende het ouderenbeleid, in overeenstemming met de Minister onder wie Welzijn ressorteert. Periode: 1982–1987 Grondslag: Instellingsbeschikking SOOM, art. 6, lid 2 Product: Opmerking: Het Ministerie van Sociale Zaken en Volksgezondheid had twee vertegenwoordigers in de ISB. Waardering: V, 10 jaar na ontslag N.B. Indien er sprake is van rechtspositionele verhoudingen, dan moet gebruik worden gemaakt van de selectielijst voor personeelsdossiers van de rijksoverheid 
 ###(138.)
 
-Handeling: Het voordragen van een lid van de Interdepartementale Stuurgroep Bejaardenbeleid, te benoemen door de Minister van Cultuur, Recreatie en Maatschappelijk Werk. Periode: 1967–1987 Bron: Instellingsbeschikking ISB, art. 2, lid 2 Product: Waardering: V, 10 jaar na einde lidmaatschap  
+Handeling: Het voordragen van een lid van de Interdepartementale Stuurgroep Bejaardenbeleid, te benoemen door de Minister van Cultuur, Recreatie en Maatschappelijk Werk. Periode: 1967–1987 Bron: Instellingsbeschikking ISB, art. 2, lid 2 Product: Waardering: V, 10 jaar na einde lidmaatschap 
 
 ####Selectielijst voor de zorgdrager Minister van Financiën
 
@@ -923,7 +923,7 @@ Handeling: Het stellen van regels met betrekking tot de controle door de rijksbe
 Handeling: Het instellen en opheffen van commissies etc. betreffende het ouderenbeleid, in overeenstemming met de Minister onder wie Welzijn ressorteert. Periode: 1987– Bron: o.a. Instellingsbeschikking ISO, aanhef; ISO (1993), aanhef Product: instellingsbeschikking Waardering: B 4 
 ###(141.)
 
-Handeling: Het aanwijzen van een waarnemer in de Interdepartementale Stuurgroep Ouderenbeleid. Periode: 1987– Bron: Instellingsbeschikking ISO, art. 13; ISO (1993), art. 4, lid 2 Product: Waardering: V, 10 jaar na einde aanwijzing  
+Handeling: Het aanwijzen van een waarnemer in de Interdepartementale Stuurgroep Ouderenbeleid. Periode: 1987– Bron: Instellingsbeschikking ISO, art. 13; ISO (1993), art. 4, lid 2 Product: Waardering: V, 10 jaar na einde aanwijzing 
 
 ####Selectielijst voor de zorgdrager Minister van OCW
 
@@ -939,7 +939,7 @@ Handeling: Het instellen en opheffen van commissies etc. betreffende het ouderen
 Handeling: Het benoemen, schorsen en ontslaan van de voorzitter, vice-voorzitter en de overige leden van commissies etc. betreffende het ouderenbeleid, in overeenstemming met de Minister onder wie Welzijn ressorteert. Periode: 1977– Grondslag: Instellingsbeschikking Planninggroep, art. 4, lid 2; Instellingsbeschikking SOOM, art. 6, lid 2; Instellingsbeschikking NESTOR, art. 6, lid 2 Product: Opmerking: Heeft ook betrekking op het aanwijzen van waarnemers in deze commissies (Instellingsbeschikking Planninggroep, art. 5; Instellingsbeschikking NESTOR, art. 6, lid 3) Waardering: V, 10 jaar na ontslag N.B. Indien er sprake is van rechtspositionele verhoudingen, dan moet gebruik worden gemaakt van de selectielijst voor personeelsdossiers van de rijksoverheid 
 ###(144.)
 
-Handeling: Het aanwijzen van een lid in de Interdepartementale Stuurgroep Ouderenbeleid. Periode: 1987– Bron: Instellingsbeschikking ISO, art. 13; ISO (1993), art. 4, lid 2 Product: Waardering: V, 10 jaar na einde aanwijzing  
+Handeling: Het aanwijzen van een lid in de Interdepartementale Stuurgroep Ouderenbeleid. Periode: 1987– Bron: Instellingsbeschikking ISO, art. 13; ISO (1993), art. 4, lid 2 Product: Waardering: V, 10 jaar na einde aanwijzing 
 
 ####Selectielijst voor de zorgdrager Minister van SZW
 
@@ -952,7 +952,7 @@ Handeling: Het aanwijzen van een lid in de Interdepartementale Stuurgroep Oudere
 Handeling: Het verlenen van medewerking aan het wijzigen van bedragen welke van invloed zijn op de vaststelling van de eigen bijdrage voor bewoners van bejaardenoorden. Periode: 1984–1997 Bron: Bijdragebesluit bewoners van bejaardenoorden, art. 19 Opmerking: de Minister onder wie Welzijn ressorteert doet dit in overeenstemming met de Minister van Sociale Zaken en Werkgelegenheid en de Minister van Economische Zaken. Waardering: V, 10 na wijziging of intrekking 
 ###(150.)
 
-Handeling: Het vaststellen, wijzigen en intrekken van Ministeriële regelingen met betrekking tot de uitvoering van de Tijdelijke rijksgroepsregeling bejaarden in bejaardenoorden (*Stb.* 1970, 14) en Besluit Landelijke Normering (*Stb.* 1974, 418). Periode: 1970–1974 Grondslag: o.a. Tijdelijke Rijksgroepsregeling bejaarden in bejaardenoorden, art. 3, lid 3 en art. 9 Product: Ministeriële regeling Opmerking: tezamen met de Minister onder wie Welzijn ressorteert. Waardering: B 5 
+Handeling: Het vaststellen, wijzigen en intrekken van Ministeriële regelingen met betrekking tot de uitvoering van de Tijdelijke rijksgroepsregeling bejaarden in bejaardenoorden (*Stb.* 1970, 14) en Besluit Landelijke Normering (*Stb.* 1974, 418).  Periode: 1970–1974 Grondslag: o.a. Tijdelijke Rijksgroepsregeling bejaarden in bejaardenoorden, art. 3, lid 3 en art. 9 Product: Ministeriële regeling Opmerking: tezamen met de Minister onder wie Welzijn ressorteert. Waardering: B 5 
 ###(136.)
 
 Handeling: Het instellen en opheffen van commissies etc. betreffende het ouderenbeleid, in overeenstemming met de Minister onder wie Welzijn ressorteert. Periode: 1967– Bron: o.a. Instellingsbeschikking SOOM, aanhef; ISB, aanhef; ISO, aanhef; ISO (1993), aanhef Product: Waardering: B 4 (137.) Handeling: Het benoemen, schorsen en ontslaan van de voorzitter, vice-voorzitter en de overige leden van commissies etc. betreffende het ouderenbeleid, in overeenstemming met de Minister onder wie Welzijn ressorteert. Periode: 1982–1987 Grondslag: Instellingsbeschikking SOOM, art. 6, lid 2 Product: Waardering: V, 10 jaar na ontslag N.B. Indien er sprake is van rechtspositionele verhoudingen, dan moet gebruik worden gemaakt van de selectielijst voor personeelsdossiers van de rijksoverheid 
@@ -961,7 +961,7 @@ Handeling: Het instellen en opheffen van commissies etc. betreffende het ouderen
 Handeling: Het voordragen van een lid van de Interdepartementale Stuurgroep Bejaardenbeleid, te benoemen door de Minister van Cultuur, Recreatie en Maatschappelijk Werk. Periode: 1967–1987 Bron: Instellingsbeschikking ISB, art. 2, lid 2 Product: Opmerking: Het Ministerie van Sociale Zaken en Volksgezondheid had twee vertegenwoordigers in de ISB. Waardering: V, 10 jaar na einde lidmaatschap 
 ###(141.)
 
-Handeling: Het aanwijzen van een lid in de Interdepartementale Stuurgroep Ouderenbeleid. Periode: 1987– Bron: Instellingsbeschikking ISO, art. 13; ISO (1993), art. 4, lid 2 Product: Waardering: V, 10 jaar na einde aanwijzing  
+Handeling: Het aanwijzen van een lid in de Interdepartementale Stuurgroep Ouderenbeleid. Periode: 1987– Bron: Instellingsbeschikking ISO, art. 13; ISO (1993), art. 4, lid 2 Product: Waardering: V, 10 jaar na einde aanwijzing 
 
 ####Selectielijst voor de zorgdrager Minister van EZ
 
@@ -980,7 +980,7 @@ Handeling: Het verlenen van medewerking aan het vaststellen, wijzigen en intrekk
 Handeling: Het vaststellen, wijzigen en intrekken van prijzenbeschikkingen, in overeenstemming met de Minister onder wie Welzijn ressorteert. Periode: 1964–1971 Grondslag: Prijzenwet, art. 2 Product: o.a.: – Prijzenbeschikking bejaardenoorden (Stcrt. 1964, 14, Stcrt. 1970, 22, Stcrt. 1971, 44); – Prijzenbeschikking goederen en diensten (Stcrt. 1969, 67 en Stcrt. 1969, 170) Waardering: V, 10 jaar na wijziging of intrekking 
 ###(158.)
 
-Handeling: Het verlenen van medewerking aan het vaststellen, wijzigen en intrekken van prijsregelen voor bejaardenoorden, in overeenstemming met de Minister onder wie Welzijn ressorteert. Periode: 1972–1983 Grondslag: Product: o.a. prijsregelen Waardering: V, 10 jaar na wijziging of intrekking  
+Handeling: Het verlenen van medewerking aan het vaststellen, wijzigen en intrekken van prijsregelen voor bejaardenoorden, in overeenstemming met de Minister onder wie Welzijn ressorteert. Periode: 1972–1983 Grondslag: Product: o.a. prijsregelen Waardering: V, 10 jaar na wijziging of intrekking 
 
 ####Selectielijst voor de zorgdrager Minister van Verkeer en Waterstaat
 
@@ -993,7 +993,7 @@ Handeling: Het verlenen van medewerking aan het vaststellen, wijzigen en intrekk
 Handeling: Het instellen en opheffen van commissies etc. betreffende het ouderenbeleid, in overeenstemming met de Minister onder wie Welzijn ressorteert. Periode: 1993– Bron: o.a. Instellingsbeschikking ISO (1993), aanhef Product: instellingsbeschikking Waardering: B 4 
 ###(141.)
 
-Handeling: Het aanwijzen van een lid van de Interdepartementale Stuurgroep Ouderenbeleid. Periode: 1993– Bron: Instellingsbeschikking ISO (1993), art. 4, lid 2 Product: Waardering: V, 10 jaar na einde aanwijzing  
+Handeling: Het aanwijzen van een lid van de Interdepartementale Stuurgroep Ouderenbeleid. Periode: 1993– Bron: Instellingsbeschikking ISO (1993), art. 4, lid 2 Product: Waardering: V, 10 jaar na einde aanwijzing 
 
 ####Selectielijst voor de zorgdrager Minister van BZK
 
@@ -1006,7 +1006,7 @@ Handeling: Het aanwijzen van een lid van de Interdepartementale Stuurgroep Ouder
 Handeling: Het instellen en opheffen van commissies etc. betreffende het ouderenbeleid, in overeenstemming met de Minister onder wie Welzijn ressorteert. Periode: 1993– Bron: o.a. Instellingsbeschikking ISO (1993), aanhef Product: instellingsbeschikking Waardering: B 4 
 ###(141.)
 
-Handeling: Het aanwijzen van een lid van de Interdepartementale Stuurgroep Ouderenbeleid. Periode: 1993– Bron: Instellingsbeschikking ISO (1993), art. 4, lid 2 Product: Waardering: V, 10 jaar na einde aanwijzing  
+Handeling: Het aanwijzen van een lid van de Interdepartementale Stuurgroep Ouderenbeleid. Periode: 1993– Bron: Instellingsbeschikking ISO (1993), art. 4, lid 2 Product: Waardering: V, 10 jaar na einde aanwijzing 
 
 ####Concordans
 

@@ -109,15 +109,15 @@ Informatie die betrekking heeft op gemeentelijke politieke ambtsdragers, kunt u 
 Hoogachtend, 
 
 De 
-minister van Binnenlandse Zaken en Koninkrijksrelaties,namens deze:
-L.D.P.Lombaers,
-Directeur Arbeidszaken Publieke Sector.  
+minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze: 
+L.D.P.  Lombaers,  
+Directeur Arbeidszaken Publieke Sector.   
 
-### Bijlage  1  
+### Bijlage  1 
 
 ![248696](http://wetten.overheid.nl/Illustration/248696)
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####Overzicht hoogte ambtstoelage en onkostenvergoedingen
 

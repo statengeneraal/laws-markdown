@@ -19,7 +19,7 @@ In deze regeling wordt verstaan onder:
 
 *Minister:* Minister van Economische Zaken, Landbouw en Innovatie;  
 
-*radioactieve afvalstof:* radioactieve afvalstof als bedoeld in [artikel 1 van het Besluit stralingsbescherming](../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md).    
+*radioactieve afvalstof:* radioactieve afvalstof als bedoeld in [artikel 1 van het Besluit stralingsbescherming](../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md).   
 
 ### Paragraaf  2  
 
@@ -31,7 +31,7 @@ Een ontmantelingsplan van de houder van een vergunning voor het oprichten van ee
 
 a. een meting van de activiteit van de radionucliden op het terrein waarop de inrichting wordt gevestigd;  
 
-b. een beschrijving van de wijze waarop bij het ontwerp en de bouw van de inrichting wordt voorkomen dat de toekomstige buitengebruikstelling en ontmanteling van die inrichting wordt bemoeilijkt.    
+b. een beschrijving van de wijze waarop bij het ontwerp en de bouw van de inrichting wordt voorkomen dat de toekomstige buitengebruikstelling en ontmanteling van die inrichting wordt bemoeilijkt.   
 
 ### Artikel  3  
 
@@ -52,7 +52,7 @@ f. een globale beschrijving van de maatregelen die worden getroffen tijdens de b
 1°. schade te voorkomen dan wel te beperken;  
 
 2°. de veiligheid van de omgeving van de inrichting te waarborgen.       
-2.  De houder van een vergunning voor het in werking brengen of in werking houden van een inrichting zorgt er, ten genoegen van de Minister, voor dat de mate van detaillering van de gegevens, bedoeld in het eerste lid, toeneemt naarmate de leeftijd van de inrichting toeneemt.   
+2.  De houder van een vergunning voor het in werking brengen of in werking houden van een inrichting zorgt er, ten genoegen van de Minister, voor dat de mate van detaillering van de gegevens, bedoeld in het eerste lid, toeneemt naarmate de leeftijd van de inrichting toeneemt.  
 
 ### Artikel  4  
 
@@ -72,7 +72,7 @@ f. een aanduiding van het aantal medewerkers dat is belast met de buitengebruiks
 
 g. een beschrijving van de procedures waaraan de medewerkers, belast met de buitengebruikstelling en de ontmanteling van de inrichting, moeten voldoen, waarbij in ieder geval procedures worden omschreven met betrekking tot het interne toezicht op de buitengebruikstelling en de ontmanteling en met betrekking tot gevallen waarin wordt afgeweken van de geplande werkzaamheden;  
 
-h. indien [artikel 3 van het Asbestverwijderingsbesluit 2005](../../../../../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md) van toepassing is: een asbestinventarisatierapport als bedoeld in [artikel 1, eerste lid, onder b, van dat besluit](../../../../../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md).    
+h. indien [artikel 3 van het Asbestverwijderingsbesluit 2005](../../../../../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md) van toepassing is: een asbestinventarisatierapport als bedoeld in [artikel 1, eerste lid, onder b, van dat besluit](../../../../../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md).   
 
 ### Paragraaf  3  
 
@@ -81,15 +81,15 @@ h. indien [artikel 3 van het Asbestverwijderingsbesluit 2005](../../../../../../
 ### Artikel  5  
 
 1.  De houder van een vergunning voor het in werking brengen of het in werking houden van een inrichting treft voorzieningen om radiologische kennis en informatie over de inrichting die relevant is voor de buitengebruikstelling en de ontmanteling te behouden. Deze voorzieningen omvatten in ieder geval een boekhouding van verrichte handelingen met splijtstoffen en radioactieve stoffen.   
-2.  De houder van een vergunning voor het buiten gebruik stellen en het ontmantelen van een inrichting treft voorzieningen om radiologische kennis en informatie die nodig is om aan te tonen dat de ontmanteling is voltooid, te behouden totdat de vergunning voor het ontmantelen is ingetrokken.   
+2.  De houder van een vergunning voor het buiten gebruik stellen en het ontmantelen van een inrichting treft voorzieningen om radiologische kennis en informatie die nodig is om aan te tonen dat de ontmanteling is voltooid, te behouden totdat de vergunning voor het ontmantelen is ingetrokken.  
 
 ### Artikel  6  
 
-De houder van een vergunning voor het in werking brengen, het in werking houden, het buiten gebruik stellen of het ontmantelen van een inrichting gaat bij het opstellen en het actualiseren van het ontmantelingsplan uit van de laatste stand van de techniek.  
+De houder van een vergunning voor het in werking brengen, het in werking houden, het buiten gebruik stellen of het ontmantelen van een inrichting gaat bij het opstellen en het actualiseren van het ontmantelingsplan uit van de laatste stand van de techniek. 
 
 ### Artikel  7  
 
-De houder van een vergunning voor het buiten gebruik stellen en het ontmantelen van een inrichting waarin kernenergie kan of kon worden vrijgemaakt, voert de in die inrichting aanwezige splijtstoffen af zo snel als redelijkerwijs mogelijk is.  
+De houder van een vergunning voor het buiten gebruik stellen en het ontmantelen van een inrichting waarin kernenergie kan of kon worden vrijgemaakt, voert de in die inrichting aanwezige splijtstoffen af zo snel als redelijkerwijs mogelijk is. 
 
 ### Artikel  8  
 
@@ -97,11 +97,11 @@ De houder van een vergunning voor het buiten gebruik stellen en het ontmantelen 
 
 a. alle splijtstoffen zijn afgevoerd;  
 
-b. belangrijke systemen definitief zijn uitgeschakeld.    
+b. belangrijke systemen definitief zijn uitgeschakeld.   
 
 ### Artikel  9  
 
-De houder van een vergunning voor het buiten gebruik stellen en het ontmantelen van een inrichting treft organisatorische maatregelen om te waarborgen dat schade tijdens de buitengebruikstelling en de ontmanteling van de inrichting wordt voorkomen dan wel beperkt en dat wordt voldaan aan de eisen die aan de buitengebruikstelling en de ontmanteling worden gesteld.  
+De houder van een vergunning voor het buiten gebruik stellen en het ontmantelen van een inrichting treft organisatorische maatregelen om te waarborgen dat schade tijdens de buitengebruikstelling en de ontmanteling van de inrichting wordt voorkomen dan wel beperkt en dat wordt voldaan aan de eisen die aan de buitengebruikstelling en de ontmanteling worden gesteld. 
 
 ### Paragraaf  4  
 
@@ -118,7 +118,7 @@ b. een beschrijving van de wijze waarop de inrichting buiten gebruik is gesteld 
 
 c. een beschrijving van de wijze waarop de vergunninghouder zich heeft ontdaan van de splijtstoffen, de radioactieve afvalstoffen en de splijtstof of erts bevattende afvalstoffen die zijn ontstaan bij de buitengebruikstelling en de ontmanteling;  
 
-d. voor zover de beschrijving, bedoeld onder c, afwijkt van de inventarisatie, bedoeld in artikel 3, eerste lid, onder b: een onderbouwing van die afwijking.     
+d. voor zover de beschrijving, bedoeld onder c, afwijkt van de inventarisatie, bedoeld in artikel 3, eerste lid, onder b: een onderbouwing van die afwijking.    
 
 ### Paragraaf  5  
 
@@ -132,7 +132,7 @@ a. een beschrijving van de onzekerheden in de berekening van de kosten behorende
 
 b. gegevens waaruit blijkt hoe kredietwaardig de instelling is waar de borgtocht of bankgarantie wordt gesteld en een beschrijving van de wijze waarop deze kredietwaardigheid in de toekomst wordt geborgd;  
 
-c. een afschrift van de overeenkomst waarbij de borgtocht of bankgarantie is overeengekomen.    
+c. een afschrift van de overeenkomst waarbij de borgtocht of bankgarantie is overeengekomen.   
 
 ### Artikel  12  
 
@@ -152,7 +152,7 @@ f. het beleggingsmandaat voor het fonds;
 
 g. gegevens met betrekking tot het toezicht op het fonds;  
 
-h. een afschrift van de overeenkomsten die de aanvrager met het fonds heeft gesloten.    
+h. een afschrift van de overeenkomsten die de aanvrager met het fonds heeft gesloten.   
 
 ### Artikel  13  
 
@@ -162,12 +162,12 @@ a. de gegevens, bedoeld in de artikelen 11, onder a, en 12, onder c en d;
 
 b. gegevens waaruit blijkt hoe kredietwaardig de instelling is die de voorziening verleent;  
 
-c. een afschrift van de overeenkomsten die de aanvrager heeft gesloten in het kader van deze voorziening.    
+c. een afschrift van de overeenkomsten die de aanvrager heeft gesloten in het kader van deze voorziening.   
 
 ### Artikel  14  
 
 1.  In afwijking van de artikelen 11, onderdeel c, 12, onderdeel h, en 13, onderdeel c, kan de aanvraag om goedkeuring voor de wijze waarop financiële zekerheid wordt gesteld, indien deze voor 1 juli 2011 wordt ingediend, in plaats van een afschrift van een overeenkomst ook een ontwerp voor een overeenkomst als bedoeld in deze artikelen bevatten.   
-2.  Indien het besluit tot goedkeuring voor de wijze waarop financiële zekerheid wordt gesteld wordt verleend op basis van een ontwerp voor een overeenkomst als bedoeld in het eerste lid, vervalt deze goedkeuring per 1 januari 2012, tenzij de vergunninghouder voor 1 januari 2012 een afschrift van een gesloten overeenkomst overlegt die gelijkluidend is aan het eerder overlegde ontwerp dan wel naar het oordeel van de Minister en de Minister van Financiën in dezelfde mate financiële zekerheid biedt.   
+2.  Indien het besluit tot goedkeuring voor de wijze waarop financiële zekerheid wordt gesteld wordt verleend op basis van een ontwerp voor een overeenkomst als bedoeld in het eerste lid, vervalt deze goedkeuring per 1 januari 2012, tenzij de vergunninghouder voor 1 januari 2012 een afschrift van een gesloten overeenkomst overlegt die gelijkluidend is aan het eerder overlegde ontwerp dan wel naar het oordeel van de Minister en de Minister van Financiën in dezelfde mate financiële zekerheid biedt.  
 
 ### Paragraaf  6  
 
@@ -176,20 +176,20 @@ c. een afschrift van de overeenkomsten die de aanvrager heeft gesloten in het ka
 ### Artikel  15  
 
 1.  Deze regeling treedt, met uitzondering van paragraaf 5, in werking met ingang van 1 juli 2011.   
-2.  Paragraaf 5 treedt in werking met ingang van 1 april 2011.   
+2.  Paragraaf 5 treedt in werking met ingang van 1 april 2011.  
 
 ### Artikel  16  
 
-Deze regeling wordt aangehaald als: Regeling buitengebruikstelling en ontmanteling nucleaire inrichtingen.  
+Deze regeling wordt aangehaald als: Regeling buitengebruikstelling en ontmanteling nucleaire inrichtingen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 23 februari 2011   
 
 De 
-Minister van Economische Zaken, Landbouw en Innovatie,
-M.J.M.Verhagen 
+Minister van Economische Zaken, Landbouw en Innovatie, 
+M.J.M. Verhagen   
 
 De 
-Staatssecretaris van Sociale Zaken en Werkgelegenheid,
-P. deKom   
+Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
+P. de Kom     

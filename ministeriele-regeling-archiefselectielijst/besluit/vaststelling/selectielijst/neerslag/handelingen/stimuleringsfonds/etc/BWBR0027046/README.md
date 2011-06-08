@@ -10,21 +10,21 @@ Besluit:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van het Stimuleringsfonds voor de Pers, voorheen het Bedrijfsfonds voor de Pers op het beleidsterrein media, letteren en bibliotheken over de periode vanaf 1974’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van het Stimuleringsfonds voor de Pers, voorheen het Bedrijfsfonds voor de Pers op het beleidsterrein media, letteren en bibliotheken over de periode vanaf 1974’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. De minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat in de Staatscourant zal worden geplaatst.  
-De selectielijst behorend bij deze beschikking zal beschikbaar gesteld worden via www.nationaalarchief.nl/selectielijsten.   
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. De minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat in de Staatscourant zal worden geplaatst. 
+De selectielijst behorend bij deze beschikking zal beschikbaar gesteld worden via www.nationaalarchief.nl/selectielijsten. 
 
 Den Haag 
 6 januari 2010   
 
 De 
-minister van Onderwijs, Cultuur en Wetenschap, namens deze,
+minister van Onderwijs, Cultuur en Wetenschap, namens deze, 
 De algemene rijksarchivaris, 
-M.J.Berendse  
+M.J. Berendse    
 
-### Selectielijst  
+###Selectielijst 
 
-Gepubliceerd op www.nationaalarchief.nl/selectielijsten.  
+Gepubliceerd op www.nationaalarchief.nl/selectielijsten.

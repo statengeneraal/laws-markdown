@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 ### Artikel  1  
 
 1.  De minimale sterkte van de politie van een land wordt vastgesteld op een percentage van het volgens het door de Slot Ronde Tafel Conferentie bekrachtigde inrichtingsplan van het politiekorps van dat land beoogde aantal ambtenaren van politie, bedoeld in [artikel 3, onder a, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md).   
-2.  Tot de minimale sterkte van de politie van een land behoren niet de aspiranten.   
+2.  Tot de minimale sterkte van de politie van een land behoren niet de aspiranten.  
 
 ### Artikel  2  
 
@@ -28,11 +28,11 @@ a. in het eerste jaar 60 procent;
 
 b. in het tweede jaar 65 procent; en  
 
-c. in de daaropvolgende jaren 75 procent.    
+c. in de daaropvolgende jaren 75 procent.   
 
 ### Artikel  3  
 
-Dit besluit treedt in werking op het krachtens [artikel 58, eerste lid, van Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) vastgestelde tijdstip.  
+Dit besluit treedt in werking op het krachtens [artikel 58, eerste lid, van Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) vastgestelde tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad en in het Publicatieblad van de Nederlandse Antillen zal worden geplaatst.   
 
@@ -40,13 +40,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 23 september 2010  
 Beatrix  
 
-De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,  
 A. Th. B. Bijleveld-Schouten   
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin   
 
 de *eerste* oktober 2010 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    

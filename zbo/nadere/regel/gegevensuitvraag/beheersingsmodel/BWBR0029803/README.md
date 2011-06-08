@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Nadere regel Gegevensuitvraag beheersingsmodel
+##Nadere regel Gegevensuitvraag beheersingsmodel 
 
 Ingevolge [artikel 61, eerste lid van de Wet marktordening gezondheidszorg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg) is onder meer een ieder gehouden om desgevraagd aan de Nederlandse Zorgautoriteit (NZa) of een door haar aangewezen persoon kosteloos de gegevens en inlichtingen te verstrekken welke voor de uitvoering van de [Wmg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) van belang kunnen zijn. Ingevolge [artikel 68, eerste lid van de Wmg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), kan de NZa regels stellen die inhouden door wie, aan wie en op welke wijze deze gegevens en inlichtingen moeten worden verstrekt, alsmede dat een accountant de juistheid van de verstrekte gegevens en inlichtingen bevestigt. De NZa heeft op grond van deze artikelen de volgende nadere regel vastgesteld.   
 ### 1  
@@ -24,7 +24,7 @@ Deze regel is van toepassing op:
 
 ####Doel van de regel
 
-In verband met de beoogde invoering van een beheersingsmodel voor de honoraria van medisch specialisten heeft de minister van VWS de NZa opdracht gegeven om nader onderzoek uit te voeren ten behoeve van de vaststelling van honorariumbudgetten bij de instellingen voor medisch specialistische zorg die onder de reikwijdte van deze regel vallen. Deze regel concretiseert ten behoeve van dit onderzoek de uit de [Wmg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) voortvloeiende verplichting tot het verstrekken van gegevens en inlichtingen. <sup> 1  CZ-IPZ-2996974 d.d. 26 april 2010.  </sup> <sup> 2  CZ-IPZ-3011865 d.d. 9 juli 2010.  </sup>    
+In verband met de beoogde invoering van een beheersingsmodel voor de honoraria van medisch specialisten<sup> 1 CZ-IPZ-2996974 d.d. 26 april 2010. </sup>heeft de minister van VWS de NZa opdracht gegeven<sup> 2 CZ-IPZ-3011865 d.d. 9 juli 2010. </sup>om nader onderzoek uit te voeren ten behoeve van de vaststelling van honorariumbudgetten bij de instellingen voor medisch specialistische zorg die onder de reikwijdte van deze regel vallen. Deze regel concretiseert ten behoeve van dit onderzoek de uit de [Wmg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) voortvloeiende verplichting tot het verstrekken van gegevens en inlichtingen.    
 ### 3  
 
 ####Begripsbepalingen
@@ -54,7 +54,7 @@ Het op de website van de NZa gepubliceerde Controleprotocol ‘gegevensuitvraag 
 
 ####Het doen van een opgave
 
-a. De medisch specialist is gehouden de in bijlage 1 aangeduide en in bijlage 2 nader gedefinieerde gegevens onverwijld en kosteloos te verstrekken aan de instelling(en) waar hij of zij werkzaam is. <sup> 3  De bijlagen zijn gepubliceerd op de website van de NZa onder wet- en regelgeving.  </sup>  
+a. De medisch specialist is gehouden de in bijlage 1 aangeduide en in bijlage 2 nader gedefinieerde gegevens onverwijld en kosteloos te verstrekken aan de instelling(en) waar hij of zij werkzaam is.<sup> 3 De bijlagen zijn gepubliceerd op de website van de NZa onder wet- en regelgeving. </sup>   
 
 b. De instelling is gehouden om bij het onderzoeksbureau binnen de door de NZa vastgestelde termijn(en) en door middel van (het) door de NZa vastgestelde formulier(en) kosteloos een opgave in te dienen van de in bijlage I bij deze regel aangeduide en in bijlage 2 nader gedefinieerde gegevens.  
 
@@ -71,14 +71,14 @@ De Raad van Bestuur van de Nederlandse Zorgautoriteit,
 T.W. Langejan,  
 Voorzitter.   
 
-### Bijlage  1  
+###Bijlage 1 
 
 ####Overzicht te verstrekken gegevens
 
-Gepubliceerd op de website van de NZa.  
+Gepubliceerd op de website van de NZa.
 
-### Bijlage  2  
+###Bijlage 2 
 
 ####Definities
 
-Gepubliceerd op de website van de NZa.  
+Gepubliceerd op de website van de NZa.

@@ -11,133 +11,133 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet inkomstenbelasting 2001.   
+Wijzigt de Wet inkomstenbelasting 2001. 
 
 ### Artikel  II  
 
-Voor het kalenderjaar 2009 wordt in [artikel 9.4, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), zoals dat onderdeel luidde in 2009, in plaats van «€ 43» gelezen: € 50.  
+Voor het kalenderjaar 2009 wordt in [artikel 9.4, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), zoals dat onderdeel luidde in 2009, in plaats van «€ 43» gelezen: € 50. 
 
 ### Artikel  III  
 
-Wijzigt de Wet op de loonbelasting 1964.   
+Wijzigt de Wet op de loonbelasting 1964. 
 
 ### Artikel  IIIA  
 
-Wijzigt de Wet op de loonbelasting 1964.   
+Wijzigt de Wet op de loonbelasting 1964. 
 
 ### Artikel  IV  
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.   
+Wijzigt de Wet op de vennootschapsbelasting 1969. 
 
 ### Artikel  V  
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.   
+Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen. 
 
 ### Artikel  VI  
 
-Wijzigt de Successiewet 1956.   
+Wijzigt de Successiewet 1956. 
 
 ### Artikel  VII  
 
-Wijzigt de Natuurschoonwet 1928.   
+Wijzigt de Natuurschoonwet 1928. 
 
 ### Artikel  VIII  
 
-Wijzigt de Wet op de omzetbelasting 1968.   
+Wijzigt de Wet op de omzetbelasting 1968. 
 
 ### Artikel  IX  
 
-Wijzigt de Wet op de accijns.   
+Wijzigt de Wet op de accijns. 
 
 ### Artikel  X  
 
-Wijzigt de Wet op belastingen van rechtsverkeer.   
+Wijzigt de Wet op belastingen van rechtsverkeer. 
 
 ### Artikel  XA  
 
-Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.   
+Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992. 
 
 ### Artikel  XB  
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.   
+Wijzigt de Wet op de motorrijtuigenbelasting 1994. 
 
 ### Artikel  XC  
 
-Wijzigt de Wet belastingen op milieugrondslag.   
+Wijzigt de Wet belastingen op milieugrondslag. 
 
 ### Artikel  XI  
 
-Wijzigt de Algemene douanewet.   
+Wijzigt de Algemene douanewet. 
 
 ### Artikel  XII  
 
-Wijzigt de Algemene wet inzake rijksbelastingen.   
+Wijzigt de Algemene wet inzake rijksbelastingen. 
 
 ### Artikel  XIII  
 
-Wijzigt de Invorderingswet 1990.   
+Wijzigt de Invorderingswet 1990. 
 
 ### Artikel  XIIIA  
 
-Wijzigt de Algemene wet inkomensafhankelijke regelingen.   
+Wijzigt de Algemene wet inkomensafhankelijke regelingen. 
 
 ### Artikel  XIV  
 
-Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.   
+Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen. 
 
 ### Artikel  XV  
 
-Wijzigt de Wet financiering sociale verzekeringen.   
+Wijzigt de Wet financiering sociale verzekeringen. 
 
 ### Artikel  XVA  
 
-Wijzigt de Wet documentatie vennootschappen.   
+Wijzigt de Wet controle op rechtspersonen. 
 
 ### Artikel  XVB  
 
-Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.   
+Wijzigt de Invoeringswet Wet inkomstenbelasting 2001. 
 
 ### Artikel  XVI  
 
-Wijzigt de Wet werken aan winst.   
+Wijzigt de Wet werken aan winst. 
 
 ### Artikel  XVII  
 
-Wijzigt het Belastingplan 2008.   
+Wijzigt het Belastingplan 2008. 
 
 ### Artikel  XVIII  
 
-Wijzigt de Wijzigingswet Wet op de omzetbelasting 1968 (implementatie richtlijnen BTW-pakket).   
+Wijzigt de Wijzigingswet Wet op de omzetbelasting 1968 (implementatie richtlijnen BTW-pakket). 
 
 ### Artikel  XIX  
 
-Wijzigt de Wijzigingswet Successiewet 1956, enz. (vereenvoudiging bedrijfsopvolgingsregeling en herziening tariefstructuur, alsmede introductie van een regeling voor afgezonderd particulier vermogen).   
+Wijzigt de Wijzigingswet Successiewet 1956, enz. (vereenvoudiging bedrijfsopvolgingsregeling en herziening tariefstructuur, alsmede introductie van een regeling voor afgezonderd particulier vermogen). 
 
 ### Artikel  XX  
 
-Wijzigt het Belastingplan 2010.   
+Wijzigt het Belastingplan 2010. 
 
 ### Artikel  XXI  
 
-Wijzigt de Overige fiscale maatregelen 2010.   
+Wijzigt de Overige fiscale maatregelen 2010. 
 
 ### Artikel  XXII  
 
-Wijzigt de Fiscale onderhoudswet 2010.   
+Wijzigt de Fiscale onderhoudswet 2010. 
 
 ### Artikel  XXIII  
 
 1.  Indien de inwerkingtreding van deze wet ertoe leidt dat voor de heffing van de inkomstenbelasting een gehuwde belastingplichtige met betrekking tot een gedeelte van een vermogensbestanddeel ophoudt resultaat uit een werkzaamheid te genieten omdat voortaan zijn echtgenoot met betrekking tot dit gedeelte resultaat uit een werkzaamheid geniet, wordt dit ten aanzien van de belastingplichtige niet als staking van een werkzaamheid aangemerkt. Bij de echtgenoot wordt bedoeld gedeelte van het vermogensbestanddeel voor de eerste keer te boek gesteld op een evenredig deel van de laatste boekwaarde van het vermogensbestanddeel bij de belastingplichtige voor de inwerkingtreding van deze wet.   
 2.  Indien een vermogensbestanddeel dat behoort tot een algehele of beperkte gemeenschap van goederen vanaf enig tijdstip voor de inwerkingtreding van deze wet voor de heffing van de inkomstenbelasting geheel wordt gerekend tot een werkzaamheid van de belastingplichtige en voor dat tijdstip zowel hij als zijn echtgenoot een evenredig deel van dat vermogensbestanddeel hebben gerekend tot een werkzaamheid, wordt op dat tijdstip dat vermogensbestanddeel bij de belastingplichtige te boek gesteld op het gezamenlijke bedrag van de boekwaarden waarop de evenredige delen direct voorafgaande aan dat tijdstip te boek waren gesteld bij de belastingplichtige en zijn echtgenoot.   
-3.  Dit artikel is van overeenkomstige toepassing met betrekking tot fiscale reserves als bedoeld in [artikel 3.53 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) alsmede voorzieningen die in overeenstemming met [artikel 3.25 van die wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) zijn gevormd bij de bepaling van het resultaat uit de werkzaamheid. Degene naar wie de reserve of voorziening is overgegaan, wordt geacht in de plaats te zijn getreden van degene die de reserve of voorziening heeft gevormd.   
+3.  Dit artikel is van overeenkomstige toepassing met betrekking tot fiscale reserves als bedoeld in [artikel 3.53 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) alsmede voorzieningen die in overeenstemming met [artikel 3.25 van die wet](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) zijn gevormd bij de bepaling van het resultaat uit de werkzaamheid. Degene naar wie de reserve of voorziening is overgegaan, wordt geacht in de plaats te zijn getreden van degene die de reserve of voorziening heeft gevormd.  
 
 ### Artikel  XXIV  
 
-[Artikel 3.119a, vijfde lid, onderdeel c, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), zoals dit luidde op 31 december 2009, blijft van toepassing op eigenwoningreserves als bedoeld in artikel 3.119a, vierde lid, van de Wet inkomstenbelasting 2001 die als gevolg van de toepassing van artikel 3.119a, tweede lid, van die wet, zoals dit luidde op 31 december 2009, of als gevolg van de toepassing van [artikel XXVIB van de Fiscale vereenvoudigingswet 2010](../../../../../wet/fiscale/vereenvoudigingswet/2010/BWBR0026981/README.md), zijn blijven bestaan.  
+[Artikel 3.119a, vijfde lid, onderdeel c, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), zoals dit luidde op 31 december 2009, blijft van toepassing op eigenwoningreserves als bedoeld in artikel 3.119a, vierde lid, van de Wet inkomstenbelasting 2001 die als gevolg van de toepassing van artikel 3.119a, tweede lid, van die wet, zoals dit luidde op 31 december 2009, of als gevolg van de toepassing van [artikel XXVIB van de Fiscale vereenvoudigingswet 2010](../../../../../wet/fiscale/vereenvoudigingswet/2010/BWBR0026981/README.md), zijn blijven bestaan. 
 
 ### Artikel  XXIVA  
 
-De termijn van vier jaar, genoemd in [artikel 32, eerste lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), wordt voor in de kalenderjaren 2006 tot en met 2009 op de voet van een spaarloonregeling als bedoeld in die bepaling gespaard loon vervangen door een termijn die eindigt op 15 september 2010.  
+De termijn van vier jaar, genoemd in [artikel 32, eerste lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), wordt voor in de kalenderjaren 2006 tot en met 2009 op de voet van een spaarloonregeling als bedoeld in die bepaling gespaard loon vervangen door een termijn die eindigt op 15 september 2010. 
 
 ### Artikel  XXV  
 
@@ -158,22 +158,22 @@ b. de wijzigingen ingevolge artikel XIV, onderdelen A, onder 1, en B, voor het e
 11.  Artikel IX werkt terug tot en met 1 april 2010.   
 12.  Artikel XXIVA werkt terug tot en met 15 september 2010.   
 13.  Artikel I, onderdeel C, werkt terug tot en met 1 december 2010.   
-14.  In afwijking van het eerste lid treedt artikel XVA, ingeval [artikel II, onderdeel H, van de wet van 7 juli 2010 tot wijziging van onder meer Boek 2 van het Burgerlijk Wetboek en de Wet documentatie vennootschappen in verband met het vervallen van de verklaring van geen bezwaar en het verbeteren en uitbreiden van de controle op rechtspersonen met het oog op de voorkoming en bestrijding van misbruik van rechtspersonen](../../../../../wet/wijzigingswet/burgerlijk/wetboek/boek/2/enz./(vervallen/van/de/verklaring/etc/BWBR0027919/README.md) (Stb. 280) na 31 december 2010 in werking treedt, in werking onmiddellijk nadat bedoeld onderdeel H in werking is getreden.   
+14.  In afwijking van het eerste lid treedt artikel XVA, ingeval [artikel II, onderdeel H, van de wet van 7 juli 2010 tot wijziging van onder meer Boek 2 van het Burgerlijk Wetboek en de Wet documentatie vennootschappen in verband met het vervallen van de verklaring van geen bezwaar en het verbeteren en uitbreiden van de controle op rechtspersonen met het oog op de voorkoming en bestrijding van misbruik van rechtspersonen](../../../../../wet/wijzigingswet/burgerlijk/wetboek/boek/2/enz./(vervallen/van/de/verklaring/etc/BWBR0027919/README.md) (Stb. 280) na 31 december 2010 in werking treedt, in werking onmiddellijk nadat bedoeld onderdeel H in werking is getreden.  
 
 ### Artikel  XXVI  
 
-Deze wet wordt aangehaald als: Fiscale verzamelwet 2010.  
+Deze wet wordt aangehaald als: Fiscale verzamelwet 2010. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 23 december 2010  
 Beatrix  
 
-De Staatssecretaris van Financiën, 
+De Staatssecretaris van Financiën,  
 F. H. H. Weekers   
 
 de *negenentwintigste* december 2010 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

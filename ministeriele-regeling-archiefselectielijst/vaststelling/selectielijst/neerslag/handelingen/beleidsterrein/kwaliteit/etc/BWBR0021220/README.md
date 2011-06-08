@@ -10,15 +10,15 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ [selectielijst voor de neerslag van de handelingen van de Minister van Justitie en de onder hem ressorterende actoren op het beleidsterrein Kwaliteit van de Nederlandse wetgeving over de periode vanaf 1945](../../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/kwaliteit/etc/BWBR0021213/README.md) ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘[selectielijst voor de neerslag van de handelingen van de Minister van Justitie en de onder hem ressorterende actoren op het beleidsterrein Kwaliteit van de Nederlandse wetgeving over de periode vanaf 1945](../../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/kwaliteit/etc/BWBR0021213/README.md)’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-De ‘Selectielijst neerslag van de Minister van Justitie en de onder hem ressorterende actoren op het beleidsterrein kwaliteit van de wetgeving over de periode 1945–1998.’ (vastgesteld bij beschikking van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen en de Minister van Justitie, nr. R&B/OSA/2001/3155 d.d. 4 december 2001, gepubliceerd in de Staatscourant nr. 8 d.d. 11 januari 2002) wordt ingetrokken.  
+De ‘Selectielijst neerslag van de Minister van Justitie en de onder hem ressorterende actoren op het beleidsterrein kwaliteit van de wetgeving over de periode 1945–1998.’ (vastgesteld bij beschikking van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen en de Minister van Justitie, nr. R&B/OSA/2001/3155 d.d. 4 december 2001, gepubliceerd in de Staatscourant nr. 8 d.d. 11 januari 2002) wordt ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende [selectielijst](../../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/kwaliteit/etc/BWBR0021213/README.md) en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
@@ -27,9 +27,9 @@ Den Haag
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
 algemene rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
 Minister van Justitie, namens deze: de 
 project directeur, Project Wegwerken Archiefachterstanden PWAA, 
-A. van derKooij   
+A. van der  Kooij     

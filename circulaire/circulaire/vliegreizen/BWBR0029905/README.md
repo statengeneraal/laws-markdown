@@ -21,6 +21,6 @@ Het beleid op het gebied van vliegreizen houdt in dat bij het ‘aanwijzen’ va
 Het zal niet altijd lukken om het beleid op het gebied van vliegreizen strikt toe te passen. Zeker bij vluchten buiten Europa zal regelmatig gebruik gemaakt moeten worden van regionale vliegtuigmaatschappijen, die mogelijk geheel buiten het gezichtsveld van de Europese luchtvaartautoriteiten opereren. Ook kan het zijn, dat ter plekke geen alternatief luchtvervoer mogelijk is, dan met een maatschappij die op de ‘zwarte lijst’ staat. Bovendien kunnen alternatieve vervoersmogelijkheden (trein, auto, e.d.) binnen regio’s hogere veiligheidsrisico’s met zich meebrengen, dan vervoer per vliegtuig ook al staan deze op de ‘zwarte lijst’. Er worden daarom geen uitzonderingsgronden benoemd, waarbij zou mogen worden afgeweken van het beleid. Het is immers niet doenlijk om situaties te benoemen waarin van het beleid afgeweken kan worden. Het bevoegd gezag blijft verantwoordelijk voor het ‘aanwijzen’ van het te gebruiken vervoer. Van belang is, dat de vervoerskeuze in eerste instantie bepaald wordt op basis van de persoonlijke veiligheid van de individuele ambtenaar en niet door economische motieven.     
 
 De 
-minister van Binnenlandse Zaken en Koninkrijksrelaties,namens deze:
-J.J.M.Uijlenbroek,
-Directeur-generaal Organisatie en Bedrijfsvoering Rijk.   
+minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze: 
+J.J.M. Uijlenbroek,  
+Directeur-generaal Organisatie en Bedrijfsvoering Rijk.    

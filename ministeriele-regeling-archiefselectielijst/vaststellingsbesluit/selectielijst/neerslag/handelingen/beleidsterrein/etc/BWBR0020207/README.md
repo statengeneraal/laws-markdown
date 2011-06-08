@@ -10,22 +10,22 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ [selectielijst voor de neerslag van de handelingen van de Minister Justitie en de onder hem ressorterende actoren op het beleidsterrein Buitenlandse Economische Betrekkingen over de periode vanaf 1945](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0020204/README.md) ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘[selectielijst voor de neerslag van de handelingen van de Minister Justitie en de onder hem ressorterende actoren op het beleidsterrein Buitenlandse Economische Betrekkingen over de periode vanaf 1945](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0020204/README.md)’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende [selectielijst](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0020204/README.md) en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 22 augustus 2006   
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze: de 
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze:de 
 Algemene Rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
-Minister van Financiën, namens deze: de 
+Minister van Financiën, namens deze:de 
 Project directeur Project Wegwerken Archiefachterstanden PWAA, 
-A. van derKooij   
+A. van der  Kooij     

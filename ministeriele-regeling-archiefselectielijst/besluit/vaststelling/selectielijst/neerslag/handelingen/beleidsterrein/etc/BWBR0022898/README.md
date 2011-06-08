@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit vaststelling selectielijst neerslag handelingen beleidsterrein regulering en toezicht bank- en kredietwezen vanaf 1940 (Minister van Verkeer en Waterstaat)
+##Besluit vaststelling selectielijst neerslag handelingen beleidsterrein regulering en toezicht bank- en kredietwezen vanaf 1940 (Minister van Verkeer en Waterstaat) 
 
 De Minister van Onderwijs, Cultuur en Wetenschap, en de Minister van Verkeer en Waterstaat,  
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
@@ -10,25 +10,25 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Minister van Verkeer en Waterstaat de onder hem ressorterende actoren op het beleidsterrein regulering van en het toezicht op de centrale bank, het kredietwezen, het effectenverkeer, het giroverkeer (en de Rijkspostspaarbank), het voorkomen van het witwassen van uit criminele activiteiten verkregen gelden en het financiële verkeer in buitengewone omstandigheden over de periode vanaf 1940 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Verkeer en Waterstaat de onder hem ressorterende actoren op het beleidsterrein regulering van en het toezicht op de centrale bank, het kredietwezen, het effectenverkeer, het giroverkeer (en de Rijkspostspaarbank), het voorkomen van het witwassen van uit criminele activiteiten verkregen gelden en het financiële verkeer in buitengewone omstandigheden over de periode vanaf 1940’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 10 oktober 2007   
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
+Minister van Onderwijs, Cultuur en Wetenschap, namens deze:de 
 Algemene Rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
-Minister van Verkeer en Waterstaat, namens deze: de 
+Minister van Verkeer en Waterstaat, namens deze:de 
 projectdirecteur van het Project Wegwerken Archiefachterstanden, 
-A. van derKooij  
+A. van der  Kooij    
 
 ####Basisselectiedocument ‘Geregeld Toezicht’
 
@@ -54,11 +54,11 @@ Voor de volgende zorgdragers:
 
 ####Lijst met afkortingen
 
-BSD: Basisselectiedocument DNB: De Nederlandsche Bank EG: Europese Gemeenschap KNHG: Koninklijk Nederlands Historisch Genootschap NIOD: Nederlands Instituut voor Oorlogsdocumentatie OCW: Onderwijs, Cultuur & Wetenschappen PCDIN: Permanente Commissie Documentaire Informatieverzorging PCGD: Post Cheque- en Girodienst PIVOT: Project Invoering Verkorting Overbrengingstermijn PWAA: Project Wegwerken Archiefachterstanden RIO: Rapport Institutioneel Onderzoek RPS: Rijkspostspaarbank RvC: Raad voor Cultuur Stb.: Staatsblad Stcrt.: Staatscourant WTB: [Wet toezicht beleggingsinstellingen](../../../../../../../../../wet/wet/toezicht/beleggingsinstellingen/BWBR0004809/README.md) WTE: [Wet toezicht effectenverkeer](../../../../../../../../../wet/wet/toezicht/effectenverkeer/1995/BWBR0007657/README.md) WTK: [Wet toezicht op het kredietwezen](../../../../../../../../../wet/wet/toezicht/kredietwezen/1992/BWBR0005792/README.md)  
+BSD: Basisselectiedocument DNB: De Nederlandsche Bank EG: Europese Gemeenschap KNHG: Koninklijk Nederlands Historisch Genootschap NIOD: Nederlands Instituut voor Oorlogsdocumentatie OCW: Onderwijs, Cultuur & Wetenschappen PCDIN: Permanente Commissie Documentaire Informatieverzorging PCGD: Post Cheque- en Girodienst PIVOT: Project Invoering Verkorting Overbrengingstermijn PWAA: Project Wegwerken Archiefachterstanden RIO: Rapport Institutioneel Onderzoek RPS: Rijkspostspaarbank RvC: Raad voor Cultuur Stb.: Staatsblad Stcrt.: Staatscourant WTB: [Wet toezicht beleggingsinstellingen](../../../../../../../../../wet/wet/toezicht/beleggingsinstellingen/BWBR0004809/README.md) WTE: [Wet toezicht effectenverkeer](../../../../../../../../../wet/wet/toezicht/effectenverkeer/1995/BWBR0007657/README.md) WTK: [Wet toezicht op het kredietwezen](../../../../../../../../../wet/wet/toezicht/kredietwezen/1992/BWBR0005792/README.md) 
 
 ####1 Definitie van het BSD
 
-Een Basis Selectiedocument (BSD) is de vorm waarin een of meerdere selectielijst(en), bedoeld in [artikel 5 van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (Stb. 277), worden vastgesteld. Een selectielijst biedt de grondslag voor het vernietigen dan wel het ter blijvende bewaring overbrengen van de neerslag van handelingen van een zorgdrager en de onder hem ressorterende actoren. Een BSD kan bestaan uit één of meer selectielijsten. Een BSD is gebaseerd op een vastgesteld Rapport Institutioneel Onderzoek (RIO) en bestrijkt dezelfde periode als dit rapport. Eventuele afwijkingen hiervan worden in het verslag van het driehoeksoverleg verantwoord. Een BSD bevat in principe dezelfde handelingen als het RIO dat aan het BSD ten grondslag ligt. Eventuele afwijkingen hierop worden in het verslag van het gevoerde driehoeksoverleg verantwoord. Indien het RIO een begin- en eindperiode vermeldt wordt de eindperiode niet overgenomen in het BSD, omdat dit ten onrechte zou suggereren dat alle handelingen afgesloten zijn. Een dergelijke wijziging heeft een praktisch nut en betekent geen nader institutioneel onderzoek. Het handelingenblok wijkt in zoverre af van dat van het RIO dat een veld voor de waardering wordt toegevoegd (zie leeswijzer onder 3.8). In het veld ‘waardering’ wordt aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden, en welk bewaarcriterium of vernietigingstermijn gehanteerd wordt. De waardering *B* (= bewaren) betekent dat de neerslag voor permanente bewaring wordt overgebracht naar de Rijksarchiefbewaarplaatsen. De waardering *V* (= vernietiging) betekent dat de neerslag wordt vernietigd. Op welke termijn dat gebeurt, wordt bij de waardering vermeld. Bij voorkeur wordt ook het ingangsmoment vastgelegd (bijv. *3 jaar na vaststelling nieuwe regeling*). Zonder nadere aanduiding gaat de vernietigingstermijn in direct na afsluiting van de zaak waarop een dossier betrekking heeft. Anders dan in het RIO worden in het BSD de handelingen per actor geordend. Indien een BSD bestaat uit lijsten voor actoren onder verschillende zorgdragers, worden deze per zorgdrager geordend. Hiermee wordt uitdrukking gegeven aan het uitgangspunt dat een selectielijst een eenheid is, bevattende handelingen van een zorgdrager en de onder hem ressorterende actoren. Anders gezegd: een selectielijst kan opgebouwd zijn uit (deel)lijsten voor verschillende actoren die onder dezelfde zorgdrager ressorteren.  
+Een Basis Selectiedocument (BSD) is de vorm waarin een of meerdere selectielijst(en), bedoeld in [artikel 5 van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (Stb. 277), worden vastgesteld. Een selectielijst biedt de grondslag voor het vernietigen dan wel het ter blijvende bewaring overbrengen van de neerslag van handelingen van een zorgdrager en de onder hem ressorterende actoren. Een BSD kan bestaan uit één of meer selectielijsten. Een BSD is gebaseerd op een vastgesteld Rapport Institutioneel Onderzoek (RIO) en bestrijkt dezelfde periode als dit rapport. Eventuele afwijkingen hiervan worden in het verslag van het driehoeksoverleg verantwoord. Een BSD bevat in principe dezelfde handelingen als het RIO dat aan het BSD ten grondslag ligt. Eventuele afwijkingen hierop worden in het verslag van het gevoerde driehoeksoverleg verantwoord. Indien het RIO een begin- en eindperiode vermeldt wordt de eindperiode niet overgenomen in het BSD, omdat dit ten onrechte zou suggereren dat alle handelingen afgesloten zijn. Een dergelijke wijziging heeft een praktisch nut en betekent geen nader institutioneel onderzoek. Het handelingenblok wijkt in zoverre af van dat van het RIO dat een veld voor de waardering wordt toegevoegd (zie leeswijzer onder 3.8).  In het veld ‘waardering’ wordt aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden, en welk bewaarcriterium of vernietigingstermijn gehanteerd wordt. De waardering *B* (= bewaren) betekent dat de neerslag voor permanente bewaring wordt overgebracht naar de Rijksarchiefbewaarplaatsen. De waardering *V* (= vernietiging) betekent dat de neerslag wordt vernietigd. Op welke termijn dat gebeurt, wordt bij de waardering vermeld. Bij voorkeur wordt ook het ingangsmoment vastgelegd (bijv. *3 jaar na vaststelling nieuwe regeling*). Zonder nadere aanduiding gaat de vernietigingstermijn in direct na afsluiting van de zaak waarop een dossier betrekking heeft. Anders dan in het RIO worden in het BSD de handelingen per actor geordend. Indien een BSD bestaat uit lijsten voor actoren onder verschillende zorgdragers, worden deze per zorgdrager geordend. Hiermee wordt uitdrukking gegeven aan het uitgangspunt dat een selectielijst een eenheid is, bevattende handelingen van een zorgdrager en de onder hem ressorterende actoren. Anders gezegd: een selectielijst kan opgebouwd zijn uit (deel)lijsten voor verschillende actoren die onder dezelfde zorgdrager ressorteren. 
 
 ####2 Functies van het BSD
 
@@ -72,13 +72,13 @@ Het BSD heeft de volgende functies:
 
 – voor de Minister belast met het cultuurbeleid (vertegenwoordigd door de Algemeen Rijksarchivaris) is het BSD de verantwoording inzake het bewaar- en vernietigingsbeleid vanuit cultureel-historisch belang ([Archiefbesluit 1995, art. 2, eerste lid, onder c](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md));  
 
-– voor het Nationaal Archief is het BSD (tezamen met het RIO) het uitgangspunt voor de Institutionele Toegangen.    
+– voor het Nationaal Archief is het BSD (tezamen met het RIO) het uitgangspunt voor de Institutionele Toegangen.   
 
 ####3 Verantwoording
 
 #### *3.1 Doel en werking van het BSD* 
 
-Een Basis Selectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van één (enkele) organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Een BSD kan bestaan uit één of meer selectielijsten. Het BSD geldt dus voor de archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voor zover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Dit betekent dat er geen handelingen van particuliere actoren worden opgenomen. Een BSD wordt opgesteld op basis van institutioneel onderzoek. In een Rapport Institutioneel Onderzoek (RIO) wordt dan het betreffende beleidsterrein beschreven, evenals de taken en bevoegdheden van de betrokken actoren op dat beleidsterrein. De handelingen van de overheid op het beleidsterrein staan in het RIO in hun functionele context geplaatst. In het BSD zijn de handelingen overgenomen, alleen nu geordend naar de actor. Bovendien is bij elke handeling aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden. Door de beleidsterreingerichte benadering komen verschillende aspecten betreffende het beheer van de eigen organisatie van de zorgdrager (personeelsbeleid, financieel beleid, etc.) niet aan bod. Voor het selecteren van de administratieve neerslag die betrekking heeft op de instandhouding en ontwikkeling van de eigen organisaties van overheidsorganen dienen een aantal zogeheten ‘horizontale’ BSD’s. Deze horizontale BSD’s zijn van toepassing op alle organisaties van de rijksoverheid. Het niveau waarop geselecteerd wordt, is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voorzien van een waardering en indien van toepassing een vernietigingstermijn. Het opgestelde ontwerp-BSD wordt voorgelegd aan de Raad voor Cultuur en op verschillende plaatsen ter inzage gelegd. Na eventuele wijziging van het ontwerp-BSD kan worden overgegaan tot de vaststelling. Het BSD wordt vastgesteld in een gezamenlijk besluit van de Minister belast met het cultuurbeleid (tegenwoordig de Minister van OCW) en de betrokken zorgdrager(s). Er is een aantal wijzigingen in het BSD ten opzichte van het RIO. – Bij handeling 282 is voor een van de betrokken actoren, de Commissie van Bijstand voor de uitvoering van de Beurswet 1914, een nieuwe, aparte handeling geformuleerd, handeling 844. *Handeling:* Het vaststellen van Ministeriële regelingen houdende voorschriften omtrent: 
+Een Basis Selectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van één (enkele) organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Een BSD kan bestaan uit één of meer selectielijsten. Het BSD geldt dus voor de archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voor zover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Dit betekent dat er geen handelingen van particuliere actoren worden opgenomen. Een BSD wordt opgesteld op basis van institutioneel onderzoek. In een Rapport Institutioneel Onderzoek (RIO) wordt dan het betreffende beleidsterrein beschreven, evenals de taken en bevoegdheden van de betrokken actoren op dat beleidsterrein. De handelingen van de overheid op het beleidsterrein staan in het RIO in hun functionele context geplaatst. In het BSD zijn de handelingen overgenomen, alleen nu geordend naar de actor. Bovendien is bij elke handeling aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden. Door de beleidsterreingerichte benadering komen verschillende aspecten betreffende het beheer van de eigen organisatie van de zorgdrager (personeelsbeleid, financieel beleid, etc.) niet aan bod. Voor het selecteren van de administratieve neerslag die betrekking heeft op de instandhouding en ontwikkeling van de eigen organisaties van overheidsorganen dienen een aantal zogeheten ‘horizontale’ BSD’s. Deze horizontale BSD’s zijn van toepassing op alle organisaties van de rijksoverheid. Het niveau waarop geselecteerd wordt, is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voorzien van een waardering en indien van toepassing een vernietigingstermijn. Het opgestelde ontwerp-BSD wordt voorgelegd aan de Raad voor Cultuur en op verschillende plaatsen ter inzage gelegd. Na eventuele wijziging van het ontwerp-BSD kan worden overgegaan tot de vaststelling. Het BSD wordt vastgesteld in een gezamenlijk besluit van de Minister belast met het cultuurbeleid (tegenwoordig de Minister van OCW) en de betrokken zorgdrager(s). Er is een aantal wijzigingen in het BSD ten opzichte van het RIO. – Bij handeling 282 is voor een van de betrokken actoren, de Commissie van Bijstand voor de uitvoering van de Beurswet 1914, een nieuwe, aparte handeling geformuleerd, handeling 844.  *Handeling:* Het vaststellen van Ministeriële regelingen houdende voorschriften omtrent: 
 
 1. de opening en sluiting der beurzen;  
 
@@ -86,11 +86,11 @@ Een Basis Selectiedocument (BSD) is een bijzondere vorm van een selectielijst. I
 
 3. de afwikkeling van prolongaties, voorschotten in rekening-courant of andere leningen, welke lopen van voor een door de Minister van Financiën, in verband met het intreden van buitengewone omstandigheden, aan te wijzen dag en waarvoor fondsen tot onderpand werden gegeven, onverschillig of die leningen al dan niet ter beurze werden gesloten;  
 
-4. de afwikkeling van andere zaken ter beurze gedaan, voor een door de Minister van Financiën, op den voet van het onder 3 bepaalde, aan te wijzen dag.   *Periode:* 1940–1992 *Grondslag:* Beurswet 1914, art. 2.2. – Voor de Ministers van Financiën en van Justitie wordt een nieuwe handeling geformuleerd, ‘Het instellen van de projectorganisatie automatisering Meldpunt Ongebruikelijke Transacties’. Het nummer van de nieuwe handeling wordt 845. *Periode:* 1994 – *Handeling 6*, ‘Het benoemen, schorsen en ontslaan van vertegenwoordigers van het Ministerie in commissies, stuurgroepen, werkgroepen en andere internationale, inter- en intradepartementale overlegorganen (voorzover niet expliciet geregeld in specifieke wet- en regelgeving) op het terrein van: (…)’ gewijzigd in: ‘Het benoemen, schorsen en ontslaan van vertegenwoordigers van het Ministerie in commissies, stuurgroepen, werkgroepen en andere *(inter-)* nationale, inter- en intradepartementale overlegorganen (voorzover niet expliciet geregeld in specifieke wet- en regelgeving) op het terrein van: (…)’ (Dus in plaats van internationale is het geworden (inter-)nationale) *– Handeling 6:* er is een opmerking aan toegevoegd, waarin wordt vermeld dat ook personen die geen vertegenwoordigers van het Ministerie zijn, kunnen worden benoemd, geschorst en ontslagen. *– Handeling 754:* ‘Het verrichten van onderzoek naar ontwikkelingen op het gebied van heling van geld en naar de verbetering van de methoden om heling van geld te voorkomen en op te sporen’ gewijzigd in: ‘Het verrichten van onderzoek naar ontwikkelingen op het gebied van witwassen, heling van geld en financieren van terrorisme en naar de verbetering van de methoden om witwassen, heling van geld en financieren van terrorisme te voorkomen en op te sporen’. *– Handeling 756:* ‘Het geven van voorlichting omtrent de voorkoming en opsporing van de heling van geld aan de bedrijfstakken, aan het openbaar Ministerie en de overige ambtenaren belast met de opsporing van strafbare feiten en aan het publiek.’ gewijzigd in: ‘Het geven van voorlichting omtrent de voorkoming en opsporing van witwassen, de heling van geld en financieren van terrorisme aan de bedrijfstakken, aan het openbaar Ministerie en de overige ambtenaren belast met de opsporing van strafbare feiten en aan het publiek.’ *– Handeling 757:* ‘Het onderhouden van contacten met buitenlandse, van overheidswege aangewezen instellingen met een vergelijkbare taak’, bij ‘Opmerking’ een voorbeeld van zulke contacten gegeven, namelijk de Financial Intelligence Units. Dit betreft de internationale context van het Meldpunt Ongebruikelijk Transacties. – Bij de actor het Meldpunt Ongebruikelijke Transacties is de formulering van een aantal handelingen uitgebreid. Dit heeft te maken met hoe de [Wet MOT](../../../../../../../../../wet/wet/melding/ongebruikelijke/transacties/BWBR0006331/README.md) op dit moment luidt. Door de aanpassing sluit de handeling precies aan bij het de dossiers van het dynamisch archief van het Meldpunt. Zie hiervoor handeling 753, 754, 755, 756, 758, 760. Van handeling 753 en 758 is de grondslag aangepast.  
+4. de afwikkeling van andere zaken ter beurze gedaan, voor een door de Minister van Financiën, op den voet van het onder 3 bepaalde, aan te wijzen dag.    *Periode:* 1940–1992   *Grondslag:* Beurswet 1914, art. 2.2. – Voor de Ministers van Financiën en van Justitie wordt een nieuwe handeling geformuleerd, ‘Het instellen van de projectorganisatie automatisering Meldpunt Ongebruikelijke Transacties’. Het nummer van de nieuwe handeling wordt 845.  *Periode:* 1994  – *Handeling 6*, ‘Het benoemen, schorsen en ontslaan van vertegenwoordigers van het Ministerie in commissies, stuurgroepen, werkgroepen en andere internationale, inter- en intradepartementale overlegorganen (voorzover niet expliciet geregeld in specifieke wet- en regelgeving) op het terrein van: (…)’ gewijzigd in:  ‘Het benoemen, schorsen en ontslaan van vertegenwoordigers van het Ministerie in commissies, stuurgroepen, werkgroepen en andere *(inter-)*nationale, inter- en intradepartementale overlegorganen (voorzover niet expliciet geregeld in specifieke wet- en regelgeving) op het terrein van: (…)’ (Dus in plaats van internationale is het geworden (inter-)nationale)  *– Handeling 6:* er is een opmerking aan toegevoegd, waarin wordt vermeld dat ook personen die geen vertegenwoordigers van het Ministerie zijn, kunnen worden benoemd, geschorst en ontslagen.  *– Handeling 754: *‘Het verrichten van onderzoek naar ontwikkelingen op het gebied van heling van geld en naar de verbetering van de methoden om heling van geld te voorkomen en op te sporen’  gewijzigd in: ‘Het verrichten van onderzoek naar ontwikkelingen op het gebied van witwassen, heling van geld en financieren van terrorisme en naar de verbetering van de methoden om witwassen, heling van geld en financieren van terrorisme te voorkomen en op te sporen’.  *– Handeling 756:* ‘Het geven van voorlichting omtrent de voorkoming en opsporing van de heling van geld aan de bedrijfstakken, aan het openbaar Ministerie en de overige ambtenaren belast met de opsporing van strafbare feiten en aan het publiek.’ gewijzigd in: ‘Het geven van voorlichting omtrent de voorkoming en opsporing van witwassen, de heling van geld en financieren van terrorisme aan de bedrijfstakken, aan het openbaar Ministerie en de overige ambtenaren belast met de opsporing van strafbare feiten en aan het publiek.’  *– Handeling 757:* ‘Het onderhouden van contacten met buitenlandse, van overheidswege aangewezen instellingen met een vergelijkbare taak’, bij ‘Opmerking’ een voorbeeld van zulke contacten gegeven, namelijk de Financial Intelligence Units. Dit betreft de internationale context van het Meldpunt Ongebruikelijk Transacties. – Bij de actor het Meldpunt Ongebruikelijke Transacties is de formulering van een aantal handelingen uitgebreid. Dit heeft te maken met hoe de [Wet MOT](../../../../../../../../../wet/wet/melding/ongebruikelijke/transacties/BWBR0006331/README.md) op dit moment luidt. Door de aanpassing sluit de handeling precies aan bij het de dossiers van het dynamisch archief van het Meldpunt. Zie hiervoor handeling 753, 754, 755, 756, 758, 760. Van handeling 753 en 758 is de grondslag aangepast. 
 
 #### *3.2 Definitie van het beleidsterrein* 
 
-Het PIVOT-rapport *‘Geregeld Toezicht’* vormt de grondslag voor het voorliggende basis-selectiedocument (BSD). Beide bestrijken de periode 1940 tot en met 1995. Genoemd rapport geeft een overzicht van actoren – zowel overheids als particulier – op het terrein van: <sup> 1  *‘Geregeld toezicht’. Een institutioneel onderzoek naar actoren en handelingen op het terrein van de regulering van en het toezicht op de centrale bank, het kredietwezen, het effectenverkeer en het giroverkeer (en de Rijkspostspaarbank), het voorkomen van het witwassen van uit criminele activiteiten verkregen gelden, en het financiële verkeer in buitengwone omstandigheden, 1940–1995.*, Den Haag, 1996 (PIVOT-rapport nr. 40).  </sup> <sup> 2  Het door PIVOT gehanteerde onderzoeksmodel en de daarbij gehanteerde begrippen worden beschreven in *‘Handelend optreden. Overheidshandelen: modellen, onderzoeksmethoden en toepassingen.’*, Den Haag, 1994.  </sup> 
+Het PIVOT-rapport *‘Geregeld Toezicht’*<sup>1*‘Geregeld toezicht’. Een institutioneel onderzoek naar actoren en handelingen op het terrein van de regulering van en het toezicht op de centrale bank, het kredietwezen, het effectenverkeer en het giroverkeer (en de Rijkspostspaarbank), het voorkomen van het witwassen van uit criminele activiteiten verkregen gelden, en het financiële verkeer in buitengwone omstandigheden, 1940–1995.*, Den Haag, 1996 (PIVOT-rapport nr. 40).</sup> vormt de grondslag voor het voorliggende basis-selectiedocument (BSD). Beide bestrijken de periode 1940 tot en met 1995. Genoemd rapport geeft een overzicht van actoren<sup>2Het door PIVOT gehanteerde onderzoeksmodel en de daarbij gehanteerde begrippen worden beschreven in *‘Handelend optreden. Overheidshandelen: modellen, onderzoeksmethoden en toepassingen.’*, Den Haag, 1994.</sup> – zowel overheids als particulier – op het terrein van: 
 
 a. de regulering van en het toezicht op de centrale bank;  
 
@@ -102,7 +102,7 @@ d. de regulering van en het toezicht op het giroverkeer en de Rijkspostspaarbank
 
 e. de voorkoming van het witwassen van uit criminele activiteiten verkregen gelden;  
 
-f. de regulering van en het toezicht op het financiële verkeer in buitengewone omstandigheden.   Naast de actoren beschrijft het rapport ook de handelingen van die instellingen, die vallen onder de [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md). Aan de hand van het rapport ‘Geregeld Toezicht’ en het daarop gebaseerde BSD implementeren de Algemene Rijksarchivaris en vertegenwoordigers van het Ministerie van Financiën (en van de direct onder de verantwoordelijkheid van die Minister vallende instellingen) het bepaalde in artikel C van het convenant ‘institutioneel onderzoek’, dat op 25 juni 1992 tussen de Algemene Rijksarchivaris en de Secretaris-Generaal van het Ministerie van Financiën werd gesloten. Het BSD heeft niet alleen betrekking op het handelen van de Minister van Financiën c.s. Ook van andere overheidsinstellingen – zelfstandig of vallend onder de verantwoordelijkheid van een andere Minister van algemeen bestuur – zijn handelingen opgenomen. Met deze instellingen, die niet vallen onder de werking van het convenant van 25 juni 1992, worden afzonderlijke afspraken gemaakt over de implementatie. In het actorenoverzicht wordt weergegeven welke overheidsinstanties het betreft. Het voorliggende BSD is uitgangspunt bij de bewerking van (alle) archieven (of informatieverzamelingen) op de hierboven onder a. tot en met d. genoemde (deel)terreinen. Van elke bewerking dient na afloop een proces-verbaal te worden opgemaakt, waarin wordt aangegeven of, en zo ja, waar en vooral ook waarom de bewerker tijdens de bewerking van de in het BSD geformuleerde selectiebeslissingen is afgeweken.  
+f. de regulering van en het toezicht op het financiële verkeer in buitengewone omstandigheden.   Naast de actoren beschrijft het rapport ook de handelingen van die instellingen, die vallen onder de [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md). Aan de hand van het rapport ‘Geregeld Toezicht’ en het daarop gebaseerde BSD implementeren de Algemene Rijksarchivaris en vertegenwoordigers van het Ministerie van Financiën (en van de direct onder de verantwoordelijkheid van die Minister vallende instellingen) het bepaalde in artikel C van het convenant ‘institutioneel onderzoek’, dat op 25 juni 1992 tussen de Algemene Rijksarchivaris en de Secretaris-Generaal van het Ministerie van Financiën werd gesloten. Het BSD heeft niet alleen betrekking op het handelen van de Minister van Financiën c.s. Ook van andere overheidsinstellingen – zelfstandig of vallend onder de verantwoordelijkheid van een andere Minister van algemeen bestuur – zijn handelingen opgenomen. Met deze instellingen, die niet vallen onder de werking van het convenant van 25 juni 1992, worden afzonderlijke afspraken gemaakt over de implementatie. In het actorenoverzicht wordt weergegeven welke overheidsinstanties het betreft. Het voorliggende BSD is uitgangspunt bij de bewerking van (alle) archieven (of informatieverzamelingen) op de hierboven onder a. tot en met d. genoemde (deel)terreinen. Van elke bewerking dient na afloop een proces-verbaal te worden opgemaakt, waarin wordt aangegeven of, en zo ja, waar en vooral ook waarom de bewerker tijdens de bewerking van de in het BSD geformuleerde selectiebeslissingen is afgeweken. 
 
 #### *3.3 Afbakening van het beleidsterrein* 
 
@@ -146,11 +146,11 @@ Het BSD heeft betrekking op de volgende deelbeleidsterreinen:
 
 – Rechterlijke macht (Stcrt. 2003/11)  
 
-– Notarissen (Stcrt. 2005/212)   Tenslotte zijn de handelingen van het College van beroep voor het Bedrijfsleven, de Verzekeringskamer en van de Nederlandsche Bank buiten beschouwing gelaten, aangezien deze instanties een eigen BSD zullen (laten) vervaardigen.  
+– Notarissen (Stcrt. 2005/212)   Tenslotte zijn de handelingen van het College van beroep voor het Bedrijfsleven, de Verzekeringskamer en van de Nederlandsche Bank buiten beschouwing gelaten, aangezien deze instanties een eigen BSD zullen (laten) vervaardigen. 
 
 #### *3.4 Doelstellingen van de overheid op het beleidsterrein* 
 
-Al voor de Tweede Wereldoorlog was de regering op het sociale en economische vlak regelend en corrigerend opgetreden. Dat ingrijpen droeg in die periode echter nog een voornamelijk fragmentarisch karakter. Na 1945 echter werd een andere lijn gevolgd: de omvang van de sociaal-economische problemen – aanvankelijk voortkomend uit en samenhangend met (de nasleep van) de Tweede Wereldoorlog, later vooral met de snelle industrialisatie – maakte een meer structureel ingrijpen wenselijk, cq. noodzakelijk. De groeiende betekenis van banken en financiële markten voor het economische leven – een belangrijk deel van het handelen van de (Rijks- en lagere) overheid en de expansie en modernisering van het bedrijfsleven werden via deze kanalen gefinancierd – leidde ertoe, dat de Rijksoverheid in de decennia na de Tweede Wereldoorlog in toenemende mate regulerend ging optreden. Het aanvankelijk gehanteerde systeem van ‘een summier toezicht’ van overheidswege, gekoppeld aan ‘een uitgebreide zelfregulering’ door de bank- en effectenwereld, bleek onder de gewijzigde omstandigheden niet afdoende. Ook de toenemende internationalisering van het krediet- en effectenverkeer en de daarmee samenhangende groei van de concurrentie op de financiële markten, maakten een verdergaand overheidsingrijpen gewenst en noodzakelijk. In Europees verband tenslotte werd aangedrongen op coördinatie van het toezicht en ook dat leidde tot aanpassing en uitbreiding van de wet- en regelgeving. Met de wet- en regelgeving op het terrein van de financiële infrastructuur beoogt de wetgever een aantal verschillende (beleids)doeleinden. In de eerste plaats wil de overheid greep houden op de waarde van de Nederlandse gulden. Deze dient zodanig te worden gereguleerd ‘als voor ’s lands welvaart het meest dienstig is’. Om dat doel te bereiken dient de overheid invloed te kunnen uitoefenen op de totale geldhoeveelheid. In de Bankwet is de taak van de regulering van de geldwaarde in eerste instantie toevertrouwd aan De Nederlandsche Bank (DNB). Als circulatiebank is zij verantwoordelijk voor de uitgifte van bankbiljetten. Door middel van het ‘monetair toezicht’ kan zij richting geven aan de kredietverlening door banken en andere geldscheppende instellingen en deze binnen de perken houden. De Bankwet biedt aan de overheid de mogelijkheid om in te grijpen als zij het – in het kader van de algemeen financiële en economische politiek – niet eens is met de door De Nederlandsche Bank gevolgde lijn. In de tweede plaats wil de overheid door het (doen) uitoefenen van toezicht het vertrouwen van spaarders en beleggers in de financiële sector (bankwezen en financiële markten) handhaven en versterken. Door middel van dat toezicht wil de overheid voorkomen dat aantasting van het vertrouwen in bij voorbeeld een afzonderlijke bank of effecteninstelling leidt tot aantasting van het vertrouwen in de gehele sector. De overheid richt zich met name op de bescherming van de belangen van de ‘particuliere geldgever’, d.w.z. de niet-professionele spaarder en de belegger. Dezen moeten er vanuit kunnen gaan dat zij voldoende beschermd zijn tegen malafide praktijken en tegen ondeskundig optreden. Daarnaast moeten zij de garantie hebben, dat zij de noodzakelijke informatie ontvangen (‘transparantie van de markt’). Ook het beleid met betrekking tot de voorkoming van het witwassen van uit criminele activiteiten verkregen gelden is – deels – gericht op de handhaving van de integriteit van het financiële stelsel. <sup> 3  Met de zgn. ‘anti-witwasregelingen’ beoogt de overheid ook een fiscaal doel.  </sup> In de derde plaats wil de overheid zicht houden op de totale structuur van de financiële sector. Daarbij gaat het vooral om het voorkomen van ongewenste machtsconcentraties, die tot een ernstige verstoring van de concurrentieverhoudingen zouden kunnen leiden. In dat kader past ook het voor alle financiële instellingen algemeen bindend verklaren van bijzondere regelingen (bij voorbeeld inzake de verkoop van spaarbewijzen en de identiteitsvaststelling bij financiële dienstverlening), waardoor oneigenlijke concurrentie kan worden voorkomen. Door middel van een uitgebreide wet- en regelgeving heeft de overheid het kader geschapen voor een verregaand toezicht. De uitvoering daarvan wordt in de meeste gevallen overgelaten aan anderen. Kern van de wetgeving is, dat het bedrijfsmatige optreden van instellingen in de financiële sector gebonden is aan vergunningen. Die vergunningen worden alleen verstrekt, als de betreffende instellingen aan bepaalde – algemeen geldende of bijzondere – voorwaarden voldoen. Vergunningen kunnen worden ingetrokken als bij controle blijkt dat dat niet meer het geval is. Daarnaast worden bepaalde handelingen in de wetgeving gebonden aan ‘verklaringen van geen bezwaar’. Dat houdt in dat zij alleen mogen worden uitgevoerd met toestemming van de toezichthouder.  
+Al voor de Tweede Wereldoorlog was de regering op het sociale en economische vlak regelend en corrigerend opgetreden. Dat ingrijpen droeg in die periode echter nog een voornamelijk fragmentarisch karakter. Na 1945 echter werd een andere lijn gevolgd: de omvang van de sociaal-economische problemen – aanvankelijk voortkomend uit en samenhangend met (de nasleep van) de Tweede Wereldoorlog, later vooral met de snelle industrialisatie – maakte een meer structureel ingrijpen wenselijk, cq. noodzakelijk. De groeiende betekenis van banken en financiële markten voor het economische leven – een belangrijk deel van het handelen van de (Rijks- en lagere) overheid en de expansie en modernisering van het bedrijfsleven werden via deze kanalen gefinancierd – leidde ertoe, dat de Rijksoverheid in de decennia na de Tweede Wereldoorlog in toenemende mate regulerend ging optreden. Het aanvankelijk gehanteerde systeem van ‘een summier toezicht’ van overheidswege, gekoppeld aan ‘een uitgebreide zelfregulering’ door de bank- en effectenwereld, bleek onder de gewijzigde omstandigheden niet afdoende. Ook de toenemende internationalisering van het krediet- en effectenverkeer en de daarmee samenhangende groei van de concurrentie op de financiële markten, maakten een verdergaand overheidsingrijpen gewenst en noodzakelijk. In Europees verband tenslotte werd aangedrongen op coördinatie van het toezicht en ook dat leidde tot aanpassing en uitbreiding van de wet- en regelgeving. Met de wet- en regelgeving op het terrein van de financiële infrastructuur beoogt de wetgever een aantal verschillende (beleids)doeleinden. In de eerste plaats wil de overheid greep houden op de waarde van de Nederlandse gulden. Deze dient zodanig te worden gereguleerd ‘als voor ’s lands welvaart het meest dienstig is’. Om dat doel te bereiken dient de overheid invloed te kunnen uitoefenen op de totale geldhoeveelheid. In de Bankwet is de taak van de regulering van de geldwaarde in eerste instantie toevertrouwd aan De Nederlandsche Bank (DNB). Als circulatiebank is zij verantwoordelijk voor de uitgifte van bankbiljetten. Door middel van het ‘monetair toezicht’ kan zij richting geven aan de kredietverlening door banken en andere geldscheppende instellingen en deze binnen de perken houden. De Bankwet biedt aan de overheid de mogelijkheid om in te grijpen als zij het – in het kader van de algemeen financiële en economische politiek – niet eens is met de door De Nederlandsche Bank gevolgde lijn. In de tweede plaats wil de overheid door het (doen) uitoefenen van toezicht het vertrouwen van spaarders en beleggers in de financiële sector (bankwezen en financiële markten) handhaven en versterken. Door middel van dat toezicht wil de overheid voorkomen dat aantasting van het vertrouwen in bij voorbeeld een afzonderlijke bank of effecteninstelling leidt tot aantasting van het vertrouwen in de gehele sector. De overheid richt zich met name op de bescherming van de belangen van de ‘particuliere geldgever’, d.w.z. de niet-professionele spaarder en de belegger. Dezen moeten er vanuit kunnen gaan dat zij voldoende beschermd zijn tegen malafide praktijken en tegen ondeskundig optreden. Daarnaast moeten zij de garantie hebben, dat zij de noodzakelijke informatie ontvangen (‘transparantie van de markt’).  Ook het beleid met betrekking tot de voorkoming van het witwassen van uit criminele activiteiten verkregen gelden is – deels – gericht op de handhaving van de integriteit van het financiële stelsel.<sup>3Met de zgn. ‘anti-witwasregelingen’ beoogt de overheid ook een fiscaal doel.</sup> In de derde plaats wil de overheid zicht houden op de totale structuur van de financiële sector. Daarbij gaat het vooral om het voorkomen van ongewenste machtsconcentraties, die tot een ernstige verstoring van de concurrentieverhoudingen zouden kunnen leiden. In dat kader past ook het voor alle financiële instellingen algemeen bindend verklaren van bijzondere regelingen (bij voorbeeld inzake de verkoop van spaarbewijzen en de identiteitsvaststelling bij financiële dienstverlening), waardoor oneigenlijke concurrentie kan worden voorkomen. Door middel van een uitgebreide wet- en regelgeving heeft de overheid het kader geschapen voor een verregaand toezicht. De uitvoering daarvan wordt in de meeste gevallen overgelaten aan anderen. Kern van de wetgeving is, dat het bedrijfsmatige optreden van instellingen in de financiële sector gebonden is aan vergunningen. Die vergunningen worden alleen verstrekt, als de betreffende instellingen aan bepaalde – algemeen geldende of bijzondere – voorwaarden voldoen. Vergunningen kunnen worden ingetrokken als bij controle blijkt dat dat niet meer het geval is. Daarnaast worden bepaalde handelingen in de wetgeving gebonden aan ‘verklaringen van geen bezwaar’. Dat houdt in dat zij alleen mogen worden uitgevoerd met toestemming van de toezichthouder. 
 
 #### *3.5 Situatie tijdens de bezettingsperiode* 
 
@@ -166,11 +166,11 @@ Het vrijwillige toezicht van DNB op de banken dateert vanaf het begin van de jar
 Ofschoon de Minister van Financiën op grond van de Beurswet 1914 gemachtigd was voorschriften op het gebied van effectenhandel vast te stellen, werd voor 1940 niet of nauwelijks gebruik gemaakt van deze bevoegdheid. De overheid vertrouwde op de regelgeving van de Vereeniging voor den Effectenhandel. De Commissie van Bijstand voor de uitvoering van de Beurswet 1914 was namens de Minister belast met een deel van het toezicht. Reeds in juli 1940 kwam hier verandering in. Met de Beursvoorschriften 1940 werd het departement verantwoordelijk voor het vaststellen van allerlei (beurs)regels. Het hoofd van het departement – de secretaris-generaal – kon verder de bevoegdheden waarover hij (= eigenlijk de Minister) uit hoofde van de Beurswet beschikte, overdragen aan de Commissie van Bijstand voor de Uitvoering van de Beurswet 1914 (art. 1.5). Het Bedrijfsvergunningenbesluit van 24 juni 1941 stelde de handel in effecten afhankelijk van een vergunning. In 1942 werd bij het beschikken over effecten de tussenkomst van een lid van de Vereeniging voor den Effectenhandel verplicht gesteld (commissionairsdwang). In 1943 tenslotte werd in het Besluit betreffende de uitoefening van den effectenhandel de handel in effecten voorbehouden aan leden van de Vereeniging. Een deel van de door de bezetter genomen maatregelen bleef in de eerste jaren na de oorlog geheel of gedeeltelijk van kracht. In 1947 echter kwam een nieuwe Beschikking Beursverkeer tot stand. Daarmee keerde men terug naar de situatie van voor 1940: een summiere algemene controle door de overheid met daarnaast een uitgebreide zelfregulering. Voor 1940 was de vervanging van onverhandelbaar geworden of verloren gegane effecten onbevredigend geregeld. De bijzondere gebeurtenissen van 1940 maakten een wettelijke regeling van deze zaak urgent. Door de oorlogsomstandigheden waren niet alleen veel effecten verloren gegaan, maar ook de administraties van eigenaren van effecten of van hun bankiers of commissionairs in het ongerede geraakt. Met het Effectenbesluit 1941 werd de vervanging van waardepapieren welke verloren waren gegaan dan wel onverhandelbaar waren geworden, geregeld. Na de oorlog bleef dit Besluit, aangezien deze bevredigend had gewerkt, tot 1965 van kracht. 
 ###Toezicht Giroverkeer
 
-Bij Wet van 29 december 1928 was de PTT aangewezen als staatsbedrijf. Op grond van het Girobesluit 1934 en de Girowet 1936 had de Minister belast met de zorg voor de PTT een aantal (verregaande) regelgevende en toezichthoudende bevoegdheden, ook ten aanzien van de van overheidswege opgerichte Postcheque- Girodienst (PCGD). De rol van de Minister van Financiën beperkte zich voornamelijk tot die van mede-wetgever en mede-toezichthouder. De Tweede Wereldoorlog leidde tot een veranderde status van de PCGD. Bij Besluit van de secretarissen-generaal van Binnenlandse Zaken (deze was belast met de zorg voor het Staatsbedrijf der PTT) en van Financiën van 11 september 1940, VB 139/1940, echter werd aan de PCGD rechtspersoonlijkheid toegekend. Alle goederen, rechten en verplichtingen van de staat ‘de PCGD betreffende’, gingen daarbij over op de PCGD. De verhouding tot de PTT wijzigde niet. Wel gingen bij Verordening van 31 maart 1941, VB 67/1941, betreffende de organisatie van het Staatsbedrijf der PTT alle goederen, rechten en verplichtingen van de staat ‘de PTT betreffende’ over op de rechtspersoon PTT. Bij Besluit van de secretaris-generaal van het Departement van Binnenlandsche Zaken van 30 januari 1943 werd i.v.m. de oorlogsomstandigheden een beperking van het aantal nieuw te openen postrekeningen ingevoerd. Het internationale giroverkeer werd in mei 1940 direct gestaakt, met uitzondering van dat met Duitsland. Na de bevrijding werden de maatregelen van de Duitsers pas zeer geleidelijk aan teruggedraaid.  
+Bij Wet van 29 december 1928 was de PTT aangewezen als staatsbedrijf. Op grond van het Girobesluit 1934 en de Girowet 1936 had de Minister belast met de zorg voor de PTT een aantal (verregaande) regelgevende en toezichthoudende bevoegdheden, ook ten aanzien van de van overheidswege opgerichte Postcheque- Girodienst (PCGD). De rol van de Minister van Financiën beperkte zich voornamelijk tot die van mede-wetgever en mede-toezichthouder. De Tweede Wereldoorlog leidde tot een veranderde status van de PCGD. Bij Besluit van de secretarissen-generaal van Binnenlandse Zaken (deze was belast met de zorg voor het Staatsbedrijf der PTT) en van Financiën van 11 september 1940, VB 139/1940, echter werd aan de PCGD rechtspersoonlijkheid toegekend. Alle goederen, rechten en verplichtingen van de staat ‘de PCGD betreffende’, gingen daarbij over op de PCGD. De verhouding tot de PTT wijzigde niet. Wel gingen bij Verordening van 31 maart 1941, VB 67/1941, betreffende de organisatie van het Staatsbedrijf der PTT alle goederen, rechten en verplichtingen van de staat ‘de PTT betreffende’ over op de rechtspersoon PTT. Bij Besluit van de secretaris-generaal van het Departement van Binnenlandsche Zaken van 30 januari 1943 werd i.v.m. de oorlogsomstandigheden een beperking van het aantal nieuw te openen postrekeningen ingevoerd. Het internationale giroverkeer werd in mei 1940 direct gestaakt, met uitzondering van dat met Duitsland. Na de bevrijding werden de maatregelen van de Duitsers pas zeer geleidelijk aan teruggedraaid. 
 
 #### *3.6 Activiteiten van de Nederlandse regering in Londen (1940–1945)* 
 
-De Nederlandse Regering in Londen hield zich vooral bezig met de financiering van de terugkeer naar bevrijd gebied (als dat zou komen), het beheer van het Londense apparaat, het bewaren en beheren van Nederlands vermogen in het buitenland en de zorg (lees: financiering) voor hulpverlening. Een belangrijk aspect is geweest dat De Regeering de Besluiten A1 en A6 afkondigde. Het eerste regelde min of meer dat transacties/ handelingen vanaf het bezet gebied geen rechtskracht hadden en dat alle Nederlandse eigendommen buiten het bezette gebied in fiduciar bezit kwamen van de Staat. Ook het beheer van de eigendommen werd geregeld. De Nederlandse regering kon vanuit Londen niet veel toezicht uitoefenen op de banken in Nederland. De archieven van de Nederlandse regering in Londen zijn reeds overgedragen aan het Nationaal Archief.  
+De Nederlandse Regering in Londen hield zich vooral bezig met de financiering van de terugkeer naar bevrijd gebied (als dat zou komen), het beheer van het Londense apparaat, het bewaren en beheren van Nederlands vermogen in het buitenland en de zorg (lees: financiering) voor hulpverlening. Een belangrijk aspect is geweest dat De Regeering de Besluiten A1 en A6 afkondigde. Het eerste regelde min of meer dat transacties/ handelingen vanaf het bezet gebied geen rechtskracht hadden en dat alle Nederlandse eigendommen buiten het bezette gebied in fiduciar bezit kwamen van de Staat. Ook het beheer van de eigendommen werd geregeld. De Nederlandse regering kon vanuit Londen niet veel toezicht uitoefenen op de banken in Nederland. De archieven van de Nederlandse regering in Londen zijn reeds overgedragen aan het Nationaal Archief. 
 
 #### *3.7 De actoren op het beleidsterrein, voorzover hun selectielijsten in het BSD zijn opgenomen* 
 
@@ -197,18 +197,18 @@ Minister van Justitie Secretaris-Generaal van het Ministerie van Justitie Begele
 Minister van Landbouw, Natuurbeheer en Voedselkwaliteit VakMinister 
 ###Actoren die vallen onder het zorgdragerschap van de Minister van Verkeer en Waterstaat (V&W)
 
-Minister belast met de zorg voor het staatsbedrijf der PTT Commissie van advies betreffende de bemoeiingen van de openbare lichamen met betrekkking tot het betalingsverkeer zonder gereed geld Commissie van advies inzake de Rijkspostspaarbank Directeur-generaal der PTT PTT-Raad Raad van toezicht op de Rijkspostspaarbank VakMinister  
+Minister belast met de zorg voor het staatsbedrijf der PTT Commissie van advies betreffende de bemoeiingen van de openbare lichamen met betrekkking tot het betalingsverkeer zonder gereed geld Commissie van advies inzake de Rijkspostspaarbank Directeur-generaal der PTT PTT-Raad Raad van toezicht op de Rijkspostspaarbank VakMinister 
 
 ####4 Selectiedoelstelling
 
-De doelstelling van het Nationaal Archief bij de selectie van overheidsarchieven is dat de belangrijkste bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de rijksoverheid ten opzichte van haar omgeving, maar ook van de belangrijkste historisch-maatschappelijke gebeurtenissen en ontwikkelingen, voor zover deze zijn te reconstrueren uit overheidsarchieven. Deze selectiedoelstelling wordt in het BSD toegepast op het betreffende beleidsterrein.  
+De doelstelling van het Nationaal Archief bij de selectie van overheidsarchieven is dat de belangrijkste bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de rijksoverheid ten opzichte van haar omgeving, maar ook van de belangrijkste historisch-maatschappelijke gebeurtenissen en ontwikkelingen, voor zover deze zijn te reconstrueren uit overheidsarchieven. Deze selectiedoelstelling wordt in het BSD toegepast op het betreffende beleidsterrein. 
 
 ####5 Selectiecriteria
 
 Om de selectiedoelstelling te bereiken worden de handelingen in het BSD gewaardeerd aan de hand van de onderstaande *algemene* selectiecriteria. Deze criteria zijn in 1997 door het Convent van Rijksarchivarissen vastgesteld en geaccordeerd door PC DIN en KNHG. 
-###Handelingen die gewaardeerd worden met *B* (ewaren)
+###Handelingen die gewaardeerd worden met *B*(ewaren)
 
-1. Handelingen die betrekking hebben op *voorbereiding en bepaling van beleid* op hoofdlijnen  *Toelichting:*  Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op *evaluatie van beleid* op hoofdlijnen  *Toelichting:*  Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op *verantwoording* van beleid op hoofdlijnen aan andere actoren  *Toelichting:*  Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op *(her)inrichting van organisaties* belast met beleid op hoofdlijnen  *Toelichting:*  Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop *beleidsuitvoering* op hoofdlijnen plaatsvindt  *Toelichting:*  Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op *beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten  *Toelichting:*  Bijvoorbeeld in het geval de Ministeriele verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd.  
+1. Handelingen die betrekking hebben op *voorbereiding en bepaling van beleid* op hoofdlijnen  *Toelichting:*  Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op *evaluatie van beleid* op hoofdlijnen  *Toelichting:*  Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op *verantwoording* van beleid op hoofdlijnen aan andere actoren  *Toelichting:*  Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op *(her)inrichting van organisaties* belast met beleid op hoofdlijnen  *Toelichting:*  Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop *beleidsuitvoering* op hoofdlijnen plaatsvindt  *Toelichting:*  Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op *beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten  *Toelichting:*  Bijvoorbeeld in het geval de Ministeriele verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. 
 
 ####6 Leeswijzer
 
@@ -247,7 +247,7 @@ Hier achter staat het product vermeld waarin de handeling resulteert of zou moet
 Deze aanvullende informatie wordt slechts vermeld wanneer (een onderdeel van) het handelingenblok toelichting behoeft. 
 ###Waardering:
 
-Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn, zonodig aangevuld met een bewerkingsinstructie, bijvoorbeeld: ‘v 5 jaar na voltooiing project’. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium.Eventueel een nadere toelichting op de waardering. Bij het gebruiken van dit BSD voor de selectie van archieven verdient het aanbeveling een digitale versie van het RIO te raadplegen, aangezien hierin de producten bij de handelingen zijn beschreven.  
+Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn, zonodig aangevuld met een bewerkingsinstructie, bijvoorbeeld: ‘v 5 jaar na voltooiing project’. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium.Eventueel een nadere toelichting op de waardering. Bij het gebruiken van dit BSD voor de selectie van archieven verdient het aanbeveling een digitale versie van het RIO te raadplegen, aangezien hierin de producten bij de handelingen zijn beschreven. 
 
 ####7 Vaststellingsprocedure
 
@@ -275,7 +275,7 @@ Op 13 februari 2006 is het ontwerp-BSD door de Minister van Financiën, de Minis
 
 – de waardering van handeling 666 is gewijzigd van V, 5 jaar na datum in B5;  
 
-– de waardering van handeling 668 is gewijzigd van V, 10 jaar na datum in B5.   In het kader van de terinzagelegging heeft De Nederlandsche Bank een zienswijze naar voren gebracht, hetwelk behoudens enkele tekstuele correcties geen aanleiding heeft gegeven tot wijziging van de ontwerp-selectielijst.  
+– de waardering van handeling 668 is gewijzigd van V, 10 jaar na datum in B5.   In het kader van de terinzagelegging heeft De Nederlandsche Bank een zienswijze naar voren gebracht, hetwelk behoudens enkele tekstuele correcties geen aanleiding heeft gegeven tot wijziging van de ontwerp-selectielijst. 
 
 ####8 Actorenoverzicht
 
@@ -325,7 +325,7 @@ De Minister van Financiën kan tussen De Nederlandsche Bank en de representatiev
 De Minister van Financiën doet – met de Minister van Justitie – voordrachten voor de benoeming, schorsing en ontslag van het hoofd van het Meldpunt ongebruikelijke transacties (zie hierna). Verder bepaalt hij met de Minister van Justitie het budget en de sterkte van het Meldpunt. De Minister stelt, eveneens met de Minister van Justitie, de indicatoren vast aan de hand waarvan wordt beoordeeld of een transactie als ongebruikelijk moet worden aangemerkt. Ook doet hij voordrachten voor de benoeming van de leden van de Begeleidingscommissie en is hij vertegenwoordigd in de Begeleidingscommissie. 
 ###– financieel verkeer in buitengewone omstandigheden, 1940; 1944–....)
 
-De Minister van Financiën is belast met regelgevende en beschikkende bevoegdheden in het kader van het Bankenmoratorium 1940/1944. In geval van buitengewone omstandigheden is hij gerechtigd tot het treffen van regelingen ten aanzien van een groot aantal onderwerpen binnen de grenzen van de [Noodwet financieel verkeer](../../../../../../../../../wet/noodwet/financieel/verkeer/BWBR0003173/README.md). Ook verleent hij bijzondere of algemene vergunningen aan banken e.d. tot het verrichten van bepaalde handelingen.  
+De Minister van Financiën is belast met regelgevende en beschikkende bevoegdheden in het kader van het Bankenmoratorium 1940/1944. In geval van buitengewone omstandigheden is hij gerechtigd tot het treffen van regelingen ten aanzien van een groot aantal onderwerpen binnen de grenzen van de [Noodwet financieel verkeer](../../../../../../../../../wet/noodwet/financieel/verkeer/BWBR0003173/README.md). Ook verleent hij bijzondere of algemene vergunningen aan banken e.d. tot het verrichten van bepaalde handelingen. 
 
 #### *Secretaris-generaal van het Ministerie van Financiën (1940–1945)* 
 
@@ -344,7 +344,7 @@ De SG van Financiën stelde voorschriften vast voor de werkwijze van de Stichtin
 Samen met de SG van Binnenlandse Zaken kende de SG van Financiën bij Besluit van 11 september rechtspersoonlijkheid toe aan de PCGD. Ook verleende de SG toestemming aan de Commissie van Advies betreffende bemoeiingen van de openbare lichamen met betrekking tot het betalingsverkeer zonder gereed geld tot openbaarmaking van zijn adviezen. Ook verleende de SG vergunningen aan gemeenten die een girodienst wilden oprichten. 
 ###– financieel verkeer in buitengewone omstandigheden (1940)
 
-De SG van Financiën stelde regels op inzake de opheffing van het Bankenmoratorium 1940.  
+De SG van Financiën stelde regels op inzake de opheffing van het Bankenmoratorium 1940. 
 
 #### *Deel B Actoren waarvan de zorg voor het archief onder het zorgdragerschap van de Minister van Financiën valt* 
 
@@ -409,7 +409,7 @@ De Stichting Toezicht Effectenverkeer oefent bij delegatie de taken en bevoegdhe
 De Stichting Toezicht Effectenverkeer doet voordrachten voor de benoeming van leden van/is vertegenwoordigd in de Begeleidingscommissie voor het Meldpunt Ongebruikelijke Transacties. 
 ###Toezichthouder op het Nederlands Centraal Instituut voor Giraal Effectenverkeer (1977–....)
 
-Namens de Minister van Financiën oefent deze Toezichthouder toezicht uit op het Nederlands Centraal Instituut voor Giraal Effectenverkeer.  
+Namens de Minister van Financiën oefent deze Toezichthouder toezicht uit op het Nederlands Centraal Instituut voor Giraal Effectenverkeer. 
 
 #### *Deel C Overige actoren* 
 
@@ -563,7 +563,7 @@ De PTT-Raad diende de directeur-generaal van de PTT van advies met betrekking to
 Zoals de naam al aangeeft was de Raad van toezicht belast met het toezicht op de RPS. Ook adviseerde de Raad de Minister met betrekking tot de werkzaamheden van de Raad en het toezicht op de RPS, alsmede met betrekking tot de vaststelling van instructies. 
 ###VakMinister (1940–1955)
 
-Van 1940 tot 1955 was de vakMinister belast met het goedkeuren van door de directeur der PCGD verleende vrijstellingen van de betaling van rechten aan de houders van postrekeningen. Dit betrof rekeningen geopend ten behoeve van (de takken van) ’s rijksdienst (die onder hun Ministerie ressorteerden).  
+Van 1940 tot 1955 was de vakMinister belast met het goedkeuren van door de directeur der PCGD verleende vrijstellingen van de betaling van rechten aan de houders van postrekeningen. Dit betrof rekeningen geopend ten behoeve van (de takken van) ’s rijksdienst (die onder hun Ministerie ressorteerden). 
 
 ####Selectielijsten
 
@@ -606,7 +606,7 @@ Het voorbereiden van, deelnemen aan en rapporteren over bijeenkomsten van intra-
 Het voorbereiden, mede-vaststellen en coördineren van het beleid op het terrein van: a. de centrale bank; b. de regulering van en het toezicht op het kredietwezen/de kredietinstellingen; c. de regulering van en het toezicht op het effectenverkeer/de handel in effecten; d. de regulering van en het toezicht op het giroverkeer en de Rijkspostspaarbank; e. het voorkomen van witwassing van uit criminaliteit verkregen gelden; f. de regulering van en het toezicht op het financiële verkeer in buitengewone omstandigheden. Periode: 1940–.... Waardering: b (1) 
 ###(10) HANDELING
 
-Het vaststellen van de beleidsorganisatie op het terrein van: a. de centrale bank; b. de regulering van en het toezicht op het kredietwezen/de kredietinstellingen; c. de regulering van en het toezicht op het effectenverkeer/de handel in effecten; d. de regulering van en het toezicht op het giroverkeer en de Rijkspostspaarbank; e. het voorkomen van witwassing van uit criminaliteit verkregen gelden; f. de regulering van en het toezicht op het financiële verkeer in buitengewone omstandigheden. Periode: 1940–.... Waardering: b (4)  
+Het vaststellen van de beleidsorganisatie op het terrein van: a. de centrale bank; b. de regulering van en het toezicht op het kredietwezen/de kredietinstellingen; c. de regulering van en het toezicht op het effectenverkeer/de handel in effecten; d. de regulering van en het toezicht op het giroverkeer en de Rijkspostspaarbank; e. het voorkomen van witwassing van uit criminaliteit verkregen gelden; f. de regulering van en het toezicht op het financiële verkeer in buitengewone omstandigheden. Periode: 1940–.... Waardering: b (4) 
 
 #### *9.1.2 Regulering van en toezicht op de centrale bank (1940–)* 
 
@@ -729,7 +729,7 @@ Het voorbereiden van de vaststelling, wijziging en intrekking van Koninklijke Be
 Het vaststellen van beschikkingen tot aanwijzing van een waarnemend voorzitter van de Bankraad (die het voorzitterschap waarneemt als de koninklijke commissaris afwezig is). Periode: 1948–.... Grondslag: Bankwet 1948, art. 32.6. Waardering: v Termijn: 75 jaar na geboortedatum 
 ###(125) HANDELING
 
-Het – na raadpleging van de Bankraad – geven van aanwijzingen aan de directie van De Nederlandsche Bank in die gevallen, waarin de Minister zulks ter coördinatie van de monetaire en financiële politiek van de regering en de politiek van de Bank noodzakelijk acht; het voorbereiden van beslissingen met betrekking tot bezwaren van de directie van De Nederlandsche Bank tegen het opvolgen van die aanwijzingen en het publiceren van die bezwaren en de daarop genomen beslissingen in de Staatscourant. Periode: 1945–.... Grondslag: Besluit van 1 okt. 1945, Stb. F 204, art. 7.; Bankwet 1948, art. 26. Waardering: b (5)  
+Het – na raadpleging van de Bankraad – geven van aanwijzingen aan de directie van De Nederlandsche Bank in die gevallen, waarin de Minister zulks ter coördinatie van de monetaire en financiële politiek van de regering en de politiek van de Bank noodzakelijk acht; het voorbereiden van beslissingen met betrekking tot bezwaren van de directie van De Nederlandsche Bank tegen het opvolgen van die aanwijzingen en het publiceren van die bezwaren en de daarop genomen beslissingen in de Staatscourant. Periode: 1945–.... Grondslag: Besluit van 1 okt. 1945, Stb. F 204, art. 7.; Bankwet 1948, art. 26. Waardering: b (5) 
 
 #### *9.1.3 Regulering van en toezicht op het kredietwezen en de kredietinstellingen (1952–)* 
 
@@ -876,7 +876,7 @@ Het voorbereiden, vaststellen, wijzigen en intrekken van Ministeriële regelinge
 Het voorbereiden van de vaststelling, wijziging en intrekking van Koninklijke Besluiten waarbij wordt bepaald, dat op in een EG-lidstaat gevestigde ondernemingen die het bedrijf van kredietinstelling in Nederland willen uitoefenen door middel van een bijkantoor, of door het ter beschikking verkrijgen van al dan niet op termijn opvorderbare gelden door middel van het verrichten van diensten, in plaats van respectievelijk artikel 31 en 32 de artikelen 38 tot en met 44 en 82 van toepassing zijn, indien de lidstaat waarin die kredietinstellingen gevestigd zijn de Richtlijnen van de EG niet of onvoldoende nakomt. Periode: 1992–.... Grondslag: WTK 1992, art. 33. Waardering: b (5) 
 ###(281) HANDELING
 
-Het voorbereiden, vaststellen, wijzigen en intrekken van Ministeriële regelingen tot vaststelling, wijziging en bekendmaking van door De Nederlandsche Bank – in overeenstemming met de autoriteit die ingevolge de Wet toezicht verzekeringsbedrijf 1993 belast is met het toezicht op verzekeraars – geformuleerde voorschriften voor houders van verklaringen van geen bezwaar als bedoeld in artikel 24.1., indien die aan het hoofd staan van een groep, waartoe een of meer kredietinstellingen als bedoeld in artikel 1.1.a., en een of meer verzekeraars als bedoeld in artikel 1.1.h. van de Wet toezicht verzekeringsbedrijf 1993 behoren en waartoe tenminste een kredietinstelling behoort die een vergunning als bedoeld in artikel 6 heeft verkregen. Periode: 1992–.... Grondslag: WTK 1992, zoals gewijzigd bij Wet van 6 april 1994, Stb. 278, art. 25a.2.; art. 25a.3.; 25a.4. Waardering: b (5)  
+Het voorbereiden, vaststellen, wijzigen en intrekken van Ministeriële regelingen tot vaststelling, wijziging en bekendmaking van door De Nederlandsche Bank – in overeenstemming met de autoriteit die ingevolge de Wet toezicht verzekeringsbedrijf 1993 belast is met het toezicht op verzekeraars – geformuleerde voorschriften voor houders van verklaringen van geen bezwaar als bedoeld in artikel 24.1., indien die aan het hoofd staan van een groep, waartoe een of meer kredietinstellingen als bedoeld in artikel 1.1.a., en een of meer verzekeraars als bedoeld in artikel 1.1.h. van de Wet toezicht verzekeringsbedrijf 1993 behoren en waartoe tenminste een kredietinstelling behoort die een vergunning als bedoeld in artikel 6 heeft verkregen. Periode: 1992–.... Grondslag: WTK 1992, zoals gewijzigd bij Wet van 6 april 1994, Stb. 278, art. 25a.2.; art. 25a.3.; 25a.4. Waardering: b (5) 
 
 #### *9.1.4 Regulering van en toezicht op het effectenverkeer / de handel in effecten (1940–)* 
 
@@ -884,10 +884,10 @@ Het voorbereiden, vaststellen, wijzigen en intrekken van Ministeriële regelinge
 
 ###(282) HANDELING
 
-Het vaststellen van Ministeriële regelingen houdende voorschriften omtrent: 1. de opening en sluiting der beurzen; 2. de noteringen en de wijze, waarop ter beurze zaken worden gedaan; 3. de afwikkeling van prolongaties, voorschotten in rekening-courant of andere leningen, welke lopen van voor een door de Minister van Financiën, in verband met het intreden van buitengewone omstandigheden, aan te wijzen dag en waarvoor fondsen tot onderpand werden gegeven, onverschillig of die leningen al dan niet ter beurze werden gesloten; 4. de afwikkeling van andere zaken ter beurze gedaan, voor een door de Minister van Financiën, op den voet van het onder 3 bepaalde, aan te wijzen dag. Periode: 1940–1992 Grondslag: Beurswet 1914, art. 2.2. Waardering: b (5) 
+Het vaststellen van Ministeriële regelingen houdende voorschriften omtrent: 1. de opening en sluiting der beurzen; 2. de noteringen en de wijze, waarop ter beurze zaken worden gedaan; 3. de afwikkeling van prolongaties, voorschotten in rekening-courant of andere leningen, welke lopen van voor een door de Minister van Financiën, in verband met het intreden van buitengewone omstandigheden, aan te wijzen dag en waarvoor fondsen tot onderpand werden gegeven, onverschillig of die leningen al dan niet ter beurze werden gesloten; 4. de afwikkeling van andere zaken ter beurze gedaan, voor een door de Minister van Financiën, op den voet van het onder 3 bepaalde, aan te wijzen dag. Periode: 1940–1992  Grondslag: Beurswet 1914, art. 2.2. Waardering: b (5) 
 ###(283) HANDELING
 
-Het vaststellen van (Ministeriële) regelingen houdende aanwijzing – in verband met het intreden van buitengewone omstandigheden – van de dag waarop ‘bijzondere regels’ van kracht worden. Periode: 1940–1992 Grondslag: Beurswet 1914, art. 2.2. Waardering: b (6) 
+Het vaststellen van (Ministeriële) regelingen houdende aanwijzing – in verband met het intreden van buitengewone omstandigheden – van de dag waarop ‘bijzondere regels’ van kracht worden. Periode: 1940–1992  Grondslag: Beurswet 1914, art. 2.2. Waardering: b (6) 
 ###(284) HANDELING
 
 Het vooraf goedkeuren/beoordelen van wijzigingen in het Fondsenreglement van de Vereniging voor de Effectenhandel. N.B. Het Fondsenreglement is voor de eerste maal vastgesteld op 15 juni 1983. Zie ook Wet Toezicht Effectenverkeer. Vgl. art. 2 van de Beschikking van 24 januari 1989, Stcrt. 23, dat voorschrijft dat de Stichting Toezicht Effectenverkeer om advies gevraagd moet worden. Periode: 1983– Grondslag: Beschikking Beursnotering 1983, art. 1.2. Waardering: b (5) 
@@ -902,22 +902,22 @@ Het vaststellen van beschikkingen op voordrachten van de Vereniging voor de Effe
 Het vaststellen van beschikkingen op bezwaarschriften van belanghebbenden tegen besluiten van de Vereniging voor de Effectenhandel om fondsen te schorsen of te doen vervallen uit de officiële notering ter beurze van Amsterdam. Periode: 1983– Grondslag: Beschikking Beursnotering 1983, art. 7.2.; art. 7.3.; art. 7.4. Waardering: v Termijn: 10 jaar na beschikking 
 ###(289) HANDELING
 
-Het aanwijzen van fondsen, die in de prijscouranten van de beurzen/van de Optiebeurs moeten worden opgenomen en het publiceren van die aanwijzingen in de Staatscourant. Periode: 1940–1992 Grondslag: Beurswet 1914, art. 3. Waardering: v Termijn: 10 jaar na vervallen van de notering 
+Het aanwijzen van fondsen, die in de prijscouranten van de beurzen/van de Optiebeurs moeten worden opgenomen en het publiceren van die aanwijzingen in de Staatscourant. Periode: 1940–1992  Grondslag: Beurswet 1914, art. 3. Waardering: v Termijn: 10 jaar na vervallen van de notering 
 ###(290) HANDELING
 
 Het vaststellen van Ministeriële regelingen tot goedkeuring van aanwijzingen door de Commissie van Toezicht op de Optiebeurs/de Commissie van Toezicht op de Financiële Termijnmarkt van fondsen die in de prijscourant van de Optiebeurs/de Financiële Termijnmarkt worden opgenomen. Periode: 1978–1989 Grondslag: Beschikking van 20 februari 1978, Stcrt. 38, art. 1.2. Beschikking van 4 november 1987, Stcrt. 216, art. 1.2. Waardering: b (5) 
 ###(291) HANDELING
 
-Het vaststellen van (Ministeriële) regelingen tot vaststelling van de koersen, welke als maatstaf moeten dienen ter berekening van de waarde van fondsen, strekkende tot onderpand van niet afgeloste prolongaties, voorschotten in rekening-courant of voor andere leningen, welke lopen van voor de dag, bedoeld in artikel 2.2.3. Periode: 1940–1992 Grondslag: Beurswet 1914, art. 4.1. Opmerking: Artikel 2.2.3 betreft de afwikkeling van prolongaties, voorschotten in rekening-courant of andere leningen, welke van vóór 29 juli 1914 lopen (en waarvoor fondsen tot onderpand werden gegeven, onverschillig of die leningen al dan niet ten beurze werden gesloten). Waardering: b (5) 
+Het vaststellen van (Ministeriële) regelingen tot vaststelling van de koersen, welke als maatstaf moeten dienen ter berekening van de waarde van fondsen, strekkende tot onderpand van niet afgeloste prolongaties, voorschotten in rekening-courant of voor andere leningen, welke lopen van voor de dag, bedoeld in artikel 2.2.3. Periode: 1940–1992  Grondslag: Beurswet 1914, art. 4.1. Opmerking: Artikel 2.2.3 betreft de afwikkeling van prolongaties, voorschotten in rekening-courant of andere leningen, welke van vóór 29 juli 1914 lopen (en waarvoor fondsen tot onderpand werden gegeven, onverschillig of die leningen al dan niet ten beurze werden gesloten). Waardering: b (5) 
 ###(292) HANDELING
 
-Het vaststellen van (Ministeriële) regelingen tot vaststelling van de termijn, waarbinnen de geldnemer, wiens onderpand niet meer het overeenkomstige surplus oplevert, verplicht is dit surplus aan te vullen, indien de notering van een fonds lager is dan krachtens de artikel 4.1. bepaalde koers. Periode: 1940–1992 Grondslag: Beurswet 1914, art. 4.2. Waardering: b (5) 
+Het vaststellen van (Ministeriële) regelingen tot vaststelling van de termijn, waarbinnen de geldnemer, wiens onderpand niet meer het overeenkomstige surplus oplevert, verplicht is dit surplus aan te vullen, indien de notering van een fonds lager is dan krachtens de artikel 4.1. bepaalde koers. Periode: 1940–1992  Grondslag: Beurswet 1914, art. 4.2. Waardering: b (5) 
 ###(293) HANDELING
 
-Het vaststellen van (Ministeriële) regelingen tot vaststelling van regels welke pandhouders in acht moeten nemen, wanneer zij zonder toestemming van de pandgever fondsen willen verkopen, welke strekken tot onderpand voor verbintenissen als bedoeld in artikel 4.1. Periode: 1940–1992 Grondslag: Beurswet 1914, art. 5.1. Waardering: b (5) 
+Het vaststellen van (Ministeriële) regelingen tot vaststelling van regels welke pandhouders in acht moeten nemen, wanneer zij zonder toestemming van de pandgever fondsen willen verkopen, welke strekken tot onderpand voor verbintenissen als bedoeld in artikel 4.1. Periode: 1940–1992  Grondslag: Beurswet 1914, art. 5.1. Waardering: b (5) 
 ###(294) HANDELING
 
-Het vaststellen van voordrachten voor de benoeming (door Ons) van leden van de Commissie van Advies in Beurszaken. Periode: 1940–1992 Grondslag: Beurswet 1914, art. 8. Opmerking: Zie voor belangrijke personen het BSD P-direkt (handeling 27) Waardering: v Termijn: 5 jaar na datum 
+Het vaststellen van voordrachten voor de benoeming (door Ons) van leden van de Commissie van Advies in Beurszaken. Periode: 1940–1992  Grondslag: Beurswet 1914, art. 8. Opmerking: Zie voor belangrijke personen het BSD P-direkt (handeling 27) Waardering: v Termijn: 5 jaar na datum 
 ###(296) HANDELING
 
 Het vaststellen van besluiten tot overdracht van bevoegdheden uit hoofde van de Beurswet 1914 of uit kracht dier wet gegeven voorschriften aan de Commissie van Bijstand voor Uitvoering van de Beurswet 1914. Periode: 1940–1947 Grondslag: Beursvoorschriften 1940, art. 1.5. Waardering: b (4) 
@@ -1058,7 +1058,7 @@ Het – na raadpleging van het bestuur van de Financiële Termijnmarkt – vasts
 Het vaststellen van Ministeriële regelingen tot goedkeuring van het reglement tot regeling van de werkzaamheden van de Commissie van Toezicht op de Financiële Termijnmarkt en van eventuele wijzigingen daarin. Periode: 1987–1989 Grondslag: Beschikking van 4 november 1987, Stcrt. 216, art. 5. Waardering: b (4) 
 ###(388) HANDELING
 
-Het vaststellen van het bedrag van de jaarlijkse onkosten van de Commissie van Toezicht op de Financiële Termijnmarkt en het verhalen van dat bedrag op de Financiële Termijnmarkt. Periode: 1987–1989 Grondslag: Beschikking van 4 november 1987, Stcrt. 216, art. 8.3. Waardering: v Termijn: 10jaar na vaststelling  
+Het vaststellen van het bedrag van de jaarlijkse onkosten van de Commissie van Toezicht op de Financiële Termijnmarkt en het verhalen van dat bedrag op de Financiële Termijnmarkt. Periode: 1987–1989 Grondslag: Beschikking van 4 november 1987, Stcrt. 216, art. 8.3. Waardering: v Termijn: 10jaar na vaststelling 
 
 #### *9.1.4.2 Toezicht op de handel in effecten buiten de beurs om (1985-1990/1992)* 
 
@@ -1094,7 +1094,7 @@ Het verlenen/intrekken van vrijstellingen dan wel ontheffingen van het verbod om
 Het systematisch vastleggen, opslaan, verwijderen en ter beschikking stellen van gegevens ten behoeve van de uitvoering van het toezicht op grond van de Wet effectenhandel en de naleving van de Wet effectenhandel. Periode: 1986– Grondslag: Regeling van 21 april 1986, Stcrt. 79, art. 3- 11. Opmerking: Het komt er op neer dat er lijsten van bonafide en ‘zwarte’ firma’s worden aangelegd. Het gaat om de registratie van firma’s die hun diensten aanbieden aan particulieren mbt effectentransacties. De gegevens zullen dan in een soort register of vergunningstoekenning zijn vastgelegd. Het betreft dan gegevens als de toekenning van de vergunning, naam en andere registraties van die firma, onderzoekgegevens naar die firma’s en het uitwisselen van inlichtingen met bijv. Justitie en FIOD. Waardering: b 5 (basisregistratie/geautomatiseerd bestand) 
 ###(401) HANDELING
 
-Het vaststellen van beschikkingen op bezwaarschriften van geregistreerden die verzet aantekenen tegen de weigering van de houder van de registratie om verbetering of verwijdering te bewerkstelligen van gegevens die naar het oordeel van die geregistreerden onjuist zijn of ten onrechte in de registratie zijn opgenomen. Periode: 1986–(?) Grondslag: Regeling van 21 april 1986, Stcrt. 79, art. 10.3. Waardering: v Termijn: 10 jaar na beschikking  
+Het vaststellen van beschikkingen op bezwaarschriften van geregistreerden die verzet aantekenen tegen de weigering van de houder van de registratie om verbetering of verwijdering te bewerkstelligen van gegevens die naar het oordeel van die geregistreerden onjuist zijn of ten onrechte in de registratie zijn opgenomen. Periode: 1986–(?) Grondslag: Regeling van 21 april 1986, Stcrt. 79, art. 10.3. Waardering: v Termijn: 10 jaar na beschikking 
 
 #### *9.1.4.3 Toezicht op de beleggingsinstellingen (1990–)* 
 
@@ -1133,7 +1133,7 @@ Het (gedeeltelijk) publiceren van het jaarverslag van de toezichthoudende instel
 Het weigeren of intrekken van vergunningen, dan wel het stellen van beperkingen of het verbinden van voorschriften aan vergunningen, dan wel het wijzigen van eerder gestelde beperkingen en voorschriften, indien a) de beleggingsinstelling haar zetel heeft of haar beheerder zijn zetel heeft in een staat, niet zijnde een lid-staat, waar Nederlandse financiële instellingen niet worden toegelaten of aan onredelijke beperkingen worden onderworpen, of b) een natuurlijke persoon of rechtspersoon met de nationaliteit van een onder a bedoelde staat rechtstreeks of middellijk overwegende zeggenschap kan uitoefenen in de beleggingsinstelling. Periode: 1990–.... Grondslag: WTB, art. 30. Waardering: b (5) 
 ###(459) HANDELING
 
-Het vaststellen van Ministeriële regelingen tot aanwijzing van een organisatie van beleggingsinstellingen of van bewaarders als representatieve organisatie met betrekking tot de uitvoering van deze wet. Periode: 1990–.... Grondslag: WTB, art. 32. Waardering: b (5)  
+Het vaststellen van Ministeriële regelingen tot aanwijzing van een organisatie van beleggingsinstellingen of van bewaarders als representatieve organisatie met betrekking tot de uitvoering van deze wet. Periode: 1990–.... Grondslag: WTB, art. 32. Waardering: b (5) 
 
 #### *9.1.4.4 Toezicht op het effectenverkeer (1992–)* 
 
@@ -1214,7 +1214,7 @@ Het vaststellen van Ministeriële regelingen inzake de kosten die door de Minist
 Het vaststellen van Ministeriële regelingen (?) inzake de onderverdeling en het door een accountant doen controleren van de begroting van de Stichting Toezicht Effectenverkeer. Periode: 1992–.... Grondslag: Regeling van 25 maart 1992, Stcrt. 63, art. 2.2.; art. 2.3. Waardering: b (5) 
 ###(530) HANDELING
 
-Het weigeren of intrekken van vergunningen, dan wel het stellen van beperkingen of het verbinden van voorschriften aan vergunningen, dan wel het wijzigen van eerder gegeven beperkingen en voorschriften, indien a) de effectenhandelaar of vermogensbeheerder zijn zetel heeft in een staat, niet zijnde een lidstaat van de EG, waar Nederlandse financiële instellingen niet worden toegelaten of aan onredelijke beperkingen worden onderworpen; b) een natuurlijke persoon of rechtspersoon met de nationaliteit van een onder a bedoelde staat rechtstreeks of middellijk overwegende zeggenschap kan uitoefenen in het bedrijf van de effectenbemiddelaar of vermogensbeheerder. Periode: 1992–.... Grondslag: WTE, art. 31. Waardering: b (5)  
+Het weigeren of intrekken van vergunningen, dan wel het stellen van beperkingen of het verbinden van voorschriften aan vergunningen, dan wel het wijzigen van eerder gegeven beperkingen en voorschriften, indien a) de effectenhandelaar of vermogensbeheerder zijn zetel heeft in een staat, niet zijnde een lidstaat van de EG, waar Nederlandse financiële instellingen niet worden toegelaten of aan onredelijke beperkingen worden onderworpen; b) een natuurlijke persoon of rechtspersoon met de nationaliteit van een onder a bedoelde staat rechtstreeks of middellijk overwegende zeggenschap kan uitoefenen in het bedrijf van de effectenbemiddelaar of vermogensbeheerder. Periode: 1992–.... Grondslag: WTE, art. 31. Waardering: b (5) 
 
 #### *9.1.4.5 Melding van zeggenschap in ter beurze genoteerde vennootschappen (1992–)* 
 
@@ -1238,7 +1238,7 @@ Het vaststellen van Ministeriële regelingen inzake het verhaal van de kosten vo
 Het beoordelen van de begrotingen van inkomsten en uitgaven van de Stichting Toezicht Effectenverkeer, alsmede van de staten van werkelijke inkomsten en uitgaven. Periode: 1992–.... Grondslag: Regeling van 16 januari 1992, art. 2.1.; art. 7.; art. 8. Waardering: v Termijn: 10 jaar na goedkeuring 
 ###(551) HANDELING
 
-Het vaststellen van regels met betrekking tot de onderverdeling van de begroting van de Stichting Toezicht Effectenverkeer; het opleggen van de verplichting om die begroting voor te leggen aan een externe accountant. Periode: 1992–.... Grondslag: Regeling van 16 januari 1992, art. 2.2.; art. 2.3. Waardering: b (5)  
+Het vaststellen van regels met betrekking tot de onderverdeling van de begroting van de Stichting Toezicht Effectenverkeer; het opleggen van de verplichting om die begroting voor te leggen aan een externe accountant. Periode: 1992–.... Grondslag: Regeling van 16 januari 1992, art. 2.2.; art. 2.3. Waardering: b (5) 
 
 #### *9.1.4.6 Effectenvernieuwing (1941–)* 
 
@@ -1256,7 +1256,7 @@ Het vaststellen van (Ministeriële) regelingen tot goedkeuring van de voorwaarde
 Het vaststellen van (Ministeriële) regelingen tot aanwijzing van een effectenprijscourant, waarin het Effectenvernieuwingsbureau de aanvraag tot vervanging van effecten bekend moet maken, wanneer de identiteit van de te vervangen effecten is komen vast te staan, doch niet is voldaan aan de in artikel 9 gestelde vereisten. Periode: 1965–.... Grondslag: Effectenvernieuwingswet, art. 14. Waardering: v Termijn: 10 jaar na intrekking/ vervallen (565) HANDELING Het vaststellen van (Ministeriële) regelingen tot aanwijzing van een effectenprijscourant, waarin het Effectenvernieuwingsbureau de vordering van een duplicaat of vervangende waarden bekend moet maken. Periode: 1965–.... Grondslag: Effectenvernieuwingswet, art. 17.2. Waardering: v Termijn: 10 jaar na intrekking/ vervallen 
 ###(567) HANDELING
 
-Het voeren van overleg met de Stichting Effectenvernieuwing over de voorwaarden die gesteld moeten worden bij de overdracht van premies van meer dan fl. 1000 die zijn gevallen op door de Stichting in bewaring gehouden duplicaten van effecten (vgl. art. 19 van de Effectenvernieuwingswet). Periode: 1966–.... Grondslag: Beschikking van 20 december 1965, art. 8.2. Waardering: V 10 jaar na vervallen van de voorwaarden  
+Het voeren van overleg met de Stichting Effectenvernieuwing over de voorwaarden die gesteld moeten worden bij de overdracht van premies van meer dan fl. 1000 die zijn gevallen op door de Stichting in bewaring gehouden duplicaten van effecten (vgl. art. 19 van de Effectenvernieuwingswet). Periode: 1966–.... Grondslag: Beschikking van 20 december 1965, art. 8.2. Waardering: V 10 jaar na vervallen van de voorwaarden 
 
 #### *9.1.4.7 Giraal effectenverkeer (1977–)* 
 
@@ -1295,7 +1295,7 @@ Het vaststellen van Ministeriële regelingen houdende nadere regels met betrekki
 Het vaststellen van beschikkingen, waarin bij het centrale instituut als bedoeld in de Wet giraal effectenverkeer aangesloten instellingen voor bepaalde soorten effecten worden vrijgesteld van de verplichting om terstond kennis te geven van een door haar verrichte bijschrijving aan degene op wiens naam de bijschrijving in het verzameldepot heeft plaatsgevonden. Periode: 1977–.... Grondslag: Wet giraal effectenverkeer, art. 25.3. Waardering: v Termijn: 10 jaar na beschikking 
 ###(583) HANDELING
 
-Het vaststellen van Ministeriële regelingen tot aanwijzing – op verzoek van het centrale instituut als bedoeld in de Wet giraal effectenverkeer – van buitenlandse instellingen waarbij het centrale instituut tegoeden mag aanhouden. Periode: 1977–.... Grondslag: Wet giraal effectenverkeer, art. 35.b. Waardering: b (5)  
+Het vaststellen van Ministeriële regelingen tot aanwijzing – op verzoek van het centrale instituut als bedoeld in de Wet giraal effectenverkeer – van buitenlandse instellingen waarbij het centrale instituut tegoeden mag aanhouden. Periode: 1977–.... Grondslag: Wet giraal effectenverkeer, art. 35.b. Waardering: b (5) 
 
 #### *9.1.5 Regulering van en toezicht op het giroverkeer / de Rijkspostspaarbank (1940–1985)* 
 
@@ -1384,7 +1384,7 @@ Het overschrijven van het bedrag der kasreserve(s) op een rekening Kasreserve PC
 Het ter beschikking stellen van bedragen ter belegging aan de directeur van de Rijkspostspaarbank door overschrijving van de rekening van ’s Rijks Schatkist bij De Nederlandsche Bank op de bij deze bank aangehouden beleggingsrekening (PCGD). Periode: 1957–(1985) Grondslag: Beschikking van 8/17 april 1957, Stcrt. 81, art. 3.2. Waardering: v Termijn: 10 jaar na beschikbaar stelling 
 ###(658) HANDELING
 
-Het beoordelen van wijzigingen in de bedragen van de kasreserves die door de PCGD bij De Nederlandsche Bank moeten worden aangehouden. Periode: 1975 – (1985) Grondslag: Beschikking van 8/17 april 1957, Stcrt. 81, art. 2.1. (1975) Waardering: v Termijn: 10 jaar na datum  
+Het beoordelen van wijzigingen in de bedragen van de kasreserves die door de PCGD bij De Nederlandsche Bank moeten worden aangehouden. Periode: 1975 – (1985) Grondslag: Beschikking van 8/17 april 1957, Stcrt. 81, art. 2.1. (1975) Waardering: v Termijn: 10 jaar na datum 
 
 #### *9.1.5.2 Rijkspostspaarbank* 
 
@@ -1450,7 +1450,7 @@ Het vaststellen van regelingen met betrekking tot het totaal der uitstaande kred
 Het voorbereiden van de vaststelling, wijziging en intrekking van algemene maatregelen van bestuur tot vaststelling van nadere regels inzake de beperking van het vorderingsrecht bij het openen van een spaarbankrekening op naam van een ander (door het stellen van een tijdsbepaling voor de uitoefening van dat vorderingsrecht). Periode: 1955–1985 Grondslag: Postspaarbankwet 1954, art. 7.5. Waardering: b (5) 
 ###(716) HANDELING
 
-Het voorbereiden van de vaststelling, wijziging en intrekking van algemene maatregelen van bestuur tot vaststelling van de maximale omvang van het reservefonds van de RPS. Periode: 1955–1985 Grondslag: Postspaarbankwet 1954, art. 13.1. Waardering: b (5)  
+Het voorbereiden van de vaststelling, wijziging en intrekking van algemene maatregelen van bestuur tot vaststelling van de maximale omvang van het reservefonds van de RPS. Periode: 1955–1985 Grondslag: Postspaarbankwet 1954, art. 13.1. Waardering: b (5) 
 
 #### *9.1.5.3 Postbank* 
 
@@ -1480,7 +1480,7 @@ Het vaststellen van waarborgen inzake de uitbetaling door de Postbank N.V. van t
 Het voorbereiden, vaststellen, wijzigen en intrekken van wetten waarin goedkeuring wordt verleend tot het wijzigen van de statuten van de Postbank met betrekking tot het doel en de werkzaamheden van de bank. N.B. Goedkeuring van de statutenwijziging kan ook stilzwijgend worden verleend. Uitdrukkelijke goedkeuring geschiedt per wet. Periode: 1986–.... Grondslag: Postbankwet, art. 11. Waardering: b (1) 
 ###(732) HANDELING
 
-Het namens de Staat der Nederlanden deelnemen in het kapitaal van de naamloze vennootschap die in het kader van het samengaan van de NMB NV. en de Postbank NV. houdster zal zijn van de aandelen in de Postbank NV. en van de aandelen in de NMB NV. dan wel van de aandelen in de vennootschap waarin de activa en passiva van de NMB NV. zullen worden ondergebracht. Periode: 1989–.... Grondslag: Wet van 20 april 1989, Stb. 111, art. 1. Waardering: b (5)  
+Het namens de Staat der Nederlanden deelnemen in het kapitaal van de naamloze vennootschap die in het kader van het samengaan van de NMB NV. en de Postbank NV. houdster zal zijn van de aandelen in de Postbank NV. en van de aandelen in de NMB NV. dan wel van de aandelen in de vennootschap waarin de activa en passiva van de NMB NV. zullen worden ondergebracht. Periode: 1989–.... Grondslag: Wet van 20 april 1989, Stb. 111, art. 1. Waardering: b (5) 
 
 #### *9.1.6 Anti-witwas wetgeving (1985-)* 
 
@@ -1491,7 +1491,7 @@ Het namens de Staat der Nederlanden deelnemen in het kapitaal van de naamloze ve
 Het vaststellen, wijzigen en intrekken van Ministeriële regelingen tot aanwijzing van representatieve organisaties in de zin van artikel 1 van de Wet inzake spaarbewijzen. Periode: 1985–.... Grondslag: Wet inzake spaarbewijzen, art. 1.d. Waardering: b (4) 
 ###(735) HANDELING
 
-Het voorbereiden van de vaststelling, wijziging en intrekking van algemene maatregelen van bestuur tot: a. algemeen verbindendverklaring van regelingen omtrent de uitgifte, de verhandeling en de uitbetaling tegen inlevering van spaarbewijzen voor ondernemingen en instellingen die spaarbewijzen uitgeven, wanneer over die regelingen overeenstemming is bereikt tussen De Nederlandsche Bank en de representatieve organisaties; b. vaststelling van nadere regels met betrekking tot de uitvoering van algemeen verbindend verklaarde regelingen omtrent de uitgifte, de verhandeling en de uitbetaling tegen inlevering van spaarbewijzen. Periode: 1985–.... Grondslag: Wet inzake spaarbewijzen, art. 2. Waardering: b (5)  
+Het voorbereiden van de vaststelling, wijziging en intrekking van algemene maatregelen van bestuur tot: a. algemeen verbindendverklaring van regelingen omtrent de uitgifte, de verhandeling en de uitbetaling tegen inlevering van spaarbewijzen voor ondernemingen en instellingen die spaarbewijzen uitgeven, wanneer over die regelingen overeenstemming is bereikt tussen De Nederlandsche Bank en de representatieve organisaties; b. vaststelling van nadere regels met betrekking tot de uitvoering van algemeen verbindend verklaarde regelingen omtrent de uitgifte, de verhandeling en de uitbetaling tegen inlevering van spaarbewijzen. Periode: 1985–.... Grondslag: Wet inzake spaarbewijzen, art. 2. Waardering: b (5) 
 
 #### *9.1.6.2 Identificatie bij financiële dienstverlening* 
 
@@ -1533,7 +1533,7 @@ Het vaststellen van Ministeriële regelingen tot aanwijzing van niet lidstaten v
 Het vaststellen van Ministeriële regelingen tot aanwijzing van niet lidstaten van de EG, welke in hun wetgeving zodanige bepalingen hebben opgenomen inzake de identiteitsvaststelling van natuurlijke personen, die namens een cliënt of namens een vertegenwoordiger van een cliënt optreden in financiële transacties, dat artikel 5.3. en 5.4. buiten toepassing kunnen blijven, indien die natuurlijke personen instellingen zijn dan wel optreden namens financiële instellingen waarop een vrijstelling als bedoeld in artikel 2.4., of een ontheffing als bedoeld in artikel 2.5. van toepassing is. Periode: 1994–.... Grondslag: Wet identificatie 1993, art. 5.5. Waardering: b (5) 
 ###(750) HANDELING
 
-Het – onder voorwaarden – verlenen van vrijstellingen en – op verzoek – ontheffingen van de verplichting tot vaststelling van de identiteit van natuurlijke personen die namens een cliënt of een vertegenwoordiger van een cliënt optreden in financiële transacties, dan wel van de verplichting tot vaststelling van de identiteit van de vertegenwoordiger van de cliënt. Periode: 1994–.... Grondslag: Wet identificatie 1993, art. 5.6. Waardering: vrijstellingen: b (4) ontheffingen: v, 10 jaar na vervallen van de ontheffing  
+Het – onder voorwaarden – verlenen van vrijstellingen en – op verzoek – ontheffingen van de verplichting tot vaststelling van de identiteit van natuurlijke personen die namens een cliënt of een vertegenwoordiger van een cliënt optreden in financiële transacties, dan wel van de verplichting tot vaststelling van de identiteit van de vertegenwoordiger van de cliënt. Periode: 1994–.... Grondslag: Wet identificatie 1993, art. 5.6. Waardering: vrijstellingen: b (4) ontheffingen: v, 10 jaar na vervallen van de ontheffing 
 
 #### *9.1.6.3 Melding van ongebruikelijke financiële transacties* 
 
@@ -1557,7 +1557,7 @@ Het voorbereiden van de vaststelling, intrekking en wijziging van algemene maatr
 Het opstellen van voordrachten voor de benoeming van de leden van de Begeleidingscommissie voor het Meldpunt Ongebruikelijke Transacties. Periode: 1994–.... Grondslag: Wet melding ongebruikelijke transacties, art. 16.1. Waardering: v Termijn: 2 jaar na voordracht 
 ###(845) HANDELING
 
-Het instellen van de projectorganisatie automatisering Meldpunt Ongebruikelijke transacties. Periode: 1994 – Waardering: b (4)  
+Het instellen van de projectorganisatie automatisering Meldpunt Ongebruikelijke transacties. Periode: 1994 – Waardering: b (4) 
 
 #### *9.1.6.4 Toezicht op wisselkantoren* 
 
@@ -1575,7 +1575,7 @@ Het – onder voorwaarden en voorschriften – verlenen van vrijstelling of – 
 Het vaststellen van Ministeriële regelingen waarin wordt bepaald in welke gevallen ontheffing van het verbod om als wisselkantoor werkzaam te zijn namens onze Ministers kan worden verleend door De Nederlandsche Bank. Periode: 1995–.... Grondslag: Wet inzake de wisselkantoren, art. 5.2. Waardering: b (5) 
 ###(783) HANDELING
 
-Het vaststellen van Ministeriële regelingen tot vaststelling van de hoogte van het bedrag dat een wisselkantoor verschuldigd is terzake van een verzoek tot inschrijving, alsmede tot vaststelling van de hoogte van het bedrag dat een wisselkantoor jaarlijks aan De Nederlandsche Bank verschuldigd is terzake van de dekking van de kosten verbonden aan het toezicht. Periode: 1995–.... Grondslag: Wet inzake de wisselkantoren, art. 8. Waardering: b (5)  
+Het vaststellen van Ministeriële regelingen tot vaststelling van de hoogte van het bedrag dat een wisselkantoor verschuldigd is terzake van een verzoek tot inschrijving, alsmede tot vaststelling van de hoogte van het bedrag dat een wisselkantoor jaarlijks aan De Nederlandsche Bank verschuldigd is terzake van de dekking van de kosten verbonden aan het toezicht. Periode: 1995–.... Grondslag: Wet inzake de wisselkantoren, art. 8. Waardering: b (5) 
 
 #### *9.1.7 Financieel verkeer in buitengewone omstandigheden (1940–)* 
 
@@ -1701,7 +1701,7 @@ Het voorbereiden van Ministeriële regelingen houdende vaststelling van de manie
 Het voorbereiden van algemene maatregelen van bestuur waarbij de autoriteiten worden aangewezen, die onder daarbij te stellen regelen in enig gebied de daarbij aangewezen bevoegdheden, welke in de wet aan de Minister van Financiën worden toegekend, uitoefenen zolang de verbinding tussen dat gebied en de Minister van Financiën is verbroken. Periode: 1978– Grondslag: Noodwet financieel verkeer, art. 34. Voorstel: b (6) 
 ###(843) HANDELING
 
-Het voorbereiden van algemene maatregelen van bestuur waarbij regels worden gesteld terzake van betalingen door het Rijk in enig gebied, zolang de verbinding tussen dat gebied en de Minister van Financiën is verbroken. Periode: 1978– Grondslag: Noodwet financieel verkeer, art. 35. Voorstel: b (6)  
+Het voorbereiden van algemene maatregelen van bestuur waarbij regels worden gesteld terzake van betalingen door het Rijk in enig gebied, zolang de verbinding tussen dat gebied en de Minister van Financiën is verbroken. Periode: 1978– Grondslag: Noodwet financieel verkeer, art. 35. Voorstel: b (6) 
 
 ####10 Deel B Handelingen van actoren waarvan het archief onder het zorgdragerschap van de Minister van Financiën valt
 
@@ -1715,43 +1715,43 @@ Het verlenen van vergunningen voor de aankoop en verkoop van effecten. Periode: 
 Het verlenen van vergunningen voor de aankoop en verkoop van effecten in de gevallen waarin deze vergunningen zijn voorgeschreven. Periode: 1947–1986 Grondslag: Beschikking Beursverkeer 1947, art. 2. Waardering: b (6) Opmerking: De Beschikking Beursverkeer werd in 1986 ingetrokken (Stcrt. 1986/197) 
 ###(561) HANDELING
 
-Het verlenen van goedkeuring tot uitoefening van zijn werkzaamheden aan het Effectenvernieuwingsbureau. Periode: 1944– Grondslag: Besluit van 2 november 1945, Stb. F 249, art. 1. N.B. Met terugwerkende kracht tot inwerkingtreding van het Besluit Bezettingsmaatregelen (Stb. E 93). Waardering: b (6)  
+Het verlenen van goedkeuring tot uitoefening van zijn werkzaamheden aan het Effectenvernieuwingsbureau. Periode: 1944– Grondslag: Besluit van 2 november 1945, Stb. F 249, art. 1. N.B. Met terugwerkende kracht tot inwerkingtreding van het Besluit Bezettingsmaatregelen (Stb. E 93). Waardering: b (6) 
 
 #### *10.2 Agentschap van het Ministerie van Financiën* 
 
 ###(566) HANDELING
 
-Het beheren van door de Stichting Effectenvernieuwing in beheer gegeven duplicaten van effecten waaraan een kans op het winnen van een premie is verbonden (vgl. art. 19 van de Effectenvernieuwingswet 1965). Periode: 1966–.... Grondslag: Beschikking van 20 december 1965, art. 8.1. Waardering: v Termijn: 10 jaar na beëindiging van het beheer  
+Het beheren van door de Stichting Effectenvernieuwing in beheer gegeven duplicaten van effecten waaraan een kans op het winnen van een premie is verbonden (vgl. art. 19 van de Effectenvernieuwingswet 1965). Periode: 1966–.... Grondslag: Beschikking van 20 december 1965, art. 8.1. Waardering: v Termijn: 10 jaar na beëindiging van het beheer 
 
 #### *10.3 College van Advies inzake de uitvoering van de Collectieve Garantieregeling WTK* 
 
 ###(252) HANDELING
 
-Het adviseren van De Nederlandsche Bank in haar rol van uitvoerend orgaan van de Garantieregeling. Periode: 1979–.... Grondslag: Garantieregeling 1978, div. artn.; Garantieregeling 1986, div. artn. Waardering: b (5)  
+Het adviseren van De Nederlandsche Bank in haar rol van uitvoerend orgaan van de Garantieregeling. Periode: 1979–.... Grondslag: Garantieregeling 1978, div. artn.; Garantieregeling 1986, div. artn. Waardering: b (5) 
 
 #### *10.4 Commissie De Vries* 
 
 ###(108) Handeling:
 
-Het adviseren van de Minister van Financiën nopens versterking van het gemeenschapselement in het statuut van De Nederlandsche Bank. Actor: Commissie De Vries Periode: 1945– Grondslag: Besluit 1 nov. 1945, Stb. (?), art. (?) Produkt(en): Advies Waardering: b (5)  
+Het adviseren van de Minister van Financiën nopens versterking van het gemeenschapselement in het statuut van De Nederlandsche Bank. Actor: Commissie De Vries Periode: 1945– Grondslag: Besluit 1 nov. 1945, Stb. (?), art. (?) Produkt(en): Advies Waardering: b (5) 
 
 ####10.5 Commissie Giraal Effectenverkeer (Commissie Ras)
 
 ###(584) HANDELING
 
-Het adviseren van de Minister van Justitie inzake de wenselijkheid van een wettelijke voorziening voor het geval van vervanging van de materiële levering van effecten door een ander stelsel van effectenverkeer en de mogelijke voorbereiding van een dgl. voorziening. Periode: 1970–1974 Grondslag: Beschikking van de Minister van Justitie van 19 januari 1970, Stcrt. (?) Waardering: b (1)  
+Het adviseren van de Minister van Justitie inzake de wenselijkheid van een wettelijke voorziening voor het geval van vervanging van de materiële levering van effecten door een ander stelsel van effectenverkeer en de mogelijke voorbereiding van een dgl. voorziening. Periode: 1970–1974 Grondslag: Beschikking van de Minister van Justitie van 19 januari 1970, Stcrt. (?) Waardering: b (1) 
 
 #### *10.6 Commissie Giraal Geldverkeer* 
 
 ###(659) HANDELING
 
-Het adviseren van de Minister van Financiën inzake de mogelijkheid van aanpassing van de girale netwerken van de posterijen, van de stad Amsterdam en van de banken. Periode: 1946– Grondslag: Besluit van (?) Waardering: b (5)  
+Het adviseren van de Minister van Financiën inzake de mogelijkheid van aanpassing van de girale netwerken van de posterijen, van de stad Amsterdam en van de banken. Periode: 1946– Grondslag: Besluit van (?) Waardering: b (5) 
 
 #### *10.7 Commissie van Advies in Beurszaken* 
 
 ###(295) HANDELING
 
-Het adviseren van de Minister van Financiën inzake de uitvoering van de Beurswet 1914. Periode: 1940–1992 Grondslag: Beurswet 1914, art. 8. Waardering: b (1) 
+Het adviseren van de Minister van Financiën inzake de uitvoering van de Beurswet 1914. Periode: 1940–1992  Grondslag: Beurswet 1914, art. 8. Waardering: b (1) 
 ###(297) HANDELING
 
 Het adviseren van de Minister van Financiën inzake besluiten tot heropening van beurzen voor de geld- en fondsenhandel in de zin van de Beurswet 1914. Periode: 1940–1947 Grondslag: Beursvoorschriften 1940, art. 2.1. Waardering: b (6) 
@@ -1826,7 +1826,7 @@ Het adviseren van de Commissie van Bijstand voor de uitvoering van de Beurswet 1
 Het adviseren van de Commissie van Bijstand voor de uitvoering van de Beurswet 1914 met betrekking tot beslissingen in gevallen waarin de Beursvoorschriften 1942 voor Nederlandsch-Indische Fondsen niet voorzien of in strijd komen met vroegere voorschriften. Periode: 1942–1947 Grondslag: Beursvoorschriften 1942 voor Nederlandsch-Indische Fondsen, art. 7. Waardering: b (6) N.B. Het betreft hier geldleningen waarvan het onderpand geheel of gedeeltelijk bestaat uit aandelen in de Koninklijke Nederlandsche Maatschappij tot Exploitatie van Petroleumbronnen in Nederlandsch-Indië, preferente en gewone aandelen in de Dordtsche Petroleum Industrie Maatschappij en scheepvaartaandelen. 
 ###(364) HANDELING
 
-Het adviseren van de Commissie van Bijstand voor de uitvoering van de Beurswet 1914 met betrekking tot beslissingen in gevallen waarin de Beursvoorschriften 1942A niet voorzien of in strijd komen met vroegere voorschriften. Periode: 1942–1947 Grondslag: Beursvoorschriften 1942A, art. 8. Waardering: b (6)  
+Het adviseren van de Commissie van Bijstand voor de uitvoering van de Beurswet 1914 met betrekking tot beslissingen in gevallen waarin de Beursvoorschriften 1942A niet voorzien of in strijd komen met vroegere voorschriften. Periode: 1942–1947 Grondslag: Beursvoorschriften 1942A, art. 8. Waardering: b (6) 
 
 #### *10.8 Commissie van Bijstand voor de uitvoering van de Beurswet 1914* 
 
@@ -1847,7 +1847,7 @@ Het vaststellen van regelingen tot vaststelling van de koersen, welke als maatst
 Het vaststellen van regelingen tot vaststelling van de termijn, waarbinnen de geldnemer, wiens onderpand niet meer het overeenkomstige surplus oplevert, verplicht is dit surplus aan te vullen, indien de notering van een fonds lager is dan krachtens de artikel 4.1. bepaalde koers. Periode: 1940–1947 Grondslag: Beurswet 1914, art. 4.2. Waardering: b (5) 
 ###(293) HANDELING
 
-Het vaststellen van regelingen tot vaststelling van regels welke pandhouders in acht moeten nemen, wanneer zij zonder toestemming van de pandgever fondsen willen verkopen, welke strekken tot onderpand voor verbintenissen als bedoeld in artikel 4.1. Periode: 1940–1992 Grondslag: Beurswet 1914, art. 5.1. Waardering: b (5) 
+Het vaststellen van regelingen tot vaststelling van regels welke pandhouders in acht moeten nemen, wanneer zij zonder toestemming van de pandgever fondsen willen verkopen, welke strekken tot onderpand voor verbintenissen als bedoeld in artikel 4.1. Periode: 1940–1992  Grondslag: Beurswet 1914, art. 5.1. Waardering: b (5) 
 ###(294) HANDELING
 
 Het vaststellen van voordrachten voor de benoeming (door Ons) van leden van de Commissie van Advies in Beurszaken. Periode: 1940–1947 Grondslag: Beurswet 1914, art. 8. Opmerking: Zie voor belangrijke personen het BSD P-direkt (handeling 27) Waardering: v Termijn: 5 jaar na datum 
@@ -1877,7 +1877,7 @@ Het verlenen van toestemming voor de afwikkeling van opgezegde geldleningen op o
 Het aanwijzen van fondsen die in geval van opzegging van geldleningen op onderpand van aandelen Koninklijke Olie e.a. als eerste voor executoriale verkoop in aanmerking komen, in geval van onenigheid tussen geldgever en geldnemer. Periode: 1942–1947 Grondslag: Beursvoorschriften 1942A, art. 7 Waardering: b (6) 
 ###(363) HANDELING
 
-Het vaststellen van beschikkingen in gevallen waarin de Beursvoorschriften 1942A niet voorzien of in strijd komen met vroegere voorschriften. Periode: 1942–1947 Grondslag: Beursvoorschriften 1942A, art. 8. Waardering: b (6)  
+Het vaststellen van beschikkingen in gevallen waarin de Beursvoorschriften 1942A niet voorzien of in strijd komen met vroegere voorschriften. Periode: 1942–1947 Grondslag: Beursvoorschriften 1942A, art. 8. Waardering: b (6) 
 
 #### *10.9 Commissie van Toezicht op de Financiële Termijnmarkt* 
 
@@ -1892,7 +1892,7 @@ Het aanwijzen van fondsen, die in de prijscouranten van de financiële termijnma
 Het – in overleg met het bestuur van de Financiële Termijnmarkt – vaststellen van een reglement ter regeling van ‘de eigen werkzaamheden’. Periode: 1987–1989 Grondslag: Beschikking van 4 november 1987, Stcrt. 216, art. 5 Waardering: b (4) 
 ###(387) HANDELING
 
-Het verstrekken van inlichtingen aan de Minister van Financiën met betrekking tot de Financiële Termijnmarkt. Periode: 1987–1989 Grondslag: Beschikking van 4 november 1987, Stcrt. 216, art. 6. Waardering: v Termijn: 5 jaar na datum  
+Het verstrekken van inlichtingen aan de Minister van Financiën met betrekking tot de Financiële Termijnmarkt. Periode: 1987–1989 Grondslag: Beschikking van 4 november 1987, Stcrt. 216, art. 6. Waardering: v Termijn: 5 jaar na datum 
 
 #### *10.10 Commissie van Toezicht op de Optiebeurs* 
 
@@ -1907,7 +1907,7 @@ Het aanwijzen van fondsen, die in de prijscouranten van de Optiebeurs moeten wor
 Het – in overleg met het bestuur van de Optiebeurs – vaststellen van een reglement ter regeling van ‘de eigen werkzaamheden’. Periode: 1978–1989 Grondslag: Beschikking van 20 februari 1978, Stcrt. 38, art. 5. Voorstel: b (4) 
 ###(382) HANDELING
 
-Het verstrekken van inlichtingen aan de Minister van Financiën met betrekking tot de Optiebeurs. Periode: 1978–1989 Grondslag: Beschikking van 20 februari 1978, Stcrt. 38, art. 6. Voorstel: v Termijn: 5 jaar na datum  
+Het verstrekken van inlichtingen aan de Minister van Financiën met betrekking tot de Optiebeurs. Periode: 1978–1989 Grondslag: Beschikking van 20 februari 1978, Stcrt. 38, art. 6. Voorstel: v Termijn: 5 jaar na datum 
 
 #### *10.11 Commissie voor de Waardebepaling* 
 
@@ -1916,7 +1916,7 @@ Het verstrekken van inlichtingen aan de Minister van Financiën met betrekking t
 Het aanwijzen van de fondsen welke uit het onderpand van geldleningen als bedoeld bij artikel 2, lid 3, sub 3, der Beurswet 1914 bij gedeeltelijke aflossingen of ruilingen moeten worden teruggegeven, voorzover partijen het daarover onderling niet eens zijn geworden. Periode: 1940–1947 Grondslag: Beursvoorschriften 1940, art. 6.1.; vgl. art. 20.3., art. 21.3., art. 33.2. Waardering: v Termijn: 10 jaar na beschikking 
 ###(352) HANDELING
 
-Het vaststellen van beschikkingen houdende uitspraak in geschillen tussen geldgevers en geldnemers over fondsen die bij de afhandeling van geldleningen op onderpand van Amerikaanse aandeelen onder de geldgever gelaten zullen worden, of die voor ruiling in aanmerking komen. Periode: 1941 Grondslag: Beursvoorschriften 1941 voor certificaten van Amerikaansche aandeelen, art. 10; art. 11. Waardering: b (6)  
+Het vaststellen van beschikkingen houdende uitspraak in geschillen tussen geldgevers en geldnemers over fondsen die bij de afhandeling van geldleningen op onderpand van Amerikaanse aandeelen onder de geldgever gelaten zullen worden, of die voor ruiling in aanmerking komen. Periode: 1941 Grondslag: Beursvoorschriften 1941 voor certificaten van Amerikaansche aandeelen, art. 10; art. 11. Waardering: b (6) 
 
 #### *10.12 Directeur van de Grootboeken der Nationale Schuld* 
 
@@ -1925,13 +1925,13 @@ Het vaststellen van beschikkingen houdende uitspraak in geschillen tussen geldge
 Het stellen van aantekeningen krachtens art. 4. van de Wet naasting. N.B. Art. 4 luidt: ‘indien een derde ten tijde der naasting een recht had op een aandeel, wordt, .... , bij de inschrijving, welke voor het genaaste aandeel is verstrekt, een aantekening gesteld van een overeenkomstig recht van die derde op de inschrijving’. Periode: 1948– Grondslag: Wet naasting, art. 5 (vgl. art. 4). Waardering: v Termijn: (in overeenstemming met de vernietigingstermijn grootboekregisters) 
 ###(112) HANDELING
 
-Het boeken van een inschrijving in het Grootboek der 2½-procents Nationale Schuld krachtens art. 3. van de Wet naasting. Periode: 1948– Grondslag: Wet naasting, art. 5. Waardering: v Termijn: (in overeenstemming met de vernietigingstermijn grootboekregisters)  
+Het boeken van een inschrijving in het Grootboek der 2½-procents Nationale Schuld krachtens art. 3. van de Wet naasting. Periode: 1948– Grondslag: Wet naasting, art. 5. Waardering: v Termijn: (in overeenstemming met de vernietigingstermijn grootboekregisters) 
 
 #### *10.13 Nederlands Centraal Instituut voor Giraal Effectenverkeer* 
 
 ###(581) HANDELING
 
-Het houden van een verzameldepot, cq. girodepot in de zin van de Wet giraal effectenverkeer. Periode: 1977–.... Grondslag: Wet giraal effectenverkeer, art. 9 ev. N.B. Vgl. Reglement houdende bepalingen nopens het bewaren, beheren en administreren van de girodepots vastgesteld door de directie en goedgekeurd door de raad van commissarissen van Necigef op 21 juli 1977 Waardering: v Termijn: 10 jaar na datum  
+Het houden van een verzameldepot, cq. girodepot in de zin van de Wet giraal effectenverkeer. Periode: 1977–.... Grondslag: Wet giraal effectenverkeer, art. 9 ev. N.B. Vgl. Reglement houdende bepalingen nopens het bewaren, beheren en administreren van de girodepots vastgesteld door de directie en goedgekeurd door de raad van commissarissen van Necigef op 21 juli 1977 Waardering: v Termijn: 10 jaar na datum 
 
 #### *10.14 Stichting Effectenvernieuwingsbureau* 
 
@@ -1946,7 +1946,7 @@ Het opstellen van jaarrekeningen en verantwoordingen ten behoeve van de secretar
 Het doen van voorstellen aan de secretaris-generaal van het departement van Financiën, later de Minister van Financiën inzake de tarieven welke het Effectenvernieuwingsbureau in rekening mag brengen. Periode: 1941–.... Grondslag: Effectenvernieuwingsbesluit 1941, art. 3.4.; art. 17.; Effectenvernieuwingswet, art. 2.3. Waardering: b (5) 
 ###(562) HANDELING
 
-Het verlenen van bemiddeling tot het verkrijgen van duplicaten of nieuwe effecten ter vervanging van buiten Nederland verloren gegeane effecten en van geschonden of verloren gegane effecten, uitgegeven door een buiten Nederland gevestigde uitgevende instelling. Periode: 1941–.... Grondslag: Effectenvernieuwingsbesluit 1941, art. 21; Effectenvernieuwingswet, art. 24. Waardering: v Termijn: 10 jaar na datum  
+Het verlenen van bemiddeling tot het verkrijgen van duplicaten of nieuwe effecten ter vervanging van buiten Nederland verloren gegeane effecten en van geschonden of verloren gegane effecten, uitgegeven door een buiten Nederland gevestigde uitgevende instelling. Periode: 1941–.... Grondslag: Effectenvernieuwingsbesluit 1941, art. 21; Effectenvernieuwingswet, art. 24. Waardering: v Termijn: 10 jaar na datum 
 
 #### *10.15 Stichting Toezicht Effectenverkeer* 
 
@@ -2129,7 +2129,7 @@ Het opstellen van begrotingen van de in het volgende jaar te verwachten kosten e
 Het vaststellen van regelingen houdende de wijze en het tijdstip waarop de betaling van de jaarlijkse bijdrage van vennootschappen als bedoeld in artikel 3 moet geschieden. Periode: 1992–.... Grondslag: Regeling van 16 januari 1992, art. 6. Waardering: v Termijn: 5 jaar na vervallen 
 ###(553) HANDELING
 
-Het opstellen en publiceren van een staat van werkelijke kosten en ontvangsten over het afgelopen jaar ten behoeve van de Minister van Financiën. Periode: 1992–.... Grondslag: Regeling van 16 januari 1992, art. 8. Waardering: b (3)  
+Het opstellen en publiceren van een staat van werkelijke kosten en ontvangsten over het afgelopen jaar ten behoeve van de Minister van Financiën. Periode: 1992–.... Grondslag: Regeling van 16 januari 1992, art. 8. Waardering: b (3) 
 
 #### *10.16 Toezichthouder op het Nederlands Centraal Instituut voor Giraal Effectenverkeer* 
 
@@ -2141,7 +2141,7 @@ Het – vanwege de Minister van Financiën – uitoefenen van toezicht op (de ha
 Het jaarlijks – en zo nodig tussentijds – opstellen van verslagen inzake het toezicht op het centraal instituut als bedoeld in de Wet giraal effectenverkeer ten behoeve van de Minister van Financiën. Periode: 1977–.... Grondslag: Instructie toezichthouder, art. 5.2. Waardering: b (3) 
 ###(576) HANDELING
 
-Het doen van voordrachten tot vernietiging van besluiten van organen van het centraal instituut als bedoeld in de Wet giraal effectenverkeer aan de Minister van Financiën. Periode: 1977–.... Grondslag: Wet giraal effectenverkeer, art. 3. Waardering: b (5)  
+Het doen van voordrachten tot vernietiging van besluiten van organen van het centraal instituut als bedoeld in de Wet giraal effectenverkeer aan de Minister van Financiën. Periode: 1977–.... Grondslag: Wet giraal effectenverkeer, art. 3. Waardering: b (5) 
 
 ####11 Deel C Handelingen van overige actoren
 
@@ -2292,7 +2292,7 @@ Het voorbereiden van de vaststelling, wijziging en intrekking van Koninklijke Be
 Het vaststellen van uitvoeringsbesluiten met betrekking tot het Besluit van 3 december 1942. Periode: 1944–1945 Grondslag: Besluit van 3 december 1942, art. 4. Voorstel: b (6) 
 ###(802) HANDELING
 
-Het doen van voordrachten aan de Kroon tot het in werking, dan wel buiten werking stellen van één of meer artikelen van de Noodwet financieel verkeer. Periode: 1978– Grondslag: Noodwet financieel verkeer, art. 2.1.; art. 2.5. Voorstel: b (6)  
+Het doen van voordrachten aan de Kroon tot het in werking, dan wel buiten werking stellen van één of meer artikelen van de Noodwet financieel verkeer. Periode: 1978– Grondslag: Noodwet financieel verkeer, art. 2.1.; art. 2.5. Voorstel: b (6) 
 
 #### *11.1.2 Commissie van advies betreffende de bemoeiingen van de openbare lichamen met betrekking tot het betalingsverkeer zonder gereed geld* 
 
@@ -2304,7 +2304,7 @@ Het – desgevraagd of uit eigener beweging – adviseren van de Minister belast
 Het opstellen van jaarlijkse verslagen inzake zijn werkzaamheden in het afgelopen jaar. Periode: 1944–1945 Grondslag: Besluit van den 6den augustus 1937, Stb. 354, art. 7. Voorstel: b (3) 
 ###(693) HANDELING
 
-Het adviseren van de Minister belast met de zorg voor het Staatsbedrijf der PTT en de Minister van Financiën inzake het vaststellen van besluiten tot verlenging van de termijn waarbinnen aan elke aanvraag om terugbetaling van op spaarbankboekjes verschuldigde gelden moet worden voldaan. Periode: 1944–1945 Grondslag: Postspaarbankwet, art. 16.2.; Postspaarbankwet, zoals gewijzigd bij Uitvoeringsbesluit reorganisatie RPS, art. 16.2. Voorstel: b (1)  
+Het adviseren van de Minister belast met de zorg voor het Staatsbedrijf der PTT en de Minister van Financiën inzake het vaststellen van besluiten tot verlenging van de termijn waarbinnen aan elke aanvraag om terugbetaling van op spaarbankboekjes verschuldigde gelden moet worden voldaan. Periode: 1944–1945 Grondslag: Postspaarbankwet, art. 16.2.; Postspaarbankwet, zoals gewijzigd bij Uitvoeringsbesluit reorganisatie RPS, art. 16.2. Voorstel: b (1) 
 
 #### *11.1.3 Commissie van advies inzake de Rijkspostspaarbank* 
 
@@ -2319,7 +2319,7 @@ Het uitoefenen van toezicht op het beheer en de toestand van de RPS. Periode: 19
 Het adviseren van de Minister belast met de zorg voor het Staatsbedrijf der PTT inzake de regeling der werkzaamheden van de Raad van Toezicht op de RPS. Periode: 1944–1945 Grondslag: Postspaarbankwet, art. 4.1. Voorstel: b (1) 
 ###(693) HANDELING
 
-Het adviseren van de Minister belast met de zorg voor het Staatsbedrijf der PTT en de Minister van Financiën inzake het vaststellen van besluiten tot verlenging van de termijn waarbinnen aan elke aanvraag om terugbetaling van op spaarbankboekjes verschuldigde gelden moet worden voldaan. Periode: 1944–1945 Grondslag: Postspaarbankwet, art. 16.2.; Postspaarbankwet, zoals gewijzigd bij Uitvoeringsbesluit reorganiastie RPS, art. 16.2. Voorstel: b (1)  
+Het adviseren van de Minister belast met de zorg voor het Staatsbedrijf der PTT en de Minister van Financiën inzake het vaststellen van besluiten tot verlenging van de termijn waarbinnen aan elke aanvraag om terugbetaling van op spaarbankboekjes verschuldigde gelden moet worden voldaan. Periode: 1944–1945 Grondslag: Postspaarbankwet, art. 16.2.; Postspaarbankwet, zoals gewijzigd bij Uitvoeringsbesluit reorganiastie RPS, art. 16.2. Voorstel: b (1) 
 
 #### *11.1.4 Directeur-Generaal der PTT* 
 
@@ -2346,7 +2346,7 @@ Het vaststellen van regelingen tot aanwijzing van de kantoren der posterijen waa
 Het vaststellen van regelingen houdende de openingsuren van de voor de spaarbankdienst opengestelde kantoren der posterijen. Periode: 1944–1945 Grondslag: Postspaarbankbesluit, art. 2.; Postspaarbankbesluit, zoals gewijzigd bij uitvoeringsbesluit reorganisatie RPS, art. 2. Voorstel: b (5) 
 ###(679) HANDELING
 
-Het aanwijzen van een rekening ten name van de RPS bij de PCGD waarop kan worden ingelegd door overschrijving of storting. Periode: 1944–1945 Grondslag: Postspaarbankbesluit, zoals gewijzigd bij Uitvoeringsbesluit reorganisatie RPS, art. 10bis. Voorstel: v Termijn: 5 jaar na vervallen van de rekening  
+Het aanwijzen van een rekening ten name van de RPS bij de PCGD waarop kan worden ingelegd door overschrijving of storting. Periode: 1944–1945 Grondslag: Postspaarbankbesluit, zoals gewijzigd bij Uitvoeringsbesluit reorganisatie RPS, art. 10bis. Voorstel: v Termijn: 5 jaar na vervallen van de rekening 
 
 #### *11.2 Handelingen van actoren onder de zorg van de Minister van Binnenlandse Zaken en Koninkrijksrelaties* 
 
@@ -2509,7 +2509,7 @@ Het opstellen van jaarverslagen van de RPS. Periode: 1940–1946 Grondslag: Post
 Het voorbereiden van de vaststelling, wijziging en intrekking van Koninklijke Besluiten tot het uitgeven van spaarbankzegels. Periode: 1940–1946 Grondslag: Postspaarbankwet, art. 24 Voorstel: b (5) 
 ###(709) HANDELING
 
-Het vaststellen van uitvoeringsbesluiten met betrekking tot het Besluit van 3 december 1942. Periode: 1942–1946 Grondslag: Besluit van 3 december 1942, art. 4. Voorstel: b (6)  
+Het vaststellen van uitvoeringsbesluiten met betrekking tot het Besluit van 3 december 1942. Periode: 1942–1946 Grondslag: Besluit van 3 december 1942, art. 4. Voorstel: b (6) 
 
 #### *11.2.2 Commissie van advies betreffende de bemoeiingen van de openbare lichamen met betrekking tot het betalingsverkeer zonder gereed geld* 
 
@@ -2521,7 +2521,7 @@ Het – desgevraagd of uit eigener beweging – adviseren van de Minister belast
 Het opstellen van jaarlijkse verslagen inzake zijn werkzaamheden in het afgelopen jaar. Periode: 1940–1946 Grondslag: Besluit van den 6den augustus 1937, Stb. 354, art. 7. Voorstel: b (3) 
 ###(693) HANDELING
 
-Het adviseren van de Minister belast met de zorg voor het Staatsbedrijf der PTT en de Minister van Financiën inzake het vaststellen van besluiten tot verlenging van de termijn waarbinnen aan elke aanvraag om terugbetaling van op spaarbankboekjes verschuldigde gelden moet worden voldaan. Periode: 1940–1946 Grondslag: Postspaarbankwet, art. 16.2.; Postspaarbankwet, zoals gewijzigd bij Uitvoeringsbesluit reorganisatie RPS, art. 16.2. Voorstel: b (1)  
+Het adviseren van de Minister belast met de zorg voor het Staatsbedrijf der PTT en de Minister van Financiën inzake het vaststellen van besluiten tot verlenging van de termijn waarbinnen aan elke aanvraag om terugbetaling van op spaarbankboekjes verschuldigde gelden moet worden voldaan. Periode: 1940–1946 Grondslag: Postspaarbankwet, art. 16.2.; Postspaarbankwet, zoals gewijzigd bij Uitvoeringsbesluit reorganisatie RPS, art. 16.2. Voorstel: b (1) 
 
 #### *11.2.3 Commissie van advies inzake de Rijkspostspaarbank* 
 
@@ -2536,7 +2536,7 @@ Het uitoefenen van toezicht op het beheer en de toestand van de RPS. Periode: 19
 Het adviseren van de Minister belast met de zorg voor het Staatsbedrijf der PTT inzake de regeling der werkzaamheden van de Raad van Toezicht op de RPS. Periode: 1942–1946 Grondslag: Postspaarbankwet, art. 4.1. Voorstel: b (1) 
 ###(693) HANDELING
 
-Het adviseren van de Minister belast met de zorg voor het Staatsbedrijf der PTT en de Minister van Financiën inzake het vaststellen van besluiten tot verlenging van de termijn waarbinnen aan elke aanvraag om terugbetaling van op spaarbankboekjes verschuldigde gelden moet worden voldaan. Periode: 1942–1946 Grondslag: Postspaarbankwet, art. 16.2.; Postspaarbankwet, zoals gewijzigd bij Uitvoeringsbesluit reorganiastie RPS, art. 16.2. Voorstel: b (1)  
+Het adviseren van de Minister belast met de zorg voor het Staatsbedrijf der PTT en de Minister van Financiën inzake het vaststellen van besluiten tot verlenging van de termijn waarbinnen aan elke aanvraag om terugbetaling van op spaarbankboekjes verschuldigde gelden moet worden voldaan. Periode: 1942–1946 Grondslag: Postspaarbankwet, art. 16.2.; Postspaarbankwet, zoals gewijzigd bij Uitvoeringsbesluit reorganiastie RPS, art. 16.2. Voorstel: b (1) 
 
 #### *11.2.4 Directeur-Generaal der PTT* 
 
@@ -2569,7 +2569,7 @@ Het vaststellen van regelingen houdende de openingsuren van de voor de spaarbank
 Het vaststellen van regelingen houdende regels volgens welke inleg bij de RPS kan plaatsvinden door overschrijving of storting op een door de directeur der RPS aan te wijzen rekening ten name van de RPS bij de PCGD. Periode: 1940–1942 Grondslag: Postspaarbankbesluit, art. 10bis. Voorstel: b (5) 
 ###(679) HANDELING
 
-Het aanwijzen van een rekening ten name van de RPS bij de PCGD waarop kan worden ingelegd door overschrijving of storting. Periode: 1942–1946 Grondslag: Postspaarbankbesluit, zoals gewijzigd bij Uitvoeringsbesluit reorganisatie RPS, art. 10bis. Voorstel: v Termijn: 5 jaar na vervallen van de rekening  
+Het aanwijzen van een rekening ten name van de RPS bij de PCGD waarop kan worden ingelegd door overschrijving of storting. Periode: 1942–1946 Grondslag: Postspaarbankbesluit, zoals gewijzigd bij Uitvoeringsbesluit reorganisatie RPS, art. 10bis. Voorstel: v Termijn: 5 jaar na vervallen van de rekening 
 
 #### *11.2.5 Raad van toezicht op de Rijkspostspaarbank* 
 
@@ -2584,13 +2584,13 @@ Het uitoefenen van toezicht op het beheer en de toestand van de RPS. Periode: 19
 Het adviseren van de Minister belast met de zorg voor het Staatsbedrijf der PTT inzake de regeling der werkzaamheden van de Raad van Toezicht op de RPS. Periode: 1940–1942 Grondslag: Postspaarbankwet, art. 4.1. Voorstel: b (1) 
 ###(693) HANDELING
 
-Het adviseren van de Minister belast met de zorg voor het Staatsbedrijf der PTT en de Minister van Financiën inzake het vaststellen van besluiten tot verlenging van de termijn waarbinnen aan elke aanvraag om terugbetaling van op spaarbankboekjes verschuldigde gelden moet worden voldaan. Periode: 1940–1942 Grondslag: Postspaarbankwet, art. 16.2.; Postspaarbankwet, zoals gewijzigd bij Uitvoeringsbesluit reorganisatie RPS, art. 16.2. Voorstel: b (5)  
+Het adviseren van de Minister belast met de zorg voor het Staatsbedrijf der PTT en de Minister van Financiën inzake het vaststellen van besluiten tot verlenging van de termijn waarbinnen aan elke aanvraag om terugbetaling van op spaarbankboekjes verschuldigde gelden moet worden voldaan. Periode: 1940–1942 Grondslag: Postspaarbankwet, art. 16.2.; Postspaarbankwet, zoals gewijzigd bij Uitvoeringsbesluit reorganisatie RPS, art. 16.2. Voorstel: b (5) 
 
 #### *11.2.6 Raad van hoofdcommissarissen* 
 
 ###(772) HANDELING
 
-Het opstellen van voordrachten voor de benoeming van de leden van de Begeleidingscommissie voor het Meldpunt Ongebruikelijke Transacties. Periode: 1994–.... Grondslag: Wet melding ongebruikelijke transacties, art. 16.1. Voorstel: b (6)  
+Het opstellen van voordrachten voor de benoeming van de leden van de Begeleidingscommissie voor het Meldpunt Ongebruikelijke Transacties. Periode: 1994–.... Grondslag: Wet melding ongebruikelijke transacties, art. 16.1. Voorstel: b (6) 
 
 #### *11.3 Handelingen van actoren onder de zorg van de Minister van Buitenlandse Zaken* 
 
@@ -2598,7 +2598,7 @@ Het opstellen van voordrachten voor de benoeming van de leden van de Begeleiding
 
 ###(839) HANDELING
 
-Het (mede)vaststellen van Ministeriële regelingen houdende voorschriften ten aanzien van financiële betrekkingen met het buitenland, alsmede ten aanzien van het vorderen van gouden munten, fijn goud, alliages van goud en buitenlandse activa van ingezetenen (N.B. In overeenstemming met de Ministers van FIN, EZ en LNV). Periode:. 1978– Grondslag: Noodwet financieel verkeer, art. 26. Voorstel: b (6)  
+Het (mede)vaststellen van Ministeriële regelingen houdende voorschriften ten aanzien van financiële betrekkingen met het buitenland, alsmede ten aanzien van het vorderen van gouden munten, fijn goud, alliages van goud en buitenlandse activa van ingezetenen (N.B. In overeenstemming met de Ministers van FIN, EZ en LNV). Periode:. 1978– Grondslag: Noodwet financieel verkeer, art. 26. Voorstel: b (6) 
 
 #### *11.4 Handelingen van actoren onder de zorg van de Minister van Economische Zaken* 
 
@@ -2620,13 +2620,13 @@ Het goedkeuren van de door de Bedrijfsgroep Effectenhandel aan ondernemingen ver
 Het goedkeuren van door de Vereeniging voor den Effectenhandel (Bedrijfsgroep Effectenhandel) vastgestelde regels betreffende toelating en schorsing van leden, alsmede betreffende vervallenverklaring van het lidmaatschap. Periode: 1943–uiterlijk 1986 Grondslag: Besluit van 28 april 1943, Stcrt. 93, art. 2.1. Voorstel: b (6) 
 ###(839) HANDELING
 
-Het (mede)vaststellen van Ministeriële regelingen houdende voorschriften ten aanzien van financiële betrekkingen met het buitenland, alsmede ten aanzien van het vorderen van gouden munten, fijn goud, alliages van goud en buitenlandse activa van ingezetenen (N.B. In overeenstemming met de Ministers van FIN, EZ en LNV). Periode: 1978– Grondslag: Noodwet financieel verkeer, art. 26. Voorstel: b (1, 6)  
+Het (mede)vaststellen van Ministeriële regelingen houdende voorschriften ten aanzien van financiële betrekkingen met het buitenland, alsmede ten aanzien van het vorderen van gouden munten, fijn goud, alliages van goud en buitenlandse activa van ingezetenen (N.B. In overeenstemming met de Ministers van FIN, EZ en LNV). Periode: 1978– Grondslag: Noodwet financieel verkeer, art. 26. Voorstel: b (1, 6) 
 
 #### *11.4.2 Economische controledienst* 
 
 ###(772) HANDELING
 
-Het opstellen van voordrachten voor de benoeming van de leden van de Begeleidingscommissie voor het Meldpunt Ongebruikelijke Transacties. Periode: 1994–.... Grondslag: Wet melding ongebruikelijke transacties, art. 16.1. Voorstel: V termijn: 2 jaar na voordracht  
+Het opstellen van voordrachten voor de benoeming van de leden van de Begeleidingscommissie voor het Meldpunt Ongebruikelijke Transacties. Periode: 1994–.... Grondslag: Wet melding ongebruikelijke transacties, art. 16.1. Voorstel: V termijn: 2 jaar na voordracht 
 
 #### *11.5 Handelingen van actoren onder de zorg van de Minister van Justitie* 
 
@@ -2663,7 +2663,7 @@ Het voorbereiden van, deelnemen aan en rapporteren over bijeenkomsten van intra-
 Het voorbereiden, mede-vaststellen en coördineren van het beleid op het terrein van de toepassing van formele bevoegdheden op het terrein van het voorkomen van witwassing van uit criminaliteit verkregen gelden. Periode: 1994–.... Voorstel: b (1) 
 ###(10) HANDELING
 
-Het vaststellen van de beleidsorganisatie op het terrein van het voorkomen van witwassing van uit criminaliteit verkregen gelden. Periode: 1994–.... Voorstel: b (4)  
+Het vaststellen van de beleidsorganisatie op het terrein van het voorkomen van witwassing van uit criminaliteit verkregen gelden. Periode: 1994–.... Voorstel: b (4) 
 
 #### *11.5.1.2 Regulering van en toezicht op de centrale bank* 
 
@@ -2672,20 +2672,20 @@ Het vaststellen van de beleidsorganisatie op het terrein van het voorkomen van w
 Het (mede)voorbereiden, vaststellen, wijzigen en intrekken van algemene maatregelen van bestuur tot vaststelling van de bemoeiïngen van De Nederlandsche Bank met de krachtens deze wet in de consignatiekas in bewaring gegeven effecten en het daarvoor te bedingen loon. Periode: 1940– Grondslag: Wet van 27 maart 1936, Stb. 201, art. 3. Voorstel: b (5) 
 ###(58) HANDELING
 
-Het (mede)vaststellen van Ministeriële regelingen houdende nadere regels met betrekking tot de uitvoering van deze wet (Wet consignatiekas). Periode: 1940– Grondslag: Wet van 27 maart 1936, Stb. 201, art. 11. Voorstel: b (5)  
+Het (mede)vaststellen van Ministeriële regelingen houdende nadere regels met betrekking tot de uitvoering van deze wet (Wet consignatiekas). Periode: 1940– Grondslag: Wet van 27 maart 1936, Stb. 201, art. 11. Voorstel: b (5) 
 
 #### *11.5.1.3 Regulering van en toezicht op het kredietwezen* 
 
 ###(147) HANDELING
 
-Het adviseren van de Minister van Financiën dan wel De Nederlandsche Bank inzake verzoeken van buitenlandse toezichthouders om gegevens of inlichtingen te mogen gebruiken voor andere doelen dan waarvoor zij zijn verstrekt, indien die verzoeken betrekking hebben op strafbare feiten. Periode: 1994–.... Grondslag: WTK, zoals gewijzigd bij Wet van 17 maart 1994, Stb. 235, art. 65.2c. Voorstel: v Termijn: 10 jaar na datum  
+Het adviseren van de Minister van Financiën dan wel De Nederlandsche Bank inzake verzoeken van buitenlandse toezichthouders om gegevens of inlichtingen te mogen gebruiken voor andere doelen dan waarvoor zij zijn verstrekt, indien die verzoeken betrekking hebben op strafbare feiten. Periode: 1994–.... Grondslag: WTK, zoals gewijzigd bij Wet van 17 maart 1994, Stb. 235, art. 65.2c. Voorstel: v Termijn: 10 jaar na datum 
 
 #### *11.5.1.4 Toezicht op de handel in effecten ter beurze* 
 
 N.B. In het Besluit van de Secretarissen-Generaal voor Bijzondere Economische Zaken en van Financiën, van Handel, Nijverheid en Scheepvaart en van Justitie van 28 april 1943. Stcrt. 93, betreffende de uitoefening van den effectenhandel, werd de handel in effecten in grote lijnen voorbehouden aan de leden van de Vereeniging voor den Effectenhandel (Bedrijfsgroep Effectenhandel) en aan de Vakgroep Makelaars in Effecten. 
 ###(368) HANDELING
 
-Het aanwijzen van de arrondissementsrechtbank waar de berechting van overtreders van de regelgeving op het terrein van de handel in effecten moet plaatsvinden. Periode: 1943 - Grondslag: Besluit van 28 april 1943, Stcrt. 93, art. 4.2. Voorstel: v Termijn: 2 jaar na aanwijzing  
+Het aanwijzen van de arrondissementsrechtbank waar de berechting van overtreders van de regelgeving op het terrein van de handel in effecten moet plaatsvinden. Periode: 1943 - Grondslag: Besluit van 28 april 1943, Stcrt. 93, art. 4.2. Voorstel: v Termijn: 2 jaar na aanwijzing 
 
 #### *11.5.1.5 Toezicht op beleggingsinstellingen* 
 
@@ -2694,13 +2694,13 @@ Het aanwijzen van de arrondissementsrechtbank waar de berechting van overtreders
 Het vaststellen van beschikkingen tot goedkeuring van voorgenomen statutenwijzigingen van beleggingsinstellingen (de toezichthouder gehoord). Periode: 1990–.... Grondslag: Besluit toezicht beleggingsinstellingen, art. 14.4. Voorstel: v Termijn: 5 jaar na vervallen van de statuten 
 ###(442) HANDELING
 
-Het vaststellen van beslissingen op verzoeken van buitenlandse autoriteiten die belast zijn met het toezicht op de financiële markten en instellingen om gegevens, die op grond van art. 27.1. zijn verstrekt, voor andere doelen te mogen gebruiken dan waarvoor zij zijn verstrekt, indien het een onderzoek naar strafbare feiten betreft. Periode: 1994–.... Grondslag: WTB, zoals gewijzigd bij Wet van 17 maart 1994, Stb. 235, art. 27.3. Voorstel: v Termijn: 5 jaar na datum  
+Het vaststellen van beslissingen op verzoeken van buitenlandse autoriteiten die belast zijn met het toezicht op de financiële markten en instellingen om gegevens, die op grond van art. 27.1. zijn verstrekt, voor andere doelen te mogen gebruiken dan waarvoor zij zijn verstrekt, indien het een onderzoek naar strafbare feiten betreft. Periode: 1994–.... Grondslag: WTB, zoals gewijzigd bij Wet van 17 maart 1994, Stb. 235, art. 27.3. Voorstel: v Termijn: 5 jaar na datum 
 
 #### *11.5.1.6 Toezicht op het effectenverkeer* 
 
 ###(514) HANDELING
 
-Het (mede)vaststellen van beschikkingen op verzoeken van buitenlandse autoriteiten die belast zijn met het toezicht op de financiële markten en instellingen om gegevens die op grond van art. 24.1. zijn verstrekt voor andere doelen te mogen gebruiken dan waarvoor zij zijn verstrekt, indien het een onderzoek naar strafbare feiten betreft. Periode: 1994–.... Grondslag: WTE, zoals gewijzigd bij Wet van 17 maart 1994, Stb. 235, art. 24.2c. Voorstel: v Termijn: 5 jaar na datum  
+Het (mede)vaststellen van beschikkingen op verzoeken van buitenlandse autoriteiten die belast zijn met het toezicht op de financiële markten en instellingen om gegevens die op grond van art. 24.1. zijn verstrekt voor andere doelen te mogen gebruiken dan waarvoor zij zijn verstrekt, indien het een onderzoek naar strafbare feiten betreft. Periode: 1994–.... Grondslag: WTE, zoals gewijzigd bij Wet van 17 maart 1994, Stb. 235, art. 24.2c. Voorstel: v Termijn: 5 jaar na datum 
 
 #### *11.5.1.7 Melding ongebruikelijke transacties* 
 
@@ -2742,7 +2742,7 @@ Het vaststellen van Ministeriële regelingen tot aanwijzing van andere dan in de
 Het – onder voorwaarden en voorschriften – verlenen van vrijstelling of – op verzoek – ontheffing van het verbod om als wisselkantoor werkzaam te zijn; het doen van mededeling van die ontheffing in de Staatscourant. Periode: 1995–.... Grondslag: Wet inzake de wisselkantoren, art. 5.1.; art. 5.3.; vgl. art. 5.2. Regeling van 22 december 1994, Stcrt. 248, art. 1.; art. 2. Voorstel: vrijstellingen: b (5) ontheffingen: v, 10 jaar na vervallen 
 ###(780) HANDELING
 
-Het vaststellen van Ministeriële regelingen waarin wordt bepaald in welke gevallen ontheffing van het verbod om als wisselkantoor werkzaam te zijn namens onze Ministers kan worden verleend door De Nederlandsche Bank. Periode: 1995–.... Grondslag: Wet inzake de wisselkantoren, art. 5.2. Voorstel: b (5)  
+Het vaststellen van Ministeriële regelingen waarin wordt bepaald in welke gevallen ontheffing van het verbod om als wisselkantoor werkzaam te zijn namens onze Ministers kan worden verleend door De Nederlandsche Bank. Periode: 1995–.... Grondslag: Wet inzake de wisselkantoren, art. 5.2. Voorstel: b (5) 
 
 #### *11.5.2 Begeleidingscommissie meldpunt ongebruikelijke transacties* 
 
@@ -2760,7 +2760,7 @@ Het begeleiden van het Meldpunt Ongebruikelijke Transacties in de uitvoering van
 Het adviseren van de Minister van Justitie en de Minister van Financiën inzake de wijze waarop het meldpunt zijn taak verricht. Periode: 1994–.... Grondslag: Wet melding ongebruikelijke transacties, art. 15. Voorstel: b (5) 
 ###(774) HANDELING
 
-Het vaststellen van reglementen voor de werkwijze van de Begeleidingscommissie voor het Meldpunt Ongebruikelijke Transacties Periode: 1994–.... Grondslag: Wet melding ongebruikelijke transacties, art. 16.4 Voorstel: b (4)  
+Het vaststellen van reglementen voor de werkwijze van de Begeleidingscommissie voor het Meldpunt Ongebruikelijke Transacties Periode: 1994–.... Grondslag: Wet melding ongebruikelijke transacties, art. 16.4 Voorstel: b (4) 
 
 #### *11.5.3 Meldpunt ongebruikelijke transacties* 
 
@@ -2793,13 +2793,13 @@ Het voeren van overleg met de Minister van Justitie en de Minister van Financië
 Het stellen van nadere regels omtrent de wijze waarop meldingen moeten worden gedaan en gegevens en inlichtingen, gevraagd krachtens artikel 10.1., moeten worden verstrekt. Periode: 1994–.... Grondslag: Wet melding ongebruikelijke transacties, art. 11. Voorstel: b (5) 
 ###(845) HANDELING
 
-Het instellen van de projectorganisatie automatisering Meldpunt Ongebruikelijke transacties. Periode: 1994 – Waardering: b (4)  
+Het instellen van de projectorganisatie automatisering Meldpunt Ongebruikelijke transacties. Periode: 1994 – Waardering: b (4) 
 
 #### *11.5.4 Projectorganisatie meldpunt ongebruikelijke transacties* 
 
 ###(751) HANDELING
 
-Het voorbereiden van de inrichting, het daadwerkelijk inrichten en het laten functioneren van een meldpunt, dat op het tijdstip van de inwerkingtreding van de Wet melding ongebruikelijke transacties in staat is zijn wettelijke taken te vervullen. Periode: 1993–1994 Grondslag: Instellingsbeschikking Projectorganisatie inrichting meldpunt ongebruikelijke transacties, art. 2. ev. Voorstel: b (4)  
+Het voorbereiden van de inrichting, het daadwerkelijk inrichten en het laten functioneren van een meldpunt, dat op het tijdstip van de inwerkingtreding van de Wet melding ongebruikelijke transacties in staat is zijn wettelijke taken te vervullen. Periode: 1993–1994 Grondslag: Instellingsbeschikking Projectorganisatie inrichting meldpunt ongebruikelijke transacties, art. 2. ev. Voorstel: b (4) 
 
 #### *11.6 Handelingen van actoren onder de zorg van de Minister van Landbouw, Natuurbeheer en Voedselkwaliteit* 
 
@@ -2807,7 +2807,7 @@ Het voorbereiden van de inrichting, het daadwerkelijk inrichten en het laten fun
 
 ###(839) HANDELING
 
-Het (mede)vaststellen van Ministeriële regelingen houdende voorschriften ten aanzien van financiële betrekkingen met het buitenland, alsmede ten aanzien van het vorderen van gouden munten, fijn goud, alliages van goud en buitenlandse activa van ingezetenen (N.B. In overeenstemming met de Ministers van FIN, EZ en LNV). Periode: 1978– Grondslag: Noodwet financieel verkeer, art. 26. Voorstel: b (1)  
+Het (mede)vaststellen van Ministeriële regelingen houdende voorschriften ten aanzien van financiële betrekkingen met het buitenland, alsmede ten aanzien van het vorderen van gouden munten, fijn goud, alliages van goud en buitenlandse activa van ingezetenen (N.B. In overeenstemming met de Ministers van FIN, EZ en LNV). Periode: 1978– Grondslag: Noodwet financieel verkeer, art. 26. Voorstel: b (1) 
 
 #### *11.7 Handelingen van actoren onder de zorg van de Minister van Verkeer & Waterstaat* 
 
@@ -2844,16 +2844,16 @@ Het voorbereiden van, deelnemen aan en rapporteren over bijeenkomsten van intra-
 Het voorbereiden, mede-vaststellen en coördineren van het beleid op het terrein van de toepassing van formele bevoegdheden op het terrein van de regulering van en het toezicht op het giroverkeer en de Rijkspostspaarbank. Periode: 1940–.... Voorstel: b (1) 
 ###(10) HANDELING
 
-Het vaststellen van de beleidsorganisatie op het terrein van de regulering van en het toezicht op het giroverkeer en de Rijkspostspaarbank. Periode: 1940–.... Voorstel: b (4)  
+Het vaststellen van de beleidsorganisatie op het terrein van de regulering van en het toezicht op het giroverkeer en de Rijkspostspaarbank. Periode: 1940–.... Voorstel: b (4) 
 
-####*11.7.1.2 Toezicht op/regulering van het kredietweze* n
+#### *11.7.1.2 Toezicht op/regulering van het kredietweze*n
 
 ###(162) HANDELING
 
 Het voorbereiden van de vaststelling, wijziging en intrekking van Koninklijke Besluiten tot goedkeuring, wijziging, verlenging en intrekking van algemene voorschriften inzake de bedrijfsvoering, welke De Nederlandsche Bank aan geregistreerde kredietinstellingen kan opleggen i.v.m. haar taak ten aanzien van de regulering van de waarde van de Nederlandse geldeenheid (de Bankraad gehoord). Periode: 1979–1985 Grondslag: WTK 1978, art. 22.5. N.B. Zie ook artikel 28.2. Voorstel: b (5) 
 ###(165) HANDELING
 
-Het voorbereiden van de vaststelling van wetten tot bekrachtiging van besluiten, houdende goedkeuring van de algemene voorschriften inzake de bedrijfsvoering van kredietinstellingen, i.v.m. de regulering van de waarde van de Nederlandse geldeenheid (1952: indien die besluiten in afwijking van de adviezen van de Bankraad zijn genomen) Periode: 1979–1985 Grondslag: WTK 1978, art. 22.6. Voorstel: b (1)  
+Het voorbereiden van de vaststelling van wetten tot bekrachtiging van besluiten, houdende goedkeuring van de algemene voorschriften inzake de bedrijfsvoering van kredietinstellingen, i.v.m. de regulering van de waarde van de Nederlandse geldeenheid (1952: indien die besluiten in afwijking van de adviezen van de Bankraad zijn genomen) Periode: 1979–1985 Grondslag: WTK 1978, art. 22.6. Voorstel: b (1) 
 
 #### * *11.7.1.3 Handelingen met betrekking tot het giroverkeer* * 
 
@@ -3006,7 +3006,7 @@ Het voorbereiden van de vaststelling, wijziging en intrekking van algemene maatr
 Het vaststellen van regels voor het monetaire beleid van de PCGD (tot 1978); het vaststellen van de wijze waarop de bewaring van de beleggingen en van de in pand genomen waarden zal geschieden. Periode: 1955–1985 Grondslag: Postwet 1954, art. 7.2. Voorstel: b (5) 
 ###(648) HANDELING
 
-Het vaststellen van Ministeriële regelingen houdende: a. het percentage van het bedrag hoger dan fl. 10 miljoen, dat op de postrekeningen gestort en nog niet terugbetaald is (met uitzondering van de tegoeden der rijkscomptabelen en van de saldi der dienstpostrekeningen), dat als kasreserve moet worden aangehouden bij De Nederlandsche Bank; b. goedkeuring van onttrekkingen aan de kasreserve(s), anders dan bedoeld in art. 2, lid 3. Periode: 1957–1972 Grondslag: Beschikking van 8/17 april 1957, Stcrt. 81, art. 2.1.; art. 2.2. (1972); art. 2.1. (1975); art. 2.6.; art 2.5. (1972); art. 2.4. (1975). N.B. Art. 2.3. (art. 2.2. (1972)) luidt: ‘Telkens als door wijziging van het percentage voor de kasreserve of door wijziging van het bedrag der op postrekeningen gestorte en nog niet terugbetaalde bedragen als bedoeld in lid 1, het bedrag van de aldaar bedoelde kasreserve moet worden verhoogd of verlaagd, doet de Directeur-Generaal van het Staatsbedrijf der PTT daarvan mededeling aan de Minister van Financiën en De Nederlandsche Bank N.V.’ Voorstel: b (5)  
+Het vaststellen van Ministeriële regelingen houdende: a. het percentage van het bedrag hoger dan fl. 10 miljoen, dat op de postrekeningen gestort en nog niet terugbetaald is (met uitzondering van de tegoeden der rijkscomptabelen en van de saldi der dienstpostrekeningen), dat als kasreserve moet worden aangehouden bij De Nederlandsche Bank; b. goedkeuring van onttrekkingen aan de kasreserve(s), anders dan bedoeld in art. 2, lid 3. Periode: 1957–1972 Grondslag: Beschikking van 8/17 april 1957, Stcrt. 81, art. 2.1.; art. 2.2. (1972); art. 2.1. (1975); art. 2.6.; art 2.5. (1972); art. 2.4. (1975). N.B. Art. 2.3. (art. 2.2. (1972)) luidt: ‘Telkens als door wijziging van het percentage voor de kasreserve of door wijziging van het bedrag der op postrekeningen gestorte en nog niet terugbetaalde bedragen als bedoeld in lid 1, het bedrag van de aldaar bedoelde kasreserve moet worden verhoogd of verlaagd, doet de Directeur-Generaal van het Staatsbedrijf der PTT daarvan mededeling aan de Minister van Financiën en De Nederlandsche Bank N.V.’ Voorstel: b (5) 
 
 #### *11.7.1.4 Handelingen met betrekking tot de Rijkspostspaarbank* 
 
@@ -3105,7 +3105,7 @@ Het voorbereiden, vaststellen, wijzigen en intrekken van Ministeriële regelinge
 Het voorbereiden van de vaststelling, wijziging en intrekking van algemene maatregelen van bestuur tot vaststelling van nadere regels inzake de beperking van het vorderingsrecht bij het openen van een spaarbankrekening op naam van een ander (door het stellen van een tijdsbepaling voor de uitoefening van dat vorderingsrecht). Periode: 1955–1985 Grondslag: Postspaarbankwet 1954, art. 7.5. Voorstel: b (5) 
 ###(716) HANDELING
 
-Het voorbereiden van de vaststelling, wijziging en intrekking van algemene maatregelen van bestuur tot vaststelling van de maximale omvang van het reservefonds van de RPS. Periode: 1955–1985 Grondslag: Postspaarbankwet 1954, art. 13.1. Voorstel: b (5)  
+Het voorbereiden van de vaststelling, wijziging en intrekking van algemene maatregelen van bestuur tot vaststelling van de maximale omvang van het reservefonds van de RPS. Periode: 1955–1985 Grondslag: Postspaarbankwet 1954, art. 13.1. Voorstel: b (5) 
 
 #### *11.7.1.5 Handelingen met betrekking tot de Postbank* 
 
@@ -3120,7 +3120,7 @@ Het sluiten van overeenkomsten met de Postbank inzake de wijze waarop en de verg
 Het – in overleg met de Postbank (en PTT Post BV. – 1988) – aanwijzen van postinrichtingen van het Staatsbedrijf der PTT (van PTT Post B.V. – 1988) waarvan de Postbank bij de uitoefening van haar bedrijf in elk geval gebruik moet maken. Periode: 1986–.... Grondslag: Postbankwet, art. 12.1. Voorstel: b (5) 
 ###(731) HANDELING
 
-Het vaststellen van overeenkomsten tussen de Postbank en de Staat (het Staatsbedrijf der PTT) (en PTT Post BV – 1988) inzake de rechtsbetrekkingen ten aanzien van het gebruik van de postinrichtingen. Periode: 1986–.... Grondslag: Postbankwet, art. 12.2. Voorstel: b (5)  
+Het vaststellen van overeenkomsten tussen de Postbank en de Staat (het Staatsbedrijf der PTT) (en PTT Post BV – 1988) inzake de rechtsbetrekkingen ten aanzien van het gebruik van de postinrichtingen. Periode: 1986–.... Grondslag: Postbankwet, art. 12.2. Voorstel: b (5) 
 
 #### *11.7.2 Commissie van advies betreffende de bemoeiingen van de openbare lichamen met betrekking tot het betalingsverkeer zonder gereed geld* 
 
@@ -3132,7 +3132,7 @@ Het – desgevraagd of uit eigener beweging – adviseren van de Minister belast
 Het opstellen van jaarlijkse verslagen inzake zijn werkzaamheden in het afgelopen jaar. Periode: 1940–(1985) Grondslag: Besluit van den 6den augustus 1937, Stb. 354, art. 7. Voorstel: b (3) 
 ###(693) HANDELING
 
-Het adviseren van de Minister belast met de zorg voor het Staatsbedrijf der PTT en de Minister van Financiën inzake het vaststellen van besluiten tot verlenging van de termijn waarbinnen aan elke aanvraag om terugbetaling van op spaarbankboekjes verschuldigde gelden moet worden voldaan. Periode: 1940–1955 Grondslag: Postspaarbankwet, art. 16.2.; Postspaarbankwet, zoals gewijzigd bij Uitvoeringsbesluit reorganisatie RPS, art. 16.2. Voorstel: b (1)  
+Het adviseren van de Minister belast met de zorg voor het Staatsbedrijf der PTT en de Minister van Financiën inzake het vaststellen van besluiten tot verlenging van de termijn waarbinnen aan elke aanvraag om terugbetaling van op spaarbankboekjes verschuldigde gelden moet worden voldaan. Periode: 1940–1955 Grondslag: Postspaarbankwet, art. 16.2.; Postspaarbankwet, zoals gewijzigd bij Uitvoeringsbesluit reorganisatie RPS, art. 16.2. Voorstel: b (1) 
 
 #### *11.7.3 Commissie van advies inzake de Rijkspostspaarbank* 
 
@@ -3147,7 +3147,7 @@ Het uitoefenen van toezicht op het beheer en de toestand van de RPS. Periode: 19
 Het adviseren van de Minister belast met de zorg voor het Staatsbedrijf der PTT inzake de regeling der werkzaamheden van de Raad van Toezicht op de RPS. Periode: 1946–1954 Grondslag: Postspaarbankwet, art. 4.1. Voorstel: b (1) 
 ###(693) HANDELING
 
-Het adviseren van de Minister belast met de zorg voor het Staatsbedrijf der PTT en de Minister van Financiën inzake het vaststellen van besluiten tot verlenging van de termijn waarbinnen aan elke aanvraag om terugbetaling van op spaarbankboekjes verschuldigde gelden moet worden voldaan. Periode: 1946–1954 Grondslag: Postspaarbankwet, art. 16.2.; Postspaarbankwet, zoals gewijzigd bij Uitvoeringsbesluit reorganiastie RPS, art. 16.2. Voorstel: b (1)  
+Het adviseren van de Minister belast met de zorg voor het Staatsbedrijf der PTT en de Minister van Financiën inzake het vaststellen van besluiten tot verlenging van de termijn waarbinnen aan elke aanvraag om terugbetaling van op spaarbankboekjes verschuldigde gelden moet worden voldaan. Periode: 1946–1954 Grondslag: Postspaarbankwet, art. 16.2.; Postspaarbankwet, zoals gewijzigd bij Uitvoeringsbesluit reorganiastie RPS, art. 16.2. Voorstel: b (1) 
 
 #### *11.7.4 Directeur-Generaal der PTT* 
 
@@ -3234,13 +3234,13 @@ Het verlenen van ontheffingen aan medewerkers van de RPS van de verplichting tot
 Het opstellen van jaarverslagen inzake het gevoerde beheer over de RPS (ten behoeve van de Minister van Financiën en de Minister belast met de zorg voor het Staatsbedrijf der PTT). Periode: 1955–1985 Grondslag: Postspaarbankwet 1954, art. 18. Voorstel: b (3) 
 ###(714) HANDELING
 
-Het opstellen van verantwoordingen inzake het beleid van de RPS als spaarinstelling ten behoeve van de Minister van Financiën. Periode: 1955–1985 Grondslag: Postspaarbankwet 1954, art. 4.2. Voorstel: b (3)  
+Het opstellen van verantwoordingen inzake het beleid van de RPS als spaarinstelling ten behoeve van de Minister van Financiën. Periode: 1955–1985 Grondslag: Postspaarbankwet 1954, art. 4.2. Voorstel: b (3) 
 
 #### *11.7.5 PTT-Raad* 
 
 ###(668) HANDELING
 
-Het uitoefenen van toezicht op het beheer en de toestand van de Rijkspostspaarbank. Periode: 1955–1985 Grondslag: Postspaarbankwet 1954, art. 6. Voorstel: b (5)  
+Het uitoefenen van toezicht op het beheer en de toestand van de Rijkspostspaarbank. Periode: 1955–1985 Grondslag: Postspaarbankwet 1954, art. 6. Voorstel: b (5) 
 
 #### *11.7.6 Raad van toezicht op de Rijkspostspaarbank* 
 
@@ -3255,11 +3255,11 @@ Het uitoefenen van toezicht op het beheer en de toestand van de RPS. Periode: 19
 Het adviseren van de Minister belast met de zorg voor het Staatsbedrijf der PTT inzake de regeling der werkzaamheden van de Raad van Toezicht op de RPS. Periode: 1940–1942 Grondslag: Postspaarbankwet, art. 4.1. Voorstel: b (1) 
 ###(693) HANDELING
 
-Het adviseren van de Minister belast met de zorg voor het Staatsbedrijf der PTT en de Minister van Financiën inzake het vaststellen van besluiten tot verlenging van de termijn waarbinnen aan elke aanvraag om terugbetaling van op spaarbankboekjes verschuldigde gelden moet worden voldaan. Periode: 1940–1955 Grondslag: Postspaarbankwet, art. 16.2.; Postspaarbankwet, zoals gewijzigd bij Uitvoeringsbesluit reorganisatie RPS, art. 16.2. Voorstel: b (5)  
+Het adviseren van de Minister belast met de zorg voor het Staatsbedrijf der PTT en de Minister van Financiën inzake het vaststellen van besluiten tot verlenging van de termijn waarbinnen aan elke aanvraag om terugbetaling van op spaarbankboekjes verschuldigde gelden moet worden voldaan. Periode: 1940–1955 Grondslag: Postspaarbankwet, art. 16.2.; Postspaarbankwet, zoals gewijzigd bij Uitvoeringsbesluit reorganisatie RPS, art. 16.2. Voorstel: b (5) 
 
 #### *11.8 VakMinister* 
 
 ###(596) HANDELING
 
-Het (mede)goedkeuren van door de directeur van de PCGD verleende vrijstellingen van de betaling van rechten bedoeld in artikel 35, lid 1, onder a en d, aan de houders van postrekeningen, geopend ten behoeve van (de takken van) ’s Rijks dienst (die onder hun Ministerie ressorteren). Periode: 1940–1955 Grondslag: Girobesluit 1934, art. 37.2. Voorstel: v Termijn: 10 jaar na vervallen van de vrijstelling.  
+Het (mede)goedkeuren van door de directeur van de PCGD verleende vrijstellingen van de betaling van rechten bedoeld in artikel 35, lid 1, onder a en d, aan de houders van postrekeningen, geopend ten behoeve van (de takken van) ’s Rijks dienst (die onder hun Ministerie ressorteren). Periode: 1940–1955 Grondslag: Girobesluit 1934, art. 37.2. Voorstel: v Termijn: 10 jaar na vervallen van de vrijstelling. 
 

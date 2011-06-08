@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet luchtvaart.   
+Wijzigt de Wet luchtvaart. 
 
 ### Artikel  II  
 
@@ -19,25 +19,25 @@ Wijzigt de Wet luchtvaart.
 
 a. een voorstel als bedoeld in [artikel 8.25e, eerste lid](../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), waarvan voor dat tijdstip aan de gebruikers van de luchthaven mededeling is gedaan;  
 
-b. een aanvraag als bedoeld in [artikel 8.25f, eerste lid](../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), die voor dat tijdstip is ingediend;  
+b.  een aanvraag als bedoeld in [artikel 8.25f, eerste lid](../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), die voor dat tijdstip is ingediend;  
 
-c. de vaststelling van tarieven en voorwaarden als bedoeld in [artikel 8.25f, derde lid](../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), die voor dat tijdstip heeft plaatsgevonden.     
-2.  De tarieven en voorwaarden voor de activiteiten van de exploitant van de luchthaven ten behoeve van het gebruik van de luchthaven door gebruikers, vastgesteld door de exploitant van de luchthaven, op grond van de [artikelen 8.24a tot en met 8.25j van de Wet luchtvaart](../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), behouden hun geldigheid tot het moment dat de nieuwe tarieven van kracht worden.   
+c.  de vaststelling van tarieven en voorwaarden als bedoeld in [artikel 8.25f, derde lid](../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), die voor dat tijdstip heeft plaatsgevonden.     
+2.  De tarieven en voorwaarden voor de activiteiten van de exploitant van de luchthaven ten behoeve van het gebruik van de luchthaven door gebruikers, vastgesteld door de exploitant van de luchthaven, op grond van de [artikelen 8.24a tot en met 8.25j van de Wet luchtvaart](../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), behouden hun geldigheid tot het moment dat de nieuwe tarieven van kracht worden.  
 
 ### Artikel  III  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 27 januari 2011  
 Beatrix  
 
-De Staatssecretaris van Infrastructuur en Milieu, 
+De Staatssecretaris van Infrastructuur en Milieu,  
 J. J. Atsma   
 
 de *tweeëntwintigste* februari 2011 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

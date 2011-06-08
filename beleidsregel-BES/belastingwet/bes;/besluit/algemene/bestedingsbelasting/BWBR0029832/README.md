@@ -26,4 +26,4 @@ Den Haag
 
 De 
 staatssecretaris van Financiën, 
-F.H.H.Weekers.   
+F.H.H. Weekers.     

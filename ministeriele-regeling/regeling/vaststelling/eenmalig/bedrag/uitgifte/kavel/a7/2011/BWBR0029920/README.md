@@ -12,18 +12,18 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *minister:* Minister van Economische Zaken, Landbouw en Innovatie;  
+a.  *minister:* Minister van Economische Zaken, Landbouw en Innovatie;  
 
-b. *Regeling aanvraag:*[Regeling aanvraag en vergelijkende toets vergunningen kavels A7 en A8 in de FM-band en aanvraag vergunningen voor frequentieruimte in band III](../../../../../../../../../../ministeriele-regeling/regeling/aanvraag/en/vergelijkende/toets/vergunningen/kavels/a7/en/a8/in/etc/BWBR0029915/README.md);  
+b.  *Regeling aanvraag:* [Regeling aanvraag en vergelijkende toets vergunningen kavels A7 en A8 in de FM-band en aanvraag vergunningen voor frequentieruimte in band III](../../../../../../../../../../ministeriele-regeling/regeling/aanvraag/en/vergelijkende/toets/vergunningen/kavels/a7/en/a8/in/etc/BWBR0029915/README.md);  
 
-c. *kavel A7:* kavel A7 zoals bepaald in [artikel 1 van de Regeling aanvraag](../../../../../../../../../../ministeriele-regeling/regeling/aanvraag/en/vergelijkende/toets/vergunningen/kavels/a7/en/a8/in/etc/BWBR0029915/README.md);  
+c.  *kavel A7:* kavel A7 zoals bepaald in [artikel 1 van de Regeling aanvraag](../../../../../../../../../../ministeriele-regeling/regeling/aanvraag/en/vergelijkende/toets/vergunningen/kavels/a7/en/a8/in/etc/BWBR0029915/README.md);  
 
-d. *vergunning voor digitale radio-omroep:* vergunning voor digitale radio-omroep zoals bepaald in [artikel 1 van de Regeling aanvraag](../../../../../../../../../../ministeriele-regeling/regeling/aanvraag/en/vergelijkende/toets/vergunningen/kavels/a7/en/a8/in/etc/BWBR0029915/README.md).    
+d.  *vergunning voor digitale radio-omroep:* vergunning voor digitale radio-omroep zoals bepaald in [artikel 1 van de Regeling aanvraag](../../../../../../../../../../ministeriele-regeling/regeling/aanvraag/en/vergelijkende/toets/vergunningen/kavels/a7/en/a8/in/etc/BWBR0029915/README.md).   
 
 ### Artikel  2  
 
 1.  De verkrijger of houder van een vergunning voor kavel A7 en van een vergunning voor digitale radio-omroep welke verleend is met toepassing van de [Regeling aanvraag](../../../../../../../../../../ministeriele-regeling/regeling/aanvraag/en/vergelijkende/toets/vergunningen/kavels/a7/en/a8/in/etc/BWBR0029915/README.md), is voor het gebruik van de desbetreffende frequentieruimte gedurende de periode van 1 september 2011 tot en met 31 augustus 2017 een eenmalig bedrag verschuldigd, waarvan de hoogte is: € 17.563.200,–.   
-2.  Indien de verlening van de vergunningen met toepassing van de [Regeling aanvraag](../../../../../../../../../../ministeriele-regeling/regeling/aanvraag/en/vergelijkende/toets/vergunningen/kavels/a7/en/a8/in/etc/BWBR0029915/README.md) plaats vindt na 1 september 2011, is voor de resterende periode tot en met 31 augustus 2017 een eenmalig bedrag verschuldigd waarvan de hoogte wordt bepaald door het desbetreffende eenmalig bedrag, genoemd in het eerste lid, te vermenigvuldigen met een breuk waarvan de teller wordt gevormd door het aantal hele maanden dat na het tijdstip van vergunningverlening resteert tot en met 31 augustus 2017 en de noemer door het getal 72.   
+2.  Indien de verlening van de vergunningen met toepassing van de [Regeling aanvraag](../../../../../../../../../../ministeriele-regeling/regeling/aanvraag/en/vergelijkende/toets/vergunningen/kavels/a7/en/a8/in/etc/BWBR0029915/README.md) plaats vindt na 1 september 2011, is voor de resterende periode tot en met 31 augustus 2017 een eenmalig bedrag verschuldigd waarvan de hoogte wordt bepaald door het desbetreffende eenmalig bedrag, genoemd in het eerste lid, te vermenigvuldigen met een breuk waarvan de teller wordt gevormd door het aantal hele maanden dat na het tijdstip van vergunningverlening resteert tot en met 31 augustus 2017 en de noemer door het getal 72.  
 
 ### Artikel  3  
 
@@ -31,46 +31,44 @@ d. *vergunning voor digitale radio-omroep:* vergunning voor digitale radio-omroe
 2.  Indien op verzoek van de verkrijger of de houder van de vergunningen in afwijking van het eerste lid uitstel van betaling wordt verleend, worden aan de beschikking tot uitstel van betaling de voorschriften verbonden dat het verschuldigde bedrag wordt betaald in zes gelijke termijnen die steeds jaarlijks vervallen op 1 september, voor het eerst op 1 september 2011, en dat de verkrijger respectievelijk de houder van de vergunningen een waarborgsom verstrekt of een bankgarantie volgens het model, opgenomen in de bijlage, overlegt ter hoogte van een zesde deel van het verschuldigde bedrag. Indien het tijdstip van vergunningverlening later ligt dan 21 juli 2011, vervalt de eerste termijn uiterlijk zes weken na dat tijdstip.   
 3.  Voor de betaling door de verkrijger of de houder van het door hem op grond van artikel 2 verschuldigde bedrag wordt mede: 
 
-a. de waarborgsom aangewend die op grond van [artikel 6 van de Regeling aanvraag](../../../../../../../../../../ministeriele-regeling/regeling/aanvraag/en/vergelijkende/toets/vergunningen/kavels/a7/en/a8/in/etc/BWBR0029915/README.md) is verstrekt, of  
+a. de waarborgsom aangewend die op grond van [artikel 6 van de Regeling aanvraag](../../../../../../../../../../ministeriele-regeling/regeling/aanvraag/en/vergelijkende/toets/vergunningen/kavels/a7/en/a8/in/etc/BWBR0029915/README.md) is verstrekt, of 
 
 b. in het geval de verkrijger niet tijdig of niet volledig heeft betaald, de bankgarantie aangewend die op grond van [artikel 6 van de Regeling aanvraag](../../../../../../../../../../ministeriele-regeling/regeling/aanvraag/en/vergelijkende/toets/vergunningen/kavels/a7/en/a8/in/etc/BWBR0029915/README.md) is verstrekt.     
 4.  De betalingen worden verricht door overmaking op het bankrekeningnummer 56.99.94.039, ten name van Ministerie van Economische Zaken, Landbouw en Innovatie; Agentschap Telecom, onder vermelding van ‘kavel A7’ en van ‘vergunning voor digitale radio-omroep’.   
-5.  De minister kan een geldschuld jegens de vergunninghouder die verband houdt met een bij of krachtens [hoofdstuk 3 van de Telecommunicatiewet](../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) genomen besluit, verrekenen met een vordering op grond van artikel 2.   
+5.  De minister kan een geldschuld jegens de vergunninghouder die verband houdt met een bij of krachtens [hoofdstuk 3 van de Telecommunicatiewet](../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) genomen besluit, verrekenen met een vordering op grond van artikel 2.  
 
 ### Artikel  4  
 
-[Artikel 4 van de Regeling vaststelling eenmalig bedrag landelijke commerciële radio-omroep 2011](../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/eenmalig/bedrag/landelijke/commerciële/radio-omroep/etc/BWBR0029752/README.md) is van overeenkomstige toepassing op degene die houder is van een vergunning voor digitale radio-omroep welke verleend is met toepassing van de [Regeling aanvraag](../../../../../../../../../../ministeriele-regeling/regeling/aanvraag/en/vergelijkende/toets/vergunningen/kavels/a7/en/a8/in/etc/BWBR0029915/README.md).  
+[Artikel 4 van de Regeling vaststelling eenmalig bedrag landelijke commerciële radio-omroep 2011](../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/eenmalig/bedrag/landelijke/commerciële/radio-omroep/etc/BWBR0029752/README.md) is van overeenkomstige toepassing op degene die houder is van een vergunning voor digitale radio-omroep welke verleend is met toepassing van de [Regeling aanvraag](../../../../../../../../../../ministeriele-regeling/regeling/aanvraag/en/vergelijkende/toets/vergunningen/kavels/a7/en/a8/in/etc/BWBR0029915/README.md). 
 
 ### Artikel  5  
 
 1.  Indien op grond van de [Regeling aanvraag](../../../../../../../../../../ministeriele-regeling/regeling/aanvraag/en/vergelijkende/toets/vergunningen/kavels/a7/en/a8/in/etc/BWBR0029915/README.md) aan een aanvrager geen vergunningen worden verleend voor kavel A7 en voor digitale radio-omroep, wordt de door hem op grond van [artikel 6, eerste lid, van de Regeling aanvraag](../../../../../../../../../../ministeriele-regeling/regeling/aanvraag/en/vergelijkende/toets/vergunningen/kavels/a7/en/a8/in/etc/BWBR0029915/README.md) verstrekte waarborgsom of bankgarantie door de Minister van Economische Zaken, Landbouw en Innovatie teruggestort, respectievelijk teruggegeven.   
 2.  Bij toepassing van het eerste lid vergoedt de minister de rente over de gestorte waarborgsom vanaf de dag waarop hij de waarborgsom heeft ontvangen op het bankrekeningnummer, genoemd in artikel 3, vierde lid, met dien verstande dat de rente wordt vergoed tot en met de dagvoorafgaand aan de dag waarop de waarborgsom door de minister wordt teruggestort.   
 3.  Bij toepassing van artikel 3, derde lid, onderdeel a, vergoedt de minister de rente over de op grond van [artikel 6, eerste lid, van de Regeling aanvraag](../../../../../../../../../../ministeriele-regeling/regeling/aanvraag/en/vergelijkende/toets/vergunningen/kavels/a7/en/a8/in/etc/BWBR0029915/README.md) verstrekte gestorte waarborgsom vanaf de dag waarop het besluit tot vaststelling van dit bedrag aan hem bekend is gemaakt tot en met 31 augustus 2011.   
-4.  De rente wordt berekend volgens actual/360 op basis van de door de Europese Centrale Bank vastgestelde Euro Overnight Index Average, minus 4 basispunten.   
+4.  De rente wordt berekend volgens actual/360 op basis van de door de Europese Centrale Bank vastgestelde Euro Overnight Index Average, minus 4 basispunten.  
 
 ### Artikel  6  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: Regeling vaststelling eenmalig bedrag uitgifte kavel A7 2011.  
+Deze regeling wordt aangehaald als: Regeling vaststelling eenmalig bedrag uitgifte kavel A7 2011. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 26 april 2011   
 
 De 
-Minister van Economische Zaken, Landbouw en Innovatie,
-M.J.M.Verhagen  
+Minister van Economische Zaken, Landbouw en Innovatie, 
+M.J.M. Verhagen    
 
 ### Bijlage  
 
 ####: Model voor een bankgarantie als bedoeld in artikel 3, tweede lid , van de Regeling vaststelling eenmalig bedrag uitgifte kavel a7 2011
 
-####Modelbankgarantie
-
-<sup> 1  dit model dient te worden gebruikt voor een bankgarantie    a.  voor het stellen van zekerheid in het kader van de aanvraagprocedure (i.v.m. de verplichting bedoeld in de verklaring onder I.C1 en/of I.C2) of    b.  met het oog op het verkrijgen van uitstel van betaling (i.v.m. de verplichting bedoeld in de verklaring onder I.D; uitstel van betaling wordt niet verleend voor het financieel bod)    c.  of ten behoeve van een combinatie hiervan.   Voor het financieel bod geldt de bankgarantie in beginsel voor maximaal één jaar. Bij het financieel instrument geldt de bankgarantie in beginsel maximaal 1 jaar als de aanvrager geen uitstel van betaling aanvraagt. Vraagt de aanvraag wél uitstel van betaling dan geldt de bankgarantie in beginsel voor maximaal zes jaar. De aanvrager kan al bij de aanvraag een verzoek om uitstel van betaling doen en dan zekerheid verschaffen met behulp van een bankgarantie voor in beginsel maximaal zes jaar.    </sup>  
+####Modelbankgarantie<sup> 1  dit model dient te worden gebruikt voor een bankgarantie    a.  voor het stellen van zekerheid in het kader van de aanvraagprocedure (i.v.m. de verplichting bedoeld in de verklaring onder I.C1 en/of I.C2) of     b.  met het oog op het verkrijgen van uitstel van betaling (i.v.m. de verplichting bedoeld in de verklaring onder I.D; uitstel van betaling wordt niet verleend voor het financieel bod)     c.  of ten behoeve van een combinatie hiervan.  Voor het financieel bod geldt de bankgarantie in beginsel voor maximaal één jaar. Bij het financieel instrument geldt de bankgarantie in beginsel maximaal 1 jaar als de aanvrager geen uitstel van betaling aanvraagt. Vraagt de aanvraag wél uitstel van betaling dan geldt de bankgarantie in beginsel voor maximaal zes jaar. De aanvrager kan al bij de aanvraag een verzoek om uitstel van betaling doen en dan zekerheid verschaffen met behulp van een bankgarantie voor in beginsel maximaal zes jaar.      </sup> 
 
 ### I  
 
@@ -92,7 +90,7 @@ D. dat op grond van [artikel 4:94 van de Awb](../../../../../../../../../../wet/
 
 E. dat ..... (naam aanvrager/houder van de vergunningen), rechtspersoon naar ..... (het recht van een van de lidstaten van de Europese Unie of van een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte) recht, statutair gevestigd te ....., kantoorhoudende te ....., hierna te noemen: ‘de Aanvrager/Houder’, op grond hiervan is gehouden een waarborgsom te storten of een bankgarantie te doen stellen ter zekerheid van al hetgeen de aanvrager ter zekerheid verschuldigd is, hierna te noemen: ‘de Vordering’, aan de Staat der Nederlanden, rechtspersoon naar Nederlands recht, waarvan de statutaire zetel is gevestigd te ’s-Gravenhage, hierna te noemen: ‘de Staat’;  
 
-F. dat de Aanvrager de Bank heeft verzocht een onherroepelijke en onafhankelijke bankgarantie te stellen ten behoeve van de Staat, welke op eerste verzoek van de Staat betaalbaar is;    
+F. dat de Aanvrager de Bank heeft verzocht een onherroepelijke en onafhankelijke bankgarantie te stellen ten behoeve van de Staat, welke op eerste verzoek van de Staat betaalbaar is;   
 
 ### II  
 
@@ -112,5 +110,5 @@ F. dat de Aanvrager de Bank heeft verzocht een onherroepelijke en onafhankelijke
 
 5. Deze bankgarantie wordt beheerst door Nederlands recht. Geschillen ter zake van deze bankgarantie kunnen uitsluitend worden voorgelegd aan de bevoegde Nederlandse rechter te ’s-Gravenhage.  
 
-6. Na verval van deze bankgarantie kan de Staat geen enkele aanspraak meer maken jegens de Bank uit hoofde van deze bankgarantie tenzij de Bank voorafgaande aan het moment waarop deze bankgarantie zou vervallen een mededeling ontving als bedoeld onder 2 waaraan de Bank nog niet voldeed. Op verzoek van de Bank zal de Staat deze bankgarantie nadat deze is vervallen retourneren aan de Bank. Plaats: ..... Datum: ..... Naam bank en ondertekening .....    
+6. Na verval van deze bankgarantie kan de Staat geen enkele aanspraak meer maken jegens de Bank uit hoofde van deze bankgarantie tenzij de Bank voorafgaande aan het moment waarop deze bankgarantie zou vervallen een mededeling ontving als bedoeld onder 2 waaraan de Bank nog niet voldeed. Op verzoek van de Bank zal de Staat deze bankgarantie nadat deze is vervallen retourneren aan de Bank. Plaats: ..... Datum: ..... Naam bank en ondertekening .....   
 

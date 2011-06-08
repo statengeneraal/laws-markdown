@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-Er is een Werkgroep Advies Wet wapens en munitie, hierna te noemen: de werkgroep.  
+Er is een Werkgroep Advies Wet wapens en munitie, hierna te noemen: de werkgroep. 
 
 ### Artikel  2  
 
@@ -40,28 +40,28 @@ Tot leden van de werkgroep worden benoemd:
 
 – A.M.A. Moeskops, Politieacademie, Adviseur Korpscheftaken en BOA en  
 
-– BEd J.H.A. Korte, Landelijk Platform Vuurwapens, Coördinator    
+– BEd J.H.A. Korte, Landelijk Platform Vuurwapens, Coördinator   
 
 ### Artikel  3  
 
-De werkgroep heeft als taak het gevraagd en ongevraagd uitbrengen van advies aan de Staatssecretaris van Veiligheid en Justitie op het terrein van wapens en munitie.  
+De werkgroep heeft als taak het gevraagd en ongevraagd uitbrengen van advies aan de Staatssecretaris van Veiligheid en Justitie op het terrein van wapens en munitie. 
 
 ### Artikel  4  
 
-De werkgroep stelt bij aanvang van haar werkzaamheden een reglement vast over haar werkwijze.  
+De werkgroep stelt bij aanvang van haar werkzaamheden een reglement vast over haar werkwijze. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst. Dit besluit vervalt met ingang van 1 april 2015.  
+Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst. Dit besluit vervalt met ingang van 1 april 2015. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Besluit Werkgroep Advies Wet wapens en munitie.  
+Dit besluit wordt aangehaald als: Besluit Werkgroep Advies Wet wapens en munitie. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 30 maart 2011   
 
 De 
-Staatssecretaris van Veiligheid en Justitie,
-F.Teeven   
+Staatssecretaris van Veiligheid en Justitie, 
+F. Teeven     

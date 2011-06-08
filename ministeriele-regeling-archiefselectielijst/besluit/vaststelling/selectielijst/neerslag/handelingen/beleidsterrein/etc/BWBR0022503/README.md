@@ -10,44 +10,44 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuur en Voedselkwaliteit en de onder hem ressorterende actoren op het beleidsterrein Zee- en Kustvisserij over de periode vanaf 1945 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuur en Voedselkwaliteit en de onder hem ressorterende actoren op het beleidsterrein Zee- en Kustvisserij over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 9 juli 2007   
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
+Minister van Onderwijs, Cultuur en Wetenschap, namens deze:de 
 algemene rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
-Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze: de 
+Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze:de 
 projectdirecteur Project Wegwerken Archiefachterstanden PWAA, 
-A. van derKooij  
+A. van der Kooij    
 
 ####Basisselectiedocument
 
 ####Instrument voor de selectie – ter vernietiging dan wel blijvende bewaring – van de administratieve neerslag van de zorgdragers
 
-*Minister van Landbouw, Natuur en Voedselkwaliteit*   *Minister van Financiën*  Op het beleidsterrein *Zee- en Kustvisserij* 1945–  *Tekst: drs. A. Mul (Doxis Informatiemanagers) en G. Stiemsma (Ministerie van LNV)*   *Eindredactie: Bram Duizer (PWAA)*  
+*Minister van Landbouw, Natuur en Voedselkwaliteit*  *Minister van Financiën*   Op het beleidsterrein *Zee- en Kustvisserij* 1945–  *Tekst: drs. A. Mul (Doxis Informatiemanagers) en G. Stiemsma (Ministerie van LNV)*  *Eindredactie: Bram Duizer (PWAA)*  
 ###Ontwerp/versie april 2007
 
 ####Lijst van Afkortingen
 
-AID: Algemene Inspectiedienst AMvB: Algemene maatregel van bestuur BZ: (Ministerie van) Buitenlandse Zaken BSD: Basis Selectiedocument CAS: Centrale Archief Selectiedienst DR: Dienst Regelingen Fin: (Ministerie van) Financiën KB: Koninklijk Besluit KNHG: Koninklijk Nederlands Historisch Genootschap LASER: Dienst Landelijke Service bij Regelingen LVV: 1946–1960 (Ministerie van) Landbouw, Visserij en Voedselvoorziening LenV: 1960–1989 (Ministerie van) Landbouw en Visserij LNV: 1989–2003 (Ministerie van) Landbouw, Natuurbeheer en Visserij 2003– (Ministerie van) Landbouw, Natuur en Voedselkwaliteit NA: Nationaal Archief OM: Openbaar Ministerie PIVOT: Project Invoering Verkorting Overbrengingstermijn RIO: Rapport Institutioneel Onderzoek Stb.: Staatsblad van het Koninkrijk der Nederlanden Stcrt.: Nederlandse Staatscourant TK: Tweede Kamer (Kamerstukaanduiding)  
+AID: Algemene Inspectiedienst AMvB: Algemene maatregel van bestuur BZ: (Ministerie van) Buitenlandse Zaken BSD: Basis Selectiedocument CAS: Centrale Archief Selectiedienst DR: Dienst Regelingen Fin: (Ministerie van) Financiën KB: Koninklijk Besluit KNHG: Koninklijk Nederlands Historisch Genootschap LASER: Dienst Landelijke Service bij Regelingen LVV: 1946–1960 (Ministerie van) Landbouw, Visserij en Voedselvoorziening LenV: 1960–1989 (Ministerie van) Landbouw en Visserij LNV: 1989–2003 (Ministerie van) Landbouw, Natuurbeheer en Visserij 2003– (Ministerie van) Landbouw, Natuur en Voedselkwaliteit NA: Nationaal Archief OM: Openbaar Ministerie PIVOT: Project Invoering Verkorting Overbrengingstermijn RIO: Rapport Institutioneel Onderzoek Stb.: Staatsblad van het Koninkrijk der Nederlanden Stcrt.: Nederlandse Staatscourant TK: Tweede Kamer (Kamerstukaanduiding) 
 
 ####Verantwoording
 
-####Doel en werking van het BSD
+#### Doel en werking van het BSD 
 
-Een Basis Selectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van één (enkele) organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Het BSD geldt dus voor de archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voor zover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Dit betekent dat er geen handelingen van particuliere actoren worden opgenomen. Een BSD wordt normaliter opgesteld op basis van institutioneel onderzoek. In het rapport institutioneel onderzoek (RIO) wordt dan het betreffende beleidsterrein beschreven, evenals de taken en bevoegdheden van de betrokken organen. De handelingen van de overheid op het beleidsterrein staan in het RIO in hun functionele context geplaatst. In het BSD zijn de handelingen overgenomen, alleen nu geordend naar de actor. Bovendien is bij elke handeling aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden. Door de beleidsterreingerichte benadering komen verschillende aspecten betreffende het beheer van de eigen organisatie van de zorgdrager (personeelsbeleid, financieel beleid, etc.) niet aan bod. Voor het selecteren van de administratieve neerslag die betrekking heeft op de instandhouding en ontwikkeling van de eigen organisaties van overheidsorganen dienen een aantal zogeheten ‘horizontale’ BSD’s. Deze horizontale BSD’s zijn van toepassing op alle organisaties van de rijksoverheid. Het niveau waarop geselecteerd wordt, is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voorzien van een waardering en indien van toepassing een vernietigingstermijn. De selectielijst treedt in werking twee dagen na publicatie in de Staatscourant en blijft in de huidige vorm hoogstens 20 jaar geldig.  
+Een Basis Selectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van één (enkele) organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Het BSD geldt dus voor de archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voor zover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Dit betekent dat er geen handelingen van particuliere actoren worden opgenomen. Een BSD wordt normaliter opgesteld op basis van institutioneel onderzoek. In het rapport institutioneel onderzoek (RIO) wordt dan het betreffende beleidsterrein beschreven, evenals de taken en bevoegdheden van de betrokken organen. De handelingen van de overheid op het beleidsterrein staan in het RIO in hun functionele context geplaatst. In het BSD zijn de handelingen overgenomen, alleen nu geordend naar de actor. Bovendien is bij elke handeling aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden. Door de beleidsterreingerichte benadering komen verschillende aspecten betreffende het beheer van de eigen organisatie van de zorgdrager (personeelsbeleid, financieel beleid, etc.) niet aan bod. Voor het selecteren van de administratieve neerslag die betrekking heeft op de instandhouding en ontwikkeling van de eigen organisaties van overheidsorganen dienen een aantal zogeheten ‘horizontale’ BSD’s. Deze horizontale BSD’s zijn van toepassing op alle organisaties van de rijksoverheid. Het niveau waarop geselecteerd wordt, is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voorzien van een waardering en indien van toepassing een vernietigingstermijn. De selectielijst treedt in werking twee dagen na publicatie in de Staatscourant en blijft in de huidige vorm hoogstens 20 jaar geldig. 
 
-####Afbakening van het beleidsterrein
+#### Afbakening van het beleidsterrein 
 
 Het beleidsterrein Zee- en kustvisserij heeft enkele raakvlakken met andere beleidsterreinen. 
 ###Agrarisch markt- en prijsbeleid
@@ -73,9 +73,9 @@ Er is voor gekozen om de kwaliteitsaspecten voor vis- en visproducten, zoals die
 De Europese marktordening voor visserij- en aquacultuurproducten bevat bepalingen die zijn gerelateerd aan productkwaliteit en dierenwelzijn en -⁠gezondheid. Dit laatste onderwerp komt in het onderhavige rapport niet expliciet aan de orde, alhoewel er zeker aanknopingspunten zijn. Zie voor dit onderwerp: Pivot-rapport nr. 107, *Gezondheid en welzijn van dieren*. 
 ###Sociaal-Economische Raad
 
-Het Productschap Vis speelt een rol in het zee- en kustvisserijbeleid en de uitvoering daarvan. Onderwerpen die zijn gerelateerd aan de bedrijfschappen-oude stijl (de voorlopers van de huidige productschappen), meestal ingesteld door de Minister van Landbouw, komen met name aan de orde in het Pivot-rapport betreffende het agrarisch markt- en prijsbeleid. De SER is sinds 1992 verantwoordelijk voor instellingshandelingen betreffende de product- en bedrijfschappen. Dit is een van de onderwerpen in Pivot-rapport nr. 58, *Sociaal-Economische Raad*. (Overigens heeft het Productschap Vis de opstelling van een organisatiespecifiek Basisselectiedocument in voorbereiding, zodat dit productschap niet in de handelingen in het voorliggende rapport zal worden meegenomen.)  
+Het Productschap Vis speelt een rol in het zee- en kustvisserijbeleid en de uitvoering daarvan. Onderwerpen die zijn gerelateerd aan de bedrijfschappen-oude stijl (de voorlopers van de huidige productschappen), meestal ingesteld door de Minister van Landbouw, komen met name aan de orde in het Pivot-rapport betreffende het agrarisch markt- en prijsbeleid. De SER is sinds 1992 verantwoordelijk voor instellingshandelingen betreffende de product- en bedrijfschappen. Dit is een van de onderwerpen in Pivot-rapport nr. 58, *Sociaal-Economische Raad*. (Overigens heeft het Productschap Vis de opstelling van een organisatiespecifiek Basisselectiedocument in voorbereiding, zodat dit productschap niet in de handelingen in het voorliggende rapport zal worden meegenomen.) 
 
-####Doelstellingen op dit beleidsterrein
+#### Doelstellingen op dit beleidsterrein 
 
 De hoofddoelstelling van de overheid voor beide beleidsterreinen (zeevisserij en kustvisserij) is dezelfde. Deze luidt: *Het bevorderen van een verantwoorde visserij en een evenwichtige exploitatie van de visbestanden.* (Structuurnota Zee- en kustvisserij 1993.) Dit houdt in dat binnen de randvoorwaarden die gesteld worden door andere functies, de overheid de visserij als economische activiteit tracht te bevorderen. De overheid maakt gebruik van drie beleidsinstrumenten om haar beleidsdoelstelling te operationaliseren, te weten: 
 
@@ -83,31 +83,31 @@ De hoofddoelstelling van de overheid voor beide beleidsterreinen (zeevisserij en
 
 – sturing en beheer van de visserij (de aanvoersector); hierbij kan o.a. worden gedacht aan het beheren van de visstand;  
 
-– marktordening; hierbij moet worden gedacht aan prijsregulering en bevordering van de kwaliteit van producten ten behoeve van de afzet en gericht op de markt.   Deze indeling in structuur, visrecht- en visstandbeheer en marktordening is ook in onderhavig rapport gehanteerd.  
+– marktordening; hierbij moet worden gedacht aan prijsregulering en bevordering van de kwaliteit van producten ten behoeve van de afzet en gericht op de markt.   Deze indeling in structuur, visrecht- en visstandbeheer en marktordening is ook in onderhavig rapport gehanteerd. 
 
-####Totstandkoming BSD
+#### Totstandkoming BSD 
 
-Dit BSD is gebaseerd op het rapport institutioneel onderzoek ‘ *Zee- en Kustvisserij. Een institutioneel onderzoek naar het handelen van de overheidsorganen op het beleidsterrein Zee- en kustvisserij (1945–2003)* ’. Dit rapport (nr. 159) is in 2004 opgesteld door drs. A. Mul. In vergelijking met het RIO zijn in dit BSD ter completering enkele extra actoren en handelingen opgenomen. Dat zijn de Commissie Sanering Zeevisserij (Commissie Tinbergen), de Commissie Ontwikkeling Zeevisserij (Commissie Diepenhorst), de Adviescommissie Uitgifte Mosselpercelen, de Stuurgroep project kunstmatige mosselverwaterplaatsen, de Controleraad voor de verbetering van de afzet van visserijproducten. Daarnaast is de actor Commissies toegevoegd. Zie hiervoor de handelingen 235–241. Daarnaast zijn enkele handelingen opgenomen voor de Algemene Inspectiedienst (AID). Een handeling die eveneens wordt uitgevoerd door de Minister van LNV en een toegevoegde handeling (242). Enkele handelingen die in het RIO werden toegeschreven aan de Minister van LNV, zijn in dit BSD ook opgenomen voor de uitvoerende dienst LASER en diens opvolger Dienst Regelingen. De handeling die in het RIO Zee- en Kustvisserij is opgenomen voor de Minister van Buitenlandse Zaken is buiten dit BSD gelaten, omdat het BSD voor Buitenlandse Zaken en Ontwikkelingssamenwerking deze handeling al ondervangt. De handelingen voor het College van Gedeputeerde Staten van de provincie Zeeland uit het RIO zijn buiten dit BSD gelaten, aangezien er een aparte lijst is vastgesteld voor provinciale organen. Het Productschap Vis is een actor op dit beleidsterrein, maar heeft een eigen BSD en wordt daarom niet in dit BSD Zee- en Kustvisserij opgenomen.  
+Dit BSD is gebaseerd op het rapport institutioneel onderzoek ‘*Zee- en Kustvisserij. Een institutioneel onderzoek naar het handelen van de overheidsorganen op het beleidsterrein Zee- en kustvisserij (1945–2003)*’. Dit rapport (nr. 159) is in 2004 opgesteld door drs. A. Mul.  In vergelijking met het RIO zijn in dit BSD ter completering enkele extra actoren en handelingen opgenomen. Dat zijn de Commissie Sanering Zeevisserij (Commissie Tinbergen), de Commissie Ontwikkeling Zeevisserij (Commissie Diepenhorst), de Adviescommissie Uitgifte Mosselpercelen, de Stuurgroep project kunstmatige mosselverwaterplaatsen, de Controleraad voor de verbetering van de afzet van visserijproducten. Daarnaast is de actor Commissies toegevoegd. Zie hiervoor de handelingen 235–241. Daarnaast zijn enkele handelingen opgenomen voor de Algemene Inspectiedienst (AID). Een handeling die eveneens wordt uitgevoerd door de Minister van LNV en een toegevoegde handeling (242). Enkele handelingen die in het RIO werden toegeschreven aan de Minister van LNV, zijn in dit BSD ook opgenomen voor de uitvoerende dienst LASER en diens opvolger Dienst Regelingen. De handeling die in het RIO Zee- en Kustvisserij is opgenomen voor de Minister van Buitenlandse Zaken is buiten dit BSD gelaten, omdat het BSD voor Buitenlandse Zaken en Ontwikkelingssamenwerking deze handeling al ondervangt. De handelingen voor het College van Gedeputeerde Staten van de provincie Zeeland uit het RIO zijn buiten dit BSD gelaten, aangezien er een aparte lijst is vastgesteld voor provinciale organen. Het Productschap Vis is een actor op dit beleidsterrein, maar heeft een eigen BSD en wordt daarom niet in dit BSD Zee- en Kustvisserij opgenomen. 
 
 ####Selectiedoelstelling
 
 In de productbeschrijving BSD van maart 2004 is de selectiedoelstelling van het Nationaal Archief als volgt verwoord. ‘De doelstelling van het Nationaal Archief bij de selectie van overheidsarchieven is dat de belangrijkste bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de rijksoverheid ten opzichte van haar omgeving, maar ook van de belangrijkste historisch-maatschappelijke gebeurtenissen en ontwikkelingen, voor zover deze zijn te reconstrueren uit overheidsarchieven.’ 
 
-####Selectiecriteria
+#### Selectiecriteria 
 
-Uitgaande van de algemene selectiedoelstelling heeft PIVOT in 1998 een (gewijzigde) lijst van algemene selectiecriteria geformuleerd. Met behulp van die algemene criteria wordt in een BSD een waardering toegekend aan de handelingen die door middel van het institutioneel onderzoek in kaart zijn gebracht. De algemene selectiecriteria van PIVOT zijn positief geformuleerd; het zijn bewaarcriteria. Is een handeling op grond van een criterium gewaardeerd met B (‘blijvend te bewaren’), dan betekent dit dat de administratieve neerslag van die handeling te zijner tijd geheel dient te worden overgebracht naar het NA. De neerslag van een handeling die niet aan één van de selectiecriteria voldoet, wordt op termijn vernietigd. De waardering van de desbetreffende handeling luidt dan V (vernietigen), onder vermelding van de periode waarna de vernietiging dient plaats te vinden. De neerslag die uit dergelijke handelingen voortvloeit, is dus niet noodzakelijk geacht voor een reconstructie van het overheidshandelen op hoofdlijnen.  
+Uitgaande van de algemene selectiedoelstelling heeft PIVOT in 1998 een (gewijzigde) lijst van algemene selectiecriteria geformuleerd. Met behulp van die algemene criteria wordt in een BSD een waardering toegekend aan de handelingen die door middel van het institutioneel onderzoek in kaart zijn gebracht. De algemene selectiecriteria van PIVOT zijn positief geformuleerd; het zijn bewaarcriteria. Is een handeling op grond van een criterium gewaardeerd met B (‘blijvend te bewaren’), dan betekent dit dat de administratieve neerslag van die handeling te zijner tijd geheel dient te worden overgebracht naar het NA. De neerslag van een handeling die niet aan één van de selectiecriteria voldoet, wordt op termijn vernietigd. De waardering van de desbetreffende handeling luidt dan V (vernietigen), onder vermelding van de periode waarna de vernietiging dient plaats te vinden. De neerslag die uit dergelijke handelingen voortvloeit, is dus niet noodzakelijk geacht voor een reconstructie van het overheidshandelen op hoofdlijnen. 
 
-####Algemene selectiecriteria
+#### Algemene selectiecriteria 
 
 ###Handelingen die worden gewaardeerd met B (ewaren)
 
 ###Algemene selectiecriteria
 
-1. Handelingen die betrekking hebben op *voorbereiding en bepaling van beleid* op hoofdlijnen *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op *evaluatie van beleid* op hoofdlijnen *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieronder valt ook het toetsen van en het toezien op beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op *verantwoording van beleid* op hoofdlijnen aan andere actoren *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op *(her)inrichting van organisaties* belast met beleid op hoofdlijnen *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop *beleidsuitvoering* op hoofdlijnen plaatsvindt *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op *beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten *Toelichting:* Bijvoorbeeld in het geval de Ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Overigens kan, ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) neerslag van bepaalde, als te vernietigen gewaardeerde handelingen, betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. Naast de algemene criteria kunnen er in een BSD, eveneens binnen het kader van de selectiedoelstelling, in overleg met het NA, beleidsterreinspecifieke criteria worden geformuleerd. Deze criteria worden doorlopend genummerd, waarbij wordt aangesloten bij de zes algemene criteria (dus vanaf 7). In dit BSD is geen aanvullend selectiecriterium toegekend.  
+1. Handelingen die betrekking hebben op *voorbereiding en bepaling van beleid* op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op *evaluatie van beleid* op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieronder valt ook het toetsen van en het toezien op beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op *verantwoording van beleid* op hoofdlijnen aan andere actoren  *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op *(her)inrichting van organisaties* belast met beleid op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop *beleidsuitvoering* op hoofdlijnen plaatsvindt  *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op *beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten  *Toelichting:* Bijvoorbeeld in het geval de Ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Overigens kan, ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) neerslag van bepaalde, als te vernietigen gewaardeerde handelingen, betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. Naast de algemene criteria kunnen er in een BSD, eveneens binnen het kader van de selectiedoelstelling, in overleg met het NA, beleidsterreinspecifieke criteria worden geformuleerd. Deze criteria worden doorlopend genummerd, waarbij wordt aangesloten bij de zes algemene criteria (dus vanaf 7). In dit BSD is geen aanvullend selectiecriterium toegekend. 
 
 ####Verslag vaststellingsprocedure
 
-Vaststelling BSD In 2004 is het ontwerp-BSD door de Minister van Financiën en de Minister van Landbouw, Natuur en Voedselkwaliteit aan de Minister van Onderwijs, Cultuur en Wetenschap aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 mei 2007 lag de selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Nationaal Archief evenals in de bibliotheken van genoemde Ministeries en bij de rijksarchieven in de provincie/regionaal historische centra, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 28 juni 2007 bracht de RvC advies uit (arc-2007.03942/1), hetwelk geen aanleiding heeft gegeven tot wijzigingen in de ontwerp-selectielijst. Daarop werd het BSD op 9 juli 2007 door de algemene rijksarchivaris, namens de Minister van Onderwijs, Cultuur en Wetenschap en de Project Directeur Project Wegwerken Archiefachterstanden (conform het convenant d.d. 30 mei 2006) namens de Minister van Financiën (C/S&A/07/1697) en de Minister van Landbouw, Natuur en Voedselkwaliteit, (C/S&A/07/1698) vastgesteld. Het is pas na deze publicatie in de Staatscourant mogelijk daadwerkelijk tot vernietiging van daarvoor in aanmerking komende archiefbescheiden over te gaan.  
+Vaststelling BSD In 2004 is het ontwerp-BSD door de Minister van Financiën en de Minister van Landbouw, Natuur en Voedselkwaliteit aan de Minister van Onderwijs, Cultuur en Wetenschap aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 mei 2007 lag de selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Nationaal Archief evenals in de bibliotheken van genoemde Ministeries en bij de rijksarchieven in de provincie/regionaal historische centra, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 28 juni 2007 bracht de RvC advies uit (arc-2007.03942/1), hetwelk geen aanleiding heeft gegeven tot wijzigingen in de ontwerp-selectielijst. Daarop werd het BSD op 9 juli 2007 door de algemene rijksarchivaris, namens de Minister van Onderwijs, Cultuur en Wetenschap en de Project Directeur Project Wegwerken Archiefachterstanden (conform het convenant d.d. 30 mei 2006) namens de Minister van Financiën (C/S&A/07/1697) en de Minister van Landbouw, Natuur en Voedselkwaliteit, (C/S&A/07/1698) vastgesteld. Het is pas na deze publicatie in de Staatscourant mogelijk daadwerkelijk tot vernietiging van daarvoor in aanmerking komende archiefbescheiden over te gaan. 
 
 ####Leeswijzer
 
@@ -119,7 +119,7 @@ Deze leeswijzer maakt duidelijk welke informatie in een handelingenblok te vinde
 
 – de vindplaats, dwz. de vermelding van staatsblad of staatscourant  
 
-– wijzigingen in de grondslag en het vervallen hiervan.   Een voorbeeld: Reclasseringsregeling 1947, art. 9, lid 2 (Stb. 1947, H 423), Reclasseringsregeling 1970, art. 8, lid, lid 3 (Stb. 1969, 598), gewijzigd 1978 (Stb. 1978, 254), vervallen in 1986 (Stb. 1986, 1) Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de *bron* worden genoemd waarin de betreffende handeling staat vermeld. Opmerking: Deze aanvullende informatie wordt slechts vermeld wanneer de strekking van de handeling toelichting behoeft. Waardering: Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering.  
+– wijzigingen in de grondslag en het vervallen hiervan.   Een voorbeeld: Reclasseringsregeling 1947, art. 9, lid 2 (Stb. 1947, H 423), Reclasseringsregeling 1970, art. 8, lid, lid 3 (Stb. 1969, 598), gewijzigd 1978 (Stb. 1978, 254), vervallen in 1986 (Stb. 1986, 1) Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de *bron* worden genoemd waarin de betreffende handeling staat vermeld. Opmerking: Deze aanvullende informatie wordt slechts vermeld wanneer de strekking van de handeling toelichting behoeft. Waardering: Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering. 
 
 ####Actorenoverzicht
 
@@ -131,7 +131,7 @@ Deze leeswijzer maakt duidelijk welke informatie in een handelingenblok te vinde
 
 – De Minister van Landbouw en Visserij (1960–1990)  
 
-– De Minister van Landbouw, Natuurbeheer en Visserij (1990–2003)   De primaire actor op het beleidsterrein *Zee- en kustvisserij* is de Minister van Landbouw, Natuur en Voedselkwaliteit (LNV). Met de actor *Minister van Landbouw, Natuur en Voedselkwaliteit (LNV)* wordt niet alleen deze bewindsman bedoeld, maar tevens het ondersteunende ambtelijke apparaat. (Hoewel dit een aantal ambtelijke functionarissen met zelfstandige bevoegdheden bevat, worden ze niet als zelfstandige actoren beschouwd: ze staan immers onder gezag van de Minister.) De Minister van LNV is verantwoordelijk voor het beleidsterrein en stelt het beleid vast. 
+– De Minister van Landbouw, Natuurbeheer en Visserij (1990–2003)    De primaire actor op het beleidsterrein *Zee- en kustvisserij* is de Minister van Landbouw, Natuur en Voedselkwaliteit (LNV). Met de actor *Minister van Landbouw, Natuur en Voedselkwaliteit (LNV)* wordt niet alleen deze bewindsman bedoeld, maar tevens het ondersteunende ambtelijke apparaat. (Hoewel dit een aantal ambtelijke functionarissen met zelfstandige bevoegdheden bevat, worden ze niet als zelfstandige actoren beschouwd: ze staan immers onder gezag van de Minister.) De Minister van LNV is verantwoordelijk voor het beleidsterrein en stelt het beleid vast. 
 ###College voor de Visserijen (1919–1964)
 
 De Visserijwet 1931 bevatte bepalingen ten aanzien van een College voor de Visserijen en een Raad voor de Visserij. Beide werden rond 1920 (resp. 1919 en 1921) ingesteld. Zowel het College als de Raad had tot taak voorlichting en advies te geven omtrent alle met de visserijen in verband staande onderwerpen. Het College richtte zich meer tot de regering, de Raad diende de Minister. Beide instanties keerden niet weer terug in de [Visserijwet 1963](../../../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md). Er bleef wel een Raad voor de Binnenvisserij bestaan. 
@@ -187,7 +187,7 @@ Onder voorzitterschap van de Directeur van de Visserijen. Het bedrijfsleven van 
 Geïnstalleerd door de Minister van Landbouw, Natuur en Voedselkwaliteit (LNV), in overleg met het Productschap voor Vis en Visproducten. In de stuurgroep hadden zowel vertegenwoordigers van de overheid als van het bedrijfsleven zitting. De taak van de stuurgroep was het ontwikkelen van voorstellen die zouden leiden tot een betere aansluiting van het vangstpatroon van de vissers aan de mogelijkheden die de markt bood. 
 ###Commissie Onderzoek Verplichte Sanering (Commissie Mok, 1991–1993)
 
-Geïnstalleerd door de Minister van Landbouw, Natuur en Voedselkwaliteit (LNV). Bestond uit externe deskundigen. Deze commissie had als opdracht te onderzoeken welke mogelijkheden er waren om een situatie af te dwingen, waarbij de totale vangstcapaciteit van de Nederlandse vloot werd afgestemd op de aan Nederland toegekende vangstquota. De opdracht had als uitgangspunt een vorm van verplichte sanering.  
+Geïnstalleerd door de Minister van Landbouw, Natuur en Voedselkwaliteit (LNV). Bestond uit externe deskundigen. Deze commissie had als opdracht te onderzoeken welke mogelijkheden er waren om een situatie af te dwingen, waarbij de totale vangstcapaciteit van de Nederlandse vloot werd afgestemd op de aan Nederland toegekende vangstquota. De opdracht had als uitgangspunt een vorm van verplichte sanering. 
 
 #### *B. Actoren onder de zorg van de Minister van Financiën* 
 
@@ -202,7 +202,7 @@ a. De handhaving van de op het stuk der visserijen in de Zeeuwse stromen, de daa
 
 b. Het beheer der tot het Domein van de Staat behorende visserijen in die wateren.  
 
-c. De bevordering van de belangen van de visserijen in die wateren, in het algemeen, ook door het opsporen, bekendmaken en helpen invoeren van elders tot stand gebrachte verbeteringen.   In de taakomschrijving in het KB van 1956 werd ook het toezicht op de zuiverheid van de voor de consumptie bestemde schelpdieren opgenomen.  
+c. De bevordering van de belangen van de visserijen in die wateren, in het algemeen, ook door het opsporen, bekendmaken en helpen invoeren van elders tot stand gebrachte verbeteringen.   In de taakomschrijving in het KB van 1956 werd ook het toezicht op de zuiverheid van de voor de consumptie bestemde schelpdieren opgenomen. 
 
 ####Selectielijsten
 
@@ -369,7 +369,7 @@ Handeling: Het toetreden tot internationale verdragen inzake (aspecten van) het 
 Handeling: Het onderhouden van bilaterale contacten met andere landen inzake (aspecten van) het zeevisserij- en kustvisserijbeleid Periode: 1945– Product: agenda’s, notulen, correspondentie, rapporten Waardering: V, 10 jaar 
 ###(48.)
 
-Handeling: Het deelnemen aan internationale overlegorganen op het gebied van het zeevisserij- en kustvisserijbeleid waarvan het secretariaat niet bij het Ministerie berust Periode: 1945– Product: vergaderstukken, uitnodigingen Opmerking: Bijv. RAC (regionale adviesraden). Waardering: V, 15 jaar  
+Handeling: Het deelnemen aan internationale overlegorganen op het gebied van het zeevisserij- en kustvisserijbeleid waarvan het secretariaat niet bij het Ministerie berust Periode: 1945– Product: vergaderstukken, uitnodigingen Opmerking: Bijv. RAC (regionale adviesraden). Waardering: V, 15 jaar 
 
 ####Deel 3 – Algemene Bepalingen Zee- en Kustvisserij
 
@@ -404,7 +404,7 @@ Handeling: Het voorbereiden van de totstandkoming, wijziging en intrekking van w
 Handeling: Het instellen van het College voor de Visserijen en de Raad voor de Visserij Periode: 1945–1964 Grondslag: Visserijwet 1931, artt. 25 en 25a Product: instellingsbesluiten Waardering: B 4 
 ###(55.)
 
-Handeling: Het benoemen van leden en secretarissen van het College voor de Visserijen en de Raad voor de Visserij Periode: 1945–1964 Grondslag: Visserijwet 1931, artt. 25 en 25a Product: instellingsbesluiten Waardering: V, 5 jaar na einde dienstverband of 75 jaar na geboorte  
+Handeling: Het benoemen van leden en secretarissen van het College voor de Visserijen en de Raad voor de Visserij Periode: 1945–1964 Grondslag: Visserijwet 1931, artt. 25 en 25a Product: instellingsbesluiten Waardering: V, 5 jaar na einde dienstverband of 75 jaar na geboorte 
 
 ####Deel 4 – Zeevisserij: Structuurbeleid
 
@@ -467,13 +467,13 @@ Handeling: Het vaststellen van de financiële bijdrage aan het O&S-fonds voor de
 
 ###(76.)
 
-Handeling: Het vaststellen van specifieke programma’s of plannen voor de ontwikkeling of rationalisering van ondernemingen op het gebied van de verwerking en afzet van visserijproducten, waarbinnen projecten mede uit het EOGFL gesubsidieerd kunnen worden Periode: 1971– Grondslag: Verordening (EEG) nr. 355/77; Verordening (EEG) nr. 4042/89 Product: programma’s, sectorplannen Opmerking: Het formuleren en wijzigen van prioriteiten of criteria voor steunverlening maakt deel uit van deze handeling. Waardering: B 1 
+Handeling: Het vaststellen van specifieke programma’s of plannen voor de ontwikkeling of rationalisering van ondernemingen op het gebied van de verwerking en afzet van visserijproducten, waarbinnen projecten mede uit het EOGFL gesubsidieerd kunnen worden Periode: 1971– Grondslag: Verordening (EEG) nr. 355/77; Verordening (EEG) nr. 4042/89  Product: programma’s, sectorplannen Opmerking: Het formuleren en wijzigen van prioriteiten of criteria voor steunverlening maakt deel uit van deze handeling. Waardering: B 1 
 ###(77.)
 
-Handeling: Het opstellen van een Enkelvoudige Programmeringsdocument (EPD) of Operationeel Programma (OP) voor het FIOV Periode: 1993– Grondslag: Europese verordeningen, bijv. Verordening (EG) nr. 2792/1999 Product: EPD’s Waardering: B 5 
+Handeling: Het opstellen van een Enkelvoudige Programmeringsdocument (EPD) of Operationeel Programma (OP) voor het FIOV Periode: 1993– Grondslag: Europese verordeningen, bijv. Verordening (EG) nr. 2792/1999  Product: EPD’s Waardering: B 5 
 ###(78.)
 
-Handeling: Het vaststellen van een plan voor de besteding van toegewezen FIOV-gelden Periode: 1993– Grondslag: Europese verordeningen, bijv. Verordening (EG) nr. 2792/1999 Product: bestedingsplan Waardering: V, 15 jaar 
+Handeling: Het vaststellen van een plan voor de besteding van toegewezen FIOV-gelden Periode: 1993– Grondslag: Europese verordeningen, bijv. Verordening (EG) nr. 2792/1999  Product: bestedingsplan Waardering: V, 15 jaar 
 ###9.3. Overige
 
 ###(79.)
@@ -545,7 +545,7 @@ Handeling: Het opstellen van een verslag over de doeltreffendheid en de effecten
 
 ###(104.)
 
-Handeling: Het vaststellen van regelingen betreffende de tegemoetkoming in de betaling van SFM-premielasten Periode: 2000–2001 Product: Regeling tegemoetkoming SFM-premielasten (Stcrt. 2001, 44); Regeling Vaststelling aanvraagperiode en subsidieplafond Regeling tegemoetkoming SFM-premielasten (Stcrt. 2001, 44) Waardering: B 1  
+Handeling: Het vaststellen van regelingen betreffende de tegemoetkoming in de betaling van SFM-premielasten Periode: 2000–2001 Product: Regeling tegemoetkoming SFM-premielasten (Stcrt. 2001, 44); Regeling Vaststelling aanvraagperiode en subsidieplafond Regeling tegemoetkoming SFM-premielasten (Stcrt. 2001, 44) Waardering: B 1 
 
 ####Deel 5 – Zeevisserij: Visrechtbeheer
 
@@ -592,7 +592,7 @@ Handeling: Het afgeven van nationaliteitsbewijzen voor vissersvaartuigen Periode
 
 ###(116.)
 
-Handeling: Het aan de EC doen toekomen van de nationale vlootgegevens ten behoeve van het Europese visserijregister Periode: 1989– Grondslag: Verordening (EEG) nr. 163/89, artt. 2 en 3; Verordening (EG) nr. 109/94, art. 3; Verordening (EG) nr. 2090/98, art. 3; Verordening (EG) nr. 26/2004 Opmerking: De meeste info wordt betrokken uit het nationale Centraal Visserijregister. Waardering: V, 10 jaar 
+Handeling: Het aan de EC doen toekomen van de nationale vlootgegevens ten behoeve van het Europese visserijregister Periode: 1989– Grondslag: Verordening (EEG) nr. 163/89, artt. 2 en 3; Verordening (EG) nr. 109/94, art. 3; Verordening (EG) nr. 2090/98, art. 3; Verordening (EG) nr. 26/2004  Opmerking: De meeste info wordt betrokken uit het nationale Centraal Visserijregister. Waardering: V, 10 jaar 
 ###13. Licenties
 
 ###(117.)
@@ -640,7 +640,7 @@ Handeling: Het verlenen van schriftelijke machtigingen voor de visserij op bepaa
 
 ###(128.)
 
-Handeling: Het verlenen van bijzondere visvergunningen voor de visserij in het NEAFC-gebied Periode: 2000– Grondslag: Regeling technische maatregelen 2000, art. 12, lid 3 Product: bijzondere visvergunningen Waardering: V, 10 jaar  
+Handeling: Het verlenen van bijzondere visvergunningen voor de visserij in het NEAFC-gebied Periode: 2000– Grondslag: Regeling technische maatregelen 2000, art. 12, lid 3 Product: bijzondere visvergunningen Waardering: V, 10 jaar 
 
 ####Deel 6 – Zeevisserij: Visstandbeheer
 
@@ -672,7 +672,7 @@ Handeling: Het registeren van vrieshuizen voor de opslag van bepaalde soorten vi
 
 ###(135.)
 
-Handeling: Het met andere lidstaten geheel of gedeeltelijk uitwisselen van toegewezen quota Periode: 1983– Grondslag: o.a. Verordening (EEG) nr. 170/83, art. 5, lid 1; Verordening (EG) nr. 2340/2002 Waardering: V, 10 jaar 
+Handeling: Het met andere lidstaten geheel of gedeeltelijk uitwisselen van toegewezen quota Periode: 1983– Grondslag: o.a. Verordening (EEG) nr. 170/83, art. 5, lid 1; Verordening (EG) nr. 2340/2002  Waardering: V, 10 jaar 
 ###18.2. Regelingen vangstbeperking
 
 ###(136.)
@@ -756,7 +756,7 @@ Handeling: Het afzonderlijk vaststellen of wijzigen van het aantal zeedagen dan 
 Handeling: Het beslissen op een verzoek tot ontheffing van het verbod tot het uitoefenen van de visserij of het aanlanden van vis op grond van de Zeedagenregeling Periode: 1987–2003 Grondslag: o.a. Zeedagenregeling 1988, art. 5, lid 1; Zeedagenregeling 1991, art. 5; Zeedagenregeling 1996, art. 6; Zeedagenregeling 2003, art. 8 Product: ontheffingen Opmerking: Vanaf de Zeedagenregeling 1996 hoeft de ondernemer voor het verkrijgen van een ontheffing geen administratieve plichtplegingen meer te verrichten en wordt de ontheffing hem automatisch verleend, hetgeen mogelijk is omdat de daarvoor benodigde gegevens reeds bekend zijn. Waardering: V, 10 jaar 
 ###(163.)
 
-Handeling: Het beslissen op een verzoek tot overdracht van een gedeelte van het aantal aan een groep toegewezen zeedagen dan wel een deel van de inspanningsquote of groepsinspanning aan deelnemers van een andere groep Periode: 1998–2003 Grondslag: o.a. Zeedagenregeling 1998, art. 12, lid 5; Zeedagenregeling 2003, art. 11, lid 3, en art. 13, lid 3 Product: beschikkingen Waardering: V, 10 jaar  
+Handeling: Het beslissen op een verzoek tot overdracht van een gedeelte van het aantal aan een groep toegewezen zeedagen dan wel een deel van de inspanningsquote of groepsinspanning aan deelnemers van een andere groep Periode: 1998–2003 Grondslag: o.a. Zeedagenregeling 1998, art. 12, lid 5; Zeedagenregeling 2003, art. 11, lid 3, en art. 13, lid 3 Product: beschikkingen Waardering: V, 10 jaar 
 
 ####Deel 7 – Zeevisserij: Marktordening
 
@@ -768,7 +768,7 @@ Handeling: Het beslissen op een verzoek tot overdracht van een gedeelte van het 
 
 ###(164.)
 
-Handeling: Het in het kader van de marktordening voor visserij- en aquacultuurproducten verstrekken van structurele informatie aan de Europese Commissie Periode: 1970– Grondslag: Europese verordeningen, o.a. Verordening (EEG) nr. 100/76, art. 8, lid 4; Verordening (EG) nr. 104/2000, art. 17, lid 4, en art. 34; Verordening (EG) nr. 80/2001 Product: overzichten, lijsten, rapporten Opmerking: Het betreft bijv. informatie over geconstateerde of voorgenomen prijzen, gegevens over producentenorganisaties, producten waarop de interventieregeling van toepassing is, lijsten van be- en verwerkende bedrijven, enz. Waardering: B 3 
+Handeling: Het in het kader van de marktordening voor visserij- en aquacultuurproducten verstrekken van structurele informatie aan de Europese Commissie Periode: 1970– Grondslag: Europese verordeningen, o.a. Verordening (EEG) nr. 100/76, art. 8, lid 4; Verordening (EG) nr. 104/2000, art. 17, lid 4, en art. 34; Verordening (EG) nr. 80/2001  Product: overzichten, lijsten, rapporten Opmerking: Het betreft bijv. informatie over geconstateerde of voorgenomen prijzen, gegevens over producentenorganisaties, producten waarop de interventieregeling van toepassing is, lijsten van be- en verwerkende bedrijven, enz. Waardering: B 3 
 ###19.3. Steun aan producentenorganisaties
 
 ###(165.)
@@ -821,7 +821,7 @@ Handeling: Het verstrekken van financiële steun aan producentenorganisaties ten
 Handeling: Het aan producentenorganisaties toekennen van vergoedingen in het kader van door deze organisaties genomen autonome ophoudmaatregelen (voor uit de markt genomen vis) Periode: 1991– Grondslag: Europese verordeningen, o.a. Verordening (EEG) nr. 3687/91, art. 16, lid 1; Verordening (EEG) nr. 3759/92, art. 15, lid 1; Verordening (EG) nr. 104/2000, art. 24, lid 1 Product: beschikking Waardering: V, 15 jaar 
 ###(179.)
 
-Handeling: Het bij de Europese Commissie declareren van de bedragen die zijn toegekend in het kader van door producentenorganisaties uitgevoerde ophoudmaatregelen (voor uit de markt genomen vis) Periode: 1991– Grondslag: Europese verordeningen, o.a. Verordening (EEG) nr. 3687/91; Verordening (EEG) nr. 3759/92; Verordening (EG) nr. 104/2000; Verordening (EG) nr. 2509/2000 Product: beschikking Waardering: V, 15 jaar 
+Handeling: Het bij de Europese Commissie declareren van de bedragen die zijn toegekend in het kader van door producentenorganisaties uitgevoerde ophoudmaatregelen (voor uit de markt genomen vis) Periode: 1991– Grondslag: Europese verordeningen, o.a. Verordening (EEG) nr. 3687/91; Verordening (EEG) nr. 3759/92; Verordening (EG) nr. 104/2000; Verordening (EG) nr. 2509/2000  Product: beschikking Waardering: V, 15 jaar 
 ###(180.)
 
 Handeling: Het aan producentenorganisaties toekennen van steun voor verkoopuitstel op basis van communautair vastgestelde ophoud- en verkoopprijzen Periode: 1982– Grondslag: Europese verordeningen, o.a. Verordening (EEG) nr. 3796/81, art. 14; Verordening (EEG) nr. 3759/92, art. 14; Verordening (EG) nr. 104/2000, art. 23 Product: beschikking Waardering: V, 15 jaar 
@@ -839,7 +839,7 @@ Handeling: Het aan niet bij producentenorganisaties aangesloten producenten toek
 Handeling: Het in crisissituaties (doen) aankopen van visserijproducten Periode: 1976– Grondslag: Europese verordeningen, o.a. Verordening (EEG) nr. 100/76, art. 12, lid 2 Opmerking: Hiervan is sprake indien de producentenprijzen die op representatieve markten zijn genoteerd, drie dagen achter elkaar beneden de interventieprijs liggen. Waardering: V, 15 jaar 
 ###(185.)
 
-Handeling: Het met de Europese Commissie overleggen over te nemen spoedmaatregelen in geval van ernstige verstoringen van de markt ten gevolge van de invoer of uitvoer van visserijproducten Periode: 1971– Grondslag: Europese verordeningen, o.a. Verordening (EEG) nr. 2142/70, art. 20, lid 2; Verordening (EEG) nr. 100/76, art. 22, lid 2; Verordening (EEG) nr. 3759/92, art. 24, lid 2 Opmerking: In conformiteit met verordening 3285/94. Waardering: V, 15 jaar  
+Handeling: Het met de Europese Commissie overleggen over te nemen spoedmaatregelen in geval van ernstige verstoringen van de markt ten gevolge van de invoer of uitvoer van visserijproducten Periode: 1971– Grondslag: Europese verordeningen, o.a. Verordening (EEG) nr. 2142/70, art. 20, lid 2; Verordening (EEG) nr. 100/76, art. 22, lid 2; Verordening (EEG) nr. 3759/92, art. 24, lid 2 Opmerking: In conformiteit met verordening 3285/94. Waardering: V, 15 jaar 
 
 ####Deel 8 – Zeevisserij: Financieringsaspecten
 
@@ -849,7 +849,7 @@ Handeling: Het met de Europese Commissie overleggen over te nemen spoedmaatregel
 
 ###(186.)
 
-Handeling: Het bij de EC indienen van een verzoek tot vergoeding van de uitgaven die zijn gedaan voor maatregelen die vallen onder het communautaire visserijbeleid (EOGFL) Periode: 1971– Grondslag: Europese verordeningen, bijv. Verordening (EEG) nr. 729/70 Product: declaraties Opmerking: De directie FEZ verzorgt de periodieke declaraties bij de EC voor de EOGFL-uitgaven. Waardering: V, 15 jaar 
+Handeling: Het bij de EC indienen van een verzoek tot vergoeding van de uitgaven die zijn gedaan voor maatregelen die vallen onder het communautaire visserijbeleid (EOGFL) Periode: 1971– Grondslag: Europese verordeningen, bijv. Verordening (EEG) nr. 729/70  Product: declaraties Opmerking: De directie FEZ verzorgt de periodieke declaraties bij de EC voor de EOGFL-uitgaven. Waardering: V, 15 jaar 
 ###(187.)
 
 Handeling: Het opstellen van stukken voor de financiële verantwoording, aan de Europese Commissie, van de uitgaven van EOGFL-middelen ten behoeve van de visserijsector Periode: 1971– Grondslag: Verordening nr. 17/64/EEG, art. 22, lid 2; Verordening (EEG) nr. 729/70, art. 4, lid 3 Product: voortgangs- en eindrapporten, (samenvattende) rekeningen Opmerking: De Minister van Landbouw, Natuur en Voedselkwaliteit (LNV) doet deze stukken aan de Europese Commissie toekomen. Hierbij kunnen ook rapporten van de bevoegde controlediensten worden gevoegd. Waardering: B 3 
@@ -858,13 +858,13 @@ Handeling: Het opstellen van stukken voor de financiële verantwoording, aan de 
 Handeling: Het opstellen van stukken voor de Europese Commissie betreffende de nationale handhavings- en controlemaatregelen ter zake van de uitgaven van de EOGFL-gelden voor de visserijsector Periode: 1971– Grondslag: Verordening (EEG) nr. 729/70, artt. 8 en 9; Verordening (EG) 1258/1999, art. 8, lid 1 Opmerking: Deze stukken kunnen onder andere betrekking hebben op de regelmatigheid van de uitvoering van regelingen, terugvorderingen en administratieve en gerechtelijke procedures. Waardering: B 3 
 ###(189.)
 
-Handeling: Het bij de EC indienen van een verzoek tot vergoeding van de uitgaven die zijn gedaan voor maatregelen die vallen onder het communautaire visserijbeleid (FIOV) Periode: 1993– Grondslag: Europese verordeningen, bijv. Verordening (EEG) nr. 2080/93; Verordening (EG) nr. 1263/1999 Product: declaraties Opmerking: De directie FEZ verzorgt de periodieke declaraties bij de EC voor de FIOV-uitgaven. Waardering: V, 15 jaar 
+Handeling: Het bij de EC indienen van een verzoek tot vergoeding van de uitgaven die zijn gedaan voor maatregelen die vallen onder het communautaire visserijbeleid (FIOV) Periode: 1993– Grondslag: Europese verordeningen, bijv. Verordening (EEG) nr. 2080/93; Verordening (EG) nr. 1263/1999  Product: declaraties Opmerking: De directie FEZ verzorgt de periodieke declaraties bij de EC voor de FIOV-uitgaven. Waardering: V, 15 jaar 
 ###(190.)
 
-Handeling: Het opstellen van stukken voor de financiële verantwoording, aan de Europese Commissie, van de uitgaven van FIOV-middelen Periode: 1993– Grondslag: Europese verordeningen, bijv. Verordening (EEG) nr. 2080/93; Verordening (EG) nr. 1263/1999 Product: voortgangs- en eindrapporten, (samenvattende) rekeningen Opmerking: De Minister van Landbouw, Natuur en Voedselkwaliteit (LNV) doet deze stukken aan de Europese Commissie toekomen. Hierbij kunnen ook rapporten van de bevoegde controlediensten worden gevoegd. Waardering: B 3 
+Handeling: Het opstellen van stukken voor de financiële verantwoording, aan de Europese Commissie, van de uitgaven van FIOV-middelen Periode: 1993– Grondslag: Europese verordeningen, bijv. Verordening (EEG) nr. 2080/93; Verordening (EG) nr. 1263/1999  Product: voortgangs- en eindrapporten, (samenvattende) rekeningen Opmerking: De Minister van Landbouw, Natuur en Voedselkwaliteit (LNV) doet deze stukken aan de Europese Commissie toekomen. Hierbij kunnen ook rapporten van de bevoegde controlediensten worden gevoegd. Waardering: B 3 
 ###(191.)
 
-Handeling: Het opstellen van stukken voor de Europese Commissie betreffende de nationale handhavings- en controlemaatregelen ter zake van de uitgaven van de FIOV-gelden Periode: 1993– Grondslag: Europese verordeningen, bijv. Verordening (EEG) nr. 2080/93; Verordening (EG) nr. 1263/1999 Opmerking: Deze stukken kunnen onder andere betrekking hebben op de regelmatigheid van de uitvoering van regelingen, terugvorderingen en administratieve en gerechtelijke procedures. Waardering: B 3 
+Handeling: Het opstellen van stukken voor de Europese Commissie betreffende de nationale handhavings- en controlemaatregelen ter zake van de uitgaven van de FIOV-gelden Periode: 1993– Grondslag: Europese verordeningen, bijv. Verordening (EEG) nr. 2080/93; Verordening (EG) nr. 1263/1999  Opmerking: Deze stukken kunnen onder andere betrekking hebben op de regelmatigheid van de uitvoering van regelingen, terugvorderingen en administratieve en gerechtelijke procedures. Waardering: B 3 
 ###21. Financiering controlemiddelen
 
 ###(192.)
@@ -872,7 +872,7 @@ Handeling: Het opstellen van stukken voor de Europese Commissie betreffende de n
 Handeling: Het aanvragen van bijdragen ter financiering van uitgaven in het kader van de controle, inspectie en/of toezicht op naleving van de communautaire regels voor de instandhouding en het beheer van de visbestanden Periode: 1989– Grondslag: Beschikking 89/631/EEG; Beschikking 95/527/EG; Beschikking 2001/431/EG Waardering: V, 15 jaar 
 ###(193.)
 
-Handeling: Het in het kader van een financieringsbijdrage opstellen van programma’s, verslagen, ramingen e.d. betreffende de organisatie en de kosten van controle, toezicht en/of inspectie Periode: 1989– Grondslag: Beschikking 89/631/EEG; Beschikking 95/527/EG; Beschikking 2001/431/EG Product: rapporten, ramingen, programma’s Waardering: V, 15 jaar  
+Handeling: Het in het kader van een financieringsbijdrage opstellen van programma’s, verslagen, ramingen e.d. betreffende de organisatie en de kosten van controle, toezicht en/of inspectie Periode: 1989– Grondslag: Beschikking 89/631/EEG; Beschikking 95/527/EG; Beschikking 2001/431/EG Product: rapporten, ramingen, programma’s Waardering: V, 15 jaar 
 
 ####Deel 9 – Kustvisserij
 
@@ -966,7 +966,7 @@ Handeling: Het sluiten van overeenkomsten betreffende de verhuur van vaste vispl
 
 ###(214.)
 
-Handeling: Het beheren en toetsen van toegezonden visplannen (kustvisserij) Periode: ca. 1992– Bron: Beleidsbesluit Vaste Vistuigen Product: afschriften visplannen Waardering: V, 5 jaar  
+Handeling: Het beheren en toetsen van toegezonden visplannen (kustvisserij) Periode: ca. 1992– Bron: Beleidsbesluit Vaste Vistuigen Product: afschriften visplannen Waardering: V, 5 jaar 
 
 ####Deel 10 – Algemeen: Controle en Toezicht
 
@@ -1008,7 +1008,7 @@ Handeling: Het aanwijzen van een functionaris voor de registratie- en verificati
 Handeling: Het beslissen op een verzoek tot goedkeuring van satellietvolgapparatuur Periode: 1998– Grondslag: Regeling technische maatregelen, als gewijzigd, art. 10; Regeling technische maatregelen 2000, art. 10 Product: beschikking Opmerking: Voorgenomen wijzigingen aan goedgekeurde apparatuur dienen schriftelijk aan de Minister te worden gemeld, waarna deze beslist of de goedkeuring wordt gehandhaafd. Waardering: V, 10 jaar 
 ###(223.)
 
-Handeling: Het beslissen op een verzoek tot toekenning van subsidie voor satellietvolgapparatuur Periode: 1998– Grondslag: Subsidieregeling satellietvolgapparatuur, art. 2, lid 1 Product: beschikking Waardering: V, 10 jaar  
+Handeling: Het beslissen op een verzoek tot toekenning van subsidie voor satellietvolgapparatuur Periode: 1998– Grondslag: Subsidieregeling satellietvolgapparatuur, art. 2, lid 1 Product: beschikking Waardering: V, 10 jaar 
 
 ####Deel 11 – Overige onderwerpen
 
@@ -1073,7 +1073,7 @@ Handeling: Het aan producentenorganisaties toekennen van ophoudvergoedingen (voo
 Handeling: Het aan producentenorganisaties toekennen van vergoedingen in het kader van door deze organisaties genomen autonome ophoudmaatregelen (voor uit de markt genomen vis) Periode: 1991– Grondslag: Europese verordeningen, o.a. Verordening (EEG) nr. 3687/91, art. 16, lid 1; Verordening (EEG) nr. 3759/92, art. 15, lid 1; Verordening (EG) nr. 104/2000, art. 24, lid 1 Product: beschikking Waardering: V, 15 jaar 
 ###(179.)
 
-Handeling: Het bij de Europese Commissie declareren van de bedragen die zijn toegekend in het kader van door producentenorganisaties uitgevoerde ophoudmaatregelen (voor uit de markt genomen vis) Periode: 1991– Grondslag: Europese verordeningen, o.a. Verordening (EEG) nr. 3687/91; Verordening (EEG) nr. 3759/92; Verordening (EG) nr. 104/2000; Verordening (EG) nr. 2509/2000 Product: beschikking Waardering: V, 15 jaar 
+Handeling: Het bij de Europese Commissie declareren van de bedragen die zijn toegekend in het kader van door producentenorganisaties uitgevoerde ophoudmaatregelen (voor uit de markt genomen vis) Periode: 1991– Grondslag: Europese verordeningen, o.a. Verordening (EEG) nr. 3687/91; Verordening (EEG) nr. 3759/92; Verordening (EG) nr. 104/2000; Verordening (EG) nr. 2509/2000  Product: beschikking Waardering: V, 15 jaar 
 ###(181.)
 
 Handeling: Het aan producentenorganisaties toekennen van vergoedingen in het kader van door deze organisaties genomen autonome verkoopuitstelmaatregelen Periode: 1991– Grondslag: Europese verordeningen, o.a. Verordening (EEG) nr. 3687/91, art. 16, lid 1; Verordening (EEG) nr. 3759/92, art. 15, lid 4; Verordening (EG) nr. 104/2000, art. 24, lid 4 Product: beschikking Waardering: V, 15 jaar 
@@ -1185,7 +1185,7 @@ Handeling: Het verlenen van ontheffingen voor de beoefening van schelpdiervisser
 Handeling: Het vaststellen van visplannen Periode: 1993– Grondslag: o.a. Beschikking regeling contingentering tong en schol Noordzee 1987, art. 11, lid 10; Beschikking regeling contingentering tong en schol Noordzee 1989, art. 10, lid 11; Regeling contingentering zeevis, art. 16, lid 6 Product: visplan Opmerking: Het visplan dient door het Productschap Vis te zijn goedgekeurd (Regeling contingentering zeevis). Waardering: B 5 voor eindproducten V, 5 jaar overige neerslag 
 ###(156.)
 
-Handeling: Het voeren van een deugdelijke administratie betreffende met de groepscontingentering samenhangende zaken Periode: 1993– Grondslag: o.a. Beschikking regeling contingentering tong en schol Noordzee 1987, art. 11, lid 12; Beschikking regeling contingentering tong en schol Noordzee 1989, art. 10, lid 13; Regeling contingentering zeevis, art. 17 Product: overzichten, rapportages Opmerking: Het betreft onder meer de administratie van huur- en verhuurtransacties, alsook de administratie betreffende de benutting en uitvoering van de groepscontingenten (omvang groepscontingent, hoeveelheden aangelande vis, gegevens ondernemers en vissersvaartuigen). Waardering: B 5  
+Handeling: Het voeren van een deugdelijke administratie betreffende met de groepscontingentering samenhangende zaken Periode: 1993– Grondslag: o.a. Beschikking regeling contingentering tong en schol Noordzee 1987, art. 11, lid 12; Beschikking regeling contingentering tong en schol Noordzee 1989, art. 10, lid 13; Regeling contingentering zeevis, art. 17 Product: overzichten, rapportages Opmerking: Het betreft onder meer de administratie van huur- en verhuurtransacties, alsook de administratie betreffende de benutting en uitvoering van de groepscontingenten (omvang groepscontingent, hoeveelheden aangelande vis, gegevens ondernemers en vissersvaartuigen). Waardering: B 5 
 
 ####B. Actoren onder de zorg van de Minister van Financiën
 
@@ -1210,5 +1210,5 @@ Handeling: Het verlenen van ontheffingen voor het beoefenen van visserijactivite
 Handeling: Het verlenen van vergunningen voor de beoefening van schelpdiervisserijactiviteiten in de Nederlandse zee- en kustwateren Periode: 1945–1969 Grondslag: o.a. Visserijwet 1963, art. 7; Visserijreglement voor de Waddenzee 1964, art. 11, lid 2; Visserijreglement voor de Zeeuwse stromen, art. 12, lid 2; Beschikking Verboden vistuigen in de gesloten gedeelten van de kustwateren, art. 3, lid 1; Beschikking visserij visserijzone, zeegebied en kustwateren, art. 11 Product: vergunningen Opmerking: Het betreft vergunningen voor onder meer het zoeken en vissen van mosselzaad en het uitzaaien van mosselen en oesters op percelen. Ook het rapen van schaal- en schelpdieren kan hier worden ondergebracht. Het betreft tevens vergunningen voor de mechanische en de niet-mechanische kokkelvisserij (sinds 1974). Binnen deze handeling horen ook stukken met betrekking tot de voorwaarden waaraan men moet voldoen om in aanmerking te komen voor een vergunning Waardering: V, 10 jaar na beëindiging vergunning 
 ###(205.)
 
-Handeling: Het verlenen van ontheffingen voor de beoefening van schelpdiervisserijactiviteiten in de Nederlandse zee- en kustwateren Periode: 1945–1969 Grondslag: o.a. Visserijreglement voor de Zuidhollandse stromen 1964, art. 13, lid 2; Visserijreglement voor de Zeeuwse stromen 1964, art. 14, lid 2; Visserijreglement voor de Waddenzee 1964, art. 13, lid 2; Beschikking visserij visserijzone, zeegebied en kustwateren, artt. 12 en 13 Product: ontheffingen Waardering: V, 10 jaar na beëindiging ontheffing.  
+Handeling: Het verlenen van ontheffingen voor de beoefening van schelpdiervisserijactiviteiten in de Nederlandse zee- en kustwateren Periode: 1945–1969 Grondslag: o.a. Visserijreglement voor de Zuidhollandse stromen 1964, art. 13, lid 2; Visserijreglement voor de Zeeuwse stromen 1964, art. 14, lid 2; Visserijreglement voor de Waddenzee 1964, art. 13, lid 2; Beschikking visserij visserijzone, zeegebied en kustwateren, artt. 12 en 13 Product: ontheffingen Waardering: V, 10 jaar na beëindiging ontheffing. 
 

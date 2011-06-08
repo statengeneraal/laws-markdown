@@ -118,9 +118,9 @@ Bij iedere aanvraag voor een nieuw reisdocument (dan wel nadat een ingehouden re
 Voor alle vragen over de [Paspoortwet](../../../../../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), het Register paspoortsignaleringen of het Basisregister reisdocumenten kunt u bellen met de Servicedesk van het Agentschap BPR, telefoonnummer 088 - 9001000.     
 
 De 
-minister van Binnenlandse Zaken en Koninkrijksrelaties,namens deze:
-G.J.Buitendijk,
-Directeur-generaal Bestuur en Koninkrijksrelaties.  
+minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze: 
+G.J. Buitendijk,  
+Directeur-generaal Bestuur en Koninkrijksrelaties.   
 
 ####Modelformulier informatieverstrekking in verband met [artikel 24, onder b, van de Paspoortwet](../../../../../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)
 
@@ -143,7 +143,7 @@ Directeur-generaal Bestuur en Koninkrijksrelaties.
 | Woonplaats:  | BSN/SoFi-nummer:  |
 | --- | --- |
 | --- | --- |
-|  *Reden van de informatieverstrekking:*   |  [Artikel 24, onder b, van de Paspoortwet](../../../../../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)   |
+|  *Reden van de informatieverstrekking:*   | [Artikel 24, onder b, van de Paspoortwet](../../../../../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)  |
 | --- | --- |
 | Informerende autoriteit:  | --- |
 | --- | --- |
@@ -155,33 +155,29 @@ Directeur-generaal Bestuur en Koninkrijksrelaties.
 
 ####Bij dit formulier zijn de volgende (verplichte) bijlagen gevoegd:
 
-1. Bijlagen met reisdocumentgegevens <sup> 1  Van ieder reisdocument wordt vermeld: soort reisdocument, documentnummer, autoriteit verstrekking, datum verstrekking, einde geldigheidsduur.  </sup>  
+1. Bijlagen met reisdocumentgegevens<sup> 1 Van ieder reisdocument wordt vermeld: soort reisdocument, documentnummer, autoriteit verstrekking, datum verstrekking, einde geldigheidsduur. </sup>   
 
-2. Bijlagen met gegevens omtrent de vermissing van reisdocumenten <sup> 2  Van iedere vermissing wordt vermeld: datum van vermissing, plaats van vermissing, datum en autoriteit nieuwe aanvraag. Tevens worden van elk vermist reisdocument kopieën meegezonden van het proces-verbaal van de aangifte bij de politie, de afgelegde verklaring van vermissing bij de paspoortverstrekkende autoriteit, het oorspronkelijke aanvraagformulier en eventuele andere relevante documenten.  </sup>  
+2. Bijlagen met gegevens omtrent de vermissing van reisdocumenten<sup> 2 Van iedere vermissing wordt vermeld: datum van vermissing, plaats van vermissing, datum en autoriteit nieuwe aanvraag. Tevens worden van elk vermist reisdocument kopieën meegezonden van het proces-verbaal van de aangifte bij de politie, de afgelegde verklaring van vermissing bij de paspoortverstrekkende autoriteit, het oorspronkelijke aanvraagformulier en eventuele andere relevante documenten. </sup>   
 
-3. Bijlagen met gegevens over de andere handelingen, bedoeld onder B, C en D <sup> 3  Uitvoerige toelichting op de desbetreffende handeling(en) en eventuele processen-verbaal, verklaringen van onregelmatigheid met reisdocumenten of andere relevante documenten toevoegen.  </sup>    
+3. Bijlagen met gegevens over de andere handelingen, bedoeld onder B, C en D<sup> 3 Uitvoerige toelichting op de desbetreffende handeling(en) en eventuele processen-verbaal, verklaringen van onregelmatigheid met reisdocumenten of andere relevante documenten toevoegen. </sup>    
 
-####Onderbouwing van de informatieverstrekking:
-
-<sup> 4  De onderbouwing van de informatieverstrekking kan bestaan uit redenen, genoemd onder A, B, C of D, dan wel een combinatie daarvan.  </sup>  
+####Onderbouwing van de informatieverstrekking:<sup> 4  De onderbouwing van de informatieverstrekking kan bestaan uit redenen, genoemd onder A, B, C of D, dan wel een combinatie daarvan.  </sup> 
 
 ### A  
 
-####Meervoudige vermissing van reisdocumenten
-
-<sup> 5  Om meervoudige vermissing van reisdocumenten te kunnen vaststellen, neemt u de volgende punten in acht:   a. U controleert te allen tijde of de houder al eerder reisdocumenten als vermist heeft gemeld. Gemeenten kunnen dit doen aan de hand van de GBA, de andere autoriteiten kunnen gebruik maken van het Basisregister Reisdocumenten bij het Agentschap BPR. Het is raadzaam dat ook gemeenten het Basisregister Reisdocumenten raadplegen, indien het een burger betreft die recent vanuit het buitenland weer in Nederland is teruggekeerd. Het is dan immers mogelijk dat in dit register vermiste reisdocumenten van deze persoon voorkomen die (nog) niet in de GBA zijn vermeld. De raadpleging van het register kan telefonisch geschieden via de Servicedesk van het Agentschap BPR.   b. Voor het vaststellen van het aantal meervoudige vermissingen tellen de vermissingen van Nederlandse identiteitskaarten net zo goed als de vermissingen van paspoorten of andere Nederlandse reisdocumenten. Het 3 keer binnen 5 jaar als vermist opgeven van een Nederlandse identiteitskaart dan wel een combinatie van vermissingen van Nederlandse identiteitskaarten en paspoorten of andere Nederlandse reisdocumenten kunnen derhalve ook een gegrond vermoeden opleveren.  Het feit dat Nederlandse identiteitskaarten niet kunnen worden geweigerd of vervallen verklaard, doet in dit verband niet ter zake.   c. Indien sprake is van een gelijktijdige vermissing van reisdocumenten (bijv. paspoort en Nederlandse identiteitskaart of gewoon paspoort en tweede paspoort) geldt dit voor de berekening van het aantal vermissingen als één vermissing.   d. Bij de vaststelling of aan het criterium van 3 vermissingen binnen 5 jaar is voldaan, dient telkens, gerekend vanaf de datum van de verklaring omtrent de vermissing van de uitgevende instantie, te worden nagegaan hoe vaak de betrokkene in de voorafgaande 5 jaar een reisdocument als vermist heeft gemeld zonder daarvoor een plausibele reden op te geven.  </sup>  
+####Meervoudige vermissing van reisdocumenten<sup> 5  Om meervoudige vermissing van reisdocumenten te kunnen vaststellen, neemt u de volgende punten in acht:  a. U controleert te allen tijde of de houder al eerder reisdocumenten als vermist heeft gemeld. Gemeenten kunnen dit doen aan de hand van de GBA, de andere autoriteiten kunnen gebruik maken van het Basisregister Reisdocumenten bij het Agentschap BPR. Het is raadzaam dat ook gemeenten het Basisregister Reisdocumenten raadplegen, indien het een burger betreft die recent vanuit het buitenland weer in Nederland is teruggekeerd. Het is dan immers mogelijk dat in dit register vermiste reisdocumenten van deze persoon voorkomen die (nog) niet in de GBA zijn vermeld. De raadpleging van het register kan telefonisch geschieden via de Servicedesk van het Agentschap BPR.  b. Voor het vaststellen van het aantal meervoudige vermissingen tellen de vermissingen van Nederlandse identiteitskaarten net zo goed als de vermissingen van paspoorten of andere Nederlandse reisdocumenten. Het 3 keer binnen 5 jaar als vermist opgeven van een Nederlandse identiteitskaart dan wel een combinatie van vermissingen van Nederlandse identiteitskaarten en paspoorten of andere Nederlandse reisdocumenten kunnen derhalve ook een gegrond vermoeden opleveren.  Het feit dat Nederlandse identiteitskaarten niet kunnen worden geweigerd of vervallen verklaard, doet in dit verband niet ter zake.  c. Indien sprake is van een gelijktijdige vermissing van reisdocumenten (bijv. paspoort en Nederlandse identiteitskaart of gewoon paspoort en tweede paspoort) geldt dit voor de berekening van het aantal vermissingen als één vermissing.  d. Bij de vaststelling of aan het criterium van 3 vermissingen binnen 5 jaar is voldaan, dient telkens, gerekend vanaf de datum van de verklaring omtrent de vermissing van de uitgevende instantie, te worden nagegaan hoe vaak de betrokkene in de voorafgaande 5 jaar een reisdocument als vermist heeft gemeld zonder daarvoor een plausibele reden op te geven.  </sup> 
 
 □ betrokkene heeft een reisdocument 3 keer binnen 5 jaar als vermist opgegeven, waarvoor in de verklaringen van vermissing en/of de processen-verbaal van de politie geen of geen plausibele reden wordt opgegeven (zoals beroving, diefstal, dementie van de houder);  
 
 □ betrokkene heeft weliswaar minder dan 3 keer binnen 5 jaar een reisdocument als vermist opgegeven, maar spreekt zichzelf tegen bij doorvragen op eerdere verklaringen van vermissing en/of de processen-verbaal van de politie, dan wel de inhoud van een verklaring of proces-verbaal geeft aanleiding tot een gegrond vermoeden van misbruik (bijv. de redenen van vermissing zijn ongeloofwaardig, vertonen een terugkerend patroon of lijken te zijn verzonnen om misbruik van het document te verhullen;  
 
-□ betrokkene heeft weliswaar minder dan 3 keer binnen 5 jaar een reisdocument als vermist opgegeven, maar in combinatie met een of meer andere handelingen, hierna genoemd onder B en C, ontstaat toch een gegrond vermoeden van misbruik met reisdocumenten.    
+□ betrokkene heeft weliswaar minder dan 3 keer binnen 5 jaar een reisdocument als vermist opgegeven, maar in combinatie met een of meer andere handelingen, hierna genoemd onder B en C, ontstaat toch een gegrond vermoeden van misbruik met reisdocumenten.   
 
 ### B  
 
-####Opzettelijke beschadiging van reisdocumenten
+####Opzettelijke beschadiging van reisdocumenten<sup> 6  Zoveel mogelijk omstandigheden aangeven waaruit blijkt dat betrokkene er belang bij heeft om zijn reisdocument opzettelijk te beschadigen (zoals veelvuldig inleveren beschadigde reisdocumenten, al dan niet in combinatie met een of meer vermissingen).  </sup> 
 
-<sup> 6  Zoveel mogelijk omstandigheden aangeven waaruit blijkt dat betrokkene er belang bij heeft om zijn reisdocument opzettelijk te beschadigen (zoals veelvuldig inleveren beschadigde reisdocumenten, al dan niet in combinatie met een of meer vermissingen).  </sup>  Het ingeleverde reisdocument is opzettelijk beschadigd, hetgeen blijkt uit: 
+Het ingeleverde reisdocument is opzettelijk beschadigd, hetgeen blijkt uit: 
 
 □ ontbrekende (visum-)pagina’s, waarop stempels of ambtelijke aantekeningen staan;  
 
@@ -189,25 +185,23 @@ Directeur-generaal Bestuur en Koninkrijksrelaties.
 
 □ wassen of met chemische dan wel andere middelen bewerken van (delen) van het reisdocument;  
 
-□ andere beschadigingen (nader toelichten in bijlage).    
+□ andere beschadigingen (nader toelichten in bijlage).   
 
 ### C  
 
 ####Opzettelijk anderen de gelegenheid geven voor onjuiste handelingen met reisdocumenten
 
-□ het opzettelijk aan een ander beschikbaar stellen van een reisdocument om het door die ander te laten gebruiken als was het zijn reisdocument; <sup> 7  Dit is ook strafbaar op grond van art. 231 Wetboek van Strafrecht. U wordt geadviseerd in dit geval ook contact met de politie op te nemen.  </sup>  
+□ het opzettelijk aan een ander beschikbaar stellen van een reisdocument om het door die ander te laten gebruiken als was het zijn reisdocument;<sup> 7 Dit is ook strafbaar op grond van art. 231 Wetboek van Strafrecht. U wordt geadviseerd in dit geval ook contact met de politie op te nemen. </sup>   
 
 □ het verkopen, verhuren, in onderpand geven of uitlenen van een reisdocument;  
 
 □ het door grove onachtzaamheid of nalatigheid verliezen van een reisdocument;  
 
-□ het in een openbare gelegenheid of een andere voor publiek bereikbare plaats achterlaten van een reisdocument (in een jas, tas of anderszins), zodanig dat willens en wetens het risico is genomen dat anderen zonder noemenswaardige moeite hier misbruik van kunnen maken.    
+□ het in een openbare gelegenheid of een andere voor publiek bereikbare plaats achterlaten van een reisdocument (in een jas, tas of anderszins), zodanig dat willens en wetens het risico is genomen dat anderen zonder noemenswaardige moeite hier misbruik van kunnen maken.   
 
 ### D  
 
-####Andere handelingen die op misbruik met reisdocumenten kunnen wijzen
-
-<sup> 8  Gaarne aankruisen welke situatie(s) van toepassing is (zijn) en in een aparte bijlage uitvoeriger toelichten.  </sup>  
+####Andere handelingen die op misbruik met reisdocumenten kunnen wijzen<sup> 8  Gaarne aankruisen welke situatie(s) van toepassing is (zijn) en in een aparte bijlage uitvoeriger toelichten.  </sup> 
 
 □ het vervalsen van een of meer reisdocumenten of daarin aangebrachte bijschrijvingen, dan wel pogingen daartoe;  
 
@@ -225,7 +219,7 @@ Directeur-generaal Bestuur en Koninkrijksrelaties.
 
 □ het eerder als vermist opgegeven reisdocument wordt doelbewust door de houder zelf gebruikt;  
 
-□ andere redenen (nader toelichten in bijlage).    
+□ andere redenen (nader toelichten in bijlage).   
 
 ####Modelformulier Verzoek tot signalering op grond van [artikel 24, onder b, van de Paspoortwet](../../../../../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)
 
@@ -248,7 +242,7 @@ Directeur-generaal Bestuur en Koninkrijksrelaties.
 | Woonplaats:  | BSN/SoFi-nummer:  |
 | --- | --- |
 | --- | --- |
-|  *Reden van het verzoek:*   |  [Artikel 24, onder b, van de Paspoortwet](../../../../../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)   |
+|  *Reden van het verzoek:*   | [Artikel 24, onder b, van de Paspoortwet](../../../../../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)  |
 | --- | --- |
 | Verzoekende autoriteit:  | --- |
 | --- | --- |
@@ -260,33 +254,29 @@ Directeur-generaal Bestuur en Koninkrijksrelaties.
 
 ####Bij dit verzoek zijn de volgende (verplichte) bijlagen gevoegd:
 
-1. Bijlagen met reisdocumentgegevens <sup> 1  Van ieder reisdocument wordt vermeld: soort reisdocument, documentnummer, autoriteit verstrekking, datum verstrekking, einde geldigheidsduur.  </sup>  
+1. Bijlagen met reisdocumentgegevens<sup> 1 Van ieder reisdocument wordt vermeld: soort reisdocument, documentnummer, autoriteit verstrekking, datum verstrekking, einde geldigheidsduur. </sup>   
 
-2. Bijlagen met gegevens omtrent de vermissing van reisdocumenten <sup> 2  Van iedere vermissing wordt vermeld: datum van vermissing, plaats van vermissing, datum en autoriteit nieuwe aanvraag. Tevens worden van elk vermist reisdocument kopieën meegezonden van het proces-verbaal van de aangifte bij de politie, de afgelegde verklaring van vermissing bij de paspoortverstrekkende autoriteit, het oorspronkelijke aanvraagformulier en eventuele andere relevante documenten.  </sup>  
+2. Bijlagen met gegevens omtrent de vermissing van reisdocumenten<sup> 2 Van iedere vermissing wordt vermeld: datum van vermissing, plaats van vermissing, datum en autoriteit nieuwe aanvraag. Tevens worden van elk vermist reisdocument kopieën meegezonden van het proces-verbaal van de aangifte bij de politie, de afgelegde verklaring van vermissing bij de paspoortverstrekkende autoriteit, het oorspronkelijke aanvraagformulier en eventuele andere relevante documenten. </sup>   
 
-3. Bijlagen met gegevens over de andere handelingen, bedoeld onder B, C en D <sup> 3  Uitvoerige toelichting op de desbetreffende handeling(en) en eventuele processen-verbaal, verklaringen van onregelmatigheid met reisdocumenten of andere relevante documenten toevoegen.  </sup>    
+3. Bijlagen met gegevens over de andere handelingen, bedoeld onder B, C en D<sup> 3 Uitvoerige toelichting op de desbetreffende handeling(en) en eventuele processen-verbaal, verklaringen van onregelmatigheid met reisdocumenten of andere relevante documenten toevoegen. </sup>    
 
-####Onderbouwing van het verzoek:
-
-<sup> 4  De onderbouwing van het verzoek kan bestaan uit redenen, genoemd onder A, B, C of D, dan wel een combinatie daarvan.  </sup>  
+####Onderbouwing van het verzoek:<sup> 4  De onderbouwing van het verzoek kan bestaan uit redenen, genoemd onder A, B, C of D, dan wel een combinatie daarvan.  </sup> 
 
 ### A  
 
-####Meervoudige vermissing van reisdocumenten
-
-<sup> 5  Om meervoudige vermissing van reisdocumenten te kunnen vaststellen, neemt u de volgende punten in acht:   a. U controleert te allen tijde of de houder al eerder reisdocumenten als vermist heeft gemeld. Gemeenten kunnen dit doen aan de hand van de GBA, de andere autoriteiten kunnen gebruik maken van het Basisregister Reisdocumenten bij het Agentschap BPR. Het is raadzaam dat ook gemeenten het Basisregister Reisdocumenten raadplegen, indien het een burger betreft die recent vanuit het buitenland weer in Nederland is teruggekeerd. Het is dan immers mogelijk dat in dit register vermiste reisdocumenten van deze persoon voorkomen die (nog) niet in de GBA zijn vermeld. De raadpleging van het register kan telefonisch geschieden via de Servicedesk van het Agentschap BPR.   b. Voor het vaststellen van het aantal meervoudige vermissingen tellen de vermissingen van Nederlandse identiteitskaarten net zo goed als de vermissingen van paspoorten of andere Nederlandse reisdocumenten. Het 3 keer binnen 5 jaar als vermist opgeven van een Nederlandse identiteitskaart dan wel een combinatie van vermissingen van Nederlandse identiteitskaarten en paspoorten of andere Nederlandse reisdocumenten kunnen derhalve ook een gegrond vermoeden opleveren.  Het feit dat Nederlandse identiteitskaarten niet kunnen worden geweigerd of vervallen verklaard, doet in dit verband niet ter zake.   c. Indien sprake is van een gelijktijdige vermissing van reisdocumenten (bijv. paspoort en Nederlandse identiteitskaart of gewoon paspoort en tweede paspoort) geldt dit voor de berekening van het aantal vermissingen als één vermissing.   d. Bij de vaststelling of aan het criterium van 3 vermissingen binnen 5 jaar is voldaan, dient telkens, gerekend vanaf de datum van de verklaring omtrent de vermissing van de uitgevende instantie, te worden nagegaan hoe vaak de betrokkene in de voorafgaande 5 jaar een reisdocument als vermist heeft gemeld zonder daarvoor een plausibele reden op te geven.  </sup>  
+####Meervoudige vermissing van reisdocumenten<sup> 5  Om meervoudige vermissing van reisdocumenten te kunnen vaststellen, neemt u de volgende punten in acht:  a. U controleert te allen tijde of de houder al eerder reisdocumenten als vermist heeft gemeld. Gemeenten kunnen dit doen aan de hand van de GBA, de andere autoriteiten kunnen gebruik maken van het Basisregister Reisdocumenten bij het Agentschap BPR. Het is raadzaam dat ook gemeenten het Basisregister Reisdocumenten raadplegen, indien het een burger betreft die recent vanuit het buitenland weer in Nederland is teruggekeerd. Het is dan immers mogelijk dat in dit register vermiste reisdocumenten van deze persoon voorkomen die (nog) niet in de GBA zijn vermeld. De raadpleging van het register kan telefonisch geschieden via de Servicedesk van het Agentschap BPR.  b. Voor het vaststellen van het aantal meervoudige vermissingen tellen de vermissingen van Nederlandse identiteitskaarten net zo goed als de vermissingen van paspoorten of andere Nederlandse reisdocumenten. Het 3 keer binnen 5 jaar als vermist opgeven van een Nederlandse identiteitskaart dan wel een combinatie van vermissingen van Nederlandse identiteitskaarten en paspoorten of andere Nederlandse reisdocumenten kunnen derhalve ook een gegrond vermoeden opleveren.  Het feit dat Nederlandse identiteitskaarten niet kunnen worden geweigerd of vervallen verklaard, doet in dit verband niet ter zake.  c. Indien sprake is van een gelijktijdige vermissing van reisdocumenten (bijv. paspoort en Nederlandse identiteitskaart of gewoon paspoort en tweede paspoort) geldt dit voor de berekening van het aantal vermissingen als één vermissing.  d. Bij de vaststelling of aan het criterium van 3 vermissingen binnen 5 jaar is voldaan, dient telkens, gerekend vanaf de datum van de verklaring omtrent de vermissing van de uitgevende instantie, te worden nagegaan hoe vaak de betrokkene in de voorafgaande 5 jaar een reisdocument als vermist heeft gemeld zonder daarvoor een plausibele reden op te geven.  </sup> 
 
 □ betrokkene heeft een reisdocument 3 keer binnen 5 jaar als vermist opgegeven, waarvoor in de verklaringen van vermissing en/of de processen-verbaal van de politie geen of geen plausibele reden wordt opgegeven (zoals beroving, diefstal, dementie van de houder);  
 
 □ betrokkene heeft weliswaar minder dan 3 keer binnen 5 jaar een reisdocument als vermist opgegeven, maar spreekt zichzelf tegen bij doorvragen op eerdere verklaringen van vermissing en/of de processen-verbaal van de politie, dan wel de inhoud van een verklaring of proces-verbaal geeft aanleiding tot een gegrond vermoeden van misbruik (bijv. de redenen van vermissing zijn ongeloofwaardig, vertonen een terugkerend patroon of lijken te zijn verzonnen om misbruik van het document te verhullen;  
 
-□ betrokkene heeft weliswaar minder dan 3 keer binnen 5 jaar een reisdocument als vermist opgegeven, maar in combinatie met een of meer andere handelingen, hierna genoemd onder B en C, ontstaat toch een gegrond vermoeden van misbruik met reisdocumenten.    
+□ betrokkene heeft weliswaar minder dan 3 keer binnen 5 jaar een reisdocument als vermist opgegeven, maar in combinatie met een of meer andere handelingen, hierna genoemd onder B en C, ontstaat toch een gegrond vermoeden van misbruik met reisdocumenten.   
 
 ### B  
 
-####Opzettelijke beschadiging van reisdocumenten
+####Opzettelijke beschadiging van reisdocumenten<sup> 6  Zoveel mogelijk omstandigheden aangeven waaruit blijkt dat betrokkene er belang bij heeft om zijn reisdocument opzettelijk te beschadigen (zoals veelvuldig inleveren beschadigde reisdocumenten, al dan niet in combinatie met een of meer vermissingen).  </sup> 
 
-<sup> 6  Zoveel mogelijk omstandigheden aangeven waaruit blijkt dat betrokkene er belang bij heeft om zijn reisdocument opzettelijk te beschadigen (zoals veelvuldig inleveren beschadigde reisdocumenten, al dan niet in combinatie met een of meer vermissingen).  </sup>  Het ingeleverde reisdocument is opzettelijk beschadigd, hetgeen blijkt uit: 
+Het ingeleverde reisdocument is opzettelijk beschadigd, hetgeen blijkt uit: 
 
 □ ontbrekende (visum-)pagina’s, waarop stempels of ambtelijke aantekeningen staan;  
 
@@ -294,25 +284,23 @@ Directeur-generaal Bestuur en Koninkrijksrelaties.
 
 □ wassen of met chemische dan wel andere middelen bewerken van (delen) van het reisdocument;  
 
-□ andere beschadigingen (nader toelichten in bijlage).    
+□ andere beschadigingen (nader toelichten in bijlage).   
 
 ### C  
 
 ####Opzettelijk anderen de gelegenheid geven voor onjuiste handelingen met reisdocumenten
 
-□ het opzettelijk aan een ander beschikbaar stellen van een reisdocument om het door die ander te laten gebruiken als was het zijn reisdocument; <sup> 7  Dit is ook strafbaar op grond van art. 231 Wetboek van Strafrecht. U wordt geadviseerd in dit geval ook contact met de politie op te nemen.  </sup>  
+□ het opzettelijk aan een ander beschikbaar stellen van een reisdocument om het door die ander te laten gebruiken als was het zijn reisdocument;<sup> 7 Dit is ook strafbaar op grond van art. 231 Wetboek van Strafrecht. U wordt geadviseerd in dit geval ook contact met de politie op te nemen. </sup>   
 
 □ het verkopen, verhuren, in onderpand geven of uitlenen van een reisdocument;  
 
 □ het door grove onachtzaamheid of nalatigheid verliezen van een reisdocument;  
 
-□ het in een openbare gelegenheid of een andere voor publiek bereikbare plaats achterlaten van een reisdocument (in een jas, tas of anderszins), zodanig dat willens en wetens het risico is genomen dat anderen zonder noemenswaardige moeite hier misbruik van kunnen maken.    
+□ het in een openbare gelegenheid of een andere voor publiek bereikbare plaats achterlaten van een reisdocument (in een jas, tas of anderszins), zodanig dat willens en wetens het risico is genomen dat anderen zonder noemenswaardige moeite hier misbruik van kunnen maken.   
 
 ### D  
 
-####Andere handelingen die op misbruik met reisdocumenten kunnen wijzen
-
-<sup> 8  Gaarne aankruisen welke situatie(s) van toepassing is (zijn) en in een aparte bijlage uitvoeriger toelichten.  </sup>  
+####Andere handelingen die op misbruik met reisdocumenten kunnen wijzen<sup> 8  Gaarne aankruisen welke situatie(s) van toepassing is (zijn) en in een aparte bijlage uitvoeriger toelichten.  </sup> 
 
 □ het vervalsen van een of meer reisdocumenten of daarin aangebrachte bijschrijvingen, dan wel pogingen daartoe;  
 
@@ -330,5 +318,5 @@ Directeur-generaal Bestuur en Koninkrijksrelaties.
 
 □ het eerder als vermist opgegeven reisdocument wordt doelbewust door de houder zelf gebruikt;  
 
-□ andere redenen (nader toelichten in bijlage).    
+□ andere redenen (nader toelichten in bijlage).   
 

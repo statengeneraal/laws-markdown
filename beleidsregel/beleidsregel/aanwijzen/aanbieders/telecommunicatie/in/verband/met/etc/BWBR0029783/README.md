@@ -18,7 +18,7 @@ b. openbare mobiele spraaktelefonie of
 
 c. toegang tot breedbandinternet.     
 2.  Ten aanzien van elke dienst, bedoeld in het eerste lid, onder a tot en met c, wordt een zodanig aantal aanbieders van openbare telecommunicatienetwerken of openbare telecommunicatiediensten aangewezen dat ten minste 80% marktaandeel in de desbetreffende dienstverlening is vertegenwoordigd.   
-3.  De aanwijzing geschiedt in volgorde van aflopende omvang van marktaandeel van de aanbieders in het aanbieden van een in het eerste lid, onder a tot en met c, bedoelde dienst.   
+3.  De aanwijzing geschiedt in volgorde van aflopende omvang van marktaandeel van de aanbieders in het aanbieden van een in het eerste lid, onder a tot en met c, bedoelde dienst.  
 
 ### Artikel  2  
 
@@ -27,20 +27,20 @@ c. toegang tot breedbandinternet.
 a. hij heeft een openbaar telecommunicatienetwerk in eigendom of in eigen beheer, en  
 
 b. hij heeft een marktaandeel van ten minste 5% op het terrein van een van de in artikel 1, eerste lid, bedoelde diensten.     
-2.  De vaststelling van het marktaandeel in de desbetreffende dienstverlening vindt plaats op grond van de Structurele Marktmonitor van de Onafhankelijke post- en telecommunicatie autoriteit.   
+2.  De vaststelling van het marktaandeel in de desbetreffende dienstverlening vindt plaats op grond van de Structurele Marktmonitor van de Onafhankelijke post- en telecommunicatie autoriteit.  
 
 ### Artikel  3  
 
-Deze beleidsregel treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze beleidsregel treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  4  
 
-Deze beleidsregel wordt aangehaald als: Beleidsregel aanwijzen aanbieders telecommunicatie in verband met buitengewone omstandigheden.  
+Deze beleidsregel wordt aangehaald als: Beleidsregel aanwijzen aanbieders telecommunicatie in verband met buitengewone omstandigheden. 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 22 maart 2011   
 
 De 
-Minister van Economische Zaken, Landbouw en Innovatie,
-M.J.M.Verhagen   
+Minister van Economische Zaken, Landbouw en Innovatie, 
+M.J.M. Verhagen     

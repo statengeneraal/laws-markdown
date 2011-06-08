@@ -10,26 +10,26 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de minister van Volksgezondheid, Welzijn en Sport de onder hem ressorterende actoren op het beleidsterrein Verslavingsbeleid over de periode vanaf 1945 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de minister van Volksgezondheid, Welzijn en Sport de onder hem ressorterende actoren op het beleidsterrein Verslavingsbeleid over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 5 december 2008   
 
 De 
-minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
-wnd. algemene rijksarchivaris, 
-P.Brood 
+minister van Onderwijs, Cultuur en Wetenschap, namens deze:de 
+wnd. algemene rijksarchivaris,
+P. Brood   
 
 De 
-minister van Volksgezondheid, Welzijn en Sport, namens deze: de 
+minister van Volksgezondheid, Welzijn en Sport, namens deze:de 
 project directeur Project Wegwerken Archief Achterstanden, 
-A. van derKooij  
+A. van der Kooij    
 
-### Selectielijst  
+###Selectielijst 
 
-Gepubliceerd op www.nationaalarchief.nl/selectielijsten.  
+Gepubliceerd op www.nationaalarchief.nl/selectielijsten.

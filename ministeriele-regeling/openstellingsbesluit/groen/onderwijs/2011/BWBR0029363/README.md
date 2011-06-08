@@ -246,7 +246,7 @@ b. de aanvraag gaat vergezeld van een jaarlijks projectplan, een begroting en ee
 
 a. de middelen worden ingezet voor het verankeren van de doelstellingen van het Uitvoeringsplan, bedoeld in artikel 19, derde lid, onderdeel a, in het strategisch plan van de instellingen en voor de feitelijke uitvoering van activiteiten met het oog op deze doelstellingen door de afdelingen, vestigingen, Wageningen Universiteit en KBB Aequor en voor de duurzame borging van de resultaten hiervan;  
 
-b. de subsidie bedraagt voor de afdelingen, per vestiging, voor Wageningen Universiteit en voor KBB Aequor voor 2011, voor besteding in het schooljaar 2011–2012, ten hoogste 40% van de subsidiabele kosten tot een maximum van € 8.000,–, voor 2012, voor besteding in het schooljaar 2012–2013, ten hoogste 30% van de subsidiabele kosten tot een maximum van € 6.000,–, en voor 2013, voor besteding in het schooljaar 2013–2014, ten hoogste 20% van de subsidiabele kosten tot een maximum van € 4.000,–; geen subsidie wordt verstrekt voor activiteiten waarvan de subsidiabele kosten minder bedragen dan € 20.000,–;  
+b. de subsidie bedraagt voor de afdelingen, per vestiging, voor Wageningen Universiteit en voor KBB Aequor voor 2011, voor besteding in het schooljaar 2011–2012, ten hoogste 40% van de subsidiabele kosten tot een maximum van € 20.000,–, voor 2012, voor besteding in het schooljaar 2012–2013, ten hoogste 30% van de subsidiabele kosten tot een maximum van € 15.000,–, en voor 2013, voor besteding in het schooljaar 2013–2014, ten hoogste 20% van de subsidiabele kosten tot een maximum van € 10.000,–; geen subsidie wordt verstrekt voor activiteiten waarvan de subsidiabele kosten minder bedragen dan € 20.000,–;  
 
 c. de aanvraag gaat vergezeld van een projectplan voor het eerstvolgend schooljaar, een begroting waaruit blijkt welk deel van de kosten door de instelling wordt bekostigd en een korte voortgangsrapportage betreffende het voorgaande jaar;  
 
@@ -255,7 +255,7 @@ d. de instellingen verantwoorden bestemming en besteding van de middelen in de j
 ### Artikel  21  
 
 1.  De Minister kan subsidie verstrekken voor activiteiten met het oog op verbetering van de aansluiting tussen het door de Minister bekostigd onderwijs en het bedrijfsleven. Doel van deze activiteiten is bevordering van de instroom vanuit groen beroepsonderwijs naar de arbeidmarkt in branches binnen het beleidsterrein van de Minister, de versterking van Leven Lang Leren, het ontwikkelen van ECC-procedures en, onderscheidenlijk of, professionalisering van leerkrachten in relatie tot deze doelen. Aanvragen kunnen worden gedaan door de agrarische opleidingscentra en de hogescholen.   
-2.  Het subsidieplafond bedraagt € 850.000,–.   
+2.  Het subsidieplafond bedraagt € 500.000,–.   
 3.  De aanvragen kunnen worden gedaan onder de volgende nadere voorwaarden: 
 
 a. het agrarisch onderwijscentrum of de hogeschool is met het oog op de aanvraag een samenwerking aangegaan met ten minste één bedrijf; bij de aanvraag wordt de getekende samenwerkingsovereenkomst gevoegd, welke tenminste het doel van de samenwerking, de verdeling van taken en verantwoordelijkheden, de organisatie van de gezamenlijke activiteiten en een begroting van kosten en baten omvat;  
@@ -283,7 +283,7 @@ a. door het Kenniscentrum Beroepsonderwijs Arbeidsmarkt te Nijmegen voor het loo
 b. door de hogescholen en Wageningen Universiteit voor een onderzoeksvoorstel waaruit ten minste de inzet van een wetenschappelijke instelling blijkt;  
 
 c. door het Kenniscentrum Beroepsonderwijs-Bedrijfsleven Aequor voor verdere ontwikkeling van het arbeidsmarktinformatiesysteem naar het hoger onderwijs.     
-2.  Het subsidieplafond bedraagt € 200.000,–.   
+2.  Het subsidieplafond bedraagt € 550.000,–.   
 3.  De aanvragen, bedoeld in het eerste lid, onderdeel a en b, kunnen worden gedaan onder de nadere voorwaarde dat de uitkomsten van het onderzoek beschikbaar worden gesteld voor de ontwikkeling van het arbeidsmarktinformatiesysteem, bedoeld in het eerste lid, onderdeel c.   
 
 ### Paragraaf  3  

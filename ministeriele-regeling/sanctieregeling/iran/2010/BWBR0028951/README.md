@@ -19,6 +19,11 @@ Besluit:
 1.  Het is verboden te handelen in strijd met de artikelen 2, 3, 4, 5, 8, 9, 11, 12, 15, 16, artikel 21 tot en met artikel 28 en artikel 31 van Verordening (EU) nr. 961/2010 van de Raad van de Europese Unie van 25 oktober 2010 betreffende beperkende maatregelen ten aanzien van Iran (Pb EU L 281).   
 2.  Een verbod, bedoeld in het eerste lid, geldt niet indien artikel 6, 7, 10, 13, 14, 17, 18, 19 of 20 van Verordening (EU) nr. 961/2010 van toepassing is.   
 
+### Artikel  1a  
+
+1.  Het is verboden te handelen in strijd met de artikelen 2, 6, tweede lid, en 9, van Verordening (EU) nr. 359/2011 van de Raad van de Europese Unie van 12 april 2011 betreffende beperkende maatregelen tegen bepaalde personen, entiteiten en lichamen, in verband met de situatie in Iran (Pb EU L 100).   
+2.  Een verbod, bedoeld in het eerste lid, geldt niet indien artikel 4, eerste lid, 5, 6, 7 van Verordening (EU) nr. 359/2011 van toepassing is.   
+
 ### Artikel  2  
 
 Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen](../../../../../ministeriele-regeling/uitvoeringsregeling/strategische/goederen/BWBR0024269/README.md) dan wel bedoeld in [artikel 2 van de Regeling van de Staatssecretaris van Economische Zaken van 7 december 2006 houdende strafbaarstelling ongeoorloofde overdracht programmatuur en technologie van strategische goederen door middel van elektronische media, faxapparaten of telefoon](../../../../../ministeriele-regeling/regeling/strafbaarstelling/ongeoorloofde/overdracht/programmatuur/en/etc/BWBR0020691/README.md), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen aan, dan wel door of uit te voeren naar entiteiten of personen in Iran, of voor gebruik in of ten behoeve van Iran, ongeacht het land van oorsprong. Dit verbod geldt niet voor voertuigen, niet zijnde gevechtsvoertuigen, die zijn gemaakt van of uitgerust met materiaal dat bescherming biedt tegen kogels en die uitsluitend bestemd zijn voor de bescherming van personeel van de Europese Unie en haar lidstaten in Iran.  
@@ -37,6 +42,13 @@ Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen
 3.  De bevoegde autoriteit, bedoeld in artikel 17, artikel 18 en artikel 19, eerste en tweede lid, van Verordening (EU) nr. 961/2010 is, voor zover het betreft de vrijgave van economische middelen, de Minister van Economische Zaken, Landbouw en Innovatie.   
 4.  De bevoegde autoriteit, bedoeld in artikel 17, artikel 18 en artikel 19, eerste en tweede lid, van Verordening (EU) nr. 961/2010, voor zover het betreft de vrijgave van bevroren tegoeden, artikel 23, eerste lid, en artikel 31, eerste lid, is de Minister van Financiën.   
 5.  De bevoegde autoriteit, bedoeld in artikel 10 van Verordening (EU) nr. 961/2010, wat betreft de transacties, bedoeld in artikel 8 en in artikel 9, onder a en in samenhang hiermee onder c, van de verordening, is de Minister van Economische Zaken, Landbouw en Innovatie. De bevoegde autoriteit, bedoeld in artikel 10, van Verordening (EU) nr. 961/2010 wat betreft de transacties, bedoeld in artikel 9, onder b en in samenhang hiermee onder c, van de verordening, is de inspecteur, bedoeld in [artikel 1:3, eerste lid, onder c, van de Algemene Douanewet](../../../../../wet/algemene/douanewet/BWBR0023746/README.md).   
+6.  De bevoegde autoriteit, bedoeld in artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, tweede lid, en artikel 7 van Verordening (EU) nr. 359/2011 is, wat betreft de beschikbaarstelling van bepaalde tegoeden, bedoeld in voornoemde artikelen, de Minister van Financiën.   
+7.  De bevoegde autoriteit, bedoeld in artikel 4, eerste lid, artikel 5, eerste lid, en artikel 7 van Verordening (EU) nr. 359/2011 is, wat betreft de beschikbaarstelling van economische middelen, bedoeld in voornoemde artikelen, de Minister van Economische Zaken, Landbouw en Innovatie.   
+8.  De bevoegde autoriteiten, bedoeld in artikel 9, eerste lid, van Verordening (EG) nr. 359/2011 zijn, elk voor het gebied waartoe hun competentie zich op grond van dat lid uitstrekt: 
+
+– de Minister van Financiën;  
+
+– de Minister van Economische Zaken, Landbouw en Innovatie.     
 
 ### Artikel  5  
 

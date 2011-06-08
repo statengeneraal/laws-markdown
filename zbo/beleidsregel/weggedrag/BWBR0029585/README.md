@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-Deze beleidsregel is van toepassing op de behandeling van aanvragen voor nationale kleine serie typegoedkeuringen en individuele goedkeuringen van voertuigen, als bedoeld in de [artikelen 22](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) respectievelijk [26 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), voorzover het gaat om de voertuigcategorieën personenauto, bedrijfsauto, bus, motorfiets, bromfiets en driewielig motorrijtuig.  
+Deze beleidsregel is van toepassing op de behandeling van aanvragen voor nationale kleine serie typegoedkeuringen en individuele goedkeuringen van voertuigen, als bedoeld in de [artikelen 22](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) respectievelijk [26 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), voorzover het gaat om de voertuigcategorieën personenauto, bedrijfsauto, bus, motorfiets, bromfiets en driewielig motorrijtuig. 
 
 ### Artikel  2  
 
@@ -18,15 +18,15 @@ a. indien de technisch toegestane maximummassa voertuig en/of de technisch toege
 
 b. indien het zwaartepunt van het voertuig dusdanig hoger komt te liggen dat dit een nadelig effect kan hebben op het weggedrag;  
 
-c. indien de aslastverdeling dusdanig wijzigt ten opzichte van het oorspronkelijke voertuig dat dit een nadelig effect kan hebben op het weggedrag.    
+c. indien de aslastverdeling dusdanig wijzigt ten opzichte van het oorspronkelijke voertuig dat dit een nadelig effect kan hebben op het weggedrag.   
 
 ### Artikel  3  
 
-Deze beleidsregel treedt in werking op het tijdstip waarop de Regeling van de Minister van Infrastructuur en Milieu tot wijziging van de Regeling voertuigen in verband met de toevoeging van technische eisen met betrekking tot de toelating van elektrisch aangedreven en hybride elektrische voertuigen tot het Nederlandse verkeer en in verband met de toevoeging van nationale toelatingseisen betreffende het weggedrag van motorvoertuigen in werking treedt.  
+Deze beleidsregel treedt in werking op het tijdstip waarop de Regeling van de Minister van Infrastructuur en Milieu tot wijziging van de Regeling voertuigen in verband met de toevoeging van technische eisen met betrekking tot de toelating van elektrisch aangedreven en hybride elektrische voertuigen tot het Nederlandse verkeer en in verband met de toevoeging van nationale toelatingseisen betreffende het weggedrag van motorvoertuigen in werking treedt. 
 
 ### Artikel  4  
 
-Deze beleidsregel wordt aangehaald als: Beleidsregel weggedrag.  
+Deze beleidsregel wordt aangehaald als: Beleidsregel weggedrag. 
 Deze beleidsregel zal in de Staatscourant worden geplaatst.  
 
 De directie van de RDW, 

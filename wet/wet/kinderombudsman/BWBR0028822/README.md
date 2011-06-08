@@ -11,37 +11,37 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet Nationale ombudsman.   
+Wijzigt de Wet Nationale ombudsman. 
 
 ### Artikel  II  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  III  
 
-Wijzigt de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba.   
+Wijzigt de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba. 
 
 ### Artikel  IV  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  V  
 
-Deze wet wordt aangehaald als: Wet Kinderombudsman.  
+Deze wet wordt aangehaald als: Wet Kinderombudsman. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 20 september 2010  
 Beatrix  
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 E. M. H. Hirsch Ballin   
 
-De Minister voor Jeugd en Gezin, 
+De Minister voor Jeugd en Gezin,  
 A. Rouvoet   
 
 de *twaalfde* oktober 2010 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    

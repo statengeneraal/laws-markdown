@@ -10,26 +10,26 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de minister Financiën en de onder hem ressorterende actor de Belastingdienst voor het uitvoeringsonderdeel Douane over de periode vanaf 1996 – ‘ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de minister Financiën en de onder hem ressorterende actor de Belastingdienst voor het uitvoeringsonderdeel Douane over de periode vanaf 1996 – ‘ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 31 maart 2010   
 
 De 
-staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze:
+staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze: 
 De algemene rijksarchivaris, 
-M.J.Berendse 
+M.J. Berendse   
 
 De 
-minister van Financiën, namens deze:
+minister van Financiën, namens deze: 
 De Directeur-generaal Belastingdienst, 
-P.A.W.Veld  
+P.A.W. Veld    
 
-### Selectielijst  
+###Selectielijst 
 
-Gepubliceerd op www.archief.nl.  
+Gepubliceerd op www.archief.nl.

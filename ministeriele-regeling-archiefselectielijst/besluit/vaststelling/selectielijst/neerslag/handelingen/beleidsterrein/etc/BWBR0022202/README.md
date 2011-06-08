@@ -10,25 +10,25 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Minister Justitie en de onder hem ressorterende actoren op het beleidsterrein Herverzekering van export- en importkredieten en investeringsgaranties over de periode vanaf 1945 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister Justitie en de onder hem ressorterende actoren op het beleidsterrein Herverzekering van export- en importkredieten en investeringsgaranties over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 12 juni 2007   
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
+Minister van Onderwijs, Cultuur en Wetenschap, namens deze:de 
 algemene rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
-Minister van Justitie, namens deze: de 
+Minister van Justitie, namens deze:de 
 projectdirecteur Project Wegwerken Archief Achterstanden, 
-A. van derKooij  
+A. van der  Kooij    
 
 ####Basisselectiedocument ‘herverzekerd’
 
@@ -38,25 +38,25 @@ Voor de zorgdragers: de minister van Financiën, de minister van Economische Zak
 
 ####Lijst met afkortingen
 
-AFEP: Directie Algemene Financiële en Economische Politiek art.: artikel BFB: Directie Buitenlandse Financiële Betrekkingen BGW: Directie Binnenlands Geldwezen BSD: Basisselectiedocument DGFZ: Directoraat-generaal Fiscale Zaken DGRBG: Directoraat-generaal Rijksbegroting DGBEL: Directoraat-generaal Belastingen EKI: (Directie) Exportkredietverzekeringen en Investeringsgaranties EG: Europese Gemeenschap EU: Europese Unie FIN: Directie Financieringen GT: Generale Thesaurie IBO: Investeringsbeschermingsovereenkomst MIGA: Het Multilaterale Agentschap voor Multilaterale Investeringsgaranties NCM: Nederlandsche Credietverzekeringsmaatschappij KNHG: Koninklijk Nederlands Historisch Genootschap OEES: Organisatie voor Europese Economische Samenwerking OESO: Organisatie voor Economische Samenwerking en Ontwikkeling PIVOT: Project Invoering Verkorting Overbrengingstermijn PC DIN: Permanente Commissie Documentaire Informatievoorziening RIO: Rapport Institutioneel Onderzoek Stb: Staatsblad Stcrt: Staatscourant  
+AFEP: Directie Algemene Financiële en Economische Politiek art.: artikel BFB: Directie Buitenlandse Financiële Betrekkingen BGW: Directie Binnenlands Geldwezen BSD: Basisselectiedocument DGFZ: Directoraat-generaal Fiscale Zaken DGRBG: Directoraat-generaal Rijksbegroting DGBEL: Directoraat-generaal Belastingen EKI: (Directie) Exportkredietverzekeringen en Investeringsgaranties EG: Europese Gemeenschap EU: Europese Unie FIN: Directie Financieringen GT: Generale Thesaurie IBO: Investeringsbeschermingsovereenkomst MIGA: Het Multilaterale Agentschap voor Multilaterale Investeringsgaranties NCM: Nederlandsche Credietverzekeringsmaatschappij KNHG: Koninklijk Nederlands Historisch Genootschap OEES: Organisatie voor Europese Economische Samenwerking OESO: Organisatie voor Economische Samenwerking en Ontwikkeling PIVOT: Project Invoering Verkorting Overbrengingstermijn PC DIN: Permanente Commissie Documentaire Informatievoorziening RIO: Rapport Institutioneel Onderzoek Stb: Staatsblad Stcrt: Staatscourant 
 
 ####1 Verantwoording
 
 #### *2.1 Doel en werking van het Basis Selectiedocument* 
 
-Een Basis Selectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van één (enkele) organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Het BSD geldt dus voor de archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voor zover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Dit betekent dat er geen handelingen van particuliere actoren worden opgenomen. Een BSD wordt normaliter opgesteld op basis van institutioneel onderzoek. In het rapport institutioneel onderzoek (RIO) wordt dan het betreffende beleidsterrein beschreven, evenals de taken en bevoegdheden van de betrokken organen. De handelingen van de overheid op het beleidsterrein staan in het RIO in hun functionele context geplaatst. In het BSD zijn de handelingen overgenomen, alleen nu geordend naar de actor. Bovendien is bij elke handeling aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden. Door de beleidsterreingerichte benadering komen verschillende aspecten betreffende het beheer van de eigen organisatie van de zorgdrager (personeelsbeleid, financieel beleid, etc.) niet aan bod. Voor het selecteren van de administratieve neerslag die betrekking heeft op de instandhouding en ontwikkeling van de eigen organisaties van overheidsorganen dienen een aantal zogeheten ‘horizontale’ BSD’s. Deze horizontale BSD’s zijn van toepassing op alle organisaties van de rijksoverheid. Het niveau waarop geselecteerd wordt, is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voorzien van een waardering en indien van toepassing een vernietigingstermijn. Het beleidsterrein herverzekering van export- en importkredieten en investeringsgaranties wordt behandeld in het PIVOT-rapport nr. 78,‘Herverzekerd, een institutioneel onderzoek naar het overheidshandelen op het beleidsterrein herverzekering van export- en importkredieten en investeringsgaranties, 1940 – 1996’. De onderhavige selectielijst is op dit rapport gebaseerd. Het BSD wijkt niet af van het RIO.  
+Een Basis Selectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van één (enkele) organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Het BSD geldt dus voor de archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voor zover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Dit betekent dat er geen handelingen van particuliere actoren worden opgenomen. Een BSD wordt normaliter opgesteld op basis van institutioneel onderzoek. In het rapport institutioneel onderzoek (RIO) wordt dan het betreffende beleidsterrein beschreven, evenals de taken en bevoegdheden van de betrokken organen. De handelingen van de overheid op het beleidsterrein staan in het RIO in hun functionele context geplaatst. In het BSD zijn de handelingen overgenomen, alleen nu geordend naar de actor. Bovendien is bij elke handeling aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden. Door de beleidsterreingerichte benadering komen verschillende aspecten betreffende het beheer van de eigen organisatie van de zorgdrager (personeelsbeleid, financieel beleid, etc.) niet aan bod. Voor het selecteren van de administratieve neerslag die betrekking heeft op de instandhouding en ontwikkeling van de eigen organisaties van overheidsorganen dienen een aantal zogeheten ‘horizontale’ BSD’s. Deze horizontale BSD’s zijn van toepassing op alle organisaties van de rijksoverheid. Het niveau waarop geselecteerd wordt, is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voorzien van een waardering en indien van toepassing een vernietigingstermijn. Het beleidsterrein herverzekering van export- en importkredieten en investeringsgaranties wordt behandeld in het PIVOT-rapport nr. 78,‘Herverzekerd, een institutioneel onderzoek naar het overheidshandelen op het beleidsterrein herverzekering van export- en importkredieten en investeringsgaranties, 1940 – 1996’. De onderhavige selectielijst is op dit rapport gebaseerd. Het BSD wijkt niet af van het RIO. 
 
 #### *2.2 De definitie van het beleidsterrein* 
 
-Bij de export van goederen zijn bepaalde risico’s, zoals politieke risico’s, in de regel niet verzekerbaar. Daarom zal een ondernemer in sommige gevallen afzien van export naar een dergelijk land. Dit heeft negatieve gevolgen voor de Nederlandse exportpositie. Daarom bestaat in Nederland de mogelijkheid om bepaalde risico’s te laten verzekeren bij een toegelaten verzekeraar welke het risico vervolgens herverzekert bij de staat. De staat ontvangt hiervoor premie. In principe moet het gehele systeem kostendekkend zijn.  
+Bij de export van goederen zijn bepaalde risico’s, zoals politieke risico’s, in de regel niet verzekerbaar. Daarom zal een ondernemer in sommige gevallen afzien van export naar een dergelijk land. Dit heeft negatieve gevolgen voor de Nederlandse exportpositie. Daarom bestaat in Nederland de mogelijkheid om bepaalde risico’s te laten verzekeren bij een toegelaten verzekeraar welke het risico vervolgens herverzekert bij de staat. De staat ontvangt hiervoor premie. In principe moet het gehele systeem kostendekkend zijn. 
 
 #### *2.3 De afbakening van het beleidsterrein* 
 
-Om de export te bevorderen beschikt de overheid over een aantal instrumenten waaronder economische voorlichting, exportpromotie, financiële steun op basis van matching (Matchingfonds) en de herverzekering van export- en importkredieten en investeringsgaranties. Een groot deel van deze instrumenten valt onder de verantwoordelijkheid van de Minister van Economische Zaken en betreft directe steunverlening: het beleidsterrein exportbevordering wordt behandeld in PIVOT-rapport nr. 146. Het verwante beleidsterrein buitenlandse economisch beleid wordt behandeld in PIVOT-rapport nr. 145. Voor de herverzekering van export- en importkredieten en investeringsgaranties is echter de Minister van Financiën primair verantwoordelijk. Overigens moet iedere beslissing van het Ministerie van Financiën genomen worden in overeenstemming met het Ministerie van Economische Zaken. Hiernaast speelt het ministerie van Buitenlandse Zaken een belangrijke rol bij het bevorderen van export en buitenlandse economische betrekkingen. Deze minister heeft daarom ook een aantal verantwoordelijkheden op het beleidsterrein herverzekering van export- en importkredieten en investeringsgaranties. De verantwoordelijkheden van dit ministerie worden behandeld in PIVOT *Gedane Buitenlandse Zaken* en een nog te verschijnen rapport, dat de periode 1990–2005 beschrijft. De aan de export- en importkredieten verbonden betalingsrisico’s kunnen in Nederland via de Nederlandsche Credietverzekering Maatschappij NV (NCM) herverzekerd worden bij de Staat, d.w.z. bij het Ministerie van Financiën. De NCM is een particuliere verzekeringsmaatschappij die een herverzekeringsovereenkomst heeft gesloten met de Staat. Adviezen van de NCM worden eerst voorgelegd aan de afdeling Export- en Importgaranties (EXIM) van De Nederlandsche Bank NV. Evenals de NCM kan de Nederlandsche Bank NV zelfstandig verzekeringsaanvragen afhandelen. Pas in derde instantie komt het Ministerie van Financiën in beeld. Ook de handelingen van de Nederlandsche Bank NV worden in een eigen BSD behandeld. De handelingen van de Rijkscommissie voor Export-, Import- en Investeringsgaranties (1929–1996) en de Dagelijkse Commissie voor Export- en Importgaranties (1961–1986) zijn niet in het onderhavige BSD opgenomen: het secretariaat van deze commissies ligt bij de De Nederlandsche Bank (DNB) en niet bij het ministerie van Financiën. Deze commissies zullen in het BSD van de DNB worden opgenomen.  
+Om de export te bevorderen beschikt de overheid over een aantal instrumenten waaronder economische voorlichting, exportpromotie, financiële steun op basis van matching (Matchingfonds) en de herverzekering van export- en importkredieten en investeringsgaranties. Een groot deel van deze instrumenten valt onder de verantwoordelijkheid van de Minister van Economische Zaken en betreft directe steunverlening: het beleidsterrein exportbevordering wordt behandeld in PIVOT-rapport nr. 146. Het verwante beleidsterrein buitenlandse economisch beleid wordt behandeld in PIVOT-rapport nr. 145. Voor de herverzekering van export- en importkredieten en investeringsgaranties is echter de Minister van Financiën primair verantwoordelijk. Overigens moet iedere beslissing van het Ministerie van Financiën genomen worden in overeenstemming met het Ministerie van Economische Zaken. Hiernaast speelt het ministerie van Buitenlandse Zaken een belangrijke rol bij het bevorderen van export en buitenlandse economische betrekkingen. Deze minister heeft daarom ook een aantal verantwoordelijkheden op het beleidsterrein herverzekering van export- en importkredieten en investeringsgaranties. De verantwoordelijkheden van dit ministerie worden behandeld in PIVOT *Gedane Buitenlandse Zaken*en een nog te verschijnen rapport, dat de periode 1990–2005 beschrijft.  De aan de export- en importkredieten verbonden betalingsrisico’s kunnen in Nederland via de Nederlandsche Credietverzekering Maatschappij NV (NCM) herverzekerd worden bij de Staat, d.w.z. bij het Ministerie van Financiën. De NCM is een particuliere verzekeringsmaatschappij die een herverzekeringsovereenkomst heeft gesloten met de Staat. Adviezen van de NCM worden eerst voorgelegd aan de afdeling Export- en Importgaranties (EXIM) van De Nederlandsche Bank NV. Evenals de NCM kan de Nederlandsche Bank NV zelfstandig verzekeringsaanvragen afhandelen. Pas in derde instantie komt het Ministerie van Financiën in beeld. Ook de handelingen van de Nederlandsche Bank NV worden in een eigen BSD behandeld. De handelingen van de Rijkscommissie voor Export-, Import- en Investeringsgaranties (1929–1996) en de Dagelijkse Commissie voor Export- en Importgaranties (1961–1986) zijn niet in het onderhavige BSD opgenomen: het secretariaat van deze commissies ligt bij de De Nederlandsche Bank (DNB) en niet bij het ministerie van Financiën. Deze commissies zullen in het BSD van de DNB worden opgenomen. 
 
 #### *2.4 De doelstelling van de overheid op het beleidsterrein* 
 
-De centrale doelstelling van de overheid op dit beleidsterrein is het bevorderen van de Nederlandse export. Tevens wordt getracht om de Nederlandse economische betrekkingen met de ontwikkelingslanden en Oost-Europa te versterken en te vergroten op een meer duurzame basis. Ook bij het investeren in ontwikkelingslanden zijn bepaalde risico’s niet verzekerbaar. Een investeerder zal daarom in sommige gevallen afzien van een investering met alle negatieve gevolgen voor het desbetreffende ontwikkelingsland. Daarom werd in Nederland een systeem opgezet waarbij een toegelaten verzekeraar het risico kan herverzekeren bij de staat. Onderdeel daarvan vormt ondermeer het beschikbaar stellen van Nederlandse kennis. Toen het ‘ijzeren gordijn’ verdween, ontstond er in Oost-Europa een toenemende behoefte aan buitenlandse investeringen. Omdat hieraan veel risico’s zijn verbonden werd een aparte regeling in het leven geroepen voor het herverzekeren van investeringen in Oost-Europa. De investeringen moeten een bijdrage kunnen leveren aan de omschakeling naar en de ontwikkeling van een marktgericht economisch bestel in het land waar de investering heeft plaatsgevonden.  
+De centrale doelstelling van de overheid op dit beleidsterrein is het bevorderen van de Nederlandse export. Tevens wordt getracht om de Nederlandse economische betrekkingen met de ontwikkelingslanden en Oost-Europa te versterken en te vergroten op een meer duurzame basis. Ook bij het investeren in ontwikkelingslanden zijn bepaalde risico’s niet verzekerbaar. Een investeerder zal daarom in sommige gevallen afzien van een investering met alle negatieve gevolgen voor het desbetreffende ontwikkelingsland. Daarom werd in Nederland een systeem opgezet waarbij een toegelaten verzekeraar het risico kan herverzekeren bij de staat. Onderdeel daarvan vormt ondermeer het beschikbaar stellen van Nederlandse kennis. Toen het ‘ijzeren gordijn’ verdween, ontstond er in Oost-Europa een toenemende behoefte aan buitenlandse investeringen. Omdat hieraan veel risico’s zijn verbonden werd een aparte regeling in het leven geroepen voor het herverzekeren van investeringen in Oost-Europa. De investeringen moeten een bijdrage kunnen leveren aan de omschakeling naar en de ontwikkeling van een marktgericht economisch bestel in het land waar de investering heeft plaatsgevonden. 
 
 #### *2.5 De actoren op het beleidsterrein* 
 
@@ -81,7 +81,7 @@ de minister van Justitie
 de minister van Algemene Zaken de Vice-Minister-President 
 ###Actoren onder de archiefzorg van het ministerie van Binnenlandse Zaken:
 
-de minister van Binnenlandse Zaken  
+de minister van Binnenlandse Zaken 
 
 #### *2.6 Wijzigingen ten opzichte van het RIO* 
 
@@ -90,22 +90,22 @@ de minister van Binnenlandse Zaken
 Tijdens het driehoeksoverleg bleek het secretariaat van de Interdepartementale Commissie Herverzekering Investeringen bij het ministerie van Financiën te liggen. Deze actor wordt genoemd bij handeling 14, maar in het RIO staan geen handelingen. Na navraag bij het ministerie van Financiën blijkt dat het gaat om het interdepartementale overleg tussen de betrokken drie ministeries Financiën, Economische Zaken en Buitenlandse Zaken. Aan deze ministeries worden de afspraken doorgegeven die zijn gemaakt over kredieten. Deze informatie heeft gevolgen voor het beleid, bijvoorbeeld het exportbeleid van EZ. De commissie valt onder de archiefzorg van het ministerie van Financiën. Er wordt een lijst voor de commissie in het BSD opgenomen. De Rijkscommissie herverzekering export- en importgaranties en diens opvolgers en de Commissie Advisering Landenbeleid vallen onder het zorgdragerschap van de Nederlandse Bank (DNB). Deze commissies zullen worden opgenomen in het eigen BSD van DNB. 
 ###Handelingen
 
-De volgende handelingen zijn vervallen:  *Handeling 24:Het uitvoeren van internationale regels inzake de herverzekering van export- en importkredieten en investeringsgaranties:*  Uitvoering van regelgeving is ondervangen door andere handelingen.  *Handeling 28: Het voorbereiden van intern (wetenschappelijk) onderzoek en het vaststellen van onderzoeksrapporten inzake de herverzekering van export- en importkredieten en investeringsgaranties.*  Deze handeling is vervangen door een viertal nieuwe handelingen (nrs. 145 t/m 148) met betrekking tot onderzoek te formuleren conform de lijst met algemene handelingen.  
+De volgende handelingen zijn vervallen:  *Handeling 24:Het uitvoeren van internationale regels inzake de herverzekering van export- en importkredieten en investeringsgaranties:*  Uitvoering van regelgeving is ondervangen door andere handelingen.  *Handeling 28: Het voorbereiden van intern (wetenschappelijk) onderzoek en het vaststellen van onderzoeksrapporten inzake de herverzekering van export- en importkredieten en investeringsgaranties.*  Deze handeling is vervangen door een viertal nieuwe handelingen (nrs. 145 t/m 148) met betrekking tot onderzoek te formuleren conform de lijst met algemene handelingen. 
 
 ####3 Selectiedoelstelling
 
-De doelstelling van het Nationaal Archief bij de selectie van overheidsarchieven is dat de belangrijkste bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de rijksoverheid ten opzichte van haar omgeving, maar ook van de belangrijkste historisch-maatschappelijke gebeurtenissen en ontwikkelingen, voor zover deze zijn te reconstrueren uit overheidsarchieven.  
+De doelstelling van het Nationaal Archief bij de selectie van overheidsarchieven is dat de belangrijkste bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de rijksoverheid ten opzichte van haar omgeving, maar ook van de belangrijkste historisch-maatschappelijke gebeurtenissen en ontwikkelingen, voor zover deze zijn te reconstrueren uit overheidsarchieven. 
 
 ####4 Selectiecriteria
 
 Om de selectiedoelstelling te bereiken worden de handelingen in het BSD gewaardeerd aan de hand van de onderstaande algemene selectiecriteria. Deze criteria zijn in 1997 door het Convent van Rijksarchivarissen vastgesteld en geaccordeerd door PC DIN en KNHG. 
 ###Handelingen die gewaardeerd worden met B(ewaren)
 
-1. Handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op verantwoording van beleid op hoofdlijnen aan andere actoren *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten *Toelichting:* Bijvoorbeeld in het geval de ministeriele verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Naast de algemene criteria kunnen door de zorgdrager(s) en het Nationaal Archief, eveneens binnen het kader van de selectiedoelstelling, gezamenlijk beleidsterreinspecifieke criteria worden geformuleerd. Deze criteria worden doorlopend genummerd, waarbij wordt aangesloten bij de zes algemene criteria (dus vanaf 7). Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd.   
+1. Handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen  *Toelichting:*Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen  *Toelichting:*Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op verantwoording van beleid op hoofdlijnen aan andere actoren  *Toelichting:*Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen  *Toelichting:*Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt  *Toelichting:*Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten  *Toelichting:*Bijvoorbeeld in het geval de ministeriele verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Naast de algemene criteria kunnen door de zorgdrager(s) en het Nationaal Archief, eveneens binnen het kader van de selectiedoelstelling, gezamenlijk beleidsterreinspecifieke criteria worden geformuleerd. Deze criteria worden doorlopend genummerd, waarbij wordt aangesloten bij de zes algemene criteria (dus vanaf 7). Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd.  
 
 ####5 Verslag vaststellingsprocedure
 
-Op 17 augustus 2006 is het ontwerp-BSD door het Project Wegwerken Archiefachterstanden (PWAA) namens de minister van Financiën, de minister van Economische Zaken, de minister van Binnenlandse Zaken, de minister van Buitenlandse Zaken, de minister van Landbouw, Natuur en Voedselkwaliteit, de minister van Algemene Zaken en de minister van Justitie aan de minister van OC&W aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 april lag de selectielijst gedurende zes weken ter publieke inzage bij de registratiebalie van de studiezaal en op de website van het Nationaal Archief evenals op de website van het ministerie van OCW, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 29 mei 2007 bracht de RvC advies uit arc-2007.03707/13, hetwelk behoudens enkele tekstuele correcties geen aanleiding heeft gegeven tot wijziging van de ontwerp-selectielijst. Daarop werd het BSD op 12 juni 2007 door de algemene rijksarchivaris, namens de minister van Onderwijs, Cultuur en Wetenschappen, en door de projectdirecteur van het PWAA namens de minister van Financiën (kenmerk [C/S&A/07/1470](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022203/README.md)) , de minister van Economische Zaken ([C/S&A/07/1474](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022207/README.md)), de minister van Binnenlandse Zaken en Koninkrijksrelaties (kenmerk [C/S&A/07/1473](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022206/README.md)), de minister van Buitenlandse Zaken (kenmerk [C/S&A/07/1475](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022208/README.md)), de minister van Justitie (kenmerk C/S&A/07/1476) en de minister van Algemene Zaken ([C/S&A/07/1472](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022205/README.md)) en door directeur Informatiebeleid en Facilitaire Zaken namens de minister van Landbouw, Natuur en Voedselkwaliteit (kenmerk [C/S&A/07/1471](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022204/README.md)) vastgesteld.  
+Op 17 augustus 2006 is het ontwerp-BSD door het Project Wegwerken Archiefachterstanden (PWAA) namens de minister van Financiën, de minister van Economische Zaken, de minister van Binnenlandse Zaken, de minister van Buitenlandse Zaken, de minister van Landbouw, Natuur en Voedselkwaliteit, de minister van Algemene Zaken en de minister van Justitie aan de minister van OC&W aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 april lag de selectielijst gedurende zes weken ter publieke inzage bij de registratiebalie van de studiezaal en op de website van het Nationaal Archief evenals op de website van het ministerie van OCW, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 29 mei 2007 bracht de RvC advies uit arc-2007.03707/13, hetwelk behoudens enkele tekstuele correcties geen aanleiding heeft gegeven tot wijziging van de ontwerp-selectielijst. Daarop werd het BSD op 12 juni 2007 door de algemene rijksarchivaris, namens de minister van Onderwijs, Cultuur en Wetenschappen, en door de projectdirecteur van het PWAA namens de minister van Financiën (kenmerk [C/S&A/07/1470](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022203/README.md)) , de minister van Economische Zaken ([C/S&A/07/1474](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022207/README.md)), de minister van Binnenlandse Zaken en Koninkrijksrelaties (kenmerk [C/S&A/07/1473](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022206/README.md)), de minister van Buitenlandse Zaken (kenmerk [C/S&A/07/1475](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022208/README.md)), de minister van Justitie (kenmerk C/S&A/07/1476) en de minister van Algemene Zaken ([C/S&A/07/1472](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022205/README.md)) en door directeur Informatiebeleid en Facilitaire Zaken namens de minister van Landbouw, Natuur en Voedselkwaliteit (kenmerk [C/S&A/07/1471](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022204/README.md)) vastgesteld. 
 
 ####6 Leeswijzer
 
@@ -148,7 +148,7 @@ Hier achter staat het product vermeld waarin de handeling resulteert of zou moet
 Deze aanvullende informatie wordt slechts vermeld wanneer (een onderdeel van) het handelingenblok toelichting behoeft. 
 ###Waardering:
 
-Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn, zonodig aangevuld met een bewerkingsinstructie, bijvoorbeeld: ‘v 5 jaar na voltooiing project’. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering.  
+Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn, zonodig aangevuld met een bewerkingsinstructie, bijvoorbeeld: ‘v 5 jaar na voltooiing project’. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering. 
 
 ####7 de actoren werkzaam op het beleidsterrein
 
@@ -158,14 +158,14 @@ De Minister van Financiën is (politiek) in eerste instantie verantwoordelijk vo
 
 – betalingsrisico’s verbonden aan exporttransacties;  
 
-– niet-commerciële risico’s verbonden aan investeringen in ontwikkelingslanden.   De Minister van Financiën wordt in verschillende werkgroepen en commissies vertegenwoordigd door ambtenaren. Het gaat hierbij ondermeer om de Commissie Advisering Landenbeleid, het Periodiek Overleg, de Werkgroep Transferachterstanden en de Interdepartementale Commissie Herverzekering Investeringen.  
+– niet-commerciële risico’s verbonden aan investeringen in ontwikkelingslanden.   De Minister van Financiën wordt in verschillende werkgroepen en commissies vertegenwoordigd door ambtenaren. Het gaat hierbij ondermeer om de Commissie Advisering Landenbeleid, het Periodiek Overleg, de Werkgroep Transferachterstanden en de Interdepartementale Commissie Herverzekering Investeringen. 
 
 #### *7.2 Actoren onder de archiefzorg van de Minister van Financiën, 1945–heden* 
 
-De *Interdepartementale Commissie Herverzekering Investeringen* vindt haar oorsprong in de Wet herverzekering investeringen van 23 april 1969 Stb. 268. De directeur van de directie EKI van het Ministerie van Financiën zit de vergaderingen van de commissie voor. Een medewerker van deze directie voert het secretariaat. In de commissie zitten vertegenwoordigers van de Minister van Buitenlandse Zaken/Ontwikkelingssamenwerking, de Minister van Economische Zaken, de Minister van Landbouw, Natuur en Voedselkwaliteit, de Minister van Financiën en het Kabinet voor Nederlands-Antilliaanse Zaken. <sup> 1  Notitie ‘Nieuwe formulering van Taak en Werkwijze van de CAL’ d.d. 26 mei 1989, kenmerk JR/SJ/III.  </sup> De Commissie heeft tot taak de betrokken ministers te adviseren met betrekking tot individuele verzekeringsaanvragen. De Minister van Financiën neemt uiteindelijk de beslissing over dergelijke verzekeringsaanvragen. Daarnaast buigt de commissie zich ook over algemene problemen die verband houden met de investeringsverzekeringen. 
+De *Interdepartementale Commissie Herverzekering Investeringen*<sup>1Notitie ‘Nieuwe formulering van Taak en Werkwijze van de CAL’ d.d. 26 mei 1989, kenmerk JR/SJ/III.</sup> vindt haar oorsprong in de Wet herverzekering investeringen van 23 april 1969 Stb. 268. De directeur van de directie EKI van het Ministerie van Financiën zit de vergaderingen van de commissie voor. Een medewerker van deze directie voert het secretariaat. In de commissie zitten vertegenwoordigers van de Minister van Buitenlandse Zaken/Ontwikkelingssamenwerking, de Minister van Economische Zaken, de Minister van Landbouw, Natuur en Voedselkwaliteit, de Minister van Financiën en het Kabinet voor Nederlands-Antilliaanse Zaken. De Commissie heeft tot taak de betrokken ministers te adviseren met betrekking tot individuele verzekeringsaanvragen. De Minister van Financiën neemt uiteindelijk de beslissing over dergelijke verzekeringsaanvragen. Daarnaast buigt de commissie zich ook over algemene problemen die verband houden met de investeringsverzekeringen. 
 ###De Verzekeraar, 1940–1996
 
-De Verzekeraar verricht voor de Staat verschillende handelingen die in het kader van de [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) kunnen worden aangemerkt als handelingen van een overheidsorgaan. In de praktijk is tot dusver Nederlandsche Credietverzekering Maatschappij NV (NCM), opgericht in 1925, de enige verzekeraar met wie de Staat een overeenkomst heeft afgesloten. Daarom wordt speciaal aandacht geschonken aan deze maatschappij. NCM is een naamloze vennootschap. Aandeelhouders zijn banken en verzekeringsmaatschappijen. De Staat is geen aandeelhouder. Wel heeft de Staat een zetel in de Raad van Commissarissen. De maatschappij is onder meer actief op het gebied van de verzekering van exportrisico’s. De samenwerking tussen NCM en de Staat is geregeld in een overeenkomst. Hierin staat onder meer welke risico’s NCM voor eigen rekening verzekert en welke risico’s bij de Staat kunnen worden herverzekerd. Op grond van haar ervaring is de NCM in staat voorlichting en advies te geven op het gebied van het internationale handels- en betalingsverkeer. Door haar verzekeringsovereenkomst met de Nederlandse Staat kan zij de verzekering van commerciële betalingsrisico’s combineren met dekking van de aan de handel met het buitenland verbonden politieke risico’s. <sup> 2  Ford, blz. 166.  </sup> <sup> 3  Landenbeleid van de NCM, blz. 41.  </sup> De NCM is gemachtigd om kredieten tot 10 miljoen gulden namens de Staat te verzekeren. Indien het gaat om bedragen tussen de 10 en 25 miljoen gulden moet de Nederlandsche Bank NV goedkeuring verlenen. Voor bedragen boven de 25 miljoen gulden moet, na advies van de Nederlandsche Bank NV, goedkeuring worden verleend door de Minister van Financiën. De verschuldigde premie is afhankelijk van de mate van risico. Vertegenwoordigers van de NCM nemen deel aan verschillende werkgroepen en commissies. Deze worden beschreven onder de actor Minister van Financiën. In 2001 gingen NCM en Gerling Credit Insurance samen, waarop GERLING NCM ontstond. In augustus 2003 ging het aandeelhoudersschap voor een belangrijk deel over in de handen van Swiss Re en Deutsche Bank. Sindsdien heet GERLING NCM Atradius. Omdat dit BSD zich beperkt tot de periode 1945–1996, zullen wijzigingen in de organisatie en taken van NCM na 1996 uitgebreider in een actualisatie worden behandeld.  
+De Verzekeraar verricht voor de Staat verschillende handelingen die in het kader van de [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) kunnen worden aangemerkt als handelingen van een overheidsorgaan. In de praktijk is tot dusver Nederlandsche Credietverzekering Maatschappij NV (NCM), opgericht in 1925, de enige verzekeraar met wie de Staat een overeenkomst heeft afgesloten. Daarom wordt speciaal aandacht geschonken aan deze maatschappij. NCM is een naamloze vennootschap. Aandeelhouders zijn banken en verzekeringsmaatschappijen. De Staat is geen aandeelhouder. Wel heeft de Staat een zetel in de Raad van Commissarissen. De maatschappij is onder meer actief op het gebied van de verzekering van exportrisico’s.<sup>2Ford, blz. 166.</sup> De samenwerking tussen NCM en de Staat is geregeld in een overeenkomst. Hierin staat onder meer welke risico’s NCM voor eigen rekening verzekert en welke risico’s bij de Staat kunnen worden herverzekerd. Op grond van haar ervaring is de NCM in staat voorlichting en advies te geven op het gebied van het internationale handels- en betalingsverkeer. Door haar verzekeringsovereenkomst met de Nederlandse Staat kan zij de verzekering van commerciële betalingsrisico’s combineren met dekking van de aan de handel met het buitenland verbonden politieke risico’s.<sup>3Landenbeleid van de NCM, blz. 41.</sup> De NCM is gemachtigd om kredieten tot 10 miljoen gulden namens de Staat te verzekeren. Indien het gaat om bedragen tussen de 10 en 25 miljoen gulden moet de Nederlandsche Bank NV goedkeuring verlenen. Voor bedragen boven de 25 miljoen gulden moet, na advies van de Nederlandsche Bank NV, goedkeuring worden verleend door de Minister van Financiën. De verschuldigde premie is afhankelijk van de mate van risico. Vertegenwoordigers van de NCM nemen deel aan verschillende werkgroepen en commissies. Deze worden beschreven onder de actor Minister van Financiën. In 2001 gingen NCM en Gerling Credit Insurance samen, waarop GERLING NCM ontstond. In augustus 2003 ging het aandeelhoudersschap voor een belangrijk deel over in de handen van Swiss Re en Deutsche Bank. Sindsdien heet GERLING NCM Atradius. Omdat dit BSD zich beperkt tot de periode 1945–1996, zullen wijzigingen in de organisatie en taken van NCM na 1996 uitgebreider in een actualisatie worden behandeld. 
 
 #### *7.2 Secundaire actoren* 
 
@@ -173,7 +173,7 @@ De Verzekeraar verricht voor de Staat verschillende handelingen die in het kader
 
 ###Minister van Economische Zaken, 1945–heden
 
-Sinds 1933 is het Ministerie van Economische Zaken primair belast met de uitvoering van de handelspolitiek en de economische voorlichting. De Minister van Financiën heeft op dit terrein, in overleg met de Minister van Economische Zaken, slechts directe bemoeienis met de export- en importkredietgaranties en de herinvesteringsgaranties. Veel besluiten van de Minister van Financiën kunnen slechts worden genomen na instemming van de Minister van Economische Zaken.  
+Sinds 1933 is het Ministerie van Economische Zaken primair belast met de uitvoering van de handelspolitiek en de economische voorlichting. De Minister van Financiën heeft op dit terrein, in overleg met de Minister van Economische Zaken, slechts directe bemoeienis met de export- en importkredietgaranties en de herinvesteringsgaranties. Veel besluiten van de Minister van Financiën kunnen slechts worden genomen na instemming van de Minister van Economische Zaken. 
 
 #### *– Actoren onder de archiefzorg van het ministerie van Buitenlandse Zaken:* 
 
@@ -182,13 +182,13 @@ Sinds 1933 is het Ministerie van Economische Zaken primair belast met de uitvoer
 Naast het Ministerie van Economische Zaken, vervult het Ministerie van Buitenlandse Zaken een rol op het gebied van de uitvoering van de handelspolitiek en de economische voorlichting. De minister stemt het beleid inzake de herverzekering van investeringsgaranties met de minister van Financiën overeen en presenteren het Nederlandse standpunt in internationale organisaties. Hiernaast heeft de minister een aantal bevoegdheden ten aanzien van het herverzekeren van investeringsgaranties. 
 ###Minister belast met de hulp aan ontwikkelingslanden, 1969–heden
 
-Deze minister vervult dezelfde taken als de minister van Buitenlandse Zaken op het gebied van EKI, maar dan voornamelijk gericht op ontwikkelingslanden.  
+Deze minister vervult dezelfde taken als de minister van Buitenlandse Zaken op het gebied van EKI, maar dan voornamelijk gericht op ontwikkelingslanden. 
 
 #### *– Actor onder de archiefzorg van het ministerie van Landbouw, Natuur en Voedselkwaliteit:* 
 
 ###Minister van Landbouw, Natuur en Voedselkwaliteit, 1969–heden
 
-Deze heeft een aantal bevoegdheden ten aanzien van het herverzekeren van investeringsgaranties.  
+Deze heeft een aantal bevoegdheden ten aanzien van het herverzekeren van investeringsgaranties. 
 
 #### *– Actoren onder archiefzorg van het ministerie van Algemene Zaken:* 
 
@@ -197,19 +197,19 @@ Deze heeft een aantal bevoegdheden ten aanzien van het herverzekeren van investe
 Deze heeft een aantal bevoegdheden ten aanzien van het herverzekeren van investeringsgaranties. De Vice-Minister-President had een eigen bureau had bij het ministerie van Algemene Zaken en valt daarom onder de archiefzorg van AZ. 
 ###Minister van Algemene Zaken, 1969–heden
 
-Deze minister zijn betrokken bij het opstellen, inbrengen en terugkoppelen van Nederlandse bijdragen en standpunten met betrekking tot de herverzekering van export- en importkredieten en investeringsgaranties in internationale overleg- en bestuursorganen.  
+Deze minister zijn betrokken bij het opstellen, inbrengen en terugkoppelen van Nederlandse bijdragen en standpunten met betrekking tot de herverzekering van export- en importkredieten en investeringsgaranties in internationale overleg- en bestuursorganen. 
 
 #### *– Actor onder de archiefzorg van het ministerie van Justitie:* 
 
 ###Minister van Justitie, 1969–heden
 
-Deze minister is betrokken bij het opstellen, inbrengen en terugkoppelen van Nederlandse bijdragen en standpunten met betrekking tot de herverzekering van export- en importkredieten en investeringsgaranties in internationale overleg- en bestuursorganen.  
+Deze minister is betrokken bij het opstellen, inbrengen en terugkoppelen van Nederlandse bijdragen en standpunten met betrekking tot de herverzekering van export- en importkredieten en investeringsgaranties in internationale overleg- en bestuursorganen. 
 
 #### *– Actor onder de archiefzorg van het ministerie van Binnenlandse Zaken:* 
 
 ###Minister van Binnenlandse Zaken, 1969–heden
 
-Deze minister is betrokken bij het opstellen, inbrengen en terugkoppelen van Nederlandse bijdragen en standpunten met betrekking tot de herverzekering van export- en importkredieten en investeringsgaranties in internationale overleg- en bestuursorganen.  
+Deze minister is betrokken bij het opstellen, inbrengen en terugkoppelen van Nederlandse bijdragen en standpunten met betrekking tot de herverzekering van export- en importkredieten en investeringsgaranties in internationale overleg- en bestuursorganen. 
 
 ####8 Selectielijsten
 
@@ -352,7 +352,7 @@ Handeling: Het voorbereiden van, dan wel het leveren van een bijdrage aan, de be
 
 ###(141)
 
-Handeling: Het consulteren van maatschappelijke vertegenwoordigingen en/of het bedrijfsleven ten aanzien van onderwerpen op het gebied van de herverzekering van export- en importkredieten en investeringsgaranties Periode: 1945– Product: verslagen Bron: Interviews Waardering: B5  
+Handeling: Het consulteren van maatschappelijke vertegenwoordigingen en/of het bedrijfsleven ten aanzien van onderwerpen op het gebied van de herverzekering van export- en importkredieten en investeringsgaranties Periode: 1945– Product: verslagen Bron: Interviews Waardering: B5 
 
 #### *8.1.3 Herverzekering investeringen in ontwikkelingslanden* 
 
@@ -407,7 +407,7 @@ Handeling: Het afhandelen van schadegevallen en dreigende schaden, welke geheel 
 Handeling: Het op basis van de rapportages van de Nederlandsche Crediet Verzekeringsmaatschappij controleren van de inkomsten en uitgaven verbonden aan de dekking van investeringsgaranties. Periode: 1945– Grondslag: Handboek AO, hoofdstuk 6, blz. 6, 10.4.2. Waardering: V 10 jaar 
 ###(123)
 
-Handeling: Het controleren van de naleving van de aan de Nederlandsche Crediet Verzekeringsmaatschappij gegeven uitvoeringsvoorschriften. Periode: 1945– Grondslag: Handboek AO, hoofdstuk 6, blz. 6, 10.4.2. Waardering: V 10 jaar  
+Handeling: Het controleren van de naleving van de aan de Nederlandsche Crediet Verzekeringsmaatschappij gegeven uitvoeringsvoorschriften. Periode: 1945– Grondslag: Handboek AO, hoofdstuk 6, blz. 6, 10.4.2. Waardering: V 10 jaar 
 
 #### *8.1.4 Herverzekering investeringen in Oost-Europa* 
 
@@ -429,13 +429,13 @@ Handeling: Het, in overeenstemming met de Minister van Economische Zaken, vastst
 Handeling: Het, in overeenstemming met de Minister van Economische Zaken, beslissen op verzoeken van verzekeringsmaatschappijen om verzekeringsovereenkomsten in het kader van de Tijdelijke Regeling Herverzekering Investeringen Oost-Europa bij te Staat te mogen herverzekeren. Periode: 1990– Grondslag: Tijdelijke regeling herverzekering investeringen Oost-Europa art. 3, lid 1–2, 5, 6 , lid 1–2, 7, lid 1–2. Waardering: B5 voor algemeen geldende toestemmingen tot herverzekering (toetreding tot de Oost-Europese markt in het algemeen) V, 10 jaar voor verzoeken voor individuele herverzekeringen (per bedrijf) 
 ###(132)
 
-Handeling: Het, na instemming van de Minister van Economische Zaken, afsluiten en intrekken van een herverzekeringsovereenkomst met een Verzekeraar. Periode: 1990– Grondslag: Tijdelijke regeling herverzekering investeringen Oost-Europa art. 3, lid 6 en 8. Waardering: B5  
+Handeling: Het, na instemming van de Minister van Economische Zaken, afsluiten en intrekken van een herverzekeringsovereenkomst met een Verzekeraar. Periode: 1990– Grondslag: Tijdelijke regeling herverzekering investeringen Oost-Europa art. 3, lid 6 en 8. Waardering: B5 
 
 #### *8.2 Actor: Interdepartementale commissie herverzekering investeringen* 
 
 ###(136)
 
-Handeling: Het adviseren van de betrokken ministers over individuele verzekeringsaanvragen Periode: 1967– Grondslag: Memorie van Toelichting 1967; Notitie ‘Nieuwe formulering van Taak en Werkwijze van de CAL’ d.d. 26 mei 1989, kenmerk JR/SJ/III Waardering: B5  
+Handeling: Het adviseren van de betrokken ministers over individuele verzekeringsaanvragen Periode: 1967– Grondslag: Memorie van Toelichting 1967; Notitie ‘Nieuwe formulering van Taak en Werkwijze van de CAL’ d.d. 26 mei 1989, kenmerk JR/SJ/III Waardering: B5 
 
 #### *8.3 Verzekeraar* 
 
@@ -488,7 +488,7 @@ Handeling: Het overeenstemmen met de Minister van Financiën over het voorbereid
 
 ###(16)
 
-Handeling: Het presenteren van Nederlandse standpunten in gouvernementele internationale organisaties inzake de herverzekering van export- en importkredieten en investeringsgaranties. Periode: 1945– Waardering: B1  
+Handeling: Het presenteren van Nederlandse standpunten in gouvernementele internationale organisaties inzake de herverzekering van export- en importkredieten en investeringsgaranties. Periode: 1945– Waardering: B1 
 
 #### *8.3.1.2 Herverzekering export- en importkredieten* 
 
@@ -507,7 +507,7 @@ Handeling: Het aanwijzen van vertegenwoordigers in commissies op het gebied van 
 Handeling: Het overeenstemmen met de Minister van Financiën over het benoemen van deskundigen op het gebied van industrie, landbouw, handel, dienstverlening, bank- en verzekeringswezen tot gewone leden Rijkscommissie voor export-, import- en investeringsgaranties. Periode: 1993– Grondslag: Wet Rijkscommissie voor export-, import- en investeringsgaranties art. 3, lid 3. Waardering: V 10 jaar 
 ###(62)
 
-Handeling: Het informeren van de Tweede Kamer der Staten-Generaal over (voorgestelde wijzigingen in) de taak en werkzaamheden van de Rijkscommissie voor export-, import- en investeringsgaranties. Periode: 1993– Grondslag: Wet Rijkscommissie voor export-, import- en investeringsgaranties art. 7, lid 1–2. Waardering: B3  
+Handeling: Het informeren van de Tweede Kamer der Staten-Generaal over (voorgestelde wijzigingen in) de taak en werkzaamheden van de Rijkscommissie voor export-, import- en investeringsgaranties. Periode: 1993– Grondslag: Wet Rijkscommissie voor export-, import- en investeringsgaranties art. 7, lid 1–2. Waardering: B3 
 
 #### *8.3.1.3 Herverzekering investeringen in ontwikkelingslanden* 
 
@@ -526,7 +526,7 @@ Handeling: Het stellen van nadere regels ter uitvoering van de Wet herverzekerin
 
 ###(117)
 
-Handeling: Het overleggen met de Minister van Financiën over aanvragen tot herverzekering. Periode: 1969– Grondslag: Wet herverzekering investeringen art. 4. Waardering: B5: aanvragen en zaken waarover beleidsdossiers zijn opgebouwd en/of die in de ministerraad zijn behandeld of aanleiding zijn geweest tot kamervragen. V, 10 jaar na definitieve afwikkeling aanvraag of zaak: overig  
+Handeling: Het overleggen met de Minister van Financiën over aanvragen tot herverzekering. Periode: 1969– Grondslag: Wet herverzekering investeringen art. 4. Waardering: B5: aanvragen en zaken waarover beleidsdossiers zijn opgebouwd en/of die in de ministerraad zijn behandeld of aanleiding zijn geweest tot kamervragen. V, 10 jaar na definitieve afwikkeling aanvraag of zaak: overig 
 
 #### *8.3.1.4 Herverzekering investeringen in Oost-Europa* 
 
@@ -548,7 +548,7 @@ Handeling: Het overeenstemmen met de Minister van Financiën ten aanzien van het
 Handeling: Het overeenstemmen met de Minister van Financiën over een beslissing op een verzoek van een verzekeringsmaatschappij om verzekeringsovereenkomsten in het kader van de Tijdelijke Regeling Herverzekering Investeringen Oost-Europa bij te Staat te mogen herverzekeren. Periode: 1990– Grondslag: Tijdelijke regeling herverzekering investeringen Oost-Europa art. 3, lid 2, 5. Waardering: B5 voor algemeen geldende toestemmingen tot herverzekering (toetreding tot de Oost-Europese markt in het algemeen) V, 10 jaar voor verzoeken voor individuele herverzekeringen (per bedrijf) 
 ###(133)
 
-Handeling: Het instemmen met de Minister van Financiën ten aanzien van het afsluiten en intrekken van een herverzekeringsovereenkomst met een Verzekeraar. Periode: 1990– Grondslag: Tijdelijke regeling herverzekering investeringen Oost-Europa art. 3, lid 6. Waardering: V, 10 jaar na intrekking  
+Handeling: Het instemmen met de Minister van Financiën ten aanzien van het afsluiten en intrekken van een herverzekeringsovereenkomst met een Verzekeraar. Periode: 1990– Grondslag: Tijdelijke regeling herverzekering investeringen Oost-Europa art. 3, lid 6. Waardering: V, 10 jaar na intrekking 
 
 #### *8.3.2 Minister van Buitenlandse Zaken* 
 
@@ -563,7 +563,7 @@ Handeling: Het overeenstemmen met de Minister van Financiën over het voorbereid
 
 ###(16)
 
-Handeling: Het presenteren van Nederlandse standpunten in gouvernementele internationale organisaties inzake de herverzekering van export- en importkredieten en investeringsgaranties. Periode: 1945– Waardering: B1  
+Handeling: Het presenteren van Nederlandse standpunten in gouvernementele internationale organisaties inzake de herverzekering van export- en importkredieten en investeringsgaranties. Periode: 1945– Waardering: B1 
 
 #### *8.3.2.2 Herverzekering investeringen in ontwikkelingslanden* 
 
@@ -582,7 +582,7 @@ Handeling: Het stellen van nadere regels ter uitvoering van de Wet herverzekerin
 
 ###(116)
 
-Handeling: Het overleggen met de Minister van Financiën over aanvragen tot herverzekering. Periode: 1969– Grondslag: Wet herverzekering investeringen art. 4. Waardering: B5  
+Handeling: Het overleggen met de Minister van Financiën over aanvragen tot herverzekering. Periode: 1969– Grondslag: Wet herverzekering investeringen art. 4. Waardering: B5 
 
 #### *8.3.2.3 Herverzekering investeringen in Oost-Europa* 
 
@@ -590,7 +590,7 @@ Handeling: Het overleggen met de Minister van Financiën over aanvragen tot herv
 
 ###(131)
 
-Handeling: Het overeenstemmen met de Minister van Financiën over een beslissing op een verzoek van een verzekeringsmaatschappij om verzekeringsovereenkomsten in het kader van de Tijdelijke Regeling Herverzekering Investeringen Oost-Europa bij te Staat te mogen herverzekeren. Periode: 1990– Grondslag: Tijdelijke regeling herverzekering investeringen Oost-Europa art. 3, lid 2, 5. Waardering: B5 voor algemeen geldende toestemmingen tot herverzekering (toetreding tot de Oost-Europese markt in het algemeen) V, 10 jaar voor verzoeken voor individuele herverzekeringen (per bedrijf)  
+Handeling: Het overeenstemmen met de Minister van Financiën over een beslissing op een verzoek van een verzekeringsmaatschappij om verzekeringsovereenkomsten in het kader van de Tijdelijke Regeling Herverzekering Investeringen Oost-Europa bij te Staat te mogen herverzekeren. Periode: 1990– Grondslag: Tijdelijke regeling herverzekering investeringen Oost-Europa art. 3, lid 2, 5. Waardering: B5 voor algemeen geldende toestemmingen tot herverzekering (toetreding tot de Oost-Europese markt in het algemeen) V, 10 jaar voor verzoeken voor individuele herverzekeringen (per bedrijf) 
 
 #### *8.3.3 Minister belast met de hulp aan ontwikkelingslanden* 
 
@@ -605,7 +605,7 @@ Handeling: Het overeenstemmen met de Minister van Financiën over het voorbereid
 
 ###(16)
 
-Handeling: Het presenteren van Nederlandse standpunten in gouvernementele internationale organisaties inzake de herverzekering van export- en importkredieten en investeringsgaranties. Periode: 1945– Waardering: B1  
+Handeling: Het presenteren van Nederlandse standpunten in gouvernementele internationale organisaties inzake de herverzekering van export- en importkredieten en investeringsgaranties. Periode: 1945– Waardering: B1 
 
 #### *8.3.3.2 Herverzekering investeringen in ontwikkelingslanden* 
 
@@ -624,7 +624,7 @@ Handeling: Het stellen van nadere regels ter uitvoering van de Wet herverzekerin
 
 ###(119)
 
-Handeling: Het overleggen met de Minister van Financiën over aanvragen tot herverzekering. Periode: 1969– Grondslag: Wet herverzekering investeringen art. 4. Waardering: B5  
+Handeling: Het overleggen met de Minister van Financiën over aanvragen tot herverzekering. Periode: 1969– Grondslag: Wet herverzekering investeringen art. 4. Waardering: B5 
 
 #### *8.3.3.3 Herverzekering investeringen in Oost-Europa* 
 
@@ -632,7 +632,7 @@ Handeling: Het overleggen met de Minister van Financiën over aanvragen tot herv
 
 ###(131)
 
-Handeling: Het overeenstemmen met de Minister van Financiën over een beslissing op een verzoek van een verzekeringsmaatschappij om verzekeringsovereenkomsten in het kader van de Tijdelijke Regeling Herverzekering Investeringen Oost-Europa bij te Staat te mogen herverzekeren. Periode: 1990– Grondslag: Tijdelijke regeling herverzekering investeringen Oost-Europa art. 3, lid 2, 5. Waardering: B5 voor algemeen geldende toestemmingen tot herverzekering (toetreding tot de Oost-Europese markt in het algemeen) V, 10 jaar voor verzoeken voor individuele herverzekeringen (per bedrijf)  
+Handeling: Het overeenstemmen met de Minister van Financiën over een beslissing op een verzoek van een verzekeringsmaatschappij om verzekeringsovereenkomsten in het kader van de Tijdelijke Regeling Herverzekering Investeringen Oost-Europa bij te Staat te mogen herverzekeren. Periode: 1990– Grondslag: Tijdelijke regeling herverzekering investeringen Oost-Europa art. 3, lid 2, 5. Waardering: B5 voor algemeen geldende toestemmingen tot herverzekering (toetreding tot de Oost-Europese markt in het algemeen) V, 10 jaar voor verzoeken voor individuele herverzekeringen (per bedrijf) 
 
 #### *8.3.4 Minister van Landbouw, Natuur en Voedselkwaliteit* 
 
@@ -653,7 +653,7 @@ Handeling: Het stellen van nadere regels ter uitvoering van de Wet herverzekerin
 
 ###(118)
 
-Handeling: Het overleggen met de Minister van Financiën over aanvragen tot herverzekering. Periode: 1969– Grondslag: Wet herverzekering investeringen art. 4. Waardering: V 10 jaar na definitieve afwikkeling aanvraag of zaak  
+Handeling: Het overleggen met de Minister van Financiën over aanvragen tot herverzekering. Periode: 1969– Grondslag: Wet herverzekering investeringen art. 4. Waardering: V 10 jaar na definitieve afwikkeling aanvraag of zaak 
 
 #### *8.3.5 Actoren onder de archiefzorg van de Minister van Algemene Zaken* 
 
@@ -668,7 +668,7 @@ Handeling: Het overleggen met de Minister van Financiën over aanvragen tot herv
 Handeling: Het presenteren van Nederlandse standpunten in gouvernementele internationale organisaties inzake de herverzekering van export- en importkredieten en investeringsgaranties. Periode: 1945– Waardering: B1 
 ###(16)
 
-Handeling: Het leveren van een bijdrage aan de Nederlandse standpuntbepaling ten aanzien van internationale bijeenkomsten of organen inzake de herverzekering van export- en importkredieten en investeringsgaranties. Periode: 1945– Product: instructies Waardering: B 1  
+Handeling: Het leveren van een bijdrage aan de Nederlandse standpuntbepaling ten aanzien van internationale bijeenkomsten of organen inzake de herverzekering van export- en importkredieten en investeringsgaranties. Periode: 1945– Product: instructies Waardering: B 1 
 
 #### *8.3.5.2 Vice-Minister-President* 
 
@@ -682,7 +682,7 @@ Handeling: Het vaststellen van specifieke niet-commerciële risico’s welke kun
 Handeling: Het vaststellen van vereisten waaraan de herverzekering moet voldoen. Periode: 1969– Grondslag: Wet herverzekering investeringen art. 8. Waardering: B5 
 ###(107)
 
-Handeling: Het stellen van nadere regels ter uitvoering van de Wet herverzekering investeringen. Periode: 1969– Grondslag: Wet herverzekering investeringen art. 9. Waardering: B5  
+Handeling: Het stellen van nadere regels ter uitvoering van de Wet herverzekering investeringen. Periode: 1969– Grondslag: Wet herverzekering investeringen art. 9. Waardering: B5 
 
 #### *8.3.6 Minister van Justitie* 
 
@@ -695,7 +695,7 @@ Handeling: Het stellen van nadere regels ter uitvoering van de Wet herverzekerin
 Handeling: Het presenteren van Nederlandse standpunten in gouvernementele internationale organisaties inzake de herverzekering van export- en importkredieten en investeringsgaranties. Periode: 1945– Waardering: B1 
 ###(16)
 
-Handeling: Het leveren van een bijdrage aan de Nederlandse standpuntbepaling ten aanzien van internationale bijeenkomsten of organen inzake de herverzekering van export- en importkredieten en investeringsgaranties. Periode: 1945– Product: instructies Waardering: B1  
+Handeling: Het leveren van een bijdrage aan de Nederlandse standpuntbepaling ten aanzien van internationale bijeenkomsten of organen inzake de herverzekering van export- en importkredieten en investeringsgaranties. Periode: 1945– Product: instructies Waardering: B1 
 
 #### *8.3.7 De minister van Binnenlandse Zaken* 
 
@@ -708,11 +708,10 @@ Handeling: Het leveren van een bijdrage aan de Nederlandse standpuntbepaling ten
 Handeling: Het presenteren van Nederlandse standpunten in gouvernementele internationale organisaties inzake de herverzekering van export- en importkredieten en investeringsgaranties. Periode: 1945– Waardering: B1 
 ###(16)
 
-Handeling: Het leveren van een bijdrage aan de Nederlandse standpuntbepaling ten aanzien van internationale bijeenkomsten of organen inzake de herverzekering van export- en importkredieten en investeringsgaranties. Periode: 1945– Product: instructies Waardering: B1  
+Handeling: Het leveren van een bijdrage aan de Nederlandse standpuntbepaling ten aanzien van internationale bijeenkomsten of organen inzake de herverzekering van export- en importkredieten en investeringsgaranties. Periode: 1945– Product: instructies Waardering: B1 
 
-#### *8.3.8 Externe adviescommissies (-organen)* 
+#### *8.3.8 Externe adviescommissies (-organen)*<sup>4 Met externe adviescommissies worden adviesorganen bedoeld die een eigen rechtspositie hebben. Interne adviescommissies zonder rechtspositie moeten worden beschouwd als een onderdeel van het departement en vallen onder de handelingen van de minister. </sup> 
 
-<sup> 4  Met externe adviescommissies worden adviesorganen bedoeld die een eigen rechtspositie hebben. Interne adviescommissies zonder rechtspositie moeten worden beschouwd als een onderdeel van het departement en vallen onder de handelingen van de minister.  </sup>  
 ###(142)
 
 Handeling: Het gevraagd en ongevraagd geven van advies aan de minister van Financiën over het beleidsterrein herverzekering van export- en importkredieten en investeringsgaranties Periode: 1945– Bron: Kaderwet adviescolleges, art. 17, art. 18 (Stb. 1996, 378) Product: adviesaanvraag, correspondentie, rapporten Opmerking: In sommige gevallen geeft een adviescommissie een advies op verzoek van de minister en soms doet ze dat op eigen initiatief. Ook de adviesaanvraag door de minister wordt onder deze handeling begrepen. Waardering: B1: Advies en eindproduct V, 10 jaar na verschijnen rapport: overig 
@@ -721,29 +720,29 @@ Handeling: Het gevraagd en ongevraagd geven van advies aan de minister van Finan
 Vervalt. 
 ###(144)
 
-Handeling: Het opstellen van periodieke rapportages en het al dan niet op verzoek van de minister van Financiën opstellen van evaluatieverslagen waarin aandacht wordt besteed aan de doelmatigheid en doeltreffendheid van de eigen taakvervulling Periode: 1945– Bron: Kaderwet adviescolleges, art. 28 lid 1, lid 2 (Stb. 1996, 378) Product: jaarverslagen, evaluatieverslagen, correspondentie Waardering: Jaar- en evaluatieverslagen: B 3 Overig: V, 10 jaar na verschijnen verslag  
+Handeling: Het opstellen van periodieke rapportages en het al dan niet op verzoek van de minister van Financiën opstellen van evaluatieverslagen waarin aandacht wordt besteed aan de doelmatigheid en doeltreffendheid van de eigen taakvervulling Periode: 1945– Bron: Kaderwet adviescolleges, art. 28 lid 1, lid 2 (Stb. 1996, 378) Product: jaarverslagen, evaluatieverslagen, correspondentie Waardering: Jaar- en evaluatieverslagen: B 3 Overig: V, 10 jaar na verschijnen verslag 
 
-### Bijlage  1  
+###Bijlage 1 
 
 Overzicht van de met ‘B’ gewaardeerde handelingen (BSD-nrs.) per actor en per algemeen selectiecriterium 
 
 | Actor  | algemeen selectiecriterium  |--- | 1  | 2  | 3  | 4  | 5  | 6  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| Minister van Financiën  | 1, 4,  5, 6,  11,  12,  15,  | 22,  145  | 7–9,  15,  17,  61  | 72, 64  | 3,6,  10,  14,  23,  24,  25,  | --- |
-| --- | 17,  19,  20,  21,  23,  | --- | --- | --- | 41,  43,  44,  45,  46,  | --- |
-| --- | 27,  41,  140,  145  | --- | --- | --- | 48,  49,  64,  65,  68,  | --- |
-| --- | --- | --- | --- | --- | 73,  79,  88,  91,  94,  | --- |
-| --- | --- | --- | --- | --- | 108,  100,  105,  113,  114,  | --- |
-| --- | --- | --- | --- | --- | 115,  121,  125,  127,  | --- |
-| --- | --- | --- | --- | --- | 128,  130,  132,  138  | --- |
-| Minister van Economische Zaken  | 2, 16  | --- | 62  | --- | 42,  96,  102,  110,  | --- |
-| --- | --- | --- | --- | --- | 117,  124,  126,  131  | --- |
-| Minister van Buitenlandse Zaken  | 2, 16  | --- | --- | --- | 95,  101,  109,  116,  131  | --- |
+| Minister van Financiën  | 1, 4,   5, 6,   11,   12,   15,   | 22,   145  | 7–9,   15,   17,   61  | 72, 64  | 3,6,   10,   14,  23,   24,   25,   | --- |
+| --- | 17,   19,   20,   21,   23,   | --- | --- | --- | 41,   43,   44,   45,   46,   | --- |
+| --- | 27,   41,   140,   145  | --- | --- | --- | 48,   49,   64,   65,   68,   | --- |
+| --- | --- | --- | --- | --- | 73,   79,   88,   91,   94,   | --- |
+| --- | --- | --- | --- | --- | 108,   100,   105,   113,   114,   | --- |
+| --- | --- | --- | --- | --- | 115,   121,   125,   127,   | --- |
+| --- | --- | --- | --- | --- | 128,   130,   132,  138  | --- |
+| Minister van Economische Zaken  | 2, 16  | --- | 62  | --- | 42,   96,   102,   110,   | --- |
+| --- | --- | --- | --- | --- | 117,   124,   126,   131  | --- |
+| Minister van Buitenlandse Zaken  | 2, 16  | --- | --- | --- | 95,   101,   109,   116,  131  | --- |
 | Minister van Landbouw, Natuur en Voedselkwaliteit  | --- | --- | --- | --- | 97, 103, 111  | --- |
-| Minister belast met de hulp aan ontwikkelingslanden  | 2, 16  | --- | --- | --- | 98,  104,  112,  | --- |
+| Minister belast met de hulp aan ontwikkelingslanden  | 2, 16  | --- | --- | --- | 98,   104,   112,   | --- |
 | --- | --- | --- | --- | --- | 199,  131  | --- |
-| Vice-Minister-President  | --- | --- | --- | --- | 93,  99,  107  | --- |
-| Minister van Algemene Zaken  | 15,  16  | --- | --- | --- | --- | --- |
+| Vice-Minister-President  | --- | --- | --- | --- | 93,   99,   107  | --- |
+| Minister van Algemene Zaken  | 15,   16  | --- | --- | --- | --- | --- |
 | Minister van Justitie  | 15,  16  | --- | --- | --- | --- | --- |
 | Minister van Binnenlandse Zaken  | 15,  16  | --- | --- | --- | --- | --- |
 | Verzekeraar  | --- | 33  | --- | --- | --- | --- |

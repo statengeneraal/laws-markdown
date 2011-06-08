@@ -14,9 +14,9 @@ Binnen de Belastingdienst is de Coördinatiegroep Taxhavens en Concernfinancieri
 
 | --- | --- |
 |:---|:---|
-| Wet VpB  |  [Wet op de vennootschapsbelasting 1969](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)   |
-| Uitv. Besch. VpB  |  [Uitvoeringsbeschikking vennootschapsbelasting 1971](../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/vennootschapsbelasting/1971/BWBR0002784/README.md)   |
-| Bvdb  |  [Besluit voorkoming dubbele belasting 2001](../../../../../../../../AMvB/besluit/voorkoming/dubbele/belasting/2001/BWBR0012095/README.md)   |
+| Wet VpB  | [Wet op de vennootschapsbelasting 1969](../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)  |
+| Uitv. Besch. VpB  | [Uitvoeringsbeschikking vennootschapsbelasting 1971](../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/vennootschapsbelasting/1971/BWBR0002784/README.md)  |
+| Bvdb  | [Besluit voorkoming dubbele belasting 2001](../../../../../../../../AMvB/besluit/voorkoming/dubbele/belasting/2001/BWBR0012095/README.md)  |
 
 ### 2  
 
@@ -68,4 +68,4 @@ Voor de uitvoering van haar taakstelling beschikt de CTC over een netwerk van le
 
 De 
 Minister van Financiën, 
-J.C. deJager   
+J.C. de Jager     

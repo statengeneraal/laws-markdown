@@ -14,15 +14,13 @@ Besluiten:
 
 a. de Minister van Volksgezondheid, Welzijn en Sport;  
 
-b. de Staatssecretaris van Volksgezondheid, Welzijn en Sport;  
-
-c. de Minister voor Jeugd en Gezin voor zover het subsidies betreft op het terrein van gezondheidsbevordering, gezondheidsbescherming, gezondheidszorg, maatschappelijke zorg en sport.     
+b. de Staatssecretaris van Volksgezondheid, Welzijn en Sport.     
 2.  Deze beleidsregels zijn niet van toepassing: 
 
 a. op specifieke uitkeringen;  
 
 b. voor zover bij enig wettelijk voorschrift ten aanzien van een subsidie anders is bepaald.     
-3.  In deze beleidsregels wordt onder verantwoordingselement verstaan één van de volgende onderdelen van de aanvraag tot vaststelling van een verleende subsidie: de verklaring van de accountant, het verslag van de activiteiten of de financiële verantwoording.   
+3.  In deze beleidsregels wordt onder verantwoordingselement verstaan één van de volgende onderdelen van de aanvraag tot vaststelling van een verleende subsidie: de verklaring van de accountant, het verslag van de activiteiten of de financiële verantwoording.  
 
 ### Artikel  2  
 
@@ -32,7 +30,7 @@ b. voor zover bij enig wettelijk voorschrift ten aanzien van een subsidie anders
 2.  Voor zover een afwijzing niet reeds is voorgeschreven, kan een aanvraag die niet binnen de wettelijke termijn is ingediend in verband met termijnoverschrijding geheel of gedeeltelijk worden afgewezen.   
 3.  Indien de aanvrager niet heeft voldaan aan enig ander wettelijk voorschrift voor het in behandeling nemen van de aanvraag, wordt de aanvrager schriftelijk in de gelegenheid gesteld de aanvraag binnen een daarbij te stellen termijn aan te vullen.   
 4.  De behandeling van de aanvraag met inbegrip van de verstrekking van voorschotten wordt opgeschort tot de aanvraag is aangevuld of de gestelde termijn ongebruikt is verstreken.   
-5.  Indien de aanvrager binnen de gestelde termijn nog niet voldoet aan de wettelijke voorschriften voor het in behandeling nemen van de aanvraag van een subsidie, wordt de aanvraag niet behandeld.   
+5.  Indien de aanvrager binnen de gestelde termijn nog niet voldoet aan de wettelijke voorschriften voor het in behandeling nemen van de aanvraag van een subsidie, wordt de aanvraag niet behandeld.  
 
 ### Artikel  3  
 
@@ -42,7 +40,22 @@ De verlening van voorschotten kan worden ingetrokken of ten nadele van de subsid
 
 a. de activiteiten waarvoor subsidie is verleend niet of niet geheel hebben plaatsgevonden of zullen plaatsvinden;  
 
-b. de subsidieontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen.    
+b. de subsidieontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen.   
+
+### Artikel  3a  
+
+####Meldingsplicht
+
+1.  Indien de subsidieontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichting tot schriftelijke melding van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie, wordt op het bedrag van de verstrekte subsidie in ieder geval een bedrag in mindering gebracht van: 
+
+a. 10% van het bedrag van de verstrekte subsidie tot ten hoogste € 100.000 indien het bedrag van de verstrekte subsidie met 50% of meer wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan;  
+
+b. 7% van het bedrag van de verstrekte subsidie tot ten hoogste € 70.000 indien het bedrag van de verstrekte subsidie met 35% tot 50% of meer wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan;  
+
+c. 5% van het bedrag van de verstrekte subsidie tot ten hoogste € 50.000 indien het bedrag van de verstrekte subsidie met 25% tot 35% wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan;  
+
+d. 3% van het bedrag van de verstrekte subsidie tot ten hoogste € 30.000 indien het bedrag van de verstrekte subsidie met 15% tot 25% wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan.     
+2.  Afhankelijk van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan, kan de minister een hoger bedrag in mindering brengen op de subsidie dan voortvloeit uit het eerste lid.  
 
 ### Artikel  4  
 
@@ -68,41 +81,41 @@ b. 7% van het bedrag van de verleende subsidie tot ten hoogste € 70.000 indie
 c. 5% van het bedrag van de verleende subsidie tot ten hoogste € 50.000 indien één van de drie voorgeschreven verantwoordingselementen ontbreekt;  
 
 d. 3% van het bedrag van de verleende subsidie tot ten hoogste € 30.000 indien er uitsluitend andere gebreken aan de aanvraag kleven.     
-5.  Onverminderd de uitkomst van een eventueel ingesteld bezwaar of beroep, zal de vaststelling van de subsidie niet worden herzien wanneer de subsidieontvanger alsnog voldoet aan het gestelde bij of krachtens de wettelijke voorschriften voor de aanvraag tot vaststelling van een verleende subsidie.   
+5.  Onverminderd de uitkomst van een eventueel ingesteld bezwaar of beroep, zal de vaststelling van de subsidie niet worden herzien wanneer de subsidieontvanger alsnog voldoet aan het gestelde bij of krachtens de wettelijke voorschriften voor de aanvraag tot vaststelling van een verleende subsidie.  
 
 ### Artikel  5  
 
 ####De subsidie overstijgende gevolgen
 
-Indien de aanvrager in gebreke blijft te voldoen aan het gestelde bij of krachtens de wettelijke voorschriften voor de aanvraag tot vaststelling van een verleende subsidie kan dat gevolgen hebben voor het verlenen, wijzigen of intrekken van andere subsidies ten behoeve van de aanvrager.  
+Indien de aanvrager in gebreke blijft te voldoen aan het gestelde bij of krachtens de wettelijke voorschriften voor de aanvraag tot vaststelling van een verleende subsidie kan dat gevolgen hebben voor het verlenen, wijzigen of intrekken van andere subsidies ten behoeve van de aanvrager. 
 
 ### Artikel  6  
 
 ####Intrekking vorige beleidsregels
 
-Het [besluit van 7 mei 1997 tot vaststelling van de Beleidsregels handhaving subsidiebepalingen VWS](../../../../../../beleidsregel/beleidsregels/handhaving/subsidiebepalingen/vws/BWBR0008674/README.md) (Stcrt. 1997, nr. 94) wordt ingetrokken.  
+Het [besluit van 7 mei 1997 tot vaststelling van de Beleidsregels handhaving subsidiebepalingen VWS](../../../../../../beleidsregel/beleidsregels/handhaving/subsidiebepalingen/vws/BWBR0008674/README.md) (Stcrt. 1997, nr. 94) wordt ingetrokken. 
 
 ### Artikel  7  
 
 ####Inwerkingtreding
 
-Deze beleidsregels treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij worden geplaatst.  
+Deze beleidsregels treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij worden geplaatst. 
 
 ### Artikel  8  
 
 ####Citeertitel
 
-Deze beleidsregels worden aangehaald als: Beleidsregels handhaving subsidiebepalingen VWS en JenG.  
+Deze beleidsregels worden aangehaald als: Beleidsregels handhaving subsidiebepalingen VWS. 
 Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink 
+A. Klink   
 
 De 
 Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
-M.Bussemaker 
+M. Bussemaker   
 
 De 
-Minister voor Jeugd en Gezin, 
-A.Rouvoet   
+Minister voor Jeugd en Gezin,
+A. Rouvoet     

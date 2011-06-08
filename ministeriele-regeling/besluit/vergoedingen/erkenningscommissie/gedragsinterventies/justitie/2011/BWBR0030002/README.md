@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder de Commissie: de Erkenningscommissie Gedragsinterventies Justitie.  
+In dit besluit wordt verstaan onder de Commissie: de Erkenningscommissie Gedragsinterventies Justitie. 
 
 ### Artikel  2  
 
@@ -22,17 +22,17 @@ b. 0,0547 voor leden die, naast de beoordelingstaak, werkzaamheden die behoren t
 
 c. 0,0617 voor leden die, naast de beoordelingstaak, werkzaamheden die behoren tot de adviestaak van de Commissie verrichten;  
 
-d. 0,0752 voor leden die, naast de beoordelingstaak, werkzaamheden die behoren tot de communicatietaak en tot de adviestaak van de Commissie verrichten.     
+d. 0,0752 voor leden die, naast de beoordelingstaak, werkzaamheden die behoren tot de communicatietaak en tot de adviestaak van de Commissie verrichten.    
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2011.  
+Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2011. 
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Besluit vergoedingen Erkenningscommissie Gedragsinterventies Justitie 2011.  
+Dit besluit wordt aangehaald als: Besluit vergoedingen Erkenningscommissie Gedragsinterventies Justitie 2011. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Veiligheid en Justitie,
-F.Teeven   
+Staatssecretaris van Veiligheid en Justitie, 
+F. Teeven     

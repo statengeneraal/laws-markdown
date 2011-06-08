@@ -10,26 +10,26 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde selectielijst voor de neerslag van de handelingen van de minister van Defensie en de onder hem ressorterende actoren op het beleidsterrein ‘Coördinatie algemeen regeringsbeleid over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde selectielijst voor de neerslag van de handelingen van de minister van Defensie en de onder hem ressorterende actoren op het beleidsterrein ‘Coördinatie algemeen regeringsbeleid over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 2 maart 2009   
 
 De 
-minister van Onderwijs, Cultuur en Wetenschapnamens deze: de 
-wnd. algemene rijksarchivaris
-P.Brood 
+minister van Onderwijs, Cultuur en Wetenschap namens deze:de 
+wnd. algemene rijksarchivaris 
+P. Brood   
 
 De 
-minister van Defensienamens deze: de 
-project directeurinterimorganisatie Rijksarchieven
-A. van derKooij  
+minister van Defensie namens deze:de 
+project directeur interimorganisatie Rijksarchieven 
+A. van der Kooij    
 
-### Selectielijst  
+###Selectielijst 
 
-Gepubliceerd op www.nationaalarchief.nl/selectielijsten.  
+Gepubliceerd op www.nationaalarchief.nl/selectielijsten.

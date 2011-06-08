@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Gratie vanaf 1945 (Minister van Algemene Zaken)
+## Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Gratie vanaf 1945 (Minister van Algemene Zaken)
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap, en de Minister van Algemene Zaken,  
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
@@ -10,11 +10,11 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ [selectielijst voor de neerslag van de handelingen van de Minister van Algemene Zaken en de onder hem ressorterende actoren op het beleidsterrein Gratie over de periode vanaf 1945](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0020163/README.md) ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘[selectielijst voor de neerslag van de handelingen van de Minister van Algemene Zaken en de onder hem ressorterende actoren op het beleidsterrein Gratie over de periode vanaf 1945](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0020163/README.md)’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende [selectielijst](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0020163/README.md) en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
@@ -23,9 +23,9 @@ Den Haag
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze: de 
 Algemene Rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
 Minister van Algemene Zaken, namens deze: de 
 plv. Secretaris-Generaal, 
-R. vanZwol   
+R. van Zwol     

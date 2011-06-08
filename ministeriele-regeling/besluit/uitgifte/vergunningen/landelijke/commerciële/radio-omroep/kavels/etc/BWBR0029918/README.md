@@ -39,5 +39,5 @@ Voor het gebruik van frequentieruimte is op grond van artikel 3.3, eerste lid, v
 Commerciële radio-omroepen kunnen vanaf de datum van inwerkingtreding van de Regeling aanvraag en vergelijkende toets vergunningen kavels A7 en A8 in de FM-band en aanvraag vergunningen voor frequentieruimte in band III een aanvraag indienen voor de kavels A7 of A8 en voor een hieraan gekoppelde vergunning voor digitale radio. De aanvragen dienen volgens de voornoemde regeling uiterlijk op 10 juni 2011 om 14.00 uur per post te zijn ontvangen door dan wel door middel van persoonlijke overhandiging te zijn ingediend bij Agentschap Telecom. In de voornoemde regeling wordt onder meer een model bepaald voor het indienen van een aanvraag en worden andere regels gegeven over de aanvraagprocedure voor zowel de FM-vergunningen als de vergunningen voor digitale radio.     
 
 De 
-Minister van Economische Zaken, Landbouw en Innovatie,
-M.J.M.Verhagen   
+Minister van Economische Zaken, Landbouw en Innovatie, 
+M.J.M. Verhagen     

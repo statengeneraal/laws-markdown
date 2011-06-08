@@ -8,11 +8,11 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ [selectielijst voor de neerslag van de handelingen van de Minister van Defensie en de onder hem ressorterende actoren op het beleidsterrein Arbeidsomstandigheden over de periode 1999–2004](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023929/README.md) ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘[selectielijst voor de neerslag van de handelingen van de Minister van Defensie en de onder hem ressorterende actoren op het beleidsterrein Arbeidsomstandigheden over de periode 1999–2004](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023929/README.md)’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende [selectielijst](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023929/README.md) en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
@@ -20,10 +20,10 @@ Den Haag
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
-wnd. algemene rijksarchivaris
-P.Brood 
+wnd. algemene rijksarchivaris 
+P. Brood   
 
 De 
 Minister van Defensie, namens deze: de 
-project directeur, Project Wegwerken Archiefachterstanden PWAA
-A. van derKooij   
+project directeur, Project Wegwerken Archiefachterstanden PWAA 
+A. van der Kooij     

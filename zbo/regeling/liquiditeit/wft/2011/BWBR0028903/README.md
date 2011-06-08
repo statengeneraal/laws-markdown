@@ -32,7 +32,7 @@ e. *erkende centrale bank:* de ECB of de nationale centrale bank van een staat m
 
 f. *convertibele valuta:* convertibele valuta als bedoeld in [artikel 1 van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), alsmede de valuta van Hong Kong en Singapore;  
 
-g. *equivalente schuldinstrumenten:* verhandelbare schuldinstrumenten die vorderingen zijn op of gegarandeerd zijn door publiekrechtelijke lichamen, als bedoeld in [artikel 1:1, onderdeel r, van de Rsk 2010](../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/kredietrisico/BWBR0020764/README.md), de Bank for International Settlements, het Internationale Monetaire Fonds, de Europese Commissie, en de multilaterale ontwikkelingsbanken, bedoeld in [Bijlage 2C van de Rsk 2010](../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/kredietrisico/BWBR0020764/README.md).    
+g. *equivalente schuldinstrumenten:* verhandelbare schuldinstrumenten die vorderingen zijn op of gegarandeerd zijn door publiekrechtelijke lichamen, als bedoeld in [artikel 1:1, onderdeel r, van de Rsk 2010](../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/kredietrisico/BWBR0020764/README.md), de Bank for International Settlements, het Internationale Monetaire Fonds, de Europese Commissie, en de multilaterale ontwikkelingsbanken, bedoeld in [Bijlage 2C van de Rsk 2010](../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/kredietrisico/BWBR0020764/README.md).   
 
 ### Artikel  2  
 
@@ -46,7 +46,7 @@ b. de mate waarin de actuele waarde van de posten, bedoeld in het eerste lid, va
 
 c. de mate waarin de posten, bedoeld in het eerste lid, een adequaat beeld geven van de liquiditeitspositie van de onderneming op korte en lange termijn; en  
 
-d. de mate waarin de terugvloeiing van gelden naar de onderneming uit vorderingen binnen onderneming, of binnen de groep waarvan die onderneming deel uitmaakt, of uit vorderingen op derde partijen, in gevaar kan komen.     
+d. de mate waarin de terugvloeiing van gelden naar de onderneming uit vorderingen binnen onderneming, of binnen de groep waarvan die onderneming deel uitmaakt, of uit vorderingen op derde partijen, in gevaar kan komen.    
 
 ### Artikel  3  
 
@@ -77,19 +77,19 @@ i. op de overeenkomst is uitsluitend Nederlands recht van toepassing verklaard e
 
 a. aan een binnenlandse bank of clearinginstelling en aantoonbaar wordt voldaan aan de voorwaarden gesteld in het eerste lid; of  
 
-b. aan een buitenlandse bank of clearinginstelling en aantoonbaar wordt voldaan aan de voorwaarden die door het prudentiële toezicht ter plaatse worden gesteld met betrekking tot officiële stand-by faciliteiten.     
+b. aan een buitenlandse bank of clearinginstelling en aantoonbaar wordt voldaan aan de voorwaarden die door het prudentiële toezicht ter plaatse worden gesteld met betrekking tot officiële stand-by faciliteiten.    
 
 ### Artikel  4  
 
-De [Regeling liquiditeit Wft](../../../../../../zbo/regeling/liquiditeit/wft/BWBR0020673/README.md) (Stcrt. 2006, 244) wordt met ingang van 1 mei 2011 ingetrokken.  
+De [Regeling liquiditeit Wft](../../../../../../zbo/regeling/liquiditeit/wft/BWBR0020673/README.md) (Stcrt. 2006, 244) wordt met ingang van 1 mei 2011 ingetrokken. 
 
 ### Artikel  5  
 
-Deze regeling treedt in werking met ingang van 1 mei 2011.  
+Deze regeling treedt in werking met ingang van 1 mei 2011. 
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Regeling liquiditeit Wft 2011.  
+Deze regeling wordt aangehaald als: Regeling liquiditeit Wft 2011. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Amsterdam 
@@ -99,7 +99,7 @@ De Nederlandsche Bank N.V.,
 H.J. Brouwer,  
 directeur   
 
-### Bijlage  
+### Bijlage 
 
 ####bij artikel 2  van de Regeling liquiditeit Wft 2011
 
@@ -130,7 +130,7 @@ directeur
 | --- | 3  | Overige verhandelbare schuldinstrumenten met een overheidsgarantie van een staat met een convertibele valuta  | --- | 50  | 50  |
 | --- | --- | --- | --- | --- | --- |
 |  *5.*   | --- |  *Te ontvangen bedragen*   | --- | --- | --- |
-| *5.0*.  | --- |  *Van niet in de rapportage betrokken bijkantoren en bancaire deelnemingen*   | --- | --- | --- |
+|  *5.0*.  | --- |  *Van niet in de rapportage betrokken bijkantoren en bancaire deelnemingen*   | --- | --- | --- |
 | --- | 1  | Direct opeisbare tegoeden  | --- | 100  | 100  |
 | --- | 2  | Vorderingen uit hoofde van effectentransacties  | K*  | 100  | 100  |
 | --- | 3  | Overige te ontvangen bedragen  | K  | 100  | 90  |

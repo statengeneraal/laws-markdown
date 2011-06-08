@@ -16,7 +16,7 @@ Met het oog op het belang van de Staat of zijn bondgenoten is het inventarisnumm
 
 ### Artikel  2  
 
-Ontheffing van het gestelde in artikel 1 wordt niet verleend.  
+Ontheffing van het gestelde in artikel 1 wordt niet verleend. 
 
 ### Artikel  3  
 
@@ -35,21 +35,21 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 
 ### Artikel  4  
 
-Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers, genoemd in artikel 3, is, tot openbaarwording, slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.  
+Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers, genoemd in artikel 3, is, tot openbaarwording, slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden. 
 
 ### Artikel  5  
 
-Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in artikel 3, is, tot openbaarwording, slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.  
+Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in artikel 3, is, tot openbaarwording, slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden. 
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van de archieven van de Generale Staf/Staf van de Bevelhebber der Landstrijdkrachten en de daarbij gedeponeerde archieven (1903) 1945–1972 (1989)’.   
 
 Den Haag 
 17 februari 2011   
 
 De 
-Minister van Defensie,voor deze:
-Secretaris-generaal,
-A.H.C.Annink   
+Minister van Defensie, voor deze: 
+Secretaris-generaal, 
+A.H.C. Annink     

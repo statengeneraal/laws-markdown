@@ -10,21 +10,21 @@ Besluit:
 
 ### Artikel  1  
 
-De ‘ selectielijst voor de neerslag van de handelingen van de Koninklijke Nederlandsche Maatschappij tot Bevordering der Geneeskunst op het terrein Opleiding en registratie over de periode vanaf 1932 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De ‘selectielijst voor de neerslag van de handelingen van de Koninklijke Nederlandsche Maatschappij tot Bevordering der Geneeskunst op het terrein Opleiding en registratie over de periode vanaf 1932’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de *Staatscourant* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de *Staatscourant* waarin het wordt geplaatst. 
 De minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat in de *Staatscourant* zal worden geplaatst.   
 
 Den Haag 
 13 juli 2009   
 
 De 
-minister van Onderwijs, Cultuur en Wetenschap, namens deze:
+minister van Onderwijs, Cultuur en Wetenschap, namens deze: 
 de algemeen rijksarchivaris, 
-M.J.Berendse  
+M.J. Berendse    
 
-### Selectielijst  
+###Selectielijst 
 
-Gepubliceerd op www.nationaalarchief.nl/selectielijsten.  
+Gepubliceerd op www.nationaalarchief.nl/selectielijsten.

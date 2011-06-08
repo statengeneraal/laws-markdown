@@ -10,26 +10,26 @@ Besluit:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Nederlandse Orde van Accountant-administratieconsulenten en de onder hem ressorterende actoren op het beleidsterrein Beroepenkwaliteit over de periode vanaf 1945 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Nederlandse Orde van Accountant-administratieconsulenten en de onder hem ressorterende actoren op het beleidsterrein Beroepenkwaliteit over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 20 september 2007   
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
+Minister van Onderwijs, Cultuur en Wetenschap, namens deze:de 
 algemene Rijksarchivaris, 
-M.W. vanBoven  
+M.W. van Boven    
 
 ####Basisselectiedocument
 
 ####Instrument voor de selectie – ter vernietiging dan wel blijvende bewaring – van de administratieve neerslag voor de zorgdragers
 
-*Minister van Economische Zaken;*   *Minister van Justitie;*   *Minister van Financiën;*   *Minister van Onderwijs, Cultuur en Wetenschap;*   *Minister van Landbouw, Natuur en Voedselkwaliteit;*   *College van Beroep voor het Bedrijfsleven (CBB);*   *Octrooicentrum Nederland;*   *Nederlands Instituut van Registeraccountants (NIVRA); en*   *Nederlandse Orde van Accountants-administratieconsulenten (NOvAA)*  
+*Minister van Economische Zaken;* *Minister van Justitie;*   *Minister van Financiën;*   *Minister van Onderwijs, Cultuur en Wetenschap;*   *Minister van Landbouw, Natuur en Voedselkwaliteit;*   *College van Beroep voor het Bedrijfsleven (CBB);*   *Octrooicentrum Nederland;*   *Nederlands Instituut van Registeraccountants (NIVRA); en*   *Nederlandse Orde van Accountants-administratieconsulenten (NOvAA)*  
 ### *op het beleidsterrein* 
 
 ### *Beroepenkwaliteit* 
@@ -45,13 +45,13 @@ M.W. vanBoven
 
 ####1. Lijst van afkortingen
 
-AA: Accountants-Administratieconsulenten AID: Algemene Inspectiedienst amvb: Algemene maatregel van bestuur Arbo: Arbeidsomstandigheden art.: Artikel B: Bewaren BAVK: Besluit Algemeen Verbod Kleinbedrijf 1941 BSD: Basisselectiedocument CEDEC: Centrale Dienst voor Economische Controle, met als taak ‘de coördinatie, centralisatie en leiding van de controlewerkzaamheden van de onder het ministerie […] ressorterende diensten en instellingen’; voorganger van de Economische Controledienst ECD: Economische Controledienst EEG: Europese Economische Gemeenschap EG: Europese Gemeenschap EIMK: Economisch Instituut voor het Midden- en Kleinbedrijf EU: Europese Unie federatiediploma: diploma van de Nederlandse Federatie van Makelaars, uitgereikt aan aspirant-makelaars HdTK: Handelingen der Tweede Kamer juridisering: het verschijnsel waarbij de bedrijfsvoering van een onderneming of bedrijfstak in toenemende mate wordt aangestuurd door wettelijke regelgeving van een overheidsinstelling; bijvoorbeeld door de Arbowet of Wet Milieubeheer KB: Koninklijk Besluit KNOV: Koninklijke Nederlandse Ondernemersbond KvK(s): Kamer(s) van Koophandel en Fabrieken MDW: Marktwerking, Deregulering, Wetgevingskwaliteit; projectgroep van het Ministerie van Economische Zaken, opgezet in 1994 MKB: Midden- en Kleinbedrijf NCOV: Nederlandse Christelijke Ondernemersverbond NFM: Nederlandse Federatie van Makelaars NIVRA: Nederlands Instituut van Registeraccountants NOvAA: Nederlandse Orde van Accountants-administratieconsulenten OC&W: Minister(ie) van Onderwijs, Cultuur en Wetenschap PIVOT: Project Invoering Verkorting Overbrengingstermijn RIO: Rapport Institutioneel Onderzoek SER: Sociaal-Economische Raad spertijd: tijdsbestek waarvoor een Vbg geldig is; afkondiging van een spertijd = vaststellen van een Vbg. *Stb.:* Staatsblad STEVES: Stichting toezicht examens vestigingswet *Stcrt.:* Staatscourant V: Vernietigen Vb: Vestigingsbesluit: amvb, waarbij aan een bepaald bedrijf (tot 1954: aan een inrichting, vallende onder een bepaalde bedrijfstak) een vergunning verplicht wordt gesteld Vbg: Vestigingsbeschikking: ministeriële regeling, waarbij in afwachting van een vestigingsbesluit aan een bepaald bedrijf (tot 1954: aan een inrichting, vallende onder een bepaalde bedrijfstak) een verbod wordt opgelegd zonder vergunning van een bepaalde instantie te opereren; de geldigheidsduur van deze beschikking is beperkt VEDAA: Voortgezette Educatie Accountants-Administratieconsulenten VVK: Vereniging van Kamers van Koophandel VWB: [Vestigingswet Bedrijven 1954](../../../../../../../../wet/vestigingswet/bedrijven/1954/BWBR0002130/README.md) VWD: Vestigingswet Detailhandel 1971 VWK: Vestigingswet Kleinbedrijf 1937 WAA: [Wet op de accountants-administratieconsulenten](../../../../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) WRA: [Wet op de registeraccountants](../../../../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md) WVC: Minister(ie) van Welzijn, Volksgezondheid en Cultuur  
+AA: Accountants-Administratieconsulenten AID: Algemene Inspectiedienst amvb: Algemene maatregel van bestuur Arbo: Arbeidsomstandigheden art.: Artikel B: Bewaren BAVK: Besluit Algemeen Verbod Kleinbedrijf 1941 BSD: Basisselectiedocument CEDEC: Centrale Dienst voor Economische Controle, met als taak ‘de coördinatie, centralisatie en leiding van de controlewerkzaamheden van de onder het ministerie […] ressorterende diensten en instellingen’; voorganger van de Economische Controledienst ECD: Economische Controledienst EEG: Europese Economische Gemeenschap EG: Europese Gemeenschap EIMK: Economisch Instituut voor het Midden- en Kleinbedrijf EU: Europese Unie federatiediploma: diploma van de Nederlandse Federatie van Makelaars, uitgereikt aan aspirant-makelaars HdTK: Handelingen der Tweede Kamer juridisering: het verschijnsel waarbij de bedrijfsvoering van een onderneming of bedrijfstak in toenemende mate wordt aangestuurd door wettelijke regelgeving van een overheidsinstelling; bijvoorbeeld door de Arbowet of Wet Milieubeheer KB: Koninklijk Besluit KNOV: Koninklijke Nederlandse Ondernemersbond KvK(s): Kamer(s) van Koophandel en Fabrieken MDW: Marktwerking, Deregulering, Wetgevingskwaliteit; projectgroep van het Ministerie van Economische Zaken, opgezet in 1994 MKB: Midden- en Kleinbedrijf NCOV: Nederlandse Christelijke Ondernemersverbond NFM: Nederlandse Federatie van Makelaars NIVRA: Nederlands Instituut van Registeraccountants NOvAA: Nederlandse Orde van Accountants-administratieconsulenten OC&W: Minister(ie) van Onderwijs, Cultuur en Wetenschap PIVOT: Project Invoering Verkorting Overbrengingstermijn RIO: Rapport Institutioneel Onderzoek SER: Sociaal-Economische Raad spertijd: tijdsbestek waarvoor een Vbg geldig is; afkondiging van een spertijd = vaststellen van een Vbg.  *Stb.:* Staatsblad STEVES: Stichting toezicht examens vestigingswet  *Stcrt.:* Staatscourant V: Vernietigen Vb: Vestigingsbesluit: amvb, waarbij aan een bepaald bedrijf (tot 1954: aan een inrichting, vallende onder een bepaalde bedrijfstak) een vergunning verplicht wordt gesteld Vbg: Vestigingsbeschikking: ministeriële regeling, waarbij in afwachting van een vestigingsbesluit aan een bepaald bedrijf (tot 1954: aan een inrichting, vallende onder een bepaalde bedrijfstak) een verbod wordt opgelegd zonder vergunning van een bepaalde instantie te opereren; de geldigheidsduur van deze beschikking is beperkt VEDAA: Voortgezette Educatie Accountants-Administratieconsulenten VVK: Vereniging van Kamers van Koophandel VWB: [Vestigingswet Bedrijven 1954](../../../../../../../../wet/vestigingswet/bedrijven/1954/BWBR0002130/README.md) VWD: Vestigingswet Detailhandel 1971 VWK: Vestigingswet Kleinbedrijf 1937 WAA: [Wet op de accountants-administratieconsulenten](../../../../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) WRA: [Wet op de registeraccountants](../../../../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md) WVC: Minister(ie) van Welzijn, Volksgezondheid en Cultuur 
 
 ####2. Verantwoording
 
 #### *2.1. Het doel en de werking van het Basis Selectiedocument* 
 
-Een Basis Selectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van één (enkele) organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Een BSD kan bestaan uit één of meer selectielijsten. Het BSD geldt dus voor de archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voor zover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Dit betekent dat er geen handelingen van particuliere actoren worden opgenomen. Een BSD wordt opgesteld op basis van institutioneel onderzoek. In een Rapport Institutioneel Onderzoek (RIO) wordt dan het betreffende beleidsterrein beschreven, evenals de taken en bevoegdheden van de betrokken actoren op dat beleidsterrein. De handelingen van de overheid op het beleidsterrein staan in het RIO in hun functionele context geplaatst. In het BSD zijn de handelingen overgenomen, alleen nu geordend naar de actor. Bovendien is bij elke handeling aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden. Door de beleidsterreingerichte benadering komen verschillende aspecten betreffende het beheer van de eigen organisatie van de zorgdrager (personeelsbeleid, financieel beleid, etc.) niet aan bod. Voor het selecteren van de administratieve neerslag die betrekking heeft op de instandhouding en ontwikkeling van de eigen organisaties van overheidsorganen dienen een aantal zogeheten ‘horizontale’ BSD’s. Deze horizontale BSD’s zijn van toepassing op alle organisaties van de rijksoverheid. Het niveau waarop geselecteerd wordt, is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voorzien van een waardering en indien van toepassing een vernietigingstermijn.  
+Een Basis Selectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van één (enkele) organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Een BSD kan bestaan uit één of meer selectielijsten. Het BSD geldt dus voor de archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voor zover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Dit betekent dat er geen handelingen van particuliere actoren worden opgenomen. Een BSD wordt opgesteld op basis van institutioneel onderzoek. In een Rapport Institutioneel Onderzoek (RIO) wordt dan het betreffende beleidsterrein beschreven, evenals de taken en bevoegdheden van de betrokken actoren op dat beleidsterrein. De handelingen van de overheid op het beleidsterrein staan in het RIO in hun functionele context geplaatst. In het BSD zijn de handelingen overgenomen, alleen nu geordend naar de actor. Bovendien is bij elke handeling aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden. Door de beleidsterreingerichte benadering komen verschillende aspecten betreffende het beheer van de eigen organisatie van de zorgdrager (personeelsbeleid, financieel beleid, etc.) niet aan bod. Voor het selecteren van de administratieve neerslag die betrekking heeft op de instandhouding en ontwikkeling van de eigen organisaties van overheidsorganen dienen een aantal zogeheten ‘horizontale’ BSD’s. Deze horizontale BSD’s zijn van toepassing op alle organisaties van de rijksoverheid. Het niveau waarop geselecteerd wordt, is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voorzien van een waardering en indien van toepassing een vernietigingstermijn. 
 
 #### *2.2. De definitie van het beleidsterrein* 
 
@@ -65,7 +65,7 @@ Beroepenkwaliteit kan worden omschreven als de kwaliteitszorg voor de bedrijfsvo
 
 – het stellen van regels ten aanzien van vakbekwaamheid van beroepsgroepen of bedrijven;  
 
-– het zo nodig verlenen van faciliteiten ter verkrijging van de kennis van de bedrijfsvorming door middel van subsidieregelingen.    
+– het zo nodig verlenen van faciliteiten ter verkrijging van de kennis van de bedrijfsvorming door middel van subsidieregelingen.   
 
 #### *2.3. Afbakening van het (deel)beleidsterrein* 
 
@@ -75,11 +75,11 @@ Het beleidsterrein kwaliteitszorg voor de bedrijfsvoering en de beroepsuitoefeni
 
 – Ministerie van Sociale Zaken en Werkgelegenheid en het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer: milieu- en veiligheidsbeleid: het certificeringsbeleid met betrekking tot de interne en externe veiligheid van bedrijven, waarbij aan bepaalde functionarissen een certificaat als deskundige is vereist voor het omgaan met gevaarlijke stoffen. Hiervoor zijn regels gesteld en afspraken gemaakt door de overheid met betrekking tot arbeidsomstandigheden, volksgezondheid en milieubeheer;  
 
-– Ministerie van Financiën: voorschriften met betrekking tot het houden van een bedrijfsboekhouding.    
+– Ministerie van Financiën: voorschriften met betrekking tot het houden van een bedrijfsboekhouding.   
 
 #### *2.4. Afbakening ten opzichte van andere Rapporten Institutionele Onderzoeken (RIO’s)* 
 
-De Kamers van Koophandel en Fabrieken speelden in het beleid met betrekking tot de kwaliteitszorg een belangrijke rol, met name op het gebied van de vestigingswetgeving. Handelingen van de Kamer van Koophandel en Fabrieken zijn echter niet in dit RIO opgenomen, en wel om de volgende reden. De Kamers van Koophandel zijn afzonderlijke zelfstandige bestuursorganen (ZBO’s). Deze ZBO’s zijn zelf verantwoordelijk voor hun eigen selectielijst(en). Er bestaat een gezamenlijk door de Kamers van Koophandel opgestelde vernietigingslijst. Naar aanleiding van de [Archiefwet van 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (*Stb.* 1995, 276) werd het door de Vereniging van Kamers van Koophandel (VVK) wenselijk geacht het selectiebeleid in overeenstemming te brengen met de nieuwe regelgeving. Er is toen dan ook gezocht naar een geschikt moment waarop een gezamenlijke selectielijst volgens de [Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) de bestaande vernietigingslijst zou kunnen vervangen. Omdat op 1 januari 1998 de nieuwe [Wet op de Kamers van Koophandel en Fabrieken](../../../../../../../../wet/wet/op/de/kamers/van/koophandel/en/fabrieken/1997/BWBR0009276/README.md) (*Stb.* 1997, 783) in werking trad en bovendien de nieuwe [Handelsregisterwet 1996](../../../../../../../../wet/handelsregisterwet/1996/BWBR0007893/README.md) van kracht was geworden aan het einde van 1997 (*Stb.* 1996, 181), is er uiteindelijk voor gekozen om 1998 als scheidslijn te hanteren en de selectielijst vanaf dat jaar te laten gelden. Het RIO dat is opgesteld over het handelen van de Kamers van Koophandel en Fabrieken heeft dan ook 1998 als begindatum. Voor de Sociaal-Economische Raad geldt voor een deel hetzelfde als voor de Kamers van Koophandel. Hoewel de SER verschillende taken en bevoegdheden had op het gebied van de kwaliteitszorg voor de bedrijfsvoering en de beroepsuitoefening, zijn handelingen waarbij hij als actor optreedt niet opgenomen in dit RIO. Als ZBO beschikt de SER namelijk reeds over een eigen rapport. Voor de verschillende productschappen en (hoofd)bedrijfschappen geldt eigenlijk hetzelfde. Als publiekrechtelijke bedrijfsorganen dienen hun taken en handelingen in een apart rapport aan de orde gesteld te worden. In het onderhavige RIO zal dan ook geen van deze bedrijfslichamen als actor opgevoerd worden. Ook in een aantal andere RIO’s komen aspecten van het beleidsterrein kwaliteitszorg voor de bedrijfsvoering en beroepsuitoefening, aan de orde, te weten in de rapporten over Beroepsonderwijs en volwasseneneducatie (in verband met diploma’s die verplicht werden gesteld voor het verkrijgen van een vestigingsvergunning), Milieubeheer (met betrekking tot de milieueisen die aan het vestigen van en bedrijf werden gesteld), Prijsbeleid en economische controle (voor het handelen van de Economische Controle Dienst) en Mededingingsbeleid (voor informatie over de Octrooiraad en octrooigemachtigden). Handelingen van de Octrooiraad/BIE zijn tot slot ook terug te vinden in het BSD Mededingingsbeleid (*Stcrt.* 2002, nr. 187).  
+De Kamers van Koophandel en Fabrieken speelden in het beleid met betrekking tot de kwaliteitszorg een belangrijke rol, met name op het gebied van de vestigingswetgeving. Handelingen van de Kamer van Koophandel en Fabrieken zijn echter niet in dit RIO opgenomen, en wel om de volgende reden. De Kamers van Koophandel zijn afzonderlijke zelfstandige bestuursorganen (ZBO’s). Deze ZBO’s zijn zelf verantwoordelijk voor hun eigen selectielijst(en). Er bestaat een gezamenlijk door de Kamers van Koophandel opgestelde vernietigingslijst. Naar aanleiding van de [Archiefwet van 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (*Stb.* 1995, 276) werd het door de Vereniging van Kamers van Koophandel (VVK) wenselijk geacht het selectiebeleid in overeenstemming te brengen met de nieuwe regelgeving. Er is toen dan ook gezocht naar een geschikt moment waarop een gezamenlijke selectielijst volgens de [Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) de bestaande vernietigingslijst zou kunnen vervangen. Omdat op 1 januari 1998 de nieuwe [Wet op de Kamers van Koophandel en Fabrieken](../../../../../../../../wet/wet/op/de/kamers/van/koophandel/en/fabrieken/1997/BWBR0009276/README.md) (*Stb.* 1997, 783) in werking trad en bovendien de nieuwe [Handelsregisterwet 1996](../../../../../../../../wet/handelsregisterwet/1996/BWBR0007893/README.md) van kracht was geworden aan het einde van 1997 (*Stb.* 1996, 181), is er uiteindelijk voor gekozen om 1998 als scheidslijn te hanteren en de selectielijst vanaf dat jaar te laten gelden. Het RIO dat is opgesteld over het handelen van de Kamers van Koophandel en Fabrieken heeft dan ook 1998 als begindatum. Voor de Sociaal-Economische Raad geldt voor een deel hetzelfde als voor de Kamers van Koophandel. Hoewel de SER verschillende taken en bevoegdheden had op het gebied van de kwaliteitszorg voor de bedrijfsvoering en de beroepsuitoefening, zijn handelingen waarbij hij als actor optreedt niet opgenomen in dit RIO. Als ZBO beschikt de SER namelijk reeds over een eigen rapport. Voor de verschillende productschappen en (hoofd)bedrijfschappen geldt eigenlijk hetzelfde. Als publiekrechtelijke bedrijfsorganen dienen hun taken en handelingen in een apart rapport aan de orde gesteld te worden. In het onderhavige RIO zal dan ook geen van deze bedrijfslichamen als actor opgevoerd worden. Ook in een aantal andere RIO’s komen aspecten van het beleidsterrein kwaliteitszorg voor de bedrijfsvoering en beroepsuitoefening, aan de orde, te weten in de rapporten over Beroepsonderwijs en volwasseneneducatie (in verband met diploma’s die verplicht werden gesteld voor het verkrijgen van een vestigingsvergunning), Milieubeheer (met betrekking tot de milieueisen die aan het vestigen van en bedrijf werden gesteld), Prijsbeleid en economische controle (voor het handelen van de Economische Controle Dienst) en Mededingingsbeleid (voor informatie over de Octrooiraad en octrooigemachtigden). Handelingen van de Octrooiraad/BIE zijn tot slot ook terug te vinden in het BSD Mededingingsbeleid (*Stcrt.* 2002, nr. 187). 
 
 #### *2.5. Doelstelling van de overheid op het beleidsterrein Beroepenkwaliteit* 
 
@@ -87,7 +87,7 @@ Het kwaliteitsbeleid voor bedrijven is aanvankelijk bedoeld geweest als een door
 
 1. Regelgeving ten aanzien van de praktijk van de makelaardij, zoals vastgelegd in het [Wetboek van Koophandel](../../../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md). Zo kon men zich aan de hand van het feit dat makelaars gelijktijdig van kopers en verkopers vergoeding vroegen voor bemiddeling inzake hetzelfde onroerende goed afvragen of er voldoende waarborgen waren voor een juiste belangenbehartiging;  
 
-2. Controle van de Minister van Economische Zaken op de toelating van makelaars door een vergunningenstelsel of door het stellen van eisen van vakbekwaamheid. Een vergunningenstelsel was tot 1958 van kracht; nadere behoefte van controle werd pas gevoeld toen in 1966 het [Wetboek van Koophandel](../../../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md) nieuwe regels vaststelde ten aanzien van de makelaardij.   Als beleidsadviserende instantie traden de Kamers van Koophandel op, die afzonderlijk of in verenigingsverband de Minister van Economische Zaken van advies dienden.  
+2. Controle van de Minister van Economische Zaken op de toelating van makelaars door een vergunningenstelsel of door het stellen van eisen van vakbekwaamheid. Een vergunningenstelsel was tot 1958 van kracht; nadere behoefte van controle werd pas gevoeld toen in 1966 het [Wetboek van Koophandel](../../../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md) nieuwe regels vaststelde ten aanzien van de makelaardij.   Als beleidsadviserende instantie traden de Kamers van Koophandel op, die afzonderlijk of in verenigingsverband de Minister van Economische Zaken van advies dienden. 
 
 #### *2.6. De actoren op het beleidsterrein, voor zover hun selectielijsten in het BSD zijn opgenomen* 
 
@@ -107,7 +107,7 @@ Minister van Financiën, (1940) 1945–; ECD, (1985) 1999–
 Minister van Onderwijs, Kunsten en Wetenschappen, 1962–1965 Curatorium, 1967–1994 
 ###Actoren onder de zorg van de Minister van Landbouw, Natuur en Voedselkwaliteit:
 
-Minister van Landbouw, Natuurbeheer en Visserij, 1972–1994  
+Minister van Landbouw, Natuurbeheer en Visserij, 1972–1994 
 
 #### *Overige actoren:* 
 
@@ -122,7 +122,7 @@ Nederlandse Orde van Accountants-Administratieconsulenten Bureau voor Examens va
 Nederlands Instituut van Registeraccountants (NIVRA) te Amsterdam, 1967–; 
 ###Actoren onder de zorg van de Octrooicentrum Nederland:
 
-Octrooiraad, 1912–  
+Octrooiraad, 1912– 
 
 #### *2.7. Wijzigingen ten opzichte van het RIO* 
 
@@ -132,13 +132,13 @@ Dit BSD is gebaseerd op het rapport institutioneel onderzoek nr. 104, Beroepenkw
 
 – EIMK: deze actor wordt niet als zorgdrager beschouwd in de zin van de [Archiefwet](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md).  
 
-– SER: Hoewel de SER verschillende taken en bevoegdheden had op het gebied van de kwaliteitszorg voor de bedrijfsvoering en de beroepsuitoefening, zijn handelingen waarbij hij als actor optreedt niet opgenomen in dit RIO. Als ZBO beschikt de SER namelijk reeds over een eigen selectielijst (*Stcrt*. 1999, 216).  
+– SER: Hoewel de SER verschillende taken en bevoegdheden had op het gebied van de kwaliteitszorg voor de bedrijfsvoering en de beroepsuitoefening, zijn handelingen waarbij hij als actor optreedt niet opgenomen in dit RIO. Als ZBO beschikt de SER namelijk reeds over een eigen selectielijst (*Stcrt*. 1999, 216).   
 
 – Middenstandsraad: het archief van de Middenstandsraad is reeds aan het Nationaal Archief overgedragen; voor deze actor is daarom geen selectielijst nodig.  
 
 – AID: de handelingen van de AID zijn verspreid in diverse BSD’s voor beleidsterreinen waarvan het Ministerie van Landbouw de hoofdactor is.  
 
-– Kamer van Koophandel: De Kamers van Koophandel zijn afzonderlijke zelfstandige bestuursorganen (ZBO’s). Deze ZBO’s zijn zelf verantwoordelijk voor hun eigen selectielijst(en). Er bestaat een gezamenlijk door de Kamers van Koophandel opgestelde vernietigingslijst. Naar aanleiding van de [Archiefwet van 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (*Stb.* 1995, 276) werd het door de Vereniging van Kamers van Koophandel (VVK) wenselijk geacht het selectiebeleid in overeenstemming te brengen met de nieuwe regelgeving. Er is toen dan ook gezocht naar een geschikt moment waarop een gezamenlijke selectielijst volgens de [Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) de bestaande vernietigingslijst zou kunnen vervangen. Het RIO dat is opgesteld over het handelen van de Kamers van Koophandel en Fabrieken heeft 1998 als begindatum.  
+– Kamer van Koophandel: De Kamers van Koophandel zijn afzonderlijke zelfstandige bestuursorganen (ZBO’s). Deze ZBO’s zijn zelf verantwoordelijk voor hun eigen selectielijst(en). Er bestaat een gezamenlijk door de Kamers van Koophandel opgestelde vernietigingslijst. Naar aanleiding van de [Archiefwet van 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (*Stb.* 1995, 276) werd het door de Vereniging van Kamers van Koophandel (VVK) wenselijk geacht het selectiebeleid in overeenstemming te brengen met de nieuwe regelgeving. Er is toen dan ook gezocht naar een geschikt moment waarop een gezamenlijke selectielijst volgens de [Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) de bestaande vernietigingslijst zou kunnen vervangen. Het RIO dat is opgesteld over het handelen van de Kamers van Koophandel en Fabrieken heeft 1998 als begindatum.   
 
 – Raad van tucht voor registeraccountants en accountants-administratieconsulenten: het secretariaat van de Raden van Tucht is benaderd door de opsteller van het BSD, maar er werd niet gereageerd binnen de gestelde termijn. Deze actoren zijn daarom niet opgenomen in het BSD.  
 
@@ -166,15 +166,15 @@ Dit BSD is gebaseerd op het rapport institutioneel onderzoek nr. 104, Beroepenkw
 
 – Examencommissie (1972–1994)  
 
-– Commissie van advies inzake het examen voor Accountants-Administratieconsulenten (1972–1994)   Omdat het secretariaat zich bij de NOVAA bevindt, is in het BSD is het Examenbureau onder het zorgdragerschap van de NOVAA geplaatst.  
+– Commissie van advies inzake het examen voor Accountants-Administratieconsulenten (1972–1994)   Omdat het secretariaat zich bij de NOVAA bevindt, is in het BSD is het Examenbureau onder het zorgdragerschap van de NOVAA geplaatst. 
 
 ####3. Selectiedoelstelling
 
-In de productbeschrijving BSD van maart 2004 is de selectiedoelstelling van het Nationaal Archief als volgt verwoord. ‘De doelstelling van het Nationaal Archief bij de selectie van overheidsarchieven is dat de belangrijkste grondslagen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de rijksoverheid ten opzichte van haar omgeving, maar ook van de belangrijkste historisch-maatschappelijke gebeurtenissen en ontwikkelingen, voor zover deze zijn te reconstrueren uit overheidsarchieven.’  
+In de productbeschrijving BSD van maart 2004 is de selectiedoelstelling van het Nationaal Archief als volgt verwoord. ‘De doelstelling van het Nationaal Archief bij de selectie van overheidsarchieven is dat de belangrijkste grondslagen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de rijksoverheid ten opzichte van haar omgeving, maar ook van de belangrijkste historisch-maatschappelijke gebeurtenissen en ontwikkelingen, voor zover deze zijn te reconstrueren uit overheidsarchieven.’ 
 
 ####4. Selectiecriteria
 
-Uitgaande van de algemene selectiedoelstelling heeft PIVOT in 1998 een (gewijzigde) lijst van algemene selectiecriteria geformuleerd. Met behulp van die algemene criteria wordt in een BSD een waardering toegekend aan de handelingen die door middel van het institutioneel onderzoek in kaart zijn gebracht. De algemene selectiecriteria van PIVOT zijn positief geformuleerd; het zijn bewaarcriteria. Is een handeling op grond van een criterium gewaardeerd met B (‘blijvend te bewaren’), dan betekent dit dat de administratieve neerslag van die handeling te zijner tijd geheel dient te worden overgebracht naar het NA. De neerslag van een handeling die niet aan één van de selectiecriteria voldoet, wordt op termijn vernietigd. De waardering van de desbetreffende handeling luidt dan V (vernietigen), onder vermelding van de periode waarna de vernietiging dient plaats te vinden. De neerslag die uit dergelijke handelingen voortvloeit, is dus niet noodzakelijk geacht voor een reconstructie van het overheidshandelen op hoofdlijnen. Handelingen die worden gewaardeerd met *B (ewaren)* 1. Handelingen die betrekking hebben op *voorbereiding en bepaling van beleid* op hoofdlijnen *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, evenals het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op *evaluatie van beleid* op hoofdlijnen *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieronder valt ook het toetsen van en het toezien op beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op *verantwoording van beleid* op hoofdlijnen aan andere actoren *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op *(her)inrichting van organisaties* belast met beleid op hoofdlijnen *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop *beleidsuitvoering* op hoofdlijnen plaatsvindt *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op *beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten *Toelichting:* Bijvoorbeeld in het geval de ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Overigens kan, ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) neerslag van bepaalde, als te vernietigen gewaardeerde handelingen, betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. Naast de algemene criteria kunnen er in een BSD, eveneens binnen het kader van de selectiedoelstelling, in overleg met het NA, beleidsterreinspecifieke criteria worden geformuleerd. Deze criteria worden doorlopend genummerd, waarbij wordt aangesloten bij de zes algemene criteria (dus vanaf 7). In dit BSD is geen aanvullend selectiecriterium toegekend.  
+Uitgaande van de algemene selectiedoelstelling heeft PIVOT in 1998 een (gewijzigde) lijst van algemene selectiecriteria geformuleerd. Met behulp van die algemene criteria wordt in een BSD een waardering toegekend aan de handelingen die door middel van het institutioneel onderzoek in kaart zijn gebracht. De algemene selectiecriteria van PIVOT zijn positief geformuleerd; het zijn bewaarcriteria. Is een handeling op grond van een criterium gewaardeerd met B (‘blijvend te bewaren’), dan betekent dit dat de administratieve neerslag van die handeling te zijner tijd geheel dient te worden overgebracht naar het NA. De neerslag van een handeling die niet aan één van de selectiecriteria voldoet, wordt op termijn vernietigd. De waardering van de desbetreffende handeling luidt dan V (vernietigen), onder vermelding van de periode waarna de vernietiging dient plaats te vinden. De neerslag die uit dergelijke handelingen voortvloeit, is dus niet noodzakelijk geacht voor een reconstructie van het overheidshandelen op hoofdlijnen. Handelingen die worden gewaardeerd met *B (ewaren)*  1. Handelingen die betrekking hebben op *voorbereiding en bepaling van beleid* op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, evenals het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op *evaluatie van beleid* op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieronder valt ook het toetsen van en het toezien op beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op *verantwoording van beleid* op hoofdlijnen aan andere actoren  *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op *(her)inrichting van organisaties* belast met beleid op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop *beleidsuitvoering* op hoofdlijnen plaatsvindt  *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op *beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten  *Toelichting:* Bijvoorbeeld in het geval de ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Overigens kan, ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) neerslag van bepaalde, als te vernietigen gewaardeerde handelingen, betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. Naast de algemene criteria kunnen er in een BSD, eveneens binnen het kader van de selectiedoelstelling, in overleg met het NA, beleidsterreinspecifieke criteria worden geformuleerd. Deze criteria worden doorlopend genummerd, waarbij wordt aangesloten bij de zes algemene criteria (dus vanaf 7). In dit BSD is geen aanvullend selectiecriterium toegekend. 
 
 ####5. Actorenoverzicht
 
@@ -259,13 +259,13 @@ Dit bureau neemt bijzondere aanvullende examens af voor het verkrijgen van de be
 Zij kan beschikken op een beroep tegen beslissingen van de Commissie voor inschrijving voor accountants-administratieconsulenten. 
 ###Raad van Beroep voor registeraccountants, 1968
 
-Zij kan beslissen in een beroep tegen de uitspraak van het bestuur over de indeling van een accountant in een contributieklasse. Deze Raad valt onder het zorgdragerschap van de Minister van Justitie.  
+Zij kan beslissen in een beroep tegen de uitspraak van het bestuur over de indeling van een accountant in een contributieklasse. Deze Raad valt onder het zorgdragerschap van de Minister van Justitie. 
 
 #### *5.2.2. Openbare beroepsinstellingen van octrooigemachtigden* 
 
 ###Octrooiraad, 1912–2004
 
-Vanaf 1912 bestaat de Octrooiraad, als een aparte bijzondere afdeling met eigen bevoegdheden van het Bureau voor Industriële Eigendom (BIE) ([Rijksoctrooiwet 1910](../../../../../../../../rijkswet/rijksoctrooiwet/BWBR0001879/README.md) (*Stb.* 1910, 313), [art. 14](../../../../../../../../rijkswet/rijksoctrooiwet/BWBR0001879/README.md)). De leden van de Octrooiraad zijn op voordracht van het Ministerie van Economische Zaken benoemd door de Kroon. Ingevolge de [Rijksoctrooiwet 1995](../../../../../../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md) is de afdoening van vanaf april 1995 ingediende octrooiaanvragen – een vereenvoudigde procedure – toegewezen aan het BIE; voordien ingediende aanvragen worden door de Octrooiraad afgedaan. De Octrooiraad moet handelen volgens bij de wet vastgestelde procedures. Deze procedures worden nader gespecificeerd in het Octrooireglement dat bij algemene maatregel van bestuur wordt vastgesteld. Binnen de procedure is ook beroep mogelijk: hiervoor is bij de Octrooiraad een aparte afdeling ingericht. De raad is bevoegd tot inschrijving van octrooigemachtigden in een register; deze inschrijving vindt plaats nadat een voorgeschreven examen is afgelegd. De Octrooiraad werd op 1 september 2004 opgeheven. De opvolger is het Octrooicentrum Nederland.  
+Vanaf 1912 bestaat de Octrooiraad, als een aparte bijzondere afdeling met eigen bevoegdheden van het Bureau voor Industriële Eigendom (BIE) ([Rijksoctrooiwet 1910](../../../../../../../../rijkswet/rijksoctrooiwet/BWBR0001879/README.md) (*Stb.* 1910, 313), [art. 14](../../../../../../../../rijkswet/rijksoctrooiwet/BWBR0001879/README.md)). De leden van de Octrooiraad zijn op voordracht van het Ministerie van Economische Zaken benoemd door de Kroon. Ingevolge de [Rijksoctrooiwet 1995](../../../../../../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md) is de afdoening van vanaf april 1995 ingediende octrooiaanvragen – een vereenvoudigde procedure – toegewezen aan het BIE; voordien ingediende aanvragen worden door de Octrooiraad afgedaan. De Octrooiraad moet handelen volgens bij de wet vastgestelde procedures. Deze procedures worden nader gespecificeerd in het Octrooireglement dat bij algemene maatregel van bestuur wordt vastgesteld. Binnen de procedure is ook beroep mogelijk: hiervoor is bij de Octrooiraad een aparte afdeling ingericht. De raad is bevoegd tot inschrijving van octrooigemachtigden in een register; deze inschrijving vindt plaats nadat een voorgeschreven examen is afgelegd. De Octrooiraad werd op 1 september 2004 opgeheven. De opvolger is het Octrooicentrum Nederland. 
 
 #### *5.2.3. Particuliere organisaties* 
 
@@ -287,18 +287,18 @@ Stichting VEDAA verzorgt de bijscholing voor accountants-administratieconsulente
 Stichting Beroepsopleiding NOvAA leidt aspirant accountants-administratieconsulenten op voor het diploma accountants-administratieconsulenten (oude stijl). De stichting is samen met de Stichting VEDAA in 1993 opgegaan in de publiekrechtelijke beroepsorganisatie NOvAA. 
 ###Stichting Toezicht Examens Vestigingswet (STEVES), 1995–
 
-STEVES is een onafhankelijke stichting, die sinds 1995 toezicht houdt op de wettelijke ondernemersexamens zoals AOV, Bedrijfstechniek en Vaktechniek. Ook houdt zij toezicht op al die examens die direct een bijdrage leveren aan de kwaliteit van de onderneming en van het ondernemerschap. STEVES is opgericht vanuit MKB Nederland en VNO NCW en staat onder toezicht van de Minister van Economische Zaken. De minister delegeerde dit toezicht aan de STEVES op basis van een mandaatbeschikking en een door de stichting opgesteld protocol. De stichting nam hierbij een aantal bevoegdheden van de minister – en nadien ook van de SER – over. Verzoeken op het gebied van diplomawaardering en -vergelijking op het gebied van de [Vestigingswet Bedrijven 1954](../../../../../../../../wet/vestigingswet/bedrijven/1954/BWBR0002130/README.md) worden sinds 1 augustus 2006 door het Ministerie van Economische Zaken beantwoord, omdat STEVES, die deze zaken voorheen afhandelde, sinds die datum heeft opgehouden te bestaan. STEVES valt daarom onder het zorgdragerschap van de Minister van Economische Zaken.  
+STEVES is een onafhankelijke stichting, die sinds 1995 toezicht houdt op de wettelijke ondernemersexamens zoals AOV, Bedrijfstechniek en Vaktechniek. Ook houdt zij toezicht op al die examens die direct een bijdrage leveren aan de kwaliteit van de onderneming en van het ondernemerschap. STEVES is opgericht vanuit MKB Nederland en VNO NCW en staat onder toezicht van de Minister van Economische Zaken. De minister delegeerde dit toezicht aan de STEVES op basis van een mandaatbeschikking en een door de stichting opgesteld protocol. De stichting nam hierbij een aantal bevoegdheden van de minister – en nadien ook van de SER – over. Verzoeken op het gebied van diplomawaardering en -vergelijking op het gebied van de [Vestigingswet Bedrijven 1954](../../../../../../../../wet/vestigingswet/bedrijven/1954/BWBR0002130/README.md) worden sinds 1 augustus 2006 door het Ministerie van Economische Zaken beantwoord, omdat STEVES, die deze zaken voorheen afhandelde, sinds die datum heeft opgehouden te bestaan. STEVES valt daarom onder het zorgdragerschap van de Minister van Economische Zaken. 
 
 ####6. Verslag van de vaststellingsprocedure
 
-Op 4 april 2007 is het ontwerp-BSD door de Minister van Economische Zaken, de Minister van Justitie, de Minister van Financiën, de Minister van Onderwijs, Cultuur en Wetenschap, de Minister van Landbouw, Natuur en Voedselkwaliteit, het College van Beroep voor het Bedrijfsleven (CBB), het Octrooicentrum Nederland (OCN), het Nederlands Instituut van Registeraccountants (NIvRA) en de Nederlandse Orde van Accountant-Administratieconsulenten (NOvAA) aan de Minister van OC&W aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 2 juli 2007 lag de selectielijst gedurende zes weken ter publieke inzage bij de registratiebalie van de studiezaal en op de website van het Nationaal Archief evenals op de website van het Ministerie van OCW, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 13 augustus 2007 bracht het Instituut voor Nederlandse Geschiedenis (ING) uit (07.137), hetwelk aanleiding heeft gegeven tot de volgende wijzigingen in de ontwerp-selectielijst. – teneinde de archiefselecteur de mogelijkheid te geven neerslag met betrekking tot onenigheden over de toelatingsprocedure voor accountant-administratieconsulenten voor bewaring in aanmerking te laten komen is de volgende handeling geformuleerd: Actor: Commissie voor toelating Accountant-Administratieconsulenten Handeling: Het adviseren over beleid inzake het beroep Accountant-Administratieconsulent Periode: 1972–1994 Producten: Waardering: B1 Op 30-8-2007 bracht de RvC advies uit (aca-2007.03943/6), hetwelk behoudens enkele tekstuele correcties geen aanleiding heeft gegeven tot wijziging van de ontwerp-selectielijst. Daarop werd het BSD op 20 september 2007 door de algemene rijksarchivaris, namens de Minister van Onderwijs, Cultuur en Wetenschappen, en de Minister van Economische Zaken ([C/S&A/07/2242](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022652/README.md)), de Minister van Financiën ([C/S&A/07/2243](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022651/README.md)), de Minister van Justitie ([C/S&A/07/2244](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022650/README.md)), de Minister van Landbouw, Natuur en Voedselkwaliteit ([C/S&A/07/2245](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022649/README.md)), de Minister van Onderwijs, Cultuur en Wetenschappen ([C/S&A/07/2357](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022648/README.md)), het College van Beroep voor het Bedrijfsleven (CBB) ([C/S&A/07/2358](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022647/README.md)), het Octrooicentrum (OCN) ([C/S&A/07/2359](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022646/README.md)), het Nederlandse Instituut van Registeraccountants (NIvRA) ([C/S&A/07/2360](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022645/README.md)) en de Nederlandse Orde van Accountant-Adminsitratieconsulenten (NOvAA) (C/S&A/07/2361) vastgesteld.  
+Op 4 april 2007 is het ontwerp-BSD door de Minister van Economische Zaken, de Minister van Justitie, de Minister van Financiën, de Minister van Onderwijs, Cultuur en Wetenschap, de Minister van Landbouw, Natuur en Voedselkwaliteit, het College van Beroep voor het Bedrijfsleven (CBB), het Octrooicentrum Nederland (OCN), het Nederlands Instituut van Registeraccountants (NIvRA) en de Nederlandse Orde van Accountant-Administratieconsulenten (NOvAA) aan de Minister van OC&W aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 2 juli 2007 lag de selectielijst gedurende zes weken ter publieke inzage bij de registratiebalie van de studiezaal en op de website van het Nationaal Archief evenals op de website van het Ministerie van OCW, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 13 augustus 2007 bracht het Instituut voor Nederlandse Geschiedenis (ING) uit (07.137), hetwelk aanleiding heeft gegeven tot de volgende wijzigingen in de ontwerp-selectielijst. – teneinde de archiefselecteur de mogelijkheid te geven neerslag met betrekking tot onenigheden over de toelatingsprocedure voor accountant-administratieconsulenten voor bewaring in aanmerking te laten komen is de volgende handeling geformuleerd: Actor: Commissie voor toelating Accountant-Administratieconsulenten Handeling: Het adviseren over beleid inzake het beroep Accountant-Administratieconsulent Periode: 1972–1994 Producten: Waardering: B1 Op 30-8-2007 bracht de RvC advies uit (aca-2007.03943/6), hetwelk behoudens enkele tekstuele correcties geen aanleiding heeft gegeven tot wijziging van de ontwerp-selectielijst. Daarop werd het BSD op 20 september 2007 door de algemene rijksarchivaris, namens de Minister van Onderwijs, Cultuur en Wetenschappen, en de Minister van Economische Zaken ([C/S&A/07/2242](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022652/README.md)), de Minister van Financiën ([C/S&A/07/2243](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022651/README.md)), de Minister van Justitie ([C/S&A/07/2244](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022650/README.md)), de Minister van Landbouw, Natuur en Voedselkwaliteit ([C/S&A/07/2245](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022649/README.md)), de Minister van Onderwijs, Cultuur en Wetenschappen ([C/S&A/07/2357](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022648/README.md)), het College van Beroep voor het Bedrijfsleven (CBB) ([C/S&A/07/2358](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022647/README.md)), het Octrooicentrum (OCN) ([C/S&A/07/2359](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022646/README.md)), het Nederlandse Instituut van Registeraccountants (NIvRA) ([C/S&A/07/2360](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022645/README.md)) en de Nederlandse Orde van Accountant-Adminsitratieconsulenten (NOvAA) (C/S&A/07/2361) vastgesteld. 
 
 ####7. Leeswijzer
 
 De selectielijst is primair ingedeeld naar zorgdrager en secundair naar actor. De tertiaire indeling is de volgorde van de handelingen Tussen de handelingen treft u bij de actor Minister van Financiën de titels van de hoofdstukken uit het RIO. Dit is gedaan om het opzoeken van de handelingen van de grootste en eerstverantwoordelijke actor op dit beleidsterrein in de aanvulling op het RIO te vergemakkelijken. 
 ###Handelingenblokken
 
-De handelingen zijn verwerkt in uniek genummerde gegevensblokken die als volgt zijn opgebouwd: Handelingnr.: Dit is het volgnummer van de handeling. Dit nummer is overgenomen uit het RIO. Handeling: Dit is een complex van activiteiten die een actor verricht ter vervulling van een taak of op grond van een bevoegdheid. In de praktijk komt een handeling meestal overeen met een procedure of een werkproces. Periode: Hier staat het tijdvak vermeld gedurende welke jaren de handeling is verricht. Wanneer er geen eindjaar staat vermeld wordt de handeling nog steeds uitgevoerd. Grondslag: Dit is de wettelijke basis op grond waarvan de actor de handeling verricht. Vermeld worden: de naam (citeertitel) van de wet, de Algemene Maatregel van Bestuur, het Koninklijk Besluit of de ministeriële regeling; het betreffende artikel en lid daarvan; de vindplaats, dwz. de vermelding van Staatsblad of Staatscourant; wijzigingen in de grondslag en het vervallen hiervan. Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de *grondslag* worden genoemd waarin de betreffende handeling staat vermeld. Product: Waar mogelijk wordt hier vermeld welke documenten uit de handeling zijn voortgekomen. Opmerking: Deze aanvullende informatie wordt slechts vermeld wanneer de strekking van de handeling toelichting behoeft. Waardering: Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering. De ‘B’ staat voor bewaren, ofwel: het na afloop van de overbrengingstermijn krachtens de [Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) overdragen aan de Rijksarchiefdienst. De ‘V’ staat voor vernietigen na afloop van de aangegeven termijn. Achter de ‘B’ of ‘V’ is aangegeven welk selectiecriterium, zoals geformuleerd in de inleiding, is toegepast.  
+De handelingen zijn verwerkt in uniek genummerde gegevensblokken die als volgt zijn opgebouwd: Handelingnr.: Dit is het volgnummer van de handeling. Dit nummer is overgenomen uit het RIO. Handeling: Dit is een complex van activiteiten die een actor verricht ter vervulling van een taak of op grond van een bevoegdheid. In de praktijk komt een handeling meestal overeen met een procedure of een werkproces. Periode: Hier staat het tijdvak vermeld gedurende welke jaren de handeling is verricht. Wanneer er geen eindjaar staat vermeld wordt de handeling nog steeds uitgevoerd. Grondslag: Dit is de wettelijke basis op grond waarvan de actor de handeling verricht. Vermeld worden: de naam (citeertitel) van de wet, de Algemene Maatregel van Bestuur, het Koninklijk Besluit of de ministeriële regeling; het betreffende artikel en lid daarvan; de vindplaats, dwz. de vermelding van Staatsblad of Staatscourant; wijzigingen in de grondslag en het vervallen hiervan. Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de *grondslag* worden genoemd waarin de betreffende handeling staat vermeld. Product: Waar mogelijk wordt hier vermeld welke documenten uit de handeling zijn voortgekomen. Opmerking: Deze aanvullende informatie wordt slechts vermeld wanneer de strekking van de handeling toelichting behoeft. Waardering: Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering. De ‘B’ staat voor bewaren, ofwel: het na afloop van de overbrengingstermijn krachtens de [Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) overdragen aan de Rijksarchiefdienst. De ‘V’ staat voor vernietigen na afloop van de aangegeven termijn. Achter de ‘B’ of ‘V’ is aangegeven welk selectiecriterium, zoals geformuleerd in de inleiding, is toegepast. 
 
 ####8. Actoren onder de zorg van de Minister van Economische Zaken
 
@@ -415,7 +415,7 @@ Handeling: Het opstellen en wijzigen van standpunten over de Europese Commissie 
 Handeling: Het opstellen van een plan ter implementatie van een door de Raad vast te stellen besluit. Periode: 1993– Grondslag: Aanwijzingen voor regelgeving (*Stcrt.* 1992, 230) Product: Implementatieplan Opmerking: Het betreft hier plannen ter implementatie van richtlijnen en verordeningen die onderworpen zijn aan de samenwerkingsprocedure of de medebeslissingsprocedure (co-decisie) van Raad en Europees Parlement. Het implementatieplan moet binnen een maand nadat de Raad het gemeenschappelijke standpunt heeft vastgesteld, voorgelegd worden aan de Werkgroep Beoordeling Nieuwe Commissievoorstellen. Waardering: B 1 
 ###(28.)
 
-Handeling: Het voordragen aan de Europese Commissie van deskundigen belast met de controle op de naleving van de bepalingen van communautaire besluiten betreffende kwaliteitszorg voor de bedrijfsvoering en beroepsuitoefening. Periode: 1958– Grondslag: Richtlijnen Product: Besluit Waardering: V 5 jaar  
+Handeling: Het voordragen aan de Europese Commissie van deskundigen belast met de controle op de naleving van de bepalingen van communautaire besluiten betreffende kwaliteitszorg voor de bedrijfsvoering en beroepsuitoefening. Periode: 1958– Grondslag: Richtlijnen Product: Besluit Waardering: V 5 jaar 
 
 #### *8.1.2. Kwaliteitszorg in het midden- en kleinbedrijf* 
 
@@ -439,7 +439,7 @@ Handeling: Het op verzoek van holdings van meervoudig ingeschreven bedrijven ver
 
 ###(35.)
 
-Handeling: Het (mede) voorbereiden van vestigingswetten voor het bedrijfsleven. Periode: (1940) 1945– Product: Vestigingswet Kleinbedrijf 1937 (*Stb.* 1937, 619) Vestigingswet Bedrijven 1954 (*Stb.* 1954, 99) (*Stb.* 1964, 66) Wet houdende voorzieningen in verband met het vervallen van het OrganisatiebesluitVoedselvoorziening (*Stb.* 1957, 40) Wet wederverkoop van brood (*Stb.* 1962, 465) Vestigingswet Detailhandel (*Stb.* 1971, 569) Wet houdende intrekking van de Vestigingswet Detailhandel en wijziging van de Drank- en Horecawet en van de Vestigingswet Bedrijven 1954 (*Stb.* 1995, 607) Opmerking: De regelgeving heeft voor zover het levensmiddelen betreft, tevens betrekking op afwikkelingen van problemen inzake het landbouwstructuurbeleid. Waardering: B 1, 2 
+Handeling: Het (mede) voorbereiden van vestigingswetten voor het bedrijfsleven. Periode: (1940) 1945– Product: Vestigingswet Kleinbedrijf 1937 (*Stb.* 1937, 619) Vestigingswet Bedrijven 1954 (*Stb.*1954, 99) (*Stb.* 1964, 66) Wet houdende voorzieningen in verband met het vervallen van het OrganisatiebesluitVoedselvoorziening (*Stb.* 1957, 40) Wet wederverkoop van brood (*Stb.* 1962, 465) Vestigingswet Detailhandel (*Stb.* 1971, 569) Wet houdende intrekking van de Vestigingswet Detailhandel en wijziging van de Drank- en Horecawet en van de Vestigingswet Bedrijven 1954 (*Stb.* 1995, 607) Opmerking: De regelgeving heeft voor zover het levensmiddelen betreft, tevens betrekking op afwikkelingen van problemen inzake het landbouwstructuurbeleid. Waardering: B 1, 2 
 ###(36.)
 
 Handeling: Het adviseren van de Minister van Onderwijs, Kunsten en Wetenschappen inzake wettelijke regelingen inzake de opleiding voor de vereiste bewijzen van bekwaamheid in het kader van de vestigingswetgeving. Periode: (1940) 1945– Waardering: B 5 
@@ -447,7 +447,7 @@ Handeling: Het adviseren van de Minister van Onderwijs, Kunsten en Wetenschappen
 
 ###(37.)
 
-Handeling: Het aanwijzen van soorten bedrijven in het kleinbedrijf waarvoor een vestigingsvergunning is vereist. Periode: (1940) 1945–1954 Grondslag: Vestigingswet Kleinbedrijf 1937 (**Stb.** 1937, 619), art. 1 Product: Vestigingsbesluit Opmerking: Tot 1950 heeft de minister krachtens het BAVK ook de bevoegdheid om bij regeling een bedrijf aan te wijzen waarvoor een vergunning bij de minister ‘of zijn gemachtigde’ moet worden aangevraagd. Waardering: B 1 
+Handeling: Het aanwijzen van soorten bedrijven in het kleinbedrijf waarvoor een vestigingsvergunning is vereist. Periode: (1940) 1945–1954 Grondslag: Vestigingswet Kleinbedrijf 1937 (* *Stb.* * 1937, 619), art. 1 Product: Vestigingsbesluit Opmerking: Tot 1950 heeft de minister krachtens het BAVK ook de bevoegdheid om bij regeling een bedrijf aan te wijzen waarvoor een vergunning bij de minister ‘of zijn gemachtigde’ moet worden aangevraagd. Waardering: B 1 
 ###(39.)
 
 Handeling: Het afkondigen van een verbod op het uitoefenen van een bedrijf in afwachting van een vestigingsbesluit (het afkondigen van een spertijd). Periode: (1940) 1945–1954 Grondslag: Vestigingswet Kleinbedrijf 1937 (*Stb.* 1937, 619), art. 1.5 Product: Ministeriële beschikkingen, de zgn. spertijdverklaringen Opmerking: Hierbij is inbegrepen het intrekken van deze verbodsbeschikking. Een beschikking houdt in ieder geval op zes maanden na haar inwerkingtreding; de minister kan de termijn ten hoogste nog eens zesmaal verlengen. Zij vervalt ook als er een vestigingsbesluit is vastgesteld. De minister heeft er met name gebruik van gemaakt bij de voorbereiding van de Vestigingswet Bedrijven 1954. Waardering: B 5 
@@ -469,7 +469,7 @@ Handeling: Het toelaten van (verplaatsingen van) inrichtingen en ondernemingen, 
 
 ###(44.)
 
-Handeling: Het na advies van de Middenstandsraad aanwijzen van bedrijven waarvoor een vergunning krachtens het BAVK is vereist. Periode: (1940) 1945–1951 Grondslag: BAVK 1941 (*Stcrt.* 1941, 234), art. 3 jo. art. III Product: Uitvoeringsbeschikkingen BAVK, bijvoorbeeld in: *Stcrt.* 1946, 109, 127, 165, 243 en *Stcrt.* 1947, 36 Opmerking: In deze regeling kunnen ook besluiten worden opgenomen die de geldigheid van het BAVK beperken en het BAVK opheffen. Waardering: B 6  
+Handeling: Het na advies van de Middenstandsraad aanwijzen van bedrijven waarvoor een vergunning krachtens het BAVK is vereist. Periode: (1940) 1945–1951 Grondslag: BAVK 1941 (*Stcrt.* 1941, 234), art. 3 jo. art. III Product: Uitvoeringsbeschikkingen BAVK, bijvoorbeeld in: *Stcrt.* 1946, 109, 127, 165, 243 en *Stcrt.* 1947, 36 Opmerking: In deze regeling kunnen ook besluiten worden opgenomen die de geldigheid van het BAVK beperken en het BAVK opheffen. Waardering: B 6 
 
 #### *8.1.3. De Vestigingswet Bedrijven 1954* 
 
@@ -500,7 +500,7 @@ Handeling: Het vaststellen van richtlijnen voor de toelating van bedrijven door 
 
 ###(52.)
 
-Handeling: Het incidenteel subsidiëren van brancheorganisaties voor het opstarten van cursorische opleidingen voor de vereiste vakbekwaamheid en/of handelskennis. Periode: 1954– Grondslag: Veurtjes, *De vestigingswet en het onderwijs* Waardering: V 10 jaar 
+Handeling: Het incidenteel subsidiëren van brancheorganisaties voor het opstarten van cursorische opleidingen voor de vereiste vakbekwaamheid en/of handelskennis. Periode: 1954– Grondslag: Veurtjes, *De vestigingswet en het onderwijs*  Waardering: V 10 jaar 
 ###(53.)
 
 Handeling: Het nader stellen van eisen van kredietwaardigheid en (vak)bekwaamheid aan bedrijven. Periode: 1958–1996 Grondslag: Besluit vestigingseisen kredietwaardigheid en handelskennis (*Stb.* 1958, 417) Product: Bijlage II Vestigingseisen voor groothandelsbedrijven Opmerking: De vestigingseisen voor kleinhandelsbedrijven waren reeds toegevoegd als bijlage bij het Basisbesluit vestigingseisen 1958. Na 1990 worden er aan de bedrijven geen eisen van kredietwaardigheid meer gesteld (*Stb.* 1990, 19). Waardering: V, 10 jaar 
@@ -556,7 +556,7 @@ Handeling: Het stellen van nadere uitvoeringsregels met betrekking tot de Vestig
 Handeling: Het stellen van ministeriële regelingen met betrekking tot de Vestigingswet detailhandel en het daaraan verbonden Uitvoeringsbesluit. Periode: 1972–1996 Grondslag: Vestigingswet Detailhandel (*Stb.* 1971, 569); Uitvoeringsbesluit Vestigingswet Detailhandel (*Stb.* 1972, 152) Opmerking: De minister heeft de bevoegdheid tot: –het voorschrijven van het volgen van onderwijs (VWD art. 21.1); – het vaststellen van gegevens die voor de aanvraag van een vergunning zijn vereist (VWD art. 5.1); – het delegeren van bevoegdheden tot het verlenen van ontheffingen aan de SER of hoofdbedrijfschappen (VWD art. 13.1); – het aanwijzen van bewijsstukken van handelskennis en vakbekwaamheid (art. 4.2); – de bij de aanvraag in te vullen formulieren (VWD art. 5.1; ingetrokken in 1958, wanneer de formulieren bij AMVB zijn vastgesteld (*Stb.* 1958, 417)). Waardering: B 5 
 ###(76.)
 
-Handeling: Het aanwijzen van ambtenaren die belast zijn met het toezicht op de uitvoering van en de opsporing van overtredingen tegen de Vestigingswet Detailhandel. Periode: 1972–1996 Grondslag: Wet op de Economische Delicten (*Stb.* 1950, K258) (*Stb.* 19951, 91) (*Stb.* 9151, 214) Product: Aanwijzing van de Algemene Inspectiedienst AID voor het toezicht op de detailhandel (*Stcrt.* 1986, 96). Waardering: V 10 jaar na einde dienstverband 
+Handeling: Het aanwijzen van ambtenaren die belast zijn met het toezicht op de uitvoering van en de opsporing van overtredingen tegen de Vestigingswet Detailhandel. Periode: 1972–1996 Grondslag: Wet op de Economische Delicten (*Stb.* 1950, K258) (*Stb.* 19951, 91) (*Stb.* 9151, 214) Product: Aanwijzing van de Algemene Inspectiedienst AID voor het toezicht op de detailhandel (*Stcrt.*1986, 96). Waardering: V 10 jaar na einde dienstverband 
 ###(77.)
 
 Handeling: Het aanwijzen van bewijsstukken van bekwaamheid in de detailhandel. Periode: 1972–1996 Grondslag: Vestigingswet Detailhandel 1972 (*Stb.* 1971, 569), art. 4.2 Opmerking: De eisen waaraan moet worden voldaan, de eisen van bekwaamheid voor de detailhandel, worden bij algemene maatregel van bestuur gesteld (VWD art. 4.1), en vallen onder handeling 59. Waardering: V 5 jaar 
@@ -565,7 +565,7 @@ Handeling: Het aanwijzen van bewijsstukken van bekwaamheid in de detailhandel. P
 Handeling: Het erkennen van tentoonstellingen waarop goederen zonder vestigingsvergunning mogen worden verhandeld. Periode: 1972–1996 Grondslag: Vestigingswet Detailhandel (*Stb.* 1971, 569), art. 3.2 sub l Waardering: V 5 jaar 
 ###(79.)
 
-Handeling: Het op aanvraag van meerdere bedrijfsleiders van een detailbedrijf aanwijzen van hun diploma’s tot een samenstel van vereiste bewijsstukken van vakbekwaamheid. Periode: 1972–1996 Grondslag: Vestigingswet Detailhandel (*Stb.* 1971, 569), art. 4.3 Waardering: V 5 jaar  
+Handeling: Het op aanvraag van meerdere bedrijfsleiders van een detailbedrijf aanwijzen van hun diploma’s tot een samenstel van vereiste bewijsstukken van vakbekwaamheid. Periode: 1972–1996 Grondslag: Vestigingswet Detailhandel (*Stb.* 1971, 569), art. 4.3 Waardering: V 5 jaar 
 
 #### *8.1.4. Het beroep accountant* 
 
@@ -576,7 +576,7 @@ Handeling: Het op aanvraag van meerdere bedrijfsleiders van een detailbedrijf aa
 Handeling: Het voorbereiden, mede vaststellen, coördineren en evalueren van het beleid inzake het accountantswezen. Periode: (1940) 1945– Opmerking: Onder deze handeling valt ook: – het voeren van overleg met de andere betrokken actoren op het beleidsterrein; – het voorbereiden van een in te brengen standpunt in de vergaderingen van de Ministerraad voor beraad en besluitvorming betreffende het beleidsterrein; – het voeren van of het leveren van bijdragen aan het overleg met het Staatshoofd betreffende het beleidsterrein; – het voorbereiden van de Memorie van Toelichting op de rijksbegroting; – het toetsen van de uitvoering van het beleid (evaluatie); – het leveren van commentaar op de rechts- en doelmatigheidscontrole van de Algemene Rekenkamer op het beleidsterrein; zie hiervoor echter ook PIVOT-rapport nr. 15, *Per slot van rijksrekening*, handeling 295, 357 en 374; – het aan een externe adviescommissie verzoeken om advies betreffende het beleidsterrein; – het informeren (voorlichten) van het Kabinet van de Koningin over ontwikkelingen op het beleidsterrein; – het voorbereiden en vaststellen van het voorlichtingsbeleid. Waardering: B 1 
 ###(82.)
 
-Handeling: Het voorbereiden van intern onderzoek en het vaststellen van onderzoeksrapporten betreffende het accountantswezen, alsmede het voorbereiden en begeleiden van extern onderzoek betreffende het accountantswezen. Periode: 1975– Grondslag: De Jager, *Inventaris van de archieven van het NIVRA* Waardering: Eindproduct, offerte: B5 Overige neerslag: V, 10 jaar na onderzoek 
+Handeling: Het voorbereiden van intern onderzoek en het vaststellen van onderzoeksrapporten betreffende het accountantswezen, alsmede het voorbereiden en begeleiden van extern onderzoek betreffende het accountantswezen. Periode: 1975– Grondslag: De Jager, *Inventaris van de archieven van het NIVRA*  Waardering: Eindproduct, offerte: B5 Overige neerslag: V, 10 jaar na onderzoek 
 ###Regelgeving
 
 ###(85.)
@@ -736,7 +736,7 @@ Handeling: Het voorbereiden van een kroonbesluit tot schorsing van verordeningen
 Handeling: Het na te zijn geadviseerd door het bestuur van het NIVRA en het bestuur van de NOvAA, vervaardigen van een verslag omtrent de wijze waarop de accountantswetgeving in Nederland na invoering van enkele Europese richtlijnen heeft gefunctioneerd. Periode: 1994–1999 Grondslag: Wet op de accountants-administratieconsulenten 1993 Artikel V. Evaluatiebepaling Opmerking: Het gaat hierbij om de invoering van de Achtste EEG-richtlijn (PbEG 1984 L126) en de Richtlijn algemeen stelsel van erkenning van hoger-onderwijsdiploma’s (PbEG 1989 L 19). Het verslag moet binnen zes maanden na het verstrijken van zes jaar na het in werking treden van de wet WAA op 1 januari 1993 aan de Staten-Generaal worden gezonden; dus uiterlijk in juni 1999. Waardering: B 2, 3 
 ###(226.)
 
-Handeling: Het stellen van nadere regels inzake de titelvermelding voor de inschrijving van buitenlandse accountants-administratieconsulenten. Periode: 1994– Grondslag: Wet op de accountants-administratieconsulenten 1993 (*Stb.* 1993, 469), art. 42 Waardering: V 10 jaar na intrekking  
+Handeling: Het stellen van nadere regels inzake de titelvermelding voor de inschrijving van buitenlandse accountants-administratieconsulenten. Periode: 1994– Grondslag: Wet op de accountants-administratieconsulenten 1993 (*Stb.* 1993, 469), art. 42 Waardering: V 10 jaar na intrekking 
 
 #### *8.1.5. Tuchtrechtspraak onder NOvAA* 
 
@@ -757,7 +757,7 @@ Handeling: Het regelen van de samenstelling en de werkwijze van het secretariaat
 Handeling: Het geven van nadere voorschriften over de rechtsgang bij de raden van tucht voor registeraccountants en accountants-administratieconsulenten. Periode: 1993– Grondslag: Wet op de accountants-administratieconsulenten 1993 (*Stb.* 1993, 469), art. 67.1 Product: Algemene maatregelen van bestuur Waardering: V, 10 jaar na wijziging of intrekking amvb 
 ###(244.)
 
-Handeling: Het instemmen met de door de Minister van Justitie aangewezen ambtenaren die worden belast met het opsporen van de bij de Wet op de accountants-administratieconsulenten 1993 strafbaar gestelde feiten. Periode: 1993– Grondslag: Wet op de accountants-administratieconsulenten 1993 (*Stb.* 1993, 469), art. 99.1 Waardering: V 5 jaar  
+Handeling: Het instemmen met de door de Minister van Justitie aangewezen ambtenaren die worden belast met het opsporen van de bij de Wet op de accountants-administratieconsulenten 1993 strafbaar gestelde feiten. Periode: 1993– Grondslag: Wet op de accountants-administratieconsulenten 1993 (*Stb.* 1993, 469), art. 99.1 Waardering: V 5 jaar 
 
 #### *8.1.6. Accountantsexamen onder NOvAA* 
 
@@ -778,7 +778,7 @@ Handeling: Het beslissen op een beroepschrift tegen een beschikking van het exam
 Handeling: Het goedkeuren van de regeling opgesteld door het examenbureau voor het accountantsexamen omtrent de omvang en de inrichting van de proeve van bekwaamheid, alsmede omtrent de eisen voor het verkrijgen van vrijstelling van bepaalde onderdelen daarvan. Periode: 1994– Grondslag: Wet op de accountants-administratieconsulenten 1993 (*Stb.* 1993, 469), art. 94.2 Waardering: V 10 jaar na intrekking goedkeuring 
 ###(266.)
 
-Handeling: Het, na het horen van het Curatorium, beslissen op een beroep ingesteld tegen een beschikking van het examenbureau omtrent de toelating tot de proeve van bekwaamheid. Periode: 1994– Grondslag: Wet op de accountants-administratieconsulenten 1993 (*Stb.* 1993, 469), art. 95.4 Waardering: V 10 jaar  
+Handeling: Het, na het horen van het Curatorium, beslissen op een beroep ingesteld tegen een beschikking van het examenbureau omtrent de toelating tot de proeve van bekwaamheid. Periode: 1994– Grondslag: Wet op de accountants-administratieconsulenten 1993 (*Stb.* 1993, 469), art. 95.4 Waardering: V 10 jaar 
 
 #### *8.1.7. Het examen accountants-administratieconsulenten onder NOvAA* 
 
@@ -787,10 +787,10 @@ Handeling: Het, na het horen van het Curatorium, beslissen op een beroep ingeste
 Handeling: Het bepalen van het aantal leden van het examenbureau voor het examen accountants-administratieconsulenten en het benoemen van deze leden. Periode: 1994– Grondslag: Wet op de accountants-administratieconsulenten 1993 (*Stb.* 1993, 469), art. 85 Opmerking: De leden van het examenbureau treden om de vier jaar tegelijk af en kunnen direct opnieuw worden benoemd. Waardering: V 10 jaar na einde benoeming 
 ###(276.)
 
-Handeling: Het beschikken op een beroep van belanghebbenden tegen intrekking of weigering van verklaringen van gelijkwaardigheid van diploma’s aan het theoretisch gedeelte van het examen accountant-administratieconsulent aan onderwijsinstellingen. Periode: 1994– Grondslag: Wet op de accountants-administratieconsulenten 1993 (*Stb.* 1993, 469), art. 91.4–91.6 Opmerking: Beschikkingen over de gelijkwaardigheid van dit diploma worden gepubliceerd in de *Staatscourant.* Waardering: V 10 jaar 
+Handeling: Het beschikken op een beroep van belanghebbenden tegen intrekking of weigering van verklaringen van gelijkwaardigheid van diploma’s aan het theoretisch gedeelte van het examen accountant-administratieconsulent aan onderwijsinstellingen. Periode: 1994– Grondslag: Wet op de accountants-administratieconsulenten 1993 (*Stb.* 1993, 469), art. 91.4–91.6 Opmerking: Beschikkingen over de gelijkwaardigheid van dit diploma worden gepubliceerd in de *Staatscourant.*  Waardering: V 10 jaar 
 ###(279.)
 
-Handeling: Het beschikken op een beroep tegen een weigering van het examenbureau van een toekenning van een verklaring van vakbekwaamheid aan een houder van een buitenlands diploma. Periode: 1994– Grondslag: Wet op de accountants-administratieconsulenten 1993 (*Stb.* 1993, 469), art. 95.4–95.6 Waardering: V 10 jaar  
+Handeling: Het beschikken op een beroep tegen een weigering van het examenbureau van een toekenning van een verklaring van vakbekwaamheid aan een houder van een buitenlands diploma. Periode: 1994– Grondslag: Wet op de accountants-administratieconsulenten 1993 (*Stb.* 1993, 469), art. 95.4–95.6 Waardering: V 10 jaar 
 
 #### *8.1.8. De Makelaardij* 
 
@@ -824,7 +824,7 @@ Handeling: Het gelijkstellen van bewijzen van bekwaamheid met het diploma van de
 Handeling: Het vaststellen van vergoedingen voor de werkzaamheden van de Kamers van Koophandel voor de toelating van makelaars in hun district. Periode: 1981– Grondslag: Wetboek van Koophandel (*Stb.* 1966, 319), art. 63cc (???) Waardering: V 10 jaar 
 ###(299.)
 
-Handeling: Het instellen van een Commissie Toelating Vaktest. Periode: 1981– Grondslag: Besluit vakbekwaamheid makelaars in onroerende goederen 1981 (*Stb.* 1981, 192), art. 5 Waardering: B 4  
+Handeling: Het instellen van een Commissie Toelating Vaktest. Periode: 1981– Grondslag: Besluit vakbekwaamheid makelaars in onroerende goederen 1981 (*Stb.* 1981, 192), art. 5 Waardering: B 4 
 
 #### *8.1.9. Octrooigemachtigden* 
 
@@ -860,13 +860,13 @@ Handeling: Het benoemen van een toegevoegd secretaris van de Raad van Beroep inz
 Handeling: Het leveren van bijdragen aan besluiten van de Raad van Bestuur van het Instituut van erkende gemachtigden bij het Europees Octrooibureau te München. Periode: 1977– Grondslag: Reglement van het instituut, art. 15.3 Waardering: V 5 jaar 
 ###(326.)
 
-Handeling: Het intrekken van Europese erkenningen van octrooigemachtigden. Periode: 1977– Grondslag: Reglement van het instituut, art. 15.3 Waardering: V 10 jaar  
+Handeling: Het intrekken van Europese erkenningen van octrooigemachtigden. Periode: 1977– Grondslag: Reglement van het instituut, art. 15.3 Waardering: V 10 jaar 
 
 #### *8.2. Actor: Staatscommissie Van der Grinten* 
 
 ###(86.)
 
-Handeling: Het adviseren bij de voorbereiding van wettelijke regelingen inzake het accountantswezen. Periode: 1954–1959 Grondslag: Waardering: B 1  
+Handeling: Het adviseren bij de voorbereiding van wettelijke regelingen inzake het accountantswezen. Periode: 1954–1959 Grondslag: Waardering: B 1 
 
 #### *8.3. Actor: Stichting Toezicht Examens Vestigingswet (STEVES)* 
 
@@ -889,7 +889,7 @@ Handeling: Het goedkeuren van examenreglementen. Periode: 1996– Grondslag: Man
 Handeling: Het verlenen van vrijstellingen voor examens of gedeelten daarvan. Periode: 1996– Grondslag: Mandaatbeschikking toezicht examens in het kader van de vestigingswetgeving aan de STEVES (*Stcrt.* 1995, 182), protocolbepalingen, art. 3 Waardering: V 5 jaar 
 ###(71.)
 
-Handeling: Het uitoefenen van toezicht op examens door middel van gecommitteerden. Periode: 1996– Grondslag: Mandaatbeschikking toezicht examens in het kader van de vestigingswetgeving aan de STEVES (*Stcrt.* 1995, 182), protocolbepalingen, art. 3 Waardering: V 5 jaar  
+Handeling: Het uitoefenen van toezicht op examens door middel van gecommitteerden. Periode: 1996– Grondslag: Mandaatbeschikking toezicht examens in het kader van de vestigingswetgeving aan de STEVES (*Stcrt.* 1995, 182), protocolbepalingen, art. 3 Waardering: V 5 jaar 
 
 #### *8.4. Actor: Curatorium voor de opleiding van accountants (1993–2007)* 
 
@@ -905,19 +905,19 @@ Handeling: Het uitoefenen van toezicht op de werkzaamheden van het examenbureau.
 Handeling: Het uitoefenen van toezicht op de examens, gehouden door het examenbureau voor accountants. Periode: 1993–2007 Grondslag: Wet op de accountants-administratieconsulenten 1993 (*Stb.* 1993, 469), art. 89 Opmerking: Hierbij is inbegrepen: – het goedkeuren van examenregelingen; – het toetsen van de benoeming van examinatoren; – het toezien op de werkzaamheden. Waardering: V 10 jaar 
 ###(281.)
 
-Handeling: Het vaststellen van regels voor toelatingstoetsen van kandidaten voor het examen accountants-administratieconsulenten. Periode: 1993–2007 Grondslag: Examenbesluit accountants-administratieconsulenten (*Stb.* 1994, 86), art. 3.2 Waardering: V 10 jaar na intrekking regels  
+Handeling: Het vaststellen van regels voor toelatingstoetsen van kandidaten voor het examen accountants-administratieconsulenten. Periode: 1993–2007 Grondslag: Examenbesluit accountants-administratieconsulenten (*Stb.* 1994, 86), art. 3.2 Waardering: V 10 jaar na intrekking regels 
 
 #### *8.5. Actor: Economische Controledienst (1985–1999)* 
 
 ###(33.)
 
-Handeling: Het opsporen van onjuiste of onvolledige mededelingen in het Handelsregister. Periode: 1985–1999 Grondslag: Wet op de Economische Delicten (*Stb.* 1950, K258) (*Stb.* 1951, 91) (*Stb.* 1951, 214) Product: Proces-verbaal Waardering: V 10 jaar  
+Handeling: Het opsporen van onjuiste of onvolledige mededelingen in het Handelsregister. Periode: 1985–1999 Grondslag: Wet op de Economische Delicten (*Stb.* 1950, K258) (*Stb.* 1951, 91) (*Stb.* 1951, 214) Product: Proces-verbaal Waardering: V 10 jaar 
 
 #### *8.6. Actor: Commissie voor de toelating van registeraccountants* 
 
 ###(95.)
 
-Handeling: Het aanwijzen van registeraccountants voor inschrijving in het accountantsregister. Periode: 1963–1968 Grondslag: Wet op de registeraccountants (*Stb.* 1962, 258), art. 81–82 Opmerking: NB. alleen in het register ingeschreven accountants waren bevoegd om hun beroep uit te oefenen. Waardering: B 5  
+Handeling: Het aanwijzen van registeraccountants voor inschrijving in het accountantsregister. Periode: 1963–1968 Grondslag: Wet op de registeraccountants (*Stb.* 1962, 258), art. 81–82 Opmerking: NB. alleen in het register ingeschreven accountants waren bevoegd om hun beroep uit te oefenen. Waardering: B 5 
 
 ####9. Actoren onder de zorg van de Minister van Financiën
 
@@ -925,13 +925,13 @@ Handeling: Het aanwijzen van registeraccountants voor inschrijving in het accoun
 
 ###(80.)
 
-Handeling: Het voorbereiden, mede vaststellen, coördineren en evalueren van het beleid inzake het accountantswezen. Periode: (1940) 1945– Opmerking: Onder deze handeling valt ook: – het voeren van overleg met de andere betrokken actoren op het beleidsterrein; – het voorbereiden van een in te brengen standpunt in de vergaderingen van de Ministerraad voor beraad en besluitvorming betreffende het beleidsterrein; – het voeren van of het leveren van bijdragen aan het overleg met het Staatshoofd betreffende het beleidsterrein; – het voorbereiden van de Memorie van Toelichting op de rijksbegroting; – het toetsen van de uitvoering van het beleid (evaluatie); – het leveren van commentaar op de rechts- en doelmatigheidscontrole van de Algemene Rekenkamer op het beleidsterrein; zie hiervoor echter ook PIVOT-rapport nr. 15, *Per slot van rijksrekening*, handeling 295, 357 en 374; – het aan een externe adviescommissie verzoeken om advies betreffende het beleidsterrein; – het informeren (voorlichten) van het Kabinet van de Koningin over ontwikkelingen op het beleidsterrein; – het voorbereiden en vaststellen van het voorlichtingsbeleid. Waardering: B 1  
+Handeling: Het voorbereiden, mede vaststellen, coördineren en evalueren van het beleid inzake het accountantswezen. Periode: (1940) 1945– Opmerking: Onder deze handeling valt ook: – het voeren van overleg met de andere betrokken actoren op het beleidsterrein; – het voorbereiden van een in te brengen standpunt in de vergaderingen van de Ministerraad voor beraad en besluitvorming betreffende het beleidsterrein; – het voeren van of het leveren van bijdragen aan het overleg met het Staatshoofd betreffende het beleidsterrein; – het voorbereiden van de Memorie van Toelichting op de rijksbegroting; – het toetsen van de uitvoering van het beleid (evaluatie); – het leveren van commentaar op de rechts- en doelmatigheidscontrole van de Algemene Rekenkamer op het beleidsterrein; zie hiervoor echter ook PIVOT-rapport nr. 15, *Per slot van rijksrekening*, handeling 295, 357 en 374; – het aan een externe adviescommissie verzoeken om advies betreffende het beleidsterrein; – het informeren (voorlichten) van het Kabinet van de Koningin over ontwikkelingen op het beleidsterrein; – het voorbereiden en vaststellen van het voorlichtingsbeleid. Waardering: B 1 
 
 #### *9.2. Actor: Economische Controledienst ( (1985) 1999–)* 
 
 ###(33.)
 
-Handeling: Het opsporen van onjuiste of onvolledige mededelingen in het Handelsregister. Periode: (1985) 1999– Grondslag: Wet op de Economische Delicten (*Stb.* 1950, K258) (*Stb.* 1951, 91) (*Stb.* 1951, 214) Product: Proces-verbaal Waardering: V 10 jaar  
+Handeling: Het opsporen van onjuiste of onvolledige mededelingen in het Handelsregister. Periode: (1985) 1999– Grondslag: Wet op de Economische Delicten (*Stb.* 1950, K258) (*Stb.* 1951, 91) (*Stb.* 1951, 214) Product: Proces-verbaal Waardering: V 10 jaar 
 
 ####10. Actoren onder de zorg van de Minister van Justitie
 
@@ -957,13 +957,13 @@ Handeling: Het goedkeuren van de beschikking van de Minister van Economische Zak
 Handeling: Het geven van nadere voorschriften over de rechtsgang bij de raden van tucht voor registeraccountants en accountants-administratieconsulenten. Periode: 1993– Grondslag: Wet op de accountants-administratieconsulenten 1993 (*Stb.* 1993, 469), art. 67.1 Product: Algemene maatregelen van bestuur Waardering: V, 10 jaar na wijziging of intrekking 
 ###(243.)
 
-Handeling: Het aanwijzen van ambtenaren die worden belast met het opsporen van de bij de Wet op de accountants-administratieconsulenten 1993 strafbaar gestelde feiten. Periode: 1993– Grondslag: Wet op de accountants-administratieconsulenten 1993 (*Stb.* 1993, 469), art. 99.1 Waardering: V 10 jaar na einde benoeming  
+Handeling: Het aanwijzen van ambtenaren die worden belast met het opsporen van de bij de Wet op de accountants-administratieconsulenten 1993 strafbaar gestelde feiten. Periode: 1993– Grondslag: Wet op de accountants-administratieconsulenten 1993 (*Stb.* 1993, 469), art. 99.1 Waardering: V 10 jaar na einde benoeming 
 
 #### *10.2. Actor: Raad van Beroep voor Registeraccountants* 
 
 ###(110.)
 
-Handeling: Het beslissen in een beroep tegen de uitspraak van het bestuur over de indeling van een accountant in een contributieklasse. Periode: 1968–2002 Grondslag: Verordening kostenvergoedingen NIVRA (*Stcrt.* 1968, 56), art. 13 Opmerking: De Raad van Beroep is na wijziging van de Wet op de rechterlijke organisatie in 2002 verzelfstandigd. Waardering: V 10 jaar  
+Handeling: Het beslissen in een beroep tegen de uitspraak van het bestuur over de indeling van een accountant in een contributieklasse. Periode: 1968–2002 Grondslag: Verordening kostenvergoedingen NIVRA (*Stcrt.* 1968, 56), art. 13 Opmerking: De Raad van Beroep is na wijziging van de Wet op de rechterlijke organisatie in 2002 verzelfstandigd. Waardering: V 10 jaar 
 
 ####11. Actor onder de zorg van de Minister van Landbouw, Natuur en Voedselkwaliteit
 
@@ -971,7 +971,7 @@ Handeling: Het beslissen in een beroep tegen de uitspraak van het bestuur over d
 
 ###(168.)
 
-Handeling: Het adviseren van de Minister van Economische Zaken met betrekking tot de benoeming van leden van de Commissie voor toelating van accountants-administratieconsulenten. Periode: 1972–1994 Grondslag: Wet op de accountants-administratieconsulenten (*Stb.* 1972, 748), art. 68.2 Waardering: B 5  
+Handeling: Het adviseren van de Minister van Economische Zaken met betrekking tot de benoeming van leden van de Commissie voor toelating van accountants-administratieconsulenten. Periode: 1972–1994 Grondslag: Wet op de accountants-administratieconsulenten (*Stb.* 1972, 748), art. 68.2 Waardering: B 5 
 
 ####12. Actoren onder de zorg van de Minister van Onderwijs, Kunsten en Wetenschap
 
@@ -1000,7 +1000,7 @@ Handeling: Het instemmen met de benoeming van een voorzitter en plaatsvervangend
 Handeling: Het vaststellen van nadere regels met betrekking tot het accountantsexamen voor accountants-administratieconsulenten. Periode: 1974–1994 Grondslag: Wet op de accountants-administratieconsulenten (*Stb.* 1972, 748), art. 61, 62 Examenbesluit accountants-administratieconsulenten (*Stcrt.* 1974, 304), art. 10 Wet tot wijziging van de accountantswetgeving (Stb. 1986, 677), art. 80c.1, 80c.2 Examenbesluit accountants-administratieconsulenten (*Stcrt.* 1994, 86) Product Algemene maatregelen van bestuur, o.a.: Besluit Regels omtrent het accountantsexamen voor accountants-administratieconsulenten (Stb. 1987, 115) Examenbeschikking accountants-administratieconsulenten (*Stcrt.* 1974, 135) (*Stcrt.* 1986, 54) Regeling houdende vaststelling van het examengeld (*Stcrt.* 1974, 135) (*Stcrt.* 1986, 67) (*Stcrt.* 1989, 34) Opmerking Deze regels betreffen: – de eisen voor de toelating tot het afleggen van het examen; – de eisen voor het verkrijgen van vrijstelling voor bepaalde onderdelen van het examen; – de omvang van het examen; – de inrichting van het examen; – het vaststellen van het examengeld dat moet worden voldaan door hen die zich aan het accountantsexamen voor accountants-administratieconsulenten of bepaalde onderwerpen daarvan wensen te onderwerpen. De vastgestelde examengelden komen ten goede aan het rijk. Waardering: B 5 
 ###(190.)
 
-Handeling: Het goedkeuren van het examenprogramma van de examencommissie voor het accountantsexamen voor accountants-administratieconsulenten. Periode: 1987–1991 Grondslag: Besluit Regels omtrent het accountantsexamen voor accountants-administratieconsulenten (*Stb.* 1987, 115), art. 15.2 Waardering: V 10 jaar  
+Handeling: Het goedkeuren van het examenprogramma van de examencommissie voor het accountantsexamen voor accountants-administratieconsulenten. Periode: 1987–1991 Grondslag: Besluit Regels omtrent het accountantsexamen voor accountants-administratieconsulenten (*Stb.* 1987, 115), art. 15.2 Waardering: V 10 jaar 
 
 #### *12.2. Actor: Curatorium voor de opleiding van accountants (1967–1993)* 
 
@@ -1022,7 +1022,7 @@ Handeling: Het stellen van nadere richtlijnen voor de toelating van kandidaten v
 Handeling: Het uitoefenen van toezicht op de accountantsexamens. Periode: 1967–1993 Grondslag: Wet op de registeraccountants (*Stb.* 1962, 258), art. 79 Waardering: V 5 jaar 
 ###(146.)
 
-Handeling: Het jaarlijks uitbrengen van verslag aan de Minister van Economische Zaken en/of de Minister van Financiën en/of aan de Minister van Onderwijs, Kunsten en Wetenschappen. Periode: 1967–1993 Grondslag: Wet op de registeraccountants (*Stb.* 1962, 258), art. 80.2 Waardering: B 3  
+Handeling: Het jaarlijks uitbrengen van verslag aan de Minister van Economische Zaken en/of de Minister van Financiën en/of aan de Minister van Onderwijs, Kunsten en Wetenschappen. Periode: 1967–1993 Grondslag: Wet op de registeraccountants (*Stb.* 1962, 258), art. 80.2 Waardering: B 3 
 
 ####13. Actor onder de zorg van het College van Beroep voor het Bedrijfsleven
 
@@ -1042,7 +1042,7 @@ Handeling: Het beschikken op een beroep tegen een uitspraak van een van de raden
 Handeling: Het beschikken op een beroep tegen een uitspraak van de Raad van Tucht van Registeraccountants en Accountants-administratieconsulenten. Periode: 1994– Grondslag: Wet op de accountants-administratieconsulenten (*Stb.* 1972, 748), art. 70–79 Opmerking: Tegen een beslissing van een Raad van Tucht van Registeraccountants en Accountants-administratieconsulenten kan binnen twee maanden beroep worden ingesteld door de klager, de accountant of het bestuur van de beide ordes NIVRA en NOvAA. Het college kan een beroep niet ontvankelijk of ongegrond verklaren. Hiertegen kan door appellant verzet worden aangetekend. Als het verzet gegrond wordt verklaard of het beroep toegankelijk, houdt het college een rechtsgang. Het college kan, indien het beroep krachtens zijn uitspraak gegrond is verklaard, de zaak zelf afdoen of opnieuw verwijzen naar de Raad van Tucht. Waardering: B 5 
 ###(242.)
 
-Handeling: Het beschikken op een ingesteld beroep tegen een uitspraak van een raad van tucht voor registeraccountants en accountants-administratieconsulenten. Periode: 1993– Grondslag: Wet op de accountants-administratieconsulenten 1993 (Stb. 1993, 469), art. 68–79 Opmerking: Beroep kan worden ingesteld door de betrokken accountant, door de klager of door het bestuur van de NOvAA. Waardering: B 5  
+Handeling: Het beschikken op een ingesteld beroep tegen een uitspraak van een raad van tucht voor registeraccountants en accountants-administratieconsulenten. Periode: 1993– Grondslag: Wet op de accountants-administratieconsulenten 1993 (Stb. 1993, 469), art. 68–79 Opmerking: Beroep kan worden ingesteld door de betrokken accountant, door de klager of door het bestuur van de NOvAA. Waardering: B 5 
 
 ####14. Actoren onder de Zorg van de NOvAA
 
@@ -1094,7 +1094,7 @@ Handeling: Het verlenen van ontheffingen op basis van de regelgeving van de NOvA
 Handeling: Het door het bestuur van de NOvAA beheren van het vermogen van de NOvAA Periode: 1994– Bron: WAA, art. 22 Waardering: V, 7 jaar 
 ###(336.)
 
-Handeling: Het voorbereiden, vaststellen en uitvoeren van voorlichtingsactiviteiten ten aanzien van (het beroep) Accountants-Administratieconsulenten Periode : (1981–) 1994– Bron: WAA, art. 2, lid 3 Producten: Brochures, Voorlichtingsmateriaal Waardering: V 10 jaar; 1 exemplaar eindproduct B5  
+Handeling: Het voorbereiden, vaststellen en uitvoeren van voorlichtingsactiviteiten ten aanzien van (het beroep) Accountants-Administratieconsulenten Periode : (1981–) 1994– Bron: WAA, art. 2, lid 3 Producten: Brochures, Voorlichtingsmateriaal Waardering: V 10 jaar; 1 exemplaar eindproduct B5 
 
 #### *14.1.2. Interne organisatie* 
 
@@ -1139,7 +1139,7 @@ Handeling: Het (jaarlijks) (alleen of in samenwerking met anderen) organiseren v
 Handeling: Het (doen) samenstellen van een orgaan (verenigings-/vaktijdschrift) ten behoeve van de leden, studerenden en andere belangstellenden door het bestuur van de NOvAA Periode: (1967–) 1994– Bron: Verordening op het Bestuur, art. 6, lid 1a Waardering: V 5 jaar; 1 exemplaar eindproduct B 5 
 ###(221.)
 
-Handeling: Het periodiek informeren van de leden omtrent organisatorische en andere voor hen van belang zijnde zaken door het bestuur van de NOvAA Periode: 1994– Bron: Verordening op het Bestuur, art. 6, lid 2 Waardering: V 5 jaar; 1 exemplaar eindproduct B 5  
+Handeling: Het periodiek informeren van de leden omtrent organisatorische en andere voor hen van belang zijnde zaken door het bestuur van de NOvAA Periode: 1994– Bron: Verordening op het Bestuur, art. 6, lid 2 Waardering: V 5 jaar; 1 exemplaar eindproduct B 5 
 
 #### *14.1.3. Register van AA Accountants* 
 
@@ -1151,7 +1151,7 @@ Handeling: Het door het bestuur van de NOvAA inschrijven van Accountants-Adminis
 Handeling: Het door het bestuur van de NOvAA doorhalen van inschrijvingen van Accountants-Administratieconsulenten Periode: 1994– Bron: WAA 1993, art. 48 Waardering: V 70 jaar na eerste inschrijving 
 ###(223.)
 
-Handeling: Het verstrekken van inlichtingen uit het register van Accountants-Administratieconsulenten door het bestuur van de NOvAA Periode: 1994– Bron: WAA 1993, art. 37 Waardering: V 1 jaar  
+Handeling: Het verstrekken van inlichtingen uit het register van Accountants-Administratieconsulenten door het bestuur van de NOvAA Periode: 1994– Bron: WAA 1993, art. 37 Waardering: V 1 jaar 
 
 #### *14.1.4. Beslechting van geschillen* 
 
@@ -1181,7 +1181,7 @@ Handeling: Het indienen van een klacht tegen een Accountant-Administratieconsule
 Handeling: Het door het bestuur van de NOvAA ten uitvoer leggen van beslissingen van de Raad van tucht tegen Accountants-Administratieconsulenten Periode: 1994– Bron: WAA, art. 53, lid 2 Opmerking: De beslissingen worden verwerkt in het ledenregister. Zie handelingennrs. 241 en 243 Waardering: V 10 jaar 
 ###(239.)
 
-Handeling: Het door het bestuur van de NOvAA instellen van beroep bij het College van beroep tegen een beslissing van de Raad van tucht ten aanzien van een tegen een Accountant-Administratieconsulent gerezen bezwaar Periode: 1993– Bron: WAA, art. 68 Opmerking: De beslissingen worden verwerkt in het ledenregister. Zie handelingennrs. 241 en 243. Waardering: V 10 jaar  
+Handeling: Het door het bestuur van de NOvAA instellen van beroep bij het College van beroep tegen een beslissing van de Raad van tucht ten aanzien van een tegen een Accountant-Administratieconsulent gerezen bezwaar Periode: 1993– Bron: WAA, art. 68 Opmerking: De beslissingen worden verwerkt in het ledenregister. Zie handelingennrs. 241 en 243. Waardering: V 10 jaar 
 
 #### *14.1.5. Opleiding en Deskundigheidsbevordering* 
 
@@ -1217,7 +1217,7 @@ Handeling: Het door de NOvAA doen verzorgen van bijscholing voor Accountants-Adm
 Handeling: Het voordragen van leden voor de examencommissie voor het accountantsexamen voor accountants-administratieconsulenten. Periode: 1987–1991 Grondslag: Besluit Regels omtrent het accountantsexamen voor accountants-administratieconsulenten (*Stb.* 1987, 115), art. 14.1 Product: Opmerking: De NIVRA en de NOvAA dragen beide 4 leden voor de examencommissie voor, alsmede gezamenlijk 1 voorzitter. De examencommissie bestaat uit 9 leden. Waardering: V, 5 jaar 
 ###(269.)
 
-Handeling: Het vaststellen van het opleidings- en examengeld dat de deelnemers vooraf dienen te voldoen. Periode: 1993 Grondslag: Wet op de registeraccountants en accountants-administratieconsulenten (*Stb.* 1993, 465), artikel IV Overgangsbepalingen wet op de accountants-administratieconsulenten, art. 10 Waardering: V, 10 jaar  
+Handeling: Het vaststellen van het opleidings- en examengeld dat de deelnemers vooraf dienen te voldoen. Periode: 1993 Grondslag: Wet op de registeraccountants en accountants-administratieconsulenten (*Stb.* 1993, 465), artikel IV Overgangsbepalingen wet op de accountants-administratieconsulenten, art. 10 Waardering: V, 10 jaar 
 
 #### *14.2. Actor: Commissie voor de toelating van accountants-administratieconsulenten* 
 
@@ -1226,19 +1226,19 @@ Handeling: Het vaststellen van het opleidings- en examengeld dat de deelnemers v
 Handeling: Het onderzoeken van de bij haar ingeschreven aanvragen en het eventueel horen van bepaalde personen in dit verband. Periode: 1972–1994 Grondslag: Wet op de accountants-administratieconsulenten (*Stb.* 1972, 748), art. 69.1 Waardering: V 5 jaar 
 ###(354.)
 
-Handeling: Het adviseren over beleid inzake het beroep Accountant-Administratieconsulent Periode: 1972–1994 Waardering: B 1  
+Handeling: Het adviseren over beleid inzake het beroep Accountant-Administratieconsulent Periode: 1972–1994 Waardering: B 1 
 
 #### *14.3. Actor: Commissie van Beroep* 
 
 ###(164.)
 
-Handeling: Het beschikken op een beroep tegen beslissingen van de Commissie voor inschrijving voor accountants-administratieconsulenten. Periode: 1972–1994 Grondslag: Wet op de accountants-administratieconsulenten (*Stb.* 1972, 748), art. 18.2 Waardering: V 10 jaar  
+Handeling: Het beschikken op een beroep tegen beslissingen van de Commissie voor inschrijving voor accountants-administratieconsulenten. Periode: 1972–1994 Grondslag: Wet op de accountants-administratieconsulenten (*Stb.* 1972, 748), art. 18.2 Waardering: V 10 jaar 
 
 #### *14.4. Actor: Commissie voor de inschrijving van accountants-administratieconsulenten* 
 
 ###(162.)
 
-Handeling: Het inschrijven en doorhalen van de namen van Accountants-administratieconsulenten Periode: 1972–1993 Bron: WAA, art. 7, lid 2, art. 15; Overgangsregeling inschrijving in het accountantsregister art. 3, lid 2 Opmerkingen: De leden werden gekozen uit de Raad AA. De NOvAA voerde deze handeling uit voor het Ministerie van Economische Zaken. Producten: Register (digitaal in K-cursus), publicaties *Stcrt.* Waardering: V 70 jaar na de eerste inschrijving 
+Handeling: Het inschrijven en doorhalen van de namen van Accountants-administratieconsulenten Periode: 1972–1993 Bron: WAA, art. 7, lid 2, art. 15; Overgangsregeling inschrijving in het accountantsregister art. 3, lid 2 Opmerkingen: De leden werden gekozen uit de Raad AA. De NOvAA voerde deze handeling uit voor het Ministerie van Economische Zaken. Producten: Register (digitaal in K-cursus), publicaties *Stcrt.*  Waardering: V 70 jaar na de eerste inschrijving 
 ###(163.)
 
 Handeling: Het beslissen op een schriftelijke ingediende aanvraag om inschrijving in het accountantsregister. Periode: 1972–1994 Grondslag: Wet op de accountants-administratieconsulenten (*Stb.* 1972, 748), art. 13.1 Waardering: V 10 jaar 
@@ -1247,13 +1247,13 @@ Handeling: Het beslissen op een schriftelijke ingediende aanvraag om inschrijvin
 Handeling: Het innen van de jaarlijkse contributie (*retributie*) van Accountants-administratieconsulenten Periode: 1987–1993 Bron: WAA, art. 7a, lid 2–3 Producten: Facturen, creditnota’s Waardering: V 7 jaar 
 ###(350.)
 
-Handeling: Het verstrekken van informatie over de ingeschreven Accountants-adminstratieconsulenten Periode: 1972–1993 Bron: WAA, art. 7, lid 2, 15 Producten: Brieven Waardering: V 1 jaar  
+Handeling: Het verstrekken van informatie over de ingeschreven Accountants-adminstratieconsulenten Periode: 1972–1993 Bron: WAA, art. 7, lid 2, 15 Producten: Brieven Waardering: V 1 jaar 
 
 #### *14.5. Actor: Ledenvergadering van de NOvAA* 
 
 ###(249.)
 
-Handeling: Het vaststellen van het examengeld. Periode: 1994– Grondslag: Wet op de accountants-administratieconsulenten 1993 (Stb. 1993, 469), art. 83.1 Product: Verordeningen Waardering: V, 10 jaar  
+Handeling: Het vaststellen van het examengeld. Periode: 1994– Grondslag: Wet op de accountants-administratieconsulenten 1993 (Stb. 1993, 469), art. 83.1 Product: Verordeningen Waardering: V, 10 jaar 
 
 #### *14.6. Actor: Raad voor accountants-administratieconsulenten* 
 
@@ -1265,19 +1265,19 @@ Handeling: Het door de Raad van Accountants-administratieconsulenten jaarlijks i
 Handeling: Het adviseren van de Minister van Economische Zaken inzake de goede beroepsuitoefening van een goede Accountant-administratieconsulent Periode: 1972–1994 Bron: WAA art. 2, lid 2 Opmerkingen: De raad is een adviesorgaan en, in tegenstelling tot het NIVRA, geen publiekrechtelijk lichaam. Per koninklijk besluit van 26 juni 1974 (*Stcrt.* 130) werden voor de eerste keer de voorzitter en de leden benoemd. Waardering: B 1 
 ###(349.)
 
-Handeling: Het uitoefenen van toezicht door de Raad van Accountants-administratieconsulenten op instellingen voor de opleiding van Accountants AA Periode : 1972–1994 Bron: WAA, art. 2, lid 3 Product: o.a. jaarverslagen Opmerkingen: Op straffe van een geldboete was iedere instelling die personen opleidt voor het examen van Accountants AA verplicht hiervan kennis te geven aan de raad en haar een goed inzicht te geven in de aard van de opleiding en de verstrekte kennis. Ook als deze opleiding werd gewijzigd, moest ze worden aangemeld. Waardering: Jaarverslagen: B 5 Overige neerslag: V, 5 jaar  
+Handeling: Het uitoefenen van toezicht door de Raad van Accountants-administratieconsulenten op instellingen voor de opleiding van Accountants AA Periode : 1972–1994 Bron: WAA, art. 2, lid 3 Product: o.a. jaarverslagen Opmerkingen: Op straffe van een geldboete was iedere instelling die personen opleidt voor het examen van Accountants AA verplicht hiervan kennis te geven aan de raad en haar een goed inzicht te geven in de aard van de opleiding en de verstrekte kennis. Ook als deze opleiding werd gewijzigd, moest ze worden aangemeld. Waardering: Jaarverslagen: B 5 Overige neerslag: V, 5 jaar 
 
 #### *14.7. Actor: Stichting Beroepsopleiding NOvAA* 
 
 ###(287.)
 
-Handeling: Het opleiden van aspirant Accountants-Administratieconsulenten voor het diploma AA (oude stijl) Periode: 1988–1993 Bron: Irene Hessels, *NOvAA 1948/1998, van accountantsvereniging tot beroepsorganisatie*, 1998; blz. 120 Opmerkingen: De Stichting Beroepsopleiding is samen met de Stichting VEDAA in 1993 opgegaan in de publiekrechtelijke beroepsorganisatie NOvAA. Waardering: V 5 jaar  
+Handeling: Het opleiden van aspirant Accountants-Administratieconsulenten voor het diploma AA (oude stijl) Periode: 1988–1993 Bron: Irene Hessels, *NOvAA 1948/1998, van accountantsvereniging tot beroepsorganisatie*, 1998; blz. 120 Opmerkingen: De Stichting Beroepsopleiding is samen met de Stichting VEDAA in 1993 opgegaan in de publiekrechtelijke beroepsorganisatie NOvAA. Waardering: V 5 jaar 
 
 #### *14.8. Actor: Stichting Voortgezette Educatie Accountants-Administratieconsulenten (VEDAA)* 
 
 ###(286.)
 
-Handeling: Het doen verzorgen van bijscholing voor Accountants-Administratieconsulenten Periode: 1981–1993 Bron: Irene Hessels, *NOvAA 1948/1998, van accountantsvereniging tot beroepsorganisatie*, 1998; blz. 19 Opmerkingen: De Stichting Beroepsopleiding is samen met de Stichting VEDAA in 1993 opgegaan in de publiekrechtelijke beroepsorganisatie NOvAA. Waardering: V 5 jaar  
+Handeling: Het doen verzorgen van bijscholing voor Accountants-Administratieconsulenten Periode: 1981–1993 Bron: Irene Hessels, *NOvAA 1948/1998, van accountantsvereniging tot beroepsorganisatie*, 1998; blz. 19 Opmerkingen: De Stichting Beroepsopleiding is samen met de Stichting VEDAA in 1993 opgegaan in de publiekrechtelijke beroepsorganisatie NOvAA. Waardering: V 5 jaar 
 
 #### *14.9. Actor: Examencommissie voor het examen voor accountants-administratieconsulenten* 
 
@@ -1295,7 +1295,7 @@ Handeling: Het aankondigen, afnemen en beoordelen van het accountantsexamen voor
 Handeling: Het beslissen op een verzoek van een kandidaat om vrijstelling van een onderdeel van het accountantsexamen voor accountants-administratieconsulenten. Periode: 1987–1991 Grondslag: Besluit Regels omtrent het accountantsexamen voor accountants-administratieconsulenten (*Stb.* 1987, 115), art. 20 Opmerking: De kandidaat moet hiertoe een bewijs overleggen waaruit eenzelfde kennis blijkt als die welke blijkt uit het met goed gevolg afgelegd hebben van het desbetreffende onderdeel. Waardering: V 10 jaar 
 ###(352.)
 
-Handeling: Het door de Examencommissie doen afnemen van jaarlijkse examens voor Accountants-Administratieconsulenten Periode: 1972–1994 Bron: Examenbesluit AA passim; Examenbeschikkingen Opmerkingen: Bij deze handeling is inbegrepen: – Het vaststellen van de examendata; – Het aanstellen van surveillanten en correctoren; – Het rapporteren van onregelmatigheden aan de minister; – Het beheren van het archief; – Het toezenden van de resultaten aan de minister. Waardering: V, 20 jaar na slaging student  
+Handeling: Het door de Examencommissie doen afnemen van jaarlijkse examens voor Accountants-Administratieconsulenten Periode: 1972–1994 Bron: Examenbesluit AA passim; Examenbeschikkingen Opmerkingen: Bij deze handeling is inbegrepen: – Het vaststellen van de examendata; – Het aanstellen van surveillanten en correctoren; – Het rapporteren van onregelmatigheden aan de minister; – Het beheren van het archief; – Het toezenden van de resultaten aan de minister. Waardering: V, 20 jaar na slaging student 
 
 #### *14.10. Actor: Commissie van advies inzake het examen voor Accountants-administratieconsulenten* 
 
@@ -1304,7 +1304,7 @@ Handeling: Het door de Examencommissie doen afnemen van jaarlijkse examens voor 
 Handeling: Het door de Commissie van advies inzake het examen voor Accountants-administratieconsulenten jaarlijks informeren van de Minister van Economische Zaken over haar bevindingen inzake het examen Periode: 1972–1994 Bron: Examenbesluit AA, art. 6, lid 3 Waardering: B 3 
 ###(353.)
 
-Handeling: Het door de Commissie van advies inzake het examen voor Accountants-administratieconsulenten verlenen van bijstand aan de Examencommissie bij het uitvoeren van haar werkzaamheden Periode: 1972–1994 Bron: WAA, art. 61 juncto art. 6 Examenbesluit AA Waardering: V 10 jaar  
+Handeling: Het door de Commissie van advies inzake het examen voor Accountants-administratieconsulenten verlenen van bijstand aan de Examencommissie bij het uitvoeren van haar werkzaamheden Periode: 1972–1994 Bron: WAA, art. 61 juncto art. 6 Examenbesluit AA Waardering: V 10 jaar 
 
 #### *14.11. Actor: Examenbureau AA* 
 
@@ -1340,7 +1340,7 @@ Handeling: Het doen afnemen door het Examenbureau AA van toelatingstoetsen voor 
 Handeling: Het door het Examenbureau AA vaststellen van tentameneisen en van de geldigheidsduur van met goed gevolg afgelegde tentamens Periode: 1994– Overlegkader: Curatorium Bron: Examenbesluit AA 1994, art. 5–6 Waardering: V 10 jaar na wijziging van de tentameneisen 
 ###(265.)
 
-Handeling: Het door het examenbureau AA geven van vrijstellingen voor tentamens van het theoretische gedeelte van het examen voor Accountants-Administratieconsulenten en voor vakken in het praktijkgedeelte Periode: 1994– Bron: Examenbesluit AA 1994, art. 7, 13 Waardering: V 10 jaar  
+Handeling: Het door het examenbureau AA geven van vrijstellingen voor tentamens van het theoretische gedeelte van het examen voor Accountants-Administratieconsulenten en voor vakken in het praktijkgedeelte Periode: 1994– Bron: Examenbesluit AA 1994, art. 7, 13 Waardering: V 10 jaar 
 
 ####15. Actor onder de Zorg van de NIVRA
 
@@ -1350,10 +1350,10 @@ Handeling: Het door het examenbureau AA geven van vrijstellingen voor tentamens 
 
 ###(81.)
 
-Handeling: Het voorbereiden, mede vaststellen, coördineren en evalueren van het beleid inzake het accountantswezen. Periode: ((1940) 1945–) 1987– Grondslag: De Jager, *Inventaris van de archieven van het NIVRA* Opmerking: Onder deze handeling valt ook: – het voeren van overleg met de andere betrokken actoren op het beleidsterrein; – het gevraagd of in het belang van het accountantswezen voorbereiden van adviezen op andere beleidsterreinen in het belang van de controleerbaarheid van financiële bedrijfsvoering; – het toetsen van de uitvoering van het beleid (evaluatie); – het aan een externe adviescommissie verzoeken om advies betreffende het beleidsterrein; – het informeren (voorlichten) van de Minister van Economische Zaken over ontwikkelingen op het beleidsterrein; – het voorbereiden en vaststellen van het voorlichtingsbeleid. Waardering: B.1 
+Handeling: Het voorbereiden, mede vaststellen, coördineren en evalueren van het beleid inzake het accountantswezen. Periode: ((1940) 1945–) 1987– Grondslag: De Jager, *Inventaris van de archieven van het NIVRA*  Opmerking: Onder deze handeling valt ook: – het voeren van overleg met de andere betrokken actoren op het beleidsterrein; – het gevraagd of in het belang van het accountantswezen voorbereiden van adviezen op andere beleidsterreinen in het belang van de controleerbaarheid van financiële bedrijfsvoering; – het toetsen van de uitvoering van het beleid (evaluatie); – het aan een externe adviescommissie verzoeken om advies betreffende het beleidsterrein; – het informeren (voorlichten) van de Minister van Economische Zaken over ontwikkelingen op het beleidsterrein; – het voorbereiden en vaststellen van het voorlichtingsbeleid. Waardering: B.1 
 ###(82.)
 
-Handeling: Het voorbereiden van intern onderzoek en het vaststellen van onderzoeksrapporten betreffende het accountantswezen, alsmede het voorbereiden en begeleiden van extern onderzoek betreffende het accountantswezen. Periode: 1975– Grondslag: De Jager, *Inventaris van de archieven van het NIVRA* Waardering: B 1: eindproduct en offerte Overige neerslag: V, 10 jaar 
+Handeling: Het voorbereiden van intern onderzoek en het vaststellen van onderzoeksrapporten betreffende het accountantswezen, alsmede het voorbereiden en begeleiden van extern onderzoek betreffende het accountantswezen. Periode: 1975– Grondslag: De Jager, *Inventaris van de archieven van het NIVRA*  Waardering: B 1: eindproduct en offerte Overige neerslag: V, 10 jaar 
 ###(99.)
 
 Handeling: Het jaarlijks benoemen van bestuursleden. Periode: 1967– Grondslag: Wet op de registeraccountants (*Stb.* 1962, 258), art. 3.1 Waardering: V 7 jaar na administratieve afhandeling ontslag 
@@ -1392,7 +1392,7 @@ Handeling: Het instellen en ontbinden van commissies van bijstand, van leden-, g
 Handeling: Het instellen en stellen van regels voor het inrichten, in stand houden en gebruiken van een bibliotheek. Periode: 1967– Grondslag: Bestuursverordening (*Stcrt.* 1967, 215), art. 5 Opmerking: Deze handeling wordt verricht door het Bestuur. Waardering: V 7 jaar 
 ###(115.)
 
-Handeling: Het organiseren van jaarlijkse accountantsdagen. Periode: 1967– Grondslag: Bestuursverordening (*Stcrt.* 1967, 215), art. 6 Waardering: V, 10 jaar na congres 
+Handeling: Het organiseren van jaarlijkse accountantsdagen. Periode: 1967–  Grondslag: Bestuursverordening (*Stcrt.* 1967, 215), art. 6 Waardering: V, 10 jaar na congres 
 ###(116.)
 
 Handeling: Het redigeren van een verenigingstijdschrift. Periode: 1967– Grondslag: Bestuursverordening (*Stcrt.* 1967, 215), art. 7 Opmerking: Deze handeling wordt verricht door het Bestuur. Eén exemplaar van het tijdschrift blijft bewaard. Waardering: V 7 jaar 
@@ -1401,7 +1401,7 @@ Handeling: Het redigeren van een verenigingstijdschrift. Periode: 1967– Gronds
 Handeling: Het stellen van nadere regels ten behoeve van interne organen. Periode: 1967– Grondslag: Verordening op de ledenvergadering, Bestuursverordening en Kringverordening (alle in: *Stcrt.* 1967, 215) Product: Uitvoeringsregelingen Opmerking: Deze handeling wordt verricht door het Bestuur. Waardering: V 7 jaar na intrekking regels 
 ###(118.)
 
-Handeling: Het geven van nadere aanwijzingen inzake de beroepsuitoefening als accountant. Periode: 1967– Grondslag: Verordeningen NIVRA in: *Stcrt.* 1967, 215 en *Stcrt.* 1968, 12, 33, 56 Opmerking: Deze handeling wordt verricht door het Bestuur. Waardering: B 5  
+Handeling: Het geven van nadere aanwijzingen inzake de beroepsuitoefening als accountant. Periode: 1967– Grondslag: Verordeningen NIVRA in: *Stcrt.* 1967, 215 en *Stcrt.* 1968, 12, 33, 56 Opmerking: Deze handeling wordt verricht door het Bestuur. Waardering: B 5 
 
 #### *15.1.2. Toelating: register van registeraccountants onder NIVRA* 
 
@@ -1413,7 +1413,7 @@ Handeling: Het inschrijven van accountants in het accountantsregister, alsmede h
 Handeling: Het verstrekken van inlichtingen uit het register van accountants. Periode: 1967– Grondslag: Wet op de registeraccountants (*Stb.* 1962, 258), art. 56 Waardering: V 1 jaar 
 ###(121.)
 
-Handeling: Het beslissen in beroep tegen weigeringen van inschrijving in het accountantsregister of het niet ingaan op een aanvraag en tegen doorhalingen in het register. Periode: 1967–1994 Grondslag: Wet op de registeraccountants (*Stb.* 1962, 258), art. 66 Opmerking: Deze handeling wordt verricht door de Raad van Beroep. Waardering: V 7 jaar  
+Handeling: Het beslissen in beroep tegen weigeringen van inschrijving in het accountantsregister of het niet ingaan op een aanvraag en tegen doorhalingen in het register. Periode: 1967–1994 Grondslag: Wet op de registeraccountants (*Stb.* 1962, 258), art. 66 Opmerking: Deze handeling wordt verricht door de Raad van Beroep. Waardering: V 7 jaar 
 
 #### *15.1.3. Beslechting van geschillen NIVRA* 
 
@@ -1443,7 +1443,7 @@ Handeling: Het benoemen van leden van de Raad van beroep van het Nederlands Inst
 Vervallen. 
 ###(132.)
 
-Handeling: Het in beroep uitspraak doen op beslissingen van een Raad van Tucht van het Nederlands Instituut van Registeraccountants. Periode: 1967–1994 Grondslag: Wet op de registeraccountants (*Stb.* 1962, 258), art. 52–54 Product: Verordening op de tuchtrechtspraak (*Stcrt.* 1968, 33) Opmerking: Deze handeling wordt verricht door de Raad van Beroep. Tegen een beslissing van een raad van tucht op een tegen een registeraccountant ingediend bezwaar kan binnen twee maanden beroep worden ingesteld door de klager, de accountant of het bestuur van het NIVRA. Waardering: B 5  
+Handeling: Het in beroep uitspraak doen op beslissingen van een Raad van Tucht van het Nederlands Instituut van Registeraccountants. Periode: 1967–1994 Grondslag: Wet op de registeraccountants (*Stb.* 1962, 258), art. 52–54 Product: Verordening op de tuchtrechtspraak (*Stcrt.* 1968, 33) Opmerking: Deze handeling wordt verricht door de Raad van Beroep. Tegen een beslissing van een raad van tucht op een tegen een registeraccountant ingediend bezwaar kan binnen twee maanden beroep worden ingesteld door de klager, de accountant of het bestuur van het NIVRA. Waardering: B 5 
 
 #### *15.1.4. Accountantsexamens voor registeraccountants* 
 
@@ -1461,7 +1461,7 @@ Handeling: Het vergoeden van personeels- en materiële kosten van het examenbure
 Handeling: Het (doen) verzorgen van de opleiding van registeraccountants. Periode: 1979– Grondslag: NIVRA Verordening op de opleiding (*Stcrt.* 1979, 250) Product: bijvoorbeeld agenda’s, notulen, vergaderstukken, literatuurlijsten Opmerking: Deze handeling wordt verricht door het Algemeen Bestuur Onderwijs van het NIVRA Waardering: B 5: stukken Algemeen Bestuur Opleiding NOvAA (ABON) (agenda’s, notulen, vergaderstukken, verslagen) Overige neerslag (o.a. stukken Dagelijks Bestuur Opleiding NOvAA (DBON)): V, 7 jaar 
 ###(189.)
 
-Handeling: Het voordragen van leden voor de examencommissie voor het accountantsexamen voor accountants-administratieconsulenten. Periode: 1987–1991 Grondslag: Besluit Regels omtrent het accountantsexamen voor accountants-administratieconsulenten (*Stb.* 1987, 115), art. 14.1 Opmerking: De NIVRA en de NOvAA dragen beide 4 leden voor de examencommissie voor, alsmede gezamenlijk 1 voorzitter. De examencommissie bestaat uit 9 leden. Waardering: V 7 jaar  
+Handeling: Het voordragen van leden voor de examencommissie voor het accountantsexamen voor accountants-administratieconsulenten. Periode: 1987–1991 Grondslag: Besluit Regels omtrent het accountantsexamen voor accountants-administratieconsulenten (*Stb.* 1987, 115), art. 14.1 Opmerking: De NIVRA en de NOvAA dragen beide 4 leden voor de examencommissie voor, alsmede gezamenlijk 1 voorzitter. De examencommissie bestaat uit 9 leden. Waardering: V 7 jaar 
 
 ####16. Actoren onder de Zorg van het Octrooicentrum Nederland
 
@@ -1469,11 +1469,11 @@ Handeling: Het voordragen van leden voor de examencommissie voor het accountants
 
 ###(310.)
 
-Handeling: Het verzoeken aan een octrooigemachtigde om zijn inschrijvingsbewijs te tonen. Periode: (1912) 1945–2004 Grondslag: Octrooigemachtigdenreglement 1936 (*Stb.* 1936, 642), art. 7.1 sub e Opmerking: Weigering van dit verzoek kan leiden tot schrapping uit het register. Waardering: V 5 jaar  
+Handeling: Het verzoeken aan een octrooigemachtigde om zijn inschrijvingsbewijs te tonen. Periode: (1912) 1945–2004 Grondslag: Octrooigemachtigdenreglement 1936 (*Stb.* 1936, 642), art. 7.1 sub e Opmerking: Weigering van dit verzoek kan leiden tot schrapping uit het register. Waardering: V 5 jaar 
 
 #### *16.2. Actor: Octrooicentrum nederland (2004–)* 
 
 ###(353.)
 
-Handeling: Het verzoeken aan een octrooigemachtigde om zijn inschrijvingsbewijs te tonen. Periode: 2004– Grondslag: Octrooigemachtigdenreglement 1936 (*Stb.* 1936, 642), art. 7.1 sub e Opmerking: Weigering van dit verzoek kan leiden tot schrapping uit het register. Waardering: V 5 jaar  
+Handeling: Het verzoeken aan een octrooigemachtigde om zijn inschrijvingsbewijs te tonen. Periode: 2004– Grondslag: Octrooigemachtigdenreglement 1936 (*Stb.* 1936, 642), art. 7.1 sub e Opmerking: Weigering van dit verzoek kan leiden tot schrapping uit het register. Waardering: V 5 jaar 
 

@@ -17,17 +17,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *Bank:* De Nederlandsche Bank N.V.;  
+a.  *Bank:* De Nederlandsche Bank N.V.;  
 
-b. *Wet:*[Pensioenwet BES](../../../../../../wet-BES/pensioenwet/bes/BWBR0028712/README.md);  
+b.  *Wet:* [Pensioenwet BES](../../../../../../wet-BES/pensioenwet/bes/BWBR0028712/README.md);  
 
-c. *Besluit:*[Besluit Pensioenwet BES](../../../../../../AMvB-BES/besluit/pensioenwet/bes/BWBR0028316/README.md).    
+c.  *Besluit:* [Besluit Pensioenwet BES](../../../../../../AMvB-BES/besluit/pensioenwet/bes/BWBR0028316/README.md).   
 
 ### Artikel  1.2  
 
 ####Reikwijdte
 
-Deze regeling is van toepassing op pensioenfondsen als bedoeld in [artikel 1 van de Wet](../../../../../../wet-BES/pensioenwet/bes/BWBR0028712/README.md) die hun zetel hebben in de openbare lichamen Bonaire, Sint Eustatius of Saba.  
+Deze regeling is van toepassing op pensioenfondsen als bedoeld in [artikel 1 van de Wet](../../../../../../wet-BES/pensioenwet/bes/BWBR0028712/README.md) die hun zetel hebben in de openbare lichamen Bonaire, Sint Eustatius of Saba. 
 
 ### Hoofdstuk  2  
 
@@ -37,7 +37,7 @@ Deze regeling is van toepassing op pensioenfondsen als bedoeld in [artikel 1 va
 
 ####Modellen
 
-Met inachtneming van de artikelen 2.2 en  2.3 en voor zover van toepassing verstrekt een pensioenfonds aan de Bank de volgende gegevens, door middel van de volgende modellen van staten als bedoeld in bijlage 1: 
+Met inachtneming van de artikelen 2.2 en 2.3 en voor zover van toepassing verstrekt een pensioenfonds aan de Bank de volgende gegevens, door middel van de volgende modellen van staten als bedoeld in bijlage 1: 
 
 a. het model van staat K101: gegevens betreffende de dekkingsgraad, als bedoeld in [artikel 34, eerste lid, onderdeel f, van het Besluit](../../../../../../AMvB-BES/besluit/pensioenwet/bes/BWBR0028316/README.md);  
 
@@ -49,14 +49,14 @@ d. het model van staten K500 tot en met K502: gegevens betreffende de toepassing
 
 e. het model van staat K601: indexatiegegevens, als bedoeld in [artikel 34, eerste lid, onderdeel h, onder 3°, van het Besluit](../../../../../../AMvB-BES/besluit/pensioenwet/bes/BWBR0028316/README.md); en  
 
-f. het model van staat K602: gegevens betreffende de kenmerken van de door het pensioenfonds uitgevoerde pensioenregeling of pensioenregelingen, als bedoeld in [artikel 34, eerste lid, onderdeel j, onder 1°, en onderdeel  *p*, en tweede lid, onderdelen a en c, van het Besluit](../../../../../../AMvB-BES/besluit/pensioenwet/bes/BWBR0028316/README.md).    
+f. het model van staat K602: gegevens betreffende de kenmerken van de door het pensioenfonds uitgevoerde pensioenregeling of pensioenregelingen, als bedoeld in [artikel 34, eerste lid, onderdeel j, onder 1°, en onderdeel *p*, en tweede lid, onderdelen a en c, van het Besluit](../../../../../../AMvB-BES/besluit/pensioenwet/bes/BWBR0028316/README.md).   
 
 ### Artikel  2.2  
 
 ####Regels met betrekking tot de gegevensverstrekking
 
 1.  Voor wat betreft de kwartaalstaten zijn de regels met betrekking tot de reikwijdte en de mate van detaillering van de te verstrekken gegevens, de waardering van de posten, de te hanteren rekeneenheid en de afronding, bedoeld in [artikel 36, aanhef en onderdelen b tot en met e, van het Besluit](../../../../../../AMvB-BES/besluit/pensioenwet/bes/BWBR0028316/README.md) gesteld in de in bijlage 1 opgenomen modellen van de kwartaalstaten.   
-2.  De voor de kwartaalstaten te hanteren valuta, bedoeld in [artikel 36, onderdeel *d*, van het Besluit](../../../../../../AMvB-BES/besluit/pensioenwet/bes/BWBR0028316/README.md), is de dollar (USD).   
+2.  De voor de kwartaalstaten te hanteren valuta, bedoeld in [artikel 36, onderdeel *d*, van het Besluit](../../../../../../AMvB-BES/besluit/pensioenwet/bes/BWBR0028316/README.md), is de dollar (USD).  
 
 ### Artikel  2.3  
 
@@ -75,7 +75,7 @@ d. staten K500 tot en met K502, gegevens betreffende de toepassing van een herst
 e. staat K601, indexatiegegevens: elk vierde kalenderkwartaal;  
 
 f. staat K602, gegevens betreffende de kenmerken van de door het pensioenfonds uitgevoerde pensioenregeling of pensioenregelingen: elk vierde kalenderkwartaal; of, in geval van wijziging van de door het pensioenfonds uitgevoerde pensioenregeling of pensioenregelingen: elk kalenderkwartaal.     
-2.  Het fonds waarborgt dat de in artikel 2.1 bedoelde gegevens uiterlijk dertig werkdagen na afloop van het desbetreffende kalenderkwartaal zijn ontvangen door de Bank.   
+2.  Het fonds waarborgt dat de in artikel 2.1 bedoelde gegevens uiterlijk dertig werkdagen na afloop van het desbetreffende kalenderkwartaal zijn ontvangen door de Bank.  
 
 ### Hoofdstuk  3  
 
@@ -85,7 +85,7 @@ f. staat K602, gegevens betreffende de kenmerken van de door het pensioenfonds u
 
 ####Modellen
 
-Met inachtneming van de artikelen 3.2 en  3.3 en voor zover van toepassing verstrekt een pensioenfonds aan de Bank de volgende gegevens, door middel van de volgende modellen van staten als bedoeld in bijlage 2: 
+Met inachtneming van de artikelen 3.2 en 3.3 en voor zover van toepassing verstrekt een pensioenfonds aan de Bank de volgende gegevens, door middel van de volgende modellen van staten als bedoeld in bijlage 2: 
 
 a. het model van staten J101 tot en met J103: gegevens betreffende het fonds en zijn organisatie, als bedoeld in [artikel 34, eerste lid, onderdeel a, van het Besluit](../../../../../../AMvB-BES/besluit/pensioenwet/bes/BWBR0028316/README.md);  
 
@@ -119,7 +119,7 @@ o. het model van staten J801 en J802: gegevens betreffende herverzekering, als b
 
 p. het model van staat J901: gegevens betreffende de verplichtingen van het fonds voor risico van de deelnemers, als bedoeld in [artikel 34, eerste lid, onderdeel m, van het Besluit](../../../../../../AMvB-BES/besluit/pensioenwet/bes/BWBR0028316/README.md); en  
 
-q. het model van staat J902: gegevens betreffende de uitvoering van een VUT-regeling, als bedoeld in [artikel 34, eerste lid, onderdeel n, van het Besluit](../../../../../../AMvB-BES/besluit/pensioenwet/bes/BWBR0028316/README.md).    
+q. het model van staat J902: gegevens betreffende de uitvoering van een VUT-regeling, als bedoeld in [artikel 34, eerste lid, onderdeel n, van het Besluit](../../../../../../AMvB-BES/besluit/pensioenwet/bes/BWBR0028316/README.md).   
 
 ### Artikel  3.2  
 
@@ -129,14 +129,14 @@ q. het model van staat J902: gegevens betreffende de uitvoering van een VUT-rege
 2.  De voor de jaarstaten te hanteren valuta, bedoeld in [artikel 36, onderdeel d, van het Besluit](../../../../../../AMvB-BES/besluit/pensioenwet/bes/BWBR0028316/README.md), is de dollar (USD).   
 3.  De verzending van de schriftelijke controleverklaring van de externe deskundige, bedoeld in [artikel 37, tweede lid, van het Besluit](../../../../../../AMvB-BES/besluit/pensioenwet/bes/BWBR0028316/README.md), geschiedt door verzending aan de Bank van een afdruk van het ingevulde model van jaarstaat J103 als bedoeld in bijlage 2, voorzien van een handgeschreven handtekening van die externe deskundige. Waar in jaarstaat J103 of in andere staten wordt verwezen naar ‘accountant’ wordt voor de toepassing van deze regeling ‘externe deskundige’ gelezen.   
 4.  De verzending van de schriftelijke controleverklaring van de actuaris met betrekking tot de door hem gewaarmerkte staten, waaronder een actuarieel verslag, bedoeld in [artikel 37, derde lid, van het Besluit](../../../../../../AMvB-BES/besluit/pensioenwet/bes/BWBR0028316/README.md), geschiedt door verzending aan de Bank van een afdruk van het ingevulde model van jaarstaat J606 als bedoeld in bijlage 2, voorzien van een handgeschreven handtekening van die actuaris.   
-5.  De verzending van de schriftelijke controleverklaring, bedoeld in [artikel 37, vierde lid, van het Besluit](../../../../../../AMvB-BES/besluit/pensioenwet/bes/BWBR0028316/README.md), geschiedt door verzending aan de Bank van een afdruk van het ingevulde model van jaarstaat J104 als bedoeld in bijlage 2, voorzien van een handgeschreven handtekening van het bestuur.   
+5.  De verzending van de schriftelijke controleverklaring, bedoeld in [artikel 37, vierde lid, van het Besluit](../../../../../../AMvB-BES/besluit/pensioenwet/bes/BWBR0028316/README.md), geschiedt door verzending aan de Bank van een afdruk van het ingevulde model van jaarstaat J104 als bedoeld in bijlage 2, voorzien van een handgeschreven handtekening van het bestuur.  
 
 ### Artikel  3.3  
 
 ####Indieningstermijn en -frequentie
 
 1.  Een pensioenfonds verstrekt de in artikel 3.1 bedoelde gegevens eenmaal per kalenderjaar aan de Bank.   
-2.  Het fonds waarborgt dat de in artikel 3.1 bedoelde gegevens uiterlijk op 30 juni na afloop van het kalenderjaar waarop de staten betrekking hebben, zijn ontvangen door de Bank.   
+2.  Het fonds waarborgt dat de in artikel 3.1 bedoelde gegevens uiterlijk op 30 juni na afloop van het kalenderjaar waarop de staten betrekking hebben, zijn ontvangen door de Bank.  
 
 ### Hoofdstuk  4  
 
@@ -147,20 +147,20 @@ q. het model van staat J902: gegevens betreffende de uitvoering van een VUT-rege
 ####Overgangsbepaling
 
 1.  Gelet op [artikel 32, tweede lid, van de Wet](../../../../../../wet-BES/pensioenwet/bes/BWBR0028712/README.md) verstrekt een pensioenfonds de in artikel 3.1 bedoelde gegevens voor de periode vanaf 10 oktober 2010 tot en met 31 december 2010 tezamen met de gegevens over het kalenderjaar 2011.   
-2.  Gelet op [artikel 32, tweede lid, van de Wet](../../../../../../wet-BES/pensioenwet/bes/BWBR0028712/README.md) verstrekt een pensioenfonds de in artikel 2.1 bedoelde gegevens, met uitzondering van kwartaalstaat K401, voor de periode vanaf 10 oktober 2010 tot en met 31 december 2010 tezamen met de gegevens over het eerste kalenderkwartaal van 2011. Een pensioenfonds verstrekt de in kwartaalstaat K401 bedoelde premiegegevens, voor zover deze betrekking hebben op het lopende kalenderjaar 2011, uiterlijk op 31 maart 2011 aan de Bank.   
+2.  Gelet op [artikel 32, tweede lid, van de Wet](../../../../../../wet-BES/pensioenwet/bes/BWBR0028712/README.md) verstrekt een pensioenfonds de in artikel 2.1 bedoelde gegevens, met uitzondering van kwartaalstaat K401, voor de periode vanaf 10 oktober 2010 tot en met 31 december 2010 tezamen met de gegevens over het eerste kalenderkwartaal van 2011. Een pensioenfonds verstrekt de in kwartaalstaat K401 bedoelde premiegegevens, voor zover deze betrekking hebben op het lopende kalenderjaar 2011, uiterlijk op 31 maart 2011 aan de Bank.  
 
 ### Artikel  4.2  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de *Staatscourant* waarin zij wordt geplaatst en werkt terug tot en met 10 oktober 2010.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de *Staatscourant* waarin zij wordt geplaatst en werkt terug tot en met 10 oktober 2010. 
 
 ### Artikel  4.3  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling informatieverstrekking pensioenfondsen BES.  
-Deze regeling zal met de toelichting in de *Staatscourant* worden geplaatst, met uitzondering van de in de bijlagen 1 en  2 opgenomen kwartaalstaten en jaarstaten, die ter inzage worden gelegd bij de Bank en tevens door de Bank worden gepubliceerd op de website www.bes.dnb.nl/nl.   
+Deze regeling wordt aangehaald als: Regeling informatieverstrekking pensioenfondsen BES. 
+Deze regeling zal met de toelichting in de *Staatscourant* worden geplaatst, met uitzondering van de in de bijlagen 1 en 2 opgenomen kwartaalstaten en jaarstaten, die ter inzage worden gelegd bij de Bank en tevens door de Bank worden gepubliceerd op de website www.bes.dnb.nl/nl.   
 
 Amsterdam 
 2 maart 2011   
@@ -169,10 +169,10 @@ De Nederlandsche Bank N.V.,
 A.J. Kellermann,  
 directeur.   
 
-### Bijlage  1  
+###Bijlage 1 
 
-Ligt ter inzage bij De Nederlandsche Bank N.V. en is gepubliceerd op www.bes.dnb.nl/nl.  
+Ligt ter inzage bij De Nederlandsche Bank N.V. en is gepubliceerd op www.bes.dnb.nl/nl.
 
-### Bijlage  2  
+###Bijlage 2 
 
-Ligt ter inzage bij De Nederlandsche Bank N.V. en is gepubliceerd op www.bes.dnb.nl/nl.  
+Ligt ter inzage bij De Nederlandsche Bank N.V. en is gepubliceerd op www.bes.dnb.nl/nl.

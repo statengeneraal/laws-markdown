@@ -44,5 +44,5 @@ Den Haag
 15 maart 2011   
 
 De 
-staatssecretaris van Financiën,
-F.H.H.Weekers   
+staatssecretaris van Financiën, 
+F.H.H. Weekers     

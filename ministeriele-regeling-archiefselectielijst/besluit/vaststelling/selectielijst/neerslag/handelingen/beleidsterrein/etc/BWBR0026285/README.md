@@ -10,11 +10,11 @@ Besluit:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Universiteit van Amsterdam en de onder hem ressorterende actoren op het beleidsterrein Wetenschappelijk onderwijs over de periode 1985– ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Universiteit van Amsterdam en de onder hem ressorterende actoren op het beleidsterrein Wetenschappelijk onderwijs over de periode 1985–’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
@@ -23,8 +23,8 @@ Den Haag
 De 
 minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
 algemene rijksarchivaris, 
-M.J.Berendse  
+M.J. Berendse    
 
-### Selectielijst  
+###Selectielijst 
 
-Gepubliceerd op www.nationaalarchief.nl/selectielijsten.  
+Gepubliceerd op www.nationaalarchief.nl/selectielijsten.

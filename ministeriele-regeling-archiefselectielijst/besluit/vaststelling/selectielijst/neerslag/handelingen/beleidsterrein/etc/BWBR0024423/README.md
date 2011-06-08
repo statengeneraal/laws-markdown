@@ -10,25 +10,25 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Minister van Justitie en de onder hem ressorterende actoren op het beleidsterrein Burgerluchtvaart over de periode vanaf 1945 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Justitie en de onder hem ressorterende actoren op het beleidsterrein Burgerluchtvaart over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 28 juli 2008   
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
+Minister van Onderwijs, Cultuur en Wetenschap, namens deze:de 
 wnd. algemene rijksarchivaris, 
-P.Brood 
+P. Brood   
 
 De 
-Minister van Justitie, namens deze: de 
-projectdirecteur, Project Wegwerken Archiefachterstanden PWAA, 
-A. van derKooij  
+Minister van Justitie, namens deze:de 
+projectdirecteur, Project Wegwerken Archiefachterstanden PWAA,
+A. van der Kooij    
 
 ####Basisselectiedocument
 
@@ -45,7 +45,7 @@ Minister van Verkeer en Waterstaat Minister van Algemene Zaken Minister van Buit
 
 ####1. Afkortingen
 
-AASC: Airworthiness Authorities Steering Committee (van de JAA) ABC: Advance Booking Charter ABS: Austria, Belgium and Switzerland ACAN: Air Cargo Association in the Netherlands AEA: Association of European Airlines afd.: Afdeling AIC: Aeronautical Information Circular AIP: Aeronautical Information Publication AMC: Airmiss-Commissie AMvB: Algemene maatregel van bestuur ANC: Air Navigation Commission (van de ICAO) ATAN: Air Transport Association Netherlands ATC: Air Transport Committee (van de ICAO) ATIC: Air Traffic Incident Commission BBP: Beleids- en begrotingsplan BG: Bevoegd Gezag BG P&M: Beleidsgroep Luchthavenplanologie en Milieu BLA: Bijzondere Luchtwaardigheidsaanwijzingen BPI: Bedrijfseconomische Zaken, Planning en Informatievoorziening (VI-afdeling) BuiZa: Buitenlandse Zaken (Ministerie/Minister) BvB: Bewijs van bevoegdheid BvL: Bewijs van luchtwaardigheid BVR: Basisveiligheidsreglement CA RLD: Centraal Archief Rijksluchtvaartdienst CAEP: Committee on Aviation Environmental Protection (van de ICAO) CAL: College van Advies in Luchtvaartaangelegenheden CAPC: Civil Aviation Planning Committee (van de NAVO) CBO: Commissie Burgerluchtvaart in Oorlogstijd CBS: Werkgroep Capaciteit Banenstelsel Schiphol CC: Coördinatie Comité CCPC: Civil Communications Planning Committee (van de NAVO) CDO: Coördinatiegroep Duurzame Ontwikkeling (van V&W) CEAC: Committee for European Airspace Coördination (van de NAVO) CEIA: Coördinatiecommissie voor Europese Integratie- en Associatieproblemen CEPD: Civil Emergency Planning Directory (van de NAVO) CFMU: Central Flow Management Unit CGS: Commissie/Stichting Geluidhinder Schiphol CIOC: Coördinatiebureau Internationale Organisaties en Crisisbeheersing (afdeling van VI) CoCo: Coördinatiecommissie (= CEIA) COIB: Coördinatie Internationale Betrekkingen Coreper : Comité des Représentants Permanents (van de EG) COSS: Stuurgroep Coördinatieorgaan Schiphol CRMH: Centrale Raad voor de Milieuhygiëne CRS: Computer Reserveringssysteem CVV: Commissie Vliegverkeersvoorschriften DG RLD: Directeur-generaal Rijksluchtvaartdienst DGCA: Directors-General of Civil Aviation (van de ECAC) DGL: Directoraat-Generaal Luchtvaart DGM: Directoraat-Generaal Milieubeheer (VROM) DGS: Directoraat-Generaal Scheepvaart DGTL: Directoraat-Generaal Transport en Luchtvaart DGV: Directoraat-Generaal voor Vervoer DPC: Defensie Planning Comité (van de NAVO) EASA: European Aviation Safety Agency EATCHIP: European Air Traffical Control Harmonisation Integration Programme ECAC: European Civil Aviation Conference ECOSOC: Economisch en Sociaal Comité (van de EG) EEG: Europese Economische Gemeenschap EG: Europese Gemeenschappen EGO: EG Overleggroep RLD EZ: Economische Zaken FAA: Federal Aviation Administration (van de VS) FANOMOS: Flight Track and Noise Monitoring System FANS: Committee on Future Air Naviagation Systems (van de ICAO) FAR: Federal Aviation Regulations (van de FAA) GATT: General Agreement on Tariffs and Trade HdTK: Handelingen der Tweede Kamer HDTP: Hoofddirectie Telecommunicatie en Post (van V&W) IATA: International Air Transport Association IBZ: Internationaal Bestuurlijke Zaken (LVB-afdeling) ICAO: International Civil Aviation Organisation IFALPA: International Federation of Airline Pilots Associations IFR: Instrument Flight Rules IPNR: Integraal Plan Noordrand Rotterdam IT: Inclusive Tour JAA: Joint Aviation Authorities JAR : Joint Aviation Requirements (van de JAA) JBZ: Juridisch-Bestuurlijke Zaken (stafafdeling RLD) KB: Koninklijk besluit KLM: Koninklijke Luchtvaartmaatschappij KLS: KLM Luchtvaartschool BV KNILM: Koninklijke Nederlandsch-Indische Luchtvaartmaatschappij KNMI: Koninklijk Nederlands Meteorologisch Instituut KNVvL: Koninklijke Nederlandse Vereniging voor Luchtvaart LI: Luchtvaartinspectie (RLD-directie) LMD: Luchtvaart Meteorologische Dienst LT: Luchtvaartterreinen (voorm. RLD-directie) LV: Luchtvervoersbeleid (voorm. RLD-directie) LVB: Luchtverkeersbeveiliging LVC: Luchtverkeerscommissie LVR: Luchtverkeersreglement LVW: [Luchtvaartwet](../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) m.e.r.: Milieu-effectrapportage MAL: Mededelingen aan Nederlandse luchtvarenden en eigenaren van luchtvaartuigen MER: Milieu-effectrapport MilATCC : Military Air Traffic Control Centre MLS: Microwave Landing System/Microgolf Landingssysteem NAG: Netherlands Aerospace Group NAVO: Noord-Atlantische Verdragsorganisatie NIVR: Nederlands Instituut voor Vliegtuigontwikkeling en Ruimtevaart (NIVR) NLL: Nationaal Luchtvaartlaboratorium NLR: Nederlands Lucht- en Ruimtevaartlaboratorium NLRGC: Nationaal Lucht- en Ruimtevaartgeneeskundig Centrum NLS: Nationale Luchtvaartschool NMP: Nationaal Milieubeleidsplan NOTAM: Notices to Airmen NVLS: NV Luchthaven Schiphol Nvt: Nota van toelichting1 3 408.25nuari 19943ng Luchtwaardigheid o.e.: Of eerder OESO: Organisatie voor Economische Samenwerking en Ontwikkeling PASO: Plan van aanpak Schiphol en omstreken PAZ: Post- en archiefzaken PbEG: Publikatieblad Europese Gemeenschappen PBEIST: Planning Board for European Inland Surface Transport (van de NAVO) PBOS: Planning Board for Ocean Shipping (van de NAVO) PG: Projectgroep PI: Projecten en Informatisering (LI-afdeling) PICAO: Provisional International Civil Aviation Organization PKB: Planologische kernbeslissing plv.: Plaatsvervangend PM: Luchtvaartplanologie en Milieu (VI-afdeling) PMMS: Project Mainport en Milieu Schiphol PTL: Planninggroep Tweede Nationale Luchthaven PV: Permanente Vertegenwoordiger RARO: Raad van Advies voor de Ruimtelijke Ordening RCC: Reddingscoördinatiecentrum RELUS: Regionale Luchthaven Strategie RFSG: Rescue and Firefighting Study Group RLD: Directoraat-Generaal Rijksluchtvaartdienst RLS: Rijksluchtvaartschool RO: Ruimtelijke ordening RPD: Rijksplanologische Dienst RSL: Rijksstudiedienst voor de Luchtvaart RTL: [Regeling Toezicht Luchtvaart](../../../../../../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md) RVI: Rijksverkeersinspectie RWS: Rijkswaterstaat SAOC: Schiphol Airline Operators Committee SAR: Search and rescue SARPS: Standards and Recommended Practises (van de ICAO) SB: Service bulletin SBL: Structuurschema Burgerluchtvaartterreinen SCEPC: Senior Civil Emergency Planning Committee (van de NAVO) SDO: Stuurgroep Duurzame Ontwikkeling SG: Secretaris-generaal SGIS: Stichting Geluidsisolatie Schiphol SHG: Security Handling Group SIC: Sanering Interdepartementale Commissies SMT: Structuurschema Militaire Terreinen Stas: Staatssecretaris SSAD-FAZ: Semi-statisch Archiefdepot-Facilitaire Zaken Stb.: Staatsblad Stcrt.: Staatscourant STL: Stuurgroep Tweede Nationale Luchthaven THD: Technische Hogeschool Delft TNO: Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek TRB: Traktatenblad UAC: Upper Area Control Centre ULV: Ultra Licht Vliegtuig UNCTAD: United Nations Conference for Trade Development UTA: Upper Control Area V&W: Verkeer en Waterstaat (Ministerie/Minister) V&W LIS: Verkeer en Waterstaat Literatuur Informatie Systeem VFR: Visual Flight Rules VI: Vervoer en Infrastructuur (RLD-directie) VN: Verenigde Naties VNV: Vereniging van Nederlandse Verkeersvliegers VNLO: Vereniging van Nederlandse Luchtvaartondernemingen VOMIL: Volksgezondheid en Milieuhygiëne (Ministerie/Minister) VRO: Volkshuisvesting en Ruimtelijke Ordening VROM: Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer WLV: Wet Luchtverkeer WMO: World Meteorological Organisation WRO: Wet op de Ruimtelijke Ordening WRR: Wetenschappelijke Raad voor het Regeringsbeleid WRR: Werk- en Rusttijden (Commissie) WVC: Welzijn, Volksgezondheid en Cultuur (Ministerie/Minister)  
+AASC: Airworthiness Authorities Steering Committee (van de JAA) ABC: Advance Booking Charter ABS: Austria, Belgium and Switzerland ACAN: Air Cargo Association in the Netherlands AEA: Association of European Airlines afd.: Afdeling AIC: Aeronautical Information Circular AIP: Aeronautical Information Publication AMC: Airmiss-Commissie AMvB: Algemene maatregel van bestuur ANC: Air Navigation Commission (van de ICAO) ATAN: Air Transport Association Netherlands ATC: Air Transport Committee (van de ICAO) ATIC: Air Traffic Incident Commission BBP: Beleids- en begrotingsplan BG: Bevoegd Gezag BG P&M: Beleidsgroep Luchthavenplanologie en Milieu BLA: Bijzondere Luchtwaardigheidsaanwijzingen BPI: Bedrijfseconomische Zaken, Planning en Informatievoorziening (VI-afdeling) BuiZa: Buitenlandse Zaken (Ministerie/Minister) BvB: Bewijs van bevoegdheid BvL: Bewijs van luchtwaardigheid BVR: Basisveiligheidsreglement CA RLD: Centraal Archief Rijksluchtvaartdienst CAEP: Committee on Aviation Environmental Protection (van de ICAO) CAL: College van Advies in Luchtvaartaangelegenheden CAPC: Civil Aviation Planning Committee (van de NAVO) CBO: Commissie Burgerluchtvaart in Oorlogstijd CBS: Werkgroep Capaciteit Banenstelsel Schiphol CC: Coördinatie Comité CCPC: Civil Communications Planning Committee (van de NAVO) CDO: Coördinatiegroep Duurzame Ontwikkeling (van V&W) CEAC: Committee for European Airspace Coördination (van de NAVO) CEIA: Coördinatiecommissie voor Europese Integratie- en Associatieproblemen CEPD: Civil Emergency Planning Directory (van de NAVO) CFMU: Central Flow Management Unit CGS: Commissie/Stichting Geluidhinder Schiphol CIOC: Coördinatiebureau Internationale Organisaties en Crisisbeheersing (afdeling van VI) CoCo: Coördinatiecommissie (= CEIA) COIB: Coördinatie Internationale Betrekkingen Coreper : Comité des Représentants Permanents (van de EG) COSS: Stuurgroep Coördinatieorgaan Schiphol CRMH: Centrale Raad voor de Milieuhygiëne CRS: Computer Reserveringssysteem CVV: Commissie Vliegverkeersvoorschriften DG RLD: Directeur-generaal Rijksluchtvaartdienst DGCA: Directors-General of Civil Aviation (van de ECAC) DGL: Directoraat-Generaal Luchtvaart DGM: Directoraat-Generaal Milieubeheer (VROM) DGS: Directoraat-Generaal Scheepvaart DGTL: Directoraat-Generaal Transport en Luchtvaart DGV: Directoraat-Generaal voor Vervoer DPC: Defensie Planning Comité (van de NAVO) EASA: European Aviation Safety Agency EATCHIP: European Air Traffical Control Harmonisation Integration Programme ECAC: European Civil Aviation Conference ECOSOC: Economisch en Sociaal Comité (van de EG) EEG: Europese Economische Gemeenschap EG: Europese Gemeenschappen EGO: EG Overleggroep RLD EZ: Economische Zaken FAA: Federal Aviation Administration (van de VS) FANOMOS: Flight Track and Noise Monitoring System FANS: Committee on Future Air Naviagation Systems (van de ICAO) FAR: Federal Aviation Regulations (van de FAA) GATT: General Agreement on Tariffs and Trade HdTK: Handelingen der Tweede Kamer HDTP: Hoofddirectie Telecommunicatie en Post (van V&W) IATA: International Air Transport Association IBZ: Internationaal Bestuurlijke Zaken (LVB-afdeling) ICAO: International Civil Aviation Organisation IFALPA: International Federation of Airline Pilots Associations IFR: Instrument Flight Rules IPNR: Integraal Plan Noordrand Rotterdam IT: Inclusive Tour JAA: Joint Aviation Authorities JAR : Joint Aviation Requirements (van de JAA) JBZ: Juridisch-Bestuurlijke Zaken (stafafdeling RLD) KB: Koninklijk besluit KLM: Koninklijke Luchtvaartmaatschappij KLS: KLM Luchtvaartschool BV KNILM: Koninklijke Nederlandsch-Indische Luchtvaartmaatschappij KNMI: Koninklijk Nederlands Meteorologisch Instituut KNVvL: Koninklijke Nederlandse Vereniging voor Luchtvaart LI: Luchtvaartinspectie (RLD-directie) LMD: Luchtvaart Meteorologische Dienst LT: Luchtvaartterreinen (voorm. RLD-directie) LV: Luchtvervoersbeleid (voorm. RLD-directie) LVB: Luchtverkeersbeveiliging LVC: Luchtverkeerscommissie LVR: Luchtverkeersreglement LVW: [Luchtvaartwet](../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) m.e.r.: Milieu-effectrapportage MAL: Mededelingen aan Nederlandse luchtvarenden en eigenaren van luchtvaartuigen MER: Milieu-effectrapport MilATCC : Military Air Traffic Control Centre MLS: Microwave Landing System/Microgolf Landingssysteem NAG: Netherlands Aerospace Group NAVO: Noord-Atlantische Verdragsorganisatie NIVR: Nederlands Instituut voor Vliegtuigontwikkeling en Ruimtevaart (NIVR) NLL: Nationaal Luchtvaartlaboratorium NLR: Nederlands Lucht- en Ruimtevaartlaboratorium NLRGC: Nationaal Lucht- en Ruimtevaartgeneeskundig Centrum NLS: Nationale Luchtvaartschool NMP: Nationaal Milieubeleidsplan NOTAM: Notices to Airmen NVLS: NV Luchthaven Schiphol Nvt: Nota van toelichting1 3 408.25nuari 19943ng Luchtwaardigheid o.e.: Of eerder OESO: Organisatie voor Economische Samenwerking en Ontwikkeling PASO: Plan van aanpak Schiphol en omstreken PAZ: Post- en archiefzaken PbEG: Publikatieblad Europese Gemeenschappen PBEIST: Planning Board for European Inland Surface Transport (van de NAVO) PBOS: Planning Board for Ocean Shipping (van de NAVO) PG: Projectgroep PI: Projecten en Informatisering (LI-afdeling) PICAO: Provisional International Civil Aviation Organization PKB: Planologische kernbeslissing plv.: Plaatsvervangend PM: Luchtvaartplanologie en Milieu (VI-afdeling) PMMS: Project Mainport en Milieu Schiphol PTL: Planninggroep Tweede Nationale Luchthaven PV: Permanente Vertegenwoordiger RARO: Raad van Advies voor de Ruimtelijke Ordening RCC: Reddingscoördinatiecentrum RELUS: Regionale Luchthaven Strategie RFSG: Rescue and Firefighting Study Group RLD: Directoraat-Generaal Rijksluchtvaartdienst RLS: Rijksluchtvaartschool RO: Ruimtelijke ordening RPD: Rijksplanologische Dienst RSL: Rijksstudiedienst voor de Luchtvaart RTL: [Regeling Toezicht Luchtvaart](../../../../../../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md) RVI: Rijksverkeersinspectie RWS: Rijkswaterstaat SAOC: Schiphol Airline Operators Committee SAR: Search and rescue SARPS: Standards and Recommended Practises (van de ICAO) SB: Service bulletin SBL: Structuurschema Burgerluchtvaartterreinen SCEPC: Senior Civil Emergency Planning Committee (van de NAVO) SDO: Stuurgroep Duurzame Ontwikkeling SG: Secretaris-generaal SGIS: Stichting Geluidsisolatie Schiphol SHG: Security Handling Group SIC: Sanering Interdepartementale Commissies SMT: Structuurschema Militaire Terreinen Stas: Staatssecretaris SSAD-FAZ: Semi-statisch Archiefdepot-Facilitaire Zaken Stb.: Staatsblad Stcrt.: Staatscourant STL: Stuurgroep Tweede Nationale Luchthaven THD: Technische Hogeschool Delft TNO: Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek TRB: Traktatenblad UAC: Upper Area Control Centre ULV: Ultra Licht Vliegtuig UNCTAD: United Nations Conference for Trade Development UTA: Upper Control Area V&W: Verkeer en Waterstaat (Ministerie/Minister) V&W LIS: Verkeer en Waterstaat Literatuur Informatie Systeem VFR: Visual Flight Rules VI: Vervoer en Infrastructuur (RLD-directie) VN: Verenigde Naties VNV: Vereniging van Nederlandse Verkeersvliegers VNLO: Vereniging van Nederlandse Luchtvaartondernemingen VOMIL: Volksgezondheid en Milieuhygiëne (Ministerie/Minister) VRO: Volkshuisvesting en Ruimtelijke Ordening VROM: Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer WLV: Wet Luchtverkeer WMO: World Meteorological Organisation WRO: Wet op de Ruimtelijke Ordening WRR: Wetenschappelijke Raad voor het Regeringsbeleid WRR: Werk- en Rusttijden (Commissie) WVC: Welzijn, Volksgezondheid en Cultuur (Ministerie/Minister) 
 
 ####2. Verantwoording
 
@@ -53,7 +53,7 @@ AASC: Airworthiness Authorities Steering Committee (van de JAA) ABC: Advance Boo
 
 #### *2.1.1. Definitie van het BSD* 
 
-Een Basis Selectiedocument (BSD) is de vorm waarin een of meerdere selectielijst(en), bedoeld in [artikel 5 van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (Stb. 277), worden vastgesteld. Een selectielijst biedt de grondslag voor het vernietigen dan wel het ter blijvende bewaring overbrengen van de neerslag van handelingen van een zorgdrager en de onder hem ressorterende actoren. Een BSD kan bestaan uit één of meer selectielijsten. Een BSD is gebaseerd op een vastgesteld Rapport Institutioneel Onderzoek (RIO) en bestrijkt dezelfde periode als dit rapport. Eventuele afwijkingen hiervan worden in het verslag van het driehoeksoverleg verantwoord. Een BSD bevat in principe dezelfde handelingen als het RIO dat aan het BSD ten grondslag ligt. Eventuele afwijkingen hierop worden in het verslag van het gevoerde driehoeksoverleg verantwoord. Indien het RIO een begin- en eindperiode vermeld wordt de eindperiode niet overgenomen in het BSD, omdat dit ten onrechte zou suggereren dat alle handelingen afgesloten zijn. Een dergelijke wijziging heeft een praktisch nut en betekent geen nader institutioneel onderzoek. Het handelingenblok wijkt in zoverre af van dat van het RIO dat een veld voor de waardering wordt toegevoegd. In het veld ‘waardering’ wordt aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden, en welk bewaarcriterium of vernietigingstermijn gehanteerd wordt. De waardering B (= bewaren) betekent dat de neerslag voor permanente bewaring wordt overgebracht naar de Rijksarchiefbewaarplaatsen. De waardering V (= vernietiging) betekent dat de neerslag wordt vernietigd. Op welke termijn dat gebeurt, wordt bij de waardering vermeld. Bij voorkeur wordt ook het ingangsmoment vastgelegd (bijv. 3 jaar na vaststelling nieuwe regeling). Zonder nadere aanduiding gaat de vernietigingstermijn in direct na afsluiting van de zaak waarop een dossier betrekking heeft. Anders dan in het RIO worden in het BSD de handelingen per actor geordend. Indien een BSD bestaat uit lijsten voor actoren onder verschillende zorgdragers, worden deze per zorgdrager geordend. Hiermee wordt uitdrukking gegeven aan het uitgangspunt dat een selectielijst een eenheid is, bevattende handelingen van een zorgdrager en de onder hem ressorterende actoren. Anders gezegd: een selectielijst kan opgebouwd zijn uit (deel)lijsten voor verschillende actoren die onder dezelfde zorgdrager ressorteren.  
+Een Basis Selectiedocument (BSD) is de vorm waarin een of meerdere selectielijst(en), bedoeld in [artikel 5 van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (Stb. 277), worden vastgesteld. Een selectielijst biedt de grondslag voor het vernietigen dan wel het ter blijvende bewaring overbrengen van de neerslag van handelingen van een zorgdrager en de onder hem ressorterende actoren. Een BSD kan bestaan uit één of meer selectielijsten. Een BSD is gebaseerd op een vastgesteld Rapport Institutioneel Onderzoek (RIO) en bestrijkt dezelfde periode als dit rapport. Eventuele afwijkingen hiervan worden in het verslag van het driehoeksoverleg verantwoord. Een BSD bevat in principe dezelfde handelingen als het RIO dat aan het BSD ten grondslag ligt. Eventuele afwijkingen hierop worden in het verslag van het gevoerde driehoeksoverleg verantwoord. Indien het RIO een begin- en eindperiode vermeld wordt de eindperiode niet overgenomen in het BSD, omdat dit ten onrechte zou suggereren dat alle handelingen afgesloten zijn. Een dergelijke wijziging heeft een praktisch nut en betekent geen nader institutioneel onderzoek. Het handelingenblok wijkt in zoverre af van dat van het RIO dat een veld voor de waardering wordt toegevoegd. In het veld ‘waardering’ wordt aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden, en welk bewaarcriterium of vernietigingstermijn gehanteerd wordt. De waardering B (= bewaren) betekent dat de neerslag voor permanente bewaring wordt overgebracht naar de Rijksarchiefbewaarplaatsen. De waardering V (= vernietiging) betekent dat de neerslag wordt vernietigd. Op welke termijn dat gebeurt, wordt bij de waardering vermeld. Bij voorkeur wordt ook het ingangsmoment vastgelegd (bijv. 3 jaar na vaststelling nieuwe regeling). Zonder nadere aanduiding gaat de vernietigingstermijn in direct na afsluiting van de zaak waarop een dossier betrekking heeft. Anders dan in het RIO worden in het BSD de handelingen per actor geordend. Indien een BSD bestaat uit lijsten voor actoren onder verschillende zorgdragers, worden deze per zorgdrager geordend. Hiermee wordt uitdrukking gegeven aan het uitgangspunt dat een selectielijst een eenheid is, bevattende handelingen van een zorgdrager en de onder hem ressorterende actoren. Anders gezegd: een selectielijst kan opgebouwd zijn uit (deel)lijsten voor verschillende actoren die onder dezelfde zorgdrager ressorteren. 
 
 #### *2.1.2. Functies van het BSD* 
 
@@ -67,13 +67,13 @@ Het BSD heeft de volgende functies:
 
 – voor de Minister belast met het cultuurbeleid (vertegenwoordigd door de Algemeen Rijksarchivaris) is het BSD de verantwoording inzake het bewaar- en vernietigingsbeleid vanuit cultureel-historisch belang ([Archiefbesluit 1995, art. 2, eerste lid, onder c](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md));  
 
-– voor het Nationaal Archief is het BSD (tezamen met het RIO) het uitgangspunt voor de Institutionele Toegangen.    
+– voor het Nationaal Archief is het BSD (tezamen met het RIO) het uitgangspunt voor de Institutionele Toegangen.   
 
 #### *2.2. Het beleidsterrein burgerluchtvaart* 
 
 #### *2.2.1. Definitie en afbakening van het beleidsterrein* 
 
-De burgerluchtvaart omvat het verkeer en vervoer door de lucht met civiele luchtvaartuigen die niet voor regeringsdoeleinden gebruikt worden. Onderdeel van de verkeersvoorzieningen vormen de infrastructuur en de zg. luchtverkeersdienstverlening. De ruimtevaart valt buiten het beleidsterrein. Buiten de burgerluchtvaart valt het verkeer en vervoer door de lucht ten behoeve van militaire, politionele en douane doeleinden. Ook de vluchten met het regeringsvliegtuig behoren strikt genomen niet tot de burgerluchtvaart. De militaire luchtvaart is onderwerp van PIVOT-onderzoek bij het Ministerie van Defensie. Waar echter de Minister van V&W en de Minister van Defensie hun taken in overeenstemming of overleg met elkaar (moeten) verrichten, zijn de handelingen van de laatste in dit rapport opgenomen. <sup> 1  Zie onder meer: Alle hens aan dek. Bedrijfsprocessen en handelingen op het beleidsterrein militair personeel Centrale Organisatie en Koninklijke Marine, 1945-1993. Concept, mei 1993.  </sup> Op het terrein van de burgerluchtvaart kan men, analoog aan de indeling van het beleidsterrein van verkeer en waterstaat, drie taakgebieden onderscheiden: 
+De burgerluchtvaart omvat het verkeer en vervoer door de lucht met civiele luchtvaartuigen die niet voor regeringsdoeleinden gebruikt worden. Onderdeel van de verkeersvoorzieningen vormen de infrastructuur en de zg. luchtverkeersdienstverlening. De ruimtevaart valt buiten het beleidsterrein. Buiten de burgerluchtvaart valt het verkeer en vervoer door de lucht ten behoeve van militaire, politionele en douane doeleinden. Ook de vluchten met het regeringsvliegtuig behoren strikt genomen niet tot de burgerluchtvaart. De militaire luchtvaart is onderwerp van PIVOT-onderzoek bij het Ministerie van Defensie. <sup>1Zie onder meer: Alle hens aan dek. Bedrijfsprocessen en handelingen op het beleidsterrein militair personeel Centrale Organisatie en Koninklijke Marine, 1945-1993. Concept, mei 1993.</sup> Waar echter de Minister van V&W en de Minister van Defensie hun taken in overeenstemming of overleg met elkaar (moeten) verrichten, zijn de handelingen van de laatste in dit rapport opgenomen. Op het terrein van de burgerluchtvaart kan men, analoog aan de indeling van het beleidsterrein van verkeer en waterstaat, drie taakgebieden onderscheiden: 
 
 – veiligheid;  
 
@@ -85,7 +85,7 @@ a. het vooroverleg in ambtelijke/technische werk- of expertgroepen, zowel in nat
 
 b. de besluitvorming in de internationale advies- en bestuursorganen;  
 
-c. de uitvoering van de besluiten in de lidstaat, hetzij doordat deze besluiten directe werking hebben, hetzij doordat de lidstaat de besluiten overneemt en op enigerlei wijze implementeert. De uitvoering kan in internationaal verband, zoals bij de typecertificatie van luchtvaartuigen, geschieden.   Belangrijke facetten van het beleidsterrein zijn: milieubeheer, beveiliging (‘security’) en ondersteuning van de luchtvaarttechnologie.  
+c. de uitvoering van de besluiten in de lidstaat, hetzij doordat deze besluiten directe werking hebben, hetzij doordat de lidstaat de besluiten overneemt en op enigerlei wijze implementeert. De uitvoering kan in internationaal verband, zoals bij de typecertificatie van luchtvaartuigen, geschieden.   Belangrijke facetten van het beleidsterrein zijn: milieubeheer, beveiliging (‘security’) en ondersteuning van de luchtvaarttechnologie. 
 
 #### *2.2.2. Ontwikkelingen sinds 1997* 
 
@@ -93,7 +93,7 @@ c. de uitvoering van de besluiten in de lidstaat, hetzij doordat deze besluiten 
 
 ###De Rijksluchtvaartdienst en de opvolgers
 
-Zoals in het RIO 1996 al is beschreven is er al vanaf 1997 een tendens om beleid, uitvoering en handhaving te scheiden. Met de instelling van de Inspectie Verkeer en Waterstaat (IVW) in 2000 is die scheiding ook in de organisatie geheel doorgevoerd. De uitvoerings- en handhavingpoot zijn overgegaan naar IVW. De beleidskern die nog overbleef van de Rijksluchtvaartdienst werd toen omgedoopt in DG Luchtvaart. Dit was ook om duidelijk te maken dat alleen de beleidskern uit de RLD was overgebleven. De volgende reorganisatie vindt plaats in 2005. Per 1 april van dat jaar is DG Luchtvaart samengevoegd met DG Goederenvervoer in het nieuwe DG Transport en Luchtvaart.  
+Zoals in het RIO 1996 al is beschreven is er al vanaf 1997 een tendens om beleid, uitvoering en handhaving te scheiden. Met de instelling van de Inspectie Verkeer en Waterstaat (IVW) in 2000 is die scheiding ook in de organisatie geheel doorgevoerd. De uitvoerings- en handhavingpoot zijn overgegaan naar IVW. De beleidskern die nog overbleef van de Rijksluchtvaartdienst werd toen omgedoopt in DG Luchtvaart. Dit was ook om duidelijk te maken dat alleen de beleidskern uit de RLD was overgebleven. De volgende reorganisatie vindt plaats in 2005. Per 1 april van dat jaar is DG Luchtvaart samengevoegd met DG Goederenvervoer in het nieuwe DG Transport en Luchtvaart. 
 
 #### *Internationale samenwerking* 
 
@@ -102,7 +102,7 @@ Zoals in het RIO 1996 al is beschreven is er al vanaf 1997 een tendens om beleid
 De taken van de JAA worden door de European Aviation Safety Agency overgenomen. Dit proces loopt tot in 2010. Daarna zal de JAA waarschijnlijk worden opgeheven. 
 ###European Aviation Safety Agency (EASA)
 
-Een nieuwe internationale organisatie voor de veiligheid verscheen op het toneel, de European Aviation Safety Agency (EASA). Vanwege de groeiende luchtvaart werd in Europees verband gevoeld dat de samenwerking tussen de nationale overheden op het gebied van de veiligheid in de JAA, op vrijwillige basis, niet goed functioneerde. Het werkte traag vanwege het consensusmodel, en de regels van de JAA werden ook niet overal hetzelfde geïnterpreteerd. Dit werkte inconsistentie in de hand. De Europese Unie besloot om de veiligheid meer dwingend aan alle lidstaten op te leggen. Daartoe werd de EASA in het leven geroepen. De EASA neemt geleidelijk het takenpakket van de JAA over, maar heeft andere bevoegdheden ten aanzien van de implementatie van de regelingen door de lidstaten. De EASA kreeg met ingang van 28 september 2003 de bevoegdheid om typecertificaten uit te reiken geldig voor alle landen van de EU. Deze bevoegdheid lag daarvoor bij de nationale autoriteiten. Inmiddels zijn alle regelingen met betrekking tot de luchtwaardigheid onder de verantwoordelijkheid van de EASA gebracht. In 2005 en 2006 zullen de taken op het gebied operaties ondergebracht bij de EASA en vervolgens zullen de regelingen met betrekking tot luchthaventerreinen worden overgebracht. De JAA had geen bevoegdheden om implementatie van de regelingen af te dwingen. De EASA heeft, als instelling van de EU, binnen de EU wel die bevoegdheid. Daarnaast heeft de EASA een toezichthoudende functie om zorg te dragen voor een uniforme interpretatie van de regelingen. De uniformiteit van de interpretatie wordt ook bevorderd door de opleidingen en cursussen die de EASA geeft.  
+Een nieuwe internationale organisatie voor de veiligheid verscheen op het toneel, de European Aviation Safety Agency (EASA). Vanwege de groeiende luchtvaart werd in Europees verband gevoeld dat de samenwerking tussen de nationale overheden op het gebied van de veiligheid in de JAA, op vrijwillige basis, niet goed functioneerde. Het werkte traag vanwege het consensusmodel, en de regels van de JAA werden ook niet overal hetzelfde geïnterpreteerd. Dit werkte inconsistentie in de hand. De Europese Unie besloot om de veiligheid meer dwingend aan alle lidstaten op te leggen. Daartoe werd de EASA in het leven geroepen. De EASA neemt geleidelijk het takenpakket van de JAA over, maar heeft andere bevoegdheden ten aanzien van de implementatie van de regelingen door de lidstaten. De EASA kreeg met ingang van 28 september 2003 de bevoegdheid om typecertificaten uit te reiken geldig voor alle landen van de EU. Deze bevoegdheid lag daarvoor bij de nationale autoriteiten. Inmiddels zijn alle regelingen met betrekking tot de luchtwaardigheid onder de verantwoordelijkheid van de EASA gebracht. In 2005 en 2006 zullen de taken op het gebied operaties ondergebracht bij de EASA en vervolgens zullen de regelingen met betrekking tot luchthaventerreinen worden overgebracht. De JAA had geen bevoegdheden om implementatie van de regelingen af te dwingen. De EASA heeft, als instelling van de EU, binnen de EU wel die bevoegdheid. Daarnaast heeft de EASA een toezichthoudende functie om zorg te dragen voor een uniforme interpretatie van de regelingen. De uniformiteit van de interpretatie wordt ook bevorderd door de opleidingen en cursussen die de EASA geeft. 
 
 #### *Veiligheid* 
 
@@ -157,7 +157,7 @@ Het handhaven van de openbare orde en het beveiligen van objecten is in Nederlan
 – het invoeren van een auditprogramma   De Verenigde Staten hebben na de aanslag nog extra verscherpte maatregelen genomen. Het beleid is erop gericht om mogelijke problemen al te onderscheppen nog voordat het betreffende vliegtuig het Amerikaanse luchtruim betreedt. Een van de proeven die in dat kader worden genomen is het toepassen van biometrie op luchthavens die veel verkeer naar de VS genereren. Een van de proeven zal op Schiphol worden uitgevoerd. Om deze verscherpte beveiliging een wettelijke basis te geven is het hoofdstuk Beveiliging op luchtvaartterreinen van de [Luchtvaartwet](../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) in 2002 grondig gewijzigd. Een van de nieuwe elementen is het opstellen van een beveiligingsplan. De wet beveelt de exploitant beveiligingsplannen op te stellen. Deze plannen moeten door de Minister van Justitie goedgekeurd worden met instemming van de Minister van Verkeer en Waterstaat. 
 ###Onderzoek naar ongevallen
 
-Het onderzoek naar ongevallen was door de Luchtvaartongevallenwet toegewezen aan de Raad voor de Luchtvaart. Met ingang van 1 juli 1999 werd de Wet Raad voor de Transportveiligheid van kracht. Deze raad nam voor de luchtvaart de taken van de Raad voor de Luchtvaart over. Daarnaast onderzoekt de Raad ook alle ongevallen op het spoor, in de scheepvaart en naar verkiezing op de weg. De Luchtvaartongevallenwet werd ingetrokken. De Raad voor de Transportveiligheid heeft voor de luchtvaart dezelfde bevoegdheden en taken als de Raad voor de Luchtvaart. Met ingang van 1 februari 2005 is de Raad voor de Transportveiligheid weer opgevolgd door de Onderzoeksraad voor veiligheid. Deze Onderzoeksraad heeft een veel breder onderzoeksterrein, namelijk alle ongevallen en rampen. De onderzoeksraad mag zelf bepalen welke ongevallen en incidenten ze onderzoekt, behalve voor de scheepvaart en de luchtvaart. Op dat terrein dient ze alle ongevallen te onderzoeken. De Onderzoeksraad is ingesteld bij de Rijkswet Onderzoeksraad voor de veiligheid. Bij wet is bepaald dat het de vorm van een ZBO krijgt.  
+Het onderzoek naar ongevallen was door de Luchtvaartongevallenwet toegewezen aan de Raad voor de Luchtvaart. Met ingang van 1 juli 1999 werd de Wet Raad voor de Transportveiligheid van kracht. Deze raad nam voor de luchtvaart de taken van de Raad voor de Luchtvaart over. Daarnaast onderzoekt de Raad ook alle ongevallen op het spoor, in de scheepvaart en naar verkiezing op de weg. De Luchtvaartongevallenwet werd ingetrokken. De Raad voor de Transportveiligheid heeft voor de luchtvaart dezelfde bevoegdheden en taken als de Raad voor de Luchtvaart. Met ingang van 1 februari 2005 is de Raad voor de Transportveiligheid weer opgevolgd door de Onderzoeksraad voor veiligheid. Deze Onderzoeksraad heeft een veel breder onderzoeksterrein, namelijk alle ongevallen en rampen. De onderzoeksraad mag zelf bepalen welke ongevallen en incidenten ze onderzoekt, behalve voor de scheepvaart en de luchtvaart. Op dat terrein dient ze alle ongevallen te onderzoeken. De Onderzoeksraad is ingesteld bij de Rijkswet Onderzoeksraad voor de veiligheid. Bij wet is bepaald dat het de vorm van een ZBO krijgt. 
 
 #### *Vervoer* 
 
@@ -173,16 +173,16 @@ De luchthaven Schiphol wordt geëxploiteerd door de N.V. Luchthaven Schiphol (NV
 De Staat heeft al vanaf het begin een aandelenbelang in de KLM gehad. Dit belang heeft een luchtvaart-politieke achtergrond. Op grond van bilaterale luchtvaartverdragen is het noodzakelijk dat kan worden aangetoond dat ‘substantiële eigendom en daadwerkelijke zeggenschap’ in handen zijn van nationale ingezetenen, in het geval van KLM dus van Nederlanders. Om aan de genoemde nationaliteitseisen te voldoen heeft de Staat nog 14% in handen. Al vanaf het midden van de jaren 1980 is het meerderheidsbelang van de Staat gereduceerd. In 2002 is voor het laatst het aandelenbelang van de Staat in KLM teruggebracht met 11% van 25% naar 14%. Om zeker te stellen dat deze 11% aantoonbaar in Nederlandse handen zou blijven is toen de Stichting Luchtvaartbelangen Nederland opgericht die een belang aanhoudt van 11% van het totale KLM kapitaal. De door de Stichting afgegeven certificaten van aandelen zijn in handen van de Rabobank. In september 2003 maakte KLM en Air France bekend dat zij een fusie nastreefden. Op 30 september 2003 stuurde het kabinet een brief aan de Tweede Kamer (Kamerstuk 29232 nr. 1) met daarin haar reactie op dit voornemen. In luchtvaart-politiek opzicht was deze fusie niet eenvoudig. De landingsrechten worden internationaal op grond van het verdrag van Chicago toegekend aan nationale luchtvaartmaatschappijen en zijn wettelijk in handen van de Staat. Wel is er een tendens dat de landingsrechten in Europees verband worden verkregen, maar nog lang niet alle luchtvaartovereenkomsten zijn in die zin aangepast. Wanneer de nationale luchtvaartmaatschappij in handen van een andere staat komt kan dit voor grote problemen zorgen. De overheid heeft dan ook bij deze fusie een aantal voorwaarden bedongen waarbij Nederland voldoende zeggenschap hield over de KLM na deze fusie. Na toestemming van de Staat ging de fusie op 5 mei 2004 officiëel van start. 
 ###Prijsvechter maatschappijen
 
-Tot 1988 gold ook binnen de EU het traditionele bilaterale systeem. Vanaf 1988 is de interne markt binnen de EU in 5 jaar veranderd in een volledig geliberaliseerde markt. In deze vrije markt is er geen rol meer voor de overheden bij het commerciële optreden van de luchtvaartmaatschappijen. De landingsrechten, die traditioneel via de bilaterale overeenkomsten aan de Staten waren toegekend, en door deze Staten aan hun eigen nationale luchtvaartmaatschappijen werden toegekend, waren binnen heel Europa voor alle in Europa gevestigde maatschappijen vrij. Dit had tot gevolg dat er nieuwe maatschappijen werden opgericht die gingen concurreren met de al bestaande maatschappijen op de vluchten in binnen Europa. Deze concurrentie was vooral op de prijs gericht. De al bestaande werden gedwongen om ook hun prijzen aan te passen. Dit zetten de hele markt onder druk, met als gevolg dat bij calamiteiten, zoals de aanslag op het World Trade Center in New York, niet alle luchtvaartmaatschappijen in staat waren te overleven.  
+Tot 1988 gold ook binnen de EU het traditionele bilaterale systeem. Vanaf 1988 is de interne markt binnen de EU in 5 jaar veranderd in een volledig geliberaliseerde markt. In deze vrije markt is er geen rol meer voor de overheden bij het commerciële optreden van de luchtvaartmaatschappijen. De landingsrechten, die traditioneel via de bilaterale overeenkomsten aan de Staten waren toegekend, en door deze Staten aan hun eigen nationale luchtvaartmaatschappijen werden toegekend, waren binnen heel Europa voor alle in Europa gevestigde maatschappijen vrij. Dit had tot gevolg dat er nieuwe maatschappijen werden opgericht die gingen concurreren met de al bestaande maatschappijen op de vluchten in binnen Europa. Deze concurrentie was vooral op de prijs gericht. De al bestaande werden gedwongen om ook hun prijzen aan te passen. Dit zetten de hele markt onder druk, met als gevolg dat bij calamiteiten, zoals de aanslag op het World Trade Center in New York, niet alle luchtvaartmaatschappijen in staat waren te overleven. 
 
 #### *De markt na 11 september 2001* 
 
 ###Steunmaatregelen
 
-Het Amerikaanse luchtruim was door de aanslagen gesloten van 11 tot en met 14 september gesloten. Door deze sluiting ontstond een crisis in de toch al wankele luchtvaartmarkt. Daarna stortte de markt in en liep de vraag met 30% terug voor zowel passagier- als vrachtvervoer.  <sup> 2  Op jaarbasis lieten de cijfers geen terugval zien.  </sup> De luchtvaartmaatschappijen wendden zich tot de nationale overheden en de Europese Commissie voor steun. Op 24 september 2001 heeft de VS heeft een steunpakket van 15 miljard dollar aan schenkingen en leninggaranties ter beschikking gesteld van de luchtvaartsector. De Europese Commissie, die nationale steun moet goedkeuren, was terughoudend, evenals de Ministers van Financiën in de Ecofin (Raad van Ministers van Financiën in Brussel). De Commissie heeft de lidstaten geschreven dat alle andere steunmaatregelen vooraf gemeld moeten worden. Wel is men akkoord met het dekken van de verliezen tot 4 dagen na de 11e september. 
+Het Amerikaanse luchtruim was door de aanslagen gesloten van 11 tot en met 14 september gesloten. Door deze sluiting ontstond een crisis in de toch al wankele luchtvaartmarkt. Daarna stortte de markt in en liep de vraag met 30% terug voor zowel passagier- als vrachtvervoer. <sup>2Op jaarbasis lieten de cijfers geen terugval zien.</sup>De luchtvaartmaatschappijen wendden zich tot de nationale overheden en de Europese Commissie voor steun. Op 24 september 2001 heeft de VS heeft een steunpakket van 15 miljard dollar aan schenkingen en leninggaranties ter beschikking gesteld van de luchtvaartsector. De Europese Commissie, die nationale steun moet goedkeuren, was terughoudend, evenals de Ministers van Financiën in de Ecofin (Raad van Ministers van Financiën in Brussel). De Commissie heeft de lidstaten geschreven dat alle andere steunmaatregelen vooraf gemeld moeten worden. Wel is men akkoord met het dekken van de verliezen tot 4 dagen na de 11e september. 
 ###Molestdekking
 
-Na de ramp van 11 september 2001 kregen alle luchtvaartmaatschappijen en service providers (afhandelaars, cateraars, fueling companies, technische diensten) wereldwijd te horen dat voor hen de molestdekking (bijv. schade aan derden door terroristisch aanslagen) verlaagd werd tot 50 miljoen US dollars (daarvoor werd een dekking tussen de 1 en 1,5 miljard US dollars toereikend geacht). In luchtvaartovereenkomsten staat dat men moet voldoen aan adequate dekking, en dit bedrag is duidelijk niet adequaat. Interventie van de Nederlandse overheid was daarom noodzakelijk, omdat anders vanaf 24 september niet meer gevlogen zou kunnen worden. De regering besloot om garant te staan voor het ontbrekende deel van de verzekering. Met andere woorden de staat nam het ontbrekende deel van de verzekering over. Deze garantstelling werd telkens voor een maand, later voor een half jaar afgegeven. Deze constructie is op Europees niveau bedacht. Deze garantiestelling voor molestdekking voor luchtvaartmaatschappijen en andere luchtvaartgerelateerde bedrijven is beëindigd per 31 oktober 2002. Dit was mogelijk doordat de verzekeringsmarkt hiervoor weer voldoende dekking bood. Er loopt nog wel een garantieregeling voor Schiphol, niet voor molestschade maar voor terrorismerisico in de brandverzekering (schade aan de luchthaven zelf als er een aanslag wordt gepleegd). Deze garantie probeert het Ministerie ook stapsgewijs af te bouwen, maar het herstel van de verzekeringsmarkt in deze loopt traag.  
+Na de ramp van 11 september 2001 kregen alle luchtvaartmaatschappijen en service providers (afhandelaars, cateraars, fueling companies, technische diensten) wereldwijd te horen dat voor hen de molestdekking (bijv. schade aan derden door terroristisch aanslagen) verlaagd werd tot 50 miljoen US dollars (daarvoor werd een dekking tussen de 1 en 1,5 miljard US dollars toereikend geacht). In luchtvaartovereenkomsten staat dat men moet voldoen aan adequate dekking, en dit bedrag is duidelijk niet adequaat. Interventie van de Nederlandse overheid was daarom noodzakelijk, omdat anders vanaf 24 september niet meer gevlogen zou kunnen worden. De regering besloot om garant te staan voor het ontbrekende deel van de verzekering. Met andere woorden de staat nam het ontbrekende deel van de verzekering over. Deze garantstelling werd telkens voor een maand, later voor een half jaar afgegeven. Deze constructie is op Europees niveau bedacht. Deze garantiestelling voor molestdekking voor luchtvaartmaatschappijen en andere luchtvaartgerelateerde bedrijven is beëindigd per 31 oktober 2002. Dit was mogelijk doordat de verzekeringsmarkt hiervoor weer voldoende dekking bood. Er loopt nog wel een garantieregeling voor Schiphol, niet voor molestschade maar voor terrorismerisico in de brandverzekering (schade aan de luchthaven zelf als er een aanslag wordt gepleegd). Deze garantie probeert het Ministerie ook stapsgewijs af te bouwen, maar het herstel van de verzekeringsmarkt in deze loopt traag. 
 
 #### *Infrastructuur en milieu* 
 
@@ -198,7 +198,7 @@ De visie van de regering op de infrastructuur ten behoeve van de luchtvaart is n
 In 2003 veranderde veel voor Schiphol en de omgeving daarvan. In februari werd de vijfde baan, de Polderbaan, in gebruik genomen en daarmee werd ook de nieuwe aanwijzing van kracht. Deze nieuwe aanwijzing werd opgenomen in de nieuwe wet Luchtvaart, hoofdstuk 8. In deze aanwijzing werd het nieuwe systeem van normen voor het eerst toegepast. Omdat de Kamer niet geheel gerust was of deze normen gelijkwaardig waren aan de normen uit de eerdere aanwijzing is er aangedrongen op een evaluatie. Deze evaluatie moet uiterlijk 3 jaar na de ingebruikname van de vijfde baan zijn afgerond, dus in februari 2006. Voor deze evaluatie is een afzonderlijk project opgestart: project Monitoring Evaluatie Implementatie Schiphol. De ingebruikname van de vijfde baan verliep niet helemaal vlekkeloos. Er bleek bij de Milieu Effect Rapportage een fout gemaakt te zijn bij de invoer van de gegevens. Even dreigde daardoor Schiphol minder capaciteit te krijgen dan mogelijk was, maar bij het herstel van deze invoerfout bleek deze vrees ongegrond. Ook had de LVNL problemen bij starts van de Zwanenburgbaan en de Polderbaan tegelijk. Bij de berekening van de capaciteit werd er vanuit gegaan dat dit mogelijk was. Ook dit probleem is in de loop van 2004 verholpen. In het RIO 1996 is al uitvoering ingegaan op het isolatieproject rondom Schiphol. Dit project wordt in 3 fases uitgevoerd. Fase 1 is in 1996 afgesloten. Op de werkzaamheden is een garantieregeling van toepassing die loopt tot 2007. De uitvoering van deze garantieregeling is in oktober 2004 overgegaan van DGL op RWS directie Noord-Holland. De uitvoering van fase 2 is in handen van RWS directie Noord Holland. Deze fase is in 2005 nog niet geheel afgerond. Inmiddels is DGL bezig met het opstarten van fase 3. Hoe deze fase ingericht gaat worden is nog niet duidelijk. In de eerste 2 fases lag het opdrachtgeverschap bij de Staat, voor fase 1 was dat DGL voor fase 2 RWS. De vorm waarin fase 3 wordt uitgevoerd is nog niet duidelijk. Eén van de opties is om het opdrachtgeverschap bij de eigenaren te leggen, en er een subsidieregeling van te maken. Door het beleid van Verkeer en Waterstaat rond Schiphol is het mogelijk dat burgers en bedrijven ernstige schade ondervinden die niet op enigerlei wijze is te verhalen. Voor dergelijke gevallen is in 1999 de [Regeling Nadeelcompensatie Verkeer en Waterstaat](../../../../../../../../../ministeriele-regeling/regeling/nadeelcompensatie/verkeer/en/waterstaat/1999/BWBR0010692/README.md) van kracht geworden. Deze verving de oude regeling die uitsluitend op Rijkswaterstaat betrekking had. De uitvoering van [deze regeling](../../../../../../../../../ministeriele-regeling/regeling/nadeelcompensatie/verkeer/en/waterstaat/1999/BWBR0010692/README.md), voor zover het betrekking heeft op de uitbreiding van Schiphol vastgelegd in de Planologische Kernbeslissing ‘Schiphol en Omgeving’, is overgedragen aan het Schadeschap Schiphol. Dit Schadeschap is ingesteld bij de Gemeenschappelijke [Regeling Schadeschap Luchthaven Schiphol](../../../../../../../../../ministeriele-regeling/gemeenschappelijke/regeling/schadeschap/luchthaven/schiphol/BWBR0009989/README.md) (Stcrt. 1998, 223) door de Minister van Verkeer en Waterstaat, de Provincie Noord-Holland, het Waterschap Groot-Haarlemmermeer en 19 gemeenten in de omgeving van Schiphol. 
 ###Regionale en kleine luchthavens
 
-In 1997 werd de Nota Regionale luchthaven strategie naar de Kamer gezonden. Met deze nota wordt de grondslag gelegd voor met name de financieel bestuurlijke verhoudingen tussen het rijk en de exploitanten van regionale luchtvaartterreinen. Rijksoverheid houdt alleen bemoeienis met die regionale luchthavens die een nationaal belang hebben, in overeenstemming met het beleid op gebied van de overige infrastructuur. In deze nota worden een aantal toetsingscriteria opgesteld. Gevolg hiervan is dat de luchthavens Maastricht, Eindhoven en Eelde rijksbetrokkenheid houden, luchthaven Rotterdam wordt later beoordeeld als het beleid ten aanzien van de hogesnelheidslijn en ten aanzien van Schiphol is voltooid. Daarnaast wil de overheid af van directe betrokkenheid bij de exploitatie. Deze exploitatie zal marktconform moeten. Dat houdt in dat de staatsaandelen vervreemd gaan worden en dat de bijdrage in de exploitatieverliezen zal worden beëindigd. Voor vliegvelden met rijksbetrokkenheid zal deze bijdrage afgekocht worden, de vliegvelden zonder rijksbemoeienis zullen het zonder afkoopsom moeten doen. Eind 1997 werden de nota Beleidsvisie kleine luchtvaartinfrastructuur en de Uitgangspunten beleidsvisie regionale luchtvaartinfrastructuur naar de Kamer gezonden. De verantwoordelijkheden en taken ten aanzien van de kleine luchthavens worden gedecentraliseerd. Het rijk blijft nog wel de grenzen van de milieuhinder vaststellen. Het doel is dat de ernstige hinder afneemt tot een verwaarloosbaar niveau. Voor de regionale luchthavens is er nog geen vaste visie. Wel zal er onderzoek gedaan worden naar de mogelijkheden om ook voor deze luchthavens de rijksbemoeienis te beperken tot het vaststellen van de normen voor milieu en veiligheid. De overige taken en verantwoordelijkheden zullen dan overgaan op de lagere overheden. Deze visie wijkt af van hetgeen in de nota RELUS werd gesteld, namelijk dat enkele met name genoemde vliegvelden nog enige rijksbemoeienis zouden houden vanwege het eventuele nationale belang dat deze luchthavens hebben. In 1999 verschijnt de Hoofdlijnennotitie Structuurschema Regionale en kleine luchthavens (kamerstuk 26893, nr. 1 en 2). Dit Structuurschema zal de opvolger van het Structuurschema Burgerluchtvaartterreinen moeten worden Dit laatstgenoemde Structuurschema is namelijk uitgewerkt per 31 december 2003. In deze notitie staan de twee basisdoelen voor het Structuurschema. Het is de bedoeling dat de besluitvorming over de ruimtelijke inpassing van luchthavens naar provincies zal overgaan. Alleen de begrenzing van de milieuruimte zal wel door het rijk worden vastgesteld. In 2002 wordt aan de Kamer meegedeeld dat het Structuurschema Regionale en Kleine Luchtvaartterreinen niet voltooid zal worden. Men kiest ervoor om de relevante regelingen direct in de [Wet Luchtvaart, hoofdstuk 7](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), op te nemen, dit naar analogie van Schiphol en de Schipholwet ([hoofdstuk 8 van de Wet Luchtvaart](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)). Alle randvoorwaarden voor geluid, veiligheid en emissies krijgen in deze wet een stevige juridische basis. De verantwoordelijkheid voor de ruimtelijke inpassing zal op basis van deze wet overgedragen worden aan de provincies. De uitwerking van deze beleidsvisie en het opstellen en wijzigen van de benodigde wet- en regelgeving ligt in handen van het project Regelingen Regionale en Kleine Luchthavens (RRKL).  
+In 1997 werd de Nota Regionale luchthaven strategie naar de Kamer gezonden. Met deze nota wordt de grondslag gelegd voor met name de financieel bestuurlijke verhoudingen tussen het rijk en de exploitanten van regionale luchtvaartterreinen. Rijksoverheid houdt alleen bemoeienis met die regionale luchthavens die een nationaal belang hebben, in overeenstemming met het beleid op gebied van de overige infrastructuur. In deze nota worden een aantal toetsingscriteria opgesteld. Gevolg hiervan is dat de luchthavens Maastricht, Eindhoven en Eelde rijksbetrokkenheid houden, luchthaven Rotterdam wordt later beoordeeld als het beleid ten aanzien van de hogesnelheidslijn en ten aanzien van Schiphol is voltooid. Daarnaast wil de overheid af van directe betrokkenheid bij de exploitatie. Deze exploitatie zal marktconform moeten. Dat houdt in dat de staatsaandelen vervreemd gaan worden en dat de bijdrage in de exploitatieverliezen zal worden beëindigd. Voor vliegvelden met rijksbetrokkenheid zal deze bijdrage afgekocht worden, de vliegvelden zonder rijksbemoeienis zullen het zonder afkoopsom moeten doen. Eind 1997 werden de nota Beleidsvisie kleine luchtvaartinfrastructuur en de Uitgangspunten beleidsvisie regionale luchtvaartinfrastructuur naar de Kamer gezonden. De verantwoordelijkheden en taken ten aanzien van de kleine luchthavens worden gedecentraliseerd. Het rijk blijft nog wel de grenzen van de milieuhinder vaststellen. Het doel is dat de ernstige hinder afneemt tot een verwaarloosbaar niveau. Voor de regionale luchthavens is er nog geen vaste visie. Wel zal er onderzoek gedaan worden naar de mogelijkheden om ook voor deze luchthavens de rijksbemoeienis te beperken tot het vaststellen van de normen voor milieu en veiligheid. De overige taken en verantwoordelijkheden zullen dan overgaan op de lagere overheden. Deze visie wijkt af van hetgeen in de nota RELUS werd gesteld, namelijk dat enkele met name genoemde vliegvelden nog enige rijksbemoeienis zouden houden vanwege het eventuele nationale belang dat deze luchthavens hebben. In 1999 verschijnt de Hoofdlijnennotitie Structuurschema Regionale en kleine luchthavens (kamerstuk 26893, nr. 1 en 2). Dit Structuurschema zal de opvolger van het Structuurschema Burgerluchtvaartterreinen moeten worden Dit laatstgenoemde Structuurschema is namelijk uitgewerkt per 31 december 2003. In deze notitie staan de twee basisdoelen voor het Structuurschema. Het is de bedoeling dat de besluitvorming over de ruimtelijke inpassing van luchthavens naar provincies zal overgaan. Alleen de begrenzing van de milieuruimte zal wel door het rijk worden vastgesteld. In 2002 wordt aan de Kamer meegedeeld dat het Structuurschema Regionale en Kleine Luchtvaartterreinen niet voltooid zal worden. Men kiest ervoor om de relevante regelingen direct in de [Wet Luchtvaart, hoofdstuk 7](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), op te nemen, dit naar analogie van Schiphol en de Schipholwet ([hoofdstuk 8 van de Wet Luchtvaart](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)). Alle randvoorwaarden voor geluid, veiligheid en emissies krijgen in deze wet een stevige juridische basis. De verantwoordelijkheid voor de ruimtelijke inpassing zal op basis van deze wet overgedragen worden aan de provincies. De uitwerking van deze beleidsvisie en het opstellen en wijzigen van de benodigde wet- en regelgeving ligt in handen van het project Regelingen Regionale en Kleine Luchthavens (RRKL). 
 
 #### *2.3. De actoren op het beleidsterrein, voor zover hun selectielijsten in het BSD zijn opgenomen* 
 
@@ -291,21 +291,21 @@ Minister van Justitie Veiligheidscommissies (nationale en lokale) voor de Burger
 Minister van Landbouw en Visserij 
 ###Actor onder de zorg van de Minister van Onderwijs, Cultuur en Wetenschappen
 
-Minister van OC&W  
+Minister van OC&W 
 
 #### *2.4. Totstandkoming BSD* 
 
 #### *2.4.1. Achtergrond* 
 
-Het PIVOT-rapport nr. 16 ‘Luchtvaart gebonden. Een institutioneel onderzoek op het terrein van de burgerluchtvaart, 1945–1993’ (PIVOT-rapport nr. 16. ’s-Gravenhage, 1994)’ vormt de grondslag van het basisselectiedocument Burgerluchtvaart. Het rapport geeft een overzicht van de actoren op het terrein van de burgerluchtvaart en beschrijft het handelen van de organen van de rijksoverheid op dat terrein. Het onderzoek waarop het BSD berust, is eind 1993 afgesloten. In 1994 en 1995 zijn in het kader van het driehoeksoverleg en naar aanleiding van het advies van de RCA nog enkele aanvullingen en wijzigingen aangebracht. Het BSD is niet in zijn geheel vastgesteld, maar in etappes. Per zorgdrager werd een deel van het BSD vastgesteld. Het eerste en grootste deel-BSD betrof de handelingen van de Minister van V&W en de onder deze ressorterende organen op het beleidsterrein van de burgerluchtvaart. De handelingen hadden betrekking op het werkterrein van de Rijksluchtvaartdienst van het Ministerie van Verkeer en Waterstaat. In concreto omvatte dit ‘deel-BSD Rijksluchtvaartdienst’ de handelingen BSD-nummers 1-351 en 358-361. Dit BSD is vastgesteld in Stcrt. 1996/194. Het tweede deel-BSD betrof de handelingen van de Luchtverkeersbeveiligingsorganisatie (LVB-organisatie): de BSD-nrs. 423-449. Dit BSD is vastgesteld in Stcrt. 1996/205. Tot slot is in 2002 het BSD voor het Ministerie van Defensie vastgesteld in Stcrt. 2002/180.  
+Het PIVOT-rapport nr. 16 ‘Luchtvaart gebonden. Een institutioneel onderzoek op het terrein van de burgerluchtvaart, 1945–1993’ (PIVOT-rapport nr. 16. ’s-Gravenhage, 1994)’ vormt de grondslag van het basisselectiedocument Burgerluchtvaart. Het rapport geeft een overzicht van de actoren op het terrein van de burgerluchtvaart en beschrijft het handelen van de organen van de rijksoverheid op dat terrein. Het onderzoek waarop het BSD berust, is eind 1993 afgesloten. In 1994 en 1995 zijn in het kader van het driehoeksoverleg en naar aanleiding van het advies van de RCA nog enkele aanvullingen en wijzigingen aangebracht. Het BSD is niet in zijn geheel vastgesteld, maar in etappes. Per zorgdrager werd een deel van het BSD vastgesteld. Het eerste en grootste deel-BSD betrof de handelingen van de Minister van V&W en de onder deze ressorterende organen op het beleidsterrein van de burgerluchtvaart. De handelingen hadden betrekking op het werkterrein van de Rijksluchtvaartdienst van het Ministerie van Verkeer en Waterstaat. In concreto omvatte dit ‘deel-BSD Rijksluchtvaartdienst’ de handelingen BSD-nummers 1-351 en 358-361. Dit BSD is vastgesteld in Stcrt. 1996/194. Het tweede deel-BSD betrof de handelingen van de Luchtverkeersbeveiligingsorganisatie (LVB-organisatie): de BSD-nrs. 423-449. Dit BSD is vastgesteld in Stcrt. 1996/205. Tot slot is in 2002 het BSD voor het Ministerie van Defensie vastgesteld in Stcrt. 2002/180. 
 
 #### *2.4.2. Actualisatie* 
 
-In 2005 is het BSD in opdracht van het Ministerie van Verkeer en Waterstaat geactualiseerd. Het aanvullend onderzoek is uitgevoerd door Mw. drs. M. Doekes van Digital Display. Het vaststellingstraject is in 2006 door het Ministerie overgedragen aan Mw. drs. L. Boer, BSD-medewerker van het Project Wegwerken Archiefachterstanden (PWAA). Na een eerste beoordeling van het Nationaal Archief is het aanvullend onderzoek door PWAA verwerkt en in het onderhavige BSD ingevoegd. Het nieuwe BSD omvat de ontwikkelingen op het beleidsterrein Burgerluchtvaart vanaf 1997 tot 2005.  
+In 2005 is het BSD in opdracht van het Ministerie van Verkeer en Waterstaat geactualiseerd. Het aanvullend onderzoek is uitgevoerd door Mw. drs. M. Doekes van Digital Display. Het vaststellingstraject is in 2006 door het Ministerie overgedragen aan Mw. drs. L. Boer, BSD-medewerker van het Project Wegwerken Archiefachterstanden (PWAA). Na een eerste beoordeling van het Nationaal Archief is het aanvullend onderzoek door PWAA verwerkt en in het onderhavige BSD ingevoegd. Het nieuwe BSD omvat de ontwikkelingen op het beleidsterrein Burgerluchtvaart vanaf 1997 tot 2005. 
 
 #### *2.4.3. Nummering* 
 
-In de actualisatie is *niet* de nummering uit het oorspronkelijke PIVOT-rapport gehanteerd, maar die uit het vastgestelde BSD Burgerluchtvaart, zoals vastgesteld door het Ministerie van V&W in 1996. Zoals u hierboven kunt lezen, zijn in dit BSD handelingen opgenomen tot en met nummer 449 (zie ook bijlage 2). De nieuwe handelingen die zijn opgenomen in de actualisatie, beginnen daarom ook bij nummer 450 (zie bijlage 1 en uitleg onder paragraaf 2.4.4). Omdat de handelingen van Defensie uit 2002 genummerd waren volgens het RIO zijn deze ook opgenummerd. De nieuw opgevoerde handelingen uit deze selectielijst, zijn omgenummerd (zie bijlage 3).  
+In de actualisatie is *niet* de nummering uit het oorspronkelijke PIVOT-rapport gehanteerd, maar die uit het vastgestelde BSD Burgerluchtvaart, zoals vastgesteld door het Ministerie van V&W in 1996. Zoals u hierboven kunt lezen, zijn in dit BSD handelingen opgenomen tot en met nummer 449 (zie ook bijlage 2). De nieuwe handelingen die zijn opgenomen in de actualisatie, beginnen daarom ook bij nummer 450 (zie bijlage 1 en uitleg onder paragraaf 2.4.4). Omdat de handelingen van Defensie uit 2002 genummerd waren volgens het RIO zijn deze ook opgenummerd. De nieuw opgevoerde handelingen uit deze selectielijst, zijn omgenummerd (zie bijlage 3). 
 
 #### *2.4.4. Wijzigingen ten opzichte van het RIO en het vastgestelde BSD* 
 
@@ -315,7 +315,7 @@ Naar aanleiding van het aanvullende onderzoek is het vastgestelde BSD gewijzigd 
 Er zijn nieuwe, algemene en specifieke handelingen in het BSD opgenomen. De nieuwe handelingen zijn doorgenummerd vanaf het vastgestelde BSD en beginnen bij nr. 450 (zie uitleg onder paragraaf 2.4.3). De algemene handelingen zijn opgenomen, omdat deze in het vastgestelde BSD per abuis ontbraken. Het betreft handelingennrs. 450 t/m 476, 479, 480, 482, 483, 485, 487 t/m 490 en 507, 528, 529. De specifieke handelingen, nrs. 491 t/m 496, 498, 499, 504, 505 en 508 t/m 510, zijn opgenomen naar aanleiding van het aanvullend onderzoek van Mw. Doekes. Deze handelingen zijn gebaseerd op bevindingen van de CAS tijdens het bewerken van het archief van de Rijksluchtvaartdienst 1929–1979. Handeling 512 en 513 zijn opgenomen voor de inspecties. Handeling 514 betreft bewijzen van bevoegdheid en handeling 515 betreft subsidies. Handeling 516 betreft het adviseren aan verantwoordelijke Ministers over de burgerluchtvaart. Deze handeling komt veel voor bij commissies en werkgroepen. Handeling 522 is een nieuwe handeling onder de actor Minister-president. Handelingen 517 t/m 521 en 523 t/m 525 zijn nieuwe door de CAS geformuleerde handelingen voor commissies of nieuwe handelingen, omdat de oude uit het RIO afkomstige handeling, is gesplitst in meerdere handelingen. Handelingen 526, 527, 530 en 531 zijn geabstraheerde handelingen, gebaseerd op handelingen uit de selectielijst van de Minister van Defensie (Stcrt. 2002/180). 
 ###Clustering handelingen
 
-Door de toevoeging van nieuwe, algemene handelingen konden een groot aantal handelingen uit het BSD uit 1996 worden ondervangen, wat een overzichtelijker en vereenvoudigd BSD heeft opgeleverd. Zo stonden in het vastgestelde BSD een tiental gelijksoortige handelingen over beleidsvorming, en enkele tientallen handelingen op het gebied van wet- en regelgeving. Met name op het gebied van uitvoering kwamen veel gelijksoortige handelingen voor, vaak zo specifiek dat ze maar op één bepaalde soort ontheffing, subsidie of vergunning konden worden toegepast. Handelingen op een algemener niveau zijn veel geschikter voor selectie dan detaillistische handelingen. Het vastgestelde BSD bleek hiernaast niet bruikbaar voor de interne ordening van de archieven van het Ministerie van V&W. Daarom zijn gelijksoortige handelingen geclusterd en ondergebracht onder handelingen over hetzelfde onderwerp, maar op een hoger niveau. Handeling 487, bijvoorbeeld, *het beheren en onderhouden van (registratie-) systemen aangaande het beleidsterrein burgerluchtvaart,* ondervangt plusminus tien handelingen over registers. In bijlage 1 vindt u een overzicht van de nieuwe handelingen en de handelingen die worden ondervangen. De ondervangen handelingen, allen dus afkomstig uit het vastgestelde BSD Burgerluchtvaart uit 1996, zullen na vaststelling van de onderhavige actualisatie worden ingetrokken. 
+Door de toevoeging van nieuwe, algemene handelingen konden een groot aantal handelingen uit het BSD uit 1996 worden ondervangen, wat een overzichtelijker en vereenvoudigd BSD heeft opgeleverd. Zo stonden in het vastgestelde BSD een tiental gelijksoortige handelingen over beleidsvorming, en enkele tientallen handelingen op het gebied van wet- en regelgeving. Met name op het gebied van uitvoering kwamen veel gelijksoortige handelingen voor, vaak zo specifiek dat ze maar op één bepaalde soort ontheffing, subsidie of vergunning konden worden toegepast. Handelingen op een algemener niveau zijn veel geschikter voor selectie dan detaillistische handelingen. Het vastgestelde BSD bleek hiernaast niet bruikbaar voor de interne ordening van de archieven van het Ministerie van V&W.  Daarom zijn gelijksoortige handelingen geclusterd en ondergebracht onder handelingen over hetzelfde onderwerp, maar op een hoger niveau. Handeling 487, bijvoorbeeld, *het beheren en onderhouden van (registratie-) systemen aangaande het beleidsterrein burgerluchtvaart,* ondervangt plusminus tien handelingen over registers.  In bijlage 1 vindt u een overzicht van de nieuwe handelingen en de handelingen die worden ondervangen. De ondervangen handelingen, allen dus afkomstig uit het vastgestelde BSD Burgerluchtvaart uit 1996, zullen na vaststelling van de onderhavige actualisatie worden ingetrokken. 
 ###Vervallen handelingen
 
 Naast de geclusterde handelingen die kunnen worden ingetrokken, zijn een drietal handelingen vervallen omdat ze in andere BSD’s voorkomen. Handelingen 234 en 259 vervallen: handelingen met betrekking tot de rijksbegroting staan in het desbetreffende BSD. Voor neerslag met betrekking op de Nationale ombudsman wordt verwezen naar het BSD Nationale ombudsman voor de vakMinister. Handeling 410, 411, 412 (actor Minister van Justitie) vervallen, omdat deze gedekt worden door het [BSD Politie](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022767/README.md) (Stcrt. 2007/215). Handeling 418 vervalt (actor Minister van LNV) ook. Voor de neerslag wordt verwezen naar het BSD Gezondheid en Welzijn van Dieren (Stcrt. 2007/104). Tenslotte vervallen handeling 381, 384 en 487 van de Minister van Financiën, omdat deze handelingen al zijn of in een actualisatie worden opgenomen in het [BSD Invoerrechten en accijnzen](../../../../../../../../../ministeriele-regeling-archiefselectielijst/selectielijst/handelingen/minister/van/financiën/en/de/onder/hem/etc/BWBR0011897/README.md) (Stcrt. 2001/24). De periode van deze handelingen kan bij een actualisatie worden verruimd. 
@@ -367,25 +367,25 @@ Het onderhavige BSD bevat handelingen voor de Ministeries die het BSD Burgerluch
 
 – Staatscommissie Wijziging Verdrag van Chicago 1944;  
 
-– Werkgroep Nachtnormering.    
+– Werkgroep Nachtnormering.   
 
 ####3. Selectiedoelstelling
 
-De doelstelling van het Nationaal Archief bij de selectie van overheidsarchieven is dat de belangrijkste bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de rijksoverheid ten opzichte van haar omgeving, maar ook van de belangrijkste historisch-maatschappelijke gebeurtenissen en ontwikkelingen, voor zover deze zijn te reconstrueren uit overheidsarchieven.  
+De doelstelling van het Nationaal Archief bij de selectie van overheidsarchieven is dat de belangrijkste bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de rijksoverheid ten opzichte van haar omgeving, maar ook van de belangrijkste historisch-maatschappelijke gebeurtenissen en ontwikkelingen, voor zover deze zijn te reconstrueren uit overheidsarchieven. 
 
 ####4. Selectiecriteria
 
 Om de selectiedoelstelling te bereiken worden de handelingen in het BSD gewaardeerd aan de hand van de onderstaande *algemene* selectiecriteria. Deze criteria zijn in 1997 door het Convent van Rijksarchivarissen vastgesteld en geaccordeerd door PC DIN en KNHG. 
 ###Selectiecriteria
 
-Handelingen die gewaardeerd worden met *B* (ewaren) 
+Handelingen die gewaardeerd worden met *B*(ewaren) 
 ###Algemene selectiecriteria
 
-1. Handelingen die betrekking hebben op *voorbereiding en bepaling van beleid* op hoofdlijnen *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op *evaluatie van beleid* op hoofdlijnen *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op *verantwoording* van beleid op hoofdlijnen aan andere actoren *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op *(her)inrichting van organisaties* belast met beleid op hoofdlijnen *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop *beleidsuitvoering* op hoofdlijnen plaatsvindt  *Toelichting:*  Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op *beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten *Toelichting:* Bijvoorbeeld in het geval de Ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd.   
+1. Handelingen die betrekking hebben op *voorbereiding en bepaling van beleid* op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op *evaluatie van beleid* op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op *verantwoording* van beleid op hoofdlijnen aan andere actoren  *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op *(her)inrichting van organisaties* belast met beleid op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop *beleidsuitvoering* op hoofdlijnen plaatsvindt  *Toelichting:*  Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op *beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten  *Toelichting:* Bijvoorbeeld in het geval de Ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd.  
 
 ####5. Verslag van de vaststellingsprocedure
 
-In mei 2007 is het ontwerp-BSD door de Ministers van Verkeer en Waterstaat, van Algemene Zaken, van Buitenlandse Zaken, van Defensie, van Financiën, van Onderwijs, Cultuur en Wetenschap, van Justitie, van Landbouw, Natuur en Voedselkwaliteit aan de Minister van Onderwijs, Cultuur en Wetenschap aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 2 juni 2008 lag de selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Nationaal Archief. Tevens is de selectielijst beschikbaar gesteld via de website van het Nationaal Archief en de website van het Ministerie van Onderwijs, Cultuur en Wetenschap, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 24 juni 2008 bracht de RvC advies uit (bca-2008.04926/2), hetwelk geen aanleiding heeft gegeven tot wijzigingen in de ontwerp-selectielijst. Daarop werd het BSD op 28 juli 2008 door de wnd. algemene rijksarchivaris, namens de Minister van Onderwijs, Cultuur en Wetenschap en Projectdirecteur Project Wegwerken Archiefachterstanden (conform het convenant d.d. 30 mei 2006) namens de Minister Verkeer en Waterstaat ([C/S&A/08/1568](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0024432/README.md)), van Algemene Zaken ([C/S&A/08/1562](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0024426/README.md)), van Buitenlandse Zaken ([C/S&A/08/1563](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0024427/README.md)), van Defensie ([C/S&A/08/1564](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0024428/README.md)), van Financiën ([C/S&A/08/1565](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0024429/README.md)), van Justitie (C/S&A/08/1570), van Landbouw, Natuur en Voedselkwaliteit ([C/S&A/08/1566](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0024430/README.md)) en van Onderwijs, Cultuur en Wetenschap ([C/S&A/08/1567](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0024431/README.md)) vastgesteld.  
+In mei 2007 is het ontwerp-BSD door de Ministers van Verkeer en Waterstaat, van Algemene Zaken, van Buitenlandse Zaken, van Defensie, van Financiën, van Onderwijs, Cultuur en Wetenschap, van Justitie, van Landbouw, Natuur en Voedselkwaliteit aan de Minister van Onderwijs, Cultuur en Wetenschap aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 2 juni 2008 lag de selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Nationaal Archief. Tevens is de selectielijst beschikbaar gesteld via de website van het Nationaal Archief en de website van het Ministerie van Onderwijs, Cultuur en Wetenschap, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 24 juni 2008 bracht de RvC advies uit (bca-2008.04926/2), hetwelk geen aanleiding heeft gegeven tot wijzigingen in de ontwerp-selectielijst. Daarop werd het BSD op 28 juli 2008 door de wnd. algemene rijksarchivaris, namens de Minister van Onderwijs, Cultuur en Wetenschap en Projectdirecteur Project Wegwerken Archiefachterstanden (conform het convenant d.d. 30 mei 2006) namens de Minister Verkeer en Waterstaat ([C/S&A/08/1568](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0024432/README.md)), van Algemene Zaken ([C/S&A/08/1562](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0024426/README.md)), van Buitenlandse Zaken ([C/S&A/08/1563](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0024427/README.md)), van Defensie ([C/S&A/08/1564](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0024428/README.md)), van Financiën ([C/S&A/08/1565](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0024429/README.md)), van Justitie (C/S&A/08/1570), van Landbouw, Natuur en Voedselkwaliteit ([C/S&A/08/1566](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0024430/README.md)) en van Onderwijs, Cultuur en Wetenschap ([C/S&A/08/1567](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0024431/README.md)) vastgesteld. 
 
 ####6. Leeswijzer van de handelingen
 
@@ -416,7 +416,7 @@ Dit is de wettelijke basis op grond waarvan de actor de handeling verricht, indi
 
 – naam van de wet, de algemene Maatregel van bestuur, het Koninklijk Besluit of Ministeriële regeling;  
 
-– het betreffende artikel en het lid daarvan.   De overige gegevens (vindplaats, wijzigingen of vervallen kunnen worden vermeld in een overzicht van geraadpleegde wetten)  *Bijvoorbeeld:*  Reclasseringsregeling 1947, art. 9, lid 2, Reclasseringsregeling 1970, art. 8, lid 3   NB: Met *vindplaats* wordt de vermelding in het staatsblad of staatscourant bedoeld. Het verdient de voorkeur de vindplaats van de grondslag op te nemen in het handelingenblok. Een andere mogelijkheid is de vindplaats in het overzicht van wet- en regelgeving te vermelden. Duidelijk moet zijn op welke versie van een wet- of regeling een handeling gebaseerd is. Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de *bron* (interne regelgeving, beleidsnota’s) worden genoemd waarin de betreffende handeling staat vermeld. 
+– het betreffende artikel en het lid daarvan.   De overige gegevens (vindplaats, wijzigingen of vervallen kunnen worden vermeld in een overzicht van geraadpleegde wetten)  *Bijvoorbeeld:*  Reclasseringsregeling 1947, art. 9, lid 2, Reclasseringsregeling 1970, art. 8, lid 3   NB: Met *vindplaats* wordt de vermelding in het staatsblad of staatscourant bedoeld. Het verdient de voorkeur de vindplaats van de grondslag op te nemen in het handelingenblok. Een andere mogelijkheid is de vindplaats in het overzicht van wet- en regelgeving te vermelden. Duidelijk moet zijn op welke versie van een wet- of regeling een handeling gebaseerd is.  Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de *bron* (interne regelgeving, beleidsnota’s) worden genoemd waarin de betreffende handeling staat vermeld.  
 ###Product
 
 Hier achter staat het product vermeld waarin de handeling resulteert of zou moeten resulteren. Opsommingen geven een indicatie van de producten en zijn niet altijd uitputtend. Vaak wordt volstaan met een algemeen omschreven eindproduct Toepassing is afhankelijk van de zorgdrager. 
@@ -425,11 +425,11 @@ Hier achter staat het product vermeld waarin de handeling resulteert of zou moet
 Deze aanvullende informatie wordt slechts vermeld wanneer (een onderdeel van) het handelingenblok toelichting behoeft. 
 ###Waardering
 
-Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn, zonodig aangevuld met een bewerkingsinstructie, bijvoorbeeld: ‘v 5 jaar na voltooiing project’. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering.  
+Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn, zonodig aangevuld met een bewerkingsinstructie, bijvoorbeeld: ‘v 5 jaar na voltooiing project’. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering. 
 
 ####7. Actorenoverzicht
 
-Op het beleidsterrein van de burgerluchtvaart zijn drie belangrijke groepen van actoren te onderscheiden: de (rijks)overheid, het bedrijfsleven en de onderzoeksinstellingen. De niet-commerciële burgerluchtvaart – de recreatieve en het vervoer ten eigen behoeve – staat enigszins op de achtergrond. Het luchtvaartgebonden bedrijfsleven bestaat uit vervoersondernemingen, bevrachters, luchtvracht-⁠afhandelingsbedrijven, luchtkoeriersdiensten, uit zg. vliegbedrijven, die geen vervoer maar diensten leveren en zoals de Vereniging van Nederlandse Verkeersvliegers (VNV). De luchtvaartindustrie valt sinds het begin van de jaren zeventig onder de zorg van de Minister van Economische Zaken. Het Nationaal Lucht- en Ruimtevaartlaboratorium, een stichting die in 1937 voortgekomen is uit de Rijksstudiedienst voor de Luchtvaart (1920–1937), is het centrale researchinstituut op het gebied van lucht- en ruimtevaart. Voor de andere onderzoeksinstellingen – het Nationaal Lucht en Ruimtevaart Geneeskundig Centrum en het Nederlands Instituut voor Vliegtuigontwikkeling – zijn respectievelijk de Minister van Defensie en de Minister van Economische Zaken ‘eerste penvoerder’. De voornaamste actoren van het rijk op het beleidsterrein van de burgerluchtvaart zijn: 
+Op het beleidsterrein van de burgerluchtvaart zijn drie belangrijke groepen van actoren te onderscheiden: de (rijks)overheid, het bedrijfsleven en de onderzoeksinstellingen. De niet-commerciële burgerluchtvaart – de recreatieve en het vervoer ten eigen behoeve – staat enigszins op de achtergrond.  Het luchtvaartgebonden bedrijfsleven bestaat uit vervoersondernemingen, bevrachters, luchtvracht-⁠afhandelingsbedrijven, luchtkoeriersdiensten, uit zg. vliegbedrijven, die geen vervoer maar diensten leveren en zoals de Vereniging van Nederlandse Verkeersvliegers (VNV). De luchtvaartindustrie valt sinds het begin van de jaren zeventig onder de zorg van de Minister van Economische Zaken. Het Nationaal Lucht- en Ruimtevaartlaboratorium, een stichting die in 1937 voortgekomen is uit de Rijksstudiedienst voor de Luchtvaart (1920–1937), is het centrale researchinstituut op het gebied van lucht- en ruimtevaart. Voor de andere onderzoeksinstellingen – het Nationaal Lucht en Ruimtevaart Geneeskundig Centrum en het Nederlands Instituut voor Vliegtuigontwikkeling – zijn respectievelijk de Minister van Defensie en de Minister van Economische Zaken ‘eerste penvoerder’. De voornaamste actoren van het rijk op het beleidsterrein van de burgerluchtvaart zijn: 
 
 – de Minister van V&W, dan wel de (directeur-generaal van de) Rijksluchtvaartdienst (RLD);  
 
@@ -545,7 +545,7 @@ De werkgroep adviseert over de hoofdlijnen en onderdelen van het beleid inzake v
 De werkgroep was werkzaam in de periode 1959 – 1962 en stelde een rapport op inzake de Nederlandse luchtvaartindustrie t.b.v. de Ministerraad 
 ###Werkgroep ter Voorkoming van Aanvaringen tussen Vogels en Civiele Luchtvaartuigen
 
-De werkgroep verricht studies ter vermindering van de kans op en de risico’s van vogelaanvaringen, onderzoekt en laat studies verrichten ter vermindering van de kans op en de risico’s van vogelaanvaringen.  
+De werkgroep verricht studies ter vermindering van de kans op en de risico’s van vogelaanvaringen, onderzoekt en laat studies verrichten ter vermindering van de kans op en de risico’s van vogelaanvaringen. 
 
 #### *7.2. Secundaire actoren: Ministeries* 
 
@@ -566,7 +566,7 @@ Minister president De Minister-president kan in buitengewone omstandigheden de M
 Minister van Buitenlandse Zaken De coördinatie van het Nederlandse buitenlandse beleid ligt in handen van de Minister van Buitenlandse Zaken. De uitvoering hiervan berust bij de Verkeersadviseur van het Ministerie van Buitenlandse Zaken. Met Buitenlandse Zaken voert de RLD overleg, wanneer het om de voorbereiding van delegaties naar de Plenaire Vergadering van de ICAO gaat (voor het opstellen van de instructie). Over bepaalde agendapunten wordt Buitenlandse Zaken eveneens geconsulteerd. De RLD-contributie voor de ICAO loopt via de ‘pot’ van Ontwikkelingssamenwerking. Met Justitie is er overleg over beveiligingsaspecten. De voorbereiding en het overleg in Brussel worden echter door Buitenlandse Zaken, dan wel Binnenlandse Zaken gevoerd. 
 ###Actoren onder de zorg van het Ministerie van Defensie:
 
-Minister van Defensie Tot 1959 bestonden er twee afzonderlijke Ministeries op het beleidsterrein Defensie: het Ministerie van Oorlog (land- en luchtmacht) en het Ministerie van Marine. In dit rapport is geen onderscheid gemaakt tussen de periode tot 1959 en na 1959. Voor de Minister van Defensie leze men, waar het de periode tot 1959 betreft, de Ministers van Oorlog en van Marine. Namens of vanwege de Minister van V&W voert het Directoraat-Generaal Rijksluchtvaartdienst (RLD) de overheidstaken op het gebied van de burgerluchtvaart uit. Dit gebeurt veelal in nauwe samenwerking met de Minister van Defensie. De Minister van Defensie is op dit beleidsterrein verantwoordelijk voor de militaire luchtvaart. Tussen de militaire en de burgerluchtvaart (Defensie en V&W) bestaan nauwe verbindingen. Dit geldt vooral t.a.v. de luchtverkeersbeveiliging, de vliegvelden en de brevetten. De [Luchtvaartwet](../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) van 1958 (Stb. 47) en de Luchtverkeerswet van 1992 (Stb. 368) gelden voor zowel de militaire als de burgerluchtvaart. Voor de algemene verkeersveiligheid in de lucht draagt de Minister van V&W een bijzondere verantwoordelijkheid. In gevallen die zowel de V&W als de Minister van Defensie aangaan, treden beiden op (bij voorbeeld bij het medegebruik van militaire luchtvaarttereinen door de civiele luchtvaart).  <sup> 3  De LVW 1926 daarentegen richtte zich uitsluitend tot de minister van (Verkeer en) Waterstaat.  </sup> Commissie Vogelaanvaringen Luchtvaartuigen De commissie verricht studies ter vermindering van de kans op en de risico’s van vogelaanvaringen, onderzoekt en laat studies verrichten ter vermindering van de kans op en de risico’s van vogelaanvaringen. 
+Minister van Defensie Tot 1959 bestonden er twee afzonderlijke Ministeries op het beleidsterrein Defensie: het Ministerie van Oorlog (land- en luchtmacht) en het Ministerie van Marine. In dit rapport is geen onderscheid gemaakt tussen de periode tot 1959 en na 1959. Voor de Minister van Defensie leze men, waar het de periode tot 1959 betreft, de Ministers van Oorlog en van Marine. Namens of vanwege de Minister van V&W voert het Directoraat-Generaal Rijksluchtvaartdienst (RLD) de overheidstaken op het gebied van de burgerluchtvaart uit. Dit gebeurt veelal in nauwe samenwerking met de Minister van Defensie. De Minister van Defensie is op dit beleidsterrein verantwoordelijk voor de militaire luchtvaart. Tussen de militaire en de burgerluchtvaart (Defensie en V&W) bestaan nauwe verbindingen. Dit geldt vooral t.a.v. de luchtverkeersbeveiliging, de vliegvelden en de brevetten. De [Luchtvaartwet](../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) van 1958 (Stb. 47) en de Luchtverkeerswet van 1992 (Stb. 368) gelden voor zowel de militaire als de burgerluchtvaart. Voor de algemene verkeersveiligheid in de lucht draagt de Minister van V&W een bijzondere verantwoordelijkheid.  In gevallen die zowel de V&W als de Minister van Defensie aangaan, treden beiden op (bij voorbeeld bij het medegebruik van militaire luchtvaarttereinen door de civiele luchtvaart). <sup>3De LVW 1926 daarentegen richtte zich uitsluitend tot de minister van (Verkeer en) Waterstaat.</sup>Commissie Vogelaanvaringen Luchtvaartuigen De commissie verricht studies ter vermindering van de kans op en de risico’s van vogelaanvaringen, onderzoekt en laat studies verrichten ter vermindering van de kans op en de risico’s van vogelaanvaringen. 
 ###Milieucommissies ex. [art. 28 LVW](../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md)
 
 De commissies adviseren over de verbetering en handhaving van de milieuhygiëne rondom het luchtvaartterrein 
@@ -584,7 +584,7 @@ De commissie adviseert over de ontwikkeling en invoering van beveiligingsmaatreg
 Minister van Landbouw en Visserij De Minister van Landbouw en Visserij is verantwoordelijk voor het dierenvervoer en stelt regels op inzake luchtvaartuigtoepassing van bestrijdingsmiddelen. Hiernaast adviseert deze Minister de Minister van V&W over de relatie tussen het gebruik van het luchtruim door vliegtuigen en het gebruik van de grond door bebouwing. 
 ###Actor onder zorg van het Ministerie van Onderwijs, Cultuur en Wetenschappen
 
-De Minister van OC&W gaf enkel erkenning aan de luchtvaartschool.  
+De Minister van OC&W gaf enkel erkenning aan de luchtvaartschool. 
 
 ####Selectielijsten
 
@@ -636,7 +636,7 @@ Handeling: Het begeleiden en vaststellen van intern of extern (wetenschappelijk)
 
 ###459.
 
-Handeling: Het opstellen van een advies voor de Minister en/of staatssecretaris en/of departementleiding aangaande het beleidsterrein burgerluchtvaart Periode: 1945– Opmerking: Deze handeling betreft *interne* advisering, adviezen opgesteld door de diverse directies binnen het Ministerie. Voor externe advisering, zie handeling 516 Waardering: B 5 
+Handeling: Het opstellen van een advies voor de Minister en/of staatssecretaris en/of departementleiding aangaande het beleidsterrein burgerluchtvaart Periode: 1945–  Opmerking: Deze handeling betreft *interne* advisering, adviezen opgesteld door de diverse directies binnen het Ministerie. Voor externe advisering, zie handeling 516  Waardering: B 5 
 ###460.
 
 Handeling: Het adviseren van andere Ministers aangaande het beleidsterrein burgerluchtvaart Periode: 1945– Waardering: B 5 
@@ -731,7 +731,7 @@ Handeling: Het uitvoeren van voorlichtingsactiviteiten op het beleidsterrein bur
 Handeling: Het behandelen van bezwaarschriften betreffende het beleidsterrein burgerluchtvaart Periode: 1945– Waardering: AROB-zaken die tot bijstelling van het beleid hebben geleid: B 5 Overige neerslag: V 10 jaar 
 ###529.
 
-Handeling: Het informeren van de Commissie voor de Verzoekschriften en andere tot onderzoeken van klachten bevoegde commissies uit de Kamers der Staten-Generaal en de Nationale Ombudsman naar aanleiding van klachten over de uitvoering of de gevolgen van het beleid betreffende (burger-)luchtvaart Periode: 1945– Waardering: B 3  
+Handeling: Het informeren van de Commissie voor de Verzoekschriften en andere tot onderzoeken van klachten bevoegde commissies uit de Kamers der Staten-Generaal en de Nationale Ombudsman naar aanleiding van klachten over de uitvoering of de gevolgen van het beleid betreffende (burger-)luchtvaart Periode: 1945– Waardering: B 3 
 
 #### *8.1.3. UITVOERING* 
 
@@ -769,7 +769,7 @@ Handeling: Het machtigen van besturen van landelijke, rechtspersoonlijkheid bezi
 
 Handeling: Het verlenen, wijzigen en intrekken van vergunningen, certificaten, bewijzen, ontheffingen, erkenningen en vrijstellingen op het beleidsterrein burgerluchtvaart Periode: 1929– Product: correspondentie, vergunningen, certificaten, bewijzen Opmerking: Onder deze handeling valt ook het instemmen met door de Minister van Economische Zaken te verlenen vergunningen ingevolge artikel 40, derde lid, van het Mijnreglement continentaal plat voor het gebruik van het helikopterdek van mijnbouwinstallaties Waar ‘vergunningen’ staat kan ook certificaten, bewijzen, ontheffingen, erkenningen of vrijstellingen gelezen worden Waardering: Wordt uitgesplitst per categorie:  
 
-| Vergunningen etc. betreffende Luchtvaarttechnische bedrijven:  | Waardering  |
+|  Vergunningen etc. betreffende Luchtvaarttechnische bedrijven:  |  Waardering   |
 |:---|:---|
 | Persoonsvergunningen  | V 10 jaar na intrekken  |
 | Productvergunningen, zoals:  | --- |
@@ -799,7 +799,7 @@ Handeling: Het verlenen, wijzigen en intrekken van vergunningen, certificaten, b
 | Verkeer op of in de nabijheid luchtvaartterrein  | V 10 jaar na intrekken  |
 | Luchtvaartnavigatie dienstverleners  | V 10 jaar na intrekken  |
 | --- | --- |
-|  *Vergunningen etc. betreffende Luchtvaartoperationele bedrijven, zoals:*   | --- |
+|  *Vergunningen etc. betreffende Luchtvaartoperationele bedrijven, zoals: *   | --- |
 | Medische verklaringen en autorisaties  | V 10 jaar na intrekken  |
 | Kwalificatie van opleidings- en trainingsinstellingen en trainingsmiddelen (flightsimulators)  | V 10 jaar na intrekken  |
 | (Nationale) luchtvaartmaatschappijen  | V 10 jaar na intrekken  |
@@ -830,20 +830,20 @@ Handeling: Het mede ontwikkelen, vaststellen en gebruiken van instrumenten aanga
 
 ###490.
 
-Handeling: Het aanwijzen van personeel om een toezicht- of bestuursfunctie te vervullen op het beleidsterrein burgerluchtvaart Periode: (1937) 1945– Opmerking: Hieronder valt ook het aanwijzen van havenmeesters, luchtvaartattaches, ambtenaren en personen belast met de opsporing van strafbaar gestelde feiten; coördinatoren voor luchtvaartterreinen. Voor de bewaring van bepaalde dossiers is een aparte handeling in het BSD P-direct geformuleerd. Deze handeling, nummer 27, betreft dossiers van ambtenaren die voor het werkterrein van het betrokken departement of enig andere gebied van bijzondere betekenis zijn geweest, of waarvan de stukken voor het inzicht in de ontwikkeling van een functie en de organisatie van bijzonder belang wordt geacht en daarom blijvend bewaard worden. Aan de hand van de bij de handeling beschreven criteria kan worden beoordeeld welke dossiers voor bewaring moeten worden aangewezen. Op het beleidsterrein burgerluchtvaart worden de benoemingen van de leden van de Raad van Toezicht, het bestuur van de LVB-organisatie en de Raad voor de Luchtvaart bewaard. Waardering: Na administratieve afhandeling ontslag: V 7 jaar  
+Handeling: Het aanwijzen van personeel om een toezicht- of bestuursfunctie te vervullen op het beleidsterrein burgerluchtvaart Periode: (1937) 1945– Opmerking: Hieronder valt ook het aanwijzen van havenmeesters, luchtvaartattaches, ambtenaren en personen belast met de opsporing van strafbaar gestelde feiten; coördinatoren voor luchtvaartterreinen. Voor de bewaring van bepaalde dossiers is een aparte handeling in het BSD P-direct geformuleerd. Deze handeling, nummer 27, betreft dossiers van ambtenaren die voor het werkterrein van het betrokken departement of enig andere gebied van bijzondere betekenis zijn geweest, of waarvan de stukken voor het inzicht in de ontwikkeling van een functie en de organisatie van bijzonder belang wordt geacht en daarom blijvend bewaard worden. Aan de hand van de bij de handeling beschreven criteria kan worden beoordeeld welke dossiers voor bewaring moeten worden aangewezen. Op het beleidsterrein burgerluchtvaart worden de benoemingen van de leden van de Raad van Toezicht, het bestuur van de LVB-organisatie en de Raad voor de Luchtvaart bewaard. Waardering: Na administratieve afhandeling ontslag: V 7 jaar 
 
 #### *8.1.4. Specifiek* 
 
 ###Taakgebied veiligheid in de luchtvaart
 
-###Aanwijzing van luchtvaartuigen
+### Aanwijzing van luchtvaartuigen 
 
 ###16.
 
 Handeling: Het aanwijzen van toestellen die als luchtvaartuig in de zin van art. 1 onder b van de LVW 1958 aan te merken zijn. Periode: 1958– Grondslag: art. 1 onder b van de LVW 1958 
 ###Luchtverkeersdienstverlening
 
-###Organisatie en middelen
+###Organisatie en middelen 
 
 ###130
 
@@ -903,7 +903,7 @@ Handeling: Het kennis nemen van meldingen door de luchtvaartmaatschappij van voo
 Handeling: Het vaststellen van de eisen op milieugebied voor luchthavens Periode: 2003– Bron: Jaarplan programma Luchthavens i.o. 2005 Waardering: B 5 
 ###Taakgebied vervoer
 
-###Luchtvaarteconomie
+### Luchtvaarteconomie 
 
 ###493.
 
@@ -940,7 +940,7 @@ Handeling: Het exploiteren van de Regeringsvliegdienst van de binnenlandse lucht
 Handeling: Het onderhouden en exploiteren van het regeringsvliegtuig Periode: 1946– Waardering: V 50 jaar 
 ###De ontwikkeling van de infrastructuur
 
-###Planvorming
+###Planvorming 
 
 ###215
 
@@ -980,7 +980,7 @@ Handeling: Het in overeenstemming met de Minister van VROM vaststellen van gebru
 Handeling: Het deelnemen aan de oprichting, het aandelenbeheer en (het toezicht op) het bestuur van de naamloze vennootschappen voor luchthavens Periode: 1947– Waardering: B 4 
 ###Toezicht op de vakbekwaamheid van het luchtvaartpersoneel
 
-###Opleiding
+### Opleiding 
 
 ###499.
 
@@ -997,14 +997,14 @@ Handeling: Het privatiseren van de Rijksluchtvaartschool per 1 juli 1991 onder d
 Handeling: Het aanschaffen en vervangen van lestoestellen, luchtvaartinstrumenten en vluchtsimulators Periode: 1946–1991 Waardering: V 10 jaar na vervanging 
 ###Toezicht op de vluchtvoorbereiding en uitvoering
 
-###EG-lijndienstvluchten
+###EG-lijndienstvluchten 
 
 ###504.
 
 Handeling: Het kennis nemen van EG-lijndienstvluchten; Periode : 1993– Waardering: Na afloop geldigheidsduur: V 5 jaar 
 ###Toezicht op inrichting en gebruik van luchtvaartterreinen
 
-###Inrichting en uitrusting van luchtvaartterreinen
+###Inrichting en uitrusting van luchtvaartterreinen 
 
 ###252.
 
@@ -1056,7 +1056,7 @@ Handeling: Het op verzoek, samen met de Minister van Buitenlandse Zaken, verlene
 
 ###141.
 
-Handeling: Het uitvoering geven aan de internationale en bilaterale overeenkomst inzake/met Eurocontrol over de inning door Eurocontrol van ‘en route’ heffingen; Periode: 1971- Waardering: Na verrekening: V 10 jaar  
+Handeling: Het uitvoering geven aan de internationale en bilaterale overeenkomst inzake/met Eurocontrol over de inning door Eurocontrol van ‘en route’ heffingen; Periode: 1971- Waardering: Na verrekening: V 10 jaar 
 
 #### *8.1.5. HANDHAVING: INSPECTIES* 
 
@@ -1064,7 +1064,7 @@ Handeling: Het uitvoering geven aan de internationale en bilaterale overeenkomst
 
 Handeling: Het uitvoeren en verslagleggen van (luchtvaart-)inspecties aangaande het beleidsterrein burgerluchtvaart Periode: 1945– Opmerking: Deze handeling wordt onder andere door de Inspectie Verkeer en Waterstaat uitgevoerd. Waardering: Wordt uitgesplitst per categorie:  
 
-| Inspecties betreffende vergunningen Luchtvaarttechnische bedrijven:  | Waardering  |
+| Inspecties betreffende vergunningen Luchtvaarttechnische bedrijven:   |  Waardering   |
 |:---|:---|
 | Persoonsvergunningen  | V 10 jaar na opstellen rapport  |
 | Productvergunningen, zoals:  | --- |
@@ -1078,7 +1078,7 @@ Handeling: Het uitvoeren en verslagleggen van (luchtvaart-)inspecties aangaande 
 | Ontwerpbedrijven  | V 10 jaar na opstellen rapport  |
 | Geluidmeetbedrijven  | V 10 jaar na opstellen rapport  |
 | --- | --- |
-| Inspecties etc. betreffende Luchtvaart en Luchtruim:  | --- |
+|  Inspecties etc. betreffende Luchtvaart en Luchtruim:   | --- |
 | Luchthavens, zoals:  | B indien inspectie bij grote luchthavens geleid heeft tot sancties  |
 | Aanleg luchtvaartterreinen en helihavens  | V 10 jaar na opstellen rapport (zie ook handeling 215, 216)  |
 | Gevaarlijke stoffen  | V 10 jaar na opstellen rapport  |
@@ -1093,7 +1093,7 @@ Handeling: Het uitvoeren en verslagleggen van (luchtvaart-)inspecties aangaande 
 | Radiogebruik  | V 10 jaar na opstellen rapport  |
 | Verkeer op of in de nabijheid luchtvaartterrein  | V 10 jaar na opstellen rapport  |
 | --- | --- |
-| Inspecties etc. betreffende Luchtvaartoperationele bedrijven, zoals:  | --- |
+|  Inspecties etc. betreffende Luchtvaartoperationele bedrijven, zoals:   | --- |
 | Vluchtuitoefening  | V 10 jaar na opstellen rapport  |
 | Systeem- en procesniveau (luchtvaartmaatschappijen, opleidings- en trainingsinstellingen en simulator operators)  | V 10 jaar na opstellen rapport  |
 | Platforminspecties (SAFA, SANA, SAGA, toezicht op buitenlandse en Nederlandse luchtvaart)  | V 10 jaar na opstellen rapport  |
@@ -1103,115 +1103,115 @@ Handeling: Het uitvoeren en verslagleggen van (luchtvaart-)inspecties aangaande 
 
 ###513.
 
-Handeling: Het opstellen van (meerjarige) inspectieprogramma’s voor inspecties met betrekking tot het beleidsterrein burgerluchtvaart Periode: 1945- Product: Inspectieprogramma’s Opmerking: Deze handeling wordt onder andere door de Inspectie Verkeer en Waterstaat uitgevoerd. De Inspectie voert inspecties uit betreffende de volgende onderwerpen: onderhouds-, reparatie- en toeleveringsbedrijven voor de grote luchtvaart(maatschappijen), algemene luchtvaart, helicopters en sportluchtvaart; op de productie van vliegtuigen en vliegtuigonderdelen voor de grote luchtvaart en radiozend- en ontvangapparatuur voor radiocommunicatie in de luchtvaartmobiele banden t.b.v. de zweefvliegsport, ballonnen en ULV’s, het geven van nadere aanwijzingen of voorschriften en/of het doen treffen van nadere voorzieningen  
+Handeling: Het opstellen van (meerjarige) inspectieprogramma’s voor inspecties met betrekking tot het beleidsterrein burgerluchtvaart Periode: 1945- Product: Inspectieprogramma’s Opmerking: Deze handeling wordt onder andere door de Inspectie Verkeer en Waterstaat uitgevoerd. De Inspectie voert inspecties uit betreffende de volgende onderwerpen: onderhouds-, reparatie- en toeleveringsbedrijven voor de grote luchtvaart(maatschappijen), algemene luchtvaart, helicopters en sportluchtvaart; op de productie van vliegtuigen en vliegtuigonderdelen voor de grote luchtvaart en radiozend- en ontvangapparatuur voor radiocommunicatie in de luchtvaartmobiele banden t.b.v. de zweefvliegsport, ballonnen en ULV’s, het geven van nadere aanwijzingen of voorschriften en/of het doen treffen van nadere voorzieningen 
 
 #### *8.2. Actor: Adviescommissie arbeidsomstandigheden boordpersoneel Nederlandse burgerluchtvaart* 
 
 ###516
 
-Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1997– Grondslag: WLV, zoals gewijzigd bij de wet van 26 maart 1997, Stb. 255, art. 2.14, lid 1 Opmerking: Tot 1997 bestond er een Commissie van Advies inzake de arbeidsomstandigheden (tot 1995: werk- en rusttijden), die tot taak had de Minister van Verkeer en Waterstaat te adviseren in alle aangelegenheden met betrekking tot de regels voor de arbeidsomstandigheden inzake verkeersvluchten. Deze adviescommissie adviseert de Minister van Verkeer en Waterstaat over de uitvoering van beleid en regelgeving met betrekking tot de arbeidsomstandigheden van het boordpersoneel van in Nederland geregistreerde burgerluchtvaartuigen. Waardering: B 5  
+Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1997– Grondslag: WLV, zoals gewijzigd bij de wet van 26 maart 1997, Stb. 255, art. 2.14, lid 1 Opmerking: Tot 1997 bestond er een Commissie van Advies inzake de arbeidsomstandigheden (tot 1995: werk- en rusttijden), die tot taak had de Minister van Verkeer en Waterstaat te adviseren in alle aangelegenheden met betrekking tot de regels voor de arbeidsomstandigheden inzake verkeersvluchten. Deze adviescommissie adviseert de Minister van Verkeer en Waterstaat over de uitvoering van beleid en regelgeving met betrekking tot de arbeidsomstandigheden van het boordpersoneel van in Nederland geregistreerde burgerluchtvaartuigen. Waardering: B 5 
 
 #### *8.3. Actor: Adviescommissies en -raden* 
 
 ###516
 
-Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1945– Waardering: B 5  
+Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1945– Waardering: B 5 
 
 #### *8.4. Actor: Airmiss-Commissie (AMC), ofwel: Commissie voor het Onderzoeken van Bijna-botsingen tussen burger- en militair Luchtverkeer, ook wel Burger-Militaire Airmisscommissie* 
 
 ###314.
 
-Handeling: Het onderzoeken van bijna-botsingen tussen burger- en militair luchtverkeer en het eventueel doen van aanbevelingen, ter verhoging van de verkeersveiligheid in de lucht, aan de DG RLD, de Chef van de Marinestaf en de Chef van de Luchtmachtstaf, in afschrift aan de Commissie Vliegverkeersvoorschriften Periode: 1960– Producten: adviezen, aanbevelingen, jaaroverzichten Waardering: B5 verslagen, V 10 jaar overige neerslag  
+Handeling: Het onderzoeken van bijna-botsingen tussen burger- en militair luchtverkeer en het eventueel doen van aanbevelingen, ter verhoging van de verkeersveiligheid in de lucht, aan de DG RLD, de Chef van de Marinestaf en de Chef van de Luchtmachtstaf, in afschrift aan de Commissie Vliegverkeersvoorschriften Periode: 1960– Producten: adviezen, aanbevelingen, jaaroverzichten Waardering: B5 verslagen, V 10 jaar overige neerslag 
 
 #### *8.5. Actor: Beleidsgroep Zonering (BGZ)* 
 
 ###461.
 
-Handeling: Het voorbereiden van, danwel het leveren van een bijdrage aan, de besluitvorming in (interdepartementale) coördinatiecommissies en (ad hoc) (interdepartementale) overlegstructuren op het beleidsterrein burgerluchtvaart waarvan de Minister het secretariaat voert Periode: 1978–ca. 1987 Product: Adviezen, instructies, verslagen Opmerking: De beleidsgroep bereidde interdepartementaal vast te stellen ontwerp-aanwijzingen voor, in het bijzonder zoneringsvoorstellen voor de burger- en militaire luchtvaartterreinen Met ‘de Minister’ wordt hier de Minister van V&W bedoeld. Waardering: B 5  
+Handeling: Het voorbereiden van, danwel het leveren van een bijdrage aan, de besluitvorming in (interdepartementale) coördinatiecommissies en (ad hoc) (interdepartementale) overlegstructuren op het beleidsterrein burgerluchtvaart waarvan de Minister het secretariaat voert Periode: 1978–ca. 1987 Product: Adviezen, instructies, verslagen Opmerking: De beleidsgroep bereidde interdepartementaal vast te stellen ontwerp-aanwijzingen voor, in het bijzonder zoneringsvoorstellen voor de burger- en militaire luchtvaartterreinen Met ‘de Minister’ wordt hier de Minister van V&W bedoeld. Waardering: B 5 
 
 #### *8.6. Actor: Commissie belast met de Keuring van Luchtmaterieel* 
 
 ###516
 
-Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1937–1945. Bron: Gegevens Centrale Archiefselectiedienst Winschoten Opmerking: De commissie adviseerde over de luchtwaardigheid van luchtvaartuigen en de deugdelijkheid van onderdelen daarvan Waardering: B 5  
+Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1937–1945. Bron: Gegevens Centrale Archiefselectiedienst Winschoten Opmerking: De commissie adviseerde over de luchtwaardigheid van luchtvaartuigen en de deugdelijkheid van onderdelen daarvan Waardering: B 5 
 
 #### *8.7. Actor: Commissie Beleidsadvies Luchthaven Rotterdam* 
 
 ###516
 
-Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1986 Opmerking: De commissie adviseerde de vakMinister en het gemeentebestuur van Rotterdam over de ontwikkelingsmogelijkheden van de luchthaven Rotterdam in zijn (boven-)regionale functie en over de investeringsvoorwaarden van de overheid Waardering: B 5  
+Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1986 Opmerking: De commissie adviseerde de vakMinister en het gemeentebestuur van Rotterdam over de ontwikkelingsmogelijkheden van de luchthaven Rotterdam in zijn (boven-)regionale functie en over de investeringsvoorwaarden van de overheid Waardering: B 5 
 
 #### *8.8. Actor: Commissie Burgerluchtvaart in Oorlogstijd (CBO)* 
 
 ###516
 
-Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1965– Opmerking: De CBO adviseert en doet voorstellen over de inschakeling van burgerluchtvaartpersoneel en- materieel in tijden van oorlog(sgevaar) ten dienste van de NAVO/ Koninklijke Luchtmacht. Met vertegenwoordigers van luchtvaartmaatschappijen wordt onderhandeld over de omvang en de voorwaarden van de inzet. Waardering: B 6  
+Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1965– Opmerking: De CBO adviseert en doet voorstellen over de inschakeling van burgerluchtvaartpersoneel en- materieel in tijden van oorlog(sgevaar) ten dienste van de NAVO/ Koninklijke Luchtmacht. Met vertegenwoordigers van luchtvaartmaatschappijen wordt onderhandeld over de omvang en de voorwaarden van de inzet. Waardering: B 6 
 
 #### *8.9. Actor: Commissie Onderzoek Toepassing Hefschroefvliegtuig in Burgerluchtvaart* 
 
 ###455
 
-Handeling: Het vaststellen van opdrachten en van de resultaten van interne en externe (wetenschappelijke) studies betreffende het beleidsterrein burgerluchtvaart Periode: 1953–1956 Opmerking: De commissie deed onderzoek naar welke plaats het hefschroefvliegtuig kon innemen in het luchtverkeer in en om Nederland Waardering: B5 opdracht en eindproduct, V 5 jaar overige neerslag  
+Handeling: Het vaststellen van opdrachten en van de resultaten van interne en externe (wetenschappelijke) studies betreffende het beleidsterrein burgerluchtvaart Periode: 1953–1956 Opmerking: De commissie deed onderzoek naar welke plaats het hefschroefvliegtuig kon innemen in het luchtverkeer in en om Nederland Waardering: B5 opdracht en eindproduct, V 5 jaar overige neerslag 
 
 #### *8.10. Actor: Commissie Onderwijs Rijksluchtvaartschool* 
 
 ###516
 
-Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1972–1992 Opmerking: De commissie adviseerde over aanpassingen van het onderwijs van de RLS naar aanleiding van ontwikkelingen in de burgerluchtvaart Waardering: B 5  
+Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1972–1992 Opmerking: De commissie adviseerde over aanpassingen van het onderwijs van de RLS naar aanleiding van ontwikkelingen in de burgerluchtvaart Waardering: B 5 
 
 #### *8.11. Actor: Commissie teneinde de regering van advies te dienen met betrekking tot den bouw van vliegtuigmaterieel hier te lande (Interdepartementale Commissie van Advies inzake den bouw van Vliegtuigmaterieel hier te lande)* 
 
 ###516
 
-Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1939–1945. Bron: Gegevens Centrale Archiefselectiedienst Winschoten Opmerking: De commissie adviseerde de regering inzake de bouw van vliegtuigmateriaal Waardering: B 5  
+Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1939–1945. Bron: Gegevens Centrale Archiefselectiedienst Winschoten Opmerking: De commissie adviseerde de regering inzake de bouw van vliegtuigmateriaal Waardering: B 5 
 
 #### *8.12. Actor: Commissie ter Voorbereiding van de nodige Wetsvoorstellen ter Bestrijding van Geluidhinder door Vliegtuigen (Juridische Commissie/ Commissie Honig)* 
 
 ###461.
 
-Handeling: Het voorbereiden van, danwel het leveren van een bijdrage aan, de besluitvorming in (interdepartementale) coördinatiecommissies en (ad hoc) (interdepartementale) overlegstructuren op het beleidsterrein burgerluchtvaart waarvan de Minister het secretariaat voert Periode: 1968–1980 Product: Adviezen, instructies, verslagen Opmerking: De commissie bereidde voorstellen ter bestrijding van de geluidshinder door de vliegtuigen voor. Met ‘de Minister’ wordt hier de Minister van V&W bedoeld Waardering: B 5  
+Handeling: Het voorbereiden van, danwel het leveren van een bijdrage aan, de besluitvorming in (interdepartementale) coördinatiecommissies en (ad hoc) (interdepartementale) overlegstructuren op het beleidsterrein burgerluchtvaart waarvan de Minister het secretariaat voert Periode: 1968–1980 Product: Adviezen, instructies, verslagen Opmerking: De commissie bereidde voorstellen ter bestrijding van de geluidshinder door de vliegtuigen voor. Met ‘de Minister’ wordt hier de Minister van V&W bedoeld Waardering: B 5 
 
 #### *8.13. Actor: Commissie tot het uitbrengen van Advies in hoeverre Geluidshinder door Vliegtuigen door bouwtechnische Voorzieningen aan Woningen en Gebouwen kan worden verminderd (Bouwtechnische Commissie (Vliegvelden))* 
 
 ###516
 
-Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1986–ca. 1978 Opmerking: De commissie adviseerde in hoeverre maatregelen zouden kunnen worden getroffen om door bouwtechnische voorzieningen aan woningen en gebouwen de geluidshinder door vliegtuigen te verminderen Waardering: B 5  
+Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1986–ca. 1978 Opmerking: De commissie adviseerde in hoeverre maatregelen zouden kunnen worden getroffen om door bouwtechnische voorzieningen aan woningen en gebouwen de geluidshinder door vliegtuigen te verminderen Waardering: B 5 
 
 #### *8.14. Actor: Commissie van Aanneming Leerlingen Verkeersvlieger* 
 
 ###517
 
-Handeling: Het selecteren van, het volgen van de vorderingen van en adviseren over leerlingen met betrekking tot de opleiding tot verkeersvlieger Periode: 1949–1992 Waardering: V 5 jaar  
+Handeling: Het selecteren van, het volgen van de vorderingen van en adviseren over leerlingen met betrekking tot de opleiding tot verkeersvlieger Periode: 1949–1992 Waardering: V 5 jaar 
 
 #### *8.15. Actor: Commissie van Advies inzake Psychotechnisch onderzoek van Aspirant-verkeersvliegers* 
 
 ###516
 
-Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1937–1991 Bron: Gegevens Centrale Archiefselectiedienst Winschoten Opmerking: De commissie adviseerde de Minister van Waterstaat met betrekking tot het psychotechnisch onderzoek van kandidaten voor de Rijksopleiding tot bestuurder van verkeersvliegtuigen Waardering: V 10 jaar  
+Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1937–1991 Bron: Gegevens Centrale Archiefselectiedienst Winschoten Opmerking: De commissie adviseerde de Minister van Waterstaat met betrekking tot het psychotechnisch onderzoek van kandidaten voor de Rijksopleiding tot bestuurder van verkeersvliegtuigen Waardering: V 10 jaar 
 
 #### *8.16. Actor: Commissie van Advies inzake de Werk- en Rusttijden van Leden van de Bemanning van Nederlandse Luchtvaartuigen welke Verkeersvluchten uitvoeren (Commissie WRR/ Commissie Werk- en Rusttijden)* 
 
 ###516
 
-Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1974– Opmerking: De commissie adviseert de Minister over alle aangelegenheden m.b.t. de regels voor werk- en rusttijden inzaken verkeersvluchten Waardering: V 10 jaar  
+Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1974– Opmerking: De commissie adviseert de Minister over alle aangelegenheden m.b.t. de regels voor werk- en rusttijden inzaken verkeersvluchten Waardering: V 10 jaar 
 
 #### *8.17. Actor: (ad hoc) Commissie van Advies met betrekking tot enige zich bij de exploitatie van de Nederlandse weerschepen voordoende vraagstukken* 
 
 ###516
 
-Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1948–1949. Bron: Gegevens Centrale Archiefselectiedienst Winschoten Opmerking: De commissie adviseerde met betrekking tot enige zich bij de exploitatie van de Nederlandse weerschepen voordoende vraagstukken Waardering: V 10 jaar  
+Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1948–1949. Bron: Gegevens Centrale Archiefselectiedienst Winschoten Opmerking: De commissie adviseerde met betrekking tot enige zich bij de exploitatie van de Nederlandse weerschepen voordoende vraagstukken Waardering: V 10 jaar 
 
 #### *8.18. Actor: Commissie van Advies ter Bestudering van de Vraag welke de meest geschikte Vliegtuig- en Simulatortypes zijn ter vervanging van de thans bij de RLS in gebruik zijnde Cessna Citations 500* 
 
 ###455
 
-Handeling: Het vaststellen van opdrachten en van de resultaten van interne en externe (wetenschappelijke) studies betreffende het beleidsterrein burgerluchtvaart Periode: 1983–? Opmerking: De commissie deed onderzoek naar de meest geschikte vliegtuig- en simulatortypes voor de RLS Waardering: B5 eindproduct, V 5 jaar overige neerslag  
+Handeling: Het vaststellen van opdrachten en van de resultaten van interne en externe (wetenschappelijke) studies betreffende het beleidsterrein burgerluchtvaart Periode: 1983–? Opmerking: De commissie deed onderzoek naar de meest geschikte vliegtuig- en simulatortypes voor de RLS Waardering: B5 eindproduct, V 5 jaar overige neerslag 
 
 #### *8.19. Actor: Commissie van Advies voor de opleiding tot bestuurder van verkeersvliegtuigen* 
 
 ###521
 
-Handeling: Het houden van het algemeen toezicht op en het adviseren van de regering over de opleiding tot bestuurder van verkeersvliegtuigen (aan de Kweekschool voor de Zeevaart); Periode: 1931–1937 Bron: Gegevens Centrale Archiefselectiedienst Winschoten Waardering: B 5  
+Handeling: Het houden van het algemeen toezicht op en het adviseren van de regering over de opleiding tot bestuurder van verkeersvliegtuigen (aan de Kweekschool voor de Zeevaart); Periode: 1931–1937 Bron: Gegevens Centrale Archiefselectiedienst Winschoten Waardering: B 5 
 
 #### *8.20. Actor: Commissie voor Sterkt⁠evoorschriften voor Burgerluchtvaartuigen* 
 
@@ -1223,19 +1223,19 @@ Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het be
 Handeling: Het vaststellen van opdrachten en van de resultaten van interne en externe (wetenschappelijke) studies betreffende het beleidsterrein burgerluchtvaart Periode: 1953–1956 Waardering: B5 eindproduct, V 5 jaar overige neerslag 
 ###458.
 
-Handeling: Het begeleiden van intern of extern (wetenschappelijk) onderzoek betreffende het beleidsterrein burgerluchtvaart Periode: 1945– Waardering: V 5 jaar  
+Handeling: Het begeleiden van intern of extern (wetenschappelijk) onderzoek betreffende het beleidsterrein burgerluchtvaart Periode: 1945– Waardering: V 5 jaar 
 
 #### *8.21. Actor: Contactcommissie tussen de N.V. Koninklijke Luchtvaart Maatschappij en de N.V. Nederlandsche Vliegtuigenfabriek Fokker* 
 
 ###525
 
-Handeling: Het bemiddelen tussen KLM en Fokker teneinde de bouw van door de KLM benodigde verkeersvliegtuigen in Nederland te laten plaatsvinden; Periode: 1939– Bron: Gegevens Centrale Archiefselectiedienst Winschoten Waardering: B 5  
+Handeling: Het bemiddelen tussen KLM en Fokker teneinde de bouw van door de KLM benodigde verkeersvliegtuigen in Nederland te laten plaatsvinden; Periode: 1939– Bron: Gegevens Centrale Archiefselectiedienst Winschoten Waardering: B 5 
 
 #### *8.22. Actor: Examencommissies/ (van 1959 tot 1978:) examinatoren voor de burgerluchtvaart* 
 
 ###274
 
-Handeling: Het afnemen van examens ter verkrijging van bewijzen van bevoegdheid en/of bevoegdheidverklaringen voor het bedienen of luchtwaardig houden van luchtvaartuigen Periode: 1956– Opmerking: De commissies/ examinatoren rapporteren aan de Minister over het examen . De secretaris is een ambtenaar van V&W. Waardering: V 3 jaar na afnemen examen  
+Handeling: Het afnemen van examens ter verkrijging van bewijzen van bevoegdheid en/of bevoegdheidverklaringen voor het bedienen of luchtwaardig houden van luchtvaartuigen Periode: 1956– Opmerking: De commissies/ examinatoren rapporteren aan de Minister over het examen . De secretaris is een ambtenaar van V&W. Waardering: V 3 jaar na afnemen examen 
 
 #### *8.23. Actor: Facilitatie Commissie voor de Luchtvaart (per 1990: Luchtvervoer) (FAL Commissie)* 
 
@@ -1244,31 +1244,31 @@ Handeling: Het afnemen van examens ter verkrijging van bewijzen van bevoegdheid 
 Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1949– Opmerking: De commissie adviseert over in Nederland te treffen voorzieningen die moeten bevorderen dat het internationale vliegverkeer zo weinig mogelijk belemmeringen en hinderlijke formaliteiten in de weg worden gelegd. Ook adviseert zij over de Nederlandse standpuntbepaling t.a.v. de nationale bijdrage aan het internationale overleg (ICAO en EG/ECAC) over de vergemakkelijking van het internationale luchtvervoer Waardering: B 5 
 ###518
 
-Handeling: Het coördineren van te treffen voorzieningen op het beleidsterrein burgerluchtvaart Periode: 1949– Opmerking: De commissie coördineert van in Nederland te treffen voorzieningen die moeten bevorderen dat het internationale vliegverkeer zo weinig mogelijk belemmeringen en hinderlijke formaliteiten in de weg worden gelegd Waardering: V 10 jaar  
+Handeling: Het coördineren van te treffen voorzieningen op het beleidsterrein burgerluchtvaart Periode: 1949– Opmerking: De commissie coördineert van in Nederland te treffen voorzieningen die moeten bevorderen dat het internationale vliegverkeer zo weinig mogelijk belemmeringen en hinderlijke formaliteiten in de weg worden gelegd Waardering: V 10 jaar 
 
 #### *8.24. Actor: Interdepartementale Adviescommissie inzake de Vliegtuigindustrie (zg. Industriecommissie)* 
 
 ###516
 
-Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1947–1975 Opmerking: De commissie adviseerde over de bevordering van de vliegtuigindustrie. Waardering: B 5  
+Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1947–1975 Opmerking: De commissie adviseerde over de bevordering van de vliegtuigindustrie. Waardering: B 5 
 
 #### *8.25. Actor: Locale Projectgroep Schiphol* 
 
 ###461.
 
-Handeling: Het voorbereiden van, danwel het leveren van een bijdrage aan, de besluitvorming in (interdepartementale) coördinatiecommissies en (ad hoc) (interdepartementale) overlegstructuren op het beleidsterrein burgerluchtvaart waarvan de Minister het secretariaat voert Periode: 1981–ca. 1985 Product: Adviezen, instructies, verslagen Opmerking: De projectgroep bereidde de besluitvorming in de Centrale Projectgroep voor door het inventariseren van de planologische situatie en de voor de zonering maatgevende milieuhygiënische situatie rond het luchtvaartterrein, en door het opstellen en het aan de Centrale Projectgroep voorleggen van een voorontwerp-aanwijzing van een luchtvaartterrein Met ‘de Minister’ wordt hier de Minister van V&W bedoeld. Waardering: B 5  
+Handeling: Het voorbereiden van, danwel het leveren van een bijdrage aan, de besluitvorming in (interdepartementale) coördinatiecommissies en (ad hoc) (interdepartementale) overlegstructuren op het beleidsterrein burgerluchtvaart waarvan de Minister het secretariaat voert Periode: 1981–ca. 1985 Product: Adviezen, instructies, verslagen Opmerking: De projectgroep bereidde de besluitvorming in de Centrale Projectgroep voor door het inventariseren van de planologische situatie en de voor de zonering maatgevende milieuhygiënische situatie rond het luchtvaartterrein, en door het opstellen en het aan de Centrale Projectgroep voorleggen van een voorontwerp-aanwijzing van een luchtvaartterrein Met ‘de Minister’ wordt hier de Minister van V&W bedoeld. Waardering: B 5 
 
 #### *8.26. Actor: Nederlandse leden van de Legal Committee van de International Civil Aviation Organisation* 
 
 ###516
 
-Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1947– Opmerking: De Nederlandse leden van de Legal Committee van de International Civil Aviation Organisation overleggen en brengen advies uit over internationale regelingen, o.a. met betrekking tot de nationale wetgeving Waardering: B 5  
+Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1947– Opmerking: De Nederlandse leden van de Legal Committee van de International Civil Aviation Organisation overleggen en brengen advies uit over internationale regelingen, o.a. met betrekking tot de nationale wetgeving Waardering: B 5 
 
 #### *8.27. Actor: Overlegorgaan voor de Industrie* 
 
 ###516
 
-Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: ca. 1990– Bron: J.K.M. van Gorkom (Luchtvaartinspectie) Opmerking: Onder voorzitterschap van de directeur van de Luchtvaartinspectie voert het Orgaan overleg met de luchtvaartinspectie en vertegenwoordigers van het bedrijfsleven over veiligheid en luchtvaarttechniek. Waardering: B 5  
+Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: ca. 1990– Bron: J.K.M. van Gorkom (Luchtvaartinspectie) Opmerking: Onder voorzitterschap van de directeur van de Luchtvaartinspectie voert het Orgaan overleg met de luchtvaartinspectie en vertegenwoordigers van het bedrijfsleven over veiligheid en luchtvaarttechniek. Waardering: B 5 
 
 #### *8.28. Actor: (Vooronderzoeker) Raad voor de Luchtvaart; (vanaf 1999:) Raad voor de Transportveiligheid* 
 
@@ -1289,37 +1289,37 @@ Handeling: Het geven van aanwijzingen aan de Vooronderzoeker Periode: 1993–200
 Handeling: Het onderzoeken van de (on)geschiktheid of (on)schuldigheid van een bemanningslid en het nemen van eventuele disciplinaire straffen Periode: 1937–1992 Waardering: V 5 jaar 
 ###313.
 
-Handeling: Het meewerken aan onderzoek naar ongevallen en incidenten in het buitenland Periode: 1993–2005 Waardering: V 10 jaar  
+Handeling: Het meewerken aan onderzoek naar ongevallen en incidenten in het buitenland Periode: 1993–2005 Waardering: V 10 jaar 
 
 #### *8.29. Actor: Stuurgroep en Projectbureau PMMS* 
 
 ###332.
 
-Handeling: Het sturen en coördineren van de besluitvorming(sprocedures) bij het uitvoeren van het plan van aanpak Schiphol en omgeving (PASO) Periode: 1989– Waardering: V 10 jaar  
+Handeling: Het sturen en coördineren van de besluitvorming(sprocedures) bij het uitvoeren van het plan van aanpak Schiphol en omgeving (PASO) Periode: 1989– Waardering: V 10 jaar 
 
 #### *8.30. Actor: Vaste Commissie van Deskundigen inzake problemen betreffende de dienstplicht van Oud-leerlingen der Rijksluchtvaartschool* 
 
 ###516
 
-Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1950–1960. Bron: Gegevens Centrale Archiefselectiedienst Winschoten Opmerking: De commissie adviseerde omtrent rekrutering/werving van leerlingen verkeersvliegers en leerlingen militaire vlieger, de verdeling tussen deze categorieën, beperking van de uitval tijdens de opleiding en de vervulling van de dienstplicht door oud-leerlingen Waardering: B 5  
+Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1950–1960. Bron: Gegevens Centrale Archiefselectiedienst Winschoten Opmerking: De commissie adviseerde omtrent rekrutering/werving van leerlingen verkeersvliegers en leerlingen militaire vlieger, de verdeling tussen deze categorieën, beperking van de uitval tijdens de opleiding en de vervulling van de dienstplicht door oud-leerlingen Waardering: B 5 
 
 #### *8.31. Actor: Voorlopige Raad van Toezicht Luchtverkeersbeveiliging* 
 
 ###516
 
-Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1947–1975 Opmerking: De commissie adviseerde de Minister van V&W over de inrichting van de LVB-organisatie, het financieel beheer, de verhouding met de overheid en met derden, etc.. Waardering: V 10 jaar  
+Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1947–1975 Opmerking: De commissie adviseerde de Minister van V&W over de inrichting van de LVB-organisatie, het financieel beheer, de verhouding met de overheid en met derden, etc.. Waardering: V 10 jaar 
 
 #### *8.32. Actor: Voorlopige Raad voor Verkeer en Waterstaat* 
 
 ###516
 
-Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1986– Opmerking: De werkgroep adviseert over de hoofdlijnen en onderdelen van het beleid inzake verkeer en waterstaat, waaronder luchtvaartaangelegenheden Waardering: B 5  
+Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1986– Opmerking: De werkgroep adviseert over de hoofdlijnen en onderdelen van het beleid inzake verkeer en waterstaat, waaronder luchtvaartaangelegenheden Waardering: B 5 
 
 #### *8.33. Actor: Werkgroep Nederlandse Vliegtuigindustrie (Commissie ad hoc welke in opdracht van de Ministerraad een rapport dienst op te stellen inzake de Nederlandse Luchtvaartindustrie)* 
 
 ###524
 
-Handeling: Het opstellen van een rapport inzake de Nederlandse luchtvaartindustrie t.b.v. de Ministerraad; Periode: 1959–1962 Bron: Gegevens Centrale Archiefselectiedienst Winschoten Waardering: B 5 rapport, V 5 jaar overige neerslag  
+Handeling: Het opstellen van een rapport inzake de Nederlandse luchtvaartindustrie t.b.v. de Ministerraad; Periode: 1959–1962 Bron: Gegevens Centrale Archiefselectiedienst Winschoten Waardering: B 5 rapport, V 5 jaar overige neerslag 
 
 #### *8.34. Actor: Werkgroep ter Voorkoming van Aanvaringen tussen Vogels en Civiele Luchtvaartuigen* 
 
@@ -1340,7 +1340,7 @@ Handeling: Het financieren van extern (wetenschappelijk) onderzoek betreffende h
 Handeling: Het begeleiden van intern of extern (wetenschappelijk) onderzoek betreffende het beleidsterrein burgerluchtvaart Periode: 1978– Opmerking: De werkgroep laat studies verrichten ter vermindering van de kans op en de risico’s van vogelaanvaringen Waardering: V 5 jaar 
 ###519
 
-Handeling: Het bevorderen en coördineren van activiteiten ter vermindering van de kans op en de risico’s van vogelaanvaringen Periode: 1978– Waardering: V 10 jaar  
+Handeling: Het bevorderen en coördineren van activiteiten ter vermindering van de kans op en de risico’s van vogelaanvaringen Periode: 1978– Waardering: V 10 jaar 
 
 ####9. Actor onder de zorg van de Minister van Algemene Zaken
 
@@ -1351,7 +1351,7 @@ Handeling: Het bevorderen en coördineren van activiteiten ter vermindering van 
 Handeling: Het voordragen van een KB en (wet) om in buitengewone omstandigheden de Minister van V&W en van Defensie (blijvend) te machtigen tot het geven van aanwijzingen aan de LVB-organisatie; Periode: 1993– Grondslag: WLV, art. 52; WLV, zoals gewijzigd bij de wet van 3 april 1996, Stb. 366, art. 50 Waardering: B 6 
 ###522
 
-Handeling: Het voordragen van een KB tot het buiten werking stellen van de bij KB gegeven machtiging aan de Ministers van V&W en Defensie om in buitengewone omstandigheden aanwijzingen te geven aan de LVB-organisatie Periode: 1996– Grondslag: WLV, zoals gewijzigd bij de wet van 3 april 1996, Stb. 366, art. 50, lid 3 Opmerking: * Dit gebeurt wanneer het wetsvoorstel betreffende het voortduren van de machtiging wordt verworpen door de Staten-Generaal. * Voorheen droeg de Minister-president een gewoon besluit voor.  
+Handeling: Het voordragen van een KB tot het buiten werking stellen van de bij KB gegeven machtiging aan de Ministers van V&W en Defensie om in buitengewone omstandigheden aanwijzingen te geven aan de LVB-organisatie Periode: 1996– Grondslag: WLV, zoals gewijzigd bij de wet van 3 april 1996, Stb. 366, art. 50, lid 3 Opmerking: * Dit gebeurt wanneer het wetsvoorstel betreffende het voortduren van de machtiging wordt verworpen door de Staten-Generaal. * Voorheen droeg de Minister-president een gewoon besluit voor. 
 
 ####10. Actor onder de zorg van de Minister van Buitenlandse Zaken
 
@@ -1359,7 +1359,7 @@ Handeling: Het voordragen van een KB tot het buiten werking stellen van de bij K
 
 ###468.
 
-Handeling: Het meewerken aan de totstandbrenging, de ratificatie, de wijziging, de verlenging, de uitvoering en de intrekking van bilaterale en multilaterale verdragen en overeenkomsten op het gebied van de burgerluchtvaart, alsmede de voorbereiding van de Nederlandse toetreding tot deze verdragen Periode: 1944– Bron: Gegevens Centrale Archiefselectiedienst Winschoten Opmerking: De Minister van Buitenlandse Zaken werkt mee. De Minister van V&W voert het secretariaat. Waardering: B 5  
+Handeling: Het meewerken aan de totstandbrenging, de ratificatie, de wijziging, de verlenging, de uitvoering en de intrekking van bilaterale en multilaterale verdragen en overeenkomsten op het gebied van de burgerluchtvaart, alsmede de voorbereiding van de Nederlandse toetreding tot deze verdragen Periode: 1944– Bron: Gegevens Centrale Archiefselectiedienst Winschoten Opmerking: De Minister van Buitenlandse Zaken werkt mee. De Minister van V&W voert het secretariaat. Waardering: B 5 
 
 ####11. Actor onder de zorg van de Minister van Defensie
 
@@ -1484,7 +1484,7 @@ Handeling: Het houden van toezicht op de naleving van voorschriften betreffende 
 
 ###515.
 
-Handeling: Het verstrekken (en terugvorderen) van subsidies/premies/ aangaande het beleidsterrein burgerluchtvaart Periode: 1945– Waardering: V 5 jaar  
+Handeling: Het verstrekken (en terugvorderen) van subsidies/premies/ aangaande het beleidsterrein burgerluchtvaart Periode: 1945– Waardering: V 5 jaar 
 
 #### *11.2. Actor: Milieucommissies ex. art. 28 LVW* 
 
@@ -1502,7 +1502,7 @@ Handeling: Het voorbereiden van, danwel het leveren van een bijdrage aan, de bes
 Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: ca. 1978 Opmerking: De commissies adviseren over de verbetering en handhaving van de milieuhygiëne rondom het luchtvaartterrein Waardering: B 5 
 ###528.
 
-Handeling: Het uitvoeren van voorlichtingsactiviteiten op het beleidsterrein burgerluchtvaart Periode: 1945– Product: Voorlichtingsmateriaal Waardering: Een exemplaar eindproduct: B5 Overige neerslag: V 5 jaar  
+Handeling: Het uitvoeren van voorlichtingsactiviteiten op het beleidsterrein burgerluchtvaart Periode: 1945– Product: Voorlichtingsmateriaal Waardering: Een exemplaar eindproduct: B5 Overige neerslag: V 5 jaar 
 
 #### *11.3. Actor: Commissie Vogelaanvaringen Luchtvaartuigen* 
 
@@ -1523,7 +1523,7 @@ Handeling: Het financieren van extern (wetenschappelijk) onderzoek betreffende h
 Handeling: Het begeleiden van intern of extern (wetenschappelijk) onderzoek betreffende het beleidsterrein burgerluchtvaart Periode: 1997– Opmerking: De werkgroep laat studies verrichten ter vermindering van de kans op en de risico’s van vogelaanvaringen Waardering: V 5 jaar 
 ###519
 
-Handeling: Het bevorderen en coördineren van activiteiten ter vermindering van de kans op en de risico’s van vogelaanvaringen Periode: 1997– Waardering: V 5 jaar  
+Handeling: Het bevorderen en coördineren van activiteiten ter vermindering van de kans op en de risico’s van vogelaanvaringen Periode: 1997– Waardering: V 5 jaar 
 
 ####12. Actor onder de zorg van de Minister van Financiën
 
@@ -1531,7 +1531,7 @@ Handeling: Het bevorderen en coördineren van activiteiten ter vermindering van 
 
 ###383
 
-Handeling: Het meewerken aan de overdracht door de Minister van Verkeer en Waterstaat van bepaalde vermogensbestanddelen aan de LVB-organisatie Periode: 1989–1993 Waardering: V 10 jaar na afhandeling  
+Handeling: Het meewerken aan de overdracht door de Minister van Verkeer en Waterstaat van bepaalde vermogensbestanddelen aan de LVB-organisatie Periode: 1989–1993 Waardering: V 10 jaar na afhandeling 
 
 ####13. Actoren onder de zorg van de Minister van Justitie
 
@@ -1545,7 +1545,7 @@ Handeling: Het (samen met de Ministers van V&W en Financiën) voorbereiden en al
 Handeling: Het uitvoeren van beveiligingstaken op de Luchthaven Schiphol Periode: ca. 1970– Waardering: V 5 jaar 
 ###491.
 
-Handeling: Het goedkeuren van de beveiligingsplannen van de luchthavenexploitanten en de luchtvaartmaatschappijen Periode: 2003– Bron: Wet luchtvaart art. 37<sup></sup>e (wijziging Stb 2002, 226), NCASP hoofdstuk 12 Waardering: Na intrekking goedkeuring: V 5 jaar  
+Handeling: Het goedkeuren van de beveiligingsplannen van de luchthavenexploitanten en de luchtvaartmaatschappijen Periode: 2003–  Bron: Wet luchtvaart art. 37<sup></sup> e (wijziging Stb 2002, 226), NCASP hoofdstuk 12 Waardering: Na intrekking goedkeuring: V 5 jaar 
 
 #### *13.2. Actor: Veiligheidscommissies (nationale en lokale) voor de Burgerluchtvaart (VB)* 
 
@@ -1554,7 +1554,7 @@ Handeling: Het goedkeuren van de beveiligingsplannen van de luchthavenexploitant
 Handeling: Het adviseren van de verantwoordelijke Minister(s) betreffende het beleidsterrein burgerluchtvaart Periode: 1970– Opmerking: De commissie adviseert over de ontwikkeling en invoering van beveiligingsmaatregelen en procedures op de nationale en regionale luchthavens Waardering: B 5 
 ###470.
 
-Handeling: Het voorbereiden en vaststellen van standpunten aangaande het beleidsterrein burgerluchtvaart in het kader van deelname aan internationaal overleg Periode: 1970– Producten: o.a. verslagen, agenda’s, notulen, fiches Opmerking: De commissies plegen vooroverleg in het kader van internationale conferenties (ICAO, ECAC over terrorisme tegen de burgerluchtvaart Waardering: B 5  
+Handeling: Het voorbereiden en vaststellen van standpunten aangaande het beleidsterrein burgerluchtvaart in het kader van deelname aan internationaal overleg Periode: 1970– Producten: o.a. verslagen, agenda’s, notulen, fiches Opmerking: De commissies plegen vooroverleg in het kader van internationale conferenties (ICAO, ECAC over terrorisme tegen de burgerluchtvaart Waardering: B 5 
 
 ####14. Actor onder de zorg van de Minister van Landbouw, Natuur en Voedselkwaliteit
 
@@ -1562,7 +1562,7 @@ Handeling: Het voorbereiden en vaststellen van standpunten aangaande het beleids
 
 ###419
 
-Handeling: Het, in overleg met de betrokken Ministers (waaronder de Minister van Verkeer en Waterstaat), opstellen, wijzigen en uitvoeren van de regeling inzake luchtvaartuigtoepassing van bestrijdingsmiddelen Periode: 1983– Waardering: Opstellen, wijzigen regeling: B 5 Uitvoering: V 10 jaar  
+Handeling: Het, in overleg met de betrokken Ministers (waaronder de Minister van Verkeer en Waterstaat), opstellen, wijzigen en uitvoeren van de regeling inzake luchtvaartuigtoepassing van bestrijdingsmiddelen Periode: 1983– Waardering: Opstellen, wijzigen regeling: B 5 Uitvoering: V 10 jaar 
 
 ####15. Actor onder de zorg van de Minister van Onderwijs, Cultuur en Wetenschap
 
@@ -1570,7 +1570,7 @@ Handeling: Het, in overleg met de betrokken Ministers (waaronder de Minister van
 
 ###420
 
-Handeling: Het erkennen van de KLM-Luchtvaartschool (KLS) Periode: 1989–1996 Waardering: B 5  
+Handeling: Het erkennen van de KLM-Luchtvaartschool (KLS) Periode: 1989–1996 Waardering: B 5 
 
 ####16. Literatuur en bronnen
 
@@ -1582,16 +1582,16 @@ Handeling: Het erkennen van de KLM-Luchtvaartschool (KLS) Periode: 1989–1996 W
 Besluit geluidsbelasting kleine luchtvaart, Stb 1991 nr. 22 Luchtvaartwet, Stb 1958 nr. 47, zoals sindsdien gewijzigd. Regeling nadeelcompensatie Verkeer en Waterstaat 1999, Stcrt 1999, nr. 172 Gemeenschappelijke regeling Schadeschap Luchthaven Schiphol, Stcrt 1998, 223 
 ###Overige stukken:
 
-Rapport van de High Level Groep over het Gemeenschappelijk Europees Luchtruim, november 2000 *The Single European Sky* in Skyway 32, voorjaar 2004. 
+Rapport van de High Level Groep over het Gemeenschappelijk Europees Luchtruim, november 2000  *The Single European Sky* in Skyway 32, voorjaar 2004. 
 ###Websites:
 
-www.Luchtvaartbeleid.nl www.easa.eu.int www.jaa.nl  
+www.Luchtvaartbeleid.nl www.easa.eu.int www.jaa.nl 
 
 ####17. BIJLAGE 1: Nieuwe en vervallen handelingen
 
-NB: In het onderhavige BSD is de nummering uit het vastgestelde BSD uit 1996 gebruikt, zoals die in Bijlage 2 wordt weergegeven in de *linker* kolom. De nieuwe handelingen zijn doorgeteld vanaf het vastgestelde BSD, *niet* het RIO, en beginnen dus bij nr. 450. De handelingen aangeduid als ‘ingetrokken’ zijn ingetrokken in de Aanpassing RIO-BSD Rijksluchtvaartdienst, maart 2000. Auteurs van dit rapport zijn Vels⁠ink en Fijnheer. De vervallen handelingen komen voort uit het vervallen van commissies, zie: 2.4.4. Wijzigingen ten opzichte van het RIO en het vastgestelde BSD.  
+NB: In het onderhavige BSD is de nummering uit het vastgestelde BSD uit 1996 gebruikt, zoals die in Bijlage 2 wordt weergegeven in de *linker*kolom. De nieuwe handelingen zijn doorgeteld vanaf het vastgestelde BSD, *niet* het RIO, en beginnen dus bij nr. 450. De handelingen aangeduid als ‘ingetrokken’ zijn ingetrokken in de Aanpassing RIO-BSD Rijksluchtvaartdienst, maart 2000. Auteurs van dit rapport zijn Vels⁠ink en Fijnheer. De vervallen handelingen komen voort uit het vervallen van commissies, zie: 2.4.4. Wijzigingen ten opzichte van het RIO en het vastgestelde BSD.  
 
-| Nr. handeling BSD 1996  | Nr. (nieuwe) handeling huidig BSD  |
+|  Nr. handeling BSD 1996   | Nr. (nieuwe) handeling huidig BSD   |
 |:---|:---|
 | 1  | 1  |
 | 2  | 2  |
@@ -2048,9 +2048,9 @@ NB: In het onderhavige BSD is de nummering uit het vastgestelde BSD uit 1996 geb
 
 ####18. BIJLAGE 2: Concordans handelingnrs. RIO en BSD
 
-NB: In het onderhavige BSD is de nummering van het vastgestelde BSD uit 1996 gebruikt, hieronder weergegeven in de *linker* kolom. Er is dus een andere nummering aangehouden dan in het RIO.  
+NB: In het onderhavige BSD is de nummering van het vastgestelde BSD uit 1996 gebruikt, hieronder weergegeven  in de *linker* kolom. Er is dus een andere nummering aangehouden dan in het RIO.   
 
-| BSD 1996  | RIO  |
+|  BSD 1996   | RIO   |
 |:---|:---|
 | 1  | 1  |
 | 2  | 2  |
@@ -2523,7 +2523,7 @@ In 2002 is er een selectielijst voor de Minister van Defensie vastgesteld (Stcrt
 
 –  *Voorbeeld: handeling 170 uit de selectielijst van Defensie verwijst naar nummer 367 in BSD 1996. Nummer 367 verwijst naar handeling 454 in het huidige BSD. Dus handeling 170 wordt vervangen door handeling 454.*       
 
-| Nr. handeling selectielijst 2002  | Nr. handeling huidig BSD  |
+|  Nr. handeling selectielijst 2002   | Nr. handeling huidig BSD   |
 |:---|:---|
 | 1000  | 450  |
 | 1001  | 451  |

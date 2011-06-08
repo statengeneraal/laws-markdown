@@ -12,19 +12,19 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *mandaat:* bevoegdheid om in naam van de minister besluiten te nemen;  
+a.  *mandaat:* bevoegdheid om in naam van de minister besluiten te nemen;  
 
-b. *gemandateerde:* degene aan wie mandaat is verleend;  
+b.  *gemandateerde:* degene aan wie mandaat is verleend;  
 
-c. *machtiging:* bevoegdheid om in naam van de Minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.    
+c.  *machtiging:* bevoegdheid om in naam van de Minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.   
 
 ### Artikel  2  
 
-Aan de directeur van de Nederlandse Diabetes Federatie, statutair gevestigd te Amersfoort, wordt mandaat en machtiging verleend met betrekking tot het verstrekken van de subsidies op grond van de [Subsidieregeling VWS-subsidies](../../../../../../ministeriele-regeling/subsidieregeling/vws-subsidies/BWBR0019947/README.md) in het kader van het Nationaal Actieprogramma Diabetes.  
+Aan de directeur van de Nederlandse Diabetes Federatie, statutair gevestigd te Amersfoort, wordt mandaat en machtiging verleend met betrekking tot het verstrekken van de subsidies op grond van de [Kaderregeling VWS-subsidies](../../../../../../ministeriele-regeling/kaderregeling/vws-subsidies/BWBR0029947/README.md) in het kader van het Nationaal Actieprogramma Diabetes. 
 
 ### Artikel  3  
 
-[Artikel 1b](../../../../../../ministeriele-regeling/mandaatregeling/vws/BWBR0007923/README.md), alsmede de [hoofdstukken 2](../../../../../../ministeriele-regeling/mandaatregeling/vws/BWBR0007923/README.md) en [4 van de Mandaatregeling VWS](../../../../../../ministeriele-regeling/mandaatregeling/vws/BWBR0007923/README.md) zijn van overeenkomstige toepassing.  
+[Artikel 1b](../../../../../../ministeriele-regeling/mandaatregeling/vws/BWBR0007923/README.md), alsmede de [hoofdstukken 2](../../../../../../ministeriele-regeling/mandaatregeling/vws/BWBR0007923/README.md) en [4 van de Mandaatregeling VWS](../../../../../../ministeriele-regeling/mandaatregeling/vws/BWBR0007923/README.md) zijn van overeenkomstige toepassing. 
 
 ### Artikel  4  
 
@@ -37,17 +37,17 @@ Aan de directeur van de Nederlandse Diabetes Federatie, statutair gevestigd te A
 
 * een omschrijving van het bestreden besluit, bijvoorbeeld door vermelding van het zaaknummer, briefkenmerk en datum of door bijvoeging van een kopie van het besluit,  
 
-* de gronden van het bezwaar.’     
+* de gronden van het bezwaar.’    
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 september 2009.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 september 2009. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Mandaatbesluit Nationaal Actieprogramma Diabetes.  
+Dit besluit wordt aangehaald als: Mandaatbesluit Nationaal Actieprogramma Diabetes. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink   
+Minister van Volksgezondheid, Welzijn en Sport,
+A. Klink     

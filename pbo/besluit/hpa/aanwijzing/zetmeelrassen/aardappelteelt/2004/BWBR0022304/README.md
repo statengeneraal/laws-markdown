@@ -7,24 +7,27 @@ Gelet op [artikel 4, tweede lid van de verordening HPA aardappelteelt 2003](../.
 Besluit namens het bestuur:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 13-11-2005 
 
 Van de in de [bijlage van de Verordening HPA aardappelteelt 2003 in onderdeel A](../../../../../../../../pbo/verordening/hpa/aardappelteelt/2003/BWBR0014840/README.md) genoemde zetmeelrassen, worden de navolgende zetmeelrassen aangewezen om te vervallen: 
 
-APRIORI  
+APRIORI
 
-APROPOS  
+APROPOS
 
-KARIDA  
+KARIDA
 
-SJAMERO    
+SJAMERO
 
 ### Artikel  2  
+Materieel uitgewerkt per 13-11-2005 
 
-Wijzigt de Verordening HPA aardappelteelt 2003.   
+Wijzigt de Verordening HPA aardappelteelt 2003.
 
 ### Artikel  3  
+Materieel uitgewerkt per 13-11-2005 
 
-Dit besluit wordt aangehaald als Besluit HPA aanwijzing zetmeelrassen aardappelteelt 2004 en treedt in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie.  
+Dit besluit wordt aangehaald als Besluit HPA aanwijzing zetmeelrassen aardappelteelt 2004 en treedt in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie.
 
 Den Haag 
 10 juni 2004   

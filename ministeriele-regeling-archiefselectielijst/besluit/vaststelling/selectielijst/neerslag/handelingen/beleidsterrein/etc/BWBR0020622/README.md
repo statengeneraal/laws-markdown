@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Bosbouw 1945–1983 (Minister van Volksgezondheid, Welzijn en Sport)
+## Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Bosbouw 1945–1983 (Minister van Volksgezondheid, Welzijn en Sport)
 
 De Minister van Onderwijs, Cultuur en Wetenschap, en de Minister van Volksgezondheid, Welzijn en Sport,  
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
@@ -10,11 +10,11 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Minister van Volksgezondheid, Welzijn en Sport en de onder hem ressorterende actoren op het beleidsterrein Bosbouw over de periode 1945–1983 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Volksgezondheid, Welzijn en Sport en de onder hem ressorterende actoren op het beleidsterrein Bosbouw over de periode 1945–1983’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
@@ -23,40 +23,40 @@ Den Haag
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
 Algemene Rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, namens deze: de 
 Projectdirecteur PWAA, 
-A. van derKooy  
+A. van der Kooy    
 
 ####Basisselectiedocument
 
 ####Instrument voor de selectie – ter vernietiging dan wel blijvende bewaring – van de administratieve neerslag van de zorgdragers
 
-### *de Minister van Onderwijs, Cultuur en Wetenschappen* 
+###*de Minister van Onderwijs, Cultuur en Wetenschappen*
 
-### *de Minister van Volksgezondheid, Welzijn en Sport* 
+###*de Minister van Volksgezondheid, Welzijn en Sport* 
 
-### *op het beleidsterrein Bosbouw 1945–1983* 
+###*op het beleidsterrein Bosbouw 1945–1983*
 
-### *Project Wegwerken Archiefachterstanden (PWAA)* 
+###*Project Wegwerken Archiefachterstanden (PWAA)*
 
-### *Ontwerp/versie augustus 2006* 
+###*Ontwerp/versie augustus 2006* 
 
-### 1  
+### 1 
 
 ####Lijst van afkortingen
 
-AMvB: Algemene maatregel van bestuur art.: artikel BZK: (Ministerie van) Binnenlandse Zaken en Koninkrijksrelaties BSD: Basis Selectiedocument CAS: Centrale Archief Selectiedienst CRM: (Ministerie van) Cultuur, Recreatie en Maatschappelijk Werk EZ: (Ministerie van) Economische Zaken KB: Koninklijk Besluit KNHG: Koninklijk Nederlands Historisch Genootschap LVV: 1946–1960 (Ministerie van) Landbouw, Visserij en Voedselvoorziening LenV: 1960–1989 (Ministerie van) Landbouw en Visserij LNV: 1989–2003 (Ministerie van) Landbouw, Natuurbeheer en Visserij 2003– (Ministerie van) Landbouw, Natuur en Voedselkwaliteit NA: Nationaal Archief OCW: (Ministerie van) Onderwijs, Cultuur en Wetenschap OKW: (Ministerie van) Onderwijs, Kunsten en Wetenschappen PIVOT: Project Invoering Verkorting Overbrengingstermijn RIO: Rapport Institutioneel Onderzoek SBB: Staatsbosbeheer Stb.: Staatsblad van het Koninkrijk der Nederlanden Stcrt.: Nederlandse Staatscourant SZV: (Ministerie van) Sociale Zaken en Volksgezondheid TK: Tweede Kamer (Kamerstukaanduiding) VenW: (Ministerie van) Verkeer en Waterstaat VB: Verordeningenblad voor het Nederlandsche bezette gebied VoMil: (Ministerie van) Volksgezondheid en Milieuhygiëne VROM: (Ministerie van) Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer VWS: (Ministerie van) Volksgezondheid, Welzijn en Sport WVC: (Ministerie van) Welzijn, Volksgezondheid en Cultuur  
+AMvB: Algemene maatregel van bestuur art.: artikel BZK: (Ministerie van) Binnenlandse Zaken en Koninkrijksrelaties BSD: Basis Selectiedocument CAS: Centrale Archief Selectiedienst CRM: (Ministerie van) Cultuur, Recreatie en Maatschappelijk Werk EZ: (Ministerie van) Economische Zaken KB: Koninklijk Besluit KNHG: Koninklijk Nederlands Historisch Genootschap LVV: 1946–1960 (Ministerie van) Landbouw, Visserij en Voedselvoorziening LenV: 1960–1989 (Ministerie van) Landbouw en Visserij LNV: 1989–2003 (Ministerie van) Landbouw, Natuurbeheer en Visserij 2003– (Ministerie van) Landbouw, Natuur en Voedselkwaliteit NA: Nationaal Archief OCW: (Ministerie van) Onderwijs, Cultuur en Wetenschap OKW: (Ministerie van) Onderwijs, Kunsten en Wetenschappen PIVOT: Project Invoering Verkorting Overbrengingstermijn RIO: Rapport Institutioneel Onderzoek SBB: Staatsbosbeheer Stb.: Staatsblad van het Koninkrijk der Nederlanden Stcrt.: Nederlandse Staatscourant SZV: (Ministerie van) Sociale Zaken en Volksgezondheid TK: Tweede Kamer (Kamerstukaanduiding) VenW: (Ministerie van) Verkeer en Waterstaat VB: Verordeningenblad voor het Nederlandsche bezette gebied VoMil: (Ministerie van) Volksgezondheid en Milieuhygiëne VROM: (Ministerie van) Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer VWS: (Ministerie van) Volksgezondheid, Welzijn en Sport WVC: (Ministerie van) Welzijn, Volksgezondheid en Cultuur 
 
-### 2  
+### 2 
 
 ####Verantwoording
 
 #### *Doel en werking van het Basis Selectiedocument* 
 
-Een Basis Selectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van één (enkele) organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Het BSD geldt dus voor de archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voor zover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Dit betekent dat er geen handelingen van particuliere actoren worden opgenomen. Een BSD wordt normaliter opgesteld op basis van institutioneel onderzoek. In het rapport institutioneel onderzoek (RIO) wordt het betreffende beleidsterrein beschreven, evenals de taken en bevoegdheden van de betrokken organen. De handelingen van de overheid op het beleidsterrein staan in het RIO in hun functionele context geplaatst. In het BSD zijn de handelingen overgenomen, alleen nu geordend naar de actor. Bovendien is bij elke handeling aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden. Door de beleidsterreingerichte benadering komen verschillende aspecten betreffende het beheer van de eigen organisatie van de zorgdrager (personeelsbeleid, financieel beleid, etc.) niet aan bod. Voor het selecteren van de administratieve neerslag die betrekking heeft op de instandhouding en ontwikkeling van de eigen organisaties van overheidsorganen dienen een aantal zogeheten ‘horizontale’ BSD’s. Deze horizontale BSD’s zijn van toepassing op alle organisaties van de rijksoverheid. Het niveau waarop geselecteerd wordt, is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voorzien van een waardering en indien van toepassing een vernietigingstermijn.  
+Een Basis Selectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van één (enkele) organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Het BSD geldt dus voor de archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voor zover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Dit betekent dat er geen handelingen van particuliere actoren worden opgenomen. Een BSD wordt normaliter opgesteld op basis van institutioneel onderzoek. In het rapport institutioneel onderzoek (RIO) wordt het betreffende beleidsterrein beschreven, evenals de taken en bevoegdheden van de betrokken organen. De handelingen van de overheid op het beleidsterrein staan in het RIO in hun functionele context geplaatst. In het BSD zijn de handelingen overgenomen, alleen nu geordend naar de actor. Bovendien is bij elke handeling aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden. Door de beleidsterreingerichte benadering komen verschillende aspecten betreffende het beheer van de eigen organisatie van de zorgdrager (personeelsbeleid, financieel beleid, etc.) niet aan bod. Voor het selecteren van de administratieve neerslag die betrekking heeft op de instandhouding en ontwikkeling van de eigen organisaties van overheidsorganen dienen een aantal zogeheten ‘horizontale’ BSD’s. Deze horizontale BSD’s zijn van toepassing op alle organisaties van de rijksoverheid. Het niveau waarop geselecteerd wordt, is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voorzien van een waardering en indien van toepassing een vernietigingstermijn. 
 
 #### *De definitie van het beleidsterrein* 
 
@@ -64,11 +64,11 @@ Het Bosbouwbeleid houdt zich bezig met:
 
 a. de duurzame instandhouding, het herstel en de ontwikkeling van beplantingen en van een kwalitatief hoogwaardig bos ten behoeve van de natuur, recreatie, het landschap, het milieu en de houtproductie;  
 
-b. de instandhouding van het bosbouwbedrijfsleven door het bedrijfsmatig beheer van de Nederlandse bossen te stimuleren.    
+b. de instandhouding van het bosbouwbedrijfsleven door het bedrijfsmatig beheer van de Nederlandse bossen te stimuleren.   
 
 #### *De afbakening van het beleidsterrein* 
 
-Dit BSD is gebaseerd op het RIO nr. 44, ‘Bomen met beleid’ en de [selectielijst van het Ministerie van Landbouw, Natuurbeheer en Visserij](../../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststelling/selectielijst/bosbouw/BWBR0009445/README.md) voor dit beleidsterrein. Deze lijst is in 1998 vastgesteld (Stcrt. 1998, 51). In het onderhavige BSD zijn de handelingen opgenomen van de actoren ‘de Minister van Onderwijs, Kunsten en Wetenschappen’ en ‘de Minister van Cultuur, Recreatie en Maatschappelijk Werk’ respectievelijk voor de periode 1945–1965 en de periode 1965–1983. In dit BSD zijn de handelingen van deze actoren geschaard onder de kop ‘de minister (mede) belast met Bosbouw’. Er zijn hoofdzakelijk handelingen opgenomen die deze actoren in de genoemde periode hebben uitgevoerd en die reeds in de selectielijst van LNV zijn benoemd. De nummering van de handelingen komt overeen met die in het vastgestelde BSD van het Ministerie van LNV uit 1998. Ter aanvulling op handelingen uit de LNV-lijst zijn nog enkele algemene handelingen toegevoegd. Het gaat om de handelingen met de nummers 205–222. Het oorspronkelijke BSD voor het beleidsterrein Bosbouw dateert van 1998 en hierin waren deze handelingen nog niet opgenomen. Het is echter gebruikelijk dat deze handelingen worden opgenomen in het BSD, omdat ze op vrijwel elk beleidsterrein voorkomen. Ook zijn handelingen opgenomen voor de verschillende commissies die in de periode 1945–1983 actief zijn geweest. De handelingen van deze actoren zijn in een eerder stadium door het Ministerie van LNV vastgesteld. Hierbij werd verondersteld dat het Ministerie van LNV zorgdrager is voor de archieven van deze commissies. Het is echter niet uitgesloten dat ook het Ministerie van OCW en het Ministerie van VWS (unieke) archiefbescheiden van de bedoelde commissies in bezit hebben. Om te voorkomen dat dit archiefmateriaal niet kan worden geselecteerd en bewerkt, worden de commissiehandelingen bij deze ook vastgesteld voor de zorgdragers OCW en VWS. Door de verschillende functies van het bos, heeft het bosbouwbeleid nauwe relaties met veel andere beleidsterreinen zoals openluchtrecreatie, natuur, landschap, milieu, landbouw, water, houtvoorziening en ruimtelijke ordening. Binnen deze beleidsterreinen is het bos niet het centrale object waarvoor de beleidsbeslissingen worden gemaakt. De recreatieve en de natuurbehoudmatige functies van het bos bijvoorbeeld worden behandeld in de Pivot-onderzoeken nummer 51 en 79, respectievelijk betreffende de beleidsterreinen ‘Openluchtrecreatie’ en ‘Natuur- en landschapsbeheer en relatienotabeleid.’ Bij het Ministerie van Economische Zaken is het beleid onderzocht ten aanzien van de houtverwerkende industrie. In het onderhavige onderzoek zullen de raakvlakken die het bosbouwbeleid heeft met die andere functies van het bos louter worden behandeld vanuit het gezichtspunt: de instandhouding, uitbreiding en het beheer van het bosareaal in Nederland.  
+Dit BSD is gebaseerd op het RIO nr. 44, ‘Bomen met beleid’ en de [selectielijst van het Ministerie van Landbouw, Natuurbeheer en Visserij](../../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststelling/selectielijst/bosbouw/BWBR0009445/README.md) voor dit beleidsterrein. Deze lijst is in 1998 vastgesteld (Stcrt. 1998, 51). In het onderhavige BSD zijn de handelingen opgenomen van de actoren ‘de Minister van Onderwijs, Kunsten en Wetenschappen’ en ‘de Minister van Cultuur, Recreatie en Maatschappelijk Werk’ respectievelijk voor de periode 1945–1965 en de periode 1965–1983. In dit BSD zijn de handelingen van deze actoren geschaard onder de kop ‘de minister (mede) belast met Bosbouw’. Er zijn hoofdzakelijk handelingen opgenomen die deze actoren in de genoemde periode hebben uitgevoerd en die reeds in de selectielijst van LNV zijn benoemd. De nummering van de handelingen komt overeen met die in het vastgestelde BSD van het Ministerie van LNV uit 1998. Ter aanvulling op handelingen uit de LNV-lijst zijn nog enkele algemene handelingen toegevoegd. Het gaat om de handelingen met de nummers 205–222. Het oorspronkelijke BSD voor het beleidsterrein Bosbouw dateert van 1998 en hierin waren deze handelingen nog niet opgenomen. Het is echter gebruikelijk dat deze handelingen worden opgenomen in het BSD, omdat ze op vrijwel elk beleidsterrein voorkomen. Ook zijn handelingen opgenomen voor de verschillende commissies die in de periode 1945–1983 actief zijn geweest. De handelingen van deze actoren zijn in een eerder stadium door het Ministerie van LNV vastgesteld. Hierbij werd verondersteld dat het Ministerie van LNV zorgdrager is voor de archieven van deze commissies. Het is echter niet uitgesloten dat ook het Ministerie van OCW en het Ministerie van VWS (unieke) archiefbescheiden van de bedoelde commissies in bezit hebben. Om te voorkomen dat dit archiefmateriaal niet kan worden geselecteerd en bewerkt, worden de commissiehandelingen bij deze ook vastgesteld voor de zorgdragers OCW en VWS. Door de verschillende functies van het bos, heeft het bosbouwbeleid nauwe relaties met veel andere beleidsterreinen zoals openluchtrecreatie, natuur, landschap, milieu, landbouw, water, houtvoorziening en ruimtelijke ordening. Binnen deze beleidsterreinen is het bos niet het centrale object waarvoor de beleidsbeslissingen worden gemaakt. De recreatieve en de natuurbehoudmatige functies van het bos bijvoorbeeld worden behandeld in de Pivot-onderzoeken nummer 51 en 79, respectievelijk betreffende de beleidsterreinen ‘Openluchtrecreatie’ en ‘Natuur- en landschapsbeheer en relatienotabeleid.’ Bij het Ministerie van Economische Zaken is het beleid onderzocht ten aanzien van de houtverwerkende industrie. In het onderhavige onderzoek zullen de raakvlakken die het bosbouwbeleid heeft met die andere functies van het bos louter worden behandeld vanuit het gezichtspunt: de instandhouding, uitbreiding en het beheer van het bosareaal in Nederland. 
 
 #### *Doelstellingen en taken van de overheid op het beleidsterrein Bosbouw* 
 
@@ -86,13 +86,13 @@ Eind 19de eeuw kreeg de overheid belangstelling voor de bosbouw. Hiervoor waren 
 
 3. voortdurende instandhouding van een groot deel van het bosareaal op dezelfde plek;  
 
-4. veelzijdig bosgebruik.   Deze voornemens werden omgezet in een Meerjarenplan Bosbouw (1985), dat het bosbeleid tot het jaar 2000 uitzette. Als hoofddoelstelling werd geformuleerd: ‘Het binnen het kader van het totale overheidsgebied bevorderen van zodanige voorwaarden en omstandigheden, dat het bosareaal in Nederland naar omvang en kwaliteit zo goed mogelijk tegemoet komt aan de in de samenleving bestaande wensen ten aanzien van de functievervulling van het bos, nu en in de toekomst, op een door die samenleving geaccepteerd kostenniveau.’  
+4. veelzijdig bosgebruik.   Deze voornemens werden omgezet in een Meerjarenplan Bosbouw (1985), dat het bosbeleid tot het jaar 2000 uitzette. Als hoofddoelstelling werd geformuleerd: ‘Het binnen het kader van het totale overheidsgebied bevorderen van zodanige voorwaarden en omstandigheden, dat het bosareaal in Nederland naar omvang en kwaliteit zo goed mogelijk tegemoet komt aan de in de samenleving bestaande wensen ten aanzien van de functievervulling van het bos, nu en in de toekomst, op een door die samenleving geaccepteerd kostenniveau.’ 
 
 #### *De actoren op het beleidsterrein, voor zover hun selectielijsten in het BSD zijn opgenomen* 
 
-de Minister die (mede) is belast met Bosbouw (1945–1983) Commissie voor de Bosstatistiek (1938–1946) Commissie tot herziening van de Boschwet (1948–1962) Commissie Onderzoek Beheer Terreinen Staatsbosbeheer (Commissie Kamp⁠fraath, 1972–1975) Interdepartementale Commissie inzake de voorbereiding van een visie op de instandhouding en uitbreiding bos (1975–1977) De handelingen worden vastgesteld voor de zorgdragers de Minister van Onderwijs, Cultuur en Wetenschap en de Minister van Volksgezondheid, Welzijn en Sport, omdat zij de rechtsopvolgers zijn van respectievelijk de Minister van Onderwijs, Kunsten en Wetenschappen de Minister van Cultuur, Recreatie en Maatschappelijk Werk.  
+de Minister die (mede) is belast met Bosbouw (1945–1983) Commissie voor de Bosstatistiek (1938–1946) Commissie tot herziening van de Boschwet (1948–1962) Commissie Onderzoek Beheer Terreinen Staatsbosbeheer (Commissie Kamp⁠fraath, 1972–1975) Interdepartementale Commissie inzake de voorbereiding van een visie op de instandhouding en uitbreiding bos (1975–1977) De handelingen worden vastgesteld voor de zorgdragers de Minister van Onderwijs, Cultuur en Wetenschap en de Minister van Volksgezondheid, Welzijn en Sport, omdat zij de rechtsopvolgers zijn van respectievelijk de Minister van Onderwijs, Kunsten en Wetenschappen de Minister van Cultuur, Recreatie en Maatschappelijk Werk. 
 
-### 3  
+### 3 
 
 ####Selectiedoelstelling
 
@@ -101,23 +101,23 @@ In de productbeschrijving BSD van maart 2004 is de selectiedoelstelling van het 
 #### *Selectiecriteria* 
 
 Om de selectiedoelstelling te bereiken worden de handelingen in het BSD gewaardeerd aan de hand van de onderstaande *algemene* selectiecriteria. Deze criteria zijn in 1997 door het Convent van Rijksarchivarissen vastgesteld en geaccordeerd door PC DIN en KNHG. 
-### *Algemeen selectiecriterium* 
+###*Algemeen selectiecriterium*
 
-1. Handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet perse consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben verantwoordingvan beleid op hoofdlijnen aan andere actoren *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben opbeleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten *Toelichting:* Bijvoorbeeld in het geval de ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Naast de algemene criteria kunnen er in een BSD, eveneens binnen het kader van de selectiedoelstelling, in overleg met het Nationaal Archief, beleidsterreinspecifieke criteria worden geformuleerd. Deze criteria worden doorlopend genummerd, waarbij wordt aangesloten bij de zes algemene criteria (dus vanaf 7). Overigens kan, ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) neerslag van bepaalde, als te vernietigen gewaardeerde handelingen, betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd.  
+1. Handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet perse consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben verantwoordingvan beleid op hoofdlijnen aan andere actoren  *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt  *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben opbeleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten  *Toelichting:* Bijvoorbeeld in het geval de ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Naast de algemene criteria kunnen er in een BSD, eveneens binnen het kader van de selectiedoelstelling, in overleg met het Nationaal Archief, beleidsterreinspecifieke criteria worden geformuleerd. Deze criteria worden doorlopend genummerd, waarbij wordt aangesloten bij de zes algemene criteria (dus vanaf 7). Overigens kan, ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) neerslag van bepaalde, als te vernietigen gewaardeerde handelingen, betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. 
 
-### 4  
+### 4 
 
 ####Verslag van de vaststellingsprocedure
 
-Op 6 maart 2006 is het ontwerp-BSD door de Minister van OCW en de Minister van VWS aan de Staatssecretaris van OCW aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 september 2006 lag de selectielijst gedurende zes weken ter publieke inzage bij de registratiebalie van het Nationaal Archief evenals in de bibliotheken van de betrokken zorgdragers, het Ministerie van OCW en de rijksarchieven in de provincie/regionaal historische centra, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 27 oktober 2006 bracht de RvC advies uit (arc-2006.03203/4), hetwelk geen aanleiding heeft gegeven tot wijziging van de ontwerp-selectielijst.  
+Op 6 maart 2006 is het ontwerp-BSD door de Minister van OCW en de Minister van VWS aan de Staatssecretaris van OCW aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 september 2006 lag de selectielijst gedurende zes weken ter publieke inzage bij de registratiebalie van het Nationaal Archief evenals in de bibliotheken van de betrokken zorgdragers, het Ministerie van OCW en de rijksarchieven in de provincie/regionaal historische centra, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 27 oktober 2006 bracht de RvC advies uit (arc-2006.03203/4), hetwelk geen aanleiding heeft gegeven tot wijziging van de ontwerp-selectielijst. 
 
-### 5  
+### 5 
 
 ####Leeswijzer
 
-Handelingnr.: Dit is het volgnummer van de handeling. Dit nummer is overgenomen uit het RIO. Handeling: Dit is een complex van activiteiten die een actor verricht ter vervulling van een taak of op grond van een bevoegdheid. In de praktijk komt een handeling meestal overeen met een procedure of een werkproces. Periode: Hier staat het tijdvak vermeld gedurende welke jaren de handeling is verricht. Wanneer er geen eindjaar staat vermeld wordt de handeling nog steeds uitgevoerd. Grondslag: Dit is de wettelijke basis op grond waarvan de actor de handeling verricht. Vermeld worden: de naam (citeertitel) van de wet, de Algemene Maatregel van Bestuur, het Koninklijk Besluit of de ministeriële regeling; het betreffende artikel en lid daarvan; de vindplaats, dwz. de vermelding van Staatsblad of Staatscourant; wijzigingen in de grondslag en het vervallen hiervan. Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de *bron* worden genoemd waarin de betreffende handeling staat vermeld. Product: Waar mogelijk wordt hier vermeld welke documenten uit de handeling zijn voortgekomen. Opmerking: Deze aanvullende informatie wordt slechts vermeld wanneer de strekking van de handeling toelichting behoeft. Waardering: Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering.  
+Handelingnr.: Dit is het volgnummer van de handeling. Dit nummer is overgenomen uit het RIO. Handeling: Dit is een complex van activiteiten die een actor verricht ter vervulling van een taak of op grond van een bevoegdheid. In de praktijk komt een handeling meestal overeen met een procedure of een werkproces. Periode: Hier staat het tijdvak vermeld gedurende welke jaren de handeling is verricht. Wanneer er geen eindjaar staat vermeld wordt de handeling nog steeds uitgevoerd. Grondslag: Dit is de wettelijke basis op grond waarvan de actor de handeling verricht. Vermeld worden: de naam (citeertitel) van de wet, de Algemene Maatregel van Bestuur, het Koninklijk Besluit of de ministeriële regeling; het betreffende artikel en lid daarvan; de vindplaats, dwz. de vermelding van Staatsblad of Staatscourant; wijzigingen in de grondslag en het vervallen hiervan. Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de *bron* worden genoemd waarin de betreffende handeling staat vermeld. Product: Waar mogelijk wordt hier vermeld welke documenten uit de handeling zijn voortgekomen. Opmerking: Deze aanvullende informatie wordt slechts vermeld wanneer de strekking van de handeling toelichting behoeft. Waardering: Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering. 
 
-### 6  
+### 6 
 
 ####Actorenoverzicht
 
@@ -125,31 +125,31 @@ Handelingnr.: Dit is het volgnummer van de handeling. Dit nummer is overgenomen 
 
 #### *– De Minister van Onderwijs, Kunsten en Wetenschappen als de Minister die (mede) is belast met Bosbouw (1945–1965)* 
 
-Het Ministerie van Landbouw kreeg in de jaren dertig de verantwoordelijkheid over de [Boswet](../../../../../../../../../wet/boswet/BWBR0002357/README.md) en het Staatsbosbeheer (SBB). Staatsbosbeheer werd vanaf 1941 voor het aankopen van terreinen gesubsidieerd door het Ministerie van OKW. In 1942 kwamen de ministers van Onderwijs, Kunsten en Wetenschappen (OKW) en van Nijverheid en Landbouw overeen dat OKW de vorming zou bekostigen van staatsnatuurmonumenten, die bij Staatsbosbeheer in eigendom en beheer werden gegeven. Ook SBB zelf kocht natuurgebieden aan, en daarnaast subsidieerde OKW op beperkte schaal de aankoop van natuurmonumenten door de Provinciale Landschappen. In 1947 kwamen de departementen van OKW en Landbouw overeen dat natuurbescherming verder geheel onder OKW ging ressorteren, maar voor de uitvoering van beleid werd gebruik gemaakt van de diensten van SBB dat niettemin onderdeel bleef van Landbouw. Voor de aansturing van de natuurbeschermingsconsulenten en de landschapsconsulenten werd in 1948 de afdeling Natuurbescherming en Landschap bij Staatsbosbeheer opgericht, die financieel ten laste kwam van het Ministerie van OKW. Staatsbosbeheer rapporteerde over het beheer in zijn jaarverslagen. In 1965 ging de afdeling Oudheidkunde en Natuurbescherming van het Ministerie van Onderwijs, Kunsten en Wetenschappen (OKW) op in het Ministerie van Cultuur, Recreatie en Maatschappelijk werk (CRM). In 1982 werd dit pakket doorgegeven aan het Ministerie van Landbouw.  
+Het Ministerie van Landbouw kreeg in de jaren dertig de verantwoordelijkheid over de [Boswet](../../../../../../../../../wet/boswet/BWBR0002357/README.md) en het Staatsbosbeheer (SBB). Staatsbosbeheer werd vanaf 1941 voor het aankopen van terreinen gesubsidieerd door het Ministerie van OKW. In 1942 kwamen de ministers van Onderwijs, Kunsten en Wetenschappen (OKW) en van Nijverheid en Landbouw overeen dat OKW de vorming zou bekostigen van staatsnatuurmonumenten, die bij Staatsbosbeheer in eigendom en beheer werden gegeven. Ook SBB zelf kocht natuurgebieden aan, en daarnaast subsidieerde OKW op beperkte schaal de aankoop van natuurmonumenten door de Provinciale Landschappen. In 1947 kwamen de departementen van OKW en Landbouw overeen dat natuurbescherming verder geheel onder OKW ging ressorteren, maar voor de uitvoering van beleid werd gebruik gemaakt van de diensten van SBB dat niettemin onderdeel bleef van Landbouw. Voor de aansturing van de natuurbeschermingsconsulenten en de landschapsconsulenten werd in 1948 de afdeling Natuurbescherming en Landschap bij Staatsbosbeheer opgericht, die financieel ten laste kwam van het Ministerie van OKW. Staatsbosbeheer rapporteerde over het beheer in zijn jaarverslagen. In 1965 ging de afdeling Oudheidkunde en Natuurbescherming van het Ministerie van Onderwijs, Kunsten en Wetenschappen (OKW) op in het Ministerie van Cultuur, Recreatie en Maatschappelijk werk (CRM). In 1982 werd dit pakket doorgegeven aan het Ministerie van Landbouw. 
 
 #### *– Commissie voor de Bosstatistiek (1938–1946)* 
 
-Deze commissie heeft de eerste Bosstatistiek opgesteld.  
+Deze commissie heeft de eerste Bosstatistiek opgesteld. 
 
 #### *– Commissie tot herziening van de Boschwet (1948–1962)* 
 
-Deze commissie heeft onderzoek gedaan naar de (gewenste) voorzieningen met betrekking tot bosbouw en houtteelt in Nederland, met het oog op een nieuwe [Boswet](../../../../../../../../../wet/boswet/BWBR0002357/README.md).  
+Deze commissie heeft onderzoek gedaan naar de (gewenste) voorzieningen met betrekking tot bosbouw en houtteelt in Nederland, met het oog op een nieuwe [Boswet](../../../../../../../../../wet/boswet/BWBR0002357/README.md). 
 
 #### *Actoren onder de zorg van de Minister van Volksgezondheid, Welzijn en Sport* 
 
 #### *– De Minister van Cultuur, Recreatie en Maatschappelijk Werk als de Minister die (mede) is belast met Bosbouw (1965–1983)* 
 
-Het Ministerie van Cultuur, Recreatie en Maatschappelijk Werk (CRM) heeft bestaan van 14 april 1965 (beëdiging van het kabinet-Cals) tot en met 4 november 1982 (ontslag verleend aan het kabinet Van Agt III). In 1965 ging de afdeling Oudheidkunde en Natuurbescherming van het Ministerie van Onderwijs, Kunsten en Wetenschappen (OKW) op in het Ministerie van Cultuur, Recreatie en Maatschappelijk werk (CRM). Natuurbescherming en Openluchtrecreatie werden daarna samengevoegd tot de (hoofd)directie Natuurbescherming en Openluchtrecreatie (NBOR). Sinds 1983 is het Ministerie van LNV zorgdrager voor de taken die CRM op dit beleidsterrein uitvoerde. De handelingen worden vastgesteld voor de zorgdragers de Minister van Onderwijs, Cultuur en Wetenschap en de Minister van Volksgezondheid, Welzijn en Sport, omdat zij de rechtsopvolgers zijn van respectievelijk de Minister van Onderwijs, Kunsten en Wetenschappen de Minister van Cultuur, Recreatie en Maatschappelijk Werk.  
+Het Ministerie van Cultuur, Recreatie en Maatschappelijk Werk (CRM) heeft bestaan van 14 april 1965 (beëdiging van het kabinet-Cals) tot en met 4 november 1982 (ontslag verleend aan het kabinet Van Agt III). In 1965 ging de afdeling Oudheidkunde en Natuurbescherming van het Ministerie van Onderwijs, Kunsten en Wetenschappen (OKW) op in het Ministerie van Cultuur, Recreatie en Maatschappelijk werk (CRM). Natuurbescherming en Openluchtrecreatie werden daarna samengevoegd tot de (hoofd)directie Natuurbescherming en Openluchtrecreatie (NBOR). Sinds 1983 is het Ministerie van LNV zorgdrager voor de taken die CRM op dit beleidsterrein uitvoerde. De handelingen worden vastgesteld voor de zorgdragers de Minister van Onderwijs, Cultuur en Wetenschap en de Minister van Volksgezondheid, Welzijn en Sport, omdat zij de rechtsopvolgers zijn van respectievelijk de Minister van Onderwijs, Kunsten en Wetenschappen de Minister van Cultuur, Recreatie en Maatschappelijk Werk. 
 
 #### *– Commissie Onderzoek Beheer Terreinen Staatsbosbeheer (Commissie Kampfraath) (1972–1975)* 
 
-Deze commissie heeft gerapporteerd met betrekking tot het door het Staatsbosbeheer te voeren beheer van bossen en natuurterreinen.  
+Deze commissie heeft gerapporteerd met betrekking tot het door het Staatsbosbeheer te voeren beheer van bossen en natuurterreinen. 
 
 #### *– Interdepartementale Commissie inzake de voorbereiding van een visie op de instandhouding en uitbreiding bos (1975–1977)* 
 
-Deze commissie heeft gewerkt aan een visie op de instandhouding van het bos in zijn verschillende functies.  
+Deze commissie heeft gewerkt aan een visie op de instandhouding van het bos in zijn verschillende functies. 
 
-### 7  
+### 7 
 
 ####Selectielijsten
 
@@ -243,7 +243,7 @@ Handeling: Het goedkeuren van door de commissies vastgestelde reglementen, regel
 Handeling: Het deelnemen aan commissies en werkgroepen inzake de voorbereiding en evaluatie van beleid dat het beleidsterrein bosbouw raakt, waarbij het voorzitterschap en/of secretariaat niet bij de minister (mede) belast met Bosbouw berust. Periode: 1945–1983 Bron: Begrotingen Product: verslagen, nota’s, rapporten, agenda’s, notulen Waardering: V, 10 jaar 
 ###Handelingnr.: 222.
 
-Handeling: Het deelnemen aan commissies en werkgroepen inzake de voorbereiding en evaluatie van beleid dat het beleidsterrein bosbouw raakt, waarbij het voorzitterschap en/of secretariaat bij de minister (mede) belast met Bosbouw berust. Periode: 1945–1983 Product: verslagen, nota’s, rapporten, agenda’s, notulen Waardering: B 1, 2  
+Handeling: Het deelnemen aan commissies en werkgroepen inzake de voorbereiding en evaluatie van beleid dat het beleidsterrein bosbouw raakt, waarbij het voorzitterschap en/of secretariaat bij de minister (mede) belast met Bosbouw berust. Periode: 1945–1983 Product: verslagen, nota’s, rapporten, agenda’s, notulen Waardering: B 1, 2 
 
 #### *Boschwet 1922* 
 
@@ -276,7 +276,7 @@ Handeling: Het voorbereiden van het verlenen (door de Kroon) van geldelijke bijd
 Handeling: Het doen wegnemen, beletten of verrichten, op kosten van de overtreders, hetgeen in strijd is met de verbodsbepalingen van art. 3.1 uit de Boschwet 1922. Periode: 1945–1962 Grondslag: Boschwet 1922, art. 13 Waardering: V, 10 jaar 
 ###Handelingnr.: 35.
 
-Handeling: Het aanwijzen van personen die belast zijn met het opsporen van de feiten, bij deze wet strafbaar gesteld Periode: 1945–1983 Grondslag: Boschwet 1922, art. 14 Waardering: V, 5 jaar  
+Handeling: Het aanwijzen van personen die belast zijn met het opsporen van de feiten, bij deze wet strafbaar gesteld Periode: 1945–1983 Grondslag: Boschwet 1922, art. 14 Waardering: V, 5 jaar 
 
 #### *Besluit staatstoezicht op de Bosschen 1943* 
 
@@ -288,13 +288,13 @@ Handeling: Het uitspraak doen op bezwaarschriften naar aanleiding van beslissing
 Handeling: Het uitvaardigen van aanvullende voorschriften wanneer het gemeentebossen en de bossen van publiekrechtelijke lichamen betreft Periode: 1945–1948 Grondslag: Besluit Staatstoezicht op de Bosschen 1943, VB 1943, 57, art. 21.2 Waardering: B 6 
 ###Handelingnr.: 50.
 
-Handeling: Het geven van voorschriften ter uitvoering van het besluit Staatstoezicht op de Bosschen 1943, VB 1943, 57 Periode: 1945–1948 Grondslag: Besluit Staatstoezicht op de Bosschen 1943, VB 1943, 57, art. 24 Waardering: B 6  
+Handeling: Het geven van voorschriften ter uitvoering van het besluit Staatstoezicht op de Bosschen 1943, VB 1943, 57 Periode: 1945–1948 Grondslag: Besluit Staatstoezicht op de Bosschen 1943, VB 1943, 57, art. 24 Waardering: B 6 
 
 #### *Overgangswet Bodemproductie 1950* 
 
 ###Handelingnr.: 57.
 
-Handeling: Het beschikken op een beroepschrift naar aanleiding van een genomen beslissing op een verzoek om vergunning of ontheffing op basis van de Bodemproductiebeschikking 1949 Periode: 1950–1961 Grondslag: Overgangswet Bodemproductie, Stb. 1950, K 413, art. 4 Waardering: V, 10 jaar.  
+Handeling: Het beschikken op een beroepschrift naar aanleiding van een genomen beslissing op een verzoek om vergunning of ontheffing op basis van de Bodemproductiebeschikking 1949 Periode: 1950–1961 Grondslag: Overgangswet Bodemproductie, Stb. 1950, K 413, art. 4 Waardering: V, 10 jaar. 
 
 #### *Boswet 1961* 
 
@@ -327,7 +327,7 @@ Handeling: Het verbinden van voorschriften aan de toekenning van bijdragen ter b
 Handeling: Het (kunnen) verbieden – ter bewaring van natuur- en landschapsschoon – van het vellen en doen vellen van bossen en andere houtopstanden. Periode: 1962–1983 Grondslag: Boswet, art. 13 lid 1 (Stb. 1961, 256) Opmerking Het verbod geldt voor een periode van maximaal vijf jaar. Er wordt daarvan melding gemaakt in de Staatscourant. Waardering: B 5 
 ###Handelingnr.: 79.
 
-Handeling: Het toekennen van een schadevergoeding als door het verbod tot velling schade wordt geleden. Periode: 1962–1983 Grondslag: Boswet, art. 13 lid 4 (Stb. 1961, 256) Waardering: V, 5 jaar  
+Handeling: Het toekennen van een schadevergoeding als door het verbod tot velling schade wordt geleden. Periode: 1962–1983 Grondslag: Boswet, art. 13 lid 4 (Stb. 1961, 256) Waardering: V, 5 jaar 
 
 #### *Subsidies en bijdrageregelingen* 
 
@@ -342,29 +342,29 @@ Handeling: Het bijhouden van overzichten van door de minister (mede) belast met 
 Handeling: Het toekennen van een bijdrage in de kosten van instandhouding en toegankelijkstelling van een bos, dat van voldoende recreatieve betekenis is. Periode: 1966–1976 Grondslag: Regeling bosbijdragen particulieren, art. 2. (Stcrt. 1966, 146) Product: Beschikking Waardering: V, 10 jaar 
 ###Handelingnr.: 109.
 
-Handeling: Het beslissen, in overeenstemming met de Minister van LNV, op een bezwaarschrift ingediend tegen een beschikking op basis van de Beschikking bosbijdragen. Periode: 1976–1983 Grondslag: Beschikking bosbijdragen, art. 20 lid 2 (Stcrt. 1976, 182) Waardering: V, 10 jaar  
+Handeling: Het beslissen, in overeenstemming met de Minister van LNV, op een bezwaarschrift ingediend tegen een beschikking op basis van de Beschikking bosbijdragen. Periode: 1976–1983 Grondslag: Beschikking bosbijdragen, art. 20 lid 2 (Stcrt. 1976, 182) Waardering: V, 10 jaar 
 
 #### *Actor: Commissie voor de Bosstatistiek* 
 
 ###Handelingnr.: 10.
 
-Handeling: Het opstellen van de eerste Nederlandse Bosstatistiek. Periode: 1938–1946 Bron: A. Moens-Langereis e.a., *Vier Nederlandse Bosstatistieken* (..), Den Haag, 1987, p. 3–7. Waardering: B 1  
+Handeling: Het opstellen van de eerste Nederlandse Bosstatistiek. Periode: 1938–1946 Bron: A. Moens-Langereis e.a., *Vier Nederlandse Bosstatistieken* (..), Den Haag, 1987, p. 3–7. Waardering: B 1 
 
 #### *Actor: Commissie tot herziening van de Boschwet* 
 
 ###Handelingnr.: 11.
 
-Handeling: Het onderzoeken welke voorzieningen met betrekking tot de bosbouw en de houtteelt in Nederland in al haar aspecten gewenst zijn en op basis daarvan het samenstellen van een ontwerp van wet tot regeling van de voorzieningen met toelichtende memorie van toelichting. Periode: 1948–1962 Grondslag: LNV-begrotingen Waardering: B 1  
+Handeling: Het onderzoeken welke voorzieningen met betrekking tot de bosbouw en de houtteelt in Nederland in al haar aspecten gewenst zijn en op basis daarvan het samenstellen van een ontwerp van wet tot regeling van de voorzieningen met toelichtende memorie van toelichting. Periode: 1948–1962 Grondslag: LNV-begrotingen Waardering: B 1 
 
 #### *Actor: Commissie Onderzoek Beheer Terreinen Staatsbosbeheer (Commissie Kampfraath)* 
 
 ###Handelingnr.: 12.
 
-Handeling: Het rapporteren omtrent de door het Staatsbosbeheer te voeren beheer van bossen en natuurterreinen, in het bijzonder voor wat betreft de daarbij beoogde doelstellingen en de wijze waarop de gelden voor het beheer worden uitgegeven. Periode: 1972–1975 Grondslag: Besluit van de Minister van Landbouw, 14 feb. 1972, no. BW 117 Waardering: B 1  
+Handeling: Het rapporteren omtrent de door het Staatsbosbeheer te voeren beheer van bossen en natuurterreinen, in het bijzonder voor wat betreft de daarbij beoogde doelstellingen en de wijze waarop de gelden voor het beheer worden uitgegeven. Periode: 1972–1975 Grondslag: Besluit van de Minister van Landbouw, 14 feb. 1972, no. BW 117 Waardering: B 1 
 
 #### *Actor: Interdepartementale Commissie inzake de voorbereiding van een visie op de instandhouding en uitbreiding bos* 
 
 ###Handelingnr.: 13.
 
-Handeling: Het ontwerpen van een visie op de instandhouding en uitbreiding van het bos in zijn verschillende functies. Periode: 1975–1977 Grondslag: Stcrt. 1975, 122 Waardering: B 1  
+Handeling: Het ontwerpen van een visie op de instandhouding en uitbreiding van het bos in zijn verschillende functies. Periode: 1975–1977 Grondslag: Stcrt. 1975, 122 Waardering: B 1 
 

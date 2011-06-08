@@ -9,7 +9,7 @@ De staatssecretaris van Financiën heeft het volgende besloten.  *Deze regeling 
 ### Artikel  1  
 
 1.  Deze regeling neemt over de begrippen van de Belastingregeling voor het Koninkrijk.   
-2.  Deze regeling zal zo nodig worden aangepast bij invoering van een dividendbelasting in Curaçao onderscheidenlijk Sint Maarten.   
+2.  Deze regeling zal zo nodig worden aangepast bij invoering van een dividendbelasting in Curaçao onderscheidenlijk Sint Maarten.  
 
 ####Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden (vrijstellingsprocedure)
 
@@ -29,7 +29,7 @@ iv. dat het lichaam genieter is (was) van het dividend;
 
 v. dat in Curaçao onderscheidenlijk Sint Maarten met de naar een percentage van 8,3 percent ingehouden dividendbelasting formeel of in feite niet zodanig rekening wordt (is) gehouden dat de feitelijke gecombineerde belastingdruk van woonstaat en bronstaat tezamen op het dividend lager is of wordt dan 8,3 percent.     
 4.  Voor zover dividendbelasting welke is ingehouden en afgedragen, ingevolge het tweede lid, bij de uitbetaling van het dividend niet in aftrek is gebracht, wordt deze aan de vennootschap teruggegeven na indiening van een verzoek bij de inspecteur binnen wiens ambtsgebied zij is gevestigd, onder overlegging van het van een ondertekende bevestiging voorziene exemplaar van de in het eerste lid bedoelde verklaring. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.   
-5.  Het terug te geven bedrag wordt door de ontvanger ten behoeve van de belanghebbende aan de vennootschap overgemaakt.   
+5.  Het terug te geven bedrag wordt door de ontvanger ten behoeve van de belanghebbende aan de vennootschap overgemaakt.  
 
 ####Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden (teruggaafprocedure)
 
@@ -48,7 +48,7 @@ iii. dat het lichaam ten minste 25 percent bezit (bezat) van het nominaal gestor
 iv. dat het lichaam genieter is (was) van het dividend;  
 
 v. dat in Curaçao onderscheidenlijk Sint Maarten met de naar een percentage van 8,3 percent ingehouden dividendbelasting formeel of in feite niet zodanig rekening wordt (is) gehouden dat de feitelijke gecombineerde belastingdruk van woonstaat en bronstaat tezamen op het dividend lager is of wordt dan 8,3 percent.     
-4.  Het terug te geven bedrag wordt door de ontvanger aan de belanghebbende overgemaakt.   
+4.  Het terug te geven bedrag wordt door de ontvanger aan de belanghebbende overgemaakt.  
 
 ####Overmaking van Nederlandse dividendbelasting als bedoeld in [artikel 11, derde lid, derde volzin, onderdeel b, van de Belastingregeling voor het Koninkrijk](../../../../../../../../../../rijkswet/belastingregeling/voor/het/koninkrijk/BWBR0002464/README.md) (met betrekking tot deelnemingsdividenden)
 
@@ -61,14 +61,14 @@ v. dat in Curaçao onderscheidenlijk Sint Maarten met de naar een percentage van
 5.  Periodiek kan de staatssecretaris van Financiën een onderzoek laten instellen bij de bevoegde autoriteiten in Curaçao onderscheidenlijk Sint Maarten, teneinde na te gaan of de regeling van overmaking conform haar bedoeling wordt uitgevoerd. Een dergelijk onderzoek wordt verricht door onafhankelijke deskundigen, welke worden aangewezen door de staatssecretaris van Financiën van Nederland in overeenstemming met de minister van Financiën van Curaçao onderscheidenlijk Sint Maarten. Aan een dergelijk onderzoek wordt door laatstgenoemde alsmede door de bevoegde aanslagregelende autoriteit in Curaçao onderscheidenlijk Sint Maarten onverwijld alle medewerking verleend. Voor zover voor de toepassing van dit uitvoeringsvoorschrift van belang, worden de bevindingen van het onderzoek door de staatssecretaris van Financiën ter kennis gebracht van de Belastingdienst/Limburg/kantoor Buitenland.   
 6.  De Belastingdienst/Limburg/kantoor Buitenland stelt de inspecteur binnen wiens ambtsgebied de vennootschap is gelegen, terstond ervan in kennis indien blijkt dat niet werd voldaan aan de laatste voorwaarde, genoemd in onderdeel *a*, van [artikel 11, derde lid, derde volzin, van de Belastingregeling voor het Koninkrijk](../../../../../../../../../../rijkswet/belastingregeling/voor/het/koninkrijk/BWBR0002464/README.md) en derhalve alsnog belasting dient te worden nageheven volgens de regeling van artikel 11, tweede lid, van de Belastingregeling voor het Koninkrijk.   
 7.  Ten aanzien van eventuele geschillen inzake de toepassing van dit artikel treden de bevoegde autoriteiten van de landen in onderling overleg teneinde overeenstemming te bereiken.   
-8.  Onverschuldigd gebleken overmakingen kunnen na beëindiging van de overmakingsregeling worden teruggevorderd.   
+8.  Onverschuldigd gebleken overmakingen kunnen na beëindiging van de overmakingsregeling worden teruggevorderd.  
 
 ####Samenloop met vermindering van dividendbelasting wegens dooruitdeling
 
 ### Artikel  3b  
 
 1.  Voor toepassing van deze regeling worden voor de beoordeling van de feitelijke gecombineerde belastingdruk verminderingen ingevolge [artikel 11, tweede lid, van de Wet op de dividendbelasting 1965](../../../../../../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md) niet in aanmerking genomen.   
-2.  Bij het bepalen van de omvang van de op grond van artikel 3A, tweede lid, over te maken bedragen wordt in aanmerking genomen de af te dragen dividendbelasting vóór aftrek van verminderingen ingevolge [artikel 11, tweede lid, van de Wet op de dividendbelasting 1965](../../../../../../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md).   
+2.  Bij het bepalen van de omvang van de op grond van artikel 3A, tweede lid, over te maken bedragen wordt in aanmerking genomen de af te dragen dividendbelasting vóór aftrek van verminderingen ingevolge [artikel 11, tweede lid, van de Wet op de dividendbelasting 1965](../../../../../../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md).  
 
 ####Naheffing Nederlandse dividendbelasting met betrekking tot deelnemingsdividenden
 
@@ -79,31 +79,31 @@ v. dat in Curaçao onderscheidenlijk Sint Maarten met de naar een percentage van
 3.  In afwachting van de uitkomst van in artikel 3A, vierde lid, bedoelde bezwaar- en beroepsprocedures dan wel van verzoeken tot ambtshalve vermindering kan, indien de gronden van het bezwaarschrift, beroepschrift of het verzoekschrift daartoe aanleiding geven, met het oog op de uiterste termijn voor het opleggen van een naheffingsaanslag ter behoud van rechten worden opgelegd. Voor betaling van het bedrag van de naheffingsaanslag wordt in dat geval uitstel verleend tot 3 maanden nadat de aanslag onherroepelijk is geworden.   
 4.  De bevoegde aanslagregelende autoriteit in Nederland handelt met betrekking tot de toepassing van het tweede en derde lid overeenkomstig bindend advies van de Belastingdienst/Limburg/kantoor Buitenland.   
 5.  Het bedrag van de naheffing is niet meer dan 15 percent van het in het eerste lid genoemd brutobedrag. Op het bedrag van de naheffing wordt de ter zake van dat dividend reeds ingehouden dividendbelasting, voor zover niet reeds teruggegeven, alsmede verminderingen ingevolge [artikel 11, tweede lid, van de Wet op de dividendbelasting 1965](../../../../../../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md) in mindering gebracht.   
-6.  De bepalingen van de voorgaande leden van dit artikel laten onverlet de wijze van naheffing van dividendbelasting wegens het ten onrechte in aanmerking nemen van verminderingen als bedoeld in [artikel 11 van de Wet op de dividendbelasting 1965](../../../../../../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md).   
+6.  De bepalingen van de voorgaande leden van dit artikel laten onverlet de wijze van naheffing van dividendbelasting wegens het ten onrechte in aanmerking nemen van verminderingen als bedoeld in [artikel 11 van de Wet op de dividendbelasting 1965](../../../../../../../../../../wet/wet/op/de/dividendbelasting/1965/BWBR0002515/README.md).  
 
 ####Formele bepaling
 
 ### Artikel  5  
 
-De in deze regeling bedoelde verklaringen, verzoeken, gegevens en mededelingen moeten duidelijk, stellig en zonder voorbehoud worden gedaan of verstrekt.  
+De in deze regeling bedoelde verklaringen, verzoeken, gegevens en mededelingen moeten duidelijk, stellig en zonder voorbehoud worden gedaan of verstrekt. 
 
 ####Termijn voor indiening van verzoeken om teruggaaf
 
 ### Artikel  6  
 
-Verzoeken om teruggaaf van belasting, als bedoeld in artikel 3, moeten bij de bevoegde inspecteur zijn ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin het dividend betaalbaar werd gesteld.  
+Verzoeken om teruggaaf van belasting, als bedoeld in artikel 3, moeten bij de bevoegde inspecteur zijn ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin het dividend betaalbaar werd gesteld. 
 
 ####Formulieren
 
 ### Artikel  7  
 
-De tekst van het in de bijlage opgenomen formulier is niet gepubliceerd in de *Staatscourant*, maar is te vinden op www.belastingdienst.nl. Het in de artikelen 2, eerste lid en artikel 3, tweede lid, bedoelde formulier wordt van rijkswege verstrekt. Het formulier is op aanvraag kosteloos verkrijgbaar in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Unit Apeldoorn/ Document & Logistiek/Logistiek Reprografisch Centrum, Postbus 20049, 7302 HA Apeldoorn. Het e-mailadres daarvan luidt: lrc.apeldoorn@belastingdienst.nl. Dit formulier kan ook worden gedownload via de website www.belastingdienst.nl.  
+De tekst van het in de bijlage opgenomen formulier is niet gepubliceerd in de *Staatscourant*, maar is te vinden op www.belastingdienst.nl. Het in de artikelen 2, eerste lid en artikel 3, tweede lid, bedoelde formulier wordt van rijkswege verstrekt. Het formulier is op aanvraag kosteloos verkrijgbaar in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Unit Apeldoorn/ Document & Logistiek/Logistiek Reprografisch Centrum, Postbus 20049, 7302 HA Apeldoorn. Het e-mailadres daarvan luidt: lrc.apeldoorn@belastingdienst.nl. Dit formulier kan ook worden gedownload via de website www.belastingdienst.nl. 
 
 ####Intrekking
 
 ### Artikel  8  
 
-De [regeling van de Staatssecretaris van Financiën van 27 september 2007](../../../../../../../../../../beleidsregel/uitvoeringsvoorschriften/artikel/11/belastingregeling/voor/het/koninkrijk/etc/BWBR0022595/README.md), nr. CPP 2007/556M, *Stcrt. 2007, 196* wordt ingetrokken, met dien verstande dat de bepalingen van de regeling van toepassing blijven met betrekking tot dividenden die betaald zijn of betaalbaar zijn gesteld vóór 10  oktober 2010.  
+De [regeling van de Staatssecretaris van Financiën van 27 september 2007](../../../../../../../../../../beleidsregel/uitvoeringsvoorschriften/artikel/11/belastingregeling/voor/het/koninkrijk/etc/BWBR0022595/README.md), nr. CPP 2007/556M, *Stcrt. 2007, 196* wordt ingetrokken, met dien verstande dat de bepalingen van de regeling van toepassing blijven met betrekking tot dividenden die betaald zijn of betaalbaar zijn gesteld vóór 10  oktober 2010. 
 
 ####Inwerkingtreding
 
@@ -111,16 +111,16 @@ De [regeling van de Staatssecretaris van Financiën van 27 september 2007](../..
 
 1.  Deze regeling kan worden aangehaald als: Uitvoeringsvoorschriften artikel 11 Belastingregeling voor het Koninkrijk (Curaçao en Sint Maarten).   
 2.  Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de *Staatscourant* waarin zij wordt geplaatst.   
-3.  Deze regeling vindt met inachtneming van het bepaalde in artikel 6 toepassing met betrekking tot dividenden die betaalbaar zijn gesteld op of na 10  oktober 2010. Verzoeken met betrekking tot dividenden die betaald zijn of betaalbaar zijn gesteld op of na 10 oktober 2010 welke vóór de inwerkingtreding van deze regeling zijn ingediend, hoeven niet opnieuw te worden ingediend. Op deze verzoeken zal – voor zover hierop niet reeds vooruitlopend op deze regeling is beslist bij voor bezwaar vatbare beschikking – door de inspecteur bij voor bezwaar vatbare beschikking worden beslist met inachtneming van deze regeling.   
+3.  Deze regeling vindt met inachtneming van het bepaalde in artikel 6 toepassing met betrekking tot dividenden die betaalbaar zijn gesteld op of na 10  oktober 2010. Verzoeken met betrekking tot dividenden die betaald zijn of betaalbaar zijn gesteld op of na 10 oktober 2010 welke vóór de inwerkingtreding van deze regeling zijn ingediend, hoeven niet opnieuw te worden ingediend. Op deze verzoeken zal – voor zover hierop niet reeds vooruitlopend op deze regeling is beslist bij voor bezwaar vatbare beschikking – door de inspecteur bij voor bezwaar vatbare beschikking worden beslist met inachtneming van deze regeling.  
 Deze regeling wordt in de *Staatscourant* gepubliceerd.   
 
 Den Haag 
 28 februari 2011   
 
 De 
-staatssecretaris van Financiën,
-F.H.H.Weekers  
+staatssecretaris van Financiën, 
+F.H.H. Weekers    
 
-### Bijlage  
+###Bijlage 
 
-Gepubliceerd op www.belastingdienst.nl.  
+Gepubliceerd op www.belastingdienst.nl.

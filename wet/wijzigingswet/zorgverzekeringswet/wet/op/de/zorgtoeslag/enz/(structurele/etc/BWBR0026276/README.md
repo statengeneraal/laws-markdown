@@ -11,35 +11,35 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Zorgverzekeringswet.   
+Wijzigt de Zorgverzekeringswet. 
 
 ### Artikel  II  
 
-Wijzigt de Wet op de zorgtoeslag.   
+Wijzigt de Wet op de zorgtoeslag.
 
 ### Artikel  III  
 
-Wijzigt de Algemene wet bestuursrecht.   
+Wijzigt de Algemene wet bestuursrecht.
 
 ### Artikel  IV  
 
-Wijzigt de Beroepswet.   
+Wijzigt de Beroepswet.
 
 ### Artikel  V  
 
-Vervallen  
+Vervallen
 
 ### Artikel  VI  
 
-Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945.   
+Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945.
 
 ### Artikel  VII  
 
-Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945.   
+Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945.
 
 ### Artikel  VIII  
 
-Na inwerkingtreding van artikel I van deze wet berust het [Besluit zorgverzekering](../../../../../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) mede op de [artikelen 19](../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en [21 van de Zorgverzekeringswet](../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).  
+Na inwerkingtreding van artikel I van deze wet berust het [Besluit zorgverzekering](../../../../../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) mede op de [artikelen 19](../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en [21 van de Zorgverzekeringswet](../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). 
 
 ### Artikel  IX  
 
@@ -58,27 +58,22 @@ a. zodra de termijn voor aanvaarding van het aanbod, bedoeld in het eerste lid, 
 
 b. het aanbod is aanvaard en desondanks toch nieuw vervallende termijnen van de premie niet voldaan worden.     
 5.  Een voor de datum van inwerkingtreding van deze wet gedaan aanbod tot het treffen van een betalingsregeling, dat aan de eisen van [artikel 18a van de Zorgverzekeringswet](../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) juncto het tweede lid van dit artikel zou hebben voldaan indien die bepalingen op de datum waarop het aanbod is gedaan reeds in werking zouden zijn getreden, en een voor de datum van inwerkingtreding van deze wet gedane mededeling die aan de eisen van [artikel 18b van de Zorgverzekeringswet](../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) juncto het vierde lid van dit artikel zou hebben voldaan indien deze bepalingen op het moment van verzending van de mededeling in werking zouden zijn getreden en waartegen de verzekeringnemer of, indien dit een ander dan de verzekeringnemer is, de verzekerde, bij de verzekeraar en vervolgens bij een onafhankelijke instantie als bedoeld in [artikel 114 van de Zorgverzekeringswet](../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of de burgerlijke rechter heeft kunnen opkomen als ware [artikel 18b van de Zorgverzekeringswet](../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) reeds in werking getreden, gelden voor de toepassing van [artikel 18c van die wet](../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en het gestelde bij en krachtens [artikel 34a van die wet](../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) als aanbod en mededeling als bedoeld in [artikel 18a](../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) respectievelijk [18b van die wet](../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
-6.  Bij ministeriële regeling wordt bepaald onder welke voorwaarden en in welke mate zorgverzekeraars reeds op de datum van inwerkingtreding van deze wet bestaande premieschulden kunnen kwijtschelden zonder dat dit gevolgen heeft voor hun recht op een bijdrage voor het onverminderd verzekerd houden van de betrokken verzekerden.   
-
-### Artikel  X  
-
-1.  In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), beslist het College zorgverzekeringen op bezwaren tegen beschikkingen als bedoeld in de [artikelen 18f](../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of  [18g van de Zorgverzekeringswet](../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) binnen twaalf weken, indien het bezwaarschrift is ontvangen binnen twee jaar na de datum van inwerkingtreding van deze wet.   
-2.  Dit artikel vervalt met ingang van het derde jaar na de datum van inwerkingtreding van deze wet, met dien verstande dat het van toepassing blijft ten aanzien van op dat tijdstip aanhangige bezwaren.   
+6.  Bij ministeriële regeling wordt bepaald onder welke voorwaarden en in welke mate zorgverzekeraars reeds op de datum van inwerkingtreding van deze wet bestaande premieschulden kunnen kwijtschelden zonder dat dit gevolgen heeft voor hun recht op een bijdrage voor het onverminderd verzekerd houden van de betrokken verzekerden.  
 
 ### Artikel  XI  
 
-Deze wet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 Tavarnelle 
 18 juli 2009  
 Beatrix  
 
-De Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink 
+De Minister van Volksgezondheid, Welzijn en Sport , 
+A. Klink   
 
 de *zesentwintigste* augustus 2009 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

@@ -10,20 +10,20 @@ Besluit:
 
 ### Artikel  1  
 
-Voor het uitkeringsjaar 2007 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1.  
+Voor het uitkeringsjaar 2007 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1. 
 
 ### Artikel  2  
 
-Voor het uitkeringsjaar 2007 worden de bedragen, bedoeld in [artikel 6 van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md), vastgesteld overeenkomstig bijlage 2.  
+Voor het uitkeringsjaar 2007 worden de bedragen, bedoeld in [artikel 6 van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md), vastgesteld overeenkomstig bijlage 2. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 De 
-Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
+Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, voor deze:de 
 directeur Openbaar Bestuur en Democratie, 
-G.J.Buitendijk  
+G.J. Buitendijk    
 
 ### Bijlage  1  
 
@@ -91,7 +91,7 @@ De bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet
 | 45-a  | Herindeling, onderdeel a (basisbedrag)  | 1.585.065,00  |
 | 45-b  | Herindeling, onderdeel b (per inwoner)  | 53,29  |
 
-¹ De gemeente Baarle Nassau ontvangt een vast bedrag gelijk aan 2 maal het vast bedrag voor iedere gemeente. 
+¹ De gemeente Baarle Nassau ontvangt een vast bedrag gelijk aan 2 maal het vast bedrag voor iedere gemeente.
 
 ### Bijlage  2  
 

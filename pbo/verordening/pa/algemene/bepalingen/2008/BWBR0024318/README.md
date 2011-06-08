@@ -17,7 +17,7 @@ In deze verordening wordt verstaan onder:
 |:---|:---|:---|
 | a. productschap  | :  | Productschap Akkerbouw  |
 | b. voorzitter  | :  | voorzitter van het productschap.  |
-| c.ondernemer  | :  | de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld.  |
+|c.ondernemer |: |de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld. |
 
 ### §  2  
 
@@ -31,13 +31,13 @@ a. de door of vanwege het productschap met betrekking tot het voeren van een adm
 
 b. de vragen, welke hem door of vanwege het productschap betreffende de administratie van en de werkzaamheden in zijn onderneming worden gesteld, prompt, volledig en naar waarheid te beantwoorden, zomede op eerste vordering de door of vanwege het productschap verlangde boeken, papieren en/of andere bescheiden tegen ontvangstbewijs in te leveren of in te zenden.  
 
-c. indien hij mondeling of schriftelijk - al dan niet op door of vanwege het productschap of enige andere instantie of instelling verstrekte formulieren of soortgelijke bescheiden - gegevens, inlichtingen, opgaven of andere mededelingen aan het productschap of aan enig(e) door of vanwege het productschap aangewezen instantie, instelling of persoon dient te verstrekken, zulks prompt, volledig en naar waarheid te doen.  
+c.indien hij mondeling of schriftelijk - al dan niet op door of vanwege het productschap of enige andere instantie of instelling verstrekte formulieren of soortgelijke bescheiden - gegevens, inlichtingen, opgaven of andere mededelingen aan het productschap of aan enig(e) door of vanwege het productschap aangewezen instantie, instelling of persoon dient te verstrekken, zulks prompt, volledig en naar waarheid te doen. 
 
 d. de schriftelijke kennisgevingen, hem door of vanwege het productschap toegezonden, blijkens welke hem enig recht of enige bevoegdheid wordt toegekend, ter plaatse waar het bedrijf wordt uitgeoefend te bewaren.  
 
 e. op eerste vordering van functionarissen behorende tot de door het bestuur aangewezen toezichthouder, die in het bezit zijn van een door de voorzitter afgegeven legitimatiebewijs en zich desgevraagd hebben gelegitimeerd, toe te laten dat deze personen inzage nemen van de in de onderneming aanwezige boeken, papieren en/of andere bescheiden, zomede dat zij de in de onderneming aanwezige voorraden, alsmede de bedrijfsmiddelen bezichtigen en opnemen, hen daartoe de vrije gelegenheid te geven en hen daarbij desgevraagd behulpzaam te zijn.     
 2.  De in het eerste lid gestelde regelen binden mede alle andere dan de aldaar bedoelde natuurlijke personen en rechtspersonen, die ondernemingen drijven, waarvoor het productschap is ingesteld, voor zover deze handelingen verrichten, welke bedrijfsmatig plegen te worden verricht in de ondernemingen, waarvoor het productschap is ingesteld.   
-3.  De in het eerste lid onder a. bedoelde administratie wordt gedurende vijf jaar bewaard, voor zover deze administratie betrekking heeft op gegevens die van belang zijn voor het bepalen van enige door het productschap op te leggen heffing.   
+3.  De in het eerste lid onder a. bedoelde administratie wordt gedurende vijf jaar bewaard, voor zover deze administratie betrekking heeft op gegevens die van belang zijn voor het bepalen van enige door het productschap op te leggen heffing.  
 
 ### Artikel  3  
 
@@ -46,7 +46,7 @@ e. op eerste vordering van functionarissen behorende tot de door het bestuur aan
 a. de totale in het betreffende kalenderjaar geproduceerde, be- of verwerkte, verhandelde, geleverde of afgenomen hoeveelheden product;  
 
 b. de herkomst of bestemming van de onder a. bedoelde hoeveelheden naar categorie bedrijven.     
-2.  Indien de in het eerste lid bedoelde accountantsverklaring niet afkomstig is van een registeraccountant, kan de Interne Auditdienst van het Hoofdproductschap Akkerbouw controles uitvoeren. De kosten hiervan kunnen aan de ondernemer in rekening worden gebracht.   
+2.  Indien de in het eerste lid bedoelde accountantsverklaring niet afkomstig is van een registeraccountant, kan de Interne Auditdienst van het Hoofdproductschap Akkerbouw controles uitvoeren. De kosten hiervan kunnen aan de ondernemer in rekening worden gebracht.  
 
 ### Artikel  4  
 
@@ -55,11 +55,11 @@ b. de herkomst of bestemming van de onder a. bedoelde hoeveelheden naar categori
 a. slechts worden gebruikt ter vervulling van de taak van het productschap  
 
 b. niet onder vermelding of aanduiding van de persoon en/of onderneming, waarop zij betrekking hebben, worden bekend gemaakt aan anderen dan de voorzitter, de secretaris of andere personen van het secretariaat van het productschap en de met financiële controle op het productschap belaste accountant en diens personeel alsmede de door het bestuur aangewezen toezichthouder, voorzover het kennis nemen van die gegevens voor die controle dan wel het toezicht noodzakelijk is.     
-2.  Bekendmaking van gegevens, als in het eerste lid bedoeld, blijft ook zonder vermelding of aanduiding van de persoon en/of onderneming, waarop zij betrekking hebben, achterwege in de gevallen waarin uit de aard der gegevens dan wel of zomede uit een of meer andere omstandigheden zou kunnen blijken op welke persoon en/of onderneming de gegevens betrekking hebben.   
+2.  Bekendmaking van gegevens, als in het eerste lid bedoeld, blijft ook zonder vermelding of aanduiding van de persoon en/of onderneming, waarop zij betrekking hebben, achterwege in de gevallen waarin uit de aard der gegevens dan wel of zomede uit een of meer andere omstandigheden zou kunnen blijken op welke persoon en/of onderneming de gegevens betrekking hebben.  
 
 ### Artikel  5  
 
-Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld.  
+Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld. 
 
 ### §  3  
 
@@ -67,11 +67,11 @@ Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtre
 
 ### Artikel  6  
 
-Deze verordening wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie.  
+Deze verordening wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie. 
 
 ### Artikel  7  
 
-Deze verordening wordt aangehaald als: Verordening PA algemene bepalingen 2008.  
+Deze verordening wordt aangehaald als: Verordening PA algemene bepalingen 2008. 
 
 Den Haag 
 5 juni 2008   

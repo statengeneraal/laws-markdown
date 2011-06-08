@@ -10,15 +10,15 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de minister van Verkeer en Waterstaat en de onder hem ressorterende actoren op het beleidsterrein Waterstaat over de periode vanaf 2009 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de minister van Verkeer en Waterstaat en de onder hem ressorterende actoren op het beleidsterrein Waterstaat over de periode vanaf 2009’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-De handelingen in de ‘lijst ingediend door de minister van Verkeer en Waterstaat, voor de neerslag van handelingen op het beleidsterrein waterstaat’ (vastgesteld bij [beschikking van de minister van Onderwijs, Cultuur en Wetenschap en de minister van Verkeer en Waterstaat](../../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/op/het/etc/BWBR0016557/README.md), nr. c/s/04/698 d.d. 29-3-2004 (gepubliceerd in de Staatscourant nr. 155 d.d. 16-8-2004) worden bij publicatie van dit besluit afgesloten in 2009.  
+De handelingen in de ‘lijst ingediend door de minister van Verkeer en Waterstaat, voor de neerslag van handelingen op het beleidsterrein waterstaat’ (vastgesteld bij [beschikking van de minister van Onderwijs, Cultuur en Wetenschap en de minister van Verkeer en Waterstaat](../../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/op/het/etc/BWBR0016557/README.md), nr. c/s/04/698 d.d. 29-3-2004 (gepubliceerd in de Staatscourant nr. 155 d.d. 16-8-2004) worden bij publicatie van dit besluit afgesloten in 2009. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
@@ -27,13 +27,13 @@ Den Haag
 De 
 minister van Onderwijs, Cultuur en Wetenschap, namens deze: de 
 algemene rijksarchivaris, 
-M.J.Berendse 
+M.J. Berendse   
 
 De 
 minister van Verkeer en Waterstaat, namens deze: de 
 project directeur Project Wegwerken Archiefachterstanden (PWAA), 
-A. van derKooij  
+A. van der Kooij    
 
-### Selectielijst  
+###Selectielijst 
 
-Gepubliceerd op www.nationaalarchief.nl/selectielijsten.  
+Gepubliceerd op www.nationaalarchief.nl/selectielijsten.
