@@ -124,10 +124,10 @@ Den Haag
 4 april 2011   
 
 De 
-Staatssecretaris van Financiën,
-F.H.H.Weekers  
+Staatssecretaris van Financiën, 
+F.H.H. Weekers    
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####bij het besluit van 4 april 2011, nr. BLKB2011/511M
 
@@ -135,7 +135,7 @@ F.H.H.Weekers
 
 In deze voorwaarden wordt verstaan onder: 
 
-*de Wet Vpb:* de [Wet op de vennootschapsbelasting 1969](../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md);  
+*de Wet Vpb: * de [Wet op de vennootschapsbelasting 1969](../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md);  
 
 *de om te zetten rechtspersoon:* de in [artikel 28a van de Wet Vpb](../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) bedoelde rechtspersoon vóór de omzetting;  
 
@@ -161,9 +161,9 @@ In deze voorwaarden wordt verstaan onder:
 
 9. Voor de aandeelhouders van de omgezette rechtspersoon, die direct voorafgaand aan de omzetting een aanmerkelijk belang hebben in de om te zetten rechtspersoon als bedoeld in [artikel 4.6 van de Wet IB 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), wordt als verkrijgingsprijs als bedoeld in [artikel 4.21 van de Wet IB 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) van de bij de omzetting verkregen aandelen aangemerkt de verkrijgingsprijs van het aanmerkelijk belang in de om te zetten rechtspersoon.  
 
-10. Voor de aandeelhouders voor wie de verkregen aandelen een deelneming in de zin van [artikel 13 van de Wet Vpb](../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) vormen, geldt als opgeofferd bedrag het bedrag dat als zodanig gold voor hun lidmaatschapsrecht in de om te zetten rechtspersoon.    
+10. Voor de aandeelhouders voor wie de verkregen aandelen een deelneming in de zin van [artikel 13 van de Wet Vpb](../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) vormen, geldt als opgeofferd bedrag het bedrag dat als zodanig gold voor hun lidmaatschapsrecht in de om te zetten rechtspersoon.   
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####bij het besluit van 4 april 2011, nr. BLKB2011/511M
 
@@ -182,9 +182,9 @@ Onderwerp: Vennootschapsbelasting. Toepassing [artikel 28a, derde lid, van de W
 
 – Op grond van [artikel 28a, derde lid, van de Wet op de vennootschapsbelasting 1969](../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) willig ik uw verzoek in onder het stellen van de voorwaarden zoals opgenomen in bijlage I bij het besluit met nummer BLKB2011/511M (als bijlage bij deze beschikking gevoegd).  
 
-– Het omzettingstijdstip stel ik vast op <datum> .   Hoogachtend, Belastingdienst/<Regio>/<kantoor> De Inspecteur, ............. Dit is een voor bezwaar vatbare beschikking. Als u het niet eens bent met deze beschikking kunt u binnen zes weken na dagtekening van deze beschikking een bezwaarschrift indienen bij de Belastingdienst. Het postadres staat op deze beschikking. Een bezwaarschrift is tijdig ingediend indien het binnen de bezwaartermijn is ontvangen. Bij verzending per post is een bezwaarschrift tijdig ingediend als het vóór het einde van de termijn ter post is bezorgd en niet later dan één week na afloop van de termijn is ontvangen. Bijlage: voorwaarden voor toepassing [artikel 28a, derde lid, van de Wet op de vennootschapsbelasting 1969](../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)  
+– Het omzettingstijdstip stel ik vast op <datum> .   Hoogachtend, Belastingdienst/<Regio>/<kantoor> De Inspecteur, ............. Dit is een voor bezwaar vatbare beschikking. Als u het niet eens bent met deze beschikking kunt u binnen zes weken na dagtekening van deze beschikking een bezwaarschrift indienen bij de Belastingdienst. Het postadres staat op deze beschikking. Een bezwaarschrift is tijdig ingediend indien het binnen de bezwaartermijn is ontvangen. Bij verzending per post is een bezwaarschrift tijdig ingediend als het vóór het einde van de termijn ter post is bezorgd en niet later dan één week na afloop van de termijn is ontvangen. Bijlage: voorwaarden voor toepassing [artikel 28a, derde lid, van de Wet op de vennootschapsbelasting 1969](../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) 
 
-### Bijlage  3  
+### Bijlage 3 
 
 ####bij het besluit van 4 april 2011, nr. BLKB2011/511M
 
@@ -223,5 +223,5 @@ A) Is de termijn voor het geven van een beschikking ingevolge [artikel 4:15 van
 
 B) Is een mededeling als bedoeld in [artikel 4:14 van de Awb](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gedaan? Zo ja, welke nadere termijn is daarbij aangegeven?    
 
-15. Reden(en) waarom het verzoek niet op grond van de algemene toestemming op het kantoor kan worden afgedaan en andere bij de beoordeling van het verzoek mogelijk van belang zijnde punten.    
+15. Reden(en) waarom het verzoek niet op grond van de algemene toestemming op het kantoor kan worden afgedaan en andere bij de beoordeling van het verzoek mogelijk van belang zijnde punten.   
 

@@ -10,19 +10,19 @@ Besluit:
 
 ### Artikel  I  
 
-Het subsidieplafond, zoals bedoeld in [artikel 6 van de Uitvoeringsregeling lange speelfilm](../../../../../../../../../../../zbo/uitvoeringsregeling/lange/speelfilm/BWBR0022005/README.md) 15,3 miljoen bedraagt;  
+Het subsidieplafond, zoals bedoeld in [artikel 6 van de Uitvoeringsregeling lange speelfilm](../../../../../../../../../../../zbo/uitvoeringsregeling/lange/speelfilm/BWBR0022005/README.md) 15,3 miljoen bedraagt; 
 
 ### Artikel  II  
 
-Wijzigt de Uitvoeringsregeling lange speelfilm.   
+Wijzigt de Uitvoeringsregeling lange speelfilm. 
 
 ### Artikel  III  
 
-Wijzigt de Suppletieregeling filminvesteringen Nederland.   
+Wijzigt de Suppletieregeling filminvesteringen Nederland. 
 
 ### Artikel  IV  
 
-Dat de [Uitvoeringsregeling lange speelfilm](../../../../../../../../../../../zbo/uitvoeringsregeling/lange/speelfilm/BWBR0022005/README.md) en de [Suppletieregeling filminvesteringen Nederland](../../../../../../../../../../../zbo/suppletieregeling/filminvesteringen/nederland/BWBR0022008/README.md) in werking treden met ingang van de tweede dag na de dagtekening van de Staatscourant waarin dit besluit geplaatst is.  
+Dat de [Uitvoeringsregeling lange speelfilm](../../../../../../../../../../../zbo/uitvoeringsregeling/lange/speelfilm/BWBR0022005/README.md) en de [Suppletieregeling filminvesteringen Nederland](../../../../../../../../../../../zbo/suppletieregeling/filminvesteringen/nederland/BWBR0022008/README.md) in werking treden met ingang van de tweede dag na de dagtekening van de Staatscourant waarin dit besluit geplaatst is. 
 
 Het 
-Bestuur Nederlands Fonds voor de Film   
+Bestuur Nederlands Fonds voor de Film    
