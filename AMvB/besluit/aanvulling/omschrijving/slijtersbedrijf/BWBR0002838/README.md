@@ -13,17 +13,17 @@ De Raad van State gehoord (advies van 24 mei 1972, No. 13);
 Gezien het nader rapport van Onze Minister van Volksgezondheid en Milieuhygiëne van 20 september 1972, Hoofdafd. V.A., No. 104.189, en van de Staatssecretaris van Economische Zaken;
 Hebben goedgevonden en verstaan:    
 
-### Artikel  1  
+###Artikel 1 
 
-Als handelingen, bedoeld in [artikel 1, eerste lid, onder slijtersbedrijf, van de Drank- en Horecawet](../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md) worden aangewezen: het bedrijfsmatig aan particulieren verkopen van drinkglaswerk, schenkmandjes, kurketrekkers, wijnrekjes, afsluitmiddelen voor flessen, koolzuurflessen, koolzuurcapsules, wijnkoelers, shakers, draagtassen, koelboxen en -tassen, onderzetters, papieren servetten, cocktailprikkers, schenkkurken, biertapinstallaties alsmede van voorlichtingsmaterialen over wijn, cocktails, longdrinks en borrelhapjes en van andere dergelijke voorlichtingsmaterialen, een en ander voor zover die verkoop geen overwegend bestanddeel van de bedrijfsuitoefening in de inrichting uitmaakt.  
+Als handelingen, bedoeld in [artikel 1, eerste lid, onder slijtersbedrijf, van de Drank- en Horecawet](../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md) worden aangewezen: het bedrijfsmatig aan particulieren verkopen van drinkglaswerk, schenkmandjes, kurketrekkers, wijnrekjes, afsluitmiddelen voor flessen, koolzuurflessen, koolzuurcapsules, wijnkoelers, shakers, draagtassen, koelboxen en -tassen, onderzetters, papieren servetten, cocktailprikkers, schenkkurken, biertapinstallaties alsmede van voorlichtingsmaterialen over wijn, cocktails, longdrinks en borrelhapjes en van andere dergelijke voorlichtingsmaterialen, een en ander voor zover die verkoop geen overwegend bestanddeel van de bedrijfsuitoefening in de inrichting uitmaakt.
 
 ### Artikel  2  
 
-Als handeling, bedoeld in [artikel 1, eerste lid, onder slijtersbedrijf, van de Drank- en Horecawet](../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), wordt eveneens aangewezen het bedrijfsmatig verhuren van biertapinstallaties, glaswerk en party-meubilair, een en ander voor zover die verhuur geen overwegend bestanddeel van de bedrijfsuitoefening in de inrichting uitmaakt.  
+Als handeling, bedoeld in [artikel 1, eerste lid, onder slijtersbedrijf, van de Drank- en Horecawet](../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), wordt eveneens aangewezen het bedrijfsmatig verhuren van biertapinstallaties, glaswerk en party-meubilair, een en ander voor zover die verhuur geen overwegend bestanddeel van de bedrijfsuitoefening in de inrichting uitmaakt. 
 
 ### Artikel  3  
 
-Dit besluit kan worden aangehaald als: Besluit aanvulling omschrijving slijtersbedrijf.  
+Dit besluit kan worden aangehaald als: Besluit aanvulling omschrijving slijtersbedrijf. 
 
 Onze Ministers van Volksgezondheid en Milieuhygiëne en van Economische Zaken zijn belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.   
 

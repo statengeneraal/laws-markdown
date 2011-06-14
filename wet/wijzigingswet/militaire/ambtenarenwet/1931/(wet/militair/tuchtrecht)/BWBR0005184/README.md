@@ -10,20 +10,24 @@ Alzo Wij in overweging genomen hebben, dat het in verband met de invoering van d
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 09-02-2011 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
+Materieel uitgewerkt per 09-02-2011 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
+Materieel uitgewerkt per 09-02-2011 
 
-De op het tijdstip van inwerkingtreding van deze wet ingevolge artikel 71 van de Wet op de Krijgstucht (1903, *Stb.* 112) aanhangige zaken worden met toepassing van de bij of krachtens de Wet op de krijgstucht gegeven regelen behandeld en afgedaan.  
+De op het tijdstip van inwerkingtreding van deze wet ingevolge artikel 71 van de Wet op de Krijgstucht (1903, *Stb.* 112) aanhangige zaken worden met toepassing van de bij of krachtens de Wet op de krijgstucht gegeven regelen behandeld en afgedaan. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 09-02-2011 
 
-Deze wet treedt in werking één dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1991.  
+Deze wet treedt in werking één dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1991. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

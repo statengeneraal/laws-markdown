@@ -10,16 +10,19 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is dat de Staat overgaa
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 09-02-2011 
 
-Onze Minister van Defensie wordt gemachtigd mede op te richten de Stichting Nederlands Instituut voor Internationale Betrekkingen "Clingendael".  
+Onze Minister van Defensie wordt gemachtigd mede op te richten de Stichting Nederlands Instituut voor Internationale Betrekkingen "Clingendael". 
 
 ### Artikel  2  
+Materieel uitgewerkt per 09-02-2011 
 
-Deze wet treedt in werking met ingang van de eerste dag na datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de eerste dag na datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 09-02-2011 
 
-Deze wet kan worden aangehaald als Wet Stichting Instituut Clingendael.  
+Deze wet kan worden aangehaald als Wet Stichting Instituut Clingendael. 
 
 Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
