@@ -5,7 +5,7 @@
 De Minister van Economische Zaken,  
 Handelende in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschappen en na overleg met de Minister van Landbouw, Natuurbeheer en Voedselveiligheid;
 
-Gelet op [artikel 3 van de Kaderwet EZ-subsidies](../../../../../../../../../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md);
+Gelet op artikel 3 van de Kaderwet EZ-subsidies;
 Besluit:     
 ### §  1  
 
@@ -15,17 +15,17 @@ Besluit:
 
 De volgende regelingen worden ingetrokken: 
 
-a. [Regeling Groeifaciliteit](../../../../../../../../../../../ministeriele-regeling/regeling/groeifaciliteit/BWBR0020560/README.md);  
+a. Regeling Groeifaciliteit;  
 
-b. [Regeling impuls kennisexploitatie creatieve starters](../../../../../../../../../../../ministeriele-regeling/regeling/impuls/kennisexploitatie/creatieve/starters/BWBR0022317/README.md);  
+b. Regeling impuls kennisexploitatie creatieve starters;  
 
-c. [Regeling seed capital technostarters](../../../../../../../../../../../ministeriele-regeling/regeling/seed/capital/technostarters/BWBR0018146/README.md);  
+c. Regeling seed capital technostarters;  
 
-d. [Regeling subsidieprogramma kennisexploitatie](../../../../../../../../../../../ministeriele-regeling/regeling/subsidieprogramma/kennisexploitatie/BWBR0017312/README.md);  
+d. Regeling subsidieprogramma kennisexploitatie;  
 
-e. [Subsidieregeling Beroepsonderwijs in Bedrijf](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/beroepsonderwijs/in/bedrijf/BWBR0021764/README.md);  
+e. Subsidieregeling Beroepsonderwijs in Bedrijf;  
 
-f. [Subsidieregeling ondernemerschap en onderwijs 2007](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/ondernemerschap/en/onderwijs/2007/BWBR0021101/README.md).    
+f. Subsidieregeling ondernemerschap en onderwijs 2007.    
 
 ### §  2  
 
@@ -35,13 +35,13 @@ f. [Subsidieregeling ondernemerschap en onderwijs 2007](../../../../../../../../
 
 De volgende regelingen worden ingetrokken: 
 
-a. [Subsidieregeling Eurostarsprojecten – module van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/eurostarsprojecten-module/van/de/experimentele/etc/BWBR0023215/README.md);  
+a. Subsidieregeling Eurostarsprojecten – module van de Experimentele kaderregeling subsidies innovatieprojecten;  
 
-b. [Subsidieregeling innovatiekredieten – module van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/innovatiekredieten-module/van/de/experimentele/etc/BWBR0024103/README.md);  
+b. Subsidieregeling innovatiekredieten – module van de Experimentele kaderregeling subsidies innovatieprojecten;  
 
-c. [Subsidieregeling innovatieprestatiecontracten](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/innovatieprestatiecontracten/BWBR0020508/README.md);  
+c. Subsidieregeling innovatieprestatiecontracten;  
 
-d. [Subsidieregeling innovatievouchers](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/innovatievouchers/BWBR0019805/README.md).    
+d. Subsidieregeling innovatievouchers.    
 
 ### §  3  
 
@@ -51,9 +51,9 @@ d. [Subsidieregeling innovatievouchers](../../../../../../../../../../../ministe
 
 De volgende regelingen worden ingetrokken: 
 
-a. [Subsidieregeling pieken in de delta 2007](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/pieken/in/de/delta/2007/BWBR0022284/README.md);  
+a. Subsidieregeling pieken in de delta 2007;  
 
-b. [Subsidieregeling pieken in de delta 2007 gebiedsgerichte programma’s](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/pieken/in/de/delta/2007/gebiedsgerichte/programma's/BWBR0022299/README.md).    
+b. Subsidieregeling pieken in de delta 2007 gebiedsgerichte programma’s.    
 
 ### §  4  
 
@@ -63,27 +63,27 @@ b. [Subsidieregeling pieken in de delta 2007 gebiedsgerichte programma’s](../.
 
 De volgende regelingen worden ingetrokken: 
 
-a. [Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/experimentele/kaderregeling/subsidies/innovatieprojecten/BWBR0019494/README.md);  
+a. Experimentele kaderregeling subsidies innovatieprojecten;  
 
-b. [Regeling innovatiesubsidie samenwerkingsprojecten opkomende markten](../../../../../../../../../../../ministeriele-regeling/regeling/innovatiesubsidie/samenwerkingsprojecten/opkomende/markten/BWBR0016034/README.md);  
+b. Regeling innovatiesubsidie samenwerkingsprojecten opkomende markten;  
 
-c. [Subsidieregeling ETB – module van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/etb-module/van/de/experimentele/kaderregeling/subsidies/etc/BWBR0023011/README.md);  
+c. Subsidieregeling ETB – module van de Experimentele kaderregeling subsidies innovatieprojecten;  
 
-d. [Subsidieregeling Food & Nutrition Delta fase 2 – module van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/food/&/nutrition/delta/fase/2-module/van/de/experimentele/etc/BWBR0020296/README.md);  
+d. Subsidieregeling Food & Nutrition Delta fase 2 – module van de Experimentele kaderregeling subsidies innovatieprojecten;  
 
-e. [Subsidieregeling HTAS-innovatieprojecten – module van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/htas-innovatieprojecten/–/module/van/de/experimentele/etc/BWBR0023865/README.md);  
+e. Subsidieregeling HTAS-innovatieprojecten – module van de Experimentele kaderregeling subsidies innovatieprojecten;  
 
-f. [Subsidieregeling innoWATOR- module van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/innowator-module/van/de/experimentele/kaderregeling/etc/BWBR0020316/README.md);  
+f. Subsidieregeling innoWATOR- module van de Experimentele kaderregeling subsidies innovatieprojecten;  
 
-g. [Subsidieregeling internationale innovatieprojecten 2007 en 2008](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/internationale/innovatieprojecten/2007/en/2008/BWBR0022394/README.md);  
+g. Subsidieregeling internationale innovatieprojecten 2007 en 2008;  
 
-h. [Subsidieregeling maritieme haalbaarheids-, en innovatieprojecten module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/maritieme/haalbaarheids-/en/innovatieprojecten/module/etc/BWBR0022224/README.md);  
+h. Subsidieregeling maritieme haalbaarheids-, en innovatieprojecten module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten;  
 
-i. [Subsidieregeling opkomende markten 2007 en 2008](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/opkomende/markten/2007/en/2008/BWBR0022405/README.md);  
+i. Subsidieregeling opkomende markten 2007 en 2008;  
 
-j. [Subsidieregeling Point One Boegbeeld – module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/point/one/boegbeeld-module/2007/van/de/experimentele/etc/BWBR0022190/README.md);  
+j. Subsidieregeling Point One Boegbeeld – module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten;  
 
-k. [Subsidieregeling Polymeren – module van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/polymeren-module/van/de/experimentele/kaderregeling/etc/BWBR0024085/README.md).    
+k. Subsidieregeling Polymeren – module van de Experimentele kaderregeling subsidies innovatieprojecten.    
 
 ### §  5  
 
@@ -95,31 +95,31 @@ De volgende regelingen worden ingetrokken:
 
 a. Regeling subsidies diensten Kenniswijk 2005;  
 
-b. [Subsidieregeling aanpak urgente bedrijfslocaties](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/aanpak/urgente/bedrijfslocaties/BWBR0017767/README.md);  
+b. Subsidieregeling aanpak urgente bedrijfslocaties;  
 
-c. [Subsidieregeling Creative Challenge Call](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/creative/challenge/call/BWBR0019863/README.md);  
+c. Subsidieregeling Creative Challenge Call;  
 
-d. [Subsidieregeling experimentele faciliteiten ICES-KIS-2](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/experimentele/faciliteiten/ices-kis-2/BWBR0012423/README.md);  
+d. Subsidieregeling experimentele faciliteiten ICES-KIS-2;  
 
-e. [Subsidieregeling kennisoverdracht brancheorganisaties MKB](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/kennisoverdracht/brancheorganisaties/mkb/BWBR0012447/README.md);  
+e. Subsidieregeling kennisoverdracht brancheorganisaties MKB;  
 
-f. [Subsidieregeling kennisoverdracht ondernemers MKB](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/kennisoverdracht/ondernemers/mkb/BWBR0012446/README.md);  
+f. Subsidieregeling kennisoverdracht ondernemers MKB;  
 
-g. [Subsidieregeling prijsvraag verbetering architectuur bestaande bedrijventerreinen](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/prijsvraag/verbetering/architectuur/bestaande/etc/BWBR0018741/README.md);  
+g. Subsidieregeling prijsvraag verbetering architectuur bestaande bedrijventerreinen;  
 
-h. [Subsidieregeling scholingsimpuls](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/scholingsimpuls/BWBR0012667/README.md);  
+h. Subsidieregeling scholingsimpuls;  
 
-i. [Subsidieregeling zaaiprojecten life sciences](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/zaaiprojecten/life/sciences/BWBR0011613/README.md);  
+i. Subsidieregeling zaaiprojecten life sciences;  
 
-j. [Subsidieregeling bestrijding winkelcriminaliteit G30](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/bestrijding/winkelcriminaliteit/g30/BWBR0016495/README.md);  
+j. Subsidieregeling bestrijding winkelcriminaliteit G30;  
 
-k. [Subsidieregeling pilot innovatievouchers 2004](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/pilot/innovatievouchers/2004/BWBR0017162/README.md);  
+k. Subsidieregeling pilot innovatievouchers 2004;  
 
-l. [Subsidieregeling pilot innovatievouchers 2005](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/pilot/innovatievouchers/2005/BWBR0018050/README.md);  
+l. Subsidieregeling pilot innovatievouchers 2005;  
 
-m. [Subsidieregeling pilot innovatievouchers 2005 tweede fase](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/pilot/innovatievouchers/2005/tweede/fase/BWBR0018804/README.md);  
+m. Subsidieregeling pilot innovatievouchers 2005 tweede fase;  
 
-n. [Regeling subsidies diensten Kenniswijk 2004](../../../../../../../../../../../ministeriele-regeling/regeling/subsidies/diensten/kenniswijk/2004/BWBR0017203/README.md).    
+n. Regeling subsidies diensten Kenniswijk 2004.    
 
 ### §  6  
 
@@ -129,71 +129,71 @@ n. [Regeling subsidies diensten Kenniswijk 2004](../../../../../../../../../../.
 
 De volgende regelingen worden ingetrokken: 
 
-a. [Besluit van de Staatssecretaris van Economische Zaken van 15 december 2004, nr. WJZ 4071506, houdende intrekking van de Subsidieregeling duurzame bedrijventerreinen](../../../../../../../../../../../ministeriele-regeling/intrekkingsbesluit/subsidieregeling/duurzame/bedrijventerreinen/BWBR0017708/README.md) (Stcrt. 248);  
+a. Besluit van de Staatssecretaris van Economische Zaken van 15 december 2004, nr. WJZ 4071506, houdende intrekking van de Subsidieregeling duurzame bedrijventerreinen (Stcrt. 248);  
 
-b. [Regeling van de Staatssecretaris van Economische Zaken van 6 december 2004, nr. WJZ 4071325, houdende intrekking van de Subsidieregeling technische assistentie in opkomende markten](../../../../../../../../../../../ministeriele-regeling/regeling/intrekking/subsidieregeling/technische/assistentie/in/opkomende/etc/BWBR0017631/README.md) (Stcrt. 240);  
+b. Regeling van de Staatssecretaris van Economische Zaken van 6 december 2004, nr. WJZ 4071325, houdende intrekking van de Subsidieregeling technische assistentie in opkomende markten (Stcrt. 240);  
 
-c. [Regeling van de Staatssecretaris van Economische Zaken van 14 februari 2007, nr. WJZ 7016837, met betrekking tot de uitgifte van innovatievouchers in 2007](../../../../../../../../../../../ministeriele-regeling/regeling/uitgifte/innovatievouchers/2007/BWBR0021282/README.md) (Stcrt. 35);  
+c. Regeling van de Staatssecretaris van Economische Zaken van 14 februari 2007, nr. WJZ 7016837, met betrekking tot de uitgifte van innovatievouchers in 2007 (Stcrt. 35);  
 
-d. [Regeling van de Minister van Economische Zaken van 6 maart 2008, nr. WJZ 8014954, met betrekking tot de uitgifte van innovatievouchers in 2008 en tot wijziging van de Subsidieregeling innovatievouchers](../../../../../../../../../../../ministeriele-regeling/regeling/uitgifte/innovatievouchers/2008/en/wijziging/subsidieregeling/etc/BWBR0023631/README.md) (Stcrt. 181);  
+d. Regeling van de Minister van Economische Zaken van 6 maart 2008, nr. WJZ 8014954, met betrekking tot de uitgifte van innovatievouchers in 2008 en tot wijziging van de Subsidieregeling innovatievouchers (Stcrt. 181);  
 
-e. [Regeling van de Minister van Economische Zaken van 12 juni 2006, nr. WJZ 6042743, tot vaststelling van formulieren krachtens de Subsidieregeling IOP-TTI-module van de experimentele Kaderregeling subsidies innovatieprojecten, alsmede tot wijziging van die regeling](../../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/formulieren/krachtens/subsidieregeling/etc/BWBR0019950/README.md) (Stcrt. 113);  
+e. Regeling van de Minister van Economische Zaken van 12 juni 2006, nr. WJZ 6042743, tot vaststelling van formulieren krachtens de Subsidieregeling IOP-TTI-module van de experimentele Kaderregeling subsidies innovatieprojecten, alsmede tot wijziging van die regeling (Stcrt. 113);  
 
-f. [Regeling vaststelling subsidieplafonds en tenderperiodes EZ 2008](../../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/subsidieplafonds/en/tenderperiodes/ez/2008/BWBR0023037/README.md);  
+f. Regeling vaststelling subsidieplafonds en tenderperiodes EZ 2008;  
 
-g. [Regeling van de Minister van Economische Zaken van 7 februari 2006, nr. WJZ 6010081, tot vaststelling van een tenderperiode en subsidieplafond voor 2006 op grond van de Subsidieregeling prekwalificatie ESA-programma’s](../../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/tenderperiode/en/subsidieplafond/2006/ex./etc/BWBR0019549/README.md) (Stcrt. 32);  
+g. Regeling van de Minister van Economische Zaken van 7 februari 2006, nr. WJZ 6010081, tot vaststelling van een tenderperiode en subsidieplafond voor 2006 op grond van de Subsidieregeling prekwalificatie ESA-programma’s (Stcrt. 32);  
 
-h. [Regeling van de Minister van Economische Zaken van 17 juli 2008, nr. WJZ/8075224, tot verhoging van het subsidieplafond voor het jaar 2008 krachtens de Subsidieregeling innovatieprestatiecontracten en tot wijziging van die regeling](../../../../../../../../../../../ministeriele-regeling/regeling/verhoging/subsidieplafond/2008/krachtens/de/subsidieregeling/etc/BWBR0024306/README.md) (Stcrt. 42);  
+h. Regeling van de Minister van Economische Zaken van 17 juli 2008, nr. WJZ/8075224, tot verhoging van het subsidieplafond voor het jaar 2008 krachtens de Subsidieregeling innovatieprestatiecontracten en tot wijziging van die regeling (Stcrt. 42);  
 
-i. [Regeling van de Minister van Economische Zaken van 19 februari 2004, nr. WJZ 4012449, houdende vaststelling van een tenderperiode en subsidieplafond voor 2004 op grond van de Subsidieregeling prekwalificatie ESA-programma’s](../../../../../../../../../../../ministeriele-regeling/vaststellingsregeling/tenderperiode/en/subsidieplafond/2004/etc/BWBR0016411/README.md) (Stcrt. 32);  
+i. Regeling van de Minister van Economische Zaken van 19 februari 2004, nr. WJZ 4012449, houdende vaststelling van een tenderperiode en subsidieplafond voor 2004 op grond van de Subsidieregeling prekwalificatie ESA-programma’s (Stcrt. 32);  
 
-j. [Regeling van de Minister van Economische Zaken van 16 december 2007, nr. WJZ 7151713, tot wijziging van de Regeling seed capital technostarters en tot vaststelling van subsidieplafonds voor 2008](../../../../../../../../../../../ministeriele-regeling/wijzigingsregeling/regeling/seed/capital/technostarters/en/vaststelling/etc/BWBR0023105/README.md) (Stcrt. 247);  
+j. Regeling van de Minister van Economische Zaken van 16 december 2007, nr. WJZ 7151713, tot wijziging van de Regeling seed capital technostarters en tot vaststelling van subsidieplafonds voor 2008 (Stcrt. 247);  
 
-k. [Regeling van de Staatssecretaris van Economische Zaken van 17 juni 2005, nr. WJZ 5037443, houdende wijziging van de Subsidieregeling aanpak urgente bedrijfslocaties en openstelling van een tweede tender krachtens die regeling](../../../../../../../../../../../ministeriele-regeling/wijzigingsregeling/subsidieregeling/aanpak/urgente/bedrijfslocaties/BWBR0018454/README.md) (Stcrt. 123);  
+k. Regeling van de Staatssecretaris van Economische Zaken van 17 juni 2005, nr. WJZ 5037443, houdende wijziging van de Subsidieregeling aanpak urgente bedrijfslocaties en openstelling van een tweede tender krachtens die regeling (Stcrt. 123);  
 
-l. [Regeling van de Minister van Economische Zaken van 10 februari 2006, nr. WJZ 6009934, houdende wijziging van de Subsidieregeling aanpak urgente bedrijfslocaties en vaststelling van de tenderperiode en het subsidieplafond voor 2006](../../../../../../../../../../../ministeriele-regeling/wijzigingsregeling/subsidieregeling/aanpak/urgente/bedrijfslocaties/2006/BWBR0019564/README.md) (Stcrt. 36);  
+l. Regeling van de Minister van Economische Zaken van 10 februari 2006, nr. WJZ 6009934, houdende wijziging van de Subsidieregeling aanpak urgente bedrijfslocaties en vaststelling van de tenderperiode en het subsidieplafond voor 2006 (Stcrt. 36);  
 
-m. [Regeling van de Minister van Economische Zaken van 14 november 2004, nr. WJZ 4056998, houdende wijziging van de Subsidieregeling breedband Kenniswijk](../../../../../../../../../../../ministeriele-regeling/wijzigingsregeling/subsidieregeling/breedband/kenniswijk/BWBR0017523/README.md) (Stcrt. 227);  
+m. Regeling van de Minister van Economische Zaken van 14 november 2004, nr. WJZ 4056998, houdende wijziging van de Subsidieregeling breedband Kenniswijk (Stcrt. 227);  
 
-n. [Regeling van de Minister van Economische Zaken van 16 april 2008, nr. WJZ 8046240, tot wijziging van de subsidieregeling Food & Nutrition Delta Fase 2 – module van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/wijzigingsregeling/subsidieregeling/food/&/nutrition/delta/fase/2/–/module/etc/BWBR0023814/README.md) (Stcrt. 83);  
+n. Regeling van de Minister van Economische Zaken van 16 april 2008, nr. WJZ 8046240, tot wijziging van de subsidieregeling Food & Nutrition Delta Fase 2 – module van de Experimentele kaderregeling subsidies innovatieprojecten (Stcrt. 83);  
 
-o. [Regeling van de Minister van Economische Zaken van 13 juni 2007, nr. WJZ 7066633, tot wijziging van de Subsidieregeling Food & Nutrition Delta Fase 2-module van de Experimentele kaderregeling subsidies innovatieprojecten en tot vaststelling van de perioden voor de indiening van de aanvragen en van de subsidieplafonds voor 2007 voor subsidies voor FND-haalbaarheidsprojecten en FND-innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/wijzigingsregeling/subsidieregeling/food/&/nutrition/delta/fase/2-module/etc/BWBR0022083/README.md) (Stcrt. 115);  
+o. Regeling van de Minister van Economische Zaken van 13 juni 2007, nr. WJZ 7066633, tot wijziging van de Subsidieregeling Food & Nutrition Delta Fase 2-module van de Experimentele kaderregeling subsidies innovatieprojecten en tot vaststelling van de perioden voor de indiening van de aanvragen en van de subsidieplafonds voor 2007 voor subsidies voor FND-haalbaarheidsprojecten en FND-innovatieprojecten (Stcrt. 115);  
 
-p. [Regeling van de Minister van Economische Zaken van , nr. WJZ 7051928, tot wijziging van de Subsidieregeling innoWATOR-module van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/wijzigingsregeling/subsidieregeling/innowator-module/van/de/experimentele/etc/BWBR0021760/README.md) (Stcrt. 80);  
+p. Regeling van de Minister van Economische Zaken van , nr. WJZ 7051928, tot wijziging van de Subsidieregeling innoWATOR-module van de Experimentele kaderregeling subsidies innovatieprojecten (Stcrt. 80);  
 
-q. [Regeling van de Minister van Economische Zaken van 22 mei 2008, nr. WJZ/8061223, tot wijziging van de Subsidieregeling innoWATOR-module van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/wijzigingsregeling/subsidieregeling/innowator-module/van/de/experimentele/etc/BWBR0023901/README.md) (Stcrt. 100);  
+q. Regeling van de Minister van Economische Zaken van 22 mei 2008, nr. WJZ/8061223, tot wijziging van de Subsidieregeling innoWATOR-module van de Experimentele kaderregeling subsidies innovatieprojecten (Stcrt. 100);  
 
-r. [Regeling van de Minister van Economische Zaken van 5 april 2007, nr. WJZ 7042994, tot wijziging van de Subsidieregeling IOP-TTI-module van de experimentele Kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/wijzigingsregeling/subsidieregeling/iop-tti-module/van/de/experimentele/etc/BWBR0021719/README.md) (Stcrt. 74);  
+r. Regeling van de Minister van Economische Zaken van 5 april 2007, nr. WJZ 7042994, tot wijziging van de Subsidieregeling IOP-TTI-module van de experimentele Kaderregeling subsidies innovatieprojecten (Stcrt. 74);  
 
-s. [Regeling van de Staatssecretaris van Economische Zaken van 25 augustus 2006, nr. WJZ 6057604, tot wijziging van de Subsidieregeling IOP-TTI-module van de experimentele Kaderregeling subsidies innovatieprojecten ten aanzien van de kostendefinitie bij de berekening van de loonkosten en de algemene kosten in een IOP-project](../../../../../../../../../../../ministeriele-regeling/wijzigingsregeling/subsidieregeling/iop-tti-module/van/de/experimentele/etc/BWBR0020225/README.md) (Stcrt. 169);  
+s. Regeling van de Staatssecretaris van Economische Zaken van 25 augustus 2006, nr. WJZ 6057604, tot wijziging van de Subsidieregeling IOP-TTI-module van de experimentele Kaderregeling subsidies innovatieprojecten ten aanzien van de kostendefinitie bij de berekening van de loonkosten en de algemene kosten in een IOP-project (Stcrt. 169);  
 
-t. [Regeling van de Minister van Economische Zaken van 4 juni 2008, nr. WJZ 8062274, tot wijziging van de subsidieregeling maritieme haalbaarheids- en innovatieprojecten module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/wijzigingsregeling/subsidieregeling/maritieme/haalbaarheids-/en/etc/BWBR0023953/README.md) (Stcrt. 109);  
+t. Regeling van de Minister van Economische Zaken van 4 juni 2008, nr. WJZ 8062274, tot wijziging van de subsidieregeling maritieme haalbaarheids- en innovatieprojecten module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten (Stcrt. 109);  
 
-u. [Regeling van de Minister van Economische Zaken van 6 mei 2008, nr. WJZ 8053241, tot wijziging van de Subsidieregeling pieken in de delta 2007 en de Subsidieregeling pieken in de delta 2007 gebiedsgerichte programma’s](../../../../../../../../../../../ministeriele-regeling/wijzigingsregeling/subsidieregeling/pieken/in/de/delta/2007/en/etc/BWBR0023838/README.md) (Stcrt. 207);  
+u. Regeling van de Minister van Economische Zaken van 6 mei 2008, nr. WJZ 8053241, tot wijziging van de Subsidieregeling pieken in de delta 2007 en de Subsidieregeling pieken in de delta 2007 gebiedsgerichte programma’s (Stcrt. 207);  
 
-v. [Regeling van de Minister van Economische Zaken van 27 februari 2008, nr. WJZ 8021506, tot wijziging van de Subsidieregeling Point One Boegbeeld-module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/wijzigingsregeling/subsidieregeling/point/one/boegbeeld-module/2007/van/de/etc/BWBR0023562/README.md) (Stcrt. 43);  
+v. Regeling van de Minister van Economische Zaken van 27 februari 2008, nr. WJZ 8021506, tot wijziging van de Subsidieregeling Point One Boegbeeld-module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten (Stcrt. 43);  
 
-w. [Regeling van de Minister van Economische Zaken van 9 juli 2008, nr. WJZ/8083727, tot wijziging van de Subsidieregeling Point One Boegbeeld-module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten en tot wijziging van een subsidieplafond van die regeling](../../../../../../../../../../../ministeriele-regeling/wijzigingsregeling/subsidieregeling/point/one/boegbeeld-module/2007/van/de/etc/BWBR0024236/README.md) (Stcrt. 138);  
+w. Regeling van de Minister van Economische Zaken van 9 juli 2008, nr. WJZ/8083727, tot wijziging van de Subsidieregeling Point One Boegbeeld-module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten en tot wijziging van een subsidieplafond van die regeling (Stcrt. 138);  
 
-x. [Regeling van de Minister van Economische Zaken van 21 augustus 2008, nr. WJZ/8115655, tot wijziging van de Subsidieregeling Point One Boegbeeld – module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/wijzigingsregeling/subsidieregeling/point/one/boegbeeld-module/2007/van/de/etc/BWBR0024424/README.md) (Stcrt. 169);  
+x. Regeling van de Minister van Economische Zaken van 21 augustus 2008, nr. WJZ/8115655, tot wijziging van de Subsidieregeling Point One Boegbeeld – module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten (Stcrt. 169);  
 
-y. [Regeling van de Minister van Economische Zaken van 31 maart 2005, nr. WJZ 5018199, tot wijziging van de Subsidieregeling prekwalificatie ESA-programma’s en tot vaststelling van de tenderperiode en het subsidieplafond 2005](../../../../../../../../../../../ministeriele-regeling/wijzigingsregeling/subsidieregeling/prekwalificatie/esa-programma's/en/etc/BWBR0018154/README.md) (Stcrt. 67);  
+y. Regeling van de Minister van Economische Zaken van 31 maart 2005, nr. WJZ 5018199, tot wijziging van de Subsidieregeling prekwalificatie ESA-programma’s en tot vaststelling van de tenderperiode en het subsidieplafond 2005 (Stcrt. 67);  
 
-z. [Regeling van de Staatssecretaris van Economische Zaken van 1 juli 2007, nr. WJZ 7078159, tot wijziging van de Subsidieregeling programma starters op buitenlandse markten 2004](../../../../../../../../../../../ministeriele-regeling/wijzigingsregeling/subsidieregeling/programma/starters/op/buitenlandse/etc/BWBR0022215/README.md) (Stcrt. 130);  
+z. Regeling van de Staatssecretaris van Economische Zaken van 1 juli 2007, nr. WJZ 7078159, tot wijziging van de Subsidieregeling programma starters op buitenlandse markten 2004 (Stcrt. 130);  
 
-aa. [Regeling van de Minister van Economische Zaken van 17 februari 2004, nr. WJZ 4012096, houdende wijziging van de Subsidieregeling scholingsimpuls, vaststelling van tenderperiodes en subsidieplafonds en benoeming leden adviescommissie scholingsimpuls](../../../../../../../../../../../ministeriele-regeling/wijzigingsregeling/subsidieregeling/scholingsimpuls/en/benoeming/leden/etc/BWBR0016399/README.md) (Stcrt. 37);  
+aa. Regeling van de Minister van Economische Zaken van 17 februari 2004, nr. WJZ 4012096, houdende wijziging van de Subsidieregeling scholingsimpuls, vaststelling van tenderperiodes en subsidieplafonds en benoeming leden adviescommissie scholingsimpuls (Stcrt. 37);  
 
-bb. [Regeling van de Staatssecretaris van Economische Zaken van 3 december 2004, nr. WJZ 4074730, tot vaststelling van het subsidieplafond 2005 krachtens het Besluit subsidies regionale investeringsprojecten 2000](../../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/subsidieplafond/2005/besluit/subsidies/regionale/etc/BWBR0017617/README.md) (Stcrt. 240);  
+bb. Regeling van de Staatssecretaris van Economische Zaken van 3 december 2004, nr. WJZ 4074730, tot vaststelling van het subsidieplafond 2005 krachtens het Besluit subsidies regionale investeringsprojecten 2000 (Stcrt. 240);  
 
-cc. [Regeling vaststelling subsidieplafonds en tenderperiodes EZ 2007](../../../../../../../../../../../ministeriele-regeling/regeling/vaststelling/subsidieplafonds/en/tenderperiodes/ez/2007/BWBR0020874/README.md);  
+cc. Regeling vaststelling subsidieplafonds en tenderperiodes EZ 2007;  
 
-dd. [Regeling van de Minister van Economische Zaken van 12 december 2008, nr. WJZ/8186338, tot verhoging van een subsidieplafond 2008 (gebiedsgericht programma Zuidoost-Nederland)](../../../../../../../../../../../ministeriele-regeling/regeling/verhoging/subsidieplafond/2008/(gebiedsgericht/programma/etc/BWBR0025015/README.md) (Stcrt. 251);  
+dd. Regeling van de Minister van Economische Zaken van 12 december 2008, nr. WJZ/8186338, tot verhoging van een subsidieplafond 2008 (gebiedsgericht programma Zuidoost-Nederland) (Stcrt. 251);  
 
-ee. [Regeling van de Minister van Economische Zaken van 16 december 2008, nr. WJZ/8196329, tot verhoging van subsidieplafonds 2008 voor de Subsidieregeling Point One Boegbeeld – module van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/regeling/verhoging/subsidieplafonds/2008/subsidieregeling/point/one/etc/BWBR0025061/README.md) (Stcrt. 252);  
+ee. Regeling van de Minister van Economische Zaken van 16 december 2008, nr. WJZ/8196329, tot verhoging van subsidieplafonds 2008 voor de Subsidieregeling Point One Boegbeeld – module van de Experimentele kaderregeling subsidies innovatieprojecten (Stcrt. 252);  
 
-ff. [Subsidieregeling BoegBeeld-module van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/boegbeeld-module/van/de/experimentele/kaderregeling/etc/BWBR0019987/README.md);  
+ff. Subsidieregeling BoegBeeld-module van de Experimentele kaderregeling subsidies innovatieprojecten;  
 
-gg. [Regeling van de Minister van Economische Zaken van 21 september 2000, nr. WJZ/00057737, tot wijziging van de Subsidieregeling innovatiegerichte onderzoekprogramma’s](../../../../../../../../../../../ministeriele-regeling/wijziging/subsidieregeling/innovatiegerichte/onderzoekprogramma's/BWBR0011655/README.md) (Stcrt. 185).    
+gg. Regeling van de Minister van Economische Zaken van 21 september 2000, nr. WJZ/00057737, tot wijziging van de Subsidieregeling innovatiegerichte onderzoekprogramma’s (Stcrt. 185).    
 
 ### §  7  
 
@@ -201,24 +201,37 @@ gg. [Regeling van de Minister van Economische Zaken van 21 september 2000, nr.�
 
 ### Artikel  VII  
 
-1.  Voor zover nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regelingen, bedoeld in de artikelen I tot en met VI, plaats.   
-2.  Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de artikelen I tot en met VI, blijven in stand.   
-3.  Indien innovatievouchers op basis van de [artikelen 2, eerste lid](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/innovatievouchers/BWBR0019805/README.md), of [3, eerste lid van de Subsidieregeling innovatievouchers](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/innovatievouchers/BWBR0019805/README.md) zijn afgegeven voor de inwerkingtreding van deze regeling en deze vouchers nog niet zijn ingediend, blijft de [Subsidieregeling innovatievouchers](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/innovatievouchers/BWBR0019805/README.md) van toepassing voor de indiening van deze innovatievouchers.   
-4.  Voor zover na 1 januari 2009 in subsidieregelingen wordt verwezen naar de [Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/experimentele/kaderregeling/subsidies/innovatieprojecten/BWBR0019494/README.md), worden deze verwijzingen geacht te zijn naar de [Experimentele Kaderregeling](../../../../../../../../../../../ministeriele-regeling/experimentele/kaderregeling/subsidies/innovatieprojecten/BWBR0019494/README.md) zoals die luidde voor 1 januari 2009.   
+1.  Voor zover nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze plaats overeenkomstig de regelingen, bedoeld in de artikelen I tot en met VI, met dien verstande dat: 
+
+a. de in de regelingen opgenomen verplichting tot het overleggen van een accountantsverklaring geldt voor subsidies van € 125.000 of meer per subsidie-ontvanger of, indien de subsidie-ontvanger een samenwerkingsverband is, per deelnemer in een samenwerkingsverband, en  
+
+b. verzoeken om vaststelling van de subsidie kunnen worden ingediend met gebruik van het in de bijlage bij de regeling opgenomen formulier.     
+2.  De onderdelen a en b van het eerste lid gelden niet voor de regelingen bedoeld in: 
+
+– artikel I, onderdelen a tot en met d;  
+
+– artikel II, onderdeel d;  
+
+– artikel V, onderdelen b, k, l en m;  
+
+– artikel VI, onderdelen c, d, j, z en bb.     
+3.  Onverminderd het eerste en tweede lid, blijven bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de artikelen I tot en met VI, in stand.   
+4.  Indien innovatievouchers op basis van de artikelen 2, eerste lid, of 3, eerste lid van de Subsidieregeling innovatievouchers zijn afgegeven voor de inwerkingtreding van deze regeling en deze vouchers nog niet zijn ingediend, blijft de Subsidieregeling innovatievouchers van toepassing voor de indiening van deze innovatievouchers.   
+5.  Voor zover na 1 januari 2009 in subsidieregelingen wordt verwezen naar de Experimentele kaderregeling subsidies innovatieprojecten, worden deze verwijzingen geacht te zijn naar de Experimentele Kaderregeling zoals die luidde voor 1 januari 2009.   
 5.  De benoemingen van de leden van de adviescommissies genoemd in kolom 1 krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, gelden als benoemingen tot lid van de adviescommissies genoemd in kolom 4 krachtens de in kolom 5 genoemde subsidieregelingen en de in kolom 6 genoemde artikelen.  
 
 | Adviescommissie  | Regeling  | Artikel  | Adviescommissie  | Regeling  | Artikel  |
-|:---|:---|:---|:---|:---|:---|
-| De adviescommissies voor de onderzoeksprogramma’s genoemd in [artikel 18 van de Subsidieregeling IOP-TTI-module van de experimentele Kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/iop-tti-module/van/de/experimentele/kaderregeling/etc/BWBR0018997/README.md)  |  [Subsidieregeling IOP-TTI-module van de experimentele Kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/iop-tti-module/van/de/experimentele/kaderregeling/etc/BWBR0018997/README.md)   |  [6, tweede lid](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/iop-tti-module/van/de/experimentele/kaderregeling/etc/BWBR0018997/README.md)   | De adviescommissies voor de onderzoeksprogramma’s genoemd in [artikel 3.7 van de Subsidieregeling sterktes in innovatie](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md)  |  [Subsidieregeling sterktes in innovatie](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md)   |  [3.9](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md)   |
-| Adviescommissie innovatieprogramma Food & Nutrition Delta  |  [Subsidieregeling Food & Nutrition Delta Fase 2-module van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/food/&/nutrition/delta/fase/2-module/van/de/experimentele/etc/BWBR0020296/README.md)   |  [12](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/food/&/nutrition/delta/fase/2-module/van/de/experimentele/etc/BWBR0020296/README.md)   | Adviescommissie Food & Nutrition Delta  |  [Subsidieregeling sterktes in innovatie](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md)   |  [5.13](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md)   |
-| Adviescommissie HTAS-innovatieprojecten  |  [Subsidieregeling HTAS-innovatieprojecten – module van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/htas-innovatieprojecten/–/module/van/de/experimentele/etc/BWBR0023865/README.md)   |  [2](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/htas-innovatieprojecten/–/module/van/de/experimentele/etc/BWBR0023865/README.md)   | Adviescommissie HTAS-innovatieproejcten  |  [Subsidieregeling sterktes in innovatie](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md)   |  [6.6](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md)   |
-| Adviescommissie innoWATOR  |  [Subsidieregeling innoWATOR-module van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/innowator-module/van/de/experimentele/kaderregeling/etc/BWBR0020316/README.md)   |  [6](../../../../../../../../../../../ministeriele-regeling/regeling/groeifaciliteit/BWBR0020560/README.md)   | Adviescommissie innoWATOR  |  [Subsidieregeling sterktes in innovatie](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md)   |  [7.6](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md)   |
-| Adviescommissie Maritiem Innovatie Programma  |  [Subsidieregeling maritieme haalbaarheids-, en innovatieprojecten module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/maritieme/haalbaarheids-/en/innovatieprojecten/module/etc/BWBR0022224/README.md)   |  [11](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/point/one/boegbeeld-module/2007/van/de/experimentele/etc/BWBR0022190/README.md)   | Adviescommissie Maritiem Innovatie Programma  |  [Subsidieregeling sterktes in innovatie](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md)   |  [8.12](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md)   |
-| Adviescommissie Boegbeeldprogramma  |  [Subsidieregeling Point One Boegbeeld-module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/point/one/boegbeeld-module/2007/van/de/experimentele/etc/BWBR0022190/README.md)   |  [11](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/point/one/boegbeeld-module/2007/van/de/experimentele/etc/BWBR0022190/README.md)   | Adviescommissie Point One Programma  |  [Subsidieregeling sterktes in innovatie](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md)   |  [9.11](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md)   |
-| Adviescommissie groeifaciliteit  |  [Regeling Groeifaciliteit](../../../../../../../../../../../ministeriele-regeling/regeling/groeifaciliteit/BWBR0020560/README.md)   |  [6](../../../../../../../../../../../ministeriele-regeling/regeling/groeifaciliteit/BWBR0020560/README.md)   | Adviescommissie Groeifaciliteit  |  [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)   |  [3.6](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)   |
-| Adviescommissie seed capital technostarters  |  [Regeling seed capital technostarters](../../../../../../../../../../../ministeriele-regeling/regeling/seed/capital/technostarters/BWBR0018146/README.md)   |  [4](../../../../../../../../../../../ministeriele-regeling/regeling/seed/capital/technostarters/BWBR0018146/README.md)   | Adviescommissie seed capital technostarters  |  [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)   |  [4.8](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)   |
-| Adviescommissie kennisexploitatie  |  [Regeling subsidieprogramma kennisexploitatie](../../../../../../../../../../../ministeriele-regeling/regeling/subsidieprogramma/kennisexploitatie/BWBR0017312/README.md)   |  [5](../../../../../../../../../../../ministeriele-regeling/regeling/subsidieprogramma/kennisexploitatie/BWBR0017312/README.md)   | Adviescommissie kennisexploitatie  |  [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)   |  [5.6](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)   |
-| Adviescommissie ondernemerschap en onderwijs  |  [Subsidieregeling ondernemerschap en onderwijs 2007](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/ondernemerschap/en/onderwijs/2007/BWBR0021101/README.md)   |  [2](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/htas-innovatieprojecten/–/module/van/de/experimentele/etc/BWBR0023865/README.md)   | Adviescommissie ondernemerschap en onderwijs  |  [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)   |  [6.7](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)   |
+|---|---|---|---|---|---|
+| De adviescommissies voor de onderzoeksprogramma’s genoemd in artikel 18 van de Subsidieregeling IOP-TTI-module van de experimentele Kaderregeling subsidies innovatieprojecten  |  Subsidieregeling IOP-TTI-module van de experimentele Kaderregeling subsidies innovatieprojecten   |  6, tweede lid   | De adviescommissies voor de onderzoeksprogramma’s genoemd in artikel 3.7 van de Subsidieregeling sterktes in innovatie  |  Subsidieregeling sterktes in innovatie   |  3.9   |
+| Adviescommissie innovatieprogramma Food & Nutrition Delta  |  Subsidieregeling Food & Nutrition Delta Fase 2-module van de Experimentele kaderregeling subsidies innovatieprojecten   |  12   | Adviescommissie Food & Nutrition Delta  |  Subsidieregeling sterktes in innovatie   |  5.13   |
+| Adviescommissie HTAS-innovatieprojecten  |  Subsidieregeling HTAS-innovatieprojecten – module van de Experimentele kaderregeling subsidies innovatieprojecten   |  2   | Adviescommissie HTAS-innovatieproejcten  |  Subsidieregeling sterktes in innovatie   |  6.6   |
+| Adviescommissie innoWATOR  |  Subsidieregeling innoWATOR-module van de Experimentele kaderregeling subsidies innovatieprojecten   |  6   | Adviescommissie innoWATOR  |  Subsidieregeling sterktes in innovatie   |  7.6   |
+| Adviescommissie Maritiem Innovatie Programma  |  Subsidieregeling maritieme haalbaarheids-, en innovatieprojecten module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten   |  11   | Adviescommissie Maritiem Innovatie Programma  |  Subsidieregeling sterktes in innovatie   |  8.12   |
+| Adviescommissie Boegbeeldprogramma  |  Subsidieregeling Point One Boegbeeld-module 2007 van de Experimentele kaderregeling subsidies innovatieprojecten   |  11   | Adviescommissie Point One Programma  |  Subsidieregeling sterktes in innovatie   |  9.11   |
+| Adviescommissie groeifaciliteit  |  Regeling Groeifaciliteit   |  6   | Adviescommissie Groeifaciliteit  |  Subsidieregeling starten, groeien en overdragen van ondernemingen   |  3.6   |
+| Adviescommissie seed capital technostarters  |  Regeling seed capital technostarters   |  4   | Adviescommissie seed capital technostarters  |  Subsidieregeling starten, groeien en overdragen van ondernemingen   |  4.8   |
+| Adviescommissie kennisexploitatie  |  Regeling subsidieprogramma kennisexploitatie   |  5   | Adviescommissie kennisexploitatie  |  Subsidieregeling starten, groeien en overdragen van ondernemingen   |  5.6   |
+| Adviescommissie ondernemerschap en onderwijs  |  Subsidieregeling ondernemerschap en onderwijs 2007   |  2   | Adviescommissie ondernemerschap en onderwijs  |  Subsidieregeling starten, groeien en overdragen van ondernemingen   |  6.7   |
 
 ### Artikel  VIII  
 
@@ -230,4 +243,10 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven   
+M.J.A. van derHoeven  
+
+### Bijlage  1  Aanvraag Vaststelling subsidie  
+
+![]()
+![]()
+
