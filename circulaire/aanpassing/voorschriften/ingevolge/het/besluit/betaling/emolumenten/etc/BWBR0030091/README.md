@@ -30,6 +30,6 @@ Het verschuldigde bedrag voor het privé-gebruik van een dienstauto, zoals genoe
 De ministeriële regeling, waarin de hiervoor genoemde bedragen worden opgenomen zal in de Staatscourant worden gepubliceerd. Ik verzoek u met bovengenoemde wijzigingen rekening te houden.     
 
 De 
-minister van Binnenlandse Zaken en Koninkrijksrelaties,namens deze:
-Directeur-generaal Organisatie en Bedrijfsvoering Rijk,
-J.J.M.Uijlenbroek   
+minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze: 
+Directeur-generaal Organisatie en Bedrijfsvoering Rijk, 
+J.J.M. Uijlenbroek     
