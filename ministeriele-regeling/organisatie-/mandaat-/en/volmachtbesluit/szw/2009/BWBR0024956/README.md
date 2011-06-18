@@ -59,7 +59,9 @@ b. de hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder 
 
 2°. de Auditdienst;  
 
-3°. de directie Bestuursondersteuning;    
+3°. de directie Bestuursondersteuning;  
+
+4°. het Agentschap SZW;    
 
 c. de hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder de directeur-generaal Participatie en Inkomenswaarborg: 
 
@@ -93,27 +95,25 @@ d. de hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder 
 
 e. de hierna genoemde organisatieonderdelen, die rechtstreeks ressorteren onder de inspecteur-generaal Sociale Zaken en Werkgelegenheid: 
 
-1°. het Agentschap SZW;  
+1°. de Sociale Inlichtingen- en Opsporingsdienst;  
 
-2°. de Sociale Inlichtingen- en Opsporingsdienst;  
-
-3°. de Arbeidsinspectie, bestaande uit: 
+2°. de Arbeidsinspectie, bestaande uit: 
 
 – de directie AI Arbeidsomstandigheden;  
 
 – de directie AI Major Hazard Control;  
 
-– de directie AI Arbeidsmarktfraude;  
+– de directie AI Arbeidsmarktfraude;’  
 
-– een Concernstaf AI;  
+– een concernstaf AI;  
 
 – de afdeling Personeelsontwikkeling AI;  
 
 – de afdeling Informatievoorziening AI;    
 
-4°. de Inspectie Werk en Inkomen;  
+3°. de Inspectie Werk en Inkomen;  
 
-5°. een stafbureau.      
+4°. een stafbureau.      
 
 ### Artikel  3  
 
@@ -203,7 +203,11 @@ f. het behandelen van bezwaar- en beroepschriften en zaken van de Nationale ombu
 
 g. de inhoudelijke advisering en ondersteuning van de functionarissen, genoemd in artikel 3, eerste lid, en de inhoudelijke, logistieke, secretariële en protocollaire ondersteuning van de secretaris-generaal en de bewindspersonen;  
 
-h. de uitvoering van de taken van de Auditdienst.     
+h. de uitvoering van de taken van de Auditdienst;  
+
+i. de uitvoering van de taken van het Agentschap SZW;  
+
+j. de uitvoering van de door de minister vastgestelde subsidieregelingen op het terrein van het Europees Sociaal Fonds, van overige door de minister vastgestelde regelingen op het terrein van werk en inkomen en van regelingen in opdracht van een partij buiten het ministerie voor zover de minister het Agentschap SZW met de uitvoering van die regelingen heeft belast.     
 5.  De plaatsvervangend secretaris-generaal is verantwoordelijk voor: 
 
 a. het bij schriftelijk besluit toedelen van taken aan de onder hem ressorterende organisatieonderdelen en aan de functionarissen die leiding geven aan de organisatieonderdelen;  
@@ -372,11 +376,11 @@ g. de coördinatie van de advisering rond budgettaire en ordeningsvraagstukken i
 
 h. de wijze waarop werkenden beschermd, behandeld en toegerust worden (arbeidsrecht, gelijke behandeling en diversiteit);  
 
-i. de (inter)departementale beleidsvorming inzake de openbare lichamen Bonaire, Sint Eustatius en Saba, mede voor zover dit geschiedt op het werkterrein van de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeur-generaal Participatie en Inkomenswaarborg en de inspecteur-generaal Sociale Zaken en Werkgelegenheid. De directies die ressorteren onder voornoemde functionarissen blijven de hen toebedeelde taken en verantwoordelijkheden uitvoeren, met de bijbehorende bevoegdheden, maar leggen voor wat betreft de (inter)departementale beleidsvorming inzake de openbare lichamen Bonaire, Sint Eustatius en Saba verantwoording af aan de directeur-generaal Werk;  
+i. de (inter)departementale beleidsvorming en het daarmee samenhangende financieel beheer inzake de openbare lichamen Bonaire, Sint Eustatius en Saba, mede voor zover dit geschiedt op het werkterrein van de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeur-generaal Participatie en Inkomenswaarborg en de inspecteur-generaal Sociale Zaken en Werkgelegenheid. De directies die ressorteren onder voornoemde functionarissen blijven de hen toebedeelde taken en verantwoordelijkheden uitvoeren, met de bijbehorende bevoegdheden, maar leggen voor wat betreft de (inter)departementale beleidsvorming en het daarmee samenhangende financieel beheer inzake de openbare lichamen Bonaire, Sint Eustatius en Saba verantwoording af aan de directeur-generaal Werk;  
 
-j. het zorgdragen voor de uitvoeringstaken van de minister op Bonaire, Sint Eustatius en Saba.  
+j. het zorgdragen voor de uitvoeringstaken van de minister op Bonaire, Sint Eustatius en Saba;  
 
-i. het kinderopvangbeleid.    
+k. het kinderopvangbeleid.    
 
 ### Artikel  12  
 
@@ -386,17 +390,14 @@ i. het kinderopvangbeleid.
 
 a. het houden van toezicht op de naleving van wet- en regelgeving door werkgevers en werknemers waarvoor de minister verantwoordelijkheid draagt, alsmede in verband daarmee het opsporen van strafbare feiten, het hanteren van juridische instrumenten als eis tot naleving, stillegging van het werk, bestuursdwang en bestuurlijke boete, alsmede het aan de minister opgedragen toezicht op de toezichtswerkzaamheden van door de minister op grond van wet- en regelgeving op het terrein van arbeidsveiligheid, arbeidsgezondheid en productveiligheid aangewezen certificatie- en keuringsinstellingen die zijn belast met het verstrekken van certificaten, dan wel het verrichten van keuringen in het belang van veiligheid en gezondheid in de arbeid;  
 
-b. de uitvoering van de door de minister vastgestelde subsidieregelingen op het terrein van het Europees Sociaal fonds, van overige door de minister vastgestelde regelingen op het terrein van werk en inkomen en van regelingen in opdracht van een partij buiten het ministerie voor zover de minister het Agentschap SZW de uitvoering van die regelingen heeft belast;  
+b. het opsporen van strafbare feiten op de beleidsterreinen waarvoor de minister verantwoordelijkheid draagt, het in het kader van deze opsporing constateren van andere strafbare feiten welke daarmee verband houden, het in verband met de opsporing van strafbare feiten verzamelen van criminele inlichtingen en het verwerken van persoonsgegevens binnen de daarvoor geldende wettelijke bepalingen;  
 
-c. het opsporen van strafbare feiten op de beleidsterreinen waarvoor de minister verantwoordelijkheid draagt, het in het kader van deze opsporing constateren van andere strafbare feiten welke daarmee verband houden, het in verband met de opsporing van strafbare feiten verzamelen van criminele inlichtingen en het verwerken van persoonsgegevens binnen de daarvoor geldende wettelijke bepalingen;  
-
-d. de uitvoering van de taken, bedoeld in [hoofdstuk 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).     
+c. de uitvoering van de taken, bedoeld in [hoofdstuk 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).     
 2.  De inspecteur-generaal Sociale Zaken en Werkgelegenheid bekleedt tevens de functie van algemeen directeur van de Arbeidsinspectie en de functie van inspecteur-generaal, genoemd in [artikel 36 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).   
 3.  Uit hoofde van zijn functie als algemeen directeur van de Arbeidsinspectie geeft de inspecteur-generaal Sociale Zaken en Werkgelegenheid op verzoek van een der kamers van de Staten Generaal of een commissie uit een van die kamers een toelichting op het jaarverslag voor zover dat betrekking heeft op inspectietaken of een andere rapportage van de Arbeidsinspectie nadat het desbetreffende stuk aan de kamers ter kennisname is gebracht. De inspecteur-generaal Sociale Zaken en Werkgelegenheid beperkt zich daarbij tot het geven van inlichtingen van feitelijke aard. De inspecteur-generaal Sociale Zaken en Werkgelegenheid stelt de minister terstond in kennis van een verzoek als hier bedoeld.   
 4.  Uit hoofde van zijn functie als algemeen directeur van de Arbeidsinspectie is de inspecteur-generaal Sociale Zaken en Werkgelegenheid verantwoordelijk voor het opstellen van jaarverslagen en inspectierapportages voor de Arbeidsinspectie binnen de door de secretaris-generaal vastgestelde uitgangspunten.   
 5.  Uit hoofde van zijn functie als algemeen directeur van de Arbeidsinspectie is de inspecteur-generaal Sociale Zaken en Werkgelegenheid verantwoordelijk voor de verspreiding van de jaarverslagen en inspectierapportages, alsmede de voorlichting ten aanzien van de daarin opgenomen bevindingen, nadat de secretaris-generaal en de bewindslieden van het jaarverslag en de inspectierapportage kennis hebben kunnen nemen.   
 6.  Uit hoofde van zijn functie als algemeen directeur van de Arbeidsinspectie vervult de inspecteur-generaal Sociale Zaken en Werkgelegenheid de rol van verbindingsbureau detacheringsarbeid, bedoeld in artikel 4, eerste lid, van Richtlijn 96/71/EG.   
-7.  De inspecteur-generaal Sociale Zaken en Werkgelegenheid is eindverantwoordelijk voor het integraal beheer van het Agentschap SZW. Hij bewaakt de continuïteit en kwaliteit van de organisatie en stuurt op de doelmatige en rechtmatige besteding van de middelen door het Agentschap SZW en op de kwaliteit van de bedrijfsvoering.   
 
 ### Artikel  13  
 

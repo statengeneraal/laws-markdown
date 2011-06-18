@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 december 2008 nr. IZ/2008/35314, houdende de inrichting van de directie Internationale Zaken, alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Internationale Zaken (Organisatie-, mandaat- en volmachtbesluit Directie Internationale Zaken 2009)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 3, eerste lid, onderdeel k](../../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directeur-generaal/werk/2009/BWBR0024965/README.md), en [11 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Werk 2009](../../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directeur-generaal/werk/2009/BWBR0024965/README.md);
+Gelet op de artikelen 3, eerste lid, onderdeel k, en 11 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Werk 2009;
 Besluit:     
 ### §  1  
 
@@ -65,9 +65,7 @@ f. het coördineren van de politiek beleidsmatige aspecten van internationale so
 
 g. het toerusten van het ministerie met name met het oog op de activiteiten in de internationale organisaties;  
 
-h. het voeren van de regie met betrekking tot internationale bilaterale projecten die ondergebracht zijn bij het Agentschap SZW, inclusief de aansturing en het periodieke afstemmingsoverleg met het Agentschap SZW;  
-
-i. het aansturen en organiseren van de bestuurlijke vernieuwing van de relatie met de Antillen BES.    
+h. het voeren van de regie met betrekking tot internationale bilaterale projecten die ondergebracht zijn bij het Agentschap SZW, inclusief de aansturing en het periodieke afstemmingsoverleg met het Agentschap SZW.    
 
 ### Artikel  5  
 

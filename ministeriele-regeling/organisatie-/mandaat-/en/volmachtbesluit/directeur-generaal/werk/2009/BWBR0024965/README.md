@@ -153,7 +153,9 @@ f. het coördineren van de internationale expertise-uitwisseling inclusief de re
 
 g. het onderhouden van een internationaal netwerk ten behoeve van voornoemde taken;  
 
-h. het toerusten van het ministerie met het oog op internationale activiteiten.    
+h. het toerusten van het ministerie met het oog op internationale activiteiten;  
+
+i. het zorgdragen voor de afwikkeling van financieel beheersmatige aangelegenheden die verband houden met de voormalige verantwoordelijkheid van de directie Internationale Zaken om de bestuurlijke vernieuwing van de relatie met de Antillen en Bonaire, Sint Eustatius en Saba aan te sturen en te organiseren.    
 
 ### Artikel  8  
 
@@ -177,7 +179,7 @@ De directie Relatiebeheer, Uitvoeringsontwikkeling en Aansturing is verantwoorde
 
 a. de coördinatie van de (inter)departementale beleidsvorming inzake de openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
-b. het zorgdragen voor de uitvoeringstaken van de minister op Bonaire, Sint Eustatius en Saba;  
+b. het zorgdragen voor de uitvoeringstaken van de minister op Bonaire, Sint Eustatius en Saba, waaronder mede begrepen het nemen van besluiten en het behandelen van bezwaar- en beroepszaken die betrekking hebben op deze besluiten;  
 
 c. het namens de minister optreden als opdrachtgever voor de RCN.    
 

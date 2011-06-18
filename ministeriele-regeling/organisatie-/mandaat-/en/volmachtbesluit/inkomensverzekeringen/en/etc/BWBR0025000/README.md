@@ -41,7 +41,7 @@ b. het beleid met betrekking tot rechten en plichten van de [Wajong](../../../..
 
 c. het beleid met betrekking tot rechten en plichten van de [Wet Werk en bijstand](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en de [Wet investeren in jongeren](../../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) gericht op jongeren en ouders van kinderen;  
 
-d. het beleid ten aanzien van de [Algemene nabestaandenwet](../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md).    
+d. het beleid ten aanzien van de nabestaandenwetgeving.    
 
 ### Artikel  4  
 
