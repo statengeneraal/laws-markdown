@@ -6,7 +6,7 @@ De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen en de Minister van B
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
 
 De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 10 september 1997, nr. arc-97.1473/2);
-Besluiten:    
+Besluiten:     
 
 ### Artikel  1  
 
@@ -18,22 +18,22 @@ In te trekken artikel 20 van de ’Lijst houdende opgaaf van voor vernietiging i
 
 ### Artikel  3  
 
-Dit Besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het is gepubliceerd.  
+Dit Besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het is gepubliceerd. 
 
-De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, 
+De
+StaatssecretarisvanOnderwijs, Cultuur en Wetenschappen, 
 
-namens deze, 
+namens deze,  
 
 de 
-Algemene Rijksarchivaris
-M.W. vanBoven 
+Algemene Rijksarchivaris 
+M.W. van  Boven  
 
 De 
-Minister van Buitenlandse Zaken, 
+Ministervan Buitenlandse Zaken, 
 
 namens deze, 
 
-De 
-Plaatsvervangend Secretaris-Generaal
-T.J.T. van denHout    
+De
+Plaatsvervangend Secretaris-Generaal 
+T.J.T. van denHout     

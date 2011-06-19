@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Landinrichting periode 1945–1993 (Minister van Landbouw, Natuur en Voedselkwaliteit)
+## Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Landinrichting periode 1945–1993 (Minister van Landbouw, Natuur en Voedselkwaliteit)
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap en de Minister van Landbouw, Natuur en Voedselkwaliteit,  
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
@@ -10,30 +10,30 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuur en Voedselkwaliteit en de onder hem ressorterende actoren op het beleidsterrein Landinrichting over de periode 1945–1993 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuur en Voedselkwaliteit en de onder hem ressorterende actoren op het beleidsterrein Landinrichting over de periode 1945–1993’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
 1.  De ‘lijst van voor vernietiging in aanmerking komende archiefbescheiden van de onder het Ministerie van Landbouw en Visserij ressorterende Centrale cultuurtechnische commissie en de plaatselijke commissies voor de ruilverkavelingen, de cultuurtechnische dienst en de daaronder ressorterende provinciale kantoren en van de andere onder deze organen ressorterende commissies en ambtenaren’, (vastgesteld bij beschikking van de Staatssecretaris van Cultuur, Recreatie en Maatschappelijk werk [Dir. MMA/AR 192.339 d.d. 17 januari 1978] en de Minister van Landbouw en Visserij [PAZ 23 d.d. 17 januari 1978] , laatstelijk gewijzigd bij beschikking van de Minister van Staatssecretaris van Onderwijs, Cultuur en Wetenschap en de Minister van Landbouw, Natuur en Voedselkwaliteit, (gepubliceerd in de Staatscourant [nr. 2001/201 d.d. 30 juli 2001]) Het onderdeel ‘Taak’ van deze lijst wordt ingetrokken.   
-2.  Het onderdeel ‘Taak’ van de selectielijst van te vernietigen archiefbescheiden van de onder het ministerie ressorterende Directie Beheer Landbouwgronden en van de onder dat ministerie ressorterende commissies en ambtenaren (vastgesteld bij beschikking van de Staatssecretaris van Cultuur, Recreatie en Maatschappelijk Werk [Dir. MMA/Ar 194.557 d.d. 7 september 1978] en de Minister van Landbouw en Visserij [PAZ 273 d.d. 7 september 1978]. Dit onderdeel ‘Taak’ is reeds ingetrokken bij beschikking van de Staatssecretaris van OCenW en de Minister van LNV [nr. 1998/51 d.d. 4 maart 1998].   
+2.  Het onderdeel ‘Taak’ van de selectielijst van te vernietigen archiefbescheiden van de onder het ministerie ressorterende Directie Beheer Landbouwgronden en van de onder dat ministerie ressorterende commissies en ambtenaren (vastgesteld bij beschikking van de Staatssecretaris van Cultuur, Recreatie en Maatschappelijk Werk [Dir. MMA/Ar 194.557 d.d. 7 september 1978] en de Minister van Landbouw en Visserij [PAZ 273 d.d. 7 september 1978]. Dit onderdeel ‘Taak’ is reeds ingetrokken bij beschikking van de Staatssecretaris van OCenW en de Minister van LNV [nr. 1998/51 d.d. 4 maart 1998].  
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 7 juli 2005   
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze: de 
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze:de 
 Algemene Rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
-Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze: de 
-DirecteurInformatiemanagement en Facilitaire Aangelegenheden, 
-D.J.Langendoen  
+Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze:de 
+Directeur Informatiemanagement en Facilitaire Aangelegenheden, 
+D.J. Langendoen    
 
 ####Basisselectiedocument landinrichting 1945–1993
 
@@ -43,11 +43,11 @@ Dit document is geldig voor de zorgdragers: Minister van Landbouw, Natuur en Voe
 *Het bijbehorende contextrapport werd samengesteld door drs. R.J.B. Hageman.*  
 ### *Vastgesteld BSD* 
 
-November 2005 
+November 2005  
 
 ####Lijst van gebruikte afkortingen
 
-AMvB: Algemene Maatregel van Bestuur BB: Bestuursbesluit O&S-fonds BBL: Bureau Beheer Landbouwgronden BZK: Binnenlandse Zaken en Koninkrijkrelaties (BZK) CAS: Centrale Archief Selectiedienst CCC: Centrale Cultuurtechnische Commissie CD: Cultuurtechnische Dienst CLC: Centrale Landinrichtingscommissie CRM: Cultuur, Recreatie en Maatschappelijk Werk DBL: Directie Beheer Landbouwgronden Dir.: Directeur DUR: Directie Uitvoering Regelingen DUW: Rijksdienst voor de uitvoering van werken EZ: Economische Zaken Fin.: Financiën HCOG: Herinrichtingscommissie Oost-Groningen en de Gronings-Drentse Veenkoloniën HCW: Herverkavelingscommissie Walcheren HCZ: Herverkavelingscommissie Zeeland HID: Hoofdingenieur-directeur HWOG: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën (1977) IC: Inspraakcommissie Insp.: Inspecteur iw: in werking getreden Kb: Koninklijk besluit LC: Landinrichtingscommissie LD: Landinrichtingsdienst LaGroBo: Landinrichting, Grond- en Bosbeheer (regionale directie) LGK: Landelijke Gebieden en Kwaliteitszorg (idem) LNO: Landbouw, Natuurontwikkeling en Openluchtrecreatie (idem) Landinrichtingswet: Landinrichtingswet (1985) O&S-fonds: Stichting Ontwikkelings- en Saneringsfonds voor de Landbouw PAC: Provinciale Adviescommissie PC: Plaatselijke Commissie PIVOT: Project invoering verkorting overbrengingstermijn RAD: Rijksarchiefdienst RCC: Rijks Cultuurconsulent Reg.: Regeling RCMD: Reconstructiecommissie Midden-Delfland SBB: Staatsbosbeheer SBL: Stichting (tot het) Beheer(en van) Landbouwgronden Stb.: Staatsblad Stcrt.: Staatscourant STULM: Stichting uitvoering landbouwmaatregelen VC: Voorbereidingscommissie V&W: Verkeer en Waterstaat VRO(M): Volkshuisvesting, Ruimtelijke Ordening (en Milieu)  
+AMvB: Algemene Maatregel van Bestuur BB: Bestuursbesluit O&S-fonds BBL: Bureau Beheer Landbouwgronden BZK: Binnenlandse Zaken en Koninkrijkrelaties (BZK) CAS: Centrale Archief Selectiedienst CCC: Centrale Cultuurtechnische Commissie CD: Cultuurtechnische Dienst CLC: Centrale Landinrichtingscommissie CRM: Cultuur, Recreatie en Maatschappelijk Werk DBL: Directie Beheer Landbouwgronden Dir.: Directeur DUR: Directie Uitvoering Regelingen DUW: Rijksdienst voor de uitvoering van werken EZ: Economische Zaken Fin.: Financiën HCOG: Herinrichtingscommissie Oost-Groningen en de Gronings-Drentse Veenkoloniën HCW: Herverkavelingscommissie Walcheren HCZ: Herverkavelingscommissie Zeeland HID: Hoofdingenieur-directeur HWOG: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën (1977) IC: Inspraakcommissie Insp.: Inspecteur iw: in werking getreden Kb: Koninklijk besluit LC: Landinrichtingscommissie LD: Landinrichtingsdienst LaGroBo: Landinrichting, Grond- en Bosbeheer (regionale directie) LGK: Landelijke Gebieden en Kwaliteitszorg (idem) LNO: Landbouw, Natuurontwikkeling en Openluchtrecreatie (idem) Landinrichtingswet: Landinrichtingswet (1985) O&S-fonds: Stichting Ontwikkelings- en Saneringsfonds voor de Landbouw PAC: Provinciale Adviescommissie PC: Plaatselijke Commissie PIVOT: Project invoering verkorting overbrengingstermijn RAD: Rijksarchiefdienst RCC: Rijks Cultuurconsulent Reg.: Regeling RCMD: Reconstructiecommissie Midden-Delfland SBB: Staatsbosbeheer SBL: Stichting (tot het) Beheer(en van) Landbouwgronden Stb.: Staatsblad Stcrt.: Staatscourant STULM: Stichting uitvoering landbouwmaatregelen VC: Voorbereidingscommissie V&W: Verkeer en Waterstaat VRO(M): Volkshuisvesting, Ruimtelijke Ordening (en Milieu) 
 
 ####Inleiding
 
@@ -61,7 +61,7 @@ De voorliggende selectielijst geldt voor alle actoren onder de archiefzorg van d
 
 – De lijst geldt voor alle vormen van neerslag die resulteren uit de beschreven handelingen: papieren documenten, elektronische bestanden, audiovisuele producten enz.  
 
-– De lijst noemt niet alleen de handelingen waarvan de neerslag vernietigd kan worden, maar ook de handelingen waarvan de neerslag bewaard moet blijven.   Hieronder volgen toelichtingen op respectievelijk de selectielijst, het project Pivot/LNV en het achterliggende nieuwe selectiebeleid van de rijksoverheid.  
+– De lijst noemt niet alleen de handelingen waarvan de neerslag vernietigd kan worden, maar ook de handelingen waarvan de neerslag bewaard moet blijven.   Hieronder volgen toelichtingen op respectievelijk de selectielijst, het project Pivot/LNV en het achterliggende nieuwe selectiebeleid van de rijksoverheid. 
 
 ####Toelichting op de voorliggende selectielijst
 
@@ -75,23 +75,23 @@ De selectielijst treedt in werking na het doorlopen van de wettelijke procedure.
 
 3. Actoren buiten de archiefzorg van LNV te weten Dienst voor het Kadaster en Openbare Registers, Minister van Binnenlandse Zaken en Koninkrijkrelaties, Minister van Financiën, Belastingdienst, Minister van Verkeer en Waterstaat, Minister van Volkshuisvesting Ruimtelijke Ordening en Milieubeheer.  
 
-4. Voor de volgende actoren buiten de archiefzorg van het Ministerie van Landbouw wordt de selectielijst vooralsnog niet ingediend: Minister van Economische Zaken en Rechter-commissaris (Minister van Justitie).    
+4. Voor de volgende actoren buiten de archiefzorg van het Ministerie van Landbouw wordt de selectielijst vooralsnog niet ingediend: Minister van Economische Zaken en Rechter-commissaris (Minister van Justitie).   
 
 #### *Intrekking van bestaande vernietigingslijsten* 
 
-Lijst van voor vernietiging in aanmerking komende archiefbescheiden van de onder het Ministerie van Landbouw en Visserij ressorterende Centrale cultuurtechnische commissie en de plaatselijke commissies voor de ruilverkavelingen, de cultuurtechnische dienst en de daaronder ressorterende provinciale kantoren en van de andere onder deze organen ressorterende commissies en ambtenaren, behorende bij de beschikking van de Staatssecretaris van Cultuur, Recreatie en Maatschappelijk werk en de Minister van Landbouw en Visserij van 17 januari 1978, Dir. MMA/Ar 192.339 en PAZ 23 (laatstelijk gewijzigd bij beschikking van de Staatssecretaris van OCenW en de Minister van LNV d.d. 30 juli 2001, (gepubliceerd in Stcrt. 2001/201). Het onderdeel ‘Taak’ van deze lijst komt te vervallen. Lijst van te vernietigen archiefbescheiden van de onder het ministerie ressorterende Directie Beheer Landbouwgronden en van de onder dat ministerie ressorterende commissies en ambtenaren (vastgesteld bij beschikking van de Staatssecretaris van Cultuur, Recreatie en Maatschappelijk Werk en de Minister van Landbouw en Visserij, van 7 september 1978 No. Dir. MMA/Ar 194.557 respectievelijk No. PAZ 273). Het onderdeel ‘Taak’ is reeds ingetrokken bij beschikking van de Staatssecretaris van OCenW en de Minister van LNV d.d. 4 maart 1998 (gepubliceerd in Stcrt. 1998/51).  
+Lijst van voor vernietiging in aanmerking komende archiefbescheiden van de onder het Ministerie van Landbouw en Visserij ressorterende Centrale cultuurtechnische commissie en de plaatselijke commissies voor de ruilverkavelingen, de cultuurtechnische dienst en de daaronder ressorterende provinciale kantoren en van de andere onder deze organen ressorterende commissies en ambtenaren, behorende bij de beschikking van de Staatssecretaris van Cultuur, Recreatie en Maatschappelijk werk en de Minister van Landbouw en Visserij van 17 januari 1978, Dir. MMA/Ar 192.339 en PAZ 23 (laatstelijk gewijzigd bij beschikking van de Staatssecretaris van OCenW en de Minister van LNV d.d. 30 juli 2001, (gepubliceerd in Stcrt. 2001/201). Het onderdeel ‘Taak’ van deze lijst komt te vervallen. Lijst van te vernietigen archiefbescheiden van de onder het ministerie ressorterende Directie Beheer Landbouwgronden en van de onder dat ministerie ressorterende commissies en ambtenaren (vastgesteld bij beschikking van de Staatssecretaris van Cultuur, Recreatie en Maatschappelijk Werk en de Minister van Landbouw en Visserij, van 7 september 1978 No. Dir. MMA/Ar 194.557 respectievelijk No. PAZ 273). Het onderdeel ‘Taak’ is reeds ingetrokken bij beschikking van de Staatssecretaris van OCenW en de Minister van LNV d.d. 4 maart 1998 (gepubliceerd in Stcrt. 1998/51). 
 
 #### *Indeling van deze selectielijst* 
 
-De handelingen van de voornaamste actor op dit beleidsterrein, de Minister van LNV (inclusief taakvoorgangers) zijn samengebracht in deel 1 van deze lijst. Daar zijn ze nader onderverdeeld volgens dezelfde indeling als in het rapport institutioneel onderzoek. Deel 2 beschrijft de handelingen van andere actoren die onder de archiefzorg van LNV vallen. In deel 3 staan de handelingen van de actoren die buiten de archiefzorg van het Ministerie van Landbouw vallen, en waarvan de handelingen zijn vastgesteld. In de bijlage zijn de handelingen opgenomen van actoren buiten de archiefzorg van LNV. Deze handelingen zijn nog niet vastgesteld en kunnen dus nog niet dienen als grondslag voor vernietiging dan wel overbrenging naar de Rijksarchiefdienst. De reden om ze toch op te nemen in deze lijst is dat ze wel beschreven zijn in het gelijknamige rapport van institutioneel onderzoek.  
+De handelingen van de voornaamste actor op dit beleidsterrein, de Minister van LNV (inclusief taakvoorgangers) zijn samengebracht in deel 1 van deze lijst. Daar zijn ze nader onderverdeeld volgens dezelfde indeling als in het rapport institutioneel onderzoek. Deel 2 beschrijft de handelingen van andere actoren die onder de archiefzorg van LNV vallen. In deel 3 staan de handelingen van de actoren die buiten de archiefzorg van het Ministerie van Landbouw vallen, en waarvan de handelingen zijn vastgesteld. In de bijlage zijn de handelingen opgenomen van actoren buiten de archiefzorg van LNV. Deze handelingen zijn nog niet vastgesteld en kunnen dus nog niet dienen als grondslag voor vernietiging dan wel overbrenging naar de Rijksarchiefdienst. De reden om ze toch op te nemen in deze lijst is dat ze wel beschreven zijn in het gelijknamige rapport van institutioneel onderzoek. 
 
 #### *Informatie over de actoren en de context van de beschreven handelingen* 
 
-De actoren waarvan in deze lijst handelingen zijn opgenomen, worden nader beschreven in het bijbehorende onderzoeksrapport. Daarin is tevens een beschrijving opgenomen van de context van het beleidsterrein.  
+De actoren waarvan in deze lijst handelingen zijn opgenomen, worden nader beschreven in het bijbehorende onderzoeksrapport. Daarin is tevens een beschrijving opgenomen van de context van het beleidsterrein. 
 
 #### *Nummering handelingen* 
 
-In deze selectielijst is veelal zowel een RIO- als ook een BSD-nummer bij de handelingen vermeld. Hiermee wijkt deze selectielijst af van andere selectielijsten waarin uitsluitend één nummer wordt vermeld bij elke handeling. Deze dubbele nummering is innertijd door de opsteller van het RIO (en BSD) ingevoerd. Later bleek deze keuze lastig te corrigeren omdat op grond van het BSD bewerkingen zijn uitgevoerd en institutionele toegangen gemaakt. Vandaar dat de dubbele nummering is gehandhaafd.  
+In deze selectielijst is veelal zowel een RIO- als ook een BSD-nummer bij de handelingen vermeld. Hiermee wijkt deze selectielijst af van andere selectielijsten waarin uitsluitend één nummer wordt vermeld bij elke handeling. Deze dubbele nummering is innertijd door de opsteller van het RIO (en BSD) ingevoerd. Later bleek deze keuze lastig te corrigeren omdat op grond van het BSD bewerkingen zijn uitgevoerd en institutionele toegangen gemaakt. Vandaar dat de dubbele nummering is gehandhaafd. 
 
 ####Pivot bij LNV
 
@@ -99,7 +99,7 @@ De voorliggende selectielijst en het bijbehorende onderzoeksrapport zijn product
 
 #### *Het project* 
 
-Vooruitlopend op de nieuwe Archiefwet stelde de Rijksarchiefdienst in 1991 *Pivot* in: Project Invoering Verkorting Overbrengingstermijn. Het project is gericht op de selectie van overheidsarchieven vanaf 1945, en gaat uit van institutioneel onderzoek op alle beleidsterreinen waarbij het rijk betrokken is. Pivot is een interdepartementaal project op basis van convenanten tussen de Rijksarchiefdienst en alle ministeries en Hoge Colleges van Staat. Het convenant voor LNV werd op 9 december 1992 gesloten tussen de secretaris-generaal van LNV en de algemene rijksarchivaris. Hoofdpunten van de gehanteerde methodiek van institutioneel onderzoek: 
+Vooruitlopend op de nieuwe Archiefwet stelde de Rijksarchiefdienst in 1991 *Pivot*in: Project Invoering Verkorting Overbrengingstermijn. Het project is gericht op de selectie van overheidsarchieven vanaf 1945, en gaat uit van institutioneel onderzoek op alle beleidsterreinen waarbij het rijk betrokken is. Pivot is een interdepartementaal project op basis van convenanten tussen de Rijksarchiefdienst en alle ministeries en Hoge Colleges van Staat. Het convenant voor LNV werd op 9 december 1992 gesloten tussen de secretaris-generaal van LNV en de algemene rijksarchivaris. Hoofdpunten van de gehanteerde methodiek van institutioneel onderzoek: 
 
 – Een onderzoek richt zich niet op een organisatie, maar op de volle breedte van een beleidsterrein.  
 
@@ -109,7 +109,7 @@ Vooruitlopend op de nieuwe Archiefwet stelde de Rijksarchiefdienst in 1991 *Pivo
 
 – Daden die gebaseerd zijn op een zelfstandige bevoegdheid van een actor worden aangeduid als ‘handelingen’.  
 
-– De periode van onderzoek strekt zich in principe uit van 1945 tot heden, hoewel ook relevante ontwikkelingen of wetgeving van voor 1945 beschreven worden.    
+– De periode van onderzoek strekt zich in principe uit van 1945 tot heden, hoewel ook relevante ontwikkelingen of wetgeving van voor 1945 beschreven worden.   
 
 #### *De beleidsterreinen* 
 
@@ -122,13 +122,13 @@ De *LNV-beleidsterreinen* zijn in het Pivot-project als volgt gedefinieerd:
 |  *Visserij:*   | Binnenvisserij,  Zee- en kustvisserij  |
 |  *Overige LNV-beleidsterreinen:*   | Agrarisch onderwijs  Algemeen LNV-beleid  Openluchtrecreatie  |
 
-Voor deze beleidsterreinen is LNV primair verantwoordelijk, en daarom is afgesproken dat LNV de desbetreffende selectielijsten opstelt (en dan ook voor de actoren buiten de eigen archiefzorg). De meeste van deze selectielijsten zijn inmiddels afgerond (al dan niet formeel vastgesteld). Staftaken zijn onderdeel van *rijksbrede beleidsterreinen*. Hiervoor worden selectielijsten opgesteld door het ministerie dat het desbetreffende rijksbeleid coördineert.  
+Voor deze beleidsterreinen is LNV primair verantwoordelijk, en daarom is afgesproken dat LNV de desbetreffende selectielijsten opstelt (en dan ook voor de actoren buiten de eigen archiefzorg). De meeste van deze selectielijsten zijn inmiddels afgerond (al dan niet formeel vastgesteld). Staftaken zijn onderdeel van *rijksbrede beleidsterreinen*. Hiervoor worden selectielijsten opgesteld door het ministerie dat het desbetreffende rijksbeleid coördineert.   
 
 | --- | --- |
 |:---|:---|
 |  *Rijksbrede beleidsterreinen:*   | Financiën  Huisvesting  Informatievoorziening  Overheidspersoneel  Organisatie  Voorlichting  |
 
-Relevant zijn ook nog bepaalde selectielijsten voor *beleidsterreinen buiten de primaire verantwoordelijkheid van LNV*. Het gaat om terreinen waarop een of meer LNV-actoren een inbreng leveren. Voor de neerslag van die inbreng geldt de desbetreffende selectielijst. Voorbeelden:  
+Relevant zijn ook nog bepaalde selectielijsten voor *beleidsterreinen buiten de primaire verantwoordelijkheid van LNV*. Het gaat om terreinen waarop een of meer LNV-actoren een inbreng leveren. Voor de neerslag van die inbreng geldt de desbetreffende selectielijst. Voorbeelden:   
 
 | --- | --- |
 |:---|:---|
@@ -136,7 +136,7 @@ Relevant zijn ook nog bepaalde selectielijsten voor *beleidsterreinen buiten de 
 
 #### *Inbreng van LNV-directies en diensten bij de totstandkoming van de lijsten* 
 
-Het team van Pivot/LNV onderzoekt alle LNV-beleidsterreinen in nauwe samenwerking met de betrokken directies en diensten. De inbreng van de organisatieonderdelen bestaat uit het geven van interviews, het toetsen van concepten en het deelnemen aan overleg met de Rijksarchiefdienst. Deze inbreng wordt geleverd door deskundigen inzake het beleidsterrein en inzake de archiefvorming.  
+Het team van Pivot/LNV onderzoekt alle LNV-beleidsterreinen in nauwe samenwerking met de betrokken directies en diensten. De inbreng van de organisatieonderdelen bestaat uit het geven van interviews, het toetsen van concepten en het deelnemen aan overleg met de Rijksarchiefdienst. Deze inbreng wordt geleverd door deskundigen inzake het beleidsterrein en inzake de archiefvorming. 
 
 #### *Producten van Pivot* 
 
@@ -148,7 +148,7 @@ Dit rapport bevat alle handelingen van de overheidsactoren binnen het beschreven
 Een basisselectiedocument (BSD) bevat dezelfde handelingen van dezelfde actoren als het bijbehorende rapport, maar dan gegroepeerd per actor. ‘BSD’ is overigens een informele term, in tegenstelling tot het officiële begrip ‘selectielijst’ uit het Archiefbesluit. 
 ###3. Selectielijst
 
-Een selectielijst is het formeel vastgestelde gedeelte van een BSD. De lijst geeft aan iedere handeling een ‘waardering’: een keuze voor al dan niet bewaren van de neerslag, met bij de V-handelingen een vernietigingstermijn. Selectielijsten van LNV noemen bij iedere handeling tevens de directies die daarbij betrokken zijn. De reikwijdte van een selectielijst hangt samen met de zorgdragers die hem indienen. Wanneer alle zorgdragers die voorkomen in een BSD tegelijk de selectielijst zouden indienen, dan vallen BSD en selectielijst dus samen.  
+Een selectielijst is het formeel vastgestelde gedeelte van een BSD. De lijst geeft aan iedere handeling een ‘waardering’: een keuze voor al dan niet bewaren van de neerslag, met bij de V-handelingen een vernietigingstermijn. Selectielijsten van LNV noemen bij iedere handeling tevens de directies die daarbij betrokken zijn. De reikwijdte van een selectielijst hangt samen met de zorgdragers die hem indienen. Wanneer alle zorgdragers die voorkomen in een BSD tegelijk de selectielijst zouden indienen, dan vallen BSD en selectielijst dus samen. 
 
 #### *Toepassing van de selectielijsten* 
 
@@ -157,7 +157,7 @@ Een selectielijst is het formeel vastgestelde gedeelte van een BSD. De lijst gee
 Met de vastgestelde selectielijst vindt de selectie en bewerking van de archiefbestanden plaats. De bestanden met cultuurhistorische waarde worden overgebracht naar de Rijksarchiefdienst en de rest is vernietigbaar. Het Ministerie van LNV heeft met de Centrale Archief Selectiedienst (CAS) een raamconvenant afgesloten, op basis waarvan LNV archieven aan kan bieden ter selectie en bewerking. Bij de bewerking en overbrenging voert de Facilitaire Dienst de coördinatie namens LNV, maar de desbetreffende directies en diensten zijn opdrachtgever voor de bewerkingen, vanwege hun archiefverantwoordelijkheid. 
 ###2. Voorkoming van het ontstaan van nieuwe achterstanden in overbrenging
 
-De verantwoordelijkheid hiervoor ligt bij de directies en diensten. Een essentieel element bij het voorkomen van nieuwe achterstanden is de invoering van de selectielijsten in het informatiebeheer, zowel voor de papieren documenten als voor elektronische bestanden en audiovisuele materialen. De inbreng van de FD bestaat uit de ontwikkeling van een methodiek voor invoering en de advisering over toepassing daarvan.  
+De verantwoordelijkheid hiervoor ligt bij de directies en diensten. Een essentieel element bij het voorkomen van nieuwe achterstanden is de invoering van de selectielijsten in het informatiebeheer, zowel voor de papieren documenten als voor elektronische bestanden en audiovisuele materialen. De inbreng van de FD bestaat uit de ontwikkeling van een methodiek voor invoering en de advisering over toepassing daarvan. 
 
 #### *Toepassing van de onderzoeksrapporten* 
 
@@ -166,7 +166,7 @@ De verantwoordelijkheid hiervoor ligt bij de directies en diensten. Een essentie
 De selectiebeslissingen worden gebaseerd op de contextbeschrijving in het bijbehorende rapport. Die beschrijving kan verder dienen als input voor een archiefstructuur die aansluit op de beleidsprocessen. 
 ###2. Informatiebron voor beleidsmedewerkers
 
-Voor beleidsmedewerkers kunnen de rapporten dienen als naslagwerk. Per beleidsterrein geven ze een compact overzicht van de geldende wet- en regelgeving, de organisatie, de maatschappelijke context en de actoren binnen en buiten LNV, en dat over een periode van ongeveer vijftig jaar. Uniek is de specifieke combinatie van een brede invalshoek, een grote hoeveelheid feitelijke gegevens en een objectieve analyse vanuit het perspectief van de overheid. De nauwe samenwerking met materiedeskundigen van binnen en buiten het ministerie verzekert de betrouwbaarheid van de rapporten.  
+Voor beleidsmedewerkers kunnen de rapporten dienen als naslagwerk. Per beleidsterrein geven ze een compact overzicht van de geldende wet- en regelgeving, de organisatie, de maatschappelijke context en de actoren binnen en buiten LNV, en dat over een periode van ongeveer vijftig jaar. Uniek is de specifieke combinatie van een brede invalshoek, een grote hoeveelheid feitelijke gegevens en een objectieve analyse vanuit het perspectief van de overheid. De nauwe samenwerking met materiedeskundigen van binnen en buiten het ministerie verzekert de betrouwbaarheid van de rapporten. 
 
 ####Toelichting op het nieuwe archiefselectiebeleid van de rijksoverheid
 
@@ -188,15 +188,15 @@ Het selectiebeleid van de rijksoverheid en dus ook van LNV is enkele jaren geled
 
 #### *Handelingen en hun cultuurhistorische waarde* 
 
-Tot voor kort bestonden er voor de archiefselectie alleen negatieve criteria, want vernietigingslijsten gaven per overheidsinstelling slechts aan welke bestanden *niet* in aanmerking kwamen voor overbrenging naar een Rijksarchief. Deze criteria werden toegepast op documentniveau. Afgezien van de bewerkelijkheid van deze microselectie bestonden de voornaamste nadelen van deze werkwijze uit de onoverzichtelijkheid van datgene dat wel overgebracht zou moeten worden, het gebrek aan inzicht in de grondslagen van het handelen waaruit die bestanden resulteren, en het gebrek aan inzicht in de samenhang tussen de taken van actoren die op eenzelfde beleidsterrein actief zijn. Om deze bezwaren te ondervangen werd de methode institutioneel onderzoek ontwikkeld, waarmee de beleidsontwikkelingen en het handelen van alle relevante actoren over de hele bandbreedte van een beleidsterrein beschreven worden. Op deze basis kan een effectievere (macro)selectie plaatsvinden aan de hand van positieve criteria. Een selectielijst beschrijft het handelen van overheidsactoren op een bepaald beleidsterrein. De handelingen worden vervolgens beoordeeld op de mate waarin ze cultuurhistorische waarden weerspiegelen. Zodoende kan de Rijksarchiefdienst de gegevensbestanden overnemen die een reconstructie mogelijk maken van het overheidshandelen op hoofdlijnen in relatie tot haar omgeving. De cultuurhistorische waarde van een handeling wordt bepaald aan de hand van zes algemene criteria, die in het volgende schema genoemd worden. Een handeling die voldoet aan een van de criteria wordt aangemerkt met B (bewaren). De neerslag van die handeling wordt dan volgens de archiefwettelijke normen van goede, geordende en toegankelijke staat overgebracht naar de Rijksarchiefdienst. Daar blijven de archieven onder klimatologisch verantwoorde condities voor onbepaalde tijd bewaard als onderdeel van het nationale culturele erfgoed, openbaar voor raadpleging en historisch onderzoek. De handelingen die niet voldoen aan een van de selectiecriteria worden aangemerkt met V, wat staat voor vernietigen. De neerslag van ieder van deze handelingen krijgt een vernietigingstermijn. De archiefvormende organisatie bepaalt daarvan zelf de duur, die afhankelijk van de belangen van verantwoording en bedrijfsvoering doorgaans uiteenloopt van 1 tot 20 jaar. Wanneer een handeling geselecteerd wordt voor overbrenging naar de Rijksarchiefdienst, dan wordt in principe de complete neerslag van die handeling bewaard. Een reconstructie van het overheidshandelen zou immers niet lukken wanneer alleen de eindproducten bewaard werden. Zo is van bv. regelingen en beleidsnota’s juist de totstandkomingsfase interessant, vanwege de aanvankelijke bedoelingen, de discussies en de afgekeurde versies.  
+Tot voor kort bestonden er voor de archiefselectie alleen negatieve criteria, want vernietigingslijsten gaven per overheidsinstelling slechts aan welke bestanden *niet* in aanmerking kwamen voor overbrenging naar een Rijksarchief. Deze criteria werden toegepast op documentniveau. Afgezien van de bewerkelijkheid van deze microselectie bestonden de voornaamste nadelen van deze werkwijze uit de onoverzichtelijkheid van datgene dat wel overgebracht zou moeten worden, het gebrek aan inzicht in de grondslagen van het handelen waaruit die bestanden resulteren, en het gebrek aan inzicht in de samenhang tussen de taken van actoren die op eenzelfde beleidsterrein actief zijn. Om deze bezwaren te ondervangen werd de methode institutioneel onderzoek ontwikkeld, waarmee de beleidsontwikkelingen en het handelen van alle relevante actoren over de hele bandbreedte van een beleidsterrein beschreven worden. Op deze basis kan een effectievere (macro)selectie plaatsvinden aan de hand van positieve criteria. Een selectielijst beschrijft het handelen van overheidsactoren op een bepaald beleidsterrein. De handelingen worden vervolgens beoordeeld op de mate waarin ze cultuurhistorische waarden weerspiegelen. Zodoende kan de Rijksarchiefdienst de gegevensbestanden overnemen die een reconstructie mogelijk maken van het overheidshandelen op hoofdlijnen in relatie tot haar omgeving. De cultuurhistorische waarde van een handeling wordt bepaald aan de hand van zes algemene criteria, die in het volgende schema genoemd worden. Een handeling die voldoet aan een van de criteria wordt aangemerkt met B (bewaren). De neerslag van die handeling wordt dan volgens de archiefwettelijke normen van goede, geordende en toegankelijke staat overgebracht naar de Rijksarchiefdienst. Daar blijven de archieven onder klimatologisch verantwoorde condities voor onbepaalde tijd bewaard als onderdeel van het nationale culturele erfgoed, openbaar voor raadpleging en historisch onderzoek. De handelingen die niet voldoen aan een van de selectiecriteria worden aangemerkt met V, wat staat voor vernietigen. De neerslag van ieder van deze handelingen krijgt een vernietigingstermijn. De archiefvormende organisatie bepaalt daarvan zelf de duur, die afhankelijk van de belangen van verantwoording en bedrijfsvoering doorgaans uiteenloopt van 1 tot 20 jaar. Wanneer een handeling geselecteerd wordt voor overbrenging naar de Rijksarchiefdienst, dan wordt in principe de complete neerslag van die handeling bewaard. Een reconstructie van het overheidshandelen zou immers niet lukken wanneer alleen de eindproducten bewaard werden. Zo is van bv. regelingen en beleidsnota’s juist de totstandkomingsfase interessant, vanwege de aanvankelijke bedoelingen, de discussies en de afgekeurde versies. 
 
 #### *Algemene selectiecriteria* 
 
-De cultuurhistorische waarde van handelingen wordt getoetst aan de onderstaande algemene selectiecriteria. Wanneer een handeling aan een van de onderstaande criteria voldoet, dan komt de neerslag ervan in aanmerking voor overbrenging naar de Rijksarchiefdienst (B). 1. Handelingen die betrekking hebben op de voorbereiding en bepaling van het beleid op hoofdlijnen *Toelichting*: Agendavorming, analyse van informatie, beleidsadvisering, beleidsvoorbereiding of -planning, besluitvorming over de inhoud van beleid, terugkoppeling van beleid. Zowel de keuze als de specificatie van de doeleinden en instrumenten. 2. Handelingen die betrekking hebben op de evaluatie van het beleid op hoofdlijnen *Toelichting*: Beschrijving en beoordeling van de inhoud, het proces of de effecten van beleid, toetsing van en toezicht op beleid. Niet perse leidend tot consequenties zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op de verantwoording aan andere actoren van de hoofdlijnen van het beleid *Toelichting*: Ook verslaglegging ten aanzien van de beleidsmatige hoofdlijnen. 4. Handelingen die betrekking hebben op de (her)inrichting van organisaties belast met het beleid op hoofdlijnen *Toelichting*: Instelling, wijziging, opheffing en werkwijze van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt *Toelichting*: Onder beleidsuitvoering wordt de toepassing verstaan van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen, voor zover die in direct verband staan met voor Nederland bijzondere tijdsomstandigheden en incidenten. *Toelichting*: Zoals wanneer de ministeriële verantwoordelijkheid is opgeheven en/of in noodsituaties.  
+De cultuurhistorische waarde van handelingen wordt getoetst aan de onderstaande algemene selectiecriteria. Wanneer een handeling aan een van de onderstaande criteria voldoet, dan komt de neerslag ervan in aanmerking voor overbrenging naar de Rijksarchiefdienst (B). 1. Handelingen die betrekking hebben op de voorbereiding en bepaling van het beleid op hoofdlijnen  *Toelichting*: Agendavorming, analyse van informatie, beleidsadvisering, beleidsvoorbereiding of -planning, besluitvorming over de inhoud van beleid, terugkoppeling van beleid. Zowel de keuze als de specificatie van de doeleinden en instrumenten. 2. Handelingen die betrekking hebben op de evaluatie van het beleid op hoofdlijnen  *Toelichting*: Beschrijving en beoordeling van de inhoud, het proces of de effecten van beleid, toetsing van en toezicht op beleid. Niet perse leidend tot consequenties zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben op de verantwoording aan andere actoren van de hoofdlijnen van het beleid  *Toelichting*: Ook verslaglegging ten aanzien van de beleidsmatige hoofdlijnen. 4. Handelingen die betrekking hebben op de (her)inrichting van organisaties belast met het beleid op hoofdlijnen  *Toelichting*: Instelling, wijziging, opheffing en werkwijze van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt  *Toelichting*: Onder beleidsuitvoering wordt de toepassing verstaan van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen, voor zover die in direct verband staan met voor Nederland bijzondere tijdsomstandigheden en incidenten.  *Toelichting*: Zoals wanneer de ministeriële verantwoordelijkheid is opgeheven en/of in noodsituaties. 
 
 #### *Uitzondering op de algemene selectiecriteria* 
 
-De neerslag van handelingen die als vernietigbaar zijn aangemerkt kan soms worden uitgezonderd van vernietiging. Deze mogelijkheid gaat terug op artikel 5, onder e, van het Archiefbesluit 1995. Het gaat om bestanden die samenhangen met personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang. De toepassing van dit uitzonderingscriterium vindt plaats gedurende de bewerking voor overbrenging en in overleg tussen de zorgdrager, het Algemeen Rijksarchief en de bewerkers.  
+De neerslag van handelingen die als vernietigbaar zijn aangemerkt kan soms worden uitgezonderd van vernietiging. Deze mogelijkheid gaat terug op artikel 5, onder e, van het Archiefbesluit 1995. Het gaat om bestanden die samenhangen met personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang. De toepassing van dit uitzonderingscriterium vindt plaats gedurende de bewerking voor overbrenging en in overleg tussen de zorgdrager, het Algemeen Rijksarchief en de bewerkers. 
 
 #### *Vaststellingsprocedure* 
 
@@ -224,7 +224,7 @@ Op 2 juli 1999 is het ontwerp-BSD door de Minster van Landbouw, Natuurbeheer en
 
 – De waardering van handelingen 161/235, en 192/242 zijn gewijzigd in B (3).  
 
-– Handelingen met betrekking tot aanwijzing van schatters worden gesplitst in het aanwijzen van schatters B en het vaststellen van vergoedingen voor schatters V.   Daarop werd het BSD op 7 juli 2005 door de Algemene Rijksarchivaris, namens de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, en Minister van Landbouw, Natuurbeheer en Voedselkwaliteit [C/S&A/05/1162], van Binnenlandse Zaken en Koninkrijksrelaties [C/S&A/05/1146], van Financiën [C/S&A/05/1147], van Verkeer en Waterstaat [C/S&A/05/1160] en van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer [C/S&A/05/1161] vastgesteld.  
+– Handelingen met betrekking tot aanwijzing van schatters worden gesplitst in het aanwijzen van schatters B en het vaststellen van vergoedingen voor schatters V.   Daarop werd het BSD op 7 juli 2005 door de Algemene Rijksarchivaris, namens de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, en Minister van Landbouw, Natuurbeheer en Voedselkwaliteit [C/S&A/05/1162], van Binnenlandse Zaken en Koninkrijksrelaties [C/S&A/05/1146], van Financiën [C/S&A/05/1147], van Verkeer en Waterstaat [C/S&A/05/1160] en van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer [C/S&A/05/1161] vastgesteld. 
 
 ####Selectielijst
 
@@ -404,7 +404,7 @@ Handeling: Het formuleren van een standpunt over de inzet van landinrichtingsins
 *BSD: 33*  Handeling: Het goedkeuren van de vaststelling van een saneringsregeling van het O&S-fonds. Periode: 1964–1990 Bron: Statuten O&S-fonds. Opmerking: Het eindjaar van de handeling is niet precies bekend Waardering: V 20 jaar 
 ###RIO: 64
 
-*BSD: 34*  Handeling: Het beschikken op een beroepsschrift van een ondernemer, wiens aanvraag voor een bijdrage/vergoeding ingevolge een saneringsregeling van het O&S-fonds is afgewezen. Periode: 1964– Bron: Statuten O&S-fonds. Waardering: V 6 jaar  
+*BSD: 34*  Handeling: Het beschikken op een beroepsschrift van een ondernemer, wiens aanvraag voor een bijdrage/vergoeding ingevolge een saneringsregeling van het O&S-fonds is afgewezen. Periode: 1964– Bron: Statuten O&S-fonds. Waardering: V 6 jaar 
 
 #### *3. Het initiatief tot landinrichting* 
 
@@ -484,7 +484,7 @@ Handeling: Het formuleren van een standpunt over de inzet van landinrichtingsins
 *BSD: 78*  Handeling: Het totstandbrengen of wijzigen van een wet voor de herinrichting van Oost-Groningen en de Gronings-Drentse Veenkoloniën. Periode: 1972– Bron: Jaarverslagen CCC/CLC en CD/LD; MvT Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën Opmerking: De minister weegt de belangen van Landbouw en Openluchtrecreatie in overeenstemming met de Ministers van VROM, EZ, V&W en BZK Waardering: B 1 Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën (Stb. 1977, 694); in werking 1979 (Kb 13-12-1978, Stb. 664). Wijzigingen 1985–1992: zie Bijlage. 
 ###RIO: 91
 
-*BSD: 79*  Handeling: Het voorbereiden en uitvoeren van een Kb houdende vaststelling van het tijdstip van inwerkingtreding van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën. Periode: 1977–1978 Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 141.2. Opmerking: De minister weegt de belangen van Landbouw en Openluchtrecreatie in overeenstemming met de Ministers van VROM, EZ, V&W en BZK Waardering: V 10 jaar Kb 13-12-1978 (Stb. 664).  
+*BSD: 79*  Handeling: Het voorbereiden en uitvoeren van een Kb houdende vaststelling van het tijdstip van inwerkingtreding van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën. Periode: 1977–1978 Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 141.2. Opmerking: De minister weegt de belangen van Landbouw en Openluchtrecreatie in overeenstemming met de Ministers van VROM, EZ, V&W en BZK Waardering: V 10 jaar Kb 13-12-1978 (Stb. 664). 
 
 #### *4. De projectorganisatie* 
 
@@ -607,7 +607,7 @@ Handeling: Het formuleren van een standpunt over de inzet van landinrichtingsins
 *BSD: 131*  Handeling: Het samenstellen van een Bureau van Uitvoering, dat een deelgebiedscommissie van de Herinrichtingscommissie Oost-Groningen en de Gronings-Drentse Veenkoloniën bijstaat bij de voorbereiding en uitvoering van de herinrichting. Periode: 1979– Grondslag: Regeling LV 16-01-1979, Stcrt. 13, art. 14. Waardering: V 75 jaar na geboorte 
 ###RIO: 155
 
-*BSD: 133*  Handeling: Het vaststellen van de vergoedingen voor de leden van (een subcommissie van) de Herinrichtingscommissie Oost-Groningen en de Gronings-Drentse Veenkoloniën, en voor de leden van een deelgebiedscommissie of blokcommissie. Periode: 1979– Grondslag: Regeling LV 16-01-1979, Stcrt. 13, art. 8.3, 11; Regeling LV 16-01-1979, Stcrt. 13, art. 11.3, 13.3. Waardering: V 6 jaar na afsluiting project.  
+*BSD: 133*  Handeling: Het vaststellen van de vergoedingen voor de leden van (een subcommissie van) de Herinrichtingscommissie Oost-Groningen en de Gronings-Drentse Veenkoloniën, en voor de leden van een deelgebiedscommissie of blokcommissie. Periode: 1979– Grondslag: Regeling LV 16-01-1979, Stcrt. 13, art. 8.3, 11; Regeling LV 16-01-1979, Stcrt. 13, art. 11.3, 13.3. Waardering: V 6 jaar na afsluiting project. 
 
 #### *5. De grondverwerving* 
 
@@ -666,7 +666,7 @@ Handeling: Het formuleren van een standpunt over de inzet van landinrichtingsins
 *BSD: 222*  Handeling: Het bij wijze van uitzondering bepalen dat een toeslag als bedoeld in: Regeling verlening toeslag overdracht/verpachting landbouwgronden 1985; Regeling afkoop toedelingsrechten 1985; Regeling grondverwerving Oost-Groningen en de Gronings-Drentse Veenkoloniën 1986; Vijftien keer de pachtwaarde bedraagt. Periode: 1985– Grondslag: Regeling LV 28-10-1985, Stcrt. 213, art. 8.3; Regeling LV 29-10-1985, Stcrt. 213, art. 7.3; Regeling LV 14-08-1986, Stcrt. 158, art. 8.3 (HWOG). Waardering: V 6 jaar na afsluiting project. 
 ###RIO: 229
 
-*BSD: 223*  Handeling: Het na advies van de Centrale Commissie beschikken op een verzoek om een toeslag als bedoeld in de Beschikking afkoop potentiële toedelingsrechten, als daarover geen overeenstemming bestaat tussen de directeur CD/LD en een Voorbereidingscommissie. Periode: 1970–1985 Grondslag: Regeling 25-06-1970, Stcrt. 123, art. 11.5. Waardering: V 6 jaar na afsluiting project.  
+*BSD: 223*  Handeling: Het na advies van de Centrale Commissie beschikken op een verzoek om een toeslag als bedoeld in de Beschikking afkoop potentiële toedelingsrechten, als daarover geen overeenstemming bestaat tussen de directeur CD/LD en een Voorbereidingscommissie. Periode: 1970–1985 Grondslag: Regeling 25-06-1970, Stcrt. 123, art. 11.5. Waardering: V 6 jaar na afsluiting project. 
 
 #### *6. Het projectbeheer* 
 
@@ -714,7 +714,7 @@ Handeling: Het formuleren van een standpunt over de inzet van landinrichtingsins
 *BSD: 308*  Handeling: Het al dan niet goedkeuren van het werkplan voor de voorbereiding van het herinrichtingsprogramma Oost-Groningen en de Gronings-Drentse Veenkoloniën. Periode: 1979–1984 Grondslag: Regeling LV 16-01-1979, Stcrt. 13, art. 14.3. Waardering: B 1 
 ###RIO: 317
 
-*BSD: 309*  Handeling: Het voorschieten van de kosten van de voorbereiding en uitvoering van de herinrichting Oost-Groningen en de Gronings-Drentse Veenkoloniën, alsmede het voeren van de financiële administratie van de Herinrichtingscommissie. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 125; Regeling LV 16-01-1979, Stcrt. 13, art. 28. Waardering: V 6 jaar na afsluiting project.  
+*BSD: 309*  Handeling: Het voorschieten van de kosten van de voorbereiding en uitvoering van de herinrichting Oost-Groningen en de Gronings-Drentse Veenkoloniën, alsmede het voeren van de financiële administratie van de Herinrichtingscommissie. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 125; Regeling LV 16-01-1979, Stcrt. 13, art. 28. Waardering: V 6 jaar na afsluiting project. 
 
 #### *7. De projectvoorbereiding* 
 
@@ -832,7 +832,7 @@ Handeling: Het formuleren van een standpunt over de inzet van landinrichtingsins
 *BSD: 426*  Handeling: Het al dan niet goedkeuren dat PS van Groningen of Drenthe een (gewijzigd) herinrichtingsplan, of een deel daarvan, voor (een deel van) een deelgebied van het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën vaststellen in afwijking van het advies van de Centrale Commissie Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 20.2, 21. Waardering: B 5 
 ###RIO: 424
 
-*BSD: 427*  Handeling: Het voorbereiden van een Kb, waarbij een (gewijzigd) herinrichtingsplan, of een deel daarvan, voor (een deel van) een deelgebied van het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën wordt vastgesteld, indien PS van Groningen en van Drenthe hierover geen overeenstemming hebben. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 20.4, 21.2. Waardering: B 5  
+*BSD: 427*  Handeling: Het voorbereiden van een Kb, waarbij een (gewijzigd) herinrichtingsplan, of een deel daarvan, voor (een deel van) een deelgebied van het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën wordt vastgesteld, indien PS van Groningen en van Drenthe hierover geen overeenstemming hebben. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 20.4, 21.2. Waardering: B 5 
 
 #### *8. Het besluit tot landinrichting* 
 
@@ -872,7 +872,7 @@ Handeling: Het formuleren van een standpunt over de inzet van landinrichtingsins
 *BSD: 532*  Handeling: Het voorbereiden van een Kb tot herinrichting of aanpassingsinrichting, als PS/GS van verschillende provincies ter zake geen overeenstemming hebben bereikt. Periode: 1985– Grondslag: Landinrichtingswet art. 2.3, 3.2. Waardering: B 1 
 ###RIO: 450
 
-*BSD: 533*  Handeling: Het nemen van een besluit tot aanpassingsinrichting, indien GS de in Landinrichtingswet art. 111.1 bedoelde termijn hebben overschreden. Periode: 1975– Grondslag: Landinrichtingswet art. 112.1. Opmerking: Geschiedt op verzoek van de aanvrager (het bevoegd orgaan) in bij AMvB te bepalen gevallen. Waardering: B 5  
+*BSD: 533*  Handeling: Het nemen van een besluit tot aanpassingsinrichting, indien GS de in Landinrichtingswet art. 111.1 bedoelde termijn hebben overschreden. Periode: 1975– Grondslag: Landinrichtingswet art. 112.1. Opmerking: Geschiedt op verzoek van de aanvrager (het bevoegd orgaan) in bij AMvB te bepalen gevallen. Waardering: B 5 
 
 #### *9. Werken en voorzieningen* 
 
@@ -903,7 +903,7 @@ Handeling: Het formuleren van een standpunt over de inzet van landinrichtingsins
 
 ###RIO: 525
 
-*BSD: 562*  Handeling: Het voorbereiden van een Kb waarbij een plan tot uitwerking dan wel uitbreiding voor (een deel van) een deelgebied van het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën wordt vastgesteld, indien GS van Groningen en Drenthe terzake niet tot overeenstemming zijn gekomen. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 22.8. Opmerking: Alleen van toepassing indien het betrokken (deel van een) deelgebied in beide provincies ligt. Waardering: B 1  
+*BSD: 562*  Handeling: Het voorbereiden van een Kb waarbij een plan tot uitwerking dan wel uitbreiding voor (een deel van) een deelgebied van het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën wordt vastgesteld, indien GS van Groningen en Drenthe terzake niet tot overeenstemming zijn gekomen. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 22.8. Opmerking: Alleen van toepassing indien het betrokken (deel van een) deelgebied in beide provincies ligt. Waardering: B 1 
 
 #### *10. De toewijzing van onroerende goederen van alg. nut* 
 
@@ -973,7 +973,7 @@ Handeling: Het formuleren van een standpunt over de inzet van landinrichtingsins
 
 ###RIO: 573
 
-*BSD: 662*  Handeling: Het voorbereiden en bekend maken van een Kb waarbij worden ontbonden zekere oude overeenkomsten tussen de stad of de gemeente Groningen enerzijds en diverse belanghebbenden anderzijds betreffende de waterhuishouding in de Veenkoloniën. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 75.1, 75.2, 75.4. Waardering: B 1  
+*BSD: 662*  Handeling: Het voorbereiden en bekend maken van een Kb waarbij worden ontbonden zekere oude overeenkomsten tussen de stad of de gemeente Groningen enerzijds en diverse belanghebbenden anderzijds betreffende de waterhuishouding in de Veenkoloniën. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 75.1, 75.2, 75.4. Waardering: B 1 
 
 #### *11. De bepaling van de inbreng in een blok* 
 
@@ -1004,7 +1004,7 @@ Handeling: Het formuleren van een standpunt over de inzet van landinrichtingsins
 
 ###RIO: 648
 
-*BSD: 778*  Handeling: Het vaststellen van de vergoedingen voor de schatters van een blok in het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën. Periode: 1979– Grondslag: Regeling LV 16-01-1979, Stcrt. 13, art. 32. Waardering: V 6 jaar na afsluiting project.  
+*BSD: 778*  Handeling: Het vaststellen van de vergoedingen voor de schatters van een blok in het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën. Periode: 1979– Grondslag: Regeling LV 16-01-1979, Stcrt. 13, art. 32. Waardering: V 6 jaar na afsluiting project. 
 
 #### *12. De toedeling in een blok* 
 
@@ -1019,7 +1019,7 @@ Handeling: Het formuleren van een standpunt over de inzet van landinrichtingsins
 *BSD: 803*  Handeling: Het beschikken op een voorstel van de Centrale Commissie dat in het algemeen belang een eigenaar meer dan 5% zal worden onder- of overbedeeld. Periode: 1945–1955 Grondslag: Ruilverkavelingswet 1938, zoals gew. 1941, art. 12.4. Waardering: V 6 jaar na afsluiting project. 
 ###RIO: 669
 
-*BSD: 804*  Handeling: Het beschikken op een voorstel van de Centrale Commissie dat de aan een eigenaar toekomende waarde in kavels bij de toedeling zal worden verminderd met (een deel van) de vermoedelijk ten zijnen laste komende ruilverkavelingskosten. Periode: 1945–1955 Grondslag: Ruilverkavelingswet 1938, zoals gew. 1941, art. 13.1, 13.2. Waardering: V 6 jaar na afsluiting project.  
+*BSD: 804*  Handeling: Het beschikken op een voorstel van de Centrale Commissie dat de aan een eigenaar toekomende waarde in kavels bij de toedeling zal worden verminderd met (een deel van) de vermoedelijk ten zijnen laste komende ruilverkavelingskosten. Periode: 1945–1955 Grondslag: Ruilverkavelingswet 1938, zoals gew. 1941, art. 13.1, 13.2. Waardering: V 6 jaar na afsluiting project. 
 
 #### *13. De afwikkeling van een landinrichting* 
 
@@ -1077,7 +1077,7 @@ Handeling: Het opstellen en bijhouden van een administratie betreffende de verre
 Handeling: Het opstellen en bijhouden van een administratie betreffende de afkoop van herinrichtingsrente. Periode: 1977– Bron: Archief CD/LD en CCC/CLC (CAS). Waardering: V 6 jaar 
 ###1110
 
-Handeling: Het opstellen en bijhouden van een administratie betreffende de verrekening en afkoop van de herinrichtingsrente Periode: 1977– Bron: Archief CD/LD en CCC/CLC CAS) Opmerking: Het betreft een administratie op hoofdlijnen van de verrekening van de opbrengsten van de herinrichtingsrente (zoals bedoeld in art. 126 t/m 134 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën) tussen de Belastingdienst en Ministerie LNV en het verwerken van afkoopsommen van herinrichtingsrente. Waardering: V 6 jaar  
+Handeling: Het opstellen en bijhouden van een administratie betreffende de verrekening en afkoop van de herinrichtingsrente Periode: 1977– Bron: Archief CD/LD en CCC/CLC CAS) Opmerking: Het betreft een administratie op hoofdlijnen van de verrekening van de opbrengsten van de herinrichtingsrente (zoals bedoeld in art. 126 t/m 134 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën) tussen de Belastingdienst en Ministerie LNV en het verwerken van afkoopsommen van herinrichtingsrente. Waardering: V 6 jaar 
 
 #### *14. Overige landinrichtingsprojecten en onderzoek* 
 
@@ -1191,7 +1191,7 @@ Handeling: Het opstellen en bijhouden van een administratie betreffende de verre
 *BSD: 1043*  Handeling: Het leveren van een bijdrage aan onderzoeken op het gebied van hydrologie, bodemkunde, civieltechniek en andere wetenschappen van belang voor de cultuurtechniek, resp. landinrichting. Periode: 1945– Bron: Jaarverslagen CCC/CLC en CD/LD. Waardering: V 6 jaar 
 ###RIO: 875
 
-*BSD: 1060*  Handeling: Het adviseren aan een provincie, gemeente, waterschap of orgaan van een gemeenschappelijke regeling met betrekking tot cultuurtechnische, c.q. landinrichtingsaangelegenheden. Periode: 1970– Bron: Jaarverslagen CCC/CLC en CD/LD. Opmerking: Bijv. inzake ontgrondingen, waterbeheersing, bouwaanvragen, aanlegvergunningen. Betrokken organisaties waren Rijks Cultuur Consulent, nadien HID/Inspecteur Landinrichting, vanaf 1989: directeur LNO. Het beginjaar van de handeling is niet precies bekend Waardering: B 1  
+*BSD: 1060*  Handeling: Het adviseren aan een provincie, gemeente, waterschap of orgaan van een gemeenschappelijke regeling met betrekking tot cultuurtechnische, c.q. landinrichtingsaangelegenheden. Periode: 1970– Bron: Jaarverslagen CCC/CLC en CD/LD. Opmerking: Bijv. inzake ontgrondingen, waterbeheersing, bouwaanvragen, aanlegvergunningen. Betrokken organisaties waren Rijks Cultuur Consulent, nadien HID/Inspecteur Landinrichting, vanaf 1989: directeur LNO. Het beginjaar van de handeling is niet precies bekend Waardering: B 1 
 
 ####Deel 2. Handelingen van actoren onder de archiefzorg van de Minister van LNV
 
@@ -1271,7 +1271,7 @@ Handeling: Het opstellen en bijhouden van een administratie betreffende de verre
 *BSD: 1047*  Handeling: Het verwerven van gronden in een te reconstrueren oud glastuinbouwgebied. Periode: 1983– Grondslag: Beschikking reconstructie oude glastuinbouwgebieden/Regeling reconstructie oude glastuinbouwgebieden Titel 6, par. 2. Opmerking: Van 1979–1982 Stichting Beheer Landbouwgronden Sinds 1983 Bureau Beheer Landbouwgronden Waardering: V 6 jaar na vervreemding. 
 ###RIO: 888
 
-*BSD: 1077*  Handeling: Het beheren van verworven grond tijdens de voorbereiding en uitvoering van de reconstructie van een oud glastuinbouwgebied. Periode: 1983– Grondslag: Beschikking reconstructie oude glastuinbouwgebieden art. 30 en de toelichting bij deze beschikking Opmerking: Van 1979–1982 Stichting Beheer Landbouwgronden Sinds 1983 Bureau Beheer Landbouwgronden Waardering: V 6 jaar na einde bezit.  
+*BSD: 1077*  Handeling: Het beheren van verworven grond tijdens de voorbereiding en uitvoering van de reconstructie van een oud glastuinbouwgebied. Periode: 1983– Grondslag: Beschikking reconstructie oude glastuinbouwgebieden art. 30 en de toelichting bij deze beschikking Opmerking: Van 1979–1982 Stichting Beheer Landbouwgronden Sinds 1983 Bureau Beheer Landbouwgronden Waardering: V 6 jaar na einde bezit. 
 
 #### *Centrale Commissie* 
 
@@ -1859,7 +1859,7 @@ Handeling: Het behandelen van diverse bezwaren van en kwesties met rechthebbende
 *BSD: 1045*  Handeling: Het vaststellen van het concept van een definitieve ruilverkavelingsovereenkomst (akte van kavelruil), het verlenen van volmacht tot ondertekening van de definitieve akte alsmede het behandelen van bezwaren daartegen. Periode: 1945– Bron: Archief CD/LD en CCC/CLC (CAS). Opmerking: De akte van kavelruil correspondeert met de akte van toedeling bij een wettelijke ruilverkaveling. Betrokken actoren zijn in de praktijk Heidemij, Grontmij, etc. Waardering: B 5 
 ###RIO: 845
 
-*BSD: 1046*  Handeling: Het vaststellen van de kostenverdeling voor een ruilverkaveling bij overeenkomst en het opzetten en bijhouden van een registratie van de invorderingen van ruilverkavelingsrente, alsmede het behandelen van bezwaren daartegen. Periode: 1945– Bron: Archief CD/LD en CCC/CLC (CAS). Opmerking: De kostenverdeling correspondeert met de lijst van geldelijke regelingen bij een wettelijke ruilverkaveling. Waardering: B 5  
+*BSD: 1046*  Handeling: Het vaststellen van de kostenverdeling voor een ruilverkaveling bij overeenkomst en het opzetten en bijhouden van een registratie van de invorderingen van ruilverkavelingsrente, alsmede het behandelen van bezwaren daartegen. Periode: 1945– Bron: Archief CD/LD en CCC/CLC (CAS). Opmerking: De kostenverdeling correspondeert met de lijst van geldelijke regelingen bij een wettelijke ruilverkaveling. Waardering: B 5 
 
 #### *Centrale Commissie Zeeuwse Noodgebieden* 
 
@@ -1874,25 +1874,25 @@ Handeling: Het behandelen van diverse bezwaren van en kwesties met rechthebbende
 *BSD: 371*  Handeling: Het ter beschikking stellen aan de Herverkavelingscommissie Walcheren, resp. Zeeland, van de rijksgelden uitgetrokken voor de herverkaveling. Periode: 1947–1967 Bron: Jaarverslagen HCW/HCZ. Opmerking: Het eindjaar van de handeling is niet precies bekend Waardering: V 6 jaar na afsluiting project. 
 ###RIO: 278
 
-*BSD: 372*  Handeling: Het rapporteren aan de Minister van LNV en andere betrokken ministers over de voortgang van de herverkaveling Walcheren, i.c. Zeeland en over eventuele organisatorische, technische en financiële problemen. Periode: 1947–1967 Bron: Jaarverslagen HCW/HCZ. Opmerking: Het eindjaar van de handeling is niet precies bekend Waardering: B 3  
+*BSD: 372*  Handeling: Het rapporteren aan de Minister van LNV en andere betrokken ministers over de voortgang van de herverkaveling Walcheren, i.c. Zeeland en over eventuele organisatorische, technische en financiële problemen. Periode: 1947–1967 Bron: Jaarverslagen HCW/HCZ. Opmerking: Het eindjaar van de handeling is niet precies bekend Waardering: B 3 
 
 #### *Commissie Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën* 
 
 ###RIO: 90
 
-*BSD: 88*  Handeling: Het opstellen van een voorlopig ontwerp van wet voor de herinrichting van Oost-Groningen en Gronings-Drentse Veenkoloniën. Periode: 1972–1975 Bron: Jaarverslagen CCC en CD; MvT Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën Waardering: B 1  
+*BSD: 88*  Handeling: Het opstellen van een voorlopig ontwerp van wet voor de herinrichting van Oost-Groningen en Gronings-Drentse Veenkoloniën. Periode: 1972–1975 Bron: Jaarverslagen CCC en CD; MvT Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën Waardering: B 1 
 
 #### *Commissie Noodwet Walcheren* 
 
 ###RIO: 82
 
-*BSD: 87*  Handeling: Het opstellen van een voorlopig ontwerp van wet voor de herverkaveling van Walcheren. Periode: 1946–1946 Bron: Jaarverslagen CD en CCC en HCW. Opmerking: Een dergelijke commissie voor de Zeeuwse noodgebieden van 1953 is mij niet bekend. Het beginjaar van de handeling is niet precies bekend Waardering: B 1  
+*BSD: 87*  Handeling: Het opstellen van een voorlopig ontwerp van wet voor de herverkaveling van Walcheren. Periode: 1946–1946 Bron: Jaarverslagen CD en CCC en HCW. Opmerking: Een dergelijke commissie voor de Zeeuwse noodgebieden van 1953 is mij niet bekend. Het beginjaar van de handeling is niet precies bekend Waardering: B 1 
 
 #### *Commissie van advies bezwaarschriften particuliere cultuurtechnische werken* 
 
 ###RIO: 856
 
-*BSD: 1007*  Handeling: Het behandelen van een bezwaarschrift tegen de beslissing van de directeur CD/LD omtrent een aanvraag voor een rijksbijdrage in de kosten van een particulier cultuurtechnisch werk zoals bedoeld in de Beschikking PCW 1975 Periode: 1975–1978 Grondslag: Beschikking LV 5-8-1975, Stcrt. 151. Opmerking: Het eindjaar van de handeling is niet precies bekend (na 1977) Waardering: V 10 jaar  
+*BSD: 1007*  Handeling: Het behandelen van een bezwaarschrift tegen de beslissing van de directeur CD/LD omtrent een aanvraag voor een rijksbijdrage in de kosten van een particulier cultuurtechnisch werk zoals bedoeld in de Beschikking PCW 1975 Periode: 1975–1978 Grondslag: Beschikking LV 5-8-1975, Stcrt. 151. Opmerking: Het eindjaar van de handeling is niet precies bekend (na 1977) Waardering: V 10 jaar 
 
 #### *Commissie van Toezicht Herverkaveling Walcheren* 
 
@@ -1907,7 +1907,7 @@ Handeling: Het behandelen van diverse bezwaren van en kwesties met rechthebbende
 *BSD: 371*  Handeling: Het ter beschikking stellen aan de Herverkavelingscommissie Walcheren, resp. Zeeland, van de rijksgelden uitgetrokken voor de herverkaveling. Periode: 1947–1967 Bron: Jaarverslagen HCW/HCZ. Opmerking: Het eindjaar van de handeling is niet precies bekend Waardering: V 6 jaar na afsluiting project. 
 ###RIO: 278
 
-*BSD: 372*  Handeling: Het rapporteren aan de Minister van LNV en andere betrokken ministers over de voortgang van de herverkaveling Walcheren, i.c. Zeeland en over eventuele organisatorische, technische en financiële problemen. Periode: 1947–1967 Bron: Jaarverslagen HCW/HCZ. Opmerking: Het eindjaar van de handeling is niet precies bekend Waardering: B 3  
+*BSD: 372*  Handeling: Het rapporteren aan de Minister van LNV en andere betrokken ministers over de voortgang van de herverkaveling Walcheren, i.c. Zeeland en over eventuele organisatorische, technische en financiële problemen. Periode: 1947–1967 Bron: Jaarverslagen HCW/HCZ. Opmerking: Het eindjaar van de handeling is niet precies bekend Waardering: B 3 
 
 #### *Coördinatiecommissie Openluchtrecreatie (CO)* 
 
@@ -1916,7 +1916,7 @@ Handeling: Het behandelen van diverse bezwaren van en kwesties met rechthebbende
 *BSD: 512*  Handeling: Het (mede) adviseren aan de Minister(s) van Landbouw en voor de Openluchtrecreatie inzake het goedkeuren van het ontwerp van het (gewijzigde) plan van voorzieningen Midden-Delfland, of een deel daarvan. Periode: 1979– Grondslag: Reconstructiewet Midden-Delfland art. 41.1, 45. Waardering: B 1 
 ###RIO: 402
 
-*BSD: 513*  Handeling: Het (mede) adviseren aan GS van Zuid-Holland over hun voornemen het ontwerp van het (gewijzigde) plan van voorzieningen Midden-Delfland, of een deel daarvan, vast te stellen in afwijking van het ontwerp. Periode: 1979– Grondslag: Reconstructiewet Midden-Delfland art. 44.1, 45. Waardering: B 1  
+*BSD: 513*  Handeling: Het (mede) adviseren aan GS van Zuid-Holland over hun voornemen het ontwerp van het (gewijzigde) plan van voorzieningen Midden-Delfland, of een deel daarvan, vast te stellen in afwijking van het ontwerp. Periode: 1979– Grondslag: Reconstructiewet Midden-Delfland art. 44.1, 45. Waardering: B 1 
 
 #### *Deelgebiedscommissie Oost-Groningen en de Gronings-Drentse Veenkoloniën (DCOG)* 
 
@@ -2087,7 +2087,7 @@ Handeling: Het behandelen van diverse bezwaren van en kwesties met rechthebbende
 *BSD: 939*  Handeling: Het in eerste instantie behandelen van de bezwaren tegen de lijst van geldelijke regelingen voor een blok van het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën, alsmede het effectueren van de uitkomst van de behandeling door wijziging van de lijst, dan wel vaststelling voor zover deze niet omstreden is. Periode: 1947– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 112–116. Waardering: B 5 
 ###RIO: 795
 
-*BSD: 940*  Handeling: Het optreden als partij bij de behandeling voor de rechter-commissaris, of als geding voor de rechtbank of in vervolg daarop voor de Hoge Raad, van de bezwaren tegen de lijst van geldelijke regelingen voor een blok van het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 117–121. Waardering: V 6 jaar na afsluiting project.  
+*BSD: 940*  Handeling: Het optreden als partij bij de behandeling voor de rechter-commissaris, of als geding voor de rechtbank of in vervolg daarop voor de Hoge Raad, van de bezwaren tegen de lijst van geldelijke regelingen voor een blok van het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 117–121. Waardering: V 6 jaar na afsluiting project. 
 
 #### *Directeur Beheer Landbouwgronden* 
 
@@ -2108,7 +2108,7 @@ Handeling: Het behandelen van diverse bezwaren van en kwesties met rechthebbende
 *BSD: 1004*  Handeling: Het al dan niet goedkeuren van de door een Reconstructiecommissie oud glastuinbouwgebied gestelde nadere voorwaarden en voorschriften aan de toekenning van een rijksbijdrage aan een werknemer van een bedrijf dat wordt beëindigd ingevolge RROG art. 30. Periode: 1979– Grondslag: Regeling reconstructie oude glastuinbouwgebieden 15-01-1986, Stcrt. 13, art. 33e.5, 33n.2. Waardering: V 6 jaar na afsluiting project. 
 ###RIO: 822
 
-*BSD: 1005*  Handeling: Het betaalbaar stellen van een loondervings- of verhuiskostenbijdrage aan een werknemer van een bedrijf dat wordt beëindigd ingevolge RROG art. 30. Periode: 1986– Grondslag: Regeling reconstructie oude glastuinbouwgebieden 15-01-1986, Stcrt. 13, art. 33e, 33j, 33k, 33u, 33w. Waardering: V 6 jaar na afsluiting project.  
+*BSD: 1005*  Handeling: Het betaalbaar stellen van een loondervings- of verhuiskostenbijdrage aan een werknemer van een bedrijf dat wordt beëindigd ingevolge RROG art. 30. Periode: 1986– Grondslag: Regeling reconstructie oude glastuinbouwgebieden 15-01-1986, Stcrt. 13, art. 33e, 33j, 33k, 33u, 33w. Waardering: V 6 jaar na afsluiting project. 
 
 #### *Directeur Bureau Natuurwetenschappelijke Commissie* 
 
@@ -2117,7 +2117,7 @@ Handeling: Het behandelen van diverse bezwaren van en kwesties met rechthebbende
 *BSD: 509*  Handeling: Het leveren van commentaar op het concept van het voorontwerp van het (gewijzigde) reconstructieprogramma Midden-Delfland, of een deel daarvan. Periode: 1979–1984 Grondslag: Regeling VRO 23-06-1978, Stcrt. 124, art. 16, 18, 19. Waardering: V 6 jaar na afsluiting project. 
 ###RIO: 398
 
-*BSD: 508*  Handeling: Het leveren van commentaar op het concept-ontwerp van het (gewijzigde) plan van voorzieningen Midden-Delfland, of een deel daarvan. Periode: 1979– Grondslag: Regeling VRO 23-06-1978, Stcrt. 124, art. 21, 22. Waardering: V 6 jaar na afsluiting project.  
+*BSD: 508*  Handeling: Het leveren van commentaar op het concept-ontwerp van het (gewijzigde) plan van voorzieningen Midden-Delfland, of een deel daarvan. Periode: 1979– Grondslag: Regeling VRO 23-06-1978, Stcrt. 124, art. 21, 22. Waardering: V 6 jaar na afsluiting project. 
 
 #### *Directeur Dienst Landelijke Gebieden* 
 
@@ -2270,7 +2270,7 @@ Handeling: Het uitsluiten van aannemers voor de inschrijving op alle door de Cul
 *BSD: 1050*  Handeling: Het beschikken op een aanvraag voor een bijdrage ingevolge de Beschikking rijksbijdragen boerderijbouw. Periode: 1976–1981 Grondslag: Beschikking rijksbijdragen boerderijbouw, Stcrt. 1976 177, art. 18–23, 25. Opmerking: Omvat het al dan niet toekennen (na advies van de HID LaGroBo en de HID voor de Bedrijfsontwikkeling) van een subsidie, evt. onder verlening van ontheffing van in de regeling gestelde voorwaarden; de uitbetaling van voorschotten onder te stellen voorwaarden en de uitbetaling van het resterende bedrag; het toezien op de naleving van de gestelde voorwaarden en bij overtreding daarvan, terugvordering van de bijdrage verhoogd met een boete. Het eindjaar van de handeling is niet precies bekend (na 1980) Waardering: V 6 jaar 
 ###RIO: 874
 
-*BSD: 1054*  Handeling: Het adviseren aan een rijksoverheidsorgaan met betrekking tot cultuurtechnische, dan wel landinrichtingsaangelegenheden. Periode: 1970– Bron: Jaarverslagen CCC/CLC en CD/LD. Opmerking: Bijv. aan de Commissie inzake wateronttrekking aan de bodem, de Commissie Grondwaterwet waterleidingbedrijven inzake verlening vergunning, etc. Het beginjaar van de handeling is niet precies bekend Waardering: B 1  
+*BSD: 1054*  Handeling: Het adviseren aan een rijksoverheidsorgaan met betrekking tot cultuurtechnische, dan wel landinrichtingsaangelegenheden. Periode: 1970– Bron: Jaarverslagen CCC/CLC en CD/LD. Opmerking: Bijv. aan de Commissie inzake wateronttrekking aan de bodem, de Commissie Grondwaterwet waterleidingbedrijven inzake verlening vergunning, etc. Het beginjaar van de handeling is niet precies bekend Waardering: B 1 
 
 #### *Directeur Openluchtrecreatie* 
 
@@ -2279,7 +2279,7 @@ Handeling: Het uitsluiten van aannemers voor de inschrijving op alle door de Cul
 *BSD: 507*  Handeling: Het leveren van commentaar op het concept van het voorontwerp van het (gewijzigde) reconstructieprogramma Midden-Delfland, of een deel daarvan. Periode: 1979–1984 Grondslag: Regeling VRO 23-06-1978, Stcrt. 124, art. 16, 18, 19. Waardering: V 6 jaar na afsluiting project. 
 ###RIO: 398
 
-*BSD: 506*  Handeling: Het leveren van commentaar op het concept-ontwerp van het (gewijzigde) plan van voorzieningen Midden-Delfland, of een deel daarvan. Periode: 1979– Grondslag: Regeling VRO 23-06-1978, Stcrt. 124, art. 21, 22. Waardering: V 6 jaar na afsluiting project.  
+*BSD: 506*  Handeling: Het leveren van commentaar op het concept-ontwerp van het (gewijzigde) plan van voorzieningen Midden-Delfland, of een deel daarvan. Periode: 1979– Grondslag: Regeling VRO 23-06-1978, Stcrt. 124, art. 21, 22. Waardering: V 6 jaar na afsluiting project. 
 
 #### *Herinrichtingscommissie Oost-Groningen en de Gronings-Drentse Veenkoloniën (HCOG)* 
 
@@ -2534,7 +2534,7 @@ Handeling: Het uitsluiten van aannemers voor de inschrijving op alle door de Cul
 *BSD: 939*  Handeling: Het in eerste instantie behandelen van de bezwaren tegen de lijst van geldelijke regelingen voor een blok van het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën, alsmede het effectueren van de uitkomst van de behandeling door wijziging van de lijst, dan wel vaststelling voor zover deze niet omstreden is. Periode: 1947– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 112–116. Waardering: B 5 
 ###RIO: 795
 
-*BSD: 940*  Handeling: Het optreden als partij bij de behandeling voor de rechter-commissaris, of als geding voor de rechtbank of in vervolg daarop voor de Hoge Raad, van de bezwaren tegen de lijst van geldelijke regelingen voor een blok van het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 117–121. Waardering: V 6 jaar na afsluiting project.  
+*BSD: 940*  Handeling: Het optreden als partij bij de behandeling voor de rechter-commissaris, of als geding voor de rechtbank of in vervolg daarop voor de Hoge Raad, van de bezwaren tegen de lijst van geldelijke regelingen voor een blok van het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 117–121. Waardering: V 6 jaar na afsluiting project. 
 
 #### *Herverkavelingscommissie Walcheren (HCW)* 
 
@@ -2735,7 +2735,7 @@ Handeling: Het uitsluiten van aannemers voor de inschrijving op alle door de Cul
 *BSD: 926*  Handeling: Het optreden als partij bij de behandeling voor de rechter-commissaris, of als geding voor de rechtbank of in vervolg daarop voor de Hoge Raad, van de bezwaren tegen de lijst van geldelijke regelingen voor het/een blok van de herverkaveling Walcheren, resp. Zeeland. Periode: 1947–1967 Grondslag: Herverkavelingswet Walcheren 1947 art. 87–92; Herverkavelingswet Zeeland art. 1. Opmerking: Het eindjaar van de handeling is niet precies bekend Waardering: V 6 jaar 
 ###RIO: 764
 
-*BSD: 927*  Handeling: Het voorbereiden van en het medewerken aan de totstandkoming en de effectuering van de akte van geldelijke regelingen voor het/een blok van de herverkaveling Walcheren, resp. Zeeland. Periode: 1947–1967 Grondslag: Herverkavelingswet Walcheren 1947 art. 93; Herverkavelingswet Zeeland art. 1. Opmerking: Het eindjaar van de handeling is niet precies bekend Waardering: V 6 jaar na afsluiting project.  
+*BSD: 927*  Handeling: Het voorbereiden van en het medewerken aan de totstandkoming en de effectuering van de akte van geldelijke regelingen voor het/een blok van de herverkaveling Walcheren, resp. Zeeland. Periode: 1947–1967 Grondslag: Herverkavelingswet Walcheren 1947 art. 93; Herverkavelingswet Zeeland art. 1. Opmerking: Het eindjaar van de handeling is niet precies bekend Waardering: V 6 jaar na afsluiting project. 
 
 #### *Herverkavelingscommissie Zeeland (HCZ)* 
 
@@ -2936,7 +2936,7 @@ Handeling: Het uitsluiten van aannemers voor de inschrijving op alle door de Cul
 *BSD: 926*  Handeling: Het optreden als partij bij de behandeling voor de rechter-commissaris, of als geding voor de rechtbank of in vervolg daarop voor de Hoge Raad, van de bezwaren tegen de lijst van geldelijke regelingen voor het/een blok van de herverkaveling Walcheren, resp. Zeeland. Periode: 1947–1967 Grondslag: Herverkavelingswet Walcheren 1947 art. 87–92; Herverkavelingswet Zeeland art. 1. Opmerking: Het eindjaar van de handeling is niet precies bekend Waardering: V 6 jaar 
 ###RIO: 764
 
-*BSD: 927*  Handeling: Het voorbereiden van en het medewerken aan de totstandkoming en de effectuering van de akte van geldelijke regelingen voor het/een blok van de herverkaveling Walcheren, resp. Zeeland. Periode: 1947–1967 Grondslag: Herverkavelingswet Walcheren 1947 art. 93; Herverkavelingswet Zeeland art. 1. Opmerking: Het eindjaar van de handeling is niet precies bekend Waardering: V 6 jaar na afsluiting project.  
+*BSD: 927*  Handeling: Het voorbereiden van en het medewerken aan de totstandkoming en de effectuering van de akte van geldelijke regelingen voor het/een blok van de herverkaveling Walcheren, resp. Zeeland. Periode: 1947–1967 Grondslag: Herverkavelingswet Walcheren 1947 art. 93; Herverkavelingswet Zeeland art. 1. Opmerking: Het eindjaar van de handeling is niet precies bekend Waardering: V 6 jaar na afsluiting project. 
 
 #### *Inspraakcommissies* 
 
@@ -2945,13 +2945,13 @@ Handeling: Het uitsluiten van aannemers voor de inschrijving op alle door de Cul
 *BSD: 151*  Handeling: Het instellen, samenstellen en instrueren van een of meer suborganen van een Voorbereidingscommissie of Inspraakcommissie. Periode: 1955–1985 Bron: Literatuur. Opmerking: Geschiedt na advies door de regionale functionaris van de CD/LD, optredend namens de Minister van LNV. Het beginjaar van de handeling is niet precies bekend Waardering: V 6 jaar na afsluiting project. 
 ###RIO: 339
 
-*BSD: 461*  Handeling: Het voorbereiden en uitvoeren van een inspraakronde over het voorontwerp van een rapport ex art. 34. Periode: 1973–1985 Bron: Nota CCC, in: Bijl. Hand II 1973/74, 12 015, par. 6. Opmerking: Het beginjaar van de handeling is niet precies bekend Waardering: V 6 jaar na afsluiting project.  
+*BSD: 461*  Handeling: Het voorbereiden en uitvoeren van een inspraakronde over het voorontwerp van een rapport ex art. 34. Periode: 1973–1985 Bron: Nota CCC, in: Bijl. Hand II 1973/74, 12 015, par. 6. Opmerking: Het beginjaar van de handeling is niet precies bekend Waardering: V 6 jaar na afsluiting project. 
 
 #### *Interdepartementale Commissie Boerderijbouw* 
 
 ###RIO: 859
 
-*BSD: 1061*  Handeling: Het beschikken op een aanvraag voor een rijksbijdrage in de kosten van boerderijbouw ingevolge de regeling 1952. Periode: 1952–1960 Bron: Jaarverslagen CCC en CD. Opmerking: Het eindjaar van de handeling is niet precies bekend Waardering: V 10 jaar  
+*BSD: 1061*  Handeling: Het beschikken op een aanvraag voor een rijksbijdrage in de kosten van boerderijbouw ingevolge de regeling 1952. Periode: 1952–1960 Bron: Jaarverslagen CCC en CD. Opmerking: Het eindjaar van de handeling is niet precies bekend Waardering: V 10 jaar 
 
 #### *Landinrichtingscommissie (LC)* 
 
@@ -3314,7 +3314,7 @@ Handeling: Het ontwerpen van (een deel van) een begrenzingenplan, met een voorst
 *BSD: 950*  Handeling: Het vaststellen en aantekenen in de kadastrale registratie van het bedrag aan herinrichtingsrente die rust op een perceel in een blok van het herinrichtingsgebied van het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën. Periode: 1979– Grondslag: Opmerking: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 130, 132. In de praktijk wordt deze handeling in naam van de LC uitgevoerd door de ingenieur van het Kadaster die de LC bijstaat. Waardering: B 5 
 ###RIO: 841
 
-*BSD: 1006*  Handeling: Het opzetten en bijhouden van, alsmede het opmaken van stukken uit een ‘kadastrale boekhouding’ voor een ruilverkaveling bij overeenkomst, houdende registratie van de rechten en de waarden ten aanzien van de ingebrachte en toe te delen onroerende goederen van de betrokken eigenaren. Periode: 1945– Grondslag: Ruilverkavelingswet 1938 art. 7; Ruilverkavelingswet 1954 art. 8; Landinrichtingswet art. 123. Opmerking: In de praktijk wordt deze handeling in naam van de LC uitgevoerd door de ingenieur van het Kadaster die de LC bijstaat. Waardering: B 5  
+*BSD: 1006*  Handeling: Het opzetten en bijhouden van, alsmede het opmaken van stukken uit een ‘kadastrale boekhouding’ voor een ruilverkaveling bij overeenkomst, houdende registratie van de rechten en de waarden ten aanzien van de ingebrachte en toe te delen onroerende goederen van de betrokken eigenaren. Periode: 1945– Grondslag: Ruilverkavelingswet 1938 art. 7; Ruilverkavelingswet 1954 art. 8; Landinrichtingswet art. 123. Opmerking: In de praktijk wordt deze handeling in naam van de LC uitgevoerd door de ingenieur van het Kadaster die de LC bijstaat. Waardering: B 5 
 
 #### *Natuurwetenschappelijke Commissie (NWC)* 
 
@@ -3323,7 +3323,7 @@ Handeling: Het ontwerpen van (een deel van) een begrenzingenplan, met een voorst
 *BSD: 510*  Handeling: Het (mede) adviseren aan de Minister(s) van Landbouw en voor de Openluchtrecreatie inzake het goedkeuren van het ontwerp van het (gewijzigde) plan van voorzieningen Midden-Delfland, of een deel daarvan. Periode: 1979– Grondslag: Reconstructiewet Midden-Delfland art. 41.1, 45. Waardering: B 1 
 ###RIO: 402
 
-*BSD: 511*  Handeling: Het (mede) adviseren aan GS van Zuid-Holland over hun voornemen het ontwerp van het (gewijzigde) plan van voorzieningen Midden-Delfland, of een deel daarvan, vast te stellen in afwijking van het ontwerp. Periode: 1979– Grondslag: Reconstructiewet Midden-Delfland art. 44.1, 45. Waardering: B 1  
+*BSD: 511*  Handeling: Het (mede) adviseren aan GS van Zuid-Holland over hun voornemen het ontwerp van het (gewijzigde) plan van voorzieningen Midden-Delfland, of een deel daarvan, vast te stellen in afwijking van het ontwerp. Periode: 1979– Grondslag: Reconstructiewet Midden-Delfland art. 44.1, 45. Waardering: B 1 
 
 #### *Plaatselijke Commissie (PC)* 
 
@@ -3515,7 +3515,7 @@ Handeling: Het ontwerpen van (een deel van) een begrenzingenplan, met een voorst
 *BSD: 917*  Handeling: Het in eerste instantie behandelen van de bezwaren tegen de lijst van geldelijke regelingen voor een blok, alsmede het effectueren van een bezwarenbehandeling door wijziging van de lijst, dan wel vaststelling indien omtrent alle bezwaren overeenstemming is bereikt. Periode: 1955–1984 Grondslag: Ruilverkavelingswet 1954 art. 103–106; Landinrichtingswet art. 214–216, j°. 172–174, 220. Opmerking: Van 1955–1984 Plaatselijke Commissie Sinds 1985: Landinrichtingscommissie Effectuering bezwarenbehandeling kan ook zijn wijziging lijst van geldelijke regelingen op grond van de uitkomst van een bezwarenbehandeling tegen het plan van toedeling, indien dit tegelijk met de lijst ter inzage is gelegd. Waardering: B 5 
 ###RIO: 749
 
-*BSD: 918*  Handeling: Het optreden als partij bij de behandeling voor de rechter-commissaris, of als geding voor de rechtbank of in vervolg daarop voor de Hoge Raad, van de bezwaren tegen de lijst van geldelijke regelingen voor een blok. Periode: 1955–1984 Grondslag: Ruilverkavelingswet 1954 art. 107–112; Landinrichtingswet art. 216–217, j°. 175–176, 178–179, 185, 187. Opmerking: Van 1955–1984 Plaatselijke Commissie Sinds 1985: Landinrichtingscommissie Waardering: V 6 jaar na afsluiting project.  
+*BSD: 918*  Handeling: Het optreden als partij bij de behandeling voor de rechter-commissaris, of als geding voor de rechtbank of in vervolg daarop voor de Hoge Raad, van de bezwaren tegen de lijst van geldelijke regelingen voor een blok. Periode: 1955–1984 Grondslag: Ruilverkavelingswet 1954 art. 107–112; Landinrichtingswet art. 216–217, j°. 175–176, 178–179, 185, 187. Opmerking: Van 1955–1984 Plaatselijke Commissie Sinds 1985: Landinrichtingscommissie Waardering: V 6 jaar na afsluiting project. 
 
 #### *Provinciale Adviescommissie voor het Ontwikkelings- en Sanderingsfonds (PAC)* 
 
@@ -3524,19 +3524,19 @@ Handeling: Het ontwerpen van (een deel van) een begrenzingenplan, met een voorst
 *BSD: 298*  Handeling: Het besluiten of een aanvraag voor een beëindigingsvergoeding voor toekenning in aanmerking komt. Periode: 1964–1992 Grondslag: BB Ontwikkelings- en Saneringsfonds voor de Landbouw nrs. 3, 15, 28 en 106. Opmerking: Handelingen gedelegeerd aan HID Landinrichting; 1984 directeur LGK, 1989 directeur LNO. Activiteiten zijn: de aanvraag onderzoeken, toetsen aan de in de regeling genoemde uitsluitingsgronden en op grond daarvan eventueel afwijzen. In een bijzonder geval kan degene die beschikt op de aanvraag (zie onder) afwijken van het besluit. Het eindjaar van de handeling is niet precies bekend (na 1991) Waardering: V 6 jaar na einde overeenkomst. 
 ###RIO: 219
 
-*BSD: 299*  Handeling: Het besluiten of een aanvraag voor een uittredingsvergoeding voor toekenning in aanmerking komt. Periode: 1971–1992 Grondslag: BB Ontwikkelings- en Saneringsfonds voor de Landbouw nrs. 77 en 200. Opmerking: Handelingen gedelegeerd aan: HID Landinrichting; 1984 directeur LGK, 1988 directeur LNO. Activiteiten zijn: de aanvraag onderzoeken, toetsen aan de in de regeling genoemde uitsluitingsgronden en op grond daarvan eventueel afwijzen. In een bijzonder geval kan degene die beschikt op de aanvraag (zie onder) afwijken van het besluit. Het eindjaar van de handeling is niet precies bekend (na 1991) Waardering: V 6 jaar na einde overeenkomst.  
+*BSD: 299*  Handeling: Het besluiten of een aanvraag voor een uittredingsvergoeding voor toekenning in aanmerking komt. Periode: 1971–1992 Grondslag: BB Ontwikkelings- en Saneringsfonds voor de Landbouw nrs. 77 en 200. Opmerking: Handelingen gedelegeerd aan: HID Landinrichting; 1984 directeur LGK, 1988 directeur LNO. Activiteiten zijn: de aanvraag onderzoeken, toetsen aan de in de regeling genoemde uitsluitingsgronden en op grond daarvan eventueel afwijzen. In een bijzonder geval kan degene die beschikt op de aanvraag (zie onder) afwijken van het besluit. Het eindjaar van de handeling is niet precies bekend (na 1991) Waardering: V 6 jaar na einde overeenkomst. 
 
 #### *Raad van Beroep herverkaveling Walcheren* 
 
 ###RIO: 699
 
-*BSD: 854*  Handeling: Het in tweede instantie behandelen van de bezwaren tegen het plan van toedeling voor het/een blok van de herverkaveling Walcheren, resp. Zeeland, alsmede het effectueren van de uitkomst van een bezwarenbehandeling door wijziging van het plan. Periode: 1947–1967 Grondslag: Herverkavelingswet Walcheren 1947 art. 70–72; Herverkavelingswet Zeeland art. 1. Opmerking: Effectuering kan ook zijn het zo nodig wijzigen van het plan van toedeling als gevolg van de uitkomst van de behandeling in derde instantie, als geding voor de rechtbank, van een bezwaar tegen de lijst van rechthebbenden (art. 72). Het eindjaar van de handeling is niet precies bekend Waardering: B 5  
+*BSD: 854*  Handeling: Het in tweede instantie behandelen van de bezwaren tegen het plan van toedeling voor het/een blok van de herverkaveling Walcheren, resp. Zeeland, alsmede het effectueren van de uitkomst van een bezwarenbehandeling door wijziging van het plan. Periode: 1947–1967 Grondslag: Herverkavelingswet Walcheren 1947 art. 70–72; Herverkavelingswet Zeeland art. 1. Opmerking: Effectuering kan ook zijn het zo nodig wijzigen van het plan van toedeling als gevolg van de uitkomst van de behandeling in derde instantie, als geding voor de rechtbank, van een bezwaar tegen de lijst van rechthebbenden (art. 72). Het eindjaar van de handeling is niet precies bekend Waardering: B 5 
 
 #### *Raad van Beroep herverkaveling Zeeland* 
 
 ###RIO: 699
 
-*BSD: 854*  Handeling: Het in tweede instantie behandelen van de bezwaren tegen het plan van toedeling voor het/een blok van de herverkaveling Walcheren, resp. Zeeland, alsmede het effectueren van de uitkomst van een bezwarenbehandeling door wijziging van het plan. Periode: 1947–1967 Grondslag: Herverkavelingswet Walcheren 1947 art. 70–72; Herverkavelingswet Zeeland art. 1. Opmerking: Effectuering kan ook zijn het zo nodig wijzigen van het plan van toedeling als gevolg van de uitkomst van de behandeling in derde instantie, als geding voor de rechtbank, van een bezwaar tegen de lijst van rechthebbenden (art. 72). Het eindjaar van de handeling is niet precies bekend Waardering: B 5  
+*BSD: 854*  Handeling: Het in tweede instantie behandelen van de bezwaren tegen het plan van toedeling voor het/een blok van de herverkaveling Walcheren, resp. Zeeland, alsmede het effectueren van de uitkomst van een bezwarenbehandeling door wijziging van het plan. Periode: 1947–1967 Grondslag: Herverkavelingswet Walcheren 1947 art. 70–72; Herverkavelingswet Zeeland art. 1. Opmerking: Effectuering kan ook zijn het zo nodig wijzigen van het plan van toedeling als gevolg van de uitkomst van de behandeling in derde instantie, als geding voor de rechtbank, van een bezwaar tegen de lijst van rechthebbenden (art. 72). Het eindjaar van de handeling is niet precies bekend Waardering: B 5 
 
 #### *Reconstructiecommissie Midden-Delfland* 
 
@@ -3752,7 +3752,7 @@ Handeling: Het ontwerpen van (een deel van) een begrenzingenplan, met een voorst
 *BSD: 931*  Handeling: Het in eerste instantie behandelen van de bezwaren tegen de lijst van geldelijke regelingen voor het reconstructiegebied Midden-Delfland, alsmede het effectueren van een bezwarenbehandeling door wijziging van de lijst, dan wel vaststelling voor zover deze niet (meer) omstreden is. Periode: 1979– Grondslag: Reconstructiewet Midden-Delfland art. 96–100. Waardering: B 5 
 ###RIO: 779
 
-*BSD: 932*  Handeling: Het optreden als partij bij de behandeling voor de rechter-commissaris, of als geding voor de rechtbank of in vervolg daarop voor de Hoge Raad, van de bezwaren tegen de lijst van geldelijke regelingen voor het reconstructiegebied Midden-Delfland. Periode: 1979– Grondslag: Reconstructiewet Midden-Delfland art. 101–103. Waardering: V 6 jaar na afsluiting project.  
+*BSD: 932*  Handeling: Het optreden als partij bij de behandeling voor de rechter-commissaris, of als geding voor de rechtbank of in vervolg daarop voor de Hoge Raad, van de bezwaren tegen de lijst van geldelijke regelingen voor het reconstructiegebied Midden-Delfland. Periode: 1979– Grondslag: Reconstructiewet Midden-Delfland art. 101–103. Waardering: V 6 jaar na afsluiting project. 
 
 #### *Reconstructiecommissie oud glastuinbouwgebied (RCOG)* 
 
@@ -3806,19 +3806,19 @@ Handeling: Het ontwerpen van (een deel van) een begrenzingenplan, met een voorst
 *BSD: 1079*  Handeling: Het adviseren van de HID inzake een aanvraag van een gemeente of waterschap om een bijdrage in de kosten van uitvoering van de realisering van infrastructuele, landschappelijke of recreatieve voorzieningen in een oud glastuinbouwgebied. Periode: 1979– Bron: Interview Opmerking: Advisering geschiedt aan de HID/Inspecteur. LD, sinds 1989 een directeur LNO na de toetsing door de Reconstructiecommissie aan de doelstelling van het reconstructieplan Waardering: B 1 
 ###RIO: 827
 
-*BSD: 981*  Handeling: Het adviseren inzake een aanvraag van een ondernemer om een bijdrage zoals bedoeld in Titel 6, paragrafen 3–6 van de BROG/RROG. Periode: 1979– Grondslag: Beschikking reconstructie oude glastuinbouwgebieden/Regeling reconstructie oude glastuinbouwgebieden art. 27. Opmerking: Advisering geschiedt aan de HID/Inspecteur Landinrichting, sinds 1989 een directeur LNO. Waardering: B 1  
+*BSD: 981*  Handeling: Het adviseren inzake een aanvraag van een ondernemer om een bijdrage zoals bedoeld in Titel 6, paragrafen 3–6 van de BROG/RROG. Periode: 1979– Grondslag: Beschikking reconstructie oude glastuinbouwgebieden/Regeling reconstructie oude glastuinbouwgebieden art. 27. Opmerking: Advisering geschiedt aan de HID/Inspecteur Landinrichting, sinds 1989 een directeur LNO. Waardering: B 1 
 
 #### *Schattingscommissie als bedoeld in de Herinrichtingswet Oost-Groningen* 
 
 ###RIO: 787
 
-*BSD: 941*  Handeling: Het voorbereiden en uitvoeren van de schatting van de verkoopwaarde van de stadsmeierrechten in een deelgebied van het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 104. Waardering: B 5  
+*BSD: 941*  Handeling: Het voorbereiden en uitvoeren van de schatting van de verkoopwaarde van de stadsmeierrechten in een deelgebied van het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 104. Waardering: B 5 
 
 #### *Snelcommissie herverkaveling Walcheren* 
 
 ###RIO: 78
 
-*BSD: 86*  Handeling: Het opstellen van doelstellingen en voornemens met betrekking tot de aanpak van de herverkaveling Walcheren. Periode: 1945 Bron: Jaarverslagen CCC en CD en HCW. Waardering: B 6  
+*BSD: 86*  Handeling: Het opstellen van doelstellingen en voornemens met betrekking tot de aanpak van de herverkaveling Walcheren. Periode: 1945 Bron: Jaarverslagen CCC en CD en HCW. Waardering: B 6 
 
 #### *Stichting Beheer Landbouwgronden (SBL)* 
 
@@ -3908,7 +3908,7 @@ Handeling: Het ontwerpen van (een deel van) een begrenzingenplan, met een voorst
 *BSD: 1047*  Handeling: Het verwerven van gronden in een te reconstrueren oud glastuinbouwgebied. Periode: 1979–1982 Grondslag: Beschikking reconstructie oude glastuinbouwgebieden/Regeling reconstructie oude glastuinbouwgebieden Titel 6, par. 2. Opmerking: Van 1979–1982 Stichting Beheer Landbouwgronden Sinds 1983 Bureau Beheer Landbouwgronden Waardering: V 6 jaar na vervreemding. 
 ###RIO: 888
 
-*BSD: 1077*  Handeling: Het beheren van verworven grond tijdens de voorbereiding en uitvoering van de reconstructie van een oud glastuinbouwgebied. Periode: 1979–1982 Grondslag: Beschikking reconstructie oude glastuinbouwgebieden art. 30 en de toelichting bij deze beschikking Opmerking: Van 1979–1982 Stichting Beheer Landbouwgronden Sinds 1983 Bureau Beheer Landbouwgronden Waardering: V 6 jaar na einde bezit.  
+*BSD: 1077*  Handeling: Het beheren van verworven grond tijdens de voorbereiding en uitvoering van de reconstructie van een oud glastuinbouwgebied. Periode: 1979–1982 Grondslag: Beschikking reconstructie oude glastuinbouwgebieden art. 30 en de toelichting bij deze beschikking Opmerking: Van 1979–1982 Stichting Beheer Landbouwgronden Sinds 1983 Bureau Beheer Landbouwgronden Waardering: V 6 jaar na einde bezit. 
 
 #### *Stichting Ontwikkelings- en Saneringsfonds voor de Landbouw (O&S-fonds Landbouw)* 
 
@@ -3935,7 +3935,7 @@ Handeling: Het ontwerpen van (een deel van) een begrenzingenplan, met een voorst
 *BSD: 1059*  Handeling: Het beschikken op een aanvraag ingevolge de Bijdrageregeling bekalking kleigronden in Groningen van het O&S-fonds. Periode: 1970–1972 Grondslag: Bestuursbesluit Ontwikkelings- en Saneringsfonds voor de Landbouw nr. 70. Opmerking: Gedelegeerd aan HID Cultuurtechnische Dienst/LaGroBo Waardering: V 6 jaar 
 ###RIO: 868
 
-*BSD: 1053*  Handeling: Het effectueren van de toekenning van een bijdrage ingevolge de Bijdrageregeling bekalking kleigronden van het O&S-fonds. Periode: 1970–1972 Grondslag: Bestuursbesluit Ontwikkelings- en Saneringsfonds voor de Landbouw nr. 70. Opmerking: Gedelegeerd aan directeur Cultuurtechnische Dienst. Waardering: V 6 jaar  
+*BSD: 1053*  Handeling: Het effectueren van de toekenning van een bijdrage ingevolge de Bijdrageregeling bekalking kleigronden van het O&S-fonds. Periode: 1970–1972 Grondslag: Bestuursbesluit Ontwikkelings- en Saneringsfonds voor de Landbouw nr. 70. Opmerking: Gedelegeerd aan directeur Cultuurtechnische Dienst. Waardering: V 6 jaar 
 
 #### *Voorbereidingscommissie (VC)* 
 
@@ -3971,7 +3971,7 @@ Handeling: Het ontwerpen van (een deel van) een begrenzingenplan, met een voorst
 *BSD: 557*  Handeling: Het opstellen ten behoeve van GS van een lijst van hen die een aan de wettelijke vereisten voldoend verzoek hebben ingediend om als pachter geregistreerd te worden voor een stemming over ruilverkaveling. Periode: 1975–1986 Grondslag: Ruilverkavelingswet 1954, gew. 1975, 34d.7. Opmerking: Het eindjaar van de handeling is niet precies bekend (na 1985) Waardering: V 6 jaar na afsluiting project. 
 ###RIO: 435
 
-*BSD: 558*  Handeling: Het opstellen ten behoeve van GS van een lijst van hen die als pachter zijn geregistreerd voor een stemming over ruilverkaveling. Periode: 1975–1986 Grondslag: Ruilverkavelingswet 1954, gew. 1975, art. 34h. Opmerking: Het eindjaar van de handeling is niet precies bekend (na 1985) Waardering: V 6 jaar na afsluiting project.  
+*BSD: 558*  Handeling: Het opstellen ten behoeve van GS van een lijst van hen die als pachter zijn geregistreerd voor een stemming over ruilverkaveling. Periode: 1975–1986 Grondslag: Ruilverkavelingswet 1954, gew. 1975, art. 34h. Opmerking: Het eindjaar van de handeling is niet precies bekend (na 1985) Waardering: V 6 jaar na afsluiting project. 
 
 ####Deel 3. Handelingen van overige actoren
 
@@ -4000,7 +4000,7 @@ Handeling: Het ontwerpen van (een deel van) een begrenzingenplan, met een voorst
 *BSD: 695*  Handeling: Het optreden inzake een Kroonberoep van een openbaar lichaam tegen de financiële regeling van de overgang van eigendom, beheer en onderhoud van aan de gemeente Groningen toebehorende en buiten deze gemeente gelegen wegen en kanalen met de daartoe behorende kunstwerken. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 78.2. Waardering: B 6 
 ###RIO: 788
 
-*BSD: 956*  Handeling: Het vaststellen van een rentevoet, op grond waarvan de gekapitaliseerde waarde van de jaarlijkse inkomsten van de gemeente Groningen uit de stadsmeierrechten in het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën wordt vastgesteld. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 101.3. Opmerking: Geschiedt gehoord de gemeente Groningen. Waardering: B 1  
+*BSD: 956*  Handeling: Het vaststellen van een rentevoet, op grond waarvan de gekapitaliseerde waarde van de jaarlijkse inkomsten van de gemeente Groningen uit de stadsmeierrechten in het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën wordt vastgesteld. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 101.3. Opmerking: Geschiedt gehoord de gemeente Groningen. Waardering: B 1 
 
 #### *Minister van Financiën* 
 
@@ -4069,7 +4069,7 @@ Handeling: Het ontwerpen van (een deel van) een begrenzingenplan, met een voorst
 *BSD: 953*  Handeling: Het vaststellen van een rentevoet, op grond waarvan de gekapitaliseerde waarde van de jaarlijkse inkomsten van de gemeente Groningen uit de stadsmeierrechten in het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën wordt vastgesteld. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 101.3. Opmerking: Geschiedt gehoord de gemeente Groningen. Waardering: B 1 
 ###RIO: 799
 
-*BSD: 955*  Handeling: Het voorbereiden van de totstandkoming, wijziging of intrekking van een AMvB, houdende nadere, zo nodig afwijkende regelen voor de invordering van de bedragen ex Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 102, verschuldigd wegens de omzetting van stadsmeierrechten in eigendomsrechten in het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 135.2. Waardering: B 1  
+*BSD: 955*  Handeling: Het voorbereiden van de totstandkoming, wijziging of intrekking van een AMvB, houdende nadere, zo nodig afwijkende regelen voor de invordering van de bedragen ex Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 102, verschuldigd wegens de omzetting van stadsmeierrechten in eigendomsrechten in het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 135.2. Waardering: B 1 
 
 #### *Minister van Financiën/Belastingdienst* 
 
@@ -4081,7 +4081,7 @@ Handeling: Het ontwerpen van (een deel van) een begrenzingenplan, met een voorst
 *BSD: 952*  Handeling: Het op verzoek van een eigenaar ineens invorderen van de overige bedragen, bedoeld in Reconstructiewet Midden-Delfland art. 107.2, door hem verschuldigd volgens de lijst van geldelijke regelingen voor het reconstructiegebied Midden-Delfland. Periode: 1979– Grondslag: Reconstructiewet Midden-Delfland art. 107.2. Waardering: V 5 jaar na afdoening 
 ###RIO: 797
 
-*BSD: 954*  Handeling: Het op verzoek van een eigenaar ineens invorderen van de bedragen, door hem verschuldigd volgens de lijst der geldelijke regelingen voor een blok van het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 126. Waardering: V 5 jaar na afdoening  
+*BSD: 954*  Handeling: Het op verzoek van een eigenaar ineens invorderen van de bedragen, door hem verschuldigd volgens de lijst der geldelijke regelingen voor een blok van het herinrichtingsgebied Oost-Groningen en de Gronings-Drentse Veenkoloniën. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 126. Waardering: V 5 jaar na afdoening 
 
 #### *Minister van Verkeer en Waterstaat (V&W)* 
 
@@ -4138,7 +4138,7 @@ Handeling: Het al dan niet goedkeuren van de toewijzing of onttrekking aan het R
 *BSD: 698*  Handeling: Het vaststellen van een financiële regeling voor de overgang van de eigendom en het beheer en onderhoud van de aan de gemeente Groningen toebehorende en buiten deze gemeente gelegen wegen en kanalen met de daartoe behorende kunstwerken. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 74.5, 78.1. Waardering: B 1 
 ###RIO: 571
 
-*BSD: 699*  Handeling: Het optreden inzake een Kroonberoep van een openbaar lichaam tegen de financiële regeling van de overgang van eigendom, beheer en onderhoud van aan de gemeente Groningen toebehorende en buiten deze gemeente gelegen wegen en kanalen met de daartoe behorende kunstwerken. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 78.2. Waardering: B 1  
+*BSD: 699*  Handeling: Het optreden inzake een Kroonberoep van een openbaar lichaam tegen de financiële regeling van de overgang van eigendom, beheer en onderhoud van aan de gemeente Groningen toebehorende en buiten deze gemeente gelegen wegen en kanalen met de daartoe behorende kunstwerken. Periode: 1979– Grondslag: Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën art. 78.2. Waardering: B 1 
 
 #### *Minister van Volkshuisvesting Ruimtelijke Ordening en Milieubeheer (VROM)* 
 
@@ -4231,5 +4231,5 @@ Handeling: Het al dan niet goedkeuren van de toewijzing of onttrekking aan het R
 *BSD: 692*  Handeling: Het voeren van de procedure leidend tot een voorstel voor een nutswet ter onteigening van gronden in het reconstructiegebied Midden-Delfland, als bedoeld in Onteigeningswet art. 5 t/⁠m 9. Periode: 1970–1979 Grondslag: Besluit Ministerraad 27-02-1970. Opmerking: De handeling betreft dus niet het maken van het wetsvoorstel voor de Reconstructiewet Midden-Delfland, maar slechts de daarmee parallel lopende formele procedure volgens de genoemde artikelen van de Onteigeningswet. Waardering: B 5 
 ###RIO: 625
 
-*BSD: 802*  Handeling: Het voorbereiden van een Kb, waarbij de grens van het reconstructiegebied Midden-Delfland wordt gewijzigd. Periode: 1979– Grondslag: Opmerking: Reconstructiewet Midden-Delfland art. 1. De Minister van VROM heeft een coördinerende rol Waardering: B 5  
+*BSD: 802*  Handeling: Het voorbereiden van een Kb, waarbij de grens van het reconstructiegebied Midden-Delfland wordt gewijzigd. Periode: 1979– Grondslag: Opmerking: Reconstructiewet Midden-Delfland art. 1. De Minister van VROM heeft een coördinerende rol Waardering: B 5 
 

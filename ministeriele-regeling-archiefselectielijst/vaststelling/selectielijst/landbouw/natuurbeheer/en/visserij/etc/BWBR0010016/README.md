@@ -1,12 +1,12 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Vaststelling selectielijst Landbouw, Natuurbeheer en Visserij (beleidsterrein Agrarisch Onderwijs)
+##Vaststelling selectielijst Landbouw, Natuurbeheer en Visserij (beleidsterrein Agrarisch Onderwijs) 
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen en de Minister van Landbouw, Natuurbeheer en Visserij;  
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
 
 De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 1 september 1997, nr. arc-97.6796/1);
-Besluiten:    
+Besluiten:     
 
 ### Artikel  1  
 
@@ -18,14 +18,14 @@ In te trekken de categorie Onderwijs (1.851) nummer 108 en 109 van de ’Lijst v
 
 ### Artikel  3  
 
-Dit besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het is gepubliceerd.  
+Dit besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het is gepubliceerd. 
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, 
 
 namens deze, 
 
-M.W. vanBoven, 
+M.W. vanBoven , 
 algemeen rijksarchivaris 
 
 De 
@@ -33,5 +33,5 @@ Minister van Landbouw, Natuurbeheer en Visserij,
 
 namens deze, 
 
-M.H.Wunderink, 
+M.H.Wunderink , 
 directeur Facilitaire Dienst    

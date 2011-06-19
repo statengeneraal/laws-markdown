@@ -2,228 +2,228 @@
 
 ##Hotelclassificatiebesluit 2003
 
-Het bestuur van het Bedrijfschap voor het Hotel-, het Restaurant-, het Café- en het Pension- en Kamerverhuurbedrijf en Aanverwante Bedrijven,  
+Het bestuur van het Bedrijfschap voor het Hotel-, het Restaurant-, het Café- en het Pension- en Kamerverhuurbedrijf en Aanverwante Bedrijven,
 Gelet op [artikel 6, eerste lid, van de verordening Nederlandse Hotelclassificatie Bedrijfschap Horeca en Catering 2003](../../../../pbo/verordening/nederlandse/hotelclassificatie/bedrijfschap/horeca/en/catering/etc/BWBR0015272/README.md),
-Besluit vast te stellen; Hotel Classificatiebesluit    
+Besluit vast te stellen; Hotel Classificatiebesluit
 
-### Artikel  1  
+###Artikel 1 
 
 ####Definities
 
-In dit besluit wordt verstaan onder:  
+In dit besluit wordt verstaan onder:
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
-| a.  | verordening  | :  | [Verordening Nederlandse Hotelclassificatie Bedrijfschap Horeca en Catering 2003](../../../../pbo/verordening/nederlandse/hotelclassificatie/bedrijfschap/horeca/en/catering/etc/BWBR0015272/README.md);  |
-| b.  | hotelclassificatieregister  | :  | het hotelclassificatieregister, genoemd in [artikel 2 van de verordening](../../../../pbo/verordening/nederlandse/hotelclassificatie/bedrijfschap/horeca/en/catering/etc/BWBR0015272/README.md)  |
-| c.  | beoordelingen  | :  | beoordelingen, bedoeld in de [artikelen 3](../../../../pbo/verordening/nederlandse/hotelclassificatie/bedrijfschap/horeca/en/catering/etc/BWBR0015272/README.md), [5](../../../../pbo/verordening/nederlandse/hotelclassificatie/bedrijfschap/horeca/en/catering/etc/BWBR0015272/README.md) en [7 van de verordening](../../../../pbo/verordening/nederlandse/hotelclassificatie/bedrijfschap/horeca/en/catering/etc/BWBR0015272/README.md):  |
-| d.  | indeling  | :  | een indeling of een voorlopige indeling in een van de vijf categorieën van het hotelclassificatieregister, als bedoeld in de verordening;  |
-| e.  | onderneming  | :  | onderneming waarvoor het Bedrijfschap is ingesteld;  |
-| f.  | logiesverstrekkende onderneming  | :  | een onderneming, als bedoeld in [artikel 1 van de verordening](../../../../pbo/verordening/nederlandse/hotelclassificatie/bedrijfschap/horeca/en/catering/etc/BWBR0015272/README.md)  |
+|a. |verordening  |: |[Verordening Nederlandse Hotelclassificatie Bedrijfschap Horeca en Catering 2003](../../../../pbo/verordening/nederlandse/hotelclassificatie/bedrijfschap/horeca/en/catering/etc/BWBR0015272/README.md); |
+|b. |hotelclassificatieregister |: |het hotelclassificatieregister, genoemd in [artikel 2 van de verordening](../../../../pbo/verordening/nederlandse/hotelclassificatie/bedrijfschap/horeca/en/catering/etc/BWBR0015272/README.md) |
+|c. |beoordelingen |: |beoordelingen, bedoeld in de [artikelen 3](../../../../pbo/verordening/nederlandse/hotelclassificatie/bedrijfschap/horeca/en/catering/etc/BWBR0015272/README.md), [5](../../../../pbo/verordening/nederlandse/hotelclassificatie/bedrijfschap/horeca/en/catering/etc/BWBR0015272/README.md) en [7 van de verordening](../../../../pbo/verordening/nederlandse/hotelclassificatie/bedrijfschap/horeca/en/catering/etc/BWBR0015272/README.md): |
+|d. |indeling  |: |een indeling of een voorlopige indeling in een van de vijf categorieën van het hotelclassificatieregister, als bedoeld in de verordening; |
+|e. |onderneming |: |onderneming waarvoor het Bedrijfschap is ingesteld; |
+|f. |logiesverstrekkende onderneming |: |een onderneming, als bedoeld in [artikel 1 van de verordening](../../../../pbo/verordening/nederlandse/hotelclassificatie/bedrijfschap/horeca/en/catering/etc/BWBR0015272/README.md) |
 
-### Artikel  2  
+###Artikel 2 
 
 ####Beoordelingen
 
-Beoordelingen ten behoeve van een indeling, alsmede ten behoeve van een periodieke controle van een categorie- indeling, vinden plaats op grond van de criteria gesteld in dit besluit.  
+Beoordelingen ten behoeve van een indeling, alsmede ten behoeve van een periodieke controle van een categorie- indeling, vinden plaats op grond van de criteria gesteld in dit besluit.
 
-### Artikel  3  
+###Artikel 3 
 
 ####Categorie één
 
-Voor indeling in categorie één van het hotelclassificatieregister moet een logiesverstrekkende onderneming voldoen aan alle basisnormen, zoals opgenomen in bijlage 1 bij dit besluit.  
+Voor indeling in categorie één van het hotelclassificatieregister moet een logiesverstrekkende onderneming voldoen aan alle basisnormen, zoals opgenomen in bijlage 1 bij dit besluit.
 
-### Artikel  4  
+###Artikel 4 
 
 ####Categorie twee
 
 1.  Voor indeling in categorie twee van het hotelclassificatieregister moet een logiesverstrekkende onderneming voldoen aan alle basisnormen, zoals opgenomen in bijlage 2a bij dit besluit.   
-2.  Voor indeling in categorie twee van het hotelclassificatieregister moet een logiesverstrekkende onderneming bovendien aan meerdere facultatieve normen voldoen, zoals opgenomen in bijlage 2b bij dit besluit. Per norm waaraan aldus wordt voldaan wordt een een bij de betreffende norm vermeld aantal punten gescoord. Er moeten minimaal 45 punten worden gescoord voor indeling in categorie twee.   
+2.  Voor indeling in categorie twee van het hotelclassificatieregister moet een logiesverstrekkende onderneming bovendien aan meerdere facultatieve normen voldoen, zoals opgenomen in bijlage 2b bij dit besluit. Per norm waaraan aldus wordt voldaan wordt een een bij de betreffende norm vermeld aantal punten gescoord. Er moeten minimaal 45 punten worden gescoord voor indeling in categorie twee.  
 
-### Artikel  5  
+###Artikel 5 
 
 ####Categorie drie
 
 1.  Voor indeling in categorie drie van het hotelclassificatieregister moet een logiesverstrekkende onderneming voldoen aan alle basisnormen, zoals opgenomen in bijlage 3a bij dit besluit.   
-2.  Voor indeling in categorie twee van het hotelclassificatieregister moet een logiesverstrekkende onderneming bovendien aan meerdere facultatieve normen voldoen, zoals opgenomen in bijlage 3b bij dit besluit. Per norm waaraan aldus wordt voldaan wordt een een bij de betreffende norm vermeld aantal punten gescoord. Er moeten minimaal 51 punten worden gescoord voor indeling in categorie drie.   
+2.  Voor indeling in categorie twee van het hotelclassificatieregister moet een logiesverstrekkende onderneming bovendien aan meerdere facultatieve normen voldoen, zoals opgenomen in bijlage 3b bij dit besluit. Per norm waaraan aldus wordt voldaan wordt een een bij de betreffende norm vermeld aantal punten gescoord. Er moeten minimaal 51 punten worden gescoord voor indeling in categorie drie.  
 
-### Artikel  6  
+###Artikel 6 
 
 ####Categorie vier
 
 1.  Voor indeling in categorie vier van het hotelclassificatieregister moet een logiesverstrekkende onderneming voldoen aan alle basisnormen, zoals opgenomen in bijlage 4a bij dit besluit.   
-2.  Voor indeling in categorie twee van het hotelclassificatieregister moet een logiesverstrekkende onderneming bovendien aan meerdere facultatieve normen voldoen, zoals opgenomen in bijlage 4b bij dit besluit. Per norm waaraan aldus wordt voldaan wordt een een bij de betreffende norm vermeld aantal punten gescoord. Er moeten minimaal 73 punten worden gescoord voor indeling in categorie vier.   
+2.  Voor indeling in categorie twee van het hotelclassificatieregister moet een logiesverstrekkende onderneming bovendien aan meerdere facultatieve normen voldoen, zoals opgenomen in bijlage 4b bij dit besluit. Per norm waaraan aldus wordt voldaan wordt een een bij de betreffende norm vermeld aantal punten gescoord. Er moeten minimaal 73 punten worden gescoord voor indeling in categorie vier.  
 
-### Artikel  7  
+###Artikel 7 
 
 ####Categorie vijf
 
 1.  Voor indeling in categorie vijf van het hotelclassificatieregister moet een logiesverstrekkende onderneming voldoen aan alle basisnormen, zoals opgenomen in bijlage 5a bij dit besluit.   
-2.  Voor indeling in categorie twee van het hotelclassificatieregister moet een logiesverstrekkende onderneming bovendien aan meerdere facultatieve normen voldoen, zoals opgenomen in bijlage 5b bij dit besluit. Per norm waaraan aldus wordt voldaan wordt een een bij de betreffende norm vermeld aantal punten gescoord. Er moeten minimaal 90 punten worden gescoord voor indeling in categorie vijf.   
+2.  Voor indeling in categorie twee van het hotelclassificatieregister moet een logiesverstrekkende onderneming bovendien aan meerdere facultatieve normen voldoen, zoals opgenomen in bijlage 5b bij dit besluit. Per norm waaraan aldus wordt voldaan wordt een een bij de betreffende norm vermeld aantal punten gescoord. Er moeten minimaal 90 punten worden gescoord voor indeling in categorie vijf.  
 
-### Artikel  8  
+###Artikel 8 
 
 ####Indelingen
 
-1.  Een logiesverstrekkende onderneming kan slechts in één categorie van het hotelclassificatieregister worden ingedeeld.   
-2.  Indeling vindt plaats in de hoogste categorie waaraan een logiesverstrekkende onderneming blijkens de beoordeling volledig voldoet.   
+1. Een logiesverstrekkende onderneming kan slechts in één categorie van het hotelclassificatieregister worden ingedeeld.
+2. Indeling vindt plaats in de hoogste categorie waaraan een logiesverstrekkende onderneming blijkens de beoordeling volledig voldoet.
 
-### Artikel  9  
+###Artikel 9 
 
 ####Slotartikel
 
-1.  Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
-2.  Dit besluit treedt in werking met ingang van 15 december 2003   
-3.  Dit besluit kan worden aangehaald als: Hotelclassificatiebesluit 2003.   
+1. Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.
+2. Dit besluit treedt in werking met ingang van 15 december 2003
+3. Dit besluit kan worden aangehaald als: Hotelclassificatiebesluit 2003.
 
-Zoetermeer 
-3 december 2003    
+Zoetermeer
+3 december 2003
 
-P.J. Biesheuvel  
-voorzitter  
+P.J.Biesheuvel
+voorzitter
 
-J.G. Vianen  
-secretaris    
+J.G.Vianen
+secretaris
 
-### Bijlage  1  
+###Bijlage 1 
 
-Hieronder volgen de basisnormen voor indeling in categorie één van het hotelclassificatieregister als bedoeld in artikel 3. 
+Hieronder volgen de basisnormen voor indeling in categorie één van het hotelclassificatieregister als bedoeld in artikel 3.
 
 ####Hotelkamer
 
-Veiligheid en privacy in de kamer 
+Veiligheid en privacy in de kamer
 
 | --- | --- |
 |:---|:---|
-| 100  | Alle kamers met eigen ingang.  |
-| 101  | Duidelijke aanduidingen aan de buitenkant van alle kamers door nummer, naam of letter, etc.  |
-| 102  | Mogelijkheid tot afsluiten van de kamerdeur in alle kamers.  |
-| 105  | Voorzieningen om inkijk te voorkomen (vitrage of soortgelijke voorziening) in alle kamers.  |
+|100 |Alle kamers met eigen ingang. |
+|101 |Duidelijke aanduidingen aan de buitenkant van alle kamers door nummer, naam of letter, etc. |
+|102 |Mogelijkheid tot afsluiten van de kamerdeur in alle kamers. |
+|105 |Voorzieningen om inkijk te voorkomen (vitrage of soortgelijke voorziening) in alle kamers. |
 
-Verlichting en elektra in de kamer 
-
-| --- | --- |
-|:---|:---|
-| 200  | Algemene verlichting in alle kamers.  |
-| 201  | Bij de ingang van alle kamers moet een schakelaar zitten voor de verlichting.  |
-| 202  | Verlichting geschikt om bij te lezen in bed, per slaapplaats te bedienen vanuit bed, in alle kamers.  |
-
-Daglicht in de kamer 
+Verlichting en elektra in de kamer
 
 | --- | --- |
 |:---|:---|
-| 400  | Tenminste één doorzichtig raam opz ichthoogte met daglicht in alle kamers.  |
-| 401  | Overgordijnen of soortgelijke voorziening in alle kamers.  |
+|200 | Algemene verlichting in alle kamers. |
+|201 |Bij de ingang van alle kamers moet een schakelaar zitten voor de verlichting. |
+|202 |Verlichting geschikt om bij te lezen in bed, per slaapplaats te bedienen vanuit bed, in alle kamers.  |
 
-Luchtbehandeling in de kamer 
-
-| --- | --- |
-|:---|:---|
-| 500  | In alle kamers een, per kamer individueel regelbare, verwarming.  |
-| 501  | In alle kamers kan of een raam of rooster open of er is een luchtverversingssysteem.  |
-
-Bed en meubilair in de kamer 
+Daglicht in de kamer
 
 | --- | --- |
 |:---|:---|
-| 600  | Bed of bedden naar rato van het aantal slaapplaatsen met matras, kussen en bijbehorend beddengoed in alle kamers.  |
-| 601  | Extra deken (of dekbed) en kussen op verzoek.  |
-| 605  | Een zitplaats per logerende gast in alle kamers. Bij gebruik van een kamer door meer dan twee gasten volstaan twee zitplaatsen.  |
-| 607  | Een tafel en bijpassende stoel (die als één zitplaats wordt gerekend) in alle kamers.  |
-| 611  | Prullenbak in alle kamers.  |
+|400 |Tenminste één doorzichtig raam opz ichthoogte met daglicht in alle kamers. |
+|401 |Overgordijnen of soortgelijke voorziening in alle kamers. |
 
-Kleding en bagage opbergen in de kamer 
+Luchtbehandeling in de kamer
 
 | --- | --- |
 |:---|:---|
-| 701  | Hang-/legkast of een vergelijkbare voorziening voor het opbergen van kleding in alle kamers.  |
+|500 |In alle kamers een, per kamer individueel regelbare, verwarming. |
+|501 |In alle kamers kan of een raam of rooster open of er is een luchtverversingssysteem. |
 
-Wastafel in de kamer 
+Bed en meubilair in de kamer
 
 | --- | --- |
 |:---|:---|
-| 1100  | Wastafel met warm en koud stromend water en zeep in alle kamers.  |
-| 1101  | Wastafelspiegel in alle kamers.  |
-| 1102  | Plaatsingsmogelijkheid voor toiletartikelen of toilettas in alle kamers.  |
-| 1103  | Wastafelverlichting in alle kamers.  |
-| 1104  | Bij de wastafelspiegel een (scheer)stopcontact in alle kamers.  |
-| 1105  | Eén handdoek en één badhanddoek per persoon in alle kamers.  |
-| 1107  | Een beker of glas per persoon in alle kamers.  |
+|600 |Bed of bedden naar rato van het aantal slaapplaatsen met matras, kussen en bijbehorend beddengoed in alle kamers. |
+|601 |Extra deken (of dekbed) en kussen op verzoek. |
+|605 |Een zitplaats per logerende gast in alle kamers. Bij gebruik van een kamer door meer dan twee gasten volstaan twee zitplaatsen. |
+|607 |Een tafel en bijpassende stoel (die als één zitplaats wordt gerekend) in alle kamers. |
+|611 |Prullenbak in alle kamers. |
+
+Kleding en bagage opbergen in de kamer
+
+| --- | --- |
+|:---|:---|
+|701 |Hang-/legkast of een vergelijkbare voorziening voor het opbergen van kleding in alle kamers. |
+
+Wastafel in de kamer
+
+| --- | --- |
+|:---|:---|
+|1100 |Wastafel met warm en koud stromend water en zeep in alle kamers. |
+|1101 |Wastafelspiegel in alle kamers. |
+|1102 |Plaatsingsmogelijkheid voor toiletartikelen of toilettas in alle kamers. |
+|1103 |Wastafelverlichting in alle kamers. |
+|1104 |Bij de wastafelspiegel een (scheer)stopcontact in alle kamers. |
+|1105 |Eén handdoek en één badhanddoek per persoon in alle kamers. |
+|1107 |Een beker of glas per persoon in alle kamers. |
 
 ####Gemeenschappelijke sanitaire voorzieningen in het hotel
 
-Gemeenschappelijke WC 
+Gemeenschappelijke WC
 
 | --- | --- |
 |:---|:---|
-| 1300  | In het voor overnachting bestemde deel van het bedrijf dient op dezelfde etage, of een niveau hoger of lager, ten minste één wc per 10 kamers (of deel daarvan) die niet over een eigen wc beschikken te zijn. Deze wc beschikt over een kledinghaak, voortdurend beschikbaar stromend water, luchtverversing en verlichting en duidelijk is afgescheiden van de gemeenschappelijke badgelegenheid als bedoeld in norm 1400.  |
-| 1301  | Afvalbak met klep of deksel.  |
-| 1302  | Wastafel, zeep en voorziening om handen te drogen.  |
+|1300 |In het voor overnachting bestemde deel van het bedrijf dient op dezelfde etage, of een niveau hoger of lager, ten minste één wc per 10 kamers (of deel daarvan) die niet over een eigen wc beschikken te zijn. Deze wc beschikt over een kledinghaak, voortdurend beschikbaar stromend water, luchtverversing en verlichting en duidelijk is afgescheiden van de gemeenschappelijke badgelegenheid als bedoeld in norm 1400. |
+|1301 |Afvalbak met klep of deksel. |
+|1302 |Wastafel, zeep en voorziening om handen te drogen. |
 
-Gemeenschappelijke badgelegenheid 
+Gemeenschappelijke badgelegenheid
 
 | --- | --- |
 |:---|:---|
-| 1400  | In het voor overnachting bestemde deel van het bedrijf dient ten minste één gemeenschappelijke badgelegenheid per 10 kamers (of deel daarvan) die niet over een privé-badgelegenheid beschikken als bedoeld in norm 1200* te zijn. Deze badgelegenheid beschikt over voortdurend beschikbaar warm en koud stromend water, een zitgelegenheid, luchtverversing en verlichting en is duidelijk afgescheiden van het gemeenschappelijk toilet als bedoeld in norm 1300.  |
-| 1401  | Handgreep voor in- en uitstappen in bad in de gemeenschappelijke badgelegenheid, indien bad aanwezig.  |
-| 1402  | Vanuit de badgelegenheid te bereiken voorziening voor het plaatsen van zeep of flacons.  |
-| 1403  | Voorziening om kleding op te hangen buiten bereik van water.  |
-| 1404  | Handdoekenrek.  |
-| 1405  | Spiegel.  |
-| 1406  | Handgreep voor in- en uitstappen in bad in alle kamers die beschikken over privé-bad als bedoeld in norm 1200*.  |
+|1400 |In het voor overnachting bestemde deel van het bedrijf dient ten minste één gemeenschappelijke badgelegenheid per 10 kamers (of deel daarvan) die niet over een privé-badgelegenheid beschikken als bedoeld in norm 1200* te zijn. Deze badgelegenheid beschikt over voortdurend beschikbaar warm en koud stromend water, een zitgelegenheid, luchtverversing en verlichting en is duidelijk afgescheiden van het gemeenschappelijk toilet als bedoeld in norm 1300. |
+|1401 |Handgreep voor in- en uitstappen in bad in de gemeenschappelijke badgelegenheid, indien bad aanwezig. |
+|1402 |Vanuit de badgelegenheid te bereiken voorziening voor het plaatsen van zeep of flacons. |
+|1403 |Voorziening om kleding op te hangen buiten bereik van water. |
+|1404 |Handdoekenrek. |
+|1405 |Spiegel. |
+|1406 |Handgreep voor in- en uitstappen in bad in alle kamers die beschikken over privé-bad als bedoeld in norm 1200*. |
 
 ####Algemene voorzieningen in het hotel
 
-Telecommunicatie in het hotel 
+Telecommunicatie in het hotel
 
 | --- | --- |
 |:---|:---|
-| 1600  | Mogelijkheid om op verzoek in het hotel gebruik te maken van een telefoon.  |
+|1600 |Mogelijkheid om op verzoek in het hotel gebruik te maken van een telefoon. |
 
-Vervoer, toegang, assistentie, bereikbaarheid in het hotel 
-
-| --- | --- |
-|:---|:---|
-| 1700  | Gasten moeten een functionaris van het hotel 24u/24u kunnen bereiken.  |
-
-Receptie 
+Vervoer, toegang, assistentie, bereikbaarheid in het hotel
 
 | --- | --- |
 |:---|:---|
-| 1900  | Ingecheckte gasten moeten gedurende 24u/24u toegang hebben tot het hotel.  |
-| 1901  | Bij het receptiepersoneel is talenkennis aanwezig.  |
+|1700 |Gasten moeten een functionaris van het hotel 24u/24u kunnen bereiken. |
+
+Receptie
+
+| --- | --- |
+|:---|:---|
+|1900 |Ingecheckte gasten moeten gedurende 24u/24u toegang hebben tot het hotel. |
+|1901 |Bij het receptiepersoneel is talenkennis aanwezig. |
 
 ####Eten en drinken in het hotel
 
-Verkrijgbaarheid ontbijt 
+Verkrijgbaarheid ontbijt
 
 | --- | --- |
 |:---|:---|
-| 2100  | Mogelijkheld tot het verkrijgen van een ontbijt.  |
+|2100 |Mogelijkheld tot het verkrijgen van een ontbijt. |
 
 ####Properheld en onderhoud
 
 | --- | --- |
 |:---|:---|
-| 2800  | De slaapkamer, het sanitair en de gemeenschappelijke ruimten in het hotel zijn proper.  |
-| 2801  | De slaapkamer, het sanitair en de gemeenschappelijke ruimten in het hotel verkeren in voldoende staat van onderhoud.  |
+|2800 |De slaapkamer, het sanitair en de gemeenschappelijke ruimten in het hotel zijn proper. |
+|2801 |De slaapkamer, het sanitair en de gemeenschappelijke ruimten in het hotel verkeren in voldoende staat van onderhoud. |
 
 ####Gastvrijheid en gasttevredenheid
 
 | --- | --- |
 |:---|:---|
-| 2900  | De gastvrijheid en dienstbaarheid voldoen aan realistische verwachtingen van gasten.  |
-| 2901  | Klachten van gasten worden geregistreerd en correct afgehandeld.  |
-| 2902  | Gasten krijgen op verzoek inzage in de classificatienormen op basis waarvan aan het hotel sterren zijn toegekend.  |
-| 2903  | Gasten krijgen op verzoek bij de receptie een gastenenquêteformulier van het hotel.  |
+|2900 |De gastvrijheid en dienstbaarheid voldoen aan realistische verwachtingen van gasten. |
+|2901 |Klachten van gasten worden geregistreerd en correct afgehandeld. |
+|2902 |Gasten krijgen op verzoek inzage in de classificatienormen op basis waarvan aan het hotel sterren zijn toegekend. |
+|2903 |Gasten krijgen op verzoek bij de receptie een gastenenquêteformulier van het hotel. |
 
 ####Niveau en uitstraling
 
 | --- | --- |
 |:---|:---|
-| 3000  | De inrichtingen uitstraling van een eenvoudige hotel voldoen aan realistische verwachtingen van hotelgasten.  |
+|3000 |De inrichtingen uitstraling van een eenvoudige hotel voldoen aan realistische verwachtingen van hotelgasten. |
 
-### Bijlage  2a  
+###Bijlage 2a 
 
 Hieronder volgen de basisnormen voor indeling in categorie twee van het hotelclassificatieregister als bedoeld in artikel 4, eerste lid. 
 
@@ -326,11 +326,11 @@ Gemeenschappelijke badgelegenheid
 | 1402  | Vanuit de badgelegenheid te bereiken voorziening voor het plaatsen van zeep of flacons.  |
 | 1403  | Voorziening om kleding op te hangen buiten bereik van water.  |
 | 1404  | Handdoekenrek.  |
-| 1405  | Spiegel.  |
+| 1405  |  Spiegel.  |
 
 ####Algemene voorzieningen in het hotel
 
-Telecommunicatie in het hotel 
+Telecommunicatie in het hotel  
 
 | --- | --- |
 |:---|:---|
@@ -379,7 +379,7 @@ Verkrijgbaarheid dranken
 | 2900  | De gastvrijheiden dienstbaarheid voldoen aan realistische verwachtingen van gasten.  |
 | 2901  | Klachten van gasten worden geregistreerd en correct afgehandeld.  |
 | 2902  | Gasten krijgen op verzoek inzage in de classificatienormen op basis waarvan aan het hotel sterren zijn toegekend.  |
-| 2903  | Gasten krijgen op verzoek bij de receptie een gasten enquêteformulier van het hotel.  |
+| 2903  |  Gasten krijgen op verzoek bij de receptie een gasten enquêteformulier van het hotel.  |
 
 ####Niveau en uitstraling
 
@@ -387,13 +387,13 @@ Verkrijgbaarheid dranken
 |:---|:---|
 | 3001  | De inrichting en uitstraling van een eenvoudig - middenklasse hotel voldoen aan realistische verwachtingen van hotelgasten.  |
 
-### Bijlage  2b  
+###Bijlage 2b 
 
 Hieronder volgen de facultatieve nomen voor indeling in categorie twee van het hotelclassificatieregister als bedoeld in artikel 4, tweede lid. 
 
 ####Hotelkamer
 
-Veiligheid en privacy in de kamer 
+Veiligheid en privacy in de kamer
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -403,7 +403,7 @@ Veiligheid en privacy in de kamer
 | 107  | Gastenkluisje in alle kamers.  | 2  |
 | 108  | Kluis in alle kamers.  | 3  |
 | --- | Wanneer wordt voldaan aan norm 106, 107, of 108 kan slechts eenmaal het hoogste aantal punten worden behaald  | --- |
-| 109  | De gast moet in alle kamers de mogelijkheid hebben met een niet-storen signaal aan te geven of de kamer door derden betreden mag worden.  | 1  |
+| 109  |De gast moet in alle kamers de mogelijkheid hebben met een niet-storen signaal aan te geven of de kamer door derden betreden mag worden. |1 |
 
 Verlichting en elektra in de kamer 
 
@@ -416,24 +416,24 @@ Afmeting kamers
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 300  | Tweepersoons kamer 17 m <sup>2</sup> (geldt voor 90% van de kamers inclusief natte cel en voorportaal).  | 5  |
-| 301  | Tweepersoons kamer 22 m <sup>2</sup> (geldt voor 90% van de kamers inclusief natte cel en voorportaal).  | 5  |
-| 302  | Tweepersoons kamer 26 m <sup>2</sup> (geldt voor 90% van de kamers inclusief natte cel en voorportaal).al.  | 5  |
-| --- | Wanneer wordt voldaan aan norm 300, 301 of 302 kan slechts eenmaal het hoogste aantal punten worden behaald  | --- |
-| 303  | 25% van de hotelkamers beschikken over een voor gasten toegankelijk balkon in directe verbinding met de kamer.  | 2  |
+| 300  | Tweepersoons kamer 17 m<sup>2</sup> (geldt voor 90% van de kamers inclusief natte cel en voorportaal).  | 5  |
+| 301  | Tweepersoons kamer 22 m<sup>2</sup> (geldt voor 90% van de kamers inclusief natte cel en voorportaal).  | 5  |
+| 302  | Tweepersoons kamer 26 m<sup>2</sup> (geldt voor 90% van de kamers inclusief natte cel en voorportaal).al.   | 5  |
+| --- | Wanneer wordt voldaan aan norm 300, 301 of 302 kan slechts eenmaal het hoogste aantal punten worden behaald   | --- |
+|303 |25% van de hotelkamers beschikken over een voor gasten toegankelijk balkon in directe verbinding met de kamer. |2 |
 
 Daglicht in de kamer 
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 402  | Niet lichtdoorlatende gordijnen of soortgelijke voorziening om ook overdag te kunnen verduisteren in alle kamers.  | 2  |
+| 402  | Niet lichtdoorlatende gordijnen of soortgelijke voorziening om ook overdag te kunnen verduisteren in alle kamers.  |2 |
 
 Luchtbehandeling in de kamer 
 
 | --- | --- | --- |
 |:---|:---|:---|
 | 502  | 50% van de kamers heeft individueel regelbare airconditioning of enigszins vergelijkbare koelmogelijkheid.  | 3  |
-| 503  | In alle kamers individueel regelbare airconditioning of enigszins vergelijkbare koelmogelijkheid.  | 5  |
+| 503  |  In alle kamers individueel regelbare airconditioning of enigszins vergelijkbare koelmogelijkheid.  | 5  |
 | --- | Wanneer wordt voldaan norm 503 kunnen niet tevens punten worden behaald met norm 502  | --- |
 
 Bed en meubilair in de kamer 
@@ -456,10 +456,10 @@ Kleding en bagage opbergen in de kamer
 | 700  | Kofferrek of soortgelijke voorziening in alle kamers.  | 1  |
 | 702  | Kapstok (minimaal 2 haken) in alle kamers.  | 1  |
 | 703  | Broekenpers in alle kamers.  | 2  |
-| 704  | Strijkplank en strijkbout, met stoomfunctie, op verzoek.  | 1  |
-| 705  | Strijkplank en strijkbout, met stoomfunctie, in alle kamers  | 2  |
-| --- |  *Wanneer wordt voldaan aan norm 705 kunnen niet tevens punten worden behaald met norm 704.*   | --- |
-| 706  | Was- en strijkservice op verzoek met 2 uur retourservice van 08.00 – 20.00 uur  | 2  |
+|704 |Strijkplank en strijkbout, met stoomfunctie, op verzoek. |1 |
+|705 |Strijkplank en strijkbout, met stoomfunctie, in alle kamers |2 |
+| --- |*Wanneer wordt voldaan aan norm 705 kunnen niet tevens punten worden behaald met norm 704.* | --- |
+|706 |Was- en strijkservice op verzoek met 2 uur retourservice van 08.00 – 20.00 uur |2 |
 
 Telecommunicatie in de kamer 
 
@@ -478,10 +478,10 @@ Telecommunicatie in de kamer
 | --- | Wanneer wordt voldaan aan norm 807 kunnen niet tevens punten worden behaald met norm 806  | --- |
 | 808  | Antwoordapparaat in alle kamers (voicemail).  | 1  |
 | 809  | Extra telefoon met buitenlijn in de privé-badgelegenheid van alle kamers.  | 1  |
-| 810  | Op alle kamers staan minimaal 1 telefoontoestel op de schrijftafel en 1 telefoontoestel in de nabijheid van het bed, beiden met buitenlijn.  | 1  |
-| 811  | Printer op verzoek.  | 1  |
-| 812  | Printer in alle kamers  | 2  |
-| --- |  *Wanneer wordt voldaan aan norm 812 kunnen niet tevens punten worden behaald met norm 811.*   | --- |
+|810 |Op alle kamers staan minimaal 1 telefoontoestel op de schrijftafel en 1 telefoontoestel in de nabijheid van het bed, beiden met buitenlijn. |1 |
+|811 |Printer op verzoek. |1 |
+|812 |Printer in alle kamers |2 |
+| --- |*Wanneer wordt voldaan aan norm 812 kunnen niet tevens punten worden behaald met norm 811.* | --- |
 
 Audio en video in de kamer 
 
@@ -490,14 +490,14 @@ Audio en video in de kamer
 | 901  | Kleuren-tv met afstandsbediening in alle kamers.  | 3  |
 | 902  | Radiokanalen in de kamer aanwezig.  | 1  |
 | 903  | Radio met vrije keuze van kanalen in alle kamers.  | 2  |
-| --- | Wanneer wordt voldaan aan norm 903 kunnen niet tevens punten worden behaald met norm 902  | --- |
+| --- | Wanneer wordt voldaan aan norm 903 kunnen niet tevens punten worden behaald met norm 902   | --- |
 | 904  | Beschikbaarheid van Pay TV met Mogelijkheid om op verzoek van de gast af te sluiten.  | 2  |
 | 905  | Extra luidspreker voor radio en/of televisie in de privé-badgelegenheid van alle kamers.  | 1  |
 | 906  | Videorecorder en/of DVD-speler met afstandsbediening op verzoek.  | 1  |
-| 907  | Videorecorder en/of DVD-speler met afstandsbediening standaard in alle kamers.  | 2  |
-| --- |  *Wanneer wordt voldaan aan norm 907 kunnen niet tevens punten worden behaald met norm 906.*   | --- |
-| 908  | Movie en/of Music on Demand met een ruime keuze in alle kamers  | 3  |
-| 909  | Televisiescherm in alle badkamers.  | 2  |
+|907 |Videorecorder en/of DVD-speler met afstandsbediening standaard in alle kamers. |2 |
+| --- |*Wanneer wordt voldaan aan norm 907 kunnen niet tevens punten worden behaald met norm 906.* | --- |
+|908 |Movie en/of Music on Demand met een ruime keuze in alle kamers |3 |
+|909 |Televisiescherm in alle badkamers. |2 |
 
 Gastenartikelen in de kamer 
 
@@ -518,10 +518,10 @@ Wastafel in de kamer
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 1106  | Washandje of waslapje per logerende gast in alle kamers.  | 1  |
-| 1108  | Dubbele wastafel in alle tweepersoonskamers en suites.  | 1  |
+| 1106  | Washandje of waslapje per logerende gast in alle kamers.  |1 |
+| 1108  | Dubbele wastafel in alle tweepersoonskamers en suites.  |1 |
 
-Badgelegenheid in de kamer 
+Badgelegenheid in de kamer
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -532,20 +532,20 @@ Badgelegenheid in de kamer
 | --- | Wanneer wordt voldaan aan norm 1205 kunnen niet tevens punten worden behaald met norm 1204.  | --- |
 | 1206  | Badjas en badslippers per logerende gast in alle kamers.  | 3  |
 | 1207  | Uittrekbare waslijn af gelijksoortige voorziening in alle kamers.  | 1  |
-| 1208  | Separate scheerspiegel in alle kamers.  | 1  |
-| 1209  | Separate scheerspiegel met ingebouwde verlichting, in alle kamers.  | 2  |
-| --- | Wanneer wordt voldaan aan norm 1209 kunnen niet tevens punten warden behaald met norm 1208  | --- |
-| 1210  | Handdoek verwarming in alle kamers  | 1  |
-| 1211  | Bidet in alle kamers.  | 3  |
-| 1212  | Gescheiden bad en douche in minimaal 50% van de kamers.  | 3  |
-| 1213  | Gescheiden bad en douche in alle kamers.  | 5  |
-| --- |  *Wanneer wordt voldaan aan norm 1213 kunnen niet tevens punten worden behaald met norm 1212.*   | --- |
-| 1214  | Toilet separaat van badgelegenheid in minimaal 50% van de kamers.  | 2  |
-| 1215  | Toilet separaat van badgelegenheid op alle kamers.O  | 4  |
-| --- |  *Wanneer wordt voldaan aan norm 1215 kunnen niet tevens punten worden behaald met norm 1214.*   | --- |
-| 1216  | Anticondens voorziening door verwarmde badkamerspiegel.  | 1  |
-| 1217  | Extra badhanddoek boven de basisnorm per persoon standaard in alle kamers.  | 1  |
-| 1218  | Antislip voorziening in de badkuip.  | 1  |
+|1208 |Separate scheerspiegel in alle kamers. |1 |
+|1209 |Separate scheerspiegel met ingebouwde verlichting, in alle kamers. |2 |
+| --- |Wanneer wordt voldaan aan norm 1209 kunnen niet tevens punten warden behaald met norm 1208 | --- |
+|1210 |Handdoek verwarming in alle kamers |1 |
+|1211 |Bidet in alle kamers. |3 |
+|1212 |Gescheiden bad en douche in minimaal 50% van de kamers. |3 |
+|1213 |Gescheiden bad en douche in alle kamers. |5 |
+| --- |*Wanneer wordt voldaan aan norm 1213 kunnen niet tevens punten worden behaald met norm 1212.* | --- |
+|1214 |Toilet separaat van badgelegenheid in minimaal 50% van de kamers. |2 |
+|1215 |Toilet separaat van badgelegenheid op alle kamers.O |4 |
+| --- |*Wanneer wordt voldaan aan norm 1215 kunnen niet tevens punten worden behaald met norm 1214.* | --- |
+|1216 |Anticondens voorziening door verwarmde badkamerspiegel. |1 |
+|1217 |Extra badhanddoek boven de basisnorm per persoon standaard in alle kamers. |1 |
+|1218 |Antislip voorziening in de badkuip. |1 |
 
 ####Algemene voorzieningen in het hotel
 
@@ -553,13 +553,13 @@ Luchtbehandeling in het hotel
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 1500  | Airconditioning of enigszins vergelijkbare koelmogelijkheid in gemeenschappelijke lokalen.  | 4  |
+| 1500  | Airconditioning of enigszins vergelijkbare koelmogelijkheid in gemeenschappelijke lokalen.  |4 |
 
 Telecommunicatie in het hotel 
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 1602  | Mogelijkheid om op verzoek in het hotel gebruik te maken van een computer met breedband internetaansluiting.  | 2  |
+| 1602  | Mogelijkheid om op verzoek in het hotel gebruik te maken van een computer met breedband internetaansluiting.  |2 |
 
 Vervoer, toegang, assistentie bereikbaarheid in het hotel 
 
@@ -577,7 +577,7 @@ Vervoer, toegang, assistentie bereikbaarheid in het hotel
 | 1708  | Gasten behoeven om hun kamer te bereiken niet meer dan twee etages trap te lopen.  | 2  |
 | 1709  | Gasten behoeven om hun kamer te bereiken niet meer dan één etage trap te lopen.  | 3  |
 | 1710  | 95% van de hotelkamers moet door de gast kunnen worden bereikt zonder traplopen.  | 1  |
-| --- | Wanneer wordt voldaan aan 1708, 1709 of 1710 kan slechts eenmaal het hoogste aantal punten worden behaald  | --- |
+| --- | Wanneer wordt voldaan aan 1708, 1709 of 1710 kan slechts eenmaal het hoogste aantal punten worden behaald   | --- |
 | 1711  | Stop- en los mogelijkheid bij de ingang van het hotel.  | 2  |
 | 1712  | Eigen shuttleservice, op verzoek of middels dienstregeling.  | 3  |
 
@@ -589,7 +589,7 @@ Voorzieningen gehandicapte gasten in het hotel
 | 1801  | Aangepaste algemene WC voor rolstoelgebruikers.  | 2  |
 | 1802  | Aangepaste kamer voor rolstoelgebruikers.  | 2  |
 | 1803  | Parkeerplaats met aanduiding gereserveerdvoor rolstoelgebruikers.  | 2  |
-| 1804  | Kamer geheel aangepast aan de specifieke eisen van rolstoelgebruikers en andere mindervalide gasten.  | 3  |
+|1804 |Kamer geheel aangepast aan de specifieke eisen van rolstoelgebruikers en andere mindervalide gasten. |3 |
 
 Receptie 
 
@@ -607,8 +607,8 @@ Betalingsservice
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 2000  | Mogelijkheid tot het betalen middels chippen en/of pinnen.  | 2  |
-| 2001  | Minimaal 2 soorten creditcards worden geaccepteerd.  | 2  |
+| 2000  | Mogelijkheid tot het betalen middels chippen en/of pinnen.  |2 |
+| 2001  | Minimaal 2 soorten creditcards worden geaccepteerd.  |2 |
 
 ####Eten en drinken in het hotel
 
@@ -618,7 +618,7 @@ Verkrijgbaarheid ontbijt
 |:---|:---|:---|
 | 2101  | Ontbijt-roomservice.  | 2  |
 | 2102  | Ontbijtbuffet en/of mogelijkheld van geserveerd ontbijt én ontbijt-roomservice.  | 3  |
-| --- | Wanneer wordt voldaan aan norm 2102 kunnen niet tevens punten worden behaald met norm 2101  | --- |
+| --- |  Wanneer wordt voldaan aan norm 2102 kunnen niet tevens punten worden behaald met norm 2101  | --- |
 
 Verkrijgbaarheid dranken 
 
@@ -647,13 +647,13 @@ Verkrijgbaarheid maaltijden
 | 2306  | Maaltijden-roomservice van 18.00 uur - 22.00 uur.  | 3  |
 | 2307  | Warme maaltijden roomservice 24u/24u.  | 5  |
 | --- | Wanneer wordt voldaan aan norm 2307 kunnen niet tevens punten worden behaald met norm 2306  | --- |
-| 2308  | Beschikbaarheid van meerdere restaurantconcepten in het hotel zoals bedoeld in 2302.  | 4  |
+|2308 |Beschikbaarheid van meerdere restaurantconcepten in het hotel zoals bedoeld in 2302. |4 |
 
 Overige voorzieningen in hotel 
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 2400  | Ten minste 2 suites. Een suite is een kamer (inclusief privé-badgelegenheid en eventuele voorruimtes) met een zeer royale en geriefelijks inrichting en een minimals afmeting van 50 m <sup>2</sup>.  | 3  |
+| 2400  | Ten minste 2 suites. Een suite is een kamer (inclusief privé-badgelegenheid en eventuele voorruimtes) met een zeer royale en geriefelijks inrichting en een minimals afmeting van 50 m<sup>2</sup> .  | 3  |
 | 2401  | Niet-roken kamers in het hotel beschikbaar.  | 1  |
 | 2402  | Vestiaire en/of garderobe.  | 1  |
 | 2403  | Bewaakte vestiaire en/of bewaakte garderobe.  | 3  |
@@ -663,7 +663,7 @@ Overige voorzieningen in hotel
 | 2406  | Mogelijkheid tot aanschaf in het hotel van lectuur en kranten.  | 1  |
 | 2407  | Verkrijgbaarheid in het hotel van "gift" artikelen.  | 1  |
 | 2408  | Kapsalon in het hotel.  | 1  |
-| 2409  | Beschikbaarheid van connecting rooms.  | 2  |
+|2409 |Beschikbaarheid van connecting rooms. |2 |
 
 ####Overige services in het hotel
 
@@ -676,11 +676,11 @@ Overige voorzieningen in hotel
 | 2503  | Wasserijservice en strijkservice 24u/4u.  | 3  |
 | 2504  | Stomerjjservice, wasserijservice en strijkservice 24u/24u.  | 4  |
 | --- | Wanneer wordt voldaan aan norm 2504 kunnen niet tevens punten worden behaald met norm 2503  | --- |
-| 2505  | Schoenpoetsservice op verzoek.  | 3  |
-| 2506  | Secretariaatservice van 08.00 - 20.00 uur.  | 3  |
-| 2507  | Kinderoppasservice.  | 3  |
-| 2508  | Vervoer-en ticketreserveringen.  | 1  |
-| 2509  | Reserveren van bijvoorbeeld theater, bioscoop en musea bij de hotel receptie.  | 1  |
+|2505 |Schoenpoetsservice op verzoek. |3 |
+|2506 |Secretariaatservice van 08.00 - 20.00 uur. |3 |
+|2507 |Kinderoppasservice. |3 |
+|2508 |Vervoer-en ticketreserveringen. |1 |
+|2509 |Reserveren van bijvoorbeeld theater, bioscoop en musea bij de hotel receptie. |1 |
 
 ####Ontspanning en recreatie in het hotel
 
@@ -694,7 +694,7 @@ Overige voorzieningen in hotel
 | 2605  | Solarium voor algemeen gebruik in het hotel.  | 1  |
 | 2606  | Fitnessruimte in het hotel.  | 2  |
 | 2607  | Beautysalon in het hotel.  | 4  |
-| 2608  | Terras bij het hotel.  | 4  |
+| 2608  |  Terras bij het hotel.  | 4  |
 | 2610  | Voor kinderen speelkamer in of speeltuin bij het hotel.  | 1  |
 | 2611  | Tennisbaan bij of tenniszaal in het hotel.  | 2  |
 | 2612  | Mogelijkheid van huur recreatieartikelen in het hotel.  | 1  |
@@ -703,17 +703,17 @@ Overige voorzieningen in hotel
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 2700  | Beschikbaarheid van vergaderzaal(zalen) in het hotel.  | 3  |
-| 2701  | Banquetfaciliteiten in het hotel.  | 3  |
-| 2702  | Professionele dienstverlening ten behoeve van zaal / banquetfaciliteiten.  | 2  |
+| 2700  | Beschikbaarheid van vergaderzaal(zalen) in het hotel.  |3 |
+| 2701  | Banquetfaciliteiten in het hotel.  |3 |
+|2702 |Professionele dienstverlening ten behoeve van zaal / banquetfaciliteiten. |2 |
 
-### Bijlage  3a  
+###Bijlage 3a 
 
 Hieronder volgen de basis normen voor indeling in categorie drie van het hotelclassificatieregister als bedoeld in artikel 5, eerste lid. 
 
 ####Hotelkamer
 
-Veiligheid en privacy in de kamer 
+Veiligheid en privacy in de kamer  
 
 | --- | --- |
 |:---|:---|
@@ -734,7 +734,7 @@ Afmeting kamers
 
 | --- | --- |
 |:---|:---|
-| 300  | Tweepersoons kamer 17 m <sup>2</sup> (geldt voor 90% van de kamers inclusief natte deel en voorportaal).  |
+| 300  | Tweepersoons kamer 17 m<sup>2</sup> (geldt voor 90% van de kamers inclusief natte deel en voorportaal).  |
 
 Daglicht in de kamer 
 
@@ -887,7 +887,7 @@ Verkrijgbaarheid dranken
 |:---|:---|
 | 3002  | De inrichting en uitstraling van een middenklasse hotel voldoen aan realistische verwachtingen van hotelgasten.  |
 
-### Bijlage  3b  
+###Bijlage 3b 
 
 Hieronder volgen de facultatieve nomen voor indeling in categorie drie van het hotelclassificatie-register als bedoeld in artikel 5, tweede lid. 
 
@@ -903,7 +903,7 @@ Veiligheid en privacy in de kamer
 | 107  | Gastenkluisje in alle kamers.  | 2  |
 | 108  | Kluis in alle kamers.  | 3  |
 | --- | Wanneer wordt voldaan aan norm 106, 107 of 108 kan slechts eenmaal het hoogste aantal punten worden behaald  | --- |
-| 109  | De gast moet in alle kamers de mogelijkheid hebben met een niet-storen signaal aan te geven of de kamer door derden betreden mag worden.  | 1  |
+|109 |De gast moet in alle kamers de mogelijkheid hebben met een niet-storen signaal aan te geven of de kamer door derden betreden mag worden. |1 |
 
 Verlichting en elektra in de kamer 
 
@@ -916,16 +916,16 @@ Afmeting kamers
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 301  | Tweepersoons kamer 22 m <sup>2</sup> (geldt voor 90% van de kamers inclusief natte cel en voorportaal).  | 5  |
-| 302  | Tweepersoons kamer 26 m <sup>2</sup> (geldt voor 90% van de kamers inclusief natte cel en voorportaal).  | 5  |
-| --- | Wanneer wondt voldaan aan norm 302 kunnen niet tevens punten worden behaald met norm 301  | --- |
-| 303  | 25% van de hotelkamers beschikken over een voor gasten toegankelijk balkon in directe verbinding met de kamer.  | 2  |
+| 301  | Tweepersoons kamer 22 m<sup>2</sup> (geldt voor 90% van de kamers inclusief natte cel en voorportaal).   | 5  |
+| 302  | Tweepersoons kamer 26 m<sup>2</sup> (geldt voor 90% van de kamers inclusief natte cel en voorportaal).   | 5  |
+| --- | Wanneer wondt voldaan aan norm 302 kunnen niet tevens punten worden behaald met norm 301 | --- |
+|303 |25% van de hotelkamers beschikken over een voor gasten toegankelijk balkon in directe verbinding met de kamer. |2 |
 
 Daglicht in de kamer 
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 402  | Niet lichtdoorlatende gordijnen of soortgelijke voorziening om ook overdag te kunnen verduisteren in alle kamers.  | 2  |
+| 402  | Niet lichtdoorlatende gordijnen of soortgelijke voorziening om ook overdag te kunnen verduisteren in alle kamers.  |2 |
 
 Luchtbehandeling in de kamer 
 
@@ -952,31 +952,31 @@ Kleding en bagage opbergen in de kamer
 | 700  | Kofferrek of soortgelijke voorzlening in alle kamers.  | 1  |
 | 702  | Kapstok (minimaal 2 haken) in alle kamers.  | 1  |
 | 703  | Broekenpers in alle kamers.  | 2  |
-| 704  | Strijkplank en strijkbout, met stoomfunctie, op verzoek.  | 1  |
-| 705  | Strijkplank en strijkbout, met stoomfunctie, in alle kamers  | 2  |
-| --- |  *Wanneer wordt voldaan aan norm 705 kunnen niet tevens punten worden behaald met norm 704.*   | --- |
-| 706  | Was- en strijkservice op verzoek met 2 uur retourservice van 08.00 – 20.00 uur  | 2  |
+|704 |Strijkplank en strijkbout, met stoomfunctie, op verzoek. |1 |
+|705 |Strijkplank en strijkbout, met stoomfunctie, in alle kamers |2 |
+| --- |*Wanneer wordt voldaan aan norm 705 kunnen niet tevens punten worden behaald met norm 704.* | --- |
+|706 |Was- en strijkservice op verzoek met 2 uur retourservice van 08.00 – 20.00 uur |2 |
 
-Telecommunicatie in de kamer 
+Telecommunicatie in de kamer
 
 | --- | --- | --- |
 |:---|:---|:---|
 | 801  | Aansluiting voor datacommunicatie en ten minimaal één vrij stopcontact ten behoeve van computer in alle kamers.  | 3  |
 | 802  | Datacommunicatie; beschikbaarheid van meerdere verbindingen tegelijkertijd (spraak en data) alsmede twee vrije stopcontacten in alle kamers.  | 4  |
 | 803  | Breedband datacommunicatie; beschikbaarheid van meerdere verbindingen tegelijkertijd (spraak en data) alsmede twee vrije stopcontacten in alle kamers.  | 5  |
-| --- | Wanneer wordt voldaan aan norm 801, 802 of 803 kan slechts eenmaal het hoogste aantal punten worden behaald  | --- |
+| --- |Wanneer wordt voldaan aan norm 801, 802 of 803 kan slechts eenmaal het hoogste aantal punten worden behaald | --- |
 | 804  | Telefax op verzoek.  | 1  |
 | 805  | Telefax in alle kamers.  | 2  |
-| --- | Wanneer wordt voldaan aan norm 805 kunnen niet tevens punten worden behaald met norm 804.  | --- |
+| --- |Wanneer wordt voldaan aan norm 805 kunnen niet tevens punten worden behaald met norm 804. | --- |
 | 806  | Computer met internetaansluiting op verzoek.  | 4  |
 | 807  | Computer met internetaansluiting in alle kamers.  | 5  |
 | --- | Wanneer wordt voldaan aan norm 807 kunnen niet tevens punten worden behaald met norm 806.  | --- |
-| 808  | Antwoordapparaat in alle kamers (voicemail).  | 1  |
-| 809  | Extra telefoon met buitenlijn in de privé-badgelegenheid van alle kamers.  | 1  |
-| 810  | Op alle kamers staan minimaal 1 telefoontoestel op de schrijftafel en 1 telefoontoestel in de nabijheid van het bed, beiden met buitenlijn.  | 1  |
-| 811  | Printer op verzoek  | 1  |
-| 812  | Printer in alle kamers  | 2  |
-| --- |  *Wanneer wordt voldaan aan norm 812 kunnen niet tevens punten worden behaald met norm 811.*   | --- |
+|808 |Antwoordapparaat in alle kamers (voicemail). |1 |
+|809 |Extra telefoon met buitenlijn in de privé-badgelegenheid van alle kamers. |1 |
+|810 |Op alle kamers staan minimaal 1 telefoontoestel op de schrijftafel en 1 telefoontoestel in de nabijheid van het bed, beiden met buitenlijn. |1 |
+|811 |Printer op verzoek |1 |
+|812 |Printer in alle kamers |2 |
+| --- |*Wanneer wordt voldaan aan norm 812 kunnen niet tevens punten worden behaald met norm 811.* | --- |
 
 Audio en video in de kamer 
 
@@ -984,12 +984,12 @@ Audio en video in de kamer
 |:---|:---|:---|
 | 903  | Radio met vrije keuze van kanalen in alle kamers.  | 2  |
 | 904  | Beschikbaarheid van Pay TV met mogelijkheid om op verzoek van de gast af te sluiten.  | 2  |
-| 905  | Extra luidspreker voor radio en/of televisie in de privé- badgelegenheid van alle kamers.  | 1  |
+| 905  |  Extra luidspreker voor radio en/of televisie in de privé- badgelegenheid van alle kamers.  | 1  |
 | 906  | Videorecorder en/of DVD speler met afstandsbediening op verzoek.  | 1  |
-| 907  | Videorecorder en/of DVD-speler met afstandsbediening standaard in alle kamers.  | 2  |
-| --- |  *Wanneer wordt voldaan aan norm 907 kunnen niet tevens punten worden behaald met norm 906.*   | --- |
-| 908  | Movie en/of Music on Demand met een ruime keuze in alle kamers  | 3  |
-| 909  | Televisiescherm in alle badkamers.  | 2  |
+|907 |Videorecorder en/of DVD-speler met afstandsbediening standaard in alle kamers. |2 |
+| --- |*Wanneer wordt voldaan aan norm 907 kunnen niet tevens punten worden behaald met norm 906.* | --- |
+|908 |Movie en/of Music on Demand met een ruime keuze in alle kamers |3 |
+|909 |Televisiescherm in alle badkamers. |2 |
 
 Gastenartikelen in de kamer 
 
@@ -1009,8 +1009,8 @@ Wastafel in de kamer
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 1106  | Washandje of waslapje per logerende gast in alle kamers.  | 1  |
-| 1108  | Dubbele wastafel in alle tweepersoonskamers en suites.  | 1  |
+| 1106  | Washandje of waslapje per logerende gast in alle kamers.  |1 |
+| 1108  | Dubbele wastafel in alle tweepersoonskamers en suites.  |1 |
 
 Badgelegenheid in de kamer 
 
@@ -1025,15 +1025,15 @@ Badgelegenheid in de kamer
 | --- | Wanneer wordt voldaan aan norm 1209 kunnen niet tevens punten worden behaald met norm 1208  | --- |
 | 1210  | Handdoek verwarming in alle kamers.  | 1  |
 | 1211  | Bidet in alle kamers.  | 3  |
-| 1212  | Gescheiden bad en douche in minimaal 50% van de kamers.  | 3  |
-| 1213  | Gescheiden bad en douche in alle kamers.  | 5  |
-| --- |  *Wanneer wordt voldaan aan norm 1213 kunnen niet tevens punten worden behaald met norm 1212.*   | --- |
-| 1214  | Toilet separaat van badgelegenheid in minimaal 50% van de kamers.  | 2  |
-| 1215  | Toilet separaat van badgelegenheid op alle kamers.O  | 4  |
-| --- |  *Wanneer wordt voldaan aan norm 1215 kunnen niet tevens punten worden behaald met norm 1214.*   | --- |
-| 1216  | Anticondens voorziening door verwarmde badkamerspiegel.  | 1  |
-| 1217  | Extra badhanddoek boven de basisnorm per persoon standaard in alle kamers.  | 1  |
-| 1218  | Antislip voorziening in de badkuip.  | 1  |
+|1212 |Gescheiden bad en douche in minimaal 50% van de kamers. |3 |
+|1213 |Gescheiden bad en douche in alle kamers. |5 |
+| --- |*Wanneer wordt voldaan aan norm 1213 kunnen niet tevens punten worden behaald met norm 1212.* | --- |
+|1214 |Toilet separaat van badgelegenheid in minimaal 50% van de kamers. |2 |
+|1215 |Toilet separaat van badgelegenheid op alle kamers.O |4 |
+| --- |*Wanneer wordt voldaan aan norm 1215 kunnen niet tevens punten worden behaald met norm 1214.* | --- |
+|1216 |Anticondens voorziening door verwarmde badkamerspiegel. |1 |
+|1217 |Extra badhanddoek boven de basisnorm per persoon standaard in alle kamers. |1 |
+|1218 |Antislip voorziening in de badkuip. |1 |
 
 ####Algemene voorzieningen in het hotel
 
@@ -1047,7 +1047,7 @@ Telecommunicatie in het hotel
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 1602  | Mogelijkheid om op verzoek in het hotel gebruik te maken van een computer met breedband internetaansluiting.  | 2  |
+| 1602  | Mogelijkheid om op verzoek in het hotel gebruik te maken van een computer met breedband internetaansluiting.  |2 |
 
 Vervoer, toegang, assistentie, bereikbaarheid in het hotel 
 
@@ -1057,12 +1057,12 @@ Vervoer, toegang, assistentie, bereikbaarheid in het hotel
 | 1702  | Eigen parkeergelegenheid bij het hotel, voldoende voor minimaal 25% van het totale aantal kamers.  | 4  |
 | 1703  | Eigen parkeergarage bij het hotel.  | 4  |
 | 1704  | Eigen parkeergarage bij het hotel, voldoende voor minimaal 25% van het totale aantal kamers.  | 5  |
-| --- | Wanneer wordt voldaan aan norm 1701, 1702, 1703 of 1704 kan slechts eenmaal het hoogste aantal punten worden behaald  | --- |
+| --- |Wanneer wordt voldaan aan norm 1701, 1702, 1703 of 1704 kan slechts eenmaal het hoogste aantal punten worden behaald | --- |
 | 1705  | Permanente parkeerassistentie.  | 2  |
 | 1707  | Bagagetransport aangeboden.  | 4  |
 | 1709  | Gasten behoeven om hun kamer te bereiken niet meer dan één etage trap te lopen.  | 3  |
-| 1710  | 95% van de hotelkamers moet door de gast kunnen worden bereikt zonder traplopen.  | 4  |
-| --- | Wanneer wordt voldaan aan 1710 kunnen niet tevens punten worden behaald met norm 1709  | --- |
+| 1710  | 95% van de hotelkamers moet door de gast kunnen worden bereikt zonder traplopen.   | 4  |
+| --- |Wanneer wordt voldaan aan 1710 kunnen niet tevens punten worden behaald met norm 1709 | --- |
 | 1711  | Stop- en los mogelijkheid bij de ingang van het hotel.  | 2  |
 | 1712  | Eigen shuttleservice, op verzoek of middels dienstregeling.  | 3  |
 
@@ -1074,7 +1074,7 @@ Voorzieningen gehandicapte gasten in het hotel
 | 1801  | Aangepaste algemene WC voor rolstoelgebruikers.  | 2  |
 | 1802  | Aangepaste kamer voor rolstoelgebruikers.  | 2  |
 | 1803  | Parkeerplaats met aanduiding gereserveerd voor rolstoelgebruikers.  | 2  |
-| 1804  | Kamer geheel aangepast aan de specifieke eisen van rolstoelgebruikers en andere mindervalide gasten.  | 3  |
+|1804 |Kamer geheel aangepast aan de specifieke eisen van rolstoelgebruikers en andere mindervalide gasten. |3 |
 
 Receptie 
 
@@ -1112,9 +1112,9 @@ Verkrijgbaarheid dranken
 | 2203  | Minibar en 24u/24u dranken-roomservice.  | 4  |
 | --- | Wanneer wordt voldaan aan norm 2203 kunnen niet tevens punten worden behaald met norm 2202  | --- |
 | 2204  | Ruimte met bediening door personeel in het hotel voor het verkrijgen van dranken.  | 2  |
-| 2205  | Bar met bediening door personeel in het hotel, met internationaal assortiment dranken.  | 3  |
+| 2205  |  Bar met bediening door personeel in het hotel, met internationaal assortiment dranken.  | 3  |
 | --- | Wanneer wordt voldaan aan norm 2205 kunnen niet tevens punten worden behaald met norm 2204.  | --- |
-| 2206  | Koffie-/theevoorziening in alle kamers.  | 2  |
+| 2206  | Koffie-/theevoorziening in alle kamers.  |2 |
 
 Verkrijgbaarheid maaltijden 
 
@@ -1130,13 +1130,13 @@ Verkrijgbaarheid maaltijden
 | 2306  | Maaltijden-roomservice van 18.00 uur - 22.00 uur.  | 3  |
 | 2307  | Warme maaltijden roomservice 24u/24u.  | 5  |
 | --- | Wanneer wordt voldaan aan norm 2307 kunnen niet tevens punten worden behaald met norm 2306  | --- |
-| 2308  | Beschikbaarheid van meerdere restaurantconcepten in het hotel zoals bedoeld in 2302.  | 4  |
+|2308 |Beschikbaarheid van meerdere restaurantconcepten in het hotel zoals bedoeld in 2302. |4 |
 
 ####Overige voorzieningen in het hotel
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 2400  | Ten minste 2 suites. Een suite is een kamer (inclusief privé-badgelegenheid en eventuele voorruimtes) met een zeer royale en geriefelijke inrichting en een minimale afmeting van 50 m <sup>2</sup>  | 3  |
+|2400 |Ten minste 2 suites. Een suite is een kamer (inclusief privé-badgelegenheid en eventuele voorruimtes) met een zeer royale en geriefelijke inrichting en een minimale afmeting van 50 m<sup>2</sup>  |3 |
 | 2402  | Vestiaire en/of garderobe.  | 1  |
 | 2403  | Bewaakte vestiaire en/of bewaakte garderobe.  | 3  |
 | --- | Wanneer wordt voldaan aan norm 2403 kunnen niet tevens punten worden behaald met norm 2402  | --- |
@@ -1145,7 +1145,7 @@ Verkrijgbaarheid maaltijden
 | 2406  | Mogelijkheid tot aanschaf in het hotel van lectuur én kranten.  | 1  |
 | 2407  | Verkrijgbaarheid in het hotel van "gift" artikelen.  | 1  |
 | 2408  | Kapsalon in het hotel.  | 1  |
-| 2409  | Beschikbaarheid van connecting rooms.  | 2  |
+|2409 |Beschikbaarheid van connecting rooms. |2 |
 
 ####Overige services in het hotel
 
@@ -1184,11 +1184,11 @@ Verkrijgbaarheid maaltijden
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 2700  | Beschikbaarheid van vergaderzaal(zalen) in het hotel.  | 3  |
-| 2701  | Banquetfaciliteiten in het hotel.  | 3  |
-| 2702  | Professionele dienstverlening ten behoeve van zaal/banquetfaciliteiten.  | 2  |
+| 2700  | Beschikbaarheid van vergaderzaal(zalen) in het hotel.  |3 |
+| 2701  | Banquetfaciliteiten in het hotel.  |3 |
+|2702 |Professionele dienstverlening ten behoeve van zaal/banquetfaciliteiten. |2 |
 
-### Bijlage  4a  
+###Bijlage 4a 
 
 Hieronder volgen de basisnormen voor indeling in categorie vier van het hotelclassificatie-register als bedoeld in artikel 6, eerste lid. 
 
@@ -1216,7 +1216,7 @@ Afmeting kamers
 
 | --- | --- |
 |:---|:---|
-| 301  | Tweepersoons kamer 22 m <sup>2</sup> (geldt voor 90% van de kamers inclusief natte cel en voorportaal).  |
+| 301  | Tweepersoons kamer 22 m<sup>2</sup> (geldt voor 90% van de kamers inclusief natte cel en voorportaal).  |
 
 Daglicht in de kamer 
 
@@ -1381,13 +1381,13 @@ Verkrijgbaarheid maaltijden
 | 2902  | Gasten krijgen op verzoek inzage in de classificatienormen op basis waarvan aan het hotel sterren zijn toegekend.  |
 | 2903  | Gasten krijgen op verzoek bij de receptie een gastenenquêteformuller van het hotel.  |
 
-### Niveau en uitstraling  
+###Niveau en uitstraling 
 
 | --- | --- |
 |:---|:---|
 | 3003  | De inrichting en uitstraling van een eersteklas hotel voldoen aan realistische verwachtingen van hotelgasten  |
 
-### Bijlage  4b  
+###Bijlage 4b 
 
 Hieronder volgen de facultatieve normen voor indeling in categorie vier van het hotelclassificatie-register als bedoeld in artikel 6, tweede lid. 
 
@@ -1401,22 +1401,22 @@ Veiligheid en privacy in de kamer
 | 104  | Extra afsluitmogelijkheden van kamerdeur in alle kamers.  | 1  |
 | 107  | Gastenkluisje in alle kamers.  | 2  |
 | 108  | Kluis in alle kamers.  | 3  |
-| --- | Wanneer wordt voldaan aan norm 106 kunnen niet tevens punten worden behaald met norm 107  | --- |
-| 109  | De gast moet in alle kamers de mogelijkheid hebben met een niet-storen signaal aan te geven of de kamer door derden betreden mag worden.  | 1  |
+| --- |  Wanneer wordt voldaan aan norm 106 kunnen niet tevens punten worden behaald met norm 107   | --- |
+|109 |De gast moet in alle kamers de mogelijkheid hebben met een niet-storen signaal aan te geven of de kamer door derden betreden mag worden. |1 |
 
 Verlichting en elektra in de kamer 
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 203  | Vrij stopcontact bij het bed goed bereikbaar, in alle kamers.  | 1  |
+| 203  | Vrij stopcontact bij het bed goed bereikbaar, in alle kamers.   | 1  |
 | 204  | Bij het bed moet een schakelaar zitten voor de algemene verlichting, te bedienen vanuit bed, in alle kamers.  | 3  |
 
 Afmeting kamers 
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 302  | Tweepersoons kamer 26 m <sup>2</sup> (geldt voor 90% van de kamers inclusief natte cel en voorportaal).  | 5  |
-| 303  | 25% van de hotelkamers beschikken over een voor gasten toegankelijk balkon in directe verbinding met de kamer.  | 2  |
+| 302  | Tweepersoons kamer 26 m<sup>2</sup> (geldt voor 90% van de kamers inclusief natte cel en voorportaal).   | 5  |
+|303 |25% van de hotelkamers beschikken over een voor gasten toegankelijk balkon in directe verbinding met de kamer. |2 |
 
 Luchtbehandeling in de kamer 
 
@@ -1424,7 +1424,7 @@ Luchtbehandeling in de kamer
 |:---|:---|:---|
 | 502  | 50% van de kamers heeft individueel regelbare airconditioning of enigszins vergelijkbare koelmogelijkheid.  | 3  |
 | 503  | In alle kamers individueel regelbare airconditioning of enigszins vergelijkbare koelmogelijkheid.  | 5  |
-| --- | Wanneer wordt voldaan norm 503 kunnen niet tevens punten worden behaald met norm 502.  | --- |
+| --- |  Wanneer wordt voldaan norm 503 kunnen niet tevens punten worden behaald met norm 502.   | --- |
 
 Bed en meubilair in de kamer 
 
@@ -1437,12 +1437,12 @@ Kleding en bagage opbergen in de kamer
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 702  | Kapstok (minimaal 2 haken) in alle kamers.  | 1  |
-| 703  | Broekenpers in alle kamers.  | 2  |
-| 704  | Strijkplank en strijkbout, met stoomfunctie, op verzoek.  | 1  |
-| 705  | Strijkplank en strijkbout, met stoomfunctie, in alle kamers  | 2  |
-| --- |  *Wanneer wordt voldaan aan norm 705 kunnen niet tevens punten worden behaald met norm 704.*   | --- |
-| 706  | Was- en strijkservice op verzoek met 2 uur retourservice van 08.00 – 20.00 uur  | 2  |
+| 702  | Kapstok (minimaal 2 haken) in alle kamers.  |1 |
+| 703  | Broekenpers in alle kamers.  |2 |
+|704 |Strijkplank en strijkbout, met stoomfunctie, op verzoek. |1 |
+|705 |Strijkplank en strijkbout, met stoomfunctie, in alle kamers |2 |
+| --- |*Wanneer wordt voldaan aan norm 705 kunnen niet tevens punten worden behaald met norm 704.* | --- |
+|706 |Was- en strijkservice op verzoek met 2 uur retourservice van 08.00 – 20.00 uur |2 |
 
 Telecommunicatie in de kamer 
 
@@ -1450,19 +1450,19 @@ Telecommunicatie in de kamer
 |:---|:---|:---|:---|
 | 802  | Datacommunicatie beschikbaarheid van meerdere verbindingen tegelijkertijd (spraak en data) alsmede twee vrije stopcontacten in alle kamers.  | 4  |
 | 803  | Breedband datacommunicatie; beschikbaarheid van meerdere verbindingen tegelijkertijd (spraak en data) alsmede twee vrije stopcontacten in alle kamers.  | 5  |
-| --- | Wanneer wordt voldaan norm 803 kunnen niet tevens punten worden behaald met norm 802  | --- |
+| --- |  Wanneer wordt voldaan norm 803 kunnen niet tevens punten worden behaald met norm 802   | --- |
 | 804  | Telefax op verzoek.  | 1  |
 | 805  | Telefax in alle kamers.  | 2  |
-| --- | Wanneer wordt voldaan aan norm 805 kunnen niet tevens punten worden behaald met norm 804.  | --- |
-| 806  | Computer met internetaansluiting op verzoek.  | 4  |
-| 807  | Computer met internetaansluiting in alle kamers.  | 5  |
-| --- | Wanneer wordt voldaan aan norm 807 kunnen niet tevens punten worden behaald met norm 808.  | --- |
+| --- |  Wanneer wordt voldaan aan norm 805 kunnen niet tevens punten worden behaald met norm 804.   | --- |
+|806 |Computer met internetaansluiting op verzoek. |4 |
+|807 |Computer met internetaansluiting in alle kamers. |5 |
+| --- |  Wanneer wordt voldaan aan norm 807 kunnen niet tevens punten worden behaald met norm 808.   | --- |
 | 806  | Antwoordapparaat in alle kamers (voicemail).  | 1  |
 | 807  | Extra telefoon met buitenlijn in de privé-badgelegenheid van alle kamers).  | 1  |
-| 810  | Op alle kamers staan minimaal 1 telefoontoestel op de schrijftafel en 1 telefoontoestel in de nabijheid van het bed, beiden met buitenlijn.  | 1  |
-| 811  | Printer op verzoek  | 1  |
-| 812  | Printer in alle kamers  | 2  |
-| --- |  *Wanneer wordt voldaan aan norm 812 kunnen niet tevens punten worden behaald met norm 811.*   | --- |
+|810 |Op alle kamers staan minimaal 1 telefoontoestel op de schrijftafel en 1 telefoontoestel in de nabijheid van het bed, beiden met buitenlijn. |1 |
+|811 |Printer op verzoek |1 |
+|812 |Printer in alle kamers |2 |
+| --- |*Wanneer wordt voldaan aan norm 812 kunnen niet tevens punten worden behaald met norm 811.* | --- |
 
 Audio en video in de kamer 
 
@@ -1472,20 +1472,20 @@ Audio en video in de kamer
 | 904  | Beschikbaarheid van Pay TV met mogelijkheid om op verzoek van de gast at te sluiten.  | 2  |
 | 905  | Extra luidspreker voor radio en/of televisie in de privé-badgelegenheid van alle kamers.  | 1  |
 | 906  | Videorecorder en/of DVD speler met aftandsbediening op verzoek.  | 1  |
-| 907  | Videorecorder en/of DVD-speler met afstandsbediening standaard in alle kamers.  | 2  |
-| --- |  *Wanneer wordt voldaan aan norm 907 kunnen niet tevens punten worden behaald met norm 906.*   | --- |
-| 908  | Movie en/of Music on Demand met een ruime keuze in alle kamers  | 3  |
-| 909  | Televisiescherm in alle badkamers.  | 2  |
+|907 |Videorecorder en/of DVD-speler met afstandsbediening standaard in alle kamers. |2 |
+| --- |*Wanneer wordt voldaan aan norm 907 kunnen niet tevens punten worden behaald met norm 906.* | --- |
+|908 |Movie en/of Music on Demand met een ruime keuze in alle kamers |3 |
+|909 |Televisiescherm in alle badkamers. |2 |
 
-Gastenartikelen in de kamer 
+Gastenartikelen in de kamer
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 1001  | Basis assortiment verzorgings artikelen (tandpasta, scheergerei e.d.) op verzoek.  | 1  |
-| 1002  | Uitgebreid assortiment verzorgingsartikelen in alle kamers (naast artikelen als bedoeld in norm 1001, tevens minimaal bodylotion, shampoo/conditioner luxe zeep).  | 2  |
+|1001 |Basis assortiment verzorgings artikelen (tandpasta, scheergerei e.d.) op verzoek. |1 |
+|1002 |Uitgebreid assortiment verzorgingsartikelen in alle kamers (naast artikelen als bedoeld in norm 1001, tevens minimaal bodylotion, shampoo/conditioner luxe zeep). |2 |
 | 1003  | Schoenpoetsmiddelen op verzoek.  | 1  |
 | 1004  | Schoenpoetsmiddelen in alle kamers.  | 2  |
-| --- | Wanner wordt voldaan aan norm 1004 kunnen niet tevens punten worden behaald met norm 1003  | --- |
+| --- |  Wanner wordt voldaan aan norm 1004 kunnen niet tevens punten worden behaald met norm 1003   | --- |
 | 1006  | Welkomstgeschenk in alle kamers.  | 1  |
 | 1008  | Paraplu in de kamer of op verzoek.  | 1  |
 | 1009  | Stekker-adapter op verzoek.  | 1  |
@@ -1494,8 +1494,8 @@ Wastafel in de kamer
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 1106  | Washandje of waslapje per logerende gast in alle kamers.  | 1  |
-| 1108  | Dubbels wastafel in alle tweepersoonskamer en suites.  | 1  |
+| 1106  | Washandje of waslapje per logerende gast in alle kamers.  |1 |
+| 1108  | Dubbels wastafel in alle tweepersoonskamer en suites.  |1 |
 
 Badgelegenheid in de kamer 
 
@@ -1506,18 +1506,18 @@ Badgelegenheid in de kamer
 | 1207  | Uittrekbare waslijn of gelijksoortige voorziening in alle kamers.  | 1  |
 | 1208  | Separate scheerspiegel in alle kamers  | 1  |
 | 1209  | Separate scheerspiegel met ingebouwde verlichting in alle kamers.  | 2  |
-| --- | Wanneer wordt voldaan aan norm 1209 kunnen niet levens punten worden behaald met norm 1208  | --- |
+| --- |  Wanneer wordt voldaan aan norm 1209 kunnen niet levens punten worden behaald met norm 1208   | --- |
 | 1210  | Handdoek verwarming in all kamers.  | 1  |
 | 1211  | Bidet in alle kamers.  | 3  |
-| 1212  | Gescheiden bad en douche in minimaal 50% van de kamers.  | 3  |
-| 1213  | Gescheiden bad en douche in alle kamers.  | 5  |
-| --- |  *Wanneer wordt voldaan aan norm 1213 kunnen niet tevens punten worden behaald met norm 1212.*   | --- |
-| 1214  | Toilet separaat van badgelegenheid in minimaal 50% van de kamers.  | 2  |
-| 1215  | Toilet separaat van badgelegenheid op alle kamers.O  | 4  |
-| --- |  *Wanneer wordt voldaan aan norm 1215 kunnen niet tevens punten worden behaald met norm 1214.*   | --- |
-| 1216  | Anticondens voorziening door verwarmde badkamerspiegel.  | 1  |
-| 1217  | Extra badhanddoek boven de basisnorm per persoon standaard in alle kamers.  | 1  |
-| 1218  | Antislip voorziening in de badkuip.  | 1  |
+|1212 |Gescheiden bad en douche in minimaal 50% van de kamers. |3 |
+|1213 |Gescheiden bad en douche in alle kamers. |5 |
+| --- |*Wanneer wordt voldaan aan norm 1213 kunnen niet tevens punten worden behaald met norm 1212.* | --- |
+|1214 |Toilet separaat van badgelegenheid in minimaal 50% van de kamers. |2 |
+|1215 |Toilet separaat van badgelegenheid op alle kamers.O |4 |
+| --- |*Wanneer wordt voldaan aan norm 1215 kunnen niet tevens punten worden behaald met norm 1214.* | --- |
+|1216 |Anticondens voorziening door verwarmde badkamerspiegel. |1 |
+|1217 |Extra badhanddoek boven de basisnorm per persoon standaard in alle kamers. |1 |
+|1218 |Antislip voorziening in de badkuip. |1 |
 
 ####Algemene voorzieningen in het hotel
 
@@ -1550,7 +1550,7 @@ Voorzieningen gehandicapte gasten in het hotel
 | 1801  | Aangepaste algemene wc voor rolstoelgebruikers.  | 2  |
 | 1802  | Aangepaste kamer voor rolstoelgebruikers.  | 2  |
 | 1803  | Parkeerplaats met aanduiding gereserveerd voor rolstoelgebruikers.  | 2  |
-| 1804  | Kamer geheel aangepast aan de specifieke eisen van rolstoelgebruikers en andere mindervalide gasten.  | 3  |
+|1804 |Kamer geheel aangepast aan de specifieke eisen van rolstoelgebruikers en andere mindervalide gasten. |3 |
 
 Receptie 
 
@@ -1590,22 +1590,22 @@ Verkrijgbaarheid maaltijden
 | 2304  | Op verzoek wordt rekening gehouden met dieetwensen.  | 1  |
 | 2305  | Op verzoek wordt rekening gehouden met kindermenu.  | 1  |
 | 2307  | Warme maaltijden roomservice 24u/24u.  | 5  |
-| 2308  | Beschikbaarheid van meerdere restaurantconcepten in het hotel zoals bedoeld in 2302.  | 4  |
+|2308 |Beschikbaarheid van meerdere restaurantconcepten in het hotel zoals bedoeld in 2302. |4 |
 
 ####Overige voorzieningen in het hotel
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 2400  | Ten minste 2 suites. Een suite is een kamer (inclusief privé-badgelegenheid en eventuele voorruimtes) met een zeer royale en geriefelijke inrichting en een minimale afmeting van 50 m <sup>2</sup>.  | 3  |
+| 2400  | Ten minste 2 suites. Een suite is een kamer (inclusief privé-badgelegenheid en eventuele voorruimtes) met een zeer royale en geriefelijke inrichting en een minimale afmeting van 50 m<sup>2</sup>.  | 3  |
 | 2402  | Vestiaire en/of garderobe.  | 1  |
 | 2403  | Bewaakte vestiaire en/of bewaakte garderobe.  | 3  |
-| --- | Wanneer wordt voldaan aan norm 2403 kunnen niet tevens punten worden behaald met norm 2402.  | --- |
+| --- |  Wanneer wordt voldaan aan norm 2403 kunnen niet tevens punten worden behaald met norm 2402.   | --- |
 | 2404  | Bagageruimte in het hotel (afgesloten of ander toezicht).  | 2  |
 | 2405  | Schoenpoetsmachine in het hotel.  | 4  |
 | 2406  | Mogelijkheid tot aanschaf in het hotel van lectuur in kranten.  | 1  |
 | 2407  | Verkrijgbaarheid in het hotel van “gift” artikelen.  | 1  |
 | 2408  | Kapsalon in het hotel.  | 1  |
-| 2409  | Beschikbaarheid van connecting rooms.  | 2  |
+|2409 |Beschikbaarheid van connecting rooms. |2 |
 
 ####Overige services in het hotel
 
@@ -1613,7 +1613,7 @@ Verkrijgbaarheid maaltijden
 |:---|:---|:---|
 | 2504  | Turndownservice op verzoek ('s avonds).  | 2  |
 | 2502  | Turndownservice (iedere avond).  | 5  |
-| --- | Wanneer wordt voldaan aan norm 2402 kunnen niet tevens punten worden behaald met norm 2501.  | --- |
+| --- |  Wanneer wordt voldaan aan norm 2402 kunnen niet tevens punten worden behaald met norm 2501.   | --- |
 | 2504  | Stomerijservice, wasserijservice en strijkservice 24u/24u.  | 4  |
 | 2505  | Schoenpoetsservice op verzoek.  | 3  |
 | 2506  | Secretariaatservice van 08.00–20.00 uur.  | 3  |
@@ -1644,9 +1644,9 @@ Verkrijgbaarheid maaltijden
 |:---|:---|:---|
 | 2700  | Beschikbaarheid van vergaderzaal (zalen) in het hotel.  | 3  |
 | 2701  | Banquetfaciliteiten in het hotel.  | 3  |
-| 2702  | Professionele dienstverlening ten behoeve van zaal/banquetfaciliteiten.  | 2  |
+|2702 |Professionele dienstverlening ten behoeve van zaal/banquetfaciliteiten. |2 |
 
-### Bijlage  5a  
+###Bijlage 5a 
 
 Hieronder volgen basisnormen voor indeling in categorie vijf van het hotelclassificatieregister als bedoeld in artikel 7, eerste lid. 
 
@@ -1662,7 +1662,7 @@ Veiligheid en privacy in de kamer
 | 103  | Spionnetje in de kamerdeur van alle kamers.  |
 | 105  | Voorzieningen om inkijk te voorkomen (vitrage of soortgelijke voorziening) in alle kamers.  |
 | 107  | Gastenkluisje in alle kamers.  |
-| 109  | De gast moet in alle kamers de mogelijkheid hebben met een niet-storen signaal aan te geven of de kamer door derden betreden mag worden.  |
+|109 |De gast moet in alle kamers de mogelijkheid hebben met een niet-storen signaal aan te geven of de kamer door derden betreden mag worden. |
 
 Verlichting en elektra in de kamer 
 
@@ -1678,7 +1678,7 @@ Afmeting kamers
 
 | --- | --- |
 |:---|:---|
-| 302  | Tweepersoons kamer 26 m <sup>2</sup> (geldt voor 90% van de kamers inclusief natte cel en voorportaal).  |
+| 302  | Tweepersoons kamer 26 m<sup>2</sup> (geldt voor 90% van de kamers inclusief natte cel en voorportaal).   |
 
 Daglicht in de kamer 
 
@@ -1723,7 +1723,7 @@ Telecommunicatie in de kamer
 | --- | --- |
 |:---|:---|
 | 801  | Aansluiting voor datacommunicatie en ten minste één vrij stopcontact ten behoeve van computer in alle kamers.  |
-| 810  | Op alle kamers staan minimaal 1 telefoontoestel op de schrijftafel en 1 telefoontoestel in de nabijheid van het bed, beiden met buitenlijn.  |
+|810 |Op alle kamers staan minimaal 1 telefoontoestel op de schrijftafel en 1 telefoontoestel in de nabijheid van het bed, beiden met buitenlijn. |
 
 Audio en video in de kamer 
 
@@ -1766,7 +1766,7 @@ Badgelegenheid in de kamer
 | 1203  | Handgreepvoor in- en uitstappen in bad in alle kamers.  |
 | 1205  | Haarföhn in alle kamers.  |
 | 1206  | Badjas en badslippers per logerende gast in alle kamers.  |
-| 1218  | Antislip voorziening in de badkuip.  |
+|1218 |Antislip voorziening in de badkuip. |
 
 ####Algemene voorzieningen in het hotel
 
@@ -1793,7 +1793,7 @@ Voorzieningen gehandicapte gasten in het hotel
 |:---|:---|
 | 1800  | Entree toegankelijk voor rolstoelgebruikers.  |
 | 1801  | Aangepaste algemene WC voor rolstoelgebruikers.  |
-| 1802  | Aangepaste kamer voor rolstoelgebruikers.  |
+|1802 |Aangepaste kamer voor rolstoelgebruikers. |
 
 Receptie 
 
@@ -1838,7 +1838,7 @@ Verkrijgbaarheid maaltijden
 
 | --- | --- |
 |:---|:---|
-| 2400  | Ten minste 2 suites. Een suite is een kamer (inclusief privé-badgelegenheid en eventuele voorruimtes) met een zeer royale en geriefelijke inrichtingen een minimale afmeting van 50 m <sup>2</sup>.  |
+| 2400  | Ten minste 2 suites. Een suite is een kamer (inclusief privé-badgelegenheid en eventuele voorruimtes) met een zeer royale en geriefelijke inrichtingen een minimale afmeting van 50 m<sup>2</sup>.  |
 | 2401  | Niet-roken kamers in het hotel beschikbaar.  |
 | 2402  | Vestiaire en/of garderobe.  |
 | 2403  | Bagageruimte in het hotel (afgesloten of onder toezicht).  |
@@ -1849,7 +1849,7 @@ Verkrijgbaarheid maaltijden
 |:---|:---|
 | 2500  | Wekservice op verzoek.  |
 | 2501  | Turndownservice op verzoek ('s avonds).  |
-| 2502  | Turndownservice (iedere avond)  |
+|2502 |Turndownservice (iedere avond) |
 | 2504  | Stomerijservice, wasserijservice en strijkservice 24u/24u.  |
 | 2508  | Vervoer- en ticketreserveringen op verzoek.  |
 | 2509  | Reserveren van bijvoorbeeld theater, bioscoop en musea bij de hotelreceptie.  |
@@ -1861,7 +1861,7 @@ Verkrijgbaarheid maaltijden
 | 2800  | De slaapkamer, het sanitair en de gemeenschappelijke ruimten in het hotel zijn proper.  |
 | 2801  | De slaapkamer, het sanitair en de gemeenschappelijke ruimten in het hotel verkeren in voldoende staat van onderhoud.  |
 
-### Gastvrijheid en gasttevredenheid  
+###Gastvrijheid en gasttevredenheid 
 
 | --- | --- |
 |:---|:---|
@@ -1880,7 +1880,7 @@ Verkrijgbaarheid maaltijden
 |:---|:---|
 | 3100  | De service en dienstverlening van een luxe hotel voldoen volgens de mystery check aan realistische verwachtingen van hotelgasten.  |
 
-### Bijlage  5b  
+###Bijlage 5b 
 
 Hieronder volgen de facultatieve nomen voor indeling in de categorie vijf van het hotelclassificatie-register als bedoeld in artikel 7, tweede lid. 
 
@@ -1890,8 +1890,8 @@ Veiligheid en privacy in de kamer
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 104  | Extra afsluitmogelijkheden van kamerdeur in alle kamers.  | 1  |
-| 108  | Kluis in alle kamers.  | 3  |
+| 104  | Extra afsluitmogelijkheden van kamerdeur in alle kamers.  |1 |
+| 108  | Kluis in alle kamers.  |3 |
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -1907,12 +1907,12 @@ Kleding en bagage opbergen in de kamer
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 702  | Kapstok (minimaal 2 haken) in alle kamers.  | 1  |
-| 703  | Broekenpers in alle kamers.  | 2  |
-| 704  | Strijkplank en strijkbout, met stoomfunctie, op verzoek  | 1  |
-| 705  | Strijkplank en strijkbout, met stoomfunctie, in alle kamers  | 2  |
-| --- |  *Wanneer wordt voldaan aan norm 705 kunnen niet tevens punten worden behaald met norm 704.*   | --- |
-| 706  | Was- en strijkservice op verzoek met 2 uur retourservice van 08.00 – 20.00 uur  | 2  |
+| 702  |Kapstok (minimaal 2 haken) in alle kamers. | 1  |
+| 703  |Broekenpers in alle kamers. | 2  |
+|704 |Strijkplank en strijkbout, met stoomfunctie, op verzoek |1 |
+|705 |Strijkplank en strijkbout, met stoomfunctie, in alle kamers |2 |
+| --- |*Wanneer wordt voldaan aan norm 705 kunnen niet tevens punten worden behaald met norm 704.* | --- |
+|706 |Was- en strijkservice op verzoek met 2 uur retourservice van 08.00 – 20.00 uur |2 |
 
 Telecommunicatie in de kamer 
 
@@ -1920,18 +1920,18 @@ Telecommunicatie in de kamer
 |:---|:---|:---|
 | 802  | Datacommunicatie; beschikbaarheid van meerdere verbindingen tegelijkertijd (spraak en data) alsmede twee vrije stopcontacten in alle kamers.  | 4  |
 | 803  | Breedband datacommunicatie; beschikbaarheid van meerdere verbindingen tegelijkertijd (spraak en data) alsmede twee vrije stopcontacten in alle kamers.  | 5  |
-| --- | Wanneer wordt voldaan aan norm 803 kunnen niet tevens punten worden behaald met norm 802  | --- |
+| --- |  Wanneer wordt voldaan aan norm 803 kunnen niet tevens punten worden behaald met norm 802   | --- |
 | 804  | Telefax op verzoek.  | 1  |
 | 805  | Telefax in alle kamers.  | 2  |
-| --- | Wanneer wordt voldaan aan norm 805 kunnen niet tevens punten worden behaald met norm 804  | --- |
+| --- |  Wanneer wordt voldaan aan norm 805 kunnen niet tevens punten worden behaald met norm 804   | --- |
 | 806  | Computer met internetaansluiting op verzoek.  | 4  |
 | 807  | Computer met internetaansluiting in alle kamers  | 5  |
-| --- | Wanneer wordt voldaan aan norm 807 kunnen niet tevens punten worden behaald met norm 806  | --- |
+| --- |  Wanneer wordt voldaan aan norm 807 kunnen niet tevens punten worden behaald met norm 806   | --- |
 | 808  | Antwoordapparaat in alle kamers (voicemail).  | 1  |
 | 809  | Extra telefoon met buitenlijn in de privé-badgelegenheid van alle kamers.  | 1  |
-| 811  | Printer op verzoek  | 1  |
-| 812  | Printer in alle kamers  | 2  |
-| --- |  *Wanneer wordt voldaan aan norm 812 kunnen niet tevens punten worden behaald met norm 811.*   | --- |
+|811 |Printer op verzoek |1 |
+|812 |Printer in alle kamers |2 |
+| --- |*Wanneer wordt voldaan aan norm 812 kunnen niet tevens punten worden behaald met norm 811.* | --- |
 
 Audio en video in de kamer 
 
@@ -1941,17 +1941,17 @@ Audio en video in de kamer
 | 904  | Beschikbaarheid van Pay TV met mogelijkheid om op verzoek van de gast af te sluiten.  | 2  |
 | 905  | Extra luidsprekervoor radio en/of televisie in de privé-badgelegenheid van alle kamers.  | 1  |
 | 906  | Videorecorder en/of DVD-speler met afstandsbediening op verzoek.  | 1  |
-| 907  | Videorecorder en/of DVD-speler met afstandsbediening standaard in alle kamers.  | 2  |
-| --- |  *Wanneer wordt voldaan aan norm 907 kunnen niet tevens punten worden behaald met norm 906.*   | --- |
-| 908  | Movie en/of Music on Demand met een ruime keuze in alle kamers  | 3  |
-| 909  | Televisiescherm in alle badkamers.  | 2  |
+|907 |Videorecorder en/of DVD-speler met afstandsbediening standaard in alle kamers. |2 |
+| --- |*Wanneer wordt voldaan aan norm 907 kunnen niet tevens punten worden behaald met norm 906.* | --- |
+|908 |Movie en/of Music on Demand met een ruime keuze in alle kamers |3 |
+|909 |Televisiescherm in alle badkamers. |2 |
 
 Gastenartikelen in de kamer 
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 1006  | Welkomstgeschenk in alle kamers.  | 1  |
-| 1008  | Paraplu in de kamer of op verzoek.  | 1  |
+| 1006  | Welkomstgeschenk in alle kamers.  |1 |
+| 1008  | Paraplu in de kamer of op verzoek.  |1 |
 
 Wastafel in de kamer 
 
@@ -1966,17 +1966,17 @@ Badgelegenheid in de kamer
 | 1207  | Uittrekbare waslijn of gelijksoortige voorziening in alle kamers.  | 1  |
 | 1208  | Separate scheerspiegel in alle kamers.  | 1  |
 | 1209  | Separate scheerspiegel met ingebouwde verlichting, in alle kamers.  | 2  |
-| --- | Wanneer wordt voldaan aan norm 1209 kunnen niet tevens punten worden behaald met norm 1208.  | --- |
+| --- |  Wanneer wordt voldaan aan norm 1209 kunnen niet tevens punten worden behaald met norm 1208.   | --- |
 | 1210  | Handdoek verwarming in alle kamers.  | 1  |
 | 1211  | Bidet in alle kamers.  | 3  |
-| 1212  | Gescheiden bad en douche in minimaal 50% van de kamers.  | 3  |
-| 1213  | Gescheiden bad en douche in alle kamers.  | 5  |
-| --- |  *Wanneer wordt voldaan aan norm 1213 kunnen niet tevens punten worden behaald met norm 1212.*   | --- |
-| 1214  | Toilet separaat van badgelegenheid in minimaal 50% van de kamers.  | 2  |
-| 1215  | Toilet separaat van badgelegenheid op alle kamers.O  | 4  |
-| --- |  *Wanneer wordt voldaan aan norm 1215 kunnen niet tevens punten worden behaald met norm 1214.*   | --- |
-| 1216  | Anticondens voorziening door verwarmde badkamerspiegel.  | 1  |
-| 1217  | Extra badhanddoek boven de basisnorm per persoon standaard in alle kamers.  | 1  |
+|1212 |Gescheiden bad en douche in minimaal 50% van de kamers. |3 |
+|1213 |Gescheiden bad en douche in alle kamers. |5 |
+| --- |*Wanneer wordt voldaan aan norm 1213 kunnen niet tevens punten worden behaald met norm 1212.* | --- |
+|1214 |Toilet separaat van badgelegenheid in minimaal 50% van de kamers. |2 |
+|1215 |Toilet separaat van badgelegenheid op alle kamers.O |4 |
+| --- |*Wanneer wordt voldaan aan norm 1215 kunnen niet tevens punten worden behaald met norm 1214.* | --- |
+|1216 |Anticondens voorziening door verwarmde badkamerspiegel. |1 |
+|1217 |Extra badhanddoek boven de basisnorm per persoon standaard in alle kamers. |1 |
 
 ####Algemene voorzieningen in het hotel
 
@@ -1994,7 +1994,7 @@ Vervoer, toegang, assistentie, bereikbaarheid in het hotel
 | 1702  | Eigen parkeergelegenheid bij het hotel, voldoende voor minimaal 25% van het totale aantal kamers.  | 4  |
 | 1703  | Eigen parkeergarage bij het hotel.  | 4  |
 | 1704  | Eigen parkeergarage bij het hotel, voldoende voor minimaal 25% van het totale aantal kamers.  | 5  |
-| --- | Wanneer wordt voldaan aan norm 1701, 7702, 7703 of 1704 kan slechts eenmaal het hoogste aantal punten worden behaald  | --- |
+| --- |  Wanneer wordt voldaan aan norm 1701, 7702, 7703 of 1704 kan slechts eenmaal het hoogste aantal punten worden behaald   | --- |
 | 1711  | Stop- en los mogelijkheid bij de ingang van het hotel.  | 2  |
 | 1712  | Eigen shuttleservice, op verzoek of middels dienstregeling.  | 3  |
 
@@ -2002,15 +2002,15 @@ Voorzieningen gehandicapte gasten in het hotel
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 1803  | Parkeerplaats met aanduiding gereserveerd voor rolstoelgebruikers.  | 2  |
-| 1804  | Kamer geheel aangepast aan de specifieke eisen van rolstoelgebruikers en andere mindervalide gasten.  | 3  |
+| 1803  |Parkeerplaats met aanduiding gereserveerd voor rolstoelgebruikers. | 2  |
+|1804 |Kamer geheel aangepast aan de specifieke eisen van rolstoelgebruikers en andere mindervalide gasten. |3 |
 
 Receptie 
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 1907  | On-line reserveren van hotelkamers mogelijk met bevestiging.  | 1  |
-| 1908  | Begeleiding van de gasten naar hun kamer bij check-in.  | 1  |
+| 1907  |On-line reserveren van hotelkamers mogelijk met bevestiging. | 1  |
+| 1908  |Begeleiding van de gasten naar hun kamer bij check-in. | 1  |
 
 ####Eten en drinken in het hotel
 
@@ -2018,8 +2018,8 @@ Verkrijgbaarheid dranken
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
-| 2201  | Drankenautomaat in het hotel.  | 1  | 1  |
-| 2208  | Koffie-/theevoorziening in alle kamers  | 2  | 2  |
+| 2201  | Drankenautomaat in het hotel.  |1 |1 |
+| 2208  | Koffie-/theevoorziening in alle kamers  |2 |2 |
 
 Verkrijgbaarheid maaltijden 
 
@@ -2028,7 +2028,7 @@ Verkrijgbaarheid maaltijden
 | 2304  | Op verzoek wordt rekening gehouden met dieetwensen.  | 1  |
 | 2305  | Op verzoek wordt rekening gehouden met kindermenu.  | 1  |
 | 2307  | Warme maaltijden roomservice 24u/24u.  | 5  |
-| 2308  | Beschikbaarheid van meerdere restaurantconcepten in het hotel zoals bedoeld in 2302.  | 4  |
+|2308 |Beschikbaarheid van meerdere restaurantconcepten in het hotel zoals bedoeld in 2302. |4 |
 
 ####Overige voorzieningen in het hotel
 
@@ -2039,7 +2039,7 @@ Verkrijgbaarheid maaltijden
 | 2405  | Mogelijkheid tot aanschaf in het hotel van lectuur en kranten.  | 1  |
 | 2407  | Verkrijgbaarheid in het hotel van “gift” artikelen.  | 1  |
 | 2408  | Kapsalon in het hotel.  | 1  |
-| 2409  | Beschikbaarheid van connecting rooms.  | 2  |
+|2409 |Beschikbaarheid van connecting rooms. |2 |
 
 ####Overige services in het hotel
 
@@ -2070,7 +2070,7 @@ Verkrijgbaarheid maaltijden
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
-| 2700  | Beschikbaarheid van vergaderzaal(zalen) in het hotel.  | 3  | 3  |
-| 2701  | Banquetfaciliteiten in het hotel.  | 3  | 3  |
-| 2702  | Professionele dienstverlening ten behoeve van zaal/banquetfaciliteiten.  | 2  | --- |
+| 2700  | Beschikbaarheid van vergaderzaal(zalen) in het hotel.  |3 |3 |
+| 2701  | Banquetfaciliteiten in het hotel.  |3 |3 |
+|2702 |Professionele dienstverlening ten behoeve van zaal/banquetfaciliteiten. |2 | --- |
 

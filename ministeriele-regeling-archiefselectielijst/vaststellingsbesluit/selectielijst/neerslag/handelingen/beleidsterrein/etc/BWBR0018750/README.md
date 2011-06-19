@@ -10,25 +10,25 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Minister van Volksgezondheid, Welzijn en Sport en de onder hem ressorterende actoren op het beleidsterrein Openluchtrecreatie in de periode 1946–1983 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Volksgezondheid, Welzijn en Sport en de onder hem ressorterende actoren op het beleidsterrein Openluchtrecreatie in de periode 1946–1983’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 14 september 2005   
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschapnamens deze: de 
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap namens deze:de 
 Algemene Rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport, namens deze: de 
+Minister van Volksgezondheid, Welzijn en Sport, namens deze:de 
 plv. Secretaris-Generaal, 
-P.H.A.M.Huijts  
+P.H.A.M. Huijts    
 
 ####Basis selectie document openluchtrecreatie 1946–1983
 
@@ -38,11 +38,11 @@ P.H.A.M.Huijts
 
 ####Lijst van afkortingen
 
-AMvB: Algemene maatregel van bestuur BIZA: (Ministerie van) Binnenlandse Zaken BSD: Basis Selectiedocument CAS: Centrale Archief Selectiedienst CRM: (Ministerie van) Cultuur, Recreatie en Maatschappelijk Werk CO: Coördinatiecommissie Openluchtrecreatie DGRR: Directie Groene Ruimte en Recreatie EG: Europese Gemeenschap EZ: (Ministerie van) Economische Zaken INCOR: Interdepartementale Coördinatiecommissie voor de Openluchtrecreatie INCORET: Interdepartementale coördinatiecommissie openluchtrecreatie en toerisme KB: Koninklijk Besluit KNHG: Koninklijk Nederlands Historisch Genootschap LNV: (Ministerie van) Landbouw, Natuurbeheer en Visserij NA: Nationaal Archief NBOR: (Hoofddirectie) Natuurbehoud en Openluchtrecreatie NRLO: Nationale Raad voor Landbouwkundig onderzoek OCenW: (Ministerie van) Onderwijs, Cultuur en Wetenschappen OKW: (Ministerie van) Onderwijs, Kunsten en Wetenschappen PIVOT: Project Invoering Verkorting Overbrengingstermijn RAD: Rijksarchiefdienst RIO: Rapport Institutioneel Onderzoek Stb.: Staatsblad van het Koninkrijk der Nederlanden Stcrt.: Nederlandse Staatscourant SZV: (Ministerie van) Sociale Zaken en Volksgezondheid TRAG: Toeristisch Recreatieve Aandachtsgebieden TK: Tweede Kamer (Kamerstukaanduiding) V & W: (Ministerie van) Verkeer en Waterstaat VB: Verordeningenblad voor het Nederlandsche bezette gebied VROM : (Ministerie van) Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer VWS: (Ministerie van) Volksgezondheid, Welzijn en Sport WOR: Wet op de openluchtrecreatie WVC: (Ministerie van) Welzijn, Volksgezondheid en Cultuur  
+AMvB: Algemene maatregel van bestuur BIZA: (Ministerie van) Binnenlandse Zaken BSD: Basis Selectiedocument CAS: Centrale Archief Selectiedienst CRM: (Ministerie van) Cultuur, Recreatie en Maatschappelijk Werk CO: Coördinatiecommissie Openluchtrecreatie DGRR: Directie Groene Ruimte en Recreatie EG: Europese Gemeenschap EZ: (Ministerie van) Economische Zaken INCOR: Interdepartementale Coördinatiecommissie voor de Openluchtrecreatie INCORET: Interdepartementale coördinatiecommissie openluchtrecreatie en toerisme KB: Koninklijk Besluit KNHG: Koninklijk Nederlands Historisch Genootschap LNV: (Ministerie van) Landbouw, Natuurbeheer en Visserij NA: Nationaal Archief NBOR: (Hoofddirectie) Natuurbehoud en Openluchtrecreatie NRLO: Nationale Raad voor Landbouwkundig onderzoek OCenW: (Ministerie van) Onderwijs, Cultuur en Wetenschappen OKW: (Ministerie van) Onderwijs, Kunsten en Wetenschappen PIVOT: Project Invoering Verkorting Overbrengingstermijn RAD: Rijksarchiefdienst RIO: Rapport Institutioneel Onderzoek Stb.: Staatsblad van het Koninkrijk der Nederlanden Stcrt.: Nederlandse Staatscourant SZV: (Ministerie van) Sociale Zaken en Volksgezondheid TRAG: Toeristisch Recreatieve Aandachtsgebieden TK: Tweede Kamer (Kamerstukaanduiding) V & W: (Ministerie van) Verkeer en Waterstaat VB: Verordeningenblad voor het Nederlandsche bezette gebied VROM : (Ministerie van) Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer VWS: (Ministerie van) Volksgezondheid, Welzijn en Sport WOR: Wet op de openluchtrecreatie WVC: (Ministerie van) Welzijn, Volksgezondheid en Cultuur 
 
 ####Verantwoording
 
-### *Wettelijk kader voor de selectie van overheidsarchieven* 
+###*Wettelijk kader voor de selectie van overheidsarchieven*
 
 Ingevolge artikel 3 van de Archiefwet 1995 (Stb. 1995, 276) dient de overheid haar archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te bewaren. Onder 'archiefbescheiden' worden niet slechts papieren documenten te verstaan, maar alle bescheiden ongeacht de drager die door een overheidsorgaan zijn ontvangen of opgemaakt en naar hun aard bestemd zijn daaronder te berusten. Ook digitaal vastgelegde informatie valt dus onder de werking van de archiefwetgeving. Het in goede en geordende staat bewaren van archiefbescheiden houdt onder meer in dat een overheidsarchief op gezette tijden wordt geschoond. In dat verband schrijft de Archiefwet 1995 (Stb. 1995, 276) zowel een vernietigingsplicht (art. 3) als de overbrengingsplicht (art. 12) voor. Beide plichten rusten op degene die de bestuurlijke verantwoordelijkheid draagt voor het beheer van het desbetreffende archief: de zorgdrager. De verplichting tot overbrenging bepaalt dat de zorgdrager zijn archiefbescheiden die niet voor vernietiging in aanmerking komen en ouder zijn dan twintig jaar ter blijvende bewaring overbrengt naar een archiefbewaarplaats. Wat de archiefbescheiden van de ministeries en de Hoge Colleges van Staat betreft, is de aangewezen archiefbewaarplaats het Nationaal Archief (NA) in Den Haag. Het NA is een onderdeel van de Rijksarchiefdienst (RAD). Deze dienst ressorteert onder de Minister van OCenW en staat onder leiding van de Algemene Rijksarchivaris. In verband met de selectie van hun archiefbescheiden zijn zorgdragers op grond van artikel 5 van de Archiefwet 1995 verplicht hiertoe selectielijsten op te stellen. In een selectielijst dient te worden aangegeven welke archiefbescheiden voor vernietiging, dan wel voor blijvende bewaring in aanmerking komen. Voorts dient een selectielijst de termijnen aan te geven waarna de te vernietigen bestanddelen dienen te worden vernietigd. Een selectielijst is naar haar aard een duurzaam instrument. Het ligt in de rede dat een organisatie een vastgestelde lijst niet eenmalig toepast, maar (zonodig in geactualiseerde vorm) blijft hanteren om de periodieke aanwas van archiefmateriaal in een vroegtijdig stadium te selecteren. Een selectielijst vormt zo een belangrijk onderdeel van het instrumentarium voor het beheer van de documentaire informatievoorziening in een overheidsorganisatie. Bij het ontwerpen van een selectielijst dient krachtens art. 2, lid 1 van het Archiefbesluit 1995 (Stb. 1995, 671) rekening gehouden te worden met: 
 
@@ -58,11 +58,11 @@ Ingevolge artikel 3 van de Archiefwet 1995 (Stb. 1995, 276) dient de overheid ha
 
 – een deskundige ten aanzien van het beheer van de archiefbescheiden van dat orgaan, en  
 
-– (een vertegenwoordiger van) de Algemene Rijksarchivaris.   Wat betreft de geldigheidsduur van de selectielijst wordt uitgegaan van de wettelijke periode van twintig jaar vanaf de vaststelling. Dit laat uiteraard onverlet dat de selectielijst (of een bepaald onderdeel daarvan) binnen deze termijn zal komen te vervallen, indien dit mocht worden bepaald bij de vaststelling (via de aangewezen archiefwettelijke weg) van een nieuwe dan wel herziene selectielijst. Elke selectielijst wordt na advies van de Raad voor Cultuur, vastgesteld door de Minister van OCenW en de minister wie het mede aangaat. De vastgestelde lijsten worden in de Staatscourant gepubliceerd.  
+– (een vertegenwoordiger van) de Algemene Rijksarchivaris.   Wat betreft de geldigheidsduur van de selectielijst wordt uitgegaan van de wettelijke periode van twintig jaar vanaf de vaststelling. Dit laat uiteraard onverlet dat de selectielijst (of een bepaald onderdeel daarvan) binnen deze termijn zal komen te vervallen, indien dit mocht worden bepaald bij de vaststelling (via de aangewezen archiefwettelijke weg) van een nieuwe dan wel herziene selectielijst. Elke selectielijst wordt na advies van de Raad voor Cultuur, vastgesteld door de Minister van OCenW en de minister wie het mede aangaat. De vastgestelde lijsten worden in de Staatscourant gepubliceerd. 
 
 ####Doel en werking van het Basis Selectiedocument
 
-Een Basis Selectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van één (enkele) organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Het BSD geldt dus voor de archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voor zover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Dit betekent dat er geen handelingen van particuliere actoren worden opgenomen. Een BSD wordt normaliter opgesteld op basis van institutioneel onderzoek. In het rapport institutioneel onderzoek (RIO) wordt dan het betreffende beleidsterrein beschreven, evenals de taken en bevoegdheden van de betrokken organen. De handelingen van de overheid op het beleidsterrein staan in het RIO in hun functionele context geplaatst. In het BSD zijn de handelingen overgenomen, alleen nu geordend naar de actor. Bovendien is bij elke handeling aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden. Door de beleidsterreingerichte benadering komen verschillende aspecten betreffende het beheer van de eigen organisatie van de zorgdrager (personeelsbeleid, financieel beleid, etc.) niet aan bod. Voor het selecteren van de administratieve neerslag die betrekking heeft op de instandhouding en ontwikkeling van de eigen organisaties van overheidsorganen dienen een aantal zogeheten ‘horizontale’ BSD’s. Deze horizontale BSD’s zijn van toepassing op alle organisaties van de rijksoverheid. Het niveau waarop geselecteerd wordt, is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voorzien van een waardering en indien van toepassing een vernietigingstermijn.  
+Een Basis Selectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van één (enkele) organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald beleidsterrein. Het BSD geldt dus voor de archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voor zover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Dit betekent dat er geen handelingen van particuliere actoren worden opgenomen. Een BSD wordt normaliter opgesteld op basis van institutioneel onderzoek. In het rapport institutioneel onderzoek (RIO) wordt dan het betreffende beleidsterrein beschreven, evenals de taken en bevoegdheden van de betrokken organen. De handelingen van de overheid op het beleidsterrein staan in het RIO in hun functionele context geplaatst. In het BSD zijn de handelingen overgenomen, alleen nu geordend naar de actor. Bovendien is bij elke handeling aangegeven of de administratieve neerslag hiervan bewaard dan wel vernietigd moet worden. Door de beleidsterreingerichte benadering komen verschillende aspecten betreffende het beheer van de eigen organisatie van de zorgdrager (personeelsbeleid, financieel beleid, etc.) niet aan bod. Voor het selecteren van de administratieve neerslag die betrekking heeft op de instandhouding en ontwikkeling van de eigen organisaties van overheidsorganen dienen een aantal zogeheten ‘horizontale’ BSD’s. Deze horizontale BSD’s zijn van toepassing op alle organisaties van de rijksoverheid. Het niveau waarop geselecteerd wordt, is dus niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voorzien van een waardering en indien van toepassing een vernietigingstermijn. 
 
 #### *Definitie van het beleidsterrein* 
 
@@ -70,7 +70,7 @@ Openluchtrecreatie omvat die bezigheden die ontspanning en zelfontplooiing als h
 
 – ruimtelijke planning, inrichting en beheer;  
 
-– ondersteuning van activiteiten van de recreatiesector met behulp van recreantenvoorlichting, educatie en onderzoek.   Nadat het beleidsterrein in 1983 van het departement van Cultuur, Recreatie en Maatschappelijk Werk overging naar het departement van Landbouw werd het beleidsterrein aanzienlijk uitgebreid.  
+– ondersteuning van activiteiten van de recreatiesector met behulp van recreantenvoorlichting, educatie en onderzoek.   Nadat het beleidsterrein in 1983 van het departement van Cultuur, Recreatie en Maatschappelijk Werk overging naar het departement van Landbouw werd het beleidsterrein aanzienlijk uitgebreid. 
 
 #### *Afbakening van het beleidsterrein* 
 
@@ -80,7 +80,7 @@ Dit BSD is gebaseerd op het RIO nr. 51, ‘Openluchtrecreatie’ en de selectiel
 
 – de directie Bijstandszaken ging van het Ministerie van CRM over naar het Ministerie van Sociale Zaken en Werkgelegenheid.  
 
-– de directie Natuurbehoud en Openluchtrecreatie ging over van het Ministerie van CRM naar het Ministerie van Landbouw en Visserij.   Bron: ‘Evaluatie departementale herindelingen 1982’ (Ministerie van Binnenlandse Zaken, directie O&A, oktober 1983).  
+– de directie Natuurbehoud en Openluchtrecreatie ging over van het Ministerie van CRM naar het Ministerie van Landbouw en Visserij.   Bron: ‘Evaluatie departementale herindelingen 1982’ (Ministerie van Binnenlandse Zaken, directie O&A, oktober 1983). 
 
 #### *Taakgebied waartoe het beleidsterrein behoort* 
 
@@ -104,15 +104,15 @@ Ten tijde van het ministerie van CRM maakte het beleidsterrein openluchtrecreati
 
 * Minister van Sociale Zaken en Volksgezondheid (SZV) (1951–1971)  
 
-* Minister van Sociale Zaken (1933–1951)      
+* Minister van Sociale Zaken (1933–1951)     
 
 #### *Selectiedoelstelling* 
 
-Als uitgangspunt bij het vaststellen van dit BSD gold de door de rijksarchiefdienst gehanteerde selectiedoelstelling, die inhoudt dat de belangrijkste bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de rijksoverheid ten opzichte van haar omgeving, maar ook van de belangrijkste historisch-maatschappelijke gebeurtenissen en ontwikkelingen, voor zo ver deze zijn te reconstrueren uit overheidsarchieven. Om op basis van deze selectiedoelstelling tot een waardering van de handelingen te komen, worden zes selectiecriteria toegepast (zie volgende pagina):  
+Als uitgangspunt bij het vaststellen van dit BSD gold de door de rijksarchiefdienst gehanteerde selectiedoelstelling, die inhoudt dat de belangrijkste bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de rijksoverheid ten opzichte van haar omgeving, maar ook van de belangrijkste historisch-maatschappelijke gebeurtenissen en ontwikkelingen, voor zo ver deze zijn te reconstrueren uit overheidsarchieven. Om op basis van deze selectiedoelstelling tot een waardering van de handelingen te komen, worden zes selectiecriteria toegepast (zie volgende pagina): 
 
 ####Selectiecriteria
 
-Om de selectiedoelstelling te bereiken worden de handelingen in het BSD gewaardeerd aan de hand van de onderstaande algemene selectiecriteria. Deze criteria zijn in 1997 door het Convent van Rijksarchivarissen vastgesteld en geaccordeerd door PC DIN en KNHG. 1. Handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen *Toelichting*: Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet perse consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben verantwoording van beleid op hoofdlijnen aan andere actoren *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten *Toelichting:* Bijvoorbeeld in het geval de ministeriele verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Overigens kan, ingevolge artikel 5, onder e, van het Archiefbesluit 1995 neerslag van bepaalde, als te vernietigen gewaardeerde handelingen, betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. Naast de algemene criteria kunnen er in een BSD, eveneens binnen het kader van de selectiedoelstelling, in overleg met de RAD, beleidsterreinspecifieke criteria worden geformuleerd. Deze criteria worden doorlopend genummerd, waarbij wordt aangesloten bij de zes algemene criteria (dus vanaf 7). De vernietigingstermijnen van de neerslag van de met ‘V’ (= vernietigen) gewaardeerde handelingen zijn vastgesteld in overleg met deskundigen van dit ministerie op dit terrein.  
+Om de selectiedoelstelling te bereiken worden de handelingen in het BSD gewaardeerd aan de hand van de onderstaande algemene selectiecriteria. Deze criteria zijn in 1997 door het Convent van Rijksarchivarissen vastgesteld en geaccordeerd door PC DIN en KNHG. 1. Handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen  *Toelichting*: Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet perse consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben verantwoording van beleid op hoofdlijnen aan andere actoren  *Toelichting:* Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen  *Toelichting:* Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt  *Toelichting:* Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten  *Toelichting:* Bijvoorbeeld in het geval de ministeriele verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Overigens kan, ingevolge artikel 5, onder e, van het Archiefbesluit 1995 neerslag van bepaalde, als te vernietigen gewaardeerde handelingen, betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. Naast de algemene criteria kunnen er in een BSD, eveneens binnen het kader van de selectiedoelstelling, in overleg met de RAD, beleidsterreinspecifieke criteria worden geformuleerd. Deze criteria worden doorlopend genummerd, waarbij wordt aangesloten bij de zes algemene criteria (dus vanaf 7). De vernietigingstermijnen van de neerslag van de met ‘V’ (= vernietigen) gewaardeerde handelingen zijn vastgesteld in overleg met deskundigen van dit ministerie op dit terrein. 
 
 #### *Verslag van de vaststellingsprocedure* 
 
@@ -122,15 +122,15 @@ Op 11 maart 2004 is het ontwerp-BSD door het Ministerie van Volksgezondheid, Wel
 
 – De waardering van handeling 109 is gewijzigd in B5 voor alle neerslag en niet alleen voor het eindproduct.  
 
-– De waardering van handeling 110 is gewijzigd van V 10 jaar in B5.   Daarop werd het BSD op 14 september 2005 door de Algemene Rijksarchivaris, namens de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, en de Minister van Volksgezondheid, Welzijn en Sport vastgesteld [C/S&A/05/1918].  
+– De waardering van handeling 110 is gewijzigd van V 10 jaar in B5.   Daarop werd het BSD op 14 september 2005 door de Algemene Rijksarchivaris, namens de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, en de Minister van Volksgezondheid, Welzijn en Sport vastgesteld [C/S&A/05/1918]. 
 
 #### *Leeswijzer* 
 
-Handelingnr.: Dit is het volgnummer van de handeling. Dit nummer is overgenomen uit het RIO. Handeling: Dit is een complex van activiteiten die een actor verricht ter vervulling van een taak of op grond van een bevoegdheid. In de praktijk komt een handeling meestal overeen met een procedure of een werkproces. Periode: Hier staat het tijdvak vermeld gedurende welke jaren de handeling is verricht. Wanneer er geen eindjaar staat vermeld wordt de handeling nog steeds uitgevoerd. Grondslag: Dit is de wettelijke basis op grond waarvan de actor de handeling verricht. Vermeld worden: de naam (citeertitel) van de wet, de Algemene Maatregel van Bestuur, het Koninklijk Besluit of de ministeriële regeling; het betreffende artikel en lid daarvan;de vindplaats, dwz. de vermelding van Staatsblad of Staatscourant wijzigingen in de grondslag en het vervallen hiervan. Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de bron worden genoemd waarin de betreffende handeling staat vermeld. Opmerking: Deze aanvullende informatie wordt slechts vermeld wanneer de strekking van de handeling toelichting behoeft. Waardering: Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering.  
+Handelingnr.: Dit is het volgnummer van de handeling. Dit nummer is overgenomen uit het RIO. Handeling: Dit is een complex van activiteiten die een actor verricht ter vervulling van een taak of op grond van een bevoegdheid. In de praktijk komt een handeling meestal overeen met een procedure of een werkproces. Periode: Hier staat het tijdvak vermeld gedurende welke jaren de handeling is verricht. Wanneer er geen eindjaar staat vermeld wordt de handeling nog steeds uitgevoerd. Grondslag: Dit is de wettelijke basis op grond waarvan de actor de handeling verricht. Vermeld worden: de naam (citeertitel) van de wet, de Algemene Maatregel van Bestuur, het Koninklijk Besluit of de ministeriële regeling; het betreffende artikel en lid daarvan;de vindplaats, dwz. de vermelding van Staatsblad of Staatscourant wijzigingen in de grondslag en het vervallen hiervan. Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de bron worden genoemd waarin de betreffende handeling staat vermeld. Opmerking: Deze aanvullende informatie wordt slechts vermeld wanneer de strekking van de handeling toelichting behoeft. Waardering: Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering. 
 
 ####Actor: de Minister van Cultuur, Recreatie en Maatschappelijk Werk
 
-### *Algemene beleidsvoorbereiding en verantwoording* 
+###*Algemene beleidsvoorbereiding en verantwoording*
 
 ###1
 
@@ -192,7 +192,7 @@ Handeling: Het leveren van bijdragen aan de ambtelijke voorbereiding van wet- en
 ###23
 
 Handeling: Het formuleren van standpunten ten aanzien van de kwaliteit van de openluchtrecreatie / het toerisme Periode: 1965–1983 Bron: Begrotingen Product: nota’s Waardering: B 1 
-### *Uitvoering/subsidiëring* 
+###*Uitvoering/subsidiëring*
 
 ###24
 
@@ -218,7 +218,7 @@ Handeling: Het leveren van bijdragen aan ruilverkavelings- , landwinnings- en wa
 ###32
 
 Handeling: Het opstellen van regels ten behoeve van de subsidiëring van het recreatief medegebruik Periode: 1982–1983 Bron: Begrotingen Product: regelingen Waardering: B 5 
-### *Coördinatie en samenwerking* 
+###*Coördinatie en samenwerking*
 
 ###33
 
@@ -241,7 +241,7 @@ Handeling: Het instellen van de Coördinatiecommissie Openluchtrecreatie (CO), h
 ###44
 
 Handeling: Het benoemen van de leden van de Coördinatiecommissie Openluchtrecreatie (CO) Periode: 1975–1983 Grondslag: Coördinatiebeschikking Openluchtrecreatie 1975 (Stcrt. 1975, 22) Product: Coördinatiebeschikking Openluchtrecreatie 1975 (Stcrt. 1975, 22) Waardering: V, 10 jaar V, 75 jaar na geboorte voor documenten waaruit pensioenaanspraken volgen 
-### *Onderzoek* 
+###*Onderzoek*
 
 ###58
 
@@ -258,7 +258,7 @@ Handeling: Het – eventueel tezamen met andere ministers – instellen en liqui
 ###62
 
 Handeling: Het aanwijzen en benoemen van leden en voorzitter van commissies en werkgroepen inzake het onderzoek op het gebied van de openluchtrecreatie Periode: 1965–1983 Bron: Rapport Programmering Openluchtrecreatie-onderzoek van de NRLO 1985; begrotingen Product: besluiten Opmerking: Commissies zijn onder meer: – Commissie van Overleg inzake vrijetijdsonderzoek 1967 – Werkgroep Programmering Onderzoek Openluchtrecreatie 1975 – Werkgroep Onderzoek (van de Coördinatiecommissie Openluchtrecreatie) Waardering: V, 10 jaar V, 75 jaar na geboorte voor documenten waaruit pensioenaanspraken volgen 
-### *Voorlichting* 
+###*Voorlichting*
 
 ###68
 
@@ -269,7 +269,7 @@ Handeling: Het leveren van financiële bijdragen aan voorlichtingsactiviteiten v
 ###70
 
 Handeling: Het instellen, wijzigen en opheffen van werkgroepen, commissies en raden inzake algemene voorlichting met betrekking tot de openluchtrecreatie Periode: 1971–1983 Bron: Begrotingen Product: instellingsbeschikkingen, etc. Opmerking: Bijvoorbeeld Commissie van Voorlichting Openluchtrecreatie (1971–heden) Waardering: B 4 
-### *Onderwijs* 
+###*Onderwijs*
 
 ###71
 
@@ -280,7 +280,7 @@ Handeling: Het instellen van werkgroepen en commissies inzake de onderlinge afst
 ###73
 
 Handeling: Het gezamenlijk ontwikkelen en evalueren van opleidingen ten behoeve van de openluchtrecreatie Periode: 1965–1983 Bron: Begrotingen Product: nota’s, evaluatierapporten Waardering: B 5 
-### *Doelgroepenbeleid* 
+###*Doelgroepenbeleid*
 
 ###74
 
@@ -300,7 +300,7 @@ Handeling: Het uitvoeren van voorlichtingsactiviteiten op het terrein van recrea
 ###79
 
 Handeling: Het subsidiëren van specifieke inrichtingsprogramma’s/voorzieningen ten behoeve van zogenaamde doelgroepen Periode: 1965–1983 Bron: Begrotingen, nota’s Product: beschikkingen Waardering: V, 10 jaar na toekenning 
-### *Landgebonden recreatie* 
+###*Landgebonden recreatie*
 
 ###80
 
@@ -341,7 +341,7 @@ Handeling: Het voorbereiden, mede-vaststellen, coördineren en evalueren van bel
 ###92
 
 Handeling: Het voorbereiden, mede-vaststellen, coördineren en evalueren van beleid ten aanzien van de locatie en inrichting van golfbanen Periode: 1965–1983 Bron: Nota Recreantenbeleid 1985; begrotingen Product: nota’s, vaststellingsbesluiten, evaluatierapporten Waardering: B 1, 2 
-### *Waterrecreatie* 
+###*Waterrecreatie*
 
 ###93
 
@@ -391,7 +391,7 @@ Handeling: Het voorbereiden, mede-vaststellen, coördineren en evalueren van bel
 ###108
 
 Handeling: Het voorbereiden, mede-vaststellen, coördineren en evalueren van beleid inzake de totstandkoming van een landelijk plan voor aanlegplaatsen Periode: 1977–1983 Bron: Nota Vaarwegen 1980; begrotingen Product: meerjarenprogramma’s, vaststellingsbesluiten Waardering: B 1, 2 
-### *Recreatieschappen en recreatiegebieden* 
+###*Recreatieschappen en recreatiegebieden*
 
 ###109
 
@@ -405,7 +405,7 @@ Handeling: Het (mede) financieren van recreatiegebieden/-schappen Periode: 1972�
 ###112
 
 Handeling: Het ontwikkelen, mede-vaststellen, coördineren en evalueren van beleid inzake de rijksrecreatiegebieden Periode: 1972–1983 Bron: Begrotingen Product: nota’s, vaststellingsbesluiten, evaluatierapporten Waardering: B 1, 2 
-### *Vakantiespreiding* 
+###*Vakantiespreiding*
 
 ###113
 
@@ -416,7 +416,7 @@ Handeling: Het gezamenlijk met andere betrokken ministers voorbereiden en vastst
 ###117
 
 Handeling: Het voordragen en benoemen van de leden van de commissies vakantiespreiding Periode: 1965–1983 Grondslag: Algemene handelingen opgesteld door het Nationaal Archief Product: benoemingsbesluiten Waardering: V, 10 jaar V, 75 jaar na geboorte voor documenten waaruit pensioenaanspraken volgen 
-### *Verblijfsrecreatie* 
+###*Verblijfsrecreatie*
 
 ###118
 
@@ -457,7 +457,7 @@ Handeling: Het stellen van nadere regelen ten aanzien van de samenstelling en we
 ###135
 
 Handeling: Het opstellen van richtlijnen ten behoeve van gemeentelijke overheden inzake het verlenen van vergunningen, vrijstellingen of ontheffingen voor kamperen Periode: 1965–1983 Bron: Begrotingen Product: richtlijnen Waardering: B 5 
-### *Paardensport* 
+###*Paardensport*
 
 ###172
 
@@ -465,7 +465,7 @@ Handeling: Het deelnemen aan commissies en werkgroepen inzake de paardensport wa
 ###173
 
 Handeling: Het verstrekken van subsidies aan personen, bedrijven en instellingen die actief zijn op het terrein van de paardensport Periode: 1977–1983 Grondslag: Beschikking Rijksregeling voor subsidiëring van landelijke organisaties op het gebied van de sport Product: beschikkingen Waardering: V, 10 jaar na toekenning 
-### *Gezelschapsdieren* 
+###*Gezelschapsdieren*
 
 ###210
 
@@ -484,15 +484,15 @@ Handeling: Het (onder bepaalde voorwaarden) verstrekken van subsidies aan person
 Handeling: Het voorbereiden, mede-vaststellen, coördineren en evalueren van het beleid inzake de dierentuinen Periode: 1965–1983 Bron: Nota Recreantenbeleid 1985 Product: nota’s, correspondentie, evaluatierapporten Waardering: B 1, 2 
 ###215
 
-Handeling: Het onder bepaalde voorwaarden verstrekken van (incidentele) financiële ondersteuning aan dierentuinen Periode: 1965–1983 Bron: Nota Recreantenbeleid 1985 Product: beschikkingen Waardering: V, 10 jaar na toekenning  
+Handeling: Het onder bepaalde voorwaarden verstrekken van (incidentele) financiële ondersteuning aan dierentuinen Periode: 1965–1983 Bron: Nota Recreantenbeleid 1985 Product: beschikkingen Waardering: V, 10 jaar na toekenning 
 
 ####Actor: de Interdepartementale Commissie voor de Openluchtrecreatie (INCOR)
 
 ###38
 
-Handeling: Het desgevraagd of uit eigen beweging adviseren omtrent de aan de minister belast met de openluchtrecreatie opgedragen coördinatietaak ten aanzien van de openluchtrecreatie Periode: 1958–1962 Grondslag: Instellingsbeschikking INCOR 1958 Product: adviesrapporten Waardering: B 3  
+Handeling: Het desgevraagd of uit eigen beweging adviseren omtrent de aan de minister belast met de openluchtrecreatie opgedragen coördinatietaak ten aanzien van de openluchtrecreatie Periode: 1958–1962 Grondslag: Instellingsbeschikking INCOR 1958 Product: adviesrapporten Waardering: B 3 
 
-####Actor: de interdepartementale coördinatiecommissie openluchtrecreatie en toerisme (INCORET)
+#### Actor: de interdepartementale coördinatiecommissie openluchtrecreatie en toerisme (INCORET)
 
 Opmerking: INCORET is de opvolger van de Interdepartementale coördinatiecommissie openluchtrecreatie (INCOR; 1958–1962) en de voorganger van de Coördinatiecommissie openluchtrecreatie (1975–) 
 ###41
@@ -500,7 +500,7 @@ Opmerking: INCORET is de opvolger van de Interdepartementale coördinatiecommiss
 Handeling: Het desgevraagd of uit eigen beweging adviseren van de ministers belast met de openluchtrecreatie en EZ ten aanzien van te treffen maatregelen en voorzieningen op de terreinen van de openluchtrecreatie en het toerisme Periode: 1962–1975 Grondslag: Instellingsbeschikking INCORET 1962 Product: adviesrapporten Waardering: B 1 
 ###42
 
-Handeling: Het desgevraagd of uit eigen beweging adviseren omtrent de aan de minister belast met de openluchtrecreatie opgedragen coördinatietaak ten aanzien van de openluchtrecreatie Periode: 1962–1975 Grondslag: Instellingsbeschikking INCORET 1962 Product: adviesrapporten Waardering: B 1  
+Handeling: Het desgevraagd of uit eigen beweging adviseren omtrent de aan de minister belast met de openluchtrecreatie opgedragen coördinatietaak ten aanzien van de openluchtrecreatie Periode: 1962–1975 Grondslag: Instellingsbeschikking INCORET 1962 Product: adviesrapporten Waardering: B 1 
 
 ####Actor: de Coördinatiecommissie Openluchtrecreatie
 
@@ -512,13 +512,13 @@ Handeling: Het adviseren aan de betrokken ministers met betrekking tot de hoofdl
 Handeling: Het instellen van speciale werkgroepen/subcommissies waarin ook andere leden dan leden van de commissie zitting kunnen hebben Periode: 1975– Grondslag: Beschikking CO 1975, art. 9 Product: Instellingsbesluiten Waardering: B 4 
 ###47
 
-Handeling: Het doen van voorstellen aan de betrokken ministers met betrekking tot het jaarlijks vast te stellen rijksmeerjarenplan openluchtrecreatie Periode: 1975–(1985) Grondslag: Coördinatiebeschikking Openluchtrecreatie 1975, art. 4 lid 1 (Stcrt. 1975, 22) Product: nota’s Waardering: B 1  
+Handeling: Het doen van voorstellen aan de betrokken ministers met betrekking tot het jaarlijks vast te stellen rijksmeerjarenplan openluchtrecreatie Periode: 1975–(1985) Grondslag: Coördinatiebeschikking Openluchtrecreatie 1975, art. 4 lid 1 (Stcrt. 1975, 22) Product: nota’s Waardering: B 1 
 
 ####Actor: de Commissie van overleg inzake het vrijetijdsonderzoek
 
 ###63
 
-Handeling: Het stellen van prioriteiten in onderzoek en het opstellen van onderzoeksprogramma’s inzake de vrijetijdsbesteding Periode: 1967–1985 Grondslag: Beschikking 10 maart 1967, nr. 99490, art. 5 (Stcrt. 1967, 67) Product: onderzoeksprogramma’s Waardering: B 5  
+Handeling: Het stellen van prioriteiten in onderzoek en het opstellen van onderzoeksprogramma’s inzake de vrijetijdsbesteding Periode: 1967–1985 Grondslag: Beschikking 10 maart 1967, nr. 99490, art. 5 (Stcrt. 1967, 67) Product: onderzoeksprogramma’s Waardering: B 5 
 
 ####Actor: de Kampeerraad
 
@@ -527,7 +527,7 @@ Handeling: Het stellen van prioriteiten in onderzoek en het opstellen van onderz
 Handeling: Het desgevraagd of uit eigen beweging adviseren van de rijksoverheid met betrekking tot het kamperen Periode: 1982–(1985) Grondslag: Kampeerwet, art. 2 lid 1 (Stb. 1981, 372) Product: adviesrapport Waardering: B 1 
 ###133
 
-Handeling: Het opstellen en uitbrengen van jaarverslagen Periode: 1982–(1985) Bron: Kampeerwet, art. 8 lid 2 (Stb. 1981, 372) Product: jaarverslagen Waardering: B 3  
+Handeling: Het opstellen en uitbrengen van jaarverslagen Periode: 1982–(1985) Bron: Kampeerwet, art. 8 lid 2 (Stb. 1981, 372) Product: jaarverslagen Waardering: B 3 
 
 ####Actor: de minister waaronder Volksgezondheid ressorteert
 
@@ -548,5 +548,5 @@ Handeling: Het behandelen van beroepschriften van de inspecteurs van de Volksgez
 Handeling: Het aanwijzen van ambtenaren belast met het (staats-)toezicht op de naleving van de voorschriften betreffende de volksgezondheid op kampeerplaatsen en jachthavens Periode: 1969–1983 Grondslag: Wet hygiëne kampeerplaatsen, art. 14, lid 1 (Stb. 1969, 446); Kampeerwet, art. 35, lid 1 (Stb. 1981, 372) Product: ministeriële regeling Waardering: V, 10 jaar 
 ###142
 
-Handeling: Het bij AMvB vaststellen van voorschriften inzake de gezondheid en hygiëne van kampeerplaatsen en jachthavens Periode: 1969–1983 Grondslag: Wet hygiëne kampeerplaatsen, art. 3 (Stb. 1969, 446); Kampeerwet, art. 13 (Stb. 1981, 372) Waardering: B 1  
+Handeling: Het bij AMvB vaststellen van voorschriften inzake de gezondheid en hygiëne van kampeerplaatsen en jachthavens Periode: 1969–1983 Grondslag: Wet hygiëne kampeerplaatsen, art. 3 (Stb. 1969, 446); Kampeerwet, art. 13 (Stb. 1981, 372) Waardering: B 1 
 

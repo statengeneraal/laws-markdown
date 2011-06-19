@@ -25,23 +25,23 @@ a. een bekostigde school als bedoeld in de [Wet op het primair onderwijs](../../
 
 b. een bekostigde school of instelling als bedoeld in de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md);  
 
-c. een bekostigde school voor voortgezet onderwijs als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);    
+c. een bekostigde school voor voortgezet onderwijs als bedoeld in de[ Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);    
 
 2. vreemdeling: leerling: 
 
 1°. die door Onze minister van Justitie in het bezit is gesteld van een document of schriftelijke verklaring als bedoeld in [artikel 9 van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onderscheidenlijk van wie tenminste één van de ouders of voogden door Onze minister van Justitie in bezit is gesteld van een document of schriftelijke verklaring als bedoeld in [artikel 9 van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), en  
 
-2°. van wie aantoonbaar is dat hij nog geen jaar woonachtig is in Nederland, en  
+2°. van wie aantoonbaar is dat hij nog geen jaar woonachtig is in Nederland, en   
 
 3°. die ingeschreven staat aan een school en die school geregeld bezoekt;    
 
-3. minister: Onze minister van Onderwijs, Cultuur en Wetenschappen.    
+3. minister: Onze minister van Onderwijs, Cultuur en Wetenschappen.   
 
 ### Artikel  2  
 
 ####Criteria voor een specifieke uitkering en doel van de specifieke uitkering
 
-Dit besluit geeft de criteria op grond waarvan een gemeente in aanmerking komt voor een specifieke uitkering ter tegemoetkoming in de kosten van de eerste opvang van vreemdelingen aan een school, de criteria voor de hoogte van de uitkering en de criteria voor de wijze van verstrekken daarvan. De specifieke uitkering wordt besteed aan bekostiging van het onderwijs aan vreemdelingen.  
+Dit besluit geeft de criteria op grond waarvan een gemeente in aanmerking komt voor een specifieke uitkering ter tegemoetkoming in de kosten van de eerste opvang van vreemdelingen aan een school, de criteria voor de hoogte van de uitkering en de criteria voor de wijze van verstrekken daarvan. De specifieke uitkering wordt besteed aan bekostiging van het onderwijs aan vreemdelingen. 
 
 ### Artikel  3  
 
@@ -59,7 +59,7 @@ c. het aantal vreemdelingen dat staat ingeschreven op een school of nevenvestigi
 
 a. het bedrag voor een vreemdeling als bedoeld in het tweede lid onder a, vermenigvuldigd met het aantal vreemdelingen als bedoeld in het tweede lid onder c, dat op de voor die periode geldende peildatum, genoemd in artikel 4, eerste lid, staat ingeschreven op een of meer scholen als bedoeld in het tweede lid onder a, en  
 
-b. het bedrag voor een vreemdeling als bedoeld in het tweede lid onder b, vermenigvuldigd met het aantal vreemdelingen als bedoeld in het tweede lid onder c, dat op de voor die periode geldende peildatum, genoemd in artikel 4, eerste lid, staat ingeschreven op een of meer scholen als bedoeld in het tweede lid onder b, in de gemeente.     
+b. het bedrag voor een vreemdeling als bedoeld in het tweede lid onder b, vermenigvuldigd met het aantal vreemdelingen als bedoeld in het tweede lid onder c, dat op de voor die periode geldende peildatum, genoemd in artikel 4, eerste lid, staat ingeschreven op een of meer scholen als bedoeld in het tweede lid onder b, in de gemeente.    
 
 ### Artikel  4  
 
@@ -81,31 +81,31 @@ c. 1 juni voor de periode april tot en met juli.
 
 1.  Een gemeente die niet eerder eerste opvang van vreemdelingen aan een school als bedoeld in de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) dan wel de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) heeft georganiseerd, komt in aanmerking voor een startsubsidie ten behoeve van voorbereidende en coördinerende werkzaamheden die samenhangen met de start van het onderwijs aan die school of scholen indien deze eerste opvang betrekking heeft op tenminste 10 vreemdelingen. Deze subsidie is eenmalig en bedraagt  € 11 500,-.   
 2.  Een gemeente die niet eerder eerste opvang van vreemdelingen aan een school als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) heeft georganiseerd, komt in aanmerking voor een startsubsidie ten behoeve van voorbereidende en coördinerende werkzaamheden die samenhangen met de start van het onderwijs aan die school of scholen indien deze eerste opvang betrekking heeft op tenminste 10 vreemdelingen. Deze subsidie is eenmalig en bedraagt € 15 000,-.   
-3.  De startsubsidie wordt tegelijk aangevraagd met de specifieke uitkering, bedoeld in artikel 3. Indien de startsubsidie wordt toegewezen, maakt deze onderdeel uit van de specifieke uitkering.   
+3.  De startsubsidie wordt tegelijk aangevraagd met de specifieke uitkering, bedoeld in artikel 3. Indien de startsubsidie wordt toegewezen, maakt deze onderdeel uit van de specifieke uitkering.  
 
 ### Artikel  6  
 
 ####Verantwoording
 
-De gemeente dient uiterlijk 1 november van elk jaar een financiële verantwoording in bij de minister. Deze financiële verantwoording heeft betrekking op het daaraan voorafgaande schooljaar. Indien de toegekende specifieke uitkeringen voor dat schooljaar in totaal meer bedragen dan € 45 000,- gaat deze verantwoording vergezeld van een verklaring omtrent de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).  
+De gemeente dient uiterlijk 1 november van elk jaar een financiële verantwoording in bij de minister. Deze financiële verantwoording heeft betrekking op het daaraan voorafgaande schooljaar. Indien de toegekende specifieke uitkeringen voor dat schooljaar in totaal meer bedragen dan € 45 000,- gaat deze verantwoording vergezeld van een verklaring omtrent de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). 
 
 ### Artikel  7  
 
 ####Terugvordering
 
-De specifieke uitkeringen kunnen binnen een periode van vijf jaar geheel of gedeeltelijk door de minister worden teruggevorderd indien de gemeente onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste of volledige gegevens tot een andere of geen toekenning zou hebben geleid, indien de gemeente niet voldoet aan artikel 8, dan wel indien de gemeente de specifieke uitkering niet heeft gebruikt in overeenstemming met de doelstelling, bedoeld in artikel 2.  
+De specifieke uitkeringen kunnen binnen een periode van vijf jaar geheel of gedeeltelijk door de minister worden teruggevorderd indien de gemeente onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste of volledige gegevens tot een andere of geen toekenning zou hebben geleid, indien de gemeente niet voldoet aan artikel 8, dan wel indien de gemeente de specifieke uitkering niet heeft gebruikt in overeenstemming met de doelstelling, bedoeld in artikel 2. 
 
 ### Artikel  8  
 
 ####Inzagerecht
 
-De gemeente verleent aan de minister of één of meer door hem aan te wijzen personen, volledige inzage in de boeken en bescheiden, en geeft toegang tot de door de gemeente gebruikte plaatsen. Aan bedoelde persoon of personen worden alle inlichtingen verstrekt die nodig worden geoordeeld voor de uitvoering van die taak.  
+De gemeente verleent aan de minister of één of meer door hem aan te wijzen personen, volledige inzage in de boeken en bescheiden, en geeft toegang tot de door de gemeente gebruikte plaatsen. Aan bedoelde persoon of personen worden alle inlichtingen verstrekt die nodig worden geoordeeld voor de uitvoering van die taak. 
 
 ### Artikel  9  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 augustus 2003.  
+Dit besluit treedt in werking met ingang van 1 augustus 2003. 
 
 ### Artikel  10  
 
@@ -125,4 +125,4 @@ G. Zalm
 de vierentwintigste juli 2003 
 
 De Minister van Justitie a.i., 
-G. Zalm    
+G. Zalm     

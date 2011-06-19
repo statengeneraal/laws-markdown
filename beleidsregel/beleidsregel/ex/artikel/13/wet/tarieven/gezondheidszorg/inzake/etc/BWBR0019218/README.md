@@ -10,7 +10,7 @@ Besluit:
 
 ### Artikel  1  
 
-Dit besluit is van toepassing op organen voor gezondheidszorg als vermeld in [artikel 1, onder A, nummers 10, 16a en 16b van het Besluit werkingssfeer WTG 1992](../../../../../../../../../../../AMvB/besluit/werkingssfeer/wtg/1992/BWBR0005342/README.md). Ter uitvoering van de artikelen 3 tot en met 6 van dit besluit stelt het College Tarieven Gezondheidszorg beleidsregels vast voor de in de eerste volzin bedoelde organen.  
+Dit besluit is van toepassing op organen voor gezondheidszorg als vermeld in [artikel 1, onder A, nummers 10, 16a en 16b van het Besluit werkingssfeer WTG 1992](../../../../../../../../../../../AMvB/besluit/werkingssfeer/wtg/1992/BWBR0005342/README.md). Ter uitvoering van de artikelen 3 tot en met 6 van dit besluit stelt het College Tarieven Gezondheidszorg beleidsregels vast voor de in de eerste volzin bedoelde organen. 
 
 ### Artikel  2  
 
@@ -20,7 +20,7 @@ a. het College: het College Tarieven Gezondheidszorg;
 
 b. totale contracteerruimte: het totale bedrag – exclusief de in artikel 6 geoormerkte gelden – dat maximaal beschikbaar is voor het maken van de voor toetsing relevante productieafspraken tussen zorgkantoren en zorgaanbieders;  
 
-c. contracteerruimte per zorgkantoorregio: het aan een zorgkantoorregio toegerekende aandeel in de totale contracteerruimte.    
+c. contracteerruimte per zorgkantoorregio: het aan een zorgkantoorregio toegerekende aandeel in de totale contracteerruimte.   
 
 ### Artikel  3  
 
@@ -42,7 +42,7 @@ g. Van het bedrag voortvloeiend uit f. brengt het College in mindering de geraam
 
 h. Van het bedrag voortvloeiend uit g. brengt het College in mindering het geld dat uit de groeiruimte is gereserveerd voor de bestemmingen genoemd in Artikel 6, onder 1 en 2 (€ 117,0 mln.), de kosten van zorginfrastructuur (€ 30 mln.), de kosten behorend bij de beleidsregel dwang en drang (€ 5 mln.), en de extra middelen voor kleinschalig wonen (€ 14 mln.).  
 
-i. Het College indexeert de uitkomst na toepassing van h. naar het prijspeil 2006.    
+i. Het College indexeert de uitkomst na toepassing van h. naar het prijspeil 2006.   
 
 ### Artikel  4  
 
@@ -53,7 +53,7 @@ a. Startpunt voor het bepalen van de contracteerruimte voor ieder zorgkantoor is
 b. De groeiruimte die is gereserveerd voor prioriteiten op het gebied van zorgzwaarte en kwaliteit kan het College toevoegen op basis van de te verwachten uitwerking daarvan op zorgkantoorniveau.  
 
 c. De resterende groeiruimte voegt het College toe naar rato van hun aandeel in de totale contracteerruimte na toepassing van onderdeel b.     
-2.  Het College kan binnen de totale contracteerruimte op basis van een tweezijdig verzoek contracteerruimte incidenteel of structureel overhevelen tussen individuele zorgkantoren.   
+2.  Het College kan binnen de totale contracteerruimte op basis van een tweezijdig verzoek contracteerruimte incidenteel of structureel overhevelen tussen individuele zorgkantoren.  
 
 ### Artikel  5  
 
@@ -82,11 +82,11 @@ j. overige niet door zorgkantoren te beïnvloeden kosten;
 k. de onderdelen genoemd in artikel 7;  
 
 l. productieafspraken die behoren bij nieuwe of gewijzigde toelatingen voor intramurale capaciteit (waarvoor contracteerplicht bestaat).     
-2.  Indien het College constateert dat de ingediende productieafspraken niet passen binnen de contracteerruimte van het zorgkantoor, wordt de overschrijding op de contracteerruimte niet gehonoreerd. In zijn beleidsregels werkt het College uit hoe dit uitwerkt per instelling.   
+2.  Indien het College constateert dat de ingediende productieafspraken niet passen binnen de contracteerruimte van het zorgkantoor, wordt de overschrijding op de contracteerruimte niet gehonoreerd. In zijn beleidsregels werkt het College uit hoe dit uitwerkt per instelling.  
 
 ### Artikel  6  
 
-Het College voegt aan de contracteerruimte een bedrag toe op basis van de 1% marge-regeling. Dit bedrag volgt uit door het ministerie van VWS nader te verstrekken gegevens.  
+Het College voegt aan de contracteerruimte een bedrag toe op basis van de 1% marge-regeling. Dit bedrag volgt uit door het ministerie van VWS nader te verstrekken gegevens. 
 
 ### Artikel  7  
 
@@ -96,13 +96,13 @@ a. toeslagen voor zware zorg in verpleeghuizen (landelijk kader van maximaal €
 
 b. het bekostigen van zorgbehoefte van cliënten met een extreme zorgzwaarte in de gehandicaptenzorg (landelijk kader van maximaal € 37,0 mln.);  
 
-c. de kosten van advies, instructie en voorlichting (AIV)-preventie en kosten van voedingsvoorlichting (kader per zorgkantoorregio met een landelijk maximum van € 16,0 mln.).    
+c. de kosten van advies, instructie en voorlichting (AIV)-preventie en kosten van voedingsvoorlichting (kader per zorgkantoorregio met een landelijk maximum van € 16,0 mln.).   
 
 ### Artikel  8  
 
-Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.  
 
 De 
 Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
-C.I.J.M.Ross-van Dorp   
+C.I.J.M. Ross-van Dorp     

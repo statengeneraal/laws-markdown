@@ -22,13 +22,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 a. de wet: de [Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);  
 
-b. het productschap: het Productschap Margarine, Vetten en Oliën;    
+b. het productschap: het Productschap Margarine, Vetten en Oliën;   
 
 ### Artikel  2  
 
 1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder vetten en oliën: plantaardige en dierlijke vetten en oliën, met uitzondering van melkvet en daaruit verkregen producten en cacaoboter, doch met inbegrip van vetzuren.   
-2.  In dit besluit wordt onder handel mede de werkzaamheid van tussenpersonen verstaan.   
-3.  In dit besluit wordt onder handel niet de doorvoer- en driehoekshandel verstaan.   
+2.  In dit besluit wordt onder handel mede de werkzaamheid van tussenpersonen verstaan.    
+3.  In dit besluit wordt onder handel niet de doorvoer- en driehoekshandel verstaan.  
 
 ### §  2  
 
@@ -48,7 +48,7 @@ c. handel wordt uitgeoefend in:
 1. kopra of in het buitenland geteelde oliehoudende zaden of vruchten, met uitzondering van consumptiegrondnoten en cacaobonen;  
 
 2. vetten of oliën, met uitzondering van ongesmolten dierlijk vet, of daaruit verkregen producten, welke al dan niet na verdere be- of verwerking tot menselijk voedsel kunnen dienen.       
-3.  Het productschap is gevestigd te Rijswijk.   
+3.  Het productschap is gevestigd te Rijswijk.  
 
 ### Artikel  4  
 
@@ -64,7 +64,7 @@ d. voor ondernemingen op het gebied van de be- en verwerking van oliën en vette
 
 e. voor ondernemingen op het gebied van de groothandel en de werkzaamheid van tussenpersonen in oliën en vetten, oliezaden en margarine een lid door organisaties van ondernemers en een lid door organisaties van werknemers; en  
 
-f. voor ondernemingen op het gebied van de detailhandel in margarine, spijsvetten en oliën en de slagerij een lid door organisaties van ondernemers en een lid door organisaties van werknemers.    
+f. voor ondernemingen op het gebied van de detailhandel in margarine, spijsvetten en oliën en de slagerij een lid door organisaties van ondernemers en een lid door organisaties van werknemers.   
 
 ### §  3  
 
@@ -84,13 +84,13 @@ f. arbeidsmarktvoorzieningen.
 
 ### Artikel  6  
 
-Bij een op grond van artikel 5 vastgestelde verordening kan worden bepaald dat deze mede andere dan de in [artikel 102, eerste lid, van de wet](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) bedoelde natuurlijke of rechtspersonen bindt, voorzover deze handelingen verrichten die bedrijfsmatig in de ondernemingen waarvoor het productschap is ingesteld, plegen te worden verricht.  
+Bij een op grond van artikel 5 vastgestelde verordening kan worden bepaald dat deze mede andere dan de in [artikel 102, eerste lid, van de wet](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) bedoelde natuurlijke of rechtspersonen bindt, voorzover deze handelingen verrichten die bedrijfsmatig in de ondernemingen waarvoor het productschap is ingesteld, plegen te worden verricht. 
 
 ### Artikel  7  
 
 1.  Het productschap legt een heffing op als bedoeld in [artikel 126, eerste lid van de wet](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), gebaseerd op een daartoe door het bestuur vastgestelde grondslag.   
 2.  Heffingen kunnen, behoudens een met inachtneming van het eerste lid opgelegd deel, voor het andere deel in afwijking van dat lid worden opgelegd tot een bedrag dat voor alle ondernemingen waarvoor het productschap is ingesteld gelijk is.   
-3.  Heffingen waarvan de opbrengst een bijzondere bestemming heeft, kunnen worden opgelegd naar een grondslag welke het bestuur van het Productschap in verband met die bestemming passend acht.   
+3.  Heffingen waarvan de opbrengst een bijzondere bestemming heeft, kunnen worden opgelegd naar een grondslag welke het bestuur van het Productschap in verband met die bestemming passend acht.  
 
 ### §  4  
 
@@ -101,15 +101,15 @@ Bij een op grond van artikel 5 vastgestelde verordening kan worden bepaald dat d
 1.  Het bij verordening van de Sociaal-Economische Raad van 18 november 1994 ingestelde Productschap Margarine, Vetten en Oliën wordt opgeheven.   
 2.  Verordeningen en andere besluiten die zijn vastgesteld door het bij verordening van de Sociaal-Economische Raad van 18 november 1994 ingestelde Productschap Margarine, Vetten en Oliën blijven van kracht tot de datum waarop de door het productschap vastgestelde verordeningen en andere besluiten terzake in werking zullen treden.   
 3.  Het personeel, de rechten, de verplichtingen, de vermogensbestanddelen en de archiefbescheiden van het bij verordening van de Sociaal-Economische Raad van 18 november 1994 ingestelde Productschap Margarine, Vetten en Oliën, gaan over naar het productschap.   
-4.  Wettelijke procedures en rechtsgedingen, ingesteld door of tegen het bij verordening van de Sociaal-Economische Raad van 18 november 1994 ingestelde Productschap Margarine, Vetten en Oliën worden geacht te zijn ingesteld door of tegen het productschap.   
+4.  Wettelijke procedures en rechtsgedingen, ingesteld door of tegen het bij verordening van de Sociaal-Economische Raad van 18 november 1994 ingestelde Productschap Margarine, Vetten en Oliën worden geacht te zijn ingesteld door of tegen het productschap.  
 
 ### Artikel  9  
 
-De bestuursleden en hun plaatsvervangers van wie de zittingsperiode ingaat op de datum van inwerkingtreding van dit besluit, treden af op 1 januari 2004.  
+De bestuursleden en hun plaatsvervangers van wie de zittingsperiode ingaat op de datum van inwerkingtreding van dit besluit, treden af op 1 januari 2004. 
 
 ### Artikel  10  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  11  
 
@@ -133,4 +133,4 @@ L. J. Brinkhorst
 de vierentwintigste juni 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

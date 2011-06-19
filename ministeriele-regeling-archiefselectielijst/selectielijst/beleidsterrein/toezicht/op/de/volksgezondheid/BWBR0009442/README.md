@@ -6,7 +6,7 @@ De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen en De Minister van V
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
 
 De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 1 september 1997, nr. arc-97.6793/1);
-Besluiten:    
+Besluiten:     
 
 ### Artikel  1  
 
@@ -18,9 +18,9 @@ In te trekken de ’Lijst van te vernietigen archiefbescheiden van de onder het 
 
 ### Artikel  3  
 
-Dit Besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de tweede dag na de dag-tekening van de Staatscourant waarin het is gepubliceerd.  
+Dit Besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de tweede dag na de dag-tekening van de Staatscourant waarin het is gepubliceerd. 
 
-De 
+De
 Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, 
 
 namens deze, 
@@ -28,13 +28,13 @@ namens deze,
 De 
 Algemeen Rijksarchivaris, 
 
-M.W. van Boven   
+M.W. van Boven  
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
 
 namens deze, 
 
-Hoofdinspecteur voor de Gezondheidszorg, 
+Hoofdinspecteur voor de Gezondheidszorg,  
 
-J. Verhoef      
+J.Verhoef     

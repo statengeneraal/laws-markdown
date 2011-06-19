@@ -1,12 +1,12 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Vaststelling selectielijst Flora en fauna
+##Vaststelling selectielijst Flora en fauna 
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen en de Minister van Landbouw, Natuurbeheer en Visserij;  
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
 
 De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 29 oktober 1998, nr. arc-98.2041/2),
-Besluiten:    
+Besluiten:     
 
 ### Artikel  1  
 
@@ -18,7 +18,7 @@ In te trekken de categorie Jacht (1.827), nummers 95, 96 en 97 van de ’Lijst h
 
 ### Artikel  3  
 
-Dit Besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het is gepubliceerd.  
+Dit Besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het is gepubliceerd. 
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, 
@@ -26,8 +26,8 @@ Staatssecretaris van Onderwijs, Cultuur en Wetenschappen,
 namens deze, 
 
 De 
-Algemene Rijksarchivaris, 
-M.W. vanBoven 
+Algemene Rijksarchivaris,
+M.W. vanBoven  
 
 De 
 Minister van Landbouw, Natuurbeheer en Visserij, 
@@ -35,6 +35,6 @@ Minister van Landbouw, Natuurbeheer en Visserij,
 namens deze, 
 
 De 
-Directeur Facilitaire Dienst, 
-M.H.Wunderink 
+Directeur Facilitaire Dienst,
+M.H.Wunderink  
 

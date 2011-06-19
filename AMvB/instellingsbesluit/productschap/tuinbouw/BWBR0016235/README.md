@@ -26,12 +26,12 @@ b. de raad: de Sociaal-Economische Raad;
 
 c. het productschap: het Productschap Tuinbouw;  
 
-d. sectorcommissie: orgaan als bedoeld in [artikel 88a van de wet](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).    
+d. sectorcommissie: orgaan als bedoeld in [artikel 88a van de wet](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).   
 
 ### Artikel  2  
 
 1.  In dit besluit wordt onder handel mede de werkzaamheid van tussenpersonen verstaan.   
-2.  In dit besluit wordt onder handel niet de doorvoer- en driehoekshandel verstaan.   
+2.  In dit besluit wordt onder handel niet de doorvoer- en driehoekshandel verstaan.  
 
 ### §  2  
 
@@ -63,7 +63,7 @@ a. fruit: vers fruit, bewerkt en verwerkt fruit;
 b. groenten: verse groenten, bewerkte en verwerkte groenten, alsmede verse, bewerkte of verwerkte uien, eetbare zwammen, specerijen, specerijgewassen, consumptiespecerijzaden, zaden van groenten, plantgoed van groenten en aardbeien met uitzondering van plantsjalotten en plantuitjes, groen geoogste landbouwpeulvruchten, noten, kruiden;  
 
 c. siergewassen: bollen, knollen en wortelstokken van bloemgewassen, daaronder begrepen voortkwekingsmateriaal en zaden; bloemkwekerijproducten, daaronder begrepen voortkwekingsmateriaal en zaden; boomkwekerijproducten, daaronder begrepen voortkwekingsmateriaal en zaden; vruchtbomen – met inbegrip van kleinfruitteeltgewassen –, vruchtboomonderstammen, plantgoed van aardbeien, bos- en hoogplantsoen, rozenonderstammen, kerstbomen en in het wild gegroeide producten, welke met het oog op de sierwaarde in het economisch verkeer worden ingebracht.     
-5.  Het productschap is gevestigd te Zoetermeer.   
+5.  Het productschap is gevestigd te Zoetermeer.  
 
 ### Artikel  4  
 
@@ -81,7 +81,7 @@ e. voor ondernemingen op het gebied van de handel: vijf leden door organisaties 
 
 f. voor ondernemingen op het gebied van het hoveniersbedrijf: een lid door organisaties van ondernemers; en  
 
-g. voor alle in dit artikel bedoelde ondernemingen: acht leden door organisaties van werknemers.    
+g. voor alle in dit artikel bedoelde ondernemingen: acht leden door organisaties van werknemers.   
 
 ### Artikel  5  
 
@@ -102,7 +102,7 @@ f. energie.
 3.  De organisaties van ondernemers en van werknemers die leden benoemen voor de in artikel 6 tot en met artikel 11 genoemde commissies, zijn bevoegd voor elk lid dat zij benoemen tevens een plaatsvervanger aan te wijzen.   
 4.  De zittingsperiode van de leden van de commissies valt samen met die van de leden van het bestuur van het productschap.   
 5.  De voorzitter van het productschap is tevens voorzitter van de commissies.   
-6.  De commissies dienen elk voor haar werkgebied het bestuur van advies, voeren de door het bestuur aan hen gedelegeerde taken uit en kunnen elk voor haar werkgebied voorstellen doen voor door het bestuur vast te stellen verordeningen.   
+6.  De commissies dienen elk voor haar werkgebied het bestuur van advies, voeren de door het bestuur aan hen gedelegeerde taken uit en kunnen elk voor haar werkgebied voorstellen doen voor door het bestuur vast te stellen verordeningen.  
 
 ### Artikel  6  
 
@@ -110,7 +110,7 @@ De Commissie voor bollen, knollen en wortelstokken van bloemgewassen bestaat uit
 
 a. voor ondernemingen op het gebied van het uitgangsmateriaal: een lid door organisaties van ondernemers;  
 
-b. voor ondernemingen op het gebied van de bloementeelt en het veilingwezen van bloembollen: zes leden door organisaties van ondernemers en drie leden door organisaties van werknemers;   voor ondernemingen op het gebied van de handel in bloembollen: vijf leden door organisaties van ondernemers en drie leden door organisaties van werknemers.  
+b. voor ondernemingen op het gebied van de bloementeelt en het veilingwezen van bloembollen: zes leden door organisaties van ondernemers en drie leden door organisaties van werknemers;   voor ondernemingen op het gebied van de handel in bloembollen: vijf leden door organisaties van ondernemers en drie leden door organisaties van werknemers. 
 
 ### Artikel  7  
 
@@ -120,7 +120,7 @@ a. voor ondernemingen op het gebied van de bloemkwekerij: zeven leden door organ
 
 b. voor ondernemingen op het gebied van de groothandel in bloemkwekerijproducten: twee leden door organisaties van ondernemers;  
 
-c. voor ondernemingen op het gebied van de detailhandel in bloemkwekerijproducten: drie leden door organisaties van ondernemers;   voor de ondernemingen bedoeld onder b. en c. in dit artikel: drie leden door organisaties van werknemers.  
+c. voor ondernemingen op het gebied van de detailhandel in bloemkwekerijproducten: drie leden door organisaties van ondernemers;   voor de ondernemingen bedoeld onder b. en c. in dit artikel: drie leden door organisaties van werknemers. 
 
 ### Artikel  8  
 
@@ -132,7 +132,7 @@ b. voor ondernemingen op het gebied van het tuincentrabedrijf: een lid door orga
 
 c. voor ondernemingen op het gebied van de handel in boomkwekerijproducten: vijf leden door organisaties van ondernemers;  
 
-d. voor de ondernemingen bedoeld onder b. en c. in dit artikel: drie leden door organisaties van werknemers.    
+d. voor de ondernemingen bedoeld onder b. en c. in dit artikel: drie leden door organisaties van werknemers.   
 
 ### Artikel  9  
 
@@ -144,15 +144,15 @@ b. voor ondernemingen op het gebied van de groenten- en fruitbe- en verwerkende 
 
 c. voor ondernemingen op het gebied van de groothandel en de werkzaamheid van tussenpersonen in groenten en fruit: twee leden door organisaties van ondernemers en twee leden door organisaties van werknemers;  
 
-d. voor ondernemingen op het gebied van de detailhandel in groenten en fruit: twee leden door organisaties van ondernemers en twee leden door organisaties van werknemers.    
+d. voor ondernemingen op het gebied van de detailhandel in groenten en fruit: twee leden door organisaties van ondernemers en twee leden door organisaties van werknemers.   
 
 ### Artikel  10  
 
-De Commissie voor hovenierswerkzaamheden bestaat uit acht leden. Daarvan worden vijf leden door organisaties van ondernemers en drie leden door organisaties van werknemers benoemd.  
+De Commissie voor hovenierswerkzaamheden bestaat uit acht leden. Daarvan worden vijf leden door organisaties van ondernemers en drie leden door organisaties van werknemers benoemd. 
 
 ### Artikel  11  
 
-De Commissie voor energie bestaat uit zeven leden. Daarvan worden vijf leden door organisaties van ondernemers en twee leden door organisaties van werknemers benoemd.  
+De Commissie voor energie bestaat uit zeven leden. Daarvan worden vijf leden door organisaties van ondernemers en twee leden door organisaties van werknemers benoemd. 
 
 ### §  3  
 
@@ -162,23 +162,23 @@ De Commissie voor energie bestaat uit zeven leden. Daarvan worden vijf leden doo
 
 Het productschap is bevoegd tot de regeling of nadere regeling van de in [artikel 93, tweede lid, van de wet](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) vermelde onderwerpen of onderdelen daarvan met uitzondering van de onderdelen: 
 
-c.  bevordering van professionele bedrijfsvoering;  
+c. bevordering van professionele bedrijfsvoering;
 
-d.  de lonen en andere arbeidsvoorwaarden;  
+d. de lonen en andere arbeidsvoorwaarden;
 
-e.  onderzoek op sociaal, economisch en technisch terrein;  
+e. onderzoek op sociaal, economisch en technisch terrein;
 
-f.  arbeidsmarktvoorzieningen.    
+f. arbeidsmarktvoorzieningen. 
 
 ### Artikel  13  
 
 1.  Een verordening als bedoeld in [artikel 93](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [artikel 119](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [artikel 123](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) of [artikel 126 van de wet](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) die naar het oordeel van het bestuur ligt op het werkgebied van een sectorcommissie, stelt het bestuur vast na advies van die sectorcommissie.   
-2.  Een besluit met betrekking tot andere aangelegenheden dat naar het oordeel van het bestuur ligt op het werkgebied van een sectorcommissie, stelt het bestuur vast na advies van die commissie.   
+2.  Een besluit met betrekking tot andere aangelegenheden dat naar het oordeel van het bestuur ligt op het werkgebied van een sectorcommissie, stelt het bestuur vast na advies van die commissie.  
 
 ### Artikel  14  
 
 1.  Het productschap legt een heffing als bedoeld in [artikel 126, eerste lid van de wet](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) op gebaseerd op een grondslag welke het bestuur passend acht, met dien verstande dat het tarief voor bepaalde in de heffingsverordening aangewezen ondernemingen of groepen van ondernemingen verschillend kunnen zijn. Boven of in de plaats van zodanige heffing kan een bedrag worden geheven dat voor alle ondernemingen of groepen daarvan gelijk is.   
-2.  Heffingen waarvan de opbrengst een bijzondere bestemming heeft, kunnen worden opgelegd naar een grondslag welke het bestuur van het productschap in verband met die bestemming passend acht.   
+2.  Heffingen waarvan de opbrengst een bijzondere bestemming heeft, kunnen worden opgelegd naar een grondslag welke het bestuur van het productschap in verband met die bestemming passend acht.  
 
 ### §  4  
 
@@ -189,19 +189,19 @@ f.  arbeidsmarktvoorzieningen.
 1.  Het bij verordening van de raad van 17 april 1998 ingestelde Productschap Tuinbouw wordt opgeheven.   
 2.  Verordeningen en andere besluiten die zijn vastgesteld door het bij verordening van de raad van 17 april 1998 ingestelde Productschap Tuinbouw blijven van kracht tot de datum waarop de door het op grond van dit besluit ingestelde Productschap Tuinbouw vastgestelde verordeningen en andere besluiten terzake in werking zullen treden.   
 3.  Het personeel, de rechten, de verplichtingen, de vermogensbestanddelen en de archiefbescheiden van het bij verordening van de raad van 17 april 1998 ingestelde Productschap Tuinbouw, gaan over naar het op grond van dit besluit ingestelde Productschap Tuinbouw.   
-4.  Wettelijke procedures en rechtsgedingen, ingesteld door of tegen het bij verordening van de raad van 17 april 1998 ingestelde Productschap Tuinbouw worden geacht te zijn ingesteld door of tegen het op grond van dit besluit ingestelde Productschap Tuinbouw.   
+4.  Wettelijke procedures en rechtsgedingen, ingesteld door of tegen het bij verordening van de raad van 17 april 1998 ingestelde Productschap Tuinbouw worden geacht te zijn ingesteld door of tegen het op grond van dit besluit ingestelde Productschap Tuinbouw.  
 
 ### Artikel  16  
 
-De bestuursleden en hun plaatsvervangers van wie de zittingsperiode ingaat op de datum van inwerkingtreding van dit besluit, treden af op 1 januari 2006.  
+De bestuursleden en hun plaatsvervangers van wie de zittingsperiode ingaat op de datum van inwerkingtreding van dit besluit, treden af op 1 januari 2006. 
 
 ### Artikel  17  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  18  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Productschap Tuinbouw.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Productschap Tuinbouw. 
 
 Lasten en bevelen dat dit besluit in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -215,7 +215,7 @@ A. J. de Geus
 De Minister van Economische Zaken , 
 L. J. Brinkhorst   
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit, 
+De Minister van Landbouw, Natuur en Voedselkwaliteit,  
 C. P. Veerman   
 
 de *dertigste* december 2003 

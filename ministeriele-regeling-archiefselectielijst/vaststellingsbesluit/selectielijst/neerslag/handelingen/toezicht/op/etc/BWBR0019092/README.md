@@ -10,21 +10,21 @@ Besluit:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ [selectielijst voor de neerslag van de handelingen van de het Uitvoeringsinstituut werknemersverzekeringen en de onder hem ressorterende actoren op het beleidsterrein voor het toezicht op Rechtspersonen, onderdeel van het beleidsterrein Privaatrecht vanaf 1945–2000](../../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/toezicht/op/etc/BWBR0019094/README.md) ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘[selectielijst voor de neerslag van de handelingen van de het Uitvoeringsinstituut werknemersverzekeringen en de onder hem ressorterende actoren op het beleidsterrein voor het toezicht op Rechtspersonen, onderdeel van het beleidsterrein Privaatrecht vanaf 1945–2000](../../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/toezicht/op/etc/BWBR0019094/README.md)’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende [selectielijst](../../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/toezicht/op/etc/BWBR0019094/README.md) en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 21 november 2005   
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
 
-namens deze:  
+namens deze:
 
 de 
 Algemene Rijksarchivaris, 
-M.W. vanBoven   
+M.W. van Boven     

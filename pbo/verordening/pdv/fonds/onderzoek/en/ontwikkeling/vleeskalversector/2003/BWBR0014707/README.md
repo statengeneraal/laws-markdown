@@ -2,10 +2,10 @@
 
 ##Verordening van het Productschap Diervoeder van 12 februari 2003 houdende regels ter zake van het instellen van een fonds (Verordening PDV fonds onderzoek en ontwikkeling vleeskalversector 2003)
 
-Het bestuur van het Productschap Diervoeder;  
+Het bestuur van het Productschap Diervoeder;
 Gelet op [artikel 93](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [123 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
-Besluit:     
-### §  1  
+Besluit:
+###§ 1 
 
 ####Het fonds
 
@@ -17,33 +17,33 @@ Besluit:
 
 a. het daarvoor bestemde deel van de heffing uit hoofde van de [Heffingsverordening PDV fondsen kunstmelkvoederbereiders](../../../../../../../../../../pbo/heffingsverordening/pdv/fondsen/kunstmelkvoederbereiders/jaar/2006/BWBR0019023/README.md);  
 
-b. de van de middelen van het fonds gekweekte rente.     
+b. de van de middelen van het fonds gekweekte rente.    
 
-### Artikel  2  
+###Artikel 2 
 
-Ten laste van het fonds kan het bestuur van het productschap bijdragen in de financiering van onderzoek en activiteiten met betrekking tot de kalvermelkindustrie en de vleeskalverhouderij alsmede op het gebied van de afzet van kalfsvlees brengen.  
+Ten laste van het fonds kan het bestuur van het productschap bijdragen in de financiering van onderzoek en activiteiten met betrekking tot de kalvermelkindustrie en de vleeskalverhouderij alsmede op het gebied van de afzet van kalfsvlees brengen.
 
-### §  2  
+###§ 2 
 
 ####Slotbepalingen
 
-### Artikel  3  
+###Artikel 3 
 
-Deze verordening treedt in werking met ingang van de tweede dag na dagtekening van het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst.  
+Deze verordening treedt in werking met ingang van de tweede dag na dagtekening van het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst.
 
-### Artikel  4  
+###Artikel 4 
 
-De Verordening fonds voedingsonderzoek kalveren 1965 wordt ingetrokken.  
+De Verordening fonds voedingsonderzoek kalveren 1965 wordt ingetrokken.
 
-### Artikel  5  
+###Artikel 5 
 
-Deze verordening wordt aangehaald als: Verordening PDV fonds onderzoek en ontwikkeling vleeskalversector 2003.  
+Deze verordening wordt aangehaald als: Verordening PDV fonds onderzoek en ontwikkeling vleeskalversector 2003.
 
-Den Haag 
-12 februari 2003    
+Den Haag
+12 februari 2003
 
-J.H.M. Kienhuis  
-voorzitter  
+J.H.M.Kienhuis
+voorzitter
 
-J. den Hartog  
-secretaris    Goedgekeurd door de Bestuurskamer van de Sociaal-Economische Raad bij besluit van 22 mei 2003.    
+J. denHartog
+secretarisGoedgekeurd door de Bestuurskamer van de Sociaal-Economische Raad bij besluit van 22 mei 2003.

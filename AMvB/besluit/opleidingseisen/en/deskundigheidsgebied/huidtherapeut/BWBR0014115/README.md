@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder Centraal register opleidingen hoger onderwijs: het register, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).  
+In dit besluit wordt verstaan onder Centraal register opleidingen hoger onderwijs: het register, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).
 
 ### §  2  
 
@@ -49,7 +49,7 @@ d. kwaliteitszorg en innovatie;
 e. praktijk- en bedrijfsvoering;  
 
 f. beroepsontwikkeling;     
-2.  Het praktische onderwijs omvat ten minste stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in artikel 5, onder toezicht van een huidtherapeut.   
+2.  Het praktische onderwijs omvat ten minste stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in artikel 5, onder toezicht van een huidtherapeut. 
 
 ### Artikel  4  
 
@@ -124,7 +124,7 @@ i. de eigen professionaliteit voortdurend te ontwikkelen op basis van nieuwe sit
 
 j. anderen te begeleiden in hun beroepsontwikkeling;  
 
-k. bij te dragen aan de ontwikkeling van de professie.     
+k. bij te dragen aan de ontwikkeling van de professie.   
 
 ### §  4  
 
@@ -142,7 +142,7 @@ c. het behandelen van de patiënt met als doel het opheffen, verminderen of comp
 
 d. het aanmeten en verstrekken van medische hulpmiddelen en prothesen alsmede adviseren met betrekking tot het gebruik daarvan;  
 
-e. het geven van advies en voorlichting aan een patiënt.    
+e. het geven van advies en voorlichting aan een patiënt.   
 
 ### §  5  
 
@@ -150,11 +150,11 @@ e. het geven van advies en voorlichting aan een patiënt.
 
 ### Artikel  6  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  7  
 
-Dit besluit wordt aangehaald als: Besluit opleidingseisen en deskundigheidsgebied huidtherapeut.  
+Dit besluit wordt aangehaald als: Besluit opleidingseisen en deskundigheidsgebied huidtherapeut. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

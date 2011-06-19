@@ -10,29 +10,29 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van handelingen van de Minister Justitie en de onder hem ressorterende actoren op het beleidsterrein Beleid Openbaar Ministerie over de periode vanaf 1950 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van handelingen van de Minister Justitie en de onder hem ressorterende actoren op het beleidsterrein Beleid Openbaar Ministerie over de periode vanaf 1950’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-De ‘lijst Algemene regels tot het vernietigen van archiefbescheiden van de parketten van het openbaar ministerie en de griffiën bij de gerechtshoven, de arrondissements- en kantongerechten; Nr. KW 550, d.d. 30 januari 1936/nr. 2e afd. A. 813, d.d. 21 januari 1936 en de wijzigingen: nr. OKN, 27 september 1948/nr. 2e Afd. A 1760, 27 september 1948 (Stcrt. 1948, 248); nr. MMA/Ar 204, 29 november 1979 (Stcrt. 1979-195; 1980-54);. Algemene regels tot vernietiging van archief-bestanddelen van de Raden van beroep voor de directe belastingen; Gemeenschappelijke beschikking van de secretarissen-generaal van het departement van Opvoeding, Wetenschap en Cultuurbescherming en het departement van Justitie d.d. 25-07-1944 en 05-05-1944; Lijst van voor vernietiging in aanmerking komende archiefbescheiden uit de archieven berustende onder het beheer van de Griffier van het kantongerecht (1947–1985); MMA/Ar 211.028 d.d. 04-02-1981; DORR 233/881 d.d. 27-02-1981 (Stcrt. 1981-100); Lijst van te vernietigen archiefbescheiden, van de griffiers van de arrondissementsrechtbanken en de griffiers van de Raden van beroep en ambtenarengerechten, beide ressorterende onder het Ministerie van Justitie; CD/A91.223 d.d. 11-03-1991; HDORR 47639/891 d.d. 11-03-1991 (Stcrt. 1991-64; 1991-91) worden ingetrokken.  
+De ‘lijst Algemene regels tot het vernietigen van archiefbescheiden van de parketten van het openbaar ministerie en de griffiën bij de gerechtshoven, de arrondissements- en kantongerechten; Nr. KW 550, d.d. 30 januari 1936/nr. 2e afd. A. 813, d.d. 21 januari 1936 en de wijzigingen: nr. OKN, 27 september 1948/nr. 2e Afd. A 1760, 27 september 1948 (Stcrt. 1948, 248); nr. MMA/Ar 204, 29 november 1979 (Stcrt. 1979-195; 1980-54);. Algemene regels tot vernietiging van archief-bestanddelen van de Raden van beroep voor de directe belastingen; Gemeenschappelijke beschikking van de secretarissen-generaal van het departement van Opvoeding, Wetenschap en Cultuurbescherming en het departement van Justitie d.d. 25-07-1944 en 05-05-1944; Lijst van voor vernietiging in aanmerking komende archiefbescheiden uit de archieven berustende onder het beheer van de Griffier van het kantongerecht (1947–1985); MMA/Ar 211.028 d.d. 04-02-1981; DORR 233/881 d.d. 27-02-1981 (Stcrt. 1981-100); Lijst van te vernietigen archiefbescheiden, van de griffiers van de arrondissementsrechtbanken en de griffiers van de Raden van beroep en ambtenarengerechten, beide ressorterende onder het Ministerie van Justitie; CD/A91.223 d.d. 11-03-1991; HDORR 47639/891 d.d. 11-03-1991 (Stcrt. 1991-64; 1991-91) worden ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 14 oktober 2005   
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze: de 
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze:de 
 Algemene Rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
-Minister van Justitie, namens deze: de 
+Minister van Justitie, namens deze:de 
 Directeur Informatisering, 
-E.Y.Bogerman  
+E.Y. Bogerman    
 
 ####Basisselectiedocument beleid Openbaar Ministerie met betrekking tot de rechtshandhaving in de periode 1950–2000
 
@@ -42,11 +42,11 @@ November 2005
 
 #### *Wettelijk kader en achtergronden* 
 
-Ingevolge [artikel 3 van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (Stb. 276) dient de overheid haar archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te bewaren. Onder archiefbescheiden is niet slechts ‘papier’ te verstaan, maar alle bescheiden, ongeacht de vorm, die door een overheidsorgaan zijn ontvangen of opgemaakt (en naar hun aard bestemd zijn daaronder te berusten), dus ook digitaal vastgelegde informatie. Het in goede en geordende staat bewaren van archiefbescheiden houdt mede in dat een overheidsarchief op gezette tijden wordt geschoond. In dat verband geldt zowel een verplichting tot vernietiging als een overbrengingsplicht. Beide rusten op degene die de bestuurlijke verantwoordelijkheid draagt voor het beheer van het desbetreffende archief, de zorgdrager. De vernietigingsplicht van de zorgdrager is in [artikel 3 van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) neergelegd, de verplichting tot overbrenging in [artikel 12](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), dat bepaalt dat de zorgdrager zijn archiefbescheiden die niet voor vernietiging in aanmerking komen, ter blijvende bewaring overbrengt naar een archiefbewaarplaats wanneer zij ouder zijn dan twintig jaar. Wat de archiefbescheiden van het Openbaar Ministerie aangaat, zijn de aangewezen archiefbewaarplaatsen het Nationaal Archief in Den Haag en de rijksarchieven in de provincie. In verband met de selectie van hun archiefbescheiden in een (op termijn) te vernietigen deel en een (na twintig jaar) over te brengen gedeelte zijn zorgdragers verplicht selectielijsten op te stellen. In een selectielijst dient te worden aangegeven welke archiefbescheiden voor vernietiging, dan wel voor blijvende bewaring in aanmerking komen. Voorts dient een selectielijst de termijnen aan te geven, waarna de te vernietigen bestanddelen inderdaad moeten worden vernietigd. Een selectielijst is naar haar aard een duurzaam instrument. Het ligt in de rede dat een organisatie een vastgestelde lijst niet een enkele keer toepast op het reeds gevormde archief, maar haar bij de hand houdt om periodiek een bepaalde aanwas van archiefmateriaal af te voeren, enerzijds ter vernietiging, anderzijds voor overbrenging ter blijvende bewaring in een archiefbewaarplaats. Voor de hand ligt derhalve dat een overheidsorganisatie een selectielijst ook voor de administratieve inrichting en het beheer van haar archief benut: dossiers kunnen bij de vorming of het opbergen reeds worden geclassificeerd naar hun uiteindelijke bestemming, subsidiair gerangschikt op vernietigingsjaar. Een selectielijst vormt zo een belangrijk onderdeel van het instrumentarium voor het beheer van de documentaire informatievoorziening in een overheidsorganisatie. Wel moet na hooguit twintig jaar een selectielijst worden vervangen. Bij het ontwerpen van een selectielijst dient ingevolge [art. 2, lid 1 van het Archiefbesluit 1995](../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) (Stb. 671) rekening gehouden te worden met de taak van het betrokken overheidsorgaan en zijn verhouding tot andere overheidsorganen, met de waarde van de archiefbescheiden als bestanddeel van het cultureel erfgoed en met het belang van de in de bescheiden voorkomende gegevens voor de overheidsorganen, voor recht- of bewijszoekenden en voor historisch onderzoek. Voorts moeten ingevolge [artikel 3 van het Archiefbesluit 1995](../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) bij het ontwerpen van een selectielijst ten minste betrokken zijn een deskundige op het gebied van de organisatie en taken van het desbetreffende overheidsorgaan, een deskundige ten aanzien van het beheer van de archiefbescheiden van dat orgaan en (een vertegenwoordiger van) de algemene rijksarchivaris: dit is het zogeheten (archiefwettelijke) driehoeksoverleg.  
+Ingevolge [artikel 3 van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (Stb. 276) dient de overheid haar archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te bewaren. Onder archiefbescheiden is niet slechts ‘papier’ te verstaan, maar alle bescheiden, ongeacht de vorm, die door een overheidsorgaan zijn ontvangen of opgemaakt (en naar hun aard bestemd zijn daaronder te berusten), dus ook digitaal vastgelegde informatie. Het in goede en geordende staat bewaren van archiefbescheiden houdt mede in dat een overheidsarchief op gezette tijden wordt geschoond. In dat verband geldt zowel een verplichting tot vernietiging als een overbrengingsplicht. Beide rusten op degene die de bestuurlijke verantwoordelijkheid draagt voor het beheer van het desbetreffende archief, de zorgdrager. De vernietigingsplicht van de zorgdrager is in [artikel 3 van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) neergelegd, de verplichting tot overbrenging in [artikel 12](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), dat bepaalt dat de zorgdrager zijn archiefbescheiden die niet voor vernietiging in aanmerking komen, ter blijvende bewaring overbrengt naar een archiefbewaarplaats wanneer zij ouder zijn dan twintig jaar. Wat de archiefbescheiden van het Openbaar Ministerie aangaat, zijn de aangewezen archiefbewaarplaatsen het Nationaal Archief in Den Haag en de rijksarchieven in de provincie. In verband met de selectie van hun archiefbescheiden in een (op termijn) te vernietigen deel en een (na twintig jaar) over te brengen gedeelte zijn zorgdragers verplicht selectielijsten op te stellen. In een selectielijst dient te worden aangegeven welke archiefbescheiden voor vernietiging, dan wel voor blijvende bewaring in aanmerking komen. Voorts dient een selectielijst de termijnen aan te geven, waarna de te vernietigen bestanddelen inderdaad moeten worden vernietigd. Een selectielijst is naar haar aard een duurzaam instrument. Het ligt in de rede dat een organisatie een vastgestelde lijst niet een enkele keer toepast op het reeds gevormde archief, maar haar bij de hand houdt om periodiek een bepaalde aanwas van archiefmateriaal af te voeren, enerzijds ter vernietiging, anderzijds voor overbrenging ter blijvende bewaring in een archiefbewaarplaats. Voor de hand ligt derhalve dat een overheidsorganisatie een selectielijst ook voor de administratieve inrichting en het beheer van haar archief benut: dossiers kunnen bij de vorming of het opbergen reeds worden geclassificeerd naar hun uiteindelijke bestemming, subsidiair gerangschikt op vernietigingsjaar. Een selectielijst vormt zo een belangrijk onderdeel van het instrumentarium voor het beheer van de documentaire informatievoorziening in een overheidsorganisatie. Wel moet na hooguit twintig jaar een selectielijst worden vervangen. Bij het ontwerpen van een selectielijst dient ingevolge [art. 2, lid 1 van het Archiefbesluit 1995](../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) (Stb. 671) rekening gehouden te worden met de taak van het betrokken overheidsorgaan en zijn verhouding tot andere overheidsorganen, met de waarde van de archiefbescheiden als bestanddeel van het cultureel erfgoed en met het belang van de in de bescheiden voorkomende gegevens voor de overheidsorganen, voor recht- of bewijszoekenden en voor historisch onderzoek. Voorts moeten ingevolge [artikel 3 van het Archiefbesluit 1995](../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) bij het ontwerpen van een selectielijst ten minste betrokken zijn een deskundige op het gebied van de organisatie en taken van het desbetreffende overheidsorgaan, een deskundige ten aanzien van het beheer van de archiefbescheiden van dat orgaan en (een vertegenwoordiger van) de algemene rijksarchivaris: dit is het zogeheten (archiefwettelijke) driehoeksoverleg. 
 
 #### *Opzet van een BSD* 
 
-Een Basisselectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van een (enkele) organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald terrein. Een BSD betreft doorgaans dan ook archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voor zover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Voorts is het niveau waarop geselecteerd wordt niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voorzien van een waardering en (indien van toepassing) een vernietigingstermijn. Ten slotte behoort bij een BSD een rapport institutioneel onderzoek (RIO), waarin het terrein waarop de selectielijst betrekking heeft wordt beschreven en waarin de handelingen die in het BSD voorkomen, in hun functionele context worden geplaatst en toegelicht, uitgaande van de taken en bevoegdheden van de betrokken organen. De genoemde specifieke kenmerken van een BSD staan in verband met de hieronder gememoreerde selectiedoelstelling van de RAD en de in het kader van het selectiebeleid van de RAD ontwikkelde zogeheten PIVOT-methode. Voor de achtergronden van een en ander wordt verwezen naar de algemene inleiding van het RIO dat bij dit BSD behoort.  
+Een Basisselectiedocument (BSD) is een bijzondere vorm van een selectielijst. In de regel heeft een BSD niet zozeer betrekking op (alle) archiefbescheiden van een (enkele) organisatie, als wel op het geheel van de bescheiden die de administratieve neerslag vormen van het overheidshandelen op een bepaald terrein. Een BSD betreft doorgaans dan ook archiefbescheiden van verschillende overheidsorganen (veelal ook diverse zorgdragers), en wel voor zover de desbetreffende actoren op het terrein in kwestie werkzaam zijn (geweest). Voorts is het niveau waarop geselecteerd wordt niet dat van de stukken zelf, maar dat van de handelingen waarvan die archiefbescheiden de administratieve neerslag vormen. Een BSD is derhalve geen opsomming van (categorieën) stukken, maar een lijst van handelingen van overheidsactoren, waarbij elke handeling is voorzien van een waardering en (indien van toepassing) een vernietigingstermijn. Ten slotte behoort bij een BSD een rapport institutioneel onderzoek (RIO), waarin het terrein waarop de selectielijst betrekking heeft wordt beschreven en waarin de handelingen die in het BSD voorkomen, in hun functionele context worden geplaatst en toegelicht, uitgaande van de taken en bevoegdheden van de betrokken organen. De genoemde specifieke kenmerken van een BSD staan in verband met de hieronder gememoreerde selectiedoelstelling van de RAD en de in het kader van het selectiebeleid van de RAD ontwikkelde zogeheten PIVOT-methode. Voor de achtergronden van een en ander wordt verwezen naar de algemene inleiding van het RIO dat bij dit BSD behoort. 
 
 ####Het selectiedocument
 
@@ -146,7 +146,7 @@ Zoals is aangegeven in de verantwoording en afbakening van het institutioneel on
 
 – Vergadering van visserij-officieren/Werkgroep Visserij  
 
-– Verkeerscommissie (VCOM) <sup> 1  Soms afgekort tot VECOM.  </sup>  
+– Verkeerscommissie (VCOM) <sup>1Soms afgekort tot VECOM.</sup>  
 
 – Werkgroep justitieel beleid en slachtoffer  
 
@@ -162,21 +162,21 @@ Zoals is aangegeven in de verantwoording en afbakening van het institutioneel on
 
 – Werkgroep Volksgezondheid en Landbouw  
 
-– Werkgroep Voorstudie structuur OM   Het BSD heeft betrekking op de selectie van archiefbescheiden gevormd vanaf 1950. Wat betreft de geldigheidsduur van het BSD als selectielijst wordt uitgegaan van de wettelijke periode van twintig jaar vanaf vaststelling. Dit betekent onder meer dat ook archiefbescheiden gevormd na het eindjaar van het institutioneel onderzoek (2000) met behulp van deze selectielijst kunnen worden geselecteerd, voorzover de archiefbescheiden de neerslag zijn van handelingen die na 2000 ongewijzigd zijn voortgezet (bij deze handelingen wordt bij ‘periode’ geen eindjaar genoemd). De geldigheidsduur van twintig jaar na vaststelling laat uiteraard onverlet dat de selectielijst (of een bepaald onderdeel daarvan) binnen deze termijn kan komen te vervallen, indien dit mocht worden bepaald bij de vaststelling van een nieuwe dan wel herziene selectielijst.  
+– Werkgroep Voorstudie structuur OM   Het BSD heeft betrekking op de selectie van archiefbescheiden gevormd vanaf 1950. Wat betreft de geldigheidsduur van het BSD als selectielijst wordt uitgegaan van de wettelijke periode van twintig jaar vanaf vaststelling. Dit betekent onder meer dat ook archiefbescheiden gevormd na het eindjaar van het institutioneel onderzoek (2000) met behulp van deze selectielijst kunnen worden geselecteerd, voorzover de archiefbescheiden de neerslag zijn van handelingen die na 2000 ongewijzigd zijn voortgezet (bij deze handelingen wordt bij ‘periode’ geen eindjaar genoemd). De geldigheidsduur van twintig jaar na vaststelling laat uiteraard onverlet dat de selectielijst (of een bepaald onderdeel daarvan) binnen deze termijn kan komen te vervallen, indien dit mocht worden bepaald bij de vaststelling van een nieuwe dan wel herziene selectielijst. 
 
 #### *Bewaarniveau* 
 
-Voor alle duidelijkheid zij vermeld, dat wanneer de neerslag van een B-handeling in kopie bij verschillende onderdelen van het OM aanwezig is, deze neerslag slechts op één plaats bewaard hoeft te worden. Een voorbeeld: de vergadernotulen van het OM-breed Beraad, die verspreid worden onder alle parketten, kan men bij het Parket-Generaal bewaren. Bij de parketten kunnen de notulen dan vernietigd worden. Dit principe kan bij vele handelingen toegepast worden. In het algemeen geldt dat daar waar het secretariaat is gevestigd, de archiefbescheiden worden bewaard.  
+Voor alle duidelijkheid zij vermeld, dat wanneer de neerslag van een B-handeling in kopie bij verschillende onderdelen van het OM aanwezig is, deze neerslag slechts op één plaats bewaard hoeft te worden. Een voorbeeld: de vergadernotulen van het OM-breed Beraad, die verspreid worden onder alle parketten, kan men bij het Parket-Generaal bewaren. Bij de parketten kunnen de notulen dan vernietigd worden. Dit principe kan bij vele handelingen toegepast worden. In het algemeen geldt dat daar waar het secretariaat is gevestigd, de archiefbescheiden worden bewaard. 
 
 #### *Vaststellingsprocedure* 
 
-In mei 2003 is het ontwerp-BSD Energiebeleid door de Minister van Justitie aan de Staatssecretaris van OC&W aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 maart 2005 lag de selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Nationaal Archief evenals in de bibliotheken van de zorgdrager, het Ministerie van OC&W en de rijksarchieven in de provincie/regionaal historische centra, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 26 mei 2005 bracht de RvC advies uit (arc-arc.2005/02405/2), hetwelk, behoudens enige tekstuele aanpassingen, aanleiding heeft gegeven tot de volgende wijzigingen in de ontwerp-selectielijst: De waardering van handeling 21 en 23 wordt gesteld op B 1, conform het driehoeksoverleg. Handelingen met betrekking tot periodieke verslagen. In andere selectielijsten wordt aangegeven dat wanneer er geen jaarverslag meer is, de maand- en/of kwartaalverslagen bewaard dienen te worden. In het BSD zal dit worden toegevoegd. De waardering van handeling 20 zal gewijzigd worden van V 5 jaar in V 7 jaar. De waardering van handeling 56 zal gewijzigd worden van V 10 jaar in V 20 jaar. Daarop werd de selectielijst op 14 oktober 2005 door de Algemene Rijksarchivaris, namens de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, en de Minister van Justitie vastgesteld (C/S&A/05/2036].  
+In mei 2003 is het ontwerp-BSD Energiebeleid door de Minister van Justitie aan de Staatssecretaris van OC&W aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 maart 2005 lag de selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Nationaal Archief evenals in de bibliotheken van de zorgdrager, het Ministerie van OC&W en de rijksarchieven in de provincie/regionaal historische centra, hetgeen was aangekondigd in de Staatscourant en in het Archievenblad. Op 26 mei 2005 bracht de RvC advies uit (arc-arc.2005/02405/2), hetwelk, behoudens enige tekstuele aanpassingen, aanleiding heeft gegeven tot de volgende wijzigingen in de ontwerp-selectielijst: De waardering van handeling 21 en 23 wordt gesteld op B 1, conform het driehoeksoverleg. Handelingen met betrekking tot periodieke verslagen. In andere selectielijsten wordt aangegeven dat wanneer er geen jaarverslag meer is, de maand- en/of kwartaalverslagen bewaard dienen te worden. In het BSD zal dit worden toegevoegd. De waardering van handeling 20 zal gewijzigd worden van V 5 jaar in V 7 jaar. De waardering van handeling 56 zal gewijzigd worden van V 10 jaar in V 20 jaar. Daarop werd de selectielijst op 14 oktober 2005 door de Algemene Rijksarchivaris, namens de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, en de Minister van Justitie vastgesteld (C/S&A/05/2036]. 
 
 ####De selectie
 
 #### *Selectiedoelstelling* 
 
-De hoofddoelstelling van de selectie is een onderscheid te maken tussen te bewaren (dat wil zeggen naar de Rijksarchiefdienst over te brengen) en de (op termijn) te vernietigen gegevens van de bedoelde organen. De te bewaren gegevens moeten een reconstructie van het overheidshandelen op hoofdlijnen ten opzichte van haar omgeving mogelijk maken. Hiermee worden bronnen voor de kennis van de Nederlandse samenleving en cultuur veilig gesteld voor blijvende bewaring. In dit BSD worden de handelingen van de verschillende actoren geselecteerd op hun bijdrage aan de realisering van de selectiedoelstelling. Bij de selectie gaat het er om welke gegevensbestanden, behorend bij welke handeling, en berustend bij welke actor, bewaard moeten blijven met als doel het handelen van het Openbaar Ministerie met betrekking tot de rechtshandhaving op hoofdlijnen te kunnen reconstrueren.  
+De hoofddoelstelling van de selectie is een onderscheid te maken tussen te bewaren (dat wil zeggen naar de Rijksarchiefdienst over te brengen) en de (op termijn) te vernietigen gegevens van de bedoelde organen. De te bewaren gegevens moeten een reconstructie van het overheidshandelen op hoofdlijnen ten opzichte van haar omgeving mogelijk maken. Hiermee worden bronnen voor de kennis van de Nederlandse samenleving en cultuur veilig gesteld voor blijvende bewaring. In dit BSD worden de handelingen van de verschillende actoren geselecteerd op hun bijdrage aan de realisering van de selectiedoelstelling. Bij de selectie gaat het er om welke gegevensbestanden, behorend bij welke handeling, en berustend bij welke actor, bewaard moeten blijven met als doel het handelen van het Openbaar Ministerie met betrekking tot de rechtshandhaving op hoofdlijnen te kunnen reconstrueren. 
 
 #### *Selectiecriteria* 
 
@@ -192,11 +192,11 @@ Teneinde de selectiedoelstelling te realiseren zijn algemene, op ieder beleidste
 
 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt Toelichting: Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken.  
 
-6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten Toelichting: Bijvoorbeeld in het geval de ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving.   Naast de algemene criteria kunnen er ten aanzien van bepaalde handelingen, eveneens binnen het kader van de selectiedoelstellingen, in een BSD beleidsterrein-specifieke criteria worden geformuleerd, die met behulp van de algemene criteria niet kunnen worden gewaardeerd. Binnen dit beleidsterrein is de noodzaak hiertoe niet aanwezig geacht.  
+6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten Toelichting: Bijvoorbeeld in het geval de ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving.   Naast de algemene criteria kunnen er ten aanzien van bepaalde handelingen, eveneens binnen het kader van de selectiedoelstellingen, in een BSD beleidsterrein-specifieke criteria worden geformuleerd, die met behulp van de algemene criteria niet kunnen worden gewaardeerd. Binnen dit beleidsterrein is de noodzaak hiertoe niet aanwezig geacht. 
 
 #### *Uitzonderingscriterium* 
 
-Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd.  
+Ingevolge [artikel 5, onder e, van het Archiefbesluit 1995](../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. 
 
 ####Selectielijst
 
@@ -239,7 +239,7 @@ Actor: Minister van Justitie Handeling: Het verzamelen en bewerken van gegevens 
 Actor: Minister van Justitie Handeling: Het financieren van (wetenschappelijk) onderzoek betreffende de rechtshandhaving Periode: 1950– Grondslag: Product: Offertes, rekeningen, declaraties Opmerking: De termijn voor vernietiging gaat in na afsluiting van de rekening Waardering: V 7 jaar 
 ###23.
 
-Actor: Minister van Justitie/Vergadering van procureurs-generaal tot 1995/College van procureurs-generaal vanaf 1995 Handeling: Het deelnemen aan interdepartementale en andere overleg- en adviesorganen over onderwerpen die raken aan het OM Periode: 1950– Grondslag: Product: Notulen, correspondentie, notities Waardering: B (1)  
+Actor: Minister van Justitie/Vergadering van procureurs-generaal tot 1995/College van procureurs-generaal vanaf 1995 Handeling: Het deelnemen aan interdepartementale en andere overleg- en adviesorganen over onderwerpen die raken aan het OM Periode: 1950– Grondslag: Product: Notulen, correspondentie, notities Waardering: B (1) 
 
 ####Handelingen van de vergadering van procureurs-generaal
 
@@ -281,7 +281,7 @@ Actor: Vergadering van procureurs-generaal Handeling: Het financieren van (weten
 Actor: Vergadering van procureurs-generaal Handeling: Het deelnemen aan internationaal overleg over de rechtshandhaving Periode: 1950–1995 Grondslag: Product: Notulen, correspondentie, notities Opmerking: Dit betreft contacten met buitenlandse zusterdiensten belast met strafvervolging, het bijwonen van internationale conferenties, etc. Waardering: B (1) 
 ###23.
 
-Actor: Vergadering van procureurs-generaal Handeling: Het deelnemen aan interdepartementale en andere overleg- en adviesorganen over onderwerpen die raken aan het OM Periode: 1950–1995 Grondslag: Product: Notulen, correspondentie, notities Waardering: V 10 jaar  
+Actor: Vergadering van procureurs-generaal Handeling: Het deelnemen aan interdepartementale en andere overleg- en adviesorganen over onderwerpen die raken aan het OM Periode: 1950–1995 Grondslag: Product: Notulen, correspondentie, notities Waardering: V 10 jaar 
 
 ####Handelingen van het College van procureurs-generaal
 
@@ -335,7 +335,7 @@ Actor: College van procureurs-generaal Handeling: Het deelnemen aan internationa
 Actor: College van procureurs-generaal Handeling: Het afsluiten van convenanten en overeenkomsten met overheidsorganen Periode: 1995– Grondslag: Product: Bijvoorbeeld Convenant Nederlandse Mededingingsautoriteit en OM van 17 februari 2003 Waardering: B (5) 
 ###23.
 
-Actor: College van procureurs-generaal Handeling: Het deelnemen aan interdepartementale en andere overleg- en adviesorganen over onderwerpen die raken aan het OM Periode: 1995– Grondslag: Product: Notulen, correspondentie, notities Waardering: B (1)  
+Actor: College van procureurs-generaal Handeling: Het deelnemen aan interdepartementale en andere overleg- en adviesorganen over onderwerpen die raken aan het OM Periode: 1995– Grondslag: Product: Notulen, correspondentie, notities Waardering: B (1) 
 
 ####Handelingen van landelijke commissies en organen
 
@@ -544,7 +544,7 @@ Actor: Stuurgroep versterking OM (SVOM) Handeling: Het doen van voorstellen voor
 
 ###84.
 
-Actor: Commissie Openbaar Ministerie Handeling: Het doen van onderzoek naar het functioneren van het Openbaar Ministerie Periode: 1993–1994 Grondslag: Product: Onderzoeksrapport, notulen, notities Waardering: B (2)  
+Actor: Commissie Openbaar Ministerie Handeling: Het doen van onderzoek naar het functioneren van het Openbaar Ministerie Periode: 1993–1994 Grondslag: Product: Onderzoeksrapport, notulen, notities Waardering: B (2) 
 
 ####Handelingen van regionale commissies en organen
 
@@ -552,7 +552,7 @@ Actor: Commissie Openbaar Ministerie Handeling: Het doen van onderzoek naar het 
 
 ###57.
 
-Actor: Regiobijeenkomst Noord, Midden en Zuid Handeling: Het adviseren van het College van procureurs-generaal inzake het handhavingsbeleid Periode: 1995– Grondslag: Product: O.a. adviezen, notulen, notities Waardering: B (5)  
+Actor: Regiobijeenkomst Noord, Midden en Zuid Handeling: Het adviseren van het College van procureurs-generaal inzake het handhavingsbeleid Periode: 1995– Grondslag: Product: O.a. adviezen, notulen, notities Waardering: B (5) 
 
 ####Handelingen van commissies en organen op het niveau van het ressort
 
@@ -619,7 +619,7 @@ Actor: Ressortsfraudecommissie (REFRAUCOM) Handeling: Het formuleren van (ressor
 
 ###70.
 
-Actor: Ressortsmilieucommissie (REMICOM) Handeling: Het formuleren van (ressortelijk) beleid voor milieuzaken Periode: Ca. 1970–1995 Grondslag: Product: O.a. adviezen, notulen, notities Waardering: B (5)  
+Actor: Ressortsmilieucommissie (REMICOM) Handeling: Het formuleren van (ressortelijk) beleid voor milieuzaken Periode: Ca. 1970–1995 Grondslag: Product: O.a. adviezen, notulen, notities Waardering: B (5) 
 
 ####Handelingen van commissies en organen op het niveau van de parketten
 
@@ -647,11 +647,11 @@ Actor: Parketten Handeling: Het formuleren van beleid voor de rechtshandhaving i
 Actor: Parketten Handeling: Het voeren van overleg met de handhavingpartners en het maken van afspraken Periode: 1950– Grondslag: Bron: Jaarplan OM 2000 Product: O.a. adviezen, notulen, notities Opmerking: Bijvoorbeeld: overleg met ZM over de zittingscapaciteit, met openbaar bestuur over veiligheidsbeleid; met (andere) justitiële partners over afstemming van de werkprocessen. Waardering: B (5) 
 ###75.
 
-Actor: Parketten Handeling: Het deelnemen in lokale projecten op het terrein van de rechtshandhaving en veiligheidsbeleid Periode: 1995– Grondslag: Bron: jaarplan OM 2000 Product: O.a. adviezen, notulen, notities Waardering: V 10 jaar  
+Actor: Parketten Handeling: Het deelnemen in lokale projecten op het terrein van de rechtshandhaving en veiligheidsbeleid Periode: 1995– Grondslag: Bron: jaarplan OM 2000 Product: O.a. adviezen, notulen, notities Waardering: V 10 jaar 
 
 ####Handelingen van ad hoc commissies, stuurgroepen, projectgroepen, contactgroepen en werkgroepen op landelijk niveau
 
 ###76.
 
-Actor: Ad hoc commissies, stuurgroepen, projectgroepen, contactgroepen en werkgroepen Handeling: Het voeren van overleg c.q. het adviseren over ad hoc OM-aangelegenheden Periode: 1950– Grondslag: Product: O.a. adviezen, notulen, notities Waardering: B (5)  
+Actor: Ad hoc commissies, stuurgroepen, projectgroepen, contactgroepen en werkgroepen Handeling: Het voeren van overleg c.q. het adviseren over ad hoc OM-aangelegenheden Periode: 1950– Grondslag: Product: O.a. adviezen, notulen, notities Waardering: B (5) 
 

@@ -10,26 +10,26 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ [selectielijst voor de neerslag van de handelingen van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de onder hem ressorterende actoren op het beleidsterrein Sociale Verzekeringen over de periode [1940] 1997–2003](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0018881/README.md) ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘[selectielijst voor de neerslag van de handelingen van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de onder hem ressorterende actoren op het beleidsterrein Sociale Verzekeringen over de periode [1940] 1997–2003](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0018881/README.md)’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-De ‘lijst houdende opgaaf van voor vernietiging in aanmerking komende stukken in de archieven van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties en in de archieven van de onder dat ressorterende commissies en ambtenaren, vastgesteld januari/maart 1961; aangevuld en gewijzigd juli/september 1967’, voor wat betreft alle categorieën met betrekking tot Sociale Verzekeringen wordt ingetrokken.  
+De ‘lijst houdende opgaaf van voor vernietiging in aanmerking komende stukken in de archieven van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties en in de archieven van de onder dat ressorterende commissies en ambtenaren, vastgesteld januari/maart 1961; aangevuld en gewijzigd juli/september 1967’, voor wat betreft alle categorieën met betrekking tot Sociale Verzekeringen wordt ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
-De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende [selectielijst](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0018881/README.md) en toelichting in de Staatscourant zal worden geplaatst.   
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
+De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende [selectielijst ](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0018881/README.md)en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 14 oktober 2005   
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze: de 
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze:de 
 Algemene Rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze: de 
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze:de 
 Directeur Communicatie en Informatie, 
-E.J. denHoedt   
+E.J. den Hoedt     

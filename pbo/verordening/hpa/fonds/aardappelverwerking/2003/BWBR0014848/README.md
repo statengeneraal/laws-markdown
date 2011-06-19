@@ -2,39 +2,43 @@
 
 ##Verordening van het Hoofdproductschap Akkerbouw van 20 maart 2003 tot instelling van het fonds aardappelverwerking (Verordening HPA fonds aardappelverwerking 2003)
 
-Het bestuur van het Hoofdproductschap Akkerbouw:  
+Het bestuur van het Hoofdproductschap Akkerbouw:
 Gelet op de [artikelen 93](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [123 van de Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de artikelen 2, 16, 18 en 25 van de Instellingsverordening akkerbouwproductschappen 1997;
 
 Gehoord de Commissie Aardappelen;
-Besluit:    
+Besluit:
 
-### Artikel  1  
+###Artikel 1 
+Materieel uitgewerkt per 06-07-2008 
 
-1.  Er is een Fonds aardappelverwerking dat deel uitmaakt van het vermogen van het Hoofdproductschap Akkerbouw.   
-2.  Het dagelijks bestuur van het hoofdproductschap beheert dit fonds.   
-3.  De baten van het fonds bestaan uit: 
+1. Er is een Fonds aardappelverwerking dat deel uitmaakt van het vermogen van het Hoofdproductschap Akkerbouw.
+2. Het dagelijks bestuur van het hoofdproductschap beheert dit fonds.
+3. De baten van het fonds bestaan uit:
 
-a. de opbrengst van de heffing uit hoofde van de jaarlijks vast te stellen Heffingsverordening HPA fonds aardappelverwerking;  
+a.de opbrengst van de heffing uit hoofde van de jaarlijks vast te stellen Heffingsverordening HPA fonds aardappelverwerking;
 
-b. de van de middelen van het fonds gekweekte rente.     
+b.de van de middelen van het fonds gekweekte rente.
 
-### Artikel  2  
+###Artikel 2 
+Materieel uitgewerkt per 06-07-2008 
 
-Ten laste van het fonds kan het bestuur van het hoofdproductschap, op voorstel van de Commissie Aardappelen, subsidies en bijdragen verlenen in het belang van verwerking tot en de afzet van aardappelproducten.  
+Ten laste van het fonds kan het bestuur van het hoofdproductschap, op voorstel van de Commissie Aardappelen, subsidies en bijdragen verlenen in het belang van verwerking tot en de afzet van aardappelproducten.
 
-### Artikel  3  
+###Artikel 3 
+Materieel uitgewerkt per 06-07-2008 
 
-De Verordening HPA fonds aardappelverwerking 1997 wordt ingetrokken.  
+De Verordening HPA fonds aardappelverwerking 1997 wordt ingetrokken.
 
-### Artikel  4  
+###Artikel 4 
+Materieel uitgewerkt per 06-07-2008 
 
-Deze verordening treedt in werking met ingang van 1 juli 2003. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 30 juni 2003, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 juli 2003.  
+Deze verordening treedt in werking met ingang van 1 juli 2003.Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 30 juni 2003, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 juli 2003.
 
-Den Haag 
-20 maart 2003    
+Den Haag
+20 maart 2003
 
-J.H.M. Kienhuis  
-voorzitter  
+J.H.M.Kienhuis
+voorzitter
 
-R.J.M. ten Berge  
-secretaris    Goedgekeurd door de Bestuurskamer van de Sociaal- Economische Raad bij besluit van 22 mei 2003.    
+R.J.M. tenBerge
+secretarisGoedgekeurd door de Bestuurskamer van de Sociaal- Economische Raad bij besluit van 22 mei 2003.

@@ -156,7 +156,11 @@ b. van de werkgever een vast bruto-loon voor de arbeid ontvangt van ten minste �
 
 Een aantekening als bedoeld in [artikel 4, eerste lid, van de Wet arbeid vreemdelingen](../../../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md) wordt afgegeven aan: 
 
-a. een vreemdeling die beschikt over een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder een beperking verband houdend met gezinshereniging of gezinsvorming met een kennismigrant, als bedoeld in [artikel 3.4, eerste lid, onder y, van het Vreemdelingenbesluit 2000](../../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  
+a. een vreemdeling die beschikt over een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder een beperking verband houdend met gezinshereniging of gezinsvorming met: 
+
+1°. een kennismigrant als bedoeld in [artikel 3.4, eerste lid, onder y, van het Vreemdelingenbesluit 2000](../../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), of  
+
+2°. een houder van een door Onze Minister van Justitie afgegeven Europese blauwe kaart als bedoeld in artikel 1i;    
 
 b. een vreemdeling die rechtmatig in Nederland verblijft, in de zin van [artikel 8, onder a, van de Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), en is toegelaten voor verblijf bij: 
 

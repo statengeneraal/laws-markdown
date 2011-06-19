@@ -27,16 +27,16 @@ d. STANAG 2487: ingevolge een in de Staatscourant gepubliceerde mededeling van O
 
 e. STANAG 3854: ingevolge een in de Staatscourant gepubliceerde mededeling van Onze Minister van kracht zijnde versie van de NATO Standardization Agreement nr. 3854 inzake policies and procedures governing the air transportation of dangerous cargo, zoals ter inzage gelegd op de bij die mededeling aangegeven locatie;  
 
-f. STANAG 4441: ingevolge een in de Staatscourant gepubliceerde mededeling van Onze Minister van kracht zijnde versie van de NATO Standardization Agreement nr. 4441 met de daarbij behorende AASTP-2, manual of NATO safety principles for the transport of military ammunition and explosives, zoals ter inzage gelegd op de bij die mededeling aangegeven locatie.     
-2.  Als andere gevaarlijke stoffen als bedoeld in [artikel 1.1, eerste lid, onderdeel c, onder 9° van de wet](../../../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) worden aangewezen de stoffen of voorwerpen, bedoeld in [artikel 2, onder 9°, van het Besluit vervoer gevaarlijke stoffen door de lucht](../../../../../../../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/door/de/lucht/BWBR0013514/README.md).   
+f. STANAG 4441: ingevolge een in de Staatscourant gepubliceerde mededeling van Onze Minister van kracht zijnde versie van de NATO Standardization Agreement nr. 4441 met de daarbij behorende AASTP-2, manual of NATO safety principles for the transport of military ammunition and explosives, zoals ter inzage gelegd op de bij die mededeling aangegeven locatie.      
+2.  Als andere gevaarlijke stoffen als bedoeld in [artikel 1.1, eerste lid, onderdeel c, onder 9° van de wet](../../../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) worden aangewezen de stoffen of voorwerpen, bedoeld in [artikel 2, onder 9°, van het Besluit vervoer gevaarlijke stoffen door de lucht](../../../../../../../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/door/de/lucht/BWBR0013514/README.md).  
 
 ### Artikel  2  
 
-Als de in [artikel 10.6, derde lid, van de wet](../../../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) bedoelde gevaarlijke stoffen, niet zijnde ontplofbare stoffen of voorwerpen, behorend tot de operationele uitrusting of het wapensysteem van een militair luchtvaartuig, of behorend tot de uitrusting van personen die met een dergelijk luchtvaartuig worden vervoerd, worden aangewezen de stoffen, bedoeld in [artikel 1.1, eerste lid, onderdeel c, onder 2° tot en met 8°, van de wet](../../../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) alsmede de stoffen, bedoeld in artikel 1, tweede lid, van dit besluit.  
+Als de in [artikel 10.6, derde lid, van de wet](../../../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) bedoelde gevaarlijke stoffen, niet zijnde ontplofbare stoffen of voorwerpen, behorend tot de operationele uitrusting of het wapensysteem van een militair luchtvaartuig, of behorend tot de uitrusting van personen die met een dergelijk luchtvaartuig worden vervoerd, worden aangewezen de stoffen, bedoeld in [artikel 1.1, eerste lid, onderdeel c, onder 2° tot en met 8°, van de wet](../../../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) alsmede de stoffen, bedoeld in artikel 1, tweede lid, van dit besluit. 
 
 ### Artikel  3  
 
-Het nationaal vervoer van de in artikel 2 van dit besluit bedoelde stoffen met militaire luchtvaartuigen, het internationaal vervoer van gevaarlijke stoffen met militaire luchtvaartuigen, het nationaal vervoer van ontplofbare stoffen met militaire luchtvaartuigen, het daartoe aanbieden of aannemen, alsmede het laden in of lossen uit een dergelijk luchtvaartuig of tijdens het vervoer neerleggen van bedoelde stoffen is slechts toegestaan voorzover de STANAG 2487, 3854 en 4441 in acht worden genomen.  
+Het nationaal vervoer van de in artikel 2 van dit besluit bedoelde stoffen met militaire luchtvaartuigen, het internationaal vervoer van gevaarlijke stoffen met militaire luchtvaartuigen, het nationaal vervoer van ontplofbare stoffen met militaire luchtvaartuigen, het daartoe aanbieden of aannemen, alsmede het laden in of lossen uit een dergelijk luchtvaartuig of tijdens het vervoer neerleggen van bedoelde stoffen is slechts toegestaan voorzover de STANAG 2487, 3854 en 4441 in acht worden genomen. 
 
 ### Artikel  4  
 
@@ -60,7 +60,7 @@ h. het doen van aanvragen of meldingen met betrekking tot handelingen inzake het
 
 i. de documenten die worden gebruikt bij de handelingen inzake het vervoer van gevaarlijke stoffen als bedoeld in artikel 3 van dit besluit;  
 
-j. de eisen waaraan verpakking en etiketten of aanduidingen op de verpakking moet voldoen.    
+j. de eisen waaraan verpakking en etiketten of aanduidingen op de verpakking moet voldoen.   
 
 ### Artikel  5  
 
@@ -68,11 +68,11 @@ Onze Minister kan in het belang van de veiligheid of de bescherming van het mili
 
 ### Artikel  6  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  7  
 
-Dit besluit wordt aangehaald als: Besluit vervoer gevaarlijke stoffen door de lucht met militaire luchtvaartuigen.  
+Dit besluit wordt aangehaald als: Besluit vervoer gevaarlijke stoffen door de lucht met militaire luchtvaartuigen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -86,4 +86,4 @@ H. G. J. Kamp
 de negentiende juni 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

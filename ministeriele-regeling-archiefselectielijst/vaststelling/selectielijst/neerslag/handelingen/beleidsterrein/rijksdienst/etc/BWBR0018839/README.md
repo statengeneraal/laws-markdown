@@ -10,42 +10,42 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de Minister van Verkeer en Waterstaat en de Rijksdienst voor het Wegverkeer op het beleidsterrein Rijksdienst voor het Wegverkeer vanaf 1951 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Verkeer en Waterstaat en de Rijksdienst voor het Wegverkeer op het beleidsterrein Rijksdienst voor het Wegverkeer vanaf 1951’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 7 oktober 2005   
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze: de 
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze:de 
 Algemene Rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
-Minister van Verkeer en Waterstaat, namens deze: de 
+Minister van Verkeer en Waterstaat, namens deze:de 
 Directeur Advies- en Coördinatiecentrum, 
-H. terHors  
+H. ter Hors    
 
 ####Basiselectiedocument vanaf 1951 geldend voor de zorgdragers de RDW en de minister van Verkeer en Waterstaat
 
-### *Doxis Informatiemanagers* 
+###*Doxis Informatiemanagers*
 
 drs. W.E. Overeem 
-### *Definitief/november 2005* 
+###*Definitief/november 2005*
 
 ####Lijst van afkortingen
 
-APK: Algemeen Periodieke Keuring AWB: Algemene Wet Bestuursrecht BSD: Basisselectiedocument CBV: Coördinatieberaad Voertuigbeleid CBM: Centraal Bureau Motorrijtuigenbelasting CJIB: Centraal Justitieel Incassobureau EC: Europese Commissie ECE: Economic Commission for Europe RIO: Rapport Institutioneel Onderzoek RTL: Registratie Tenaamstelling Leasemaatschappijen V&W: Verkeer en Waterstaat WAM: Wet Aansprakelijkheidsverzekering Motorrijtuigen ZBO: Zelfstandig Bestuursorgaan  
+APK: Algemeen Periodieke Keuring AWB: Algemene Wet Bestuursrecht BSD: Basisselectiedocument CBV: Coördinatieberaad Voertuigbeleid CBM: Centraal Bureau Motorrijtuigenbelasting CJIB: Centraal Justitieel Incassobureau EC: Europese Commissie ECE: Economic Commission for Europe RIO: Rapport Institutioneel Onderzoek RTL: Registratie Tenaamstelling Leasemaatschappijen V&W: Verkeer en Waterstaat WAM: Wet Aansprakelijkheidsverzekering Motorrijtuigen ZBO: Zelfstandig Bestuursorgaan 
 
 ####1. Inleiding
 
 #### *1.1. Verantwoording* 
 
-Deze lijst is een selectielijst zoals bedoeld in artikel 2, eerste lid van het Archiefbesluit 1995. De lijst is opgezet als basisselectiedocument (BSD). Het grootste deel van het BSD bestaat uit handelingen beschreven in het rapport institutioneel onderzoek (RIO) *Het blik waardig keuren, een institutioneel onderzoek naar het handelen van de RDW, 1951–*. In 1997 is reeds een ‘selectielijst voor de neerslag van de handelingen van de Rijksdienst Wegverkeer’ voor de RDW vastgesteld. Dit BSD was gebaseerd op het RIO *De Heilige Koe geboekstaafd, een institutioneel onderzoek naar het handelen van de Rijksdienst voor het Wegverkeer, 1951–1994*  . In de onderzochte periode was de RDW nog een dienst van het ministerie van Verkeer en Waterstaat. Door de verzelfstandiging van de RDW in 1996 was dit BSD niet meer actueel en was het noodzakelijk nieuw institutioneel onderzoek te verrichten en een nieuw BSD op te stellen. <sup> 2  J.W.J.M. Bogaarts, De heilige koe geboekstaafd. Een institutioneel onderzoek naar het handelen van de Rijksdienst voor het Wegverkeer, 1951-1994 (PIVOT-rapport nr. 18, 's-Gravenhage 1994).  </sup> Met de vaststelling van de voorliggende selectielijst, zal de selectielijst uit 1997 komen te vervallen. Om een grondslag te behouden voor de selectie van archiefbescheiden uit de periode voor de verzelfstandiging van de RDW, zijn ook de handelingen uit *De Heilige Koe geboekstaafd* in dit BSD opgenomen. Omdat de RDW in deze periode nog deel uitmaakte van het ministerie van Verkeer en Waterstaat, hebben deze handelingen als actor de minister van Verkeer en Waterstaat. De handelingen uit *De Heilige Koe geboekstaafd* die nu nog actueel zijn, zijn overigens ook in het RIO *Het blik waardig keuren* opgenomen. Wel hebben deze handelingen vanwege herformulering, splitsing of samenvoeging met een andere handeling soms een ander nummer gekregen . De afgesloten handelingen uit *De Heilige Koe geboekstaafd*, dat wil zeggen de handelingen die niet meer uitgevoerd worden, zijn wel in dit BSD opgenomen, maar niet in het bijbehorende RIO. <sup> 3  Als bijlage bij dit BSD is een concordantie met de vastgestelde selectielijst uit 1997 opgenomen. Daarin staat aangegeven welke handelingen een nieuw nummer hebben gekregen.  </sup> Het RIO *Het blik waardig keuren* bevat ten opzichte van *De Heilige Koe geboekstaafd* ook een aantal nieuwe handelingen van de minister van Verkeer en Waterstaat. Het betreft de handelingen die de minister uitvoert in het kader van zijn ministeriële verantwoordelijkheid voor de RDW, zoals het benoemen van de leden van de Raad van Toezicht en het goedkeuren van de jaarstukken. Het BSD is het wettelijk voorgeschreven instrument voor de selectie van de archiefbescheiden van de RDW en bepaalde archiefbescheiden van het ministerie van Verkeer en Waterstaat. Het bevat een voorstel voor bewaring of vernietiging van de bescheiden die het resultaat of de neerslag zijn van het handelen van de RDW op zijn werkterrein en het handelen van de minister van Verkeer en Waterstaat met betrekking tot de RDW. In dit basisselectiedocument wordt de documentaire neerslag van de handelingen van de RDW verdeeld in naar het Nationaal Archief over te brengen – en dus voor permanente bewaring in aanmerking komende – documentaire neerslag en op termijn te vernietigen documentaire neerslag. Voorafgaand aan de eigenlijke selectielijst wordt in deze inleiding enige aanvullende informatie gegeven. Ten eerste worden de hoofdlijnen van het taakgebied van de RDW aangegeven. Vervolgens wordt ingegaan op de doelstellingen van en de criteria voor de selectie en wordt de procedure van vaststelling van het basisselectiedocument beschreven. Tenslotte volgen enkele praktische aanwijzingen en opmerkingen ten behoeve van het gebruik van dit BSD.  
+Deze lijst is een selectielijst zoals bedoeld in artikel 2, eerste lid van het Archiefbesluit 1995. De lijst is opgezet als basisselectiedocument (BSD). Het grootste deel van het BSD bestaat uit handelingen beschreven in het rapport institutioneel onderzoek (RIO) *Het blik waardig keuren, een institutioneel onderzoek naar het handelen van de RDW, 1951–*. In 1997 is reeds een ‘selectielijst voor de neerslag van de handelingen van de Rijksdienst Wegverkeer’ voor de RDW vastgesteld. Dit BSD was gebaseerd op het RIO *De Heilige Koe geboekstaafd, een institutioneel onderzoek naar het handelen van de Rijksdienst voor het Wegverkeer, 1951–1994*<sup>2J.W.J.M. Bogaarts, De heilige koe geboekstaafd. Een institutioneel onderzoek naar het handelen van de Rijksdienst voor het Wegverkeer, 1951-1994 (PIVOT-rapport nr. 18, 's-Gravenhage 1994).</sup> . In de onderzochte periode was de RDW nog een dienst van het ministerie van Verkeer en Waterstaat. Door de verzelfstandiging van de RDW in 1996 was dit BSD niet meer actueel en was het noodzakelijk nieuw institutioneel onderzoek te verrichten en een nieuw BSD op te stellen. Met de vaststelling van de voorliggende selectielijst, zal de selectielijst uit 1997 komen te vervallen. Om een grondslag te behouden voor de selectie van archiefbescheiden uit de periode voor de verzelfstandiging van de RDW, zijn ook de handelingen uit *De Heilige Koe geboekstaafd* in dit BSD opgenomen. Omdat de RDW in deze periode nog deel uitmaakte van het ministerie van Verkeer en Waterstaat, hebben deze handelingen als actor de minister van Verkeer en Waterstaat. De handelingen uit *De Heilige Koe geboekstaafd* die nu nog actueel zijn, zijn overigens ook in het RIO *Het blik waardig keuren* opgenomen. Wel hebben deze handelingen vanwege herformulering, splitsing of samenvoeging met een andere handeling soms een ander nummer gekregen<sup>3Als bijlage bij dit BSD is een concordantie met de vastgestelde selectielijst uit 1997 opgenomen. Daarin staat aangegeven welke handelingen een nieuw nummer hebben gekregen.</sup>. De afgesloten handelingen uit *De Heilige Koe geboekstaafd*, dat wil zeggen de handelingen die niet meer uitgevoerd worden, zijn wel in dit BSD opgenomen, maar niet in het bijbehorende RIO. Het RIO *Het blik waardig keuren* bevat ten opzichte van *De Heilige Koe geboekstaafd* ook een aantal nieuwe handelingen van de minister van Verkeer en Waterstaat. Het betreft de handelingen die de minister uitvoert in het kader van zijn ministeriële verantwoordelijkheid voor de RDW, zoals het benoemen van de leden van de Raad van Toezicht en het goedkeuren van de jaarstukken. Het BSD is het wettelijk voorgeschreven instrument voor de selectie van de archiefbescheiden van de RDW en bepaalde archiefbescheiden van het ministerie van Verkeer en Waterstaat. Het bevat een voorstel voor bewaring of vernietiging van de bescheiden die het resultaat of de neerslag zijn van het handelen van de RDW op zijn werkterrein en het handelen van de minister van Verkeer en Waterstaat met betrekking tot de RDW. In dit basisselectiedocument wordt de documentaire neerslag van de handelingen van de RDW verdeeld in naar het Nationaal Archief over te brengen – en dus voor permanente bewaring in aanmerking komende – documentaire neerslag en op termijn te vernietigen documentaire neerslag. Voorafgaand aan de eigenlijke selectielijst wordt in deze inleiding enige aanvullende informatie gegeven. Ten eerste worden de hoofdlijnen van het taakgebied van de RDW aangegeven. Vervolgens wordt ingegaan op de doelstellingen van en de criteria voor de selectie en wordt de procedure van vaststelling van het basisselectiedocument beschreven. Tenslotte volgen enkele praktische aanwijzingen en opmerkingen ten behoeve van het gebruik van dit BSD. 
 
 #### *1.2. Hoofdlijnen van het handelen van de RDW* 
 
@@ -56,7 +56,7 @@ Op 9 februari 1951 werd de Rijksdienst voor het Wegverkeer een zelfsandige dien
 
 – het keuren van voertuigen, met name van voertuigen met een bijzondere toepassing zoals ambulances en bussen;  
 
-– het verstrekken van ontheffingen voor uitzonderlijke transporten voor de rijkswegen.   
+–  het verstrekken van ontheffingen voor uitzonderlijke transporten voor de rijkswegen.   
 ###Documentafgifte
 
 – de afgifte van kentekenbewijzen, rijbewijzen en bromfietscertificaten;  
@@ -77,7 +77,7 @@ Op 9 februari 1951 werd de Rijksdienst voor het Wegverkeer een zelfsandige dien
 
 – het verzamelen, bewerken en beheren van diverse basisregisters, zoals het kentekenregister, het Centraal Register Wet Aansprakelijkheid Motorvoertuigen en het Centraal Rijbewijzen- en Bromfietscertificatenregister;  
 
-– het verstrekken van informatie uit de registers.   Deze taken van de RDW richten zich onder meer op houders en eigenaren van voertuigen, organisaties en personen die bezig houden met de productie, reparatie en het keuren van voertuigen, organisaties die zich inzetten voor veiligheid in het verkeer en instanties die zich bezig houden met de bestrijding van fraude en criminaliteit rond voertuigen. Hoewel de RDW sinds de verzelfstandiging met name uitvoerende taken verricht, voert de organisatie ook nog enkele beleidsgerelateerde handelingen uit. Op nationaal niveau voorziet de RDW de ministers van Verkeer en Waterstaat en Volkshuisvesting, Ruimtelijke Ordening gevraagd en ongevraagd van advies; op Europees niveau neemt de RDW namens verschillende ministers deel aan overleggen van de Europese Unie en de Economic Commission for Europe over voertuigtechnische onderwerpen. Het doel dat de overheid via het optreden van de RDW tracht te verwezenlijken is het bewaken van de veiligheids- en milieuaspecten van het Nederlandse wagenpark, het registreren van gegevens van voertuigen, hun eigenaren/houders en de afgegeven documenten, het verstrekken van correcte en volledige informatie aan derden hieromtrent en het scheppen van voorwaarden ter voorkoming en bestrijding van fraude en criminaliteit in opdracht van de Nederlandse overheid. Voor een nadere toelichting op de ontwikkelingen op het werkterrein van de RDW wordt voor wat betreft de periode voor de verzelfstandiging in 1996 verwezen naar het RIO *De Heilige Koe geboekstaafd*; meer uitgebreide informatie over het handelen van de RDW na de verzelfstandiging kan gevonden worden in het RIO *Het blik waardig keuren*.  
+– het verstrekken van informatie uit de registers.   Deze taken van de RDW richten zich onder meer op houders en eigenaren van voertuigen, organisaties en personen die bezig houden met de productie, reparatie en het keuren van voertuigen, organisaties die zich inzetten voor veiligheid in het verkeer en instanties die zich bezig houden met de bestrijding van fraude en criminaliteit rond voertuigen. Hoewel de RDW sinds de verzelfstandiging met name uitvoerende taken verricht, voert de organisatie ook nog enkele beleidsgerelateerde handelingen uit. Op nationaal niveau voorziet de RDW de ministers van Verkeer en Waterstaat en Volkshuisvesting, Ruimtelijke Ordening gevraagd en ongevraagd van advies; op Europees niveau neemt de RDW namens verschillende ministers deel aan overleggen van de Europese Unie en de Economic Commission for Europe over voertuigtechnische onderwerpen. Het doel dat de overheid via het optreden van de RDW tracht te verwezenlijken is het bewaken van de veiligheids- en milieuaspecten van het Nederlandse wagenpark, het registreren van gegevens van voertuigen, hun eigenaren/houders en de afgegeven documenten, het verstrekken van correcte en volledige informatie aan derden hieromtrent en het scheppen van voorwaarden ter voorkoming en bestrijding van fraude en criminaliteit in opdracht van de Nederlandse overheid. Voor een nadere toelichting op de ontwikkelingen op het werkterrein van de RDW wordt voor wat betreft de periode voor de verzelfstandiging in 1996 verwezen naar het RIO *De Heilige Koe geboekstaafd*; meer uitgebreide informatie over het handelen van de RDW na de verzelfstandiging kan gevonden worden in het RIO *Het blik waardig keuren*. 
 
 #### *1.3. Overzicht gebruikte actoren* 
 
@@ -100,7 +100,7 @@ Deze raad is ingesteld per algemene maatregel van bestuur van 28 april 1980. De
 
 – vertegenwoordigers van organisaties werkzaam op het terrein van verkeer en vervoer;  
 
-– deskundigen op het gebied van keuringen en voertuigtechniek.   De Raad is als gevolg van de Wet Raad voor verkeer en waterstaat per 12 maart 1992 opgeheven.  
+– deskundigen op het gebied van keuringen en voertuigtechniek.   De Raad is als gevolg van de Wet Raad voor verkeer en waterstaat per 12 maart 1992 opgeheven. 
 
 #### *1.3.2. Zorgdrager: de RDW* 
 
@@ -112,11 +112,11 @@ De op 2 september 1949 ingestelde Rijksdienst voor het Wegverkeer werd op 19 f
 Ter compensatie van de verminderde ministeriële verantwoordelijkheid als gevolg van de verzelfstandiging werd door de minister van Verkeer en Waterstaat een Raad van Toezicht ingesteld. De voornaamste taken van de Raad van Toezicht zijn het toezicht houden op en het adviseren van de directie van de RDW en het goedkeuren van de besluiten die de directie over bepaalde aangelegenheden neemt. 
 ###De Ondernemingsraad van de RDW
 
-Sinds 1996 heeft de RDW een Ondernemingsraad. De bevoegdheden van de Ondernemingsraad komen voort uit de Wet op de Ondernemingsraden. De ondernemingsraad voorziet de directie van adviezen en kan initiatiefvoorstellen bij de directie indienen. Bepaalde besluiten van de directie hebben de instemming van de Ondernemingsraad nodig.  
+Sinds 1996 heeft de RDW een Ondernemingsraad. De bevoegdheden van de Ondernemingsraad komen voort uit de Wet op de Ondernemingsraden. De ondernemingsraad voorziet de directie van adviezen en kan initiatiefvoorstellen bij de directie indienen. Bepaalde besluiten van de directie hebben de instemming van de Ondernemingsraad nodig. 
 
 #### *1.4. Selectiedoelstelling en -criteria* 
 
-Bij de beslissing of de neerslag van een handeling al dan niet voor blijvende bewaring in aanmerking komt wordt uitgegaan van de selectiedoelstelling van de Rijksarchiefdienst. Deze doelstelling is erop gericht dat met de te bewaren gegevens een reconstructie van het handelen van de rijksoverheid op hoofdlijnen ten opzichte van haar omgeving mogelijk moet zijn. Hierdoor worden bronnen van de Nederlandse samenleving en cultuur veilig gesteld voor blijvende bewaring. Om deze selectiedoelstelling te bereiken is in het kader van het Project Invoering Verkorting Overbrengingstermijn een aantal algemene selectiecriteria ontwikkeld, dat op elk taakgebied of beleidsterrein toepasbaar is. Deze criteria zijn positief geformuleerd: in het schema zijn uitsluitend de criteria opgenomen voor handelingen die voor permanente bewaring in aanmerking komen. Deze handelingen worden gewaardeerd met ‘Bewaren’ (B), onder vermelding van het desbetreffende criterium. De neerslag van deze handelingen dient overgedragen te worden aan het Nationaal Archief. De handelingen die niet aan één van de selectiecriteria voldoen, worden gewaardeerd met ‘Vernietigen’ (V). De neerslag die uit deze handelingen voortvloeit, is niet noodzakelijk voor de reconstructie van het handelen op hoofdlijnen. Aan de met een ‘V’ gewaardeerde handelingen is een vernietigingstermijn gekoppeld. Deze termijn is in overleg met medewerkers van de RDW bepaald. Voor gegevens uit het Kentekenregister zijn in het privacyreglement Kentekenregister. Deze termijnen zijn overgenomen in handeling 57 van dit BSD. Voor de handelingen die overgenomen zijn uit *De Heilige Koe geboekstaafd* is de vernietigingstermijn uit het bij dat RIO horende BSD overgenomen, tenzij die termijn niet langer aansluit bij de huidige bedrijfsvoeringsbelangen van de RDW. Archiefbescheiden mogen niet eerder vernietigd worden dan dat de vernietigingstermijn verstreken is. Bij zaaksgewijs geordende archiefbescheiden wordt de vernietigingstermijn geacht in te gaan na beëindiging van de zaak waartoe de bescheiden behoren, gerekend vanaf het jongste document in het dossier. 1. Handelingen die betrekking hebben op *voorbereiding en bepaling van beleid* op hoofdlijnen *Toelichting*: Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op *evaluatie van beleid* op hoofdlijnen *Toelichting*: Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben *verantwoording* van beleid op hoofdlijnen aan andere actoren *Toelichting*: Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op *(her)inrichting* van organisaties belast met beleid op hoofdlijnen *Toelichting*: Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop *beleidsuitvoering* op hoofdlijnen plaatsvindt *Toelichting*: Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op *beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten *Toelichting*: Bijvoorbeeld in het geval de ministeriele verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Ingevolge artikel 5, onder e van het Archiefbesluit 1995 kan neerslag van bepaalde, als te vernietigen handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd.  
+Bij de beslissing of de neerslag van een handeling al dan niet voor blijvende bewaring in aanmerking komt wordt uitgegaan van de selectiedoelstelling van de Rijksarchiefdienst. Deze doelstelling is erop gericht dat met de te bewaren gegevens een reconstructie van het handelen van de rijksoverheid op hoofdlijnen ten opzichte van haar omgeving mogelijk moet zijn. Hierdoor worden bronnen van de Nederlandse samenleving en cultuur veilig gesteld voor blijvende bewaring. Om deze selectiedoelstelling te bereiken is in het kader van het Project Invoering Verkorting Overbrengingstermijn een aantal algemene selectiecriteria ontwikkeld, dat op elk taakgebied of beleidsterrein toepasbaar is. Deze criteria zijn positief geformuleerd: in het schema zijn uitsluitend de criteria opgenomen voor handelingen die voor permanente bewaring in aanmerking komen. Deze handelingen worden gewaardeerd met ‘Bewaren’ (B), onder vermelding van het desbetreffende criterium. De neerslag van deze handelingen dient overgedragen te worden aan het Nationaal Archief. De handelingen die niet aan één van de selectiecriteria voldoen, worden gewaardeerd met ‘Vernietigen’ (V). De neerslag die uit deze handelingen voortvloeit, is niet noodzakelijk voor de reconstructie van het handelen op hoofdlijnen. Aan de met een ‘V’ gewaardeerde handelingen is een vernietigingstermijn gekoppeld. Deze termijn is in overleg met medewerkers van de RDW bepaald. Voor gegevens uit het Kentekenregister zijn in het privacyreglement Kentekenregister. Deze termijnen zijn overgenomen in handeling 57 van dit BSD. Voor de handelingen die overgenomen zijn uit *De Heilige Koe geboekstaafd* is de vernietigingstermijn uit het bij dat RIO horende BSD overgenomen, tenzij die termijn niet langer aansluit bij de huidige bedrijfsvoeringsbelangen van de RDW. Archiefbescheiden mogen niet eerder vernietigd worden dan dat de vernietigingstermijn verstreken is. Bij zaaksgewijs geordende archiefbescheiden wordt de vernietigingstermijn geacht in te gaan na beëindiging van de zaak waartoe de bescheiden behoren, gerekend vanaf het jongste document in het dossier. 1. Handelingen die betrekking hebben op *voorbereiding en bepaling van beleid* op hoofdlijnen  *Toelichting*: Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op *evaluatie van beleid* op hoofdlijnen  *Toelichting*: Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben *verantwoording* van beleid op hoofdlijnen aan andere actoren  *Toelichting*: Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op *(her)inrichting* van organisaties belast met beleid op hoofdlijnen  *Toelichting*: Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop *beleidsuitvoering* op hoofdlijnen plaatsvindt  *Toelichting*: Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op *beleidsuitvoering* op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten  *Toelichting*: Bijvoorbeeld in het geval de ministeriele verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. Ingevolge artikel 5, onder e van het Archiefbesluit 1995 kan neerslag van bepaalde, als te vernietigen handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. 
 
 #### *1.5. Vaststellingsprocedure* 
 
@@ -128,11 +128,11 @@ In juli 2004 is het ontwerp-BSD door het Ministerie van Verkeer en Waterstaat en
 
 – Handeling 110 is gewijzigd in V 10 jaar na einde dienstverband.  
 
-– Handeling 113 en 114 zijn aangevuld om een langere vernietigingstermijn toe te kennen aan gegevens met betrekking tot de ontwikkeling of het beheer van de IT-infrastructuur.   Daarop werd het BSD op 7 oktober 2005 door de Algemene Rijksarchivaris, namens de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, en het Ministerie van Verkeer en Waterstaat [C/S&A/05/2030] en de Rijksdienst voor het Wegverkeer [C/S&A/05/2031] vastgesteld.  
+– Handeling 113 en 114 zijn aangevuld om een langere vernietigingstermijn toe te kennen aan gegevens met betrekking tot de ontwikkeling of het beheer van de IT-infrastructuur.   Daarop werd het BSD op 7 oktober 2005 door de Algemene Rijksarchivaris, namens de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, en het Ministerie van Verkeer en Waterstaat [C/S&A/05/2030] en de Rijksdienst voor het Wegverkeer [C/S&A/05/2031] vastgesteld. 
 
 #### *1.6. Leeswijzer* 
 
-Dit BSD is uit dezelfde handelingenblokken opgebouwd als het RIO. Ieder blok is identiek opgebouwd: (X): Het unieke volgnummer van de handeling. Dit nummer is uniek voor de handeling en wordt in het BSD overgenomen. De handelingnummers tot en met 76 zijn afkomstig uit *De Heilige Koe geboekstaafd*; de nummers vanaf 77 zijn nieuwe nummers afkomstig uit *Het blik waardig keuren*. Handeling: Dit is een complex van activiteiten die een actor verricht ter vervulling van een taak of op grond van een bevoegdheid. In de praktijk komt een handeling meestal overeen met een procedure of een werkproces. De handelingen zijn positief geformuleerd, terwijl de negatieve formulering daarbij inbegrepen is. Zo valt onder handeling: ‘het verlenen van een erkenning’ ook het wijzigen, schorsen of het intrekken van die erkenning. De handelingen met de nummers tot en met 76 zijn overgenomen uit *De Heilige Koe geboekstaafd*; hogere handelingsnummers zijn afkomstig uit *Het blik waardig* keuren Periode: Hier staat het tijdvak vermeld waarin de handeling is verricht. Wanneer geen eindjaar staat vermeld wordt de handeling op het moment van het verschijnen van dit RIO nog steeds uitgevoerd. Het kan voorkomen dat de op basis van wet- en regelgeving geformuleerde handelingen (nog) niet worden uitgevoerd. Ter completering van de van de context zijn ook deze handelingen opgenomen. Grondslag/ Bron: De grondslag is de wettelijke basis op grond waarvan de actor de handeling verricht. Het artikel van de wet of regeling en de vindplaats daarvan wordt hierbij weergegeven. Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de bron (bij voorbeeld een jaarverslag of een interview) worden genoemd waarin de betreffende handeling staat vermeld. Waardering: Waardering van de handeling in B (bewaren) of V (vernietigen). Bij handelingen die met een B zijn gewaardeerd, is het gehanteerde selectiecriterium vermeld; handelingen die met een V zijn gewaardeerd, zijn voorzien van een vernietigingstermijn. Indien noodzakelijk is een nadere toelichting op de waardering gegeven. Opmerking: Deze aanvullende informatie wordt slechts verstrekt wanneer de strekking van een handeling toelichting behoeft. In de selectielijst zijn de handelingen ingedeeld per zorgdrager en vervolgens per actor. Bij de actor de minister van Verkeer en Waterstaat zijn eerst de niet meer actuele handelingen uit *De Heilige Koe geboekstaafd* weergegeven. Deze zijn niet in *Het blik waardig keuren* opgenomen. Daarna volgen de handelingen uit *Het blik waardig keuren*. De handelingen uit *Het blik waardig keuren* zijn op dezelfde wijze ingedeeld als in het RIO. De indeling is aangegeven door middel van tussenkoppen.  
+Dit BSD is uit dezelfde handelingenblokken opgebouwd als het RIO. Ieder blok is identiek opgebouwd: (X): Het unieke volgnummer van de handeling. Dit nummer is uniek voor de handeling en wordt in het BSD overgenomen. De handelingnummers tot en met 76 zijn afkomstig uit *De Heilige Koe geboekstaafd*; de nummers vanaf 77 zijn nieuwe nummers afkomstig uit *Het blik waardig keuren*. Handeling: Dit is een complex van activiteiten die een actor verricht ter vervulling van een taak of op grond van een bevoegdheid. In de praktijk komt een handeling meestal overeen met een procedure of een werkproces. De handelingen zijn positief geformuleerd, terwijl de negatieve formulering daarbij inbegrepen is. Zo valt onder handeling: ‘het verlenen van een erkenning’ ook het wijzigen, schorsen of het intrekken van die erkenning. De handelingen met de nummers tot en met 76 zijn overgenomen uit *De Heilige Koe geboekstaafd*; hogere handelingsnummers zijn afkomstig uit *Het blik waardig* keuren Periode: Hier staat het tijdvak vermeld waarin de handeling is verricht. Wanneer geen eindjaar staat vermeld wordt de handeling op het moment van het verschijnen van dit RIO nog steeds uitgevoerd. Het kan voorkomen dat de op basis van wet- en regelgeving geformuleerde handelingen (nog) niet worden uitgevoerd. Ter completering van de van de context zijn ook deze handelingen opgenomen. Grondslag/ Bron: De grondslag is de wettelijke basis op grond waarvan de actor de handeling verricht. Het artikel van de wet of regeling en de vindplaats daarvan wordt hierbij weergegeven. Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de bron (bij voorbeeld een jaarverslag of een interview) worden genoemd waarin de betreffende handeling staat vermeld. Waardering: Waardering van de handeling in B (bewaren) of V (vernietigen). Bij handelingen die met een B zijn gewaardeerd, is het gehanteerde selectiecriterium vermeld; handelingen die met een V zijn gewaardeerd, zijn voorzien van een vernietigingstermijn. Indien noodzakelijk is een nadere toelichting op de waardering gegeven. Opmerking: Deze aanvullende informatie wordt slechts verstrekt wanneer de strekking van een handeling toelichting behoeft. In de selectielijst zijn de handelingen ingedeeld per zorgdrager en vervolgens per actor. Bij de actor de minister van Verkeer en Waterstaat zijn eerst de niet meer actuele handelingen uit *De Heilige Koe geboekstaafd* weergegeven. Deze zijn niet in *Het blik waardig keuren* opgenomen. Daarna volgen de handelingen uit *Het blik waardig keuren*. De handelingen uit *Het blik waardig keuren* zijn op dezelfde wijze ingedeeld als in het RIO. De indeling is aangegeven door middel van tussenkoppen. 
 
 ####2. Selectielijst
 
@@ -168,7 +168,7 @@ Handeling: het ongeldig verklaren en (tijdelijk) innemen van vanwege de minister
 Handeling: het aankondigen in de Staatscourant en in het Algemeen Politieblad van ongeldigverklaringen van rijbewijzen Periode: 1951–1991 Grondslag: art. 18 lid 3 Wegenverkeerswet 1935 Waardering: V, 5 jaar Opmerking: Sinds 1992 worden de rijbewijzen door het Openbaar Ministerie ingetrokken; het Openbaar Ministerie verzorgt sinds die tijd ook zelf de bekendmaking 
 ###(69.)
 
-Handeling: het bijhouden en beheren van een register van houders van vanwege de minister afgegeven rijbewijzen Periode: 1951–1986 Grondslag: art. 120 Wegenverkeersreglement Waardering: V, 1 jaar microfilm: V, 11,5 jaar Opmerking: Vanaf 1986 vindt er een landelijke centrale registratie van alle afgegeven rijbewijzen plaats  
+Handeling: het bijhouden en beheren van een register van houders van vanwege de minister afgegeven rijbewijzen Periode: 1951–1986 Grondslag: art. 120 Wegenverkeersreglement Waardering: V, 1 jaar microfilm: V, 11,5 jaar Opmerking: Vanaf 1986 vindt er een landelijke centrale registratie van alle afgegeven rijbewijzen plaats 
 
 #### *2.1.1.2. Handelingen uit Het blik waardig keuren* 
 
@@ -229,7 +229,7 @@ Handeling: het participeren in de vergaderingen van werkgroepen in het kader van
 Handeling: het participeren in de vergaderingen van werkgroepen in het kader van de Raad van de Europese Unie, ter voorbereiding van richtlijnen op het gebied van technische eisen aan motorvoertuigen en aan testprocedures Periode: 1970–1996 Bron: interview Waardering: B (1) 
 ###(6.)
 
-Handeling: het participeren in de vergaderingen van comités voor de aanpassing van richtlijnen aan de technische vooruitgang Periode: 1970–1996 Grondslag: kader richtlijnen 70/156/EEG (motorvoertuigen en aanhangwagens); 92/61/EEG (motorvoertuigen op 2- of 3-wielen); 74/150/EEG (landbouwvoertuigen) en 77/143 EEG (APK-keuringen) Waardering: B (1) Opmerking: Deze vergaderingen vinden plaats in het kader van de Europese Unie 
+Handeling: het participeren in de vergaderingen van comités voor de aanpassing van richtlijnen aan de technische vooruitgang Periode: 1970–1996 Grondslag: kaderrichtlijnen 70/156/EEG (motorvoertuigen en aanhangwagens); 92/61/EEG (motorvoertuigen op 2- of 3-wielen); 74/150/EEG (landbouwvoertuigen) en 77/143EEG (APK-keuringen) Waardering: B (1) Opmerking: Deze vergaderingen vinden plaats in het kader van de Europese Unie 
 ###Vorming van wet- en regelgeving en beleid
 
 ###(7.)
@@ -376,13 +376,13 @@ Handeling: het geven van informatie aan derden uit de registers die de RDW behee
 
 ###(39.)
 
-Handeling: het, op verzoek van aanvragers, doen herkeuren van motorrijtuigen, aanhangwagens en opleggers Periode: 1980–1996 Grondslag: art. 9j Wegenverkeerswet 1935 Opmerking: Herkeuring vindt plaats in het kader van bezwaren of administratieve beroepen tegen beschikkingen tot (weigering van) de afgifte van een keuringsbewijs Waardering: V, 3 jaar  
+Handeling: het, op verzoek van aanvragers, doen herkeuren van motorrijtuigen, aanhangwagens en opleggers Periode: 1980–1996 Grondslag: art. 9j Wegenverkeerswet 1935 Opmerking: Herkeuring vindt plaats in het kader van bezwaren of administratieve beroepen tegen beschikkingen tot (weigering van) de afgifte van een keuringsbewijs Waardering: V, 3 jaar 
 
 #### *2.1.2. Actor: de Raad voor de Periodieke Veiligheidskeuringen Voertuigen* 
 
 ###(36.)
 
-Handeling: het gevraagd en ongevraagd adviseren van de minister van Verkeer en Waterstaat aangaande aangelegenheden betrekking hebbend op de periodieke keuring van voertuigen Periode: 1980–1992 Grondslag: art. 9f Wegenverkeerswet 1935 Waardering: B (1)  
+Handeling: het gevraagd en ongevraagd adviseren van de minister van Verkeer en Waterstaat aangaande aangelegenheden betrekking hebbend op de periodieke keuring van voertuigen Periode: 1980–1992 Grondslag: art. 9f Wegenverkeerswet 1935 Waardering: B (1) 
 
 #### *2.2. Zorgdrager: de RDW* 
 
@@ -477,7 +477,7 @@ Handeling: het participeren in de vergaderingen van werkgroepen in het kader van
 Handeling: het participeren in de vergaderingen van werkgroepen in het kader van de Raad van de Europese Unie, ter voorbereiding van richtlijnen op het gebied van technische eisen aan motorvoertuigen en aan testprocedures Periode: 1996– Bron: interview Waardering: B (1) 
 ###(6.)
 
-Handeling: het participeren in de vergaderingen van comités voor de aanpassing van richtlijnen aan de technische vooruitgang Periode: 1996– Grondslag: kader richtlijnen 70/156/EEG (motorvoertuigen en aanhangwagens); 92/61/EEG (motorvoertuigen op 2- of 3-wielen); 74/150/EEG (landbouwvoertuigen) en 77/143 EEG (APK-keuringen) Waardering: B (1) Opmerking: deze vergaderingen vinden plaats in het kader van de Europese Unie 
+Handeling: het participeren in de vergaderingen van comités voor de aanpassing van richtlijnen aan de technische vooruitgang Periode: 1996– Grondslag: kaderrichtlijnen 70/156/EEG (motorvoertuigen en aanhangwagens); 92/61/EEG (motorvoertuigen op 2- of 3-wielen); 74/150/EEG (landbouwvoertuigen) en 77/143EEG (APK-keuringen) Waardering: B (1) Opmerking: deze vergaderingen vinden plaats in het kader van de Europese Unie 
 ###(118.)
 
 Handeling: het voeren van het secretariaat voor EUCARIS Periode: 1996– Bron: jaarverslagen, websites RDW en EUCARIS Waardering: V, 10 jaar 
@@ -866,7 +866,7 @@ Handeling: het aan derden aanbieden van faciliteiten en middelen die de dienst i
 Handeling: het oprichten en in stand houden van privaatrechtelijke instellingen op het gebied van voertuigtechniek en -informatie Periode: 1996– Grondslag: artikel 4l lid 2k Wegenverkeerswet 1994 (Stb. 1994, 475) Waardering: B (4) 
 ###(212.)
 
-Handeling: het deelnemen aan het bestuur van privaatrechtelijke instellingen op het gebied van voertuigtechniek en -informatie Periode: 1996– Grondslag: artikel 4l lid 2k Wegenverkeerswet 1994 (Stb. 1994, 475) Waardering: V, 5 jaar  
+Handeling: het deelnemen aan het bestuur van privaatrechtelijke instellingen op het gebied van voertuigtechniek en -informatie Periode: 1996– Grondslag: artikel 4l lid 2k Wegenverkeerswet 1994 (Stb. 1994, 475) Waardering: V, 5 jaar 
 
 #### *2.2.2. Actor: de Raad van Toezicht van de RDW* 
 
@@ -887,7 +887,7 @@ Handeling: het adviseren van de directie van de RDW Periode: 1996– Grondslag: 
 Handeling: het vaststellen van bedragen tot waar de directie van de RDW investeringen mag doen en geldleningen mag aangaan of garanderen zonder daarvoor een goedkeuring van de Raad van Toezicht nodig te hebben Periode: 1996– Grondslag: artikel 4l lid 2c en 2f Wegenverkeerswet 1994 (Stb. 1994, 475) Waardering: V, 5 jaar na vervallen besluit 
 ###(131.)
 
-Handeling: het voeren van intern overleg Periode: 1996– Grondslag: jaarverslagen Waardering: B (1), (2)  
+Handeling: het voeren van intern overleg Periode: 1996– Grondslag: jaarverslagen Waardering: B (1), (2) 
 
 #### *2.2.3. Actor: de ondernemingsraad van de RDW* 
 
@@ -905,39 +905,39 @@ Handeling: het indienen van initiatiefvoorstellen bij de directie Periode: 1996�
 Handeling: het organiseren van verkiezingen voor de ondernemingsraad Periode: 1996– Bron: jaarverslag 1999 Waardering: V, 5 jaar uitslag B (4) 
 ###(131.)
 
-Handeling: het voeren van intern overleg Periode: 1996– Grondslag: B (1), (2) Waardering: agenda’s, verslagen  
+Handeling: het voeren van intern overleg Periode: 1996– Grondslag: B (1), (2) Waardering: agenda’s, verslagen 
 
 ####3. Concordans
 
 In deze concordans staan de nummers van de handelingen uit *De Heilige Koe geboekstaafd* (RIO nr. 18) die in dit RIO vernummerd zijn, omdat ze ingrijpend geherformuleerd, samengevoegd of gesplitst zijn. De handelingnummers uit *De Heilige Koe geboekstaafd* die niet in deze concordans zijn opgenomen zijn gehandhaafd in dit RIO en het bijbehorende BSD, met dien verstande dat de vervallen, niet meer actuele handelingen, uitsluitend in het BSD zijn opgenomen.  
 
-| Nummer ‘oude’ handeling in *De Heilige Koe geboekstaafd*  | Nummer ‘nieuwe’ handeling in *Het blik waardig keuren*  |
+|  Nummer ‘oude’ handeling in *De Heilige Koe geboekstaafd*   |  Nummer ‘nieuwe’ handeling in *Het blik waardig keuren*   |
 |:---|:---|
-| 11  | 136, 137  |
-| 12  | 139  |
-| 16  | 185  |
-| 18  | 102  |
-| 19  | 149  |
-| 20  | 171  |
-| 26  | 100  |
-| 27  | 102  |
-| 28  | 100  |
-| 31  | 102  |
-| 32  | 100  |
-| 37  | 147  |
-| 40  | 39  |
-| 41  | 168  |
-| 45  | 102  |
-| 46  | 102  |
-| 48  | 98  |
-| 52  | 102  |
-| 54  | 100  |
-| 58  | 75  |
-| 62  | 62, 100  |
-| 63  | 102  |
-| 64  | 142  |
-| 65  | 142  |
-| 66  | 142  |
-| 67  | 142  |
-| 76  | 197  |
+|  11  |  136, 137  |
+|  12  |  139  |
+|  16  |  185  |
+|  18  |  102  |
+|  19  |  149  |
+|  20  |  171  |
+|  26  |  100  |
+|  27  |  102   |
+|  28  |  100  |
+|  31  |  102  |
+|  32  |  100  |
+|  37  |  147  |
+|  40  |  39  |
+|  41  |  168  |
+|  45  |  102  |
+|  46  |  102  |
+|  48  |  98  |
+|  52  |  102  |
+|  54  |  100  |
+|  58  |  75  |
+|  62  |  62, 100  |
+|  63  |  102  |
+|  64  |  142  |
+|  65  |  142  |
+|  66  |  142  |
+|  67  |  142  |
+|  76  |  197  |
 

@@ -22,7 +22,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 a. de wet: de [Wet op de bedrijfsorganisatie](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);  
 
-b. het productschap: het Productschap Zuivel;    
+b. het productschap: het Productschap Zuivel;   
 
 ### Artikel  2  
 
@@ -44,7 +44,7 @@ a. melk wordt gewonnen;
 b. melk of daaruit verkregen producten worden be- of verwerkt tot melk- of zuivelproducten welke, al dan niet na verdere bewerking, tot menselijk voedsel kunnen dienen, dan wel uit melk verkregen producten worden verwerkt tot caseïne;  
 
 c. de handel wordt uitgeoefend in melk, melk- of zuivelproducten welke, al dan niet na verdere be- of verwerking, tot menselijk voedsel kunnen dienen.     
-3.  Het productschap is gevestigd te Zoetermeer.   
+3.  Het productschap is gevestigd te Zoetermeer.  
 
 ### Artikel  4  
 
@@ -56,7 +56,7 @@ b. voor ondernemingen op het gebied van de melk-, melkproducten- en zuivelproduc
 
 c. voor ondernemingen op het gebied van de groothandel in melk, melk- en zuivelproducten: twee leden door organisaties van ondernemers en twee leden door organisaties van werknemers; en  
 
-d. voor ondernemingen op het gebied van de detailhandel in melk, melk- en zuivelproducten: een lid door organisaties van ondernemers en een lid door organisaties van werknemers.    
+d. voor ondernemingen op het gebied van de detailhandel in melk, melk- en zuivelproducten: een lid door organisaties van ondernemers en een lid door organisaties van werknemers.   
 
 ### §  3  
 
@@ -68,11 +68,11 @@ Het productschap is bevoegd tot regeling of nadere regeling van de in [artikel 9
 
 d. lonen en andere arbeidsvoorwaarden;  
 
-f. arbeidsmarktvoorzieningen.    
+f. arbeidsmarktvoorzieningen.   
 
 ### Artikel  6  
 
-Bij een op grond van [artikel 93, tweede lid, van de wet](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) vastgestelde verordening kan worden bepaald, dat deze mede andere dan de in [artikel 102, eerste lid, van de wet](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) bedoelde natuurlijke en rechtspersonen bindt, voorzover deze handelingen verrichten die bedrijfsmatig in de ondernemingen waarvoor het productschap is ingesteld, plegen te worden verricht.  
+Bij een op grond van [artikel 93, tweede lid, van de wet](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) vastgestelde verordening kan worden bepaald, dat deze mede andere dan de in [artikel 102, eerste lid, van de wet](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) bedoelde natuurlijke en rechtspersonen bindt, voorzover deze handelingen verrichten die bedrijfsmatig in de ondernemingen waarvoor het productschap is ingesteld, plegen te worden verricht. 
 
 ### Artikel  7  
 
@@ -87,19 +87,19 @@ Het productschap legt een heffing als bedoeld in [artikel 126, eerste lid van de
 1.  Het bij verordening van de Sociaal-Economische Raad van 15 december 1995 ingestelde Produktschap voor Zuivel wordt opgeheven.   
 2.  Verordeningen en andere besluiten die zijn vastgesteld door het bij verordening van de Sociaal-Economische Raad van 15 december 1995 ingestelde Produktschap voor Zuivel blijven van kracht tot de datum waarop de door het productschap vastgestelde verordeningen en andere besluiten terzake in werking zullen treden.   
 3.  Het personeel, de rechten, de verplichtingen, de vermogensbestanddelen en de archiefbescheiden van het bij verordening van de Sociaal-Economische Raad van 15 december 1995 ingestelde Produktschap voor Zuivel, gaan over naar het productschap.   
-4.  Wettelijke procedures en rechtsgedingen, ingesteld door of tegen het bij verordening van de Sociaal-Economische Raad van 15 december 1995 ingestelde Produktschap voor Zuivel worden geacht te zijn ingesteld door of tegen het productschap.   
+4.  Wettelijke procedures en rechtsgedingen, ingesteld door of tegen het bij verordening van de Sociaal-Economische Raad van 15 december 1995 ingestelde Produktschap voor Zuivel worden geacht te zijn ingesteld door of tegen het productschap.  
 
 ### Artikel  9  
 
-De bestuursleden en hun plaatsvervangers van wie de zittingsperiode ingaat op de datum van inwerkingtreding van dit besluit, treden af op 1 januari 2004.  
+De bestuursleden en hun plaatsvervangers van wie de zittingsperiode ingaat op de datum van inwerkingtreding van dit besluit, treden af op 1 januari 2004. 
 
 ### Artikel  10  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  11  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Productschap Zuivel.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Productschap Zuivel. 
 
 Lasten en bevelen dat dit besluit in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -119,4 +119,4 @@ L. J. Brinkhorst
 de vierentwintigste juni 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

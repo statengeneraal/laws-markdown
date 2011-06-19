@@ -16,22 +16,22 @@ Vast te stellen de selectielijst voor de neerslag van de handelingen van de Ziek
 
 ### Artikel  2  
 
-Dit Besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het is gepubliceerd.  
+Dit Besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het is gepubliceerd. 
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, 
+Staatssecretaris vanOnderwijs, Cultuur en Wetenschappen, 
 
 namens deze, 
 
 De 
 Algemene Rijksarchivaris, 
-F.C.J.Ketelaar. 
+F.C.J. Ketelaar . 
 
 De 
 voorzitter van de Ziekenfondsraad, 
 
 namens deze, 
 
-De 
-algemeen-secretaris,
-J.L.P.G. vanThiel    
+De
+algemeen-secretaris, 
+J.L.P.G. vanThiel     

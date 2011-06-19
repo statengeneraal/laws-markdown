@@ -2,11 +2,11 @@
 
 ##Vaststelling selectielijsten archiefbescheiden deelbeleidsterrein speciaal onderwijs
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen  
-Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen   
+Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md); 
 
 De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 17 februari 1998, nr. arc-98.1648/2);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -29,4 +29,4 @@ namens deze,
 
 De 
 Algemene Rijksarchivaris, 
-M.W. vanBoven    
+M.W. van Boven      

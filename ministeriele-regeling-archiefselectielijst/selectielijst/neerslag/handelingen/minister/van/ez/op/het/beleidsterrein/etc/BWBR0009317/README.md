@@ -6,11 +6,11 @@ De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen en de Minister van E
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
 
 De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 10 september 1997, nr. arc-97.1473/2);
-Besluiten:    
+Besluiten:     
 
 ### Artikel  1  
 
-Vast te stellen de selectielijst voor de neerslag van de handelingen van de Minister van Economische Zaken, als vakminister en als vakminister in Londen, binnen het beleidsterrein Beheer van de Rijksbegroting (periode 1940-1993), overeenkomstig de bij dit Besluit gevoegde bijlage.  
+Vast te stellen de selectielijst voor de neerslag van de handelingen van de Minister van Economische Zaken, als vakminister en als vakminister in Londen, binnen het beleidsterrein Beheer van de Rijksbegroting (periode 1940-1993), overeenkomstig de bij dit Besluit gevoegde bijlage. 
 
 ### Artikel  2  
 
@@ -18,26 +18,26 @@ In te trekken hoofdstuk VIII, categorie Financiën van de ’Lijst van voor vern
 
 ### Artikel  3  
 
-Dit Besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het is gepubliceerd.  
+Dit Besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het is gepubliceerd. 
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschappen 
+StaatssecretarisvanOnderwijs, Cultuur en Wetenschappen 
 
 namens deze, 
 
-de 
-Algemene Rijksarchivaris
-M.W. vanBoven   
+de
+Algemene Rijksarchivaris 
+M.W. van Boven    
 
 De 
-Minister van Economische Zaken, 
+MinistervanEconomische Zaken, 
 
 namens deze, 
 
-de 
-Directeur Interne Zaken
-G.L.Snijder   
+de
+Directeur Interne Zaken 
+G.L.Snijder    
 
-### Bijlage  
+###Bijlage 
 
-Ligt ter inzage bij het Ministerie van Onderwijs, Cultuur en Wetenschappen.  
+Ligt ter inzage bij het Ministerie van Onderwijs, Cultuur en Wetenschappen.

@@ -10,24 +10,24 @@ Besluit:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ Selectielijst voor de neerslag van de handelingen van de Stichting Nederlands Fonds voor de Film en de onder hem ressorterende actoren op het beleidsterrein Kunsten over de periode vanaf 1956 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘Selectielijst voor de neerslag van de handelingen van de Stichting Nederlands Fonds voor de Film en de onder hem ressorterende actoren op het beleidsterrein Kunsten over de periode vanaf 1956’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 28 mei 2004    
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
 
-namens deze: 
+namens deze:
 
 de 
 Algemene Rijksarchivaris, 
-M.W. vanBoven   
+M.W. van Boven     
 
 ####Basisselectiedocument van het bestuur van de stichting nederlands fonds voor de film op het beleidsterrein kunsten over de periode vanaf 1956
 
@@ -41,11 +41,11 @@ Inzake het handelen van:
 
 ####1. Inhoudsopgave
 
-(Deze is hier, als niet-functioneel zijnde, weggelaten.)  
+(Deze is hier, als niet-functioneel zijnde, weggelaten.) 
 
 ####2. Lijst van afkortingen
 
-*Toelichting: de in het woordenboek voorkomende officiële afkortingen zijn niet opgenomen.*  AB: [ArchiefBesluit](../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) AW: [ArchiefWet](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) BSD: BasisSelectieDocument Cobo: Coproductiefonds Binnenlandse Omroep EZ: Economische Zaken Fine: B.V. Filminvesteerders Nederland B.V. FNF: Fonds voor de Nederlandse Film HFP: Holland Film Promotion NA: Nationaal Archief NFC: Nederlandse Federatie voor de Cinematografie NFF: Nederlands Fonds voor de Film NOS: Nederlandse OmroepStichting OC&W: Onderwijs, Cultuur en Wetenschappen OK&W: Onderwijs, Kunsten & Wetenschappen PIVOT: Project Invoering Verkorting OverbrengingsTermijn PNF: Productiefonds voor Nederlandse Films RIO: Rapport Institutioneel Onderzoek Stb.: Staatsblad Stifo: Stimuleringsfonds Nederlandse Culturele Omroepproducties WVC: Welzijn, Volksgezondheid en Cultuur z.d.: zonder datum z.h.: zonder handtekening  
+*Toelichting: de in het woordenboek voorkomende officiële afkortingen zijn niet opgenomen.*  AB: [ArchiefBesluit](../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) AW: [ArchiefWet](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) BSD: BasisSelectieDocument Cobo: Coproductiefonds Binnenlandse Omroep EZ: Economische Zaken Fine: B.V. Filminvesteerders Nederland B.V. FNF: Fonds voor de Nederlandse Film HFP: Holland Film Promotion NA: Nationaal Archief NFC: Nederlandse Federatie voor de Cinematografie NFF: Nederlands Fonds voor de Film NOS: Nederlandse OmroepStichting OC&W: Onderwijs, Cultuur en Wetenschappen OK&W: Onderwijs, Kunsten & Wetenschappen PIVOT: Project Invoering Verkorting OverbrengingsTermijn PNF: Productiefonds voor Nederlandse Films RIO: Rapport Institutioneel Onderzoek Stb.: Staatsblad Stifo: Stimuleringsfonds Nederlandse Culturele Omroepproducties WVC: Welzijn, Volksgezondheid en Cultuur z.d.: zonder datum z.h.: zonder handtekening 
 
 ####3. Inleiding
 
@@ -63,7 +63,7 @@ De situatie van de Nederlandse speelfilm was in de jaren na de oorlog niet echt 
 
 – voor beslissingen die in feite van artistieke aard zijn;  
 
-– de professionaliteit wordt bevorderd.    
+– de professionaliteit wordt bevorderd.   
 
 #### *3.2. Rechtsvoorgangers + NFF* 
 
@@ -85,7 +85,7 @@ c. Filmprojecten.
 
 d. Scenario’s – niet gerealiseerd.  
 
-e. Financiële documenten.   Dit beslaat ongeveer de periode 1956–1982.  
+e. Financiële documenten.   Dit beslaat ongeveer de periode 1956–1982. 
 
 #### *3.2.2. Stichting Fonds voor de Nederlandse Film (FNF)* 
 
@@ -125,7 +125,7 @@ a. jaarrekeningen en jaarverslagen;
 
 b. statuten en huishoudelijk reglement;  
 
-c. diverse regelingen.    
+c. diverse regelingen.   
 
 #### *3.2.3. Stichting Nederlands Fonds voor de Film (NFF)* 
 
@@ -193,19 +193,19 @@ De minister heeft d.m.v. de Cultuurnota-procedure zeggenschap over het beleid en
 Het NFF vormt met HFP een personele unie. Volgens art. 2 lid c van de statuten fungeert het NFF-bestuur ook als bestuur van HFP. Verder verlenen NFF-secretariaat en -directie bijstand aan HFP. Zoals de naam al aangeeft verzorgt HFP promotionele activiteiten in binnen- en buitenland. Aangezien deze activiteiten partijen niet in rechte binden en er ook geen bezwaar en beroep mogelijk is tegen de bestuursbesluiten vallen de handelingen van HFP niet onder de [Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md). 
 ### *Andere samenwerkings- en financieringsinstrumenten* 
 
-###1. Cobo
+### 1. Cobo 
 
 Dit is een samenwerkingsverband met de NOS en het Stimuleringsfonds t.b.v. de productie van TV-films en bioscoopfilms. 
-###2. Stifo
+### 2. Stifo 
 
 Dit is het Stimuleringsfonds voor Nederlandse Culturele Omroepproducties. 
-###3. Eurimages
+### 3. Eurimages 
 
 Dit is een organisatie t.b.v. de ondersteuning en stimulering van Europese coproducties. Het NFF neemt hierin (vermoedelijk) deel. 
-###4. Fine B.V. = Filminvesteerders Nederland B.V.
+### 4. Fine B.V. = Filminvesteerders Nederland B.V. 
 
 Financiers kunnen, via Fine B.V., tegen aantrekkelijke voorwaarden investeren in filmproducties. 
-###5. Samenwerkingsovereenkomst NFF – Filmstichting Nordrhein-Westfalen.
+### 5. Samenwerkingsovereenkomst NFF – Filmstichting Nordrhein-Westfalen. 
 
 Doel is om coproducties te bevorderen en daarvoor bijdragen beschikbaar te stellen. Het NFF neemt hier direct of indirect in deel of heeft hierin een doorverwijsfunctie. 
 ### *Archief* 
@@ -228,17 +228,17 @@ Het archief dient, na ontbinding van het Fonds, gedurende tien jaar in bewaring 
 
 – RIO nr. 71 ‘Volgens de regelen der kunst’ 1999, een institutioneel onderzoek naar het handelen van overheidsorganen op het beleidsterrein Kunsten, 1965–1999’;  
 
-– BSD beleidsterrein ‘Kunsten’ 2002 (ministerie van OC&W).    
+– BSD beleidsterrein ‘Kunsten’ 2002 (ministerie van OC&W).   
 
 ####4. Verantwoording
 
 #### *4.1. Relatie met het beleidsterrein Kunsten* 
 
-In het kader van PIVOT zijn in het RIO nr. 71 d.d. 1999 ‘Volgens de regelen der kunst, een institutioneel onderzoek naar het handelen van overheidsorganen op het beleidsterrein ‘Kunsten’, 1965–1999’ alle handelingen beschreven van het beleidsterrein ‘Kunsten’ met als voornaamste actor de minister van Cultuur. Ook de geschiedenis van het filmbeleid en de handelingen m.b.t. de filmkunst zijn hierin beschreven. Verder is hierin de context beschreven waarbinnen de handelingen werden vastgesteld en uitgevoerd. Aansluitend zijn in het BSD ‘Kunsten’ de handelingen gewaardeerd aan de hand van de PIVOT-selectiecriteria en is een verantwoording gegeven van de selectiedoelstelling.  
+In het kader van PIVOT zijn in het RIO nr. 71 d.d. 1999 ‘Volgens de regelen der kunst, een institutioneel onderzoek naar het handelen van overheidsorganen op het beleidsterrein ‘Kunsten’, 1965–1999’ alle handelingen beschreven van het beleidsterrein ‘Kunsten’ met als voornaamste actor de minister van Cultuur. Ook de geschiedenis van het filmbeleid en de handelingen m.b.t. de filmkunst zijn hierin beschreven. Verder is hierin de context beschreven waarbinnen de handelingen werden vastgesteld en uitgevoerd. Aansluitend zijn in het BSD ‘Kunsten’ de handelingen gewaardeerd aan de hand van de PIVOT-selectiecriteria en is een verantwoording gegeven van de selectiedoelstelling. 
 
 #### *4.2. Onderzoek, beschrijving en waardering* 
 
-Aanvullend op het RIO nr. 71 is nieuw institutioneel onderzoek verricht dat samen met het oorspronkelijke onderzoek in dit BSD is opgenomen. Aansluitend op het laatste volgnummer in RIO nr. 71, nummer 208, zijn de hieruit voortvloeiende nieuwe handelingen genummerd van 209 t/m 259 en opgenomen in dit BSD. In dit BSD wordt de neerslag van de handelingen gewaardeerd, op basis waarvan de daadwerkelijke selectie van archiefbescheiden kan worden uitgevoerd. Onder deze archiefbescheiden worden zowel de papieren als de digitale bescheiden verstaan. Gedigitaliseerde bestanden vallen namelijk ook onder de AW 1995. Tevens kan dit BSD desgewenst betrokken worden bij de inrichting of herinrichting van de documentaire informatievoorziening. Voordeel hiervan is dat vernietiging en overbrenging van informatie dan direct gekoppeld is aan de informatiehuishouding. Het aanvullend institutioneel onderzoek heeft vele nieuwe handelingen opgeleverd die in dit BSD beschreven zijn. Sommige nieuwe handelingen vormen een aanvulling op die welke reeds in het RIO nr. 71 zijn beschreven. Dit omdat deze een te algemeen karakter hebben. Voor zover het mogelijk was om de handelingen van het PNF en het FNF te reconstrueren zijn deze beschreven. Door het ontbreken van bepaalde bronnen fungeert de beschrijving van de handelingen van het NFF als referentiekader voor het PNF en het FNF.  
+Aanvullend op het RIO nr. 71 is nieuw institutioneel onderzoek verricht dat samen met het oorspronkelijke onderzoek in dit BSD is opgenomen. Aansluitend op het laatste volgnummer in RIO nr. 71, nummer 208, zijn de hieruit voortvloeiende nieuwe handelingen genummerd van 209 t/m 259 en opgenomen in dit BSD. In dit BSD wordt de neerslag van de handelingen gewaardeerd, op basis waarvan de daadwerkelijke selectie van archiefbescheiden kan worden uitgevoerd. Onder deze archiefbescheiden worden zowel de papieren als de digitale bescheiden verstaan. Gedigitaliseerde bestanden vallen namelijk ook onder de AW 1995. Tevens kan dit BSD desgewenst betrokken worden bij de inrichting of herinrichting van de documentaire informatievoorziening. Voordeel hiervan is dat vernietiging en overbrenging van informatie dan direct gekoppeld is aan de informatiehuishouding. Het aanvullend institutioneel onderzoek heeft vele nieuwe handelingen opgeleverd die in dit BSD beschreven zijn. Sommige nieuwe handelingen vormen een aanvulling op die welke reeds in het RIO nr. 71 zijn beschreven. Dit omdat deze een te algemeen karakter hebben. Voor zover het mogelijk was om de handelingen van het PNF en het FNF te reconstrueren zijn deze beschreven. Door het ontbreken van bepaalde bronnen fungeert de beschrijving van de handelingen van het NFF als referentiekader voor het PNF en het FNF. 
 
 #### *4.3. Doel, functies en werking BSD* 
 
@@ -252,7 +252,7 @@ Een BSD is de vorm waarin één of meer selectielijsten, als bedoeld in art. 5 v
 
 * Voor de minister, belast met het cultuurbeleid (vertegenwoordigd door de Rijksarchivaris) is het BSD de verantwoording inzake het bewaar- en vernietigingsbeleid vanuit cultureel-historisch belang o.g.v. het AB 1995, art. 2, 1e lid, onder c.  
 
-* Voor het NA is het BSD, tezamen met het aanvullend institutioneel onderzoek, het uitgangspunt voor de Institutionele Toegangen.    
+* Voor het NA is het BSD, tezamen met het aanvullend institutioneel onderzoek, het uitgangspunt voor de Institutionele Toegangen.   
 
 #### *4.4. Definitie en afbakening beleidsterrein* 
 
@@ -262,15 +262,15 @@ De taak van de zorgdrager op het terrein van de filmkunst en het filmbeleid is h
 
 – het bevorderen van een voor de filmkunst ontvankelijk klimaat in Nederland;  
 
-– het besturen van de Stichting Holland Film Promotion.    
+– het besturen van de Stichting Holland Film Promotion.   
 
 #### *4.5. Taakgebied beleidsterrein* 
 
-De filmkunst is een onderdeel van het bredere beleidsterrein ‘Kunsten’. Voor de uitvoerige beschrijving van de relatie tussen deze twee terreinen wordt verwezen naar het RIO nr. 71. Verder wordt verwezen naar rubriek 3 van dit BSD.  
+De filmkunst is een onderdeel van het bredere beleidsterrein ‘Kunsten’. Voor de uitvoerige beschrijving van de relatie tussen deze twee terreinen wordt verwezen naar het RIO nr. 71. Verder wordt verwezen naar rubriek 3 van dit BSD. 
 
 ####5. Selectiedoelstelling
 
-De doelstelling bij de selectie van overheids- en semi-overheidsarchieven is dat de belangrijkste bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het beschreven te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de actoren op het terrein van de filmkunst. Middels dit BSD is dit mogelijk gemaakt.  
+De doelstelling bij de selectie van overheids- en semi-overheidsarchieven is dat de belangrijkste bronnen van de Nederlandse samenleving en cultuur veilig worden gesteld voor blijvende bewaring. Met het beschreven te bewaren materiaal moet het mogelijk zijn om een reconstructie te maken van de hoofdlijnen van het handelen van de actoren op het terrein van de filmkunst. Middels dit BSD is dit mogelijk gemaakt. 
 
 ####6. Selectiecriteria
 
@@ -279,15 +279,15 @@ Om de selectiedoelstelling te bereiken zijn de handelingen in dit BSD gewaardeer
 
 ### *Algemene selectiecriteria* 
 
-1. Handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen. *Toelichting*: Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen. *Toelichting*: Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben verantwoording van beleid op hoofdlijnen aan andere actoren. *Toelichting*: Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen. *Toelichting*: Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt. *Toelichting*: Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten. *Toelichting*: Bijvoorbeeld in het geval de ministeriele verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. 7. Handelingen die betrekking hebben op het Nederlandse filmbeleid en nader inzicht geven in de ontwikkeling van de Nederlandse film. *Toelichting*: Betreft beslissingen op aanvragen om een financiële bijdrage t.⁠b.⁠v. filmprojecten. Ingevolge art. 5 onder e, van het AB 1995 kan de neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd.  
+1. Handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen.  *Toelichting*: Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten. 2. Handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen.  *Toelichting*: Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid. 3. Handelingen die betrekking hebben verantwoording van beleid op hoofdlijnen aan andere actoren.  *Toelichting*: Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie. 4. Handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen.  *Toelichting*: Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan. 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt.  *Toelichting*: Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken. 6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten.  *Toelichting*: Bijvoorbeeld in het geval de ministeriele verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving. 7. Handelingen die betrekking hebben op het Nederlandse filmbeleid en nader inzicht geven in de ontwikkeling van de Nederlandse film.  *Toelichting*: Betreft beslissingen op aanvragen om een financiële bijdrage t.⁠b.⁠v. filmprojecten. Ingevolge art. 5 onder e, van het AB 1995 kan de neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd. 
 
 ####7. Vaststelling van het BSD
 
-Op 19 oktober 2001 is het ontwerp-BSD door het bestuur van de Stichting Nederlands Fonds voor de Film aan de Staatssecretaris van OC&W aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 oktober 2003 lag de selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Nationaal Archief evenals in de bibliotheken van Nederlands Fonds voor de Film, het Ministerie van OCW en de rijksarchieven in de provincie / regionaal historische centra, hetgeen was aangekondigd in de Staatscourant. Op 8 maart 2004 bracht de RvC advies uit (arc-2003.6675/2, aanleiding heeft gegeven tot de volgende wijzigingen in de ontwerp-selectielijst: – de vernietigingstermijn van handeling 225, 226, 243 en 244 is gewijzigd in V, 10 jaar. Daarop werd het BSD op 28 mei 2004 door de Algemene Rijksarchivaris, namens de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, vastgesteld (C/S/04/1094).  
+Op 19 oktober 2001 is het ontwerp-BSD door het bestuur van de Stichting Nederlands Fonds voor de Film aan de Staatssecretaris van OC&W aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het BSD naar de RvC is verstuurd. Vanaf 1 oktober 2003 lag de selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Nationaal Archief evenals in de bibliotheken van Nederlands Fonds voor de Film, het Ministerie van OCW en de rijksarchieven in de provincie / regionaal historische centra, hetgeen was aangekondigd in de Staatscourant. Op 8 maart 2004 bracht de RvC advies uit (arc-2003.6675/2, aanleiding heeft gegeven tot de volgende wijzigingen in de ontwerp-selectielijst: – de vernietigingstermijn van handeling 225, 226, 243 en 244 is gewijzigd in V, 10 jaar. Daarop werd het BSD op 28 mei 2004 door de Algemene Rijksarchivaris, namens de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, vastgesteld (C/S/04/1094). 
 
 ####8. Leeswijzer handelingen
 
-Hieronder is een leeswijzer opgenomen worden welke duidelijk maakt, welke informatie in een handelingenblok te vinden is. In dit BSD is dat met het onderstaande voorbeeld duidelijk gemaakt. (X): Dit is het volgnummer van de handeling. Dit nummer is overgenomen uit het RIO. Als het volgnummer van één of meerdere handelingen in het BSD afwijkt van het oorspronkelijke RIO-nummer, dan wordt deze vermeld in een concordans. Handeling: Dit is een complex van activiteiten die een actor verricht ter vervulling van een taak of op grond van een bevoegdheid. In de praktijk komt een handeling meestal overeen met een procedure of een werkproces. *Bijvoorbeeld:* Het uitvoeren van voorlichtingsactiviteiten op het beleidsterrein selectie van archiefbescheiden Periode: Hier staat het tijdvak vermeld gedurende welke jaren de handeling is verricht. Wanneer er geen eindjaar staat vermeld wordt de handeling nog steeds uitgevoerd. Grondslag: Dit is de wettelijke basis op grond waarvan de actor de handeling verricht.  *Vermeld worden:*  
+Hieronder is een leeswijzer opgenomen worden welke duidelijk maakt, welke informatie in een handelingenblok te vinden is. In dit BSD is dat met het onderstaande voorbeeld duidelijk gemaakt.  (X): Dit is het volgnummer van de handeling. Dit nummer is overgenomen uit het RIO. Als het volgnummer van één of meerdere handelingen in het BSD afwijkt van het oorspronkelijke RIO-nummer, dan wordt deze vermeld in een concordans. Handeling: Dit is een complex van activiteiten die een actor verricht ter vervulling van een taak of op grond van een bevoegdheid. In de praktijk komt een handeling meestal overeen met een procedure of een werkproces.  *Bijvoorbeeld:* Het uitvoeren van voorlichtingsactiviteiten op het beleidsterrein selectie van archiefbescheiden Periode: Hier staat het tijdvak vermeld gedurende welke jaren de handeling is verricht. Wanneer er geen eindjaar staat vermeld wordt de handeling nog steeds uitgevoerd. Grondslag: Dit is de wettelijke basis op grond waarvan de actor de handeling verricht.  *Vermeld worden:*  
 
 * de naam (citeertitel) van de wet, de Algemene Maatregel van Bestuur, het Koninklijk Besluit of de ministeriële regeling;  
 
@@ -295,7 +295,7 @@ Hieronder is een leeswijzer opgenomen worden welke duidelijk maakt, welke inform
 
 * de vindplaats of bron  
 
-* wijzigingen in de grondslag en het vervallen hiervan.    *Bijvoorbeeld:*  Reclasseringsregeling 1947, art. 9, lid 2 (Stb. 1947, H 423), Reclasseringsregeling 1970, art. 8, lid, lid 3 (Stb. 1969, 598), gewijzigd 1978 (Stb. 1978, 254), vervallen in 1986 (Stb. 1986, 1). N.B.: Met vindplaats wordt de vermelding in het staatsblad of staatscourant bedoelt. Het verdient de voorkeur de vindplaats van de grondslag op te nemen in het handelingenblok. Een andere mogelijkheid is de vindplaats in het overzicht van wet- en regelgeving te vermelden. Duidelijk moet zijn op welke versie van een wet- of regeling een handeling gebaseerd is. Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de bron worden genoemd waarin de betreffende handeling staat vermeld. Product: Hier achter staat het product vermeld waarin de handeling resulteert of zou moeten resulteren. Opsommingen geven een indicatie van de producten en zijn niet altijd uitputtend. Vaak wordt volstaan met een algemeen omschreven eindproduct. Opmerking: Deze aanvullende informatie wordt slechts vermeld wanneer (een onderdeel van) het handelingenblok toelichting behoeft. Waardering: Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering.  
+* wijzigingen in de grondslag en het vervallen hiervan.    *Bijvoorbeeld:*  Reclasseringsregeling 1947, art. 9, lid 2 (Stb. 1947, H 423), Reclasseringsregeling 1970, art. 8, lid, lid 3 (Stb. 1969, 598), gewijzigd 1978 (Stb. 1978, 254), vervallen in 1986 (Stb. 1986, 1). N.B.: Met vindplaats wordt de vermelding in het staatsblad of staatscourant bedoelt. Het verdient de voorkeur de vindplaats van de grondslag op te nemen in het handelingenblok. Een andere mogelijkheid is de vindplaats in het overzicht van wet- en regelgeving te vermelden. Duidelijk moet zijn op welke versie van een wet- of regeling een handeling gebaseerd is. Wanneer er geen wettelijke grondslag voor een handeling bestaat, kan de bron worden genoemd waarin de betreffende handeling staat vermeld. Product: Hier achter staat het product vermeld waarin de handeling resulteert of zou moeten resulteren. Opsommingen geven een indicatie van de producten en zijn niet altijd uitputtend. Vaak wordt volstaan met een algemeen omschreven eindproduct. Opmerking: Deze aanvullende informatie wordt slechts vermeld wanneer (een onderdeel van) het handelingenblok toelichting behoeft. Waardering: Waardering van de handeling in B (bewaren) of V (vernietigen). Indien vernietigen, dan vermelding van de vernietigingstermijn. Indien bewaren, dan vermelding van het gehanteerde selectiecriterium. Eventueel een nadere toelichting op de waardering. 
 
 ####9. Actorenoverzicht
 
@@ -309,13 +309,13 @@ Ingesteld: 8 november 1956 Opgeheven: 29 oktober 1993*  *1.1. Adviescommissie Ne
 Ingesteld: 24 november 1983 Opgeheven: 29 oktober 1993*  *2.1. Adviescommissie*  Ingesteld: geen datum bekend Opgeheven: 29 oktober 1993  *2.2. Fondsraad*  Ingesteld: geen datum bekend Opgeheven: 29 oktober 1993 
 ###3. NFF-bestuur
 
-Ingesteld: 27 mei 1993  *3.1. Adviescollege*  Ingesteld: 1994**  *3.2. Intendant*  Ingesteld: 27 augustus 1999 * fusiedatum ** precieze datum niet bekend  
+Ingesteld: 27 mei 1993  *3.1. Adviescollege*  Ingesteld: 1994**  *3.2. Intendant*  Ingesteld: 27 augustus 1999 * fusiedatum ** precieze datum niet bekend 
 
 ####10. Selectielijsten
 
 #### *10.1. Toelichting* 
 
-Dit BSD bevat uitsluitend selectielijsten die ter vaststelling worden ingediend. Selectielijsten van actoren die wel in het RIO nr. 71 genoemd worden, maar waarvoor geen vaststelling wordt aangevraagd, zijn niet opgenomen in dit BSD.  
+Dit BSD bevat uitsluitend selectielijsten die ter vaststelling worden ingediend. Selectielijsten van actoren die wel in het RIO nr. 71 genoemd worden, maar waarvoor geen vaststelling wordt aangevraagd, zijn niet opgenomen in dit BSD. 
 
 #### *10.2. Selectielijsten actoren* 
 
@@ -375,7 +375,7 @@ Handeling: het beslissen op aanvragen om een financiële bijdrage Periode: 1956�
 
 ### *218.* 
 
-Handeling: het adviseren van het bestuur over de aanvragen om een financiële bijdrage Periode: 1990–1991 Grondslag: Huishoudelijk Reglement Product: advies Waardering: B 5  
+Handeling: het adviseren van het bestuur over de aanvragen om een financiële bijdrage Periode: 1990–1991 Grondslag: Huishoudelijk Reglement Product: advies Waardering: B 5 
 
 #### *10.2.2. Stichting fonds voor de Nederlandse film (FNF)* 
 
@@ -443,7 +443,7 @@ Handeling: het adviseren van het bestuur m.b.t. de toekenning van bijdragen uit 
 
 ### *228.* 
 
-Handeling: het adviseren van het bestuur over het te voeren beleid Periode: 1983–1993 Grondslag: Fondsenwet Scheppende Kunsten (Stb. 1981, nr. 355); Statuten, art. 9 lid 1 Product: advies Waardering: B 1  
+Handeling: het adviseren van het bestuur over het te voeren beleid Periode: 1983–1993 Grondslag: Fondsenwet Scheppende Kunsten (Stb. 1981, nr. 355); Statuten, art. 9 lid 1 Product: advies Waardering: B 1 
 
 #### *10.2.3. Stichting Nederlands Fonds voor de Film* 
 
@@ -586,5 +586,5 @@ Handeling: het adviseren van het bestuur over de aanvragen om een financiële bi
 Handeling: het adviseren van het bestuur m.b.t. de hoofdlijnen of specifieke deelgebieden van het beleid, gevraagd en ongevraagd, in de categorie commerciële film Periode: 1999– Grondslag: Huishoudelijk Reglement, art. 4 lid 7a; Nadere regels ‘Taak en werkwijze intendant’ 1999 Product: advies Waardering: B 1 
 ### *259.* 
 
-Handeling: het adviseren van het bestuur over de aanvragen om een financiële bijdrage t.b.v. projecten in de categorie ‘commerciële film’. Grondslag: Huishoudelijk Reglement, art. 4 lid 7b; Nadere regels ‘Taak en werkwijze intendant’ 1999 Product: advies Waardering: B 5  
+Handeling: het adviseren van het bestuur over de aanvragen om een financiële bijdrage t.b.v. projecten in de categorie ‘commerciële film’. Grondslag: Huishoudelijk Reglement, art. 4 lid 7b; Nadere regels ‘Taak en werkwijze intendant’ 1999 Product: advies Waardering: B 5 
 

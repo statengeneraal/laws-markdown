@@ -10,7 +10,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. UWV:  het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);    b. vennootschap:  een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid als bedoeld in de [Titels 4](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [5 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);    c. bestuurder:  de statutair bestuurder van een vennootschap;    d. echtgenoot:  de persoon die met de bestuurder gehuwd is of die daarmee een gezamenlijke huishouding voert, tenzij het betreft een bloedverwant in de eerste graad.     
+In deze regeling wordt verstaan onder:   a. UWV:   het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);    b. vennootschap:   een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid als bedoeld in de [Titels 4](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [5 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);    c. bestuurder:   de statutair bestuurder van een vennootschap;    d. echtgenoot:   de persoon die met de bestuurder gehuwd is of die daarmee een gezamenlijke huishouding voert, tenzij het betreft een bloedverwant in de eerste graad.     
 
 ### Artikel  2  
 
@@ -39,7 +39,7 @@ Deze regeling treedt in werking met ingang van het tijdstip waarop de [artikelen
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Regeling aanwijzing directeur-grootaandeelhouder.  
+Deze regeling wordt aangehaald als: Regeling aanwijzing directeur-grootaandeelhouder. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -47,4 +47,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Staatssecretaris voornoemd, 
-F.H.G. deGrave    
+F.H.G. de Grave      

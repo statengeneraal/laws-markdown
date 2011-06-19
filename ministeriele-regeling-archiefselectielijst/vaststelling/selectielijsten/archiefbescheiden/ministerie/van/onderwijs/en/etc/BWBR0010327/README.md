@@ -2,11 +2,11 @@
 
 ##Vaststelling selectielijsten archiefbescheiden Ministerie van Onderwijs en Wetenschappen, Onderwijsraad (BVE)
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen en de Voorzitter van de Onderwijsraad,  
-Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen en de Voorzitter van de Onderwijsraad,   
+Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md); 
 
 De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 26 februari 1998, nr. arc-98.1649/2);
-Besluiten:    
+Besluiten:     
 
 ### Artikel  1  
 
@@ -23,15 +23,15 @@ Staatssecretaris van Onderwijs, Cultuur en Wetenschappen,
 
 namens deze, 
 
-De 
+De
 Algemene Rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven  
 
 De 
 Voorzitter van de Onderwijsraad, 
 
 namens deze, 
 
-De 
+De
 wnd. algemeen secretaris, 
-W.G.G.M. vanHolsteijn    
+W.G.G.M. van Holsteijn     

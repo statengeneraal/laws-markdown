@@ -2,11 +2,11 @@
 
 ##Vaststelling selectielijsten archiefbescheiden op het beleidsterrein Studiefinanciering vanaf 1945
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen,  
-Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen,   
+Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md); 
 
-De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 2 oktober 1997, nr. arc-97.6909/1);
-Besluit:    
+De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 2 oktober 1997, nr. arc-97.6909/1); 
+Besluit:     
 
 ### Artikel  1  
 
@@ -25,4 +25,4 @@ Dit besluit wordt gepubliceerd in de Staatscourant en treedt in werking met inga
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, namens deze, De 
 Algemene Rijksarchivaris, 
-M.W. vanBoven    
+M.W. van  Boven      

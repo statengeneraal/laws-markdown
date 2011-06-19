@@ -10,30 +10,30 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ [selectielijst voor de neerslag van de handelingen van de Minister van Financiën en de onder hem ressorterende actoren op het beleidsterrein Emancipatie en gelijke behandeling over de periode vanaf 1965](../../../../../../../../../../ministeriele-regeling-archiefselectielijst/selectielijst/neerslag/handelingen/m.b.t./emancipatie/en/gelijke/etc/BWBR0015419/README.md) ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘[selectielijst voor de neerslag van de handelingen van de Minister van Financiën en de onder hem ressorterende actoren op het beleidsterrein Emancipatie en gelijke behandeling over de periode vanaf 1965](../../../../../../../../../../ministeriele-regeling-archiefselectielijst/selectielijst/neerslag/handelingen/m.b.t./emancipatie/en/gelijke/etc/BWBR0015419/README.md)’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschappen is belast met de uitvoering van dit besluit dat met de daarbij behorende selectielijst en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 29 juli 2003    
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschappen 
+Staatssecretaris van Onderwijs, Cultuur en Wetenschappen  
 
-namens deze: 
+namens deze:
 
 de 
 Algemene Rijksarchivaris, 
-M.W. vanBoven 
+M.W. vanBoven   
 
 De 
-Minister van Financiën 
+Minister van Financiën  
 
-namens deze: 
+namens deze:
 
 de 
 plv. Directeur Informatievoorziening en Algemene Zaken, 
-R.P.Vollebregt    
+R.P. Vollebregt      

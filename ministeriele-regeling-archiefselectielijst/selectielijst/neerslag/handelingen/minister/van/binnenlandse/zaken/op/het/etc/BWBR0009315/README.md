@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Selectielijst neerslag handelingen Minister van Binnenlandse Zaken op het beleidsterrein Beheer Rijksbegroting
+##Selectielijst neerslag handelingen Minister van Binnenlandse Zaken op het beleidsterrein Beheer Rijksbegroting 
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen en de Minister van Binnenlandse Zaken,  
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](../../../../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md);
@@ -18,22 +18,22 @@ In te trekken hoofdstuk II, behoudens categorie 25, van de ’Lijst houdende opg
 
 ### Artikel  3  
 
-Dit Besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het is gepubliceerd.  
+Dit Besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het is gepubliceerd. 
+
+De
+StaatssecretarisvanOnderwijs, Cultuur en Wetenschappen 
+
+namens deze,  
+
+de
+Algemene Rijksarchivaris, 
+M.W. van Boven  
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschappen 
+Minister vanBinnenlandse Zaken 
 
-namens deze, 
-
-de 
-Algemene Rijksarchivaris,
-M.W. vanBoven 
-
-De 
-Minister van Binnenlandse Zaken 
-
-namens deze, 
+namens deze,  
 
 het 
-hoofd van de afdeling Documentair Management en Ondersteuning,
-J.A. van denBos    
+hoofd van de afdeling Documentair Management en Ondersteuning, 
+J.A. van den Bos     
