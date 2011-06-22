@@ -167,7 +167,9 @@ n. wachtgeld;
 
 o. overige rechten en verplichtingen;  
 
-p. de wijze, waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtstoestand van militaire ambtenaren, alsmede de gevallen waarin overeenstemming in dat overleg dient te worden bereikt.    
+p. de wijze, waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtstoestand van militaire ambtenaren, alsmede de gevallen waarin overeenstemming in dat overleg dient te worden bereikt;  
+
+q. de gevallen waarin berichten inzake de rechtspositie van de ambtenaar in afwijking van [artikel 2:14, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) uitsluitend elektronisch verzonden behoeven te worden en de voorwaarden die daarbij in acht worden genomen.    
 
 ### Artikel  12bis  
 

@@ -181,7 +181,9 @@ k. disciplinaire straffen, met dien verstande dat een boete dan wel een inhoudin
 
 l. de instelling en werkwijze van commissies waaraan de beslissing met uitsluiting van administratieve organen is opgedragen, voor zover deze worden mogelijk gemaakt;  
 
-m. de wijze, waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaren, alsmede de gevallen waarin overeenstemming in dat overleg dient te worden bereikt.     
+m. de wijze, waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaren, alsmede de gevallen waarin overeenstemming in dat overleg dient te worden bereikt;  
+
+n. de gevallen waarin berichten inzake de rechtspositie van de ambtenaar in afwijking van [artikel 2:14, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) uitsluitend elektronisch verzonden behoeven te worden en de voorwaarden die daarbij in acht worden genomen.     
 2.  Het bevoegd gezag van provincies, gemeenten en waterschappen stelt voor de ambtenaar door of vanwege deze lichamen aangesteld, onder gelijk voorbehoud voorschriften vast omtrent de onderwerpen, genoemd in het eerste lid. Als ambtenaar aangesteld door of vanwege een waterschap wordt aangemerkt hij die is aangesteld door het in het reglement van die instelling daartoe aangewezen gezag teneinde in dienst van het waterschap werkzaam te zijn.   
 
 ### Artikel  125bis  

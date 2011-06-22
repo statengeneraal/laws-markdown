@@ -59,7 +59,7 @@ Bij de berekening van het aantal nieuwe voortijdig schoolverlaters voor de toepa
 
 Het doel van deze regeling is: 
 
-a. het verstrekken van subsidie met het oog op het realiseren van een landelijke vermindering van het aantal nieuwe voortijdig schoolverlaters van tenminste 40% in het schooljaar 2010–2011 ten opzichte van het schooljaar 2005–2006, en  
+a. het verstrekken van subsidie met het oog op het realiseren van een landelijke vermindering van het aantal nieuwe voortijdig schoolverlaters van tenminste 40% in het schooljaar 2011–2012 ten opzichte van het schooljaar 2005–2006, en  
 
 b. het geven van uitvoeringsvoorschriften ter zake van de regionale meld- en coördinatiefunctie voortijdig schoolverlaten, waaronder het vaststellen van de daarvoor beschikbare budgetten.    
 
@@ -77,7 +77,7 @@ In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eer
 
 ####Subsidieverstrekking
 
-1.  De Minister verstrekt voor de kalenderjaren 2009 tot en met 2012 op grond van deze paragraaf ambtshalve subsidie aan het bevoegd gezag van een onderwijsinstelling dat voor die onderwijsinstelling ten minste één convenant heeft ondertekend en dat voor die onderwijsinstelling een daadwerkelijke reductie van het aantal nieuwe voortijdig schoolverlaters realiseert.   
+1.  De Minister verstrekt voor de kalenderjaren 2009 tot en met 2013 op grond van deze paragraaf ambtshalve subsidie aan het bevoegd gezag van een onderwijsinstelling dat voor die onderwijsinstelling ten minste één convenant heeft ondertekend en dat voor die onderwijsinstelling een daadwerkelijke reductie van het aantal nieuwe voortijdig schoolverlaters realiseert.   
 2.  De subsidie wordt telkens voor één jaar verstrekt in de maand oktober van het desbetreffende kalenderjaar.   
 
 ### Artikel  7  
@@ -86,58 +86,62 @@ Voor subsidieverstrekking op grond van deze paragraaf zijn de volgende bedragen 
 
 a. voor het kalenderjaar 2009 € 17.040.000;  
 
-b. voor het kalenderjaar 2010 € 34.080.000;  
+b. voor het kalenderjaar 2010 € 28.400.000;  
 
-c. voor het kalenderjaar 2011 € 51.120.000; en  
+c. voor het kalenderjaar 2011 € 42.600.000; en  
 
-d. voor het kalenderjaar 2012 € 68.160.000.    
+d. voor het kalenderjaar 2012 € 56.800.000;  
+
+e. voor het kalenderjaar 2013 € 56.800.000.    
 
 ### Artikel  8  
 
 ####Berekeningswijze aantal nieuwe voortijdig schoolverlaters
 
-1.  De wijze waarop voor de toepassing van de paragrafen 2 en 3 van deze regeling voor een van de schooljaren 2005–2006 en 2007–2008 tot en met 2010–2011 per onderwijsinstelling het aantal nieuwe voortijdig schoolverlaters wordt berekend per RMC-regio waarvoor door het bevoegd gezag van die onderwijsinstelling voor die onderwijsinstelling een convenant is ondertekend, is opgenomen in bijlage A bij deze regeling.   
-2.  De Minister past voor de schooljaren 2007–2008 tot en met 2010–2011 een correctie toe op de uitkomst van de berekening, bedoeld in het eerste lid, indien sprake is van een onevenredige groei of krimp van het aantal leerlingen van een onderwijsinstelling ten opzichte van het schooljaar 2005–2006. De wijze waarop wordt vastgesteld of sprake is van onevenredige groei of krimp en de berekening van de correctie zijn opgenomen in bijlage B bij deze regeling.   
-3.  In afwijking van het eerste lid wordt bij de berekeningswijze, bedoeld in het eerste lid, voor een van de schooljaren 2005–2006 en 2007–2008 tot en met 2010–2011 het aantal nieuwe voortijdig schoolverlaters voor een onderwijsinstelling dat woonachtig is in een RMC-regio waarvoor het bevoegd gezag van die onderwijsinstelling geen convenant heeft ondertekend meegenomen, indien het aantal nieuwe voortijdig schoolverlaters voor die onderwijsinstelling voor die RMC-regio voor het schooljaar 2005–2006 kleiner is dan 35.   
+1.  De wijze waarop voor de toepassing van de paragrafen 2 en 3 van deze regeling voor een van de schooljaren 2005–2006 en 2007–2008 tot en met 2011–2012 per onderwijsinstelling het aantal nieuwe voortijdig schoolverlaters wordt berekend per RMC-regio waarvoor door het bevoegd gezag van die onderwijsinstelling voor die onderwijsinstelling een convenant is ondertekend, is opgenomen in bijlage A bij deze regeling.   
+2.  De Minister past voor de schooljaren 2007–2008 tot en met 2011–2012 een correctie toe op de uitkomst van de berekening, bedoeld in het eerste lid, indien sprake is van een onevenredige groei of krimp van het aantal leerlingen van een onderwijsinstelling ten opzichte van het schooljaar 2005–2006. De wijze waarop wordt vastgesteld of sprake is van onevenredige groei of krimp en de berekening van de correctie zijn opgenomen in bijlage B bij deze regeling.   
+3.  In afwijking van het eerste lid wordt bij de berekeningswijze, bedoeld in het eerste lid, voor een van de schooljaren 2005–2006 en 2007–2008 tot en met 2011–2012 het aantal nieuwe voortijdig schoolverlaters voor een onderwijsinstelling dat woonachtig is in een RMC-regio waarvoor het bevoegd gezag van die onderwijsinstelling geen convenant heeft ondertekend meegenomen, indien het aantal nieuwe voortijdig schoolverlaters voor die onderwijsinstelling voor die RMC-regio voor het schooljaar 2005–2006 kleiner is dan 35.   
 
 ### Artikel  9  
 
 1.  Het bedrag van de subsidie aan het bevoegd gezag van een onderwijsinstelling wordt voor het kalenderjaar 2009 berekend door het aantal nieuwe voortijdig schoolverlaters voor die onderwijsinstelling voor het schooljaar 2005–2006 te verminderen met het aantal nieuwe voortijdig schoolverlaters voor die onderwijsinstelling voor het schooljaar 2007–2008 en de uitkomst daarvan te vermenigvuldigen met € 2.000, met dien verstande dat de subsidie, onverminderd artikel 11, niet hoger kan zijn dan het voorschot, berekend op grond van artikel 10 en wordt vastgesteld op nihil indien het aantal nieuwe voortijdig schoolverlaters voor die onderwijsinstelling niet is gedaald ten opzichte van het schooljaar 2005–2006.   
-2.  Het bedrag van de subsidie aan het bevoegd gezag van een onderwijsinstelling wordt voor elk van de kalenderjaren 2010 tot en met 2012 berekend door het aantal nieuwe voortijdig schoolverlaters voor die onderwijsinstelling voor het schooljaar 2005–2006 te verminderen met het aantal nieuwe voortijdig schoolverlaters voor die onderwijsinstelling voor het schooljaar voorafgaand aan het desbetreffende kalenderjaar en de uitkomst daarvan te vermenigvuldigen met € 2.500, met dien verstande dat de subsidie, onverminderd artikel 11, niet hoger kan zijn dan het voorschot, berekend op grond van artikel 10 en de subsidie altijd ten minste een vijfde van het voor dat kalenderjaar verstrekte voorschot bedraagt.   
+2.  Het bedrag van de subsidie aan het bevoegd gezag van een onderwijsinstelling wordt voor elk van de kalenderjaren 2010 tot en met 2013 berekend door het aantal nieuwe voortijdig schoolverlaters voor die onderwijsinstelling voor het schooljaar 2005–2006 te verminderen met het aantal nieuwe voortijdig schoolverlaters voor die onderwijsinstelling voor het schooljaar voorafgaand aan het desbetreffende kalenderjaar en de uitkomst daarvan te vermenigvuldigen met € 2.500, met dien verstande dat de subsidie, onverminderd artikel 11, niet hoger kan zijn dan het voorschot, berekend op grond van artikel 10 en de subsidie altijd ten minste een vijfde van het voor dat kalenderjaar verstrekte voorschot bedraagt.   
 
 ### Artikel  10  
 
 ####Voorschot
 
-1.  op het bedrag van de subsidie in het jaar 2009 wordt in de maand oktober voorafgaand aan het kalenderjaar waarop de subsidie betrekking heeft, een voorschot betaald.   
-2.  Op het bedrag van de subsidie in de jaren 2010 tot en met 2012 wordt een voorschot betaald. Vier vijfde deel van het bedrag wordt als voorschot uitbetaald in de maand oktober voorafgaand aan het kalenderjaar waarop de subsidie betrekking heeft. Een vijfde deel van het bedrag wordt betaald in de maand januari van het kalenderjaar waarop de subsidie betrekking heeft, met uitzondering van het jaar 2010 waarin een vijfde deel van het bedrag betaald wordt in de maand juli van dat kalenderjaar.   
-3.  Het voorschot, bedoeld in het eerste lid en lid 1a, wordt berekend door het aantal nieuwe voortijdig schoolverlaters voor de onderwijsinstelling voor het schooljaar 2005–2006 te vermenigvuldigen met het voor het desbetreffende kalenderjaar op grond van het derde lid vastgestelde percentage. Onverminderd het vijfde lid, wordt de uitkomst van de berekening in de vorige volzin rekenkundig afgerond en vermenigvuldigd met: 
+1.  Op het bedrag van de subsidie voor het jaar 2009 wordt in de maand oktober voorafgaand aan het kalenderjaar waarop de subsidie betrekking heeft, een voorschot betaald.   
+2.  Op het bedrag van de subsidie voor de jaren 2010 tot en met 2012 wordt vier vijfde deel van het bedrag als voorschot uitbetaald in de maand oktober voorafgaand aan het kalenderjaar waarop de subsidie betrekking heeft. Een vijfde deel van het bedrag wordt betaald in de maand januari van het kalenderjaar waarop de subsidie betrekking heeft, met uitzondering van het jaar 2010 waarin een vijfde deel van het bedrag betaald wordt in de maand juli van dat kalenderjaar. Op het bedrag van de subsidie voor het jaar 2013 wordt het volledige bedrag als voorschot uitbetaald in de maand oktober van het jaar 2012.   
+3.  Het voorschot, bedoeld in het eerste en het tweede lid, eerste en tweede volzin, wordt berekend door het aantal nieuwe voortijdig schoolverlaters voor de onderwijsinstelling voor het schooljaar 2005-2006 te vermenigvuldigen met het voor het desbetreffende kalenderjaar op grond van het vierde lid vastgestelde percentage. Onverminderd het zesde lid wordt de uitkomst van de berekening in de vorige volzin rekenkundig afgerond en vermenigvuldigd met: 
 
 a. voor het jaar 2009 een bedrag van € 2.000;  
 
-b. voor de jaren 2010 tot en met 2012 met een bedrag van € 2.500.     
-4.  Het percentage, bedoeld in het tweede lid, bedraagt: 
+b. voor de jaren 2010 tot en met 2013 een bedrag van € 2.500.     
+4.  Het percentage, bedoeld in het derde lid, bedraagt: 
 
 a. voor het kalenderjaar 2009 15%,  
 
 b. voor het kalenderjaar 2010 20%,  
 
-c. voor het kalenderjaar 2011 30%, en  
+c. voor het kalenderjaar 2011 30%,  
 
-d. voor het kalenderjaar 2012 40%.     
-5.  Indien de subsidie voor een kalenderjaar, berekend op grond van artikel 9, lager is dan het voor dat kalenderjaar verstrekte voorschot, wordt het verschil in mindering gebracht op het voorschot voor het daaropvolgende kalenderjaar.   
-6.  Indien de uitkomst van de berekening, bedoeld in de eerste volzin van het tweede lid, voor een onderwijsinstelling groter is dan nihil en lager dan 0,5, wordt de hoogte van het voorschot, in afwijking van het tweede lid, vastgesteld op: 
+d. voor het kalenderjaar 2012 40%, en  
+
+e. voor het kalenderjaar 2013 40%.     
+5.  Indien de subsidie voor een kalenderjaar, berekend op grond van artikel 9, lager is dan het voor dat kalenderjaar verstrekte voorschot, wordt het verschil in mindering gebracht op het voorschot voor het daaropvolgende kalenderjaar, voorzover daarvan sprake is.   
+6.  Indien de uitkomst van de berekening, bedoeld in de eerste volzin van het derde lid, voor een onderwijsinstelling groter is dan nihil en lager dan 0,5, wordt de hoogte van het voorschot, in afwijking van het eerste en tweede lid, vastgesteld op: 
 
 a. voor het jaar 2009 een bedrag van € 2.000;  
 
-b. voor het jaar 2010 tot en met 2012 een bedrag van € 2.500.     
+b. voor het jaar 2010 tot en met 2013 een bedrag van € 2.500.     
 
 ### Artikel  11  
 
-####Bijzondere bepaling subsidie 2012
+####Bijzondere bepaling subsidie 2012 en 2013
 
-1.  Indien de subsidie voor het kalenderjaar 2012, berekend op grond van artikel 9, tweede lid, hoger is dan het voor dat kalenderjaar verstrekte voorschot, wordt de subsidie vastgesteld op dat hogere bedrag, voor zover daarvoor aan de Minister, gelet op het subsidieplafond, bedoeld in artikel 7, onderdeel d, voldoende middelen ter beschikking staan, een en ander naar rato van het aantal begunstigden van de subsidie dat daarvoor in aanmerking komt en van de hoogte van het subsidiebedrag.   
-2.  Indien de subsidie voor het kalenderjaar 2012, berekend op grond van artikel 9, tweede lid, lager is dan het voor dat kalenderjaar verstrekt voorschot, wordt het verschil teruggevorderd.   
+1.  Indien de subsidie voor het kalenderjaar 2012 of 2013, berekend op grond van artikel 9, tweede lid, hoger is dan het voor dat kalenderjaar verstrekte voorschot, wordt de subsidie vastgesteld op dat hogere bedrag, voor zover daarvoor aan de Minister, gelet op het subsidieplafond, bedoeld in artikel 7, onderdelen d of e, voldoende middelen ter beschikking staan, een en ander naar rato van het aantal begunstigden van de subsidie dat daarvoor in aanmerking komt en van de hoogte van het subsidiebedrag.   
+2.  Indien de subsidie voor het kalenderjaar 2012 of 2013, berekend op grond van artikel 9, tweede lid, lager is dan het voor dat kalenderjaar verstrekt voorschot, wordt het verschil teruggevorderd.   
 
 ### Artikel  12  
 
@@ -150,8 +154,8 @@ b. voor het jaar 2010 tot en met 2012 een bedrag van € 2.500.
 
 ####Toetreden en opzeggen convenant door bevoegd gezag onderwijsinstelling
 
-1.  Indien het bevoegd gezag van een onderwijsinstelling uiterlijk op 1 augustus van een jaar toetreedt tot een convenant ontstaat aanspraak op subsidie op grond van deze paragraaf met ingang van het kalenderjaar na de toetreding.   
-2.  Indien het bevoegd gezag van een onderwijsinstelling op grond van artikel 11, tweede lid, van een convenant, uiterlijk op 1 augustus van een jaar het convenant schriftelijk opzegt, vervalt de aanspraak op subsidie op grond van deze paragraaf met ingang van het kalenderjaar na de opzegging. Artikel 11, tweede lid, is van overeenkomstige toepassing.   
+1.  Indien het bevoegd gezag van een onderwijsinstelling uiterlijk op 1 augustus 2012 toetreedt tot een convenant ontstaat aanspraak op subsidie op grond van deze paragraaf met ingang van het kalenderjaar na de toetreding.   
+2.  Indien het bevoegd gezag van een onderwijsinstelling op grond van artikel 11, tweede lid, van een convenant, uiterlijk op 1 augustus 2012 het convenant schriftelijk opzegt, vervalt de aanspraak op subsidie op grond van deze paragraaf met ingang van het kalenderjaar na de opzegging. Artikel 11, tweede lid, is van overeenkomstige toepassing.   
 
 ### Artikel  14  
 
@@ -178,7 +182,7 @@ b. onderwijsprogramma: onderwijsprogramma als bedoeld in artikel 19.
 
 ####Subsidieverstrekking
 
-De Minister verstrekt voor de kalenderjaren 2008 tot en met 2011 op grond van deze paragraaf op aanvraag subsidie aan het bevoegd gezag van een contactschool ten behoeve van het uitvoeren van het onderwijsprogramma door de onderwijsinstellingen waarvoor door het bevoegd gezag van die onderwijsinstellingen het convenant voor de RMC-regio is ondertekend.  
+De Minister verstrekt voor de kalenderjaren 2008 tot en met 2012 op grond van deze paragraaf op aanvraag subsidie aan het bevoegd gezag van een contactschool ten behoeve van het uitvoeren van het onderwijsprogramma door de onderwijsinstellingen waarvoor door het bevoegd gezag van die onderwijsinstellingen het convenant voor de RMC-regio is ondertekend.  
 
 ### Artikel  17  
 
@@ -214,13 +218,31 @@ d. het uitvoering geven aan de afspraken in de samenwerkingsovereenkomst inzake 
 
 ### Artikel  19  
 
-####Onderwijsprogramma
+####Onderwijsprogramma 2008–2011
 
-1.  Het onderwijsprogramma dat in een RMC-regio wordt uitgevoerd, bevat maatregelen die door de onderwijsinstellingen, bedoeld in artikel 17, worden uitgevoerd en die zijn gericht op structurele borging van het voorkomen van voortijdig schoolverlaten in het onderwijsproces van de onderwijsinstellingen.   
-2.  De maatregelen in het onderwijsprogramma passen binnen een of meer van de onderwerpen die zijn opgenomen in de menulijst in bijlage C bij deze regeling en omvatten in ieder geval een maatregel die past binnen het onderwerp verzuim melden en aanpakken, bedoeld bij punt 8 van die menulijst.   
-3.  De onderwijsinstellingen in de desbetreffende RMC-regio kunnen in gezamenlijk overleg een maatregel kiezen die niet past binnen de onderwerpen uit de menulijst van bijlage C bij deze regeling, indien zij van oordeel zijn dat deze maatregel een grotere bijdrage levert aan het realiseren van het doel, bedoeld in het eerste lid, dan maatregelen die wel passen binnen die onderwerpen.   
-4.  Het bevoegd gezag van de contactschool motiveert de keuze van de maatregelen in het onderwijsprogramma op het formulier in bijlage D bij deze regeling.   
-5.  Het bevoegd gezag van de contactschool legt het onderwijsprogramma ter instemming voor aan de RMC-contactgemeente van de desbetreffende RMC-regio.   
+1.  Het onderwijsprogramma dat in de jaren 2008 tot en met 2011 in een RMC-regio wordt uitgevoerd, bevat maatregelen die door de onderwijsinstellingen, bedoeld in artikel 17, worden uitgevoerd en die zijn gericht op structurele borging van het voorkomen van voortijdig schoolverlaten in het onderwijsproces van de onderwijsinstellingen.   
+2.  De maatregelen in het onderwijsprogramma voor de jaren 2008 tot en met 2011 passen binnen een of meer van de onderwerpen die zijn opgenomen in de menulijst in bijlage C bij deze regeling en omvatten in ieder geval een maatregel die past binnen het onderwerp verzuim melden en aanpakken, bedoeld bij punt 8 van die menulijst.   
+3.  De onderwijsinstellingen in de desbetreffende RMC-regio kunnen in gezamenlijk overleg voor het onderwijsprogramma, bedoeld in het tweede lid, een maatregel kiezen die niet past binnen de onderwerpen uit de menulijst van bijlage C bij deze regeling, indien zij van oordeel zijn dat deze maatregel een grotere bijdrage levert aan het realiseren van het doel, bedoeld in het eerste lid, dan maatregelen die wel passen binnen die onderwerpen.   
+4.  Het bevoegd gezag van de contactschool motiveert de keuze van de maatregelen in het onderwijsprogramma, bedoeld in het tweede lid, op het formulier in bijlage D bij deze regeling.   
+
+### Artikel  19a  
+
+####Onderwijsprogramma 2012
+
+1.  Het onderwijsprogramma dat in het jaar 2012 in een RMC-regio wordt uitgevoerd, bevat maatregelen die door de onderwijsinstellingen, bedoeld in artikel 17, worden uitgevoerd en die zijn gericht op structurele borging van het voorkomen van voortijdig schoolverlaten in het onderwijsproces van de onderwijsinstellingen.   
+2.  De maatregelen in het onderwijsprogramma voor het jaar 2012 bestaan uit ten hoogste vier maatregelen die zijn gericht op het bestrijden van voortijdig schoolverlaten voor de doelgroepen, opgenomen in bijlage J bij deze regeling.   
+3.  Het bevoegd gezag van de contactschool kiest de maatregelen in het onderwijsprogramma voor het jaar 2012 op grond van de volgende uitgangspunten: 
+
+a. de maatregelen zijn gericht op doelgroepen waarvan het uitvalpercentage voor de betreffende RMC-regio hoger is dan het landelijke uitvalpercentage,  
+
+b. indien in de betreffende RMC-regio voor alle doelgroepen de uitvalpercentages hoger liggen dan het landelijk uitvalpercentage, zijn de maatregelen gericht op doelgroepen met de hoogste aantallen uitvallers in de RMC-regio,  
+
+c. indien in de betreffende RMC-regio voor alle doelgroepen de uitvalpercentages lager liggen dan het landelijk uitvalpercentage, zijn de maatregelen gericht op doelgroepen met de hoogste aantallen uitvallers in de RMC-regio.     
+4.  De subsidie per maatregel bedraagt in het jaar 2012 ten hoogste € 5.000 per deelnemer.   
+5.  Het bevoegd gezag van de contactschool motiveert de keuze van de maatregelen in het onderwijsprogramma op het formulier in bijlage J bij deze regeling.   
+6.  Onvoldoende gemotiveerde aanvragen worden afgewezen.   
+7.  Indien het bevoegd gezag voor 2012 een maatregel kiest die onderdeel uitmaakt van een reeds eerder gekozen onderwijsprogramma voor de jaren 2008 tot en met 2011, motiveert het bevoegd gezag deze keuze op het formulier in bijlage K bij deze regeling.   
+8.  Het bevoegd gezag van de contactschool legt het onderwijsprogramma ter instemming voor aan de RMC-contactgemeente van de desbetreffende RMC-regio.   
 
 ### Artikel  20  
 
@@ -232,18 +254,20 @@ a. voor het kalenderjaar 2008 € 6.800.000,
 
 b. voor het kalenderjaar 2009 € 10.400.000,  
 
-c. voor het kalenderjaar 2010 € 15.700.000, en  
+c. voor het kalenderjaar 2010 € 15.700.000,  
 
-d. voor het kalenderjaar 2011 € 19.300.000.     
+d. voor het kalenderjaar 2011 € 19.300.000,  
+
+e. voor het kalenderjaar 2012 € 19.300.000.     
 2.  Het bedrag voor de subsidieverstrekking per RMC-regio wordt berekend op grond van onderstaand schema:  Maximum bedragen beschikbaar per RMC-regio 
 
-|--- | 2008  | 2009  | 2010  | 2011  | Nr.  | Aantal nieuwe vsv-ers per RMC-regio  schooljaar 05/06  | Bedrag per RMC-regio  | Bedrag per RMC-regio  | Bedrag per RMC-regio  | Bedrag per RMC-regio  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | < 500  | € 73.118  | € 111.828  | € 168.817  | € 207.527  |
-| 2  | 500 tot en met 999  | € 146.237  | € 223.656  | € 337.634  | € 415.054  |
-| 3  | 1000 tot en met 1499  | € 219.355  | € 335.484  | € 506.452  | € 622.581  |
-| 4  | 1500 tot en met 1999  | € 292.473  | € 447.312  | € 675.269  | € 830.108  |
-| 5  | ≥ 2000  | € 365.591  | € 559.140  | € 844.086  | € 1.037.634  |
+|--- |--- | 2008  | 2009  | 2010  | 2011  | 2012  | Nr.  | Aantal nieuwe vsv-ers per RMC-regio schooljaar 05/06  | Bedrag per RMC-regio  | Bedrag per RMC-regio  | Bedrag per RMC-regio  | Bedrag per RMC-regio  | Bedrag per RMC-regio  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1  | < 500  | € 73.118  | € 111.828  | € 168.817  | € 207.527  | € 207.527  |
+| 2  | 500 tot en met 999  | € 146.237  | € 223.656  | € 337.634  | € 415.054  | € 415.054  |
+| 3  | 1000 tot en met 1499  | € 219.355  | € 335.484  | € 506.452  | € 622.581  | € 622.581  |
+| 4  | 1500 tot en met 1999  | € 292.473  | € 447.312  | € 675.269  | € 830.108  | € 830.108  |
+| 5  | ≥ 2000  | € 365.591  | € 559.140  | € 844.086  | € 1.037.634  | € 1.037.364  |
 
 ### Artikel  21  
 
@@ -260,12 +284,14 @@ De aanvraag van de subsidie geschiedt door inzending van het volledig ingevulde 
 3.  De Minister beslist uiterlijk op 1 december 2008 op de aanvraag, bedoeld in het eerste lid.   
 4.  De Minister beslist uiterlijk op 1 februari 2010 op de aanvraag, bedoeld in het tweede lid.   
 5.  De betaling van de subsidie vindt plaats in het tweede kwartaal van het desbetreffende jaar. In afwijking van het eerste lid, vindt de betaling voor 2008 plaats in december 2008.   
+6.  Het bevoegd gezag van de contactschool dient de subsidieaanvraag voor het jaar 2012 uiterlijk op 15 september 2011 in bij de Minister. Aanvragen die na deze datum worden ontvangen, worden afgewezen.   
+7.  De Minister beslist uiterlijk op 15 november 2011 op de aanvraag, bedoeld in het zesde lid. De betaling van de subsidie vindt plaats in november 2011.   
 
 ### Artikel  23  
 
 ####Rapportage
 
-1.  Uiterlijk op 1 juli 2012 dient het bevoegd gezag van de contactschool een rapportage in bij de Minister. In de rapportage wordt een beschrijving gegeven van de resultaten van het onderwijsprogramma.   
+1.  Uiterlijk op 1 juli 2013 dient het bevoegd gezag van de contactschool een rapportage in bij de Minister. In de rapportage wordt een beschrijving gegeven van de resultaten van het onderwijsprogramma.   
 2.  Uiterlijk op 1 juli 2010 dient het bevoegd gezag van de contactschool een tussenrapportage in bij de Minister. In de tussenrapportage wordt een beschrijving gegeven van de stand van zaken van de uitvoering van het onderwijsprogramma.   
 3.  Bij de rapportage, bedoeld in het eerste lid, en de tussenrapportage, bedoeld in het tweede lid, maakt het bevoegd gezag van de contactschool gebruik van het formulier dat als bijlage E bij deze regeling is vastgesteld.   
 
@@ -273,7 +299,7 @@ De aanvraag van de subsidie geschiedt door inzending van het volledig ingevulde 
 
 ####Besteding subsidie en verantwoording en controle
 
-1.  De subsidie wordt uitsluitend aangewend voor het doel waarvoor zij is verstrekt. Eventueel niet-bestede middelen na afloop van de looptijd van de subsidie zullen worden teruggevorderd. De subsidie wordt uiterlijk in 2011 besteed.   
+1.  De subsidie wordt uitsluitend aangewend voor het doel waarvoor zij is verstrekt. Eventueel niet-bestede middelen na afloop van de looptijd van de subsidie zullen worden teruggevorderd. De subsidie wordt uiterlijk in 2012 besteed.   
 2.  De verantwoording van de subsidie geschiedt in de jaarrekening met model G, bedoeld in de richtlijn RJ 660, alinea 212, zoals vastgesteld door de Raad voor de Jaarverslaggeving. De verantwoording van eventueel niet-bestede middelen geschiedt in de jaarrekening van het laatste jaar van besteding.   
 3.  De verklaring van de accountant bij de jaarverslaggeving omvat tevens een oordeel omtrent de rechtmatige besteding van de subsidie.   
 
@@ -443,7 +469,9 @@ Er vindt bij de berekening van het aantal nieuwe voortijdig schoolverlaters (X) 
 
 – als schooljaar (t) = schooljaar 2009–2010: 60%,  
 
-– als schooljaar (t) = schooljaar 2010–2011: 75%.   Indien de stijging van het aantal leerlingen van de onderwijsinstelling voor een schooljaar hoger is dan de aangegeven norm, wordt het aantal nieuwe voortijdig schoolverlaters (X) voor dat schooljaar ten behoeve van het berekenen van de subsidie verlaagd overeenkomend met het berekende percentage (P). Indien de daling van het aantal leerlingen van de onderwijsinstelling voor een schooljaar hoger is dan de aangegeven norm, wordt het aantal nieuwe voortijdig schoolverlaters (X) voor dat schooljaar ten behoeve van het berekenen van de subsidie verhoogd overeenkomend met het berekende percentage (P).  
+– als schooljaar (t) = schooljaar 2010–2011: 75%,  
+
+– als schooljaar (t) = schooljaar 2011–2012: 90%.   Indien de stijging van het aantal leerlingen van de onderwijsinstelling voor een schooljaar hoger is dan de aangegeven norm, wordt het aantal nieuwe voortijdig schoolverlaters (X) voor dat schooljaar ten behoeve van het berekenen van de subsidie verlaagd overeenkomend met het berekende percentage (P). Indien de daling van het aantal leerlingen van de onderwijsinstelling voor een schooljaar hoger is dan de aangegeven norm, wordt het aantal nieuwe voortijdig schoolverlaters (X) voor dat schooljaar ten behoeve van het berekenen van de subsidie verhoogd overeenkomend met het berekende percentage (P).  
 
 ### Bijlage  C  
 
@@ -584,6 +612,73 @@ Plaats Datum Handtekening
 ###Toelichting
 
 Het formulier dient te worden gezonden aan: het Ministerie van OCW Postbus 606 2700 ML Zoetermeer  
+
+### Bijlage  E  
+
+####behorende bij artikel 23, derde lid 
+
+###Formulier voor rapportage voor inhoudelijke verantwoording over besteding van subsidie voor onderwijsprogramma’s voor de jaren 2010, 2011 en 2012
+
+Contactschool 
+
+| --- |
+|:---|
+|  *Naam onderwijsinstelling (contactschool):*    *BRIN nummer:*    *Adres:*    *Postcode:*    *Vestigingsplaats:*    *RMC regio, naam en nummer:*   |
+| --- |
+|  *Contactpersoon bij onderwijsinstelling (contactschool):*    *Telefoonnummer:*    *E-mailadres:*   |
+
+Overige in programma deelnemende scholen 
+
+| --- |
+|:---|
+| Naam onderwijsinstelling:  BRIN nummer:  Vestigingsplaats:  |
+| Naam onderwijsinstelling:  BRIN nummer:  Vestigingsplaats:  |
+| Naam onderwijsinstelling:  BRIN nummer:  Vestigingsplaats:  |
+| Naam onderwijsinstelling:  BRIN nummer:  Vestigingsplaats:  |
+| Naam onderwijsinstelling:  BRIN nummer:  Vestigingsplaats:  |
+| Naam onderwijsinstelling:  BRIN nummer:  Vestigingsplaats:  |
+| Naam onderwijsinstelling:  BRIN nummer:  Vestigingsplaats:  |
+
+Wilt u *per maatregel* ter bestrijding van VSV die u in het onderwijsprogramma heeft opgenomen de vragenlijst apart invullen?  
+
+| 1. Titel maatregel (I) <sup>*</sup>  |
+|:---|
+| --- |
+| --- |
+
+<sup>*</sup> *per maatregel de vragenlijst apart invullen*   
+
+| 2. Doelstelling maatregel (kwalitatief)  |
+|:---|
+| Op welke doelgroep was deze maatregel gericht?  |
+| --- |
+| Wat voor activiteiten zijn uitgevoerd?  |
+| --- |
+| Wat heeft deze maatregel verbeterd?  |
+| --- |
+| Gedurende welke periode (looptijd) is deze maatregel ingezet? Noemt u het kalenderjaar van begin en het kalenderjaar van afsluiting.  |
+
+| 3. Doelstelling maatregel (kwantitatief)  |
+|:---|
+| Op welk aantal vsv’ers had u verwacht met deze maatregel voor de betreffende doelgroep uit te komen (cijfers schooljaar 2011–2012)?  |
+| --- |
+| Welke reductie is gehaald? M.a.w. op hoeveel vsv’ers bent u uitgekomen (cijfers schooljaar 2011-2012)?  |
+
+| 3. Regie en samenwerking  |
+|:---|
+| Welke (keten)partners waren bij de uitvoering betrokken?  |
+| --- |
+| Hoe is de samenwerking met de partners ingevuld?  |
+
+| 4. Haalbaarheid en implementatie  |
+|:---|
+| Is deze maatregel geborgd ook na 2012? Zo ja hoe is hierin voorzien?  |
+| --- |
+| Indien in borging niet is voorzien, hoe wordt de maatregel voortgezet?  |
+
+| 5. Geef aan welk deel van de projectsubsidie u in totaal op deze maatregel heeft ingezet  |
+|:---|
+| Hoogte totale uitgaven:  | EUR  |
 
 ### Bijlage  F  
 
@@ -766,163 +861,163 @@ Onder de Financiële gegevens van de RMC functie vallen in deze rapportage allee
 
 ### Bijlage  H  
 
-####behorende bij artikel 29, eerste lid 
+####behorende bij artikel 29 
 
 ####Vaststelling RMC-regio’s
 
-#### *Regio 1. Oost-Groningen* 
+####Regio 1: Oost-Groningen
 
-Bellingwedde, Menterwolde, Pekela, Reiderland, Scheemda, Stadskanaal, Veendam, Vlagtwedde, Winschoten.  
+Bellingwedde, Menterwolde, Oldambt, Pekela, Stadskanaal, Veendam, Vlagtwedde.  
 
-#### *Regio 2. Noord-Groningen-Eemsmond* 
+####Regio 2: Noord-Groningen-Eemsmond
 
 Appingedam, Bedum, De Marne, Delfzijl, Eemsmond, Loppersum, Winsum.  
 
-#### *Regio 3. Centraal en Westelijk Groningen* 
+####Regio 3: Centraal en Westelijk Groningen
 
 Groningen, Grootegast, Haren, Hoogezand-Sappemeer, Leek, Marum, Slochteren, Ten Boer, Zuidhorn.  
 
-#### *Regio 4. Friesland Noord* 
+####Regio 4: Friesland Noord
 
 Ameland, Boarnsterhim, Dantumadeel, Dongeradeel, Ferwerderadiel, Franekeradeel, Harlingen, Het Bildt, Kollumerland c.a., Leeuwarden, Leeuwarderadeel, Menaldumadeel, Schiermonnikoog, Terschelling, Vlieland.  
 
-#### *Regio 5. Zuid-West Friesland* 
+####Regio 5: Zuid-West Friesland
 
 Bolsward, Gaasterlân-Sleat, Lemsterland, Littenseradiel, Nijefurd, Sneek, Wûnseradiel, Wymbritseradiel.  
 
-#### *Regio 6. Friesland-Oost (‘de Friese Wouden’)* 
+####Regio 6: Friesland-Oost (‘De Friese Wouden’)
 
 Achtkarspelen, Heerenveen, Ooststellingwerf, Opsterland, Skarsterlân, Smallingerland, Tytjerksteradiel, Weststellingwerf.  
 
-#### *Regio 7. Noord- en Midden Drenthe* 
+####Regio 7: Noord- en Midden Drenthe
 
 Aa en Hunze, Assen, Midden-Drenthe, Noordenveld, Tynaarlo.  
 
-#### *Regio 8. Zuid-Oost Drenthe* 
+####Regio 8: Zuid-Oost Drenthe
 
 Borger-Odoorn, Coevorden, Emmen.  
 
-#### *Regio 9:. Zuid-West Drenthe* 
+####Regio 9: Zuid-West Drenthe
 
-Hoogeveen, Meppel, Westerveld, De Wolden.  
+De Wolden, Hoogeveen, Meppel, Westerveld.  
 
-#### *Regio 10. IJssel-Vecht* 
+####Regio 10: IJssel-Vecht
 
 Dalfsen, Hardenberg, Hattem, Heerde, Kampen, Ommen, Raalte, Staphorst, Steenwijkerland, Zwartewaterland, Zwolle.  
 
-#### *Regio 11. Stedendriehoek* 
+####Regio 11: Stedendriehoek
 
 Apeldoorn, Brummen, Deventer, Epe, Lochem, Olst-Wijhe, Voorst, Zutphen.  
 
-#### *Regio 12. Twente* 
+####Regio 12: Twente
 
 Almelo, Borne, Dinkelland, Enschede, Haaksbergen, Hellendoorn, Hengelo(O), Hof van Twente, Losser, Oldenzaal, Rijssen-Holten, Tubbergen, Twenterand, Wierden.  
 
-#### *Regio 13. Achterhoek* 
+####Regio 13: Achterhoek
 
-Aalten, Berkelland, Bronckhorst, Doesburg, Doetinchem, Groenlo, Montferland, Oude IJsselstreek, Winterswijk.  
+Aalten, Montferland, Berkelland, Bronckhorst, Doesburg, Doetinchem, Oude IJsselstreek, Oost-Gelre, Winterswijk.  
 
-#### *Regio 14. Arnhem/Nijmegen* 
+####Regio 14: Arnhem/Nijmegen
 
 Arnhem, Beuningen, Druten, Duiven, Groesbeek, Heumen, Lingewaard, Millingen a.d. Rijn, Mook en Middelaar, Nijmegen, Overbetuwe, Renkum, Rheden, Rijnwaarden, Rozendaal, Ubbergen, Westervoort, Wijchen, Zevenaar.  
 
-#### *Regio 15. Rivierenland* 
+####Regio 15: Rivierenland
 
 Buren, Culemborg, Geldermalsen, Lingewaal, Maasdriel, Neerijnen, Neder-Betuwe, Tiel, West Maas en Waal, Zaltbommel.  
 
-#### *Regio 16. Eem en Vallei* 
+####Regio 16: Eem en Vallei
 
 Amersfoort, Baarn, Barneveld, Bunschoten, Ede, Leusden, Nijkerk, Renswoude, Rhenen, Scherpenzeel, Soest, Veenendaal, Wageningen, Woudenberg.  
 
-#### *Regio 17. Noordwest-Veluwe* 
+####Regio 17: Noordwest-Veluwe
 
 Elburg, Ermelo, Harderwijk, Nunspeet, Oldebroek, Putten, Zeewolde.  
 
-#### *Regio 18. Flevoland* 
+####Regio 18: Flevoland
 
 Almere, Dronten, Lelystad, Noord-Oostpolder, Urk.  
 
-#### *Regio 19. Utrecht* 
+####Regio 19: Utrecht
 
 Abcoude, Breukelen, Bunnik, De Bilt, De Ronde Venen, Houten, IJsselstein, Loenen, Lopik, Maarssen, Montfoort, Nieuwegein, Oudewater, Utrecht, Utrechtse Heuvelrug, Vianen, Wijk bij Duurstede, Woerden, Zeist.  
 
-#### *Regio 20. Gooi en Vechtstreek* 
+####Regio 20: Gooi en Vechtstreek
 
 Blaricum, Bussum, Eemnes, Hilversum, Huizen, Laren, Muiden, Naarden, Weesp, Wijdemeren.  
 
-#### *Regio 21. Agglomeratie Amsterdam* 
+####Regio 21: Agglomeratie Amsterdam
 
 Aalsmeer, Amstelveen, Amsterdam, Beemster, Diemen, Edam/Volendam, Haarlemmermeer, Landsmeer, Oostzaan, Ouder-Amstel, Purmerend, Uithoorn, Waterland, Wormerland, Zaanstad, Zeevang.  
 
-#### *Regio 22. West-Friesland* 
+####Regio 22: West-Friesland
 
 Andijk, Drechterland, Enkhuizen, Hoorn, Medemblik, Koggenland, Opmeer, Stede Broec, Wervershoof.  
 
-#### *Regio 23. Kop van Noord-Holland* 
+####Regio 23: Kop van Noord-Holland
 
 Anna Paulowna, Den Helder, Harenkarspel, Niedorp, Schagen, Texel, Wieringen, Wieringermeer, Zijpe.  
 
-#### *Regio 24. Noord-Kennemerland* 
+####Regio 24: Noord-Kennemerland
 
 Alkmaar, Bergen (NH), Castricum, Graft-De Rijp, Heerhugowaard, Heiloo, Langedijk, Schermer.  
 
-#### *Regio 25. West-Kennemerland* 
+####Regio 25: West-Kennemerland
 
-Bennebroek, Beverwijk, Bloemendaal, Haarlem, Haarlemmerliede c.a., Heemskerk, Heemstede, Uitgeest, Velsen, Zandvoort.  
+Beverwijk, Bloemendaal, Haarlem, Haarlemmerliede c.a., Heemskerk, Heemstede, Uitgeest, Velsen, Zandvoort.  
 
-#### *Regio 26. Zuid-Holland-Noord* 
+####Regio 26: Zuid-Holland-Noord
 
-Alkemade, Hillegom, Katwijk, Leiden, Leiderdorp, Lisse, Noordwijk, Noordwijkerhout, Oegstgeest, Teylingen, Voorschoten, Zoeterwoude.  
+Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Noordwijk, Noordwijkerhout, Oegstgeest, Teylingen, Voorschoten, Zoeterwoude.  
 
-#### *Regio 27. Zuid-Holland-Oost* 
+####Regio 27: Zuid-Holland-Oost
 
-Alphen aan den Rijn, Bergambacht, Bodegraven, Boskoop, Gouda, Jacobswoude, Moordrecht, Nieuwerkerk aan den IJssel, Nederlek, Nieuwkoop, Ouderkerk, Reeuwijk, Rijnwoude, Schoonhoven, Vlist, Waddinxveen, Zevenhuizen/Moerkapelle.  
+Alphen aan den Rijn, Bergambacht, Bodegraven, Boskoop, Gouda, Nederlek, Nieuwkoop, Ouderkerk, Reeuwijk, Rijnwoude, Schoonhoven, Vlist, Waddinxveen, Zuidplas.  
 
-#### *Regio 28. Haaglanden/Westland* 
+####Regio 28: Haaglanden/Westland
 
-Delft, ’s-Gravenhage, Leidschendam-Voorburg, Midden-Delfland, Pijnacker-Nootdorp, Rijswijk, Wassenaar, Westland, Zoetermeer.  
+Delft,’s-Gravenhage, Leidschendam-Voorburg, Midden-Delfland, Pijnacker-Nootdorp, Rijswijk, Wassenaar, Westland, Zoetermeer.  
 
-#### *Regio 29. Rijnmond* 
+####Regio 29: Rijnmond
 
 Albrandswaard, Barendrecht, Bernisse, Brielle, Capelle aan den IJssel, Dirksland, Goedereede, Hellevloetsluis, Krimpen aan den IJssel, Lansingerland, Maassluis, Middelharnis, Oostflakkee, Ridderkerk, Rotterdam, Rozenburg, Schiedam, Spijkenisse, Vlaardingen, Westvoorne.  
 
-#### *Regio 30. Zuid-Holland-Zuid* 
+####Regio 30: Zuid-Holland-Zuid
 
 Alblasserdam, Binnenmaas, Cromstrijen, Dordrecht, Giessenlanden, Gorinchem, Graafstroom, Hardinxveld-Giessendam, Hendrik Ido Ambacht, Korendijk, Leerdam, Liesveld, Nieuw Lekkerland, Oud Beijerland, Papendrecht, Sliedrecht, Strijen, Zederik, Zwijndrecht.  
 
-#### *Regio 31. Noord- en Zuid-Beveland, Schouwen-Duiveland, St. Philipsland en Tholen* 
+####Regio 31: Oosterschelde regio
 
 Borsele, Goes, Kapelle, Noord-Beveland, Reimerswaal, Schouwen-Duiveland, Tholen.  
 
-#### *Regio 32. Walcheren* 
+####Regio 32: Walcheren
 
 Middelburg, Veere, Vlissingen.  
 
-#### *Regio 33. Zeeuwsch-Vlaanderen* 
+####Regio 33: Zeeuwsch-Vlaanderen
 
 Hulst, Sluis, Terneuzen.  
 
-#### *Regio 34. West-Brabant* 
+####Regio 34: West-Brabant
 
 Aalburg, Alphen-Chaam, Baarle Nassau, Bergen op Zoom, Breda, Geertruidenberg, Drimmelen, Etten-Leur, Halderberge, Moerdijk, Oosterhout, Roosendaal, Steenbergen, Rucphen, Werkendam, Woensdrecht, Woudrichem, Zundert.  
 
-#### *Regio 35. Midden-Brabant* 
+####Regio 35: Midden-Brabant
 
 Dongen, Gilze en Rijen, Goirle, Hilvarenbeek, Loon op Zand, Oisterwijk, Tilburg, Waalwijk.  
 
-#### *Regio 36. Noord-Oost-Brabant* 
+####Regio 36: Noord-Oost-Brabant
 
-Bernheze, Boekel, Boxmeer, Boxtel, Cuijk, Grave, Haaren, ’s-Hertogenbosch, Heusden, Landerd, Lith, Maasdonk, Mill en St.Hubert, Oss, Schijndel, St. Anthonis, St. Michielsgestel, St. Oedenrode, Uden, Veghel, Vught.  
+Bernheze, Boekel, Boxmeer, Boxtel, Cuijk, Grave, Haaren, ’s-Hertogenbosch, Heusden, Landerd, Lith, Maasdonk, Mill en St. Hubert, Oss, Schijndel, St. Anthonis, St. Michielsgestel, St. Oedenrode, Uden, Veghel, Vught.  
 
-#### *Regio 37. Zuidoost-Brabant* 
+####Regio 37: Zuidoost-Brabant
 
 Asten, Bergeyk, Best, Bladel, Cranendonck, Deurne, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Heeze-Leende, Helmond, Laarbeek, Nuenen c.a., Oirschot, Reusel-De Mierden, Someren, Son en Breugel, Valkenswaard, Veldhoven, Waalre.  
 
-#### *Regio 38. Gewest Limburg-Noord* 
+####Regio 38: Gewest Limburg-Noord
 
-Arcen/Velden, Beesel, Bergen, Gennep, Helden, Horst aan de Maas, Kessel, Leudal, Maasbree, Maasgouw, Meijel, Meerlo-Wanssum, Nederweert, Roerdalen, Roermond, Sevenum, Venlo, Venray, Weert.  
+Beesel, Bergen lb, Gennep, Horst aan de Maas,Leudal, Maasgouw, Nederweert, Peel en Maas, Roerdalen, Roermond, Venlo, Venray, Weert.  
 
-#### *Regio 39. Gewest Zuid-Limburg* 
+####Regio 39: Gewest Zuid-Limburg
 
 Beek, Brunssum, Eijsden, Echt-Susteren, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, Maastricht, Margraten, Meerssen, Nuth, Onderbanken, Schinnen, Simpelveld, Sittard-Geleen, Stein, Vaals, Valkenburg aan de Geul, Voerendaal.  
 
@@ -934,3 +1029,118 @@ Beek, Brunssum, Eijsden, Echt-Susteren, Gulpen-Wittem, Heerlen, Kerkrade, Landgr
 
 Alkmaar, Almelo, Almere, Amersfoort, Amsterdam, Apeldoorn, Arnhem, Breda, Den Bosch, Den Haag, Deventer, Dordrecht, Ede, Eindhoven, Emmen, Enschede, Groningen, Haarlem, Heerlen, Helmond, Hengelo, Leeuwarden, Leiden, Lelystad, Maastricht, Nijmegen, Rotterdam, Schiedam, Sittard-Geleen, Tilburg, Utrecht, Venlo, Zaanstad, Zoetermeer en Zwolle.  
 
+### Bijlage  J  
+
+####Aanvraagformulier subsidie onderwijsprogramma's 2012
+
+####Voorlopige cijfers 2009–2010
+
+*Toelichting: De contactschool vult de openstaande velden in op basis van de regio-factsheets* *voorlopige cijfers 2009–2010,* *beschikbaar gesteld door OCW en DUO. De regio-cijfers in deze tabel en de hieruit voortvloeiende problematiek zijn leidend voor het opstellen van het onderwijsprogramma, zie toelichting.*   
+
+| Doelgroep  |--- | 1.  | 2.  | 3.  | 4.  | 5.  | 6.  | 7.  | 8.  | Uitval  | Uitval Totaal  Tabel 1  | Uitval VO  Tabel 1  | Uitval VO zonder vmbo diploma in schooljaar <sup>*</sup>  Tabel 3  | Uitval VO met vmbo-diploma in schooljaar <sup>^</sup>  Tabel 3  | Uitval MBO  Tabel 1  | Uitval MBO/Leerweg Bol vt  Tabel 11  | Uitval MBO/Leerweg Bbl  Tabel 11  | Uitval 18–  Tabel 7  | Uitval 18+  Tabel 7  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| Landelijk %  | 3.0%  | 1.0%  | 0,7%  | 3,3%  | 7.5%  | 6,6%  | 10,6%  | 0,9%  | 7,4%  |
+| Landelijke aantallen  | 39.557  | 8.881  | 5.791  | 3.090  | 29.664  | 20.677  | 8.257  | 7.587  | 31.970  |
+| Best presterende regio %  | 2,1%  | 0,7%  | 0,6%  | 1,1%  | 4,8%  | 4,1%  | 7,1%  | 0,5%  | 5,1%  |
+| RMC-regio %  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| RMC-regio aantallen  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+<sup>*</sup> Deze groep omvat uitval uit onderbouw, bovenbouw vmbo zonder diploma, bovenbouw havo/vwo met of zonder vmbo-diploma. <sup>^</sup> Deze groep omvat uitsluitend de gediplomeerde vmbo’ers die niet instromen in het mbo.  *Opmerkingen:*  De cijfers op landelijk niveau zijn lager dan de gezamenlijke uitval in de 39 RMC-regio’s omdat de uitstroom naar het voortgezet speciaal onderwijs en de examendeelnemers alleen op landelijk niveau in de telling zijn verwerkt. Op regionaal niveau zijn hier op dit moment nog geen betrouwbare gegevens voorhanden. De cijfers op landelijk niveau en in de regio-factsheets bevatten zogenoemde ‘witte vlekken’. Dit zijn categorieën waardoor de tot nu toe gepresenteerde vsv-cijfers enigszins overschat zijn. Meer informatie hierover en over de verbeteringen die op dit terrein plaatsvinden, staat in de handleiding vsv-cijferproducten en de brief van 17 februari 2011 aan de Tweede Kamer.  
+
+####Toelichting
+
+###Algemeen
+
+Op basis van de Uitvoeringsregeling bestrijding voortijdig schoolverlaten is subsidie voor onderwijsprogramma’s beschikbaar gesteld met als doel een structurele borging in het onderwijsproces van de vermindering van het aantal nieuwe voortijdig schoolverlaters (vsv’ers). De onderwijsprogramma’s worden ingezet op regionale vsv-problematiek. Uitgangspunt van de subsidie voor onderwijsprogramma’s is dat ook na afloop van de subsidieperiode de aanpak wordt voortgezet. Met het oog op het realiseren van de doelstelling van maximaal 25.000 nieuwe vsv’ers in 2016 wordt de subsidie voor onderwijsprogramma’s met één jaar verlengd. Het is uitdrukkelijk de bedoeling dat het Onderwijsprogramma 2012 in de schooljaren 2011–2012 en 2012–2013 tot een daadwerkelijke vermindering van het aantal vsv’ers leidt. Hiermee wordt een bijdrage geleverd aan de realisatie van de doelstelling van maximaal 25.000 nieuwe vsv’ers in 2016. Om meer focus aan te brengen in de onderwijsprogramma’s en te richten op daar waar de uitval hoog is, kunnen voor de aanvraag Onderwijsprogromma’s 2012 per RMC-regio’s maximaal 4 maatregelen worden aangevraagd. Daarnaast wordt strakker gestuurd op de doelgroepen waarvoor de maatregelen kunnen worden ingezet. De specifieke criteria zijn hieronder uitgewerkt. Tegen de achtergrond dat de maatregelen uit het onderwijsprogramma’s 2008–2011 geborgd worden of zijn, wordt bij maatregelen die een voortzetting betreffen, een aanvullende toelichting gevraagd. 
+###Specifiek
+
+– Het onderwijsprogramma voor 2012 bestaat uit maximaal 4 maatregelen, die in de aanvraag beknopt en SMART (specifiek, meetbaar, acceptabel, realistisch en tijdgebonden) moeten worden omschreven. Aanvragen die hier niet aan voldoen, worden afgewezen.  
+
+– Eén maatregel kan overkoepelend zijn voor verschillende activiteiten. Bijvoorbeeld onder de maatregel ‘Verzuim melden en aanpakken’ kunnen de activiteiten: instellen uniform meldproces, informatieverzameling van verzuimgegevens en aanstellen verzuimcoördinator vallen. Of onder de maatregel ‘Loopbaanoriëntatie- en begeleiding’ kunnen bijvoorbeeld de activiteiten: mentorbegeleiding, kennismaking met bedrijfsleven om een goed beroepsbeeld te krijgen, beroepskeuzetest en het afnemen van intakegesprekken, vallen.  
+
+– De resultaten voor de 8 doelgroepen op RMC-regio niveau (zoals in de tabel weergegeven) zijn leidend: Voor de invulling van de maximaal 4 maatregelen voor het onderwijsprogramma gelden de volgende criteria: 
+
+1. Maatregelen worden gericht op doelgroepen waarvan het uitvalpercentage voor de RMC-regio hoger is dan het landelijke uitvalpercentage.  
+
+2. In RMC-regio’s waar voor alle doelgroepen op RMC-niveau de uitvalpercentages hoger liggen dan op landelijk niveau, worden maatregelen gericht op doelgroepen met de hoogste aantallen uitvallers voor de RMC-regio.  
+
+3. In RMC-regio’s waar voor alle doelgroepen op RMC-niveau de uitvalpercentages lager liggen dan op landelijk niveau, worden maatregelen gericht op doelgroepen met de hoogste aantal uitvallers voor de RMC-regio.   In onderdeel 2 van het formulier wordt per maatregel onder A. aangegeven op welke doelgroep (1 tot en met 8) de maatregel van toepassing is. De kosten per maatregel variëren van 0 tot maximaal 5.000 euro per deelnemer. Uitgangspunt voor de kosten per deelnemer zijn de deelnemersaantallen voor de doelgroepen. Maatregelen waarbij de gemiddelde kosten per deelnemer hoger liggen dan € 5.000 worden afgewezen. Voor zover in het onderwijsprogramma maatregelen staan die een voortzetting zijn van, of grote overeenkomsten hebben met de maatregelen uit de Onderwijsprogramma’s 2008-2011, dient per maatregel bijlage K te worden ingevuld.  *Maatregelen waarbij niet voldaan wordt aan bovenstaande criteria worden afgewezen.*   
+
+– De aanvraag dient uiterlijk 15 september 2011 te zijn ontvangen bij DUO. Aanvragen die na deze datum worden ontvangen, worden afgewezen. Aanvragen worden alleen beoordeeld op het volledige ingevulde en door het bevoegd gezag van de contactschool ondertekende formulier. Bij het ontbreken van de handtekening wordt de aanvraag als onvolledig beschouwd en niet in behandeling genomen. Bij deze aanvraag dient een bewijs te worden bijgevoegd waaruit blijkt dat de verantwoordelijke wethouder van de contactgemeente van de RMC-regio, genoemd onder Onderdeel 1. instemt met deze aanvraag. Zonder dit bewijs wordt de aanvraag als onvolledig beschouwd en niet in behandeling genomen.    
+
+### Onderdeel  1  
+
+####Gegevens van de RMC-regio
+
+*Nummer en naam van de RMC-regio:*   *Naam accountmanager ministerie van OCW:*   *Beschikbaar subsidiebedrag voor 2012 voor de RMC-regio: €*  
+###Contactgemeente van de RMC-regio
+
+*Naam Wethouder contactgemeente:*   *Postadres:*   *Telefoon:*   *E-mailadres:*  
+###Contactschool van de RMC-regio
+
+*Naam*   *BRIN-nummer:*   *Voorzitter College van Bestuur:*   *Postadres:*   *Telefoonnummer:*   *E-mailadres:*  
+###Eventueel 3e Contactpersoon
+
+*Naam:*   *Functie:*   *Postadres:*   *Telefoonnummer:*   *E-mailadres:*   
+
+### Onderdeel  2  
+
+####Onderwijsprogramma van RMC-regio (maximaal 4 maatregelen)
+
+*Maatregel 1*  Naam: Gevraagd subsidiebedrag: € 
+
+A. Doelstelling kwalitatief (*S* pecifiek, max 200 woorden): 
+
+1. Op welke doelgroep is deze maatregel gericht (keuze uit 1 tot en met 8)?  
+
+2. Wat gaat deze maatregel verbeteren?  
+
+3. Wat is de activiteit?    
+
+B. Doelstelling kwantitatief (*M* eetbaar, max. 100w) 
+
+1. Op hoeveel deelnemers wordt deze maatregel ingezet. Let op: Als de kosten per deelnemer gemiddeld hoger liggen dan € 5.000 wordt de maatregel afgewezen.  
+
+2. Op welk aantal vsv’ers verwacht u met deze maatregel voor de doelgroep onder A1. uit te komen voor de RMC-regio ( M.a.w. welk percentage verwacht u voor deze doelgroep in de regio-factsheets voorlopige cijfers 2011–2012 en 2012–2013?)    
+
+C. Regie en samenwerking in de RMC-regio (*A* cceptabel, max. 100 w) 
+
+1. Welke (keten)partners zijn bij de uitvoering betrokken?  
+
+2. Hoe wordt de samenwerking met de partners ingevuld?    
+
+D. Haalbaarheid en implementatie: (*R* ealistisch & *T* ijdgebonden, max 100 w): 
+
+1. Is de maatregel in 1 jaar tijd op te zetten, te implementeren en te borgen?  
+
+2. Hoe is de borging geregeld?  
+
+3. Indien in borging niet is voorzien, hoe en door wie wordt het na 2012 voortgezet en betaald?     Heeft de maatregel overeenkomsten met de maatregelen uit de Onderwijsprogramma’s van 2008-2011 of is het een voortzetting daarvan? 0 Nee 0 Ja? Dan bijlage K toevoegen  *Maatregel 2, 3 en 4 Idem*   
+
+### Onderdeel  3  
+
+####Ondertekening
+
+– Bij deze aanvraag dient een bewijs te worden bijgevoegd waaruit blijkt dat de verantwoordelijk wethouder van de contactgemeente van de RMC-regio instemt met deze aanvraag. Dit bewijs kan worden geleverd door ondertekening van deze aanvraag.  
+
+– Alleen voor zover de samenwerkingsovereenkomst is gewijzigd ten opzichte van de meegestuurde samenwerkingsovereenkomst behorende bij de aanvraag subsidie voor onderwijsprogramma’s voor 2010 en 2011, dient een afschrift van de samenwerkingsovereenkomst tussen de contactschool en de deelnemende onderwijsinstellingen te worden meegezonden. Wijzigingen betreffen primair nieuwe toetredende partijen of inhoudelijke wijzigingen in de onderlinge afspraken.   
+###Naam bevoegd gezag van de contactschool
+
+*Plaats:*   *Datum:*   *Handtekening:*  
+###Optioneel
+
+*Handtekening verantwoordelijk wethouder van de contactgemeente van de RMC-regio*   *Plaats:*   *Datum:*   *Handtekening:*  
+###Toelichting
+
+Het formulier dient te worden gezonden aan: DUO Postbus 606 2700 ML Zoetermeer  
+
+### Bijlage  K  
+
+Behoort bij Maatregel  
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+| 0 1  | 0 2  | 0 3  | 0 4  |
+| Naam:  |
+
+Deze maatregel heeft overeenkomsten met Naam maatregel of maatregelen uit Onderwijsprogramma 2008–2011:  *Subsidiebedrag voor 2008 €*   *Subsidiebedrag voor 2009 €*   *Subsidiebedrag voor 2010 €*   *Subsidiebedrag voor 2011 €*  Kwalitatieve onderbouwing om subsidie te vragen voor een continuering van deze maatregel (Max 200w)  *(M.a.w. Wat is de reden waarom de maatregel moet worden voortgezet? Waarom is de maatregel nog niet geborgd?)*  Kwantitatieve onderbouwing om subsidie te vragen voor continuering van deze maatregel (Max 200w)  *(M.a.w. Wat is het bereikte resultaat op de vermindering van het aantal vsv’ers tot nu toe en wat is het te verwachte effect op de vermindering van het aantal vsv’ers bij voortzetting?)*  

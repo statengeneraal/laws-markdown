@@ -589,9 +589,11 @@ g. ambtskostuum;
 
 h. installatie;  
 
-i. bescherming bij de arbeid; en  
+i. de gevallen waarin berichten inzake de rechtspositie van de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding in afwijking van [artikel 2:14, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) uitsluitend elektronisch verzonden behoeven te worden en de voorwaarden die daarbij in acht worden genomen;  
 
-j. overige rechten en plichten.    
+j. bescherming bij de arbeid; en  
+
+k. overige rechten en plichten.    
 
 ### Artikel  55  
 
