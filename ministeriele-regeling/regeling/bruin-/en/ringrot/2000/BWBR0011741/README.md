@@ -122,7 +122,7 @@ Ligt ter inzage bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit te D
 
 ####bij artikel 2, tweede lid , van de Regeling bruin- en ringrot 2000
 
-Ligt ter inzage bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit, het kantoor van de Plantenziektenkundige Dienst te Wageningen en is gepubliceerd op de website www.minlnv.nl/pd.  
+Ligt ter inzage bij het Ministerie van Economische Zaken, Landbouw en Innovatie en het kantoor van de Plantenziektenkundige Dienst te Wageningen en is gepubliceerd op de website http://www.vwa.nl/onderwerpen/plantenziekten-en-plagen/dossier/bruinrot/beregeningsverboden.  
 
 ### Bijlage  3  
 

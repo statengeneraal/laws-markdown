@@ -48,7 +48,7 @@ k. staatloze: de persoon die voor de toepassing van het op 28 september 1954 te 
 
 l. vliegtuig: hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, onder c, van de Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md);  
 
-m. voertuig: hetgeen daaronder wordt verstaan in [artikel 1.1, onder bd, van het Voertuigreglement](../../../../AMvB/voertuigreglement/BWBR0006746/README.md);  
+m.  vervallen;   
 
 n. de Wet: de [Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
 
@@ -60,7 +60,13 @@ q. continentaal plat: hetgeen daaronder wordt verstaan in [artikel 1, onderdeel 
 
 r. gezinsvorming: gezinshereniging van de echtgenoot, geregistreerd partner of niet-geregistreerde partner, voor zover de gezinsband tot stand is gekomen op een tijdstip waarop de hoofdpersoon in Nederland hoofdverblijf had;  
 
-s. richtlijn 2005/71/EG: richtlijn 2005/71/EG van de Raad van 12 oktober 2005 betreffende een specifieke procedure voor de toelating van onderdanen van derde landen met het oog op wetenschappelijk onderzoek (PbEU L 289).    
+s. richtlijn 2005/71/EG: richtlijn 2005/71/EG van de Raad van 12 oktober 2005 betreffende een specifieke procedure voor de toelating van onderdanen van derde landen met het oog op wetenschappelijk onderzoek (PbEU L 289);  
+
+t. *tewerkstellingsvergunning:* de vergunning, bedoeld in [artikel 1, onder e, van de Wet arbeid vreemdelingen](../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md);  
+
+u. *richtlijn 2009/50/EG:* Richtlijn 2009/50/EG van de Raad van 25 mei 2009 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan (PbEU L 155);  
+
+v. *Europese blauwe kaart:* de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), afgegeven ter uitvoering van artikel 7 van richtlijn 2009/50/EG, dan wel een door een andere staat die partij is bij het Verdrag betreffende de werking van de Europese Unie afgegeven verblijfsvergunning ter uitvoering van dat artikel.    
 
 ### Artikel  1.2  
 
@@ -121,7 +127,12 @@ De commissie kan haar werkwijze nader vaststellen in een reglement van orde als 
 
 ### Artikel  2.1a  
 
-De toegang wordt niet geweigerd, indien de vreemdeling naar Nederland terugkeert als gezinslid van een langdurig ingezetene, die houder is van een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 20 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en die na verblijfsbeëindiging door een andere staat die partij is bij het Verdrag betreffende de werking van de Europese Unie uit die staat naar Nederland terugkeert.  
+1.  De toegang wordt niet geweigerd, indien de vreemdeling naar Nederland terugkeert als gezinslid van een langdurig ingezetene, die houder is van een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 20 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en die na verblijfsbeëindiging door een andere staat die partij is bij het Verdrag betreffende de werking van de Europese Unie uit die staat naar Nederland terugkeert.   
+2.  De toegang wordt evenmin geweigerd, indien de vreemdeling uit een andere staat die partij is bij het Verdrag betreffende de werking van de Europese Unie naar Nederland terugkeert als: 
+
+a. houder of voormalig houder van een door Onze Minister afgegeven Europese blauwe kaart;  
+
+b. gezinslid van een vreemdeling als bedoeld in onderdeel a, voor zover dat gezinslid houder is of is geweest van een door Onze Minister afgegeven verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder een beperking verband houdend met gezinshereniging of gezinsvorming met die vreemdeling.     
 
 ### Artikel  2.2  
 
@@ -420,10 +431,13 @@ z. werkzaamheid in het kader van grensoverschrijdende dienstverlening, als bedoe
 
 aa. verblijf als economisch niet-actieve langdurig ingezetene;  
 
-bb. verblijf als onderzoeker in de zin van richtlijn 2005/71/EG.     
+bb. verblijf als onderzoeker in de zin van richtlijn 2005/71/EG;  
+
+cc. verblijf als houder van de Europese blauwe kaart.     
 2.  De beperkingen, bedoeld in het eerste lid, kunnen nader worden omschreven bij de verlening van de verblijfsvergunning.   
 3.  Tenzij het doel waarvoor de vreemdeling in Nederland wil verblijven een zodanig verband houdt met de situatie in het land van herkomst dat voor de beoordeling daarvan naar het oordeel van Onze Minister de indiening van een aanvraag als bedoeld in [artikel 28 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) noodzakelijk is, kan Onze Minister de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), verlenen onder een andere beperking, dan genoemd in het eerste lid.   
-4.  Een beroep op de publieke middelen kan in ieder geval gevolgen hebben voor het verblijfsrecht, indien de verblijfsvergunning is verleend onder één van de beperkingen, bedoeld in het eerste lid, onder a tot en met r, en het derde lid. Bij ministeriële regeling kunnen regels worden gesteld over deze beperkingen.   
+4.  Een beroep op de publieke middelen kan in ieder geval gevolgen hebben voor het verblijfsrecht, indien de verblijfsvergunning is verleend onder één van de beperkingen, bedoeld in het eerste lid, onder a tot en met r, en het derde lid. Bij ministeriële regeling kunnen regels worden gesteld over deze beperkingen. Indien een beroep op de algemene middelen gevolgen kan hebben voor het verblijfsrecht, stelt Onze Minister de vreemdeling daarvan vooraf schriftelijk in kennis.   
+5.  Het vierde lid is mede van toepassing indien de verblijfsvergunning is verleend onder één van de beperkingen, bedoeld in het eerste lid, onder y tot en met cc.   
 
 ### Artikel  3.5  
 
@@ -469,7 +483,8 @@ r. verblijf als vreemdeling die buiten zijn schuld niet uit Nederland kan vertre
 s. werkzaamheid in het kader van grensoverschrijdende dienstverlening, als bedoeld in [artikel 1e van het Besluit uitvoering Wet arbeid vreemdelingen](../../../../AMvB/besluit/uitvoering/wet/arbeid/vreemdelingen/BWBR0007523/README.md);  
 
 t. het doorbrengen van verlof in Nederland.     
-3.  Indien de verblijfsvergunning is verleend onder een andere beperking dan genoemd in het tweede lid, is het verblijfsrecht niet-tijdelijk, tenzij bij de verlening van de verblijfsvergunning anders is bepaald.   
+3.  Bij regeling van Onze Minister kunnen ter uitvoering van verplichtingen die voortvloeien uit verdragen of uit verbindende besluiten van volkenrechtelijke organisaties, gevallen worden aangewezen waarin het verblijfsrecht, in afwijking van het tweede lid, niet-tijdelijk van aard is.   
+4.  Indien de verblijfsvergunning is verleend onder een andere beperking dan genoemd in het tweede lid, is het verblijfsrecht niet-tijdelijk, tenzij bij de verlening van de verblijfsvergunning anders is bepaald.   
 
 ### Artikel  3.6  
 
@@ -571,11 +586,7 @@ Zolang de vreemdeling of de hoofdpersoon met meer dan één andere persoon tegel
 
 ### Artikel  3.17  
 
-De verblijfsvergunning, bedoeld in artikel 3.13, eerste lid, wordt verleend, indien: 
-
-a. de vreemdeling en de hoofdpersoon samenwonen en een gemeenschappelijke huishouding voeren, en  
-
-b. het huwelijk of het geregistreerd partnerschap is ingeschreven in de gemeentelijke basisadministratie persoonsgegevens.    
+De verblijfsvergunning, bedoeld in artikel 3.13, eerste lid, wordt verleend, indien de vreemdeling en de hoofdpersoon samenwonen en een gemeenschappelijke huishouding voeren.  
 
 ### Artikel  3.18  
 
@@ -634,6 +645,24 @@ d. geen gevaar vormt voor de openbare orde als bedoeld in de artikelen 3.77 en 3
 e. geen gevaar vormt voor de nationale veiligheid.     
 2.  De verblijfsvergunning, bedoeld in het eerste lid, kan worden verleend onder een beperking verband houdend met gezinshereniging, aan het ongehuwde meerderjarige kind van de langdurig ingezetene, de echtgenoot of partner, bedoeld in het eerste lid, indien de achterlating van dat kind naar het oordeel van Onze Minister een onevenredige hardheid zou betekenen. De onderdelen a tot en met e van het eerste lid zijn van overeenkomstige toepassing.   
 3.  In afwijking van het eerste en tweede lid wordt de verblijfsvergunning niet verleend aan de ongehuwde partner of het kind van die partner, indien de relatie van die partner met de langdurig ingezetene niet duurzaam is of niet naar behoren is geattesteerd.   
+
+### Artikel  3.23b  
+
+1.  De verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 3.13, eerste lid, wordt verleend onder een beperking verband houdend met gezinshereniging of gezinsvorming, aan de echtgenoot, de geregistreerde partner dan wel de ongehuwde partner van de houder van de door Onze Minister afgegeven Europese blauwe kaart, en het minderjarige kind van die echtgenoot, partner of houder van de Europese blauwe kaart, indien: 
+
+a. dat kind, die echtgenoot of die partner in een andere staat die partij is bij het Verdrag betreffende de werking van de Europese Unie gedurende ten minste achttien maanden is toegelaten als gezinslid van die houder van de Europese blauwe kaart;  
+
+b. dat kind, die echtgenoot of die partner in het bezit is van een geldig document voor grensoverschrijding of een gewaarmerkt afschrift daarvan;  
+
+c. dat kind, die echtgenoot of die partner geen gevaar voor de openbare orde als bedoeld in de artikelen 3.77 en 3.78 of de nationale veiligheid vormt;  
+
+d.  dit onderdeel is nog niet in werking getreden.      
+2.  De verblijfsvergunning wordt verleend, indien de houder van de Europese blauwe kaart: 
+
+a. direct voorafgaande aan de verlening van die kaart door Onze Minister houder was van een door de autoriteiten van een andere staat die partij is bij het Verdrag betreffende de werking van de Europese Unie afgegeven Europese blauwe kaart;  
+
+b. duurzaam en zelfstandig beschikt over voldoende middelen van bestaan als bedoeld in artikel 3.74, eerste lid, onder a.     
+3.   Dit lid is nog niet in werking getreden.    
 
 ### Artikel  3.24  
 
@@ -734,6 +763,45 @@ d. in het internationale wegtransport in dienst van een Nederlandse werkgever, v
 4.  Voor de toepassing van het derde lid worden niet als onderbrekingen aangemerkt tussentijdse perioden van onvrijwillige werkloosheid, voorzover die in Nederland zijn doorgebracht en elk zes maanden of korter duurden, en die perioden in totaal niet langer dan twaalf maanden bedragen.   
 5.  De verblijfsvergunning kan aan een langdurig ingezetene worden verleend in afwijking van het eerste lid, onder a.   
 
+### Artikel  3.30a  
+
+1.  De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), kan worden verleend onder een beperking verband houdend met arbeid als kennismigrant aan een vreemdeling als bedoeld in [artikel 1d van het Besluit uitvoering Wet arbeid vreemdelingen](../../../../AMvB/besluit/uitvoering/wet/arbeid/vreemdelingen/BWBR0007523/README.md), tenzij het overeengekomen loon naar het oordeel van Onze Minister van Sociale Zaken en Werkgelegenheid sterk afwijkt van het loon dat voor de te verrichten werkzaamheden in overeenkomstige functies gebruikelijk is.   
+2.   Dit lid is nog niet in werking getreden.    
+
+### Artikel  3.30b  
+
+1.  De Europese blauwe kaart wordt verleend aan een vreemdeling als bedoeld in [artikel 1i van het Besluit uitvoering Wet arbeid vreemdelingen](../../../../AMvB/besluit/uitvoering/wet/arbeid/vreemdelingen/BWBR0007523/README.md), die: 
+
+a. beschikt over een geldige arbeidsovereenkomst of een bindend aanbod van een hooggekwalificeerde baan in de zin van artikel 2, onder b, van Richtlijn 2009/50/EG voor de duur van ten minste een jaar met een werkgever in Nederland, waarmee een bruto inkomen wordt verworven dat ten minste gelijk is aan het loon, bedoeld in [artikel 1i van het Besluit uitvoering Wet arbeid vreemdelingen](../../../../AMvB/besluit/uitvoering/wet/arbeid/vreemdelingen/BWBR0007523/README.md);  
+
+b. in Nederland arbeid verricht of gaat verrichten voor een werkgever aan wie in de periode van maximaal vijf jaar direct voorafgaande aan de aanvraag geen sanctie is opgelegd wegens overtreding van [artikel 2 van de Wet arbeid vreemdelingen](../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md) of wegens het niet of onvoldoende afdragen van loonbelasting, premies voor de werknemersverzekeringen of premies voor de volksverzekeringen;  
+
+c. voor zover hij een gereglementeerd beroep in de zin van [artikel 1 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) wil uitoefenen, beschikt over een erkenning van de beroepskwalificaties in de zin van [artikel 5 van die wet](../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), dan wel, voor zover hij geen gereglementeerd beroep wil uitoefenen, beschikt over voor dat beroep of de desbetreffende sector benodigde getuigschriften van hoger onderwijs in de zin van artikel 2, onder h, van richtlijn 2009/50/EG;  
+
+d. in het bezit is van een geldig document voor grensoverschrijding;  
+
+e. in het bezit is van een geldige machtiging tot voorlopig verblijf, afgegeven onder een beperking verband houdend met verblijf als houder van de Europese blauwe kaart, dan wel behoort tot een van de in [artikel 17 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of artikel 3.71, tweede lid, bedoelde categorieën, en  
+
+f. geen gevaar voor de openbare orde als bedoeld in de artikelen 3.77 en 3.78 of de nationale veiligheid vormt.     
+2.  Het eerste lid is niet van toepassing ten aanzien van de vreemdeling, die: 
+
+a. een aanvraag tot het verlenen van verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) heeft ingediend waarop nog niet onherroepelijk is beslist, dan wel houder is van een zodanige verblijfsvergunning;  
+
+b. een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) heeft ingediend als onderzoeker in de zin van richtlijn 2005/71/EG, waarop nog niet onherroepelijk is beslist;  
+
+c. gemeenschapsonderdaan of langdurig ingezetene is;  
+
+d. in Nederland verblijft op grond van een verdrag dat de toegang en het tijdelijk verblijf van bepaalde categorieën natuurlijke personen in verband met handel en investeringen gemakkelijker maken;  
+
+e. in Nederland verblijft als seizoensarbeider of als vreemdeling die onder Richtlijn 96/71/EG van het Europees Parlement en de Raad van 16 december 1996 betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten (PbEU 1997, L 18) valt en in Nederland ter beschikking is gesteld.     
+3.  De aanvraag wordt niet afgewezen op grond van [artikel 16, eerste lid, onder a, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), indien de vreemdeling: 
+
+a. houder is van een door de autoriteiten van een andere staat die partij is bij het Verdrag betreffende de werking van de Europese Unie afgegeven Europese blauwe kaart, en  
+
+b. ten minste achttien maanden in de staat, bedoeld in onderdeel a, als houder van die Europese blauwe kaart heeft verbleven.     
+4.   Dit lid is nog niet in werking getreden.    
+5.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de toepassing van het eerste en tweede lid.   
+
 ### Artikel  3.31  
 
 1.  Met inachtneming van het tweede lid en de artikelen 3.33 en 3.99 tot en met 3.104, wordt de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder een beperking verband houdend met het verrichten van arbeid in loondienst verleend aan de vreemdeling die in Nederland arbeid in loondienst verricht of gaat verrichten en waarvoor na toetsing aan prioriteitgenietend aanbod op de Nederlandse arbeidsmarkt een tewerkstellingsvergunning als bedoeld in [artikel 1, onder e, van de Wet arbeid vreemdelingen](../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md) is afgegeven.   
@@ -759,7 +827,7 @@ e. geen gevaar vormt voor de openbare orde of nationale veiligheid als bedoeld i
 
 ### Artikel  3.32  
 
-De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt niet verleend onder een beperking verband houdend met het verrichten van arbeid als zelfstandige of in loondienst, indien die arbeid geheel of gedeeltelijk bestaat uit het verrichten van seksuele handelingen met derden of het verlenen van seksuele diensten aan derden.  
+De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt niet verleend onder een beperking verband houdend met het verrichten van arbeid als zelfstandige of in loondienst, waaronder begrepen verblijf als houder van de Europese blauwe kaart, indien die arbeid geheel of gedeeltelijk bestaat uit het verrichten van seksuele handelingen met derden of het verlenen van seksuele diensten aan derden.  
 
 ### Artikel  3.33  
 
@@ -940,7 +1008,9 @@ a. slachtoffer-aangever is van mensenhandel, voorzover er sprake is van een stra
 
 b. slachtoffer is van mensenhandel, voorzover er sprake is van een strafrechtelijk opsporingsonderzoek of vervolgingsonderzoek naar of berechting in feitelijke aanleg van de verdachte van het strafbare feit, bedoeld in [artikel 273f van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), en het slachtoffer hieraan op andere wijze dan door het doen van aangifte medewerking verleent; of  
 
-c. getuige-aangever is van mensenhandel, voorzover er sprake is van een strafrechtelijk opsporingsonderzoek of vervolgingsonderzoek naar of berechting in feitelijke aanleg van de verdachte van het strafbare feit waarvan aangifte is gedaan en het verblijf in Nederland van de getuige-aangever naar het oordeel van Onze Minister in het belang van de opsporing of vervolging van de verdachte noodzakelijk is.     
+c. getuige-aangever is van mensenhandel, voorzover er sprake is van een strafrechtelijk opsporingsonderzoek of vervolgingsonderzoek naar of berechting in feitelijke aanleg van de verdachte van het strafbare feit waarvan aangifte is gedaan en het verblijf in Nederland van de getuige-aangever naar het oordeel van Onze Minister in het belang van de opsporing of vervolging van de verdachte noodzakelijk is;  
+
+d. zonder verblijfstitel slachtoffer is geworden van arbeidsgerelateerde uitbuiting, dan wel als minderjarige zonder verblijfstitel is tewerkgesteld, voor zover er sprake is van een strafrechtelijk opsporingsonderzoek of vervolgingsonderzoek naar of berechting in feitelijke aanleg van de voormalig werkgever en de vreemdeling hieraan medewerking verleent.     
 2.  De aanvraag wordt niet afgewezen op grond van [artikel 16, eerste lid, onder c, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
 
 ### Artikel  3.49  
@@ -982,6 +1052,11 @@ d. verblijf als vreemdeling die buiten zijn schuld niet uit Nederland kan vertre
 3.  De verblijfsvergunning kan eveneens worden verleend, indien de relatie tussen de vreemdeling aan wie de verblijfsvergunning onder een beperking verband houdend met gezinsvorming of gezinshereniging, of verblijf ter adoptie of als pleegkind is verleend en de persoon met het niet-tijdelijke verblijfsrecht door het overlijden van die persoon is verbroken.   
 4.  De aanvraag wordt niet afgewezen op grond van [artikel 16, eerste lid, onder c, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md). Artikel 3.80a is van toepassing   
 5.  Voor de toepassing van het eerste lid, onder a, en het derde lid, wordt onder persoon met niet-tijdelijk verblijfsrecht niet verstaan de houder van de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 28 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
+6.  De verblijfsvergunning kan eveneens worden verleend, indien de vreemdeling: 
+
+a. onmiddellijk voorafgaand aan de indiening van de aanvraag twee jaar rechtmatig verblijf in Nederland als bedoeld in [artikel 8, onder a, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) heeft gehad als gezinslid van een houder van een door Onze Minister afgegeven Europese blauwe kaart, en  
+
+b. op het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven, als gezinslid van de in onderdeel a bedoelde houder van de Europese blauwe kaart ten minste vijf jaar legaal en ononderbroken verblijf heeft gehad op het grondgebied van een staat die partij is bij het Verdrag betreffende de werking van de Europese Unie.     
 
 ### Artikel  3.52  
 
@@ -1072,6 +1147,11 @@ In afwijking van artikel 3.57 kan de verblijfsvergunning onder een beperking ver
 
 1.  In afwijking van artikel 3.57 kan de verblijfsvergunning met het oog op werkzaamheid in het kader van grensoverschrijdende dienstverlening, als bedoeld in [artikel 1e van het Besluit uitvoering Wet arbeid vreemdelingen](../../../../AMvB/besluit/uitvoering/wet/arbeid/vreemdelingen/BWBR0007523/README.md), worden verleend voor de duur van de werkzaamheden als vermeld in de krachtens [artikel 1e, tweede lid](../../../../AMvB/besluit/uitvoering/wet/arbeid/vreemdelingen/BWBR0007523/README.md), door de dienstverrichter verstrekte verklaring, met een maximum van twee jaren.   
 2.  De geldigheidsduur van de in het eerste lid bedoelde verblijfsvergunning wordt na twee jaren niet verlengd.   
+
+### Artikel  3.59c  
+
+1.  De Europese blauwe kaart wordt verleend met een geldigheidsduur tot drie maanden na afloop van de arbeidsovereenkomst, bedoeld in artikel 3.30b, eerste lid, onder a, maar niet langer dan vier jaar.   
+2.  De verblijfsvergunning op grond van artikel 3.23b wordt verleend voor de duur van het verblijfsrecht van de houder van de Europese blauwe kaart.   
 
 ### Artikel  3.60  
 
@@ -1203,10 +1283,10 @@ b. in bij regeling van Onze Minister aangewezen gevallen: 150 procent van het mi
 
 ### Artikel  3.75  
 
-1.  De in [artikel 16, eerste lid, onder c, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) bedoelde middelen van bestaan zijn duurzaam, indien zij nog één jaar beschikbaar zijn op het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven.   
-2.  Middelen van bestaan verkregen uit eigen vermogen zijn duurzaam, indien zij gedurende een aaneengesloten periode van een jaar beschikbaar zijn geweest en nog één jaar beschikbaar zijn op het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven.   
-3.  In afwijking van het eerste lid, zijn middelen van bestaan verkregen uit arbeid in loondienst eveneens duurzaam, indien op het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven gedurende een ononderbroken periode van drie jaren middelen van bestaan uit arbeid in loondienst zijn verworven en de middelen van bestaan gedurende nog zes maanden beschikbaar zijn. Indien tijdens de periode van drie jaren gedurende een periode van in totaal niet langer dan zesentwintig weken een werkloosheidsuitkering is ontvangen, wordt die uitkering gelijkgesteld met inkomen uit arbeid in loondienst.   
-4.  Bij ministeriële regeling kunnen regels worden gesteld ten aanzien van de duurzaamheid van middelen van bestaan uit arbeid als zelfstandige.   
+1.  De in [artikel 16, eerste lid, onder c, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) bedoelde middelen van bestaan zijn in ieder geval duurzaam, indien zij nog één jaar beschikbaar zijn op het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven.   
+2.  Middelen van bestaan verkregen uit eigen vermogen zijn duurzaam, indien zij gedurende een aaneengesloten periode van een jaar beschikbaar zijn geweest en nog beschikbaar zijn op het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven.   
+3.  In afwijking van het eerste lid, zijn middelen van bestaan verkregen uit arbeid in loondienst eveneens duurzaam, indien op het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven gedurende een aaneengesloten periode van drie jaren jaarlijks voldoende middelen van bestaan uit arbeid in loondienst zijn verworven en de middelen van bestaan nog beschikbaar zijn. Indien tijdens de periode van drie jaren gedurende een periode van in totaal niet langer dan zesentwintig weken een werkloosheidsuitkering is ontvangen, wordt die uitkering gelijkgesteld met inkomen uit arbeid in loondienst.   
+4.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten aanzien van de duurzaamheid van middelen van bestaan.   
 
 ### Artikel  3.76  
 
@@ -1290,7 +1370,8 @@ De aanvraag tot het verlengen van de geldigheidsduur van een verblijfsvergunning
 
 ### Artikel  3.84  
 
-De aanvraag tot het verlengen van de geldigheidsduur van een verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt niet op grond van [artikel 18, eerste lid, onder c, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) afgewezen om reden dat de vreemdeling onjuiste gegevens heeft verstrekt dan wel gegevens heeft achtergehouden die tot afwijzing van de oorspronkelijke aanvraag tot het verlenen of verlengen zouden hebben geleid, indien er sedert de verlening, verlenging of wijziging van de verblijfsvergunning een periode van twaalf jaren is verstreken.  
+1.  De aanvraag tot het verlengen van de geldigheidsduur van een verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt niet op grond van [artikel 18, eerste lid, onder c, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) afgewezen om reden dat de vreemdeling onjuiste gegevens heeft verstrekt dan wel gegevens heeft achtergehouden die tot afwijzing van de oorspronkelijke aanvraag tot het verlenen of verlengen zouden hebben geleid, indien er sedert de verlening, verlenging of wijziging van de verblijfsvergunning een periode van twaalf jaren is verstreken.   
+2.  Het eerste lid is niet van toepassing, indien de houder van de Europese blauwe kaart die kaart heeft vervalst, veranderd of op frauduleuze wijze heeft verkregen.   
 
 ### Artikel  3.85  
 
@@ -1303,7 +1384,7 @@ De aanvraag tot het verlengen van de geldigheidsduur van een verblijfsvergunning
 
 a. de vreemdeling met een verblijfsduur korter dan drie jaar wegens een misdrijf waartegen een gevangenisstraf van twee jaar of meer is bedreigd, bij onherroepelijk geworden rechterlijk vonnis een gevangenisstraf of jeugddetentie, een taakstraf of een maatregel als bedoeld in [artikel 37a](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [38m](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [77h, vierde lid, onder a of b, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is opgelegd, bij onherroepelijke strafbeschikking een taakstraf is opgelegd, dan wel het buitenlandse equivalent van een dergelijke straf of maatregel is opgelegd, en de totale duur van de onvoorwaardelijk ten uitvoer te leggen gedeelten van die straffen en maatregelen ten minste gelijk is aan de in het tweede lid bedoelde norm;  
 
-b. de vreemdeling wegens een misdrijf waartegen een gevangenisstraf van drie jaar of meer is bedreigd, bij onherroepelijk geworden rechterlijk vonnis een gevangenisstraf of jeugddetentie, een taakstraf of een maatregel als bedoeld in [artikel 37a](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [38m](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [77h, vierde lid, onder a of b, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is opgelegd, bij onherroepelijke strafbeschikking een taakstraf is opgelegd, dan wel het buitenlandse equivalent van een dergelijke straf of maatregel is opgelegd, en de totale duur van de onvoorwaardelijk ten uitvoer te leggen gedeelten van die straffen en maatregelen ten minste gelijk ten minste gelijk is aan de in het tweede lid bedoelde norm.     
+b. de vreemdeling wegens een misdrijf waartegen een gevangenisstraf van drie jaar of meer is bedreigd, bij onherroepelijk geworden rechterlijk vonnis een gevangenisstraf of jeugddetentie, een taakstraf of een maatregel als bedoeld in [artikel 37a](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [38m](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [77h, vierde lid, onder a of b, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is opgelegd, bij onherroepelijke strafbeschikking een taakstraf is opgelegd, dan wel het buitenlandse equivalent van een dergelijke straf of maatregel is opgelegd, en de totale duur van de onvoorwaardelijk ten uitvoer te leggen gedeelten van die straffen en maatregelen ten minste gelijk is aan de in het tweede lid bedoelde norm.     
 2.  De in het eerste lid, bedoelde norm bedraagt bij een verblijfsduur van:  
 
 | --- | --- |
@@ -1322,7 +1403,7 @@ b. de vreemdeling wegens een misdrijf waartegen een gevangenisstraf van drie jaa
 | ten minste 15 jaar, maar minder dan 20 jaar:  | 96 maanden.  |
 
 3.  Bij de toepassing van het eerste en tweede lid wordt de duur van het onvoorwaardelijk opgelegde gedeelte van de gevangenisstraf wegens een misdrijf waartegen een gevangenisstraf van meer dan zes jaar is bedreigd, met de factor twee vermenigvuldigd.   
-4.  De aanvraag kan voorts worden afgewezen op grond van [artikel 18, eerste lid, onder e, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), indien de vreemdeling wegens ten minste vijf misdrijven, dan wel bij een verblijfsduur korter dan twee jaar wegens ten minste drie misdrijven, bij onherroepelijk geworden rechterlijk vonnis een gevangenisstraf of jeugddetentie, een taakstraf of een maatregel als bedoeld in [artikel 37a](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [38m](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [77h, vierde lid, onder a of b, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is opgelegd, bij onherroepelijke strafbeschikking een taakstraf is opgelegd, dan wel het buitenlandse equivalent van een dergelijke straf of maatregel is opgelegd, en de totale duur van de onvoorwaardelijk ten uitvoer te leggen gedeelten van die straffen en maatregelen ten minste gelijk ten minste gelijk is aan de in het vijfde lid bedoelde norm.   
+4.  De aanvraag kan voorts worden afgewezen op grond van [artikel 18, eerste lid, onder e, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), indien de vreemdeling wegens ten minste vijf misdrijven, dan wel bij een verblijfsduur korter dan twee jaar wegens ten minste drie misdrijven, bij onherroepelijk geworden rechterlijk vonnis een gevangenisstraf of jeugddetentie, een taakstraf of een maatregel als bedoeld in [artikel 37a](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [38m](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [77h, vierde lid, onder a of b, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is opgelegd, bij onherroepelijke strafbeschikking een taakstraf is opgelegd, dan wel het buitenlandse equivalent van een dergelijke straf of maatregel is opgelegd, en de totale duur van de onvoorwaardelijk ten uitvoer te leggen gedeelten van die straffen en maatregelen ten minste gelijk is aan de in het vijfde lid bedoelde norm.   
 5.  De in het vierde lid bedoelde norm bedraagt bij een verblijfsduur van:  
 
 | --- | --- |
@@ -1499,11 +1580,20 @@ b. als langdurig ingezetene houder is geweest van een verblijfsvergunning voor o
 
 2°. verblijf buiten het grondgebied van de Gemeenschap gedurende een aaneengesloten periode van tenminste twaalf maanden, indien de aanvraag wordt gedaan binnen twaalf maanden na het onherroepelijk worden van het verlies, of  
 
-3°. verkrijging van de status van langdurig ingezetene in een andere staat als bedoeld onder 1°, indien de aanvraag wordt gedaan binnen twaalf maanden na het onherroepelijk worden van het verlies.       
+3°. verkrijging van de status van langdurig ingezetene in een andere staat als bedoeld onder 1°, indien de aanvraag wordt gedaan binnen twaalf maanden na het onherroepelijk worden van het verlies;    
+
+c. de vreemdeling vijf jaar legaal en ononderbroken op het grondgebied van de Europese Unie verblijft als houder van een Europese blauwe kaart, onmiddellijk voorafgaand aan de indiening van de aanvraag ten minste achttien achtereenvolgende maanden als houder van een Europese blauwe kaart in een andere staat die partij is bij het Verdrag betreffende de werking van de Europese Unie en ten minste twee achtereenvolgende jaren direct voorafgaande aan de aanvraag als houder van een door Onze Minister afgegeven Europese blauwe kaart in Nederland heeft verbleven, waarbij perioden van afwezigheid van het grondgebied van de Europese Unie geen onderbreking vormen van de termijn van vijf jaar, indien zij minder dan twaalf achtereenvolgende maanden beslaan en niet langer dan achttien maanden hebben geduurd;  
+
+d. de vreemdeling als houder van een Europese blauwe kaart in de periode van vijf jaar niet langer dan twaalf achtereenvolgende maanden en in totaal niet langer dan achttien maanden buiten Nederland heeft verbleven.     
 4.  Voor de toepassing van [artikel 21, eerste lid, onder d, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zijn de artikelen 3.73 tot en met 3.76 van overeenkomstige toepassing.   
 5.  Behoudens gevallen als bedoeld in artikel 3.87, kan de aanvraag slechts op grond van [artikel 21, eerste lid, onder e, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) worden afgewezen, indien de totale duur van de straffen of maatregelen ten minste gelijk is aan de normen, bedoeld in artikel 3.86, eerste dan wel tweede lid. Artikel 3.86, derde tot en met negende lid, is van overeenkomstige toepassing.   
 6.  Bij de toepassing van het vijfde lid houdt Onze Minister mede rekening met de ernst van de inbreuk of het soort van inbreuk dat door de vreemdeling op de openbare orde is gepleegd, respectievelijk met het gevaar dat van de vreemdeling uitgaat en het bestaan van banden met Nederland.   
 7.  In de gevallen, bedoeld in het eerste lid, wordt bij de berekening van het tijdvak van vijf jaar buiten beschouwing gelaten het gedeelte van het verblijf buiten Nederland, dat tien maanden in totaal of bij aaneengesloten verblijf buiten Nederland zes maanden te boven gaat.   
+8.  Bij regeling van Onze Minister kan worden bepaald dat het derde lid, aanhef en onder c en d, slechts van toepassing is, indien de vreemdeling het in die onderdelen bedoelde grondgebied van de Europese Unie, respectievelijk Nederland heeft verlaten om in het land van herkomst: 
+
+a. arbeid in loondienst of als zelfstandige, dan wel vrijwilligerswerk te verrichten;  
+
+b. een studie te volgen.     
 
 ### Paragraaf  2  
 
@@ -1554,12 +1644,19 @@ a. niet het hoofdverblijf buiten Nederland heeft verplaatst;
 
 b. aantoont dat hij langer dan zes jaar voor studie verblijft in een andere staat die partij is bij het Verdrag betreffende de werking van de Europese Unie; of  
 
-c. aantoont dat hij, in geval van verblijf gedurende een aaneengesloten periode van twaalf maanden of meer buiten het grondgebied van de staten die partij zijn bij het Verdrag betreffende de werking van de Europese Unie, gedurende die periode op het grondgebied heeft verbleven van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992, dan wel de Zwitserse Bondsstaat, tenzij hij langer dan zes jaar afwezig is geweest van het Nederlands grondgebied.     
+c. aantoont dat hij, in geval van verblijf gedurende een aaneengesloten periode van twaalf maanden of meer buiten het grondgebied van de staten die partij zijn bij het Verdrag betreffende de werking van de Europese Unie, gedurende die periode op het grondgebied heeft verbleven van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992, dan wel de Zwitserse Bondsstaat, tenzij hij langer dan zes jaar afwezig is geweest van het Nederlands grondgebied;  
+
+d. voormalig houder van een Europese blauwe kaart is, dan wel het gezinslid van een voormalig houder van een Europese blauwe kaart is, en niet langer dan een aaneengesloten periode van 24 maanden heeft verbleven buiten het grondgebied van de staten die partij zijn bij het Verdrag betreffende de werking van de Europese Unie, bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992, dan wel van de Zwitserse Bondsstaat.     
 2.  Indien de verblijfsvergunning voor onbepaalde tijd, bedoeld in [artikel 20 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), op frauduleuze wijze is verkregen, wordt de verblijfsvergunning ingetrokken op de in [artikel 22, eerste lid, onder b, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) genoemde grond, tenzij sedert de verkrijging een periode van twaalf jaren is verstreken, in welk geval de verblijfsvergunning wordt gewijzigd, indien daarop de aantekening «EG-langdurig ingezetene» was gesteld.   
 3.  De verblijfsvergunning voor onbepaalde tijd, bedoeld in [artikel 20 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), kan slechts op grond van [artikel 22, eerste lid, onder c, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) worden ingetrokken, indien de totale duur van de straffen of maatregelen ten minste gelijk is aan de toepasselijke norm, bedoeld in artikel 3.86, tweede en vijfde lid. Artikel 3.86 is van overeenkomstige toepassing.   
 4.  Onze Minister houdt bij de toepassing van het derde lid mede rekening met de ernst van de inbreuk of het soort inbreuk dat door de vreemdeling op de openbare orde is gepleegd, respectievelijk met het gevaar dat van de vreemdeling uitgaat.   
 5.  Bij de toepassing van het derde lid houdt Onze Minister tevens rekening met de leeftijd van de vreemdeling, de gevolgen voor de vreemdeling en de leden van zijn gezin, het bestaan van banden met Nederland dan wel het ontbreken van banden met het land van herkomst.   
 6.  Indien de intrekking van de verblijfsvergunning voor onbepaalde tijd, bedoeld in [artikel 20 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), overeenkomstig het derde lid niet leidt tot verwijdering, wordt de verblijfsvergunning gewijzigd, in geval daarop de aantekening «EG-langdurig ingezetene» was gesteld, door die aantekening te vervangen door de aantekening «II».   
+7.  Bij regeling van Onze Minister kan worden bepaald dat het eerste lid, aanhef en onder d, slechts van toepassing is, indien de vreemdeling het in dat onderdeel bedoelde grondgebied heeft verlaten om in het land van herkomst: 
+
+a. arbeid in loondienst of als zelfstandige, dan wel vrijwilligerswerk te verrichten;  
+
+b. een studie te volgen.     
 
 ### Artikel  3.96a  
 
@@ -1678,7 +1775,8 @@ De aanvraag wordt getoetst aan het recht dat gold op het tijdstip waarop de aanv
 1.  Indien Onze Minister een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) verleent aan of verlengt van een vreemdeling die houder is van een door een andere staat die partij is bij het Verdrag betreffende de werking van de Europese Unie, ter uitvoering van artikel 8 van de Richtlijn nr. 2003/109/EG van de Raad van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU 2004, L16) afgegeven EG-verblijfsvergunning voor langdurig ingezetenen, doet hij daarvan mededeling aan de autoriteiten van die staat. Indien Onze Minister aan die houder ter uitvoering van artikel 8, tweede lid, van deze richtlijn een EG-verblijfsvergunning voor langdurig ingezetenen verleent, doet hij daarvan eveneens mededeling aan die autoriteiten.   
 2.  Het eerste lid is van overeenkomstige toepassing indien Onze Minister besluit de verblijfsvergunning van de in het eerste lid bedoelde houder in te trekken of niet te verlengen.   
 3.  Indien Onze Minister overweegt een vreemdeling, die houder is als bedoeld in het eerste lid, uit te zetten naar een staat die geen partij is bij het Verdrag, bedoeld in het eerste lid, raadpleegt hij de autoriteiten van de andere staat, bedoeld in het eerste lid. Indien Onze Minister dienovereenkomstig besluit uit te zetten, verstrekt hij die autoriteiten alle nodige informatie met betrekking tot de uitzetting.   
-4.  Onze Minister vormt het contactpunt dat door een staat als bedoeld in het eerste lid kan worden geraadpleegd, ter uitvoering van de in het eerste lid bedoelde richtlijn, en is verantwoordelijk voor het ontvangen en toezenden van de informatie, bedoeld in de voorgaande leden.   
+4.  Indien Onze Minister beslist op een aanvraag tot het verlenen van een Europese blauwe kaart ten behoeve van een vreemdeling die door een andere staat die partij is bij het Verdrag betreffende de werking van de Europese Unie reeds in het bezit is gesteld van een Europese blauwe kaart, doet hij daarvan mededeling aan de autoriteiten van die andere staat.   
+5.  Onze Minister vormt het contactpunt dat door een staat als bedoeld in het eerste en vierde lid kan worden geraadpleegd, ter uitvoering van de in het eerste en vierde lid bedoelde richtlijn, en is verantwoordelijk voor het ontvangen en toezenden van de informatie, bedoeld in de voorgaande leden.   
 
 ### Artikel  3.104  
 
@@ -2117,6 +2215,20 @@ c. gegevens over de uitzetting van vreemdelingen, en
 
 d. gegevens over de uitvoering van het toezicht op vreemdelingen.     
 
+### Artikel  4.17a  
+
+1.  De bevoegdheid, bedoeld in [artikel 50, eerste lid, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), om ter bestrijding van illegaal verblijf na grensoverschrijding personen staande te houden ter vaststelling van hun identiteit, nationaliteit en verblijfsrechtelijke positie, wordt uitsluitend uitgeoefend in het kader van toezicht op vreemdelingen: 
+
+a. op luchthavens bij de aankomst van vluchten vanuit het Schengengebied;  
+
+b. in treinen gedurende ten hoogste dertig minuten na het passeren van de gemeenschappelijke landgrens met België of Duitsland of, als binnen deze periode het tweede station na het passeren van de grens nog niet is bereikt, tot uiterlijk het tweede station na het passeren van de grens;  
+
+c. op wegen en vaarwegen in een gebied tot twintig kilometer vanaf de gemeenschappelijke landgrens met België of Duitsland.     
+2.  Het toezicht, bedoeld in het eerste lid, wordt uitgevoerd op basis van informatie of ervaringsgegevens over illegaal verblijf na grensoverschrijding. Het toezicht kan daarnaast in beperkte mate worden uitgevoerd met het oog op het verkrijgen van informatie over dergelijk illegaal verblijf.   
+3.  Het toezicht, bedoeld in het eerste lid, onderdeel a, wordt ten hoogste zeven keer per week uitgevoerd ten aanzien van vluchten op eenzelfde vliegroute, met een maximum van eenderde van het totale aantal geplande vluchten per maand op die vliegroute. In het kader van dit toezicht wordt slechts een deel van de passagiers op een vlucht staande gehouden.   
+4.  Het toezicht, bedoeld in het eerste lid, onderdeel b, wordt per dag in ten hoogste twee treinen per traject en ten hoogste acht treinen in totaal uitgevoerd, en per trein in ten hoogste twee treincoupés.   
+5.  Het toezicht, bedoeld in het eerste lid, onderdeel c, wordt op eenzelfde weg of vaarweg ten hoogste negentig uur per maand en ten hoogste zes uur per dag uitgevoerd. In het kader van dit toezicht wordt slechts een deel van de passerende vervoermiddelen stilgehouden.   
+
 ### Artikel  4.18  
 
 1.  Aan de vreemdeling die met toepassing van [artikel 50, tweede of derde lid, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is overgebracht naar een plaats, bestemd voor verhoor, wordt tijdig mededeling gedaan van de hem toekomende bevoegdheid zich bij het verhoor te doen bijstaan door een raadsman.   
@@ -2360,7 +2472,8 @@ c. naar Nederland is gekomen om aan te monsteren of als zeeman werk te zoeken aa
 
 ### Artikel  4.43  
 
-De vreemdeling die rechtmatig verblijft als bedoeld in [artikel 8, onder a, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en die niet langer voldoet aan de beperking waaronder de verblijfsvergunning is verleend, deelt dit onmiddellijk mee aan de korpschef van het regionale politiekorps waarin de gemeente waar de vreemdeling verblijft is gelegen.  
+1.  De vreemdeling die rechtmatig verblijft als bedoeld in [artikel 8, onder a, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en die niet langer voldoet aan de beperking waaronder de verblijfsvergunning is verleend, deelt dit onmiddellijk mee aan de korpschef van het regionale politiekorps waarin de gemeente waar de vreemdeling verblijft is gelegen.   
+2.  Onverminderd het eerste lid, stelt de houder van de door Onze Minister afgegeven Europese blauwe kaart, voor zover deze nog geen drie jaar als houder van die kaart in Nederland verblijft, Onze Minister vooraf in kennis van zijn voornemen om een arbeidsovereenkomst te sluiten met een andere werkgever. Hij stelt Onze Minister zo mogelijk vooraf in kennis van zijn werkloosheid en van andere wijzigingen die van belang kunnen zijn voor de intrekking van de Europese blauwe kaart.   
 
 ### Artikel  4.44  
 
@@ -2499,6 +2612,7 @@ a. een verplichting zich bij verblijf in Nederland in een bepaald gedeelte van N
 
 b. een verplichting zich te houden aan een verbod om zich in een bepaald gedeelte of bepaalde gedeelten van Nederland te bevinden.     
 2.  De maatregel, bedoeld in het eerste lid, wordt niet opgelegd aan de vreemdeling die rechtmatig verblijf heeft op grond van [artikel 8, onderdeel a, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en houder is van een EG-verblijfsvergunning voor langdurig ingezetenen die is afgegeven door een andere staat die partij is bij het Verdrag betreffende de werking van de Europese Unie anders dan om redenen van veiligheid.   
+3.  De maatregel wordt evenmin opgelegd aan een houder van een door Onze Minister afgegeven Europese blauwe kaart anders dan om redenen van veiligheid.   
 
 ### Paragraaf  2  
 
@@ -3057,71 +3171,10 @@ k. de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, 
 
 ####Overgangs- en slotbepalingen
 
-### Artikel  9.1  
-
-Bij de berekening van de periode van rechtmatig verblijf, als bedoeld in: 
-
-a. [artikel 8, onder a tot en met e, dan wel l, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt mede betrokken de periode van verblijf op grond van de artikelen 9, 9a of  10 van de Vreemdelingenwet alsmede de periode waarin verblijfsrecht werd ontleend aan het Associatiebesluit 1/80 van de Associatieraad EEG/Turkije;  
-
-b. [artikel 8, onder f, g en h, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt mede betrokken de periode van rechtmatig verblijf als bedoeld in artikel 1b, onder 3, van de Vreemdelingenwet;  
-
-c. [artikel 8, onder i, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt mede betrokken de periode van rechtmatig verblijf als bedoeld in artikel 1b, onder 4, van de Vreemdelingenwet;  
-
-d. [artikel 8, onder j, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt mede betrokken de periode van rechtmatig verblijf op grond van artikel 1b, onder 5 van de Vreemdelingenwet.    
-
-### Artikel  9.3  
-
-Voor de toepassing van artikel 3.14, onder c, wordt met een minderjarig kind gelijk gesteld het biologische of het juridische kind: 
-
-a. dat nog geen twintig jaren oud is en niet gehuwd of geregistreerd is, of is geweest, of met toepassing van [artikel 253ha van Boek I van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) meerderjarig is verklaard;  
-
-b. wiens aanvraag tot het verlenen van een vergunning tot verblijf in het kader van gezinshereniging is afgewezen op de enkele grond dat de ouder bij wie hij wil verblijven, niet beschikt over passende huisvesting;  
-
-c. wiens ouder bij wie hij wil verblijven, sedert het tijdstip waarop de vreemdeling nog geen vijftien jaren oud was, als woningzoekende is ingeschreven, en  
-
-d. dat tegelijkertijd met de overige gezinsleden om verblijf in Nederland vraagt.    
-
-### Artikel  9.4  
-
-1.  De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), kan onder een beperking verband houdend met voortgezet verblijf als bedoeld in artikel 3.4, eerste lid, onder u, worden verleend aan de vreemdeling die inmiddels achttien jaar oud is en aan wie een vergunning tot verblijf onder de beperking verband houdende met verblijf als alleenstaande minderjarige asielzoeker is verleend op grond van een asielaanvraag, welke is ingediend vóór een door Onze Minister te bepalen tijdstip.   
-2.  De aanvraag wordt niet afgewezen op de grond dat de vreemdeling nog geen drie jaren in Nederland verblijft als houder van een verblijfsvergunning als bedoeld in artikel 3.51, eerste lid.   
-3.  De aanvraag wordt niet afgewezen op grond van [artikel 16, eerste lid, onder c, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
-
-### Artikel  9.5  
-
-1.  Gedurende drie jaren na het tijdstip van inwerkingtreding van de Wet, kan de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder een beperking verband houdend met voortgezet verblijf, als bedoeld in artikel 3.4, eerste lid, onder u, worden verleend aan de vreemdeling, die voor het tijdstip van inwerkingtreding van deWet: 
-
-a. drie jaren in Nederland heeft verbleven als houder van een verblijfsvergunning onder een beperking verband houdend met gezinshereniging of gezinsvorming met een persoon met niet-tijdelijk verblijfsrecht, of  
-
-b. als echtgenoot, partner of kind, waaronder begrepen pleegkind of adoptiefkind, van een persoon met niet-tijdelijk verblijfsrecht verblijf was toegelaten, indien deze persoon is overleden.     
-2.  De verblijfsvergunning kan worden verleend, indien de vreemdeling rechtmatig verblijf in Nederland heeft behouden en het hoofdverblijf niet buiten Nederland heeft gevestigd.   
-
-### Artikel  9.6  
-
-1.  De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), kan worden verleend onder een beperking verband houdend met het zoeken en verrichten van arbeid al dan niet in loondienst, als bedoeld in artikel 3.4, eerste lid, onder h, aan de vreemdeling wiens huwelijk met een persoon met niet-tijdelijk verblijfsrecht na drie jaar is ontwricht of ontbonden, indien de vreemdeling op een door Onze Minister te bepalen tijdstip op grond van dat huwelijk was toegelaten en één jaar direct voorafgaande aan ontwrichting of ontbinding van het huwelijk rechtmatig verblijf als bedoeld in [artikel 8, onder a, van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in Nederland had.   
-2.  De verblijfsvergunning wordt verleend voor de duur van ten hoogste één jaar, te berekenen vanaf de datum van verbreking of ontwrichting van het huwelijk, of zoveel langer als de vreemdeling wegens het ontbreken van een verblijfsvergunning geen toegang tot de arbeidsmarkt had.   
-3.  De verblijfsvergunning kan worden gewijzigd in een verblijfsvergunning onder een beperking verband houdend met voortgezet verblijf, indien de vreemdeling uiterlijk op het moment waarop de geldigheidsduur verstrijkt, beschikt over een arbeidsplaats voor nog een jaar waarmee hij zelfstandig en duurzaam voldoende middelen van bestaan verwerft.   
-
-### Artikel  9.7  
-
-Artikel 3.41, eerste lid, onder a, blijft buiten toepassing zolang geen onderwijsinstellingen bij ministeriële regeling zijn aangewezen. In plaats daarvan blijft het oude recht van toepassing.  
-
-### Artikel  9.8  
-
-Voor de toepassing van de artikelen 3.20, tweede lid, en 3.77, eerste lid, onder c, wordt onder taakstraf mede verstaan de voor inwerkingtreding van de [Wet van 7 september 2000 tot wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering en enige andere wetten omtrent de straf van onbetaalde arbeid ten algemene nutte (taakstraffen) (Stb. 2000, 365)](../../../../wet/wijzigingswet/wetboek/van/strafrecht/enz./(straf/van/onbetaalde/arbeid/ten/etc/BWBR0011615/README.md) opgelegde straf tot het verrichten van arbeid ten algemene nutte, bedoeld in [artikel 22b van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).  
-
 ### Artikel  9.9  
 
 1.  Bij de toepassing van de artikelen 3.86, eerste lid, onder c, 3.95 en 3.98 blijft buiten beschouwing de periode van de terbeschikkingstelling, die op het tijdstip van inwerkingtreding van de Wet reeds was beëindigd.   
 2.  Het eerste lid is niet van toepassing, indien de vreemdeling na beëindiging van de maatregel wederom een misdrijf heeft gepleegd, waartegen een gevangenisstraf van drie jaren of meer is bedreigd.   
-
-### Artikel  9.10  
-
-Indien de vreemdeling wegens afloop van de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 28 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), die hem is verleend na omzetting van rechtswege van de voorwaardelijke vergunning tot verblijf op grond van [artikel 115 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), een aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 28 van de Wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) indient, kan deze verblijfsvergunning worden verleend voor minder dan drie achtereenvolgende jaren.  
-
-### Artikel  9.11  
-
-Het Vreemdelingenbesluit wordt ingetrokken.  
 
 ### Artikel  9.12  
 

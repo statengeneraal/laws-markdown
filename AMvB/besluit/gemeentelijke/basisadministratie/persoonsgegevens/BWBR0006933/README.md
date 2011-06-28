@@ -172,9 +172,9 @@ b. verstrekkingen uit het vestigingsregister: de verstrekking op verzoek van de 
 4.  De systeembeschrijving geeft tevens een beschrijving van de verzending en de ontvangst van berichten over het netwerk in verband met de in [artikel 58 van de wet](../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) bedoelde mededeling over het verblijfsrecht.   
 5.  De systeembeschrijving geeft tevens een beschrijving van: 
 
-a. de verzending en ontvangst van de algemene, bijzondere en verwijsgegevens aan een verantwoordelijke voor de verwerking van gegevens in een basisadministratie in Aruba, Curaçao of Sint Maarten, bedoeld in [artikel 100a van de wet](../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md).  
+a. de verzending en ontvangst van de algemene, bijzondere en verwijsgegevens aan een verantwoordelijke voor de verwerking van gegevens in een basisadministratie in Aruba, Curaçao, Sint Maarten of een van de openbare lichamen, bedoeld in [artikel 100a van de wet](../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md).  
 
-b. de verwerking van mededelingen van een verantwoordelijke voor de verwerking van gegevens in een basisadministratie in Aruba, Curaçao of Sint Maarten, bedoeld in [artikel 113, eerste lid, onder b, van de wet](../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md).     
+b. de verwerking van mededelingen van een verantwoordelijke voor de verwerking van gegevens in een basisadministratie in Aruba, Curaçao, Sint Maarten of een van de openbare lichamen, bedoeld in [artikel 113, eerste lid, onder b, van de wet](../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md).     
 6.  De beschrijving omvat in ieder geval de in artikel 13 en in de paragrafen 2, 4, en 6 van deze afdeling genoemde onderwerpen.   
 
 ### Artikel  13  
@@ -616,11 +616,11 @@ Op de persoonslijst van een ingeschreven vreemdeling die geen ingezetene is in v
 
 ### §  9  
 
-####Inschrijving van personen afkomstig uit de Nederlandse Antillen of Aruba
+####Inschrijving van personen afkomstig uit Aruba, Curaçao, Sint Maarten of een van de openbare lichamen
 
 ### Artikel  63b  
 
-Aan de in [artikel 113, eerste lid, onder b, van de wet](../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) bedoelde mededeling van een verantwoordelijke voor de verwerking van gegevens in de basisadministratie in Aruba, Curaçao of Sint Maarten, worden de noodzakelijke gegevens ontleend voor de inschrijving als ingezetene in de basisadministratie.  
+Aan de in [artikel 113, eerste lid, onder b, van de wet](../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) bedoelde mededeling van een verantwoordelijke voor de verwerking van gegevens in de basisadministratie in Aruba, Curaçao, Sint Maarten of een van de openbare lichamen, worden de noodzakelijke gegevens ontleend voor de inschrijving als ingezetene in de basisadministratie.  
 
 ### Hoofdstuk  3  
 
@@ -813,11 +813,11 @@ De bijzondere derde gebruikt de uit de basisadministraties afkomstige gegevens s
 
 ### §  2b  
 
-####De verstrekking van gegevens uit de basisadministraties in verband met het vertrek van een persoon naar de Nederlandse Antillen of Aruba
+####De verstrekking van gegevens uit de basisadministraties in verband met het vertrek van een persoon naar Aruba, Curaçao, Sint Maarten of een van de openbare lichamen
 
 ### Artikel  68h  
 
-1.  Indien een persoon aangifte van vertrek heeft gedaan en daarbij meldt te gaan verblijven in Aruba, Curaçao of Sint Maarten, verstrekt de verantwoordelijke voor de verwerking van gegevens in de basisadministratie waar de betrokken persoon laatstelijk als ingezetene was ingeschreven, de gegevens als bedoeld in [artikel 114a, eerste lid, van de wet](../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) aan de verantwoordelijke voor de verwerking van gegevens in het vestigingsregister.   
+1.  Indien een persoon aangifte van vertrek heeft gedaan en daarbij meldt te gaan verblijven in Aruba, Curaçao, Sint Maarten of een van de openbare lichamen, verstrekt de verantwoordelijke voor de verwerking van gegevens in de basisadministratie waar de betrokken persoon laatstelijk als ingezetene was ingeschreven, de gegevens als bedoeld in [artikel 114a, eerste lid, van de wet](../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) aan de verantwoordelijke voor de verwerking van gegevens in het vestigingsregister.   
 2.  De verstrekking, bedoeld in het eerste lid, geschiedt op de wijze als beschreven in de systeembeschrijving.   
 
 ### §  2c  
@@ -942,7 +942,7 @@ Bij de indiening van een verzoek tot het nemen van een autorisatiebesluit maakt 
 
 ### Artikel  79c  
 
-Onze Minister stelt bij ministeriële regeling regels over de wijze van verstrekking van gegevens uit het vestigingsregister aan een verantwoordelijke voor de verwerking van gegevens in een basisadministratie in Aruba, Curaçao of Sint Maarten.  
+Onze Minister stelt bij ministeriële regeling regels over de wijze van verstrekking van gegevens uit het vestigingsregister aan een verantwoordelijke voor de verwerking van gegevens in een basisadministratie in Aruba, Curaçao, Sint Maarten of een van de openbare lichamen.  
 
 ### §  4  
 
@@ -952,7 +952,7 @@ Onze Minister stelt bij ministeriële regeling regels over de wijze van verstrek
 
 1.  Onze Minister stelt regels over heffingen in verband met de verstrekking uit het vestigingsregister van gegevens aan derden, anders dan overeenkomstig [artikel 99](../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) of [100a van de wet](../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), en van hem betreffende gegevens aan de betrokkene.   
 2.  De regels, bedoeld in het eerste lid, vervallen indien de verantwoordelijkheid voor de verwerking van gegevens in het vestigingsregister op grond van [artikel 119 van de wet](../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) door Onze Minister wordt overgedragen aan het college van burgemeester en wethouders van een gemeente.   
-3.  Verstrekking van gegevens uit het vestigingsregister aan een verantwoordelijke voor de verwerking van gegevens in een basisadministratie in Aruba, Curaçao of Sint Maarten, bedoeld in [artikel 100a van de wet](../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), is vrij van heffingen.   
+3.  Verstrekking van gegevens uit het vestigingsregister aan een verantwoordelijke voor de verwerking van gegevens in een basisadministratie in Aruba, Curaçao, Sint Maarten of een van de openbare lichamen, bedoeld in [artikel 100a van de wet](../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), is vrij van heffingen.   
 
 ### Hoofdstuk  5  
 

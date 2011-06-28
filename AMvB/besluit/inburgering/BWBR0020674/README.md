@@ -92,8 +92,10 @@ m. verblijf als alleenstaande minderjarige vreemdeling;
 
 n. verblijf als vreemdeling die buiten zijn schuld niet uit Nederland kan vertrekken;  
 
-o. verblijf als onderzoeker in de zin van richtlijn 2005/71/EG van de Raad van 12 oktober 2005 betreffende een specifieke procedure voor de toelating van onderdanen van derde landen met het oog op wetenschappelijk onderzoek (PbEU L 289).     
-2.  Het doel van het verblijf van een houder van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), verleend onder een andere beperking dan bedoeld in het eerste lid, is tijdelijk in de zin van [artikel 3, eerste lid, onderdeel a, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), indien zulks met toepassing van [artikel 3.5, derde lid, van het Vreemdelingenbesluit 2000](../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) is bepaald.   
+o. verblijf als onderzoeker in de zin van richtlijn 2005/71/EG van de Raad van 12 oktober 2005 betreffende een specifieke procedure voor de toelating van onderdanen van derde landen met het oog op wetenschappelijk onderzoek (PbEU L 289);  
+
+p. verblijf als houder van de Europese blauwe kaart.     
+2.  Het doel van het verblijf van een houder van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), verleend onder een andere beperking dan bedoeld in het eerste lid, is tijdelijk in de zin van [artikel 3, eerste lid, onderdeel a, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), indien zulks met toepassing van [artikel 3.5, vierde lid, van het Vreemdelingenbesluit 2000](../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) is bepaald.   
 3.  Het doel van het verblijf van de houder van een verblijfsvergunning als bedoeld in de [artikelen 20](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [28](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [33 van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is niet tijdelijk in de zin van [artikel 3, eerste lid, onderdeel a, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md).   
 4.  Bij regeling van Onze Minister kunnen de beperkingen, bedoeld in het eerste en tweede lid, nader worden uitgewerkt.   
 
@@ -126,7 +128,7 @@ d. een met een van de in onderdeel b genoemde diploma’s of getuigschriften ver
 
 e. een met een van de in onderdeel b genoemde diploma’s of getuigschriften vergelijkbaar diploma of ander document, behaald in het Nederlandstalig onderwijs in Suriname, mits een voldoende is behaald voor het vak Nederlandse taal;  
 
-f. een diploma, certificaat of ander document, behaald in het Nederlandstalig onderwijs in de Nederlandse Antillen of Aruba, ten bewijze van afronding van een bij regeling van Onze Minister aangewezen Nederlands-Antilliaanse of Arubaanse opleiding, mits een voldoende is behaald voor het vak Nederlandse taal;  
+f. een diploma, certificaat of ander document, behaald in het Nederlandstalig onderwijs in de openbare lichamen Bonaire, Sint Eustatius of Saba, of in Aruba, Curaçao of Sint Maarten, ten bewijze van afronding van een bij regeling van Onze Minister aangewezen opleiding, mits een voldoende behaald is voor het vak Nederlandse taal;  
 
 g. het diploma van het Europees baccalaureaat van de Europese school, bedoeld in het Statuut van de Europese school (Trb. 1957, 246), voor zover dat baccalaureaat het vak Nederlands als eerste of tweede taal omvat en voor dat vak een voldoende is behaald;  
 

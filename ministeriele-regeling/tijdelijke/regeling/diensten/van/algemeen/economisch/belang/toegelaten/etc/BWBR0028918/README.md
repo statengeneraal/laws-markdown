@@ -90,12 +90,11 @@ c. dat gebouw een op die wijk, die buurt of dat buurtschap gerichte functie heef
 
 ### Artikel  5  
 
-1.  De toegelaten instelling besteedt aan: 
+De toegelaten instelling besteedt aan: 
 
 a. de taken, genoemd in artikel 2, onderdeel f, voor zover zij bestaan uit het doen bouwen, en  
 
-b. de taken, genoemd in artikel 2, onderdeel g, voor zover zij bestaan uit het treffen van voorzieningen aan haar gebouwen en hun onroerende en infrastructurele aanhorigheden.     
-2.  Indien de werkzaamheden ter uitvoering van de taken, bedoeld in het eerste lid, een bedrag van € 4,845 miljoen exclusief omzetbelasting te boven gaan, vindt de aanbesteding plaats volgens de richtlijn 2004/18/EG van de Europese Commissie.   
+b. de taken, genoemd in artikel 2, onderdeel g, voor zover zij bestaan uit het treffen van voorzieningen aan haar gebouwen en hun onroerende en infrastructurele aanhorigheden.    
 
 ### §  4  
 

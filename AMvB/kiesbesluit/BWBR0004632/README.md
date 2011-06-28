@@ -497,7 +497,7 @@ De formulieren voor de verklaring, bedoeld in artikel Y 19, eerste lid, van de K
 
 ### Artikel  Y 7  
 
-Bij regeling van Onze Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties kunnen nadere regels worden gesteld omtrent de wijze en het tijdstip waarop de mededeling, bedoeld in artikel Y 32, achtste lid, van de Kieswet, dient te geschieden.  
+Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kunnen nadere regels worden gesteld omtrent de wijze en het tijdstip waarop de mededeling, bedoeld in artikel Y 32, achtste lid, van de Kieswet, dient te geschieden.  
 
 ### Afdeling  IVa  
 
