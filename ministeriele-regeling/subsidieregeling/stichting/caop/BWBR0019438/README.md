@@ -3,7 +3,7 @@
 ##Subsidieregeling Stichting CAOP
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op [artikel 2 van de Wet overige BiZa-subsidies](../../../../../wet/wet/overige/biza-subsidies/BWBR0009055/README.md);
+Gelet op artikel 2 van de Wet overige BiZa-subsidies;
 Besluit:     
 ### §  1  
 
@@ -21,9 +21,9 @@ b. de Stichting CAOP: de Stichting Centrum voor Arbeidsverhoudingen Overheidsper
 
 1.  De Minister verstrekt een subsidie aan de Stichting CAOP.   
 2.  De subsidie wordt per boekjaar verstrekt.   
-3.  De subsidie bedraagt vanaf 2009 ten hoogste € 2.200.000,–.   
+3.  De subsidie bedraagt vanaf 2011 ten hoogste € 3.950.000,–.   
 4.  Met ingang van 2007 is op de subsidie de indexering voor de ter zake geldende begrotingsartikelen van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties van toepassing. De subsidie is 50% loongevoelig en 50% prijsgevoelig, conform opgave van het Ministerie van Financiën.   
-5.  De subsidie wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+5.  De subsidie wordt verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht.   
 
 ### §  2  
 
@@ -87,7 +87,7 @@ De Minister geeft een beschikking tot subsidieverlening binnen acht weken na ont
 
 ### Artikel  7  
 
-Op de financiële verantwoording van de Stichting CAOP is [Titel 9 van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van overeenkomstige toepassing.  
+Op de financiële verantwoording van de Stichting CAOP is Titel 9 van boek 2 van het Burgerlijk Wetboek van overeenkomstige toepassing.  
 
 ### Artikel  8  
 
@@ -100,7 +100,7 @@ Op de financiële verantwoording van de Stichting CAOP is [Titel 9 van boek 2 va
 
 ### Artikel  9  
 
-De Stichting CAOP behoeft de toestemming van de Minister voor de handelingen, bedoeld in [artikel 4:71, eerste lid, onderdelen b en g, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+De Stichting CAOP behoeft de toestemming van de Minister voor de handelingen, bedoeld in artikel 4:71, eerste lid, onderdelen b en g, van de Algemene wet bestuursrecht.  
 
 ### Artikel  10  
 
@@ -122,7 +122,7 @@ De Stichting CAOP behoeft de toestemming van de Minister voor de handelingen, be
 1.  De aanvraag tot vaststelling van de subsidie wordt binnen zes maanden na afloop van het boekjaar ingediend.   
 2.  De aanvraag tot vaststelling van de subsidie gaat vergezeld van: 
 
-a. een financieel verslag en een jaarrekening, als bedoeld in [artikel 361 van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+a. een financieel verslag en een jaarrekening, als bedoeld in artikel 361 van boek 2 van het Burgerlijk Wetboek;  
 
 b. een activiteitenverslag;  
 
@@ -183,7 +183,7 @@ De Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt in 2008 en 2013 
 
 ### Artikel  17  
 
-De [Regeling Subsidiëring CAOP](../../../../../ministeriele-regeling/regeling/subsidiëring/stichting/caop/BWBR0011022/README.md) vervalt, met dien verstande dat de vaststelling van de subsidie voor het boekjaar 2005 zal plaatsvinden op grond van en onder de voorwaarden van de [Regeling Subsidiëring CAOP](../../../../../ministeriele-regeling/regeling/subsidiëring/stichting/caop/BWBR0011022/README.md).  
+De Regeling Subsidiëring CAOP vervalt, met dien verstande dat de vaststelling van de subsidie voor het boekjaar 2005 zal plaatsvinden op grond van en onder de voorwaarden van de Regeling Subsidiëring CAOP.  
 
 ### Artikel  18  
 
@@ -220,7 +220,7 @@ De van toepassing zijnde regelgeving betreft de Subsidieregeling Stichting CAOP.
 
 – Artikel 3. Hierin wordt aangegeven waaraan de reguliere subsidie mag worden besteed.  
 
-– Artikel 7. Hierin wordt geregeld dat [Titel 9 van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van overeenkomstige toepassing is.  
+– Artikel 7. Hierin wordt geregeld dat Titel 9 van boek 2 van het Burgerlijk Wetboek van overeenkomstige toepassing is.  
 
 – Artikel 8. Hierin is de vorming van een egalisatiereserve voorzien ten laste van de reguliere subsidie.  
 
@@ -251,7 +251,7 @@ De accountant stelt vast dat:
 Voor geconstateerde onjuistheden en onzekerheden gaat de accountant na wat hiervan de consequenties zijn voor de af te geven accountantsverklaring. In de accountantsverklaring bij het financiële verslag dient het punt dat het controleprotocol is nageleefd tot uitdrukking te worden gebracht. Een dergelijke vermelding impliceert mede dat de controle is uitgevoerd met inachtname van de hieronder gestelde eisen. De accountant heeft bij zijn oordeelsvorming gestreefd naar een ‘hoge mate van zekerheid’. Indien dit begrip ten behoeve van het gebruik van statistische technieken moet worden gekwantificeerd dan is een betrouwbaarheid van 95% gehanteerd. De accountant heeft geconcludeerd dat de meest waarschijnlijke fout (goedkeuringstolerantie) met betrekking tot de deugdelijkheid van het financiële verslag en de rechtmatigheid van het daarin verantwoorde beheer, niet groter is dan aangegeven in onderstaande tabel.  Overzicht van toleranties 
 
 | Onjuistheden in de verantwoording/besteding  | Onzekerheden in de controle  |
-|:---|:---|
+|---|---|
 | Beperking  | Afkeuring  | Beperking  | Oordeel  Onthouding  |
 | >1% en <3%  | >3%  | >3% en <10%  | > 10%  |
 

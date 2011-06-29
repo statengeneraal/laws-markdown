@@ -167,11 +167,6 @@ a. liften en veiligheidscomponenten als bedoeld in [artikel 1 van het Warenwetbe
 
 b. explosieveilig materieel als bedoeld in [artikel 1 van het Warenwetbesluit explosieveilig materieel](../../../../AMvB/besluit/explosieveilig/materieel/BWBR0007497/README.md), tenzij dit in het [Warenwetbesluit explosieveilig materieel](../../../../AMvB/besluit/explosieveilig/materieel/BWBR0007497/README.md) is uitgezonderd van het toepassingsbereik van [dat besluit](../../../../AMvB/besluit/explosieveilig/materieel/BWBR0007497/README.md).     
 
-### Artikel  1b  
-
-1.  Dit besluit is niet van toepassing op draagbare bevestigingswerktuigen met explosieve lading en andere slagwerktuigen.   
-2.  Dit artikel vervalt met ingang van 29 juni 2011.   
-
 ### Artikel  2  
 
 1.  Het is verboden machines en niet voltooide machines die niet voldoen aan de vervaardigingsvoorschriften bij of krachtens dit besluit gesteld in de handel te brengen of in bedrijf te stellen.   

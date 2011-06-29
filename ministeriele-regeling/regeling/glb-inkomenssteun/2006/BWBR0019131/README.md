@@ -182,41 +182,6 @@ b. de verhuurovereenkomst uiterlijk op 15 mei 2010 ingaat, en
 c. de verhuurovereenkomst na 15 mei 2010 afloopt.     
 5.  De verhuurder kan toeslagrechten, bedoeld in het vierde lid, overdragen aan de huurder.   
 
-### Artikel  12  
-
-Ter zake van de integratie van de gekoppelde steun voor de productie en verwerking van zetmeelaardappelen, verhoogt de minister overeenkomstig artikel 64 van verordening 73/2009 de waarde van toeslagrechten die landbouwers op 15 mei 2012 in eigendom hebben, of wijst de minister nieuwe toeslagrechten aan landbouwers toe, volgens de berekening, opgenomen in bijlage 9, punt 1.  
-
-### Artikel  13  
-
-Ter zake van de integratie van de gekoppelde steun voor de productie van zaaizaad van vezelvlas, verhoogt de minister overeenkomstig artikel 65 van verordening 73/2009 de waarde van toeslagrechten die landbouwers op 15 mei 2012 in eigendom hebben, of wijst de minister nieuwe toeslagrechten aan landbouwers toe, volgens de berekening, opgenomen in bijlage 9, punt 2.  
-
-### Artikel  14  
-
-Ter zake van de integratie van de gekoppelde steun voor de verwerking van vezelvlas of hennep, verhoogt de minister overeenkomstig artikel 64 van verordening 73/2009 de waarde van toeslagrechten die landbouwers op 15 mei 2012 in eigendom hebben, of wijst de minister nieuwe toeslagrechten aan landbouwers toe, volgens de berekening, opgenomen in bijlage 9, punt 3.  
-
-### Artikel  15  
-
-Ter zake van de integratie van de gekoppelde steun voor de verwerking van gedroogde voedergewassen, verhoogt de minister overeenkomstig artikel 64 van verordening 73/2009 de waarde van toeslagrechten die landbouwers op 15 mei 2012 in eigendom hebben, of wijst de minister nieuwe toeslagrechten aan landbouwers toe, volgens de berekening, opgenomen in bijlage 9, punt 4.  
-
-### Artikel  15a  
-
-1.  Op grond van deze paragraaf verhoogde toeslagrechten, of toegewezen toeslagrechten, overschrijden niet de waarde van € 5.000 per toeslagrecht.   
-2.  Voor de uitvoering van de artikelen 12 tot en met 15 wordt geen rekening gehouden met rechtshandelingen waarvan op grond van bepaalde feiten en omstandigheden kan worden aangenomen dat zij geen wezenlijke verandering van feitelijke verhoudingen ten doel hebben gehad, of dat die rechtshandelingen achterwege zouden zijn gebleven indien daarmee niet een kleiner aantal toeslagrechten zou zijn verkregen als bedoeld in artikel 64, tweede lid, van verordening 73/2009.   
-
-### Artikel  15b  
-
-1.  Landbouwers kunnen met een beroep op artikel 31 van verordening 73/2009 verzoeken om de verhoging van de waarde van toeslagrechten, of de toewijzing van nieuwe toeslagrechten, op grond van deze paragraaf op alternatieve wijze te berekenen.   
-2.  Een verzoek, bedoeld in het eerste lid, kan alleen worden gedaan indien: 
-
-a. de productie van de landbouwer rechtstreeks is getroffen door overmacht of uitzonderlijke omstandigheden, en  
-
-b. de directe betaling in enig jaar dat relevant is voor de van toepassing zijnde berekening, bedoeld in bijlage 9, daardoor verminderde met meer dan € 500.     
-3.  De alternatieve berekening, bedoeld in het eerste lid, geschiedt in eerste instantie op basis van één of meerdere jaren, die relevant zijn voor de van toepassing zijnde berekening, bedoeld in bijlage 9, waarin de productie van de landbouwer niet is beïnvloed door overmacht of uitzonderlijke omstandigheden. Indien door overmacht of uitzonderlijke omstandigheden de productie is beïnvloed in alle relevante jaren voor de van toepassing zijnde berekening, bedoeld in bijlage 9, geschiedt de berekening op basis van het door de minister te bepalen meest recente jaar dat niet door deze omstandigheden is getroffen.   
-
-### Artikel  15c  
-
-Landbouwers die hun aanspraak op toeslagrechten als bedoeld in de artikelen 12 tot en met 15 hebben overgedragen in combinatie met de overdracht van een onderneming of een deel ervan, kunnen de minister verzoeken om toepassing van artikel 26 van verordening 1120/2009.  
-
 ### Paragraaf  2  
 
 ####Nationale reserve
@@ -276,9 +241,11 @@ Indien als gevolg van overheidsinterventie de omvang van een bedrijf is verklein
 
 1.  Voor betalingen op basis van toeslagrechten komen uitsluitend in aanmerking landbouwers die: 
 
-a. hun toeslagrechten activeren als bedoeld in artikel 34, eerste lid, van verordening 73/2009 en daartoe subsidiabele hectaren aangeven, overeenkomstig artikel 35, eerste lid, van deze verordening, en  
+a. hun toeslagrechten activeren als bedoeld in artikel 34, eerste lid, van verordening 73/2009 en daartoe subsidiabele hectaren aangeven, overeenkomstig artikel 35, eerste lid, van deze verordening,  
 
-b. deze subsidiabele hectaren tot hun beschikking hebben op 15 mei van enig jaar.     
+b. deze subsidiabele hectaren tot hun beschikking hebben op 15 mei van enig jaar,  
+
+c. deze subsidiabele hectaren gebruiken in overeenstemming met artikel 39 van verordening 73/2009 indien het de productie van hennep betreft.     
 2.  Onverminderd het bepaalde in artikel 57, tweede lid, van verordening 1122/2009, worden toeslagrechten in een zodanige volgorde uitbetaald, dat het behoud van toeslagrechten zoveel mogelijk voorgaat op uitbetaling van toeslagrechten met de hoogste waarde.   
 3.  Onverminderd het bepaalde in artikel 57, derde lid, van verordening 1122/2009, vindt de betaling op basis van toeslagrechten, in afwijking van het tweede lid, op verzoek van de landbouwer plaats volgens een door hem bepaalde volgorde, welke hij uiterlijk op 15 mei kenbaar maakt.   
 4.  De minimumoppervlakte, bedoeld in artikel 13, negende lid, van verordening 1122/2009 bedraagt 0,01 ha.   
@@ -602,7 +569,8 @@ b. *vaarperceel:* perceel dat als zodanig is aangewezen in bijlage 3.
 ### Artikel  38f  
 
 1.  De minister verstrekt specifieke steun aan landbouwers in de vorm van een vaarvergoeding van € 500 per hectare per jaar voor vaarpercelen.   
-2.  De vaarvergoeding wordt evenredig verlaagd voor alle voor vaarvergoeding in aanmerking te nemen aanvragen indien het totaal van de voor steun in aanmerking te nemen aanvragen het bedrag van € 1.000.000 per kalenderjaar overstijgt.   
+2.  Indien voor het desbetreffende perceel reeds subsidie voor het uitrijden van ruige mest uit hoofde van de Subsidieverordening natuur- en landschapsbeheer van de onderscheiden provincies, de [Subsidieregeling agrarisch natuurbeheer](../../../../../ministeriele-regeling/subsidieregeling/agrarisch/natuurbeheer/BWBR0011000/README.md) of de Subsidieregeling agrarisch natuurbeheer van de onderscheiden provincies wordt toegekend, bedraagt de steun, bedoeld in het eerste lid, € 405,50 per hectare per jaar.   
+3.  De vaarvergoeding wordt evenredig verlaagd voor alle voor vaarvergoeding in aanmerking te nemen aanvragen indien het totaal van de voor steun in aanmerking te nemen aanvragen het bedrag van € 1.000.000 per kalenderjaar overstijgt.   
 
 ### Artikel  38g  
 
@@ -728,7 +696,6 @@ d. *vloervoederingssysteem:* elektronisch of handmatig doseeringssysteem voor he
 4.  De steun, bedoeld in het eerste lid, wordt evenredig verlaagd voor alle voor steun in aanmerking te nemen aanvragen indien het totaal van de goedgekeurde aanvragen het steunplafond overstijgt.   
 5.  Landbouwers verrichten de maatregelen waarvoor de tegemoetkoming wordt aangevraagd, bedoeld in het eerste lid, gedurende het hele kalenderjaar van het jaar waarin zij de steun aanvragen.   
 6.  De steun wordt verstrekt per dierplaats, waarbij het aantal dierplaatsen waarvoor de steun wordt verstrekt niet hoger is dan het aantal varkens dat ingevolge [artikel 4](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md) en [4a van het Varkensbesluit](../../../../../AMvB/varkensbesluit/BWBR0006806/README.md) mag worden gehouden.   
-7.  Landbouwers die vanaf 2012 steun op grond van deze paragraaf aanvragen voor de in punt 13 van bijlage 7 omschreven maatregel, verrichten daarnaast één van de andere in bijlage 7 omschreven maatregelen.   
 
 ### Paragraaf  9  
 
@@ -775,9 +742,90 @@ d. het steunplafond, bedoeld in artikel 38r, derde lid, met het bedrag overgebl
 
 e. de steunplafonds, bedoeld in artikel 38j, vierde lid, met het bedrag of de bedragen die na het toepassen van de onderdelen c en d zijn overgebleven door het niet bereiken van de steunplafonds, bedoeld in de artikelen 38r, derde lid, en 38p, derde lid.    
 
+### Paragraaf  11  
+
+####Landbouwapparatuur met GPS of verduurzaming bewaarplaatsen
+
+### Artikel  38t  
+
+In deze paragraaf wordt verstaan onder: 
+
+*GPS:* plaatsbepalingssysteem met behulp van satellieten.    
+
+### Artikel  38u  
+
+De minister verstrekt op aanvraag steun aan landbouwers in de vorm van een tegemoetkoming in de kosten van de onderstaande activiteiten: 
+
+1. de aanschaf van: 
+
+a. een ploeg die wordt gestuurd met behulp van GPS;  
+
+b. spuit- en schoffelapparatuur die wordt gestuurd met behulp van GPS;  
+
+c. bemestingsapparatuur die wordt gestuurd met behulp van GPS;  
+
+d. computergestuurde beregeningapparatuur met vochtsensoren die precisieberegening mogelijk maakt en wordt gestuurd met behulp van GPS;  
+
+e. poot- en zaaiapparatuur die wordt gestuurd met behulp van GPS;    
+
+2. het verwijderen van asbest in een bewaarplaats;  
+
+3. het isoleren van vloeren, wanden of plafonds van een bewaarplaats van landbouwproducten, waardoor een warmteweerstand wordt bereikt als vastgesteld in [artikel 1, onderdeel A, onder 2, sub 2.1.C, punt a, van de Uitvoeringsregeling energie-investeringsaftrek 2001](../../../../../ministeriele-regeling/uitvoeringsregeling/energie-investeringsaftrek/2001/BWBR0012054/README.md);  
+
+4. regulering van het klimaat in een bewaarplaats door middel van een computer, inclusief daarmee verband houdende aanpassingen aan ventilatiesystemen.    
+
+### Artikel  38v  
+
+1.  De steun, bedoeld in artikel 38u, bedraagt 30% van de in aanmerking komende kosten met dien verstande dat zij ten hoogste € 50.000 steun per landbouwer bedraagt.   
+2.  Het steunplafond bedraagt € 10.000.000.   
+3.  De landbouwer komt alleen voor steunverlening in aanmerking indien de totale kosten voor de uitvoering van de volledige activiteit hoger zijn dan € 15.000.   
+4.  Gemaakte arbeidskosten komen voor steun in aanmerking indien deze zijn gemaakt door een aannemer of een leverancier, overeenkomstig de in [artikel 1:15, vijfde lid, van de Regeling LNV-subsidies](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md), omschreven berekeningsmethode.   
+
+### Artikel  38w  
+
+1.  De landbouwer kan slechts een aanvraag per jaar indienen voor steunverlening op grond van artikel 38u.   
+2.  De aanvraag voor steunverlening gaat vergezeld van: 
+
+a. een omschrijving van de steunwaardige activiteit, inclusief een conceptfactuur of offerte,  
+
+b. het adres waar de landbouwer de steunwaardige activiteit realiseert, en  
+
+c. een verklaring van de landbouwer waarin hij de minister toestemming geeft om zijn gegevens, inclusief persoonsgegevens, uit te wisselen met de minister van Financiën, ten behoeve van de controle op de naleving van deze specifieke steunregeling en de [Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen 2009](../../../../../ministeriele-regeling/aanwijzingsregeling/willekeurige/afschrijving/en/investeringsaftrek/etc/BWBR0025316/README.md).     
+3.  De landbouwer kan steun aanvragen voor de aanschaf van meerdere in artikel 38u, onderdeel 1, omschreven apparaten.   
+4.  De landbouwer kan geen steun aanvragen op grond van meer dan één van de in artikel 38u onderscheiden onderdelen.   
+5.  De landbouwer kan alleen steun aanvragen voor activiteiten die verricht worden na de steunverlening.   
+6.  De minister verleent de steun door middel van de in [artikel 1:5 van de Regeling LNV-subsidies](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) beschreven procedure.   
+
+### Artikel  38x  
+
+1.  De landbouwer aan wie steun is verleend als bedoeld in 38u: 
+
+a. verstrekt bewijsmateriaal waaruit ten genoegen van de minister blijkt dat de steunwaardige activiteiten zijn verricht en welke kosten daarvoor zijn gemaakt, en  
+
+b. bewaart het bewijsmateriaal in een administratie die voldoet aan de voorschriften, bedoeld in [artikel 1:12, derde en vierde lid, van de Regeling LNV-subsidies](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md).     
+2.  [Artikel 1:20, vijfde lid, van de Regeling LNV-subsidies](../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) is van overeenkomstige toepassing bij de betaling van steun op grond van artikel 38u.   
+3.  Indien bij de verstrekking van het bewijsmateriaal, bedoeld in het eerste lid, onderdeel a, blijkt dat de landbouwer een andere activiteit heeft verricht, dan komt deze activiteit, met inachtneming van de voorschriften van deze paragraaf, eveneens voor steun in aanmerking, met dien verstande dat de minister niet meer steun aan de landbouwer betaalt dan hem is verleend op grond van artikel 38w, zesde lid.   
+
 ### Hoofdstuk  3  
 
 ####Steun voor aardappelzetmeel en zaaizaad van vezelvlas
+
+### Artikel  42  
+
+De landbouwer die voor de zetmeelproductie bestemde aardappelen produceert overeenkomstig de artikelen 77 en 78 van verordening 73/2009 en hoofdstuk 3 van verordening 1121/2009, komt in aanmerking voor subsidie op grond van de productiesteun voor zetmeelaardappelen als bedoeld in artikel 2.  
+
+### Artikel  43  
+
+1.  Een landbouwer die zaaizaad van vezelvlas produceert komt in aanmerking voor subsidie op grond van de productiesteun voor zaaizaad als bedoeld in artikel 2, indien: 
+
+a. het ingezaaide perceel een oppervlakte van ten minste 0,3 ha heeft;  
+
+b. de productie plaatsvindt op basis van een vermeerderingscontract tussen de landbouwer en het zaaizaadhandelsbedrijf of de kweker;  
+
+c. de betrokken zaaizaadhandelsbedrijven of kwekers geregistreerd zijn bij het HPA;  
+
+d. het zaaizaad uiterlijk op 15 juni van het jaar volgend op de aanvraag in de handel is gebracht.     
+2.  In afwijking van het eerste lid, onderdeel b, overlegt de landbouwer een verklaring omtrent de productie in het geval hij ook zaaizaadhandelsbedrijf of kweker is voor het geproduceerde zaaizaad van vezelvlas.   
 
 ### Hoofdstuk  4  
 
@@ -801,23 +849,24 @@ Er worden geen rechtstreekse betalingen toegekend aan landbouwers indien het tot
 
 ### Artikel  55  
 
-1.  De landbouwer die aanspraak maakt op steun in het kader van een van de in artikel 2, eerste lid, onder 2, bedoelde steunregelingen, maakt gebruik van de verzamelaanvraag, tenzij deze regeling een specifieke aanvraagprocedure voorschrijft.   
+1.  De landbouwer die aanspraak maakt op steun in het kader van een van de in artikel 2, eerste lid, onder 2, onderdelen a, b en c, bedoelde steunregelingen, maakt gebruik van de verzamelaanvraag, tenzij deze regeling een specifieke aanvraagprocedure voorschrijft.   
 2.  Voor de verzamelaanvraag maakt de landbouwer gebruik van een door de minister vastgesteld formulier dat door de landbouwer volledig en naar waarheid is ingevuld, ondertekend en gedagtekend.   
 3.  De verzamelaanvraag wordt in de periode van 1 april tot en met 15 mei ingediend bij DR.   
 4.  Bij de verzamelaanvraag legt de landbouwer alle bewijsstukken over die het betrokken betaalorgaan nodig acht voor de beoordeling van de aanvraag.   
 5.  Van de wijziging, verbetering of intrekking van de verzamelaanvraag overeenkomstig Deel II, Titel II, van verordening 1122/2009 stelt de landbouwer DR schriftelijk in kennis.   
-6.  De landbouwer die aanspraak maakt op steun, bedoeld in artikel 24, eerste lid, verstrekt tevens de volgende informatie bij de verzamelaanvraag: 
+6.  In afwijking van het derde lid geldt als uiterste datum voor het indienen van teeltcontracten voor zetmeelaardappelen 15 juni.   
+7.  De landbouwer die aanspraak maakt op steun, bedoeld in artikel 24, eerste lid, verstrekt tevens de volgende informatie bij de verzamelaanvraag: 
 
 a. toestemming aan de minister om persoonsgegevens te verwerken ten behoeve van de controle op de naleving van deze regeling,  
 
 b. een verklaring dat hij zich bewust is van de voorwaarden voor verkrijging van deze steun, en  
 
 c. de naam van de verzekeraar met wie de verzekering is afgesloten.     
-7.  De landbouwer die in aanmerking wil komen voor steun, bedoeld in de artikelen 38a, eerste lid, 38d, eerste lid, 38f, eerste lid of 38j, eerste lid, verklaart op de verzamelaanvraag dat hij zich bewust is van de voorwaarden voor het ontvangen van deze steun.   
-8.  De landbouwer die in aanmerking wil komen voor steun, bedoeld in de artikelen 38a, eerste lid en 38d, eerste lid, verleent de minister toestemming om de gegevens die zijn opgenomen in het I&R-systeem schapen en geiten en die betrekking hebben op zijn UBN te verwerken ten behoeve van de controle op de naleving van deze regeling.   
-9.  Landbouwers die steun aanvragen, bedoeld in artikel 38j, eerste lid, vermelden op de verzamelaanvraag: 
+8.  De landbouwer die in aanmerking wil komen voor steun, bedoeld in de artikelen 38a, eerste lid, 38d, eerste lid, 38f, eerste lid of 38j, eerste lid, verklaart op de verzamelaanvraag dat hij zich bewust is van de voorwaarden voor het ontvangen van deze steun.   
+9.  De landbouwer die in aanmerking wil komen voor steun, bedoeld in de artikelen 38a, eerste lid en 38d, eerste lid, verleent de minister toestemming om de gegevens die zijn opgenomen in het I&R-systeem schapen en geiten en die betrekking hebben op zijn UBN te verwerken ten behoeve van de controle op de naleving van deze regeling.   
+10.  Landbouwers die steun aanvragen, bedoeld in artikel 38j, eerste lid, vermelden op de verzamelaanvraag: 
 
-a. het door de minister toegewezen UBN als bedoeld in [artikel 3, eerste lid, van de Regeling identificatie en registratie van dieren](../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), waarop het certificaat betrekking heeft,  
+a. het door de minister toegewezen uniek bedrijfsnummer als bedoeld in [artikel 3, eerste lid, van de Regeling identificatie en registratie van dieren](../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), waarop het certificaat betrekking heeft,  
 
 b. een verklaring dat ze zullen voldoen aan het bepaalde in artikel 38m, eerste lid,  
 
@@ -828,7 +877,7 @@ d. de dierenwelzijnsstandaard, bedoeld in bijlage 6, waaraan zij zullen voldoen,
 e. dat zij zich bewust zijn van de voorwaarden voor het verkrijgen van deze steun,  
 
 f. dat zij toestemming verlenen om de relevante gegevens, persoonsgegevens daaronder begrepen, uit te wisselen tussen de minister en de verantwoordelijke voor het certificeringssysteem ten behoeve van de controle op de naleving van de steunvoorwaarden.     
-10.  Varkenshouders die steun aanvragen op grond van artikel 38p, eerste lid, vermelden op de verzamelaanvraag: 
+11.  Varkenshouders die steun aanvragen op grond van artikel 38p, eerste lid, vermelden op de verzamelaanvraag: 
 
 a. het UBN waar de managementmaatregel plaatsvindt,  
 
@@ -839,7 +888,7 @@ c. het aantal dierplaatsen waarvoor de managementmaatregelen worden genomen,
 d. dat zij zich bewust zijn van de voorwaarden voor het verkrijgen van deze steun, en  
 
 e. dat zij toestemming verlenen om de relevante gegevens, persoonsgegevens daaronder begrepen, over aanwezigheid en behaalde resultaten, uit te wisselen tussen de minister en de aanbieder van de cursus, bedoeld in punt 13 van bijlage 7.     
-11.  Vleeskuikenhouders die steun aanvragen op grond van artikel 38r, eerste lid, vermelden op de verzamelaanvraag: 
+12.  Vleeskuikenhouders die steun aanvragen op grond van artikel 38r, eerste lid, vermelden op de verzamelaanvraag: 
 
 a. het UBN waar de managementmaatregel plaatsvindt,  
 
@@ -850,19 +899,7 @@ c. het aantal dierplaatsen waarvoor de managementmaatregelen worden genomen,
 d. dat zij zich bewust zijn van de voorwaarden voor het verkrijgen van deze steun, en  
 
 e. dat zij toestemming verlenen om de relevante gegevens, persoonsgegevens daaronder begrepen, over aanwezigheid en behaalde resultaten, uit te wisselen tussen de minister, het PPE, of de aanbieder van de cursus, bedoeld in punt 6 van bijlage 8.     
-12.  De landbouwer die het in aanmerking komende oppervlak van een perceel landbouwgrond wil uitbreiden met sloten als bedoeld in artikel 34, tweede lid, van verordening 1122/2009, identificeert deze op de verzamelaanvraag.   
-13.  Landbouwers vragen om toepassing van de artikelen 12 tot en met 15, artikel 15b of artikel 15c, door het indienen van de verzamelaanvraag.   
-14.  Landbouwers die een verzoek als bedoeld in artikel 15b willen indienen, verstrekken ten genoegen van de minister de benodigde informatie voor het vaststellen van het relevante jaar of de relevante jaren.   
-15.  Landbouwers die een verzoek als bedoeld in artikel 15c willen indienen, verstrekken: 
-
-a. een kopie van het verkoopcontract,  
-
-b. een omschrijving van de overgedragen aanspraken op bedrijfstoeslag,  
-
-c. een omschrijving van de overgedragen deel van de landbouwonderneming, of landbouwondernemingen,  
-
-d. een omschrijving van het aantal overgedragen hectares landbouwgrond.     
-16.  Met expliciete toestemming van de verkoper mag een koper het verzoek en de gegevens, bedoeld in het vijftiende lid, indienen op zijn verzamelaanvraag.   
+13.  De landbouwer die het in aanmerking komende oppervlak van een perceel landbouwgrond wil uitbreiden met sloten als bedoeld in artikel 34, tweede lid, van verordening 1122/2009, identificeert deze op de verzamelaanvraag.   
 
 ### Artikel  55a  
 
@@ -883,18 +920,42 @@ d. een omschrijving van het aantal overgedragen hectares landbouwgrond.
 1.  Indien uit een ingediende verzamelaanvraag, een ingediende aanvraag om gebruik te maken van artikel 11, eerste lid, of een ingediende aanvraag om gebruik te maken van artikel 16, eerste lid, kennelijk en zonder voorbehoud blijkt dat een landbouwer een aanvraag tot vaststelling van toeslagrechten heeft willen doen, wordt de ingediende aanvraag beschouwd als een aanvraag als bedoeld in artikel 55a, tweede lid, of artikel 55b, zesde lid.   
 2.  Voor de toepassing van het eerste lid wordt de aanvraag behandeld als een aanvraag die is ontvangen op 11 juni 2010.   
 
+### Artikel  55d  
+
+1.  Aanvragen of gegevensverstrekkingen op grond van dit artikel worden bij de minister ingediend met gebruikmaking van het daartoe door DR verstrekte formulier en gaan vergezeld van een verklaring dat de landbouwer zich bewust is van alle voorwaarden voor het verkrijgen van de steun.   
+2.  De landbouwer die steun aanvraagt op grond van artikel 29, eerste lid: 
+
+a. dient de aanvraag, bedoeld in artikel 30, eerste lid, in bij de minister in de periode van 1 januari tot en met 31 januari,  
+
+b. dient de aanvraag, bedoeld in artikel 36, eerste lid, in bij de minister in de periode van 1 december van het jaar waarin de steun is verleend, tot 1 maart van het daaropvolgende jaar, en  
+
+c. dient de aanvraag, bedoeld in artikel 37, eerste lid, in bij de minister: 
+
+1°. in de periode van 1 december van het haar waarin de steun is verleend tot 1 maart van het daaropvolgende jaar, of  
+
+2°. in de periode van 1 december van het jaar dat volgt op het jaar waarin de aanvraag tot steunverlening is ingediend en waarop artikel 34, vierde lid, onderdeel c, van toepassing is, tot 1 maart van het daaropvolgende jaar.       
+3.  De landbouwer die steun aanvraagt op grond van artikel 38j, eerste lid, verstrekt de in artikel 38m, eerste lid, bedoelde gegevens aan de minister voor 1 augustus van het jaar waarvoor de steun is aangevraagd.   
+4.  De landbouwer die steun aanvraagt op grond van artikel 38u: 
+
+a. dient de aanvraag tot steunverlening in bij de minister in de periode van 1 januari tot en met 31 januari, en  
+
+b. dient de in artikel 38w, eerste lid, onderdeel a, omschreven gegevens, in bij de minister voor 1 november van het jaar waarin de steun is verleend.     
+5.  De landbouwer die steun aanvraagt op grond van artikel 24, eerste lid, verstrekt de in artikel 25, eerste lid, bedoelde gegevens aan de minister voor 1 november van het jaar waarin de steun is aangevraagd.   
+6.  De aanvraag, bedoeld in artikel 26, eerste lid, artikel 38l, eerste lid, wordt uiterlijk ingediend bij de minister voor 1 december voorafgaand aan het kalenderjaar waarop de verzekering betrekking heeft.   
+
 ### Artikel  56  
 
 Bewijsstukken als bedoeld in artikel 55, vierde lid, overlegt de landbouwer schriftelijk voor zover deze niet elektronisch overgelegd kunnen worden.  
 
 ### Artikel  57  
 
-De landbouwer is verplicht op verzoek van DR alle gewenste nadere inlichtingen, ter zake van de gegevens verschaft bij de ingediende aanvragen op grond van deze regeling, terstond en naar waarheid te verstrekken.  
+De landbouwer is verplicht op verzoek van DR en het HPA alle gewenste nadere inlichtingen, ter zake van de gegevens verschaft bij de ingediende aanvragen op grond van deze regeling, terstond en naar waarheid te verstrekken.  
 
 ### Artikel  58  
 
-1.  De bedrijfsadministratie wordt door de landbouwer op eerste vordering aan de met toezicht op de naleving van deze regeling belaste persoon ter inzage gegeven.   
-2.  De landbouwer bewaart de bedrijfsadministratie op zijn bedrijf ten minste drie jaar na afloop van het jaar waarin subsidie is aangevraagd.   
+1.  De landbouwer is verplicht in zijn bedrijfsadministratie alle in de betrokken verordening, deze regeling en door DR en het HPA voorgeschreven bewijsstukken te bewaren.   
+2.  De bedrijfsadministratie wordt door de landbouwer op eerste vordering aan de met toezicht op de naleving van deze regeling belaste persoon ter inzage gegeven.   
+3.  De landbouwer bewaart de bedrijfsadministratie op zijn bedrijf ten minste drie jaar na afloop van het jaar waarin subsidie is aangevraagd.   
 
 ### Artikel  59  
 
@@ -922,7 +983,7 @@ Een uitvoerende instantie zoals genoemd in de artikelen 63 tot en met 65 is voor
 
 ### Artikel  60  
 
-1.  Indien verordening 73/2009 en de ter uitvoering daarvan vastgestelde Commissieverordeningen een beroep op overmacht of uitzonderlijke omstandigheden mogelijk maken in verband met het niet nakomen van voorwaarden of verplichtingen, meldt de landbouwer een geval van overmacht of uitzonderlijke omstandigheden overeenkomstig artikel 75 van verordening 1122/2009 schriftelijk aan DR met betrekking tot de in artikel 63, bedoelde regelingen binnen 10 werkdagen na de dag vanaf welke dit voor hem mogelijk is.   
+1.  Indien verordening 73/2009 en de ter uitvoering daarvan vastgestelde Commissieverordeningen een beroep op overmacht of uitzonderlijke omstandigheden mogelijk maken in verband met het niet nakomen van voorwaarden of verplichtingen, meldt de landbouwer een geval van overmacht of uitzonderlijke omstandigheden overeenkomstig artikel 75 van verordening 1122/2009 schriftelijk aan DR met betrekking tot de in artikel 63, bedoelde regelingen en aan het HPA met betrekking tot de in artikel 64, eerste lid, bedoelde regelingen binnen 10 werkdagen na de dag vanaf welke dit voor hem mogelijk is.   
 2.  De landbouwer voegt bij de melding bewijsstukken bij ter ondersteuning van zijn beroep op overmacht of buitengewone omstandigheden als bedoeld in het eerste lid.   
 
 ### Artikel  61  
@@ -933,7 +994,7 @@ Een uitvoerende instantie zoals genoemd in de artikelen 63 tot en met 65 is voor
 
 ### Artikel  62  
 
-DR, organisaties die bewijsmateriaal leveren als bedoeld in artikel 46, tweede lid, van verordening 1122/2009 en de ondernemingen die betrokken zijn bij de uitvoering van steunverstrekking op grond van Hoofdstuk 2a, paragraaf 1, alsmede de instanties die belast zijn met het toezicht op de naleving van de in artikel 3 en Hoofdstuk 2a, paragraaf 1, bedoelde voorwaarden wisselen de gegevens uit betreffende aanvragers die relevant zijn in het kader van bedoeld toezicht.  
+DR, het HPA en de ondernemingen die betrokken zijn bij de uitvoering van steunverstrekking op grond van Hoofdstuk 2a, paragraaf 1, alsmede de instanties die belast zijn met het toezicht op de naleving van de in artikel 3 en Hoofdstuk 2a, paragraaf 1, bedoelde voorwaarden wisselen de gegevens uit betreffende aanvragers die relevant zijn in het kader van bedoeld toezicht. DR en het HPA wisselen tevens de gegevens uit die relevant zijn voor de in artikel 9 bedoelde modulatie.  
 
 ### Paragraaf  2  
 
@@ -946,6 +1007,15 @@ DR is belast met de uitvoering van
 a. de bedrijfstoeslagregeling;  
 
 b. de specifieke steun, bedoeld in Hoofdstuk 2a.    
+
+### Artikel  64  
+
+1.  Het HPA is belast met de uitvoering van: 
+
+a. de steun voor zetmeelaardappeltelers, bedoeld in artikel 77 van verordening 73/2009;  
+
+b. de steun voor zaaizaad van vezelvlas, bedoeld in artikel 87 van verordening 73/2009.     
+2.  Het HPA regelt, met inachtneming van verordening 73/2009, verordening 1122/2009 en verordening 1121/2009 en zo nodig de aanwijzingen van de minister, al hetgeen voor een goede uitvoering van de in het eerste lid bedoelde steunregelingen is vereist.   
 
 ### Artikel  65  
 
@@ -972,7 +1042,7 @@ De AID is verantwoordelijk voor de coördinatie van de controles ter plaatse op 
 
 ### Artikel  69  
 
-Indien een landbouwer andere dan de in artikel 68 bedoelde voorwaarden of verplichtingen voortvloeiend uit verordening 73/2009 en de ter uitvoering daarvan vastgestelde Commissieverordeningen niet naleeft, wordt door DR met betrekking tot de in artikel 63, eerste lid, bedoelde regelingen overeenkomstig Deel II, Titel IV, hoofdstuk II van verordening 1122/2009 een korting opgelegd op het bedrag dat op grond van de betrokken steunregeling aan de landbouwer is of moet worden toegekend.  
+Indien een landbouwer andere dan de in artikel 68 bedoelde voorwaarden of verplichtingen voortvloeiend uit verordening 73/2009 en de ter uitvoering daarvan vastgestelde Commissieverordeningen niet naleeft, wordt door DR met betrekking tot de in artikel 63, eerste lid, bedoelde regelingen en het HPA met betrekking tot de in artikel 64, eerste lid, bedoelde regelingen, overeenkomstig Deel II, Titel IV, hoofdstuk II van verordening 1122/2009 een korting opgelegd op het bedrag dat op grond van de betrokken steunregeling aan de landbouwer is of moet worden toegekend.  
 
 ### Artikel  70  
 
@@ -1069,7 +1139,7 @@ C.P.Veerman
 
 ### Bijlage  1  
 
-####Beheerseisen als bedoeld in artikel 3, onderdeel a 
+####Beheerseisen, bedoeld in artikel 3, onderdeel a 
 
 |--- | EU-wetgevingskader  | Nederlands wetgevingskader  | Artikel(en)  | Onderwerp van controle  | Randvoorwaardenterrein  |
 |:---|:---|:---|:---|:---|:---|
@@ -1151,7 +1221,7 @@ C.P.Veerman
 | 11. General Food Law (Verordening (EG) 178/2002 van 28 januari 2002, artikel 15, 17 lid 1, 19 en 20)  |
 | 11.1  | General Food Law (Verordening (EG) 178/2002)  | Kaderwet diervoeders  | artikel 2 in samenhang met artikel 15, 17, eerste lid, en 20 van Verordening (EG) 178/2002  | Het verbod onveilige diervoeders, toevoegingsmiddelen en voormengsels te bereiden, te be- of verwerken, te verpakken, te etiketteren, voorhanden of in voorraad te hebben, te vervoeren of in het verkeer te brengen en de verplichting dat alle diervoeders in alle stadia van de productie traceerbaar zijn, alsmede de verplichting onveilige diervoeders terug te halen.  | gezondheid  |
 | 11.2  | General Food Law (Verordening (EG) 178/2002)  | Kaderwet diervoeders  | artikel 4, lid 3  | Het verbod diervoeders – met andere dan bij communautaire maatregel aangewezen bijzondere voedingsdoelen – voorhanden of in voorraad te hebben of in het verkeer te brengen  | gezondheid  |
-| 11.3  | General Food Law (Verordening (EG) 178/2002)  | Regeling diervoeders 2010  | artikel 13 in samenhang met artikel 15 van Verordening (EG) 178/2002  | Het verbod om onveilige diervoeders te voederen aan landbouwhuisdieren  | gezondheid  |
+| 11.3  | General Food Law (Verordening (EG) 178/2002)  | Regeling diervoeders 2010  | artikel 20 in samenhang met artikel 15 van Verordening (EG) 178/2002  | Het verbod om onveilige diervoeders te voederen aan landbouwhuisdieren  | gezondheid  |
 | 11.4  | General Food Law (Verordening (EG) 178/2002)  | Warenwetbesluit bereiding en behandeling van levensmiddelen  | artikel 2, lid 10 in samenhang met artikel 19 van Verordening (EG) 178/2002  | Het verbod eet- en drinkwaren in de handel te brengen en de verplichting dat alle eet- en drinkwaren in alle stadia van de productie traceerbaar zijn, alsmede de verplichting onveilige eet- en drinkwaren terug te halen.  | gezondheid  |
 | 11a. Diervoederhygiëne (Verordening (EG) 183/2005 van 12 januari 2005)  |
 | 11a.1  | Diervoederhygiëne (Verordening (EG) 183/2005)  | Regeling diervoeders 2010  | artikel 13 in samenhang met artikel 5 lid 1 van Verordening (EG) 183/2005 in samenhang met Bijlage I, deel A, onder I onder 4e en 4g van Verordening (EG) 183/2005  | De verplichting voor exploitanten van diervoederbedrijven afval en gevaarlijke stoffen apart en veilig op te slaan en rekening te houden met de resultaten van analyses van monsters van primaire producten of andere monsters die van belang zijn voor de voederveiligheid  | gezondheid  |
@@ -1404,25 +1474,23 @@ De berekening bestaat uit de vermenigvuldiging van onderstaande componenten: (A 
 
 ### Bijlage  5  
 
-De tenminste voor 50% te handhaven landbouwactiviteit, uitgedrukt in GVE, wordt als volgt berekend voor landbouwers die toeslagrechten ontvangen op basis van artikel 16: De som voor alle diercategorieën van de formule A x B x C = D waarin: 
+De tenminste voor 50% te handhaven landbouwactiviteit, uitgedrukt in GVE, wordt als volgt berekend voor landbouwers die toeslagrechten ontvangen op basis van artikel 16: De som voor alle diercategorieën van de formule A x B = C waarin: 
 
 A: het aantal dierplaatsen per diercategorie bedraagt, dat is gerealiseerd na de investering,  
 
-B: de in onderstaande tabel genoemde vermenigvuldigingsfactor per diercategorie bedraagt,  
+B: de in onderstaande tabel genoemde GVE-waarde per diercategorie bedraagt, en  
 
-C: de in onderstaande tabel genoemde GVE-waarde per diercategorie bedraagt,  
+C: de GVE per diercategorie bedraagt.    
 
-D: de GVE per diercategorie bedraagt.    
-
-| Diercategorie  | Diercode  | Omschrijving  | Vermenigvuldigingsfactor  | GVE van de diercategorie  |
-|:---|:---|:---|:---|:---|
-| Vleeskalveren jonger dan 8 maanden  | 112  | Vleeskalveren witvlees  | 1,9  | 0,25  |
-| Vleeskalveren jonger dan 8 maanden  | 116  | Vleeskalveren rosé 3-8 maanden  | 1,9  | 0,25  |
-| Vleeskalveren jonger dan 8 maanden  | 117  | Vleeskalveren rosé 14 dagen-8 maanden  | 1,9  | 0,25  |
-| Vleeskalveren 8 maanden en ouder  | 116/117  | Vleeskalveren rosé 8 maanden en ouder  | 1,4  | 0,25  |
-| Vleesstieren  | 122  | Roodvleesstieren vanaf 3 maanden  | 1,0  | 0,7  |
-| Overige volwassen runderen  | 100  | Melk en kalfkoeien  | 0,3  | 0,7  |
-| Overige volwassen runderen  | 120  | Weide- en zoogkoeien  | 0,3  | 0,7  |
+| Diercategorie  | Diercode  | Omschrijving  | GVE van de diercategorie  |
+|:---|:---|:---|:---|
+| Vleeskalveren jonger dan 8 maanden  | 112  | Vleeskalveren witvlees  | 0,25  |
+| Vleeskalveren jonger dan 8 maanden  | 116  | Vleeskalveren rosé 3-8 maanden  | 0,25  |
+| Vleeskalveren jonger dan 8 maanden  | 117  | Vleeskalveren rosé 14 dagen-8 maanden  | 0,25  |
+| Vleeskalveren 8 maanden en ouder  | 116/117  | Vleeskalveren rosé 8 maanden en ouder  | 0,25  |
+| Vleesstieren  | 122  | Roodvleesstieren vanaf 3 maanden  | 0,7  |
+| Overige volwassen runderen  | 100  | Melk en kalfkoeien  | 0,7  |
+| Overige volwassen runderen  | 120  | Weide- en zoogkoeien  | 0,7  |
 
 ### Bijlage  6  
 
@@ -1493,7 +1561,7 @@ D: de GVE per diercategorie bedraagt.
 
 ### Punt  1  
 
-De berekening, bedoeld in artikel 12 luidt als volgt: A = B × ( € 38.279.000 / C) waarin: A: de omvang vertegenwoordigt van de aanspraak van een landbouwer op verhoging van de waarde van toeslagrechten in eigendom, of op toedeling van nieuwe toeslagrechten. en B: de hoeveelheid zetmeel (zetmeelequivalent) van in Nederland geteelde aardappelzetmeel die de landbouwer blijkens het teeltcontract, waarbij ten hoogste 60 tot aardappelen per hectare is gecontracteerd, in 2011 mag leveren aan een aardappelzetmeelfabrikant, bepaald met inachtneming van: 
+De berekening, bedoeld in artikel 12 luidt als volgt: A = B × ( € 38.279.000 / C) waarin: A: de omvang vertegenwoordigt van de aanspraak van een landbouwer op verhoging van de waarde van toeslagrechten in eigendom, of op toedeling van nieuwe toeslagrechten. en B: de hoeveelheid zetmeel (zetmeelequivalent) van in Nederland geteelde aardappelzetmeel die de landbouwer blijkens het teeltcontract in 2011 mag leveren aan een aardappelzetmeelfabrikant, bepaald met inachtneming van: 
 
 – artikel 84 bis van verordening 1234/2007, en  
 
@@ -1505,7 +1573,7 @@ De berekening, bedoeld in artikel 13 luidt als volgt: A = B × € 0,4167 waarin
 
 ### Punt  3  
 
-De berekening, bedoeld in artikel 14 luidt als volgt: A = B × € 440,55 waarin A: de omvang vertegenwoordigt van de aanspraak van een landbouwer op verhoging van de waarde van toeslagrechten in eigendom, of op toedeling van nieuwe toeslagrechten. en B: de oppervlakte van de percelen in Nederland, uitgedrukt in hectaren, die de landbouwer heeft ingezaaid in 2008 met vezelvlas of hennep waarvoor op grond van een aan- en verkoopcontract of een verwerkingsverbintenis een verwerker van vezelvlas en hennep een directe steunbetaling heeft ontvangen van het HPA. Indien de op grond van de vorige zin bepaalde oppervlakte afwijkt van de relevante oppervlakte die de landbouwer op grond van de [Regeling landbouwtelling en gecombineerde opgave 2008](../../../../../ministeriele-regeling/regeling/landbouwtelling/en/gecombineerde/opgave/2008/BWBR0023696/README.md) heeft aangegeven, geldt de kleinste oppervlakte als variabele voor deze berekening.  
+De berekening, bedoeld in artikel 14 luidt als volgt: A = B × € 393,69 waarin A: de omvang vertegenwoordigt van de aanspraak van een landbouwer op verhoging van de waarde van toeslagrechten in eigendom, of op toedeling van nieuwe toeslagrechten. en B: de oppervlakte van de percelen in Nederland, uitgedrukt in hectaren, die de landbouwer heeft ingezaaid in 2008 met vezelvlas of hennep waarvoor op grond van een aan- en verkoopcontract of een verwerkingsverbintenis een verwerker van vezelvlas en hennep een directe steunbetaling heeft ontvangen van het HPA. Indien de op grond van de vorige zin bepaalde oppervlakte afwijkt van de relevante oppervlakte die de landbouwer op grond van de [Regeling landbouwtelling en gecombineerde opgave 2008](../../../../../ministeriele-regeling/regeling/landbouwtelling/en/gecombineerde/opgave/2008/BWBR0023696/README.md) heeft aangegeven, geldt de kleinste oppervlakte als variabele voor deze berekening.  
 
 ### Punt  4  
 
@@ -1514,3 +1582,17 @@ De berekening, bedoeld in artikel 15 luidt als volgt: A = B × € 30,45 waarin 
 ### Bijlage  10  
 
 Het aantal schapen of geiten, bedoeld in artikel 38b, vijfde lid, wordt als volgt berekend: A = (B – C – D) ≤ (E – F) waarin: A: het aantal voor steun in aanmerking komende schapen of geiten. Berekend op basis van: B: het aantal elektronische merken dat voldoet aan [artikel 12g, derde lid, van de Regeling identificatie en registratie van dieren](../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), dat de landbouwer tot 30 juni 2010 heeft besteld. verminderd met: C: het aantal elektronische merken dat tot 30 juni 2010 nog niet is gebruikt voor het elektronisch merken van schapen of geiten. verminderd met: D: het aantal schapen en geiten die na 1 januari 2010 en voor 30 juni 2010 zijn geboren. en voorzover dat aantal kleiner of gelijk is aan: E: het aantal dieren dat aanwezig was op de landbouwonderneming waaraan een UBN is toegekend en geïdentificeerd op grond van [artikel 37, eerste lid, van de Regeling identificatie en registratie van dieren](../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), zoals deze luidde op 1 november 2009. verminderd met: F: het aantal dieren dat voor 1 januari 2010 is geboren en voor 30 juni 2010 niet elektronisch gemerkt is zoals bedoeld in [artikel 12g, derde lid, van de Regeling identificatie en registratie van dieren](../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md). 
+
+### Bijlage  11  
+
+####Goedgekeurde verzekeringen, behorende bij artikel 26, eerste lid 
+
+Goedgekeurde verzekeringen als bedoeld in artikel 26, eerste lid zijn de brede weersverzekeringen van: 
+
+a. AgriVer B.A., gevestigd te Hasselt  
+
+b. Vereinigte Hagel Nederland, gevestigd te Smilde,  
+
+c. Onderlinge Fruittelers Hagelverzekeringsmaatschappij OFH U.A., gevestigd te Zoetermeer, en  
+
+d. Onderlinge Weerschade Verzekering U.A., gevestigd te Zoetermeer.   
