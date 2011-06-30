@@ -34,7 +34,7 @@ b. een ontheffing als bedoeld in [artikel 2:23, tweede lid](../../../../../../we
 
 c. een verklaring van geen bezwaar als bedoeld in [artikel 3:95](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [artikel 3:96](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [artikel 5:32d, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of een mededeling als bedoeld in [artikel 3:108, vierde lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-d. een verklaring van ondertoezichtstelling als bedoeld in [artikel 3:110, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+d. een verklaring van ondertoezichtstelling als bedoeld in [artikel 2:69a, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of [3:110, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
 e. een goedkeuring als bedoeld in [artikel 5:2 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
@@ -49,7 +49,7 @@ h. een goedkeuring van een biedingsbericht als bedoeld in [artikel 5:77, eerste 
 
 ### Artikel  3  
 
-1.  De toezichthouder brengt een aanvrager of een verzoeker eenmalig een bedrag in rekening ter vergoeding van kosten van een inschrijving in het register als bedoeld in [artikel 1:107, tweede lid, onderdeel a, onder 2°, 3°, 6°, 8°, 9°, 12° of onderdeel b](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of artikel 1:107, derde lid, onderdeel j, van de wet en [artikel 124b, eerste lid, van het Besluit prudentiële regels Wft](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md).   
+1.  De toezichthouder brengt een aanvrager of een verzoeker eenmalig een bedrag in rekening ter vergoeding van kosten van een inschrijving in het register als bedoeld in [artikel 1:107, tweede lid, onderdeel a, onder 2°, 3°, 4°, 6°, 8°, 9°, 12° of onderdeel b](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of artikel 1:107, derde lid, onderdeel j, van de wet en [artikel 124b, eerste lid, van het Besluit prudentiële regels Wft](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md).   
 2.  De Autoriteit Financiële Markten brengt eenmalig een bedrag in rekening aan een bieder: 
 
 a. nadat het openbaar bod is aangekondigd op de wijze, voorzien in [artikel 5, eerste, tweede of derde lid, van het Besluit openbare biedingen Wft](../../../../../../AMvB/besluit/openbare/biedingen/wft/BWBR0022511/README.md);  
@@ -196,7 +196,9 @@ e. beheerders die rechten van deelneming in een beleggingsinstelling aanbieden e
 
 1°. beheerders die rechten van deelneming aanbieden in een beleggingsinstelling en beleggingsmaatschappijen zonder aparte beheerder als bedoeld in [artikel 2:65 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-2°. beheerders die rechten van deelneming aanbieden in een beleggingsinstelling en beleggingsmaatschappijen zonder aparte beheerder als bedoeld in de [artikelen 2:71](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [2:72 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die zijn overgegaan tot het aanbieden van rechten van deelneming;    
+2°. beheerders die rechten van deelneming aanbieden in een beleggingsinstelling en beleggingsmaatschappijen zonder aparte beheerder, aan wie, onderscheidenlijk waaraan, een verklaring van ondertoezichtstelling als bedoeld in [artikel 2:69a, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), is verleend;  
+
+3°. beheerders die rechten van deelneming aanbieden in een beleggingsinstelling en beleggingsmaatschappijen zonder aparte beheerder als bedoeld in de [artikelen 2:71](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [2:72 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die zijn overgegaan tot het aanbieden van rechten van deelneming;    
 
 f.  vervallen;   
 
