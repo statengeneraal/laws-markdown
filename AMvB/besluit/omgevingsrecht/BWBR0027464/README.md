@@ -116,14 +116,19 @@ b. activiteiten waarmee uitvoering wordt gegeven aan [titel 10.4 van de Wet mili
 ####Veranderen van een inrichting
 
 1.  In afwijking van [artikel 2.1, eerste lid, aanhef en onder e, onder 2°, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is geen omgevingsvergunning vereist met betrekking tot veranderingen van de inrichting of van de werking daarvan die in overeenstemming zijn met de voor de inrichting verleende vergunning en de daaraan verbonden voorschriften.   
-2.  In afwijking van [artikel 2.1, eerste lid, aanhef en onder e, onder 2°, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is geen omgevingsvergunning vereist met betrekking tot veranderingen van de inrichting of van de werking daarvan voor zover daarop regels, gesteld krachtens een algemene maatregel van bestuur op grond van [artikel 8.40 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing zijn.   
-3.  In afwijking van [artikel 2.1, eerste lid, aanhef en onder e, onder 2°, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is geen omgevingsvergunning vereist met betrekking tot veranderingen van de inrichting of van de werking daarvan voor zover die activiteiten betreffen die zijn aangewezen op grond van artikel 2.2a.   
+2.  In afwijking van [artikel 2.1, eerste lid, aanhef en onder e, onder 2°, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is geen omgevingsvergunning vereist met betrekking tot veranderingen van de inrichting of van de werking daarvan voor zover die geen betrekking hebben op een gpbv-installatie of voor zover daarop [hoofdstuk 3 van het Besluit algemene regels voor inrichtingen milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) of het [Besluit mestbassins milieubeheer](../../../../AMvB/besluit/mestbassins/milieubeheer/BWBR0004990/README.md) van toepassing is.   
 
 ### Artikel  2.5  
 
 ####Mijnbouwwerken
 
 In afwijking van [artikel 2.1, eerste lid, aanhef en onder e, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is geen omgevingsvergunning vereist met betrekking tot mijnbouwwerken die behoren tot een in [artikel 4 van het Besluit algemene regels milieu mijnbouw](../../../../AMvB/besluit/algemene/regels/milieu/mijnbouw/BWBR0023771/README.md) aangewezen categorie.  
+
+### Artikel  2.5a  
+
+####Monumenten
+
+In afwijking van [artikel 2.1, eerste lid, aanhef en onder f, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is geen omgevingsvergunning vereist voor de categorieën gevallen in artikel 3a van bijlage II.  
 
 ### Artikel  2.6  
 
@@ -759,7 +764,7 @@ b. het gebruiken van gronden of bouwwerken ten behoeve van evenementen, bedoeld 
 
 ### Artikel  6.15  
 
-####Brzo-inrichting
+####BRZO-inrichting
 
 1.  Voor zover een aanvraag betrekking heeft op activiteiten als bedoeld in [artikel 2.1, eerste lid, onder e, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), waarop [paragraaf 3 van het Besluit risico's zware ongevallen 1999](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) van toepassing is, zendt het bevoegd gezag uiterlijk twee weken na ontvangst van de aanvraag, een afschrift daarvan en van de daarbij behorende gegevens en bescheiden, aan: 
 
@@ -2551,7 +2556,7 @@ b. een bouwwerk, geen gebouw zijnde, ten behoeve van het weren van voorwerpen di
 
 c. bovenleidingen met de bijbehorende draagconstructies of seinpalen,  
 
-d. ondergrondse buis- en leidingstelsels,  
+d. ondergrondse buis- en leidingstelsels, met uitzondering van een buisleiding als bedoeld in [artikel 1, eerste lid, van het Besluit externe veiligheid buisleidingen](../../../../AMvB/besluit/externe/veiligheid/buisleidingen/BWBR0028265/README.md),  
 
 e. een container voor het inzamelen van huishoudelijke afvalstoffen als bedoeld in [artikel 1.1, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), mits wordt voldaan aan de volgende eisen: 
 
@@ -2623,7 +2628,9 @@ a. een voeder- of mestsilo, of
 
 b. een ander bouwwerk niet hoger dan 2 m;    
 
-7. een verandering van een bouwwerk, mits wordt voldaan aan de volgende eisen: 
+7. een buisleiding als bedoeld in [artikel 1, eerste lid, van het Besluit externe veiligheid buisleidingen](../../../../AMvB/besluit/externe/veiligheid/buisleidingen/BWBR0028265/README.md);  
+
+8. een verandering van een bouwwerk, mits wordt voldaan aan de volgende eisen: 
 
 a. geen verandering van de draagconstructie,  
 
@@ -2715,7 +2722,7 @@ b. een ander gebied waarin die activiteit op grond van het bestemmingsplan of de
 
 5. Artikel 3, onderdelen 1 en 2, is evenmin van toepassing voor zover voor het bouwwerk waarop de activiteit betrekking heeft krachtens het bestemmingsplan regels gelden die met toepassing van [artikel 40 van de Monumentenwet 1988](../../../../wet/monumentenwet/1988/BWBR0004471/README.md) in het belang van de archeologische monumentenzorg zijn gesteld, tenzij de oppervlakte van het bouwwerk minder dan 50 m <sup>2</sup> bedraagt.  
 
-6. Artikel 3, onderdeel 7, is evenmin van toepassing op een activiteit die tevens een activiteit is als bedoeld in artikel 2 of 3, onderdelen 1 tot en met 6, maar niet voldoet aan de in die artikelen ten aanzien van die activiteit gestelde eisen.    
+6. Artikel 3, onderdeel 8, is evenmin van toepassing op een activiteit die tevens een activiteit is als bedoeld in artikel 2 of 3, onderdelen 1 tot en met 7, maar niet voldoet aan de in die artikelen ten aanzien van die activiteit gestelde eisen.    
 
 ### Artikel  6  
 

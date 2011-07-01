@@ -1356,11 +1356,6 @@ In gedingen aangevangen voor het van toepassing worden van artikel 90, vierde li
 
 Met betrekking tot de afwikkeling van zaken die verband houden met het zijn van eigenrisicodrager gelegen voor de datum van inwerkingtreding van de artikelen IV en V van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving, blijven de artikelen 1, onderdeel f, 65i, eerste lid, 71, 87e, 90 en 91e en hoofdstuk IIIA alsmede de [artikelen 40](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en [122e van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) zoals deze artikelen en dat hoofdstuk luidden op de dag voor de inwerkingtreding van de artikelen IV en V van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving, van toepassing.  
 
-### Artikel  91i  
-
-1.  Ten aanzien van de verzekerde wiens recht op arbeidsongeschiktheidsuitkering voorafgaand aan de dag van inwerkingtreding van [artikel XIII, onderdeel Aa, van de Verzamelwet SZW 2011](../../../../../../wet/verzamelwet/szw/2011/BWBR0029226/README.md), al is ingegaan en die zich op die dag onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, wordt voor de toepassing van artikel 43, zesde lid, als eerste dag waarop hij zich aan de tenuitvoerlegging van die vrijheidsstraf of vrijheidsbenemende maatregel onttrekt, aangemerkt de dag van inwerkingtreding van artikel XIII, onderdeel Aa, van de Verzamelwet SZW 2011, en eindigt het recht op arbeidsongeschiktheidsuitkering in afwijking van artikel 43, zesde lid, vanaf de dag dat het onttrekken aan de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel zes maanden heeft geduurd.   
-2.  Dit artikel vervalt zes maanden na de dag van zijn inwerkingtreding.   
-
 ### Hoofdstuk  IX  
 
 ####Strafbepalingen

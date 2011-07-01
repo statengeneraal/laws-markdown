@@ -84,7 +84,9 @@ a. binnen inrichtingen waarvoor ingevolge een besluit op grond van [artikel 8.40
 
 b. voor zover daaromtrent in het belang van de bescherming van de bodem voorschriften gelden die krachtens [artikel 7 van de wet](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) zijn gesteld met betrekking tot het gebruik van dierlijke mest of zuiveringsslib;  
 
-c. vanuit een particulier huishouden.     
+c. vanuit een particulier huishouden;  
+
+d. waarop het [Besluit lozen buiten inrichtingen](../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) van toepassing is.     
 
 ### Artikel  3  
 

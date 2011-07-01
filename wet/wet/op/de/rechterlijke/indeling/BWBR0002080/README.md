@@ -21,21 +21,17 @@ Het rechtsgebied van het gerechtshof te Amsterdam bestaat uit de volgende arrond
 
 2. Amsterdam  
 
-3. Haarlem  
-
-4. Utrecht.    
+3. Haarlem.    
 
 ### Artikel  3  
 
 De rechtsgebieden van de tot het ressort Amsterdam behorende rechtbanken bestaan uit de volgende gemeenten: 
 
-1. Arrondissement Alkmaar: Alkmaar, Anna Paulowna, Bergen, Castricum, Den Helder, Drechterland, Enkhuizen, Graft-De Rijp, Harenkarspel, Heerhugowaard, Heiloo, Hoorn, Koggenland, Langedijk, Medemblik, Niedorp, Opmeer, Schagen, Schermer, Stede Broec, Texel, Wieringen, Wieringermeer, Zijpe.  
+1. Arrondissement Alkmaar: Alkmaar (hoofdplaats), Anna Paulowna, Bergen, Castricum, Den Helder, Drechterland, Enkhuizen, Graft-De Rijp, Harenkarspel, Heerhugowaard, Heiloo, Hoorn, Koggenland, Langedijk, Medemblik, Niedorp, Opmeer, Schagen, Schermer, Stede Broec, Texel, Wieringen, Wieringermeer, Zijpe.  
 
-2. Arrondissement Amsterdam: Aalsmeer, Amstelveen, Amsterdam, Blaricum, Bussum, Diemen, Hilversum, Huizen, Laren (N.-H.), Muiden, Naarden, Ouder-Amstel, Uithoorn, Weesp, Wijdemeren.  
+2. Arrondissement Amsterdam: Aalsmeer, Amstelveen, Amsterdam (hoofdplaats), Blaricum, Bussum, Diemen, Hilversum, Huizen, Laren (N.-H.), Muiden, Naarden, Ouder-Amstel, Uithoorn, Weesp, Wijdemeren.  
 
-3. Arrondissement Haarlem: Beemster, Beverwijk, Bloemendaal, Edam-Volendam, Haarlem, Haarlemmerliede en Spaarnwoude, Haarlemmermeer, Heemskerk, Heemstede, Landsmeer, Oostzaan, Purmerend, Uitgeest, Velsen, Waterland, Wormerland, Zaanstad, Zandvoort, Zeevang.  
-
-4. Arrondissement Utrecht: Amersfoort, Baarn, Bunnik, Bunschoten, De Bilt, De Ronde Venen, Eemnes, Houten, Leusden, Lopik, Montfoort, Nieuwegein, Oudewater, Renswoude, Rhenen, Soest, Stichtse Vecht, Utrecht, Utrechtse Heuvelrug, Veenendaal, Vianen, Woerden, Woudenberg, Wijk bij Duurstede, IJsselstein, Zeist.    
+3. Arrondissement Haarlem: Beemster, Beverwijk, Bloemendaal, Edam-Volendam, Haarlem (hoofdplaats), Haarlemmerliede en Spaarnwoude, Haarlemmermeer, Heemskerk, Heemstede, Landsmeer, Oostzaan, Purmerend, Uitgeest, Velsen, Waterland, Wormerland, Zaanstad, Zandvoort, Zeevang.    
 
 ### Artikel  4  
 
@@ -45,69 +41,71 @@ Het rechtsgebied van het gerechtshof te Arnhem bestaat uit de volgende arrondiss
 
 2. Arnhem  
 
-3. Zutphen  
+3. Utrecht  
 
-4. Zwolle-Lelystad.    
+4. Zutphen    
 
 ### Artikel  5  
 
 De rechtsgebieden van de tot het ressort Arnhem behorende rechtbanken bestaan uit de volgende gemeenten: 
 
-1. Arrondissement Almelo: Almelo, Borne, Dinkelland, Enschede, Haaksbergen, Hellendoorn, Hengelo, Hof van Twente, Losser, Oldenzaal, Rijssen-Holten, Tubbergen, Twenterand, Wierden.  
+1. Arrondissement Almelo: Almelo (hoofdplaats), Borne, Dinkelland, Enschede, Haaksbergen, Hellendoorn, Hengelo, Hof van Twente, Losser, Oldenzaal, Rijssen-Holten, Tubbergen, Twenterand, Wierden.  
 
-2. Arrondissement Arnhem: Arnhem, Barneveld, Beuningen, Buren, Culemborg, Doesburg, Druten, Duiven, Ede, Geldermalsen, Groesbeek, Heumen, Lingewaal, Lingewaard, Maasdriel, Millingen aan de Rijn, Neder-Betuwe, Neerijnen, Nijkerk, Nijmegen, Overbetuwe, Renkum, Rheden, Rozendaal, Rijnwaarden, Scherpenzeel, Tiel, Ubbergen, Wageningen, West Maas en Waal, Westervoort, Wijchen, Zaltbommel, Zevenaar.  
+2. Arrondissement Arnhem: Arnhem (hoofdplaats), Barneveld, Beuningen, Buren, Culemborg, Doesburg, Druten, Duiven, Ede, Geldermalsen, Groesbeek, Heumen, Lingewaal, Lingewaard, Maasdriel, Millingen aan de Rijn, Neder-Betuwe, Neerijnen, Nijkerk, Nijmegen, Overbetuwe, Renkum, Rheden, Rozendaal, Rijnwaarden, Scherpenzeel, Tiel, Ubbergen, Wageningen, West Maas en Waal, Westervoort, Wijchen, Zaltbommel, Zevenaar.  
 
-3. Arrondissement Zutphen: Aalten, Apeldoorn, Berkelland, Bronckhorst, Brummen, Doetinchem, Elburg, Epe, Ermelo, Groenlo, Harderwijk, Hattem, Heerde, Lochem, Montferland, Nunspeet, Oldebroek, Oude IJsselstreek, Putten, Voorst, Winterswijk, Zutphen.  
+3. Arrondissement Utrecht: Amersfoort, Baarn, Bunnik, Bunschoten, De Bilt, De Ronde Venen, Eemnes, Houten, Leusden, Lopik, Montfoort, Nieuwegein, Oudewater, Renswoude, Rhenen, Soest, Stichtse Vecht, Utrecht (hoofdplaats), Utrechtse Heuvelrug, Veenendaal, Vianen, Woerden, Woudenberg, Wijk bij Duurstede, IJsselstein, Zeist.  
+
+3. Arrondissement Zutphen: Aalten, Apeldoorn, Berkelland, Bronckhorst, Brummen, Doetinchem, Elburg, Epe, Ermelo, Groenlo, Harderwijk, Hattem, Heerde, Lochem, Montferland, Nunspeet, Oldebroek, Oude IJsselstreek, Putten, Voorst, Winterswijk, Zutphen (hoofdplaats).  
 
 4. Arrondissement Zwolle-Lelystad: Almere, Dalfsen, Deventer, Dronten, Hardenberg, Kampen, Lelystad, Noordoostpolder, Olst-Wijhe, Ommen, Raalte, Staphorst, Steenwijkerland, Urk, Zeewolde, Zwartewaterland, Zwolle.    
 
 ### Artikel  6  
 
-Het rechtsgebied van het gerechtshof te 's-Gravenhage bestaat uit de volgende arrondissementen: 
+Het rechtsgebied van het gerechtshof te ’s-Gravenhage bestaat uit de volgende arrondissementen: 
 
 1. Dordrecht  
 
-2. 's-Gravenhage  
+2. ’s-Gravenhage  
 
-3. Middelburg  
-
-4. Rotterdam.    
+3. Rotterdam.    
 
 ### Artikel  7  
 
 De rechtsgebieden van de tot het ressort 's-Gravenhage behorende rechtbanken bestaan uit de volgende gemeenten: 
 
-1. Arrondissement Dordrecht: Alblasserdam, Binnenmaas, Cromstrijen, Dordrecht, Giessenlanden, Gorinchem, Graafstroom, Hardinxveld-Giessendam, Hendrik-Ido-Ambacht, Korendijk, Leerdam, Liesveld, Nieuw-Lekkerland, Oud-Beijerland, Papendrecht, Sliedrecht, Strijen, Zederik, Zwijndrecht.  
+1. Arrondissement Dordrecht: Alblasserdam, Binnenmaas, Cromstrijen, Dordrecht (hoofdplaats), Giessenlanden, Gorinchem, Graafstroom, Hardinxveld-Giessendam, Hendrik-Ido-Ambacht, Korendijk, Leerdam, Liesveld, Nieuw-Lekkerland, Oud-Beijerland, Papendrecht, Sliedrecht, Strijen, Zederik, Zwijndrecht.  
 
-2. Arrondissement 's-Gravenhage: Alphen aan den Rijn, Bergambacht, Bodegraven-Reeuwijk, Boskoop, Delft, Gouda, 's-Gravenhage, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Leidschendam-Voorburg, Lisse, Midden-Delfland, Nederlek, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Ouderkerk, Pijnacker-Nootdorp, Rijnwoude, Rijswijk, Schoonhoven, Teylingen, Vlist, Voorschoten, Waddinxveen, Wassenaar, Westland, Zoetermeer, Zoeterwoude, Zuidplas.  
+2. Arrondissement 's-Gravenhage: Alphen aan den Rijn, Bergambacht, Bodegraven-Reeuwijk, Boskoop, Delft, Gouda, ’s-Gravenhage (hoofdplaats), Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Leidschendam-Voorburg, Lisse, Midden-Delfland, Nederlek, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Ouderkerk, Pijnacker-Nootdorp, Rijnwoude, Rijswijk, Schoonhoven, Teylingen, Vlist, Voorschoten, Waddinxveen, Wassenaar, Westland, Zoetermeer, Zoeterwoude, Zuidplas.  
 
-3. Arrondissement Middelburg: Borsele, Goes, Hulst, Kapelle, Middelburg, Noord-Beveland, Reimerswaal, Schouwen-Duiveland, Sluis, Terneuzen, Tholen, Veere, Vlissingen.  
-
-4. Arrondissement Rotterdam: Albrandswaard, Barendrecht, Bernisse, Brielle, Capelle aan den IJssel, Dirksland, Goedereede, Hellevoetsluis, Krimpen aan den IJssel, Lansingerland, Maassluis, Middelharnis, Oostflakkee, Ridderkerk, Rotterdam, Schiedam, Spijkenisse, Vlaardingen, Westvoorne.    
+3. Arrondissement Rotterdam: Albrandswaard, Barendrecht, Bernisse, Brielle, Capelle aan den IJssel, Dirksland, Goedereede, Hellevoetsluis, Krimpen aan den IJssel, Lansingerland, Maassluis, Middelharnis, Oostflakkee, Ridderkerk, Rotterdam (hoofdplaats), Schiedam, Spijkenisse, Vlaardingen, Westvoorne.    
 
 ### Artikel  8  
 
-Het rechtsgebied van het gerechtshof te 's-Hertogenbosch bestaat uit de volgende arrondissementen: 
+Het rechtsgebied van het gerechtshof te ’s-Hertogenbosch bestaat uit de volgende arrondissementen: 
 
 1. Breda  
 
-2. 's-Hertogenbosch  
+2. ’s-Hertogenbosch  
 
 3. Maastricht  
 
-4. Roermond.    
+4. Middelburg  
+
+5. Roermond.    
 
 ### Artikel  9  
 
 De rechtsgebieden van de tot het ressort 's-Hertogenbosch behorende rechtbanken bestaan uit de volgende gemeenten: 
 
-1. Arrondissement Breda: Aalburg, Alphen-Chaam, Baarle-Nassau, Bergen op Zoom, Breda, Dongen, Drimmelen, Etten-Leur, Geertruidenberg, Gilze en Rijen, Goirle, Halderberge, Hilvarenbeek, Loon op Zand, Moerdijk, Oisterwijk, Oosterhout, Roosendaal, Rucphen, Steenbergen, Tilburg, Waalwijk, Werkendam, Woensdrecht, Woudrichem, Zundert.  
+1. Arrondissement Breda: Aalburg, Alphen-Chaam, Baarle-Nassau, Bergen op Zoom, Breda (hoofdplaats), Dongen, Drimmelen, Etten-Leur, Geertruidenberg, Gilze en Rijen, Goirle, Halderberge, Hilvarenbeek, Loon op Zand, Moerdijk, Oisterwijk, Oosterhout, Roosendaal, Rucphen, Steenbergen, Tilburg, Waalwijk, Werkendam, Woensdrecht, Woudrichem, Zundert.  
 
-2. Arrondissement 's-Hertogenbosch: Asten, Bergeijk, Bernheze, Best, Bladel, Boekel, Boxmeer, Boxtel, Cranendonck, Cuijk, Deurne, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Grave, Haaren, Heeze-Leende, Helmond, 's-Hertogenbosch, Heusden, Laarbeek, Landerd, Maasdonk, Mill en Sint Hubert, Nuenen, Gerwen en Nederwetten, Oirschot, Oss, Reusel-De Mierden, Schijndel, Sint Anthonis, Sint-Michielsgestel, Sint-Oedenrode, Someren, Son en Breugel, Uden, Valkenswaard, Veghel, Veldhoven, Vught, Waalre.  
+2. Arrondissement 's-Hertogenbosch: Asten, Bergeijk, Bernheze, Best, Bladel, Boekel, Boxmeer, Boxtel, Cranendonck, Cuijk, Deurne, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Grave, Haaren, Heeze-Leende, Helmond, ’s-Hertogenbosch (hoofdplaats), Heusden, Laarbeek, Landerd, Maasdonk, Mill en Sint Hubert, Nuenen, Gerwen en Nederwetten, Oirschot, Oss, Reusel-De Mierden, Schijndel, Sint Anthonis, Sint-Michielsgestel, Sint-Oedenrode, Someren, Son en Breugel, Uden, Valkenswaard, Veghel, Veldhoven, Vught, Waalre.  
 
-3. Arrondissement Maastricht: Beek, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, Maastricht, Meerssen, Nuth, Onderbanken, Schinnen, Simpelveld, Sittard-Geleen, Stein, Vaals, Valkenburg aan de Geul, Voerendaal.  
+3. Arrondissement Maastricht: Beek, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, Maastricht (hoofdplaats), Meerssen, Nuth, Onderbanken, Schinnen, Simpelveld, Sittard-Geleen, Stein, Vaals, Valkenburg aan de Geul, Voerendaal.  
 
-4. Arrondissement Roermond: Beesel, Bergen (L.), Echt-Susteren, Gennep, Horst aan de Maas, Leudal, Maasgouw, Mook en Middelaar, Nederweert, Peel en Maas, Roerdalen, Roermond, Venlo, Venray, Weert.    
+4. Arrondissement Middelburg: Borsele, Goes, Hulst, Kapelle, Middelburg (hoofdplaats), Noord-Beveland, Reimerswaal, Schouwen-Duiveland, Sluis, Terneuzen, Tholen, Veere, Vlissingen.  
+
+5. Arrondissement Roermond: Beesel, Bergen (L.), Echt-Susteren, Gennep, Horst aan de Maas, Leudal, Maasgouw, Mook en Middelaar, Nederweert, Peel en Maas, Roerdalen, Roermond (hoofdplaats), Venlo, Venray, Weert.    
 
 ### Artikel  10  
 
@@ -117,17 +115,21 @@ Het rechtsgebied van het gerechtshof te Leeuwarden bestaat uit de volgende arron
 
 2. Groningen  
 
-3. Leeuwarden.    
+3. Leeuwarden  
+
+4. Zwolle-Lelystad    
 
 ### Artikel  11  
 
 De rechtsgebieden van de tot het ressort Leeuwarden behorende rechtbanken bestaan uit de volgende gemeenten: 
 
-1. Arrondissement Assen: Aa en Hunze, Assen, Borger-Odoorn, Coevorden, Emmen, Hoogeveen, Meppel, Midden-Drenthe, Noordenveld, Tynaarlo, Westerveld, De Wolden.  
+1. Arrondissement Assen: Aa en Hunze, Assen (hoofdplaats), Borger-Odoorn, Coevorden, Emmen, Hoogeveen, Meppel, Midden-Drenthe, Noordenveld, Tynaarlo, Westerveld, De Wolden.  
 
-2. Arrondissement Groningen: Appingedam, Bedum, Bellingwedde, Delfzijl, De Marne, Eemsmond, Groningen, Grootegast, Haren, Hoogezand-Sappemeer, Leek, Loppersum, Marum, Menterwolde, Oldambt, Pekela, Slochteren, Stadskanaal, Ten Boer, Veendam, Vlagtwedde, Winsum, Zuidhorn.  
+2. Arrondissement Groningen: Appingedam, Bedum, Bellingwedde, Delfzijl, De Marne, Eemsmond, Groningen (hoofdplaats), Grootegast, Haren, Hoogezand-Sappemeer, Leek, Loppersum, Marum, Menterwolde, Oldambt, Pekela, Slochteren, Stadskanaal, Ten Boer, Veendam, Vlagtwedde, Winsum, Zuidhorn.  
 
-3. Arrondissement Leeuwarden: Achtkarspelen, Ameland, Boarnsterhim, Dantumadeel, Dongeradeel, Ferwerderadiel, Franekeradeel, Gaasterlân-Sleat, Harlingen, Heerenveen, Het Bildt, Kollumerland en Nieuwkruisland, Leeuwarden, Leeuwarderadeel, Lemsterland, Littenseradiel, Menaldumadeel, Ooststellingwerf, Opsterland, Schiermonnikoog, Skarsterlân, Smallingerland, Súdwest Fryslân, Terschelling, Tytsjerksteradiel, Vlieland, Weststellingwerf.    
+3. Arrondissement Leeuwarden: Achtkarspelen, Ameland, Boarnsterhim, Dantumadeel, Dongeradeel, Ferwerderadiel, Franekeradeel, Gaasterlân-Sleat, Harlingen, Heerenveen, Het Bildt, Kollumerland en Nieuwkruisland, Leeuwarden (hoofdplaats), Leeuwarderadeel, Lemsterland, Littenseradiel, Menaldumadeel, Ooststellingwerf, Opsterland, Schiermonnikoog, Skarsterlân, Smallingerland, Súdwest Fryslân, Terschelling, Tytsjerksteradiel, Vlieland, Weststellingwerf.  
+
+4. Arrondissement Zwolle-Lelystad: Almere, Dalfsen, Deventer, Dronten, Hardenberg, Kampen, Lelystad, Noordoostpolder, Olst-Wijhe, Ommen, Raalte, Staphorst, Steenwijkerland, Urk, Zeewolde, Zwartewaterland, Zwolle (hoofdplaats).    
 
 ### Artikel  12  
 

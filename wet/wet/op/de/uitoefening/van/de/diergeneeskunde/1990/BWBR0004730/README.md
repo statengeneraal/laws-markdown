@@ -255,7 +255,11 @@ b. vier dierenartsen en een door Onze Ministers te bepalen aantal para-veterinai
 
 ### Artikel  22  
 
-Het in de artikelen 46c, tweede lid, 46d, tweede lid, 46f, 46i met uitzondering van het eerste lid, onderdeel c, 46j, 46l, eerste lid, onderdeel a, en derde lid, 46m, 46o en 46p, van de Wet rechtspositie rechterlijke ambtenaren voor de leden van de rechterlijke macht bepaalde is van overeenkomstige toepassing ten aanzien van de leden van het veterinair tuchtcollege en hun plaatsvervangers.  
+Het in de artikelen 46c, tweede lid, 46d, tweede lid, 46f, 46i met uitzondering van het eerste lid, onderdeel c, 46j, 46l, eerste lid, onderdeel a, en derde lid, 46m, 46o en 46p, van de Wet rechtspositie rechterlijke ambtenaren voor de leden van de rechterlijke macht bepaalde is van overeenkomstige toepassing ten aanzien van de leden van het veterinair tuchtcollege en hun plaatsvervangers. De [artikelen 13a](../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [13b, uitgezonderd het eerste lid, onderdelen b en c, en vierde lid](../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en [13c tot en met 13g van de Wet op de rechterlijke organisatie](../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) zijn van overeenkomstige toepassing ten aanzien van gedragingen van de leden van het veterinair tuchtcollege en hun plaatsvervangers, met dien verstande dat: 
+
+a. voor de overeenkomstige toepassing van die artikelen onder «het betrokken gerechtsbestuur» wordt verstaan: de voorzitter van het veterinair tuchtcollege; en  
+
+b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in [artikel 13a](../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), te voldoen, indien de verzoeker redelijkerwijs onvoldoende belang heeft bij een onderzoek als bedoeld in datzelfde artikel.    
 
 ### Artikel  23  
 

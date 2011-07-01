@@ -26,7 +26,7 @@ Dit besluit berust op [artikel 13, tweede lid, van de Landbouwkwaliteitswet](../
 
 ### Artikel  2  
 
-De controle-instelling is gehouden bij de vaststelling van haar tuchtreglement het bij dit besluit bepaalde in acht te nemen. Een zodanig reglement behoeft alvorens het in werking treedt de goedkeuring van Onze Minister en Onze Minister van Justitie.  
+De controle-instelling is gehouden bij de vaststelling van haar tuchtreglement het bij dit besluit bepaalde in acht te nemen. Een zodanig reglement behoeft alvorens het in werking treedt de goedkeuring van Onze Minister en Onze Minister van Veiligheid en Justitie.  
 
 ### Artikel  3  
 
@@ -44,7 +44,7 @@ De controle-instelling is gehouden bij de vaststelling van haar tuchtreglement h
 
 ### Artikel  5  
 
-1.  De voorzitter, de vice-voorzitters, de secretaris en de adjunct-secretarissen van een tuchtgerecht, onderscheidenlijk centraal tuchtgerecht moeten voldoen aan de vereisten voor benoeming tot rechter in een rechtbank.   
+1.  De voorzitter, de vice-voorzitters, de secretaris en de adjunct-secretarissen van een tuchtgerecht, onderscheidenlijk centraal tuchtgerecht moeten voldoen aan de eisen voor benoeming, genoemd in [artikel 5 van de Wet rechtspositie rechterlijke ambtenaren](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md).   
 2.  Ingeval van toepassing van artikel 3, tweede lid, is het bepaalde in het voorgaande lid slechts in zoverre van toepassing op de tuchtgerechten, dat ter zitting hetzij de voorzitter, hetzij de fungerend secretaris aan de in dat lid genoemde vereisten moeten voldoen.   
 
 ### Artikel  6  
@@ -61,7 +61,7 @@ De controle-instelling bepaalt de plaats, waar het tuchtgerecht, onderscheidenli
 1.  De controle-instelling bepaalt het aantal leden en regelt de wijze van de benoeming van de voorzitter, de vice-voorzitters, de andere leden, de secretaris en de adjunct-secretarissen van het tuchtgerecht, onderscheidenlijk het centraal tuchtgerecht, alsmede de tijd, gedurende welke zij hun functie vervullen. De benoeming van de voorzitter en de vice-voorzitters behoeft de goedkeuring van Onze Minister.   
 2.  Echtgenoten, bloedverwanten of aanverwanten tot de derde graad ingesloten, kunnen niet te zamen zijn voorzitter, vice-voorzitter, lid, secretaris of adjunct-secretaris van een tuchtrecht, onderscheidenlijk van het centraal tuchtgerecht.   
 3.  Indien het huwelijk eerst mocht worden aangegaan na de benoeming, zal de jongstbenoemde zijn functie niet kunnen behouden.   
-4.  Indien de zwagerschap eerst mocht zijn ontstaan na de benoeming, zal degene, die haar veroorzaakte, zijn functie niet kunnen behouden, behoudens goedkeuring door Onze Minister en Onze Minister van Justitie. De zwagerschap houdt op door de ontbinding van het huwelijk, dat haar veroorzaakte.   
+4.  Indien de zwagerschap eerst mocht zijn ontstaan na de benoeming, zal degene, die haar veroorzaakte, zijn functie niet kunnen behouden, behoudens goedkeuring door Onze Minister en Onze Minister van Veiligheid en Justitie. De zwagerschap houdt op door de ontbinding van het huwelijk, dat haar veroorzaakte.   
 
 ### Artikel  9  
 
@@ -84,12 +84,6 @@ Een belanghebbende kan tegen een besluit tot ontslag, onderscheidenlijk tot het 
 ### Artikel  12  
 
 Afschrift van de in artikel 11 bedoelde verklaring en van de daarbij behorende stukken wordt, ook al wordt de zaak ingevolge artikel 11, derde lid, niet aanhangig gemaakt, gezonden aan de Officier van Justitie bij de rechtbank van het arrondissement waar de overtreding werd gepleegd, tenzij de Officier van Justitie heeft laten weten dat daarvan kan worden afgezien.  
-
-### Artikel  13  
-
-1.  In het tuchtreglement kan worden bepaald in welke gevallen de voorzitter de zaak kan afdoen, indien naar zijn oordeel geen, dan wel geen andere maatregel dient te worden opgelegd dan een berisping, een geldboete van de tweede categorie of het stellen van de betrokkene onder verscherpte controle op zijn kosten voor een termijn van ten hoogste zes maanden.   
-2.  De betrokkene en degene die de zaak aanhangig heeft gemaakt kunnen binnen een termijn van ten hoogste vier weken na dagtekening van de tuchtbeschikking van de voorzitter bij aangetekende brief aan het tuchtgerecht mondelinge behandeling verzoeken. In dat geval wordt de tuchtbeschikking als niet gegeven beschouwd, waarna de zaak verder overeenkomstig de volgende artikelen wordt behandeld.   
-3.  Een beroep als bedoeld in artikel 19 staat tegen een beschikking van de voorzitter niet open.   
 
 ### Artikel  14  
 
@@ -149,7 +143,7 @@ Ingeval van toepassing van artikel 3, tweede lid, kunnen degene, die de zaak aan
 
 ### Artikel  22  
 
-Bij de bekendmaking van de tuchtbeschikking wordt tevens vermeld dat daartegen voorziening als bedoeld in [Titel IV van de Wet tuchtrechtspraak bedrijfsorganisatie](../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/BWBR0002145/README.md) openstaat.  
+Bij de bekendmaking van de tuchtbeschikking wordt tevens vermeld dat daartegen voorziening als bedoeld in [Hoofdstuk V van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) openstaat.  
 
 ### §  5  
 

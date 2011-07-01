@@ -271,6 +271,18 @@ c. zich borg te stellen of anderszins in te staan voor schulden van anderen.
 7.  Onze Minister kan regels vaststellen met betrekking tot de wijze van berekening en uitkering van de rente van de op de bijzondere rekening gestorte gelden.   
 8.  Van de bepalingen van dit artikel en van de in het zevende lid bedoelde regels kan niet worden afgeweken.   
 
+### Artikel  25a  
+
+Bij regeling van Onze Minister kan aan notarissen de plicht worden opgelegd tot het doen van een melding aan het Bureau indien er zich, in de regeling nader aan te duiden, gebeurtenissen voordoen die aanmerkelijke nadelige gevolgen kunnen hebben voor de financiële positie van een notaris.  
+
+### Artikel  25b  
+
+1.  Indien de continuïteit van de praktijk van een notaris vanwege de wijze van bedrijfsvoering in gevaar dreigt te komen, kan door de voorzitter van de kamer voor het notariaat, ambtshalve naar aanleiding van een klacht dan wel op verzoek van de KNB of het Bureau, na verhoor en behoorlijke oproeping van de notaris, voor een periode van maximaal een jaar een stille bewindvoerder worden benoemd. Artikel 27, eerste lid, tweede tot en met vierde volzin, tweede lid en derde lid, is van overeenkomstige toepassing.   
+2.  De stille bewindvoerder geeft de notaris advies en begeleiding bij zijn bedrijfsvoering en is tevens bevoegd om daaromtrent bindende aanwijzingen aan de notaris te geven.   
+3.  Bij de benoeming wordt een honorarium vastgesteld dat ten laste komt van de notaris.   
+4.  De kamer voor het notariaat of zijn voorzitter kan instructies geven aan de bewindvoerder met betrekking tot de bewindvoering.   
+5.  De kamer voor het notariaat of zijn voorzitter kan de bewindvoering te allen tijde opschorten of beëindigen.   
+
 ### Artikel  26  
 
 Notarissen ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, die in staat van faillissement worden verklaard, surséance van betaling hebben verkregen, wegens schulden worden gegijzeld of die onder curatele worden gesteld, zijn gedurende de toepassing van de schuldsaneringsregeling natuurlijke personen, voor de duur van het faillissement, de surséance van betaling, de gijzeling of de curatele van rechtswege in de uitoefening van hun ambt geschorst. Artikel 103, zesde lid, is van toepassing.  
@@ -329,6 +341,47 @@ b. bij waarneming in de in artikel 28, onderdelen c, d of e, bedoelde gevallen, 
 2.  Na de beëindiging van de notariële werkzaamheden zoals bedoeld in artikel 1, eerste lid, onderdeel b, behoudt de kandidaat-notaris, indien hij dit wenst, gedurende een jaar de hoedanigheid van kandidaat-notaris. Indien hij voor of na de beëindiging van zijn notariële werkzaamheden tot vaste waarnemer is benoemd is hij één jaar na die beëindiging van rechtswege uit deze functie ontslagen.   
 3.  Indien de gedefungeerde notaris of de gewezen kandidaat-notaris ambtshalve benoemd is tot waarnemer, behoudt hij de hoedanigheid van kandidaat-notaris gedurende één jaar na het einde van de laatste waarnemingsperiode.   
 4.  De gedefungeerde notaris, de gewezen kandidaat-notaris of de ambtshalve benoemde waarnemer die gedurende een jaar waarnemingsbevoegd wil blijven, geeft binnen een week na defungeren of de beëindiging van de notariële werkzaamheden of de waarneming, kennis aan de KNB dat hij de hoedanigheid van kandidaat-notaris wenst te verkrijgen onderscheidenlijk wenst te behouden. De KNB zendt de gedefungeerde notaris of de gewezen kandidaat-notaris een bewijs van ontvangst van de kennisgeving en doet terstond mededeling aan de kamer van toezicht in het arrondissement waarbinnen de notaris of de kandidaat-notaris gevestigd was.   
+
+### Titel  IIIa  
+
+####De toegevoegd notaris
+
+### Artikel  30b  
+
+1.  Een notaris kan, met goedkeuring van Onze Minister, een kandidaat-notaris aanwijzen als een aan hem toegevoegd notaris. Het aantal toegevoegd notarissen per notaris bedraagt ten hoogste drie.   
+2.  De toegevoegd notaris is bevoegd om namens, onder verantwoordelijkheid en toezicht van de notaris handelingen te verrichten als bedoeld in artikel 2, eerste lid. De notaris beschikt over een exclusieve instructiebevoegdheid ten aanzien van de notariële werkzaamheden van de toegevoegd notaris.   
+3.  De toegevoegd notaris is vaste waarnemer als bedoeld in artikel 29, tweede lid, teneinde de notaris te vervangen in de in artikel 28, onderdelen a en b, bedoelde gevallen.   
+4.  In geval van waarneming neemt de waarnemer de toevoeging waar, tenzij de toegevoegd notaris zelf als waarnemer optreedt.   
+5.  De toegevoegd notaris gebruikt een zegel dat gelijk is aan het zegel van de notaris, bedoeld in artikel 51, met dien verstande dat hierop tevens zijn eigen naam en hoedanigheid zijn vermeld. De door de toegevoegd notaris opgemaakte minuten behoren tot het protocol van de notaris.   
+6.  Tot het voeren van de titel toegevoegd notaris is uitsluitend bevoegd hij die overeenkomstig het eerste lid als zodanig is aangewezen en wiens toevoeging niet is beëindigd of opgeschort.   
+
+### Artikel  30c  
+
+1.  Een kandidaat-notaris komt in aanmerking voor toevoeging aan een notaris indien hij voldoet aan de voorwaarden van artikel 6, met uitzondering van het tweede lid, onderdeel b, onder 4°, en indien wordt voldaan aan de voorwaarden die volgen uit artikel 30b, tweede lid.   
+2.  Het verzoek om goedkeuring van de toevoeging wordt ingediend door de notaris en de kandidaat-notaris gezamenlijk. Artikel 8 is van overeenkomstige toepassing, met dien verstande dat de bij het verzoek over te leggen bewijsstukken tevens betrekking hebben op de vervulling van de voorwaarden die volgen uit artikel 30b, tweede lid, en dat het advies van de Commissie toegang notariaat tevens ziet op de vraag of aan deze voorwaarden wordt voldaan. Aan de goedkeuring kunnen nadere voorwaarden worden verbonden.   
+3.  De toegevoegd notaris die aan een notaris wordt toegevoegd, legt, indien dit nog niet eerder heeft plaatsgevonden, in verband met de aanvaarding van zijn toevoeging de eed af voor de rechtbank in de hoofdplaats van het ressort waarin de plaats van vestiging is gelegen van de notaris aan wie hij wordt toegevoegd. Artikel 3, tweede tot en met vijfde lid, is van overeenkomstige toepassing.   
+
+### Artikel  30d  
+
+1.  De toevoeging eindigt van rechtswege door: 
+
+a. opzegging dan wel het eindigen van de arbeidsovereenkomst van de toegevoegd notaris of schorsing in zijn werkzaamheden door zijn werkgever;  
+
+b. ontzetting uit het ambt, ontslag of overlijden van de notaris;  
+
+c. onherroepelijke oplegging aan de notaris van een ontzegging van de bevoegdheid tot het aanwijzen van een toegevoegd notaris als bedoeld in artikel 103, eerste lid, onderdeel d;  
+
+d. onherroepelijke oplegging aan de toegevoegd notaris van een ontzegging in de bevoegdheid om als toegevoegd notaris op te treden als bedoeld in artikel 103, derde lid;  
+
+e. benoeming van de toegevoegd notaris tot notaris.     
+2.  Indien de toevoeging op grond van het eerste lid, onderdelen b of c, is geëindigd, kan de voorzitter van kamer voor het notariaat bij de benoeming van een waarnemer als bedoeld in artikel 29, tweede lid, de desbetreffende kandidaat-notaris met diens instemming aanwijzen als aan de waarnemer toegevoegd notaris, voor de duur van de waarneming.   
+3.  Onverminderd het bepaalde in het eerste lid, onderdeel c, wordt de toevoeging opgeschort met het ingaan van de schorsing van de notaris in de uitoefening van het ambt. De opschorting eindigt met de benoeming van een waarnemer dan wel door beëindiging van de schorsing.   
+4.  Onze minister kan de toevoeging intrekken: 
+
+a. op verzoek van de toegevoegd notaris;  
+
+b. indien er sprake is van andere omstandigheden dan bedoeld in het eerste lid waardoor niet langer wordt voldaan aan de voorwaarden voor toevoeging die volgen uit artikel 30b, tweede lid, en aan de voorwaarden als bedoeld in artikel 30c, tweede lid, laatste volzin.     
+5.  Indien er zich feiten of omstandigheden voordoen die ingevolge het eerste lid leiden tot beëindiging van de toevoeging van rechtswege, of ingevolge het vierde lid grond kunnen vormen voor intrekking van de toevoeging, doen de notaris en de toegevoegd notaris daarvan onverwijld mededeling aan de KNB en Onze Minister.   
 
 ### Titel  IV  
 
@@ -625,6 +678,13 @@ De Koninklijke Notariële Beroepsorganisatie is een openbaar lichaam in de zin v
 1.  De KNB heeft tot taak de bevordering van een goede beroepsuitoefening door de leden en van hun vakbekwaamheid. Haar taak omvat mede de zorg voor de eer en het aanzien van het notarisambt.   
 2.  Bij verordening worden beroeps- en gedragsregels van de leden van de KNB vastgesteld. Tevens kunnen bij verordening regels worden gesteld betreffende de bevordering van de vakbekwaamheid van de leden en de kwaliteit van de beroepsuitoefening.   
 
+### Artikel  61a  
+
+1.  De KNB is verantwoordelijk voor het uitvoeren van kwaliteitstoetsen bij haar leden, die worden verricht door deskundigen die zijn aangewezen door het bestuur van de KNB.   
+2.  Op het verrichten van de kwaliteitstoetsen en de krachtens het eerste lid aangewezen personen, zijn de [artikelen 5:12](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:14](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15, eerste en derde lid](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:16](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:17](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:18](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
+3.  Ten behoeve van het verrichten van de kwaliteitstoetsen door de aangewezen personen, bedoeld in het eerste lid, zijn de notaris en de onder zijn verantwoordelijkheid werkzame personen ten opzichte van de aangewezen personen niet gehouden aan de geheimhoudingsplicht, bedoeld in artikel 22.   
+4.  Bij verordening worden nadere regels gesteld betreffende het verrichten van de kwaliteitstoetsen.   
+
 ### Artikel  62  
 
 De KNB heeft een bestuur, een ledenraad, een algemene ledenvergadering alsmede afdelingen in elk arrondissement, ringen genaamd.  
@@ -823,6 +883,11 @@ Besluiten van de ledenraad, van het bestuur of van andere organen van de KNB, ni
 
 1.  Het lidmaatschap van de leden van de kamer van toezicht vervalt van rechtswege indien zij de kwaliteit verliezen waarin zij benoemd zijn, met dien verstande dat ten aanzien van een lid als bedoeld in artikel 94, vierde lid, dit kwaliteitsverlies alleen dan intreedt wanneer hij noch kandidaat-notaris noch notaris is.   
 2.  Het in de artikelen [46c, tweede lid](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d, tweede lid](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46f](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46g, eerste en tweede lid](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46i met uitzondering van het eerste lid, onderdeel c](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46j](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l, eerste lid, aanhef en onder a, en derde lid](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46m](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46o](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en [46p, eerste tot en met vijfde lid, van de Wet rechtspositie rechtelijke ambtenaren](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) bepaalde is van overeenkomstige toepassing ten aanzien van deze leden.   
+3.  De [artikelen 13a](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [13b, uitgezonderd het eerste lid, onderdelen b en c, en vierde lid](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en [13c tot en met 13g van de Wet op de rechterlijke organisatie](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) zijn van overeenkomstige toepassing ten aanzien van gedragingen van deze leden, met dien verstande dat: 
+
+a. voor de overeenkomstige toepassing van die artikelen onder «het betrokken gerechtsbestuur» wordt verstaan: de voorzitter van de kamer van toezicht; en  
+
+b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in [artikel 13a](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), te voldoen, indien de verzoeker redelijkerwijs onvoldoende belang heeft bij een onderzoek als bedoeld in datzelfde artikel.     
 
 ### Artikel  96  
 
@@ -862,6 +927,20 @@ De ambtenaren van de rijksbelastingdienst zijn verplicht om van hetgeen hun bij 
 12.  Een klacht kan slechts worden ingediend gedurende drie jaren na de dag waarop de tot klacht gerechtigde van het handelen of nalaten van een notaris of kandidaat-notaris dat tot tuchtrechtelijke maatregelen aanleiding kan geven kennis heeft genomen.   
 13.  Intrekken van de klacht, nadat deze is ingekomen, of staking van de werkzaamheden door de persoon over wie geklaagd is, heeft op de verdere behandeling geen invloed, wanneer naar het oordeel van de kamer van toezicht het algemeen belang de voortzetting van de behandeling vordert of wanneer degene over wie geklaagd is, schriftelijk heeft verklaard voortzetting van de behandeling van de klacht te verlangen.   
 
+### Artikel  99a  
+
+1.  De voorzitter van de kamer voor het notariaat kan naar aanleiding van een klacht een vooronderzoek gelasten naar een notaris, toegevoegd notaris of kandidaat-notaris, na afloop waarvan verslag wordt uitgebracht aan de kamer. Het Bureau ontvangt een afschrift van het verslag en alle daarbij behorende stukken.   
+2.  De voorzitter kan het verrichten van het vooronderzoek opdragen aan een of meer leden of plaatsvervangende leden van de kamer, aan de secretaris of plaatsvervangend secretaris, alsmede aan personen die werkzaam zijn bij het Bureau of andere deskundigen.   
+3.  De voorzitter bepaalt de omvang van het vooronderzoek. Het vooronderzoek kan zich mede uitstrekken tot andere dan de in de klacht vermelde feiten. De voorzitter van de kamer kan de vooronderzoeker aanwijzingen geven.   
+4.  Op het vooronderzoek en de in het tweede lid bedoelde personen zijn artikel 111a, tweede lid, alsmede de [artikelen 5:13 tot en met 5:18](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
+5.  Ten behoeve van het verrichten van het vooronderzoek door de aangewezen personen, bedoeld in het tweede lid, zijn de notaris en de onder zijn verantwoordelijkheid werkzame personen ten opzichte van de aangewezen personen niet gehouden aan de geheimhoudingsplicht, bedoeld in artikel 22.   
+6.  Bij het verrichten van vooronderzoek wordt een afschrift van de last tot het verrichten van het onderzoek zo mogelijk aan de betrokken notaris, toegevoegd notaris of kandidaat-notaris getoond.   
+7.  De vooronderzoeker stelt de klager en de betrokken notaris, toegevoegd notaris of kandidaat-notaris in de gelegenheid te worden gehoord.   
+8.  De betrokkene is niet verplicht ten behoeve van het vooronderzoek verklaringen omtrent zijn onderzochte handelen of nalaten af te leggen. Voor het horen wordt aan de betrokkene medegedeeld dat hij niet verplicht is tot antwoorden.   
+9.  Indien de klacht is ingediend door het Bureau, wordt het vooronderzoek niet opgedragen aan degenen die betrokken waren bij de uitoefening van het toezicht dat aanleiding gaf tot de indiening van de klacht.   
+10.  Een lid of plaatsvervangend lid van de kamer dat vooronderzoek in een zaak heeft verricht, neemt op straffe van nietigheid van de beslissing van de kamer geen deel aan de behandeling van die zaak door de kamer.   
+11.  De voorzitter kan het vooronderzoek te allen tijde opschorten of beëindigen.   
+
 ### Artikel  100  
 
 Zij die deel uitmaken van een kamer van toezicht kunnen zich verschonen en kunnen worden gewraakt, indien te hunnen aanzien feiten of omstandigheden bestaan, waardoor in het algemeen de onpartijdigheid schade zou kunnen lijden. [Titel IV van het Vierde Boek van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.  
@@ -898,6 +977,14 @@ d. ontzetting uit het ambt.
 5.  De kamer kan bij het opleggen van een waarschuwing of berisping besluiten tot openbaarmaking op door haar te bepalen wijze van de opgelegde maatregel, al dan niet met de gronden waarop hij rust, indien enig door deze bepaling beschermd belang dat vordert. De waarschuwing of berisping wordt door de voorzitter uitgesproken in een vergadering van de kamer, in aanwezigheid van de notaris of kandidaat-notaris, die daarvoor bij aangetekende brief wordt opgeroepen. Daarvan wordt proces-verbaal opgemaakt. De secretaris zendt een afschrift van het proces-verbaal bij aangetekende brief aan de notaris of kandidaat-notaris. Indien deze in de vergadering niet is verschenen, deelt de secretaris de inhoud van de waarschuwing of berisping bij aangetekende brief met bericht van ontvangst aan hem mee.   
 6.  Schorsing in de uitoefening van het ambt brengt mede verlies voor de duur van de schorsing van de betrekkingen, waarbij de hoedanigheid van notaris vereiste is voor de verkiesbaarheid of benoembaarheid. De geschorste notaris mag gedurende zijn schorsing de titel van notaris niet voeren.   
 7.  Een notaris die uit zijn ambt is ontzet kan niet meer tot waarnemer worden benoemd.   
+
+### Artikel  103a  
+
+1.  De geldboete, bedoeld in artikel 103, eerste lid, onderdeel c, bedraagt ten hoogste het bedrag van de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+2.  De beslissing tot oplegging van de geldboete bevat de termijn waarbinnen en de wijze waarop het bedrag moet worden betaald. Op verzoek van de notaris, toegevoegd notaris of kandidaat-notaris kan de voorzitter van de kamer voor het notariaat de termijn verlengen.   
+3.  Het bedrag van de opgelegde boete komt ten bate van de Staat.   
+4.  Wordt de boete niet voldaan binnen de termijn, krachtens het tweede lid gesteld, dan kan de kamer, na de betrokken notaris, toegevoegd notaris of kandidaat-notaris in de gelegenheid te hebben gesteld daarover te worden gehoord, ambtshalve beslissen een of meer tuchtrechtelijke maatregelen op te leggen als bedoeld in artikel 103, eerste lid, onderdelen c, e of f, de maatregel als bedoeld in artikel 103, derde lid, laatste deelzin.   
+5.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de invordering van de geldboete.   
 
 ### Artikel  104  
 
@@ -968,6 +1055,23 @@ In geval van oplegging van de maatregelen schorsing in de uitoefening van het am
 2.  In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is [titel 4.2 van die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
 3.  De subsidie wordt per boekjaar verstrekt. [Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
 4.  Onze Minister kan voorschotten op de in het eerste lid bedoelde subsidie verlenen.   
+
+### Artikel  111a  
+
+1.  De bij besluit van het bestuur van het Bureau aangewezen personen die werkzaam zijn bij het Bureau, zijn belast met het houden van toezicht op de naleving van het bepaalde bij of krachtens deze wet. Van dat besluit wordt mededeling gedaan in de Staatscourant.   
+2.  In aanvulling op [artikel 5:17 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is een toezichthouder als bedoeld in het eerste lid, bevoegd om inzage te vorderen in persoonlijke gegevens en bescheiden, voorzover deze betrekking hebben op de persoonlijke financiële administratie van de notaris.   
+3.  Ten behoeve van de uitoefening van het toezicht door de aangewezen personen, bedoeld in het eerste lid, zijn de notaris en de onder zijn verantwoordelijkheid werkzame personen ten opzichte van de aangewezen personen niet gehouden aan de geheimhoudingsplicht, bedoeld in artikel 22.   
+
+### Artikel  111b  
+
+1.  Indien het Bureau bij de uitoefening van het toezicht van feiten of omstandigheden blijkt die naar zijn oordeel voldoende grond opleveren voor het opleggen van een tuchtmaatregel, kan het een klacht indienen, tenzij toepassing wordt gegeven aan het tweede lid .   
+2.  Het Bureau kan voor de overtreding van het bepaalde bij of krachtens de artikelen 24, eerste tot en met vierde lid, en 25a, de overtreder een bestuurlijke boete en een last onder dwangsom opleggen.   
+3.  De bestuurlijke boete bedraagt ten hoogste het bedrag van de geldboete van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+4.  Een bestuurlijke boete wordt niet opgelegd indien tegen de overtreder jegens dezelfde gedraging een klacht is ingediend.   
+
+### Artikel  111c  
+
+De ambtenaren van de rijksbelastingdienst doen van hetgeen hen bij de uitvoering van hun taak betreffende de persoon of de zaken van een notaris, toegevoegd notaris of kandidaat-notaris blijkt of hun meegedeeld wordt, terstond mededeling aan het Bureau, indien het een handelen of nalaten betreft dat, gelet op artikel 93, eerste lid, aanleiding kan zijn voor de indiening van een klacht.  
 
 ### Artikel  112  
 

@@ -309,7 +309,7 @@ a. een ambtenaar van het bevoegd gezag op het gebied van de scheepvaart;
 
 b. een deskundige op het gebied van de bouw van binnenschepen en hun machines,  
 
-c. een nautisch deskundige die in het bezit is van het grote patent als bedoeld in het [Patentreglement Rijn](../../../../../../../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md).     
+c. een erkend nautisch deskundige die in het bezit is van een binnenvaartschipperspatent, dat het voeren van het te onderzoeken schip toestaat.     
 3.  De voorzitter en de deskundigen van elke Commissie worden benoemd door de autoriteiten van de staat waartoe de Commissie behoort. De voorzitter en de deskundigen dienen bij de aanvaarding van hun functie schriftelijk te verklaren dat zij deze in alle onpartijdigheid zullen vervullen. Van ambtenaren wordt een dergelijke verklaring niet geëist.   
 4.  De Commissies van Deskundigen kunnen zich onder de voorwaarden, zoals door elk der betrokken staten zullen worden vastgesteld, doen bijstaan door gespecialiseerde deskundigen.   
 
@@ -332,7 +332,7 @@ c. een nautisch deskundige die in het bezit is van het grote patent als bedoeld 
 
 ####Afgifte van het certificaat van onderzoek
 
-1.  Wanneer de Commissie van Deskundigen op grond van het onderzoek van een vaartuig vaststelt dat dit beantwoordt aan de voorschriften van dit reglement met betrekking tot bouw, inrichting en uitrusting, geeft zij aan de aanvrager een certificaat van onderzoek volgens het model van bijlage B af.   
+1.  Wanneer de Commissie van Deskundigen op grond van het onderzoek van een vaartuig vaststelt dat dit beantwoordt aan de voorschriften van dit reglement met betrekking tot bouw, inrichting en uitrusting, geeft zij aan de aanvrager een certificaat van onderzoek volgens het model van bijlage B af. De Commissie van Deskundigen is bovendien belast met de taken zoals voorzien in de artikelen 3.18 en 3.19 van het Reglement betreffende het scheepvaartpersoneel op de Rijn.   
 2.  Ingeval de Commissie van Deskundigen weigert een certificaat van onderzoek af te geven, moet zij dit aan de aanvrager gemotiveerd schriftelijk mededelen.   
 3.  De onderscheidingsletters van de Commissie van Deskundigen en het volgnummer van het certificaat van onderzoek moeten onuitwisbaar in Latijnse letters en Arabische cijfers van ten minste 2 cm hoogte zijn aangebracht op een goed zichtbare plaats, die in het certificaat van onderzoek is vermeld, op een vast gedeelte van het schip dat is beschermd tegen stoten en dat slechts in geringe mate onderhevig is aan slijtage.   
 
@@ -830,7 +830,7 @@ c. visuele controle en controle op de dichtheid van de hydraulische delen van de
 d. visuele controle van de elektrische delen van de installaties, in het bijzonder relais, elektrische motoren en veiligheidsinstallaties;  
 
 e. controle van de optische en akoestische controle-instrumenten.     
-5.  Inzake de keuring moet een door de erkend deskundige ondertekende verklaring worden opgesteld waaruit de datum van de keuring blijkt.   
+5.  Inzake de keuring moet een door de deskundige ondertekende verklaring worden opgesteld waaruit de datum van de keuring blijkt.   
 
 ### Hoofdstuk  7  
 
@@ -1014,7 +1014,7 @@ c. de olie- en luchtdruk van de omkeerinrichting van de voortstuwingsmotoren, de
 3.  Voor het aanvaringsschot mag zich geen brandstoftank bevinden.   
 4.  Brandstoftanks en hun appendages mogen niet direct boven motoren of uitlaatgassenleidingen zijn geplaatst.   
 5.  De vulopeningen van brandstoftanks moeten duidelijk zijn gekenmerkt.   
-6.  De vulleidingen van brandstoftanks moeten aan dek uitmonden, met uitzondering van die der dagtanks. De vulleidingen moeten voorzien zijn van een aansluitkoppeling volgens de Europese norm EN 12 827. Deze tanks moeten zijn voorzien van een ontluchtingsleiding die bovendeks in de open lucht uitmondt en zo zijn ingericht dat geen water kan binnendringen. De doorsnede van deze ontluchtingsleiding moet ten minste 1,25 maal zo groot zijn als de doorsnede van de vulleiding. Indien tanks voor brandstoffen met elkaar in verbinding staan, moet de doorsnede van de verbindingsleiding ten minste 1,25 maal zo groot zijn als de doorsnede van de vulleiding.   
+6.  De vulleidingen van brandstoftanks moeten aan dek uitmonden, met uitzondering van die der dagtanks. De vulleidingen moeten voorzien zijn van een aansluitkoppeling volgens de Europese norm EN 12827 : 1999. Deze tanks moeten zijn voorzien van een ontluchtingsleiding die bovendeks in de open lucht uitmondt en zo zijn ingericht dat geen water kan binnendringen. De doorsnede van deze ontluchtingsleiding moet ten minste 1,25 maal zo groot zijn als de doorsnede van de vulleiding. Indien tanks voor brandstoffen met elkaar in verbinding staan, moet de doorsnede van de verbindingsleiding ten minste 1,25 maal zo groot zijn als de doorsnede van de vulleiding.   
 7.  De uitgaande leidingen voor vloeibare brandstoffen moeten onmiddellijk bij de tanks zijn voorzien van een snelsluitklep, die van het dek af kan worden bediend, ook wanneer de betrokken ruimten zijn gesloten. Wanneer de bedieningsinrichting door de wijze van opstelling aan het gezicht is onttrokken, hoeft de bedekking of de afscherming niet afsluitbaar te zijn. De bedieningsinrichting moet met een rode kleur zijn gemarkeerd. Wanneer de inrichting door de wijze van opstelling aan het gezicht is onttrokken moet de bedekking of afscherming zijn voorzien van een teken ‘snelsluitklep van de tank’ met een lengte van de zijde van ten minste 10 cm, overeenkomstig schets 9 van bijlage I. De eerste zin geldt niet voor brandstoftanks die rechtstreeks aan de motor zijn aangebouwd.   
 8.  Brandstofleidingen, hun verbindingen, afdichtingen en appendages moeten zijn vervaardigd uit materiaal dat bestand is tegen de te verwachten mechanische, chemische en thermische belasting. Brandstofleidingen mogen niet onderhevig zijn aan schadelijke invloeden van warmte en moeten over hun volle lengte gecontroleerd kunnen worden.   
 9.  Brandstoftanks moeten zijn voorzien van een geschikte peilinrichting. De peilinrichting moet tot aan de hoogste vulstand afleesbaar zijn. De peilglazen moeten tegen beschadigingen zijn beschermd, aan de onderkant zijn voorzien van automatisch sluitende inrichtingen en het boveneinde moet weer naar de tank zijn gevoerd, boven de hoogste vulstand. Het materiaal van de peilglazen moet bij normale omgevingstemperaturen niet vervormen. De peilkokers moeten niet in verblijven eindigen. Peilkokers die in een machinekamer of ketelruim eindigen, moeten zijn voorzien van zelfsluitende afsluitinrichtingen.   
@@ -1302,17 +1302,17 @@ d. soort en doorsnede van de kabels.   In geval van onbemande vaartuigen hoeven 
 
 De minimum beschermingsgraad van de permanent geïnstalleerde delen van de installaties moet in overeenstemming zijn met de plaats van opstelling, zoals aangegeven in de onderstaande tabel:  
 
-| Plaats van opstelling  | Minimum beschermingsgraad (volgens IEC-publ. 60529: 1992)  |--- | generatoren  | motoren  | transformatoren  | schakelborden, verdeelkasten en schakelapparatuur  | installatiemateriaal  | verlichting  |
+|--- | Minimumbeschermingsgraad (volgens de internationale norm IEC 60529 : 1992)  | Plaats van opstelling  | Generatoren  | Motoren  | Transformatoren  | Schakelborden, verdeelkasten en schakelapparatuur  | Installatiemateriaal  | Verlichting  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| Dienstruimten, machinekamers, stuurmachinekamers  | IP 22  | IP 22  | IP 22 <sup>2</sup>  | IP 22 <sup>1,2</sup>  | IP 44  | IP 22  |
+| Dienstruimten, machinekamers, stuurmachinekamers  | IP 22  | IP 22  | 2)  IP 22  | 1)2)  IP 22  | IP 44  | IP 22  |
 | Laadruimen  | --- | --- | --- | --- | IP 55  | IP 55  |
-| Ruimten voor accumulatoren en verven  | --- | --- | --- | --- | --- | IP 44 en (EX) <sup>3</sup>  |
+| Ruimten voor accumulatoren en verven  | --- | --- | --- | --- | --- | IP 44  en (Ex)3)  |
 | Open dek, open stuurstellingen  | --- | IP 55  | --- | IP 55  | IP 55  | IP 55  |
 | Gesloten stuurhuis  | --- | IP 22  | IP 22  | IP 22  | IP 22  | IP 22  |
 | Verblijven, behalve sanitaire en vochtige ruimten  | --- | --- | --- | IP 22  | IP 20  | IP 20  |
 | Sanitaire en vochtige ruimten  | --- | IP 44  | IP 44  | IP 44  | IP 55  | IP 44  |
 
-Opmerkingen: <sup>1</sup> Voor apparaten met een hoge warmte-ontwikkeling: IP 12. <sup>2</sup> Indien het apparaat zelf niet aan de minimum beschermingsgraad voldoet, moet de plaats van opstelling de minimum beschermingsgraad volgens de tabel hebben. <sup>3</sup> Erkend veilige elektrische inrichting, bijvoorbeeld a. volgens de Europese Norm EN 50014: 1997; 50015: 1998; 50016: 2002; 50017: 1998; 50018: 2000; 50019: 2000 en 50020: 2002 of b. de overeenkomstige IEC-Publicaties 60079 in de versies geldig op 1 oktober 2003 
+Opmerkingen: <sup>1)</sup> Voor apparaten met een hoge warmte-ontwikkeling: IP 12. <sup>2)</sup> Indien het apparaat zelf niet aan de minimumbeschermingsgraad voldoet, moet de plaats van opstelling de minimumbeschermingsgraad volgens de tabel hebben. <sup>3)</sup> Erkend veilige elektrische inrichting, bijvoorbeeld a) volgens de Europese Norm EN 50014 : 1997; 50015 : 1998; 50016 : 2002; 50017 : 1998; 50018 : 2000; 50019 : 2000 en 50020 : 2002 of b) de overeenkomstige internationale norm IEC 60079 in de versie geldig op 1 oktober 2003.  
 
 ### Artikel  9.04  
 
@@ -1347,13 +1347,13 @@ In ruimten waarin zich explosieve gassen of gasmengsels kunnen ophopen, zoals ac
 |:---|:---|:---|:---|:---|:---|
 | a. Kracht- en verwarmingsinstallaties met inbegrip van de wandcontactdozen voor algemeen gebruik  | 250 V  | 250 V  | 500 V  |
 | b. Installaties voor verlichting, communicatie en signalering met inbegrip van de wandcontactdozen voor algemeen gebruik  | 250 V  | 250 V  | –  |
-| c. Wandcontactdozen voor de voeding van apparaten die bij het gebruik in de hand worden gehouden en die op het open dek of in nauwe of vochtige ruimten, met uitzondering van ketels of tanks, worden gebruikt:  | --- | --- | --- |
+| c. Wandcontactdozen voor de voeding van apparaten die bij het gebruik in de hand worden gehouden en die op het open dek of in nauwe of vochtige ruimten, met uitzondering van stoomketels of tanks, worden gebruikt:  | --- | --- | --- |
 | 1. Algemeen  | 50 V <sup>1</sup>  | 50 V <sup>1</sup>  | –  |
 | 2. Met een beschermingstransformator die slechts één apparaat voedt  | –  | 250 V <sup>2</sup>  | –  |
 | 3. Bij gebruik van apparaten die dubbel geïsoleerd zijn uitgevoerd  | 250 V  | 250 V  | –  |
 | 4. Bij gebruik van aardlekschakelaars ≤ 30 m A  | –  | 250 V  | 500 V  |
 | d. Verplaatsbare verbruikers zoals elektrische installaties van containers, aangehangen motoren, verplaatsbare ventilatoren of pompen, die normaal wanneer zij worden gebruikt niet worden verplaatst en waarvan de voor aanraking toegankelijke geleiders door een aardleiding in de aansluitkabel zijn geaard en die verder door hun opstelling of door een extra geleider met de scheepsromp zijn verbonden  | 250 V  | 250 V  | 500 V  |
-| e. Wandcontactdozen voor de voeding van handgereedschappen, die in ketels en tanks worden gebruikt  | 50 V <sup>1</sup>  | 50 V <sup>1</sup>  | –  |
+| e. Wandcontactdozen voor de voeding van handgereedschappen, die in stoomketels en tanks worden gebruikt  | 50 V <sup>1</sup>  | 50 V <sup>1</sup>  | –  |
 
 Opmerking: <sup>1</sup> Indien deze spanning vanuit een net met hogere spanning wordt verkregen moet een galvanische scheiding (veiligheidstransformator) worden toegepast. <sup>2</sup> De secundaire stroomkring moet geheel van aarde zijn geïsoleerd.   
 2.  Met inachtneming van de noodzakelijke veiligheidsmaatregelen zijn hogere spanningen toegestaan: 
@@ -1539,7 +1539,7 @@ b. Beveiligingssystemen: Beveiligingssystemen moeten zodanig worden uitgevoerd, 
 1.  Algemeen De in het tweede lid gestelde testvoorwaarden zijn uitsluitend van toepassing op elektronische apparaten die voor stuurinrichtingen en machine-installaties voor de voortbeweging van het vaartuig, met inbegrip van de daarbij behorende randapparatuur, benodigd zijn.   
 2.  Testvoorwaarden 
 
-a. De volgende testbelastingen mogen niet leiden tot schade aan of verkeerd functioneren van elektronische apparaten. De tests overeenkomstig de desbetreffende internationale normen (zoals IEC publicatie 60092-504: 2001) moeten, met uitzondering van de koudetest, met een ingeschakeld apparaat worden uitgevoerd, waarbij de functie moet worden getest.  
+a. De volgende testbelastingen mogen niet leiden tot schade aan of verkeerd functioneren van elektronische apparaten. De tests overeenkomstig de desbetreffende internationale normen (zoals IEC 60092-504: 2001) moeten, met uitzondering van de koudetest, met een ingeschakeld apparaat worden uitgevoerd, waarbij de functie moet worden getest.  
 
 b. Spannings- en frequentieafwijkingen:  
 
@@ -1555,7 +1555,7 @@ d. Koudetest: Het te testen apparaat wordt in uitgeschakelde toestand tot op –
 
 e. Trillingstest: Trillingstests moeten bij de resonantiefrequentie van het apparaat of het onderdeel in de drie richtingsassen voor de duur van telkens 90 minuten worden uitgevoerd. Indien geen bijzondere resonantie wordt geconstateerd, vindt de trillingstest plaats bij 30 Hz. De trillingstest wordt uitgevoerd met een sinusvormige slingering tussen de volgende grenzen: Algemeen: f = 2,0 tot 13,2 Hz; a = ± 1 mm (amplitude a = ½ slingerbreedte) f = 13,2 Hz tot 100 Hz: versnelling ± 0,7 g. Apparaten voor montage op dieselmotoren of stuurmachines moeten als volgt worden getest: f = 2,0 tot 25 Hz; a = ± 1,6 mm (amplitude a = ½ slingerbreedte) f = 25 Hz tot 100 Hz; versnelling ± 4 g. Voelers voor montage in uitlaatgassenleidingen van dieselmotoren kunnen worden blootgesteld aan beduidend hogere belastingen. Hiermee moet bij de tests rekening worden gehouden.  
 
-f. Tests van de elektromagnetische verdraagbaarheid moeten op basis van IEC publicatie 61000-4-2: 1995, 61000-4-3: 2002, 61000-4-4: 1995, met het testniveau 3 worden uitgevoerd.  
+f. Tests van de elektromagnetische verdraagbaarheid moeten op basis van de internationale normen IEC 61000-4-2 : 1995, IEC 61000-4-3 : 2002, IEC 61000-4-4 : 1995, met het testniveau 3 worden uitgevoerd.  
 
 g. Het bewijs dat de apparaten voldoen aan deze testvoorwaarden, moet door de fabrikant worden geleverd. Als bewijs geldt ook een verklaring van een erkend classificatiebureau.     
 
@@ -1652,7 +1652,7 @@ a. stalen trossen voor het meren:
 * voor L × B × T tot 1000 m <sup>3</sup>:   ![244596](http://wetten.overheid.nl/Illustration/244596)
 
 * voor L × B × T groter dan 1000 m <sup>3</sup>:   ![244596](http://wetten.overheid.nl/Illustration/244596)
-Voor de voorgeschreven stalen trossen moet zich een keuringsbewijs volgens de Europese norm EN 10 204: 1991, model 3.1, aan boord bevinden. Deze trossen mogen worden vervangen door andere kabels van dezelfde lengte en met dezelfde breeksterkte. De breeksterkte voor deze kabels moet in een keuringsbewijs worden aangetoond.  
+Voor de voorgeschreven stalen trossen moet zich een keuringsbewijs volgens de Europese norm EN 10204 : 1991, model 3.1, aan boord bevinden. Deze trossen mogen worden vervangen door andere kabels van dezelfde lengte en met dezelfde breeksterkte. De breeksterkte voor deze kabels moet in een keuringsbewijs worden aangetoond.  
 
 b. trossen voor het slepen: Sleepboten moeten zijn uitgerust met een bij hun functie passend aantal trossen. De hoofdtros moet echter ten minste 100 m lang zijn en een breeksterkte hebben in kN die overeenkomt met ten minste een derde van het totale vermogen in kW van de voortstuwingsmotor(en). Motorschepen en duwboten die mogen slepen moeten ten minste zijn uitgerust met een sleeptros van 100 m lengte, waarvan de breeksterkte in kN overeenkomt met ten minste een kwart van het totale vermogen in kW van de voortstuwingsmotor(en);  
 
@@ -1758,7 +1758,7 @@ a. Brandblusinstallaties die automatisch in werking worden gesteld zijn niet toe
 
 b. De brandblusinstallatie moet vanaf een geschikte plaats buiten de te beschermen ruimte in werking kunnen worden gesteld.  
 
-c. Inrichtingen voor het in werking stellen moeten zodanig zijn geïnstalleerd dat ze ook in geval van brand kunnen worden bediend en dat, in het geval van een beschadiging als gevolg van brand of explosie in de te beschermen ruimte, de daarvoor benodigde hoeveelheid blusmiddel nog kan worden toegevoerd. Niet mechanische inrichtingen voor het inwerking stellen moeten door twee verschillende van elkaar onafhankelijke energiebronnen worden gevoed. Deze energiebronnen moeten zich buiten de te beschermen ruimte bevinden. Leidingen voor de aansturing in de beschermde ruimte moeten zodanig zijn uitgevoerd, dat zij ingeval van brand tenminste gedurende 30 minuten kunnen blijven functioneren. Elektrische leidingen voldoen aan deze eis indien zij voldoen aan de norm IEC 60331-21, uitgave 1999. Wanneer inrichtingen voor het inwerking stellen door hun wijze van opstelling aan het gezicht zijn onttrokken moet de bedekking of afscherming zijn voorzien van een teken ‘brandblusinstallatie’ met een lengte van de zijde van ten minste 10 cm, overeenkomstig schets 6 van bijlage I, alsmede van de volgende tekst in rode letters op witte ondergrond: ‘Feuerlöscheinrichtung Installation d’extinction Brandblusinstallatie’.  
+c. Inrichtingen voor het in werking stellen moeten zodanig zijn geïnstalleerd dat ze ook in geval van brand kunnen worden bediend en dat, in het geval van een beschadiging als gevolg van brand of explosie in de te beschermen ruimte, de daarvoor benodigde hoeveelheid blusmiddel nog kan worden toegevoerd. Niet mechanische inrichtingen voor het inwerking stellen moeten door twee verschillende van elkaar onafhankelijke energiebronnen worden gevoed. Deze energiebronnen moeten zich buiten de te beschermen ruimte bevinden. Leidingen voor de aansturing in de beschermde ruimte moeten zodanig zijn uitgevoerd, dat zij ingeval van brand tenminste gedurende 30 minuten kunnen blijven functioneren. Elektrische leidingen voldoen aan deze eis indien zij voldoen aan de internationale norm IEC 60331-21 : 1999. Wanneer inrichtingen voor het inwerking stellen door hun wijze van opstelling aan het gezicht zijn onttrokken moet de bedekking of afscherming zijn voorzien van een teken ‘brandblusinstallatie’ met een lengte van de zijde van ten minste 10 cm, overeenkomstig schets 6 van bijlage I, alsmede van de volgende tekst in rode letters op witte ondergrond: ‘Feuerlöscheinrichtung Installation d’extinction Brandblusinstallatie’.  
 
 d. Indien de brandblusinstallatie bedoeld is voor het beschermen van meerdere ruimten, moeten de inrichtingen voor het in werking stellen voor iedere ruimte gescheiden en duidelijk zijn gemarkeerd.  
 
@@ -3616,7 +3616,7 @@ b. op het werkterrein een andere bijboot beschikbaar is.   Deze vrijstelling die
 
 ####Algemene bepaling
 
-Op kanaalspitsen, die de Rijn slechts tussen Basel (Mittlere Rheinbrücke) en de sluizen te Iffezheim met inbegrip van de meest benedenstrooms gelegen voorhaven bevaren, zijn voor wat betreft bouw en uitrusting de artikelen 19.02 en 19.03 van toepassing.  
+Op kanaalspitsen, die de Rijn slechts tussen Basel (Mittlere Rheinbrücke) en de sluizen te Iffezheim met inbegrip van de meest benedenstrooms gelegen voorhaven bevaren, is voor wat betreft bouw en uitrusting artikel 19.02 van toepassing.  
 
 ### Artikel  19.02  
 
@@ -3682,16 +3682,6 @@ q. twee reddingsboeien en twee zwemvesten;
 
 7. hoofdstuk 14.    
 
-### Artikel  19.03  
-
-####Toepasselijkheid van Deel III 
-
-Hoofdstuk 23 is niet van toepassing. De bemanning moet ten minste bestaan uit: 
-
-a. een schipper die houder is van het kanaalspitsenpatent als bedoeld in het [Patentreglement Rijn](../../../../../../../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md);  
-
-b. een persoon die ten minste 16 jaar oud is en die in staat is te helpen bij het manoeuvreren met het schip.    
-
 ### Hoofdstuk  20  
 
 ####Bijzondere bepalingen voor zeeschepen
@@ -3722,17 +3712,6 @@ g. Hoofdstuk 16: voor zeeschepen die zijn toegelaten om deel uit te maken van ee
 
 h. Hoofdstuk 22: Aan hoofdstuk 22 is voldaan indien de stabiliteit voldoet aan de van kracht zijnde resoluties van de Internationale Maritieme Organisatie (IMO) en de betreffende stabiliteitsberekeningen door de bevoegde autoriteit gekeurd zijn en de containers op een voor de zeevaart gebruikelijke wijze zijn vastgezet.     
 
-### Artikel  20.02  
-
-####Minimum bemanning
-
-1.  Voor het vaststellen van de minimum bemanning van zeeschepen is hoofdstuk 23 van toepassing.   
-2.  In afwijking van het eerste lid kan op zeeschepen de bemanningsregeling worden toegepast die overeenkomt met de bepalingen van IMO Resolutie A. 481 (XII) en van het Internationaal verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978, onder de voorwaarde dat het aantal bemanningsleden ten minste overeenkomt met de minimum bemanning volgens exploitatiewijze B, waarbij met name rekening dient te worden gehouden met de artikelen 23.09 en 23.13. In dit geval moeten de betreffende documenten, waaruit de bekwaamheid van de bemanningsleden en hun aantal blijken, aan boord aanwezig zijn. Bovendien moet zich een persoon aan boord bevinden die houder is van het grote patent bedoeld in het [Patentreglement Rijn](../../../../../../../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md) dat geldig is voor het te bevaren riviergedeelte. Na een vaartijd van ten hoogste 14 uren per tijdvak van 24 uren moet deze patenthouder vervangen worden door een andere houder van dat Rijnpatent. In het logboek moeten de volgende aantekeningen worden gemaakt: 
-
-a. de namen van de houders van het grote patent die zich aan boord bevinden en het begin en einde van hun diensttijd;  
-
-b. begin, onderbreking, voortzetting en einde van de vaart met telkens daarbij de vermelding van datum, tijdstip en plaats met aanduiding van de kilometerraai.     
-
 ### Artikel  20.03  
 
 [Vervallen per 01-01-1999]  
@@ -3745,7 +3724,7 @@ b. begin, onderbreking, voortzetting en einde van de vaart met telkens daarbij d
 
 ####Algemene bepaling
 
-Op pleziervaartuigen zijn voor wat betreft bouw, uitrusting en bemanning slechts de artikelen 21.02 tot en met 21.03 van toepassing.  
+Op pleziervaartuigen is voor wat betreft bouw, uitrusting en bemanning slechts artikel 21.02 van toepassing.  
 
 ### Artikel  21.02  
 
@@ -3791,16 +3770,6 @@ f. van hoofdstuk 14:
 3°. de artikelen 14.14 en 14.15 met dien verstande, dat de vloeibaargasinstallatie aan de eisen van de richtlijn moet beantwoorden;  
 
 4°. hoofdstuk 14 in zijn geheel, indien de vloeibaargasinstallatie wordt ingebouwd nadat het pleziervaartuig in het verkeer is gebracht.       
-
-### Artikel  21.03  
-
-####Toepasselijkheid van Deel III 
-
-Hoofdstuk 23 is niet van toepassing. De bemanning moet ten minste bestaan uit: 
-
-a. een schipper die houder is van het patent, vereist ingevolge het [Patentreglement Rijn](../../../../../../../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md);  
-
-b. een persoon die in staat is te helpen bij het manoeuvreren met het schip.    
 
 ### Hoofdstuk  22  
 
@@ -4170,187 +4139,61 @@ c. op 1 januari 2023 aan de overige voorschriften.
 
 ### Hoofdstuk  23  
 
-####Bemanning
+####Uitrusting van schepen met het oog op de bemanning
 
 ### Artikel  23.01  
 
 ####Algemeen
 
-1.  De bemanning die zich krachtens het [Rijnvaartpolitiereglement](../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) aan boord moet bevinden van schepen die de Rijn bevaren dient voor alle exploitatiewijzen in overeenstemming te zijn met de voorschriften van dit hoofdstuk. De voor de desbetreffende exploitatiewijze en vaartijd voorgeschreven bemanning moet zich tijdens de vaart voortdurend aan boord bevinden. Het is niet toegestaan zonder de voorgeschreven bemanning te vertrekken. Wanneer door onvoorziene omstandigheden (bijvoorbeeld ziekte, ongeval, bevel van een bevoegde autoriteit) tijdens de vaart ten hoogste één lid van de voorgeschreven bemanning uitvalt, mogen de schepen niettemin hun reis voortzetten tot de eerstvolgende geschikte aanlegplaats in de richting waarin gevaren wordt – passagiersschepen tot het eindpunt van de reis van die dag –, indien zich aan boord een persoon bevindt die houder is van een patent voor het riviergedeelte waarop hij vaart, alsmede nog een lid van de voorgeschreven bemanning. De persoon die belast is met het toezicht op en de verzorging van zich aan boord bevindende kinderen jonger dan zes jaar mag geen lid van de minimum-bemanning zijn, tenzij er maatregelen zijn getroffen om de veiligheid van de kinderen ook zonder voortdurend toezicht te waarborgen.   
-2.  Elke Oeverstaat of België kan bepalen, dat zijn voorschriften betreffende de arbeidsbescherming van toepassing zijn op de Rijnschepen die in die staat zijn ingeschreven. Niet in een register ingeschreven schepen zijn onderworpen aan de voorschriften van die Oeverstaat of België waarin het bedrijf of de eigenaar zijn hoofdzetel of wettelijke domicilie heeft. In afwijking hiervan kunnen de bevoegde autoriteiten van de Oeverstaten of België bilateraal overeenkomen, dat bepaalde schepen die in de ene staat zijn ingeschreven zijn onderworpen aan de voorschriften van de andere staat. Zwangere vrouwen en kraamvrouwen mogen geen deel uitmaken van de bemanning gedurende ten minste 14 weken, waarvan ten minste 6 weken voor en 7 weken na de bevalling.   
-3.  Voor de toepassing van de artikelen 23.05, 23.06 en 23.08 dient tevens rekening te worden gehouden met vaar- en rusttijden vervuld buiten het toepassingsgebied van dit reglement.   
-4.  Als één jaar vaartijd gelden 180 effectieve vaardagen in de binnenvaart. Binnen een periode van 365 opeenvolgende dagen kunnen maximaal 180 dagen als vaartijd worden meegerekend. 250 Vaardagen in de zee- of kustvaart dan wel de visserij gelden als één jaar vaartijd.   
+(Niet meer van toepassing)  
 
 ### Artikel  23.02  
 
 ####Leden van de bemanning – Bekwaamheid
 
-1.  De leden van de bemanning kunnen zijn: deksman, lichtmatroos (scheepsjongen), matroos, matroos-motordrijver, volmatroos, stuurman, schipper, machinist.   
-2.  De bekwaamheidseisen voor de leden van de bemanning zijn: 
-
-2.1 voor de deksman ten minste 16 jaar zijn;  
-
-2.2 voor de lichtmatroos (scheepsjongen) ten minste 15 jaar zijn en in het bezit zijn van een leerovereenkomst die voorziet in het bezoeken van een vakschool voor schippers of het volgen van een schriftelijke cursus die door de bevoegde autoriteit is erkend en opleidt voor een gelijkwaardig diploma;  
-
-2.3 voor de matroos: 
-
-a) ten minste 17 jaar zijn en 
-
-– met goed gevolg de in lid 2.2 genoemde opleiding hebben afgesloten of  
-
-– een met goed gevolg afgelegd eindexamen aan een vakschool voor schippers of  
-
-– met goed gevolg een door een bevoegde autoriteit erkend examen matroos hebben afgelegd, of    
-
-b) ten minste 19 jaar zijn en een vaartijd als lid van een dekbemanning van ten minste drie jaren hebben, waarvan ten minste één jaar in de binnenvaart en twee jaren in de binnenvaart, dan wel in de zee- of kustvaart dan wel de visserij vervuld zijn;    
-
-2.4 voor de matroos-motordrijver: 
-
-a) de bekwaamheid als matroos hebben en met goed gevolg een door de bevoegde autoriteit erkend examen matroos-motordrijver hebben afgelegd, of  
-
-b) een vaartijd hebben van ten minste 1 jaar als matroos op een binnenschip met eigen mechanische middelen tot voortbeweging en elementaire kennis op het gebied van motoren bezitten;    
-
-2.5 voor de volmatroos: 
-
-a) een vaartijd van ten minste één jaar als matroos in de binnenvaart en 
-
-– met goed gevolg de in onderdeel 2.2 genoemde opleiding hebben afgerond of  
-
-– een met goed gevolg afgelegd eindexamen aan een vakschool voor schippers of  
-
-– met goed gevolg een door een bevoegde autoriteit erkend examen matroos hebben afgelegd, of    
-
-b) met goed gevolg een examen hebben afgelegd van een driejarige opleiding als bedoeld in onderdeel 2.2 of een met goed gevolg afgelegd eindexamen na een driejarige opleiding aan een vakschool voor schippers, indien in deze opleiding ten minste één jaar vaartijd in de binnenvaart is opgenomen, of  
-
-c) een vaartijd in de binnenvaart van ten minste één jaar als matroos, bedoeld in onderdeel 2.3, onderdeel b, en een met goed gevolg afgelegd praktijkexamen als bedoeld in bijlage C, lid 3.1, van het Patentreglement Rijn onder toepassing van de richtlijn, bedoeld in [artikel 1.05 van het Patentreglement Rijn](../../../../../../../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md), ter uitvoering van het examen, of  
-
-d) een vaartijd in de binnenvaart van ten minste twee jaar als matroos, bedoeld in onderdeel 2.3, onder b;    
-
-2.6 voor de stuurman: 
-
-a) een vaartijd in de binnenvaart hebben van ten minste één jaar als volmatroos of van ten minste drie jaar als matroos, bedoeld in onderdeel 2.3, onder b, of  
-
-b) het bezit van een vaarbewijs, afgegeven op grond van richtlijn nr. 96/50/EG van de Raad van de Europese Unie van 23 juli 1996 betreffende de harmonisatie van de voorwaarden voor de afgifte van nationale vaarbewijzen voor binnenvaartuigen welke bij het goederen- en personenvervoer in de Gemeenschap gebruikt worden (PbEG L 235), of van een vaarbewijs als bedoeld in Bijlage I van richtlijn nr. 91/672/EEG van de Raad van de Europese Gemeenschappen van 16 december 1991 inzake de wederzijdse erkenning van de nationale vaarbewijzen voor het besturen van schepen in het goederen- en personenvervoer over de binnenwateren (PbEG L 373), of  
-
-c) een vaartijd in de binnenvaart van ten minste vier jaar en het bezit van een aan het grote patent gelijkwaardig bevoegdheidsbewijs voor het voeren van een schip op binnenwateren van een lidstaat van de Centrale Commissie voor de Rijnvaart, of  
-
-d) een vaartijd in de binnenvaart van ten minste 4 jaar en het bezit van een aan het grote patent gelijkwaardig bevoegdheidsbewijs voor het voeren van een schip op andere binnenwateren dat door de Centrale Commissie voor de Rijnvaart ingevolge [artikel 3.05, derde lid, van het Patentreglement Rijn](../../../../../../../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md) is erkend;    
-
-2.7 voor de schipper: houder zijn van het patent, afgegeven overeenkomstig het [Patentreglement Rijn](../../../../../../../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md);  
-
-2.8 voor de machinist: 
-
-a) ten minste 18 jaar zijn en met goed gevolg een eindexamen hebben afgelegd voor een opleiding op het gebied van motoren en werktuigkunde, of  
-
-b) ten minste 19 jaar zijn en een vaartijd hebben van ten minste 2 jaren als matroos-motordrijver op een binnenschip met eigen mechanische middelen tot voortbeweging.       
+(Niet meer van toepassing)  
 
 ### Artikel  23.03  
 
 ####Leden van de bemanning – Geschiktheid
 
-1.  Voor de lichamelijke geschiktheid voor het beroep gelden de eisen overeenkomstig de [bijlagen B1](../../../../../../../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md) en [B2 van het Patentreglement Rijn](../../../../../../../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md). Deze moet worden aangetoond voor de eerste afgifte van het dienstboekje door: 
-
-a. een medische verklaring bedoeld in [bijlage B2 van het Patentreglement Rijn](../../../../../../../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md), of  
-
-b. een overeenkomstig [artikel 2.11, derde lid, van het Patentreglement Rijn](../../../../../../../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md) erkende 
-
-aa. Medische verklaring, of  
-
-bb. Geldig vaarbevoegdheidsbewijs.     De medische verklaring mag niet ouder zijn dan drie maanden.   
-2.  De eisen voor ogen en oren, bedoeld in [bijlage B1 van het Patentreglement Rijn](../../../../../../../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md), zijn niet van toepassing voor de functie van machinist.   
-3.  Het bewijs van geschiktheid, bedoeld in het eerste en het tweede lid, dient binnen 3 maanden na het bereiken van de leeftijd van 65 jaar en daarna jaarlijks te worden vernieuwd.   
-4.  Indien een bevoegde autoriteit twijfels heeft omtrent de lichamelijke geschiktheid van een bemanningslid, kan zij om een medische keuring verzoeken. Het bemanningslid draagt slechts de daaruit voortvloeiende kosten wanneer de twijfels gegrond zijn gebleken.   
+(Niet meer van toepassing)  
 
 ### Artikel  23.04  
 
 ####Bewijs van bekwaamheid – Dienstboekje
 
-1.  Het dienstboekje bevat enerzijds gegevens van algemene aard, zoals de medische verklaringen en de bekwaamheid van de houder, bedoeld in artikel 23.02, en anderzijds de specifieke gegevens betreffende de afgelegde reizen. De plaatselijk bevoegde autoriteit is verantwoordelijk voor het invullen van de gegevens van algemene aard alsmede voor de afstempeling ter controle. Zij kan daartoe het overleggen van vaartijdenboeken dan wel uittreksels daarvan of van andere relevante bescheiden verlangen. Zij mag slechts die reizen van een afstempeling voorzien die niet ouder zijn dan 15 maanden.   
-2.  Elk lid van de bemanning moet in het bezit zijn van een persoonlijk dienstboekje overeenkomstig het model van bijlage F dan wel in het bezit zijn van een ander door de Centrale Commissie voor de Rijnvaart als gelijkwaardig erkend dienstboekje. Deze persoon wordt als houder van het dienstboekje aangemerkt. De houder moet het dienstboekje: 
-
-a) bij de eerste indiensttreding aan boord overhandigen aan de schipper, en  
-
-b) telkens binnen een periode van 12 maanden te rekenen vanaf de datum van afgifte, ten minste éénmaal overleggen en laten afstempelen zoals bedoeld in het eerste lid door een plaatselijk bevoegde autoriteit.   Stuurlieden die geen groot patent als bedoeld in het [Patentreglement Rijn](../../../../../../../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md) willen verkrijgen zijn van de verplichting tot het overleggen vrijgesteld. Indien de stuurman later alsnog een patent wil verkrijgen, wordt slechts met die riviergedeelten rekening gehouden die in het dienstboekje zijn ingevuld en die zijn afgestempeld zoals bedoeld in het eerste lid.   
-3.  De schipper is verantwoordelijk voor: 
-
-a) het regelmatig invullen in het dienstboekje van alle gegevens overeenkomstig de aanwijzingen en instructies voor het bijhouden vermeld in bijlage F;  
-
-b) het veilig in het stuurhuis bewaren van het dienstboekje tot aan het eind van het dienstverband, arbeidscontract dan wel andere regeling;  
-
-c) het te allen tijde op verzoek van de houder onverwijld teruggeven van het dienstboekje.     
-4.  Bij leden van de bemanning die in het bezit zijn van een groot patent als bedoeld in [bijlage A1](../../../../../../../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md) dan wel van een voorlopig groot patent als bedoeld in [bijlage A2 van het Patentreglement Rijn](../../../../../../../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md) geldt dit patent als dienstboekje.   
-5.  De bekwaamheid voor een functie aan boord moet te allen tijde kunnen worden aangetoond: 
-
-a) door de schipper door middel van het patent dat overeenkomstig het [Patentreglement Rijn](../../../../../../../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md) wordt vereist;  
-
-b) door de overige leden van de bemanning door middel van het dienstboekje of een patent als bedoeld onder a.     
+(Niet meer van toepassing)  
 
 ### Artikel  23.05  
 
 ####Exploitatiewijzen
 
-1.  Men onderscheidt de volgende exploitatiewijzen: A1:. vaart van ten hoogste 14 uren; A2:. vaart van ten hoogste 18 uren; B:. vaart van ten hoogste 24 uren; telkens binnen een tijdvak van 24 uur.   
-2.  Bij exploitatiewijze A1 mag de vaart eenmaal per week tot ten hoogste 16 uren worden verlengd, indien de vaartijd kan worden aangetoond met de registraties van een goed functionerende tachograaf van een type dat overeenkomstig bijlage H is goedgekeurd door de bevoegde autoriteit van een Oeverstaat of van België en wanneer er behalve de schipper nog een bemanningslid in de bemanning is opgenomen met de bevoegdheid van stuurman.   
-3.  Een schip dat op de onder A1, onderscheidenlijk A2 bedoelde wijze wordt geëxploiteerd moet de vaart gedurende 8, onderscheidenlijk 6 aaneengesloten uren onderbreken, te weten: 
-
-a) in de exploitatiewijze A1 tussen 22.00 en 06.00 uur, en  
-
-b) in de exploitatiewijze A2 tussen 23.00 en 05.00 uur.   Er mag van deze tijden worden afgeweken, indien het schip is uitgerust met een goed functionerende tachograaf van een type dat overeenkomstig bijlage H is goedgekeurd door de bevoegde autoriteit van een Oeverstaat of België. De tachograaf moet ten minste in bedrijf zijn vanaf het begin van de laatste ononderbroken rusttijd van 8, onderscheidenlijk 6 uren en voor de controlerende diensten te allen tijde bereikbaar zijn.   
+(Niet meer van toepassing)  
 
 ### Artikel  23.06  
 
 ####Verplichte rusttijd
 
-1.  Bij exploitatiewijze A1 heeft elk bemanningslid recht op een ononderbroken rusttijd van 8 uren buiten de vaartijd per tijdvak van 24 uren, gerekend vanaf het eind van elke rusttijd van 8 uren.   
-2.  Bij exploitatiewijze A2 heeft elk bemanningslid recht op een rusttijd van 8 uren, waarvan 6 uren ononderbroken buiten de vaartijd per tijdvak van 24 uren, gerekend vanaf het einde van elke rusttijd van 6 uren. Voor bemanningsleden onder de 18 jaar moet een ononderbroken rusttijd van 8 uren worden aangehouden waarvan 6 uren buiten de vaartijd.   
-3.  Bij exploitatiewijze B heeft elk bemanningslid recht op een rusttijd van 24 uren per tijdvak van 48 uren, waarvan er ten minste 2 maal 6 uren ononderbroken moeten zijn.   
-4.  Gedurende zijn verplichte rusttijd mag een bemanningslid niet worden verplicht tot enige taak, met inbegrip van toezicht houden of zich beschikbaar houden. De wacht en het toezicht zoals bedoeld in de politievoorschriften voor stilliggende vaartuigen worden niet beschouwd als taak in de zin van dit lid.   
-5.  Bepalingen in de arbeidsvoorschriften of collectieve arbeidsovereenkomsten die voorzien in een langere duur van de rusttijden blijven onverminderd van kracht.   
+(Niet meer van toepassing)  
 
 ### Artikel  23.07  
 
 ####Wisseling van exploitatiewijze
 
-1.  In afwijking van artikel 23.05, eerste en derde lid, is een wisseling of herhaling van exploitatiewijze slechts mogelijk met inachtneming van het tweede tot met zesde lid.   
-2.  Van exploitatiewijze A1 mag slechts dan naar exploitatiewijze A2 worden gewisseld, indien: 
-
-a) de bemanning in zijn geheel is afgelost, of  
-
-b) de voor exploitatiewijze A2 bestemde bemanningsleden direct vóór de wisseling een rusttijd van 8 uren, waarvan 6 uren buiten de vaartijd, in acht genomen en aangetoond hebben en de voor exploitatiewijze A2 voorgeschreven versterking zich aan boord bevindt.     
-3.  Van exploitatiewijze A2 mag slechts dan naar exploitatiewijze A1 worden gewisseld, indien: 
-
-a) de bemanning in zijn geheel is afgelost, of  
-
-b) de voor exploitatiewijze A1 bestemde bemanningsleden direct vóór de wisseling een ononderbroken rusttijd van 8 uren buiten de vaartijd in acht genomen en aangetoond hebben.     
-4.  Van exploitatiewijze B mag slechts dan naar exploitatiewijze A1 of A2 worden gewisseld, indien: 
-
-a) de bemanning in zijn geheel is afgelost, of  
-
-b) de voor exploitatiewijze A1, onderscheidenlijk A2 bestemde bemanningsleden direct vóór de wisseling een ononderbroken rusttijd van 8, onderscheidenlijk 6 uren in acht genomen en aangetoond hebben.     
-5.  Van exploitatiewijze A1 of A2 mag slechts dan naar exploitatiewijze B worden gewisseld, indien: 
-
-a) de bemanning in zijn geheel is afgelost, of  
-
-b) de voor exploitatiewijze B bestemde bemanningsleden direct vóór de wisseling een ononderbroken rusttijd van 8, onderscheidenlijk 6 uren buiten de vaartijd in acht genomen en aangetoond hebben en de voor exploitatiewijze B voorgeschreven versterking zich aan boord bevindt.     
-6.  Een schip kan onmiddellijk in aansluiting op de exploitatiewijze A1 of A2 voor een verdere A1 of A2 worden ingezet, indien een voltallige uitwisseling van de bemanning heeft plaatsgevonden en de nieuwe bemanningsleden onmiddellijk voorafgaand aan de verdere exploitatiewijze A1 en A2 een ononderbroken rusttijd van 8, onderscheidenlijk 6 uren buiten de vaartijd in acht genomen en aangetoond hebben.   
-7.  Het bewijs van een rusttijd van 8, onderscheidenlijk 6 uren wordt aangetoond met een verklaring als bedoeld in bijlage K of door een kopie van de pagina met aantekeningen van de vaar-, onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden.   
+(Niet meer van toepassing)  
 
 ### Artikel  23.08  
 
 ####Vaartijdenboek – Tachograaf
 
-1.  Aan boord van elk schip, met uitzondering van sleep- en duwboten die slechts in havens verkeren, onbemande duwbakken, overheidsschepen en pleziervaartuigen, moet zich in de stuurhut een vaartijdenboek bevinden overeenkomstig het model van bijlage E. Dit boek dient te worden bijgehouden overeenkomstig de daarin vervatte aanwijzingen. De schipper is verantwoordelijk voor de aanwezigheid van het vaartijdenboek en de aantekeningen die daarin moeten worden gemaakt. Het eerste vaartijdenboek, waarop het nummer 1, de naam van het schip en het officiële scheepsnummer dienen te staan, moet worden afgegeven door de autoriteit die het certificaat van onderzoek aan het schip heeft uitgereikt. Onderdeel 2 van de aanwijzingen voor het bijhouden van het vaartijdenboek, volgens welk per reis kan worden volstaan met één schema voor het aantekenen van de rusttijden, geldt slechts voor bemanningsleden in de exploitatiewijze B. In de exploitatiewijze A1 en in de exploitatiewijze A2 moeten het begin en het einde van de rusttijd van elk bemanningslid iedere dag gedurende de reis worden aangetekend. De na een wisseling van de exploitatiewijze noodzakelijke aantekeningen moeten op een nieuwe bladzijde van het vaartijdenboek worden aangebracht.   
-2.  Alle latere vaartijdenboeken mogen worden afgegeven door een plaatselijk bevoegde autoriteit, die het van een volgnummer voorziet; zij kunnen evenwel slechts worden afgegeven tegen overlegging van het voorgaande vaartijdenboek. Het voorgaande vaartijdenboek moet worden voorzien van de onuitwisbare aantekening ‘ongeldig’ en dient aan de schipper te worden teruggegeven. Het overhandigen van het nieuwe vaartijdenboek kan geschieden op vertoon van het document, bedoeld in het vierde lid. De exploitant van het schip moet er voor zorg dragen, dat het voorafgaande vaartijdenboek binnen 30 dagen na de afgiftedatum van het nieuwe vaartijdenboek, die op het document, bedoeld in het vierde lid, door de bevoegde autoriteit geregistreerd is, door dezelfde bevoegde autoriteit onuitwisbaar ongeldig verklaard wordt. De exploitant van het schip moet er bovendien voor zorgen, dat daarna het vaartijdenboek weer aan boord wordt gebracht.   
-3.  Het ongeldig verklaarde vaartijdenboek moet gedurende zes maanden na de laatste aantekening aan boord worden bewaard.   
-4.  Bij de afgifte van het eerste vaartijdenboek overeenkomstig het eerste lid bevestigt de autoriteit, die het eerste vaartijdenboek uitreikt, deze afgifte door middel van een verklaring waarop de naam van het schip, het officiële scheepsnummer, het nummer van het vaartijdenboek en de datum van afgifte zijn vermeld. Deze verklaring dient aan boord te worden bewaard en op verzoek te worden getoond. De afgifte van latere vaartijdenboeken overeenkomstig het tweede lid moet door de bevoegde autoriteit op de verklaring worden aangetekend.   
-5.  De registraties van de tachografen moeten gedurende zes maanden na de laatste registratie aan boord worden bewaard.   
-6.  Bij een aflossing of versterking van de bemanning als bedoeld in artikel 23.07 moet voor ieder nieuw bemanningslid een verklaring als bedoeld in bijlage K of een kopie van de pagina met de aantekeningen van de vaar-, onderscheidenlijk rusttijden uit het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden, voorhanden zijn.   
+(Niet meer van toepassing)  
 
 ### Artikel  23.09  
 
 ####Uitrusting van schepen
 
-1.  Onverminderd de overige bepalingen van dit reglement moeten motorschepen, duwboten, duwstellen en passagiersschepen, die met een minimum-bemanning worden geëxploiteerd, aan de volgende voorschriften voldoen: 
+1.  Onverminderd de overige bepalingen van dit reglement en met toepassing van artikel 3.14 van het Reglement betreffende het scheepvaartpersoneel op de Rijn, moeten motorschepen, duwboten, duwstellen en passagiersschepen, om met een minimumbemanning overeenkomstig de voorschriften van het Reglement betreffende het scheepvaartpersoneel op de Rijn te worden geëxploiteerd, aan één van de volgende standaarden voldoen:. 
 
 1.1 Standaard S1 
 
@@ -4397,210 +4240,37 @@ e) voor passagiersschepen: Standaard S1 en bovendien een uitrusting met een vanu
 
 ####Minimum bemanning van motorschepen
 
-1.  De minimumbemanning van motorschepen en vrijvarende duwboten bestaat uit:  
-
-| Groep  | Bemanningsleden  | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2  | A1  | A2  | B  | S1  | S2  | S1  | S2  | S1  | S2  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | L ≤ 70 m  | schipper  | --- | 1  | --- | 2  | --- | --- | 2  | 2  |
-| stuurman  | --- | –  | --- | –  | --- | --- | –  | –  |
-| volmatroos  | --- | –  | --- | –  | --- | --- | –  | –  |
-| matroos  | --- | 1  | --- | –  | --- | --- | 1  | –  |
-| lichtmatroos  | --- | –  | --- | –  | --- | --- | 1 <sup>1</sup>  | 2 <sup>1, 3</sup>  |
-| 2  | 70 m < L ≤ 86 m  | schipper  | 1 of 1  | 1  | 2  | --- | --- | 2  | 2  |
-| stuurman  | –  | –  | –  | –  | --- | --- | –  | –  |
-| volmatroos  | 1  | –  | –  | –  | --- | --- | –  | –  |
-| matroos  | –  | 1  | 1  | –  | --- | --- | 2  | 1  |
-| lichtmatroos  | –  | 1  | 1  | 1 <sup>1</sup>  | --- | --- | –  | 1  |
-| 3  | L > 86 m  | schipper  | 1 of 1  | 1  | 2  | 2  | 2 of 2  | 2  |
-| stuurman  | 1  | 1  | 1  | –  | –  | 1  | 1 <sup>2</sup>  | 1  |
-| volmatroos  | –  | –  | –  | –  | –  | –  | –  | –  |
-| matroos  | 1  | –  | –  | 1  | –  | 2  | 1  | 1  |
-| lichtmatroos  | –  | 2  | 1  | 1 <sup>1</sup>  | 2 <sup>1</sup>  | –  | –  | 1  |
-
-<sup>1</sup> De lichtmatroos of een van de lichtmatrozen mag worden vervangen door een deksman. <sup>2</sup> De stuurman moet in het bezit zijn van het ingevolge het Patentreglement Rijn vereiste patent. <sup>3</sup> Een van de lichtmatrozen moet ouder zijn dan 18 jaar.   
-2.  De in het eerste lid voorgeschreven matrozen mogen door lichtmatrozen worden vervangen, die een minimum-leeftijd van 17 jaar hebben bereikt, zich ten minste in het derde leerjaar bevinden en een jaar vaartijd in de binnenvaart kunnen aantonen.   
-3.  De in het eerste lid voorgeschreven minimum-bemanning 
-
-a) in groep 2, exploitatiewijze A1, Standaard S2, en  
-
-b) in groep 3, exploitatiewijze A1, Standaard S1,   kan voor de ononderbroken duur van ten hoogste drie maanden in een kalenderjaar met een lichtmatroos, die een schippersschool bezoekt, worden verminderd. Opeenvolgende periodes met een verminderde bemanning moeten met een periode van minimaal één maand worden onderbroken. Het bezoek aan de schippersschool moet worden aangetoond met een verklaring van de schippersschool, die zich aan boord moet bevinden en waarin de tijden van het schoolbezoek zijn aangegeven. Deze bepalingen zijn niet van toepassing op de lichtmatroos, bedoeld in het tweede lid.   
+(Niet meer van toepassing)  
 
 ### Artikel  23.11  
 
 ####Minimum bemanning van duwboten, duwstellen, gekoppelde samenstellen en andere hechte samenstellen
 
-1.  De minimum-bemanning van hechte samenstellen en andere hechte samenstellingen bestaat uit:  
-
-| Groep  | Bemanningsleden  | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2  | A1  | A2  | B  | S1  | S2  | S1  | S2  | S1  | S2  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Afmeting van het samenstel L ≤ 37 m B ≤ 15 m  | schipper  | --- | 1  | --- | 2  | --- | --- | 2  | --- | 2  |
-| stuurman  | --- | –  | --- | –  | --- | --- | –  | --- | –  |
-| volmatroos  | --- | –  | --- | –  | --- | --- | –  | --- | –  |
-| matroos  | --- | 1  | --- | –  | --- | --- | 1  | --- | –  |
-| lichtmatroos  | --- | –  | --- | –  | --- | --- | 1 <sup>1</sup>  | --- | 2 <sup>1, 3</sup>  |
-| machinist of matroos-motordrijver  | --- | –  | --- | –  | --- | --- | –  | --- | –  |
-| 2  | Afmeting van het samenstel 37 m < L ≤ 86m B ≤ 15 m  | schipper  | 1 of 1  | 1  | 2  | --- | --- | 2  | --- | 2  |
-| stuurman  | –  | –  | –  | –  | --- | --- | –  | --- | –  |
-| volmatroos  | 1  | –  | –  | –  | --- | --- | –  | --- | –  |
-| matroos  | –  | 1  | 1  | –  | --- | --- | 2  | --- | 1  |
-| lichtmatroos  | –  | 1  | 1  | 1 <sup>1</sup>  | --- | --- | –  | --- | 1  |
-| machinist of matroos-motordrijver  | –  | –  | –  | –  | --- | --- | –  | --- | –  |
-| 3  | duwboot + 1 duwbak met L > 86 m of afmeting van het samenstel 86 m < L ≤116,5 m B ≤ 15 m  | schipper  | 1 of 1  | 1  | 2  | 2  | 2 of 2  | --- | 2  |
-| stuurman  | 1  | 1  | 1  | –  | –  | 1  | 1 <sup>2</sup>  | --- | 1  |
-| volmatroos  | –  | –  | –  | –  | –  | –  | –  | --- | –  |
-| matroos  | 1  | –  | –  | 1  | –  | 2  | 1  | --- | 1  |
-| lichtmatroos  | –  | 2  | 1  | 1 <sup>1</sup>  | 2 <sup>1</sup>  | –  | –  | --- | 1  |
-| machinist of matroos-motordrijver  | –  | –  | –  | –  | –  | –  | –  | --- | –  |
-| 4  | duwboot + 2 duwbakken* motorschip + 1 duwbak*  | schipper  | --- | 1  | 1  | 2  | 2  | 2 of  2  | 2  of 2  |
-| stuurman  | --- | 1  | 1  | –  | –  | 1  | 1 <sup>2</sup>  | 1  | 1 <sup>2</sup>  |
-| volmatroos  | --- | –  | –  | –  | 1  | –  | –  | 1  | 1  |
-| matroos  | --- | 1  | –  | 2  | –  | 2  | 2  | –  | --- |
-| lichtmatroos  | --- | 1 <sup>1</sup>  | 2 <sup>1</sup>  | 1 <sup>1</sup>  | 2 <sup>1</sup>  | –  | –  | 1  | 1  |
-| machinist of matroos-motordrijver  | --- | –  | –  | –  | –  | 1  | –  | 1  | –  |
-| 5  | duwboot + 3 of 4 duwbakken <sup>d)</sup> motorschip + 2 of 3 duwbakken*  | schipper  | 1 of 1  | 1  | 2  | 2  | 2 of 2  | 2  of 2  |
-| stuurman  | 1  | 1  | 1  | –  | –  | 1  | 1 <sup>2</sup>  | 1  | 1 <sup>2</sup>  |
-| volmatroos  | –  | –  | –  | –  | 1  | –  | –  | 1  | 1  |
-| matroos  | 2  | 1  | 1  | 2  | –  | 2  | 2  | –  | –  |
-| lichtmatroos  | –  | 2  | 1  | 1 <sup>1</sup>  | 2 <sup>1</sup>  | 1 <sup>1</sup>  | –  | 2  | 1  |
-| machinist of matroos-motordrijver  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
-| 6  | duwboot + meer dan 4 duwbakken*  | schipper  | 1 of 1  | 1  | 2  | 2  | 2  | of 2  | 2 of 2  |
-| stuurman  | 1  | 1  | 1  | –  | –  | 1  | 1 <sup>2</sup>  | 1  | 1 <sup>2</sup>  |
-| volmatroos  | –  | –  | 1  | –  | 1  | –  | –  | 1  | 1  |
-| matroos  | 3  | 2  | 1  | 3  | 1  | 3  | 3  | 1  | 1  |
-| lichtmatroos  | –  | 2  | 1  | 1 <sup>1</sup>  | 2 <sup>1</sup>  | 1 <sup>1</sup>  | –  | 2 <sup>1</sup>  | 1  |
-| machinist of matroos-motordrijver  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
-
-<sup>1</sup> De lichtmatroos of een van de lichtmatrozen mag worden vervangen door een deksman. <sup>2</sup> De stuurman moet in het bezit zijn van het ingevolge het Patentreglement Rijn vereiste patent. <sup>3</sup> Een van de lichtmatrozen moet ouder zijn dan 18 jaar. * In dit artikel omvat het begrip duwbak ook motorschepen zonder eigen in werking gestelde voortstuwingswerktuigen en sleepschepen. Bovendien is de volgende gelijkwaardigheid van toepassing: 1 duwbak = meerdere duwbakken met een totale lengte tot en met 76,50 m en een totale breedte tot en met 15 m.   
-2.  De in het eerste lid voorgeschreven matrozen mogen door lichtmatrozen worden vervangen, die een minimum-leeftijd van 17 jaar hebben bereikt, zich ten minste in het derde leerjaar bevinden en een jaar vaartijd in de binnenvaart kunnen aantonen.   
-3.  De in het eerste lid voorgeschreven minimum-bemanning 
-
-a) in de groep 2, exploitatiewijze A1, Standaard S2, en  
-
-b) in de groep 3, 5 en 6 exploitatiewijze A1, Standaard S1,   kan voor de ononderbroken duur van ten hoogste drie maanden in een kalenderjaar met een lichtmatroos, die een schippersschool bezoekt, worden verminderd. Opeenvolgende periodes met een verminderde bemanning moeten met een periode van minimaal één maand worden onderbroken. Het bezoek aan de schippersschool moet worden aangetoond met een verklaring van de schippersschool, die zich aan boord moet bevinden en waarin de tijden van het schoolbezoek zijn aangegeven. Deze bepalingen zijn niet van toepassing op de lichtmatroos, bedoeld in het tweede lid.   
+(Niet meer van toepassing)  
 
 ### Artikel  23.12  
 
 ####Minimum bemanning van passagiersschepen
 
-1.  De minimum-bemanning voor schepen voor dagtochten bestaat uit:  
-
-| Groep  | Bemanningsleden  |--- | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2  |--- |--- |--- |  A1  |  A2  |  B  |--- |--- |--- | S1  | S2  | S1  | S2  | S1  | S2  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Toegestaan aantal passagiers: tot en met 75  | schipper  | --- | 1  | --- | 2  | --- | 2  | 2  |
-| stuurman  | --- | –  | --- | –  | --- | –  | –  |
-| volmatroos  | --- | –  | --- | –  | --- | –  | 1  |
-| matroos  | --- | 1  | --- | 1  | --- | 2  | –  |
-| lichtmatroos  | --- | –  | --- | –  | --- | –  | 1  |
-| machinist of matroos-motordrijver  | --- | –  | --- | –  | --- | –  | –  |
-| 2  | Toegestaan aantal passagiers: van 76 tot en met 250  | schipper  | 1  | of 1  | 1  | 2  | --- | 2  | --- |
-| stuurman  | –  | –  | –  | –  | --- | –  | --- |
-| volmatroos  | –  | –  | –  | –  | --- | –  | --- |
-| matroos  | 1  | –  | 1  | –  | --- | 1  | --- |
-| lichtmatroos  | 1  | –  | 1  | 1 <sup>a</sup>  | --- | 1 <sup>a</sup>  | --- |
-| machinist of matroos-motordrijver  | –  | 1  | –  | 1  | --- | 1  | --- |
-| 3  | Toegestaan aantal passagiers: van 251 tot en met 600  | schipper  | 1  | of 1  | 1  | 2  | 2  | 3  | 3  |
-| stuurman  | –  | –  | –  | –  | –  | –  | –  |
-| volmatroos  | 1  | 1  | 1  | –  | –  | –  | –  |
-| matroos  | –  | –  | –  | 1  | –  | 1  | –  |
-| lichtmatroos  | –  | 2  | 1  | –  | 1  | –  | 1  |
-| machinist of matroos-motordrijver  | 1  | –  | –  | 1  | 1  | 1  | 1  |
-| 4  | Toegestaan aantal passagiers: van 601 tot en met 1000  | schipper  | --- | 1  | 1  | 2  | 2  | 3  | 3  |
-| stuurman  | --- | 1  | 1  | –  | –  | –  | –  |
-| volmatroos  | --- | –  | –  | –  | 1  | –  | 1  |
-| matroos  | --- | 1  | –  | 2  | –  | 2  | –  |
-| lichtmatroos  | --- | 1 <sup>a</sup>  | 2 <sup>a</sup>  | –  | 1  | –  | 1  |
-| machinist of matroos-motordrijver  | --- | 1  | 1  | 1  | 1  | 1  | 1  |
-| 5  | Toegestaan aantal passagiers: van 1001 tot en met 2000  | schipper  | 2  | of 2  | 2  | 2  | 2  | 3  | 3  |
-| stuurman  | –  | –  | –  | –  | –  | –  | –  |
-| volmatroos  | –  | –  | 1  | –  | 1  | –  | 1  |
-| matroos  | 3  | 2  | 1  | 3  | 1  | 3  | 1  |
-| lichtmatroos  | –  | 2  | 1  | 1 <sup>a</sup>  | 2 <sup>a</sup>  | 1 <sup>a</sup>  | 2 <sup>a</sup>  |
-| machinist of matroos-motordrijver  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
-| 6  | Toegestaan aantal passagiers: meer dan 2000  | schipper  | --- | 2  | 2  | 2  | 2  | 3  | 3  |
-| stuurman  | --- | –  | –  | –  | –  | –  | –  |
-| volmatroos  | --- | –  | 1  | –  | 1  | –  | 1  |
-| matroos  | --- | 3  | 1  | 4  | 2  | 4  | 2  |
-| lichtmatroos  | --- | 1 <sup>a</sup>  | 2 <sup>a</sup>  | –  | 1  | 1 <sup>a</sup>  | 2 <sup>a</sup>  |
-| machinist of matroos-motordrijver  | --- | 1  | 1  | 1  | 1  | 1  | 1  |
-
-<sup>a</sup> De lichtmatroos of een van de lichtmatrozen mag worden vervangen door een deksman.   
-2.  De minimum-bemanning voor stoomschepen voor dagtochten bestaat uit:  
-
-| Groep  | Bemanningsleden  | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2  | A1  | A2  | B  | S1  | S2  | S1  | S2  | S1  | S2  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Toegestaan aantal passagiers: van 501 tot en met 1000  | schipper  | --- | 1  | 1  | 2  | 2  | 3  | 3  |
-| stuurman  | --- | 1  | 1  | –  | –  | –  | –  |
-| volmatroos  | --- | 1  | 1  | 1  | 1  | 1  | 1  |
-| matroos  | --- | 1  | –  | 1  | –  | 1  | –  |
-| lichtmatroos  | --- | –  | 1  | –  | 1  | –  | 1  |
-| machinist of matroos-motordrijver <sup>2</sup>  | --- | 2  | 2  | 2  | 2  | 3  | 3  |
-| 2  | Toegestaan aantal passagiers: van 1001 tot en met 2000  | schipper  | 2 of 2  | 2  | 2  | 2  | 3  | 3  |
-| stuurman  | –  | –  | –  | –  | –  | –  | –  |
-| volmatroos  | –  | –  | 1  | –  | 1  | –  | 1  |
-| matroos  | 3  | 2  | 1  | 3  | 1  | 3  | 1  |
-| lichtmatroos  | –  | 2  | 1  | 1 <sup>1</sup>  | 2 <sup>1</sup>  | 1 <sup>1</sup>  | 2 <sup>1</sup>  |
-| machinist of matroos-motordrijver <sup>2</sup>  | 3  | 3  | 3  | 3  | 3  | 3  | 3  |
-
-<sup>1</sup> De lichtmatroos of een van de lichtmatrozen mag worden vervangen door een deksman. <sup>2</sup> De Commissie van Deskundigen bepaalt of machinisten en/of matrozen-motordrijvers vereist zijn en vult dat in het certificaat van onderzoek in onder nummer 52.   
-3.  De minimum-bemanning voor hotelschepen bestaat uit:  
-
-| Groep  | Bemanningsleden  |--- | Aantal bemanningsleden bij de exploitatiewijze A1, A2 of B en voor de uitrustingsstandaard S1, S2  |--- |--- |--- |  A1  |  A2  |  B  |--- |--- |--- | S1  | S2  | S1  | S2  | S1  | S2  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Toegestaan aantal bedden: tot en met 50  | schipper  | --- | 1  | 1  | 2  | 2  | 3  | 3  |
-| stuurman  | --- | –  | –  | –  | –  | –  | –  |
-| volmatroos  | --- | 1  | –  | –  | –  | –  | –  |
-| matroos  | --- | –  | –  | 1  | –  | 1  | –  |
-| lichtmatroos  | --- | –  | 2  | –  | 1  | –  | 1  |
-| machinist of matroos-motordrijver  | --- | 1  | 1  | 1  | 1  | 1  | 1  |
-| 2  | Toegestaan aantal bedden: van 51 tot en met 100  | schipper  | --- | 1  | 1  | 2  | 2  | 3  | 3  |
-| stuurman  | --- | 1  | 1  | –  | –  | –  | –  |
-| volmatroos  | --- | –  | –  | –  | –  | –  | –  |
-| matroos  | --- | 1  | –  | 1  | –  | 1  | –  |
-| lichtmatroos  | --- | –  | 1  | –  | 1  | –  | 1  |
-| machinist of matroos-motordrijver  | --- | 1  | 1  | 1  | 1  | 1  | 1  |
-| 3  | Toegestaan aantal bedden: meer dan 100  | schipper  | 1  | of 1  | 1  | 2  | 2  | 3  | 3  |
-| stuurman  | 1  | 1  | 1  | –  | –  | –  | –  |
-| volmatroos  | –  | –  | –  | –  | 1  | –  | 1  |
-| matroos  | 2  | 1  | 1  | 3  | 1  | 3  | 1  |
-| lichtmatroos  | –  | 2  | 1  | –  | 1  | –  | 1  |
-| machinist of matroos-motordrijver  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
-
-4.  Voor passagiersschepen, bedoeld in het eerste en het derde lid, die zonder passagiers aan boord varen, geldt de minimum-bemanning volgens artikel 23.10.   
-5.  De in het eerste en tweede lid voorgeschreven matrozen mogen door lichtmatrozen worden vervangen, die een minimum-leeftijd van 17 jaar hebben bereikt, zich ten minste in het derde leerjaar bevinden en een jaar vaartijd in de binnenvaart kunnen aantonen.   
-6.  De in het eerste lid voorgeschreven minimum-bemanning (schepen voor dagtochten) 
-
-a) in de groep 2, exploitatiewijze A1, Standaard S2, en  
-
-b) in de groepen 3 en 5, exploitatiewijze A1, Standaard S1,   kan voor de ononderbroken duur van ten hoogste drie maanden in een kalenderjaar met een lichtmatroos, die een schippersschool bezoekt, worden verminderd. Opeenvolgende periodes met een verminderde bemanning moeten met een periode van minimaal één maand worden onderbroken. Het bezoek aan de schippersschool moet worden aangetoond met een verklaring van de schippersschool, die zich aan boord moet bevinden en waarin de tijden van het schoolbezoek zijn aangegeven. Deze bepalingen zijn niet van toepassing op de lichtmatroos, bedoeld in het vijfde lid.   
-7.  De in het tweede lid voorgeschreven minimum-bemanning (stoomschepen voor dagtochten) in de groep 2, exploitatiewijze A1, standaard S1, kan voor de ononderbroken duur van ten hoogste drie maanden in een kalenderjaar met een lichtmatroos, die een schippersschool bezoekt, worden verminderd. Opeenvolgende periodes met een verminderde bemanning moeten met een periode van minimaal één maand worden onderbroken. Het bezoek aan de schippersschool moet worden aangetoond met een verklaring van de schippersschool, die zich aan boord moet bevinden en waarin de tijden van het schoolbezoek zijn aangegeven. Deze bepalingen zijn niet van toepassing op de lichtmatroos, bedoeld in het vijfde lid.   
-8.  De in het eerste lid voorgeschreven minimum-bemanning (hotelschepen) in de groep 3, exploitatiewijze A1, standaard S1, kan voor de ononderbroken duur van ten hoogste drie maanden in een kalenderjaar met een lichtmatroos, die een schippersschool bezoekt, worden verminderd. Opeenvolgende periodes met een verminderde bemanning moeten met een periode van minimaal één maand worden onderbroken. Het bezoek aan de schippersschool moet worden aangetoond met een verklaring van de schippersschool, die zich aan boord moet bevinden en waarin de tijden van het schoolbezoek zijn aangegeven.   
+(Niet meer van toepassing)  
 
 ### Artikel  23.13  
 
 ####Afwijking van de in artikel 23.09  voorgeschreven minimum uitrusting
 
-1.  Wanneer de uitrusting van een motorschip, een duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip niet voldoet aan de standaard S1, bedoeld in artikel 23.09, eerste lid, dient de minimum-bemanning, bedoeld in de artikelen 23.10, 23.11 of  23.12, te worden verhoogd 
-
-a) in de exploitatiewijze A1 en A2 telkens met een matroos, en  
-
-b) in de exploitatiewijze B telkens met twee matrozen.   Wordt alleen niet voldaan aan de gestelde eisen in de onderdelen i en l, onderscheidenlijk de onderdelen i of l van de standaard S1, bedoeld in artikel 23.09, dan wordt de bemanning bij exploitatiewijze B met één matroos in plaats van twee verhoogd.   
-2.  Wordt niet voldaan aan één of meer gestelde eisen van artikel 23.09, lid 1.1, onderdelen a tot en met c, dan moeten worden vervangen 
-
-a) in de exploitatiewijze A1 en A2 de matroos, bedoeld in het eerste lid, onderdeel a, door een matroos-motordrijver, en  
-
-b) in de exploitatiewijze B de twee matrozen, bedoeld in het eerste lid, onderdeel b, door twee matrozen-motordrijver.     
+(Niet meer van toepassing)  
 
 ### Artikel  23.14  
 
 ####Minimum bemanning van overige vaartuigen
 
-De Commissie van Deskundigen stelt voor de vaartuigen waarop de artikelen 23.10 tot en met 23.12 niet van toepassing zijn, zoals sleepboten, sleepschepen en drijvende werktuigen, vast welke bemanning zich tijdens de vaart aan boord moet bevinden, naar gelang hun afmetingen, bouwwijze, inrichting en bestemming. Ten aanzien van bunkerschepen, die slechts op korte riviergedeelten ingezet mogen worden, kan de Commissie van Deskundigen een minimum-bemanning voorschrijven die afwijkt van artikel 23.10.  
+(Niet meer van toepassing)  
 
 ### Artikel  23.15  
 
 ####Vrijstellingen en verminderingen
 
-Voor de vaart beneden het Spijksche Veer (km 857,40) kan, voorzover de Duits-Nederlandse grens tijdens de vaart in de ene of de andere richting niet wordt overschreden, in plaats van met de voorschriften van dit hoofdstuk, worden volstaan met de voorschriften van de [Binnenvaartwet](../../../../../../../../../wet/binnenvaartwet/BWBR0023009/README.md) en de daarop berustende bepalingen binnenvaart. <sup>  Deze verwijzing wijkt af van die in de Franse en Duitse versies, waarin nog steeds wordt verwezen naar de ingetrokken Wet vaartijden en bemanningssterkte, aangezien de CCR dit artikel nog moet aanpassen.  </sup>  
+(Niet meer van toepassing)  
 
 ### Deel  IV  
 
@@ -4840,10 +4510,10 @@ Hoofdstuk 15
 | 15.06, lid 7  | Geschikt veiligheidsgeleidesysteem  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
 | 15.06, lid 8  | Eisen aan verzamelruimten  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
 | 15.06, lid 9  | Eisen aan trappen en portalen in het gedeelte voor passagiers  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
-| 15.06, lid 10, onder a, 1 <sup>e</sup> zin  | Verschansing volgens norm EN 711: 1995  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
+| 15.06, lid 10, onder a, 1 <sup>e</sup> zin  | Reling volgens de Europese norm EN 711 : 1995  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
 | 15.06, lid 10, onder a, 2 <sup>e</sup> zin  | Hoogte van relingen en verschansingen van dekken die door personen met beperkte mobiliteit worden gebruikt  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
 | 15.06, lid 10, onder b, 2 <sup>e</sup> zin  | Vrije breedte van openingen die voor het embarkeren van personen met beperkte mobiliteit worden gebruikt  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
-| 15.06, lid 12  | Loopplanken overeenkomstig norm EN 14206: 2003  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2007  |
+| 15.06, lid 12  | Loopplanken overeenkomstig de Europese norm EN 14206 : 2003  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2007  |
 | 15.06, lid 13  | Doorgangsruimten en wanden van doorgangsruimten die zijn bestemd voor het gebruik door personen met beperkte mobiliteit  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
 | 15.06, lid 14, 1 <sup>e</sup> zin  | Vervaardiging van glazen deuren, glazen wanden van doorgangsruimten en vensterruiten  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
 | 15.06, lid 15  | Eisen aan opbouwen die volledig of waarvan de daken uit panoramaruiten bestaan  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
@@ -4864,7 +4534,7 @@ Hoofdstuk 15
 | 15.09, lid 1, 1e zin  | Reddingsboeien  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2007  |
 | 15.09, lid 2  | Individuele reddingsmiddelen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2007  |
 | 15.09, lid 3  | Inrichtingen voor het veilig van boord brengen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
-| 15.09, lid 4  | Individuele reddingsmiddelen voor 100% van de passagiers volgens EN 395: 1998, EN 396: 1998, EN ISO 12402-3: 2006 of EN ISO 12402-4: 2006  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2007  |
+| 15.09, lid 4  | Individuele reddingsmiddelen voor 100% van de passagiers overeenkomstig de Europese norm EN 395 : 1998, EN 396: 1998, EN ISO 12402-3: 2006 of EN ISO 12402-4: 2006  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2007  |
 | --- | Soort reddingsmiddelen  | Voor passagiersschepen die voor 1.1.2005 met gemeenschappelijke reddingsmiddelen waren uitgerust, worden deze als alternatief voor de individuele reddingsmiddelen beschouwd.  Voor passagiersschepen die voor 1.1.2005 met gemeenschappelijke reddingsmiddelen overeenkomstig art. 15.09, lid 6, waren uitgerust, worden deze tot aan de verlenging van het certificaat van onderzoek na 1.1.2010 als alternatief voor de individuele reddingsmiddelen beschouwd.  |
 | 15.09, lid 9  | Testen van reddingsmiddelen volgens de indicaties van de fabrikant  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2007  |
 | 15.09, lid 10  | Bijboot uitgerust met motor en verstelbare schijnwerper  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
@@ -4931,14 +4601,14 @@ Hoofdstuk 20
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
 |:---|:---|:---|
-| 20.01  | Artikelen 7.01, lid 2, 8.05, lid 13, en 8.10  | Voor zeeschepen die niet zijn bestemd voor het vervoer van goederen in de zin van het ADN en waarvan de kiel is gelegd vóór 1.10.1987: N.V.O. uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
+| 20.01  | Artikelen 7.01, lid 2, 8.05, lid 13, en 8.10  | Voor zeeschepen die niet zijn bestemd voor het vervoer van goederen in de zin van het ADNR en waarvan de kiel is gelegd vóór 1.10.1987: N.V.O. uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
 | 20.01  | 8.09, lid 2  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
 
 Hoofdstuk 21 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
 |:---|:---|:---|
-| 21.01 t/m 21.03  | --- | Deze voorschriften gelden voor pleziervaartuigen die zijn gebouwd vóór 1.1.1995 pas bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
+| 21.01 en 21.02  | --- | Deze voorschriften gelden voor pleziervaartuigen die zijn gebouwd vóór 1.1.1995 pas bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
 
 ### Artikel  24.03  
 
@@ -5021,63 +4691,7 @@ Hoofdstuk 15
 
 ### Artikel  24.05  
 
-####Overgangsbepalingen bij hoofdstuk 23 ‘Bemanningen’
-
-Onverminderd artikel 23.03 betreffende de lichamelijke geschiktheid geldt de volgende overgangsregeling voor hoofdstuk 23: 
-
-1. Een op 31 december 2001 in de binnenvaart werkzame deksman kan de bevoegdheid als matroos verkrijgen, nadat hij zijn 19e levensjaar heeft beëindigd en een vaartijd als lid van de dekbemanning van ten minste drie jaar heeft aangetoond; daarvan moeten ten minste een jaar in de binnenvaart en twee jaar in de binnenvaart of in de zee- of kustvaart of visserij vervuld zijn. Deze matroos kan de bevoegdheid als: 
-
-a. volmatroos verkrijgen, wanneer hij een vaartijd in de Rijnvaart van ten minste een jaar als matroos kan aantonen,  
-
-b. stuurman verkrijgen, wanneer hij een vaartijd in de Rijnvaart van ten minste twee jaar als matroos kan aantonen.    
-
-2. Een op 31 december 2001 in de binnenvaart werkzame matroos kan de bevoegdheid als volmatroos verkrijgen, wanneer hij een vaartijd in de Rijnvaart van ten minste een jaar als matroos kan aantonen.  
-
-3. Een op 31 december 2001 in de binnenvaart werkzame matroos kan de bevoegdheid als stuurman verkrijgen, wanneer hij een vaartijd in de Rijnvaart van ten minste twee jaar als matroos kan aantonen.  
-
-4. Een op 31 december 2001 in de Rijnvaart werkzame volmatroos kan de bevoegdheid als stuurman verkrijgen, wanneer hij een vaartijd in de Rijnvaart van ten minste een jaar als volmatroos kan aantonen.  
-
-5. Tot aan de eerstvolgende verlenging van het certificaat van onderzoek, echter uiterlijk tot 1 juli 2007, kan het voldoen aan artikel 23.09, lid 1.1 of lid 1.2, zoals vereist in artikel 23.09, tweede lid, als volgt in het certificaat van onderzoek worden aangetekend: 
-
-a. Voor het voldoen aan artikel 23.09, lid 1.1, volstaat een aantekening onder punt 47 als volgt: ‘Het schip voldoet aan artikel 23.09, eerste lid ’.  
-
-b. Voor het voldoen aan artikel 23.09, lid 1.2, volstaan de volgende aantekeningen: 
-
-– in het geval van alleen varende motorschepen en van motorschepen die een gekoppeld samenstel voortbewegen: 
-
-* onder punt 47: ‘Het schip voldoet aan artikel 23.09, eerste lid ’ en  
-
-* onder punt 34:  
-
-| --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
-| 34  | --- | --- | --- | --- |
-| --- | boegbesturingsinstallatie  | --- | afstandbediend  | aan- en afstellen op afstand  |
-| --- | ja  | boegstraal  | ja  | ja  |
-
-– in het geval van passagiersschepen: 
-
-* onder punt 47: ‘Het schip voldoet aan artikel 23.09, eerste lid ’ en ofwel  
-
-* onder punt 34:  
-
-| --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
-| 34  | --- | --- | --- | --- |
-| --- | boegbesturingsinstallatie  | --- | afstandbediend  | aan- en afstellen op afstand  |
-| --- | ja  | boegstraal of andere inrichting  | ja  | ja  |
-
-* dan wel onder punt 27:  
-
-| --- |
-|:---|
-| 27. Aantal voortstuwingsmotoren  ‘...’ (meer dan 1)  |
-
-* en onder punt 29:  
-
-| --- |
-|:---|
-| 29. Aantal hoofdschroeven  ‘...’ (meer dan 1)  |
+####(Zonder inhoud)
 
 ### Artikel  24.06  
 
@@ -5207,10 +4821,10 @@ Hoofdstuk 15
 | 15.06, lid 7  | Geschikt veiligheidsgeleidesysteem  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  | 1.1.2006  |
 | 15.06, lid 8  | Eisen aan verzamelruimten  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
 | 15.06, lid 9, onder a t/m c, onder e en laatste zin  | Eisen aan trappen en portalen in het gedeelte voor passagiers  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
-| 15.06, lid 10, onder a, 1 <sup>e</sup> zin  | Verschansing volgens norm EN 711: 1995  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
+| 15.06, lid 10, onder a, 1 <sup>e</sup> zin  | Reling volgens de Europese norm EN 711 : 1995  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
 | 15.06, lid 10, onder a, 2 <sup>e</sup> zin  | Hoogte van relingen en verschansingen van dekken die door personen met beperkte mobiliteit worden gebruikt  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
 | 15.06, lid 10, onder b, 2 <sup>e</sup> zin  | Vrije breedte van openingen die voor het embarkeren van personen met beperkte mobiliteit worden gebruikt  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
-| 15.06, lid 12  | Loopplanken overeenkomstig norm EN 14206: 2003  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  | 1.1.2006  |
+| 15.06, lid 12  | Loopplanken overeenkomstig de Europese norm EN 14206 : 2003  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  | 1.1.2006  |
 | 15.06, lid 13  | Doorgangsruimten en wanden van doorgangsruimten die zijn bestemd voor het gebruik door personen met beperkte mobiliteit  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
 | 15.06, lid 14, 1 <sup>e</sup> zin  | Vervaardiging van glazen deuren, glazen wanden van doorgangsruimten en vensterruiten  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
 | 15.06, lid 15  | Eisen aan opbouwen die volledig of waarvan de daken uit panoramaruiten bestaan  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
@@ -5230,7 +4844,7 @@ Hoofdstuk 15
 | 15.09, lid 1, 1e zin  | Reddingsboeien  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  | 1.1.2006  |
 | 15.09, lid 2  | Individuele reddingsmiddelen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  | 1.1.2006  |
 | 15.09, lid 3  | Inrichtingen voor het veilig van boord brengen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  | 1.1.2006  |
-| 15.09, lid 4  | Individuele reddingsmiddelen voor 100% passagiers overeenkomstig EN 395 : 1998, EN 396 : 1998, EN ISO 12402-3 : 2006 of EN ISO 12402-4 : 2006  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2007  | 1.1.2006  |
+| 15.09, lid 4  | Individuele reddingsmiddelen voor 100% passagiers overeenkomstig de Europese norm EN 395 : 1998, EN 396 : 1998, EN ISO 12402-3 : 2006 of EN ISO 12402-4 : 2006  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2007  | 1.1.2006  |
 | --- | --- | --- | --- |
 | --- | Soort reddingsmiddelen  | Voor passagiersschepen die voor 1.1.2005 met geschikte gemeenschappelijke reddingsmiddelen waren uitgerust, worden deze als alternatief voor de individuele reddingsmiddelen beschouwd.  Voor passagiersschepen die voor 1.1.2005 met gemeenschappelijke reddingsmiddelen overeenkomstig art. 15.09, lid 6, waren uitgerust, worden deze tot aan de verlenging van het certificaat van onderzoek na 1.1.2010 als alternatief voor de individuele reddingsmiddelen beschouwd.  | 1.1.2006  |
 | --- | Soort reddingsmiddelen  | Voor passagiersschepen die voor 1.1.2005 met geschikte gemeenschappelijke reddingsmiddelen waren uitgerust, worden deze als alternatief voor de individuele reddingsmiddelen beschouwd.  Voor passagiersschepen die voor 1.1.2005 met gemeenschappelijke reddingsmiddelen overeenkomstig art. 15.09, lid 6, waren uitgerust, worden deze tot aan de verlenging van het certificaat van onderzoek na 1.1.2010 als alternatief voor de individuele reddingsmiddelen beschouwd.  | --- |
@@ -5380,19 +4994,273 @@ Voor het hieronder beschreven vaartuig wordt bij de Commissie van Deskundigen te
 
 ####Model van het certificaat van onderzoek
 
+| --- |
+|:---|
+|  *NAAM VAN DE STAAT/WAPEN VAN DE STAAT*   |
+|  *CERTIFICAAT VAN ONDERZOEK*   |
+|  *Nr. ..........*   |
+| --- |
+| Plaats en datum  |
+| ..........  |
+| --- |
+| Commissie van Deskundigen  |
+| ..........  |
+| --- |
+| Stempel  |
+| ..........  |
+| (handtekening)  |
+| --- |
+
+Opmerkingen: Het vaartuig mag op grond van dit certificaat slechts zolang voor de vaart worden gebruikt, als het zich in de toestand bevindt zoals in het certificaat is aangegeven. Na iedere wezenlijke verandering of schade mag het vaartuig eerst dan weer in de vaart worden gebracht, wanneer het op grond van een bijzonder onderzoek daarvoor opnieuw is toegelaten. Iedere naamsverandering, iedere wisseling van eigenaar, iedere nieuwe ijking van het vaartuig zowel als iedere verandering van de teboekstelling of van de thuishaven moet de eigenaar of zijn vertegenwoordiger ter kennis brengen van de Commissie van Deskundigen. Daarbij moet hij het certificaat van onderzoek voorleggen om daarin de veranderingen aan te laten tekenen. ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+| 1. Naam van het vaartuig  | 2. Soort vaartuig  | 3. Uniek Europees scheepsidentificatienummer  |
+| 4. Naam en adres van de eigenaar  |
+| 5. Plaats en nummer van teboekstelling  | 6. Thuishaven  |
+| 7. Bouwjaar  | 8. Naam en plaats van de bouwwerf  |
+| 9. Dit certificaat vervangt het certificaat van onderzoek nr. .......... afgegeven op .......... door de Commissie van Deskundigen te ..........  |
+| 10. Het boven omschreven vaartuig is op grond van het eigen onderzoek d.d.*)  ..........  de verklaring van het erkende classificatiebureau*)  ..........  gedateerd ..........  voor de vaart op de Rijn*) tussen .......... en ..........*)  met de aangegeven ten hoogste toegestane diepgang alsmede de navolgend aangegeven uitrusting en bemanning deugdelijk bevonden.  |
+| 11. De geldigheid van dit certificaat eindigt op . ..........  |
+| *)Wijziging(en) onder nummer(s): ..........  Nieuwe tekst:  ..........  ..........  ..........  *)Deze bladzijde is vervangen.  |
+| --- |
+| --- |
+| --- |
+| Plaats en datum ..........  Stempel  | De Commissie van Deskundigen te ..........  |
+| --- | ..........  (handtekening)  |
+| *) Doorhalen wat niet van toepassing is.  | --- |
+
+ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
+
+| --- | --- |
+|:---|:---|
+| 12. Het nummer van het certificaat van onderzoek (1), het uniek Europees scheepsidentificatienummer (2), het nummer van teboekstelling (3) en het nummer van meting (4) zijn met de bijbehorende tekens op de volgende plaatsen op het schip aangebracht:  1 ..........  2 ..........  3 ..........  4 . ..........  |
+| 13. De grootste toegelaten inzinking wordt aan iedere zijde van het schip aangegeven door  – twee – .......... – inzinkingsmerken*).  – de bovenste ijkmerken*).  Er zijn twee diepgangsschalen aangebracht*).  De achterste ijkmerken fungeren als diepgangsschalen; zij zijn daartoe aangevuld met cijfers, die de diepgang aangeven*).  |
+| 14. Het vaartuig is, met inachtname van de onder 15 en 52 aangegeven beperkingen*), geschikt om:  |
+| --- |
+| 1. te duwen*)  1.1 met starre verbindingen*)  1.2 met gestuurde knikverbindingen*)  2. geduwd te worden*)  2.1 met starre verbindingen*)  2.2 met starre verbindingen aan de voorzijde van een duwstel*)  2.3 met gestuurde knikverbindingen*)  3. een ander vaartuig langszijde gekoppeld mee te voeren*)  | 4. langszijde gekoppeld meegevoerd te worden*)  5. te slepen*)  5.1 van schepen zonder eigen voortstuwing*)  5.2 van schepen met eigen voortstuwing*)  5.3 alleen in de opvaart*)  6. gesleept te worden*)  6.1 als schip met eigen voortstuwing*)  6.2 als schip zonder eigen voortstuwing*)  |
+| *)Wijziging(en) onder nummer(s): ..........  Nieuwe tekst: ..........  ..........  ..........  *)Deze bladzijde is vervangen.  |
+| --- |
+| --- |
+| --- |
+| Plaats, datum ..........  Stempel  | De Commissie van Deskundigen ..........  |
+| --- | ..........  (handtekening)  |
+| *) Doorhalen wat niet van toepassing is.  | --- |
+
+ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
+
+| --- |
+|:---|
+| 15. Toegelaten samenstellen  |
+| 1. Het vaartuig is voor de voortbeweging van de volgende samenstellen toegelaten:  |
+
+| Nummer samenstel  | Beperkingen op grond van de hoofdstukken 5 en 16  | maximale afmetingen  | vaarrichting en belading  | maximaal ingedompelde doorsnede in m <sup>2</sup>  | Opmerkingen  |--- | OPVAART  | AFVAART  | opvaart  | afvaart  | Lengte  | Breedte  | belading t  | leeg  | belading t  | leeg  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
 ![249172](http://wetten.overheid.nl/Illustration/249172)
-![249172](http://wetten.overheid.nl/Illustration/249172)
-![249172](http://wetten.overheid.nl/Illustration/249172)
-![249172](http://wetten.overheid.nl/Illustration/249172)
-![249172](http://wetten.overheid.nl/Illustration/249172)
-![249172](http://wetten.overheid.nl/Illustration/249172)
-![249172](http://wetten.overheid.nl/Illustration/249172)
-![249172](http://wetten.overheid.nl/Illustration/249172)
-![249172](http://wetten.overheid.nl/Illustration/249172)
-![249172](http://wetten.overheid.nl/Illustration/249172)
-![249172](http://wetten.overheid.nl/Illustration/249172)
-![249172](http://wetten.overheid.nl/Illustration/249172)
-![249172](http://wetten.overheid.nl/Illustration/249172)
+
+| --- | --- |
+|:---|:---|
+| 2. Koppelingen:  |
+| Soort van de koppelingen: ..........  | Aantal koppelingen per zijde: ..........  |
+| Aantal koppelingsdraden: ..........  | Lengte per koppelingsdraad: ..........  |
+| Breeksterkte per langsverbinding: .......... kN  | Breeksterkte per koppelingsdraad: .......... kN  |
+| Aantal windingen van de draden ..........  |
+| --- |
+| *)Wijziging(en) onder nummer(s): ..........  Nieuwe tekst:  ..........  ..........  ..........  |
+| --- |
+| *)Deze bladzijde is vervangen.  |
+| --- |
+| --- |
+| --- |
+| Plaats en datum ..........  | De Commissie van deskundigen te ..........  |
+| Stempel  | --- |
+| --- | ..........  (handtekening)  |
+| *) Doorhalen wat niet van toepassing is.  | --- |
+
+ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
+
+| --- | --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|:---|
+| 16. Meetbrief nr. .......... afgegeven door: .......... op ..........  |
+| 17a Lengte o.a. m  | 18a. Breedte o.a. m  | 19. Grootste diepgang m  | 20. Vrijbord cm  |
+| 17b Lengte L m  | 18b. Breedte B m  | --- | --- |
+| 21. Laadvermogen/Waterverplaatsing*) t/m 3*)  | 22. Aantal passagiers  | 23. Aantal bedden voor passagiers  |
+| 24. Aantal waterdichte dwarsschoten  | 25. Aantal laadruimen  | 26. Soort luikenkap  |
+| 27. Aantal voortstuwingsmotoren  | 28. Totaal vermogen van de voortstuwingsinstallatie kW  | 29. Aantal hoofdschroeven  |
+| 30. Aantal boegankerlieren waarvan ........ met mechanische aandrijving  | 31. Aantal hekankerlieren waarvan ...... met mechanische aandrijving  |
+| 32. Aantal sleephaken  | 33. Aantal sleeplieren:  waarvan ....... met mechanische aandrijving  |
+| 34. Stuurinrichting aantal hoofdroeren  | Hoofdaandrijving  | – hand*)  – elektrisch*)  | – elektrisch/hydraulisch*)  – hydraulisch*)  |
+| Andere installaties: ja/neen*) Soort:  |
+| Flankingroer:  ja/neen*)  | Aandrijving:  | – hand*)  – elektrisch*)  | – elektrisch/hydraulisch*)  – hydraulisch*)  |
+| Boegbesturingsinstallatie  ja/neen*)  | – boegroer*)  – boegstraal*)  – andere inrichting*)  | – afstandbediend  ja/neen*)  | aan- en afstellen op afstand  ja/neen*)  |
+| 35. Lensinrichtingen  Aantal lenspompen .......... , waarvan gemotoriseerd ..........  Minimumdebiet eerste lenspomp .......... l/min  tweede lenspomp.......... l/min  |
+| *)Wijziging(en) onder nummer(s): ..........  Nieuwe tekst: ..........  ..........  ..........  *)Deze bladzijde is vervangen.  |
+| --- | --- |
+| --- | --- |
+| --- | --- |
+| Plaats en datum ..........  Stempel  | De Commissie van Deskundigen te ..........  |
+| --- | ..........  (handtekening)  |
+| *) Doorhalen wat niet van toepassing is.  | --- |
+
+ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
+
+| --- | --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|:---|
+| 36. Aantal en plaats van afsluiters bedoeld in artikel 8.08, tiende en elfde lid  |
+| 37. Ankers  Aantal boegankers  | Totaal gewicht .......... kg  | Aantal hekankers  | Totaal gewicht .......... kg  |
+| 38. Ankerkettingen  Aantal boegankerkettingen  Aantal hekankerkettingen  | Lengte per ketting .......... m  Lengte per ketting .......... m  | Breeksterkte per ketting .......... kN  Breeksterkte per ketting .......... kN  |
+| 39. Meerdraden  1. draad met een lengte van .......... m en een breekstrekte van .......... kN  2. draad met een lengte van .......... m en een breekstrekte van.......... kN  3. draad met een lengte van .......... m en een breekstrekte van.......... kN  |
+| 40. Sleepdraden  .......... met een lengte van .......... m en een breekstrekte van.......... kN  .......... met een lengte van .......... m en een breekstrekte van.......... kN  |
+| 41. Tekens en seinen  De lichten, vlaggen, bollen, cylinders, kegels, drijvers en geluidsinstallaties voor het voeren en tonen van de tekens en het geven van de geluidsseinen, voorgeschreven in het Rijnvaartpolitiereglement bevinden zich aan boord evenals van het boordnet onafhankelijke noodlichten voor de lichten voor het stilliggen zoals voorgeschreven in het Rijnvaartpolitiereglement.  |
+| *)Wijziging(en) onder nummer(s): ..........  Nieuwe tekst: ..........  ..........  ..........  *)Deze bladzijde is vervangen.  |
+| --- | --- |
+| --- | --- |
+| --- | --- |
+| Plaats en datum ..........  Stempel  | De Commissie van Deskundigen te ..........  |
+| --- | ..........  (handtekening)  |
+| *) Doorhalen wat niet van toepassing is.  | --- |
+
+ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
+
+| --- | --- | --- |
+|:---|:---|:---|
+| 42. Overige uitrusting  | --- | --- |
+| Werplijn  Loopplank volgens artikel 10.02, lid 2 d*)/volgens artikel 15.06, lid 12*), lengte ..... m  | Intercom  | tweezijdig afwisselend*)  tweezijdig tegelijkertijd*)  Interne bedrijfstelefoon d.m.v. marifoon*)  |
+| Bootshaak  Aantal verbandtrommels .....  Verrekijker  Bord betreffende het redden van drenkelingen  | Marifoon-installatie  | schip – schipverkeer  nautische informatie  Schip-havendienst  |
+| Vanuit de stuurstelling bedienbare schijnwerper  Aantal brandbestendige verzamelreservoirs .....  Buitenboordtrap/-ladder*)  | Kranen  | volgens artikel 11.12 lid 9*) andere kranen met bedrijfslast tot 2000 kg*)  |
+| 43. Inrichtingen voor het bestrijden van brand  Aantal draagbare blustoestellen ....., brandbluspompen ....., brandkranen.....,  Vast ingebouwde brandblusinstallaties in verblijven enz. neen/aantal .....*)  Vast ingebouwde brandblusinstallaties in machinekamers enz. neen/aantal.....*)  De motorlenspomp vervangt een brandbluspomp ja/neen*)  |
+| 44. Reddingsmiddelen  Aantal reddingsboeien ....., waaronder met licht ....., met drijvende lijn .....*)  Een zwemvest voor ieder zich gewoonlijk aan boord bevindende persoon/overeenkomstig EN 395 : 1998, EN 396 : 1998, EN ISO 12402-3 : 2006 of EN ISO 12402-4 : 2006*)  Een bijboot met een stel roeiriemen, een meertouw en een hoosvat/overeenkomstig EN 1914 : 1997*)  Platform of inrichting volgens artikel 15.15, lid 5 of 6*)  Aantal, soort en plaats(en) van opstelling van de evacuatieinrichting(en) volgens artikel 15.09, lid 3 ..........  ..........  ..........  Aantal persoonlijke reddingsmiddelen voor boordpersoneel ....., waaronder volgens artikel 10.05, lid 2 .....*)  Aantal persoonlijke reddingsmiddelen voor passagiers .....*)  Gemeenschappelijke reddingsmiddelen overeenkomend met aantal ..... persoonlijke reddingsmiddelen*)  Twee ademhalingsapparaten, twee uitrustingspaketten, aantal ..... vluchtmaskers*)  Veiligheidsrol en veiligheidsplan zijn als volgt opgehangen: ..........  ..........  ..........  |
+| 45. Bijzondere inrichting van het stuurhuis voor het voeren van het schip met behulp van radar door één persoon:  Het schip is voorzien van een éénmanstuurstelling voor het varen op radar*).  |
+| *)Wijziging(en) onder nummer(s): ..........  Nieuwe tekst: ..........  ..........  ..........  *)Deze bladzijde is vervangen.  |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| Plaats en datum ..........  Stempel  | De Commissie van Deskundigen te ..........  |
+| --- | ..........  (handtekening)  |
+| *) Doorhalen wat niet van toepassing is.  | --- |
+
+ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
+
+| --- |
+|:---|
+| 46. Het vaartuig is geschikt voor de exploitatievormen A1*), A2*), B*).  |
+| 47. Uitrusting van het schip overeenkomstig artikel 23.09  Het schip voldoet*)/voldoet niet*) aan artikel 23.09 nr. 1.1*)/artikel 23.09 nr. 1.2*)  De minimumbemanning moet overeenkomstig artikel 3.18 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn als volgt worden versterkt*)/niet worden versterkt:  |
+| *) Doorhalen wat niet van toepassing is.  |
+
+|--- | Exploitatiewijze  |
+|:---|:---|
+| --- | A1  | A2  | B  |
+| Matroos ..........  Vervanging van matroos door matroos-motordrijver  | ..........  ..........  | ..........  ..........  | ..........  ..........  |
+
+| --- |
+|:---|
+| Opmerkingen en bijzondere voorwaarden:  ..........  ..........  ..........  |
+| 48. Minimumbemanning overeenkomstig artikel 3.19 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn  |
+
+|--- | Exploitatiewijze  |
+|:---|:---|
+| --- | A1  | A2  | B  |
+| Schipper..........  Stuurman..........  Volmatroos..........  Matroos..........  Lichtmatroos..........  Matroos-motordrijver..........  Machinis..........t  | ..........  ..........  ..........  ..........  ..........  ..........  ..........  | ..........  ..........  ..........  ..........  ..........  ..........  ..........  | ..........  ..........  ..........  ..........  ..........  ..........  ..........  |
+
+| --- | --- |
+|:---|:---|
+| Opmerkingen en bijzondere voorwaarden:  ..........  ..........  ..........  ..........  |
+| *)Wijziging(en) onder nummer(s): ..........  Nieuwe tekst: ..........  ..........  ..........  *)Deze bladzijde is vervangen.  | --- |
+| --- | --- |
+| --- | --- |
+| Plaats en datum ..........  Stempel  | De Commissie van Deskundigen te ..........  |
+| --- | ..........  (Handtekening)  |
+| *) Doorhalen wat niet van toepassing is.  | --- |
+
+ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
+
+| --- | --- |
+|:---|:---|
+| 49. *Verlenging/bekrachtiging*) van de geldigheid van het certificaat*) Verklaring van het aanvullend onderzoek/bijzondere verklaring*)*  De Commissie van Deskundigen heeft het vaartuig op .......... onderzocht*).  Aan de Commissie van Deskundigen is een verklaring van het erkende classificatiebureau ..........  ..........  d.d. .......... getoond*).  De reden van dit onderzoek/deze verklaring*) was:  ..........  ..........  Gezien het resultaat van het onderzoek/de verklaring*) wordt de geldigheidsduur van het certificaat gehandhaafd/verlengd*) tot ..........  |
+| .......... , ..........  (Plaats) (Datum)  Stempel  | Commissie van Deskundigen ..........  |
+| --- | ..........  (Handtekening)  |
+| *) Doorhalen wat niet van toepassing is.  | --- |
+| 49. *Verlenging/bekrachtiging*) van de geldigheid van het certificaat*) Verklaring van het aanvullend onderzoek/bijzondere verklaring*)*  De Commissie van Deskundigen heeft het vaartuig op .......... onderzocht*).  Aan de Commissie van Deskundigen is een verklaring van het erkende classificatiebureau ..........  ..........  d.d. .......... getoond*).  De reden van dit onderzoek/deze verklaring*) was:  ..........  ..........  Gezien het resultaat van het onderzoek/de verklaring*) wordt de geldigheidsduur van het certificaat gehandhaafd/verlengd*) tot ..........  |
+| .......... , ..........  (Plaats) (Datum)  Stempel  | Commissie van Deskundigen ..........  |
+| --- | ..........  (Handtekening)  |
+| *) Doorhalen wat niet van toepassing is.  | --- |
+| 49. *Verlenging/bekrachtiging*) van de geldigheid van het certificaat*) Verklaring van het aanvullend onderzoek/bijzondere verklaring*)*  De Commissie van Deskundigen heeft het vaartuig op .......... onderzocht*).  Aan de Commissie van Deskundigen is een verklaring van het erkende classificatiebureau ..........  ..........  d.d. .......... getoond*).  De reden van dit onderzoek/deze verklaring*) was:  ..........  ..........  Gezien het resultaat van het onderzoek/de verklaring*)  wordt de geldigheidsduur van het certificaat gehandhaafd/verlengd*) tot ..........  |
+| .......... , ..........  (Plaats) (Datum)  Stempel  | Commissie van Deskundigen ..........  |
+| --- | ..........  (Handtekening)  |
+| *) Doorhalen wat niet van toepassing is.  | --- |
+
+ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
+
+| --- | --- |
+|:---|:---|
+| 49. *Verlenging/bekrachtiging*) van de geldigheid van het certificaat*) Verklaring van het aanvullend onderzoek/bijzondere verklaring*)*  De Commissie van Deskundigen heeft het vaartuig op .......... onderzocht*).  Aan de Commissie van Deskundigen is een verklaring van het erkende classificatiebureau ..........  ..........  d.d. .......... getoond*).  De reden van dit onderzoek/deze verklaring*) was:  ..........  ..........  Gezien het resultaat van het onderzoek/de verklaring*) wordt de geldigheidsduur van het certificaat gehandhaafd/verlengd*) tot ..........  |
+| .......... , ..........  (Plaats) (Datum)  Stempel  | Commissie van Deskundigen ..........  |
+| --- | ..........  (Handtekening)  |
+| *) Doorhalen wat niet van toepassing is.  | --- |
+| 49. *Verlenging/bekrachtiging*) van de geldigheid van het certificaat*) Verklaring van het aanvullend onderzoek/bijzondere verklaring*)*  De Commissie van Deskundigen heeft het vaartuig op .......... onderzocht*).  Aan de Commissie van Deskundigen is een verklaring van het erkende classificatiebureau ..........  ..........  d.d. .......... getoond*).  De reden van dit onderzoek/deze verklaring*) was:  ..........  ..........  Gezien het resultaat van het onderzoek/de verklaring*) wordt de geldigheidsduur van het certificaat gehandhaafd/verlengd*) tot ..........  |
+| .......... , ..........  (Plaats) (Datum)  Stempel  | Commissie van Deskundigen ..........  |
+| --- | ..........  (Handtekening)  |
+| *) Doorhalen wat niet van toepassing is.  | --- |
+| 49. *Verlenging/bekrachtiging*) van de geldigheid van het certificaat*) Verklaring van het aanvullend onderzoek/bijzondere verklaring*)*  De Commissie van Deskundigen heeft het vaartuig op .......... onderzocht*).  Aan de Commissie van Deskundigen is een verklaring van het erkende classificatiebureau ..........  ..........  d.d. .......... getoond*).  De reden van dit onderzoek/deze verklaring*) was:  ..........  ..........  Gezien het resultaat van het onderzoek/de verklaring*)  wordt de geldigheidsduur van het certificaat gehandhaafd/verlengd*) tot ..........  |
+| .......... , ..........  (Plaats) (Datum)  Stempel  | Commissie van Deskundigen ..........  |
+| --- | ..........  (Handtekening)  |
+| *) Doorhalen wat niet van toepassing is.  | --- |
+
+ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
+
+| --- |
+|:---|
+| 50. *Verklaring betreffende de vloeibaargasinstallatie(s)*  De op het vaartuig aanwezige vloeibaargasinstallatie(s) is/zijn*) geinspecteerd door de erkend deskundige*) ..........  ..........  gezien zijn verklaring d.d. .......... is (zijn)*) de installatie(s) overeenkomstig de voorgeschreven eisen uitgevoerd.  De installatie(s) omvat(ten)*) de volgende gebruiksapparaten:  |
+
+| Installatie  | Volgnr.  | Soort  | Merk  | Type  | Plaats  |
+|:---|:---|:---|:---|:---|:---|
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+
+| --- | --- |
+|:---|:---|
+| Deze verklaring is geldig tot ..........  | --- |
+| .......... , ..........  (Plaats) (Datum)  ..........  Stempel  | Commissie van Deskundigen  ..........  Erkend deskundige*)  |
+| --- | ..........  (Handtekening)  |
+| *)Wijziging(en) onder nummer(s): ..........  Nieuwe tekst: ..........  ..........  ..........  | --- |
+| *)Deze bladzijde is vervangen.  Plaats en datum ..........  Stempel  | De Commissie van Deskundigen te ..........  |
+| --- | ..........  (Handtekening)  |
+| *) Doorhalen wat niet van toepassing is.  | --- |
+
+ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
+
+| --- | --- |
+|:---|:---|
+| 51. *Verlenging van de verklaring betreffende de vloeibaargasinstallatie(s)*  De geldigheidsduur van de verklaring betreffende de vloeibaargasinstallatie(s) d.d. .......... geldig tot .......... wordt  – na gehouden controle door de deskundige ..........  – gezien de verklaring nr. .......... d.d. ..........  verlengd tot ..........  |
+| .......... , ..........  (Plaats) (Datum)  Stempel  | Commissie van Deskundigen ..........  |
+| --- | ..........  (Handtekening)  |
+| 51. *Verlenging van de verklaring betreffende de vloeibaargasinstallatie(s)*  De geldigheidsduur van de verklaring betreffende de vloeibaargasinstallatie(s) d.d. .......... geldig tot .......... wordt  – na gehouden controle door de deskundige ..........  – gezien de verklaring nr. .......... d.d. ..........  verlengd tot ..........  |
+| .......... , ..........  (Plaats) (Datum)  Stempel  | Commissie van Deskundigen ..........  |
+| --- | ..........  (Handtekening)  |
+| 51. *Verlenging van de verklaring betreffende de vloeibaargasinstallatie(s)*  De geldigheidsduur van de verklaring betreffende de vloeibaargasinstallatie(s) d.d. .......... geldig tot .......... wordt  – na gehouden controle door de deskundige ..........  – gezien de verklaring nr. .......... d.d. ..........  verlengd tot ..........  |
+| .......... , ..........  (Plaats) (Datum)  Stempel  | Commissie van Deskundigen ..........  |
+| --- | ..........  (Handtekening)  |
+
+ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Deskundigen te ..........  
+
+| --- | --- |
+|:---|:---|
+| 52. Aanhangsel bij het certificaat van onderzoek  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  ..........  |
+| *)Wijziging(en) onder nummer(s): ..........  Nieuwe tekst: ..........  ..........  ..........  *)Deze bladzijde is vervangen.  | --- |
+| Plaats en datum ..........  Stempel  | De Commissie van Deskundigen te ..........  |
+| --- | ..........  (handtekening)  |
+| *) Doorhalen wat niet van toepassing is.  | --- |
+| Vervolg op bladzijde*) ..........  Einde van het certificaat van onderzoek*)  |
 
 ### Bijlage  C  
 
@@ -5402,100 +5270,18 @@ Voor het hieronder beschreven vaartuig wordt bij de Commissie van Deskundigen te
 
 ### Bijlage  D  
 
-####(Model)
+####als bedoeld in artikel 2.05, tweede lid 
 
+(Model)   ![249031](http://wetten.overheid.nl/Illustration/249031)
 ![249031](http://wetten.overheid.nl/Illustration/249031)
-
-| --- | --- | --- |
-|:---|:---|:---|
-| 9.  | Vervoer gevaarlijke goederen  |
-| 9.1  | Soort schip:  | ................................................................................  |
-| 9.2  | Extra eisen:  | schip als bedoeld in 7.1.2.19.1 <sup>1</sup>  |
-| --- | --- | schip als bedoeld in 7.2.2.19.3 <sup>1</sup>  |
-| --- | --- | Het schip voldoet aan de aanvullende constructie-eisen  |
-| --- | --- | Voor dubbelwandige schepen in 9.1.0.80 t/m 9.1.0.95/9.2.0.80 t/m 9.2.0.95 <sup>1</sup>  |
-| --- | --- | --- |
-| 9.3  | Extra opmerkingen:  | --- |
-| --- | ............  |
-| --- | ............  |
-| --- | ............  |
-
-<sup>1</sup> Indien niet van toepassing doorhalen of niet printen. 
 
 ### Bijlage  E  
 
-####Model van het vaartijdenboek
-
-####Vaartijdenboek
-
-Volgnummer ..... Dit vaartijdenboek omvat 200 bladzijden, genummerd van 1 tot en met 200. De aantekeningen in dit boek dienen met inkt en duidelijk leesbaar (bijv. in drukletters) te worden aangebracht. Naam van het schip: ..... Uniek Europees scheepsidentificatienummer of officieel scheepsnummer: ..... Aanwijzingen voor het bijhouden van het vaartijdenboek 
-
-### 1  
-
-####Volgnummer
-
-Het eerste vaartijdenboek van elk schip moet worden afgegeven door de Commissie van Deskundigen die het certificaat van onderzoek aan het schip heeft uitgereikt. Latere vaartijdenboeken mogen worden afgegeven en van een volgnummer worden voorzien door een andere Commissie van Deskundigen; zij mogen evenwel slechts tegen overlegging van het voorgaande vaartijdenboek worden afgegeven. Het voorgaande vaartijdenboek moet van de onuitwisbare aantekening ‘ongeldig’ worden voorzien en dient aan de schipper te worden teruggegeven. Het ongeldig verklaarde vaartijdenboek moet gedurende zes maanden na de laatste aantekening aan boord worden bewaard.  
-
-### 2  
-
-####Aantekeningen in het vaartijdenboek
-
-De aantekeningen die de schipper in dit vaartijdenboek moet aanbrengen dienen te voldoen aan het Reglement onderzoek schepen op de Rijn. Aan artikel 23.01, derde lid, wordt geacht te zijn voldaan, wanneer de aantekeningen het tijdvak van 48 uur bestrijken dat onmiddellijk voorafgaat aan het binnenvaren van het toepassingsgebied van het Reglement onderzoek schepen op de Rijn. De functies van de bemanningsleden kunnen als volgt worden aangeduid:  
-
-| --- | --- |
-|:---|:---|
-| Cd-Sch  | = Conducteur-Schiffsführer-Schipper  |
-| Ti-St  | = Timonier-Steuermann-Stuurman  |
-| mMt-Bm-vMt  | = Maître-matelot-Bootsmann-Volmatroos  |
-| Mm  | = Matelot garde-moteur-Matrose-Motorwart-Matroos-motordrijver  |
-| Mt  | = Matelot-Matrose-Matroos  |
-| Hp-Dm  | = Homme de pont-Decksmann-Deksman  |
-| Ms-Sj  | = Mousse-Schiffsjunge-Scheepsjongen  |
-| Mc  | = Mecanicien-Maschinist-Machinist  |
-
-Op iedere bladzijde dient het volgende te worden aangetekend: 
-
-– de exploitatiewijze (aantekeningen in verband met een wijziging van exploitatiewijze dienen steeds op een nieuwe bladzijde te worden aangebracht)  
-
-– zodra het schip de vaart begint: 1e kolom- de datum (dag en maand) 2e kolom – de tijd (uur en minuten) 3e kolom – de plaats waar de vaart begint 4e kolom – de kilometerraai van die plaats  
-
-– zodra het schip de vaart onderbreekt: 1e kolom – de datum (dag en maand) indien deze afwijkt van de begindatum 5e kolom – de tijd (uur en minuten) 6e kolom – de plaats waar het schip stilligt 7e kolom – de kilometerraai van die plaats  
-
-– zodra het schip de vaart voortzet: dezelfde aantekeningen als bij het begin van de vaart  
-
-– zodra het schip de vaart beëindigt: dezelfde aantekeningen als bij een onderbreking van de vaart  
-
-– de 8e kolom moet worden ingevuld wanneer de bemanning voor de eerste keer aan boord komt en vervolgens telkens wanneer deze van samenstelling verandert  
-
-– in de kolommen 9 t/m 11 moet het begin en het einde van de rusttijd van elk bemanningslid worden aangetekend. Deze aantekeningen dienen uiterlijk om 08 uur de volgende ochtend te worden aangebracht. Ingeval de bemanningsleden hun rust nemen volgens een regelmatig rooster, kan per reis met één schema worden volstaan  
-
-– in de kolommen 12 en 13 moet bij wisseling van de bemanning telkens het tijdstip van aan boord komen of van boord gaan worden vermeld    
-
-####Sancties
-
-Overtreding van de bemanningsvoorschriften van het Reglement onderzoek schepen op de Rijn is strafbaar. Hetzelfde geldt voor het niet bijhouden, dan wel het niet volgens de voorschriften bijhouden van het vaartijdenboek. (Gevolgd door de van kracht zijnde tekst van hoofdstuk 23 van het Reglement onderzoek schepen op de Rijn in de drie talen.)   ![244655](http://wetten.overheid.nl/Illustration/244655)
+(Niet meer van toepassing) 
 
 ### Bijlage  F  
 
-####Model van het dienstboekje
-
-![244662](http://wetten.overheid.nl/Illustration/244662)
-![244662](http://wetten.overheid.nl/Illustration/244662)
-![244662](http://wetten.overheid.nl/Illustration/244662)
-![244662](http://wetten.overheid.nl/Illustration/244662)
-![244662](http://wetten.overheid.nl/Illustration/244662)
-![244662](http://wetten.overheid.nl/Illustration/244662)
-![244662](http://wetten.overheid.nl/Illustration/244662)
-![244662](http://wetten.overheid.nl/Illustration/244662)
-![244662](http://wetten.overheid.nl/Illustration/244662)
-![244662](http://wetten.overheid.nl/Illustration/244662)
-![244662](http://wetten.overheid.nl/Illustration/244662)
-![244662](http://wetten.overheid.nl/Illustration/244662)
-![244662](http://wetten.overheid.nl/Illustration/244662)
-![244662](http://wetten.overheid.nl/Illustration/244662)
-![244662](http://wetten.overheid.nl/Illustration/244662)
-![244662](http://wetten.overheid.nl/Illustration/244662)
-![244662](http://wetten.overheid.nl/Illustration/244662)
+(Niet meer van toepassing) 
 
 ### Bijlage  G  
 
@@ -5505,7 +5291,24 @@ Overtreding van de bemanningsvoorschriften van het Reglement onderzoek schepen o
 
 ####Uittreksel uit het Reglement betreffende het verlenen van Rijnschipperspatenten
 
-![244675](http://wetten.overheid.nl/Illustration/244675)
+####Bemanning
+
+Voor het vaststellen van de bemanning moeten zeeschepen: 
+
+1. hetzij Deel II van het [Reglement betreffende het Scheepvaartpersoneel op de Rijn](../../../../../../../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) (‘RSP’) toepassen  
+
+2. hetzij de bemanningsregeling toepassen overeenkomstig de bepalingen van Resolutie A.481 (XII) van de Internationale Maritieme Organisatie (IMO) en van het internationale verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst 1978, onder de voorwaarde dat het aantal bemanningsleden ten minste overeenkomt met de minimumbemanning, voorgeschreven in Deel II van het RSP volgens exploitatiewijze B, waarbij met name rekening dient te worden gehouden met de [artikelen 3.14](../../../../../../../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) en [3.18](../../../../../../../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md).   In dit geval moeten de betreffende bescheiden, waaruit de bekwaamheid van de bemanningsleden en hun aantal blijken, aan boord aanwezig zijn. Bovendien moet zich een persoon aan boord bevinden die houder is van het Grote Patent bedoeld in het RSP, dat geldig is voor het te bevaren riviergedeelte. Na een vaartijd van ten hoogste 14 uren per tijdvak van 24 uren moet deze houder van dit patent vervangen worden door een andere houder van dit patent. In het logboek moeten de volgende aantekeningen worden gemaakt: 
+
+– de namen van de houders van het Grote Patent die zich aan boord bevinden en het begin en einde van hun diensttijd;  
+
+– begin, onderbreking, voortzetting en einde van de vaart met telkens daarbij de vermelding van datum, tijdstip en plaats met aanduiding van de kilometerraai.   Dit certificaat is alleen geldig indien het schip is voorzien van geldige certificaten voor de zee- of kustvaart en ten hoogste tot ..........  
+
+| --- | --- |
+|:---|:---|
+| .......... ,  (Plaats)  | de ..........  (Datum)  |
+| Stempel  | ..........  Commissie van Deskundigen  |
+| --- | ..........  (Handtekening)  |
+
 ![244675](http://wetten.overheid.nl/Illustration/244675)
 
 ### Artikel  4  
@@ -5568,111 +5371,69 @@ c. de tijd, gemoeid met reparaties of overwintering, een en ander tot een totaal
 
 ### Bijlage  H  
 
-####Eisen inzake tachografen en voorschriften voor de inbouw van tachografen aan boord
+####Eisen betreffende tachografen en voorschriften voor de inbouw van tachografen aan boord in toepassing van artikel 3.10 van het onderhavige reglement
 
 ### A  
 
-####Eisen inzake tachografen
+####Eisen betreffende tachografen
 
-### 1  
+1. Bepaling van de vaartijd van het schip Om vast te kunnen stellen of het schip al dan niet in de vaart is, moet op een geschikte plaats het draaien van de schroef worden opgenomen. Wanneer de voortstuwing op een andere wijze dan met schroeven geschiedt, moet de voortbeweging van het schip op een gelijkwaardige manier worden opgenomen. Wanneer twee of meer schroefassen aanwezig zijn, moet zijn verzekerd dat ook bij het draaien van slechts één schroefas registratie plaatsvindt.  
 
-####Bepaling van de vaartijd van het schip
+2. Identificatie van het schip Het uniek Europees scheepsidentificatienummer of het officiële scheepsnummer moet onuitwisbaar op de gegevensdrager worden opgetekend en daarvan kunnen worden afgelezen.  
 
-Om vast te kunnen stellen of het schip al dan niet in de vaart is, moet op een geschikte plaats het draaien van de schroef worden opgenomen. Wanneer de voortstuwing op een andere wijze dan met schroeven geschiedt, moet de voortbeweging van het schip op een gelijkwaardige manier worden opgenomen.Wanneer twee of meer schroefassen aanwezig zijn, moet zijn verzekerd dat ook bij het draaien van slechts één schroefas registratie plaatsvindt.  
+3. Registratie op de gegevensdrager De exploitatiewijze van het schip, de datum en de tijd van het in bedrijf zijn en van de bedrijfsonderbreking van de tachograaf, de plaatsing en verwijdering van de gegevensdrager, alsmede andere handelingen aan het apparaat, moeten op de gegevensdrager worden geregistreerd op een zodanige wijze dat vervalsing is uitgesloten en deze gegevens kunnen worden afgelezen. De tijd, de plaatsing en verwijdering van de gegevensdrager, het openen en sluiten van het apparaat, alsmede de onderbreking van de stroomtoevoer, moeten door de tachograaf automatisch worden geregistreerd.  
 
-### 2  
+4. Duur van de registratie per dag Elke dag moeten tussen 00.00 en 24.00 uur de datum, het draaien van de schroef, alsmede het tijdstip van het begin en einde van de schroefomwentelingen zonder onderbreking worden geregistreerd.  
 
-####Identificatie van het schip
+5. Het aflezen van de geregistreerde gegevens De gegevens moeten ondubbelzinnig, gemakkelijk leesbaar en goed begrijpelijk zijn geregistreerd. Het moet te allen tijde mogelijk zijn, de geregistreerde gegevens zonder bijzondere hulpmiddelen af te lezen.  
 
-Het uniek Europees scheepsidentificatienummer of officiële scheepsnummer moet onuitwisbaar op de gegevensdrager worden opgetekend en daarvan kunnen worden afgelezen.  
+6. Aantekening van de geregistreerde gegevens De geregistreerde gegevens moeten te allen tijde schriftelijk in de vorm van een overzichtelijke uitdraai ter beschikking kunnen worden gesteld.  
 
-### 3  
+7. Betrouwbaarheid van de registratie Het draaien van de schroef moet op zodanige wijze worden geregistreerd dat vervalsing is uitgesloten.  
 
-####Registratie op de gegevensdrager
+8. Nauwkeurigheid van de registratie Het draaien van de schroef moet nauwkeurig in functie van de tijd worden geregistreerd. De geregistreerde gegevens moeten met een nauwkeurigheid van 5 minuten kunnen worden afgelezen.  
 
-De toegepaste exploitatiewijze van het schip, de datum en de tijd van het in bedrijf zijn en van de bedrijfsonderbreking van de tachograaf, het plaatsen en het uitnemen van de gegevensdrager, alsmede andere handelingen aan het apparaat, moeten op de gegevensdrager worden geregistreerd op een zodanige wijze dat vervalsing is uitgesloten en dat deze gegevens kunnen worden afgelezen. De tijd, het plaatsen en het uitnemen van de gegevensdrager, het openen en het sluiten van het apparaat, alsmede de onderbreking van de energietoevoer, moeten door de tachograaf automatisch worden geregistreerd.  
+9. Bedrijfsspanning Schommelingen van de bedrijfsspanning tot ± 10% van de nominale spanning mogen de goede werking van de apparatuur niet beïnvloeden. Bovendien moet de installatie bestand zijn tegen een verhoging van de voedingsspanning van 25% boven de nominale spanning, zonder dat de bedrijfszekerheid wordt beïnvloed.  
 
-### 4  
+10. Bedrijfsvoorwaarden De apparaten of onderdelen daarvan moeten onder de volgende voorwaarden bedrijfszeker werken:  
 
-####Duur van de registratie per dag
-
-Elke dag moeten tussen 00.00 en 24.00 uur de datum, het draaien van de schroef, alsmede het tijdstip van het begin en het einde daarvan zonder onderbreking worden geregistreerd.  
-
-### 5  
-
-####Het aflezen van de geregistreerde gegevens
-
-De gegevens moeten ondubbelzinnig, gemakkelijk leesbaar en goed begrijpelijk zijn geregistreerd. Het moet te allen tijde mogelijk zijn om zonder gebruik te maken van bijzondere hulpmiddelen de geregistreerde gegevens af te lezen.  
-
-### 6  
-
-####Aantekening van de geregistreerde gegevens
-
-De geregistreerde gegevens moeten te allen tijde op overzichtelijke wijze aangetekend ter beschikking kunnen worden gesteld.  
-
-### 7  
-
-####Betrouwbaarheid van de registratie
-
-Het draaien van de schroef moet op zodanige wijze worden geregistreerd dat vervalsing is uitgesloten.  
-
-### 8  
-
-####Nauwkeurigheid van de registratie
-
-Het draaien van de schroef moet nauwkeurig tijd-afhankelijk worden geregistreerd. Het aflezen van de registratie moet met een nauwkeurigheid van 5 minuten mogelijk zijn.  
-
-### 9  
-
-####Bedrijfsspanningen
-
-Schommelingen van de bedrijfsspanning tot ± 10% van de nominale spanning mogen de goede werking van de apparatuur niet beïnvloeden. Bovendien moet de installatie bestand zijn tegen een verhoging van de voedingsspanning van 25% boven de nominale spanning gedurende ten minste 5 minuten, zonder dat de bedrijfszekerheid wordt beïnvloed.  
-
-### 10  
-
-####Bedrijfsvoorwaarden
-
-De apparaten of de onderdelen daarvan moeten onder de volgende voorwaarden bedrijfszeker werken: 
-
-– omgevingstemperatuur: 0 °C tot + 40 °C;  
-
-– vochtigheid: tot 85% relatieve vochtigheid van de omgevingslucht;  
-
-– elektrische beschermingsgraad: IP54 volgens IEC-publikatie 529;  
-
-– oliebestendigheid: voor zover de apparaten of onderdelen daarvan bestemd zijn om in machinekamers te kunnen worden geplaatst, moeten deze oliebestendig zijn;  
-
-– toelaatbare toleranties van de tijdregistratie: ± 2 minuten per 24 uur.    
+| --- | --- |
+|:---|:---|
+| – omgevingstemperatuur:  | 0°C tot + 40 °C;  |
+| – vochtigheid:  | tot 85% relatieve vochtigheid van de omgevingslucht;  |
+| – elektrische beschermingsgraad:  | IP54 volgens IEC-Aanbeveling 529;  |
+| – oliebestendigheid:  | voor zover de apparaten of onderdelen daarvan bestemd zijn om in machinekamers te kunnen worden geplaatst, moeten deze oliebestendig zijn;  |
+| – toelaatbare toleranties van de tijdregistratie:  | ± 2 minuten per 24 uur.  |
 
 ### B  
 
-####Voorschriften voor de inbouw van tachografen aan boord
+####Voorschriften met betrekking tot de inbouw van tachografen aan boord
 
-Bij het installeren van tachografen aan boord moeten de volgende bepalingen in acht worden genomen. 
+Bij de installatie van tachografen aan boord moet aan de volgende voorwaarden worden voldaan: 
 
 1. Tachografen mogen slechts worden geïnstalleerd door een gespecialiseerd bedrijf dat door de bevoegde autoriteit is erkend.  
 
 2. De tachograaf moet in het stuurhuis of op een andere goed toegankelijke plaats zijn geïnstalleerd.  
 
-3. Het moet zichtbaar zijn of het apparaat in bedrijf is. Het apparaat moet permanent door elektrische energie worden gevoed door middel van een stroomkring die tegen uitvallen beschermd is en voorzien is van een eigen beveiliging, en het moet rechtstreeks aan de stroombron zijn aangesloten.  
+3. Het moet zichtbaar zijn of het apparaat in bedrijf is. Het apparaat moet permanent van stroom worden voorzien door middel van een elektrische stroomkring die tegen uitvallen beschermd is en voorzien is van een eigen beveiliging door zekeringen, en het moet rechtstreeks aan de stroombron zijn aangesloten.  
 
-4. De mededeling over de beweging van het schip, dat wil zeggen of het al dan niet vaart, wordt afgeleid uit de beweging van de voortstuwingsinstallatie. Het bijbehorende signaal moet worden afgeleid uit het draaien van de schroef, de schroefas of de voortstuwingsmotor. Bij andere soorten voortstuwing moet een gelijkwaardige oplossing worden gevonden.  
+4. De informatie over de beweging van het schip, dat wil zeggen of het al dan niet ‘vaart’, wordt afgeleid uit de beweging van de voortstuwingsinstallatie. Het bijbehorende signaal moet worden afgeleid uit het draaien van de schroef, de schroefas of de aandrijvingsmotor. Bij andere soorten aandrijving moet een gelijkwaardige oplossing worden gevonden.  
 
-5. De technische voorzieningen voor de registratie van de beweging van het schip moeten uiterst bedrijfszeker worden aangebracht en worden beveiligd tegen onrechtmatig ingrijpen. Hiertoe moet de leiding voor de overbrenging van de signalen van de voortstuwingsinstallatie naar het apparaat (inclusief de signaalgever en de ingang in het apparaat) door passende maatregelen worden beveiligd en moet onderbreking van de leiding worden gesignaleerd. Hiertoe zijn bijvoorbeeld loodjes of zegels, voorzien van speciale merktekens, alsmede in het zicht aangelegde leidingen en gesignaleerde stroomkringen geschikt.  
+5. De technische voorzieningen voor de registratie van de beweging van het schip moeten uiterst bedrijfszeker worden aangebracht en worden beveiligd tegen onrechtmatige manipulaties. Hiertoe moet de leiding voor de overbrenging van de signalen van de voortstuwingsinstallatie naar het apparaat (inclusief de signaalgever en de ingang in het apparaat) door passende maatregelen worden beveiligd en moet onderbreking van de leiding worden gesignaleerd. Hiertoe zijn bijvoorbeeld loodjes of zegels, voorzien van speciale merktekens, alsmede in het zicht aangelegde leidingen en gesignaleerde stroomkringen voor de controle geschikt.  
 
-6. Het gespecialiseerde bedrijf dat de installatie heeft aangebracht of onder toezicht waarvan de installatie is aangebracht, onderzoekt na voltooiing van de installatie het geheel op de goede werking. Dit bedrijf geeft een verklaring af waarop de bijzondere kenmerken van de installatie zijn vermeld (in het bijzonder de plaats en de soort van de loodjes of de zegels alsmede de bijbehorende tekens en de controle-inrichtingen) en waaruit de goede werking van de installatie blijkt. Deze verklaring moet tevens de gegevens van het goedgekeurde apparaat bevatten. Na elke vernieuwing, wijziging of reparatie is een nieuw onderzoek noodzakelijk, waarvan in de verklaring aantekening moet worden gemaakt. De verklaring moet tenminste de volgende gegevens bevatten: 
+6. Het gespecialiseerde bedrijf dat de installatie heeft aangebracht of gesuperviseerd, controleert na voltooiing of de installatie naar behoren werkt. Dit bedrijf geeft een verklaring af waarop de bijzondere kenmerken van de installatie zijn vermeld (in het bijzonder de plaats en het soort loodjes of zegels alsmede de bijbehorende tekens en controle-inrichtingen) en waaruit de goede werking van de installatie blijkt. Deze verklaring moet tevens informatie over het type van het goedgekeurde apparaat bevatten. Na elke vervanging, wijziging of reparatie moet opnieuw worden gecontroleerd of het toestel naar behoren werkt; deze test moet in de verklaring worden vermeld. De verklaring moet ten minste de volgende gegevens bevatten: 
 
-– naam, adres en merkteken van het erkende bedrijf dat de installatie heeft aangebracht of onder toezicht waarvan de installatie is aangebracht,  
+– naam, adres en logo van het erkende bedrijf dat de installatie heeft aangebracht of de montage heeft gesuperviseerd,  
 
-– naam, adres en telefoonnummers van de bevoegde autoriteit die dit bedrijf heeft erkend,  
+– naam, adres en telefoonnummer van de bevoegde autoriteit die dit bedrijf heeft erkend,  
 
-– uniek Europees scheepsidentificatienummer of het officiële scheepsnummer,  
+– het officiële scheepsnummer,  
 
 – type en serienummer van de tachograaf,  
 
-– datum van het onderzoek.   De geldigheidsduur van de verklaring bedraagt 5 jaren. De verklaring dient om aan te tonen dat het om een goedgekeurd apparaat gaat, dat door een erkend bedrijf is geïnstalleerd en op de goede werking ervan is onderzocht.  
+– datum waarop de werking is getest.   De verklaring is vijf jaar geldig. De verklaring dient om aan te tonen dat het om een goedgekeurd apparaat gaat, dat door een erkend bedrijf is geïnstalleerd en op de goede werking ervan is onderzocht.  
 
-7. Het erkende bedrijf moet de scheepsleiding instrueren omtrent het gebruik van het apparaat en moet een gebruiksaanwijzing afgeven die aan boord bewaard moet blijven. Dit moet in de verklaring met betrekking tot de installatie worden aangetekend.    
+7.  *Het erkende bedrijf moet de schipper instrueren omtrent het gebruik van het apparaat en een gebruiksaanwijzing verstrekken die aan boord bewaard moet worden. Dit moet in de verklaring met betrekking tot de installatie worden vermeld.*     
 
 ### Bijlage  I  
 
@@ -5690,33 +5451,7 @@ De gebruikte pictogrammen mogen enigszins variëren of meer gedetailleerd zijn d
 
 ### Bijlage  K  
 
-#### *(model)* 
-
-####Verklaring voor het aantonen van de vereiste rusttijd, bedoeld in artikel 23.07, tweede tot en met zesde lid 
-
-(geldt alleen tezamen met het dienstboekje, onderscheidenlijk met het grote patent bedoeld in bijlage 1, onderscheidenlijk het voorlopige grote patent, bedoeld in bijlage 2 van het [Reglement Rijnpatenten 1998](../../../../../../../../../KB/reglement/rijnpatenten/1998/BWBR0008934/README.md)) Naam: Nummer van het dienstboekje, onderscheidenlijk van het patent:  
-
-| Scheepsnaam, uniek Europees scheepsidentificatienummer of officieel scheepsnummer  | Einde van de reis  | Einde van de reis  | Exploitatiewijze voor het einde van de reis  | Laatste rusttijd voor het einde van de reis  | Handtekening van de schipper  |
-|:---|:---|:---|:---|:---|:---|
-| --- | Datum  | Tijdstip  | --- | Begin  | Einde  | --- |
-| --- | E  | E1  | E2  | E3  | E4  | --- |
-| 1  | 2  | 3  | 4  | 5  | 6  | 7  |
-| --- |
-| --- |
-| --- |
-| --- |
-| --- |
-| --- |
-
-De verklaring is onderdeel van het vaartijdenboek op het schip waarop het bemanningslid zijn reis nieuw aanvangt en daarmee een document als bedoeld in [artikel 1.10 van het Rijnvaartpolitiereglement](../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md). Het maken van onjuiste aantekeningen of aantekeningen die niet aan de voorschriften voldoen kan strafbaar zijn; het gaat daarbij ten minste om overtredingen. Verantwoordelijk voor aantekeningen in de verklaring is de schipper van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden. 
-
-####Aanwijzing voor het bijhouden van de verklaring
-
-1. De verklaring moet bij elke wisseling van schip door de schipper van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden, worden ingevuld.  
-
-2. De verklaring moet aan de schipper van het schip waarop de nieuwe reis wordt aangevangen, worden overgelegd.  
-
-3. De aantekeningen in de verklaring moeten met het dienstboekje en het vaartijdenboek van het schip, waarop de laatste reis van het bemanningslid heeft plaatsgevonden, overeenstemmen.    
+(Niet meer van toepassing) 
 
 ### Bijlage  L  
 

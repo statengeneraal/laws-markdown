@@ -117,7 +117,7 @@ a. een omschrijving van de aard van het bedrijf waaruit onder meer moet blijken 
 b. het adres en de kadastrale aanduiding van de plaats waar de inrichting wordt gevestigd; en  
 
 c. een omschrijving van de administratie en de administratieve organisatie, alsmede het adres waar de administratie wordt gehouden.     
-2.  Indien toepassing van [artikel 2, zesde lid, van het besluit](../../../../../../../AMvB/uitvoeringsbesluit/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005804/README.md) wordt gewenst, wordt dit in het verzoek als bedoeld in het eerste lid opgenomen.   
+2.  Indien toepassing van [artikel 2, zesde lid, van het besluit](../../../../../../../AMvB/uitvoeringsbesluit/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005804/README.md) wordt gewenst, wordt dit in het verzoek, bedoeld in het eerste lid, opgenomen.   
 
 ### Afdeling  2  
 
@@ -181,7 +181,7 @@ e. de administratie en de administratieve organisatie met betrekking tot het bed
 
 ### Artikel  16  
 
-1.  De verklaring als bedoeld in [artikel 15 van het besluit](../../../../../../../AMvB/uitvoeringsbesluit/accijns/BWBR0005360/README.md) bevat de volgende gegevens: 
+1.  De verklaring, bedoeld in [artikel 15 van het besluit](../../../../../../../AMvB/uitvoeringsbesluit/accijns/BWBR0005360/README.md), bevat de volgende gegevens: 
 
 a. een uniek identificeerbaar nummer;  
 
@@ -208,7 +208,7 @@ k. in geval van levering uit een schip, de naam en het registratienummer van het
 
 ### Artikel  17  
 
-1.  De verklaring als bedoeld in [artikel 16 van het besluit](../../../../../../../AMvB/uitvoeringsbesluit/accijns/BWBR0005360/README.md) bevat de volgende gegevens: 
+1.  De verklaring, bedoeld in [artikel 16 van het besluit](../../../../../../../AMvB/uitvoeringsbesluit/accijns/BWBR0005360/README.md), bevat de volgende gegevens: 
 
 a. een uniek identificeerbaar nummer;  
 
@@ -239,21 +239,21 @@ a. de soort en de hoeveelheid van de goederen;
 
 b. het tijdstip van de overbrenging van de goederen;  
 
-c. het tijdstip van de overbrenging van de na afloop van het onderzoek, de controle of de smaaktest resterende goederen alsmede de plaats waar de goederen naar worden overgebracht. In de administratie worden ingeval van overbrenging naar een andere inrichting dan die van de in de aanhef bedoelde vergunninghouder de naam, het adres en Let vergunningnummer van de vergunninghouder van die andere inrichting vermeld.     
+c. het tijdstip van de overbrenging van de na afloop van het onderzoek, de controle of de smaaktest resterende goederen alsmede de plaats waar de goederen naar worden overgebracht. In de administratie worden ingeval van overbrenging naar een andere inrichting dan die van de in de aanhef bedoelde vergunninghouder de naam, het adres en het vergunningnummer van de vergunninghouder van die andere inrichting vermeld.     
 2.  Bij de in het eerste lid bedoelde administratie bewaart degene die de alcoholvrije dranken, pruimtabak of snuiftabak met vrijstelling uitslaat dan wel invoert: 
 
 a. een afschrift van het ingevolge [artikel 17, tweede lid, van het besluit](../../../../../../../AMvB/uitvoeringsbesluit/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005804/README.md) gedane verzoek en van de daarbij overgelegde schriftelijke opdracht voor de onderzoeken, controles of smaaktesten;  
 
-b. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken, pruimtabak of snuiftabak worden overgebracht naar een derde land: een afschrift van de ingevolge de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), gedane aangifte ten uitvoer waaruit blijkt dat de goederen hun bestemming hebben bereikt;  
+b. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken, pruimtabak of snuiftabak worden overgebracht naar een derde land: elektronische of geprinte exemplaren van het uitvoergeleidedocument of de aangifte ten uitvoer alsmede van de bevestiging van uitgang, welke documenten zijn vereist op grond van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../../../../wet/algemene/douanewet/BWBR0023746/README.md);  
 
 c. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken, pruimtabak of snuiftabak worden overgebracht naar een andere lid-staat: een afschrift van het bescheid als bedoeld in artikel 4.  
 
 d. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken, pruimtabak of snuiftabak worden vernietigd onder ambtelijk toezicht een afschrift van de ter zake opgemaakte ambtelijke verklaring.     
-3.  Degene die de alcoholvrije dranken, pruimtabak of snuiftabak met vrijstelling invoert bewaart bij de in het eerste lid bedoelde administratie tevens een afschrift van de voor de desbetreffende goederen ingevolge de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), gedane en ambtelijk afgetekende aangifte voor het vrije verkeer.   
+3.  Degene die de alcoholvrije dranken, pruimtabak of snuiftabak met vrijstelling invoert bewaart bij de in het eerste lid bedoelde administratie tevens een afschrift van de voor de desbetreffende goederen ingevolge de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), gedane aangifte voor het vrije verkeer.   
 
 ### Artikel  19  
 
-1.  Vrijstelling van belasting ter zake van de uitslag van alcoholvrije dranken, pruimtabak en snuiftabak uit een inrichting wordt verleend in gevallen waarin bij invoer deze goederen met toepassing van de [artikelen 7:8](../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md), [7:9](../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md) en [7:11 van de Algemene douaneregeling](../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md) met vrijstelling van rechten bij invoer zouden kunnen worden betrokken.   
+1.  Vrijstelling van belasting ter zake van de uitslag van alcoholvrije dranken, pruimtabak en snuiftabak uit een inrichting wordt verleend in gevallen waarin bij invoer deze goederen met toepassing van de [artikelen 7:8](../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md), [7:9](../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md) of [7:11 van de Algemene douaneregeling](../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md) met vrijstelling van rechten bij invoer zouden kunnen worden betrokken.   
 2.  Vóór de uitslag dient een vergunning van de inspecteur te zijn verkregen. De vergunninghouder van de inrichting dient daartoe een verzoek in bij de inspecteur.   
 3.  De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking   
 
@@ -270,7 +270,7 @@ de in [artikel 28 van de wet](../../../../../../../wet/wet/op/de/accijns/BWBR000
 de alcoholvrije dranken, pruimtabak of snuiftabak zijn gebruikt overeenkomstig de in de [artikel 29, eerste lid, van de wet](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) bedoelde bestemming;  
 
 de alcoholvrije dranken, pruimtabak of snuiftabak de in [artikel 30 van de wet](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) bedoelde bestemming hebben gevolgd.     
-2.  De verklaring als bedoeld in [artikel 19 van het besluit](../../../../../../../AMvB/uitvoeringsbesluit/accijns/BWBR0005360/README.md) bevat in het geval van levering aan een schip de volgende gegevens: 
+2.  De verklaring, bedoeld in [artikel 19 van het besluit](../../../../../../../AMvB/uitvoeringsbesluit/accijns/BWBR0005360/README.md), bevat in het geval van levering aan een schip de volgende gegevens: 
 
 a. een uniek identificeerbaar nummer;  
 
@@ -282,7 +282,7 @@ d. de naam van het schip en het registratienummer;
 
 e. de plaats van levering;  
 
-f. het reisdoel van het schip.  
+f. het reisdoel van het schip;  
 
 g. de soort en de hoeveelheid van de goederen die zijn geleverd;  
 
@@ -291,7 +291,7 @@ h. de datum van levering;
 i. de naam en handtekening van de eigenaar of exploitant van het schip of zijn vertegenwoordiger aan boord van het schip;  
 
 j. in geval van levering uit een schip, de naam en het registratienummer van het schip van waaruit is geleverd.     
-3.  De verklaring als bedoeld in [artikel 19 van het besluit](../../../../../../../AMvB/uitvoeringsbesluit/accijns/BWBR0005360/README.md) bevat in het geval van levering aan een luchtvaartuig de volgende gegevens: 
+3.  De verklaring, bedoeld in [artikel 19 van het besluit](../../../../../../../AMvB/uitvoeringsbesluit/accijns/BWBR0005360/README.md), bevat in het geval van levering aan een luchtvaartuig de volgende gegevens: 
 
 a. een uniek identificeerbaar nummer;  
 
@@ -310,7 +310,7 @@ g. de soort en de hoeveelheid van de goederen die zijn geleverd;
 h. de datum van levering;  
 
 i. de naam en handtekening van de eigenaar of exploitant van het luchtvaartuig of zijn vertegenwoordiger aan boord van het luchtvaartuig.     
-4.  De verklaring als bedoeld in het tweede en derde lid wordt in het Nederlands of in het Engels opgesteld.   
+4.  De verklaring, bedoeld in het tweede en derde lid, wordt in het Nederlands of in het Engels opgesteld.   
 
 ### Artikel  21  
 
@@ -353,13 +353,13 @@ b. de algemeen directeur, bedoeld in [artikel 4, derde lid, van de Uitvoeringsre
 
 ### Artikel  25  
 
-1.  De belastingzegels worden verkrijgbaar gesteld bij de G4S Value Services BV.   
-2.  De belastingzegels worden door de G4S Value Services BV rechtstreeks aan de aanvrager gezonden, tenzij uit de aanvraag blijkt dat zij door de aanvrager of diens gemachtigde in ontvangst zullen worden genomen bij de G4S Value Services BV.   
+1.  De belastingzegels worden verkrijgbaar gesteld bij G4S Value Services BV.   
+2.  De belastingzegels worden door G4S Value Services BV rechtstreeks aan de aanvrager gezonden, tenzij uit de aanvraag blijkt dat zij door de aanvrager of diens gemachtigde in ontvangst zullen worden genomen bij G4S Value Services BV.   
 
 ### Artikel  26  
 
 1.  De belastingzegels worden verkrijgbaar gesteld in hoeveelheden van één of meer vellen.   
-2.  Van de in artikel 27 vermelde linten sluitzegels zijn twee vellen met een verschillend aantal zegels verkrijgbaar. Het aantal zegels per vel wordt vastgesteld door de G4S Value Services BV na overleg met de desbetreffende organisaties van de tabaksbranche.   
+2.  Van de in artikel 27 vermelde lint- en sluitzegels zijn twee vellen met een verschillend aantal zegels verkrijgbaar. Het aantal zegels per vel wordt vastgesteld door G4S Value Services BV na overleg met de desbetreffende organisaties van de tabaksbranche.   
 
 ### Artikel  27  
 
@@ -368,8 +368,8 @@ b. de algemeen directeur, bedoeld in [artikel 4, derde lid, van de Uitvoeringsre
 
 ### Artikel  28  
 
-1.  Lintzegels bestemd om te worden aangebracht op verpakkingen bevatten vier vakken met rechte hoeken. De twee vakken in het midden zijn bestemd voor de vermelding van de nettomassa en de soort van het tabaksprodukt, van de kleinhandelsprijs en van de naam van degene die de accijnszegels heeft aangevraagd, welke naam in het rechter middenvak wordt vermeld. De in artikel 28a bedoelde aanduidingen worden opgenomen in de twee opengebleven vakken onder vermelding van het in dat artikel bedoelde besluit.   
-2.  De sluitzegels bevatten geen open vakken. De nettomassa en de soort van het tabaksprodukt, alsmede de kleinhandelsprijs worden over het beeld van de zegels heen gedrukt links van de zegelbeeld. De naam van degene die de accijnszegels heeft aangevraagd, wordt opgenomen rechts van het zegelbeeld. De in artikel 28a bedoelde aanduidingen worden opgenomen boven en onder het zegelbeeld onder vermelding van het in dat artikel bedoelde besluit.   
+1.  Lintzegels bestemd om te worden aangebracht op verpakkingen bevatten vier vakken met rechte hoeken. De twee vakken in het midden zijn bestemd voor de vermelding van de nettomassa en de soort van het tabaksprodukt, van de kleinhandelsprijs en van de naam van degene die de belastingzegels heeft aangevraagd, welke naam in het rechter middenvak wordt vermeld. De in artikel 28a bedoelde aanduidingen worden opgenomen in de twee opengebleven vakken onder vermelding van het in dat artikel bedoelde besluit.   
+2.  De sluitzegels bevatten geen open vakken. De nettomassa en de soort van het tabaksprodukt, alsmede de kleinhandelsprijs worden over het beeld van de zegels heen gedrukt links van de zegelbeeld. De naam van degene die de belastingzegels heeft aangevraagd, wordt opgenomen rechts van het zegelbeeld. De in artikel 28a bedoelde aanduidingen worden opgenomen boven en onder het zegelbeeld onder vermelding van het in dat artikel bedoelde besluit.   
 
 ### Artikel  28a  
 
@@ -405,7 +405,7 @@ Het voor herhaald gebruik ongeschikt maken van een belastingzegel dient te gesch
 
 1.  De verpakking van pruimtabak of snuiftabak moet de inhoud geheel omgeven en zonder beschadiging niet anders kunnen worden geopend dan op één of ten hoogste twee daarvoor bestemde en duidelijk herkenbare plaatsen. Het materiaal van de verpakking op de plaats waar de belastingzegel wordt bevestigd, dient zodanig te zijn dat een duurzame bevestiging wordt verkregen.   
 2.  Op de verpakking moeten de soort en de hoeveelheid van de pruimtabak of de snuiftabak worden vermeld, het merk waaronder de pruimtabak of de snuiftabak in de handel wordt gebracht en, ter keuze van degene die de belastingzegels heeft aangevraagd, zijn naam dan wel het fabrieks- of handelsmerk of het nummer als bedoeld in artikel 29, eerste lid.   
-3.  De verpakking mag geen andere voorwerpen bevatten dan pruimtabak of snuiftabak. Evenmin mag de verpakking zodanig van aard en vorm zijn, dat daarmee tevens een later gebruik voor andere doeleinden wordt beoogd.   
+3.  De verpakking bevat uitsluitend pruimtabak of snuiftabak en is zodanig van aard en vorm dat daarmee geen later gebruik voor andere doeleinden wordt beoogd.   
 
 ### Artikel  35  
 
@@ -423,7 +423,7 @@ Pruimtabak en snuiftabak, die binnen Nederland worden gebracht in verpakkingen w
 ### Artikel  38  
 
 1.  Op verzoek van degene die de belastingzegels heeft aangevraagd, worden belastingzegels die zijn beschadigd of reeds zijn aangebracht op de verpakkingen die de inrichting nog niet hebben verlaten onder ambtelijk toezicht vernietigd.   
-2.  Het eerste lid is ook van toepassing op pruimtabak of snuiftabak die is uitgeslagen uit de inrichting of binnen Nederland is gebracht indien de pruimtabak of snuiftabak door degene die de accijnszegels heeft aangevraagd, is teruggenomen.   
+2.  Het eerste lid is ook van toepassing op pruimtabak of snuiftabak die is uitgeslagen uit de inrichting of binnen Nederland is gebracht indien de pruimtabak of snuiftabak door degene die de belastingzegels heeft aangevraagd, is teruggenomen.   
 
 ### Artikel  39  
 

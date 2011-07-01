@@ -15,7 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  2  
 
-De bedragen die verschuldigd zijn op grond van [artikel 85, eerste lid, van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 64, eerste lid, van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md) worden zodanig berekend dat daarmee de kosten die zijn verbonden aan de desbetreffende werkzaamheden, worden gedekt.  
+1.  De bedragen die verschuldigd zijn op grond van [artikel 85, eerste lid, van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 64, eerste lid, van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md) zijn vaste bedragen.   
+2.  De bedragen, bedoeld in het eerste lid, kunnen verschillen voor de verschillende in [artikel 85, eerste lid, van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 64, eerste lid, van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md) bedoelde beschikkingen.   
+3.  De bedragen, bedoeld in het eerste lid, worden bij ministeriële regeling vastgesteld.   
+4.  Onze Minister brengt de bedragen, bedoeld in het eerste lid, in rekening en verzendt een beschikking daartoe tegelijk met de bekendmaking van de betreffende in [artikel 85, eerste lid, van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 64, eerste lid, van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md) bedoelde beschikking.   
+5.  In afwijking van het vierde lid brengt de raad van bestuur van de mededingingsautoriteit de bedragen in rekening, voor zover zij namens Onze Minister beschikkingen neemt als bedoeld in [artikel 85, eerste lid, van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 64, eerste lid, van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md).   
 
 ### Artikel  3  
 
@@ -25,9 +29,13 @@ De bedragen die verschuldigd zijn op grond van [artikel 85, eerste lid, van de E
 
 ### Artikel  4  
 
-1.  Onze Minister stelt vóór 15 april van ieder jaar de bedragen, bedoeld in de artikelen 2 en 3, vast op basis van de werkelijk gemaakte kosten in het voorgaande jaar.   
-2.  De raad van bestuur van de mededingingsautoriteit zendt binnen zeven weken na inwerkingtreding van het besluit tot vaststelling van de bedragen aan degene die een bedrag als bedoeld in de artikelen 2 en 3 verschuldigd is, een rekening.   
-3.  De bedragen worden betaald aan het Ministerie van Economische Zaken. De raad van bestuur van de mededingingsautoriteit int de bedragen.   
+1.  Onze Minister stelt vóór 15 april van ieder jaar de bedragen, bedoeld in artikel 3, vast op basis van de werkelijk gemaakte kosten in het voorgaande jaar.   
+2.  De raad van bestuur van de mededingingsautoriteit brengt de bedragen, bedoeld in artikel 3, in rekening en verzendt de beschikkingen daartoe binnen zeven weken na inwerkingtreding van het besluit tot vaststelling van de bedragen.   
+
+### Artikel  5  
+
+1.  De bedragen, bedoeld in de artikelen 2 en 3, die worden gefactureerd door Onze Minister, worden door Onze Minister geïnd en aan Onze Minister betaald.   
+2.  De bedragen, bedoeld in de artikelen 2 en 3, die worden gefactureerd door de raad van bestuur van de mededingingsautoriteit, worden door de raad geïnd en aan de raad betaald. De raad draagt deze bedragen af aan Onze Minister.   
 
 ### Artikel  9  
 

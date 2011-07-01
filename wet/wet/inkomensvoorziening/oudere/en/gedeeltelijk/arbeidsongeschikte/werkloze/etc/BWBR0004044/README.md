@@ -123,27 +123,27 @@ c. de alleenstaande werkloze werknemer en de thuisinwonende werkloze werknemer z
 2.  Het recht op uitkering komt de werkloze werknemer en de echtgenoot gezamenlijk toe. De uitkering wordt aan de werkloze werknemer en de echtgenoot ieder voor de helft uitbetaald, dan wel op hun gezamenlijk verzoek aan een van hen voor het geheel.   
 3.  De grondslag, bedoeld in het eerste lid, wordt door Onze Minister zodanig vastgesteld dat: 
 
-a. voor de werkloze werknemer en de echtgenoot die beiden 21 jaar of ouder zijn, de helft van de grondslag netto gelijk is aan € 656,93;  
+a. voor de werkloze werknemer en de echtgenoot die beiden 21 jaar of ouder zijn, de helft van de grondslag netto gelijk is aan € 659,93;  
 
 b. deze voor de werkloze werknemer en de echtgenoot, waarvan een of elk van beiden jonger dan 21 jaar is, de som bedraagt van de grondslagen die voor elk van hen als een alleenstaande werknemer of een thuisinwonende werkloze werknemer zou gelden doch ten hoogste de grondslag als bedoeld in onderdeel *a*.     
 4.  De grondslag, bedoeld in het eerste lid, wordt door Onze Minister zodanig vastgesteld dat deze: 
 
-a. voor de alleenstaande werkloze werknemer van 21 jaar of ouder met een of meer kinderen netto gelijk is aan € 1.182,47;  
+a. voor de alleenstaande werkloze werknemer van 21 jaar of ouder met een of meer kinderen netto gelijk is aan € 1.187,87;  
 
-b. voor de alleenstaande werkloze werknemer van 23 jaar of ouder zonder kinderen netto gelijk is aan € 919,70;  
+b. voor de alleenstaande werkloze werknemer van 23 jaar of ouder zonder kinderen netto gelijk is aan € 923,90;  
 
-c. voor de alleenstaande werkloze werknemer van 22 jaar zonder kinderen netto gelijk is aan € 756,34;  
+c. voor de alleenstaande werkloze werknemer van 22 jaar zonder kinderen netto gelijk is aan € 761,50;  
 
-d. voor de alleenstaande werkloze werknemer van 21 jaar zonder kinderen netto gelijk is aan € 663,36.     
+d. voor de alleenstaande werkloze werknemer van 21 jaar zonder kinderen netto gelijk is aan € 667,43.     
 5.  De grondslag, bedoeld in het eerste lid, wordt door Onze Minister zodanig vastgesteld dat deze: 
 
-a. voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar met een of meer kinderen netto gelijk is aan € 1.148,84;  
+a. voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar met een of meer kinderen netto gelijk is aan € 1.156,11;  
 
-b. voor de thuisinwonende werkloze werknemer van 18, 19 of 20 jaar met een of meer kinderen netto gelijk is aan € 861,30;  
+b. voor de thuisinwonende werkloze werknemer van 18, 19 of 20 jaar met een of meer kinderen netto gelijk is aan € 866,79;  
 
-c. voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar zonder kinderen netto gelijk is aan € 638,24;  
+c. voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar zonder kinderen netto gelijk is aan € 624,28;  
 
-d. voor de thuisinwonende werkloze werknemer zonder kinderen netto gelijk is aan € 350,70.     
+d. voor de thuisinwonende werkloze werknemer zonder kinderen netto gelijk is aan € 352,96.     
 6.  Indien dat lager is dan de grondslag, vastgesteld op grond van het derde tot en met vijfde lid, bedraagt de grondslag, bedoeld in het eerste lid, 10/7 x A + B, waarbij: A staat voor de uitkeringen ontvangen op grond van de [Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) en de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) in de kalendermaand voorafgaande aan de dag waarop de geldende uitkeringsduur op grond van de Werkloosheidswet of de geldende uitkeringsduur van de loongerelateerde werkhervattingsuitkering gedeeltelijk arbeidsgeschikten als bedoeld in [hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) is verstreken; B staat voor het loon uit dienstbetrekking dat de uitkeringsgerechtigde in die kalendermaand verdiende, waarbij A wordt herzien op de wijze als bedoeld in [artikel 14 van de Wet minimumloon en minimumvakantiebijslag](../../../../../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md).   
 7.  Voor de toepassing van het zesde lid wordt onder uitkering op grond van de [Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) tevens verstaan inkomen dat op grond van [artikel 34 van de Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) geheel in mindering is gebracht op de uitkering op grond van de [Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md).   
 8.  Voor de toepassing van het zesde lid worden de uitkeringen op grond van de [Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en de [Ziektewet](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) vermenigvuldigd met 21,75 en vervolgens gedeeld door het aantal werkdagen in die betreffende kalendermaand.   
@@ -185,7 +185,7 @@ Indien het recht op uitkering als gevolg van werkaanvaarding van de werkloze wer
 a. voor de werkloze werknemer en de echtgenoot: de som van het inkomen uit arbeid of overig inkomen van hemzelf en zijn echtgenoot;  
 
 b. voor de alleenstaande en de thuiswonende werkloze werknemer: zijn inkomen uit arbeid of overig inkomen.     
-2.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 291,04 per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
+2.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 291,04 per 1 juli 2011: € 295,80. per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
 3.  Bij algemene maatregel van bestuur wordt bepaald wat wordt verstaan onder inkomen uit arbeid of overig inkomen als bedoeld in het eerste lid. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.   
 4.  Onze Minister herziet het bedrag, genoemd in het tweede lid, met ingang van een door hem te bepalen dag, voor zover de ontwikkeling van het in [artikel 31, tweede lid, onderdeel o, van de Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) genoemde bedrag daartoe aanleiding geeft.   
 
@@ -678,11 +678,6 @@ c. personen die voor 1 december 2009 voldoen aan artikel 2 maar die voor die da
 ### Artikel  63d  
 
 De artikelen 3, zevende en achtste lid, en 4, tweede lid, zijn niet van toepassing, indien voor de inwerkingtreding van deze artikelleden, op grond van artikel 5 recht bestaat op een uitkering voor de werkloze werknemer en de echtgenoot, omdat de ongehuwde uitkeringsgerechtigde wegens een gezamenlijke huishouding met een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind is aangemerkt als echtgenoot, voor zolang dit recht op uitkering bestaat, tenzij toepassing van de genoemde artikelleden leidt tot een hogere uitkering.  
-
-### Artikel  63e  
-
-1.  Ten aanzien van de werkloze werknemer wiens recht op uitkering voorafgaand aan de dag van inwerkingtreding van [artikel X, onderdeel Ca, van de Verzamelwet SZW 2011](../../../../../../../../../../wet/verzamelwet/szw/2011/BWBR0029226/README.md) al is ingegaan en die zich op die dag onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, wordt voor de toepassing van artikel 6, eerste lid, onderdeel d, als eerste dag waarop hij zich aan de tenuitvoerlegging van die vrijheidsstraf of vrijheidsbenemende maatregel onttrekt, aangemerkt de dag van inwerkingtreding van artikel X, onderdeel Ca, van de Verzamelwet SZW 2011 en eindigt het recht op uitkering, in afwijking van artikel 6, eerste lid, onderdeel d, vanaf de dag dat het onttrekken aan de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel zes maanden heeft geduurd. De eerste zin is van overeenkomstige toepassing met betrekking tot artikel 6, tweede lid.   
-2.  Dit artikel vervalt zes maanden na de dag van zijn inwerkingtreding.   
 
 ### Artikel  63e*  
 

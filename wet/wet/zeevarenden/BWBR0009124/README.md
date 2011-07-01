@@ -329,6 +329,11 @@ b. de houder heeft in de vijf jaren, voorafgaand aan de aanvraag, twee jaren aan
 1.  Ter uitvoering van de artikelen 20 tot en met 24 worden persoonsgegevens betreffende de gezondheid verwerkt. De verwerking van deze gegevens vindt plaats teneinde te kunnen beoordelen of degene die aan boord van een schip werkzaamheden verricht waarvoor het bezit van een vaarbevoegdheidsbewijs is vereist, voldoet of niet meer voldoet aan de wettelijke vereisten betreffende de medische geschiktheid in verband met de afgifte of het behoud van een vaarbevoegdheidsbewijs. Onze Minister is verantwoordelijke voor deze verwerking.   
 2.  Ter uitvoering van artikel 25 worden persoonsgegevens betreffende de gezondheid verwerkt. De verwerking van deze gegevens vindt plaats teneinde te kunnen beoordelen of aan een bemanningslid, onderscheidenlijk aan de houder van een vaarbevoegdheid, ontheffing kan worden verleend van de verplichting in het bezit te zijn van een geldig vaarbevoegdheidsbewijs. Onze Minister is verantwoordelijke voor deze verwerking.   
 
+### Artikel  25b  
+
+1.  Zeevarenden, niet zijnde zeevarenden die een functie als bedoeld in artikel 18, tweede lid, uitoefenen, voldoen aan de bij of krachtens algemene maatregel van bestuur gestelde opleidingseisen.   
+2.  Het eerste lid is niet van toepassing op vissers.   
+
 ### Hoofdstuk  3  
 
 ####De kapitein
@@ -404,6 +409,11 @@ e. het aantal buitenlandse studenten dat als stagiair is geplaatst, alsmede de n
 1.  De scheepsbeheerder draagt er zorg voor dat de kapitein op grond van de door hem gegeven zienswijze bij de toepassing van artikel 4, derde lid, of bij toepassing van artikel 8, vierde lid, niet benadeeld wordt in zijn positie in de zeescheepvaartonderneming.   
 2.  De kapitein kan de kantonrechter verzoeken te bepalen dat de scheepsbeheerder gevolg dient te geven aan hetgeen in het eerste lid is bepaald.   
 
+### Artikel  32a  
+
+1.  Tegenover de scheepsbeheerder is de kapitein verplicht te handelen overeenkomstig de hem door de scheepsbeheerder gegeven orders, mits deze orders niet in strijd zijn met de verplichtingen, hem als gezagvoerder door de wet opgelegd.   
+2.  De kapitein geeft de scheepsbeheerder doorlopend kennis van alles wat het schip en de zaken aan boord betreft en vraagt diens orders alvorens tot een maatregel van geldelijk belang over te gaan.   
+
 ### Hoofdstuk  4  
 
 ####Monstering en medische keuring van de bemanning
@@ -464,6 +474,11 @@ c. de functie waarin het bemanningslid heeft dienst gedaan, en
 
 d. de naam en de roepletters van het schip.     
 2.  In het monsterboekje wordt het loon noch enige gedragsbeoordeling opgenomen.   
+
+### Artikel  38a  
+
+1.  De kapitein bewaart het monsterboekje na de aanmonstering en geeft het aan het bemanningslid terug bij de afmonstering.   
+2.  Indien de kapitein het monsterboekje niet kan teruggeven aan het bemanningslid, doet hij het toekomen aan de scheepsbeheerder die het, onder vermelding van de reden voor het niet teruggeven, zendt aan Onze Minister.   
 
 ### Artikel  39  
 
@@ -630,7 +645,11 @@ d. twee hydrografen.
 ### Artikel  55d  
 
 1.  Het voor de leden van de rechterlijke macht bepaalde in de [artikelen 46c, tweede lid](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d, tweede lid](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46f](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46g, eerste en tweede lid](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46i, eerste lid, aanhef en onderdelen a en b, en tweede lid](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l, eerste lid, aanhef en onderdeel a](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46m](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46o](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en [46p, eerste tot en met vijfde lid, van de Wet rechtspositie rechterlijke ambtenaren](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) is van overeenkomstige toepassing ten aanzien van de voorzitter, de plaatsvervangende voorzitters, de leden en de plaatsvervangende leden van het tuchtcollege.   
-2.  Het voor de leden van de rechterlijke macht bepaalde in de [artikelen 14a tot en met 14e, van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) is van overeenkomstige toepassing ten aanzien van de plaatsvervangende voorzitters, de leden en de plaatsvervangende leden van het tuchtcollege, met dien verstande dat de Hoge Raad de voorzitter van het tuchtcollege in de gelegenheid stelt schriftelijk of mondeling inlichtingen te verstrekken en van zijn gevoelen omtrent een klacht als bedoeld in [artikel 14a van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) te doen blijken.   
+2.  De [artikelen 13a](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [13b, uitgezonderd het eerste lid, onderdelen b en c, en vierde lid](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en [13c tot en met 13g van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) zijn van overeenkomstige toepassing ten aanzien van gedragingen van de voorzitter, de plaatsvervangende voorzitters, de leden en de plaatsvervangende leden van het tuchtcollege, met dien verstande dat: 
+
+a. voor de overeenkomstige toepassing van die artikelen onder «het betrokken gerechtsbestuur» wordt verstaan: de voorzitter van het tuchtcollege; en  
+
+b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in [artikel 13a](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), te voldoen, indien de verzoeker redelijkerwijs onvoldoende belang heeft bij een onderzoek als bedoeld in datzelfde artikel.     
 
 ### Artikel  55e  
 
@@ -832,9 +851,17 @@ c. het schip te gebruiken in strijd met de voorwaarden van het bemanningscertifi
 
 Het is verboden na te laten de monsterrol op te maken, opnieuw op te maken of bij te stellen, dan wel na te laten Onze Minister ingevolge artikel 33, vierde lid, in kennis te stellen van de opgemaakte monsterrol of van een wijziging hiervan.  
 
+### Artikel  59a  
+
+Het is verboden met een schip als bedoeld in artikel 48c, eerste lid, een internationale reis te maken indien het schip niet is voorzien van een geldig certificaat maritieme arbeid, een verklaring naleving maritieme arbeid en een exemplaar van het Maritiem Arbeidsverdrag.  
+
 ### Artikel  60  
 
 Het is verboden de verplichtingen ingevolge artikel 3, tweede en derde lid, artikel 4, eerste, tweede en vierde lid, en artikel 29, eerste lid, niet na te komen.  
+
+### Artikel  60a  
+
+Het is verboden zeevarenden te straffen of op enige andere wijze te benadelen voor het indienen van een klacht als bedoeld in artikel 69a, eerste lid, of 69b, eerste lid.  
 
 ### Hoofdstuk  7  
 
@@ -947,6 +974,41 @@ Onze Minister kan examencommissies aanwijzen, bij welke aan degenen, die geen op
 ### Artikel  69  
 
 Bij algemene maatregel van bestuur worden de beroepsvereisten bepaald voor de functies, tot welke de in artikel 68 genoemde getuigschriften en verklaringen toegang verlenen.  
+
+### §  8  
+
+####Klachtenprocedures voor zeevarenden
+
+### Artikel  69a  
+
+1.  Aan boord van elk schip is een door de scheepsbeheerder vastgestelde klachtenprocedure van toepassing voor het indienen van klachten met betrekking tot de naleving van de in artikel 48c, eerste lid, bedoelde bepalingen of een vermoedelijke schending van het Maritiem Arbeidsverdrag.   
+2.  Bij ministeriële regeling worden regels gesteld waaraan de in het eerste lid bedoelde klachtenprocedure moet voldoen.   
+3.  Iedere zeevarende ontvangt voor aanvang van zijn werkzaamheden aan boord van de kapitein een afschrift van de aan boord geldende klachtenprocedure.   
+4.  Het bepaalde bij of krachtens dit artikel is niet van toepassing op vissersvaartuigen.   
+
+### Artikel  69b  
+
+1.  Elke zeevarende aan boord van een Nederlands schip kan een klacht betreffende de vermoedelijke schending van het Maritiem Arbeidsverdrag of een klacht betreffende een vermeend onrechtmatig bevel van de kapitein melden bij een daartoe aangewezen ambtenaar van de Inspectie Verkeer en Waterstaat.   
+2.  Bij ministeriële regeling worden regels gesteld over de wijze waarop de in het eerste lid bedoelde klachten worden behandeld.   
+
+### §  9  
+
+####Overige verplichtingen scheepsbeheerder
+
+### Artikel  69c  
+
+1.  De scheepsbeheerder draagt er zorg voor dat aan boord van het schip afschriften aanwezig zijn van de door de desbetreffende zeevarende en zijn werkgever ondertekende arbeidsovereenkomst, de toepasselijke collectieve arbeidsovereenkomst en informatie over andere op die arbeidsovereenkomst van toepassing zijnde arbeidsvoorwaarden.   
+2.  Het eerste lid is van overeenkomstige toepassing op iedere andere overeenkomst op basis waarvan de zeevarende aan boord werkzaam is.   
+3.  De scheepsbeheerder draagt er zorg voor dat aan boord van het schip op een duidelijk zichtbare en voor de bemanning toegankelijke plaats een afschrift aanwezig is van het certificaat maritieme arbeid en de verklaring naleving maritieme arbeid.   
+4.  De scheepsbeheerder draagt er zorg voor dat aan boord van het schip een exemplaar van de geldende tekst van het Maritiem Arbeidsverdrag aanwezig is.   
+5.  Alle in het eerste tot en met het vierde lid bedoelde documenten en de resultaten van onderzoeken als bedoeld in artikel 48c, tweede lid, onderdeel a, zijn beschikbaar in het Nederlands of indien het originele document in een andere taal is opgesteld, in de desbetreffende taal, en het Engels en eenvoudig toegankelijk voor de zeevarenden. Indien het schip geen internationale reizen maakt, is geen Engelse vertaling vereist van de documenten die in het Nederlands beschikbaar zijn.   
+6.  Het bepaalde bij of krachtens dit artikel is niet van toepassing op vissersvaartuigen.   
+
+### Artikel  69d  
+
+1.  De scheepsbeheerder draagt er zorg voor dat de zee-arbeidsovereenkomsten, bedoeld in de [artikelen 694, eerste lid](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [736, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van de zeevarenden aan boord van zijn schip voldoen aan het bepaalde in de [artikelen 697](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [699 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en, voor wat betreft de onderdelen 6, 7, 8, 12 en 13, in overeenstemming zijn met de toepasselijke bepalingen in [Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).   
+2.  De scheepsbeheerder zorgt voor de nakoming van de uit de [artikelen 706 tot en met 709](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [717 tot en met 720](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), en [734 tot en met 734l van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) voortkomende verplichtingen. Indien de scheepsbeheerder niet de werkgever is van de desbetreffende zeevarende, geeft de scheepsbeheerder slechts toepassing aan de eerste volzin indien de werkgever bij de nakoming van deze verplichtingen in gebreke blijft en de zeevarende aan de scheepsbeheerder een verzoek tot nakoming doet.   
+3.  De scheepsbeheerder handelt overeenkomstig de voor het desbetreffende schip op grond van artikel 48c, eerste lid, afgegeven verklaring naleving maritieme arbeid.   
 
 ### Hoofdstuk  8  
 

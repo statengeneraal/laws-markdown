@@ -830,12 +830,6 @@ Een certificaat van vakbekwaamheid springmeester als bedoeld in [artikel 4.8, tw
 
 Een certificaat van vakbekwaamheid professioneel vuurwerk als bedoeld in [artikel 4.9, tweede lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) wordt door de minister of, indien de minister een certificerende instelling heeft aangewezen, de certificerende instelling, afgegeven indien de aanvrager voldoet aan de eisen, bedoeld in het document Certificatie-eisen Vuurwerkdeskundige versie 1 van Kiwa Certificatie en Keuringen N.V, vastgesteld per 14 februari 2002.  
 
-### Artikel  4.17d  
-
-####Gegevens werkplan professioneel vuurwerk
-
-Het werkplan, bedoeld in [artikel 4.9, eerste lid, van het besluit](../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) omvat tenminste de gegevens, bedoeld in bijlage XI bij deze regeling.  
-
 ### Paragraaf  4.2b  
 
 ####Opsporen conventionele explosieven
@@ -1774,7 +1768,7 @@ Als overtreding ter zake waarvan een bestuurlijke boete kan worden opgelegd van 
 
 ####Overtredingen; tweede categorie
 
-Als overtreding ter zake waarvan een bestuurlijke boete kan worden opgelegd van de tweede categorie, wordt aangemerkt de handeling of het nalaten in strijd met de voorschriften welke zijn opgenomen in de de artikelen 4.3, 4.4, eerste tot en met derde lid, 4.6, 4.7, 4.9, eerste en tweede lid, 4.11, 4.12 en 4.17d.  
+Als overtreding ter zake waarvan een bestuurlijke boete kan worden opgelegd van de tweede categorie, wordt aangemerkt de handeling of het nalaten in strijd met de voorschriften welke zijn opgenomen in de de artikelen 4.3, 4.4, eerste tot en met derde lid, 4.6, 4.7, 4.9, eerste en tweede lid, 4.11 en 4.12.  
 
 ### Hoofdstuk  9  
 

@@ -387,7 +387,7 @@ c. 16 jaar of ouder doch jonger dan 21 jaar is: 64.
 2.  Degene die een halfwezenuitkering ontvangt en geen nabestaandenuitkering ontvangt als bedoeld in het eerste lid, heeft tevens recht op een tegemoetkoming.   
 3.  Degene die een wezenuitkering ontvangt, heeft tevens recht op een tegemoetkoming.   
 4.  De tegemoetkoming, bedoeld in het eerste tot en met derde lid, wordt niet beschouwd als een nabestaandenuitkering, halfwezenuitkering of wezenuitkering op grond van deze wet, behoudens voor de toepassing van afdeling II van hoofdstuk 3.   
-5.  Geen recht op een tegemoetkoming als bedoeld in het tweede lid bestaat voor een ongehuwde pensioengerechtigde als bedoeld in [artikel 9, eerste lid, onderdeel a, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) die recht heeft op een tegemoetkoming als bedoeld in [artikel 33b van die wet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md).   
+5.  Geen recht op een tegemoetkoming als bedoeld in het tweede lid bestaat voor een ongehuwde pensioengerechtigde als bedoeld in [artikel 9, eerste lid, onderdeel a, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) die recht heeft op een tegemoetkoming als bedoeld in [artikel 3 van de Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen](../../../../wet/wet/mogelijkheid/koopkrachttegemoetkoming/oudere/belastingplichtigen/BWBR0029984/README.md).   
 6.  Artikel 2, derde lid, is van overeenkomstige toepassing.   
 7.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de hoogte, de indexering en de wijze van betaling van de tegemoetkoming.   
 8.  De tegemoetkoming is niet vatbaar voor beslag.   
@@ -914,11 +914,6 @@ b) op 19 december 2005 dit recht op nabestaandenuitkering, halfwezenuitkering d
 ### Artikel  73  
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen wordt een tijdvak van verzekering op grond van de Algemene Weduwen- en Wezenwet mede aangemerkt als een tijdvak van verzekering op grond van deze wet.  
-
-### Artikel  74  
-
-1.  Indien het recht op nabestaandenpensioen, respectievelijk halfwezenuitkering of wezenuitkering voorafgaand aan de dag van inwerkingtreding van artikel 32f al is ingegaan en de nabestaande, halfwees of wees zich op die dag onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, wordt voor de toepassing van dat artikel als eerste dag waarop hij zich aan de tenuitvoerlegging van die vrijheidsstraf of vrijheidsbenemende maatregel onttrekt, aangemerkt de dag van inwerkingtreding van artikel 32f en eindigt het recht op nabestaandenpensioen, respectievelijk halfwezenuitkering of wezenuitkering, in afwijking van artikel 32f, vanaf de dag dat het onttrekken aan de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel zes maanden heeft geduurd.   
-2.  Dit artikel vervalt zes maanden na de dag van zijn inwerkingtreding.   
 
 ### Artikel  74*  
 

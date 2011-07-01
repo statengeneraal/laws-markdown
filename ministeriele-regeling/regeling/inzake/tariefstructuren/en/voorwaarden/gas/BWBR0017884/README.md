@@ -60,6 +60,10 @@ a. het onderscheid tussen de verschillende categorieën van netgebruikers ten be
 
 b. op welke wijze de inkoopkosten van de dienst zijn opgenomen in de tariefstructuur.    
 
+### Artikel  5a  
+
+De tariefstructuren, bedoeld in [artikel 12a van de wet](../../../../../../../../wet/gaswet/BWBR0011440/README.md), houden bij de vaststelling van de tarieven voor het transport van gas rekening met veranderingen van de rekenvolumes van tariefdragers als gevolg van de voorwaarden, bedoeld in paragraaf 3.5.  
+
 ### §  3  
 
 ####Voorwaarden
@@ -168,10 +172,6 @@ b. die voor een periode in de toekomst wordt afgesloten; en
 
 c. die voor de geboden flexibiliteit een bereik heeft van ten hoogste een week en waarbij binnen dat bereik per saldo geen sprake is van gaslevering door of aan de netbeheerder van het landelijk gastransportnet.     
 
-### Artikel  16  
-
-De voorwaarden, bedoeld in [artikel 12b, eerste lid, onderdeel a, van de wet](../../../../../../../../wet/gaswet/BWBR0011440/README.md), bevatten regels over het aanbieden van gecontracteerde transportcapaciteit die niet zal worden gebruikt.  
-
 ### §  3.4  
 
 ####Voorwaarden met betrekking tot het meten
@@ -194,6 +194,50 @@ c. welke gegevens verzameld, vastgesteld en verwerkt worden, door wie dat wordt 
 d. wie de meetgegevens valideert, wanneer dat plaatsvindt en op basis van welke criteria dat gebeurt;  
 
 e. de handelswijze bij storingen in de verzameling van meetgegevens bij dagelijks op afstand afleesbare meetinrichtingen en de handelswijze bij het repareren van die meetgegevens.    
+
+### §  3.5  
+
+####Voorwaarden met betrekking tot landsgrensoverschrijdende capaciteit
+
+### Artikel  18a  
+
+1.  De voorwaarden, bedoeld in [artikel 12b, eerste lid, onderdeel a, van de wet](../../../../../../../../wet/gaswet/BWBR0011440/README.md), bepalen dat bij de toepassing van artikel 16, vijfde lid, van Verordening EG nr. 715/2009 van het Europees Parlement en de Raad van de Europese Unie van 13 juli 2009 betreffende de voorwaarden voor de toegang tot aardgastransmissienetten en tot intrekking van Verordening (EG) nr. 1775/2005 (Pb EU L 211), gebruik wordt gemaakt van een inschrijvingsprocedure om de behoefte aan landsgrensoverschrijdende capaciteit vast te stellen.   
+2.  De voorwaarden bevatten regels over de afstemming van investeringen ten behoeve van landsgrensoverschrijdende capaciteit met beheerders van gastransportnetten in andere landen, waarmee afstemming noodzakelijk is om een verbetering van de mogelijkheden tot in-, uitvoer en doorvoer van gas te bereiken.   
+3.  In de voorwaarden wordt aan de inschrijvingsprocedure als bedoeld in het eerste lid, een uitwerking gegeven waardoor die: 
+
+a. transparant en non-discriminatoir toegankelijk is voor netgebruikers en op objectieve wijze wordt uitgevoerd;  
+
+b. gericht is op het sluiten van een overeenkomst met de aan een inschrijvingsprocedure deelnemende netgebruikers voor landsgrensoverschrijdende capaciteit.     
+4.  De voorwaarden kunnen bepalen met welke periodiciteit een inschrijvingsprocedure als bedoeld in het eerste lid, wordt gehouden.   
+
+### Artikel  18b  
+
+1.  De voorwaarden, bedoeld in [artikel 12b, eerste lid, onderdeel a](../../../../../../../../wet/gaswet/BWBR0011440/README.md), bevatten regels met betrekking tot het bepalen van de technische en beschikbare landsgrensoverschrijdende capaciteit voor het transport van gas en de toedeling daarvan.   
+2.  De voorwaarden bepalen dat op termijn ten minste tien procent van de technische landsgrensoverschrijdende capaciteit voor het transport van gas wordt gereserveerd voor contracten met een looptijd van een jaar of korter.   
+3.  De voorwaarden bepalen met betrekking tot de toedeling van de op grond van het vorige lid gereserveerde landsgrensoverschrijdende capaciteit voor het transport van gas dat ten minste twintig procent daarvan als vaste capaciteit wordt gereserveerd voor contracten met een looptijd korter dan een jaar en wordt aangeboden via een veiling door of in opdracht van de beheerder van het desbetreffende gasnet.   
+4.  De voorwaarden kunnen met betrekking tot de veiling als bedoeld in het derde lid, tevens de termijn bepalen waarbinnen de gereserveerde capaciteit wordt geveild en de minimumprijzen vaststellen waaronder die capaciteit niet wordt geveild.   
+
+### Artikel  18c  
+
+1.  De voorwaarden, bedoeld in [artikel 12b, eerste lid, onderdeel a](../../../../../../../../wet/gaswet/BWBR0011440/README.md), bevatten regels die bewerkstelligen dat netgebruikers niet gebruikte vaste landsgrensoverschrijdende capaciteit onverwijld als transportcapaciteit op de secundaire markt aan andere netgebruikers aanbieden of deze capaciteit aan de beheerder van het gasnet teruggeven.   
+2.  De voorwaarden kunnen bepalen dat de beheerder van een gasnet een financiële vergoeding kan hanteren om het teruggeven van niet gebruikte landsgrensoverschrijdende capaciteit te bevorderen.   
+
+### Artikel  18d  
+
+1.  In de voorwaarden, bedoeld in [artikel 12b, eerste lid, onderdeel a, van de wet](../../../../../../../../wet/gaswet/BWBR0011440/README.md) kan de beheerder van een gasnet worden verplicht om de handel in landsgrensoverschrijdende capaciteit tussen marktpartijen onderling te bevorderen.   
+2.  De voorwaarden bepalen dat de beheerder van een gasnet dagelijks per interconnectiepunt de hoeveelheid gecontracteerde, maar niet genomineerde landsgrensoverschrijdende capaciteit zal publiceren.   
+
+### Artikel  18e  
+
+1.  De voorwaarden, bedoeld in [artikel 12b, eerste lid, onderdeel a, van de wet](../../../../../../../../wet/gaswet/BWBR0011440/README.md) bevatten regels die bewerkstelligen dat wanneer een netgebruiker de door hem geboekte vaste landsgrensoverschrijdende capaciteit niet of niet volledig nomineert, hij deze capaciteit niet volledig kan hernomineren.   
+2.  De regels, bedoeld in het eerste lid, bepalen dat het recht op hernominatie van landsgrensoverschrijdende capaciteit beperkt blijft tot ten minste 10% en maximaal 90% van de door de netgebruikers gecontracteerde vaste landsgrensoverschrijdende capaciteit.   
+3.  In de voorwaarden kunnen regels worden opgenomen waarin wordt afgeweken van het vorige lid, wanneer meer dan 80% of minder dan 20% van de gecontracteerde vaste landsgrensoverschrijdende capaciteit is genomineerd.   
+4.  De beperking van hernominatierechten geldt niet voor rechten die op het moment van inwerkingtreden van dit artikel al bestonden.   
+
+### Artikel  18f  
+
+1.  De voorwaarden, bedoeld in [artikel 12b, eerste lid, onderdeel a, van de wet](../../../../../../../../wet/gaswet/BWBR0011440/README.md) bevatten regels over het veilen van dat deel van de gecontracteerde landsgrensoverschrijdende capaciteit voor het transport van gas dat door netgebruikers na uitoefening van hun recht op nominatie niet kan worden gehernomineerd.   
+2.  De regels over een veiling als bedoeld in het eerste lid hebben als uitgangspunt dat capaciteit als bedoeld in het eerste lid als vaste capaciteit wordt geveild door of in opdracht van de beheerder van het desbetreffende gasnet.   
 
 ### §  4  
 

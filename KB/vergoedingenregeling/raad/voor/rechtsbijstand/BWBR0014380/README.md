@@ -6,20 +6,20 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op voordracht van Onze Minister van Justitie, van 25 november 2002, nr. 5196780/802;
 
-Gelet op [artikel 3 van het Vacatiegeldenbesluit 1988 (Stb. 1988, 205)](../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md);
+Gelet op artikel 3 van het Vacatiegeldenbesluit 1988 (Stb. 1988, 205);
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
 
 In dit besluit wordt verstaan onder: 
 
-*bestuur:* het bestuur bedoeld in [artikel 3 van de Wet op de rechtsbijstand](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md);  
+*bestuur:* het bestuur bedoeld in artikel 3 van de Wet op de rechtsbijstand;  
 
-*raad van advies:* de raad van advies bedoeld in [artikel 6 van de Wet op de raad voor rechtsbijstand](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md).    
+*raad van advies:* de raad van advies bedoeld in artikel 6 van de Wet op de raad voor rechtsbijstand.    
 
 ### Artikel  2  
 
-De voorzitter van de raad van advies ontvangt voor zijn werkzaamheden en onkosten een vaste maandelijkse vergoeding van € 1090.  
+De voorzitter van de raad van advies ontvangt voor zijn werkzaamheden en onkosten een vaste maandelijkse vergoeding van € 674,75.  
 
 ### Artikel  3  
 
@@ -27,11 +27,11 @@ De overige leden van de raad van advies ontvangen per vergadering van de raad va
 
 ### Artikel  4  
 
-Het bestuur kan op grond van [artikel 8 van de Wet op de rechtsbijstand](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) voor de voorbereiding of uitvoering van bepaalde werkzaamheden commissies instellen. De leden van deze onder het bestuur ressorterende commissies ontvangen per dagdeel dat wordt deelgenomen aan een vergadering een vergoeding van € 140.  
+Het bestuur kan op grond van artikel 8 van de Wet op de rechtsbijstand voor de voorbereiding of uitvoering van bepaalde werkzaamheden commissies instellen. De leden van deze onder het bestuur ressorterende commissies ontvangen per dagdeel dat wordt deelgenomen aan een vergadering een vergoeding van € 140.  
 
 ### Artikel  5  
 
-De voorzitter en de leden van de raad van advies en de onder het bestuur ressorterende commissies hebben overeenkomstig het [Reisbesluit binnenland](../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) en het [Reisbesluit buitenland](../../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md) recht op vergoeding wegens reis- en verblijfkosten.  
+De voorzitter en de leden van de raad van advies en de onder het bestuur ressorterende commissies hebben overeenkomstig het Reisbesluit binnenland en het Reisbesluit buitenland recht op vergoeding wegens reis- en verblijfkosten.  
 
 ### Artikel  6  
 

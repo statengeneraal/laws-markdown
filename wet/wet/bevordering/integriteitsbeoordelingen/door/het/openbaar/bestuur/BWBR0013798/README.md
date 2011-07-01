@@ -359,7 +359,7 @@ b. Onze Minister van Justitie, voorzover het bestanden betreft waarvan de gegeve
 
 4°. het openbaar ministerie;  
 
-5°. het registratiesysteem Vennoot;    
+5°. de registratie, bedoeld in [artikel 1, onderdeel b, van de Wet controle op rechtspersonen](../../../../../../../../../wet/wet/controle/op/rechtspersonen/BWBR0015049/README.md);    
 
 c. Onze Minister van Landbouw, Natuurbeheer en Visserij, voorzover het bestanden betreft waarvan de gegevens worden verwerkt door de Algemene Inspectiedienst;  
 

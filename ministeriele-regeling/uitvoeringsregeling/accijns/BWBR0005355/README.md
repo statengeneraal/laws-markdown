@@ -411,16 +411,16 @@ c. het tijdstip van de overbrenging van de na afloop van het onderzoek, de contr
 
 a. een afschrift van het ingevolge [artikel 23, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/accijns/BWBR0005360/README.md) gedane verzoek en van de daarbij overgelegde schriftelijke opdracht voor de onderzoeken, controles of testen;  
 
-b. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende accijnsgoederen worden overgebracht naar een derde land: afdrukken van het uitvoergeleidedocument of de aangifte ten uitvoer alsmede van de bevestiging van uitgang, welke documenten zijn vereist op grond van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../wet/algemene/douanewet/BWBR0023746/README.md);  
+b. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende accijnsgoederen worden overgebracht naar een derde land: elektronische of geprinte exemplaren van het uitvoergeleidedocument of de aangifte ten uitvoer alsmede van de bevestiging van uitgang, welke documenten zijn vereist op grond van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../wet/algemene/douanewet/BWBR0023746/README.md);  
 
 c. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende accijnsgoederen worden overgebracht naar een andere lidstaat: een bescheid waaruit blijkt dat de accijnsgoederen hun bestemming hebben bereikt.  
 
 d. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende accijnsgoederen worden vernietigd onder ambtelijk toezicht: een afschrift van de ter zake opgemaakte ambtelijke verklaring.     
-3.  Degene die de accijnsgoederen met vrijstelling invoert neemt in zijn administratie tevens een afdruk op van de voor de desbetreffende accijnsgoederen ingevolge de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../wet/algemene/douanewet/BWBR0023746/README.md), gedane aangifte voor het vrije verkeer.   
+3.  Degene die de accijnsgoederen met vrijstelling invoert neemt in zijn administratie tevens een elektronisch of geprint exemplaar op van de voor de desbetreffende accijnsgoederen ingevolge de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../wet/algemene/douanewet/BWBR0023746/README.md), gedane aangifte voor het vrije verkeer.   
 
 ### Artikel  32a  
 
-1.  Vrijstelling van accijns ter zake van de uitslag van accijnsgoederen uit een accijnsgoederenplaats wordt verleend in gevallen waarin bij invoer deze accijnsgoederen met toepassing van de [artikelen 7:8](../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md), [7:9](../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md) en [711 van de Algemene douaneregeling](../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md) met vrijstelling van rechten bij invoer zouden kunnen worden betrokken.   
+1.  Vrijstelling van accijns ter zake van de uitslag van accijnsgoederen uit een accijnsgoederenplaats wordt verleend in gevallen waarin bij invoer deze accijnsgoederen met toepassing van de [artikelen 7:8](../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md), [7:9](../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md) of [7:11 van de Algemene douaneregeling](../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md) met vrijstelling van rechten bij invoer zouden kunnen worden betrokken.   
 2.  Vóór de uitslag dient een vergunning van de inspecteur te zijn verkregen. De vergunninghouder van de accijnsgoederenplaats dient daartoe een verzoek in bij de inspecteur.   
 3.  De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.   
 

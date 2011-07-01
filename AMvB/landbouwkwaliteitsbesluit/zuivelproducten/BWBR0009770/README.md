@@ -76,10 +76,6 @@ Onze Minister kan bij ministeriële regeling regels stellen over het vervaardige
 
 Het is verboden merken, tekenen en bewijsstukken als bedoeld in artikel 2, eerste lid, te bezigen in strijd met het bij of krachtens dit besluit bepaalde.  
 
-### Artikel  8  
-
-Het is anderen dan aangeslotenen bij het COKZ verboden merken, tekenen of bewijsstukken als bedoeld in artikel 2, eerste lid, te bezigen, aan te brengen of te doen aanbrengen.  
-
 ### Artikel  9  
 
 Het is verboden voor levensmiddelen aanduidingen, vermeldingen of voorstellingen te bezigen welke gelijken op merken, tekenen en bewijsstukken als bedoeld in artikel 2, eerste lid.  
@@ -88,39 +84,25 @@ Het is verboden voor levensmiddelen aanduidingen, vermeldingen of voorstellingen
 
 Het COKZ is: 
 
-a. belast met het toezicht op de naleving door de bij haar aangeslotenen van de bij of krachtens dit besluit gestelde regels;  
+a. belast met het toezicht op de naleving van de bij of krachtens dit besluit gestelde regels;  
 
 b. belast met de in artikel 4 bedoelde keuring van producten, en  
 
 c. bevoegd tot het uitreiken van de in artikel 2, eerste lid, bedoelde merken, tekenen of bewijsstukken.    
 
-### Artikel  11  
-
-1.  De voorzitter van het COKZ wordt door Onze Minister, telkens voor ten hoogste vier jaren benoemd. Hij is terstond opnieuw benoembaar.   
-2.  Het bestuur van het COKZ doet aan Onze Minister een voordracht voor de benoeming van de voorzitter.   
-3.  De voorzitter mag niet rechtstreeks betrokken zijn bij de bereiding van of de handel in zuivelproducten.   
-
-### Artikel  12  
-
-De bereiding van boerenkaas alsmede van Goudse kaas, Edammer kaas en Commissiekaas als omschreven krachtens artikel 2, tweede lid, is uitsluitend toegestaan aan aangeslotenen bij het COKZ.  
-
 ### Artikel  13  
 
-Het is verboden voor kaas, anders dan boerenkaas alsmede Goudse kaas, Edammer kaas en Commissiekaas als omschreven krachtens artikel 2, tweede lid, aanduidingen, vermeldingen of voorstellingen te bezigen welke een zodanige gelijkenis vertonen met de in artikel 12 genoemde benamingen, dat daardoor verwarring kan ontstaan.  
+Het is verboden voor kaas anders dan de kaas waarvoor krachtens artikel 2, eerste lid, merken, tekenen of bewijsstukken zijn vastgesteld, aanduidingen, vermeldingen of voorstellingen te gebruiken die een zodanige gelijkenis vertonen met dat merk, teken of bewijsstuk dat daardoor verwarring kan ontstaan.  
 
 ### Artikel  14  
 
-1.  De artikelen 12 en 13 zijn niet van toepassing op producten die in een lidstaat van de Europese Unie of in een land dat partij is bij de Overeenkomst betreffende de Europese Economische Ruimte zijn geproduceerd en aldaar rechtmatig in de handel zijn gebracht.   
-2.  De artikelen 12 en 13 zijn niet van toepassing op de plaatsing van goederen onder enige douaneregeling als bedoeld in artikel 4, onderdeel 16, onder a, d en f, van de verordening (EEG) nr. 2913/92 van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (PbEG L 302).   
+1.  Artikel 13 is niet van toepassing op producten die in een lidstaat van de Europese Unie of in een land dat partij is bij de Overeenkomst betreffende de Europese Economische Ruimte zijn geproduceerd en aldaar rechtmatig in de handel zijn gebracht.   
+2.  Artikel 13 is niet van toepassing op de plaatsing van goederen onder enige douaneregeling als bedoeld in artikel 4, onderdeel 16, onder a, d en f, van de verordening (EEG) nr. 2913/92 van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (PbEG L 302).   
 
 ### Artikel  15  
 
 1.  Van het bij of krachtens dit besluit bepaalde kan Onze Minister vrijstelling en, op aanvraag, ontheffing verlenen.   
 2.  Onze Minister kan bij ministeriële regeling bepalen dat een ontheffing als bedoeld in het eerste lid wordt verleend door een door hem aan te wijzen autoriteit.   
-
-### Artikel  16  
-
-Onze Minister zendt in overeenstemming met de Staatssecretaris van Volksgezondheid, Welzijn en Sport en Onze Minister van Economische Zaken binnen zes jaar na inwerkingtreding van dit besluit aan de ministerraad een verslag over de wenselijkheid van intrekking van dit besluit.  
 
 ### Artikel  17  
 

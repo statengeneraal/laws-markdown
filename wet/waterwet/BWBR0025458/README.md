@@ -215,6 +215,10 @@ Onverminderd artikel 2.12 kunnen bij of krachtens algemene maatregel van bestuur
 2.  Voor zover bij provinciale verordening andere lichamen dan waterschappen worden belast met beheer, zijn de artikelen 4.6, 5.1, 7.2, 8.1 en 8.3 van deze wet niet van toepassing voor de betrokken beheerders en, indien het provincies en gemeenten betreft, evenmin artikel 5.29, behoudens voor zover dat artikel bij of krachtens die verordening van toepassing wordt verklaard voor daarbij aan te wijzen waterstaatswerken, in verband met de bijzondere betekenis van die waterstaatswerken.   
 3.  Artikel 3.1, derde lid, is van overeenkomstige toepassing.   
 
+### Artikel  3.2a  
+
+Het waterschap draagt zo goed mogelijk zorg voor het voorkomen van schade aan waterstaatswerken veroorzaakt door muskus- en beverratten.  
+
 ### Artikel  3.3  
 
 1.  In het belang van het tijdig nemen van maatregelen bij hoog water dat gevaar voor een tot directe kering van het buitenwater bestemde primaire waterkering kan opleveren, draagt Onze Minister zorg dat: 
@@ -867,7 +871,11 @@ Het bevoegd gezag en de bestuursorganen die zijn betrokken bij de beslissing op 
 
 *bedrijfsruimte:* een naar zijn aard en inrichting als afzonderlijk geheel te beschouwen ruimte of terrein, niet zijnde een woonruimte, een zuiveringtechnisch werk of een openbaar vuilwaterriool;  
 
+*gebouwde onroerende zaak:* gebouwde onroerende zaak als bedoeld in [artikel 117, eerste lid, onder d, van de Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md);  
+
 *heffingsambtenaar:* ambtenaar, bedoeld in [artikel 123, derde lid, onder b, van de Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md) onderscheidenlijk ambtenaar, bedoeld in artikel 7.10, vierde lid, die voor de toepassing van de [Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) in de plaats treedt van de inspecteur;  
+
+*ingezetene:* ingezetene als bedoeld in [artikel 116, onder a, van de Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md);  
 
 *lozen:* het brengen van afvalstoffen, verontreinigende of schadelijke stoffen in een oppervlaktewaterlichaam;  
 
@@ -1069,13 +1077,32 @@ Voor de toepassing van artikel 7.14 wordt onder schade mede verstaan schade in v
 
 ### §  5  
 
-####Subsidie voor maatregelen primaire waterkeringen
+####Financiering en bekostiging maatregelen primaire waterkeringen
 
 ### Artikel  7.23  
 
 1.  Onze Minister verleent op aanvraag een subsidie aan de beheerder die vanwege wijziging van de krachtens artikel 2.2, 2.3 of 2.12, vierde lid, gestelde regels maatregelen dient te treffen, indien de desbetreffende maatregelen zijn opgenomen in een jaarlijks door Onze Minister vast te stellen programma.   
 2.  De subsidie, bedoeld in het eerste lid, wordt verleend voor honderd procent van de kosten van uitvoering.   
 3.  De [Kaderwet subsidies Verkeer en Waterstaat](../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) is van toepassing.   
+
+### Artikel  7.24  
+
+1.  Ter bestrijding van de kosten verbonden aan de uitvoering van maatregelen als bedoeld in artikel 7.23, eerste lid, is een waterschap een jaarlijkse bijdrage aan Onze Minister verschuldigd.   
+2.  De jaarlijkse bijdrage wordt berekend volgens de formule: B = 40,5 × 10 <sup>6</sup> (I/IT + WG/WGT), waarin B voorstelt: de te berekenen bijdrage in euro’s; I voorstelt: het aantal ingezetenen in het gebied van het waterschap op de peildatum; IT voorstelt: het aantal ingezetenen in de gebieden van de waterschappen tezamen op de peildatum; WG voorstelt: de som van de op basis van [hoofdstuk IV van de Wet waardering onroerende zaken](../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) vastgestelde waarden van de gebouwde onroerende zaken in het gebied van het waterschap op de peildatum; WGT voorstelt: de som van de op basis van hoofdstuk IV van de Wet waardering onroerende zaken vastgestelde waarden van de gebouwde onroerende zaken in de gebieden van de waterschappen tezamen op de peildatum.   
+3.  De peildatum, bedoeld in het tweede lid, is 1 januari 2010 voor de jaarlijkse bijdrage over de kalenderjaren 2011 tot en met 2014 en voor elke daaropvolgende aaneengesloten periode van vier kalenderjaren telkens 1 januari van het laatste kalenderjaar dat voorafgaat aan de betrokken periode.   
+
+### Artikel  7.25  
+
+Ten behoeve van de vaststelling van de hoogte van de bijdrage, bedoeld in artikel 7.24, verschaft het dagelijks bestuur van een waterschap Onze Minister voor 1 augustus van het kalenderjaar dat volgt op het kalenderjaar waarin de peildatum valt, de volgende gegevens: 
+
+a. het aantal ingezetenen in het gebied van het waterschap op de peildatum, en  
+
+b. de som van de op basis van [hoofdstuk IV van de Wet waardering onroerende zaken](../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) vastgestelde waarden van de gebouwde onroerende zaken in het gebied van het waterschap op de peildatum.    
+
+### Artikel  7.26  
+
+1.  Onze Minister stelt voor 1 oktober van het kalenderjaar dat volgt op het kalenderjaar waarin de peildatum valt de hoogte van de ingevolge artikel 7.24 verschuldigde bijdrage over het desbetreffende kalenderjaar en de drie daarop volgende kalenderjaren vast.   
+2.  Onze Minister kan de bijdrage invorderen bij dwangbevel.   
 
 ### Hoofdstuk  8  
 

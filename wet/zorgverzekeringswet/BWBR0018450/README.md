@@ -420,7 +420,7 @@ Gedurende de eerste twaalf maanden waarover een verzekering als bedoeld in artik
 
 ### Artikel  18g  
 
-1.  Het College zorgverzekeringen gebruikt het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de in de artikelen 18c, eerste lid, en 18e, bedoelde personen, met het doel te waarborgen dat de in het kader van de uitvoering van deze afdeling en artikel 34a te verwerken persoonsgegevens op die personen betrekking hebben.   
+1.  Het College zorgverzekeringen gebruikt het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de in de artikelen 18c, eerste lid, en 18e bedoelde personen, met het doel te waarborgen dat de in het kader van de uitvoering van deze afdeling en artikel 34a te verwerken persoonsgegevens op die personen betrekking hebben.   
 2.  Bij gegevensuitwisseling tussen het College zorgverzekeringen en de in de artikelen 18f, 88 en 89 bedoelde personen en instanties wordt, voor de uitvoering van deze afdeling en voor zover die personen en instanties tot gebruik van dat nummer bevoegd zijn, het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer gebruikt.   
 3.  Het College zorgverzekeringen is bevoegd schulden ter zake van de bestuursrechtelijke premie die hem nog niet zijn voldaan nadat artikel 18d of 18e niet meer op de verzekeringnemer van toepassing is, kwijt te schelden.   
 4.  Bij ministeriële regeling worden nadere regels gesteld over de wijze waarop het College zorgverzekeringen de bestuursrechtelijke premie int.   
@@ -852,24 +852,19 @@ Indien de situatie, bedoeld in artikel 31, eerste lid, zich heeft voorgedaan, ve
 2.  Het College zorgverzekeringen is gevestigd in een door Onze Minister te bepalen plaats.   
 3.  Het College zorgverzekeringen is belast met de taken die hem bij of krachtens wet of internationale overeenkomst zijn opgedragen.   
 4.  Het College zorgverzekeringen wordt in en buiten rechte vertegenwoordigd door de voorzitter.   
+5.  De [Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is op het College zorgverzekeringen van toepassing.   
 
 ### Artikel  59  
 
 1.  Het College zorgverzekeringen bestaat uit ten hoogste drie leden, onder wie de voorzitter.   
-2.  Onze Minister benoemt, schorst en ontslaat de voorzitter en de overige leden.   
-3.  Benoeming vindt plaats op grond van de deskundigheid die nodig is voor de uitoefening van de taken van het College zorgverzekeringen alsmede op grond van maatschappelijke kennis en ervaring.   
-4.  De leden worden benoemd voor ten hoogste vier jaar. Herbenoeming kan twee maal en telkens voor ten hoogste vier jaar plaatsvinden.   
-5.  Het lidmaatschap van het College zorgverzekeringen is onverenigbaar met het lidmaatschap van de zorgautoriteit of van het bestuur van De Nederlandsche Bank N.V.   
-6.  Bij ministeriële regeling kunnen andere functies of werkzaamheden dan die, genoemd in het vijfde lid, worden aangewezen, die niet verenigbaar zijn met het lidmaatschap van het College zorgverzekeringen.   
-7.  Het lidmaatschap eindigt tussentijds door overlijden, ontslag op eigen verzoek of ontslag om zwaarwichtige redenen door Onze Minister.   
-8.  Van een besluit tot benoeming, schorsing of ontslag wordt mededeling gedaan in de Staatscourant.   
-9.  Onze Minister stelt de bezoldiging en de regels ten aanzien van de rechtspositie van de leden van het College zorgverzekeringen vast.   
+2.  Benoeming vindt plaats op grond van de deskundigheid die nodig is voor de uitoefening van de taken van het College zorgverzekeringen alsmede op grond van maatschappelijke kennis en ervaring.   
+3.  De leden worden benoemd voor ten hoogste vier jaar. Herbenoeming kan twee maal en telkens voor ten hoogste vier jaar plaatsvinden.   
 
 ### Artikel  59a  
 
 1.  Het College zorgverzekeringen heeft een commissie die rapporten of signalen als bedoeld in artikel 66 voorbereidt.   
-2.  De commissie bestaat uit een oneven aantal van ten hoogste negen leden, waaronder de leden van het College zorgverzekeringen.   
-3.  Artikel 59, tweede, derde, vierde, zevende en achtste lid, zijn op de leden van de commissie die niet tevens leden van het College zorgverzekeringen zijn, van overeenkomstige toepassing, met dien verstande dat hun benoeming plaatsvindt op grond van de deskundigheid die nodig is voor de uitoefening van de taken van de commissie en op grond van maatschappelijke kennis en ervaring.   
+2.  De commissie bestaat uit een oneven aantal van ten hoogste negen leden, waaronder de leden van het College zorgverzekeringen. Onze Minister benoemt, schorst en ontslaat de leden van de commissie. Het lidmaatschap eindigt tussentijds door overlijden, ontslag op eigen verzoek of ontslag om zwaarwichtige redenen door Onze Minister.   
+3.  Artikel 59, tweede en derde lid, zijn op de leden van de commissie die niet tevens leden van het College zorgverzekeringen zijn, van overeenkomstige toepassing, met dien verstande dat hun benoeming plaatsvindt op grond van de deskundigheid die nodig is voor de uitoefening van de taken van de commissie en op grond van maatschappelijke kennis en ervaring.   
 4.  Bij ministeriële regeling worden de vergoeding van reis- en verblijfkosten en verdere vergoedingen aan de leden van de commissie die niet tevens leden van het College zorgverzekeringen zijn, vastgesteld.   
 
 ### Artikel  60  
@@ -877,21 +872,6 @@ Indien de situatie, bedoeld in artikel 31, eerste lid, zich heeft voorgedaan, ve
 1.  Het College zorgverzekeringen stelt een bestuursreglement vast.   
 2.  Vergaderingen van het College zorgverzekeringen zijn niet openbaar, behoudens voor zover in het bestuursreglement anders is bepaald.   
 3.  In het bestuursreglement legt het College zorgverzekeringen in ieder geval vast hoe hij voldoet aan de verplichting ingevolge [artikel 3:2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-4.  Het bestuursreglement behoeft de goedkeuring van Onze Minister.   
-
-### Artikel  61  
-
-1.  Op de rechtspositie van het personeel van het College zorgverzekeringen zijn de regels die gelden voor ambtenaren die zijn aangesteld bij ministeries van toepassing, met dien verstande dat waar in deze regels een bevoegdheid is toegekend aan een andere minister dan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, deze bevoegdheid wordt uitgeoefend door het College zorgverzekeringen.   
-2.  Bij algemene maatregel van bestuur kan worden afgeweken van de in het eerste lid bedoelde regels.   
-
-### Artikel  62  
-
-Onze Minister kan beleidsregels vaststellen met betrekking tot de werkwijze en de uitoefening van de taken van het College zorgverzekeringen.  
-
-### Artikel  63  
-
-1.  Een besluit van het College zorgverzekeringen kan bij koninklijk besluit worden vernietigd.   
-2.  Van een besluit tot vernietiging wordt mededeling gedaan door plaatsing in de Staatscourant.   
 
 ### Paragraaf  6.2  
 
@@ -973,37 +953,24 @@ b. uitkeringen als bedoeld in artikel 39, tweede lid, onderdeel d.
 
 ### Artikel  71  
 
-1.  Het College zorgverzekeringen zendt jaarlijks voor 1 oktober aan Onze Minister een jaarplan voor het volgende kalenderjaar.   
-2.  Het jaarplan omvat: 
-
-a. een werkprogramma met een beschrijving van de activiteiten die het College zorgverzekeringen voornemens is ter uitvoering van zijn taken te verrichten,  
-
-b. een begroting van de beheerskosten voor de uitvoering van de voorgenomen activiteiten, en  
-
-c. een meerjarenraming voor de vier kalenderjaren volgend op het begrotingsjaar.     
+1.  Het College zorgverzekeringen zendt jaarlijks voor 1 oktober tegelijk met de begroting een werkprogramma voor het volgende kalenderjaar aan Onze Minister met een beschrijving van de activiteiten die het College zorgverzekeringen voornemens is ter uitvoering van zijn taken te verrichten.   
+2.  Onverminderd [artikel 27 van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) bevat de begroting een meerjarenraming van de beheerskosten voor de vier kalenderjaren, volgend op het begrotingsjaar.   
 
 ### Artikel  72  
 
 1.  Onze Minister stelt jaarlijks voor 1 december het budget voor de beheerskosten van het College zorgverzekeringen voor het volgende kalenderjaar vast.   
 2.  Onze Minister kan besluiten het budget voor de beheerskosten van het College zorgverzekeringen te wijzigen.   
-3.  Indien gedurende het jaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke en de begrote baten en lasten, doet het College zorgverzekeringen daarvan onverwijld mededeling aan Onze Minister, onder vermelding van de oorzaak van de verschillen.   
-4.  Het College zorgverzekeringen gaat met betrekking tot de beheerskosten geen verplichtingen aan en doet geen uitgaven die leiden tot overschrijding van het vastgestelde budget voor de beheerskosten.   
-5.  Indien het budget voor de beheerskosten niet is vastgesteld voor 1 januari van het kalenderjaar waarop de begroting betrekking heeft, is het College zorgverzekeringen bevoegd, teneinde zijn activiteiten gaande te houden, te beschikken over ten hoogste een derde gedeelte van het budget dat laatstelijk voor hem voor een geheel jaar is vastgesteld.   
-6.  Onze Minister kan besluiten dat het College zorgverzekeringen in een geval als bedoeld in het vijfde lid, kan beschikken over meer dan een derde gedeelte van het budget dat laatstelijk voor hem voor een geheel jaar is vastgesteld.   
-7.  Het door Onze Minister vastgestelde budget voor de beheerskosten van het College zorgverzekeringen wordt gedekt uit ’s Rijks kas.   
+3.  Het College zorgverzekeringen gaat met betrekking tot de beheerskosten geen verplichtingen aan en doet geen uitgaven die leiden tot overschrijding van het vastgestelde budget voor de beheerskosten.   
+4.  Indien het budget voor de beheerskosten niet is vastgesteld voor 1 januari van het kalenderjaar waarop de begroting betrekking heeft, is het College zorgverzekeringen bevoegd, teneinde zijn activiteiten gaande te houden, te beschikken over ten hoogste een derde gedeelte van het budget dat laatstelijk voor hem voor een geheel jaar is vastgesteld.   
+5.  Onze Minister kan besluiten dat het College zorgverzekeringen in een geval als bedoeld in het vierde lid, kan beschikken over meer dan een derde gedeelte van het budget dat laatstelijk voor hem voor een geheel jaar is vastgesteld.   
+6.  Het door Onze Minister vastgestelde budget voor de beheerskosten van het College zorgverzekeringen wordt gedekt uit ’s Rijks kas.   
 
 ### Artikel  73  
 
-1.  Het College zorgverzekeringen zendt jaarlijks voor 15 maart aan Onze Minister een jaarverantwoording over het afgelopen kalenderjaar, alsmede het verslag van bevindingen, bedoeld in het zesde lid.   
-2.  De jaarverantwoording omvat: 
-
-a. een jaarrekening, en  
-
-b. een jaarverslag omtrent het door het College zorgverzekeringen gevoerde beleid, de doeltreffendheid van dat beleid, de bedrijfsvoering en de uitvoering van het werkprogramma in het afgelopen kalenderjaar.     
-3.  Het College zorgverzekeringen legt in zijn jaarrekening, die zoveel mogelijk met overeenkomstige toepassing van [titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) wordt ingericht, rekening en verantwoording af over zijn beheerskosten en over de rechtmatigheid en doelmatigheid van het beheer in het afgelopen kalenderjaar.   
-4.  De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), die bereid is Onze Minister desgevraagd inzicht te geven in zijn controlewerkzaamheden.   
-5.  De verklaring heeft mede betrekking op de rechtmatige verkrijging en besteding van de middelen door het College zorgverzekeringen.   
-6.  De accountant voegt bij de verklaring een verslag van zijn bevindingen over de vraag of het beheer en de organisatie voldoen aan eisen van rechtmatigheid, ordelijkheid, controleerbaarheid en doelmatigheid.   
+1.  De in [artikel 26 van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) bedoelde begroting heeft betrekking op de beheerskosten van het College zorgverzekeringen.   
+2.  De in [artikel 34 van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) bedoelde jaarrekening van het College zorgverzekeringen heeft betrekking op de beheerskosten van het College zorgverzekeringen.   
+3.  Het in [artikel 18 van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) bedoelde jaarverslag van het College zorgverzekeringen heeft wat betreft de uitvoering van artikel 122a uitsluitend betrekking op de bedrijfsvoering ter zake.   
+4.  Onverminderd [artikel 35, vierde lid, van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) doet de accountant tevens verslag van zijn bevindingen over de vraag of het beheer en de organisatie van het College zorgverzekeringen voldoen aan de eisen van rechtmatigheid, ordelijkheid en controleerbaarheid.   
 
 ### Artikel  74  
 
@@ -1015,27 +982,30 @@ b. een jaarverslag omtrent het door het College zorgverzekeringen gevoerde belei
 
 ### Artikel  75  
 
-1.  De onderdelen «werkprogramma» en «begroting» van het jaarplan, bedoeld in artikel 71, het onderdeel «jaarrekening» van de jaarverantwoording, bedoeld in artikel 73, en de jaarrekening, bedoeld in artikel 74, behoeven de goedkeuring van Onze Minister.   
-2.  Het eerste lid geldt niet voor wijzigingen in een goedgekeurde begroting, mits: 
+1.  Het werkprogramma, bedoeld in artikel 71, de jaarrekeningen, bedoeld in de artikelen 74 en 122a, tiende lid, en de begroting, bedoeld in artikel 122a, zevende lid, behoeven de goedkeuring van Onze Minister.   
+2.  In afwijking van het eerste lid en van [artikel 29, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), behoeven wijzigingen in een goedgekeurde begroting geen goedkeuring van Onze Minister, mits: 
 
 a. de totale omvang van de begroting geen wijziging ondergaat, en  
 
 b. de wijziging per groep van kostensoorten en baten, gerekend over het desbetreffende begrotingsjaar, een bedrag van 5 procent van het in artikel 72 bedoelde budget niet te boven gaat.     
-3.  Bij ministeriële regeling kunnen regels worden gesteld over de inhoud en de inrichting van: 
+3.  Bij ministeriële regeling kunnen regels worden gesteld over: 
 
-a. het jaarplan, bedoeld in artikel 71;  
+a. de inhoud en de inrichting van het werkprogramma, bedoeld in artikel 71;  
 
-b. de jaarverantwoording, bedoeld in artikel 73;  
+b. de inhoud en de inrichting van de begrotingen, bedoeld in artikel 122a, zevende lid, alsmede in [artikel 26 van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md);  
 
-c. de jaarrekening, bedoeld in artikel 74;  
+c. de inhoud en de inrichting van de jaarrekeningen, bedoeld in de artikelen 74 en 122a, tiende lid, alsmede in [artikel 34 van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md);  
 
-d. de verklaringen, bedoeld in de artikelen 73, vierde lid, en 74, derde lid, de verslagen van bevindingen, bedoeld in artikel 73, zesde lid, en 74, vijfde lid, alsmede het aan die verklaringen en verslagen ten grondslag liggende onderzoek.     
+d. de inhoud en de inrichting van de jaarverslagen, bedoeld in de artikelen 74 en 122a, elfde lid, alsmede in [artikel 18 van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md);  
+
+e. de accountantscontrole van de jaarrekeningen van het College zorgverzekeringen;  
+
+f. de omvang van de egalisatiereserve, bedoeld in [artikel 33 van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).     
 4.  Bij ministeriële regeling worden regels gesteld over de wijze waarop en de voorwaarden waaronder het budget, bedoeld in artikel 72, wordt vastgesteld.   
 
 ### Artikel  76  
 
-1.  Na de goedkeuring, bedoeld in artikel 75, eerste lid, stelt het College zorgverzekeringen het jaarplan, de jaarverantwoording en de jaarrekening van het Zorgverzekeringsfonds algemeen verkrijgbaar.   
-2.  Onze Minister brengt zijn oordeel over het functioneren van het College zorgverzekeringen ter kennis van beide Kamers der Staten-Generaal.   
+Na de goedkeuring, bedoeld in artikel 75, eerste lid, en de goedkeuring, bedoeld in de [artikelen 29, eerste lid](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), en [34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), stelt het College zorgverzekeringen de in artikel 75, derde lid, onder a, b, c, en d, genoemde stukken algemeen verkrijgbaar.  
 
 ### Hoofdstuk  7  
 
@@ -1105,8 +1075,8 @@ e. in welke gevallen gegevens, bedoeld in het eerste of tweede lid, verder worde
 ### Artikel  91  
 
 1.  Het College zorgverzekeringen en de zorgautoriteit verstrekken Onze Minister uit eigen beweging inlichtingen over ontwikkelingen die ertoe leiden of kunnen leiden dat ten behoeve van verzekerden niet vrij kan worden gekozen tussen zorgverzekeraars en de door hen aangeboden varianten van de zorgverzekering of die een rechtmatige en volledige uitvoering van zorgverzekeringen jegens de verzekeringnemers of verzekerden in gevaar kunnen brengen.   
-2.  Het College zorgverzekeringen en de zorgautoriteit verstrekken desgevraagd aan Onze Minister, of aan het College bouw of het College sanering, bedoeld in de [Wet toelating zorginstellingen](../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), de voor de uitoefening van hun taak benodigde inlichtingen en gegevens.   
-3.  Het College zorgverzekeringen en de zorgautoriteit verlenen aan door Onze Minister of door een bestuursorgaan, bedoeld in het tweede lid, aangewezen personen toegang tot en inzage in zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.   
+2.  Het College zorgverzekeringen en de zorgautoriteit verstrekken desgevraagd aan het College bouw of het College sanering, bedoeld in de [Wet toelating zorginstellingen](../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), de voor de uitoefening van hun taak benodigde inlichtingen en gegevens.   
+3.  Het College zorgverzekeringen en de zorgautoriteit verlenen aan door een bestuursorgaan, bedoeld in het tweede lid, aangewezen personen toegang tot en inzage in zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.   
 
 ### Artikel  92  
 
@@ -1234,16 +1204,14 @@ a. 100% van de kosten die verband houden met zwangerschap en bevalling, en
 b. 80% van de kosten in de overige gevallen, voor zover deze kosten niet op grond van het derde lid zijn of kunnen worden betaald of buiten beschouwing dienen te blijven.     
 5.  In bijdragen als bedoeld in het eerste lid voor andere zorg dan de zorg, bedoeld in het vierde lid, wordt voorzien door middel van met het oog op verlening van die zorg tussen het College zorgverzekeringen en zorgaanbieders gesloten overeenkomsten.   
 6.  Indien een zorgaanbieder zowel in zorg als bedoeld in het vierde lid als in zorg als bedoeld in het vijfde lid kan voorzien, kan een overeenkomst als bedoeld in het vijfde lid zich tevens uitstrekken over de in het vierde lid bedoelde zorg en kunnen in die overeenkomst van het vierde lid afwijkende afspraken worden gemaakt.   
-7.  Het College zorgverzekeringen zendt jaarlijks voor 1 oktober aan Onze Minister een begroting van de kosten van de bijdragen, bedoeld in het eerste lid, voor het volgende kalenderjaar.   
+7.  Het College zorgverzekeringen zendt jaarlijks voor 1 oktober aan Onze Minister een begroting van de kosten van de bijdragen, bedoeld in het eerste lid, voor het volgende kalenderjaar. Indien gedurende het jaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke en de begrote baten en lasten, doet het College zorgverzekeringen daarvan onverwijld mededeling aan Onze Minister, onder vermelding van de oorzaak van de verschillen.   
 8.  Het voor de bijdragen in een kalenderjaar beschikbare bedrag wordt voor 1 december van het daaraan voorafgaande jaar door Onze Minister vastgesteld.   
 9.  Het bedrag, bedoeld in het achtste lid, wordt gedekt uit ’s Rijks kas en wordt door het College zorgverzekeringen afzonderlijk beheerd en geadministreerd.   
-10.  De artikelen 40, tweede tot en met elfde lid, 72, tweede tot en met zesde lid, 73 en 75, zijn van overeenkomstige toepassing.   
-11.  De zorgaanbieder die in aanmerking wenst te komen voor een bijdrage als bedoeld in dit artikel, verstrekt het College zorgverzekeringen of door dat College aangewezen, bij de uitvoering van dit artikel betrokken personen, bij ministeriële regeling te bepalen gegevens die noodzakelijk zijn om het recht op en de omvang van een bijdrage te kunnen vaststellen, dan wel stelt hem deze gegevens voor dit doel voor inzage of het nemen van afschrift ter beschikking.   
-12.  In afwijking van artikel 116 kan een zorgaanbieder tegen een op grond van dit artikel genomen besluit van het College zorgverzekeringen beroep instellen bij het College van Beroep voor het bedrijfsleven.   
-
-### Artikel  123  
-
-Bij algemene maatregel van bestuur kunnen, zo nodig in afwijking van deze wet, tijdelijke voorzieningen worden getroffen voor het geval het College zorgverzekeringen of de zorgautoriteit zijn uit de wet voortvloeiende verplichtingen niet naar behoren nakomt.  
+10.  Het College zorgverzekeringen zendt jaarlijks voor 15 maart aan Onze Minister een jaarrekening waarin het rekening en verantwoording aflegt over de verstrekte bijdragen, bedoeld in het eerste lid, in het afgelopen kalenderjaar.   
+11.  De jaarrekening, bedoeld in het tiende lid, wordt zoveel mogelijk ingericht met overeenkomstige toepassing van [titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en gaat vergezeld van een jaarverslag omtrent het door het College zorgverzekeringen gevoerde beleid bij het verstrekken van de in het eerste lid bedoelde bijdragen, de doeltreffendheid van dat beleid en de uitvoering van het werkprogramma ter zake in het afgelopen kalenderjaar.   
+12.  De artikelen 40, tweede tot en met elfde lid, 72, tweede tot en met vijfde lid, 74, derde, vierde en vijfde lid, en 75, vierde lid, zijn van overeenkomstige toepassing.   
+13.  De zorgaanbieder die in aanmerking wenst te komen voor een bijdrage als bedoeld in dit artikel, verstrekt het College zorgverzekeringen of door dat College aangewezen, bij de uitvoering van dit artikel betrokken personen, bij ministeriële regeling te bepalen gegevens die noodzakelijk zijn om het recht op en de omvang van een bijdrage te kunnen vaststellen, dan wel stelt hem deze gegevens voor dit doel voor inzage of het nemen van afschrift ter beschikking.   
+14.  In afwijking van artikel 116 kan een zorgaanbieder tegen een op grond van dit artikel genomen besluit van het College zorgverzekeringen beroep instellen bij het College van Beroep voor het bedrijfsleven.   
 
 ### Artikel  123a  
 

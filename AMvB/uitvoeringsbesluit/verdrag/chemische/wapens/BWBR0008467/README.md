@@ -140,7 +140,7 @@ c. informatie over verwachte veranderingen in de inrichting gedurende het jaar t
 
 ####(lijst-1-stoffen)
 
-Degene aan wie een ontheffing als bedoeld in artikel 3, vierde lid, onder b, van de wet is verleend stelt Onze Minister van iedere voorgenomen overdracht van stoffen van lijst 1 tenminste acht weken voor de overdracht in kennis. Voorts verstrekt hij jaarlijks voor 1 maart aan Onze Minister een opgave van de verrichte overdrachten van stoffen van lijst 1 gedurende het voorafgaande kalenderjaar. Van elke overgedragen stof worden daarbij vermeld: 
+Degene aan wie een ontheffing als bedoeld in [artikel 3, vierde lid, onder b, van de wet](../../../../../../wet/uitvoeringswet/verdrag/chemische/wapens/BWBR0007434/README.md) is verleend, verstrekt jaarlijks voor 1 maart aan Onze Minister een opgave van de verrichte overdrachten van stoffen van lijst 1 gedurende het voorafgaande kalenderjaar. Van elke overgedragen stof worden daarbij vermeld: 
 
 a. de chemische benaming, de structuurformule en het CAS-registratienummer, indien toegekend;  
 
@@ -257,8 +257,9 @@ b. meer dan 30 000 kg door middel van synthese verkregen, niet in lijst 1, lijs
 
 ####(lijst-1-stoffen)
 
-1.  Een aanvraag om een ontheffing als bedoeld in artikel 3, vierde lid, van de wet wordt ten minste zeven maanden voor de aanvang van de voorgenomen handeling ingediend.   
-2.  De aanvraag om een ontheffing als bedoeld in het eerste lid wordt ondertekend en bevat de volgende gegevens: 
+1.  Een aanvraag om een ontheffing als bedoeld in [artikel 3, vierde lid, onder a, van de wet](../../../../../../wet/uitvoeringswet/verdrag/chemische/wapens/BWBR0007434/README.md) wordt ten minste zeven maanden voor de aanvang van de voorgenomen handeling ingediend.   
+2.  Een aanvraag om ontheffing als bedoeld in [artikel 3, vierde lid, onder b, van de wet](../../../../../../wet/uitvoeringswet/verdrag/chemische/wapens/BWBR0007434/README.md) wordt ten minste drie maanden voor de aanvang van de voorgenomen handeling ingediend.   
+3.  De aanvraag om een ontheffing als bedoeld in het eerste lid wordt ondertekend en bevat de volgende gegevens: 
 
 a. naam en adres van de aanvrager;  
 
@@ -267,6 +268,21 @@ b. de dagtekening;
 c. het adres en de kadastrale aanduiding van de inrichting waarvoor de ontheffing wordt aangevraagd;  
 
 d. een technische beschrijving van de inrichting.     
+4.  Een aanvraag om ontheffing als bedoeld in het tweede lid bevat de volgende gegevens: 
+
+a. naam en adres van de aanvrager;  
+
+b. de dagtekening;  
+
+c. naam en adres van de ontvanger;  
+
+d. de chemische benaming, de door de inrichting gehanteerde gangbare benaming of de handelsnaam, de structuurformule en, indien toegekend, het CAS-registratienummer van de over te dragen stof;  
+
+e. de hoeveelheid over te dragen stof;  
+
+f. de geplande datum van overdracht en  
+
+g. het doeleinde waarvoor de stof wordt overgedragen.     
 
 ### HOOFDSTUK  5  
 

@@ -1647,7 +1647,7 @@ d) Notwithstanding paragraph a), any text matter contained in the sequence listi
 12.1ter.   *Language of Indications Furnished under Rule 13bis.4*  Any indication in relation to deposited biological material furnished under Rule 13 *bis*.4 shall be in the language in which the international application is filed, provided that, where a translation of the international application is required under Rule 12.3a) or 12.4a), any such indication shall be furnished in both the language in which the application is filed and the language of that translation.   
 12.2.   *Language of Changes in the International Application*  
 
-a) Any amendment of the international application shall, subject to Rules 46.3, 55.3 and 66.9, be in the language in which the application is filed.  
+a) Any amendment of the international application shall, subject to Rules 46.3 and 55.3, be in the language in which the application is filed.  
 
 b) Any rectification under Rule 91.1 of an obvious mistake in the international application shall be in the language in which the application is filed, provided that: 
 
@@ -2953,7 +2953,7 @@ b) Where the language in which the international application is published is dif
 
 (h) If, at the time of the completion of the technical preparations for international publication, the time limit for amending the claims under Article 19 has not expired, the front page shall refer to that fact and indicate that, should the claims be amended under Article 19, then, promptly after receipt by the International Bureau of such amendments within the time limit under Rule 46.1, the full text of the claims as amended will be published together with a revised front page. If a statement under Article 19(1) has been filed, that statement shall be published as well, unless the International Bureau finds that the statement does not comply with the provisions of Rule 46.4.  
 
-(i) If the authorization of a rectification of an obvious mistake in the international application referred to in Rule 91.1 is received by or, where applicable, given by the International Bureau after completion of the technical preparations for international publication, a statement reflecting all the rectifications shall be published, together with the sheets containing the rectifications, or the replacement sheets and the letter furnished under Rule 91.2, as the case may be, and the front page shall be republished.  
+(i) If the authorization by the receiving Office, the International Searching Authority or the International Bureau of a rectification of an obvious mistake in the international application under Rule 91.1 is received by or, where applicable, given by the International Bureau after completion of the technical preparations for international publication, a statement reflecting all the rectifications shall be published, together with the sheets containing the rectifications, or the replacement sheets and the letter furnished under Rule 91.2, as the case may be, and the front page shall be republished.  
 
 (j) If, at the time of completion of the technical preparations for international publication, a request under Rule 26 *bis*.3 for restoration of the right of priority is still pending, the published international application shall contain, in place of the decision by the receiving Office upon that request, an indication to the effect that such decision was not available and that the decision, when it becomes available, will be separately published.  
 
@@ -3003,11 +3003,11 @@ b) Where the language in which the international application is published is dif
 49.4.   *Use of National Form*  No applicant shall be required to use a national form when performing the acts referred to in Article 22.   
 49.5.   *Contents of and Physical Requirements for the Translation*  
 
-(a) For the purposes of Article 22, the translation of the international application shall contain the description (subject to paragraph a- *bis*)), the claims, any text matter of the drawings and the abstract. If required by the designated Office, the translation shall also, subject to paragraphs b), c- *bis*) and e), 
+(a) For the purposes of Article 22, the translation of the international application shall contain the description (subject to paragraph (a- *bis*)), the claims, any text matter of the drawings and the abstract. If required by the designated Office, the translation shall also, subject to paragraphs (b), (c- *bis*) and (e), 
 
 (i) contain the request,  
 
-(ii) if the claims have been amended under Article 19, contain both the claims as filed and the claims as amended, and  
+(ii) if the claims have been amended under Article 19, contain both the claims as filed and the claims as amended (the claims as amended shall be furnished in the form of a translation of the complete set of claims furnished under Rule 46.5(a) in replacement of all the claims originally filed), and  
 
 (iii) be accompanied by a copy of the drawings.    
 
@@ -3019,7 +3019,7 @@ b) Where the language in which the international application is published is dif
 
 (c-bis) Where the applicant furnishes, to a designated Office which requires under paragraph (a)(ii) a translation of both the claims as filed and the claims as amended, only one of the required two translations, the designated Office may disregard the claims of which a translation has not been furnished or invite the applicant to furnish the missing translation within a time limit which shall be reasonable under the circumstances and shall be fixed in the invitation. Where the designated Office chooses to invite the applicant to furnish the missing translation and the latter is not furnished within the time limit fixed in the invitation, the designated Office may disregard those claims of which a translation has not been furnished or consider the international application withdrawn.  
 
-(d) If any drawing contains text matter, the translation of that text matter shall be furnished either in the form of a copy of the original drawing with the translation pasted on the original text matter or in'the form of a drawing executed anew.  
+(d) If any drawing contains text matter, the translation of that text matter shall be furnished either in the form of a copy of the original drawing with the translation pasted on the original text matter or in the form of a drawing executed anew.  
 
 (e) Any designated Office requiring under paragraph (a) the furnishing of a copy of the drawings shall, where the applicant failed to furnish such copy within the time limit applicable under Article 22, invite the applicant to furnish such copy within a time limit which shall be reasonable under the circumstances and shall be fixed in the invitation.  
 
@@ -3270,9 +3270,9 @@ b) Where two or more applicants file a demand which elects a State whose nationa
 (ii) the applicant concerned did not sign the request but the requirements of Rule 4.15(b) were complied with.       
 53.9.   *Statement Concerning Amendments*  
 
-a) If amendments under Article 19 have been made, the statement concerning amendments shall indicate whether, for the purposes of the international preliminary examination, the applicant wishes those amendments. 
+a) If amendments under Article 19 have been made, the statement concerning amendments shall indicate whether, for the purposes of the international preliminary examination, the applicant wishes those amendments: 
 
-(i) to be taken into account, in which case a copy of the amendments shall preferably be submitted with the demand, or  
+(i) to be taken into account, in which case a copy of the amendments and of the letter required under Rule 46.5(b) shall preferably be submitted with the demand; or  
 
 (ii) to be considered as reversed by an amendment under Article 34.    
 
@@ -3329,13 +3329,19 @@ b) Where a translation of the international application into a language referred
 c) If a requirement referred to in paragraphs a), (a- *bis*) and (a- *ter*) is not complied with and paragraph b) does not apply, the International Preliminary Examining Authority shall invite the applicant to furnish the required translation or the required correction, as the case may be, within a time limit which shall be reasonable under the circumstances. That time limit shall not be less than one month from the date of the invitation. It may be extended by the International Preliminary Examining Authority at any time before a decision is taken.  
 
 d) If the applicant complies with the invitation within the time limit under paragraph c), the said requirement shall be considered to have been complied with. If the applicant fails to do so, the demand shall be considered not to have been submitted and the International Preliminary Examining Authority shall so declare.     
-55.3.   *Translation of Amendments*  
+55.3.   *Language and Translation of Amendments and Letters*  
 
-a) Where a translation of the international application is required under Rule 55.2, any amendments which are referred to in the statement concerning amendments under Rule 53.9 and which the applicant wishes to be taken into account for the purposes of the international preliminary examination, and any amendments under Article 19 which are to be taken into account under Rule 66.1.c), shall be in the language of that translation. Where such amendments have been or are filed in another language, a translation shall also be furnished.  
+(a) Subject to paragraph (b), if the international application has been filed in a language other than the language in which it is published, any amendment under Article 34, as well as any letter referred to in Rule 66.8(a), Rule 66.8(b) and Rule 46.5(b) as applicable by virtue of Rule 66.8(c), shall be submitted in the language of publication.  
 
-b) Where the required translation of an amendment referred to in paragraph a) is not furnished, the International Preliminary Examining Authority shall invite the applicant to furnish the missing translation within a time limit which shall be reasonable under the circumstances. That time limit shall not be less than one month from the date of the invitation. It may be extended by the International Preliminary Examining Authority at any time before a decision is taken.  
+(b) Where a translation of the international application is required under Rule 55.2: 
 
-c) If the applicant fails to comply with the invitation within the time limit under paragraph b), the amendment shall not be taken into account for the purposes of the international preliminary examination.     
+(i) any amendment and any letter referred to in paragraph (a); and  
+
+(ii) any amendment under Article 19 which is to be taken into account under Rule 66.1(c) or (d) and any letter referred to in Rule 46.5(b);   shall be in the language of that translation. Where such amendments or letters have been or are submitted in another language, a translation shall also be submitted.  
+
+(c) If an amendment or letter is not submitted in a language as required under paragraph (a) or (b), the International Preliminary Examining Authority shall invite the applicant to submit the amendment or letter in the required language within a time limit which shall be reasonable under the circumstances. That time limit shall not be less than one month from the date of the invitation. It may be extended by the International Preliminary Examining Authority at any time before a decision is taken.  
+
+(d) If the applicant fails to comply, within the time limit under paragraph (c), with the invitation to furnish an amendment in the required language, the amendment shall not be taken into account for the purposes of the international preliminary examination. If the applicant fails to comply, within the time limit under paragraph (c), with the invitation to furnish a letter referred to in paragraph (a) in the required language, the amendment concerned need not be taken into account for the purposes of the international preliminary examination.     
 
 ### Rule  57  
 
@@ -3492,14 +3498,14 @@ g) Where the statement concerning amendments contains an indication that amendme
 
 ### Rule  62  
 
-####Copy of the Written Opinion by the International Searching Authority and of Amendments Under Article 19 for the International Preliminary Examining Authority
+####Copy of the Written Opinion by the International Searching Authority and of Amendments under Article 19 for the International Preliminary Examining Authority
 
-62.1.   *Copy of Written Opinion by International Searching Authority and of Amendments Made Before the Demand Is Filed*  Upon receipt of a demand, or a copy thereof, from the International Preliminary Examining Authority, the International Bureau shall promptly transmit to that Authority: 
+62.1.   *Copy of Written Opinion by International Searching Authority and of Amendments Made before the Demand Is Filed*  Upon receipt of a demand, or a copy thereof, from the International Preliminary Examining Authority, the International Bureau shall promptly transmit to that Authority: 
 
 (i) a copy of the written opinion established under Rule 43 *bis*.1, unless the national Office or intergovernmental organization that acted as International Searching Authority is also acting as International Preliminary Examining Authority; and  
 
-(ii) a copy of any amendment under Article 19, and any statement referred to in that Article, unless that Authority has indicated that it has already received such a copy.     
-62.2.   *Amendments Made After the Demand is Filed*  If, at the time of filing any amendments under Article 19, a demand has already been submitted, the applicant shall preferably, at the same time as he files the amendments with the International Bureau, also file with the International Preliminary Examining Authority a copy of such amendments and any statement referred to in that Article. In any case, the International Bureau shall promptly transmit a copy of such amendments and statement to that Authority.   
+(ii) a copy of any amendment under Article 19, any statement referred to in that Article, and the letter required under Rule 46.5(b), unless that Authority has indicated that it has already received such a copy.     
+62.2.   *Amendments Made after the Demand Is Filed*  If, at the time of filing any amendments under Article 19, a demand has already been submitted, the applicant shall preferably, at the same time as he files the amendments with the International Bureau, also file with the International Preliminary Examining Authority a copy of such amendments, any statement referred to in that Article and the letter required under Rule 46.5(b). In any case, the International Bureau shall promptly transmit a copy of such amendments, statement and letter to that Authority.   
 
 ### Rule  62bis  
 
@@ -3556,7 +3562,7 @@ c) The applicant may make written observations as to the correctness of the tran
 
 ### Rule  66  
 
-####Procedure Before the International Preliminary Examining Authority
+####Procedure before the International Preliminary Examining Authority
 
 66.1.   *Basis of the International Preliminary Examination*  
 
@@ -3596,7 +3602,7 @@ d) A written opinion established by the International Searching Authority under 
 
 (vi) considers that a claim relates to an invention in respect of which no international search report has been established and has decided not to carry out the international preliminary examination in respect of that claim, or  
 
-(vii) considers that a nucleotide and/or amino acid sequence listing is not available to it in such a form that a meaningful interna tional preliminary examination can be carried out,   the said Authority shall notify the applicant accordingly in writing. Where the national law of the national Office acting as International Preliminary Examining Authority does not allow multiple dependent claims to be drafted in a manner different from that provided for in the second and third sentences of Rule 6.4(a), the International Preliminary Examining Authority may, in case of failure to use that manner of claiming, apply Article 34(4)(b). In such case, it shall notify the applicant accordingly in writing.  
+(vii) considers that a nucleotide and/or amino acid sequence listing is not available to it in such a form that a meaningful international preliminary examination can be carried out,   the said Authority shall notify the applicant accordingly in writing. Where the national law of the national Office acting as International Preliminary Examining Authority does not allow multiple dependent claims to be drafted in a manner different from that provided for in the second and third sentences of Rule 6.4(a), the International Preliminary Examining Authority may, in case of failure to use that manner of claiming, apply Article 34(4)(b). In such case, it shall notify the applicant accordingly in writing.  
 
 (b) The notification shall fully state the reasons for the opinion of the International Preliminary Examining Authority.  
 
@@ -3630,15 +3636,6 @@ a) Subject to paragraph (b), when amending the description or the drawings, the 
 b) Where the amendment consists in the deletion of passages or in minor alterations or additions, the replacement sheet referred to in paragraph a) may be a copy of the relevant sheet of the international application containing the alterations or additions, provided that the clarity and direct reproducibility of that sheet are not adversely affected. To the extent that any amendment results in the cancellation of an entire sheet, that amendment shall be communicated in a letter which shall preferably also explain the reasons for the amendment.  
 
 c) When amending the claims, Rule 46.5 shall apply *mutatis mutandis*. The set of claims submitted under Rule 46.5 as applicable by virtue of this paragraph shall replace all the claims originally filed or previously amended under Articles 19 or 34, as the case may be.     
-66.9.   *Language of Amendments*  
-
-a) Subject to paragraphs b) and c), if the international application has been filed in a language other than the language in which it is published, any amendment, as well as any letter referred to in Rule 66.8, shall be submitted in the language of publication.  
-
-b) If the international preliminary examination is carried out, pursuant to Rule 55.2, on the basis of a translation of the international application, any amendment, as well as any letter referred to in paragraph a), shall be submitted in the language of that translation.  
-
-c) Subject to Rule 55.3, if an amendment or letter is not submitted in a language as required under paragraph a) or b), the International Preliminary Examining Authority shall, if practicable having regard to the time limit for establishing the international preliminary examination report, invite the applicant to furnish the amendment or letter in the required language within a time limit which shall be reasonable under the circumstances.  
-
-d) If the applicant fails to comply, within the time limit under paragraph c), with the invitation to furnish an amendment in the required language, the amendment shall not be taken into account for the purposes of the international preliminary examination. If the applicant fails to comply, within the time limit under paragraph c), with the invitation to furnish a letter referred to in paragraph a) in the required language, the amendment concerned need not be taken into account for the purposes of the international preliminary examination.     
 
 ### Rule  67  
 
@@ -3736,7 +3733,7 @@ e) Where the statement concerning amendments contains an indication that amendme
 
 (c) If the International Preliminary Examining Authority considers that any amendment goes beyond the disclosure in the international appliation as filed, the report shall be established as if such amendment had not been made, and the report shall so indicate. It shall also indicate the reasons why it considers that the amendment goes beyond the said disclosure.  
 
-(c-bis) If the claims, description or drawings have been amended but the replacement sheet or sheets were not accompanied by a letter indicating the basis for the amendment in the application as filed, as required under Rule 46.5(b)(iii) as applicable by virtue of Rule 66.8(c), or Rule 66.8(a), as applicable, the report may be established as if the amendment had not been made, in which case the report shall so indicate.  
+(c-bis) If the claims, description or drawings have been amended but the replacement sheet or sheets were not accompanied by a letter indicating the basis for the amendment in the application as filed, as required under Rule 46.5(b)(iii), Rule 46.5(b)(iii) being applicable by virtue of Rule 66.8(c), or Rule 66.8(a), as applicable, the report may be established as if the amendment had not been made, in which case the report shall so indicate.  
 
 (d) Where claims relate to inventions in respect of which no international search report has been established and have therefore not been the subject of international preliminary examination, the international preliminary examination report shall so indicate.  
 
@@ -3769,7 +3766,7 @@ e) Where the statement concerning amendments contains an indication that amendme
 (ii) explanations shall be given whenever the statement is positive unless the reason for citing any document is easy to imagine on the basis of consultation of the cited document;  
 
 (iii) generally, explanations shall be given if the case provided for in the last sentence of Rule 70.6 *(b)* obtains.     
-70.9.   *Non- Written Disclosures*  Any non-written disclosure referred to in the report by virtue of Rule 64.2 shall be mentioned by indicating its kind, the date on which the written disclosure referring to the non-written disclosure was made available to the public, and the date on which the non-written disclosure occurred in public.   
+70.9.   *Non-Written Disclosures*  Any non-written disclosure referred to in the report by virtue of Rule 64.2 shall be mentioned by indicating its kind, the date on which the written disclosure referring to the non-written disclosure was made available to the public, and the date on which the non-written disclosure occurred in public.   
 70.10.   *Certain Published Documents*  Any published application or any patent referred to in the report by virtue of Rule 64.3 shall be mentioned as such and shall be accompanied by an indication of its date of publication, of its filing date, and its claimed priority date (if any). In respect of the priority date of any such document, the report may indicate that, in the opinion of the International Preliminary Examining Authority, such date has not been validly claimed.   
 70.11.   *Mention of Amendments*  If, before the International Preliminary Examining Authority, amendments have been made, this fact shall be indicated in the report. Where any amendment has resulted in the cancellation of an entire sheet, this fact shall so also be specified in the report.   
 70.12.   *Mention of Certains Defects and Other Matters*  If the International Preliminary Examining Authority considers that, at the time it prepares the report: 
@@ -3790,12 +3787,21 @@ a) The physical requirements as to the form of the report shall be prescribed by
 b) The report shall bear the title “international preliminary report on patentability (Chapter II of the Patent Cooperation Treaty)” together with an indication that it is the international preliminary examination report established by the International Preliminary Examining Authority.     
 70.16.   *Annexes to the Report*  
 
-a) Each replacement sheet under Rule 66.8(a) or (b) shall, unless superseded by later replacement sheets under Rule 66.8(a) or (b) or amendments resulting in the cancellation of entire sheets under Rule 66.8(b), be annexed to the report.  
+(a) The following replacement sheets and letters shall be annexed to the report: 
 
-a-bis) Replacement sheets under Rule 46.5(a) shall, unless superseded or considered as reversed by replacement sheets under Rule 66.8(c), be annexed to the report. Replacement sheets under Rule 66.8(c) shall, unless superseded by later replacement sheets under Rule 66.8(c), be annexed to the report. Letters under Rule 46.5(b) or Rule 66.8(a) or (c) shall not be annexed to the report.  
+(i) each replacement sheet under Rule 66.8 containing amendments under Article 34 and each letter under Rule 66.8(a), Rule 66.8(b) and Rule 46.5(b) as applicable by virtue of Rule 66.8(c);  
 
-b) Notwithstanding paragraphs (a) and (a- *bis*), each superseded or reversed replacement sheet referred to in those paragraphs shall also be annexed to the report where the International Preliminary Examining Authority considers that the relevant superseding or reversing amendment goes beyond the disclosure in the international application as filed and the report contains an indication referred to in Rule 70.2(c). In such a case, the superseded or reversed replacement sheet shall be marked as provided by the Administrative Instructions.     
-70.17.   *Languages of the Report and the Annexes*  The report and any annex shall be in the language in which the international application to which they relate is published, or, if the international preliminary examination is carried out, pursuant to Rule 55.2, on the basis of a translation of the international application, in the language of that translation.   
+(ii) each replacement sheet under Rule 46.5 containing amendments under Article 19 and each letter under Rule 46.5; and  
+
+(iii) each replacement sheet under Rule 26.4 as applicable by virtue of Rule 91.2 containing a rectification of an obvious mistake authorized by that Authority under Rule 91.1(b)(iii) and each letter under Rule 26.4 as applicable by virtue of Rule 91.2;   unless any such replacement sheet has been superseded or considered reversed by a later replacement sheet or an amendment resulting in the cancellation of an entire sheet under Rule 66.8(b); and 
+
+(iv) where the report contains an indication referred to in Rule 70.2(e), any sheet and letter relating to a rectification of an obvious mistake which is not taken into account pursuant to Rule 66.4 *bis*.    
+
+(b) Notwithstanding paragraph (a), each superseded or reversed replacement sheet referred to in that paragraph and any letter referred to in that paragraph relating to such superseded or reversed sheet shall also be annexed to the report where: 
+
+(i) the International Preliminary Examining Authority considers that the relevant superseding or reversing amendment goes beyond the disclosure in the international application as filed and the report contains an indication referred to in Rule 70.2(c);  
+
+(ii) the relevant superseding or reversing amendment was not accompanied by a letter indicating the basis for the amendment in the application as filed and the report is established as if the amendment had not been made and contains an indication referred to in Rule 70.2(c- *bis*).   In such a case, the superseded or reversed replacement sheet shall be marked as provided by the Administrative Instructions.     
 
 ### Rule  71  
 
@@ -4312,7 +4318,7 @@ f) A designated Office may disregard a rectification that was authorized under R
 (c) Where non-compliance with the requirements provided for in paragraph (a) has been overlooked and the paper taken into account in the international procedure, the non-compliance shall be disregarded.     
 92.2.   *Languages*  
 
-(a) Subject to Rules 55.1 and 66.9 and to paragraph b) of this Rule, any letter or document submitted by the applicant to the International Searching Authority or the International Preliminary Examining Authority shall be in the same language as the international application to which it relates. However, where a translation of the international application has been transmitted under Rule 23.1b) or furnished under Rule 55.2, the language of such translation shall be used.  
+(a) Subject to Rules 55.1 and 55.3 and to paragraph (b) of this Rule, any letter or document submitted by the applicant to the International Searching Authority or the International Preliminary Examining Authority shall be in the same language as the international application to which it relates. However, where a translation of the international application has been transmitted under Rule 23.1(b) or furnished under Rule 55.2, the language of such translation shall be used.  
 
 (b) Any letter from the applicant to the International Searching Authority or the International Preliminary Examining Authority may be in a language other than that of the international application, provided the said Authority authorizes the use of such language.  
 

@@ -229,6 +229,11 @@ a. de disciplinaire maatregel, bedoeld in [artikel 46c, eerste lid](../../../../
 
 b. het in [artikel 46c, eerste lid, onderdeel b](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), genoemde verbod zich in een onderhoud of een gesprek in te laten met partijen of haar advocaten of gemachtigden of een bijzondere inlichting of schriftelijk stuk van hen aan te nemen niet op de leden van de Commissie van toepassing is.     
 5.  De benoeming van de leden en van de plaatsvervangende leden geschiedt voor een tijdvak van ten hoogste zes jaar. Herbenoeming is terstond mogelijk. Op eigen verzoek worden zij door de Minister van Justitie ontslagen.   
+6.  De [artikelen 13a tot en met 13g van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) zijn van overeenkomstige toepassing ten aanzien van gedragingen van de leden van de Commissie, met dien verstande dat: 
+
+a. voor de overeenkomstige toepassing van die artikelen onder «het betrokken gerechtsbestuur» wordt verstaan: de voorzitter van de Commissie; en  
+
+b. voor de overeenkomstige toepassing van [artikel 13b, eerste lid, onderdelen b en c](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), onder «overeenkomstig [artikel 26](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) of [75](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) een klacht» wordt verstaan: een klacht.     
 
 ### Artikel  17  
 

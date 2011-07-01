@@ -59,7 +59,7 @@ b. een tewerkstellingsvergunning als bedoeld in [artikel 2, eerste lid, van de W
 ### Artikel  4  
 
 1.  De Minister van Verkeer en Waterstaat beslist op aanvraag van een tachograafkaart binnen 6 weken nadat de vergoeding voor het in behandeling nemen van de aanvraag is ontvangen.   
-2.  Voor het in behandeling nemen van een aanvraag voor een tachograafkaart wordt een vergoeding in rekening gebracht van € 80,– per tachograafkaart.   
+2.  Voor het in behandeling nemen van een aanvraag voor een tachograafkaart wordt een vergoeding in rekening gebracht van € 93,– per tachograafkaart.   
 
 ### Artikel  5  
 

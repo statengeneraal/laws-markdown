@@ -15,7 +15,7 @@ Besluiten: Vast te stellen de [volgende regeling ter uitvoering van de Wet openb
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. de wet:  de [Wet openbaarheid van bestuur](../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) (Stb. 1991, 703);    b. de Minister:  de Minister van Financiën;    c. de Staatssecretaris:  de Staatssecretaris van Financiën;    d. de secretaris-generaal:  de secretaris-generaal van het Ministerie van Financiën;    e. informatiepunt:  een persoon of een plaats binnen het Ministerie en binnen de daaronder ressorterende instellingen, diensten of bedrijven, bij wie onderscheidenlijk waar informatie kan worden verkregen;    f. gemachtigd ambtenaar:  een ambtenaar die door de Minister of de Staatssecretaris tot het beslissen over verzoeken om informatie is gemachtigd;    g. eenheid Voorlichting en Communicatie:  eenheid Voorlichting en Communicatie van de directie Bedrijfsvoering en Communicatie van het Ministerie van Financiën;    h. eenheid Documentatie en Informatie:  de eenheid Documentatie en Informatie van de directie bedrijfsvoering en Communicatie van het Ministerie van Financiën;    i. directie Bestuurlijke en Juridische Zaken:  de directie Bestuurlijke en Juridische Zaken van het Ministerie van Financiën;    j. directoraat-generaal Belastingdienst:  het directoraat-generaal Belastingdienst van het Ministerie van Financiën;    k. managementteam Belastingdienst van het DG Belastingdienst:  het managementteam van het directoraat-generaal Belastingdienst;    l. team Juridische Zaken:  team Juridische Zaken van het directoraat-generaal Belastingdienst;    m. de Belastingdienst:  de dienst zoals genoemd in [artikel 2, eerste lid van de uitvoeringsregeling Belastingdienst 2003](../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md);    n. de organisatieonderdelen van de Belastingdienst:  de organisatieonderdelen, genoemd in [artikel 3, eerste lid van de Uitvoeringsregeling Belastingdienst 2003](../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md);    o. de voorzitters van de managementteams en de algemeen directeur van de Belastingdienst/Douane:  de voorzitters van de managementteams en de algemeen directeur van de Belastingdienst/Douane van de in [artikel 3, eerste lid van de uitvoeringsregeling Belastingdienst 2003](../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) genoemde organisatieonderdelen van de Belastingdienst.     
+In deze regeling wordt verstaan onder:   a. de wet:  de [Wet openbaarheid van bestuur](../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md);    b. de Minister:  de Minister van Financiën;    c. de Staatssecretaris:  de Staatssecretaris van Financiën;    d. de secretaris-generaal:  de secretaris-generaal van het Ministerie van Financiën;    e. informatiepunt:  een persoon of een plaats binnen het Ministerie en binnen de daaronder ressorterende instellingen, diensten of bedrijven, bij wie onderscheidenlijk waar informatie kan worden verkregen;    f. gemachtigd ambtenaar:  een ambtenaar die door de Minister of de Staatssecretaris tot het beslissen over verzoeken om informatie is gemachtigd;    g. directie Communicatie:  de directie Communicatie van het Ministerie van Financiën;    h. eenheid Documentatie en Informatie:  de eenheid Documentatie en Informatie van de directie Bedrijfsvoering van het Ministerie van Financiën;    i. directie Bestuurlijke en Juridische Zaken:  de directie Bestuurlijke en Juridische Zaken van het Ministerie van Financiën;    j. directoraat-generaal Belastingdienst:  het directoraat-generaal Belastingdienst van het Ministerie van Financiën;    k. managementteam Belastingdienst van het DG Belastingdienst:  het managementteam van het directoraat-generaal Belastingdienst;    l. cluster Beleid:  het cluster Beleid van het directoraat-generaal Belastingdienst;    m. de Belastingdienst:  de dienst, genoemd in [artikel 2, eerste lid van de Uitvoeringsregeling Belastingdienst 2003](../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md);    n. de organisatieonderdelen van de Belastingdienst:  de organisatieonderdelen, genoemd in [artikel 3, eerste lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md);    o. de directeuren en algemeen directeuren:  de directeuren en algemeen directeuren van de in [artikel 3, eerste lid, van de Uitvoeringsregeling Belastingdienst 2003](../../../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) genoemde organisatieonderdelen van de Belastingdienst.     
 
 ####Register
 
@@ -30,7 +30,7 @@ b. de niet-ambtelijke adviescommissies op het terrein van het Ministerie van Fin
 c. de zelfstandige bestuursorganen op het terrein van het Ministerie van Financiën.     
 2.  Het register vermeldt de namen, adressen en informatiepunten van de daarin opgenomen instellingen, diensten, en bedrijven, commissies en bestuursorganen.   
 3.  Het register ligt voor een ieder ter inzage bij de eenheid Documentatie en Informatie. Het register is tevens te raadplegen via de internetsite van het Ministerie van Financiën.   
-4.  De eenheid Voorlichting en Communicatie houdt het register bij.   
+4.  De directie Communicatie houdt het register bij.   
 
 ### Hoofdstuk  II  
 
@@ -40,7 +40,7 @@ c. de zelfstandige bestuursorganen op het terrein van het Ministerie van Financi
 
 ### Artikel  3  
 
-Het informatiepunt met betrekking tot verzoeken om informatie, andere dan die berust bij de Belastingdienst, is de eenheid Voorlichting en Communicatie.  
+Het informatiepunt met betrekking tot verzoeken om informatie, andere dan die berust bij de Belastingdienst, is de directie Communicatie.  
 
 ####Gemachtigd ambtenaar
 
@@ -67,18 +67,18 @@ Het informatiepunt met betrekking tot verzoeken om informatie, andere dan die be
 ### Artikel  6  
 
 1.  Met betrekking tot verzoeken om informatie die berust bij de Belastingdienst, zijn de organisatieonderdelen van de Belastingdienst de informatiepunten.   
-2.  In afwijking van het eerste lid is voor verzoeken van vertegenwoordigers van de media, van politieke en maatschappelijke organisaties, en van belangengroeperingen, om informatie die berust bij de Belastingdienst, de eenheid Voorlichting en Communicatie het informatiepunt.   
-3.  Met betrekking tot verzoeken om informatie die berust bij het directoraat-generaal Belastingdienst, is de eenheid Voorlichting en Communicatie het informatiepunt.   
+2.  In afwijking van het eerste lid is voor verzoeken van vertegenwoordigers van de media, van politieke en maatschappelijke organisaties, en van belangengroeperingen, om informatie die berust bij de Belastingdienst, de directie Communicatie het informatiepunt.   
+3.  Met betrekking tot verzoeken om informatie die berust bij het directoraat-generaal Belastingdienst, is de directie Communicatie het informatiepunt.   
 
 ####Gemachtigde ambtenaren
 
 ### Artikel  7  
 
-1.  Voor wat betreft de beslissing over verzoeken om informatie als bedoeld in artikel 6, eerste lid, van deze regeling, worden de voorzitters van de managementteams en de algemeen directeur als gemachtigde ambtenaren aangewezen.   
-2.  De in het eerste lid bedoelde voorzitters zijn bevoegd aan de leden van het desbetreffende managementteam ondermandaat te verlenen voor het nemen van de in het eerste lid bedoelde beslissingen. De in het eerste lid bedoelde algemeen directeur is bevoegd aan de overige directeuren bij Belastingdienst/Douane ondermandaat te verlenen voor het nemen van de in het eerste lid bedoelde beslissingen.    
-3.  De in het eerste lid bedoelde voorzitters en de algemeen directeur zijn gemachtigd tot de behandeling van procedures bij de rechtbanken inzake verzoeken om informatie als bedoeld in artikel 6, eerste lid, van deze regeling.   
-4.  De in het eerste lid bedoelde voorzitters en de algemeen directeur zijn bevoegd aan onder hen ressorterende ambtenaren ondermachtiging te verlenen tot de behandeling van procedures bij de rechtbanken.   
-5.  Indien na de in het derde lid bedoelde procedures hoger beroep wordt ingesteld, wordt het desbetreffende dossier ter verdere afdoening overgedragen aan het team Juridische Zaken.   
+1.  Voor wat betreft de beslissing over verzoeken om informatie als bedoeld in artikel 6, eerste lid, van deze regeling, worden de directeuren en algemeen directeuren als gemachtigde ambtenaren aangewezen.   
+2.  De in het eerste lid bedoelde directeuren en algemeen directeuren zijn bevoegd ondermandaat te verlenen voor het nemen van de in het eerste lid bedoelde beslissingen.    
+3.  De in het eerste lid bedoelde directeuren en algemeen directeuren zijn gemachtigd tot de behandeling van procedures bij de rechtbanken inzake verzoeken om informatie als bedoeld in artikel 6, eerste lid, van deze regeling.   
+4.  De in het eerste lid bedoelde directeuren en algemeen directeuren zijn bevoegd aan onder hen ressorterende ambtenaren ondermachtiging te verlenen tot de behandeling van procedures bij de rechtbanken.   
+5.  Indien na de in het derde lid bedoelde procedures hoger beroep wordt ingesteld, wordt het desbetreffende dossier ter verdere afdoening overgedragen aan het cluster Beleid.   
 
 ### Artikel  7a  
 

@@ -360,9 +360,9 @@ b. de inkomensvoorziening in natura verstrekken.
 
 Voor een jongere die alleenstaande is, is de norm per kalendermaand: 
 
-a. indien hij zich in de leeftijdscategorie van 18 jaar tot en met 20 jaar bevindt: € 220,01 per 1 januari 2011: € 227,00;  
+a. indien hij zich in de leeftijdscategorie van 18 jaar tot en met 20 jaar bevindt: € 220,01 per 1 juli 2011: € 228,04;  
 
-b. indien hij zich in de leeftijdscategorie van 21 jaar tot en met 26 jaar bevindt: € 636,69 per 1 januari 2011: € 656,93.    
+b. indien hij zich in de leeftijdscategorie van 21 jaar tot en met 26 jaar bevindt: € 636,69 per 1 juli 2011: € 659,93.    
 
 ### Artikel  27  
 
@@ -370,9 +370,9 @@ b. indien hij zich in de leeftijdscategorie van 21 jaar tot en met 26 jaar bevin
 
 Voor een jongere die alleenstaande ouder is, is de norm per kalendermaand: 
 
-a. indien hij zich in de leeftijdscategorie van 18 jaar tot en met 20 jaar bevindt: € 474,68 per 1 januari 2011: € 489,77;  
+a. indien hij zich in de leeftijdscategorie van 18 jaar tot en met 20 jaar bevindt: € 474,68 per 1 juli 2011: € 492,01;  
 
-b. indien hij zich in de leeftijdscategorie van 21 jaar tot en met 26 jaar bevindt: € 891,36 per 1 januari 2011: € 919,70.    
+b. indien hij zich in de leeftijdscategorie van 21 jaar tot en met 26 jaar bevindt: € 891,36 per 1 juli 2011: € 923,90.    
 
 ### Artikel  28  
 
@@ -380,18 +380,18 @@ b. indien hij zich in de leeftijdscategorie van 21 jaar tot en met 26 jaar bevin
 
 1.  Voor jongeren die gehuwd zijn en geen te hunnen laste komende kinderen hebben, is de norm per kalendermaand, indien het betreft: 
 
-a. gehuwden waarvan beide echtgenoten zich in de leeftijdscategorie van 18 tot en met 20 jaar bevinden: € 440,02 per 1 januari 2011: € 454,00;  
+a. gehuwden waarvan beide echtgenoten zich in de leeftijdscategorie van 18 tot en met 20 jaar bevinden: € 440,02 per 1 juli 2011: € 456,08;  
 
-b. gehuwden waarvan een echtgenoot zich in de leeftijdscategorie van 18 tot en met 20 jaar bevindt en de andere zich in de leeftijdscategorie van 21 tot en met 26 jaar bevindt: € 856,70 per 1 januari 2011: € 883,93;  
+b. gehuwden waarvan een echtgenoot zich in de leeftijdscategorie van 18 tot en met 20 jaar bevindt en de andere zich in de leeftijdscategorie van 21 tot en met 26 jaar bevindt: € 856,70 per 1 juli 2011: € 887,97;  
 
-c. gehuwden waarvan beide echtgenoten zich in de leeftijdscategorie van 21 tot en met 26 jaar bevinden: € 1 273,37 per januari 2011: € 1.313,85..     
+c. gehuwden waarvan beide echtgenoten zich in de leeftijdscategorie van 21 tot en met 26 jaar bevinden: € 1 273,37 per juli 2011: € 1.319,85..     
 2.  Voor jongeren die gehuwd zijn en een of meer te hunnen laste komende kinderen hebben, is de norm per kalendermaand, indien het betreft: 
 
-a. gehuwden waarvan beide echtgenoten zich in de leeftijdscategorie van 18 tot en met 20 jaar bevinden: € 694,69 per januari 2011: € 716,77;  
+a. gehuwden waarvan beide echtgenoten zich in de leeftijdscategorie van 18 tot en met 20 jaar bevinden: € 694,69 per juli 2011: € 720,05;  
 
-b. gehuwden waarvan een echtgenoot zich in de leeftijdscategorie van 18 tot en met 20 jaar bevindt en de andere zich in de leeftijdscategorie van 21 tot en met 26 jaar bevindt: € 1 111,37 per januari 2011: € 1.146,70;  
+b. gehuwden waarvan een echtgenoot zich in de leeftijdscategorie van 18 tot en met 20 jaar bevindt en de andere zich in de leeftijdscategorie van 21 tot en met 26 jaar bevindt: € 1 111,37 per juli 2011: € 1.151,94;  
 
-c. gehuwden waarvan beide echtgenoten zich in de leeftijdscategorie van 21 tot en met 26 jaar bevinden: € 1 273,37 per januari 2011: € 1.313,85..     
+c. gehuwden waarvan beide echtgenoten zich in de leeftijdscategorie van 21 tot en met 26 jaar bevinden: € 1 273,37 per juli 2011: € 1.319,85..     
 3.  Indien een van de gehuwden geen recht op inkomensvoorziening heeft, is voor de rechthebbende echtgenoot de norm gelijk aan de norm die voor hem als alleenstaande of als alleenstaande ouder zou gelden.   
 4.  In afwijking van het derde lid wordt, indien gehuwden een of meer te hunnen laste komende kinderen hebben en een van de gehuwden algemene bijstand op grond van de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) ontvangt, de op die gehuwde van toepassing zijnde bijstandsnorm in mindering gebracht op: 
 
@@ -405,9 +405,9 @@ b. de norm, bedoeld in het tweede lid, onderdeel c, indien de jongste echtgenoot
 
 1.  Bij een verblijf in een inrichting is de norm per kalendermaand, indien het betreft: 
 
-a. een jongere die alleenstaande of een alleenstaande ouder is: € 283,55 per 1 januari 2011: € 292,57;  
+a. een jongere die alleenstaande of een alleenstaande ouder is: € 283,55 per 1 juli 2011: € 293,92;  
 
-b. jongeren die gehuwd zijn: € 441,04 per 1 januari 2011: € 455,06.     
+b. jongeren die gehuwd zijn: € 441,04 per 1 juli 2011: € 457,15.     
 2.  Het bedrag van de norm, bedoeld in het eerste lid, wordt verhoogd: 
 
 a. voor een alleenstaande of een alleenstaande ouder met € 54,00 per 1 januari 2011: € 45,00;  
@@ -420,7 +420,7 @@ b. voor gehuwden met € 77,00 per 1 januari 2011: € 83,00.
 ####Verhoging norm alleenstaande (ouder)
 
 1.  Het college verhoogt de norm, bedoeld in de artikelen 26, onderdeel b, en 27, onderdeel b, met een toeslag voor zover de jongere hogere algemeen noodzakelijke kosten van het bestaan heeft dan waarin de norm voorziet, als gevolg van het niet of niet geheel kunnen delen van deze kosten met een ander.   
-2.  De toeslag bedraagt ten hoogste € 254,67 per 1 januari 2011: € 262,77 per kalendermaand.   
+2.  De toeslag bedraagt ten hoogste € 254,67 per 1 juli 2011: € 263,97 per kalendermaand.   
 
 ### Artikel  31  
 
@@ -1036,14 +1036,6 @@ b. in een gemeente woont die deelneemt aan het experiment dat op het moment van 
 
 c. op de dag voor de datum van inwerkingtreding van deze wet algemene bijstand ontvangt op grond van de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en deze algemene bijstand sindsdien onafgebroken ontvangt.     
 4.  Artikel 7, eerste lid, zoals dat luidde op de dag voor inwerkingtreding van [artikel I, onderdeel D, van het bij Koninklijke boodschap van 10 december 2009 ingediende voorstel van wet tot aanpassing van de Wet investeren in jongeren en enkele andere wetten ter verduidelijking en verbetering van enige punten](../../../../../../wet/wijzigingswet/wet/investeren/in/jongeren/enz./(verduidelijking/en/etc/BWBR0027779/README.md) (Kamerstukken 32 260) nadat dat tot wet is verheven, blijft tot en met die dag van toepassing met betrekking tot inkomen uit studiefinanciering of tegemoetkoming in de onderwijsbijdrage en de schoolkosten dat minder bedraagt dan het op grond van artikel 7, eerste lid, in aanmerking te nemen inkomen uit die bronnen.   
-
-### Artikel  86a  
-
-####Overgangsrecht in verband met de artikelen 23, eerste lid, onderdeel c , en 42, eerste lid, onderdeel h 
-
-1.  Ten aanzien van de jongere wiens recht op een werkleeraanbod voorafgaand aan de dag van inwerkingtreding van [artikel XII, onderdeel Aa, van de Verzamelwet SZW 2011](../../../../../../wet/verzamelwet/szw/2011/BWBR0029226/README.md), al is ingegaan en die zich op die dag onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, wordt voor de toepassing van artikel 23, eerste lid, onderdeel c, als eerste dag waarop hij zich aan de tenuitvoerlegging van die vrijheidsstraf of vrijheidsbenemende maatregel onttrekt, aangemerkt de dag van inwerkingtreding van artikel XII, onderdeel Aa, van de Verzamelwet SZW 2011, en eindigt het recht op een werkleeraanbod in afwijking van artikel 23, eerste lid, onderdeel c, vanaf de dag dat het onttrekken aan de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel zes maanden heeft geduurd.   
-2.  Ten aanzien van de jongere wiens recht op inkomensvoorziening voorafgaand aan de dag van inwerkingtreding van [artikel XII, onderdeel Ab, van de Verzamelwet SZW 2011](../../../../../../wet/verzamelwet/szw/2011/BWBR0029226/README.md), al is ingegaan en die zich op die dag onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, wordt voor de toepassing van artikel 42, eerste lid, onderdeel h, als eerste dag waarop hij zich aan de tenuitvoerlegging van die vrijheidsstraf of vrijheidsbenemende maatregel onttrekt, aangemerkt de dag van inwerkingtreding van artikel XII, onderdeel Ab, van de Verzamelwet SZW 2011, en eindigt het recht op inkomensvoorziening in afwijking van artikel 42, eerste lid, onderdeel h, vanaf de dag dat het onttrekken aan de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel zes maanden heeft geduurd.   
-3.  Dit artikel vervalt zes maanden na de dag van zijn inwerkingtreding.   
 
 ### Artikel  87  
 

@@ -20,7 +20,7 @@ a. de wet: [Wet op de kansspelen](../../../../../wet/wet/op/de/kansspelen/BWBR00
 
 b. de Minister: de Minister van Justitie;  
 
-c. vennootschap: besloten vennootschap met beperkte aansprakelijkheid Scientific Games Racing B.V., gevestigd te ’s-Gravenhage;  
+c. vennootschap: besloten vennootschap met beperkte aansprakelijkheid Sportech Racing B.V., gevestigd te ’s-Gravenhage;  
 
 d. college: College van toezicht op de kansspelen bedoeld in [artikel 33 van de wet](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);  
 
@@ -45,7 +45,7 @@ m. lokale pool: een pool waarin de weddenschappen in Nederland, die ten aanzien 
 ### Artikel  2  
 
 1.  Aan de vennootschap wordt voor de duur van vijf jaren, te rekenen vanaf 1 juli 2008 tot en met 30 juni 2013 vergunning verleend tot het organiseren van een totalisator.   
-2.  De vergunning wordt verleend onder de voorwaarde dat Scientific Games Corporation Inc. gevestigd in New York, USA, of een 100%-dochtervennootschap van Scientific Games Corporation Inc. enig aandeelhouder van de vennootschap is. Scientific Games Corporation Inc. is gehouden in te staan voor de nakoming van alle verplichtingen van de vennootschap onder de vergunning.   
+2.  De vergunning wordt verleend onder de voorwaarde dat Sportech Plc, gevestigd in Londen, UK of een 100%-dochter vennootschap van Sportech Plc enig aandeelhouder van de vennootschap is. Sportech Plc is gehouden in te staan voor de nakoming van alle verplichtingen van de vennootschap onder de vergunning.   
 3.  Aan de in het eerste lid bedoelde vergunning worden de in artikel 3 tot en met artikel 22 vervatte voorschriften verbonden, die zonodig kunnen worden gewijzigd of aangevuld.   
 
 ### Artikel  3  

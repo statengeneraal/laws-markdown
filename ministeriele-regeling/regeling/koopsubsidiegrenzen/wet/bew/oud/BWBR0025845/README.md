@@ -29,53 +29,53 @@ e. *tweepersoonsouderenhuishouden:* tweepersoonsouderenhuishouden als bedoeld in
 
 ### Artikel  2  
 
-De maximale inkomensgrenzen, bedoeld in [artikel 8, eerste lid, van de wet](../../../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md), zijn voor het tijdvak van 1 juli 2010 tot en met 30 juni 2011 voor: 
+De maximale inkomensgrenzen, bedoeld in [artikel 8, eerste lid, van de wet](../../../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md), zijn voor het tijdvak van 1 juli 2011 tot en met 30 juni 2012 voor: 
 
-a. een eenpersoonshuishouden: € 20 525;  
+a. een eenpersoonshuishouden: € 20 775;  
 
-b. een tweepersoonshuishouden: € 27 500;  
+b. een tweepersoonshuishouden: € 27 875;  
 
-c. een eenpersoonsouderenhuishouden: € 18 650, en  
+c. een eenpersoonsouderenhuishouden: € 18 875, en  
 
-d. een tweepersoonsouderenhuishouden: € 24 625.    
+d. een tweepersoonsouderenhuishouden: € 24 900.    
 
 ### Artikel  3  
 
-De maximale vermogensgrenzen, bedoeld in [artikel 9, eerste lid, onderdelen a, c respectievelijk d, van de wet](../../../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md), zijn voor het tijdvak van 1 juli 2010 tot en met 30 juni 2011: 
+De maximale vermogensgrenzen, bedoeld in [artikel 9, eerste lid, onderdelen a, c respectievelijk d, van de wet](../../../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md), zijn voor het tijdvak van 1 juli 2011 tot en met 30 juni 2012: 
 
-a. € 22 250 voor een eenpersoonshuishouden als de eigenaar-bewoner op de laatste dag van het eerste bijdragejaar van een driejaarstijdvak in de zin van de [wet](../../../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md) jonger is dan 65 jaar;  
+a. € 22 550 voor een eenpersoonshuishouden als de eigenaar-bewoner op de laatste dag van het eerste bijdragejaar van een driejaarstijdvak in de zin van de [wet](../../../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md) jonger is dan 65 jaar;  
 
-b. € 38 075 voor een eenpersoonshuishouden als de eigenaar-bewoner op de laatste dag van het eerste bijdragejaar van een driejaarstijdvak in de zin van de [wet](../../../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md) 65 jaar of ouder is, of een eenpersoonsouderenhuishouden, en  
+b. € 38 550 voor een eenpersoonshuishouden als de eigenaar-bewoner op de laatste dag van het eerste bijdragejaar van een driejaarstijdvak in de zin van de [wet](../../../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md) 65 jaar of ouder is, of een eenpersoonsouderenhuishouden, en  
 
-c. € 52 700 voor een tweepersoonshuishouden als de eigenaar-bewoner of degene die tot diens huishouden behoort op de laatste dag van het eerste bijdragejaar van een driejaarstijdvak in de zin van de [wet](../../../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md) 65 jaar of ouder is, of een tweepersoonsouderenhuishouden.    
+c. € 53 375 voor een tweepersoonshuishouden als de eigenaar-bewoner of degene die tot diens huishouden behoort op de laatste dag van het eerste bijdragejaar van een driejaarstijdvak in de zin van de [wet](../../../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md) 65 jaar of ouder is, of een tweepersoonsouderenhuishouden.    
 
 ### Artikel  4  
 
-De minimaal vereiste inkomens, bedoeld in [artikel 11, eerste lid, onderdeel b, van de wet](../../../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md), zijn voor het tijdvak van 1 juli 2010 tot en met 30 juni 2011 voor: 
+De minimaal vereiste inkomens, bedoeld in [artikel 11, eerste lid, onderdeel b, van de wet](../../../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md), zijn voor het tijdvak van 1 juli 2011 tot en met 30 juni 2012 voor: 
 
-a. een eenpersoonshuishouden: € 14 225;  
+a. een eenpersoonshuishouden: € 14 450;  
 
-b. een tweepersoonshuishouden: € 18 125;  
+b. een tweepersoonshuishouden: € 18 450;  
 
-c. een eenpersoonsouderenhuishouden: € 14 400, en  
+c. een eenpersoonsouderenhuishouden: € 14 550, en  
 
-d. een tweepersoonsouderenhuishouden: € 18 500.    
+d. een tweepersoonsouderenhuishouden: € 18 700.    
 
 ### Artikel  5  
 
-Het minimum-inkomensijkpunt, bedoeld in [artikel 28 van de wet](../../../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md), is voor het tijdvak van 1 juli 2010 tot en met 30 juni 2011 voor: 
+Het minimum-inkomensijkpunt, bedoeld in [artikel 28 van de wet](../../../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md), is voor het tijdvak van 1 juli 2011 tot en met 30 juni 2012 voor: 
 
-a. een eenpersoonshuishouden: € 14 225;  
+a. een eenpersoonshuishouden: € 14 450;  
 
-b. een tweepersoonshuishouden: € 18 125;  
+b. een tweepersoonshuishouden: € 18 450;  
 
-c. een eenpersoonsouderenhuishouden: € 14 400, en  
+c. een eenpersoonsouderenhuishouden: € 14 550, en  
 
-d. een tweepersoonsouderenhuishouden: € 18 500.    
+d. een tweepersoonsouderenhuishouden: € 18 700.    
 
 ### Artikel  6  
 
-De minimum-normlast, bedoeld in [artikel 29, eerste lid, formule, van de wet](../../../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md), is voor het tijdvak van 1 juli 2010 tot en met 30 juni 2011: € 122,74.  
+De minimum-normlast, bedoeld in [artikel 29, eerste lid, formule, van de wet](../../../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md), is voor het tijdvak van 1 juli 2011 tot en met 30 juni 2012: € 124,33.  
 
 ### §  3  
 

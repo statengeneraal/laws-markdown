@@ -1059,7 +1059,7 @@ Het formulier voor het indienen van een aanvraag voor:
 
 a. een subsidie is opgenomen in bijlage 7.1;  
 
-b. een subsidievaststelling is opgenomen in bijlage 7.2.    
+b. een subsidievaststelling is opgenomen in bijlage 5.3.    
 
 ### Hoofdstuk  8  
 
@@ -1766,25 +1766,25 @@ b. indien de Bank in het kader van het verzoek gegevens heeft verstrekt, waarvan
 
 ### Artikel  17  
 
-1.  De verplichtingen van de staat uit hoofde van deze overeenkomst met betrekking tot een bedrijfsborgstellingskrediet vervallen door schuldvernieuwing, door schuldoverneming en – voor het gedeelte waarin subrogatie plaatsvindt – door subrogatie van derden in de rechten van de Bank met betrekking tot het bedrijfsborgstellingskrediet, al dan niet voorafgegaan door verpanding van het bedrijfsborgstellingskrediet.   
-2.  In afwijking van het eerste lid blijven de verplichtingen van de staat met betrekking tot een bedrijfsborgstellingskrediet van kracht, indien: 
+1.  De verplichtingen van de Staat uit hoofde van deze overeenkomst met betrekking tot een bedrijfsborgstellingskrediet vervallen door schuldvernieuwing, door schuldoverneming en – voor het gedeelte waarin subrogatie plaatsvindt – door subrogatie van derden in de rechten van de Bank met betrekking tot het bedrijfsborgstellingskrediet, al dan niet voorafgegaan door verpanding van het bedrijfsborgstellingskrediet.   
+2.  In afwijking van het eerste lid blijven de verplichtingen van de Staat met betrekking tot een bedrijfsborgstellingskrediet van kracht, indien: 
 
 a. de MKB-ondernemer aan wie het bedrijfsborgstellingskrediet is verstrekt de onderneming en alle voor het drijven van de onderneming bestemde activa en passiva inbrengt of overdraagt aan een door de MKB-ondernemer voor het drijven van die onderneming opgerichte rechtspersoon,  
 
-b. de Bank met de onder a bedoelde rechtspersoon een overeenkomst sluit als gevolg waarvan die rechtspersoon bij de kredietovereenkomst uit hoofde waarvan het is verleend de plaats inneemt van de MKB-ondernemer, en  
+b. de Bank met de onder a bedoelde rechtspersoon een overeenkomst sluit als gevolg waarvan die rechtspersoon bij de kredietovereenkomst uit hoofde waarvan het bedrijfsborgstellingskrediet is verleend de plaats inneemt van de MKB-ondernemer, en  
 
 c. de MKB-ondernemer zich naast de onder a bedoelde rechtspersoon hoofdelijk aansprakelijk stelt voor de nakoming door die rechtspersoon van de verplichtingen die voortvloeien uit de kredietovereenkomst.     
 3.  Voor de toepassing van het tweede lid wordt onder rechtspersoon mede begrepen twee of meer rechtspersonen, indien die rechtspersonen gezamenlijk voldoen aan de in het tweede lid genoemde voorwaarden en ieder van die rechtspersonen zich hoofdelijk aansprakelijk stelt voor de nakoming van de verplichtingen die voortvloeien uit de kredietovereenkomst uit hoofde waarvan het bedrijfsborgstellingskrediet is verstrekt.   
 
 ### Artikel  18  
 
-Indien overeenkomstig artikel 3, eerste lid, onderdeel b, een garantieprovisie is betaald met betrekking tot een kredietovereenkomst en indien het desbetreffende krediet niet is opgenomen vanwege omstandigheden die niet zijn toe te rekenen aan de kredietnemer of aan de Bank, wordt de provisie door de staat terugbetaald aan de Bank mits de Bank binnen een jaar na het sluiten van de kredietovereenkomst daartoe een verzoek aan de staat heeft gedaan.  
+Indien overeenkomstig artikel 3, eerste lid, onderdeel b, een provisie is betaald met betrekking tot een kredietovereenkomst en indien het desbetreffende krediet niet is opgenomen vanwege omstandigheden die niet zijn toe te rekenen aan de kredietnemer of aan de Bank, wordt de provisie door de Staat terugbetaald aan de Bank mits de Bank binnen een jaar na het sluiten van de kredietovereenkomst daartoe een verzoek aan de Staat heeft gedaan.  
 
 ### Artikel  19  
 
-1.  De Bank betaalt de vanaf het moment van de indiening van een aanvraag als bedoeld in artikel 13 ontvangen opbrengsten die in mindering komen op het bedrijfsborgstellingskrediet binnen twee maanden na ontvangst aan de staat.   
+1.  De Bank betaalt de vanaf het moment van de indiening van een verzoek als bedoeld in artikel 13 ontvangen opbrengsten die in mindering komen op het bedrijfsborgstellingskrediet binnen twee maanden na ontvangst aan de Staat.   
 2.  Voor zover de opbrengsten na de aanvang van de periode, bedoeld in artikel 11, eerste lid, ontvangen zijn en niet ontvangen zijn uit hoofde van de uitwinning van zekerheden, wordt de in het eerste lid bedoelde betalingsverplichting beperkt tot 80 procent van de ontvangen opbrengsten.   
-3.  De Bank zal de rekening, bedoeld in artikel 16, eerste lid, per de datum van verzending van de aanvraag, bedoeld in artikel 13, en binnen twee maanden na die datum, debiteren voor het bedrag waarvoor betaling wordt gevraagd, vermeerderd met een rente als bedoeld in artikel 16, tweede lid, over de periode die verstreken is sinds de dag waarop de vermindering, bedoeld in artikel 5, op grond van artikel 6 is geschorst.   
+3.  De Bank zal de rekening per de datum van de reactie van de minister, bedoeld in artikel 14, tweede lid, en binnen twee maanden na die datum crediteren of debiteren voor respectievelijk het voor de Staat positieve of negatieve verschil tussen het bedrag waarvoor de rekening ingevolge het derde lid is gedebiteerd en het door de Staat blijkens de reactie, bedoeld in artikel 14, verschuldigde bedrag, vermeerderd met een over dat verschil te berekenen rente als bedoeld in artikel 16, tweede lid, over de periode die is verstreken sinds de creditering of debitering, bedoeld in het derde lid, en de datum waarop de reactie is ontvangen.   
 4.  De Bank zal de rekening per de datum van de beslissing van de minister, bedoeld in artikel 14, tweede lid, en binnen twee maanden na die datum crediteren of debiteren voor respectievelijk het voor de staat positieve of negatieve verschil tussen het bedrag waarvoor de rekening ingevolge het derde lid is gedebiteerd en het bedrag waarop de minister de betaling vaststelde, vermeerderd met een over dat verschil te berekenen rente als bedoeld in artikel 16, tweede lid, over de periode die is verstreken sinds de creditering of debitering, bedoeld in het derde lid, en de vaststelling van de betaling.   
 
 ### Artikel  20  
@@ -1793,11 +1793,15 @@ Reeds uitgekeerde bedragen zijn terstond en zonder enige ingebrekestelling opeis
 
 ### Artikel  21  
 
-Gelieerde bank(en) in de zin van artikel 1, eerste lid, onder a, van deze overeenkomst is (zijn) ...........  
+Bank-gelieerde in de zin van artikel 1, tweede lid, onder a, van deze overeenkomst is (zijn): 
+
+a. (...)..............................  
+
+b. (...enz.)    
 
 ### Artikel  21a  
 
-Indien daardoor naar het oordeel van de minister de kans dat de toepasselijkheid van deze overeenkomst op een bedrijfsborgstellingskrediet of een deel van een bedrijfsborgstellingskrediet wordt ingeroepen in belangrijke mate wordt verkleind of indien naar het oordeel van de minister aannemelijk is dat daardoor het bedrag waarvoor de toepasselijkheid van deze overeenkomst wordt ingeroepen in belangrijke mate wordt verlaagd, kan de minister voor de toepassing van deze overeenkomst met betrekking tot dat krediet instemmen met een gemotiveerd en schriftelijk verzoek van de Bank om afwijking van deze overeenkomst.  
+Indien daardoor naar het oordeel van de minister de kans dat de toepasselijkheid van deze overeenkomst op een bedrijfsborgstellingskrediet of een deel van een bedrijfsborgstellingskrediet wordt ingeroepen in belangrijke mate wordt verkleind of indien naar het oordeel van de minister aannemelijk is dat daardoor het bedrag waarvoor de toepasselijkheid van deze overeenkomst wordt ingeroepen in belangrijke mate wordt verlaagd, kan de minister voor de toepassing van deze overeenkomst met betrekking tot dat krediet instemmen met een gemotiveerd verzoek van de Bank om afwijking van deze overeenkomst.  
 
 ### Paragraaf  9  
 
@@ -5719,16 +5723,12 @@ Dit overzicht is afkomstig uit het rapport ‘Van voornemens naar voorsprong: Ke
 
 ### Bijlage  5.3  
 
-(bijlage bij artikel 5.15, eerste lid, van de Subsidieregeling starten, groeien en overdragen van ondernemingen)   ![249008](http://wetten.overheid.nl/Illustration/249008)
-![249008](http://wetten.overheid.nl/Illustration/249008)
+####, behorende bij de artikelen 5.15, onderdeel b , en 7.13, onderdeel b .
+
 ![249008](http://wetten.overheid.nl/Illustration/249008)
 ![249008](http://wetten.overheid.nl/Illustration/249008)
 
 ### Bijlage  7.1  
-
-Ligt ter inzage bij SenterNovem te Den Haag.  
-
-### Bijlage  7.2  
 
 Ligt ter inzage bij SenterNovem te Den Haag.  
 

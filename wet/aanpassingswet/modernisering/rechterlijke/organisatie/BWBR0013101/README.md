@@ -552,32 +552,6 @@ Wijzigt de Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen.
 3.  Ten aanzien van de verdere behandeling van zaken waarin voor de datum van inwerkingtreding van dit artikel een rechtsmiddel is aangewend tegen vonnissen en beschikkingen in hoger beroep van een rechtbank blijft het recht zoals het gold voor de datum van inwerkingtreding van dit artikel van toepassing.   
 4.  Ten aanzien van de mogelijkheid van het aanwenden van rechtsmiddelen tegen vonnissen en beschikkingen in hoger beroep van een rechtbank die op of na de datum van inwerkingtreding van dit artikel zijn tot stand gekomen blijft het recht zoals het gold voor de datum van inwerkingtreding van dit artikel van toepassing.   
 
-### Artikel  3  
-
-Indien voor de inwerkingtreding van het wetsvoorstel Organisatie en bestuur gerechten geen voorstel van wet tot regeling van de behandeling van klachten tegen gedragingen van rechterlijke ambtenaren en gerechtsambtenaren door een niet tot de rechterlijke macht behorende instantie tot wet is verheven, blijven ten aanzien van de leden en de plaatsvervangende leden van: 
-
-a. de Commissie gelijke behandeling, bedoeld in de [Wet gelijke behandeling](../../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md);  
-
-b. het tuchtcollege loodsen, bedoeld in de [Loodsenwet](../../../../../../wet/loodsenwet/BWBR0004365/README.md);  
-
-c. de regionale tuchtcolleges en het centrale tuchtcollege, bedoeld in de [Wet beroepen in de individuele gezondheidszorg](../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md);  
-
-d. het veterinair tuchtcollege, bedoeld in de [Wet op de uitoefening van de diergeneeskunde 1990](../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md);  
-
-e. de raden van discipline, bedoeld in de [Advocatenwet](../../../../../../wet/advocatenwet/BWBR0002093/README.md);  
-
-f. het hof van discipline, bedoeld in de [Advocatenwet](../../../../../../wet/advocatenwet/BWBR0002093/README.md);  
-
-g. de raden van tucht, bedoeld in de [Wet op de accountants-adminstratieconsulenten](../../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md);  
-
-h. de kamer van toezicht, bedoeld in de [Wet op het notarisambt](../../../../../../wet/notariswet/BWBR0010388/README.md); en  
-
-i. de kamer voor de gerechtsdeurwaarders, bedoeld in de [Gerechtsdeurwaarderswet](../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md); de [artikelen 14a tot en met 14e van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), zoals deze luidden voor de inwerkingtreding van het wetsvoorstel Organisatie en bestuur gerechten, van toepassing, met dien verstande dat voor de toepassing van artikel 14d, derde lid: 
-
-1°. de Hoge Raad de voorzitter van de onder a genoemde Commissie, de onder b, c of d genoemde tuchtcolleges, de onder e genoemde raad van discipline, het onder f genoemde hof van discipline dan wel de onder g genoemde raad van tucht in de gelegenheid stelt schriftelijk of mondeling inlichtingen te verstrekken en van zijn gevoelen te doen blijk geven omtrent een aanhangige klacht, indien de klacht is gericht tegen een van de andere leden of plaatsvervangende leden van die Commissie, de desbetreffende raad van discipline, de desbetreffende raad van tucht, het desbetreffende tuchtcollege onderscheidenlijk het hof van discipline; en  
-
-2°. de Hoge Raad de voorzitter van de desbetreffende, onder h genoemde, kamer van toezicht, of de voorzitter van de onder i genoemde kamer voor gerechtsdeurwaarders in de gelegenheid stelt schriftelijk of mondeling inlichtingen te verstrekken en van zijn gevoelen te doen blijk geven omtrent een aanhangige klacht, indien de klacht is gericht tegen een van de andere leden van de kamer van toezicht, of van de kamer voor gerechtsdeurwaarders, en dat deze gelegenheid wordt geboden aan het bestuur van het gerechtshof te Amsterdam, indien de klacht is gericht tegen een voorzitter van een kamer van toezicht of van een kamer van gerechtsdeurwaarders of tegen de kamer van toezicht of tegen de kamer van gerechtsdeurwaarders als zodanig.      
-
 ### Artikel  4  
 
 1.  De tekst van de [Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) wordt in het Staatsblad geplaatst. Voor de plaatsing van de Wet op de rechterlijke organisatie in het Staatsblad stelt Onze Minister van Justitie zo nodig de nummering van de artikelen, hoofdstukken en paragrafen van de Wet op de rechterlijke organisatie opnieuw vast.   

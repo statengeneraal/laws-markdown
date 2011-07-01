@@ -36,7 +36,7 @@ c. de met 10 dB(A) verhoogde waarde van het langtijdgemiddelde beoordelingsnivea
 
 – een ontwerpcapaciteit die kleiner of gelijk aan 650 normaal kubieke meter per uur is met een maximale operationele inlaatzijdige werkdruk die kleiner of gelijk aan 0,1 bar is;  
 
-– een ontwerpcapaciteit die kleiner of gelijk aan 10 normaal kubieke meter per uur is met een maximale operationele inlaatzijdige werkdruk die kleiner of gelijk aan 16 bar is;   *gasdrukmeet- en regelstation categorie B*: gasdrukmeet- en regelstation met een ontwerpcapaciteit die kleiner of gelijk aan 6000 normaal kubieke meter per uur is met een maximale operationele inlaatzijdige werkdruk die kleiner of gelijk aan 16 bar is, niet zijnde een gasdrukmeet- en regelstation categorie A; *gasdrukmeet- en regelstation categorie C*: gasdrukmeet- en regelstation met een maximale operationele inlaatzijdige werkdruk die kleiner of gelijk aan 100 bar is, niet zijnde een gasdrukmeet- en regelstation categorie A of gasdrukmeet- en regelstation categorie B; *gasfles*: een verplaatsbare drukhouder met een waterinhoud van niet meer dan 150 liter; *geluidsgevoelige ruimte*: geluidsgevoelige ruimte als bedoeld in [artikel 1 van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md); *geluidsniveau*: geluidsniveau in dB(A) als bedoeld in [artikel 1 van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md); *gevaarlijke stoffen*: stoffen en voorwerpen, waarvan het vervoer volgens het ADR is verboden of slechts onder daarin opgenomen voorwaarden is toegestaan, dan wel stoffen, materialen en voorwerpen aangeduid in de International Maritime Dangerous Goods Code; *geurgevoelig object*: geurgevoelig object als bedoeld in [artikel 1 van de Wet geurhinder en veehouderij](../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md); *gevel*: gevel als bedoeld in [artikel 1](../../../wet/wet/geluidhinder/BWBR0003227/README.md) juncto [artikel 1b, vijfde lid, van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md); *gevoelige gebouwen*: woningen en gebouwen die op grond van [artikel 1 van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md) worden aangemerkt als andere geluidsgevoelige gebouwen, met uitzondering van die gebouwen behorende bij de betreffende inrichting; *gevoelige objecten*: gevoelige gebouwen en gevoelige terreinen; *gevoelige terreinen*: terreinen die op grond van [artikel 1 van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md) worden aangemerkt als geluidsgevoelige terreinen, met uitzondering van die terreinen behorende bij de betreffende inrichting; *gezoneerd industrieterrein*: industrieterrein als bedoeld in [artikel 1 van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md); *inerte goederen*: goederen die geen bodembedreigende stoffen, gevaarlijke stoffen of CMR-stoffen zijn; *ISO*: door de Internationale Organisatie voor Standaardisatie uitgegeven norm; *jachthaven*: inrichting voor het bieden van gelegenheid tot het afmeren van pleziervaartuigen; *koelinstallatie*: een combinatie van met koudemiddel gevulde onderdelen die met elkaar zijn verbonden en die tezamen een gesloten koudemiddelcircuit vormen waarin het koudemiddel circuleert met het doel warmte op te nemen of af te staan; *kunststeen*: blokken van korrels of brokken van natuursteen met bindmiddel; *kwetsbaar object*: kwetsbaar object als bedoeld in [artikel 1, eerste lid, onderdeel l, van het Besluit externe veiligheid inrichtingen](../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md); *L <sub>den</sub>*: de geluidsbelastingsindicator zoals opgenomen in artikel 3, onder f, van richtlijn nr. 2002/49/EG van het Europees Parlement en de Raad van de Europese Unie van 25 juni 2002, inzake de evaluatie en de beheersing van omgevingslawaai; *L <sub>night</sub>*: de geluidsbelastingsindicator zoals opgenomen in artikel 3, onder i, van richtlijn nr. 2002/49/EG van het Europees Parlement en de Raad van de Europese Unie van 25 juni 2002, inzake de evaluatie en de beheersing van omgevingslawaai; *landbouwinrichting*: inrichting als bedoeld in [artikel 2 van het Besluit landbouw milieubeheer](../../../AMvB/besluit/landbouw/milieubeheer/BWBR0020112/README.md); *langtijdgemiddeld beoordelingsniveau*: (L <sub>Ar,LT</sub>) het gemiddelde van de afwisselende niveaus van het ter plaatse optredende geluid, gemeten in een bepaalde periode en vastgesteld en beoordeeld overeenkomstig de Handleiding meten en rekenen industrielawaai; *lassen van textiel*: het door middel van warmteopwekking of warmtetoevoer aaneenhechten van textiel; *lekbak*: een voorziening waarvan de bodembeschermende werking door de daarop afgestemde bodembeschermende maatregelen is gewaarborgd, en die zich rondom of onder een bodembedreigende activiteit bevindt en in staat is de bij normale bedrijfsvoering gemorste of wegspattende vloeistoffen op te vangen; *lozen*: het brengen van: 
+– een ontwerpcapaciteit die kleiner of gelijk aan 10 normaal kubieke meter per uur is met een maximale operationele inlaatzijdige werkdruk die kleiner of gelijk aan 16 bar is;   *gasdrukmeet- en regelstation categorie B*: gasdrukmeet- en regelstation met een ontwerpcapaciteit die kleiner of gelijk aan 6000 normaal kubieke meter per uur is met een maximale operationele inlaatzijdige werkdruk die kleiner of gelijk aan 16 bar is, niet zijnde een gasdrukmeet- en regelstation categorie A; *gasdrukmeet- en regelstation categorie C*: gasdrukmeet- en regelstation met een maximale operationele inlaatzijdige werkdruk die kleiner of gelijk aan 100 bar is, niet zijnde een gasdrukmeet- en regelstation categorie A of gasdrukmeet- en regelstation categorie B; *gasfles*: een verplaatsbare drukhouder met een waterinhoud van niet meer dan 150 liter; *geluidsgevoelige ruimte*: geluidsgevoelige ruimte als bedoeld in [artikel 1 van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md); *geluidsniveau*: geluidsniveau in dB(A) als bedoeld in [artikel 1 van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md); *geurgevoelig object*: geurgevoelig object als bedoeld in [artikel 1 van de Wet geurhinder en veehouderij](../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md); *gevaarlijke stoffen*: stoffen en voorwerpen, waarvan het vervoer volgens het ADR is verboden of slechts onder daarin opgenomen voorwaarden is toegestaan, dan wel stoffen, materialen en voorwerpen aangeduid in de International Maritime Dangerous Goods Code; *gevel*: gevel als bedoeld in [artikel 1](../../../wet/wet/geluidhinder/BWBR0003227/README.md) juncto [artikel 1b, vijfde lid, van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md); *gevoelige gebouwen*: woningen en gebouwen die op grond van [artikel 1 van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md) worden aangemerkt als andere geluidsgevoelige gebouwen, met uitzondering van die gebouwen behorende bij de betreffende inrichting; *gevoelige objecten*: gevoelige gebouwen en gevoelige terreinen; *gevoelige terreinen*: terreinen die op grond van [artikel 1 van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md) worden aangemerkt als geluidsgevoelige terreinen, met uitzondering van die terreinen behorende bij de betreffende inrichting; *gezoneerd industrieterrein*: industrieterrein als bedoeld in [artikel 1 van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md); *inerte goederen*: goederen die geen bodembedreigende stoffen, gevaarlijke stoffen of CMR-stoffen zijn; *ISO*: door de Internationale Organisatie voor Standaardisatie uitgegeven norm; *jachthaven*: inrichting voor het bieden van gelegenheid tot het afmeren van pleziervaartuigen; *koelinstallatie*: een combinatie van met koudemiddel gevulde onderdelen die met elkaar zijn verbonden en die tezamen een gesloten koudemiddelcircuit vormen waarin het koudemiddel circuleert met het doel warmte op te nemen of af te staan; *kunststeen*: blokken van korrels of brokken van natuursteen met bindmiddel; *kwetsbaar object*: kwetsbaar object als bedoeld in [artikel 1, eerste lid, onderdeel l, van het Besluit externe veiligheid inrichtingen](../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md); *L <sub>den</sub>*: de geluidsbelastingsindicator zoals opgenomen in artikel 3, onder f, van richtlijn nr. 2002/49/EG van het Europees Parlement en de Raad van de Europese Unie van 25 juni 2002, inzake de evaluatie en de beheersing van omgevingslawaai; *L <sub>night</sub>*: de geluidsbelastingsindicator zoals opgenomen in artikel 3, onder i, van richtlijn nr. 2002/49/EG van het Europees Parlement en de Raad van de Europese Unie van 25 juni 2002, inzake de evaluatie en de beheersing van omgevingslawaai; *landbouwinrichting*: inrichting als bedoeld in [artikel 2 van het Besluit landbouw milieubeheer](../../../AMvB/besluit/landbouw/milieubeheer/BWBR0020112/README.md); *langtijdgemiddeld beoordelingsniveau*: (L <sub>Ar,LT</sub>) het gemiddelde van de afwisselende niveaus van het ter plaatse optredende geluid, gemeten in een bepaalde periode en vastgesteld en beoordeeld overeenkomstig de Handleiding meten en rekenen industrielawaai; *lassen van textiel*: het door middel van warmteopwekking of warmtetoevoer aaneenhechten van textiel; *lekbak*: een voorziening waarvan de bodembeschermende werking door de daarop afgestemde bodembeschermende maatregelen is gewaarborgd, en die zich rondom of onder een bodembedreigende activiteit bevindt en in staat is de bij normale bedrijfsvoering gemorste of wegspattende vloeistoffen op te vangen; *lozen*: het brengen van: 
 
 1°. afvalwater of andere afvalstoffen, verontreinigende of schadelijke stoffen in een oppervlaktewaterlichaam;  
 
@@ -50,7 +50,7 @@ c. de met 10 dB(A) verhoogde waarde van het langtijdgemiddelde beoordelingsnivea
 
 6°. afvalwater of andere afvalstoffen in een andere voorziening voor de inzameling en het transport van afvalwater, of  
 
-7°. afvalwater of andere afvalstoffen met behulp van een werk niet zijnde een voorziening voor de inzameling en het transport van afvalwater op een zuiveringtechnisch werk;   *LQ*: Limited Quantities, gelimiteerde hoeveelheden als bedoeld in het ADR; *massastroom*: massa van een bepaalde stof of stoffen die per tijdseenheid wordt geëmitteerd, uitgedrukt in massa per uur; *maximaal geluidsniveau*: (L <sub>Amax</sub>) maximaal geluidsniveau gemeten in de meterstand «F» of «fast», als vastgesteld en beoordeeld overeenkomstig de Handleiding meten en rekenen industrielawaai; *meststoffengroep*: aanduiding van de gevaarscategorie van vaste minerale anorganische meststoffen overeenkomstig de indeling van PGS 7; *natte koeltoren*: installatie gebruikt voor het afvoeren van overtollige warmte uit productieprocessen en gebouwen door middel van het vernevelen van water; *natuursteen*: uit de natuur gewonnen blokken en platen van steen; *NEN*: door de Stichting Nederlands Normalisatie-instituut uitgegeven norm; *NeR*: door InfoMil uitgegeven Nederlandse Emissie Richtlijnen lucht; *niet aangewezen oppervlaktewaterlichaam:* oppervlaktewaterlichaam dat geen aangewezen oppervlaktewaterlichaam is; *noodsignalen*: noodsignalen die onder de klasse 1.3 of klasse 1.4 van het ADR vallen; *normaal kubieke meter*: afgashoeveelheid bij 273,15 Kelvin en 101,3 kilo Pascal en betrokken op droge lucht; *NRB*: door InfoMil uitgegeven Nederlandse richtlijn bodembescherming bedrijfsmatige activiteiten; *odour unit*: Europese eenheid voor geurconcentratie volgens NEN-EN-13725; *opslagtank*: een opslagvoorziening voor gas met een inhoud van ten minste 150 liter of een opslagvoorziening voor vloeistof met een inhoud van ten minste 300 liter, uitgezonderd een intermediate bulk container die voldoet aan hoofdstuk 6.5 van het ADR; *PER*: tetrachlooretheen; *PGS*: Publicatiereeks Gevaarlijke Stoffen; *pleziervaartuig*: schip bestemd of gebruikt voor sport of vrijetijdsbesteding; *praktijkruimte*: ruimte voor chemisch, natuurkundig of medisch onderwijs waarop de [Wet op het hoger onderwijs en het wetenschappelijk onderzoek](../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) van toepassing is; *propaan*: product, hoofdzakelijk bestaande uit propaan en propeen, met geringe hoeveelheden ethaan, butanen en butenen, voor zover de dampspanning bij 343 Kelvin (70 graden Celsius) ten hoogste 3100 kilopascal (31 bar) bedraagt; *propeen*: zeer licht ontvlambaar tot vloeistof verdicht gas met UN-nummer 1077; *pyrotechnische artikelen voor theatergebruik*: pyrotechnische artikelen voor theatergebruik als bedoeld in [artikel 1.1.1, eerste lid, van het Vuurwerkbesluit](../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md); *richtlijn 2003/30/EG*: richtlijn nr. 2003/30/EG van het Europees Parlement en de Raad van de Europese Unie van 8 mei 2003 (PbEU L 123) ter bevordering van het gebruik van biobrandstoffen of andere hernieuwbare brandstoffen in het vervoer; *rookzwak kruit*: kruit dat onder de klasse 1.3 van het ADR valt; *spuitbus*: niet-hervulbare houder van metaal, glas of kunststof die een samengeperst, vloeibaar gemaakt of opgelost gas bevat, al dan niet met een vloeibare, pasteuze of poedervormige stof, en voorzien van een aftapinrichting die het mogelijk maakt, dat de inhoud wordt uitgestoten in de vorm van een suspensie van vaste of vloeibare deeltjes in een gas, in de vorm van schuim, pasta of poeder of in vloeibare of gasvormige toestand; *stookinstallatie*: stookinstallatie als bedoeld in het [Besluit emissie-eisen middelgrote stookinstallaties milieubeheer](../../../AMvB/besluit/emissie-eisen/middelgrote/stookinstallaties/milieubeheer/BWBR0026884/README.md); *systeem voor dampretour Stage-II*: geheel van vulpistool, slang, appendages, regelinstrumenten en overige toebehoren waarmee de bij het afleveren van benzine aan motorvoertuigen voor het wegverkeer uit het brandstofreservoir van het motorvoertuig verdreven dampen worden teruggevoerd in de ondergrondse opslagtank van het tankstation; *theatervuurwerk*: theatervuurwerk als bedoeld in [artikel 1.1.1, eerste lid, van het Vuurwerkbesluit](../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md); *totaal stikstof*: de som van nitraat-, nitriet-, organisch en ammonium stikstof waarvan de emissiemetingen worden uitgevoerd, bedoeld in artikel 2.3; *traditioneel schieten*: door schutterijen of schuttersgilden schieten met buksen ofwel geweren vanaf een vaste standplaats op een stilstaand doel in de buitenlucht; *verblijfsruimten*: verblijfsruimten als bedoeld in [artikel 1.1, onderdeel e, van het Besluit geluidhinder](../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md); *verbruik van vluchtige organische stoffen*: verbruik van vluchtige organische stoffen als bedoeld in het [Oplosmiddelenbesluit omzetting EG-VOS-richtlijn milieubeheer](../../../AMvB/oplosmiddelenbesluit/omzetting/eg-vos-richtlijn/milieubeheer/BWBR0012337/README.md); *verdichten*: reduceren van het volume; *verkleinen*: in kleinere delen opdelen; *verpakkingsgroep*: een groep, waarin bepaalde stoffen op grond van hun gevaarlijkheid tijdens het vervoer conform het ADR zijn ingedeeld voor verpakkingsdoeleinden: 
+7°. afvalwater of andere afvalstoffen met behulp van een werk niet zijnde een voorziening voor de inzameling en het transport van afvalwater op een zuiveringtechnisch werk;   *LQ*: Limited Quantities, gelimiteerde hoeveelheden als bedoeld in het ADR; *massastroom*: massa van een bepaalde stof of stoffen die per tijdseenheid wordt geëmitteerd, uitgedrukt in massa per uur; *maximaal geluidsniveau*: (L <sub>Amax</sub>) maximaal geluidsniveau gemeten in de meterstand «F» of «fast», als vastgesteld en beoordeeld overeenkomstig de Handleiding meten en rekenen industrielawaai; *meststoffengroep*: aanduiding van de gevaarscategorie van vaste minerale anorganische meststoffen overeenkomstig de indeling van PGS 7; *natte koeltoren*: installatie gebruikt voor het afvoeren van overtollige warmte uit productieprocessen en gebouwen door middel van het vernevelen van water; *natuursteen*: uit de natuur gewonnen blokken en platen van steen; *NEN*: door de Stichting Nederlands Normalisatie-instituut uitgegeven norm; *NeR*: door InfoMil uitgegeven Nederlandse Emissie Richtlijnen lucht; *niet aangewezen oppervlaktewaterlichaam:* oppervlaktewaterlichaam dat geen aangewezen oppervlaktewaterlichaam is; *noodsignalen*: noodsignalen die onder de klasse 1.3 of klasse 1.4 van het ADR vallen; *normaal kubieke meter*: afgashoeveelheid bij 273,15 Kelvin en 101,3 kilo Pascal en betrokken op droge lucht; *NRB*: door InfoMil uitgegeven Nederlandse richtlijn bodembescherming bedrijfsmatige activiteiten; *odour unit*: Europese eenheid voor geurconcentratie volgens NEN-EN-13725; *opslagtank*: een opslagvoorziening voor gas met een inhoud van ten minste 150 liter of een opslagvoorziening voor vloeistof met een inhoud van ten minste 300 liter, uitgezonderd een intermediate bulk container die voldoet aan hoofdstuk 6.5 van het ADR; *PAK’s*: som van naftaleen, anthraceen, fluorantheen, benzo(g,h,i)peryleen, benzo(a)pyreen, benzo(b)fluorantheen, benzo(k)fluorantheen en indeno(1,2,3-cd)pyreen; *PER*: tetrachlooretheen; *PGS*: Publicatiereeks Gevaarlijke Stoffen; *pleziervaartuig*: schip bestemd of gebruikt voor sport of vrijetijdsbesteding; *praktijkruimte*: ruimte voor chemisch, natuurkundig of medisch onderwijs waarop de [Wet op het hoger onderwijs en het wetenschappelijk onderzoek](../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) van toepassing is; *propaan*: product, hoofdzakelijk bestaande uit propaan en propeen, met geringe hoeveelheden ethaan, butanen en butenen, voor zover de dampspanning bij 343 Kelvin (70 graden Celsius) ten hoogste 3100 kilopascal (31 bar) bedraagt; *propeen*: zeer licht ontvlambaar tot vloeistof verdicht gas met UN-nummer 1077; *pyrotechnische artikelen voor theatergebruik*: pyrotechnische artikelen voor theatergebruik als bedoeld in [artikel 1.1.1, eerste lid, van het Vuurwerkbesluit](../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md); *richtlijn 2003/30/EG*: richtlijn nr. 2003/30/EG van het Europees Parlement en de Raad van de Europese Unie van 8 mei 2003 (PbEU L 123) ter bevordering van het gebruik van biobrandstoffen of andere hernieuwbare brandstoffen in het vervoer; *rookzwak kruit*: kruit dat onder de klasse 1.3 van het ADR valt; *spuitbus*: niet-hervulbare houder van metaal, glas of kunststof die een samengeperst, vloeibaar gemaakt of opgelost gas bevat, al dan niet met een vloeibare, pasteuze of poedervormige stof, en voorzien van een aftapinrichting die het mogelijk maakt, dat de inhoud wordt uitgestoten in de vorm van een suspensie van vaste of vloeibare deeltjes in een gas, in de vorm van schuim, pasta of poeder of in vloeibare of gasvormige toestand; *stookinstallatie*: stookinstallatie als bedoeld in het [Besluit emissie-eisen middelgrote stookinstallaties milieubeheer](../../../AMvB/besluit/emissie-eisen/middelgrote/stookinstallaties/milieubeheer/BWBR0026884/README.md); *systeem voor dampretour Stage-II*: geheel van vulpistool, slang, appendages, regelinstrumenten en overige toebehoren waarmee de bij het afleveren van benzine aan motorvoertuigen voor het wegverkeer uit het brandstofreservoir van het motorvoertuig verdreven dampen worden teruggevoerd in de ondergrondse opslagtank van het tankstation; *theatervuurwerk*: theatervuurwerk als bedoeld in [artikel 1.1.1, eerste lid, van het Vuurwerkbesluit](../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md); *totaal stikstof*: de som van nitraat-, nitriet-, organisch en ammonium stikstof waarvan de emissiemetingen worden uitgevoerd, bedoeld in artikel 2.3; *traditioneel schieten*: door schutterijen of schuttersgilden schieten met buksen ofwel geweren vanaf een vaste standplaats op een stilstaand doel in de buitenlucht; *vast object*: locatiegebonden constructie of gedeelte daarvan; *verblijfsruimten*: verblijfsruimten als bedoeld in [artikel 1.1, onderdeel e, van het Besluit geluidhinder](../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md); *verbruik van vluchtige organische stoffen*: verbruik van vluchtige organische stoffen als bedoeld in het [Oplosmiddelenbesluit omzetting EG-VOS-richtlijn milieubeheer](../../../AMvB/oplosmiddelenbesluit/omzetting/eg-vos-richtlijn/milieubeheer/BWBR0012337/README.md); *verdichten*: reduceren van het volume; *verkleinen*: in kleinere delen opdelen; *verpakkingsgroep*: een groep, waarin bepaalde stoffen op grond van hun gevaarlijkheid tijdens het vervoer conform het ADR zijn ingedeeld voor verpakkingsdoeleinden: 
 
 1°. *verpakkingsgroep I*: zeer gevaarlijke stoffen;  
 
@@ -110,7 +110,7 @@ h. waarbinnen geen van de in hoofdstukken 3 en 4 alsmede de in de hoofdstukken 3
 
 7°. het lozen van koelwater anders dan in een vuilwaterriool;  
 
-8°. het lozen van grondwater bij ontwatering, niet zijnde grondwater als bedoeld in artikel 3.1, eerste lid, op of in de bodem;  
+8°. het lozen van grondwater bij ontwatering, niet zijnde grondwater als bedoeld in artikel 3.1, eerste lid, op of in de bodem of met een duur van ten hoogste 48 uur;  
 
 9° het opslaan in opslagtanks van maximaal 1.000 liter gasolie of biodiesel die voldoet aan NEN-EN 14214;  
 
@@ -120,7 +120,9 @@ h. waarbinnen geen van de in hoofdstukken 3 en 4 alsmede de in de hoofdstukken 3
 
 12°. het opslaan in verpakking van maximaal 50 liter gasolie of biodiesel die voldoet aan NEN-EN 14214;  
 
-13°. het opslaan in verpakking van stoffen, niet zijnde gevaarlijke stoffen; en     *inrichting type B*: een inrichting waarvoor geen omgevingsvergunning is vereist voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en die geen inrichting type A of C is; *inrichting type C*: een inrichting: 
+13°. het opslaan in verpakking van stoffen, niet zijnde gevaarlijke stoffen;  
+
+14°. het lozen ten gevolge van reinigingswerkzaamheden aan vaste objecten, die periodiek worden uitgevoerd en waarbij uitsluitend vuilafzetting wordt verwijderd;     *inrichting type B*: een inrichting waarvoor geen omgevingsvergunning is vereist voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en die geen inrichting type A of C is; *inrichting type C*: een inrichting: 
 
 a. die behoort tot een categorie van inrichtingen die op grond van [artikel 1.1, derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is aangewezen, voor zover daartoe geen gpbv-installatie behoort;  
 
@@ -178,9 +180,9 @@ d. hoofdstuk 1, afdelingen 2.1 tot en met 2.4, en 2.10 en hoofdstuk 6 voor zover
 
 1.  Vrijstelling wordt verleend van de verboden, bedoeld in [artikel 6.2, eerste en tweede lid, van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md), voor lozingen vanuit: 
 
-a. inrichtingen type A of inrichtingen type B, voor zover aan dat lozen regels zijn gesteld bij of krachtens de artikelen 3.1 tot en met 3.6, 3.32 tot en met 3.34, 4.19, 4.74c, 4.104, 4.109, 4.113a; of  
+a. inrichtingen type A of inrichtingen type B, voor zover aan dat lozen regels zijn gesteld bij of krachtens de artikelen 3.1 tot en met 3.6b, 3.32 tot en met 3.34, 4.19, 4.74c, 4.104, 4.109, 4.113a; of  
 
-b. inrichtingen type C, voor zover aan dat lozen regels zijn gesteld bij of krachtens de artikelen 3.1 tot en met 3.6 en 3.32 tot en met 3.34.     
+b. inrichtingen type C, voor zover aan dat lozen regels zijn gesteld bij of krachtens de artikelen 3.1 tot en met 3.6b en 3.32 tot en met 3.34.     
 2.  Dit besluit is niet van toepassing op: 
 
 a. het in een oppervlaktewaterlichaam: 
@@ -191,11 +193,9 @@ a. het in een oppervlaktewaterlichaam:
 
 3°. lozen ten gevolge van het toepassen van bouwstoffen, grond of baggerspecie, waarop het Besluit bodemkwaliteit van toepassing is;    
 
-b. het lozen waarvoor regels zijn gesteld bij of krachtens het [Lozingenbesluit Wvo vaste objecten](../../../AMvB/lozingenbesluit/wvo/vaste/objecten/BWBR0009355/README.md);  
+b. het lozen ten gevolge van agrarische activiteiten als bedoeld in [artikel 1, eerste lid, onderdeel b, van het Lozingenbesluit open teelt en veehouderij](../../../AMvB/lozingenbesluit/open/teelt/en/veehouderij/BWBR0011133/README.md) dan wel activiteiten die daarmee verband houden;  
 
-c. het lozen ten gevolge van agrarische activiteiten als bedoeld in [artikel 1, eerste lid, onderdeel b, van het Lozingenbesluit open teelt en veehouderij](../../../AMvB/lozingenbesluit/open/teelt/en/veehouderij/BWBR0011133/README.md) dan wel activiteiten die daarmee verband houden;  
-
-d. het lozen waarvoor de verboden, bedoeld in [artikel 6.2, eerste en tweede lid, van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md), gelden.     
+c. het lozen waarvoor de verboden, bedoeld in [artikel 6.2, eerste en tweede lid, van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md), gelden.     
 
 ### Artikel  1.7  
 
@@ -272,19 +272,11 @@ b. in de buitenlucht of op een open terrein van de inrichting muziek ten gehore 
 
 ### Artikel  1.12  
 
-Bij een melding als bedoeld in artikel 1.10 worden indien sprake is van een lozing vanuit een bodemsanering of een proefbronnering als bedoeld in artikel 3.1 de volgende gegevens gemeld: 
-
-a. het tijdstip van de aanvang, de verwachte duur en het maximale debiet van het lozen; en  
-
-b. de oorzaak van de bodemverontreiniging.    
+Indien op grond van [artikel 7 van het Besluit uniforme saneringen](../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) met een sanering kan worden begonnen nadat vijf werkdagen zijn verstreken vanaf de datum van ontvangst van de melding, bedoeld in [artikel 6 van dat besluit](../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md), meldt degene die voornemens is te lozen vanuit die bodemsanering als bedoeld in artikel 3.1, tweede, derde en vierde lid, in afwijking van de termijn bedoeld in artikel 1.10, eerste lid, dit ten minste vijf werkdagen voordat met het lozen wordt aangevangen.  
 
 ### Artikel  1.13  
 
-Bij een melding als bedoeld in artikel 1.10 worden indien sprake is van een lozing van grondwater als bedoeld in artikel 3.2, derde, vierde, zevende en negende lid, in een oppervlaktewaterlichaam of in een voorziening voor de inzameling en het transport van afvalwater, de volgende gegevens gemeld: 
-
-a. het tijdstip van de aanvang, de verwachte duur en het maximale debiet van het lozen; en  
-
-b. gegevens over de samenstelling van het te lozen grondwater, voor zover die afwijkt van de in het gebied voorkomende grondwaterkwaliteit.    
+Indien het lozen van grondwater bij ontwatering als bedoeld in artikel 3.2, derde, vijfde en zevende lid, langer dan 48 uur doch ten hoogste 8 weken duurt, meldt degene die voornemens is te lozen in afwijking van de termijn bedoeld in artikel 1.10, eerste lid, dit ten minste vijf werkdagen voordat met het lozen wordt aangevangen.  
 
 ### Artikel  1.13a  
 
@@ -383,7 +375,7 @@ q. het beschermen van de duisternis en het donkere landschap in door het bevoegd
 
 ### Artikel  2.2  
 
-1.  Het lozen op of in de bodem of in een voorziening voor de inzameling en het transport van afvalwater niet zijnde een vuilwaterriool, is verboden tenzij het lozen bij of krachtens de artikelen 3.1 tot en met 3.6, 3.32 tot en met 3.34, 4.19, 4.74c, 4.104, 4.109, 4.113a, is toegestaan.   
+1.  Het lozen van afvalwater op of in de bodem en het lozen van afvalwater en andere afvalstoffen in een voorziening voor de inzameling en het transport van afvalwater, niet zijnde een vuilwaterriool, is verboden tenzij het lozen bij of krachtens de artikelen 3.1 tot en met 3.63.6a, 3.32 tot en met 3.34, 4.19, 4.74c, 4.104, 4.109, 4.113a, is toegestaan.   
 2.  In afwijking van het eerste lid is lozen op of in de bodem verboden, indien daarbij stoffen zonder doorsijpeling door bodem of ondergrond in het grondwater geraken.   
 3.  Het bevoegd gezag kan bij maatwerkvoorschrift bepalen dat het eerste en tweede lid niet van toepassing zijn en dat lozen op of in de bodem of in een voorziening voor de inzameling en het transport van afvalwater niet zijnde een vuilwaterriool is toegestaan indien het belang van de bescherming van het milieu zich gelet op de samenstelling, hoeveelheid en eigenschappen van de lozing daartegen niet verzet.   
 4.  Bij maatwerkvoorschrift als bedoeld in het derde lid kunnen voorwaarden worden gesteld met betrekking tot: 
@@ -893,22 +885,22 @@ Burgemeester en wethouders van de gemeenten Amsterdam, 's-Gravenhage, Rotterdam 
 ### Artikel  3.1  
 
 1.  Deze paragraaf is van toepassing op een saneringsonderzoek en een bodemsanering in de zin van de [Wet bodembescherming](../../../wet/wet/bodembescherming/BWBR0003994/README.md). Bij het lozen van grondwater vanuit een proefbronnering in het kader van een saneringsonderzoek of vanuit een bodemsanering wordt ten minste voldaan aan het tweede tot en met het negende lid.   
-2.  Het lozen, bedoeld in het eerste lid, in een aangewezen oppervlaktewaterlichaam of in een voorziening voor de inzameling en het transport van afvalwater, niet zijnde een vuilwaterriool, is toegestaan, indien bij het lozen: 
+2.  Het lozen in een aangewezen oppervlaktewaterlichaam of in een voorziening voor de inzameling en het transport van afvalwater, niet zijnde een vuilwaterriool, is toegestaan, indien bij het lozen: 
 
-a. het zuurstofgehalte ten minste 5 milligram per liter bedraagt;  
+a. geen visuele verontreiniging plaatsvindt;  
 
-b. geen visuele verontreiniging plaatsvindt; en  
+b. het gehalte aan naftaleen in enig steekmonster ten hoogste 0,2 microgram per liter bedraagt;  
 
-c. in enig steekmonster de emissiegrenswaarden van tabel 3.1a niet worden overschreden.  Tabel 3.1a 
+c. het gehalte aan PAK’s in enig steekmonster ten hoogste 1 microgram per liter bedraagt; en  
 
-| Stoffen  | Emissiegrenswaarde  |
+d. in enig steekmonster de emissiewaarden van de in dit artikel opgenomen tabel 3.1a niet worden overschreden.    Tabel 3.1a 
+
+| Stoffen  | emissiewaarde  |
 |:---|:---|
-| BTEX-som  | 50 microgram per liter  |
+| BTEX  | 50 microgram per liter  |
 | Vluchtige organohalogeenverbindingen uitgedrukt als chloor  | 20 microgram per liter  |
 | Aromatische organohalogeenverbindingen  | 20 microgram per liter  |
 | Minerale olie  | 500 microgram per liter  |
-| Naftaleen  | 0,1 microgram per liter  |
-| PAK’s (som van naftaleen, anthraceen, fluorantheen, benzo(g, h, i,)peryleen, benzo(a)pyreen, benzo(b)fluorantheen, benzo(k)fluorantheen en indeno(1, 2, 3-cd)pyreen)  | 0,003 microgram per liter  |
 | Cadmium  | 4 microgram per liter  |
 | Kwik  | 1 microgram per liter  |
 | Koper  | 11 microgram per liter  |
@@ -918,32 +910,32 @@ c. in enig steekmonster de emissiegrenswaarden van tabel 3.1a niet worden oversc
 | Chroom  | 24 microgram per liter  |
 | Onopgeloste stoffen  | 50 milligram per liter  |
 
-3.  Het lozen, bedoeld in het eerste lid, in een niet aangewezen oppervlaktewaterlichaam, is toegestaan, indien bij het lozen: 
+3.  Het lozen, in een niet-aangewezen oppervlaktewaterlichaam, is toegestaan, indien bij het lozen: 
 
-a. het zuurstofgehalte ten minste 5 milligram per liter bedraagt;  
+a. geen visuele verontreiniging plaatsvindt;  
 
-b. geen visuele verontreiniging plaatsvindt; en  
+b. het gehalte aan naftaleen in enig steekmonster ten hoogste 0,2 microgram per liter bedraagt;  
 
-c. in enig steekmonster de emissiegrenswaarden van tabel 3.1b niet worden overschreden.  Tabel 3.1b 
+c. het gehalte aan PAK's in enig steekmonster ten hoogste 1 microgram per liter bedraagt; en  
 
-| Stoffen  | Emissiegrenswaarde  |
+d. in enig steekmonster de emissiewaarden van de in dit artikel opgenomen tabel 3.1b niet worden overschreden.    Tabel 3.1b 
+
+| Stoffen  | emissiewaarde  |
 |:---|:---|
 | Benzeen  | 2 microgram per liter  |
 | Tolueen  | 7 microgram per liter  |
 | Ethylbenzeen  | 4 microgram per liter  |
 | Xyleen  | 4 microgram per liter  |
-| PER  | 3 microgram per liter  |
+| Tetrachlooretheen  | 3 microgram per liter  |
 | Trichlooretheen  | 20 microgram per liter  |
 | 1,2-dichlooretheen  | 20 microgram per liter  |
 | 1,1,1-trichloorethaan  | 20 microgram per liter  |
 | Vinylchloride  | 8 microgram per liter  |
-| Som van de vijf hierboven staande stoffen  | 20 microgram per liter  |
+| Som van de vijf hier bovenstaande stoffen  | 20 microgram per liter  |
 | Monochloorbenzeen  | 7 microgram per liter  |
 | Dichloorbenzenen  | 3 microgram per liter  |
 | Trichloorbenzenen  | 1 microgram per liter  |
 | Minerale olie  | 50 microgram per liter  |
-| Naftaleen  | 0,01 microgram per liter  |
-| PAK’s (som van naftaleen, anthraceen, fluorantheen, benzo(g, h, i,)peryleen, benzo(a)pyreen, benzo(b)fluorantheen, benzo(k)fluorantheen en indeno(1, 2, 3-cd)pyreen)  | 0,0003 microgram per liter  |
 | Cadmium  | 0,4 microgram per liter  |
 | Kwik  | 0,1 microgram per liter  |
 | Koper  | 1,1 microgram per liter  |
@@ -953,19 +945,21 @@ c. in enig steekmonster de emissiegrenswaarden van tabel 3.1b niet worden oversc
 | Chroom  | 2,4 microgram per liter  |
 | Onopgeloste stoffen  | 20 milligram per liter  |
 
-4.  Het lozen, bedoeld in het eerste lid, op of in de bodem is toegestaan indien het gehalte aan stoffen in enig steekmonster niet meer bedraagt dan de streefwaarden in [Circulaire bodemsanering 2009](../../../circulaire/circulaire/bodemsanering/2009/BWBR0025649/README.md) en geen wateroverlast plaatsvindt.   
+4.  Het lozen op of in de bodem is toegestaan indien het gehalte aan stoffen in enig steekmonster niet meer bedraagt dan de streefwaarden in tabel 1 van de [bijlage bij de circulaire bodemsanering 2009](../../../circulaire/circulaire/bodemsanering/2009/BWBR0025649/README.md).   
 5.  Het lozen, bedoeld in het eerste lid, in een vuilwaterriool is verboden.   
 6.  Indien lozen als bedoeld in het eerste lid in een oppervlaktewaterlichaam, op of in de bodem of in een voorziening voor de inzameling en het transport van afvalwater, niet zijnde een vuilwaterriool, redelijkerwijs niet mogelijk is: 
 
 a. is, in afwijking van het vijfde lid, het lozen vanuit een proefbronnering in het vuilwaterriool toegestaan indien het gehalte aan onopgeloste stoffen niet meer bedraagt dan 300 milligram per liter;  
 
 b. kan het bevoegd gezag bij maatwerkvoorschrift het vijfde lid niet van toepassing verklaren en het lozen vanuit een bodemsanering in een vuilwaterriool toestaan, indien het belang van de bescherming van het milieu zich gelet op de samenstelling, hoeveelheid en eigenschappen van het afvalwater niet tegen het lozen in een vuilwaterriool verzet. Artikel 2.2, vierde lid, is van overeenkomstige toepassing.     
-7.  Het bevoegd gezag kan bij maatwerkvoorschrift: 
+7.  Het bevoegd gezag kan bij maatwerkvoorschrift afwijken van: 
 
-a. de waarden, bedoeld in het tweede tot en met vierde lid en zesde lid, onderdeel a, niet van toepassing verklaren en hogere gehalten bepalen dan de gehalten, bedoeld in het tweede tot en met het vierde lid en het zesde lid, onderdeel a, of het zuurstofgehalte, bedoeld in het tweede en derde lid, niet van toepassing verklaren en een lagere waarde bepalen voor het zuurstofgehalte dan het zuurstofgehalte, bedoeld in tweede en derde lid, indien de gehalten bedoeld in het twee tot en met vierde lid en zesde lid, onderdeel a, dan wel de waarde bedoeld in het tweede en derde lid niet door toepassing van beste beschikbare technieken kunnen worden bereikt en het belang van de bescherming van het milieu zich niet tegen het lozen met een hoger gehalte dan wel een lagere waarde verzet;  
+a. de gehalten aan naftaleen en PAK’s, bedoeld in onderdelen b en c van het tweede en het derde lid, de emissiewaarden, bedoeld in onderdeel d van het tweede en het derde lid en de streefwaarden, bedoeld in het vierde lid, en hogere waarden of gehalten bepalen, indien genoemde waarden of gehalten niet door toepassing van beste beschikbare technieken kunnen worden bereikt en het belang van de bescherming van het milieu zich niet verzet tegen het lozen met een hogere waarde of een hoger gehalte;  
 
-b. lagere gehalten bepalen dan de gehalten bedoeld in het tweede lid, indien vanuit een voorziening bedoeld in dat lid geloosd wordt in een niet aangewezen oppervlaktewaterlichaam, of op of in de bodem en het belang van bescherming van het milieu tot het stellen van een lager gehalte noodzaakt.     
-8.  De lagere gehalten, bedoeld in het zevende lid, onderdeel b, worden niet lager vastgesteld dan: 
+b. de gehalten aan naftaleen en PAK’s, bedoeld in onderdelen b en c van het tweede en het derde lid, en lagere waarden bepalen, indien het belang van de bescherming van het milieu tot het stellen van een lagere waarde noodzaakt;  
+
+c. de waarden bedoeld in het tweede lid, onderdeel d, en lagere waarden bepalen indien vanuit een voorziening bedoeld in dat lid geloosd wordt in een niet-aangewezen oppervlaktewaterlichaam, of op of in de bodem en het belang van bescherming van het milieu noodzaakt tot het stellen van een lagere waarde.     
+8.  De lagere gehalten, bedoeld in het zevende lid, onderdeel c, worden niet lager vastgesteld dan: 
 
 a. de waarden opgenomen in tabel 3.1b, indien geloosd wordt in een oppervlaktewaterlichaam;  
 
@@ -978,46 +972,34 @@ b. de streefwaarden, bedoeld in het vierde lid, indien geloosd wordt op of in de
 
 ### Artikel  3.2  
 
-1.  Deze paragraaf is van toepassing op het lozen van grondwater bij ontwatering, niet zijnde grondwater als bedoeld in artikel 3.1, eerste lid. Bij het lozen wordt ten minste voldaan aan het tweede tot en met het twaalfde lid.   
-2.  Het lozen, bedoeld in het eerste lid, op of in de bodem is toegestaan indien als gevolg van het lozen geen wateroverlast ontstaat.   
-3.  Het lozen, bedoeld in het eerste lid, in een aangewezen oppervlaktewaterlichaam is toegestaan indien: 
+1.  Bij het lozen van grondwater bij ontwatering, niet zijnde grondwater als bedoeld in artikel 3.1, eerste lid, wordt ten minste voldaan aan het tweede tot en met het tiende lid.   
+2.  Het lozen op of in de bodem is toegestaan.   
+3.  Het lozen in een oppervlaktewaterlichaam is toegestaan indien: 
 
-a. het gehalte onopgeloste stoffen ten hoogste 50 milligram per liter bedraagt;  
+a. het gehalte onopgeloste stoffen in enig steekmonster ten hoogste 50 milligram per liter bedraagt; en  
 
-b. het zuurstofgehalte ten minste 5 milligram per liter bedraagt; en  
+b. als gevolg van het lozen geen visuele verontreiniging optreedt.     
+4.  Het bevoegd gezag kan met betrekking tot het lozen, bedoeld in het derde lid, bij maatwerkvoorschrift afwijken van: 
 
-c. als gevolg van het lozen geen visuele verontreiniging optreedt.     
-4.  Het lozen, bedoeld in het eerste lid, in een niet aangewezen oppervlaktewaterlichaam is toegestaan indien: 
+a. het gehalte, genoemd in dat lid en een hoger gehalte vaststellen, indien genoemd gehalte niet door toepassing van beste beschikbare technieken kan worden bereikt en het belang van de bescherming van het milieu zich niet tegen het lozen met een hoger gehalte verzet; en  
 
-a. het lozen ten hoogste 4 weken duurt en de geloosde hoeveelheid ten hoogste 5 kubieke meter per uur bedraagt;  
+b. bepalen dat visuele verontreiniging mag optreden, indien visuele verontreiniging niet door toepassing van beste beschikbare technieken kan worden voorkomen en het belang van de bescherming van het milieu zich niet verzet tegen het lozen, waarbij visuele verontreiniging optreedt.     
+5.  Het lozen, in een voorziening voor de inzameling en het transport van afvalwater, niet zijnde een vuilwaterriool, is toegestaan indien het gehalte onopgeloste stoffen in enig steekmonster ten hoogste 50 milligram per liter bedraagt en het ijzergehalte in enig steekmonster ten hoogste 5 milligram per liter bedraagt.   
+6.  Het bevoegd gezag kan met betrekking tot lozen als bedoeld in het vijfde lid bij maatwerkvoorschrift of verordening als bedoeld in [artikel 10.32a van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) afwijken van: 
 
-b. het gehalte onopgeloste stoffen ten hoogste 50 milligram per liter bedraagt;  
+a. de gehalten, bedoeld in dat lid en hogere gehalten vaststellen, indien eerstgenoemde gehalten niet door toepassing van beste beschikbare technieken kunnen worden bereikt en het belang van de bescherming van het milieu zich niet verzet tegen het lozen met een hoger gehalte;  
 
-c. het zuurstofgehalte ten minste 5 milligram per liter bedraagt; en  
+b. het ijzergehalte, bedoeld in dat lid en een lager ijzergehalte bepalen, indien het belang van bescherming van het milieu tot het stellen van een lager gehalte noodzaakt.     
+7.  Het lozen, in een vuilwaterriool is verboden, tenzij: 
 
-d. als gevolg van het lozen geen visuele verontreiniging optreedt.     
-5.  Het bevoegd gezag kan met betrekking tot het lozen, bedoeld in het derde en vierde lid, bij maatwerkvoorschrift: 
-
-a. de gehalten, genoemd in die leden, niet van toepassing verklaren en een hoger gehalte aan onopgeloste stoffen vaststellen dan de gehalten, genoemd in die leden, en een lager zuurstofgehalte vaststellen dan het zuurstofgehalte, genoemd in die leden, indien laatstgenoemde gehalten niet door toepassing van beste beschikbare technieken kunnen worden bereikt en het belang van de bescherming van het milieu zich niet tegen het lozen met een hoger respectievelijk lager gehalte verzet; en  
-
-b. bepalen dat visuele verontreiniging mag optreden, indien visuele verontreiniging niet door toepassing van beste beschikbare technieken kan worden voorkomen en het belang van de bescherming van het milieu zich niet tegen het lozen waarbij visuele verontreiniging optreedt verzet.     
-6.  Het bevoegd gezag kan met betrekking tot de tijdsduur en de hoeveelheid, bedoeld in het vierde lid, bij maatwerkvoorschrift andere waarden vaststellen dan de waarden, bedoeld in dat lid, indien dat nodig is in het belang van een doelmatig beheer van afvalwater.   
-7.  Het lozen, bedoeld in het eerste lid, in een openbaar hemelwaterstelsel of een openbaar ontwateringsstelsel is toegestaan indien het gehalte onopgeloste stoffen ten hoogste 50 milligram per liter bedraagt en het ijzergehalte ten hoogste 5 milligram per liter bedraagt.   
-8.  Het bevoegd gezag kan met betrekking tot het lozen als bedoeld in het zevende lid bij maatwerkvoorschrift of verordening als bedoeld in [artikel 10.32a van de wet](../../../wet/wet/milieubeheer/BWBR0003245/README.md): 
-
-a. de gehalten, bedoeld in dat lid niet van toepassing verklaren en hogere gehalten vaststellen dan de gehalten, bedoeld in dat lid, indien laatstgenoemde gehalten niet door toepassing van beste beschikbare technieken kunnen worden bereikt en het belang van de bescherming van het milieu zich niet tegen het lozen met een hoger gehalte verzet;  
-
-b. het ijzergehalte, bedoeld in dat lid niet van toepassing verklaren en een lager ijzergehalte bepalen dan het gehalte, bedoeld in dat lid, indien het belang van bescherming van het milieu tot het stellen van een lager gehalte noodzaakt.     
-9.  Het lozen, bedoeld in het eerste lid, in een vuilwaterriool is verboden, tenzij: 
-
-a. het lozen ten hoogste 4 weken duurt;  
+a. het lozen ten hoogste 8 weken duurt;  
 
 b. de geloosde hoeveelheid ten hoogste 5 kubieke meter per uur bedraagt; en  
 
-c. het gehalte onopgeloste stoffen ten hoogste 300 milligram per liter bedraagt.     
-10.  Het bevoegd gezag kan met betrekking tot de tijdsduur en de hoeveelheid, bedoeld in het negende lid bij maatwerkvoorschrift of bij verordening als bedoeld in [artikel 10.32a van de wet](../../../wet/wet/milieubeheer/BWBR0003245/README.md) andere waarden vaststellen indien dit nodig is in het belang van een doelmatig beheer van afvalwater.   
-11.  Het te lozen grondwater kan op een doelmatige wijze worden bemonsterd.   
-12.  De per tijdseenheid geloosde hoeveelheid grondwater als bedoeld in het vierde en negende lid kan op een doelmatige wijze worden bepaald.   
+c. het gehalte onopgeloste stoffen in enig steekmonster ten hoogste 300 milligram per liter bedraagt.     
+8.  Het bevoegd gezag kan met betrekking tot de tijdsduur en de hoeveelheid, bedoeld in het zevende lid bij maatwerkvoorschrift of bij verordening als bedoeld in [artikel 10.32a van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) andere waarden stellen.   
+9.  Het te lozen grondwater kan op een doelmatige wijze worden bemonsterd.   
+10.  De per tijdseenheid geloosde hoeveelheid grondwater kan voor de toepassing van het zevende lid op een doelmatige wijze worden bepaald.   
 
 ### §  3.1.3  
 
@@ -1354,7 +1336,9 @@ b. voldoet aan de bij ministeriële regeling te stellen eisen ten behoeve van he
 
 ### Artikel  3.21  
 
-Op of direct bij een afleverzuil die bestemd is voor het afleveren van brandstof waarin een hoger percentage biobrandstoffen en andere hernieuwbare brandstoffen dan de grenswaarde van 5% methylvetzuur (FAME) of bio-ethanol is bijgemengd, wordt duidelijk zichtbaar de volgende tekst vermeld: Deze brandstof bevat meer dan 5% biobrandstoffen en is niet geschikt voor motorvoertuigen die voor het gebruik daarvan niet zijn uitgerust.  
+1.  Op plaatsen waar brandstof wordt afgeleverd, die metaalhoudende additieven bevat, wordt op een label aangegeven hoeveel metaalhoudende additieven de betrokken brandstof bevat. Dit label bevat in elk geval de tekst: Bevat metaalhoudende additieven. Het wordt duidelijk zichtbaar bevestigd op de plaats waar de informatie over de brandstofsoort is aangegeven en is van zodanige afmetingen en van een zodanig lettertype dat het duidelijk zichtbaar en gemakkelijk leesbaar is.   
+2.  Op of direct bij een afleverzuil die bestemd is voor het afleveren van brandstof die voor meer dan 5% bestaat uit ethanol, wordt duidelijk zichtbaar de volgende tekst vermeld: Deze brandstof bevat meer dan 5% biobrandstoffen en is niet geschikt voor motorvoertuigen die voor het gebruik daarvan niet zijn uitgerust.   
+3.  Indien op een afleverpunt van brandstoffen voor motorvoertuigen voor het wegverkeer de doorzet aan lichte olie 500 of meer kubieke meter per jaar bedraagt, is ten minste één afleverpunt aanwezig van lichte olie waaraan ten hoogste 5% ethanol is toegevoegd.   
 
 ### Artikel  3.22  
 
@@ -1498,7 +1482,7 @@ d. zoveel mogelijk wordt voorkomen dat goederen in een voorziening voor het behe
 
 1.  Het in een oppervlaktewaterlichaam, op of in de bodem of in een voorziening voor de inzameling en het transport van afvalwater, niet zijnde een vuilwaterriool, lozen van afvalwater dat in contact is geweest met inerte goederen, is toegestaan indien het gehalte aan onopgeloste stoffen in enig steekmonster niet meer bedraagt dan 300 milligram per liter.   
 2.  Het in een vuilwaterriool lozen van afvalwater dat in contact is geweest met inerte goederen vindt slechts dan in een vuilwaterriool plaats indien het lozen, bedoeld in het eerste lid, redelijkerwijs niet mogelijk is en het gehalte aan onopgeloste stoffen niet meer bedraagt dan 300 milligram per liter.   
-3.  Het bevoegd gezag kan in het belang van de bescherming van het milieu met betrekking tot het lozen, bedoeld in het tweede lid, bij maatwerkvoorschrift voor onopgeloste stoffen lagere emissiegrenswaarden vaststellen.   
+3.  Het bevoegd gezag kan in het belang van de bescherming van het milieu met betrekking tot het lozen, bedoeld in het eerste lid, bij maatwerkvoorschrift voor onopgeloste stoffen lagere emissiegrenswaarden vaststellen.   
 4.  Het te lozen afvalwater, bedoeld in het eerste en tweede lid, kan op een doelmatige wijze worden bemonsterd.   
 5.  Indien de opgeslagen inerte goederen worden bevochtigd, wordt afvalwater dat met opgeslagen goederen in contact is geweest, zoveel mogelijk voor dit bevochtigen gebruikt.   
 
@@ -1567,7 +1551,7 @@ Bij het opslaan, overslaan en mengen van stuifgevoelige goederen in gesloten rui
 ### Artikel  3.40  
 
 1.  Bij het voldoen aan artikel 3.32, onder a en b, wordt de opslag van asbesthoudende afvalstoffen bij een inrichting waar uitvoering wordt gegeven aan [titel 10.4 van de wet](../../../wet/wet/milieubeheer/BWBR0003245/README.md) ten minste overeenkomstig [artikel 7 van het Asbestverwijderingsbesluit 2005](../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md) uitgevoerd.   
-2.  In afwijking van artikel 2.9, zijn de afdelingen 2.2, 2.3 en 2.4 van het Besluit landbouw milieubeheer van overeenkomstige toepassing op het opslaan van vaste mest en het composteren van groenafval, afgedragen gewas of bloembollenafval.   
+2.  In afwijking van artikel 2.9, zijn de paragrafen 2.2, 2.3 en 2.4 van de [bijlage bij het Besluit landbouw milieubeheer](../../../AMvB/besluit/landbouw/milieubeheer/BWBR0020112/README.md) van overeenkomstige toepassing op het opslaan van vaste mest en het composteren van groenafval, afgedragen gewas of bloembollenafval.   
 
 ### §  3.3.7  
 
@@ -1617,7 +1601,7 @@ b. 300 milligram onopgeloste stoffen per liter.
 
 ### Hoofdstuk  4  
 
-####Bepalingen met betrekking tot overige activiteiten in inrichtingen; niet geldend voor inrichtingen type c met uitzondering van de in artikel 1.4, derde lid, onderdeel b tot en met e  genoemde activiteiten
+####Bepalingen met betrekking tot overige activiteiten in inrichtingen; niet geldend voor inrichtingen type c met uitzondering van de in artikel 1.4, derde lid, onderdeel b en c  genoemde activiteiten
 
 ### Afdeling  4.1  
 
@@ -1756,7 +1740,7 @@ Onverminderd paragraaf 3.3.6 wordt bij het opslaan van vaste kunstmeststoffen te
 5.  Indien een keuring uitwijst dat de koelinstallatie onderhoud behoeft, vindt dat onderhoud binnen twee weken na de keuring plaats. Degene die de inrichting drijft vraagt naar een bewijs waaruit blijkt wanneer, door wie en welk onderhoud is verricht.   
 6.  Het laatst opgestelde keuringsrapport en het laatst opgestelde onderhoudsbewijs worden bewaard.   
 7.  In een kunstijsbaan waar een ammoniakkoelinstallatie wordt toegepast wordt een indirect ammoniakkoelsysteem als bedoeld in hoofdstuk 2.4 van PGS 13 toegepast.   
-8.  In deze paragraaf wordt verstaan onder «natuurlijk koudemiddel»: de toepassing als koudemiddel van koolstofdioxide, ammoniak of koolwaterstoffen niet zijnde een gereguleerde stof of een preparaat dat een zodanige stof bevat als bedoeld in het [Besluit ozonlaagafbrekende stoffen milieubeheer](../../../AMvB/besluit/ozonlaagafbrekende/stoffen/wms/2003/BWBR0015507/README.md) dan wel een gefluoreerd broeikasgas of een preparaat dat een zodanig gas bevat als bedoeld in het [Besluit gefluoreerde broeikasgassen milieubeheer](../../../AMvB/besluit/gefluoreerde/broeikasgassen/wms/2007/BWBR0022857/README.md).   
+8.  In deze paragraaf wordt verstaan onder «natuurlijk koudemiddel»: de toepassing als koudemiddel van koolstofdioxide, ammoniak of koolwaterstoffen niet zijnde een gereguleerde stof of een preparaat dat een zodanige stof bevat als bedoeld in het [Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen](../../../AMvB/uitvoeringsbesluit/eg-verordening/ozonlaagafbrekende/stoffen/BWBR0030095/README.md) dan wel een gefluoreerd broeikasgas of een preparaat dat een zodanig gas bevat als bedoeld in het [Besluit gefluoreerde broeikasgassen milieubeheer](../../../AMvB/besluit/gefluoreerde/broeikasgassen/wms/2007/BWBR0022857/README.md).   
 
 ### Afdeling  4.3  
 
@@ -3341,7 +3325,7 @@ b. het optredende equivalente geluidsniveau (L <sub>Aeq</sub>), veroorzaakt door
 a. voor het van toepassing worden van artikel 1.4, eerste, tweede of derde lid, op de inrichting een slibvangput en een olieafscheider zijn geplaatst die voldoen aan en gebruikt worden conform NEN 7089; of  
 
 b. voor 1 maart 1997 een slibvangput of een olieafscheider zijn geplaatst, die op de hoeveelheid afvalwater zijn afgestemd.     
-2.  In afwijking van de artikelen 3.25, derde lid, 4.71, tweede lid, 4.75, vierde lid, en 4.105, vierde lid zijn die artikelen van overeenkomstige toepassing indien het afvalwater niet wordt geleid door een slibvangput en olieafscheider die voldoen aan NEN-EN 858-1 en 2, maar door: 
+2.  In afwijking van de artikelen 3.25, derde lid, 3.44, derde lid4.71, tweede lid, 4.75, vierde lid, en 4.105, vierde lid zijn die artikelen van overeenkomstige toepassing indien het afvalwater niet wordt geleid door een slibvangput en olieafscheider die voldoen aan NEN-EN 858-1 en 2, maar door: 
 
 a. een slibvangput en een olieafscheider zijn geplaatst die voldoen aan en worden gebruikt conform NEN 7089;  
 

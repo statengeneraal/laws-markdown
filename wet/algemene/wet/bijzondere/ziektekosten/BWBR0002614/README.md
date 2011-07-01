@@ -393,8 +393,7 @@ c. subsidies verstrekt voor zwangerschapsafbrekingen in de zin van de [Wet afbre
 a. de jaarrekening, bedoeld in artikel 45, eerste lid;  
 
 b. de verklaringen, bedoeld in artikel 45, derde lid, de verslagen van bevindingen, bedoeld in artikel 45, vijfde lid, alsmede het aan die verklaringen en bevindingen ten grondslag liggende onderzoek.     
-3.  Het oordeel van Onze Minister, bedoeld in [artikel 76, tweede lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), heeft tevens betrekking op de jaarrekening van het Algemeen Fonds Bijzondere Ziektekosten.   
-4.  Na de goedkeuring, bedoeld in het eerste lid, stelt het College zorgverzekeringen de jaarrekening van het Algemeen Fonds Bijzondere Ziektekosten algemeen verkrijgbaar.   
+3.  Na de goedkeuring, bedoeld in het eerste lid, stelt het College zorgverzekeringen de jaarrekening van het Algemeen Fonds Bijzondere Ziektekosten algemeen verkrijgbaar.   
 
 ### Artikel  47  
 

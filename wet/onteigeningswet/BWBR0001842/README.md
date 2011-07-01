@@ -584,7 +584,7 @@ c. een inpassingsplan als bedoeld in [artikel 3.26](../../../wet/wet/ruimtelijke
 
 ### Artikel  72b  
 
-1.  Onteigening van gronden en van zakelijke rechten, als bedoeld in artikel 4, waarvan de verkrijging is vereist ten behoeve van een waterleidingbedrijf, als bedoeld bij [artikel 1, eerste lid, onder *c*, van de Waterleidingwet](../../../wet/waterleidingwet/BWBR0002246/README.md) (*Stb.* 1957, 150) of van een inrichting waarin afvalstoffen die van buiten de inrichting afkomstig zijn, worden verwijderd, kan geschieden uit kracht van een door Ons, de Raad van State gehoord, genomen besluit.   
+1.  Onteigening van gronden en van zakelijke rechten, als bedoeld in artikel 4, waarvan de verkrijging is vereist ten behoeve van een drinkwaterbedrijf als bedoeld in [artikel 1, eerste lid, van de Drinkwaterwet](../../../wet/drinkwaterwet/BWBR0026338/README.md) of van een inrichting waarin afvalstoffen die van buiten de inrichting afkomstig zijn, worden verwijderd, kan geschieden uit kracht van een door Ons, de Raad van State gehoord, genomen besluit.   
 2.  De bepalingen van de artikelen 63 tot en met 64b zijn van toepassing.   
 
 ### Titel  IIc  
@@ -663,8 +663,8 @@ Indien degene, onder wien de burgemeester in het vorig artikel genoemde waren in
 
 1.  Onze voornoemde Minister kan bepalen, dat de burgemeester bepaalde soorten of hoeveelheden van genoemde waren in bezit zal nemen, alsmede dat van in bezit genomen waren gedeelten ter beschikking worden gesteld van den burgemeester eener andere gemeente tegen den prijs en op de wijze, door dien Minister te bepalen.   
 2.  Voldoet de burgemeester niet onmiddellijk hieraan, dan geschiedt de inbezitneming en de terbeschikkingstelling van burgemeesters van andere gemeenten door dien Minister.   
-3.  Alsdan wordt de schadeloosstelling bepaald op de wijze, bij artikel 76 *a ter* geregeld, met dien verstande, dat de benoeming der schatters dan steeds geschiedt door dien Minister.   
-4.  Het vierde en het laatste lid van artikel 76 *a ter* zijn ook in dit geval van toepassing, met dien verstande, dat de uitgave komt ten laste van de gemeente, te welker behoeve de waren zijn beschikbaar gesteld.   
+3.  Alsdan wordt de schadeloosstelling bepaald op de wijze, bij artikel 76a ter geregeld, met dien verstande, dat de benoeming der schatters dan steeds geschiedt door dien Minister.   
+4.  Het vierde en het laatste lid van artikel 76a ter zijn ook in dit geval van toepassing, met dien verstande, dat de uitgave komt ten laste van de gemeente, te welker behoeve de waren zijn beschikbaar gesteld.   
 
 ### Artikel  76e  
 
@@ -674,7 +674,7 @@ Indien degene, onder wien de burgemeester in het vorig artikel genoemde waren in
 
 ### Artikel  76f  
 
-In geval, op grond van [artikel 7, eerste lid, of 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), bepalingen uit de [Oorlogswet voor Nederland](../../../wet/oorlogswet/voor/nederland/BWBR0007983/README.md) in werking zijn gesteld, geschieden de machtigingen, bedoeld in artikel 76 *a ter*, eerste lid, niet dan na overleg met het militair gezag.  
+In geval, op grond van [artikel 7, eerste lid, of 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), bepalingen uit de [Oorlogswet voor Nederland](../../../wet/oorlogswet/voor/nederland/BWBR0007983/README.md) in werking zijn gesteld, geschieden de machtigingen, bedoeld in artikel 76a ter, eerste lid, niet dan na overleg met het militair gezag.  
 
 ### Artikel  76fbis  
 

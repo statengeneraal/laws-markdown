@@ -67,7 +67,7 @@ n. toezichthoudende instantie: overheidsinstantie of van overheidswege aangeweze
 o. vrijwillige controle: een niet bij of krachtens de wet verplichte controle van financiële verantwoordingen van ondernemingen of instellingen die inhoudelijk overeenkomt met een wettelijke controle;  
 
 p. wettelijke controle: een controle van een financiële verantwoording van een onderneming of instelling ten behoeve van het maatschappelijk verkeer, die verplicht is gesteld bij of krachtens de in de bijlage bij deze wet genoemde wettelijke bepalingen.     
-2.  De bijlage, bedoeld in het eerste lid, onderdeel j, kan worden gewijzigd bij algemene maatregel van bestuur.   
+2.  De bijlage, bedoeld in het eerste lid, onderdeel p, kan worden gewijzigd bij algemene maatregel van bestuur.   
 
 ### Artikel  2  
 
@@ -293,7 +293,7 @@ De formele of feitelijke zeggenschapsstructuur van de accountantsorganisatie vor
 ### Artikel  20  
 
 1.  Een accountantsorganisatie die bij het verrichten van een wettelijke controle de beschikking krijgt over gegevens waarvan zij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, is verplicht tot geheimhouding van die gegevens, behoudens voor zover zij bij of krachtens wettelijk voorschrift tot mededeling verplicht is.   
-2.  Een accountantsorganisatie kan, in afwijking van het eerste lid, vertrouwelijke gegevens of inlichtingen verkregen bij het verrichten van een wettelijke controle verstrekken aan organisaties als bedoeld in artikel 48, eerste lid, voor zover die gegevens of inlichtingen noodzakelijk zijn voor de in dat lid bedoelde beoordeling.   
+2.  Een accountantsorganisatie kan, in afwijking van het eerste lid, vertrouwelijke gegevens of inlichtingen verkregen bij het verrichten van een wettelijke controle verstrekken aan derden, indien artikel 26, vijfde lid, van toepassing is, of aan organisaties als bedoeld in artikel 48, eerste lid, voor zover die gegevens of inlichtingen noodzakelijk zijn voor de in dat lid bedoelde beoordeling.   
 3.  Een accountantsorganisatie verleent aan de accountantsorganisatie waaraan haar voormalige controlecliënt een opvolgende opdracht tot het verrichten van een wettelijke controle heeft verleend, desgevraagd toegang tot alle relevante informatie met betrekking tot die controlecliënt.   
 
 ### Artikel  21  
@@ -366,6 +366,7 @@ De externe accountant voldoet aan bij of krachtens algemene maatregel van bestuu
 2.  Een externe accountant die tijdens het verrichten van een wettelijke controle de beschikking krijgt over gegevens of inlichtingen die het redelijk vermoeden rechtvaardigen dat sprake is van fraude van materieel belang ten aanzien van de financiële verantwoording van de controlecliënt, meldt dit aan een opsporingsambtenaar als bedoeld in [artikel 141 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) behoudens in de bij algemene maatregel van bestuur te bepalen gevallen.   
 3.  Bij algemene maatregel van bestuur wordt bepaald wat wordt verstaan onder fraude van materieel belang en worden regels gesteld omtrent het tijdstip en de wijze waarop de melding, bedoeld in het tweede lid, plaatsvindt.   
 4.  De externe accountant die tot een melding als bedoeld in het tweede lid is overgegaan, is niet aansprakelijk voor de schade die een derde dientengevolge lijdt, tenzij aannemelijk wordt gemaakt dat gelet op alle feiten en omstandigheden in redelijkheid niet tot melding had mogen worden overgegaan.   
+5.  Een externe accountant kan, in afwijking van het eerste lid, volgens bij of krachtens algemene maatregel van bestuur te stellen regels vertrouwelijke gegevens of inlichtingen, verkregen bij het verrichten van een wettelijke controle, verstrekken aan derden. Deze vertrouwelijke gegevens of inlichtingen worden niet verstrekt aan toezichthoudende instanties.   
 
 ### Artikel  27  
 
@@ -602,11 +603,6 @@ De Autoriteit Financiële Markten kan de accountantsorganisatie waaraan een verg
 1.  Indien tegen een besluit tot het opleggen van een bestuurlijke boete bezwaar of beroep wordt aangetekend, schorst dit de verplichting tot betaling van de bestuurlijke boete totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.   
 2.  De schorsing van de verplichting tot betaling van de bestuurlijke boete schorst niet de berekening van de wettelijke rente.   
 
-### Artikel  62a  
-
-1.  Met het oog op waarborging van de publieke functie van de accountantsverklaring en de bevordering van het vertrouwen in de financiële markten, kan de Autoriteit Financiële Markten, nadat de beschikking waarbij een last onder dwangsom of een bestuurlijke boete is opgelegd, is bekendgemaakt, onverminderd [artikel 2:5 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), het feit ter zake waarvan een last onder dwangsom of een bestuurlijke boete is opgelegd, het overtreden voorschrift, alsmede de naam, het adres en de woonplaats van degene aan wie de last onder dwangsom of de bestuurlijke boete is opgelegd, ter openbare kennis brengen.   
-2.  Onze Minister kan regels stellen ter zake van de uitoefening van de bevoegdheid, bedoeld in het eerste lid.   
-
 ### Paragraaf  5.3  
 
 ####Beroep
@@ -617,7 +613,7 @@ Indien beroep wordt ingesteld tegen een besluit op grond van deze wet is, in afw
 
 ### Hoofdstuk  5a  
 
-####Geheimhoudingsplicht en uitzonderingen dienaangaande
+####Geheimhoudingsplicht
 
 ### Artikel  63a  
 
@@ -625,18 +621,9 @@ Indien beroep wordt ingesteld tegen een besluit op grond van deze wet is, in afw
 2.  In afwijking van het eerste lid kan de Autoriteit Financiële Markten van vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van haar taak op grond van deze wet, gebruik maken voor haar taak op grond van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), voor zover die gegevens of inlichtingen duiden op overtredingen als bedoeld in [artikel 1:97, eerste lid, van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
 3.  In afwijking van het eerste lid kan de Autoriteit Financiële Markten met gebruikmaking van vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van haar taak op grond van deze wet, mededelingen doen, indien deze niet kunnen worden herleid tot afzonderlijke personen, accountantsorganisaties of auditkantoren.   
 
-### Artikel  63b  
+### Hoofdstuk  5b  
 
-1.  De Autoriteit Financiële Markten verstrekt, in afwijking van artikel 63a, eerste lid, op verzoek van een toezichthoudende instantie van een andere lidstaat onverwijld vertrouwelijke gegevens of inlichtingen die ingevolge deze wet dan wel ingevolge [afdeling 5.2 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn verstrekt of verkregen, aan die toezichthoudende instantie, tenzij: 
-
-a. de verstrekking gevaar zou kunnen opleveren voor de Nederlandse soevereiniteit, nationale veiligheid of openbare orde; of  
-
-b. de gegevens of inlichtingen betrekking hebben op handelingen van een accountantsorganisatie waartegen in Nederland reeds een strafrechtelijke procedure is ingesteld;  
-
-c. reeds beroep is ingesteld tegen een beschikking als bedoeld in artikel 58 ten aanzien van de handelingen waarop de gegevens of inlichtingen betrekking hebben; of  
-
-d. met betrekking tot dezelfde handelingen en dezelfde accountantsorganisaties door de Autoriteit Financiële Markten een onherroepelijk besluit is genomen.     
-2.  Indien de Autoriteit Financiële Markten de gevraagde gegevens of inlichtingen niet onverwijld kan verstrekken, stelt zij de toezichthoudende instantie van de andere lidstaat hiervan in kennis.   
+####Samenwerking nationaal
 
 ### Artikel  63c  
 
@@ -659,18 +646,27 @@ b. het Nederlands Instituut van Registeraccountants, bedoeld in [artikel 1, eers
 c. een organisatorisch verband van marktpartijen, dat zich ten doel stelt een doeltreffende bijdrage te leveren aan de uitvoering door de Autoriteit Financiële Markten van het toezicht op de naleving van deze wet en daartoe met de Autoriteit Financiële Markten een convenant heeft gesloten;   voor zover de gegevens of inlichtingen noodzakelijk zijn voor de vervulling van de taken van de in de onderdelen a tot en met c bedoelde instanties.   
 2.  Voor zover de gegevens of inlichtingen, bedoeld in het eerste lid, zijn verkregen van een toezichthoudende instantie, verstrekt de Autoriteit Financiële Markten deze niet aan een instantie als bedoeld in het eerste lid, tenzij de toezichthoudende instantie waarvan de gegevens of inlichtingen zijn verkregen uitdrukkelijk heeft ingestemd met de verstrekking van de gegevens of inlichtingen en in voorkomend geval heeft ingestemd met het gebruik voor een ander doel dan waarvoor de gegevens of inlichtingen zijn verstrekt.   
 
-### Hoofdstuk  5b  
+### Hoofdstuk  5c  
 
-####Samenwerking toezichthouders
+####Samenwerking internationaal
 
-### Afdeling  5b.1  
+### Afdeling  5c.1  
 
-####Samenwerking met andere lidstaten algemeen
+####Samenwerking met toezichthoudende instanties van andere lidstaten
 
 ### Artikel  63f  
 
 1.  De Autoriteit Financiële Markten werkt samen met toezichthoudende instanties van andere lidstaten, indien dat voor het vervullen van haar taak op grond van deze wet of voor de vervulling van de taak van die toezichthoudende instanties nodig is.   
-2.  De Autoriteit Financiële Markten verstrekt op verzoek aan een toezichthoudende instantie van een andere lidstaat, met inachtneming van artikel 63a, alle gegevens en inlichtingen die voor de vervulling van de taak van die toezichthoudende instantie nodig zijn.   
+2.  De Autoriteit Financiële Markten verstrekt, in afwijking van artikel 63a, eerste lid, op verzoek van een toezichthoudende instantie van een andere lidstaat onverwijld vertrouwelijke gegevens of inlichtingen die voor de vervulling van de taak van die toezichthoudende instantie nodig zijn, tenzij: 
+
+a. een dergelijke verstrekking gevaar zou kunnen opleveren voor de Nederlandse soevereiniteit, nationale veiligheid of openbare orde;  
+
+b. de gegevens of inlichtingen betrekking hebben op handelingen van een accountantsorganisatie waartegen in Nederland reeds een strafrechtelijke procedure is ingesteld;  
+
+c. reeds beroep is ingesteld tegen een beschikking als bedoeld in artikel 58 ten aanzien van de handelingen waarop de gegevens of inlichtingen betrekking hebben; of  
+
+d. met betrekking tot dezelfde handelingen en dezelfde accountantsorganisatie door de Autoriteit Financiële Markten een onherroepelijk besluit is genomen.     
+3.  Indien de Autoriteit Financiële Markten de gevraagde gegevens of inlichtingen niet onverwijld kan verstrekken, stelt zij de toezichthoudende instantie van de andere lidstaat hiervan in kennis.   
 
 ### Artikel  63g  
 
@@ -695,13 +691,13 @@ d. met betrekking tot dezelfde handelingen en dezelfde accountantsorganisatie of
 1.  Indien de Autoriteit Financiële Markten vaststelt dat er in een andere lidstaat handelingen worden of zijn uitgevoerd die strijdig zijn met hetgeen ingevolge de richtlijn in die lidstaat is voorgeschreven, geeft zij hiervan op zo specifiek mogelijke wijze kennis aan de toezichthoudende instantie van de andere lidstaat.   
 2.  Indien de Autoriteit Financiële Markten een kennisgeving heeft ontvangen van een toezichthoudende instantie van een andere lidstaat dat er in Nederland handelingen worden of zijn uitgevoerd die strijdig zijn met deze wet, stelt zij de kennisgevende toezichthoudende instantie in kennis van de door haar genomen maatregelen, voor zover van toepassing, alsmede, voorzover mogelijk, van belangrijke tussentijdse ontwikkelingen.   
 
-### Afdeling  5b.2  
+### Afdeling  5c.2  
 
 ####Samenwerking met toezichthoudende instanties van staten die geen lidstaat zijn
 
 ### Artikel  63j  
 
-1.  De Autoriteit Financiële Markten kan, op verzoek van een toezichthoudende instantie van een staat die geen lidstaat is, gegevens of inlichtingen die afkomstig zijn van vergunninghoudende accountantsorganisaties of externe accountants en die betrekking hebben op controles bij ondernemingen die effecten hebben uitgegeven in de betrokken staat of die onderdeel uitmaken van een groep die is onderworpen aan een controle van geconsolideerde jaarrekeningen in die staat, met inachtneming van artikel 63f, verstrekken aan de betrokken toezichthoudende instantie, indien: 
+1.  De Autoriteit Financiële Markten kan, in afwijking van artikel 63a, eerste lid, op verzoek van een toezichthoudende instantie van een staat die geen lidstaat is, vertrouwelijke gegevens of inlichtingen die afkomstig zijn van vergunninghoudende accountantsorganisaties of externe accountants en die betrekking hebben op controles bij ondernemingen die effecten hebben uitgegeven in de betrokken staat of die onderdeel uitmaken van een groep die is onderworpen aan een controle van geconsolideerde jaarrekeningen in die staat verstrekken aan de betrokken toezichthoudende instantie, indien: 
 
 a. dat voor de vervulling van haar taak op grond van deze wet of van de taak van die toezichthoudende instantie nodig is;  
 
@@ -709,9 +705,7 @@ b. die toezichthoudende instantie voldoet aan eisen die de Commissie van de Euro
 
 c. de overdracht van persoonsgegevens geschiedt overeenkomstig de [Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
 
-d. met betrekking tot de gegevens en inlichtingen krachtens de wet in die staat ten minste gelijkwaardige waarborgen gelden ten aanzien van geheimhouding als op grond van artikel 63a, eerste lid;  
-
-e. zij met die toezichthoudende instantie op basis van wederkerigheid een overeenkomst heeft gesloten met betrekking tot gegevensverstrekking als bedoeld in dit artikel.     
+d. zij met die toezichthoudende instantie op basis van wederkerigheid een overeenkomst heeft gesloten met betrekking tot gegevensverstrekking als bedoeld in dit artikel.     
 2.  De Autoriteit Financiële Markten voldoet niet aan het in het eerste lid bedoelde verzoek, indien: 
 
 a. de verstrekking van de gegevens of inlichtingen gevaar zou kunnen opleveren voor de soevereiniteit, nationale veiligheid of openbare orde van Nederland of andere lidstaten; of  
@@ -896,7 +890,7 @@ J. P. H.Donner
 
 ### Bijlage  
 
-####bij artikel 1, eerste lid, onderdeel j , van de wet
+####bij artikel 1, eerste lid, onderdeel p , van de wet
 
 – [artikelen 36, tweede lid](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), en [45, derde lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
@@ -907,6 +901,8 @@ J. P. H.Donner
 – [artikel 91, eerste lid, van de Flora- en faunawet](../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);  
 
 – [artikel 213, tweede lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md);  
+
+– [artikel 35, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), voor zover het de controle betreft van de financiële verantwoordingen van de Nederlandse Zorgautoriteit, het College voor zorgverzekeringen en de organisatie ZorgOnderzoek Nederland;  
 
 – [artikel 12, tweede lid, van de Mediawet](../../../../../wet/mediawet/BWBR0004149/README.md);  
 
@@ -934,13 +930,9 @@ J. P. H.Donner
 
 – [artikel 5.41, derde lid, onderdeel d, van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
 
-– [artikel 13, vierde lid, van de Wet marktordening gezondheidszorg](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md);  
-
 – [artikel 46, tweede lid, van de Wet op de kamers van koophandel en fabrieken 1997](../../../../../wet/wet/op/de/kamers/van/koophandel/en/fabrieken/1997/BWBR0009276/README.md);  
 
 – [artikel 20, eerste lid, van de Wet Onafhankelijke post- en telecommunicatieautoriteit](../../../../../wet/wet/onafhankelijke/post-/en/telecommunicatieautoriteit/BWBR0008807/README.md);  
-
-– [artikel 14, eerste lid, van de Wet op de organisatie ZorgOnderzoek Nederland](../../../../../wet/wet/op/de/organisatie/zorgonderzoek/nederland/BWBR0009385/README.md);  
 
 – [artikel 24, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad](../../../../../wet/wet/op/de/pensioen-/en/uitkeringsraad/BWBR0004806/README.md);  
 
@@ -960,4 +952,4 @@ J. P. H.Donner
 
 – [artikelen 70c, tweede lid, onderdeel h](../../../../../wet/woningwet/BWBR0005181/README.md), en [71g, eerste lid, van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md);  
 
-– [artikelen 73, vierde lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), en [74, derde lid, van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
+– de [artikelen 74, derde lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), en [122a, twaalfde lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) juncto artikel 74, derde lid, van de Zorgverzekeringswet.   

@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Deze regeling geeft uitvoering aan de [artikelen 19](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [25](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [26](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [31](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [35](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [42c](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [44a](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [44b](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [53 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) alsmede aan [artikel 232e van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md), [artikel 255 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), [artikel 144 van de Waterschapswet](../../../../../wet/waterschapswet/BWBR0005108/README.md), de [artikelen 37l](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) en [77b van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) en [artikel 93a van de Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) in samenhang met [artikel 26 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
+1.  Deze regeling geeft uitvoering aan de [artikelen 19](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [25](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [26](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [31](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [35](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [42c](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [44a](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [44b](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [53 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) alsmede aan [artikel 232e van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md), [artikel 255 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), [artikel 144 van de Waterschapswet](../../../../../wet/waterschapswet/BWBR0005108/README.md), [artikel 8a.40 van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [artikel 93a van de Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) in samenhang met [artikel 26 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
 2.  Deze regeling verstaat hierna onder wet: de [Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).   
 
 ### Artikel  1a  
@@ -310,7 +310,7 @@ g. indien niet aan eventueel door de ontvanger gestelde voorwaarden is voldaan.
 
 ### Artikel  10  
 
-1.  Deze afdeling heeft betrekking op kwijtschelding van inkomstenbelasting verschuldigd door natuurlijke personen die geen bedrijf of niet zelfstandig een beroep uitoefenen, van loonbelasting verschuldigd door werknemers alsmede van door natuurlijke personen verschuldigd successierecht, schenkingsrecht, recht van overgang en verschuldigde belastingen van rechtsverkeer.   
+1.  Deze afdeling heeft betrekking op kwijtschelding van inkomstenbelasting verschuldigd door natuurlijke personen die geen bedrijf of niet zelfstandig een beroep uitoefenen, van loonbelasting verschuldigd door werknemers alsmede van erfbelasting, schenkbelasting, recht van overgang en belastingen van rechtsverkeer verschuldigd door natuurlijke personen.   
 2.  Deze afdeling heeft voorts, in afwijking in zoverre van artikel 20 betrekking op kwijtschelding van inkomstenbelasting verschuldigd door natuurlijke personen die een uitkering genieten ingevolge de [Wet werk en inkomen kunstenaars](../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md).   
 
 ### Artikel  11  
@@ -447,7 +447,7 @@ Het vermogen en de betalingscapaciteit van zijn echtgenoot, bedoeld in [artikel 
 
 ### Artikel  20  
 
-Deze afdeling heeft betrekking op kwijtschelding van inkomstenbelasting verschuldigd door natuurlijke personen die een bedrijf of zelfstandig een beroep uitoefenen, van vennootschapsbelasting, van loonbelasting verschuldigd door werkgevers, van omzetbelasting, dividendbelasting, kansspelbelasting, accijnzen, verbruiksbelastingen van alcoholvrije dranken en van pruimtabak en snuiftabak, van de in [artikel 1 van de Wet belastingen op milieugrondslag](../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) genoemde belastingen en van door rechtspersonen verschuldigd successierecht, schenkingsrecht, recht van overgang en belastingen van rechtsverkeer.  
+Deze afdeling heeft betrekking op kwijtschelding van inkomstenbelasting verschuldigd door natuurlijke personen die een bedrijf of zelfstandig een beroep uitoefenen, van vennootschapsbelasting, van loonbelasting verschuldigd door werkgevers, van omzetbelasting, dividendbelasting, kansspelbelasting, accijnzen, verbruiksbelastingen van alcoholvrije dranken en van pruimtabak en snuiftabak, van de in [artikel 1 van de Wet belastingen op milieugrondslag](../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) genoemde belastingen en van erfbelasting, schenkbelasting, recht van overgang en belastingen van rechtsverkeer verschuldigd door rechtspersonen.  
 
 ### Artikel  21  
 
@@ -521,7 +521,7 @@ b. gemeentelijke belastingen als bedoeld in [hoofdstuk XV, paragraaf 2](../../..
 
 c. waterschapsbelastingen als bedoeld in [hoofdstuk XVI van de Waterschapswet](../../../../../wet/waterschapswet/BWBR0005108/README.md) alsmede belastingen waarvan de heffing krachtens bijzondere wetten door het waterschap geschiedt;  
 
-d. de geluidsheffing burgerluchtvaart ingevolge [artikel 77 van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md);  
+d. de geluidsheffing burgerluchtvaart ingevolge [artikel 8a.38 van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
 
 e. de heffing ingevolge [artikel 91a van de Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), alsmede bij algemene maatregel van bestuur ingevolge [artikel 91h](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) of [artikel 92 van die wet](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) ingevoerde heffingen;  
 

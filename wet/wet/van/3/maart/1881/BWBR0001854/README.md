@@ -593,7 +593,7 @@ Ontzetting van het recht om ambten of bepaalde ambten te bekleden en bij de gewa
 
 1.  Vatbaar voor verbeurdverklaring zijn: 
 
-a. voorwerpen die aan de veroordeelde toebehoren of die hij geheel of ten dele ten eigen bate kan aanwenden en die geheel of grotendeels door middel van het strafbare feit zijn verkregen;  
+a. voorwerpen die aan de veroordeelde toebehoren of die hij geheel of ten dele ten eigen bate kan aanwenden en die geheel of grotendeels door middel van of uit de baten van het strafbare feit zijn verkregen;  
 
 b. voorwerpen met betrekking tot welke het feit is begaan;  
 
@@ -688,13 +688,19 @@ Vatbaar voor onttrekking aan het verkeer zijn bovendien de aan de dader of verda
 ### Artikel  36e  
 
 1.  Op vordering van het openbaar ministerie kan bij een afzonderlijke rechterlijke beslissing aan degene die is veroordeeld wegens een strafbaar feit de verplichting worden opgelegd tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel.   
-2.  De verplichting kan worden opgelegd aan de in het eerste lid bedoelde persoon die voordeel heeft verkregen door middel van of uit de baten van het daar bedoelde strafbare feit of soortgelijke feiten of feiten waarvoor een geldboete van de vijfde categorie kan worden opgelegd, waaromtrent voldoende aanwijzingen bestaan dat zij door hem zijn begaan.   
-3.  Op vordering van het openbaar ministerie kan bij een afzonderlijke rechterlijke beslissing aan degene die is veroordeeld wegens een misdrijf, waarvoor een geldboete van de vijfde categorie kan worden opgelegd, en tegen wie als verdachte van dat misdrijf een strafrechtelijk financieel onderzoek is ingesteld, de verplichting worden opgelegd tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel, indien gelet op dat onderzoek aannemelijk is dat ook dat feit of andere strafbare feiten er op enigerlei wijze toe hebben geleid dat de veroordeelde wederrechtelijk voordeel heeft verkregen.   
-4.  De rechter stelt het bedrag vast waarop het wederrechtelijk verkregen voordeel wordt geschat. Onder voordeel is de besparing van kosten begrepen. De waarde van voorwerpen die door de rechter tot het wederrechtelijk verkregen voordeel worden gerekend, kan worden geschat op de marktwaarde op het tijdstip van de beslissing of door verwijzing naar de bij openbare verkoop te behalen opbrengst, indien verhaal moet worden genomen. De rechter kan het te betalen bedrag lager vaststellen dan het geschatte voordeel. Op het gemotiveerde verzoek van de verdachte of veroordeelde kan de rechter, indien de huidige en de redelijkerwijs te verwachten toekomstige draagkracht van de verdachte of veroordeelde niet toereikend zullen zijn om het te betalen bedrag te voldoen, bij de vaststelling van het te betalen bedrag daarmee rekening houden. Bij het ontbreken van zodanig verzoek kan de rechter ambtshalve of op vordering van de officier van justitie deze bevoegdheid toepassen.   
-5.  Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.   
-6.  Bij de bepaling van de omvang van het bedrag waarop het wederrechtelijk verkregen voordeel wordt geschat, worden aan benadeelde derden in rechte toegekende vorderingen in mindering gebracht.   
-7.  Bij de oplegging van de maatregel wordt rekening gehouden met uit hoofde van eerdere beslissingen opgelegde verplichtingen tot betaling van een geldbedrag ter ontneming van wederrechtelijk verkregen voordeel.   
-8.  Lijfsdwang kan met toepassing van [artikel 577c van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) door de rechter tot maximaal drie jaar worden bevolen en geldt als maatregel.   
+2.  De verplichting kan worden opgelegd aan de in het eerste lid bedoelde persoon die voordeel heeft verkregen door middel van of uit de baten van het daar bedoelde feit of andere strafbare feiten, waaromtrent voldoende aanwijzingen bestaan dat zij door de veroordeelde zijn begaan.   
+3.  Op vordering van het openbaar ministerie kan bij een afzonderlijke rechterlijke beslissing aan degene die is veroordeeld wegens een misdrijf dat naar de wettelijke omschrijving wordt bedreigd met een geldboete van de vijfde categorie, de verplichting worden opgelegd tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel, indien aannemelijk is dat of dat misdrijf of andere strafbare feiten op enigerlei wijze ertoe hebben geleid dat de veroordeelde wederrechtelijk voordeel heeft verkregen. In dat geval kan ook worden vermoed dat: 
+
+a. uitgaven die de veroordeelde heeft gedaan in een periode van zes jaren voorafgaand aan het plegen van dat misdrijf, wederrechtelijk verkregen voordeel belichamen, tenzij aannemelijk is dat deze uitgaven zijn gedaan uit een legale bron van inkomsten, of;  
+
+b. voorwerpen die in een periode van zes jaren voorafgaand aan het plegen van dat misdrijf aan de veroordeelde zijn gaan toebehoren voordeel belichamen als bedoeld in het eerste lid, tenzij aannemelijk is dat aan de verkrijging van die voorwerpen een legale bron van herkomst ten grondslag ligt.     
+4.  De rechter kan ambtshalve, op vordering van het openbaar ministerie of op het verzoek van de veroordeelde afwijken van de in het derde lid genoemde periode van zes jaren en een kortere periode in aanmerking nemen.   
+5.  De rechter stelt het bedrag vast waarop het wederrechtelijk verkregen voordeel wordt geschat. Onder voordeel is de besparing van kosten begrepen. De waarde van voorwerpen die door de rechter tot het wederrechtelijk verkregen voordeel worden gerekend, kan worden geschat op de marktwaarde op het tijdstip van de beslissing of door verwijzing naar de bij openbare verkoop te behalen opbrengst, indien verhaal moet worden genomen. De rechter kan het te betalen bedrag lager vaststellen dan het geschatte voordeel. Op het gemotiveerde verzoek van de verdachte of veroordeelde kan de rechter, indien de huidige en de redelijkerwijs te verwachten toekomstige draagkracht van de verdachte of veroordeelde niet toereikend zullen zijn om het te betalen bedrag te voldoen, bij de vaststelling van het te betalen bedrag daarmee rekening houden. Bij het ontbreken van zodanig verzoek kan de rechter ambtshalve of op vordering van de officier van justitie deze bevoegdheid toepassen.   
+6.  Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.   
+7.  Bij het vaststellen van het bedrag van het wederrechtelijk verkregen voordeel op grond van het eerste en tweede lid ter zake van strafbare feiten die door twee of meer personen zijn gepleegd, kan de rechter bepalen dat deze hoofdelijk dan wel voor een door hem te bepalen deel aansprakelijk zijn voor de gezamenlijke betalingsverplichting.   
+8.  Bij de bepaling van de omvang van het bedrag waarop het wederrechtelijk verkregen voordeel wordt geschat, worden aan benadeelde derden in rechte toegekende vorderingen in mindering gebracht.   
+9.  Bij de oplegging van de maatregel wordt rekening gehouden met uit hoofde van eerdere beslissingen opgelegde verplichtingen tot betaling van een geldbedrag ter ontneming van wederrechtelijk verkregen voordeel.   
+10.  Lijfsdwang kan met toepassing van [artikel 577c van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) door de rechter tot maximaal drie jaar worden bevolen en geldt als maatregel.   
 
 ### Artikel  36f  
 
@@ -1310,7 +1316,7 @@ Ten aanzien van degene die ten tijde van het begaan van een strafbaar feit de le
 
 ### Artikel  77c  
 
-Ten aanzien van degene die ten tijde van het begaan van het strafbaar feit de leeftijd van achttien jaren doch nog niet die van eenentwintig jaren heeft bereikt, kan de rechter, indien hij daartoe grond vindt in de persoonlijkheid van de dader of de omstandigheden waaronder het feit is begaan, recht doen overeenkomstig de artikelen 77g tot en met 77gg. De uitvoering van de maatregel van plaatsing in een inrichting voor jeugdigen vindt dan plaats overeenkomstig artikel 37c.  
+Ten aanzien van degene die ten tijde van het begaan van het strafbaar feit de leeftijd van achttien jaren doch nog niet die van eenentwintig jaren heeft bereikt, kan de rechter, indien hij daartoe grond vindt in de persoonlijkheid van de dader of de omstandigheden waaronder het feit is begaan, recht doen overeenkomstig de artikelen 77g tot en met 77gg. De uitvoering van de maatregel van plaatsing in een inrichting voor jeugdigen vindt dan plaats overeenkomstig artikel 37a.  
 
 ### Artikel  77d  
 
@@ -1463,26 +1469,28 @@ c. de maatregel in het belang is van een zo gunstig mogelijke verdere ontwikkeli
 3.  De maatregel kan ook worden opgelegd indien de verdachte niet strafbaar is op de grond dat het feit hem wegens de gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens niet kan worden toegerekend. Indien bij de verdachte tijdens het begaan van het feit een gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens bestond, dient bij toepassing van het eerste lid één van de gedragsdeskundigen een psychiater te zijn.   
 4.  Het tweede lid blijft buiten toepassing indien de betrokkene weigert medewerking te verlenen aan het onderzoek dat ten behoeve van het advies moet worden verricht. Voor zover mogelijk maken de gedragsdeskundigen gezamenlijk dan wel ieder van hen afzonderlijk over de reden van weigering rapport op. De rechter doet zich zoveel mogelijk een ander advies of rapport, dat hem over de wenselijkheid of noodzakelijkheid van de oplegging van de maatregel kan voorlichten en aan de totstandkoming waarvan de betrokkene wel bereid is om medewerking te verlenen, overleggen.   
 5.  Indien de maatregel is opgelegd draagt Onze Minister van Justitie de tenuitvoerlegging op aan een inrichting als bedoeld in artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen, of doet hij de veroordeelde elders opnemen.   
-6.  De maatregel geldt voor de tijd van twee jaar. De termijn gaat in nadat de rechterlijke uitspraak onherroepelijk is geworden. De maatregel vervalt bij het onherroepelijk worden van een rechterlijke uitspraak waarbij de betrokkene wederom de maatregel wordt opgelegd.   
+6.  De maatregel geldt voor de tijd van drie jaar. Na twee jaar eindigt de maatregel voorwaardelijk, tenzij de maatregel wordt verlengd op de wijze als bedoeld in artikel 77t. De termijn gaat in nadat de rechterlijke uitspraak onherroepelijk is geworden. De maatregel vervalt bij het onherroepelijk worden van een rechterlijke uitspraak waarbij de betrokkene wederom de maatregel wordt opgelegd.   
 7.  De termijn van de maatregel loopt niet: 
 
 a. gedurende de tijd dat aan de veroordeelde uit anderen hoofde rechtens zijn vrijheid is ontnomen en gedurende de tijd dat hij uit zodanige vrijheidsontneming ongeoorloofd afwezig is;  
 
-b. wanneer de veroordeelde langer dan een week ongeoorloofd afwezig is uit de plaats die voor de tenuitvoerlegging van de maatregel is aangewezen.     
-8.  Onze Minister van Justitie kan de maatregel te allen tijde, na advies te hebben ingewonnen van de raad voor de kinderbescherming, voorwaardelijk of onvoorwaardelijk beëindigen.   
+b. wanneer de veroordeelde langer dan een week ongeoorloofd afwezig is uit de plaats die voor de tenuitvoerlegging van de maatregel is aangewezen;  
+
+c. wanneer de maatregel voorwaardelijk is geëindigd en de veroordeelde buiten de plaats verblijft die voor de tenuitvoerlegging is aangewezen.     
+8.  Onverminderd het bepaalde in het zevende lid, kan Onze Minister de maatregel te allen tijde, na advies te hebben ingewonnen van de raad voor de kinderbescherming, voorwaardelijk of onvoorwaardelijk beëindigen.   
 
 ### Artikel  77t  
 
-1.  De rechter die in eerste aanleg heeft kennis genomen van het misdrijf ter zake waarvan de maatregel is opgelegd, kan op vordering van het openbaar ministerie de termijn, bedoeld in artikel 77s, zesde lid, telkens met ten hoogste twee jaren verlengen. Niet eerder dan twee maanden en niet later dan een maand voor het tijdstip waarop de maatregel door tijdsverloop zal eindigen, kan het openbaar ministerie een vordering indienen tot verlenging van de maatregel. De artikelen 509oa en 509q van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.   
-2.  Verlenging van de termijn van de maatregel is slechts mogelijk voor zover de maatregel daardoor de duur van vier jaar niet te boven gaat, tenzij de maatregel is opgelegd aan een verdachte als bedoeld in artikel 77s, derde lid, tweede volzin. In zodanig geval is verlenging mogelijk voor zover de maatregel de duur van zes jaar niet te boven gaat.   
-3.  De verlenging is slechts mogelijk, indien de maatregel is opgelegd ter zake van een misdrijf dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van één of meer personen. Artikel 77s, eerste lid, onder b en c, is van overeenkomstige toepassing. De verlenging is niet mogelijk indien gebruik is gemaakt van de bevoegdheid, bedoeld in artikel 77x.   
+1.  De rechter die in eerste aanleg heeft kennis genomen van het misdrijf ter zake waarvan de maatregel is opgelegd, kan op vordering van het openbaar ministerie de termijn, bedoeld in artikel 77s, zesde lid, eerste volzin telkens met ten hoogste twee jaren verlengen. Niet eerder dan twee maanden en niet later dan een maand voor het tijdstip waarop de maatregel voorwaardelijk eindigt, kan het openbaar ministerie een vordering indienen tot verlenging van de maatregel. De artikelen 509oa en 509q van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.   
+2.  Verlenging van de termijn van de maatregel is slechts mogelijk voor zover de maatregel daardoor de duur van vijf jaar niet te boven gaat, tenzij de maatregel is opgelegd aan een verdachte als bedoeld in artikel 77s, derde lid, tweede volzin. In zodanig geval is verlenging mogelijk voor zover de maatregel de duur van zeven jaar niet te boven gaat. In de gevallen waarin de maatregel is verlengd, eindigt de maatregel voorwaardelijk een jaar voordat de maximale duur van de maatregel wordt bereikt. Artikel 77s, zevende lid, is van overeenkomstige toepassing.   
+3.  De verlenging is slechts mogelijk, indien de maatregel is opgelegd ter zake van een misdrijf dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van één of meer personen. Artikel 77s, eerste lid, onder b en c, is van overeenkomstige toepassing.   
 4.  Een vordering tot verlenging van de maatregel van plaatsing in een inrichting voor jeugdigen wordt bij de rechtbank behandeld door de meervoudige kamer.   
 5.  Bij de vordering worden overgelegd: 
 
 a. een recent opgemaakt, met redenen omkleed en ondertekend advies afkomstig van het hoofd van de inrichting, en  
 
 b. een afschrift van de aantekeningen omtrent de lichamelijke en geestelijke gesteldheid van de veroordeelde.     
-6.  De maatregel kan zonder advies, bedoeld in het vierde lid, onder *a*, worden verlengd indien dit door gebrek aan medewerking van de veroordeelde niet kan worden uitgebracht.   
+6.  De maatregel kan zonder advies, bedoeld in het vijfde lid onder a, worden verlengd indien dit door gebrek aan medewerking van de veroordeelde niet kan worden uitgebracht.   
 
 ### Artikel  77ta  
 
@@ -1517,7 +1525,7 @@ c. bijzondere voorwaarden stellen die het gedrag van de jeugdige betreffen.
 
 ### Artikel  77u  
 
-Een beslissing op grond van artikel 77t wordt bij beschikking genomen, nadat de veroordeelde en indien deze minderjarig is, ook degenen die het gezag over hem uitoefenen, zijn gehoord of behoorlijk opgeroepen. De artikelen 14h, 14i, tweede tot en met zesde lid, en 14j van dit wetboek alsmede artikel 495b van het Wetboek van Strafvordering zijn van overeenkomstige toepassing, onverminderd de artikelen 502 en 503 van het Wetboek van Strafvordering.  
+Een beslissing op grond van de artikelen 77t, 77tb en 77wd wordt bij beschikking genomen, nadat de veroordeelde en indien deze minderjarig is, ook degenen die het gezag over hem uitoefenen, zijn gehoord of behoorlijk opgeroepen. De artikelen 14h, 14i, tweede tot en met zesde lid, en 14j van dit wetboek alsmede artikel 495b van het Wetboek van Strafvordering zijn van overeenkomstige toepassing, onverminderd de artikelen 502 en 503 van het Wetboek van Strafvordering.  
 
 ### Artikel  77v  
 
@@ -1538,7 +1546,7 @@ b. de maatregel in het belang is van een zo gunstig mogelijke verdere ontwikkeli
 4.  Het programma, bedoeld in het derde lid, mag de vrijheid van de veroordeelde zijn godsdienst of levensovertuiging te belijden, en de staatkundige vrijheid niet beperken.   
 5.  De instellingen of organisaties, bedoeld in het derde lid, stellen voor de uitvoering van het programma een plan vast dat is afgestemd op de problematiek van de veroordeelde. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de eisen waaraan het plan, alsmede waaraan de programma’s en de instellingen of organisaties, bedoeld in het derde lid, moeten voldoen. Bij of krachtens algemene maatregel van bestuur kunnen voorts regels worden gesteld omtrent de werkwijze van de instellingen of organisaties, bedoeld in het derde lid.   
 6.  De maatregel wordt opgelegd voor de tijd van ten minste zes maanden en ten hoogste een jaar. De termijn gaat in nadat de rechterlijke uitspraak onherroepelijk is geworden.   
-7.  De jeugdreclassering heeft tot taak de voorbereiding en de ondersteuning van de tenuitvoerlegging van de maatregel. Bij de tenuitvoerlegging van de maatregel stelt de jeugdreclassering de identiteit van de veroordeelde vast op de wijze, bedoeld in artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering. Over de wijze waarop de veroordeelde de maatregel uitvoert, kan het openbaar ministerie inlichtingen inwinnen bij de jeugdreclassering.   
+7.  De stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg heeft tot taak de voorbereiding en de ondersteuning van de tenuitvoerlegging van de maatregel. Bij de tenuitvoerlegging van de maatregel stelt de stichting de identiteit van de veroordeelde vast op de wijze, bedoeld in artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering. Over de wijze waarop de veroordeelde de maatregel uitvoert, kan het openbaar ministerie inlichtingen inwinnen bij de stichting. Indien de jeugdige ten tijde van de tenuitvoerlegging van de maatregel de leeftijd van achttien jaren bereikt of heeft bereikt, kan de rechter bepalen dat de ondersteuning van de tenuitvoerlegging van de maatregel geschiedt door een reclasseringsinstelling als bedoeld in artikel 14d, tweede lid.   
 8.  De termijn van de maatregel loopt niet gedurende de tijd dat aan de veroordeelde uit anderen hoofde rechtens zijn vrijheid is ontnomen en gedurende de tijd dat hij uit zodanige vrijheidsontneming ongeoorloofd afwezig is.   
 
 ### Artikel  77wa  
@@ -1562,7 +1570,7 @@ b. de maatregel in het belang is van een zo gunstig mogelijke verdere ontwikkeli
 
 ### Artikel  77wd  
 
-1.  Indien het gedrag van de veroordeelde daartoe aanleiding geeft en verlenging in het belang is van de ontwikkeling van de veroordeelde, kan de rechter de termijn van de maatregel, op vordering van het openbaar ministerie, eenmaal verlengen voor ten hoogste dezelfde tijd als waarvoor de maatregel was opgelegd. Niet eerder dan twee maanden en niet later dan een maand voor het tijdstip waarop de maatregel door tijdsverloop zal eindigen, kan het openbaar ministerie een vordering indienen tot verlenging van de maatregel. Artikel 77u is van overeenkomstige toepassing.   
+1.  Indien het gedrag van de veroordeelde daartoe aanleiding geeft en verlenging in het belang is van de ontwikkeling van de veroordeelde, kan de rechter de termijn van de maatregel, op vordering van het openbaar ministerie, eenmaal verlengen voor ten hoogste dezelfde tijd als waarvoor de maatregel was opgelegd. Niet eerder dan twee maanden en niet later dan een maand voor het tijdstip waarop de maatregel door tijdsverloop zal eindigen, kan het openbaar ministerie een vordering indienen tot verlenging van de maatregel.   
 2.  Een vordering als bedoeld in het eerste lid, die later dan een maand voor het tijdstip waarop de maatregel door tijdsverloop zal eindigen, doch binnen een redelijke termijn is ingediend, is niettemin ontvankelijk, indien er bijzondere omstandigheden zijn waardoor de verdere ontwikkeling van de jeugdige de verlenging van de maatregel eist.   
 3.  Bij de vordering worden overgelegd: 
 
@@ -1570,11 +1578,11 @@ a. een recent opgemaakt, met redenen omkleed advies, afkomstig van de raad voor 
 
 b. een afschrift van de aantekeningen omtrent het gedrag van de veroordeelde, afkomstig van de instelling of organisatie die belast is met de uitvoering van de maatregel.     
 4.  In de beslissing omtrent de verlenging geeft de rechter aan waaruit de verlenging van de maatregel bestaat. De verlenging kan inhouden dat het programma waaraan de veroordeelde deelneemt wordt verlengd. De verlenging kan ook inhouden dat de veroordeelde deelneemt aan een door de rechter aan te wijzen programma in een daarbij aan te wijzen inrichting of dat de veroordeelde een door de rechter aan te wijzen ambulant programma zal volgen onder begeleiding van een in de beslissing aangewezen organisatie.   
-5.  Artikel 77wa is van overeenkomstige toepassing op de beslissing tot verlenging.   
+5.  De artikelen 77wa, 77wb en 77wc zijn van overeenkomstige toepassing.   
 
 ### Artikel  77x  
 
-In geval van een veroordeling tot jeugddetentie, vervangende jeugddetentie daaronder niet begrepen, tot taakstraf, tot geldboete, tot plaatsing in een inrichting voor jeugdigen, tot de maatregel betreffende het gedrag van de jeugdige of tot ontzegging van de bevoegdheid motorrijtuigen te besturen, kan de rechter bepalen dat deze geheel of gedeeltelijk niet ten uitvoer zal worden gelegd. De rechter kan de werking van de bijzondere voorwaarden beperken tot een bij de uitspraak te bepalen tijdsduur binnen de proeftijd.  
+In geval van een veroordeling tot jeugddetentie, vervangende jeugddetentie daaronder niet begrepen, tot taakstraf, tot geldboete, tot plaatsing in een inrichting voor jeugdigen, tot de maatregel betreffende het gedrag van de jeugdige of tot ontzegging van de bevoegdheid motorrijtuigen te besturen, kan de rechter bepalen dat deze geheel of gedeeltelijk niet ten uitvoer zal worden gelegd.  
 
 ### Artikel  77y  
 

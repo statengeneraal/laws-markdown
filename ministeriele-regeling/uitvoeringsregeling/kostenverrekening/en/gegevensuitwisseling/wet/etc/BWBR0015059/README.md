@@ -15,7 +15,7 @@ Besluit:
 
 ####Reikwijdte
 
-Deze regeling geeft uitvoering aan [artikel 37g van de Wet waardering onroerende zaken](../../../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) en [artikel 2 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken](../../../../../../../../AMvB/uitvoeringsbesluit/kostenverrekening/en/gegevensuitwisseling/wet/etc/BWBR0007230/README.md).  
+Deze regeling geeft uitvoering aan [artikel 37g van de Wet waardering onroerende zaken](../../../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), [artikel 26 van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [artikel 2 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken](../../../../../../../../AMvB/uitvoeringsbesluit/kostenverrekening/en/gegevensuitwisseling/wet/etc/BWBR0007230/README.md).  
 
 ### Artikel  2  
 
@@ -60,6 +60,16 @@ De individuele waterschappen betalen aan de Minister van Binnenlandse Zaken en K
 
 Uit het gemeentefonds wordt een bedrag van € 1 000 000 afgezonderd en ter beschikking gesteld aan de Vereniging van Nederlandse Gemeenten ter vergoeding van kosten die samenhangen met verbeteringen op het gebied van kwaliteit en kostenbeheersing bij de uitvoering van de wet.  
 
+### Hoofdstuk  3a  
+
+####Waarderingskamer
+
+### Artikel  6  
+
+####Datum verzenden begroting
+
+De Waarderingskamer zendt jaarlijks voor 1 december de begroting voor het daaropvolgende kalenderjaar aan de Minister van Financiën.  
+
 ### Hoofdstuk  4  
 
 ####Basisregistratie waarde onroerende zaken.
@@ -74,6 +84,17 @@ Het college plaatst de aantekening ‘in onderzoek’ bij een waardegegeven binn
 
 ####Slotbepalingen
 
+### Artikel  8  
+
+####Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met het tijdstip waarop het Koninklijk Besluit van 28 april 2003, Stb. 2003, 179, tot wijziging van het [Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken](../../../../../../../../AMvB/uitvoeringsbesluit/kostenverrekening/en/gegevensuitwisseling/wet/etc/BWBR0007230/README.md), in verband met een nieuwe verdeelsystematiek van de kosten van de waardering in werking is getreden.  
+
+### Artikel  9  
+
+####Citeertitel
+
+Deze regeling wordt aangehaald als: Uitvoeringsregeling kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 

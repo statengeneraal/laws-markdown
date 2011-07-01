@@ -23,16 +23,16 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  2  
 
-1.  Ter zake van de in de bijlage bij deze wet omschreven gedragingen die in strijd zijn met op het verkeer betrekking hebbende voorschriften gesteld bij of krachtens de [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), de [Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md) of de [Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) (*Stb.* 1992, 96), kunnen op de wijze bij deze wet bepaald administratieve sancties worden opgelegd. Ingeval een administratiefrechtelijke sanctie wordt opgelegd zijn voorzieningen van strafrechtelijke of strafvorderlijke aard uitgesloten.   
+1.  Ter zake van de in de bijlage bij deze wet omschreven gedragingen die in strijd zijn met op het verkeer betrekking hebbende voorschriften gesteld bij of krachtens de [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), de [Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md), de [Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md) of de [Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md), kunnen op de wijze bij deze wet bepaald administratieve sancties worden opgelegd. Ingeval een administratiefrechtelijke sanctie wordt opgelegd zijn voorzieningen van strafrechtelijke of strafvorderlijke aard uitgesloten.   
 2.  Als gedragingen in de zin van het eerste lid worden niet beschouwd die gedragingen waarbij letsel aan personen is ontstaan of schade aan goederen is toegebracht.   
-3.  Voor elke gedraging bepaalt de in het eerste lid bedoelde bijlage de aan de Staat te betalen geldsom. Deze geldsom kan niet meer zijn dan € 340 per gedraging.   
+3.  Voor elke gedraging bepaalt de in het eerste lid bedoelde bijlage de aan de Staat te betalen geldsom. Deze geldsom kan per gedraging niet meer zijn dan het bedrag van de geldboete van de eerste categorie.   
 4.  De in het derde lid bedoelde geldsom wordt voor personen die ten tijde van de gedraging nog geen zestien jaar oud waren, gehalveerd.   
-5.  De in het eerste lid bedoelde bijlage kan bij algemene maatregel van bestuur worden gewijzigd. Deze algemene maatregel van bestuur treedt niet eerder in werking dan vier weken na de datum van uitgifte van het *Staatsblad* waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.   
+5.  De in het eerste lid bedoelde bijlage kan bij algemene maatregel van bestuur worden gewijzigd. De voordracht van deze algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 6.  Een algemene maatregel van bestuur, als bedoeld in het vijfde lid, wordt vastgesteld op voordracht van Onze Minister en Onze Minister van Verkeer en Waterstaat.   
 
 ### Artikel  2a  
 
-De [titels 4.4](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5.1](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing op het opleggen en de inning van een administratieve sanctie op grond van deze wet.  
+De [titels 4.4](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5.1](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing op het opleggen en de inning van een administratieve sanctie en de administratiekosten op grond van deze wet.  
 
 ### Hoofdstuk  III  
 
@@ -238,7 +238,7 @@ Indien de zaak op een zitting zal worden behandeld worden de stukken van het ged
 ### Artikel  23  
 
 1.  Uiterlijk binnen twee weken nadat een beschikking waarbij een administratieve sanctie is opgelegd, onherroepelijk is geworden, moeten de administratieve sanctie en de administratiekosten zijn voldaan.   
-2.  De sanctie wordt van rechtswege met vijfentwintig procent, doch ten minste € 4, verhoogd indien deze niet tijdig geheel wordt voldaan.   
+2.  De sanctie wordt van rechtswege met vijftig procent verhoogd indien deze niet tijdig geheel wordt voldaan.   
 
 ### Artikel  24  
 
@@ -246,7 +246,7 @@ Degene aan wie een administratieve sanctie is opgelegd, is tot betaling van het 
 
 ### Artikel  25  
 
-1.  Indien degene aan wie een administratieve sanctie is opgelegd nalatig blijft de sanctie en de daarop gevallen verhoging geheel te voldoen binnen de in de aanmaning gestelde termijn van vier weken, wordt het inmiddels verschuldigde bedrag van rechtswege verder verhoogd met vijftig procent van het bedrag van de sanctie en de daarop inmiddels gevallen verhoging, doch ten minste € 11, en kan door de officier van justitie verhaal worden genomen op de goederen, de inkomsten en het vermogen van degene aan wie een administratieve sanctie is opgelegd, overeenkomstig het bepaalde in de artikelen 26 en 27.   
+1.  Indien degene aan wie een administratieve sanctie is opgelegd nalatig blijft de sanctie en de daarop gevallen verhoging geheel te voldoen binnen de in de aanmaning gestelde termijn van vier weken, wordt het inmiddels verschuldigde bedrag van rechtswege verder verhoogd met honderd procent van het bedrag van de sanctie en de daarop inmiddels gevallen verhoging, en kan door de officier van justitie verhaal worden genomen op de goederen, de inkomsten en het vermogen van degene aan wie een administratieve sanctie is opgelegd, overeenkomstig het bepaalde in de artikelen 26 en 27.   
 2.  Door de officier van justitie kan verhaal worden genomen gedurende twee jaar nadat ten aanzien van de administratieve sanctie een onherroepelijke beslissing is genomen.   
 3.  Het recht om verhaal te nemen vervalt door het overlijden van degene aan wie een administratieve sanctie is opgelegd.   
 
@@ -1685,6 +1685,8 @@ G. J. M. Braks
 | --- | --- | --- |  *Nummer K 600: Reglement rijbewijzen (RR)*   | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | K  | 600  | --- | als bestuurder van een motorrijtuig van de rijbewijscategorie A niet op eerste vordering het theoriecertificaat dan wel de oproep voor het examen ter inzage geven  | 2 lid 2 RR  | --- | 70  | --- | --- | --- | --- | --- | --- |
+| A  | 902  | --- | als bezitter, als houder of als degene aan wie het kenteken is opgegeven, voor een motorrijtuig, zijnde een bromfiets, waarvoor een kentekenbewijs is afgegeven niet de vereiste verzekering sluiten en in stand houden  |  *30 lid 2 WAM*   | --- | --- | --- | --- | --- | --- | --- | 310  |
+| A  | 915  | --- | als bezitter, als houder of als degene aan wie het kenteken is opgegeven, voor een motorrijtuig, niet zijnde een bromfiets, waarvoor een kentekenbewijs is afgegeven, niet de vereiste verzekering sluiten en in stand houden  |  *30 lid 2 WAM*   | --- | --- | --- | --- | --- | --- | --- | 380  |
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|

@@ -69,25 +69,30 @@ h. de overtreding van [artikel 34](../../../../../wet/wet/aansprakelijkheidsverz
 
 i. de overtreding van [artikel 107, eerste lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
-j. de overtreding van de [artikelen 19](../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [20, onderdeel a](../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [21, onderdeel a](../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), en [62 van het Reglement verkeersregels en verkeerstekens 1990](../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) juncto bord A1 of A3 van bijlage 1 voorzover het betreft motorrijtuigen, elk indien de maximumsnelheid met meer dan dertig kilometer per uur is overschreden;  
+j. de overtreding van [artikel 110, eerste lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), voor zover de overtreding is gepleegd met een voertuig voor het besturen waarvan een rijbewijs is vereist;  
 
-k. de overtreding van [artikel 8.06, eerste lid, van het Binnenvaartpolitiereglement](../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) en [artikel 5.01 Binnenvaartpolitiereglement](../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) juncto verkeersteken B6 of een bekendmaking met dezelfde strekking als een verkeersteken als bedoeld in [artikel 13 Besluit administratieve bepalingen scheepvaartverkeer](../../../../../AMvB/besluit/administratieve/bepalingen/scheepvaartverkeer/BWBR0006309/README.md) voorzover het betreft kleine schepen, elk indien de maximumsnelheid met meer dan vijfentwintig kilometer per uur is overschreden;  
+k. de overtreding van [artikel 5.6.8, eerste lid, Regeling voertuigen](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), indien de maximumconstructiesnelheid met meer dan 15 kilometer per uur is overschreden;  
 
-l. de overtredingen van de [Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+l. de overtreding van de [artikelen 19](../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [20, aanhef en onder a en b](../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [21, aanhef en onder a en b](../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [22, aanhef en onder a, b, d, e, f en g](../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) en [62](../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) juncto bord A1 of A3 van [bijlage 1, van het Reglement verkeersregels en verkeerstekens 1990](../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), voor zover voor de overtreding geen administratiefrechtelijke sanctie wordt opgelegd;  
 
-m. de overtredingen van de [Wet op de kansspelen](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);  
+m. de overtreding van [artikel 8.06, eerste lid, van het Binnenvaartpolitiereglement](../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) en [artikel 5.01 Binnenvaartpolitiereglement](../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) juncto verkeersteken B6 of een bekendmaking met dezelfde strekking als een verkeersteken als bedoeld in [artikel 13 Besluit administratieve bepalingen scheepvaartverkeer](../../../../../AMvB/besluit/administratieve/bepalingen/scheepvaartverkeer/BWBR0006309/README.md) voorzover het betreft kleine schepen, elk indien de maximumsnelheid met meer dan vijfentwintig kilometer per uur is overschreden;  
 
-n. de overtredingen van de [Wet wapens en munitie](../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md);  
+n. de overtredingen van de [Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
 
-o. de overtredingen van de [Drank- en Horecawet](../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md);  
+o. de overtredingen van de [Wet op de kansspelen](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);  
 
-p. de overtredingen van de [Flora- en faunawet](../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md).     
+p. de overtredingen van de [Wet wapens en munitie](../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md);  
+
+q. de overtredingen van de [Drank- en Horecawet](../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md);  
+
+r. de overtredingen van de [Flora- en faunawet](../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md).     
 3.  Het eerste lid is van overeenkomstige toepassing op zaken die door de procureur-generaal bij de Hoge Raad in behandeling zijn genomen en waarvan de Hoge Raad ingevolge [artikel 76](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) in eerste instantie en tevens in hoogste ressort kennis neemt.   
 
 ### Artikel  5  
 
 1.  Als justitiële gegevens worden aangemerkt de strafbeschikkingen uitgevaardigd op grond van [artikel 257b van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), met uitzondering van de met betrekking tot overtredingen uitgevaardigde strafbeschikkingen waarin een geldboete wordt opgelegd die minder dan € 100 beloopt.   
-2.  Artikel 7, eerste lid, onderdelen c en h, is van overeenkomstige toepassing.   
+2.  Als justitiële gegevens worden aangemerkt de strafbeschikkingen terzake van misdrijven, uitgevaardigd krachtens de [artikelen 76 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [10:15 van de Algemene douanewet](../../../../../wet/algemene/douanewet/BWBR0023746/README.md).   
+3.  Artikel 7, eerste lid, onderdelen c en h, is van overeenkomstige toepassing.   
 
 ### Artikel  6  
 
@@ -260,23 +265,40 @@ f. opsporingsambtenaren.
 
 Justitiële gegevens, bedoeld in de [artikelen 10](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [11](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) of  [12 van de wet](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), worden desgevraagd verstrekt aan de voorzitter van de commissie, bedoeld in [artikel 8, eerste lid, van de Wet schadefonds geweldsmisdrijven](../../../../../wet/wet/schadefonds/geweldsmisdrijven/BWBR0002979/README.md) ten behoeve van de werkzaamheden die de commissie bij deze wet zijn opgedragen.  
 
+### Artikel  11a  
+
+1.  Ten behoeve van de handhaving van de openbare orde in verband met de terugkeer van de betrokkene in de maatschappij kan Onze Minister, aan de burgemeester of de door hem aangewezen ambtenaar justitiële gegevens als bedoeld in artikel 6, eerste lid, en artikel 7, eerste lid, onder a, b, c, d, f, j, k en l, verstrekken van natuurlijke personen die onherroepelijk zijn veroordeeld tot: 
+
+a. een onvoorwaardelijke vrijheidsbenemende straf of vrijheidsbenemende maatregel ter zake van een misdrijf bedoeld in de volgende artikelen van het [Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md): 
+
+1° [240b](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [242 tot en met 247](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [248a tot en met 248e](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [249](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [250](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [250a](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) (oud), [252, tweede en derde lid](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [273a](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) (oud), [273f](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [282](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [282a](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [282b](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [287](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [288](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [288a](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [289](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+
+2° [141, tweede lid](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [302](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [303](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), indien het onvoorwaardelijk deel van de opgelegde vrijheidsbenemende straf of maatregel een jaar of langer beloopt.    
+
+b. de maatregel bedoeld in [artikel 37a van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+
+c. de maatregel bedoeld in [artikel 77s van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), indien deze verlengd kan worden op grond van [artikel 77t, derde lid, van deze wet](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).     
+2.  Ten behoeve van het verstrekken van informatie aan de burgemeester ten behoeve van de handhaving van de openbare orde in verband met de terugkeer van de betrokkene in de maatschappij kan Onze Minister van de in het eerste lid bedoelde natuurlijke personen de justitiële gegevens, bedoeld in artikel 6, eerste lid, en artikel 7, eerste lid, onder a, b, c, d, f, j, k en l, verstrekken aan binnen het Korps landelijke politiediensten aangewezen opsporingsambtenaren.   
+3.  De justitiële gegevens worden niet eerder verstrekt dan drie maanden voor het moment van de verwachte, al dan niet tijdelijke, terugkeer van de betrokkene in de maatschappij.   
+4.  De burgemeester vernietigt de op grond van het eerste lid verstrekte justitiële gegevens uiterlijk negen maanden na de datum van de verstrekking, indien niet tot het treffen van maatregelen is besloten. Indien tot het treffen van maatregelen is besloten, verwijdert de burgemeester de op grond van het eerste lid verstrekte justitiële gegevens uiterlijk negen maanden na de datum van de verstrekking. De verwijderde gegevens worden gedurende een termijn van vijf jaar bewaard ten behoeve van het afleggen van verantwoording, waarna de gegevens worden vernietigd.   
+5.  Het eerste lid, onder a en b, is niet van toepassing op personen op wie [Titel VIIIA van het Eerste Boek van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is toegepast.   
+
 ### Paragraaf  2  
 
 ####Verstrekking ten behoeve van advies
 
 ### Artikel  12  
 
-Justitiële gegevens als bedoeld in de [artikelen 10](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [11](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) of  [12 van de wet](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) worden desgevraagd verstrekt aan: 
+1.  Justitiële gegevens als bedoeld in de [artikelen 10](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [11](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) of  [12 van de wet](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) worden desgevraagd verstrekt aan: 
 
 a. Onze Minister ten behoeve van het geven van een positieve of negatieve verklaring aan buitenlandse autoriteiten over te verlenen visa;  
 
-b. Onze Minister ten behoeve van het geven van een positieve of negatieve verklaring aan buitenlandse autoriteiten voor deelname aan programma’s voor geautomatiseerde grenspassage van andere landen;  
+b. Onze Minister ten behoeve van het verstrekken van bepaalde inlichtingen aan buitenlandse autoriteiten over aspirant-emigranten;  
 
-c. Onze Minister ten behoeve van het verstrekken van bepaalde inlichtingen aan buitenlandse autoriteiten over aspirant-emigranten;  
+c. de burgemeesters voorzover dit noodzakelijk is voor de uitoefening van een wettelijke verplichting tot het geven van advies over een bepaald persoon aan een ander bestuursorgaan,  
 
-d. de burgemeesters voorzover dit noodzakelijk is voor de uitoefening van een wettelijke verplichting tot het geven van advies over een bepaald persoon aan een ander bestuursorgaan,  
-
-e. de burgemeesters, indien deze gegevens op grond van een zwaarwegend algemeen belang noodzakelijk zijn ten behoeve van het geven van advies aan een ander bestuursorgaan en het College bescherming persoonsgegevens ontheffing heeft verleend.    
+d. de burgemeesters, indien deze gegevens op grond van een zwaarwegend algemeen belang noodzakelijk zijn ten behoeve van het geven van advies aan een ander bestuursorgaan en het College bescherming persoonsgegevens ontheffing heeft verleend.     
+2.  Justitiële gegevens worden desgevraagd verstrekt aan Onze Minister ten behoeve van het geven van een positieve of negatieve verklaring aan buitenlandse autoriteiten voor deelname aan programma’s voor geautomatiseerde grenspassage van andere landen.   
 
 ### Paragraaf  3  
 
@@ -321,7 +343,7 @@ Justitiële gegevens worden desgevraagd verstrekt aan het Bureau bevordering int
 
 Justitiële gegevens worden desgevraagd verstrekt aan: 
 
-a. Onze Minister ten behoeve van de afgifte van een verklaring van geen bezwaar in verband met de oprichting van een naamloze of besloten vennootschap;  
+a. Onze Minister ten behoeve van de controle van rechtspersonen met het oog op de voorkoming en bestrijding van misbruik van rechtspersonen, waaronder het plegen van misdrijven en overtredingen van financieel-economische aard door of door middel van deze rechtspersonen, bedoeld in [artikel 2, eerste lid, van de Wet controle op rechtspersonen](../../../../../wet/wet/controle/op/rechtspersonen/BWBR0015049/README.md);  
 
 b. Onze Minister en de burgemeesters voorzover dit noodzakelijk is in het kader van de beoordeling van een verzoek tot verkrijging van het Nederlanderschap op grond van de [Rijkswet op het Nederlanderschap](../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md);  
 
@@ -394,6 +416,10 @@ Justitiële gegevens worden desgevraagd verstrekt aan:
 a. de contactambtenaren bedoeld in [artikel 58 van de Wet op de economische delicten](../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md), ten behoeve van de hun als zodanig opgedragen werkzaamheden;  
 
 b. de daartoe bevoegde buitengewone opsporingsambtenaren van de Inspectie Verkeer en Waterstaat, terzake van overtreding van de artikelen, genoemd in [artikel 8:1, eerste lid](../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), of [artikel 8:2 van het Arbeidstijdenbesluit vervoer](../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), [artikel 31 van de Wet goederenvervoer over de weg](../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md), [artikel 5.3.15](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) juncto [5.1.1, eerste lid, onder c, van de Regeling voertuigen](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) en [artikel 2, eerste en tweede lid van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md), voorzover zij deze gegevens nodig hebben voor de beoordeling van de eis van betrouwbaarheid, bedoeld in [artikel 23, van het Besluit personenvervoer 2000](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md) en [artikel 18 van het Besluit goederenvervoer over de weg](../../../../../AMvB/besluit/goederenvervoer/over/de/weg/BWBR0005496/README.md).    
+
+### Artikel  22a  
+
+Justitiële gegevens van degene die in het bezit is van de chauffeurspas, bedoeld in [artikel 75 van het Besluit personenvervoer 2000](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), worden ambtshalve verstrekt aan Onze Minister. Onze Minister verstrekt de justitiële gegevens als bedoeld in artikel 6, eerste lid, en artikel 7, eerste lid, onder f, terzake van de strafbare feiten die van belang zijn voor de beoordeling van een met het oog op het uitoefenen van het beroep van taxichauffeur aangevraagde verklaring omtrent het gedrag, verder aan de Minister van Infrastructuur en Milieu, met het oog op toepassing van [artikel 77 van het Besluit personenvervoer 2000](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md).  
 
 ### Paragraaf  2  
 

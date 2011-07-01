@@ -12,7 +12,7 @@ Besluit:
 
 ####Reikwijdte
 
-Deze regeling geeft uitvoering aan de [artikelen 6, tweede en derde lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [8, zesde lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [17, tweede lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [21a](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [25, tweede lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [31, tweede lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), en [47 van de Algemene wet inkomensafhankelijke regelingen](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md)  
+Deze regeling geeft uitvoering aan de [artikelen 6, tweede en derde lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [8, zesde lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [17, tweede lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [21a](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [25, tweede lid](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), [31](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) en [47 van de Algemene wet inkomensafhankelijke regelingen](../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md)  
 
 ### Artikel  2  
 

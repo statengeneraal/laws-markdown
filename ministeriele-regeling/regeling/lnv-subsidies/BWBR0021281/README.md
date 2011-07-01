@@ -1881,6 +1881,17 @@ b. de noodzakelijke vervangingsinvesteringen kunnen worden gerealiseerd;
 
 c. de liquiditeitstoename voldoende ruimte biedt om tegenvallers in de exploitatie op te vangen alsmede om aan toekomstige financieringsverplichtingen, onder andere als gevolg van noodzakelijke diepte- of uitbreidingsinvesteringen, te kunnen voldoen.     
 
+### Artikel  2:73a  
+
+####extra verlenging looptijd
+
+1.  In zoverre in afwijking van artikel 2:73, eerste lid, aanhef en onderdeel b, kan de kredietinstelling de looptijd van de lening, waarvoor de Minister onder de voorwaarden van deze paragraaf een garantstelling heeft verstrekt, met ten hoogste drie jaar verlengen, mits: 
+
+a. de totale looptijd van de regeling daarmee niet meer dan twee en twintig jaar bedraagt, en  
+
+b. verlenging noodzakelijk is in verband met betalingsmoeilijkheden van de landbouwonderneming die zijn opgetreden als gevolg van de recente uitbraak van de EHEC-bacterie in Noord-Duitsland.     
+2.  Het eerste lid is niet van toepassing op garantstellingen als bedoeld in artikel 2:80, vierde lid.   
+
 ### Artikel  2:74  
 
 ####Rangschikking
@@ -2061,7 +2072,7 @@ a. aan een landbouwonderneming die:
 
 1° na 1 juli 2008 in liquiditeitsproblemen is gekomen, of  
 
-2° in zoverre in afwijking van artikel 2:1a, op 1 juli 2008 niet in moeilijkheden verkeerde, doch vervolgens in moeilijkheden is gekomen als bedoeld in punt 2.2, onderdeel d, van de Tijdelijke communautaire kaderregeling 2011,   en de betreffende landbouwonderneming daardoor op het tijdstip van de aanvraag de benodigde zekerheden ontbeert om volgens normaal bankgebruik financiering voor werkkapitaal te krijgen;.  
+2° in zoverre in afwijking van artikel 2:1a, op 1 juli 2008 niet in moeilijkheden verkeerde, doch vervolgens in moeilijkheden is gekomen als bedoeld in punt 2.2, onderdeel d, van de Tijdelijke communautaire kaderregeling 2011,   en de betreffende landbouwonderneming daardoor op het tijdstip van de aanvraag de benodigde zekerheden ontbeert om volgens normaal bankgebruik financiering voor werkkapitaal te krijgen;  
 
 b. ten behoeve van een lening van ten hoogste € 850.000 die een looptijd heeft van maximaal drie jaar en uitsluitend bestemd is voor financiering van werkkapitaal dat de onderneming de eerstkomende 12 maanden na indiening van de aanvraag tot garantstelling nodig heeft;  
 
@@ -2189,95 +2200,6 @@ b. aaneengesloten is dan wel over meer dan 100 meter niet is onderbroken door ee
 
 ####Draagvlak natuur
 
-### Artikel  3:3  
-
-####Begripsbepalingen
-
-In deze titel wordt verstaan onder programma: project dat een samenhangend geheel van activiteiten vormt, waarbij de uitvoering op grond van ontwikkelingen binnen het project of maatschappelijke ontwikkelingen gedurende de looptijd kan worden aangepast.  
-
-### Artikel  3:4  
-
-####Subsidiabele activiteiten
-
-1.  De Minister kan aan stichtingen, verenigingen of samenwerkingsverbanden daarvan, subsidie verstrekken voor de uitvoering van een project dat een geheel van afgebakende en eenmalige activiteiten vormt of van een programma, welk project of programma is gericht op versterking van het draagvlak voor de natuur in de Nederlandse samenleving en wordt uitgevoerd in meer dan twee provincies.   
-2.  Voor de subsidie komen in ieder geval in aanmerking projecten die op een doelmatige wijze bijdragen aan de doelstelling van het eerste lid door: 
-
-a. het vergroten van de kennis van de natuur door het ontwikkelen van modelprogramma's en bijbehorende trainingen voor intermediairs en leerkrachten, voor gebruik bij binnen- en buitenschoolse natuur- en milieueducatie;  
-
-b. het vergroten van de kennis van de natuur bij groepen die een bijdrage kunnen leveren aan de realisering van natuurdoelstellingen, door het geven van voorlichting of het ontwikkelen van voorlichtingsmateriaal;  
-
-c. het vergroten van de aandacht voor natuur door het ontwikkelen van een visie op de positie van de natuur in de samenleving, het inbrengen van deze visie in overlegsituaties en het vragen van publieke aandacht voor deze visie, of  
-
-d. het verhogen van de organisatiegraad en verbeteren van de onderlinge contacten door het stimuleren van samenwerking tussen organisaties op het gebied van natuur en het bevorderen van informatie-uitwisseling tussen die organisaties.     
-3.  Voor de subsidie komen in ieder geval in aanmerking programma’s die op een doelmatige wijze bijdragen aan de doelstelling, bedoeld in het eerste lid, door: 
-
-a. het uitwisselen van kennis en ideeën over natuur met betrokken partijen in de maatschappij, het ontwikkelen en structureren van deze kennis binnen de eigen organisatie ten behoeve van beleidsprocessen bij overheden en het inbrengen van deze kennis in alle fasen van deze beleidsprocessen, of  
-
-b. het verbreden van de resultaten van eerder uitgevoerde projecten, waarvan de doelstelling past binnen het tweede lid, door de bevordering van het gebruik en de acceptatie van in deze projecten ontwikkelde methoden, programma's, ideeën en materialen bij de geëigende doelgroepen.     
-4.  Geen subsidie wordt verstrekt voor projecten: 
-
-a. die een looptijd hebben van meer dan 3 jaar, of  
-
-b. waarvan de subsidiabele kosten in totaal minder bedragen dan € 11.350.     
-5.  Geen subsidie wordt verstrekt voor programma's: 
-
-a. die een looptijd hebben korter dan 3 jaar of langer dan 5 jaar, of  
-
-b. waarvan de subsidiabele kosten jaarlijks gemiddeld minder bedragen dan € 22.675.     
-
-### Artikel  3:5  
-
-####Rangschikking naar geschiktheid
-
-1.  De Minister rangschikt een aanvraag overeenkomstig artikel 1:4 hoger naarmate het project of programma waarop de aanvraag betrekking heeft: 
-
-a. doelmatiger kan worden uitgevoerd als gevolg van de kennis, de kunde, de capaciteit, het netwerk en het maatschappelijk draagvlak van de uitvoerende organisatie of uitvoerende organisaties;  
-
-b. meer aansluit bij het beleid zoals beschreven in de nota’s ‘Natuur voor Mensen, Mensen voor Natuur’ (Kamerstukken II 1999/2000, 27 235, nr. 1), ‘Vitaal en Samen’ (Kamerstukken II 2003/04, 29 200, nr. 2) en ‘Kiezen, leren en meedoen, naar een effectieve inzet van natuur- en milieueducatie in Nederland, 2008–2011’ (Kamerstukken II 2007/08, 20 487, nr. 21).     
-2.  Voor zover na de rangschikking, bedoeld in het eerste lid, sprake is van gelijke geschiktheid en er in verband met het bereiken van het subsidieplafond nog enkel één subsidie kan worden verleend, rangschikt de Minister overeenkomstig artikel 1:4 een aanvraag hoger naarmate het project of programma waarop de aanvraag betrekking heeft, meer wordt bekostigd uit andere subsidies of financiële middelen.   
-
-### Artikel  3:6  
-
-####Verplichtingen subsidieontvanger
-
-1.  De subsidieontvanger vangt het project of het programma waarvoor subsidie is verleend aan binnen één jaar na de datum van subsidieverlening.   
-2.  In afwijking van artikel 3:2 is artikel 1:13, tweede lid, aanhef in samenhang met onderdeel b, van toepassing op de ontvanger van een subsidie voor de uitvoering van een project of een programma.   
-
-### Artikel  3:8  
-
-####Beslistermijn subsidievaststelling
-
-Een beschikking omtrent subsidievaststelling wordt gegeven binnen vier maanden na ontvangst van de aanvraag tot subsidievaststelling.  
-
-### Artikel  3:9  
-
-####Subsidiabele kosten
-
-1.  De volgende kosten komen in aanmerking voor de subsidie: 
-
-a. loonkosten van het direct bij de uitvoering van het project of programma betrokken personeel in dienst van de subsidieontvanger;  
-
-b. kosten van verbruikte materialen of hulpmiddelen;  
-
-c. kosten van vrijwilligers, voor zover deze een vrijwilligersvergoeding ontvangen, per kalenderjaar tot ten hoogste het bedrag dat jaarlijks belastingvrij als vrijwilligersvergoeding kan worden verstrekt, met dien verstande dat het maximum evenredig wordt aangepast indien een vrijwilliger dat kalenderjaar niet volledig werkzaam is geweest;  
-
-d. aan derden verschuldigde kosten ter zake van planvormings- en uitvoeringsactiviteiten tot ten hoogste 35% van de in de onderdelen a, b en c genoemde kosten;  
-
-e. reis- en verblijfkosten;  
-
-f. de voor de vaststelling van de subsidie benodigde accountantsverklaring, tot ten hoogste € 1.800;  
-
-g. kosten voor overhead tot ten hoogste een bedrag dat gelijk is aan 10% van de ingevolge onderdeel a voor subsidie in aanmerking komende loonkosten;  
-
-h. kosten als bedoeld in de onderdelen b tot en met f die onvoorzien zijn, tot ten hoogste 15% van het bedrag dat wel is voorzien.     
-2.  In aanvulling op het eerste lid komen voor subsidies voor programma’s tevens in aanmerking de kosten van de in artikel 1:13, tweede lid, aanhef in samenhang met onderdeel b, bedoelde beschrijving tot ten hoogste 10% van de in het eerste lid, onderdelen a tot en met e, bedoelde kosten.   
-
-### Artikel  3:10  
-
-####Hoogte subsidie programma’s
-
-De subsidie voor programma’s bedraagt jaarlijks gemiddeld ten hoogste € 60.000.  
-
 ### Titel  2a  
 
 ####Draagvlak duurzaam voedsel
@@ -2399,15 +2321,17 @@ g. kosten als bedoeld in de onderdelen b tot en met e die onvoorzien zijn, tot t
 
 De Minister kan op aanvraag aan de IVN Vereniging voor natuur- en milieueducatie, statutair gevestigd te Amsterdam, en de Stichting Samenwerkingsverband Nationale Parken, statutair gevestigd te ’s-Gravenhage, subsidie verstrekken voor projecten gericht op kwaliteitsverbetering, samenwerking, educatie, voorlichting en onderzoek van: 
 
-a. een door de Minister aangewezen nationaal park dan wel nationaal park in oprichting, of  
+a. een door de Minister aangewezen nationaal park dan wel nationaal park in oprichting,  
 
-b. een door het Rijk gezamenlijk met het Koninkrijk België of de Bondsrepubliek Duitsland als grensoverschrijdende park aangewezen of aan te wijzen gebied, waarvoor afspraken gelden met betrekking tot het beheer en de inrichting daarvan.    
+b. een door het Rijk gezamenlijk met het Koninkrijk België of de Bondsrepubliek Duitsland als grensoverschrijdende park aangewezen of aan te wijzen gebied, waarvoor afspraken gelden met betrekking tot het beheer en de inrichting daarvan, of  
+
+c. het particuliere nationale park De Hoge Veluwe of Veluwezoom.    
 
 ### Artikel  3:35  
 
 ####Indiening van een aanvraag
 
-1.  In afwijking van de artikelen 1:8, eerste lid, en 1:13, vijfde lid, wordt de aanvraag tot subsidieverlening of subsidievaststelling, onderscheidenlijk tot goedkeuring als bedoeld in artikel 1:13, derde lid, ingediend bij de Directeur Natuur van het Ministerie van Economische Zaken, Landbouw en Innovatie.   
+1.  In afwijking van de artikelen 1:8, eerste lid, en 1:13, vijfde lid, wordt de aanvraag tot subsidieverlening of subsidievaststelling, onderscheidenlijk tot goedkeuring als bedoeld in artikel 1:13, derde lid, ingediend bij de Directeur Natuur, Landschap en Platteland van het Ministerie van Economische Zaken, Landbouw en Innovatie.   
 2.  In afwijking van artikel 1:14, eerste lid, wordt de aanvraag tot subsidievaststelling ingediend voor 31 december van het kalenderjaar volgend op het jaar waarvoor de subsidie is verleend.   
 
 ### Artikel  3:36  
@@ -2426,7 +2350,8 @@ Artikel 1:13, tweede lid, is niet van toepassing.
 
 ####Betaling subsidiebedragen en voorschotten
 
-De Minister betaalt subsidiebedragen en voorschotten aan de IVN Vereniging voor natuur- en milieueducatie via het Groenfonds.  
+1.  De Minister betaalt subsidiebedragen en voorschotten aan de IVN Vereniging voor natuur- en milieueducatie via het Groenfonds.   
+2.  In afwijking van artikel 1:17, tweede lid, kan de Minister aan de Stichting Samenwerkingsverband Nationale Parken voorschotten verlenen tot ten hoogste 95% van het te verstrekken subsidiebedrag.   
 
 ### Titel  6  
 
@@ -2471,18 +2396,22 @@ b. aan derden verschuldigde kosten;
 
 c. en kosten van de voor de subsidievaststelling benodigde accountantsverklaring.    
 
+### Titel  8a  
+
+####Versterking recreatie
+
 ### Artikel  3:53  
 
 ####Subsidiabele activiteiten
 
-1.  De Minister kan aan de Stichting Recreatie subsidie verstrekken voor de uitvoering van programma’s die een bijdrage leveren aan de bevordering van kennis en deskundigheid op het gebied van de recreatie.   
+1.  De Minister kan aan het Kenniscentrum Recreatie subsidie verstrekken voor de uitvoering van programma’s die een bijdrage leveren aan de bevordering van kennis en deskundigheid op het gebied van de recreatie.   
 2.  De programma’s hebben betrekking op een kalenderjaar.   
 
 ### Artikel  3:54  
 
 ####Indiening van een aanvraag
 
-In afwijking van artikel 1:8, eerste lid, wordt de aanvraag tot subsidieverlening of subsidievaststelling ingediend bij de Directeur Platteland van het Ministerie van Economische Zaken, Landbouw en Innovatie.  
+In afwijking van artikel 1:8, eerste lid, wordt de aanvraag tot subsidieverlening of subsidievaststelling ingediend bij de Directeur Natuur, Landschap en Platteland van het Ministerie van Economische Zaken, Landbouw en Innovatie.  
 
 ### Artikel  3:55  
 
@@ -2648,8 +2577,9 @@ d. alternatieve soorten visserijbeheerstechnieken te testen;
 – ondernemer: natuurlijk persoon of rechtspersoon te wiens naam het vissersvaartuig in het visserijregister staat geregistreerd;   
 
 – vissoorten: alle soorten van vis, schaal-, schelp- en weekdieren.     
-2.  In aanvulling op artikel 1:15 komen kosten voor huisvesting niet in aanmerking voor subsidie op grond van dit hoofdstuk.   
-3.  De Minister kan tot 5 jaar na de subsidievaststelling de subsidie op grond van dit hoofdstuk geheel of gedeeltelijk intrekken indien naar de mening van de Minister het resultaat van het project of de activiteit waarvoor subsidie is verstrekt, wordt gewijzigd: 
+2.  In aanvulling op artikel 1:15, eerste lid, komen kosten voor huisvesting niet in aanmerking voor subsidie op grond van dit hoofdstuk.   
+3.  In aanvulling op artikel 1:15, vijfde lid, onder a, is het uurtarief voor eigen arbeid € 35,– per uur voor subsidie op grond van dit hoofdstuk.   
+4.  De Minister kan tot 5 jaar na de subsidievaststelling de subsidie op grond van dit hoofdstuk geheel of gedeeltelijk intrekken indien naar de mening van de Minister het resultaat van het project of de activiteit waarvoor subsidie is verstrekt, wordt gewijzigd: 
 
 a. waardoor de aard van het resultaat van het project of de activiteit is veranderd;  
 
@@ -2660,8 +2590,8 @@ c. waardoor de subsidieontvanger een onrechtmatig voordeel heeft;
 d. tengevolge van een verandering in de eigendom van een infrastructuurvoorziening, of  
 
 e. tengevolge van de beëindiging of verplaatsing van een productieve activiteit.     
-4.  De Minister kan in het besluit op grond van artikel 1:3 bepalen dat artikel 1:2, tweede lid, niet van toepassing is op subsidies verleend op grond van dit hoofdstuk.   
-5.  In afwijking van artikel 1:12, vierde lid, bewaart de ontvanger van een subsidie, verstrekt op grond van dit hoofdstuk, de in dat lid bedoelde administratie tot en met 31 december 2020.   
+5.  De Minister kan in het besluit op grond van artikel 1:3 bepalen dat artikel 1:2, tweede lid, niet van toepassing is op subsidies verleend op grond van dit hoofdstuk.   
+6.  Onverminderd artikel 1:12, vierde lid, bewaart de ontvanger van een subsidie, verstrekt op grond van dit hoofdstuk, de in dat lid bedoelde administratie tot en met 31 december 2020.   
 
 ### Artikel  4:1a  
 
@@ -2670,7 +2600,18 @@ e. tengevolge van de beëindiging of verplaatsing van een productieve activiteit
 1.  Als beheersautoriteit als bedoeld in artikel 58, eerste lid, onderdeel a, van verordening nr. 1198/2006 wordt aangewezen de Minister.   
 2.  Als certificeringsautoriteit als bedoeld in artikel 58, eerste lid, onderdeel b, van verordening nr. 1198/2006 wordt aangewezen de Afdeling CA van de Dienst Regelingen.   
 3.  Als auditautoriteit als bedoeld in artikel 58, eerste lid, onderdeel c, van verordening nr. 1198/2006 wordt aangewezen de Rijksauditdienst van het Ministerie van Financiën.   
-4.  Als bemiddelende instantie als bedoeld in artikel 58, tweede lid, van verordening nr. 1198/2006 wordt aangewezen de Back Office West van de Dienst Regelingen.   
+4.  Als bemiddelende instantie als bedoeld in artikel 58, tweede lid, van verordening nr. 1198/2006 wordt aangewezen de Dienst Regelingen.   
+
+### Artikel  4:1b  
+
+####Voorschotten
+
+1.  Artikel 1:17 is niet van toepassing op subsidie op grond van dit hoofdstuk.   
+2.  De Minister kan voor subsidie op grond van dit hoofdstuk op aanvraag een voorschot verlenen voor subsidiabele kosten: 
+
+a. tot een maximum van 80% van het ten hoogste te verstrekken subsidiebedrag voor zover de kosten door de subsidieontvanger zijn gemaakt en betaald, alsmede voor kosten van eigen arbeid, of  
+
+b. tot een maximum van 50% van het ten hoogste te verstrekken subsidiebedrag voor kosten die nog niet door de subsidieontvanger zijn gemaakt, indien de Minister in de openstelling, bedoeld in artikel 1:3, eerste lid, heeft bepaald dat de aanvraag tot voorschotverlening vergezeld gaat van een liquiditeitsoverzicht.     
 
 ### Titel  2  
 
@@ -2884,8 +2825,8 @@ j. wordt uitgevoerd door een samenwerkingsverband als bedoel in artikel 4:15, ee
 ####Verplichtingen subsidieontvanger
 
 1.  De subsidieontvanger vangt het project aan binnen zes maanden na de datum van subsidieverlening en voert het project uit binnen een periode van ten hoogste drie jaar.   
-2.  In afwijking van het eerste lid kan de Minister voor de uitvoering van het project een kortere termijn dan drie jaar vaststellen.   
-3.  De subsidieontvanger voert het project uit in Nederland, behoudens toestemming van de Minister tot uitvoering buiten Nederland.   
+2.  In afwijking van het eerste lid kan de Minister voor de uitvoering van het project een andere termijn dan drie jaar vaststellen.   
+3.  De Minister kan, in afwijking van artikel 1:2, aanhef en eerste lid, toestemming geven voor de uitvoering van het project buiten Nederland.   
 4.  Het project gaat gepaard met naar het oordeel van de Minister adequate wetenschappelijke begeleiding.   
 5.  De subsidieontvanger maakt de kennis en informatie die met het project worden opgedaan onmiddellijk na afloop van het project openbaar in een verslag dat naar het oordeel van de Minister van afdoende kwaliteit is.   
 6.  De Minister kan de subsidieontvanger aanvullende verplichtingen opleggen omtrent de wijze waarop de openbaarmaking, bedoeld in het vierde lid, plaatsvindt.   
@@ -2896,7 +2837,7 @@ j. wordt uitgevoerd door een samenwerkingsverband als bedoel in artikel 4:15, ee
 
 1.  volgende kosten komen in aanmerking voor de subsidie: 
 
-a. loonkosten van het direct bij de uitvoering van het project betrokken personeel van de subsidieontvanger;  
+a. loonkosten en kosten voor eigen arbeid voor zover ze betrekking hebben op de uitvoering van het project;  
 
 b. aan derden verschuldigde kosten ter zake van studies, onderzoeksactiviteiten, proces- en ketenmanagement, wetenschappelijke begeleiding van het project en ter zake van de verwerving van kennis en intellectuele eigendomsrechten alsmede ter zake van de bescherming van die rechten, met uitzondering van winstopslagen bij transacties binnen een groep;  
 
@@ -2906,9 +2847,7 @@ d. kosten voor een studie naar de haalbaarheid van de ontwikkeling van nieuwe te
 
 e. kosten gemoeid met het testen van de nieuwe technologieën, technieken en methoden;  
 
-f. kosten van eigen arbeid van de betrokken ondernemer;  
-
-g. kosten van een accountantsverklaring, voor zover deze kosten niet meer bedragen dan € 2500,–.     
+f. kosten van een accountantsverklaring, voor zover deze kosten niet meer bedragen dan € 2500,–.     
 2.  In aanvulling op het eerste lid komen voor aanvragen ingediend door een samenwerkingsverband als bedoeld in artikel 4:15, eerste lid, tevens de volgende kosten in aanmerking voor subsidie: 
 
 a. kosten voor organisatie en facilitering van het samenwerkingsverband, waaronder begrepen zaal- en locatiehuur, vergaderfaciliteiten en bureaukosten;  
@@ -2927,7 +2866,7 @@ De aanvraag tot subsidievaststelling gaat vergezeld van een accountantsverklarin
 
 1.  De subsidie bedraagt ten hoogste 100 % van de subsidiabele kosten.   
 2.  De subsidie bedraagt ten hoogste € 500.000,–.   
-3.  De winst die de subsidieontvanger maakt door de uitvoering van het project en die naar het oordeel van de Minister uitstijgt boven de gemiddelde winst van de subsidieontvanger in een vergelijkbare, voorafgaande periode wordt bij de subsidievaststelling in mindering gebracht op het te verstrekken subsidiebedrag, op een door de Minister vast te stellen wijze.   
+3.  Innovatieprojecten mogen geen direct commercieel doel hebben. Inkomsten gerelateerd aan het innovatieproject, die ontstaan tijdens de uitvoering daarvan, worden afgetrokken van de subsidiabele kosten voor het project.   
 
 ### §  2  
 
@@ -2986,8 +2925,8 @@ f. meer bijdraagt aan de traceerbaarheid van visserijproducten.
 ####Verplichtingen subsidieontvanger
 
 1.  De subsidieontvanger vangt het project aan binnen zes maanden na de datum van subsidieverlening en voert het project uit binnen een periode van ten hoogste drie jaar.   
-2.  In afwijking van het eerste lid kan de Minister voor de uitvoering van het project een kortere termijn dan drie jaar vaststellen.   
-3.  De subsidieontvanger voert het project uit in Nederland, behoudens toestemming van de Minister tot uitvoering buiten Nederland.   
+2.  In afwijking van het eerste lid kan de Minister voor de uitvoering van het project een andere termijn dan drie jaar vaststellen.   
+3.  De Minister kan, in afwijking van artikel 1:2, aanhef en eerste lid, toestemming geven voor de uitvoering van het project buiten Nederland.   
 4.  De subsidieontvanger staat toe dat de Minister de kennis en informatie die met het project worden opgedaan openbaar maakt ten behoeve van de visserijsector.   
 
 ### Artikel  4:25  
@@ -3084,8 +3023,8 @@ d. een groter uitstralingseffect heeft voor toepassing door andere ondernemingen
 ####Verplichtingen subsidieontvanger
 
 1.  De subsidieontvanger vangt het project aan binnen zes maanden na de datum van subsidieverlening en voert het project uit binnen een periode van ten hoogste drie jaar.   
-2.  In afwijking van het eerste lid kan de Minister voor de uitvoering van het project een kortere termijn dan drie jaar vaststellen.   
-3.  De subsidieontvanger voert het project uit in Nederland, behoudens toestemming van de Minister tot uitvoering buiten Nederland.   
+2.  In afwijking van het eerste lid kan de Minister voor de uitvoering van het project een andere termijn dan drie jaar vaststellen.   
+3.  De Minister kan, in afwijking van artikel 1:2, aanhef en eerste lid, toestemming geven voor de uitvoering van het project buiten Nederland.   
 4.  De subsidieontvanger staat toe dat de Minister de kennis en informatie die met het project worden opgedaan openbaar maakt ten behoeve van de visserijsector.   
 
 ### Artikel  4:31  
@@ -3104,11 +3043,9 @@ d. de organisatie van en deelname aan vakbeurzen en tentoonstellingen;
 
 e. de aankoop of huur van advertentieruimte en het bedenken van slagzinnen en labels voor de duur van een promotiecampagne;  
 
-f. loonkosten, voor zover deze kosten betrekking hebben op personeel dat ten behoeve van het project is ingezet;  
+f. loonkosten en kosten voor eigen arbeid voor zover ze betrekking hebben op de uitvoering van het project;  
 
-g. kosten van de door de aanvrager ten behoeve van het project verrichte arbeid;  
-
-h. kosten van een accountantsverklaring, voor zover deze kosten niet meer bedragen dan € 2500,–.    
+g. kosten van een accountantsverklaring, voor zover deze kosten niet meer bedragen dan € 2500,–.    
 
 ### Artikel  4:32  
 
@@ -3178,7 +3115,8 @@ In het projectplan, bedoeld in artikel 1:9, tweede lid, wordt de geografische lo
 ####Verplichtingen subsidieontvanger
 
 1.  De subsidieontvanger vangt het project aan binnen zes maanden na de datum van subsidieverlening en voert het project uit binnen een periode van ten hoogste drie jaar.   
-2.  De subsidieontvanger voert het project uit in het visserijgebied, bedoeld in de beschikking tot subsidieverlening, behoudens toestemming van de Minister tot gedeeltelijke uitvoering buiten dat visserijgebied.   
+2.  In afwijking van het eerste lid kan de Minister voor de uitvoering van het project een andere termijn dan drie jaar vaststellen.   
+3.  De subsidieontvanger voert het project uit in het visserijgebied, bedoeld in de beschikking tot subsidieverlening, behoudens toestemming van de Minister tot gedeeltelijke uitvoering buiten dat visserijgebied.   
 
 ### Artikel  4:33g  
 
@@ -3186,7 +3124,7 @@ In het projectplan, bedoeld in artikel 1:9, tweede lid, wordt de geografische lo
 
 De volgende kosten komen in aanmerking voor de subsidie: 
 
-a. kosten uit eigen arbeid van de betrokken ondernemer en loonkosten van het direct bij de uitvoering van het project betrokken personeel van de subsidieontvanger;  
+a. loonkosten en kosten voor eigen arbeid voor zover ze betrekking hebben op de uitvoering van het project;  
 
 b. kosten van een accountantsverklaring, voor zover deze kosten niet meer bedragen dan € 2500;  
 
@@ -3240,7 +3178,7 @@ c. voor de bouw van een vissersvaartuig en de vergroting van een visruim.
 
 ####Nadere voorschriften subsidiabele activiteiten
 
-1.  Het moderniseren van vissersvaartuigen en het aanbrengen van voorzieningen aan boord ter verbetering van de selectiviteit van vistuigen, inclusief maximaal twee vervangingen van vistuig in de periode 2007-2013, is enkel subsidiabel indien: 
+1.  Investeringen ter verbetering van de selectiviteit van vistuigen, inclusief maximaal twee vervangingen van vistuig in de periode 2007–2013, zijn subsidiabel indien: 
 
 a. het betrokken vissersvaartuig in het bezit is van een speciaal visdocument voor een herstelplan als bedoeld in artikel 5 van verordening nr. 2371/2002 en de eigenaar met dat vaartuig na de aanvraag overschakelt op een andere visserijmethode en de visserij uitoefent op een andere doelsoort, waarvan de toestand van het bestand nog toelaat te vissen, of  
 
@@ -3269,7 +3207,8 @@ Artikel 1:6 is van toepassing.
 ####Verplichtingen subsidieontvanger
 
 1.  De subsidieontvanger draagt er zorg voor dat de activiteiten waarvoor de subsidie is verleend binnen twaalf maanden na de datum van subsidieverlening zijn uitgevoerd.   
-2.  De subsidieontvanger voert de activiteiten uit in Nederland, behoudens toestemming van de Minister tot gehele of gedeeltelijke uitvoering buiten Nederland.   
+2.  De Minister kan een andere termijn dan de termijn, bedoeld in het eerste lid, vaststellen.   
+3.  De Minister kan, in afwijking van artikel 1:2, aanhef en eerste lid, toestemming geven voor de uitvoering van het project buiten Nederland.   
 
 ### Artikel  4:38  
 
@@ -3281,7 +3220,11 @@ a. kosten voor de aanschaf van nieuwe apparatuur of nieuwe voorzieningen waarvan
 
 b. kosten voor de installatie van nieuwe apparatuur of voorzieningen;  
 
-c. kosten voor de aanpassing van het vissersvaartuig ten behoeve van de installatie van nieuwe apparatuur of het toepassen van nieuwe voorzieningen.    
+c. kosten voor de aanpassing van het vissersvaartuig ten behoeve van de installatie van nieuwe apparatuur of het toepassen van nieuwe voorzieningen;  
+
+d. loonkosten en kosten voor eigen arbeid voor zover ze betrekking hebben op de uitvoering van het project;  
+
+e. kosten van een accountantsverklaring, voor zover deze kosten niet meer bedragen dan € 2.500,–.    
 
 ### Artikel  4:39  
 
@@ -3290,6 +3233,129 @@ c. kosten voor de aanpassing van het vissersvaartuig ten behoeve van de installa
 1.  De subsidie bedraagt ten hoogste 40% van de subsidiabele kosten.   
 2.  In afwijking van het eerste lid bedraagt de subsidie voor activiteiten als bedoel in artikel 4:35, derde lid, ten hoogste 20% van de subsidiabele kosten.   
 3.  De subsidie bedraagt ten hoogste € 500.000,–.   
+
+### §  1a  
+
+####Investeringen in weegapparatuur aan boord van vissersvaartuigen
+
+### Artikel  4:39a  
+
+####Subsidiabele activiteiten
+
+1.  De Minister kan aan de eigenaar van een vissersvaartuig subsidie verstrekken voor de aanschaf en installatie aan boord van een vissersvaartuig met een lengte over alles van tenminste 12 meter van deiningsgecompenseerde elektronische weegapparatuur ten behoeve van de weging, bedoeld in artikel 60, derde lid, van verordening (EG) nr. 1224/2009 van de Raad van 20 november 2009 tot vaststelling van een communautaire controleregeling die de naleving van de regels van het gemeenschappelijk visserijbeleid moet garanderen (PBEU L 343).   
+2.  Aan een eigenaar van een vissersvaartuig wordt slechts subsidie verstrekt indien: 
+
+a. de elektronische weegapparatuur gekoppeld wordt aan een systeem van elektronische registratie- en meldapparatuur, bedoeld in artikel 15 van Verordening (EG) nr. 1224/2009 van de Raad van 20 november 2009 tot vaststelling van een communautaire controleregeling die de naleving van de regels van het gemeenschappelijk visserijbeleid moet garanderen (PBEU L 343);  
+
+b. de elektronische weegapparatuur voldoet aan de voorschriften van richtlijn nr. 2009/23/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende niet-automatische weegwerktuigen (PBEU L 122) voor een weegwerktuig van ten hoogste klasse IIII, en  
+
+c. de aanschaf en installatie van de elektronische weegapparatuur aan boord van een vissersvaartuig plaatsvinden na 1 juni 2011 doch uiterlijk 31 december 2011.     
+3.  Artikel 4:34, tweede en derde lid, zijn van overeenkomstige toepassing.   
+
+### Artikel  4:39b  
+
+####Rangschikking in volgorde van ontvangst
+
+Artikel 1:6 is van toepassing.  
+
+### Artikel  4:39c  
+
+####Indiening aanvraag tot subsidievaststelling
+
+De aanvraag tot subsidievaststelling gaat vergezeld van nota’s en betaalbewijzen van de aanschaf en installatie van de elektronische weegapparatuur en de koppeling daarvan aan het systeem van elektronische registratie- en meldapparatuur waarop de gemaakte kosten zijn gespecificeerd.  
+
+### Artikel  4:39d  
+
+####Verplichtingen subsidieontvanger
+
+De subsidieontvanger voert de activiteiten, bedoeld in artikel 4:39a, eerste lid, uit vóór 1 januari 2012.  
+
+### Artikel  4:39e  
+
+####Subsidiabele en niet-subsidiabele kosten
+
+1.  De volgende kosten komen in aanmerking voor de subsidie: 
+
+a. kosten voor de aanschaf van de apparatuur, bedoeld in artikel 4:39a, eerste lid, en  
+
+b. kosten voor de installatie van die apparatuur.     
+2.  Niet in aanmerking voor subsidie komen: 
+
+a. verschuldigde BTW, en  
+
+b. eigen arbeid.     
+
+### Artikel  4:39f  
+
+####Hoogte subsidie
+
+1.  De subsidie bedraagt ten hoogste 40% van de subsidiabele kosten.   
+2.  De subsidie bedraagt ten hoogste € 4.000,–.   
+
+### §  1b  
+
+####Investeringen in elektronische registratie- en meldapparatuur en in satellietvolgapparatuur aan boord van vissersvaartuigen
+
+### Artikel  4:39g  
+
+####Subsidiabele activiteiten
+
+1.  De Minister kan aan de eigenaar van een vissersvaartuig subsidie verstrekken voor de aanschaf en installatie aan boord van een vissersvaartuig met een lengte over alles van 12 tot 15 meter van: 
+
+a. elektronische registratie- en meldapparatuur bedoeld in artikel 15 van Verordening (EG) nr. 1224/2009 van de Raad van 20 november 2009 tot vaststelling van een communautaire controleregeling die de naleving van de regels van het gemeenschappelijk visserijbeleid moet garanderen (PBEU L 343);  
+
+b. satellietvolgapparatuur bedoeld in artikel 9 van de in onderdaal a genoemde verordening, of  
+
+c. een gëintegreerde combinatie van de onder a en b bedoelde apparatuur.     
+2.  Aan een eigenaar van een vissersvaartuig wordt slechts subsidie verstrekt indien de aanschaf en installatie van de in het eerste lid bedoelde apparatuur aan boord van een vissersvaartuig plaatsvinden na 1 juni 2011 doch uiterlijk 31 december 2011.   
+
+### Artikel  4:39h  
+
+####Rangschikking in volgorde van ontvangst
+
+Artikel 1:6 is van toepassing.  
+
+### Artikel  4:39i  
+
+####Indiening aanvraag tot subsidievaststelling
+
+1.  De aanvraag tot subsidievaststelling gaat vergezeld van nota’s en betaalbewijzen van de aanschaf en installatie van apparatuur, bedoeld in artikel 4:39g, eerste lid, waarop de gemaakte kosten zijn gespecificeerd.   
+2.  In afwijking van artikel 1:8, eerste lid, wordt een aanvraag tot subsidievaststelling ingediend bij de Directeur Agroketens en Visserij met gebruikmaking van een daartoe door de Directie Agroketens en Visserij verstrekt formulier.   
+3.  De subsidie voor satellietvolgapparatuur wordt vastgesteld onder voorbehoud van de totstandkoming van een besluit van de Commissie van de Europese Gemeenschappen inzake een financiële bijdrage van de Unie aan de door de lidstaten gedane uitgaven voor bepaalde projecten op het gebied van de controle, inspectie en bewaking van visserijactiviteiten waarin daarvoor aan Nederland een bijdrage wordt toegekend.   
+
+### Artikel  4:39j  
+
+####Verplichtingen subsidieontvanger
+
+De subsidieontvanger voert de activiteiten, bedoeld in artikel 4:39g, eerste lid, uit vóór 1 januari 2012.  
+
+### Artikel  4:39k  
+
+####Subsidiabele en niet-subsidiabele kosten
+
+1.  De volgende kosten komen in aanmerking voor de subsidie: 
+
+a. kosten voor de aanschaf van de apparatuur, bedoeld in artikel 4:39g, eerste lid, en  
+
+b. kosten voor de installatie van die apparatuur.     
+2.  Niet in aanmerking voor subsidie komen: 
+
+a. verschuldigde BTW, en  
+
+b. eigen arbeid.     
+
+### Artikel  4:39l  
+
+####Hoogte subsidies
+
+1.  De subsidie bedraagt ten hoogste 90% van de subsidiabele kosten.   
+2.  De subsidie bedraagt ten hoogste: 
+
+a. € 3.000,– voor elektronische registratie- en meldapparatuur;  
+
+b. € 1.500,– voor satellietvolgapparatuur, en  
+
+c. € 4.500,– voor een geïntegreerde combinatie van de onder a en b bedoelde apparatuur.     
 
 ### §  2  
 
@@ -3324,12 +3390,19 @@ f. ziet op een experimentele toepassing van een nieuwe aquacultuurmethode, techn
 
 ####Rangschikking aanvragen
 
-1.  De Minister rangschikt aanvragen overeenkomstig artikel 1:4, waarbij een aanvraag hoger wordt gerangschikt: 
+1.  De Minister rangschikt aanvragen overeenkomstig artikel 1:4, waarbij een aanvraag hoger wordt gerangschikt indien het wordt uitgevoerd door een kleine of micro-onderneming en naarmate het project waarop de subsidie betrekking heeft: 
 
-a. indien het een aanvraag van een kleine of micro-onderneming betreft;  
+a. meer economisch of technisch perspectief heeft in de toepassing op praktijkschaal;  
 
-b. naarmate de aanvrager van het project of een ander bestuursorgaan dan de Minister financieel bijdraagt aan het project waarop de subsidie betrekking heeft.     
-2.  Indien bij de toepassing van het eerste lid aanvragen op dezelfde hoogte worden gerangschikt, wordt de onderlinge rangorde tussen deze aanvragen bepaald door loting overeenkomstig artikel 1:5.   
+b. meer wordt uitgevoerd in ketenverband;  
+
+c. eveneens toepasbaar is bij andere aquacultuurbedrijven;  
+
+d. leidt tot een verhoging in productkwaliteit en kwantiteit;  
+
+e. bijdraagt aan verbetering van het dierenwelzijn.     
+2.  Het Visserij Innovatie Platform is een beoordelingscommissie als bedoeld in artikel 1:4, derde lid, en adviseert de Minister over de rangschikking van aanvragen.   
+3.  De Minister kan in afwijking van het tweede lid voor specifieke categorieën aanvragen een andere beoordelingscommissie instellen.   
 
 ### Artikel  4:42  
 
@@ -3344,7 +3417,8 @@ b. naarmate de aanvrager van het project of een ander bestuursorgaan dan de Mini
 ####Verplichtingen subsidieontvanger
 
 1.  De subsidieontvanger vangt het project aan binnen zes maanden na de datum van subsidieverlening en voert het project uit binnen een periode van drie jaar na de datum van subsidieverlening.   
-2.  De subsidieontvanger voert het project uit in Nederland, behoudens toestemming van de Minister tot gedeeltelijke uitvoering buiten Nederland.   
+2.  In afwijking van het eerste lid kan de Minister voor de uitvoering van het project een andere termijn dan drie jaar vaststellen.   
+3.  De Minister kan, in afwijking van artikel 1:2, aanhef en eerste lid, toestemming geven voor de uitvoering van het project buiten Nederland.   
 
 ### Artikel  4:44  
 
@@ -3368,9 +3442,7 @@ d. kosten van een accountantsverklaring, voor zover deze kosten niet meer bedrag
 
 e. kosten voor architecten, ingenieurs en overige deskundigen, die uit hoofde van hun beroep adviezen verstrekken, voor zover deze kosten niet meer dan 12% van de totale subsidiabele kosten bedragen;  
 
-f. loonkosten, voor zover deze kosten betrekking hebben op personeel dat ten behoeve van het project is ingezet, en  
-
-g. kosten van de door de aanvrager ten behoeve van het project verrichte arbeid.     
+f. loonkosten en kosten voor eigen arbeid voor zover ze betrekking hebben op de uitvoering van het project.     
 2.  Voor de subsidie komen niet in aanmerking kosten voor: 
 
 a. de overdracht van de eigendom van een onderneming;  
@@ -3381,7 +3453,7 @@ b. de aankoop van broed en onvolwassen dieren ten behoeve van de kweek.
 
 ####Hoogte subsidie
 
-1.  De subsidie bedraagt ten hoogste 30% voor kleine, middelgrote en micro-ondernemingen.   
+1.  Voor kleine, middelgrote en micro-ondernemingen bedraagt de subsidie ten hoogste 30% van de subsidiabele kosten.   
 2.  Voor andere ondernemingen dan bedoeld in het eerste lid, bedraagt de subsidie ten hoogste 20% van de subsidiabele kosten.   
 3.  De subsidie bedraagt ten hoogste € 800.000,–.   
 
@@ -3439,8 +3511,8 @@ h. een groter uitstralingseffect heeft voor toepassing door andere ondernemingen
 ####Verplichtingen subsidieontvanger
 
 1.  De subsidieontvanger vangt het project aan binnen zes maanden na de datum van subsidieverlening en voert het project uit binnen een periode van ten hoogste drie jaar.   
-2.  In afwijking van het eerste lid kan de Minister voor de uitvoering van het project een kortere termijn dan drie jaar vaststellen.   
-3.  De subsidieontvanger voert het project uit in Nederland, behoudens toestemming van de Minister tot uitvoering buiten Nederland.   
+2.  In afwijking van het eerste lid kan de Minister voor de uitvoering van het project een andere termijn dan drie jaar vaststellen.   
+3.  De Minister kan, in afwijking van artikel 1:2, aanhef en eerste lid, toestemming geven voor de uitvoering van het project buiten Nederland.   
 
 ### Artikel  4:50  
 
@@ -4190,43 +4262,90 @@ C.P.Veerman
 
 ####Bijlage bij artikel 1:14e 
 
-#### *§ 1. Controleprotocol* 
+####Controleprotocol controleverklaring LNV-subsidies
 
-###A. Object van controle
+####Inleiding
 
-De controle ziet erop dat de aanvrager met indiening van de aanvraag tot subsidievaststelling en de daarbij behorende bescheiden, voor zover van toepassing, voldoet aan de voorschriften uit [artikel 4:45 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). In het bijzonder ziet de controle op de juistheid van de rekening en verantwoording omtrent de uitgaven en inkomsten, verbonden aan de activiteit waarop de subsidie betrekking heeft. 
-###B. Materialiteit en betrouwbaarheid
+Onderliggend Controleprotocol controleverklaring LNV-subsidies is van toepassing wanneer bij vaststelling van een subsidiebedrag een controleverklaring, vanuit de Regeling LNV-subsidies, wordt vereist. Dit protocol is afgestemd met het Koninklijk Nederlandse Beroepsorganisatie van Accountants (NBA). Het referentiekader is de Regeling LNV-subsidies waaronder de subsidie is verleend.  
 
-De accountant of accountant-administratieconsulent geeft een redelijke mate van zekerheid dat zich in de rekening en verantwoording omtrent de uitgaven en inkomsten geen onjuistheden van materieel belang bevinden. Als richtlijn past de accountant een betrouwbaarheid van 95 procent en een maximaal toelaatbare fout (materialiteit) van 1 procent toe. 
-###C. Naleving specifieke bepalingen uit de regeling
+### Hoofdstuk  1  
 
-Bij de uitvoering van de controle wordt tevens vastgesteld dat: 
+####Uitgangspunten
 
-a. in de rekening en verantwoording omtrent de uitgaven en inkomsten: 
+####Doelstelling
 
-1°. geen kosten als subsidiabele kosten worden aangevoerd die niet voor subsidie in aanmerking komen op grond van de regeling;  
+Het doel van dit controleprotocol is het verstrekken van duidelijkheid over de reikwijdte en diepgang van de accountantscontrole en de in dat kader af te geven controleverklaring. De controleverklaring moet de Dienst Regelingen zekerheid geven over de juistheid en volledigheid van de gedeclareerde subsidiabele kosten. Hiertoe controleert de accountant de financiële verantwoording van de gedeclareerde subsidiabele kosten die door de eindontvanger bij het verzoek tot vaststelling (eindafrekening) is aangeleverd. De Dienst Regelingen controleert vervolgens de eindafrekening op het voldoen aan de subsidievoorwaarden en stelt de subsidie vast.  
 
-2°. uitsluitend kosten als subsidiabele kosten worden aangevoerd die daadwerkelijk gemaakt en betaald zijn;    
+####Procedures
 
-b. de subsidieontvanger in voorkomend geval opgave doet van alle inkomsten, waaronder subsidies, waarmee de activiteit waarop de subsidie betrekking heeft mede is gefinancierd;  
+De subsidieontvanger verzoekt de accountant een controleverklaring op te stellen op basis van het protocol controleverklaring LNV-subsidies. De eindbegunstigde levert hiertoe de aanvraag vaststelling (eindafrekening) aan de accountant aan. De accountant controleert de juistheid en volledigheid van het verzoek tot subsidievaststelling (eindafrekening) van de subsidieontvanger op basis van de richtlijnen in dit protocol. Naar aanleiding van de controle waarmerkt de accountant de eindafrekening en stelt de controleverklaring op. Hoofdstuk 3 bevat de minimaal voorgeschreven tekst van de controleverklaring. De subsidieontvanger levert het verzoek tot vaststelling (de gewaarmerkte eindafrekening) en de controleverklaring bij de Dienst Regelingen aan. Het verzoek tot vaststelling (eindafrekening) moet nadat het project is voltooid binnen de in de regeling LNV-subsidies gestelde termijn worden gedaan. Deze termijn is in de subsidieverplichtingen bij de beschikking tot subsidieverlening opgenomen. De Minister behoudt zich het recht voor een review te laten uitvoeren op de uitgevoerde accountantscontrole inzake de eindafrekening. De accountant die de controle uitvoert verstrekt desgevraagd alle inlichtingen en bescheiden zoals deze dat gewenst acht.  
 
-c. de administratie van de aanvrager voldoet aan de eisen, gesteld in artikel 1:12, tweede en derde lid;  
+####Definities
 
-d. ingeval de subsidie strekt tot uitvoering van een project, het project is uitgevoerd overeenkomstig het projectplan waarop de beschikking tot subsidieverlening betrekking heeft;  
+*Een accountant:* Een openbaar accountant zoals bedoeld in [artikel 393, lid 1 Burgerlijk Wetboek, boek 2](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), aan wie de eindbegunstigde de opdracht heeft toegekend de aanvraag tot vaststelling (eindafrekening) ten behoeve van de subsidieaanvraag te controleren.  
 
-e. ingeval in de regeling, bij openstelling van de subsidie of bij de subsidieverlening een aanvangstermijn is voorgeschreven, de activiteit waarop de subsidie betrekking heeft is aangevangen binnen die termijn;  
+*Subsidieontvanger:* Een natuurlijke of rechtspersoon of diens gemachtigde aan wie Dienst Regelingen, namens de Minister, een subsidie heeft toegekend.  
 
-f. ingeval in de regeling, bij openstelling van de subsidie of bij de subsidieverlening een uitvoeringstermijn is voorgeschreven, de activiteit waarop de subsidie betrekking heeft is uitgevoerd binnen die termijn.    
+*Gemachtigde:* Een natuurlijke of rechtspersoon welke door de eindbegunstigde is gemachtigd bepaalde activiteiten ten behoeve van de subsidieaanvraag te verrichten. De afspraken omtrent de machtiging zijn vastgelegd in een machtigingsverklaring.  
 
-#### *§ 2. Accountantsverklaring* 
+*Eindafrekening:* Het verzoek van de subsidieontvanger tot vaststelling van de subsidie.  
 
-De accountant of accountant-administratieconsulent rapporteert over de uitkomst van zijn werkzaamheden door middel van een goedkeurende accountantsverklaring. Hij waarmerkt iedere bladzijde van de door hem gecontroleerde verantwoording en hecht de accountantsverklaring aan de verantwoording. Ten overvloede zij vermeld dat de accountant materiële fouten, onzekerheden of bedenkingen met betrekking tot de verantwoording en met betrekking tot specifiek te controleren punten zoveel mogelijk gekwantificeerd opneemt in de accountantsverklaring en zijn oordeel in de verklaring daarop afstemt. De Minister behoudt zich het recht voor een review te laten uitvoeren op de door de accountant of accountant-administratieconsulent verrichte werkzaamheden. De tekst van de goedkeurende accountantsverklaring luidt: Wij hebben de bijgevoegde gewaarmerkte financiële verantwoording van <naam instelling/persoon> te <zetel, plaats> over de periode <datum> tot <datum> met betrekking tot subsidieverlening in het kader van de Regeling LNV-subsidies <openstelling> gecontroleerd. De financiële verantwoording is opgesteld onder verantwoordelijkheid van <leiding naam instelling>. Het is onze verantwoordelijkheid een accountantsverklaring inzake deze financiële verantwoording te verstrekken. De Minister van Landbouw, Natuur en Voedselkwaliteit heeft per brief <kenmerk> d.d. <datum> een subsidie verleend tot een maximum van <bedrag>. Onze controle is verricht in overeenstemming met algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten alsmede overeenkomstig het controleprotocol, vastgesteld in bijlage 1 bij de Regeling LNV-subsidies. Volgens de richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat een redelijke mate van zekerheid wordt verkregen dat de financiële verantwoording geen onjuistheden van materieel belang bevat. Een controle omvat onder meer een onderzoek door middel van deelwaarnemingen van informatie ter onderbouwing van de bedragen in de financiële verantwoording. Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel. Wij zijn van oordeel dat de financiële verantwoording voldoet aan de voor dit doel eraan te stellen eisen, onder meer vastgelegd in de voornoemde regeling. Dit impliceert dat: 
+*Controleverklaring:* Een schriftelijke verklaring van de accountant inhoudende een oordeel omtrent de juistheid en volledigheid van een verantwoording, in dit geval van de eindafrekening.    
 
-– ten behoeve van de voor subsidie in aanmerking komende kosten een afzonderlijke (project)administratie is gevoerd waarin alle gegevens zijn verwerkt die voorkomen in de aanvraag- en rapportageformulieren;  
+### Hoofdstuk  2  
 
-– uit de gevoerde (project)administratie blijkt dat de rapportage en declaratie ten aanzien van het aantal deelnemers en de kenmerken daarvan, de door deze deelnemers gerealiseerde uren en de daarmee gepaard gaande subsidiabele kosten voldoen aan de gestelde subsidievereisten;  
+####Onderzoeksaanpak
 
-– geen andere tegemoetkoming is verkregen van (respectievelijk: aangevraagd bij) derden dan op de verantwoording is aangegeven.   Deze verklaring is afgegeven ten behoeve van Directeur van de Dienst Regelingen. Plaats en datum: Handtekening: Naam en titel accountant (RA/AA): Naam accountantskantoor: Adres: Postcode en woonplaats: Telefoon: Paraaf voor waarmerking:   
+####Controleaanpak
+
+De accountant voert de controle met betrekking tot het verzoek tot vaststelling (eindafrekening) uit in overeenstemming met de richtlijnen in dit controleprotocol. De accountant controleert hiertoe de financiële verantwoording van de gedeclareerde kosten op de hieronder genoemde specifieke controlepunten. De controleaanpak is de primaire verantwoordelijkheid van de accountant.  
+
+####Controlepunten
+
+De kern van de accountantscontrole is de vaststelling dat het verzoek tot vaststelling (eindafrekening) juist en volledig is. Hiertoe controleert de accountant de eindafrekening. De specifieke controlepunten hierbij zijn: 
+
+– uitsluitend subsidiabele kosten zijn gedeclareerd die op grond van de regeling in aanmerking komen voor subsidie;  
+
+– de gedeclareerde subsidiabele kosten zijn herleidbaar naar de kostensoorten/begroting zoals opgenomen in de (herziene) subsidieverleningsbeschikking;  
+
+– de gedeclareerde subsidiabele kosten zijn gemaakt (prestatie geleverd) en daadwerkelijk betaald door de subsidieontvanger;  
+
+– In voorkomend geval opgave is gedaan van alle inkomsten, waaronder subsidies, waarmee de activiteit waarop de subsidie betrekking heeft mede is gefinancierd;  
+
+– ingeval de subsidie strekt tot uitvoering van een project, het project is uitgevoerd overeenkomstig het projectplan waarop de beschikking tot subsidieverlening betrekking heeft.    
+
+####Betrouwbaarheid en nauwkeurigheid
+
+De verklaring is gericht op het afgeven van een oordeel bij het verzoek tot vaststelling (eindafrekening). Bij de oordeelsvorming streeft de accountant naar een redelijke mate van zekerheid. Indien dit begrip ten behoeve van het gebruik van statistische technieken moet worden gekwantificeerd, moet worden uitgegaan van een betrouwbaarheid van 95 procent. Een goedkeurende controleverklaring impliceert dat, gegeven de hierboven genoemde betrouwbaarheid, in de eindafrekening verslag geen afwijkingen (fouten en onzekerheden) voorkomen met een materieel belang dat groter is dan de voorgeschreven toleranties. Informatie is materieel indien het weglaten of het onjuist weergeven daarvan de beslissing van de subsidieverlener over het verzoek tot vaststelling (eindafrekening) zou kunnen beïnvloeden. Verder wordt verwezen naar hetgeen over materialiteit is vastgelegd in standaard 320 ‘Materieel belang in de accountantscontrole’ van NBA. Als omvangsbasis voor de toleranties geldt het totaal van de in de eindafrekening opgenomen subsidiabele kosten. De subsidieontvanger dient in beginsel alle geconstateerde fouten te corrigeren. De accountant beoordeelt wat de gevolgen zijn van de niet gecorrigeerde fouten voor de strekking van zijn controleverklaring. Voor de strekking van de controleverklaring gelden de volgende toleranties:  
+
+|--- | Oordeel  | Goedkeurend  | Beperking  | Oordeelonthouding  | Afkeuring  |
+|:---|:---|:---|:---|:---|:---|
+| Fouten in de eindafrekening  | < 1%  | >1% en < 3%  | n.v.t.  | > 3%  |
+| Onzekerheden in de controle  | < 3%  | >3% en < 10%  | > 10%  | n.v.t.  |
+
+####De controleverklaring
+
+Voor de controleverklaring dient het model controleverklaring gehanteerd te worden. De accountant stelt de verklaring op overeenkomstig de voorbeeldteksten van NBA. De accountant dient het van toepassing zijnde controleprotocol te vermelden in de controleverklaring.  
+
+### Hoofdstuk  3  
+
+####Tekst controleverklaring
+
+####CONTROLEVERKLARING VAN DE ONAFHANKELIJKE ACCOUNTANT
+
+*Afgegeven ten behoeve van Dienst Regelingen*  Aan: opdrachtgever Wij hebben bijgevoegde eindafrekening van <naam instelling/persoon> te <zetel, plaats> over de periode <datum> tot <datum> met betrekking tot subsidieverlening in het kader van de Regeling LNV-subsidies <openstelling> gecontroleerd. De Minister van Economische Zaken, Landbouw en Innovatie heeft per brief <kenmerk> d.d. <datum> terzake een subsidie verleend tot een maximum van <bedrag>. 
+### *Verantwoordelijkheid van de subsidieontvanger* 
+
+<Het bestuur van de instelling/naam persoon> is verantwoordelijk voor het opstellen van de eindafrekening in overeenstemming met de relevante bepalingen in de Regeling LNV-subsidies. <Het bestuur van de instelling/naam persoon> is tevens verantwoordelijk voor een zodanige interne beheersing als het noodzakelijk acht om het opstellen van de eindafrekening mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten. 
+### *Verantwoordelijkheid van de accountant* 
+
+Onze verantwoordelijkheid is het geven van een oordeel over de eindafrekening op basis van onze controle. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse controlestandaarden en het Controleprotocol controleverklaring LNV-subsidies, vastgesteld in bijlage 1 bij de Regeling LNV-subsidies. Dit vereist dat wij voldoen aan de voor ons geldende ethische voorschriften en dat wij onze controle zodanig plannen en uitvoeren dat een redelijke mate van zekerheid wordt verkregen dat de eindafrekening geen afwijkingen van materieel belang bevat. Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de eindafrekening. De geselecteerde werkzaamheden zijn afhankelijk van de door de accountant toegepaste oordeelsvorming, met inbegrip van het inschatten van de risico’s dat de eindafrekening een afwijking van materieel belang bevat als gevolg van fraude of fouten. Bij het maken van deze risico-inschattingen neemt de accountant de interne beheersing in aanmerking die relevant is voor het opstellen van de eindafrekening door de entiteit, gericht op het opzetten van controlewerkzaamheden die passend zijn in de omstandigheden. Deze risico-inschattingen hebben echter niet tot doel een oordeel tot uitdrukking te brengen over de effectiviteit van de interne beheersing van de entiteit. Een controle omvat tevens het evalueren van de geschiktheid van de gebruikte grondslagen voor de subsidiedeclaratie, alsmede een evaluatie van het algehele beeld van de subsidiedeclaratie. Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is om een onderbouwing voor ons oordeel te bieden. 
+### *Oordeel* 
+
+Naar ons oordeel is de eindafrekening van <naam instelling/persoon> over de periode <datum> tot <datum> in alle van materieel belang zijnde aspecten opgesteld in overeenstemming met de begroting zoals opgenomen in brief <kenmerk> d.d. <datum> en de relevante bepalingen in de Regeling LNV-subsidies. 
+### *Beperking in gebruik en verspreidingskring* 
+
+De eindafrekening is opgesteld voor de Dienst Regelingen met als doel <naam instelling/persoon> in staat te stellen te voldoen aan de relevante bepalingen in de Regeling LNV-subsidies. Hierdoor is de eindafrekening mogelijk niet geschikt voor andere doeleinden. Dit doet geen afbreuk aan ons oordeel. De eindafrekening met onze controleverklaring is derhalve uitsluitend bestemd voor <naam instelling/persoon> en de Dienst Regelingen en dient derhalve niet te worden verspreid of gebruikt door anderen. <Plaats, datum> <Naam accountantspraktijk> <Naam accountant >  
 
 ### Bijlage  2  
 
@@ -5047,7 +5166,13 @@ f. machines of installaties voor composteren, of
 g. machines of installaties voor verwerking tot korrels.   Subsidie wordt uitsluitend verstrekt indien met de machines of installaties verwerkte mest ten minste voor 60% wordt aangewend op de landbouwonderneming die de subsidie heeft aangevraagd en met de machines of installaties uitsluitend mest wordt verwerkt die op die landbouwonderneming wordt geproduceerd. 
 ### *Categorie 2: rijbemesting.* 
 
-De hierna opgesomde machine: met GPS-systeem uitgevoerde rijenbemester waarmee meststoffen bij open teelten plaatsspecifiek kunnen worden toegediend. 
+1. De hierna opgesomde bemestingsapparatuur: 
+
+a. met GPS-systeem uitgevoerde rijenbemester waarmee meststoffen bij open teelten plaatsspecifiek kunnen worden toegediend;  
+
+b. met GPS-systeem uitgevoerde bemester met sectiebesturing voor vloeibare meststoffen.    
+
+2. Er wordt geen subsidie verstrekt voor een landbouwtrekker of andere zelfrijdende land- of tuinbouwmachines.   
 ### *Categorie 3: mestopslag voor dierlijke meststoffen.* 
 
 De hierna opgesomde machines of installaties: 
@@ -5061,7 +5186,7 @@ c. mestzakken, of
 d. foliebassins.   Indien op de landbouwonderneming een minimumopslagcapaciteit voor dierlijke meststoffen van toepassing is krachtens [Hoofdstuk V van het Uitvoeringsbesluit Meststoffenwet](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), wordt subsidie uitsluitend verstrekt voor zover de opslagcapaciteit van dierlijke mest met ten minste één maand wordt vergroot boven de uit Hoofdstuk V van het Uitvoeringsbesluit Meststoffenwet voortvloeiende minimumopslagcapaciteit, welke op het tijdstip van de subsidieaanvraag op de onderneming van toepassing is. 
 ### *Categorie 4: energie.* 
 
-De hierna opgesomde machines of installaties, voor zover deze op de landbouwonderneming energie uit uitsluitend hernieuwbare energiebronnen produceren of energie of warmte hergebruiken of besparen: 
+1. De hierna opgesomde machines of installaties, voor zover deze op de landbouwonderneming energie uit uitsluitend hernieuwbare energiebronnen produceren of energie of warmte hergebruiken of besparen: 
 
 a. biomassaketel;  
 
@@ -5069,9 +5194,23 @@ b. zonneboiler;
 
 c. warmtepomp;  
 
-d. warmtepompboiler, of  
+d. warmtepompboiler;  
 
-e. combiwarmtepomp in combinatie met een bodemsysteem.   Subsidie wordt uitsluitend verstrekt indien de energie of warmte uitsluitend wordt gebruikt door de landbouwonderneming die de subsidie heeft aangevraagd ten behoeve van landbouwdoeleinden van die onderneming. In zoverre in afwijking van artikel 1:16, derde lid, wordt voor in deze categorie opgesomde machines of installaties geen subsidie verstrekt indien de machines of installaties uit andere hoofde voor de in deze categorie beschreven activiteit worden gesubsidieerd. Voor de in deze categorie opgesomde machines of installaties wordt geen subsidie verstrekt indien de machines of installaties op grond van ‘Bijlage 2. Hoofdstuk 1. Investeringen op het terrein van energiebesparing’ of ‘Bijlage 2. Hoofdstuk 2. Marktintroductie energieinnovaties’ worden gesubsidieerd. 
+e. combiwarmtepomp in combinatie met een bodemsysteem;  
+
+f. een met GPS-systeem uitgevoerde tegendrukafhankelijke ploeg;  
+
+g. een klimaatcomputer voor bewaarruimten van agrarische producten;  
+
+h. een debietregeling ventilatoren voor bewaarruimten van agrarische producten als bedoeld in nummer 210301 van [bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001](../../../../ministeriele-regeling/uitvoeringsregeling/energie-investeringsaftrek/2001/BWBR0012054/README.md);  
+
+i. emissiearme land-, tuin- of bosbouwmachines als bedoeld in nummer B 5130 van de [bijlage bij de Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen 2009](../../../../ministeriele-regeling/aanwijzingsregeling/willekeurige/afschrijving/en/investeringsaftrek/etc/BWBR0025316/README.md);  
+
+j. geluid- en emissiearm mobiel aggregaat, compressor of pomp bedoeld in nummer B 5170 van de [bijlage bij de Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen 2009](../../../../ministeriele-regeling/aanwijzingsregeling/willekeurige/afschrijving/en/investeringsaftrek/etc/BWBR0025316/README.md).    
+
+2. Subsidie wordt uitsluitend verstrekt indien de energie of warmte uitsluitend wordt gebruikt door de landbouwonderneming die de subsidie heeft aangevraagd ten behoeve van landbouwdoeleinden van die onderneming.  
+
+3. In zoverre in afwijking van artikel 1:16, derde lid, wordt voor in deze categorie opgesomde machines of installaties geen subsidie verstrekt indien de machines of installaties uit andere hoofde voor de in deze categorie beschreven activiteit worden gesubsidieerd.   
 ### *Categorie 5: water.* 
 
 De hierna opgesomde machines of installaties, voor zover deze af- en uitspoeling van stikstof en fosfaat van het erf van de landbouwonderneming verminderen: 
@@ -5096,17 +5235,17 @@ c. helofytenfilters of andere zuiveringsmachines of -installaties.   Voor de in 
 
 ### B.  
 
-####De landbouwondernemingen, bedoeld in artikel 2:37, eerste lid , zijn: landbouwondernemingen
+*De landbouwondernemingen, bedoeld in artikel 2:37, eerste lid, zijn: landbouwondernemingen, met uitzondering van glastuinbouwondernemingen voor zover het subsidie voor machines en installaties als bedoeld in bijlage 2, hoofdstuk 7, punt A, categorie 4.*   
 
 ### C.  
 
 ####Beschrijving van de kosten, bedoeld in artikel 2:40, vierde lid .
 
-a. In aanvulling op artikel 2:40, eerste lid, komen de volgende kosten voor subsidie in aanmerking: de installatiekosten van de gesubsidieerde investering.  
+1. In aanvulling op artikel 2:40, eerste lid, komen de kosten voor het noodzakelijke materieel voor de werking van de apparatuur, machine of installatie voor subsidie in aanmerking.  
 
-b. In zoverre in afwijking van artikel 2:40, eerste lid, komen bij investeringen genoemd in categorie 3, welke worden uitgevoerd door landbouwondernemingen waarvoor een minimumopslagcapaciteit voor dierlijke meststoffen is voorgeschreven krachtens Hoofdstuk V van het Uitvoeringsbesluit Meststoffenwet, uitsluitend de extra kosten voor subsidie in aanmerking die noodzakelijk zijn om de mestopslagcapaciteit te vergroten boven de krachtens Hoofdstuk V van het Uitvoeringsbesluit Meststoffenwet voortvloeiende minimumopslagcapaciteit.  
+2. De kosten, bedoeld in het eerste lid, bestaan uit de door de aanvrager te maken installatiekosten, zijnde de door de leverancier in rekening gebrachte kosten voor het bouwen en monteren van de apparatuur, machine of installatie.  
 
-c. In afwijking van artikel 1:15, derde lid, komt niet verrekenbare BTW niet voor subsidie in aanmerking.    
+3. In afwijking van artikel 1:15, derde lid, komt niet verrekenbare BTW niet voor subsidie in aanmerking.    
 
 ### D.  
 
@@ -5406,8 +5545,6 @@ d. Met inachtneming van de onderdelen b en c, bedraagt de steunintensiteit van d
 
 2. Het visserijgebied van de provincie Groningen omvat de volgende gemeenten: 
 
-– gemeente Dongeradeel;  
-
 – gemeente de Marne;  
 
 – gemeente Eemsmond;  
@@ -5468,7 +5605,7 @@ d. Met inachtneming van de onderdelen b en c, bedraagt de steunintensiteit van d
 
 – gemeente Oostvoorne;  
 
-– gemeente Hellevoetsluis.     
+– gemeente Hellevoetsluis.    
 
 6. Het visserijgebied van de provincie Friesland omvat de volgende gemeenten: 
 
@@ -5487,6 +5624,8 @@ d. Met inachtneming van de onderdelen b en c, bedraagt de steunintensiteit van d
 – Nijefurd;  
 
 – Wymbritseradiel;  
+
+– Dongeradeel;  
 
 – Wûnseradiel;  
 

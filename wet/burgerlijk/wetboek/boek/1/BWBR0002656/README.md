@@ -202,7 +202,7 @@ Bij algemene maatregel van bestuur wordt geregeld alles wat verder betreft de in
 
 ### Afdeling  4  
 
-####De akten van geboorte en van overlijden
+####De akten van geboorte, van overlijden en de akten houdende attestaties de vita
 
 ### Artikel  19  
 
@@ -276,6 +276,22 @@ b. de bewoner van het huis waar de geboorte heeft plaats gehad, of indien zulks 
 a. op welke wijze en waar de akten van geboorte en van overlijden zullen worden opgemaakt en ingeschreven wanneer dit ten gevolge van een verbod van verkeer of ten gevolge van andere buitengewone omstandigheden niet op de gewone wijze kan geschieden; en  
 
 b. op welke wijze en waar overlijdensakten zullen worden opgemaakt van militairen en van andere personen, die tot de krijgsmacht behoren en die te velde, in de slag, of in ’s Rijks dienst buiten Nederland zijn overleden.     
+
+### Artikel  19k  
+
+1.  Een ieder die zijn gewone verblijfplaats in Nederland heeft, kan de ambtenaar van de burgerlijke stand van zijn woonplaats verzoeken om afgifte van een attestatie de vita opgesteld overeenkomstig bijlage 1 van de op 10 september 1998 te Parijs tot stand gekomen Overeenkomst betreffende de afgifte van een attestatie de vita (Trb. 2004, 283).   
+2.  De verzoeker verschijnt in persoon voor de ambtenaar van de burgerlijke stand van zijn woonplaats, dan wel voor de daartoe in Nederland bevoegde diplomatieke of consulaire autoriteit, tenzij hij in de onmogelijkheid hiertoe verkeert. Hij toont zijn identiteit aan aan de hand van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md).   
+3.  De attestatie de vita is gedurende zes maanden geldig, te rekenen vanaf de datum van afgifte. Zij is vrijgesteld van de vereisten van vertaling en van legalisatie dan wel van enig soortgelijk formeel vereiste.   
+4.  De attestatie de vita wordt afgegeven in de Nederlandse taal en in de Franse taal. Op verzoek wordt daarbij tevens afgegeven: 
+
+a. de lijst van coderingen en de vertaling ervan in de officiële taal of in één van de officiële talen van het land waar de attestatie overgelegd zal worden, of  
+
+b. de vertaling in de officiële taal of in één van de officiële talen van de landen die bij de in het eerste lid genoemde Overeenkomst partij zijn. De vertaling wordt uitgevoerd overeenkomstig de in de bijlage bij de Overeenkomst vastgestelde termen.     
+5.  Iedere belanghebbende kan met betrekking tot een attestatie de vita die is afgegeven in een ander land dat partij is bij de in het eerste lid genoemde Overeenkomst, de ambtenaar van de burgerlijke stand in zijn woonplaats dan wel de daartoe in Nederland bevoegde diplomatieke of consulaire autoriteit verzoeken om afgifte van: 
+
+a. een vertaling van de coderingen in het Nederlands, of  
+
+b. een vertaling van de attestatie de vita in het Nederlands.     
 
 ### Afdeling  5  
 
@@ -1060,6 +1076,14 @@ Van het ogenblik der voltrekking van het huwelijk bestaat tussen de echtgenoten 
 
 1.  Ook voor een schuld van een echtgenoot, die niet in de gemeenschap is gevallen, kunnen de goederen der gemeenschap worden uitgewonnen, tenzij de andere echtgenoot eigen goederen van eerstgenoemde aanwijst, die voldoende verhaal bieden.   
 2.  De echtgenoot wiens niet in de gemeenschap gevallen schuld uit goederen der gemeenschap is voldaan, is deswege gehouden tot vergoeding aan de gemeenschap.   
+
+### Artikel  96a  
+
+Indien een echtgenoot door een begunstiging bij een door zijn overlijden tot uitkering komende sommenverzekering een gift aan een derde heeft gedaan en ten laste van de gemeenschap premies voor die verzekering zijn gekomen, is de echtgenoot deswege gehouden tot vergoeding aan de gemeenschap. De vergoeding beloopt een gedeelte van de waarde van de uitkering, evenredig aan het uit de gemeenschap afkomstige aandeel in de premies.  
+
+### Artikel  96b  
+
+Echtgenoten kunnen bij overeenkomst het beloop van vergoedingen ingevolge de artikelen 95, 96 en 96a anders bepalen. Artikel 87, vierde lid, tweede zin, is van overeenkomstige toepassing. Kan de vergoeding niet nauwkeurig worden vastgesteld, dan wordt zij geschat.  
 
 ### Afdeling  2  
 

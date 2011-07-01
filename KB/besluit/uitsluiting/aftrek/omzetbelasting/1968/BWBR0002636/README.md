@@ -6,24 +6,24 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Financiën van 23 september 1968, nr. D 68/6240, directie Wetgeving Douane en Verbruiksbelastingen;
 
-Gelet op [artikel 16 van de Wet op de omzetbelasting 1968](../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) (*Stb.* 329);
+Gelet op artikel 16 van de Wet op de omzetbelasting 1968 (*Stb.* 329);
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
 
-1.  De in [artikel 15, eerste lid, van de Wet op de omzetbelasting 1968](../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) bedoelde aftrek wordt uitgesloten in de gevallen waarin en voor zover de goederen en diensten worden gebezigd voor: 
+1.  De in artikel 15, eerste lid, van de Wet op de omzetbelasting 1968 bedoelde aftrek wordt uitgesloten in de gevallen waarin en voor zover de goederen en diensten worden gebezigd voor: 
 
 a. het voeren van een zekere staat;  
 
 b. het geven van relatiegeschenken of het doen van andere giften aan degenen bij wie, indien aan hen ter zake omzetbelasting in rekening is of zou zijn gebracht, deze in het geheel niet of hoofdzakelijk niet voor aftrek in aanmerking komt of zou komen;  
 
-c. het aan het personeel van de ondernemer verlenen van huisvesting, uitkeren van loon in natura, geven van gelegenheid tot sport, ontspanning of privé-vervoer, dan wel voor andere persoonlijke doeleinden van dat personeel.     
+c. het aan het personeel van de ondernemer verlenen van huisvesting, uitkeren van loon in natura, geven van gelegenheid tot sport, ontspanning of privé-vervoer, dan wel voor andere persoonlijke doeleinden van dat personeel. De terbeschikkingstelling van een auto wordt van het vorenstaande uitgezonderd.     
 2.  Onder relatiegeschenken of andere giften worden verstaan alle prestaties welke de ondernemer in verband met zakelijke verhoudingen of uit vrijgevigheid ten behoeve van anderen verricht zonder vergoeding of tegen een vergoeding welke lager is dan de aanschaffings- of voortbrengingskosten dan wel, in geval van diensten, de kostprijs van die prestaties de omzetbelasting niet daaronder begrepen.   
 3.  Onder de prestaties als zijn bedoeld in het eerste lid, onderdeel *c*, worden niet begrepen: 
 
 a. het verstrekken van spijzen en dranken aan het personeel van de ondernemer;  
 
-b. het vervoer van het personeel van de ondernemer tussen de woon- of verblijfplaats en de plaats waar de werkzaamheden worden verricht, indien dit vervoer geschiedt in de vorm van besloten busvervoer als bedoeld in [artikel 1, onderdeel i, van de Wet personenvervoer 2000](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) op grond van een krachtens die wet daartoe verleende vergunning;  
+b. het vervoer van het personeel van de ondernemer tussen de woon- of verblijfplaats en de plaats waar de werkzaamheden worden verricht, indien dit vervoer geschiedt in de vorm van besloten busvervoer als bedoeld in artikel 1, onderdeel i, van de Wet personenvervoer 2000 op grond van een krachtens die wet daartoe verleende vergunning;  
 
 c. het aan een werknemer verstrekken of ter beschikking stellen van een fiets voor het vervoer van die werknemer tussen zijn woon- of verblijfplaats en de plaats waar deze zijn werkzaamheden verricht, voorzover: 
 

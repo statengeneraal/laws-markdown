@@ -2586,6 +2586,10 @@ Op de exploitatie van een binnenschip zijn de artikelen 361 tot en met 366 van o
 
 ####Overeenkomst van goederenvervoer over binnenwateren
 
+### Artikel  889  
+
+Partijen kunnen overeenkomen dat in afwijking van de afdelingen 1 en 2 alsmede in afwijking van afdeling 1 van titel 20 de bepalingen van het Verdrag van Boedapest inzake de overeenkomst voor het vervoer van goederen over de binnenwateren (CMNI) op het vervoer van toepassing zijn.  
+
 ### Artikel  890  
 
 1.  De overeenkomst van goederenvervoer in de zin van deze titel is de overeenkomst van goederenvervoer, al dan niet tijd- of reisbevrachting zijnde, waarbij de ene partij (de vervoerder) zich tegenover de andere partij (de afzender) verbindt aan boord van een schip zaken uitsluitend over binnenwateren te vervoeren.   
@@ -4407,7 +4411,7 @@ Indien met betrekking tot een zaak een schadevergoeding uit hoofde van artikel 1
 
 ### Artikel  1359  
 
-1.  Bij het luchtvervoer van zaken is de aansprakelijkheid van de vervoerder in geval van vernieling, verlies, beschadiging of vertraging beperkt tot een bedrag van zeventien rekeneenheden per kilogram, zulks behoudens bijzondere verklaring omtrent belang bij de aflevering, gedaan door de afzender bij de afgifte van de zaken aan de vervoerder en tegen betaling van een mogelijkerwijs verhoogd tarief. In dat geval is de vervoerder verplicht te betalen tot het bedrag van de opgegeven som, tenzij hij bewijst dat deze het werkelijk belang van de afzender bij de aflevering te boven gaat.   
+1.  Bij het luchtvervoer van zaken is de aansprakelijkheid van de vervoerder in geval van vernieling, verlies, beschadiging of vertraging beperkt tot een bij algemene maatregel van bestuur te bepalen bedrag of bedragen, zulks behoudens bijzondere verklaring omtrent belang bij de aflevering, gedaan door de afzender bij de afgifte van de zaken aan de vervoerder en tegen betaling van een mogelijkerwijs verhoogd tarief. In dat geval is de vervoerder verplicht te betalen tot het bedrag van de opgegeven som, tenzij hij bewijst dat deze het werkelijk belang van de afzender bij de aflevering te boven gaat.   
 2.  Bij vernieling, verlies, beschadiging of vertraging van een gedeelte van de zaken of van enig daarin opgenomen voorwerp wordt ter bepaling van de aansprakelijkheidsgrens van de vervoerder alleen in aanmerking genomen het totale gewicht van het betrokken collo of van de betrokken colli. Indien evenwel de vernieling, het verlies, de beschadiging of de vertraging van een gedeelte van de zaken of van enig daarin opgenomen voorwerp, de waarde van andere colli, gedekt door dezelfde luchtvrachtbrief of hetzelfde ontvangstbewijs of als die niet zijn uitgegeven, door dezelfde gegevens zoals die zijn vastgelegd in een ander middel bedoeld in artikel 1365, tweede lid, beïnvloedt, wordt het totale gewicht van deze colli in aanmerking genomen ter bepaling van de aansprakelijkheidsgrens.   
 3.  Het eerste en het tweede lid zijn niet van toepassing op een eventuele aansprakelijkheid van de vervoerder voor de kosten van het geding met de partij tegen wie hij zich op deze bepalingen kan beroepen, inclusief rente, tenzij de vervoerder schriftelijk hetzij binnen een termijn van zes maanden na de datum van het voorval waardoor de schade werd veroorzaakt, hetzij vóór de aanvang van het proces, wanneer dit na die termijn is aanhangig gemaakt, een bedrag aan de eiser heeft aangeboden even groot als of groter dan het bedrag van de toegewezen schadevergoeding met uitsluiting van genoemde kosten van het geding.   
 
@@ -4589,8 +4593,8 @@ De vervoerder is aansprakelijk voor schade veroorzaakt door dood of letsel van d
 
 ### Artikel  1399  
 
-1.  Voor schade bedoeld in artikel 1393 die een bedrag van 100 000 rekeneenheden per reiziger niet te boven gaat, kan de vervoerder zijn aansprakelijkheid niet beperken of uitsluiten.   
-2.  De vervoerder is niet aansprakelijk voor schade bedoeld in artikel 1393 voorzover deze een bedrag van 100 000 rekeneenheden per reiziger te boven gaat, indien hij bewijst dat: 
+1.  Voor schade bedoeld in artikel 1393 die een bij algemene maatregel van bestuur te bepalen bedrag of bedragen niet te boven gaat, kan de vervoerder zijn aansprakelijkheid niet beperken of uitsluiten.   
+2.  De vervoerder is niet aansprakelijk voor schade bedoeld in artikel 1393 voorzover deze een bij algemene maatregel van bestuur te bepalen bedrag of bedragen te boven gaat, indien hij bewijst dat: 
 
 a. de schade niet te wijten was aan de schuld of nalatigheid van hem of van degenen van wier hulp hij bij de uitvoering van zijn verbintenis gebruik maakte; of  
 
@@ -4599,8 +4603,8 @@ b. de schade uitsluitend te wijten was aan de schuld of nalatigheid van een derd
 
 ### Artikel  1400  
 
-1.  In geval van schade veroorzaakt door vertraging als bedoeld in artikel 1396 bij het vervoer van reizigers, is de aansprakelijkheid van de vervoerder beperkt tot 4150 rekeneenheden per reiziger.   
-2.  Bij het vervoer van bagage is de aansprakelijkheid van de vervoerder in geval van vernieling, verlies, beschadiging of vertraging beperkt tot 1000 rekeneenheden per reiziger zulks behoudens bijzondere verklaring omtrent belang bij de aflevering gedaan door de reiziger bij de afgifte van de aangegeven bagage aan de vervoerder en tegen betaling van een mogelijkerwijs verhoogd tarief. In dat geval is de vervoerder verplicht te betalen tot het bedrag van de opgegeven som, tenzij hij bewijst dat deze het werkelijk belang van de reiziger bij de aflevering te boven gaat.   
+1.  In geval van schade veroorzaakt door vertraging als bedoeld in artikel 1396 bij het vervoer van reizigers, is de aansprakelijkheid van de vervoerder beperkt tot een bij algemene maatregel van bestuur te bepalen bedrag of bedragen.   
+2.  Bij het vervoer van bagage is de aansprakelijkheid van de vervoerder in geval van vernieling, verlies, beschadiging of vertraging beperkt tot een bij algemene maatregel van bestuur te bepalen bedrag of bedragen zulks behoudens bijzondere verklaring omtrent belang bij de aflevering gedaan door de reiziger bij de afgifte van de aangegeven bagage aan de vervoerder en tegen betaling van een mogelijkerwijs verhoogd tarief. In dat geval is de vervoerder verplicht te betalen tot het bedrag van de opgegeven som, tenzij hij bewijst dat deze het werkelijk belang van de reiziger bij de aflevering te boven gaat.   
 3.  Artikel 1359, derde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  1401  

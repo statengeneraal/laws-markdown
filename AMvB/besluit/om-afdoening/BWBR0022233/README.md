@@ -37,6 +37,7 @@ c. Centraal Justitieel Incassobureau: het Centraal Justitieel Incassobureau, bed
 1.  Het Centraal Justitieel Incassobureau heeft tot taak degene die bevoegd is de strafbeschikking uit te vaardigen te ondersteunen bij diens daarop betrekking hebbende taken.   
 2.  Het Centraal Justitieel Incassobureau verricht de werkzaamheden die Onze Minister of het openbaar ministerie van hem in verband met de uitoefening van de in het eerste lid bedoelde taken verlangen.   
 3.  Degene die de strafbeschikking uitvaardigt, verstrekt aan het Centraal Justitieel Incassobureau de gegevens die het behoeft in verband met de uitvoering van dit artikel.   
+4.  Dit artikel is niet van toepassing op strafbeschikkingen, uitgevaardigd krachtens [artikel 76 van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [artikel 10:15 van de Algemene douanewet](../../../../wet/algemene/douanewet/BWBR0023746/README.md).   
 
 ### Artikel  2.2  
 

@@ -17,13 +17,15 @@ Geene gelden mogen worden geheven ter zake van het opmaken van akten of andere v
 
 1.  Er is een bij algemene maatregel van bestuur te bepalen recht verschuldigd 
 
-a. voor elk afschrift van een akte van de burgerlijke stand als bedoeld in [artikel 23b, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);  
+a. voor elk afschrift van een akte van de burgerlijke stand als bedoeld in artikel 23b, tweede lid, van Boek 1 van het Burgerlijk Wetboek;  
 
-b. voor elk uittreksel als bedoeld in [artikel 23b, eerste lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);  
+b. voor elk uittreksel als bedoeld in artikel 23b, eerste lid, van Boek 1 van het Burgerlijk Wetboek;  
 
-c. voor elke verklaring van huwelijksbevoegdheid als bedoeld in [artikel 49a van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);  
+c. voor elke verklaring van huwelijksbevoegdheid als bedoeld in artikel 49a van Boek 1 van het Burgerlijk Wetboek;  
 
-d. voor elk meertalig uittreksel uit een akte van de burgerlijke stand.   Afschriften van of uittreksels uit huwelijksakten of akten van omzetting van een geregistreerd partnerschap in een huwelijk worden ten behoeve van het kerkelijk huwelijk kosteloos uitgegeven, mits van de bestemming uit het stuk zelve blijke en zij alzoo tot geen ander einde kunnen worden gebruikt.   
+d. voor elke attestatie de vita, als bedoeld in artikel 19k van Boek 1 van het Burgerlijk Wetboek en  
+
+e. voor elk meertalig uittreksel uit een akte van de burgerlijke stand.   Afschriften van of uittreksels uit huwelijksakten of akten van omzetting van een geregistreerd partnerschap in een huwelijk worden ten behoeve van het kerkelijk huwelijk kosteloos uitgegeven, mits van de bestemming uit het stuk zelve blijke en zij alzoo tot geen ander einde kunnen worden gebruikt.   
 2.  Van de betaling van deze regten zijn vrijgesteld: 
 
 1°. zij, die het aangevraagde afschrift of uittreksel noodig hebbende in hun persoonlijk belang, van hun onvermogen doen blijken door een getuigschrift, door den burgemeester hunner woon- of verblijfplaats afgegeven;  
@@ -43,7 +45,7 @@ d. voor elk meertalig uittreksel uit een akte van de burgerlijke stand.   Afschr
 ### Artikel  5  
 
 1.  Het lokaal, in het huis der gemeente voor de huwelijksvoltrekking, registratie van een partnerschap of omzetting van een geregistreerd partnerschap bestemd, wordt door het college van burgemeester en wethouders beschikbaar gesteld.   
-2.  Voor huwelijksvoltrekking, registratie van een partnerschap of omzetting van een geregistreerd partnerschap, op andere tijd of andere wijze dan waarop zij ingevolge het voorschrift van het voorafgaande artikel kosteloos plaats heeft, kan door de gemeente een recht worden geheven als bedoeld in [artikel 229 van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md) (*Stb* 1992, 96).   
+2.  Voor huwelijksvoltrekking, registratie van een partnerschap of omzetting van een geregistreerd partnerschap, op andere tijd of andere wijze dan waarop zij ingevolge het voorschrift van het voorafgaande artikel kosteloos plaats heeft, kan door de gemeente een recht worden geheven als bedoeld in artikel 229 van de Gemeentewet (*Stb* 1992, 96).   
 
 ### Artikel  6  
 

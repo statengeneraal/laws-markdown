@@ -193,7 +193,7 @@ De aangewezen aangemelde instelling trekt een door haar afgegeven certificaat va
 
 ####Verzoek tot afgifte van een certificaat
 
-1.  Onze Minister of, indien Onze Minister een aangewezen instelling dan wel aangewezen aangemelde instelling heeft aangewezen, deze instelling, geeft op verzoek een certificaat van goedkeuring af wanneer hij respectievelijk zij heeft vastgesteld dat is voldaan aan de bij of krachtens artikel 17, vijfde, zesde en zevende lid, gestelde keuringseisen.   
+1.  Onze Minister of, indien Onze Minister een aangewezen instelling dan wel aangewezen aangemelde instelling heeft aangewezen, deze instelling, geeft op verzoek een certificaat van goedkeuring af wanneer hij respectievelijk zij heeft vastgesteld dat is voldaan aan de bij of krachtens artikel 17, vierde, vijfde en zesde lid, gestelde keuringseisen.   
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de indiening van een verzoek, als bedoeld in het eerste lid, en de afhandeling van het verzoek.   
 3.  De kosten van het afgeven van een certificaat van goedkeuring zijn voor rekening van de verzoeker tot afgifte van het certificaat.   
 
@@ -286,7 +286,7 @@ c. onafhankelijk is van degenen die bij het resultaat van de uitvoering van de t
 
 d. beschikt over voldoende deskundigheid en outillage om de uitvoering van de taken waarvoor zij is aangewezen, naar behoren te kunnen vervullen;  
 
-e. beschikt over een behoorlijke administratie, waarin de gegevens die samenhangen met en betrekking hebben op de uitvoering van haar taken, op een systematische wijze zijn vastgelegd. Aan de hand van deze gegevens zijn de gekeurde liften, bouwliften voor personenvervoer en transportsteigers alsmede de onderzochte kwaliteitssystemen afdoende te identificeren;  
+e. beschikt over een behoorlijke administratie, waarin de gegevens die samenhangen met en betrekking hebben op de uitvoering van haar taken, op een systematische wijze zijn vastgelegd. Aan de hand van deze gegevens zijn de gekeurde liften, alsmede de onderzochte kwaliteitssystemen afdoende te identificeren;  
 
 f. naar behoren functioneert.     
 2.  In aanvulling op het eerste lid komen voor een aanwijzing als aangewezen aangemelde instelling slechts in aanmerking instellingen die ten minste voldoen aan de in bijlage VII van de richtlijn neergelegde voorwaarden.   

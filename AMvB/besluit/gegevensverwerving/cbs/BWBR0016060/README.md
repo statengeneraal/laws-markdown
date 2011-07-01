@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken van 12 november 2003, nr. WJZ 3064266;
 
-Gelet op [artikel 33, tweede, derde en vierde lid, van de Wet op het Centraal bureau voor de statistiek](../../../../../wet/wet/op/het/centraal/bureau/voor/de/statistiek/BWBR0015926/README.md);
+Gelet op artikel 33, tweede, derde en vierde lid, van de Wet op het Centraal bureau voor de statistiek;
 
 Gehoord de Centrale commissie voor de statistiek;
 
@@ -20,9 +20,9 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Krachtens [artikel 33, tweede lid, van de Wet op het Centraal bureau voor de statistiek](../../../../../wet/wet/op/het/centraal/bureau/voor/de/statistiek/BWBR0015926/README.md) worden aangewezen: 
+Krachtens artikel 33, tweede lid, van de Wet op het Centraal bureau voor de statistiek worden aangewezen: 
 
-a. instellingen die een bij of krachtens de [Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), de [Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md) dan wel de [Waterleidingwet](../../../../../wet/waterleidingwet/BWBR0002246/README.md) geregelde taak uitoefenen;  
+a. instellingen die een bij of krachtens de Elektriciteitswet 1998, de Gaswet dan wel de Drinkwaterwet geregelde taak uitoefenen;  
 
 b. de Stichting Inschrijving Eigen Vervoer SIEV, gevestigd te Zoetermeer;  
 
@@ -40,7 +40,7 @@ f. het landelijk onderzoeks- en informatiecentrum voor de zorgverzekeraars Vekti
 
 ### Artikel  2  
 
-Krachtens [artikel 33, derde lid, van de Wet op het Centraal bureau voor de statistiek](../../../../../wet/wet/op/het/centraal/bureau/voor/de/statistiek/BWBR0015926/README.md) worden aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van: 
+Krachtens artikel 33, derde lid, van de Wet op het Centraal bureau voor de statistiek worden aangewezen ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die activiteiten ontplooien op het terrein van: 
 
 a. de landbouw, jacht en bosbouw;  
 
@@ -216,7 +216,7 @@ b. verzekerd pakket en verstrekkingen per zorggebruiker.
 
 ### Artikel  11b  
 
-Buiten de in artikel 3 bedoelde gegevens kunnen bij deskundige personen als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet 1998](../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) of arbodiensten als bedoeld in [die wet](../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), gegevens worden opgevraagd betreffende: 
+Buiten de in artikel 3 bedoelde gegevens kunnen bij deskundige personen als bedoeld in artikel 14, eerste lid, van de Arbeidsomstandighedenwet 1998 of arbodiensten als bedoeld in die wet, gegevens worden opgevraagd betreffende: 
 
 a. het verzuim per werknemer, waaronder worden begrepen de periodes van verzuim en de oorzaken daarvan, zoals die kunnen blijken uit diagnoses, ongevallen en klachten;  
 
@@ -232,7 +232,7 @@ Ten aanzien van de in artikel 3, onderdelen h en i, bedoelde gegevens kan de dir
 
 ### Artikel  12  
 
-1.  De termijnen, bedoeld in [artikel 33, vierde lid, van de Wet op het Centraal bureau voor de statistiek](../../../../../wet/wet/op/het/centraal/bureau/voor/de/statistiek/BWBR0015926/README.md), worden bepaald op: 
+1.  De termijnen, bedoeld in artikel 33, vierde lid, van de Wet op het Centraal bureau voor de statistiek, worden bepaald op: 
 
 a. 10 kalenderdagen, voor zover het betreft gegevens die betrekking hebben op een maand;  
 
@@ -249,7 +249,7 @@ d. 60 kalenderdagen, voor zover het betreft gegevens die betrekking hebben op ee
 
 ### Artikel  13  
 
-Dit besluit treedt in werking op het tijdstip waarop [artikel 33 van de Wet op het Centraal bureau voor de statistiek](../../../../../wet/wet/op/het/centraal/bureau/voor/de/statistiek/BWBR0015926/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop artikel 33 van de Wet op het Centraal bureau voor de statistiek in werking treedt.  
 
 ### Artikel  14  
 

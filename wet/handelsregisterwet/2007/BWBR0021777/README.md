@@ -188,7 +188,7 @@ e. de leden, maten of vennoten, met uitzondering van de commanditaire vennoten, 
 
 1.  In het handelsregister worden over een vestiging van een onderneming opgenomen: 
 
-a.  dit onderdeel is nog niet in werking getreden;   
+a. een door een kamer toegekend uniek nummer;  
 
 b. de handelsnaam of handelsnamen;  
 
@@ -223,7 +223,7 @@ c. de vestigingen.
 
 1.  In het handelsregister worden over een vestiging van een rechtspersoon waaraan geen onderneming toebehoort opgenomen: 
 
-a.  dit onderdeel is nog niet in werking getreden;   
+a. een door een kamer toegekend uniek nummer;  
 
 b. de naam;  
 
@@ -384,7 +384,7 @@ b. voor zover het betreft brieven en orders, aan naamloze vennootschappen, beslo
 2.  Artikel 22 is van overeenkomstige toepassing op verstrekking van gegevens als bedoeld in het eerste en tweede lid.   
 3.  Bij het verstrekken van gegevens omtrent de samenstelling van ondernemingen en rechtspersonen aan een bestuursorgaan worden deze gegevens uitsluitend gerangschikt naar natuurlijke personen indien het verzoek daartoe wordt gedaan door: 
 
-a. Onze Minister van Justitie ten behoeve van het toezicht op rechtspersonen voor de oprichting of statutenwijziging van een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid of een Europese naamloze vennootschap;  
+a. Onze Minister van Justitie ten behoeve van de taak, bedoeld in [artikel 2, eerste lid, van de Wet controle op rechtspersonen](../../../../wet/wet/controle/op/rechtspersonen/BWBR0015049/README.md);  
 
 b. een officier van justitie ten behoeve van de opsporing van strafbare feiten;  
 

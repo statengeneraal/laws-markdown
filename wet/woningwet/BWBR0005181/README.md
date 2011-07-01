@@ -83,7 +83,7 @@ b. een bestaand bouwwerk, niet zijnde een gebouw, in een staat te brengen, te la
 3.  Bij of krachtens de in het eerste lid bedoelde algemene maatregel van bestuur worden voorts uit het oogpunt van veiligheid, gezondheid en milieu technische voorschriften gegeven omtrent het bouwen van bouwwerken, geen gebouw zijnde.   
 4.  Bij of krachtens de in het eerste lid bedoelde algemene maatregel van bestuur worden voorts uit het oogpunt van veiligheid en gezondheid technische voorschriften gegeven omtrent de staat van bestaande bouwwerken, geen gebouw zijnde.   
 5.  Aan een voorschrift omtrent het bouwen van een bouwwerk kunnen voorschriften worden verbonden.   
-6.  Een algemene maatregel van bestuur als bedoeld in het eerste lid, treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het *Staatsblad* waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan beide kamers der Staten-Generaal.   
+6.  De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 
 ### Artikel  3  
 
@@ -285,9 +285,27 @@ b. in welke gevallen waarin niet is of wordt voldaan aan artikel 12, eerste lid,
 
 ####Bijzondere bepalingen
 
+### Artikel  12d  
+
+1.  Het bevoegd gezag kan, indien een vereniging van eigenaars ten behoeve van een bij haar in beheer zijnd gebouw niet beschikt over een onderhoudsplan en dat gebouw is gelegen in een gebied waarin de leefbaarheid naar het oordeel van het bevoegd gezag onder druk staat, die vereniging van eigenaars verplichten tot het binnen een door het bevoegd gezag te bepalen termijn laten opstellen van een onderhoudsplan door een deskundig persoon of een deskundige instantie en tot het van kracht laten blijven van dat plan gedurende zijn looptijd. Voor zover die looptijd langer is dan vijf jaar, omvat de in de vorige volzin bedoelde verplichting mede de verplichting het onderhoudsplan elke vijf jaar door een deskundig persoon of een deskundige instantie te laten herzien.   
+2.  Het bevoegd gezag legt een verplichting als bedoeld in het eerste lid niet op dan nadat met toepassing van [artikel 127a van Boek 5 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) een vergadering van eigenaars is bijeengeroepen en de vereniging van eigenaars niet binnen drie maanden nadat die vergadering heeft plaatsgevonden over een onderhoudsplan beschikt. De eerste volzin is niet van toepassing, indien redelijkerwijs voorzienbaar is dat het bijeenroepen van de vergadering van eigenaars, bedoeld in die zin, dan wel het in acht nemen van de termijn van drie maanden, bedoeld in die zin, er niet toe zal leiden dat de vereniging van eigenaars uit eigen beweging een onderhoudsplan opstelt of laat opstellen.   
+3.  Het onderhoudsplan, bedoeld in het eerste lid, bevat ten minste: 
+
+a. de onderhouds- en herstelwerkzaamheden aan en de vernieuwingen van die gedeelten van het gebouw waarover de vereniging van eigenaars het beheer voert over een periode van vijf jaar;  
+
+b. een schatting van de aan de werkzaamheden en de vernieuwingen, bedoeld in onderdeel a, verbonden kosten en een gelijkmatige toerekening van die kosten aan de onderscheiden jaren;  
+
+c. een schatting van de benodigde jaarlijkse reservering voor andere dan de gewone jaarlijkse kosten na de periode waarop het onderhoudsplan betrekking heeft.     
+4.  De vereniging van eigenaars zendt binnen vier weken na het opstellen van het onderhoudsplan, bedoeld in het eerste lid, een afschrift van het plan aan het bevoegd gezag.   
+5.  Indien een machtiging tot het bijeenroepen van een vergadering van eigenaars als bedoeld in [artikel 127a, eerste lid, aanhef, van Boek 5 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) wordt afgegeven binnen vijf jaar nadat een eerdere machtiging is afgegeven, kan het bevoegd gezag de betrokken vereniging van eigenaars verplichten tot het uitbesteden van het beheer aan een professionele beheerder.   
+
 ### Artikel  13  
 
-Het bevoegd gezag kan, indien dat naar zijn oordeel noodzakelijk is, degene die als eigenaar van een gebouw of een bouwwerk, niet zijnde een gebouw, dan wel uit anderen hoofde bevoegd is tot het daaraan treffen van voorzieningen, verplichten tot het binnen een door hem te bepalen termijn treffen van zodanige voorzieningen, dat de staat van dat gebouw of dat bouwwerk nadien komt te liggen op een niveau dat hoger is dan het niveau dat overeenkomt met de voorschriften, bedoeld in artikel 1b, tweede lid, onderdeel a, respectievelijk b, zonder dat dit hoger komt te liggen dan het niveau dat overeenkomt met de voorschriften, bedoeld in artikel 1b, eerste lid, onderdeel a, respectievelijk b.  
+Het bevoegd gezag kan degene die als eigenaar van een gebouw of een bouwwerk, niet zijnde een gebouw, dan wel uit anderen hoofde bevoegd is tot het daaraan treffen van voorzieningen, verplichten tot het binnen een door het bevoegd gezag te bepalen termijn treffen van voorzieningen waardoor de staat van dat gebouw of dat bouwwerk komt te liggen op een niveau dat hoger is dan het niveau dat overeenkomt met de voorschriften, bedoeld in artikel 1b, tweede lid, onderdeel a, respectievelijk b, zonder dat dit hoger komt te liggen dan het niveau dat overeenkomt met de voorschriften, bedoeld in artikel 1b, eerste lid, onderdeel a, respectievelijk b, mits die voorzieningen: 
+
+a. onderdeel zijn van een onderhoudsplan voor een gebouw als bedoeld in artikel 12d, eerste lid, en niet binnen de daarvoor in het onderhoudsplan gestelde termijn zijn uitgevoerd, dan wel  
+
+b. naar het oordeel van het bevoegd gezag anderszins noodzakelijk zijn.    
 
 ### Artikel  13a  
 
@@ -313,12 +331,12 @@ c. zo nodig, andere voorwaarden aan de uitvoering van het besluit stellen.
 
 ### Artikel  14a  
 
-Degene, tot wie een besluit als bedoeld in artikel 13, 13a of 14, eerste lid, is gericht, of zijn rechtsopvolger en iedere verdere rechtsopvolger, is verplicht daaraan te voldoen.  
+Degene, tot wie een besluit als bedoeld in artikel 12d, 13, 13a of 14, eerste lid, is gericht, of zijn rechtsopvolger en iedere verdere rechtsopvolger, is verplicht daaraan te voldoen.  
 
 ### Artikel  15  
 
-1.  Het bevoegd gezag kan gelijktijdig met een besluit als bedoeld in artikel 13, 13a of 14, eerste lid, besluiten tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom, gericht op naleving van het eerstgenoemde besluit. In dat geval worden beide besluiten gelijktijdig bekendgemaakt.   
-2.  Indien toepassing wordt gegeven aan het eerste lid maakt het besluit tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom, wat betreft de mogelijkheid van bezwaar en beroep, deel uit van het in artikel 13, 13a of 14, eerste lid, bedoelde besluit.   
+1.  Het bevoegd gezag kan gelijktijdig met een besluit als bedoeld in artikel 12d, 13, 13a of 14, eerste lid, besluiten tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom, gericht op naleving van het eerstgenoemde besluit. In dat geval worden beide besluiten gelijktijdig bekendgemaakt.   
+2.  Indien toepassing wordt gegeven aan het eerste lid maakt het besluit tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom, wat betreft de mogelijkheid van bezwaar en beroep, deel uit van het in artikel 12d, 13, 13a of 14, eerste lid, bedoelde besluit.   
 
 ### Artikel  16  
 

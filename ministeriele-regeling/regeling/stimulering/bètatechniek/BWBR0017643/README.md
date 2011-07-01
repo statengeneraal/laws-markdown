@@ -5,15 +5,28 @@
 De minister van onderwijs, cultuur en wetenschap, Handelend in overeenstemming met de minister van economische zaken;  
 Gelet op:
 
-• [artikel 4, eerste lid, aanhef en onder a, van de Wet overige OCenW-subsidies](../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md);
+• artikel 4, eerste lid, aanhef en onder a, van de Wet overige OCenW-subsidies;
 Besluit    
 
 ### Artikel  1  
 
 ####Doelstellingen
 
-1.  Het doel van deze regeling is het subsidiëren van de Stichting Platform Bèta/techniek voor het uitvoeren van haar werkzaamheden voorzover deze betrekking hebben op het interesseren van meer jongeren voor een studie of loopbaan in de bèta- en technieksector en personen werkzaam in die sector duurzaam te behouden voor die arbeidsmarkt.   
-2.  De basis van deze werkzaamheden wordt gevormd door de uitgangspunten en kwantitatieve doelstellingen zoals verwoord in de nota Deltaplan Bèta/techniek van december 2003, hierna te noemen: actieplan.   
+Het doel van deze regeling is het subsidiëren van de Stichting Platform Bèta/techniek voor het uitvoeren van haar werkzaamheden voorzover deze betrekking hebben op: 
+
+a. het versterken van de aandacht voor wetenschap en bèta/techniek in het primair en voortgezet onderwijs;  
+
+b. het bevorderen van systematisch en doelgericht werken aan het maximaliseren van leerprestaties in het primair en voortgezet onderwijs (‘opbrengstgericht werken’);  
+
+c. het bevorderen van excellentie in het primair en voortgezet onderwijs;  
+
+d. het interesseren van meer jongeren voor een vervolgstudie of loopbaan in de bèta/technieksector;  
+
+e. het verbeteren van de aansluiting van het technisch beroepsonderwijs op het (regionale) bedrijfsleven;  
+
+f. het duurzaam behouden van personen werkzaam in de bèta/technieksector voor die arbeidsmarkt en;  
+
+g. het bevorderen en faciliteren van excellentie in het hoger onderwijs.    
 
 ### Artikel  2  
 
@@ -22,15 +35,11 @@ Besluit
 1.  Aan de Stichting Platform Bèta/techniek wordt jaarlijks een subsidie verleend.   
 2.  Grondslag voor de jaarlijkse subsidieverlening vormt de begroting voor het komende boekjaar en een door de Stichting Platform Bèta/techniek jaarlijks bij te stellen en ter goedkeuring aan de minister voor te leggen meerjarig beleidskader. Dit beleidskader bevat: 
 
-a. Een compleet overzicht van de voorgenomen activiteiten uitgesplitst naar de programmalijnen zoals verwoord in het actieplan en een daaraan gekoppelde begroting. Beiden bevatten een meerjarig perspectief.  
+a. Een compleet overzicht van de voorgenomen activiteiten en een daaraan gekoppelde begroting. Beide bevatten een meerjarig perspectief.  
 
-b. Een indicatie voor de wijze waarop en de mate waarin deze activiteiten een bijdrage zullen leveren aan de doelstelling van het actieplan, zijnde: 
+b. Een indicatie voor de wijze waarop en de mate waarin deze activiteiten een bijdrage zullen leveren aan de doelstellingen van deze regeling.  
 
-1° De realisatie van een 15% hogere instroom bij opleidingen op het terrein van de natuur en techniek in het hoger onderwijs in 2007 ten opzichte van 2000;  
-
-2° De realisatie van 15% meer afgestudeerden bij opleidingen op het terrein van de natuur en techniek in het hoger onderwijs in 2010 ten opzichte van 2000.    
-
-c. Een overzicht van de begrote cofinanciering op de activiteiten in de diverse programmalijnen.  
+c. Een overzicht van de begrote cofinanciering van de voorgenomen activiteiten.  
 
 d. Een overzicht van de uitvoeringskosten van de Stichting.  
 
@@ -70,7 +79,7 @@ De subsidie wordt verleend onder de voorwaarde dat het beschikbaar gestelde subs
 
 ####Accountantsverklaring
 
-1.  Het financieel verslag gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+1.  Het financieel verslag gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.   
 2.  De accountantsverklaring bevat tevens een oordeel over de naleving van de subsidievoorwaarden door de Stichting Platform Bèta/techniek.   
 
 ### Artikel  8  
@@ -87,28 +96,17 @@ a. onjuiste, niet tijdige of onvolledige gegevens zijn verstrekt door de Stichti
 b. de Stichting Platform Bèta/techniek heeft gehandeld in strijd met de aan de subsidie verbonden voorwaarden.     
 5.  Indien de subsidie lager wordt vastgesteld dan het bedrag dat eerder betaalbaar is gesteld, wordt het teveel bevoorschotte bedrag door de Stichting toegevoegd aan de egalisatiereserve, bedoeld in artikel 11.   
 
-### Artikel  9  
-
-####Beëindiging of herziening van de subsidierelatie
-
-1.  In 2007 vindt door de minister een tussentijdse evaluatie plaats van het gevoerde beleid en de activiteiten zoals die tot op dat moment zijn uitgevoerd door de Stichting Platform Bèta/techniek. De uitgangspunten van deze evaluatie worden vooraf besproken met de Stichting.   
-2.  Indien de uitkomsten van de evaluatie daartoe aanleiding geven, kan de minister de subsidierelatie met de Stichting Platform Bèta/techniek herzien of beëindigen.   
-3.  In 2010 vindt een eindevaluatie door de minister plaats van het gevoerde beleid en de activiteiten zoals die tot op dat moment zijn uitgevoerd door de Stichting Platform Bèta/techniek.   
-4.  De subsidierelatie wordt met ingang van 1 juli 2011 beëindigd.   
-5.  Op grond van tussentijds opgedane ervaringen kan de minister na overleg met de Stichting tot bijstelling of beëindiging van de subsidierelatie komen.   
-6.  Bij beëindiging van de subsidierelatie vóór 1 juli 2011 wordt een overgangstermijn van minimaal een half jaar in acht genomen.   
-
 ### Artikel  10  
 
 ####Begrotingsvoorwaarde
 
-Subsidie ten laste van de begroting van het ministerie van Onderwijs, Cultuur en Wetenschap, die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+Subsidie ten laste van de begroting van het ministerie van Onderwijs, Cultuur en Wetenschap, die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid van de Algemene wet bestuursrecht.  
 
 ### Artikel  11  
 
 ####Vaststelling egalisatiereserve
 
-1.  De Stichting Platform Bèta/Techniek vormt voorzover van toepassing een egalisatiereserve als bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  De Stichting Platform Bèta/Techniek vormt voorzover van toepassing een egalisatiereserve als bedoeld in artikel 4:72 van de Algemene wet bestuursrecht.   
 2.  Het verschil tussen de voor een boekjaar toegekende subsidie en de definitief vastgestelde subsidie komt ten gunste dan wel ten laste van de egalisatiereserve.   
 3.  Middelen die niet in het jaar volgend op het oorspronkelijke subsidiejaar zijn verplicht, kunnen aan de egalisatiereserve worden onttrokken en ter nadere bestemming van de minister worden voorgelegd.   
 

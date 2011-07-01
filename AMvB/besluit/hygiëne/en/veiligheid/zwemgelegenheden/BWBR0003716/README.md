@@ -42,7 +42,7 @@ reeks zwemwaterkwaliteitsgegevens: gegevens die zijn verzameld overeenkomstig ar
 
 verontreiniging: aanwezigheid van microbiologische besmetting of van andere organismen of afval die de zwemwaterkwaliteit aantast en een risico voor de gezondheid van de zwemmers inhoudt als bedoeld in de artikelen 44e en 44f en in bijlage I, kolom A, van de zwemwaterrichtlijn;  
 
-water van drinkwaterkwaliteit: water dat voldoet aan de eisen van het [Waterleidingbesluit](../../../../../../../AMvB/waterleidingbesluit/BWBR0002339/README.md);  
+water van drinkwaterkwaliteit: water dat voldoet aan de eisen van het [Drinkwaterbesluit](../../../../../../../AMvB/drinkwaterbesluit/BWBR0030111/README.md);  
 
 wet: [Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden](../../../../../../../wet/wet/hygiëne/en/veiligheid/zwemgelegenheden/BWBR0002660/README.md).     
 2.  Het bevoegd bestuursorgaan stelt met ingang van 24 maart 2010 overeenkomstig bijlage II van de zwemwaterrichtlijn procedures voor de voorspelling en de aanpak bij een kortstondige verontreiniging vast. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot die procedures.   

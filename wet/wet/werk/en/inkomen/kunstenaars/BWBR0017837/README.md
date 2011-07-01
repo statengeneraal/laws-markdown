@@ -209,11 +209,11 @@ De kunstenaar heeft recht op uitkering indien hij, of voorzover van toepassing z
 
 a. niet over in aanmerking te nemen vermogen beschikt en het in aanmerking te nemen inkomen per maand: 
 
-1°. van een alleenstaande lager is dan € 1.024,10 per 1 januari 2011: € 1.168,36;  
+1°. van een alleenstaande lager is dan € 1.024,10 per 1 juli 2011: € 1.175,56;  
 
-2°. van een alleenstaande ouder lager is dan € 1.207,43 per 1 januari 2011: € 1.459,13;  
+2°. van een alleenstaande ouder lager is dan € 1.207,43 per 1 juli 2011: € 1.468,28;  
 
-3°. van gehuwden lager is dan € 1.349,13 per 1 januari 2011: € 1.538,35, en    
+3°. van gehuwden lager is dan € 1.349,13 per 1 juli 2011: € 1.550,01, en    
 
 b. gedurende een bij algemene maatregel van bestuur te bepalen periode als kunstenaar werkzaam is geweest en in die periode met die werkzaamheden een bij die algemene maatregel van bestuur te bepalen bruto-inkomen heeft verworven, of  
 
@@ -238,9 +238,9 @@ b. niet rechtmatig verblijf houdt in de zin van [artikel 8, onderdelen a tot en 
 
 c. rechtens zijn vrijheid ontnomen is;  
 
-d. de eerste dag van de maand waarin hij 65 jaar wordt heeft bereikt;  
+d. zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel;  
 
-e. de eerste dag van de maand waarin hij de leeftijd van 65 jaar heeft bereikt;  
+e. de eerste dag van de maand waarin hij 65 jaar wordt heeft bereikt;  
 
 f. onbetaald verlof geniet als bedoeld in [artikel 1, onderdeel g, van de Werkloosheidswet](../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) of die gehuwd is met een zodanig persoon, voorzover diens gebrek aan middelen daarvan het gevolg is, tenzij de kunstenaar alleenstaande ouder is en hij verlof geniet als bedoeld in [hoofdstuk 6 van de Wet arbeid en zorg](../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md).     
 2.  Bij algemene maatregel van bestuur kan worden bepaald dat hier te lande verblijvende vreemdelingen, anders dan die bedoeld in [artikel 8, onderdelen a tot en met e en l, van de Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), recht op uitkering hebben, onverminderd de overige vereisten voor dat recht: 
@@ -301,11 +301,11 @@ De uitkering wordt per kalendermaand om niet verleend en betaald en per kalender
 
 1.  De uitkering bedraagt per kalendermaand voor: 
 
-a. een alleenstaande: € 648,04 per 1 januari 2011: € 741,04;  
+a. een alleenstaande: € 648,04 per 1 juli 2011: € 745,39;  
 
-b. een alleenstaande ouder: € 828,31 per 1 januari 2011: € 1028,64;  
+b. een alleenstaande ouder: € 828,31 per 1 juli 2011: € 1034,28;  
 
-c. gehuwden: € 954,73 per 1 januari 2011: € 1.095,77.     
+c. gehuwden: € 954,73 per 1 juli 2011: € 1.103,51.     
 2.  Indien de echtgenoot van de kunstenaar in een omstandigheid verkeert als bedoeld in artikel 10, eerste lid, onderdeel a, b, c of d, wordt de hoogte van de uitkering vastgesteld op het bedrag voor een alleenstaande of alleenstaande ouder.   
 3.  Vooruitlopend op de definitieve vaststelling van de hoogte van de uitkering, bedoeld in artikel 16, kan op de uitkering het inkomen van de kunstenaar of zijn gezin in mindering worden gebracht, voorzover de som van het bedrag, genoemd in het eerste lid, en het inkomen in een kalendermaand waarin recht op uitkering bestaat, meer bedraagt dan het bedrag genoemd in artikel 16, tweede lid, onderdeel b.   
 
@@ -320,11 +320,11 @@ a. over de periode in het kalenderjaar waarin geen uitkering is ontvangen wordt 
 
 b. het na toepassing van onderdeel a overblijvende meerinkomen wordt in aanmerking genomen over de periode waarin in het betreffende kalenderjaar uitkering is verleend, voorzover dat tezamen met het van toepassing zijnde bedrag, genoemd in artikel 15, eerste lid, over deze periode per maand meer bedraagt dan: 
 
-1°. € 1.355,98 per 1 januari 2011: € 1.539,71 voor een alleenstaande;  
+1°. € 1.355,98 per 1 juli 2011: € 1.550,63 voor een alleenstaande;  
 
-2°. € 1.673,05 per 1 januari 2011: € 1.998,25 voor een alleenstaande ouder;  
+2°. € 1.673,05 per 1 juli 2011: € 2.010,67 voor een alleenstaande ouder;  
 
-3°. € 1.871,42 per 1 januari 2011: € 2.136,81 voor gehuwden.       
+3°. € 1.871,42 per 1 juli 2011: € 2.149,97 voor gehuwden.       
 3.  In afwijking van het eerste en tweede lid en artikel 5, eerste lid, onderdeel b, wordt bij een kunstenaar wiens uitkering is beëindigd in verband met het bereiken van de maximale uitkeringsduur op grond van artikel 19, het inkomen van de kunstenaar of zijn gezin slechts in aanmerking genomen over de periode van het kalenderjaar voorafgaand aan het tijdstip met ingang waarop de uitkering is beëindigd, voorzover dat inkomen tezamen met het van toepassing zijnde bedrag, genoemd in artikel 15, eerste lid, over deze periode per kalendermaand meer bedraagt dan het van toepassing zijnde bedrag, genoemd in het tweede lid, onderdeel b.   
 4.  Indien het bedrag van de voorlopig verleende uitkering, bedoeld in artikel 15: 
 
@@ -1032,13 +1032,6 @@ Artikel 50 blijft van toepassing op de vaststelling van de vergoeding, bedoeld i
 ####Overgangsrecht gelijkstelling voormalige pleeg- en stiefkinderen aan eigen kinderen
 
 De artikelen 2, zesde en zevende lid, en 3, tweede lid, zijn niet van toepassing, indien voor de inwerkingtreding van deze artikelleden, op grond van artikel 8 recht bestaat op een uitkering voor gehuwden, omdat de ongehuwde kunstenaar wegens een gezamenlijke huishouding met een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind is aangemerkt als gehuwd, voor zolang dit recht op uitkering bestaat, tenzij toepassing van de genoemde artikelleden leidt tot een hogere uitkering.  
-
-### Artikel  78g  
-
-####Overgangsrecht in verband met artikel 10, eerste lid, onderdeel d 
-
-1.  Ten aanzien van de kunstenaar wiens recht op uitkering voorafgaand aan de dag van inwerkingtreding van [artikel XXI, onderdeel C, van de Verzamelwet SZW 2011](../../../../../../../wet/verzamelwet/szw/2011/BWBR0029226/README.md) al is ingegaan en die zich op die dag onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, wordt voor de toepassing van artikel 10, eerste lid, onderdeel d, als eerste dag waarop hij zich aan de tenuitvoerlegging van die vrijheidsstraf of vrijheidsbenemende maatregel onttrekt, aangemerkt de dag van inwerkingtreding van artikel XXI, onderdeel C, van de Verzamelwet SZW 2011 en eindigt het recht op uitkering, in afwijking van artikel 10, eerste lid, onderdeel d, vanaf de dag dat het onttrekken aan de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel zes maanden heeft geduurd.   
-2.  Dit artikel vervalt zes maanden na de dag van zijn inwerkingtreding.   
 
 ### Artikel  79  
 

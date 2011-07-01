@@ -32,6 +32,7 @@ Strafvordering heeft alleen plaats op de wijze bij de wet voorzien.
 
 1.  Van de rechtbanken zijn gelijkelijk bevoegd: die binnen welker rechtsgebied het feit is begaan; die binnen welker rechtsgebied de verdachte woon- of verblijfplaats heeft; die binnen welker rechtsgebied de verdachte zich bevindt; die binnen welker rechtsgebied de verdachte zijne laatst bekende woon- of verblijfplaats heeft gehad; die bij welke tegen de verdachte een vervolging ter zake van een ander feit is aangevangen; die welker rechtsgebied grenst aan de territoriale zee alsmede die te Amsterdam, indien het feit is begaan ter zee buiten het rechtsgebied van een rechtbank of aan boord van een vaartuig dat buitengaats wordt gebracht, die te Rotterdam, indien de officier van justitie bij het landelijk parket met de vervolging van het strafbare feit is belast   
 2.  In geval van gelijktijdige vervolging bij meer dan ééne rechtbank blijft uitsluitend bevoegd de rechtbank die in deze rangschikking eerder is geplaatst, of, indien het rechtbanken betreft, welke in deze rangschikking dezelfde plaats innemen, de rechtbank waarbij de vervolging het eerst is ingesteld.   
+3.  Indien een voortdurend gebrek aan voldoende zittingscapaciteit bij een rechtbank daartoe noodzaakt, kan bij algemene maatregel van bestuur voor de duur van ten hoogste twee jaar een andere dan de overeenkomstig het eerste of tweede lid bevoegde rechtbank worden aangewezen als bevoegde rechtbank voor zaken die behoren tot een bij die maatregel aangewezen categorie. Onder zittingscapaciteit wordt verstaan hetgeen daaronder wordt verstaan in [artikel 1, onder h, van de Wet op de rechterlijke organisatie](../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md).   
 
 ### Artikel  4  
 
@@ -1016,13 +1017,7 @@ Waar in deze paragraaf wordt gesproken van schorsing, wordt daaronder begrepen o
 
 1.  In geval van verdenking van een misdrijf, waarvoor een geldboete van de vijfde categorie kan worden opgelegd, kunnen voorwerpen inbeslaggenomen worden tot bewaring van het recht tot verhaal voor een ter zake van dat misdrijf op te leggen geldboete.   
 2.  In geval van verdenking van of veroordeling wegens een misdrijf, waarvoor een geldboete van de vijfde categorie kan worden opgelegd, kunnen voorwerpen in beslag genomen worden tot bewaring van het recht tot verhaal voor een naar aanleiding van dat misdrijf op te leggen verplichting tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel.   
-3.  Voorwerpen die toebehoren aan een ander dan degene aan wie, in het in het eerste lid bedoelde geval, de geldboete kan worden opgelegd of degene aan wie, in het in het tweede lid bedoelde geval, het wederrechtelijk verkregen voordeel kan worden ontnomen, kunnen in beslag worden genomen indien: 
-
-a. die voorwerpen, onmiddellijk of middellijk, afkomstig zijn van het misdrijf in verband waarmee de geldboete kan worden opgelegd onderscheidenlijk het wederrechtelijk verkregen voordeel kan worden ontnomen, en  
-
-b. voldoende aanwijzingen bestaan dat die voorwerpen aan die ander zijn gaan toebehoren met het doel de uitwinning van die voorwerpen te bemoeilijken of te verhinderen, en  
-
-c. die ander ten tijde van dat gaan toebehoren wist of redelijkerwijze kon vermoeden dat die voorwerpen van enig misdrijf afkomstig waren.     
+3.  Voorwerpen die toebehoren aan een ander dan degene aan wie, in het in het eerste lid bedoelde geval, de geldboete kan worden opgelegd of degene aan wie, in het in het tweede lid bedoelde geval, het wederrechtelijk verkregen voordeel kan worden ontnomen, kunnen in beslag worden genomen indien voldoende aanwijzingen bestaan dat deze voorwerpen geheel of ten dele aan die ander zijn gaan toebehoren met het kennelijke doel de uitwinning van voorwerpen te bemoeilijken of te verhinderen, en die ander dit wist of redelijkerwijze kon vermoeden.   
 4.  In het geval, bedoeld in het derde lid, kunnen tevens andere aan de betrokken persoon toebehorende voorwerpen in beslag worden genomen, tot ten hoogste de waarde van de in het derde lid bedoelde voorwerpen.   
 5.  Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.   
 
@@ -1369,6 +1364,7 @@ b. op te geven of, en zo ja welke, vermogensbestanddelen hij onder zich heeft of
 2.  Het bevel wordt niet gericht aan degene tegen wie het onderzoek is gericht.   
 3.  Artikel 96a, derde lid, is van overeenkomstige toepassing.   
 4.  Ter gelegenheid van het eerste verhoor van degene tegen wie het onderzoek is gericht wordt hem door de verhorende rechter of ambtenaar een afschrift van de in artikel 126 bedoelde vordering en machtiging ter hand gesteld.   
+5.  Degene tot wie een vordering als bedoeld in het eerste lid is gericht, neemt in het belang van het onderzoek geheimhouding in acht omtrent al hetgeen hem terzake van de vordering bekend is.   
 
 ### Artikel  126b  
 
@@ -1399,7 +1395,7 @@ De artikelen 98, 99 en 99a zijn van overeenkomstige toepassing, met dien verstan
 1.  Zodra de officier van justitie oordeelt dat het strafrechtelijk financieel onderzoek is voltooid of dat tot de voortzetting daarvan geen grond bestaat, sluit hij het onderzoek bij schriftelijke gedagtekende beschikking.   
 2.  Indien de verdachte bij de einduitspraak terzake van het strafbare feit of het misdrijf, bedoeld in [artikel 36e, eerste onderscheidenlijk derde lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), niet wordt veroordeeld, sluit de officier het strafrechtelijk financieel onderzoek evenzo. In dat geval is de officier bevoegd van de rechter-commissaris heropening van het strafrechtelijk financieel onderzoek te vorderen, zodra de verdachte alsnog terzake van het tenlastegelegde feit wordt veroordeeld.   
 3.  De officier zendt een afschrift van zijn beschikking tot sluiting van het strafrechtelijk financieel onderzoek aan de rechter-commissaris en doet een afschrift van zijn beschikking aan degene tegen wie het is gericht betekenen, onder mededeling van het recht tot kennisneming van de stukken van het onderzoek.   
-4.  Onverminderd het bepaalde in het tweede lid, de artikelen 511d, tweede en derde lid, 511e, derde lid, en 511g, tweede lid, onder c, kan een gesloten strafrechtelijk financieel onderzoek slechts worden heropend krachtens een nadere machtiging van de rechter-commissaris, op vordering van de officier van justitie verleend. Het vierde lid van artikel 126 is van toepassing.   
+4.  Onverminderd het bepaalde in het tweede lid, de artikelen 511d, tweede en derde lid, 511e, tweede lid, en 511g, tweede lid, onder c, kan een gesloten strafrechtelijk financieel onderzoek worden heropend krachtens een nadere machtiging van de rechter-commissaris, op vordering van de officier van justitie verleend. Het vierde lid van artikel 126 is van toepassing.   
 5.  Een nadere machtiging wordt zo spoedig mogelijk met de vordering waarop zij rust aan degene tegen wie het onderzoek is gericht betekend. De voorgaande leden zijn van toepassing.   
 
 ### Artikel  126fa  
@@ -5524,12 +5520,12 @@ De kinderrechter treedt inzake de toepassing van de voorlopige hechtenis op als 
 
 ### Artikel  493  
 
-1.  Indien de rechter de voorlopige hechtenis van de verdachte beveelt, gaat hij na of de tenuitvoerlegging van dit bevel, hetzij onmiddellijk, hetzij na een bepaald tijdsverloop, kan worden geschorst.   
+1.  Indien de rechter de voorlopige hechtenis van de verdachte beveelt, gaat hij na of de tenuitvoerlegging van dit bevel, hetzij onmiddellijk, hetzij na een bepaald tijdsverloop, kan worden geschorst. De rechter kan daarbij een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) opdragen aan de verdachte hulp en steun te verlenen. Bij algemene maatregel van bestuur, op de voordracht van Onze Ministers van Justitie en van Volksgezondheid, Welzijn en Sport, kunnen regels worden gesteld omtrent de aard en de omvang van de hulp en steun.   
 2.  In het bevel tot voorlopige hechtenis en tot schorsing daarvan worden zodanige bepalingen opgenomen als voor de juiste uitvoering daarvan nodig worden geoordeeld.   
-3.  Tot het ondergaan van inverzekeringstelling of voorlopige hechtenis kan elke daartoe geschikte plaats worden aangewezen.   
+3.  Tot het ondergaan van inverzekeringstelling of voorlopige hechtenis kan elke daartoe geschikte plaats worden aangewezen. Bij het bevel tot voorlopige hechtenis kan worden bepaald dat de verdachte gedurende de nacht in een inrichting als bedoeld in de [Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), dan wel op een andere plaats als bedoeld in de eerste volzin verblijft, en gedurende de dag in de gelegenheid wordt gesteld de inrichting of die plaats te verlaten.   
 4.  Een bevel tot gevangenhouding of gevangenneming kan een termijn van dertig dagen niet te boven gaan indien de rechtbank de verdachte niet heeft gehoord.   
 5.  In de gevallen waarin verlof kan worden verleend op grond van het bepaalde bij of krachtens de [Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), blijft het in het eerste en tweede lid inzake schorsing bepaalde buiten toepassing.   
-6.  Schorsing van de voorlopige hechtenis vindt steeds plaats onder de algemene voorwaarden, genoemd in artikel 80. De rechter kan, na advies te hebben ingewonnen van de raad voor de kinderbescherming, ook bijzondere voorwaarden aan de schorsing verbinden. De rechter verbindt slechts bijzondere voorwaarden aan de schorsing voor zover de jeugdige daarmee instemt. Bij algemene maatregel van bestuur wordt bepaald welke bijzondere voorwaarden die het gedrag van de veroordeelde betreffen aan de schorsing kunnen worden verbonden en aan welke eisen de instemming van de jeugdige moet voldoen. De bijzondere voorwaarden mogen de vrijheid van de veroordeelde zijn godsdienst of levensovertuiging te belijden en de staatkundige vrijheid niet beperken. De bijzondere voorwaarden kunnen inhouden dat een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) aan de verdachte hulp en steun verleent. Bij het verlenen van hulp en steun is artikel 80, zesde lid, van overeenkomstige toepassing. Bij algemene maatregel van bestuur, op de voordracht van Onze Ministers van Justitie en van Volksgezondheid, Welzijn en Sport, kunnen regels worden gesteld omtrent de aard en de omvang van de hulp en steun.   
+6.  Schorsing van de voorlopige hechtenis vindt steeds plaats onder de algemene voorwaarden, genoemd in artikel 80. De rechter kan, na advies te hebben ingewonnen van de raad voor de kinderbescherming, ook bijzondere voorwaarden aan de schorsing verbinden. De rechter verbindt slechts bijzondere voorwaarden aan de schorsing voor zover de jeugdige daarmee instemt. Bij algemene maatregel van bestuur wordt bepaald welke bijzondere voorwaarden die het gedrag van de veroordeelde betreffen aan de schorsing kunnen worden verbonden en aan welke eisen de instemming van de jeugdige moet voldoen. De bijzondere voorwaarden mogen de vrijheid van de veroordeelde zijn godsdienst of levensovertuiging te belijden en de staatkundige vrijheid niet beperken. Bij algemene maatregel van bestuur, op de voordracht van Onze Ministers van Justitie en van Volksgezondheid, Welzijn en Sport, kunnen regels worden gesteld omtrent de aard en de omvang van de hulp en steun.   
 
 ### Artikel  494  
 
@@ -5609,7 +5605,9 @@ In geval van hoger beroep bij het gerechtshof of bij de rechtbank zijn de artike
 
 ### Artikel  502  
 
-Tegen een beslissing als bedoeld in [artikel 77u van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) kunnen zowel het openbaar ministerie als de veroordeelde in hoger beroep komen bij het gerechtshof te Arnhem. De artikelen 509q en 509v tot en met 509x zijn van overeenkomstige toepassing.  
+1.  Tegen een beslissing als bedoeld in [artikel 77u van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) kunnen zowel het openbaar ministerie als de veroordeelde in hoger beroep komen bij het gerechtshof te Arnhem. De artikelen 509q en 509v tot en met 509x zijn van overeenkomstige toepassing.   
+2.  Tegen een beslissing als bedoeld in [artikel 77tb](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [77wb van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) kunnen zowel het openbaar ministerie als de veroordeelde binnen veertien dagen na dagtekening van de beslissing in hoger beroep komen bij het gerechtshof in het ressort van het gerecht waar de beslissing is genomen.   
+3.  Op het hoger beroep bedoeld in het tweede lid, zijn de artikelen 509v, derde lid, 509w en 509x van overeenkomstige toepassing.   
 
 ### Artikel  503  
 
@@ -5945,7 +5943,7 @@ De officier van justitie kan, zolang het onderzoek op de terechtzitting niet is 
 
 ### Artikel  511d  
 
-1.  Op de behandeling van een vordering van de officier van justitie zijn de bepalingen van de eerste afdeling van Titel VI van het tweede Boek van overeenkomstige toepassing. De behandeling van de vordering ter terechtzitting kan worden voorafgegaan door een schriftelijke voorbereiding op de wijze als door de rechtbank te bepalen.   
+1.  Op de behandeling van een vordering van de officier van justitie zijn de bepalingen van de eerste afdeling van Titel VI van het tweede Boek van overeenkomstige toepassing. De behandeling van de vordering ter terechtzitting kan worden voorafgegaan door een schriftelijke voorbereiding op de wijze als door de rechtbank te bepalen. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de schriftelijke voorbereiding.   
 2.  Indien een strafrechtelijk financieel onderzoek dan wel een nader strafrechtelijk financieel onderzoek noodzakelijk blijkt, stelt de rechtbank met schorsing der zaak onder aanduiding van het onderwerp van het onderzoek en zo nodig de wijze waarop dit zal zijn in te stellen, de stukken in handen van de officier van justitie.   
 3.  Het onderzoek geldt als een met rechterlijke machtiging ingesteld strafrechtelijk financieel onderzoek en wordt gevoerd overeenkomstig de bepalingen van de negende afdeling van de vierde Titel van het eerste Boek, met uitzondering van artikel 126f, vierde en vijfde lid.   
 
@@ -5955,9 +5953,8 @@ De officier van justitie kan, zolang het onderzoek op de terechtzitting niet is 
 
 a. de rechtbank naar aanleiding van de vordering en van het onderzoek ter terechtzitting beraadslaagt over de vraag of de in [artikel 36e van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) bedoelde maatregel moet worden opgelegd en zo ja, op welk bedrag de omvang van het wederrechtelijk verkregen voordeel is te schatten; en  
 
-b. de rechtbank niet gebonden is aan het voorschrift van artikel 345 betreffende de termijn waarbinnen uitspraak dient te worden gedaan.     
-2.  Indien de dag der uitspraak niet ter terechtzitting aan degene op wie de vordering betrekking heeft is medegedeeld, wordt hem daarvan, behoudens de gevallen waarin de politierechter op voet van artikel 378, eerste lid, uitspraak doet, zodra die dag is bepaald, een kennisgeving betekend.   
-3.  De rechtbank kan, in geval onder de beraadslaging blijkt dat het onderzoek ter terechtzitting niet volledig is geweest, overeenkomstig de bepalingen van artikel 511d, tweede en derde lid, een onderzoek door de officier van justitie doen plaats vinden. In dit geval wordt gehandeld als ware het onderzoek voor onbepaalde tijd geschorst.   
+b. de uitspraak in geen geval later mag plaatsvinden dan zes weken na de dag waarop het onderzoek is gesloten.     
+2.  De rechtbank kan, in geval onder de beraadslaging blijkt dat het onderzoek ter terechtzitting niet volledig is geweest, overeenkomstig de bepalingen van artikel 511d, tweede en derde lid, een onderzoek door de officier van justitie doen plaats vinden. In dit geval wordt gehandeld als ware het onderzoek voor onbepaalde tijd geschorst.   
 
 ### Artikel  511f  
 
@@ -5972,7 +5969,7 @@ a. de zaak in hoger beroep aanhangig wordt gemaakt door een oproeping van de adv
 
 b. de behandeling van de vordering waarvan beroep is ingesteld voorafgegaan kan worden door een schriftelijke voorbereiding op de wijze als door het gerechtshof te bepalen;  
 
-c. de artikelen 511d, tweede en derde lid, en 511e, derde lid, van overeenkomstige toepassing zijn. In deze gevallen wordt het financieel onderzoek gevoerd door de officier van justitie bij de rechtbank die in eerste aanleg uitspraak heeft gedaan. Na afloop van het bevolen onderzoek deelt de officier van justitie de stukken mede aan de advocaat-generaal;  
+c. de artikelen 511d, tweede en derde lid, en 511e, tweede lid, van overeenkomstige toepassing zijn. In deze gevallen wordt het financieel onderzoek gevoerd door de officier van justitie bij de rechtbank die in eerste aanleg uitspraak heeft gedaan. Na afloop van het bevolen onderzoek deelt de officier van justitie de stukken mede aan de advocaat-generaal;  
 
 d. artikel 511e, eerste lid, onder b, van overeenkomstige toepassing is.     
 
@@ -7109,7 +7106,7 @@ Indien de veroordeelde meer dan een straf achtereenvolgens moet ondergaan, worde
 
 ### Artikel  575  
 
-1.  Op voorwerpen van de veroordeelde die niet op grond van artikel 94a in beslag zijn genomen geschiedt verhaal krachtens een dwangbevel, medebrengende het recht om die goederen zonder vonnis aan te tasten.   
+1.  Op voorwerpen van de veroordeelde die niet op grond van artikel 94a in beslag zijn genomen geschiedt verhaal krachtens een dwangbevel, medebrengende het recht om die goederen zonder vonnis aan te tasten. Verhaal kan mede worden genomen op voorwerpen als bedoeld in artikel 94a, derde en vierde lid, die niet reeds voor het onherroepelijk worden van het vonnis of arrest in beslag zijn genomen.   
 2.  Het dwangbevel wordt in naam des Konings uitgevaardigd door het openbaar ministerie, dat met de tenuitvoerlegging van het vonnis, het arrest of de strafbeschikking is belast. Het wordt ten uitvoer gelegd als een vonnis van de burgerlijke rechter.   
 3.  De tenuitvoerlegging van het dwangbevel kan niet worden geschorst dan door een verzet, hetwelk evenwel nimmer gericht zal kunnen zijn tegen het vonnis, het arrest of de strafbeschikking, waarbij de geldboete werd opgelegd. Verzet wordt gedaan bij een met redenen omkleed bezwaarschrift, hetwelk vóór de verkoop en uiterlijk binnen zeven dagen, te rekenen van de dag der inbeslagneming, wordt ingediend bij het gerecht, waartoe de rechter behoort, die de straf heeft opgelegd. In geval van een strafbeschikking wordt het bezwaarschrift ingediend bij het gerecht dat van het daartegen gerichte verzet kennis heeft genomen of, indien verzet zou zijn gedaan, daarvan kennis had kunnen nemen. De behandeling van het verzet door de raadkamer vindt plaats in het openbaar. De beschikking van de raadkamer wordt onverwijld aan de veroordeelde betekend. Tegen de beschikking kan door de ambtenaar die het dwangbevel heeft uitgevaardigd binnen veertien dagen daarna en door de veroordeelde binnen veertien dagen na de betekening, beroep in cassatie worden ingesteld. De veroordeelde is in zijn beroep slechts ontvankelijk na voorafgaande consignatie van het nog verschuldigde bedrag en van al de kosten ter griffie van het gerecht, dat de beschikking heeft gegeven, of tot hetwelk de rechter, van wie de beschikking afkomstig is, behoort. De Hoge Raad beslist zo spoedig mogelijk.   
 4.  Ten aanzien van derden, die bij een inbeslagneming van voorwerpen daarop geheel of gedeeltelijk recht menen te hebben, zijn de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van toepassing.   

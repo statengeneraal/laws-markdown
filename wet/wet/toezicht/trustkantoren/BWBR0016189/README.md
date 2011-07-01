@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. trustkantoor: een rechtspersoon, vennootschap of natuurlijke persoon die, al dan niet tezamen met andere rechtspersonen, vennootschappen of natuurlijke personen, beroeps- of bedrijfsmatig een of meer van de in onderdeel d genoemde diensten verleent in opdracht van een, niet tot dezelfde groep als waarvan het trustkantoor deel uitmaakt behorende, rechtspersoon, vennootschap of natuurlijke persoon;  
+a. trustkantoor: een rechtspersoon, vennootschap of natuurlijke persoon die, al dan niet tezamen met andere rechtspersonen, vennootschappen of natuurlijke personen, beroeps- of bedrijfsmatig een of meer van de in onderdeel d genoemde diensten verleent;  
 
 b. doelvennootschap: een rechtspersoon of vennootschap waaraan de in onderdeel d, onder 1° en 2°, genoemde diensten worden verleend;  
 
@@ -24,11 +24,11 @@ c. uiteindelijk belanghebbende: de natuurlijke persoon die een gekwalificeerde d
 
 d. dienst: 
 
-1º. het zijn van bestuurder of vennoot van een rechtspersoon of vennootschap;  
+1°. het zijn van bestuurder of vennoot van een rechtspersoon of vennootschap in opdracht van een, niet tot dezelfde groep als waarvan het trustkantoor deel uitmaakt behorende rechtspersoon, vennootschap of natuurlijke persoon;  
 
-2º. het ter beschikking stellen van het adres of het correspondentie-adres, bedoeld in de [artikelen 9, eerste lid, onder b](../../../../../AMvB/handelsregisterbesluit/1996/BWBR0008920/README.md), en [10, onder a, van het Handelsregisterbesluit 1996](../../../../../AMvB/handelsregisterbesluit/1996/BWBR0008920/README.md), aan een rechtspersoon of vennootschap, indien ten minste een van de volgende bijkomende werkzaamheden wordt verricht ten behoeve van die rechtspersoon of vennootschap of ten behoeve van een, tot dezelfde groep behorende, andere rechtspersoon, vennootschap of natuurlijke persoon: 
+2°. het in opdracht van een niet tot dezelfde groep als waarvan het trustkantoor deel uitmaakt behorende rechtspersoon, vennootschap of natuurlijke persoon, ter beschikking stellen van het adres of het postadres, bedoeld in de [artikelen 11, eerste lid, onderdeel c](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), en [14, eerste lid, onderdeel c, van de Handelsregisterwet 2007](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), aan een andere rechtspersoon of vennootschap, indien ten minste een van de volgende bijkomende werkzaamheden wordt verricht ten behoeve van die rechtspersoon of vennootschap of ten behoeve van een, tot dezelfde groep behorende, andere rechtspersoon, vennootschap of natuurlijke persoon: 
 
-i) het op privaatrechtelijk gebied geven van advies of verlenen van bijstand;  
+i) het op privaatrechtelijk gebied geven van advies of het verlenen van bijstand, met uitzondering van het verrichten van receptiewerkzaamheden;  
 
 ii) het verstrekken van belastingadvies of het verzorgen van belastingaangiften en daarmee verband houdende werkzaamheden;  
 
@@ -38,11 +38,11 @@ iv) het werven van een bestuurder voor een rechtspersoon of vennootschap;
 
 v) andere bij algemene maatregel van bestuur aan te wijzen bijkomende werkzaamheden;    
 
-3º. het verkopen van rechtspersonen;  
+3°. het verkopen van rechtspersonen;  
 
-4º. het zijn van trustee in de zin van het Verdrag inzake het recht dat toepasselijk is op trusts en inzake de erkenning van trusts; of  
+4°. het zijn van een trustee in de zin van het Verdrag inzake het recht dat toepasselijk is op trusts en inzake de erkenning van trusts in opdracht van een, niet tot dezelfde groep als waarvan het trustkantoor deel uitmaakt behorende rechtspersoon, vennootschap of natuurlijke persoon; of  
 
-5º. andere bij algemene maatregel van bestuur aan te wijzen diensten;    
+5°. andere bij algemene maatregel van bestuur aan te wijzen diensten;    
 
 e. bijkantoor: een of meer onderdelen zonder rechtspersoonlijkheid van een trustkantoor;  
 

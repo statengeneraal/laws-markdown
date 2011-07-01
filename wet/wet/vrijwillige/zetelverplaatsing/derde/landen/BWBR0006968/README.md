@@ -64,9 +64,8 @@ d. een afschrift of een ontwerp van een notariële akte als bedoeld in het derde
 a. het besluit niet overeenkomstig het toepasselijke recht is genomen;  
 
 b. de statuten van de rechtspersoon niet in overeenstemming zijn met de wettelijke bepalingen.     
-6.  Indien de rechtsvorm van de rechtspersoon de rechtsvorm van naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid zal zijn, wordt de goedkeuring voorts geweigerd op grond dat, gelet op de antecedenten van de personen die het beleid van de vennootschap zullen bepalen of medebepalen, gevaar bestaat dat de vennootschap zal worden gebruikt voor ongeoorloofde doeleinden of dat haar werkzaamheid zal leiden tot benadeling van haar schuldeisers.   
-7.  De zetelverplaatsing brengt mee dat de rechtspersoon voortbestaat als rechtspersoon naar Nederlands recht.   
-8.  De rechtspersoon doet na de zetelverplaatsing onverwijld de nodige opgaven ter inschrijving in het handelsregister. Bij de opgave wordt een authentiek afschrift van de akte bedoeld in het derde lid overgelegd. Zolang de opgave ter inschrijving niet is geschied, zijn de bestuurders naast de rechtspersoon hoofdelijk aansprakelijk voor elke tijdens hun bestuur verrichte rechtshandeling waardoor de rechtspersoon verbonden wordt sedert de dag van de ministeriële goedkeuring, dan wel sedert de dag van de akte indien deze is verleden na de ministeriële goedkeuring.   
+6.  De zetelverplaatsing brengt mee dat de rechtspersoon voortbestaat als rechtspersoon naar Nederlands recht.   
+7.  De rechtspersoon doet na de zetelverplaatsing onverwijld de nodige opgaven ter inschrijving in het handelsregister. Bij de opgave wordt een authentiek afschrift van de akte bedoeld in het derde lid overgelegd. Zolang de opgave ter inschrijving niet is geschied, zijn de bestuurders naast de rechtspersoon hoofdelijk aansprakelijk voor elke tijdens hun bestuur verrichte rechtshandeling waardoor de rechtspersoon verbonden wordt sedert de dag van de ministeriële goedkeuring, dan wel sedert de dag van de akte indien deze is verleden na de ministeriële goedkeuring.   
 
 ### Artikel  6  
 

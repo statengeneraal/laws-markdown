@@ -26,7 +26,7 @@ d. consumentenorganisaties: stichtingen of verenigingen met volledige rechtsbevo
 
 e. financiële dienst of activiteit: 
 
-1°. een financiële dienst als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en het aanbieden van effecten aan het publiek of het doen toelaten van effecten tot de handel op een in Nederland gelegen of functionerende gereglementeerde markt, bedoeld in [artikel 5:2 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+1°. een financiële dienst als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en het aanbieden van effecten aan het publiek of het doen toelaten van effecten tot de handel op een in Nederland gelegen of functionerende gereglementeerde markt, bedoeld in [artikel 5:2 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), waarbij voor de toepassing van deze wet onder deze financiële diensten en activiteiten mede worden begrepen de overeenkomsten met betrekking tot een of meer financiële producten als bedoeld in [artikel 1.1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die rechtstreeks uit deze financiële diensten of activiteiten voortvloeien of daarvan het resultaat zijn;  
 
 2°. het in de uitoefening van een bedrijf buiten besloten kring aantrekken, ter beschikking verkrijgen of ter beschikking hebben van opvorderbare gelden van anderen dan professionele marktpartijen als bedoeld in [artikel 3:5, eerste lid, van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), dan wel het als tussenpersoon werkzaamheden verrichten in de zin van [artikel 4:3, eerste lid, van laatstgenoemde wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
@@ -157,41 +157,32 @@ Gegevens die de Consumentenautoriteit verkrijgt van andere bevoegde autoriteiten
 
 ### Artikel  3.2  
 
-1.  De bij besluit van de Stichting Autoriteit Financiële Markten aangewezen personen zijn belast met het toezicht op de naleving van: 
-
-a. de wettelijke bepalingen, bedoeld in de onderdelen a en c van de bijlage bij deze wet, voor welke zij als bevoegde autoriteit is aangewezen, en  
-
-b. de wettelijke bepalingen, bedoeld in onderdeel d van de bijlage bij deze wet.   Van dat besluit wordt mededeling gedaan door plaatsing in de Staatscourant.   
-2.  De artikelen 2.4, tweede lid, en 2.10 zijn van overeenkomstige toepassing.   
+1.  De bij besluit van de Autoriteit Financiële Markten aangewezen personen zijn belast met het toezicht op de naleving van de wettelijke bepalingen, bedoeld in de onderdelen a, c en d van de bijlage bij deze wet, voor zover de overtreding betrekking heeft op een financiële dienst of activiteit. Van dat besluit wordt mededeling gedaan door plaatsing in de Staatscourant.   
+2.  De artikelen 2.4, tweede lid, 2.10 en 2.23 zijn van overeenkomstige toepassing.   
 
 ### Artikel  3.3  
 
-1.  De Stichting Autoriteit Financiële Markten kan een verzoekschrift als bedoeld in [artikel 305d van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) indienen indien naar haar oordeel sprake is van een intracommunautaire inbreuk op een van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage bij deze wet, en de intracommunautaire inbreuk betrekking heeft op een financiële dienst of activiteit.   
+1.  De Stichting Autoriteit Financiële Markten kan een verzoekschrift als bedoeld in [artikel 305d van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) indienen indien naar haar oordeel sprake is van een overtreding van een van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage bij deze wet, en de overtreding betrekking heeft op een financiële dienst of activiteit.   
 2.  De artikelen 2.5, tweede lid, en 4.3, eerste lid, zijn van overeenkomstige toepassing.   
 
 ### Artikel  3.4  
 
-1.  De Stichting Autoriteit Financiële Markten kan, indien zij van oordeel is dat een intracommunautaire inbreuk op een van de wettelijke bepalingen, bedoeld in onderdeel c, sub c.1, van de bijlage bij deze wet, heeft plaatsgevonden: 
+1.  De Stichting Autoriteit Financiële Markten kan, indien zij van oordeel is dat een overtreding op een van de wettelijke bepalingen, bedoeld in onderdeel c, sub c.1, van de bijlage bij deze wet, heeft plaatsgevonden: 
 
 a. een bestuurlijke boete opleggen;  
 
 b. een last onder dwangsom opleggen.     
 2.  Met betrekking tot de toepassing van het eerste lid: 
 
-a. zijn de artikelen 2.10, eerste lid, 2.23 en 2.24 van overeenkomstige toepassing; en  
+a. zijn de artikelen 2.102.23 en 2.24 van overeenkomstige toepassing; en  
 
 b. zijn [artikel 1:81 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van overeenkomstige toepassing.     
-3.  De Stichting Autoriteit Financiële Markten kan, indien zij van oordeel is dat een intracommunautaire inbreuk op een van de wettelijke bepalingen, bedoeld in onderdeel c, sub c.2, van de bijlage bij deze wet, heeft plaatsgevonden: 
+3.  De Stichting Autoriteit Financiële Markten kan, indien zij van oordeel is dat een overtreding op een van de wettelijke bepalingen, bedoeld in onderdelen c, sub c.2 en d van de bijlage bij deze wet, heeft plaatsgevonden: 
 
 a. een bestuurlijke boete opleggen;  
 
 b. een last onder dwangsom opleggen.     
-4.  De Stichting Autoriteit Financiële Markten kan, indien zij van oordeel is dat een overtreding van een van de wettelijke bepalingen, bedoeld in onderdeel d van de bijlage bij deze wet heeft plaatsgevonden: 
-
-a. een bestuurlijke boete opleggen;  
-
-b. een last onder dwangsom opleggen.     
-5.  Met betrekking tot de toepassing van het derde en vierde lid zijn de artikelen 2.10, eerste lid, 2.15, 2.23, 2.24 en 4.3, tweede lid, van overeenkomstige toepassing.   
+4.  Met betrekking tot de toepassing van het derde lid zijn de artikelen 2.102.15, 2.23, 2.24 en 4.3, tweede lid, van overeenkomstige toepassing.   
 
 ### §  2  
 
@@ -576,6 +567,7 @@ Onderdeel b
 | Richtlijn 90/314/EEG van de Raad van 13 juni 1990 betreffende pakketreizen, met inbegrip van vakantiepakketten en rondreispakketten (PbEG L 158)  | Artikel 8.7  van deze wet, voor zover niet betrekking hebbend op een financiële dienst of activiteit  |
 | Richtlijn 2005/29/EG van het Europees Parlement en de Raad van 11 mei 2005 betreffende oneerlijke handelspraktijken van ondernemingen jegens consumenten op de interne markt en tot wijziging van Richtlijn 84/450/EEG van de Raad, Richtlijnen 97/7/EG, 98/27/EG en 2002/65/EG van het Europees Parlement en de Raad en van Verordening (EG) nr. 2006/2004 van het Europees Parlement en de Raad («Richtlijn oneerlijke handelspraktijken») (PbEU 2005, L 149)  | artikel 8.8  van deze wet, voor zover niet betrekking hebbend op een financiële dienst of activiteit  |
 | Richtlijn 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende diensten op de interne markt (PbEU L 376)  | artikel 8.9  van deze wet  |
+| Artikel 23 van verordening (EG) nr. 1008/2008 van het Europees parlement en de Raad van de Europese Unie van 24 september 2008 inzake gemeenschappelijke regels voor de exploitatie van luchtdiensten in de Gemeenschap (PbEU L 293)  | --- |
 
 #### *Onderdeel c* 
 

@@ -84,67 +84,34 @@ q. Zorgverzekeringsfonds: het fonds, genoemd in [artikel 39 van de Zorgverzekeri
 3.  De zorgautoriteit is belast met de taken die haar bij of krachtens wet zijn opgedragen.   
 4.  De zorgautoriteit stelt bij de uitoefening van haar taken het algemeen consumentenbelang voorop.   
 5.  De zorgautoriteit wordt in en buiten rechte vertegenwoordigd door de voorzitter.   
+6.  De [Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is op de zorgautoriteit van toepassing, met uitzondering van [artikel 17 van die wet](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).   
 
 ### Artikel  4  
 
 1.  De zorgautoriteit bestaat uit ten hoogste drie leden, onder wie de voorzitter.   
-2.  Onze Minister benoemt, schorst en ontslaat de voorzitter en de overige leden.   
-3.  Benoeming vindt plaats op grond van de deskundigheid die nodig is voor de uitoefening van de taken van de zorgautoriteit alsmede op grond van maatschappelijke kennis en ervaring.   
-4.  De leden worden benoemd voor ten hoogste vier jaar. Herbenoeming kan twee maal en telkens voor ten hoogste vier jaar plaatsvinden.   
-5.  Een lid van de zorgautoriteit vervult geen nevenfuncties die ongewenst zijn met het oog op een goede vervulling van zijn functie of de handhaving van zijn onafhankelijkheid of van het vertrouwen daarin.   
-6.  Het lidmaatschap van de zorgautoriteit is onverenigbaar met: 
-
-a. het lidmaatschap van het College zorgverzekeringen;  
-
-b. het bestuur van De Nederlandsche Bank N.V.;  
-
-c. het bestuur van de Stichting Autoriteit Financiële Markten;  
-
-d. de raad van bestuur van de Nederlandse Mededingingsautoriteit;  
-
-e. het hebben van zodanige financiële of andere belangen bij instellingen of bedrijven, dat de onpartijdigheid van het betrokken lid in het geding kan zijn.     
-7.  Bij ministeriële regeling kunnen andere functies of werkzaamheden dan die, genoemd in het zesde lid, worden aangewezen, die niet verenigbaar zijn met het lidmaatschap van de zorgautoriteit.   
-8.  Het lidmaatschap eindigt tussentijds door overlijden, ontslag op eigen verzoek of ontslag om zwaarwichtige redenen door Onze Minister. Van een besluit tot benoeming, schorsing of ontslag wordt mededeling gedaan in de Staatscourant.   
-9.  Onze Minister stelt de bezoldiging en de regels ten aanzien van de rechtspositie van de leden van de zorgautoriteit vast.   
+2.  Benoeming vindt plaats op grond van de deskundigheid die nodig is voor de uitoefening van de taken van de zorgautoriteit alsmede op grond van maatschappelijke kennis en ervaring.   
+3.  De leden worden benoemd voor ten hoogste vier jaar. Herbenoeming kan twee maal en telkens voor ten hoogste vier jaar plaatsvinden.   
+4.  De leden van de zorgautoriteit hebben geen financiële of andere belangen bij instellingen of bedrijven die hun onpartijdigheid in het gedrang kunnen brengen.   
 
 ### Artikel  5  
 
 1.  De zorgautoriteit stelt een bestuursreglement vast.   
 2.  Vergaderingen van de zorgautoriteit zijn niet openbaar, behoudens voor zover in het bestuursreglement anders is bepaald.   
 3.  In het bestuursreglement legt de zorgautoriteit in ieder geval vast hoe zij voldoet aan de verplichting ingevolge [artikel 3:2 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-4.  Het bestuursreglement behoeft de goedkeuring van Onze Minister.   
-
-### Artikel  6  
-
-1.  Op de rechtspositie van het personeel van de zorgautoriteit zijn de regels die gelden voor ambtenaren die zijn aangesteld bij ministeries van toepassing, met dien verstande dat waar in die regels een bevoegdheid is toegekend aan een andere minister dan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, deze bevoegdheid wordt uitgeoefend door de zorgautoriteit.   
-2.  Bij algemene maatregel van bestuur kan worden afgeweken van de in het eerste lid bedoelde regels.   
 
 ### Artikel  7  
 
 1.  Onze Minister kan de zorgautoriteit een algemene aanwijzing geven met betrekking tot: 
 
-a. de werkwijze en de uitoefening van de taken van de zorgautoriteit;  
+a. de onderwerpen waaromtrent de zorgautoriteit ingevolge deze wet bevoegd is regels vast te stellen;  
 
-b. de onderwerpen waaromtrent de zorgautoriteit ingevolge deze wet regels heeft vastgesteld of kan vaststellen;  
-
-c. de onderwerpen waaromtrent de zorgautoriteit ingevolge deze wet beleidsregels heeft vastgesteld of kan vaststellen.     
-2.  Onze Minister kan in een aanwijzing als bedoeld in het eerste lid, onder c, bepalen dat de zorgautoriteit ambtshalve een tarief als bedoeld in artikel 57, vierde lid, onder a of b, of een prestatiebeschrijving vaststelt.   
+b. de onderwerpen waaromtrent de zorgautoriteit ingevolge deze wet bevoegd is beleidsregels vast te stellen.     
+2.  Onze Minister kan in een aanwijzing als bedoeld in het eerste lid, onder b, bepalen dat de zorgautoriteit ambtshalve een tarief als bedoeld in artikel 57, vierde lid, onder a of b, of een prestatiebeschrijving vaststelt.   
 3.  Een aanwijzing heeft geen betrekking op een individuele zorgaanbieder, ziektekostenverzekeraar of consument.   
 
 ### Artikel  8  
 
-Alvorens Onze Minister overeenkomstig artikel 7, eerste lid, onder c, een aanwijzing vaststelt, deelt hij de zakelijke inhoud van het voorgenomen besluit schriftelijk mede aan de beide kamers der Staten-Generaal. Hij stelt het besluit niet eerder vast dan nadat 30 dagen zijn verstreken na die mededeling. Van de vaststelling doet Onze Minister mededeling door plaatsing in de Staatscourant.  
-
-### Artikel  9  
-
-1.  Een besluit van algemene strekking van de zorgautoriteit kan bij koninklijk besluit worden vernietigd wegens strijd met het recht of het belang van de volksgezondheid.   
-2.  Een besluit tot vernietiging wordt genomen binnen acht weken na bekendmaking van het te vernietigen besluit. Deze termijn kan eenmaal met vier weken worden verlengd.   
-3.  De rechtsgevolgen van het vernietigde besluit die zijn ingetreden voor de vernietiging, blijven in stand tenzij het besluit tot vernietiging anders bepaalt.   
-4.  Van een besluit tot vernietiging wordt mededeling gedaan door plaatsing in de Staatscourant.   
-
-### Artikel  10  
-
-Bij algemene maatregel van bestuur kunnen, zonodig in afwijking van deze wet, tijdelijke voorzieningen worden getroffen voor het geval de zorgautoriteit haar uit de wet voortvloeiende verplichtingen niet naar behoren nakomt.  
+Alvorens Onze Minister overeenkomstig artikel 7, eerste lid, onder b, een aanwijzing vaststelt, deelt hij de zakelijke inhoud van het voorgenomen besluit schriftelijk mede aan de beide kamers der Staten-Generaal. Hij stelt het besluit niet eerder vast dan nadat 30 dagen zijn verstreken na die mededeling. Van de vaststelling doet Onze Minister mededeling door plaatsing in de Staatscourant.  
 
 ### Paragraaf  2.2  
 
@@ -152,61 +119,41 @@ Bij algemene maatregel van bestuur kunnen, zonodig in afwijking van deze wet, ti
 
 ### Artikel  11  
 
-1.  De zorgautoriteit zendt jaarlijks voor 1 oktober aan Onze Minister een jaarplan voor het volgende kalenderjaar.   
-2.  Het jaarplan omvat: 
-
-a. een werkprogramma met een beschrijving van de activiteiten die de zorgautoriteit voornemens is ter uitvoering van haar taken te verrichten;  
-
-b. een begroting van de beheerskosten voor de uitvoering van de voorgenomen activiteiten; en  
-
-c. een meerjarenraming voor de vier kalenderjaren volgend op het begrotingsjaar.     
+1.  De zorgautoriteit zendt jaarlijks voor 1 oktober tegelijk met de begroting een werkprogramma voor het volgende kalenderjaar aan Onze Minister met een beschrijving van de activiteiten die de zorgautoriteit voornemens is ter uitvoering van haar taken te verrichten.   
+2.  Onverminderd [artikel 27 van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) bevat de begroting een meerjarenraming van de beheerskosten voor de vier kalenderjaren, volgend op het begrotingsjaar.   
 
 ### Artikel  12  
 
 1.  Onze Minister stelt jaarlijks voor 1 december het budget voor de beheerskosten van de zorgautoriteit voor het volgende kalenderjaar vast.   
 2.  Onze Minister kan besluiten het budget voor de beheerskosten van de zorgautoriteit te wijzigen.   
-3.  Indien gedurende het jaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke en de begrote baten en lasten, doet de zorgautoriteit daarvan onverwijld mededeling aan Onze Minister, onder vermelding van de oorzaak van de verschillen.   
-4.  De zorgautoriteit gaat met betrekking tot de beheerskosten geen verplichtingen aan en doet geen uitgaven die leiden tot overschrijding van het vastgestelde budget voor de beheerskosten.   
-5.  Indien het budget voor de beheerskosten niet is vastgesteld voor 1 januari van het kalenderjaar waarop de begroting betrekking heeft, is de zorgautoriteit bevoegd, teneinde haar activiteiten gaande te houden, te beschikken over ten hoogste een derde gedeelte van het budget dat laatstelijk voor haar voor een geheel jaar is vastgesteld.   
-6.  Onze Minister kan besluiten dat de zorgautoriteit in een geval als bedoeld in het vijfde lid, kan beschikken over meer dan een derde gedeelte van het budget dat laatstelijk voor haar voor een geheel jaar is vastgesteld.   
-7.  Het door Onze Minister vastgestelde budget voor de beheerskosten van de zorgautoriteit wordt gedekt uit ’s Rijks kas.   
-
-### Artikel  13  
-
-1.  De zorgautoriteit zendt jaarlijks voor 15 maart aan Onze Minister een jaarverantwoording over het afgelopen kalenderjaar, alsmede het verslag van bevindingen, bedoeld in het zesde lid.   
-2.  De jaarverantwoording omvat: 
-
-a. een jaarrekening;  
-
-b. een jaarverslag omtrent het door de zorgautoriteit gevoerde beleid, de doeltreffendheid van dat beleid, de bedrijfsvoering en de uitvoering van het werkprogramma in het afgelopen kalenderjaar; en  
-
-c. een overzicht van de door de zorgautoriteit veroorzaakte administratieve lasten, berekend volgens de definities van de Interdepartementale Projectdirectie Administratieve Lasten (IPAL).     
-3.  De zorgautoriteit legt in haar jaarrekening, die zoveel mogelijk met overeenkomstige toepassing van [titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) wordt ingericht, rekening en verantwoording af over haar beheerskosten en over de rechtmatigheid en doelmatigheid van het beheer in het afgelopen kalenderjaar.   
-4.  De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), die Onze Minister desgevraagd inzicht geeft in zijn controlewerkzaamheden.   
-5.  De verklaring heeft mede betrekking op de rechtmatige verkrijging en besteding van de middelen door de zorgautoriteit.   
-6.  De accountant voegt bij de verklaring een verslag van zijn bevindingen over de vraag of het beheer en de organisatie voldoen aan eisen van rechtmatigheid, ordelijkheid, controleerbaarheid en doelmatigheid.   
+3.  De zorgautoriteit gaat met betrekking tot de beheerskosten geen verplichtingen aan en doet geen uitgaven die leiden tot overschrijding van het vastgestelde budget voor de beheerskosten.   
+4.  Indien het budget voor de beheerskosten niet is vastgesteld voor 1 januari van het kalenderjaar waarop de begroting betrekking heeft, is de zorgautoriteit bevoegd, teneinde haar activiteiten gaande te houden, te beschikken over ten hoogste een derde gedeelte van het budget dat laatstelijk voor haar voor een geheel jaar is vastgesteld.   
+5.  Onze Minister kan besluiten dat de zorgautoriteit in een geval als bedoeld in het vierde lid, kan beschikken over meer dan een derde gedeelte van het budget dat laatstelijk voor haar voor een geheel jaar is vastgesteld.   
+6.  Het door Onze Minister vastgestelde budget voor de beheerskosten van de zorgautoriteit wordt gedekt uit ’s Rijks kas.   
 
 ### Artikel  14  
 
-1.  De onderdelen «werkprogramma» en «begroting» van het jaarplan, bedoeld in artikel 11, en het onderdeel «jaarrekening» van de jaarverantwoording, bedoeld in artikel 13, behoeven de goedkeuring van Onze Minister.   
-2.  Het eerste lid geldt niet voor wijzigingen in een goedgekeurde begroting, mits: 
+1.  Het werkprogramma, bedoeld in artikel 11, behoeft de goedkeuring van Onze Minister.   
+2.  In afwijking van [artikel 29 van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), behoeven wijzigingen in een goedgekeurde begroting geen goedkeuring van Onze Minister, mits: 
 
 a. de totale omvang van de begroting geen wijziging ondergaat, en  
 
 b. de wijziging per groep van kostensoorten en baten, gerekend over het desbetreffende begrotingsjaar, een bedrag van vijf procent van het in artikel 12 bedoelde budget niet te boven gaat.     
-3.  Bij ministeriële regeling kunnen regels worden gesteld over de inhoud en de inrichting van: 
+3.  Bij ministeriële regeling kunnen regels worden gesteld over: 
 
-a. het jaarplan, bedoeld in artikel 11;  
+a. de inhoud en inrichting van het werkprogramma, bedoeld in artikel 11;  
 
-b. de jaarverantwoording, bedoeld in artikel 13;  
+b. de inhoud en inrichting van het jaarverslag, de begroting en de jaarrekening, bedoeld in de [artikelen 18](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), [26](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [34 van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md);  
 
-c. de verklaring, bedoeld in artikel 13, vierde lid, het verslag van bevindingen, bedoeld in artikel 13, zesde lid, alsmede het aan die verklaring en dat verslag ten grondslag liggende onderzoek.     
+c. de accountantscontrole van de jaarrekening;  
+
+d. de omvang van de egalisatiereserve, bedoeld in [artikel 33 van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).     
 4.  Bij ministeriële regeling worden regels gesteld over de wijze waarop en de voorwaarden waaronder het budget, bedoeld in artikel 12 wordt vastgesteld.   
-5.  De zorgautoriteit voegt in overeenstemming met Onze Minister aan het jaarverslag een plan toe met de strekking, de administratieve lasten bedoeld in artikel 13, tweede lid, onder c, elk jaar te beperken; het plan bevat tevens het resultaat van de uitvoering hiervan over het voorafgaande jaar.   
+5.  Onverminderd [artikel 35, vierde lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) doet de accountant tevens verslag van zijn bevindingen over de vraag of het beheer en de organisatie van de zorgautoriteit voldoen aan de eisen van rechtmatigheid, ordelijkheid en controleerbaarheid.   
 
 ### Artikel  15  
 
-1.  Na de goedkeuring, bedoeld in artikel 14, eerste lid, stelt de zorgautoriteit het jaarplan en de jaarverantwoording algemeen verkrijgbaar.   
+1.  Na de goedkeuring, bedoeld in artikel 14, eerste lid, van deze wet en in de [artikelen 29, eerste lid](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), en [34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), stelt de zorgautoriteit het werkprogramma, de begroting, het jaarverslag en de jaarrekening algemeen verkrijgbaar.   
 2.  Onze Minister brengt zijn oordeel over het functioneren van de zorgautoriteit ter kennis van beide kamers der Staten-Generaal.   
 
 ### Hoofdstuk  3  
@@ -298,10 +245,9 @@ d. de beschikkingen met betrekking tot tarieven en prestatiebeschrijvingen.
 
 ### Artikel  22  
 
-1.  De zorgautoriteit verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn taak benodigde gegevens en inlichtingen. De zorgautoriteit verleent aan door Onze Minister aangewezen personen toegang tot en inzage in alle zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van diens taak redelijkerwijs nodig is.   
-2.  Onze Minister verstrekt desgevraagd aan de zorgautoriteit de voor de uitoefening van haar taak benodigde gegevens en inlichtingen.   
-3.  Onze Minister en de zorgautoriteit stellen gezamenlijk een informatiestatuut vast. Het informatiestatuut bevat inhoudelijke en procedurele afspraken met betrekking tot de verstrekking van informatie, bedoeld in het eerste en tweede lid.   
-4.  De gegevens en inlichtingen, bedoeld in het eerste en tweede lid, hebben geen betrekking op medische persoonsgegevens als bedoeld in artikel 60.   
+1.  Onze Minister verstrekt desgevraagd aan de zorgautoriteit de voor de uitoefening van haar taak benodigde gegevens en inlichtingen.   
+2.  Onze Minister en de zorgautoriteit stellen gezamenlijk een informatiestatuut vast. Het informatiestatuut bevat inhoudelijke en procedurele afspraken met betrekking tot de verstrekking van informatie, bedoeld in het eerste lid alsmede in [artikel 20 van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).   
+3.  De gegevens en inlichtingen, bedoeld in het eerste lid alsmede in [artikel 20 van de Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), hebben geen betrekking op medische persoonsgegevens als bedoeld in artikel 60.   
 
 ### Artikel  23  
 
@@ -1062,7 +1008,7 @@ In afwijking van artikel 4 kan de zorgautoriteit gedurende vier jaar, te rekenen
 5.  Een ingevolge de [Wet tarieven gezondheidszorg](../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md) goedgekeurde beleidsregel wordt gelijkgesteld met een ingevolge deze wet vastgestelde beleidsregel.   
 6.  Een ingevolge de [Wet tarieven gezondheidszorg](../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md) door het College tarieven gezondheidszorg vastgestelde regel wordt gelijkgesteld met een ingevolge deze wet door de zorgautoriteit vastgestelde regel.   
 7.  Een ingevolge de [Wet tarieven gezondheidszorg](../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md) goedgekeurde beleidsregel inhoudende aan wie, door wie en op welke wijze en met inachtneming van welke voorwaarden, voorschriften of beperkingen een tarief in rekening wordt gebracht, wordt gelijkgesteld met een ingevolge deze wet door de zorgautoriteit vastgestelde regel als bedoeld in artikel 37.   
-8.  Een beleidsregel als bedoeld in [artikel 13 van de Wet tarieven gezondheidszorg](../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md) zoals die wet luidde onmiddellijk voor het tijdstip van inwerkingtreding van deze wet wordt gelijkgesteld met een aanwijzing als bedoeld in artikel 7, eerste lid, aanhef en onder c.   
+8.  Een beleidsregel als bedoeld in [artikel 13 van de Wet tarieven gezondheidszorg](../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md) zoals die wet luidde onmiddellijk voor het tijdstip van inwerkingtreding van deze wet wordt gelijkgesteld met een aanwijzing als bedoeld in artikel 7, eerste lid, aanhef en onder b.   
 
 ### Artikel  124  
 
@@ -1084,7 +1030,7 @@ Wijzigt deze wet.
 
 ### Artikel  127  
 
-1.  Onze Minister zendt voor 1 januari 2009 een verslag aan de Staten-Generaal over de doeltreffendheid en de effecten van deze wet in de praktijk. Hierin wordt in ieder geval aandacht besteed aan: 
+Onze Minister zendt voor 1 januari 2009 een verslag aan de Staten-Generaal over de doeltreffendheid en de effecten van deze wet in de praktijk. Hierin wordt in ieder geval aandacht besteed aan: 
 
 a. de manier waarop de beslissingen van de zorgautoriteit hebben bijgedragen aan het bereiken van de doelstelling van de wet;  
 
@@ -1094,8 +1040,7 @@ c. de mate waarin de wet heeft bijgedragen aan het terugdringen van de bureaucra
 
 d. de effectiviteit en wenselijkheid van tariefsregulering;  
 
-e. de taken die betrekking hebben op het mededingingsrecht.     
-2.  Onze Minister zendt binnen vier jaar na de inwerkingtreding van deze wet en vervolgens telkens na vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid en doelmatigheid van het functioneren van de zorgautoriteit. De zorgautoriteit is gehouden aan deze evaluatie medewerking te verlenen.   
+e. de taken die betrekking hebben op het mededingingsrecht.    
 
 ### Artikel  128  
 

@@ -19,7 +19,7 @@ Hebben goedgevonden en verstaan:
 
 a. *het bestuur en de zittingsvoorzitters:* het bestuur en de zittingsvoorzitters, bedoeld in [artikel 3a, tweede lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
 
-b. *inflatiepercentage:* het onmiddellijk voorafgaand aan de datum van 1 juli, ieder jaar in januari in de Staatscourant bekendgemaakte percentage, waarmee de consumentenprijzen (alle huishoudens) ten opzichte van het aan die bekendmaking voorafgaande jaar zijn verhoogd.     
+b. *inflatiepercentage:* het onmiddellijk voorafgaand aan de datum van 1 juli, ieder jaar in januari door het Centraal Bureau voor de Statistiek bekendgemaakte percentage, waarmee de consumentenprijzen (alle huishoudens) ten opzichte van het aan die bekendmaking voorafgaande jaar zijn verhoogd.     
 2.  Onder woonruimte welke een zelfstandige woning vormt, wordt in dit besluit niet mede begrepen een woonwagen of een combinatie van een standplaats en een woonwagen.   
 3.  Onder woonruimte welke niet een zelfstandige woning vormt, wordt in dit besluit niet mede begrepen een standplaats.   
 
@@ -79,12 +79,11 @@ Indien woonruimte bestaat uit of deel uitmaakt van een beschermd monument als be
 
 ### Artikel  12a  
 
-1.  Indien sprake is van een situatie als bedoeld in [artikel 7:247, vierde lid, onder a, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) wordt gebruik gemaakt van de waarde die door de verhuurder is bepaald op basis van de waarde in het economische verkeer voor vergelijkbare woningen of, indien deze door de verhuurder bepaalde waarde door de huurder in een huurgeschil wordt betwist, de waarde die in opdracht en op kosten van de verhuurder is vastgesteld door een taxateur van woningen die voldoet aan de krachtens [artikel 2, tweede lid, van het Uitvoeringsbesluit onderbouwing en uitvoering waardebepaling Wet waardering onroerende zaken](../../../../../AMvB/uitvoeringsbesluit/onderbouwing/en/uitvoering/waardebepaling/wet/etc/BWBR0007179/README.md) gestelde vakbekwaamheidseisen.   
-2.  Indien sprake is van een situatie als bedoeld in [artikel 7:247, vierde lid, onder b, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) geldt als waarde de op voet van de [Wet waardering onroerende zaken](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) vastgestelde waarde na de oplevering van de in [artikel 17, vierde lid, van die wet](../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) bedoelde eigendom.   
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/315.   
 
 ### Artikel  12b  
 
-De gebieden, de gemeenten en het aantal te bouwen woningen, bedoeld in artikel VI, eerste lid, van de Wet modernisering huurbeleid 2007, zijn opgenomen in bijlage IV bij dit besluit.  
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2011/315.   
 
 ### Artikel  13  
 
@@ -117,87 +116,101 @@ J. de Ruiter
 
 ####Het waarderingsstelsel voor woonruimte welke een zelfstandige woning vormt
 
-| --- | --- | --- | --- |
-|:---|:---|:---|:---|
-| 1. *Oppervlakte van vertrekken:*  | 1 punt per m <sup>2</sup>  |
-| --- | --- |
-| 2. *Oppervlakte van overige ruimten:* (berging, zolder, garage)  | 3/4 punt per m <sup>2</sup>  |
-| --- | --- |
-| 3. *Verwarmng:*  | --- |
-| --- | --- |
-| - per verwarmd vertrek  | 2 punten  |
-| - privé-ketel in de woning  | 3 punten  |
-| - privé hoog-rendements-ketel  | 5 punten  |
-| - collectieve hoogrendementsstookinstallatie  | 1 punt  |
-| - thermostatische ventielen per vertrek  | 1/4 punt (maximaal 2 punten)  |
-| - cv-combi  | 1 punt  |
-| - doorstroommeters (collectieve verwarmgs- installaties)  | 1 punt  |
-| --- | --- |
-| 4. *Warmte-isolatie:*  | ten hoogste 15 punten  |
-| --- | --- |
-| 5. *Keuken:*  | --- |
-| --- | --- |
-| lengte aanrecht: minder dan 1 m  | 0 punten  |
-| 1 tot 2 m  | 4 punten  <sup> *   maximaal verdubbeling in verband met kwaliteitsbijtelling (zie toelichting)    </sup> |
-| 2m en meer  | 7 punten  <sup> *   maximaal verdubbeling in verband met kwaliteitsbijtelling (zie toelichting)    </sup> |
-| --- | --- |
-| 6. *Sanitair:*  | --- |
-| --- | --- |
-| toilet  | 3 punten  |
-| wastafel  | 1 punt  |
-| douche  | 4 punten  <sup> *   maximaal verdubbeling in verband met kwaliteitsbijtelling (zie toelichting)    </sup> |
-| bad  | 6 punten  <sup> *   maximaal verdubbeling in verband met kwaliteitsbijtelling (zie toelichting)    </sup> |
-| bad/douche  | 7 punten  <sup> *   maximaal verdubbeling in verband met kwaliteitsbijtelling (zie toelichting)    </sup> |
-| --- | --- |
-| 6a. Voorzieningen als bedoeld in [artikel 255, eerste lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) (woonvoorzieningen voor gehandicapten):  | 1 punt  |
-| per € 226,89 van door de verhuurder aan de voorziening bestede kosten  | --- |
-| --- | --- | --- | --- |
-| 7. 
-Vervallen.  | --- |
-| --- | --- |
-| 8. *Privé-buitenruimten:*  | --- |
-| --- | --- |
-| tot 25 m <sup>2</sup>  | 2 punten  |
-| 25 tot 50 m <sup>2</sup>  | 4 punten  |
-| 50 tot 75 m <sup>2</sup>  | 6 punten  |
-| 75 tot 100 m <sup>2</sup>  | 8 punten  |
-| 100 m en meer  | 10 tot 15 punten  |
-| indien in het geheel géén privé-buitenruimte:  | af: 5 punten  |
-| carport  | 2 punten  |
-| --- | --- |
-| 9. *Woonvorm:*  | --- |
-| --- | --- |
-|  *Eengezinshuizen:*   | --- |
-| --- | --- |
-| vrijstaande woning  | 17 punten  |
-| hoekwoning  | 15 punten  |
-| tussenwoning/eindwoning  | 12 punten  |
-| --- | --- | --- | --- |
-|  *Woningen in meergezinshuizen:*   |  *met lift*   | --- |  *zonder lift*   |
-| --- | --- | --- | --- |
-| begane grond  | 6 punten  | --- | 6 punten  |
-| 1e verdieping  | 5 punten  | --- | 3 punten  |
-| 2e verdieping  | 4 punten  | --- | 1 punten  |
-| 3e verdieping  | 4 punten  | --- | 0 punten  |
-| 4e verdieping en hoger  | 4 punten  | --- | 0 punten  |
-| --- | --- | --- | --- |
-| 16 of minder woningen per liftschacht  | 2 punten per woning extra  |
-| --- | --- | --- | --- |
-| *Duplex:* bovenwoning  | 1 punt  | --- | --- |
-| benedenwoning  | 4 punten  | --- | --- |
-| --- | --- | --- | --- |
-| 10. *Woonomgeving:*  | ten hoogste 25 punten  | --- | --- |
-| --- | --- | --- | --- |
-| 11. *Hinderlijke situaties:*  | af ten hoogste 40 punten  | --- | --- |
-| --- | --- | --- | --- |
-| 12. *Bijzondere voorzieningen:*  | --- | --- | --- |
-| Uitsluitend bij serviceflatwoningen:  | bij: 35% van de ingevolge de onderdelen 1 tot en met 11 toegekende punten.  |
+| --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|
+| 1. *Oppervlakte van vertrekken:*  | 1 punt per m <sup>2</sup>  | --- |
+| --- | --- | --- |
+| 2. *Oppervlakte van overige ruimten:* (berging, zolder, garage)  | 3/4 punt per m <sup>2</sup>  | --- |
+| --- | --- | --- |
+| 3. Verwarming:  | --- | --- |
+| --- | --- | --- |
+| per verwarmd vertrek  | 2 punten  | --- |
+| per overige ruimte  | 1 punt *  | --- |
+| --- | --- | --- |
+| 4. Energieprestatie overeenkomend met:  | Eengezinswoning  | Meergezinswoning**  |
+| label A++  | 44  | 40  |
+| label A+  | 40  | 36  |
+| label A  | 36  | 32  |
+| label B  | 32  | 28  |
+| label C  | 22  | 15  |
+| label D  | 14  | 11  |
+| label E  |  8  |  5  |
+| label F  |  4  |  1  |
+| label G  |  0  |  0  |
+| --- | --- | --- |
+| Daar waar het energieprestatiecertificaat ontbreekt wordt de energieprestatie in afwijking van vorenstaande tabel bepaald aan de hand van de volgende tabel:  | --- | --- |
+| --- | --- | --- |
+| Bouwjaarklasse  | Eensgezinswoning  | Meergezinswoning**  |
+| 2002 en later  | 36 punten  | 32 punten  |
+| 2000 t/m 2001  | 32 punten  | 28 punten  |
+| 1998 t/m 1999  | 22 punten  | 15 punten  |
+| 1992 t/m 1997  | 22 punten  | 11 punten  |
+| 1984 t/m 1991  | 14 punten  | 11 punten  |
+| 1979 t/m 1983  |  8 punten  |  5 punten  |
+| 1977 t/m 1978  |  4 punten  |  1 punt  |
+| 1976 of ouder  |  0 punten  |  0 punten  |
+| --- | --- | --- |
+| 5. *Keuken:*  | --- | --- |
+| --- | --- | --- |
+| lengte aanrecht: minder dan 1 m  | 0 punten  | --- |
+| 1 tot 2 m  | 4 punten***  | --- |
+| 2m en meer  | 7 punten***  | --- |
+| --- | --- | --- |
+| 6. *Sanitair:*  | --- | --- |
+| --- | --- | --- |
+| toilet  | 3 punten  | --- |
+| wastafel  | 1 punt  | --- |
+| douche  | 4 punten***  | --- |
+| bad  | 6 punten***  | --- |
+| bad/douche  | 7 punten***  | --- |
+| --- | --- | --- |
+| 7. Woonvoorzieningen voor gehandicapten per € 226,89 van de kosten die de verhuurder aan de voorziening heeft besteed  | 1 punt  |
+| --- | --- | --- |
+| 8. *Privé-buitenruimten:*  | --- | --- |
+| --- | --- | --- |
+| tot 25 m <sup>2</sup>  | 2 punten  | --- |
+| 25 tot 50 m <sup>2</sup>  | 4 punten  | --- |
+| 50 tot 75 m <sup>2</sup>  | 6 punten  | --- |
+| 75 tot 100 m <sup>2</sup>  | 8 punten  | --- |
+| 100 m en meer  | 10 tot 15 punten  | --- |
+| indien in het geheel géén privé-buitenruimte:  | af: 5 punten  | --- |
+| carport  | 2 punten  | --- |
+| --- | --- | --- |
+| 9. *Woonvorm:*  | --- | --- |
+| --- | --- | --- |
+|  *Eengezinshuizen:*   | --- | --- |
+| --- | --- | --- |
+| vrijstaande woning  | 17 punten  | --- |
+| hoekwoning  | 15 punten  | --- |
+| tussenwoning/eindwoning  | 12 punten  | --- |
+| --- | --- | --- | --- | --- |
+|  *Woningen in meergezinshuizen:*   |  *met lift*   | --- |  *zonder lift*   | --- |
+| --- | --- | --- | --- | --- |
+| begane grond  | 6 punten  | --- | 6 punten  | --- |
+| 1e verdieping  | 5 punten  | --- | 3 punten  | --- |
+| 2e verdieping  | 4 punten  | --- | 1 punten  | --- |
+| 3e verdieping  | 4 punten  | --- | 0 punten  | --- |
+| 4e verdieping en hoger  | 4 punten  | --- | 0 punten  | --- |
+| --- | --- | --- | --- | --- |
+| 16 of minder woningen per liftschacht  | 2 punten per woning extra  | --- |
+| --- | --- | --- | --- | --- |
+| *Duplex:* bovenwoning  | 1 punt  | --- | --- | --- |
+| benedenwoning  | 4 punten  | --- | --- | --- |
+| --- | --- | --- | --- | --- |
+| 10. *Woonomgeving:*  | ten hoogste 25 punten  | --- | --- | --- |
+| --- | --- | --- | --- | --- |
+| 11. *Hinderlijke situaties:*  | af ten hoogste 40 punten  | --- | --- | --- |
+| --- | --- | --- | --- | --- |
+| 12. *Bijzondere voorzieningen:*  | --- | --- | --- | --- |
+| Uitsluitend bij serviceflatwoningen:  | bij: 35% van de ingevolge de onderdelen 1 tot en met 11 toegekende punten.  | --- |
+
+* maximaal 4 punten ** voor de energieprestatie wordt de duplexwoning gewaardeerd als meergezinswoning *** maximaal verdubbeling in verband met kwaliteitsbijtelling (zie toelichting) 
 
 ####Toelichting behorende bij bijlage I, onder A , het waarderingsstelsel voor woonruimte welke een zelfstandige woning vormt
 
 ####Inleiding
 
-Deze toelichting op het woningwaarderingsstelsel vormt een integraal onderdeel van dat stelsel. Het woningwaarderingsstelsel heeft op zelfstandige woonruimte betrekking, in het navolgende kortweg als 'woning' aangeduid. Hierbij zij opgemerkt dat in [artikel 234 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zelfstandige woningen worden omschreven als woningen met een eigen toegang welke de bewoner kan bewonen zonder daarbij afhankelijk te zijn van wezenlijke voorzieningen buiten de woning. Binnen het in [artikel 234 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) omschreven begrip zelfstandige woning zal redelijkerwijs ook begrepen kunnen worden de zogenaamde onvrije woning, te weten een woning waarbij de bewoner voor wezenlijke voorzieningen niet afhankelijk is van gemeenschappelijke voorzieningen, maar waarbij verscheidene vertrekken uitkomen op een gemeenschappelijke verkeersruimte. Indien deze vertrekken afsluitbaar zijn en bereikbaar via een gemeenschappelijke verkeersruimte waarover anderen niet krachtens zakelijk of persoonlijk recht bij uitsluiting zeggenschap hebben, wordt deze woning als zelfstandige woning gewaardeerd. Tot het gehuurde behorende vertrekken, overige ruimten en voorzieningen (verwarming, isolatie, sanitair), die buiten de woning, doch binnen het woongebouw zijn gelegen, worden overeenkomstig dit woningwaarderingsstelsel gewaardeerd, mits het mogelijk is het gebruik ervan door derden uit te sluiten. Gemeenschappelijke vertrekken, overige ruimten, of voorzieningen (verwarming, isolatie, keuken of sanitair) voor verscheidene zelfstandige woningen, welke binnen het woongebouw zijn gelegen, worden overeenkomstig het woningwaarderingsstelsel gewaardeerd; de punten worden evenredig over het aantal zelfstandige woningen binnen het woongebouw verdeeld, ongeacht de grootte van de afzonderlijke woningen. Alleen die onderdelen worden in punten gewaardeerd, die tot de onroerende zaak behoren. Door de bewoner onverplicht en voor eigen rekening aangebrachte verbeteringen worden niet met punten gewaardeerd, tenzij de verhuurder voor deze verbeteringen een vergoeding aan de huurder heeft verstrekt. Ten behoeve van een gehandicapte kunnen in of aan een woonruimte ingrepen als bedoeld in [artikel 5, derde lid, van de Wet voorzieningen gehandicapten](../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md) worden verricht. Ook kunnen ten behoeve van een gehandicapte in of aan de woonruimte ingrepen worden verricht die uitsluitend geen woonvoorziening of onderdeel daarvan zijn als bedoeld in [artikel 1, eerste lid, onder c, van die wet](../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md), omdat de totale kosten het in laatstgenoemd onderdeel genoemde bedrag (1995: € 20 420,11) te boven gaan. Indien in de kosten van dergelijke ingrepen door de gemeente ter uitvoering van de [Wet voorzieningen gehandicapten](../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md), dan wel door enige instantie ter uitvoering van een wettelijke regeling met betrekking tot ingrepen van meer dan voornoemd bedrag, een financiële toegemoetkoming wordt verleend, en ook de verhuurder een deel van die ingrepen heeft bekostigd, kan op grond van onderdeel 6a van het woningwaarderingsstelsel aan die ingrepen een waardering worden toegekend. Deze waardering is gerelateerd aan de door de verhuurder aan de ingrepen bestede kosten. Indien het ingrepen betreft, waarvoor geldelijke steun uit ’s Rijks kas is verstrekt op voet van een voor het tijdstip van inwerkingtreding van genoemde wet (1 april 1994) geldend voorschrift, mag het verrichten van deze ingrepen niet leiden tot lagere of hogere puntentoekenning zolang de woning door de gehandicapte wordt bewoond. Indien er sprake is van een serviceflatwoning - de begripsomschrijving is opgenomen onder punt 12 van deze toelichting - wordt het puntentotaal van de waardering volgens de onderdelen 1 tot en met 11 van het woningwaarderingsstelsel met een percentage van 35 verhoogd. Deze verhoging wordt gegeven vanwege het medegebruik door de huurders van dergelijke woningen van de in het woongebouw en de daarbij behorende onroerende aanhorigheden aanwezige voorzieningen, hetwelk in de waardering van de kwaliteit van de serviceflatwoning volgens de onderdelen 1 tot en met 11 onvoldoende tot zijn recht komt.  
+Deze toelichting op het woningwaarderingsstelsel vormt een integraal onderdeel van dat stelsel. Het woningwaarderingsstelsel heeft op zelfstandige woonruimte betrekking, in het navolgende kortweg als 'woning' aangeduid. Hierbij zij opgemerkt dat in [artikel 234 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zelfstandige woningen worden omschreven als woningen met een eigen toegang welke de bewoner kan bewonen zonder daarbij afhankelijk te zijn van wezenlijke voorzieningen buiten de woning. Binnen het in [artikel 234 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) omschreven begrip zelfstandige woning zal redelijkerwijs ook begrepen kunnen worden de zogenaamde onvrije woning, te weten een woning waarbij de bewoner voor wezenlijke voorzieningen niet afhankelijk is van gemeenschappelijke voorzieningen, maar waarbij verscheidene vertrekken uitkomen op een gemeenschappelijke verkeersruimte. Indien deze vertrekken afsluitbaar zijn en bereikbaar via een gemeenschappelijke verkeersruimte waarover anderen niet krachtens zakelijk of persoonlijk recht bij uitsluiting zeggenschap hebben, wordt deze woning als zelfstandige woning gewaardeerd. Tot het gehuurde behorende vertrekken, overige ruimten en voorzieningen (verwarming en sanitair), die buiten de woning, doch binnen het woongebouw zijn gelegen, worden overeenkomstig dit woningwaarderingsstelsel gewaardeerd, mits het mogelijk is het gebruik ervan door derden uit te sluiten. Gemeenschappelijke vertrekken, overige ruimten, of voorzieningen (verwarming, keuken of sanitair) voor verscheidene zelfstandige woningen, welke binnen het woongebouw zijn gelegen, worden overeenkomstig het woningwaarderingsstelsel gewaardeerd; de punten worden evenredig over het aantal zelfstandige woningen binnen het woongebouw verdeeld, ongeacht de grootte van de afzonderlijke woningen. Alleen die onderdelen worden in punten gewaardeerd, die tot de onroerende zaak behoren. Door de bewoner onverplicht en voor eigen rekening aangebrachte verbeteringen worden niet met punten gewaardeerd, tenzij de verhuurder voor deze verbeteringen een vergoeding aan de huurder heeft verstrekt. Indien er sprake is van een serviceflatwoning - de begripsomschrijving is opgenomen onder punt 12 van deze toelichting - wordt het puntentotaal van de waardering volgens de onderdelen 1 tot en met 11 van het woningwaarderingsstelsel met een percentage van 35 verhoogd. Deze verhoging wordt gegeven vanwege het medegebruik door de huurders van dergelijke woningen van de in het woongebouw en de daarbij behorende onroerende aanhorigheden aanwezige voorzieningen, hetwelk in de waardering van de kwaliteit van de serviceflatwoning volgens de onderdelen 1 tot en met 11 onvoldoende tot zijn recht komt.  
 
 ### 1  
 
@@ -215,27 +228,13 @@ Overige ruimten geen (speel)hallen, gangen, verkeersruimten en/of overlopen zijn
 
 ####Verwarming
 
-Per verwarmd vertrek wordt, ongeacht de verwarmingswijze, een waardering van twee punten toegepast, voorzover de verwarming tot de onroerende zaak en zijn onroerende aanhorigheden behoort. Alleen die vertrekken worden in dit kader meegeteld, die met punten als vertrek zijn gewaardeerd. Open keukens, of vertrekken die met een schuifwand met elkaar in verbinding staan, worden als afzonderlijk vertrek geteld. De waardering van twee punten is ook van toepassing bij stadsverwarmingsinstallaties, indien uitsluitend in de huurprijs een vergoeding voor de aansluiting op de stadsverwarming is begrepen. Indien buiten de huurprijs door de huurder, rechtstreeks aan het stadsverwarmingsbedrijf, of met tussenkomst van de verhuurder in de servicekosten, een vergoeding voor die aansluiting wordt betaald, wordt per vertrek een waardering van 1½ punt toegepast. Indien de woning een individuele centrale verwarmingsinstallatie heeft, worden 3 punten extra berekend. Bij een hoog-rendementsketel bedraagt deze toeslag 5 punten. Bij een collectieve hoog-rendements verwarmingsinstallatie wordt een toeslag van 1 punt per woning gegeven. Onder een hoog-rendements verwarmingsketel wordt een ketel verstaan die voorzien is van het bijzondere GIVEG merk met de letters HR, dan wel ketels met een belasting van meer dan 660 kW op bovenwaarde, waarvan door een door het VEG-Gasinstituut NV aangewezen instantie een verklaring is opgesteld dat deze voldoet aan vergelijkbare rendementseisen van een GIVEG HR-ketel. Bij collectieve verwarmingsinstallaties wordt een toeslag van 1 punt per woning gegeven, indien er een tot de onroerende zaak behorende meter aanwezig is waardoor per woning zowel de doorgestroomde hoeveelheid als de warmteafgifte wordt gemeten. Voor de regelbaarheid van de temperatuur per vertrek door middel van thermostatische ventielen wordt een kwart punt per vertrek extra gegeven tot in totaal maximaal twee punten. Verwarmingselementen buiten vertrekken doch binnen de woning en zijn onroerende aanhorigheden, zoals radiatoren, vloerverwarming, of uitstroomopeningen voor hete lucht in een gang of een garage, kunnen worden gewaardeerd met een punt per ruimte, tot in totaal een maximum van vier punten per woning. Voor een c.v. in combinatie met een warmwatervoorziening waarvoor in de (kale) huur een vergoeding is begrepen (c.v.-combi), wordt een punt extra per woning gegeven. Bij een collectieve warmwater-voorziening vindt deze puntentoeslag slechts plaats, voorzover een verbruiksmeting per woning wordt toegepast.  
+Per verwarmd vertrek wordt, ongeacht de verwarmingswijze, een waardering van twee punten toegepast, voorzover de verwarming tot de onroerende zaak en zijn onroerende aanhorigheden behoort. Alleen die vertrekken worden in dit kader meegeteld, die met punten als vertrek zijn gewaardeerd. Open keukens, of vertrekken die met een schuifwand met elkaar in verbinding staan, worden als afzonderlijk vertrek geteld. De waardering van twee punten is ook van toepassing bij stadsverwarmingsinstallaties, indien uitsluitend in de huurprijs een vergoeding voor de aansluiting op de stadsverwarming is begrepen. Indien buiten de huurprijs door de huurder, rechtstreeks aan het stadsverwarmingsbedrijf, of met tussenkomst van de verhuurder in de servicekosten, een vergoeding voor die aansluiting wordt betaald, wordt per vertrek een waardering van 1½ punt toegepast. Voor de regelbaarheid van de temperatuur per vertrek door middel van thermostatische ventielen wordt een kwart punt per vertrek extra gegeven tot in totaal maximaal twee punten. Bij een collectieve warmwater-voorziening vindt deze puntentoeslag slechts plaats, voorzover een verbruiksmeting per woning wordt toegepast.  
 
 ### 4  
 
-####Warmte-isolatie
+####Energieprestatie
 
-Voor warmte-isolatie worden ten hoogste 15 punten toegekend. De puntenwaardering dient in overeenstemming te zijn met de gemaakte kosten, voorzover die in redelijke verhouding staan tot de geleverde kwaliteit (per punt € 226,89 van de oorspronkelijke investering). Indien de isolatie voldoet aan de norm die in het kader van het Nationaal Isolatie Programma (de zogenaamde 'NIP' norm) is ontwikkeld, wordt de waardering redelijk geacht. In dit kader kan eenvoudigheidshalve veelal de volgende puntenwaardering worden toegepast:  
-
-| --- | --- |
-|:---|:---|
-| Dubbelglas  | 0,4 punt per m <sup>2</sup>  |
-| Spouwisolatie  | 1 punt per woning  |
-| Vloerisolatie  | 2 punten per woning  |
-| Dakisolatie  | 2 punten per woning  |
-| Gevelisolatie aan de buitenzijde  | 6 punten per woning  |
-
-Afronding van de oppervlakte van het isolatieglas vindt plaats na saldering van de oppervlakte van alle geisoleerde ramen op hele m <sup>2</sup>; bij 0,5 m <sup>2</sup> of meer wordt afgerond naar boven, bij minder dan 0,5 m <sup>2</sup> naar beneden. Waardering in punten vindt na saldering en afronding plaats. Deze waardering is van toepassing op woningen zowel in eengezins- als meergezinshuizen. Bij woningen in meergezinshuizen wordt het aantal punten van vloer-, dak-, of kopgevelisolatie aan de buitenzijde berekend naar het aantal woningen waarbij de isolatievoorzieningen zijn aangebracht; deze punten worden omgeslagen over alle woningen die tot het meergezinshuis behoren.  
-
-####Technische vereisten
-
-De isolatie moet voldoen aan bepaalde technische vereisten. De technische vereisten zijn gelijk aan die welke zijn vermeld in de Beschikking geldelijke steun warmte-isolatie bestaande woningen (*Stcrt.* 1984, 220). Samengevat komt het erop neer dat isolerende beglazing tenminste in de woonkamer en daarmee in open verbinding staande ruimte moet zijn aangebracht. Andere isolatievormen aan dak, buitenmuur of begane grondvloer moeten een R-waarde hebben van 1,3 m <sup>2</sup> K/W of deze waarde zo goed mogelijk benaderen. De R-waarde dient te worden bepaald volgens de norm NEN 1068-1981 'Thermische isolatie van woongebouwen'. Bij woningen van bouwjaar 1981 of eerder kunnen voor isolatie kwaliteitspunten worden toegekend indien deze isolatie voldoet aan de gestelde kwaliteitseisen, klasse 'goed', volgens de norm NEN 1068-1964.  
+De huurcommissie stelt de energieprestatie in beginsel vast aan de hand van een op grond van artikel 120 van de Woningwet en het Besluit energieprestatie gebouwen voor de woning afgegeven energieprestatiecertificaat. De huurcommissie kan afwijken van de aangegeven puntenwaardering voor de energieprestatie horend bij A+ en A++. Een dergelijke afwijking is uitsluitend mogelijk indien de gemaakte kosten om deze energieprestatie te bereiken, aanmerkelijk afwijken van hetgeen als gangbaar wordt beschouwd, of indien de energieprestatie aanmerkelijk beter is dan hetgeen als gangbaar bij A++ wordt beschouwd. Daar waar een energieprestatiecertificaat ontbreekt, wordt volstaan met de waardering van de energieprestatie die een woning geacht wordt minimaal te realiseren op grond van de in het bouwjaar vigerende bouwnormen. Daardoor leidt het niet aanwezig zijn van een energieprestatiecertificaat tot een lager aantal punten dan wanneer zo’n certificaat wel is verstrekt. Immers, het waarderen van de energieprestatie uitgaande van het bouwjaar van de woning houdt geen rekening met het feit dat de energieprestatie van veel woningen door het treffen van energiebesparende voorzieningen in de loop der tijd verbetert. Die verbeteringen komen in een energieprestatiecertificaat wel tot uitdrukking.  
 
 ### 5  
 
@@ -249,15 +248,11 @@ De waardering van de keukeninstallatie wordt bepaald naar de lengte van het aanr
 
 De waardering van het sanitair wordt bepaald op grond van de aanwezigheid van bepaalde voorzieningen. Aan het toilet met waterspoeling, geplaatst in een daartoe bestemde ruimte, worden, indien het toilet binnen het woongebouw is gelegen, 3 punten toegekend. Als douche moet worden meegeteld iedere door de verhuurder aangebrachte installatie voor het nemen van een stortbad. Baden worden met 6 punten gewaardeerd, ongeacht de lengte van het bad. Indien een bad tevens is voorzien van een (hand)douche, dient het douche-garnituur niet afzonderlijk geteld te worden. Indien in de badruimte behalve het bad tevens een afzonderlijke douche is aangebracht, geldt een waardering van 7 punten. Bij bad- of doucheruimten wordt als voorwaarde voor het toekennen van punten gesteld, dat de wand- en vloerafwerking voldoende waterdicht is, dat er aansluitingspunten voor warm en koud water zijn, dat de douche tevens is voorzien van douchegarnituur. Indien in de bad- of doucheruimte een toilet is geplaatst wordt dit toilet volledig gewaardeerd; de oppervlakte van de ruimte wordt echter met één vierkante meter verminderd. Als wastafels worden alle bakken geteld voor wassen en spoelen, die op de waterleiding en op het huisriool zijn aangesloten, met uitzondering van die waarboven een douche is aangebracht, en met uitzondering van het bad en van de spoelbakken in een keukenaanrecht. Een bidet telt als een wastafel. Een lavet telt als wastafel, tenzij deze is voorzien van aansluitpunten voor warm en koud water en van een douchegarnituur; dan vindt een waardering plaats met vier punten. Indien het sanitair en/of de afwerking van de bad- of doucheruimte een kwaliteitsniveau heeft dat het ten tijde van de woningwaardering bij woningwetwoningen gangbare overschrijdt, kunnen extra kwaliteitspunten worden toegekend tot maximaal het aantal punten dat reeds voor de douche en/of bad is bepaald. Per € 226,89 van de oorspronkelijke investering, die gedaan is om de extra kwaliteit te realiseren, voorzover de investering in redelijke verhouding staat tot de geboden extra kwaliteit, kan 1 punt worden toegekend.  
 
-### 6a  
-
-####Voorzieningen als bedoeld in [artikel 255, eerste lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) (woonvoorzieningen voor gehandicapten)
-
-Per € 226,89 van door de verhuurder aan ingrepen in of aan de woonruimte ten behoeve van een gehandicapte bestede kosten kan, voor zover deze kosten in een redelijke verhouding staan tot de geboden kwaliteit, één punt worden toegekend. Het moet dan wel gaan om ofwel ingrepen als bedoeld in [artikel 5, derde lid, van de Wet voorzieningen gehandicapten](../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md) ofwel ingevolge een andere wettelijke regeling gesubsidieerde ingrepen die uitsluitend geen woonvoorziening of onderdeel daarvan zijn in de zin van artikel 1, eerste lid, onder c, van genoemde wet, omdat de kosten het in laatstbedoeld artikel genoemde bedrag te boven gaan. Met deze waardering verkrijgt de verhuurder in een dergelijk geval een redelijke rendementswaarborg voor het door hem geïnvesteerde vermogen (derhalve de kosten van de ingrepen, verminderd met de eigen bijdrage van de huurder en de financiële tegemoetkoming van gemeente of (bij dure woonvoorzieningen) enige instantie die ingevolge een wettelijke regeling die tegemoetkoming verleent).  
-
 ### 7  
 
-Vervallen. 
+####Voorzieningen als bedoeld in [artikel 255, eerste lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) (woonvoorzieningen voor gehandicapten):
+
+Per € 226,89 van door de verhuurder aan ingrepen in of aan de woonruimte ten behoeve van een gehandicapte bestede kosten kan, voor zover deze kosten in een redelijke verhouding staan tot de geboden kwaliteit, één punt worden toegekend. Het moet dan wel gaan om ofwel ingrepen als bedoeld in [artikel 1, eerste lid, onder g, onderdeel 6°, van de Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md), ofwel ingrepen als bedoeld in [artikel 5, derde lid, van de Wet voorzieningen gehandicapten](../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md) (inmiddels ingetrokken) ofwel ingevolge een andere wettelijke regeling gesubsidieerde ingrepen die uitsluitend geen woonvoorziening of onderdeel daarvan zijn in de zin van [artikel 1, eerste lid, onder c, van de Wet voorzieningen gehandicapten](../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md), omdat de kosten het in laatstbedoeld artikel genoemde bedrag te boven gaan. Met deze waardering verkrijgt de verhuurder in een dergelijk geval een redelijke rendementswaarborg voor het door hem geïnvesteerde vermogen (derhalve de kosten van de ingrepen, verminderd met de eigen bijdrage van de huurder en de financiële tegemoetkoming van gemeente of (bij dure woonvoorzieningen) enige instantie die ingevolge een wettelijke regeling die tegemoetkoming verleent).  
 
 ### 8  
 
@@ -344,7 +339,7 @@ Geluidsoverlast kan leiden tot een aftrek van maximaal 35 punten, voorzover deze
 
 ####Puntenaftrek in verband met geluidsoverlast
 
-| Geluidsbelasting aan de gevel  | Weg  <sup> *   De geluidsbelasting van de weg is exclusief de aftrek op grond van artikel 110g Wet geluidhinder.    </sup> | Spoor  | Industrie  | Vliegverkeer  |
+| Geluidsbelasting aan de gevel  | Weg*  | Spoor  | Industrie  | Vliegverkeer  |
 |---|---|---|---|---|
 | 51 tot en met 55 dB(A)  | –  | –  |  2  | --- |
 | 56 tot en met 60 dB(A)  | –  | –  |  5  | --- |
@@ -359,7 +354,7 @@ Geluidsoverlast kan leiden tot een aftrek van maximaal 35 punten, voorzover deze
 | 56 tot en met 65 ke  | --- | --- | --- | 15  |
 | meer dan 65 ke  | --- | --- | --- | 35  |
 
-Bij hinder van meer dan één geluidsbron wordt de aftrek gekozen van de bron die tot de hoogste puntenaftrek leidt. De aftrek in verband met wegverkeer geldt alleen bij wegen met een verkeersintensiteit van ten minste gemiddeld 2400 voertuigen per etmaal. Bij een geluidsbelasting aan de gevel van woningen met een puntenaftrek volgens bovenstaande tabel kunnen maatregelen zijn dan wel worden getroffen om de geluidsoverlast van de woningen te beperken. Indien als gevolg van deze maatregelen het geluidsniveau binnen de woningen minder dan 43 dB voor weg- en spoorweglawaai en minder dan 33 dB voor industrielawaai bedraagt, wordt de puntenaftrek gehalveerd.  
+* De geluidsbelasting van de weg is exclusief de aftrek op grond van artikel 110g Wet geluidhinder. Bij hinder van meer dan één geluidsbron wordt de aftrek gekozen van de bron die tot de hoogste puntenaftrek leidt. De aftrek in verband met wegverkeer geldt alleen bij wegen met een verkeersintensiteit van ten minste gemiddeld 2400 voertuigen per etmaal. Bij een geluidsbelasting aan de gevel van woningen met een puntenaftrek volgens bovenstaande tabel kunnen maatregelen zijn dan wel worden getroffen om de geluidsoverlast van de woningen te beperken. Indien als gevolg van deze maatregelen het geluidsniveau binnen de woningen minder dan 43 dB voor weg- en spoorweglawaai en minder dan 33 dB voor industrielawaai bedraagt, wordt de puntenaftrek gehalveerd.  
 
 ####Stadsvernieuwingsaftrek
 
@@ -407,20 +402,20 @@ Het puntentotaal per woning wordt na eindsaldering (met inbegrip van de bij serv
 
 |--- |--- | Punten  |
 |:---|:---|:---|
-| 1.  | – *Oppervlakte* van kamer(s) en van een keuken, behorende uitsluitend tot de onzelfstandige woonruimte per m <sup>2</sup>  <sup> 1   Als oppervlakte van een vertrek met een (ten dele) hellend of verlaagd plafond geldt dat gedeelte, waarboven het plafond tenminste 1,50 meter hoog is.    </sup> | 5  |
+| 1.  | – *Oppervlakte*<sup>1</sup> van kamer(s) en van een keuken, behorende uitsluitend tot de onzelfstandige woonruimte per m <sup>2</sup>  | 5  |
 | --- | --- | 5, te delen door het aantal woonruimten  |
 | --- | – Oppervlakte van verwarmde, gemeenschappelijke verblijfsruimten, waaronder begrepen een woonkeuken, van minstens 15 m <sup>2</sup> per m <sup>2</sup>  | --- |
 | 2.  |  *Verwarmingsmogelijkheden*   | --- |
-| --- | – Bij aanwezigheid van CV, per m <sup>2</sup> oppervlakte verwarmde kamer(s) en keuken, behorende uitsluitend tot de onzelfstandige woonruimte  <sup> 2   Afronding: bij 0,5 m <sup>2</sup> of meer naar boven, bij minder dan 0,5 m <sup>2</sup> naar beneden.    </sup> | 3/4  |
+| --- | – Bij aanwezigheid van CV, per m <sup>2</sup><sup>2</sup> oppervlakte verwarmde kamer(s) en keuken, behorende uitsluitend tot de onzelfstandige woonruimte  | 3/4  |
 | --- | – Bij aanwezigheid van een gasaansluiting en tevens een schoorsteen of rookgasafvoerkanaal voor gaskachel(s)  | 3  |
 | --- | – Bij aanwezigheid van uitsluitend een bruikbare schoorsteen  | 0  |
 | 3.  |  *Kookgelegenheid*   | --- |
-| --- | – Een keuken in een afzonderlijk vertrek, behorende uitsluitend tot de onzelfstandige woonruimte, of een keuken in een woonvertrek, behorende uitsluitend tot de onzelfstandige woonruimte, indien dit vertrek tenminste 25 m <sup>2</sup> meet  <sup> 3   Onder 'keuken' te verstaan een aanrecht van minstens 1 meter lengte met onderkast, warm en koud water, plaatsingsmogelijkheid en aansluiting voor een kooktoestel, en plaatsingsmogelijkheid en geaarde aansluiting voor een koelkast, het geheel voorzien van een ventilatiemogelijkheid.    </sup> <sup> 3   Onder 'keuken' te verstaan een aanrecht van minstens 1 meter lengte met onderkast, warm en koud water, plaatsingsmogelijkheid en aansluiting voor een kooktoestel, en plaatsingsmogelijkheid en geaarde aansluiting voor een koelkast, het geheel voorzien van een ventilatiemogelijkheid.    </sup> <sup> 2   Afronding: bij 0,5 m <sup>2</sup> of meer naar boven, bij minder dan 0,5 m <sup>2</sup> naar beneden.    </sup> | 20  |
-| --- | – Een keuken in een woonvertrek, behorende uitsluitend tot de onzelfstandige woonruimte, indien dit vertrek minder dan 25 m <sup>2</sup>, doch meer dan 15 m <sup>2</sup> meet  <sup> 3   Onder 'keuken' te verstaan een aanrecht van minstens 1 meter lengte met onderkast, warm en koud water, plaatsingsmogelijkheid en aansluiting voor een kooktoestel, en plaatsingsmogelijkheid en geaarde aansluiting voor een koelkast, het geheel voorzien van een ventilatiemogelijkheid.    </sup> <sup> 2   Afronding: bij 0,5 m <sup>2</sup> of meer naar boven, bij minder dan 0,5 m <sup>2</sup> naar beneden.    </sup> <sup> 2   Afronding: bij 0,5 m <sup>2</sup> of meer naar boven, bij minder dan 0,5 m <sup>2</sup> naar beneden.    </sup> | 10  |
-| --- | – Een keuken , behorende uitsluitend tot de onzelfstandige woonruimte, doch gelegen in een gemeenschappelijk vertrek  <sup> 3   Onder 'keuken' te verstaan een aanrecht van minstens 1 meter lengte met onderkast, warm en koud water, plaatsingsmogelijkheid en aansluiting voor een kooktoestel, en plaatsingsmogelijkheid en geaarde aansluiting voor een koelkast, het geheel voorzien van een ventilatiemogelijkheid.    </sup> | 10  |
-| --- | – Een gemeenschappelijke keuken , behorende bij niet meer dan 5 wooneenheden  <sup> 3   Onder 'keuken' te verstaan een aanrecht van minstens 1 meter lengte met onderkast, warm en koud water, plaatsingsmogelijkheid en aansluiting voor een kooktoestel, en plaatsingsmogelijkheid en geaarde aansluiting voor een koelkast, het geheel voorzien van een ventilatiemogelijkheid.    </sup> | 4  |
+| --- | – Een keuken <sup>3</sup> in een afzonderlijk vertrek, behorende uitsluitend tot de onzelfstandige woonruimte, of een keuken <sup>3</sup> in een woonvertrek, behorende uitsluitend tot de onzelfstandige woonruimte, indien dit vertrek tenminste 25 m <sup>2</sup><sup>2</sup> meet  | 20  |
+| --- | – Een keuken <sup>3</sup> in een woonvertrek, behorende uitsluitend tot de onzelfstandige woonruimte, indien dit vertrek minder dan 25 m <sup>2</sup><sup>2</sup>, doch meer dan 15 m <sup>2</sup><sup>2</sup> meet  | 10  |
+| --- | – Een keuken <sup>3</sup>, behorende uitsluitend tot de onzelfstandige woonruimte, doch gelegen in een gemeenschappelijk vertrek  | 10  |
+| --- | – Een gemeenschappelijke keuken <sup>3</sup>, behorende bij niet meer dan 5 wooneenheden  | 4  |
 | --- | – Een gemeenschappelijke kookgelegenheid, behorende bij meer dan 5 wooneenheden  | 0  |
-| --- | – Een kookgelegenheid die niet aan de vereisten van een keuken voldoet  <sup> 3   Onder 'keuken' te verstaan een aanrecht van minstens 1 meter lengte met onderkast, warm en koud water, plaatsingsmogelijkheid en aansluiting voor een kooktoestel, en plaatsingsmogelijkheid en geaarde aansluiting voor een koelkast, het geheel voorzien van een ventilatiemogelijkheid.    </sup> | 0  |
+| --- | – Een kookgelegenheid die niet aan de vereisten van een keuken <sup>3</sup> voldoet  | 0  |
 | 4.  |  *Toilet*   | --- |
 | --- | – Een w.c., behorende uitsluitend tot de onzelfstandige woonruimte  | 12  |
 | --- | – Een gemeenschappelijke w.c., behorende tot niet meer dan 5 wooneenheden  | 2  |
@@ -451,6 +446,8 @@ Het puntentotaal per woning wordt na eindsaldering (met inbegrip van de bij serv
 | --- | *k.* Wanneer het laagste raamkozijn van het (hoofd)woonvertrek meer dan 1,60 m boven de vloer is  | – 10  |
 | --- | *l.* Wanneer tegenover het (grootste) raam van het (hoofd)woonvertrek een gevelwand ligt binnen een afstand van 5 meter  | – 10  |
 | --- | *m.* Indien in de onzelfstandige woonruimte en bovendien in de gemeenschappelijke ruimten geen warme maaltijden mogen worden bereid  | – 20  |
+
+<sup>1</sup> Als oppervlakte van een vertrek met een (ten dele) hellend of verlaagd plafond geldt dat gedeelte, waarboven het plafond tenminste 1,50 meter hoog is. <sup>2</sup> Afronding: bij 0,5 m <sup>2</sup> of meer naar boven, bij minder dan 0,5 m <sup>2</sup> naar beneden. <sup>3</sup> Onder 'keuken' te verstaan een aanrecht van minstens 1 meter lengte met onderkast, warm en koud water, plaatsingsmogelijkheid en aansluiting voor een kooktoestel, en plaatsingsmogelijkheid en geaarde aansluiting voor een koelkast, het geheel voorzien van een ventilatiemogelijkheid.  
 
 ### C  
 
@@ -605,11 +602,13 @@ In onderstaand overzicht zijn de afzonderlijke aspecten verwerkt, die geleid heb
 | 5. Keuken  | 4  | 4  | 4  | 4  | 4  | 4  | 4  | –  | –  |
 | 6. Sanitair  | –  | –  | –  | –  | 8  | 8  | 8  | 8  | –  |
 | 7. Privé-buitenruimten en woonvorm.  | –  | –  | –  | --- | –  | –  | –  | 18/25/32  | 18/25/32  |
-| I. Basiswaardering  | 38  | 44  | 49  | 55  | 52  | 57  | 63  | 39/46/53  <sup> 1   Respectievelijk voor standplaatsen met een oppervlakte, kleiner dan 145m2, of met een oppervlakte van 145m2 tot 170m2 danwel met een oppervlakte, groter dan 170m2.    </sup> | 23/30/37  <sup> 1   Respectievelijk voor standplaatsen met een oppervlakte, kleiner dan 145m2, of met een oppervlakte van 145m2 tot 170m2 danwel met een oppervlakte, groter dan 170m2.    </sup> |
+| I. Basiswaardering  | 38  | 44  | 49  | 55  | 52  | 57  | 63  | 39/46/53 <sup>1</sup>  | 23/30/37 <sup>1</sup>  |
 | II. Woonomgeving.  | –  | –  | –  | –  | –  | –  | –  | pm  | pm  |
 | III. Verouderingsaftr.  | pm  | pm  | pm  | pm  | pm  | pm  | pm  | pm  | pm  |
 | IV. Hinderl. situaties  | –  | –  | –  | –  | –  | –  | –  | pm  | pm  |
 | totaal  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+<sup>1</sup> Respectievelijk voor standplaatsen met een oppervlakte, kleiner dan 145m2, of met een oppervlakte van 145m2 tot 170m2 danwel met een oppervlakte, groter dan 170m2.  
 
 ### Bijlage  II  
 

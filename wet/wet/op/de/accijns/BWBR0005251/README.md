@@ -484,32 +484,24 @@ b. tabaksrolletjes bestaande uit een gebroken melange, met een dekblad van gerec
 
 a. sigaren 5;  
 
-b. sigaretten 20,56 per 1 mei 2011: 21,66 benevens per 1000 stuks € 67,21 per 1 mei 2011: € 99,01, met dien verstande dat het totale bedrag van de accijns per 1000 stuks ten minste € 101,89 per 1 maart 2011: € 156,00 bedraagt;  
+b. sigaretten 8,59 benevens per 1000 stuks € 135,66, met dien verstande dat het totale bedrag van de accijns per 1000 stuks ten minste € 101,89 per 1 maart 2011: € 156,00 bedraagt;  
 
-c. rooktabak 14,60 per 1 maart 2011: 17,34 benevens per kilogram € 28,13 per 1 maart 2011: € 43,10, met dien verstande dat het totale bedrag van de accijns per kilogram ten minste € 40,31 per 1 maart 2011: € 65,54 bedraagt.     
+c. rooktabak 13,00 benevens per kilogram € 50,45, met dien verstande dat het totale bedrag van de accijns per kilogram ten minste € 40,31 per 1 maart 2011: € 65,54 bedraagt.     
 2.  Onder de kleinhandelsprijs van een tabaksprodukt wordt verstaan de prijs waarvoor dat produkt aan anderen dan wederverkopers wordt verkocht, met inbegrip van alle belastingen en de kosten van de verpakking.   
 3.  Voor de berekening van de accijns wordt voor tabaksprodukten die worden verbruikt binnen een accijnsgoederenplaats voor tabaksprodukten de kleinhandelsprijs gesteld op die van gelijke dan wel soortgelijke produkten die worden verbruikt buiten de accijnsgoederenplaats.   
 4.  Voor de berekening van de accijns wordt een tabaksrolletje als bedoeld in artikel 31 aangemerkt als twee sigaretten wanneer het, zonder filter of mondstuk, meer dan 8 cm doch niet meer dan 11 cm lang is, en als drie sigaretten wanneer het, zonder filter of mondstuk, meer dan 11 cm doch niet meer dan 14 cm lang is, enzovoort.   
 
-### Artikel  35a  
-
-1.  Bij ministeriële regeling worden de in artikel 35, eerste lid, onderdelen b en c, vermelde tarieven aangepast bij wijziging van de meest gevraagde prijsklasse van sigaretten onderscheidenlijk rooktabak.   
-2.  Onder de meest gevraagde prijsklasse wordt verstaan de combinatie van de verpakkingseenheid waarin en de kleinhandelsprijs waartegen in een kalenderjaar de meeste sigaretten of grammen rooktabak worden verkocht.   
-3.  De meest gevraagde prijsklasse wordt jaarlijks bepaald aan de hand van de in een kalenderjaar aangevraagde accijnszegels. Hierbij wordt een verpakkingseenheid waarvan in het kalenderjaar de kleinhandelsprijs een of meer keren is gewijzigd, met die verschillende prijzen tezamen als één combinatie in de zin van het tweede lid aangemerkt.   
-4.  Indien de meest gevraagde prijsklasse is gewijzigd treedt de in het eerste lid bedoelde ministeriële regeling tot aanpassing van de tarieven in werking met ingang van 1 april van het jaar volgend op het jaar waarop de vaststelling van de meest gevraagde prijsklasse is gebaseerd.   
-5.  De aanpassing van de tarieven geschiedt zodanig dat het tarief van het specifieke gedeelte van de accijns voor de gewijzigde meest gevraagde prijsklasse wordt gebracht op 50 percent van de som van het bedrag van de accijns en het bedrag van de omzetbelasting van die prijsklasse. De aanpassing van de bedragen die in artikel 35, eerste lid, onderdelen b en c, zijn opgenomen als de ten minste te betalen accijns voor 1000 stuks sigaretten respectievelijk 1 kilogram rooktabak, geschiedt zodanig dat deze accijns na de aanpassing van de tarieven gelijk is aan het totale bedrag van de accijns voor 1000 stuks sigaretten respectievelijk 1 kilogram rooktabak van de meest gevraagde prijsklasse.   
-6.  Bij de aanpassing van de tarieven voor rooktabak dient het totale bedrag van de accijns voor de gewijzigde meest gevraagde prijsklasse na de aanpassing gelijk te blijven aan het totale bedrag van de accijns dat zonder aanpassing verschuldigd zou zijn voor die prijsklasse.   
-7.  Bij de aanpassing van de tarieven voor sigaretten dient het totale bedrag van de accijns van sigaretten van de meest gevraagde prijsklasse na de aanpassing ten minste 57 percent van de kleinhandelsprijs van die prijsklasse te bedragen.   
-8.  Bij de aanpassing wordt het tarief van het percentuele gedeelte van de accijns op honderdsten van een percent afgerond.   
-9.  Indien krachtens dit artikel de accijns op sigaretten wordt verhoogd, wordt bij ministeriële regeling tevens de accijns op rooktabak verhoogd. De verhoging van de accijns op rooktabak is per pakje van de meest gevraagde prijsklasse gelijk aan de verhoging van de accijns voor sigaretten van de meest gevraagde prijsklasse zoals die van toepassing was op 31 december van het jaar voorafgaande aan de wijziging van de meest gevraagde prijsklasse.   
-
 ### Artikel  36  
 
-1.  Bij ministeriële regeling worden de in artikel 35, eerste lid, onderdelen b en c, vermelde tarieven aangepast bij wijziging van de kleinhandelsprijs van sigaretten onderscheidenlijk rooktabak van de meest gevraagde prijsklasse.   
-2.  De aanpassing van de tarieven geschiedt zodanig dat het tarief van het specifieke gedeelte van de accijns wordt gebracht op 50 percent van de som van het bedrag van de accijns en het bedrag van de omzetbelasting van de meest gevraagde prijsklasse. De aanpassing van de bedragen die in artikel 35, eerste lid, onderdelen b en c, zijn opgenomen als de ten minste te betalen accijns voor 1000 stuks sigaretten respectievelijk 1 kilogram rooktabak, geschiedt zodanig dat deze accijns na de aanpassing van de tarieven gelijk is aan het totale bedrag van de accijns voor 1000 stuks sigaretten respectievelijk 1 kilogram rooktabak van de meest gevraagde prijsklasse.   
-3.  Bij de aanpassing van de tarieven voor rooktabak dient het totale bedrag van de accijns voor rooktabak van de meest gevraagde prijsklasse na de aanpassing gelijk te blijven aan het totale bedrag van de accijns dat zonder aanpassing verschuldigd zou zijn na de wijziging van de kleinhandelsprijs.   
-4.  Bij de aanpassing van de tarieven voor sigaretten dient het totale bedrag van de accijns van sigaretten van de meest gevraagde prijsklasse na de aanpassing ten minste 57 percent van de gewijzigde kleinhandelsprijs van die prijsklasse te bedragen.   
-5.  Bij de aanpassing wordt het tarief van het percentuele gedeelte van de accijns op honderdsten van een percent afgerond.   
+1.  Bij ministeriële regeling worden de in artikel 35, eerste lid, onderdelen b en c, vermelde tarieven gewijzigd bij wijziging van de gewogen gemiddelde kleinhandelsprijs van sigaretten onderscheidenlijk rooktabak.   
+2.  Indien bij wijziging van de tarieven bedoeld in het eerste lid de in artikel 35, eerste lid, onderdelen b en c opgenomen tarieven lager of gelijk zijn aan de voor de wijziging geldende tarieven blijft het eerste lid buiten toepassing.   
+3.  De gewogen gemiddelde kleinhandelsprijs is gelijk aan de op basis van de kleinhandelsprijs berekende totale waarde van alle tot verbruik uitgeslagen sigaretten respectievelijk rooktabak, gedeeld door de totale hoeveelheid tot verbruik uitgeslagen sigaretten respectievelijk rooktabak.   
+4.  De gewogen gemiddelde kleinhandelsprijs wordt uiterlijk op 1 maart van elk jaar bepaald op basis van de gegevens die betrekking hebben op alle tot verbruik uitgeslagen hoeveelheden sigaretten respectievelijk rooktabak van het voorafgaande kalenderjaar.   
+5.  Een wijziging overeenkomstig het eerste lid treedt in werking met ingang van 1 april van het jaar volgend op het jaar waarop de nieuwe vaststelling van de gewogen gemiddelde kleinhandelsprijs is gebaseerd.   
+6.  De wijziging van de tarieven voor sigaretten respectievelijk rooktabak geschiedt zodanig dat het tarief van het specifieke gedeelte van de accijns voor de gewijzigde gewogen gemiddelde kleinhandelsprijs wordt gebracht op 70 percent respectievelijk 60 percent van de som van het bedrag van de accijns en het bedrag van de omzetbelasting van die gewogen gemiddelde kleinhandelsprijs.   
+7.  Bij de wijziging van de tarieven voor sigaretten respectievelijk rooktabak bedraagt het totale bedrag van de accijns van sigaretten respectievelijk rooktabak van de gewogen gemiddelde kleinhandelsprijs na de wijziging ten minste 60 percent respectievelijk 52 percent van die gewogen gemiddelde kleinhandelsprijs.   
+8.  De wijziging van de bedragen die in artikel 35, eerste lid, onderdelen b en c, zijn opgenomen als de ten minste te betalen accijns voor 1 000 stuks sigaretten respectievelijk 1 000 gram rooktabak, geschiedt zodanig dat deze accijns na de wijziging van de tarieven gelijk is aan het totale bedrag van de accijns voor 1 000 stuks sigaretten respectievelijk 1 000 gram rooktabak van de gewogen gemiddelde kleinhandelsprijs.   
+9.  Bij de wijziging wordt het tarief van het percentuele gedeelte van de accijns op honderdsten van een percent afgerond.   
 
 ### Afdeling  8  
 
@@ -1082,7 +1074,7 @@ b. vloeibaar gemaakt petroleumgas, per 1000 kilogram € 132,69.
 1.  Op verzoek wordt aan de verbruiker teruggaaf van accijns verleend met betrekking tot halfzware olie en gasolie, bedoeld in artikel 27, derde lid, en vloeibaar gemaakt petroleumgas, dat is bestemd voor ander gebruik dan voor het aandrijven van motorrijtuigen op de weg, of van pleziervaartuigen of voor de voortstuwing van luchtvaartuigen, mits de verbruiker de brandstoffen voor eigen verbruik heeft betrokken en voor zover de hoeveelheid die door de verbruiker is betrokken hoger is dan 159 000 L halfzware olie, 153 000 L gasolie onderscheidenlijk 119 000 kilogram vloeibaar gemaakt petroleumgas per kalenderjaar.   
 2.  De teruggaaf, bedoeld in het eerste lid, bedraagt: 
 
-a. voor halfzware olie en gasolie, per 1000 L € 33,10  
+a. voor halfzware olie en gasolie, per 1000 L € 33,10;  
 
 b. voor vloeibaar gemaakt petroleumgas, per 1000 kilogram € 39,17.     
 3.  Bij algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder de teruggaaf, bedoeld in het eerste lid, wordt verleend.   
@@ -1354,10 +1346,10 @@ b. een hogere prijs dan die is vermeld op de accijnszegels, tenzij tevoren het v
 
 ### Artikel  95a  
 
-1.  Ingeval er een autonome accijnsverhoging van de totale accijns van sigaretten of rooktabak plaatsvindt en er tussen de publicatiedatum van de als gevolg hiervan ontstane nieuwe accijnstarieven voor deze tabaksproducten en de ingangsdatum van deze nieuwe accijnstarieven ten minste twee maanden zijn gelegen, is het vanaf de eerste dag van de tweede kalendermaand volgend op de maand waarin de accijnsaanpassing plaatsvindt niet toegestaan dat tabaksproduct aan wederverkopers te verkopen, te koop aan te bieden of af te leveren indien de verpakking voorzien is van de vóór de ingangsdatum van de nieuwe accijnstarieven bij de uitslag tot verbruik voor het desbetreffende tabaksproduct voorgeschreven accijnszegel.   
+1.  Ingeval er een autonome accijnsverhoging van de totale accijns van sigaretten of rooktabak plaatsvindt en er tussen de publicatiedatum van de als gevolg hiervan ontstane nieuwe accijnstarieven voor deze tabaksproducten en de ingangsdatum van deze nieuwe accijnstarieven ten minste twee maanden zijn gelegen, is het vanaf de eerste dag van de tweede kalendermaand volgend op de maand waarin de accijnswijziging plaatsvindt niet toegestaan dat tabaksproduct aan wederverkopers te verkopen, te koop aan te bieden of af te leveren indien de verpakking voorzien is van de vóór de ingangsdatum van de nieuwe accijnstarieven bij de uitslag tot verbruik voor het desbetreffende tabaksproduct voorgeschreven accijnszegel.   
 2.  Voor de toepassing van dit artikel wordt verstaan onder: 
 
-a. autonome accijnsverhoging: aanpassing van de accijnstarieven, genoemd in artikel 35, die wat betreft de totale accijns tot een verhoging leidt, en die niet voortvloeit uit de artikelen 35a of 36;  
+a. autonome accijnsverhoging: wijziging van de accijnstarieven, genoemd in artikel 35, die wat betreft de totale accijns tot een verhoging leidt, en die niet voortvloeit uit artikel 36;  
 
 b. rooktabak: rooktabak als bedoeld in artikel 32, pijptabak niet daaronder begrepen;  
 

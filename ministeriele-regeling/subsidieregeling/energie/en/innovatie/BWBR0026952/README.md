@@ -13,7 +13,7 @@ Besluiten:
 
 In deze regeling wordt verstaan onder: 
 
-– *demonstratieproject:* een op bescherming van het milieu gericht samenhangend geheel van activiteiten die een technisch en economisch risico inhouden, waarbij die activiteiten bestaan uit het bij de aanvrager treffen van energiebesparende maatregelen of maatregelen die het gebruik van hernieuwbare energiebronnen bevorderen met behulp van: 
+– *demonstratieproject:* een op bescherming van het milieu gericht samenhangend geheel van activiteiten die een technisch en economisch risico inhouden, waarbij die activiteiten bestaan uit het door de aanvrager treffen van energiebesparende maatregelen of maatregelen die het gebruik van hernieuwbare energiebronnen bevorderen met behulp van: 
 
 1°. voor Nederland nieuwe apparaten, systemen of technieken, of  
 
@@ -617,7 +617,7 @@ c. de mate waarin het project in de praktijk navolging kan vinden en kan worden 
 ### Artikel  3.2.10  
 
 1.  Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier, opgenomen in bijlage 3.2.1.   
-2.  Een aanvraag om subsidievaststelling wordt ingediend met gebruikmaking van het formulier opgenomen in bijlage 3.2.2.   
+2.  Een aanvraag om subsidievaststelling wordt ingediend met gebruikmaking van het formulier opgenomen in bijlage 2.1.3.   
 
 ### §  3.3  
 
@@ -1351,7 +1351,7 @@ Het formulier voor het indienen van een aanvraag voor:
 
 a. een subsidie is opgenomen in bijlage 3.8.2;  
 
-b. een subsidievaststelling is opgenomen in bijlage 3.8.3.    
+b. een subsidievaststelling is opgenomen in bijlage 2.1.3.    
 
 ### §  3.9  
 
@@ -1458,8 +1458,110 @@ d. samenwerking en kennisoverdracht: de mate van doelmatigheid en doeltreffendhe
 
 a. een subsidie is opgenomen in bijlage 3.9.1;  
 
-b. een subsidievaststelling is opgenomen in bijlage 3.9.2.     
+b. een subsidievaststelling is opgenomen in bijlage 2.1.3.     
 2.  Het formulier voor het indienen van een vooraanmelding is opgenomen in bijlage 3.9.3.   
+
+### §  3.10  
+
+#### *Proeftuinen intelligente netten* 
+
+### Artikel  3.10.1  
+
+In deze paragraaf wordt verstaan onder: 
+
+− *proeftuinproject intelligente netten:* een demonstratieproject, geheel of nagenoeg geheel bestemd voor het vergroten van inzicht in de geschiktheid van toepassing in de praktijk van een innovatief product, proces of dienst, of een innovatieve samenwerking, dat een technisch, economisch of maatschappelijk risico inhoudt, dat bijdraagt aan doorbraken ten behoeve van de verduurzaming van de Nederlandse energiehuishouding en dat past binnen bijlage 3.10.1.    
+
+### Artikel  3.10.2  
+
+De minister verstrekt op aanvraag subsidie aan een deelnemer in een samenwerkingsverband, waarvan een ondernemer penvoerder is, die een proeftuinproject intelligente netten uitvoert.  
+
+### Artikel  3.10.3  
+
+1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie voor een proeftuinproject intelligente netten 40 procent van de subsidiabele kosten, voor zover die kosten betrekking hebben op activiteiten, niet zijnde fundamenteel onderzoek, industrieel onderzoek of experimentele ontwikkeling.   
+2.  Voor andere activiteiten bedraagt de subsidie voor een proeftuinproject intelligente netten: 
+
+a. 50% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
+
+b. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling.     
+3.  Indien de subsidiabele kosten betrekking hebben op een combinatie van industrieel onderzoek en experimentele ontwikkeling, bedraagt de subsidie het gewogen gemiddelde van de in het tweede lid genoemde percentages van de desbetreffende subsidiabele kosten.   
+4.  De in het eerste en tweede lid genoemde percentages worden met 10 procentpunten verhoogd, indien de aanvrager een MKB-ondernemer is voor zover de subsidiabele kosten worden gemaakt en betaald door de ondernemer.   
+5.  Indien de subsidieontvanger een ondernemer in de landbouwsector is, is de verhoging, bedoeld in het vierde lid, niet van toepassing voor zover de subsidiabele kosten betrekking hebben op investeringen waardoor de productiecapaciteit zal toenemen.   
+6.  Het maximum subsidiebedrag voor een proeftuinproject intelligente netten bedraagt € 4.000.000. Indien verscheidene aanvragen worden gedaan die betrekking hebben op hetzelfde project en die tezamen een subsidiebedrag van meer dan € 4.000.000 betreffen, of indien het totale subsidiebedrag voor de deelnemers van een samenwerkingsverband meer bedraagt dan € 4.000.000, wordt het meerdere naar rato in mindering gebracht op de aan de betrokken aanvragers te verstrekken subsidie.   
+
+### Artikel  3.10.4  
+
+Bij de toepassing van [artikel 6 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) worden buiten beschouwing gelaten subsidies op grond van het [Besluit stimulering duurzame energieproductie](../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) en bijdragen van de Commissie van de Europese Gemeenschappen op grond van het Zevende Kaderprogramma voor activiteiten op het gebied van onderzoek, technologische ontwikkeling en demonstratie.  
+
+### Artikel  3.10.5  
+
+1.  Voor zover de projectkosten betrekking hebben op activiteiten als bedoeld in artikel 3.10.3, eerste lid, is [artikel 14a van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) van toepassing en zijn de [artikelen 10, derde lid](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [38, eerste lid, onder b t/m d](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), en [41 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) niet van toepassing.   
+2.  Voor zover de projectkosten betrekking hebben op activiteiten als bedoeld in artikel 3.10.3, tweede lid, is [artikel 14a van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) niet van toepassing en zijn de [artikelen 10, derde lid](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [38, eerste lid, onder b t/m d](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), en [41 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) wel van toepassing.   
+
+### Artikel  3.10.6  
+
+De minister verdeelt het subsidieplafond voor proeftuinprojecten intelligente netten op volgorde van rangschikking van de aanvragen.  
+
+### Artikel  3.10.7  
+
+1. De Adviescommissie energiedemonstratieprojecten en energietransitie-experimenten heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in artikel 3.10.9 onderdelen a tot en met d en [artikel 23, onderdeel e, f, g en h van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en de rangschikkingscriteria, bedoeld in artikel 3.10.10.  
+
+### Artikel  3.10.8  
+
+De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), is voor een proeftuinproject intelligente netten drie jaar.  
+
+### Artikel  3.10.9  
+
+De minister beslist afwijzend op een aanvraag: 
+
+a. voor zover de te verwachte resultaten onvoldoende bijdrage leveren aan de verduurzaming van de Nederlandse energiehuishouding, mede gelet op het herhalingspotentieel;  
+
+b. voor zover het project onvoldoende innovatief is; de internationale stand van de techniek is de referentie;  
+
+c. indien er onvoldoende vertrouwen is in de doelmatigheid en doeltreffendheid van het project;  
+
+d. indien er onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn;  
+
+e. indien de subsidie minder bedraagt dan € 125.000;  
+
+f. indien reeds eerder op grond van deze paragraaf een subsidie is verstrekt voor een soortgelijk project.    
+
+### Artikel  3.10.10  
+
+1.  De minister rangschikt aanvragen waarop niet afwijzend is beslist, hoger naarmate het project meer bijdraagt aan de criteria omtrent: 
+
+a. innovatie,  
+
+b. duurzaamheid,  
+
+c. projectorganisatie,  
+
+d. economisch perspectief.     
+2.  Als criteria voor innovatie, duurzaamheid, projectorganisatie en economisch perspectief worden respectievelijk vastgesteld: 
+
+a. de mate waarin wordt bijgedragen aan technologische vernieuwing of aan wezenlijk nieuwe toepassingen van bestaande technologie, of de mate van vernieuwing in de organisatie van de keten;  
+
+b. de mate waarin wordt bijgedragen aan verduurzaming van de Nederlandse energiehuishouding, mede gelet op het in Nederland optredende herhalingspotententieel;  
+
+c. de mate van doelmatigheid en doeltreffendheid van de bij het project betrokken partijen en de mate van kwaliteit van de projectorganisatie;  
+
+d. de mate waarin de projectresultaten meer economische waarde creëren voor Nederland, mede gelet op de toepassingsmogelijkheden van de projectresultaten.     
+3.  Geen subsidie wordt verleend voor een proeftuinproject intelligente netten dat lager is gerangschikt dan een soortgelijk project.   
+4.  Voor de rangschikking wegen de criteria genoemd in het eerste lid even zwaar.   
+5.  Bij de rangschikking van projecten wordt mede rekening gehouden met een evenwichtige spreiding van de te subsidiëren projecten over de in bijlage 3.10.1 genoemde leereffecten.   
+
+### Artikel  3.10.11  
+
+1.  De subsidie-ontvanger start binnen zes maanden na de datum van de beschikking tot subsidieverlening de uitvoering van het proeftuinproject intelligente netten.   
+2.  De subsidie-ontvanger draagt zorg voor de openbaarmaking en verspreiding van de resultaten van het project.   
+3.  De verplichting, bedoeld in het tweede lid, geldt tot vijf jaar na de datum van de beschikking tot subsidievaststelling.   
+
+### Artikel  3.10.12  
+
+Het formulier voor het indienen van een aanvraag voor: 
+
+a. een subsidie is opgenomen in bijlage 3.10.2;  
+
+b. een subsidievaststelling is opgenomen in bijlage 3.10.3.    
 
 ### Hoofdstuk  4  
 
@@ -1548,7 +1650,7 @@ Het rapport van feitelijke bevindingen wordt opgesteld overeenkomstig de Nadere 
 
 ### Bijlage  2.1.3  
 
-####, behorende bij de artikelen 2.1.12 , 2.2.12 , 2.3.11 , 3.5.15 , 3.6.10  en 3.7.8 
+####, behorende bij de artikelen 2.1.12, onderdeel b , 2.2.12, onderdeel b , 2.3.11, onderdeel b , 3.2.10, tweede lid , 3.8.18, onderdeel b , en 3.9.12, eerste lid, onder b .
 
 ![249000](http://wetten.overheid.nl/Illustration/249000)
 ![249000](http://wetten.overheid.nl/Illustration/249000)
@@ -1633,13 +1735,6 @@ De subsidie voor de warmtepomp, niet zijnde een lucht/waterwarmtepomp, wordt bep
 ![246581](http://wetten.overheid.nl/Illustration/246581)
 ![246581](http://wetten.overheid.nl/Illustration/246581)
 ![246581](http://wetten.overheid.nl/Illustration/246581)
-
-### Bijlage  3.2.2  
-
-####behorende bij artikel 3.2.10, tweede lid , van de subsidieregeling energie en innovatie
-
-![246583](http://wetten.overheid.nl/Illustration/246583)
-![246583](http://wetten.overheid.nl/Illustration/246583)
 
 ### Bijlage  3.3.1  
 
@@ -1981,15 +2076,6 @@ De volgende fasen dienen gedurende het project minimaal te worden doorlopen:
 ![246307](http://wetten.overheid.nl/Illustration/246307)
 ![246307](http://wetten.overheid.nl/Illustration/246307)
 
-### Bijlage  3.8.3  
-
-####behorende bij artikel 3.8.18, derde lid , van de Subsidieregeling energie en innovatie
-
-####Aanvraag vaststelling Subsidieregeling energie en innovatie Industriële warmtebenutting
-
-![246309](http://wetten.overheid.nl/Illustration/246309)
-![246309](http://wetten.overheid.nl/Illustration/246309)
-
 ### Bijlage  3.9.1  
 
 ####, behorende bij artikel 3.9.1, derde lid , van de Subsidieregeling energie en innovatie
@@ -1999,13 +2085,6 @@ De volgende fasen dienen gedurende het project minimaal te worden doorlopen:
 ![246413](http://wetten.overheid.nl/Illustration/246413)
 ![246413](http://wetten.overheid.nl/Illustration/246413)
 
-### Bijlage  3.9.2  
-
-####, behorende bij artikel 3.9.2, derde lid , van de Subsidieregeling energie en innovatie
-
-![246415](http://wetten.overheid.nl/Illustration/246415)
-![246415](http://wetten.overheid.nl/Illustration/246415)
-
 ### Bijlage  3.9.3  
 
 ####, behorende bij artikel 3.9.3, derde lid , van de Subsidieregeling energie en innovatie
@@ -2013,4 +2092,118 @@ De volgende fasen dienen gedurende het project minimaal te worden doorlopen:
 ![246418](http://wetten.overheid.nl/Illustration/246418)
 ![246418](http://wetten.overheid.nl/Illustration/246418)
 ![246418](http://wetten.overheid.nl/Illustration/246418)
+
+### Bijlage  3.10.1  
+
+####: Proeftuinen Intelligente Netten
+
+####Inleiding
+
+Het realiseren van een reeks demonstratieprojecten of proeftuinen was de 1 <sup>e</sup> aanbeveling in het discussiedocument ‘Op weg naar Intelligente Netten in Nederland’ van de Taskforce Intelligente netten: “omdat het eindbeeld van de intelligente netten robuust is, maar er tijd nodig is daar op een kosteneffectieve manier naar toe te werken”. Specifiek voor de proeftuinen Intelligente netten is er in 2011 een budget van € 16 miljoen beschikbaar.  
+
+####Afbakening
+
+‘Intelligente netten’ is een overkoepelend begrip voor de innovaties op en rondom de energie-infrastructuur (veelal elektriciteitsnetten, van het hoogspanningsnet tot en met het laagspanningsnet in de wijk en de energietoepassingen bij de consument) die het mogelijk maken dat: 
+
+* decentrale opwekking van energie ingepast kan worden (tweerichtingsverkeer) in plaats van grootschalige centrale opwekking met alleen energiestromen naar de afnemers;  
+
+* energieafnemers met een flexibele vraag reageren op (duurzame) ‘fluctuerende bronnen’ zoals zon- en windvermogen en micro-WKK;  
+
+* inpassing van (duurzame) energietoepassingen zoals elektrisch vervoer, warmtepompen en mogelijkheden voor energieopslag;  
+
+* de energienetten veiliger en efficiënter functioneren (bijvoorbeeld met minder zware kabels en met minder transport- en distributieverliezen);  
+
+* de gebruiker allerlei intelligente toepassingen ter beschikking krijgt ten behoeve van zijn energievoorziening en -gebruik.   Het gebied omvat verschillende soorten technologie (vermogenselektronica in de netten en bij de gebruikers, ICT gerelateerd aan vermogenselektronica, overkoepelende ICT-systemen). Minstens zo belangrijk als de verandering in de technologie is echter de verandering in de rollen van gebruikers (die ‘prosumers’ worden), energieleveranciers, leveranciers van energiediensten, toeleveranciers en netbeheerders.  
+
+####Uitgangspunten
+
+1) De proeftuinen hebben een transitiefunctie. In de visie van de Taskforce passen proeftuinen in een roadmap voor Nederland op een hoger abstractieniveau, waarbij de proeftuinen inzichten opleveren die essentieel zijn voor de Nederlandse situatie vanaf 2020. Na de proeftuinen (in periode 2015–2020) volgt de implementatiefase waarin zaken grootschalig worden opgepakt (opschalen naar 10.000 aansluitingen). In de transitiefase (2010–2015) wordt praktijkervaring opgedaan met technologie, met name waar het gaat om de interactie met niet-technologische aspecten en validatie van businesscases aangezien de uitdaging niet zozeer zit in de techniek zelf. Er wordt gekeken welke ‘problemen’ nog niet adequaat zijn opgelost of over het hoofd zijn gezien. Ook verkenningen van de juridische ruimte voor nieuwe arrangementen en van mogelijke oplossingen voor knelpunten in de sfeer van de regelgeving maken deel uit van de proeftuinen. De ontwikkeling van intelligente netten en nieuwe slimme arrangementen kent zowel technische risico’s, sociale risico’s als maatschappelijke kosten/baten risico’s. Het gaat om de beheersing van alle drie de risico’s.  
+
+2) Robuustheid als randvoorwaarde. Toevoeging van intelligentie mag niet leiden tot een aantasting van de robuustheid van het systeem. Dat is een randvoorwaarde in de architectuur, en dat is mogelijk.  
+
+3) Het gaat om gedrag én om de institutionele context (marktmodellen, rolverdelingen). Een focus op gedrag alleen leidt tot een lock-in. Het gaat ook om andere wijzen van verrekening en sturing (marktmodellen), met daarbij gedragsaspecten, als ook standaarden. Verschillende zaken grijpen hierbij op elkaar in. Het huidige marktmodel gaat uit van centraal opwekken en een geliberaliseerde productie- en retailmarkt. Een model dat vertrekt vanuit een het realiseren van een duurzame energievoorziening en het zelf opwekken van energie past hier niet vanzelfsprekend in, en kan dus ook om toekomstige aanpassingen in wet- en regelgeving vragen. De ontwikkeling naar een micromarkt is een mogelijke maar geen vooropgezette route.  
+
+4) Focus op optimale maatschappelijke winst. Een belangrijke vraag bij het toevoegen van intelligentie is waar de grootste winst zit van deze toevoeging: a) in het net, b) bij de klant, c) bij de interface? De essentie zit niet in het meten maar in het sturen/beïnvloeden en in het afrekenen (de facturering).  
+
+5) Simulaties waar mogelijk. Verschillende technologische en gedragsvragen kunnen ook meer of minder adequaat door middel van simulaties benaderd worden. Simulatiemodellen moeten worden gevalideerd zodat ze representatief worden voor de werkelijkheid. Er zal grote behoefte zijn aan het koppelen van simulatiemodellen met proeftuinen.    
+
+####Positionering van de Nederlandse proeftuinen
+
+De proeftuinen staan niet op zichzelf. In verschillende landen in de wereld vinden er demonstratieprojecten plaats. In opdracht van Netbeheer Nederland heeft KEMA een internationale inventarisatie uitgevoerd, en gekeken welke kansen en conclusies hieruit voor Nederland getrokken kunnen worden met betrekking tot demonstratieprojecten. Belangrijke conclusies zijn: 
+
+1) Het optimaal benutten van het netwerk vereist de ontwikkeling van ICT dat kan omgaan met een groot volume aan data en dit als informatie beschikbaar kan stellen aan relevante stakeholders (er zijn nu alleen nog kleine projecten);  
+
+2) Ook zijn er nog geen projecten die grote aantallen kleinschalige opwekkers combineren d.m.v. een aggregator;  
+
+3) Wat nog ontbreekt bij de gebruikers (consumenten en kleinschalige producenten) is ‘awareness’ en beloningen om interactief deel te nemen. Daarom noemt de Taskforce de eindgebruiker ook het startpunt voor de proeftuinen, niet het sluitstuk van de overwegingen  
+
+4) Er is op verschillende plaatsen sprake van technologie-ontwikkeling op het gebied van: 
+
+a. Het testen van netcomponenten en -systemen,  
+
+b. De toepassing van gebruikerselektronica, slimme meters, laadinfrastructuur voor elektrisch vervoer.    
+
+5) Er is nog geen business model voor energieopslag in het netwerk (en voor de handel in energie);  
+
+6) De combinatie met gas-toepassingen is specifiek voor Nederland-gasland;  
+
+7) Intelligente wasmachines e.d. kunnen ook effect hebben op stabiliteit van de netten;  
+
+8) Slimme woningen en gebouwen bieden integrale toepassingsmogelijkheden voor typische Nederlandse componenten en systemen.   Daarnaast is er in Nederland sprake van verschillende ontwikkelingen die meer of minder raken aan intelligente netten zoals de ontwikkeling naar energieneutrale gebouwde omgeving, lokale energiebedrijven, uitwisseling van energietekorten en -overschotten tussen bedrijven en woningen. De beoogde proeftuinen zouden ook hiermee een kennisuitwisselingsrelatie moeten hebben.  
+
+####Beoogde leereffecten van de proeftuinen
+
+De proeftuinen hebben een functie in het leren over de mogelijkheden van intelligente toepassingen in het licht van een bredere maatschappelijke kosten/baten analyse. Zijn decentrale opwekking en opslag van energie beter in te passen? Is vraagrespons bij verschillende soorten gebruikers te activeren? Welke diensten en producten zijn hierbij mogelijk cases (met o.a. real time tarieven en capaciteitstarieven) in verschillend denkbare institutionele settings? En leidt dit tot de beoogde systeemeffecten? Overall gaat het over: 
+
+* het ontwikkelen en testen van een aantal 'sets' geïntegreerde, interoperabele bestaande en nieuwe diensten en producten  
+
+* met verschillende infrastructuren (E, G, W, ICT)  
+
+* die opschaalbaar zijn,  
+
+* waarmee geld te verdienen valt,  
+
+* die een meerwaarde bieden aan de eindgebruikers, en  
+
+* die werken in de richting van een duurzame energievoorziening.   Onderstaande tabel geeft het (niet-uitputtende) palet aan intelligente toepassingen en de effecten daarvan. Doel is om zoveel mogelijk te leren uit de proeftuinen, wat onder meer vereist dat de verschillende toepassingen en effecten in de tender aan bod komen, ofwel dat er een evenwichtige spreiding van de proeftuinen over deze tabel komt.  Tabel: Effecten van typen intelligente toepassingen 
+
+| Effecten:  Intelligente toepassingen:  | Energie besparing  | Optimale vraag/aanbod afstemming  | Besparing op net-investering  | Vergroten markt-participatie  | Nieuwe dienst of product  | Flexibiliteit en beperken reserve-vermogen  |
+|:---|:---|:---|:---|:---|:---|:---|
+| Energiegedrag huishouden  | --- | --- | --- | --- | --- | --- |
+| Energiegedrag  bedrijf  | --- | --- | --- | --- | --- | --- |
+| e-auto laden  | --- | --- | --- | --- | --- | --- |
+| Warmte  Pompen  | --- | --- | --- | --- | --- | --- |
+| HRe-ketel  | --- | --- | --- | --- | --- | --- |
+| Duurzame energie (Zon-PV, wind, ..)  | --- | --- | --- | --- | --- | --- |
+
+Idealiter wordt bijvoorbeeld in een proeftuin voor een lokaal energiesysteem aangetoond dat: 
+
+1) decentraal opgewekte energie kan worden geïntegreerd in een slim, lokaal energiesysteem;  
+
+2) verschillende partijen gezamenlijk in staat zijn slimme, lokale energiesystemen te realiseren waar ze allemaal aan kunnen verdienen en/of meerwaarde aan kunnen ontlenen;  
+
+3) een slim, lokaal energiesysteem nieuwe functionaliteiten (via nieuwe diensten en producten) kan bieden die een meerwaarde hebben voor eindgebruikers;  
+
+4) eindgebruikers interesse hebben of zelfs actief willen participeren in 'het' toekomstige energiesysteem / een intelligent net.    
+
+####Meerdere proeftuinen en proeftuinoverstijgend leren
+
+In de keuze tussen één grote fysieke proeftuin met enkele duizenden gebruikers versus enkele kleinere proeftuinen lijkt het laatste meer voor de hand te liggen. Er is een breed palet aan ontwikkelingspaden voor intelligente toepassingen. Diversiteit leidt tot meer inzicht op een hoger niveau en meer mogelijkheden in soorten toepassingen en in kennisuitwisseling. De praktische realisatie van een locatie van zeer grote omvang lijkt bovendien niet eenvoudig. Dit leidt tot de conclusie dat het niet wenselijk noch mogelijk lijkt om één grote geconcentreerde proeftuin in Nederland te realiseren waarin voldoende verscheidenheid voor de leerdoelen aanwezig is. Wel is er behoefte om leerervaringen als die van het project te Hoogkerk (Powermatching City) enigszins op te schalen, met gebruikmaking van bijvoorbeeld de eerste resultaten van het programma e-Energy in Duitsland (6 proeftuinen op een schaal van enkele honderden huishoudens). Opschaling is wellicht ook virtueel mogelijk waar het gaat om bepaalde effecten te bereiken. Met name gaat het dan het effect van de inzet van meerdere technologieën, concepten of diensten. Aan een dergelijke opschaling zitten echter ook beperkingen als het belemmerend werkt voor de flexibiliteit in de verschillende proeftuinen, en als het de deelname van meerdere (competitieve) consortia tegenhoudt. Naar verwachting komen er 5 tot 10 niet te complexe proeftuinen, veelal op het niveau van een woonwijk, stadscentrum, industrieterrein, kantorenomgeving, e.d. De focus en de doelen van proeftuinen zullen verschillend zijn. Van belang is dat het doel, de beoogde resultaten en leereffecten duidelijk zijn omschreven. Daarnaast is van belang dat er, ook gedurende de looptijd van de proeftuinen, daadwerkelijk geleerd en voortgebouwd kan worden op de resultaten (adequate kennisverzameling en onderzoek ten aanzien van kosten en baten, gebruikersgedrag, diensten en producten, systeemeffecten, etc). Met name ook ten aanzien van de ITC-aspecten is van belang dat de architectuur breder toepasbaar is: toekomstbestendig (met oog op wijzigingen in functionaliteit en technologie), interoperabel (standaarden), breder bruikbaar (ook buiten de betreffende proeftuin), robuust (bestand tegen verstoringen en uitval), flexibel (bij veranderingen vraag en aanbod van energie) en met aandacht voor security en privacy aspecten. De proeftuinen, die elk een verschillende focus hebben, zullen vanuit het innovatieprogramma voor intelligente netten geflankeerd worden door een proeftuinoverstijgend leerprogramma gericht op de uitgangspunten en de beoogde leereffecten. Naast dit flankerende leerprogramma zal er een proeftuinoverstijgende maatschappelijke kosten/baten analyse, een R&D-programma voor 2012 en verder, en een communicatieprogramma worden opgezet. Communicatie, zowel tussen proeftuinen onderling als met de buitenwereld is immers van groot belang. In onderstaande figuur is dit schematisch weergegeven.  *Figuur: Proeftuinoverstijgend leren*    ![248954](http://wetten.overheid.nl/Illustration/248954)
+
+### Bijlage  3.10.2  
+
+####Aanvraag Subsidie Proeftuinen Intelligente Netten
+
+![248957](http://wetten.overheid.nl/Illustration/248957)
+![248957](http://wetten.overheid.nl/Illustration/248957)
+![248957](http://wetten.overheid.nl/Illustration/248957)
+
+### Bijlage  3.10.3  
+
+####Aanmelding + Machtiging Deelnemer samenwerkingsverband
+
+![248961](http://wetten.overheid.nl/Illustration/248961)
+![248961](http://wetten.overheid.nl/Illustration/248961)
+*Aanvraag Vaststelling subsidie*    ![248961](http://wetten.overheid.nl/Illustration/248961)
+![248961](http://wetten.overheid.nl/Illustration/248961)
 

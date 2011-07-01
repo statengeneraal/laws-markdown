@@ -394,8 +394,8 @@ Op arbeid verricht in de burgerlijke openbare dienst, welke gericht is op het da
 ####Toepasselijkheid
 
 1.  De wet is niet van toepassing op arbeid verricht in respectievelijk op een zeeschip dat niet op grond van Nederlandse rechtsregels gerechtigd is de Nederlandse vlag te voeren en dat zich bevindt in de exclusieve economische zone, in de territoriale zee, op een van de in [artikel 10, eerste lid, van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) bedoelde scheepvaartwegen, op de Westerschelde, haar mondingen of op het in Nederland gelegen gedeelte van het Kanaal van Gent naar Terneuzen, of in de haven van Scheveningen.   
-2.  Het eerste lid geldt niet ten aanzien van aanbouw, verbouwing, herstelling of sloping dan wel onderhoudsof reinigingswerkzaamheden en hiermee verband houdende andere werkzaamheden aan de in het eerste lid bedoelde schepen die zich in Nederland bevinden alsmede ten aanzien van laden en lossen, tenzij deze arbeid wordt verricht door een werknemer die behoort tot de bemanning van een zeeschip als bedoeld in het eerste lid.   
-3.  De wet is niet van toepassing op arbeid verricht in respectievelijk op een luchtvaartuig als bedoeld in [artikel 1, aanhef en onder e, van de Luchtvaartwet](../../../wet/luchtvaartwet/BWBR0002267/README.md), dat ter beschikking is gesteld aan een niet in Nederland gevestigde werkgever, tenzij: 
+2.  Het eerste lid geldt niet ten aanzien van aanbouw, verbouwing, herstelling of sloping dan wel onderhouds- of reinigingswerkzaamheden en hiermee verband houdende andere werkzaamheden aan de in het eerste lid bedoelde schepen die zich in Nederland bevinden alsmede ten aanzien van laden en lossen, tenzij deze arbeid wordt verricht door een werknemer die behoort tot de bemanning van een zeeschip als bedoeld in het eerste lid.   
+3.  De wet is niet van toepassing op arbeid verricht in respectievelijk op een luchtvaartuig als bedoeld in [artikel 1.1, eerste lid, van de Wet Luchtvaart](../../../wet/wet/luchtvaart/BWBR0005555/README.md), dat ter beschikking is gesteld aan een niet in Nederland gevestigde werkgever, tenzij: 
 
 a. deze werkgever daarin of daarop door in meerderheid in Nederland woonachtige werknemers arbeid doet verrichten;  
 
@@ -1170,13 +1170,14 @@ j. de wisselwerking met exploitatiewerkzaamheden op of in de nabijheid van de bo
 
 ### Afdeling  6  
 
-####Winningsindustriën in dagbouw, ondergronds of met behulp van boringen
+####Winningsindustrieën in dagbouw, ondergronds of met behulp van boringen
 
 ### Artikel  2.40  
 
 ####Toepasselijkheid
 
-Deze afdeling is niet van toepassing op arbeid verricht in winningsindustrieën in dagbouw met behulp van baggermaterieel.  
+1.  Deze afdeling is van toepassing op arbeid verricht in winningsindustrieën in dagbouw, ondergronds of met behulp van boringen.   
+2.  In afwijking van het eerste lid is deze afdeling niet van toepassing op arbeid verricht in winningsindustrieën in dagbouw met behulp van baggermaterieel.   
 
 ### Artikel  2.41  
 
@@ -1571,8 +1572,8 @@ f. vluchtmiddelen worden beschikbaar en gebruiksklaar gehouden zodat werknemers 
 
 ####Gevaar voor verstikking, bedwelming, vergiftiging, brand of explosie
 
-1.  Indien kan worden vermoed dat de atmosfeer op een plaats of in een ruimte in zodanige mate stoffen bevat dat daardoor gevaar bestaat voor verstikking, bedwelming, vergiftiging, brand of explosie, betreedt de werknemer die plaats of ruimte niet voordat uit een onderzoek is gebleken dat het gevaar niet aanwezig is.   
-2.  Indien uit het onderzoek, bedoeld in het eerste lid, blijkt dat het gevaar voor verstikking, bedwelming, vergiftiging, brand of explosie aanwezig is, worden doeltreffende maatregelen genomen zodat de werknemers die plaats of die ruimte zonder de gevaren, bedoeld in het eerste lid, kunnen betreden.   
+1.  Indien kan worden vermoed dat de atmosfeer op een plaats of in een ruimte in zodanige mate stoffen bevat dat daardoor gevaar bestaat voor verstikking, bedwelming, vergiftiging, brand of explosie, mag de werknemer zich alleen bevinden op die plaats of in die ruimte indien uit onderzoek blijkt dat het gevaar niet aanwezig is.   
+2.  Indien uit het onderzoek, bedoeld in het eerste lid, blijkt dat gevaar voor verstikking, bedwelming, vergiftiging, brand of explosie aanwezig is, worden doeltreffende maatregelen genomen, zodat de werknemer zich zonder gevaren op die plaats of in die ruimte, bedoeld in het eerste lid, kan bevinden.   
 3.  Er is in ieder geval sprake van: 
 
 a. gevaar voor verstikking indien de atmosfeer minder dan 18 volumeprocent zuurstof bevat;  
@@ -2947,7 +2948,7 @@ c. het opruimen van asbest of asbesthoudende producten die ten gevolge van een i
 3.  De resultaten van de inventarisatie, bedoeld in het eerste lid, en de indeling in een risicoklasse, bedoeld in het tweede lid, worden opgenomen in een inventarisatierapport.   
 4.  De inventarisatie, bedoeld in het eerste lid, en het inventarisatierapport, bedoeld in het derde lid, worden uitgevoerd, onderscheidenlijk opgesteld, door een bedrijf dat in het bezit is van een certificaat asbestinventarisatie dat is afgegeven door Onze Minister of een certificerende instelling.   
 5.  Een afschrift van het inventarisatierapport wordt verstrekt aan het bedrijf dat asbest verwijdert.   
-6.  Het certificaat asbestinventarisatie of een afschrift daarvan is op de arbeidsplaats aanwezig en wordt desgevraagd getoond aan een ambtenaar als bedoeld in [artikel 24 van de wet](../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).   
+6.  Het certificaat asbestinventarisatie of een afschrift daarvan is op de arbeidsplaats aanwezig en wordt desgevraagd getoond aan de toezichthouder.   
 
 ### Artikel  4.54b  
 
@@ -3202,7 +3203,7 @@ g. op de arbeidsplaats is een doeltreffende schriftelijke werkinstructie voor de
 
 a. een luchtbevochtigingsinstallatie anders dan een stoombevochtiger;  
 
-b. een waterinstallatie die water in aërosolvorm in de lucht kan brengen, niet zijnde een collectieve watervoorziening als bedoeld in [artikel 1, eerste lid, onder j](../../../wet/waterleidingwet/BWBR0002246/README.md), of een collectief leidingnet als bedoeld in [artikel 1, eerste lid, onder k, van de Waterleidingwet](../../../wet/waterleidingwet/BWBR0002246/README.md);   zijn de maatregelen, bedoeld in artikel 4.87a, eerste en tweede lid, ter voorkoming of beperking van de blootstelling aan legionellabacteriën, doeltreffend, indien het water in deze installaties minder dan 100 kolonievormende eenheden legionellabacteriën per liter bevat.   
+b. een waterinstallatie die water in aërosolvorm in de lucht kan brengen, niet zijnde een collectieve watervoorziening of een collectief leidingnet als bedoeld in [artikel 1, eerste lid, van de Drinkwaterwet](../../../wet/drinkwaterwet/BWBR0026338/README.md);   zijn de maatregelen, bedoeld in artikel 4.87a, eerste en tweede lid, ter voorkoming of beperking van de blootstelling aan legionellabacteriën, doeltreffend, indien het water in deze installaties minder dan 100 kolonievormende eenheden legionellabacteriën per liter bevat.   
 2.  Het nemen en analyseren van monsters ter controle van de aanwezigheid van legionellabacteriën geschiedt overeenkomstig een geschikte genormaliseerde methode.   
 3.  Dit artikel is niet van toepassing op koeltorens.   
 
@@ -3439,7 +3440,7 @@ a. arbeid verrichten met stoffen die voldoen aan de krachtens [artikel 9.2.3.1 v
 
 1. in een of meer van de categorieën, «ontplofbaar», «bijtend» en «irriterend»;  
 
-2. in de categorie «schadelijk», indien deze stoffen tevens voldoen aan de bij of krachtens de [Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) vastgestelde criteria voor toekenning van R-zin 40;    
+2. in de categorie «schadelijk», indien deze stoffen tevens voldoen aan de bij of krachtens de [Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) vastgestelde criteria voor toekenning van R-zin 40 of 68;    
 
 b. arbeid verrichten met persgassen, onder druk vloeibaar gemaakte gassen, door sterke temperatuurverlaging vloeibaar gemaakte gassen en opgeloste gassen;  
 
@@ -4615,31 +4616,31 @@ Alarmsignalen van een arbeidsmiddel zijn gemakkelijk en duidelijk waarneembaar e
 
 ### Afdeling  3  
 
-####Arbeidsmiddelen met een bedieningssysteem
+####Arbeidsmiddelen met een besturingssysteem
 
 ### Artikel  7.12  
 
 ####Schakelbepaling
 
-Op een arbeidsmiddel met een bedieningssysteem zijn naast de voorschriften van de afdelingen 1 en 2 van dit hoofdstuk tevens de voorschriften van deze afdeling van toepassing.  
+Op een arbeidsmiddel met een besturingssysteem zijn naast de voorschriften van de afdelingen 1 en 2 van dit hoofdstuk tevens de voorschriften van deze afdeling van toepassing.  
 
 ### Artikel  7.13  
 
-####Bedieningssystemen
+####Besturingssysteem en bedieningsorgaan
 
-1.  Een bedieningssysteem van een arbeidsmiddel is veilig.   
-2.  Een bedieningssysteem levert ook bij onopzettelijke handelingen geen gevaar op voor de werknemers.   
-3.  Bij de keuze van een bedieningssysteem wordt rekening gehouden met defecten, storingen en belastingen die bij het gebruik van het bedieningssysteem kunnen worden verwacht.   
-4.  Een bedieningssysteem is duidelijk zichtbaar en herkenbaar en is daartoe, waar nodig, op passende wijze van functionele aanduidingen voorzien.   
-5.  Een bedieningssysteem bevindt zich zoveel mogelijk buiten de gevaarlijke zone van het arbeidsmiddel.   
-6.  De plaats van het bedieningssysteem levert geen extra gevaren op voor de werknemers.   
+1.  Een besturingssysteem van een arbeidsmiddel is veilig.   
+2.  Een besturingssysteem levert ook bij onopzettelijke handelingen geen gevaar op voor de werknemers.   
+3.  Bij de keuze van een besturingssysteem wordt rekening gehouden met defecten, storingen en belastingen die bij het gebruik van het besturingssysteem kunnen worden verwacht.   
+4.  Een bedieningsorgaan is duidelijk zichtbaar en herkenbaar en is daartoe, waar nodig, op passende wijze van functionele aanduidingen voorzien.   
+5.  Een bedieningsorgaan bevindt zich zoveel mogelijk buiten de gevaarlijke zone van het arbeidsmiddel.   
+6.  De plaats van het bedieningsorgaan levert geen extra gevaren op voor de werknemers.   
 7.  Indien een arbeidsmiddel in werking kan worden gesteld of kan worden gestopt op een plaats van waar dat arbeidsmiddel niet geheel kan worden gezien, wordt, om de betrokken werknemers te beschermen, telkens tijdig voor het inwerkingstellen of stoppen van dat arbeidsmiddel een signaal gegeven dat voldoet aan het bij of krachtens afdeling 2 van hoofdstuk 8 bepaalde.   
 
 ### Artikel  7.14  
 
 ####In werking stellen van arbeidsmiddelen
 
-1.  Een arbeidsmiddel kan uitsluitend in werking worden gesteld door een opzettelijk verrichte handeling met een daarvoor bestemd bedieningssysteem.   
+1.  Een arbeidsmiddel kan uitsluitend in werking worden gesteld door een opzettelijk verrichte handeling met een daarvoor bestemd bedieningsorgaan.   
 2.  Het eerste lid is van overeenkomstige toepassing voor het opnieuw in werking stellen na stilstand ongeacht de oorzaak daarvan, alsmede voor het bewerkstelligen van een belangrijke wijziging in de werking van het arbeidsmiddel, tenzij het opnieuw inwerkingstellen of deze wijziging geen gevaren voor personen kunnen opleveren.   
 3.  Het tweede lid is niet van toepassing, indien het inwerkingstellen of wijzigen van de werking van een arbeidsmiddel behoort tot het normale programma van een automatische cyclus.   
 
@@ -4647,7 +4648,7 @@ Op een arbeidsmiddel met een bedieningssysteem zijn naast de voorschriften van d
 
 ####Stopzetten van arbeidsmiddelen
 
-1.  Een arbeidsmiddel kan op veilige wijze worden stopgezet met een daarvoor bestemd bedieningssysteem. Een bedieningssysteem stopt naar gelang het gevaar hetzij het gehele arbeidsmiddel hetzij onderdelen daarvan, zodanig dat het arbeidsmiddel in een veilige toestand is.   
+1.  Een arbeidsmiddel kan op veilige wijze worden stopgezet met een daarvoor bestemd bedieningsorgaan. Een besturingssysteem stopt naar gelang het gevaar hetzij het gehele arbeidsmiddel hetzij onderdelen daarvan, zodanig dat het arbeidsmiddel in een veilige toestand is.   
 2.  Wanneer het arbeidsmiddel of onderdelen daarvan zijn stopgezet, wordt de energietoevoer naar het arbeidsmiddel of de onderdelen daarvan die het gevaar veroorzaken, onderbroken.   
 3.  De opdracht tot het stopzetten van een arbeidsmiddel of een onderdeel daarvan kan niet worden opgeheven door een opdracht tot starten van dat arbeidsmiddel of een onderdeel daarvan.   
 
@@ -5136,14 +5137,14 @@ Op thuiswerk zijn de afdelingen 1, 2 en 3 van dit hoofdstuk van overeenkomstige 
 ####Arbeidsmiddelen
 
 1.  De voor de arbeid benodigde arbeidsmiddelen zijn, voor zover zij gevaar voor personen opleveren, voorzien van een doelmatige afscherming.   
-2.  De voor de arbeid benodigde arbeidsmiddelen met een bedieningssysteem zijn, zo dicht mogelijk bij de plaats van de persoon die het arbeidsmiddel bedient, voorzien van een zodanige inrichting dat dit arbeidsmiddel afzonderlijk, veilig en met zekerheid kan worden stilgezet en niet dan opzettelijk weer in beweging kan worden gebracht.   
+2.  De voor de arbeid benodigde arbeidsmiddelen met een besturingssysteem zijn, zo dicht mogelijk bij de plaats van de persoon die het arbeidsmiddel bedient, voorzien van een zodanige inrichting dat dit arbeidsmiddel afzonderlijk, veilig en met zekerheid kan worden stilgezet en niet dan opzettelijk weer in beweging kan worden gebracht.   
 3.  De benodigde arbeidsmiddelen worden op de juiste wijze onderhouden en zonodig gerepareerd.   
 
 ### Artikel  7.42  
 
 ####Elektrische apparatuur
 
-1.  Aan de voor de arbeid benodigde arbeidsmiddelen met een bedieningssysteem welke gevaren van elektrische aard met zich brengen, zijn doeltreffende beveiligingen aangebracht, waarvan de werking zoveel mogelijk onafhankelijk is van degene die dat arbeidsmiddel bedient.   
+1.  Aan de voor de arbeid benodigde arbeidsmiddelen met een besturingssysteem welke gevaren van elektrische aard met zich brengen, zijn doeltreffende beveiligingen aangebracht, waarvan de werking zoveel mogelijk onafhankelijk is van degene die dat arbeidsmiddel bedient.   
 2.  Indien het in verband met de werkzaamheden noodzakelijk is dat elektrische apparatuur moet worden aangesloten of anderszins leidingen of kabels moeten worden aangelegd, gebeurt dit op een juiste wijze opdat daarvan door de thuiswerker veilig gebruik kan worden gemaakt.   
 
 ### Hoofdstuk  8  
@@ -5374,7 +5375,7 @@ De opdrachtgever is verplicht tot naleving van de voorschriften welke zijn opgen
 
 ####Verplichtingen van de ontwerpende partij
 
-De ontwerpende partij is verplicht tot naleving van de voorschriften welke zijn opgenomen in artikel 2.33.  
+De ontwerpende partij is verplicht tot naleving van de voorschriften welke zijn opgenomen in artikel 2.34.  
 
 ### Artikel  9.8  
 
@@ -5433,7 +5434,7 @@ d. van hoofdstuk 4: de artikelen 4.1b, 4.1c, eerste lid, onder i, 4.2, eerste to
 
 e. van hoofdstuk 5: de artikelen 5.3, aanhef en onderdeel b, 5.4, 5.5, 5.9, 5.10 en 5.11;  
 
-f. van hoofdstuk 6: de artikelen 6.1, 6.2, eerste tot en met vierde lid, 6.3, 6.4, 6.7, eerste tot en met vierde lid, zesde en achtste lid, 6.8, eerste, vierde tot en met zevende, en negende lid, 6.10, 6.10a, 6.11, 6.11b, eerste tot en met vierde en zesde lid, 6.11c, eerste lid, 6.11d, 6.11e, eerste, tweede en vierde lid, 6.12, vijfde lid, 6.12e, eerste, derde en vijfde lid, 6.12f, 6.12g, 6.14, 6.14a, eerste tot en met derde en vijfde lid, 6.15, eerste lid, onderdelen a en c, en tweede lid, 6.15a, tweede lid, 6.16, derde, en vijfde tot en met achtste lid, 6.17, eerste, tweede en derde lid, 6.19, tweede tot en met vierde lid, 6.20b, derde lid, onder b en vierde lid, en 6.30;  
+f. van hoofdstuk 6: de artikelen 6.1, 6.2, eerste tot en met vierde lid, 6.3, 6.4, 6.7, eerste tot en met vierde lid, zesde en achtste lid, 6.8, eerste, vierde tot en met zevende, en negende lid, 6.10, 6.10a, 6.11, 6.11b, eerste tot en met vierde en zesde lid, 6.11c, eerste lid, 6.11d, 6.11e, eerste, tweede en vierde lid, 6.12, vijfde lid, 6.12d, eerste tot en met zesde lid, negende en tiende lid, 6.12e, eerste, derde en vijfde lid, 6.12f, 6.12g, 6.14, 6.14a, eerste tot en met derde en vijfde lid, 6.15, eerste lid, onderdelen a en c, en tweede lid, 6.15a, tweede lid, 6.16, derde, en vijfde tot en met achtste lid, 6.17, eerste, tweede en derde lid, 6.19, tweede tot en met vierde lid, 6.20b, derde lid, onder b en vierde lid, en 6.30;  
 
 g. van hoofdstuk 7: de artikelen 7.3, 7.4a, eerste tot en met zesde lid, 7.5, vierde lid, 7.6, 7.8, 7.10, 7.11a, 7.13, 7.17a, zevende lid, 7.17b, tweede lid, onderdeel a, en derde en vierde lid, 7.17c, eerste, vierde, vijfde, zesde en achtste lid, 7.17d, 7.18, eerste, derde, vijfde en negende lid, 7.18a, vierde tot en met tiende lid, en twaalfde lid, 7.18b, vierde lid, 7.20 tweede en derde lid, en vijfde tot en met zevende lid, 7.23, eerste lid, onderdelen a, c, d en e, en tweede lid, 7.23b, eerste, tweede en achtste tot en met tiende lid, 7.23c, eerste lid, onderdelen f en g, 7.24, 7.25, eerste tot en met vijfde en zevende lid, 7.27, eerste lid, 7.28, 7.29, tweede tot en met achtste lid, en tiende lid, 7.30, eerste lid, 7.32, eerste en tweede lid, 7.34, eerste lid, 7.35, 7.36b, vierde lid, 7.41, derde lid, en 7.42;  
 
@@ -5602,7 +5603,7 @@ b. van hoofdstuk 2: de artikelen van de afdelingen 5, 6 en 6a;
 
 c. van hoofdstuk 3: artikel 3.1b, de artikelen van paragraaf 2a van afdeling 1 en van de afdelingen 2, 3, 3a, 3b en 3c en de paragrafen 4 en 5 van afdeling 5;  
 
-d. van hoofdstuk 4: de artikelen van afdeling 1, met uitzondering van de artikelen 4.8, 4.9 en 4.10, de artikelen van afdelingen 2, 5, 6, 7 en 9 en de artikelen van de paragrafen 2, 3 en 4 van afdeling 10;  
+d. van hoofdstuk 4: de artikelen van afdeling 1, met uitzondering van de artikelen 4.8, 4.9 en 4.10, de artikelen van afdelingen 2, 5, 6, 7, met uitzondering van artikel 4.62b, en 9 en de artikelen van de paragrafen 2, 3 en 4 van afdeling 10;  
 
 e. van hoofdstuk 5: de artikelen van de afdelingen 1 en 2 en artikel 5.14;  
 

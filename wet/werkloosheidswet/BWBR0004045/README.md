@@ -1409,11 +1409,6 @@ Hoofdstuk IV en de daarop berustende bepalingen zoals deze luidden op de dag voo
 
 De loonkostensubsidie die voor de dag van inwerkingtreding van de [Wet stimulering arbeidsparticipatie](../../../wet/wet/stimulering/arbeidsparticipatie/BWBR0025045/README.md), op grond van het [Tijdelijk besluit brugbanen herbeoordeelden](../../../AMvB/tijdelijk/besluit/brugbanen/herbeoordeelden/BWBR0023551/README.md), is verstrekt aan een werkgever ten behoeve van een persoon die op de dag voor aanvang van die gesubsidieerde dienstbetrekking recht had op een uitkering op grond van deze wet en geen recht had op een arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) of de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), wordt aangemerkt als loonkostensubsidie als bedoeld in artikel 78a.  
 
-### Artikel  130w  
-
-1.  Ten aanzien van de werknemer wiens recht op uitkering voorafgaand aan de dag van inwerkingtreding van [artikel VI, onderdeel 1A, van de Verzamelwet SZW 2011](../../../wet/verzamelwet/szw/2011/BWBR0029226/README.md) al is ingegaan en die zich op die dag onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, wordt voor de toepassing van artikel 19, eerste lid, onderdeel h, als eerste dag waarop hij zich aan de tenuitvoerlegging van die vrijheidsstraf of vrijheidsbenemende maatregel onttrekt, aangemerkt de dag van inwerkingtreding van artikel VI, onderdeel 1A, van de Verzamelwet SZW 2011 en eindigt het recht op uitkering, in afwijking van artikel 19, eerste lid, onderdeel h, vanaf de dag dat het onttrekken aan de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel zes maanden heeft geduurd.   
-2.  Dit artikel vervalt zes maanden na de dag van zijn inwerkingtreding.   
-
 ### Hoofdstuk  XI  
 
 ####Straf- en slotbepalingen

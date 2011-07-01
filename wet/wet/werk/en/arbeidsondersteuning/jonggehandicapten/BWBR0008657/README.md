@@ -1927,7 +1927,7 @@ d.  vervallen;
 
 e. de aan de uitvoering van deze wet verbonden kosten;  
 
-f. de subsidies, bedoeld in de artikelen 2.29, 3:49 en 8:4, en de kosten in verband met de uitvoering van dat artikel;  
+f. de subsidies, bedoeld in de artikelen 2.29, 3:49 en 8:4, en de kosten in verband met de uitvoering van die artikelen;  
 
 g. de reïntegratie-instrumenten op grond van deze wet;  
 
@@ -2108,14 +2108,6 @@ Artikel 3:63, zoals dat luidde voor de datum van inwerkingtreding van de wet van
 ####Overgangsbepaling in verband met artikel 2:23
 
 Artikel 2:23 is niet van toepassing op de jonggehandicapte, wiens arbeid als zelfstandige is aangevangen voor de dag van inwerkingtreding van de Wet van 3 december 2009 tot uitbreiding van de mogelijkheid om voorzieningen te verstrekken bij arbeid als zelfstandige (Stb. 589).  
-
-### Artikel  8:10b  
-
-####Overgangsbepaling in verband met artikel 3:19, zesde lid 
-
-1.  Ten aanzien van de jonggehandicapte wiens recht op arbeidsongeschiktheidsuitkering voorafgaand aan de dag van inwerkingtreding van [artikel XIX, onderdeel Bc, van de Verzamelwet SZW 2011](../../../../../../../wet/verzamelwet/szw/2011/BWBR0029226/README.md), al is ingegaan en die zich op die dag onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, wordt voor de toepassing van artikel 3:19, zesde lid, als eerste dag waarop hij zich aan de tenuitvoerlegging van die vrijheidsstraf of vrijheidsbenemende maatregel onttrekt, aangemerkt de dag van inwerkingtreding van artikel XIX, onderdeel Bc, van de Verzamelwet SZW 2011, en eindigt het recht op arbeidsongeschiktheidsuitkering in afwijking van artikel 3:19, zesde lid, vanaf de dag dat het onttrekken aan de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel zes maanden heeft geduurd.   
-2.  Ten aanzien van de jonggehandicapte wiens recht op arbeidsondersteuning voorafgaand aan de dag van inwerkingtreding van [artikel XIX, onderdeel Aa, van de Verzamelwet SZW 2011](../../../../../../../wet/verzamelwet/szw/2011/BWBR0029226/README.md), al is ingegaan en die zich op die dag onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, wordt voor de toepassing van artikel 2:11, eerste lid, onderdeel b, als eerste dag waarop hij zich aan de tenuitvoerlegging van die vrijheidsstraf of vrijheidsbenemende maatregel onttrekt, aangemerkt de dag van inwerkingtreding van artikel XIX, onderdeel Aa, van de Verzamelwet SZW 2011, en eindigt het recht op arbeidsondersteuning in afwijking van artikel 2:11, eerste lid, onderdeel b, vanaf de dag dat het onttrekken aan de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel zes maanden heeft geduurd.   
-3.  Dit artikel vervalt zes maanden na de dag van zijn inwerkingtreding.   
 
 ### Artikel  8:11  
 

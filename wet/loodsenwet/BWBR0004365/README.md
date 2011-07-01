@@ -581,7 +581,11 @@ b. die op grond van het afsluitend examen van een opleiding op het gebied van he
 
 ### Artikel  32  
 
-Het in de [artikelen 46c, tweede lid](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d, tweede lid](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46f](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l, eerste lid, aanhef en onder a, en derde lid](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46m](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46o](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), en [46p van de Wet rechtspositie rechterlijke ambtenaren](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) voor de leden van de rechterlijke macht bepaalde is van overeenkomstige toepassing ten aanzien van de leden van het tuchtcollege loodsen en hun plaatsvervangers.  
+Het in de [artikelen 46c, tweede lid](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d, tweede lid](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46f](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l, eerste lid, aanhef en onder a, en derde lid](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46m](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46o](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), en [46p van de Wet rechtspositie rechterlijke ambtenaren](../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) voor de leden van de rechterlijke macht bepaalde is van overeenkomstige toepassing ten aanzien van de leden van het tuchtcollege loodsen en hun plaatsvervangers. De [artikelen 13a](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [13b, uitgezonderd het eerste lid, onderdelen b en c, en vierde lid](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en [13c tot en met 13g van de Wet op de rechterlijke organisatie](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) zijn van overeenkomstige toepassing ten aanzien van gedragingen van de leden van het tuchtcollege loodsen en hun plaatsvervangers, met dien verstande dat: 
+
+a. voor de overeenkomstige toepassing van die artikelen onder «het betrokken gerechtsbestuur» wordt verstaan: de voorzitter van het tuchtcollege loodsen; en  
+
+b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in [artikel 13a](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), te voldoen, indien de verzoeker redelijkerwijs onvoldoende belang heeft bij een onderzoek als bedoeld in datzelfde artikel.    
 
 ### Artikel  33  
 
@@ -840,8 +844,9 @@ b. verval of beperking van de bevoegdheid als registerloods onderscheidenlijk ve
 
 ### Artikel  52  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Onze Minister is bevoegd aanwijzingen te geven aan de registerloodsen met betrekking tot de beschikbaarheid voor het verrichten van de in artikel 2, eerste en tweede lid, bedoelde diensten en het verrichten van die diensten alsmede aan de organen van de corporatie en de regionale corporaties met betrekking tot het verzorgen van de hun bij of krachtens deze wet opgedragen taken ten aanzien van de door de registerloodsen te verlenen diensten.   
-2.  De bepalingen gesteld krachtens artikel 2, derde lid, en de bepalingen gesteld bij of krachtens verordeningen als bedoeld in artikel 15, eerste lid, onderdelen *a* en *b*, vinden geen toepassing, voor zover zij onverenigbaar zijn met krachtens het eerste lid gegeven aanwijzingen.   
+2.  De bepalingen gesteld krachtens artikel 2, derde lid, en de bepalingen gesteld bij of krachtens verordeningen als bedoeld in artikel 15, eerste lid, onderdelen a en b, vinden geen toepassing, voor zover zij onverenigbaar zijn met krachtens het eerste lid gegeven aanwijzingen.   
 
 ### Artikel  53  
 

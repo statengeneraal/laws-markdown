@@ -421,11 +421,11 @@ b. er geen in aanmerking te nemen vermogen is.
 
 Voor belanghebbenden van 27 jaar of ouder doch jonger dan 65 jaar is de norm per kalendermaand, indien het betreft: 
 
-a. een alleenstaande:  € 567,79 per 1 januari 2011: € 656,93;  
+a. een alleenstaande:  € 567,79 per 1 juli 2011: € 659,93;  
 
-b. een alleenstaande ouder:  € 794,90 per 1 januari 2011: € 919,70;  
+b. een alleenstaande ouder:  € 794,90 per 1 juli 2011: € 923,90;  
 
-c. gehuwden waarvan beide echtgenoten jonger zijn dan 65 jaar:  € 1135,57 per 1 januari 2011: € 1.313,85.    
+c. gehuwden waarvan beide echtgenoten jonger zijn dan 65 jaar:  € 1135,57 per 1 juli 2011: € 1.319,85.    
 
 ### Artikel  22  
 
@@ -433,13 +433,13 @@ c. gehuwden waarvan beide echtgenoten jonger zijn dan 65 jaar:  € 1135,57 per
 
 Voor belanghebbenden van 65 jaar of ouder is de norm per kalendermaand, indien het betreft: 
 
-a. een alleenstaande:  € 843,90 per 1 januari 2011: € 1.008,30;  
+a. een alleenstaande:  € 843,90 per 1 juli 2011: € 1.013,58;  
 
-b. een alleenstaande ouder:  € 1071,01 per 1 januari 2011: € 1.268,72;  
+b. een alleenstaande ouder:  € 1071,01 per 1 juli 2011: € 1.275,53;  
 
-c. gehuwden waarvan beide echtgenoten 65 jaar of ouder zijn:  € 1188,16 per 1 januari 2011: € 1.388,16;  
+c. gehuwden waarvan beide echtgenoten 65 jaar of ouder zijn:  € 1188,16 per 1 juli 2011: € 1.395,13;  
 
-d. gehuwden waarvan een echtgenoot 65 jaar of ouder is en de andere echtgenoot 27 jaar of ouder, doch jonger dan 65 jaar:  € 1197,70 per 1 januari 2011: € 1.388,16.    
+d. gehuwden waarvan een echtgenoot 65 jaar of ouder is en de andere echtgenoot 27 jaar of ouder, doch jonger dan 65 jaar:  € 1197,70 per 1 juli 2011: € 1.395,13.    
 
 ### Artikel  23  
 
@@ -447,9 +447,9 @@ d. gehuwden waarvan een echtgenoot 65 jaar of ouder is en de andere echtgenoot 2
 
 1.  Bij een verblijf in een inrichting is de norm per kalendermaand, indien het betreft: 
 
-a. een alleenstaande of een alleenstaande ouder:  € 245,85 per 1 januari 2011: € 292,57;  
+a. een alleenstaande of een alleenstaande ouder:  € 245,85 per 1 juli 2011: € 293,92;  
 
-b. gehuwden:  € 382,43 per 1 januari 2011: € 455,06.     
+b. gehuwden:  € 382,43 per 1 juli 2011: € 457,15.     
 2.  Het bedrag van de norm, bedoeld in het eerste lid, wordt verhoogd met: 
 
 a. voor een alleenstaande of een alleenstaande ouder € 51,00 per 1 januari 2011: € 45,00;  
@@ -472,7 +472,7 @@ Indien een van de gehuwden geen recht op algemene bijstand heeft, is voor de rec
 ####Alleenstaande (ouder)
 
 1.  Het college verhoogt de norm, bedoeld in artikel 21, onderdelen a en b, met een toeslag voorzover de belanghebbende hogere algemeen noodzakelijke kosten van het bestaan heeft dan waarin de norm voorziet, als gevolg van het niet of niet geheel kunnen delen van deze kosten met een ander. Deze kosten kunnen in ieder geval niet geheel of gedeeltelijk gedeeld worden met thuisinwonende kinderen van 18 jaar of ouder die een in aanmerking te nemen inkomen hebben van ten hoogste het normbedrag voor de kosten van levensonderhoud voor hoger onderwijs, genoemd in [artikel 3.18 van de Wet studiefinanciering 2000](../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md).   
-2.  De toeslag bedraagt ten hoogste  € 227,11 per 1 januari 2011: € 262,77 per kalendermaand.   
+2.  De toeslag bedraagt ten hoogste  € 227,11 per 1 juli 2011: € 263,97 per kalendermaand.   
 
 ### Artikel  26  
 
@@ -530,7 +530,7 @@ h. inkomsten uit arbeid van de tot zijn last komende kinderen, alsmede door hen 
 
 i. rente ontvangen over op grond van artikel 34, tweede lid, onderdelen b en c, niet in aanmerking genomen vermogen en spaargelden;  
 
-j. een een- of tweemalige premie van ten hoogste € 1984,00 per 1 januari 2011: € 2.253,00 per kalenderjaar, voor zover dit naar het oordeel van het college bijdraagt aan zijn arbeidsinschakeling;  
+j. een een- of tweemalige premie van ten hoogste € 1984,00 per 1 juli 2011: € 2.267,00 per kalenderjaar, voor zover dit naar het oordeel van het college bijdraagt aan zijn arbeidsinschakeling;  
 
 k. een kostenvergoeding voor het verrichten van vrijwilligerswerk van ten hoogste een bij ministeriële regeling vast te stellen bedrag;  
 
@@ -538,11 +538,11 @@ l. bij ministeriële regeling aan te wijzen uitkeringen en vergoedingen voor mat
 
 m. giften en andere dan de in onderdeel l bedoelde vergoedingen voor materiële en immateriële schade voorzover deze naar het oordeel van het college uit een oogpunt van bijstandsverlening verantwoord zijn;  
 
-n. inkomsten uit arbeid tot 25 procent van deze inkomsten, met een maximum van € 183,00 per 1 januari 2011: € 189,00 per maand, voor zover hij algemene bijstand ontvangt, waarbij voor een persoon jonger dan 65 jaar geldt dat die inkomsten gedurende ten hoogste zes aaneengesloten maanden niet tot de middelen worden gerekend en dat dit naar het oordeel van het college moet bijdragen aan zijn arbeidsinschakeling;  
+n. inkomsten uit arbeid tot 25 procent van deze inkomsten, met een maximum van € 183,00 per 1 juli 2011: € 190,00 per maand, voor zover hij algemene bijstand ontvangt, waarbij voor een persoon jonger dan 65 jaar geldt dat die inkomsten gedurende ten hoogste zes aaneengesloten maanden niet tot de middelen worden gerekend en dat dit naar het oordeel van het college moet bijdragen aan zijn arbeidsinschakeling;  
 
 o. een financiële tegemoetkoming waarop personen met een ouderdomspensioen op grond van de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) recht hebben en een financiële tegemoetkoming waarop personen met een uitkering op grond van de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) recht hebben;  
 
-p. de ten behoeve van een levensloopregeling als bedoeld in [artikel 19g, eerste lid, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) bij een uitvoerder als bedoeld in [artikel 19g, derde lid, van die wet](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) opgebouwde voorziening;  
+p. een tegemoetkoming als bedoeld in [artikel 29a van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md);  
 
 q. een uitkering als bedoeld in [artikel 118a, eerste lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of een tegemoetkoming als bedoeld in [artikel 2:52](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) of [3:10 van de Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
 
@@ -552,7 +552,9 @@ s. een vergoeding als bedoeld in [artikel 18 van de Wet inburgering](../../../..
 
 t. tegemoetkomingen op grond van de [Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md);  
 
-u. een uitkering als bedoeld in [artikel 19a van de Wet maatschappelijke ondersteuning](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).     
+u. een uitkering als bedoeld in [artikel 19a van de Wet maatschappelijke ondersteuning](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md);  
+
+v. een tegemoetkoming op grond van [artikel 3 van de Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen](../../../../../../wet/wet/mogelijkheid/koopkrachttegemoetkoming/oudere/belastingplichtigen/BWBR0029984/README.md).     
 3.  De middelen worden in aanmerking genomen tot het bedrag dat resteert na aftrek van: 
 
 a. de daarover door de belanghebbende verschuldigde loonbelasting of inkomstenbelasting;  
@@ -1324,7 +1326,7 @@ a. algemene bijstand;
 
 b. inkomensvoorzieningen, bedoeld in de [Wet investeren in jongeren](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md);  
 
-c. uitkeringen, bedoeld in de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) en de [Wet werk en inkomen kunstenaars](../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md).   De uitkering wordt ten minste drie maanden voorafgaand aan het kalenderjaar waarop zij betrekking heeft door Onze Minister vastgesteld.   
+c. uitkeringen, bedoeld in de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) en de [Wet werk en inkomen kunstenaars](../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md).   In de uitkering zijn begrepen de loonbelasting, de premies volksverzekeringen die daarover verschuldigd zijn en de in [artikel 46 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) bedoelde vergoedingen van de inkomensafhankelijke bijdragen daarover. De uitkering wordt ten minste drie maanden voorafgaand aan het kalenderjaar waarop zij betrekking heeft door Onze Minister vastgesteld.   
 2.  Het bedrag van de uitkering wordt volgens bij of krachtens algemene maatregel van bestuur te stellen regels berekend aan de hand van het voor ieder jaar bij begrotingswet vast te stellen totale bedrag dat beschikbaar is voor de uitkering, bedoeld in het eerste lid. In afwijking van [artikel 7:11 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt uitgegaan van de gegevens waarvan Onze Minister kennis heeft op 15 augustus van het jaar volgend op het verantwoordingsjaar, met dien verstande dat gegevens die het college op verzoek van Onze Minister op een latere datum verstrekt mede in aanmerking worden genomen. Bij de vaststelling van het totale bedrag dat beschikbaar is voor de uitkering, bedoeld in het eerste lid, is het uitgangspunt dat dit bedrag toereikend is voor de voor dat jaar geraamde kosten, bedoeld in dat lid, van alle gemeenten.   
 3.  Bij of krachtens de algemene maatregel van bestuur, bedoeld in het tweede lid, kunnen regels worden gesteld omtrent: 
 
@@ -1560,13 +1562,6 @@ De artikelen 3, zevende en achtste lid, en 4, tweede lid, zijn niet van toepassi
 ####Overgangsrecht verrekening in verband met uitvoering Sociale verzekeringsbank
 
 Indien het college vóór de datum van inwerkingtreding van paragraaf 5.4 ten aanzien van een persoon als bedoeld in artikel 47a, eerste lid, een vordering heeft waarop artikel 78j van toepassing is en die persoon een uitkering op grond van die paragraaf ontvangt, betaalt de Sociale verzekeringsbank, zonder dat daarvoor machtiging nodig is van de belanghebbende, op verzoek van het college ter verrekening van die vordering aan dat college.  
-
-### Artikel  78p  
-
-####Overgangsrecht in verband met artikel 13, eerste lid, onderdeel b 
-
-1.  Ten aanzien van de persoon wiens recht op bijstand voorafgaand aan de dag van inwerkingtreding van [artikel XX, onderdeel Aa, van de Verzamelwet SZW 2011](../../../../../../wet/verzamelwet/szw/2011/BWBR0029226/README.md) al is ingegaan en die zich op die dag onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, wordt voor de toepassing van artikel 13, eerste lid, onderdeel b, als eerste dag waarop hij zich aan de tenuitvoerlegging van die vrijheidsstraf of vrijheidsbenemende maatregel onttrekt, aangemerkt de dag van inwerkingtreding van artikel XX, onderdeel Aa, van de Verzamewet SZW 2011 en eindigt het recht op bijstand, in afwijking van artikel 13, eerste lid, onderdeel b, vanaf de dag dat het onttrekken aan de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel zes maanden heeft geduurd.   
-2.  Dit artikel vervalt zes maanden na de dag van zijn inwerkingtreding.   
 
 ### Hoofdstuk  8  
 

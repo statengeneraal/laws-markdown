@@ -63,7 +63,7 @@ e. infiltreren van water: water in de bodem brengen ter aanvulling van het grond
 
 f. pompcapaciteit: het maximum wateropbrengend vermogen van een inrichting in kubieke meter per uur;  
 
-g. een waterleidingbedrijf: een waterleidingbedrijf in de zin van de [Waterleidingwet](../../../../../../wet/waterleidingwet/BWBR0002246/README.md);  
+g. drinkwaterbedrijf: drinkwaterbedrijf als bedoeld in [artikel 1, eerste lid, van de Drinkwaterwet](../../../../../../wet/drinkwaterwet/BWBR0026338/README.md);  
 
 h. OEDI: een door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aangewezen gecombineerde inrichting voor grondwaterwinning met voorschakeling van oeverfiltratie en diepinfiltratie.     
 2.  Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen worden als één inrichting aangemerkt: 
@@ -71,7 +71,7 @@ h. OEDI: een door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Mi
 a. inrichtingen die een samenhangend geheel vormen;  
 
 b. inrichtingen van dezelfde houder die op minder dan een kilometer afstand van elkaar gelegen zijn en die worden gebruikt voor overeenkomstige doeleinden.     
-3.  Als waterleidingbedrijf wordt mede aangemerkt de persoon die of het lichaam dat op zichzelf niet een waterleidingbedrijf is in de zin van de [Waterleidingwet](../../../../../../wet/waterleidingwet/BWBR0002246/README.md), doch met een dergelijk bedrijf in financieel, organisatorisch en economisch opzicht zodanig is verweven dat die persoon of dat lichaam met dat bedrijf een eenheid vormt.   
+3.  Als drinkwaterbedrijf wordt mede aangemerkt de persoon die of het lichaam dat op zichzelf niet een drinkwaterbedrijf is als bedoeld in [artikel 1, eerste lid, van de Drinkwaterwet](../../../../../../wet/drinkwaterwet/BWBR0026338/README.md), doch met een dergelijk bedrijf in financieel, organisatorisch en economisch opzicht zodanig is verweven dat die persoon of dat lichaam met dat bedrijf een eenheid vormt.   
 4.  Dit hoofdstuk is niet van toepassing op het onttrekken van grondwater: 
 
 a. bij de ontwatering of afwatering van gronden;  
@@ -175,15 +175,15 @@ h. onttrekkingen ten behoeve van landijsbanen.
 
 Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. leidingwater: water dat door een waterleidingbedrijf of een afzonderlijke watervoorziening aan derden ter beschikking wordt gesteld, al dan niet van drinkwaterkwaliteit;  
+a. leidingwater: water dat door een drinkwaterbedrijf of een afzonderlijke watervoorziening aan derden ter beschikking wordt gesteld, al dan niet van drinkwaterkwaliteit;  
 
-b. waterleidingbedrijf: een waterleidingbedrijf als bedoeld in de [Waterleidingwet](../../../../../../wet/waterleidingwet/BWBR0002246/README.md);  
+b. drinkwaterbedrijf: drinkwaterbedrijf als bedoeld in [artikel 1, eerste lid, van de Drinkwaterwet](../../../../../../wet/drinkwaterwet/BWBR0026338/README.md);  
 
-c. afzonderlijke watervoorziening: landgebonden voorziening, niet zijnde een waterleidingbedrijf, voor de winning of behandeling van water, dat met behulp van een leiding of distributienet als leidingwater ter beschikking wordt gesteld;  
+c. afzonderlijke watervoorziening: landgebonden voorziening, niet zijnde een drinkwaterbedrijf, voor de winning of behandeling van water, dat met behulp van een leiding of distributienet als leidingwater ter beschikking wordt gesteld;  
 
-d. aansluiting: een aansluiting van een in Nederland gelegen onroerende zaak als bedoeld in [artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken](../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), op het distributienet van een waterleidingbedrijf of van een afzonderlijke watervoorziening, waaruit leidingwater aan de verbruiker wordt geleverd; een aansluiting kan bestaan uit een of meer leveringspunten;  
+d. aansluiting: een aansluiting van een in Nederland gelegen onroerende zaak als bedoeld in [artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken](../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), op het distributienet van een drinkwaterbedrijf of van een afzonderlijke watervoorziening, waaruit leidingwater aan de verbruiker wordt geleverd; een aansluiting kan bestaan uit een of meer leveringspunten;  
 
-e. particuliere installatie voor centrale watervoorziening: installatie voor de levering van water aan meer dan een onroerende zaak als bedoeld in [artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken](../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), welke installatie permanent is aangesloten op het distributienet van een waterleidingbedrijf of van een afzonderlijke watervoorziening.    
+e. particuliere installatie voor centrale watervoorziening: installatie voor de levering van water aan meer dan een onroerende zaak als bedoeld in [artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken](../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), welke installatie permanent is aangesloten op het distributienet van een drinkwaterbedrijf of van een afzonderlijke watervoorziening.    
 
 ### Afdeling  2  
 

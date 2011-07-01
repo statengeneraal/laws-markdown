@@ -120,17 +120,17 @@ c. de alleenstaande gewezen zelfstandige zonder kinderen.
 
 2°. het inkomen uit arbeid of overig inkomen van de gewezen zelfstandige bedroeg de laatste drie boekjaren gemiddeld minder dan ƒ 36 800 per 1 januari 2011: € 20.405,00 per jaar;  
 
-3°. het inkomen uit arbeid of overig inkomen van de gewezen zelfstandige zou bij voortzetting van het bedrijf of beroep naar verwachting duurzaam minder dan ƒ 36 800 per 1 januari 2011: € 21.178,00 per jaar bedragen; en  
+3°. het inkomen uit arbeid of overig inkomen van de gewezen zelfstandige zou bij voortzetting van het bedrijf of beroep naar verwachting duurzaam minder dan ƒ 36 800 per 1 juli 2011: € 21.329,00 per jaar bedragen; en  
 
 4°. de aanvraag is ingediend voor het beëindigen van het bedrijf of beroep en de beëindiging heeft plaatsgevonden binnen een periode van anderhalf jaar, volgend op het tijdstip van aanvraag.     
 3.  Het recht op uitkering komt de gewezen zelfstandige en de echtgenoot gezamenlijk toe. De uitkering wordt aan de gewezen zelfstandige en de echtgenoot ieder voor de helft uitbetaald, dan wel op hun gezamenlijk verzoek aan een van hen voor het geheel.   
 4.  De grondslag bedoeld in het eerste lid, wordt door Onze Minister zodanig vastgesteld dat voor: 
 
-a. de gewezen zelfstandige en de echtgenoot de helft van de grondslag netto gelijk is aan € 656,93;  
+a. de gewezen zelfstandige en de echtgenoot de helft van de grondslag netto gelijk is aan € 659,93;  
 
-b. de alleenstaande gewezen zelfstandige met een of meer kinderen de grondslag netto gelijk is aan € 1.182,47;  
+b. de alleenstaande gewezen zelfstandige met een of meer kinderen de grondslag netto gelijk is aan € 1.187,87;  
 
-c. voor de alleenstaande gewezen zelfstandige zonder kinderen netto gelijk is aan € 919,70.     
+c. voor de alleenstaande gewezen zelfstandige zonder kinderen netto gelijk is aan € 923,90.     
 5.  Onze Minister herziet de bedragen, genoemd in het tweede lid, 2° en 3°, met ingang van een door hem te bepalen dag zodanig, dat deze netto gelijk zijn aan het netto minimumloon.   
 6.  De in het vierde lid genoemde bedragen worden gewijzigd met ingang van de dag waarop het netto minimumloon wijzigt met het percentage van deze wijziging.   
 
@@ -173,7 +173,7 @@ Indien het recht op uitkering als gevolg van werkaanvaarding van de gewezen zelf
 a. voor de gewezen zelfstandige en de echtgenoot: de som van het inkomen uit arbeid of overig inkomen van hemzelf en zijn echtgenoot;  
 
 b. voor de alleenstaande gewezen zelfstandige: zijn inkomen uit arbeid of overig inkomen.     
-2.  Als inkomen wordt voorts aangemerkt het inkomen uit het vermogen waarover de gewezen zelfstandige en zijn echtgenoot na de beëindiging van het bedrijf of beroep beschikken, met dien verstande dat daarbij een vermogen van ƒ 202 000 per 1 januari 2011: € 122.094,00 buiten beschouwing blijft. Het inkomen uit vermogen wordt bepaald op 5% per jaar van het vermogen.   
+2.  Als inkomen wordt voorts aangemerkt het inkomen uit het vermogen waarover de gewezen zelfstandige en zijn echtgenoot na de beëindiging van het bedrijf of beroep beschikken, met dien verstande dat daarbij een vermogen van ƒ 202 000 per 1 januari 2011: € 122.094,00 buiten beschouwing blijft. Het inkomen uit vermogen wordt bepaald op 5% Bij Stcrt. 1996/247 is dit percentage m.i.v. 1 januari 1997 vastgesteld op 4%. per jaar van het vermogen.   
 3.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 291,04 per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
 4.  Bij algemene maatregel van bestuur wordt bepaald wat wordt verstaan onder inkomen uit arbeid of overig inkomen als bedoeld in het eerste lid en in artikel 5, tweede lid. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.   
 5.  Onze Minister herziet het bedrag, genoemd in het tweede lid, met ingang van een door hem te bepalen dag, voor zover de consumentenprijsindex daartoe aanleiding geeft.   
@@ -653,11 +653,6 @@ Het recht tot strafvordering vervalt indien het college aan de belanghebbende te
 ### Artikel  63a  
 
 De artikelen 3, zevende en achtste lid, en 4, tweede lid, zijn niet van toepassing, indien voor de inwerkingtreding van deze artikelleden, op grond van artikel 5 recht bestaat op een uitkering voor de zelfstandige en de echtgenoot, omdat de ongehuwde uitkeringsgerechtigde wegens een gezamenlijke huishouding met een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind is aangemerkt als echtgenoot, voor zolang dit recht op uitkering bestaat, tenzij toepassing van de genoemde artikelleden leidt tot een hogere uitkering.  
-
-### Artikel  63b  
-
-1.  Ten aanzien van de gewezen zelfstandige wiens recht op uitkering voorafgaand aan de dag van inwerkingtreding van [artikel IX, onderdeel Aa, van de Verzamelwet SZW 2011](../../../../../../../../../../wet/verzamelwet/szw/2011/BWBR0029226/README.md) al is ingegaan en die zich op die dag onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, wordt voor de toepassing van artikel 6, tweede lid, onderdeel e, als eerste dag waarop hij zich aan de tenuitvoerlegging van die vrijheidsstraf of vrijheidsbenemende maatregel onttrekt, aangemerkt de dag van inwerkingtreding van artikel IX, onderdeel Aa, van de Verzamelwet SZW 2011 en eindigt het recht op uitkering, in afwijking van artikel 6, tweede lid, onderdeel e, vanaf de dag dat het onttrekken aan de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel zes maanden heeft geduurd. De eerste zin is van overeenkomstige toepassing met betrekking tot artikel 6, derde lid.   
-2.  Dit artikel vervalt zes maanden na de dag van zijn inwerkingtreding.   
 
 ### Artikel  63b*  
 

@@ -16,7 +16,7 @@ Gelet op:
 
 – richtlijn 2008/105/EG van het Europees Parlement en de Raad van 16 december 2008 inzake milieukwaliteitsnormen op het gebied van het waterbeleid tot wijziging en vervolgens intrekking van de richtlijnen 82/176/EEG, 83/513/EEG, 84/156/EEG, 84/491/EEG en 86/280/EEG van de Raad, en tot wijziging van richtlijn 2000/60/EG, en  
 
-– de [artikelen 5.1, eerste en derde lid](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [5.2, eerste lid](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [5.2b, derde en vierde lid](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [5.3, eerste en derde lid, van de Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);   
+– de artikelen 5.1, eerste en derde lid, 5.2, eerste lid, 5.2b, derde en vierde lid, en 5.3, eerste en derde lid, van de Wet milieubeheer;   
 De Raad van State gehoord (advies van 3 september 2009, no. W08.09.0109/IV);
 
 Gezien het nader rapport van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 26 november 2009, nr. BJZ2009063271, Directie Bestuurlijke en Juridische Zaken, uitgebracht mede namens de Staatssecretaris van Verkeer en Waterstaat en Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
@@ -29,39 +29,39 @@ Hebben goedgevonden en verstaan:
 
 1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-*beheerplan voor de rijkswateren:* plan als bedoeld in [artikel 4.6, eerste lid, van de Waterwet](../../../../../../../../wet/waterwet/BWBR0025458/README.md) dat op rijkswateren betrekking heeft;  
+*beheerplan voor de rijkswateren:* plan als bedoeld in artikel 4.6, eerste lid, van de Waterwet dat op rijkswateren betrekking heeft;  
 
-*beheerplan voor de regionale wateren:* plan als bedoeld in [artikel 4.6, eerste lid, van de Waterwet](../../../../../../../../wet/waterwet/BWBR0025458/README.md) dat op regionale wateren betrekking heeft;  
+*beheerplan voor de regionale wateren:* plan als bedoeld in artikel 4.6, eerste lid, van de Waterwet dat op regionale wateren betrekking heeft;  
 
-*grondwaterlichaam:* grondwaterlichaam als bedoeld in artikel 2 van de kaderrichtlijn water, dat krachtens [artikel 4.10 van het Waterbesluit](../../../../../../../../AMvB/waterbesluit/BWBR0026872/README.md) is aangewezen in het regionale waterplan;  
+*grondwaterlichaam:* grondwaterlichaam als bedoeld in artikel 2 van de kaderrichtlijn water, dat krachtens artikel 4.10 van het Waterbesluit is aangewezen in het regionale waterplan;  
 
 *grondwaterrichtlijn:*richtlijn nr. 2006/118/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende de bescherming van het grondwater tegen verontreiniging en achteruitgang van de toestand (PbEU L 372);  
 
-*kunstmatig oppervlaktewaterlichaam:* oppervlaktewaterlichaam dat als zodanig krachtens [artikel 4.5](../../../../../../../../AMvB/waterbesluit/BWBR0026872/README.md) of [4.10 van het Waterbesluit](../../../../../../../../AMvB/waterbesluit/BWBR0026872/README.md) is aangewezen in het nationale waterplan of het regionale waterplan;  
+*kunstmatig oppervlaktewaterlichaam:* oppervlaktewaterlichaam dat als zodanig krachtens artikel 4.5 of 4.10 van het Waterbesluit is aangewezen in het nationale waterplan of het regionale waterplan;  
 
-*milieukwaliteitseis:* milieudoelstelling, vastgesteld als eis als bedoeld in [artikel 5.1, eerste lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+*milieukwaliteitseis:* milieudoelstelling, vastgesteld als eis als bedoeld in artikel 5.1, eerste lid, van de wet;  
 
-*monitoringsprogramma:* monitoringsprogramma als bedoeld in [artikel 5.3, derde lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+*monitoringsprogramma:* monitoringsprogramma als bedoeld in artikel 5.3, derde lid, van de wet;  
 
-*nationaal waterplan:* plan als bedoeld in [artikel 4.1, eerste lid, van de Waterwet](../../../../../../../../wet/waterwet/BWBR0025458/README.md);  
+*nationaal waterplan:* plan als bedoeld in artikel 4.1, eerste lid, van de Waterwet;  
 
-*oppervlaktewaterlichaam:* oppervlaktewaterlichaam als bedoeld in artikel 2 van de kaderrichtlijn water, dat krachtens [artikel 4.5](../../../../../../../../AMvB/waterbesluit/BWBR0026872/README.md) of [4.10 van het Waterbesluit](../../../../../../../../AMvB/waterbesluit/BWBR0026872/README.md) is aangewezen in het nationale waterplan of het regionale waterplan;  
+*oppervlaktewaterlichaam:* oppervlaktewaterlichaam als bedoeld in artikel 2 van de kaderrichtlijn water, dat krachtens artikel 4.5 of 4.10 van het Waterbesluit is aangewezen in het nationale waterplan of het regionale waterplan;  
 
 *Onze Ministers:* Onze Minister tezamen met Onze Ministers van Verkeer en Waterstaat en van Landbouw, Natuur en Voedselkwaliteit, ieder voor zover het aangelegenheden betreft, die mede tot zijn verantwoordelijkheid behoren;  
 
-*regionale wateren:* regionale wateren als bedoeld in [artikel 1.1 van de Waterwet](../../../../../../../../wet/waterwet/BWBR0025458/README.md);  
+*regionale wateren:* regionale wateren als bedoeld in artikel 1.1 van de Waterwet;  
 
-*regionaal waterplan:* plan als bedoeld in [artikel 4.4, eerste lid, van de Waterwet](../../../../../../../../wet/waterwet/BWBR0025458/README.md);  
+*regionaal waterplan:* plan als bedoeld in artikel 4.4, eerste lid, van de Waterwet;  
 
 *richtlijn prioritaire stoffen:*Richtlijn 2008/105/EG van het Europees Parlement en de Raad van 16 december 2008 inzake milieukwaliteitsnormen op het gebied van het waterbeleid tot wijziging en vervolgens intrekking van de Richtlijnen 82/176/EEG, 83/513/EEG, 84/156/EEG, 84/491/EEG en 86/280/EEG van de Raad, en tot wijziging van Richtlijn 2000/60/EG;  
 
-*richtwaarde:* als richtwaarde aangemerkte milieukwaliteitseis als bedoeld in [artikel 5.1, derde lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+*richtwaarde:* als richtwaarde aangemerkte milieukwaliteitseis als bedoeld in artikel 5.1, derde lid, van de wet;  
 
-*rijkswateren:* rijkswateren als bedoeld in [artikel 1.1 van de Waterwet](../../../../../../../../wet/waterwet/BWBR0025458/README.md);  
+*rijkswateren:* rijkswateren als bedoeld in artikel 1.1 van de Waterwet;  
 
-*sterk veranderd oppervlaktewaterlichaam:* oppervlaktewaterlichaam dat als zodanig krachtens [artikel 4.5](../../../../../../../../AMvB/waterbesluit/BWBR0026872/README.md) of [4.10 van het Waterbesluit](../../../../../../../../AMvB/waterbesluit/BWBR0026872/README.md) is aangewezen in het nationale waterplan of het regionale waterplan;  
+*sterk veranderd oppervlaktewaterlichaam:* oppervlaktewaterlichaam dat als zodanig krachtens artikel 4.5 of 4.10 van het Waterbesluit is aangewezen in het nationale waterplan of het regionale waterplan;  
 
-*stroomgebieddistrict:* stroomgebieddistrict als bedoeld in [artikel 1.1 van de Waterwet](../../../../../../../../wet/waterwet/BWBR0025458/README.md), gevormd door een of meer stroomgebieden en daarvan deel uitmakende deelstroomgebieden;  
+*stroomgebieddistrict:* stroomgebieddistrict als bedoeld in artikel 1.1 van de Waterwet, gevormd door een of meer stroomgebieden en daarvan deel uitmakende deelstroomgebieden;  
 
 *typen natuurlijk oppervlaktewaterlichaam:* rivieren, meren, overgangswateren of kustwateren als omschreven in bijlage II, punt 1.2 bij de kaderrichtlijn water, waarvoor de typespecifieke referentieomstandigheden voor Nederland zijn uitgewerkt in de ministeriële regeling op grond van artikel 15 en in het monitoringsprogramma overeenkomstig bijlage II, punt 1.3, bij de kaderrichtlijn water;  
 
@@ -71,7 +71,7 @@ Hebben goedgevonden en verstaan:
 
 *waterwinlocatie:* onttrekkingspunt van oppervlaktewater of grondwater dat wordt gebruikt voor de bereiding van voor menselijke consumptie bestemd water, of een samenstel van dergelijke onttrekkingspunten;  
 
-*wet:*[Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).     
+*wet:*Wet milieubeheer.     
 2.  In dit besluit en de daarop berustende bepalingen wordt onder de volgende begrippen verstaan wat daaronder in artikel 2 van de kaderrichtlijn water wordt verstaan: beschikbare grondwatervoorraad, binnenwateren, deelstroomgebied, ecologische toestand, gevaarlijke stoffen, goede ecologische toestand, goed ecologisch potentieel, goede chemische toestand van oppervlaktewater, goede chemische toestand van grondwater, goede grondwatertoestand, goede kwantitatieve grondwatertoestand, goede oppervlaktewatertoestand, grondwater, grondwatertoestand, kustwateren, kwantitatieve grondwatertoestand, meer, milieudoelstelling, milieukwaliteitsnorm, oppervlaktewater, oppervlaktewatertoestand, overgangswater, prioritaire stoffen, rivier, stroomgebied, verontreiniging, voor menselijke consumptie bestemd water.   
 3.  In dit besluit en de daarop berustende bepalingen wordt onder de volgende begrippen verstaan wat daaronder in artikel 2 van de grondwaterrichtlijn wordt verstaan: drempelwaarde, significante en aanhoudend stijgende trend.   
 
@@ -113,14 +113,14 @@ c. is voldaan aan alle voorwaarden van artikel 6, eerste lid, onder c, en tweede
 
 ### Artikel  3  
 
-1.  Voor de toepassing van [artikel 5.2b, vierde lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) geldt dat een tijdelijke achteruitgang van de toestand van een waterlichaam is toegelaten indien: 
+1.  Voor de toepassing van artikel 5.2b, vierde lid, van de wet geldt dat een tijdelijke achteruitgang van de toestand van een waterlichaam is toegelaten indien: 
 
 a. deze het resultaat is van omstandigheden die zich door een natuurlijke oorzaak of overmacht voordoen en die uitzonderlijk zijn of niet redelijkerwijze waren te voorzien, met name extreme overstromingen en lange droogteperioden, of het gevolg zijn van omstandigheden die zijn veroorzaakt door redelijkerwijs niet te voorziene ongevallen,  
 
 b. aan alle voorwaarden van artikel 4, zesde en achtste lid, van de kaderrichtlijn water is voldaan, en  
 
 c. de reden van de afwijking voor dat waterlichaam wordt vermeld in het eerstvolgende beheerplan voor de rijkswateren, indien het rijkswateren betreft, dan wel het eerstvolgende regionale waterplan, indien het regionale wateren of grondwater betreft.     
-2.  Voor de toepassing van [artikel 5.2b, vierde lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) geldt dat een achteruitgang van de toestand van een waterlichaam is toegelaten indien: 
+2.  Voor de toepassing van artikel 5.2b, vierde lid, van de wet geldt dat een achteruitgang van de toestand van een waterlichaam is toegelaten indien: 
 
 a. het niet voorkomen van die achteruitgang het gevolg is van nieuwe veranderingen van de fysische kenmerken van een oppervlaktewaterlichaam of wijzigingen in de stand van grondwaterlichamen, dan wel het niet voorkomen van achteruitgang van een zeer goede toestand van een oppervlaktewaterlichaam naar een goede toestand het gevolg is van nieuwe duurzame activiteiten van menselijke ontwikkeling,  
 
@@ -201,12 +201,11 @@ Voor de toepassing van artikel 12 wordt onder een waterwinlocatie verstaan een l
 2.  Aan de richtwaarde wordt met ingang van 22 december 2009 voldaan.   
 3.  Bij de vaststelling van een plan als bedoeld in het eerste lid worden de volgende streefwaarden betrokken: 
 
-a. de kwaliteit van oppervlaktewaterlichamen waarin een waterwinlocatie is gelegen, verbetert zodanig dat het niveau van zuivering van het onttrokken water kan worden verlaagd in samenhang met het behalen van de waarden voor het onttrokken water, genoemd in bijlage III, tabel 2, bij dit besluit;  
+a. de kwaliteit van oppervlaktewaterlichamen waarin een waterwinlocatie is gelegen, verbetert zodanig dat het niveau van zuivering van het onttrokken water kan worden verlaagd totdat het onttrokken water voldoet aan alle ingevolge bijlage III, tabel 2, bij dit besluit geldende streefwaarden;  
 
 b. de kwaliteit van grondwaterlichamen waarin een waterinlocatie is gelegen, verbetert zodanig dat het niveau van zuivering van het onttrokken water kan worden verlaagd;  
 
 c. de kwaliteit van oppervlaktewaterlichamen waaruit na oeverinfiltratie op een waterwinlocatie water wordt onttrokken, verbetert zodanig dat het niveau van zuivering van het onttrokken water kan worden verlaagd.     
-4.  Voor de toepassing van het derde lid, onder a, wordt onder het niveau van zuivering verstaan het niveau van de toe te passen behandelingsmethode, zoals vereist volgens [bijlage E](../../../../../../../../AMvB/waterleidingbesluit/BWBR0002339/README.md), juncto [bijlage D, bij het Waterleidingbesluit](../../../../../../../../AMvB/waterleidingbesluit/BWBR0002339/README.md).   
 
 ### §  5  
 
@@ -238,7 +237,7 @@ g. vaststelling van de toestandsklasse waarin een waterlichaam zich bevindt, per
 
 Voor de uitvoering van het monitoringsprogramma zijn, ieder voor zover hun bevoegdheid strekt, verantwoordelijk: 
 
-a. voor oppervlaktewaterlichamen: de bestuursorganen die bevoegd zijn een vergunning krachtens [artikel 6.2, eerste lid, van de Waterwet](../../../../../../../../wet/waterwet/BWBR0025458/README.md) te verlenen;  
+a. voor oppervlaktewaterlichamen: de bestuursorganen die bevoegd zijn een vergunning krachtens artikel 6.2, eerste lid, van de Waterwet te verlenen;  
 
 b. voor grondwaterlichamen: gedeputeerde staten.    
 
@@ -248,8 +247,8 @@ Bij ministeriële regeling kunnen met inachtneming van het daaromtrent bepaalde 
 
 ### Artikel  16  
 
-1.  In het monitoringsprogramma wordt, met inachtneming van het tweede lid, aangegeven op welke wijze aan het eind van de planperiode voor elk waterlichaam wordt vastgesteld of gedurende de planperiode is voldaan aan [artikel 5.2b, vierde lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
-2.  Er is niet aan [artikel 5.2b, vierde lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voldaan indien voor een stof of kwaliteitselement waarvoor ingevolge dit besluit een richtwaarde geldt: 
+1.  In het monitoringsprogramma wordt, met inachtneming van het tweede lid, aangegeven op welke wijze aan het eind van de planperiode voor elk waterlichaam wordt vastgesteld of gedurende de planperiode is voldaan aan artikel 5.2b, vierde lid, van de wet.   
+2.  Er is niet aan artikel 5.2b, vierde lid, van de wet voldaan indien voor een stof of kwaliteitselement waarvoor ingevolge dit besluit een richtwaarde geldt: 
 
 a. de toestand van een waterlichaam in een lagere toestandklasse terecht is gekomen,  
 
@@ -281,8 +280,8 @@ b. voor grondwaterlichamen:
 
 ### Artikel  17  
 
-1.  De termijn, bedoeld in [artikel 5.1, vijfde lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), bedraagt zes jaar, tenzij een bij dit besluit gestelde milieukwaliteitseis eerder herziening behoeft ter implementatie van artikel 11, vijfde lid, vierde streepje van de kaderrichtlijn water.   
-2.  De eerste volzin van [artikel 5.2, derde lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is niet van toepassing ten aanzien van de bij dit besluit gestelde milieukwaliteitseisen.   
+1.  De termijn, bedoeld in artikel 5.1, vijfde lid, van de wet, bedraagt zes jaar, tenzij een bij dit besluit gestelde milieukwaliteitseis eerder herziening behoeft ter implementatie van artikel 11, vijfde lid, vierde streepje van de kaderrichtlijn water.   
+2.  De eerste volzin van artikel 5.2, derde lid, van de wet is niet van toepassing ten aanzien van de bij dit besluit gestelde milieukwaliteitseisen.   
 
 ### Artikel  18  
 
@@ -290,8 +289,8 @@ Een wijziging van de kaderrichtlijn water krachtens artikel 20 van de richtlijn,
 
 ### Artikel  19  
 
-1.  De paragrafen van het [Besluit kwaliteitseisen en monitoring water](../../../../../../../../AMvB/besluit/kwaliteitseisen/en/monitoring/water/BWBR0003633/README.md) vervallen op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende paragrafen verschillend kan worden vastgesteld.   
-2.  Het [Besluit kwaliteitseisen en monitoring water](../../../../../../../../AMvB/besluit/kwaliteitseisen/en/monitoring/water/BWBR0003633/README.md) wordt ingetrokken.   
+1.  De paragrafen van het Besluit kwaliteitseisen en monitoring water vervallen op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende paragrafen verschillend kan worden vastgesteld.   
+2.  Het Besluit kwaliteitseisen en monitoring water wordt ingetrokken.   
 
 ### Artikel  20  
 
@@ -332,7 +331,7 @@ E. M. H. Hirsch Ballin
 De volgende milieukwaliteitsnormen zijn richtwaarden die betrekking hebben op oppervlaktewaterlichamen.  
 
 | Prioritaire stoffen  | Milieukwaliteitsnormen  | (1)  | (2)  | (3)  | (4)  | (5)  | (6)  | (7)  | Nr.  | Naam van de stof  | CAS-nummer  | JG-MKN <sup>1, 3</sup>  Landoppervlaktewateren <sup>2</sup> (μg/l)  | JG-MKN <sup>1, 3</sup>  Andere oppervlaktewateren <sup>2</sup> (μg/l)  | MAC-MKN <sup>3, 4</sup>  Landoppervlaktewateren <sup>2</sup> (μg/l)  | MAC-MKN <sup>3, 4</sup>  Andere oppervlaktewateren <sup>2</sup> (μg/l)  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | (1)  | Alachloor  | 15972-60-8  | 0,3  | 0,3  | 0,7  | 0,7  |
 | (2)  | Antraceen  | 120-12-7  | 0,1  | 0,1  | 0,4  | 0,4  |
 | (3)  | Atrazine  | 1912-24-9  | 0,6  | 0,6  | 2,0  | 2,0  |
@@ -391,7 +390,7 @@ De volgende milieukwaliteitsnormen zijn richtwaarden die betrekking hebben op op
 De volgende milieukwaliteitsnormen zijn richtwaarden die betrekking hebben op oppervlaktewaterlichamen. Zij hebben betrekking op biota en gelden voor de volgende stoffen in aanvulling op de milieukwaliteitsnormen die hiervoor in tabel 1 zijn opgenomen.  
 
 | Verontreinigende stoffen  | Milieukwaliteitsnormen  | (1)  | (2)  | (3)  | (4)  | Nr.  | Naam van de stof  | CAS-nummer  | MKN (μg/kg) <sup>1</sup>  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|
 | (16)  | Hexachloor-benzeen  | 118-74-1  | 10  |
 | (17)  | Hexachloorbutadieen  | 87-68-3  | 55  |
 | (21)  | Kwik en zijn verbindingen  | 7439-97-6  | 20  |
@@ -409,7 +408,7 @@ De volgende milieukwaliteitsnormen zijn richtwaarden die betrekking hebben op op
 De volgende milieukwaliteitsnormen zijn richtwaarden die betrekking hebben op grondwaterlichamen. Zij zijn door Nederland als drempelwaarden ter uitvoering van artikel 3, eerste lid, onder b, en zesde lid, van de grondwaterrichtlijn vastgesteld.  
 
 | Verontreinigende stof  | Richtwaarde  |
-|:---|:---|
+|---|---|
 | Nitraten  | 50 mg/l  |
 | Werkzame stoffen in bestrijdingsmiddelen, met inbegrip van de relevante omzettings-, afbraak- en reactieproducten daarvan <sup>1</sup>  | 0,1 μg/l  0,5 μg/l (totaal) <sup>2</sup>  |
 
@@ -422,7 +421,7 @@ De volgende milieukwaliteitsnormen zijn richtwaarden die betrekking hebben op gr
 De volgende milieukwaliteitsnormen zijn richtwaarden die betrekking hebben op grondwaterlichamen. Zij zijn door Nederland als drempelwaarden ter uitvoering van artikel 3, eerste lid, onder b, en zesde lid, van de grondwaterrichtlijn vastgesteld, rekening houdend met bijlage VIII bij de kaderrichtlijn water.  
 
 | Grondwaterlichamen  |--- | Richtwaarden voor verontreinigende stoffen  |--- |--- | Cl  | Ni  | As  | Cd  | Pb  | P-tot  | Code  | Omschrijving  | mg/l  | μg/l  | μg/l  | μg/l  | μg/l  | mg/l  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | NLGW0001  | Zand Eems  | 140  | 30  | 15,0  | 0,5  | 11  | 1,0  |
 | NLGW0008  | Zout Eems  | n.r.  | 30  | 19,5  | 0,5  | 11  | 8,2  |
 | NLGW0002  | Zand Rijn-Noord  | 140  | 30  | 15,0  | 0,5  | 11  | 0,6  |
@@ -448,7 +447,7 @@ De volgende milieukwaliteitsnormen zijn richtwaarden die betrekking hebben op gr
 | NLGWSC0005  | Grondwater in diepe zandlagen  | 1500  | 30  | 15,0  | 0,5  | 11  | n.r.  |
 
 n.r. = niet relevant 
-![246170](http://wetten.overheid.nl/Illustration/246170)
+![]()
 
 ### Bijlage  III  
 
@@ -461,7 +460,7 @@ n.r. = niet relevant
 De volgende milieukwaliteitsnormen zijn richtwaarden die betrekking hebben op oppervlaktewater dat wordt gebruikt voor de bereiding van voor menselijke consumptie bestemd water.  
 
 | Parameter  | Eenheid  | Norm  |
-|:---|:---|:---|
+|---|---|---|
 | Zuurgraad  | pH  | 7,0 – 9,0  |
 | Kleurintensiteit  | mg/l  | 50  |
 | Gesuspendeerde stoffen  | mg/l  | 50  |
@@ -511,7 +510,7 @@ De volgende milieukwaliteitsnormen zijn richtwaarden die betrekking hebben op op
 De volgende milieukwaliteitsnormen zijn streefwaarden die betrekking hebben op oppervlaktewater dat wordt gebruikt voor de bereiding van drinkwater.  
 
 | Parameter  | Eenheid  | Norm  |
-|:---|:---|:---|
+|---|---|---|
 | Zuurgraad  | pH  | 7,0 – 8,5  |
 | Gesuspendeerde stoffen  | mg/l  | 25  |
 | Geleidingsvermogen voor electriciteit  | mS/m bij 20°C  | 100  |

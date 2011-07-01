@@ -303,6 +303,12 @@ Artikel 17, eerste tot en met derde lid, is niet van toepassing in de gevallen, 
 
 Geen premies voor de werknemersverzekeringen zijn verschuldigd met ingang van de eerste dag van de maand waarin de verzekerde de leeftijd van 65 jaar zal bereiken.  
 
+### Artikel  21a  
+
+####Premieplicht WIA tijdens levensloopverlof
+
+Voor de toepassing van dit hoofdstuk wordt in afwijking in zoverre van [artikel 8, derde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) mede als werknemer in de zin van de Wet werk en inkomen beschouwd degene die levensloopverlof geniet in het kader van de toepassing van de levensloopregeling, bedoeld in [artikel 19g van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).  
+
 ### §  4  
 
 ####Premiewijziging anders dan per 1 januari
@@ -540,22 +546,11 @@ a. eindigt met ingang van de dag waarop de schriftelijke garantie, bedoeld in he
 b. wordt door de inspecteur op 1 januari of 1 juli van enig jaar beëindigd bij voor bezwaar vatbare beschikking op aanvraag van de werkgever, mits deze aanvraag ten minste dertien weken voor de desbetreffende datum is ingediend;  
 
 c. kan door de inspecteur zonder aanvraag van de werkgever met onmiddellijke ingang bij voor bezwaar vatbare beschikking worden beëindigd indien de rechtbank de noodregeling, bedoeld in [hoofdstuk 3.5 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft uitgesproken over de betrokken verzekeraar onderscheidenlijk kredietinstelling.     
-11.  Aan een gemeente kan door de inspecteur bij voor bezwaar vatbare beschikking toestemming worden verleend om het risico, bedoeld in het eerste lid, zelf te dragen met uitzondering van dat risico ten aanzien van haar werknemers die werkzaam zijn bij: 
-
-a. een door een of meer gemeenten, al dan niet tezamen met een of meer privaatrechtelijke rechtspersonen met volledige rechtsbevoegdheid, in stand gehouden school;  
-
-b. een door een openbare rechtspersoon als bedoeld in [artikel 47 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) in stand gehouden school;  
-
-c. een door een stichting als bedoeld in [artikel 17](../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 48 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) in stand gehouden school;  
-
-d. een door het bevoegd gezag van een openbare school, al dan niet met één of meer andere bevoegde gezagsorganen als bedoeld in de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) of de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), in stand gehouden centrale dienst zoals die beschreven wordt in [artikel 68 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), voorzover de kosten voor de betrokken werknemers door het Rijk worden bekostigd; of  
-
-e. openbare scholen als bedoeld in [artikel 1, onderdelen a tot en met c](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [artikel 124, onderdelen a tot en met c, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).     
-12.  In een geval als bedoeld in het tiende lid, onderdeel a, doet de inspecteur daarvan op verzoek van de werkgever mededeling bij voor bezwaar vatbare beschikking.   
-13.  Indien de periode, bedoeld in [artikel 82, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) wordt gewijzigd in die zin dat de wijziging een verlenging van de periode betekent, legt de werkgever die zelf het risico draagt van betaling de WGA uitkering, binnen een bij ministeriële regeling te bepalen termijn, een schriftelijke garantie over aan de inspecteur waaruit blijkt dat een kredietinstelling of een verzekeraar zich jegens het UWV verplicht, op het eerste verzoek van het UWV, waarbij het UWV schriftelijk meedeelt dat de verplichtingen die voortvloeien uit het zelf dragen van het risico niet worden nagekomen, die verplichtingen na te komen.   
-14.  Indien niet of niet tijdig wordt voldaan aan het dertiende lid, eindigt het door de werkgever zelf dragen van het risico, bedoeld in het eerste lid, onderdeel c, met ingang van de dag waarop de wijziging van de periode, bedoeld in [artikel 82, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) in werking treedt.   
-15.  Bij ministeriële regeling kunnen met betrekking tot het dertiende en veertiende lid nadere regels worden gesteld.   
-16.  Beschikkingen van de inspecteur op grond van deze afdeling worden genomen gehoord het UWV en in overeenstemming met het UWV.   
+11.  In een geval als bedoeld in het tiende lid, onderdeel a, doet de inspecteur daarvan op verzoek van de werkgever mededeling bij voor bezwaar vatbare beschikking.   
+12.  Indien de periode, bedoeld in [artikel 82, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) wordt gewijzigd in die zin dat de wijziging een verlenging van de periode betekent, legt de werkgever die zelf het risico draagt van betaling de WGA uitkering, binnen een bij ministeriële regeling te bepalen termijn, een schriftelijke garantie over aan de inspecteur waaruit blijkt dat een kredietinstelling of een verzekeraar zich jegens het UWV verplicht, op het eerste verzoek van het UWV, waarbij het UWV schriftelijk meedeelt dat de verplichtingen die voortvloeien uit het zelf dragen van het risico niet worden nagekomen, die verplichtingen na te komen.   
+13.  Indien niet of niet tijdig wordt voldaan aan het twaalfde lid, eindigt het door de werkgever zelf dragen van het risico, bedoeld in het eerste lid, onderdeel c, met ingang van de dag waarop de wijziging van de periode, bedoeld in [artikel 82, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) in werking treedt.   
+14.  Bij ministeriële regeling kunnen met betrekking tot het twaalfde en dertiende lid nadere regels worden gesteld.   
+15.  Beschikkingen van de inspecteur op grond van deze afdeling worden genomen gehoord het UWV en in overeenstemming met het UWV.   
 
 ### Artikel  41  
 
@@ -1112,9 +1107,7 @@ e. de bijdrage in de kosten van de heffingskortingen, bedoeld in artikel 15.
 
 a. de lasten van de algemene ouderdomsverzekering en van de vrijwillige algemene ouderdomsverzekering;  
 
-b. de lasten van de regeling, vervat in [hoofdstuk VIII van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
-
-c. de lasten van de tegemoetkoming, bedoeld in [artikel 33b van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), en de daaraan verbonden uitvoeringskosten.     
+b. de lasten van de regeling, vervat in [hoofdstuk VIII van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md).     
 
 ### Artikel  84  
 
@@ -1164,6 +1157,15 @@ c. de lasten van de tegemoetkomingen, bedoeld in [artikel 29a van de Algemene na
 3.  In elk jaar wordt een bijdrage ten gunste van het Spaarfonds AOW gebracht die ten minste € 113 445 054 hoger is dan het bedrag dat in het jaar, voorafgaande aan het desbetreffende jaar, ten minste ten gunste van het Spaarfonds AOW diende te worden gebracht.   
 4.  Het in het Spaarfonds AOW aanwezige saldo wordt rentedragend in 's Rijks schatkist aangehouden.   
 5.  Onze Minister van Financiën stelt jaarlijks de rente vast die over het saldo van het Spaarfonds AOW wordt vergoed.   
+
+### Artikel  87a  
+
+####Bijdrage Zorgverzekeringsfonds
+
+1.  Periodiek wordt door de SVB een bijdrage ten laste gebracht van het Ouderdomsfonds die ten gunste komt van het Zorgverzekeringsfonds, bedoeld in [artikel 39, eerste lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
+2.  De bijdrage, bedoeld in het eerste lid, vormt het verschil tussen het in het kalenderjaar geldende percentage, bedoeld in [artikel 45, eerste lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), dat wordt toegepast voor het loon, bedoeld in [artikel 42, eerste lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en het in het kalenderjaar geldende percentage, bedoeld in artikel 45, tweede lid, van de Zorgverzekeringswet, dat wordt toegepast voor het bijdrage-inkomen, bedoeld in [artikel 43, tweede lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), vermenigvuldigd met de lasten van de algemene ouderdomsverzekering en de vrijwillige algemene ouderdomsverzekering.   
+3.  De SVB stelt regels omtrent de termijnen waarin en de wijze waarop de bijdrage, bedoeld in het eerste lid, betaalbaar wordt gesteld.   
+4.  De door de SVB op grond van het derde lid gestelde regels behoeven de goedkeuring van Onze Minister, na overleg met Onze Ministers van Financiën en van Volksgezondheid, Welzijn en Sport.   
 
 ### Artikel  88  
 

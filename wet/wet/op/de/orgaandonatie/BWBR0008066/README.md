@@ -216,7 +216,8 @@ e. de voorlichting in het ziekenhuis over de in het protocol gestelde regels.
 
 ### Artikel  24  
 
-Het bemiddelen bij het verkrijgen, bij het typeren en bij het vervoeren van organen van donoren, alsmede het toewijzen van die organen aan een daarvoor geschikte ontvanger mag slechts geschieden door een orgaancentrum, dat daartoe een vergunning van Onze minister behoeft.  
+1.  Het bemiddelen bij het verkrijgen, bij het typeren en bij het vervoeren van organen van donoren, alsmede het toewijzen van die organen aan een daarvoor geschikte ontvanger mag slechts geschieden door een orgaancentrum, dat daartoe een vergunning van Onze minister behoeft.   
+2.  Op de uitvoering van de in het eerste lid bedoelde taak door een orgaancentrum waaraan daartoe een vergunning is verleend, is de [Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing, met uitzondering van [artikel 22 van die wet](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), voor zover het besluiten betreft met betrekking tot het toewijzen van organen.   
 
 ### Artikel  25  
 

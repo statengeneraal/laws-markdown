@@ -59,7 +59,9 @@ m. belastingaanslag: de voorlopige aanslag, de aanslag, de uitnodiging tot betal
 
 n. kind: eerstegraads bloedverwant en aanverwant in de neergaande lijn.  
 
-o. sociale verzekeringspremies: de premies voor de sociale verzekeringen, bedoeld in [artikel 2, onderdelen a en c, van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), en de ingevolge de [Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) geheven inkomensafhankelijke bijdrage.     
+o. sociale verzekeringspremies: de premies voor de sociale verzekeringen, bedoeld in [artikel 2, onderdelen a en c, van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), en de ingevolge de [Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) geheven inkomensafhankelijke bijdrage;  
+
+p. strafbeschikking: de strafbeschikking bedoeld in [artikel 76, eerste lid, van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [artikel 10:15, eerste lid, van de Algemene douanewet](../../../../wet/algemene/douanewet/BWBR0023746/README.md).     
 2.  Deze wet verstaat mede onder: 
 
 a. rijksbelastingen: de heffingsrente, de revisierente, de compenserende rente, de kosten van ambtelijke werkzaamheden, alsmede de bestuurlijke boeten;  
@@ -874,6 +876,11 @@ Voor een weigering om te voldoen aan de in de artikelen 58, 59 en 60 omschreven 
 2.  Het bepaalde in het eerste lid is niet van toepassing op de personen en de lichamen als bedoeld in [artikel 55 van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), voor zover het de in dat artikel bedoelde gegevens en inlichtingen betreft.   
 3.  [Artikel 55 van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van toepassing met dien verstande dat voor inspecteur wordt gelezen ontvanger en voor belastingwet wordt gelezen Invorderingswet 1990.   
 4.  [Artikel 49a van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van toepassing.   
+
+### Artikel  62a  
+
+1.  Ingeval een persoon als bedoeld in de artikelen 58, eerste lid, 59, eerste lid en 62, eerste lid, een door de ontvanger op een van die leden gebaseerde verplichting is nagekomen maar van oordeel is dat de verplichting onrechtmatig is opgelegd, kan hij verzoeken om vergoeding van kosten die rechtstreeks verband houden met deze nakoming. De ontvanger beslist op dat verzoek bij voor bezwaar vatbare beschikking en kent een redelijke kostenvergoeding toe in geval van een onrechtmatig opgelegde verplichting.   
+2.  Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake de in het eerste lid bedoelde beschikking is [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.   
 
 ### Artikel  63  
 

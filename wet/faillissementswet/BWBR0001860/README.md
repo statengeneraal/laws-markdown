@@ -1426,7 +1426,9 @@ a. instelling:
 
 6°. een ieder, bedoeld in [artikel 3:4 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die een vergunning heeft als bedoeld in [artikel 2:11 van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-7°. een clearinginstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).    
+7°. een clearinginstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+8°. degene die een vergunning heeft verkregen ingevolge [artikel 3:4 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).    
 
 b. systeem: 
 
@@ -1440,9 +1442,9 @@ d. afwikkelende instantie: een lichaam dat aan instellingen of centrale tegenpar
 
 e. verrekeningsinstituut: een lichaam dat verantwoordelijk is voor de berekening van de netto posities van de instellingen, een eventuele centrale tegenpartij of een eventuele afwikkelende instantie;  
 
-f. deelnemer: een instelling, een centrale tegenpartij, een afwikkelende instantie, dan wel een verrekeningsinstituut;  
+f. deelnemer: een instelling, een centrale tegenpartij, een afwikkelende instantie een systeemexploitant, dan wel een verrekeningsinstituut;  
 
-g. indirecte deelnemer: een kredietinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of een financiële instelling als bedoeld in [artikel 1:1 van die wet](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die op grond van een overeenkomst met een instelling die deelneemt in een systeem via het systeem een geldsom ter beschikking van een ontvanger kan stellen door middel van een boeking in de rekening van een kredietinstelling, een financiële instelling, een centrale bank of een afwikkelende instantie;  
+g.  vervallen;   
 
 h. centrale bank: een centrale bank van een lidstaat van de Europese Unie, de centrale bank van een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, dan wel de Europese Centrale Bank;  
 
@@ -1450,20 +1452,27 @@ i. bijkantoor: een duurzaam in een andere staat dan de staat van de zetel aanwez
 
 j. effect: een effect als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-k. overboekingsopdracht: een opdracht door een deelnemer om door middel van een boeking op de rekeningen van een kredietinstelling, een centrale bank of een afwikkelende instantie een geldsom ter beschikking van een ontvanger te stellen, of iedere opdracht die resulteert in het op zich nemen of het nakomen van een betalingsverplichting zoals gedefinieerd in de regels van het systeem, dan wel een opdracht door een deelnemer om door middel van een boeking in een register of anderszins, de rechten op of de rechten ten aanzien van één of meer effecten over te boeken;  
+k. overboekingsopdracht: een opdracht door een deelnemer om door middel van een boeking op de rekeningen van een kredietinstelling, een centrale bank, een centrale tegenpartij of een afwikkelende instantie een geldsom ter beschikking van een ontvanger te stellen, of iedere opdracht die resulteert in het op zich nemen of het nakomen van een betalingsverplichting zoals gedefinieerd in de regels van het systeem, dan wel een opdracht door een deelnemer om door middel van een boeking in een register of anderszins, de rechten op of de rechten ten aanzien van één of meer effecten over te boeken;  
 
 1. insolventieprocedure: elke collectieve maatregel waarin de wetgeving van een lidstaat of van een derde land voorziet, met het oog op de liquidatie of de sanering van de deelnemer indien een dergelijke maatregel gepaard gaat met opschorting van, of oplegging van beperkingen aan overboekingen en betalingen;  
 
 m. verrekening: het in één nettovordering of nettoverplichting omzetten van vorderingen en verplichtingen die voortvloeien uit overboekingsopdrachten die een deelnemer geeft aan of ontvangt van, dan wel die deelnemers geven aan of ontvangen van, één of meer andere deelnemers, met als gevolg dat er alleen een nettovordering of een nettoverplichting ontstaat;  
 
-n. afwikkelingsrekening: een rekening bij een centrale bank, een afwikkelende instantie of een centrale tegenpartij, die gebruikt wordt voor het houden van geld of effecten en waarmee ook transacties tussen deelnemers aan een systeem worden afgewikkeld.    
+n. afwikkelingsrekening: een rekening bij een centrale bank, een afwikkelende instantie of een centrale tegenpartij, die gebruikt wordt voor het houden van geld of effecten en waarmee ook transacties tussen deelnemers aan een systeem worden afgewikkeld;  
+
+o. werkdag: de periode voor afwikkeling zowel overdag als ’s nachts, en die alle gebeurtenissen omvat die tijdens de bedrijfscyclus van een systeem plaatsvinden;  
+
+p. interoperabele systemen: twee of meer systemen waarvan de systeemexploitanten een onderlinge regeling hebben getroffen voor de uitvoering tussen de systemen van overboekingsopdrachten;  
+
+q. systeemexploitant: een door de Minister van Financiën op grond van artikel 212d aangewezen systeemexploitant.    
 
 ### Artikel  212b  
 
-1.  In afwijking van de artikelen 23 en 35 werkt de faillietverklaring van een instelling niet terug tot aan het begin van de dag waarop zij wordt uitgesproken, ten aanzien van een door die instelling vóór het tijdstip van faillietverklaring van die instelling gegeven overboekingsopdracht, opdracht tot verrekening of enige uit een dergelijke opdracht voortvloeiende betaling, levering, verrekening of andere rechtshandeling die benodigd is om de opdracht volledig in het systeem uit te voeren.   
-2.  In afwijking van artikel 63a, geldt de afkoelingsperiode niet voor een bevoegdheid tot verhaal op tot de boedel behorende goederen of tot opeising van goederen die zich in de macht van de gefailleerde of de curator bevinden, noch voor de goederen waarop een dergelijke bevoegdheid betrekking heeft, indien die bevoegdheid is toegekend aan een centrale bank of, in verband met deelname aan het systeem, aan een andere instelling die deelneemt aan het systeem.   
-3.  De artikelen 23, 24, 35, 53, eerste lid, en 54, tweede lid, van deze wet, alsmede [artikel 72, aanhef en onder a, van boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), kunnen niet aan derden worden tegengeworpen ten aanzien van een door een instelling na het tijdstip van faillietverklaring van die instelling gegeven overboekingsopdracht, opdracht tot verrekening of enige uit een dergelijke opdracht voortvloeiende betaling, levering, verrekening of andere rechtshandeling die benodigd is om de opdracht volledig uit te voeren, indien de opdracht in het systeem wordt uitgevoerd op de dag van faillietverklaring en de centrale tegenpartij, de afwikkelende instantie of het verrekeningsinstituut kan aantonen dat deze ten tijde van de uitvoering van de opdracht de faillietverklaring niet kende of behoorde te kennen.   
-4.  Het eerste en het derde lid zijn van overeenkomstige toepassing op de toekenning en op de uitoefening van een bevoegdheid als bedoeld in het tweede lid.   
+1.  In afwijking van de artikelen 23 en 35 werkt de faillietverklaring van een deelnemer niet terug tot aan het begin van de dag waarop zij wordt uitgesproken, ten aanzien van een door die deelnemer vóór het tijdstip van faillietverklaring van die deelnemer gegeven overboekingsopdracht, opdracht tot verrekening of enige uit een dergelijke opdracht voortvloeiende betaling, levering, verrekening of andere rechtshandeling die benodigd is om de opdracht volledig in het systeem uit te voeren of rechten en verplichtingen die voor een deelnemer ingevolge of in verband met zijn deelname aan het systeem ontstaan.   
+2.  In afwijking van artikel 63a, geldt de afkoelingsperiode niet voor een bevoegdheid tot verhaal op tot de boedel behorende goederen of tot opeising van goederen die zich in de macht van de gefailleerde of de curator bevinden, noch voor de goederen waarop een dergelijke bevoegdheid betrekking heeft, indien die bevoegdheid is toegekend aan een centrale bank of, in verband met deelname aan het systeem, aan een andere deelnemer aan het systeem.   
+3.  De artikelen 23, 24, 35, 53, eerste lid, en 54, tweede lid, van deze wet, alsmede [artikel 72, aanhef en onder a, van boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), kunnen niet aan derden worden tegengeworpen ten aanzien van een door een deelnemer na het tijdstip van faillietverklaring van die deelnemer gegeven overboekingsopdracht, opdracht tot verrekening of enige uit een dergelijke opdracht voortvloeiende betaling, levering, verrekening of andere rechtshandeling die benodigd is om de opdracht volledig uit te voeren, indien de opdracht in het systeem wordt uitgevoerd binnen een werkdag als omschreven in de regels van het systeem, gedurende welke de faillietverklaring heeft plaatsgevonden en de systeemexploitant kan aantonen dat deze op het tijdstip waarop deze opdrachten onherroepelijk worden de faillietverklaring niet kende of behoorde te kennen.   
+4.  Het eerste en het derde lid zijn van overeenkomstige toepassing op de toekenning en op de uitoefening van een bevoegdheid als bedoeld in het tweede lid alsmede in geval van een faillietverklaring van een systeemexploitant van een interoperabel systeem die geen deelnemer is.   
+5.  Bij interoperabele systemen stelt elk systeem in zijn eigen regels het tijdstip van invoering en het tijdstip van onherroepelijkheid in het systeem zodanig vast dat er zoveel mogelijk voor wordt gezorgd dat de regels van alle betrokken interoperabele systemen in dit opzicht gecoördineerd worden. Tenzij zulks in de regels van de systemen die van de operabele systemen deel uitmaken uitdrukkelijk is bepaald, laten de regels van de andere systemen waarmee een systeem interoperabel is, de in dat systeem gehanteerde regels over het tijdstip van invoering en onherroepelijkheid onverlet.   
 
 ### Artikel  212c  
 
@@ -1472,12 +1481,14 @@ n. afwikkelingsrekening: een rekening bij een centrale bank, een afwikkelende in
 
 ### Artikel  212d  
 
-1.  De Minister van Financiën kan, De Nederlandsche Bank N.V. gehoord, als systeem aanwijzen een formele overeenkomst tussen drie of meer deelnemers, een afwikkelende instantie, een centrale tegenpartij, een verrekeningsinstituut of een indirecte deelnemer niet meegerekend, met gemeenschappelijke regels en standaardprocedures voor het uitvoeren van overboekingsopdrachten tussen de deelnemers, waarop het recht van toepassing is van een door de deelnemers gekozen lidstaat van de Europese Unie waarin ten minste één van de deelnemers zijn hoofdvestiging heeft.   
+1.  De Minister van Financiën kan, De Nederlandsche Bank N.V. gehoord, als systeemexploitant en het onderscheiden systeem aanwijzen een formele overeenkomst tussen drie of meer deelnemers, de systeemexploitant, een afwikkelende instantie, een centrale tegenpartij, een verrekeningsinstituut of een indirecte deelnemer niet meegerekend, met gemeenschappelijke regels en standaardprocedures voor de clearing of het uitvoeren van overboekingsopdrachten tussen de deelnemers, waarop het recht van toepassing is van een door de deelnemers gekozen lidstaat van de Europese Unie waarin ten minste één van de deelnemers zijn hoofdvestiging heeft. Als systeemexploitant kan worden aangewezen een entiteit of entiteiten die wettelijk aansprakelijk is of zijn voor de werking van een systeem.   
 2.  Indien dit noodzakelijk is met het oog op het vermijden van systeemrisico's, kan de Minister van Financiën, De Nederlandsche Bank N.V. gehoord, als systeem aanwijzen een formele overeenkomst tussen twee deelnemers, een afwikkelende instantie, een centrale tegenpartij, een verrekeningsinstituut of een indirecte deelnemer niet meegerekend, met gemeenschappelijke regels en standaardprocedures voor het uitvoeren van overboekingsopdrachten tussen de deelnemers, waarop het recht van toepassing is van een door de deelnemers gekozen lidstaat waarin ten minste één van de deelnemers zijn hoofdvestiging heeft.   
-3.  Aan de beschikking tot aanwijzing als systeem kan de Minister van Financiën voorschriften verbinden.   
-4.  Het systeem stelt de Minister van Financiën in kennis van de instellingen die direct of indirect deelnemen aan het systeem, alsmede van elke aanvang of beëindiging van deelname door een instelling aan het systeem.   
-5.  Van een beschikking als bedoeld in het eerste lid wordt in de Staatscourant mededeling gedaan.   
-6.  De Minister van Financiën meldt de aangewezen systemen aan bij de Commissie van de Europese Gemeenschappen.   
+3.  Een tussen interoperabele systemen gesloten overeenkomst vormt geen systeem.   
+4.  Aan de beschikking tot aanwijzing als systeem en aan de beschikking tot aanwijzing als systeemexploitant kan de Minister van Financiën voorschriften verbinden.   
+5.  De systeemexploitant stelt de Minister van Financiën in kennis van de instellingen die direct of indirect deelnemen aan het systeem, alsmede van elke aanvang of beëindiging van deelname door een instelling aan het systeem.   
+6.  Van een beschikking als bedoeld in het eerste lid wordt in de Staatscourant mededeling gedaan.   
+7.  De Minister van Financiën meldt de aangewezen systemen aan bij de Commissie van de Europese Gemeenschappen.   
+8.  Een instelling deelt desgevraagd een ieder die een gerechtvaardigd belang heeft mee aan welke systemen de instelling deelneemt en verstrekt informatie over de belangrijkste regels die gelden voor de werking van die systemen.   
 
 ### Artikel  212e  
 
@@ -1518,8 +1529,13 @@ b. de staat waar haar zij haar hoofdbestuur heeft en zij feitelijk werkzaam is, 
 
 ### Artikel  212h  
 
-1.  Artikel 2, tweede tot met vijfde lid, is niet van toepassing op een in een andere lidstaat dan Nederland gevestigde kredietinstelling die daar een vergunning heeft verkregen.   
+1.  In afwijking van artikel 2, eerste lid, geschiedt de faillietverklaring van een in Nederland gevestigde kredietinstelling door de rechtbank Amsterdam.   
 2.  Een in een andere lidstaat dan Nederland gevestigde kredietinstelling die daar een vergunning heeft verkregen kan in Nederland niet in staat van faillissement worden verklaard.   
+3.  Het eerste lid is, in afwijking van artikel 2, tweede tot en met vierde lid, van overeenkomstige toepassing op de faillietverklaring van: 
+
+a. een in een andere lidstaat dan Nederland gevestigde kredietinstelling die in die lidstaat geen vergunning heeft verkregen, en die haar bedrijf uitoefent vanuit een in Nederland gelegen bijkantoor; en  
+
+b. een in een staat die geen lidstaat is gevestigde kredietinstelling die haar bedrijf uitoefent vanuit een in Nederland gelegen bijkantoor.     
 
 ### Artikel  212i  
 
@@ -1767,8 +1783,13 @@ o. noodregeling: de noodregeling, bedoeld in [afdeling 3.5.5 van de Wet op het f
 
 ### Artikel  213a  
 
-1.  Artikel 2, tweede tot en met vijfde lid, is niet van toepassing op een verzekeraar die in een andere lidstaat dan Nederland zijn zetel heeft en daar een vergunning heeft verkregen.   
-2.  Een verzekeraar die in een andere lidstaat dan Nederland zijn zetel heeft en daar een vergunning heeft verkregen, kan in Nederland niet in staat van faillissement worden verklaard.   
+1.  In afwijking van artikel 2, eerste lid, geschiedt de faillietverklaring van een verzekeraar met zetel in Nederland door de rechtbank Amsterdam.   
+2.  Een verzekeraar met zetel in een in een andere lidstaat dan Nederland die daar een vergunning heeft verkregen kan in Nederland niet in staat van faillissement worden verklaard.   
+3.  Het eerste lid is, in afwijking van artikel 2, tweede tot en met vierde lid, van overeenkomstige toepassing op de faillietverklaring van: 
+
+a. een verzekeraar met zetel in een andere lidstaat dan Nederland die in die lidstaat geen vergunning heeft verkregen, en die zijn bedrijf uitoefent vanuit een in Nederland gelegen bijkantoor; en  
+
+b. een verzekeraar met zetel in een staat die geen lidstaat is, en die zijn bedrijf uitoefent vanuit een in Nederland gelegen bijkantoor.     
 
 ### Artikel  213b  
 

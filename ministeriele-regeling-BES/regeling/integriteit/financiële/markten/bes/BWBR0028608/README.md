@@ -170,6 +170,12 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 *incident:* gedraging of gebeurtenis die een ernstig gevaar vormt voor de integere uitoefening van het bedrijf van de desbetreffende instelling;  
 
+*integriteitgevoelige functie:*  
+
+a. functies van leidinggevende functionarissen die ressorteren onder de door de toezichtautoriteit op betrouwbaarheid getoetste beleidsbepalers en medebeleidsbepalers in de eerste echelon van de onder toezicht staande financiële onderneming;  
+
+b. functies waaraan een bevoegdheid is verbonden die een wezenlijk risico bevat voor de integere uitoefening van het bedrijf van de financiële onderneming;    
+
 *integriteitsrisico:* gevaar voor aantasting van de reputatie of bestaande of toekomstige bedreiging van vermogen of resultaat van een instelling als gevolg van een ontoereikende naleving van hetgeen bij of krachtens enig wettelijk voorschrift is voorgeschreven.    
 
 ### Artikel  15  
@@ -241,6 +247,7 @@ b. de bij of krachtens de [Wet identificatie bij dienstverlening BES](../../../.
 a. de schriftelijke overeenkomsten tussen het trustkantoor en haar cliënten en andere overeenkomsten die het trustkantoor heeft gesloten terzake van de door het trustkantoor geleverde diensten;  
 
 b. de in bijlage B bedoelde bescheiden en gegevens.     
+3.  Een trustkantoor informeert de Bank over voorgenomen wezenlijke wijzigingen in aspecten van haar bedrijfsvoering met betrekking tot welke in het eerste of tweede lid of in de artikelen 15 tot en met 22 eisen zijn gesteld, alsmede over wijzigingen in de antecedenten van de personen die het beleid van het trustkantoor bepalen of medebepalen.   
 
 ### §  4  
 
@@ -293,7 +300,7 @@ e. geldelijke overmakingen waarbij zowel de betaler als de begunstigde betalings
 ### Artikel  28  
 
 1.  De volledige informatie over de betaler bestaat uit zijn volledige naam of namen, adres en rekeningnummer.   
-2.  Het adres mag worden vervangen door de geboorteplaats en -datum van de betaler, zijn cliëntidentificatienummer of zijn nationaal identiteitsnummer.   
+2.  Het adres mag worden vervangen door de geboorteplaats en -datum van de betaler of zijn cliëntidentificatienummer.   
 3.  Bij gebreke van het rekeningnummer van de betaler vervangt de betalingsdienstaanbieder van de betaler dit door een unieke identificatiecode aan de hand waarvan de geldelijke overmaking terug kan worden getraceerd naar de betaler.   
 
 ### Artikel  29  
@@ -401,6 +408,7 @@ b. een natuurlijke persoon die alleen de juridisch begunstigde is van een juridi
 
 1.  De bedragen, bedoeld in [artikel 1, onderdeel b, onder 5° en 6°, van de wet](../../../../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md) worden bepaald op nihil.   
 2.  Het bedrag bedoeld in [artikel 1, onderdeel b, onder 7°, van de wet](../../../../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md) wordt bepaald op USD 11.000.   
+3.  Het bedrag, bedoeld in [artikel 1, eerste lid, onderdeel f, van het Besluit identificatie bij dienstverlening BES](../../../../../../../AMvB-BES/besluit/identificatie/bij/dienstverlening/bes/BWBR0028419/README.md), wordt bepaald op USD 11.000.   
 
 ### Artikel  41  
 
@@ -427,9 +435,9 @@ c. een trustkantoor dat over een vergunning als bedoeld in [artikel 2, tweede li
 
 d. een assurantiebemiddelaar die is ingeschreven in het register, bedoeld in [artikel 4 van de Wet assurantiebemiddelingsbedrijf BES](../../../../../../../wet-BES/wet/assurantiebemiddelingsbedrijf/bes/BWBR0028566/README.md);  
 
-e. een natuurlijke persoon of rechtspersoon die is aangesloten bij een effectenbeurs die lid is van de Fédération Internationale des Bourses de Valeurs, en die is gevestigd in de openbare lichamen, een lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of in Aruba, Australië, Bahrein, Canada, Curaçao, HongKong, Japan, Jemen, Koeweit, Nieuw Zeeland, Qatar, Saoedi-Arabië, Singapore, Sint Maarten, Turkije, de Verenigde Arabische Emiraten, de Verenigde Staten van Amerika, of Zwitserland;  
+e. een natuurlijke persoon of rechtspersoon die is aangesloten bij een effectenbeurs die lid is van de Fédération Internationale des Bourses de Valeurs, en die is gevestigd in een land van het Koninkrijk, de Verenigde Staten van Amerika of Canada;  
 
-f. een onderneming of instelling waaraan door de bevoegde autoriteiten van de openbare lichamen, van een lidstaat van de Europese Unie, of van een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of van Aruba, Australië, Bahrein, Canada, Curaçao, HongKong, Japan, Jemen, Koeweit, Nieuw Zeeland, Qatar, Saoedi-Arabië, Singapore, Sint Maarten, Turkije, de Verenigde Arabische Emiraten, de Verenigde Staten van Amerika, of Zwitserland, vergunning is verleend voor de uitoefening van het bedrijf van kredietinstelling, beleggingsinstelling, levensverzekeraar, effectenbemiddeling of vermogensbeheer.     
+f. een onderneming of instelling waaraan door de bevoegde autoriteiten van een land van het Koninkrijk, de Verenigde Staten van Amerika of Canada vergunning is verleend voor de uitoefening van het bedrijf van kredietinstelling, beleggingsinstelling, levensverzekeraar, effectenbemiddeling of vermogensbeheerder.     
 3.  Behoudens in de omstandigheid van artikel 41, onderdeel a, wordt vrijstelling van [artikel 2, eerste lid, van de wet](../../../../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md) verleend aan dienstverleners, voor zover deze een dienst verlenen als bedoeld in: 
 
 a. [artikel 1, onderdeel b, onder 5°, van de wet](../../../../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md), en de daar bedoelde premie is kleiner of gelijk aan: 
@@ -489,7 +497,7 @@ b. van alle gemachtigden en vertegenwoordigers: de naam, de geboortedatum en het
 
 ### Artikel  46  
 
-Als staat in de zin van [artikel 4, tweede en derde lid](../../../../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md), en [artikel 5, vijfde lid, van de wet](../../../../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md) worden aangewezen: de lidstaten van de Europese Unie, de staten, niet zijnde een lidstaat van de Europese Unie, die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, Aruba, Australië, Bahrein, Canada, Curaçao, HongKong, Japan, Jemen, Koeweit, Nieuw Zeeland, Qatar, Saoedi-Arabië, Singapore, Sint Maarten, Turkije, de Verenigde Arabische Emiraten, de Verenigde Staten van Amerika, en Zwitserland.  
+Als staat in de zin van [artikel 4, tweede en derde lid](../../../../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md), en [artikel 5, vijfde lid, van de wet](../../../../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md) worden aangewezen: de landen van het Koninkrijk, de Verenigde Staten van Amerika en Canada.  
 
 ### Artikel  47  
 
@@ -547,6 +555,10 @@ Als transacties die zouden kunnen duiden op de financiering van terrorisme in de
 
 3°. bijlage I bij Verordening (EG) nr. 881/2002 van de Raad van de Europese Unie van 27 mei 2002 tot vaststelling van bepaalde specifieke beperkingen tegen sommige personen en entiteiten die banden hebben met Usama bin Laden, het Al-Qa'ida-netwerk en de Taliban, en tot intrekking van Verordening (EG) nr. 467/2001 van de Raad tot instelling van een verbod op de uitvoer van bepaalde goederen en diensten naar Afghanistan, tot versterking van het verbod op vluchten en verlenging van de bevriezing van tegoeden en andere financiële middelen ten aanzien van de Taliban van Afghanistan (PbEG L 139).    
 
+### Artikel  54a  
+
+Het bedrag, bedoeld in [artikel 1, eerste lid, onderdeel f, van het Besluit aanwijzing diensten melding ongebruikelijke transacties BES](../../../../../../../AMvB-BES/besluit/aanwijzing/diensten/melding/ongebruikelijke/transacties/bes/BWBR0028418/README.md), wordt bepaald op nihil.  
+
 ### §  7  
 
 ####Overgangs- en slotbepalingen
@@ -554,6 +566,10 @@ Als transacties die zouden kunnen duiden op de financiering van terrorisme in de
 ### Artikel  55  
 
 De Regeling identificatie bij dienstverlening BES en het Reglement register Meldpunt Ongebruikelijke Transacties BES worden ingetrokken.  
+
+### Artikel  55a  
+
+Dit besluit berust mede op [artikel 1, eerste lid, onderdeel f, van het Besluit aanwijzing diensten melding ongebruikelijke transacties BES](../../../../../../../AMvB-BES/besluit/aanwijzing/diensten/melding/ongebruikelijke/transacties/bes/BWBR0028418/README.md) en [artikel 1, eerste lid, onderdeel f, van het Besluit identificatie bij dienstverlening BES](../../../../../../../AMvB-BES/besluit/identificatie/bij/dienstverlening/bes/BWBR0028419/README.md).  
 
 ### Artikel  56  
 

@@ -52,7 +52,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *afsluit
 
 10°. ander financieel product dat bij ministeriële regeling kan worden aangewezen indien dit ten behoeve van de vergelijkbaarheid van de onder 2° tot en met 9° bedoelde complexe producten met dit financiële product in verband met de belangen die het [Deel Gedragstoezicht financiële ondernemingen van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beoogt te beschermen wenselijk is; of  
 
-11°. combinatie van een of meer onder 2° tot en met 10° bedoelde complexe producten met een of meer financiële producten;   *consumptief krediet*: krediet, niet zijnde hypothecair krediet; *deposito*: tegoed bij een bank dat onmiddellijk kan worden opgevraagd en waarvan de rentetermijn ten hoogste twaalf maanden bedraagt; *doorlopende provisie*: 
+11°. combinatie van een of meer onder 2° tot en met 10° bedoelde complexe producten met een of meer financiële producten;   *consumptief krediet*: krediet, niet zijnde hypothecair krediet; *debetrentevoet:* verschuldigde rente voor een krediet, uitgedrukt op jaarbasis en toegepast in een vast of variabel percentage; *dekkingspercentage:* een door de aanbieder van krediet vastgesteld percentage van de waarde van de in onderpand gegeven financiële instrumenten, bedoeld in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of van de daartoe behorende afzonderlijke financiële instrumenten aan de hand waarvan de aanbieder van krediet de kredietlimiet bepaalt; *deposito*: tegoed bij een bank dat onmiddellijk kan worden opgevraagd en waarvan de rentetermijn ten hoogste twaalf maanden bedraagt; *doorlopende provisie*: 
 
 1°. beloning of vergoeding, in welke vorm dan ook, niet zijnde afsluitprovisie, die een aanbieder van een betalingsbeschermer, een complex product, een hypothecair krediet, een hypothecair krediet gecombineerd met een beleggingsrekening of een uitvaartverzekering, na de totstandkoming van een overeenkomst tussen hem en een consument voor het bemiddelen of adviseren inzake die overeenkomst rechtstreeks of middellijk betaalt; of  
 
@@ -60,7 +60,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *afsluit
 
 1°. geldkrediet waarbij de consument op verschillende tijdstippen geldsommen kan opnemen, voorzover het uitstaande saldo de kredietlimiet niet overschrijdt; of  
 
-2°. goederenkrediet waarbij de aanbieder of een derde gehouden is aan een consument op verschillende tijdstippen het genot van een roerende zaak, financieel instrument of beleggingsobject te verschaffen of een dienst te verlenen, voorzover het uitstaande saldo de kredietlimiet niet overschrijdt;   *eindtermen*: normen met betrekking tot de vakbekwaamheid voor het verlenen van een bepaalde financiële dienst met betrekking tot een bepaald financieel product; *financieel analist*: een relevante persoon die tastbaar onderzoek op beleggingsgebied verricht; *financieel derivaat*: financieel instrument als bedoeld in [artikel 4:60, eerste lid, onderdeel d, e, f of g, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); *financiële bijsluiter*: document waarin informatie over de in artikel 66, eerste of tweede lid, genoemde onderwerpen met betrekking tot een complex product is weergegeven op de ingevolge dat artikel voorgeschreven wijze; *geldmarktinstrument*: financieel instrument als bedoeld in onderdeel c van de definitie van financieel instrument in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); *gelieerde partij*: 
+2°. goederenkrediet waarbij de aanbieder of een derde gehouden is aan een consument op verschillende tijdstippen het genot van een roerende zaak, financieel instrument of beleggingsobject te verschaffen of een dienst te verlenen, voorzover het uitstaande saldo de kredietlimiet niet overschrijdt;   *effectenkrediet:* het aan een consument ter beschikking stellen van een doorlopend krediet tegen onderpand van financiële instrumenten als bedoeld in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), waarmee de consument transacties kan verrichten in financiële instrumenten en de aanbieder van krediet betrokken is bij die transacties; *eindtermen*: normen met betrekking tot de vakbekwaamheid voor het verlenen van een bepaalde financiële dienst met betrekking tot een bepaald financieel product; *financieel analist*: een relevante persoon die tastbaar onderzoek op beleggingsgebied verricht; *financieel derivaat*: financieel instrument als bedoeld in [artikel 4:60, eerste lid, onderdeel d, e, f of g, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); *financiële bijsluiter*: document waarin informatie over de in artikel 66, eerste of tweede lid, genoemde onderwerpen met betrekking tot een complex product is weergegeven op de ingevolge dat artikel voorgeschreven wijze; *geldmarktinstrument*: financieel instrument als bedoeld in onderdeel c van de definitie van financieel instrument in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); *gelieerde partij*: 
 
 1°. persoon die met een beheerder, beleggingsmaatschappij of bewaarder of met een bestuurder van een beheerder, beleggingsmaatschappij of bewaarder in een formele of feitelijke zeggenschapsstructuur is verbonden;  
 
@@ -72,11 +72,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *afsluit
 
 5°. rechtspersoon waarin een bestuurder van een beheerder, beleggingsmaatschappij of bewaarder of een natuurlijke persoon als bedoeld onder 3° of 4°, direct of indirect stemrecht kan uitoefenen of anderszins bepaalde rechten kan uitoefenen waardoor sprake is van invloed van betekenis op het zakelijk of financieel beleid van die rechtspersoon; of  
 
-6°. natuurlijke persoon die onderdeel is van een orgaan dat belast is met toezicht op het beleid en de algemene gang van zaken van een beheerder, beleggingsmaatschappij of bewaarder;   *gelieerd financieel instrument:* een financieel instrument waarvan de prijs sterk wordt beïnvloed door prijsschommelingen van een ander financieel instrument dat het onderwerp van onderzoek op beleggingsgebied is of van een van dit andere financiële instrument afgeleid financieel instrument; *hypothecair krediet*: overeenkomst inzake krediet met een consument, bij het aangaan waarvan een recht van hypotheek wordt gevestigd, strekkende tot verhaal bij voorrang van de vordering tot voldoening van de door de consument verschuldigde betaling, dan wel met betrekking waartoe reeds een zodanig recht is gevestigd en waarbij het krediet wordt verleend tegen een voor hypothecaire financieringen van de aanbieder gebruikelijk effectief kredietvergoedingspercentage; *incident*: gedraging of gebeurtenis die een ernstig gevaar vormt voor de integere uitoefening van het bedrijf van een financiële onderneming; *integriteitgevoelige functie*: 
+6°. natuurlijke persoon die onderdeel is van een orgaan dat belast is met toezicht op het beleid en de algemene gang van zaken van een beheerder, beleggingsmaatschappij of bewaarder;   *gelieerd financieel instrument:* een financieel instrument waarvan de prijs sterk wordt beïnvloed door prijsschommelingen van een ander financieel instrument dat het onderwerp van onderzoek op beleggingsgebied is of van een van dit andere financiële instrument afgeleid financieel instrument; *hypothecair krediet*: overeenkomst inzake krediet met een consument, bij het aangaan waarvan een recht van hypotheek wordt gevestigd, strekkende tot verhaal bij voorrang van de vordering tot voldoening van de door de consument verschuldigde betaling, dan wel met betrekking waartoe reeds een zodanig recht is gevestigd en waarbij het krediet wordt verleend tegen een voor hypothecaire financieringen van de aanbieder gebruikelijk jaarlijks kostenpercentage; *incident*: gedraging of gebeurtenis die een ernstig gevaar vormt voor de integere uitoefening van het bedrijf van een financiële onderneming; *integriteitgevoelige functie*: 
 
 1°. leidinggevende functie direct onder de personen die het beleid van de financiële onderneming bepalen of mede bepalen; of  
 
-2°. functie waaraan een bevoegdheid is verbonden die een wezenlijk risico bevat voor de integere uitoefening van het bedrijf van een financiële onderneming;   *integriteitrisico*: gevaar voor de aantasting van de reputatie of bestaande of toekomstige bedreiging van vermogen of resultaat van een financiële onderneming als gevolg van een ontoereikende naleving van hetgeen bij of krachtens enig wettelijk voorschrift is voorgeschreven; *internationale jaarrekeningstandaarden*: internationale standaarden voor jaarrekeningen die door de Commissie van de Europese Gemeenschappen van toepassing zijn verklaard overeenkomstig artikel 3 van Verordening (EG) nr. 1606/2002 van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 (PbEG L 243); *kosten*: bedragen die een financiële onderneming in rekening brengt of ten laste laat komen van een cliënt, consument of deelnemer; *kredietlimiet*: 
+2°. functie waaraan een bevoegdheid is verbonden die een wezenlijk risico bevat voor de integere uitoefening van het bedrijf van een financiële onderneming;   *integriteitrisico*: gevaar voor de aantasting van de reputatie of bestaande of toekomstige bedreiging van vermogen of resultaat van een financiële onderneming als gevolg van een ontoereikende naleving van hetgeen bij of krachtens enig wettelijk voorschrift is voorgeschreven; *internationale jaarrekeningstandaarden*: internationale standaarden voor jaarrekeningen die door de Commissie van de Europese Gemeenschappen van toepassing zijn verklaard overeenkomstig artikel 3 van Verordening (EG) nr. 1606/2002 van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 (PbEG L 243); *jaarlijks kostenpercentage:* totale kosten van een consumptief krediet voor de consument, uitgedrukt in een percentage op jaarbasis van het totale kredietbedrag, berekend volgens de basisvergelijking en aanvullende hypothesen, opgenomen in bijlage A, of de bij de uitvoering van een overeenkomst inzake hypothecair krediet overeenkomstig de betalingsregeling aan de consument in rekening te brengen effectieve kredietvergoeding, uitgedrukt in een percentage op jaarbasis van het uitstaand saldo, berekend op bij ministeriële regeling vast te stellen wijze; *kosten*: bedragen die een financiële onderneming in rekening brengt of ten laste laat komen van een cliënt, consument of deelnemer; *kredietlimiet*: 
 
 1°. maximum bedrag van door een consument bij de aanbieder van krediet op te nemen geldsommen ter uitvoering van een overeenkomst inzake doorlopend geldkrediet; of  
 
@@ -108,7 +108,7 @@ b. indien het tot een cliënt zou zijn gericht, geen adviseren is;   *op- en afs
 
 3°. een werknemer van de beleggingsonderneming of van een verbonden agent van de beleggingsonderneming of een andere natuurlijke persoon wiens diensten ter beschikking en onder zeggenschap staan van een beleggingsonderneming onderscheidenlijk de verbonden agent en die betrokken is bij het verrichten van beleggingsactiviteiten of het verlenen van beleggingsdiensten door de beleggingsonderneming; of  
 
-4°. een natuurlijke persoon die uit hoofde van een overeenkomst tot uitbesteding met het oog op het verlenen of verrichten door de beleggingsonderneming van beleggingsdiensten of beleggingsactiviteiten rechtstreeks betrokken is bij het verrichten van diensten ten behoeve van de beleggingsonderneming of haar verbonden agent;   *retourprovisie*: gedeelte van een door of ten laste van een beleggingsinstelling voor een dienst van een derde te betalen of betaalde vergoeding dat direct of indirect door de ontvanger wordt terugbetaald of doorbetaald; *risico-indicator*: weergave van het risiconiveau van een complex product; *serie van beleggingsobjecten*: verzameling van beleggingsobjecten waarvoor hetzelfde beleggingsobjectprospectus, bedoeld in [artikel 4:30a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt opgesteld; *termijnbedrag*: bedrag van de betaling die een consument aan het einde van een betalingstermijn moet hebben gedaan; *theoretische looptijd*: lengte van de periode gedurende welke een consument ter zake van een doorlopend krediet gehouden is betalingen te doen berekend op de in bijlage A bij dit besluit aangegeven wijze; *toetstermen*: criteria waaraan de vakbekwaamheid van een persoon wordt getoetst om te kunnen vaststellen of deze voldoet aan de eindtermen; *totale prijs van het krediet*: som van de door een consument te betalen maandlasten gedurende de looptijd van een kredietovereenkomst, of, indien het doorlopend krediet betreft, gedurende de theoretische looptijd van een kredietovereenkomst; *uitstaand saldo*: 
+4°. een natuurlijke persoon die uit hoofde van een overeenkomst tot uitbesteding met het oog op het verlenen of verrichten door de beleggingsonderneming van beleggingsdiensten of beleggingsactiviteiten rechtstreeks betrokken is bij het verrichten van diensten ten behoeve van de beleggingsonderneming of haar verbonden agent;   *retourprovisie*: gedeelte van een door of ten laste van een beleggingsinstelling voor een dienst van een derde te betalen of betaalde vergoeding dat direct of indirect door de ontvanger wordt terugbetaald of doorbetaald; *richtlijn consumentenkrediet:* richtlijn nr. 2008/48/EG van het Europese Parlement en de Raad van de Europese Unie van 23 april 2008 inzake kredietovereenkomsten voor consumenten en tot intrekking van Richtlijn 87/102/EEG van de Raad (PbEU L133); *richtlijn elektronisch geld:* richtlijn nr. 2009/110 van het Europees parlement en de Raad van de Europese Unie van 16 september 2009 betreffende de toegang tot, de uitoefening van en het prudentieel toezicht op de werkzaamheden van instellingen voor elektronisch geld, tot wijziging van de Richtlijnen 2005/60/EG en 2006/48/EG en tot intrekking van Richtlijn 2000/46/EG (Pb EU L 267); *risico-indicator*: weergave van het risiconiveau van een complex product; *serie van beleggingsobjecten*: verzameling van beleggingsobjecten waarvoor hetzelfde beleggingsobjectprospectus, bedoeld in [artikel 4:30a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt opgesteld; *termijnbedrag*: bedrag van de betaling die een consument aan het einde van een betalingstermijn moet hebben gedaan; *toetstermen*: criteria waaraan de vakbekwaamheid van een persoon wordt getoetst om te kunnen vaststellen of deze voldoet aan de eindtermen; *totale door de consument te betalen bedrag:* som van het totale kredietbedrag en de totale kosten van het krediet voor de consument; *totale kosten van het krediet voor de consument:* alle kosten inzake een consumptief krediet, met uitzondering van notariskosten, die de consument in verband met een krediet moet betalen en die de aanbieder bekend zijn, met inbegrip van rente, provisie, belastingen, vergoedingen van welke aard ook en kosten in verband met nevendiensten met betrekking tot het krediet, indien het sluiten van een overeenkomst met betrekking tot die diensten verplicht is om het krediet op de geadverteerde voorwaarden te verkrijgen, of de som van de door een consument te betalen termijnbedragen gedurende de looptijd van een overeenkomst inzake hypothecair krediet; *totale kredietbedrag:* de kredietlimiet of de kredietsom;. *uitstaand saldo*: 
 
 1°. indien het geldkrediet betreft: op enig tijdstip bestaand totaal van de tot en met dat tijdstip door de consument opgenomen geldsommen, vermeerderd met de tot en met dat tijdstip aan de consument in rekening gebrachte kredietvergoeding en verminderd met de tot en met dat tijdstip door de consument gedane betalingen;  
 
@@ -429,7 +429,7 @@ a. door betrokkene verstrekte gegevens en inlichtingen;
 
 b. door de Landelijke Officier van Justitie verstrekte politiegegevens;  
 
-c. gegevens uit de registratie, bedoeld in [artikel 1, onderdeel b, van de Wet documentatie vennootschappen](../../../../../../../wet/wet/controle/op/rechtspersonen/BWBR0015049/README.md);  
+c. gegevens uit de registratie, bedoeld in [artikel 1, onderdeel b, van de Wet controle op rechtspersonen](../../../../../../../wet/wet/controle/op/rechtspersonen/BWBR0015049/README.md);  
 
 d. gegevens en inlichtingen, verkregen van de Belastingdienst;  
 
@@ -1230,44 +1230,28 @@ Bepalingen ter uitvoering van [artikel 4:22, eerste lid, van de wet](../../../..
 
 ### Artikel  53  
 
-1.  Indien een financiële onderneming in een reclame-uiting over krediet, anders dan via de televisie of de radio, informatie verstrekt over een effectief kredietvergoedingspercentage of een maandlast van een krediet, verstrekt zij daarbij, naast het effectief kredietvergoedingspercentage en de maandlast, tevens informatie over: 
+1.  Indien een financiële onderneming in een reclame-uiting over krediet melding maakt van een debetrentevoet of andere gegevens betreffende de kosten van een krediet, verstrekt zij daarbij tevens informatie over: 
 
-a. de voor de berekening van dat percentage of die maandlast gehanteerde kredietsom of kredietlimiet;  
+a. de vaste of variabele debetrentevoet en de andere kosten die deel uitmaken van de totale kosten van het krediet;  
 
-b. de voor de berekening van dat percentage of die maandlast gehanteerde looptijd of theoretische looptijd;  
+b. het totale kredietbedrag;  
 
-c. de voor de berekening van dat percentage of die maandlast gehanteerde totale prijs van het krediet;  
+c. het jaarlijks kostenpercentage; en, indien van toepassing,  
 
-d. het feit dat het een krediet, niet zijnde een doorlopend krediet, of een doorlopend krediet betreft; en  
+d. de duur van de kredietovereenkomst;  
 
-e. indien van toepassing, de om in aanmerking te komen voor het krediet af te sluiten verzekeringen en ten behoeve van de aanbieder te vestigen zekerheidsrechten.     
-2.  Indien een financiële onderneming in een reclame-uiting over krediet via de televisie of radio informatie verstrekt over een effectief kredietvergoedingspercentage dan wel een maandlast van een krediet, verstrekt zij: 
+e. in geval van goederenkrediet, de contante waarde en contante betalingen, genoemd in de definitie van kredietsom in artikel 1;  
 
-a. in die reclame-uiting informatie over de voor de berekening van dat percentage of die maandlast gehanteerde totale prijs van het krediet en de voor de berekening van dat percentage of die maandlast gehanteerde kredietsom of kredietlimiet; en  
+f. het totale door de consument te betalen bedrag; en  
 
-b. op enig ander moment voorafgaand aan de totstandkoming van een overeenkomst inzake het krediet waarop de reclame-uiting betrekking heeft, naast het effectief kredietvergoedingspercentage, de maandlast, de voor de berekening van dat percentage of die maandlast gehanteerde kredietsom of kredietlimiet en de voor de berekening van dat percentage of die maandlast gehanteerde totale prijs van het krediet, informatie over: 
-
-1°. de voor de berekening van dat percentage of die maandlast gehanteerde looptijd of de theoretische looptijd;  
-
-2°. het feit dat het een krediet, niet zijnde een doorlopend krediet, of een doorlopend krediet betreft; en  
-
-3°. indien van toepassing, de om in aanmerking te komen voor het aangeboden krediet af te sluiten verzekeringen en ten behoeve van de aanbieder te vestigen zekerheidsrechten.       
-3.  Een financiële onderneming betrekt in de berekening van de maandlast, bedoeld in het eerste of tweede lid, alle kosten die de consument verschuldigd is om voor het betreffende krediet in aanmerking te komen. De informatie, bedoeld in het eerste en tweede lid, heeft alleen betrekking op kredieten die representatief zijn voor de kredieten die feitelijk door de financiële onderneming worden verstrekt.   
-4.  Een financiële onderneming geeft de informatie, bedoeld in het eerste lid, aanhef en de onderdelen a tot en met c, het tweede lid, onderdeel b, aanhef en onder 1°, en, indien van toepassing, het zesde en zevende lid, indien deze wordt verstrekt in een reclame-uiting over krediet, anders dan via de televisie of radio, gecombineerd weer in een tabel waarin geen andere informatie wordt opgenomen.   
-5.  Indien een financiële onderneming in een reclame-uiting over krediet reclame maakt voor met krediet aan te schaffen goederen of diensten, verstrekt zij daarbij informatie over het effectief kredietvergoedingspercentage.   
-6.  Indien een financiële onderneming in een reclame-uiting over krediet informatie verstrekt over een effectief kredietvergoedingspercentage of over een kredietvergoeding die voor een beperkte duur geldt, dan wel in een reclame-uiting over krediet informatie verstrekt over een variabele kredietvergoeding die voor een beperkte duur afwijkt van de variabele kredietvergoeding die op het moment van het doen van de reclame-uiting geldt voor overeenkomsten over krediet van gelijke soort, omvang en duur: 
-
-a. verstrekt zij daarbij informatie over de periode waarin het aangeboden effectief kredietvergoedingspercentage of de kredietvergoeding geldt;  
-
-b. verstrekt zij daarbij informatie over de hoogte van het effectief kredietvergoedingspercentage of de kredietvergoeding na afloop van deze periode dan wel, indien de hoogte van dat effectief kredietvergoedingspercentage of die kredietvergoeding variabel is of nog niet kan worden vastgesteld, over de op het tijdstip van het doen van de reclame-uiting geldende kredietvergoeding voor overeenkomsten over krediet van gelijke soort, omvang en duur en wijst zij op de mogelijkheid van een hoger effectief kredietvergoedingspercentage in de toekomst; en  
-
-c. baseert zij de overige op grond van het eerste of het tweede lid te verstrekken informatie over de kenmerken van het krediet op het effectief kredietvergoedingspercentage of op de kredietvergoeding na afloop van deze periode met dien verstande dat de informatie over de totale prijs van het krediet wordt gebaseerd op de gehele looptijd van het krediet.     
-7.  Als maandlast als bedoeld in dit artikel wordt in de reclame-uiting de gewogen gemiddelde maandlast die op het krediet van toepassing is genoemd. Indien het krediet geheel of gedeeltelijk aflossingsvrij is, worden, onverminderd het zesde lid, de gewogen gemiddelde maandlast in de aflossingsvrije periode en de bij de aflossing te betalen gewogen gemiddelde maandlast genoemd.   
-8.  Een financiële onderneming neemt in een reclame-uiting over krediet een waarschuwing op met betrekking tot de gevolgen die aan het krediet zijn verbonden, tenzij het een reclame-uiting voor hypothecair krediet betreft waarbij geen relatie met een ander bestedingsdoel wordt gelegd dan de verwerving van de eigen woning.   
-9.  Indien een financiële onderneming in een reclame-uiting over krediet informatie verstrekt over de hoogte van de kredietvergoeding, verstrekt zij daarbij informatie over het effectief kredietvergoedingspercentage.   
-10.  Indien een financiële onderneming in een reclame-uiting over krediet informatie verstrekt over de hoogte van een korting op een effectief kredietvergoedingspercentage of op een kredietvergoeding, verstrekt zij daarbij informatie over het effectief kredietvergoedingspercentage, dan wel de kredietvergoeding waarop de korting van toepassing is.   
-11.  Indien een financiële onderneming in een reclame-uiting over krediet informatie verstrekt over het effectief kredietvergoedingspercentage, duidt zij deze aan als «effectieve rente op jaarbasis».   
-12.  Een financiële onderneming: 
+g. het termijnbedrag.     
+2.  Indien het sluiten van een overeenkomst voor een nevendienst verplicht is om het krediet op de in de reclame-uiting genoemde voorwaarden te verkrijgen, en de kosten voor die nevendienst vooraf niet kunnen worden bepaald, wordt de verplichting tot het sluiten van die overeenkomst op een duidelijke, beknopte en opvallende wijze, tezamen met het jaarlijks kostenpercentage vermeld.   
+3.  De informatie, bedoeld in het eerste lid, heeft alleen betrekking op kredieten die representatief zijn voor de kredieten die feitelijk door de financiële onderneming worden verstrekt.   
+4.  Een financiële onderneming geeft de informatie, bedoeld in het eerste lid, en de vermelding, bedoeld in het tweede lid, indien deze wordt verstrekt in een reclame-uiting over krediet, anders dan via de televisie of radio, gecombineerd weer in een tabel waarin geen andere informatie wordt opgenomen.   
+5.  Indien een financiële onderneming in een reclame-uiting over krediet reclame maakt voor met krediet aan te schaffen goederen of diensten, verstrekt zij daarbij de informatie, bedoeld in het eerste lid.   
+6.  Indien een reclame-uiting betrekking heeft op een krediet met een debetrentevoet die voor een beperkte duur of een beperkt deel van het krediet geldt, wordt bij het verstrekken van de informatie, bedoeld in het eerste lid, onderdeel a, de hoogste debetrentevoet in aanmerking genomen. Bij een krediet met een variabele debetrentevoet die voor beperkte duur of een beperkt deel van het krediet afwijkt van de variabele debetrentevoet die op het moment van het doen van de reclame-uiting geldt voor overeenkomsten over krediet van gelijke soort, omvang en duur, wordt bij het verstrekken van de informatie, bedoeld in het eerste lid, onderdeel a, de hoogste van genoemde variabele debetrentevoeten genoemd.   
+7.  Een financiële onderneming neemt in een reclame-uiting over krediet een waarschuwing op met betrekking tot de gevolgen die aan het krediet zijn verbonden, tenzij het een reclame-uiting voor hypothecair krediet betreft waarbij geen relatie met een ander bestedingsdoel wordt gelegd dan de verwerving van de eigen woning.   
+8.  Een financiële onderneming: 
 
 a. neemt in een reclame-uiting over krediet geen mededelingen op die gericht zijn op het gemak of de snelheid waarmee het krediet wordt verstrekt;  
 
@@ -1276,9 +1260,23 @@ b. brengt in een reclame-uiting over krediet niet tot uiting dat lopende overeen
 c. brengt in een reclame-uiting over krediet niet tot uiting dat met een negatieve uitkomst van de raadpleging van het stelsel van kredietregistratie of anderszins in afwijking van de geldende gedragscode toch een krediet kan worden verkregen; en  
 
 d. geeft in een reclame-uiting over krediet geen kenmerken van het krediet weer waarin fiscale voordelen zijn verwerkt.     
-13.  Indien een financiële onderneming in een reclame-uiting informatie als bedoeld in het eerste of tweede lid of informatie over een specifiek product verstrekt over een krediet, verstrekt zij daarbij informatie over de verkrijgbaarheid van het kredietprospectus, bedoeld in [artikel 4:33, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). De eerste volzin is niet van toepassing op reclame-uitingen over krediet, voorzover het krediet onderdeel uitmaakt van een complex product.   
-14.  Indien een financiële onderneming informatie verstrekt over de kenmerken van het krediet, bedoeld in het eerste lid en tweede lid, aanhef en onderdeel b, aanhef en onder 1°, is het vierde lid van overeenkomstige toepassing.   
-15.  Artikel 49, eerste lid, eerste volzin, is niet van toepassing op het verstrekken van informatie in een reclame-uiting als bedoeld in dit artikel.   
+9.  Indien een financiële onderneming in een reclame-uiting informatie als bedoeld in het eerste of tweede lid of informatie over een specifiek product verstrekt over een krediet, verstrekt zij daarbij informatie over de verkrijgbaarheid van de informatie, bedoeld in [artikel 4:33, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). De eerste volzin is niet van toepassing op reclame-uitingen over krediet, voorzover het krediet onderdeel uitmaakt van een complex product.   
+10.  Indien een financiële onderneming informatie verstrekt over de kenmerken van het krediet, bedoeld in het eerste lid en tweede lid, is het vierde lid van overeenkomstige toepassing.   
+11.  Artikel 49, eerste lid, eerste volzin, is niet van toepassing op het verstrekken van informatie in een reclame-uiting als bedoeld in dit artikel.   
+12.  Indien een financiële onderneming in een reclame-uiting over effectenkrediet melding maakt van een debetrentevoet of andere gegevens betreffende de kosten van een effectenkrediet, meldt zij tevens: 
+
+a. dat een doorlopend krediet wordt verleend of toegezegd tegen onderpand van financiële instrumenten, en de kredietlimiet afhankelijk is van de waarde daarvan;  
+
+b. de vaste of variabele debetrentevoet en de andere kosten die deel uitmaken van de totale kosten van het effectenkrediet; en  
+
+c. indien een contract voor een nevendienst verplicht is om het effectenkrediet, in voorkomend geval op de geadverteerde voorwaarden te verkrijgen, en de kosten van die dienst niet vooraf bepaald kunnen worden, de verplichting tot het sluiten van die overeenkomst op een duidelijke, beknopte en opvallende wijze,     
+13.  Onverminderd het eerste tot en met twaalfde lid meldt een bemiddelaar in krediet in een reclame-uiting over krediet tevens dat hij: 
+
+a. adviseert op grond van een objectieve analyse;  
+
+b. een contractuele verplichting heeft uitsluitend voor een of meer aanbieders te bemiddelen; of  
+
+c. geen contractuele verplichting heeft uitsluitend voor een of meer aanbieders te bemiddelen en hij niet adviseert op grond van een objectieve analyse.     
 
 ### Artikel  54  
 
@@ -1699,7 +1697,7 @@ Bepalingen ter uitvoering van [artikel 4:22, eerste lid, van de wet](../../../..
 1.  Een aanbieder van een complex product houdt een financiële bijsluiter beschikbaar op zijn website en verstrekt de financiële bijsluiter onverwijld kosteloos op verzoek van een consument of, indien het een recht van deelneming in een beleggingsinstelling betreft, cliënt.   
 2.  Indien een complex product wordt aangeboden door tussenkomst van een bemiddelaar, gevolmachtigde agent of ondergevolmachtigde agent, wordt een financiële bijsluiter door deze bemiddelaar, gevolmachtigde agent onderscheidenlijk ondergevolmachtigde agent onverwijld kosteloos op verzoek van de consument onderscheidenlijk cliënt verstrekt, tenzij de aanbieder en de bemiddelaar, gevolmachtigde agent onderscheidenlijk ondergevolmachtigde agent zijn overeengekomen dat de aanbieder zelf aan deze verplichting voldoet.   
 3.  Het eerste lid is niet van toepassing op complexe producten, met uitzondering van rechten van deelneming in een beleggingsinstelling, ten aanzien waarvan uitsluitend financiële diensten worden verleend aan anderen dan consumenten.   
-4.  Het eerste lid is van overeenkomstige toepassing op financiële ondernemingen die een complex product als bedoeld in artikel 1, onderdeel d, onder 1°, 4° of 11°, samenstellen en dat product algemeen in de markt verkrijgbaar stellen voor consumenten of, indien een recht van deelneming in een beleggingsinstelling betreft, cliënten.   
+4.  Het eerste lid is van overeenkomstige toepassing op financiële ondernemingen die een complex product als bedoeld in de onderdelen 1°, 4° of 7°, van de definitie van complex product in artikel 1, samenstellen en dat product algemeen in de markt verkrijgbaar stellen voor consumenten of, indien een recht van deelneming in een beleggingsinstelling betreft, cliënten.   
 
 ### Artikel  66  
 
@@ -1771,9 +1769,12 @@ c. bij ministeriële regeling aan te wijzen andere onderwerpen.
 
 ### Artikel  68  
 
-1.  Gedurende de looptijd van een overeenkomst inzake krediet met een variabele kredietvergoeding informeert de aanbieder de consument over elke wijziging van de kredietvergoeding, waarbij hij de consument tevens informeert over het gewijzigde effectieve kredietvergoedingspercentage op jaarbasis.   
-2.  Gedurende de looptijd van een overeenkomst inzake krediet verstrekt de aanbieder de consument op diens verzoek een gespecificeerd overzicht van het uitstaand saldo. Hij kan daarbij een vergoeding in rekening brengen van ten hoogste het bedrag van de werkelijke kosten.   
-3.  Tot een jaar na de afwikkeling van een overeenkomst inzake krediet verstrekt de aanbieder van krediet aan de consument op diens verzoek kosteloos een gespecificeerde afrekening.   
+1.  Gedurende de looptijd van een overeenkomst inzake krediet verstrekt de aanbieder de consument op diens verzoek een gespecificeerd overzicht van het uitstaand saldo. Hij kan daarbij een vergoeding in rekening brengen van ten hoogste het bedrag van de werkelijke kosten.   
+2.  Tot een jaar na de afwikkeling van een overeenkomst inzake krediet verstrekt de aanbieder van krediet aan de consument op diens verzoek kosteloos een gespecificeerde afrekening.   
+
+### Artikel  68a  
+
+Gedurende de looptijd van een overeenkomst inzake hypothecair krediet met een variabele kredietvergoeding informeert de aanbieder de consument over elke wijziging van de kredietvergoeding, waarbij hij de consument tevens informeert over het gewijzigde jaarlijks kostenpercentage.  
 
 ### Artikel  69  
 
@@ -2066,6 +2067,8 @@ s. de overige voorwaarden van de overeenkomst op afstand; en
 t. indien hij gebruik maakt van een andere beroepsbeoefenaar, de naam en adres van deze beroepsbeoefenaar en, indien deze een rechtspersoon is, diens statutaire naam en handelsnaam of handelsnamen, en de hoedanigheid waarin deze tegenover de consument optreedt     
 2.  Een financiëledienstverlener die financiële diensten verleent met betrekking tot levensverzekeringen voldoet aan het eerste lid, aanhef en onderdelen f, g, h, m, n en s, door het verstrekken van de informatie, bedoeld in artikel 60, eerste lid, onderdelen h, i, l, m, n, o, p, r, s en t.   
 3.  Een financiëledienstverlener die financiële diensten verleent met betrekking tot natura-uitvaartverzekeringen voldoet aan het eerste lid, aanhef en onderdeel n, door het verstrekken van de informatie, bedoeld in artikel 63, eerste lid, onderdelen h, i, en j.   
+4.  Een financiëledienstverlener die financiële diensten verleent met betrekking tot consumptief krediet voldoet aan het eerste lid door het verstrekken van de informatie, bedoeld in artikel 112, eerste en tweede lid, of, indien het krediet in de vorm van een geoorloofde debetstand wordt verleend waarbij is overeengekomen dat de ter zake verschuldigde betaling van de consument op verzoek of binnen een termijn van één tot drie maanden plaatsvindt, door het verstrekken van de informatie, bedoeld in artikel 112a, eerste lid.   
+5.  Een financiëledienstverlener die financiële diensten verleent met betrekking tot effectenkrediet voldoet aan het eerste lid door het verstrekken van de informatie zoals opgenomen in bijlage F van dit besluit.   
 
 ### Artikel  78  
 
@@ -2093,8 +2096,31 @@ d. de omstandigheid dat de consument andere bedragen verschuldigd kan zijn die n
 e. de toepasselijkheid van het in [artikel 4:28, eerste en tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedoelde recht, de duur van en de voorwaarden voor de uitoefening van dat recht, met inbegrip van informatie over het bedrag dat de consument gehouden kan zijn te betalen, de gevolgen van niet-uitoefening van dat recht; en  
 
 f. de omstandigheid dat op verzoek van de consument andere informatie beschikbaar is, waarbij de aard van die informatie aan de consument wordt medegedeeld.     
-2.  Indien een overeenkomst op afstand tot stand komt via spraaktelefonie, verstrekt een financiëledienstverlener de in artikel 77, eerste lid, bedoelde informatie onmiddellijk na de totstandkoming van de overeenkomst op afstand aan de consument. Voorzover het een overeenkomst inzake een levensverzekering, natura-uitvaartverzekering of schadeverzekering betreft, is artikel 78, tweede lid, aanhef en onderdeel a, onderscheidenlijk het tweede lid, aanhef en onderdeel b, of het derde lid van overeenkomstige toepassing.   
-3.  Artikel 49, eerste lid, eerste volzin, is niet van toepassing op het verstrekken van informatie als bedoeld in het eerste lid.   
+2.  Ten aanzien van consumptief krediet dat op verzoek van de consument met onmiddellijke ingang beschikbaar wordt gesteld, anders dan in de vorm van een geoorloofde debetstand waarbij is overeengekomen dat de ter zake verschuldigde betaling van de consument op verzoek of binnen een termijn van één tot drie maanden plaatsvindt, zijn de belangrijkste kenmerken, bedoeld in het eerste lid, onderdeel b, de volgende gegevens: 
+
+a. het jaarlijks kostenpercentage berekend voor een representatief voorbeeld;  
+
+b. het totale door de consument te betalen bedrag;  
+
+c. het totale kredietbedrag en de voorwaarden voor kredietopneming;  
+
+d. de duur van de kredietovereenkomst;  
+
+e. in geval van goederenkrediet, de roerende zaak of de dienst en de contante prijs daarvan;  
+
+f. de debetrentevoet, de voorwaarden die de toepassing van deze rentevoet regelen, en, voor zover beschikbaar, indices of referentierentevoeten die betrekking hebben op de aanvankelijke debetrentevoet, en de termijnen, de voorwaarden en de procedure voor wijziging daarvan; en  
+
+g. het bedrag, het aantal en de frequentie van de door de consument te verrichten betalingen, en, indien van toepassing, de volgorde waarin de betalingen aan de verschillende openstaande saldi tegen verschillende debetrentevoeten worden toegerekend met het oog op de aflossing.     
+3.  Ten aanzien van consumptief krediet in de vorm van een geoorloofde debetstand waarbij is overeengekomen dat de ter zake verschuldigde betaling van de consument op verzoek of binnen een termijn van één tot drie maanden plaatsvindt, zijn de belangrijkste kenmerken, bedoeld in het eerste lid, onderdeel b, de in artikel 112a, tweede lid, onderdelen c, e, f en g, bedoelde gegevens.   
+4.  Ten aanzien van effectenkrediet zijn de belangrijkste kenmerken, bedoeld in het eerste lid, onderdeel b, de volgende gegevens: 
+
+a. de debetrentevoet, de voorwaarden die de toepassing van deze rentevoet regelen, en, voor zover beschikbaar, indices of referentierentevoeten die betrekking hebben op de aanvankelijke debetrentevoet, en de termijnen, de voorwaarden en de procedure voor wijziging daarvan; en  
+
+b. dat het krediet wordt verleend of toegezegd tegen onderpand van financiële instrumenten en dat de kredietlimiet afhankelijk is van een bepaald dekkingspercentage en indien van toepassing, bepaalde spreidingseisen; en  
+
+c. welk dekkingspercentage en welke spreidingseisen worden gehanteerd ten aanzien van de in onderpand gegeven financiële instrumenten.     
+4.  Indien een overeenkomst op afstand tot stand komt via spraaktelefonie, verstrekt een financiëledienstverlener de in artikel 77, eerste lid, bedoelde informatie onmiddellijk na de totstandkoming van de overeenkomst op afstand aan de consument. Voorzover het een overeenkomst inzake een levensverzekering, natura-uitvaartverzekering of schadeverzekering betreft, is artikel 78, tweede lid, aanhef en onderdeel a, onderscheidenlijk het tweede lid, aanhef en onderdeel b, of het derde lid van overeenkomstige toepassing.   
+5.  Artikel 49, eerste lid, eerste volzin, is niet van toepassing op het verstrekken van informatie als bedoeld in het eerste lid.   
 
 ### Artikel  80  
 
@@ -2563,7 +2589,7 @@ Bepalingen ter uitvoering van [artikel 4:30a, derde lid, van de wet](../../../..
 
 ### Artikel  109  
 
-In deze afdeling en de daarop berustende bepalingen wordt in afwijking van artikel 1, onderdeel m, verstaan onder gelieerde partij: 
+In deze afdeling en de daarop berustende bepalingen wordt in afwijking van artikel 1, verstaan onder gelieerde partij: 
 
 a. persoon die met een aanbieder van beleggingsobjecten in een formele of feitelijke zeggenschapsstructuur is verbonden;  
 
@@ -2609,15 +2635,44 @@ j. de gegevens op jaarbasis per serie van beleggingsobjecten waarvan het beleggi
 2.  Artikel 49 is van overeenkomstige toepassing op het verstrekken van het beleggingsobjectprospectus door de aanbieder van het beleggingsobject onderscheidenlijk de bemiddelaar.   
 3.  De Autoriteit Financiële Markten kan regels stellen met betrekking tot de wijze waarop de gegevens, bedoeld in het eerste lid, in het beleggingsobjectprospectus worden opgenomen alsmede met betrekking tot de wijze van berekening van de kosten, risico’s en opbrengsten, bedoeld in het eerste lid.   
 
+### Afdeling  10.1a  
+
+####Elektronisch geld
+
+Bepalingen ter uitvoering van de [artikelen 4:20, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:31, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+
+### Artikel  110a  
+
+1.  Een elektronischgeldinstelling betaalt de nominale waarde van het uitgegeven elektronisch geld direct terug wanneer de houder van het elektronisch geld daarom verzoekt.   
+2.  De elektronischgeldinstelling vermeldt op opvallende wijze de terugbetalingsvoorwaarden, met inbegrip van vergoedingen die hiermee samenhangen, in de overeenkomst tussen de elektronischgeldinstelling en de houder van het elektronisch geld.   
+3.  Voorafgaand aan de totstandkoming van de overeenkomst stelt de elektronischgeldinstelling de houder van het elektronisch geld in kennis van de voorwaarden, bedoeld in het tweede lid.   
+4.  De houder is slechts een vergoeding verschuldigd ten behoeve van de terugbetaling indien dit in de overeenkomst is vermeld als bedoeld in het tweede lid, en uitsluitend: 
+
+a. indien wordt gevraagd om terugbetaling vóór de dag waarop de overeenkomst eindigt;  
+
+b. indien de overeenkomst voorziet in een dag waarop de overeenkomst eindigt en de houder van het elektronisch geld vóór die dag tot beëindiging van de overeenkomst overgaat; of  
+
+c. indien het verzoek tot terugbetaling meer dan een jaar na de dag van de beëindiging van de overeenkomst wordt gedaan.   Een dergelijke vergoeding staat in redelijke verhouding tot de kosten die de elektronischgeldinstelling feitelijk heeft gemaakt.   
+5.  Indien de houder van het elektronisch geld verzoekt om terugbetaling vóór de dag waarop de overeenkomst eindigt, kan hij verzoeken om de gedeeltelijke of volledige terugbetaling van het elektronisch geld.   
+6.  Indien de houder van het elektronisch geld verzoekt om terugbetaling binnen een jaar na de beëindiging van de overeenkomst: 
+
+a. betaalt de elektronischgeldinstelling hem de volledige waarde van het uitgegeven elektronisch geld terug; of  
+
+b. betaalt de elektronischgeldinstelling hem alle middelen terug waarom de houder van het elektronisch geld verzoekt, indien de elektronischgeldinstelling een of meer van de in artikel 6, lid 1, onder e) van de richtlijn elektronisch geld genoemde activiteiten uitoefent, en het voor het aangaan van de overeenkomst niet duidelijk was welk deel van de middelen zou worden gebruikt als elektronisch geld.     
+
+### Artikel  110b  
+
+Een elektronischgeldinstelling legt de terugbetalingsrechten van personen die een betaling met het door de elektronischgeldinstelling uitgegeven elektronisch geld aanvaarden, vast in een overeenkomst met die personen.  
+
 ### Afdeling  10.2  
 
 ####Krediet
 
 ### §  10.2.1  
 
-####Kredietprospectus
+####Precontractuele informatie inzake krediet
 
-Bepalingen ter uitvoering van [artikel 4:33, derde en vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+Bepalingen ter uitvoering van [artikel 4:33, tweede tot en met vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
 ### Artikel  111  
 
@@ -2625,98 +2680,98 @@ Bepalingen ter uitvoering van [artikel 4:33, derde en vierde lid, van de wet](..
 
 a. aanbieders van hypothecair krediet;  
 
-b. aanbieders van krediet, voorzover het krediet onderdeel uitmaakt van een complex product;  
+b. aanbieders van krediet, voorzover het krediet onderdeel uitmaakt van een complex product; en  
 
-c. aanbieders van krediet voorzover zij overeenkomsten inzake krediet beheren of uitvoeren; en  
-
-d. aanbieders van krediet voorzover zij krediet aanbieden tegen onderpand van effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die tot zekerheid dienen voor de terugbetaling van het krediet aan een consument die reeds op het moment van aangaan van de overeenkomst inzake krediet bezitter is van de te verpanden effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van welk krediet de kredietsom of de kredietlimiet gedurende de looptijd van de overeenkomst inzake het krediet niet hoger is dan zeventig procent van de waarde van de te verpanden effecten, indien het effecten betreffen als bedoeld in onderdeel a van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), dan wel niet hoger is dan tachtig procent van de waarde van de te verpanden effecten, indien het effecten betreffen als bedoeld in onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en: 
-
-1°. die effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zijn toegelaten tot de handel op een gereglementeerde markt; of  
-
-2°. de waarde van die effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), door middel van een openbare prijsaanduiding voor een ieder kenbaar is.      
+c. aanbieders van krediet voorzover zij overeenkomsten inzake krediet beheren of uitvoeren.    
 
 ### Artikel  112  
 
-1.  In het kredietprospectus, bedoeld in [artikel 4:33, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) worden de volgende gegevens opgenomen: 
+1.  De informatie, bedoeld in [artikel 4:33, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met betrekking tot andere vormen van krediet dan bedoeld in de artikelen 112a en 112b, wordt schriftelijk of op een andere duurzame drager verstrekt in de vorm van het in bijlage D bij dit besluit opgenomen formulier en bevat de in die bijlage bedoelde gegevens.   
+2.  De informatie, bedoeld in het eerste lid, wordt gebaseerd op de door de consument kenbaar gemaakte voorkeur en verstrekte informatie.   
+3.  Informatie in aanvulling op de informatie, bedoeld in het eerste lid, wordt verstrekt in een afzonderlijk document.   
+4.  Indien de overeenkomst op verzoek van de consument tot stand is gekomen met gebruikmaking van een techniek voor communicatie op afstand waardoor de in het eerste lid bedoelde informatie niet op de in dat lid voorgeschreven wijze voorafgaand aan de totstandkoming van de overeenkomst kan worden verstrekt, verstrekt de aanbieder de informatie onmiddellijk na de totstandkoming van de overeenkomst aan de consument.   
+5.  De aanbieder verstrekt aan de consument op zijn verzoek een kosteloos exemplaar van de ontwerpovereenkomst inzake krediet, tenzij de aanbieder op het tijdstip van het verzoek niet voornemens is de overeenkomst met de consument aan te gaan.   
+6.  Ten aanzien van een overeenkomst inzake krediet waarbij de betalingen door de consument niet tot een directe overeenkomstige aflossing van het totale kredietbedrag leiden, maar dienen om, gedurende de periodes en onder de voorwaarden die in de overeenkomst inzake krediet of in een nevenovereenkomst zijn vastgesteld, kapitaal op te bouwen, bevat de op grond van het eerste lid te verstrekken informatie een duidelijke en beknopte vermelding dat de overeenkomst inzake krediet niet voorziet in een garantie tot aflossing van het totale uit hoofde van de overeenkomst opgenomen kredietbedrag, tenzij die garantie wordt gegeven.   
+7.  De aanbieder verstrekt de consument, teneinde deze in staat te stellen te beoordelen of de voorgestelde overeenkomst inzake krediet aan zijn behoeften en financiële situatie beantwoordt: 
 
-a. een beschrijving van de bij een kredietaanvraag te volgen procedure;  
+a. een passende toelichting op de informatie, bedoeld in het eerste lid;  
 
-b. een globale beschrijving van de criteria die ten grondslag liggen aan de beoordeling van de kredietwaardigheid van de consument, waarin ten minste twee representatieve voorbeelden van toepassing van die criteria zijn opgenomen;  
+b. de voornaamste kenmerken van het voorgestelde krediet,  
 
-c. de vermelding van: 
+c. indien van toepassing, informatie inzake het goed of de dienst, bedoeld in bijlage D, onderdeel 2, van dit besluit en van de verzekering of de rekening, bedoeld in onderdeel 3 van die bijlage;  
 
-1°. het feit dat de aanbieder van krediet deelneemt aan een stelsel van kredietregistratie;  
+d. de specifieke gevolgen van het krediet voor de consument, met inbegrip van de gevolgen indien de consument niet betaalt.     
+8.  Indien informatie als bedoeld in het eerste lid niet voorafgaand aan de totstandkoming van de overeenkomst op de in dat lid bedoelde wijze kan worden bepaald, wordt zij bepaald met toepassing van de desbetreffende hypothese, bedoeld in bijlage A, deel II.   
 
-2°. de naam en de plaats van de zetel van de instelling die dat stelsel in stand houdt; en  
+### Artikel  112a  
 
-3°. het doel en de werkwijze van dat stelsel, waaruit in ieder geval blijkt in welke gevallen gegevens betreffende de kredietwaardigheid van de consument door de aanbieder kunnen worden opgevraagd, en dat gegevens met betrekking tot een verleend krediet door de aanbieder worden verstrekt aan en worden geregistreerd door de instelling die dat stelsel in stand houdt;    
+1.  De informatie, bedoeld in [artikel 4:33, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot krediet in de vorm van een geoorloofde debetstand waarbij is overeengekomen dat de ter zake verschuldigde betaling van de consument op verzoek of binnen een termijn van één tot drie maanden plaatsvindt, wordt schriftelijk of op een andere duurzame drager verstrekt.   
+2.  De informatie bevat de volgende gegevens: 
 
-d. zodanige aanduidingen of omschrijvingen van het aangeboden krediet, dat daaruit blijkt of het een doorlopend krediet of een ander krediet betreft;  
+a. het soort krediet;  
 
-e. een beschrijving van de algemene voorwaarden waaronder de aanbieder bereid is overeenkomsten inzake krediet aan te gaan, waaronder in ieder geval, indien van toepassing, de voorwaarden inzake: 
+b. de naam en adres en, indien de aanbieder van het krediet of de bemiddelaar in krediet een rechtspersoon is, de statutaire naam en handelsnaam of handelsnamen;  
 
-1°. ten behoeve van de aanbieder te vestigen zekerheidsrechten;  
+c. het totale kredietbedrag;  
 
-2°. vervroegde opeisbaarheid van het door de consument verschuldigde; en  
+d. de duur van de kredietovereenkomst;  
 
-3°. de bevoegdheid van de consument tot volledige of gedeeltelijke vervroegde aflossing;    
+e. de debetrentevoet, de voorwaarden die de toepassing van deze rentevoet regelen, en indices of referentievoeten die betrekking hebben op de aanvankelijke debetrentevoet;  
 
-f. indien de consument zich bij de totstandkoming van een overeenkomst inzake krediet verplicht tot het aangaan van een andere overeenkomst: 
+f. de vanaf het sluiten van de overeenkomst inzake krediet in rekening te brengen kosten, alsmede in voorkomend geval de voorwaarden waaronder deze gewijzigd kunnen worden;  
 
-1°. een beschrijving van het daartoe strekkende beding; en  
+g. het jaarlijks kostenpercentage, aan de hand van representatieve voorbeelden en met vermelding van alle voor de berekening van dat percentage gebruikte hypothesen;  
 
-2°. de vermelding dat de consument het recht heeft te bepalen met welke wederpartij die andere overeenkomst zal worden aangegaan, tenzij [artikel 33, onderdeel b, onder 1°, van de Wet op het consumentenkrediet](../../../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md) niet op het krediet van toepassing is;    
+h. de voorwaarden en de procedure voor beëindiging van de overeenkomst inzake krediet;  
 
-g. de vermelding dat de consument eerst na ingebrekestelling een vergoeding verschuldigd wordt indien hij nalatig blijft in zijn verplichting tot betaling, tenzij [artikel 34, onderdeel b, van de Wet op het consumentenkrediet](../../../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md) niet op het krediet van toepassing is; en  
+i. de geldende rentevoet in geval de consument niet tijdig betaalt alsmede de wijzigingsmodaliteiten ervan en, in voorkomend geval, de kosten van niet-nakoming;  
 
-h. een toelichting met betrekking tot de op grond van artikel 53, tiende lid, te bezigen aanduiding in de volgende bewoordingen: «De effectieve rente op jaarbasis is een prijsaanduiding voor het krediet. Hierin komen alle kosten van het krediet tot uitdrukking».     
-2.  Het eerste lid, onderdeel f, aanhef en onder 2°, is niet van toepassing op een beding als bedoeld in [artikel 33, onderdeel b, onder 2°, van de Wet op het consumentenkrediet](../../../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md).   
-3.  Een aanbieder van doorlopend krediet neemt in het kredietprospectus tevens de volgende gegevens op: 
+j. het recht van de consument op grond van [artikel 4:32 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) onverwijld en kosteloos geïnformeerd te worden over het resultaat van de raadpleging van een gegevensbestand ter beoordeling van zijn kredietwaardigheid;  
 
-a. vier representatieve kredietlimieten met daarbij de overige kenmerken van het krediet, bedoeld in artikel 53, eerste en tweede lid;  
+k. informatie omtrent de, vanaf het moment waarop de overeenkomst tot stand is gekomen, in rekening te brengen kosten, alsmede, voor zover van toepassing, de voorwaarden waaronder deze kosten gewijzigd kunnen worden; en  
 
-b. de uitgangspunten bij de berekening van de theoretische looptijd;  
+l. voor zover van toepassing, de periode gedurende welke de aanbieder van het krediet door de precontractuele informatie is gebonden.     
+3.  De informatie kan worden verstrekt door gebruikmaking van het formulier, opgenomen in bijlage E van dit besluit. Alle informatie wordt even opvallend weergegeven.   
+4.  De aanbieder verstrekt aan de consument op zijn verzoek een kosteloos exemplaar van de ontwerpovereenkomst inzake krediet, tenzij de aanbieder op het tijdstip van het verzoek niet voornemens is de overeenkomst met de consument aan te gaan.   
+5.  Indien de overeenkomst op verzoek van de consument tot stand is gekomen met gebruikmaking van een techniek voor communicatie op afstand waardoor de in het eerste lid bedoelde informatie niet op de in dat lid voorgeschreven wijze voorafgaand aan de totstandkoming van de overeenkomst kan worden verstrekt, verstrekt de aanbieder, in afwijking van het eerste lid, de informatie, bedoeld in [artikel 7:61 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), onmiddellijk na de totstandkoming van de overeenkomst aan de consument.   
+6.  Indien informatie als bedoeld in het eerste lid niet voorafgaand aan de totstandkoming van de overeenkomst op de in dat lid bedoelde wijze kan worden bepaald, wordt zij bepaald met toepassing van de desbetreffende hypothese, bedoeld in bijlage A, deel II.   
 
-c. indien van toepassing: de hoogte van de vergoeding die verschuldigd wordt indien de consument, na ingebrekestelling, nalatig blijft in zijn verplichting tot betaling;  
+### Artikel  112b  
 
-d. indien van toepassing: de hoogte van de vergoeding die verschuldigd wordt indien de consument vervroegd aflost.     
-4.  Een aanbieder van krediet, niet zijnde doorlopend krediet, neemt in het kredietprospectus tevens de volgende gegevens op: 
+De informatie, bedoeld in [artikel 4:33, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met betrekking tot effectenkrediet kan worden verstrekt door gebruikmaking van het formulier, opgenomen in bijlage F van dit besluit. De informatie bevat de in die bijlage bedoelde gegevens. Alle informatie wordt even opvallend weergegeven.  
 
-a. vier representatieve kredietsommen met daarbij de overige kenmerken van het krediet, bedoeld in artikel 53, eerste en tweede lid;  
+### Artikel  112c  
 
-b. ten minste één voorbeeld van een berekening waaruit blijkt op welke wijze met behulp van de kredietsom, de maandlast en de looptijd het bedrag kan worden bepaald van het totaal aan kredietvergoeding dat de consument verschuldigd is bij een regelmatige afwikkeling van de overeenkomst;  
-
-c. indien van toepassing: de hoogte van de vergoeding die verschuldigd wordt indien de consument, na ingebrekestelling, nalatig blijft in zijn verplichting tot betaling; en  
-
-d. indien van toepassing: de hoogte van de vergoeding die verschuldigd wordt indien de consument vervroegd aflost, en ten minste één voorbeeld van een berekening waaruit blijkt op welke wijze het bedrag van deze vergoeding wordt bepaald.     
-5.  Artikel 49 is van overeenkomstige toepassing op het kredietprospectus.   
-6.  De Autoriteit Financiële Markten kan regels stellen met betrekking tot de wijze waarop de gegevens, bedoeld in het eerste, derde en vierde lid, in het kredietprospectus worden opgenomen.   
+De informatie, bedoeld in [artikel 4:33, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met betrekking tot krediet in de vorm van een geoorloofde debetstand waarbij is overeengekomen dat de ter zake verschuldigde betaling van de consument binnen een termijn van een maand plaatsvindt, bevat de in artikel 112a, tweede lid, onderdelen c, e, f en g, bedoelde gegevens met betrekking tot de kenmerken van het krediet.  
 
 ### §  10.2.2  
 
-####Verplichting tot inwinnen van informatie
+####Verplichting tot inwinnen van informatie en ten hoogste toegelaten kredietvergoeding
 
-Bepalingen ter uitvoering van de [artikelen 4:32, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:34, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+Bepalingen ter uitvoering van de [artikelen 4:32, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:34, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:35 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
 ### Artikel  113  
 
-1.  Een aanbieder van krediet gaat met een consument geen overeenkomst inzake krediet aan waarvan de kredietsom of de kredietlimiet meer dan € 1000 bedraagt, indien hij niet beschikt over voldoende schriftelijke of op een andere duurzame drager vastgelegde informatie aangaande de financiële positie van de consument om, ter voorkoming van overkreditering, te kunnen beoordelen of het aangaan van de overeenkomst verantwoord is.   
-2.  Het eerste lid is niet van toepassing op aanbieders van krediet voorzover zij krediet aanbieden tegen onderpand van effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die tot zekerheid dienen voor de terugbetaling van het krediet aan een consument die reeds op het moment van aangaan van de overeenkomst inzake krediet bezitter is van de te verpanden effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van welk krediet de kredietsom of de kredietlimiet gedurende de looptijd van de overeenkomst inzake het krediet niet hoger is dan zeventig procent van de waarde van de te verpanden effecten, indien het effecten betreffen als bedoeld in onderdeel a van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), dan wel niet hoger is dan tachtig procent van de waarde van de te verpanden effecten, indien het effecten betreffen als bedoeld in onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en: 
+1.  Een aanbieder van krediet gaat met een consument geen overeenkomst inzake krediet aan waarvan het totale kredietbedrag meer dan € 1000 bedraagt, indien hij niet beschikt over voldoende schriftelijke of op een andere duurzame drager vastgelegde informatie aangaande de financiële positie van de consument om, ter voorkoming van overkreditering, te kunnen beoordelen of het aangaan van de overeenkomst verantwoord is.   
+2.  Het eerste lid is niet van toepassing op aanbieders van krediet voorzover zij krediet aanbieden tegen onderpand van effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die tot zekerheid dienen voor de terugbetaling van het krediet aan een consument die reeds op het moment van aangaan van de overeenkomst inzake krediet bezitter is van de te verpanden effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van welk krediet het totale kredietbedrag gedurende de looptijd van de overeenkomst inzake het krediet niet hoger is dan zeventig procent van de waarde van de te verpanden effecten, indien het effecten betreffen als bedoeld in onderdeel a van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), dan wel niet hoger is dan tachtig procent van de waarde van de te verpanden effecten, indien het effecten betreffen als bedoeld in onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en: 
 
 1°. die effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zijn toegelaten tot de handel op een gereglementeerde markt; of  
 
 2°. de waarde van die effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), door middel van een openbare prijsaanduiding voor een ieder kenbaar is.     
+3.  Het eerste lid is niet van toepassing op aanbieders van krediet voor zover zij krediet aanbieden in de vorm van een geoorloofde debetstand die binnen drie maanden dient te worden afgelost en die niet hoger is dan het bedrag dat maandelijks op de rekening wordt gestort.   
 
 ### Artikel  114  
 
-1.  Alvorens met een consument een overeenkomst inzake krediet aan te gaan waarvan de kredietsom of kredietlimiet meer dan € 250 bedraagt, raadpleegt een aanbieder van krediet de bij het stelsel van kredietregistratie waaraan hij deelneemt geregistreerde gegevens over reeds aan de consument verleende kredieten.   
-2.  Het eerste lid is niet van toepassing op aanbieders van krediet als bedoeld in artikel 113, tweede lid.   
-3.  [Artikel 4:32, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is niet van toepassing op aanbieders van krediet als bedoeld in artikel 113, tweede lid.   
+Alvorens met een consument een overeenkomst inzake krediet aan te gaan waarvan het totale kredietbedrag meer dan € 250 bedraagt, raadpleegt een aanbieder van krediet de bij het stelsel van kredietregistratie waaraan hij deelneemt geregistreerde gegevens over reeds aan de consument verleende kredieten.  
 
 ### Artikel  115  
 
 1.  Ter voorkoming van overkreditering legt een aanbieder van krediet de criteria vast die hij ten grondslag legt aan de beoordeling van een kredietaanvraag van een consument en past hij deze criteria toe bij de beoordeling van een kredietaanvraag.   
-2.  Het eerste lid is niet van toepassing op aanbieders van krediet als bedoeld in artikel 113, tweede lid.   
+2.  Het eerste lid is niet van toepassing op aanbieders van krediet voor zover zij krediet aanbieden in de vorm van een geoorloofde debetstand die binnen drie maanden dient te worden afgelost en die niet hoger is dan het bedrag dat maandelijks op de rekening wordt gestort.   
+
+### Artikel  115a  
+
+Een aanbieder van krediet rekent geen hogere kredietvergoeding dan op grond van het [Besluit kredietvergoeding](../../../../../../../AMvB/besluit/kredietvergoeding/BWBR0005233/README.md) ten hoogste toegelaten kredietvergoeding.  
 
 ### Afdeling  10.3  
 
@@ -2724,9 +2779,9 @@ Bepalingen ter uitvoering van de [artikelen 4:32, tweede lid](../../../../../../
 
 ### §  10.3.1  
 
-####Regels voor alle beheerders, belegginginstellingen en bewaarders
+####Regels voor alle beheerders, beleggingsinstellingen en bewaarders
 
-Bepalingen ter uitvoering van de [artikelen 4:43, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:48, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:49, tweede lid, aanhef en onderdeel e](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:51, vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:52, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+Bepalingen ter uitvoering van de [artikelen 4:43, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:47, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:48, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:49, tweede lid, aanhef en onderdeel e](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:51, vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:52, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
 ### Artikel  116  
 
@@ -2756,19 +2811,35 @@ g. indien de overeenkomst de activa van een instelling voor collectieve beleggin
 
 5°. de aanwijzingen van de beheerder dient uit te voeren, tenzij deze in strijd zijn met de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of de statuten onderscheidenlijk het fondsreglement van de beleggingsinstelling.      
 
+### Artikel  116a  
+
+De advertentie en mededeling op de website van de beheerder, bedoeld in [artikel 4:47, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevatten tenminste: 
+
+a. een beschrijving van de voorgestelde voorwaardenwijziging;  
+
+b. een beschrijving van de gevolgen voor de rechten en verplichtingen van de deelnemers van de voorgestelde voorwaardenwijziging;  
+
+c. indien van toepassing: de wijze en datum waarop deelnemers inspraak kunnen uitoefenen ten aanzien van de voorgestelde voorwaardenwijziging;  
+
+d. de datum waarop de voorgestelde voorwaardenwijziging van kracht zal worden;  
+
+e. een vermelding van het feit dat een ten opzichte van het voorstel ongewijzigde voorwaardenwijziging niet separaat zal worden bekendgemaakt, maar als onderdeel van de gewijzigde voorwaarden op de website beschikbaar zal zijn alsmede de datum waarop deze gewijzigde voorwaarden op de website beschikbaar zullen zijn;  
+
+f. indien van toepassing: de toepasselijkheid van [artikel 4:47, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) alsmede de datum waarop de in dat lid genoemde termijn aanvangt en eindigt.    
+
 ### Artikel  117  
 
-Het registratiedocument, bedoeld in [artikel 4:48, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevat ten minste de gegevens, genoemd in bijlage D.  
+Het registratiedocument, bedoeld in [artikel 4:48, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevat ten minste de gegevens, genoemd in bijlage G.  
 
 ### Artikel  118  
 
-1.  Onverminderd [artikel 4:49, tweede lid, aanhef en onderdelen a tot en met d, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bevat het prospectus, bedoeld in [artikel 4:49, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), de gegevens, genoemd in bijlage E.   
+1.  Onverminderd [artikel 4:49, tweede lid, aanhef en onderdelen a tot en met d, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bevat het prospectus, bedoeld in [artikel 4:49, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), de gegevens, genoemd in bijlage H.   
 2.  In het prospectus worden in afzonderlijke paragrafen de gegevens opgenomen over: 
 
 a. de kosten van de beleggingsinstelling en de wijze waarop zij ten laste komen van het resultaat van de beleggingsinstelling, in mindering worden gebracht op het beheerde vermogen of anderszins direct of indirect ten laste komen van de deelnemers in de beleggingsinstelling; en  
 
 b. de aan de beleggingsinstelling verbonden risico’s.     
-3.  De Autoriteit Financiële Markten stelt regels met betrekking tot de wijze waarop in het prospectus inzicht wordt verschaft in het niveau van de kosten van de beleggingsinstelling en de daaraan ten grondslag liggende berekening. Voorts kan de Autoriteit Financiële Markten nadere regels stellen met betrekking tot de wijze waarop de gegevens, bedoeld in bijlage E, worden opgenomen in het prospectus.   
+3.  De Autoriteit Financiële Markten stelt regels met betrekking tot de wijze waarop in het prospectus inzicht wordt verschaft in het niveau van de kosten van de beleggingsinstelling en de daaraan ten grondslag liggende berekening. Voorts kan de Autoriteit Financiële Markten nadere regels stellen met betrekking tot de wijze waarop de gegevens, bedoeld in bijlage H, worden opgenomen in het prospectus.   
 
 ### Artikel  119  
 
@@ -3181,7 +3252,7 @@ Bepalingen ter uitvoering van [artikel 4:71, vierde lid, van de wet](../../../..
 
 ####Algemeen
 
-Bepalingen ter uitvoering van de [artikelen 4:72, derde lid, aanhef en onderdelen a en c](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [4:73, derde lid, aanhef en onderdelen a en c, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+Bepalingen ter uitvoering van de [artikelen 4:71a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:72, derde lid, aanhef en onderdelen a en c](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [4:73, derde lid, aanhef en onderdelen a en c, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
 
 ### Artikel  149a  
 
@@ -3232,9 +3303,9 @@ Bepalingen ter uitvoering van [artikel 4:74, tweede en derde lid, van de wet](..
 
 [Artikel 4:74, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), is niet van toepassing op: 
 
-a. overeenkomsten inzake krediet waarvoor bij het aangaan hypothecaire zekerheid wordt verleend of inzake krediet waarvoor reeds hypothecaire zekerheid bestaat, indien het krediet wordt verleend tegen een voor hypothecaire kredieten van de betrokken aanbieder gebruikelijk effectief kredietvergoedingspercentage;  
+a. overeenkomsten inzake krediet waarvoor bij het aangaan hypothecaire zekerheid wordt verleend of inzake krediet waarvoor reeds hypothecaire zekerheid bestaat, indien het krediet wordt verleend tegen een voor hypothecaire kredieten van de betrokken aanbieder gebruikelijk jaarlijks kostenpercentage;  
 
-b. overeenkomsten inzake krediet, voorzover het krediet wordt aangeboden tegen onderpand van effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die tot zekerheid dienen voor de terugbetaling van het krediet aan een consument die reeds op het moment van aangaan van de overeenkomst inzake krediet bezitter is van de te verpanden effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van welk krediet de kredietsom of de kredietlimiet gedurende de looptijd van de overeenkomst inzake het krediet niet hoger is dan zeventig procent van de waarde van de te verpanden effecten, indien het effecten betreffen als bedoeld in onderdeel a van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), dan wel niet hoger is dan tachtig procent van de waarde van de te verpanden effecten, indien het effecten betreffen als bedoeld in onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en: 
+b. overeenkomsten inzake krediet, voorzover het krediet wordt aangeboden tegen onderpand van effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die tot zekerheid dienen voor de terugbetaling van het krediet aan een consument die reeds op het moment van aangaan van de overeenkomst inzake krediet bezitter is van de te verpanden effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van welk krediet het totale kredietbedrag gedurende de looptijd van de overeenkomst inzake het krediet niet hoger is dan zeventig procent van de waarde van de te verpanden effecten, indien het effecten betreffen als bedoeld in onderdeel a van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), dan wel niet hoger is dan tachtig procent van de waarde van de te verpanden effecten, indien het effecten betreffen als bedoeld in onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en: 
 
 1°. die effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zijn toegelaten tot de handel op een gereglementeerde markt; of  
 
@@ -3426,7 +3497,7 @@ b. de beleggingsonderneming beschikt over systemen en controlemiddelen die waarb
 
 ### Artikel  165d  
 
-Een beleggingsonderneming als bedoeld in [artikel 4:87, eerste en tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) legt eenmaal per jaar aan de Autoriteit Financiële Markten een verslag over van een externe accountant over de deugdelijkheid van de in haar bedrijfsvoering getroffen maatregelen om te voldoen aan de artikelen 165 tot en met 165c.  
+Een beleggingsonderneming als bedoeld in [artikel 4:87, eerste en tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die financiële instrumenten en gelden voor een cliënt onder zich houdt legt eenmaal per jaar aan de Autoriteit Financiële Markten een verslag over van een externe accountant over de deugdelijkheid van de in haar bedrijfsvoering getroffen maatregelen om te voldoen aan de artikelen 165 tot en met 165c.  
 
 ### Artikel  166  
 
@@ -3587,17 +3658,17 @@ Tot 1 oktober 2007 is artikel 6 niet van toepassing op financiëledienstverlene
 
 a. tussen 1 januari 2000 en 1 oktober 2007 is behaald; en  
 
-b. wordt genoemd in de eerste kolom van bijlage F, en is afgegeven door een in de tweede kolom genoemde instelling, voor de eindtermen, bedoeld in de derde kolom van de tabel.     
+b. wordt genoemd in de eerste kolom van bijlage I, en is afgegeven door een in de tweede kolom genoemde instelling, voor de eindtermen, bedoeld in de derde kolom van de tabel.     
 2.  Een diploma is voor de toepassing van artikel 6, eerste lid, onderdeel a, en tweede lid, onderdeel a, geldig, indien het diploma: 
 
 a. vóór 1 januari 2000 is behaald;  
 
-b. wordt genoemd in de eerste kolom van bijlage F, en is afgegeven door een in de tweede kolom genoemde instelling, voor de eindtermen, bedoeld in de derde kolom van de tabel; en  
+b. wordt genoemd in de eerste kolom van bijlage I, en is afgegeven door een in de tweede kolom genoemde instelling, voor de eindtermen, bedoeld in de derde kolom van de tabel; en  
 
 c. wordt gehouden door een persoon die in de periode van 1 januari 2000 tot 1 januari 2006 ten minste drie jaar relevante werkervaring heeft opgedaan.     
 3.  Indien het diploma, bedoeld in het eerste of tweede lid, een diploma betreft voor hypothecair krediet of levensverzekering, voldoet de houder van het diploma vanaf 1 oktober 2007 tevens op de door Onze Minister bij ministeriële regeling vast te stellen wijze aan de eindtermen, opgenomen in de onderdelen 2.5 tot en met 2.7 onderscheidenlijk 5.6 tot en met 5.8 van bijlage B.   
 4.  Onze Minister kan in aanvulling op het eerste en tweede lid bij ministeriële regeling een ander diploma aanwijzen als geldig diploma, bedoeld in artikel 6, eerste lid, onderdeel a, en tweede lid, onderdeel a. Indien een op grond van de vorige volzin aangewezen diploma is behaald voor 1 januari 2000 is het slechts geldig indien de houder van het diploma in de periode van 1 januari 2000 tot 1 januari 2006 ten minste drie jaar relevante werkervaring heeft opgedaan.   
-5.  De instellingen, genoemd in de tweede kolom van bijlage F beschikken van rechtswege over een erkenning als bedoeld in artikel 9 voor het afgeven van diploma’s genoemd in de eerste kolom. Onverminderd het eerste en tweede lid, is een diploma als genoemd in de eerste kolom van bijlage F dat wordt afgegeven na 1 januari 2006, slechts geldig voor de toepassing van 6, eerste lid, onderdeel a, en tweede lid, onderdeel a, indien de in de tweede kolom genoemde instelling op het moment van het afgeven van het diploma over een erkenning beschikt.   
+5.  De instellingen, genoemd in de tweede kolom van bijlage I beschikken van rechtswege over een erkenning als bedoeld in artikel 9 voor het afgeven van diploma’s genoemd in de eerste kolom. Onverminderd het eerste en tweede lid, is een diploma als genoemd in de eerste kolom van bijlage I dat wordt afgegeven na 1 januari 2006, slechts geldig voor de toepassing van 6, eerste lid, onderdeel a, en tweede lid, onderdeel a, indien de in de tweede kolom genoemde instelling op het moment van het afgeven van het diploma over een erkenning beschikt.   
 
 ### Artikel  172  
 
@@ -3654,31 +3725,47 @@ E. M. H.Hirsch Ballin
 
 ### Bijlage  A  
 
-####behorend bij artikel 1, definitie «theoretische looptijd» 
+####, inhoudende de basisvergelijking en aanvullende hypothesen, bedoeld in de definitie van jaarlijks kostenpercentage in artikel 1 
 
-1. Bij de berekening van de theoretische looptijd van doorlopend krediet wordt ervan uitgegaan dat: 
+I.  *De basisvergelijking die de gelijkwaardigheid van de kredietopnemingen enerzijds en de aflossingen en kosten anderzijds weergeeft.*  De basisvergelijking ter bepaling van het jaarlijks kostenpercentage (JKP) geeft op jaarbasis de gelijkheid weer tussen de som van de geactualiseerde waarden van de kredietopnemingen enerzijds, en de som van de geactualiseerde waarden van de aflossingen en kosten anderzijds:   ![248908](http://wetten.overheid.nl/Illustration/248908)
+waarin: X = het JKP; m = het volgnummer van de laatste kredietopneming; k = het volgnummer van een kredietopneming, waarbij 1 ≤ k ≤ m; Ck = het bedrag van kredietopneming nummer k; tk = het tijdsinterval, uitgedrukt in jaren en fracties van jaren, tussen de datum van de eerste kredietopneming en de datum van elke latere kredietopneming, waarbij t1 = 0; m’ = het volgnummer van de laatste aflossing of betaling; l = het volgnummer van een aflossing of betaling; Dl = het bedrag van een aflossing of betaling; sl = het tijdsinterval, uitgedrukt in jaren en fracties van jaren, tussen de datum van de eerste kredietopneming en de datum van elke aflossing of betaling. Opmerkingen: 
 
-a. de overeenkomst inzake krediet overeenkomstig de bij het aangaan van de overeenkomst inzake het krediet vastgestelde hoogte en lengte van het termijnbedrag wordt afgewikkeld;  
+a) de door beide partijen op diverse tijdstippen betaalde bedragen zijn niet noodzakelijk gelijk en worden niet noodzakelijk met gelijke tussenpozen betaald.  
 
-b. geen wijzigingen optreden in de kredietvergoeding, tenzij het wijzigingen betreft waarvan de omvang bij het aangaan van de overeenkomst inzake krediet is vastgesteld;  
+b) de aanvangsdatum is die van de eerste kredietopneming.  
 
-c. het uitstaand saldo op het tijdstip waarop door de aanbieder van krediet een geldsom ter beschikking wordt gesteld onderscheidenlijk met het verschaffen van het genot van een roerende zaak of een effect of het verlenen van een dienst een aanvang wordt gemaakt, gelijk is aan de kredietlimiet; en  
+c) het verschil tussen de data die bij de berekeningsmethoden worden gebruikt, wordt uitgedrukt in jaren of fracties van jaren. Een jaar wordt geacht 365 dagen (voor schrikkeljaren 366 dagen), 52 weken of twaalf gelijke maanden te tellen. Een gelijke maand wordt geacht 30,41666 dagen te tellen (dat wil zeggen 365/12), zowel voor gewone jaren als schrikkeljaren.  
 
-d. het uitstaand saldo niet toeneemt anders dan uit hoofde van het in rekening brengen van kredietvergoeding.    
+d) de uitkomst van de berekening wordt ten minste tot op de eerste decimaal weergegeven. Als de volgende decimaal groter is dan of gelijk is aan 5, wordt de eerste decimaal met 1 vermeerderd.  
 
-2. Bij overeenkomsten inzake doorlopend krediet waarbij het kredietvergoedingspercentage per betalingstermijn, de betalingstermijn en het termijnbedrag, met uitzondering van het laatste termijnbedrag, gelijk blijven, bedraagt de theoretische looptijd n betalingstermijnen, waarbij n de uitkomst is van de volgende formule: (log T – log (T – im.K)) / log (1 + im) In deze formule is: 
+e) de vergelijking kan met slechts één sommatie worden herschreven aan de hand van het begrip flux (Ak). De flux is positief of negatief, dat wil zeggen wordt gedurende de perioden 1 tot en met k respectievelijk betaald of ontvangen, en wordt uitgedrukt in jaren:   ![248908](http://wetten.overheid.nl/Illustration/248908)
+S is het saldo van de geactualiseerde flux en bedraagt nul indien de flux gelijkwaardig is.    
 
-T: het termijnbedrag;  
+II.  *Aanvullende hypothesen voor de berekening van het jaarlijks kostenpercentage:*  
 
-im: het honderdste deel van het kredietvergoedingspercentage per betalingstermijn;  
+a) indien de consument op grond van de overeenkomst inzake krediet vrij kan kiezen hoeveel krediet hij opneemt, wordt verondersteld dat het totale kredietbedrag onmiddellijk volledig wordt opgenomen;  
 
-m: het aantal betalingstermijnen per jaar;  
+b) indien een overeenkomst inzake krediet mogelijkheden van kredietopneming met verschillende kosten of debetrentevoeten biedt, wordt verondersteld dat het totale kredietbedrag tegen de hoogste kosten en debetrentevoet wordt opgenomen, toegepast op het meest gebruikelijke mechanisme voor kredietopneming waarvan in het kader van dat soort overeenkomst inzake krediet wordt gebruikgemaakt;  
 
-K: de kredietlimiet.    
+c) indien een overeenkomst inzake krediet de consument in het algemeen de vrijheid biedt om te kiezen hoeveel krediet hij opneemt, maar bij de verschillende wijzen van kredietopneming een beperking oplegt met betrekking tot het bedrag en de termijn, wordt verondersteld dat het kredietbedrag op de vroegste datum waarin de overeenkomst voorziet overeenkomstig deze kredietopnemingsbeperkingen wordt opgenomen;  
 
-3. Bij overeenkomsten inzake doorlopend krediet die niet voldoen aan de in het tweede lid genoemde kenmerken wordt de theoretische looptijd berekend als de som van de lengten van de betalingstermijnen die verstrijken alvorens het uitstaand saldo tot nihil is teruggebracht.  
+d) indien er geen aflossingsschema is vastgesteld, wordt ervan uitgegaan: 
 
-4. Bij de bepaling van de theoretische looptijd wordt het aantal betalingstermijnen op een geheel getal naar boven afgerond.   
+i) dat het krediet wordt verleend voor een periode van één jaar, en  
+
+ii) dat het krediet in twaalf gelijke maandelijkse termijnen wordt afgelost;    
+
+e) indien er een aflossingsschema is vastgesteld, maar het bedrag van de aflossingen flexibel is, wordt verondersteld dat het bedrag van elke aflossing het laagste is waarin de overeenkomst voorziet;  
+
+f) indien in de overeenkomst inzake krediet verscheidene aflossingsdata worden vermeld, wordt het krediet, tenzij anders wordt bepaald, ter beschikking gesteld en worden de aflossingen op de eerste van deze data verricht;  
+
+g) indien het plafond dat van toepassing is op het krediet nog niet is overeengekomen, wordt het geacht 1500 EUR te zijn;  
+
+h) in geval van een geoorloofde debetstand op een rekening wordt verondersteld dat het totale kredietbedrag volledig en voor de volledige duur van de overeenkomst inzake krediet wordt opgenomen. Indien de duur van de overeenkomst inzake krediet onbekend is, wordt bij de berekening van het jaarlijkse kostenpercentage uitgegaan van de hypothese dat de duur van het krediet drie maanden bedraagt;  
+
+i) indien voor een beperkte termijn of een beperkt bedrag verschillende rentevoeten en kosten worden aangeboden, worden de hoogste rentevoet en de hoogste kosten geacht de rentevoet en de kosten voor de gehele duur van de overeenkomst inzake krediet te zijn;  
+
+j) met betrekking tot overeenkomsten inzake krediet waarvoor een vaste debetrentevoet voor de eerste periode is overeengekomen en waarvoor aan het eind van deze periode een nieuwe debetrentevoet wordt vastgesteld die vervolgens periodiek wordt aangepast volgens een overeengekomen indicator, wordt bij de berekening van het jaarlijkse kostenpercentage uitgegaan van de hypothese dat vanaf het eind van de periode met vaste debetrentevoet de debetrentevoet dezelfde is als op het ogenblik van de berekening van het jaarlijkse kostenpercentage, gebaseerd op de waarde van de overeengekomen indicator op dat moment.     
 
 ### Bijlage  B  
 
@@ -4589,6 +4676,206 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 ### Bijlage  D  
 
+####Standaardinformatie inzake consumptief krediet
+
+1. Identiteit en contactgegevens van de aanbieder van krediet/bemiddelaar in krediet 
+
+| --- | --- |
+|:---|:---|
+| Aanbieder van krediet  Adres  Telefoonnummer  E-mailadres (*)  Fax (*)  Webadres (*)  | [Identiteit]  [Geografisch adres voor gebruik door de consument]  |
+| Indien van toepassing:  Bemiddelaar in krediet  Adres  Telefoonnummer (*)  E-mailadres (*)  Fax (*)  Webadres (*)  | [Identiteit]  [Geografisch adres voor gebruik door de consument]  |
+
+(*) Deze informatie is voor de aanbieder van krediet facultatief Telkens als «indien van toepassing» is vermeld, moet de aanbieder van krediet het vak invullen indien de informatie relevant is voor het kredietproduct, of de desbetreffende informatie of het hele vak schrappen indien de informatie niet relevant is voor het soort krediet in kwestie. De aanwijzingen tussen vierkante haken zijn bedoeld voor de aanbieder van krediet en dienen te worden vervangen door de desbetreffende gegevens.  2. Beschrijving van de belangrijkste kenmerken van het kredietproduct 
+
+| --- | --- |
+|:---|:---|
+| Het soort krediet  | --- |
+| Het totale kredietbedrag   *Bedoeld wordt het plafond of de som van alle bedragen die op grond van een kredietovereenkomst beschikbaar worden gesteld.*   | --- |
+| De voorwaarden voor kredietopneming   *Bedoeld worden het tijdstip en de wijze waarop u het geld zal ontvangen.*   | --- |
+| De duur van de kredietovereenkomst  | --- |
+| Termijnen en, in voorkomend geval, de volgorde waarin de termijnen worden toegerekend  | U dient het volgende te betalen:  [Het bedrag, het aantal en de periodiciteit van de door de consument te verrichten betalingen.]  Rente en/of kosten zijn als volgt te betalen:  |
+| Totaal door u te betalen bedrag   *Bedoeld wordt het bedrag van het geleende kapitaal, vermeerderd met de rente en eventuele kosten in verband met uw krediet.*   | [Som van het totale kredietbedrag en de totale kredietkosten]  |
+| Indien van toepassing  Het krediet wordt verleend in de vorm van uitstel van betaling voor een goed of dienst of wordt gekoppeld aan de levering van een bepaald goed of het aanbieden van een dienst.  Naam van het goed/de dienst  Contante prijs  | --- |
+| Indien van toepassing  | --- |
+| Gevraagde zekerheden  | [Soort zekerheden]  |
+| Beschrijving van de door u in verband met de kredietovereenkomst te verstrekken zekerheden.  | --- |
+| Indien van toepassing  Betalingen geven geen aanleiding tot directe aflossing van het kapitaal.  | --- |
+
+3. Kosten van het krediet 
+
+| --- | --- |
+|:---|:---|
+| De debetrentevoet of, indien van toepassing, de verschillende debetrentevoeten die van toepassing zijn op de kredietovereenkomst  | [%  – vast, of  – variabel (met de index of referentierente-voet die betrekking heeft op de aanvankelijke debetrentevoet)  – perioden]  |
+| Jaarlijks kostenpercentage (JKP)   *Dit zijn de totale kosten, uitgedrukt als jaarlijks percentage van het totale kredietbedrag.*    *Aan de hand van het JKP kunt u verschillende aanbiedingen onderling beter vergelijken.*   | [% Een representatief voorbeeld met vermelding van alle voor de berekening van het hier op te geven percentage gebruikte hypothesen]  |
+| Is het, met het oog op het verkrijgen van het krediet, in voorkomend geval op de geadverteerde voorwaarden, verplicht om  | --- |
+| – een verzekering ter waarborging van het krediet, of  | Ja/neen [zo ja, soort verzekering aangeven]  |
+| – een andere nevendienst af te nemen?  | Ja/neen [zo ja, soort nevendienst aangeven]  |
+|  *Indien de kosten van deze diensten de aanbieder van krediet niet bekend zijn, worden zij niet in het JKP opgenomen.*   | --- |
+| --- | --- |
+|  *Met het krediet verbonden kosten*   | --- |
+| Indien van toepassing  Het aanhouden van een of meer rekeningen is vereist voor de boeking van zowel betalingen als kredietopnemingen  | --- |
+| Indien van toepassing  Bedrag van de kosten voor het gebruik van een specifiek betaalmiddel (bijvoorbeeld een kredietkaart)  | --- |
+| Indien van toepassing  Eventuele andere kosten die voortvloeien uit de kredietovereenkomst  | --- |
+| Indien van toepassing  Voorwaarden waaronder de hierboven genoemde aan de kredietovereenkomst verbonden kosten voor wijziging vatbaar zijn  | --- |
+| Indien van toepassing  Verplichting tot betaling van notariskosten  | --- |
+| Kosten in het geval van betalingsachterstand  | --- |
+|  *Wanbetaling kan ernstige gevolgen voor u hebben (bijvoorbeeld gedwongen verkoop) en kredietverkrijging bemoeilijken.*   | Bij betalingsachterstand wordt u [...(toepasselijke rente en regeling voor de aanpassing ervan en, in voorkomend geval, van de kosten van niet-nakoming)] aangerekend.  |
+
+4. Overige juridische aspecten die van belang zijn 
+
+| --- | --- |
+|:---|:---|
+| Herroepingsrecht   *U hebt het recht de kredietovereenkomst binnen een periode van 14 kalenderdagen te herroepen.*   | Ja/Neen  |
+| Vervroegde aflossing   *U hebt te allen tijde het recht het krediet volledig of gedeeltelijk vervroegd af te betalen.*   | --- |
+| Indien van toepassing  De aanbieder van krediet heeft het recht op vergoeding bij vervroegde aflossing  | [Bepaling van de vergoeding (berekeningsmethode) overeenkomstig de uitvoeringsbepalingen van artikel 16 van Richtlijn 2008/48/EG]  |
+| Raadpleging van een gegevensbank   *De aanbieder van krediet dient u onverwijld en zonder kosten in kennis te stellen van het resultaat van een raadpleging van een gegevensbestand, indien een kredietaanvraag op basis van een dergelijke raadpleging is verworpen. Het voorgaande is niet van toepassing indien het verstrekken van dergelijke informatie op grond van communautaire wetgeving verboden is of indruist tegen de doelstellingen van de openbare orde of de openbare veiligheid.*   | --- |
+| Recht om een ontwerpkredietovereenkomst te ontvangen   *U hebt het recht om op verzoek kosteloos een exemplaar van de ontwerpkredietovereenkomst te verkrijgen. Deze bepaling is niet van toepassing indien de aanbieder van krediet ten tijde van het verzoek niet voornemens is de overeenkomst met u aan te gaan.*   | --- |
+| Indien van toepassing  De periode gedurende welke de aanbieder van krediet door de precontractuele informatie is gebonden.  | De informatie is gelding van....tot en met....  |
+
+*Indien van toepassing*   5. Aanvullende gegevens in geval van de verkoop op afstand van financiële diensten 
+
+|  *a) betreffende de aanbieder van krediet*   |--- |
+|:---|:---|
+| Indien van toepassing  | --- |
+| Vertegenwoordiger van de aanbieder van krediet in de lidstaat waar de consument woont  | [Identiteit]  |
+| Adres  Telefoonnummer (*)  E-mailadres (*)  Fax (*)  Webadres (*)  | [Geografisch adres voor gebruik door de consument]  |
+| Indien van toepassing  Registratie  | [Het handelsregister waarin de aanbieder van krediet staat ingeschreven en zijn inschrijvingsnummer of een soortgelijke wijze van identificatie in dat register]  |
+| Indien van toepassing  De toezichthoudende autoriteit  | --- |
+| --- | --- |
+|  *b) betreffende de kredietovereenkomst*   | --- |
+| Indien van toepassing  Uitoefening van het herroepingsrecht  | [Praktische instructies voor de uitoefening van het herroepingsrecht, onder andere de termijn waarbinnen het kan worden uitgeoefend, het adres waarnaar de kennisgeving van de uitoefening van het herroepingsrecht moet worden gezonden en de gevolgen van niet-uitoefening van dat recht]  |
+| Indien van toepassing  De wetgeving die door de aanbieder van krediet wordt gebruikt als grondslag voor de totstandbrenging van betrekkingen met u voorafgaand aan het sluiten van de kredietovereenkomst  | --- |
+| Indien van toepassing  Clausule inzake het op de kredietovereenkomst van toepassing zijnde recht en/of de bevoegde rechter  | [Desbetreffende clausule hier op te nemen]  |
+| Indien van toepassing  Taalregeling  | Informatie en contractvoorwaarden worden verstrekt in het [bepaalde taal]. Indien u hiermee instemt, zullen wij voor de duur van de kredietovereenkomst communiceren in het [bepaalde taal/talen]  |
+| --- | --- |
+|  *c) betreffende beroepsprocedures*   | --- |
+| Bestaan van en toegang tot buitengerechtelijke klachten- en beroepsprocedures  | [Of voor de consument die partij is bij de overeenkomst op afstand buitengerechtelijke klachten- en beroepsprocedures openstaan en, zo ja, hoe hij die procedures kan inleiden]  |
+
+(*) Deze informatie is voor de aanbieder van krediet facultatief. 
+
+### Bijlage  E  
+
+####Consumptief kredietinformatie voor geoorloofde debetstand op een rekening
+
+1. Identiteit en contactgegevens van de aanbieder van krediet/bemiddelaar in krediet 
+
+| --- | --- |
+|:---|:---|
+| Aanbieder van krediet  Adres  Telefoonnummer  E-mailadres (*)  Fax (*)  Webadres (*)  | [Identiteit]  [Geografisch adres voor gebruik door de consument]  |
+| Indien van toepassing:  Bemiddelaar in krediet  Adres  Telefoonnummer (*)  E-mailadres (*)  Fax (*)  Webadres (*)  | [Identiteit]  [Geografisch adres voor gebruik door de consument]  |
+
+(*) Deze informatie is voor de aanbieder van krediet facultatief Telkens als «indien van toepassing» is vermeld, moet de aanbieder van krediet het vak invullen indien de informatie relevant is voor het kredietproduct, of de desbetreffende informatie of het hele vak schrappen indien de informatie niet relevant is voor het soort krediet in kwestie. De aanwijzingen tussen vierkante haken zijn bedoeld voor de aanbieder van krediet en dienen te worden vervangen door de desbetreffende gegevens.  2. Beschrijving van de belangrijkste kenmerken van het kredietproduct 
+
+| --- | --- |
+|:---|:---|
+| Het soort krediet  | --- |
+| Het totale kredietbedrag  | [Bedoeld wordt het plafond of de som van alle bedragen die op grond van een kredietovereenkomst beschikbaar worden gesteld.]  |
+| De duur van de kredietovereenkomst  | --- |
+| Indien van toepassing  U kunt te allen tijde verzocht worden het kredietbedrag volledig terug te betalen  | --- |
+
+3. Kosten van het krediet 
+
+| --- | --- |
+|:---|:---|
+| De debetrentevoet of, in voorkomend geval, de verschillende debetrentevoeten die voor de kredietovereenkomst gelden.  | [%  – vast, of  – variabel (met de index of referentievoet die betrekking heeft op de aanvankelijke debetrentevoet)]  |
+| Indien van toepassing  | --- |
+| Jaarlijks kostenpercentage (JKP)   *Dit zijn de totale kosten, uitgedrukt als jaarlijks percentage van het totale kredietbedrag. Aan de hand van het JKP kunt u verschillende aanbiedingen onderling beter vergelijken.*   | [% Een representatief voorbeeld met vermelding van alle voor de berekening van het hier op te geven percentage gebruikte hypothesen]  |
+| Indien van toepassing  | --- |
+| Kosten  Indien van toepassing  De voorwaarden waaronder deze kosten kunnen worden gewijzigd  | [De vanaf het sluiten van de kredietovereenkomst in rekening te brengen kosten.]  |
+| Kosten in het geval van betalingsachterstand  | Bij betalingsachterstand wordt u [...(toepasselijke rente en regeling voor de aanpassing ervan en, in voorkomend geval, van de kosten van niet-nakoming)] aangerekend.  |
+
+4. Overige juridische aspecten die van belang zijn 
+
+| --- | --- |
+|:---|:---|
+| Beëindiging van de kredietovereenkomst  | [De voorwaarden en de procedure voor beëindiging van de kredietovereenkomst]  |
+| Raadpleging van een gegevensbank   *De aanbieder van krediet dient u onverwijld en zonder kosten in kennis te stellen van het resultaat van een raadpleging van een gegevensbestand, indien een kredietaanvraag op basis van een dergelijke raadpleging is verworpen. Het voorgaande is niet van toepassing indien het verstrekken van dergelijke informatie op grond van communautaire wetgeving verboden is of indruist tegen de doelstellingen van de openbare orde of de openbare veiligheid.*   | --- |
+| Indien van toepassing  De periode gedurende welke de aanbieder van krediet door de precontractuele informatie is gebonden.  | De informatie is gelding van....tot en met....  |
+
+*Indien van toepassing*   5. Te verstrekken aanvullende gegevens in geval van de verkoop op afstand van financiële diensten 
+
+| --- | --- |
+|:---|:---|
+|  *a) betreffende de aanbieder van krediet*   | --- |
+| Indien van toepassing  | --- |
+| Vertegenwoordiger van de aanbieder van krediet in de lidstaat waar de consument woont  | [Identiteit]  |
+| Adres  Telefoonnummer (*)  E-mailadres (*)  Fax (*)  Webadres (*)  | [Geografisch adres voor gebruik door de consument]  |
+| Indien van toepassing  Registratie  | [Het handelsregister waarin de aanbieder van krediet staat ingeschreven en zijn inschrijvingsnummer of een soortgelijke wijze van identificatie in dat register]  |
+| Indien van toepassing  De toezichthoudende autoriteit  | --- |
+| --- | --- |
+|  *b) betreffende de kredietovereenkomst*   | --- |
+| Herroepingsrecht   *U hebt het recht de kredietovereenkomst binnen een periode van 14 kalenderdagen te herroepen.*   Indien van toepassing  Uitoefening van het herroepingsrecht  | Ja/neen  [Praktische instructies voor de uitoefening van het herroepingsrecht, onder andere naar welk adres de kennisgeving van de uitoefening van het herroepingsrecht moet worden gezonden en de gevolgen van niet-uitoefening van dat recht]  |
+| Indien van toepassing  De wetgeving die door de aanbieder van krediet wordt gebruikt als grondslag voor de totstandbrenging van betrekkingen met u voorafgaand aan het sluiten van de kredietovereenkomst  | --- |
+| Indien van toepassing  Clausule inzake het op de kredietovereenkomst van toepassing zijnde recht en/of de bevoegde rechter  | [Desbetreffende clausule hier op te nemen]  |
+| Indien van toepassing  Taalregeling  | Informatie en contractvoorwaarden worden verstrekt in het [bepaalde taal]. Indien u hiermee instemt, zullen wij voor de duur van de kredietovereenkomst communiceren in het [bepaalde taal/talen]  |
+| --- | --- |
+|  *c) betreffende beroepsprocedures*   | --- |
+| Bestaan van en toegang tot buitengerechtelijke klachten- en beroepsprocedures  | [Of voor de consument die partij is bij de overeenkomst op afstand buitengerechtelijke klachten- en beroepsprocedures openstaan en, zo ja, hoe hij die procedures kan inleiden]  |
+
+(*) Deze informatie is voor de aanbieder van krediet facultatief. 
+
+### Bijlage  F  
+
+####Standaardinformatie inzake effectenkrediet
+
+1. Identiteit en contactgegevens van de aanbieder van krediet/bemiddelaar in krediet 
+
+| --- | --- |
+|:---|:---|
+| Aanbieder van krediet  Adres  Telefoonnummer  E-mailadres (*)  Fax (*)  Webadres (*)  | [Identiteit]  [Geografisch adres voor gebruik door de consument]  |
+| Indien van toepassing:  Bemiddelaar in krediet  Adres  Telefoonnummer (*)  E-mailadres (*)  Fax (*)  Webadres (*)  | [Identiteit]  [Geografisch adres voor gebruik door de consument]  |
+
+(*) Deze informatie is voor de aanbieder in krediet facultatief. Telkens als «indien van toepassing» is vermeld, moet de aanbieder van krediet het vak invullen indien de informatie relevant is voor het kredietproduct, of de desbetreffende informatie of het hele vak schrappen indien de informatie niet relevant is voor het soort krediet in kwestie. De aanwijzingen tussen vierkante haken zijn bedoeld voor de aanbieder van krediet en dienen te worden vervangen door de desbetreffende gegevens.  2. Beschrijving van de belangrijkste kenmerken van het krediet 
+
+| Het soort krediet  | [doorlopend krediet]  |
+|:---|:---|
+| Aangeven dat het krediet wordt verleend of toegezegd tegen onderpand van financiële instrumenten en dat de kredietlimiet afhankelijk is van een bepaald dekkingspercentage en, indien van toepassing, bepaalde spreidingseisen.  | --- |
+| Welk dekkingspercentage en welke spreidingseisen worden gehanteerd ten aanzien van de in onderpand gegeven financiële instrumenten.  | --- |
+| De dekkingspercentages per soort financieel instrument en indien van toepassing de eisen ten aanzien van de samenstelling van de in onderpand gegeven financiële instrumenten.  | --- |
+| De voorwaarden voor kredietopneming   *Bedoeld worden het tijdstip en de wijze waarop u het geld zal ontvangen.*   | --- |
+| Termijnen en, in voorkomend geval, de volgorde waarin de termijnen worden toegerekend  | Wijze waarop rente en/of kosten in rekening worden gebracht [bijvoorbeeld: rente en/of kosten worden bijgeschreven ten laste van het krediet]  [De periodiciteit van de door de consument te verrichten betalingen.]  |
+| Gevraagde zekerheden  | [Soort zekerheden]  |
+
+3. Kosten van het krediet 
+
+| --- | --- |
+|:---|:---|
+| De debetrentevoet of, indien van toepassing, de verschillende debetrentevoeten die van toepassing zijn op de kredietovereenkomst  | [%  – vast, of  – variabel (met de index of referentievoet die betrekking heeft op de aanvankelijke debetrentevoet)  – perioden]  |
+| Vier representatieve voorbeeldberekeningen van de totale kosten van het effectenkrediet gebaseerd op verschillende kredietlimieten.  | --- |
+| Indien van toepassing  Met het krediet verband houdende kosten  | --- |
+| Indien van toepassing  Het aanhouden van een of meer rekeningen is vereist voor de boeking van zowel betalingen als kredietopnemingen  | --- |
+| Kosten in het geval van betalingsachterstand   *Wanbetaling kan ernstige gevolgen voor u hebben (bijvoorbeeld gedwongen verkoop) en kredietverkrijging bemoeilijken.*   | Voor wanbetaling wordt u [...(toepasselijke rente en regeling voor de aanpassing ervan en, in voorkomend geval, van de kosten van niet-nakoming)] aangerekend.  |
+
+4. Overige juridische aspecten die van belang zijn 
+
+| Beëindiging van de kredietovereenkomst  | [De voorwaarden en de procedure voor beëindiging van de kredietovereenkomst]  |
+|:---|:---|
+| Herroepingsrecht  | Neen  |
+| Vervroegde aflossing   *U hebt te allen tijde het recht het krediet volledig of gedeeltelijk vervroegd af te betalen.*   | --- |
+| Raadpleging van een gegevensbank   *De aanbieder van krediet dient u onverwijld en zonder kosten in kennis te stellen van het resultaat van een raadpleging van een gegevensbestand, indien een kredietaanvraag op basis van een dergelijke raadpleging is verworpen. Het voorgaande is niet van toepassing indien het verstrekken van dergelijke informatie op grond van communautaire wetgeving verboden is of indruist tegen de doelstellingen van de openbare orde of de openbare veiligheid.*   | --- |
+| Indien van toepassing  De periode gedurende welke de aanbieder van krediet door de precontractuele informatie is gebonden.  | De informatie is gelding van....tot en met....  |
+
+*Indien van toepassing*   5. Aanvullende gegevens in geval van de verkoop op afstand van financiële diensten 
+
+|  *a) betreffende de aanbieder van krediet*   |--- |
+|:---|:---|
+| Indien van toepassing  Vertegenwoordiger van de aanbieder van krediet in de lidstaat waar de consument woont  Adres  Telefoonnummer (*)  E-mailadres (*)  Fax (*)  Webadres (*)  | [Identiteit]  [Geografisch adres voor gebruik door de consument]  |
+| Indien van toepassing  Registratie  | [Het handelsregister waarin de aanbieder van krediet staat ingeschreven en zijn inschrijvingsnummer of een soortgelijke wijze van identificatie in dat register]  |
+| Indien van toepassing  De toezichthoudende autoriteit  | --- |
+| --- | --- |
+|  *b) betreffende de kredietovereenkomst*   | --- |
+| Herroepingsrecht  | Neen  |
+| Indien van toepassing  De wetgeving die door de aanbieder van krediet wordt gebruikt als grondslag voor de totstandbrenging van betrekkingen met u voorafgaand aan het sluiten van de kredietovereenkomst  | --- |
+| Indien van toepassing  Clausule inzake het op de kredietovereenkomst van toepassing zijnde recht en/of de bevoegde rechter  | [Desbetreffende clausule hier op te nemen]  |
+| Indien van toepassing  Taalregeling  | Informatie en contractvoorwaarden worden verstrekt in het [bepaalde taal]. Indien u hiermee instemt, zullen wij voor de duur van de kredietovereenkomst communiceren in het [bepaalde taal/talen]  |
+| --- | --- |
+|  *c) betreffende beroepsprocedures*   | --- |
+| Bestaan van en toegang tot buitengerechtelijke klachten- en beroepsprocedures  | [Of voor de consument die partij is bij de overeenkomst op afstand buitengerechtelijke klachten- en beroepsprocedures openstaan en, zo ja, hoe hij die procedures kan inleiden]  |
+
+(*) Deze informatie is voor de aanbieder van krediet facultatief. 
+
+### Bijlage  G  
+
 ####behorend bij artikel 117 
 
 ### 1  
@@ -4637,7 +4924,7 @@ c. de personen die onderdeel zijn van een orgaan dat belast is met het toezicht 
 
 6.1. De regels en voorwaarden die gelden bij een vervanging van de beheerder of de bewaarder. 6.2. Een verklaring dat een verzoek aan de Autoriteit Financiële Markten ingevolge [artikel 1:104, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tot intrekking van de vergunning bekend wordt gemaakt in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder.  
 
-### Bijlage  E  
+### Bijlage  H  
 
 ####behorend bij artikel 118, eerste lid 
 
@@ -4823,7 +5110,7 @@ Een beschrijving van de wijze waarop en de voorwaarden waaronder opheffing en ve
 
 Een beschrijving van het beleid met betrekking tot stemrechten en -gedrag op aandelen in andere ondernemingen door de beleggingsinstelling.  
 
-### Bijlage  F  
+### Bijlage  I  
 
 ####behorend bij artikel 171 
 

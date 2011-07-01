@@ -351,24 +351,17 @@ Bij ministeriële regeling kunnen eisen worden gesteld aan de rapportage bedoeld
 
 ### Artikel  14  
 
-1.  Er is een centrale commissie voor medisch-wetenschappelijk onderzoek. Zij heeft ten hoogste vijftien leden.   
+1.  Er is een centrale commissie voor medisch-wetenschappelijk onderzoek. Zij heeft ten hoogste vijftien leden. De [Kaderwet zelfstandige bestuursorganen](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is op de centrale commissie van toepassing, met uitzondering van [artikel 22 van die wet](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), voor zover het besluiten betreft die de centrale commissie neemt ter uitvoering van deze wet en de [artikelen 10](../../../../../../../wet/embryowet/BWBR0013797/README.md), [16](../../../../../../../wet/embryowet/BWBR0013797/README.md) en [19 van de Embryowet](../../../../../../../wet/embryowet/BWBR0013797/README.md).   
 2.  De centrale commissie bestaat in elk geval uit een of meer artsen, en uit personen die deskundig zijn op het gebied van de embryologie, de farmacologie, de farmacie, de verpleegkunde, de gedragswetenschappen, de rechtswetenschap, de methodologie van wetenschappelijk onderzoek en de ethiek, alsmede een persoon die het wetenschappelijk onderzoek specifiek beoordeelt vanuit de invalshoek van de proefpersoon.   
 3.  Voor elk lid wordt een plaatsvervangend lid benoemd.   
-4.  De leden, waaronder de voorzitter, en de plaatsvervangende leden van de centrale commissie worden bij koninklijk besluit, op voordracht van Onze Minister, voor ten hoogste vier jaar benoemd. Onze Minister wijst een persoon aan die als waarnemer de vergaderingen van de commissie kan bijwonen.   
+4.  Onze Minister wijst een persoon aan die als waarnemer de vergaderingen van de commissie kan bijwonen.   
 5.  De centrale commissie wijst uit haar midden een of meer plaatsvervangers voor de voorzitter aan.   
-6.  Herbenoeming van de leden en de plaatsvervangende leden kan tweemaal en telkens voor ten hoogste vier jaar plaatsvinden. Op hun verzoek wordt hun bij koninklijk besluit, op voordracht van Onze Minister, tussentijds ontslag verleend.   
-7.  De leden en de plaatsvervangende leden kunnen anders dan op eigen verzoek tussentijds bij koninklijk besluit, op voordracht van Onze Minister, worden ontslagen: 
-
-a. indien zij de verplichtingen die voor hen voortvloeien uit het lidmaatschap van de centrale commissie, onvoldoende nakomen;  
-
-b. indien zij wegens hun lichamelijke of geestelijke toestand moeten worden geacht de geschiktheid voor het vervullen van hun functie te hebben verloren.     
-8.  De leden en de plaatsvervangende leden ontvangen een vacatiegeld alsmede een vergoeding van reis- en verblijfkosten, een en ander overeenkomstig bij ministeriële regeling te stellen regels.   
-9.  De centrale commissie regelt haar werkwijze bij een reglement dat de goedkeuring van Onze Minister behoeft. Het reglement bevat een voorziening op grond waarvan een lid of een plaatsvervangend lid van de centrale commissie niet deelneemt aan de beoordeling van een onderzoeksprotocol indien het betrokken is bij het verrichten dan wel uitvoeren van het te beoordelen wetenschappelijk onderzoek. Wijzigingen in het reglement behoeven eveneens de goedkeuring van Onze Minister. Een goedkeuring kan slechts worden geweigerd, indien een goede uitvoering van de werkzaamheden redelijkerwijs niet of niet langer is verzekerd.   
+6.  Herbenoeming van de leden en de plaatsvervangende leden kan tweemaal en telkens voor ten hoogste vier jaar plaatsvinden.   
+7.  De centrale commissie regelt haar werkwijze bij een reglement. Het reglement bevat een voorziening op grond waarvan een lid of een plaatsvervangend lid van de centrale commissie niet deelneemt aan de beoordeling van een onderzoeksprotocol indien het betrokken is bij het verrichten dan wel uitvoeren van het te beoordelen wetenschappelijk onderzoek.   
 
 ### Artikel  15  
 
-1.  De centrale commissie heeft een secretariaat, waarvan de ambtenaren door Onze Minister, gehoord de centrale commissie, worden benoemd, geschorst en ontslagen. Tot hoofd van het secretariaat wordt benoemd de secretaris van de Gezondheidsraad.   
-2.  De ambtenaren van het secretariaat zijn voor de uitoefening van hun taak uitsluitend verantwoording verschuldigd aan de centrale commissie.   
+De centrale commissie heeft een secretariaat, waarvan de ambtenaren door Onze Minister, gehoord de centrale commissie, worden benoemd, geschorst en ontslagen. Tot hoofd van het secretariaat wordt benoemd de secretaris van de Gezondheidsraad.  
 
 ### Artikel  16  
 
@@ -440,14 +433,9 @@ c. door een wijziging van het reglement van de commissie een goede uitoefening v
 3.  Een beslissing tot intrekking van een erkenning wordt niet genomen dan nadat de commissie door de centrale commissie is gehoord.   
 4.  Van de intrekking wordt schriftelijk mededeling gedaan aan de commissie. Artikel 17, tweede lid, is van overeenkomstige toepassing.   
 
-### Artikel  26  
-
-Bij algemene maatregel van bestuur kunnen richtlijnen worden vastgesteld ter zake van de uitoefening van de taak van de centrale commissie.  
-
 ### Artikel  27  
 
-1.  De centrale commissie brengt jaarlijks vóór 1 april aan Onze Minister verslag uit van haar werkzaamheden in het afgelopen kalenderjaar. Dit verslag wordt door de centrale commissie, tegen betaling der kosten, voor een ieder verkrijgbaar gesteld.   
-2.  Telkens binnen een periode van vier jaar brengt de centrale commissie een rapport uit aan Onze Minister, waarin de taakvervulling van de centrale commissie aan een onderzoek wordt onderworpen en voorstellen kunnen worden gedaan voor gewenste veranderingen. Onze Minister zendt dit rapport aan de Staten-Generaal.   
+Telkens binnen een periode van vijf jaar brengt de centrale commissie een rapport uit aan Onze Minister, waarin de taakvervulling van de centrale commissie aan een onderzoek wordt onderworpen en voorstellen kunnen worden gedaan voor gewenste veranderingen. Onze Minister neemt zijn opvattingen over dit rapport op in het verslag, bedoeld in [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en voegt het rapport bij dat verslag.  
 
 ### Paragraaf  7  
 
@@ -461,7 +449,7 @@ Bij algemene maatregel van bestuur kunnen richtlijnen worden vastgesteld ter zak
 
 ### Artikel  30  
 
-De toepassing van deze wet geschiedt met inachtneming van de voor de rijksdienst geldende nationale en internationale voorschriften ter beveiliging van gegevens waarvan geheimhouding door het belang van de Staat of van zijn bondgenoten is geboden.  
+De toepassing van deze wet door de commissies geschiedt met inachtneming van de voor de rijksdienst geldende nationale en internationale voorschriften ter beveiliging van gegevens waarvan geheimhouding door het belang van de Staat of van zijn bondgenoten is geboden.  
 
 ### Artikel  31  
 
@@ -504,7 +492,8 @@ Wijzigt deze wet.
 
 ### Artikel  37  
 
-Onze Minister zendt binnen 4 jaar na de inwerkingtreding van deze wet, en vervolgens telkens na 5 jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van deze wet in de praktijk.  
+1.  Onze Minister zendt binnen 4 jaar na de inwerkingtreding van deze wet, en vervolgens telkens na 5 jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van deze wet in de praktijk.   
+2.  Het verslag, bedoeld in [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), maakt onderdeel uit van het in het eerste lid bedoelde verslag.   
 
 ### Artikel  38  
 

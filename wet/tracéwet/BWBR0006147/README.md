@@ -244,6 +244,12 @@ b. de verwachte toename van de concentraties gedurende het onder a bedoelde jaar
 3.  Onverminderd artikel 15, in samenhang met artikel 11, tweede lid, bevat een tracébesluit dat vastgesteld wordt met toepassing van het eerste lid tevens de maatregelen die onlosmakelijk verbonden zijn met het tracébesluit voor zover die genoemd of beschreven zijn in het ontwerp van het programma, bedoeld in het eerste lid.   
 4.  Het luchtkwaliteitsonderzoek ten behoeve van een tracébesluit voor de aanleg of wijziging van een hoofdweg, bedoeld in artikel 2, eerste lid, onder a en b, wordt beperkt tot het gebied dat zich uitstrekt van de voorafgaande tot en met de eerstvolgende aansluiting op of aan de aan te leggen of te wijzigen weg en ter weerszijden van dit wegvak tot één kilometer vanuit de meest buiten gelegen rijstroken, een en ander voor zover gelegen op Nederlands grondgebied. Onder aansluiting wordt tevens knooppunt verstaan.   
 
+### Artikel  15b  
+
+1.  Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer dan wel Onze Minister is bevoegd om hangende het beroep tegen een tracébesluit, een besluit tot wijziging van dat tracébesluit vast te stellen.   
+2.  Artikel 12, derde lid, is niet van toepassing op het besluit, bedoeld in het eerste lid, indien het een wijziging van ondergeschikte aard betreft. Het wijzigingsbesluit, bedoeld in het eerste lid, wordt vastgesteld uiterlijk tien dagen voor de zitting, die plaatsvindt ten behoeve van de beoordeling van het bestreden besluit.   
+3.  [Artikel 7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op het besluit, bedoeld in het eerste lid.   
+
 ### Artikel  16  
 
 1.  Onze Minister zendt het tracébesluit aan de betrokken bestuursorganen en, indien het tracébesluit betrekking heeft op het tracé van een landelijke spoorweg, aan de beheerder van de spoorweg.   
@@ -340,6 +346,15 @@ De in [artikel 18, eerste lid, van de onteigeningswet](../../../wet/onteigenings
 ### Artikel  25c  
 
 Indien tegen een in artikel 20, tweede lid, bedoeld besluit beroep kan worden ingesteld, kunnen bij dit beroep geen gronden worden aangevoerd die betrekking hebben op een tracébesluit waarop dat besluit rust.  
+
+### Artikel  25d  
+
+1.  Indien de Afdeling bestuursrechtspraak van de Raad van State van oordeel is dat het beroep tegen het tracébesluit gegrond is, kan zij een tussenuitspraak doen, waarbij zij Onze Minister in de gelegenheid stelt om de gebreken weg te nemen.   
+2.  In haar tussenuitspraak stelt de Afdeling vast in welk opzicht het beroep gegrond is. [Afdeling 8.2.6](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van [artikel 8:72, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing. De Afdeling vermeldt een termijn binnen welke de gebreken moeten zijn weggenomen. De Afdeling kan door middel van een wijziging van de tussenuitspraak de termijn op verzoek van Onze Minister verlengen.   
+3.  Indien Onze Minister aangeeft geen gebruik te willen maken van de gelegenheid om de gebreken weg te nemen dan wel de termijn die daarvoor geldt, laat verstrijken, wordt het onderzoek geacht te zijn gesloten op de dag van ontvangst van de mededeling van Onze Minister dan wel op de dag dat de bedoelde termijn is verstreken.   
+4.  Onze Minister stelt de Afdeling schriftelijk in kennis van de wijze waarop de gebreken zijn weggenomen.   
+5.  De Afdeling stelt de andere partijen in de gelegenheid binnen een door haar te stellen termijn schriftelijk te reageren op de kennisgeving, bedoeld in het vierde lid.   
+6.  Indien de Afdeling een onderzoek ter zitting nodig acht, deelt zij dit zo spoedig mogelijk aan partijen mede.   
 
 ### Hoofdstuk  VI  
 

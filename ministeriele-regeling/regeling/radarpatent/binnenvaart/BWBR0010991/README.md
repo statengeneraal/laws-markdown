@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-Het diploma, bedoeld in [artikel 4A.02, eerste lid, onder b, van het Binnenvaartpolitiereglement](../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) en [artikel 19, zesde lid, onder c, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](../../../../../AMvB/scheepvaartreglement/voor/het/kanaal/van/gent/naar/terneuzen/BWBR0005315/README.md), is het radarpatent, bedoeld in [artikel 3.05, eerste lid, van het Patentreglement Rijn](../../../../../KB/patentreglement/rijn/BWBR0023698/README.md), of een krachtens [artikel 5 van het Besluit Patentreglement Rijn](../../../../../AMvB/besluit/patentreglement/rijn/BWBR0023693/README.md) hieraan gelijkgesteld radarpatent.  
+Het diploma, bedoeld in [artikel 4A.02, eerste lid, onder b, van het Binnenvaartpolitiereglement](../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) en [artikel 19, zesde lid, onder c, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](../../../../../AMvB/scheepvaartreglement/voor/het/kanaal/van/gent/naar/terneuzen/BWBR0005315/README.md), is het radarpatent, bedoeld in artikel 6.04, tweede lid, van het Rsp, of een krachtens artikel 6.03, eerste lid, van het Rsp hieraan gelijkgesteld radarpatent.  
 
 ### Artikel  2  
 

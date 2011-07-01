@@ -38,6 +38,8 @@ Hebben goedgevonden en verstaan:
 
 *ondernemer*: degene onder wiens verantwoordelijkheid een handeling of werkzaamheid wordt verricht;  
 
+*Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+
 *de richtlijn vervoer gevaarlijke goederen over land:* richtlijn nr. 2008/68/EG van het Europees Parlement en de Raad van de Europese Unie van 24 september 2008 betreffende het vervoer van gevaarlijke goederen over land (PbEG L 260);  
 
 VBG: Regeling vervoer over de binnenwateren van gevaarlijke stoffen;  
@@ -64,7 +66,7 @@ b. radioactieve stoffen, splijtstoffen of ertsen die binnen een inrichting of ee
 
 c. radioactieve stoffen, splijtstoffen of ertsen, die in het menselijk lichaam of in levende dieren aanwezig zijn;  
 
-d. radioactieve stoffen, splijtstoffen of ertsen in bij ministeriële regeling aangewezen producten bestemd voor gebruik op of in de directe omgeving van personen;  
+d. radioactieve stoffen, splijtstoffen of ertsen in bij regeling van Onze Minister aangewezen producten bestemd voor gebruik op of in de directe omgeving van personen;  
 
 e. natuurlijke bronnen waarmee werkzaamheden worden verricht, indien de activiteitsconcentratie daarvan lager is dan of gelijk is aan tien keer de waarden, vermeld in tabel 2.2.7.7.2.1 van [bijlage 1 bij de VSG](../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md).    
 
@@ -100,7 +102,7 @@ c. de handeling of werkzaamheid waarvoor de vergunning is aangevraagd, behoort t
 
 ### Artikel  1d  
 
-Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kan regels stellen ten aanzien van de beveiliging van het vervoer, de opslag in verband met het vervoer en het binnen of buiten Nederlands grondgebied brengen of doen brengen van de in [artikel 22 van het Besluit kerninstallaties, splijtstoffen en ertsen bedoelde splijtstoffen en ertsen](../../../../../../../../../AMvB/besluit/kerninstallaties/splijtstoffen/en/ertsen/BWBR0002667/README.md) en de in [artikel 20ca van het Besluit stralingsbescherming](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) bedoelde radioactieve stoffen.  
+Onze Minister kan regels stellen ten aanzien van de beveiliging van het vervoer, de opslag in verband met het vervoer en het binnen of buiten Nederlands grondgebied brengen of doen brengen van de in [artikel 22 van het Besluit kerninstallaties, splijtstoffen en ertsen bedoelde splijtstoffen en ertsen](../../../../../../../../../AMvB/besluit/kerninstallaties/splijtstoffen/en/ertsen/BWBR0002667/README.md) en de in [artikel 20ca van het Besluit stralingsbescherming](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) bedoelde radioactieve stoffen.  
 
 ### Hoofdstuk  II  
 
@@ -123,7 +125,7 @@ a. de activiteit van de radionucliden in de betrokken splijtstoffen of ertsen la
 b. de activiteitsconcentratie van die stoffen of ertsen lager is dan de in tabel 2.2.7.7.2.1 bij het [VSG](../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md) vermelde waarde voor de activiteitsconcentratie voor vrijgestelde stoffen.     
 2.  Voor de toepassing van het eerste lid worden bestraalde splijtstoffen beoordeeld naar onbestraalde toestand.   
 3.  Het bij en krachtens [artikel 25, derde, vierde en zevende lid, van het Besluit stralingsbescherming](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) bepaalde is van overeenkomstige toepassing.   
-4.  Bij ministeriële regeling kan worden bepaald dat het eerste lid niet van toepassing is in daarbij aangewezen categorieën van gevallen, waarin sprake is van een te hoog risico van blootstelling van werknemers of leden van de bevolking.   
+4.  Bij regeling van Onze Minister kan worden bepaald dat het eerste lid niet van toepassing is in daarbij aangewezen categorieën van gevallen, waarin sprake is van een te hoog risico van blootstelling van werknemers of leden van de bevolking.   
 
 ### Artikel  3  
 
@@ -145,7 +147,7 @@ g. de hoeveelheid te vervoeren splijtstoffen;
 
 h. in gevallen van colli met het type B(M) of indien de bepalingen voor verpakkingen met splijtstoffen in hoofdstuk 6.4 van [bijlage 1 bij de VSG](../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md) van toepassing zijn: 
 
-1°. een afschrift van certificaten van goedkeuring of erkenning van het model van de te vervoeren colli als bedoeld in 5.1.5.3.1 van [bijlage 1 bij de VSG](../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md), afgegeven door Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Sociale Zaken en Werkgelegenheid dan wel door de bevoegde autoriteit van een ander, met toepassing van het tweede lid aangewezen land,  
+1°. een afschrift van certificaten van goedkeuring of erkenning van het model van de te vervoeren colli als bedoeld in 5.1.5.3.1 van [bijlage 1 bij de VSG](../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md), afgegeven door Onze Minister dan wel door de bevoegde autoriteit van een ander, met toepassing van het tweede lid aangewezen land,  
 
 2°. de gegevens, bedoeld in 6.4.23.2(c) van [bijlage 1 bij de VSG](../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md);    
 
@@ -160,7 +162,7 @@ l. in voorkomend geval een nauwkeurige aanduiding van de plaats of de plaatsen, 
 m. indien een vergunning wordt aangevraagd voor een handeling die overeenkomstig de krachtens artikel 1b, in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), geldende regeling alsgerechtvaardigd is bekendgemaakt, een verwijzing naar die bekendmaking;  
 
 n. een opgave van alle handelingen en werkzaamheden met splijtstoffen, ertsen, radioactieve stoffen en toestellen binnen de locatie die meldingsplichtig of vergunningplichtig zijn krachtens dit besluit, het [Besluit stralingsbescherming](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) of het [Besluit kerninstallaties, splijtstoffen en ertsen](../../../../../../../../../AMvB/besluit/kerninstallaties/splijtstoffen/en/ertsen/BWBR0002667/README.md).     
-2.  Een aanwijzing van landen als bedoeld in het eerste lid, onder h en j, geschiedt bij een door plaatsing in de *Staatscourant* bekend te maken besluit van Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van Economische Zaken en van Sociale Zaken en Werkgelegenheid. Uitsluitend aangewezen kunnen worden landen die naar het oordeel van Onze voornoemde Ministers toepassing geven aan de ter zake door de Internationale Atoomorganisatie gedane aanbevelingen.   
+2.  Een aanwijzing van landen als bedoeld in het eerste lid, onder h en j, geschiedt bij een door plaatsing in de *Staatscourant* bekend te maken besluit van Onze Minister. Uitsluitend aangewezen kunnen worden landen die naar het oordeel van Onze Minister toepassing geven aan de ter zake door de Internationale Atoomorganisatie gedane aanbevelingen.   
 3.  Indien een vergunning wordt aangevraagd voor een handeling die niet of als niet-gerechtvaardigd is bekendgemaakt overeenkomstig de krachtens artikel 1b, in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) geldende regeling, omvat de aanvraag om een vergunning tevens een verzoek om rechtvaardiging van die handeling. De aanvraag om de vergunning bevat dan tevens de gegevens met betrekking tot de economische, sociale en andere voordelen van de betrokken handeling en met betrekking tot de gezondheidsschade die erdoor kan worden toegebracht, die nodig zijn met het oog op de beoordeling van de gerechtvaardigdheid van de handeling.   
 
 ### Artikel  4  
@@ -179,7 +181,7 @@ Met betrekking tot het vervoer van splijtstoffen of ertsen over de spoorweg, ove
 
 ### Artikel  4c  
 
-1.  De ondernemer die een radioactieve stof vervoert, meldt dit vervoer en het voorhanden hebben bij de opslag in verband met dat vervoer ten minste drie weken tevoren aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, onder gelijktijdige toezending van een afschrift aan Onze Minister van Sociale Zaken en Werkgelegenheid en aan een door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aan te wijzen instantie.   
+1.  De ondernemer die een radioactieve stof vervoert, meldt dit vervoer en het voorhanden hebben bij de opslag in verband met dat vervoer ten minste drie weken tevoren aan Onze Minister.   
 2.  De in het eerste lid bedoelde verplichting geldt niet voor het vervoeren of het voorhanden hebben bij de opslag in verband met dat vervoer van een kunstmatige bron of een natuurlijke bron, voorzover deze is of wordt bewerkt met het oog op zijn radioactieve eigenschappen, indien: 
 
 a. de activiteit van de radionucliden in de betrokken radioactieve stof lager is dan de in tabel 2.2.7.7.2.1 van [bijlage 1 bij het VSG](../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md) vermelde grenswaarde voor de activiteit van een vrijgestelde zending,  
@@ -195,7 +197,7 @@ b. de activiteitsconcentratie van de betrokken natuurlijke bron lager is dan tie
 
 c. artikel 5 van toepassing is.     
 4.  Het bij en krachtens [artikel 25, derde, vierde, zevende en achtste lid, van het Besluit stralingsbescherming](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) bepaalde is van overeenkomstige toepassing.   
-5.  De in het eerste lid bedoelde verplichting geldt niet voor bij ministeriële regeling aangewezen handelingen en werkzaamheden, die een beperkt risico van blootstelling van mensen tot gevolg hebben.   
+5.  De in het eerste lid bedoelde verplichting geldt niet voor bij regeling van Onze Minister aangewezen handelingen en werkzaamheden, die een beperkt risico van blootstelling van mensen tot gevolg hebben.   
 
 ### Artikel  4d  
 
@@ -211,8 +213,8 @@ d. de vermoedelijke data waarop het vervoer en het voorhanden hebben bij de opsl
 
 e. indien een melding wordt gedaan voor vervoer en voorhanden hebben bij de opslag in verband met dat vervoer, dat krachtens artikel 1b, in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), als gerechtvaardigd is bekendgemaakt, een verwijzing naar die bekendmaking.     
 2.  Indien een melding wordt gedaan voor vervoer en voorhanden hebben bij de opslag in verband met dat vervoer, dat niet of als niet-gerechtvaardigd is bekendgemaakt overeenkomstig de krachtens artikel 1b, in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) geldende regeling, omvat de melding tevens een verzoek om rechtvaardiging van dat vervoer en het voorhanden hebben bij de opslag in verband met dat vervoer. De melding bevat dan tevens de gegevens met betrekking tot de economische, sociale en andere voordelen van het betrokken vervoer en het voorhanden hebben bij de opslag in verband met dat vervoer en met betrekking tot de gezondheidsschade die erdoor kan worden toegebracht, die nodig zijn met het oog op de beoordeling van de gerechtvaardigdheid van het vervoer en het voorhanden hebben bij de opslag in verband met dat vervoer.   
-3.  De ondernemer meldt wijzigingen van de in het eerste lid genoemde gegevens ten minste drie werkdagen voordat het vervoer en het voorhanden hebben bij de opslag in verband met dat vervoer, waarop zij betrekking hebben, plaatsvindt aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en een door hem aan te wijzen instantie.   
-4.  De ondernemer verstrekt Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Sociale Zaken en Werkgelegenheid op hun verzoek nadere gegevens.   
+3.  De ondernemer meldt wijzigingen van de in het eerste lid genoemde gegevens ten minste drie werkdagen voordat het vervoer en het voorhanden hebben bij de opslag in verband met dat vervoer, waarop zij betrekking hebben, plaatsvindt aan Onze Minister.   
+4.  De ondernemer verstrekt Onze Minister op zijn verzoek nadere gegevens.   
 
 ### Artikel  5  
 
@@ -220,7 +222,7 @@ e. indien een melding wordt gedaan voor vervoer en voorhanden hebben bij de opsl
 
 a. de activiteit van de radioactieve stoffen niet meer bedraagt dan aangegeven in 5.1.5.2.2 van [bijlage 1 bij de VSG](../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md), dan wel  
 
-b. zulks in een door Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Sociale Zaken en Werkgelegenheid afgegeven certificaat van goedkeuring of erkenning van het model van het te vervoeren collo is bepaald.     
+b. zulks in een door Onze Minister afgegeven certificaat van goedkeuring of erkenning van het model van het te vervoeren collo is bepaald.     
 2.  Het in het eerste lid bedoelde verbod geldt eveneens voor radioactieve stoffen, die worden vervoerd: 
 
 a. op grond van een speciale regeling als bedoeld in 1.7.4 van [bijlage 1 bij de VSG](../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md), of  
@@ -235,7 +237,7 @@ a. de gegevens, bedoeld in artikel 3, eerste lid, onder a tot en met g en l tot 
 
 b. in een geval als bedoeld in artikel 5, eerste lid: 
 
-1°. een afschrift van certificaten van goedkeuring of erkenning van het model van de te vervoeren colli als bedoeld in 5.1.5.3.1 van [bijlage 1 bij de VSG](../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md), afgegeven door Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Sociale Zaken en Werkgelegenheid dan wel door de bevoegde autoriteit van een ander, met overeenkomstige toepassing van artikel 3, tweede lid, aangewezen land,  
+1°. een afschrift van certificaten van goedkeuring of erkenning van het model van de te vervoeren colli als bedoeld in 5.1.5.3.1 van [bijlage 1 bij de VSG](../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md), afgegeven door Onze Minister dan wel door de bevoegde autoriteit van een ander, met overeenkomstige toepassing van artikel 3, tweede lid, aangewezen land,  
 
 2°. de gegevens, bedoeld in 6.4.23.2(c) van [bijlage 1 bij de VSG](../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md);    
 
@@ -272,13 +274,13 @@ b. het voorschrift, dat het vervoer dient plaats te vinden langs een daarbij aan
 
 c. het voorschrift, dat bij opslag in verband met het vervoer, onverminderd de bepalingen, welke terzake gelden op grond van andere voorschriften, zodanige maatregelen dienen te worden genomen, dat schade zo veel als redelijkerwijs mogelijk is, wordt voorkomen;  
 
-d. het voorschrift, dat bij opslag in verband met het vervoer moet worden voldaan aan nadere eisen, gesteld door een door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aangewezen instantie.     
+d. het voorschrift, dat bij opslag in verband met het vervoer moet worden voldaan aan door Onze Minister gestelde nadere eisen.     
 
 ### Artikel  8  
 
-1.  Met betrekking tot het vervoeren van splijtstoffen of ertsen over de spoorweg en het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer zijn de bepalingen van de VSG van toepassing. Indien voor het vervoeren van splijtstoffen over de spoorweg of voor het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer ingevolge dit besluit het in [artikel 15, onder a, van de wet](../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) vervatte verbod geldt, kan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aan een vergunning van de VSG afwijkende voorschriften verbinden, voorzover de richtlijn vervoer gevaarlijke goederen over land dat toelaat.   
+1.  Met betrekking tot het vervoeren van splijtstoffen of ertsen over de spoorweg en het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer zijn de bepalingen van de VSG van toepassing. Indien voor het vervoeren van splijtstoffen over de spoorweg of voor het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer ingevolge dit besluit het in [artikel 15, onder a, van de wet](../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) vervatte verbod geldt, kan Onze Minister aan een vergunning van de VSG afwijkende voorschriften verbinden, voorzover de richtlijn vervoer gevaarlijke goederen over land dat toelaat.   
 2.  Bij het voorhanden hebben van splijtstoffen of ertsen bij opslag in verband met het vervoer over de spoorweg dienen, indien daarvoor ingevolge dit besluit het in [artikel 15, onder a, van de wet](../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) vervatte verbod niet geldt, onverminderd de bepalingen, welke terzake gelden ingevolge het eerste lid, eerste volzin, zodanige maatregelen te worden genomen, dat schade, zo veel als redelijkerwijs mogelijk is, wordt voorkomen.   
-3.  Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kan ontheffing verlenen van de in het eerste lid, eerste volzin, bedoelde bepalingen. Een zodanige ontheffing kan onder beperkingen worden verleend. Aan een ontheffing kunnen voorschriften worden verbonden.   
+3.  Onze Minister kan ontheffing verlenen van de in het eerste lid, eerste volzin, bedoelde bepalingen. Een zodanige ontheffing kan onder beperkingen worden verleend. Aan een ontheffing kunnen voorschriften worden verbonden.   
 4.  De bevoegdheid, bedoeld in het derde lid, eerste volzin, kan alleen worden uitgeoefend in de gevallen en onder de voorwaarden, bedoeld in artikel 6, tweede, derde en vijfde lid, van de richtlijn vervoer gevaarlijke goederen over land.   
 
 ### §  2  
@@ -292,8 +294,8 @@ d. het voorschrift, dat bij opslag in verband met het vervoer moet worden voldaa
 
 ### Artikel  10  
 
-1.  Met betrekking tot het vervoeren van radioactieve stoffen over de spoorweg en het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer zijn de bepalingen van de VSG van toepassing. Indien voor het vervoeren van radioactieve stoffen over de spoorweg of voor het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer ingevolge dit besluit het in [artikel 29, eerste lid, van de wet](../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) vervatte verbod geldt, kan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aan een vergunning van de VSG afwijkende voorschriften verbinden, voorzover de richtlijn vervoer gevaarlijke goederen over land dat toelaat.   
-2.  Bij het voorhanden hebben van radioactieve stoffen bij opslag in verband met het vervoer over de spoorweg dienen, onverminderd de bepalingen, welke terzake gelden ingevolge het eerste lid, eerste volzin, zodanige maatregelen te worden genomen, dat schade, zo veel als redelijkerwijs mogelijk is, wordt voorkomen. Daarbij moet worden voldaan aan nadere eisen, gesteld door een door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aangewezen instantie.   
+1.  Met betrekking tot het vervoeren van radioactieve stoffen over de spoorweg en het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer zijn de bepalingen van de VSG van toepassing. Indien voor het vervoeren van radioactieve stoffen over de spoorweg of voor het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer ingevolge dit besluit het in [artikel 29, eerste lid, van de wet](../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) vervatte verbod geldt, kan Onze Minister aan een vergunning van de VSG afwijkende voorschriften verbinden, voorzover de richtlijn vervoer gevaarlijke goederen over land dat toelaat.   
+2.  Bij het voorhanden hebben van radioactieve stoffen bij opslag in verband met het vervoer over de spoorweg dienen, onverminderd de bepalingen, welke terzake gelden ingevolge het eerste lid, eerste volzin, zodanige maatregelen te worden genomen, dat schade, zo veel als redelijkerwijs mogelijk is, wordt voorkomen. Daarbij moet worden voldaan aan door Onze Minister gestelde nadere eisen.   
 3.  Ten aanzien van de in het eerste lid, eerste volzin, bedoelde bepalingen is artikel 8, derde en vierde lid, van overeenkomstige toepassing.   
 
 ### Afdeling  3  
@@ -335,11 +337,11 @@ Het in artikel 15, onder *a*, van de wet vervatte verbod geldt niet voor het ver
 
 a. telkens in plaats van "VSG" wordt gelezen: de International Maritime Dangerous Goods Code, bedoeld in hoofdstuk VII, deel A-1, van het op 1 november 1974 te Londen totstandgekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen;  
 
-b. voor de toepassing van de International Maritime Dangerous Goods Code voor Nederland als bevoegde autoriteit wordt aangemerkt Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  
+b. voor de toepassing van de International Maritime Dangerous Goods Code voor Nederland Onze Minister als bevoegde autoriteit wordt aangemerkt;  
 
 c. in plaats van een ingevolge de International Maritime Dangerous Goods Code voor het model van verpakkingen vereiste goedkeuring door de bevoegde autoriteiten van een of meer daarbij aangewezen landen is vereist een zodanige goedkeuring, welke is verleend: 
 
-1°. hetzij door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
+1°. hetzij door Onze Minister,  
 
 2°. hetzij door de bevoegde autoriteit van een ander land, dat met overeenkomstige toepassing van artikel 3, tweede lid, is aangewezen en dat bij het vervoer betrokken is of waar het model is ontworpen;    
 
@@ -354,7 +356,7 @@ e. voor vervoer als bedoeld in artikel 13 met een schip onder vreemde vlag het b
 
 ### Artikel  15  
 
-Het in artikel 29, eerste lid, van de wet vervatte verbod zonder vergunning van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer radioactieve stoffen te vervoeren geldt, in afwijking van artikel 5, niet voor het vervoeren van radioactieve stoffen over de Nederlandse territoriale zee of over niet-Nederlandse wateren.  
+Het in artikel 29, eerste lid, van de wet vervatte verbod zonder vergunning van Onze Minister radioactieve stoffen te vervoeren geldt, in afwijking van artikel 5, niet voor het vervoeren van radioactieve stoffen over de Nederlandse territoriale zee of over niet-Nederlandse wateren.  
 
 ### Artikel  16  
 
@@ -362,11 +364,11 @@ Het in artikel 29, eerste lid, van de wet vervatte verbod zonder vergunning van 
 
 a. in artikel 10, eerste lid, in plaats van "VSG" wordt gelezen: de International Maritime Dangerous Goods Code, bedoeld in hoofdstuk VII, deel A-1, van het op 1 november 1974 te Londen totstandgekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 158) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen;  
 
-b. voor de toepassing van de International Maritime Dangerous Goods Code voor Nederland als bevoegde autoriteit wordt aangemerkt Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  
+b. voor de toepassing van de International Maritime Dangerous Goods Code voor Nederland Onze Minister als bevoegde autoriteit wordt aangemerkt;  
 
 c. in plaats van een ingevolge de International Maritime Dangerous Goods Code voor het model van verpakkingen vereiste goedkeuring door de bevoegde autoriteiten van een of meer daarbij aangewezen landen is vereist een zodanige goedkeuring, welke is verleend: 
 
-1°. hetzij door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
+1°. hetzij door Onze Minister,  
 
 2°. hetzij door de bevoegde autoriteit van een ander land, dat met overeenkomstige toepassing van artikel 3, tweede lid, is aangewezen en dat bij het vervoer betrokken is of waar het model is ontworpen;    
 
@@ -392,7 +394,7 @@ Het in artikel 15, onder *a*, van de wet vervatte verbod geldt niet voor het ver
 1.  Aan een vergunning voor het vervoeren van splijtstoffen in een luchtvaartuig of voor het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer worden ter voorkoming van schade voorschriften verbonden als bedoeld in artikel 7, eerste lid.   
 2.  Tot de in het eerste lid bedoelde voorschriften kunnen behoren: 
 
-a. het voorschrift dat bijlage 18 (annex 18) van het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de internationale burgerlijke luchtvaart (*Stb.* 1947, H 165) en de daarbij behorende technische voorschriften (Technical Instructions for the safe transport of dangerous goods by air), in acht dienen te worden genomen, met dien verstande dat voor de toepassing van die regels voor Nederland als bevoegde autoriteit wordt aangemerkt Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  
+a. het voorschrift dat bijlage 18 (annex 18) van het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de internationale burgerlijke luchtvaart (*Stb.* 1947, H 165) en de daarbij behorende technische voorschriften (Technical Instructions for the safe transport of dangerous goods by air), in acht dienen te worden genomen, met dien verstande dat voor de toepassing van die regels voor Nederland Onze Minister als bevoegde autoriteit wordt aangemerkt;  
 
 b. voorschriften als bedoeld in artikel 7, tweede lid, onder c en d.     
 
@@ -400,7 +402,7 @@ b. voorschriften als bedoeld in artikel 7, tweede lid, onder c en d.
 
 1.  Bij het vervoeren van splijtstoffen of ertsen in een luchtvaartuig en bij het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer dienen, indien daarvoor ingevolge dit besluit het in [artikel 15, onder a, van de wet](../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) vervatte verbod niet geldt, bijlage 18 (annex 18) van het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de internationale burgerlijke luchtvaart (*Stb.* 1947, H 165) en de daarbij behorende technische voorschriften (Technical Instructions for the safe transport of dangerous goods by air) in acht te worden genomen, met dien verstande dat: 
 
-a. voor de toepassing van die regels voor Nederland als bevoegde autoriteit wordt aangemerkt Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  
+a. voor de toepassing van die regels voor Nederland Onze Minister als bevoegde autoriteit wordt aangemerkt;  
 
 b. voor het vervoer als bedoeld in artikel 17 in een Nederlands luchtvaartuig het bepaalde met betrekking tot de goedkeuring van een zending door de voor Nederland bevoegde autoriteit niet geldt;  
 
@@ -413,7 +415,7 @@ c. voor vervoer als bedoeld in artikel 17 in een niet-Nederlands luchtvaartuig h
 
 ### Artikel  20  
 
-Het in artikel 29, eerste lid, van de wet vervatte verbod zonder vergunning van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer radioactieve stoffen te vervoeren geldt, in afwijking van artikel 5, niet voor het vervoeren van radioactieve stoffen in een luchtvaartuig, waarbij geen landing op Nederlands grondgebied plaatsvindt.  
+Het in artikel 29, eerste lid, van de wet vervatte verbod zonder vergunning van Onze Minister radioactieve stoffen te vervoeren geldt, in afwijking van artikel 5, niet voor het vervoeren van radioactieve stoffen in een luchtvaartuig, waarbij geen landing op Nederlands grondgebied plaatsvindt.  
 
 ### Artikel  21  
 
@@ -423,7 +425,7 @@ Aan een vergunning voor het vervoeren van radioactieve stoffen in een luchtvaart
 
 1.  Bij het vervoeren van radioactieve stoffen in een luchtvaartuig en bij het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer dienen bijlage 18 (annex 18) van het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de burgerlijke luchtvaart (*Stb.* 1947, H 165) en de daarbij behorende technische voorschriften (Technical Instructions for the safe transport of dangerous goods by air) in acht te worden genomen, met dien verstande dat: 
 
-a. voor de toepassing van die regels voor Nederland als bevoegde autoriteit wordt aangemerkt Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  
+a. voor de toepassing van die regels voor Nederland Onze Minister als bevoegde autoriteit wordt aangemerkt;  
 
 b. voor vervoer als bedoeld in artikel 20 in een Nederlands luchtvaartuig het bepaalde met betrekking tot de goedkeuring van een zending door de voor Nederland bevoegde autoriteit niet geldt;  
 
@@ -447,7 +449,7 @@ a. de activiteit van de radionucliden in de betrokken splijtstoffen en ertsen la
 b. de activiteitsconcentratie van die stoffen en ertsen lager is dan de in tabel 2.2.7.7.2.1 van [bijlage 1 bij het VSG](../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md) vermelde waarde voor de activiteitsconcentratie voor vrijgestelde stoffen.     
 2.  Voor de toepassing van het eerste lid worden bestraalde splijtstoffen beoordeeld naar onbestraalde toestand.   
 3.  Het bij en krachtens [artikel 25, derde, vierde en zevende lid, van het Besluit stralingsbescherming](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) bepaalde is van overeenkomstige toepassing.   
-4.  Bij ministeriële regeling kan worden bepaald dat het eerste lid niet van toepassing is in daarbij aangewezen categorieën van gevallen, waarin sprake is van een te hoog risico van blootstelling van werknemers of leden van de bevolking.   
+4.  Bij regeling van Onze Minister kan worden bepaald dat het eerste lid niet van toepassing is in daarbij aangewezen categorieën van gevallen, waarin sprake is van een te hoog risico van blootstelling van werknemers of leden van de bevolking.   
 
 ### Artikel  24  
 
@@ -502,7 +504,7 @@ d. het voorschrift, dat de houder van de vergunning er voor dient zorg te dragen
 
 ### Artikel  27  
 
-1.  Het in [artikel 29, eerste lid, van de wet](../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) vervatte verbod zonder vergunning van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer radioactieve stoffen binnen of buiten Nederlands grondgebied te brengen of te doen brengen geldt voor: 
+1.  Het in [artikel 29, eerste lid, van de wet](../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) vervatte verbod zonder vergunning van Onze Minister radioactieve stoffen binnen of buiten Nederlands grondgebied te brengen of te doen brengen geldt voor: 
 
 a. geneesmiddelen en  
 
@@ -518,7 +520,7 @@ a. de activiteit van de radionucliden in de betrokken natuurlijke bron lager is 
 
 b. de activiteitsconcentratie van de betrokken natuurlijke bron lager is dan tienmaal de in tabel 2.2.7.7.2.1 van [bijlage 1 bij het VSG](../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md) vermelde waarde voor de activiteitsconcentratie voor vrijgestelde stoffen.     
 4.  Het bij en krachtens [artikel 25, derde, vierde, zevende en achtste lid, van het Besluit stralingsbescherming](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) bepaalde is van overeenkomstige toepassing.   
-5.  Het in het eerste lid bedoelde verbod geldt niet voor bij ministeriële regeling aangewezen handelingen en werkzaamheden die een beperkt risico van blootstelling van mensen tot gevolg hebben.   
+5.  Het in het eerste lid bedoelde verbod geldt niet voor bij regeling van Onze Minister aangewezen handelingen en werkzaamheden die een beperkt risico van blootstelling van mensen tot gevolg hebben.   
 
 ### Artikel  28  
 
@@ -543,7 +545,7 @@ d. een omschrijving van de geneesmiddelen of gebruiksartikelen, waarin de radioa
 
 a. een radioactieve stof binnen Nederlands grondgebied brengt of doet brengen vanuit een land buiten de Europese Unie of een radioactieve stof vanaf Nederlands grondgebied buiten het grondgebied van de Europese Unie brengt of doet brengen, of  
 
-b. een open bron vanaf Nederlands grondgebied naar het grondgebied van een andere lidstaat van de Europese Unie brengt of doet brengen,   meldt dit tenminste drie weken voordat die handeling of werkzaamheid plaatsvindt, aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, onder gelijktijdige toezending van een afschrift aan Onze Minister van Sociale Zaken en Werkgelegenheid en aan een door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aan te wijzen instantie.   
+b. een open bron vanaf Nederlands grondgebied naar het grondgebied van een andere lidstaat van de Europese Unie brengt of doet brengen,   meldt dit tenminste drie weken voordat die handeling of werkzaamheid plaatsvindt, aan Onze Minister.   
 2.  De in het eerste lid bedoelde verplichting geldt niet voor een kunstmatige bron of een natuurlijke bron, voorzover deze is of wordt bewerkt met het oog op zijn radioactieve eigenschappen, indien: 
 
 a. de activiteit van de radionucliden in de betrokken radioactieve stof lager is dan de in tabel 2.2.7.7.2.1 van [bijlage 1 bij het VSG](../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md) vermelde grenswaarde voor de activiteit van een vrijgestelde zending, of  
@@ -557,7 +559,7 @@ b. de activiteitsconcentratie van de betrokken natuurlijke bron lager is dan tie
 4.  Het bij en krachtens [artikel 25, derde, vierde, zevende en achtste lid, van het Besluit stralingsbescherming](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) bepaalde is van overeenkomstige toepassing.   
 5.  De in het eerste lid bedoelde verplichting geldt niet: 
 
-a. voor bij ministeriële regeling aangewezen handelingen en werkzaamheden die een beperkt risico van blootstelling van mensen tot gevolg hebben, of  
+a. voor bij regeling van Onze Minister aangewezen handelingen en werkzaamheden die een beperkt risico van blootstelling van mensen tot gevolg hebben, of  
 
 b. indien artikel 27, eerste lid, van toepassing is.     
 
@@ -577,7 +579,7 @@ e. de vermoedelijke data waarop de handelingen en werkzaamheden plaatsvinden;
 
 f. indien een melding wordt gedaan voor een handeling of werkzaamheid die overeenkomstig de krachtens artikel 1b, in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), geldende regeling als gerechtvaardigd is bekendgemaakt, een verwijzing naar die bekendmaking.     
 2.  Indien een melding wordt gedaan voor een handeling of werkzaamheid die niet of als niet-gerechtvaardigd is bekendgemaakt overeenkomstig de krachtens artikel 1b, in samenhang met [artikel 4, tweede lid, van het Besluit stralingsbescherming](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) geldende regeling, omvat de melding tevens een verzoek om rechtvaardiging van die handeling of werkzaamheid. De melding bevat dan tevens de gegevens met betrekking tot de economische, sociale en andere voordelen van de betrokken handeling of werkzaamheid en met betrekking tot de gezondheidsschade die erdoor kan worden toegebracht, die nodig zijn met het oog op de beoordeling van de gerechtvaardigdheid van de handeling of werkzaamheid.   
-3.  Degene die de melding heeft gedaan, meldt wijzigingen van de in heteerste lid genoemde gegevens ten minste drie werkdagen voordat de handelingen of werkzaamheden plaatsvinden, waarop ze betrekking hebben, aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en een door hem aan te wijzen instantie.   
+3.  Degene die de melding heeft gedaan, meldt wijzigingen van de in heteerste lid genoemde gegevens ten minste drie werkdagen voordat de handelingen of werkzaamheden plaatsvinden, waarop ze betrekking hebben, aan Onze Minister.   
 
 ### Hoofdstuk  IV  
 

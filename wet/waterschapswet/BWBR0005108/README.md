@@ -23,6 +23,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  Waterschappen zijn openbare lichamen welke de waterstaatkundige verzorging van een bepaald gebied ten doel hebben.   
 2.  De taken die tot dat doel aan waterschappen zijn of worden opgedragen betreffen de zorg voor het watersysteem en de zorg voor het zuiveren van afvalwater op de voet van [artikel 3.4 van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md). Daarnaast kan de zorg voor een of meer andere waterstaatsaangelegenheden zijn of worden opgedragen.   
+3.  De zorg voor het watersysteem, bedoeld in het tweede lid, omvat mede het voorkomen van schade aan waterstaatswerken veroorzaakt door muskus- en beverratten, bedoeld in [artikel 3.2A van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md).   
 
 ### Artikel  2  
 
@@ -1101,7 +1102,7 @@ c. natuurterreinen: ongebouwde onroerende zaken waarvan de inrichting en het beh
 
 ### Artikel  117  
 
-Ter bestrijding van kosten die zijn verbonden aan de zorg voor het watersysteem wordt onder de naam watersysteemheffing een heffing geheven van hen die: 
+1.  Ter bestrijding van kosten die zijn verbonden aan de zorg voor het watersysteem wordt onder de naam watersysteemheffing een heffing geheven van hen die: 
 
 a. ingezetenen zijn;  
 
@@ -1109,7 +1110,8 @@ b. krachtens eigendom, bezit of beperkt recht het genot hebben van ongebouwde on
 
 c. krachtens eigendom, bezit of beperkt recht het genot hebben van natuurterreinen;  
 
-d. krachtens eigendom, bezit of beperkt recht het genot hebben van gebouwde onroerende zaken.    
+d. krachtens eigendom, bezit of beperkt recht het genot hebben van gebouwde onroerende zaken.     
+2.  Uit de opbrengsten van de watersysteemheffing worden tevens de op grond van [artikel 7.24 van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md) verschuldigde bijdragen bekostigd.   
 
 ### Artikel  118  
 
@@ -1524,7 +1526,7 @@ Voor de toepassing van [artikel 66 van de Invorderingswet 1990](../../../wet/inv
 1.  De in [artikel 26 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) bedoelde kwijtschelding wordt met betrekking tot waterschapsbelastingen verleend door de in artikel 123, derde lid, onderdeel c, bedoelde ambtenaar van het waterschap.   
 2.  Met betrekking tot het verlenen van gehele of gedeeltelijke kwijtschelding zijn de krachtens [artikel 26 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) door Onze Minister van Financiën bij ministeriële regeling gestelde regels van toepassing.   
 3.  Het algemeen bestuur kan bepalen dat, in afwijking van de in het tweede lid bedoelde regels, in het geheel geen dan wel gedeeltelijk kwijtschelding wordt verleend.   
-4.  Met inachtneming van door Onze Minister van Verkeer en Waterstaat, in overeenstemming met Onze Minister van Financiën, te stellen regels kan het algemeen bestuur met betrekking tot de wijze waarop de kosten van bestaan in aanmerking worden genomen afwijkende regels stellen die er toe leiden dat in ruimere mate kwijtschelding wordt verleend.   
+4.  Met inachtneming van door Onze Minister van Verkeer en Waterstaat, in overeenstemming met Onze Minister van Financiën, te stellen regels kan het algemeen bestuur met betrekking tot de wijze waarop de kosten van bestaan en de wijze waarop het vermogen in aanmerking worden genomen afwijkende regels stellen die er toe leiden dat in ruimere mate kwijtschelding wordt verleend.   
 5.  Het dagelijks bestuur kan de belasting geheel of gedeeltelijk oninbaar verklaren. Het daartoe strekkende besluit ontheft de ambtenaar van het waterschap, belast met de invordering van waterschapsbelastingen van de verplichting verdere pogingen tot invordering te doen.   
 
 ### Artikel  145  

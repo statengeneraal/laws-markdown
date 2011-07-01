@@ -3,7 +3,7 @@
 ##Regeling Commissie regionaal overleg luchthaven Schiphol
 
 De Staatssecretaris van Verkeer en Waterstaat,  
-Gelet op [artikel 8.36 van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md);
+Gelet op artikel 8.36 van de Wet luchtvaart;
 Besluit:    
 
 ### Artikel  1  
@@ -14,11 +14,11 @@ a. minister: Minister van Verkeer en Waterstaat;
 
 b. commissie: Commissie regionaal overleg luchthaven Schiphol;  
 
-c. wet: [Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md).    
+c. wet: Wet luchtvaart.    
 
 ### Artikel  2  
 
-De commissie heeft, in het kader van, respectievelijk naast, de in [artikel 8.35 van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) bedoelde taak, tevens tot taak: 
+De commissie heeft, in het kader van, respectievelijk naast, de in artikel 8.35 van de wet bedoelde taak, tevens tot taak: 
 
 a. erop toe te zien dat aan de belangen van de organen en organisaties die in de commissie zijn vertegenwoordigd, zo veel mogelijk recht wordt gedaan, met inachtneming van de bij of krachtens de wet gestelde voorschriften,  
 
@@ -28,30 +28,30 @@ b. onverminderd artikel 6, de minister desgevraagd te informeren over haar werkz
 
 1.  In de commissie worden, naast de onafhankelijke voorzitter, de volgende aantallen leden benoemd: 
 
-a. voor iedere provincie, genoemd in [artikel 8.34, tweede lid, onderdeel a, van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), één vertegenwoordiger,  
+a. voor iedere provincie, genoemd in artikel 8.34, tweede lid, onderdeel a, van de wet, één vertegenwoordiger,  
 
 b. voor ieder cluster van gemeenten, bedoeld in artikel 4, ten minste één en ten hoogste twee vertegenwoordigers; indien twee vertegenwoordigers worden benoemd, betreft het een bestuurder van een van de gemeenten en een inwoner van een van de gemeenten die niet tevens bestuurder van die gemeente is,  
 
-c. voor de exploitant van de luchthaven, bedoeld in [artikel 8.34, tweede lid, onderdeel c, van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), ten minste één en ten hoogste twee vertegenwoordigers,  
+c. voor de exploitant van de luchthaven, bedoeld in artikel 8.34, tweede lid, onderdeel c, van de wet, ten minste één en ten hoogste twee vertegenwoordigers,  
 
-d. voor de verlener van luchtverkeersdienstverlening, bedoeld in [artikel 8.34, tweede lid, onderdeel d, van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), ten minste één en ten hoogste twee vertegenwoordigers, en  
+d. voor de verlener van luchtverkeersdienstverlening, bedoeld in artikel 8.34, tweede lid, onderdeel d, van de wet, ten minste één en ten hoogste twee vertegenwoordigers, en  
 
 e. voor de luchtvaartmaatschappijen, genoemd en bedoeld in artikel 5, ten hoogste drie vertegenwoordigers.     
 2.  Bij beëindiging of verlies van de hoedanigheid op grond waarvan de benoeming heeft plaatsgevonden, wordt ontslag verleend.   
 
 ### Artikel  4  
 
-In de commissie worden gemeenten als bedoeld in [artikel 8.34, tweede lid, onderdeel b, van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), vertegenwoordigd door een of meer gemeenten waarvan het grondgebied geheel of gedeeltelijk ligt binnen het luchthavengebied of het beperkingengebied, bedoeld in [artikel 8.5 van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en in het [Luchthavenindelingbesluit Schiphol](../../../../AMvB/luchthavenindelingbesluit/schiphol/BWBR0014329/README.md). In het bestuursreglement van de commissie stelt zij een indeling in clusters vast van de in de eerste volzin bedoelde gemeenten.  
+In de commissie worden gemeenten als bedoeld in artikel 8.34, tweede lid, onderdeel b, van de wet, vertegenwoordigd door een of meer gemeenten waarvan het grondgebied geheel of gedeeltelijk ligt binnen het luchthavengebied of het beperkingengebied, bedoeld in artikel 8.5 van de wet en in het Luchthavenindelingbesluit Schiphol. In het bestuursreglement van de commissie stelt zij een indeling in clusters vast van de in de eerste volzin bedoelde gemeenten. De commissie kan op voorstel van een cluster afwijken van de eerste volzin, mits alle gemeenten van dat cluster hiermee instemmen.  
 
 ### Artikel  5  
 
-De in de commissie vertegenwoordigde luchtvaartmaatschappijen, bedoeld in [artikel 8.34, tweede lid, onderdeel e, van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), zijn: 
+In de commissie worden de luchtvaartmaatschappijen, bedoeld in artikel 8.34, tweede lid, onderdeel e, van de wet, vertegenwoordigd door ten hoogste drie personen afkomstig uit de volgende categorieën: 
 
-a. met ten hoogste één vertegenwoordiger: luchtvaartmaatschappijen waarvoor de luchthaven Schiphol als thuisbasis fungeert, zijnde Koninklijke Luchtvaart Maatschappij NV, Martinair Holland NV en Transavia Airlines CV,  
+a. luchtvaartmaatschappijen waarvoor de luchthaven Schiphol als thuisbasis fungeert, zijnde Koninklijke Luchtvaart Maatschappij NV, Martinair Holland NV en Transavia Airlines CV;  
 
-b. met ten hoogste één vertegenwoordiger: andere luchtvaartmaatschappijen die geregeld van de luchthaven Schiphol gebruik maken, en  
+b. andere luchtvaartmaatschappijen die geregeld van de luchthaven Schiphol gebruik maken, of  
 
-c. met ten hoogste één vertegenwoordiger: luchtvaartmaatschappijen die lid zijn van en vertegenwoordigd worden door de Board of Airline Representatives in the Netherlands (Barin).    
+c. luchtvaartmaatschappijen die lid zijn van en vertegenwoordigd worden door de Board of Airline Representatives in the Netherlands (Barin).    
 
 ### Artikel  6  
 

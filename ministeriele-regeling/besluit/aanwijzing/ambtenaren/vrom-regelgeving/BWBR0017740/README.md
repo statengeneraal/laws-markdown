@@ -13,11 +13,11 @@ Besluit:
 1.  Deze regeling vindt mede haar grondslag in de [Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en de [Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
 2.  De directeur-inspecteur van het Inspectoraat-Generaal VROM in de betrokken regio wordt aangewezen als inspecteur in de zin van: 
 
+– de [Drinkwaterwet](../../../../../../wet/drinkwaterwet/BWBR0026338/README.md);  
+
 – de [Interimwet stad-en-milieubenadering](../../../../../../wet/interimwet/stad-en-milieubenadering/BWBR0019466/README.md);  
 
 – het [Vuurwerkbesluit](../../../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md);  
-
-– de [Waterleidingwet](../../../../../../wet/waterleidingwet/BWBR0002246/README.md);  
 
 – de [Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
 
@@ -48,7 +48,7 @@ Besluit:
 
 ### Artikel  3  
 
-De inspecteur-generaal, de hoofddirecteur Uitvoering en de directeuren-inspecteur van het Inspectoraat-Generaal VROM en de door hen daartoe aangewezen, onder hun bevelen werkzame ambtenaren worden aangewezen als ambtenaren ten aanzien van wie, in geval van levering van leidingwater door een collectieve watervoorziening of een collectief leidingnet, het ten aanzien van de inspecteur in de [artikelen 5, eerste en tweede lid](../../../../../../wet/waterleidingwet/BWBR0002246/README.md), [6](../../../../../../wet/waterleidingwet/BWBR0002246/README.md), [7](../../../../../../wet/waterleidingwet/BWBR0002246/README.md), [8](../../../../../../wet/waterleidingwet/BWBR0002246/README.md) en [14 van de Waterleidingwet](../../../../../../wet/waterleidingwet/BWBR0002246/README.md) bepaalde van toepassing is, met uitzondering van de gevallen bedoeld in artikel 12.  
+De inspecteur-generaal, de hoofddirecteur Uitvoering en de directeuren-inspecteur van het Inspectoraat-Generaal VROM en de door hen daartoe aangewezen, onder hun bevelen werkzame ambtenaren worden aangewezen als ambtenaren ten aanzien van wie, in geval van levering van leidingwater door een collectieve watervoorziening of een collectief leidingnet, het ten aanzien van de inspecteur in de [artikelen 35, tweede tot en met vierde lid](../../../../../../wet/drinkwaterwet/BWBR0026338/README.md), [36](../../../../../../wet/drinkwaterwet/BWBR0026338/README.md), [37, derde lid](../../../../../../wet/drinkwaterwet/BWBR0026338/README.md), [49](../../../../../../wet/drinkwaterwet/BWBR0026338/README.md), [51](../../../../../../wet/drinkwaterwet/BWBR0026338/README.md) en [52 van de Drinkwaterwet](../../../../../../wet/drinkwaterwet/BWBR0026338/README.md) bepaalde van toepassing is, met uitzondering van de gevallen bedoeld in artikel 12.  
 
 ### Artikel  5  
 
@@ -90,9 +90,9 @@ De inspecteur-generaal, de hoofddirecteur Uitvoering en de directeuren-inspecteu
 
 De inspecteur-generaal, de hoofddirecteur Uitvoering en de directeuren-inspecteur van het Inspectoraat-Generaal VROM en de onder hun bevelen werkzame ambtenaren, met uitzondering van hen die meer in het bijzonder administratieve werkzaamheden uitoefenen, zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens: 
 
-– de [Huisvestingswet](../../../../../../wet/huisvestingswet/BWBR0005674/README.md);  
+– de [Drinkwaterwet](../../../../../../wet/drinkwaterwet/BWBR0026338/README.md);  
 
-– [hoofdstuk II](../../../../../../wet/waterleidingwet/BWBR0002246/README.md) en [de tweede afdeling van hoofdstuk IV van de Waterleidingwet](../../../../../../wet/waterleidingwet/BWBR0002246/README.md);  
+– de [Huisvestingswet](../../../../../../wet/huisvestingswet/BWBR0005674/README.md);  
 
 – de [Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
 
@@ -134,7 +134,7 @@ De inspecteur-generaal, de hoofddirecteur Uitvoering en de directeuren-inspecteu
 
 ### Artikel  8a  
 
-De ambtenaren werkzaam bij de afdeling Toezicht en handhaving van de Nederlandse emissieautoriteit in oprichting, zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens [hoofdstuk 16 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
+De ambtenaren werkzaam bij de afdeling Toezicht en handhaving van de Nederlandse emissieautoriteit in oprichting, zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 9.2.2.1, eerste lid, voor zover dat betrekking heeft op het aan een ander ter beschikking stellen van brandstoffen ten behoeve van vervoer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [9.2.2.6a](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [9.2.3.4, derde lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [titel 12.4](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [hoofdstuk 16 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
 
 ### Artikel  9  
 
@@ -172,7 +172,7 @@ In afwijking van de artikelen 7 en 12 tot en met 18 en [artikel 5.10, derde lid,
 
 ### Artikel  12  
 
-De inspecteur-generaal der mijnen en de inspecteurs van het Staatstoezicht op de Mijnen worden aangewezen als ambtenaren ten aanzien van wie, in geval van levering van leidingwater door collectieve watervoorzieningen die aanwezig zijn op een mijnbouwinstallatie, aangewezen krachtens de [Mijnbouwwet](../../../../../../wet/mijnbouwwet/BWBR0014168/README.md), het ten aanzien van de inspecteur in de [artikelen 5, eerste en tweede lid](../../../../../../wet/waterleidingwet/BWBR0002246/README.md), [6](../../../../../../wet/waterleidingwet/BWBR0002246/README.md), [7](../../../../../../wet/waterleidingwet/BWBR0002246/README.md), [8](../../../../../../wet/waterleidingwet/BWBR0002246/README.md) en [14 van de Waterleidingwet](../../../../../../wet/waterleidingwet/BWBR0002246/README.md) bepaalde van toepassing is.  
+De inspecteur-generaal der mijnen en de inspecteurs van het Staatstoezicht op de Mijnen worden aangewezen als ambtenaren ten aanzien van wie, in geval van levering van leidingwater door collectieve watervoorzieningen die aanwezig zijn op een mijnbouwinstallatie, aangewezen krachtens de [Mijnbouwwet](../../../../../../wet/mijnbouwwet/BWBR0014168/README.md), het ten aanzien van de inspecteur in de [artikelen 35, tweede tot en met vierde lid](../../../../../../wet/drinkwaterwet/BWBR0026338/README.md), [36](../../../../../../wet/drinkwaterwet/BWBR0026338/README.md), [37, derde lid](../../../../../../wet/drinkwaterwet/BWBR0026338/README.md), [49](../../../../../../wet/drinkwaterwet/BWBR0026338/README.md), [51](../../../../../../wet/drinkwaterwet/BWBR0026338/README.md) en [52 van de Drinkwaterwet](../../../../../../wet/drinkwaterwet/BWBR0026338/README.md) bepaalde van toepassing is.  
 
 ### Artikel  13  
 
@@ -258,7 +258,7 @@ De directeur-generaal van Rijkswaterstaat en de door hem daartoe aangewezen onde
 
 ### Artikel  18  
 
-De hoofdinspecteurs van de Voedsel en Waren Autoriteit en de controle-ambtenaren van de Voedsel en Waren Autoriteit zijn mede belast met het toezicht op de naleving van het bepaalde bij of krachtens: 
+De hoofdinspecteurs van de Voedsel en Waren Autoriteit en de controleambtenaren van de Voedsel en Waren Autoriteit zijn mede belast met het toezicht op de naleving van het bepaalde bij of krachtens: 
 
 – de [titels 9.2 tot en met 9.4 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
 

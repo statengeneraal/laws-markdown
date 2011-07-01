@@ -3766,7 +3766,10 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 
 ### Bijlage  11.2  
 
-Ligt ter inzage bij SenterNovem te Den Haag.  
+####, behorende bij artikel 11.1, onderdeel b .
+
+![249002](http://wetten.overheid.nl/Illustration/249002)
+![249002](http://wetten.overheid.nl/Illustration/249002)
 
 ### Bijlage  11.3  
 

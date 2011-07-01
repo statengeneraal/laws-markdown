@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 28 december 2001, nr. MJZ2001144238, gedaan mede namens Onze Minister van Economische Zaken en de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J. F. Hoogervorst;
 
-Gelet op de [artikelen 21, eerste lid](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md), en [32, eerste lid, van de Kernenergiewet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md);
+Gelet op de artikelen 21, eerste lid, en 32, eerste lid, van de Kernenergiewet;
 
 De Raad van State gehoord (advies van 18 april 2002, nr. W08.02.0014/V);
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *detectieapparatuur*: apparatuur, die ioniserende straling meet; *inrichting*: inrichting als aangewezen in het [Besluit omgevingsrecht](../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md); *omzet:* hoeveelheid schroot die binnen de inrichting wordt gebracht; *Onze Minister*: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer; *radioactief besmet schroot*: schroot voor het voorhanden hebben waarvan een vergunning vereist is ingevolge de artikelen [15](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) of  [29 van de Kernenergiewet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md), dan wel het krachtens [artikel 34 van die wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) bepaalde, of waarvan het voorhanden hebben gemeld moet worden ingevolge het bepaalde krachtens de artikelen [21](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md), [32](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) of  [34 van die wet](../../../../../../../wet/kernenergiewet/BWBR0002402/README.md).  
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *detectieapparatuur*: apparatuur, die ioniserende straling meet; *inrichting*: inrichting als aangewezen in het Besluit omgevingsrecht; *omzet:* hoeveelheid schroot die binnen de inrichting wordt gebracht; *Onze Minister*: Onze Minister van Economische Zaken, Landbouw en Innovatie; *radioactief besmet schroot*: schroot voor het voorhanden hebben waarvan een vergunning vereist is ingevolge de artikelen 15 of  29 van de Kernenergiewet, dan wel het krachtens artikel 34 van die wet bepaalde, of waarvan het voorhanden hebben gemeld moet worden ingevolge het bepaalde krachtens de artikelen 21, 32 of  34 van die wet.  
 
 ### Artikel  2  
 
@@ -45,7 +45,7 @@ Degene die de inrichting drijft, meet onverwijld de ioniserende straling van het
 ### Artikel  5  
 
 1.  Degene die de inrichting drijft, houdt een register bij van de metingen, bedoeld in artikel 3.   
-2.  Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regels stellen met betrekking tot de te registreren gegevens, de wijze waarop de resultaten van de metingen worden geregistreerd en de periode gedurende welke de gegevens bewaard worden.   
+2.  Onze Minister kan regels stellen met betrekking tot de te registreren gegevens, de wijze waarop de resultaten van de metingen worden geregistreerd en de periode gedurende welke de gegevens bewaard worden.   
 
 ### Artikel  6  
 

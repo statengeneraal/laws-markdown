@@ -23,7 +23,7 @@ Deze regeling geeft uitvoering aan [artikel 32 van de Wet op de loonbelasting 19
 
 ### Artikel  14  
 
-1.  Het spaarloon mag in ieder kalenderjaar waarin de werknemer overeenkomstig de spaarloonregeling heeft gespaard, niet meer bedragen dan het in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) vermelde bedrag.   
+1.  Het spaarloon mag in ieder kalenderjaar waarin de werknemer overeenkomstig de spaarloonregeling heeft gespaard, niet meer bedragen dan het in [artikel 31, eerste lid, onderdeel e, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) vermelde bedrag.   
 2.  Deelname aan een spaarloonregeling mag slechts open staan voor werknemers die tot de werkgever in dienstbetrekking staan of geacht worden te staan.   
 
 ### Artikel  15  
@@ -117,7 +117,7 @@ a. ter zake van de kosten van het volgen van een opleiding of studie door de wer
 
 1°. die verband houden met een werk of studeerruimte, daaronder begrepen de inrichting;  
 
-2°. van binnenlandse reizen voorzover die meer bedragen dan het bedrag per kilometer, bedoeld in [artikel 15b, eerste lid, onderdeel a, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);    
+2°. van binnenlandse reizen voor zover de kosten meer bedragen dan het bedrag dat wordt bepaald met overeenkomstige toepassing van [artikel 31a, tweede lid, onderdeel a, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);    
 
 b. ter zake van cursussen, congressen, seminars, symposia, excursies, studiereizen en dergelijke gevolgd door de werknemer ter behoorlijke vervulling van de dienstbetrekking;  
 

@@ -655,13 +655,6 @@ c. de [Regeling vrijstelling verplichtingen WW en Wet WIA](../../../../../../min
 
 d. de [Vakantieregeling WW](../../../../../../ministeriele-regeling/vakantieregeling/ww/BWBR0016004/README.md): artikel 6, zesde lid.     
 
-### Artikel  48a  
-
-####Overgangsbepaling in verband met artikel 6, eerste lid, onderdeel d 
-
-1.  Ten aanzien van de persoon wiens recht op uitkering voorafgaand aan de dag van inwerkingtreding van [artikel XI, onderdeel Ba, van de Verzamelwet SZW 2011](../../../../../../wet/verzamelwet/szw/2011/BWBR0029226/README.md) al is ingegaan en die zich op die dag onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, wordt voor de toepassing van artikel 6, eerste lid, onderdeel d, als eerste dag waarop hij zich aan de tenuitvoerlegging van die vrijheidsstraf of vrijheidsbenemende maatregel onttrekt, aangemerkt de dag van inwerkingtreding van artikel XI, onderdeel Ba, van de Verzamelwet SZW 2011 en eindigt het recht op uitkering, in afwijking van artikel 6, eerste lid, onderdeel d, vanaf de dag dat het onttrekken aan de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel zes maanden heeft geduurd.   
-2.  Dit artikel vervalt zes maanden na de dag van zijn inwerkingtreding.   
-
 ### Artikel  49  
 
 ####Evaluatie

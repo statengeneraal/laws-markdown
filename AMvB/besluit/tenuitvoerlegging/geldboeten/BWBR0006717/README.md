@@ -18,7 +18,8 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Het Centraal Justitieel Incassobureau, bedoeld in [artikel 1 van het Besluit Instelling Centraal Justitieel Incassobureau](../../../../../AMvB/besluit/instelling/centraal/justitieel/incassobureau/BWBR0006713/README.md), heeft tot taak Onze Minister van Justitie en het openbaar ministerie te ondersteunen bij hun taken met betrekking tot de tenuitvoerlegging van geldboeten die bij vonnis of arrest dan wel in een strafbeschikking zijn opgelegd. Het Centraal Justitieel Incassobureau heeft voorts tot taak de bevoegde ambtenaren, bedoeld in [artikel 3.1 van het Besluit OM-afdoening](../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md), te ondersteunen bij hun taken met betrekking tot de betaling van gelden als bedoeld in artikel 3a.  
+1.  Het Centraal Justitieel Incassobureau, bedoeld in [artikel 1 van het Besluit Instelling Centraal Justitieel Incassobureau](../../../../../AMvB/besluit/instelling/centraal/justitieel/incassobureau/BWBR0006713/README.md), heeft tot taak Onze Minister van Justitie en het openbaar ministerie te ondersteunen bij hun taken met betrekking tot de tenuitvoerlegging van geldboeten die bij vonnis of arrest dan wel in een strafbeschikking zijn opgelegd. Het Centraal Justitieel Incassobureau heeft voorts tot taak de bevoegde ambtenaren, bedoeld in [artikel 3.1 van het Besluit OM-afdoening](../../../../../AMvB/besluit/om-afdoening/BWBR0022233/README.md), te ondersteunen bij hun taken met betrekking tot de betaling van gelden als bedoeld in artikel 3a.   
+2.  Dit besluit is niet van toepassing op geldboeten die zijn opgelegd in een strafbeschikking, uitgevaardigd krachtens [artikel 76 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) of [artikel 10:15 van de Algemene douanewet](../../../../../wet/algemene/douanewet/BWBR0023746/README.md).   
 
 ### Artikel  2  
 

@@ -412,16 +412,17 @@ I. W. Opstelten
 
 ####behorend bij de wet
 
-| Aard c.q. hoogte van de vordering of het verzoek  | Griffierecht voor rechtspersonen  | Griffierecht voor natuurlijke personen  | Griffierecht voor on- en min vermogenden  |
+| Aard c.q. hoogte van de vordering of het verzoek  | Griffierecht voor rechtspersonen  | Griffierecht voor natuurlijke personen  | Griffierecht voor onvermogenden  |
 |:---|:---|:---|:---|
-|  *Griffierechten bij de Sector Kanton van de rechtbank*   |
-| Zaken met betrekking tot een vordering, dan wel een verzoek:  – van onbepaalde waarde of  – met een beloop van niet meer dan € 500 in hoofdsom  | € 106  | € 71  | € 71  |
-| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 500 in hoofdsom.  | € 284  | € 142  | € 71  |
+|  *GRIFFIERECHTEN BIJ DE RECHTBANK VOOR KANTONZAKEN*   |
+| Zaken met betrekking tot een vordering, dan wel een verzoek:  – van onbepaalde waarde of  – met een beloop van niet meer dan € 500 in hoofdsom  | € 106  | € 71  | € 71  |
+| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 500 en niet meer dan € 12.500 in hoofdsom  | € 426  | € 202  | € 71  |
+| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 12.500 in hoofdsom  | € 851  | € 426  | € 71  |
 | --- |
-|  *Griffierechten bij de Sector Civiel van de rechtbank*   |
-| Zaken met betrekking tot een vordering, dan wel een verzoek:  – van onbepaalde waarde of  – met een beloop van meer dan € 5000 en niet meer dan € 12 500 in hoofdsom  | € 568  | € 258  | € 71  |
-| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 12 500 en niet meer dan € 100 000 in hoofdsom  | € 1 181  | € 588  | € 71  |
-| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 100 000 in hoofdsom  | € 3 537  | € 1 414  | € 71  |
+|  *GRIFFIERECHTEN BIJ DE RECHTBANK VOOR ANDERE ZAKEN DAN KANTONZAKEN*   |
+| Zaken met betrekking tot een vordering, dan wel een verzoek van onbepaalde waarde  | € 560  | € 260  | € 71  |
+| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 25.000 en niet meer dan € 100.000 in hoofdsom  | € 1744  | € 800  | € 71  |
+| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 100.000 in hoofdsom  | € 3529  | € 1400  | € 71  |
 
 | Aard c.q. hoogte van de vordering of het verzoek  | Griffierecht voor rechtspersonen  | Griffierecht voor natuurlijke personen  | Griffierecht voor on- en min vermogenden  |
 |:---|:---|:---|:---|

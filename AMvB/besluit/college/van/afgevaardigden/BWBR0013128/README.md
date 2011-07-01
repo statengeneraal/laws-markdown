@@ -106,9 +106,8 @@ De leden van het College ontvangen een vergoeding voor reis- en verblijfskosten 
 
 ### Artikel  11  
 
-1.  Degenen die op de dag voorafgaand aan de inwerkingtreding van dit besluit lid zijn van de klankbordgroep Raad voor de rechtspraak in oprichting worden van rechtswege lid van het College, met inachtneming van artikel 2, eerste en derde lid.   
-2.  Het College, bedoeld in het eerste lid, draagt er zorg voor dat er uiterlijk een jaar na inwerkingtreding van dit besluit een College tot stand is gebracht op grond van artikel 3.   
-3.  Uiterlijk een jaar na inwerkingtreding van dit besluit treden de leden van het College, bedoeld in het eerste lid, af.   
+1.  In afwijking van de artikelen 2, tweede lid, en 5, eerste lid, aanhef en onder c, behoudt een lid van het College dat ten gevolge van de inwerkingtreding van [artikel II van de Evaluatiewet modernisering rechterlijke organisatie](../../../../../../wet/evaluatiewet/modernisering/rechterlijke/organisatie/BWBR0030035/README.md) niet meer als rechterlijk ambtenaar of gerechtsambtenaar werkzaam is bij een rechtbank in het ressort waarvoor dat lid is afgevaardigd, het lidmaatschap namens dat ressort totdat de termijn waarvoor dat lid is afgevaardigd, is verstreken.   
+2.  De leden van een commissie als bedoeld in artikel 3 die als rechterlijk ambtenaar of gerechtsambtenaar werkzaam zijn bij een rechtbank die op het tijdstip van inwerkingtreding van artikel II van de Evaluatiewet modernisering rechterlijke organisatie overgaat naar een ander ressort, maken van rechtswege deel uit van de commissie in dat andere ressort.   
 
 ### Artikel  12  
 

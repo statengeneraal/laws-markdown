@@ -186,41 +186,25 @@ b. het aan de kapitein van een schip dat is bestemd en wordt gebruikt voor de be
 
 1.  Er is een College ter beoordeling van geneesmiddelen.   
 2.  Het College heeft zijn zetel in een door Onze Minister te bepalen gemeente.   
+3.  De [Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is op het College van toepassing.   
 
 ### Artikel  3  
 
-1.  Het College bestaat uit ten hoogste zeventien leden, de voorzitter daaronder begrepen.   
-2.  De leden worden door benoemd voor een periode van ten hoogste vier jaren en zijn herbenoembaar. Zij worden door Onze Minister benoemd, geschorst en ontslagen.   
-3.  Schorsing en ontslag vinden slechts plaats wegens ongeschiktheid of onbekwaamheid voor de vervulde functie dan wel wegens andere zwaarwegende in de persoon van de betrokkene gelegen redenen. Ontslag vindt voorts plaats op verzoek van de betrokkene.   
-4.  Een lid van het College kan niet tevens zijn een aan Onze Minister ondergeschikte ambtenaar.   
+Het College bestaat uit ten hoogste zeventien leden, de voorzitter daaronder begrepen. De leden worden benoemd voor een periode van ten hoogste vier jaren en zijn herbenoembaar.  
 
 ### Artikel  4  
 
-1.  Het College stelt een bestuursreglement vast. Het reglement behoeft de goedkeuring van Onze Minister.   
-2.  De in het eerste lid bedoelde goedkeuring kan worden onthouden wegens strijd met het recht of op de grond dat het reglement naar het oordeel van Onze Minister een goede taakuitoefening door het College kan belemmeren.   
-3.  Het College maakt zijn bestuursreglement openbaar.   
+Het College stelt een bestuursreglement vast. Het College maakt zijn bestuursreglement openbaar.  
 
 ### Artikel  5  
 
 1.  Het College maakt, met weglating van commercieel vertrouwelijke gegevens, de agenda’s en de notulen van zijn vergaderingen openbaar, alsmede zijn besluiten, met inbegrip van minderheidsstandpunten en bijzonderheden over de stemmingen en motiveringen.   
 2.  De vergaderingen van het College zijn openbaar voor zover het daarbij niet gaat om het nemen van beslissingen waarbij commercieel vertrouwelijke gegevens en bescheiden aan de orde zijn.   
 
-### Artikel  6  
-
-1.  Een lid van het College oefent naast zijn functie bij het College geen functies uit die ongewenst zijn met het oog op een goede vervulling van zijn functie als lid van het College dan wel met het oog op de handhaving van zijn onafhankelijkheid of het vertrouwen daarin.   
-2.  Een lid van het College meldt het voornemen tot het aanvaarden van een functie naast zijn functie bij het College aan Onze Minister.   
-3.  Functies van een lid van het College naast zijn lidmaatschap van het College worden openbaar gemaakt. Openbaarmaking geschiedt door het ter inzage leggen van een opgave van die functies ten kantore van het College en van Onze Minister.   
-
-### Artikel  7  
-
-1.  Aan het lidmaatschap van het College, niet zijnde het voorzitterschap, is een schadeloosstelling verbonden. Aan het voorzitterschap is een bezoldiging verbonden.   
-2.  Onze Minister stelt de bezoldiging en de schadeloosstelling vast.   
-
 ### Artikel  8  
 
 1.  Het College wordt ondersteund door een secretariaat, waarvan de ambtenaren door Onze Minister worden benoemd, geschorst en ontslagen.   
-2.  Het secretariaat staat onder gezag van het College voor zover het werkzaamheden betreft ten behoeve van de taken van het College. Het secretariaat legt over die werkzaamheden uitsluitend aan het College verantwoording af.   
-3.  De ambtenaren van het secretariaat hebben geen financiële of andere belangen in de farmaceutische industrie die hun onpartijdigheid in het gedrang kunnen brengen. Zij verstrekken jaarlijks een verklaring omtrent hun financiële belangen.   
+2.  De ambtenaren van het secretariaat hebben geen financiële of andere belangen in de farmaceutische industrie die hun onpartijdigheid in het gedrang kunnen brengen. Zij verstrekken jaarlijks een verklaring omtrent hun financiële belangen.   
 
 ### Artikel  9  
 
@@ -251,32 +235,9 @@ j. het gevolg geven aan een verzoek van het Bureau om gegevens, bescheiden of an
 
 Bij ministeriële regeling worden tarieven vastgesteld ter dekking van de kosten van de vervulling van de in artikel 9, eerste lid, onder a, b, c, d, g, h, i en j, bedoelde taken.  
 
-### Artikel  11  
-
-1.  Het College stelt jaarlijks voor 1 juli een verslag op van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van zijn werkwijze in het bijzonder in het afgelopen kalenderjaar. Het verslag wordt aan Onze Minister toegezonden en algemeen verkrijgbaar gesteld.   
-2.  Het College zendt jaarlijks voor 1 april aan Onze Minister de ontwerpbegroting voor het daarop volgende jaar.   
-
-### Artikel  12  
-
-Het College verstrekt desgevraagd aan Onze Minister de voor de uitoefening van diens taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden voor zover dat voor de vervulling van zijn taak redelijkerwijs noodzakelijk is.  
-
 ### Artikel  13  
 
 Het College verstrekt desgevraagd aan het College voor zorgverzekeringen, bedoeld in [artikel 58, eerste lid, van de Zorgverzekeringswet](../../../wet/zorgverzekeringswet/BWBR0018450/README.md), de inlichtingen die laatstgenoemd college redelijkerwijs nodig heeft voor het vormen van een oordeel in de gevallen waarin het door Onze Minister wordt gehoord over een aanvraag om een geneesmiddel aan te wijzen als behorende tot de farmaceutische zorg waarop aanspraak bestaat krachtens de wettelijke sociale ziektekostenverzekeringen.  
-
-### Artikel  14  
-
-1.  Indien naar het oordeel van Onze Minister het College zijn taak ernstig verwaarloost, kan Onze Minister de noodzakelijke voorzieningen treffen.   
-2.  De voorzieningen worden, spoedeisende gevallen uitgezonderd, niet eerder getroffen dan nadat het College in de gelegenheid is gesteld om binnen een door Onze Minister te bepalen termijn alsnog zijn taak uit te voeren.   
-3.  Onze Minister stelt beide kamers der Staten-Generaal onverwijld in kennis van door hem getroffen voorzieningen, bedoeld in het eerste lid.   
-
-### Artikel  15  
-
-Onze Minister zendt binnen vijf jaren na de inwerkingtreding van deze wet en vervolgens telkens na vier jaren aan de Staten-Generaal een verslag over de doelmatigheid en doeltreffendheid van het functioneren van het College.  
-
-### Artikel  16  
-
-Het College draagt op de voet van de ter zake voor de Rijksdienst geldende voorschriften zorg voor de nodige technische en organisatorische voorzieningen ter beveiliging van zijn gegevens tegen verlies of aantasting en tegen onbevoegde kennisneming, wijziging en verstrekking van die gegevens.  
 
 ### Artikel  17  
 

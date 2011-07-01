@@ -16,7 +16,7 @@
 
 ### Artikel  1  
 
-Onverminderd het omtrent rechtsmacht in verdragen en EG-verordeningen bepaalde wordt de rechtsmacht van de Nederlandse rechter beheerst door de volgende bepalingen.  
+Onverminderd het omtrent rechtsmacht in verdragen en EG-verordeningen bepaalde en onverminderd [artikel 13a van de Wet algemene bepalingen](../../../../../../wet/wet/algemene/bepalingen/BWBR0001833/README.md) wordt de rechtsmacht van de Nederlandse rechter beheerst door de volgende bepalingen.  
 
 ### Artikel  2  
 
@@ -665,11 +665,11 @@ Indien de griffier aan partijen stukken toezendt, geschiedt dit, tenzij de recht
 
 Door de kantonrechter worden behandeld en beslist: 
 
-a. zaken betreffende vorderingen met een beloop van ten hoogste € 5000, de tot aan de dag van dagvaarding verschenen rente daarbij inbegrepen, tenzij de rechtstitel dat bedrag te boven gaat en die rechtstitel wordt betwist;  
+a. zaken betreffende vorderingen met een beloop van ten hoogste € 25.000, de tot aan de dag van dagvaarding verschenen rente daarbij inbegrepen, tenzij de rechtstitel dat bedrag te boven gaat en die rechtstitel wordt betwist;  
 
-b. zaken betreffende vorderingen van onbepaalde waarde, indien er duidelijke aanwijzingen bestaan dat de vordering geen hogere waarde vertegenwoordigt dan € 5000;  
+b. zaken betreffende vorderingen van onbepaalde waarde, indien er duidelijke aanwijzingen bestaan dat de vordering geen hogere waarde vertegenwoordigt dan € 25.000;  
 
-c. zaken betreffende een arbeidsovereenkomst, een collectieve arbeidsovereenkomst, algemeen verbindend verklaarde bepalingen van een collectieve arbeidsovereenkomst, een vut-overeenkomst als bedoeld in de Wet kaderregeling vut overheidspersoneel, of een agentuur-, huur- of huurkoopovereenkomst, ongeacht het beloop of de waarde van de vordering;  
+c. zaken betreffende een arbeidsovereenkomst, een collectieve arbeidsovereenkomst, algemeen verbindend verklaarde bepalingen van een collectieve arbeidsovereenkomst, een vut-overeenkomst als bedoeld in de Wet kaderregeling vut overheidspersoneel, een krediettransactie als bedoeld in de [Wet op het consumentenkrediet](../../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md) of een agentuur-, huur-, huurkoop- of consumentenkoopovereenkomst, ongeacht het beloop of de waarde van de vordering;  
 
 d. andere zaken ten aanzien waarvan de wet dit bepaalt.    
 
@@ -703,7 +703,7 @@ Indien de kantonrechter in de gevallen, bedoeld in de artikelen 94, tweede tot e
 
 ### Artikel  99  
 
-1.  Tenzij de wet anders bepaalt, is bevoegd de rechter van de woonplaats van de gedaagde.   
+1.  Tenzij de wet of een krachtens artikel 108a vastgestelde algemene maatregel van bestuur anders bepaalt, is bevoegd de rechter van de woonplaats van de gedaagde.   
 2.  Bij gebreke van een bekende woonplaats van de gedaagde in Nederland is bevoegd de rechter van zijn werkelijk verblijf.   
 
 ### Artikel  100  
@@ -742,7 +742,7 @@ Indien een rechter ten aanzien van een van de gezamenlijk in het geding betrokke
 ### Artikel  108  
 
 1.  Hebben partijen bij overeenkomst een rechter aangewezen voor de kennisneming van geschillen die zijn ontstaan of zullen ontstaan naar aanleiding van een bepaalde rechtsbetrekking die tot hun vrije bepaling staat, dan is die rechter bij uitsluiting bevoegd van de zaak kennis te nemen, voorzover niet uit de overeenkomst anders voortvloeit.   
-2.  Beloopt de vordering evenwel ten hoogste € 5000 of betreft het een individuele arbeidsovereenkomst dan wel een zaak als bedoeld in artikel 101 of artikel 103, tweede zin, dan heeft een overeenkomst als bedoeld in het eerste lid geen gevolg, tenzij: 
+2.  Beloopt de vordering evenwel ten hoogste € 25.000 of betreft het een individuele arbeidsovereenkomst dan wel een zaak als bedoeld in artikel 101 of artikel 103, tweede zin, dan heeft een overeenkomst als bedoeld in het eerste lid geen gevolg, tenzij: 
 
 a. zij is aangegaan na het ontstaan van het geschil, of  
 
@@ -750,13 +750,17 @@ b. de werknemer, de partij die niet handelt in de uitoefening van beroep of bedr
 3.  Een overeenkomst tot aanwijzing van een bevoegde rechter wordt bewezen door een geschrift. Daarvoor is voldoende een geschrift dat een dergelijk beding bevat of dat verwijst naar algemene voorwaarden die een dergelijk beding bevatten, mits dat geschrift door of namens de wederpartij uitdrukkelijk of stilzwijgend is aanvaard.   
 4.  Een overeenkomst tot aanwijzing van een bevoegde rechter dient als een afzonderlijke overeenkomst te worden beschouwd en beoordeeld. De aangewezen rechter is bevoegd te oordelen over de rechtsgeldigheid van de hoofdovereenkomst waarvan een overeenkomst tot aanwijzing van een bevoegde rechter deel uitmaakt of waarop zij betrekking heeft.   
 
+### Artikel  108a  
+
+Indien een voortdurend gebrek aan voldoende zittingscapaciteit bij een rechtbank daartoe noodzaakt, kan bij algemene maatregel van bestuur voor de duur van ten hoogste twee jaar een andere dan de overeenkomstig de artikelen 99 tot en met 108 bevoegde rechtbank worden aangewezen als bevoegde rechtbank voor zaken die behoren tot een bij die maatregel aangewezen categorie. Onder zittingscapaciteit wordt verstaan hetgeen daaronder wordt verstaan in [artikel 1, onder h, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md).  
+
 ### Artikel  109  
 
-Wijzen de artikelen 99 tot en met 108 geen bevoegde rechter aan, dan is bevoegd de rechter van de woonplaats van de eiser dan wel, indien er meer eisers zijn, elk van de eisers of, bij gebreke daarvan, de rechter te 's-Gravenhage.  
+Wijzen de artikelen 99 tot en met 108 of een krachtens artikel 108a vastgestelde algemene maatregel van bestuur geen bevoegde rechter aan, dan is bevoegd de rechter van de woonplaats van de eiser dan wel, indien er meer eisers zijn, elk van de eisers of, bij gebreke daarvan, de rechter te 's-Gravenhage.  
 
 ### Artikel  110  
 
-1.  Het verweer dat de rechter niet relatief bevoegd is, wordt op straffe van verval van het recht daartoe gevoerd vóór alle weren ten gronde. In zaken waarin de vordering ten hoogste € 5000 beloopt, zaken betreffende een individuele arbeidsovereenkomst en zaken als bedoeld in artikel 101 en 103, tweede zin, beoordeelt de rechter ook zonder daartoe strekkend verweer of hij relatief bevoegd is.   
+1.  Het verweer dat de rechter niet relatief bevoegd is, wordt op straffe van verval van het recht daartoe gevoerd vóór alle weren ten gronde. In zaken waarin de vordering ten hoogste € 25.000 beloopt, zaken betreffende een individuele arbeidsovereenkomst en zaken als bedoeld in artikel 101 en 103, tweede zin, beoordeelt de rechter ook zonder daartoe strekkend verweer of hij relatief bevoegd is.   
 2.  Indien de rechter beslist dat niet hij, maar een andere rechter relatief bevoegd is, verwijst hij de zaak naar deze rechter. Artikel 74, eerste lid en derde lid, eerste zin, zijn van toepassing.   
 3.  Tegen een vonnis waarbij een verweer als bedoeld in het eerste lid wordt verworpen of de zaak naar een andere rechter wordt verwezen, is geen hogere voorziening toegelaten. De rechter naar wie de zaak is verwezen, is aan die verwijzing gebonden. De vorige zin mist toepassing indien de rechter zich tevens absoluut onbevoegd verklaart en de zaak verwijst naar een hogere rechter.   
 
@@ -777,7 +781,7 @@ c. in zaken waarin partijen niet in persoon kunnen procederen, de naam en het ka
 
 d. de eis en de gronden daarvan;  
 
-e. de aanwijzing van de rechter die van de zaak kennisneemt, onder vermelding van het adres van het gerecht dan wel, indien de zaak moet worden behandeld op een nevenvestigingsplaats of nevenzittingsplaats van het gerecht, het adres van die nevenvestigingsplaats en nevenzittingsplaats alsmede, indien de zaak moet worden behandeld op een nevenzittingsplaats waar geen stukken kunnen worden ingediend, het adres waar stukken kunnen worden ingediend;  
+e. de aanwijzing van de rechter die van de zaak kennisneemt, onder vermelding van het adres van het gerecht dan wel, indien de zaak moet worden behandeld op een nevenvestigingsplaats of nevenzittingsplaats van het gerecht, het adres van die nevenvestigingsplaats of nevenzittingsplaats alsmede, indien de zaak moet worden behandeld op een nevenzittingsplaats waar geen stukken kunnen worden ingediend, het adres waar stukken kunnen worden ingediend;  
 
 f. de roldatum waartegen wordt gedagvaard en, indien alsdan een terechtzitting plaatsvindt, het uur daarvan;  
 
@@ -1790,7 +1794,7 @@ Het verzet moet worden gedaan bij de voorzieningenrechter. Artikel 255, eerste l
 
 ### Artikel  262  
 
-Tenzij de wet anders bepaalt, is bevoegd: 
+Tenzij de wet of een krachtens artikel 268a vastgestelde algemene maatregel van bestuur anders bepaalt, is bevoegd: 
 
 a. de rechter van de woonplaats van hetzij de verzoeker of één van de verzoekers, hetzij één van de in het verzoekschrift genoemde belanghebbenden dan wel, als zodanige woonplaats in Nederland niet bekend is, de rechter van het werkelijk verblijf van één van hen.  
 
@@ -1821,9 +1825,13 @@ In zaken van afwezigheid of vermissing is bevoegd de rechter van de verlaten woo
 1.  In zaken betreffende nalatenschappen is bevoegd de rechter van de laatste woonplaats van de overledene. In afwijking van de eerste zin is in zaken die volgens [afdeling 7 van titel 5 van Boek 4 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) met een verzoekschrift moeten worden ingeleid, bevoegd de rechter van de woonplaats van de rechthebbende.   
 2.  Van de in artikel 12, vierde lid, tweede volzin, bedoelde beschikking wordt door de griffier afschrift gezonden aan de als uitsluitend bevoegde aangewezen kantonrechter, aan de onder curatele gestelde, de rechthebbende en degene ten behoeve van wie een mentorschap is ingesteld en voorts aan de curator, de mentor en aan ieder der bewindvoerders. Van de beslissing is geen hogere voorziening toegelaten. De kantonrechter die als uitsluitend bevoegde is aangewezen, is aan die aanwijzing gebonden.   
 
+### Artikel  268a  
+
+Indien een voortdurend gebrek aan voldoende zittingscapaciteit bij een rechtbank daartoe noodzaakt, kan bij algemene maatregel van bestuur voor de duur van ten hoogste twee jaar een andere dan de overeenkomstig de artikelen 262 tot en met 268 bevoegde rechtbank worden aangewezen als bevoegde rechtbank voor zaken die behoren tot een bij die maatregel aangewezen categorie. Onder zittingscapaciteit wordt verstaan hetgeen daaronder wordt verstaan in [artikel 1, onder h, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md).  
+
 ### Artikel  269  
 
-Wijzen de artikelen 262 tot en met 268 geen bevoegde rechter aan, dan is de rechter te 's-Gravenhage bevoegd.  
+Wijzen de artikelen 262 tot en met 268 of een krachtens artikel 268a vastgestelde algemene maatregel van bestuur geen bevoegde rechter aan, dan is de rechter te 's-Gravenhage bevoegd.  
 
 ### Artikel  270  
 
@@ -5163,7 +5171,7 @@ Zaken betreffende minderjarigen die bij de rechtbank aanhangig worden gemaakt, u
 
 ### Artikel  811  
 
-1.  In zaken betreffende minderjarigen worden als belanghebbenden bij het recht op inzage en afschrift, als bedoeld in artikel 290, van door de raad voor de kinderbescherming of het openbaar ministerie overgelegde bescheiden alsmede van door een deskundige op verzoek van de rechter overgelegde bescheiden aangemerkt: ‘ 
+1.  In zaken betreffende minderjarigen worden als belanghebbenden bij het recht op inzage en afschrift, als bedoeld in artikel 290, van door de raad voor de kinderbescherming of het openbaar ministerie overgelegde bescheiden alsmede van door een deskundige op verzoek van de rechter overgelegde bescheiden aangemerkt: 
 
 a. de verzoekers,  
 

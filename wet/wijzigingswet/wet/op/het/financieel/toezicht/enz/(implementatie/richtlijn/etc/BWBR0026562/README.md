@@ -31,7 +31,7 @@ Wijzigt de Wet op de economische delicten.
 
 ### Artikel  VI  
 
-De [Wet grensoverschrijdende betaaldiensten](../../../../../../../../../../../../wet/wet/grensoverschrijdende/betaaldiensten/BWBR0010003/README.md) wordt ingetrokken.  
+De Wet grensoverschrijdende betaaldiensten wordt ingetrokken.  
 
 ### Artikel  VIa  
 
@@ -43,15 +43,15 @@ Wijzigt de Sanctiewet 1977.
 
 ### Artikel  VII  
 
-1.  Op rechtspersonen die geen kredietinstelling zijn in de zin van [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en die aantoonbaar in overeenstemming met die wet voor 25 december 2007 betaaldiensten verleenden, is het verbod, bedoeld in [artikel 2:3a, eerste lid, van die wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tot 30 april 2011 niet van toepassing.   
-2.  Het eerste lid laat onverlet dat de in het eerste lid bedoelde rechtspersonen een vergunning als bedoeld in [artikel 2:3a van de Wet op het financieel toezicht](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) kunnen aanvragen.   
-3.  Onverminderd het eerste lid is het verbod, bedoeld in [artikel 2:3a, eerste lid, van de Wet op het financieel toezicht](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) niet van toepassing op financiële ondernemingen die voor 25 december 2007 overeenkomstig [die wet](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) betalingsverrichtingen uitvoerden en die voldoen aan de voorwaarden van artikel 24, eerste lid, eerste alinea, onderdeel e, van de richtlijn nr. 2006/48/EG van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 betreffende de toegang tot en de uitoefening van de werkzaamheden van kredietinstellingen (PbEU L 77).   
+1.  Op rechtspersonen die geen kredietinstelling zijn in de zin van artikel 1:1 van de Wet op het financieel toezicht en die voor 25 december 2007 aantoonbaar in overeenstemming met het recht dat voor die datum van toepassing was, betaaldiensten verleenden, is het verbod, bedoeld in artikel 2:3a, eerste lid, van de Wet op het financieel toezicht, tot 30 april 2011 niet van toepassing.   
+2.  Het eerste lid laat onverlet dat de in het eerste lid bedoelde rechtspersonen een vergunning als bedoeld in artikel 2:3a van de Wet op het financieel toezicht kunnen aanvragen.   
+3.  Onverminderd het eerste lid is het verbod, bedoeld in artikel 2:3a, eerste lid, van de Wet op het financieel toezicht niet van toepassing op financiële ondernemingen die voor 25 december 2007 overeenkomstig die wet betalingsverrichtingen uitvoerden en die voldoen aan de voorwaarden van artikel 24, eerste lid, eerste alinea, onderdeel e, van de richtlijn nr. 2006/48/EG van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 betreffende de toegang tot en de uitoefening van de werkzaamheden van kredietinstellingen (PbEU L 77).   
 4.  Een in het derde lid bedoelde onderneming stelt de Nederlandsche Bank voor 25 december 2009 van deze werkzaamheden in kennis en toont daarbij aan dat wordt voldaan aan bij of krachtens algemene maatregel van bestuur te stellen regels.   
-5.  Indien de Nederlandsche Bank ervan overtuigd is dat aan de in het vierde lid bedoelde regels is voldaan, wordt de financiële onderneming ingeschreven in het register, bedoeld in [artikel 1:107 van de Wet op het financieel toezicht](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+5.  Indien de Nederlandsche Bank ervan overtuigd is dat aan de in het vierde lid bedoelde regels is voldaan, wordt de financiële onderneming ingeschreven in het register, bedoeld in artikel 1:107 van de Wet op het financieel toezicht.   
 
 ### Artikel  VIII  
 
-In afwijking van [artikel 537 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) kunnen een betaler en zijn betaaldienstverlener tot 1 januari 2012 een termijn van ten hoogste drie werkdagen overeenkomen. Deze termijn kan voor betalingstransacties die op papier worden geïnitieerd, met nogmaals een werkdag worden verlengd.  
+In afwijking van artikel 537 van Boek 7 van het Burgerlijk Wetboek kunnen een betaler en zijn betaaldienstverlener tot 1 januari 2012 een termijn van ten hoogste drie werkdagen overeenkomen. Deze termijn kan voor betalingstransacties die op papier worden geïnitieerd, met nogmaals een werkdag worden verlengd.  
 
 ### Artikel  VIIIa  
 

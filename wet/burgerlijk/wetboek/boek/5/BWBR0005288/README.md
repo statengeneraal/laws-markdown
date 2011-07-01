@@ -762,6 +762,7 @@ d. de wijze van bijeenroeping van de vergadering van eigenaars en de bepaling va
 1.  In alle gevallen waarin een appartementseigenaar voor het verrichten van een bepaalde handeling met betrekking tot de gedeelten die niet bestemd zijn als afzonderlijk geheel gebruikt te worden en, in het geval van een beding als bedoeld in artikel 112 lid 4, met betrekking tot gedeelten die bestemd zijn als afzonderlijk geheel gebruikt te worden, medewerking of toestemming behoeft van een of meer andere appartementseigenaars, van de vereniging van eigenaars of van haar organen, of waarin de vereniging of haar organen voor het verrichten van zodanige handeling toestemming behoeven van een of meer appartementseigenaars, kan die medewerking of toestemming op verzoek van degeen die haar behoeft, worden vervangen door een machtiging van de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen. De machtiging kan worden verleend, indien de medewerking of toestemming zonder redelijke grond wordt geweigerd of degene die haar moet geven zich niet verklaart.   
 2.  Gaat de handeling met kosten gepaard, dan kan de kantonrechter op verzoek van een appartementseigenaar of van de vereniging van eigenaars tevens bepalen in welke verhouding alle of bepaalde appartementseigenaars of de vereniging van eigenaars in de kosten moeten bijdragen.   
 3.  Betreft het de aanbrenging van een nieuw werk of nieuwe installatie, dan kan de kantonrechter desverzocht ook een regeling vaststellen, bepalende dat en in welke verhouding de appartementseigenaars van alle of bepaalde appartementsrechten de kosten van onderhoud van het werk of de installatie in de toekomst zullen dragen.   
+4.  Betreft het de medewerking of toestemming voor een handeling betreffende het beheer of het onderhoud van de onderscheiden gedeelten van het gebouw, waarvoor medewerking of toestemming is verleend door een of meer appartementseigenaars aan wie ten minste de helft van het aantal stemmen in de vergadering van eigenaars toekomt, dan kan de machtiging ook worden verleend op verzoek van de gemeente waarin het gebouw is gelegen indien de staat van het gebouw niet voldoet aan [artikel 1a, eerste lid](../../../../../../wet/woningwet/BWBR0005181/README.md), of [1b, tweede lid, van de Woningwet](../../../../../../wet/woningwet/BWBR0005181/README.md) dan wel sprake is van een ernstige dreiging van het ontstaan van een zodanige situatie.   
 
 ### Artikel  122  
 
@@ -800,6 +801,7 @@ d. de wijze van bijeenroeping van de vergadering van eigenaars en de bepaling va
 1.  De vereniging van eigenaars voert het beheer over de gemeenschap, met uitzondering van de gedeelten die bestemd zijn als afzonderlijk geheel te worden gebruikt. De vereniging houdt een reservefonds in stand ter bestrijding van andere dan de gewone jaarlijkse kosten.   
 2.  De vereniging kan binnen de grenzen van haar bevoegdheid de gezamenlijke appartementseigenaars in en buiten rechte vertegenwoordigen.   
 3.  De vereniging ziet toe op de nakoming van de verplichtingen die voor de appartementseigenaars uit het bij of krachtens de wet en het reglement bepaalde jegens elkander voortvloeien en kan te dien einde in rechte tegen hen optreden. Onder appartementseigenaars wordt hier begrepen hij die een gebruiksrecht aan een appartementseigenaar ontleent.   
+4.  Zolang tweederde deel van de appartementsrechten niet is overgedragen onmiddellijk na oprichting van de vereniging van eigenaars, gaat de vereniging van eigenaars geen overeenkomsten voor onderhoud aan met een langere looptijd dan een jaar.   
 
 ### Artikel  127  
 
@@ -914,9 +916,9 @@ Geschillen over herstel of de wijze van herstel beslist de kantonrechter van de 
 
 ### Artikel  140a  
 
-1.  Op vordering van een appartementseigenaar die niet voor een overeenkomstig artikel 139 lid 2 bij meerderheid van stemmen genomen besluit tot wijziging van de akte van splitsing heeft gestemd, wordt het besluit bij rechterlijke uitspraak vernietigd.   
-2.  De bevoegdheid om vernietiging te vorderen verjaart door verloop van drie maanden, welke termijn begint met de aanvang van de dag, volgende op die waarop het besluit door de vergadering van eigenaars is genomen.   
-3.  De rechter kan de vordering afwijzen, wanneer de eiser geen schade lijdt of hem een redelijke schadeloosstelling wordt aangeboden en voor de betaling hiervan voldoende zekerheid is gesteld.   
+1.  Indien een of meer van de in de leden 1 en 3 van artikel 139 genoemden zich niet verklaren of zonder redelijke grond weigeren hun medewerking of toestemming te verlenen voor een wijziging van het reglement voorgesteld op de voet van artikel 127a, eerste lid, onderdeel b, kan deze worden vervangen door een machtiging van de kantonrechter van de rechtbank van het arrondissement waarin het gebouw of het grootste gedeelte daarvan is gelegen.   
+2.  De machtiging kan slechts worden verleend op verzoek van de gemeente waarin het gebouw is gelegen, indien een of meer appartementseigenaars aan wie ten minste de helft van het aantal stemmen in de vergadering van eigenaars toekomt zich voor de desbetreffende reglementswijziging heeft of hebben verklaard.   
+3.  Alle personen van wie medewerking of toestemming ingevolge artikel 139 is vereist, worden bij name opgeroepen om op een verzoek als bedoeld in het tweede lid te worden gehoord.   
 
 ### Artikel  140b  
 
@@ -926,7 +928,7 @@ Geschillen over herstel of de wijze van herstel beslist de kantonrechter van de 
 
 ### Artikel  141  
 
-1.  Bij gebreke van de in de artikelen 139 en 140 bedoelde toestemming of daarvoor in de plaats tredende machtiging wordt de wijziging vernietigd bij rechterlijke uitspraak op vordering van degeen wiens toestemming achterwege is gebleven.   
+1.  Bij gebreke van de in de artikelen 139, 140 en 140a bedoelde toestemming of daarvoor in de plaats tredende machtiging wordt de wijziging vernietigd bij rechterlijke uitspraak op vordering van degeen wiens toestemming achterwege is gebleven.   
 2.  De bevoegdheid om vernietiging te vorderen verjaart door verloop van een jaar, welke termijn begint met de aanvang van de dag, volgende op die waarop degeen die de vernietiging kan vorderen kennis heeft genomen van de wijziging dan wel hem schriftelijk van die wijziging mededeling is gedaan.   
 3.  De rechter kan de vordering afwijzen, wanneer de eiser geen schade lijdt of hem een redelijke schadeloosstelling wordt aangeboden en voor de betaling hiervan voldoende zekerheid is gesteld.   
 

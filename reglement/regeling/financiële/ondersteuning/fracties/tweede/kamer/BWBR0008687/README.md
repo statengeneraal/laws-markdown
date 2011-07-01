@@ -58,7 +58,7 @@ b. Het zeteltal van een fractie met meer dan vijf, doch minder dan elf leden wor
 
 3. Het Presidium beoordeelt of van een arbeidsovereenkomst in de zin van deze regeling sprake is.  
 
-4. De salarisbetalingen en overige financiële verplichtingen die voortvloeien uit een schriftelijke arbeidsovereenkomst tussen het lid en de persoonlijk assistent worden rechtstreeks, zonder tussenkomst van het lid, uitgevoerd door de stafdienst FEZ van de Tweede Kamer.      
+4. De salarisbetalingen en overige financiële verplichtingen die voortvloeien uit een schriftelijke arbeidsovereenkomst tussen het lid en de persoonlijk assistent worden rechtstreeks, zonder tussenkomst van het lid, uitgevoerd door de betrokken fractie.      
 ### Artikel  5  
 
 1. Het voorschot op de maximale bijdrage voor het lopend kalenderjaar wordt door de stafdienst FEZ van de Tweede Kamer verstrekt in de vorm van twaalf, maandelijkse betalingen. Als uitgangspunt wordt van de maximale bijdrage een aandeel van 10% vooralsnog niet bevoorschot ten einde verrekening met van de zijde van de Tweede Kamer in rekening te brengen kosten mogelijk te maken.  

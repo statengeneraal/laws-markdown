@@ -19,7 +19,7 @@ b. herstructureringsgebied: een gebied waarin een activiteit als bedoeld in [art
 
 c. toegelaten instelling: een instelling als bedoeld in [artikel 70, eerste lid, van de Woningwet](../../../../../../../../../wet/woningwet/BWBR0005181/README.md);  
 
-d. fonds: een in Nederland gevestigde landelijk werkende toegelaten instelling als bedoeld in [artikel 70, eerste lid, van de Woningwet](../../../../../../../../../wet/woningwet/BWBR0005181/README.md), die geen winstoogmerk heeft, die hoofdzakelijk tot doel heeft de aankoop van woningen van toegelaten instellingen die daadwerkelijk uitvoering geven aan stedelijke herstructurering en de verkoop van deze woningen aan natuurlijke personen, en die als zodanig is aangewezen door de Minister van Infrastructuur en Milieu;  
+d. fonds: een in Nederland gevestigde landelijk werkende toegelaten instelling als bedoeld in [artikel 70, eerste lid, van de Woningwet](../../../../../../../../../wet/woningwet/BWBR0005181/README.md), die geen winstoogmerk heeft, die hoofdzakelijk tot doel heeft de aankoop van woningen van toegelaten instellingen die daadwerkelijk uitvoering geven aan stedelijke herstructurering en de verkoop van deze woningen aan natuurlijke personen, en die als zodanig is aangewezen door de Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
 
 e. investeren: de feitelijke besteding door de toegelaten instelling van middelen ten behoeve van de stedelijke herstructurering in een herstructureringsgebied.     
 

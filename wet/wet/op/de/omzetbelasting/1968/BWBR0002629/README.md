@@ -1819,9 +1819,7 @@ g. attractieparken, speel- en siertuinen, en andere dergelijke primair en perman
 
 19. het aanbrengen van op energiebesparing gericht isolatiemateriaal, met uitzondering van het aanbrengen van glas, aan vloeren, muren en daken van woningen na meer dan twee jaren na het tijdstip van eerste ingebruikneming, met uitzondering van materialen die een beduidend deel vertegenwoordigen van de waarde van deze diensten;  
 
-20. het verrichten van schoonmaakwerkzaamheden binnen woningen;  
-
-21. renovatie en herstel van woningen na meer dan twee jaren na het tijdstip van eerste ingebruikneming, met uitzondering van materialen die een deel vertegenwoordigen van de waarde van deze diensten.     
+20. het verrichten van schoonmaakwerkzaamheden binnen woningen.     
 
 ### Tabel  II  
 

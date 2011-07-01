@@ -587,7 +587,7 @@ b. de inspecteur niet tijdig heeft beslist op bezwaar en hij de indiener van dat
 
 ### Artikel  8:2  
 
-1.  [Hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van de [artikelen 26a](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [27](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [27a](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [27b](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), is van overeenkomstige toepassing op beschikkingen als bedoeld in het tweede lid.   
+1.  [Hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van de [artikelen 25, derde lid](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [26a](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [27](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [27a](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [27b](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [27e](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), is van overeenkomstige toepassing op beschikkingen als bedoeld in het tweede lid.   
 2.  Voor de overeenkomstige toepassing van [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is een beschikking voor bezwaar vatbaar indien het een beschikking betreft: 
 
 a. als bedoeld in artikel 4, aanhef en onder 5, van het Communautair douanewetboek of;  
@@ -597,8 +597,21 @@ b. die is genomen op grond van deze wet.
 4.  In afwijking van [artikel 8:7, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is slechts de rechtbank te Haarlem bevoegd.   
 5.  Indien het beroep is gericht tegen het niet tijdig doen van een uitspraak door de inspecteur, kan de rechtbank Haarlem bepalen dat de artikelen 13 en 14 van het Communautair douanewetboek en paragraaf 1.2.4 gedurende een daarbij te bepalen termijn van toepassing blijven.   
 6.  Indien een uitspraak van de rechtbank of van de voorzieningenrechter van de rechtbank betrekking heeft op een beschikking die is gegeven door Onze minister wie het aangaat dan wel de ontvanger, treedt voor de toepassing van dit hoofdstuk Onze minister wie het aangaat dan wel de ontvanger in de plaats van de inspecteur.   
-7.  De persoon die niet volledig voldoet aan een verzoek op de voet van artikel 14 van het Communautair douanewetboek om gegevensdragers, of de inhoud daarvan, voor raadpleging beschikbaar te stellen of niet volledig voldoet aan de verplichtingen ingevolge artikel 1:32 wordt voor de overeenkomstige toepassing van de [artikelen 25, derde lid, onderdeel b,](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [27e, onderdeel b, van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) geacht niet volledig te hebben voldaan aan de aldaar genoemde verplichtingen, tenzij aannemelijk is dat het niet of niet volledig voldoen aan genoemd verzoek of verplichtingen het gevolg is van overmacht.   
-8.  Voor de overeenkomstige toepassing van de [artikelen 27l, tweede lid](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [29a, tweede lid, van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) bedraagt het griffierecht hetgeen is vermeld in de onderdelen b en c van die leden.   
+7.  Indien het bezwaar is gericht tegen een uitnodiging tot betaling of een beschikking als bedoeld in het tweede lid, met betrekking tot welke: 
+
+a. de vereiste aangifte niet is gedaan; of  
+
+b. niet of niet volledig is voldaan aan een verzoek op de voet van artikel 14 van het Communautair douanewetboek om gegevensdragers, of de inhoud daarvan, voor raadpleging beschikbaar te stellen; of  
+
+c. niet of niet volledig is voldaan aan de verplichtingen ingevolge artikel 1:32, wordt bij de uitspraak op het bezwaarschrift de belastingaanslag of de beschikking gehandhaafd, tenzij aannemelijk is dat het niet of niet volledig voldoen aan genoemd verzoek of aan genoemde verplichtingen het gevolg is van overmacht en tenzij is gebleken dat en in hoeverre de belastingaanslag of de beschikking onjuist is. De eerste volzin vindt geen toepassing voor zover het bezwaar is gericht tegen een vergrijpboete.     
+8.  Indien het beroep is gericht tegen een uitnodiging tot betaling of een beschikking als bedoeld in het tweede lid, met betrekking tot welke: 
+
+a. de vereiste aangifte niet is gedaan; of  
+
+b. niet of niet volledig is voldaan aan een verzoek op de voet van artikel 14 van het Communautair douanewetboek om gegevensdragers, of de inhoud daarvan, voor raadpleging beschikbaar te stellen; of  
+
+c. niet of niet volledig is voldaan aan de verplichtingen ingevolge artikel 1:32, verklaart de rechtbank het beroep ongegrond, tenzij is gebleken dat en in hoeverre de uitspraak op het bezwaar onjuist is. De eerste volzin vindt geen toepassing voor zover het bezwaar is gericht tegen een vergrijpboete.     
+9.  Voor de overeenkomstige toepassing van de [artikelen 27l, tweede lid](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [29a, tweede lid, van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) bedraagt het griffierecht hetgeen is vermeld in de onderdelen b en c van die leden.   
 
 ### Artikel  8:3  
 
@@ -758,21 +771,21 @@ Ter zake van de bij deze wet of de daarop berustende bepalingen strafbaar gestel
 
 ### Artikel  10:15  
 
-1.  Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten gelden in plaats van de [artikelen 74](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [74a van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) de volgende bepalingen.   
-2.  Ten aanzien van feiten, met betrekking tot welke het proces-verbaal niet overeenkomstig artikel 11:3, tweede lid, in handen van de officier van justitie is gesteld, vervalt het recht tot strafvordering door vrijwillige voldoening aan de voorwaarden welke de inspecteur ter voorkoming van de strafvervolging mocht hebben gesteld.   
-3.  Als voorwaarden kunnen worden gesteld: 
+1.  Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten met betrekking tot welke het proces-verbaal niet overeenkomstig artikel 11:3, tweede lid, in handen van de officier van justitie is gesteld, kan in afwijking van de [artikelen 257a](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [257b van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), uitsluitend de inspecteur een strafbeschikking uitvaardigen. Bij regeling van Onze minister van Financiën kunnen functionarissen worden aangewezen die deze bevoegdheid namens de inspecteur kunnen uitoefenen.   
+2.  In deze strafbeschikking kan een geldboete worden opgelegd. Voorts kan deze strafbeschikking aanwijzingen bevatten waaraan de verdachte moet voldoen. De aanwijzingen kunnen inhouden: 
 
-a. betaling aan de Staat van een geldsom, te bepalen op ten minste € 2 en ten hoogste het maximum van de geldboete die voor het feit kan worden opgelegd;  
+a. afstand van voorwerpen die in beslag zijn genomen en vatbaar zijn voor verbeurdverklaring of onttrekking aan het verkeer;  
 
-b. afstand van voorwerpen die in beslag zijn genomen en vatbaar zijn voor verbeurdverklaring of onttrekking aan het verkeer;  
+b. uitlevering, of voldoening aan de staat van de geschatte waarde, van voorwerpen die vatbaar zijn voor verbeurdverklaring;  
 
-c. uitlevering, of voldoening aan de Staat van de geschatte waarde, van voorwerpen die vatbaar zijn voor verbeurdverklaring;  
+c. voldoening aan de Staat van een geldbedrag gelijk aan of lager dan het geschatte voordeel – met inbegrip van besparing van kosten – door de verdachte verkregen door middel van of uit het strafbare feit;  
 
-d. voldoening aan de Staat van een geldbedrag gelijk aan of lager dan het geschatte voordeel – met inbegrip van besparing van kosten – door de verdachte verkregen door middel van of uit het strafbare feit;  
-
-e. het alsnog voldoen aan een uit de douanewetgeving voortvloeiende verplichting.     
-4.  De inspecteur bepaalt telkens de termijn binnen welke aan de gestelde voorwaarden moet zijn voldaan en zo nodig tevens de plaats waar zulks moet geschieden. De gestelde termijn kan vóór de afloop daarvan éénmaal worden verlengd.   
-5.  [Artikel 552ab van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
+d. het alsnog voldoen aan een uit de douanewetgeving voortvloeiende verplichting.     
+3.  Een strafbeschikking waarin een geldboete wordt opgelegd van meer dan € 2000, wordt, in afwijking van [artikel 257c, tweede lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), slechts uitgevaardigd indien de verdachte daaraan voorafgaand is gehoord.   
+4.  Een geldboete wordt, in zoverre in afwijking van [artikel 257g van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), ingevorderd op de wijze, voorzien in de [Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md). Daartoe wordt een afschrift van de strafbeschikking aan de ontvanger ter hand gesteld. De inspecteur of de aangewezen functionaris bepaalt voorts de termijn binnen welke aan de gegeven aanwijzingen moet zijn voldaan en zo nodig tevens de plaats waar zulks moet geschieden. De gestelde termijn kan voor de afloop daarvan eenmaal worden verlengd.   
+5.  In afwijking van [artikel 257h, tweede lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) verstrekt de inspecteur desgevraagd een afschrift van een strafbeschikking aan ieder ander dan de verdachte of zijn raadsman, tenzij verstrekking naar het oordeel van het bestuur ter bescherming van de belangen van degene ten aanzien van wie de strafbeschikking is uitgevaardigd of van de derden die in de strafbeschikking worden genoemd, geheel of gedeeltelijk dient te worden geweigerd. In het laatste geval kan de inspecteur een geanonimiseerd afschrift van de strafbeschikking verstrekken.   
+6.  Indien binnen veertien dagen geen afschrift dan wel een geanonimiseerd afschrift wordt verstrekt, kan de verzoeker een klaagschrift indienen bij de inspecteur. Deze stelt het klaagschrift, de strafbeschikking en het proces-verbaal in handen van de officier van justitie, welke het klaagschrift en de processtukken onverwijld ter kennis brengt van de rechtbank, tenzij hij alsnog aan het verzoek tegemoetkomt. De procesdeelnemers zijn, in afwijking van [artikel 23, vierde lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) niet bevoegd van de inhoud van de processtukken kennis te nemen dan voor zover de rechtbank zulks toestaat.   
+7.  [Artikel 552ab van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
 
 ### Artikel  10:16  
 
@@ -812,7 +825,7 @@ Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestel
 ### Artikel  11:3  
 
 1.  Met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten zijn, behalve de in [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, dan wel de ambtenaren die bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister wie het mede aangaat zijn aangewezen.   
-2.  In afwijking van de [artikelen 155](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [156](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [157 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) worden alle processen-verbaal betreffende bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten ingezonden bij de inspecteur. De inspecteur doet de processen-verbaal betreffende strafbare feiten, ter zake waarvan inverzekeringstelling of voorlopige hechtenis is toegepast dan wel een woning tegen de wil van de bewoner is binnengetreden, met de in beslag genomen voorwerpen onverwijld toekomen aan de bevoegde officier van justitie. De overige processen-verbaal doet de inspecteur, met de in beslag genomen voorwerpen, toekomen aan de officier van justitie, indien hij een vervolging wenselijk acht.   
+2.  In afwijking van de [artikelen 155](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [156](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [157 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) worden alle processen-verbaal betreffende bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten ingezonden bij de inspecteur. De inspecteur doet de processen-verbaal betreffende strafbare feiten, ter zake waarvan inverzekeringstelling of voorlopige hechtenis is toegepast dan wel een woning tegen de wil van de bewoner is binnengetreden, met de in beslag genomen voorwerpen onverwijld toekomen aan de bevoegde officier van justitie. De overige processen-verbaal doet de inspecteur, met de in beslag genomen voorwerpen, toekomen aan de officier van justitie, indien hij een vervolging of verdere vervolging door deze wenselijk acht.   
 3.  De officier van justitie is bevoegd, de zaak ter afdoening weer in handen van de inspecteur te stellen, welke daarmede alsdan kan handelen overeenkomstig artikel 10:15.   
 4.  Het bepaalde in [artikel 148, tweede lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) vindt geen toepassing in zaken, waarin de inspecteur het proces-verbaal niet aan de officier van justitie heeft doen toekomen.   
 
