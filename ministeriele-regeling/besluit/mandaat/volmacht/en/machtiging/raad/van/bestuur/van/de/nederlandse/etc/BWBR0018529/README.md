@@ -12,7 +12,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. de minister: de Minister van Economische Zaken;  
+a. de minister: de Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. de raad: de raad van bestuur van de Nederlandse Mededingingsautoriteit;  
 
@@ -26,9 +26,9 @@ e. ARAR: [Algemeen Rijksambtenarenreglement](../../../../../../../../../../../..
 
 1.  Aan de raad wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en verrichten van overige handelingen die verband houden met: 
 
-a. de [artikelen 4a, eerste lid, onderdeel c, voor zover het de netwerkcapaciteit betreft en onderdeel d](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [15](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [29, derde lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [68, tweede lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [78](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [85, derde lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [95d, eerste lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [95e](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [95f, eerste lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [95i van de Elektriciteitswet 1998](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);  
+a. de [artikelen 4a, eerste lid, onderdeel c, voor zover het de netwerkcapaciteit betreft en onderdeel d](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [15](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [68, tweede lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [78, eerste, tweede en derde lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [85, derde lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [95d, eerste lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [95e](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [95f, eerste lid](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [95i van de Elektriciteitswet 1998](../../../../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);  
 
-b. de [artikelen 2a](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [40, tweede lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [45, eerste lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [46](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [47, eerste lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [49](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [52a, eerste lid, onderdeel d](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), voor zover het niet de kwaliteit en de staat van onderhoud van het landelijk gastransportnet betreft, en [83 van de Gaswet](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md);  
+b. de [artikelen 2a](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [34, eerste, tweede, derde, vijfde en zesde lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [40, tweede lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [45, eerste lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [46](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [47, eerste lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [49](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [52a, eerste lid, onderdelen d, voor zover het niet de kwaliteit en de staat van onderhoud van het landelijk gastransportnet betreft, f en i](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [64, derde lid](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), en [83 van de Gaswet](../../../../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md);  
 
 c. [artikel 3, eerste, tweede, derde en zesde lid van het Besluit leveringszekerheid Gaswet](../../../../../../../../../../../../../../AMvB/besluit/leveringszekerheid/gaswet/BWBR0016605/README.md);  
 
@@ -64,7 +64,7 @@ Aan de raad wordt op het werkterrein van de Nederlandse Mededingingsautoriteit v
 
 ### Artikel  5  
 
-Het krachtens mandaat of volmacht ondertekenen van stukken geschiedt als volgt: De Minister van Economische Zaken, namens deze: (handtekening) (naam functionaris) (functie)  
+Het krachtens mandaat of volmacht ondertekenen van stukken geschiedt als volgt: De Minister van Economische Zaken, Landbouw en Innovatie, namens deze: (handtekening) (naam functionaris) (functie)  
 
 ### Artikel  6  
 
@@ -108,7 +108,7 @@ Het krachtens mandaat of volmacht ondertekenen van stukken geschiedt als volgt: 
 ### Artikel  7  
 
 1.  Het verlenen van ondermandaat en volmacht alsmede wijziging daarvan, geschiedt schriftelijk.   
-2.  Een afschrift van besluiten inzake ondermandaat als bedoeld in het vorige lid wordt gezonden aan de secretaris-generaal en aan de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en aan degenen aan wie krachtens het besluit ondermandaat is verleend.   
+2.  Een afschrift van besluiten inzake ondermandaat als bedoeld in het vorige lid wordt gezonden aan de secretaris-generaal en aan de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken, Landbouw en Innovatie en aan degenen aan wie krachtens het besluit ondermandaat is verleend.   
 
 ### Artikel  8  
 
