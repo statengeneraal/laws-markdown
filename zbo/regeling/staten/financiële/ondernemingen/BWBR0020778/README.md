@@ -117,17 +117,13 @@ Het model van de opgave, bedoeld in [artikel 135, derde lid, van het Besluit](..
 
 ####Overgangs- en slotbepalingen
 
-### Artikel  4:2  
-
-Een bank, beleggingsonderneming of clearinginstelling die [artikel VIII, vijfde lid, van het Besluit implementatie kapitaalakkoord Bazel 2](../../../../../../AMvB/besluit/implementatie/kapitaalakkoord/bazel/2/BWBR0020750/README.md) toepast, past het bepaalde ingevolge [artikel 55 van de Wet toezicht kredietwezen 1992](../../../../../../wet/wet/toezicht/kredietwezen/1992/BWBR0005792/README.md) dan wel de [artikelen 8](../../../../../../zbo/nadere/regeling/prudentieel/toezicht/effectenverkeer/2002/BWBR0013315/README.md) en [8a van de Nadere regeling prudentieel toezicht effectenverkeer 2002](../../../../../../zbo/nadere/regeling/prudentieel/toezicht/effectenverkeer/2002/BWBR0013315/README.md) toe, zoals dat luidde voorafgaand aan het tijdstip van inwerkingtreding van onderhavige regeling, voor zover niet opgenomen in [hoofdstuk 10 van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md).  
-
 ### Artikel  4:3  
 
 Deze regeling treedt in werking op het tijdstip waarop het [Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) in werking treedt.  
 
 ### Artikel  4:4  
 
-Deze regeling wordt aangehaald als: Regeling staten financiële ondernemingen Wft.  
+Deze regeling wordt aangehaald als: Regeling staten financiële ondernemingen Wft 2011.  
 De regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen 1 tot en met 5, die ter inzage worden gelegd bij DNB.  
 
 De Nederlandsche Bank Directeur, 
@@ -158,117 +154,120 @@ Ligt ter inzage bij de Nederlandsche Bank N.V.
 
 ### Bijlage  6  
 
-Bijlage bij artikel 2:2, eerste lid, van de Regeling staten financiële ondernemingen Wft 
+####Bijlage bij artikel 2:2, eerste lid , van de Regeling staten financiële ondernemingen Wft frequentie en indieningstermijn staten
 
-#### *Frequentie en indieningstermijn staten* 
+### 6.1  
 
-#### *6.1 Banken en clearinginstellingen in Nederland* 
+####Banken en clearinginstellingen in Nederland
 
-| Staat  | Frequentie  | Indieningstermijn  | Rapportage geldt voor  |--- |--- |--- |--- |--- |--- |--- |--- | een bank en clearinginstelling als bedoeld in [artikel 3:72, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:82, eerste lid van de Wft](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  | Een bank als bedoeld in [artikel 3:77 van de Wft](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|  *COREP*   | --- | --- | --- | --- |
-| CA  | Per kalenderkwartaal  | Uiterlijk op de laatste werkdag van de maand, volgend op de verslagperiode (1)  | Ja  | Nee  |
-| CR SA  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  |
-| CR IRB  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  |
-| CR EQU IRB  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  |
-| CR SEC SA  | Per kalenderjaar  | Idem (1)  | Ja  | Nee  |
-| CR SEC IRB  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  |
-| CR SEC Details  | Per kalenderkwartaal voor IRB  Per kalenderjaar voor SA  | Idem (1)  | Ja  | Nee  |
-| MKR SA FX  | Per kalenderkwartaal  | Uiterlijk op de tiende werkdag van de tweede maand, volgend op de verslagperiode. (2)  | Ja  | Nee  |
-| MKR SA COM  | Per kalenderkwartaal  | Idem (2)  | Ja  | Nee  |
-| MKR SA EQU  | Per kalenderkwartaal  | Idem (2)  | Ja  | Nee  |
-| MKR SA TDI  | Per kalenderkwartaal  | Idem (2)  | Ja  | Nee  |
-| MKR IM  | Per kalenderkwartaal  | Idem (2)  | Ja  | Nee  |
-| MKR IM Details  | Per kalenderkwartaal  | Idem (2)  | Ja  | Nee  |
-| CR TB SETT  | Per kalenderkwartaal  | Idem (2)  | Ja  | Nee  |
-| OPR  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  |
-| Group Solvency Details  | Per kalenderjaar  | Uiterlijk de laatste werkdag van de tweede maand, volgend op de verslagperiode (3)  | Ja  | Nee  |
-| --- | --- | --- | --- | --- |
-|  *FINREP (IAS/IFRS)*   | --- | --- | --- | --- |
-| 1. Balance sheet statement  | Per kalenderkwartaal  | Idem (1)  | Ja  | Ja  |
-| 2. Profit & loss account  | Per kalenderkwartaal  | Idem (1)  | Ja  | Ja  |
-| 3. Breakdowns of certain financial assets portfolios  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  |
-| 4. Breakdowns of certain financial liabilities portfolios  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  |
-| 5. Impairment flow statement  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  |
-| 6. Related party disclosures  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  |
-| 7. Analysis of equity  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  |
-| --- | --- | --- | --- |
-| *FINREP* (Titel 9 banken)  | --- | --- | --- |
-| 1. Balance sheet statement  | Per kalenderkwartaal  | Idem (1)  | Ja  | Ja  |
-| 2. Profit & loss account  | Per kalenderkwartaal  | Idem (1)  | Ja  | Ja  |
-| 3. Breakdowns of certain financial assets portfolios  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  |
-| 4. Breakdowns of certain financial liabilities portfolios  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  |
-| 6. Related party disclosures  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  |
-| 7. Analysis of equity  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  |
-| --- | --- | --- | --- |
-|  *Pillar II*   | --- | --- | --- |
-| Renterisicorapportage  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  |
-| Bedrijfssectorconcentratierisico  | Per kalenderjaar  | Idem (1)  | Ja  | Nee  |
-| Concentratierisico op landen  | Per kalenderjaar  | Idem (1)  | Ja  | Nee  |
-| --- | --- | --- | --- | --- |
-|  *Overige rapportages*   | --- | --- | --- | --- |
-| 8011  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  |
-| 8017  | Per kalenderkwartaal  | Idem (2)  | Ja  | Nee  |
-| 8028  | Per kalendermaand  | Idem (1)  | Ja  | Ja  |
-| 8029  | Per kalendermaand  | Idem (1)  | Ja  | Ja  |
-| 8040  | Per kalendermaand  | Idem (1)  | Ja  | Ja  |
+| Staat  | Frequentie  | Indieningstermijn  | Rapportage geldt voor  |--- |--- |--- | een bank en clearinginstelling als bedoeld in artikel 3:72, eerste lid of 3:82, eerste lid van de Wft, onder:  | Een bank als bedoeld in artikel 3:77 van de Wft  |--- |--- |--- | Geconsolideerd toezicht  | Solo toezicht  | Gesubconsolideerd toezicht  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *COREP*   | --- | --- | --- | --- | --- | --- |
+| Capital Adequacy  | Per kalenderkwartaal  | Uiterlijk op de laatste werkdag van de maand, volgend op de verslagperiode (1)  | Ja  | Ja  | Ja  | Nee  |
+| Credit Risk SA  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+| Credit Risk IRB  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+| Credit Risk Equities IRB  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+| Credit Risk Securitisations SA  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+| Credit Risk Securitisations IRB  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+| Credit Risk Securitisations Details  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+| Market Risk FX SA  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+| Market Risk Commodities SA  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+| Market Risk Equities SA  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+| Market Risk TDI SA  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+| Market Risk Internal Models  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+| Market Risk Internal Models Details  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+| Credit Risk Trading Book Settlements  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+| Operational Risk  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+| Group Solvency Details  | Per kalenderkwartaal  | Uiterlijk de laatste werkdag van de tweede maand, volgend op de verslagperiode (3)  | Ja  | Nee  | Nee  | Nee  |
+|  *FINREP (IAS/IFRS)*   | --- | --- | --- | --- | --- | --- |
+| 1. Balance sheet statement  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Ja  |
+| 2. Profit & loss account  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Ja  |
+| 3. Breakdowns of certain financial assets portfolios  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+| 4. Breakdowns of certain financial liabilities portfolios  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+| 5. Impairment flow statement  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+| 6. Related party disclosures  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+| 7. Analysis of equity  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+|  *FINREP (Titel 9 banken)*   | --- | --- | --- | --- | --- | --- |
+| 1. Balance sheet statement  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Ja  |
+| 2. Profit & loss account  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Ja  |
+| 3. Breakdowns of certain financial assets portfolios  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+| 4. Breakdowns of certain financial liabilities portfolios  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+| 6. Related party disclosures  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+| 7. Analysis of equity  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Ja  | Nee  |
+|  *Pillar II*   | --- | --- | --- | --- | --- | --- |
+| Renterisicorapportage  | Per kalenderkwartaal  | Idem (1)  | Ja  | Nee  | Nee  | Nee  |
+| Bedrijfssectorconcentratie-risico  | Per kalenderjaar  | Idem (1)  | Ja  | Nee  | Nee  | Nee  |
+| Concentratierisico op landen  | Per kalenderjaar  | Idem (1)  | Ja  | Nee  | Nee  | Nee  |
+|  *Overige rapportages*   | --- | --- | --- | --- | --- | --- |
+| Large exposures  | Per kalenderkwartaal  | Uiterlijk op de tiende werkdag van de tweede maand, volgend op de verslagperiode. (2)  | Ja  | Ja  | Ja  | Nee  |
+| 8017  | Per kalenderkwartaal  | Idem (2)  | Ja  | Nee  | Nee  | Nee  |
+| 8028  | Per kalendermaand  | Idem (1)  | Ja  | Nee  | Nee  | Ja  |
+| 8029  | Per kalendermaand  | Idem (1)  | Ja  | Nee  | Nee  | Ja  |
+| 8040  | Per kalendermaand  | Idem (1)  | Ja  | Ja  | Ja  | Ja  |
 
-#### *6.2 Elektronischgeldinstellingen* 
+### 6.2  
+
+####Elektronischgeldinstellingen
 
 | Staat  | Frequentie  | Indieningstermijn  |
 |:---|:---|:---|
 |  *COREP*   | --- | --- |
-| CA  | Per kalenderkwartaal  | Uiterlijk op de laatste werkdag van de maand, volgend op de verslagperiode (1)  |
-| MKR SA FX  | Per kalenderkwartaal  | Uiterlijk op de tiende werkdag van de tweede maand, volgend op de verslagperiode.  |
-| --- | --- | --- |
-| *FINREP* (Titel 9)  | --- | --- |
+| Capital Adequacy  | Per kalenderkwartaal  | Uiterlijk op de laatste werkdag van de maand, volgend op de verslagperiode (1)  |
+| Market Risk FX SA  | Per kalenderkwartaal  | Uiterlijk op de tiende werkdag van de tweede maand, volgend op de verslagperiode (2)  |
+|  *FINREP (Titel 9)*   | --- | --- |
 | 1. Balance sheet statement  | Per kalenderkwartaal  | Idem (1)  |
 | 2. Profit & loss account  | Per kalenderkwartaal  | Idem (1)  |
-| --- | --- | --- |
 |  *Overige rapportages*   | --- | --- |
-| 8011  | Per kalenderkwartaal  | Idem (1)  |
+| Large exposures  | Per kalenderkwartaal  | Idem (2)  |
 | 8018  | Per kalenderkwartaal  | Idem (1)  |
 | Verklaring voorblad 8040  | Per kalenderkwartaal  | Idem (1)  |
 
-#### *6.3 Beleggingsondernemingen in Nederland* 
+### 6.3  
 
-| Staat  | Frequentie  | Indieningstermijn  |
-|:---|:---|:---|
-|  *COREP*   | --- | --- |
-| CA  | Per kalenderkwartaal  | Uiterlijk op de laatste werkdag van de maand, volgend op de verslagperiode (1)  |
-| CR SA  | Per kalenderkwartaal  | Idem (1)  |
-| CR IRB  | Per kalenderkwartaal  | Idem (1)  |
-| CR EQU IRB  | Per kalenderkwartaal  | Idem (1)  |
-| MKR SA FX  | Per kalenderkwartaal  | Idem (1)  |
-| MKR SA COM  | Per kalenderkwartaal  | Idem (1)  |
-| MKR SA EQU  | Per kalenderkwartaal  | Idem (1)  |
-| MKR SA TDI  | Per kalenderkwartaal  | Idem (1)  |
-| MKR IM  | Per kalenderkwartaal  | Idem (1)  |
-| MKR IM Details  | Per kalenderkwartaal  | Idem (1) Zal alleen op ad hoc-basis kunnen worden opgevraagd.  |
-| CR TB SETT  | Per kalenderkwartaal  | Idem (1)  |
-| OPR  | Per kalenderkwartaal  | Idem (1)  |
-| Group Solvency Details  | Per kalenderkwartaal  | Idem (1)  |
-| --- | --- | --- |
-|  *FINREP (IAS/IFRS)*   | --- | --- |
-| 1. Balance sheet statement  | Per kalenderkwartaal  | Idem (1)  |
-| 2. Profit & loss account  | Per kalenderkwartaal  | Idem (1)  |
-| 3. Breakdowns of certain financial assets portfolios  | Per kalenderkwartaal  | Idem (1)  |
-| 6. Related party disclosures  | Per kalenderkwartaal  | Idem (1)  |
-| 8. Breakdowns of certain income and expense items  | Per kalenderkwartaal  | Idem (1)  |
-| 9. Scope of application  | Per kalenderkwartaal  | Idem (1)  |
-| --- | --- | --- |
-| *FINREP* (Titel 9 banken)  | --- | --- |
-| 1. Balance sheet statement  | Per kalenderkwartaal  | Idem (1)  |
-| 2. Profit & loss account  | Per kalenderkwartaal  | Idem (1)  |
-| 3. Breakdowns of certain financial assets portfolios  | Per kalenderkwartaal  | Idem (1)  |
-| 6. Related party disclosures  | Per kalenderkwartaal  | Idem (1)  |
-| 8. Breakdowns of certain income and expense items  | Per kalenderkwartaal  | Idem (1)  |
-| 9. Scope of application  | Per kalenderkwartaal  | Idem (1)  |
-| --- | --- | --- |
-|  *Overige rapportages*   | --- | --- |
-| Vastekosteneis  | Per kalenderkwartaal  | Idem (1)  |
-| 8011 Grote posten rapportage  | Per kalenderkwartaal  | Idem (1)  |
-| 8040/voorblad (incl. compliance)  | Per kalendermaand  | Idem (1)  |
+####Beleggingsondernemingen in Nederland
+
+| Staat  | Frequentie  | Indieningstermijn  | Solo toezicht  | Ge(sub)consolideerd toezicht  | Set50k  | Vergunning a en/of d OF Handelaar ER  | Fin. Holding met onth. 4a.  |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *COREP*   | --- | --- | --- | --- | --- | --- | --- |
+| Capital Adequacy  | Per kalenderkwartaal  | Uiterlijk op de laatste werkdag van de maand, volgend op de verslagperiode (1)  | Ja  | Ja  | Ja  | Nee  | Nee  |
+| Credit Risk SA  | Per kalenderkwartaal  | Idem (1)  | Nee  | Ja  | Nee <sup>1</sup>  | Nee  | Nee  |
+| Credit Risk IRB  | Per kalenderkwartaal  | Idem (1)  | Nee  | Ja  | Nee  | Nee  | Nee  |
+| Credit Risk Equities IRB  | Per kalenderkwartaal  | Idem (1)  | Nee  | Ja  | Nee  | Nee  | Nee  |
+| Market Risk FX SA  | Per kalenderkwartaal  | Idem (1)  | Nee  | Ja  | Nee  | Nee  | Nee  |
+| Market Risk Commodities SA  | Per kalenderkwartaal  | Idem (1)  | Nee  | Ja  | Nee  | Nee  | Nee  |
+| Market Risk Equities SA  | Per kalenderkwartaal  | Idem (1)  | Nee  | Ja  | Nee  | Nee  | Nee  |
+| Market Risk TDI SA  | Per kalenderkwartaal  | Idem (1)  | Nee  | Ja  | Nee  | Nee  | Nee  |
+| Market Risk Internal Models  | Per kalenderkwartaal  | Idem (1)  | Nee  | Ja  | Nee  | Nee  | Nee  |
+| Market Risk Internal Models Details  | Per kalenderkwartaal  | Idem (1) Zal alleen op ad hoc-basis kunnen worden opgevraagd.  | Nee  | Ja  | Nee  | Nee  | Nee  |
+| Credit Risk Trading Book Settlements  | Per kalenderkwartaal  | Idem (1)  | Nee  | Ja  | Nee  | Nee  | Nee  |
+| Operational Risk  | Per kalenderkwartaal  | Idem (1)  | Nee  | Ja  | Nee  | Nee  | Nee  |
+|  *FINREP (IAS/IFRS)*   | --- | --- | --- | --- | --- | --- | --- |
+| 1. Balance sheet statement  | Per kalenderkwartaal  | Idem (1)  | Nee  | Ja  | Nee  | Nee  | Nee  |
+| --- | Per halfjaar  | Idem (1)  | Nee  | Nee  | Nee  | Ja  | Nee  |
+| --- | Per jaar  | Idem (1)  | Nee  | Nee  | Nee  | Nee  | Ja  |
+| 2. Profit & loss account  | Per kalenderkwartaal  | Idem (1)  | Nee  | Ja  | Nee  | Nee  | Nee  |
+| --- | Per halfjaar  | Idem (1)  | Nee  | Nee  | Nee  | Ja  | Nee  |
+| --- | Per jaar  | Idem (1)  | Nee  | Nee  | Nee  | Nee  | Ja  |
+| 8. Breakdowns of certain income and expense items  | Per kalenderkwartaal  | Idem (1)  | Nee  | Ja  | Nee  | Nee  | Nee  |
+| 9. Scope of application  | Per kalenderkwartaal  | Idem (1)  | Nee  | Ja  | Nee  | Nee  | Nee  |
+|  *FINREP (Titel 9 banken)*   | --- | --- | --- | --- | --- | --- | --- |
+| 1. Balance sheet statement  | Per kalenderkwartaal  | Idem (1)  | Nee  | Ja  | Ja  | Nee  | Nee  |
+| --- | Per halfjaar  | Idem (1)  | Nee  | Nee  | Nee  | Ja  | Nee  |
+| --- | Per jaar  | Idem (1)  | Nee  | Nee  | Nee  | Nee  | Ja  |
+| 2. Profit & loss account  | Per kalenderkwartaal  | Idem (1)  | Nee  | Ja  | Ja  | Nee  | Nee  |
+| --- | Per halfjaar  | Idem (1)  | Nee  | Nee  | Nee  | Ja  | Nee  |
+| --- | Per jaar  | Idem (1)  | Nee  | Nee  | Nee  | Nee  | Ja  |
+| 8. Breakdowns of certain income and expense items  | Per kalenderkwartaal  | Idem (1)  | Nee  | Ja  | Ja  | Nee  | Nee  |
+| 9. Scope of application  | Per kalenderkwartaal  | Idem (1)  | Nee  | Ja  | Nee  | Nee  | Nee  |
+|  *Overige rapportages*   | --- | --- | --- | --- | --- | Nee  | Nee  |
+| Vastekosteneis  | Per kalenderkwartaal  | Idem (1)  | Nee  | Ja  | Ja  | Nee  | Nee  |
+| Large exposure  | Per kalenderkwartaal  | Idem (2)  | Ja  | Ja  | Nee  | Nee  | Nee  |
+| 8040/voorblad (incl. compliance)  | Per kalendermaand  | Idem (1)  | Nee  | Ja  | Nee  | Nee  | Nee  |
+| --- | Per kalenderkwartaal  | Idem (1)  | Ja  | Ja  | Ja  | Nee  | Nee  |
+| --- | Per halfjaar  | Idem (1)  | Nee  | Nee  | Nee  | Ja  | Nee  |
+| --- | Per jaar  | Idem (1)  | Nee  | Nee  | Nee  | Nee  | Ja  |
+
+<sup>1</sup> Rapportageplicht indien kapitaalbeslag kredietrisico > vastekosteneis.  
 
 ### Bijlage  7  
 
@@ -276,7 +275,7 @@ Bijlage bij artikel 2:2, eerste lid, van de Regeling staten financiële ondernem
 
 ####Overzicht van de staten die de accountant betrekt bij zijn onderzoek
 
-Kredietinstellingen en clearinginstellingen 
+kredietinstellingen en clearinginstellingen als bedoeld in artikel 3:72, eerste lid van de wet en bijkantoren als bedoeld in artikel 3:82, eerste lid van de wet 
 
 | Categorie  | IFRS  | BW 2.9  |
 |:---|:---|:---|
@@ -307,18 +306,18 @@ Kredietinstellingen en clearinginstellingen
 | Credit Risk Equity Internal Models  | ja  | ja  |
 | Credit Risk Securitisations SA  | ja  | ja  |
 | Credit Risk Securitisations IRB  | ja  | ja  |
-| Credit Risk Sec Detailed SA  | ja  | ja  |
-| Credit Risk Sec Detailed IRB  | ja  | ja  |
+| Credit Risk securitisations Detailed SA  | ja  | ja  |
+| Credit Risk securitisations Detailed IRB  | ja  | ja  |
 | Credit Risk Trading Book Settlements  | ja  | ja  |
 | Market Risk TDI SA  | ja  | ja  |
 | Market Risk Equities SA  | ja  | ja  |
 | Market Risk FX SA  | ja  | ja  |
 | Market Risk Commodities SA  | ja  | ja  |
 | Market Risk Internal Models  | ja  | ja  |
-| Market Risk Int Models Details  | ja  | ja  |
-| Op Risk BIA  | ja  | ja  |
-| Op Risk STA/ASA  | ja  | ja  |
-| Op Risk AMA  | ja  | ja  |
+| Market Risk internal Models Details  | ja  | ja  |
+| operational Risk BIA  | ja  | ja  |
+| operational Risk STA/ASA  | ja  | ja  |
+| operational Risk AMA  | ja  | ja  |
 | Concentratierisico op landen  | ja  | ja  |
 | Renterisico rapp  | ja  | ja  |
 | Overige rapp  | nee  | nee  |
