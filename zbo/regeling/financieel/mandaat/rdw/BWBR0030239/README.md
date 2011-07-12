@@ -1,12 +1,16 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling van de Directie van de RDW (Dienst Wegverkeer) van 1 juni 2010, nr. JBZ2010/4249, houdende mandatering en volmachtverlening van het vragen van prijsopgaven en het aangaan van financiële verplichtingen aan functionarissen van de RDW (Regeling Financieel Mandaat RDW)
+##Regeling van de Directie van de RDW (Dienst Wegverkeer), houdende mandatering en volmachtverlening van het vragen van prijsopgaven en het aangaan van financiële verplichtingen aan functionarissen van de RDW (Regeling Financieel Mandaat RDW)
 
 De directie van de RDW,  
 Gelet op [artikel 4g van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en het Directiereglement RDW 2010 en de daartoe verleende instemming van de Raad van Toezicht;
 Besluit:    
 
 ### Artikel  1  
+
+De aan de Directie, bij [artikel 4g, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), verleende bevoegdheid wordt ten aanzien van het aangaan van financiële verplichtingen gemandateerd en volmacht verleend aan zowel de Algemeen Directeur en de Directeur Bedrijfsvoering, als aan hen ieder afzonderlijk.  
+
+### Artikel  1a  
 
 De aan de Directie bij [artikel 4g, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) verleende bevoegdheid wordt ten aanzien van het aangaan van financiële verplichtingen – voorzover ze een geldelijk belang van € 250.000,– inclusief BTW niet te boven gaan – gemandateerd en volmacht verleend aan: 
 
@@ -50,15 +54,13 @@ g. de volgende functionarissen, werkzaam bij de Divisie Voertuigtechniek, te wet
 
 4. de Manager APK;  
 
-5. de Manager IK;  
-
-6. het Hoofd Algemene Staf;    
+5. de Manager IK;    
 
 h. de volgende functionarissen, werkzaam bij de Divisie Registratie en Informatie, te weten: 
 
 1. de Afdelingsmanager Operations;  
 
-2. de Afdelingsmanager Relatiemanagement;  
+2. de Afdelingsmanager Relatiemanagement RDW;  
 
 3. de Afdelingsmanager Klantenservice;  
 
@@ -80,9 +82,11 @@ a. de volgende functionarissen werkzaam bij het Facilitair Bedrijf:
 
 1. de Unitmanager interne dienst;  
 
-2. het Hoofd van de technische dienst;  
+2. de Unitmanager management ondersteuning;  
 
-3. het Hoofd van de afdeling Documenten en Informatievoorziening (DIV);    
+3. het Hoofd van de technische dienst;  
+
+4. het Hoofd van de afdeling Documenten en Informatievoorziening (DIV);    
 
 b. de volgende functionarissen werkzaam bij het bedrijfsproces Typegoedkeuring, Toelating Exceptioneel Transport en Individueel Keuren Speciaal: 
 
@@ -150,7 +154,11 @@ g. de volgende functionarissen werkzaam bij de afdeling RDW Klantenservice van d
 
 3. de unitmanager Landelijk Informatiecentrum Voertuigcriminaliteit (LIV);  
 
-4. de unitmanager Kennismanagement.      
+4. de unitmanager Kennismanagement.    
+
+h. de volgende functionaris werkzaam bij de afdeling Projectmanagement en Support, te weten: 
+
+– de unitmanager Planning & Control.      
 
 ### Artikel  6  
 
@@ -176,7 +184,7 @@ De in de artikelen 1 tot en met 6, bedoelde volmachten betreffen tenzij anders v
 
 ### Artikel  9  
 
-De aan de Directie bij [artikel 4g, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) verleende bevoegdheid wordt ten aanzien van het aangaan van verplichtingen, in het kader van dienstverlening voor derden op basis van de [Regeling taken Dienst Wegverkeer](../../../../../../ministeriele-regeling/regeling/taken/dienst/wegverkeer/BWBR0008144/README.md), – voorzover ze een geldelijk belang van € 200.000,– inclusief BTW niet te boven gaan – mandaat en volmacht verleend aan: 
+De aan de Directie bij [artikel 4g, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) verleende bevoegdheid wordt ten aanzien van het aangaan van verplichtingen, in het kader van dienstverlening voor derden op basis van de Regeling taken Dienst Wegverkeer, – voorzover ze een geldelijk belang van € 200.000,– inclusief BTW niet te boven gaan – mandaat en volmacht verleend aan: 
 
 a. de Divisiemanager Voertuigtechniek;  
 
@@ -186,9 +194,9 @@ b. de Divisiemanager Registratie en Informatie.
 
 De aan de Directie bij [artikel 4g, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) verleende bevoegdheid wordt ten aanzien van het aangaan van verplichtingen, in het kader van dienstverlening voor derden op basis van de [Regeling taken Dienst Wegverkeer](../../../../../../ministeriele-regeling/regeling/taken/dienst/wegverkeer/BWBR0008144/README.md), – voorzover ze een geldelijk belang van € 50.000,– inclusief BTW niet te boven gaan – mandaat en volmacht verleend aan: 
 
-a. de Afdelingsmanager Relatiemanagement;  
+a. de Afdelingsmanager Relatiemanagement RDW;  
 
-b. de R&I Relatiemanagers;  
+b. de Relatiemanagers;  
 
 c. de Manager ICT Bedrijf (Informatie en Communicatie Technologie);  
 
@@ -210,7 +218,7 @@ k. de Manager Typegoedkeuring (betreft het bedrijfsproces Typegoedkeuring, Toela
 
 ### Artikel  11  
 
-De aan de Directie bij [artikel 4g, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) verleende bevoegdheid wordt ten aanzien van het aangaan van verplichtingen, in het kader van dienstverlening voor derden op basis van de [Regeling taken Dienst Wegverkeer](../../../../../../ministeriele-regeling/regeling/taken/dienst/wegverkeer/BWBR0008144/README.md), – voorzover ze een geldelijk belang van € 25.000,– inclusief BTW niet te boven gaan – mandaat en volmacht verleend aan: 
+De aan de Directie bij [artikel 4g, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) verleende bevoegdheid wordt ten aanzien van het aangaan van verplichtingen, in het kader van dienstverlening voor derden op basis van de Regeling taken Dienst Wegverkeer, – voorzover ze een geldelijk belang van € 25.000,– inclusief BTW niet te boven gaan – mandaat en volmacht verleend aan: 
 
 – de Manager van het Testcentrum Lelystad (TCL).    
 
@@ -227,7 +235,7 @@ a. Aan de Directie blijven voorbehouden:
 
 – het aangaan van nationale en internationale samenwerkingsverbanden;  
 
-– het aangaan van verplichtingen in het kader van dienstverlening voor derden, met dien verstande dat deze verplichtingen ook mogen worden aangegaan door de in de artikelen 8, 9 en 10 van deze regeling genoemde functionarissen, voorzover ze de in deze artikelen bedoelde geldelijke belangen niet te boven gaan;  
+– het aangaan van verplichtingen in het kader van dienstverlening voor derden, met dien verstande dat deze verplichtingen ook mogen worden aangegaan door de in de artikelen 9, 10 en 11 van deze regeling genoemde functionarissen, voorzover ze de in deze artikelen bedoelde geldelijke belangen niet te boven gaan;  
 
 – de aanschaf van onroerende zaken en het vervreemden van roerende en onroerende zaken.    
 
@@ -237,11 +245,11 @@ b. Aan de Directie en de in artikel 1 genoemde functionarissen blijven voorbehou
 
 ### Artikel  14  
 
-De in de artikelen 1 tot en met 13 genoemde functionarissen maken van het aan hen verleende mandaat en volmacht uitsluitend gebruik, 
+De in de artikelen 1 tot en met 13 genoemde functionarissen maken van het aan hen verleende mandaat en de aan hen verleende volmacht uitsluitend gebruik, 
 
 a. voorzover het aangelegenheden betreft die behoren tot hun werkterrein en als zodanig zijn opgenomen in het door de directie vastgestelde werkplan of het financiële meerjarenbeleidplan,  
 
-b. met inachtneming van de geldende richtlijnen en procedures.    
+b. met inachtneming van de geldende richtlijnen en procedures, waaronder het zorgdragen voor een vastlegging in de administratie van de RDW van de verplichtingen die zijn aangegaan, conform de daarvoor geldende definities van kostensoorten.    
 
 ### Artikel  15  
 
@@ -257,7 +265,7 @@ De stukken die door de in de artikelen 1 tot en met 11 genoemde functionarissen 
 
 ### Artikel  18  
 
-De [Regeling Financieel Mandaat RDW van 25 september 2009](../../../../../../zbo/regeling/financieel/mandaat/rdw/BWBR0026486/README.md), Stcrt 2009, nr. 15172, wordt ingetrokken.  
+De [Regeling Financieel Mandaat RDW](../../../../../../zbo/regeling/financieel/mandaat/rdw/BWBR0027839/README.md) van 1 juni 2010, JBZ 2010/4249, Stcrt. 2010, 10229 wordt ingetrokken.  
 
 ### Artikel  19  
 
@@ -265,10 +273,11 @@ Deze regeling wordt aangehaald als: ‘Regeling Financieel Mandaat RDW’.
 
 ### Artikel  20  
 
-Deze regeling wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de eerste dag na uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juni 2010. Een afschrift zal worden gezonden aan de in deze regeling genoemde functionarissen.  
+Deze regeling wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de eerste dag na uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2011.  
+Een afschrift zal worden gezonden aan de in deze regeling genoemde functionarissen.   
 
 Zoetermeer 
-1 juni 2010   
+27 juni 2011   
 
 De directie van de RDW, 
 J.G. Hakkenberg,  
