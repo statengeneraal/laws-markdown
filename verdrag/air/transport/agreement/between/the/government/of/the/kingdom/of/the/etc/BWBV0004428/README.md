@@ -190,7 +190,7 @@ II.  *All Cargo Operations*  The designated all cargo airline(s) of either Contr
 
 III. 
 
-a) The designated airline of the Netherlands shall have no traffic rights, including stopover rights, between Bangkok and Singapore, on the one hand, and Manila, on the other.  
+a) Points not covered under the Routes under Annex 1 and Annex II respectively, as amended, may be served on flights operating to or through the territory of the other Contracting Party. However, local traffic rights between such points and the territory of the other Contracting Party shall be the subject of prior consultations.  
 
 b) The designated airlines may overfly or omit any of the specified points.  
 
