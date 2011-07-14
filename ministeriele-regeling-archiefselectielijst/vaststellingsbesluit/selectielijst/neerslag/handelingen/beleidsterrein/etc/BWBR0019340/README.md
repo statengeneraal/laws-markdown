@@ -10,11 +10,11 @@ Besluiten:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ [selectielijst voor de neerslag van de handelingen van de Minister van Defensie en de onder hem ressorterende actoren op het beleidsterrein Militair Personeel over de periode vanaf 1945](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0019337/README.md) ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘[selectielijst voor de neerslag van de handelingen van de Minister van Defensie en de onder hem ressorterende actoren op het beleidsterrein Militair Personeel over de periode vanaf 1945](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0019337/README.md)’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel 2  
 
-De [Selectielijst voor de neerslag van handelingen van de Minister van Defensie op het beleidsterrein militair personeel over de periode 1945–1993](../../../../../../../../ministeriele-regeling-archiefselectielijst/selectielijst/neerslag/handelingen/minister/van/defensie/op/het/etc/BWBR0011668/README.md), vastgesteld bij besluit van 27 september 2000 van de Minister van Defensie en de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen (Stcrt. 2000, 242) wordt ingetrokken.  
+De [Selectielijst voor de neerslag van handelingen van de Minister van Defensie op het beleidsterrein militair personeel over de periode 1945–1993](../../../../../../../../ministeriele-regeling-archiefselectielijst/selectielijst/neerslag/handelingen/minister/van/defensie/op/het/etc/BWBR0011668/README.md), vastgesteld bij besluit van 27 september 2000 van de Minister van Defensie en de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen (Stcrt. 2000, 242) wordt ingetrokken. 
 
 ### Artikel  3  
 
@@ -46,34 +46,34 @@ Van de ‘Lijst van te vernietigen archiefbescheiden van het Ministerie van Defe
 
 – hoofdstuk 6300/7300/8300, nrs. 62, 63 en 68;  
 
-– hoofdstuk 6400/7400/8400, nr. 48.    
+– hoofdstuk 6400/7400/8400, nr. 48.   
 
 ### Artikel  4  
 
-Van de Selectielijst Arbeidsvoorwaarden rijkspersoneel (Stcrt. 2001, 200) worden de handelingen 213 en 248 voor de actor de Minister van Defensie ingetrokken.  
+Van de Selectielijst Arbeidsvoorwaarden rijkspersoneel (Stcrt. 2001, 200) worden de handelingen 213 en 248 voor de actor de Minister van Defensie ingetrokken. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende [selectielijst](../../../../../../../../ministeriele-regeling-archiefselectielijst/vaststellingsbesluit/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0019337/README.md) en toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 19 december 2005   
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
 
-namens deze:  
+namens deze:
 
 de 
 Algemene Rijksarchivaris, 
-M.W. vanBoven 
+M.W. van Boven   
 
 De 
-Minister van Defensie, 
+Minister van Defensie,
 
-namens deze:  
+namens deze:
 
 de 
 plv. Secretaris-Generaal, 
-M.W.Gout-van Sinderen   
+M.W. Gout-van Sinderen     

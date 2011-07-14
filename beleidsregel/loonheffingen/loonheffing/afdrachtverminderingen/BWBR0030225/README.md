@@ -26,13 +26,13 @@ Dit besluit is een actualisering van het [besluit van 4 juli 2007](../../../../.
 
 *toetsloon:* loon in de zin van [artikel 1, eerste lid, onderdeel d, van de WVA](../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md)  
 
-*URAV:* [Uitvoeringsregeling afdrachtvermindering](../../../../../ministeriele-regeling/uitvoeringsregeling/afdrachtvermindering/BWBR0007780/README.md)   
+*URAV:* [Uitvoeringsregeling afdrachtvermindering](../../../../../ministeriele-regeling/uitvoeringsregeling/afdrachtvermindering/BWBR0007780/README.md)  
 
 *werkgever:* inhoudingsplichtige voor de loonheffingen  
 
-*Wet LB:* [Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)   
+*Wet LB:* [Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)  
 
-*WVA:* [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md)   
+*WVA:* [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md)  
 
 *WVA-loon:* loon in de zin van [artikel 1, eerste lid, onderdeel c, van de WVA](../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md)       
 ### 2  
@@ -166,5 +166,5 @@ Den Haag
 29 juni 2011   
 
 De 
-staatssecretaris van Financiën,
-F.H.H.Weekers   
+staatssecretaris van Financiën, 
+F.H.H. Weekers     

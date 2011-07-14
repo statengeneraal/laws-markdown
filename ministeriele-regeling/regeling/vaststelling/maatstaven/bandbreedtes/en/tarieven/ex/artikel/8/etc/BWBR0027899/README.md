@@ -7,10 +7,12 @@ Gelet op [artikel 8, vierde lid, van de Wet toezicht trustkantoren](../../../..
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 14-07-2012 
 
-In deze regeling wordt verstaan onder wet: [Wet toezicht trustkantoren](../../../../../../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md).  
+In deze regeling wordt verstaan onder wet: [Wet toezicht trustkantoren](../../../../../../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md). 
 
 ### Artikel  2  
+Materieel uitgewerkt per 14-07-2012 
 
 1.  Het tarief, bedoeld in [artikel 8, tweede lid, van de Regeling bekostiging Wet toezicht trustkantoren](../../../../../../../../../../../../ministeriele-regeling/regeling/bekostiging/wet/toezicht/trustkantoren/BWBR0016444/README.md), wordt voor het jaar 2010 vastgesteld op: 
 
@@ -27,13 +29,14 @@ e. € 4.150 bij een omzet en overige opbrengsten uit diensten als bedoeld in [
 f. € 5.400 bij een omzet en overige opbrengsten uit diensten als bedoeld in [artikel 1, onderdeel d, van de wet](../../../../../../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md) in 2009 van ten minste € 2.000.000 en minder dan € 5.000.000;  
 
 g. € 6.800 bij een omzet en overige opbrengsten uit diensten als bedoeld in [artikel 1, onderdeel d, van de wet](../../../../../../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md) in 2009 van ten minste € 5.000.000.     
-2.  In afwijking van het eerste lid geldt voor een trustkantoor dat op 1 januari 2010 nog niet stond ingeschreven in het register, bedoeld in [artikel 7 van de wet](../../../../../../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md), het in het eerste lid, onderdeel a, bedoelde tarief.   
+2.  In afwijking van het eerste lid geldt voor een trustkantoor dat op 1 januari 2010 nog niet stond ingeschreven in het register, bedoeld in [artikel 7 van de wet](../../../../../../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md), het in het eerste lid, onderdeel a, bedoelde tarief.  
 
 ### Artikel  3  
+Materieel uitgewerkt per 14-07-2012 
 
-Deze regeling treedt in werking met ingang van de dag na de datum van de uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de datum van de uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Financiën,
-J.C. deJager.   
+Minister van Financiën, 
+J.C. de Jager.     

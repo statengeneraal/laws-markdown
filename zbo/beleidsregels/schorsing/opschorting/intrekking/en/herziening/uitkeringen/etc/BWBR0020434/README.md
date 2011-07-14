@@ -3,7 +3,7 @@
 ##Beleidsregels schorsing, opschorting, intrekking en herziening uitkeringen 2006
 
 Het Uitvoeringsinstituut werknemersverzekeringen,  
-Gelet op de [artikelen 22a](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en [30 van de Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [30a](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), [41](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) en [47a van de Ziektewet](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), [30](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [36](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [36a](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [50](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) en [50a van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [39](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [49](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [56](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [67](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [69](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [76 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [11](../../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [12](../../../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [18](../../../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [55](../../../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) en [55a van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [10](../../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [11](../../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [16](../../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en [47 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [11a](../../../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md), [15](../../../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md), [15a](../../../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md) en [15b van de Toeslagenwet](../../../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md) en [3:14](../../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), [3:16](../../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), [3:25](../../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) en [3:27 van de Wet arbeid en zorg](../../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md);
+Gelet op de artikelen 22a en 30 van de Werkloosheidswet, 30a, 41 en 47a van de Ziektewet, 30, 36, 36a, 50 en 50a van de Wet op de arbeidsongeschiktheidsverzekering, 39, 49, 56, 67, 69 en 76 van de Wet werk en inkomen naar arbeidsvermogen, 11, 12, 18, 55 en 55a van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, 10, 11, 16 en 47 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, 11a, 15, 15a en 15b van de Toeslagenwet en 3:14, 3:16, 3:25 en 3:27 van de Wet arbeid en zorg;
 Besluit:    
 
 ### Artikel  1  
@@ -22,23 +22,25 @@ d. intrekking: het besluit een uitkering te beëindigen met ingang van een daarb
 
 e. herziening: het besluit een uitkering te verlagen met ingang van een daarbij aangegeven dag;  
 
-f. WW: [Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+f. WW: Werkloosheidswet;  
 
-g. ZW: [Ziektewet](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+g. ZW: Ziektewet;  
 
-h. WAO: [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+h. WAO: Wet op de arbeidsongeschiktheidsverzekering;  
 
-i. Wet WIA: [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
+i. Wet WIA: Wet werk en inkomen naar arbeidsvermogen;  
 
-j. Waz: [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  
+j. Waz: Wet arbeidsongeschiktheidsverzekering zelfstandigen;  
 
-k. Wet Wajong: [Wet werk en arbeidondersteuning jonggehandicapten](../../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
+k. Wet Wajong: Wet werk en arbeidondersteuning jonggehandicapten;  
 
-l. WAZO: [Wet arbeid en zorg](../../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md);  
+l. WAZO: Wet arbeid en zorg;  
 
-m. TW: [Toeslagenwet](../../../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md).     
-2.  In dit besluit wordt onder uitkering tevens verstaan: ziekengeld ingevolge de [ZW](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), inkomensondersteuning ingevolge de [Wet Wajong](../../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en toeslag ingevolge de [TW](../../../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md).   
-3.  In dit besluit wordt onder verzekerde tevens verstaan: de werknemer ingevolge de [WW](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de jonggehandicapte ingevolge de [Wet Wajong](../../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de persoon die recht heeft op toeslag ingevolge de [TW](../../../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md) en de werknemer, de gelijkgestelde en de beroepsbeoefenaar op arbeidsovereenkomst in de zin van de [WAZO](../../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md).   
+m. TW: Toeslagenwet;  
+
+n. Wet IOW: Wet inkomensvoorziening oudere werklozen.     
+2.  In dit besluit wordt onder uitkering tevens verstaan: ziekengeld ingevolge de ZW, inkomensondersteuning ingevolge de Wet Wajong en toeslag ingevolge de TW.   
+3.  In dit besluit wordt onder verzekerde tevens verstaan: de werknemer ingevolge de WW, de jonggehandicapte ingevolge de Wet Wajong, de persoon die recht heeft op toeslag ingevolge de TW, de aanvrager en de uitkeringsgerechtigde ingevolge de Wet IOW en de werknemer, de gelijkgestelde en de beroepsbeoefenaar op arbeidsovereenkomst in de zin van de WAZO.   
 
 ### Artikel  2  
 
@@ -68,7 +70,7 @@ m. TW: [Toeslagenwet](../../../../../../../../../../wet/toeslagenwet/BWBR0004043
 
 ####Intrekking of herziening met een uitlooptermijn
 
-1.  Bij toepassing van [artikel 30 van de WAO](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [artikel 43, onderdeel c](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), in samenhang met [artikel 46, tweede lid, van de Wet WIA](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [artikel 11 van de Waz](../../../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) of [artikel 3: 11 van de Wet Wajong](../../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) op een ogenblik waarop reeds uitkering is toegekend, wordt in beginsel een uitlooptermijn in acht genomen van twee maanden. Indien de verzekerde in het buitenland verblijft en bij intrekking of herziening van de uitkering wegens afname van de arbeidsongeschiktheid een uitlooptermijn van zes maanden zou zijn gehanteerd, bedraagt de uitlooptermijn bedoeld in de eerste zin zes maanden.   
+1.  Bij toepassing van artikel 30 van de WAO, artikel 43, onderdeel c, in samenhang met artikel 46, tweede lid, van de Wet WIA, artikel 11 van de Waz of artikel 3: 11 van de Wet Wajong op een ogenblik waarop reeds uitkering is toegekend, wordt in beginsel een uitlooptermijn in acht genomen van twee maanden. Indien de verzekerde in het buitenland verblijft en bij intrekking of herziening van de uitkering wegens afname van de arbeidsongeschiktheid een uitlooptermijn van zes maanden zou zijn gehanteerd, bedraagt de uitlooptermijn bedoeld in de eerste zin zes maanden.   
 2.  Indien in een geval als bedoeld in het eerste lid de toekenning van de uitkering heeft plaatsgevonden als gevolg van het feit dat de verzekerde zijn inlichtingenverplichting of medewerkingsverplichting niet is nagekomen, wordt de uitkering ingetrokken of herzien met ingang van de dag vanaf welke zij is toegekend.   
 
 ### Artikel  6  

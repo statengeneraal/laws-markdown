@@ -15,23 +15,23 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit eigen bijdrage rechtsbijstand.   
+Wijzigt het Besluit eigen bijdrage rechtsbijstand. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit vergoedingen rechtsbijstand 2000.   
+Wijzigt het Besluit vergoedingen rechtsbijstand 2000. 
 
 ### Artikel  III  
 
-Wijzigt het Besluit vergoedingen rechtsbijstand 2000.   
+Wijzigt het Besluit vergoedingen rechtsbijstand 2000. 
 
 ### Artikel  IV  
 
-Het [Besluit eigen bijdrage rechtsbijstand](../../../../../../../../../../AMvB/besluit/eigen/bijdrage/rechtsbijstand/BWBR0025277/README.md), zoals dat luidde op de dag vóór de dag van inwerkingtreding van dit besluit, blijft van toepassing op aanvragen om een toevoeging die door het bestuur zijn ontvangen vóór de dag van inwerkingtreding van dit besluit.  
+Het [Besluit eigen bijdrage rechtsbijstand](../../../../../../../../../../AMvB/besluit/eigen/bijdrage/rechtsbijstand/BWBR0025277/README.md), zoals dat luidde op de dag vóór de dag van inwerkingtreding van dit besluit, blijft van toepassing op aanvragen om een toevoeging die door het bestuur zijn ontvangen vóór de dag van inwerkingtreding van dit besluit. 
 
 ### Artikel  V  
 
-Dit besluit treedt in werking met ingang van 1 juli 2011.  
+Dit besluit treedt in werking met ingang van 1 juli 2011. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -39,10 +39,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 22 juni 2011  
 Beatrix  
 
-De Staatssecretaris van Veiligheid en Justitie, 
+De Staatssecretaris van Veiligheid en Justitie,  
 F. Teeven   
 
 de *negenentwintigste* juni 2011 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

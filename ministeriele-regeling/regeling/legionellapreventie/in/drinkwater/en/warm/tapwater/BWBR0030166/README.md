@@ -12,9 +12,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*besluit:*[Drinkwaterbesluit](../../../../../../../../../AMvB/drinkwaterbesluit/BWBR0030111/README.md);  
+*besluit:* [Drinkwaterbesluit](../../../../../../../../../AMvB/drinkwaterbesluit/BWBR0030111/README.md);  
 
-*eenvoudige drinkwaterinstallatie:* samenstel van leidingen, fittingen en toestellen na de watermeter, aangesloten op het leidingnet van een drinkwaterbedrijf of een collectieve watervoorziening dan wel op een collectief leidingnet, dat in omvang en complexiteit overeenkomt met dat van een eengezinswoning;    
+*eenvoudige drinkwaterinstallatie:* samenstel van leidingen, fittingen en toestellen na de watermeter, aangesloten op het leidingnet van een drinkwaterbedrijf of een collectieve watervoorziening dan wel op een collectief leidingnet, dat in omvang en complexiteit overeenkomt met dat van een eengezinswoning;   
 
 ### Artikel  2  
 
@@ -39,28 +39,28 @@ g. herstellingsoorden;
 h. geestelijke gezondheids- en verslavingszorg met overnachting bestemd voor dak- en thuislozen of verslaafden;  
 
 i. maatschappelijke opvang voor volwassenen met verblijfsaccommodatie bestemd voor dak- en thuislozen of verslaafden;     
-2.  Het eerste lid is niet van toepassing op zorginstellingen waar uitsluitend sprake is van een of meerdere eenvoudige drinkwaterinstallaties.   
+2.  Het eerste lid is niet van toepassing op zorginstellingen waar uitsluitend sprake is van een of meerdere eenvoudige drinkwaterinstallaties.  
 
 ### Artikel  3  
 
 ####Onderzoek legionella door drinkwaterbedrijf
 
 1.  De eigenaar van een drinkwaterbedrijf onderzoekt het drinkwater na de laatste zuiveringsstap ten minste halfjaarlijks.   
-2.  De eigenaar van een drinkwaterbedrijf onderzoekt het drinkwater in zijn distributiegebied overeenkomstig de frequentie, bedoeld in bijlage 1 bij deze regeling.   
+2.  De eigenaar van een drinkwaterbedrijf onderzoekt het drinkwater in zijn distributiegebied overeenkomstig de frequentie, bedoeld in bijlage 1 bij deze regeling.  
 
 ### Artikel  4  
 
 ####Aanwijzing soorten Legionellabacterie
 
-1.  Als soorten legionellabacterie waarvoor de in [artikel 36, eerste lid, van het besluit](../../../../../../../../../AMvB/drinkwaterbesluit/BWBR0030111/README.md) bedoelde kwaliteitseis van toepassing is, worden aangewezen: *L. anisa, L. birminghamensis, L. bozemanii, L. cincinnatiensis, L. dumoffii, L. erythra, L. feeleii, L. gormanii, L. hackeliae, L. jordanis, L. lansingensis, L. longbeachae, L. maceachernii, L. micdadei, L. oakridgensis, L. parisiensis, L. pneumophila, L. sainthelensi, L. tusconensis, L. wadsworthii* en *L. waltersii.*   
+1.  Als soorten legionellabacterie waarvoor de in [artikel 36, eerste lid, van het besluit](../../../../../../../../../AMvB/drinkwaterbesluit/BWBR0030111/README.md) bedoelde kwaliteitseis van toepassing is, worden aangewezen: *L. anisa, L. birminghamensis, L. bozemanii, L. cincinnatiensis, L. dumoffii, L. erythra, L. feeleii, L. gormanii, L. hackeliae, L. jordanis, L. lansingensis, L. longbeachae, L. maceachernii, L. micdadei, L. oakridgensis, L. parisiensis, L. pneumophila, L. sainthelensi, L. tusconensis, L. wadsworthii* en *L. waltersii.*    
 2.  Indien bij toepassing van de in artikel 7 bedoelde methode blijkt dat het water minder dan 100 kolonievormende eenheden legionellabacteriën per liter bevat, wordt ervan uit gegaan dat de in het eerste lid genoemde legionellasoorten in het water aanwezig zijn in aantallen kleiner dan 100 kolonievormende eenheden per liter.   
-3.  Indien bij toepassing van de in artikel 7 bedoelde methode blijkt dat het water 100 of meer kolonievormende eenheden legionellabacteriën per liter bevat, wordt ervan uit gegaan dat de in het eerste lid genoemde soorten legionellabacterie in het water aanwezig zijn in aantallen groter of gelijk aan 100 kolonievormende eenheden per liter, tenzij het tegendeel wordt aangetoond.   
+3.  Indien bij toepassing van de in artikel 7 bedoelde methode blijkt dat het water 100 of meer kolonievormende eenheden legionellabacteriën per liter bevat, wordt ervan uit gegaan dat de in het eerste lid genoemde soorten legionellabacterie in het water aanwezig zijn in aantallen groter of gelijk aan 100 kolonievormende eenheden per liter, tenzij het tegendeel wordt aangetoond.  
 
 ### Artikel  5  
 
 ####Legionella-risicoanalyse
 
-De eigenaar van een collectieve watervoorziening of collectief leidingnet als bedoeld in [artikel 35, eerste lid, van het besluit](../../../../../../../../../AMvB/drinkwaterbesluit/BWBR0030111/README.md), voert een legionella-risicoanalyse uit overeenkomstig de daarvoor in bijlage 2 bij deze regeling opgenomen voorschriften en draagt zorg voor de in verband daarmee te treffen maatregelen.  
+De eigenaar van een collectieve watervoorziening of collectief leidingnet als bedoeld in [artikel 35, eerste lid, van het besluit](../../../../../../../../../AMvB/drinkwaterbesluit/BWBR0030111/README.md), voert een legionella-risicoanalyse uit overeenkomstig de daarvoor in bijlage 2 bij deze regeling opgenomen voorschriften en draagt zorg voor de in verband daarmee te treffen maatregelen. 
 
 ### Artikel  6  
 
@@ -70,60 +70,60 @@ De eigenaar van een collectieve watervoorziening of collectief leidingnet als be
 2.  In afwijking van het eerste lid kan het nemen en analyseren van monsters geschieden door medisch microbiologische laboratoria, onder verantwoordelijkheid van een arts-microbioloog, die een kwaliteitsborgingssysteem hanteren dat gebaseerd is op ISO 15189: 2007 of een gelijkwaardige norm en die daarvoor overeenkomstig deze norm geaccrediteerd zijn.   
 3.  Het nemen van monsters ter uitvoering van [hoofdstuk 4 van het besluit](../../../../../../../../../AMvB/drinkwaterbesluit/BWBR0030111/README.md) kan tevens plaatsvinden door bedrijven en personen die een kwaliteitsborgingssysteem hanteren dat gebaseerd is op NEN-EN-ISO/IEC 17025:2005 of een gelijkwaardige norm en die daarvoor overeenkomstig deze norm geaccrediteerd zijn.   
 4.  Het analyseren van monsters ten behoeve van drinkwaterbedrijven geschiedt door laboratoria als bedoeld in het eerste lid die daartoe zijn aangewezen door Onze Minister op grond van [artikel 9, vierde lid, van de Drinkwaterregeling](../../../../../../../../../ministeriele-regeling/drinkwaterregeling/BWBR0030152/README.md).   
-5.  Een gelijkwaardige norm als bedoeld in het eerste, tweede of derde lid wordt uitsluitend toegepast na daartoe verkregen toestemming van de inspecteur. Bij de aanvraag worden alle voor de beoordeling van de gelijkwaardigheid van de bedoelde norm relevante gegevens in de door de inspecteur aangegeven vorm aan hem overgelegd.   
+5.  Een gelijkwaardige norm als bedoeld in het eerste, tweede of derde lid wordt uitsluitend toegepast na daartoe verkregen toestemming van de inspecteur. Bij de aanvraag worden alle voor de beoordeling van de gelijkwaardigheid van de bedoelde norm relevante gegevens in de door de inspecteur aangegeven vorm aan hem overgelegd.  
 
 ### Artikel  7  
 
 ####Eisen aan de wijze van monstername en analyse
 
 1.  Het nemen en analyseren van monsters ter uitvoering [hoofdstuk 4 van het besluit](../../../../../../../../../AMvB/drinkwaterbesluit/BWBR0030111/README.md) geschiedt overeenkomstig NEN 6265:2007 of een gelijkwaardige methode.   
-2.  Een gelijkwaardige methode als bedoeld in het eerste lid wordt uitsluitend toegepast na daartoe verkregen toestemming van de inspecteur. Bij de aanvraag worden alle voor de beoordeling van de gelijkwaardigheid van de bedoelde methode relevante gegevens in de door de inspecteur aangegeven vorm aan hem overgelegd.   
+2.  Een gelijkwaardige methode als bedoeld in het eerste lid wordt uitsluitend toegepast na daartoe verkregen toestemming van de inspecteur. Bij de aanvraag worden alle voor de beoordeling van de gelijkwaardigheid van de bedoelde methode relevante gegevens in de door de inspecteur aangegeven vorm aan hem overgelegd.  
 
 ### Artikel  8  
 
 ####Bepaling aantal meetpunten
 
-Het aantal meetpunten dat wordt betrokken in het onderzoek, bedoeld in [artikel 43, eerste lid, van het besluit](../../../../../../../../../AMvB/drinkwaterbesluit/BWBR0030111/README.md), wordt bepaald overeenkomstig bijlage 3 bij deze regeling.  
+Het aantal meetpunten dat wordt betrokken in het onderzoek, bedoeld in [artikel 43, eerste lid, van het besluit](../../../../../../../../../AMvB/drinkwaterbesluit/BWBR0030111/README.md), wordt bepaald overeenkomstig bijlage 3 bij deze regeling. 
 
 ### Artikel  9  
 
 ####Volgorde beheersmaatregelen
 
-*(gereserveerd)*   
+*(gereserveerd)*  
 
 ### Artikel  10  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking op het tijdstip waarop de Drinkwaterwet in werking treedt. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven op of na het tijdstip, bedoeld in de eerste volzin, treedt deze regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking op het tijdstip waarop de Drinkwaterwet in werking treedt. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven op of na het tijdstip, bedoeld in de eerste volzin, treedt deze regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  11  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling legionellapreventie in drinkwater en warm tapwater  
+Deze regeling wordt aangehaald als: Regeling legionellapreventie in drinkwater en warm tapwater 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 27 juni 2011   
 
 De 
-Staatssecretaris van Infrastructuur en Milieu,
-J.J.Atsma  
+Staatssecretaris van Infrastructuur en Milieu, 
+J.J. Atsma    
 
 ### Bijlage  1  
 
 ####Meetfrequenties in verband met de uitvoering van metingen op aanwezigheid van legionellabacteriën in het drinkwater in het distributiegebied door een drinkwaterbedrijf
 
-| Dagelijks binnen een leveringsgebied <sup>1</sup> gedistribueerde of geproduceerde hoeveelheid water <sup>2</sup> in kubieke meters  | Aantal monsternemingen per jaar  |
+| Dagelijks binnen een leveringsgebied<sup>1</sup> gedistribueerde of geproduceerde hoeveelheid water<sup>2</sup> in kubieke meters  | Aantal monsternemingen per jaar  |
 |:---|:---|
 | ≤ 100  | 1  |
 | > 100 ≤ 1 000  | 1  |
-| > 1000 ≤ 10 000  | 1 +1 voor elke 3300 m <sup>3</sup> /dag en fractie daarvan van de totale hoeveelheid  |
-| > 10 000 ≤ 100 000  | 3 +1 voor elke 10 000 m <sup>3</sup> /dag en fractie daarvan van de totale hoeveelheid  |
-| > 100 000  | 10 +1 voor elke 25 000 m <sup>3</sup> /dag en fractie daarvan van de totale hoeveelheid  |
+| > 1000 ≤ 10 000  | 1 +1 voor elke 3300 m<sup>3</sup>/dag en fractie daarvan van de totale hoeveelheid  |
+| > 10 000 ≤ 100 000  | 3 +1 voor elke 10 000 m<sup>3</sup>/dag en fractie daarvan van de totale hoeveelheid  |
+| > 100 000  | 10 +1 voor elke 25 000 m<sup>3</sup>/dag en fractie daarvan van de totale hoeveelheid  |
 
-<sup>1</sup> Een leveringsgebied is een geografisch afgebakend gebied waarbinnen het drinkwater afkomstig is uit een of enkele bronnen waarbinnen het water kan worden geacht van vrijwel uniforme kwaliteit te zijn. <sup>2</sup> De hoeveelheden zijn gemiddelden berekend over een kalenderjaar.  
+<sup>1</sup> Een leveringsgebied is een geografisch afgebakend gebied waarbinnen het drinkwater afkomstig is uit een of enkele bronnen waarbinnen het water kan worden geacht van vrijwel uniforme kwaliteit te zijn.<sup>2</sup> De hoeveelheden zijn gemiddelden berekend over een kalenderjaar.
 
 ### Bijlage  2  
 
@@ -171,7 +171,7 @@ d. overeenkomstig de paragrafen 2 tot en met 5 van deze bijlage wordt een risico
 
 1.2.2. Indien een maatregel als bedoeld in voorschrift 1.2.1, onder a, b, of c, is getroffen, kan de risicoanalyse worden afgerond onverminderd het gestelde in voorschrift 4.7.  
 
-1.2.3. Voor zover periodieke maatregelen nodig zijn om het risico op besmetting door aërosolvormende stappunten te beheersen, wordt een beheersplan opgesteld en uitgevoerd overeenkomstig artikel 38 tot en met 40 van het besluit.    
+1.2.3. Voor zover periodieke maatregelen nodig zijn om het risico op besmetting door aërosolvormende stappunten te beheersen, wordt een beheersplan opgesteld en uitgevoerd overeenkomstig artikel 38 tot en met 40 van het besluit.   
 
 ### 2  
 
@@ -211,7 +211,7 @@ b. de materiële gegevens van de installatiecomponent;
 
 c. de bedrijfswijze van de installatiecomponent;  
 
-d. de temperatuur van de installatiecomponent.      
+d. de temperatuur van de installatiecomponent.     
 
 ### 3  
 
@@ -227,7 +227,7 @@ c. de warmtapwaterbereiding, zijnde alle warmwatertoestellen en hun onderlinge v
 
 d. het warmwaterleidingnet, zijnde het leidingnet tussen de uitlaat van de warmtapwaterbereiding en alle tappunten, inclusief eventuele circulatiesystemen. Indien mengwatertoestellen worden toegepast, vallen hieronder zowel het mengwatertoestel als het distributiesysteem na het mengwatertoestel tot de tappunten;  
 
-e. de tappunten, zijnde de punten waar water door de gebruiker getapt wordt en de punten waar water voor andere huishoudelijke doeleinden gebruikt wordt waardoor het met mensen in contact kan komen.      
+e. de tappunten, zijnde de punten waar water door de gebruiker getapt wordt en de punten waar water voor andere huishoudelijke doeleinden gebruikt wordt waardoor het met mensen in contact kan komen.     
 
 ### 4  
 
@@ -291,7 +291,7 @@ a. de eenvoudige werkwijze, waarbij de eis geldt dat geen enkele component van d
 
 b. de formele risicoanalyse, waarbij gebruik wordt gemaakt van de symboliek die in voorschrift 5.2 is gegeven. Hiertoe wordt het risico-oordeel dat eerder per component is bepaald gesommeerd volgens de regels die daarvoor zijn gegeven.    
 
-4.7. De uitkomsten van de risicoanalyse, de daarbij gehanteerde gegevens en de eventueel genomen maatregelen worden schriftelijk vastgelegd met vermelding van datum, een aanduiding van de drinkwater- of warm tapwaterinstallatie waar de risicoanalyse betrekking op heeft, alsmede de naam en hoedanigheid van de persoon die de risicoanalyse heeft uitgevoerd.    
+4.7. De uitkomsten van de risicoanalyse, de daarbij gehanteerde gegevens en de eventueel genomen maatregelen worden schriftelijk vastgelegd met vermelding van datum, een aanduiding van de drinkwater- of warm tapwaterinstallatie waar de risicoanalyse betrekking op heeft, alsmede de naam en hoedanigheid van de persoon die de risicoanalyse heeft uitgevoerd.   
 
 ### 5  
 
@@ -343,7 +343,7 @@ b. opwarming van delen van drinkwaterinstallaties of van niet doorstroomde warmw
 
 c. in geval van toepassing van alternatieve desinfecteermethoden, bij de risicobeschouwing de bij die methode aangetoonde verwijderings- of afdodingsfactoren worden gehanteerd, voor zover door beheersmaatregelen is gewaarborgd dat de methode in praktijk voortdurend deze mate van effectiviteit heeft.    
 
-5.1.5. Leidingen voor koud en warm water die langer dan een week niet gebruikt worden, worden wekelijks gespoeld. Bij het spoelen wordt water getapt tot 10 seconden nadat een stabiele temperatuur is bereikt.    
+5.1.5. Leidingen voor koud en warm water die langer dan een week niet gebruikt worden, worden wekelijks gespoeld. Bij het spoelen wordt water getapt tot 10 seconden nadat een stabiele temperatuur is bereikt.   
 
 ### 5.2  
 
@@ -354,9 +354,9 @@ Iedere hoofdfunctie dient aan de eis van een score 0 te voldoen.  *Risicokwalifi
 | Risicofactoren  |--- | Leidingvolume > 1 liter  | Temperatuur (°C)  | Duur temperatuur in component  | Risicokwalificatie  (+ afsterven; - groei)  |
 |:---|:---|:---|:---|:---|:---|
 | < 20 °C  | onbeperkt  | 0  |
-| 20–25  | onbeperkt  | 0 <sup>1</sup>  |
-| > 25–45  | < 2 dagen  | 0 <sup>2</sup>  |
-| > 25–45  | > 2 dagen < 1 week  | 0 <sup>3</sup>  |
+| 20–25  | onbeperkt  | 0<sup>1</sup>   |
+| > 25–45  | < 2 dagen  | 0<sup>2</sup>   |
+| > 25–45  | > 2 dagen < 1 week  | 0<sup>3</sup>   |
 | > 25–45  | > 1 week  | - - -  |
 | > 45–50  | onbeperkt  | - -  |
 | > 50–55  | onbeperkt  | 0  |
@@ -370,7 +370,7 @@ Iedere hoofdfunctie dient aan de eis van een score 0 te voldoen.  *Risicokwalifi
 | > 65–70  | > 40 sec  | ++  |
 | > 65–70  | > 1 min  | +++  |
 
-### Bijlage  3  
+### Bijlage 3 
 
 ####, behorend bij artikel 8  van de Regeling legionellapreventie in drinkwater en warm tapwater
 

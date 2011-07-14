@@ -22,11 +22,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  *aanvra
 
 1°. voor hoofdstuk 2: aanvraag voor een specifieke uitkering als bedoeld in [artikel 34a, eerste lid, van de Monumentenwet 1988](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), of  
 
-2°. voor hoofdstuk 3: aanvrager van een vergunning als bedoeld in [artikel 45 van de Monumentenwet 1988](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md);   *drempelbijdrage:* deel van de kosten van het doen van opgravingen dat ten laste komt van de gemeente of de provincie; *excessieve kosten:* deel van de kosten van het doen van opgravingen dat het bedrag dat wordt gevormd door de som van de drempelbijdrage en het verstoordersdeel te boven gaat; *leidinggevende:* degene die binnen de organisatie van de aanvrager, bedoeld in hoofdstuk 3, daadwerkelijk leiding geeft aan het doen van de opgravingen; *specifieke uitkering:* specifieke uitkering als bedoeld in [artikel 34a, eerste lid, van de Monumentenwet 1988](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md); *vergunning:* vergunning als bedoeld in [artikel 45 van de Monumentenwet 1988](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md);  *verstoordersdeel:*  
+2°. voor hoofdstuk 3: aanvrager van een vergunning als bedoeld in [artikel 45 van de Monumentenwet 1988](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md);    *drempelbijdrage:* deel van de kosten van het doen van opgravingen dat ten laste komt van de gemeente of de provincie;  *excessieve kosten:* deel van de kosten van het doen van opgravingen dat het bedrag dat wordt gevormd door de som van de drempelbijdrage en het verstoordersdeel te boven gaat;  *leidinggevende:* degene die binnen de organisatie van de aanvrager, bedoeld in hoofdstuk 3, daadwerkelijk leiding geeft aan het doen van de opgravingen;  *specifieke uitkering:* specifieke uitkering als bedoeld in [artikel 34a, eerste lid, van de Monumentenwet 1988](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md);  *vergunning:* vergunning als bedoeld in [artikel 45 van de Monumentenwet 1988](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md);  *verstoordersdeel:*  
 
 1°. deel van de kosten van het doen van opgravingen dat volgens de aanvrager, bedoeld in hoofdstuk 2, ten laste blijft van degene die door de aanvrager tot het doen van opgravingen is verplicht, of  
 
-2°. bedrag dat Onze minister op grond van artikel 6 heeft vastgesteld;   *wet:*[Monumentenwet 1988](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md).  
+2°. bedrag dat Onze minister op grond van artikel 6 heeft vastgesteld;    *wet:* [Monumentenwet 1988](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md). 
 
 ### Hoofdstuk  2  
 
@@ -39,7 +39,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  *aanvra
 ### Artikel  2  
 
 1.  De drempelbijdrage bestaat uit het inwoneraantal van de betreffende gemeente of provincie vermenigvuldigd met een door Onze minister vast te stellen bedrag.   
-2.  Voor de berekening van de drempelbijdrage is bepalend het inwoneraantal van de gemeente of provincie op 1 januari van het jaar waarin de aanvraag is ingediend.   
+2.  Voor de berekening van de drempelbijdrage is bepalend het inwoneraantal van de gemeente of provincie op 1 januari van het jaar waarin de aanvraag is ingediend.  
 
 ### §  2  
 
@@ -51,11 +51,11 @@ De aanvraag gaat vergezeld van:
 
 a. het besluit waarbij de verplichting tot het doen van de betreffende opgravingen is opgelegd,  
 
-b. het besluit, bedoeld in de [artikelen 42 van de wet](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), [26 van de Ontgrondingenwet](../../../../../wet/ontgrondingenwet/BWBR0002505/README.md) of [15.20 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en het verzoek dat aan dat besluit ten grondslag ligt,  
+b. het besluit, bedoeld in [artikel 4.2, eerste lid, onder a, b of c, van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of [artikel 26 van de Ontgrondingenwet](../../../../../wet/ontgrondingenwet/BWBR0002505/README.md), en het verzoek dat aan dat besluit ten grondslag ligt,  
 
 c. een overzicht van de totale kosten van het doen van de betreffende opgravingen, en  
 
-d. het programma van eisen met betrekking tot het doen van de betreffende opgravingen.    
+d. het programma van eisen met betrekking tot het doen van de betreffende opgravingen.   
 
 ### §  3  
 
@@ -64,7 +64,7 @@ d. het programma van eisen met betrekking tot het doen van de betreffende opgrav
 ### Artikel  4  
 
 1.  Onze minister stelt jaarlijks vast tot welk bedrag ten hoogste verplichtingen kunnen worden aangegaan voor het verstrekken van specifieke uitkeringen.   
-2.  Onze minister verleent specifieke uitkeringen in de volgorde van ontvangst van de aanvragen.   
+2.  Onze minister verleent specifieke uitkeringen in de volgorde van ontvangst van de aanvragen.  
 
 ### §  4  
 
@@ -72,23 +72,23 @@ d. het programma van eisen met betrekking tot het doen van de betreffende opgrav
 
 ### Artikel  5  
 
-Onze minister kan een specifieke uitkering verlenen voor de excessieve kosten.  
+Onze minister kan een specifieke uitkering verlenen voor de excessieve kosten. 
 
 ### Artikel  6  
 
-Onze minister kan het verstoordersdeel anders vaststellen dan de aanvrager, indien hij van oordeel is dat de aanvrager niet in redelijkheid het desbetreffende bedrag heeft kunnen vaststellen.  
+Onze minister kan het verstoordersdeel anders vaststellen dan de aanvrager, indien hij van oordeel is dat de aanvrager niet in redelijkheid het desbetreffende bedrag heeft kunnen vaststellen. 
 
 ### Artikel  7  
 
-Het besluit tot verlening vermeldt in ieder geval het bedrag van de te verlenen specifieke uitkering dat ten hoogste zal worden verleend.  
+Het besluit tot verlening vermeldt in ieder geval het bedrag van de te verlenen specifieke uitkering dat ten hoogste zal worden verleend. 
 
 ### Artikel  8  
 
-Onze minister kan voorschotten verlenen.  
+Onze minister kan voorschotten verlenen. 
 
 ### Artikel  9  
 
-[Artikel 4:34, eerste, derde en vijfde lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.  
+[Artikel 4:34, eerste, derde en vijfde lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing. 
 
 ### §  5  
 
@@ -98,14 +98,14 @@ Onze minister kan voorschotten verlenen.
 
 1.  Onze minister kan een specifieke uitkering weigeren geheel of gedeeltelijk te verlenen: 
 
-a. indien de op te graven monumenten uit een oogpunt van cultuurbehoud onvoldoende esthetische, cultuurhistorische of wetenschappelijke waarde hebben, of  
+a.indien de op te graven monumenten uit een oogpunt van cultuurbehoud onvoldoende esthetische, cultuurhistorische of wetenschappelijke waarde hebben, of
 
-b. indien het doen van de betreffende opgravingen kennelijk niet in overeenstemming is met het beleid van Onze minister op het terrein van het behoud van monumenten.     
-2.  Onze minister weigert een specifieke uitkering voor zover het uitkeringsplafond, bedoeld in artikel 4, eerste lid, voor het desbetreffende jaar door verlening van die specifieke uitkering zou worden overschreden.   
+b.indien het doen van de betreffende opgravingen kennelijk niet in overeenstemming is met het beleid van Onze minister op het terrein van het behoud van monumenten.  
+2.  Onze minister weigert een specifieke uitkering voor zover het uitkeringsplafond, bedoeld in artikel 4, eerste lid, voor het desbetreffende jaar door verlening van die specifieke uitkering zou worden overschreden.  
 
 ### Artikel  11  
 
-Aanvragen die op grond van artikel 10, tweede lid, zijn geweigerd, komen in de volgorde van ontvangst in een volgend jaar opnieuw in aanmerking voor verlening van een specifieke uitkering.  
+Aanvragen die op grond van artikel 10, tweede lid, zijn geweigerd, komen in de volgorde van ontvangst in een volgend jaar opnieuw in aanmerking voor verlening van een specifieke uitkering. 
 
 ### §  6  
 
@@ -113,7 +113,7 @@ Aanvragen die op grond van artikel 10, tweede lid, zijn geweigerd, komen in de v
 
 ### Artikel  12  
 
-De ontvanger van een specifieke uitkering doet zo spoedig mogelijk schriftelijk mededeling aan Onze minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging of intrekking van een specifieke uitkering. Daarbij worden de relevante stukken overgelegd.  
+De ontvanger van een specifieke uitkering doet zo spoedig mogelijk schriftelijk mededeling aan Onze minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging of intrekking van een specifieke uitkering. Daarbij worden de relevante stukken overgelegd. 
 
 ### §  7  
 
@@ -121,7 +121,7 @@ De ontvanger van een specifieke uitkering doet zo spoedig mogelijk schriftelijk 
 
 ### Artikel  13  
 
-Voor zover niet uit de jaarrekening van de gemeente of provincie over het jaar waarin het doen van opgravingen is afgerond, alsmede uit de accountantsverklaring en het verslag van bevindingen, behorend bij die jaarrekening krachtens [artikel 213 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) of [artikel 217 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md), blijkt dat een specifieke uitkering rechtmatig is besteed, kan het bedrag waarvan de rechtmatige besteding niet vaststaat, worden teruggevorderd.  
+Voor zover niet uit de jaarrekening van de gemeente of provincie over het jaar waarin het doen van opgravingen is afgerond, alsmede uit de accountantsverklaring en het verslag van bevindingen, behorend bij die jaarrekening krachtens [artikel 213 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) of [artikel 217 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md), blijkt dat een specifieke uitkering rechtmatig is besteed, kan het bedrag waarvan de rechtmatige besteding niet vaststaat, worden teruggevorderd. 
 
 ### §  8  
 
@@ -130,7 +130,7 @@ Voor zover niet uit de jaarrekening van de gemeente of provincie over het jaar w
 ### Artikel  14  
 
 1.  Binnen vier maanden na ontvangst van de jaarrekening, bedoeld in artikel 13, geeft Onze minister een beschikking tot vaststelling van de specifieke uitkering.   
-2.  De [artikelen 4:46](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:49](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:52](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:56](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:57 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing op het eerste lid.   
+2.  De [artikelen 4:46](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:49](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:52](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:56](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:57 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing op het eerste lid.  
 
 ### Hoofdstuk  3  
 
@@ -142,11 +142,11 @@ Voor zover niet uit de jaarrekening van de gemeente of provincie over het jaar w
 
 ### Artikel  15  
 
-Met de vergunningseisen ter zake van het doen van opgravingen als bedoeld in dit besluit worden gelijkgesteld vergunningseisen die worden gesteld in een andere lidstaat van de Europese Unie of een andere staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend verdrag of mede daartoe strekkend verdrag dat Nederland bindt, en die een vergunningsniveau waarborgen dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.  
+Met de vergunningseisen ter zake van het doen van opgravingen als bedoeld in dit besluit worden gelijkgesteld vergunningseisen die worden gesteld in een andere lidstaat van de Europese Unie of een andere staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend verdrag of mede daartoe strekkend verdrag dat Nederland bindt, en die een vergunningsniveau waarborgen dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd. 
 
 ### Artikel  16  
 
-Een vergunning is niet overdraagbaar.  
+Een vergunning is niet overdraagbaar. 
 
 ### §  2  
 
@@ -173,7 +173,13 @@ d. de leidinggevende beschikt over
 
 e. de leidinggevende heeft voldoende werkervaring, en  
 
-f. de leidinggevende is niet onherroepelijk veroordeeld wegens het plegen van een strafbaar feit als bedoeld in de [artikelen 61](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md) en [62 van de wet](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md) in de 4 jaar voorafgaand aan de aanvraag.     
+f. de leidinggevende is in de vier jaar voorafgaand aan de aanvraag niet onherroepelijk veroordeeld wegens het plegen van: 
+
+1°. een strafbaar feit als bedoeld in de [artikelen 61](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md) en [62 van de wet](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), zoals [die wet](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md) luidde voor inwerkingtreding van de [Invoeringswet Wet algemene bepalingen omgevingsrecht](../../../../../wet/invoeringswet/wet/algemene/bepalingen/omgevingsrecht/BWBR0027474/README.md),  
+
+2°. een overtreding van [artikel 11](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), [45, eerste lid](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), [53, eerste lid](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), of [56 van de wet](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md); of  
+
+3°. een overtreding van [artikel 2.1, eerste lid, aanhef en onder f of h](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.3, aanhef en onder b](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.3a](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.24, eerste lid](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), of [2.25, tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) voor zover die overtreding betrekking heeft op een beschermd monument als bedoeld in die wet of een beschermd stads- of dorpsgezicht.      
 
 ### §  3  
 
@@ -199,7 +205,7 @@ a. de aanvrager voldoet aan artikel 17, eerste lid,
 b. binnen de organisatie voor voldoende leidinggevenden wordt zorg gedragen, en  
 
 c. de aanvrager zal voldoen aan de voorschriften, bedoeld in artikel 25.     
-3.  De voorwaarde, bedoeld in het eerste lid, onderdeel b, geldt niet voor een krachtens publiekrecht ingestelde rechtspersoon.   
+3.  De voorwaarde, bedoeld in het eerste lid, onderdeel b, geldt niet voor een krachtens publiekrecht ingestelde rechtspersoon.  
 
 ### §  4  
 
@@ -216,23 +222,23 @@ b. een bepaald doel,
 c. een bepaalde tijd, of  
 
 d. een bepaald gebied.     
-2.  Indien de organisatie van de aanvrager niet voldoet aan artikel 17, eerste lid, maar de verwachting bestaat dat dit binnen afzienbare termijn het geval zal zijn, verleent Onze minister een tijdelijke vergunning.   
+2.  Indien de organisatie van de aanvrager niet voldoet aan artikel 17, eerste lid, maar de verwachting bestaat dat dit binnen afzienbare termijn het geval zal zijn, verleent Onze minister een tijdelijke vergunning.  
 
 ### Artikel  20  
 
-Een vergunning voor een organisatieonderdeel van het Rijk wordt uitsluitend verleend voor het doen van opgravingen in het kader van ontwikkeling en innovatie van kennis over het behouden en beheren van archeologische monumenten of voor de aanwijzing, bedoeld in [artikel 3, eerste lid, van de wet](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md).  
+Een vergunning voor een organisatieonderdeel van het Rijk wordt uitsluitend verleend voor het doen van opgravingen in het kader van ontwikkeling en innovatie van kennis over het behouden en beheren van archeologische monumenten of voor de aanwijzing, bedoeld in [artikel 3, eerste lid, van de wet](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md). 
 
 ### Artikel  21  
 
-Een vergunning voor een gemeente of een provincie wordt uitsluitend verleend voor het doen van opgravingen binnen het grondgebied van de desbetreffende gemeente of provincie.  
+Een vergunning voor een gemeente of een provincie wordt uitsluitend verleend voor het doen van opgravingen binnen het grondgebied van de desbetreffende gemeente of provincie. 
 
 ### Artikel  22  
 
-Een vergunning voor een universiteit als bedoeld in de [onderdelen a, b of h van de bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) wordt uitsluitend verleend voor het doen van opgravingen in verband met wetenschappelijk onderwijs of wetenschappelijk onderzoek als bedoeld in [artikel 1.3, eerste lid, van die wet](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).  
+Een vergunning voor een universiteit als bedoeld in de [onderdelen a, b of h van de bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) wordt uitsluitend verleend voor het doen van opgravingen in verband met wetenschappelijk onderwijs of wetenschappelijk onderzoek als bedoeld in [artikel 1.3, eerste lid, van die wet](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). 
 
 ### Artikel  23  
 
-Een vergunning voor het doen van opgravingen buiten de territoriale wateren wordt uitsluitend voor een bepaald gebied en voor een bepaalde tijd verleend.  
+Een vergunning voor het doen van opgravingen buiten de territoriale wateren wordt uitsluitend voor een bepaald gebied en voor een bepaalde tijd verleend. 
 
 ### §  5  
 
@@ -241,7 +247,7 @@ Een vergunning voor het doen van opgravingen buiten de territoriale wateren word
 ### Artikel  24  
 
 1.  Bij de naleving van de voorschriften, bedoeld in [artikel 46, tweede tot en met vierde lid, van de wet](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), of bij het doen van opgravingen houdt de vergunninghouder zich aan de normen die in de archeologische beroepsgroep gelden voor het doen van opgravingen.   
-2.  Indien de vergunninghouder voldoet aan een door Onze minister aan te wijzen versie van de Kwaliteitsnorm Nederlandse Archeologie of onderdelen daarvan, is het aannemelijk dat hij voldoet aan het eerste lid.   
+2.  Indien de vergunninghouder voldoet aan een door Onze minister aan te wijzen versie van de Kwaliteitsnorm Nederlandse Archeologie of onderdelen daarvan, is het aannemelijk dat hij voldoet aan het eerste lid.  
 
 ### Artikel  25  
 
@@ -249,7 +255,7 @@ De vergunninghouder zorgt ervoor dat een ieder in zijn organisatie die zich daad
 
 a. zijn kennis en vaardigheden onderhoudt, en  
 
-b. zich bij zijn archeologische handelen laat leiden door actuele en in brede archeologische kring aanvaarde wetenschappelijke inzichten.    
+b. zich bij zijn archeologische handelen laat leiden door actuele en in brede archeologische kring aanvaarde wetenschappelijke inzichten.   
 
 ### Hoofdstuk  4  
 
@@ -257,11 +263,11 @@ b. zich bij zijn archeologische handelen laat leiden door actuele en in brede ar
 
 ### Artikel  26  
 
-Wijzigt het Besluit indieningsvereisten aanvraag bouwvergunning.   
+Wijzigt het Besluit indieningsvereisten aanvraag bouwvergunning. 
 
 ### Artikel  27  
 
-Wijzigt het Mijnbouwbesluit.   
+Wijzigt het Mijnbouwbesluit. 
 
 ### Hoofdstuk  5  
 
@@ -269,11 +275,11 @@ Wijzigt het Mijnbouwbesluit.
 
 ### Artikel  28  
 
-De hoofdstukken van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende hoofdstukken of onderdelen daarvan verschillend kan worden vastgesteld.  
+De hoofdstukken van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende hoofdstukken of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  29  
 
-Dit besluit wordt aangehaald als: Besluit archeologische monumentenzorg.  
+Dit besluit wordt aangehaald als: Besluit archeologische monumentenzorg. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -286,5 +292,5 @@ R. H. A. Plasterk
 
 de *achtentwintigste* augustus 2007 
 
-De minister van Justitie , 
+De minister van Justitie ,  
 E. M. H. Hirsch Ballin    

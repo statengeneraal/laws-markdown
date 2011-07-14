@@ -6,7 +6,7 @@
 
 ####Algemeen
 
-De [Wet op de vaste boekenprijs](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) (hierna: Wvbp) kent in [artikel 15](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) aan het Commissariaat de bevoegdheid toe om de in [artikel 17](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) genoemde sanctiemaatregelen te treffen. Op grond daarvan kan het Commissariaat onder afweging van de betrokken belangen reageren op een overtreding van een bij of krachtens de Wvbp en de [Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (hierna: Awb) gesteld voorschrift. Het Commissariaat kan overgaan tot het opleggen van een bestraffende sanctie met de bedoeling de overtreder in zijn belangen te treffen en kan daarnaast een herstelsanctie (last onder dwangsom) treffen ten einde een overtreding te voorkomen en/of een herhaling en/of voortzetting van die overtreding te voorkomen. Aan deze Beleidslijn ligt de aan het rechtszekerheids- en het gelijkheidsbeginsel ontleende bedoeling ten grondslag een inzicht te geven in de criteria die in geval van overtreding van de bij of krachtens de [Wvbp](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) en [Awb](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gestelde voorschriften bij het opleggen van sanctiemaatregelen zullen worden gehanteerd. Bij bestraffende sancties kunnen tevens doeleinden van specifieke en generale preventie voorliggen. Aan de in deze Beleidslijn gehanteerde terminologie komt, tenzij uitdrukkelijk het tegendeel wordt bepaald, dezelfde betekenis toe als welke daaraan op grond van het bij of krachtens de [Wvbp](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) en de [Awb](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bepaalde toekomt. Onder een overtreding wordt in deze Beleidslijn verstaan een gedraging in strijd met een bij of krachtens de [Wvbp](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) of de [Awb](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gesteld voorschrift.    
+De [Wet op de vaste boekenprijs](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) (hierna: Wvbp) kent in [artikel 15](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) aan het Commissariaat de bevoegdheid toe om de in [artikel 17](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) genoemde sanctiemaatregelen te treffen. Op grond daarvan kan het Commissariaat onder afweging van de betrokken belangen reageren op een overtreding van een bij of krachtens de Wvbp en de [Algemene wet bestuursrecht ](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)(hierna: Awb) gesteld voorschrift. Het Commissariaat kan overgaan tot het opleggen van een bestraffende sanctie met de bedoeling de overtreder in zijn belangen te treffen en kan daarnaast een herstelsanctie (last onder dwangsom) treffen ten einde een overtreding te voorkomen en/of een herhaling en/of voortzetting van die overtreding te voorkomen. Aan deze Beleidslijn ligt de aan het rechtszekerheids- en het gelijkheidsbeginsel ontleende bedoeling ten grondslag een inzicht te geven in de criteria die in geval van overtreding van de bij of krachtens de [Wvbp](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) en [Awb](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gestelde voorschriften bij het opleggen van sanctiemaatregelen zullen worden gehanteerd. Bij bestraffende sancties kunnen tevens doeleinden van specifieke en generale preventie voorliggen. Aan de in deze Beleidslijn gehanteerde terminologie komt, tenzij uitdrukkelijk het tegendeel wordt bepaald, dezelfde betekenis toe als welke daaraan op grond van het bij of krachtens de [Wvbp](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) en de [Awb](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bepaalde toekomt. Onder een overtreding wordt in deze Beleidslijn verstaan een gedraging in strijd met een bij of krachtens de [Wvbp](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) of de [Awb](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gesteld voorschrift.    
 
 ####Relevante bepalingen
 
@@ -167,18 +167,18 @@ o [artikel 4 Regeling vaste boekenprijs](../../../../../../../ministeriele-regel
 
 3.2 De [Beleidslijn Sanctiemaatregelen Vaste Boekenprijs 2009](../../../../../../../zbo/beleidslijn/sanctiemaatregelen/vaste/boekenprijs/2009/BWBR0025730/README.md) vervalt met ingang van de datum van inwerkingtreding van de Beleidslijn Sanctiemaatregelen Vaste Boekenprijs 2011.  
 
-3.3 Deze regeling wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de internetsite van het Commissariaat (www.cvdm.nl).        Commissariaat voor de Media,  
+3.3 Deze regeling wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de internetsite van het Commissariaat (www.cvdm.nl).       Commissariaat voor de Media,
 
-T. Bahlmann,  
+T.  Bahlmann,  
 voorzitter, 
-M. de Cock Buning,  
+M. de  Cock Buning,  
 commissaris.   
 
 ### Bijlage  
 
 ####Bevoegdheidsbepalingen uit de [Wet op de vaste boekenprijs](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md)
 
-#### [Artikel 15](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) 
+####[Artikel 15](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md)
 
 1. Het Commissariaat voor de Media, genoemd in [artikel 7.1 van de Mediawet 2008](../../../../../../../wet/mediawet/2008/BWBR0025028/README.md), is belast met de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de [hoofdstukken 2 tot en met 4 van de Wvbp](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md).  
 
@@ -186,45 +186,45 @@ commissaris.
 
 3. Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
-4. Het Commissariaat stelt jaarlijks voor 1 november Onze Minister in kennis van het voorgenomen handhavingsbeleid in het volgende kalenderjaar.    
+4. Het Commissariaat stelt jaarlijks voor 1 november Onze Minister in kennis van het voorgenomen handhavingsbeleid in het volgende kalenderjaar.   
 
-#### [Artikel 16](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) 
+####[Artikel 16](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md)
 
 1. De in [artikel 15, tweede lid](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md), bedoelde toezichthouders zijn bevoegd om bedrijfsruimten en voorwerpen te verzegelen gedurende de tijd gelegen tussen 18.00 en 8.00 uur, voor zover dat voor de uitoefening van de in [artikel 5:17 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde bevoegdheden redelijkerwijs noodzakelijk is.  
 
 2. De in [artikel 15, tweede lid](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md), bedoelde toezichthouders oefenen de hun in het eerste lid en [artikel 5:17 van de Algemene wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bestuursrecht toegekende bevoegdheid zo nodig uit met behulp van de sterke arm.  
 
-3. Iedere uitgever, importeur, en verkoper draagt er zorg voor dat de in [artikel 15, tweede lid](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md), bedoelde toezichthouders desgevraagd inzage verkrijgen in - en kopieën kunnen maken van - de zakelijke gegevens en bescheiden van bedrijven of instellingen, voor zover dat voor de vervulling van de toezichthoudende taak redelijkerwijs nodig is.    
+3. Iedere uitgever, importeur, en verkoper draagt er zorg voor dat de in [artikel 15, tweede lid](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md), bedoelde toezichthouders desgevraagd inzage verkrijgen in - en kopieën kunnen maken van - de zakelijke gegevens en bescheiden van bedrijven of instellingen, voor zover dat voor de vervulling van de toezichthoudende taak redelijkerwijs nodig is.   
 
 ####Bestuurlijke boete en last onder dwangsom
 
-#### [Artikel 17](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) 
+####[Artikel 17](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md)
 
 Bij overtreding van het bepaalde bij of krachtens de [hoofdstukken 2 tot en met 4](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) door een uitgever, importeur of verkoper kan het Commissariaat aan de overtreder: 
 
 a. een bestuurlijke boete opleggen, of  
 
-b. een last onder dwangsom opleggen.    
+b. een last onder dwangsom opleggen.   
 
-#### [Artikel 18](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) 
+####[Artikel 18](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md)
 
-De in [artikel 17, eerste lid, onder a](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md), bedoelde bestuurlijke boete bedraagt ten hoogste € 90.000,–.  
+De in [artikel 17, eerste lid, onder a](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md), bedoelde bestuurlijke boete bedraagt ten hoogste € 90.000,–. 
 
-#### [Artikel 19](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) 
+####[Artikel 19](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md)
 
 1. Aan een last onder dwangsom, bedoeld in [artikel 17, eerste lid, onder b](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md), kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan het Commissariaat.  
 
-2. Een last geldt voor een door het Commissariaat te bepalen termijn van ten hoogste twee jaar.    
+2. Een last geldt voor een door het Commissariaat te bepalen termijn van ten hoogste twee jaar.   
 
 ####[Artikel 20](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) [vervallen per 01-07-2009]
 
 ####[Artikel 21](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) [vervallen per 01-07-2009]
 
-#### [Artikel 22](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) 
+####[Artikel 22](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md)
 
 1. Het Commissariaat kan degene, die jegens de in [artikel 15, tweede lid](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md), bedoelde toezichthouders in strijd handelt met [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), een bestuurlijke boete opleggen van ten hoogste € 4.500,–.  
 
-2. Ingeval de in het eerste lid, bedoelde overtreding een weigering inhoudt medewerking te verlenen aan de toepassing van [artikel 5:17, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), kan het Commissariaat een last onder dwangsom opleggen om inzage te verlenen in de in die last aangegeven zakelijke gegevens en bescheiden.    
+2. Ingeval de in het eerste lid, bedoelde overtreding een weigering inhoudt medewerking te verlenen aan de toepassing van [artikel 5:17, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), kan het Commissariaat een last onder dwangsom opleggen om inzage te verlenen in de in die last aangegeven zakelijke gegevens en bescheiden.   
 
 ####[Artikel 23](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) [vervallen per 01-07-2009]
 
@@ -234,11 +234,11 @@ De in [artikel 17, eerste lid, onder a](../../../../../../../wet/wet/op/de/vaste
 
 ####[Artikel 26](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) [vervallen per 01-07-2009]
 
-#### [Artikel 27](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) 
+####[Artikel 27](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md)
 
-Het Commissariaat draagt de opbrengsten van opgelegde boetes en verbeurde dwangsommen af aan Onze Minister. Deze opbrengsten dienen ter bestrijding van de kosten van het Commissariaat.  
+Het Commissariaat draagt de opbrengsten van opgelegde boetes en verbeurde dwangsommen af aan Onze Minister. Deze opbrengsten dienen ter bestrijding van de kosten van het Commissariaat. 
 
-#### [Artikel 27a](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md) 
+####[Artikel 27a](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md)
 
-Op de bevoegdheid een last onder dwangsom op te leggen als bedoeld in [artikel 17, eerste lid, onder b](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md), zijn de [artikelen 5:45](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:48 tot en met 5:53 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.  
+Op de bevoegdheid een last onder dwangsom op te leggen als bedoeld in [artikel 17, eerste lid, onder b](../../../../../../../wet/wet/op/de/vaste/boekenprijs/BWBR0017452/README.md), zijn de [artikelen 5:45](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:48 tot en met 5:53 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing. 
 

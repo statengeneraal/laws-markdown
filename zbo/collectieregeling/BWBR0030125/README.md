@@ -17,16 +17,16 @@ De Mondriaan Stichting ondersteunt binnen deze regeling een aantal activiteiten 
 
 ####aankopen:
 
-– *incidentele aankopen*: aankopen van objecten of deelcollecties op alle verzamelgebieden;  
+–  *incidentele aankopen*: aankopen van objecten of deelcollecties op alle verzamelgebieden;  
 
-– *structurele aankopen*: meerdere aankopen van beeldende kunst of vormgeving van na 1945 en/of opdrachten aan kunstenaars gericht op de verwerving van een of meerdere werken voor de collectie, over een periode van 2 jaar.      
+–  *structurele aankopen*: meerdere aankopen van beeldende kunst of vormgeving van na 1945 en/of opdrachten aan kunstenaars gericht op de verwerving van een of meerdere werken voor de collectie, over een periode van 2 jaar.      
 ### b  
 
 ####voorwaardenscheppende activiteiten
 
-– *restauratie* van objecten op de lijst behorende bij de [Wet tot Behoud van Cultuurbezit](../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md) (WBC);  
+–  *restauratie* van objecten op de lijst behorende bij de [Wet tot Behoud van Cultuurbezit](../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md) (WBC);  
 
-– *collectiemobiliteit*: het afstoten en overdragen van collecties;  
+–  *collectiemobiliteit*: het afstoten en overdragen van collecties;  
 
 – inventarisatie, *afstemming* en behoud van specifieke collectiegebieden;      
 ### c  
@@ -35,9 +35,9 @@ De Mondriaan Stichting ondersteunt binnen deze regeling een aantal activiteiten 
 
 De Mondriaan Stichting ondersteunt activiteiten die bijdragen aan het verbeteren van de veiligheidszorg van niet-rijksmusea, archieven, bibliotheken en andere collectiebeherende instellingen. Deze ondersteuningsmogelijkheid heeft een beperkte duur en vervalt automatisch op 31 december 2012. De ondersteuning heeft betrekking op: 
 
-– *risicoanalyses*: analyses van acute bedreigingen voor collectie, gebouw en mensen. De Mondriaan Stichting kan maximaal 100% van de variabele activiteitskosten bijdragen, op voorwaarde dat de instelling binnen 18 maanden een integraal beveiligingsplan opstelt met (preventieve) maatregelen tegen beschadiging, vernieling, diefstal, vandalisme, brand en waterschade. Het gaat daarbij niet om insectenplagen en lichtoverlast.  
+–  *risicoanalyses*: analyses van acute bedreigingen voor collectie, gebouw en mensen. De Mondriaan Stichting kan maximaal 100% van de variabele activiteitskosten bijdragen, op voorwaarde dat de instelling binnen 18 maanden een integraal beveiligingsplan opstelt met (preventieve) maatregelen tegen beschadiging, vernieling, diefstal, vandalisme, brand en waterschade. Het gaat daarbij niet om insectenplagen en lichtoverlast.  
 
-– *regionale netwerken*: in regionaal verband opstellen van integrale beveiligingsplannen. De Mondriaan Stichting kan maximaal 40% van de variabele activiteitskosten, die verband houden met de coördinatie van de activiteiten, bijdragen.   De beperkingen uit artikel 4 lid 1 sub a, c, d en e zijn niet van toepassing. Aanvragen worden niet getoetst op *publieksbereik*.    
+–  *regionale netwerken*: in regionaal verband opstellen van integrale beveiligingsplannen. De Mondriaan Stichting kan maximaal 40% van de variabele activiteitskosten, die verband houden met de coördinatie van de activiteiten, bijdragen.   De beperkingen uit artikel 4 lid 1 sub a, c, d en e zijn niet van toepassing. Aanvragen worden niet getoetst op *publieksbereik*.    
 ### d  
 
 ####overig
@@ -83,13 +83,13 @@ i incidentele aankopen waarvan de aankoopprijs minder dan € 50.000 bedraagt.
 
 Aanvragen worden aan de volgende criteria getoetst: 
 
-– *Publieksbereik*: de mate waarin de activiteit relevant is voor (een) publiek;  
+–  *Publieksbereik*: de mate waarin de activiteit relevant is voor (een) publiek;  
 
-– *Belang*: de activiteit vertegenwoordigt een bijzonder belang voor voor het Koninkrijk der Nederlanden belangrijke collecties;  
+–  *Belang*: de activiteit vertegenwoordigt een bijzonder belang voor voor het Koninkrijk der Nederlanden belangrijke collecties;  
 
-– *Kwaliteit*: de activiteit getuigt in al haar aspecten van kwaliteit;  
+–  *Kwaliteit*: de activiteit getuigt in al haar aspecten van kwaliteit;  
 
-– *Relatie met de collectie*: de wijze waarop de activiteit zich verhoudt tot de collectie van de aanvragende organisatie.      
+–  *Relatie met de collectie*: de wijze waarop de activiteit zich verhoudt tot de collectie van de aanvragende organisatie.      
 ### 6  
 
 ####hoogte van de bijdrage

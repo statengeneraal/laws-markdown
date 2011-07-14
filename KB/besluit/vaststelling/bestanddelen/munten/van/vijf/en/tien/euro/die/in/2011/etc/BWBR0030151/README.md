@@ -13,18 +13,18 @@ Hebben goedgevonden en verstaan:
 
 1.  De beeldenaar van de munten van vijf en tien euro die in 2011 worden uitgegeven ter gelegenheid van 100 jaar Muntgebouw is: 
 
-a. op de voorzijde, overeenkomstig onderstaande afbeelding: in het midden Onze beeltenis met daarboven in een bloemenlijst de tekst «BEATRIX KONINGIN DER NEDERLANDEN», ter linker- en ter rechterzijde twee hoofden, een jongere en een oudere medewerker van de Munt representerend en onderin de beeltenis van cherubijntje; in de buitencirkel zijn verschillende elementen en symbolen van het Muntgebouw afgebeeld en in de binnencirkel linksboven de mercuriusstaf, rechtsboven een mand met munten, rechtsonder de brug naast het Muntgebouw en linksonder een smeltoven;   ![249010](http://wetten.overheid.nl/Illustration/249010)
+a. op de voorzijde, overeenkomstig onderstaande afbeelding: in het midden Onze beeltenis met daarboven in een bloemenlijst de tekst «BEATRIX KONINGIN DER NEDERLANDEN», ter linker- en ter rechterzijde twee hoofden, een jongere en een oudere medewerker van de Munt representerend en onderin de beeltenis van cherubijntje; in de buitencirkel zijn verschillende elementen en symbolen van het Muntgebouw afgebeeld en in de binnencirkel linksboven de mercuriusstaf, rechtsboven een mand met munten, rechtsonder de brug naast het Muntgebouw en linksonder een smeltoven;  ![249010](http://wetten.overheid.nl/Illustration/249010)
 
 b. op de keerzijde, overeenkomstig onderstaande afbeeldingen: in het midden een oude muntpers met daaronder in een gecodeerde tekst die is opgebouwd uit een 3d lijnenspel het jaartal 2011 met links het teken van de Muntmeester   ![249011](http://wetten.overheid.nl/Illustration/249011)
 en rechts het teken van de Munt   ![249012](http://wetten.overheid.nl/Illustration/249012)
-, boven het teken van de Muntmeester de waardeaanduiding «5 EURO» respectievelijk «10 EURO»; de linkergreep van de muntpers vormt het getal «100» en de rechtergreep het woord «jaar» met daaronder het woord «MUNTGEBOUW», het raam daaronder symboliseert het gehele bouwwerk; tussen de grepen van de muntpers is een digitale vierkante barcode afgebeeld, met boven de barcode het wapenschild van Koningin Wilhelmina, daarboven in Romeinse cijfers het jaartal 1911 en ter linker- en rechterzijde daarvan twee tegelmotieven uit de oude Muntmeesterkamer, de Oranje appeltjes en de Nederlandse leeuw.   ![249013](http://wetten.overheid.nl/Illustration/249013)
+, boven het teken van de Muntmeester de waardeaanduiding «5 EURO» respectievelijk «10 EURO»; de linkergreep van de muntpers vormt het getal «100» en de rechtergreep het woord «jaar» met daaronder het woord «MUNTGEBOUW», het raam daaronder symboliseert het gehele bouwwerk; tussen de grepen van de muntpers is een digitale vierkante barcode afgebeeld, met boven de barcode het wapenschild van Koningin Wilhelmina, daarboven in Romeinse cijfers het jaartal 1911 en ter linker- en rechterzijde daarvan twee tegelmotieven uit de oude Muntmeesterkamer, de Oranje appeltjes en de Nederlandse leeuw.  ![249013](http://wetten.overheid.nl/Illustration/249013)
 
 2.  De vijf-euromunt heeft een gladde rand en draagt het randschrift «GOD * ZIJ * MET * ONS *».   
-3.  De tien-euromunt heeft een fijngeribbelde rand.   
+3.  De tien-euromunt heeft een fijngeribbelde rand.  
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in het Staatsblad en de Staatscourant zal worden geplaatst.   
 
@@ -32,10 +32,10 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in
 15 juni 2011  
 Beatrix  
 
-De Minister van Financiën, 
+De Minister van Financiën,  
 J. C. de Jager   
 
 de *zevenentwintigste* juni 2011 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

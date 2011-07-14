@@ -13,9 +13,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-– *aanleg of uitbreiding van het net:* een toename van de lengte, de capaciteit of de functionaliteit van een net, bedoeld in [artikel 1, eerste lid, onder i, van de Elektriciteitswet 1998](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), of van een gastransportnet, bedoeld in [artikel 1, eerste lid, onder d, van de Gaswet](../../../../../../../wet/gaswet/BWBR0011440/README.md), waar een externe behoefte aan ten grondslag ligt;  
+–  *aanleg of uitbreiding van het net:* een toename van de lengte, de capaciteit of de functionaliteit van een net, bedoeld in [artikel 1, eerste lid, onder i, van de Elektriciteitswet 1998](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), of van een gastransportnet, bedoeld in [artikel 1, eerste lid, onder d, van de Gaswet](../../../../../../../wet/gaswet/BWBR0011440/README.md), waar een externe behoefte aan ten grondslag ligt;  
 
-– *kwaliteits- en capaciteitsdocument:* een document als bedoeld in [artikel 21, tweede lid, van de Elektriciteitswet 1998](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 8, tweede lid, van de Gaswet](../../../../../../../wet/gaswet/BWBR0011440/README.md).    
+–  *kwaliteits- en capaciteitsdocument:* een document als bedoeld in [artikel 21, tweede lid, van de Elektriciteitswet 1998](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 8, tweede lid, van de Gaswet](../../../../../../../wet/gaswet/BWBR0011440/README.md).   
 
 ### §  2  
 
@@ -23,11 +23,11 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  2  
 
-Een voornemen tot een investering in de aanleg of uitbreiding van het net als bedoeld in [artikel 20e van de Elektriciteitswet 1998](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 39f van de Gaswet](../../../../../../../wet/gaswet/BWBR0011440/README.md) wordt gemeld door het overleggen van de gegevens, bedoeld in bijlage I.  
+Een voornemen tot een investering in de aanleg of uitbreiding van het net als bedoeld in [artikel 20e van de Elektriciteitswet 1998](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 39f van de Gaswet](../../../../../../../wet/gaswet/BWBR0011440/README.md) wordt gemeld door het overleggen van de gegevens, bedoeld in bijlage I. 
 
 ### Artikel  3  
 
-Een voornemen als bedoeld in artikel 2 wordt met een of meer andere voornemens geclusterd aangeleverd indien de voornemens onlosmakelijk met elkaar zijn verbonden.  
+Een voornemen als bedoeld in artikel 2 wordt met een of meer andere voornemens geclusterd aangeleverd indien de voornemens onlosmakelijk met elkaar zijn verbonden. 
 
 ### §  3  
 
@@ -35,19 +35,19 @@ Een voornemen als bedoeld in artikel 2 wordt met een of meer andere voornemens g
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van 1 juli 2011.  
+Deze regeling treedt in werking met ingang van 1 juli 2011. 
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Regeling melding aanleg- of uitbreidingsinvestering.  
+Deze regeling wordt aangehaald als: Regeling melding aanleg- of uitbreidingsinvestering. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 20 juni 2011   
 
 De 
-Minister van Economische Zaken, Landbouw en Innovatie,
-M.J.M.Verhagen  
+Minister van Economische Zaken, Landbouw en Innovatie, 
+M.J.M. Verhagen    
 
 ### Bijlage  I  
 

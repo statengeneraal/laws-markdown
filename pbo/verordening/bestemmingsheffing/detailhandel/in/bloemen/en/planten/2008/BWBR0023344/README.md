@@ -11,19 +11,26 @@ Besluit:
 
 ####Begripsbepaling en toepassingsgebied
 
-### Artikel  1  
+Materieel uitgewerkt per 03-06-2011 
 
-In deze verordening zijn de begripsbepalingen van de [Heffingsverordening Hoofdbedrijfschap Detailhandel 2008](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2008/BWBR0023306/README.md) van overeenkomstige toepassing.  
+### Artikel  1  
+Materieel uitgewerkt per 03-06-2011 
+
+In deze verordening zijn de begripsbepalingen van de [Heffingsverordening Hoofdbedrijfschap Detailhandel 2008](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2008/BWBR0023306/README.md) van overeenkomstige toepassing. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 03-06-2011 
 
-Deze verordening is van toepassing op ondernemers die een onderneming drijven waarin hoofdzakelijk de detailhandel in bloemen en planten wordt uitgeoefend.  
+Deze verordening is van toepassing op ondernemers die een onderneming drijven waarin hoofdzakelijk de detailhandel in bloemen en planten wordt uitgeoefend. 
 
 ### §  2  
 
 ####De heffing
 
+Materieel uitgewerkt per 03-06-2011 
+
 ### Artikel  3  
+Materieel uitgewerkt per 03-06-2011 
 
 1.  Aan degenen die een onderneming drijven als bedoeld in artikel 3, wordt voor het jaar 2008 een bestemmingsheffing opgelegd ten behoeve van de activiteiten van de Commissie voor de detailhandel in bloemen en planten. Doel van deze bestemmingsheffing is bevordering van een gezonde sociaal-economische ontwikkeling van de detailhandel in bloemen en planten door middel van professionalisering van de bedrijfsvoering, onderzoek en kwaliteitszorg en voldoende instroom van vakbekwame medewerkers.   
 2.  De heffing bedoeld in het eerste lid bestaat uit: 
@@ -43,9 +50,10 @@ c. een heffing werkzame personen, waarvan de hoogte afhankelijk is van de klasse
 | 6  | 20 tot en met 49  | € 21,–  |
 | 7 en hoger  | 50 en meer  | € 31,–  |
 
-6.  In afwijking van het tweede lid onder b is de ondernemer die uitsluitend de ambulante handel uitoefent vrijgesteld van de heffing op basis van het aantal verkoopplaatsen.   
+6.  In afwijking van het tweede lid onder b is de ondernemer die uitsluitend de ambulante handel uitoefent vrijgesteld van de heffing op basis van het aantal verkoopplaatsen.  
 
 ### Artikel  4  
+Materieel uitgewerkt per 03-06-2011 
 
 1.  Aan de ondernemer die lid is van: 
 
@@ -53,7 +61,7 @@ a. Centrale Vereniging Bloemendetailhandel (VBW),
 
 b. Tuinbranche Nederland (voorheen NVT),  
 
-c. Centrale Vereniging voor de Ambulante Handel (CVAH),   en over het jaar 2007 de volledige contributie heeft betaald, wordt een aftrek toegestaan van: € 10,– per verkoopplaats, met een maximum van € 50,– of € 10,– per onderneming indien de ondernemer uitsluitend de ambulante handel uitoefent. De aftrek bedraagt nooit meer dan 50% van de aan de onderhavige verenigingen betaalde contributie (exclusief BTW). De aftrek wordt slechts toegestaan indien uit door de in de eerste volzin genoemde organisaties verstrekte opgaven blijkt dat de contributie is betaald.   
+c. Centrale Vereniging voor de Ambulante Handel (CVAH),   en over het jaar 2007 de volledige contributie heeft betaald, wordt een aftrek toegestaan van: € 10,– per verkoopplaats, met een maximum van € 50,– of  € 10,– per onderneming indien de ondernemer uitsluitend de ambulante handel uitoefent. De aftrek bedraagt nooit meer dan 50% van de aan de onderhavige verenigingen betaalde contributie (exclusief BTW). De aftrek wordt slechts toegestaan indien uit door de in de eerste volzin genoemde organisaties verstrekte opgaven blijkt dat de contributie is betaald.   
 2.  Het eerste lid is van overeenkomstige toepassing op de ondernemers die, al dan niet rechtstreeks, lid zijn van een organisatie van ondernemers die een vereniging met volledige rechtsbevoegdheid is en die: 
 
 a. krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,  
@@ -65,27 +73,33 @@ c. tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan h
 d. met betrekking tot de behartiging van sociaal-economische belangen van ondernemers een positie van enige betekenis inneemt binnen de groep van ondernemers die zij beoogt te organiseren, hetgeen onder meer kan blijken uit de mate van representativiteit binnen die groep, de deelname aan het arbeidsvoorwaardenoverleg, het verrichten van studies of diensten die ook buiten die groep van belang worden geacht en de deelname aan regelmatig overleg met de overheid, en  
 
 e. haar activiteiten, al dan niet door middel van een federatie van gelijksoortige organisaties, landelijk ontplooit.     
-3.  De in het tweede lid bedoelde aftrek wordt slechts toegestaan indien daartoe door het bestuur van de desbetreffende organisatie een verzoek is gedaan en daarop door het dagelijks bestuur van het Hoofdbedrijfschap Detailhandel positief is beslist.   
+3.  De in het tweede lid bedoelde aftrek wordt slechts toegestaan indien daartoe door het bestuur van de desbetreffende organisatie een verzoek is gedaan en daarop door het dagelijks bestuur van het Hoofdbedrijfschap Detailhandel positief is beslist.  
 
 ### §  3  
 
 ####Overige bepalingen
 
-### Artikel  5  
+Materieel uitgewerkt per 03-06-2011 
 
-De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2008](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2008/BWBR0023306/README.md) zijn van overeenkomstige toepassing.  
+### Artikel  5  
+Materieel uitgewerkt per 03-06-2011 
+
+De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2008](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2008/BWBR0023306/README.md) zijn van overeenkomstige toepassing. 
 
 ### Artikel  6  
+Materieel uitgewerkt per 03-06-2011 
 
-De voorzitter neemt de krachtens deze verordening te nemen besluiten, met uitzondering van het besluit voortvloeiend uit artikel 4, derde lid.  
+De voorzitter neemt de krachtens deze verordening te nemen besluiten, met uitzondering van het besluit voortvloeiend uit artikel 4, derde lid. 
 
 ### Artikel  7  
+Materieel uitgewerkt per 03-06-2011 
 
-Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad Bedrijfsorganisatie.  
+Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad Bedrijfsorganisatie. 
 
 ### Artikel  8  
+Materieel uitgewerkt per 03-06-2011 
 
-Deze verordening wordt aangehaald als Verordening bestemmingsheffing detailhandel in bloemen en planten 2008.  
+Deze verordening wordt aangehaald als Verordening bestemmingsheffing detailhandel in bloemen en planten 2008. 
 Deze verordening zal in het Verordeningenblad Bedrijfsorganisatie worden geplaatst.   
 
 Den Haag 

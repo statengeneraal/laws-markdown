@@ -24,34 +24,34 @@ d. het adviseren bij individuele verzoeken aan de procureur-generaal om ontheffi
 e. het beoordelen van individuele verzoeken om ontheffing van de in onderdeel b bedoelde opleidingen en bijscholingen of onderdelen daarvan;  
 
 f. het adviseren van de directeur-generaal Belastingdienst over de in de vorige onderdelen genoemde taken.     
-3.  De toetsingscommissie rapporteert jaarlijks aan de directeur-generaal Belastingdienst. De directeur-generaal Belastingdienst informeert het Ministerie van Veiligheid en Justitie.   
+3.  De toetsingscommissie rapporteert jaarlijks aan de directeur-generaal Belastingdienst. De directeur-generaal Belastingdienst informeert het Ministerie van Veiligheid en Justitie.  
 
 ### Artikel  2  
 
 1.  De leden van de toetsingscommissie zijn afkomstig uit de Belastingdienst en het openbaar ministerie.   
 2.  De Staatssecretaris van Financiën benoemt en ontslaat de leden afkomstig uit de Belastingdienst. De Staatssecretaris van Financiën verzoekt de Minister van Veiligheid en Justitie een lid van het openbaar ministerie aan te wijzen als lid van de toetsingscommissie.   
-3.  De leden kiezen uit hun midden een voorzitter en een secretaris. De voorzitter is afkomstig uit de Belastingdienst.   
+3.  De leden kiezen uit hun midden een voorzitter en een secretaris. De voorzitter is afkomstig uit de Belastingdienst.  
 
 ### Artikel  3  
 
 1.  De leden worden voor vijf jaar benoemd en kunnen al dan niet op verzoek worden herbenoemd of ontslagen.   
-2.  Bij verlies van de hoedanigheid op grond waarvan de benoeming plaatsvond, wordt ontslag verleend.   
+2.  Bij verlies van de hoedanigheid op grond waarvan de benoeming plaatsvond, wordt ontslag verleend.  
 
 ### Artikel  4  
 
-Ter uitvoering van de werkzaamheden, bedoeld in artikel 2, onderdelen a tot en met e, stelt de examencommissie een examenreglement en een instructie behandeling materiaal op. In het examenreglement worden onder andere regels gesteld met betrekking tot de wijze van toetsen, de normstelling en de vaststelling van de uitslagen, met betrekking tot vrijstellingen en met betrekking tot heroverweging van vastgestelde uitslagen. In de instructie behandeling materiaal worden richtlijnen gegeven voor de coördinatoren van de desbetreffende opleiding en wordt de werkwijze van de examencommissie nader uitgewerkt.  
+Ter uitvoering van de werkzaamheden, bedoeld in artikel 2, onderdelen a tot en met e, stelt de examencommissie een examenreglement en een instructie behandeling materiaal op. In het examenreglement worden onder andere regels gesteld met betrekking tot de wijze van toetsen, de normstelling en de vaststelling van de uitslagen, met betrekking tot vrijstellingen en met betrekking tot heroverweging van vastgestelde uitslagen. In de instructie behandeling materiaal worden richtlijnen gegeven voor de coördinatoren van de desbetreffende opleiding en wordt de werkwijze van de examencommissie nader uitgewerkt. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking op 1 juli 2011 en wordt gepubliceerd in de Staatscourant.  
+Dit besluit treedt in werking op 1 juli 2011 en wordt gepubliceerd in de Staatscourant. 
 
 ### Artikel  6  
 
-Dit besluit kan worden aangehaald als: Instellingsbesluit toetsingscommissie buitengewoon opsporingsambtenaar Belastingdienst 2011. Het [Instellingsbesluit toetsingscommissie buitengewoon opsporingsambtenaar Belastingdienst 2006](../../../../../../../ministeriele-regeling/instellingsbesluit/toetsingscommissie/buitengewoon/opsporingsambtenaar/etc/BWBR0019990/README.md) van 21 juni 2006 is hiermee vervallen.  
+Dit besluit kan worden aangehaald als: Instellingsbesluit toetsingscommissie buitengewoon opsporingsambtenaar Belastingdienst 2011. Het [Instellingsbesluit toetsingscommissie buitengewoon opsporingsambtenaar Belastingdienst 2006](../../../../../../../ministeriele-regeling/instellingsbesluit/toetsingscommissie/buitengewoon/opsporingsambtenaar/etc/BWBR0019990/README.md) van 21 juni 2006 is hiermee vervallen. 
 
 Den Haag 
 10 juni 2011   
 
 De 
-Staatssecretaris van Financiën,
-F.H.H.Weekers   
+Staatssecretaris van Financiën, 
+F.H.H. Weekers     

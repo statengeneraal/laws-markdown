@@ -10,21 +10,21 @@ Besluit:
 
 ####Vaststelling handboek
 
-Wijzigt de Regeling financiële verantwoording landelijke publieke media-instellingen, Wereldomroep en Ster.   
+Wijzigt de Regeling financiële verantwoording landelijke publieke media-instellingen, Wereldomroep en Ster.
 
 ### Artikel  II  
 
 ####Overgangsrecht
 
-Voor de verantwoording van de landelijke publieke media-instellingen, de Wereldomroep en de Ster van het jaar 2010 blijft de [Regeling financiële verantwoording landelijke publieke media-instellingen, Wereldomroep en Ster](../../../../../../../../../ministeriele-regeling/regeling/financiële/verantwoording/landelijke/publieke/media-instellingen/etc/BWBR0026321/README.md) zoals die luidde voor inwerkingtreding van deze regeling van toepassing.  
+Voor de verantwoording van de landelijke publieke media-instellingen, de Wereldomroep en de Ster van het jaar 2010 blijft de [Regeling financiële verantwoording landelijke publieke media-instellingen, Wereldomroep en Ster](../../../../../../../../../ministeriele-regeling/regeling/financiële/verantwoording/landelijke/publieke/media-instellingen/etc/BWBR0026321/README.md) zoals die luidde voor inwerkingtreding van deze regeling van toepassing. 
 
 ### Artikel  III  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2011.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2011. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap,
-J.M. vanBijsterveldt-Vliegenthart   
+Minister van Onderwijs, Cultuur en Wetenschap, 
+J.M. van Bijsterveldt-Vliegenthart     

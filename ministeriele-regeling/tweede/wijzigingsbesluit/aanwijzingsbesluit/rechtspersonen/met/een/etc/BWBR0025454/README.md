@@ -10,28 +10,28 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.   
+Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie. 
 
 ### Artikel  II  
 
-Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.   
+Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie. 
 
 ### Artikel  III  
 
-Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.   
+Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie. 
 
 ### Artikel  IV  
 
-Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.   
+Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie. 
 
 ### Artikel  V  
 
-Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.   
+Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie. 
 
 ### Artikel  VI  
 
 1.  Voor de op grond van artikel I aangewezen rechtspersonen geldt, tenzij artikel VII, eerste lid, onder b, op een betrokken rechtspersoon van toepassing is, dat de toepassing van [artikel 45, eerste lid, van de Comptabiliteitswet 2001](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) zodanig in de tijd gefaseerd zal geschieden, dat de op het moment van inwerkingtreding van dit besluit nog op een andere wijze uitgezette liquide middelen van de betrokken rechtspersonen, op een naar het oordeel van de Minister van Financiën doelmatige wijze in ’s Rijks schatkist zullen worden opgenomen.   
-2.  De Minister van Financiën stelt binnen zes maanden na de inwerkingtreding van dit besluit na overleg met de in het eerste lid bedoelde rechtspersonen voor elke rechtspersoon een tijdschema vast ter uitvoering van het eerste lid. Zo nodig geeft de Minister van Financiën een rechtspersoon een aanwijzing voor de uitvoering.   
+2.  De Minister van Financiën stelt binnen zes maanden na de inwerkingtreding van dit besluit na overleg met de in het eerste lid bedoelde rechtspersonen voor elke rechtspersoon een tijdschema vast ter uitvoering van het eerste lid. Zo nodig geeft de Minister van Financiën een rechtspersoon een aanwijzing voor de uitvoering.  
 
 ### Artikel  VII  
 
@@ -40,12 +40,12 @@ Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.
 a. voor de particuliere justitiële jeugdinrichtingen die voor de eerste keer worden opgenomen in [bijlage B](../../../../../../../../../AMvB/aanwijzingsbesluit/rechtspersonen/met/een/beperkte/kasbeheerfunctie/BWBR0017117/README.md) in samenhang met de werkingssfeer van het [onderdeel 2 van bijlage A bij het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie](../../../../../../../../../AMvB/aanwijzingsbesluit/rechtspersonen/met/een/beperkte/kasbeheerfunctie/BWBR0017117/README.md), en  
 
 b. voor de rechtspersonen die worden opgenomen in [onderdeel 1 van Bijlage A bij het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie](../../../../../../../../../AMvB/aanwijzingsbesluit/rechtspersonen/met/een/beperkte/kasbeheerfunctie/BWBR0017117/README.md);   het besluit terugwerkt tot en met de datum waarop deze rechtspersonen daadwerkelijk aan het schatkistbankieren zijn gaan deelnemen.   
-2.  Dit besluit wordt aangehaald als: Tweede wijzigingsbesluit Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.   
+2.  Dit besluit wordt aangehaald als: Tweede wijzigingsbesluit Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.  
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Financiën, 
-W.J.Bos  
+W.J. Bos    
 
 ### Bijlage  1  
 
@@ -157,7 +157,7 @@ Ministerie van Justitie
 
 – Centrum indicatiestelling zorg (CIZ);  
 
-– Nederlandse Zorgautoriteit (NZa).    
+– Nederlandse Zorgautoriteit (NZa).   
 
 ### A2  
 
@@ -169,7 +169,7 @@ Ministerie van Justitie en Minister voor Jeugd en Gezin
 
 – Stichting Nationaal Restauratiefonds;  
 
-– Bekostigde onderwijsinstellingen, bedoeld in de onderwijswetgeving , die bij de Minister van Financiën schriftelijk het verzoek indienen om voor de toepassing van [artikel 45, eerste lid, van de Comptabiliteitswet 2001](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) in aanmerking te komen en waarvan de Minister van Financiën dit verzoek heeft gehonoreerd; <sup> 1  Betreft de volgende wetten: [Wet op het primair onderwijs](../../../../../../../../../wet/wbo/BWBR0003420/README.md), [Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [Wet op de expertisecentra](../../../../../../../../../wet/isovso/BWBR0003549/README.md), [Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).  </sup>  
+– Bekostigde onderwijsinstellingen, bedoeld in de onderwijswetgeving<sup>1 Betreft de volgende wetten: Wet op het primair onderwijs, Wet op het voortgezet onderwijs, Wet op de expertisecentra, Wet educatie en beroepsonderwijs, Wet op het hoger onderwijs en wetenschappelijk onderzoek.</sup>, die bij de Minister van Financiën schriftelijk het verzoek indienen om voor de toepassing van [artikel 45, eerste lid, van de Comptabiliteitswet 2001](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) in aanmerking te komen en waarvan de Minister van Financiën dit verzoek heeft gehonoreerd;  
 
 – Kenniscentra beroepsonderwijs bedrijfsleven, bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), die bij de Minister van Financiën schriftelijk het verzoek indienen om voor de toepassing van [artikel 45, eerste lid, van de Comptabiliteitswet 2001](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) in aanmerking te komen en waarvan de Minister van Financiën dit verzoek heeft gehonoreerd;  
 
@@ -187,11 +187,11 @@ Ministerie van Justitie en Minister voor Jeugd en Gezin
 
 – Stichting Nationaal Groenfonds.   Ministerie van Volksgezondheid, Welzijn en Sport 
 
-– Stichting Afwikkeling Het Gebaar ; <sup> 2  Per 24-12-2008 is de naam van de Stichting Het Gebaar gewijzigd in: Stichting Afwikkeling Het Gebaar.  </sup>  
+– Stichting Afwikkeling Het Gebaar<sup>2 Per 24-12-2008 is de naam van de Stichting Het Gebaar gewijzigd in: Stichting Afwikkeling Het Gebaar.</sup>;  
 
 – Stichting Rechtsherstel Sinti en Roma;  
 
-– Stichting Fonds Patiënten, Gehandicapten en Ouderen (PGO).    
+– Stichting Fonds Patiënten, Gehandicapten en Ouderen (PGO).   
 
 ### B1  
 
@@ -283,7 +283,7 @@ Ministerie van Justitie
 
 – Stichting Bureau Architectenregister (SBA).   Ministerie van Verkeer en Waterstaat 
 
-– Stichting VAM, Opleidingsinstituut voor het Motorvoertuig-, Tweewieler- en Aanverwant Bedrijf ; <sup> 3  De aanwijzing heeft concreet betrekking op het organisatie-onderdeel zonder rechtspersoonlijkheid: Innovam Branchekwalificatie-instituut.  </sup>  
+– Stichting VAM, Opleidingsinstituut voor het Motorvoertuig-, Tweewieler- en Aanverwant Bedrijf<sup>3 De aanwijzing heeft concreet betrekking op het organisatie-onderdeel zonder rechtspersoonlijkheid: Innovam Branchekwalificatie-instituut.</sup>;  
 
 – Stichting inschrijving Eigen Vervoer;  
 
@@ -319,7 +319,7 @@ Ministerie van Justitie
 
 – College bouw ziekenhuisvoorzieningen (CBZ);  
 
-– College sanering ziekenhuisvoorzieningen (CSZ).    
+– College sanering ziekenhuisvoorzieningen (CSZ).   
 
 ### Bijlage  2  
 
@@ -329,20 +329,20 @@ Onder geïntegreerd middelenbeheer wordt verstaan de combinatiemogelijkheid van 
 
 | Categorieën instellingen  | Wettelijke basis  | Schatkist-bankieren bij IXA  | RC-krediet bij IXA  | Lenen bij IXA  |
 |:---|:---|:---|:---|:---|
-| RWT’s  | Aangewezen op A1- of A2-lijst  | * [Art. 45-49a Comptabiliteitswet 2001](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) * [Regeling rekening-courant- en leningenbeheer derden](../../../../../../../../../ministeriele-regeling/regeling/rekening-courant-/en/leningenbeheer/derden/BWBR0021734/README.md) (Stcrt. 2007, 77 en 79)  | ja  | ja  | ja  |
+| RWT’s   | Aangewezen op A1- of A2-lijst  | * [Art. 45-49a Comptabiliteitswet 2001](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) * [Regeling rekening-courant- en leningenbeheer derden](../../../../../../../../../ministeriele-regeling/regeling/rekening-courant-/en/leningenbeheer/derden/BWBR0021734/README.md) (Stcrt. 2007, 77 en 79)   | ja  | ja  | ja  |
 | --- | --- | --- | --- | --- | --- |
 | UWV en SVB  | Sociale fondsen  | * [Artt. 119](../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en [120 Wet financiering sociale verzekeringen](../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) (Stb. 2005, 36) * [Regeling Wfsv](../../../../../../../../../ministeriele-regeling/regeling/wfsv/BWBR0019150/README.md) (Stcrt. 2005, 242)  | ja  | ja  | nee  |
 | --- | --- | --- | --- | --- | --- |
 | CVZ  | Sociale fondsen  | * Idem als UWV;  | ja  | ja  | nee  |
 | * [Art. 39](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en [40 Zorgverzekeringswet](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) (Stb. 2006, 79)  | --- | --- | --- |
-| * [Regeling zorgverzekering](../../../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) (Stcrt. 2005, 203)  | --- | --- | --- |
+| * [Regeling zorgverzekering](../../../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) (Stcrt. 2005, 203)   | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- |
 | BLS-diensten (juridisch geen derden)  | ca. 40 aangewezen rijksdiensten  | [Regeling Baten-lastendiensten 2007](../../../../../../../../../ministeriele-regeling/regeling/baten-lastendiensten/2007/BWBR0021362/README.md) (Stcrt. 2007, 42)  | ja  | ja  | ja  |
 | --- | --- | --- | --- | --- | --- |
-| Gesubsidieerde derden met publieke voorschotten  | geen natuurlijke personen  | * [Art. 24, lid 6 Comptabiliteitswet 2001](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md)  | ja  | ja  | nee  |
+| Gesubsidieerde derden met publieke voorschotten  | geen natuurlijke personen   | * [Art. 24, lid 6 Comptabiliteitswet 2001](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md)  | ja  | ja  | nee  |
 | * [Regeling verlening voorschotten 2007](../../../../../../../../../ministeriele-regeling/regeling/verlening/voorschotten/2007/BWBR0022914/README.md) (Stcrt. 2007, 233)  | --- | --- | --- |
 | * specifieke subsidieregelingen;  | --- | --- | --- |
 | * [Regeling rekening-courant- en leningenbeheer derden](../../../../../../../../../ministeriele-regeling/regeling/rekening-courant-/en/leningenbeheer/derden/BWBR0021734/README.md) (Stcrt. 2007, 77 en 79)  | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- |
-| Derden (incidenteel) met publieke eigen middelen  | geen natuurlijke personen  | * [Art. 24, lid 6 Comptabiliteitswet 2001](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md)  | ja  | ja  | nee  |
+| Derden (incidenteel) met publieke eigen middelen  | geen natuurlijke personen   | * [Art. 24, lid 6 Comptabiliteitswet 2001](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md)  | ja  | ja  | nee  |
 

@@ -8,19 +8,19 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Kaderregeling VWS-subsidies.   
+Wijzigt de Kaderregeling VWS-subsidies. 
 
 ### Artikel  II  
 
 1.  Het subsidieplafond voor het verlenen van projectsubsidies uit hoofde van het ‘Beleidskader Sport en Bewegen in de Buurt 2011: uitrol interventies’ in 2011 bedraagt € 4 miljoen.   
-2.  Het subsidieplafond voor het verlenen van projectsubsidies uit hoofde van het ‘Beleidskader Sport en Bewegen in de Buurt: private interventies’ in 2011 bedraagt € 2 miljoen.   
+2.  Het subsidieplafond voor het verlenen van projectsubsidies uit hoofde van het ‘Beleidskader Sport en Bewegen in de Buurt: private interventies’ in 2011 bedraagt € 2 miljoen.  
 
 ### Artikel  III  
 
 1.  Artikel I van dit besluit treedt in werking onmiddellijk nadat de [Kaderregeling VWS-subsidies](../../../../../../../../../ministeriele-regeling/kaderregeling/vws-subsidies/BWBR0029947/README.md) in werking is getreden.   
-2.  Artikel II van dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.   
+2.  Artikel II van dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.  
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers   
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers     

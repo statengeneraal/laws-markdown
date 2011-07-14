@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Financiën van 5 oktober 2007, nr. FM 2007-2455 M;
 
-Gelet op richtlijn nr. 2004/39 EG van het Europees Parlement en de Raad van de Europese Unie van 21 april 2004 betreffende markten voor financiële instrumenten, tot wijziging van de richtlijnen nr. 85/611/EEG en 93/6/EEG van de Raad en van richtlijn nr. 2000/12/EG van het Europees Parlement en de Raad en houdende intrekking van Richtlijn 93/22/EEG van de Raad (PbEU L 145) en richtlijn nr. 2006/73/EG van de Commissie van de Europese Gemeenschappen van 10 augustus 2006 tot uitvoering van Richtlijn 2004/39/EG van het Europees Parlement en de Raad wat betreft de door beleggingsondernemingen in acht te nemen organisatorische eisen en voorwaarden voor de bedrijfsuitoefening en wat betreft de definitie van begrippen voor de toepassing van genoemde richtlijn (PbEU L 241) alsmede de [artikelen 3:17, tweede lid, aanhef en onderdeel c](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:11, derde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:14, tweede lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:16, tweede en derde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:18c, vierde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:19, vierde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:20, eerste, tweede, derde en vierde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:22, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:23, derde lid, onderdelen a en b](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:24, vierde lid, onderdeel e, en vijfde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:25, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:87, derde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:88, derde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:90, tweede lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:90b, tiende lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:90d, en vierde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [5:27, tweede en vijfde lid, van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);
+Gelet op richtlijn nr. 2004/39EG van het Europees Parlement en de Raad van de Europese Unie van 21 april 2004 betreffende markten voor financiële instrumenten, tot wijziging van de richtlijnen nr. 85/611/EEG en 93/6/EEG van de Raad en van richtlijn nr. 2000/12/EG van het Europees Parlement en de Raad en houdende intrekking van Richtlijn 93/22/EEG van de Raad (PbEU L 145) en richtlijn nr. 2006/73/EG van de Commissie van de Europese Gemeenschappen van 10 augustus 2006 tot uitvoering van Richtlijn 2004/39/EG van het Europees Parlement en de Raad wat betreft de door beleggingsondernemingen in acht te nemen organisatorische eisen en voorwaarden voor de bedrijfsuitoefening en wat betreft de definitie van begrippen voor de toepassing van genoemde richtlijn (PbEU L 241) alsmede de [artikelen 3:17, tweede lid, aanhef en onderdeel c](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:11, derde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:14, tweede lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:16, tweede en derde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:18c, vierde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:19, vierde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:20, eerste, tweede, derde en vierde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:22, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:23, derde lid, onderdelen a en b](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:24, vierde lid, onderdeel e, en vijfde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:25, eerste lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:87, derde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:88, derde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:90, tweede lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:90b, tiende lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:90d, en vierde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [5:27, tweede en vijfde lid, van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);
 
 De Raad van State gehoord (advies van 17 oktober 2007, no. W06.07.0368/III);
 
@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder wet: [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder wet: [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). 
 
 ### §  2  
 
@@ -58,7 +58,7 @@ l. indien van toepassing:
 
 2°. gegevens op basis waarvan de Autoriteit Financiële Markten of, in voorkomend geval, de Minister van Financiën kan beoordelen of voldaan wordt aan hetgeen is bepaald met betrekking tot de betrouwbaarheid van de houder van een gekwalificeerde deelneming in de aanvrager die op grond hiervan het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en  
 
-3°. bescheiden waaruit de financiële positie en de juridische groepsstructuur van de houder van een gekwalificeerde deelneming in de aanvrager blijken.      
+3°. bescheiden waaruit de financiële positie en de juridische groepsstructuur van de houder van een gekwalificeerde deelneming in de aanvrager blijken.     
 
 ### Artikel  3  
 
@@ -73,7 +73,7 @@ c. een opgave van de relevante diploma’s;
 d. een kopie van een geldig identiteitsbewijs; en  
 
 e. een opgave van referenten.     
-2.  Het artikel 2, onderdelen g en l, onder 2°, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) door een toezichthouder reeds is vastgesteld.   
+2.  Het artikel 2, onderdelen g en l, onder 2°, is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) door een toezichthouder reeds is vastgesteld.  
 
 ####Bepaling ter uitvoering van [artikel 5:27, vijfde lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)
 
@@ -85,7 +85,7 @@ e. een opgave van referenten.
 a. binnen zes weken na ontvangst van de melding; of  
 
 b. indien de zij binnen twee weken na ontvangst van de melding de marktexploitant om nadere gegevens heeft verzocht, binnen vier weken na ontvangst van die gegevens, doch uiterlijk binnen dertien weken na ontvangst van de melding.     
-3.  Het tweede lid is niet van toepassing indien de op grond daarvan toepasselijke termijn geen redelijke termijn is voor een besluit omtrent de instemming inzake de voorgenomen wijziging. In dat geval stelt de Autoriteit Financiële Markten de marktexploitant daarvan in kennis onder vermelding van een termijn waarbinnen zij verwacht te kunnen besluiten.   
+3.  Het tweede lid is niet van toepassing indien de op grond daarvan toepasselijke termijn geen redelijke termijn is voor een besluit omtrent de instemming inzake de voorgenomen wijziging. In dat geval stelt de Autoriteit Financiële Markten de marktexploitant daarvan in kennis onder vermelding van een termijn waarbinnen zij verwacht te kunnen besluiten.  
 
 ### §  3  
 
@@ -93,31 +93,31 @@ b. indien de zij binnen twee weken na ontvangst van de melding de marktexploitan
 
 ### Artikel  5  
 
-Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.   
+Wijzigt het Besluit Markttoegang financiële ondernemingen Wft. 
 
 ### Artikel  6  
 
-Wijzigt het Besluit prudentiële regels Wft.   
+Wijzigt het Besluit prudentiële regels Wft. 
 
 ### Artikel  7  
 
-Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.   
+Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft. 
 
 ### Artikel  8  
 
-Wijzigt het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft.   
+Wijzigt het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft. 
 
 ### Artikel  9  
 
-Wijzigt het Besluit marktmisbruik Wft.   
+Wijzigt het Besluit marktmisbruik Wft. 
 
 ### Artikel  10  
 
-Wijzigt het Besluit boetes Wft.   
+Wijzigt het Besluit boetes Wft. 
 
 ### Artikel  11  
 
-Wijzigt het Besluit bekostiging financieel toezicht.   
+Wijzigt het Besluit bekostiging financieel toezicht. 
 
 ### §  4  
 
@@ -125,11 +125,11 @@ Wijzigt het Besluit bekostiging financieel toezicht.
 
 ### Artikel  12  
 
-De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  13  
 
-Dit besluit wordt aangehaald als: Besluit gereglementeerde markten Wft  
+Dit besluit wordt aangehaald als: Besluit gereglementeerde markten Wft 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -142,5 +142,5 @@ W. J. Bos
 
 de *eenendertigste* oktober 2007 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    
