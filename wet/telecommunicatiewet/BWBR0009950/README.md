@@ -1880,7 +1880,11 @@ a. *gegevens:* de verkeers- en locatiegegevens, bedoeld in artikel 11.1, onderde
 
 b. *oproeppoging zonder resultaat:* een communicatie waarbij een telefoonoproep wel tot een verbinding heeft geleid, maar onbeantwoord is gebleven of via het netwerkbeheer is beantwoord.     
 2.  Aanbieders van openbare telecommunicatienetwerken of openbare telecommunicatiediensten bewaren de in de bij deze wet behorende bijlage aangewezen gegevens, voorzover deze in het kader van de aangeboden netwerken of diensten worden gegenereerd of verwerkt, ten behoeve van het onderzoeken, opsporen en vervolgen van ernstige misdrijven.   
-3.  De gegevens, bedoeld in het tweede lid, worden door de aanbieders bewaard gedurende een periode van twaalf maanden, gerekend vanaf de datum van de communicatie.   
+3.  De gegevens, bedoeld in het tweede lid, worden door de aanbieders bewaard gedurende een periode van: 
+
+a. twaalf maanden voor gegevens in verband met telefonie over een vast of mobiel netwerk, bedoeld in de bij deze wet behorende bijlage, onder A, of  
+
+b. zes maanden voor gegevens in verband met internettoegang, e-mail over het internet en internettelefonie, bedoeld in de bij deze wet behorende bijlage, onder B, gerekend vanaf de datum van de communicatie.     
 4.  De verplichting, bedoeld in het tweede lid, heeft betrekking op gegevens van oproeppogingen zonder resultaat, voorzover deze gegevens door de aanbieders bij het aanbieden van openbare telecommunicatienetwerken of openbare telecommunicatiediensten worden gegenereerd, verwerkt en opgeslagen of gelogd.   
 
 ### Artikel  13.2b  

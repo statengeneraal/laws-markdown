@@ -580,48 +580,66 @@ De organen van de NOS zijn een raad van toezicht en een directie.
 
 ### Artikel  2.34c  
 
-1.  De raad van bestuur vormt de raad van toezicht van de NOS.   
-2.  De toelage aan de leden van de raad van toezicht bedraagt nihil.   
+1.  De raad van toezicht van de NOS bestaat uit vijf of zeven leden die op voordracht van de raad van toezicht door Onze Minister worden benoemd en die door Onze Minister kunnen worden geschorst en ontslagen.   
+2.  De raad van toezicht wijst uit zijn midden de voorzitter aan.   
+3.  Benoeming geschiedt voor een periode van vier jaar en herbenoeming voor een aansluitende periode is eenmaal mogelijk.   
+4.  De raad van toezicht wordt zodanig samengesteld dat bestuurlijke ervaring en deskundigheid op de terreinen die relevant zijn voor het media-aanbod dat de NOS verzorgt, aanwezig zijn.   
 
 ### Artikel  2.34d  
+
+1.  Het lidmaatschap van de raad van toezicht van de NOS is onverenigbaar met: 
+
+a. de functie van lid van de directie van de NOS;  
+
+b. het lidmaatschap van een orgaan van of een dienstbetrekking bij de NPO of een landelijke publieke media-instelling;  
+
+c. het lidmaatschap van een orgaan van of een dienstbetrekking bij een commerciële media-instelling;  
+
+d. het lidmaatschap van een van beide Kamers der Staten-Generaal, een provinciaal bestuur of een gemeentebestuur;  
+
+e. een dienstbetrekking bij een ministerie of bij een dienst, instelling of bedrijf direct vallende onder de verantwoordelijkheid van een minister; en  
+
+f. het hebben van financiële of andere belangen bij bedrijven of instellingen en het vervullen van nevenfuncties waardoor een goede vervulling van de functie of de handhaving van de onafhankelijkheid van het betrokken lid of van het vertrouwen daarin in het geding kan zijn.     
+2.  Schorsing en ontslag zijn mogelijk wegens: 
+
+a. ongeschiktheid;  
+
+b. disfunctioneren; en  
+
+c. onverenigbaarheid als bedoeld in het eerste lid.     
+3.  Ontslag is verder mogelijk op eigen verzoek.   
+4.  De leden van de raad van toezicht kunnen gezamenlijk worden ontslagen, als bij de evaluatie bedoeld, in artikel 2.184, derde lid, is vastgesteld dat de NOS onvoldoende heeft bijgedragen aan de uitvoering van de publieke mediaopdracht op landelijk niveau door de wijze waarop zij uitvoering heeft gegeven aan de publieke taak, bedoeld in artikel 2.34a. In geval van een ontslag als bedoeld in de eerste volzin benoemt Onze Minister de leden van de nieuwe raad van toezicht.   
+5.  De leden van de raad van toezicht ontvangen van de NOS een door Onze Minister vast te stellen vergoeding.   
+
+### Artikel  2.34e  
 
 1.  De raad van toezicht houdt toezicht op het beleid van de directie en op de algemene gang van zaken binnen de NOS en de pluriformiteit van het media-aanbod van de NOS en staat de directie met advies terzijde.   
 2.  Bij de vervulling van hun taak richten de leden van de raad van toezicht zich naar het algemene belang van de NOS.   
 
-### Artikel  2.34e  
+### Artikel  2.34f  
 
 1.  De directie van de NOS bestaat uit ten hoogste drie leden die worden benoemd, geschorst en ontslagen door de raad van toezicht.   
-2.  Het lidmaatschap van de directie is onverenigbaar met: 
-
-a. het lidmaatschap van een orgaan van of een dienstbetrekking bij de NPO of een landelijke publieke media-instelling;  
-
-b. het lidmaatschap van een orgaan van of een dienstbetrekking bij een commerciële media-instelling;  
-
-c. het lidmaatschap van een van beide Kamers der Staten-Generaal, een provinciaal bestuur of een gemeentebestuur;  
-
-d. een dienstbetrekking bij een ministerie of bij een dienst, instelling of bedrijf direct vallende onder de verantwoordelijkheid van een minister; en  
-
-e. het hebben van financiële of andere belangen bij bedrijven of instellingen en het vervullen van nevenfuncties waardoor een goede vervulling van de functie of de handhaving van de onafhankelijkheid van het betrokken lid of van het vertrouwen daarin in het geding kan zijn.     
+2.  Artikel 2.34d, eerste lid, onderdelen b tot en met f, is van overeenkomstige toepassing op de leden van de directie.   
 3.  De directieleden zijn in dienst van de NOS. De raad van toezicht stelt hun arbeidsvoorwaarden vast.   
 
-### Artikel  2.34f  
+### Artikel  2.34g  
 
 1.  De directie bestuurt de NOS.   
 2.  De directie is belast met de dagelijkse leiding en het financiële beheer van de NOS.   
 3.  De directie is verder belast met datgene wat niet uitdrukkelijk tot de taken of bevoegdheden van de raad van toezicht behoort.   
 
-### Artikel  2.34g  
+### Artikel  2.34h  
 
 1.  De NOS verstrekt Onze Minister desgevraagd alle inlichtingen met betrekking tot de werkzaamheden van de stichting.   
 2.  Onze Minister kan inzage verlangen in zakelijke gegevens en bescheiden van de NOS voor zover dat voor de vervulling van zijn taak nodig is.   
 
-### Artikel  2.34h  
+### Artikel  2.34i  
 
 1.  De NOS stelt jaarlijks vóór 1 mei een jaarverslag over het afgelopen kalenderjaar vast.   
 2.  In het jaarverslag wordt aandacht besteed aan de werkzaamheden van de NOS, het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van de werkzaamheden in het bijzonder.   
 3.  De NOS zendt het jaarverslag aan Onze Minister en maakt het openbaar.   
 
-### Artikel  2.34i  
+### Artikel  2.34j  
 
 1.  Wijziging in de statuten van de NOS behoeven de instemming van Onze Minister.   
 2.  De raad van toezicht en de directie kunnen niet besluiten tot ontbinding van de NOS.   
@@ -2078,6 +2096,7 @@ b. het besluit tot het ter beschikking stellen van bijdragen intrekken of wijzig
 2.  Een evaluatie vindt in elk geval eens in de vijf jaar plaats.   
 3.  Als in de rapportage, bedoeld in artikel 2.186, eerste lid, is vastgesteld dat een omroepvereniging of de educatieve media-instelling onvoldoende heeft bijgedragen aan de uitvoering van de publieke mediaopdracht op landelijk niveau door de wijze waarop zij uitvoering heeft gegeven aan de publieke taak, bedoeld in artikel 2.24, tweede lid, onderdeel b, onderscheidenlijk artikel 2.28, tweede lid, onderdeel b, vindt in afwijking van het tweede lid in elk geval binnen twee jaar na het tijdstip waarop deze rapportage is uitgebracht, een nieuwe evaluatie plaats van de wijze waarop de desbetreffende omroepvereniging of de educatieve media-instelling uitvoering geeft aan deze publieke taak.   
 4.  Als in de rapportage, bedoeld in artikel 2.186, eerste lid, betreffende de vorige evaluatie is vastgesteld dat de NPS onvoldoende heeft bijgedragen aan de uitvoering van de publieke mediaopdracht op landelijk niveau door de wijze waarop zij uitvoering heeft gegeven aan haar publieke taak, bedoeld in artikel 2.35, vindt in afwijking van het tweede lid in elk geval binnen twee jaar na het tijdstip waarop deze rapportage is uitgebracht, een nieuwe evaluatie plaats.   
+5.  Als in de rapportage, bedoeld in artikel 2.186, eerste lid, betreffende de vorige evaluatie is vastgesteld dat de NOS onvoldoende heeft bijgedragen aan de uitvoering van de publieke mediaopdracht op landelijk niveau door de wijze waarop zij uitvoering heeft gegeven aan haar publieke taak, bedoeld in artikel 2.34a, vindt in afwijking van het tweede lid in elk geval binnen twee jaar na het tijdstip waarop deze rapportage is uitgebracht, een nieuwe evaluatie plaats.   
 
 ### Artikel  2.185  
 
@@ -2874,7 +2893,7 @@ Het Commissariaat plaatst besluiten tot vaststelling van nadere regels op grond 
 
 1.  Het Commissariaat is belast met de bestuursrechtelijke handhaving van het bepaalde bij of krachtens deze wet, met uitzondering van: 
 
-a. de artikelen 2.2 tot en met 2.22, 2.24 tot en met 2.33, 2.34a tot en met 2.34i, 2.36 tot en met 2.41, 2.53 tot en met 2.57, 2.59, 2.60, 2.73 tot en met 2.87, 2.125 tot en met 2.131, 2.143 tot en met 2.145, 2.149, 2.150, eerste lid, 2.151, eerste lid, 2.158, 2.163, 2.164, eerste en tweede lid, 2.166 tot en met 2.168, 2.180 tot en met 2.187, 4.2 tot en met 4.5 en 6.26; en  
+a. de artikelen 2.2 tot en met 2.22, 2.24 tot en met 2.33, 2.34a tot en met 2.34j, 2.36 tot en met 2.41, 2.53 tot en met 2.57, 2.59, 2.60, 2.73 tot en met 2.87, 2.125 tot en met 2.131, 2.143 tot en met 2.145, 2.149, 2.150, eerste lid, 2.151, eerste lid, 2.158, 2.163, 2.164, eerste en tweede lid, 2.166 tot en met 2.168, 2.180 tot en met 2.187, 4.2 tot en met 4.5 en 6.26; en  
 
 b. hoofdstuk 8.     
 2.  Met het toezicht op de naleving zijn belast de leden van het Commissariaat en de bij besluit van het Commissariaat aangewezen medewerkers van het Commissariaat.   

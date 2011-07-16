@@ -49,6 +49,10 @@ d. overig gebruik.
 3.  De procedure van veiling of vergelijkende toets wordt alleen toegepast terzake van de verdeling van frequentieruimte voor de hoofdcategorie zakelijk gebruik en de categorie commerciële omroep. De hiervoor genoemde procedures worden niet toegepast indien het redelijkerwijs te verwachten is dat er met betrekking tot de vraag naar de frequentieruimte sprake zal zijn van een voldoende aanbod van de frequentieruimte.   
 4.  In de gevallen waarin de veiling of de vergelijkende toets op grond van het derde lid niet wordt toegepast, alsmede bij de hoofdcategorie overig gebruik, geschiedt de verlening van de vergunningen op volgorde van binnenkomst van de aanvraag.   
 
+### Artikel  2a  
+
+Ingeval van een procedure voor de verlening van vergunningen als bedoeld in [artikel 3.3, vierde lid, van de Telecommunicatiewet](../../../wet/telecommunicatiewet/BWBR0009950/README.md) kan bij ministeriële regeling frequentieruimte voor een categorie van aanvragers worden gereserveerd.  
+
 ### Paragraaf  2  
 
 ####veiling en vergelijkende toets
