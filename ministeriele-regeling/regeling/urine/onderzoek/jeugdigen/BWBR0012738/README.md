@@ -3,19 +3,19 @@
 ##Regeling urine onderzoek jeugdigen
 
 De Minister van Justitie,  
-Gelet op [artikel 35, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);
+Gelet op artikel 35, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen;
 
 Gezien het advies van het College van advies voor de justitiële kinderbescherming van datum 30 mei 2000, nr.5032390/00/TH/JMO;
 Besluit:    
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. wet:  de [Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);    b. uitvoeringsverantwoordelijke instantie:  de door de selectiefunctionaris als zodanig aangewezen justitiële jeugdinrichting of de instantie welke is belast met het toezicht op de deelnemer aan een scholings- en trainingsprogramma;    c. indicatieonderzoek:  een onderzoek van urine op de aanwezigheid van gedragsbeïnvloedende middelen waarvan de uitslag slechts een voorlopig en indicatief karakter heeft;    d. urineonderzoek:  een onderzoek van urine op de aanwezigheid van gedragsbeïnvloedende middelen;    e. herhalingsonderzoek:  een urineonderzoek dat volgens eenzelfde dan wel een vergelijkbare methode als gebruikt bij het aanvankelijke urineonderzoek op een identiek tweede monster wordt uitgevoerd met behulp van apparatuur welke vergelijkbaar is met dan wel gelijkwaardig is aan de apparatuur welke bij het aanvankelijke onderzoek is gebruikt;    f. bevestigingsonderzoek:  een urineonderzoek dat volgens een andere gevalideerde methode als gebruikt bij het aanvankelijke onderzoek en het herhalingsonderzoek wordt uitgevoerd op het monster dat het uitgangsmateriaal vormde voor het aanvankelijke onderzoek dan wel het herhalingsonderzoek.     
+In deze regeling wordt verstaan onder:   a. wet:  de Beginselenwet justitiële jeugdinrichtingen;    b. uitvoeringsverantwoordelijke instantie:  de door de selectiefunctionaris als zodanig aangewezen justitiële jeugdinrichting of de instantie welke is belast met het toezicht op de deelnemer aan een scholings- en trainingsprogramma;    c. indicatieonderzoek:  een onderzoek van urine op de aanwezigheid van gedragsbeïnvloedende middelen waarvan de uitslag slechts een voorlopig en indicatief karakter heeft;    d. urineonderzoek:  een onderzoek van urine op de aanwezigheid van gedragsbeïnvloedende middelen;    e. herhalingsonderzoek:  een urineonderzoek dat volgens eenzelfde dan wel een vergelijkbare methode als gebruikt bij het aanvankelijke urineonderzoek op een identiek tweede monster wordt uitgevoerd met behulp van apparatuur welke vergelijkbaar is met dan wel gelijkwaardig is aan de apparatuur welke bij het aanvankelijke onderzoek is gebruikt;    f. bevestigingsonderzoek:  een urineonderzoek dat volgens een andere gevalideerde methode als gebruikt bij het aanvankelijke onderzoek en het herhalingsonderzoek wordt uitgevoerd op het monster dat het uitgangsmateriaal vormde voor het aanvankelijke onderzoek dan wel het herhalingsonderzoek.     
 
 ### Artikel  2  
 
 1.  Het anders dan door een arts, tandarts of verloskundige voorgeschreven gebruik van gedragsbeïnvloedende middelen is tijdens de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel niet toegestaan.   
-2.  Het gebruik van gedragsbeïnvloedende middelen vormt een contra-indicatie voor de toekenning van verlof, proefverlof, strafonderbreking of deelname aan een scholings- en trainingsprogramma.   
+2.  Het gebruik van gedragsbeïnvloedende middelen vormt een contra-indicatie voor de toekenning van verlof, strafonderbreking of deelname aan een scholings- en trainingsprogramma.   
 3.  In de eerste twee weken van het verblijf van de jeugdige in de inrichting wordt de jeugdige geïnformeerd over de wijze waarop de inrichting uitvoering geeft aan het drugsontmoedigingsbeleid.   
 
 ### Artikel  3  
@@ -78,7 +78,7 @@ b. een extern laboratorium dat deelneemt aan een extern kwaliteitscontrole progr
 3.  In afwachting van de uitslag van een herhalingsonderzoek dan wel een bevestigingsonderzoek wordt de tenuitvoerlegging van een disciplinaire straf opgeschort.   
 4.  In afwachting van de uitslag van een herhalingsonderzoek dan wel een bevestigingsonderzoek kan onder meer: 
 
-a. de effectuering van verlof, proefverlof of strafonderbreking worden geschorst, dan wel opgeschort.  
+a. de effectuering van verlof of strafonderbreking worden geschorst, dan wel opgeschort.  
 
 b. de effectuering van een scholings- en trainingsprogramma worden geschorst, dan wel opgeschort.     
 

@@ -3,14 +3,14 @@
 ##Regeling melding bijzondere voorvallen jeugdigen
 
 De Minister van Justitie,  
-Gelet op [artikel 5, tweede lid van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);
+Gelet op artikel 5, tweede lid van de Beginselenwet justitiële jeugdinrichtingen;
 
 Gezien het advies van de Raad voor Strafrechtstoepassing en Jeugdbescherming van 28 juni 2001, kenmerk 5105565/TH/mk;
 Besluit:    
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a.  *bijzondere voorvallen:*   de voorvallen, genoemd in artikel 2, eerste en tweede lid, van deze regeling;    b.  *ontvluchting:*   onttrekking van een jeugdige aan het op hem uitgeoefende toezicht vanuit een gesloten gebouw, vanaf een beveiligd terrein, tijdens transport of tijdens begeleid verblijf buiten de inrichting;    c.  *DJI:*   Dienst Justitiële Inrichtingen van het ministerie van Justitie;    d.  *Sectordirectie Justitiële Jeugdinrichtingen:*   de sectordirecteur Justitiële Jeugdinrichtingen van de DJI of diens plaatsvervanger.     
+In deze regeling wordt verstaan onder:   a.  *bijzondere voorvallen:*   de voorvallen, genoemd in artikel 2, eerste en tweede lid, van deze regeling;    b.  *ontvluchting:*   onttrekking van een jeugdige aan het op hem uitgeoefende toezicht vanuit een gesloten gebouw, vanaf een beveiligd terrein, tijdens transport of tijdens begeleid verblijf buiten de inrichting;    c.  *DJI:*   Dienst Justitiële Inrichtingen van het ministerie van Veiligheid en Justitie;    d.  *Sectordirectie Justitiële Jeugdinrichtingen:*   de sectordirecteur Justitiële Jeugdinrichtingen van de DJI of diens plaatsvervanger.     
 
 ### Artikel  2  
 
@@ -35,7 +35,7 @@ b. niet terugkeren van onbegeleid verlof door een jeugdige;
 
 c. geweld tegen andere jeugdigen of geweld tegen personeelsleden of medewerkers of andere in de inrichting aanwezige personen, dat lichamelijk letsel ten gevolg heeft;  
 
-d. politiecontact naar aanleiding van een delict van de jeugdige tijdens verlof, proefverlof, strafonderbreking, scholings- en trainingsprogramma of tijdens ongeoorloofde afwezigheid;  
+d. politiecontact naar aanleiding van een delict van de jeugdige tijdens verlof, strafonderbreking, scholings- en trainingsprogramma of tijdens ongeoorloofde afwezigheid;  
 
 e. aantreffen van contrabande, zoals een vuurwapen, slag- of steekwapen, harddrugs, of softdrugs van meer dan 5 gram;  
 
@@ -71,16 +71,16 @@ A.H.Korthals
 
 ####Formulier melding bijzonder voorval
 
-![34912](http://wetten.overheid.nl/Illustration/34912)
-![34912](http://wetten.overheid.nl/Illustration/34912)
+![]()
+![]()
 
 ### Bijlage  2  
 
 ####Formulier afhandeling bijzonder voorval
 
-![34913](http://wetten.overheid.nl/Illustration/34913)
+![]()
 
 ####Schema melding bijzonder voorval
 
-![34914](http://wetten.overheid.nl/Illustration/34914)
+![]()
 

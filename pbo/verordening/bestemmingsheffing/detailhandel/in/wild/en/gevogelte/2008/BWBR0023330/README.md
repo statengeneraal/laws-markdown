@@ -11,19 +11,26 @@ Besluit:
 
 ####Begripsbepaling en toepassingsgebied
 
-### Artikel  1  
+Materieel uitgewerkt per 03-06-2011 
 
-In deze verordening zijn de begripsbepalingen van de [Heffingsverordening Hoofdbedrijfschap Detailhandel 2008](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2008/BWBR0023306/README.md) van overeenkomstige toepassing.  
+### Artikel  1  
+Materieel uitgewerkt per 03-06-2011 
+
+In deze verordening zijn de begripsbepalingen van de [Heffingsverordening Hoofdbedrijfschap Detailhandel 2008](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2008/BWBR0023306/README.md) van overeenkomstige toepassing. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 03-06-2011 
 
-Deze verordening is van toepassing op ondernemers die een onderneming drijven waarin hoofdzakelijk de detailhandel in wild en gevogelte wordt uitgeoefend.  
+Deze verordening is van toepassing op ondernemers die een onderneming drijven waarin hoofdzakelijk de detailhandel in wild en gevogelte wordt uitgeoefend. 
 
 ### §  2  
 
 ####De bestemmingsheffing
 
+Materieel uitgewerkt per 03-06-2011 
+
 ### Artikel  3  
+Materieel uitgewerkt per 03-06-2011 
 
 1.  Aan degenen die een onderneming drijven, als bedoeld in artikel 2, wordt voor het jaar 2008 een bestemmingsheffing opgelegd ten behoeve van de Commissie voor de detailhandel in wild en gevogelte. Doel van deze bestemmingsheffing is bevordering van een gezonde sociaal-economische ontwikkeling van de detailhandel in wild en gevogelte door middel van professionalisering van de werkenden en ondernemingen in de branche en collectieve promotie.   
 2.  De heffing bestaat uit: 
@@ -31,27 +38,33 @@ Deze verordening is van toepassing op ondernemers die een onderneming drijven wa
 a. Een basisheffing van € 247,– per onderneming; en  
 
 b. Een filiaalheffing van € 247,– voor elke tweede en volgende verkoopplaats van de onderneming waarin de detailhandel in wild en gevogelte wordt uitgeoefend.     
-3.  Het tweede lid, onder b, is niet van toepassing op ondernemers die de detailhandel uitsluitend in de vorm van ambulante handel uitoefenen.   
+3.  Het tweede lid, onder b, is niet van toepassing op ondernemers die de detailhandel uitsluitend in de vorm van ambulante handel uitoefenen.  
 
 ### §  3  
 
 ####Overige bepalingen
 
-### Artikel  4  
+Materieel uitgewerkt per 03-06-2011 
 
-De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2008](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2008/BWBR0023306/README.md) zijn van overeenkomstige toepassing.  
+### Artikel  4  
+Materieel uitgewerkt per 03-06-2011 
+
+De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2008](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2008/BWBR0023306/README.md) zijn van overeenkomstige toepassing. 
 
 ### Artikel  5  
+Materieel uitgewerkt per 03-06-2011 
 
-De voorzitter neemt de krachtens deze verordening te nemen besluiten.  
+De voorzitter neemt de krachtens deze verordening te nemen besluiten. 
 
 ### Artikel  6  
+Materieel uitgewerkt per 03-06-2011 
 
-Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad Bedrijfsorganisatie.  
+Deze verordening treedt in werking met ingang van de dag na die van afkondiging in het Verordeningenblad Bedrijfsorganisatie. 
 
 ### Artikel  7  
+Materieel uitgewerkt per 03-06-2011 
 
-Deze verordening wordt aangehaald als Verordening bestemmingsheffing detailhandel in wild en gevogelte 2008.  
+Deze verordening wordt aangehaald als Verordening bestemmingsheffing detailhandel in wild en gevogelte 2008. 
 Deze verordening zal in het Verordeningenblad Bedrijfsorganisatie worden bekend gemaakt.   
 
 Den Haag 

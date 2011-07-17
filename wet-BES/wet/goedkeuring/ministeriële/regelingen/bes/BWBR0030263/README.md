@@ -25,26 +25,26 @@ e. de [Regeling interlandelijke adoptie BES](../../../../../../../ministeriele-r
 
 f. de [Regeling internationale kinderbescherming BES](../../../../../../../ministeriele-regeling-BES/regeling/internationale/kinderbescherming/bes/BWBR0029041/README.md) en  
 
-g. de Regeling tot aanpassing van een aantal BES-wetten.    
+g. de Regeling tot aanpassing van een aantal BES-wetten.   
 
 ### Artikel  2  
 
-Deze wet wordt aangehaald als: Wet goedkeuring ministeriële regelingen BES.  
+Deze wet wordt aangehaald als: Wet goedkeuring ministeriële regelingen BES. 
 
 ### Artikel  3  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 30 juni 2011  
 Beatrix  
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 J. P. H. Donner   
 
 de *vijftiende* juli 2011 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    
