@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 10 november 2005, nr. SAS/2005197401, Directoraat-Generaal Milieubeheer, Directie Stoffen, Afvalstoffen en Straling, Afdeling Afval Keten Beleid, houdende nadere regels inzake de vrijstelling van het stortverbod buiten inrichtingen van plantenresten en tarragrond (Vrijstellingsregeling plantenresten en tarragrond)
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op [artikel 2, eerste lid, onderdelen g en h, van het Besluit vrijstellingen stortverbod buiten inrichtingen](../../../../AMvB/besluit/vrijstellingen/stortverbod/buiten/inrichtingen/BWBR0009093/README.md);
+Gelet op artikel 2, eerste lid, onderdelen g en h, van het Besluit vrijstellingen stortverbod buiten inrichtingen;
 Besluit:    
 
 ### Artikel  1  
@@ -16,11 +16,11 @@ b. aangrenzend perceel: perceel dat direct grenst aan de plaats waar het bermmaa
 
 c. oogstrestanten: niet-houtachtige, plantaardige restanten afkomstig van de teelt van bloembollen, vollegrondsgroente, vaste planten, akkerbouwproducten en fruit, daaronder mede begrepen kuilvoerresten, en met uitzondering van restanten van substraatteelt,  
 
-d. natuurgebied: beschermd natuurmonument of een gebied als bedoeld in [artikel 10](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), respectievelijk [artikel 10a, van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) dan wel een ander gebied met als hoofdfunctie natuur.    
+d. natuurgebied: beschermd natuurmonument of een gebied als bedoeld in artikel 10, respectievelijk artikel 10a, van de Natuurbeschermingswet 1998 dan wel een ander gebied met als hoofdfunctie natuur.    
 
 ### Artikel  2  
 
-Als plantenresten als bedoeld in [artikel 2, eerste lid, onder g, van het Besluit vrijstellingen stortverbod buiten inrichtingen](../../../../AMvB/besluit/vrijstellingen/stortverbod/buiten/inrichtingen/BWBR0009093/README.md) worden aangewezen: 
+Als plantenresten als bedoeld in artikel 2, eerste lid, onder g, van het Besluit vrijstellingen stortverbod buiten inrichtingen worden aangewezen: 
 
 a. bermmaaisel dat op of in de bodem wordt gebracht op de plaats of in de directe nabijheid daarvan waar dit is vrijgekomen, onder de voorwaarden die zijn gesteld in artikel 3,  
 
@@ -74,24 +74,13 @@ c. de hoeveelheid die op of in de bodem wordt gebracht, uit oogpunt van goede la
 
 d. het heideplagsel of maaisel gelijkmatig wordt verspreid over het ontvangende perceel en dit niet significant bijdraagt aan de verspreiding van nutriënten en zware metalen.    
 
-### Artikel  6  
-
-1.  Als tarragrond als bedoeld in [artikel 2, eerste lid, onder h, van het Besluit vrijstellingen stortverbod buiten inrichtingen](../../../../AMvB/besluit/vrijstellingen/stortverbod/buiten/inrichtingen/BWBR0009093/README.md) wordt aangewezen: 
-
-a. tarragrond van bloembollen die verspreid wordt over een perceel waarop in hetzelfde kalenderjaar of in het daaraan voorafgaande kalenderjaar bedrijfsmatig bloembollen zijn geteeld,  
-
-b. tarragrond van suikerbieten die verspreid wordt over een perceel waarop in hetzelfde kalenderjaar of in een van de drie daaraan voorafgaande kalenderjaren bedrijfsmatig suikerbieten zijn geteeld, onder de voorwaarden die zijn gesteld in het tweede lid,  
-
-c. tarragrond van aardappelen die verspreid wordt over een perceel waarop in hetzelfde kalenderjaar of in een van de drie daaraan voorafgaande kalenderjaren bedrijfsmatig aardappelen zijn geteeld, onder de voorwaarden die zijn gesteld in het tweede lid.     
-2.  Tarragrond van suikerbieten en aardappelen is schoon en onverdacht en bevat geen toevoegingen met uitzondering van residuen anti-schuimmiddel.   
-
 ### Artikel  7  
 
 Deze regeling treedt in werking met ingang van 15 november 2005.  
 
 ### Artikel  8  
 
-Deze regeling wordt aangehaald als: Vrijstellingsregeling plantenresten en tarragrond.  
+Deze regeling wordt aangehaald als: Vrijstellingsregeling plantenresten.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
