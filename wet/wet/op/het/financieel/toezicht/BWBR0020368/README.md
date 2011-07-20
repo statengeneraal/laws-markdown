@@ -67,7 +67,7 @@ a. een verhandelbaar aandeel of een ander daarmee gelijk te stellen verhandelbaa
 
 b. een verhandelbare obligatie of een ander verhandelbaar schuldinstrument; of  
 
-c. elk ander door een rechtspersoon, vennootschap of instelling uitgegeven verhandelbaar waardebewijs waarmee een in onderdeel a of b bedoeld effect door uitoefening van de daaraan verbonden rechten of door conversie kan worden verworven of dat in geld wordt afgewikkeld;   *effectief kredietvergoedingspercentage:* de bij de uitvoering van een overeenkomst inzake krediet overeenkomstig de betalingsregeling aan de consument in rekening te brengen kredietvergoeding, uitgedrukt in een percentage op jaarbasis van het uitstaand saldo, berekend op bij ministeriële regeling vast te stellen wijze; *elektronisch geld:* een geldswaarde die is opgeslagen op een elektronische drager of die op afstand is opgeslagen in een centrale rekeningadministratie; *elektronische weg:* elektronische apparatuur voor de verwerking, met inbegrip van digitale compressie, opslag en verzending van gegevens via draden, radio, optische technologieën of andere elektromagnetische middelen; *elektronischgeldinstelling:* degene die, geen bank zijnde, zijn bedrijf maakt van het ter beschikking verkrijgen van gelden in ruil waarvoor elektronisch geld wordt uitgegeven waarmee betalingen kunnen worden verricht ook aan anderen dan degene die het elektronisch geld uitgeeft; *entiteit voor risico-acceptatie*: instelling, niet zijnde een verzekeraar, die door een verzekeraar overgedragen risico’s accepteert en de acceptatie van die risico’s uitsluitend financiert door van derden gelden aan te trekken terzake waarvan de terugbetalingsverplichtingen zijn achtergesteld bij de betalingsverplichtingen die ontstaan uit het accepteren van de overgedragen risico’s; *entiteit voor risico-acceptatie met zetel in een niet-aangewezen staat*: entiteit voor risico-acceptatie met zetel in een staat die geen lidstaat is die niet op grond van artikel 2:54d, tweede lid, is aangewezen als staat waar toezicht op entiteiten voor risico-acceptatie wordt uitgeoefend dat in voldoende mate waarborgen biedt ten aanzien van de belangen die deze wet beoogt te beschermen; *Europese beleggingsonderneming*: beleggingsonderneming met zetel in een andere lidstaat die aldaar voor de uitoefening van haar bedrijf een vergunning heeft; *Europese herverzekeraar*: herverzekeraar met zetel in een andere lidstaat die aldaar een vergunning heeft voor de uitoefening van zijn bedrijf die overeenkomt met die in artikel 2:26a; *Europese kredietinstelling*: kredietinstelling met zetel in een andere lidstaat die aldaar voor de uitoefening van haar bedrijf een vergunning heeft; *Europese levensverzekeraar of schadeverzekeraar*: levensverzekeraar of schadeverzekeraar met zetel in een andere lidstaat die aldaar een vergunning heeft voor de uitoefening van zijn bedrijf die overeenkomt met de in artikel 2:27 bedoelde vergunning;  *financieel instrument:*  
+c. elk ander door een rechtspersoon, vennootschap of instelling uitgegeven verhandelbaar waardebewijs waarmee een in onderdeel a of b bedoeld effect door uitoefening van de daaraan verbonden rechten of door conversie kan worden verworven of dat in geld wordt afgewikkeld;   *elektronisch geld:* een geldswaarde die is opgeslagen op een elektronische drager of die op afstand is opgeslagen in een centrale rekeningadministratie; *elektronische weg:* elektronische apparatuur voor de verwerking, met inbegrip van digitale compressie, opslag en verzending van gegevens via draden, radio, optische technologieën of andere elektromagnetische middelen; *elektronischgeldinstelling:* degene die, geen bank zijnde, zijn bedrijf maakt van het ter beschikking verkrijgen van gelden in ruil waarvoor elektronisch geld wordt uitgegeven waarmee betalingen kunnen worden verricht ook aan anderen dan degene die het elektronisch geld uitgeeft; *entiteit voor risico-acceptatie*: instelling, niet zijnde een verzekeraar, die door een verzekeraar overgedragen risico’s accepteert en de acceptatie van die risico’s uitsluitend financiert door van derden gelden aan te trekken terzake waarvan de terugbetalingsverplichtingen zijn achtergesteld bij de betalingsverplichtingen die ontstaan uit het accepteren van de overgedragen risico’s; *entiteit voor risico-acceptatie met zetel in een niet-aangewezen staat*: entiteit voor risico-acceptatie met zetel in een staat die geen lidstaat is die niet op grond van artikel 2:54d, tweede lid, is aangewezen als staat waar toezicht op entiteiten voor risico-acceptatie wordt uitgeoefend dat in voldoende mate waarborgen biedt ten aanzien van de belangen die deze wet beoogt te beschermen; *Europese beleggingsonderneming*: beleggingsonderneming met zetel in een andere lidstaat die aldaar voor de uitoefening van haar bedrijf een vergunning heeft; *Europese herverzekeraar*: herverzekeraar met zetel in een andere lidstaat die aldaar een vergunning heeft voor de uitoefening van zijn bedrijf die overeenkomt met die in artikel 2:26a; *Europese kredietinstelling*: kredietinstelling met zetel in een andere lidstaat die aldaar voor de uitoefening van haar bedrijf een vergunning heeft; *Europese levensverzekeraar of schadeverzekeraar*: levensverzekeraar of schadeverzekeraar met zetel in een andere lidstaat die aldaar een vergunning heeft voor de uitoefening van zijn bedrijf die overeenkomt met de in artikel 2:27 bedoelde vergunning;  *financieel instrument:*  
 
 a. effect;  
 
@@ -167,7 +167,7 @@ e. rechtspersoon of vennootschap, niet zijnde een rechtspersoon of vennootschap 
 
 f. natuurlijke persoon met woonplaats in Nederland die voldoet aan bij algemene maatregel van bestuur te stellen regels en op eigen verzoek door de Autoriteit Financiële Markten als gekwalificeerde belegger is geregistreerd; of  
 
-g. in een andere lidstaat als gekwalificeerde belegger aangemerkte natuurlijke persoon of onderneming als bedoeld in artikel 2, eerste lid, onderdeel e, onder iv onderscheidenlijk v, van de richtlijn prospectus;   *gekwalificeerde deelneming:* een rechtstreeks of middellijk belang van ten minste tien procent van het geplaatste kapitaal van een onderneming of het rechtstreeks of middellijk kunnen uitoefenen van ten minste tien procent van de stemrechten in een onderneming, of het rechtstreeks of middellijk kunnen uitoefenen van een daarmee vergelijkbare zeggenschap in een onderneming, waarbij bij het bepalen van het aantal stemrechten dat iemand in een onderneming heeft, tot diens stemrechten mede worden gerekend de stemmen waarover hij beschikt of geacht wordt te beschikken op grond van artikel 5:45; *geldmiddelen:* chartaal geld, giraal geld of elektronisch geld; *gemeentelijke kredietbank:* een aanbieder van krediet, opgericht door een of meer gemeenten; *gereglementeerde informatie:* informatie die een uitgevende instelling of een persoon die zonder toestemming van de uitgevende instelling de toelating van haar effecten tot de handel op een gereglementeerde markt heeft aangevraagd, algemeen verkrijgbaar stelt op grond van artikel 5:25c tot en met 5:25f, 5:25h of  5:25i; *gereglementeerde markt:* multilateraal systeem dat meerdere koop- en verkoopintenties van derden met betrekking tot financiële instrumenten – binnen dit systeem en volgens de niet-discretionaire regels van dit systeem – samenbrengt of het samenbrengen daarvan vergemakkelijkt op zodanige wijze dat er een overeenkomst uit voortvloeit met betrekking tot financiële instrumenten die volgens de regels en de systemen van die markt tot de handel zijn toegelaten, en dat regelmatig en overeenkomstig de geldende regels inzake de vergunningverlening en het doorlopende toezicht werkt; *gevolmachtigde agent:* degene die optreedt als gevolmachtigde agent; *grondstoffenderivaat:* een financieel instrument als bedoeld in de onderdelen e, f en g van de definitie van financieel instrument;  *grote risico’s:*  
+g. in een andere lidstaat als gekwalificeerde belegger aangemerkte natuurlijke persoon of onderneming als bedoeld in artikel 2, eerste lid, onderdeel e, onder iv onderscheidenlijk v, van de richtlijn prospectus;   *gekwalificeerde deelneming:* een rechtstreeks of middellijk belang van ten minste tien procent van het geplaatste kapitaal van een onderneming of het rechtstreeks of middellijk kunnen uitoefenen van ten minste tien procent van de stemrechten in een onderneming, of het rechtstreeks of middellijk kunnen uitoefenen van een daarmee vergelijkbare zeggenschap in een onderneming, waarbij bij het bepalen van het aantal stemrechten dat iemand in een onderneming heeft, tot diens stemrechten mede worden gerekend de stemmen waarover hij beschikt of geacht wordt te beschikken op grond van artikel 5:45; *geldmiddelen:* chartaal geld, giraal geld of elektronisch geld; *gemeentelijke kredietbank:* een aanbieder van krediet, opgericht door een of meer gemeenten; *geoorloofde debetstand:* door een aanbieder van krediet aan een consument toegestaan debetsaldo van een rekening; *gereglementeerde informatie:* informatie die een uitgevende instelling of een persoon die zonder toestemming van de uitgevende instelling de toelating van haar effecten tot de handel op een gereglementeerde markt heeft aangevraagd, algemeen verkrijgbaar stelt op grond van artikel 5:25c tot en met 5:25f, 5:25h of  5:25i; *gereglementeerde markt:* multilateraal systeem dat meerdere koop- en verkoopintenties van derden met betrekking tot financiële instrumenten – binnen dit systeem en volgens de niet-discretionaire regels van dit systeem – samenbrengt of het samenbrengen daarvan vergemakkelijkt op zodanige wijze dat er een overeenkomst uit voortvloeit met betrekking tot financiële instrumenten die volgens de regels en de systemen van die markt tot de handel zijn toegelaten, en dat regelmatig en overeenkomstig de geldende regels inzake de vergunningverlening en het doorlopende toezicht werkt; *gevolmachtigde agent:* degene die optreedt als gevolmachtigde agent; *grondstoffenderivaat:* een financieel instrument als bedoeld in de onderdelen e, f en g van de definitie van financieel instrument;  *grote risico’s:*  
 
 a. de risico’s die behoren tot de in de bij deze wet behorende Bijlage branches genoemde branches Casco rollend spoorwegmaterieel, Luchtvaartuigcasco, Casco zee- en binnenschepen, Vervoerde zaken, Aansprakelijkheid luchtvaartuigen en Aansprakelijkheid zee- en binnenschepen;  
 
@@ -215,15 +215,11 @@ b. levensverzekeraar;
 
 c. pensioenfonds; of  
 
-d. premiepensioeninstelling;   *krediet:* geldkrediet of goederenkrediet, waarbij wordt verstaan onder: 
+d. premiepensioeninstelling;    *krediet:*  
 
-a. geldkrediet: het aan een consument ter beschikking stellen van een geldsom, ter zake waarvan de consument gehouden is een of meer betalingen te verrichten;  
+a. het aan een consument ter beschikking stellen van een geldsom, ter zake waarvan de consument gehouden is een of meer betalingen te verrichten;  
 
-b. goederenkrediet: 
-
-1°. het aan een consument verschaffen van het genot van een roerende zaak, financieel instrument of beleggingsobject, dan wel het aan een consument of een derde ter beschikking stellen van een geldsom ter zake van het aan die consument verschaffen van het genot van een roerende zaak, financieel instrument of beleggingsobject, ter zake waarvan de consument gehouden is een of meer betalingen te verrichten; of  
-
-2°. het aan een consument verlenen van een dienst die niet wordt verleend op grond van een overeenkomst die strekt tot het geregeld verlenen van diensten en waarbij de consument gehouden is om gedurende de periode van dienstverlening in termijnen te betalen, dan wel het aan een consument of een derde ter beschikking stellen van een geldsom ter zake van het aan die consument verlenen van een dienst ter zake waarvan de consument gehouden is een of meer betalingen te verrichten;     *kredietinstelling:* een bank of elektronischgeldinstelling; *levensverzekeraar:* degene die zijn bedrijf maakt van het sluiten van levensverzekeringen voor eigen rekening en het afwikkelen van die levensverzekeringen; *levensverzekering:* een levensverzekering als bedoeld in [artikel 975 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), met dien verstande dat de prestatie van de levensverzekeraar uitsluitend in geld geschiedt, of een natura-uitvaartverzekering als bedoeld in [dit artikel](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md); *lidstaat:* een staat die lid is van de Europese Unie alsmede een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte; *limietorder*: een order om een financieel instrument tegen de opgegeven limietkoers of een betere koers en voor een gespecificeerde omvang te kopen of te verkopen; *marketmaker:* persoon die op de financiële markten doorlopend blijk geeft van de bereidheid voor eigen rekening te handelen door financiële instrumenten tegen door hem vastgestelde prijzen te kopen en te verkopen; *marktexploitant:* persoon die een gereglementeerde markt beheert of exploiteert; *moedermaatschappij:* een rechtspersoon die een of meer dochtermaatschappijen heeft als bedoeld in [artikel 24a van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md); *moederonderneming*: moederonderneming als bedoeld in de artikelen 1 en 2 van de richtlijn geconsolideerde jaarrekening, of een onderneming die, naar het oordeel van de Nederlandsche Bank, feitelijk een overheersende invloed op een andere onderneming uitoefent; *multilaterale handelsfaciliteit:* door een beleggingsonderneming geëxploiteerd multilateraal systeem dat meerdere koop- en verkoopintenties van derden met betrekking tot financiële instrumenten, binnen dit systeem en volgens de niet-discretionaire regels, samenbrengt op zodanige wijze dat er een overeenkomst uit voortvloeit overeenkomstig de geldende regels inzake de vergunningverlening en het doorlopende toezicht; *natura-uitvaartverzekeraar:* degene die, geen levensverzekeraar zijnde, zijn bedrijf maakt van het sluiten van natura-uitvaartverzekeringen voor eigen rekening en het afwikkelen van die natura-uitvaartverzekeringen; *natura-uitvaartverzekeraar met zetel in een niet-aangewezen staat:* een natura-uitvaartverzekeraar met zetel in een staat buiten Nederland die niet op grond van artikel 2:50, tweede lid, is aangewezen als staat waar toezicht op natura-uitvaartverzekeraars wordt uitgeoefend dat in voldoende mate waarborgen biedt ten aanzien van de belangen die deze wet beoogt te beschermen; *natura-uitvaartverzekering:* een verzekering in verband met de verzorging van de uitvaart van een natuurlijke persoon waarbij de verzekeraar zich verbindt tot het leveren van een prestatie die niet tevens inhoudt het doen van een geldelijke uitkering; *Nederlandsche Bank:* De Nederlandsche Bank N.V.; *Nederlandse beleggingsonderneming*: beleggingsonderneming met zetel in Nederland die voor de uitoefening van haar bedrijf een vergunning heeft; *Nederlandse EU-moederbeleggingsonderneming*: moederbeleggingsonderneming met zetel in Nederland die zelf geen dochteronderneming is van een beleggingsonderneming, kredietinstelling of van een financiële holding met zetel in een lidstaat; *Nederlandse EU-moederkredietinstelling*: moederkredietinstelling met zetel in Nederland die zelf geen dochteronderneming is van een beleggingsonderneming of kredietinstelling of van een financiële holding met zetel in een lidstaat; *Nederlandse financiële EU-moederholding*: financiële holding met zetel in Nederland die geen dochteronderneming is van een beleggingsonderneming of kredietinstelling of van een financiële holding met zetel in een lidstaat; *Nederlandse kredietinstelling*: kredietinstelling met zetel in Nederland die voor de uitoefening van haar bedrijf een vergunning heeft; *Nederlandse herverzekeraar, levensverzekeraar of schadeverzekeraar*: herverzekeraar, levensverzekeraar of schadeverzekeraar met zetel in Nederland die voor de uitoefening van zijn bedrijf een vergunning heeft; *Nederlandse moederbeleggingsonderneming*: beleggingsonderneming met zetel in Nederland die een beleggingsonderneming, kredietinstelling of financiële instelling als dochteronderneming heeft of die een deelneming heeft in een dergelijke financiële onderneming en die zelf geen dochteronderneming is van een andere Nederlandse beleggingsonderneming, Nederlandse kredietinstelling of financiële holding met zetel in Nederland; *Nederlandse moederkredietinstelling*: kredietinstelling met zetel in Nederland die een beleggingsonderneming, kredietinstelling of financiële instelling als dochteronderneming heeft of die een deelneming heeft in een dergelijke financiële onderneming en die zelf geen dochteronderneming is van een andere Nederlandse beleggingsonderneming, Nederlandse kredietinstelling of financiële holding met zetel in Nederland; *nevendienst*: 
+b. het aan een consument verlenen van een dienst of verschaffen van het genot van een roerende zaak, financieel instrument of beleggingsobject, dan wel het aan een consument of een derde ter beschikking stellen van een geldsom ter zake van het aan die consument verlenen van een dienst of verschaffen van het genot van een roerende zaak, financieel instrument of beleggingsobject, ter zake waarvan de consument gehouden is een of meer betalingen te verrichten, met uitzondering van doorlopende dienstverlening en doorlopende levering van dezelfde soort roerende zaken, financieel instrumenten of beleggingsobjecten, waarbij de consument gehouden is in termijnen te betalen zolang de doorlopende dienstverlening of doorlopende levering plaatsvindt;   *kredietinstelling:* een bank of elektronischgeldinstelling; *levensverzekeraar:* degene die zijn bedrijf maakt van het sluiten van levensverzekeringen voor eigen rekening en het afwikkelen van die levensverzekeringen; *levensverzekering:* een levensverzekering als bedoeld in [artikel 975 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), met dien verstande dat de prestatie van de levensverzekeraar uitsluitend in geld geschiedt, of een natura-uitvaartverzekering als bedoeld in [dit artikel](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md); *lidstaat:* een staat die lid is van de Europese Unie alsmede een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte; *limietorder*: een order om een financieel instrument tegen de opgegeven limietkoers of een betere koers en voor een gespecificeerde omvang te kopen of te verkopen; *marketmaker:* persoon die op de financiële markten doorlopend blijk geeft van de bereidheid voor eigen rekening te handelen door financiële instrumenten tegen door hem vastgestelde prijzen te kopen en te verkopen; *marktexploitant:* persoon die een gereglementeerde markt beheert of exploiteert; *moedermaatschappij:* een rechtspersoon die een of meer dochtermaatschappijen heeft als bedoeld in [artikel 24a van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md); *moederonderneming*: moederonderneming als bedoeld in de artikelen 1 en 2 van de richtlijn geconsolideerde jaarrekening, of een onderneming die, naar het oordeel van de Nederlandsche Bank, feitelijk een overheersende invloed op een andere onderneming uitoefent; *multilaterale handelsfaciliteit:* door een beleggingsonderneming geëxploiteerd multilateraal systeem dat meerdere koop- en verkoopintenties van derden met betrekking tot financiële instrumenten, binnen dit systeem en volgens de niet-discretionaire regels, samenbrengt op zodanige wijze dat er een overeenkomst uit voortvloeit overeenkomstig de geldende regels inzake de vergunningverlening en het doorlopende toezicht; *natura-uitvaartverzekeraar:* degene die, geen levensverzekeraar zijnde, zijn bedrijf maakt van het sluiten van natura-uitvaartverzekeringen voor eigen rekening en het afwikkelen van die natura-uitvaartverzekeringen; *natura-uitvaartverzekeraar met zetel in een niet-aangewezen staat:* een natura-uitvaartverzekeraar met zetel in een staat buiten Nederland die niet op grond van artikel 2:50, tweede lid, is aangewezen als staat waar toezicht op natura-uitvaartverzekeraars wordt uitgeoefend dat in voldoende mate waarborgen biedt ten aanzien van de belangen die deze wet beoogt te beschermen; *natura-uitvaartverzekering:* een verzekering in verband met de verzorging van de uitvaart van een natuurlijke persoon waarbij de verzekeraar zich verbindt tot het leveren van een prestatie die niet tevens inhoudt het doen van een geldelijke uitkering; *Nederlandsche Bank:* De Nederlandsche Bank N.V.; *Nederlandse beleggingsonderneming*: beleggingsonderneming met zetel in Nederland die voor de uitoefening van haar bedrijf een vergunning heeft; *Nederlandse EU-moederbeleggingsonderneming*: moederbeleggingsonderneming met zetel in Nederland die zelf geen dochteronderneming is van een beleggingsonderneming, kredietinstelling of van een financiële holding met zetel in een lidstaat; *Nederlandse EU-moederkredietinstelling*: moederkredietinstelling met zetel in Nederland die zelf geen dochteronderneming is van een beleggingsonderneming of kredietinstelling of van een financiële holding met zetel in een lidstaat; *Nederlandse financiële EU-moederholding*: financiële holding met zetel in Nederland die geen dochteronderneming is van een beleggingsonderneming of kredietinstelling of van een financiële holding met zetel in een lidstaat; *Nederlandse kredietinstelling*: kredietinstelling met zetel in Nederland die voor de uitoefening van haar bedrijf een vergunning heeft; *Nederlandse herverzekeraar, levensverzekeraar of schadeverzekeraar*: herverzekeraar, levensverzekeraar of schadeverzekeraar met zetel in Nederland die voor de uitoefening van zijn bedrijf een vergunning heeft; *Nederlandse moederbeleggingsonderneming*: beleggingsonderneming met zetel in Nederland die een beleggingsonderneming, kredietinstelling of financiële instelling als dochteronderneming heeft of die een deelneming heeft in een dergelijke financiële onderneming en die zelf geen dochteronderneming is van een andere Nederlandse beleggingsonderneming, Nederlandse kredietinstelling of financiële holding met zetel in Nederland; *Nederlandse moederkredietinstelling*: kredietinstelling met zetel in Nederland die een beleggingsonderneming, kredietinstelling of financiële instelling als dochteronderneming heeft of die een deelneming heeft in een dergelijke financiële onderneming en die zelf geen dochteronderneming is van een andere Nederlandse beleggingsonderneming, Nederlandse kredietinstelling of financiële holding met zetel in Nederland; *nevendienst*: 
 
 a. bewaring en beheer van financiële instrumenten voor rekening van cliënten, met inbegrip van bewaarneming en daarmee samenhangende diensten zoals contanten- of zekerhedenbeheer;  
 
@@ -337,7 +333,7 @@ d. in de uitoefening van beroep of bedrijf adviseren over financiële instrument
 
 e. in de uitoefening van beroep of bedrijf overnemen of plaatsen van financiële instrumenten bij aanbieding ervan als bedoeld in hoofdstuk 5.1 met plaatsingsgarantie;  
 
-f. in de uitoefening van beroep of bedrijf plaatsen van financiële instrumenten bij aanbieding ervan als bedoeld in hoofdstuk 5.1 zonder plaatsingsgarantie;   *vermogensbeheerder:* degene die een individueel vermogen beheert; *verrichten van diensten*: 
+f. in de uitoefening van beroep of bedrijf plaatsen van financiële instrumenten bij aanbieding ervan als bedoeld in hoofdstuk 5.1 zonder plaatsingsgarantie;   *vermogensbeheerder:* degene die een individueel vermogen beheert; *verordening grensoverschrijdende betalingen:* verordening (EG) Nr. 924/2009 van het Europees Parlement en de Raad van 16 september 2009 betreffende grensoverschrijdende betalingen in de Gemeenschap en tot intrekking van Verordening (EG) nr. 2560/2001 (PbEU L 266); *verordening ratingbureaus:* verordening (EG) nr. 1060/2009 van het Europees Parlement en de Raad van 16 september 2009 inzake ratingbureaus (PbEU L 302); *verrichten van diensten*: 
 
 a. voor zover het entiteiten voor risico-acceptatie betreft: het door een entiteit voor risico-acceptatie accepteren van een risico dat is gelegen in een andere staat dan de vestiging van waaruit het risico wordt geaccepteerd;  
 
@@ -535,15 +531,17 @@ Voor toepassing van het bij of krachtens deze wet bepaalde ten aanzien van het b
 
 ### Artikel  1:12  
 
-1.  Deze wet, met uitzondering van dit deel, artikel 3:7 en de hoofdstukken 5.1, 5.3, 5.4 en 5.5, is niet van toepassing op beleggingsinstellingen die rechten van deelneming aanbieden aan: 
+1.  Onverminderd het derde lid en artikel 2:69a is deze wet, met uitzondering van dit deel, artikel 3:7 en de hoofdstukken 5.1, 5.3, 5.4 en 5.5, niet van toepassing op beleggingsinstellingen die rechten van deelneming aanbieden aan: 
 
 a. minder dan honderd personen die geen gekwalificeerde belegger zijn; of  
 
 b. uitsluitend gekwalificeerde beleggers.     
-2.  Deze wet, met uitzondering van dit deel, artikel 3:7 en de hoofdstukken 5.1, 5.3, 5.4 en 5.5, is niet van toepassing op beheerders en bewaarders voorzover zij beleggingsinstellingen als bedoeld in het eerste lid beheren of belast zijn met de bewaring van de activa van die beleggingsinstellingen.   
-3.  Bij een aanbod van rechten van deelneming als bedoeld in het eerste lid, aanhef en onderdeel a, niet zijnde verhandelbare rechten van deelneming in een belegginginstelling die niet op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald, en in reclame-uitingen en documenten waarin een dergelijk aanbod in het vooruitzicht wordt gesteld, wordt vermeld dat de beleggingsinstelling niet vergunningplichtig is ingevolge deze wet en dat op de beleggingsinstelling geen toezicht wordt uitgeoefend op grond van het Deel Prudentieel toezicht financiële ondernemingen en het Deel Gedragstoezicht financiële ondernemingen.   
-4.  Bij een aanbod van rechten van deelneming als bedoeld in het eerste lid, aanhef en onderdeel b, niet zijnde verhandelbare rechten van deelneming in een belegginginstelling die niet op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald, en in reclame-uitingen en documenten waarin een dergelijk aanbod in het vooruitzicht wordt gesteld, wordt vermeld dat het aanbod uitsluitend is onderscheidenlijk zal zijn gericht tot gekwalificeerde beleggers.   
-5.  Het ingevolge deze wet bepaalde ten aanzien van het aanbieden van rechten van deelneming in een beleggingsinstelling is niet van toepassing op het aanbieden door niet in de uitoefening van hun beroep of bedrijf handelende natuurlijke personen van rechten van deelneming die deze personen in eigendom hebben.   
+2.  Onverminderd het derde lid en artikel 2:69a is deze wet, met uitzondering van dit deel, artikel 3:7 en de hoofdstukken 5.1, 5.3, 5.4 en 5.5, niet van toepassing op beheerders en bewaarders voor zover zij beleggingsinstellingen als bedoeld in het eerste lid beheren of belast zijn met de bewaring van de activa van die beleggingsinstellingen.   
+3.  Indien een verklaring van ondertoezichtstelling is verleend ingevolge artikel 2:69a, zijn op de desbetreffende beheerder, beleggingsinstelling en bewaarder de artikelen 3:53, eerste, derde en vijfde lid, 3:63, eerste, tweede en derde lid, 3:88, eerste, derde, vijfde en zesde lid, 4:9, eerste lid, 4:10, 4:11, eerste en vierde lid, 4:13, 4:14, eerste lid, 4:16, eerste lid, 4:25, eerste lid, 4:26 eerste en zesde lid, 4:42, aanhef en onderdeel a, 4:43, eerste lid, 4:44, eerste lid, 4:45, 4:50, eerste lid, 4:51, eerste lid, 4:52b, 4:55 en 4:55a van toepassing.   
+4.  Bij een aanbod van rechten van deelneming als bedoeld in het eerste lid, aanhef en onderdeel a, niet zijnde verhandelbare rechten van deelneming in een belegginginstelling die niet op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald, en in reclame-uitingen en documenten waarin een dergelijk aanbod in het vooruitzicht wordt gesteld, wordt vermeld dat de beleggingsinstelling niet vergunningplichtig is ingevolge deze wet en dat op de beleggingsinstelling geen toezicht wordt uitgeoefend op grond van het Deel Prudentieel toezicht financiële ondernemingen en het Deel Gedragstoezicht financiële ondernemingen.   
+5.  Bij een aanbod van rechten van deelneming als bedoeld in het eerste lid, aanhef en onderdeel b, niet zijnde verhandelbare rechten van deelneming in een belegginginstelling die niet op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald, en in reclame-uitingen en documenten waarin een dergelijk aanbod in het vooruitzicht wordt gesteld, wordt vermeld dat het aanbod uitsluitend is onderscheidenlijk zal zijn gericht tot gekwalificeerde beleggers.   
+6.  Het ingevolge deze wet bepaalde ten aanzien van het aanbieden van rechten van deelneming in een beleggingsinstelling is niet van toepassing op het aanbieden door niet in de uitoefening van hun beroep of bedrijf handelende natuurlijke personen van rechten van deelneming die deze personen in eigendom hebben.   
+7.  De Autoriteit Financiële Markten stelt de wijze vast waarop de vermelding op grond van het vierde lid wordt gedaan.   
 
 ### Artikel  1:13  
 
@@ -635,19 +633,28 @@ Het ingevolge deze wet bepaalde met betrekking tot de onderdelen a en b van de d
 
 ### Artikel  1:20  
 
-Deze wet is niet van toepassing op: 
+1.  Deze wet is niet van toepassing op: 
 
-a. het door openbare lichamen ter uitvoering van een wettelijke taak aanbieden van krediet;  
+a. het krachtens een wettelijke bepaling aanbieden van krediet met een doelstelling van algemeen belang aan een beperkt publiek, 
+
+1°. rentevrij of tegen een lagere dan op de markt gebruikelijke rentevoet, of  
+
+2°. tegen een rentevoet die niet hoger is dan de op de markt gebruikelijke rentevoet en onder voorwaarden die voor de consument gunstiger zijn dan de op de markt gebruikelijke voorwaarden;    
 
 b. financiële diensten die worden verleend door geregistreerde geldtransactiekantoren als bedoeld in [artikel 2, eerste lid, van de Wet inzake de geldtransactiekantoren](../../../../../../../wet/wet/inzake/de/geldtransactiekantoren/BWBR0013816/README.md), voorzover het diensten betreft die zij mogen verlenen op grond van die wet;  
 
-c. financiële diensten met betrekking tot krediet waarbij het effectief kredietvergoedingspercentage op het tijdstip van aangaan van de overeenkomst inzake het krediet niet meer bedraagt dan de wettelijke rente, bedoeld in [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), voorzover het krediet wordt aangeboden aan minder dan 100 consumenten of wordt aangeboden door een werkgever aan zijn werknemers;  
+c. financiële diensten met betrekking tot krediet dat door een werkgever als nevenactiviteit wordt aangeboden aan uitsluitend zijn werknemers, 
+
+1°. rentevrij of tegen een lagere dan op de markt gebruikelijke rentevoet, of  
+
+2°. tegen een rentevoet die niet hoger is dan de op de markt gebruikelijke rentevoet en onder voorwaarden die voor de consument gunstiger zijn dan de op de markt gebruikelijke voorwaarden;    
 
 d. financiële diensten met betrekking tot krediet bestaande uit een overeenkomst van huur en verhuur of waartoe een zodanige overeenkomst behoort, tenzij deze betrekking heeft op bij algemene maatregel van bestuur aan te wijzen zaken en de strekking heeft dat het verschaffen van het genot van de zaak waarop de overeenkomst betrekking heeft, al dan niet door verlenging van die overeenkomst of het aangaan van een nieuwe overeenkomst, langer dan zes maanden zal duren;  
 
 e. financiële diensten met betrekking tot krediet bestaande uit het in ontvangst nemen van roerende zaken van een consument tegen het ter beschikking stellen van een geldsom aan de consument, voorzover de vordering op de consument tot terugbetaling teniet gaat indien de betreffende roerende zaken door de financiële onderneming te gelde worden gemaakt; en  
 
-f. financiële diensten met betrekking tot krediet waarbij is overeengekomen dat geen van de terzake verschuldigde betalingen van de consument later plaatsvindt dan drie maanden nadat de geldsom ter beschikking is gesteld, het genot van een roerende zaak, financieel instrument of beleggingsobject is verschaft, dan wel een dienst is verleend.    
+f. financiële diensten met betrekking tot krediet dat binnen drie maanden dient te worden afgelost en terzake waarvan slechts onbetekenende kosten aan de consument in rekening worden gebracht.     
+2.  Deze wet, met uitzondering van de artikelen 4:19, 4:22, 4:33 en 4:35, is niet van toepassing op financiële diensten met betrekking tot een geoorloofde debetstand waarbij de consument is gehouden binnen een maand af te lossen.   
 
 ### §  1.1.3.5  
 
@@ -673,7 +680,7 @@ b. financiële diensten met betrekking tot verzekeringen met betrekking tot risi
 
 ### Artikel  1:22  
 
-Het bepaalde ingevolge de artikelen 4:9, eerste en tweede lid, 4:10, 4:11, tweede en derde lid, 4:13, eerste en tweede lid, 4:15, eerste en tweede lid, 4:19, 4:20, eerste lid, 4:23, eerste tot en met derde lid, en 4:73, eerste tot en met vijfde lid, is van overeenkomstige toepassing op het bemiddelen in verzekeringen en het herverzekeringsbemiddelen vanuit Nederland ten behoeve van cliënten die hun gewone verblijfplaats hebben in een andere lidstaat.  
+Het bepaalde ingevolge de artikelen 4:9, eerste tot en met vierde lid, 4:10, 4:11, tweede en derde lid, 4:13, eerste en tweede lid, 4:15, eerste en tweede lid, 4:19, 4:20, eerste lid, 4:23, eerste tot en met derde lid, en 4:73, eerste tot en met vijfde lid, is van overeenkomstige toepassing op het bemiddelen in verzekeringen en het herverzekeringsbemiddelen vanuit Nederland ten behoeve van cliënten die hun gewone verblijfplaats hebben in een andere lidstaat.  
 
 ### Afdeling  1.1.4  
 
@@ -930,7 +937,7 @@ e. bij algemene maatregel van bestuur aan te wijzen andere onderwerpen.
 
 ### Artikel  1:47  
 
-1.  De toezichthouder neemt geen besluit tot het treffen van een in het tweede lid genoemde maatregel dan nadat hij aan de andere toezichthouder een redelijke termijn heeft geboden om daarover zijn zienswijze naar voren te brengen.   
+1.  De toezichthouder neemt geen besluit tot het treffen van een in het tweede lid genoemde maatregel dan nadat hij aan de andere toezichthouder een redelijke termijn heeft geboden om daarover zijn zienswijze naar voren te brengen. De eerste volzin is niet van toepassing indien de andere toezichthouder geen toezicht uitoefent op de naleving van deze wet door de desbetreffende persoon of onderneming.   
 2.  De maatregelen zijn: 
 
 a. de benoeming van een curator op grond van artikel 1:76;  
@@ -952,6 +959,16 @@ a. dochtermaatschappij is van een kredietinstelling, levensverzekeraar of schade
 b. dochtermaatschappij is van een moedermaatschappij van een kredietinstelling, levensverzekeraar of schadeverzekeraar waaraan in een lidstaat een vergunning is verleend;  
 
 c. onder zeggenschap staat van een persoon die tevens zeggenschap uitoefent over een kredietinstelling, levensverzekeraar of schadeverzekeraar waaraan in een lidstaat een vergunning is verleend.    
+
+### Artikel  1:47b  
+
+De Nederlandsche Bank stelt de Autoriteit Financiële Markten in de gelegenheid advies uit te brengen alvorens zij een verklaring van geen bezwaar als bedoeld in artikel 3:95 verleent, indien de aanvrager: 
+
+a. een beheerder van een instelling voor collectieve belegging in effecten of een beleggingsonderneming is waaraan door de Autoriteit Financiële Markten een vergunning is verleend als bedoeld in artikel 2:65, tweede lid, onderscheidenlijk artikel 2:96;  
+
+b. de moedermaatschappij is van een beheerder van een instelling voor collectieve belegging in effecten of een beleggingsonderneming als bedoeld onder a;  
+
+c. een persoon is die zeggenschap heeft over een beheerder van een instelling voor collectieve belegging in effecten of een beleggingsonderneming als bedoeld onder a.    
 
 ### Artikel  1:48  
 
@@ -1219,13 +1236,13 @@ c. onder zeggenschap staat van een natuurlijke persoon of rechtspersoon die teve
 
 ### Artikel  1:62  
 
-De Nederlandsche Bank stelt de toezichthoudende instantie van de desbetreffende lidstaat in de gelegenheid advies uit te brengen alvorens zij een verklaring van geen bezwaar als bedoeld in artikel 3:95 verleent of een mededeling als bedoeld in artikel 3:108, vierde lid, doet, indien de beleggingsonderneming of kredietinstelling waarin de aanvrager een gekwalificeerde deelneming wil houden ten gevolge van de gekwalificeerde deelneming dochtermaatschappij zou worden of anderszins onder de zeggenschap zou komen van de aanvrager, en de aanvrager: 
+De Nederlandsche Bank stelt de toezichthoudende instantie van de desbetreffende lidstaat in de gelegenheid advies uit te brengen alvorens zij een verklaring van geen bezwaar als bedoeld in artikel 3:95 verleent, indien de aanvrager: 
 
-a. een beleggingsonderneming, herverzekeraar, kredietinstelling, levensverzekeraar of schadeverzekeraar of beheerder van een instelling voor collectieve belegging in effecten is waaraan in een andere lidstaat een vergunning is verleend;  
+a. een beheerder van een instelling voor collectieve belegging in effecten, beleggingsonderneming, herverzekeraar, kredietinstelling, levensverzekeraar of schadeverzekeraar is waaraan in een andere lidstaat een vergunning is verleend;  
 
-b. de moedermaatschappij is van een beleggingsonderneming, herverzekeraar, kredietinstelling, levensverzekeraar of schadeverzekeraar of beheerder van een instelling voor collectieve belegging in effecten waaraan in een andere lidstaat een vergunning is verleend; of  
+b. de moedermaatschappij is van een beheerder van een instelling voor collectieve belegging in effecten, beleggingsonderneming, herverzekeraar, kredietinstelling, levensverzekeraar of schadeverzekeraar als bedoeld onder a; of  
 
-c. een persoon is die anderszins zeggenschap heeft over een beleggingsonderneming, herverzekeraar, kredietinstelling, levensverzekeraar of schadeverzekeraar of beheerder van een instelling voor collectieve belegging in effecten waaraan in een andere lidstaat een vergunning is verleend.    
+c. een persoon is die anderszins zeggenschap heeft over een beheerder van een instelling voor collectieve belegging in effecten, beleggingsonderneming, herverzekeraar, kredietinstelling, levensverzekeraar of schadeverzekeraar als bedoeld onder a.    
 
 ### Artikel  1:63  
 
@@ -1304,11 +1321,9 @@ De Autoriteit Financiële Markten stelt de Commissie van de Europese Gemeenschap
 
 De Nederlandsche Bank stelt de Commissie van de Europese Gemeenschappen in kennis van: 
 
-a. een verleende verklaring van geen bezwaar als bedoeld in artikel 3:95 voor een gekwalificeerde deelneming in een bank, beleggingsonderneming, herverzekeraar, levensverzekeraar of schadeverzekeraar, indien door de gekwalificeerde deelneming de bank, beleggingsonderneming, herverzekeraar, levensverzekeraar of schadeverzekeraar een dochteronderneming wordt van een financiële onderneming waarop het recht van toepassing is van een staat die geen lidstaat is; en  
+a. een verleende verklaring van geen bezwaar als bedoeld in artikel 3:95 voor een gekwalificeerde deelneming in een kredietinstelling, beleggingsonderneming, herverzekeraar, levensverzekeraar of schadeverzekeraar, indien door de gekwalificeerde deelneming de kredietinstelling, beleggingsonderneming, herverzekeraar, levensverzekeraar of schadeverzekeraar een dochteronderneming wordt van een financiële onderneming waarop het recht van toepassing is van een staat die geen lidstaat is; en  
 
-b. een gedane mededeling als bedoeld in artikel 3:108, vierde lid, indien door de gekwalificeerde deelneming de elektronischgeldinstelling een dochteronderneming wordt van een financiële onderneming waarop het recht van toepassing is van een staat die geen lidstaat is;  
-
-c. een besluit tot instemming als bedoeld in artikel 3:275, zesde of achtste lid.    
+b. een besluit tot instemming als bedoeld in artikel 3:275, zesde of achtste lid.    
 
 ### Artikel  1:71  
 
@@ -1420,9 +1435,11 @@ a. voorschriften, gesteld ingevolge de in de bijlage bij dit artikel genoemde ar
 
 b. de prospectusverordening;  
 
-c. verordening (EG) nr. 2560/2001 van het Europees Parlement en de Raad van de Europese Unie van 19 december 2001 betreffende grensoverschrijdende betalingen in euro (PbEG L 344); en  
+c. de verordening grensoverschrijdende betalingen;  
 
-d. [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
+d. de verordening ratingbureaus; en  
+
+e. [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
 2.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.   
 
 ### Artikel  1:80  
@@ -1433,9 +1450,11 @@ a. voorschriften, gesteld ingevolge de in de bijlage bij dit artikel genoemde ar
 
 b. de prospectusverordening;  
 
-c. verordening (EG) nr. 2560/2001 van het Europees Parlement en de Raad van de Europese Unie van 19 december 2001 betreffende grensoverschrijdende betalingen in euro (PbEG L 344); en  
+c. de verordening grensoverschrijdende betalingen;  
 
-d. [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
+d. de verordening ratingbureaus; en  
+
+e. [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
 2.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.   
 
 ### Artikel  1:81  
@@ -1569,6 +1588,11 @@ Indien de Nederlandsche Bank ingevolge afdeling 3.6.2 toezicht houdt op geconsol
 1.  De Autoriteit Financiële Markten kan, indien zij is aangewezen als contactpunt als bedoeld in artikel 56, eerste lid, derde volzin, van de richtlijn markten voor financiële instrumenten, in afwijking van artikel 1:90, eerste lid, vertrouwelijke gegevens of inlichtingen verkregen bij de uitvoering van haar taak als contactpunt, verstrekken aan de Nederlandsche Bank.   
 2.  Voorzover de gegevens of inlichtingen, bedoeld in het eerste lid, zijn verkregen van een toezichthoudende instantie in een andere lidstaat, verstrekt de Autoriteit Financiële Markten deze niet aan instanties of personen als bedoeld in artikel 1:91, eerste lid, onderdelen a tot en met f, artikel 1:92, eerste lid, en 1:93, eerste lid, onderdelen a tot en met e, tenzij de desbetreffende toezichthoudende instantie waarvan de gegevens of inlichtingen zijn verkregen uitdrukkelijk heeft ingestemd met de verstrekking van de gegevens en in voorkomend geval heeft ingestemd met het gebruik voor een ander doel dan waarvoor de gegevens of inlichtingen zijn verstrekt. De Autoriteit Financiële Markten kan de gegevens of inlichtingen in naar behoren gemotiveerde omstandigheden ook zonder de uitdrukkelijke instemming van de desbetreffende toezichthoudende instantie voor een ander doel dan waarvoor zij zijn verstrekt, verstrekken aan de in de vorige volzin bedoelde personen of instanties. In dit laatste geval stelt de Autoriteit Financiële Markten de toezichthoudende instantie waarvan de gegevens of inlichtingen zijn verkregen hiervan terstond in kennis.   
 
+### Artikel  1:93c  
+
+1.  De Nederlandsche Bank verstrekt eigener beweging aan Onze Minister relevante informatie met betrekking tot een aanvraag of tot een voornemen tot verlening of intrekking van een verklaring van geen bezwaar als bedoeld in artikel 3:95, eerste lid, indien de desbetreffende deelneming belangrijke gevolgen heeft of kan hebben voor de inrichting of goede werking van het financiële stelsel.   
+2.  Artikel 1:42, zevende lid, is van overeenkomstige toepassing op de in het eerste lid bedoelde informatie.   
+
 ### Afdeling  1.5.2  
 
 ####Publicatiemogelijkheden van de toezichthouders
@@ -1595,9 +1619,11 @@ De toezichthouder kan een openbare waarschuwing uitvaardigen, indien nodig onder
 
 a. een verbodsbepaling uit deze wet of ingevolge artikel 1:58, tweede lid, 1:58a, tweede lid, 1:58b, tweede lid, 1:58c, derde lid, 1:59, tweede lid, 1:67, eerste lid, 1:77, eerste lid, derde volzin, 4:4, eerste lid, of  4:4a;  
 
-b. een overige bepaling die in de algemene maatregel van bestuur op basis van artikel 1:81, eerste lid, beboetbaar is gesteld met tariefnummer 3; of  
+b. een bepaling, anders dan bedoeld onder a, die in de algemene maatregel van bestuur op basis van artikel 1:81, eerste lid, beboetbaar is gesteld met tariefnummer 3;  
 
-c. artikel 2:10, vierde lid, 2:15, tweede lid, 2:18, tweede lid, 2:25, tweede lid, 2:26, 2:36, vijfde lid, 2:45, vierde lid, 2:54, vierde lid, 2:100, tweede lid, 2:103, 2:107, eerste lid, 3:5, vierde lid, 3:8, 3:9, eerste lid, 3:35, 3:39, eerste lid, 3:47, eerste lid, 3:53, eerste lid, 3:57, eerste lid, 3:57, vijfde lid, 3:63, eerste lid, 3:63, derde lid, 3:67, eerste tot en met derde lid, 3:68, eerste en derde lid, 3:69, eerste lid, 3:72, vijfde lid, 3:99, eerste lid, 3:111a, eerste lid en tweede lid, 3:135, eerste lid, 3:138, eerste lid, 3:139, eerste lid, 3:141, eerste lid, 3:144, eerste lid, 3:145, eerste lid, 3:146, eerste lid, 3:148, eerste lid, 3:153, 3:259 eerste en tweede lid, 3:271, 3:272, eerste lid, 3:285, eerste en tweede lid, 3:286, eerste en tweede lid, 3:296, eerste en derde lid, 4:4, eerste lid, 4:9, eerste lid, 4:10, eerste lid, 4:19, 4:20, 4:22, 4:23, 4:24, 4:31, eerste lid, 4:42, 4:49, eerste lid, 4:50, tweede lid, 4:53, 4:56, eerste lid, 4:59, tweede lid, 4:60, vijfde lid, 4:87, 4:94, derde lid, 4:95, derde lid, 4:96, eerste en tweede lid, 4:100, derde lid, 5:26, eerste lid, 5:34, eerste en tweede lid, 5:35, eerste tot en met vierde lid, 5:38, eerste en tweede lid, 5:39, eerste lid, 5:40, 5:41, eerste en tweede lid, 5:42, 5:43, eerste en tweede lid, 5:48, derde tot en met achtste lid, 5:60, eerste lid, 5:62, eerste lid, of  5:64, eerste lid.     
+c. artikel 2:10, vierde lid, 2:15, tweede lid, 2:18, tweede lid, 2:25, tweede lid, 2:26, 2:36, vijfde lid, 2:45, vierde lid, 2:54, vierde lid, 2:100, tweede lid, 2:103, 2:107, eerste lid, 3:5, vierde lid, 3:8, 3:9, eerste lid, 3:35, 3:39, eerste lid, 3:47, eerste lid, 3:53, eerste lid, 3:57, eerste lid, 3:57, vijfde lid, 3:63, eerste lid, 3:63, derde lid, 3:67, eerste tot en met derde lid, 3:68, eerste en derde lid, 3:69, eerste lid, 3:72, vijfde lid, 3:99, eerste lid, 3:111a, eerste lid en tweede lid, 3:135, eerste lid, 3:138, eerste lid, 3:139, eerste lid, 3:141, eerste lid, 3:144, eerste lid, 3:145, eerste lid, 3:146, eerste lid, 3:148, eerste lid, 3:153, 3:259, eerste en tweede lid, 3:271, 3:272, eerste lid, 3:285, eerste en tweede lid, 3:286, eerste en tweede lid, 3:296, eerste en derde lid, 4:9, eerste lid, 4:10, eerste lid, 4:19, 4:20, 4:22, 4:23, 4:24, 4:31, eerste lid, 4:42, 4:49, eerste lid, 4:50, tweede lid, 4:53, 4:56, eerste lid, 4:59, tweede lid, 4:60, vijfde lid, 4:87, 4:94, derde lid, 4:95, derde lid, 4:96, eerste en tweede lid, 4:100, derde lid, 5:26, eerste lid, 5:34, eerste en tweede lid, 5:35, eerste tot en met vierde lid, 5:38, eerste en tweede lid, 5:39, eerste lid, 5:40, 5:41, eerste en tweede lid, 5:42, 5:43, eerste en tweede lid, 5:48, derde tot en met achtste lid, 5:60, eerste lid, 5:62, eerste lid, of  5:64, eerste lid; of  
+
+d. een bepaling, anders dan bedoeld onder c, waarvan de overtreding in de algemene maatregel van bestuur op basis van artikel 1:81, eerste lid, beboetbaar is gesteld met tariefnummer 2, voor zover dit in die algemene maatregel van bestuur is bepaald.     
 2.  De openbaarmaking van het besluit tot het opleggen van een bestuurlijke boete geschiedt niet eerder dan nadat vijf werkdagen zijn verstreken na de dag waarop het besluit aan de betrokken persoon bekend is gemaakt.   
 3.  Indien wordt verzocht om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt de openbaarmaking van het besluit opgeschort totdat er een uitspraak is van de voorzieningenrechter.   
 4.  Indien de openbaarmaking van het besluit in strijd is of zou kunnen komen met het doel van het door de toezichthouder uit te oefenen toezicht op de naleving van deze wet blijft deze achterwege.   
@@ -1676,14 +1702,15 @@ b. een machtiging bedoeld in artikel 3:163, eerste lid, aanhef en onderdeel c, i
 
 c. hij heeft ingestemd met een portefeuilleoverdracht als bedoeld in de artikelen 3:112, 3:113 en 3:114.     
 3.  De toezichthouder kan bij het besluit tot intrekking van een vergunning tevens bepalen dat de financiële onderneming binnen een door de toezichthouder te stellen termijn het bedrijf geheel of gedeeltelijk afwikkelt. Bij een afwikkeling, al dan niet bepaald door de toezichthouder, wordt de financiële onderneming of de curator in faillissement van de financiële onderneming aangemerkt als vergunninghoudende onderneming.   
+4.  Het eerste en derde lid zijn van overeenkomstige toepassing op door Onze Minister verleende vergunningen.   
 
 ### Artikel  1:105  
 
 1.  Het bij of krachtens deze afdeling met betrekking tot een vergunning bepaalde is van overeenkomstige toepassing op: 
 
-a. een verklaring van ondertoezichtstelling als bedoeld in artikel 3:110;  
+a. een verklaring van ondertoezichtstelling als bedoeld in de artikelen 2:69a en 3:110;  
 
-b. een verklaring van geen bezwaar als bedoeld in de artikelen 3:95, 3:96 en 5:32;  
+b. een verklaring van geen bezwaar als bedoeld in artikel 5:32d;  
 
 c. een ontheffing als bedoeld in de artikelen 2:23, 2:55, 2:60, 2:65, 2:75, 2:80, 2:86, 2:92, 2:96, 3:5, 3:6, 3:7, 4:3, 5:26 en 5:81, voor zover het een ontheffing betreft van artikel 5:74, eerste lid, of artikel 5:79, met dien verstande dat de ontheffing ook geheel of gedeeltelijk kan worden verleend; en  
 
@@ -1703,14 +1730,46 @@ c. de behandeling van kennisgevingen als bedoeld in artikel 3:103 die rechtstree
 
 a. aanvragen van een vergunning ten behoeve van het oprichten van dochtermaatschappijen die tevens dochtermaatschappijen zijn van een financiële onderneming die in een lidstaat een vergunning heeft voor het uitoefenen van het bedrijf van kredietinstelling, levensverzekeraar, schadeverzekeraar of voor het verlenen van financiële diensten als beheerder of beleggingsonderneming;  
 
-b. aanvragen voor een verklaring van geen bezwaar voor gekwalificeerde deelnemingen die tevens gekwalificeerde deelnemingen zijn van een financiële onderneming die in een lidstaat een vergunning heeft voor het uitoefenen van een bedrijf van kredietinstelling, levensverzekeraar, schadeverzekeraar of voor het verlenen van financiële diensten als beheerder of beleggingsonderneming;  
-
-c. kennisgevingen van een voornemen van een gekwalificeerde deelneming in een elektronischgeldinstelling die tevens gekwalificeerde deelnemingen zijn van een financiële onderneming die in een lidstaat een vergunning heeft voor het uitoefenen van een bedrijf van kredietinstelling, levensverzekeraar, schadeverzekeraar of voor het verlenen van financiële diensten als beheerder of beleggingsonderneming.     
+b. aanvragen voor een verklaring van geen bezwaar voor gekwalificeerde deelnemingen die tevens gekwalificeerde deelnemingen zijn van een financiële onderneming die in een lidstaat een vergunning heeft voor het uitoefenen van een bedrijf van kredietinstelling, levensverzekeraar, schadeverzekeraar of voor het verlenen van financiële diensten als beheerder of beleggingsonderneming.     
 3.  Indien in een staat die geen lidstaat is de markttoegang en de concurrentiemogelijkheden voor financiële ondernemingen met zetel in een lidstaat beperkter zijn dan voor financiële ondernemingen met een zetel in een staat die geen lidstaat is, stelt de toezichthouder de Commissie van de Europese Gemeenschappen desgevraagd in kennis van: 
 
 a. aanvragen voor een vergunning voor het uitoefenen van het bedrijf van kredietinstelling, levensverzekeraar, schadeverzekeraar of voor het verlenen van financiële diensten als beheerder of beleggingsonderneming, die rechtstreeks of middellijk zijn ingediend door een financiële onderneming waarop het recht van toepassing is van de staat die geen lidstaat is;  
 
-b. aanvragen voor een verklaring van geen bezwaar voor gekwalificeerde deelnemingen in een bank, beheerder of beleggingsonderneming, levensverzekeraar of schadeverzekeraar die rechtstreeks of middellijk zijn ingediend door financiële ondernemingen waarop het recht van toepassing is van de staat die geen lidstaat is, ten gevolge waarvan die bank, beleggingsonderneming, levensverzekeraar of schadeverzekeraar dochtermaatschappij zou worden van de aanvrager.     
+b. aanvragen voor een verklaring van geen bezwaar voor gekwalificeerde deelnemingen in een kredietinstelling, beheerder of beleggingsonderneming, levensverzekeraar of schadeverzekeraar die rechtstreeks of middellijk zijn ingediend door financiële ondernemingen waarop het recht van toepassing is van de staat die geen lidstaat is, ten gevolge waarvan die kredietinstelling, beleggingsonderneming, levensverzekeraar of schadeverzekeraar dochtermaatschappij zou worden van de aanvrager.     
+
+### Afdeling  1.6.1a  
+
+####Verklaringen van geen bezwaar als bedoeld in artikel 3:95  en 3:96 
+
+### Artikel  1:106a  
+
+Het bij of krachtens de artikelen 1:102, eerste en tweede lid, 1:104 en 1:106 met betrekking tot een vergunning bepaalde is van overeenkomstige toepassing op een verklaring van geen bezwaar als bedoeld in de artikelen 3:95 en 3:96.  
+
+### Artikel  1:106b  
+
+1.  De Nederlandsche Bank zendt binnen twee werkdagen na ontvangst van de aanvraag van een verklaring van geen bezwaar en van alle gegevens en bescheiden, bedoeld in artikel 3:95, tweede lid, en artikel 3:96, tweede lid, een schriftelijke ontvangstbevestiging aan de aanvrager.   
+2.  De Nederlandsche Bank beslist op de aanvraag binnen zestig werkdagen na de ontvangstbevestiging als bedoeld in het eerste lid, onverminderd artikel 1:106c. De Nederlandsche Bank informeert de aanvrager over de datum waarop zij uiterlijk beslist.   
+3.  Indien het een aanvraag betreft als bedoeld in artikel 1:62 voor een verklaring van geen bezwaar als bedoeld in artikel 3:95, vermeldt de Nederlandsche Bank in haar besluit het advies van de toezichthoudende instantie van de desbetreffende lidstaat.   
+
+### Artikel  1:106c  
+
+1.  De Nederlandsche Bank kan de aanvrager binnen vijftig werkdagen na de ontvangstbevestiging als bedoeld in artikel 1:106b, eerste lid, schriftelijk om aanvullende informatie verzoeken indien dit voor de beoordeling van de aanvraag noodzakelijk is. Het verzoek vermeldt welke aanvullende informatie dient te worden verstrekt.   
+2.  De Nederlandsche Bank zendt binnen twee werkdagen na ontvangst van de aanvullende informatie als bedoeld in het eerste lid een schriftelijke ontvangstbevestiging aan de aanvrager.   
+3.  Indien de Nederlandsche Bank heeft verzocht om aanvullende informatie als bedoeld in het eerste lid kan zij de beslistermijn, bedoeld in artikel 1:106b, tweede lid, eenmalig met ten hoogste twintig werkdagen opschorten.   
+4.  In afwijking van het derde lid kan de Nederlandsche Bank de beslistermijn met ten hoogste dertig werkdagen opschorten indien: 
+
+a. de aanvrager zijn zetel heeft of onder toezicht staat in een staat die geen lidstaat is; of  
+
+b. de aanvrager geen beleggingsonderneming, herverzekeraar, beheerder van een instelling voor collectieve belegging in effecten, kredietinstelling, levensverzekeraar, schadeverzekeraar of entiteit voor risico-acceptatie met zetel in Nederland of een andere lidstaat is.     
+5.  Indien de Nederlandsche Bank heeft verzocht om aanvullende informatie als bedoeld in het eerste lid, informeert zij de aanvrager over de datum waarop zij uiterlijk beslist.   
+
+### Artikel  1:106d  
+
+Indien de Nederlandsche Bank de aanvraag niet binnen de beslistermijn, bedoeld in artikel 1:106b of 1:106c, heeft afgewezen, wordt de verklaring van geen bezwaar geacht te zijn verleend. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.  
+
+### Artikel  1:106e  
+
+De Nederlandsche Bank kan een termijn stellen waarbinnen de verwerving of vergroting van de gekwalificeerde deelneming, bedoeld in artikel 3:95, of de handeling, bedoeld in artikel 3:96, dient te zijn voltooid. Deze termijn kan door de Nederlandsche Bank worden verlengd.  
 
 ### Afdeling  1.6.2  
 
@@ -1823,7 +1882,7 @@ Vergunningen en ontheffingen, verleend ingevolge deze wet, zijn persoonlijk en n
 
 ### Artikel  2:2  
 
-Indien de toezichthouder bij de verlening van een vergunning een ontheffing als bedoeld in artikel 2:5, derde lid, 2:7, derde lid, 2:12, zesde lid, 2:17, derde lid, 2:21, derde lid, 2:26b, vijfde lid, 2:26e, derde lid, 2:31, vijfde lid, 2:32, derde lid, 2:37, derde lid, 2:41, derde lid, 2:42, derde lid, 2:49, derde lid, 2:51, derde lid, 2:54b, vierde lid, 2:54e, derde lid, 2:58, derde lid, 2:63, derde lid, 2:67, vijfde lid, 2:68, vierde lid, 2:78, derde lid, 2:83, derde lid, 2:89, derde lid, 2:94, derde lid, of 2:99, zesde lid, verleent, geldt die ontheffing tevens als een ontheffing van de dienovereenkomstige regels ingevolge het Deel Prudentieel toezicht financiële ondernemingen onderscheidenlijk het Deel Gedragstoezicht financiële ondernemingen.  
+Indien de toezichthouder bij de verlening van een vergunning een ontheffing als bedoeld in artikel 2:5, derde lid, 2:7, derde lid, 2:12, vierde lid, 2:17, derde lid, 2:21, derde lid, 2:26b, vierde lid, 2:26e, derde lid, 2:31, vierde lid, 2:32, derde lid, 2:37, derde lid, 2:41, derde lid, 2:42, derde lid, 2:49, derde lid, 2:51, derde lid, 2:54b, vierde lid, 2:54e, derde lid, 2:58, derde lid, 2:63, derde lid, 2:67, vijfde lid, 2:68, vierde lid, 2:78, derde lid, 2:83, derde lid, 2:89, derde lid, 2:94, derde lid, of 2:99, zesde lid, verleent, geldt die ontheffing tevens als een ontheffing van de dienovereenkomstige regels ingevolge het Deel Prudentieel toezicht financiële ondernemingen onderscheidenlijk het Deel Gedragstoezicht financiële ondernemingen.  
 
 ### Artikel  2:3  
 
@@ -1864,7 +1923,9 @@ f. artikel 3:17, eerste en tweede lid, met betrekking tot de inrichting van de b
 
 g. artikel 3:29a met betrekking tot het veiligstellen van ontvangen middelen uit betaaldiensten, voor zover van toepassing;  
 
-h. artikel 3:53, eerste en derde lid, met betrekking tot het minimum eigen vermogen;     
+h. artikel 3:53, eerste en derde lid, met betrekking tot het minimum eigen vermogen;  
+
+i. artikel 3:57, eerste tot en met derde lid, met betrekking tot de solvabiliteit.     
 2.  De aanvraag van de vergunning geschiedt onder opgave van bij of krachtens algemene maatregel van bestuur te bepalen gegevens.   
 3.  De Nederlandsche Bank beslist op de aanvraag binnen drie maanden na ontvangst van de aanvraag, of, indien de aanvraag onvolledig is, binnen drie maanden na ontvangst van alle voor het nemen van de beslissing benodigde gegevens.   
 4.  De [artikelen 4:14 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en 1:102, derde lid, zijn niet van toepassing.   
@@ -1978,8 +2039,8 @@ h. artikel 3:63, eerste en tweede lid, met betrekking tot de liquiditeit,   met 
 
 ### Artikel  2:8  
 
-1.  Het is een ieder met zetel buiten Nederland verboden het bedrijf van clearinginstelling door middel van het verrichten van diensten naar Nederland uit te oefenen, tenzij hij de Nederlandsche Bank van het voornemen daartoe kennis heeft gegeven en hij ervoor zorgt en aantoont dat zal worden voldaan aan hetgeen ingevolge artikel 3:57 is bepaald.   
-2.  Het eerste lid is niet van toepassing op clearinginstellingen met zetel in een door Onze Minister ingevolge artikel 2:6, tweede lid, aan te wijzen staat.   
+1.  Het is een ieder met zetel buiten Nederland verboden het bedrijf van clearinginstelling door middel van het verrichten van diensten naar Nederland uit te oefenen, tenzij hij de Nederlandsche Bank van het voornemen daartoe kennis heeft gegeven en hij ervoor zorgt en aantoont dat zal worden voldaan aan hetgeen ingevolge de artikelen 3:17, 3:18, 3:20a en 3:57 is bepaald, met dien verstande dat in die artikelen voor de zinsnede «met zetel in Nederland» wordt gelezen: met zetel buiten Nederland.   
+2.  Het eerste lid is niet van toepassing op clearinginstellingen met zetel in een door Onze Minister ingevolge artikel 2:6, tweede lid, aan te wijzen staat die in de staat van hun zetel bevoegd zijn tot de uitoefening van hun bedrijf.   
 3.  Het eerste lid is niet van toepassing op clearinginstellingen met zetel in een andere lidstaat die een door de toezichthoudende instantie van die lidstaat verleende vergunning hebben voor het uitoefenen van het bedrijf van bank, tenzij de vergunning anders vermeldt. Artikel 2:18 is van overeenkomstige toepassing.   
 4.  Voor de toepassing van het eerste lid oefenen clearinginstellingen met zetel buiten Nederland het bedrijf van clearinginstelling uit door middel van het verrichten van diensten naar Nederland indien zulks geschiedt op een gereglementeerde markt waarvoor een vergunning als bedoeld in artikel 5:26, eerste lid, is verleend, een multilaterale handelsfaciliteit waarvoor een vergunning als bedoeld in artikel 2:96 is verleend of een beleggingsonderneming met systematische interne afhandeling.   
 5.  Indien de Nederlandsche Bank een kennisgeving als bedoeld in het eerste lid heeft ontvangen, deelt zij de ontvangst hiervan onverwijld mede aan de financiële onderneming die de kennisgeving heeft gedaan.   
@@ -2036,10 +2097,8 @@ j. artikel 3:57, eerste en tweede lid, met betrekking tot de solvabiliteit; en
 
 k. artikel 3:63, eerste en tweede lid, met betrekking tot de liquiditeit.     
 2.  Indien de aanvraag een bank met zetel in Nederland betreft waarin een gekwalificeerde deelneming wordt gehouden, verleent de Nederlandsche Bank, onverminderd het eerste lid, een vergunning indien de houder van de gekwalificeerde deelneming een verklaring van geen bezwaar overeenkomstig artikel 3:95, tweede lid, heeft aangevraagd, en de Nederlandsche Bank van oordeel is dat voldaan is aan het bepaalde ingevolge de artikelen 3:99 tot en met 3:101 met betrekking tot de verklaring van geen bezwaar.   
-3.  Indien de aanvraag een bank met zetel in Nederland betreft waarin een gekwalificeerde deelneming wordt gehouden waarop artikel 3:97 van toepassing is, verleent de Nederlandsche Bank, onverminderd het eerste lid en in afwijking van het tweede lid, een vergunning tenzij de deelneming zou kunnen leiden of zou leiden tot een ongewenste ontwikkeling van de financiële sector of naar het oordeel van de Nederlandsche Bank een van de overwegingen, bedoeld in artikel 3:100, aanhef, onderdeel a of b, of 3:101, aanhef, onderdeel a of b, aan de verlening van een verklaring van geen bezwaar in de weg staat.   
-4.  Indien de aanvraag een elektronischgeldinstelling met zetel in Nederland betreft waarin een gekwalificeerde deelneming wordt gehouden, verleent de Nederlandsche Bank, onverminderd het eerste lid, een vergunning tenzij het voornemen, bedoeld in artikel 3:108, eerste lid, zou kunnen leiden of zou leiden tot een invloed op de betrokken elektronischgeldinstelling waardoor de financiële soliditeit van de elektronischgeldinstelling in gevaar komt.   
-5.  De aanvraag van de vergunning geschiedt onder opgave van bij of krachtens algemene maatregel van bestuur te bepalen gegevens.   
-6.  De Nederlandsche Bank kan op aanvraag geheel of gedeeltelijk ontheffing verlenen van het eerste lid, aanhef en onderdeel c, f, g, i, j of k, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die de in het eerste lid genoemde artikelen beogen te bereiken anderszins worden bereikt.   
+3.  De aanvraag van de vergunning geschiedt onder opgave van bij of krachtens algemene maatregel van bestuur te bepalen gegevens.   
+4.  De Nederlandsche Bank kan op aanvraag geheel of gedeeltelijk ontheffing verlenen van het eerste lid, aanhef en onderdeel c, f, g, i, j of k, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die de in het eerste lid genoemde artikelen beogen te bereiken anderszins worden bereikt.   
 
 ### Artikel  2:13  
 
@@ -2123,7 +2182,7 @@ Een elektronischgeldinstelling met zetel in een andere lidstaat die een door de 
 
 ### Artikel  2:21  
 
-1.  De Nederlandsche Bank verleent op aanvraag een vergunning als bedoeld in artikel 2:20, eerste lid, indien de aanvrager aantoont dat zal worden voldaan aan het bepaalde ingevolge: 
+1.  De Nederlandsche Bank verleent op aanvraag een vergunning als bedoeld in artikel 2:20, eerste lid, indien de aanvrager aantoont dat hij in de staat van zijn zetel bevoegd is tot de uitoefening van zijn bedrijf en dat zal worden voldaan aan het bepaalde ingevolge: 
 
 a. artikel 3:8 met betrekking tot de deskundigheid van de in dat artikel bedoelde personen;  
 
@@ -2221,9 +2280,8 @@ j. artikel 3:57, eerste tot en met vierde lid, met betrekking tot de solvabilite
 
 k. artikel 3:70 met betrekking tot het boekjaar.     
 2.  Indien de aanvraag een herverzekeraar met zetel in Nederland betreft waarin een gekwalificeerde deelneming wordt gehouden, verleent de Nederlandsche Bank, onverminderd het eerste lid, een vergunning indien de houder van de gekwalificeerde deelneming een verklaring van geen bezwaar overeenkomstig artikel 3:95, tweede lid, heeft aangevraagd, en de Nederlandsche Bank van oordeel is dat voldaan is aan het bepaalde ingevolge de artikelen 3:99 tot en met 3:101 met betrekking tot de verklaring van geen bezwaar.   
-3.  Indien de aanvraag een herverzekeraar met zetel in Nederland betreft waarin een gekwalificeerde deelneming wordt gehouden waarop artikel 3:97 van toepassing is, verleent de Nederlandsche Bank, onverminderd het eerste lid en in afwijking van het tweede lid, een vergunning tenzij de deelneming zou kunnen leiden of zou leiden tot een ongewenste ontwikkeling van de financiële sector of naar het oordeel van de Nederlandsche Bank een van de overwegingen, bedoeld in artikel 3:100, aanhef, onderdeel a of b, of 3:101, aanhef, onderdeel a of b, aan de verlening van een verklaring van geen bezwaar in de weg staat.   
-4.  De aanvraag geschiedt onder vermelding van de herverzekeringsactiviteit, en onder opgave van bij of krachtens algemene maatregel van bestuur te bepalen gegevens.   
-5.  De Nederlandsche Bank kan op aanvraag geheel of gedeeltelijk ontheffing verlenen van het eerste lid, aanhef en onderdeel c, d, f, g of k, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die de in het eerste lid genoemde artikelen beogen te bereiken anderszins worden bereikt.   
+3.  De aanvraag geschiedt onder vermelding van de herverzekeringsactiviteit, en onder opgave van bij of krachtens algemene maatregel van bestuur te bepalen gegevens.   
+4.  De Nederlandsche Bank kan op aanvraag geheel of gedeeltelijk ontheffing verlenen van het eerste lid, aanhef en onderdeel c, d, f, g of k, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die de in het eerste lid genoemde artikelen beogen te bereiken anderszins worden bereikt.   
 
 ### §  2.2.2a.2  
 
@@ -2352,9 +2410,8 @@ j. artikel 3:57, eerste tot en met vierde lid, met betrekking tot de solvabilite
 
 k. artikel 3:70, eerste lid, met betrekking tot het boekjaar.     
 2.  Indien de aanvraag een verzekeraar met zetel in Nederland betreft waarin een gekwalificeerde deelneming wordt gehouden, verleent de Nederlandsche Bank, onverminderd het eerste lid, een vergunning indien de houder van de gekwalificeerde deelneming een verklaring van geen bezwaar overeenkomstig artikel 3:95, tweede lid, heeft aangevraagd, en de Nederlandsche Bank van oordeel is dat voldaan is aan het bepaalde ingevolge de artikelen 3:99 tot en met 3:101 met betrekking tot de verklaring van geen bezwaar.   
-3.  Indien de aanvraag een verzekeraar met zetel in Nederland betreft waarin een gekwalificeerde deelneming wordt gehouden waarop artikel 3:97 van toepassing is, verleent de Nederlandsche Bank, onverminderd het eerste lid en in afwijking van het tweede lid, een vergunning tenzij de deelneming zou kunnen leiden of zou leiden tot een ongewenste ontwikkeling van de financiële sector of naar het oordeel van de Nederlandsche Bank een van de overwegingen, bedoeld in artikel 3:100, aanhef, onderdeel a of b, of 3:101, aanhef, onderdeel a of b, aan de verlening van een verklaring van geen bezwaar in de weg staat.   
-4.  De aanvraag van de vergunning geschiedt onder vermelding van de branche of branches waarvoor de vergunning wordt aangevraagd en onder opgave van bij of krachtens algemene maatregel van bestuur te bepalen gegevens.   
-5.  De Nederlandsche Bank kan op aanvraag geheel of gedeeltelijk ontheffing verlenen van het eerste lid, aanhef en onderdeel c, d, f, g of k, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die de in het eerste lid genoemde artikelen beogen te bereiken anderszins worden bereikt.   
+3.  De aanvraag van de vergunning geschiedt onder vermelding van de branche of branches waarvoor de vergunning wordt aangevraagd en onder opgave van bij of krachtens algemene maatregel van bestuur te bepalen gegevens.   
+4.  De Nederlandsche Bank kan op aanvraag geheel of gedeeltelijk ontheffing verlenen van het eerste lid, aanhef en onderdeel c, d, f, g of k, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die de in het eerste lid genoemde artikelen beogen te bereiken anderszins worden bereikt.   
 
 ### Artikel  2:32  
 
@@ -2740,9 +2797,9 @@ m. artikel 4:71b, derde lid, met betrekking tot het treffen van maatregelen door
 n. artikel 4:71c met betrekking tot de tussen de premiepensioeninstelling en de bijdragende onderneming en de tussen de premiepensioeninstelling en de pensioenbewaarder te sluiten overeenkomsten.     
 2.  Indien de aanvrager zetel heeft in Nederland en voornemens is tevens als adviseur, bemiddelaar, gevolmachtigde agent of ondergevolmachtigde agent in verzekeringen in Nederland op te treden, verleent de Nederlandsche Bank de vergunning indien de aanvrager, onverminderd het eerste lid, aantoont dat zal worden voldaan aan het bepaalde ingevolge: 
 
-a. artikel 4:9, tweede lid, en  
+a. artikel 4:9, tweede en derde lid, met betrekking tot de vakbekwaamheid van de in artikel 4:9, tweede lid, bedoelde personen; en  
 
-b. artikel 4:14, tweede lid, onderdeel c, onder 1° tot en met 6°, met betrekking tot de inrichting van de bedrijfsvoering.     
+b. artikel 4:15, tweede lid, onderdeel b, aanhef en onder 1° en 2°, met betrekking tot de inrichting van de bedrijfsvoering.     
 3.  De aanvraag van de vergunning geschiedt onder opgave van bij of krachtens algemene maatregel van bestuur te bepalen gegevens.   
 4.  De Nederlandsche Bank kan op aanvraag al dan niet voor bepaalde tijd geheel of gedeeltelijk ontheffing verlenen van het eerste lid, onderdeel c, d, f, g, i, j, k, l of m, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die de in het eerste lid genoemde artikelen beogen te bereiken anderszins worden bereikt.   
 
@@ -2757,7 +2814,7 @@ b. artikel 4:14, tweede lid, onderdeel c, onder 1° tot en met 6°, met betrekki
 ### Artikel  2:55  
 
 1.  Het is verboden in Nederland zonder een daartoe door de Autoriteit Financiële Markten verleende vergunning beleggingsobjecten aan te bieden.   
-2.  De Autoriteit Financiële Markten kan op aanvraag, al dan niet voor bepaalde tijd, ontheffing verlenen van het eerste lid indien de aanvrager aantoont dat de belangen die dit deel en het Deel Gedragstoezicht financiële ondernemingen beogen te beschermen anderszins voldoende worden beschermd.   
+2.  De Autoriteit Financiële Markten kan op aanvraag, al dan niet voor bepaalde tijd, ontheffing verlenen van het eerste lid en van hetgeen in het Deel Gedragstoezicht financiële ondernemingen is bepaald met betrekking tot het aanbieden van beleggingsobjecten, indien de aanvrager aantoont dat de belangen die dit deel en het Deel Gedragstoezicht financiële ondernemingen beogen te beschermen anderszins voldoende worden beschermd.   
 3.  Het eerste lid is niet van toepassing op het aanbieden van beleggingsobjecten, voor zover het betreft overeenkomsten die voor 1 januari 2007 zijn aangegaan met betrekking tot beleggingsobjecten die op dat tijdstip geen beleggingsobject waren als bedoeld in [artikel 1, onderdeel d, van de Wfd](../../../../../../../wet/wet/financiële/dienstverlening/BWBR0018329/README.md) of ingevolge onderdeel m, onder 8°, van [dat artikel](../../../../../../../wet/wet/financiële/dienstverlening/BWBR0018329/README.md) waren aangewezen als financieel product.   
 
 ### Artikel  2:56  
@@ -2880,7 +2937,7 @@ a. zonder dat de beheerder van de beleggingsinstelling een door de Autoriteit Fi
 
 b. indien het een beleggingsmaatschappij betreft die geen aparte beheerder heeft, zonder dat de beleggingsmaatschappij een door de Autoriteit Financiële Markten verleende vergunning heeft.     
 2.  Onverminderd het eerste lid, aanhef en onderdeel a, is het verboden in Nederland een recht van deelneming in een instelling voor collectieve belegging in effecten die een beleggingsmaatschappij is aan te bieden zonder dat de beheerder ten behoeve van die beleggingsmaatschappij een door de Autoriteit Financiële Markten daartoe verleende vergunning heeft.   
-3.  De Autoriteit Financiële Markten kan op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van het eerste lid indien de aanvrager aantoont dat de belangen die dit deel en het Deel Gedragstoezicht financiële ondernemingen beogen te beschermen anderszins voldoende worden beschermd.   
+3.  De Autoriteit Financiële Markten kan op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van het eerste lid en van hetgeen in het Deel Gedragstoezicht financiële ondernemingen is bepaald met betrekking tot het aanbieden van rechten van deelneming in beleggingsinstellingen, indien de aanvrager aantoont dat de belangen die dit deel en het Deel Gedragstoezicht financiële ondernemingen beogen te beschermen anderszins voldoende worden beschermd.   
 
 ### Artikel  2:66  
 
@@ -3008,6 +3065,75 @@ h. artikel 4:60, derde lid, met betrekking tot de zetel van de beleggingsmaatsch
 i. artikel 4:60, vierde lid, met betrekking tot de werkzaamheden van de beleggingsmaatschappij.     
 2.  De aanvraag van de vergunning geschiedt onder opgave van bij of krachtens algemene maatregel van bestuur te bepalen gegevens.   
 
+### Artikel  2:69a  
+
+1.  De Autoriteit Financiële Markten kan op aanvraag een verklaring van ondertoezichtstelling verlenen aan: 
+
+a. de beheerder van een beleggingsinstelling waarvan rechten van deelneming in Nederland uitsluitend aan gekwalificeerde beleggers worden aangeboden; of  
+
+b. een beleggingsmaatschappij die geen aparte beheerder heeft en die rechten van deelneming in Nederland uitsluitend aan gekwalificeerde beleggers aanbiedt.     
+2.  Het eerste lid is niet van toepassing ten aanzien van beleggingsinstellingen: 
+
+a. die een startersfonds zijn als bedoeld in [artikel 4.1 van de Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md);  
+
+b. waarvan: 
+
+1°. het balanstotaal voor minder dan vijftig procent bestaat uit beleggingen, en  
+
+2°. minder dan vijftig procent van de totale gerealiseerde opbrengsten gegenereerd wordt uit beleggingen; of    
+
+c. die rechten van deelneming aanbieden aan hun bestuurders, leden van hun raad van commissarissen of hun werknemers of aan bestuurders, leden van de raad van commissarissen of werknemers van een met die beleggingsinstellingen in een formele of feitelijke zeggenschapsstructuur verbonden vennootschap of instelling.     
+3.  De Autoriteit Financiële Markten verleent op aanvraag een verklaring van ondertoezichtstelling aan een beheerder als bedoeld in het eerste lid, onderdeel a, indien de aanvrager aantoont dat met betrekking tot de beheerder en, indien van toepassing, de bewaarder die is verbonden aan de beleggingsinstelling die de beheerder voornemens is te beheren, zal worden voldaan aan het bepaalde ingevolge: 
+
+a. artikel 4:9, eerste lid, met betrekking tot de deskundigheid van de in dat artikel bedoelde personen;  
+
+b. artikel 4:10 met betrekking tot de betrouwbaarheid van de in dat artikel bedoelde personen;  
+
+c. artikel 4:11, eerste lid, met betrekking tot het beleid met betrekking tot de integere bedrijfsuitoefening;  
+
+d. artikel 4:13 met betrekking tot de zeggenschapsstructuur;  
+
+e. artikel 4:14, eerste lid, met betrekking tot de inrichting van de bedrijfsvoering;  
+
+f. artikel 3:53, eerste en derde lid, met betrekking tot het minimum eigen vermogen; en  
+
+g. artikel 3:63, eerste en tweede lid, met betrekking tot de liquiditeit.     
+4.  Indien de aanvraag betrekking heeft op het aanbieden van rechten van deelneming in een beleggingsinstelling waarop op het tijdstip van de aanvraag  artikel 1:12, eerste lid, aanhef en onderdeel b, van toepassing is, verstrekt de aanvrager bij de aanvraag aan de Autoriteit Financiële Markten de volgende gegevens: 
+
+a. zijn naam en adres;  
+
+b. de naam en het adres van de beleggingsinstelling;  
+
+c. de namen van de personen die het beleid van de beleggingsinstelling bepalen of mede bepalen en de namen van de personen die onderdeel zijn van een orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de beleggingsinstelling;  
+
+d. de naam en het adres van de eventueel aan de beleggingsinstelling verbonden bewaarder;  
+
+e. de wijze van in- en verkoop van rechten van deelneming;  
+
+f. een beschrijving van het beleggingsbeleid van de beleggingsinstelling; en  
+
+g. indien van toepassing, de gereglementeerde markt waar de rechten van deelneming tot de handel zijn toegelaten.     
+5.  De Autoriteit Financiële Markten verleent op aanvraag een verklaring van ondertoezichtstelling aan een beleggingsmaatschappij als bedoeld in het eerste lid, onderdeel b, indien de aanvrager aantoont dat met betrekking tot de beleggingsmaatschappij en, indien van toepassing, de daaraan verbonden bewaarder zal worden voldaan aan het bepaalde ingevolge: 
+
+a. artikel 4:9, eerste lid, met betrekking tot de deskundigheid van de in dat artikel bedoelde personen;  
+
+b. artikel 4:10 met betrekking tot de betrouwbaarheid van de in dat artikel bedoelde personen;  
+
+c. artikel 4:11, eerste lid, met betrekking tot het beleid met betrekking tot de integere bedrijfsuitoefening;  
+
+d. artikel 4:13 met betrekking tot de zeggenschapsstructuur;  
+
+e. artikel 4:14, eerste lid, met betrekking tot de inrichting van de bedrijfsvoering;  
+
+f. artikel 3:53, eerste en derde lid, met betrekking tot het minimum eigen vermogen; en  
+
+g. artikel 3:63, eerste en tweede lid, met betrekking tot de liquiditeit.     
+6.  De aanvraag van de verklaring van ondertoezichtstelling geschiedt onder opgave van bij of krachtens algemene maatregel van bestuur te bepalen gegevens.   
+
+### Artikel  2:69b  
+
+Een beheerder die beschikt over een vergunning als bedoeld in artikel 2:65, eerste lid, onderdeel a, en die de Autoriteit Financiële Markten in kennis heeft gesteld van het voornemen rechten van deelneming in een beleggingsinstelling in Nederland uitsluitend aan gekwalificeerde beleggers aan te bieden beschikt daarvoor van rechtswege over een verklaring van ondertoezichtstelling als bedoeld in artikel 2:69a, eerste lid, onderdeel a. Artikel 2:69a, vierde lid, is van overeenkomstige toepassing.  
+
 ### §  2.2.7.2  
 
 ####Bijkantoor en verrichten van diensten
@@ -3068,7 +3194,7 @@ Bij ministeriële regeling kan vrijstelling worden geregeld van artikel 2:65, ee
 ### Artikel  2:75  
 
 1.  Het is verboden in Nederland zonder een daartoe door de Autoriteit Financiële Markten verleende vergunning te adviseren over andere financiële producten dan financiële instrumenten.   
-2.  De Autoriteit Financiële Markten kan op aanvraag, al dan niet voor bepaalde tijd, ontheffing verlenen van het eerste lid indien de aanvrager aantoont dat de belangen die dit deel en het Deel Gedragstoezicht financiële ondernemingen beogen te beschermen anderszins voldoende worden beschermd.   
+2.  De Autoriteit Financiële Markten kan op aanvraag, al dan niet voor bepaalde tijd, ontheffing verlenen van het eerste lid en van hetgeen in het Deel Gedragstoezicht financiële ondernemingen is bepaald met betrekking tot het adviseren over andere financiële producten dan financiële instrumenten, indien de aanvrager aantoont dat de belangen die dit deel en het Deel Gedragstoezicht financiële ondernemingen beogen te beschermen anderszins voldoende worden beschermd.   
 
 ### Artikel  2:76  
 
@@ -3137,13 +3263,14 @@ e. artikel 4:15, eerste en tweede lid, met betrekking tot de inrichting van de b
 ### Artikel  2:80  
 
 1.  Het is verboden in Nederland zonder een daartoe door de Autoriteit Financiële Markten verleende vergunning te bemiddelen.   
-2.  De Autoriteit Financiële Markten kan op aanvraag, al dan niet voor bepaalde tijd, ontheffing verlenen van het eerste lid indien de aanvrager aantoont dat de belangen die dit deel en het Deel Gedragstoezicht financiële ondernemingen beogen te beschermen anderszins voldoende worden beschermd.   
+2.  De Autoriteit Financiële Markten kan op aanvraag, al dan niet voor bepaalde tijd, ontheffing verlenen van het eerste lid en van hetgeen in het Deel Gedragstoezicht financiële ondernemingen is bepaald met betrekking tot bemiddelen, indien de aanvrager aantoont dat de belangen die dit deel en het Deel Gedragstoezicht financiële ondernemingen beogen te beschermen anderszins voldoende worden beschermd.   
 3.  De Autoriteit Financiële Markten kan op aanvraag ontheffing verlenen van het eerste lid aan: 
 
 a. een persoon die met een overleden bemiddelaar tot het tijdstip van diens overlijden een duurzame gemeenschappelijke huishouding heeft gehad; of  
 
 b. een niet tot de huishouding behorend kind van een overleden bemiddelaar,   indien het bedrijf van de overleden bemiddelaar wordt voortgezet en de belangen die dit deel en het Deel Gedragstoezicht financiële ondernemingen beogen te beschermen anderszins voldoende worden beschermd.   
 4.  De in het derde lid bedoelde ontheffing kan met terugwerkende kracht worden verleend tot de datum van overlijden. De ontheffing wordt voor ten hoogste een jaar verleend en kan ten hoogste tweemaal met een jaar worden verlengd.   
+5.  Het tweede lid is niet van toepassing op het bemiddelen in verzekeringen.   
 
 ### Artikel  2:81  
 
@@ -3792,7 +3919,7 @@ Bij ministeriële regeling kan vrijstelling worden geregeld van het ingevolge di
 a. het van professionele marktpartijen of binnen besloten kring ter beschikking verkrijgen van opvorderbare gelden en van het voor eigen rekening verrichten van kredietuitzettingen; of  
 
 b. het ter beschikking verkrijgen van opvorderbare gelden en van het voor eigen rekening verrichten van beleggingen, niet zijnde kredietuitzettingen,   kan een vergunning aanvragen bij de Nederlandsche Bank voor het uitoefenen van dat bedrijf; bij de toepassing van artikel 2:12 en 2:13 merkt de Nederlandsche Bank de werkzaamheden van de aanvrager aan als het uitoefenen van het bedrijf van bank.   
-2.  Op degene die op grond van een aanvraag als bedoeld in het eerste lid een vergunning heeft verkregen van de Nederlandsche Bank, is het ingevolge deze wet met betrekking tot het uitoefenen van het bedrijf van bank bepaalde van overeenkomstige toepassing, met uitzondering van afdeling 3.5.5.   
+2.  Op het verlenen van een vergunning na een aanvraag als bedoeld in het eerste lid, en op degene die naar aanleiding van een aanvraag als bedoeld in het eerste lid een vergunning heeft verkregen van de Nederlandsche Bank, is hetgeen is bepaald ingevolge deze wet met betrekking tot het uitoefenen van het bedrijf van bank van overeenkomstige toepassing, met uitzondering van afdeling 3.5.5.   
 
 ### Hoofdstuk  3.2  
 
@@ -3957,7 +4084,9 @@ c. de soliditeit van de financiële onderneming, waaronder wordt verstaan:
 
 3°. het zorgen voor de instandhouding van de vereiste financiële waarborgen; en  
 
-4°. andere bij algemene maatregel van bestuur te bepalen onderwerpen.       
+4°. andere bij algemene maatregel van bestuur te bepalen onderwerpen;    
+
+d. met betrekking tot banken, beleggingsondernemingen en financiële instellingen die een verklaring van ondertoezichtstelling als bedoeld in artikel 3:110 hebben, een administratie die zodanig is dat, in geval van toepassing van het depositogarantiestelsel of het beleggerscompensatiestelsel, deze geen belemmering vormt of kan vormen voor de uitbetaling van de vergoeding binnen de ingevolge artikel 3:261, tweede lid, bepaalde termijn.     
 3.  Onverminderd artikel 4:14 is het tweede lid, aanhef en onderdeel c, van overeenkomstige toepassing op beheerders van een beleggingsinstelling met zetel in Nederland die rechten van deelneming in Nederland aanbiedt, beleggingsinstellingen met zetel in Nederland die rechten van deelneming in Nederland aanbieden, beleggingsondernemingen met zetel in Nederland die beleggingsdiensten verlenen of beleggingsactiviteiten verrichten in Nederland en bewaarders die zijn verbonden aan een beleggingsinstelling met zetel in Nederland die rechten van deelneming in Nederland aanbiedt.   
 4.  De Nederlandsche Bank kan op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van het op grond van het tweede lid bepaalde indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die dit artikel beoogt te bereiken anderszins worden bereikt, tenzij het op grond van het tweede lid bepaalde betrekking heeft op het verlenen van een beleggingsdienst of verrichten van een beleggingsactiviteit of nevendienst.   
 
@@ -4002,6 +4131,10 @@ Een verzekeraar met zetel in Nederland heeft de rechtsvorm van naamloze vennoots
 
 1.  Een betaaldienstverlener met zetel in een andere lidstaat die zijn bedrijf uitoefent vanuit een in Nederland gelegen bijkantoor of door tussenkomst van een in Nederland werkzaam zijnde betaaldienstagent dan wel door middel van het verrichten van diensten naar Nederland dient te beschikken over een door de toezichthoudende instantie van die lidstaat daartoe verleende vergunning.   
 2.  Artikel 1:107, tweede lid, is niet van toepassing.   
+
+### Artikel  3:20b  
+
+Een entiteit voor risico-acceptatie, herverzekeraar, kredietinstelling, levensverzekeraar of schadeverzekeraar met zetel in een andere lidstaat die haar onderscheidenlijk zijn bedrijf uitoefent vanuit een in Nederland gelegen bijkantoor of diensten verricht naar Nederland dient in die lidstaat bevoegd te zijn tot de uitoefening van dat bedrijf.  
 
 ### §  3.3.3.2  
 
@@ -4053,7 +4186,7 @@ De artikelen 3:17 en 3:18 zijn van overeenkomstige toepassing op natura-uitvaart
 
 ### Artikel  3:27  
 
-De artikelen 3:17, 3:18 en 3:21 zijn van overeenkomstige toepassing op clearinginstellingen met zetel in een niet-aangewezen staat.  
+De artikelen 3:17, 3:18, 3:20a en 3:21 zijn van overeenkomstige toepassing op clearinginstellingen met zetel in een niet-aangewezen staat.  
 
 ### Artikel  3:28  
 
@@ -4069,7 +4202,7 @@ Artikel 3:24 is van overeenkomstige toepassing op entiteiten voor risico-accepta
 
 ### Artikel  3:29  
 
-1.  Een betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, financiële instelling, kredietinstelling of verzekeraar met zetel in Nederland geeft kennis van wijzigingen met betrekking tot onderwerpen waarover ingevolge artikel 2:3b, 2:5, tweede lid, 2:12, vijfde lid, 2:13, tweede lid, 2:26b, vierde lid, 2:31, vierde lid, 2:32, tweede lid, 2:33, tweede lid, 2:49, tweede lid, 2:54b, derde lid, 2:107, tweede lid, 2:108, tweede lid, 2:111, tweede lid, 2:112, tweede lid, 2:115, tweede lid, 2:117, derde lid, 2:118, tweede lid, 2:120, tweede lid, 2:121, tweede lid, verstrekking van gegevens is voorgeschreven, aan de Nederlandsche Bank.   
+1.  Een betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, financiële instelling, kredietinstelling of verzekeraar met zetel in Nederland geeft kennis van wijzigingen met betrekking tot onderwerpen waarover ingevolge artikel 2:3b, 2:5, tweede lid, 2:12, derde lid, 2:13, tweede lid, 2:26b, derde lid, 2:31, derde lid, 2:32, tweede lid, 2:33, tweede lid, 2:49, tweede lid, 2:54b, derde lid, 2:107, tweede lid, 2:108, tweede lid, 2:111, tweede lid, 2:112, tweede lid, 2:115, tweede lid, 2:117, derde lid, 2:118, tweede lid, 2:120, tweede lid, 2:121, tweede lid, verstrekking van gegevens is voorgeschreven, aan de Nederlandsche Bank.   
 2.  Een clearinginstelling, entiteit voor risico-acceptatie, financiële instelling, kredietinstelling of verzekeraar met zetel in Nederland geeft, onverminderd het eerste lid, kennis van wijzigingen met betrekking tot onderwerpen waarover ingevolge artikel 2:108, tweede lid, 2:112, tweede lid, of 2:115, tweede lid, verstrekking van gegevens is voorgeschreven, aan de toezichthoudende instantie van de lidstaat waar de financiële onderneming haar bedrijf uitoefent vanuit een bijkantoor.   
 3.  Bij of krachtens algemene maatregel van bestuur wordt, onder vermelding van de te volgen procedures, bepaald van welke wijzigingen kennis wordt gegeven, welke gegevens daarbij worden verstrekt en, indien van toepassing, onder welke voorwaarden de wijzigingen ten uitvoer mogen worden gelegd.   
 
@@ -4640,29 +4773,28 @@ Artikel 3:89 is van overeenkomstige toepassing op actuarissen die het onderzoek,
 
 ### Artikel  3:95  
 
-1.  Het is verboden, anders dan na verkregen verklaring van geen bezwaar van de Nederlandsche Bank of, in de gevallen, bedoeld in artikel 3:97, van Onze Minister, een gekwalificeerde deelneming te houden, te verwerven of te vergroten dan wel enige zeggenschap verbonden aan een gekwalificeerde deelneming uit te oefenen in een: 
+1.  Het is verboden, anders dan na verkregen verklaring van geen bezwaar van de Nederlandsche Bank, een gekwalificeerde deelneming te houden, te verwerven of zodanig te vergroten dat een bovengrens als bedoeld in artikel 3:102, eerste lid, wordt bereikt of overschreden, dan wel enige zeggenschap verbonden aan een gekwalificeerde deelneming uit te oefenen in een: 
 
-a. bank met zetel in Nederland;  
+a. kredietinstelling met zetel in Nederland;  
 
 b. beheerder van een instelling voor collectieve belegging in effecten met zetel in Nederland;  
 
 c. beleggingsonderneming met zetel in Nederland;  
 
-d. entiteit voor risico-acceptatie met zetel in Nederland; of  
+d. entiteit voor risico-acceptatie; of  
 
 e. verzekeraar met zetel in Nederland.     
 2.  De aanvrager van een verklaring van geen bezwaar dient de aanvraag in bij de Nederlandsche Bank onder opgave van bij of krachtens algemene maatregel van bestuur te bepalen gegevens. De aanvraag van een verklaring van geen bezwaar voor een gekwalificeerde deelneming in een financiële onderneming als bedoeld in het eerste lid, onderdeel b of c, kan evenwel bij de Autoriteit Financiële Markten worden ingediend, indien die financiële onderneming op het moment van de aanvraag van de verklaring van geen bezwaar geen vergunning heeft.   
-3.  De Nederlandsche Bank zendt een aanvraag van een verklaring van geen bezwaar voor een handeling als bedoeld in artikel 3:97, eerste lid, vergezeld van haar advies, door aan Onze Minister.   
 
 ### Artikel  3:96  
 
-1.  Het is een bank met zetel in Nederland verboden, anders dan na verkregen verklaring van geen bezwaar van de Nederlandsche Bank of, in de gevallen, bedoeld in artikel 3:97, eerste lid, van Onze Minister: 
+1.  Het is een bank met zetel in Nederland verboden, anders dan na verkregen verklaring van geen bezwaar van de Nederlandsche Bank: 
 
 a. haar eigen vermogen door terugbetaling van kapitaal of uitkering van reserves te verminderen dan wel een uitkering te doen uit de post omvattende de dekking voor algemene bankrisico’s, bedoeld in [artikel 424 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
 
-b. een gekwalificeerde deelneming in een bank, een beleggingsonderneming, een financiële instelling, of een verzekeraar te verwerven dan wel te vergroten, indien het balanstotaal van die bank, beleggingsonderneming, financiële instelling of verzekeraar ten tijde van de verwerving onderscheidenlijk de vergroting, meer bedraagt dan een procent van het geconsolideerde balanstotaal van de bank, bedoeld in de aanhef;  
+b. een gekwalificeerde deelneming te verwerven of te vergroten in een kredietinstelling, beleggingsonderneming of verzekeraar met zetel in een staat die geen lidstaat is of in een financiële instelling waaraan geen verklaring van ondertoezichtstelling is verleend als bedoeld in artikel 3:110, indien het balanstotaal van die kredietinstelling, beleggingsonderneming, verzekeraar of financiële instelling ten tijde van de verwerving onderscheidenlijk de vergroting, meer bedraagt dan een procent van het geconsolideerde balanstotaal van de bank, bedoeld in de aanhef;  
 
-c. een gekwalificeerde deelneming in een onderneming, niet zijnde een financiële onderneming als bedoeld in onderdeel b, te verwerven dan wel te vergroten, indien het bedrag dat wordt betaald voor de verwerving van die gekwalificeerde deelneming onderscheidenlijk voor de vergroting van die gekwalificeerde deelneming tezamen met de bedragen die voor de verwerving en voor eerdere vergrotingen van die deelnemingen zijn betaald, meer bedraagt dan een procent van het geconsolideerde aanwezige eigen vermogen van de bank, bedoeld in de aanhef;  
+c. een gekwalificeerde deelneming in een onderneming, niet zijnde een kredietinstelling, beleggingsonderneming, financiële instelling of verzekeraar met zetel in Nederland of in een andere lidstaat of in een staat die geen lidstaat is, te verwerven of te vergroten, indien het bedrag dat wordt betaald voor die verwerving, onderscheidenlijk die vergroting, tezamen met de bedragen die voor eerdere verwerving en vergroting van een deelneming in die onderneming zijn betaald, meer bedraagt dan een procent van het geconsolideerde aanwezige eigen vermogen van de bank, bedoeld in de aanhef;  
 
 d. de activa en passiva van een andere onderneming of instelling geheel of voor een belangrijk deel al dan niet middellijk over te nemen indien het totaalbedrag van de over te nemen activa of van de over te nemen passiva meer bedraagt dan een procent van het geconsolideerde balanstotaal van de bank, bedoeld in de aanhef;  
 
@@ -4671,53 +4803,10 @@ e. een fusie aan te gaan met een andere onderneming of instelling indien het bal
 f. over te gaan tot financiële of vennootschappelijke reorganisatie;  
 
 g. een beherend vennoot tot de bank te doen toetreden.     
-2.  De aanvrager van een verklaring van geen bezwaar dient de aanvraag in bij de Nederlandsche Bank onder opgave van bij of krachtens algemene maatregel van bestuur te bepalen gegevens. De Nederlandsche Bank zendt een aanvraag van een verklaring van geen bezwaar voor een handeling als bedoeld in artikel 3:97, eerste lid, vergezeld van haar advies, door aan Onze Minister.   
+2.  De aanvrager van een verklaring van geen bezwaar dient de aanvraag in bij de Nederlandsche Bank onder opgave van bij of krachtens algemene maatregel van bestuur te bepalen gegevens.   
 3.  Het eerste lid is niet van toepassing op gekwalificeerde deelnemingen in vennootschappen wier activa op het moment van verwerving van de gekwalificeerde deelneming door de bank voor meer dan negentig procent uit liquide middelen bestaan. Bij of krachtens algemene maatregel van bestuur wordt bepaald welke middelen tot de liquide middelen mogen worden gerekend.   
 4.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste lid, onderdeel c.   
 5.  Onder gekwalificeerde deelneming als bedoeld in het eerste lid, onderdelen b en c, worden niet begrepen de stemrechten op aandelen die een bank kan uitoefenen op grond van een verkregen pandrecht op de aandelen en de stemrechten op aandelen die bewaarnemers van aandelen niet naar eigen goeddunken kunnen uitbrengen.   
-
-### Artikel  3:97  
-
-1.  Onze Minister beslist op een aanvraag van een verklaring van geen bezwaar voor: 
-
-a. het houden, het verwerven dan wel het vergroten van een gekwalificeerde deelneming als bedoeld in artikel 3:95, eerste lid, aanhef en onderdeel a, dan wel het uitoefenen van enige zeggenschap verbonden aan een gekwalificeerde deelneming, in een bank met zetel in Nederland die gerekend naar balanstotaal per ultimo van het jaar voorafgaand aan de aanvraag behoorde tot de vijf grootste banken met zetel in Nederland door: 
-
-1°. een bank met zetel in Nederland die gerekend naar balanstotaal per ultimo van het jaar voorafgaand aan de aanvraag behoorde tot de vijf grootste banken met zetel in Nederland;  
-
-2°. een levensverzekeraar, schadeverzekeraar of natura-uitvaartverzekeraar met zetel in Nederland die gerekend naar bruto premie-inkomen over het jaar voorafgaand aan de aanvraag behoorde tot de vijf grootste verzekeraars, uitgezonderd herverzekeraars, met zetel in Nederland;  
-
-3°. een herverzekeraar met zetel in Nederland die gerekend naar bruto premie-inkomen over het jaar voorafgaand aan de aanvraag, behoorde tot de vijf grootste herverzekeraars met zetel in Nederland; of  
-
-4°. een ieder die niet behoort tot de categorieën, bedoeld onder 1°, 2° of 3°, in geval van een voorgenomen belang van meer dan twintig procent;    
-
-b. het houden, het verwerven dan wel het vergroten van een gekwalificeerde deelneming als bedoeld in artikel 3:95, eerste lid, aanhef en onderdeel e, dan wel het uitoefenen van enige zeggenschap verbonden aan een gekwalificeerde deelneming, in een verzekeraar met zetel in Nederland die gerekend naar bruto premie-inkomen over het jaar voorafgaand aan de aanvraag behoorde tot de vijf grootste verzekeraars met zetel in Nederland door: 
-
-1°. een bank met zetel in Nederland die gerekend naar balanstotaal per ultimo van het jaar voorafgaand aan de aanvraag behoorde tot de vijf grootste banken met zetel in Nederland;  
-
-2°. een levensverzekeraar, schadeverzekeraar of natura-uitvaartverzekeraar met zetel in Nederland die gerekend naar bruto premie-inkomen over het jaar voorafgaand aan de aanvraag behoorde tot de vijf grootste verzekeraars, uitgezonderd herverzekeraars, met zetel in Nederland;  
-
-3°. een herverzekeraar met zetel in Nederland die gerekend naar bruto premie-inkomen over het jaar voorafgaand aan de aanvraag, behoorde tot de vijf grootste herverzekeraars met zetel in Nederland; of  
-
-4°. een ieder die niet behoort tot de categorieën, bedoeld onder 1°, 2° of 3°, in geval van een voorgenomen belang van meer dan twintig procent;    
-
-c. het verwerven dan wel het vergroten van een gekwalificeerde deelneming als bedoeld in artikel 3:96, eerste lid, aanhef en onderdeel b, door een bank met zetel in Nederland die gerekend naar balanstotaal per ultimo van het jaar voorafgaand aan de aanvraag behoorde tot de vijf grootste banken met zetel in Nederland in: 
-
-1°. een bank met zetel in Nederland die gerekend naar balanstotaal per ultimo van het jaar voorafgaand aan de aanvraag behoorde tot de vijf grootste banken met zetel in Nederland;  
-
-2°. een bank met zetel in een andere lidstaat of in een staat die geen lidstaat is, indien het balanstotaal van die bank per ultimo van het jaar voorafgaand aan de aanvraag meer bedroeg dan vijf procent van het balanstotaal van de verwervende bank per ultimo van het jaar voorafgaand aan de aanvraag;  
-
-3°. een levensverzekeraar, schadeverzekeraar of natura-uitvaartverzekeraar met zetel in Nederland die gerekend naar bruto premie-inkomen over het jaar voorafgaand aan de aanvraag behoorde tot de vijf grootste verzekeraars, uitgezonderd herverzekeraars, met zetel in Nederland; of  
-
-4°. een herverzekeraar met zetel in Nederland die gerekend naar bruto premie-inkomen over het jaar voorafgaand aan de aanvraag, behoorde tot de vijf grootste herverzekeraars met zetel in Nederland; en    
-
-d. het aangaan van een fusie als bedoeld in artikel 3:96, eerste lid, onderdeel e, door een bank met zetel in Nederland die gerekend naar balanstotaal per ultimo van het jaar voorafgaand aan de aanvraag behoorde tot de vijf grootste banken met zetel in Nederland met: 
-
-1°. een bank met zetel in Nederland die gerekend naar balanstotaal per ultimo van het jaar voorafgaand aan de aanvraag behoorde tot de vijf grootste banken met zetel in Nederland; of  
-
-2°. een bank met zetel in een andere lidstaat of in een staat die geen lidstaat is, indien het balanstotaal van die bank per ultimo van het jaar voorafgaand aan de aanvraag meer bedroeg dan vijf procent van het balanstotaal van de verwervende bank per ultimo van het jaar voorafgaand aan de aanvraag.       
-2.  Onze Minister verleent een verklaring van geen bezwaar voor een handeling als bedoeld in het eerste lid, tenzij de handeling zou kunnen leiden of zou leiden tot een ongewenste ontwikkeling van de financiële sector of naar het oordeel van de Nederlandsche Bank een of meer van de overwegingen, bedoeld in artikel 3:100, aanhef, onderdeel a of b, of 3:101, aanhef, onderdeel a of b, de verlening van een verklaring van geen bezwaar in de weg staan.   
-3.  Indien Onze Minister ingevolge het eerste lid beslist op een aanvraag van een verklaring van geen bezwaar, heeft hij ten aanzien van de naleving van het ingevolge deze afdeling bepaalde van rechtswege alle bevoegdheden die de Nederlandsche Bank heeft op grond van de afdelingen 1.4.1 en 1.4.2 alsmede alle bevoegdheden die de Nederlandsche Bank heeft op grond van deze afdeling.   
-4.  Het eerste lid, onderdeel a, onder 3°, onderdeel b, onder 3° en onderdeel c, onder 4°, is niet van toepassing ten aanzien van herverzekeraars met een bruto premie-inkomen over het jaar voorafgaand aan de aanvraag dat lager is dan een bij algemene maatregel van bestuur te bepalen bedrag.   
 
 ### Artikel  3:98  
 
@@ -4726,19 +4815,26 @@ d. het aangaan van een fusie als bedoeld in artikel 3:96, eerste lid, onderdeel 
 
 ### Artikel  3:99  
 
-1.  De betrouwbaarheid van de aanvrager en houder van een verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen staat buiten twijfel.   
+1.  De betrouwbaarheid van de houder van een verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zal bepalen of mede bepalen of zal kunnen bepalen of mede bepalen staat buiten twijfel.   
 2.  De betrouwbaarheid staat buiten twijfel wanneer dat eenmaal door een toezichthouder voor de toepassing van deze wet is vastgesteld, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling.   
 3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze waarop wordt vastgesteld of de betrouwbaarheid van een persoon als bedoeld in het eerste lid buiten twijfel staat en welke feiten en omstandigheden daarbij in aanmerking worden genomen.   
 
 ### Artikel  3:100  
 
-De Nederlandsche Bank verleent een verklaring van geen bezwaar voor een handeling als bedoeld in artikel 3:95, eerste lid, tenzij: 
+1.  De Nederlandsche Bank verleent een verklaring van geen bezwaar als bedoeld in artikel 3:95, eerste lid, tenzij: 
 
-a. de handeling zou kunnen leiden of zou leiden tot een invloed op de desbetreffende financiële onderneming waardoor een gezonde en prudente bedrijfsuitoefening van die onderneming in gevaar komt;  
+a. de betrouwbaarheid van de aanvrager van de verklaring van geen bezwaar of van de personen die op grond van de voorgenomen gekwalificeerde deelneming het beleid van de financiële onderneming zullen bepalen of mede bepalen of zullen kunnen bepalen of mede bepalen niet buiten twijfel staat;  
 
-b. in het geval van een handeling als bedoeld in artikel 3:95, eerste lid en aanhef, onderdeel a, d of e, de handeling ertoe zou kunnen leiden of zou leiden dat de betrokken financiële onderneming in een formele of feitelijke zeggenschapsstructuur wordt verbonden met personen die in zodanige mate ondoorzichtig is dat deze een belemmering zou vormen voor het adequaat uitoefenen van toezicht op die financiële onderneming; of  
+b. de personen die op grond van de voorgenomen gekwalificeerde deelneming het dagelijks beleid van de financiële onderneming zullen bepalen terzake niet deskundig zijn;  
 
-c. in het geval van een handeling als bedoeld in artikel 3:95, eerste lid en aanhef, onderdeel a, d of e, de handeling zou kunnen leiden of zou leiden tot een ongewenste ontwikkeling van de financiële sector.    
+c. de financiële soliditeit van de aanvrager, rekening houdend met de bedrijfsactiviteiten van de financiële onderneming, niet is gewaarborgd;  
+
+d. de financiële onderneming als gevolg van de gekwalificeerde deelneming niet zal kunnen blijven voldoen aan de prudentiële regels die ingevolge deze wet zijn gesteld;  
+
+e. er goede redenen zijn om te vermoeden dat in verband met de voorgenomen verwerving of vergroting geld wordt of werd witgewassen of terrorisme wordt of werd gefinancierd of dat gepoogd wordt of werd geld wit te wassen of terrorisme te financieren in de zin van de Wet voorkoming van witwassen en financieren van terrorisme of dat de voorgenomen verwerving of vergroting het risico daarop zou kunnen vergroten; of  
+
+f. onvolledige of onjuiste informatie is verstrekt door de aanvrager.     
+2.  Met betrekking tot de betrouwbaarheid, bedoeld in het eerste lid, onderdeel a, zijn het tweede en derde lid van artikel 3:99 van overeenkomstige toepassing.   
 
 ### Artikel  3:101  
 
@@ -4762,22 +4858,22 @@ b. verworven dan wel nog te verwerven middellijke deelnemingen, niet zijnde deel
 
 ### Artikel  3:103  
 
-1.  Een ieder geeft de Nederlandsche Bank vooraf kennis van een wijziging van zijn gekwalificeerde deelneming in een financiële onderneming, niet zijnde een entiteit voor risico-acceptatie, als bedoeld in artikel 3:95, eerste lid: 
+1.  Een ieder geeft de Nederlandsche Bank vooraf kennis van een wijziging van zijn gekwalificeerde deelneming in een financiële onderneming, niet zijnde een entiteit voor risico-acceptatie als bedoeld in artikel 3:95, eerste lid: 
 
-a. waardoor de omvang van deze deelneming boven de 20, 33, 50 of 95 procent stijgt, 100 procent wordt dan wel waardoor de betrokken financiële onderneming een dochtermaatschappij wordt; of  
+a. waardoor de omvang van deze deelneming boven de 20, 33 of 50 procent stijgt of waardoor de financiële onderneming een dochtermaatschappij wordt; of  
 
-b. waardoor de omvang van deze deelneming onder de 10, 20, 33, 50, 95 of 100 procent daalt dan wel waardoor de betrokken financiële onderneming ophoudt een dochtermaatschappij te zijn.     
+b. waardoor de omvang van deze deelneming onder de 10, 20, 33 of 50 procent daalt of waardoor de financiële onderneming ophoudt een dochtermaatschappij te zijn.     
 2.  Een financiële onderneming, niet zijnde een entiteit voor risico-acceptatie, als bedoeld in artikel 3:95, eerste lid, geeft, voorzover haar bekend, de Nederlandsche Bank in de maand juli van elk jaar kennis van de identiteit van iedere persoon die een gekwalificeerde deelneming in deze financiële onderneming, niet zijnde een entiteit voor risico-acceptatie, houdt. Tevens geeft de financiële onderneming, niet zijnde een entiteit voor risico-acceptatie, zodra zulks haar bekend wordt, de Nederlandsche Bank kennis van iedere verwerving, afstoting of wijziging van een gekwalificeerde deelneming in deze financiële onderneming: 
 
-a. waardoor de omvang van deze deelneming boven de 20, 33, 50 of 95 procent stijgt, 100 procent wordt dan wel waardoor de betrokken financiële onderneming een dochtermaatschappij wordt; of  
+a. waardoor de omvang van deze deelneming boven de 20, 33 of 50 procent stijgt of waardoor de betrokken financiële onderneming een dochtermaatschappij wordt; of  
 
-b. waardoor de omvang van deze deelneming onder de 10, 20, 33, 50, 95 of 100 procent daalt dan wel waardoor de betrokken financiële onderneming ophoudt een dochtermaatschappij te zijn.     
+b. waardoor de omvang van deze deelneming onder de 10, 20, 33 of 50 procent daalt of waardoor de betrokken financiële onderneming ophoudt een dochtermaatschappij te zijn.     
 3.  Een entiteit voor risico-acceptatie of herverzekeraar geeft, zodra zulks haar of hem bekend wordt, de Nederlandsche Bank kennis van iedere afstoting of wijziging van een gekwalificeerde deelneming in haar of hem waardoor de omvang van deze deelneming onder de 10 procent daalt.   
 4.  Indien de omvang van een deelneming waarvoor een verklaring van geen bezwaar is afgegeven onder de 10 procent daalt, vervalt de afgegeven verklaring van geen bezwaar van rechtswege.   
 
 ### Artikel  3:104  
 
-1.  Onverminderd de artikelen 1:102, tweede lid, en 1:105, eerste lid, aanhef en onderdeel c, kan de Nederlandsche Bank aan een verklaring van geen bezwaar als bedoeld in artikel 3:95, eerste lid, of 3:96, eerste lid, beperkingen stellen dan wel voorschriften verbinden op grond van de in artikel 3:100 of 3:101 genoemde overwegingen.   
+1.  Onverminderd de artikelen 1:102, tweede lid, en 1:106a, kan de Nederlandsche Bank aan een verklaring van geen bezwaar als bedoeld in artikel 3:95, eerste lid, of 3:96, eerste lid, beperkingen stellen dan wel voorschriften verbinden met het oog op de belangen die artikel 3:100, onderscheidenlijk 3:101 beoogt te beschermen.   
 2.  Indien enige zeggenschap, verbonden aan een gekwalificeerde deelneming in een financiële onderneming als bedoeld in artikel 3:95, eerste lid, is uitgeoefend zonder dat een verklaring van geen bezwaar is verkregen of dat de bij de verklaring van geen bezwaar gestelde beperkingen in acht zijn genomen, is een mede door de uitgeoefende zeggenschap tot stand gekomen besluit vernietigbaar. Het besluit kan worden vernietigd op vordering van de Nederlandsche Bank. Het besluit wordt in dat geval door de rechtbank binnen wier rechtsgebied de financiële onderneming haar zetel heeft, vernietigd indien het besluit zonder dat de desbetreffende zeggenschap zou zijn uitgeoefend anders zou hebben geluid of niet zou zijn genomen, tenzij voor het tijdstip van de uitspraak alsnog een verklaring van geen bezwaar wordt verleend of de niet in acht genomen beperkingen worden ingetrokken. De rechtbank regelt voorzover nodig de gevolgen van de vernietiging.   
 3.  De Nederlandsche Bank kan degene die niet voldoet aan artikel 3:95, eerste lid, door middel van het geven van een aanwijzing verplichten om binnen een door de Nederlandsche Bank te stellen termijn ten aanzien van in de aanwijzingsbeschikking aan te geven punten een bepaalde gedragslijn te volgen.   
 
@@ -4785,18 +4881,14 @@ b. waardoor de omvang van deze deelneming onder de 10, 20, 33, 50, 95 of 100 pro
 
 1.  Van de verleende verklaring van geen bezwaar, bedoeld in artikel 3:95, eerste lid, wordt door de Nederlandsche Bank aan de financiële onderneming waarin de gekwalificeerde deelneming wordt gehouden, verworven of vergroot mededeling gedaan. Indien de aanvraag van een verklaring van geen bezwaar overeenkomstig artikel 3:95, tweede lid, tweede volzin, is ingediend bij de Autoriteit Financiële Markten, zendt de Nederlandsche Bank de verleende verklaring van geen bezwaar aan de Autoriteit Financiële Markten. De Autoriteit Financiële Markten deelt de verleende verklaring van geen bezwaar mede aan de betrokken financiële onderneming.   
 2.  Van de afgifte van een verklaring van geen bezwaar wordt door de Nederlandsche Bank mededeling gedaan in de Staatscourant, tenzij de publicatie zou leiden of zou kunnen leiden tot onevenredige bevoordeling of benadeling van belanghebbenden.   
-3.  Onverminderd de artikelen 1:104 en 1:105, eerste lid, aanhef en onderdeel c, kan de Nederlandsche Bank de verklaring van geen bezwaar geheel of gedeeltelijk intrekken: 
+3.  Onverminderd de artikelen 1:104, 1:105, eerste lid, aanhef en onderdeel b, en 1:106a, kan de Nederlandsche Bank de verklaring van geen bezwaar geheel of gedeeltelijk intrekken: 
 
-a. indien aan de houder een nieuwe verklaring van geen bezwaar wordt verleend die betrekking heeft of mede betrekking heeft op handelingen waarvoor de in te trekken verklaring van geen bezwaar was verleend; of  
+a. indien aan de houder een nieuwe verklaring van geen bezwaar wordt verleend die betrekking heeft of mede betrekking heeft op handelingen waarvoor de in te trekken verklaring van geen bezwaar was verleend;  
 
-b. indien de houder van een verklaring van geen bezwaar niet de gedragslijn volgt die de Nederlandsche Bank op grond van artikel 1:75 aan die houder heeft voorgeschreven.     
-4.  Onverminderd de artikelen 1:104 en 1:105, eerste lid, aanhef en onderdeel c, kan de Nederlandsche Bank aan een verklaring van geen bezwaar nadere beperkingen stellen dan wel daaraan nadere voorschriften verbinden of de verklaring van geen bezwaar intrekken indien zich met betrekking tot de handeling waarvoor de verklaring van geen bezwaar is verleend omstandigheden voordoen of feiten bekend worden welke: 
+b. indien de houder van een verklaring van geen bezwaar niet de gedragslijn volgt die de Nederlandsche Bank op grond van artikel 1:75 aan die houder heeft voorgeschreven; of  
 
-a. in het geval van een handeling zouden kunnen leiden of zouden leiden tot een invloed op de betrokken financiële onderneming waardoor een gezonde en prudente bedrijfsuitoefening van die onderneming in gevaar komt;  
-
-b. in het geval van een handeling als bedoeld in artikel 3:95, eerste lid, onderdeel a, d of e, ertoe zouden kunnen leiden of zouden leiden dat de betrokken financiële onderneming in een formele of feitelijke zeggenschapsstructuur met personen wordt verbonden die in zodanige mate ondoorzichtig is dat deze een belemmering zou vormen voor het adequaat uitoefenen van toezicht op die financiële onderneming; of  
-
-c. in geval van een handeling als bedoeld in artikel 3:95, eerste lid, onderdeel a, d of e, of een handeling als bedoeld in artikel 3:96, eerste lid, zouden kunnen leiden of zouden leiden tot een ongewenste ontwikkeling van de financiële sector.     
+c. indien de aanvrager de verwerving of vergroting niet binnen de termijn, bedoeld in artikel 1:106e, heeft voltooid.     
+4.  Onverminderd de artikelen 1:104, 1:105, eerste lid, aanhef en onderdeel b, en 1:106a, kan de Nederlandsche Bank aan een verklaring van geen bezwaar nadere beperkingen stellen dan wel daaraan nadere voorschriften verbinden of de verklaring van geen bezwaar intrekken indien zich met betrekking tot de handeling waarvoor de verklaring van geen bezwaar is verleend omstandigheden voordoen of feiten bekend worden die, indien zij zich ten tijde van de verlening van de verklaring van geen bezwaar zouden hebben voorgedaan of bekend zouden zijn geweest, aanleiding zouden hebben gegeven tot het stellen van deze beperkingen, het verbinden van deze voorschriften of het niet verlenen van de verklaring van geen bezwaar.   
 5.  De Nederlandsche Bank deelt de wijziging of de intrekking van een verklaring van geen bezwaar mede aan de betrokken financiële onderneming.   
 6.  Van de wijziging of de intrekking van een verklaring van geen bezwaar wordt door de Nederlandsche Bank mededeling gedaan in de Staatscourant, tenzij de publicatie zou leiden of zou kunnen leiden tot onevenredige bevoordeling of benadeling van belanghebbenden.   
 
@@ -4812,11 +4904,7 @@ De Nederlandsche Bank deelt Onze Minister eens per jaar de gegevens mede waarove
 
 ### Artikel  3:108  
 
-1.  Een ieder die voornemens is een gekwalificeerde deelneming in een elektronischgeldinstelling met zetel in Nederland te houden, te verwerven of zodanig te vergroten dat daardoor de omvang van deze deelneming de 20, 33, of 50 procent overschrijdt dan wel die elektronischgeldinstelling een dochtermaatschappij wordt, dan wel enige zeggenschap verbonden aan een gekwalificeerde deelneming in die elektronischgeldinstelling uit te oefenen, geeft, alvorens daartoe over te gaan, de Nederlandsche Bank van zijn voornemen schriftelijk kennis. Het is een ieder verboden om aan dit voornemen gevolg te geven zolang de mededeling, bedoeld in het vierde lid, niet is gedaan.   
-2.  Een ieder wiens gekwalificeerde deelneming in een elektronischgeldinstelling, bedoeld in het eerste lid, zodanig wijzigt dat de omvang van de deelneming onder de 10, 20, 33, of 50 procent daalt, of dat de elektronischgeldinstelling, bedoeld in het eerste lid, ophoudt een dochtermaatschappij te zijn, stelt de Nederlandsche Bank daarvan in kennis.   
-3.  De elektronischgeldinstelling geeft, voorzover haar bekend, de Nederlandsche Bank in de maand juli van elk jaar kennis van de identiteit van een ieder die een gekwalificeerde deelneming in deze elektronischgeldinstelling houdt. Tevens geeft een elektronischgeldinstelling, zodra zulks haar bekend wordt, de Nederlandsche Bank kennis van iedere verwerving, afstoting of wijziging van een gekwalificeerde deelneming in deze elektronischgeldinstelling waardoor de omvang van deze deelneming boven onderscheidenlijk onder de 10, 20, 33, of 50 procent stijgt onderscheidenlijk daalt of waardoor de elektronischgeldinstelling een dochtermaatschappij wordt onderscheidenlijk ophoudt een dochtermaatschappij te zijn.   
-4.  Indien het voornemen, bedoeld in het eerste lid, niet zou kunnen leiden of zou leiden tot een invloed op de betrokken elektronischgeldinstelling waardoor de financiële soliditeit van de elektronischgeldinstelling in gevaar komt, deelt de Nederlandsche Bank degene die de kennisgeving, bedoeld in het eerste lid, heeft gedaan mede dat geen bezwaar bestaat tegen het voornemen.   
-5.  Ingeval het uitoefenen van enige zeggenschap verbonden aan een gekwalificeerde deelneming in een elektronischgeldinstelling als bedoeld in het eerste lid geschiedt, zonder dat voor het houden, het verwerven of het vergroten van de gekwalificeerde deelneming de kennisgeving, bedoeld in het eerste lid, is gedaan, is een mede door de uitgeoefende zeggenschap tot stand gekomen besluit vernietigbaar. Het besluit kan worden vernietigd op vordering van de Nederlandsche Bank. Het besluit wordt in dat geval door de rechtbank, binnen het rechtsgebied waarvan de elektronischgeldinstelling haar zetel heeft, vernietigd, indien het besluit zonder dat de desbetreffende zeggenschap zou zijn uitgeoefend, anders zou hebben geluid dan wel niet zou zijn genomen. De rechtbank regelt voorzover nodig de gevolgen van de vernietiging.   
+De artikelen 3:95 en 3:103 zijn niet van toepassing ten aanzien van gekwalificeerde deelnemingen die beleggingsondernemingen of kredietinstellingen houden als gevolg van het verlenen van een beleggingsdienst als bedoeld in onderdeel e en f van de definitie van het verlenen van een beleggingsdienst, indien de hieruit voortvloeiende stemrechten niet worden uitgeoefend of anderszins gebruikt worden om zeggenschap uit te oefenen in de uitgevende instelling en de betreffende gekwalificeerde deelneming binnen een jaar na verwerving wordt overgedragen.  
 
 ### §  3.3.11.2  
 
@@ -4824,7 +4912,7 @@ De Nederlandsche Bank deelt Onze Minister eens per jaar de gegevens mede waarove
 
 ### Artikel  3:109  
 
-De artikelen 3:96, 3:97, eerste lid, aanhef en onderdelen c en d, tweede en derde lid, 3:99, 3:101, 3:102, eerste en derde lid, 3:104, eerste lid, 3:105, tweede, derde en vierde lid, aanhef, onderdelen a en c, en zesde lid, zijn van overeenkomstige toepassing op in Nederland gelegen bijkantoren van banken met zetel in een staat die geen lidstaat is die een vergunning als bedoeld in artikel 2:20 hebben.  
+De artikelen 3:96, 3:99, 3:101, 3:102, eerste en derde lid, 3:104, eerste lid, 3:105, tweede, derde, vierde lid en zesde lid zijn van overeenkomstige toepassing op in Nederland gelegen bijkantoren van banken met zetel in een staat die geen lidstaat is die een vergunning als bedoeld in artikel 2:20 hebben.  
 
 ### Hoofdstuk  3.4  
 
@@ -4885,7 +4973,7 @@ f. artikel 4:14, tweede lid, onderdeel c, onder 1° tot en met 6°, met betrekki
 g. artikel 4:87 met betrekking tot het treffen van adequate maatregelen ter bescherming van de rechten van cliënten; en  
 
 h. artikel 4:91a met betrekking tot de regels die gelden voor het handelsproces en de afhandeling van transacties in een multilaterale handelsfaciliteit indien de aanvrager voornemens is een multilaterale handelsfaciliteit te exploiteren.     
-6.  De artikelen 3:8, 3:9, 3:10, 3:15, 3:16, 3:17, 3:18, 3:33, 3:53, 3:57, 3:95, eerste lid, aanhef en onderdeel a, tweede lid, eerste volzin, derde lid, 3:99, 3:100, 3:102, eerste en tweede lid, 3:103 en 3:105, zijn van overeenkomstige toepassing op financiële instellingen die een verklaring van ondertoezichtstelling hebben.   
+6.  De artikelen 3:8, 3:9, 3:10, 3:15, 3:16, 3:17, 3:18, 3:33, 3:53, 3:57, 3:95, eerste lid, aanhef en onderdeel a, tweede lid, eerste volzin, 3:99, 3:100, 3:102, eerste en tweede lid, 3:103 en 3:105, zijn van overeenkomstige toepassing op financiële instellingen die een verklaring van ondertoezichtstelling hebben.   
 7.  Artikel 1:48 is van overeenkomstige toepassing.   
 
 ### Afdeling  3.4.2  
@@ -4901,7 +4989,7 @@ a. de centrale kredietinstelling en de aangesloten banken hoofdelijk instaan voo
 b. de centrale kredietinstelling in voldoende mate bevoegd is voor de naleving van deze wet noodzakelijke instructies te geven aan de aangesloten banken; en  
 
 c. het ingevolge de artikelen 3:57 en 3:63 uitgeoefende toezicht op de centrale kredietinstelling en de aangesloten banken op geconsolideerde basis wordt uitgeoefend.     
-2.  De Nederlandsche Bank kan ten aanzien van een bank die behoort tot een groep die is vrijgesteld ingevolge het eerste lid bepalen dat de artikelen 1:75, 1:104, 2:12, eerste en derde lid, 2:13, eerste en tweede lid, 3:8, 3:9, 3:15, 3:16, 3:19, 3:29, 3:53, 3:71, 3:72, 3:88, 4:14, 4:87 en 4:88 geheel of gedeeltelijk buiten toepassing blijven.   
+2.  De Nederlandsche Bank kan ten aanzien van een bank die behoort tot een groep die is vrijgesteld ingevolge het eerste lid bepalen dat de artikelen 1:75, 1:104, 2:12, eerste lid, 2:13, eerste en tweede lid, 3:8, 3:9, 3:15, 3:16, 3:19, 3:29, 3:53, 3:71, 3:72, 3:88, 4:14, 4:87 en 4:88 geheel of gedeeltelijk buiten toepassing blijven.   
 3.  De centrale kredietinstelling oefent controle uit op de aangesloten banken krachtens haar statuten en de statuten van de aangesloten banken of krachtens een overeenkomst met de bij haar aangesloten banken. Deze controle behelst: 
 
 a. het geven van instructies die naar inhoud en strekking overeenkomen met de regels die ingevolge de artikelen 3:10, 3:17, 3:18, 3:57 en 3:63 zijn gesteld aan de aangesloten banken;  
@@ -5339,7 +5427,7 @@ De artikelen 3:136, 3:137 en 3:138, eerste en vierde lid, eerste volzin, zijn va
 ### Artikel  3:149  
 
 1.  Deze paragraaf is van toepassing op levensverzekeraars met zetel in Nederland die een vergunning als bedoeld in artikel 2:27, eerste lid, hebben.   
-2.  Deze paragraaf en de artikelen 3:8, 3:9, 3:15, 3:17, 3:18, 3:70, 3:71, 3:95, 3:97, 3:99 en 1:79 tot en met 1:88, zijn van overeenkomstige toepassing op opvanginstellingen die het bedrijf van levensverzekeraar uitsluitend als herverzekeraar uitoefenen in de zin van artikel 3:152, tweede lid.   
+2.  Deze paragraaf en de artikelen 1:79 tot en met 1:88, 3:8, 3:9, 3:15, 3:17, 3:18, 3:70, 3:71, 3:95 en 3:99, zijn van overeenkomstige toepassing op opvanginstellingen die het bedrijf van levensverzekeraar uitsluitend als herverzekeraar uitoefenen in de zin van artikel 3:152, tweede lid.   
 
 ### Artikel  3:150  
 
@@ -5380,7 +5468,7 @@ De Nederlandsche Bank kan de levensverzekeraar en de opvanginstelling aanwijzing
 
 ### Artikel  3:154  
 
-1.  Overdracht van de portefeuille van de levensverzekeraar ingevolge het opvangplan vindt slechts plaats nadat de rechtbank binnen het rechtsgebied waarvan de levensverzekeraar zijn zetel heeft op verzoek van de Nederlandsche Bank daartoe een machtiging heeft verleend.   
+1.  Overdracht van de portefeuille van de levensverzekeraar ingevolge het opvangplan vindt slechts plaats nadat de rechtbank Amsterdam op verzoek van de Nederlandsche Bank daartoe een machtiging heeft verleend.   
 2.  De Nederlandsche Bank kan een verzoek tot het verlenen of tot het intrekken van een machtiging bij de rechtbank indienen zonder tussenkomst van een advocaat.   
 3.  De rechtbank verleent de machtiging, tenzij de Nederlandsche Bank in redelijkheid niet tot het oordeel heeft kunnen komen dat de portefeuille van de levensverzekeraar nog overlevingskans heeft.   
 4.  De Nederlandsche Bank zendt een afschrift van haar verzoek tot machtiging aan de levensverzekeraar.   
@@ -5414,7 +5502,7 @@ b. het ter beschikking staande bedrag ten aanzien waarvan naar het oordeel van d
 6.  De levensverzekeraars waarop deze paragraaf van toepassing is verschaffen het ingevolge het vijfde lid vastgestelde bedrag. De Nederlandsche Bank legt daartoe aan de levensverzekeraars een aanslag op.   
 7.  Het zesde lid is niet van toepassing op opvanginstellingen en op levensverzekeraars ten aanzien waarvan opvang wordt toegepast of is toegepast en die uit dien hoofde nog verplichtingen hebben.   
 8.  De Nederlandsche Bank kan een levensverzekeraar ontheffing verlenen van het zesde lid, eerste volzin, indien de bijdrage tot gevolg zal hebben dat de solvabiliteitsmarge van die levensverzekeraar niet meer zal voldoen aan artikel 3:57 en de levensverzekeraar niet in staat lijkt te zijn de solvabiliteitsmarge binnen een redelijke termijn op de vereiste omvang te brengen.   
-9.  Ingeval een levensverzekeraar niet voldoet aan zijn verplichtingen, voortvloeiend uit het zesde lid, kan de Nederlandsche Bank een dwangbevel uitvaardigen, dat executoir kan worden verklaard door de voorzieningenrechter van de rechtbank van het rechtsgebied waarvan de Nederlandsche Bank is gevestigd en dan een executoriale titel oplevert, die met de toepassing van de voorschriften van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) door de Nederlandsche Bank ten uitvoer gelegd kan worden.   
+9.  Ingeval een levensverzekeraar niet voldoet aan zijn verplichtingen, voortvloeiend uit het zesde lid, kan de Nederlandsche Bank een dwangbevel uitvaardigen, dat executoir kan worden verklaard door de voorzieningenrechter van de rechtbank Amsterdam en dan een executoriale titel oplevert, die met de toepassing van de voorschriften van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) door de Nederlandsche Bank ten uitvoer gelegd kan worden.   
 10.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot opvang op grond van deze paragraaf.   
 
 ### Artikel  3:157  
@@ -5447,12 +5535,12 @@ Paragraaf 3.5.4.1 is van overeenkomstige toepassing op levensverzekeraars met ze
 
 ### Artikel  3:160  
 
-1.  Ingeval de solvabiliteit of de liquiditeit van een kredietinstelling met zetel in Nederland die een vergunning als bedoeld in artikel 2:11, eerste lid, heeft, tekenen van een gevaarlijke ontwikkeling vertoont en redelijkerwijs in die ontwikkeling geen verbetering te voorzien is, kan de rechtbank, binnen het rechtsgebied waarvan de kredietinstelling haar zetel heeft, op verzoek van de Nederlandsche Bank ten aanzien van de kredietinstelling in het belang van de gezamenlijke schuldeisers de noodregeling uitspreken.   
-2.  Ingeval de solvabiliteit of de liquiditeit van een kredietinstelling zodanig is dat redelijkerwijs te voorzien is dat de kredietinstelling haar verplichtingen ter zake van de door haar verkregen gelden niet of slechts ten dele kan nakomen, kan de rechtbank binnen het rechtsgebied waarvan de kredietinstelling haar zetel heeft, op verzoek van de Nederlandsche Bank ten aanzien van de kredietinstelling in het belang van de gezamenlijke schuldeisers de noodregeling uitspreken.   
+1.  Ingeval de solvabiliteit of de liquiditeit van een kredietinstelling met zetel in Nederland die een vergunning als bedoeld in artikel 2:11, eerste lid, heeft, tekenen van een gevaarlijke ontwikkeling vertoont en redelijkerwijs in die ontwikkeling geen verbetering te voorzien is, kan de rechtbank Amsterdam op verzoek van de Nederlandsche Bank ten aanzien van de kredietinstelling in het belang van de gezamenlijke schuldeisers de noodregeling uitspreken.   
+2.  Ingeval de solvabiliteit of de liquiditeit van een kredietinstelling zodanig is dat redelijkerwijs te voorzien is dat de kredietinstelling haar verplichtingen ter zake van de door haar verkregen gelden niet of slechts ten dele kan nakomen, kan de rechtbank Amsterdam op verzoek van de Nederlandsche Bank ten aanzien van de kredietinstelling in het belang van de gezamenlijke schuldeisers de noodregeling uitspreken.   
 
 ### Artikel  3:161  
 
-1.  Indien het belang van de gezamenlijke schuldeisers bij de afwikkeling van het bedrijf van entiteit voor risico-acceptatie of verzekeraar met zetel in Nederland een bijzondere voorziening behoeft, kan de rechtbank binnen het rechtsgebied waarvan de verzekeraar zijn zetel heeft, op verzoek van de Nederlandsche Bank de noodregeling uitspreken.   
+1.  Indien het belang van de gezamenlijke schuldeisers bij de afwikkeling van het bedrijf van entiteit voor risico-acceptatie of verzekeraar met zetel in Nederland een bijzondere voorziening behoeft, kan de rechtbank Amsterdam op verzoek van de Nederlandsche Bank de noodregeling uitspreken.   
 2.  Voor de toepassing van deze paragraaf wordt onder «verzekeraar» mede verstaan «entiteit voor risico-acceptatie» en onder «verzekering» mede «risico-acceptatie».   
 
 ### Artikel  3:162  
@@ -5460,7 +5548,7 @@ Paragraaf 3.5.4.1 is van overeenkomstige toepassing op levensverzekeraars met ze
 1.  De Nederlandsche Bank zendt een afschrift van het verzoekschrift aan de kredietinstelling of verzekeraar met zetel in Nederland en geeft kennis van de inhoud van het verzoekschrift aan de toezichthoudende instanties van de andere lidstaten waar het bijkantoor van de kredietinstelling of verzekeraar is gelegen of waarnaar zij of hij diensten verricht vanuit haar of zijn vestigingen in een andere lidstaat.   
 2.  De rechtbank behandelt het verzoek van de Nederlandsche Bank tot het uitspreken van de noodregeling met de meeste spoed op een niet openbare terechtzitting op de voet van de rechtspleging in burgerlijke zaken, voorzover daarvan bij deze wet niet is afgeweken.   
 3.  De rechtbank geeft geen beschikking als bedoeld in artikel 3:160, eerste lid, of 3:161 dan nadat de financiële onderneming, bedoeld in het eerste lid, en de Nederlandsche Bank zijn gehoord, althans daartoe behoorlijk zijn opgeroepen.   
-4.  Bij het uitspreken van de noodregeling benoemt de rechtbank een van haar leden of een van de leden van een andere rechtbank tot rechter-commissaris en benoemt zij een of meer bewindvoerders. De Nederlandsche Bank kan voor de benoeming van de bewindvoerder of bewindvoerders voordrachten doen.   
+4.  Bij het uitspreken van de noodregeling benoemt de rechtbank een van haar leden tot rechter-commissaris en benoemt zij een of meer bewindvoerders. De Nederlandsche Bank kan voor de benoeming van de bewindvoerder of bewindvoerders voordrachten doen.   
 5.  Indien het verzoek wordt toegewezen, wordt de beschikking op een openbare terechtzitting uitgesproken en wordt een uittreksel ervan onverwijld door de bewindvoerders bekendgemaakt in de Staatscourant, het Publicatieblad van de Europese Unie, alsmede in ten minste twee door de rechtbank aan te wijzen Nederlandse dagbladen en ten minste twee door de rechtbank aan te wijzen landelijke dagbladen van iedere lidstaat waar een bijkantoor van de desbetreffende onderneming is gelegen of waarnaar zij diensten verricht. De uittreksels vermelden naam en zetel van de financiële onderneming, bedoeld in het eerste lid, de woonplaats of het kantoor van de bewindvoerders alsmede de datum van de beschikking. De publicatie in de landelijke dagbladen geschiedt in de officiële taal of talen van de betrokken lidstaat. In de bekendmaking in het Publicatieblad van de Europese Unie en de landelijke dagbladen van iedere lidstaat waar de desbetreffende onderneming een bijkantoor heeft of waarnaar zij diensten verricht wordt daarenboven vermeld dat op de noodregeling, behoudens uitzonderingen, Nederlands recht van toepassing is, de rechtsgrondslag, dat de Nederlandsche Bank de bevoegde toezichthouder is, alsmede de uiterste datum waarop tegen de beslissing hoger beroep kan worden ingesteld met vermelding van het volledige adres van het Gerechtshof, het onderwerp van de beslissing en de rechtsgrondslag.   
 
 ### Artikel  3:163  
@@ -5535,12 +5623,12 @@ b. deelt de Nederlandsche Bank de toezichthoudende instanties van de andere lids
 1.  Een beschikking als bedoeld in artikel 3:160, eerste of tweede lid, 3:161, 3:163, eerste lid, of 3:164, eerste lid, is uitvoerbaar bij voorraad. Een beschikking als bedoeld in artikel 3:160, eerste of tweede lid, of 3:161 werkt terug tot aan het begin van de dag waarop zij is uitgesproken. De in dit lid bedoelde uitvoerbaarheid en terugwerkende kracht gelden niettegenstaande enige daartegen gerichte voorziening.   
 2.  In afwijking van het eerste lid werkt een beschikking als bedoeld in het eerste lid niet terug ten aanzien van een door een kredietinstelling of verzekeraar met zetel in Nederland: 
 
-a. gegeven overboekingsopdracht, opdracht tot verrekening of enige uit een dergelijke opdracht voortvloeiende betaling, levering, verrekening of andere rechtshandeling die benodigd is om de opdracht volledig uit te voeren in een systeem als bedoeld in [artikel 212a, onderdeel b, van de Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md); of  
+a. gegeven overboekingsopdracht, opdracht tot verrekening of enige uit een dergelijke opdracht voortvloeiende betaling, levering, verrekening of andere rechtshandeling die benodigd is om de opdracht volledig uit te voeren in een systeem als bedoeld in [artikel 212a, onderdeel b, van de Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md) of rechten en verplichtingen die voor een kredietinstelling of verzekeraar in verband met haar of zijn deelname aan een systeem als bedoeld in dat artikel zijn ontstaan; of  
 
 b. gesloten financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) of een overdracht of vestiging van een pandrecht op grond daarvan, of enige uit een dergelijke overeenkomst voortvloeiende betaling, levering of andere rechtshandeling die benodigd is om die overeenkomst volledig uit te voeren,   ingeval deze overboekingsoverdracht of financiëlezekerheidsovereenkomst is gegeven onderscheidenlijk gesloten voor het tijdstip waarop de rechtbank de beschikking heeft gegeven.   
 3.  Het eerste lid en artikel 3:175, eerste lid, kunnen niet aan derden worden tegengeworpen ten aanzien van een door een financiële onderneming als bedoeld in het tweede lid: 
 
-a. gegeven overboekingsopdracht, opdracht tot verrekening of enige uit een dergelijke opdracht voortvloeiende betaling, levering, verrekening of andere rechtshandeling die benodigd is om de opdracht volledig uit te voeren, ingeval de overboekingsopdracht is gegeven na het tijdstip waarop de rechtbank een beschikking als bedoeld in het eerste lid heeft gegeven, indien de opdracht in een systeem als bedoeld in [artikel 212a, onderdeel b, van de Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md), wordt uitgevoerd op de dag waarop de rechtbank de beschikking heeft gegeven en de centrale tegenpartij, de afwikkelende instantie of het verrekeningsinstituut, bedoeld in [artikel 212a van de Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md), kan aantonen dat deze ten tijde van de uitvoering van de opdracht niet op de hoogte was of op de hoogte behoorde te zijn van de door de rechtbank gegeven beschikking; of  
+a. gegeven overboekingsopdracht, opdracht tot verrekening of enige uit een dergelijke opdracht voortvloeiende betaling, levering, verrekening of andere rechtshandeling die benodigd is om de opdracht volledig uit te voeren, ingeval de overboekingsopdracht is gegeven na het tijdstip waarop de rechtbank een beschikking als bedoeld in het eerste lid heeft gegeven, indien de opdracht in een systeem als bedoeld in [artikel 212a, onderdeel b, van de Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md), wordt uitgevoerd op binnen een werkdag als omschreven in de regels van het systeem, gedurende welke de rechtbank de beschikking heeft gegeven en de systeemexploitant bedoeld in [artikel 212a van de Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md), kan aantonen dat deze op het tijdstip waarop deze opdrachten onherroepelijk worden niet op de hoogte was of op de hoogte behoorde te zijn van de door de rechtbank gegeven beschikking; of  
 
 b. gesloten financiëlezekerheidsovereenkomst als bedoeld in [artikel 51 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), of enige uit een dergelijke overeenkomst voortvloeiende betaling, levering, verrekening of andere rechtshandeling die benodigd is om die overeenkomst volledig uit te voeren, ingeval de financiëlezekerheidsovereenkomst is gesloten na het tijdstip waarop de rechtbank een beschikking als bedoeld in het eerste lid heeft gegeven, indien de zekerheidsnemer kan aantonen dat deze ten tijde van het sluiten van die overeenkomst niet op de hoogte was of op de hoogte behoorde te zijn van de door de rechtbank gegeven beschikking.     
 4.  Het tweede en het derde lid zijn van overeenkomstige toepassing op goederenrechtelijke zekerheidsrechten die door financiële ondernemingen als bedoeld in het tweede lid in verband met deelname aan een systeem als bedoeld in [artikel 212a, onderdeel b, van de Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md), zijn gevestigd ten behoeve van een centrale bank als bedoeld in [artikel 212a, onderdeel h, van de Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md) of ten behoeve van een financiële onderneming die deelneemt aan het systeem.   
@@ -5770,11 +5858,11 @@ d. de vorderingen en rechten betreffende prestaties, die zijn ontstaan of nog zu
 
 ### Artikel  3:202  
 
-Ingeval de solvabiliteit of de liquiditeit van een in Nederland gelegen bijkantoor van een kredietinstelling met zetel in een andere lidstaat die geen vergunning heeft, zodanig is dat te voorzien is dat de kredietinstelling dan wel het bijkantoor haar of zijn verplichtingen ter zake van de door haar of hem verkregen gelden niet of slechts ten dele kan nakomen, kan de rechtbank binnen het rechtsgebied waarvan de kredietinstelling dan wel het bijkantoor is gelegen, op verzoek van de Nederlandsche Bank ten aanzien van de kredietinstelling in het belang van de gezamenlijke schuldeisers de noodregeling uitspreken.  
+Ingeval de solvabiliteit of de liquiditeit van een in Nederland gelegen bijkantoor van een kredietinstelling met zetel in een andere lidstaat die geen vergunning heeft, zodanig is dat te voorzien is dat de kredietinstelling dan wel het bijkantoor haar of zijn verplichtingen ter zake van de door haar of hem verkregen gelden niet of slechts ten dele kan nakomen, kan de rechtbank Amsterdam op verzoek van de Nederlandsche Bank ten aanzien van de kredietinstelling in het belang van de gezamenlijke schuldeisers de noodregeling uitspreken.  
 
 ### Artikel  3:203  
 
-Indien het belang van de schuldeisers met een vordering uit hoofde van verzekering bij de afwikkeling van het bedrijf van een in Nederland gelegen bijkantoor van een levensverzekeraar of schadeverzekeraar met zetel in een andere lidstaat die geen vergunning heeft, een bijzondere voorziening behoeft, kan de rechtbank binnen het rechtsgebied waarvan die verzekeraar zijn zetel heeft, op verzoek van de Nederlandsche Bank de noodregeling uitspreken.  
+Indien het belang van de schuldeisers met een vordering uit hoofde van verzekering bij de afwikkeling van het bedrijf van een in Nederland gelegen bijkantoor van een levensverzekeraar of schadeverzekeraar met zetel in een andere lidstaat die geen vergunning heeft, een bijzondere voorziening behoeft, kan de rechtbank Amsterdam op verzoek van de Nederlandsche Bank de noodregeling uitspreken.  
 
 ### Artikel  3:204  
 
@@ -5791,12 +5879,12 @@ De artikelen 3:162 tot en met 3:201 zijn van overeenkomstige toepassing op kredi
 
 ### Artikel  3:206  
 
-1.  Ingeval de solvabiliteit of de liquiditeit van een kredietinstelling met een in Nederland gelegen bijkantoor en met zetel in een staat die geen lidstaat is die een vergunning als bedoeld in artikel 2:20, eerste lid, heeft dan wel de solvabiliteit of de liquiditeit van een in Nederland gelegen bijkantoor van een kredietinstelling met zetel in een staat die geen lidstaat is en die een vergunning als bedoeld in artikel 2:20, eerste lid, heeft, tekenen van een gevaarlijke ontwikkeling vertoont en redelijkerwijs in die ontwikkeling geen verbetering te voorzien is, kan de rechtbank, binnen het rechtsgebied waarvan het bijkantoor is gelegen, op verzoek van de Nederlandsche Bank ten aanzien van de kredietinstelling in het belang van de gezamenlijke schuldeisers de noodregeling uitspreken.   
-2.  Ingeval de solvabiliteit of de liquiditeit van een kredietinstelling met een in Nederland gelegen bijkantoor en met zetel in een staat die geen lidstaat is dan wel van een in Nederland gelegen bijkantoor van een kredietinstelling met zetel in een staat die geen lidstaat is zodanig is dat te voorzien is dat de kredietinstelling dan wel het bijkantoor haar onderscheidenlijk zijn verplichtingen ter zake van de door haar onderscheidenlijk hem verkregen gelden niet of slechts ten dele kan nakomen, kan de rechtbank binnen het rechtsgebied waarvan het bijkantoor is gelegen, op verzoek van de Nederlandsche Bank ten aanzien van de kredietinstelling in het belang van de gezamenlijke schuldeisers de noodregeling uitspreken.   
+1.  Ingeval de solvabiliteit of de liquiditeit van een kredietinstelling met een in Nederland gelegen bijkantoor en met zetel in een staat die geen lidstaat is die een vergunning als bedoeld in artikel 2:20, eerste lid, heeft dan wel de solvabiliteit of de liquiditeit van een in Nederland gelegen bijkantoor van een kredietinstelling met zetel in een staat die geen lidstaat is en die een vergunning als bedoeld in artikel 2:20, eerste lid, heeft, tekenen van een gevaarlijke ontwikkeling vertoont en redelijkerwijs in die ontwikkeling geen verbetering te voorzien is, kan de rechtbank Amsterdam op verzoek van de Nederlandsche Bank ten aanzien van de kredietinstelling in het belang van de gezamenlijke schuldeisers de noodregeling uitspreken.   
+2.  Ingeval de solvabiliteit of de liquiditeit van een kredietinstelling met een in Nederland gelegen bijkantoor en met zetel in een staat die geen lidstaat is dan wel van een in Nederland gelegen bijkantoor van een kredietinstelling met zetel in een staat die geen lidstaat is zodanig is dat te voorzien is dat de kredietinstelling dan wel het bijkantoor haar onderscheidenlijk zijn verplichtingen ter zake van de door haar onderscheidenlijk hem verkregen gelden niet of slechts ten dele kan nakomen, kan de rechtbank Amsterdam op verzoek van de Nederlandsche Bank ten aanzien van de kredietinstelling in het belang van de gezamenlijke schuldeisers de noodregeling uitspreken.   
 
 ### Artikel  3:207  
 
-Indien het belang van de gezamenlijke schuldeisers bij de afwikkeling van het bedrijf van levensverzekeraar of schadeverzekeraar op wie artikel 2:40 van toepassing is of van de gezamenlijke schuldeisers wier vordering het resultaat is van een uit de exploitatie van het in Nederland gelegen bijkantoor van een dergelijke verzekeraar voortvloeiende verplichting een bijzondere voorziening behoeft, kan de rechtbank binnen het rechtsgebied waarvan de levensverzekeraar of schadeverzekeraar zijn zetel heeft, op verzoek van de Nederlandsche Bank de noodregeling uitspreken.  
+Indien het belang van de gezamenlijke schuldeisers bij de afwikkeling van het bedrijf van levensverzekeraar of schadeverzekeraar op wie artikel 2:40 van toepassing is of van de gezamenlijke schuldeisers wier vordering het resultaat is van een uit de exploitatie van het in Nederland gelegen bijkantoor van een dergelijke verzekeraar voortvloeiende verplichting een bijzondere voorziening behoeft, kan de rechtbank Amsterdam op verzoek van de Nederlandsche Bank de noodregeling uitspreken.  
 
 ### Artikel  3:208  
 
@@ -5892,7 +5980,7 @@ b. tot verkorting van de duur van die verzekering.
 
 ### Artikel  3:222  
 
-1.  Indien het belang van de gezamenlijke schuldeisers bij de afwikkeling van het bedrijf van herverzekeraar of natura-uitvaartverzekeraar of van de gezamenlijke schuldeisers wier vordering het resultaat is van een uit de exploitatie van het in Nederland gelegen bijkantoor van een dergelijke verzekeraar voortvloeiende verplichting een bijzondere voorziening behoeft, kan de rechtbank binnen het rechtsgebied waarvan het bijkantoor van de betrokken verzekeraar is gelegen, op verzoek van de Nederlandsche Bank de noodregeling uitspreken.   
+1.  Indien het belang van de gezamenlijke schuldeisers bij de afwikkeling van het bedrijf van herverzekeraar of natura-uitvaartverzekeraar of van de gezamenlijke schuldeisers wier vordering het resultaat is van een uit de exploitatie van het in Nederland gelegen bijkantoor van een dergelijke verzekeraar voortvloeiende verplichting een bijzondere voorziening behoeft, kan de rechtbank Amsterdam op verzoek van de Nederlandsche Bank de noodregeling uitspreken.   
 2.  Indien het verzoek wordt toegewezen, wordt de beschikking op een openbare terechtzitting uitgesproken en wordt een uittreksel ervan onverwijld door de bewindvoerders bekendgemaakt door plaatsing in de Staatscourant, alsmede in ten minste twee door de rechtbank aan te wijzen Nederlandse dagbladen. Het uittreksel vermeldt naam en zetel van de verzekeraar en het bijkantoor en de zetel en de woonplaats of het kantoor van de bewindvoerders alsmede de datum van de beschikking.   
 3.  Voor de toepassing van deze paragraaf wordt onder «herverzekeraar» mede verstaan «entiteit voor risico-acceptatie».   
 
@@ -6132,7 +6220,7 @@ b. zo spoedig mogelijk nadat een rechterlijke instantie in een lidstaat, om rede
 ### Artikel  3:261  
 
 1.  Bij de toepassing van een vangnetregeling stelt de Nederlandsche Bank met inachtneming van het ingevolge artikel 3:259, derde lid, onderdeel b, bepaalde de omvang vast van de vorderingen die voor vergoeding in aanmerking komen en de hoogte van de voor vergoeding in aanmerking komende vorderingen van beleggers of depositohouders, alsmede de hoogte van de vergoeding van de vorderingen.   
-2.  De Nederlandsche Bank draagt zorg voor betaling van de vergoeding van de ingevolge deze paragraaf daarvoor in aanmerking komende vorderingen aan beleggers of depositohouders. Betaling geschiedt niet later dan drie maanden na het tijdstip waarop een belegger of depositohouder zijn vorderingen op de betalingsonmachtige financiële onderneming bij de Nederlandsche Bank heeft ingediend. De Nederlandsche Bank kan in bijzondere gevallen de termijn verlengen, ten hoogste driemaal en telkens voor ten hoogste drie maanden.   
+2.  De Nederlandsche Bank draagt zorg voor betaling van de ingevolge deze paragraaf voor vergoeding in aanmerking komende vorderingen van beleggers of depositohouders binnen een bij algemene maatregel van bestuur te bepalen termijn.   
 3.  De Nederlandsche Bank treedt in de rechten die een belegger of depositohouder terzake van een vordering op de betalingsonmachtige financiële onderneming heeft voor zover zij een vergoeding als bedoeld in het eerste lid aan die belegger of depositohouder heeft betaald.   
 
 ### Artikel  3:261a  
@@ -6149,6 +6237,7 @@ De Nederlandsche Bank stelt met inachtneming van het ingevolge artikel 3:259, vi
 1.  Een financiële onderneming als bedoeld in artikel 3:258, eerste lid, stelt op verzoek informatie ter beschikking over de toepasselijke vangnetregeling. Voorzover op een in een andere lidstaat gelegen bijkantoor een met een vangnetregeling vergelijkbare regeling toepasselijk is, stelt de financiële onderneming op verzoek eveneens informatie ter beschikking over die regeling.   
 2.  De informatie moet zodanig zijn dat al dan niet potentiële beleggers en depositohouders in staat worden gesteld om na te gaan of een vordering valt onder de dekking van de vangnetregeling dan wel onder een vergelijkbare buitenlandse regeling.   
 3.  De informatie over de vangnetregeling wordt in de Nederlandse taal ter beschikking gesteld of voorzover het een vergelijkbare regeling betreft die op een bijkantoor toepasselijk is, in de officiële taal of een van de officiële talen van de lidstaat waar het desbetreffende bijkantoor is gelegen.   
+4.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het tweede lid.   
 
 ### Artikel  3:264  
 
@@ -6629,7 +6718,7 @@ a. bij de berekening van de in het eerste lid, onderdeel c, bedoelde verhoudings
 
 b. in bijzondere gevallen het op het balanstotaal gebaseerde criterium te vervangen door, of aan te vullen met, een criterium op basis van inkomensstructuur of activiteiten buiten de balans, indien de Nederlandsche Bank van oordeel is dat deze criteria van bijzondere relevantie zijn met het oog op het toezicht, bedoeld in deze afdeling.     
 4.  In afwijking van het eerste lid, onderdelen a, onder 2°, en c, worden, indien bij een reeds aan toezicht onderworpen financieel conglomeraat de in die onderdelen bedoelde verhoudingsgetallen kleiner worden dan veertig procent respectievelijk tien procent, gedurende de volgende drie jaar de in die onderdelen genoemde percentages gesteld op 35 procent respectievelijk acht procent. In afwijking van het tweede lid, wordt, indien bij een reeds aan toezicht onderworpen financieel conglomeraat het balanstotaal van de kleinste deelsector kleiner wordt dan € 6.000.000.000, de eis, bedoeld in het tweede lid, voor de kleinste deelsector op ten minste € 5.000.000.000 gesteld gedurende de volgende drie jaar.   
-5.  De Nederlandsche Bank kan, indien zij coördinator is, na overleg met de relevante toezichthoudende instanties besluiten de perioden van drie jaren, bedoeld in het vierde lid, te bekorten.   
+5.  De Nederlandsche Bank kan, indien zij ingevolge artikel 3:293, eerste lid, is aangewezen als coördinator, na overleg met de relevante toezichthoudende instanties besluiten de perioden van drie jaren, bedoeld in het vierde lid, te bekorten.   
 6.  De berekeningen betreffende de balans worden gemaakt op basis van het geaggregeerde balanstotaal van de tot de groep behorende groepsleden, volgens hun jaarrekeningen. Voor die berekening worden ondernemingen waarin een groepslid een deelneming heeft, meegerekend voor het bedrag van hun balanstotaal dat overeenkomt met het geaggregeerde proportionele aandeel van de groep. Indien geconsolideerde rekeningen beschikbaar zijn, worden de berekeningen gemaakt op basis van die geconsolideerde rekeningen. De solvabiliteitsvereisten worden berekend op grond van de in deze wet gestelde regels.   
 7.  De Nederlandsche Bank maakt een besluit als bedoeld in het tweede, derde of vijfde lid, bekend aan de andere betrokken toezichthoudende instanties van andere lidstaten.   
 
@@ -6640,13 +6729,14 @@ Indien de Nederlandsche Bank ingevolge artikel 3:293, eerste lid, is aangewezen 
 ### Artikel  3:292  
 
 1.  Deze afdeling is van toepassing op Nederlandse kredietinstellingen, Nederlandse levensverzekeraars of schadeverzekeraars, Nederlandse beleggingsondernemingen, en beheerders van instellingen voor collectieve belegging in effecten die een vergunning als bedoeld in artikel 2:65, eerste lid, onderdeel a, of tweede lid, hebben en die deel uitmaken van een financieel conglomeraat.   
-2.  Indien de Nederlandsche Bank is aangewezen als coördinator, heeft het toezicht overeenkomstig de artikelen 3:293 tot en met 3:299 betrekking op elke gereglementeerde entiteit van het financiële conglomeraat. Voor de toepassing van de vorige volzin wordt onder gereglementeerde entiteit tevens verstaan een beheerder van een instelling voor collectieve belegging in effecten die een vergunning als bedoeld in artikel 2:65, eerste lid, onderdeel a, of tweede lid, heeft of een beheerder met zetel in het buitenland die, indien hij in Nederland zijn zetel zou hebben, een beheerder van een instelling voor collectieve belegging in effecten zou zijn waaraan een vergunning ingevolge artikel 2:65, tweede lid, zou kunnen worden verleend.   
+2.  Indien de Nederlandsche Bank ingevolge artikel 3:293, eerste lid, is aangewezen als coördinator, heeft het toezicht overeenkomstig de artikelen 3:293 tot en met 3:299 betrekking op elke gereglementeerde entiteit van het financiële conglomeraat. Voor de toepassing van de vorige volzin wordt onder gereglementeerde entiteit tevens verstaan een beheerder van een instelling voor collectieve belegging in effecten die een vergunning als bedoeld in artikel 2:65, eerste lid, onderdeel a, of tweede lid, heeft of een beheerder met zetel in het buitenland die, indien hij in Nederland zijn zetel zou hebben, een beheerder van een instelling voor collectieve belegging in effecten zou zijn waaraan een vergunning ingevolge artikel 2:65, tweede lid, zou kunnen worden verleend.   
 3.  In afwijking van het eerste en tweede lid oefent de Nederlandsche Bank geen toezicht overeenkomstig de artikelen 3:293 tot en met 3:299 uit op gereglementeerde entiteiten van een financieel conglomeraat waarvan de moederonderneming een gereglementeerde entiteit of een gemengde financiële holding is met zetel in een staat die geen lidstaat is indien zij heeft vastgesteld dat het toezicht door de toezichthoudende instantie van die staat op de gereglementeerde entiteiten van het financiële conglomeraat gelijkwaardig is aan het toezicht op gereglementeerde entiteiten, bedoeld in het tweede lid. De Nederlandsche Bank oefent eveneens geen toezicht uit op een gereglementeerde entiteit met zetel in Nederland die deel uitmaakt van een financieel conglomeraat als bedoeld in de eerste volzin, indien zij niet de coördinator is en de coördinator een vaststelling heeft gedaan die overeenkomt met een vaststelling als bedoeld in de eerste volzin.   
 4.  De Nederlandsche Bank kan, in geval van een financieel conglomeraat als bedoeld in het derde lid en indien er geen sprake is van gelijkwaardig toezicht als bedoeld in dat lid, toezicht op de gereglementeerde entiteiten met zetel in Nederland van dat financieel conglomeraat op een andere wijze uitoefenen dan bedoeld in het tweede lid, indien die wijze passend is, waarborgt dat de doeleinden van het toezicht worden bereikt en, indien de Nederlandsche Bank niet zelf de coördinator is, daarvoor toestemming is verleend door de coördinator.   
 5.  Bij de vaststelling, bedoeld in het derde lid, raadpleegt de Nederlandsche Bank de relevante toezichthoudende instanties en neemt zij de algemene richtsnoeren in acht die overeenkomstig artikel 21, vijfde lid, van de richtlijn financiële conglomeraten hiervoor zijn opgesteld door het Comité voor Financiële Conglomeraten, bedoeld in artikel 21, eerste lid, van die richtlijn. De Nederlandsche Bank raadpleegt het Comité voordat zij de uitkomst van haar onderzoek vaststelt.   
 6.  Indien de Nederlandsche Bank is aangewezen als coördinator, verleent zij toestemming die overeenkomt met de toestemming, bedoeld in het vierde lid, na overleg met de relevante toezichthoudende instanties. Zij doet van die verlening van toestemming mededeling aan de overige betrokken toezichthoudende instanties van andere lidstaten en aan de Commissie van de Europese Gemeenschappen.   
 7.  Indien een gereglementeerde entiteit als bedoeld in het eerste lid deel uitmaakt van een groep die voldoet aan de eisen, bedoeld in artikel 3:290, eerste lid, onderdelen b en c, tweede en zesde lid, en met een persoon via een formele of feitelijke zeggenschapsstructuur is verbonden, stelt de Nederlandsche Bank, in samenwerking met de relevante toezichthoudende instanties, vast in hoeverre toezicht als bedoeld in deze afdeling wordt uitgeoefend op de gereglementeerde entiteit.   
 8.  Indien van een financieel conglomeraat een ander financieel conglomeraat deel uitmaakt, is het toezicht, bedoeld in deze afdeling, slechts van toepassing op het gehele financiële conglomeraat.   
+9.  In afwijking van het achtste lid kan de Nederlandsche Bank op verzoek van een financieel conglomeraat dat deel uitmaakt van een ander financieel conglomeraat besluiten dat het toezicht, bedoeld in deze afdeling, van toepassing is op het eerstgenoemde financiële conglomeraat.   
 
 ### §  3.6.4.2  
 
@@ -6787,6 +6877,10 @@ Met uitzondering van de afdelingen 4.2.4 en 4.2.5, paragraaf 4.3.8.1 en de arti
 
 ####Bijzondere bepalingen
 
+### Artikel  4:2d  
+
+Met uitzondering van de artikelen 4:19, 4:22, 4:32, 4:33, 4:34 en 4:35 is dit deel niet van toepassing op financiële diensten met betrekking tot een geoorloofde debetstand waarbij de consument is gehouden binnen drie maanden af te lossen.  
+
 ### Artikel  4:3  
 
 1.  Het is een ieder verboden in Nederland of vanuit Nederland in een andere lidstaat als dienst van de informatiemaatschappij als bedoeld in [artikel 15d, derde lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) in de uitoefening van een beroep of bedrijf als tussenpersoon werkzaamheden te verrichten ten behoeve van het buiten besloten kring aantrekken of ter beschikking verkrijgen van opvorderbare gelden van anderen dan professionele marktpartijen.   
@@ -6798,13 +6892,11 @@ b. banken met zetel in een andere lidstaat die een door de toezichthoudende inst
 
 c. de lidstaten, alsmede de regionale of lokale overheden van de lidstaten;  
 
-d. internationaal publiekrechtelijke instellingen waarin of waaraan een of meer lidstaten deelnemen;  
+d. beleggingsondernemingen die een door de Autoriteit Financiële Markten verleende vergunning als bedoeld in artikel 2:96 hebben;  
 
-e. beleggingsondernemingen die een door de Autoriteit Financiële Markten verleende vergunning als bedoeld in artikel 2:96 hebben;  
+e. beleggingsondernemingen met zetel in een andere lidstaat die beleggingsdiensten verlenen of beleggingsactiviteiten verrichten door middel van het verrichten van diensten naar Nederland, die hebben voldaan aan artikel 2:102; en  
 
-f. beleggingsondernemingen met zetel in een andere lidstaat die beleggingsdiensten verlenen of beleggingsactiviteiten verrichten door middel van het verrichten van diensten naar Nederland, die hebben voldaan aan artikel 2:102; en  
-
-g. bemiddelaars die voor het bemiddelen in een betaalrekening of spaarrekening een door de Autoriteit Financiële Markten verleende vergunning als bedoeld in artikel 2:80, eerste lid, hebben.     
+f. bemiddelaars die voor het bemiddelen in een betaalrekening of spaarrekening een door de Autoriteit Financiële Markten verleende vergunning als bedoeld in artikel 2:80, eerste lid, hebben.     
 3.  Bij ministeriële regeling kan vrijstelling worden geregeld van het eerste lid.   
 4.  De Autoriteit Financiële Markten kan op aanvraag, al dan niet voor bepaalde tijd, ontheffing verlenen van het eerste lid, indien de aanvrager aantoont dat de belangen die dit deel beoogt te beschermen anderszins voldoende worden beschermd. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld waaraan de houder van een ontheffing dient te voldoen en met betrekking tot het verlenen van een ontheffing.   
 
@@ -6882,14 +6974,14 @@ d. financiëledienstverleners met zetel in een andere lidstaat of een aangewezen
 
 e. herverzekeringsbemiddelaars met zetel in een andere lidstaat.     
 2.  Deze afdeling is niet van toepassing op beleggingsondernemingen die voor de uitoefening van het bedrijf van bank een door de Nederlandsche Bank verleende vergunning hebben of voor de uitoefening van het bedrijf van financiële instelling een door de Nederlandsche Bank verleende verklaring van ondertoezichtstelling hebben.   
-3.  Deze afdeling, met uitzondering van artikel 4:9, tweede lid, is niet van toepassing op financiëledienstverleners die voor de uitoefening van het bedrijf van kredietinstelling of verzekeraar een door de Nederlandsche Bank verleende vergunning hebben of voor de uitoefening van het bedrijf van financiële instelling een door de Nederlandsche Bank verleende verklaring van ondertoezichtstelling hebben.   
+3.  Deze afdeling, met uitzondering van artikel 4:9, tweede tot en met vierde lid, is niet van toepassing op financiëledienstverleners die voor de uitoefening van het bedrijf van kredietinstelling of verzekeraar een door de Nederlandsche Bank verleende vergunning hebben of voor de uitoefening van het bedrijf van financiële instelling een door de Nederlandsche Bank verleende verklaring van ondertoezichtstelling hebben.   
 4.  Deze afdeling is niet van toepassing op premiepensioeninstellingen.   
 
 ### Artikel  4:9  
 
 1.  Het dagelijks beleid van een beheerder, beleggingsmaatschappij, beleggingsonderneming, bewaarder, financiëledienstverlener of pensioenbewaarder wordt bepaald door personen die deskundig zijn in verband met de uitoefening van het bedrijf van de financiële onderneming.   
 2.  Een financiëledienstverlener draagt zorg voor de vakbekwaamheid van zijn werknemers en van andere natuurlijke personen die zich onder zijn verantwoordelijkheid rechtstreeks bezighouden met het verlenen van financiële diensten aan consumenten of, indien het financiële diensten met betrekking tot verzekeringen of herverzekeringsbemiddelen betreft, cliënten. Hiertoe beschikt in ieder geval een zodanig aantal feitelijk leidinggevenden van de financiële onderneming over voldoende vakbekwaamheid dat de kwaliteit van de financiële diensten aan de consument onderscheidenlijk de cliënt kan worden gewaarborgd.   
-3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de vakbekwaamheid van de personen, bedoeld in het tweede lid. Bij algemene maatregel van bestuur kan worden bepaald dat Onze Minister volgens daarbij te stellen regels exameninstituten erkent die bevoegd zijn tot het afgeven van diploma’s waarmee de vakbekwaamheid wordt aangetoond. Daarbij kunnen tevens regels worden gesteld met betrekking tot het toezicht op de naleving van die regels.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de vakbekwaamheid van de personen, bedoeld in het tweede lid. Bij algemene maatregel van bestuur kan worden bepaald dat Onze Minister volgens daarbij te stellen regels exameninstituten erkent die bevoegd zijn tot het afgeven van diploma’s en certificaten waarmee de vakbekwaamheid wordt aangetoond en instituten voor permanente educatie erkent die bevoegd zijn tot het afgeven van certificaten waarmee de vakbekwaamheid wordt aangetoond. Daarbij kunnen tevens regels worden gesteld met betrekking tot het toezicht op de naleving van die regels.   
 4.  De Autoriteit Financiële Markten kan op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van het tweede lid en het op grond van het derde lid bepaalde, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die dit artikel beoogt te bereiken anderszins worden bereikt.   
 5.  Indien het dagelijks beleid van een multilaterale handelsfaciliteit die wordt geëxploiteerd door een marktexploitant waaraan een vergunning als bedoeld in artikel 5:26, eerste lid, is verleend, wordt bepaald door dezelfde personen als degenen die het dagelijks beleid van de door de marktexploitant geëxploiteerde gereglementeerde markt bepalen, worden die personen geacht te voldoen aan het eerste lid.   
 
@@ -6999,7 +7091,7 @@ b. ordelijke en transparante financiëlemarktprocessen, zuivere verhoudingen tus
 ### Artikel  4:16  
 
 1.  Indien een financiële onderneming werkzaamheden uitbesteedt aan een derde, draagt die financiële onderneming er zorg voor dat deze derde de ingevolge dit deel met betrekking tot die werkzaamheden op de uitbestedende financiële onderneming van toepassing zijnde regels naleeft.   
-2.  Een beheerder of beleggingsonderneming besteedt bij algemene maatregel van bestuur aan te wijzen werkzaamheden niet uit.   
+2.  Een beheerder, beleggingsonderneming of betaalinstelling besteedt bij algemene maatregel van bestuur aan te wijzen werkzaamheden niet uit.   
 3.  Bij of krachtens algemene maatregel van bestuur: 
 
 a. worden in verband met het toezicht op de naleving van het ingevolge dit deel bepaalde, regels gesteld met betrekking tot het uitbesteden van werkzaamheden door financiële ondernemingen;  
@@ -7010,11 +7102,11 @@ c. worden regels gesteld met betrekking tot de tussen een beheerder, bewaarder o
 
 ### Artikel  4:17  
 
-1.  Een beheerder, beleggingsonderneming die beleggingsdiensten verleent, een betaaldienstverlener, clearinginstelling of financiëledienstverlener draagt zorg voor een adequate behandeling van klachten van cliënten, consumenten of deelnemers over financiële diensten of financiële producten van de financiële onderneming. Hiertoe: 
+1.  Een beheerder, beleggingsonderneming die beleggingsdiensten verleent, een betaaldienstverlener, clearinginstelling of financiëledienstverlener draagt zorg voor een adequate behandeling van klachten van cliënten, consumenten of deelnemers over betaaldiensten, financiële diensten of financiële producten van de financiële onderneming. Hiertoe: 
 
 a. beschikt de financiële onderneming over een interne klachtenprocedure, gericht op een spoedige en zorgvuldige behandeling van klachten; en  
 
-b. is de financiële onderneming aangesloten bij een door Onze Minister erkende geschilleninstantie die geschillen behandelt met betrekking tot financiële diensten of financiële producten van de financiële onderneming, tenzij er geen zodanige geschilleninstantie is.     
+b. is de financiële onderneming aangesloten bij een door Onze Minister erkende geschilleninstantie die geschillen behandelt met betrekking tot betaaldiensten, financiële diensten of financiële producten van de financiële onderneming, tenzij er geen zodanige geschilleninstantie is.     
 2.  Het eerste lid, onderdeel b, is niet van toepassing op financiële ondernemingen voorzover zij: 
 
 a. rechten van deelneming in beleggingsinstellingen aanbieden;  
@@ -7171,7 +7263,7 @@ Een betaaldienstverlener neemt bij het uitoefenen van zijn bedrijf [Titel 7B van
 
 ### Artikel  4:26  
 
-1.  Een financiële onderneming meldt wijzigingen met betrekking tot onderwerpen waarover ingevolge artikel 2:13, tweede lid, 2:22, tweede lid, 2:32, tweede lid, 2:33, tweede lid, 2:42, tweede lid, 2:43, tweede lid, 2:58, tweede lid, 2:63, tweede lid, 2:67, vierde lid, 2:68, derde lid, 2:69, tweede lid, 2:72, tweede lid, 2:73, eerste lid, 2:78, tweede lid, 2:83, tweede lid, 2:89, tweede lid, 2:94, tweede lid, 2:99, derde lid, 2:105, vijfde lid, 2:125, eerste lid, 2:126, eerste lid, 2:130, eerste lid, 3:110, tweede lid, 4:5, derde lid, 4:10, derde lid, 4:50, eerste lid, of 4:71, derde lid, verstrekking van gegevens is voorgeschreven aan de Autoriteit Financiële Markten.   
+1.  Een financiële onderneming meldt wijzigingen met betrekking tot onderwerpen waarover ingevolge artikel 2:13, tweede lid, 2:22, tweede lid, 2:32, tweede lid, 2:33, tweede lid, 2:42, tweede lid, 2:43, tweede lid, 2:58, tweede lid, 2:63, tweede lid, 2:67, vierde lid, 2:68, derde lid, 2:69, tweede lid, 2:69a, vierde en zesde lid, 2:72, tweede lid, 2:73, eerste lid, 2:78, tweede lid, 2:83, tweede lid, 2:89, tweede lid, 2:94, tweede lid, 2:99, derde lid, 2:105, vijfde lid, 2:125, eerste lid, 2:126, eerste lid, 2:130, eerste lid, 3:110, tweede lid, 4:5, derde lid, 4:10, derde lid, 4:50, eerste lid, of 4:71, derde lid, verstrekking van gegevens is voorgeschreven aan de Autoriteit Financiële Markten.   
 2.  Een beheerder of beleggingsonderneming meldt wijzigingen met betrekking tot onderwerpen waarover ingevolge artikel 2:122, tweede lid, 2:127, tweede lid, of 2:129, eerste lid, verstrekking van gegevens is voorgeschreven aan de Autoriteit Financiële Markten en aan de toezichthoudende instantie van de lidstaat waar die financiële onderneming financiële diensten verleent.   
 3.  Een beleggingsonderneming die een vergunning heeft voor het verlenen van de beleggingsdienst, bedoeld in onderdeel b van de definitie van verlenen van een beleggingsdienst in artikel 1:1, en het verrichten van de beleggingsactiviteit, bedoeld in onderdeel a van de definitie van verrichten van een beleggingsactiviteit in artikel 1:1, en voornemens is het bedrijf van beleggingsonderneming met systematische interne afhandeling uit te oefenen in transacties in aandelen die tot de handel op een gereglementeerde markt zijn toegelaten, meldt dat aan de Autoriteit Financiële Markten.   
 4.  Een beleggingsonderneming die niet langer het bedrijf van beleggingsonderneming met systematische interne afhandeling uitoefent, doet daarvan mededeling aan de Autoriteit Financiële Markten.   
@@ -7267,21 +7359,23 @@ Van de artikelen 4:28 en 4:29 kan niet ten nadele van de consument worden afgewe
 
 ### Artikel  4:32  
 
-1.  Een aanbieder van krediet neemt deel aan een stelsel van kredietregistratie.   
-2.  Onder bij algemene maatregel van bestuur te stellen regels kan worden afgeweken van het eerste lid.   
+1.  Een aanbieder van krediet neemt deel aan een stelsel van kredietregistratie dat aan alle aanbieders van krediet die gevestigd zijn in een lidstaat toegang biedt onder dezelfde voorwaarden.   
+2.  Indien een aanbieder van krediet op grond van de raadpleging van een stelsel van kredietregistratie besluit een consument geen krediet te verlenen, stelt hij de consument onverwijld en kosteloos in kennis van het resultaat van deze raadpleging en van de details van het geraadpleegde gegevensbestand.   
+3.  Onder bij algemene maatregel van bestuur te stellen regels kan worden afgeweken van het eerste lid.   
 
 ### Artikel  4:33  
 
-1.  Een aanbieder van krediet die over een website beschikt, heeft een kredietprospectus beschikbaar op zijn website en verstrekt onverwijld kosteloos een kredietprospectus op verzoek van een consument. Indien hij niet over een website beschikt, verstrekt de aanbieder van krediet kosteloos een kredietprospectus aan een consument voorafgaande aan de totstandkoming van een overeenkomst inzake krediet.   
-2.  Indien een krediet wordt aangeboden door tussenkomst van een bemiddelaar wordt het kredietprospectus, bedoeld in het eerste lid, door de bemiddelaar verstrekt, tenzij de aanbieder en de bemiddelaar zijn overeengekomen dat de aanbieder zelf aan deze verplichting voldoet. Het eerste lid is van overeenkomstige toepassing.   
-3.  Het kredietprospectus, bedoeld in het eerste lid, bevat uitsluitend bij algemene maatregel van bestuur te bepalen gegevens die op bij of krachtens algemene maatregel van bestuur te bepalen wijze in het kredietprospectus worden opgenomen. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de wijze van verstrekking van het kredietprospectus.   
-4.  Onder bij algemene maatregel van bestuur te stellen regels kan worden afgeweken van de verplichting een kredietprospectus beschikbaar te hebben en te verstrekken en bij algemene maatregel van bestuur kunnen vormen van krediet worden aangewezen waarvoor de verplichting een kredietprospectus beschikbaar te hebben en te verstrekken niet geldt.   
-5.  Artikel 4:19, tweede lid, is van overeenkomstige toepassing op het kredietprospectus, bedoeld in het eerste lid.   
+1.  Voorafgaand aan de totstandkoming van een overeenkomst inzake krediet verstrekt de aanbieder van krediet, indien van toepassing op basis van de door de consument kenbaar gemaakte voorkeur en verstrekte informatie, aan de consument informatie met het oog op een adequate beoordeling van het krediet.   
+2.  Bij algemene maatregel van bestuur kan worden bepaald dat in afwijking van het eerste lid een aanbieder van krediet in daarbij te bepalen gevallen de in het eerste lid bedoelde informatie geheel of gedeeltelijk na het aangaan van de overeenkomst verstrekt.   
+3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de voorwaarden waaraan de informatie, bedoeld in het eerste lid, voldoet.   
+4.  Bij of krachtens algemene maatregel van bestuur kunnen vormen van krediet worden aangewezen waarop het eerste lid niet van toepassing is.   
+5.  Artikel 4:19, tweede lid, is van overeenkomstige toepassing op de informatie, bedoeld in het eerste lid.   
+6.  Het eerste lid is niet van toepassing op een aanbieder van krediet indien het krediet wordt aangeboden door tussenkomst van een bemiddelaar, anders dan als nevenactiviteit.   
 
 ### Artikel  4:34  
 
-1.  Voorafgaand aan de totstandkoming van een overeenkomst inzake krediet wint een aanbieder van krediet in het belang van de consument informatie in over diens financiële positie en beoordeelt hij, ter voorkoming van overkreditering van de consument, of het aangaan van de overeenkomst verantwoord is.   
-2.  De aanbieder gaat geen overeenkomst inzake krediet aan met een consument indien dit, met het oog op overkreditering van de consument, onverantwoord is.   
+1.  Voor de totstandkoming van een overeenkomst inzake krediet, of een belangrijke verhoging van de kredietlimiet, dan wel de som van de bedragen die op grond van een bestaande overeenkomst inzake krediet aan de consument ter beschikking zijn gesteld, wint een aanbieder van krediet in het belang van de consument informatie in over diens financiële positie en beoordeelt hij, ter voorkoming van overkreditering van de consument, of het aangaan van de overeenkomst onderscheidenlijk de belangrijke verhoging verantwoord is.   
+2.  De aanbieder gaat geen overeenkomst inzake krediet aan met een consument en gaat niet over tot een belangrijke verhoging van de kredietlimiet of de som van de bedragen die op grond van een bestaande kredietovereenkomst aan de consument ter beschikking zijn gesteld indien dit, met het oog op overkreditering van de consument, onverantwoord is.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het eerste en tweede lid.   
 
 ### Artikel  4:35  
@@ -7381,11 +7475,12 @@ b. rechten van deelneming.
 
 ### Artikel  4:47  
 
-1.  Een beheerder maakt een voorstel tot wijziging van de voorwaarden die gelden tussen een door hem beheerde beleggingsinstelling en de deelnemers bekend in een advertentie in een landelijk verspreid Nederlands dagblad of aan het adres van iedere deelnemer alsmede op zijn website. De beheerder licht het voorstel tot wijziging van de voorwaarden toe op zijn website. Gelijktijdig met de bekendmaking van het voorstel tot wijziging stelt de beheerder de Autoriteit Financiële Markten hiervan in kennis.   
-2.  Een beheerder maakt een wijziging van de voorwaarden die gelden tussen een door hem beheerde beleggingsinstelling en de deelnemers bekend in een advertentie in een landelijk verspreid Nederlands dagblad of aan het adres van iedere deelnemer alsmede op zijn website. De beheerder licht de wijziging van de voorwaarden toe op zijn website. Gelijktijdig met de bekendmaking van de wijziging stelt de beheerder de Autoriteit Financiële Markten hiervan in kennis.   
-3.  Indien door de wijziging van de voorwaarden, bedoeld in het tweede lid, rechten of zekerheden van de deelnemers worden verminderd of lasten aan de deelnemers worden opgelegd, wordt de wijziging tegenover de deelnemers niet ingeroepen voordat drie maanden zijn verstreken na de bekendmaking, bedoeld in het tweede lid, en kunnen de deelnemers binnen deze periode onder de gebruikelijke voorwaarden uittreden.   
-4.  Indien door de wijziging van de voorwaarden, bedoeld in het tweede lid, het beleggingsbeleid van de beleggingsinstelling wordt gewijzigd, wordt de wijziging niet ingevoerd voordat drie maanden zijn verstreken na de bekendmaking, bedoeld in het tweede lid, en kunnen de deelnemers binnen deze periode onder de gebruikelijke voorwaarden uittreden.   
-5.  De Autoriteit Financiële Markten kan op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van de verplichting, bedoeld in het eerste lid, eerste volzin, of van de verplichting, bedoeld in het tweede lid, eerste volzin, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die met die verplichting worden beoogd te bereiken anderszins worden bereikt.   
+1.  Een beheerder heeft op zijn website de voorwaarden die gelden tussen een door hem beheerde beleggingsinstelling en de deelnemers beschikbaar.   
+2.  Een beheerder maakt een voorstel tot wijziging van de voorwaarden als bedoeld in het eerste lid bekend in een advertentie in een landelijk verspreid Nederlands dagblad of aan het adres van iedere deelnemer alsmede op zijn website. De beheerder licht het voorstel tot wijziging van de voorwaarden toe op zijn website. Gelijktijdig met de bekendmaking van het voorstel tot wijziging stelt de beheerder de Autoriteit Financiële Markten hiervan in kennis. Bij algemene maatregel van bestuur worden regels gesteld ten aanzien van de inhoud van de advertentie en de toelichting op de website van de beheerder.   
+3.  Een beheerder maakt een wijziging van de voorwaarden als bedoeld in het eerste lid bekend in een advertentie in een landelijk verspreid Nederlands dagblad of aan het adres van iedere deelnemer alsmede op zijn website voor zover deze wijziging afwijkt van het voorstel, bedoeld in het tweede lid. De beheerder licht de wijziging van de voorwaarden toe op zijn website. Gelijktijdig met de bekendmaking van de wijziging stelt de beheerder de Autoriteit Financiële Markten hiervan in kennis.   
+4.  Indien door de wijziging van de voorwaarden, bedoeld in het eerste lid, rechten of zekerheden van de deelnemers worden verminderd of lasten aan de deelnemers worden opgelegd, wordt de wijziging tegenover de deelnemers niet ingeroepen voordat drie maanden zijn verstreken na de bekendmaking, bedoeld in het tweede lid, en kunnen de deelnemers binnen deze periode onder de gebruikelijke voorwaarden uittreden.   
+5.  Indien door de wijziging van de voorwaarden, bedoeld in het eerste lid, het beleggingsbeleid van de beleggingsinstelling wordt gewijzigd, wordt de wijziging niet ingevoerd voordat drie maanden zijn verstreken na de bekendmaking, bedoeld in het tweede lid, en kunnen de deelnemers binnen deze periode onder de gebruikelijke voorwaarden uittreden.   
+6.  De Autoriteit Financiële Markten kan op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van het tweede lid, eerste volzin, het derde lid, eerste volzin, het vierde of het vijfde lid, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die met die verplichting worden beoogd te bereiken anderszins worden bereikt.   
 
 ### Artikel  4:48  
 
@@ -7456,6 +7551,10 @@ i. het fondsreglement van een beleggingsfonds indien het rechten van deelneming 
 
 Ten minste een maal per jaar voert een onafhankelijke deskundige een waardering uit van de activa van een beleggingsinstelling die geen financiële instrumenten zijn die zijn toegelaten tot de handel op een gereglementeerde markt, een multilaterale handelsfaciliteit of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is.  
 
+### Artikel  4:52b  
+
+Een beheerder of een beleggingsmaatschappij die beschikt over een verklaring van ondertoezichtstelling als bedoeld in artikel 2:69a en een bewaarder die belast is met de bewaring van de activa van de betreffende beleggingsinstelling, maakt binnen vier maanden na afloop van het boekjaar de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in artikel 4:51, eerste lid, bekend aan de deelnemers.  
+
 ### Artikel  4:53  
 
 Indien van de in Nederland gevoerde of te voeren naam van een beheerder of een beleggingsinstelling gevaar voor verwarring of misleiding is te duchten, kan de Autoriteit Financiële Markten verlangen dat de beheerder onderscheidenlijk de beleggingsinstelling: 
@@ -7490,6 +7589,10 @@ b. de beleggingsinstelling of haar beheerder:
 ### Artikel  4:55  
 
 Indien een beheerder de inkoop of terugbetaling van rechten van deelneming in een door hem beheerde beleggingsinstelling opschort, stelt hij de Autoriteit Financiële Markten en, indien het een beheerder van een instelling voor collectieve belegging in effecten betreft, de toezichthoudende instantie van elke lidstaat waar de rechten van deelneming in de belegginginstelling worden verhandeld, onverwijld daarvan op de hoogte.  
+
+### Artikel  4:55a  
+
+Een beheerder of beleggingsmaatschappij die beschikt over een verklaring van ondertoezichtstelling als bedoeld in artikel 2:69a en die voornemens is de Autoriteit Financiële Markten te verzoeken die verklaring in te trekken, maakt dit voornemen ten minste zes maanden voor indiening van het verzoek bekend aan de deelnemers van de beleggingsinstelling. Gelijktijdig met de bekendmaking van het voornemen stelt de beheerder of de beleggingsmaatschappij de Autoriteit Financiële Markten daarvan op de hoogte. De Autoriteit Financiële Markten neemt een verzoek als bedoeld in de eerste volzin dat niet of niet tijdig bekend is gemaakt niet eerder in behandeling dan zes maanden na de datum waarop het voornemen bekend is gemaakt.  
 
 ### Artikel  4:56  
 
@@ -7568,7 +7671,7 @@ c. neemt in de overeenkomst inzake de rechtsbijstanddekking de bepaling op dat d
 a. vertrouwt de werkzaamheden met betrekking tot de rechtsbijstandschaderegeling toe aan een juridisch zelfstandig schaderegelingkantoor en vermeldt dit schaderegelingkantoor in de overeenkomst inzake de rechtsbijstanddekking; of  
 
 b. neemt in de overeenkomst inzake de rechtsbijstanddekking de bepaling op dat de verzekerde, zodra hij uit hoofde van de verzekering recht heeft op rechtsbijstand, de behartiging van zijn belangen mag toevertrouwen aan een advocaat of een andere rechtens bevoegde deskundige van zijn keuze.     
-3.  Een rechtsbijstandverzekeraar vertrouwt werkzaamheden met betrekking tot de rechtsbijstandschaderegeling alleen toe aan een schaderegelingkantoor als bedoeld in het eerste lid, onderdeel b, en het tweede lid, onderdeel b, dat zijn bedrijfsvoering zodanig inricht dat de personeelsleden en de leden van het leidinggevende orgaan die zich bezighouden met de rechtsbijstandschaderegeling of met het geven van juridische adviezen met betrekking tot deze schaderegeling, niet tezelfdertijd dezelfde of soortgelijke werkzaamheden verrichten ten behoeve van een andere branche van een verzekeraar waarmee het schaderegelingkantoor financiële, commerciële of administratieve banden heeft.   
+3.  Een rechtsbijstandverzekeraar vertrouwt werkzaamheden met betrekking tot de rechtsbijstandschaderegeling alleen toe aan een schaderegelingkantoor als bedoeld in het eerste lid, onderdeel b, en het tweede lid, onderdeel a, dat zijn bedrijfsvoering zodanig inricht dat de personeelsleden en de leden van het leidinggevende orgaan die zich bezighouden met de rechtsbijstandschaderegeling of met het geven van juridische adviezen met betrekking tot deze schaderegeling, niet tezelfdertijd dezelfde of soortgelijke werkzaamheden verrichten ten behoeve van een andere branche van een verzekeraar waarmee het schaderegelingkantoor financiële, commerciële of administratieve banden heeft.   
 
 ### Artikel  4:66  
 
@@ -7689,6 +7792,14 @@ c. de modaliteiten voor de overdracht van aanspraken op een andere instelling in
 5.  Een premiepensioeninstelling verstrekt pensioendeelnemers jaarlijks beknopte informatie over de situatie van de premiepensioeninstelling en over de actuele waarde van de totale individuele aanspraken.   
 6.  Een premiepensioeninstelling verstrekt een pensioengerechtigde bij zijn pensionering of op het moment dat de premiepensioeninstelling tot het uitbetalen van een andere uitkering dan een uitkering in verband met de pensionering verschuldigd wordt, alle informatie die redelijkerwijs relevant is voor een adequate beoordeling van de uitkering waarop de pensioengerechtigde aanspraak kan maken en de wijze van uitbetaling van deze uitkering.   
 
+### §  4.3.1.7  
+
+####Provisie
+
+### Artikel  4:17e  
+
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de provisie die een arbeider betaalt of verschaft en de wijze van uitbetaling daarvan.  
+
 ### Afdeling  4.3.2  
 
 ####Adviseren
@@ -7773,6 +7884,10 @@ c. de beloning of de vergoeding voor het bemiddelen in financiële producten, in
 2.  Bij algemene maatregel van bestuur kunnen, teneinde een zorgvuldige bemiddeling in krediet te bevorderen, regels worden gesteld met betrekking tot de in het eerste lid bedoelde beloning of vergoeding en de wijze van uitbetaling daarvan.   
 3.  Onder bij algemene maatregel van bestuur te stellen regels kan worden afgeweken van het eerste lid.   
 4.  Rechtshandelingen verricht in strijd met het eerste lid zijn vernietigbaar.   
+
+### Artikel  4:74a  
+
+Artikel 4:33, eerste tot en met vierde lid, is van overeenkomstige toepassing op een bemiddelaar in krediet, tenzij de bemiddelaar slechts bij wijze van nevenactiviteit bemiddelt in krediet.  
 
 ### §  4.3.3.3  
 
@@ -7889,22 +8004,17 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 ### Artikel  4:87  
 
-1.  Een beleggingsonderneming die financiële instrumenten onder zich houdt die toebehoren aan een cliënt treft adequate maatregelen: 
+1.  Een beleggingsonderneming treft adequate maatregelen: 
 
-a. ter bescherming van de rechten van de cliënt op die financiële instrumenten; en  
+a. ter bescherming van de rechten van cliënten op aan hen toebehorende gelden en financiële instrumenten; en  
 
-b. ter voorkoming van het gebruik van die financiële instrumenten, behoudens uitdrukkelijke instemming van de cliënt, voor eigen rekening door de beleggingsonderneming.     
-2.  Een beleggingsonderneming die gelden onder zich houdt die toebehoren aan een cliënt, treft adequate maatregelen: 
-
-a. ter bescherming van de rechten van de cliënt op die gelden; en  
-
-b. ter voorkoming van het gebruik van die gelden voor eigen rekening door de beleggingsonderneming.     
-3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot: 
+b. ter voorkoming van het gebruik van die gelden of financiële instrumenten, behoudens uitdrukkelijke instemming van de cliënt indien het financiële instrumenten betreft, voor eigen rekening door de beleggingsonderneming.     
+2.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot: 
 
 a. de maatregelen ter bescherming van de rechten van de cliënt en ter voorkoming van het gebruik van financiële instrumenten of gelden van de cliënt; en  
 
 b. de wijze waarop instemming kan worden verkregen van de cliënt voor het gebruik van diens financiële instrumenten voor eigen rekening door de beleggingsonderneming.     
-4.  Het is een verbonden agent niet toegestaan financiële instrumenten dan wel gelden die toebehoren aan een cliënt onder zich te houden.   
+3.  Het is een verbonden agent niet toegestaan financiële instrumenten dan wel gelden die toebehoren aan een cliënt onder zich te houden.   
 
 ### Artikel  4:88  
 
@@ -8417,9 +8527,11 @@ De Autoriteit Financiële Markten is tevens bevoegd tot goedkeuring van een pros
 
 1.  De Autoriteit Financiële Markten verleent goedkeuring van een prospectus indien wordt voldaan aan: 
 
-a. de artikelen 5:13 tot en met 5:19; en  
+a. de artikelen 5:13 tot en met 5:19;  
 
-b. de artikelen 3 tot en met 23, 25, 26, met uitzondering van het vijfde lid, en 28 van de prospectusverordening.     
+b. de artikelen 3 tot en met 23, 25, 26, met uitzondering van het vijfde lid, en 28 van de prospectusverordening; en  
+
+c. artikel 4, eerste lid, tweede volzin, van de verordening ratingbureaus.     
 2.  De Autoriteit Financiële Markten kan, indien zij bevoegd is op grond van artikel 5:6 of 5:7, goedkeuring van het prospectus verlenen aan een uitgevende instelling met zetel in een staat die geen lidstaat is indien: 
 
 a. die instelling het prospectus heeft opgesteld in overeenstemming met de wetgeving van de staat van haar zetel;  
@@ -8680,7 +8792,7 @@ c. verklaringen van de bij de uitgevende instelling als ter zake verantwoordelij
 
 1°. de halfjaarrekening een getrouw beeld geeft van de activa, de passiva, de financiële positie en de winst of het verlies van de uitgevende instelling en de gezamenlijke in de consolidatie opgenomen ondernemingen; en  
 
-2°. het halfjaarverslag een getrouw overzicht geeft omtrent de toestand op de balansdatum, de gang van zaken gedurende het halve boekjaar van de uitgevende instelling en van de met haar verbonden ondernemingen waarvan de gegevens in haar halfjaarrekening zijn opgenomen en de verwachte gang van zaken, waarbij, voor zover gewichtige belangen zich hiertegen niet verzetten, in het bijzonder aandacht wordt besteed aan de investeringen, en de omstandigheden waarvan de ontwikkeling van de omzet en van de rentabiliteit afhankelijk is.       
+2°. het halfjaarverslag een getrouw overzicht geeft van de in het achtste en, voor zover van toepassing, negende lid bedoelde informatie.       
 3.  Indien de halfjaarlijkse financiële verslaggeving is gecontroleerd of beperkt is beoordeeld door een accountant wordt de door hem ondertekende en gedagtekende verklaring of beoordeling samen met de halfjaarlijkse financiële verslaggeving algemeen verkrijgbaar gesteld.   
 4.  Indien de halfjaarlijkse financiële verslaggeving niet door een accountant is gecontroleerd of beperkt is beoordeeld, wordt dat door de uitgevende instelling in haar halfjaarverslag vermeld.   
 5.  De halfjaarrekening van een uitgevende instelling met zetel in Nederland: 
@@ -8731,7 +8843,7 @@ b. de overige informatie die door de uitgevende instelling naar het recht inzake
 
 1.  Een uitgevende instelling waarvan aandelen tot de handel op een gereglementeerde markt zijn toegelaten stelt onverwijld informatie omtrent wijzigingen in de rechten die aan door haar uitgegeven aandelen van een bepaalde klasse zijn verbonden algemeen verkrijgbaar. De eerste volzin is van overeenkomstige toepassing op door de uitgevende instelling uitgegeven rechten op het verwerven van aandelen.   
 2.  Een uitgevende instelling waarvan andere effecten, dan bedoeld in het eerste lid, eerste volzin, zijn toegelaten tot de handel op een gereglementeerde markt, stelt onverwijld informatie omtrent wijzigingen in de rechten van houders van de eerstgenoemde effecten algemeen verkrijgbaar. Onder wijzigingen in de rechten van houders als bedoeld in de eerste volzin worden eveneens verstaan wijzigingen in de voorwaarden die verbonden zijn aan de effecten, indien die wijzigingen van invloed kunnen zijn op die rechten.   
-3.  Indien een uitgevende instelling een aanbieding van obligaties aan het publiek doet als bedoeld in artikel 5:1, stelt zij het op de aanbieding betrekking hebbende prospectus of andere informatie onverwijld algemeen verkrijgbaar. De uitgevende instelling stelt daarbij onder meer informatie algemeen verkrijgbaar omtrent de bij die obligaties behorende garanties of zekerheden.   
+3.  Indien een uitgevende instelling obligaties aan het publiek aanbiedt als bedoeld in artikel 5:1, onderdeel a, stelt zij met betrekking tot die aanbieding informatie algemeen verkrijgbaar, tenzij ten aanzien van die aanbieding een goedgekeurd prospectus als bedoeld in artikel 5:2 algemeen verkrijgbaar is gesteld. De uitgevende instelling stelt daarbij onder meer informatie algemeen verkrijgbaar omtrent de bij die obligaties behorende garanties of zekerheden.   
 4.  Het derde lid is niet van toepassing indien de uitgevende instelling een internationaalrechtelijke organisatie is waarbij ten minste een lidstaat is aangesloten.   
 
 ### Artikel  5:25i  
@@ -8851,10 +8963,11 @@ d. een obligatiehouder de mogelijkheid wordt geboden om de informatie desgewenst
 3.  De uitgevende instelling beschikt over een website en maakt informatie als bedoeld in artikel 5:25i onverwijld op deze website openbaar. Indien de uitgevende instelling een beleggingsinstelling is, kan deze informatie ook op de website van de beheerder van die beleggingsinstelling onverwijld openbaar worden gemaakt. De uitgevende instelling of beheerder houdt deze informatie gedurende ten minste een jaar op de website toegankelijk.   
 4.  Indien het gereglementeerde informatie betreft als bedoeld in artikel 5:25c, 5:25d of  5:25e, kan de uitgevende instelling in het persbericht volstaan met een aankondiging waarin wordt verwezen naar de website van de uitgevende instelling waar de informatie volledig beschikbaar is.   
 5.  Onze Minister wijst een instantie aan die zorg draagt voor de centrale opslag van gereglementeerde informatie.   
-6.  De uitgevende instelling zendt de gereglementeerde informatie gelijktijdig met de algemeenverkrijgbaarstelling aan de instantie, bedoeld in het vierde lid, alsmede indien deze niet als zodanig is aangewezen aan de Autoriteit Financiële Markten.   
+6.  De uitgevende instelling zendt de gereglementeerde informatie gelijktijdig met de algemeenverkrijgbaarstelling aan de instantie, bedoeld in het vijfde lid, alsmede indien deze niet als zodanig is aangewezen aan de Autoriteit Financiële Markten.   
 7.  De uitgevende instelling brengt geen kosten in rekening voor het algemeen verkrijgbaar stellen van de gereglementeerde informatie.   
-8.  Indien door een persoon zonder toestemming van de uitgevende instelling om toelating tot de handel op een gereglementeerde markt van door de uitgevende instelling uitgegeven effecten is verzocht, rusten de bij of krachtens het eerste tot en met derde lid, vijfde en zesde lid geldende verplichtingen op die persoon.   
+8.  Indien door een persoon zonder toestemming van de uitgevende instelling om toelating tot de handel op een gereglementeerde markt van door de uitgevende instelling uitgegeven effecten is verzocht, rusten de bij of krachtens het eerste tot en met derde, zesde en zevende lid geldende verplichtingen op die persoon.   
 9.  Het eerste tot en met derde lid zijn niet van toepassing op uitgevende instellingen waarvan uitsluitend effecten tot de handel zijn toegelaten op ten hoogste een in een andere lidstaat gelegen of functionerende gereglementeerde markt.   
+10.  Het vijfde en zesde lid zijn van overeenkomstige toepassing ten aanzien van de informatie die op grond van het recht van een andere lidstaat ter uitvoering van artikel 6 van de richtlijn marktmisbruik algemeen verkrijgbaar moet worden gesteld door een uitgevende instelling waarvan Nederland de lidstaat van herkomst is.   
 
 ### Artikel  5:25n  
 
@@ -8935,7 +9048,7 @@ b. ter uitvoering van een op grond van artikel 23 van de richtlijn transparantie
 ### Artikel  5:25w  
 
 1.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot in dit hoofdstuk geregelde onderwerpen ter uitvoering van een bindend besluit van de Commissie van de Europese Gemeenschappen dat gebaseerd is op de richtlijn transparantie.   
-2.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de wijze van opslag van gereglementeerde informatie door de instantie, bedoeld in artikel 5:25m, vierde lid.   
+2.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de wijze van opslag van gereglementeerde informatie door de instantie, bedoeld in artikel 5:25m, vijfde lid.   
 
 ### Hoofdstuk  5.2  
 
@@ -9295,7 +9408,7 @@ c. nationale centrale banken die onderdeel uitmaken van het Europees Stelsel van
 
 a. bewaarnemers van aandelen, voorzover deze de aan deze aandelen verbonden stemmen niet naar eigen goeddunken kunnen uitbrengen; en  
 
-b. personen die werkzaamheden verrichten als bedoeld in onderdeel a van de definitie van verlenen van een beleggingsactiviteit in artikel 1:1, die de beschikking krijgen of verliezen over aandelen en de daaraan verbonden stemmen waardoor, naar zij weten of behoren te weten, het percentage van het kapitaal of de stemmen waarover zij beschikken de drempelwaarde van vijf procent bereikt, overschrijdt of onderschrijdt, voorzover deze geen invloed uitoefenen in het bestuur van de desbetreffende uitgevende instelling en in hun lidstaat van herkomst een vergunning hebben voor de uitoefening van hun bedrijf.     
+b. personen die werkzaamheden verrichten als bedoeld in onderdeel a van de definitie van verrichten van een beleggingsactiviteit in artikel 1:1, die de beschikking krijgen of verliezen over aandelen en de daaraan verbonden stemmen waardoor, naar zij weten of behoren te weten, het percentage van het kapitaal of de stemmen waarover zij beschikken de drempelwaarde van vijf procent bereikt, overschrijdt of onderschrijdt, voorzover deze geen invloed uitoefenen in het bestuur van de desbetreffende uitgevende instelling en in hun lidstaat van herkomst een vergunning hebben voor de uitoefening van hun bedrijf.     
 3.  Voor het vaststellen of de drempelwaarden, bedoeld in de artikelen 5:38, derde lid, of 5:39, tweede lid, worden bereikt of overschreden, worden aandelen en de daaraan verbonden stemmen die tot de handelsportefeuille van één van de hierna te noemen financiële ondernemingen behoren niet in aanmerking genomen, voor zover deze aandelen of stemmen niet meer dan vijf procent bedragen in het kapitaal of de stemmen van een uitgevende instelling en indien de stemmen niet worden uitgebracht of anderszins worden gebruikt om invloed uit te oefenen in het bestuur van de uitgevende instelling: 
 
 a. financiële ondernemingen die voor het uitoefenen van het bedrijf van bank een door de Nederlandsche Bank op grond van het Deel Markttoegang financiële ondernemingen verleende vergunning hebben;  
@@ -9532,12 +9645,6 @@ c. stabilisatie zoals omschreven in hoofdstuk III van verordening (EG) nr. 2273/
 
 1.  Een uitgevende instelling met zetel in Nederland die financiële instrumenten als bedoeld in artikel 5:56, eerste lid, onderdeel a of b, heeft uitgegeven die met haar instemming zijn toegelaten tot de handel op een daar bedoelde gereglementeerde markt of een multilaterale handelsfaciliteit waarvoor de beleggingsonderneming een vergunning heeft als bedoeld in artikel 2:96 of waarvoor met haar instemming verzocht is om toelating van die financiële instrumenten tot de handel op een dergelijke markt, een uitgevende instelling met zetel in een andere lidstaat die financiële instrumenten als bedoeld in artikel 5:56, eerste lid, onderdeel d, heeft uitgegeven die met haar instemming zijn toegelaten tot de handel op een daar bedoeld met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem, een uitgevende instelling met zetel in een staat die geen lidstaat is die financiële instrumenten als bedoeld in artikel 5:56, eerste lid, onderdeel a, heeft uitgegeven of voornemens is uit te geven die met haar instemming zijn toegelaten tot de handel op een daar bedoelde gereglementeerde markt of een multilaterale handelsfaciliteit waarvoor de beleggingsonderneming een vergunning heeft als bedoeld in artikel 2:96 of waarvoor met haar instemming verzocht is om toelating van die financiële instrumenten tot de handel op een dergelijke markt, alsmede een ieder die namens of voor rekening van een hiervoor bedoelde uitgevende instelling optreedt, houdt een lijst bij van de bij haar of hem werkzame personen die op regelmatige of incidentele basis kennis kunnen hebben van informatie als bedoeld in artikel 5:53, eerste lid, en stelt deze personen op de hoogte van de in deze afdeling gestelde verboden en de hoogte van de sancties die op overtreding daarvan zijn gesteld.   
 2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de inhoud, het bijwerken en het bewaren van de lijst, bedoeld in het eerste lid.   
-3.   Vervallen.    
-4.   Vervallen.    
-5.   Vervallen.    
-6.   Vervallen.    
-7.   Vervallen door vernummering.    
-8.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze waarop de in het eerste, tweede en vijfde lid bedoelde openbaarmaking dient plaats te vinden, alsmede met betrekking tot de inhoud, het bijwerken en bewaren van de lijst, bedoeld in het zevende lid.   
 
 ### Artikel  5:60  
 
@@ -9863,6 +9970,16 @@ c. betalingssystemen waarbij de enige betaaldienstverlener een entiteit of een g
 
 3°. een licentie verleent of heeft verleend aan andere betaaldienstverleners om deel te nemen aan het systeem, waarbij laatstgenoemden met of onder elkaar geen vergoedingen met betrekking tot het betalingssysteem kunnen bedingen en zij individueel prijzen kunnen vaststellen ten aanzien van betalers en begunstigden.       
 
+### Hoofdstuk  5.8  
+
+####Toezicht op ratingbureaus
+
+### Artikel  5:89  
+
+1.  Onze Minister wijst de toezichthouder, bedoeld in artikel 22, eerste lid, van de verordening ratingbureaus, aan.   
+2.  Indien toepassing is gegeven aan het eerste lid, zijn met het toezicht op de naleving van de verordening ratingbureaus belast de bij besluit van de toezichthouder aangewezen personen.   
+3.  De artikelen 1:72, tweede lid, 1:73, 1:74 en 1:75, eerste en derde lid, zijn van overeenkomstige toepassing.   
+
 ### 6  
 
 ####Deel Toezicht infrastructuur financiële markten
@@ -9973,7 +10090,7 @@ b. overige uitkeringen ter zake van andere ziekten dan beroepsziekten.
 
 #### *Algemeen deel* 
 
-1:10   1:12, derde en vierde lid   artikel 1:28, tweede en derde lid   1:58, tweede lid   1:58a, tweede lid   1:58b, tweede lid   1:58c, derde lid   1:59, tweede lid   1:67, eerste lid   1:74, eerste lid   1:76, zesde lid, aanhef en onderdeel a   1:77, eerste lid   
+1:10   1:12, vierde en vijfde lid   artikel 1:28, tweede en derde lid   1:58, tweede lid   1:58a, tweede lid   1:58b, tweede lid   1:58c, derde lid   1:59, tweede lid   1:67, eerste lid   1:74, eerste lid   1:76, zesde lid, aanhef en onderdeel a   1:77, eerste lid   
 
 #### *Deel Markttoegang financiële ondernemingen* 
 
@@ -9981,15 +10098,15 @@ b. overige uitkeringen ter zake van andere ziekten dan beroepsziekten.
 
 #### *Deel Prudentieel toezicht financiële ondernemingen* 
 
-3:5, eerste en vierde lid   3:6, eerste en vierde lid   3:7, eerste en vierde lid   3:8   3:9, eerste lid   3:10, eerste tot en met derde lid   3:15, eerste en tweede lid   3:16, eerste tot en met derde lid   3:17, eerste en tweede lid   3:18, eerste tot en met derde lid   3:19, eerste en tweede lid   3:19a   3:20   3:20a   3:21, eerste en tweede lid   3:24   3:29, eerste tot en met derde lid  3:29a.  3:29b   3:29c, eerste lid   3:30, eerste lid   3:32   3:34, eerste en tweede lid   3:35   3:35a, eerste en tweede lid   3:36, eerste lid, tweede lid, onderdeel c, derde en zesde lid   3:37, eerste tot en met derde lid   3:38   3:38a   3:38b   3:39, eerste en tweede lid   3:40   3:41   3:42   3:43, tweede lid   3:44, eerste lid   3:47, eerste tot en met derde, vijfde en zesde lid   3:48   3:51   3:52   3:53, eerste tot en met derde lid   3:54, derde lid   3:55, tweede lid   3:55a, eerste en tweede lid   3:57, eerste, tweede, vijfde en zevende lid   3:59, tweede lid   3:62, tweede lid   3:63, eerste tot en met derde lid   3:67, eerste tot en met vierde lid   3:68, eerste en derde lid   3:68a, eerste en tweede lid   3:69, eerste en tweede lid   3:70, eerste lid   3:71, eerste en tweede lid   3:72, eerste, derde tot en met zevende en negende lid   3:73   3:74, eerste en tweede lid   3:74a, eerste tot en met vierde lid   3:74b   3:75   3:76, eerste en tweede lid   3:77   3:78, eerste en tweede lid   3:81, eerste tot en met derde lid   3:82, eerste en tweede lid   3:83, eerste en tweede lid   3:86, eerste en tweede lid   3:87, eerste en tweede lid   3:88, eerste, tweede en vierde lid   3:89, eerste lid   3:95, eerste lid   3:96, eerste en vierde lid   3:99, eerste lid   3:103, eerste en tweede lid   3:104, eerste en derde lid   3:105, vierde lid   3:106, eerste lid   3:108, eerste tot en met derde lid   3:110, vierde en vijfde lid   3:111, derde lid   3:111a, eerste en tweede lid   3:111b, eerste lid   3:112, eerste lid   3:113, eerste en tweede lid   3:114, eerste lid   3:114a, eerste lid   3:116   3:119, eerste lid   3:120, eerste tot en met vijfde en zevende lid   3:124, tweede lid   3:125, eerste lid   3:129, eerste en tweede lid   3:131, eerste lid   3:132, eerste tot en met derde lid   3:135, eerste lid   3:136, eerste tot en met derde lid   3:137   3:138, eerste lid   3:139, eerste lid   3:141, eerste lid   3:143   3:144, eerste lid   3:145, eerste lid   3:146, eerste lid   3:148, eerste lid   3:151, derde lid   3:153   3:155, eerste en derde lid   3:156, zesde en tiende lid   3:158, derde en vierde lid   3:175, derde lid   3:196   3:259, eerste en tweede lid   3:262   3:263, eerste tot en met derde lid   3:264, eerste lid   3:267, derde en vierde lid   3:267a, eerste tot en met vierde lid   3:267b, eerste tot en met vierde lid   3:267c, eerste lid   3:269, eerste en tweede lid   3:271   3:272, eerste lid   3:273, eerste lid   3:277a, eerste lid   3:279, eerste en vierde lid   3:280, tweede tot en met vierde lid   3:280a, tweede lid   3:280b   3:284, tweede en derde lid   3:285, eerste en tweede lid   3:286, eerste en tweede lid   3:296, eerste, tweede tot en met vierde en achtste lid   3:297 eerste tot en met derde en vijfde lid   3:298 eerste tot en met derde en vijfde lid   3:299 eerste en derde lid   
+3:5, eerste en vierde lid   3:6, eerste en vierde lid   3:7, eerste en vierde lid   3:8   3:9, eerste lid   3:10, eerste tot en met derde lid   3:15, eerste en tweede lid   3:16, eerste tot en met derde lid   3:17, eerste en tweede lid   3:18, eerste tot en met derde lid   3:19, eerste en tweede lid   3:19a   3:20   3:20a   3:21, eerste en tweede lid   3:24   3:29, eerste tot en met derde lid  3:29a.  3:29b   3:29c, eerste lid   3:30, eerste lid   3:32   3:34, eerste en tweede lid   3:35   3:35a, eerste en tweede lid   3:36, eerste lid, tweede lid, onderdeel c, derde en zesde lid   3:37, eerste tot en met derde lid   3:38   3:38a   3:38b   3:39, eerste en tweede lid   3:40   3:41   3:42   3:43, tweede lid   3:44, eerste lid   3:47, eerste tot en met derde, vijfde en zesde lid   3:48   3:51   3:52   3:53, eerste tot en met derde lid   3:54, derde lid   3:55, tweede lid   3:55a, eerste en tweede lid   3:57, eerste, tweede, vijfde en zevende lid   3:59, tweede lid   3:62, tweede lid   3:63, eerste tot en met derde lid   3:67, eerste tot en met vierde lid   3:68, eerste en derde lid   3:68a, eerste en tweede lid   3:69, eerste en tweede lid   3:70, eerste lid   3:71, eerste en tweede lid   3:72, eerste, derde tot en met zevende en negende lid   3:73   3:74, eerste en tweede lid   3:74a, eerste tot en met vierde lid   3:74b   3:75   3:76, eerste en tweede lid   3:77   3:78, eerste en tweede lid   3:81, eerste tot en met derde lid   3:82, eerste en tweede lid   3:83, eerste en tweede lid   3:86, eerste en tweede lid   3:87, eerste en tweede lid   3:88, eerste, tweede en vierde lid   3:89, eerste lid   3:95, eerste lid   3:96, eerste en vierde lid   3:99, eerste lid   3:103, eerste en tweede lid   3:104, eerste en derde lid   3:105, vierde lid   3:106, eerste lid   3:110, vierde en vijfde lid   3:111, derde lid   3:111a, eerste en tweede lid   3:111b, eerste lid   3:112, eerste lid   3:113, eerste en tweede lid   3:114, eerste lid   3:114a, eerste lid   3:116   3:119, eerste lid   3:120, eerste tot en met vijfde en zevende lid   3:124, tweede lid   3:125, eerste lid   3:129, eerste en tweede lid   3:131, eerste lid   3:132, eerste tot en met derde lid   3:135, eerste lid   3:136, eerste tot en met derde lid   3:137   3:138, eerste lid   3:139, eerste lid   3:141, eerste lid   3:143   3:144, eerste lid   3:145, eerste lid   3:146, eerste lid   3:148, eerste lid   3:151, derde lid   3:153   3:155, eerste en derde lid   3:156, zesde en tiende lid   3:158, derde en vierde lid   3:175, derde lid   3:196   3:259, eerste en tweede lid   3:262   3:263, eerste tot en met derde lid   3:264, eerste lid   3:267, derde en vierde lid   3:267a, eerste tot en met vierde lid   3:267b, eerste tot en met vierde lid   3:267c, eerste lid   3:269, eerste en tweede lid   3:271   3:272, eerste lid   3:273, eerste lid   3:277a, eerste lid   3:279, eerste en vierde lid   3:280, tweede tot en met vierde lid   3:280a, tweede lid   3:280b   3:284, tweede en derde lid   3:285, eerste en tweede lid   3:286, eerste en tweede lid   3:296, eerste, tweede tot en met vierde en achtste lid   3:297 eerste tot en met derde en vijfde lid   3:298 eerste tot en met derde en vijfde lid   3:299 eerste en derde lid   
 
 #### *Deel Gedragstoezicht financiële ondernemingen* 
 
-4:3, eerste en vierde lid   4:4, eerste lid   4:4a   4:5, derde lid   4:6, eerste en tweede lid   4:6a, eerste lid   4:9, eerste tot en met derde lid   4:10, eerste lid   4:11, eerste tot en met vierde lid   4:13, eerste en tweede lid   4:14, eerste tot en met derde lid   4:15, eerste en tweede lid   4:16, eerste tot en met derde lid   4:17, eerste en derde lid   4:18a, eerste en tweede lid   4:18b, tweede en derde lid   4:18c, derde lid   4:18d, eerste en tweede lid   4:18e, eerste en tweede lid   4:19, eerste tot en met derde lid   4:20, eerste, derde en vierde lid   4:21   4:22, eerste en tweede lid   4:23, eerste tot en met derde lid   4:24, eerste tot en met derde en vijfde lid   4:25, eerste lid   4:25b   4:26, eerste tot en met vijfde lid   4:27, eerste, tweede en vierde lid   4:29, vierde lid   4:30a, eerste tot en met derde lid   4:31, eerste en tweede lid   4:32, eerste lid   4:33, eerste tot en met derde lid   4:34, derde lid   4:35   4:39   4:40   4:41   4:42   4:43, eerste en tweede lid   4:44, eerste en tweede lid   4:46, eerste tot en met vierde lid   4:46a   4:47, eerste tot en met vierde lid   4:48, eerste en tweede lid   4:49, eerste tot en met derde lid   4:50, eerste en tweede lid   4:51, eerste tot en met vierde lid   4:52, eerste tot en met derde lid   4:52a   4:53   4:55   4:56, eerste lid   4:57   4:58   4:59, eerste en tweede lid   4:60, eerste tot en met vijfde lid   4:61, eerste lid   4:62, eerste en tweede lid   4:63, eerste en tweede lid   4:65, eerste tot en met derde lid   4:66   4:67, eerste lid   4:68, eerste lid   4:69, eerste lid   4:70, eerste tot en met zevende lid   4:71, eerste tot en met vijfde lid   4:71a   4:71b, eerste tot en met derde lid   4:71c   4:71d, eerste tot en met zesde lid   4:72, eerste en derde lid   4:73, eerste en derde lid   4:74, eerste lid   4:75, eerste tot en met derde lid   4:76, eerste en derde lid   4:77, eerste tot en met vierde lid   4:78, eerste en tweede lid   4:79, eerste lid   4:83, eerste lid   4:84, eerste en tweede lid   4:85, eerste en derde tot en met vijfde lid   4:86   4:87, eerste tot en met vierde lid   4:88, eerste tot en met vierde lid   4:89, eerste en tweede lid   4:89a, eerste en tweede lid   4:90, eerste en tweede lid   4:90a, eerste tot en met vijfde lid   4:90b, eerste tot en met tiende lid   4:90c, eerste tot en met vierde lid   4:90d, eerste, tweede en vierde lid   4:90e, eerste tot en met vijfde en achtste lid   4:91a, eerste, derde tot en met zevende en negende lid   4:91b, eerste tot en met vierde lid   4:91c, eerste en tweede lid   4:91d, eerste en tweede lid   4:91g, eerste tot en met vierde lid   4:91i   4:91j, eerste, tweede en vijfde lid   4:91k, eerste en tweede lid   4:91l, eerste en tweede lid   4:93, eerste en tweede lid   4:94, eerste tot en met derde lid   4:95, eerste tot en met derde lid   4:96, eerste en tweede lid   4:97, eerste en derde lid   4:99, eerste en tweede lid   4:100, eerste tot en met derde lid   4:100a, eerste en tweede lid   4:100b, eerste tot en met derde lid   4:100c   4:100d, eerste en tweede lid   
+4:3, eerste en vierde lid   4:4, eerste lid   4:4a   4:5, derde lid   4:6, eerste en tweede lid   4:6a, eerste lid   4:9, eerste tot en met derde lid   4:10, eerste lid   4:11, eerste tot en met vierde lid   4:13, eerste en tweede lid   4:14, eerste tot en met derde lid   4:15, eerste en tweede lid   4:16, eerste tot en met derde lid   4:17, eerste en derde lid   4:18a, eerste en tweede lid   4:18b, tweede en derde lid   4:18c, derde lid   4:18d, eerste en tweede lid   4:18e, eerste en tweede lid   4:19, eerste tot en met derde lid   4:20, eerste, derde en vierde lid   4:21   4:22, eerste en tweede lid   4:23, eerste tot en met derde lid   4:24, eerste tot en met derde en vijfde lid   4:25, eerste lid   4:25b   4:26, eerste tot en met vijfde lid   4:27, eerste, tweede en vierde lid   4:29, vierde lid   4:30a, eerste tot en met derde lid   4:31, eerste en tweede lid   4:32, eerste lid   4:33, eerste tot en met derde lid   4:34, derde lid   4:35   4:39   4:40   4:41   4:42   4:43, eerste en tweede lid   4:44, eerste en tweede lid   4:46, eerste tot en met vierde lid   4:46a   4:47, eerste tot en met vijfde lid   4:48, eerste en tweede lid   4:49, eerste tot en met derde lid   4:50, eerste en tweede lid   4:51, eerste tot en met vierde lid   4:52, eerste tot en met derde lid   4:52a   4:52b   4:53   4:55   4:55a   4:56, eerste lid   4:57   4:58   4:59, eerste en tweede lid   4:60, eerste tot en met vijfde lid   4:61, eerste lid   4:62, eerste en tweede lid   4:63, eerste en tweede lid   4:65, eerste tot en met derde lid   4:66   4:67, eerste lid   4:68, eerste lid   4:69, eerste lid   4:70, eerste tot en met zevende lid   4:71, eerste tot en met vijfde lid   4:71a   4:71b, eerste tot en met derde lid   4:71c   4:71d, eerste tot en met zesde lid   4:72, eerste en derde lid   4:73, eerste en derde lid   4:74, eerste lid   4:75, eerste tot en met derde lid   4:76, eerste en derde lid   4:77, eerste tot en met vierde lid   4:78, eerste en tweede lid   4:79, eerste lid   4:83, eerste lid   4:84, eerste en tweede lid   4:85, eerste en derde tot en met vijfde lid   4:86   4:87, eerste tot en met vierde lid   4:88, eerste tot en met vierde lid   4:89, eerste en tweede lid   4:89a, eerste en tweede lid   4:90, eerste en tweede lid   4:90a, eerste tot en met vijfde lid   4:90b, eerste tot en met tiende lid   4:90c, eerste tot en met vierde lid   4:90d, eerste, tweede en vierde lid   4:90e, eerste tot en met vijfde en achtste lid   4:91a, eerste, derde tot en met zevende en negende lid   4:91b, eerste tot en met vierde lid   4:91c, eerste en tweede lid   4:91d, eerste en tweede lid   4:91g, eerste tot en met vierde lid   4:91i   4:91j, eerste, tweede en vijfde lid   4:91k, eerste en tweede lid   4:91l, eerste en tweede lid   4:93, eerste en tweede lid   4:94, eerste tot en met derde lid   4:95, eerste tot en met derde lid   4:96, eerste en tweede lid   4:97, eerste en derde lid   4:99, eerste en tweede lid   4:100, eerste tot en met derde lid   4:100a, eerste en tweede lid   4:100b, eerste tot en met derde lid   4:100c   4:100d, eerste en tweede lid   
 
 #### *Deel Gedragstoezicht financiële markten* 
 
-5:2   5:16, tweede lid   5:18, tweede lid   5:20, eerste tot en met vierde lid   5:21, eerste tot en met zevende lid   5:23, eerste en vijfde lid   5:24, eerste, derde en vierde lid   5:25c, eerste lid   5:25d, eerste en derde lid   5:25e   5:25f   5:25h   5:25i   5:25m, eerste, zesde en achtste lid   5:25n   5:25p   5:25q   5:25v, derde lid   5:25w   5:26, eerste lid   5:27, derde en vierde lid   5:29, eerste, tweede, vierde en vijfde lid   5:30   5:31, eerste, derde en vierde lid   5:32, eerste tot en met vierde lid   5:32a, eerste tot en met derde lid   5:32b, eerste, tweede, derde en vijfde lid   5:32c   5:32d, eerste en zevende lid   5:32e   5:32f, eerste lid   5:32g   5:32j, eerste tot en met derde lid   5:32k, eerste, tweede en vierde lid   5:32l, eerste tot en met derde lid   5:32m   5:51, eerste lid   5:58, eerste lid   5:59, eerste lid   5:60, eerste en derde lid   5:61, eerste lid   5:62, derde lid   5:64, eerste en derde tot en met zevende lid   5:65   5:68, eerste lid   5:70, eerste lid  5:74, eerste, derde en vierde lid, 5:76, tweede lid, 5:78,  5:79   5:80, tweede lid   5:80a, eerste en vierde lid   5:86, eerste lid   5:88, eerste en tweede lid   
+5:2   5:16, tweede lid   5:18, tweede lid   5:20, eerste tot en met vijfde lid   5:21, eerste tot en met zevende lid   5:23, eerste en vijfde lid   5:24, eerste, derde en vierde lid   5:25c, eerste lid   5:25d, eerste en derde lid   5:25e   5:25f   5:25h   5:25i   5:25m, eerste tot en met derde lid, zesde en achtste lid   5:25n   5:25p   5:25q   5:25v, derde lid   5:25w   5:26, eerste lid   5:27, derde en vierde lid   5:29, eerste, tweede, vierde en vijfde lid   5:30   5:31, eerste, derde en vierde lid   5:32, eerste tot en met vierde lid   5:32a, eerste tot en met derde lid   5:32b, eerste, tweede, derde en vijfde lid   5:32c   5:32d, eerste en zevende lid   5:32e   5:32f, eerste lid   5:32g   5:32j, eerste tot en met derde lid   5:32k, eerste, tweede en vierde lid   5:32l, eerste tot en met derde lid   5:32m   5:51, eerste lid   5:58, eerste lid   5:59, eerste en tweede lid   5:60, eerste en derde lid   5:61, eerste lid   5:62, derde lid   5:64, eerste en derde tot en met zevende lid   5:65   5:68, eerste lid   5:70, eerste lid  5:74, eerste, derde en vierde lid, 5:76, tweede lid, 5:78,  5:79   5:80, tweede lid   5:80a, eerste en vierde lid   5:86, eerste en tweede lid   5:88, eerste en tweede lid   
 
 #### *Prospectusverordening* 
 
@@ -9998,6 +10115,14 @@ Artikel 26, vijfde lid Artikel 27 Artikel 29 Artikel 30 Artikel 34
 #### *uitvoeringsverordening MiFID* 
 
 7 8, eerste en tweede lid 17, eerste lid 24 27, eerste lid 29, eerste tot en met vijfde lid 36 37  
+
+#### *Verordening grensoverschrijdende betalingen* 
+
+3, eerste en tweede lid 4, eerste en tweede lid 8, eerste, derde en vierde lid  
+
+#### *Verordening ratingbureaus* 
+
+4, eerste, derde en vierde lid 5, eerste lid 6, eerste en tweede lid 7, eerste tot en met vijfde lid 8, eerste tot en met zesde lid 9.  
 
 ### Bijlage  
 
@@ -10007,7 +10132,7 @@ Artikel 26, vijfde lid Artikel 27 Artikel 29 Artikel 30 Artikel 34
 
 #### *Algemeen deel* 
 
-1:10   1:12, derde en vierde lid   artikel 1:28, tweede en derde lid   1:58, tweede lid   1:58a, tweede lid   1:58b, tweede lid   1:58c, derde lid   1:59, tweede lid   1:67, eerste lid   1:74, eerste lid   1:76, zesde lid, aanhef en onderdeel a   1:77, eerste lid   
+1:10   1:12, vierde en vijfde lid   artikel 1:28, tweede en derde lid   1:58, tweede lid   1:58a, tweede lid   1:58b, tweede lid   1:58c, derde lid   1:59, tweede lid   1:67, eerste lid   1:74, eerste lid   1:76, zesde lid, aanhef en onderdeel a   1:77, eerste lid   
 
 #### *Deel Markttoegang financiële ondernemingen* 
 
@@ -10015,15 +10140,15 @@ Artikel 26, vijfde lid Artikel 27 Artikel 29 Artikel 30 Artikel 34
 
 #### *Deel Prudentieel toezicht financiële ondernemingen* 
 
-3:5, eerste en vierde lid   3:6, eerste en vierde lid   3:7, eerste en vierde lid   3:8   3:9, eerste lid   3:10, eerste tot en met derde lid   3:15, eerste en tweede lid   3:16, eerste tot en met derde lid   3:17, eerste en tweede lid   3:18, eerste tot en met derde lid   3:19, eerste en tweede lid   3:19a   3:20   3:20a   3:21, eerste en tweede lid   3:24   3:29, eerste tot en met derde lid   3:29a   3:29c, eerste lid   3:30, eerste lid   3:32   3:34, eerste en tweede lid   3:35   3:35a, eerste en tweede lid   3:36, eerste lid, tweede lid, onderdeel c, derde en zesde lid   3:37, eerste tot en met derde lid   3:38   3:38a   3:38b   3:39, eerste en tweede lid   3:40   3:41   3:42   3:43, tweede lid   3:44, eerste lid   3:47, eerste tot en met derde, vijfde en zesde lid   3:48   3:51   3:52   3:53, eerste tot en met derde en vijfde lid   3:54, derde lid   3:55, tweede lid   3:55a, eerste en tweede lid   3:57, eerste, tweede, vijfde en zevende lid   3:59, tweede lid   3:62, tweede lid   3:63, eerste tot en met derde lid   3:67, eerste tot en met vierde lid   3:68, eerste en derde lid   3:68a, eerste en tweede lid   3:69, eerste en tweede lid   3:70, eerste lid   3:71, eerste en tweede lid   3:72, eerste, derde tot en met zevende en negende lid   3:73   3:74, eerste en tweede lid   3:74a, eerste tot en met vierde lid   3:74b   3:75   3:76, eerste en tweede lid   3:77   3:78, eerste en tweede lid   3:81, eerste tot en met derde lid   3:82, eerste en tweede lid   3:83, eerste en tweede lid   3:86, eerste en tweede lid   3:87, eerste en tweede lid   3:88, eerste, tweede en vierde lid   3:89, eerste lid   3:95, eerste lid   3:96, eerste en vierde lid   3:99, eerste lid   3:103, eerste en tweede lid   3:104, eerste en derde lid   3:105, vierde lid   3:106, eerste lid   3:108, eerste tot en met derde lid   3:110, vierde en vijfde lid   3:111, derde lid   3:111a, eerste en tweede lid   3:111b, eerste lid   3:112, eerste lid   3:113, eerste en tweede lid   3:114, eerste lid   3:114a, eerste lid   3:116   3:119, eerste lid   3:120, eerste tot en met vijfde en zevende lid   3:124, tweede lid   3:125, eerste lid   3:126, eerste lid   3:129, eerste en tweede lid   3:131, eerste lid   3:132, eerste tot en met derde lid   3:135, eerste lid   3:136, eerste tot en met derde lid   3:137   3:138, eerste lid   3:139, eerste lid   3:141, eerste lid   3:143   3:144, eerste lid   3:145, eerste lid   3:146, eerste lid   3:148, eerste lid   3:151, derde lid   3:153   3:155, eerste en derde lid   3:156, zesde en tiende lid   3:158, derde en vierde lid   3:175, derde lid   3:196   3:259, eerste en tweede lid   3:262   3:263, eerste tot en met derde lid   3:264, eerste lid   3:267, derde en vierde lid   3:267a, eerste tot en met vierde lid   3:267b, eerste tot en met vierde lid   3:267c, eerste lid   3:269, eerste en tweede lid   3:271   3:272, eerste lid   3:273, eerste lid   3:277a, eerste lid   3:279, eerste en vierde lid   3:280, tweede tot en met vierde lid   3:280a, tweede lid   3:280b   3:284, tweede en derde lid   3:285, eerste en tweede lid   3:286, eerste en tweede lid   3:296, eerste, tweede tot en met vierde en achtste lid   3:297 eerste tot en met derde en vijfde lid   3:298 eerste tot en met derde en vijfde lid   3:299 eerste en derde lid   
+3:5, eerste en vierde lid   3:6, eerste en vierde lid   3:7, eerste en vierde lid   3:8   3:9, eerste lid   3:10, eerste tot en met derde lid   3:15, eerste en tweede lid   3:16, eerste tot en met derde lid   3:17, eerste en tweede lid   3:18, eerste tot en met derde lid   3:19, eerste en tweede lid   3:19a   3:20   3:20a   3:21, eerste en tweede lid   3:24   3:29, eerste tot en met derde lid   3:29a   3:29c, eerste lid   3:30, eerste lid   3:32   3:34, eerste en tweede lid   3:35   3:35a, eerste en tweede lid   3:36, eerste lid, tweede lid, onderdeel c, derde en zesde lid   3:37, eerste tot en met derde lid   3:38   3:38a   3:38b   3:39, eerste en tweede lid   3:40   3:41   3:42   3:43, tweede lid   3:44, eerste lid   3:47, eerste tot en met derde, vijfde en zesde lid   3:48   3:51   3:52   3:53, eerste tot en met derde en vijfde lid   3:54, derde lid   3:55, tweede lid   3:55a, eerste en tweede lid   3:57, eerste, tweede, vijfde en zevende lid   3:59, tweede lid   3:62, tweede lid   3:63, eerste tot en met derde lid   3:67, eerste tot en met vierde lid   3:68, eerste en derde lid   3:68a, eerste en tweede lid   3:69, eerste en tweede lid   3:70, eerste lid   3:71, eerste en tweede lid   3:72, eerste, derde tot en met zevende en negende lid   3:73   3:74, eerste en tweede lid   3:74a, eerste tot en met vierde lid   3:74b   3:75   3:76, eerste en tweede lid   3:77   3:78, eerste en tweede lid   3:81, eerste tot en met derde lid   3:82, eerste en tweede lid   3:83, eerste en tweede lid   3:86, eerste en tweede lid   3:87, eerste en tweede lid   3:88, eerste, tweede en vierde lid   3:89, eerste lid   3:95, eerste lid   3:96, eerste en vierde lid   3:99, eerste lid   3:103, eerste en tweede lid   3:104, eerste en derde lid   3:105, vierde lid   3:106, eerste lid   3:110, vierde en vijfde lid   3:111, derde lid   3:111a, eerste en tweede lid   3:111b, eerste lid   3:112, eerste lid   3:113, eerste en tweede lid   3:114, eerste lid   3:114a, eerste lid   3:116   3:119, eerste lid   3:120, eerste tot en met vijfde en zevende lid   3:124, tweede lid   3:125, eerste lid   3:126, eerste lid   3:129, eerste en tweede lid   3:131, eerste lid   3:132, eerste tot en met derde lid   3:135, eerste lid   3:136, eerste tot en met derde lid   3:137   3:138, eerste lid   3:139, eerste lid   3:141, eerste lid   3:143   3:144, eerste lid   3:145, eerste lid   3:146, eerste lid   3:148, eerste lid   3:151, derde lid   3:153   3:155, eerste en derde lid   3:156, zesde en tiende lid   3:158, derde en vierde lid   3:175, derde lid   3:196   3:259, eerste en tweede lid   3:262   3:263, eerste tot en met derde lid   3:264, eerste lid   3:267, derde en vierde lid   3:267a, eerste tot en met vierde lid   3:267b, eerste tot en met vierde lid   3:267c, eerste lid   3:269, eerste en tweede lid   3:271   3:272, eerste lid   3:273, eerste lid   3:277a, eerste lid   3:279, eerste en vierde lid   3:280, tweede tot en met vierde lid   3:280a, tweede lid   3:280b   3:284, tweede en derde lid   3:285, eerste en tweede lid   3:286, eerste en tweede lid   3:296, eerste, tweede tot en met vierde en achtste lid   3:297 eerste tot en met derde en vijfde lid   3:298 eerste tot en met derde en vijfde lid   3:299 eerste en derde lid   
 
 #### *Deel Gedragstoezicht financiële ondernemingen* 
 
-4:3, eerste en vierde lid   4:4, eerste lid   4:4a   4:5, tweede en derde lid   4:6, eerste en tweede lid   4:6a, eerste lid   4:9, eerste tot en met derde lid   4:10, eerste lid   4:11, eerste tot en met vierde lid   4:13, eerste en tweede lid   4:14, eerste tot en met derde lid   4:15, eerste en tweede lid   4:16, eerste tot en met derde lid   4:17, eerste en derde lid   4:18a, eerste en tweede lid   4:18b, tweede en derde lid   4:18c, derde lid   4:18d, eerste en tweede lid   4:18e, eerste en tweede lid   4:19, eerste tot en met vierde lid   4:20, eerste, derde en vierde lid   4:21   4:22, eerste en tweede lid   4:23, eerste tot en met derde lid   4:24, eerste tot en met derde en vijfde lid   4:25, eerste lid   4:25b   4:26, eerste tot en met vijfde lid   4:27, eerste, tweede en vierde lid   4:29, vierde lid   4:30a, eerste tot en met derde lid   4:31, eerste en tweede lid   4:32, eerste lid   4:33, eerste tot en met derde lid   4:34, eerste tot en met derde lid   4:35   4:39   4:40   4:41   4:42   4:43, eerste en tweede lid   4:44, eerste en tweede lid   4:46, eerste tot en met vierde lid   4:46a   4:47, eerste tot en met vierde lid   4:48, eerste en tweede lid   4:49, eerste tot en met derde lid   4:50, eerste en tweede lid   4:51, eerste tot en met vierde lid   4:52, eerste tot en met derde lid   4:52a   4:53   4:55   4:56, eerste lid   4:57   4:58   4:59, eerste en tweede lid   4:60, eerste tot en met vijfde lid   4:61, eerste lid   4:62, eerste en tweede lid   4:63, eerste en tweede lid   4:65, eerste tot en met derde lid   4:66   4:67, eerste lid   4:68, eerste lid   4:69, eerste lid   4:70, eerste tot en met zevende lid   4:71, eerste tot en met vijfde lid   4:71a   4:71b, eerste tot en met derde lid   4:71c   4:71d, eerste tot en met zesde lid   4:72, eerste en derde lid   4:73, eerste en derde lid   4:74, eerste en tweede lid   4:75, eerste tot en met derde lid   4:76, eerste en derde lid   4:77, eerste tot en met vierde lid   4:78, eerste en tweede lid   4:79, eerste lid   4:83, eerste lid   4:84, eerste en tweede lid   4:85, eerste en derde tot en met vijfde lid   4:86   4:87, eerste tot en met vierde lid   4:88, eerste tot en met vierde lid   4:89, eerste en tweede lid   4:89a, eerste en tweede lid   4:90, eerste en tweede lid   4:90a, eerste tot en met vijfde lid   4:90b, eerste tot en met tiende lid   4:90c, eerste tot en met vierde lid   4:90d, eerste, tweede en vierde lid   4:90e, eerste tot en met vijfde en achtste lid   4:91a, eerste, derde tot en met zevende en negende lid   4:91b, eerste tot en met vierde lid   4:91c, eerste en tweede lid   4:91d, eerste en tweede lid   4:91g, eerste tot en met vierde lid   4:91i   4:91j, eerste, tweede en vijfde lid   4:91k, eerste en tweede lid   4:91l, eerste en tweede lid   4:93, eerste en tweede lid   4:94, eerste tot en met derde lid   4:95, eerste tot en met derde lid   4:96, eerste en tweede lid   4:97, eerste tot en met derde lid   4:99, eerste en tweede lid   4:100, eerste tot en met derde lid   4:100a, eerste en tweede lid   4:100b, eerste tot en met derde lid   4:100c   4:100d, eerste en tweede lid   4:103, eerste en vierde lid   4:104, eerste en derde lid   
+4:3, eerste en vierde lid   4:4, eerste lid   4:4a   4:5, tweede en derde lid   4:6, eerste en tweede lid   4:6a, eerste lid   4:9, eerste tot en met derde lid   4:10, eerste lid   4:11, eerste tot en met vierde lid   4:13, eerste en tweede lid   4:14, eerste tot en met derde lid   4:15, eerste en tweede lid   4:16, eerste tot en met derde lid   4:17, eerste en derde lid   4:18a, eerste en tweede lid   4:18b, tweede en derde lid   4:18c, derde lid   4:18d, eerste en tweede lid   4:18e, eerste en tweede lid   4:19, eerste tot en met vierde lid   4:20, eerste, derde en vierde lid   4:21   4:22, eerste en tweede lid   4:23, eerste tot en met derde lid   4:24, eerste tot en met derde en vijfde lid   4:25, eerste lid   4:25b   4:26, eerste tot en met zesde lid   4:27, eerste, tweede en vierde lid   4:29, vierde lid   4:30a, eerste tot en met derde lid   4:31, eerste en tweede lid   4:32, eerste lid   4:33, eerste tot en met derde lid   4:34, eerste tot en met derde lid   4:35   4:39   4:40   4:41   4:42   4:43, eerste en tweede lid   4:44, eerste en tweede lid   4:46, eerste tot en met vierde lid   4:46a   4:47, eerste tot en met vijfde lid   4:48, eerste en tweede lid   4:49, eerste tot en met derde lid   4:50, eerste en tweede lid   4:51, eerste tot en met vierde lid   4:52, eerste tot en met derde lid   4:52a   4:52b   4:53   4:55   4:55a   4:56, eerste lid   4:57   4:58   4:59, eerste en tweede lid   4:60, eerste tot en met vijfde lid   4:61, eerste lid   4:62, eerste en tweede lid   4:63, eerste en tweede lid   4:65, eerste tot en met derde lid   4:66   4:67, eerste lid   4:68, eerste lid   4:69, eerste lid   4:70, eerste tot en met zevende lid   4:71, eerste tot en met vijfde lid   4:71a   4:71b, eerste tot en met derde lid   4:71c   4:71d, eerste tot en met zesde lid   4:71e   4:72, eerste en derde lid   4:73, eerste en derde lid   4:74, eerste en tweede lid   4:75, eerste tot en met derde lid   4:76, eerste en derde lid   4:77, eerste tot en met vierde lid   4:78, eerste en tweede lid   4:79, eerste lid   4:83, eerste lid   4:84, eerste en tweede lid   4:85, eerste en derde tot en met vijfde lid   4:86   4:87, eerste tot en met derde lid   4:88, eerste tot en met vierde lid   4:89, eerste en tweede lid   4:89a, eerste en tweede lid   4:90, eerste en tweede lid   4:90a, eerste tot en met vijfde lid   4:90b, eerste tot en met tiende lid   4:90c, eerste tot en met vierde lid   4:90d, eerste, tweede en vierde lid   4:90e, eerste tot en met vijfde en achtste lid   4:91a, eerste, derde tot en met zevende en negende lid   4:91b, eerste tot en met vierde lid   4:91c, eerste en tweede lid   4:91d, eerste en tweede lid   4:91g, eerste tot en met vierde lid   4:91i   4:91j, eerste, tweede en vijfde lid   4:91k, eerste en tweede lid   4:91l, eerste en tweede lid   4:93, eerste en tweede lid   4:94, eerste tot en met derde lid   4:95, eerste tot en met derde lid   4:96, eerste en tweede lid   4:97, eerste tot en met derde lid   4:99, eerste en tweede lid   4:100, eerste tot en met derde lid   4:100a, eerste en tweede lid   4:100b, eerste tot en met derde lid   4:100c   4:100d, eerste en tweede lid   4:103, eerste en vierde lid   4:104, eerste en derde lid   
 
 #### *Deel Gedragstoezicht financiële markten* 
 
-5:2   5:16, tweede lid   5:18, tweede lid   5:20, eerste tot en met vierde lid   5:21, eerste tot en met zevende lid   5:23, eerste en vijfde lid   5:24, eerste, derde en vierde lid   5:25c, eerste lid   5:25d, eerste en derde lid   5:25e   5:25f   5:25h   5:25i   5:25m, eerste, zesde en achtste lid   5:25n   5:25p   5:25q   5:25v, derde lid   5:25w   5:26, eerste lid   5:27, derde en vierde lid   5:29, eerste, tweede, vierde en vijfde lid   5:30   5:31, eerste, derde en vierde lid   5:32, eerste tot en met vierde lid   5:32a, eerste tot en met derde lid   5:32b, eerste tot en met derde en vijfde lid   5:32c   5:32d, eerste en zevende lid   5:32e   5:32f, eerste lid   5:32g, eerste en tweede lid   5:32j, eerste tot en met derde lid   5:32k, eerste, tweede en vierde lid   5:32l, eerste tot en met derde lid   5:32m   5:34, eerste en tweede lid   5:35, eerste tot en met vierde lid   5:36   5:37   5:38, eerste en tweede lid   5:39, eerste lid   5:40   5:41, eerste en tweede lid   5:42   5:43, eerste en tweede lid   5:44   5:48, derde tot en met achtste en tiende lid   5:50   5:51, eerste lid   5:56, eerste, derde en zevende lid   5:57, eerste en derde lid   5:58, eerste lid   5:59, eerste lid   5:60, eerste en derde lid   5:61, eerste lid   5:62 eerste en derde lid   5:63, derde lid   5:64, eerste en derde tot en met zevende lid   5:65   5:68, eerste lid   5:70, eerste lid  5:74, eerste, derde en vierde lid, 5:76, tweede lid, 5:78,  5:79   5:80, tweede lid   5:80a, eerste en vierde lid   5:86, eerste lid   5:88, eerste en tweede lid   
+5:2   5:16, tweede lid   5:18, tweede lid   5:20, eerste tot en met vijfde lid   5:21, eerste tot en met zevende lid   5:23, eerste en vijfde lid   5:24, eerste, derde en vierde lid   5:25c, eerste lid   5:25d, eerste en derde lid   5:25e   5:25f   5:25h   5:25i   5:25m, eerste tot en met derde lid, zesde en achtste lid   5:25n   5:25p   5:25q   5:25v, derde lid   5:25w   5:26, eerste lid   5:27, derde en vierde lid   5:29, eerste, tweede, vierde en vijfde lid   5:30   5:31, eerste, derde en vierde lid   5:32, eerste tot en met vierde lid   5:32a, eerste tot en met derde lid   5:32b, eerste tot en met derde en vijfde lid   5:32c   5:32d, eerste en zevende lid   5:32e   5:32f, eerste lid   5:32g, eerste en tweede lid   5:32j, eerste tot en met derde lid   5:32k, eerste, tweede en vierde lid   5:32l, eerste tot en met derde lid   5:32m   5:34, eerste en tweede lid   5:35, eerste tot en met vierde lid   5:36   5:37   5:38, eerste en tweede lid   5:39, eerste lid   5:40   5:41, eerste en tweede lid   5:42   5:43, eerste en tweede lid   5:44   5:48, derde tot en met achtste en tiende lid   5:50   5:51, eerste lid   5:56, eerste, derde en zevende lid   5:57, eerste en derde lid   5:58, eerste lid   5:59, eerste en tweede lid   5:60, eerste en derde lid   5:61, eerste lid   5:62 eerste en derde lid   5:63, derde lid   5:64, eerste en derde tot en met zevende lid   5:65   5:68, eerste lid   5:70, eerste lid  5:74, eerste, derde en vierde lid, 5:76, tweede lid, 5:78,  5:79   5:80, tweede lid   5:80a, eerste en vierde lid   5:86, eerste en tweede lid   5:88, eerste en tweede lid   
 
 #### *Prospectusverordening* 
 
@@ -10032,4 +10157,12 @@ Artikel 26, vijfde lid Artikel 27 Artikel 29 Artikel 30 Artikel 34
 #### *uitvoeringsverordening MiFID* 
 
 7 8, eerste en tweede lid 17, eerste lid 24 27, eerste lid 29, eerste tot en met vijfde lid 36 37  
+
+#### *Verordening grensoverschrijdende betalingen* 
+
+3, eerste en tweede lid 4, eerste en tweede lid 8, eerste, derde en vierde lid  
+
+#### *Verordening ratingbureaus* 
+
+4, eerste, derde en vierde lid 5, eerste lid 6, eerste en tweede lid 7, eerste tot en met vijfde lid 8, eerste tot en met zesde lid 9.  
 

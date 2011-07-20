@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken van 14 juli 2006, nr. WJZ 6049929;
 
-Gelet op richtlijn nr. 71/316/EEG van de Raad van de Europese Gemeenschappen van 26 juli 1971 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten betreffende voor meetmiddelen en metrologische controlemethoden geldende algemene bepalingen (PbEG L 202) en de bijzondere richtlijnen inzake meetmiddelen 75/107/EEG (PbEG 1975 L 42), 71/349/EEG (PbEG 1971 L 239), 71/317/EEG (PbEG 1971 L 202), 74/148/EEG (PbEG 1974 L 84), 86/217/EEG (PbEG 1986 L 152), 71/347/EEG (PbEG 1971 L 239), 76/765/EEG (PbEG 1976 L 262), en 75/33/EEG (PbEG 1975 L 14) en de [artikelen 5](../../../../wet/metrologiewet/BWBR0019517/README.md), [9](../../../../wet/metrologiewet/BWBR0019517/README.md), [26](../../../../wet/metrologiewet/BWBR0019517/README.md), [36](../../../../wet/metrologiewet/BWBR0019517/README.md) en [51 van de Metrologiewet](../../../../wet/metrologiewet/BWBR0019517/README.md), [artikel 26, onder a en f, van de Wet op de geneesmiddelenvoorziening](../../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md), [artikel 3, eerste lid, van de Wet op de medische hulpmiddelen](../../../../wet/wet/op/de/medische/hulpmiddelen/BWBR0002697/README.md) en de [artikelen 8, eerste lid, onder c](../../../../wet/warenwet/BWBR0001969/README.md), en [13, onder a, van de Warenwet](../../../../wet/warenwet/BWBR0001969/README.md);
+Gelet op richtlijn nr. 71/316/EEG van de Raad van de Europese Gemeenschappen van 26 juli 1971 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten betreffende voor meetmiddelen en metrologische controlemethoden geldende algemene bepalingen (PbEG L 202) en de bijzondere richtlijnen inzake meetmiddelen 75/107/EEG (PbEG 1975 L 42), 71/349/EEG (PbEG 1971 L 239), 71/317/EEG (PbEG 1971 L 202), 74/148/EEG (PbEG 1974 L 84), 86/217/EEG (PbEG 1986 L 152), 71/347/EEG (PbEG 1971 L 239), 76/765/EEG (PbEG 1976 L 262), en 75/33/EEG (PbEG 1975 L 14) en de artikelen 5, 9, 26, 36 en 51 van de Metrologiewet, artikel 26, onder a en f, van de Wet op de geneesmiddelenvoorziening, artikel 3, eerste lid, van de Wet op de medische hulpmiddelen en de artikelen 8, eerste lid, onder c, en 13, onder a, van de Warenwet;
 
 De Raad van State gehoord (advies van 7 september 2006, nr. W10.06.0329/II);
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. wet: [Metrologiewet](../../../../wet/metrologiewet/BWBR0019517/README.md);  
+a. wet: Metrologiewet;  
 
 b. richtlijn meetinstrumenten: richtlijn nr. 2004/22/EG van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004 betreffende meetinstrumenten (PbEU L 135);  
 
@@ -28,29 +28,27 @@ c. *kaderrichtlijn:* richtlijn nr. 2009/34/EG van het Europees Parlement en de 
 
 d. richtlijn inzake tapmaten: richtlijn 75/107/EEG van de Raad van de Europese Gemeenschappen van 19 december 1974 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake flessen gebruikt als tapmaat (PbEG L 42);  
 
-e. richtlijn inzake scheepstanks: richtlijn 71/349/EEG van de Raad van de Europese Gemeenschappen van 12 oktober 1971 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake de inhoudsbepaling van scheepstanks (PbEG L 239);  
+e. richtlijn inzake gewichten voor gewone weging: richtlijn 71/317/EEG van de Raad van de Europese Gemeenschappen van 26 juli 1971 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake blikvormige gewichten voor gewone weging van 5 tot 50 kilogram en cilindrische gewichten voor gewone weging van 1 gram tot 10 kilogram (PbEG L 202);  
 
-f. richtlijn inzake gewichten voor gewone weging: richtlijn 71/317/EEG van de Raad van de Europese Gemeenschappen van 26 juli 1971 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake blikvormige gewichten voor gewone weging van 5 tot 50 kilogram en cilindrische gewichten voor gewone weging van 1 gram tot 10 kilogram (PbEG L 202);  
+f. richtlijn inzake precisiegewichten: richtlijn 74/148/EEG van de Raad van de Europese Gemeenschappen van 4 maart 1974 betreffende de onderlinge aanpassing der wetgevingen van de Lid-Staten inzake gewichten van 1 mg tot en met 50 kg die een grotere nauwkeurigheid hebben dan de gewichten van de klasse gewone weging (PbEG L 84);  
 
-g. richtlijn inzake precisiegewichten: richtlijn 74/148/EEG van de Raad van de Europese Gemeenschappen van 4 maart 1974 betreffende de onderlinge aanpassing der wetgevingen van de Lid-Staten inzake gewichten van 1 mg tot en met 50 kg die een grotere nauwkeurigheid hebben dan de gewichten van de klasse gewone weging (PbEG L 84);  
+g. richtlijn inzake manometers: richtlijn 86/217/EEG van de Raad van de Europese Gemeenschappen van 26 mei 1986 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake manometers voor luchtbanden van automobielen (PbEG L 152);  
 
-h. richtlijn inzake manometers: richtlijn 86/217/EEG van de Raad van de Europese Gemeenschappen van 26 mei 1986 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake manometers voor luchtbanden van automobielen (PbEG L 152);  
+h. richtlijn inzake de meting van het natuurgewicht van granen: richtlijn 71/347/EEG van de Raad van de Europese Gemeenschappen van 12 oktober 1971 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake de meting van het natuurgewicht van granen (PbEG L 239);  
 
-i. richtlijn inzake de meting van het natuurgewicht van granen: richtlijn 71/347/EEG van de Raad van de Europese Gemeenschappen van 12 oktober 1971 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake de meting van het natuurgewicht van granen (PbEG L 239);  
+i. richtlijn inzake alcoholmeters en areometers: richtlijn 76/765/EEG van de Raad van de Europese Gemeenschappen van 27 juli 1976 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake alcoholmeters en areometers voor alcohol (PbEG L 262);  
 
-j. richtlijn inzake alcoholmeters en areometers: richtlijn 76/765/EEG van de Raad van de Europese Gemeenschappen van 27 juli 1976 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake alcoholmeters en areometers voor alcohol (PbEG L 262);  
+j. richtlijn inzake koudwatermeters: richtlijn 75/33/EEG van de Raad van de Europese Gemeenschappen van 17 december 1974 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake koudwatermeters (PbEG L 14);  
 
-k. richtlijn inzake koudwatermeters: richtlijn 75/33/EEG van de Raad van de Europese Gemeenschappen van 17 december 1974 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake koudwatermeters (PbEG L 14);  
+k. bijzondere richtlijn: richtlijn als bedoeld in de onderdelen d tot en met j;  
 
-l. bijzondere richtlijn: richtlijn als bedoeld in de onderdelen d tot en met k;  
+l. fabrikant: de natuurlijke persoon of de rechtspersoon die verantwoordelijk is voor de overeenstemming van het meetinstrument met de bij of krachtens de wet gestelde eisen aan het instrument voordat het in de handel wordt gebracht of in gebruik wordt genomen;  
 
-m. fabrikant: de natuurlijke persoon of de rechtspersoon die verantwoordelijk is voor de overeenstemming van het meetinstrument met de bij of krachtens de wet gestelde eisen aan het instrument voordat het in de handel wordt gebracht of in gebruik wordt genomen;  
+m beoordelingsprocedurebijlage: bijlage B, D, E, F of G bij de richtlijn meetinstrumenten;  
 
-n beoordelingsprocedurebijlage: bijlage B, D, E, F of G bij de richtlijn meetinstrumenten;  
+n. EG-ijkmarkering: markering als bedoeld in de artikelen 8 en 10 van de kaderrichtlijn, het teken, bedoeld in artikel 11 van de kaderrichtlijn en in de bijzondere richtlijnen opgenomen markeringen;  
 
-o. EG-ijkmarkering: markering als bedoeld in de artikelen 8 en 10 van de kaderrichtlijn, het teken, bedoeld in artikel 11 van de kaderrichtlijn en in de bijzondere richtlijnen opgenomen markeringen;  
-
-p. Nederlandse metrologische markering: markering als bedoeld in artikel 18.    
+o. Nederlandse metrologische markering: markering als bedoeld in artikel 18.    
 
 ### Hoofdstuk  2  
 
@@ -58,7 +56,7 @@ p. Nederlandse metrologische markering: markering als bedoeld in artikel 18.
 
 ### Artikel  2  
 
-Een meettaak ten behoeve van een specifieke toepassing als bedoeld in [artikel 5, eerste lid, van de wet](../../../../wet/metrologiewet/BWBR0019517/README.md) is het 
+Een meettaak ten behoeve van een specifieke toepassing als bedoeld in artikel 5, eerste lid, van de wet is het 
 
 a. bij of in verband met het drijven van handel tussen in verschillende lidstaten van de Europese Unie of in andere Staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte dan wel in Staten waarmee de Europese Unie een overeenkomst inzake wederzijdse erkenning van de overeenstemmingsbeoordeling heeft gesloten, gevestigde kopers en verkopers bepalen van het EEG-natuurgewicht van granen, zoals omschreven in artikel 2, tweede lid, van de richtlijn inzake de meting van het natuurgewicht van granen;  
 
@@ -66,7 +64,7 @@ b. bij het drijven van handel en bij levering uit hoofde van beroep of bedrijf b
 
 ### Artikel  3  
 
-Een meettaak ten behoeve van een specifieke toepassing als bedoeld in [artikel 5, eerste lid, van de wet](../../../../wet/metrologiewet/BWBR0019517/README.md) is het bij het drijven van handel, bij levering uit hoofde van beroep of bedrijf en bij het vaststellen van belastingen of van andere heffingen 
+Een meettaak ten behoeve van een specifieke toepassing als bedoeld in artikel 5, eerste lid, van de wet is het bij het drijven van handel, bij levering uit hoofde van beroep of bedrijf en bij het vaststellen van belastingen of van andere heffingen 
 
 a. meten van een hoeveelheid vloeistof in een meetreservoir, anders dan een scheepstank;  
 
@@ -105,19 +103,17 @@ e. brandstofmeetinstallaties met een in artikel 3, onderdeel d, bedoelde taak.
 
 ### Artikel  6  
 
-1.  Meetinstrumenten als bedoeld in de onderdelen a tot en met f voldoen ten behoeve van de verkrijging van een EG-ijkmarkering aan de toepasselijke in de bij het meetinstrument vermelde bijzondere richtlijn gestelde eisen: 
+1.  Meetinstrumenten als bedoeld in de onderdelen a tot en met e voldoen ten behoeve van de verkrijging van een EG-ijkmarkering aan de toepasselijke in de bij het meetinstrument vermelde bijzondere richtlijn gestelde eisen: 
 
-a. scheepstanks: richtlijn inzake scheepstanks;  
+a. gewichten voor gewone weging: richtlijn inzake gewichten voor gewone weging;  
 
-b. gewichten voor gewone weging: richtlijn inzake gewichten voor gewone weging;  
+b. precisiegewichten van 1 milligram tot en met 50 kilogram: richtlijn inzake precisiegewichten;  
 
-c. precisiegewichten van 1 milligram tot en met 50 kilogram: richtlijn inzake precisiegewichten;  
+c. manometers voor luchtbanden van automobielen: richtlijn inzake manometers;  
 
-d. manometers voor luchtbanden van automobielen: richtlijn inzake manometers;  
+d. koudwatermeters voor ander dan huishoudelijk, handels- en lichtindustrieel gebruik: richtlijn inzake koudwatermeters;  
 
-e. koudwatermeters voor ander dan huishoudelijk, handels- en lichtindustrieel gebruik: richtlijn inzake koudwatermeters;  
-
-f. tapmaten: richtlijn inzake tapmaten.     
+e. tapmaten: richtlijn inzake tapmaten.     
 2.  Het is verboden de in het eerste lid bedoelde meetinstrumenten, voorzien van een EG-ijkmarkering, in de handel te brengen, in gebruik te nemen of verder te verhandelen, indien zij niet aan de in het eerste lid bedoelde eisen voldoen.   
 
 ### Artikel  7  
@@ -168,16 +164,14 @@ De meetinstrumenten, bedoeld in artikel 5, ondergaan naar keuze van de fabrikant
 
 a. bij de toepassing van bijlage I van de richtlijn inzake tapmaten, aangemerkt als bevoegde dienst,  
 
-b. bij de toepassing van artikel 1, onderscheidenlijk de bijlagen II en III van de richtlijn inzake scheepstanks, aangemerkt als Lid-Staat, onderscheidenlijk bevoegde instantie,  
+b. bij de toepassing van de bijlage van de richtlijn inzake manometers, aangemerkt als bevoegde nationale autoriteit en  
 
-c. bij de toepassing van de bijlage van de richtlijn inzake manometers, aangemerkt als bevoegde nationale autoriteit en  
-
-d. bij de toepassing van de bijlage van de richtlijn inzake koudwatermeters, aangemerkt als metrologische dienst.     
+c. bij de toepassing van de bijlage van de richtlijn inzake koudwatermeters, aangemerkt als metrologische dienst.     
 2.  De aangewezen instantie draagt met inachtneming van de kaderrichtlijn en de bijzondere richtlijnen zorg voor de werkzaamheden die ingevolge het eerste lid voortvloeien uit haar taak bij de overeenstemmingsbeoordelingen.   
 
 ### Artikel  16  
 
-De keuring, bedoeld in artikel 11, wordt verricht door een aangewezen instantie of door een persoon die beschikt over een erkenning als bedoeld in [artikel 11 van de wet](../../../../wet/metrologiewet/BWBR0019517/README.md).  
+De keuring, bedoeld in artikel 11, wordt verricht door een aangewezen instantie of door een persoon die beschikt over een erkenning als bedoeld in artikel 11 van de wet.  
 
 ### §  3  
 
@@ -190,15 +184,15 @@ De keuring, bedoeld in artikel 11, wordt verricht door een aangewezen instantie 
 
 ### Artikel  18  
 
-1.  De overeenstemming van een in de handel te brengen of in gebruik te nemen meetinstrument als bedoeld in artikel 5 met de bij of krachtens de [wet](../../../../wet/metrologiewet/BWBR0019517/README.md) gestelde eisen blijkt uit de bij ministeriële regeling vast te stellen Nederlandse metrologische markering.   
+1.  De overeenstemming van een in de handel te brengen of in gebruik te nemen meetinstrument als bedoeld in artikel 5 met de bij of krachtens de wet gestelde eisen blijkt uit de bij ministeriële regeling vast te stellen Nederlandse metrologische markering.   
 2.  De in het eerste lid bedoelde markering wordt duidelijk zichtbaar, gemakkelijk leesbaar en onuitwisbaar op het meetinstrument aangebracht. Wanneer een meetinstrument te klein of te gevoelig is om de markering daar op aan te brengen, wordt de markering aangebracht op de eventuele verpakking en op de documenten die bij het meetinstrument worden gevoegd.   
 3.  Op de meetinstrumenten mogen andere markeringen worden aangebracht mits de zichtbaarheid en leesbaarheid van de Nederlandse metrologische markering niet wordt verminderd.   
 4.  De in het eerste lid bedoelde markering wordt aangebracht door de fabrikant of onder zijn verantwoordelijkheid.   
 
 ### Artikel  19  
 
-1.  De overeenstemming van een in gebruik genomen geregeld meetinstrument dat ingevolge [artikel 7 van de wet](../../../../wet/metrologiewet/BWBR0019517/README.md) een overeenstemmingsbeoordeling heeft ondergaan, blijkt uit een merkteken waarvan het model bij ministeriële regeling wordt vastgesteld. Bij ministeriële regeling kunnen tevens regels worden gesteld omtrent de plaats en de wijze van aanbrengen van het merkteken.   
-2.  Het in het eerste lid bedoelde merkteken wordt aangebracht door een aangewezen instantie of een persoon die beschikt over een erkenning als bedoeld in [artikel 11 van de wet](../../../../wet/metrologiewet/BWBR0019517/README.md).   
+1.  De overeenstemming van een in gebruik genomen geregeld meetinstrument dat ingevolge artikel 7 van de wet een overeenstemmingsbeoordeling heeft ondergaan, blijkt uit een merkteken waarvan het model bij ministeriële regeling wordt vastgesteld. Bij ministeriële regeling kunnen tevens regels worden gesteld omtrent de plaats en de wijze van aanbrengen van het merkteken.   
+2.  Het in het eerste lid bedoelde merkteken wordt aangebracht door een aangewezen instantie of een persoon die beschikt over een erkenning als bedoeld in artikel 11 van de wet.   
 
 ### Hoofdstuk  4  
 
@@ -221,13 +215,17 @@ Bij ministeriële regeling kunnen regels worden gesteld ten aanzien van een EG-m
 
 Bij ministeriële regeling kunnen ten aanzien van de toepassing van de kaderrichtlijn, de bijzondere richtlijnen en van de beoordelingsprocedurebijlagen nadere regels worden gesteld.  
 
+### Artikel  22a  
+
+Een wijziging van de kaderrichtlijn of van een bijzondere richtlijn gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.  
+
 ### §  2  
 
 ####Overgangsbepaling
 
 ### Artikel  23  
 
-Indien [artikel 44 van de wet](../../../../wet/metrologiewet/BWBR0019517/README.md) nog niet in werking is getreden op het tijdstip waarop [artikel 5 van de wet](../../../../wet/metrologiewet/BWBR0019517/README.md) en een of meer artikelen van dit besluit of van het [Meetinstrumentenbesluit I](../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md) in werking treden, kunnen bij ministeriële regeling nadere regels worden gesteld ten behoeve van de afstemming van de taken, rechten en verplichtingen die uit de bij of krachtens de [wet](../../../../wet/metrologiewet/BWBR0019517/README.md) en de IJkwet gestelde regels voortvloeien.  
+Indien artikel 44 van de wet nog niet in werking is getreden op het tijdstip waarop artikel 5 van de wet en een of meer artikelen van dit besluit of van het Meetinstrumentenbesluit I in werking treden, kunnen bij ministeriële regeling nadere regels worden gesteld ten behoeve van de afstemming van de taken, rechten en verplichtingen die uit de bij of krachtens de wet en de IJkwet gestelde regels voortvloeien.  
 
 ### §  3  
 

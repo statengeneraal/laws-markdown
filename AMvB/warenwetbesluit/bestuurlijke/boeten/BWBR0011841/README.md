@@ -112,6 +112,7 @@ vervallen   |
 |  *C-42*   |  [Warenwetbesluit tatoeagekleurstoffen](../../../../../AMvB/warenwetbesluit/tatoeagekleurstoffen/BWBR0015471/README.md)   |
 |  *C-43*   |  [Warenwetbesluit tatoeëren en piercen](../../../../../AMvB/warenwetbesluit/tatoeëren/en/piercen/BWBR0021605/README.md)   |
 |  *C-44*   |  [Warenwetregeling kinderveiligheid aanstekers](../../../../../ministeriele-regeling/tijdelijke/warenwetregeling/kinderveiligheid/aanstekers/(beschikking/etc/BWBR0021860/README.md)   |
+|  *C-45*   |  [Warenwetbesluit Lucky Bamboo](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md)   |
 | D  | Overtredingen van Warenwetbesluiten en -regelingen betrekking hebbend op levensmiddelen  |
 | --- |  *Verpakking en aanduiding*   |
 |  *D-1*   | Voorwaarden gebruik aanduidingen «ongezouten» en« voor natriumarm dieet» voor boter  |
@@ -252,6 +253,7 @@ vervallen   |
 | B-1.1.3  |  [art. 2 lid 2](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md)   | € 795,–  | € 1590,–  |
 | B-1.2.1  |  [art. 2a lid 1](../../../../../ministeriele-regeling/warenwetregeling/kaaskorstbedekkingsmiddelen/BWBR0007887/README.md)   | € 525,–  | €  1050,–  |
 | B-1.2.2  |  [art. 2a lid 2](../../../../../ministeriele-regeling/warenwetregeling/kaaskorstbedekkingsmiddelen/BWBR0007887/README.md)   | € 525,–  | €  1050,–  |
+| B-1.2.3  |  [art. 2a lid 3](../../../../../AMvB/warenwetbesluit/algemene/productveiligheid/BWBR0006158/README.md)   | € 525,–  | € 1050,–  |
 |  *B-2*   |  *Wijzigingswet 1988 Warenwet*   |  [ *Hoeveelheidsaanduidingenbesluit (Warenwet)* ](../../../../../AMvB/hoeveelheidsaanduidingenbesluit/(warenwet)/BWBR0003310/README.md)   | --- | --- |
 | B-2.1  | art. II lid 2 j°  |  [art. 2 lid 1](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md)   | € 525,–  | € 1050,–  |
 | B-2.2  | art. II lid 2 j°  |  [art. 3](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md)   | € 525,–  | € 1050,–  |
@@ -446,6 +448,9 @@ vervallen   |
 | C-24.4.1  |  [art. 2 lid 5](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/additieven/met/uitzondering/van/kleurstoffen/etc/BWBR0008245/README.md)   | € 525,–  | € 1050,–  |
 | C-24.5.1  |  [art. 6 lid 1](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/kleurstoffen/in/levensmiddelen/BWBR0007567/README.md)   | --- | € 525,–  | € 1050,–  |
 | C-24.6.1  |  [art. 6 lid 5](../../../../../AMvB/warenwetbesluit/zoetstoffen/BWBR0004652/README.md)   | --- | € 525,–  | € 1050,–  |
+|  *C-24a*   |  [Warenwetbesluit cosmetische producten 2011](../../../../../AMvB/warenwetbesluit/cosmetische/producten/2011/BWBR0029746/README.md)   | --- | --- |
+| C-24a.1.1  | art. 2, lid 1, onder k, 1°  | € 525,–  | € 1050,–  |
+| C-24a.1.2  | art. 2, lid 1, onder l  | € 525,–  | € 1050,–  |
 |  *C-25*   |  [Warenwetregeling nadere eisen cosmetische producten](../../../../../ministeriele-regeling/warenwetregeling/nadere/eisen/cosmetische/producten/BWBR0008502/README.md)   | --- | --- |
 | --- | >>C-24.1.6 e.v.  | --- | --- | --- |
 |  *C-26*   |  [Warenwetbesluit machines](../../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md)   | --- | --- |
@@ -492,24 +497,22 @@ vervallen   |
 | C-29.2.8  | [art. 2, lid 2](../../../../../AMvB/besluit/containers/BWBR0003584/README.md), j° [art. 6, lid 1](../../../../../AMvB/besluit/explosieveilig/materieel/BWBR0007497/README.md)  | € 525,–  | € 1050,–  |
 | C-29.2.9  | [art. 2, lid 2](../../../../../AMvB/besluit/containers/BWBR0003584/README.md), j° [art. 6, lid 2](../../../../../AMvB/besluit/explosieveilig/materieel/BWBR0007497/README.md)  | € 525,–  | € 1050,–  |
 | C-29.2.10  | [art. 2, lid 2](../../../../../AMvB/besluit/containers/BWBR0003584/README.md), j° [art. 6c](../../../../../AMvB/warenwetbesluit/persoonlijke/beschermingsmiddelen/BWBR0005570/README.md)  | € 525,–  | € 1050,–  |
-|  *C-30*   |  [Warenwetbesluit Speelgoed](../../../../../AMvB/warenwetbesluit/speelgoed/BWBR0005094/README.md)   | --- | --- |
-| C-30.1.1  | [art. 2 lid 1](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 3 lid 1](../../../../../AMvB/glasartikelenbesluit/(warenwet)/BWBR0002841/README.md)  | € 525,–  | € 1050,–  |
-| C-30.1.2  | [art. 2 lid 1](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 3 lid 2](../../../../../AMvB/glasartikelenbesluit/(warenwet)/BWBR0002841/README.md)  | € 525,–  | € 1050,–  |
-| C-30.2.1  | [art. 2 lid 2](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 3](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md) lid 1  | € 525,–  | € 1050,–  |
-| C-30.2.2  | [art. 2 lid 2](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 3 lid 2](../../../../../AMvB/glasartikelenbesluit/(warenwet)/BWBR0002841/README.md)  | € 525,–  | € 1050,–  |
-| C-30.2.3  | [art. 2 lid 2](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 4 lid 1](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md)  | € 525,–  | € 1050,–  |
-| C-30.2.4  | [art. 2 lid 2](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 4 lid 2, onder a](../../../../../AMvB/warenwetbesluit/speelgoed/BWBR0005094/README.md)  | --- | € 525,–  | € 1050,–  |
-| C-30.2.5  | [art. 2 lid 2](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 4 lid 2, onder b](../../../../../AMvB/warenwetbesluit/speelgoed/BWBR0005094/README.md)  | --- | € 525,–  | € 1050,–  |
-| C-30.2.6  | [art. 2 lid 2](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 4 lid 2, onder b](../../../../../AMvB/warenwetbesluit/speelgoed/BWBR0005094/README.md) j° [art.7, lid 1](../../../../../AMvB/warenwetbesluit/speelgoed/BWBR0005094/README.md)  | --- | € 525,–  | € 1050,–  |
-| C-30.2.7  | [art. 2 lid 2](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 4 lid 5](../../../../../AMvB/warenwetbesluit/drukverpakkingen/BWBR0007965/README.md)  | --- | € 525,–  | € 1050,–  |
-| C-30.2.8  | [art. 2 lid 2](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 5 lid 1](../../../../../AMvB/glasartikelenbesluit/(warenwet)/BWBR0002841/README.md)  | € 525,–  | € 1050,–  |
-| C-30.2.9  | [art. 2 lid 2](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 6 lid 1](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/kleurstoffen/in/levensmiddelen/BWBR0007567/README.md)  | € 525,–  | € 1050,–  |
-| C-30.2.10  | [art. 2 lid 2](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 6 lid 3](../../../../../AMvB/warenwetbesluit/zoetstoffen/BWBR0004652/README.md)  | € 525,–  | € 1050,–  |
-| --- | --- |  [Warenwetregeling CE-markering voor speelgoed](../../../../../ministeriele-regeling/warenwetregeling/ce-markering/speelgoed/BWBR0007054/README.md)   | --- | --- |
-| C-30.2.11  | [art. 2 lid 2](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md) j° [art. 4 lid 1](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md) j°  |  [art. 1](../../../../../ministeriele-regeling/warenwetregeling/zuiverheidseisen/van/zoetstoffen/BWBR0004672/README.md)   | € 525,–  | € 1050,–  |
-| C-30.3.1  |  [art. 2 lid 3](../../../../../AMvB/warenwetbesluit/additieven/aroma's/en/enzymen/in/levensmiddelen/BWBR0026325/README.md)   | € 525,–  | € 1050,–  |
-|  *C-31*   |  [Warenwetregeling CE-markering voor speelgoed](../../../../../ministeriele-regeling/warenwetregeling/ce-markering/speelgoed/BWBR0007054/README.md)   | --- | --- |
-| --- |  *>>C-30.2.6*   | --- | --- |
+|  *C-30*   |  [Warenwetbesluit speelgoed 2011](../../../../../AMvB/warenwetbesluit/speelgoed/2011/BWBR0029619/README.md)   | --- | --- |
+| C-30.1.1  | art. 2 lid 1 j° art. 3 lid 1  | € 525,–  | € 1050,–  |
+| C-30.1.2  | art. 2 lid 1 j° art. 4 lid 1  | € 525,–  | € 1050,–  |
+| C-30.1.3  | art. 2 lid 1 j° art. 4 lid 2  | € 525,–  | € 1050,–  |
+| C-30.1.4  | art. 2 lid 1 j° art. 5 lid 1  | € 525,–  | € 1050,–  |
+| C-30.1.5  | art. 2 lid 1 j° art. 6  | € 525,–  | € 1050,–  |
+| C-30.2.1  | art. 2 lid 2 j° art. 3 lid 1  | € 525,–  | € 1050,–  |
+| C-30.2.2  | art. 2 lid 2 j° art. 3 lid 2  | € 525,–  | € 1050,–  |
+| C-30.2.3  | art. 2 lid 2 j° art. 3 lid 3  | € 525,–  | € 1050,–  |
+| C-30.2.4  | art. 2 lid 2 j° art. 5 lid 1  | € 525,–  | € 1050,–  |
+| C-30.2.5  | art. 2 lid 2 j° art. 5 lid 2  | € 525,–  | € 1050,–  |
+| C-30.2.6  | art. 2 lid 2 j° art. 6  | € 525,–  | € 1050,–  |
+| C-30.2.7  | art. 2 lid 2 j° art. 7 lid 1  | € 525,–  | € 1050,–  |
+| C-30.2.8  | art. 2 lid 2 j° art. 7 lid 2  | € 525,–  | € 1050,–  |
+| C-30.2.9  | art. 2 lid 2 j° art. 9 lid 1  | € 525,–  | € 1050,–  |
+| C-30.3.1  | art. 2 lid 3 j° art. 5 lid 1  | € 525,–  | € 1050,–  |
 |  *C-32*   |  [Warenwetregeling ftalaten in speelgoed- en kinderverzorgingsartikelen](../../../../../ministeriele-regeling/warenwetregeling/ftalaten/in/speelgoed/en/kinderverzorgingsartikelen/BWBR0017608/README.md)   | --- | --- |
 | C-32.1  |  [art. 2](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md)   | € 525,–  | € 1050,–  |
 |  *C-33*   | Warenwetregeling voorraden speelgoed- en kinder verzorgingsartikelenen welke ftalaten bevatten  | --- | --- |
@@ -697,6 +700,10 @@ vervallen   |
 | C-43.1.2  | [art. 2](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md), j <sup>o</sup>[art. 6 lid 1](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/kleurstoffen/in/levensmiddelen/BWBR0007567/README.md)  | € 525,–  | € 1050,–  |
 | C-43.1.3  | [art. 2](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md), j <sup>o</sup>[art. 6 lid 2](../../../../../ministeriele-regeling/warenwetregeling/gebruik/van/kleurstoffen/in/levensmiddelen/BWBR0007567/README.md)  | € 525,–  | € 1050,–  |
 | C-43.1.4  | [art. 2](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md), j <sup>o</sup>[art. 9](../../../../../ministeriele-regeling/warenwetregeling/verontreinigingen/in/levensmiddelen/BWBR0010269/README.md)  | € 525,–  | € 1050,–  |
+|  *C-45*   |  [Warenwetbesluit Lucky Bamboo](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md)   | --- | --- |
+| C-45.1.1  | [art. 2](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md) jo. [art. 3](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md)  | € 1590  | € 2100  |
+| C-45.2.1  | [art. 2](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md) jo. [art. 4 lid 1](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md)  | € 1590  | € 2100  |
+| C-45.2.2  | [art. 2](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md) jo. [art. 4 lid 2](../../../../../AMvB/warenwetbesluit/lucky/bamboo/BWBR0029929/README.md)  | € 1590  | € 2100  |
 |  *D*   | --- | --- | --- | --- |
 |  *D-1*   |  *Wijzigingswet 1988 Warenwet*   | Voorwaarden gebruik aanduidingen «ongezouten» en «voor natriumarm dieet» voor boter  | --- | --- |
 | D-1.1.1  | art. II lid 2 j°  | art. 1 lid 1  | € 525,–  | € 1050,–  |

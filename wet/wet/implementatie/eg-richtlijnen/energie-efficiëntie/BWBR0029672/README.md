@@ -18,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
+In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
 a. *Onze Minister:* Onze Minister van Economische Zaken;  
 
@@ -32,12 +32,9 @@ e. *koude:* koud water bestemd voor ruimtekoeling;
 
 f. *eindafnemer:* een natuurlijke persoon of rechtspersoon die energie koopt voor eigen eindgebruik;  
 
-g. *toestel:* een technisch hulpmiddel, met inbegrip van een vervoersmiddel, bij het gebruik waarvan energie wordt gebezigd of dat naar zijn aard geschikt is om energie op te slaan, over te brengen dan wel om te vormen;  
+g. *energiegerelateerd product:* een in de Europese Unie in de handel gebrachte of in gebruik genomen zaak die tijdens het gebruik een effect heeft op het energieverbruik, met inbegrip van onderdelen die bedoeld zijn om in onder deze wet vallende energiegerelateerde producten te worden ingebouwd en die ten behoeve van eindgebruikers in de handel worden gebracht of in gebruik worden genomen als losse onderdelen waarvan de milieuprestaties onafhankelijk kunnen worden beoordeeld;  
 
-h. *installatie:* een samenstel van een of meer toestellen, voorwerpen of materialen, bestemd om als een geheel te functioneren, bij het gebruik waarvan energie wordt gebezigd of dat naar zijn aard geschikt is om energie op te slaan, over te brengen of om te vormen;  
-
-i. *raad van bestuur van de mededingingsautoriteit:* de raad van bestuur van de mededingingsautoriteit, genoemd in [artikel 2 van de Medingingswet](../../../../../../wet/mededingingswet/BWBR0008691/README.md).     
-2.  In deze wet en de daarop berustende bepalingen worden onder toestel of installatie mede verstaan voorwerpen en materialen, welke bestemd zijn om deel uit te maken van een toestel of installatie.   
+h. *raad van bestuur van de mededingingsautoriteit:* de raad van bestuur van de mededingingsautoriteit, genoemd in [artikel 2 van de Medingingswet](../../../../../../wet/mededingingswet/BWBR0008691/README.md).    
 
 ### §  2  
 
@@ -130,22 +127,22 @@ e. de vorm waarin de gegevens en inlichtingen aan Onze Minister worden verstrekt
 
 ### Hoofdstuk  2  
 
-####Energiebesparing toestellen en installaties
+####Energiebesparing energiegerelateerde producten
 
 ### §  1  
 
-####Toestellen en installaties
+####Energiegerelateerde producten
 
 ### Artikel  10  
 
-1.  Bij of krachtens algemene maatregel van bestuur kunnen, in het belang van het doelmatig gebruik van energie, regels worden gesteld met betrekking tot toestellen en installaties.   
-2.  Tot de regels, bedoeld in het eerste lid, kunnen behoren regels, inhoudende een verbod categorieën van toestellen of installaties in of uit te voeren, ten verkoop voorhanden te hebben, ten verkoop aan te bieden, ten toon te stellen, te verkopen, te verhuren, af te leveren of te installeren, dan wel te gebruiken: 
+1.  Bij of krachtens algemene maatregel van bestuur kunnen, in het belang van het doelmatig gebruik van energie, regels worden gesteld met betrekking tot energiegerelateerde producten.   
+2.  Tot de regels, bedoeld in het eerste lid, kunnen behoren regels, inhoudende een verbod categorieën van energiegerelateerde producten in of uit te voeren, ten verkoop voorhanden te hebben, ten verkoop aan te bieden, ten toon te stellen, te verkopen, te verhuren, af te leveren of te installeren, dan wel te gebruiken: 
 
-a. indien het toestel of de installatie niet voldoet aan de bij of krachtens het besluit gestelde eisen;  
+a. indien het energiegerelateerde product niet voldoet aan de bij of krachtens het besluit gestelde eisen;  
 
-b. indien het toestel of de installatie dan wel het type, waartoe het toestel of de installatie behoort, niet bij een keuring is goedgekeurd.     
-3.  Tot de regels, bedoeld in het eerste lid, kunnen behoren regels, inhoudende het verbod categorieën van toestellen of installaties te installeren of te gebruiken op een bepaalde plaats of wijze of onder bepaalde omstandigheden.   
-4.  De regels, bedoeld in het eerste lid, zijn niet van toepassing op het gebruik van toestellen of installaties in woningen of op erven in de sfeer van de particuliere huishouding of een daarmee bij algemene maatregel van bestuur gelijk te stellen huishouding.   
+b. indien het energiegerelateerde product dan wel het type, waartoe het energiegerelateerde product behoort, niet bij een keuring is goedgekeurd.     
+3.  Tot de regels, bedoeld in het eerste lid, kunnen behoren regels, inhoudende het verbod categorieën van energiegerelateerde producten te installeren of te gebruiken op een bepaalde plaats of wijze of onder bepaalde omstandigheden.   
+4.  De regels, bedoeld in het eerste lid, zijn niet van toepassing op het gebruik van energiegerelateerde producten in woningen of op erven in de sfeer van de particuliere huishouding of een daarmee bij algemene maatregel van bestuur gelijk te stellen huishouding.   
 
 ### Artikel  11  
 
@@ -169,8 +166,8 @@ c. de wijze waarop een goedkeuring kan worden geschorst of ingetrokken;
 
 ### Artikel  12  
 
-1.  Indien met betrekking tot het type, waartoe een toestel of installatie behoort, goedkeuring is voorgeschreven en verkregen, is de vervaardiger of de importeur van de betrokken toestellen of installaties gehouden een ingevolge artikel 11, eerste lid, aangewezen instelling in de gelegenheid te stellen te controleren of toestellen of installaties overeenkomstig het goedgekeurde type zijn of worden vervaardigd.   
-2.  Indien met betrekking tot enige categorie van toestellen of installaties goedkeuring van het type is voorgeschreven, kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld omtrent: 
+1.  Indien met betrekking tot het type, waartoe een energiegerelateerd product behoort, goedkeuring is voorgeschreven en verkregen, is de vervaardiger of de importeur van de betrokken energiegerelateerde producten gehouden een ingevolge artikel 11, eerste lid, aangewezen instelling in de gelegenheid te stellen te controleren of energiegerelateerde producten overeenkomstig het goedgekeurde type zijn of worden vervaardigd.   
+2.  Indien met betrekking tot enige categorie van energiegerelateerde producten goedkeuring van het type is voorgeschreven, kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld omtrent: 
 
 a. de wijze waarop de controle, bedoeld in het eerste lid, wordt uitgeoefend;  
 
@@ -178,43 +175,43 @@ b. de normen volgens welke de controle plaatsvindt;
 
 c. de vergoeding van de voor de controle gemaakte kosten van de ingevolge artikel 11, eerste lid, aangewezen instelling.     
 3.  De ingevolge artikel 11, eerste lid, aangewezen instelling wijst de personen aan, die met de controle zullen zijn belast.   
-4.  De vervaardiger of de importeur van de toestellen of installaties is gehouden aan de ingevolge het derde lid aangewezen personen, indien deze zich behoorlijk als zodanig hebben bekendgemaakt, alle medewerking te verlenen en alle inlichtingen met betrekking tot die toestellen en installaties te verstrekken, die zij redelijkerwijs bij de vervulling van hun taak behoeven.   
+4.  De vervaardiger of de importeur van de energiegerelateerde producten is gehouden aan de ingevolge het derde lid aangewezen personen, indien deze zich behoorlijk als zodanig hebben bekendgemaakt, alle medewerking te verlenen en alle inlichtingen met betrekking tot die energiegerelateerde producten te verstrekken, die zij redelijkerwijs bij de vervulling van hun taak behoeven.   
 
 ### Artikel  13  
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen, in het belang van een doelmatig gebruik van energie, regels worden gesteld ten aanzien van: 
 
-a. gegevens en aanwijzingen met betrekking tot het energieverbruik van toestellen en installaties;  
+a. gegevens en aanwijzingen met betrekking tot het energieverbruik van energiegerelateerde producten;  
 
-b. gegevens over andere eigenschappen van toestellen en installaties die samenhangen met de gegevens, bedoeld in onderdeel a;  
+b. gegevens over andere eigenschappen van energiegerelateerde producten die samenhangen met de gegevens, bedoeld in onderdeel a;  
 
-c. bepaalde identificatiegegevens van toestellen en installaties.     
+c. bepaalde identificatiegegevens van energiegerelateerde producten.     
 2.  Tot de regels, bedoeld in het eerste lid, kunnen behoren regels, inhoudende: 
 
-a. de verplichting om met betrekking tot toestellen of installaties, behorende tot een bij of krachtens het besluit aangewezen categorie, gegevens of aanwijzingen als bedoeld in het eerste lid beschikbaar te hebben of te verstrekken, die voldoen aan bij of krachtens het besluit gestelde eisen;  
+a. de verplichting om met betrekking tot energiegerelateerde producten, behorende tot een bij of krachtens het besluit aangewezen categorie, gegevens of aanwijzingen als bedoeld in het eerste lid beschikbaar te hebben of te verstrekken, die voldoen aan bij of krachtens het besluit gestelde eisen;  
 
-b. het verbod om met betrekking tot toestellen of installaties, behorende tot een bij of krachtens het besluit aangewezen categorie, gegevens of aanwijzingen als bedoeld in het eerste lid beschikbaar te hebben of te verstrekken, indien die gegevens of aanwijzingen niet voldoen aan bij of krachtens het besluit gestelde eisen;  
+b. het verbod om met betrekking tot energiegerelateerde producten, behorende tot een bij of krachtens het besluit aangewezen categorie, gegevens of aanwijzingen als bedoeld in het eerste lid beschikbaar te hebben of te verstrekken, indien die gegevens of aanwijzingen niet voldoen aan bij of krachtens het besluit gestelde eisen;  
 
 c. de verplichting om in de gevallen, bedoeld in de onderdelen a of b, gegevens of aanwijzingen als bedoeld in het eerste lid, beschikbaar te hebben of te verstrekken op een bij of krachtens het besluit aangegeven wijze;  
 
-d. de verplichting aan de hand van bij of krachtens het besluit gestelde regels onderzoek te verrichten ter vaststelling of ter toetsing van gegevens als bedoeld in het eerste lid omtrent toestellen of installaties, behorende tot een bij of krachtens het besluit aangewezen categorie;  
+d. de verplichting aan de hand van bij of krachtens het besluit gestelde regels onderzoek te verrichten ter vaststelling of ter toetsing van gegevens als bedoeld in het eerste lid omtrent energiegerelateerde producten, behorende tot een bij of krachtens het besluit aangewezen categorie;  
 
 e. de verplichting op een bij of krachtens het besluit aangegeven wijze een administratie te voeren van het onderzoek, bedoeld in onderdeel d, en van de daarbij verkregen resultaten, alsmede de verplichting om de bescheiden, behorende tot die administratie, gedurende een bepaalde termijn te bewaren;  
 
 f. het verbod in de onderdelen a of b bedoelde gevallen gegevens als bedoeld in het eerste lid beschikbaar te hebben of te verstrekken, welke niet overeenstemmen met de resultaten van een onderzoek als bedoeld in onderdeel d dan wel niet overeenstemmen met de resultaten van een keuring, verricht aan de hand van de bij of krachtens het besluit daartoe vastgestelde voorschriften;  
 
-g. de verplichting om in de bij of krachtens het besluit aangegeven gevallen op een bij of krachtens het besluit aangegeven wijze het bij of krachtens het besluit aangegeven kenmerk te vermelden of gegevens te verstrekken ter identificatie van de partij of serie, waartoe toestellen of installaties behoren, of van het type van toestellen of installaties, dan wel de bij of krachtens het besluit aangewezen gegevens ter identificatie van de vervaardiger, de importeur of een ander van wie de toestellen of installaties afkomstig zijn.     
-3.  De eisen, bedoeld in het tweede lid, onderdelen a of b, kunnen worden gesteld met betrekking tot een bij of krachtens het besluit aangegeven groep van toestellen of installaties. Daarbij kunnen regels worden gesteld volgens welke bij een onderzoek als bedoeld in het tweede lid, onderdeel d, aan de hand van onderzoek met betrekking tot een uit die groep genomen steekproef kan worden getoetst of aan de eisen is voldaan.   
+g. de verplichting om in de bij of krachtens het besluit aangegeven gevallen op een bij of krachtens het besluit aangegeven wijze het bij of krachtens het besluit aangegeven kenmerk te vermelden of gegevens te verstrekken ter identificatie van de partij of serie, waartoe energiegerelateerde producten behoren, of van het type van energiegerelateerde producten, dan wel de bij of krachtens het besluit aangewezen gegevens ter identificatie van de vervaardiger, de importeur of een ander van wie de energiegerelateerde producten afkomstig zijn.     
+3.  De eisen, bedoeld in het tweede lid, onderdelen a of b, kunnen worden gesteld met betrekking tot een bij of krachtens het besluit aangegeven groep van energiegerelateerde producten. Daarbij kunnen regels worden gesteld volgens welke bij een onderzoek als bedoeld in het tweede lid, onderdeel d, aan de hand van onderzoek met betrekking tot een uit die groep genomen steekproef kan worden getoetst of aan de eisen is voldaan.   
 4.  Met betrekking tot keuringen als bedoeld in het tweede lid, onderdeel f, is artikel 12 van overeenkomstige toepassing.   
 
 ### Artikel  14  
 
-1.  De regels, bedoeld in de artikelen 10, eerste lid, en 13, eerste lid, zijn niet van toepassing op toestellen en installaties in woningen of op erven in de sfeer van de particuliere huishouding.   
+1.  De regels, bedoeld in de artikelen 10, eerste lid, en 13, eerste lid, zijn niet van toepassing op energiegerelateerde producten in woningen of op erven in de sfeer van de particuliere huishouding.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de gelijkstelling met een huishouding als bedoeld in het eerste lid.   
 
 ### Artikel  15  
 
-Indien regels als bedoeld in de artikelen 10 en 13 worden gesteld, wordt daarbij tevens een termijn bepaald, waarna die regels van toepassing zijn ten aanzien van toestellen of installaties, die bij het in werking treden van de regels reeds vervaardigd en in Nederland aanwezig zijn.  
+Indien regels als bedoeld in de artikelen 10 en 13 worden gesteld, wordt daarbij tevens een termijn bepaald, waarna die regels van toepassing zijn ten aanzien van energiegerelateerde producten, die bij het in werking treden van de regels reeds vervaardigd en in Nederland aanwezig zijn.  
 
 ### §  2  
 
@@ -236,7 +233,7 @@ Indien regels als bedoeld in de artikelen 10 en 13 worden gesteld, wordt daarbij
 
 ### Artikel  17a  
 
-Voor zover toestellen en installaties bij of krachtens [titel 9.4 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voorschriften zijn vastgesteld, die op dezelfde onderwerpen betrekking hebben als waarvoor bij of krachtens dit hoofdstuk voorschriften zijn vastgesteld, blijven laatstgenoemde voorschriften buiten toepassing.  
+Voor zover energiegerelateerde producten bij of krachtens [titel 9.4 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voorschriften zijn vastgesteld, die op dezelfde onderwerpen betrekking hebben als waarvoor bij of krachtens dit hoofdstuk voorschriften zijn vastgesteld, blijven laatstgenoemde voorschriften buiten toepassing.  
 
 ### Artikel  18  
 
@@ -273,32 +270,34 @@ Verzet schorst de tenuitvoerlegging van een dwangbevel dat strekt tot invorderin
 
 ### Hoofdstuk  4  
 
-####Handhaving energiebesparing toestellen en installaties
+####Handhaving energiebesparing energiegerelateerde producten
 
 ### Artikel  31  
 
-1.  Met het toezicht op de naleving van het bepaalde bij of krachtens de artikelen 10 tot en met 18 zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.   
+1.  Met het toezicht op de naleving van het bepaalde bij of krachtens de artikelen 10 tot en met 17 zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
 
 ### Artikel  32  
 
-Van elk krachtens [artikel 5:18 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) onderzocht toestel of elke krachtens dat artikel onderzochte installatie, wordt aan de belanghebbende op diens verzoek een vergoeding gegeven ter grootte van het bedrag waarmee de verkoopwaarde daarvan ten gevolge van het onderzoek is verminderd.  
+Van elk krachtens [artikel 5:18 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) onderzocht energiegerelateerde product, wordt aan de belanghebbende op diens verzoek een vergoeding gegeven ter grootte van het bedrag waarmee de verkoopwaarde daarvan ten gevolge van het onderzoek is verminderd.  
 
 ### Artikel  33  
 
-1.  Bij algemene maatregel van bestuur kan worden bepaald, dat, in geval aan artikel 13, derde lid, toepassing is gegeven of in andere bij dat besluit aangewezen categorieën van gevallen de krachtens artikel 31, eerste lid, aangewezen ambtenaren volgens bij of krachtens dat besluit gestelde regels aan de hand van een onderzoek van een deel, dat als steekproef is genomen uit een bij dat besluit omschreven groep van toestellen of installaties, kunnen vaststellen of die groep voldoet aan de bij dat besluit aangewezen eisen of voorschriften, gesteld krachtens de artikelen 10 en 13.   
+1.  Bij algemene maatregel van bestuur kan worden bepaald, dat, in geval aan artikel 13, derde lid, toepassing is gegeven of in andere bij dat besluit aangewezen categorieën van gevallen de krachtens artikel 31, eerste lid, aangewezen ambtenaren volgens bij of krachtens dat besluit gestelde regels aan de hand van een onderzoek van een deel, dat als steekproef is genomen uit een bij dat besluit omschreven groep van energiegerelateerde producten, kunnen vaststellen of die groep voldoet aan de bij dat besluit aangewezen eisen of voorschriften, gesteld krachtens de artikelen 10 en 13.   
 2.  Tot de regels, bedoeld in het eerste lid, kunnen betrekking hebben op: 
 
 a. de mededeling of de openbaarmaking van de uitslag van een onderzoek, dat met toepassing van het krachtens het eerste lid bepaalde is verricht;  
 
-b. het verbod voor degene onder wie alle tot de steekproef behorende toestellen of installaties zijn aangetroffen, om, nadat de steekproef is genomen, toestellen of installaties, behorende tot de krachtens het eerste lid omschreven groep, waartoe de steekproef behoort, af te leveren, zolang hem een mededeling als bedoeld in onderdeel a niet is gedaan.     
+b. het verbod voor degene onder wie alle tot de steekproef behorende energiegerelateerde producten zijn aangetroffen, om, nadat de steekproef is genomen, energiegerelateerde producten, behorende tot de krachtens het eerste lid omschreven groep, waartoe de steekproef behoort, af te leveren, zolang hem een mededeling als bedoeld in onderdeel a niet is gedaan.     
 3.  Indien met toepassing van het krachtens het eerste lid bepaalde wordt vastgesteld dat een groep niet aan de bij dat besluit aangewezen eisen of voorschriften, bedoeld in het eerste lid, voldoet, kan bij algemene maatregel van bestuur worden bepaald dat: 
 
 a. volgens bij dat besluit gestelde regels aan een betrokkene de gelegenheid wordt geboden om tegenbewijs te leveren;  
 
 b. de desbetreffende groep of een deel daarvan niet mag worden afgeleverd alvorens ten aanzien daarvan de maatregelen zijn genomen, die bij of krachtens dat besluit zijn voorgeschreven;  
 
-c. in de bij het besluit aangewezen gevallen er geen sprake is van een strafbaar feit wegens overtreding van het krachtens de artikelen 10 en 13 bepaalde.     
+c. in de bij het besluit aangewezen gevallen er geen sprake is van een strafbaar feit wegens overtreding van het krachtens de artikelen 10 en 13 bepaalde;  
+
+d. de desbetreffende groep niet in de handel mag worden gebracht, uit de handel wordt genomen, of niet in gebruik genomen mag worden.     
 
 ### Hoofdstuk  5  
 
@@ -374,7 +373,7 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 
 ### Artikel  44  
 
-Deze wet wordt aangehaald als: Wet implementatie EG-richtlijnen energie-efficiëntie.  
+Deze wet wordt aangehaald als: Wet implementatie EU-richtlijnen energie-efficiëntie.  
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
 

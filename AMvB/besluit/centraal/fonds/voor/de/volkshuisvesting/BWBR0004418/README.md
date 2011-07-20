@@ -236,46 +236,45 @@ F. Korthals Altes
 
 | Wijk  | Additionele inzet per wijk (in miljoen euro)  | Maximale subsidiebedrag per wijk (in euro)  |
 |:---|:---|:---|
-| Alkmaar Overdie  | 2,9  | 870.000  |
-| Amersfoort De Kruiskamp  | 2,5  | 750.000  |
-| Amsterdam Noord  | 6,6  | 1.980.000  |
-| Amsterdam Oost  | 6,7  | 2.010.000  |
-| Amsterdam Bijlmer  | 6,6  | 1.980.000  |
-| Amsterdam Bos en Lommer  | 15,3  | 4.590.000  |
-| Amsterdam Nieuw-West  | 29,3  | 8.790.000  |
-| Arnhem Het Arnhemse Broek  | 3,7  | 1.110.000  |
-| Arnhem Klarendal  | 2,6  | 780.000  |
-| Arnhem Malburgen/Immerloo  | 4,9  | 1.470.000  |
-| Arnhem Presikhaaf  | 3,7  | 1.110.000  |
-| Den Haag Zuid-West  | 13,0  | 3.900.000  |
-| Den Haag Schilderswijk  | 9,0  | 2.700.000  |
-| Den Haag Stationsbuurt  | 3,6  | 1.080.000  |
-| Den Haag Transvaal  | 3,2  | 960.000  |
-| Deventer Rivierenwijk  | 2,8  | 840.000  |
-| Dordrecht Wielwijk/Crabbehof  | 4,2  | 1.260.000  |
-| Eindhoven Bennekel  | 3,2  | 960.000  |
-| Eindhoven Doornakkers  | 2,6  | 780.000  |
-| Eindhoven Woensel West  | 2,3  | 690.000  |
-| Enschede Velve-Lindenhof  | 1,7  | 510.000  |
-| Groningen De Hoogte  | 1,9  | 570.000  |
-| Groningen Korrewegwijk  | 2,9  | 870.000  |
-| Heerlen Meezenbroek  | 2,8  | 840.000  |
-| Leeuwarden Heechterp/Schieringen  | 2,3  | 690.000  |
-| Maastricht Noordoost  | 5,2  | 1.560.000  |
-| Nijmegen Hatert  | 3,1  | 930.000  |
-| Rotterdam Bergpolder  | 2,9  | 870.000  |
-| Rotterdam Oud Zuid  | 22,3  | 6.690.000  |
-| Rotterdam Overschie  | 2,8  | 840.000  |
-| Rotterdam Noord  | 12,4  | 3.720.000  |
-| Rotterdam West  | 18,2  | 5.460.000  |
-| Rotterdam Vreewijk  | 4,3  | 1.290.000  |
-| Rotterdam Zuidelijke Tuinsteden  | 9,2  | 2.760.000  |
-| Schiedam Nieuwland  | 4,4  | 1.320.000  |
-| Utrecht Kanaleneiland  | 6,8  | 2.040.000  |
-| Utrecht Ondiep  | 3,3  | 990.000  |
-| Utrecht Overvecht  | 8,6  | 2.580.000  |
-| Utrecht Zuilen Oost  | 2,8  | 840.000  |
-| Zaanstad Poelenburg  | 3,4  | 1.020.000  |
-| --- | --- | --- |
-| Totaal  | 250  | 75.000.000  |
+| Alkmaar Overdie  | 2,9  | 580.000  |
+| Amersfoort De Kruiskamp  | 2,5  | 500.000  |
+| Amsterdam Noord  | 6,6  | 1.320.000  |
+| Amsterdam Oost  | 6,7  | 1.340.000  |
+| Amsterdam Bijlmer  | 6,6  | 1.320.000  |
+| Amsterdam Bos en Lommer  | 15,3  | 3.060.000  |
+| Amsterdam Nieuw-West  | 29,3  | 5.860.000  |
+| Arnhem Het Arnhemse Broek  | 3,7  | 740.000  |
+| Arnhem Klarendal  | 2,6  | 520.000  |
+| Arnhem Malburgen/Immerloo  | 4,9  | 980.000  |
+| Arnhem Presikhaaf  | 3,7  | 740.000  |
+| Den Haag Zuid-West  | 13,0  | 2.600.000  |
+| Den Haag Schilderswijk  | 9,0  | 1.800.000  |
+| Den Haag Stationsbuurt  | 3,6  | 720.000  |
+| Den Haag Transvaal  | 3,2  | 640.000  |
+| Deventer Rivierenwijk  | 2,8  | 560.000  |
+| Dordrecht Wielwijk/Crabbehof  | 4,2  | 840.000  |
+| Eindhoven Bennekel  | 3,2  | 640.000  |
+| Eindhoven Doornakkers  | 2,6  | 520.000  |
+| Eindhoven Woensel West  | 2,3  | 460.000  |
+| Enschede Velve-Lindenhof  | 1,7  | 340.000  |
+| Groningen De Hoogte  | 1,9  | 380.000  |
+| Groningen Korrewegwijk  | 2,9  | 580.000  |
+| Heerlen Meezenbroek  | 2,8  | 560.000  |
+| Leeuwarden Heechterp/Schieringen  | 2,3  | 460.000  |
+| Maastricht Noordoost  | 5,2  | 1.040.000  |
+| Nijmegen Hatert  | 3,1  | 620.000  |
+| Rotterdam Bergpolder  | 2,9  | 580.000  |
+| Rotterdam Oud Zuid  | 22,3  | 4.460.000  |
+| Rotterdam Overschie  | 2,8  | 560.000  |
+| Rotterdam Noord  | 12,4  | 2.480.000  |
+| Rotterdam West  | 18,2  | 3.640.000  |
+| Rotterdam Vreewijk  | 4,3  | 860.000  |
+| Rotterdam Zuidelijke Tuinsteden  | 9,2  | 1.840.000  |
+| Schiedam Nieuwland  | 4,4  | 880.000  |
+| Utrecht Kanaleneiland  | 6,8  | 1.360.000  |
+| Utrecht Ondiep  | 3,3  | 660.000  |
+| Utrecht Overvecht  | 8,6  | 1.720.000  |
+| Utrecht Zuilen Oost  | 2,8  | 560.000  |
+| Zaanstad Poelenburg  | 3,4  | 680.000  |
+|  *Totaal*   | 250  | 50.000.000  |
 
