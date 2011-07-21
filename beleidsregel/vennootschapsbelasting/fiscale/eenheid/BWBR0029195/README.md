@@ -36,8 +36,8 @@ In dit besluit is een aantal besluiten over de regeling van de fiscale eenheid i
 
 | --- | --- |
 |:---|:---|
-| Wet Vpb  |  [Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)   |
-| Bfe  |  [Besluit fiscale eenheid 2003](../../../../../AMvB/besluit/fiscale/eenheid/2003/BWBR0014483/README.md)   |
+| Wet Vpb  | [Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)  |
+| Bfe  | [Besluit fiscale eenheid 2003](../../../../../AMvB/besluit/fiscale/eenheid/2003/BWBR0014483/README.md)  |
 | Bezitseis  | de eis als bedoeld in [artikel 15 van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) dat een moedermaat-schappij de juridische en econo-mische eigendom bezit van ten minste 95 percent van de aandelen in het nominaal gestorte kapitaal van een dochtermaatschappij  |
 
 ### 2  
@@ -117,7 +117,7 @@ Vooruitlopend op een wijziging van de [Wet Vpb](../../../../../wet/wet/op/de/ven
 
 ####Situatie ad 1
 
-Ik keur goed dat op verzoek van de betrokken belastingplichtigen de inspecteur toestaat dat bij de toepassing van [artikel 15ab, tweede lid, van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), in afwijking van het bepaalde in [artikel 15aa, eerste lid, onderdeel a, van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) het bepaalde in [artikel 15ae, eerste lid, onderdeel c, van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) overeenkomstige toepassing kan vinden.    
+Ik keur goed dat op verzoek van de betrokken belastingplichtigen de inspecteur toestaat dat bij de toepassing van[ artikel 15ab, tweede lid, van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), in afwijking van het bepaalde in [artikel 15aa, eerste lid, onderdeel a, van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) het bepaalde in [artikel 15ae, eerste lid, onderdeel c, van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) overeenkomstige toepassing kan vinden.    
 
 ####Situatie ad 2
 
@@ -231,7 +231,7 @@ Een juridische fusie waarbij de moedermaatschappij van een fiscale eenheid als v
 
 a. de juridische fusie vindt plaats met toepassing van [artikel 14b, tweede of derde lid, van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md);  
 
-b. direct aansluitend aan de ontvoeging van de oude fiscale eenheid als gevolg van de juridische fusie waarbij de moedermaatschappij verdwijnt, komt een fiscale eenheid tot stand tussen de verkrijgende rechtspersoon als moedermaatschappij en alle dochtermaatschappijen uit de oude fiscale eenheid ; <sup> 1  Indien het ontvoegingstijdstip van de bestaande fiscale eenheid met toepassing van artikel 14, derde lid, van het Bfe wordt gesteld op de aanvang van het boekjaar waarin de juridische fusie plaatsvindt, wordt een bezit van de verdwijnende moedermaatschappij aangemerkt als een bezit van de verkrijgende rechtspersoon, mits wordt voldaan aan een aantal voorwaarden (artikel 18a, derde en vierde lid, van het Bfe). Daardoor kan de aansluitende fiscale eenheid – zoals voorwaarde b. eist – op datzelfde tijdstip ingaan.  </sup>  
+b. direct aansluitend aan de ontvoeging van de oude fiscale eenheid als gevolg van de juridische fusie waarbij de moedermaatschappij verdwijnt, komt een fiscale eenheid tot stand tussen de verkrijgende rechtspersoon als moedermaatschappij en alle dochtermaatschappijen uit de oude fiscale eenheid<sup> 1 Indien het ontvoegingstijdstip van de bestaande fiscale eenheid met toepassing van artikel 14, derde lid, van het Bfe wordt gesteld op de aanvang van het boekjaar waarin de juridische fusie plaatsvindt, wordt een bezit van de verdwijnende moedermaatschappij aangemerkt als een bezit van de verkrijgende rechtspersoon, mits wordt voldaan aan een aantal voorwaarden (artikel 18a, derde en vierde lid, van het Bfe). Daardoor kan de aansluitende fiscale eenheid – zoals voorwaarde b. eist – op datzelfde tijdstip ingaan. </sup>;  
 
 c. alle overdrachten als bedoeld in [artikel 15ai van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) waarbij een dochtermaatschappij uit de oude fiscale eenheid dan wel de verdwijnende moedermaatschappij zelf als overdrager of overnemer betrokken is geweest, worden voor de toepassing van artikel 15ai van de Wet Vpb geacht op het oorspronkelijke overdrachtstijdstip binnen de nieuwe fiscale eenheid te hebben plaatsgevonden, waarbij een overdracht door of aan de verdwijnende moedermaatschappij geldt als een overdracht door of aan de verkrijgende rechtspersoon;  
 
@@ -246,13 +246,13 @@ De aanleiding voor deze goedkeuring is gelegen in het feit dat als aan onderstaa
 
 a. de juridische fusie vindt plaats met toepassing van [artikel 14b, tweede of derde lid, van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md);  
 
-b. direct aansluitend aan de ontvoeging van de oude fiscale eenheid als gevolg van de juridische fusie waarbij de moedermaatschappij verdwijnt, komt een fiscale eenheid tot stand tussen de verkrijgende rechtspersoon als moedermaatschappij en alle dochtermaatschappijen uit de oude fiscale eenheid ; <sup> 2  Indien het ontvoegingstijdstip van de bestaande fiscale eenheid met toepassing van artikel 14, derde lid, van het Bfe wordt gesteld op de aanvang van het boekjaar waarin de juridische fusie plaatsvindt, wordt een bezit van de verdwijnende moedermaatschappij aangemerkt als een bezit van de verkrijgende rechtspersoon, mits wordt voldaan aan een aantal voorwaarden (artikel 18a, derde en vierde lid, van het Bfe). Daardoor kan de aansluitende fiscale eenheid – zoals voorwaarde b. eist – op datzelfde tijdstip ingaan.  </sup>  
+b. direct aansluitend aan de ontvoeging van de oude fiscale eenheid als gevolg van de juridische fusie waarbij de moedermaatschappij verdwijnt, komt een fiscale eenheid tot stand tussen de verkrijgende rechtspersoon als moedermaatschappij en alle dochtermaatschappijen uit de oude fiscale eenheid<sup> 2 Indien het ontvoegingstijdstip van de bestaande fiscale eenheid met toepassing van artikel 14, derde lid, van het Bfe wordt gesteld op de aanvang van het boekjaar waarin de juridische fusie plaatsvindt, wordt een bezit van de verdwijnende moedermaatschappij aangemerkt als een bezit van de verkrijgende rechtspersoon, mits wordt voldaan aan een aantal voorwaarden (artikel 18a, derde en vierde lid, van het Bfe). Daardoor kan de aansluitende fiscale eenheid – zoals voorwaarde b. eist – op datzelfde tijdstip ingaan. </sup>;  
 
 c. alle overdrachten als bedoeld in [artikel 15ai van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) waarbij een dochtermaatschappij uit de oude fiscale eenheid dan wel de verdwijnende moedermaatschappij zelf als overdrager of overnemer betrokken is geweest, worden voor de toepassing van artikel 15ai van de Wet Vpb geacht op het oorspronkelijke overdrachtstijdstip binnen de nieuwe fiscale eenheid te hebben plaatsgevonden, waarbij een overdracht door of aan de verdwijnende moedermaatschappij geldt als een overdracht door of aan de verkrijgende rechtspersoon;  
 
 d. ingeval de nieuw gevormde fiscale eenheid met terugwerkende kracht tot het voegingstijdstip wordt verbroken, vindt het bepaalde in [artikel 15ai van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) toepassing bij de nieuw gevormde fiscale eenheid;  
 
-e. een aanvaardingsvoorwaarde.   Een model voor de te verlenen goedkeuring III is opgenomen in bijlage 4. Niet onder goedkeurende regelingen vallende situaties Bij de goedkeurende regelingen II (bijlage 3) en III (bijlage 4) wordt onder meer als voorwaarde gesteld dat *alle* dochtermaatschappijen uit de oude fiscale eenheid worden opgenomen in de nieuwe fiscale eenheid. In de praktijk kunnen zich situaties voordoen waarbij niet *alle* dochtermaatschappijen uit de oude fiscale eenheid worden opgenomen in de nieuwe fiscale eenheid. In een aantal van deze situaties zal dan wellicht gebruik kunnen worden gemaakt van de goedkeurende regeling I (bijlage 1 of bijlage 2 dan wel naast elkaar). Dat betekent dat, ingeval één (of meerdere) dochtermaatschappij(en) geen onderdeel gaat(n) uitmaken van de nieuwe fiscale eenheid, in ieder geval geen doorschuiving kan plaatsvinden van de sanctie van [artikel 15ai Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) met betrekking tot overdrachten binnen de oude fiscale eenheid indien: 
+e. een aanvaardingsvoorwaarde.   Een model voor de te verlenen goedkeuring III is opgenomen in bijlage 4. Niet onder goedkeurende regelingen vallende situaties Bij de goedkeurende regelingen II (bijlage 3) en III (bijlage 4) wordt onder meer als voorwaarde gesteld dat *alle* dochtermaatschappijen uit de oude fiscale eenheid worden opgenomen in de nieuwe fiscale eenheid. In de praktijk kunnen zich situaties voordoen waarbij niet *alle*dochtermaatschappijen uit de oude fiscale eenheid worden opgenomen in de nieuwe fiscale eenheid. In een aantal van deze situaties zal dan wellicht gebruik kunnen worden gemaakt van de goedkeurende regeling I (bijlage 1 of bijlage 2 dan wel naast elkaar). Dat betekent dat, ingeval één (of meerdere) dochtermaatschappij(en) geen onderdeel gaat(n) uitmaken van de nieuwe fiscale eenheid, in ieder geval geen doorschuiving kan plaatsvinden van de sanctie van [artikel 15ai Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) met betrekking tot overdrachten binnen de oude fiscale eenheid indien: 
 
 1. sprake is van een overdracht waarbij de niet te voegen dochtermaatschappij als overdrager of overnemer was betrokken, en  
 
@@ -295,8 +295,8 @@ Den Haag
 14 december 2010   
 
 De 
-staatssecretaris van Financiën,
-F. H. H.Weekers  
+staatssecretaris van Financiën, 
+F. H. H. Weekers    
 
 ### Bijlage  1  
 
@@ -318,13 +318,13 @@ a. De overdrager en de overnemer worden door dezelfde rechtshandeling ontvoegd u
 
 b. Zowel ten tijde van de overdracht als ten tijde van de ontvoeging was (al dan niet tezamen met andere maatschappijen) een fiscale eenheid tussen overdrager en overnemer mogelijk, die door de rechtshandeling niet zou zijn ontvoegd.  
 
-c. Direct aansluitend aan de ontvoeging van de fiscale eenheid tussen *<naam moedermaatschappij>*, *<naam overdrager>,**<naam overnemer> en <naam eventuele andere maatschappijen>* komt een nieuwe fiscale eenheid tot stand waartoe *<naam overdrager>*, *<naam overnemer> en <naam eventuele andere maatschappijen>* behoren.  
+c. Direct aansluitend aan de ontvoeging van de fiscale eenheid tussen *<naam moedermaatschappij>*, *<naam overdrager>,* *<naam overnemer> en <naam eventuele andere maatschappijen>* komt een nieuwe fiscale eenheid tot stand waartoe *<naam overdrager>*, *<naam overnemer> en <naam eventuele andere maatschappijen>* behoren.  
 
 d. De overdracht van het vermogensbestanddeel wordt voor de toepassing van artikel 15ai van de Wet Vpb geacht op het oorspronkelijke overdrachtstijdstip binnen de nieuwe fiscale eenheid te hebben plaatsgevonden.  
 
 e. Ingeval de nieuw gevormde fiscale eenheid ten aanzien van de overdrager of de overnemer verbreekt met terugwerkende kracht tot het voegingstijdstip, vindt de toepassing van [artikel 15ai van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) met betrekking tot de overdracht van het vermogensbestanddeel op dat tijdstip plaats bij de nieuw gevormde fiscale eenheid.  
 
-f. *<Naam moedermaatschappij>, <naam overdrager>, <naam overnemer>, <naam van de eventuele andere maatschappijen> en <naam moedermaatschappij van de nieuwe fiscale eenheid – als dat niet één van de hiervoor genoemde maatschappijen is –>* aanvaarden deze goedkeuring en de daaraan verbonden voorwaarden en bevestigen dit schriftelijk aan mij binnen twee maanden na dagtekening van deze brief.   Hoogachtend, Belastingdienst/<Regio>/<kantoor> De inspecteur ...................  
+f.  *<Naam moedermaatschappij>, <naam overdrager>, <naam overnemer>, <naam van de eventuele andere maatschappijen> en <naam moedermaatschappij van de nieuwe fiscale eenheid – als dat niet één van de hiervoor genoemde maatschappijen is –>* aanvaarden deze goedkeuring en de daaraan verbonden voorwaarden en bevestigen dit schriftelijk aan mij binnen twee maanden na dagtekening van deze brief.   Hoogachtend, Belastingdienst/<Regio>/<kantoor> De inspecteur ................... 
 
 ### Bijlage  2  
 
@@ -352,7 +352,7 @@ d. De overdrachten van vermogensbestanddelen worden voor de toepassing van artik
 
 e. Ingeval de nieuw gevormde fiscale eenheid met terugwerkende kracht tot het voegingstijdstip wordt verbroken, vindt het bepaalde in [artikel 15ai van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) toepassing bij de nieuw gevormde fiscale eenheid.  
 
-f. *<Naam moedermaatschappij>, <namen dochtermaatschappijen> en <naam van de moedermaatschappij van de nieuwe fiscale eenheid – als dat niet één van de hiervoor genoemde maatschappijen is –>* aanvaarden deze goedkeuring en de daaraan verbonden voorwaarden en bevestigen dit schriftelijk aan mij binnen twee maanden na dagtekening van deze brief.   Hoogachtend, Belastingdienst/<Regio>/<kantoor> De inspecteur ...................  
+f.  *<Naam moedermaatschappij>, <namen dochtermaatschappijen> en <naam van de moedermaatschappij van de nieuwe fiscale eenheid – als dat niet één van de hiervoor genoemde maatschappijen is –>* aanvaarden deze goedkeuring en de daaraan verbonden voorwaarden en bevestigen dit schriftelijk aan mij binnen twee maanden na dagtekening van deze brief.   Hoogachtend, Belastingdienst/<Regio>/<kantoor> De inspecteur ................... 
 
 ### Bijlage  3  
 
@@ -374,11 +374,11 @@ a. De juridische fusie vindt plaats met toepassing van [artikel 14b, tweede of d
 
 b. Direct aansluitend aan de ontvoeging van de oude fiscale eenheid als gevolg van de juridische fusie waarbij *<naam verdwijnende moedermaatschappij>* verdwijnt, komt een nieuwe fiscale eenheid tot stand waartoe *<naam verkrijgende rechtspersoon>* en alle vorenbedoelde dochtermaatschappijen uit de oude fiscale eenheid behoren.  
 
-c. Alle overdrachten als bedoeld in [artikel 15ai van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) waarbij een dochtermaatschappij uit de oude fiscale eenheid dan wel *<naam verdwijnende moedermaatschappij>* zelf als overdrager of overnemer betrokken is geweest, worden voor de toepassing van [artikel 15ai van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) geacht op het oorspronkelijke overdrachtstijdstip binnen de nieuw gevormde fiscale eenheid *<naam verkrijgende rechtspersoon>* te hebben plaatsgevonden, waarbij een overdracht door of aan *<naam verdwijnende moedermaatschappij>* geldt als een overdracht door of aan *<naam verkrijgende rechtspersoon>.*  
+c. Alle overdrachten als bedoeld in [artikel 15ai van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) waarbij een dochtermaatschappij uit de oude fiscale eenheid dan wel *<naam verdwijnende moedermaatschappij>* zelf als overdrager of overnemer betrokken is geweest, worden voor de toepassing van [artikel 15ai van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) geacht op het oorspronkelijke overdrachtstijdstip binnen de nieuw gevormde fiscale eenheid *<naam verkrijgende rechtspersoon>* te hebben plaatsgevonden, waarbij een overdracht door of aan *<naam verdwijnende moedermaatschappij>* geldt als een overdracht door of aan *<naam verkrijgende rechtspersoon>.*   
 
 d. Ingeval de nieuw gevormde fiscale eenheid verbreekt met terugwerkende kracht tot het in voorwaarde b. bedoelde voegingstijdstip, vindt toepassing van [artikel 15ai van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) plaats op dat tijdstip bij de nieuw gevormde fiscale eenheid.  
 
-e. *<Naam verkrijgende rechtspersoon>, <naam verdwijnende moedermaatschappij>*, <alle dochtermaatschappijen van de oude fiscale eenheid> en *<naam van de moedermaatschappij van de nieuwe fiscale eenheid – als dat niet de verkrijgende rechtspersoon is>* verklaren binnen twee maanden na dagtekening van deze brief schriftelijk aan mij dat zij instemmen met de in deze brief gegeven goedkeuring en de daaraan verbonden voorwaarden.   Hoogachtend, Belastingdienst/<Regio>/<kantoor> De inspecteur ...................  
+e.  *<Naam verkrijgende rechtspersoon>, <naam verdwijnende moedermaatschappij>*, <alle dochtermaatschappijen van de oude fiscale eenheid> en *<naam van de moedermaatschappij van de nieuwe fiscale eenheid – als dat niet de verkrijgende rechtspersoon is>* verklaren binnen twee maanden na dagtekening van deze brief schriftelijk aan mij dat zij instemmen met de in deze brief gegeven goedkeuring en de daaraan verbonden voorwaarden.   Hoogachtend, Belastingdienst/<Regio>/<kantoor> De inspecteur ................... 
 
 ### Bijlage  4  
 
@@ -394,7 +394,7 @@ Belastingdienst/<Regio>/<kantoor>
 | Uw brief van:  | Datum:  |
 | Uw kenmerk:  | Ons kenmerk:  |
 
-<naam geadresseerde> <adres> <postcode + plaats> Onderwerp: Vennootschapsbelasting. Fiscale eenheid. Doorschuiving sanctie van [artikel 15ai Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) Geachte <naam>, Naar aanleiding van uw brief van <datum> namens <namen betrokken vennootschappen> deel ik u het volgende mee. In uw brief verzoekt u mij goed te keuren dat de verbreking van de fiscale eenheid *<naam verdwijnende moedermaatschappij>* als gevolg van de juridische fusie niet leidt tot inwerkingtreding van de sanctie van [artikel 15ai van de Wet op de vennootschaps-belasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) (Wet Vpb). De staatssecretaris van Financiën heeft mij in het besluit met nummer DGB2010/4620M toegestaan een beslissing te nemen op uw verzoek. Ik keur goed dat bij de verbreking van de fiscale eenheid *<naam verdwijnende moedermaatschappij>* (hierna aan te duiden als: de oude fiscale eenheid) als gevolg van de juridische fusie, waarbij *<naam verdwijnende moedermaatschappij>* opgaat in *<naam verkrijgende rechtspersoon>*, de inwerkingtreding van de sanctie van [artikel 15ai van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) achterwege blijft met betrekking tot overdrachten als bedoeld in artikel 15ai van de Wet Vpb, waarbij *<naam verdwijnende moedermaatschappij>* en haar gevoegde dochtermaatschappij(en) als overdrager of overnemer betrokken zijn geweest. Aan deze goedkeuring verbind ik de volgende voorwaarden: 
+<naam geadresseerde> <adres> <postcode + plaats> Onderwerp: Vennootschapsbelasting. Fiscale eenheid. Doorschuiving sanctie van [artikel 15ai Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) Geachte <naam>, Naar aanleiding van uw brief van <datum> namens <namen betrokken vennootschappen> deel ik u het volgende mee. In uw brief verzoekt u mij goed te keuren dat de verbreking van de fiscale eenheid *<naam verdwijnende moedermaatschappij>* als gevolg van de juridische fusie niet leidt tot inwerkingtreding van de sanctie van [artikel 15ai van de Wet op de vennootschaps-belasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) (Wet Vpb). De staatssecretaris van Financiën heeft mij in het besluit met nummer DGB2010/4620M toegestaan een beslissing te nemen op uw verzoek. Ik keur goed dat bij de verbreking van de fiscale eenheid *<naam verdwijnende moedermaatschappij>* (hierna aan te duiden als: de oude fiscale eenheid) als gevolg van de juridische fusie, waarbij *<naam verdwijnende moedermaatschappij>* opgaat in *<naam verkrijgende rechtspersoon>* , de inwerkingtreding van de sanctie van [artikel 15ai van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) achterwege blijft met betrekking tot overdrachten als bedoeld in artikel 15ai van de Wet Vpb, waarbij *<naam verdwijnende moedermaatschappij>* en haar gevoegde dochtermaatschappij(en) als overdrager of overnemer betrokken zijn geweest. Aan deze goedkeuring verbind ik de volgende voorwaarden: 
 
 a. De juridische fusie vindt plaats met toepassing van [artikel 14b, tweede of derde lid, van de Wet Vpb](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).  
 
@@ -404,5 +404,5 @@ c. Alle overdrachten als bedoeld in [artikel 15ai van de Wet Vpb](../../../../..
 
 d. Ingeval de nieuw gevormde fiscale eenheid verbreekt met terugwerkende kracht tot het in voorwaarde b. bedoelde voegingstijdstip, vindt toepassing van artikel 15ai van de Wet Vpb plaats op dat tijdstip bij de nieuw gevormde fiscale eenheid.  
 
-e. *<Naam verkrijgende rechtspersoon>, <naam verdwijnende moedermaatschappij>* en *<alle dochtermaatschappijen van de oude fiscale eenheid>* verklaren binnen twee maanden na dagtekening van deze brief schriftelijk aan mij dat zij instemmen met de in deze brief gegeven goedkeuring en de daaraan verbonden voorwaarden.   Hoogachtend, Belastingdienst/<Regio>/<kantoor> De inspecteur ...................  
+e.  *<Naam verkrijgende rechtspersoon>, <naam verdwijnende moedermaatschappij>* en *<alle dochtermaatschappijen van de oude fiscale eenheid>* verklaren binnen twee maanden na dagtekening van deze brief schriftelijk aan mij dat zij instemmen met de in deze brief gegeven goedkeuring en de daaraan verbonden voorwaarden.   Hoogachtend, Belastingdienst/<Regio>/<kantoor> De inspecteur ................... 
 

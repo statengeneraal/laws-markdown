@@ -16,114 +16,146 @@ Hebben goedgevonden en verstaan:
 
 #### [Wet op de ruimtelijke ordening](../../../../../../../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md) 
 
-### artikel  I  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+### artikel  I  
+Materieel uitgewerkt per 01-07-2008 
+
+Bevat wijzigingen in andere regelgeving.  
 
 ### Hoofdstuk  2  
 
 #### [Wet Milieubeheer](../../../../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) 
 
-### Artikel  II  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+### Artikel  II  
+Materieel uitgewerkt per 01-07-2008 
+
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  V  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VI  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VII  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VIII  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IX  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  X  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  XI  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  XII  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  XIII  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  XIV  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  XV  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  XVI  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  XVII  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  XVIII  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IXX  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  XX  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  XXI  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  XXII  
+Materieel uitgewerkt per 01-07-2008 
 
-1.  Indien een aanvraag om een vergunning krachtens [artikel 8.1 van de Wet milieubeheer](../../../../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is ingediend bij burgemeester en wethouders vóór het tijdstip waarop ingevolge [artikel 8.2 *a*, eerste lid, onder *a*, van die wet](../../../../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) de bevoegdheid om te beslissen op die aanvraag overgaat naar het dagelijks bestuur van een regionaal openbaar lichaam als bedoeld in de [Kaderwet bestuur in verandering](../../../../../../../../../../../../../wet/kaderwet/bestuur/in/verandering/BWBR0006620/README.md), blijft het voor dat tijdstip ten aanzien van de beslissing op die aanvraag geldende recht van toepassing tot het tijdstip waarop de beslissing onherroepelijk is geworden.   
-2.  Indien het voornemen tot het geven van een beschikking met betrekking tot een vergunning krachtens [artikel 8.1 van de Wet milieubeheer](../../../../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) door burgemeester en wethouders is bekendgemaakt vóór het tijdstip waarop ingevolge [artikel 8.2 *a*, eerste lid, onder *a*, van die wet](../../../../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) de bevoegdheid om te beslissen op een aanvraag om een zodanige vergunning overgaat naar het dagelijks bestuur van een regionaal openbaar lichaam als bedoeld in de [Kaderwet bestuur in verandering](../../../../../../../../../../../../../wet/kaderwet/bestuur/in/verandering/BWBR0006620/README.md), blijft het voor dat tijdstip ten aanzien van die beschikking geldende recht van toepassing tot het tijdstip waarop de beslissing onherroepelijk is geworden.   
+1.  Indien een aanvraag om een vergunning krachtens [artikel 8.1 van de Wet milieubeheer](../../../../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is ingediend bij burgemeester en wethouders vóór het tijdstip waarop ingevolge [artikel 8.2*a*, eerste lid, onder *a*, van die wet](../../../../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) de bevoegdheid om te beslissen op die aanvraag overgaat naar het dagelijks bestuur van een regionaal openbaar lichaam als bedoeld in de [Kaderwet bestuur in verandering](../../../../../../../../../../../../../wet/kaderwet/bestuur/in/verandering/BWBR0006620/README.md), blijft het voor dat tijdstip ten aanzien van de beslissing op die aanvraag geldende recht van toepassing tot het tijdstip waarop de beslissing onherroepelijk is geworden.   
+2.   Indien het voornemen tot het geven van een beschikking met betrekking tot een vergunning krachtens [artikel 8.1 van de Wet milieubeheer](../../../../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) door burgemeester en wethouders is bekendgemaakt vóór het tijdstip waarop ingevolge [artikel 8.2*a*, eerste lid, onder *a*, van die wet](../../../../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) de bevoegdheid om te beslissen op een aanvraag om een zodanige vergunning overgaat naar het dagelijks bestuur van een regionaal openbaar lichaam als bedoeld in de [Kaderwet bestuur in verandering](../../../../../../../../../../../../../wet/kaderwet/bestuur/in/verandering/BWBR0006620/README.md), blijft het voor dat tijdstip ten aanzien van die beschikking geldende recht van toepassing tot het tijdstip waarop de beslissing onherroepelijk is geworden.  
 
 ### Hoofdstuk  3  
 
 #### Wet personenvervoer 
 
-### Artikel  XXIII  
+Materieel uitgewerkt per 01-07-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+### Artikel  XXIII  
+Materieel uitgewerkt per 01-07-2008 
+
+Bevat wijzigingen in andere regelgeving.  
 
 ### Hoofdstuk  4  
 
 ####Slotbepalingen
 
-### Artikel  XXIV  
+Materieel uitgewerkt per 01-07-2008 
 
-Dit besluit treedt in werking met ingang van 1 juli 1994.  
+### Artikel  XXIV  
+Materieel uitgewerkt per 01-07-2008 
+
+Dit besluit treedt in werking met ingang van 1 juli 1994. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

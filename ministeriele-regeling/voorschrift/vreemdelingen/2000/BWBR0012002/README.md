@@ -325,7 +325,7 @@ c. een door de Minister erkende particuliere onderzoeksinstelling.
 1.  Voor de erkenning van een onderzoeksinstelling als bedoeld in artikel 3.18b, onder c, kan een aanvraag worden ingediend bij het loket kennis- en arbeidsmigratie van de Immigratie- en Naturalisatiedienst.   
 2.  De aanvraag wordt ingewilligd, indien: 
 
-a. de onderzoeksinstelling is opgenomen in de Nederlandse Onderzoek Databank; of  
+a. de onderzoeksinstelling is opgenomen in het National Academic Research and Collaborations Information System; of  
 
 b. de onderzoeksinstelling in het bezit is van een ten name van de instelling afgegeven S&O-verklaring als bedoeld in [artikel 1, eerste lid, onderdeel q van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), welke verklaring betrekking heeft op ten minste een deel van het lopende of het vorige kalenderjaar, mits het door de instelling verrichte onderzoek naar het oordeel van Onze Minister van voldoende wetenschappelijk niveau is.     
 3.  De erkenning, bedoeld in artikel 3.18b, onder c, geldt voor ten minste vijf jaren.   
@@ -451,18 +451,20 @@ b. de vreemdeling in het bezit is van een geldige machtiging tot voorlopig verbl
 
 ### Artikel  3.34  
 
-1.  Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), is de vreemdeling die in het bezit is van een mvv, geldig voor het doel waar verblijf voor wordt gevraagd, een bedrag van € 188 verschuldigd.   
-2.  Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), is de vreemdeling die niet in het bezit is van een mvv geldig voor het doel waar verblijf voor wordt gevraagd, een bedrag van € 331 verschuldigd, met uitzondering van de vreemdeling die: 
+1.  Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), is de vreemdeling die in het bezit is van een mvv, geldig voor het doel waar verblijf voor wordt gevraagd, een bedrag van € 300 verschuldigd, met uitzondering van de vreemdeling die ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder y en cc, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een bedrag van € 188 verschuldigd is.   
+2.  Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), is de vreemdeling die niet in het bezit is van een mvv geldig voor het doel waar verblijf voor wordt gevraagd, een bedrag van € 600 verschuldigd, met uitzondering van de vreemdeling die: 
 
-a. ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel, bedoeld in [artikel 3.4, eerste lid onder e, f, g, h, i, j, k, l, n, o, p, of q, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een bedrag van € 433 verschuldigd is;  
+a. ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder b, c, e, g, r, t, u, v en w en derde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), met uitzondering van het verblijfsdoel ‘verblijf gedurende zoekjaar afgestudeerde’ en het verblijfsdoel ‘verblijf gedurende zoekjaar hoogopgeleide’, een bedrag van € 950 is verschuldigd;  
 
-b. ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel, bedoeld in [artikel 3.4, eerste lid, onder a of d, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een bedrag van € 830 verschuldigd is;  
+b. ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel, bedoeld in [artikel 3.4, eerste lid, onder a of d, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een bedrag van € 1250 verschuldigd is;  
 
-c. ter zake van de afdoening van de gelijktijdig met de aanvraag van de hoofdpersoon tot het verlenen van een verblijfsvergunning voor een ander verblijfsdoel dan bedoeld in [artikel 3.4, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), ingediende aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), voor verblijf bij die hoofdpersoon, een bedrag van € 188 is verschuldigd;  
+c. ter zake van de afdoening van de gelijktijdig met de aanvraag van de hoofdpersoon tot het verlenen van een verblijfsvergunning voor een ander verblijfsdoel dan bedoeld in [artikel 3.4, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), ingediende aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), voor verblijf bij die hoofdpersoon, een bedrag van € 250 is verschuldigd;  
 
-d. ter zake van de afdoening van de gelijktijdig met de aanvraag van de vreemdeling tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), die daarvoor een bedrag van € 830 is verschuldigd, ingediende aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een bedrag van € 188 is verschuldigd;  
+d. ter zake van de afdoening van de gelijktijdig met de aanvraag van de vreemdeling tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), die daarvoor een bedrag van € 1250 is verschuldigd, ingediende aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een bedrag van € 250 is verschuldigd;  
 
-e. ter zake van de afdoening van de eerste aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), ten behoeve een in Nederland geboren kind uit één ouder die houder is van een verblijfsvergunning als bedoeld in [artikel 14](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [20](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [28](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of [33 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), een bedrag van € 188 verschuldigd is.     
+e. ter zake van de afdoening van de eerste aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), ten behoeve een in Nederland geboren kind uit één ouder die houder is van een verblijfsvergunning als bedoeld in [artikel 14](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [20](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [28](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of [33 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), een bedrag van € 250 verschuldigd is;  
+
+f. ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder y of cc, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een bedrag van € 750 is verschuldigd.     
 3.  In afwijking van het eerste en tweede lid is de vreemdeling van Turkse nationaliteit ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel, bedoeld in [artikel 3.4, eerste lid, onder e, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een bedrag van € 43 verschuldigd.   
 4.  In afwijking van het eerste en tweede lid is de vreemdeling van Turkse nationaliteit ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in het kader van het verrichten van arbeid in loondienst, het verrichten van arbeid als geestelijk voorganger of godsdienstleraar, verblijf als stagiair of practicant, verblijf als kennismigrant als bedoeld in [artikel 1d van het Besluit uitvoering Wet arbeid vreemdelingen](../../../../../AMvB/besluit/uitvoering/wet/arbeid/vreemdelingen/BWBR0007523/README.md), verblijf als onderzoeker in de zin van richtlijn 2005/71/EG, verblijf als onbezoldigde wetenschappelijk onderzoeker of verblijf als onbezoldigde gastdocent, een bedrag van € 43 verschuldigd.   
 5.  In afwijking van het eerste en tweede lid is het gezinslid van een vreemdeling als bedoeld in het vierde lid, ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) een bedrag van € 43 verschuldigd.   
@@ -518,15 +520,17 @@ m. als minderjarig kind een aanvraag indient tot het verlenen van een verblijfsv
 
 ### Artikel  3.34c  
 
-1.  Ter zake van de afdoening van een aanvraag tot het wijzigen van de verblijfsvergunning, bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), is de vreemdeling een bedrag van € 331 verschuldigd, met uitzondering van de vreemdeling indien hij: 
+1.  Ter zake van de afdoening van een aanvraag tot het wijzigen van de verblijfsvergunning, bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), is de vreemdeling een bedrag van € 600 verschuldigd, met uitzondering van de vreemdeling indien hij: 
 
-a. een aanvraag indient tot het wijzigen van de verblijfsvergunning, in een verblijfsvergunning bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder e, f, g, h, i, j, k, l, n, o , p, of q, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), ter zake van de afdoening waarvan een bedrag van € 433 is verschuldigd;  
+a. een aanvraag indient tot het wijzigen van de verblijfsvergunning, in een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder b, c, e, g, r, t, u, v en w en derde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), met uitzondering van het verblijfsdoel ‘verblijf gedurende zoekjaar afgestudeerde’ en het verblijfsdoel ‘verblijf gedurende zoekjaar hoogopgeleide’, ter zake van de afdoening waarvan een bedrag van € 950 is verschuldigd;  
 
-b. een aanvraag indient tot het wijzigen van de verblijfsvergunning, in een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder a of d, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), ter zake van de afdoening waarvan een bedrag van € 830 is verschuldigd;  
+b. een aanvraag indient tot het wijzigen van de verblijfsvergunning, in een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder a of d, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), ter zake van de afdoening waarvan een bedrag van € 1250 is verschuldigd;  
 
-c. ter zake van de afdoening van een gelijktijdig met de aanvraag van de hoofdpersoon tot het wijzigen van een verblijfsvergunning voor een ander verblijfsdoel dan bedoeld in [artikel 3.4, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), ingediende aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), voor verblijf bij die hoofdpersoon, een bedrag van € 188 is verschuldigd;  
+c. ter zake van de afdoening van een gelijktijdig met de aanvraag van de hoofdpersoon tot het wijzigen van een verblijfsvergunning voor een ander verblijfsdoel dan bedoeld in [artikel 3.4, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), ingediende aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), voor verblijf bij die hoofdpersoon, een bedrag van € 250 is verschuldigd;  
 
-d. ter zake van de afdoening van een gelijktijdig met de aanvraag van een vreemdeling tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), die daarvoor € 830 is verschuldigd, ingediende aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een bedrag van € 188 is verschuldigd.     
+d. ter zake van de afdoening van een gelijktijdig met de aanvraag van een vreemdeling tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), die daarvoor € 1250 is verschuldigd, ingediende aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een bedrag van € 250 is verschuldigd;  
+
+e. een aanvraag indient tot het wijzigen van de verblijfsvergunning in een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder y of cc, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), ter zake van de afdoening waarvan een bedrag van € 750 is verschuldigd.     
 2.  In afwijking van het eerste lid is de vreemdeling een bedrag van € 60 verschuldigd die: 
 
 a. werknemer is op een mijnbouwinstallatie op het continentaal plat en een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) doet, voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder j, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  
@@ -534,16 +538,29 @@ a. werknemer is op een mijnbouwinstallatie op het continentaal plat en een aanvr
 b. werkzaamheden als bedoeld in artikel 40, eerste lid, van het op 7 juni 2007 te ’s-Gravenhage tot stand gekomen Zetelverdrag tussen het Internationaal Strafhof en het Gastland (Trb. 2007, 25) verricht en een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) doet, voor het verblijfsdoel ‘verblijf in het kader van zetelovereenkomst’ op grond van [artikel 3.4, derde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  
 
 c. met het oog op het verrichten van de in de voorlaatste alinea van de brief van 21 december 2007 van de Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de Verenigde Naties, behorend bij het op 21 december 2007 te New York tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciale Tribunaal voor Libanon (Trb. 2007, 228) een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) doet voor het verblijfsdoel ‘verblijf in het kader van zetelovereenkomst’ op grond van [artikel 3.4, derde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md).     
-3.  In afwijking van het eerste lid is de vreemdeling van Turkse nationaliteit en aan wie het verrichten van arbeid in loondienst is toegestaan ter zake van de afdoening van een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) op basis waarvan het verrichten van arbeid is toegestaan een bedrag van € 43 verschuldigd.   
-4.  In afwijking van het eerste lid is het gezinslid van een vreemdeling als bedoeld in het derde lid, ter zake van de afdoening van een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) een bedrag van € 43 verschuldigd.   
+3.  In afwijking van het eerste lid is de vreemdeling een bedrag van € 350 verschuldigd die: 
+
+a. een aanvraag indient tot het wijzigen van de verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), in het kader van dreigend eergerelateerd geweld, onder de beperking ‘conform beschikking Minister‘, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, in het kader van dreigend eergerelateerd geweld, voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder u, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  
+
+b. een aanvraag indient tot het wijzigen van de verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), in het kader van verblijf als slachtoffer mensenhandel, onder de beperking ‘conform beschikking Minister’ of onder de beperking als bedoeld in [artikel 3.4, eerste lid, onder s, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, in het kader van verblijf als slachtoffer mensenhandel, voor een verblijfsdoel als bedoeld in artikel 3.4, eerste lid, onder u, van het Besluit;  
+
+c. een aanvraag indient tot het wijzigen van de verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), in het kader van huiselijk geweld, onder de beperking ‘conform beschikking Minister’, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, in het kader van huiselijk geweld, voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder u, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  
+
+d. een aanvraag indient tot het wijzigen van de verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder de beperking, bedoeld in [artikel 3.4, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, in het kader van een verbroken relatie wegens ondervonden huiselijk geweld of eergerelateerd geweld, voor een verblijfsdoel als bedoeld in artikel 3.4, eerste lid, onder u, van het Besluit;  
+
+e. als minderjarige vreemdeling een aanvraag indient tot het wijzigen van de verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder de beperking, bedoeld in [artikel 3.4, eerste lid, onder a, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, in het kader van ondervonden huiselijk geweld of eergerelateerd geweld, voor een verblijfsdoel als bedoeld in artikel 3.4, eerste lid, onder u, van het Besluit;  
+
+f. een aanvraag indient tot het wijzigen van de verblijfsvergunning, in een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), in het kader van achterlating, voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder u, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md).     
+4.  In afwijking van het eerste lid is de vreemdeling van Turkse nationaliteit en aan wie het verrichten van arbeid in loondienst is toegestaan ter zake van de afdoening van een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) op basis waarvan het verrichten van arbeid is toegestaan een bedrag van € 43 verschuldigd.   
+5.  In afwijking van het eerste lid is het gezinslid van een vreemdeling als bedoeld in het derde lid, ter zake van de afdoening van een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) een bedrag van € 43 verschuldigd.   
 
 ### Artikel  3.34d  
 
-1.  Ter zake van de afdoening van een aanvraag tot het verlengen van de geldigheidsduur van de verblijfsvergunning, bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), is de vreemdeling een bedrag van € 288 verschuldigd met uitzondering van de vreemdeling die: 
+1.  Ter zake van de afdoening van een aanvraag tot het verlengen van de geldigheidsduur van de verblijfsvergunning, bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), is de vreemdeling een bedrag van € 375 verschuldigd met uitzondering van de vreemdeling die: 
 
-a. ter zake van de afdoening van een aanvraag tot het verlengen van de verblijfsvergunning, bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder n, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een bedrag van € 52 verschuldigd is;  
+a. ter zake van de afdoening van een aanvraag tot het verlengen van de verblijfsvergunning, bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder n, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een bedrag van € 150 verschuldigd is;  
 
-b. ter zake van de afdoening van een aanvraag tot het verlengen van een verblijfsvergunning, bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder de beperking ‘(verruimde) gezinshereniging bij ouder(s)’, een bedrag van € 52 verschuldigd.  
+b. ter zake van de afdoening van een aanvraag tot het verlengen van een verblijfsvergunning, bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), onder de beperking ‘(verruimde) gezinshereniging bij ouder(s)’, een bedrag van € 150 verschuldigd.  
 
 c. ter zake van de afdoening van een aanvraag tot het verlengen van de verblijfsvergunning, bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), voor een verblijfsdoel als bedoeld in [artikel 3.4, eerste lid, onder j, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een bedrag van € 60 verschuldigd is, indien hij werknemer is op een mijnbouwinstallatie op het continentaal plat.  
 
@@ -1001,6 +1018,41 @@ c. de verantwoordelijke verricht integriteits- en kwaliteitsaudits ten aanzien v
 1.  De artikelen 3.1 en 3.2 zijn niet van toepassing op kinderen beneden de leeftijd van twaalf jaar, die bij een van hun ouders inwonen, indien in het aan deze ouder verstrekte document, bedoeld in de artikelen 3.1 en 3.2, is aangetekend dat de hem verleende vergunning tot verblijf mede voor deze kinderen geldt.   
 2.  Het document of de verklaring, afgegeven op grond van de Vreemdelingenwet blijft geldig tot de daarop aangegeven datum, dan wel tot de vervanging van dat document door een document afgegeven op grond van de [Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
 
+### Artikel  7.2a  
+
+1.  Indien de vreemdeling, bedoeld in [artikel 8.7, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), zich aanmeldt voor inschrijving in de vreemdelingenadministratie, legt hij de volgende gegevens en bescheiden over: 
+
+a. een geldige identiteitskaart of een geldig paspoort;  
+
+b. voor zover hij in Nederland verblijft als werknemer: een werkgeversverklaring of arbeidsovereenkomst waaruit blijkt dat hij in Nederland reële en daadwerkelijke arbeid verricht anders dan louter marginaal en bijkomstig van aard;.  
+
+c. voor zover hij in Nederland verblijft als zelfstandige: een bewijs van inschrijving in het handelsregister en bewijs waaruit blijkt dat hij in Nederland reële en daadwerkelijke arbeid verricht anders dan louter marginaal en bijkomstig van aard, zoals een daartoe strekkende balans, winst- of verliesrekening, maandelijkse opgaven van bedrijfsresultaten of, als de genoemde bewijsstukken nog niet aanwezig zijn, verklaring of prognose, opgesteld door een accountant of financieel adviseur;  
+
+d. voor zover hij in Nederland verblijft als student: een bewijs van inschrijving voor een opleiding, bedoeld in [artikel 8.12, eerste lid, onder c, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), een verklaring of een gelijkwaardig middel naar zijn keuze waaruit blijkt hij beschikt over voldoende middelen van bestaan en een bewijs van een verzekering die de ziektekosten in Nederland volledig dekt;  
+
+e. voor zover hij in Nederland verblijft als economisch niet-actieve: een bewijsstuk waaruit blijkt dat wordt beschikt over toereikende bestaansmiddelen om te voorkomen dat de vreemdeling tijdens het verblijf ten laste komt van de algemene middelen en een bewijs van een verzekering die de ziektekosten in Nederland volledig dekt.     
+2.  Indien de vreemdeling, bedoeld in [artikel 8.7, tweede, derde of vierde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), die de nationaliteit bezit van een staat als bedoeld in het eerste lid van dat artikel, zich aanmeldt voor inschrijving in de vreemdelingenadministratie, legt hij de volgende gegevens en bescheiden over: 
+
+a. een geldige identiteitskaart of een geldig paspoort;  
+
+b. de verklaring van inschrijving van de vreemdeling, bedoeld in [artikel 8.7, eerste lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), bij wie hij in Nederland verblijft;  
+
+c. een document waaruit de familierechtelijke relatie of duurzame relatie blijkt met de vreemdeling, bedoeld onder b; en  
+
+d. voor zover hij in Nederland verblijft als familielid als bedoeld in [artikel 8.7, tweede lid, onder c of d, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md): bewijs dat hij een dergelijk familielid is;  
+
+e. voor zover hij in Nederland verblijft als familielid als bedoeld in [artikel 8.7, derde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md): een door de bevoegde instantie van het land van herkomst afgegeven verklaring dat hij ten laste komt van of inwoont bij de vreemdeling, bedoeld onder b, onderscheidenlijk bewijs van ernstige gezondheidsredenen die de persoonlijke zorg door die vreemdeling noodzakelijk maken;  
+
+f. voor zover hij in Nederland verblijft als partner als bedoeld in [artikel 8.7, vierde lid, van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md): een relatieverklaring als bedoeld in bijlage 23 bij deze regeling;  
+
+g. voor zover hij in Nederland verblijft als rechtstreekse bloedverwant in de neergaande lijn, jonger dan 18 jaar, van een partner als bedoeld onder f: bewijs dat is voldaan aan de [artikelen 3.13 tot en met 3.22 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md).     
+
+### Artikel  7.2b  
+
+1.  De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), kan onder een beperking verband houdend met het zoeken en verrichten van arbeid al dan niet in loondienst worden verleend aan de vreemdeling die verblijfsrecht ontleent aan het Besluit nr. 1/80 van de Associatieraad EEG-Turkije betreffende de ontwikkeling van de Associatie en wiens huwelijk met een persoon met een niet-tijdelijk verblijfsrecht na drie jaar is ontwricht of ontbonden, indien de vreemdeling op grond van dat huwelijk was toegelaten en één jaar direct voorafgaande aan de ontwrichting van het huwelijk rechtmatig verblijf had als bedoeld in [artikel 8, onder a, van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
+2.  De verblijfsvergunning wordt verleend voor de duur van ten hoogste één jaar, te berekenen vanaf de datum van verbreking of ontwrichting van het huwelijk maar niet eerder dan de datum van de aanvraag, of zoveel langer als de vreemdeling wegens het ontbreken van een verblijfsvergunning geen toegang tot de arbeidsmarkt had. De geldigheidsduur ervan wordt niet verlengd.   
+3.  De verblijfsvergunning kan worden gewijzigd in een verblijfsvergunning onder een beperking verband houdend met voortgezet verblijf, indien de vreemdeling uiterlijk op het moment waarop de geldigheidsduur verstrijkt, beschikt over een arbeidsplaats voor nog een jaar waarmee hij zelfstandig en duurzaam voldoende middelen van bestaan als bedoeld in de [artikelen 3.73 tot en met 3.75 van het Besluit](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) verwerft.   
+
 ### Artikel  7.3  
 
 Het Voorschrift Vreemdelingen wordt ingetrokken.  
@@ -1163,13 +1215,11 @@ Lidstaten van de EU Lidstaten van de EER Australië Canada Japan Monaco Nieuw-Ze
 ####document I
 
 ![42712](http://wetten.overheid.nl/Illustration/42712)
-![42712](http://wetten.overheid.nl/Illustration/42712)
 
 ### Bijlage  7b  
 
 ####document II
 
-![42714](http://wetten.overheid.nl/Illustration/42714)
 ![42714](http://wetten.overheid.nl/Illustration/42714)
 
 ### Bijlage  7c  
@@ -1177,20 +1227,17 @@ Lidstaten van de EU Lidstaten van de EER Australië Canada Japan Monaco Nieuw-Ze
 ####document III
 
 ![42716](http://wetten.overheid.nl/Illustration/42716)
-![42716](http://wetten.overheid.nl/Illustration/42716)
 
 ### Bijlage  7d  
 
 ####document IV
 
 ![42718](http://wetten.overheid.nl/Illustration/42718)
-![42718](http://wetten.overheid.nl/Illustration/42718)
 
 ### Bijlage  7e  
 
 ####document EU/EER
 
-![42720](http://wetten.overheid.nl/Illustration/42720)
 ![42720](http://wetten.overheid.nl/Illustration/42720)
 
 ### Bijlage  7f  
@@ -2020,4 +2067,11 @@ Onderstaande niet door aanvrager in te vullen.
 ![227049](http://wetten.overheid.nl/Illustration/227049)
 ![227049](http://wetten.overheid.nl/Illustration/227049)
 ![227049](http://wetten.overheid.nl/Illustration/227049)
+
+### Bijlage  23  
+
+####, behorend bij artikel 7.2a, tweede lid, onder f , Voorschrift Vreemdelingen 2000
+
+![249022](http://wetten.overheid.nl/Illustration/249022)
+![249022](http://wetten.overheid.nl/Illustration/249022)
 

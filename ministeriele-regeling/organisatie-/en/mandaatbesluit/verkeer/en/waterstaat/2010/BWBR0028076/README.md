@@ -65,7 +65,7 @@ b. het directoraat-generaal Mobiliteit;
 
 c. het directoraat-generaal Water;  
 
-d. de hoofddirectie Anders Betalen voor Mobiliteit;  
+d. de directie Concern Informatievoorziening;  
 
 e. de hoofddirectie Juridische Zaken;  
 
@@ -126,8 +126,8 @@ f. het toezicht op het beheer en de bedrijfsvoering van de aan het ministerie ge
 g. het voeren van overleg met de Groepsondernemingsraad en het Departementaal Georganiseerd Overleg, bedoeld in [artikel 113 van het Algemeen Rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
 h. het nemen van besluiten op verzoeken, bedoeld in de [Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), een en ander overeenkomstig de [Regeling ter uitvoering van de Wet openbaarheid van bestuur (V&W)](../../../../../../../../../ministeriele-regeling/regeling/ter/uitvoering/van/de/wet/openbaarheid/van/bestuur/(vw)/BWBR0005523/README.md).     
-3.  Bij afwezigheid of verhindering van de secretaris-generaal is de directeur-generaal Luchtvaart en Maritieme Zaken bevoegd om als plaatsvervanger op te treden.   
-4.  In aanvulling op het derde lid kan de secretaris-generaal bepalen dat de directeur-generaal Luchtvaart en Maritieme Zaken ook in andere situaties in zijn plaats kan op treden.   
+3.  Bij afwezigheid of verhindering van de secretaris-generaal is de directeur-generaal Ruimte, bedoeld in [artikel 1, sub g, onder 3°, van het Organisatiebesluit VROM 2008](../../../../../../../../../ministeriele-regeling/organisatiebesluit/vrom/2008/BWBR0023797/README.md) bevoegd om als plaatsvervanger op te treden.   
+4.  In aanvulling op het derde lid kan de secretaris-generaal bepalen dat de directeur-generaal Ruimte, bedoeld in [artikel 1, sub g, onder 3°, van het Organisatiebesluit VROM 2008](../../../../../../../../../ministeriele-regeling/organisatiebesluit/vrom/2008/BWBR0023797/README.md) ook in andere situaties in zijn plaats kan op treden.   
 5.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de secretaris-generaal.   
 
 ### §  2.3  
@@ -203,24 +203,26 @@ c. de afdeling Strategie, Economie en Logistiek: het ontwikkelen en implementere
 
 a. de directie Regionale Bereikbaarheid en Veilig Transport, met het team Regionale Bereikbaarheid, het team Regionale OV-systemen, het team Veilig Transport en het programmateam OV-chipkaart;  
 
-b. de directie Wegen en Verkeersveiligheid, met het team Bereikbaarheid en Wegvervoer, het team Verkeersveiligheid, het team Duurzaamheid en het team Toezicht;  
+b. de directie Wegen en Verkeersveiligheid, met het team Aanleg Weginfrastructuur, het team Infra- en Wegvervoerbeleid, het team Inpassing en Programmabureau, het team Verkeersveiligheid en het team Toezicht;  
 
 c. de directie Spoorvervoer, met het team Instandhouding en Beheer, het team Bestuurlijke Aanleg, het team Veiligheid, Systemen en Ontwikkeling Betuweroute, het team Goederenvervoer en Personenvervoer, het team Netwerkontwikkeling, het team Ordening en het team Ondersteuning;  
 
-d. de projectdirectie Sneller en Beter;  
+d. de programmadirectie Beter Benutten;  
 
-e. het team Investeringsbeleid en Strategie;  
+e. het Rijk-regioprogramma Almere – Amsterdam – Markermeer;  
 
-f. het programmateam Randstad Urgent; en  
+f. het team Investeringsbeleid en Strategie;  
 
-g. het team Staf directeur-generaal Mobiliteit.     
-3.  De onderdelen, genoemd in het tweede lid, onder a, b, c en d, staan onder leiding van een directeur. De onderdelen genoemd in het tweede lid, onder e, f en g staan onder leiding van een afdelingshoofd. Alle teams binnen een onderdeel staan onder leiding van een afdelingshoofd.   
+g. het programmateam Randstad Urgent; en  
+
+h. het team Staf directeur-generaal Mobiliteit.     
+3.  De onderdelen genoemd in het tweede lid, onder a, b, c, d en e staan onder leiding van een directeur. De onderdelen genoemd in het tweede lid, onder f, g en h, staan onder leiding van een afdelingshoofd. Alle teams binnen een onderdeel, met uitzondering van het team Toezicht, staan onder leiding van een afdelingshoofd.   
 4.  Bij afwezigheid of verhindering van de plaatsvervangend directeur-generaal Mobiliteit zijn de overige directeuren bevoegd om als plaatsvervanger op te treden.   
 5.  Bij afwezigheid of verhindering van een directeur, zijn de overige directeuren bevoegd om als elkaars plaatsvervanger op te treden.   
 6.  Bij afwezigheid of verhindering van een afdelingshoofd zijn de overige afdelingshoofden binnen het onderdeel bevoegd om als elkaars plaatsvervanger op te treden.   
 7.  In aanvulling op het eerste en vierde lid kan de directeur-generaal Mobiliteit bepalen dat de plaatsvervangend directeur-generaal Mobiliteit of een van diens plaatsvervangers ook in andere situaties in zijn plaats kan optreden.   
 8.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de directeur-generaal Mobiliteit. Behoudens andersluidende instructies vindt plaatsvervanging plaats bij afwezigheid of verhindering van meer dan twee opeenvolgende dagen van de te vervangen functionaris.   
-9.  Het directoraat-generaal Mobiliteit en zijn onderdelen hebben de taken genoemd in het tiende tot en met het zestiende lid.   
+9.  Het directoraat-generaal Mobiliteit en zijn onderdelen hebben de taken genoemd in het tiende tot en met het zeventiende lid.   
 10.  De directie Regionale Bereikbaarheid en Veilig Transport en haar teams hebben de volgende taken: 
 
 a. het team Regionale Bereikbaarheid: het ontwikkelen en implementeren van beleid met betrekking tot bereikbaarheid en van een regionaal Openbaar Vervoersysteem;  
@@ -232,13 +234,15 @@ c. het team Veilig Transport: het ontwikkelen en implementeren van beleid met be
 d. het programmateam OV-chipkaart: het gefaseerd invoeren op landelijk niveau van de OV-chipkaart in tram, bus, metro en trein.     
 11.  De directie Wegen en Verkeersveiligheid en haar teams hebben de volgende taken: 
 
-a. het team Bereikbaarheid en wegvervoer: het ontwikkelen en implementeren van beleid met betrekking tot de structuur, functie, uitbreiding, benutting en onderhoud van het hoofdwegennet;  
+a. het team Aanleg Weginfrastructuur: het voorbereiden van besluitvorming over uitbreiden van bestaande en/of aanleggen van nieuwe rijkswegen;  
 
-b. het team Verkeersveiligheid: het ontwikkelen en implementeren van beleid met betrekking tot een goede bereikbaarheid en een duurzaam veilig verkeer- en vervoersysteem;  
+b. het team Infra- en Wegvervoerbeleid: het ontwikkelen en implementeren van beleid voor de structuur, functie, uitbreiding, benutting en onderhoud van het hoofdwegennet en voor het goederenvervoer over de weg;  
 
-c. het team Duurzaamheid: het ontwikkelen en implementeren van beleid met betrekking tot verkeer en milieu; en  
+c. het team Inpassing en Programmabureau: het ontwikkelen en implementeren van beleid met betrekking tot de inpassing van wegen in relatie tot milieu en natuur, het voeren van regie over, het borgen van de kwaliteit van en het leveren van ondersteuning aan verkenningen en planstudies en de beleidsondersteuning van beleidsdossiers op gebied van bereikbaarheid;  
 
-d. het team Toezicht: het ontwikkelen van een visie op sturing en toezicht op zelfstandige bestuursorganen, het in de praktijk beter benutten van bestaande sturingsinstrumenten en beheersingsinstrumenten, alsmede het leveren van een bijdrage aan de optimalisatie van de sturingsrelatie tussen het ministerie en de zelfstandige bestuursorganen.     
+d. het team Verkeersveiligheid: het ontwikkelen en implementeren van beleid met betrekking tot een goede bereikbaarheid en een veilig verkeer- en vervoersysteem; en  
+
+e. het team Toezicht: het ontwikkelen van een visie op sturing en toezicht op zelfstandige bestuursorganen, het in de praktijk beter benutten van bestaande sturingsinstrumenten en beheersingsinstrumenten, alsmede het leveren van een bijdrage aan de optimalisatie van de sturingsrelatie tussen het ministerie en de zelfstandige bestuursorganen.     
 12.  De directie Spoorvervoer en haar teams hebben de volgende taken: 
 
 a. het team Instandhouding en Beheer: het faciliteren van onderhoud en uitbreiding van de infrastructuur om te komen tot een maatschappelijk verantwoord spoor;  
@@ -254,10 +258,11 @@ e. het team Netwerkontwikkeling: het bevorderen van het reizigersvervoer op het 
 f. het team Ordening: de ordening van de spoorsector om publiek belang te borgen binnen kaders van nationaal en internationaal beleid en regelgeving; en  
 
 g. het team Ondersteuning: de ondersteuning van de directie Spoorvervoer in haar werkzaamheden.     
-13.  De projectdirectie Sneller en Beter heeft als taak het verder uitvoeren en afronden van eerder vastgelopen projecten van het directoraat-generaal Mobiliteit, die als urgent zijn aangemerkt, en het structureel verbeteren van het besluitvormingsproces, hetgeen leidt tot snellere en betere besluitvorming.   
-14.  Het team Investeringsbeleid en Strategie heeft als taak het ontwikkelen en implementeren van beleid met betrekking tot de infrastructuurprogrammering van het ministerie en het daarmee samenhangende investeringsbeleid en strategie.   
-15.  Het programma team Randstad Urgent heeft als taak de coördinatie van het programma, dat tot doel heeft een betere bereikbaarheid en een beter woonklimaat, werkklimaat en leefklimaat van de randstad te bereiken, onder meer door de bestuurlijke drukte te verminderen en te komen tot een slagvaardigere overheid.   
-16.  Het team Staf directeur-generaal Mobiliteit heeft als taak de ondersteuning van het directoraat-generaal Mobiliteit op het gebied van aangelegenheden die betrekking hebben op parlementaire zaken, voorbereiding en terugkoppeling van overleg met de bewindslieden, burgerbrieven en interne beleidscommunicatie.   
+13.  De programmadirectie Beter Benutten heeft als taak het opstellen en laten uitvoeren van een programma van maatregelen die gericht zijn op een efficiënt gebruik en optimale benutting van alle beschikbare en nog aan te leggen infrastructuur.   
+14.  Het Rijk-regioprogramma Almere – Amsterdam – Markermeer heeft als taak het opstellen van maatregelen ter verbetering van de bereikbaarheid en internationale concurrentiepositie van de Noordelijke Randstad.   
+15.  Het team Investeringsbeleid en Strategie heeft als taak het ontwikkelen en implementeren van beleid met betrekking tot de infrastructuurprogrammering van het ministerie en het daarmee samenhangende investeringsbeleid en strategie.   
+16.  Het programma team Randstad Urgent heeft als taak de coördinatie van het programma, dat tot doel heeft een betere bereikbaarheid en een beter woonklimaat, werkklimaat en leefklimaat van de randstad te bereiken, onder meer door de bestuurlijke drukte te verminderen en te komen tot een slagvaardigere overheid.   
+17.  Het team Staf directeur-generaal Mobiliteit heeft als taak de ondersteuning van het directoraat-generaal Mobiliteit op het gebied van aangelegenheden die betrekking hebben op parlementaire zaken, voorbereiding en terugkoppeling van overleg met de bewindslieden, burgerbrieven en interne beleidscommunicatie.   
 
 ### Artikel  6  
 
@@ -321,12 +326,32 @@ d. projectdirecteur Rijnmond-Drechtsteden.
 
 ### Artikel  7  
 
-####: Hoofddirectie Anders Betalen voor Mobiliteit
+####: Directie Concern Informatievoorziening
 
-1.  De hoofddirectie Anders Betalen voor Mobiliteit staat onder leiding van de hoofddirecteur Anders Betalen voor Mobiliteit en bij diens afwezigheid of verhindering onder leiding van de plaatsvervangend hoofddirecteur Anders Betalen voor Mobiliteit.   
-2.  In aanvulling op het eerste lid kan de hoofddirecteur Anders Betalen voor Mobiliteit bepalen dat de plaatsvervangend hoofddirecteur Anders Betalen voor Mobiliteit ook in andere situaties in zijn plaats kan optreden.   
-3.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de hoofddirecteur Anders Betalen voor Mobiliteit.   
-4.  De hoofddirectie Anders Betalen voor Mobiliteit heeft tot de taak ontwikkeling en implementatie van de kilometerprijs en tol.   
+1.  De directie Concern Informatievoorziening staat onder leiding van de directeur Concern Informatievoorziening.   
+2.  De directie Concern Informatievoorziening bestaat uit de volgende onderdelen: 
+
+a. de afdeling Advies en Informatiemanagement;  
+
+b. de afdeling Ontwikkeling;  
+
+c. de afdeling Servicemanagement; en  
+
+d. de afdeling Beheer.     
+3.  De onderdelen genoemd in het tweede lid, staan onder leiding van een afdelingshoofd.   
+4.  Bij afwezigheid of verhindering van de directeur zijn de afdelingshoofden bevoegd om als plaatsvervanger op te treden.   
+5.  Bij afwezigheid of verhindering van een afdelingshoofd zijn de overige afdelingshoofden bevoegd om als elkaars plaatsvervanger op te treden.   
+6.  In aanvulling op het vierde lid kan de directeur Concern Informatievoorziening bepalen dat een van zijn plaatsvervangers ook in andere situaties in zijn plaats kan treden.   
+7.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de directeur Concern Informatievoorziening.   
+8.  De directie Concern Informatievoorziening en haar onderdelen hebben de volgende taken: 
+
+a. de afdeling Advies en Informatiemanagement: het adviseren en ondersteunen van de diensten bij de informatievoorziening;  
+
+b. het opstellen van specificaties van informatievoorziening en het uitvoeren van ‘Quality Assurance’ op projecten;  
+
+c. het realiseren en implementeren van de informatievoorziening; en  
+
+d. het waarborgen van de continuïteit van informatiesystemen.     
 
 ### Artikel  8  
 
@@ -843,7 +868,7 @@ e. het ondersteunen van de Adviescommissie Water op de terreinen personeel, info
 
 ####: Mandaat aan en ondermandaat door secretaris-generaal
 
-1.  Onverminderd artikel 26, wordt aan de secretaris-generaal mandaat verleend ten aanzien van aangelegenheden die behoren tot zijn werkterrein en die naar aard en inhoud niet een zodanig gewicht hebben dat zij door de minister, onderscheidenlijk de staatssecretaris, behoren te worden afgedaan.   
+1.  Aan de secretaris-generaal wordt mandaat verleend voor alle bevoegdheden van de minister ten aanzien van het beleid en de bedrijfsvoering van het ministerie, die behoren bij de uitoefening van zijn taken genoemd in paragraaf 2.2, dan wel in overige wetgeving en regelgeving, een en ander tenzij bij wettelijk voorschrift anders is bepaald of de aard van de bevoegdheid zich daartegen verzet.   
 2.  Het mandaat omvat mede de bevoegdheid tot het vaststellen, wijzigen of intrekken van beleidsregels met betrekking tot de gemandateerde bevoegdheid.   
 3.  Tot de bevoegdheden, waarvoor overeenkomstig het eerste lid aan de secretaris-generaal mandaat wordt verleend, behoren in ieder geval de bevoegdheden betreffende: 
 
@@ -903,7 +928,7 @@ n. het nemen van een besluit dat wordt neergelegd in een document gericht tot de
 
 ####: Mandaat aan en ondermandaat door diensthoofden
 
-1.  Onverminderd artikel 26, wordt aan een diensthoofd mandaat verleend ten aanzien van aangelegenheden die behoren tot zijn werkterrein en die naar aard of inhoud niet een zodanig gewicht hebben dat zij door de minister, onderscheidenlijk de staatssecretaris, behoren te worden afgedaan.   
+1.  Aan de diensthoofden wordt mandaat verleend ten aanzien van alle bevoegdheden die behoren bij de uitoefening van de taken van hun dienst genoemd in paragraaf 2.3, dan wel in overige wetgeving en regelgeving, waaronder mede begrepen het bepalen van beleid, het uitvoeren van het beleid en de bedrijfsvoering van de dienst, een en ander tenzij bij wettelijk voorschrift anders is bepaald of de aard van de bevoegdheid zich daartegen verzet.   
 2.  Het in het vorige lid bedoelde mandaat behelst mede bevoegdheden aangaande de ambtelijke rechtspositie van onder de diensthoofden ressorterende functionarissen, met inbegrip van de volgende bevoegdheden: 
 
 a. de ontslagverlening, bedoeld in de [artikelen 96](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [96a](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [96b](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [98](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [99 van het Algemeen Rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
@@ -940,7 +965,7 @@ c. een dienstonderdeelhoofd en functionarissen die niet onder zijn dienst ressor
 
 ####: Mandaat directeur Centrum Publieksparticipatie
 
-1.  Onverminderd artikel 26, wordt aan de directeur Centrum Publieksparticipatie en het afdelingshoofd Bedrijfsvoering, tevens plaatsvervangend directeur Centrum Publieksparticipatie, mandaat verleend ten aanzien van aangelegenheden die behoren tot zijn werkterrein en die naar aard of inhoud niet een zodanig gewicht hebben dat zij door de minister, onderscheidenlijk de staatssecretaris, behoren te worden afgedaan.   
+1.  Aan de directeur Centrum Publieksparticipatie en het afdelingshoofd Bedrijfsvoering, tevens plaatsvervangend directeur Centrum Publieksparticipatie, wordt mandaat verleend ten aanzien van alle bevoegdheden die behoren bij de uitoefening van de taken van het Centrum Publieksparticipatie genoemd in artikel 17, dan wel in overige wetgeving en regelgeving, waaronder mede begrepen de bedrijfsvoering van het Centrum Publieksparticipatie, een en ander tenzij bij wettelijk voorschrift anders is bepaald of de aard van de bevoegdheid zich daartegen verzet.   
 2.  Uitoefening van mandaat geschiedt onverminderd de mandaatverlening aan de secretaris-generaal in artikel 22, en in het bijzonder het bepaalde in het derde lid van voornoemd artikel.   
 3.  Artikel 23, tweede lid, is van overeenkomstige toepassing op het mandaat, bedoeld in het eerste lid.   
 4.  Het mandaat, bedoeld in het eerste lid, omvat niet de bevoegdheid tot beslissen op bezwaar en niet de bevoegdheid tot het vaststellen, wijzigen of intrekken van beleidsregels met betrekking tot de gemandateerde bevoegdheid.   
@@ -951,7 +976,7 @@ c. een dienstonderdeelhoofd en functionarissen die niet onder zijn dienst ressor
 ####: Mandaat secretaris adviesorgaan en overlegorgaan
 
 1.  In afwijking van artikel 1, tweede lid, is dit artikel niet van toepassing op de directeur Centrum Publieksparticipatie. Dit artikel is eveneens niet van toepassing op de secretaris Commissie van advies inzake de waterstaatswetgeving. Het derde lid van dit artikel is niet van toepassing op de secretaris Adviescommissie Water.   
-2.  Onverminderd artikel 26, wordt aan een secretaris van een adviesorgaan en overlegorgaan mandaat verleend ten aanzien van aangelegenheden die behoren tot zijn werkterrein en die naar aard of inhoud niet een zodanig gewicht hebben dat zij door de minister, onderscheidenlijk de staatssecretaris, behoren te worden afgedaan.   
+2.  Aan de secretarissen van adviesorganen en overlegorganen wordt mandaat verleend voor alle bevoegdheden die behoren bij de uitoefening van de taken van hun secretariaat genoemd in paragraaf 2.4 dan wel in overige wetgeving en regelgeving, waaronder mede begrepen de bedrijfsuitvoering van het secretariaat, een en ander tenzij bij wettelijk voorschrift anders is bepaald of de aard van de bevoegdheid zich daartegen verzet.   
 3.  Het in het vorige lid bedoelde mandaat behelst mede bevoegdheden aangaande de ambtelijke rechtspositie van onder de secretarissen van adviesorganen of overlegorganen ressorterende functionarissen, met inbegrip van besluiten over de aanstelling van functionarissen in schaal 13 en hoger en de verdeling van personeelsbudgetten, doch met uitzondering van de volgende bevoegdheden: 
 
 a. de ontslagverlening als bedoeld in de [artikelen 96](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [96a](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [96b](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [98](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [99 van het Algemeen Rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
@@ -1014,7 +1039,9 @@ b. de directeur Communicatie: de bevoegdheden betreffende het protocol inzake co
 
 c. de diensthoofden van de diensten, bedoeld in artikel 2, tweede lid, onder a tot en met c, m en n: het nemen van besluiten inhoudende een volledige honorering van verzoeken, als bedoeld in de [Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), die betrekking hebben op een bestuurlijke aangelegenheid betreffende hun eigen diensten, met dien verstande dat besluiten inhoudende een volledige of gedeeltelijke afwijzing van verzoeken, als bedoeld in de Wet openbaarheid van bestuur, overeenkomstig artikel 3, tweede lid, onder h, zijn voorbehouden aan de secretaris-generaal;  
 
-d. de hoofddirecteur Juridische Zaken: de bevoegdheden betreffende het in bezwaarprocedures en beroepsprocedures vertegenwoordigen van de bewindspersonen en het ministerie, met uitzondering van procedures die verband houden met de bevoegdheden van de diensten, genoemd in artikel 2, tweede lid, onder m en n, en met uitzondering van de procedures die verband houden met de ambtelijke rechtspositie, genoemd in artikel 13, negende lid, onder c sub iii. De hoofddirecteur Juridische Zaken kan daartoe ook functionarissen machtigen die ressorteren onder een andere dienst.    
+d. de hoofddirecteur Juridische Zaken: de bevoegdheden betreffende het in bezwaarprocedures en beroepsprocedures vertegenwoordigen van de bewindspersonen en het ministerie, met uitzondering van procedures die verband houden met de bevoegdheden van de diensten, genoemd in artikel 2, tweede lid, onder m en n, en met uitzondering van de procedures die verband houden met de ambtelijke rechtspositie, genoemd in artikel 13, negende lid, onder c sub iii. De hoofddirecteur Juridische Zaken kan daartoe ook functionarissen machtigen die ressorteren onder een andere dienst;  
+
+e. de directeur-generaal Rijkswaterstaat: de inkoop van energie voor gebruik door het ministerie.    
 
 ### Artikel  28  
 
