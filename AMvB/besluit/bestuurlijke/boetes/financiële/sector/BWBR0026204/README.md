@@ -87,7 +87,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 |  *Wet op het financieel toezicht*   | --- |
 |  [Algemeen deel](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)   | --- |
 | 1:10  | 2  |
-| 1:12, derde en vierde lid  | 2  |
+| 1:12, vierde en vijfde lid  | 2  |
 | 1:28, tweede en derde lid  | 3  |
 | 1:58, tweede lid  | 3  |
 | 1:58a, tweede lid  | 3  |
@@ -151,7 +151,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 2:60, eerste lid  | 3  |
 | 2:65, eerste lid en tweede lid  | 3  |
 | 2:71, eerste lid  | 1  |
-| 2:72, eerste lid tot en met derde lid  | 1  |
+| 2:72, eerste lid  | 1  |
 | 2:73, eerste en tweede lid  | 1  |
 | 2:75, eerste lid  | 3  |
 | 2:80, eerste lid  | 3  |
@@ -180,8 +180,9 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 2:120, eerste lid  | 1  |
 | 2:121, eerste lid  | 1  |
 | 2:121a, eerste lid  | 1  |
-| 2:122, eerste lid  | 1  |
-| 2:123, eerste lid  | 1  |
+| 2:122, eerste en vierde lid  | 1  |
+| 2:122a, eerste lid  | 1  |
+| 2:123, eerste, derde en vierde lid  | 1  |
 | 2:125, eerste lid  | 1  |
 | 2:126, eerste lid  | 1  |
 | 2:127, eerste lid  | 1  |
@@ -202,8 +203,8 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 3:10, derde lid  | 1  |
 | 3:15, eerste en tweede lid  | 2  |
 | 3:16, eerste tot en met derde lid  | 2  |
-| 3:17, eerste  | 2  |
-| 3:18, eerste tot en tweede lid  | 2  |
+| 3:17, eerste lid  | 2  |
+| 3:18, eerste en tweede lid  | 2  |
 | 3:19, eerste en tweede lid  | 2  |
 | 3:19a,  | 2  |
 | 3:20  | 2  |
@@ -373,15 +374,16 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 4:24, tweede lid  | 3  |
 | 4:25, eerste lid  | 2  |
 | 4:25b  | 2  |
-| 4:26, eerste, derde tot en met het vijfde lid  | 2  |
+| 4:26, eerste tot en met zevende lid  | 2  |
 | 4:26, tweede lid  | 1  |
 | 4:27, eerste, tweede en vierde lid  | 2  |
 | 4:29, vierde lid  | 2  |
 | 4:30a, eerste tot en met derde lid  | 2  |
 | 4:31, eerste lid  | 2  |
-| 4:32, eerste lid  | 2  |
-| 4:33, eerste tot en met derde lid  | 2  |
+| 4:32, eerste en tweede lid  | 2  |
+| artikel 4:33, eerste lid  | 2  |
 | 4:34, eerste en tweede lid  | 3  |
+| 4:35  | 3  |
 | 4:39  | 2  |
 | 4:40  | 2  |
 | 4:41  | 2  |
@@ -394,20 +396,39 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 4:47, eerste en tweede lid  | 1  |
 | 4:47, derde en vierde lid  | 2  |
 | 4:48, eerste lid  | 1  |
-| 4:49, eerste tot en met derde lid  | 2  |
+| 4:49, eerste tot en met vierde lid  | 2  |
 | 4:50, eerste lid  | 1  |
 | 4:50, tweede lid  | 2  |
-| 4:51, eerste tot en met derde lid  | 1  |
+| 4:51, eerste tot en met vierde lid  | 1  |
 | 4:52, eerste en tweede lid  | 2  |
 | 4:52a  | 1  |
 | 4:53  | 2  |
 | 4:55  | 1  |
+| 4:55a  | 2  |
 | 4:56, eerste lid  | 2  |
-| 4:57  | 2  |
+| 4:57, eerste en tweede lid  | 2  |
+| 4:57a, eerste lid  | 2  |
+| 4:57b, eerste en tweede lid  | 2  |
+| 4:57c, eerste tot en met derde lid  | 2  |
 | 4:58  | 2  |
 | 4:59, eerste en tweede lid  | 2  |
-| 4:60, eerste tot en met vijfde lid  | 2  |
-| 4:62, eerste en tweede lid  | 2  |
+| 4:59a, eerste en tweede lid  | 2  |
+| 4:59b, eerste lid  | 2  |
+| 4:59c, eerste tot en met zevende lid  | 2  |
+| 4:59d, eerste tot en met zesde lid  | 2  |
+| 4:59e, eerste lid  | 2  |
+| 4:60, eerste tot en met vierde lid  | 2  |
+| 4:61a, eerste tot en met vierde lid  | 2  |
+| 4:61b, eerste tot en met derde lid  | 2  |
+| 4:62, eerste tot en met vierde lid  | 2  |
+| 4:62b, eerste en tweede lid  | 2  |
+| 4:62e, eerste lid  | 2  |
+| 4:62f, eerste tot en met derde lid  | 2  |
+| 4:62g, eerste tot en met derde lid  | 2  |
+| 4:62h, eerste lid  | 2  |
+| 4:62i  | 2  |
+| 4:62j, eerste en tweede lid, vierde en vijfde lid  | 2  |
+| 4:62k  | 2  |
 | 4:63, eerste en tweede lid  | 2  |
 | 4:65, eerste tot en met derde lid  | 2  |
 | 4:66  | 2  |
@@ -423,6 +444,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 4:72, eerste lid  | 1  |
 | 4:73, eerste lid  | 1  |
 | 4:74, eerste lid  | 2  |
+| 4:74a  | 3  |
 | 4:75, eerste lid  | 2  |
 | 4:76, eerste lid  | 2  |
 | 4:77, eerste en tweede lid  | 2  |
@@ -472,7 +494,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 5:2  | 3  |
 | 5:16, tweede lid  | 2  |
 | 5:18, tweede lid  | 2  |
-| 5:20, eerste tot en met vierde lid  | 2  |
+| 5:20, eerste tot en met vijfde lid  | 2  |
 | 5:21, eerste tot en met vijfde en zevende lid  | 2  |
 | 5:21, zesde lid  | 1  |
 | 5:23, eerste en vijfde lid  | 2  |
@@ -482,7 +504,8 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 5:25f, eerste tot en met derde lid  | 2  |
 | 5:25h, eerste tot en met derde lid  | 1  |
 | 5:25i, eerste tot en met derde en vijfde lid  | 3  |
-| 5:25m, eerste, zesde en achtste lid  | 2  |
+| 5:25ka, tweede lid  | 3  |
+| 5:25m, eerste tot en met derde lid, zesde en achtste lid  | 2  |
 | 5:25n  | 1  |
 | 5:25p, eerste tot en met vijfde lid  | 1  |
 | 5:25q  | 2  |
@@ -492,7 +515,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 5:28  | 2  |
 | 5:29, eerste, tweede, vierde en vijfde lid  | 2  |
 | 5:30  | 2  |
-| 5:31, eerste, tweede en vierde lid  | 2  |
+| 5:31, eerste, derde en vierde lid  | 2  |
 | 5:32, eerste tot en met derde lid  | 3  |
 | 5:32, vierde lid  | 2  |
 | 5:32a, eerste tot en met het derde lid  | 2  |
@@ -515,13 +538,14 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 5:41, eerste en tweede lid  | 2  |
 | 5:42  | 2  |
 | 5:43, eerste en tweede lid  | 2  |
+| 5:43a, eerste tot en met het derde lid  | 2  |
 | 5:48, derde tot en met achtste lid  | 2  |
 | 5:50  | 1  |
 | 5:51, eerste lid  | 1  |
 | 5:56, eerste, derde en zevende lid  | 3  |
 | 5:57, eerste lid  | 3  |
 | 5:58, eerste lid  | 3  |
-| 5:59, eerste lid  | 3  |
+| 5:59, eerste en tweede lid  | 3  |
 | 5:60, eerste en derde lid  | 2  |
 | 5:61, eerste lid  | 1  |
 | 5:62, eerste lid  | 2  |
@@ -595,11 +619,12 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 23d  | 2  |
 | 23e, tweede lid  | 2  |
 | 23f  | 2  |
+| 23g, eerste tot en met derde lid  | 2  |
 | 24  | 2  |
 | 24a, eerste en tweede lid  | 2  |
-| 24b, eerste en tweede lid  | 2  |
+| 24b, eerste tot en met vijfde lid  | 2  |
 | 25  | 2  |
-| 26, eerste tot en met derde lid  | 2  |
+| 26, eerste tot en met vijfde lid  | 2  |
 | 27, eerste en tweede lid  | 2  |
 | 28  | 2  |
 | 29,  | 2  |
@@ -707,14 +732,18 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 27, eerste en tweede lid  | 2  |
 | 28, eerste lid  | 2  |
 | 29, eerste tot en met derde lid  | 2  |
-| 30, eerste tot en met derde lid  | 2  |
-| 31, eerste tot en met zesde lid  | 2  |
+| 30, eerste tot en met zesde lid  | 2  |
+| 31, eerste tot en met derde lid  | 2  |
 | 31a  | 2  |
-| 31b  | 2  |
 | 31c, eerste tot en met derde lid  | 2  |
+| 31d, eerste en tweede lid  | 2  |
 | 32, eerste tot en met derde lid en vijfde lid  | 1  |
 | 33  | 1  |
 | 34, eerste en vierde lid  | 2  |
+| 34a, eerste tot en met vijfde lid  | 2  |
+| 34b, eerste en tweede lid  | 2  |
+| 34c, eerste en tweede lid  | 2  |
+| 34d, eerste tot en met derde lid  | 1  |
 | 35, eerste lid  | 3  |
 | 35, tweede tot en met vijfde lid  | 2  |
 | 35a, eerste tot en met vierde lid  | 2  |
@@ -728,11 +757,16 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 37  | 3  |
 | 38, eerste en tweede lid  | 2  |
 | 38, derde lid  | 1  |
-| 38a, eerste lid  | 3  |
+| 38a, eerste tot en met derde lid  | 3  |
 | 38b, eerste lid  | 2  |
 | 38c, eerste lid  | 2  |
-| 38d, eerste en tweede lid  | 2  |
+| 38d, eerste lid  | 2  |
 | 38e, eerste en tweede lid  | 2  |
+| 38f, eerste en tweede lid  | 2  |
+| 38g  | 2  |
+| 38h  | 3  |
+| 38i  | 2  |
+| 38j  | 2  |
 | 39  | 2  |
 | 40  | 2  |
 | 41  | 1  |
@@ -745,8 +779,8 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 51, eerste en tweede lid  | 2  |
 | 51a, eerste tot en met zesde lid  | 2  |
 | 51a, zevende lid  | 3  |
-| 52, eerste tot en met zevende lid  | --- |
-| 53, eerste tot en met dertiende lid  | 2  |
+| 52, eerste tot en met zevende lid  | 2  |
+| 53, eerste tot en met negende en twaalfde en dertiende lid  | 2  |
 | 55, eerste en derde lid  | 2  |
 | 57, eerste en tweede lid  | 2  |
 | 58, eerste tot en met derde lid  | 2  |
@@ -765,9 +799,12 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 62  | 2  |
 | 63, eerste, tweede en vierde lid  | 2  |
 | 65, eerste en tweede lid  | 2  |
-| 66, eerste tot en met derde lid  | 2  |
+| 65a, eerste tot en met vierde lid  | 2  |
+| 66, eerste en tweede lid  | 2  |
+| 66a, eerste tot en met vierde lid  | 2  |
 | 67, eerste en tweede lid  | 2  |
-| 68, eerste tot en met derde lid  | 2  |
+| 68, eerste en tweede lid  | 2  |
+| 68a  | 2  |
 | 69, eerste tot en met zevende lid  | 2  |
 | 70, eerste tot en met zevende lid  | 2  |
 | 71, eerste en tweede lid  | 2  |
@@ -776,9 +813,9 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 73, eerste en tweede lid  | 2  |
 | 74  | 2  |
 | 75  | 2  |
-| 77, eerste lid  | 2  |
+| 77, eerste, vierde en vijfde lid  | 2  |
 | 78, tweede en vierde lid  | 2  |
-| 79, eerste en tweede lid  | 2  |
+| 79, eerste tot en met vierde lid  | 2  |
 | 80  | 2  |
 | 80a, eerste lid  | 3  |
 | 80a, tweede en derde lid  | 2  |
@@ -795,8 +832,9 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 88, eerste en tweede lid  | 2  |
 | 89, eerste tot en met derde lid  | 2  |
 | 90  | 1  |
-| 91, eerste en tweede lid  | 1  |
+| 91, eerste tot en met vijfde lid  | 1  |
 | 92, eerste tot en met derde lid  | 1  |
+| 92a  | 1  |
 | 94, eerste lid  | 2  |
 | 94, tweede lid  | 1  |
 | 95, eerste, tweede, vierde en vijfde lid  | 1  |
@@ -812,11 +850,16 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 105  | 1  |
 | 106  | 1  |
 | 110, eerste lid  | 2  |
-| 112, eerste, derde en vierde lid  | 2  |
+| artikel 112  | 2  |
+| 112a  | 2  |
+| 112b  | 2  |
+| 112c  | 2  |
 | 113, eerste lid  | 3  |
-| 114, eerste lid  | 3  |
+| 114  | 3  |
 | 115, eerste lid  | 3  |
+| 115a  | 3  |
 | 116  | 2  |
+| 116a, eerste en tweede lid  | 2  |
 | 117  | 2  |
 | 118, eerste en tweede lid  | 1  |
 | 119  | 1  |
@@ -828,12 +871,25 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 125, eerste en tweede lid  | 2  |
 | 125, derde lid  | 1  |
 | 126, eerste lid  | 2  |
+| 126a, eerste en tweede lid  | 2  |
+| 126b, eerste tot en met vierde lid  | 2  |
+| 126c, eerste tot en met vierde lid  | 2  |
+| 126d, eerste tot en met vijfde lid  | 2  |
+| 126e, eerste en tweede lid  | 2  |
+| 126e, derde lid  | 3  |
+| 126f, eerste lid  | 3  |
+| 126f, tweede lid  | 2  |
+| 126g, eerste en tweede lid  | 2  |
+| 126h, eerste lid  | 2  |
+| 126i, eerste en tweede lid  | 2  |
+| 126j, eerste en tweede lid  | 2  |
 | 127, eerste en tweede lid  | 2  |
 | 128  | 2  |
 | 129  | 2  |
 | 130  | 2  |
+| 131, eerste en tweede lid  | 2  |
 | 132  | 2  |
-| 133, eerste tot en met vierde lid  | 2  |
+| 133, eerste, derde tot en met zevende lid  | 2  |
 | 134, eerste tot en met vierde lid  | 2  |
 | 135, eerste en tweede lid  | 2  |
 | 136, eerste en tweede lid  | 2  |
@@ -841,12 +897,43 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 138, eerste lid  | 2  |
 | 139, eerste en tweede lid  | 2  |
 | 140, eerste en tweede lid  | 2  |
-| 142  | 2  |
+| 142, eerste en tweede lid  | 2  |
 | 143, tweede lid  | 2  |
 | 144  | 2  |
-| 145  | 1  |
+| 145, eerste en tweede lid  | 1  |
 | 146, eerste en tweede lid  | 2  |
 | 147, eerste, derde en vierde lid  | 2  |
+| 147a, eerste lid  | 2  |
+| 147b, eerste tot en met vijfde lid  | 2  |
+| 147c  | 2  |
+| 147d, tweede, vierde en vijfde lid  | 2  |
+| 147e  | 2  |
+| 147f, eerste tot en met zevende lid  | 2  |
+| 147g  | 2  |
+| 147h, eerste en tweede lid  | 1  |
+| 147i, eerste lid  | 2  |
+| 147i, tweede lid  | 1  |
+| 147j  | 2  |
+| 147k  | 2  |
+| 147l  | 2  |
+| 147m, eerste lid  | 2  |
+| 147n  | 1  |
+| 147o  | 2  |
+| 147p, eerste tot en met derde lid  | 2  |
+| 147q, tweede tot en met vierde lid  | 2  |
+| 147r, eerste, vierde en vijfde lid  | 2  |
+| 147s, tweede tot en met zevende lid  | 2  |
+| 147u  | 2  |
+| 147v  | 2  |
+| 147w, eerste, tweede en vierde lid  | 2  |
+| 147w, derde lid  | 1  |
+| 147x, eerste en tweede lid  | 2  |
+| 147y, eerste en tweede lid  | 2  |
+| 147z, eerste en tweede lid  | 2  |
+| 147aa  | 2  |
+| 147bb, eerste tot en met derde lid  | 2  |
+| 147cc  | 2  |
+| 147dd  | 2  |
 | 148, eerste en tweede lid  | 1  |
 | 149, tweede lid  | 1  |
 | 149a, eerste lid  | 3  |
@@ -878,7 +965,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 167a, eerste tot en met vierde lid  | 2  |
 | 167b  | 2  |
 | 168, eerste en tweede lid  | 2  |
-| 168a, eerste lid  | 2  |
+| 168a, eerste lid  | 3  |
 | 174, tweede lid  | 2  |
 | --- | --- |
 |  [Besluit melding zeggenschap en kapitaalbelang in uitgevende instellingen Wft](../../../../../../../AMvB/besluit/melding/zeggenschap/en/kapitaalbelang/in/uitgevende/instellingen/BWBR0020416/README.md)   | --- |
@@ -983,7 +1070,7 @@ c. [artikel 3](../../../../../../../AMvB/besluit/openbare/biedingen/wft/BWBR0022
 
 ### Artikel  11  
 
-Overtreding van een op grond van [artikel 54](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [56](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [58, vierde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [66, vierde en vijfde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [67, derde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [110, derde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [112, zesde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [118, derde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [123, derde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md),. [124, tweede lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [133, vijfde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [134, vijfde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [149b, vierde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [165, tweede lid, van het Besluit Gedragstoezicht financiële ondernemingen Wft](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) in de [Nadere regeling gedragstoezicht financiële ondernemingen Wft](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md) gesteld voorschrift is als volgt beboetbaar.  
+Overtreding van een op grond van [artikel 54](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [56](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [58, vierde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [66, derde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [67, derde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [110, derde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [112, zesde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [118, derde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [123, derde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md),. [124, tweede lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [133, achtste lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [134, vijfde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [149b, vierde lid](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [165, tweede lid, van het Besluit Gedragstoezicht financiële ondernemingen Wft](../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) in de [Nadere regeling gedragstoezicht financiële ondernemingen Wft](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md) gesteld voorschrift is als volgt beboetbaar.  
 
 | Artikel  | Boetecategorie  |
 |:---|:---|
@@ -993,17 +1080,11 @@ Overtreding van een op grond van [artikel 54](../../../../../../../AMvB/besluit/
 |  [2:4](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)   | 2  |
 |  [2:5](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)   | 2  |
 |  [3:1](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)   | 2  |
-|  [3:11](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)   | 2  |
 |  [3:12](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)   | 2  |
 |  [4:4, eerste lid](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)   | 1  |
 |  [5:1](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)   | 2  |
 |  [5:2, eerste en tweede lid](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)   | 2  |
 |  [5:3](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)   | 2  |
-|  [5:4, eerste en tweede lid](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)   | 2  |
-|  [5:5](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)   | 3  |
-|  [5:6](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)   | 3  |
-|  [5:8](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)   | 2  |
-|  [5:9](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)   | 2  |
 |  [6:2](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)   | 2  |
 |  [6:3, eerste lid](../../../../../../../zbo/nadere/regeling/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020540/README.md)   | 2  |
 
@@ -1048,6 +1129,14 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de ve
 | 3, eerste en tweede lid  | 2  |
 | 4, eerste en tweede lid  | 1  |
 | 8, eerste, derde en vierde lid  | 1  |
+
+### Artikel  12c  
+
+Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de verordening (EU) nr. 583/2010 van de Europese Commissie van 1 juli 2010 tot uitvoering van Richtlijn 2009/65/EG van het Europees Parlement en de Raad van de Europese Unie wat betreft essentiële beleggersinformatie en de voorwaarden waaraan moet worden voldaan als de essentiële beleggersinformatie of het prospectus op een andere duurzame drager dan papier of via een website wordt verstrekt (PbEU L 176), is als volgt beboetbaar:  
+
+| Artikel  | Boetecategorie  |
+|:---|:---|
+| 3, eerste tot en met derde lid  4, eerste tot en met dertiende lid  5, eerste tot en met derde lid  6  7, eerste tot en met vierde lid  8, eerste tot en met vijfde lid  9  10, eerste en tweede lid  11, eerste en tweede lid  12, eerste tot en met derde lid  13, eerste en tweede lid  14  15, eerste tot en met zesde lid  16  17, eerste en tweede lid  18, eerste en tweede lid  19, eerste tot en met vierde lid  20, eerste tot en met derde lid  21, eerste en tweede lid  22, eerste tot en met derde lid  23, eerste tot en met derde lid  24, eerste en tweede lid  25, eerste tot en met derde lid  26, eerste tot en met vijfde lid  27  28  29  30  31, eerste en tweede lid  32  33  34, eerste en tweede lid  35, eerste en tweede lid  36, eerste tot en met zesde lid  37  38, eerste tot en met derde lid  Bijlage I  Bijlage II  Bijlage III  | 2  2  2  2  2  2  2  2  2  2  2  1  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  |
 
 ### Artikel  13  
 

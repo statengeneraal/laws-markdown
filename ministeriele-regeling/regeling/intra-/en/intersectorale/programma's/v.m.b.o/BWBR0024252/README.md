@@ -48,15 +48,15 @@ Besluit:
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit van 29 mei 2008, houdende wijziging van enkele besluiten in verband met de modernisering, vereenvoudiging en beperking van de wettelijke regels over de voorzieningenplanning bij scholen in het voortgezet onderwijs alsmede enkele andere wijzigingen](../../../../../../../../AMvB/wijzigingsbesluit/bekostigingsbesluit/w.v.o./enz./(modernisering/etc/BWBR0024245/README.md) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop het [Besluit van 29 mei 2008, houdende wijziging van enkele besluiten in verband met de modernisering, vereenvoudiging en beperking van de wettelijke regels over de voorzieningenplanning bij scholen in het voortgezet onderwijs alsmede enkele andere wijzigingen](../../../../../../../../AMvB/wijzigingsbesluit/bekostigingsbesluit/w.v.o./enz./(modernisering/etc/BWBR0024245/README.md) in werking treedt. 
 
 ### Artikel  3  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling intra- en intersectorale programma’s v.m.b.o..  
+Deze regeling wordt aangehaald als: Regeling intra- en intersectorale programma’s v.m.b.o.. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-J.M. vanBijsterveldt-Vliegenthart   
+J.M. van Bijsterveldt-Vliegenthart     

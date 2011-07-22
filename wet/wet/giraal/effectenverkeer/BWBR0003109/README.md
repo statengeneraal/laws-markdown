@@ -34,7 +34,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 2.  De toezichthouder heeft het recht de vergaderingen van de organen van het centraal instituut bij te wonen en aldaar een raadgevende stem uit te brengen.   
 3.  Het bestuur van het centraal instituut is gehouden aan de toezichthouder al die inlichtingen te verstrekken welke deze tot een behoorlijke uitoefening van het toezicht nodig acht.   
 4.  Onze Minister kan nadere regels vaststellen betreffende dit toezicht. Deze regels worden bekend gemaakt in de Nederlandse Staatscourant.   
-5.  De toezichthouder brengt de kosten van de werkzaamheden die hij verricht in verband met de uitvoering van zijn taak op grond van deze wet in rekening bij het centraal instituut. De kosten worden gebaseerd op de begroting. [Artikel 1:30 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van overeenkomstige toepassing.   
+5.  De toezichthouder brengt de kosten van de werkzaamheden die hij verricht in verband met de uitvoering van zijn taak op grond van deze wet in rekening bij het centraal instituut. De kosten worden gebaseerd op de begroting. [Artikel 1:40 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van overeenkomstige toepassing.   
 6.  Wijziging van de statuten van het centraal instituut behoeft de voorafgaande instemming van Onze Minister.   
 
 ### Artikel  3  
@@ -271,7 +271,7 @@ d. alle overige goederen die geacht moeten worden in de plaats te zijn getreden 
 
 ### Artikel  38  
 
-1.  Zij aan wie de in bewaring gegeven effecten aan toonder of ter opname in een girodepot geleverde effecten op naam toebehoorden op het tijdstip waarop zij door het centraal instituut ter bewaring in ontvangst zijn genomen dan wel aan het centraal instituut zijn geleverd, worden vanaf dat tijdstip in een girodepot gerechtigd als deelgenoten, gezamenlijk met hen die in dat girodepot op het tijdstip van de bewaargeving of levering reeds gerechtigd waren.   
+1.  Zij aan wie de in bewaring gegeven effecten aan toonder of ter opname in een girodepot geleverde effecten op naam toebehoorden op het tijdstip waarop zij door het centraal instituut ter bewaring in ontvangst zijn genomen dan wel aan het centraal instituut zijn geleverd, worden vanaf dat tijdstip in het girodepot gerechtigd als deelgenoten, gezamenlijk met hen die in dat girodepot op het tijdstip van de bewaargeving of levering reeds gerechtigd waren.   
 2.  Levering van effecten door de instelling die de effecten heeft uitgegeven aan het centraal instituut ter opname van die effecten in een girodepot, heeft tot gevolg dat de aangesloten instelling ten gunste van wie de effecten worden bijgeschreven, alsdan in het girodepot gerechtigd wordt als deelgenoot, gezamenlijk met hen die daarinop dat tijdstip reeds gerechtigd waren. De effecten makenvanaf het moment van opname in het girodepot deel uit van de verzameldepots van de desbetreffende aangesloten instellingen.   
 3.  Het aandeel in een girodepot staat op naam van de aangesloten instelling.   
 4.  Het aandeel wordt berekend naar evenredigheid van de hoeveelheid van de door de aangesloten instelling ingebrachte of geleverde effecten, dan wel door de instelling die de effecten heeft uitgegeven overeenkomstig het tweede lid geleverde effecten.   

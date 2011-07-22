@@ -30,19 +30,19 @@ e. deelstaatsexamen: het examen, bedoeld in [artikel 1, onderdeel k, van het Bes
 
 f. deeleindexamen: het deeleindexamen, bedoeld in [artikel 1, eerste lid, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md);  
 
-g. kandidaat: een kandidaat als bedoeld in [artikel 1, eerste lid, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) of [artikel 1, eerste lid, onderdeel v, van het Besluit staatsexamens vwo-havo-mavo 2000](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md).    
+g. kandidaat: een kandidaat als bedoeld in [artikel 1, eerste lid, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) of [artikel 1, eerste lid, onderdeel v, van het Besluit staatsexamens vwo-havo-mavo 2000](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md).   
 
 ### Artikel  2  
 
 ####Vrijstelling vwo/havo nieuw naar oud
 
-De kandidaat die het eindexamen of deeleindexamen havo of vwo heeft afgelegd volgens de bij of krachtens de [WVO](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) gegeven voorschriften zoals luidend tot en met 31 juli 2007 en daarvoor is afgewezen of het eindexamen niet heeft afgerond, en die het deelstaatsexamen, onderscheidenlijk het deeleindexamen havo of vwo aan een opleiding vavo, wil afleggen volgens die voorschriften, is daarbij vrijgesteld van het afleggen van examen in de vakken, genoemd in de bijlagen 1a en 1b van deze regeling.  
+De kandidaat die het eindexamen of deeleindexamen havo of vwo heeft afgelegd volgens de bij of krachtens de [WVO](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) gegeven voorschriften zoals luidend tot en met 31 juli 2007 en daarvoor is afgewezen of het eindexamen niet heeft afgerond, en die het deelstaatsexamen, onderscheidenlijk het deeleindexamen havo of vwo aan een opleiding vavo, wil afleggen volgens die voorschriften, is daarbij vrijgesteld van het afleggen van examen in de vakken, genoemd in de bijlagen 1a en 1b van deze regeling. 
 
 ### Artikel  3  
 
 ####Vrijstelling vwo/havo oud naar nieuw
 
-De kandidaat die het eindexamen of deeleindexamen havo of vwo heeft afgelegd volgens de bij of krachtens de [WVO](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) gegeven voorschriften zoals luidend tot en met 31 juli 2007 en daarvoor is afgewezen of het eindexamen niet heeft afgerond, en die het deelstaatsexamen, onderscheidenlijk het deeleindexamen havo of vwo aan een opleiding vavo, wil afleggen volgens de voorschriften zoals luidend vanaf 1 augustus 2007, is daarbij vrijgesteld van het afleggen van examen in de vakken, genoemd in de bijlagen 2a en 2b van deze regeling.  
+De kandidaat die het eindexamen of deeleindexamen havo of vwo heeft afgelegd volgens de bij of krachtens de [WVO](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) gegeven voorschriften zoals luidend tot en met 31 juli 2007 en daarvoor is afgewezen of het eindexamen niet heeft afgerond, en die het deelstaatsexamen, onderscheidenlijk het deeleindexamen havo of vwo aan een opleiding vavo, wil afleggen volgens de voorschriften zoals luidend vanaf 1 augustus 2007, is daarbij vrijgesteld van het afleggen van examen in de vakken, genoemd in de bijlagen 2a en 2b van deze regeling. 
 
 ### Artikel  5  
 
@@ -50,24 +50,24 @@ De kandidaat die het eindexamen of deeleindexamen havo of vwo heeft afgelegd vol
 
 1.  Deze regeling treedt in werking met ingang van de tweede dag van de dagtekening van de Staatscourant waarin zij wordt geplaatst.   
 2.  De artikelen 2 en 3 vervallen met ingang van 1 januari 2022.   
-3.  Artikel 4 vervalt met ingang van 1 januari 2011.   
+3.  Artikel 4 vervalt met ingang van 1 januari 2011.  
 
 ### Artikel  6  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Vrijstellings- en overgangsregeling aanpassing profielen vwo/havo 2007.  
+Deze regeling wordt aangehaald als: Vrijstellings- en overgangsregeling aanpassing profielen vwo/havo 2007. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst  
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-J.M. vanBijsterveldt-Vliegenthart  
+J.M. van Bijsterveldt-Vliegenthart    
 
-### Bijlage  1a  
+###Bijlage 1a 
 
 ####behorende bij artikel 2 
 
-Vrijstellingen voor vwo nieuw naar oud 
+Vrijstellingen voor vwo nieuw naar oud
 
 | VWO-vak oude profielen  | VWO-vak nieuwe profielen  op grond waarvan vrijstelling  |
 |:---|:---|
@@ -79,9 +79,9 @@ Vrijstellingen voor vwo nieuw naar oud
 | Culturele en kunstzinnige vorming 1  | Culturele en kunstzinnige vorming  |
 | Culturele en kunstzinnige vorming 2  | Kunst (algemeen)  |
 | Culturele en kunstzinnige vorming 2,3 (beeldende vormgeving) of  culturele en kunstzinnige vorming 2 of  culturele en kunstzinnige vorming 3 (beeldende vormgeving)  | Kunst (beeldende vormgeving)  |
-| Culturele en kunstzinnige vorming 2,3 (dans) of  culturele en kunstzinnige vorming 2 of  culturele en kunstzinnige vorming 3 (dans)  | Kunst (dans)  |
-| Culturele en kunstzinnige vorming 2,3 (drama) of  culturele en kunstzinnige vorming 2 of  culturele en kunstzinnige vorming 3 (drama)  | Kunst (drama)  |
-| Culturele en kunstzinnige vorming 2,3 (muziek) of  culturele en kunstzinnige vorming 2 of  culturele en kunstzinnige vorming 3 (muziek)  | Kunst (muziek)  |
+| Culturele en kunstzinnige vorming 2,3 (dans) of   culturele en kunstzinnige vorming 2 of culturele en kunstzinnige vorming 3 (dans)  | Kunst (dans)  |
+| Culturele en kunstzinnige vorming 2,3 (drama) of   culturele en kunstzinnige vorming 2 of  culturele en kunstzinnige vorming 3 (drama) | Kunst (drama)  |
+| Culturele en kunstzinnige vorming 2,3 (muziek) of   culturele en kunstzinnige vorming 2 of  culturele en kunstzinnige vorming 3 (muziek) | Kunst (muziek)  |
 | Duitse taal en letterkunde 1,2 of  Duitse taal en letterkunde 1  | Duitse taal en literatuur  |
 | Economie 1,2 of economie 1  | Economie  |
 | Engelse taal en letterkunde  | Engelse taal en literatuur  |
@@ -118,38 +118,38 @@ Vrijstellingen voor vwo nieuw naar oud
 | Wiskunde B 1,2 of wiskunde B 1 of  wiskunde A1,2 of wiskunde A1  | Wiskunde B  |
 | Wiskunde A 1  | Wiskunde C  |
 
-* indien er op de cijferlijst geen cijfer voor KCV voorkomt, geldt er een vrijstelling voor KCV indien er voor alle klassieke talen op de cijferlijst (Latijn en/of Grieks) een 6 of meer is behaald. ** indien er op de cijferlijst geen cijfer voor literatuur voorkomt, geldt er een vrijstelling voor letterkunde indien er voor alle moderne talen op de cijferlijst (Nederlands, Engels, Frans, Duits, Russisch, Spaans, Italiaans, Turks en/of Arabisch) een 6 of meer is behaald. 
+* indien er op de cijferlijst geen cijfer voor KCV voorkomt, geldt er een vrijstelling voor KCV indien er voor alle klassieke talen op de cijferlijst (Latijn en/of Grieks) een 6 of meer is behaald. ** indien er op de cijferlijst geen cijfer voor literatuur voorkomt, geldt er een vrijstelling voor letterkunde indien er voor alle moderne talen op de cijferlijst (Nederlands, Engels, Frans, Duits, Russisch, Spaans, Italiaans, Turks en/of Arabisch) een 6 of meer is behaald.
 
-### Bijlage  1b  
+###Bijlage 1b 
 
 ####behorende bij artikel 2 
 
-Vrijstellingen voor havo nieuw naar oud 
+Vrijstellingen voor havo nieuw naar oud
 
-| HAVO-vak Tweede Fase oude profielen  | HAVO-vak nieuwe profielen op grond waarvan vrijstelling  | VWO-vak nieuwe profielen op grond waarvan vrijstelling  |
+| HAVO-vak Tweede Fase oude profielen  | HAVO-vak nieuwe profielen op grond waarvan vrijstelling |VWO-vak nieuwe profielen op grond waarvan vrijstelling |
 |:---|:---|:---|
 | Aardrijkskunde  | Aardrijkskunde  | Aardrijkskunde  |
 | Algemene natuurwetenschappen  | Algemene natuurwetenschappen  | Algemene natuurwetenschappen  |
-| Arabische taal en letterkunde 1,2 of  Arabische taal en letterkunde 1  | Arabische taal en literatuur  | Arabische taal en literatuur  |
+| Arabische taal en letterkunde 1,2 of   Arabische taal en letterkunde 1 | Arabische taal en literatuur  | Arabische taal en literatuur  |
 | Arabische taal en letterkunde elementair  | Arabische taal en literatuur elementair  | Arabische taal en literatuur elementair  |
 | Biologie  | Biologie  | Biologie  |
 | Culturele en kunstzinnige vorming 1  | Culturele en kunstzinnige vorming  | Culturele en kunstzinnige vorming  |
 | Culturele en kunstzinnige vorming 2  | Kunst (algemeen)  | Kunst (algemeen)  |
-| Culturele en kunstzinnige vorming 2,3 (beeldende vormgeving) of  culturele en kunstzinnige vorming 2 of  culturele en kunstzinnige vorming 3 (beeldende vormgeving)  | Kunst (beeldende vormgeving)  | Kunst (beeldende vormgeving)  |
-| Culturele en kunstzinnige vorming 2,3 (dans) of  culturele en kunstzinnige vorming 2 of  culturele en kunstzinnige vorming 3 (dans)  | Kunst (dans)  | Kunst (dans)  |
-| Culturele en kunstzinnige vorming 2,3 (drama) of  culturele en kunstzinnige vorming 2 of  culturele en kunstzinnige vorming 3 (drama)  | Kunst (drama)  | Kunst (drama)  |
-| Culturele en kunstzinnige vorming 2,3 (muziek) of  culturele en kunstzinnige vorming 2 of  culturele en kunstzinnige vorming 3 (muziek)  | Kunst (muziek)  | Kunst (muziek)  |
-| Duitse taal en letterkunde 1,2 of  Duitse taal en letterkunde 1  | Duitse taal en literatuur  | Duitse taal en literatuur  |
+| Culturele en kunstzinnige vorming 2,3 (beeldende vormgeving) of  culturele en kunstzinnige vorming 2 of culturele en kunstzinnige vorming 3 (beeldende vormgeving) |Kunst (beeldende vormgeving) |Kunst (beeldende vormgeving) |
+| Culturele en kunstzinnige vorming 2,3 (dans) of culturele en kunstzinnige vorming 2 of  culturele en kunstzinnige vorming 3 (dans) |Kunst (dans) |Kunst (dans) |
+| Culturele en kunstzinnige vorming 2,3 (drama) of culturele en kunstzinnige vorming 2 of culturele en kunstzinnige vorming 3 (drama)  | Kunst (drama)  | Kunst (drama)  |
+| Culturele en kunstzinnige vorming 2,3 (muziek) of culturele en kunstzinnige vorming 2 of culturele en kunstzinnige vorming 3 (muziek)  | Kunst (muziek)  | Kunst (muziek)  |
+| Duitse taal en letterkunde 1,2 of Duitse taal en letterkunde 1  | Duitse taal en literatuur  | Duitse taal en literatuur  |
 | Economie 1,2 of economie 1  | Economie  | Economie  |
 | Engelse taal en letterkunde  | Engelse taal en literatuur  | Engelse taal en literatuur  |
 | Filosofie  | Filosofie  | Filosofie  |
-| Franse taal en letterkunde 1,2 of  Franse taal en letterkunde 1  | Franse taal en literatuur  | Franse taal en literatuur  |
-| Friese taal en letterkunde 1,2 of  Friese taal en letterkunde 1  | Friese taal en cultuur  | Friese taal en cultuur  |
+| Franse taal en letterkunde 1,2 of Franse taal en letterkunde 1  | Franse taal en literatuur  | Franse taal en literatuur  |
+| Friese taal en letterkunde 1,2 of Friese taal en letterkunde 1  | Friese taal en cultuur  | Friese taal en cultuur  |
 | Geschiedenis  | Geschiedenis  | Geschiedenis  |
 | Handvaardigheid I (handenarbeid)  | Handvaardigheid  | Handvaardigheid  |
 | Handvaardigheid II (textiele werkvormen)  | Textiele vormgeving  | Textiele vormgeving  |
 | Informatica  | Informatica  | Informatica  |
-| Italiaanse taal en letterkunde 1,2 of  Italiaanse taal en letterkunde 1  | Italiaanse taal en literatuur  | Italiaanse taal en literatuur  |
+| Italiaanse taal en letterkunde 1,2 of Italiaanse taal en letterkunde 1  | Italiaanse taal en literatuur  | Italiaanse taal en literatuur  |
 | Italiaanse taal en letterkunde elementair  | Italiaanse taal en literatuur elementair  | Italiaanse taal en literatuur elementair  |
 | Lichamelijke opvoeding 1  | Lichamelijke opvoeding  | Lichamelijke opvoeding  |
 | Letterkunde  | Literatuur/moderne talen*  | Literatuur/moderne talen*  |
@@ -163,22 +163,22 @@ Vrijstellingen voor havo nieuw naar oud
 | Russische taal en letterkunde 1,2 of Russische taal en letterkunde 1  | Russische taal en literatuur  | Russische taal en literatuur  |
 | Russische taal en letterkunde elementair  | Russische taal en literatuur elementair  | Russische taal en literatuur  |
 | Scheikunde  | Scheikunde  | Scheikunde  |
-| Spaanse taal en letterkunde 1,2 of  Spaanse taal en letterkunde 1  | Spaanse taal en literatuur  | Spaanse taal en literatuur  |
+| Spaanse taal en letterkunde 1,2 of Spaanse taal en letterkunde 1  | Spaanse taal en literatuur  | Spaanse taal en literatuur  |
 | Spaanse taal en letterkunde elementair  | Spaanse taal en literatuur elementair  | Spaanse taal en literatuur  |
 | Tekenen  | Tekenen  | Tekenen  |
 | Textiele werkvormen  | Textiele vormgeving  | Textiele vormgeving  |
-| Turkse taal en letterkunde 1,2 of  Turkse taal en letterkunde 1  | Turkse taal en literatuur  | Turkse taal en literatuur  |
+| Turkse taal en letterkunde 1,2 of Turkse taal en letterkunde 1  | Turkse taal en literatuur  | Turkse taal en literatuur  |
 | Turkse taal en letterkunde elementair  | Turkse taal en literatuur elementair  | Turkse taal en literatuur elementair  |
 | Wiskunde A 1,2 of wiskunde A 1  | Wiskunde A  | Wiskunde A  |
-| Wiskunde B 1,2 of wiskunde B 1 of  Wiskunde A 1,2 of wiskunde A1  | Wiskunde B  | Wiskunde B  |
+| Wiskunde B 1,2 of wiskunde B 1 of Wiskunde A 1,2 of wiskunde A1  | Wiskunde B  | Wiskunde B  |
 
-* indien er op de cijferlijst geen cijfer voor literatuur voorkomt, geldt er een vrijstelling voor letterkunde indien er voor alle moderne talen op de cijferlijst (Nederlands, Engels, Frans, Duits, Russisch, Spaans, Italiaans, Turks en/of Arabisch) een 6 of meer is behaald. 
+* indien er op de cijferlijst geen cijfer voor literatuur voorkomt, geldt er een vrijstelling voor letterkunde indien er voor alle moderne talen op de cijferlijst (Nederlands, Engels, Frans, Duits, Russisch, Spaans, Italiaans, Turks en/of Arabisch) een 6 of meer is behaald.
 
-### Bijlage  2a  
+###Bijlage 2a 
 
 ####behorende bij artikel 3 
 
-Vrijstellingen voor vwo oud naar nieuw 
+Vrijstellingen voor vwo oud naar nieuw
 
 | VWO-vak nieuwe profielen  | VWO-vak oude profielen op grond waarvan vrijstelling  |
 |:---|:---|
@@ -229,13 +229,13 @@ Vrijstellingen voor vwo oud naar nieuw
 | Wiskunde B  | Wiskunde B 1 of wiskunde B 1,2  |
 | Wiskunde C  | Wiskunde A 1  |
 
-* Het profielvak geschiedenis (met een studielast van 360 uur). 
+* Het profielvak geschiedenis (met een studielast van 360 uur).
 
-### Bijlage  2b  
+###Bijlage 2b 
 
 ####behorende bij artikel 3 
 
-Vrijstellingen voor havo oud naar nieuw 
+Vrijstellingen voor havo oud naar nieuw
 
 | HAVO-vak nieuwe profielen  | HAVO-vak oude profielen op grond waarvan vrijstelling  | VWO-vak oude profielen op grond waarvan vrijstelling  |
 |:---|:---|:---|
@@ -282,4 +282,4 @@ Vrijstellingen voor havo oud naar nieuw
 | Wiskunde A  | Wiskunde A 1,2 of wiskunde B 1 of wiskunde B 1,2  | Wiskunde A 1 of wiskunde A 1,2 of wiskunde B 1 of wiskunde B 1,2  |
 | Wiskunde B  | Wiskunde B 1 of wiskunde B 1,2  | Wiskunde B 1 of wiskunde B 1,2  |
 
-* Het profielvak geschiedenis (met een studielast van 360 uur). 
+* Het profielvak geschiedenis (met een studielast van 360 uur).

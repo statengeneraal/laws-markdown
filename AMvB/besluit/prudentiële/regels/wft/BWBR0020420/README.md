@@ -171,7 +171,7 @@ a. door betrokkene verstrekte gegevens en inlichtingen;
 
 b. door de Landelijke Officier van Justitie verstrekte politiegegevens;  
 
-c. gegevens uit de registratie, bedoeld in [artikel 1, onderdeel b, van de Wet documentatie vennootschappen](../../../../../../wet/wet/controle/op/rechtspersonen/BWBR0015049/README.md);  
+c. gegevens uit de registratie, bedoeld in [artikel 1, onderdeel b, van de Wet controle op rechtspersonen](../../../../../../wet/wet/controle/op/rechtspersonen/BWBR0015049/README.md);  
 
 d. gegevens en inlichtingen, verkregen van de Belastingdienst;  
 
@@ -356,12 +356,13 @@ Bepalingen ter uitvoering van [artikel 3:17, tweede lid, aanhef en onderdeel c, 
 
 ### Artikel  23  
 
-1.  Een beleggingsonderneming, betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 3:17, eerste en derde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:22](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:23](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:24a](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:24b](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:26](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:27 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voert beleid gericht op het beheersen van relevante risico’s.   
+1.  Een beheerder van een instelling voor collectieve belegging in effecten, beleggingsonderneming, betaalinstelling clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, verzekeraar of bijkantoor als bedoeld in [artikel 3:17, eerste en derde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:22](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:23](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:24a](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:24b](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:26](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:27 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voert beleid gericht op het beheersen van relevante risico’s.   
 2.  Onder relevante risico’s, bedoeld in het eerste lid, worden in het bijzonder verstaan het concentratierisico, krediet- en tegenpartijrisico, liquiditeitsrisico, marktrisico, operationeel risico, renterisico voortvloeiend uit niet-handelsactiviteiten, restrisico, securitisatierisico en verzekeringsrisico. Een bank, beleggingsonderneming of clearinginstelling als bedoeld in [artikel 3:17, eerste of derde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:22](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:23](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:27 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) houdt tevens rekening met de risico’s die voortvloeien uit de macro-economische omgeving waarin de onderneming actief is en die verband houden met de stand van de conjunctuurcyclus.   
 3.  Het beleid wordt vastgelegd in procedures en maatregelen ter beheersing van relevante risico’s en geïntegreerd in de bedrijfsprocessen.   
 4.  De procedures en maatregelen, bedoeld in het derde lid, bestaan onder meer uit autorisatieprocedures, limietstellingen, limietbewaking en procedures en maatregelen voor noodsituaties en zijn afgestemd op de aard, de omvang, het risicoprofiel en de complexiteit van de werkzaamheden van de financiële onderneming of bijkantoor.   
 5.  De procedures en maatregelen, bedoeld in het derde lid, worden vastgelegd en ter kennis gebracht van alle relevante bedrijfsonderdelen van de financiële onderneming of het bijkantoor.   
 6.  De financiële onderneming heeft een onafhankelijke risicobeheerfunctie die op systematische wijze een onafhankelijk risicobeheer uitvoert dat gericht is op het identificeren, meten en evalueren van de risico’s waaraan de financiële onderneming of het bijkantoor is of kan worden blootgesteld. Het risicobeheer wordt zowel uitgevoerd ten aanzien van de financiële onderneming of het bijkantoor als geheel als ten aanzien van de onderscheiden bedrijfsonderdelen.   
+7.  De risicobeheerfunctie beschikt over de nodige autoriteit en toegang tot alle noodzakelijke informatie om haar taken te kunnen uitoefenen.   
 
 ### Artikel  23a  
 
@@ -402,9 +403,37 @@ b. de wijze waarop vorm wordt gegeven aan beloningscomponenten en beloningsstruc
 
 c. de inhoud en de wijze van openbaarmaking van het beleid inzake beloningen.     
 
+### Artikel  23g  
+
+1.  De beheerder van een instelling voor collectieve belegging in effecten vermeldt in het beleid, bedoeld in artikel 23, eerste lid: 
+
+a. de technieken, instrumenten en regelingen om te allen tijde de risico’s te kunnen meten en beheren waaraan elke door hem beheerde instelling voor collectieve belegging in effecten is of zou kunnen worden blootgesteld;  
+
+b. de verantwoordelijkheden binnen de organisatie van de beheerder met betrekking tot het risicobeheer; en  
+
+c. de voorwaarden, inhoud en frequentie van de rapportage door de risicobeheerfunctie, bedoeld in artikel 23, zesde lid, aan de personen die het dagelijks beleid van de beheerder van de instelling voor collectieve belegging in effecten bepalen en aan het orgaan, indien aanwezig, dat is belast met toezicht op het beleid en de algemene gang van zaken van de beheerder.     
+2.  De procedures en maatregelen, bedoeld in artikel 23, derde lid, stellen een beheerder van een instelling voor collectieve belegging in effecten in staat: 
+
+a. te allen tijde de risico’s te kunnen meten waaraan de instelling voor collectieve belegging in effecten wordt of zou kunnen worden blootgesteld; en  
+
+b. de naleving van limieten voor het totale risico en het tegenpartijrisico voor elke door hem beheerde instelling voor collectieve belegging in effecten, bedoeld in de [artikelen 133](../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) en [134 van het Besluit gedragstoezicht financiële ondernemingen Wft](../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), te waarborgen.     
+3.  Een beheerder van een instelling voor collectieve belegging in effecten neemt voor de toepassing van het tweede lid de volgende maatregelen: 
+
+a. zorgen voor procedures en maatregelen, bedoeld in artikel 23, derde lid, die noodzakelijk zijn om te garanderen dat de risico’s van ingenomen posities en het aandeel van deze posities in het totale risicoprofiel nauwkeurig en op basis van degelijke en betrouwbare gegevens worden gemeten en dat deze procedures en maatregelen op adequate wijze zijn gedocumenteerd;  
+
+b. in voorkomend geval, achteraf uitvoeren van periodieke tests om de geldigheid te evalueren van regels met betrekking tot risicometingregelingen die modelmatige prognoses en ramingen omvatten;  
+
+c. in voorkomend geval, uitvoeren van periodieke stresstests en scenarioanalyses om de eventueel uit wisselende marktomstandigheden voortvloeiende risico’s aan te pakken die negatieve gevolgen voor de instelling voor collectieve belegging in effecten kunnen hebben;  
+
+d. het opzetten, implementeren en in stand houden van een gedocumenteerd systeem van interne limieten voor de maatregelen die worden genomen om de relevante risico’s voor elke beheerde instelling voor collectieve belegging in effecten te beheren en te controleren, waarbij rekening wordt gehouden met relevante risico’s als bedoeld in artikel 23, tweede lid, en waarbij overeenstemming met het risicoprofiel van de instelling voor collectieve belegging in effecten wordt gewaarborgd;  
+
+e. zorgen dat voor elke door hem beheerde instelling voor collectieve belegging in effecten de huidige risico-omvang voldoet aan het risicolimietensysteem, bedoeld in onderdeel d; en  
+
+f. opzetten, implementeren en in stand houden van adequate procedures die in geval van feitelijke en voorzienbare inbreuken op het risicolimietensysteem van de instelling voor collectieve belegging in effecten tot tijdige herstelmaatregelen in belang van de deelnemers leiden.     
+
 ### Artikel  24  
 
-Een beleggingsonderneming, betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, verzekeraar of bijkantoor als bedoeld in artikel 23, eerste lid, ziet er op systematische wijze op toe dat de procedures en maatregelen, bedoeld in artikel 23, tweede lid, worden nageleefd en zorgt ervoor dat gesignaleerde tekortkomingen of gebreken worden opgeheven.  
+Een beheerder van een instelling voor collectieve belegging in effecten, beleggingsonderneming, betaalinstelling, clearinginstelling, entiteit voor risico-acceptatie, kredietinstelling, verzekeraar of bijkantoor als bedoeld in artikel 23, eerste lid, ziet er op systematische wijze op toe dat de procedures en maatregelen, bedoeld in artikel 23, derde lid, worden nageleefd en zorgt ervoor dat gesignaleerde tekortkomingen of gebreken worden opgeheven.  
 
 ### Artikel  24a  
 
@@ -413,14 +442,27 @@ Een beleggingsonderneming, betaalinstelling, clearinginstelling, entiteit voor r
 
 ### Artikel  24b  
 
-1.  Het risicobeheer, bedoeld in artikel 23, zesde lid, van een bank die in Nederland beleggingsdiensten mag verlenen of beleggingsactiviteiten mag verrichten, of beleggingsonderneming als bedoeld in [artikel 3:17, eerste en derde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:22](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:23, tweede lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) oefent controle uit op: 
+1.  Het risicobeheer, bedoeld in artikel 23, zesde lid, van een bank die in Nederland beleggingsdiensten mag verlenen of beleggingsactiviteiten mag verrichten, een beheerder van een instelling voor collectieve belegging in effecten, of beleggingsonderneming als bedoeld in [artikel 3:17, eerste en derde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:22](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:23, tweede lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) oefent controle uit op: 
 
-a. de deugdelijkheid en effectiviteit van de door de bank of beleggingsonderneming vastgestelde procedures en maatregelen, bedoeld in artikel 23, derde lid;  
+a. de deugdelijkheid en effectiviteit van de door de bank, beheerder van een instelling voor collectieve belegging in effecten of beleggingsonderneming vastgestelde procedures en maatregelen, bedoeld in artikel 23, derde lid;  
 
-b. de mate waarin de bank of beleggingsonderneming en haar medewerkers de procedures en maatregelen, bedoeld in artikel 23, derde lid, naleven; en  
+b. de mate waarin de bank, beheerder van een instelling voor collectieve belegging in effecten of beleggingsonderneming en haar medewerkers de procedures en maatregelen, bedoeld in artikel 23, derde lid, naleven; en  
 
 c. de deugdelijkheid en effectiviteit van de maatregelen die zijn genomen om gesignaleerde tekortkomingen of gebreken op te heffen.     
-2.  Het risicobeheer rapporteert ten minste jaarlijks aan personen die het dagelijks beleid van de bank of beleggingsonderneming bepalen en aan het orgaan, indien aanwezig, dat is belast met toezicht op het beleid en de algemene gang van zaken van de bank of beleggingsonderneming. In de jaarlijkse rapportage wordt met name aangegeven of maatregelen zijn genomen in het geval van gesignaleerde onvolkomenheden.   
+2.  Het risicobeheer rapporteert ten minste jaarlijks aan personen die het dagelijks beleid van de bank, beheerder of beleggingsonderneming bepalen en aan het orgaan, indien aanwezig, dat is belast met toezicht op het beleid en de algemene gang van zaken van de bank, beheerder of beleggingsonderneming. In de jaarlijkse rapportage wordt met name aangegeven of maatregelen zijn genomen in het geval van gesignaleerde onvolkomenheden.   
+3.  Het risicobeheer van een beheerder van een instelling voor collectieve belegging in effecten brengt regelmatig verslag uit aan de personen die het dagelijks beleid van de beheerder bepalen en aan het orgaan, indien aanwezig, dat is belast met het toezicht op het beleid en de algemene gang van zaken van de beheerder over: 
+
+a. de consistentie tussen de actuele omvang van het risico dat elke door hem beheerde instelling voor collectieve belegging in effecten loopt, en het risicoprofiel dat voor deze instelling voor collectieve belegging in effecten is overeengekomen;  
+
+b. de nakoming van het relevante risicolimietensysteem door elke door hem beheerde instelling voor collectieve belegging in effecten; en  
+
+c. de deugdelijkheid en effectiviteit van de risicobeheerprocedure, waarbij met name wordt aangegeven of passende maatregelen zijn genomen in het geval van gesignaleerde onvolkomenheden.     
+4.  Het risicobeheer van een beheerder van een instelling voor collectieve belegging in effecten brengt aan de personen die het dagelijks beleid bepalen van de beheerder: 
+
+a. advies uit betreffende de identificatie van het risicoprofiel van elke door de beheerder beheerde instelling voor collectieve belegging in effecten; en  
+
+b. regelmatig verslag uit over de actuele omvang van het risico dat elke door de beheerder beheerde instelling voor collectieve belegging in effecten loopt en feitelijke of voorzienbare inbreuken op de limieten van de desbetreffende instelling voor collectieve belegging in effecten opdat onmiddellijk passende maatregelen kunnen worden ondernomen.     
+5.  Het risicobeheer van een beheerder van een instelling voor collectieve belegging in effecten onderzoekt en ondersteunt in voorkomend geval de procedures en maatregelen, bedoeld in de [artikelen 34, eerste lid, onderdeel g, en derde lid](../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), en [34a van het Besluit Gedragstoezicht financiële ondernemingen Wft](../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md).   
 
 ### Artikel  25  
 
@@ -464,6 +506,8 @@ b. niet uit de balans blijkende verplichtingen; en
 
 c. resultaatontwikkeling, uitgesplitst naar de onderscheiden bedrijfsactiviteiten en bedrijfsonderdelen.     
 3.  Met het oog op de bewaking en beheersing van liquiditeitsrisico’s voorziet de bedrijfsvoering van elke beleggingsinstelling waarvan de rechten van deelneming op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald onder meer in autorisatieprocedures, limietstellingen, limietbewaking en procedures en maatregelen voor noodsituaties met betrekking tot de liquiditeitspositie van de beleggingsinstelling.   
+4.  In voorkomend geval voert een beheerder van een instelling voor collectieve belegging in effecten stresstests uit die een beoordeling van het liquiditeitsrisico van de instelling voor collectieve belegging in effecten in uitzonderlijke omstandigheden mogelijk maken.   
+5.  De beheerder van een instelling voor collectieve belegging in effecten draagt er zorg voor dat voor elke door hem beheerde instelling voor collectieve belegging in effecten het liquiditeitsprofiel past bij het terugbetalingsbeleid dat in het fondsreglement, in de statuten of in het prospectus is vastgelegd.   
 
 ### Artikel  26.0  
 
@@ -2202,7 +2246,7 @@ d. beleggingen in derivaten zijn toegestaan voor zover deze bijdragen aan een ve
 
 e. de waarden worden naar behoren gediversifieerd zodat een bovenmatige afhankelijkheid van of vertrouwen in bepaalde waarden, of een bepaalde emittent van waarden of groep van ondernemingen en risicoaccumulatie in de portefeuille als geheel worden vermeden.     
 2.  De eisen die zijn opgenomen in het eerste lid, aanhef en onderdelen a en e, zijn niet van toepassing op beleggingen in staatsobligaties.   
-3.  Onder waardering o marktwaarde bedoeld in het eerste lid, onderdeel b, wordt verstaan: het bedrag waarvoor een actief kan worden verhandeld of een passief kan worden afgewikkeld tussen terzake goed geïnformeerde partijen, die tot een transactie bereid en onafhankelijk van elkaar zijn.   
+3.  Onder waardering op marktwaarde bedoeld in het eerste lid, onderdeel b, wordt verstaan: het bedrag waarvoor een actief kan worden verhandeld of een passief kan worden afgewikkeld tussen terzake goed geïnformeerde partijen, die tot een transactie bereid en onafhankelijk van elkaar zijn.   
 4.  Leningen als bedoeld in [artikel 3:267b, vierde lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) mogen slechts worden aangegaan voor een periode van niet langer dan een jaar.   
 5.  Van een liquiditeitsdoelstelling als bedoeld in [artikel 3:267b, vierde lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is sprake als de premiepensioeninstelling tijdelijk niet kan voldoen aan zijn verplichtingen of de betreffende lening wordt aangegaan ter verbetering van het risicoprofiel van de premiepensioeninstelling.   
 

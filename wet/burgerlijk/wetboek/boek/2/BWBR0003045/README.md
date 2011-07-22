@@ -21,13 +21,18 @@
 1.  Kerkgenootschappen alsmede hun zelfstandige onderdelen en lichamen waarin zij zijn verenigd, bezitten rechtspersoonlijkheid.   
 2.  Zij worden geregeerd door hun eigen statuut, voor zover dit niet in strijd is met de wet. Met uitzondering van artikel 5 gelden de volgende artikelen van deze titel niet voor hen; overeenkomstige toepassing daarvan is geoorloofd, voor zover deze is te verenigen met hun statuut en met de aard der onderlinge verhoudingen.   
 
+### Artikel  2a  
+
+1.  Dieren zijn geen zaken.   
+2.  Bepalingen met betrekking tot zaken zijn op dieren van toepassing, met in achtneming van de op wettelijke voorschriften en regels van ongeschreven recht gegronde beperkingen, verplichtingen en rechtsbeginselen, alsmede de openbare orde en de goede zeden.   
+
 ### Artikel  3  
 
 Verenigingen, coöperaties, onderlinge waarborgmaatschappijen, naamloze vennootschappen, besloten vennootschappen met beperkte aansprakelijkheid en stichtingen bezitten rechtspersoonlijkheid.  
 
 ### Artikel  4  
 
-1.  Een rechtspersoon ontstaat niet bij het ontbreken van een door een notaris ondertekende akte of een verklaring van geen bezwaar, voor zover door de wet voor de totstandkoming vereist. Het ontbreken van kracht van authenticiteit aan een door een notaris ondertekende akte verhindert het ontstaan van de rechtspersoon slechts, indien die rechtspersoon in een bij die akte gemaakte uiterste wilsbeschikking in het leven zou zijn geroepen.   
+1.  Een rechtspersoon ontstaat niet bij het ontbreken van een door een notaris ondertekende akte voor zover door de wet voor de totstandkoming vereist. Het ontbreken van kracht van authenticiteit aan een door een notaris ondertekende akte verhindert het ontstaan van de rechtspersoon slechts, indien die rechtspersoon in een bij die akte gemaakte uiterste wilsbeschikking in het leven zou zijn geroepen.   
 2.  Vernietiging van de rechtshandeling waardoor een rechtspersoon is ontstaan, tast diens bestaan niet aan. Het vervallen van de deelneming van een of meer oprichters van een rechtspersoon heeft op zichzelf geen invloed op de rechtsgeldigheid van de deelneming der overblijvende oprichters.   
 3.  Is ten name van een niet bestaande rechtspersoon een vermogen gevormd, dan benoemt de rechter op verzoek van een belanghebbende of het openbaar ministerie een of meer vereffenaars. Artikel 22 is van overeenkomstige toepassing.   
 4.  Het vermogen wordt vereffend als dat van een ontbonden rechtspersoon in de voorgewende rechtsvorm. Degenen die zijn opgetreden als bestuurders, zijn hoofdelijk verbonden voor de tot dit vermogen behorende schulden die opeisbaar zijn geworden in het tijdvak waarin zij dit deden. Zij zijn eveneens verbonden voor de schulden die voortspruiten uit in die tijd ten behoeve van dit vermogen verrichte rechtshandelingen, voor zover daarvoor niemand ingevolge de vorige zin verbonden is. Ontbreken personen die ingevolge de vorige twee zinnen verbonden zijn, dan zijn degenen die handelden, hoofdelijk verbonden.   
@@ -717,8 +722,7 @@ In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../
 ### Artikel  64  
 
 1.  De naamloze vennootschap is een rechtspersoon met een in overdraagbare aandelen verdeeld maatschappelijk kapitaal. Een aandeelhouder is niet persoonlijk aansprakelijk voor hetgeen in naam van de vennootschap wordt verricht en is niet gehouden boven het bedrag dat op zijn aandeel behoort te worden gestort in de verliezen van de vennootschap bij te dragen. Ten minste één aandeel wordt gehouden door een ander dan en anders dan voor rekening van de vennootschap of een van haar dochtermaatschappijen.   
-2.  De vennootschap wordt door een of meer personen opgericht bij notariële akte. Voor oprichting is vereist een verklaring van Onze Minister van Justitie dat hem van geen bezwaren is gebleken. De akte wordt getekend door iedere oprichter en door ieder die blijkens deze akte een of meer aandelen neemt.   
-3.  De akte van oprichting moet binnen drie maanden na de dagtekening van de verklaring van geen bezwaar zijn verleden, op straffe van verval van de verklaring. Onze Minister kan op verzoek van belanghebbenden op grond van gewichtige redenen deze termijn met ten hoogste drie maanden verlengen.   
+2.  De vennootschap wordt door een of meer personen opgericht bij notariële akte. De akte wordt getekend door iedere oprichter en door ieder die blijkens deze akte een of meer aandelen neemt.   
 
 ### Artikel  65  
 
@@ -753,12 +757,6 @@ Indien de vennootschap in afwijking van artikel 67a het bedrag van de aandelen w
 1.  Een naamloze vennootschap waarvan de statuten het maatschappelijk kapitaal en het bedrag van de aandelen in gulden vermelden, kan in het maatschappelijk verkeer de tegenwaarde in euro gebruiken tot ten hoogste twee cijfers achter de komma, mits daarbij wordt verwezen naar dit artikel. Dit gebruik van de tegenwaarde in euro heeft geen rechtsgevolg.   
 2.  Indien een naamloze vennootschap waarvan de statuten het bedrag van het maatschappelijk kapitaal en het bedrag van de aandelen in gulden vermelden, na 1 januari 2002 een wijziging aanbrengt in een of meer bepalingen waarin bedragen in gulden worden uitgedrukt, worden in de statuten alle bedragen omgezet in euro. De artikelen 67a en 67b zijn van toepassing.   
 
-### Artikel  68  
-
-1.  Ter verkrijging van een verklaring van Onze Minister van Justitie dat hem van geen bezwaren is gebleken, moeten aan hem alle inlichtingen verstrekt worden die noodzakelijk zijn voor het beoordelen van de aanvraag. Tevens moet aan Onze Minister ten bate van 's Rijks kas een bedrag van € 90,76 worden voldaan. Wij kunnen bij algemene maatregel van bestuur dit bedrag verhogen in verband met de stijging van het loon- en prijspeil.   
-2.  De verklaring mag alleen worden geweigerd op grond dat er, gelet op de voornemens of de antecedenten van de personen die het beleid van de vennootschap zullen bepalen of mede bepalen, gevaar bestaat dat de vennootschap zal worden gebruikt voor ongeoorloofde doeleinden of dat haar werkzaamheid zal leiden tot benadeling van haar schuldeisers.   
-3.  Ten behoeve van de uitoefening van het toezicht, bedoeld in lid 2, verstrekken het Uitvoeringsinstituut werknemersverzekeringen en de rijksbelastingdienst op zijn verzoek aan Onze Minister de inlichtingen die deze behoeft. Het instituut en de rijksbelastingdienst verlenen Onze Minister op verzoek kosteloos inzage van gegevens waarover zij beschikken of verstrekken kosteloos uittreksels daaruit.   
-
 ### Artikel  69  
 
 1.  De bestuurders zijn verplicht de vennootschap te doen inschrijven in het handelsregister en een authentiek afschrift van de akte van oprichting en van de daaraan ingevolge de artikelen 93a, 94 en 94a gehechte stukken, alsmede een afschrift van stukken die zijn opgesteld overeenkomstig artikel 94a lid 4, laatste zin, neer te leggen ten kantore van het handelsregister. Tegelijkertijd moeten zij opgave doen van het totaal van de vastgestelde en geraamde kosten die met de oprichting verband houden en ten laste van de vennootschap komen.   
@@ -779,20 +777,14 @@ c. op het bij de oprichting geplaatste kapitaal ten minste een vierde van het no
 
 ### Artikel  72  
 
-1.  Wanneer een besloten vennootschap zich krachtens artikel 18 omzet in een naamloze vennootschap, worden aan de akte van omzetting gehecht: 
-
-a. een verklaring van Onze Minister van Justitie, waarop artikel 235 van toepassing is, dat hem van bezwaren tegen de omzetting en statutenwijziging niet is gebleken;  
-
-b. een verklaring van een accountant als bedoeld in artikel 393 lid 1, waaruit blijkt dat het eigen vermogen van de vennootschap op een dag binnen vijf maanden voor de omzetting ten minste overeenkwam met het gestorte en opgevraagde deel van het kapitaal.     
+1.  Wanneer een besloten vennootschap zich krachtens artikel 18 omzet in een naamloze vennootschap, wordt aan de akte van omzetting een verklaring van een accountant als bedoeld in artikel 393 lid 1 gehecht waaruit blijkt dat het eigen vermogen van de vennootschap op een dag binnen vijf maanden voor de omzetting ten minste overeenkwam met het gestorte en opgevraagde deel van het kapitaal.   
 2.  Wanneer een andere rechtspersoon zich krachtens artikel 18 omzet in een naamloze vennootschap, worden aan de akte van omzetting gehecht: 
 
-a. een verklaring van Onze Minister van Justitie, waarop artikel 68 van toepassing is, dat hem van bezwaren tegen de omzetting en statutenwijziging niet is gebleken;  
+a. een verklaring van een accountant als bedoeld in artikel 393 lid 1, waaruit blijkt dat het eigen vermogen van de rechtspersoon op een dag binnen vijf maanden voor de omzetting ten minste het bedrag beloopt van het gestorte deel van het geplaatste kapitaal volgens de akte van omzetting; bij het eigen vermogen mag de waarde worden geteld van hetgeen na die dag uiterlijk onverwijld na de omzetting op aandelen zal worden gestort;  
 
-b. een verklaring van een accountant als bedoeld in artikel 393 lid 1, waaruit blijkt dat het eigen vermogen van de rechtspersoon op een dag binnen vijf maanden voor de omzetting ten minste het bedrag beloopt van het gestorte deel van het geplaatste kapitaal volgens de akte van omzetting; bij het eigen vermogen mag de waarde worden geteld van hetgeen na die dag uiterlijk onverwijld na de omzetting op aandelen zal worden gestort;  
+b. indien de rechtspersoon leden heeft, de schriftelijke toestemming van ieder lid wiens aandelen niet worden volgestort door omzetting van de reserves van de rechtspersoon;  
 
-c. indien de rechtspersoon leden heeft, de schriftelijke toestemming van ieder lid wiens aandelen niet worden volgestort door omzetting van de reserves van de rechtspersoon;  
-
-d. indien een stichting wordt omgezet, de rechterlijke machtiging daartoe.     
+c. indien een stichting wordt omgezet, de rechterlijke machtiging daartoe.     
 3.  Wanneer een vereniging, coöperatie of onderlinge waarborgmaatschappij zich krachtens artikel 18 omzet in een naamloze vennootschap, wordt ieder lid aandeelhouder. De omzetting kan niet geschieden, zolang een lid nog kan opzeggen op grond van artikel 36 lid 4.   
 
 ### Artikel  74  
@@ -814,7 +806,7 @@ a. die uitsluitend ten doel heeft haar vermogen zodanig te beleggen dat de risic
 
 b. waarvan het bestuur krachtens de statuten bevoegd is aandelen in haar kapitaal uit te geven, te verwerven en te vervreemden,  
 
-c. waarvoor aan een beheerder een vergunning is verleend als bedoeld in de [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voor plaatsing van haar aandelen, en  
+c. waarvoor aan een beheerder een vergunning of verklaring van ondertoezichtstelling is verleend als bedoeld in de [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voor plaatsing van haar aandelen, en  
 
 d. waarvan de statuten bepalen dat de vennootschap beleggingsmaatschappij met veranderlijk kapitaal is.     
 2.  De vennootschap doet aan het handelsregister en aan de Stichting Autoriteit Financiële Markten opgave dat zij een beleggingsmaatschappij met veranderlijk kapitaal is. Deze woorden moeten ook in alle geschriften, gedrukte stukken en aankondigingen, waarin de beleggingsmaatschappij met veranderlijk kapitaal partij is of die van haar uitgaan, met uitzondering van telegrammen en reclames, duidelijk bij haar naam worden vermeld.   
@@ -1449,13 +1441,6 @@ Wijziging van een bepaling der statuten, waarbij aan een ander dan aan aandeelho
 2.  Die akte kan bestaan in een notarieel proces-verbaal van de algemene vergadering, waarin de wijziging aangenomen is, of in een later verleden notariële akte. Het bestuur is bevoegd de akte te doen verlijden, ook zonder daartoe door de algemene vergadering te zijn gemachtigd. De algemene vergadering kan het bestuur of een of meer andere personen machtigen de veranderingen aan te brengen, die nodig mochten blijken om de bij het volgende artikel bedoelde verklaring te verkrijgen.   
 3.  Wordt het maatschappelijke kapitaal gewijzigd, dan vermeldt de akte welk deel daarvan is geplaatst.   
 
-### Artikel  125  
-
-1.  De wijziging in de statuten wordt niet van kracht, dan nadat door Onze Minister van Justitie is verklaard, dat hem van bezwaren niet is gebleken.   
-2.  De in lid één bedoelde verklaring mag alleen worden geweigerd op grond dat door de wijziging de vennootschap een verboden karakter zou verkrijgen of dat er gevaar bestaat dat door de wijziging de vennootschap gebruikt zal worden voor ongeoorloofde doeleinden.   
-3.  Ter verkrijging van deze verklaring moeten aan Onze Minister van Justitie alle inlichtingen verstrekt worden die noodzakelijk zijn voor het beoordelen van de aanvraag. Tevens moet aan Onze Minister ten bate van 's Rijks kas een bedrag van € 90,76 worden voldaan. Wij kunnen bij algemene maatregel van bestuur dit bedrag verhogen in verband met de stijging van het loon- en prijspeil.   
-4.  De verklaring is niet vereist bij een omzetting van de bedragen van de aandelen of van het maatschappelijk of het geplaatste kapitaal in euro volgens artikel 67a.   
-
 ### Artikel  126  
 
 De bestuurders zijn verplicht een authentiek afschrift van de wijziging en de gewijzigde statuten neder te leggen ten kantore van het handelsregister.  
@@ -1480,6 +1465,12 @@ Gedurende het faillissement der naamloze vennootschap kan in haar statuten geen 
 3.  Besluiten van het bestuur kunnen bij of krachtens de statuten slechts worden onderworpen aan de goedkeuring van een orgaan van de vennootschap.   
 4.  De statuten kunnen bepalen dat het bestuur zich dient te gedragen naar de aanwijzingen van een orgaan van de vennootschap die de algemene lijnen van het te voeren beleid op nader in de statuten aangegeven terreinen betreffen.   
 
+### Artikel  129a  
+
+1.  Bij de statuten kan worden bepaald dat de bestuurstaken worden verdeeld over één of meer niet uitvoerende bestuurders en één of meer uitvoerende bestuurders. De taak om toezicht te houden op de taakuitoefening door bestuurders kan niet door een taakverdeling worden ontnomen aan niet uitvoerende bestuurders. Het voorzitterschap van het bestuur, het doen van voordrachten voor benoeming van een bestuurder en het vaststellen van de bezoldiging van uitvoerende bestuurders kan niet aan een uitvoerende bestuurder worden toebedeeld. Niet uitvoerende bestuurders zijn natuurlijke personen.   
+2.  De uitvoerende bestuurders nemen niet deel aan de besluitvorming over het vaststellen van de bezoldiging van uitvoerende bestuurders.   
+3.  Bij of krachtens de statuten kan worden bepaald dat een of meer bestuurders rechtsgeldig kunnen besluiten omtrent zaken die tot zijn respectievelijk hun taak behoren. Bepaling krachtens de statuten geschiedt schriftelijk.   
+
 ### Artikel  130  
 
 1.  Het bestuur vertegenwoordigt de vennootschap, voor zover uit de wet niet anders voortvloeit.   
@@ -1489,12 +1480,21 @@ Gedurende het faillissement der naamloze vennootschap kan in haar statuten geen 
 
 ### Artikel  131  
 
-De rechtbank, binnen welker rechtsgebied de vennootschap haar woonplaats heeft, neemt kennis van alle rechtsvorderingen betreffende de overeenkomst tussen de naamloze vennootschap en de bestuurder, daaronder begrepen de vordering bedoeld bij artikel 138 van dit Boek, waarvan het bedrag onbepaald is of € 5000 te boven gaat. Dezelfde rechtbank neemt kennis van verzoeken als bedoeld in [artikel 685 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) betreffende de in de eerste zin genoemde overeenkomst.  
+De rechtbank, binnen welker rechtsgebied de vennootschap haar woonplaats heeft, neemt kennis van alle rechtsvorderingen betreffende de overeenkomst tussen de naamloze vennootschap en de bestuurder, daaronder begrepen de vordering bedoeld bij artikel 138 van dit Boek, waarvan het bedrag onbepaald is of € 25.000 te boven gaat. Dezelfde rechtbank neemt kennis van verzoeken als bedoeld in [artikel 685 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) betreffende de in de eerste zin genoemde overeenkomst. De zaken, bedoeld in de eerste en tweede volzin, worden niet behandeld en beslist door de kantonrechter.  
 
 ### Artikel  132  
 
 1.  De benoeming van bestuurders geschiedt voor de eerste maal bij de akte van oprichting en later door de algemene vergadering, tenzij zij overeenkomstig artikel 162 van dit Boek door de raad van commissarissen geschiedt.   
 2.  De statuten kunnen de kring van benoembare personen beperken door eisen te stellen waaraan de bestuurders moeten voldoen. De eisen kunnen terzijde worden gesteld door een besluit van de algemene vergadering genomen met twee derden van de uitgebrachte stemmen die meer dan de helft van het geplaatste kapitaal vertegenwoordigen.   
+
+### Artikel  132a  
+
+1.  Bestuurder kunnen niet zijn: 
+
+a. personen die commissaris of niet uitvoerende bestuurder zijn bij ten minste twee rechtspersonen;  
+
+b. personen die voorzitter zijn van de raad van commissarissen van een rechtspersoon of van het bestuur van een rechtspersoon indien de bestuurstaken zijn verdeeld over uitvoerende en niet uitvoerende bestuurders.     
+2.  Voor de toepassing van lid 1 wordt met een commissaris gelijkgesteld de persoon die lid is van een toezichthoudend orgaan dat bij de statuten van een rechtspersoon is ingesteld, wordt de benoeming bij een groepsmaatschappij van de vennootschap niet meegeteld en betreft de verwijzing naar rechtspersonen de rechtsvorm van de naamloze vennootschap, de besloten vennootschap met beperkte aansprakelijkheid en de stichting die niet voldoen aan ten minste twee van de vereisten genoemd in artikel 397 lid 1.   
 
 ### Artikel  133  
 
@@ -1565,6 +1565,11 @@ Indien door de jaarrekening, door tussentijdse cijfers die de vennootschap beken
 1.  De commissarissen die niet reeds bij de akte van oprichting zijn aangewezen, worden benoemd door de algemene vergadering. De statuten kunnen de kring van benoembare personen beperken door eisen te stellen waaraan de commissarissen moeten voldoen. De eisen kunnen terzijde worden gesteld door een besluit van de algemene vergadering genomen met twee derden van de uitgebrachte stemmen die meer dan de helft van het geplaatste kapitaal vertegenwoordigen.   
 2.  De eerste twee leden van artikel 133 van dit Boek zijn van overeenkomstige toepassing, indien de benoeming door de algemene vergadering geschiedt.   
 3.  Bij een aanbeveling of voordracht tot benoeming van een commissaris worden van de kandidaat medegedeeld zijn leeftijd, zijn beroep, het bedrag aan door hem gehouden aandelen in het kapitaal der vennootschap en de betrekkingen die hij bekleedt of die hij heeft bekleed voor zover die van belang zijn in verband met de vervulling van de taak van een commissaris. Tevens wordt vermeld aan welke rechtspersonen hij reeds als commissaris is verbonden; indien zich daaronder rechtspersonen bevinden, die tot een zelfde groep behoren, kan met de aanduiding van de groep worden volstaan. De aanbeveling en de voordracht tot benoeming of herbenoeming worden gemotiveerd. Bij herbenoeming wordt rekening gehouden met de wijze waarop de kandidaat zijn taak als commissaris heeft vervuld.   
+
+### Artikel  142a  
+
+1.  Commissaris kunnen niet zijn: personen die commissaris of niet uitvoerende bestuurder zijn bij ten minste vijf rechtspersonen, waarbij het voorzitterschap van de raad van commissarissen of het bestuur, indien de bestuurstaken zijn verdeeld over uitvoerende en niet uitvoerende bestuurders, dubbel telt.   
+2.  Voor de toepassing van lid 1 wordt met een commissaris gelijkgesteld de persoon die lid is van een toezichthoudend orgaan dat bij de statuten van een rechtspersoon is ingesteld, wordt de benoeming bij een groepsmaatschappij van de vennootschap niet meegeteld en betreft de verwijzing naar rechtspersonen de rechtsvorm van de naamloze vennootschap, de besloten vennootschap met beperkte aansprakelijkheid en de stichting, die niet voldoen aan ten minste twee van de vereisten genoemd in artikel 397 lid 1.   
 
 ### Artikel  143  
 
@@ -1757,6 +1762,13 @@ k. ingrijpende wijziging in de arbeidsomstandigheden van een aanmerkelijk aantal
 l. een voorstel tot vermindering van het geplaatste kapitaal.     
 2.  Het ontbreken van de goedkeuring van de raad van commissarissen op een besluit als bedoeld in lid 1 tast de vertegenwoordigingsbevoegdheid van bestuur of bestuurders niet aan.   
 
+### Artikel  164a  
+
+1.  In afwijking van artikel 158 lid 1 kan toepassing worden gegeven aan artikel 129a. In dat geval is het bepaalde ten aanzien van de raad van commissarissen onderscheidenlijk de commissarissen in artikel 158 leden 2 tot en met 12, 159, 160, 161 en 161a van overeenkomstige toepassing op de niet uitvoerende bestuurders van de vennootschap.   
+2.  Indien toepassing is gegeven aan artikel 129a, benoemen de niet uitvoerende bestuurders de uitvoerende bestuurders van de vennootschap; deze bevoegdheid kan niet door enige bindende voordracht worden beperkt. Artikel 162, tweede en derde zin, is van overeenkomstige toepassing.   
+3.  Van de toepassing van artikel 129a lid 3 zijn uitgesloten de besluiten van het bestuur in de zin van artikel 164.   
+4.  Indien toepassing is gegeven aan artikel 129a vereisen de besluiten in de zin van artikel 164 lid 1 de goedkeuring van de meerderheid van de niet uitvoerende bestuurders van de vennootschap. Het ontbreken van de goedkeuring tast de vertegenwoordigingsbevoegdheid van bestuur of bestuurders niet aan.   
+
 ### Afdeling  7  
 
 ####De ontbinding van de naamloze vennootschap
@@ -1767,15 +1779,7 @@ l. een voorstel tot vermindering van het geplaatste kapitaal.
 
 ### Artikel  174a  
 
-De aanvrager kan beroep instellen bij het College van Beroep voor het bedrijfsleven tegen: 
-
-a. de weigering van een verzoek als bedoeld in artikel 64, lid 3, tweede zin;  
-
-b. de weigering van een verklaring als bedoeld in artikel 68, lid 2;  
-
-c. de weigering van een verklaring als bedoeld in artikel 125, lid 2 en  
-
-d. een beschikking tot weigering, wijziging of intrekking van de ontheffing, alsmede een beschikking tot verlening van de ontheffing voor zover daaraan voorschriften zijn verbonden dan wel daarbij beperkingen zijn opgelegd als bedoeld in artikel 156.    
+In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen beschikkingen tot weigering, wijziging of intrekking van de ontheffing, alsmede een beschikking tot verlening van de ontheffing voor zover daaraan voorschriften zijn verbonden danwel daarbij beperkingen zijn opgelegd als bedoeld in artikel 156 de rechtbank te Rotterdam bevoegd.  
 
 ### Titel  5  
 
@@ -1788,8 +1792,7 @@ d. een beschikking tot weigering, wijziging of intrekking van de ontheffing, als
 ### Artikel  175  
 
 1.  De besloten vennootschap met beperkte aansprakelijkheid is een rechtspersoon met een in aandelen verdeeld maatschappelijk kapitaal. Aandeelbewijzen worden niet uitgegeven; de aandelen zijn niet vrij overdraagbaar. Een aandeelhouder is niet persoonlijk aansprakelijk voor hetgeen in naam van de vennootschap wordt verricht en is niet gehouden boven het bedrag dat op zijn aandelen behoort te worden gestort in de verliezen van de vennootschap bij te dragen.   
-2.  De vennootschap wordt door een of meer personen opgericht bij notariële akte. Voor oprichting is vereist een verklaring van Onze Minister van Justitie dat hem van geen bezwaren is gebleken. De akte wordt getekend door iedere oprichter en door ieder die blijkens deze akte een of meer aandelen neemt.   
-3.  De akte van oprichting moet binnen drie maanden na de dagtekening van de verklaring van geen bezwaar zijn verleden, op straffe van verval van de verklaring. Onze Minister kan op verzoek van belanghebbenden op grond van gewichtige redenen deze termijn met ten hoogste drie maanden verlengen.   
+2.  De vennootschap wordt door een of meer personen opgericht bij notariële akte. De akte wordt getekend door iedere oprichter en door ieder die blijkens deze akte een of meer aandelen neemt.   
 
 ### Artikel  176  
 
@@ -1824,12 +1827,6 @@ Indien de vennootschap in afwijking van artikel 178a het bedrag van de aandelen 
 1.  Een besloten vennootschap waarvan de statuten het maatschappelijk kapitaal en het bedrag van de aandelen in gulden vermelden, kan in het maatschappelijk verkeer de tegenwaarde in euro gebruiken tot ten hoogste twee cijfers achter de komma, mits daarbij wordt verwezen naar dit artikel. Dit gebruik van de tegenwaarde in euro heeft geen rechtsgevolg.   
 2.  Indien een besloten vennootschap waarvan de statuten het bedrag van het maatschappelijk kapitaal en het bedrag van de aandelen in gulden vermelden, na 1 januari 2002 een wijziging aanbrengt in een of meer bepalingen waarin bedragen in gulden worden uitgedrukt, worden in de statuten alle bedragen omgezet in euro. De artikelen 178a en 178b zijn van toepassing.   
 
-### Artikel  179  
-
-1.  Ter verkrijging van een verklaring van Onze Minister van Justitie dat hem van geen bezwaren is gebleken, moeten aan hem alle inlichtingen verstrekt worden die noodzakelijk zijn voor het beoordelen van de aanvraag. Tevens moet aan Onze Minister ten bate van 's Rijks kas een bedrag van € 90,76 worden voldaan. Wij kunnen bij algemene maatregel van bestuur dit bedrag verhogen in verband met de stijging van het loon- en prijspeil.   
-2.  De verklaring mag alleen worden geweigerd op grond dat er, gelet op de voornemens of de antecedenten van de personen die het beleid van de vennootschap zullen bepalen of mede bepalen, gevaar bestaat dat de vennootschap zal worden gebruikt voor ongeoorloofde doeleinden of dat haar werkzaamheid zal leiden tot benadeling van haar schuldeisers.   
-3.  Ten behoeve van de uitoefening van het toezicht, bedoeld in lid 2, verstrekken het Uitvoeringsinstituut werknemersverzekeringen en de rijksbelastingdienst op zijn verzoek aan Onze Minister de inlichtingen die deze behoeft. Het instituut en de rijksbelastingdienst verlenen Onze Minister op verzoek kosteloos inzage van gegevens waarover zij beschikken of verstrekken kosteloos uittreksels daaruit.   
-
 ### Artikel  180  
 
 1.  De bestuurders zijn verplicht de vennootschap te doen inschrijven in het handelsregister en een authentiek afschrift van de akte van oprichting en van de daaraan ingevolge de artikelen 203a, 204 en 204a gehechte stukken neer te leggen ten kantore van het handelsregister. Tegelijkertijd moeten zij opgave doen van het totaal van de vastgestelde en geraamde kosten die met de oprichting verband houden en ten laste van de vennootschap komen.   
@@ -1849,20 +1846,14 @@ c. op het bij de oprichting geplaatste kapitaal ten minste een vierde van het no
 
 ### Artikel  183  
 
-1.  Wanneer een naamloze vennootschap zich krachtens artikel 18 omzet in een besloten vennootschap, worden aan de akte van omzetting gehecht: 
-
-a. een verklaring van Onze Minister van Justitie, waarop artikel 125 van toepassing is, dat hem van bezwaren tegen de omzetting en statutenwijziging niet is gebleken;  
-
-b. een verklaring van een deskundige als bedoeld in artikel 393, waaruit blijkt dat het eigen vermogen van de vennootschap op een dag binnen vijf maanden voor de omzetting ten minste overeenkwam met het gestorte en opgevraagde deel van het kapitaal volgens de akte van omzetting.     
+1.  Wanneer een naamloze vennootschap zich krachtens artikel 18 omzet in een besloten vennootschap, wordt aan de akte van omzetting een verklaring van een deskundige als bedoeld in artikel 393 gehecht waaruit blijkt dat het eigen vermogen van de vennootschap op een dag binnen vijf maanden voor de omzetting ten minste overeenkwam met het gestorte en opgevraagde deel van het kapitaal volgens de akte van omzetting.   
 2.  Wanneer een andere rechtspersoon zich krachtens artikel 18 omzet in een besloten vennootschap, worden aan de akte van omzetting gehecht: 
 
-a. een verklaring van Onze Minister van Justitie waarop artikel 179 van toepassing is, dat hem van bezwaren tegen de omzetting en statutenwijziging niet is gebleken;  
+a. een verklaring van een deskundige als bedoeld in artikel 393, waaruit blijkt dat het eigen vermogen van de rechtspersoon op een dag binnen vijf maanden voor de omzetting ten minste het bedrag beloopt van het gestorte deel van het geplaatste kapitaal volgens de akte van omzetting; bij het eigen vermogen mag de waarde worden geteld van hetgeen na die dag uiterlijk onverwijld na de omzetting op aandelen zal worden gestort;  
 
-b. een verklaring van een deskundige als bedoeld in artikel 393, waaruit blijkt dat het eigen vermogen van de rechtspersoon op een dag binnen vijf maanden voor de omzetting ten minste het bedrag beloopt van het gestorte deel van het geplaatste kapitaal volgens de akte van omzetting; bij het eigen vermogen mag de waarde worden geteld van hetgeen na die dag uiterlijk onverwijld na de omzetting op aandelen zal worden gestort;  
+b. indien de rechtspersoon leden heeft, de schriftelijke toestemming van ieder lid wiens aandelen niet worden volgestort door omzetting van de reserves van de rechtspersoon;  
 
-c. indien de rechtspersoon leden heeft, de schriftelijke toestemming van ieder lid wiens aandelen niet worden volgestort door omzetting van de reserves van de rechtspersoon;  
-
-d. indien een stichting wordt omgezet, de rechterlijke machtiging daartoe.     
+c. indien een stichting wordt omgezet, de rechterlijke machtiging daartoe.     
 3.  Wanneer een vereniging, coöperatie of onderlinge waarborgmaatschappij zich krachtens artikel 18 omzet in een besloten vennootschap, wordt ieder lid aandeelhouder. De omzetting kan niet geschieden, zolang een lid nog kan opzeggen op grond van artikel 36 lid 4.   
 4.  Na de omzetting kunnen een aandeelhouder, een vruchtgebruiker en een pandhouder de aan een aandeel verbonden rechten niet uitoefenen, zolang zij niet in het in artikel 194 bedoelde register zijn ingeschreven. Voor zover aandeelbewijzen zijn uitgegeven, vindt geen inschrijving plaats dan tegen afgifte van de aandeelbewijzen aan de vennootschap.   
 
@@ -2067,7 +2058,7 @@ c. betreffende inbreng op aandelen anders dan in geld,   moeten in haar geheel w
 
 ### Artikel  204a  
 
-1.  Indien bij de oprichting inbreng op aandelen anders dan in geld wordt overeengekomen, maken de oprichters een beschrijving op van hetgeen wordt ingebracht, met vermelding van de daaraan toegekende waarde en van de toegepaste waarderingsmethoden. Deze methoden moeten voldoen aan normen die in het maatschappelijke verkeer als aanvaardbaar worden beschouwd. De beschrijving heeft betrekking op de toestand van hetgeen wordt ingebracht op een dag die niet eerder ligt dan hetzij vijf maanden voor de oprichting hetzij een maand voordat de ministeriële verklaring van geen bezwaar is aangevraagd voor een oprichting die uiterlijk een maand na de verklaring van geen bezwaar geschiedt. De beschrijving wordt door alle oprichters ondertekend. De vennootschap legt deze te haren kantore ter inzage van de houders van haar aandelen of van certificaten daarvan die met haar medewerking zijn uitgegeven.   
+1.  Indien bij de oprichting inbreng op aandelen anders dan in geld wordt overeengekomen, maken de oprichters een beschrijving op van hetgeen wordt ingebracht, met vermelding van de daaraan toegekende waarde en van de toegepaste waarderingsmethoden. Deze methoden moeten voldoen aan normen die in het maatschappelijke verkeer als aanvaardbaar worden beschouwd. De beschrijving heeft betrekking op de toestand van hetgeen wordt ingebracht op een dag die niet eerder ligt dan vijf maanden voor de oprichting. De beschrijving wordt door alle oprichters ondertekend. De vennootschap legt deze te haren kantore ter inzage van de houders van haar aandelen of van certificaten daarvan die met haar medewerking zijn uitgegeven.   
 2.  Over de beschrijving van hetgeen wordt ingebracht moet een registeraccountant, of een accountant-administratieconsulent een verklaring afleggen. Indien wordt ingebracht in een vennootschap waarvan de jaarrekening moet worden onderzocht, mag slechts hij die bevoegd is tot het verplichte onderzoek van de jaarrekening, de verklaring over de beschrijving afleggen. Hetzelfde geldt, indien de waarde van alle in te brengen activa, zonder aftrek van passiva, ten minste € 3 600 000 bedraagt. De verklaring houdt in dat de waarde van hetgeen wordt ingebracht, bij toepassing van in het maatschappelijke verkeer als aanvaardbaar beschouwde waarderingsmethoden, ten minste beloopt het in de verklaring genoemde bedrag van de stortingsplicht, in geld uitgedrukt, waaraan met de inbreng moet worden voldaan. De verklaring moet aan de akte van oprichting worden gehecht. Indien bekend is dat de waarde na de beschrijving aanzienlijk is gedaald, is een tweede verklaring vereist.   
 3.  De beschrijving en accountantsverklaring zijn niet vereist, indien alle oprichters hiervan hebben afgezien en een rechtspersoon die aandelen heeft genomen of waarvan een groepsmaatschappij aandelen heeft genomen, de volgende vereisten vervult: 
 
@@ -2341,13 +2332,6 @@ Wijziging van een bepaling der statuten, waarbij aan een ander dan aan aandeelho
 2.  Die akte kan bestaan in een notarieel proces-verbaal van de algemene vergadering, waarin de wijziging aangenomen is, of in een later verleden notariële akte. Het bestuur is bevoegd de akte te doen verlijden, ook zonder daartoe door de algemene vergadering te zijn gemachtigd. De algemene vergadering kan het bestuur of een of meer andere personen machtigen de veranderingen aan te brengen, die nodig mochten blijken om de bij het volgende artikel bedoelde verklaring te verkrijgen.   
 3.  Wordt het maatschappelijke kapitaal gewijzigd, dan vermeldt de akte welk deel daarvan is geplaatst.   
 
-### Artikel  235  
-
-1.  De wijziging in de statuten wordt niet van kracht, dan nadat door Onze Minister van Justitie is verklaard dat hem van bezwaren niet is gebleken.   
-2.  De in lid één bedoelde verklaring mag alleen worden geweigerd op grond dat door de wijziging de vennootschap een verboden karakter zou verkrijgen of dat er gevaar bestaat dat door de wijziging de vennootschap gebruikt zal worden voor ongeoorloofde doeleinden.   
-3.  Ter verkrijging van deze verklaring moeten aan Onze Minister van Justitie alle inlichtingen verstrekt worden die noodzakelijk zijn voor het beoordelen van de aanvraag. Tevens moet aan Onze Minister ten bate van 's Rijks kas een bedrag van € 90,76 worden voldaan. Wij kunnen bij algemene maatregel van bestuur dit bedrag verhogen in verband met de stijging van het loon- en prijspeil.   
-4.  De verklaring is niet vereist bij een omzetting van de bedragen van de aandelen of van het maatschappelijk of het geplaatste kapitaal in euro volgens artikel 178a.   
-
 ### Artikel  236  
 
 De bestuurders zijn verplicht een authentiek afschrift van de wijziging en de gewijzigde statuten neder te leggen ten kantore van het handelsregister.  
@@ -2372,6 +2356,12 @@ Gedurende het faillissement der vennootschap kan in haar statuten geen wijziging
 3.  Besluiten van het bestuur kunnen bij of krachtens de statuten slechts worden onderworpen aan de goedkeuring van een ander orgaan van de vennootschap.   
 4.  De statuten kunnen bepalen dat het bestuur zich dient te gedragen naar de aanwijzingen van een orgaan van de vennootschap die de algemene lijnen van het te voeren beleid op nader in de statuten aangegeven terreinen betreffen.   
 
+### Artikel  239a  
+
+1.  Bij de statuten kan worden bepaald dat de bestuurstaken worden verdeeld over één of meer niet uitvoerende bestuurders en één of meer uitvoerende bestuurders. De taak om toezicht te houden op de taakuitoefening door bestuurders kan niet door een taakverdeling worden ontnomen aan niet uitvoerende bestuurders. Het voorzitterschap van het bestuur, het doen van voordrachten voor benoeming van een bestuurder en het vaststellen van de bezoldiging van uitvoerende bestuurders kan niet aan een uitvoerende bestuurder worden toebedeeld. Niet uitvoerende bestuurders zijn natuurlijke personen.   
+2.  De uitvoerende bestuurders nemen niet deel aan de besluitvorming over het vaststellen van de bezoldiging van uitvoerende bestuurders.   
+3.  Bij of krachtens de statuten kan worden bepaald dat een bestuurder rechtsgeldig kan besluiten omtrent zaken die tot zijn taak behoren. Bepaling krachtens de statuten geschiedt schriftelijk.   
+
 ### Artikel  240  
 
 1.  Het bestuur vertegenwoordigt de vennootschap, voor zover uit de wet niet anders voortvloeit.   
@@ -2381,12 +2371,21 @@ Gedurende het faillissement der vennootschap kan in haar statuten geen wijziging
 
 ### Artikel  241  
 
-De rechtbank, binnen welker rechtsgebied de vennootschap haar woonplaats heeft, neemt kennis van alle rechtsvorderingen betreffende de overeenkomst tussen de vennootschap en de bestuurder, daaronder begrepen de vordering bedoeld bij artikel 248 van dit Boek, waarvan het bedrag onbepaald is of € 5000 te boven gaat. Dezelfde rechtbank neemt kennis van verzoeken als bedoeld in [artikel 685 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) betreffende de in de eerste zin genoemde overeenkomst.  
+De rechtbank, binnen welker rechtsgebied de vennootschap haar woonplaats heeft, neemt kennis van alle rechtsvorderingen betreffende de overeenkomst tussen de vennootschap en de bestuurder, daaronder begrepen de vordering bedoeld bij artikel 248 van dit Boek, waarvan het bedrag onbepaald is of € 25.000 te boven gaat. Dezelfde rechtbank neemt kennis van verzoeken als bedoeld in [artikel 685 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) betreffende de in de eerste zin genoemde overeenkomst. De zaken, bedoeld in de eerste en tweede volzin, worden niet behandeld en beslist door de kantonrechter.  
 
 ### Artikel  242  
 
 1.  De benoeming van bestuurders geschiedt voor de eerste maal bij de akte van oprichting en later door de algemene vergadering van aandeelhouders, tenzij zij overeenkomstig artikel 272 van dit Boek door de raad van commissarissen geschiedt.   
 2.  De statuten kunnen de kring van benoembare personen beperken door eisen te stellen waaraan de bestuurders moeten voldoen. De eisen kunnen terzijde worden gesteld door een besluit van de algemene vergadering genomen met twee derden van de uitgebrachte stemmen die meer dan de helft van het geplaatste kapitaal vertegenwoordigen.   
+
+### Artikel  242a  
+
+1.  Bestuurder kunnen niet zijn: 
+
+a. personen die commissaris of niet uitvoerende bestuurder zijn bij ten minste twee rechtspersonen;  
+
+b. personen die voorzitter zijn van de raad van commissarissen van een rechtspersoon of van het bestuur van een rechtspersoon indien de bestuurstaken zijn verdeeld over uitvoerende en niet uitvoerende bestuurders.     
+2.  Voor de toepassing van lid 1 wordt met een commissaris gelijkgesteld de persoon die lid is van een toezichthoudend orgaan dat bij de statuten van een rechtspersoon is ingesteld, wordt de benoeming bij een groepsmaatschappij van de vennootschap niet meegeteld en betreft de verwijzing naar rechtspersonen de rechtsvorm van de naamloze vennootschap, de besloten vennootschap met beperkte aansprakelijkheid en de stichting, die niet voldoen aan ten minste twee van de vereisten genoemd in artikel 397 lid 1.   
 
 ### Artikel  243  
 
@@ -2448,6 +2447,11 @@ Indien door de jaarrekening, door tussentijdse cijfers of door het jaarverslag v
 1.  De commissarissen die niet reeds bij de akte van oprichting zijn aangewezen, worden benoemd door de algemene vergadering van aandeelhouders. De statuten kunnen de kring van benoembare personen beperken door eisen te stellen waaraan de commissarissen moeten voldoen. De eisen kunnen terzijde worden gesteld door een besluit van de algemene vergadering genomen met twee derden van de uitgebrachte stemmen die meer dan de helft van het geplaatste kapitaal vertegenwoordigen.   
 2.  De eerste twee leden van artikel 243 van dit Boek zijn van overeenkomstige toepassing, indien de benoeming door de algemene vergadering van aandeelhouders geschiedt.   
 3.  Bij een aanbeveling of voordracht tot benoeming van een commissaris worden van de kandidaat medegedeeld zijn leeftijd, zijn beroep, het bedrag aan door hem gehouden aandelen in het kapitaal der vennootschap en de betrekkingen die hij bekleedt of die hij heeft bekleed voor zover die van belang zijn in verband met de vervulling van de taak van een commissaris. Tevens wordt vermeld aan welke rechtspersonen hij reeds als commissaris is verbonden; indien zich daaronder rechtspersonen bevinden, die tot een zelfde groep behoren, kan met de aanduiding van die groep worden volstaan. De aanbeveling en de voordracht tot benoeming of herbenoeming worden gemotiveerd. Bij herbenoeming wordt rekening gehouden met de wijze waarop de kandidaat zijn taak als commissaris heeft vervuld.   
+
+### Artikel  252a  
+
+1.  Commissaris kunnen niet zijn: personen die commissaris of niet uitvoerende bestuurder zijn bij ten minste vijf rechtspersonen, waarbij het voorzitterschap van de raad van commissarissen of het bestuur, indien de bestuurstaken zijn verdeeld over uitvoerende en niet uitvoerende bestuurders, dubbel telt.   
+2.  Voor de toepassing van lid 1 wordt met een commissaris gelijkgesteld de persoon die lid is van een toezichthoudend orgaan dat bij de statuten van een rechtspersoon is ingesteld, wordt de benoeming bij een groepsmaatschappij van de vennootschap niet meegeteld en betreft de verwijzing naar rechtspersonen de rechtsvorm van de naamloze vennootschap, de besloten vennootschap met beperkte aansprakelijkheid en de stichting, die niet voldoen aan ten minste twee van de vereisten genoemd in artikel 397 lid 1.   
 
 ### Artikel  253  
 
@@ -2635,6 +2639,13 @@ k. ingrijpende wijziging in de arbeidsomstandigheden van een aanmerkelijk aantal
 l. een voorstel tot vermindering van het geplaatste kapitaal.     
 2.  Het ontbreken van goedkeuring van de raad van commissarissen op een besluit als bedoeld in lid 1 tast de vertegenwoordigingsbevoegdheid van het bestuur of bestuurders niet aan.   
 
+### Artikel  274a  
+
+1.  In afwijking van artikel 268 lid 1 kan toepassing worden gegeven aan artikel 239a. In dat geval is het bepaalde ten aanzien van de raad van commissarissen onderscheidenlijk de commissarissen in artikel 268 leden 2 tot en met 12, 269, 270, 271 en 271a van overeenkomstige toepassing op de niet uitvoerende bestuurders van de vennootschap.   
+2.  Indien toepassing is gegeven aan artikel 239a, benoemen de niet uitvoerende bestuurders de uitvoerende bestuurders van de vennootschap; deze bevoegdheid kan niet door enige bindende voordracht worden beperkt. Artikel 272, tweede en derde zin, is van overeenkomstige toepassing.   
+3.  Van de toepassing van artikel 239a lid 3 zijn uitgesloten de besluiten van het bestuur in de zin van artikel 274.   
+4.  Indien toepassing is gegeven aan artikel 239a lid 1 vereisen de besluiten in de zin van artikel 274 lid 1 de goedkeuring van de meerderheid van de niet uitvoerende bestuurders van de vennootschap. Het ontbreken van de goedkeuring tast de vertegenwoordigingsbevoegdheid van bestuur of bestuurders niet aan.   
+
 ### Afdeling  7  
 
 ####De ontbinding van de vennootschap
@@ -2645,15 +2656,7 @@ l. een voorstel tot vermindering van het geplaatste kapitaal.
 
 ### Artikel  284a  
 
-De aanvrager kan beroep instellen bij het College van Beroep voor het bedrijfsleven tegen: 
-
-a. een weigering van het verzoek als bedoeld in artikel 175, lid 3, tweede zin;  
-
-b. een weigering van de verklaring als bedoeld in artikel 179, lid 2;  
-
-c. een weigering van de verklaring als bedoeld in artikel 235, lid 2 en  
-
-d. een beschikking tot weigering, wijziging of intrekking van de ontheffing, alsmede een beschikking tot verlening van de ontheffing voor zover daaraan voorschriften zijn verbonden dan wel daarbij beperkingen zijn opgelegd in artikel 266.    
+In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen een beschikking tot weigering, wijziging of intrekking van de ontheffing, alsmede een beschikking tot verlening van de ontheffing voor zover daaraan voorschriften zijn verbonden dan wel daarbij beperkingen zijn opgelegd in artikel 266 de rechtbank te Rotterdam bevoegd.  
 
 ### Titel  6  
 
@@ -2726,6 +2729,20 @@ In een geding, waarin ontbinding van een stichting op een grond als vermeld in a
 
 1.  Het openbaar ministerie bij de rechtbank is, bij ernstige twijfel of de wet of de statuten te goeder trouw worden nageleefd, dan wel het bestuur naar behoren wordt gevoerd, bevoegd aan het bestuur inlichtingen te verzoeken.   
 2.  Bij niet- of niet-behoorlijke voldoening aan het verzoek kan de voorzieningenrechter van de rechtbank, desverzocht, bevelen dat aan het openbaar ministerie de boeken, bescheiden en andere gegevensdragers van de stichting voor raadpleging beschikbaar worden gesteld en de waarden der stichting worden getoond. Tegen de beschikking van de voorzieningenrechter staat geen hoger beroep of cassatie open.   
+
+### Artikel  297a  
+
+1.  Bestuurder kunnen niet zijn: 
+
+a. personen die commissaris of, indien de bestuurstaken bij een rechtspersoon zijn verdeeld over uitvoerende en niet uitvoerende bestuurders, niet uitvoerende bestuurder zijn bij ten minste twee rechtspersonen;  
+
+b. personen die voorzitter zijn van de raad van commissarissen van een rechtspersoon of van het bestuur van een rechtspersoon indien de bestuurstaken zijn verdeeld over uitvoerende en niet uitvoerende bestuurders.     
+2.  Voor de toepassing van lid 1 wordt met een commissaris gelijkgesteld de persoon die lid is van een toezichthoudend orgaan dat bij de statuten van een rechtspersoon is ingesteld, wordt de benoeming bij een groepsmaatschappij van de stichting niet meegeteld en betreft de verwijzing naar rechtspersonen de rechtsvorm van de naamloze vennootschap, de besloten vennootschap met beperkte aansprakelijkheid en de stichting, die niet voldoen aan ten minste twee van de vereisten genoemd in artikel 397 lid 1.   
+
+### Artikel  297b  
+
+1.  Indien een toezichthoudend orgaan is ingesteld, kunnen daarvan niet deel uitmaken: personen die commissaris of niet uitvoerende bestuurder zijn bij ten minste vijf rechtspersonen, waarbij het voorzitterschap van de raad van commissarissen of het bestuur, indien de bestuurstaken zijn verdeeld over uitvoerende en niet uitvoerende bestuurders, dubbel telt.   
+2.  Voor de toepassing van lid 1 wordt met een commissaris gelijkgesteld de persoon die lid is van een toezichthoudend orgaan dat bij de statuten van een rechtspersoon is ingesteld, wordt de benoeming bij een groepsmaatschappij van de vennootschap niet meegeteld en betreft de verwijzing naar rechtspersonen de rechtsvorm van de naamloze vennootschap, de besloten vennootschap met beperkte aansprakelijkheid en de stichting, die niet voldoen aan ten minste twee van de vereisten genoemd in artikel 397 lid 1.   
 
 ### Artikel  298  
 
@@ -2843,12 +2860,14 @@ i. wie in voorkomend geval het besluit tot fusie moeten goedkeuren.
 ### Artikel  313  
 
 1.  In een schriftelijke toelichting geeft het bestuur van elke te fuseren rechtspersoon de redenen voor de fusie met een uiteenzetting over de verwachte gevolgen voor de werkzaamheden en een toelichting uit juridisch, economisch en sociaal oogpunt.   
-2.  Indien het laatste boekjaar van de rechtspersoon, waarover een jaarrekening of andere financiële verantwoording is vastgesteld, meer dan zes maanden voor de nederlegging van het voorstel tot fusie is verstreken, maakt het bestuur een jaarrekening of tussentijdse vermogensopstelling op. Deze heeft betrekking op de stand van het vermogen op ten vroegste de eerste dag van de derde maand voor de maand waarin zij wordt neergelegd. De vermogensopstelling wordt opgemaakt met inachtneming van de indeling en de waarderingsmethoden die in de laatst vastgestelde jaarrekening of andere financiële verantwoording zijn toegepast, tenzij daarvan gemotiveerd wordt afgeweken op de grond dat de aktuele waarde belangrijk afwijkt van de boekwaarde. In de vermogensopstelling worden de krachtens de wet of de statuten te reserveren bedragen opgenomen.   
+2.  Indien het laatste boekjaar van de rechtspersoon, waarover een jaarrekening of andere financiële verantwoording is vastgesteld, meer dan zes maanden voor de nederlegging of openbaarmaking van het voorstel tot fusie is verstreken, maakt het bestuur een jaarrekening of tussentijdse vermogensopstelling op. Deze heeft betrekking op de stand van het vermogen op ten vroegste de eerste dag van de derde maand voor de maand waarin zij wordt neergelegd. De vermogensopstelling wordt opgemaakt met inachtneming van de indeling en de waarderingsmethoden die in de laatst vastgestelde jaarrekening of andere financiële verantwoording zijn toegepast, tenzij daarvan gemotiveerd wordt afgeweken op de grond dat de aktuele waarde belangrijk afwijkt van de boekwaarde. In de vermogensopstelling worden de krachtens de wet of de statuten te reserveren bedragen opgenomen.   
 3.  In de gevallen van de artikelen 310 lid 4 en 333 is geen toelichting vereist voor de verdwijnende rechtspersoon, tenzij anderen dan de verkrijgende rechtspersoon een bijzonder recht jegens de verdwijnende rechtspersoon hebben, zoals een recht op uitkering van winst of tot het nemen van aandelen.   
+4.  Lid 1 blijft buiten toepassing indien de leden of aandeelhouders van de fuserende rechtspersonen daarmee instemmen.   
+5.  Lid 2 blijft buiten toepassing indien een rechtspersoon voldoet aan de vereisten met betrekking tot de halfjaarlijkse financiële verslaggeving genoemd in artikel 5:25d van de Wet op het financieel toezicht.   
 
 ### Artikel  314  
 
-1.  Elke te fuseren rechtspersoon legt ten kantore van het handelsregister neer: 
+1.  Elke te fuseren rechtspersoon legt ten kantore van het handelsregister neer of maakt langs elektronische weg bij het handelsregister openbaar: 
 
 a. het voorstel tot fusie,  
 
@@ -2857,21 +2876,22 @@ b. de laatste drie vastgestelde jaarrekeningen of andere financiële verantwoord
 c. de jaarverslagen van de te fuseren rechtspersonen over de laatste drie afgesloten jaren, voor zover deze ter inzage liggen of moeten liggen,  
 
 d. tussentijdse vermogensopstellingen of niet vastgestelde jaarrekeningen, voor zover vereist ingevolge artikel 313 lid 2 en voor zover de jaarrekening van de rechtspersoon ter inzage moet liggen.     
-2.  Tegelijkertijd legt het bestuur de stukken, met inbegrip van jaarrekeningen en jaarverslagen die niet ter openbare inzage behoeven te liggen, samen met de toelichtingen van de besturen op het voorstel neer ten kantore van de rechtspersoon of, bij gebreke van een kantoor, aan de woonplaats van een bestuurder. De stukken liggen tot het tijdstip van de fusie, en op het adres van de verkrijgende rechtspersoon onderscheidenlijk van een bestuurder daarvan nog zes maanden nadien, ter inzage voor de leden of aandeelhouders, en voor hen die een bijzonder recht jegens de rechtspersoon hebben, zoals een recht op een uitkering van winst of tot het nemen van aandelen. In dit tijdvak kunnen zij kosteloos een afschrift daarvan krijgen.   
-3.  De te fuseren rechtspersonen kondigen in een landelijk verspreid dagblad aan dat de stukken zijn neergelegd, met opgave van de openbare registers waar zij liggen en van het adres waar zij krachtens lid 2 ter inzage liggen.   
-4.  Indien de ondernemingsraad of medezeggenschapsraad van een te fuseren rechtspersoon of een vereniging van werknemers die werknemers van de rechtspersoon of van een dochtermaatschappij onder haar leden telt, schriftelijk een advies of opmerkingen indient, worden deze tegelijk met het voorstel tot fusie of onmiddellijk na ontvangst, neergelegd op het adres bedoeld in lid 2. De tweede en derde zin van lid 2 zijn van overeenkomstige toepassing.   
+2.  Tegelijkertijd legt het bestuur de stukken, met inbegrip van jaarrekeningen en jaarverslagen die niet ter openbare inzage hoeven te liggen, samen met de toelichtingen van de besturen op het voorstel neer ten kantore van de rechtspersoon of, bij gebreke van een kantoor, aan de woonplaats van een bestuurder, of maakt deze langs elektronische weg toegankelijk. De stukken liggen tot het tijdstip van de fusie, en op het adres van de verkrijgende rechtspersoon onderscheidenlijk van een bestuurder daarvan nog zes maanden nadien, ter inzage of zijn elektronisch toegankelijk, voor de leden of aandeelhouders en voor hen die een bijzonder recht jegens de rechtspersoon hebben, zoals een recht op een uitkering van winst of tot het nemen van aandelen. In dit tijdvak kunnen zij kosteloos een afschrift daarvan verkrijgen. Een afschrift mag elektronisch worden verstrekt als een lid of aandeelhouder daarmee heeft ingestemd. De rechtspersoon is niet gehouden om afschriften te verstrekken in het geval dat leden of aandeelhouders de mogelijkheid hebben om een elektronisch afschrift van de stukken op te slaan.   
+3.  De te fuseren rechtspersonen kondigen in een landelijk verspreid dagblad aan dat de stukken zijn neergelegd of raadpleegbaar zijn, met opgave van de openbare registers waar zij liggen of elektronisch toegankelijk zijn en van het adres waar zij krachtens lid 2 ter inzage liggen of elektronisch toegankelijk zijn.   
+4.  Indien de ondernemingsraad of medezeggenschapsraad van een te fuseren rechtspersoon of een vereniging van werknemers die werknemers van de rechtspersoon of van een dochtermaatschappij onder haar leden telt, schriftelijk een advies of opmerkingen indient, worden deze tegelijk met het voorstel tot fusie of onmiddellijk na ontvangst, neergelegd op het adres bedoeld in lid 2. De tweede tot en met de vijfde zin van lid 2 zijn van overeenkomstige toepassing.   
 5.  Indien de besturen van de te fuseren rechtspersonen het voorstel tot fusie wijzigen, zijn de leden 1-4 van overeenkomstige toepassing.   
 6.  De leden 2 en 4 gelden niet voor stichtingen.   
 
 ### Artikel  315  
 
-1.  Het bestuur van elke te fuseren rechtspersoon is verplicht de algemene vergadering en de andere te fuseren rechtspersonen in te lichten over na het voorstel tot fusie gebleken belangrijke wijzigingen in de omstandigheden die de mededelingen in het voorstel tot fusie of in de toelichting hebben beïnvloed.   
+1.  Het bestuur van elke te fuseren rechtspersoon is verplicht de algemene vergadering en de andere te fuseren rechtspersonen in te lichten over na het voorstel tot fusie gebleken belangrijke wijzigingen in de activa en de passiva die de mededelingen in het voorstel tot fusie of in de toelichting hebben beïnvloed.   
 2.  Voor een stichting geldt deze verplichting jegens degenen die blijkens de statuten de fusie moeten goedkeuren.   
+3.  Lid 1 blijft buiten toepassing indien de leden of aandeelhouders van de fuserende rechtspersonen daarmee instemmen.   
 
 ### Artikel  316  
 
 1.  Ten minste een van de te fuseren rechtspersonen moet, op straffe van gegrondverklaring van een verzet als bedoeld in het volgende lid, voor iedere schuldeiser van deze rechtspersonen die dit verlangt zekerheid stellen of hem een andere waarborg geven voor de voldoening van zijn vordering. Dit geldt niet, indien de schuldeiser voldoende waarborgen heeft of de vermogenstoestand van de verkrijgende rechtspersoon na de fusie niet minder waarborg zal bieden dat de vordering zal worden voldaan, dan er voordien is.   
-2.  Tot een maand nadat alle te fuseren rechtspersonen de nederlegging van het voorstel tot fusie hebben aangekondigd kan iedere schuldeiser door een verzoekschrift aan de rechtbank tegen het voorstel tot fusie in verzet komen met vermelding van de waarborg die wordt verlangd.   
+2.  Tot een maand nadat alle te fuseren rechtspersonen de nederlegging of openbaarmaking van het voorstel tot fusie hebben aangekondigd kan iedere schuldeiser door een verzoekschrift aan de rechtbank tegen het voorstel tot fusie in verzet komen met vermelding van de waarborg die wordt verlangd. De rechtbank wijst het verzoek af, indien de verzoeker niet aannemelijk heeft gemaakt dat de vermogenstoestand van de verkrijgende rechtspersoon na de fusie minder waarborg zal bieden dat de vordering zal worden voldaan, en dat van de rechtspersoon niet voldoende waarborgen zijn verkregen.   
 3.  Voordat de rechter beslist, kan hij de rechtspersonen in de gelegenheid stellen binnen een door hem gestelde termijn een door hem omschreven waarborg te geven.   
 4.  Indien tijdig verzet is gedaan, mag de akte van fusie eerst worden verleden, zodra het verzet is ingetrokken of de opheffing van het verzet uitvoerbaar is.   
 5.  Indien de akte van fusie al is verleden, kan de rechter op een ingesteld rechtsmiddel het stellen van een door hem omschreven waarborg bevelen en daaraan een dwangsom verbinden.   
@@ -2879,14 +2899,15 @@ d. tussentijdse vermogensopstellingen of niet vastgestelde jaarrekeningen, voor 
 ### Artikel  317  
 
 1.  Het besluit tot fusie wordt genomen door de algemene vergadering; in een stichting wordt het besluit genomen door degene die de statuten mag wijzigen of, als geen ander dat mag, door het bestuur. Het besluit mag niet afwijken van het voorstel tot fusie.   
-2.  Een besluit tot fusie kan eerst worden genomen na verloop van een maand na de dag waarop alle fuserende rechtspersonen de nederlegging van het voorstel tot fusie hebben aangekondigd.   
+2.  Een besluit tot fusie kan eerst worden genomen na verloop van een maand na de dag waarop alle fuserende rechtspersonen de nederlegging of openbaarmaking van het voorstel tot fusie hebben aangekondigd.   
 3.  Een besluit tot fusie wordt genomen op dezelfde wijze als een besluit tot wijziging van de statuten. Vereisen de statuten hiervoor goedkeuring, dan geldt dit ook voor het besluit tot fusie. Vereisen de statuten voor de wijziging van afzonderlijke bepalingen verschillende meerderheden, dan is voor een besluit tot fusie de grootste daarvan vereist, en sluiten de statuten wijziging van bepalingen uit, dan zijn de stemmen van alle stemgerechtigde leden of aandeelhouders vereist; een en ander tenzij die bepalingen na de fusie onverminderd zullen gelden.   
 4.  Lid 3 geldt niet, voor zover de statuten een andere regeling voor besluiten tot fusie geven.   
 5.  Een besluit tot fusie van een stichting behoeft de goedkeuring van de rechtbank, tenzij de statuten het mogelijk maken alle bepalingen daarvan te wijzigen. De rechtbank wijst het verzoek af, indien er gegronde redenen zijn om aan te nemen dat de fusie strijdig is met het belang van de stichting.   
+6.  Indien het een fusie van een rechtspersoon betreft die beleggingsinstelling is als bedoeld in de [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) waarvan het doel is de collectieve belegging van uit het publiek aangetrokken kapitaal met toepassing van het beginsel van risicospreiding en waarvan de rechten van deelneming ten laste van de activa van de beleggingsinstelling op verzoek van de houders direct of indirect worden ingekocht of terugbetaald, mogen de statuten voor het besluit tot fusie niet meer dan drie vierden van de uitgebrachte stemmen vereisen. Met inkopen of terugbetalingen als bedoeld in de eerste zin wordt gelijkgesteld ieder handelen van een dergelijke beleggingsinstelling om te voorkomen dat de waarde van haar deelnemingsrechten ter beurze aanzienlijk afwijkt van de intrinsieke waarde.   
 
 ### Artikel  318  
 
-1.  De fusie geschiedt bij notariële akte en wordt van kracht met ingang van de dag na die waarop de akte is verleden. De akte mag slechts worden verleden binnen zes maanden na de aankondiging van de nederlegging van het voorstel of, indien dit als gevolg van gedaan verzet niet mag, binnen een maand na intrekking of nadat de opheffing van het verzet uitvoerbaar is geworden.   
+1.  De fusie geschiedt bij notariële akte en wordt van kracht met ingang van de dag na die waarop de akte is verleden. De akte mag slechts worden verleden binnen zes maanden na de aankondiging van de nederlegging of openbaarmaking van het voorstel of, indien dit als gevolg van gedaan verzet niet mag, binnen een maand na intrekking of nadat de opheffing van het verzet uitvoerbaar is geworden.   
 2.  Aan de voet van de akte verklaart de notaris dat hem is gebleken dat de vormvoorschriften in acht zijn genomen voor alle besluiten die deze en de volgende afdeling en de statuten voor het totstandkomen van de fusie vereisten en dat voor het overige de daarvoor in deze en de volgende afdeling en in de statuten gegeven voorschriften zijn nageleefd.   
 3.  De verkrijgende rechtspersoon doet de fusie binnen acht dagen na het verlijden inschrijven in het handelsregister waar elke gefuseerde rechtspersoon en hijzelf staan ingeschreven, naar gelang van elks inschrijfplicht. Daarbij wordt een afschrift van de akte van fusie met de notariële verklaring aan de voet daarvan ten kantore van elk register neergelegd.   
 4.  De verkrijgende rechtspersoon doet binnen een maand opgave van de fusie aan de beheerders van andere openbare registers waarin overgang van rechten of de fusie kan worden ingeschreven. Gaat door de fusie een registergoed op de verkrijgende rechtspersoon over, dan is deze verplicht binnen deze termijn aan de bewaarder van de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), de voor de inschrijving van de fusie vereiste stukken aan te bieden.   
@@ -2992,20 +3013,16 @@ Artikel 314 lid 2 geldt ook ten behoeve van houders van met medewerking van de v
 
 ### Artikel  330  
 
-1.  Voor het besluit tot fusie van de algemene vergadering is in elk geval een meerderheid van ten minste twee derden vereist, indien minder dan de helft van het geplaatste kapitaal ter vergadering is vertegenwoordigd.   
-2.  Zijn er verschillende soorten aandelen, dan is naast het besluit tot fusie van de algemene vergadering vereist een voorafgaand of gelijktijdig goedkeurend besluit van elke groep houders van aandelen van een zelfde soort aan wier rechten de fusie afbreuk doet. Goedkeuring kan eerst geschieden na verloop van een maand na de dag waarop alle fuserende vennootschappen de nederlegging van het voorstel tot fusie hebben aangekondigd.   
-3.  De algemene vergadering kan machtiging verlenen de veranderingen aan te brengen die nodig mochten blijken om de ministeriële verklaring van geen bezwaar te verkrijgen op de statutenwijziging van de verkrijgende vennootschap, indien voorgenomen, of voor de oprichting van de verkrijgende vennootschap.   
-4.  De notulen van de algemene vergaderingen waarin tot fusie wordt besloten of waarin deze ingevolge lid 2 wordt goedgekeurd, worden opgemaakt bij notariële akte.   
+1.  Voor het besluit tot fusie van de algemene vergadering is in elk geval een meerderheid van ten minste twee derden vereist, indien minder dan de helft van het geplaatste kapitaal ter vergadering is vertegenwoordigd. Indien het een fusie van een vennootschap betreft die beleggingsinstelling is als bedoeld in de [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) waarvan het doel is de collectieve belegging van uit het publiek aangetrokken kapitaal met toepassing van het beginsel van risicospreiding en waarvan de rechten van deelneming ten laste van de activa van de vennootschap op verzoek van de houders direct of indirect worden ingekocht of terugbetaald, mag de vereiste meerderheid niet meer dan drie vierden bedragen. Met inkopen of terugbetalingen als bedoeld in de eerste zin wordt gelijkgesteld ieder handelen van een dergelijke beleggingsinstelling om te voorkomen dat de waarde van haar deelnemingsrechten ter beurze aanzienlijk afwijkt van de intrinsieke waarde.   
+2.  Zijn er verschillende soorten aandelen, dan is naast het besluit tot fusie van de algemene vergadering vereist een voorafgaand of gelijktijdig goedkeurend besluit van elke groep houders van aandelen van een zelfde soort aan wier rechten de fusie afbreuk doet. Goedkeuring kan eerst geschieden na verloop van een maand na de dag waarop alle fuserende vennootschappen de nederlegging of openbaarmaking van het voorstel tot fusie hebben aangekondigd.   
+3.  De notulen van de algemene vergaderingen waarin tot fusie wordt besloten of waarin deze ingevolge lid 2 wordt goedgekeurd, worden opgemaakt bij notariële akte.   
 
 ### Artikel  331  
 
 1.  Tenzij de statuten anders bepalen, kan een verkrijgende vennootschap bij bestuursbesluit tot fusie besluiten.   
 2.  Dit besluit kan slechts worden genomen, indien de vennootschap het voornemen hiertoe heeft vermeld in de aankondiging dat het voorstel tot fusie is neergelegd.   
 3.  Het besluit kan niet worden genomen, indien een of meer aandeelhouders die tezamen ten minste een twintigste van het geplaatste kapitaal vertegenwoordigen, of een zoveel geringer bedrag als in de statuten is bepaald, binnen een maand na de aankondiging aan het bestuur hebben verzocht de algemene vergadering bijeen te roepen om over de fusie te besluiten. De artikelen 317 en 330 zijn dan van toepassing.   
-
-### Artikel  332  
-
-De ministeriële verklaring dat van geen bezwaren is gebleken tegen de wijziging van de statuten van de verkrijgende vennootschap moet zijn verleend voordat de akte van fusie wordt verleden.  
+4.  Indien een verkrijgende vennootschap fuseert met een vennootschap waarvan zij alle aandelen houdt, kan de verdwijnende vennootschap bij bestuursbesluit tot fusie besluiten, tenzij de statuten anders bepalen.   
 
 ### Artikel  333  
 
@@ -3095,7 +3112,7 @@ De beheerder van het handelsregister waar de verkrijgende rechtspersoon is inges
 1.  In dit artikel wordt onder regelingen met betrekking tot medezeggenschap verstaan regelingen met betrekking tot medezeggenschap als bedoeld in [artikel 1:1 lid 1 van de Wet rol werknemers bij de Europese vennootschap](../../../../../../wet/wet/rol/werknemers/bij/europese/rechtspersonen/BWBR0018115/README.md).   
 2.  Indien 
 
-a. bij ten minste een van de fuserende vennootschappen in de zes maanden voorafgaande aan datum van neerlegging van het fusievoorstel bedoeld in artikel 314 gemiddeld meer dan vijfhonderd werknemers werkzaam zijn en op deze fuserende vennootschap regelingen met betrekking tot medezeggenschap van toepassing zijn, of  
+a. bij ten minste een van de fuserende vennootschappen in de zes maanden voorafgaande aan datum van neerlegging of openbaarmaking van het fusievoorstel bedoeld in artikel 314 gemiddeld meer dan vijfhonderd werknemers werkzaam zijn en op deze fuserende vennootschap regelingen met betrekking tot medezeggenschap van toepassing zijn, of  
 
 b. regelingen met betrekking tot medezeggenschap op een van de fuserende vennootschappen van toepassing zijn en de verkrijgende vennootschap niet voldoet aan de bepalingen van artikel 157, 158 tot en met 164 of 158 tot en met 161 en 164 dan wel 267, 268 tot en met 274 of 268 tot en met 271 en 274,   zijn de artikelen 12 leden twee tot en met vier van Verordening (EG) nr. 2157/2001 van de Raad van de Europese Unie van 8 oktober 2001 betreffende het statuut van de Europese vennootschap (SE) en [1:4 tot en met 1:12](../../../../../../wet/wet/rol/werknemers/bij/europese/rechtspersonen/BWBR0018115/README.md), [1:14 lid 1, 2, 3 onderdeel a en 4](../../../../../../wet/wet/rol/werknemers/bij/europese/rechtspersonen/BWBR0018115/README.md), [1:16](../../../../../../wet/wet/rol/werknemers/bij/europese/rechtspersonen/BWBR0018115/README.md), [1:17](../../../../../../wet/wet/rol/werknemers/bij/europese/rechtspersonen/BWBR0018115/README.md), [1:18 lid 1 onderdelen a, h, i en j, lid 3 en 6](../../../../../../wet/wet/rol/werknemers/bij/europese/rechtspersonen/BWBR0018115/README.md), [1:20](../../../../../../wet/wet/rol/werknemers/bij/europese/rechtspersonen/BWBR0018115/README.md), [1:21 lid 2 onderdeel a](../../../../../../wet/wet/rol/werknemers/bij/europese/rechtspersonen/BWBR0018115/README.md), met dien verstande dat het in dat onderdeel genoemde percentage van 25 wordt vervangen door 33⅓, lid 4 en 5, [1:26 lid 3](../../../../../../wet/wet/rol/werknemers/bij/europese/rechtspersonen/BWBR0018115/README.md) en [1:31 lid 2 van de Wet rol werknemers bij Europese rechtspersonen](../../../../../../wet/wet/rol/werknemers/bij/europese/rechtspersonen/BWBR0018115/README.md) alsmede de [artikelen 670 lid 4 en 11](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [670a lid 1 onderdeel a van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van overeenkomstige toepassing.   
 3.  De algemene vergadering van elke fuserende vennootschap kan besluiten af te zien van het openen van onderhandelingen over regelingen met betrekking tot medezeggenschap. Dit besluit heeft tot gevolg dat de referentievoorschriften voor regelingen met betrekking tot medezeggenschap als bedoeld in [artikel 1:31 van de Wet rol werknemers bij Europese rechtspersonen](../../../../../../wet/wet/rol/werknemers/bij/europese/rechtspersonen/BWBR0018115/README.md) vanaf de datum van inschrijving van de fusie van toepassing zijn op de verkrijgende vennootschap.   
@@ -3185,11 +3202,12 @@ l. wie in voorkomend geval het besluit tot splitsing moet goedkeuren.
 ### Artikel  334g  
 
 1.  In een schriftelijke toelichting geeft het bestuur van elke partij bij de splitsing de redenen voor de splitsing met een uiteenzetting over de verwachte gevolgen voor de werkzaamheden en een toelichting uit juridisch, economisch en sociaal oogpunt.   
-2.  Indien het laatste boekjaar van de rechtspersoon, waarover een jaarrekening of andere financiële verantwoording is vastgesteld, meer dan zes maanden voor de nederlegging van het voorstel tot splitsing is verstreken, maakt het bestuur een jaarrekening of tussentijdse vermogensopstelling op. Deze heeft betrekking op de stand van het vermogen op ten vroegste de eerste dag van de derde maand voor de maand waarin zij wordt neergelegd. De vermogensopstelling wordt opgemaakt met inachtneming van de indeling en de waarderingsmethoden die in de laatst vastgestelde jaarrekening of andere financiële verantwoording zijn toegepast, tenzij daarvan gemotiveerd wordt afgeweken op grond dat de actuele waarde belangrijk afwijkt van de boekwaarde. In de vermogensopstelling worden de krachtens de wet of de statuten te reserveren bedragen opgenomen.   
+2.  Indien het laatste boekjaar van de rechtspersoon, waarover een jaarrekening of andere financiële verantwoording is vastgesteld, meer dan zes maanden voor de nederlegging of openbaarmaking van het voorstel tot splitsing is verstreken, maakt het bestuur een jaarrekening of tussentijdse vermogensopstelling op. Deze heeft betrekking op de stand van het vermogen op ten vroegste de eerste dag van de derde maand voor de maand waarin zij wordt neergelegd. De vermogensopstelling wordt opgemaakt met inachtneming van de indeling en de waarderingsmethoden die in de laatst vastgestelde jaarrekening of andere financiële verantwoording zijn toegepast, tenzij daarvan gemotiveerd wordt afgeweken op grond dat de actuele waarde belangrijk afwijkt van de boekwaarde. In de vermogensopstelling worden de krachtens de wet of de statuten te reserveren bedragen opgenomen.   
+3.  Lid 2 blijft buiten toepassing indien een rechtspersoon voldoet aan de vereisten met betrekking tot de halfjaarlijkse financiële verslaggeving genoemd in [artikel 5:25d van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
 
 ### Artikel  334h  
 
-1.  Elke partij bij de splitsing legt ten kantore van het handelsregister neer: 
+1.  Elke partij bij de splitsing legt ten kantore van het handelsregister neer of maakt langs elektronische weg bij het handelsregister openbaar: 
 
 a. het voorstel tot splitsing;  
 
@@ -3198,15 +3216,15 @@ b. de laatste drie vastgestelde jaarrekeningen of andere financiële verantwoord
 c. de jaarverslagen van de partijen bij de splitsing over de laatste drie afgesloten jaren, voor zover deze ter inzage liggen of moeten liggen;  
 
 d. tussentijdse vermogensopstellingen of niet vastgestelde jaarrekeningen, voor zover vereist ingevolge artikel 334g lid 2 en voor zover de jaarrekening van de rechtspersoon ter inzage moet liggen.     
-2.  Tegelijkertijd legt het bestuur de stukken, met inbegrip van jaarrekeningen en jaarverslagen die niet ter openbare inzage hoeven te liggen, samen met de toelichtingen van de besturen op het voorstel neer ten kantore van de rechtspersoon of, bij gebreke van een kantoor, aan de woonplaats van een bestuurder. De stukken liggen tot het tijdstip van de splitsing op het adres van elke verkrijgende rechtspersoon en de voortbestaande gesplitste rechtspersoon, onderscheidenlijk op het adres van een bestuurder daarvan, nog zes maanden nadien ter inzage voor de leden of aandeelhouders en voor hen die een bijzonder recht jegens de rechtspersoon hebben, zoals een recht op een uitkering van winst of tot het nemen van aandelen. In dit tijdvak kunnen zij kosteloos een afschrift daarvan krijgen.   
-3.  De partijen bij de splitsing kondigen in een landelijk verspreid dagblad aan dat de stukken zijn neergelegd, met opgave van de openbare registers waar zij liggen en van het adres waar zij krachtens lid 2 ter inzage liggen.   
-4.  Indien de ondernemingsraad of medezeggenschapsraad van een partij bij de splitsing of een vereniging van werknemers die werknemers van die partij of van een dochtermaatschappij onder haar leden telt, schriftelijk een advies of opmerkingen indient, worden deze tegelijk met het voorstel tot splitsing of onmiddellijk na ontvangst neergelegd op het adres bedoeld in lid 2. De tweede en derde zin van lid 2 zijn van overeenkomstige toepassing.   
+2.  Tegelijkertijd legt het bestuur de stukken, met inbegrip van jaarrekeningen en jaarverslagen die niet ter openbare inzage hoeven te liggen, samen met de toelichtingen van de besturen op het voorstel neer ten kantore van de rechtspersoon of, bij gebreke van een kantoor, aan de woonplaats van een bestuurder, of maakt deze langs elektronische weg toegankelijk. De stukken liggen tot het tijdstip van de splitsing op het adres van elke verkrijgende rechtspersoon en de voortbestaande gesplitste rechtspersoon, onderscheidenlijk op het adres van een bestuurder daarvan, nog zes maanden nadien, ter inzage of zijn elektronisch toegankelijk, voor de leden of aandeelhouders en voor hen die een bijzonder recht jegens de rechtspersoon hebben, zoals een recht op een uitkering van winst of tot het nemen van aandelen. In dit tijdvak kunnen zij kosteloos een afschrift daarvan verkrijgen. Een afschrift mag elektronisch worden verstrekt als een lid of aandeelhouder daarmee heeft ingestemd. De rechtspersoon is niet gehouden om afschriften te verstrekken in het geval dat leden of aandeelhouders de mogelijkheid hebben om een elektronisch afschrift van de stukken op te slaan.   
+3.  De partijen bij de splitsing kondigen in een landelijk verspreid dagblad aan dat de stukken zijn neergelegd of raadpleegbaar zijn, met opgave van de openbare registers waar zij liggen of elektronisch toegankelijk zijn en van het adres waar zij krachtens lid 2 ter inzage liggen of elektronisch toegankelijk zijn.   
+4.  Indien de ondernemingsraad of medezeggenschapsraad van een partij bij de splitsing of een vereniging van werknemers die werknemers van die partij of van een dochtermaatschappij onder haar leden telt, schriftelijk een advies of opmerkingen indient, worden deze tegelijk met het voorstel tot splitsing of onmiddellijk na ontvangst neergelegd op het adres bedoeld in lid 2. De tweede tot en met de vijfde zin van lid 2 zijn van overeenkomstige toepassing.   
 5.  Indien de besturen van de partijen bij de splitsing het voorstel tot splitsing wijzigen, zijn de leden 1 tot en met 4 van overeenkomstige toepassing.   
 6.  De leden 2 en 4 gelden niet voor stichtingen.   
 
 ### Artikel  334i  
 
-1.  Het bestuur van elke partij bij de splitsing is verplicht de algemene vergadering en de andere partijen bij de splitsing in te lichten over na het voorstel tot splitsing gebleken belangrijke wijzigingen in de omstandigheden die de mededelingen in het voorstel tot splitsing of in de toelichting hebben beïnvloed.   
+1.  Het bestuur van elke partij bij de splitsing is verplicht de algemene vergadering en de andere partijen bij de splitsing in te lichten over na het voorstel tot splitsing gebleken belangrijke wijzigingen in de activa en de passiva die de mededelingen in het voorstel tot splitsing of in de toelichting hebben beïnvloed.   
 2.  Voor een stichting geldt deze verplichting jegens degenen die blijkens de statuten de splitsing moeten goedkeuren.   
 
 ### Artikel  334j  
@@ -3222,7 +3240,7 @@ Ten minste een van de partijen bij de splitsing moet, op straffe van gegrondverk
 
 ### Artikel  334l  
 
-1.  Tot een maand nadat alle partijen bij de splitsing de nederlegging van het voorstel tot splitsing hebben aangekondigd kan iedere wederpartij bij een rechtsverhouding van zulk een partij door een verzoekschrift aan de rechtbank tegen het voorstel tot splitsing in verzet komen op grond dat het voorstel ten aanzien van zijn rechtsverhouding strijdt met artikel 334j of dat een krachtens artikel 334k verlangde waarborg niet is gegeven. In het laatste geval vermeldt het verzoekschrift de waarborg die wordt verlangd.   
+1.  Tot een maand nadat alle partijen bij de splitsing de nederlegging of openbaarmaking van het voorstel tot splitsing hebben aangekondigd kan iedere wederpartij bij een rechtsverhouding van zulk een partij door een verzoekschrift aan de rechtbank tegen het voorstel tot splitsing in verzet komen op grond dat het voorstel ten aanzien van zijn rechtsverhouding strijdt met artikel 334j of dat een krachtens artikel 334k verlangde waarborg niet is gegeven. In het laatste geval vermeldt het verzoekschrift de waarborg die wordt verlangd. De rechtbank wijst het verzoek af, indien de verzoeker niet aannemelijk heeft gemaakt dat de vermogenstoestand van de verkrijgende rechtspersoon na de splitsing minder waarborg zal bieden dat de vordering zal worden voldaan, en dat van de rechtspersoon niet voldoende waarborgen zijn verkregen.   
 2.  Voordat de rechter beslist, kan hij de partijen bij de splitsing in de gelegenheid stellen binnen een door hem gestelde termijn een door hem omschreven wijziging in het voorstel tot splitsing aan te brengen en het gewijzigde voorstel overeenkomstig artikel 334h openbaar te maken, onderscheidenlijk een door hem omschreven waarborg te geven.   
 3.  Indien tijdig verzet is gedaan, mag de akte van splitsing eerst worden verleden, zodra het verzet is ingetrokken of de opheffing van het verzet uitvoerbaar is.   
 4.  Indien de akte van splitsing al is verleden, kan de rechter op een ingesteld rechtsmiddel: 
@@ -3235,14 +3253,14 @@ b. bevelen dat een door hem omschreven waarborg wordt gegeven.   De rechter kan 
 ### Artikel  334m  
 
 1.  Het besluit tot splitsing wordt genomen door de algemene vergadering; in een stichting wordt het besluit genomen door degene die de statuten mag wijzigen of, als geen ander dat mag, door het bestuur. Het besluit mag niet afwijken van het voorstel tot splitsing.   
-2.  Een besluit tot splitsing kan eerst worden genomen na verloop van een maand na de dag waarop alle partijen bij de splitsing de nederlegging van het voorstel tot splitsing hebben aangekondigd.   
+2.  Een besluit tot splitsing kan eerst worden genomen na verloop van een maand na de dag waarop alle partijen bij de splitsing de nederlegging of openbaarmaking van het voorstel tot splitsing hebben aangekondigd.   
 3.  Een besluit tot splitsing wordt genomen op dezelfde wijze als een besluit tot wijziging van de statuten. Vereisen de statuten hiervoor goedkeuring, dan geldt dit ook voor het besluit tot splitsing. Vereisen de statuten voor de wijziging van afzonderlijke bepalingen verschillende meerderheden, dan is voor een besluit tot splitsing de grootste daarvan vereist, en sluiten de statuten wijziging van bepalingen uit, dan zijn de stemmen van alle stemgerechtigde leden of aandeelhouders vereist; een en ander tenzij die bepalingen na de splitsing onverminderd zullen gelden.   
 4.  Lid 3 geldt niet voor zover de statuten een andere regeling voor besluiten tot splitsing geven.   
 5.  Een besluit tot splitsing van een stichting behoeft de goedkeuring van de rechtbank, tenzij de statuten het mogelijk maken alle bepalingen daarvan te wijzigen. De rechtbank wijst het verzoek af, indien er gegronde redenen zijn om aan te nemen dat de splitsing strijdig is met het belang van de stichting.   
 
 ### Artikel  334n  
 
-1.  De splitsing geschiedt bij notariële akte en wordt van kracht met ingang van de dag na die waarop de akte is verleden. De akte mag slechts worden verleden binnen zes maanden na de aankondiging van de nederlegging van het voorstel tot splitsing of, indien dit als gevolg van gedaan verzet niet mag, binnen een maand na intrekking of nadat de opheffing van het verzet uitvoerbaar is geworden.   
+1.  De splitsing geschiedt bij notariële akte en wordt van kracht met ingang van de dag na die waarop de akte is verleden. De akte mag slechts worden verleden binnen zes maanden na de aankondiging van de nederlegging of openbaarmaking van het voorstel tot splitsing of, indien dit als gevolg van gedaan verzet niet mag, binnen een maand na intrekking of nadat de opheffing van het verzet uitvoerbaar is geworden.   
 2.  Aan de voet van de akte verklaart de notaris dat hem is gebleken dat de vormvoorschriften in acht zijn genomen voor alle besluiten die deze en de volgende afdeling en de statuten voor het tot stand komen van de splitsing vereisen en dat voor het overige de daarvoor in deze en de volgende afdeling en in de statuten gegeven voorschriften zijn nageleefd. Aan de akte wordt de in artikel 334f lid 2 onder d bedoelde beschrijving gehecht.   
 3.  Elke verkrijgende rechtspersoon en de gesplitste rechtspersoon doen de splitsing binnen acht dagen na het verlijden inschrijven in het handelsregister, al naar gelang van elks inschrijfplicht. Indien de gesplitste rechtspersoon bij de splitsing is opgehouden te bestaan, is elke verkrijgende rechtspersoon tot inschrijving verplicht. Bij elke inschrijving wordt een afschrift van de akte van splitsing met de notariële verklaring aan de voet daarvan ten kantore van het register neergelegd.   
 4.  De verkrijgende rechtspersonen, elk voor zover het goederen betreft die bij de splitsing op hen zijn overgegaan, doen binnen een maand na de splitsing opgave aan de beheerders van andere openbare registers waarin overgang van rechten of de splitsing kan worden ingeschreven. Gaat door de splitsing een registergoed op een verkrijgende vennootschap over, dan is de gesplitste rechtspersoon of, zo deze bij de splitsing is opgehouden te bestaan, elk van de verkrijgende rechtspersonen in zijn plaats verplicht binnen deze termijn aan de bewaarder van de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), de voor de inschrijving van de splitsing vereiste stukken aan te bieden.   
@@ -3387,23 +3405,20 @@ Artikel 334h lid 2 geldt ook ten behoeve van houders van met medewerking van de 
 ### Artikel  334ee  
 
 1.  Voor het besluit tot splitsing van de algemene vergadering is in elk geval een meerderheid van ten minste twee derden vereist, indien minder dan de helft van het geplaatste kapitaal ter vergadering is vertegenwoordigd.   
-2.  Zijn er verschillende soorten aandelen, dan is naast het besluit tot splitsing van de algemene vergadering vereist een voorafgaand of gelijktijdig goedkeurend besluit van elke groep van houders van aandelen van een zelfde soort aan wier rechten de splitsing afbreuk doet. Goedkeuring kan eerst geschieden na verloop van een maand na de dag waarop alle partijen bij de splitsing de nederlegging van het voorstel tot splitsing hebben aangekondigd.   
-3.  De algemene vergadering kan machtiging verlenen de veranderingen aan te brengen die nodig mochten blijken om de ministeriële verklaring van geen bezwaar te verkrijgen op de statutenwijzigingen van de verkrijgende vennootschappen en de voortbestaande splitsende vennootschap, indien voorgenomen, of voor de oprichting van een verkrijgende vennootschap.   
-4.  De notulen van de algemene vergaderingen waarin tot splitsing wordt besloten of waarin deze ingevolge lid 2 wordt goedgekeurd, worden opgemaakt bij notariële akte.   
+2.  Zijn er verschillende soorten aandelen, dan is naast het besluit tot splitsing van de algemene vergadering vereist een voorafgaand of gelijktijdig goedkeurend besluit van elke groep van houders van aandelen van een zelfde soort aan wier rechten de splitsing afbreuk doet. Goedkeuring kan eerst geschieden na verloop van een maand na de dag waarop alle partijen bij de splitsing de nederlegging of openbaarmaking van het voorstel tot splitsing hebben aangekondigd.   
+3.  De notulen van de algemene vergaderingen waarin tot splitsing wordt besloten of waarin deze ingevolge lid 2 wordt goedgekeurd, worden opgemaakt bij notariële akte.   
 
 ### Artikel  334ff  
 
 1.  Tenzij de statuten anders bepalen, kan een verkrijgende vennootschap bij bestuursbesluit tot splitsing besluiten. Hetzelfde geldt voor de splitsende vennootschap, mits alle verkrijgende rechtspersonen bij de splitsing opgerichte naamloze of besloten vennootschappen zijn en de splitsende vennootschap daarvan bij de splitsing enig aandeelhouder wordt.   
 2.  Dit besluit kan slechts worden genomen, indien de vennootschap het voornemen hiertoe heeft vermeld in de aankondiging dat het voorstel tot splitsing is neergelegd.   
 3.  Het besluit kan niet worden genomen, indien een of meer aandeelhouders die tezamen ten minste een twintigste van het geplaatste kapitaal vertegenwoordigen, of een zoveel geringer bedrag als in de statuten is bepaald, binnen een maand na de aankondiging aan het bestuur hebben verzocht de algemene vergadering bijeen te roepen om over de splitsing te besluiten. De artikelen 334m en 334ee zijn dan van toepassing.   
-
-### Artikel  334gg  
-
-De ministeriële verklaring dat van geen bezwaren is gebleken tegen de wijziging van de statuten van de verkrijgende vennootschappen en de voortbestaande splitsende vennootschap moet zijn verleend voordat de akte van splitsing wordt verleden.  
+4.  Indien de verkrijgende vennootschappen alle aandelen houden in de splitsende vennootschap, kan de splitsende vennootschap, tenzij de statuten anders bepalen, bij bestuursbesluit tot splitsing besluiten.   
 
 ### Artikel  334hh  
 
-Indien alle verkrijgende vennootschappen bij de splitsing worden opgericht en de splitsende rechtspersoon daarvan bij de splitsing enig aandeelhouder wordt, zijn de artikelen 334f lid 4 eerste zin, 334w en 334y tot en met 334aa niet van toepassing.  
+1.  Indien alle verkrijgende vennootschappen bij de splitsing worden opgericht en de splitsende rechtspersoon daarvan bij de splitsing enig aandeelhouder wordt, zijn de artikelen 334f lid 4 eerste zin, 334w en 334y tot en met 334aa niet van toepassing.   
+2.  Indien alle verkrijgende vennootschappen bij de splitsing worden opgericht en de aandeelhouders van de splitsende vennootschap daarvan, evenredig aan hun aandeel in de splitsende vennootschap, aandeelhouder worden, zijn de artikelen 334g, 334i en 334y tot en met 334bb niet van toepassing.   
 
 ### Artikel  334ii  
 
@@ -4502,21 +4517,21 @@ b. waarvan de financiële gegevens in de geconsolideerde jaarrekening worden opg
 
 c. waarin een deelneming wordt gehouden die in de geconsolideerde jaarrekening overeenkomstig artikel 389 wordt verantwoord;  
 
-d. die dochtermaatschappij zijn zonder rechtspersoonlijkheid en niet ingevolge de onderdelen *a*, b of *c* zijn vermeld;  
+d. die dochtermaatschappij zijn zonder rechtspersoonlijkheid en niet ingevolge de onderdelen a, b of c zijn vermeld;  
 
-e. waaraan een of meer volledig in de consolidatie betrokken maatschappijen of dochtermaatschappijen daarvan alleen of samen voor eigen rekening ten minste een vijfde van het geplaatste kapitaal verschaffen of doen verschaffen, en die niet ingevolge de onderdelen *a*, b of *c* zijn vermeld.     
+e. waaraan een of meer volledig in de consolidatie betrokken maatschappijen of dochtermaatschappijen daarvan alleen of samen voor eigen rekening ten minste een vijfde van het geplaatste kapitaal verschaffen of doen verschaffen, en die niet ingevolge de onderdelen a, b of c zijn vermeld.     
 2.  Tevens wordt vermeld: 
 
 a. op grond van welke omstandigheid elke maatschappij volledig in de consolidatie wordt betrokken, tenzij deze bestaat in het kunnen uitoefenen van het merendeel van de stemrechten en het verschaffen van een daaraan evenredig deel van het kapitaal;  
 
 b. waaruit blijkt dat een rechtspersoon of vennootschap waarvan financiële gegevens overeenkomstig artikel 409 in de geconsolideerde jaarrekening zijn opgenomen, daarvoor in aanmerking komt;  
 
-c. in voorkomend geval de reden voor het niet consolideren van een dochtermaatschappij, vermeld ingevolge lid 1 onder *c, d* of *e*;  
+c. in voorkomend geval de reden voor het niet consolideren van een dochtermaatschappij, vermeld ingevolge lid 1 onder c, d of e;  
 
 d. het deel van het geplaatste kapitaal dat wordt verschaft;  
 
-e. het bedrag van het eigen vermogen en resultaat van elke krachtens onderdeel *e* van lid 1 vermelde maatschappij volgens haar laatst vastgestelde jaarrekening.     
-3.  Indien vermelding van naam, woonplaats en het gehouden deel van het geplaatste kapitaal van een dochtermaatschappij waarop onderdeel *c* van lid 1 van toepassing is, dienstig is voor het wettelijk vereiste inzicht, mag zij niet achterwege blijven, al is de deelneming van te verwaarlozen betekenis. Onderdeel *e* van lid 2 geldt niet ten aanzien van maatschappijen waarin een belang van minder dan de helft wordt gehouden en die wettig de balans niet openbaar maken.   
+e. het bedrag van het eigen vermogen en resultaat van elke krachtens onderdeel e van lid 1 vermelde maatschappij volgens haar laatst vastgestelde jaarrekening.     
+3.  Indien vermelding van naam, woonplaats en het gehouden deel van het geplaatste kapitaal van een dochtermaatschappij waarop onderdeel c van lid 1 van toepassing is, dienstig is voor het wettelijk vereiste inzicht, mag zij niet achterwege blijven, al is de deelneming van te verwaarlozen betekenis. Onderdeel e van lid 2 geldt niet ten aanzien van maatschappijen waarin een belang van minder dan de helft wordt gehouden en die wettig de balans niet openbaar maken.   
 4.  Artikel 379 lid 4 is van overeenkomstige toepassing op de vermeldingen op grond van de leden 1 en 2.   
 5.  Vermeld wordt ten aanzien van welke rechtspersonen de rechtspersoon een aansprakelijkstelling overeenkomstig artikel 403 heeft afgegeven.   
 
@@ -5041,10 +5056,10 @@ b. de advocaat-generaal bij het gerechtshof te Amsterdam in het openbaar belang.
 
 ### Artikel  449  
 
-1.  Het in artikel 447 bedoelde verzoek wordt ingediend binnen twee maanden na de dag waarop de jaarrekening is vastgesteld. Indien het in artikel 447 bedoelde verzoek wordt gedaan ten aanzien van een effectenuitgevende instelling als bedoeld in [artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md) bedraagt de in de eerste volzin bedoelde termijn zes maanden.   
-2.  Het verzoek omtrent de jaarrekening die niet is vastgesteld, kan worden gedaan tot twee maanden of, voor zover het een effectenuitgevende instelling betreft als bedoeld in [artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md), zes maanden na de dag der nederlegging van de jaarrekening ten kantore van het handelsregister. Indien na de dag der nederlegging de jaarrekening alsnog wordt vastgesteld, dan eindigt de termijn twee maanden of, voor zover het een effectenuitgevende instelling betreft als bedoeld in [artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md), zes maanden na de dag waarop uit een neergelegde mededeling of uit de neergelegde jaarrekening blijkt van die vaststelling.   
+1.  Het in artikel 447 bedoelde verzoek wordt ingediend binnen twee maanden na de dag waarop de jaarrekening is vastgesteld. Indien het in artikel 447 bedoelde verzoek wordt gedaan ten aanzien van een effectenuitgevende instelling als bedoeld in [artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md) bedraagt de in de eerste volzin bedoelde termijn negen maanden.   
+2.  Het verzoek omtrent de jaarrekening die niet is vastgesteld, kan worden gedaan tot twee maanden of, voor zover het een effectenuitgevende instelling betreft als bedoeld in [artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md), negen maanden na de dag der nederlegging van de jaarrekening ten kantore van het handelsregister. Indien na de dag der nederlegging de jaarrekening alsnog wordt vastgesteld, dan eindigt de termijn twee maanden of, voor zover het een effectenuitgevende instelling betreft als bedoeld in [artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md), negen maanden na de dag waarop uit een neergelegde mededeling of uit de neergelegde jaarrekening blijkt van die vaststelling.   
 3.  Indien een bericht als bedoeld in [artikel 3, tweede lid, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md) algemeen verkrijgbaar is gesteld, dan eindigt de termijn twee maanden na de dag waarop dit bericht algemeen verkrijgbaar is gesteld op de bij of krachtens dat artikel voorgeschreven wijze, doch niet eerder dan de termijnen, bedoeld lid 1 en lid 2.   
-4.  Ter zake van tekortkomingen die niet uit de stukken blijken, eindigt de termijn twee maanden of, voor zover het een effectenuitgevende instelling betreft als bedoeld in [artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md), zes maanden na de dag waarop de indiener van het verzoek daarvan in redelijkheid niet meer onkundig kon zijn, maar uiterlijk twee jaar na verloop van de termijn ingevolge de vorige leden.   
+4.  Ter zake van tekortkomingen die niet uit de stukken blijken, eindigt de termijn twee maanden of, voor zover het een effectenuitgevende instelling betreft als bedoeld in [artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving](../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md), negen maanden na de dag waarop de indiener van het verzoek daarvan in redelijkheid niet meer onkundig kon zijn, maar uiterlijk twee jaar na verloop van de termijn ingevolge de vorige leden.   
 
 ### Artikel  450  
 
@@ -5059,7 +5074,7 @@ b. de advocaat-generaal bij het gerechtshof te Amsterdam in het openbaar belang.
 
 ### Artikel  451  
 
-1.  Indien de ondernemingskamer het verzoek toewijst, geeft zij aan de rechtspersoon, vennootschap, of instelling een bevel omtrent de wijze waarop deze de jaarrekening, het jaarverslag of de overige gegevens moet inrichten. Het bevel bevat daaromtrent nauwkeurige aanwijzingen.   
+1.  Indien de ondernemingskamer het in artikel 447 bedoelde verzoek toewijst, geeft zij aan de rechtspersoon, vennootschap, of instelling een bevel omtrent de wijze waarop deze de jaarrekening, het jaarverslag of de overige gegevens moet inrichten. Het bevel bevat daaromtrent nauwkeurige aanwijzingen.   
 2.  De rechtspersoon, vennootschap of instelling is verplicht de stukken met inachtneming van het bevel op te maken en voor zover het de jaarrekening betreft, te besluiten omtrent de vaststelling.   
 3.  De ondernemingskamer kan, ook ambtshalve, beslissen dat het bevel mede of uitsluitend een of meer toekomstige stukken betreft.   
 4.  Indien het bevel betrekking heeft op de jaarrekening waarop het verzoek ziet, kan de ondernemingskamer het besluit tot vaststelling van die jaarrekening vernietigen. De ondernemingskamer kan de gevolgen van de vernietiging beperken.   

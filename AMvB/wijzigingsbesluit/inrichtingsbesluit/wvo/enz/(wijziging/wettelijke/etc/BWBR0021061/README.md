@@ -15,43 +15,43 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-####Wijziging [Inrichtingsbesluit W.V.O.](../../../../../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md)
+####Wijziging [Inrichtingsbesluit WVO](../../../../../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md)
 
-Wijzigt het Inrichtingsbesluit W.V.O.   
+Wijzigt het Inrichtingsbesluit WVO. 
 
 ### Artikel  II  
 
-####Wijziging [Eindexamenbesluit v.w.o.- h.a.v.o.- m.a.v.o.- v.b.o.](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)
+####Wijziging [Eindexamenbesluit VO](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)
 
-Wijzigt het Eindexamenbesluit v.w.o.- h.a.v.o.- m.a.v.o.- v.b.o.   
+Wijzigt het Eindexamenbesluit VO. 
 
 ### Artikel  III  
 
-####Wijziging [Besluit staatsexamens vwo-havo-mavo 2000](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md)
+####Wijziging [Staatsexamenbesluit VO](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md)
 
-Wijzigt het Besluit staatsexamens vwo-havo-mavo 2000.   
+Wijzigt het Staatsexamenbesluit VO. 
 
 ### Artikel  IV  
 
 ####Intrekking [Besluit van 15 november 1997, Stb. 588](../../../../../../../../../AMvB/wijzigingsbesluit/inrichtingsbesluit/v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o./enz./etc/BWBR0009021/README.md)
 
-Het [Besluit van 15 november 1997, houdende wijziging van het Inrichtingsbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o., het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. en enkele andere besluiten in verband met invoering van profielen in het voortgezet onderwijs](../../../../../../../../../AMvB/wijzigingsbesluit/inrichtingsbesluit/v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o./enz./etc/BWBR0009021/README.md) (Stb. 588) wordt ingetrokken.  
+Het [Besluit van 15 november 1997, houdende wijziging van het Inrichtingsbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o., het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. en enkele andere besluiten in verband met invoering van profielen in het voortgezet onderwijs](../../../../../../../../../AMvB/wijzigingsbesluit/inrichtingsbesluit/v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o./enz./etc/BWBR0009021/README.md) (Stb. 588) wordt ingetrokken. 
 
 ### Artikel  V  
 
 ####Overgangsbepalingen
 
-1.  In het schooljaar 2008–2009 wordt voor de laatste maal gelegenheid gegeven tot het afleggen van het eindexamen h.a.v.o. volgens de op 31 juli 2007 geldende bij of krachtens de Wet op het voortgezet onderwijs vastgestelde voorschriften, voor de leerlingen die voor 1 augustus 2007 zijn toegelaten tot het vierde leerjaar.   
-2.  In het schooljaar 2009–2010 wordt voor de laatste maal gelegenheid gegeven tot het afleggen van het eindexamen v.w.o. volgens de op 31 juli 2007 geldende bij of krachtens de Wet op het voortgezet onderwijs vastgestelde voorschriften, voor de leerlingen die voor 1 augustus 2007 zijn toegelaten tot het vierde leerjaar.   
-3.  In het jaar 2010 wordt voor de laatste maal gelegenheid gegeven tot het afleggen van het staatsexamen h.a.v.o. volgens de op 31 juli 2007 geldende bij of krachtens de Wet op het voortgezet onderwijs vastgestelde voorschriften.   
-4.  In het jaar 2011 wordt voor de laatste maal gelegenheid gegeven tot het afleggen van het staatsexamen v.w.o. volgens de op 31 juli 2007 geldende bij of krachtens de Wet op het voortgezet onderwijs vastgestelde voorschriften.   
-5.  Vrijstellingsbewijzen die op grond van de [artikelen 48, vijfde lid](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), en [54, eerste lid, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), en de [artikelen 25, derde en vierde lid](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md), en [32, eerste lid, van het Besluit staatsexamens vwo-havo-mavo 2000](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md), zoals luidend op 31 juli 2007, zijn afgegeven, worden gelijkgesteld met bewijzen van ontheffing, bedoeld in deze artikelen zoals luidend na inwerkingtreding van dit besluit.   
+1.  In het schooljaar 2008–2009 wordt voor de laatste maal gelegenheid gegeven tot het afleggen van het eindexamen h.a.v.o. volgens de op 31 juli 2007 geldende bij of krachtens de [Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) vastgestelde voorschriften, voor de leerlingen die voor 1 augustus 2007 zijn toegelaten tot het vierde leerjaar.   
+2.  In het schooljaar 2009–2010 wordt voor de laatste maal gelegenheid gegeven tot het afleggen van het eindexamen v.w.o. volgens de op 31 juli 2007 geldende bij of krachtens de [Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) vastgestelde voorschriften, voor de leerlingen die voor 1 augustus 2007 zijn toegelaten tot het vierde leerjaar.   
+3.  In het jaar 2010 wordt voor de laatste maal gelegenheid gegeven tot het afleggen van het staatsexamen h.a.v.o. volgens de op 31 juli 2007 geldende bij of krachtens de [Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) vastgestelde voorschriften.   
+4.  In het jaar 2011 wordt voor de laatste maal gelegenheid gegeven tot het afleggen van het staatsexamen v.w.o. volgens de op 31 juli 2007 geldende bij of krachtens de [Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) vastgestelde voorschriften.   
+5.  Vrijstellingsbewijzen die op grond van de [artikelen 48, vijfde lid](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), en [54, eerste lid, van het Eindexamenbesluit VO](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), en de [artikelen 25, derde en vierde lid](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md), en [32, eerste lid, van het Staatsexamenbesluit VO](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md), zoals luidend op 31 juli 2007, zijn afgegeven, worden gelijkgesteld met bewijzen van ontheffing, bedoeld in deze artikelen zoals luidend na inwerkingtreding van dit besluit.  
 
 ### Artikel  VI  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -59,10 +59,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 22 december 2006  
 Beatrix  
 
-De Minister van Onderwijs, Cultuur en Wetenschap, 
-M. J. A.van der Hoeven 
+De Minister van Onderwijs, Cultuur en Wetenschap , 
+M. J. A. van der Hoeven   
 
 de *drieëntwintigste* januari 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

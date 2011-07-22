@@ -90,6 +90,7 @@ b. een voorlopige conserverende aanslag niet wordt verrekend met een conserveren
 1.  Waar iemand woont en waar een lichaam gevestigd is, wordt naar de omstandigheden beoordeeld.   
 2.  Voor de toepassing van het eerste lid worden schepen en luchtvaartuigen welke in Nederland hun thuishaven hebben, ten opzichte van de bemanning als deel van Nederland beschouwd.   
 3.  Voor de toepassing van de wettelijke bepalingen ter uitvoering van Richtlijn nr. 2009/133/EG van de Raad van de Europese Unie van 19 oktober 2009 betreffende de gemeenschappelijke fiscale regeling voor fusies, splitsingen, gedeeltelijke splitsingen, inbreng van activa en aandelenruil met betrekking tot vennootschappen uit verschillende lidstaten en voor de verplaatsing van de statutaire zetel van een SE of een SCE van een lidstaat naar een andere lidstaat (PbEU L 310), de Richtlijn 90/435/EEG van de Raad van de Europese Gemeenschappen van 23 juli 1990 betreffende de gemeenschappelijke fiscale regeling voor moedermaatschappijen en dochterondernemingen uit verschillende Lid-Staten (*PbEG* L 225) of Richtlijn nr. 2003/49/EG van de Raad van de Europese Unie van 3 juni 2003 betreffende een gemeenschappelijke belastingregeling inzake uitkeringen van interest en royalty's tussen verbonden ondernemingen van verschillende lidstaten (Pb L 157) wordt, in afwijking in zoverre van het eerste lid en voor zover dat voortvloeit uit de genoemde Richtlijnen, een lichaam geacht te zijn gevestigd in een Lid-Staat van de Europese Gemeenschappen indien dat lichaam volgens de fiscale wetgeving van de Lid-Staat aldaar is gevestigd.   
+4.  Een instelling voor collectieve belegging in effecten als bedoeld in artikel 1 van Richtlijn nr. 2009/65/EU van het Europees Parlement en de Raad van de Europese Unie van 13 juli 2009 tot coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende instellingen voor collectieve belegging in effecten (PbEU L 302/32), wordt geacht te zijn gevestigd in de lidstaat of staat waarvan de bevoegde autoriteit de instelling overeenkomstig artikel 5 van die richtlijn heeft toegelaten.   
 
 ### Artikel  5  
 
@@ -381,11 +382,7 @@ b. met ingang van de dag na die van de voldoening of de inhouding onderscheidenl
 
 1.  In afwijking van [artikel 7:2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt de belanghebbende gehoord op zijn verzoek.   
 2.  Indien omstandigheden daartoe nopen, kan het horen geschieden in afwijking van [artikel 7:5 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-3.  Indien het bezwaar is gericht tegen een aanslag, een navorderingsaanslag, een naheffingsaanslag of een beschikking, met betrekking tot welke: 
-
-a. de vereiste aangifte niet is gedaan; of  
-
-b. niet volledig is voldaan aan de verplichtingen ingevolge de artikelen 41, 47, 47a, 49, 52, alsmede aan de verplichtingen ingevolge artikel 53, eerste, tweede en derde lid, voorzover het verplichtingen van administratieplichtigen betreft ten behoeve van de heffing van de belasting waarvan de inhouding aan hen is opgedragen,   wordt bij de uitspraak op het bezwaarschrift de belastingaanslag of de beschikking gehandhaafd, tenzij gebleken is dat en in hoeverre de belastingaanslag of de beschikking onjuist is. De vorige volzin vindt geen toepassing voor zover het bezwaar is gericht tegen een vergrijpboete.   
+3.  Indien het bezwaar is gericht tegen een aanslag, een navorderingsaanslag, een naheffingsaanslag of een beschikking, met betrekking tot welke de vereiste aangifte niet is gedaan of sprake is van een onherroepelijk geworden informatiebeschikking als bedoeld in artikel 52a, eerste lid, wordt bij de uitspraak op het bezwaarschrift de belastingaanslag of beschikking gehandhaafd, tenzij is gebleken dat en in hoeverre die belastingaanslag of beschikking onjuist is. De eerste volzin vindt geen toepassing voor zover het bezwaar is gericht tegen een vergrijpboete.   
 4.  Indien bezwaar is gemaakt tegen meer dan één belastingaanslag of voor bezwaar vatbare beschikking, kan de inspecteur de uitspraken vervatten in één geschrift.   
 
 ### Artikel  25a  
@@ -445,7 +442,8 @@ In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../../../
 
 ### Artikel  27  
 
-Voor de toepassing van [artikel 8:7, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) treden de rechtbanken te Leeuwarden, Arnhem, Haarlem, ’s-Gravenhage en Breda in de plaats van de andere rechtbanken in hun ressort.  
+1.  Voor de toepassing van [artikel 8:7, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) treden de rechtbanken te Leeuwarden, Arnhem, Haarlem, ’s-Gravenhage en Breda in de plaats van de andere rechtbanken in hun ressort.   
+2.  Indien een voortdurend gebrek aan voldoende zittingscapaciteit bij een van de in het eerste lid genoemde rechtbanken daartoe noodzaakt, kan bij algemene maatregel van bestuur voor de duur van ten hoogste twee jaar een andere dan de overeenkomstig het eerste lid bevoegde rechtbank worden aangewezen als bevoegde rechtbank voor zaken die behoren tot een bij die maatregel aangewezen categorie. Onder zittingscapaciteit wordt verstaan hetgeen daaronder wordt verstaan in [artikel 1, onder h, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md).   
 
 ### Artikel  27a  
 
@@ -472,11 +470,9 @@ In afwijking van [artikel 8:67, eerste lid, van de Algemene wet bestuursrecht](.
 
 ### Artikel  27e  
 
-Indien: 
-
-a. de vereiste aangifte niet is gedaan; of  
-
-b. niet volledig is voldaan aan de verplichtingen ingevolge de artikelen 41, 47, 47a, 49, 52, alsmede aan de verplichtingen ingevolge artikel 53, eerste, tweede en derde lid, voorzover het verplichtingen van administratieplichtigen betreft ten behoeve van de heffing van de belasting waarvan de inhouding aan hen is opgedragen;   verklaart de rechtbank het beroep ongegrond, tenzij is gebleken dat en in hoeverre de uitspraak op het bezwaar onjuist is. De vorige volzin vindt geen toepassing, voor zover het beroep is gericht tegen een vergrijpboete.  
+1.  Indien de vereiste aangifte niet is gedaan of sprake is van een onherroepelijk geworden informatiebeschikking als bedoeld in artikel 52a, eerste lid, verklaart de rechtbank het beroep ongegrond, tenzij is gebleken dat en in hoeverre de uitspraak op het bezwaar onjuist is.   
+2.  Indien de rechtbank het beroep tegen een in artikel 52a, eerste lid, bedoelde informatiebeschikking ongegrond verklaart, stelt de rechtbank een nieuwe termijn voor het voldoen aan de in die beschikking bedoelde verplichtingen, in situaties waarin daar nog gevolg aan kan worden gegeven, tenzij sprake is van kennelijk onredelijk gebruik van procesrecht.   
+3.  Dit artikel vindt geen toepassing voor zover het beroep is gericht tegen een vergrijpboete.   
 
 ### Artikel  27f  
 
@@ -934,6 +930,14 @@ d. natuurlijke personen die een werkzaamheid als bedoeld in de [artikelen 3.91](
 4.  Voorzover bij of krachtens de belastingwet niet anders is bepaald, zijn administratieplichtigen verplicht de in de voorgaande leden bedoelde gegevensdragers gedurende zeven jaar te bewaren.   
 5.  De op een gegevensdrager aangebrachte gegevens, uitgezonderd de op papier gestelde balans en staat van baten en lasten, kunnen op een andere gegevensdrager worden overgebracht en bewaard, mits de overbrenging geschiedt met juiste en volledige weergave der gegevens en deze gegevens gedurende de volledige bewaartijd beschikbaar zijn en binnen redelijke tijd leesbaar kunnen worden gemaakt.   
 6.  De administratie dient zodanig te zijn ingericht en te worden gevoerd en de gegevensdragers dienen zodanig te worden bewaard, dat controle daarvan door de inspecteur binnen een redelijke termijn mogelijk is. Daartoe verleent de administratieplichtige de benodigde medewerking met inbegrip van het verschaffen van het benodigde inzicht in de opzet en de werking van de administratie.   
+7.  Ingeval een administratieplichtige een door de inspecteur op het eerste lid gebaseerde verplichting is nagekomen maar van oordeel is dat de verplichting onrechtmatig is opgelegd, kan hij verzoeken om vergoeding van kosten die rechtstreeks verband houden met deze nakoming. De inspecteur beslist op dat verzoek bij voor bezwaar vatbare beschikking en kent een redelijke kostenvergoeding toe in geval van een onrechtmatig opgelegde verplichting.   
+
+### Artikel  52a  
+
+1.  Indien met betrekking tot een op te leggen aanslag, navorderingsaanslag of naheffingsaanslag of een te nemen beschikking niet of niet volledig wordt voldaan aan de verplichtingen ingevolge artikel 41, 47, 47a, 49, 52, en, voor zover het verplichtingen van administratieplichtigen betreft ten behoeve van de heffing van de belasting waarvan de inhouding aan hen is opgedragen, aan de verplichtingen ingevolge artikel 53, eerste, tweede en derde lid, kan de inspecteur dit vaststellen bij voor bezwaar vatbare beschikking (informatiebeschikking). De inspecteur wijst in de informatiebeschikking op artikel 25, derde lid.   
+2.  De termijn voor de vaststelling van een aanslag, navorderingsaanslag of naheffingsaanslag of het nemen van een beschikking wordt verlengd met de periode tussen de bekendmaking van de met betrekking tot die belastingaanslag of beschikking genomen informatiebeschikking waarin wordt vastgesteld dat de belastingplichtige niet of niet volledig aan zijn verplichtingen heeft voldaan en het moment waarop deze informatiebeschikking onherroepelijk komt vast te staan of wordt vernietigd.   
+3.  Indien de inspecteur een aanslag, navorderingsaanslag of naheffingsaanslag vaststelt of een beschikking neemt voordat de met betrekking tot die belastingaanslag of beschikking genomen informatiebeschikking onherroepelijk is geworden, vervalt de informatiebeschikking.   
+4.  Dit artikel laat onverlet de mogelijkheid voor de inspecteur om een procedure aanhangig te maken bij de burgerlijke rechter strekkende tot een veroordeling tot nakoming van de verplichtingen voortvloeiende uit deze wet op straffe van een dwangsom.   
 
 ### Artikel  53  
 
@@ -945,6 +949,7 @@ b. de heffing van de belasting waarvan de inhouding aan hen is opgedragen.
 2.  Onverminderd de verplichtingen, bedoeld in het eerste lid, zijn de bij of krachtens de belastingwet aan te wijzen administratieplichtigen gehouden de bij of krachtens de belastingwet aan te wijzen gegevens en inlichtingen waarvan de kennisneming voor de heffing van de belasting van belang kan zijn eigener beweging te verstrekken aan de inspecteur volgens bij of krachtens de belastingwet te stellen regels.   
 3.  De administratieplichtigen, bedoeld in het tweede lid, zijn gehouden bij de gegevens en inlichtingen, bedoeld in het tweede lid, het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer te vermelden van degene op wie de gegevens en inlichtingen betrekking hebben.   
 4.  Het bepaalde in het eerste lid, aanhef en onderdeel *a*, is niet van toepassing op de personen en de lichamen als bedoeld in artikel 55, voor zover het de in dat artikel bedoelde gegevens en inlichtingen betreft.   
+5.  Ingeval een administratieplichtige een door de inspecteur op het eerste lid, aanhef en onderdeel a, gebaseerde verplichting is nagekomen maar van oordeel is dat de verplichting onrechtmatig is opgelegd, kan hij verzoeken om vergoeding van kosten die rechtstreeks verband houden met deze nakoming. De inspecteur beslist op dat verzoek bij voor bezwaar vatbare beschikking en kent een redelijke kostenvergoeding toe in geval van een onrechtmatig opgelegde verplichting.   
 
 ### Artikel  53a  
 
@@ -1226,21 +1231,21 @@ Ter zake van bij de belastingwet strafbaar gestelde feiten vindt [artikel 36 *e*
 
 ### Artikel  76  
 
-1.  Ten aanzien van bij de belastingwet strafbaar gestelde feiten gelden in plaats van de [artikelen 74](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [74 *a* van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) de volgende bepalingen.   
-2.  Ten aanzien van feiten, met betrekking tot welke het proces-verbaal niet overeenkomstig artikel 80, tweede lid, in handen van de officier van justitie is gesteld, vervalt het recht tot strafvordering door vrijwillige voldoening aan de voorwaarden welke het bestuur van ’s Rijks belastingen ter voorkoming van de strafvervolging mocht hebben gesteld.   
-3.  Als voorwaarden kunnen worden gesteld: 
+1.  Ten aanzien van de bij de belastingwet strafbaar gestelde feiten met betrekking tot welke het proces-verbaal niet overeenkomstig artikel 80, tweede lid, in handen van de officier van justitie is gesteld, kan, in afwijking van de [artikelen 257a](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [257b](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [257ba van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), uitsluitend het bestuur van ’s Rijks belastingen een strafbeschikking uitvaardigen. Bij ministeriële regeling kunnen functionarissen worden aangewezen die deze bevoegdheid namens dat bestuur kunnen uitoefenen.   
+2.  In deze strafbeschikking kan een geldboete worden opgelegd. Voorts kan deze strafbeschikking aanwijzingen bevatten waaraan de verdachte moet voldoen. De aanwijzingen kunnen inhouden: 
 
-a. betaling aan de Staat van een geldsom, te bepalen op ten minste € 3 en ten hoogste het maximum van de geldboete die voor het feit kan worden opgelegd;  
+a. afstand van voorwerpen die in beslag zijn genomen en vatbaar zijn voor verbeurdverklaring of onttrekking aan het verkeer;  
 
-b. afstand van voorwerpen die in beslag zijn genomen en vatbaar zijn voor verbeurdverklaring of onttrekking aan het verkeer;  
+b. uitlevering, of voldoening aan de staat van de geschatte waarde, van voorwerpen die vatbaar zijn voor verbeurdverklaring;  
 
-c. uitlevering, of voldoening aan de Staat van de geschatte waarde, van voorwerpen die vatbaar zijn voor verbeurdverklaring;  
+c. voldoening aan de Staat van een geldbedrag gelijk aan of lager dan het geschatte voordeel – met inbegrip van besparing van kosten – door de verdachte verkregen door middel van of uit het strafbare feit;  
 
-d. voldoening aan de Staat van een geldbedrag gelijk aan of lager dan het geschatte voordeel - met inbegrip van besparing van kosten - door de verdachte verkregen door middel van of uit het strafbare feit;  
-
-e. het alsnog voldoen aan een bij de belastingwet gestelde verplichting;     
-4.  Het bestuur van ’s Rijks belastingen bepaalt telkens de termijn binnen welke aan de gestelde voorwaarden moet zijn voldaan en zo nodig tevens de plaats waar zulks moet geschieden. De gestelde termijn kan vóór de afloop daarvan éénmaal worden verlengd.   
-5.  [Artikel 552ab van het Wetboek van Strafvordering is v](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) an overeenkomstige toepassing.   
+d. het alsnog voldoen aan een bij de belastingwet gestelde verplichting.     
+3.  Een strafbeschikking waarin een geldboete wordt opgelegd van meer dan € 2 000, wordt, in afwijking van [artikel 257c, tweede lid, van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), slechts uitgevaardigd indien de verdachte daaraan voorafgaand is gehoord.   
+4.  Een geldboete wordt, in zoverre in afwijking van [artikel 257g van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), ingevorderd op de wijze, voorzien in de [Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md). Daartoe wordt een afschrift van de strafbeschikking aan de ontvanger ter hand gesteld. Het bestuur van ’s Rijks belastingen of de aangewezen functionaris bepaalt voorts de termijn binnen welke aan de gegeven aanwijzingen moet zijn voldaan en zo nodig tevens de plaats waar zulks moet geschieden. De gestelde termijn kan voor de afloop daarvan eenmaal worden verlengd.   
+5.  In afwijking van [artikel 257h, tweede lid, van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) verstrekt het bestuur van ’s Rijks belastingen desgevraagd een afschrift van een strafbeschikking aan ieder ander dan de verdachte of zijn raadsman, tenzij verstrekking naar het oordeel van het bestuur ter bescherming van de belangen van degene ten aanzien van wie de strafbeschikking is uitgevaardigd of van de derden die in de strafbeschikking worden genoemd, geheel of gedeeltelijk dient te worden geweigerd. In het laatste geval kan het bestuur van ’s Rijks belastingen een geanonimiseerd afschrift van de strafbeschikking verstrekken.   
+6.  Indien binnen veertien dagen geen afschrift dan wel een geanonimiseerd afschrift wordt verstrekt, kan de verzoeker een klaagschrift indienen bij het bestuur van ’s Rijks belastingen. Deze stelt het klaagschrift, de strafbeschikking en het proces-verbaal in handen van de officier van justitie, welke het klaagschrift en de processtukken onverwijld ter kennis brengt van de rechtbank, tenzij hij alsnog aan het verzoek tegemoetkomt. De procesdeelnemers zijn, in afwijking van [artikel 23, vierde lid, van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) niet bevoegd van de inhoud van de processtukken kennis te nemen dan voorzover de rechtbank zulks toestaat.   
+7.  [Artikel 552ab van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
 
 ### Afdeling  2A  
 
@@ -1267,7 +1272,7 @@ Ten aanzien van bij de belastingwet strafbaar gestelde feiten worden lichamen vo
 ### Artikel  80  
 
 1.  Met het opsporen van bij de belastingwet strafbaar gestelde feiten zijn, behalve de in [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde personen, de ambtenaren van de rijksbelastingdienst belast.   
-2.  In afwijking van de [artikelen 155](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [156](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [157 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) worden alle processen-verbaal betreffende bij de belastingwet strafbaar gestelde feiten ingezonden bij het bestuur van ’s Rijks belastingen. Het bestuur doet de processen-verbaal betreffende strafbare feiten, ter zake waarvan inverzekeringstelling of voorlopige hechtenis is toegepast dan wel een woning tegen de wil van de bewoner is binnengetreden, met de inbeslaggenomen voorwerpen onverwijld toekomen aan de bevoegde officier van justitie. De overige processen-verbaal doet het bestuur, met de inbeslaggenomen voorwerpen, toekomen aan de officier van justitie, indien het een vervolging wenselijk acht.   
+2.  In afwijking van de [artikelen 155](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [156](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [157 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) worden alle processen-verbaal betreffende bij de belastingwet strafbaar gestelde feiten ingezonden bij het bestuur van ’s Rijks belastingen. Het bestuur doet de processen-verbaal betreffende strafbare feiten, ter zake waarvan inverzekeringstelling of voorlopige hechtenis is toegepast dan wel een woning tegen de wil van de bewoner is binnengetreden, met de inbeslaggenomen voorwerpen onverwijld toekomen aan de bevoegde officier van justitie. De overige processen-verbaal doet het bestuur, met de inbeslaggenomen voorwerpen, toekomen aan de officier van justitie, indien het een vervolging of verdere vervolging door deze wenselijk acht.   
 3.  De officier van justitie is bevoegd, de zaak ter afdoening weder in handen van het bestuur van ’s Rijks belastingen te stellen, hetwelk daarmede alsdan kan handelen overeenkomstig artikel 76.   
 4.  Het bepaalde in [artikel 148, tweede lid, van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) vindt geen toepassing in zaken, waarin het bestuur van ’s Rijks belastingen het proces-verbaal niet aan de officier van justitie heeft doen toekomen.   
 

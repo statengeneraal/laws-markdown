@@ -12,36 +12,36 @@ Besluit:
 
 ####Berekening en correctie indicatoren; normering resultaten
 
-De berekening van de in [artikel 37, eerste lid, van het Inrichtingsbesluit W.V.O.](../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md) bedoelde indicatoren, daaronder mede begrepen de correcties, bedoeld in het zevende en achtste lid van dat artikel, alsmede de normering waarop de inspectie het oordeel voldoende dan wel onvoldoende resultaat baseert, geschieden volgens het bepaalde in bijlage A.  
+De berekening van de in [artikel 37, eerste lid, van het Inrichtingsbesluit W.V.O.](../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md) bedoelde indicatoren, daaronder mede begrepen de correcties, bedoeld in het zevende en achtste lid van dat artikel, alsmede de normering waarop de inspectie het oordeel voldoende dan wel onvoldoende resultaat baseert, geschieden volgens het bepaalde in bijlage A. 
 
 ### Artikel  2  
 
 ####Wijze totstandkoming oordeel leerresultaten
 
-Het oordeel over de leerresultaten van de afdeling komt tot stand op de wijze als vastgesteld in bijlage B.  
+Het oordeel over de leerresultaten van de afdeling komt tot stand op de wijze als vastgesteld in bijlage B. 
 
 ### Artikel  3  
 
 ####Benodigde gegevens; meting onmogelijk of gegevens incompleet
 
-De aard en de aantallen benodigde gegevens, bedoeld in [artikel 37a, onderdeel a, van het Inrichtingsbesluit W.V.O.](../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md), evenals de voorschriften voor het aanvullend onderzoek van de inspectie, bedoeld in [artikel 37c van het Inrichtingsbesluit W.V.O.](../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md), volgen uit het bepaalde in bijlage C.  
+De aard en de aantallen benodigde gegevens, bedoeld in [artikel 37a, onderdeel a, van het Inrichtingsbesluit W.V.O.](../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md), evenals de voorschriften voor het aanvullend onderzoek van de inspectie, bedoeld in [artikel 37c van het Inrichtingsbesluit W.V.O.](../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md), volgen uit het bepaalde in bijlage C. 
 
 ### Artikel  4  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 augustus 2010.  
+Deze regeling treedt in werking met ingang van 1 augustus 2010. 
 
 ### Artikel  5  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling leerresultaten VO.  
+Deze regeling wordt aangehaald als: Regeling leerresultaten VO. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
-J.M. vanBijsterveldt-Vliegenthart  
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
+J.M. van Bijsterveldt-Vliegenthart    
 
 ### Bijlage  A  
 
@@ -53,11 +53,11 @@ J.M. vanBijsterveldt-Vliegenthart
 
 ####Berekening van de indicator
 
-Het onderbouwrendement wordt berekend door van elke leerling het verschil te nemen tussen de verwachte onderwijspositie op basis van het basisschooladvies, en de bereikte positie in het derde jaar. Daarbij wordt meegerekend of de leerling is blijven zitten en geldt als regel dat één jaar zittenblijven gelijk staat aan daling van één schoolsoort van de vijf onderscheiden schoolsoorten vmbo-basis, vmbo-kader, vmbo-gemengde of theoretische leerweg, havo en vwo. Aan elke schoolsoort wordt een scorepositie toegekend, die met gelijke afstanden omhoog loopt van vmbo-basis tot en met vwo.  
+Het onderbouwrendement wordt berekend door van elke leerling het verschil te nemen tussen de verwachte onderwijspositie op basis van het basisschooladvies, en de bereikte positie in het derde jaar. Daarbij wordt meegerekend of de leerling is blijven zitten en geldt als regel dat één jaar zittenblijven gelijk staat aan daling van één schoolsoort van de vijf onderscheiden schoolsoorten vmbo-basis, vmbo-kader, vmbo-gemengde of theoretische leerweg, havo en vwo. Aan elke schoolsoort wordt een scorepositie toegekend, die met gelijke afstanden omhoog loopt van vmbo-basis tot en met vwo. 
 
 ####Correctie onderbouwrendement
 
-Indien de leerling is geïndiceerd voor leerwegondersteuning geldt dat indien de leerling gemiddeld een kwartjaar langer dan twee jaar over de onderbouw doet, een vergelijkbare prestatie is verricht aan de situatie waarin de leerling zonder indicatie voor leerwegondersteuning er twee jaar over doet.  
+Indien de leerling is geïndiceerd voor leerwegondersteuning geldt dat indien de leerling gemiddeld een kwartjaar langer dan twee jaar over de onderbouw doet, een vergelijkbare prestatie is verricht aan de situatie waarin de leerling zonder indicatie voor leerwegondersteuning er twee jaar over doet. 
 
 ####Normering score onderbouwrendement
 
@@ -85,7 +85,7 @@ De op basis van deze uitgangspunten berekende score wordt met andere scholen ver
 
 * Percentiel 75–90: score 4  
 
-* Percentiel 90–100: score 5   De scores 1 en 2 gelden als onvoldoende.  
+* Percentiel 90–100: score 5   De scores 1 en 2 gelden als onvoldoende. 
 
 ### 2  
 
@@ -93,11 +93,11 @@ De op basis van deze uitgangspunten berekende score wordt met andere scholen ver
 
 ####Berekening van de indicator
 
-Bij de indicator bovenbouwrendement gaat het om het aantal leerlingen dat onvertraagd vanaf het derde jaar zonder af te stromen het diploma haalt. Op basis van de in-, door- en uitstroomgegevens wordt per leerjaar het percentage leerlingen berekend dat aan het eind van het schooljaar is bevorderd. Daarbij wordt een leerling aangemerkt als te zijn bevorderd, indien deze aan het eind van het schooljaar is overgegaan naar het volgende leerjaar van dezelfde of een hogere opleiding. Voorts is op basis van de examengegevens ook het percentage geslaagde leerlingen berekend. In het vmbo zijn dus twee percentages berekend, namelijk het percentage bevorderd van leerjaar drie naar leerjaar vier en het percentage geslaagd. In het havo is één percentage meer berekend, namelijk het percentage bevorderd van leerjaar vier naar leerjaar vijf en in het vwo komt daar het percentage bevorderd van leerjaar vijf naar leerjaar zes bij. Deze percentages zijn per schoolsoort gemiddeld en vervolgens is dit gemiddelde percentage net zo vaak met zichzelf vermenigvuldigd als er overgangen zijn, dus bij vmbo twee keer, bij havo drie keer en bij vwo vier keer. Dit neutraliseert toevallige uitschieters in de bevorderingspercentages bij de berekening van het bovenbouwrendement.  
+Bij de indicator bovenbouwrendement gaat het om het aantal leerlingen dat onvertraagd vanaf het derde jaar zonder af te stromen het diploma haalt. Op basis van de in-, door- en uitstroomgegevens wordt per leerjaar het percentage leerlingen berekend dat aan het eind van het schooljaar is bevorderd. Daarbij wordt een leerling aangemerkt als te zijn bevorderd, indien deze aan het eind van het schooljaar is overgegaan naar het volgende leerjaar van dezelfde of een hogere opleiding. Voorts is op basis van de examengegevens ook het percentage geslaagde leerlingen berekend. In het vmbo zijn dus twee percentages berekend, namelijk het percentage bevorderd van leerjaar drie naar leerjaar vier en het percentage geslaagd. In het havo is één percentage meer berekend, namelijk het percentage bevorderd van leerjaar vier naar leerjaar vijf en in het vwo komt daar het percentage bevorderd van leerjaar vijf naar leerjaar zes bij. Deze percentages zijn per schoolsoort gemiddeld en vervolgens is dit gemiddelde percentage net zo vaak met zichzelf vermenigvuldigd als er overgangen zijn, dus bij vmbo twee keer, bij havo drie keer en bij vwo vier keer. Dit neutraliseert toevallige uitschieters in de bevorderingspercentages bij de berekening van het bovenbouwrendement. 
 
 ####Correctie bovenbouwrendement
 
-De indicator wordt gecorrigeerd voor het percentage lwoo-leerlingen (voor de leerwegen in het vmbo), het percentage leerlingen dat in leerjaar 3 is ingestroomd vanuit een andere school en het percentage leerlingen uit armoedeprobleemcumulatiegebied (apcg). Op basis van deze gegevens is door middel van een regressievergelijking berekend wat van de betreffende afdeling verwacht mag worden en is het verschil tussen de verwachting en de werkelijke waarde bepaald. Dit verschil is de score die dient als schatting van het bovenbouwrendement.  
+De indicator wordt gecorrigeerd voor het percentage lwoo-leerlingen (voor de leerwegen in het vmbo), het percentage leerlingen dat in leerjaar 3 is ingestroomd vanuit een andere school en het percentage leerlingen uit armoedeprobleemcumulatiegebied (apcg). Op basis van deze gegevens is door middel van een regressievergelijking berekend wat van de betreffende afdeling verwacht mag worden en is het verschil tussen de verwachting en de werkelijke waarde bepaald. Dit verschil is de score die dient als schatting van het bovenbouwrendement. 
 
 ####Normering score bovenbouwrendement
 
@@ -111,7 +111,7 @@ De scores worden gerangschikt en er worden percentielscores bepaald. De normerin
 
 * Percentiel 75–90: score 4  
 
-* Percentiel 90–100: score 5   De scores 1 en 2 gelden als onvoldoende.  
+* Percentiel 90–100: score 5   De scores 1 en 2 gelden als onvoldoende. 
 
 ### 3  
 
@@ -119,11 +119,11 @@ De scores worden gerangschikt en er worden percentielscores bepaald. De normerin
 
 ####Berekening van de indicator
 
-Van de betreffende schoolafdeling wordt het gemiddelde centraal examencijfer van alle algemeen vormende vakken over alle leerlingen berekend.  
+Van de betreffende schoolafdeling wordt het gemiddelde centraal examencijfer van alle algemeen vormende vakken over alle leerlingen berekend. 
 
 ####Correctie centraal examencijfer alle vakken
 
-De indicator wordt gecorrigeerd voor het percentage lwoo-leerlingen (voor de leerwegen in het vmbo), het percentage leerlingen dat in leerjaar 3 is ingestroomd vanuit een andere school en het percentage leerlingen uit armoedeprobleemcumulatiegebied (apcg). Op basis van deze gegevens is door middel van een regressievergelijking berekend wat van de betreffende afdeling verwacht mag worden en is het verschil tussen de verwachting en de werkelijke waarde bepaald. Dit is de uiteindelijke score waar de normering op wordt toegepast.  
+De indicator wordt gecorrigeerd voor het percentage lwoo-leerlingen (voor de leerwegen in het vmbo), het percentage leerlingen dat in leerjaar 3 is ingestroomd vanuit een andere school en het percentage leerlingen uit armoedeprobleemcumulatiegebied (apcg). Op basis van deze gegevens is door middel van een regressievergelijking berekend wat van de betreffende afdeling verwacht mag worden en is het verschil tussen de verwachting en de werkelijke waarde bepaald. Dit is de uiteindelijke score waar de normering op wordt toegepast. 
 
 ####Normering score centraal examencijfer alle vakken
 
@@ -137,7 +137,7 @@ De scores worden gerangschikt en er worden percentielscores bepaald. De normerin
 
 * Percentiel 75–90: score 4  
 
-* Percentiel 90–100: score 5   De scores 1 en 2 gelden als onvoldoende.  
+* Percentiel 90–100: score 5   De scores 1 en 2 gelden als onvoldoende. 
 
 ### 4  
 
@@ -145,15 +145,15 @@ De scores worden gerangschikt en er worden percentielscores bepaald. De normerin
 
 ####Berekening van de indicator
 
-Van de betreffende schoolafdeling wordt – gesommeerd over alle leerlingen en alle vakken waarvan een schoolexamen en een centraal examen is – de gemiddelde verschilscore berekend. Dit wordt gedaan voor de drie meest recente jaren waarvoor gegevens beschikbaar zijn. Bij het bepalen van het gemiddelde over drie jaar wordt gewogen voor het aantal en de spreiding van de scores van elk van de afzonderlijke jaren. Hoe groter het aantal en hoe kleiner de spreiding, des te zwaarder weegt de score mee bij het bepalen van het gemiddelde.  
+Van de betreffende schoolafdeling wordt – gesommeerd over alle leerlingen en alle vakken waarvan een schoolexamen en een centraal examen is – de gemiddelde verschilscore berekend. Dit wordt gedaan voor de drie meest recente jaren waarvoor gegevens beschikbaar zijn. Bij het bepalen van het gemiddelde over drie jaar wordt gewogen voor het aantal en de spreiding van de scores van elk van de afzonderlijke jaren. Hoe groter het aantal en hoe kleiner de spreiding, des te zwaarder weegt de score mee bij het bepalen van het gemiddelde. 
 
 ####Correctie verschil tussen het schoolexamen en het centraal examen
 
-Geen  
+Geen 
 
 ####Normering verschil tussen het schoolexamen en het centraal examen
 
-Voor deze indicator geldt een absolute normering. Een afdeling krijgt het oordeel ‘groot verschil’ als het schoolexamencijfer over drie jaar gemiddeld meer dan een half punt hoger is dan het centraal examencijfer en het oordeel ‘zeer groot verschil’ als het schoolexamencijfer meer dan één punt hoger is dan het CE-cijfer. Is het verschil kleiner dan een halve punt of scoort het schoolexamen gemiddeld lager dan het centraal examen dan is het oordeel: ‘gering verschil’. De oordelen ‘groot verschil’ en ‘zeer groot verschil’ worden als onvoldoende beschouwd.  
+Voor deze indicator geldt een absolute normering. Een afdeling krijgt het oordeel ‘groot verschil’ als het schoolexamencijfer over drie jaar gemiddeld meer dan een half punt hoger is dan het centraal examencijfer en het oordeel ‘zeer groot verschil’ als het schoolexamencijfer meer dan één punt hoger is dan het CE-cijfer. Is het verschil kleiner dan een halve punt of scoort het schoolexamen gemiddeld lager dan het centraal examen dan is het oordeel: ‘gering verschil’. De oordelen ‘groot verschil’ en ‘zeer groot verschil’ worden als onvoldoende beschouwd. 
 
 ### Bijlage  B  
 
@@ -163,11 +163,11 @@ Het oordeel van de Inspectie van het Onderwijs over de leerresultaten van de sch
 
 ####Beoordeling onderwijsopbrengsten op basis van de indicatoren gecombineerd
 
-De afzonderlijke jaarlijkse waarderingen voor de opbrengsten op de opbrengstenkaarten samen met het verschil tussen het schoolexamen en het centraal examen leiden tot een oordeel over de onderwijsopbrengsten voor elke afdeling van een school (vmbo-basis, vmbo-kader, vmbo-gemengd/theoretische leerweg, havo en vwo).  
+De afzonderlijke jaarlijkse waarderingen voor de opbrengsten op de opbrengstenkaarten samen met het verschil tussen het schoolexamen en het centraal examen leiden tot een oordeel over de onderwijsopbrengsten voor elke afdeling van een school (vmbo-basis, vmbo-kader, vmbo-gemengd/theoretische leerweg, havo en vwo). 
 
 ####Driejaarsscores op de indicatoren
 
-Als basis voor de oordelen worden de beoordelingen op de indicatoren centraal examen, bovenbouwrendement en onderbouwrendement van de laatste drie jaar plus het laatste oordeel voor het verschil schoolexamen centraal examen genomen. Bij de drie eerstgenoemde indicatoren wordt een gemiddelde berekend over de drie jaren. Hiertoe worden de scores, die kunnen lopen van 1 tot en met 5, gemiddeld. Voor het berekenen van het gemiddelde is als criterium gesteld dat ten minste van twee van de drie jaren gegevens aanwezig moeten zijn waaronder het meest recente jaar. Normering: Een oordeel over drie jaren is onvoldoende als het gemiddelde 2,0 of minder is. Voor het verschil tussen het schoolexamen en het centraal examen wordt de berekende score gebruikt, omdat die al is gebaseerd op de gegevens van drie jaren.  
+Als basis voor de oordelen worden de beoordelingen op de indicatoren centraal examen, bovenbouwrendement en onderbouwrendement van de laatste drie jaar plus het laatste oordeel voor het verschil schoolexamen centraal examen genomen. Bij de drie eerstgenoemde indicatoren wordt een gemiddelde berekend over de drie jaren. Hiertoe worden de scores, die kunnen lopen van 1 tot en met 5, gemiddeld. Voor het berekenen van het gemiddelde is als criterium gesteld dat ten minste van twee van de drie jaren gegevens aanwezig moeten zijn waaronder het meest recente jaar. Normering: Een oordeel over drie jaren is onvoldoende als het gemiddelde 2,0 of minder is. Voor het verschil tussen het schoolexamen en het centraal examen wordt de berekende score gebruikt, omdat die al is gebaseerd op de gegevens van drie jaren. 
 
 ####Beoordeling per afdeling
 
@@ -225,7 +225,7 @@ Het opbrengstenoordeel is gebaseerd op vier indicatoren waarbij van elk de gemid
 
 * Het oordeel kan ook worden bepaald op basis van drie indicatoren als de ontbrekende indicator het rendement onderbouw is.  
 
-* Indien het gemiddelde niet over drie jaar maar wel over twee jaar bepaald kan worden dan moet in ieder geval het laatste jaar aanwezig zijn.   In alle andere gevallen kan het opbrengstenoordeel op deze wijze niet bepaald worden.  
+* Indien het gemiddelde niet over drie jaar maar wel over twee jaar bepaald kan worden dan moet in ieder geval het laatste jaar aanwezig zijn.   In alle andere gevallen kan het opbrengstenoordeel op deze wijze niet bepaald worden. 
 
 ####Aanvullend onderzoek
 
@@ -235,5 +235,5 @@ In enkele bijzondere situaties zijn er onvoldoende gegevens om de opbrengsten vo
 
 * Het verstrekken door de school van nadere gegevens over de resultaten en de doorstroom van de leerlingen.  
 
-* Verificatieonderzoek naar de gegevens en beoordeling van de gegevens door de inspecteur.   De school moet bij die gegevens verantwoorden waarom de gegevens voor deze groep leerlingen voldoende zijn. Dat kan gebeuren door te verwijzen naar referentiegegevens voor vergelijkbare leerlinggroepen, het gebruik van genormeerde toetsen of door expertoordelen. Bij het aanvullend onderzoek gelden verder de gebruikelijke procedures van hoor en wederhoor van het inspectieonderzoek.  
+* Verificatieonderzoek naar de gegevens en beoordeling van de gegevens door de inspecteur.   De school moet bij die gegevens verantwoorden waarom de gegevens voor deze groep leerlingen voldoende zijn. Dat kan gebeuren door te verwijzen naar referentiegegevens voor vergelijkbare leerlinggroepen, het gebruik van genormeerde toetsen of door expertoordelen. Bij het aanvullend onderzoek gelden verder de gebruikelijke procedures van hoor en wederhoor van het inspectieonderzoek. 
 

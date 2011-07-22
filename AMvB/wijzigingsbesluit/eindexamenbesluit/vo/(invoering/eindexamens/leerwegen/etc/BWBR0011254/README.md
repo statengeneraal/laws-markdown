@@ -17,31 +17,31 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-####Wijziging [Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)
+####Wijziging [Eindexamenbesluit VO](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) 
 
-Wijzigt het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.   
+Wijzigt het Eindexamenbesluit VO.  
 
 ### Artikel  II  
 
-####Wijziging [Inrichtingsbesluit W.V.O.](../../../../../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md)
+####Wijziging [Inrichtingsbesluit WVO](../../../../../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md) 
 
-Wijzigt het Inrichtingsbesluit W.V.O.   
+Wijzigt het Inrichtingsbesluit WVO.  
 
 ### Artikel  III  
 
 ####Inwerkingtreding
 
 1.  Dit besluit treedt, onverminderd het tweede lid, in werking op een bij koninklijk besluit te bepalen tijdstip. Het koninklijk besluit wordt niet genomen voordat vier weken zijn verstreken nadat het onderhavige besluit is overgelegd aan beide kamers der Staten-Generaal en gedurende die termijn niet door of namens een van beide kamers de wens wordt te kennen gegeven dat het in dit besluit geregelde onderwerp bij de wet wordt geregeld.   
-2.  Het [Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) zoals gewijzigd door artikel I van dit besluit, vindt toepassing met ingang van een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
+2.  Het [Eindexamenbesluit VO](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) zoals gewijzigd door artikel I van dit besluit, vindt toepassing met ingang van een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 24 maart 2000  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, 
-K. Y. I. J. Adelmund   
+K. Y. I. J. Adelmund    
 
 De Minister van Landbouw, Natuurbeheer en Visserij, 
 L. J. Brinkhorst   
@@ -49,4 +49,4 @@ L. J. Brinkhorst
 de *achttiende* april 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     
