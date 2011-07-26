@@ -2,11 +2,11 @@
 
 ##Aanhangsel XIII: Internationale Financierings Maatschappij bij het Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties
 
-####ANNEX XIII International Finance Corporation
+#### ANNEX XIII International Finance Corporation
 
 In its application to the International Finance Corporation (hereinafter called “the Corporation”) the Convention (including this annex) shall operate subject to the following provisions: 
 
-1. The following shall be substituted for Section 4: “Actions may be brought against the Corporation only in a court of competent jurisdiction in the territories of a member in which the Corporation has an office, has appointed an agent for the purpose of accepting service or notice of process, or has issued or guaranteed securities. No actions shall, however, be brought by members or persons acting for or deriving claims from members. The property and assets of the Corporation shall, wheresoever located and by whomsoever held, be immune from all forms of seizure, attachment or execution before the delivery of final judgment against the Corporation.”  
+1. The following shall be substituted for Section 4:“Actions may be brought against the Corporation only in a court of competent jurisdiction in the territories of a member in which the Corporation has an office, has appointed an agent for the purpose of accepting service or notice of process, or has issued or guaranteed securities. No actions shall, however, be brought by members or persons acting for or deriving claims from members. The property and assets of the Corporation shall, wheresoever located and by whomsoever held, be immune from all forms of seizure, attachment or execution before the delivery of final judgment against the Corporation.” 
 
 2. Paragraph *(b)* of Section 7 of the standard clauses shall apply to the Corporation subject to Article III, Section 5 of the Articles of Agreement of the Corporation.  
 
