@@ -283,7 +283,7 @@ b. houdt het bevoegd gezag bij die beslissing in ieder geval rekening met:
 
 3°. de voor de onderdelen van het milieu, waarvoor de inrichting of het mijnbouwwerk gevolgen kan hebben, geldende richtwaarden, voor zover de verplichting tot het rekening houden daarmee is vastgelegd krachtens of overeenkomstig [artikel 5.2](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of  [5.17 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);    
 
-c. en neemt het bevoegd gezag bij die beslissing in ieder geval in acht: 
+c. neemt het bevoegd gezag bij die beslissing in ieder geval in acht: 
 
 1°. dat in de inrichting of het mijnbouwwerk ten minste de voor de inrichting of het mijnbouwwerk in aanmerking komende beste beschikbare technieken moeten worden toegepast;  
 
@@ -293,7 +293,9 @@ c. en neemt het bevoegd gezag bij die beslissing in ieder geval in acht:
 
 4°. de aanwijzingen die met betrekking tot de beslissing op de aanvraag krachtens artikel 2.34 door Onze Minister zijn gegeven;  
 
-5°. de onderdelen van het advies, bedoeld in artikel 2.26, tweede lid, ten aanzien waarvan in het advies is aangegeven dat daaraan moet worden voldaan, voor zover daardoor geen strijd ontstaat met het bepaalde in de andere onderdelen van dit lid of het tweede lid, of het bepaalde bij of krachtens artikel 2.22.       
+5°. de onderdelen van het advies, bedoeld in artikel 2.26, tweede lid, ten aanzien waarvan in het advies is aangegeven dat daaraan moet worden voldaan, voor zover daardoor geen strijd ontstaat met het bepaalde in de andere onderdelen van dit lid of het tweede lid, of het bepaalde bij of krachtens artikel 2.22;    
+
+d. en betrekt het bevoegd gezag bij die beslissing de bij een algemene maatregel van bestuur als bedoeld in [artikel 5.1 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) ter uitvoering van een EU-richtlijn of EU-verordening gestelde milieukwaliteitseisen op de bij die maatregel aangegeven wijze, voor zover de verplichting daartoe krachtens of overeenkomstig [artikel 5.2 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is vastgelegd in die maatregel.     
 2.  Voor zover de aanvraag om een activiteit als bedoeld in het eerste lid betrekking heeft op een inrichting waarin stoffen behorende tot een in [artikel 9.2.3.1, tweede lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) aangewezen categorie aanwezig kunnen zijn en die behoort tot een bij algemene maatregel van bestuur aangewezen categorie, draagt het bevoegd gezag er zorg voor dat de beslissing op de aanvraag niet tot gevolg heeft dat minder dan voldoende afstand aanwezig is tussen die inrichting en een beschermd natuurmonument of gebied dat als zodanig is aangewezen krachtens [artikel 10 van de Natuurbeschermingswet 1998](../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) of een gebied dat als zodanig is aangewezen krachtens [artikel 10a van die wet](../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) of dat voorlopig als zodanig is aangewezen krachtens [artikel 12 van die wet](../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md). Bij de beoordeling van de afstand betrekt het bevoegd gezag de maatregelen die zijn of worden getroffen om een voorval als bedoeld in [artikel 17.1 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) waarbij stoffen als bedoeld in de eerste volzin zijn betrokken en waardoor ernstig gevaar voor het milieu ontstaat, in de inrichting te voorkomen of de gevolgen daarvan te beperken.   
 3.  Voor zover het een activiteit betreft als bedoeld in het eerste lid, kan de omgevingsvergunning slechts in het belang van de bescherming van het milieu worden geweigerd.   
 4.  Het bevoegd gezag geeft in de motivering van de beslissing op de aanvraag te kennen, op welke wijze de in het eerste lid, onder a, genoemde aspecten de inhoud van het besluit hebben beïnvloed. Indien toepassing wordt gegeven aan het eerste lid, onder c, onder 3°, vermeldt het bevoegd gezag dit in de motivering.   
@@ -386,12 +388,12 @@ b. de omgevingsvergunning ook geldt voor een rechtspersoon aan wie zij is overge
 
 ### Artikel  2.26  
 
-1.  Naar aanleiding van een aanvraag die betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, waarbij vanuit een inrichting of mijnbouwwerk afvalwater of andere afvalstoffen in een voorziening voor de inzameling en het transport van afvalwater worden gebracht, stelt het bevoegd gezag het bestuursorgaan dat zorg draagt voor het beheer van het zuiveringstechnisch werk of het oppervlaktewater waarop het afvalwater vanuit die voorziening wordt gebracht, in de gelegenheid advies uit te brengen.   
+1.  Naar aanleiding van een aanvraag die betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, waarbij vanuit een inrichting of mijnbouwwerk afvalwater of andere afvalstoffen in een voorziening voor de inzameling en het transport van afvalwater worden gebracht, stelt het bevoegd gezag het bestuursorgaan dat zorg draagt voor het beheer van het zuiveringtechnisch werk, bedoeld in [artikel 1.1, eerste lid, van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md), of het oppervlaktewater waarop het afvalwater vanuit die voorziening wordt gebracht, in de gelegenheid advies uit te brengen.   
 2.  Indien ten gevolge van de activiteit waarvoor vergunning wordt gevraagd: 
 
-a. de doelmatige werking van het zuiveringstechnisch werk zou worden belemmerd, of  
+a. de doelmatige werking van het zuiveringtechnisch werk, bedoeld in [artikel 1.1, eerste lid, van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md), zou worden belemmerd, of  
 
-b. de krachtens [hoofdstuk 5 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) gestelde grenswaarden voor de kwaliteit van het oppervlaktewater zouden worden overschreden,   kan het advies inhouden dat de daarin opgenomen voorschriften die nodig zijn om die gevolgen te voorkomen, aan de vergunning moeten worden verbonden. Indien die gevolgen niet kunnen worden voorkomen, kan het advies inhouden dat de vergunning geheel of gedeeltelijk moet worden geweigerd.   
+b. de bij een algemene maatregel van bestuur als bedoeld in [artikel 5.1 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) ter uitvoering van een EU-richtlijn of een EU-verordening gestelde milieukwaliteitseisen voor oppervlaktewaterlichamen zouden worden overschreden,   kan het advies inhouden dat de daarin opgenomen voorschriften die nodig zijn om die gevolgen te voorkomen, aan de vergunning moeten worden verbonden. Indien die gevolgen niet kunnen worden voorkomen, kan het advies inhouden dat de vergunning geheel of gedeeltelijk moet worden geweigerd.   
 3.  Het bevoegd gezag stelt de bij algemene maatregel van bestuur en, in gevallen als bedoeld in artikel 2.2, de bij de betrokken verordening aangewezen bestuursorganen of andere instanties in gevallen die behoren tot een bij die maatregel, onderscheidenlijk verordening aangewezen categorie in de gelegenheid hem advies uit te brengen over de aanvraag of het ontwerp van de beschikking op de aanvraag om een omgevingsvergunning.   
 4.  Het bevoegd gezag kan een als adviseur aangewezen bestuursorgaan verzoeken om naar aanleiding van een aanvraag om een omgevingsvergunning advies uit te brengen over: 
 
@@ -550,6 +552,10 @@ c. de beschikbare rechtsmiddelen om tegen de beschikking op te komen.   Indien o
 ### Artikel  3.2  
 
 Voor zover het belang van de veiligheid van de Staat dat vereist, kan het bevoegd gezag de toepassing van [afdeling 3.4](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [artikel 3:44 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en van de artikelen 2.26 en 3.19 geheel of gedeeltelijk achterwege laten.  
+
+### Artikel  3.2a  
+
+Voor zover de aanvraag betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder f, ter zake van een kerkelijk monument als bedoeld in [artikel 1, onder e, van de Monumentenwet 1988](../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), neemt het bevoegd gezag geen beslissing dan na overleg met de eigenaar. Voor zover het betreft een beslissing waarbij wezenlijke belangen van het belijden van de godsdienst of levensovertuiging in dat monument in het geding zijn, neemt het bevoegd gezag geen beslissing dan in overeenstemming met de eigenaar.  
 
 ### Artikel  3.3  
 
@@ -773,27 +779,31 @@ b. ter dekking van zijn aansprakelijkheid voor schade die voortvloeit uit door d
 
 1.  Het bevoegd gezag kent degene tot wie een beschikking is gericht krachtens: 
 
-a. artikel 2.1, eerste lid, onder e, onder 2°, of onder 3°, juncto artikel 8.1, eerste lid, in gevallen waarin het tweede lid van dat artikel niet van toepassing is,  
+a. artikel 2.1, eerste lid, onder a, b, c of h, voor zover daaraan in het belang van de archeologische monumentenzorg voorschriften zijn verbonden,  
 
-b. artikel 2.1, eerste lid, onder f,  
+b. artikel 2.1, eerste lid, onder b of c, voor zover daarbij de omgevingsvergunning in het belang van de archeologische monumentenzorg is geweigerd,.  
 
-c. artikel 2.1, eerste lid, onder i, voor zover dat bij de krachtens dat onderdeel vastgestelde algemene maatregel van bestuur is bepaald,  
+c. artikel 2.1, eerste lid, onder e, onder 2°, of onder 3°, juncto artikel 8.1, eerste lid, in gevallen waarin het tweede lid van dat artikel niet van toepassing is,  
 
-d. artikel 2.1, eerste lid, onder e, onder 2° of 3°, met toepassing van artikel 2.6, voor zover de rechten die de vergunninghouder aan al eerder krachtens die onderdelen verleende vergunningen ontleende, daarbij zijn gewijzigd,  
+d. artikel 2.1, eerste lid, onder f,  
 
-e. artikel 2.19, voor zover dat bij het betrokken wettelijk voorschrift is bepaald,  
+e. artikel 2.1, eerste lid, onder i, voor zover dat bij de krachtens dat onderdeel vastgestelde algemene maatregel van bestuur is bepaald,  
 
-f. artikel 2.31, eerste lid, onder a, b of c,  
+f. artikel 2.1, eerste lid, onder e, onder 2° of 3°, met toepassing van artikel 2.6, voor zover de rechten die de vergunninghouder aan al eerder krachtens die onderdelen verleende vergunningen ontleende, daarbij zijn gewijzigd,  
 
-g. artikel 2.31, eerste lid, onder d, voor zover dat bij het betrokken wettelijk voorschrift is bepaald,  
+g. artikel 2.19, voor zover dat bij het betrokken wettelijk voorschrift is bepaald,  
 
-h. artikel 2.33, eerste lid, onder a, b, c, d of e, of tweede lid, onder e of f,  
+h. artikel 2.31, eerste lid, onder a, b of c,  
 
-i. artikel 2.33, eerste lid, onder g, voor zover dat bij het betrokken wettelijk voorschrift is bepaald,  
+i. artikel 2.31, eerste lid, onder d, voor zover dat bij het betrokken wettelijk voorschrift is bepaald,  
 
-j. artikel 2.33, tweede lid, onder f of g, voor zover dat bij de betrokken algemene maatregel van bestuur, onderscheidenlijk verordening is bepaald, of  
+j. artikel 2.33, eerste lid, onder a, b, c, d of e, of tweede lid, onder e of f,  
 
-k. artikel 2.33, tweede lid, onder h, voor zover dat bij het betrokken wettelijk voorschrift is bepaald,   en die ten gevolge daarvan kosten maakt of schade lijdt die redelijkerwijs niet of niet geheel voor zijn rekening behoren te komen op zijn verzoek of uit eigen beweging een naar billijkheid te bepalen vergoeding toe, voor zover niet op andere wijze in een redelijke vergoeding is of kan worden voorzien.   
+k. artikel 2.33, eerste lid, onder g, voor zover dat bij het betrokken wettelijk voorschrift is bepaald,  
+
+l. artikel 2.33, tweede lid, onder f of g, voor zover dat bij de betrokken algemene maatregel van bestuur, onderscheidenlijk verordening is bepaald, of  
+
+m. artikel 2.33, tweede lid, onder h, voor zover dat bij het betrokken wettelijk voorschrift is bepaald,   en die ten gevolge daarvan kosten maakt of schade lijdt die redelijkerwijs niet of niet geheel voor zijn rekening behoren te komen op zijn verzoek of uit eigen beweging een naar billijkheid te bepalen vergoeding toe, voor zover niet op andere wijze in een redelijke vergoeding is of kan worden voorzien.   
 2.  Indien de beschikking op de aanvraag om een vergunning met toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voorbereid, kan een verzoek om vergoeding worden ingediend na de toezending van het ontwerp van de beschikking aan de aanvrager.   
 3.  Indien het bevoegd gezag advies heeft ingewonnen over een verzoek om vergoeding of over het voornemen tot toekenning daarvan uit eigen beweging, zendt het een exemplaar van het advies aan de belanghebbende. Het vermeldt daarbij de termijn waarbinnen deze zijn zienswijze over het advies kenbaar kan maken.   
 
@@ -1017,9 +1027,9 @@ b. in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevord
 2.  Gedeputeerde staten kunnen, indien provinciale belangen dat met het oog op een goede ruimtelijke ordening nodig maken, een bestuursorgaan dat op grond van dit hoofdstuk bevoegd is tot oplegging van een last onder bestuursdwang, oplegging van een last onder dwangsom of intrekking van een vergunning of ontheffing, verzoeken een daartoe strekkende beschikking te geven.   
 3.  In gevallen waarin vanuit een inrichting of mijnbouwwerk afvalwater of andere afvalstoffen in een voorziening voor de inzameling en het transport van afvalwater worden gebracht tengevolge waarvan: 
 
-a. de doelmatige werking van het zuiveringstechnisch werk wordt belemmerd, of  
+a. de doelmatige werking van het zuiveringtechnisch werk, bedoeld in [artikel 1.1, eerste lid, van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md) wordt belemmerd, of  
 
-b. de krachtens [hoofdstuk 5 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) gestelde grenswaarden voor de kwaliteit van het oppervlaktewater worden overschreden,   kan het bestuursorgaan dat zorg draagt voor het beheer van het zuiveringstechnisch werk of het oppervlaktewater waarop het afvalwater vanuit de voorziening wordt gebracht, voor zover dat nodig is om die gevolgen te beperken of weg te nemen, een verzoek doen, als bedoeld in het eerste lid en geeft het bevoegde bestuursorgaan daaraan gevolg, voor zover dat niet in strijd is met het belang van de bescherming van het milieu.   
+b. de bij een algemene maatregel van bestuur als bedoeld in [artikel 5.1 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) ter uitvoering van een EU-richtlijn of EU-verordening gestelde milieukwaliteitseisen voor oppervlaktewaterlichamen worden overschreden,   kan het bestuursorgaan dat zorg draagt voor het beheer van het zuiveringtechnisch werk, bedoeld in [artikel 1.1, eerste lid, van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md), of het oppervlaktewaterlichaam waarop het afvalwater vanuit de voorziening wordt gebracht, voor zover dat nodig is om die gevolgen te beperken of weg te nemen, een verzoek doen, als bedoeld in het eerste lid en geeft het bevoegde bestuursorgaan daaraan gevolg, voor zover dat niet in strijd is met het belang van de bescherming van het milieu.   
 
 ### Artikel  5.21  
 

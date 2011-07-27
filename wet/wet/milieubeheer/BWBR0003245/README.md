@@ -435,7 +435,7 @@ d. een verslag van de voortgang van de uitvoering van het geldende nationale mil
 2.  Het plan bevat de hoofdzaken van het door provinciale staten en gedeputeerde staten te voeren milieubeleid.   
 3.  Tot deze hoofdzaken behoren ten minste: 
 
-a. de in de betrokken periode van acht jaar en, voor zover deze redelijkerwijze zijn aan te geven, de in de eerstvolgende vier jaar beoogde resultaten inzake de kwaliteit van de onderscheidene onderdelen van het milieu, mede gelet op de krachtens of overeenkomstig artikel 5.1, eerste lid, vastgestelde grenswaarden en richtwaarden en de in bijlage 2 opgenomen luchtkwaliteitseisen;  
+a. de in de betrokken periode van acht jaar en, voor zover deze redelijkerwijze zijn aan te geven, de in de eerstvolgende vier jaar beoogde resultaten inzake de kwaliteit van de onderscheidene onderdelen van het milieu, mede gelet op de krachtens of overeenkomstig artikel 5.1, eerste lid, vastgestelde milieukwaliteitseisen en de in bijlage 2 opgenomen luchtkwaliteitseisen;  
 
 b. de in de betrokken periode van acht jaar en, voor zover deze redelijkerwijze zijn aan te geven, de in de eerstvolgende vier jaar beoogde resultaten inzake het voorkomen, beperken of ongedaan maken van gevolgen van menselijke activiteiten die het milieu verontreinigen, aantasten of uitputten;  
 
@@ -650,14 +650,26 @@ c. de redelijkerwijs te verwachten ontwikkelingen die van belang zijn met het oo
 
 d. de mogelijkheid om de risico’s voor het milieu als gevolg van de bij het stellen van de eis in aanmerking te nemen milieubelastende factoren zo klein als redelijkerwijze mogelijk is te maken, en  
 
-e. de redelijkerwijs te verwachten, uit de verwerkelijking van de te stellen eis voortvloeiende financiële en economische gevolgen,   voor zover deze voor de vaststelling van de milieukwaliteitseis van belang zijn. In een toelichting bij de maatregel wordt aangegeven op welke wijze deze aspecten bij de voorbereiding van de maatregel zijn betrokken.   
-3.  Bij een maatregel als bedoeld in het eerste lid, wordt ten aanzien van de daarbij gestelde milieukwaliteitseisen bepaald of zij worden aangemerkt als grenswaarde of als richtwaarde. Een grenswaarde geeft de kwaliteit aan die op het in de maatregel aangegeven tijdstip ten minste moet zijn bereikt, en die, waar zij aanwezig is, ten minste moet worden instandgehouden. Een richtwaarde geeft de kwaliteit aan die op het in de maatregel aangegeven tijdstip zoveel mogelijk moet zijn bereikt, en die, waar zij aanwezig is, zoveel mogelijk moet worden instandgehouden.   
+e. de redelijkerwijs te verwachten, uit de verwerkelijking van de te stellen eis voortvloeiende financiële en economische gevolgen,   voor zover deze voor de vaststelling van de milieukwaliteitseis van belang zijn en dit niet strijdig is met een op die milieukwaliteitseis betrekking hebbende EU-richtlijn of EU-verordening. In een toelichting bij de maatregel wordt aangegeven op welke wijze deze aspecten bij de voorbereiding van de maatregel zijn betrokken.   
+3.  Bij een maatregel als bedoeld in het eerste lid, wordt ten aanzien van een daarbij gestelde milieukwaliteitseis bepaald of deze wordt aangemerkt als grenswaarde, richtwaarde dan wel andere ter uitvoering van een daarbij genoemde EU-richtlijn of EU-verordening gestelde milieukwaliteitseis, met dien verstande dat: 
+
+a. een grenswaarde de kwaliteit aangeeft die op het in de maatregel aangegeven tijdstip ten minste moet zijn bereikt, en die, waar zij aanwezig is, ten minste moet worden in stand gehouden;  
+
+b. een richtwaarde de kwaliteit aangeeft die op het in de maatregel aangegeven tijdstip zoveel mogelijk moet zijn bereikt, en die, waar zij aanwezig is, zoveel mogelijk moet worden in stand gehouden;  
+
+c. een ter uitvoering van een EU-richtlijn of EU-verordening gestelde milieukwaliteitseis de overeenkomstig die richtlijn of verordening te bereiken kwaliteit aangeeft, met inbegrip van een met betrekking tot die eis van toepassing zijnde afwijkingsmogelijkheid.     
 4.  Bij een maatregel als bedoeld in het eerste lid kan worden bepaald dat een daarbij gestelde milieukwaliteitseis slechts geldt voor een of meer bij of krachtens de maatregel aan te wijzen gebieden, dan wel voor gebieden die behoren tot een bij de maatregel aangegeven categorie. Een tijdstip als bedoeld in het eerste lid kan voor verschillende bij of krachtens de maatregel aan te geven gebieden of categorieën van gebieden verschillend zijn.   
 5.  Bij een maatregel als bedoeld in het eerste lid wordt ten aanzien van de daarbij gestelde milieukwaliteitseisen een termijn bepaald, voor het verstrijken waarvan Onze Minister en, voor zover het onderdelen van het milieubeleid betreft die tot hun verantwoordelijkheid behoren, Onze Ministers van Verkeer en Waterstaat en van Landbouw, Natuur en Voedselkwaliteit dienen aan te geven in hoeverre de desbetreffende milieukwaliteitseis naar hun oordeel herziening behoeft. Indien een gestelde milieukwaliteitseis niet een zodanige waarde heeft dat redelijkerwijs kan worden aangenomen dat, indien aan die eis is voldaan, de risico’s voor het milieu als gevolg van de bij het stellen van de eis in aanmerking genomen milieubelastende factoren verwaarloosbaar klein zijn, bedraagt de termijn, bedoeld in de vorige volzin, ten hoogste acht jaar.   
 
 ### Artikel  5.2  
 
-1.  Bij een maatregel als bedoeld in artikel 5.1, eerste lid, worden de bevoegdheden aangewezen bij de uitoefening waarvan de bij de maatregel gestelde grenswaarden in acht moeten worden genomen, of met de bij de maatregel gestelde richtwaarden rekening moet worden gehouden. Bij de maatregel kunnen voorts regels worden gesteld met betrekking tot de wijze waarop aan de daarin opgenomen verplichtingen uitvoering moet worden gegeven.   
+1.  Bij een maatregel als bedoeld in artikel 5.1, eerste lid, worden de bevoegdheden aangewezen bij de uitoefening waarvan: 
+
+a. de bij de maatregel gestelde grenswaarden in acht moeten worden genomen,  
+
+b. met de bij de maatregel gestelde richtwaarden rekening moet worden gehouden, of  
+
+c. de bij die maatregel ter uitvoering van een EU-richtlijn of EU-verordening gestelde milieukwaliteitseisen worden betrokken, op de bij die maatregel bepaalde wijze.   Bij de maatregel kunnen voorts regels worden gesteld met betrekking tot de wijze waarop aan de daarin opgenomen verplichtingen uitvoering moet worden gegeven.   
 2.  Het eerste lid vindt slechts toepassing voor zover de wettelijke regeling waarop een bevoegdheid als bedoeld in dat lid berust, zich daartegen niet verzet.   
 3.  Indien in een gebied waarvoor een milieukwaliteitseis geldt, voor het betrokken onderdeel van het milieu de kwaliteit beter is dan de eis aangeeft, treedt die kwaliteit voor de toepassing van de krachtens het eerste lid aangewezen bevoegdheden voor dit gebied in de plaats van de in de eis aangegeven kwaliteit. In een maatregel als bedoeld in artikel 5.1, eerste lid, kan worden bepaald dat de eerste volzin ten aanzien van de daarbij gestelde milieukwaliteitseis niet van toepassing is.   
 4.  Indien bij de uitoefening van een bevoegdheid ten aanzien waarvan krachtens het eerste lid is bepaald dat daarbij rekening moet worden gehouden met een richtwaarde, van die waarde wordt afgeweken, vermeldt de motivering van het desbetreffende besluit in ieder geval welke gewichtige redenen daartoe hebben geleid.   
@@ -666,8 +678,15 @@ e. de redelijkerwijs te verwachten, uit de verwerkelijking van de te stellen eis
 
 1.  Bij een maatregel als bedoeld in artikel 5.1, eerste lid, ter uitvoering van de kaderrichtlijn water, wordt aan provinciale staten opgedragen milieukwaliteitseisen, voorzover die niet zijn vastgesteld bij een maatregel op grond van artikel 5.1, eerste lid, in een provinciale milieuverordening als bedoeld in artikel 5.5, eerste lid, vast te stellen.   
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld die provinciale staten bij de vaststelling van de eisen in de provinciale milieuverordening in daarbij aan te wijzen gevallen in acht moeten nemen. Een zodanige regeling wordt vastgesteld door Onze Minister tezamen met Onze Ministers van Verkeer en Waterstaat en van Landbouw, Natuur en Voedselkwaliteit, ieder voor zover het aangelegenheden betreft die mede tot zijn verantwoordelijkheid behoren.   
-3.  Bij een maatregel als bedoeld in artikel 5.1, eerste lid, wordt overeenkomstig artikel 4, vierde, vijfde en zevende lid, van de kaderrichtlijn water bepaald in hoeverre en onder welke voorwaarden kan worden afgeweken van de eisen en streeftermijnen van artikel 4, eerste en tweede lid, van de kaderrichtlijn water.   
-4.  De kwaliteit van oppervlaktewateren en grondwatervoorkomens waarvoor milieukwaliteitseisen gelden mag niet verslechteren, behoudens voor zover overeenkomstig artikel 4, zesde of zevende lid, van de kaderrichtlijn water bij een maatregel als bedoeld in artikel 5.1, eerste lid, is bepaald dat een achteruitgang is toegelaten.   
+3.  Bij een maatregel als bedoeld in artikel 5.1, eerste lid, wordt overeenkomstig artikel 4, vierde, vijfde en zevende lid, van de kaderrichtlijn water bepaald in hoeverre en onder welke voorwaarden kan worden afgeweken van de ter uitvoering van artikel 4, eerste en tweede lid, van die richtlijn gestelde milieukwaliteitseisen en termijnen.   
+4.  In: 
+
+a. het nationale waterplan, bedoeld in [artikel 4.1, eerste lid, van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md),  
+
+b. een regionaal waterplan als bedoeld in [artikel 4.4, eerste lid, van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md),  
+
+c. een beheerplan als bedoeld in [artikel 4.6, eerste lid, van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), worden de maatregelen opgenomen of uiteengezet ter voorkoming van achteruitgang van de toestand van alle oppervlaktewaterlichamen en grondwaterlichamen die in verband met de uitvoering van de verplichtingen van de kaderrichtlijn water zijn aangewezen, behoudens voor zover overeenkomstig artikel 4, zesde, zevende en achtste lid, van die richtlijn bij een algemene maatregel van bestuur als bedoeld in artikel 5.1, eerste lid, is bepaald dat achteruitgang van een toestand is toegelaten.     
+5.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de toepassing van het vierde lid.   
 
 ### Artikel  5.3  
 
@@ -679,7 +698,7 @@ b. de verantwoordelijkheid voor de onder a bedoelde metingen, onderscheidenlijk 
 
 c. de wijze van bekostiging van de onder a bedoelde metingen, onderscheidenlijk berekeningen.     
 2.  Bij de in het eerste lid bedoelde maatregel kan worden bepaald dat de wijze van meten of berekenen en de frequentie daarvan bij ministeriële regeling worden vastgesteld.   
-3.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot het opstellen van programma’s voor de monitoring van oppervlaktewateren en grondwatervoorkomens als bedoeld in artikel 8 van de kaderrichtlijn water, waarbij voor gebieden, bedoeld in bijlage IV van die richtlijn, aanvullende verplichtingen kunnen worden gesteld welke dienen ter uitvoering van een richtlijn van het Europees Parlement en de Raad van de Europese Unie. Bij de maatregel kan ten aanzien van de milieudoelstellingen, bedoeld in artikel 4 van de kaderrichtlijn water, overeenkomstige toepassing worden gegeven aan het eerste en tweede lid.   
+3.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot het opstellen van programma’s voor de monitoring van oppervlaktewaterlichamen en grondwaterlichamen als bedoeld in artikel 8 van de kaderrichtlijn water, waarbij voor gebieden, bedoeld in bijlage IV van die richtlijn, aanvullende verplichtingen kunnen worden gesteld welke dienen ter uitvoering van een EU-richtlijn of EU-verordening. Bij de maatregel kan ten aanzien van de milieudoelstellingen, bedoeld in artikel 4 van de kaderrichtlijn water, overeenkomstige toepassing worden gegeven aan het eerste en tweede lid.   
 
 ### Artikel  5.4  
 
@@ -710,6 +729,7 @@ Indien ter uitvoering van deze titel een ministeriële regeling als bedoeld in a
 
 ### Artikel  5.8  
 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2009/158.   
 1.  Indien wijziging van deze titel, bijlage 2 of de op deze titel berustende bepalingen wenselijk is ter uitvoering van een richtlijn van de Raad van de Europese Unie betreffende de kwaliteit van de buitenlucht, kan Onze Minister, gehoord de Tweede Kamer der Staten-Generaal, een tijdelijke regeling vaststellen, die voor zover daarbij is aangegeven in de plaats treedt van deze titel, bijlage 2 of de op deze titel berustende bepalingen.   
 2.  Binnen achttien maanden na het tijdstip van inwerkingtreding van die regeling wordt een voorstel van wet van gelijke strekking aanhangig gemaakt bij de Tweede Kamer der Staten-Generaal.   
 
@@ -1635,6 +1655,14 @@ Naar aanleiding van de door de provincie uitgevoerde inventarisatie van plaatsen
 
 ####Stoffen en produkten
 
+### Titel  9.1  
+
+####Algemeen
+
+### Artikel  9.1.1  
+
+Dit hoofdstuk en de daarop berustende bepalingen zijn mede van toepassing op handelingen verricht binnen de exclusieve economische zone, voor zover dat bij algemene maatregel van bestuur is bepaald.  
+
 ### Titel  9.2  
 
 ####Stoffen, preparaten en genetisch gemodificeerde organismen
@@ -1907,6 +1935,98 @@ Deze titel is niet van toepassing op middelen voor het vervoer van personen of g
 1.  Een energiegerelateerd product, behorende tot een ingevolge een algemene maatregel van bestuur als bedoeld in artikel 9.4.4, tweede lid, aangewezen categorie of tot een categorie, aangewezen in een uitvoeringsmaatregel die in de vorm van een verordening is gesteld, dat van een CE-markering is voorzien, wordt vermoed te voldoen aan de voor dat product bij of krachtens deze titel en in de uitvoeringsmaatregel gestelde eisen.   
 2.  Een energiegerelateerd product, behorende tot een ingevolge een algemene maatregel van bestuur als bedoeld in artikel 9.4.4, tweede lid, aangewezen categorie of tot een categorie, aangewezen in een uitvoeringsmaatregel die in de vorm van een verordening is gesteld, waarvoor een geharmoniseerde norm is toegepast waarvan het referentienummer in het Publicatieblad van de Europese Unie is bekendgemaakt, wordt vermoed te voldoen aan de voorschriften van de toepasselijke uitvoeringsmaatregel waarop die norm betrekking heeft.   
 3.  Een energiegerelateerd product, behorende tot een ingevolge een algemene maatregel van bestuur als bedoeld in artikel 9.4.4, tweede lid, aangewezen categorie of tot een categorie, aangewezen in een uitvoeringsmaatregel die in de vorm van een verordening is gesteld, waarvoor overeenkomstig verordening (EG) nr. 66/2010 van het Europees Parlement en de Raad van de Europese Unie van 25 november 2009 betreffende de EU-milieukeur (PbEU L 27) de communautaire milieukeur is verleend, wordt vermoed te voldoen aan de voorschriften inzake ecologisch ontwerp van de toepasselijke uitvoeringsmaatregel voor zover de milieukeur aan die voorschriften voldoet.   
+
+### Titel  9.5  
+
+####Overige bepalingen met betrekking tot stoffen, preparaten en producten
+
+### Artikel  9.5.1  
+
+1.  Bij algemene maatregel van bestuur kunnen in het belang van het voorkomen of beperken van luchtverontreiniging of geluidhinder regels worden gesteld met betrekking tot het vervaardigen, in Nederland invoeren, voorhanden hebben, aan een ander ter beschikking stellen, vervoeren en gebruiken van bij de maatregel aangewezen producten.   
+2.  In afwijking van het eerste lid worden in het belang van het voorkomen of beperken van geluidhinder bij een maatregel als bedoeld in het eerste lid geen regels gesteld met betrekking tot luchtvaartuigen.   
+3.  Tot de regels, bedoeld in het eerste lid, kunnen behoren regels, inhoudende een verbod met betrekking tot zodanige producten een of meer van de in het eerste lid genoemde handelingen: 
+
+a. te verrichten;  
+
+b. te verrichten anders dan met inachtneming van de omtrent die handelingen of die producten bij de maatregel gestelde regels;  
+
+c. te verrichten met producten, behorende tot een bij de maatregel aangewezen categorie, op de bij de maatregel aangegeven plaatsen, op de bij de maatregel aangegeven wijze of onder de bij de maatregel aangegeven omstandigheden;  
+
+d. te verrichten indien de producten niet voldoen aan de bij de maatregel gestelde eisen;  
+
+e. te verrichten indien de producten niet behoren tot een type dat bij een keuring, verricht overeenkomstig bij de maatregel gestelde regels is goedgekeurd;  
+
+f. te verrichten indien de producten niet overeenkomstig bij de maatregel gestelde regels zijn goedgekeurd.     
+4.  Bij een maatregel als bedoeld in het eerste lid kan worden bepaald dat daarbij gestelde regels slechts gelden in bij de maatregel aangegeven categorieën van gevallen of in de bij de maatregel aangewezen gebieden.   
+5.  Bij een maatregel als bedoeld in het eerste lid kan in het belang van de landsverdediging vrijstelling worden verleend van de krachtens het eerste lid gestelde verboden en verplichtingen. Aan een vrijstelling kunnen voorschriften worden verbonden die nodig zijn in het belang van het voorkomen of beperken van luchtverontreiniging dan wel van geluidhinder.   
+6.  Voor zover een maatregel als bedoeld in het eerste lid strekt tot nakoming van verplichtingen op grond van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, kunnen tot de regels, bedoeld in het eerste lid, tevens behoren regels die voorzien in: 
+
+a. een verbod om zonder vergunning, verleend door een bij die maatregel aangewezen bestuursorgaan, handelingen te verrichten met betrekking tot de bij die maatregel aangewezen producten of categorieën daarvan;  
+
+b. een verplichting om ten aanzien van die producten of categorieën daarvan in bij de maatregel aangegeven gevallen van het gebruik daarvan aangifte te doen bij een bestuursorgaan, dat bij die maatregel is aangewezen, dan wel te voldoen aan meetvoorschriften op een bij de maatregel te bepalen wijze;  
+
+c. een verplichting te voldoen aan door een bestuursorgaan, dat bij de maatregel is aangewezen, gestelde nadere eisen omtrent de onderwerpen die in die maatregel zijn geregeld, op een door het bestuursorgaan te bepalen tijdstip.     
+7.  Indien toepassing wordt gegeven aan het derde lid, onder e of f, wijst Onze Minister op grond van de bij of krachtens een maatregel als bedoeld in het eerste lid te stellen eisen de instanties aan die de in die onderdelen bedoelde keuringen verrichten. Bij of krachtens die maatregel wordt in dat geval tevens bepaald op grond waarvan Onze Minister de aanwijzing kan schorsen of intrekken en worden regels gesteld over de wijze waarop de keuringen plaatsvinden.   
+8.  Onze Minister kan omtrent in een maatregel krachtens het eerste lid geregelde onderwerpen nadere regels stellen.   
+
+### Artikel  9.5.2  
+
+1.  Bij algemene maatregel van bestuur kunnen ter stimulering van hergebruik, preventie, recycling en andere nuttige toepassing, van een doelmatig beheer van afvalstoffen of anderszins in het belang van de bescherming van het milieu regels worden gesteld met betrekking tot het vervaardigen, in Nederland invoeren, toepassen, voorhanden hebben, aan een ander ter beschikking stellen, in ontvangst nemen, innemen, nuttig toepassen en verwijderen van bij de maatregel aangewezen stoffen, preparaten of producten of afvalstoffen. Met betrekking tot producten worden zodanige regels niet gesteld in het belang dat artikel 9.5.1 beoogt te beschermen.   
+2.  Tot de regels, bedoeld in het eerste lid, kunnen behoren regels, inhoudende een verbod met betrekking tot zodanige stoffen, preparaten of producten of afvalstoffen een of meer van de in het eerste lid genoemde handelingen: 
+
+a. te verrichten;  
+
+b. te verrichten anders dan met inachtneming van de omtrent die handelingen of die stoffen, preparaten of producten of afvalstoffen bij de maatregel gestelde regels;  
+
+c. te verrichten op een bij de maatregel aangewezen wijze, onder daarbij aangegeven omstandigheden, of voor daarbij aangewezen doeleinden;  
+
+d. te verrichten indien de stoffen, preparaten of producten of afvalstoffen niet voldoen aan de bij de maatregel gestelde eisen.     
+3.  Tot de regels, bedoeld in het eerste lid, kunnen tevens behoren regels, inhoudende de verplichting voor degene die bij de maatregel aangewezen stoffen, preparaten of producten op de markt brengt: 
+
+a. die stoffen, preparaten of producten of de verpakking ervan te voorzien van een door Onze Minister aangegeven aanduiding;  
+
+b. die stoffen, preparaten of producten en de daarvan overgebleven afvalstoffen, na gebruik, in te nemen en te beheren, alsmede de financiële verantwoordelijkheid daarvoor of de verantwoordelijkheid voor het regelen van het afvalbeheer geheel of gedeeltelijk te dragen;  
+
+c. zorg te dragen voor het treffen van voorzieningen die erop gericht zijn om die stoffen, preparaten of producten na inname op een bij de maatregel aangegeven wijze nuttig toe te passen of te verwijderen;  
+
+d. zorg te dragen voor het, na inname, afgeven van die stoffen, preparaten of producten aan een persoon, behorende tot een bij de maatregel aangewezen categorie;  
+
+e. openbaar beschikbare informatie te verstrekken over de mate waarin die stoffen, preparaten of producten geschikt zijn voor hergebruik en recycleerbaar zijn.     
+4.  Tot de regels, bedoeld in het eerste lid, kunnen verder behoren regels, inhoudende de verplichting: 
+
+a. voor bij de maatregel aangewezen personen bij de maatregel aangewezen afvalstoffen of andere stoffen, preparaten of producten in ontvangst te nemen en vervolgens op een bij de maatregel aangegeven wijze toe te passen;  
+
+b. voor burgemeester en wethouders er zorg voor te dragen dat er op ten minste één daartoe ter beschikking gestelde plaats binnen de gemeente of binnen de gemeenten waarmee wordt samengewerkt, in voldoende mate gelegenheid wordt geboden om bij de maatregel aangewezen stoffen, preparaten of producten achter te laten die zijn ingenomen krachtens het derde lid, onder b, op een bij de maatregel aangegeven wijze.     
+5.  Bij een maatregel als bedoeld in het eerste lid kan worden bepaald dat daarbij gestelde regels slechts gelden in bij de maatregel aangegeven categorieën van gevallen of in de bij de maatregel aangewezen gebieden.   
+6.  Artikel 9.5.1, zesde lid, is van overeenkomstige toepassing, met dien verstande dat de regels, bedoeld in dat lid, tevens kunnen worden gesteld ten aanzien van bij de maatregel, bedoeld in het eerste lid, aangewezen stoffen en preparaten of categorieën daarvan.   
+7.  Onze Minister kan omtrent in een maatregel krachtens het eerste lid geregelde onderwerpen nadere regels stellen.   
+
+### Artikel  9.5.3  
+
+Bij een algemene maatregel van bestuur, vastgesteld krachtens artikel 9.5.1, kan worden bepaald dat het gezag dat bevoegd is een vergunning krachtens artikel 8.1 voor een inrichting te verlenen, bij het verlenen of wijzigen van de vergunning met betrekking tot bij de maatregel aangegeven onderwerpen in de beperkingen waaronder de vergunning wordt verleend, of in de daaraan verbonden voorschriften van bij de maatregel of de krachtens artikel 9.5.1, zesde lid, gestelde regels met betrekking tot producten kan afwijken. In dat geval wordt bij de maatregel aangegeven in hoeverre het bevoegd gezag van de regels kan afwijken. Bij de maatregel kan tevens worden bepaald dat de bevoegdheid tot afwijken slechts geldt in daarbij aangegeven categorieën van gevallen.  
+
+### Artikel  9.5.4  
+
+Onze Minister kan, indien naar zijn oordeel in het belang van het voorkomen of beperken van luchtverontreiniging of geluidhinder, dan wel in het belang van de stimulering van hergebruik, preventie, recycling of andere nuttige toepassing, van een doelmatig beheer van afvalstoffen of anderszins in het belang van de bescherming van het milieu een onverwijlde voorziening noodzakelijk is, een regeling vaststellen van de in de artikelen 9.5.1 of 9.5.2 bedoelde strekking voor een termijn van ten hoogste twee jaar.  
+
+### Artikel  9.5.5  
+
+1.  Bij koninklijk besluit kan in het belang van de landsverdediging op verzoek van Onze Minister van Defensie ontheffing worden verleend van het bepaalde krachtens artikel 9.5.1.   
+2.  Onze Minister kan voorts op aanvraag ontheffing verlenen van het bepaalde krachtens de artikelen 9.5.1 of 9.5.2 indien het belang dat die artikelen beogen te beschermen, zich daartegen niet verzet.   
+3.  Bij een algemene maatregel van bestuur als bedoeld in de artikelen 9.5.1 of 9.5.2 kan worden bepaald dat een bij de maatregel aangewezen ander bestuursorgaan in plaats van Onze Minister ontheffing kan verlenen van het bepaalde krachtens deze artikelen, indien het belang dat die artikelen beogen te beschermen, zich daartegen niet verzet.   
+4.  Aan een ontheffing als bedoeld in het eerste tot en met derde lid kunnen voorschriften en beperkingen worden verbonden in het belang dat de artikelen 9.5.1 of 9.5.2 beogen te beschermen.   
+5.  De voorschriften en beperkingen, bedoeld in het vierde lid, kunnen worden gewijzigd, aangevuld of ingetrokken in het belang dat de artikelen 9.5.1 of 9.5.2 beogen te beschermen.   
+6.  Een ontheffing als bedoeld in het eerste tot en met derde lid kan geheel of gedeeltelijk worden ingetrokken in het belang dat de artikelen 9.5.1 of 9.5.2 beogen te beschermen.   
+7.  Bij algemene maatregel van bestuur krachtens artikel 9.5.2 kan worden bepaald dat in daarbij aangegeven categorieën van gevallen op de voorbereiding van een beschikking op de aanvraag om ontheffing te verlenen, [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is.   
+
+### Artikel  9.5.6  
+
+1.  Indien toepassing wordt gegeven aan artikel 9.5.1, zesde lid, onder a, of artikel 9.5.2, zesde lid, in samenhang met artikel 9.5.1, zesde lid, onder a, is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing op de voorbereiding van een beschikking op de aanvraag om een vergunning. Artikel 8.7 is van overeenkomstige toepassing.   
+2.  Een vergunning kan slechts worden geweigerd in het belang dat de artikelen 9.5.1 of 9.5.2 beogen te beschermen.   
+3.  Een vergunning kan onder beperkingen worden verleend.   
+4.  Aan een vergunning kunnen voorschriften worden verbonden. Hiertoe kan behoren het voorschrift, dat met betrekking tot in het voorschrift geregelde onderwerpen moet worden voldaan aan nadere eisen, die door een bij het voorschrift aangewezen bestuursorgaan worden gesteld.   
+5.  Bij de betrokken algemene maatregel van bestuur kunnen categorieën van gevallen worden aangewezen waarin het eerste lid niet van toepassing is.   
+6.  Voor zover dat bij de betrokken maatregel is bepaald, kan de vergunning worden gewijzigd of ingetrokken. Op de voorbereiding van een zodanige wijziging of intrekking is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Artikel 8.7 is van overeenkomstige toepassing.   
 
 ### Titel  9.6  
 
@@ -2930,7 +3050,7 @@ b. worden regels gesteld omtrent de wijze waarop de vergoeding wordt betaald.
 ### Artikel  13.1  
 
 1.  Bij de toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op de voorbereiding van beschikkingen krachtens de in het tweede lid genoemde wetten of wettelijke bepalingen, wordt afdeling 13.2 in acht genomen, voor zover dat bij of krachtens de betrokken wet is bepaald.   
-2.  De in het eerste lid bedoelde wetten of wettelijke bepalingen zijn: de [Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md), [hoofdstuk VIIa van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md), de [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md), de [Wet inzake de luchtverontreiniging](../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md), de [Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md), de [Ontgrondingenwet](../../../../wet/ontgrondingenwet/BWBR0002505/README.md), de [Wet bescherming Antarctica](../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md), de [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md); de [Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   
+2.  De in het eerste lid bedoelde wetten of wettelijke bepalingen zijn: de [Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md), [hoofdstuk VIIa van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md), de [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md), de [Wet inzake de luchtverontreiniging](../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md), de [Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md), de [Ontgrondingenwet](../../../../wet/ontgrondingenwet/BWBR0002505/README.md), de [Wet bescherming Antarctica](../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md), de [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), de [Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   
 
 ### Afdeling  13.2  
 
@@ -4802,12 +4922,12 @@ Indien de gedraging tevens een strafbaar feit is en de ernst van de overtreding 
 ### Artikel  18.16g  
 
 1.  [Artikel 5:53 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing bij overtreding van het bepaalde bij of krachtens de in artikel 18.16a, eerste en tweede lid, eerste volzin, genoemde artikelen.   
-2.  In geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste lid vermeldt het rapport, bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), naast de in het [tweede lid van dat artikel](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde gegevens, tevens het voornemen de naam van de overtreder op te nemen in het overzicht, bedoeld in artikel 18.16p, eerste lid.   
+2.  In geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste lid, vermeldt het rapport, bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), naast de in het [tweede lid van dat artikel](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde gegevens, tevens het voornemen de naam van de overtreder op te nemen in het overzicht, bedoeld in artikel 18.16p, eerste lid.   
 3.  Indien de gedraging aan het openbaar ministerie wordt voorgelegd op grond van artikel 18.16d, wordt een afschrift van het rapport aan het openbaar ministerie toegezonden.   
 
 ### Artikel  18.16i  
 
-In geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste lid hebben de [artikelen 5:49](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:50](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:51](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:53, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) mede betrekking op het opnemen van de naam van de overtreder in het overzicht, bedoeld in artikel 18.16p, eerste lid.  
+In geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste lid, hebben de [artikelen 5:49](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:50](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:51](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:53, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) mede betrekking op het opnemen van de naam van de overtreder in het overzicht, bedoeld in artikel 18.16p, eerste lid.  
 
 ### Artikel  18.16k  
 
@@ -4819,7 +4939,7 @@ In afwijking van [artikel 5:45, eerste lid, van de Algemene wet bestuursrecht](.
 
 ### Artikel  18.16p  
 
-1.  Het bestuur van de emissieautoriteit stelt elk jaar voor 1 oktober een overzicht op van personen die het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste lid hebben overtreden en ten aanzien van wie de beschikking tot oplegging van de bestuurlijke boete, bedoeld in artikel 18.16k, onherroepelijk is geworden. Het overzicht wordt gepubliceerd in de Staatscourant.   
+1.  Het bestuur van de emissieautoriteit stelt elk jaar voor 1 oktober een overzicht op van personen die het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste lid, hebben overtreden en ten aanzien van wie de beschikking tot oplegging van de bestuurlijke boete, bedoeld in artikel 18.16k, onherroepelijk is geworden. Het overzicht wordt gepubliceerd in de Staatscourant.   
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het overzicht, bedoeld in het eerste lid.   
 
 ### Artikel  18.16q  
@@ -5062,7 +5182,7 @@ Voor de uitvoering van deze wet ten aanzien van gebieden die niet deel uitmaken 
 1.  Bij de vaststelling, wijziging of intrekking van een algemene maatregel van bestuur krachtens deze wet wordt rekening gehouden met het geldende nationale milieubeleidsplan.   
 2.  De voordracht voor een algemene maatregel van bestuur krachtens artikel 5.1, eerste lid, of 5.3, derde lid, wordt Ons gedaan door Onze Minister en, voor zover het onderdelen van het milieubeleid betreft die tot hun verantwoordelijkheid behoren, Onze Ministers van Verkeer en Waterstaat en van Landbouw, Natuur en Voedselkwaliteit en, voorzover het de strafrechtelijke handhaving betreft van het bepaalde bij of krachtens deze wet of de andere in artikel 18.2, eerste lid, onder a, bedoelde wetten, Onze Minister van Justitie. De voordracht van een algemene maatregel van bestuur krachtens artikel 9.2.3.1 of 9.2.3.2 wordt Ons gedaan door Onze Minister van Volksgezondheid, Welzijn en Sport, mede namens Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid.   
 3.  De voordracht voor een algemene maatregel van bestuur krachtens paragraaf 2.2, hoofdstuk 7 of paragraaf 14.2, wordt Ons gedaan door Onze Minister, Onze Minister van Landbouw, Natuur en Voedselkwaliteit en Onze Minister van Onderwijs, Cultuur en Wetenschap. De voordracht voor een algemene maatregel van bestuur krachtens titel 12.1 wordt Ons gedaan door Onze Minister en, voor zover het onderdelen van het milieubeleid betreft die tot hun verantwoordelijkheid behoren, Onze Ministers van Verkeer en Waterstaat, van Landbouw, Natuur en Voedselkwaliteit en van Economische Zaken. Indien het een of meer inrichtingen betreft, die onder Onze Minister van Defensie ressorteren, wordt de voordracht voor een algemene maatregel van bestuur krachtens de artikelen 12.1, tweede lid, 12.4 en 12.5 Ons mede door hem gedaan.   
-4.  Het ontwerp van een algemene maatregel van bestuur krachtens artikel 1.1, eerste, derde, zesde, zevende of achtste lid, 2.2, derde lid, 5.1, eerste lid, 5.3, eerste lid, 7.2, eerste lid, 8.40, 8.49, vijfde lid, 9.2.1.3, tweede lid, 9.2.1.4, 9.2.2.1, eerste lid, 9.2.3.1, derde lid, 9.2.3.2, 9.2.3.3, vierde lid, 10.2, tweede lid, 10.15, eerste lid, 10.16, eerste lid, 10.17, eerste lid, 10.18, 10.19, eerste lid, 10.22, tweede lid, 10.28, eerste lid, 10.29, eerste lid, 10.30, derde lid, 10.32, 10.41, eerste en tweede lid, 10.42, eerste lid, 10.43, eerste lid, 10.44, derde lid, 10.46, eerste lid, 10.47, eerste lid, 10.48, eerste lid, 10.51, eerste lid, 10.52, eerste lid, 10.54, derde lid, 10.61, eerste lid, 12.10, tweede lid, 12.12, tweede en vierde lid, 12.13, tweede en derde lid, 12.16, derde lid, 12.20a, eerste lid, 12.29, 15.13, eerste lid, 15.32, eerste of tweede lid, 15.46, vijfde lid, 16.1, derde lid, 16.12, tweede lid, in verbinding met 16.49, tweede lid, 16.5016.53, tweede lid, 17.7 of 21.4 wordt overgelegd aan de beide kamers der Staten-Generaal en in de Staatscourant bekendgemaakt. Aan een ieder wordt de gelegenheid geboden binnen een bij die bekendmaking vast te stellen termijn van ten minste vier weken opmerkingen over het ontwerp schriftelijk ter kennis van Onze Minister te brengen.   
+4.  Het ontwerp van een algemene maatregel van bestuur krachtens artikel 1.1, eerste, derde, zesde, zevende of achtste lid, 2.2, derde lid, 5.1, eerste lid, 5.2b, vijfde lid, 5.3, eerste lid, 7.2, eerste lid, 8.40, 8.49, vijfde lid, 9.2.1.3, tweede lid, 9.2.1.4, 9.2.2.1, eerste lid, 9.2.3.1, derde lid, 9.2.3.2, 9.2.3.3, vierde lid, 10.2, tweede lid, 10.15, eerste lid, 10.16, eerste lid, 10.17, eerste lid, 10.18, 10.19, eerste lid, 10.22, tweede lid, 10.28, eerste lid, 10.29, eerste lid, 10.30, derde lid, 10.32, 10.41, eerste en tweede lid, 10.42, eerste lid, 10.43, eerste lid, 10.44, derde lid, 10.46, eerste lid, 10.47, eerste lid, 10.48, eerste lid, 10.51, eerste lid, 10.52, eerste lid, 10.54, derde lid, 10.61, eerste lid, 12.10, tweede lid, 12.12, tweede en vierde lid, 12.13, tweede en derde lid, 12.16, derde lid, 12.20a, eerste lid, 12.29, 15.13, eerste lid, 15.32, eerste of tweede lid, 15.46, vijfde lid, 16.1, derde lid, 16.12, tweede lid, in verbinding met 16.49, tweede lid, 16.5016.53, tweede lid, 17.7 of 21.4 wordt overgelegd aan de beide kamers der Staten-Generaal en in de Staatscourant bekendgemaakt. Aan een ieder wordt de gelegenheid geboden binnen een bij die bekendmaking vast te stellen termijn van ten minste vier weken opmerkingen over het ontwerp schriftelijk ter kennis van Onze Minister te brengen.   
 5.  Een algemene maatregel van bestuur als bedoeld in het vierde lid wordt, nadat hij is vastgesteld, toegezonden aan de beide kamers der Staten-Generaal. Hij treedt niet eerder in werking dan vier weken na de datum van uitgifte van het *Staatsblad* waarin hij is geplaatst. Een krachtens artikel 5.1, eerste lid, vastgestelde algemene maatregel van bestuur treedt in werking op een tijdstip dat, nadat vier weken na de toezending ervan aan de beide kamers der Staten-Generaal zijn verstreken, bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers der Staten-Generaal of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het in de algemene maatregel van bestuur geregelde onderwerp bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend en wordt de algemene maatregel van bestuur onverwijld ingetrokken.   
 6.  Hetgeen ingevolge deze wet bij algemene maatregel van bestuur kan worden geregeld, wordt in afwijking daarvan bij ministeriële regeling geregeld, indien de regels uitsluitend strekken ter uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, tenzij voor een juiste uitvoering wijziging van een algemene maatregel van bestuur of de wet noodzakelijk is. Indien wijziging van een algemene maatregel van bestuur noodzakelijk is, wordt daarvan, gelijktijdig met de voordracht aan Ons, gemotiveerd kennis gegeven aan de beide kamers der Staten-Generaal, onder vermelding van de korte inhoud van de voorgenomen algemene maatregel van bestuur. Het ontwerp van een ministeriële regeling als bedoeld in de eerste volzin wordt ten minste vier weken voordat de regeling wordt vastgesteld, toegezonden aan de beide kamers der Staten-Generaal. Op de vaststelling van een ministeriële regeling zijn het tweede en het derde lid van overeenkomstige toepassing.   
 7.  Het tweede tot en met vijfde lid en het zesde lid, tweede, derde en vierde volzin, gelden niet voor een algemene maatregel van bestuur krachtens artikel 8.40, voorzover deze uitsluitend betrekking heeft op inrichtingen die een krachtens [artikel 1 van de Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md) aangewezen mijnbouwwerk zijn. De voordracht voor een algemene maatregel van bestuur wordt Ons in dit geval gedaan door Onze Minister van Economische Zaken. Bij toepassing in dit geval van het zesde lid, eerste volzin, wordt de ministeriële regeling vastgesteld door Onze Minister van Economische Zaken.   
@@ -5121,7 +5241,7 @@ J. de Ruiter
 
 ####bij de Wet milieubeheer
 
-Wetten, als bedoeld in de artikelen 4.6, derde lid, 4.12, derde lid, en 4.19, derde lid, van de Wet milieubeheer:  [Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md)   [Waterleidingwet](../../../../wet/waterleidingwet/BWBR0002246/README.md)   [Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md)   [Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md)   [Boswet](../../../../wet/boswet/BWBR0002357/README.md)   [Wet gewasbeschermingsmiddelen en biociden](../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md)   [Ontgrondingenwet](../../../../wet/ontgrondingenwet/BWBR0002505/README.md)   [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md)   [Wet inzake de luchtverontreiniging](../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md)  Interimwet bodemsanering  [Wet voorkoming verontreiniging door schepen](../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md)   [Wet inrichting landelijk gebied](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md)   [Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md)   [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md)   [Wet implementatie EG-richtlijnen energie-efficiëntie](../../../../wet/wet/implementatie/eg-richtlijnen/energie-efficiëntie/BWBR0029672/README.md)   [Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md)  [Wet vervoer gevaarlijke stoffen](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) (*Stb.* 1995, 525)  [Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md)   [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)   [Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md)   [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md)   [Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md)  
+Wetten, als bedoeld in de artikelen 4.6, derde lid, 4.12, derde lid, en 4.19, derde lid, van de Wet milieubeheer:  [Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md)   [Drinkwaterwet](../../../../wet/drinkwaterwet/BWBR0026338/README.md)   [Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md)   [Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md)   [Boswet](../../../../wet/boswet/BWBR0002357/README.md)   [Wet gewasbeschermingsmiddelen en biociden](../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md)   [Ontgrondingenwet](../../../../wet/ontgrondingenwet/BWBR0002505/README.md)   [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md)   [Wet inzake de luchtverontreiniging](../../../../wet/wet/inzake/de/luchtverontreiniging/BWBR0002731/README.md)  Interimwet bodemsanering  [Wet voorkoming verontreiniging door schepen](../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md)   [Wet inrichting landelijk gebied](../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md)   [Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md)   [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md)   [Wet implementatie EG-richtlijnen energie-efficiëntie](../../../../wet/wet/implementatie/eg-richtlijnen/energie-efficiëntie/BWBR0029672/README.md)   [Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md)  [Wet vervoer gevaarlijke stoffen](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) (*Stb.* 1995, 525)  [Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md)   [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)   [Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md)   [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md)   [Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md)  
 
 ### Bijlage  2  
 
