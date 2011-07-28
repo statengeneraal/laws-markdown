@@ -12,13 +12,19 @@ Besluit:
 
 ####Benoeming
 
-Tot lid van de klachtadviescommissie, bedoeld in [artikel 23, eerste lid, van de Wet op het onderwijstoezicht](../../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md) – hierna te noemen: de klachtadviescommissie – worden voor de periode van 1 september 2008 tot 1 september 2012 benoemd: 
+Tot lid van de klachtadviescommissie, bedoeld in [artikel 23, eerste lid, van de Wet op het onderwijstoezicht](../../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md) worden benoemd: 
 
-a. De heer M. Sini;  
+a. de heer mr. P.H. Holthuis, voor de periode van 1 december 2011 tot en met 30 november 2015;  
 
-b. Mevrouw drs. G.W.M. Houben-van IJzendoorn;  
+b. mevrouw mr. I.M. Pieters, voor de periode van 1 augustus 2011 tot en met 31 juli 2015;  
 
-c. De heer W.C. Elsendoorn.    
+c. de heer E.W. de Jong, voor de periode van 1 februari 2009 tot en met 31 januari 2013;  
+
+d. de heer M. Sini, voor de periode van 1 september 2008 tot en met 31 augustus 2012;  
+
+e. mevrouw drs. G.W.M. Houben-van IJzendoorn, voor de periode van 1 september 2008 tot en met 31 augustus 2012;  
+
+f. de heer W.C. Elsendoorn, voor de periode van 1 september 2008 tot en met 31 augustus 2012.    
 
 ### Artikel  2  
 

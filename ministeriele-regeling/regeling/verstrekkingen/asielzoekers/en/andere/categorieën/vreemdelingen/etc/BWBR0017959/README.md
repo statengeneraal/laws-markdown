@@ -237,18 +237,18 @@ e. weigert deel te nemen aan programma’s gericht op het voorlichten, stimulere
 1.  De door de asielzoeker te ontvangen wekelijkse financiële toelage, bedoeld in artikel 9, eerste lid, aanhef en onder b, van deze regeling, bestaat uit een bedrag ten behoeve van voedsel en een bedrag ten behoeve van kleding en andere persoonlijke uitgaven.   
 2.  De hoogte van het bedrag ten behoeve van voedsel, bedoeld in het eerste lid, in de opvangvoorziening waarin de bewoners volledig zelf het eigen eten verzorgen, wordt berekend aan de hand van de volgende bedragen per persoon, per week: 
 
-a. bij een één- of tweepersoonshuishouden: volwassene: € 43,68, kind tot 18 jaar: € 33,39;  
+a. bij een één- of tweepersoonshuishouden: volwassene en alleenstaande minderjarige vreemdeling: € 43,68, kind tot 18 jaar: € 33,39;  
 
 b. bij een driepersoonshuishouden: volwassene: € 34,86, kind tot 18 jaar: € 26,67;  
 
-c. bij een vierpersoonshuishouden: volwassene: € 31,08, kind tot 18 jaar: € 23,80.     
+c. bij een huishouden van vier of meer personen: volwassene: € 31,08, kind tot 18 jaar: € 23,80.     
 3.  De hoogte van het bedrag ten behoeve van voedsel, bedoeld in het eerste lid, in de opvangvoorziening waarin de bewoners het ontbijt en een tweede maaltijd zelf verzorgen en niet de hoofdmaaltijd, wordt berekend aan de hand van het volgende bedrag per persoon, per week: 
 
-a. bij een één- of tweepersoonshuishouden: volwassene: € 20,30, kind tot 18 jaar: € 9,24;  
+a. bij een één- of tweepersoonshuishouden: volwassene en alleenstaande minderjarige vreemdeling: € 20,30, kind tot 18 jaar: € 9,24;  
 
 b. bij een driepersoonshuishouden: volwassene: € 16,17, kind tot 18 jaar: € 7,35;  
 
-c. bij een vierpersoonshuishouden: volwassene: € 14,42, kind tot 18 jaar: € 6,58.     
+c. bij een huishouden van vier of meer personen: volwassene: € 14,42, kind tot 18 jaar: € 6,58.     
 4.  De hoogte van het bedrag voor kleding en andere persoonlijke uitgaven, bedoeld in het eerste lid, is: € 12,95 per persoon, per week.   
 5.  De financiële toelage wordt iedere week bij vooruitbetaling op een door het COA vastgestelde tijd (en plaats) aan de asielzoeker beschikbaar gesteld.   
 6.  Geen financiële toelage wordt verstrekt aan een kind drie maanden nadat het recht op een uitkering op grond van de [Algemene Kinderbijslagwet](../../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) is ontstaan. De alleenstaande ouder maakt wel aanspraak op de alleenstaande oudertoeslag.   

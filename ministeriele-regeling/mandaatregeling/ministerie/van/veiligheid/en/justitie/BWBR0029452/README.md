@@ -63,7 +63,7 @@ e. de hoofden en directeuren van de in [artikel 2, onderdeel a, van de Organisa
 
 ### Artikel  5  
 
-Bij verhindering van de secretaris-generaal is de plaatsvervangend secretaris-generaal bevoegd. Indien ook deze verhinderd is, is een van de directeuren-generaal bevoegd, in volgorde van de datum van benoeming.  
+Bij verhindering van de secretaris-generaal is de plaatsvervangend secretaris-generaal bevoegd. Indien ook deze verhinderd is, is de directeur Wetgeving bevoegd. Indien ook deze verhinderd is, is een van de directeuren-generaal bevoegd, in volgorde van de datum van benoeming.  
 
 ### Artikel  6  
 
