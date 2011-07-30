@@ -270,47 +270,115 @@ c. derden ten behoeve van wie een persoon als bedoeld in onderdeel a of b kracht
 
 ### §  6.3  
 
-####Procedure uitkering
+####Procedure uitkering beleggerscompensatiestelsel
 
 ### Artikel  24  
 
-1.  De Nederlandsche Bank doet de mededeling in de Staatscourant, bedoeld in [artikel 3:260, derde lid, van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zo spoedig mogelijk na het nemen van het in het eerste lid van [dat artikel](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedoelde besluit tot toepassing van een vangnetregeling. Tevens doet de Nederlandsche Bank zo spoedig mogelijk nadat zij betalingsonmacht heeft vastgesteld mededeling door middel van advertenties in door haar te bepalen landelijke nieuwsbladen dat: 
+1.  De Nederlandsche Bank doet de mededeling, bedoeld in [artikel 3:260, derde lid, van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), in de Staatscourant zo spoedig mogelijk na het nemen van het in het eerste lid van dat artikel bedoelde besluit tot het in werking stellen van het beleggerscompensatiestelsel.   
+2.  Tevens doet de Nederlandsche Bank zo spoedig mogelijk nadat zij betalingsonmacht heeft vastgesteld mededeling door middel van advertenties in door haar te bepalen landelijke nieuwsbladen dat: 
 
-a. zij het beleggerscompensatiestelsel, bedoeld in [artikel 3:259, eerste lid, van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of het depositogarantiestelsel, bedoeld in [artikel 3:259, tweede lid van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in werking heeft gesteld; en  
+a. zij het beleggerscompensatiestelsel, bedoeld in [artikel 3:259, eerste lid, van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), in werking geeft gesteld; en  
 
-b. de personen, bedoeld in artikel 9 onderscheidenlijk artikel 19, binnen vijf maanden na de datum van de bekendmaking in de Staatscourant met gebruikmaking van een daartoe door de Nederlandsche Bank vast te stellen formulier een aanvraag tot vergoeding van de in artikel 10 onderscheidenlijk artikel 20 bedoelde vorderingen bij haar kunnen indienen.     
-2.  De Nederlandsche Bank verzoekt de bewindvoerders of curatoren van de betalingsonmachtige financiële onderneming om in hun correspondentie met de personen, bedoeld in het eerste lid te wijzen op het in werking stellen van het beleggerscompensatiestelsel en op de termijn voor indiening van een aanvraag als bedoeld in het eerste lid, onderdeel b.   
-3.  De Nederlandsche Bank neemt aanvragen die na het verstrijken van de termijn, bedoeld in het eerste lid, onderdeel b, zijn ingediend niet in behandeling, tenzij redelijkerwijs niet kan worden geoordeeld dat de aanvrager in verzuim is.   
+b. de personen, bedoeld in artikel 9, binnen vijf maanden na de datum van de bekendmaking in de Staatscourant met gebruikmaking van een daartoe door de Nederlandsche Bank vast te stellen formulier een aanvraag tot vergoeding van de in artikel 10 bedoelde vorderingen bij haar kunnen indienen.     
+3.  De Nederlandsche Bank verzoekt de bewindvoerders of curatoren van de betalingsonmachtige financiële onderneming om in hun correspondentie met de personen, bedoeld in artikel 9, te wijzen op het in werking stellen van het beleggerscompensatiestelsel.   
+4.  De Nederlandsche Bank neemt aanvragen die na het verstrijken van de termijn, bedoeld in het tweede lid, onderdeel b, zijn ingediend niet in behandeling, tenzij redelijkerwijs niet kan worden geoordeeld dat de aanvrager in verzuim is.   
 
 ### Artikel  25  
 
-1.  De Nederlandsche Bank stelt het bestaan en de waarde van de ingediende vorderingen vast aan de hand van de op de vorderingen toepasselijke wettelijke bepalingen en contractuele voorwaarden, de boekhouding van de betalingsonmachtige financiële onderneming en eventuele andere relevante documenten.   
+1.  De Nederlandsche Bank stelt het bestaan en de waarde van de ingediende en ingevolge artikel 10 voor vergoeding in aanmerking komende vorderingen vast aan de hand van de op de vorderingen toepasselijke wettelijke bepalingen en contractuele voorwaarden, de administratie van de betalingsonmachtige financiële onderneming en eventuele andere relevante documenten.   
 2.  De Nederlandsche Bank baseert zich bij de waardevaststelling van vorderingen die in vreemde valuta luiden op de referentiekoersen van de Europese Centrale Bank zoals deze golden op de dag waarop de Nederlandsche Bank de betalingsonmacht constateerde.   
 
 ### Artikel  26  
 
-1.  Vorderingen als bedoeld in artikel 10, eerste lid, aanhef en onderdeel a, of artikel 20, eerste lid, die door de Nederlandsche Bank zijn vastgesteld, worden voldaan in de vorm van terugbetaling tot het in het vierde lid genoemde maximum.   
+1.  Vorderingen als bedoeld in artikel 10, eerste lid, aanhef en onderdeel a, die door de Nederlandsche Bank zijn vastgesteld, worden voldaan in de vorm van terugbetaling tot het in het vierde lid genoemde maximum.   
 2.  Vorderingen als bedoeld in artikel 10, eerste lid, onderdeel b, die door de Nederlandsche Bank zijn vastgesteld, worden voorzover mogelijk voldaan door het teruggeven van de in artikel 10, eerste lid, onderdeel b, genoemde financiële instrumenten. Indien dit niet mogelijk is, wordt de vordering in geld voldaan tot het in het vierde lid genoemde maximum. In het laatste geval wordt de waarde van de vordering, tenzij wettelijk of contractueel anders is bepaald, vastgesteld op de marktwaarde van de financiële instrumenten op het tijdstip waarop de Nederlandsche Bank de betalingsonmacht bij de financiële onderneming constateerde.   
 3.  Bij het vaststellen van de waarde van een vastgestelde vordering houdt de Nederlandsche Bank rekening met mogelijke bevoegdheden om die vordering en andere vorderingen onderling op grond van de [wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of overeenkomst te verrekenen.   
-4.  Voor voldoening komen in aanmerking vorderingen tot maximaal € 20.000 per persoon als bedoeld in artikel 9 per betalingsonmachtige financiële onderneming en vorderingen tot maximaal € 100.000 per persoon als bedoeld in artikel 19 per betalingsonmachtige financiële onderneming.   
-5.  Tenzij contractueel is bepaald dat de personen, bedoeld in artikel 9, onderdeel b, of 19, onderdeel b, in een andere verhouding gerechtigd zijn tot de vorderingen, ontvangen zij ieder een vergoeding ter grootte van een evenredig deel van het totaal van de vastgestelde vorderingen met inachtneming van hetgeen in het tweede lid is bepaald.   
-6.  Is er meer dan een derde als bedoeld in artikel 9, onderdeel c, of 19, onderdeel c, dan wordt het aandeel van elk van hen en de vergoeding als bedoeld in het tweede lid aan elk van hen berekend op de voet van het vijfde lid van dit artikel.   
+4.  Voor voldoening komen in aanmerking vorderingen tot maximaal € 20.000 per persoon als bedoeld in artikel 9 per betalingsonmachtige financiële onderneming.   
+5.  Tenzij contractueel is bepaald dat de personen, bedoeld in artikel 9, onderdeel b, in een andere verhouding gerechtigd zijn tot de vorderingen, ontvangen zij ieder een vergoeding ter grootte van een evenredig deel van het totaal van de vastgestelde vorderingen met inachtneming van hetgeen in het tweede lid is bepaald.   
+6.  Is er meer dan een derde als bedoeld in artikel 9, onderdeel c, dan wordt het aandeel van elk van hen en de vergoeding als bedoeld in het tweede lid aan elk van hen berekend op de voet van het vijfde lid van dit artikel.   
 7.  Onze Minister kan besluiten dat, in afwijking van het vierde lid, andere maxima gelden voor de voor voldoening in aanmerking komende vorderingen. Onze Minister maakt het besluit daartoe bekend in de Staatscourant.   
 
 ### Artikel  27  
 
-1.  De Nederlandsche Bank betaalt zo spoedig mogelijk, doch in elk geval binnen drie maanden na het tijdstip waarop de aanvrager de aanvraag heeft ingediend, het op grond van artikel 25 vastgestelde bedrag aan die aanvrager.   
+1.  In geval van een vergoeding op grond van het beleggerscompensatiestelsel betaalt de Nederlandsche Bank zo spoedig mogelijk, doch in elk geval binnen drie maanden nadat een van de volgende tijdstippen zich als eerste heeft voorgedaan: 
+
+a. het tijdstip waarop de Nederlandsche Bank de beleggerscompensatieregeling in werking heeft gesteld ingevolge [artikel 3:260, eerste lid, aanhef en onderdeel a](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+b. het tijdstip waarop de rechtbank de noodregeling heeft uitgesproken;  
+
+c. het tijdstip waarop de rechtbank het faillissement heeft uitgesproken.     
 2.  De betaling vindt plaats op een door de aanvrager aangewezen rekening bij een bank met zetel in een lidstaat of bij een in een lidstaat gelegen bijkantoor van een bank met zetel in een staat die geen lidstaat is.   
 3.  De betaling vindt slechts plaats indien de aanvrager eventuele rechten tot teruggave of terugbetaling van financiële instrumenten jegens derden tot de hoogte van het uitbetaalde bedrag overdraagt aan de Nederlandsche Bank.   
 
 ### Artikel  28  
 
-Indien een aanvrager strafrechtelijk wordt vervolgd ter zake van een misdrijf dat voortvloeit uit of verband houdt met het witwassen van geld kan de Nederlandsche Bank de termijnen, bedoeld in het eerste lid en in artikel 27, tweede lid, opschorten. Deze opschorting eindigt zodra de vervolging is beëindigd of de beslissing van de bevoegde rechterlijke instantie onherroepelijk is.  
+Indien een aanvrager strafrechtelijk wordt vervolgd ter zake van een misdrijf dat voortvloeit uit of verband houdt met het witwassen van geld kan de Nederlandsche Bank de termijnen, bedoeld in artikel 27, eerste lid, opschorten. Deze opschorting eindigt zodra de vervolging is beëindigd of de beslissing van de bevoegde rechterlijke instantie onherroepelijk is.  
 
 ### Artikel  29  
 
 1.  De Nederlandsche Bank verhaalt, voorzover mogelijk, de aan haar ingevolge artikel 27,derde lid, overgedragen vorderingen of de rechten waarin zij overeenkomstig [artikel 3:261, derde lid, van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is getreden, op de betalingsonmachtige financiële onderneming.   
-2.  De baten die door de Nederlandsche Bank worden ontvangen ingevolge het in het eerste lid bedoelde verhaal, worden door haar uitgekeerd aan de financiële ondernemingen die op grond van de artikelen 11, 13 of 21 een bijdrage hebben gedaan. Bij de uitkering zal het vastgestelde omslagpercentage worden gebruikt.   
+2.  De baten die door de Nederlandsche Bank worden ontvangen ingevolge het in het eerste lid bedoelde verhaal, worden door haar uitgekeerd aan de financiële ondernemingen die op grond van de artikelen 11 en 13 een bijdrage hebben gedaan. Bij de uitkering zal het vastgestelde omslagpercentage worden gebruikt.   
+
+### §  6.3a  
+
+####Procedure uitkering depositogarantiestelsel
+
+### Artikel  29.01  
+
+1.  De Nederlandsche Bank doet de mededeling, bedoeld in [artikel 3:260, derde lid, van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), in de Staatscourant zo spoedig mogelijk na het nemen van het in het eerste lid van dat artikel bedoelde besluit tot het in werking stellen van het depositogarantiestelsel.   
+2.  Tevens doet de Nederlandsche Bank zo spoedig mogelijk nadat zij betalingsonmacht heeft vastgesteld mededeling door middel van advertenties in door haar te bepalen landelijke nieuwsbladen dat: 
+
+a. zij het depositogarantiestelsel, bedoeld in [artikel 3:259, tweede lid, van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), in werking heeft gesteld;  
+
+b. de personen, bedoeld in artikel 19, gedurende drie maanden na de datum van de bekendmaking in de Staatscourant 
+
+1° kunnen inloggen op een internetfaciliteit van de Nederlandsche Bank om de Nederlandsche Bank het nummer en de tenaamstelling van de rekening waarnaar de overboeking van de vergoeding zal worden uitgevoerd, de bank waarbij de rekening wordt aangehouden, alsmede hun elektronische adres mede te delen en te bewerkstelligen dat de in het besluit vastgestelde waarde van de vordering wordt overgemaakt naar die rekening; of  
+
+2° de Nederlandsche Bank schriftelijk het nummer en de tenaamstelling van de rekening waarnaar de overboeking van de vergoeding zal worden uitgevoerd, en de bank waarbij de rekening wordt aangehouden, kunnen mededelen; en    
+
+c. het waarschijnlijk is dat degenen die verzoeken hun aanspraken schriftelijk af te handelen later over de vergoeding zullen kunnen beschikken dan degenen die gebruik maken van de mogelijkheid, bedoeld in onderdeel b, onder 1°, om in te loggen.     
+3.  De Nederlandsche Bank verzoekt de bewindvoerders of curatoren van de betalingsonmachtige financiële onderneming om in hun correspondentie met de personen, bedoeld in artikel 19, te wijzen op het in werking stellen van het depositogarantiestelsel.   
+
+### Artikel  29.02  
+
+1.  De Nederlandsche Bank stelt vast wie de depositohouders zijn, alsmede het bestaan en de hoogte van de ingevolge artikel 20 voor vergoeding in aanmerking komende vorderingen, aan de hand van de op de vorderingen toepasselijke wettelijke bepalingen en contractuele voorwaarden, de administratie van de betalingsonmachtige bank en eventuele andere relevante documenten.   
+2.  De Nederlandsche Bank baseert zich bij de waardevaststelling van deposito’s in vreemde valuta op de referentiekoersen van de Europese Centrale Bank zoals deze golden op de dag waarop de Nederlandsche Bank de betalingsonmacht constateerde.   
+
+### Artikel  29.03  
+
+1.  Vorderingen als bedoeld in artikel 20, eerste lid, die door de Nederlandsche Bank zijn vastgesteld, worden voldaan in de vorm van terugbetaling tot het in het vierde lid genoemde maximum.   
+2.  Voor voldoening komen in aanmerking vorderingen tot maximaal € 100.000 per persoon als bedoeld in artikel 19 per betalingsonmachtige onderneming.   
+3.  Tenzij contractueel is bepaald dat de personen, bedoeld in artikel 19, onderdeel b, in een andere verhouding gerechtigd zijn tot de vorderingen, ontvangen zij ieder een vergoeding ter grootte van een evenredig deel van het totaal van de vastgestelde vorderingen.   
+4.  Is er meer dan een derde als bedoeld in artikel 19, onderdeel c, dan wordt het aandeel van elk van hen berekend op de voet van het vierde lid van dit artikel.   
+
+### Artikel  29.04  
+
+In afwijking van [artikel 3:41, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geschiedt voor een persoon als bedoeld in artikel 19, die overeenkomstig artikel 29.01, eerste lid, onderdeel b, onder 1°, heeft ingelogd de bekendmaking van een besluit tot vaststelling van de waarde van de vordering door middel van publicatie door de Nederlandsche Bank op een internetfaciliteit waarop de desbetreffende persoon heeft ingelogd.  
+
+### Artikel  29.05  
+
+1.  De Nederlandsche Bank is zo spoedig mogelijk in staat, doch in elk geval binnen twintig werkdagen nadat een van de volgende tijdstippen zich als eerste heeft voorgedaan tot het honoreren van aanspraken van personen als bedoeld in artikel 19: 
+
+a. het tijdstip waarop de Nederlandsche Bank de depositogarantieregeling in werking heeft gesteld ingevolge [artikel 3:260, eerste lid, aanhef en onderdeel a, van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+b. het tijdstip waarop de rechtbank de noodregeling heeft uitgesproken;  
+
+c. het tijdstip waarop de rechtbank het faillissement heeft uitgesproken.     
+2.  De Nederlandsche Bank kan in zeer uitzonderlijke gevallen deze termijn ten hoogste een keer verlengen met ten hoogste tien werkdagen. Nog toelichten   
+
+### Artikel  29.06  
+
+1.  De in artikel 19 bedoelde personen kunnen gedurende drie maanden na de mededeling, bedoeld in [artikel 3:260, derde lid, van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), in de Staatscourant, inloggen op een internetfaciliteit van de Nederlandsche Bank om aan de Nederlandsche Bank het nummer en de tenaamstelling van de rekening waarnaar de overboeking van de vergoeding zal worden uitgevoerd, de bank waarbij de rekening wordt aangehouden, alsmede hun elektronische adres mede te delen en opdracht te geven de in het besluit vastgestelde waarde van de vordering over te maken naar die rekening.   
+2.  De in artikel 19 bedoelde personen verklaren tevens dat zij geen gebruik hebben gemaakt, maken of zullen maken van hun bevoegdheden om hun vordering, voor zover deze voor een vergoeding op grond van artikel 9 of 20 in aanmerking komt, te verrekenen. Bij gebreke van een dergelijke verklaring wordt de opdracht om de in het besluit vastgestelde waarde van de vordering over te maken naar de door de in artikel 19 bedoelde personen opgegeven rekening niet uitgevoerd.   
+
+### Artikel  29.07  
+
+Indien een persoon als bedoeld in artikel 19 wordt vervolgd ter zake van een misdrijf dat voortvloeit uit of verband houdt met het witwassen van geld kan de Nederlandsche Bank de termijnen, bedoeld in artikel 29.06 opschorten. Deze opschorting eindigt zodra de vervolging is beëindigd of de beslissing van de bevoegde rechterlijke instantie onherroepelijk is.  
+
+### Artikel  29.08  
+
+1.  De Nederlandsche Bank verhaalt, voor zover mogelijk, de rechten waarin zij overeenkomstig [artikel 3:261, derde lid, van de wet](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is getreden, op de betalingsonmachtige financiële onderneming.   
+2.  De baten die door de Nederlandsche Bank worden ontvangen ingevolge het in het eerste lid bedoelde verhaal, worden door haar uitgekeerd aan de financiële ondernemingen die op grond van artikel 21 een bijdrage hebben gedaan. Bij de uitkering zal het vastgestelde omslagpercentage worden gebruikt.   
 
 ### §  6.4  
 

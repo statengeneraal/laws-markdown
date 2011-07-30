@@ -55,7 +55,7 @@ b. de laatst opgemaakte jaarrekening dan wel de balans en de staat van kosten en
 
 1.  Indien de aanvraag van de subsidie voor aanvang van het studiejaar is ontvangen, verleent de minister bij het besluit tot verlening van de subsidie ambtshalve tevens een voorschot.   
 2.  Het voorschot wordt bepaald aan de hand het aantal instromers en gediplomeerden in het voorafgaande studiejaar bij de instelling zoals opgenomen in de registratie van de CZO op 31 augustus na het voorafgaande studiejaar.   
-3.  Voor het verlenen van voorschotten is per studiejaar een budget beschikbaar van € 46.500.000.   
+3.  Voor het verlenen van voorschotten is voor het studiejaar 2011/2012 € 47.788.000, voor het studiejaar 2012/2013 € 48.830.000 en vanaf het studiejaar 2013/2014 € 49.872.000 beschikbaar.   
 4.  Artikel 7, derde lid, onderdelen a, b en c, zijn van overeenkomstige toepassing op de verdeling van het budget voor het verlenen van voorschotten.   
 
 ### Artikel  6  
@@ -77,7 +77,7 @@ e. de voor de uitvoering van de zorgopleidingen benodigde middelen op verantwoor
 
 1.  De minister besluit binnen dertien weken na afloop van het studiejaar ambtshalve over de vaststelling van een verleende subsidie.   
 2.  De subsidie wordt vastgesteld aan de hand van het aantal instromers en gediplomeerden in het studiejaar bij de instelling zoals opgenomen in de registratie van de CZO op 31 augustus na het studiejaar.   
-3.  Voor het vaststellen van subsidies is per studiejaar een budget beschikbaar van € 111.700.000 dat als volgt wordt verdeeld: 
+3.  Voor het vaststellen van subsidies is een budget beschikbaar van € 67.006.000 voor het studiejaar 2010/2011, van € 116.252.000 voor het studiejaar 2011/2012, van € 118.752.000 voor het studiejaar 2012/2013 en van € 119.794.000 vanaf het studiejaar 2013/2014. Het budget wordt als volgt verdeeld: 
 
 a. 82% van het budget wordt zodanig verdeeld naar het aantal gediplomeerden bij instellingen waaraan subsidie is verleend dat het subsidiebedrag per gediplomeerde een gelijk percentage, doch niet meer dan 100%, is van het maximale subsidiebedrag per gediplomeerde dat in bijlage is genoemd bij de desbetreffende ziekenhuisopleiding;  
 
@@ -109,7 +109,7 @@ c. ten behoeve van het opstellen van landelijke en regionale ramingen van zieken
 1.  In afwijking van artikel 3, derde lid, wordt de aanvraag van de subsidie ten behoeve van het studiejaar 2010/2011 uiterlijk 31 mei 2011 ontvangen.   
 2.  In afwijking van artikel 4, eerste lid, besluit de minister uiterlijk 30 juni 2011 op de aanvraag van de subsidie ten behoeve van het studiejaar 2010/2011.   
 3.  Ten behoeve van het studiejaar 2010/2011 wordt geen voorschot verstrekt.   
-4.  In afwijking van artikel 7, derde lid, is voor het vaststellen van subsidies ten behoeve van het studiejaar 2010/2011 het beschikbare budget € 65.200.000 en bedraagt het subsidiebedrag per gediplomeerde of instromer niet meer dan zeventwaalfde deel van het desbetreffende maximale subsidiebedrag.   
+4.  In afwijking van artikel 7, derde lid, bedraagt het subsidiebedrag per gediplomeerde of instromer niet meer dan zeventwaalfde deel van het desbetreffende maximale subsidiebedrag.   
 
 ### Artikel  10  
 
@@ -132,17 +132,17 @@ E.I.Schippers
 
 | Ziekenhuisopleiding  | Maximale subsidie per instromer  | Maximale subsidie per gediplomeerde  |
 |:---|:---|:---|
-| IC-verpleegkundige  | –  | € 65.000  |
-| IC-neonatologie verpleegkundige  | –  | € 40.000  |
-| IC-kinderverpleegkundige  | –  | € 40.000  |
-| kinderverpleegkundige  | –  | € 35.000  |
-| dialyseverpleegkundige  | –  | € 50.000  |
-| oncologieverpleegkundige  | –  | € 40.000  |
-| SEH-verpleegkundige  | –  | € 40.000  |
-| obstetrieverpleegkundige  | –  | € 40.000  |
-| operatieassistent  | € 44.000  | € 88.000  |
-| anesthesiemedewerker  | € 44.000  | € 88.000  |
-| radiodiagnostisch laborant  | € 33.000  | € 66.000  |
-| radiotherapeutisch laborant  | € 33.000  | € 66.000  |
-| klinisch perfusionist  | € 44.000  | € 88.000  |
+| IC-verpleegkundige  | –  | € 66.800  |
+| IC-neonatologie verpleegkundige  | –  | € 41.100  |
+| IC-kinderverpleegkundige  | –  | € 41.100  |
+| kinderverpleegkundige  | –  | € 36.000  |
+| dialyseverpleegkundige  | –  | € 51.400  |
+| oncologieverpleegkundige  | –  | € 41.100  |
+| SEH-verpleegkundige  | –  | € 41.100  |
+| obstetrieverpleegkundige  | –  | € 41.100  |
+| operatieassistent  | € 45.200  | € 90.400  |
+| anesthesiemedewerker  | € 45.200  | € 90.400  |
+| radiodiagnostisch laborant  | € 33.900  | € 67.800  |
+| radiotherapeutisch laborant  | € 33.900  | € 67.800  |
+| klinisch perfusionist  | € 45.200  | € 90.400  |
 
