@@ -25,7 +25,9 @@ a.  dit onderdeel is nog niet in werking getreden;
 
 b.  dit onderdeel is nog niet in werking getreden;   
 
-c.  dit onderdeel is nog niet in werking getreden.     
+c.  dit onderdeel is nog niet in werking getreden.   
+
+d. € 0,02 per varken ten behoeve van de rekening-IV-Ziekte van Aujeszky.    
 
 ### Artikel  3  
 
