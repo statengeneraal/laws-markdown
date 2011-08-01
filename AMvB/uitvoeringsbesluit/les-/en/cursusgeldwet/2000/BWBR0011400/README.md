@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepalingen
 
-In dit besluit wordt verstaan onder: *cursist*: degene die een opleiding volgt als bedoeld in artikel 15, eerste lid, *cursusgeld:* krachtens artikel 15 vastgesteld bedrag, *cursusgeldplichtige*: cursist of indien deze minderjarig is, de wettelijke vertegenwoordiger, *lesgeld*: krachtens [artikel 5, tweede lid, van de wet](../../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md) voor het desbetreffende schooljaar vastgestelde bedrag, *lesgeldplichtige*: degene die krachtens de wet lesgeld is verschuldigd, *schooljaar*: tijdvak van 1 augustus tot en met 31 juli daaropvolgend, *teldatum*: bij of krachtens de [Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de [Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of de [Experimentenwet onderwijs](../../../../../../../wet/experimentenwet/onderwijs/BWBR0002718/README.md) aangewezen tijdstip in het schooljaar waarop ten behoeve van de bekostiging uit 's Rijks kas het aantal leerlingen van een dagschool wordt vastgesteld, *wet*: [Les- en cursusgeldwet](../../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md).  
+In dit besluit wordt verstaan onder: *cursist*: degene die een opleiding volgt als bedoeld in artikel 15, eerste lid, *cursusgeld:* krachtens artikel 15 vastgesteld bedrag, *cursusgeldplichtige*: cursist of indien deze minderjarig is, de wettelijke vertegenwoordiger, *lesgeld*: krachtens [artikel 5, tweede lid, van de wet](../../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md) voor het desbetreffende schooljaar vastgestelde bedrag, *lesgeldplichtige*: degene die krachtens de wet lesgeld is verschuldigd, *onderwijsovereenkomst:* onderwijsovereenkomst, bedoeld in [artikel 8.1.3 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), *schooljaar*: tijdvak van 1 augustus tot en met 31 juli daaropvolgend, *teldatum*: bij of krachtens de [Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de [Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of de [Experimentenwet onderwijs](../../../../../../../wet/experimentenwet/onderwijs/BWBR0002718/README.md) aangewezen tijdstip in het schooljaar waarop ten behoeve van de bekostiging uit 's Rijks kas het aantal leerlingen van een dagschool wordt vastgesteld, *wet*: [Les- en cursusgeldwet](../../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md).  
 
 ### Hoofdstuk  2  
 
@@ -30,27 +30,15 @@ In dit besluit wordt verstaan onder: *cursist*: degene die een opleiding volgt a
 
 ####Procedure inschrijving bij een dagschool
 
-1.  Een aanvraag tot inschrijving van een leerling bij een dagschool kan uitsluitend worden gedaan door inlevering bij de dagschool van een onderwijskaart. Deze kaart wordt ingevuld en ondertekend door de leerling. Door ondertekening van de kaart verklaart de aanvrager dat hij bekend is met de wettelijke verplichting tot het betalen van lesgeld.   
+1.  Het bevoegd gezag schrijft een leerling in voor een opleiding na ondertekening van een onderwijsovereenkomst. In de onderwijsovereenkomst verklaart de leerling zich bekend met de verplichting tot het betalen van lesgeld op grond van de wet.   
 2.  De lesgeldplicht gaat in op de eerste dag van het desbetreffende schooljaar of, indien de leerling in de loop van het schooljaar wordt ingeschreven, op de datum van inschrijving.   
-3.  Inschrijving geschiedt door of namens het bevoegd gezag. Na medeondertekening door of namens het bevoegd gezag geldt de onderwijskaart als bewijs van inschrijving.   
-4.  De onderwijskaart wordt door Onze minister verstrekt. De vragen die de onderwijskaart bevat, worden bij ministeriële regeling bepaald. In ieder geval bevat de kaart: 
-
-a. de naam en het adres van de leerling, en  
-
-b. het nummer waaronder de leerling bij Onze minister is geregistreerd.     
+3.  Inschrijving geschiedt door of namens het bevoegd gezag. Na medeondertekening door of namens het bevoegd gezag geldt de onderwijsovereenkomst als bewijs van inschrijving.   
 
 ### Artikel  3  
 
 ####Beëindiging inschrijving
 
-1.  Het bevoegd gezag beëindigt de inschrijving van de leerling op zijn aanvraag of zodra de leerling de opleiding met goed gevolg heeft afgesloten. Het bevoegd gezag verstrekt een bewijs van uitschrijving aan de leerling.   
-2.  Het bewijs van uitschrijving bevat bij ministeriële regeling te bepalen gegevens. In ieder geval bevat het bewijs van uitschrijving: 
-
-a. de naam van de leerling,  
-
-b. het nummer waaronder de leerling bij Onze minister is geregistreerd, en  
-
-c. de datum waarop de inschrijving is beëindigd.     
+Het bevoegd gezag beëindigt de inschrijving van de leerling op zijn aanvraag of zodra de leerling de opleiding met goed gevolg heeft afgesloten.  
 
 ### Artikel  4  
 
@@ -187,7 +175,7 @@ b. in verband met de inschrijving bij een dagschool, mits die inschrijving plaat
 c. wegens overlijden of ernstige ziekte van de cursist, ter beoordeling van het bevoegd gezag, of  
 
 d. wegens bij ministeriële regeling te bepalen bijzondere familieomstandigheden.     
-3.  In afwijking van het tweede lid kan teruggave van cursusgeld plaatsvinden op grond van door het bevoegd gezag opgestelde bepalingen als bedoeld in [artikel 8.1.3, derde lid, onder h, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
+3.  In afwijking van het tweede lid kan teruggave van cursusgeld plaatsvinden op grond van door het bevoegd gezag opgestelde bepalingen als bedoeld in [artikel 8.1.3, derde lid, onder e, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
 4.  Een aanvraag om teruggave van cursusgeld wordt voor het einde van dat cursusjaar gedaan bij het bevoegd gezag.   
 5.  Indien de inschrijving wordt beëindigd wegens het met goed gevolg hebben afgerond van de opleiding, wordt het cursusgeld voor het desbetreffende cursusjaar op aanvraag van de cursusgeldplichtige terugbetaald met een tiende deel voor iedere in het cursusjaar resterende maand waarin de cursist niet langer zal zijn ingeschreven. De laatste twee maanden van het cursusjaar tellen daarbij niet mee.   
 
@@ -197,15 +185,15 @@ d. wegens bij ministeriële regeling te bepalen bijzondere familieomstandigheden
 
 1.  Het cursusgeldtarief voor de volgende categorieën cursussen bedraagt naar de maatstaf van 1 augustus 2006: 
 
-a. opleidingen beroepsonderwijs voor zover het betreft de assistent-opleiding en de basisberoepsopleiding: € 199,71 per 1 april 2010: € 213 per cursusjaar,  
+a. opleidingen beroepsonderwijs voor zover het betreft de assistent-opleiding en de basisberoepsopleiding: € 199,71 per 1 augustus 2011: € 216 per cursusjaar,  
 
-b. opleidingen beroepsonderwijs voor zover het betreft de vakopleiding, de middenkaderopleiding en de specialistenopleiding: € 485,60 per 1 april 2010: € 517 per cursusjaar,  
+b. opleidingen beroepsonderwijs voor zover het betreft de vakopleiding, de middenkaderopleiding en de specialistenopleiding: € 485,60 per 1 augustus 2011: € 524 per cursusjaar,  
 
-c. opleidingen voortgezet algemeen volwassenenonderwijs, gericht op het behalen van een diploma als bedoeld in de [artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), of onderdelen van dat diploma: € 0,62 per 1 april 2010: € 0,67 voor elke 45 minuten onderwijs, berekend op basis van het normatieve aantal minuten onderwijs per jaar van de opleiding waarvoor inschrijving heeft plaatsgevonden,  
+c. opleidingen voortgezet algemeen volwassenenonderwijs, gericht op het behalen van een diploma als bedoeld in de [artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), of onderdelen van dat diploma: € 0,62 per 1 augustus 2011: € 0,68 voor elke 45 minuten onderwijs, berekend op basis van het normatieve aantal minuten onderwijs per jaar van de opleiding waarvoor inschrijving heeft plaatsgevonden,  
 
-d. opleidingen Nederlands als tweede taal als bedoeld in [artikel 7.3.1, eerste lid, onder c, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor zover het betreft Nederlands als tweede taal I: € 270 per 1 april 2010: € 287 per cursusjaar, en  
+d. opleidingen Nederlands als tweede taal als bedoeld in [artikel 7.3.1, eerste lid, onder c, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor zover het betreft Nederlands als tweede taal I: € 270 per 1 augustus 2011: € 291 per cursusjaar, en  
 
-e. opleidingen Nederlands als tweede taal als bedoeld in [artikel 7.3.1, eerste lid, onder c, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor zover het betreft Nederlands als tweede taal II: € 485,60 per 1 april 2010: € 517 per cursusjaar.     
+e. opleidingen Nederlands als tweede taal als bedoeld in [artikel 7.3.1, eerste lid, onder c, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor zover het betreft Nederlands als tweede taal II: € 485,60 per 1 augustus 2011: € 524 per cursusjaar.     
 2.  De cursusgeldtarieven worden jaarlijks bij ministeriële regeling vastgesteld aan de hand van de consumentenprijsindex. De tarieven, met uitzondering van het in het eerste lid, onder c, bedoelde tarief, worden afgerond op het naastbij gelegen gehele getal. De ministeriële regeling wordt uiterlijk 31 maart voorafgaande aan het cursusjaar waarop de herziening van het cursusgeldtarief betrekking heeft, bekend gemaakt.   
 3.  Bij ministeriële regeling wordt bepaald wat onder de consumentenprijsindex wordt verstaan.   
 

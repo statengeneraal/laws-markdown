@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
+1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
 a. Onze Minister: Onze Minister van Economische Zaken;  
 
@@ -50,7 +50,8 @@ p. liggingsgegevens: de gegevens omtrent de ligging van een net binnen de betrok
 
 q. net met gevaarlijke inhoud: een buisleiding die behoort tot een krachtens [artikel 12.12, tweede lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) aangewezen categorie;  
 
-r. gebiedsinformatie: het geheel van informatie dat door beheerders, ingevolge artikel 10, eerste lid, aan de Dienst is verstrekt over de betrokken oriëntatiepolygoon dan wel graafpolygoon.    
+r. gebiedsinformatie: het geheel van informatie dat door beheerders, ingevolge artikel 10, eerste lid, aan de Dienst is verstrekt over de betrokken oriëntatiepolygoon dan wel graafpolygoon.     
+2.  Onder net als bedoeld in het eerste lid, onderdeel e, wordt niet begrepen de niet met andere kabels of leidingen samengebonden delen van kabels of leidingen die een verbinding vormen tussen een net dat naar zijn aard voor aansluiting van huishoudens wordt opengesteld, en één onroerende zaak als bedoeld in [artikel 16, onderdeel a tot en met e, van de Wet waardering onroerende zaken](../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md).   
 
 ### Hoofdstuk  2  
 
@@ -144,11 +145,7 @@ d. zijn contactgegevens.
 
 ### Artikel  12  
 
-Indien het oriëntatieverzoek of de graafmelding betrekking heeft op grond die in beheer is bij Onze Minister van Defensie: 
-
-a. verstrekt Onze Minister van Defensie, in afwijking van artikel 10, geen liggingsgegevens over netten die hij beheert aan de Dienst;  
-
-b. verstrekt de Dienst, indien Onze Minister van Defensie niet de grondroerder is, de gebiedsinformatie onverwijld aan Onze Minister van Defensie, die deze gebiedsinformatie, samen met relevante liggingsgegevens over netten waarvan Onze Minister van Defensie beheerder is, onverwijld verstrekt aan de grondroerder.    
+Onze Minister kan voor de situatie dat graafmeldingen die betrekking hebben op graafwerkzaamheden als bedoeld in artikel 8, derde lid, gezamenlijk worden gedaan door tussenkomst van een door Onze Minister aan te wijzen organisatie, bij regeling vrijstelling verlenen van de verplichtingen ten aanzien van de termijnen, bepaald in de artikelen 8, eerste lid, 9, 10, eerste lid, en 11, eerste lid. De vrijstelling kan onder beperkingen worden verleend.  
 
 ### Artikel  13  
 
@@ -224,9 +221,7 @@ d. de ontvangstbevestiging, bedoeld in artikel 9, onderdeel a, en het graafberic
 
 a. meldingen als bedoeld in de artikelen 15, eerste lid, 17, eerste lid, en 18, eerste en derde lid;  
 
-b. de uniforme topografische basiskaart, bedoeld in artikel 1, onderdeel p;  
-
-c. het bewaren en verstrekken van de informatie, bedoeld in artikel 20.     
+b. het bewaren en verstrekken van de informatie, bedoeld in artikel 20.     
 
 ### Artikel  22  
 
@@ -294,8 +289,7 @@ Deze wet laat onverlet dat de gemeenteraad in het belang van de openbare orde en
 
 ### Artikel  45  
 
-1.  Binnen drie maanden na inwerkingtreding van artikel 6, eerste lid, geeft een beheerder zijn beheerpolygoon of beheerpolygonen aan de Dienst op.   
-2.  In afwijking van artikel 10 is een beheerder gedurende acht jaar na inwerkingtreding van artikel 6, eerste lid, niet verplicht om liggingsgegevens van netten die een verbinding vormen tussen een net en een onroerende zaak als bedoeld in [artikel 16, onderdeel a tot en met e, van de Wet waardering onroerende zaken](../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), aan de Dienst te verstrekken.   
+Binnen drie maanden na inwerkingtreding van artikel 6, eerste lid, geeft een beheerder zijn beheerpolygoon of beheerpolygonen aan de Dienst op.  
 
 ### Artikel  46  
 
@@ -330,7 +324,7 @@ c. de termijnen waarbinnen deze informatie wordt verstrekt.
 ### Artikel  49  
 
 1.  Bij algemene maatregel van bestuur kunnen met het oog op een goede invoering van deze wet tot 3 jaar na inwerkingtreding van artikel 4 regels worden gesteld.   
-2.  Tot 5 jaar na inwerkingtreding van deze wet kan Onze Minister bij regeling aan daarbij aan te geven categorieën van beheerders vrijstelling verlenen van de verplichtingen van artikel 6, tweede lid, 10, eerste lid, 45 en 46.   
+2.  Tot 5 jaar na inwerkingtreding van deze wet kan Onze Minister bij regeling voor daarbij aan te geven categorieën van beheerders of categorieën van delen van netten vrijstelling verlenen van de verplichtingen van artikel 6, tweede lid, 10, eerste lid, 18, eerste lid, 45 en 46.   
 
 ### Artikel  50  
 

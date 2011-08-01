@@ -60,29 +60,24 @@ De verzekerde die is aangewezen op verblijf als bedoeld in [artikel 9, eerste en
 
 ### Artikel  6  
 
-1.  Het vaccinatieprogramma van het [Besluit](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) omvat toediening van de hierna aangegeven vaccins, afgeleverd door of vanwege het Nederlands Vaccin Instituut, aan de daartoe opgeroepen verzekerden: 
+1.  Het vaccinatieprogramma van het [Besluit](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) omvat toediening van de hierna aangegeven vaccins, afgeleverd door of vanwege het Rijksinstituut voor Volksgezondheid en Milieu, aan de daartoe opgeroepen verzekerden: 
 
-a. in de leeftijd van 2–15 maanden: gecombineerd Difterie-, Kinkhoest-, Tetanus-, Poliomyelitis-vaccin gemengd met Haemophilus influenzae type b-vaccin alsmede geconjugeerd pneumokokkenvaccin;  
+a. in de leeftijd tot 1 maand het hepatitis B-vaccin indien de moeder van de verzekerde HbsAg-positief is;  
 
-b. in de leeftijd van 3–16 maanden: gecombineerd Difterie-, Kinkhoest-, Tetanus-, Poliomyelitis-vaccin gemengd met Haemophilus influenzae type b-vaccin alsmede geconjugeerd pneumokokkenvaccin;  
+b. in de leeftijd van 2–15 maanden: gecombineerd Difterie-, Kinkhoest-, Tetanus-, Poliomyelitis-vaccin gemengd met Haemophilus influenzae type b-vaccin en hepatitis B-vaccin alsmede geconjugeerd pneumokokkenvaccin;  
 
-c. in de leeftijd van 4–17 maanden: gecombineerd Difterie-, Kinkhoest-, Tetanus-, Poliomyelitis-vaccin gemengd met Haemophilus influenzae type b-vaccin alsmede geconjugeerd pneumokokkenvaccin;  
+c. in de leeftijd van 3–16 maanden: gecombineerd Difterie-, Kinkhoest-, Tetanus-, Poliomyelitis-vaccin gemengd met Haemophilus influenzae type b-vaccin en hepatitis B-vaccin alsmede geconjugeerd pneumokokkenvaccin;  
 
-d. in de leeftijd van 11–23 maanden: gecombineerd Difterie-, Kinkhoest-, Tetanus-, Poliomyelitis-vaccin gemengd met Haemophilus influenzae type b-vaccin alsmede geconjugeerd pneumokokkenvaccin;  
+d. in de leeftijd van 4–17 maanden: gecombineerd Difterie-, Kinkhoest-, Tetanus-, Poliomyelitis-vaccin gemengd met Haemophilus influenzae type b-vaccin en hepatitis B-vaccin alsmede geconjugeerd pneumokokkenvaccin;  
 
-e. in de leeftijd van 14–23 maanden: gecombineerd Bof-, Mazelen-, Rubella-vaccin alsmede geconjugeerd meningokokken C-vaccin;  
+e. in de leeftijd van 11–23 maanden: gecombineerd Difterie-, Kinkhoest-, Tetanus-, Poliomyelitis-vaccin gemengd met Haemophilus influenzae type b-vaccin en hepatitis B-vaccin alsmede geconjugeerd pneumokokkenvaccin;  
 
-f. geboren in het vierde kalenderjaar, voorafgaande aan het lopende kalenderjaar: gecombineerd Difterie-, Tetanus-, Polio-vaccin alsmede Kinkhoest-vaccin;  
+f. in de leeftijd van 14–23 maanden: gecombineerd Bof-, Mazelen-, Rubella-vaccin alsmede geconjugeerd meningokokken C-vaccin;  
 
-g. geboren in het negende kalenderjaar, voorafgaande aan het lopende kalenderjaar: gecombineerd Difterie-, Tetanus-, Polio-vaccin alsmede gecombineerd Bof-, Mazelen-, Rubella-vaccin.     
-2.  Het vaccinatieprogramma omvat tevens toediening van het hepatitis B-vaccin, afgeleverd door of vanwege het Nederlands Vaccin Instituut, aan daartoe opgeroepen 
+g. geboren in het vierde kalenderjaar, voorafgaande aan het lopende kalenderjaar: gecombineerd Difterie-, Tetanus-, Polio-vaccin alsmede Kinkhoest-vaccin;  
 
-a. in de leeftijd van 2–15 maanden, 3–16 maanden, 4–17 maanden en 11–23 maanden indien ten minste één van de ouders afkomstig is uit een ander land dan een land genoemd in bijlage 1;  
-
-b. in de leeftijd van 0–1 maanden, 2–15 maanden, 3–16 maanden, 4–17 maanden en 11–23 maanden indien de moeder van de verzekerde HbsAg-positief is;  
-
-c. in de leeftijd van 2–15 maanden, 3–16 maanden, 4–17 maanden en 11–23 maanden, indien de verzekerde Downsyndroom heeft.     
-3.  In bijzondere gevallen kan de toediening van de vaccins, genoemd in het eerste en tweede lid, aan een verzekerde van een andere leeftijd dan daar genoemd worden aangemerkt als te geschieden in het kader van de uitvoering van het vaccinatieprogramma.   
+h. geboren in het negende kalenderjaar, voorafgaande aan het lopende kalenderjaar: gecombineerd Difterie-, Tetanus-, Polio-vaccin alsmede gecombineerd Bof-, Mazelen-, Rubella-vaccin.     
+2.  In bijzondere gevallen kan de toediening van de vaccins, genoemd in het eerste lid, aan een niet of niet volledig gevaccineerde verzekerde tot de leeftijd van negentien jaar worden aangemerkt als te geschieden in het kader van de uitvoering van het vaccinatieprogramma.   
 
 ### Hoofdstuk  III  
 
@@ -142,7 +137,14 @@ De verzekerde die verblijft in een instelling als bedoeld in [artikel 9 van het 
 
 ### Artikel  16  
 
-1.  In afwijking van artikel 6, eerste lid, wordt het pneumokokkenvaccin voor het eerst toegediend bij verzekerden die op of na 1 april 2006 zijn geboren.   
+1.  In afwijking van artikel 6, eerste lid, wordt het hepatitis B-vaccin voor het eerst toegediend bij verzekerden die op of na 1 augustus 2011 zijn geboren.   
+2.  Het eerste lid is niet van toepassing op: 
+
+a. verzekerden met een moeder die HbsAg-positief is;  
+
+b. verzekerden met een ouder die afkomstig is uit een ander land dan een land, genoemd in bijlage 1;  
+
+c. verzekerden met het Downsyndroom.     
 2.  In afwijking van artikel 6, tweede lid, onderdeel c, wordt het hepatitis B-vaccin voor het eerst toegediend bij verzekerden die op of na 1 januari 2008 geboren zijn.   
 
 ### Artikel  17  

@@ -16,38 +16,38 @@ Besluit:
 
 ####werkingssfeer
 
-Deze aanwijzing is van toepassing op geneeskundige zorg of diensten als omschreven bij of krachtens de [Zorgverzekeringswet](../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) zoals huisartsen of verloskundigen die plegen te bieden, alsmede op paramedische zorg of diensten als omschreven bij of krachtens de Zorgverzekeringswet zoals logopedisten die plegen te bieden.  
+Deze aanwijzing is van toepassing op geneeskundige zorg of diensten als omschreven bij of krachtens de [Zorgverzekeringswet](../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) zoals huisartsen of verloskundigen die plegen te bieden, alsmede op paramedische zorg of diensten als omschreven bij of krachtens de Zorgverzekeringswet zoals logopedisten die plegen te bieden. 
 
 ### Artikel  2  
 
 ####uitvoering van de aanwijzing
 
-Ter uitvoering van deze aanwijzing stelt de Nederlandse Zorgautoriteit waar nodig regels of beleidsregels vast.  
+Ter uitvoering van deze aanwijzing stelt de Nederlandse Zorgautoriteit waar nodig regels of beleidsregels vast. 
 
 ### Artikel  3  
 
 ####huisartsenzorg
 
-Voor huisartsenzorg geldt per 1 januari 2012 een taakstelling van structureel € 132 miljoen (prijspeil 2011).  
+Voor huisartsenzorg geldt per 1 januari 2012 een taakstelling van structureel € 132 miljoen (prijspeil 2011). 
 
 ### Artikel  4  
 
 ####verloskundige zorg
 
-Voor verloskundige zorg geldt per 1 januari 2012 een taakstelling van structureel € 4 miljoen (prijspeil 2011).  
+Voor verloskundige zorg geldt per 1 januari 2012 een taakstelling van structureel € 4 miljoen (prijspeil 2011). 
 
 ### Artikel  5  
 
 ####logopedie
 
-Voor logopedische zorg geldt per 1 januari 2012 een taakstelling van structureel € 6 miljoen (prijspeil 2011) te realiseren door aanpassingen van de tarieven.  
+Voor logopedische zorg geldt per 1 januari 2012 een taakstelling van structureel € 6 miljoen (prijspeil 2011) te realiseren door aanpassingen van de tarieven. 
 
 ### Artikel  6  
 
 ####inwerkingtreding en publicatie
 
-Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.  
+Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst. 
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers   
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers     

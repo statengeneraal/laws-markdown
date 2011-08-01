@@ -198,7 +198,6 @@ b. de eventueel in dat verdrag of besluit aanwezige beperkingen.
 
 1.  De volledige bruto-toeslag wordt toegekend voorzolang, met inachtneming van het bepaalde in artikel 11, het inkomen uit arbeid of overig inkomen van de echtgenoot van de pensioengerechtigde nihil bedraagt.   
 2.  Op de volledige bruto-toeslag wordt in mindering gebracht het inkomen van de echtgenoot van de pensioengerechtigde uit arbeid of overig inkomen, vastgesteld met inachtneming van het bepaalde in artikel 11.   
-3.  De met toepassing van het tweede lid berekende niet-volledige bruto-toeslag wordt voor de toepassing van artikel 29, tweede lid, aanhef en onderdeel b, uitgedrukt in een percentage van de volledige bruto-toeslag. Dit percentage wordt rekenkundig afgerond op een veelvoud van éénhonderdste.   
 
 ### Artikel  11  
 
@@ -207,6 +206,16 @@ Voor de toepassing van de artikelen 8 en 10 wordt van het inkomen uit arbeid bui
 1°. een bedrag, gelijk aan 15% van het bruto-minimumloon; alsmede  
 
 2°. voor zover het inkomen uit arbeid meer bedraagt dan het onder 1° bedoelde bedrag, een derde gedeelte van dat meerdere.    
+
+### Artikel  12  
+
+1.  Op de bruto-toeslag, vastgesteld op grond van artikel 10 en, indien van toepassing, na toepassing van artikel 13, tweede lid, wordt een korting toegepast tot 10% voor zover de toeslag samen met het gezamenlijke inkomen uit arbeid of overig inkomen van de gehuwde pensioengerechtigde en diens echtgenoot vermeerderd met het op grond van de artikelen 9, zesde lid, onderdeel b en 13, eerste lid, vastgestelde bruto-ouderdomspensioen door de toepassing van de korting niet minder bedraagt dan 162% van het bruto-minimumloon met inbegrip van de bruto-minimumvakantiebijslag, bedoeld in [artikel 15, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md).   
+2.  De met toepassing van artikel 10, tweede lid, of artikel 13, tweede lid, of het eerste lid berekende niet-volledige bruto-toeslag wordt voor toepassing van artikel 29, tweede lid, aanhef en onderdeel b, uitgedrukt in een percentage van de volledige bruto-toeslag. Dit percentage wordt rekenkundig afgerond op een veelvoud van éénhonderdste.   
+3.  Dit artikel is van overeenkomstige toepassing op de pensioengerechtigde, bedoeld in [artikel II van de Wet van 23 oktober 1993 tot wijziging van de Algemene Ouderdomswet (wijziging in de verhouding van ouderdomspensioen en toeslag)](../../../../wet/wijzigingswet/algemene/ouderdomswet/(wijziging/in/de/verhouding/van/etc/BWBR0006200/README.md) (Stb. 592). Ten aanzien van die pensioengerechtigden dient: 
+
+a. artikel 10, vierde lid, zoals dat luidde voor de datum van inwerkingtreding van [die wet](../../../../wet/wijzigingswet/algemene/ouderdomswet/(wijziging/in/de/verhouding/van/etc/BWBR0006200/README.md), te worden gelezen alsof «en 11» is vervangen door «11 en 12»; en  
+
+b. artikel 29, tweede lid, zoals dat luidde voor de datum van inwerkingtreding van [die wet](../../../../wet/wijzigingswet/algemene/ouderdomswet/(wijziging/in/de/verhouding/van/etc/BWBR0006200/README.md), te worden gelezen alsof «met toepassing van artikel 10, tweede lid,» is vervangen door «met toepassing van artikel 10, tweede lid, of artikel 13, tweede lid, of artikel 12, eerste lid,» en «de in artikel 10, derde lid, bedoelde percenten» is vervangen door «de in artikel 12, tweede lid, bedoelde percenten».     
 
 ### Artikel  12a  
 
@@ -456,9 +465,9 @@ c. de netto-vakantie-uitkering per maand van de gehuwde pensioengerechtigde, bed
 
 a. aan wie een volledige toeslag is toegekend is gelijk aan tweemaal de bruto-vakantie-uitkering als bedoeld in het eerste lid, onderdeel c;  
 
-b. aan wie een niet-volledige toeslag is toegekend met toepassing van artikel 10, tweede lid, is gelijk aan de bruto-vakantie-uitkering, bedoeld in het eerste lid, onderdeel c, vermeerderd met de met behulp van de in artikel 10, derde lid, bedoelde percenten over het verschil tussen de vastgestelde bruto-vakantie-uitkering, bedoeld in onderdeel a en de vastgestelde bruto-vakantie-uitkering, bedoeld in het eerste lid, onderdeel c.     
+b. aan wie een niet-volledige toeslag is toegekend met toepassing van artikel 10, tweede lid, artikel 13, tweede lid, of artikel 12, eerste lid, is gelijk aan de bruto-vakantie-uitkering, bedoeld in het eerste lid, onderdeel c, vermeerderd met de met behulp van de in artikel 12, tweede lid, bedoelde percenten over het verschil tussen de vastgestelde bruto-vakantie-uitkering, bedoeld in onderdeel a en de vastgestelde bruto-vakantie-uitkering, bedoeld in het eerste lid, onderdeel c.     
 3.  De in het eerste lid bedoelde netto minimumvakantiebijslag bedraagt het verschil tussen het bedrag, dat voor een werknemer jonger dan 65 jaar ontstaat door toepassing van artikel 9, derde lid, op het in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) bedoelde bedrag vermeerderd met de aanspraak op vakantiebijslag op grond van [artikel 15 van die wet](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) van degene die aanspraak heeft op laatstgenoemd bedrag, en het netto-minimumloon, bedoeld in artikel 9, derde lid.   
-4.  In de gevallen, dat op het ouderdomspensioen, vastgesteld op grond van artikel 9, met toepassing van artikel 13 een korting wordt toegepast, wordt op de, met inachtneming van het bepaalde bij of krachtens het eerste tot en met het derde lid, vastgestelde bruto-vakantie-uitkering, een evenredige korting toegepast.   
+4.  In de gevallen, dat op het ouderdomspensioen, vastgesteld op grond van artikel 9, met toepassing van artikel 13, eerste lid, een korting wordt toegepast, wordt op de, op grond van het eerste en derde lid, vastgestelde bruto-vakantie-uitkering, een evenredige korting toegepast.   
 
 ### Artikel  31  
 
@@ -477,15 +486,6 @@ Bij ministeriële regeling kunnen met betrekking tot deze paragraaf nadere regel
 ### §  4  
 
 ####Tegemoetkoming in aanvulling op het ouderdomspensioen
-
-### Artikel  33b  
-
-1.  Degene, die recht heeft op ouderdomspensioen, heeft tevens recht op een tegemoetkoming.   
-2.  De tegemoetkoming wordt niet beschouwd als ouderdomspensioen op grond van deze wet, tenzij voor de toepassing van paragraaf 2 van hoofdstuk III.   
-3.  De toekenning van de tegemoetkoming, voor zover die niet samenhangt met de toekenning van het ouderdomspensioen, vindt plaats zonder dat dit bij beschikking is vastgesteld. Artikel 9, achtste lid, is van overeenkomstige toepassing.   
-4.  De betaling van de tegemoetkoming geschiedt maandelijks tezamen met de betaling van het ouderdomspensioen.   
-5.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de hoogte, de indexering en de wijze van betaling van de tegemoetkoming.   
-6.  De tegemoetkoming is niet vatbaar voor beslag.   
 
 ### Hoofdstuk  IV  
 
@@ -703,11 +703,6 @@ Artikel 1, achtste en negende lid, is niet van toepassing, indien voor de inwerk
 ### Artikel  64  
 
 Ten aanzien van de persoon wiens vrijheid op de dag voorafgaande aan de inwerkingtreding van artikel 8b reeds rechtens was ontnomen wordt voor de toepassing van dat artikel als eerste dag waarop de vrijheidsontneming plaatsvindt, aangemerkt de dag van inwerkingtreding van artikel 8b en eindigt het recht op ouderdomspensioen in afwijking van artikel 8b, tweede lid, vanaf de dag dat deze vrijheidsontneming zes maanden heeft geduurd. De beëindiging gaat in op de eerste dag van de maand volgend op de maand waarin de vrijheidsontneming als bedoeld in de eerste zin zes maanden heeft geduurd.  
-
-### Artikel  64a  
-
-1.  Ten aanzien van de persoon wiens recht op ouderdomspensioen voorafgaand aan de dag van inwerkingtreding van artikel 8c al is ingegaan en die zich op die dag onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, wordt voor de toepassing van dat artikel als eerste dag waarop hij zich aan de tenuitvoerlegging van die vrijheidsstraf of vrijheidsbenemende maatregel onttrekt, aangemerkt de dag van inwerkingtreding van artikel 8c en eindigt het recht op ouderdomspensioen in afwijking van artikel 8c, tweede lid, vanaf de dag dat het onttrekken aan de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel zes maanden heeft geduurd.   
-2.  Dit artikel vervalt zes maanden na de dag van zijn inwerkingtreding.   
 
 ### Artikel  64a*  
 

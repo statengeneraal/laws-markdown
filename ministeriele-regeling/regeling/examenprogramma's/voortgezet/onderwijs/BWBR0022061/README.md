@@ -147,7 +147,7 @@ J.M. vanBijsterveldt-Vliegenthart
 
 ### Bijlage  2  
 
-####behorende bij [artikel I, tweede lid, van de Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 2 april 2010](../../../../../../ministeriele-regeling/wijzigingsregeling/regeling/examenprogramma's/voortgezet/onderwijs/etc/BWBR0027636/README.md), nr. VO/OK/2010/201033, houdende wijziging van de Regeling examenprogramma’s voortgezet onderwijs in verband met het vernieuwen van het examenprogramma economie havo
+####behorende bij artikel 2  van de Regeling examenprogramma’s voortgezet onderwijs
 
 ####Examenprogramma vmbo
 
@@ -277,33 +277,37 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 
 ####Nederlandse taal
 
+Bij de uitvoering van het examenprogramma worden de referentieniveaus Nederlandse taal in acht genomen, bedoeld in [artikel 2, onderdeel e en onderdeel f, van het Besluit referentieniveaus Nederlandse taal en rekenen](../../../../../../AMvB/besluit/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027879/README.md).  
+
 |--- |--- | BB  | KB  | GL/TL  |
 |:---|:---|:---|:---|:---|
-|  *NE/K/1*   |  *Oriëntatie op leren en werken*   | --- | --- | --- |
-| 1.  | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van Nederlands in de maatschappij.  | X  | X  | X  |
-|  *NE/K/2*   |  *Basisvaardigheden*   | --- | --- | --- |
-| 2.  | De kandidaat kan basisvaardigheden toepassen die betrekking hebben op communiceren, samenwerken, en informatie verwerven, verwerken en presenteren.  | X  | X  | X  |
-|  *NE/K/3*   |  *Leervaardigheden in het vak Nederlands*   |  *CE*   |  *CE*   |  *CE*   |
-| 3.  | De kandidaat kan strategische vaardigheden toepassen die bijdragen tot:  – het bereiken van verschillende lees-, schrijf-, luister- en kijk-, en spreek-en gespreksdoelen  – de bevordering van het eigen taalleerproces  – het compenseren van eigen tekortschietende taalkennis of communicatieve kennis.  | X  | X  | X  |
-|  *NE/K/4*   |  *Luister- en kijkvaardigheid*   <sup> 1   Het CvE kan bepalen dat het centraal examen geen betrekking heeft op NE/K/4; dit kan per leerweg verschillen.    </sup> |  *CE*   |  *CE*   |  *CE*   |
-| 4.  | De kandidaat kan:  – luister- en kijkstrategieën hanteren  – compenserende strategieën kiezen en hanteren  – het doel van de makers van een programma aangeven  – de belangrijkste elementen van een programma weergeven  – een oordeel geven over een programma en dit toelichten  – een instructie uitvoeren.  | X  | --- | --- |
-| 5.  | De kandidaat kan:  – luister- en kijkstrategieën hanteren  – compenserende strategieën kiezen en hanteren  – het doel van de makers van een programma aangeven  – de belangrijkste elementen van een programma weergeven  – een oordeel geven over een programma en dit toelichten  – een instructie uitvoeren  – de waarde en betrouwbaarheid aangeven van de informatie die door de massamedia verspreid wordt.  | --- | X  | X  |
-|  *NE/K/5*   |  *Spreek- en gespreksvaardigheid*   | --- | --- | --- |
-| 6.  | De kandidaat kan:  – relevante informatie verzamelen en verwerken ten behoeve van de spreek- en gesprekssituatie  – strategieën hanteren ten behoeve van de spreek- en gesprekssituatie  – compenserende strategieën kiezen en hanteren  – het spreek-/luisterdoel in de situatie tot uitdrukking brengen  – het spreek-/luisterdoel en taalgebruik richten op verschillende soorten publiek  – het spreekdoel van anderen herkennen en de reacties van anderen inschatten  – in spreek- en gesprekssituaties taalvarianten herkennen en daar adequaat op inspelen.  | X  | X  | X  |
-|  *NE/K/6*   |  *Leesvaardigheid*   |  *CE*   |  *CE*   |  *CE*   |
-| 7.  | De kandidaat kan:  – leesstrategieën hanteren  – compenserende strategieën kiezen en hanteren  – functie van beeld en opmaak in een tekst herkennen  – het schrijfdoel van de auteur aangeven  – een tekst indelen in betekenisvolle eenheden en de relaties tussen die eenheden benoemen  – het hoofdonderwerp en de hoofdgedachte van een tekst aangeven  – een oordeel geven over de tekst en dit oordeel toelichten.  | X  | --- | --- |
-| 8.  | De kandidaat kan:  – leesstrategieën hanteren  – compenserende strategieën kiezen en hanteren  – functie van beeld en opmaak in een tekst herkennen  – het schrijfdoel van de auteur aangeven en de talige middelen die hij hanteert om dit doel te bereiken  – een tekst indelen in betekenisvolle eenheden en de relaties tussen die eenheden benoemen  – het hoofdonderwerp en de hoofdgedachte van een tekst aangeven en een samenvatting geven  – een oordeel geven over de tekst en dit oordeel toelichten.  | --- | X  | X  |
-|  *NE/K/7*   |  *Schrijfvaardigheid*   |  *CE*   |  *CE*   |  *CE*   |
-| 9.  | De kandidaat kan:  – relevante informatie verzamelen en verwerken ten behoeve van het schrijven  – schrijfstrategieën hanteren  – compenserende strategieën kiezen en hanteren  – het schrijfdoel in teksten tot uitdrukking brengen  – het schrijfdoel en taalgebruik richten op verschillende soorten lezerspubliek  – conventies hanteren met betrekking tot schriftelijk taalgebruik  – elektronische hulpmiddelen gebruiken bij het schrijven  – concepten van de tekst herschrijven op basis van geleverd commentaar.  | X  | X  | X  |
-|  *NE/K/8*   |  *Fictie*   | --- | --- | --- |
-| 10.  | De kandidaat kan:  – verschillende soorten fictiewerken herkennen  – de situatie en het denken en handelen van de personages in het fictiewerk beschrijven  – de relatie tussen het fictiewerk en de werkelijkheid toelichten  – een persoonlijke reactie geven op een fictiewerk en deze toelichten met voorbeelden uit het werk.  | X  | --- | --- |
-| 11.  | De kandidaat kan:  – verschillende soorten fictiewerken herkennen  – de situatie en het denken en handelen van de personages in het fictiewerk beschrijven  – de relatie tussen het fictiewerk en de werkelijkheid toelichten  – kenmerken van fictie in het fictiewerk aanwijzen  – relevante achtergrondinformatie verzamelen en selecteren  – een persoonlijke reactie geven op een fictiewerk en deze toelichten met voorbeelden uit het werk.  | --- | X  | X  |
-|  *NE/V/1*   |  *Verwerven, verwerken en verstrekken van informatie*   | --- | --- | --- |
-| 12.  | De kandidaat kan zelfstandig informatie verwerven, verwerken en verstrekken in het kader van het sectorwerkstuk.  | --- | --- | X  |
-|  *NE/V/2*   |  *Schrijven op basis van documentatie*   | --- | --- | --- |
-| 13.  | De kandidaat kan een doel- en publiekgerichte tekst schrijven:  – overeenkomstig de voor de tekstsoort geldende conventies  – onder gebruikmaking van documentatie.  | --- | --- | X  |
-|  *NE/V/3*   |  *Vaardigheden in samenhang*   | --- | --- | --- |
-| 14.  | De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.  | --- | --- | X  |
+| NE/K/1  | Oriëntatie op leren en werken  | --- | --- | --- |
+| --- | De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van Nederlands in de maatschappij.  | X  | X  | X  |
+| NE/K/2  | Basisvaardigheden  | --- | --- | --- |
+| --- | De kandidaat kan basisvaardigheden toepassen die betrekking hebben op communiceren, samenwerken, en informatie verwerven, verwerken en presenteren.  | X  | X  | X  |
+| NE/K/3  | Leervaardigheden in het vak Nederlands  | CE  | CE  | CE  |
+| --- | De kandidaat kan strategische vaardigheden toepassen die bijdragen tot:  het bereiken van verschillende lees-, schrijf-, luister- en kijk-, en spreek-en gespreksdoelen  de bevordering van het eigen taalleerproces  het compenseren van eigen tekortschietende taalkennis of communicatieve kennis.  | X  | X  | X  |
+| NE/K/4  | Luister- en kijkvaardigheid <sup>1</sup>  | CE  | CE  | CE  |
+| --- | De kandidaat kan:  luister- en kijkstrategieën hanteren  compenserende strategieën kiezen en hanteren  het doel van de makers van een programma aangeven  de belangrijkste elementen van een programma weergeven  een oordeel geven over een programma en dit toelichten  een instructie uitvoeren.  | X  | --- | --- |
+| --- | De kandidaat kan:  luister- en kijkstrategieën hanteren  compenserende strategieën kiezen en hanteren  het doel van de makers van een programma aangeven  de belangrijkste elementen van een programma weergeven  een oordeel geven over een programma en dit toelichten  een instructie uitvoeren  de waarde en betrouwbaarheid aangeven van de informatie die door de massamedia verspreid wordt.  | --- | X  | X  |
+| NE/K/5  | Spreek- en gespreksvaardigheid  | --- | --- | --- |
+| --- | De kandidaat kan:  relevante informatie verzamelen en verwerken ten behoeve van de spreek- en gesprekssituatie  strategieën hanteren ten behoeve van de spreek- en gesprekssituatie  compenserende strategieën kiezen en hanteren  het spreek-/luisterdoel in de situatie tot uitdrukking brengen  het spreek-/luisterdoel en taalgebruik richten op verschillende soorten publiek  het spreekdoel van anderen herkennen en de reacties van anderen inschatten  in spreek- en gesprekssituaties taalvarianten herkennen en daar adequaat op inspelen.  | X  | X  | X  |
+| NE/K/6  | Leesvaardigheid  | CE  | CE  | CE  |
+| --- | De kandidaat kan:  leesstrategieën hanteren  compenserende strategieën kiezen en hanteren  functie van beeld en opmaak in een tekst herkennen  het schrijfdoel van de auteur aangeven  een tekst indelen in betekenisvolle eenheden en de relaties tussen die eenheden benoemen  het hoofdonderwerp en de hoofdgedachte van een tekst aangeven  een oordeel geven over de tekst en dit oordeel toelichten.  | X  | --- | --- |
+| --- | De kandidaat kan:  leesstrategieën hanteren  compenserende strategieën kiezen en hanteren  functie van beeld en opmaak in een tekst herkennen  het schrijfdoel van de auteur aangeven en de talige middelen die hij hanteert om dit doel te bereiken  een tekst indelen in betekenisvolle eenheden en de relaties tussen die eenheden benoemen  het hoofdonderwerp en de hoofdgedachte van een tekst aangeven en een samenvatting geven  een oordeel geven over de tekst en dit oordeel toelichten.  | --- | X  | X  |
+| NE/K/7  | Schrijfvaardigheid  | CE  | CE  | CE  |
+| --- | De kandidaat kan:  relevante informatie verzamelen en verwerken ten behoeve van het schrijven  schrijfstrategieën hanteren  compenserende strategieën kiezen en hanteren  het schrijfdoel in teksten tot uitdrukking brengen  het schrijfdoel en taalgebruik richten op verschillende soorten lezerspubliek  conventies hanteren met betrekking tot schriftelijk taalgebruik  elektronische hulpmiddelen gebruiken bij het schrijven  concepten van de tekst herschrijven op basis van geleverd commentaar.  | X  | X  | X  |
+| NE/K/8  | Fictie  | --- | --- | --- |
+| --- | De kandidaat kan:  verschillende soorten fictiewerken herkennen  de situatie en het denken en handelen van de personages in het fictiewerk beschrijven  de relatie tussen het fictiewerk en de werkelijkheid toelichten  een persoonlijke reactie geven op een fictiewerk en deze toelichten met voorbeelden uit het werk.  | X  | --- | --- |
+| --- | De kandidaat kan:  verschillende soorten fictiewerken herkennen  de situatie en het denken en handelen van de personages in het fictiewerk beschrijven  de relatie tussen het fictiewerk en de werkelijkheid toelichten  kenmerken van fictie in het fictiewerk aanwijzen  relevante achtergrondinformatie verzamelen en selecteren  een persoonlijke reactie geven op een fictiewerk en deze toelichten met voorbeelden uit het werk.  | --- | X  | X  |
+| NE/V/1  | Verwerven, verwerken en verstrekken van informatie  | --- | --- | --- |
+| --- | De kandidaat kan zelfstandig informatie verwerven, verwerken en verstrekken in het kader van het sectorwerkstuk.  | --- | --- | X  |
+| NE/V/2  | Schrijven op basis van documentatie  | --- | --- | --- |
+| --- | De kandidaat kan een doel- en publiekgerichte tekst schrijven:  overeenkomstig de voor de tekstsoort geldende conventies  onder gebruikmaking van documentatie.  | --- | --- | X  |
+| NE/V/3  | Vaardigheden in samenhang  | --- | --- | --- |
+| --- | De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.  | --- | --- | X  |
+
+<sup>1</sup> Het CvE kan bepalen dat het centraal examen geen betrekking heeft op NE/K/4; dit kan per leerweg verschillen.  
 
 ### 2.2  
 
@@ -319,11 +323,11 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | 3.  | De kandidaat kan strategische vaardigheden toepassen die bijdragen tot:  – het bereiken van verschillende lees-, schrijf-, luister- en kijk-, en spreek-en gespreksdoelen  – de bevordering van het eigen taalleerproces  – het compenseren van eigen tekortschietende taalkennis of communicatieve kennis.  – kennis van land en samenleving toepassen bij het herkennen van cultuuruitingen  | X  | X  | X  |
 |  *MVT/K/4*   |  *Leesvaardigheid*   |  *CE*   |  *CE*   |  *CE*   |
 | 4.  | De kandidaat kan:  – aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  – de hoofdgedachte van een tekst(gedeelte) aangeven  – de betekenis van belangrijke elementen van een tekst aangeven  – gegevens uit één of meer teksten met elkaar vergelijken en daaruit conclusies trekken  – verbanden tussen delen van een tekst aangeven.  | X  | X  | X  |
-|  *MVT/K/5*   |  *Luister- en kijkvaardigheid*   <sup> 1   Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.    </sup> |  *CE*   |  *CE*   |  *CE*   |
+|  *MVT/K/5*   |  *Luister- en kijkvaardigheid ²*   |  *CE*   |  *CE*   |  *CE*   |
 | 5.  | De kandidaat kan:  – aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  – de hoofdgedachte van een tekst(gedeelte) aangeven  – de betekenis van belangrijke elementen van een tekst aangeven  – anticiperen op het meest waarschijnlijke vervolg van een gesprek.  | X  | X  | X  |
 |  *MVT/K/6*   |  *Gespreksvaardigheid*   | --- | --- | --- |
 | 6.  | De kandidaat kan:  – adequaat reageren in veel voorkomende sociale contacten, zoals begroeten  – informatie geven en vragen  – naar een mening/oordeel vragen en een mening/oordeel geven  – uitdrukking geven aan en vragen naar (persoonlijke) gevoelens  – een persoon, object of gebeurtenis, ook uit het verleden en in de toekomst, beschrijven.  | X  | X  | X  |
-|  *MVT/K/7*   |  *Schrijfvaardigheid*   <sup> 2   Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.    </sup> |  *CE*   |  *CE*   |  *CE*   |
+|  *MVT/K/7*   |  *Schrijfvaardigheid ²*   |  *CE*   |  *CE*   |  *CE*   |
 | 7.  | De kandidaat kan:  – (persoonlijke) gegevens verstrekken  – een kort bedankje, groet of goede wensen schriftelijk overbrengen  – een briefje schrijven om informatie te vragen of te geven, om verzoeken of voorstellen te doen of daarop te reageren, om gevoelens te uiten en ernaar te vragen  – op eenvoudig niveau briefconventies gebruiken.  | X  | X  | X  |
 |  *MVT/V/1*   |  *Leesvaardigheid*   | --- | --- | --- |
 | 8.  | De kandidaat kan:  – het gebruik van speciale stijlmiddelen herkennen  – conclusies trekken met betrekking tot het schrijfdoel, de opvattingen, de gevoelens van de auteur en tot het beoogde publiek.  | --- | --- | X  |
@@ -335,6 +339,8 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | 11.  | De kandidaat kan zelfstandig informatie verwerven, verwerken en verstrekken in het kader van het sectorwerkstuk.  | --- | --- | X  |
 |  *MVT/V/5*   |  *Vaardigheden in samenhang*   | --- | --- |  *CE*   |
 | 12.  | De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.  | --- | --- | X  |
+
+² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.  
 
 ### 2.3  
 
@@ -350,11 +356,11 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | 3.  | De kandidaat kan strategische vaardigheden toepassen die bijdragen tot:  – het bereiken van verschillende lees-, schrijf-, luister- en kijk-, en spreek-en gespreksdoelen  – de bevordering van het eigen taalleerproces  – het compenseren van eigen tekortschietende taalkennis of communicatieve kennis.  – kennis van land en samenleving toepassen bij het herkennen van cultuuruitingen  | X  | X  | X  |
 |  *MVT/K/4*   |  *Leesvaardigheid*   |  *CE*   |  *CE*   |  *CE*   |
 | 4.  | De kandidaat kan:  – aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  – de hoofdgedachte van een tekst(gedeelte) aangeven  – de betekenis van belangrijke elementen van een tekst aangeven  – gegevens uit één of meer teksten met elkaar vergelijken en daaruit conclusies trekken  – verbanden tussen delen van een tekst aangeven.  | X  | X  | X  |
-|  *MVT/K/5*   |  *Luister- en kijkvaardigheid*   <sup> 1   Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.    </sup> |  *CE*   |  *CE*   |  *CE*   |
+|  *MVT/K/5*   |  *Luister- en kijkvaardigheid ¹*   |  *CE*   |  *CE*   |  *CE*   |
 | 5.  | De kandidaat kan:  – aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  – de hoofdgedachte van een tekst(gedeelte) aangeven  – de betekenis van belangrijke elementen van een tekst aangeven  – anticiperen op het meest waarschijnlijke vervolg van een gesprek.  | X  | X  | X  |
 |  *MVT/K/6*   |  *Gespreksvaardigheid*   | --- | --- | --- |
 | 6.  | De kandidaat kan:  – adequaat reageren in veel voorkomende sociale contacten, zoals begroeten  – informatie geven en vragen  – naar een mening/oordeel vragen en een mening/oordeel geven  – uitdrukking geven aan en vragen naar (persoonlijke) gevoelens  – een persoon, object of gebeurtenis, ook uit het verleden en in de toekomst, beschrijven.  | X  | X  | X  |
-|  *MVT/K/7*   |  *Schrijfvaardigheid*   <sup> 2   Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.    </sup> |  *CE*   |  *CE*   |  *CE*   |
+|  *MVT/K/7*   |  *Schrijfvaardigheid ²*   |  *CE*   |  *CE*   |  *CE*   |
 | 7.  | De kandidaat kan:  – (persoonlijke) gegevens verstrekken  – een kort bedankje, groet of goede wensen schriftelijk overbrengen  – een briefje schrijven om informatie te vragen of te geven, om verzoeken of voorstellen te doen of daarop te reageren, om gevoelens te uiten en ernaar te vragen  – op eenvoudig niveau briefconventies gebruiken.  | X  | X  | X  |
 |  *MVT/V/1*   |  *Leesvaardigheid*   | --- | --- | --- |
 | 8.  | De kandidaat kan:  – het gebruik van speciale stijlmiddelen herkennen  – conclusies trekken met betrekking tot het schrijfdoel, de opvattingen, de gevoelens van de auteur en tot het beoogde publiek.  | --- | --- | X  |
@@ -366,6 +372,8 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | 11.  | De kandidaat kan zelfstandig informatie verwerven, verwerken en verstrekken in het kader van het sectorwerkstuk.  | --- | --- | X  |
 |  *MVT/V/5*   |  *Vaardigheden in samenhang*   | --- | --- |  *CE*   |
 | 12.  | De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.  | --- | --- | X  |
+
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen. ² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.  
 
 ### 2.4  
 
@@ -381,11 +389,11 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | 3.  | De kandidaat kan strategische vaardigheden toepassen die bijdragen tot:  – het bereiken van verschillende lees-, schrijf-, luister- en kijk-, en spreek-en gespreksdoelen  – de bevordering van het eigen taalleerproces  – het compenseren van eigen tekortschietende taalkennis of communicatieve kennis.  – kennis van land en samenleving toepassen bij het herkennen van cultuuruitingen  | X  | X  | X  |
 |  *MVT/K/4*   |  *Leesvaardigheid*   |  *CE*   |  *CE*   |  *CE*   |
 | 4.  | De kandidaat kan:  – aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  – de hoofdgedachte van een tekst(gedeelte) aangeven  – de betekenis van belangrijke elementen van een tekst aangeven  – gegevens uit één of meer teksten met elkaar vergelijken en daaruit conclusies trekken  – verbanden tussen delen van een tekst aangeven.  | X  | X  | X  |
-|  *MVT/K/5*   |  *Luister- en kijkvaardigheid*   <sup> 1   Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.    </sup> |  *CE*   |  *CE*   |  *CE*   |
+|  *MVT/K/5*   |  *Luister- en kijkvaardigheid ¹*   |  *CE*   |  *CE*   |  *CE*   |
 | 5.  | De kandidaat kan:  – aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  – de hoofdgedachte van een tekst(gedeelte) aangeven  – de betekenis van belangrijke elementen van een tekst aangeven  – anticiperen op het meest waarschijnlijke vervolg van een gesprek.  | X  | X  | X  |
 |  *MVT/K/6*   |  *Gespreksvaardigheid*   | --- | --- | --- |
 | 6.  | De kandidaat kan:  – adequaat reageren in veel voorkomende sociale contacten, zoals begroeten  – informatie geven en vragen  – naar een mening/oordeel vragen en een mening/oordeel geven  – uitdrukking geven aan en vragen naar (persoonlijke) gevoelens  – een persoon, object of gebeurtenis, ook uit het verleden en in de toekomst, beschrijven.  | X  | X  | X  |
-|  *MVT/K/7*   |  *Schrijfvaardigheid*   <sup> 2   Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.    </sup> |  *CE*   |  *CE*   |  *CE*   |
+|  *MVT/K/7*   |  *Schrijfvaardigheid*   |  *CE*   |  *CE*   |  *CE*   |
 | 7.  | De kandidaat kan:  – (persoonlijke) gegevens verstrekken  – een kort bedankje, groet of goede wensen schriftelijk overbrengen  – een briefje schrijven om informatie te vragen of te geven, om verzoeken of voorstellen te doen of daarop te reageren, om gevoelens te uiten en ernaar te vragen  – op eenvoudig niveau briefconventies gebruiken.  | X  | X  | X  |
 | MVT/V/1  |  *Leesvaardigheid*   | --- | --- |  *CE*   |
 | 8.  | De kandidaat kan:  – het gebruik van speciale stijlmiddelen herkennen  – conclusies trekken met betrekking tot het schrijfdoel, de opvattingen, de gevoelens van de auteur en tot het beoogde publiek.  | --- | --- | X  |
@@ -397,6 +405,8 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | 11.  | De kandidaat kan zelfstandig informatie verwerven, verwerken en verstrekken in het kader van het sectorwerkstuk.  | --- | --- | X  |
 |  *MVT/V/5*   |  *Vaardigheden in samenhang*   | --- | --- |  *CE*   |
 | 12.  | De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.  | --- | --- | X  |
+
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen. ² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.  
 
 ### 2.5  
 
@@ -412,11 +422,11 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | 3.  | De kandidaat kan strategische vaardigheden toepassen die bijdragen tot:  – het bereiken van verschillende lees-, schrijf-, luister- en kijk-, en spreek-en gespreksdoelen  – de bevordering van het eigen taalleerproces  – het compenseren van eigen tekortschietende taalkennis of communicatieve kennis.  – kennis van land en samenleving toepassen bij het herkennen van cultuuruitingen  | X  | X  | X  |
 |  *MVT/K/4*   |  *Leesvaardigheid*   |  *CE*   |  *CE*   |  *CE*   |
 | 4.  | De kandidaat kan:  – aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  – de hoofdgedachte van een tekst(gedeelte) aangeven  – de betekenis van belangrijke elementen van een tekst aangeven  – gegevens uit één of meer teksten met elkaar vergelijken en daaruit conclusies trekken  – verbanden tussen delen van een tekst aangeven.  | X  | X  | X  |
-|  *MVT/K/5*   |  *Luister- en kijkvaardigheid*   <sup> 1   Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.    </sup> |  *CE*   |  *CE*   |  *CE*   |
+|  *MVT/K/5*   |  *Luister- en kijkvaardigheid ¹*   |  *CE*   |  *CE*   |  *CE*   |
 | 5.  | De kandidaat kan:  – aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  – de hoofdgedachte van een tekst(gedeelte) aangeven  – de betekenis van belangrijke elementen van een tekst aangeven  – anticiperen op het meest waarschijnlijke vervolg van een gesprek.  | X  | X  | X  |
 |  *MVT/K/6*   |  *Gespreksvaardigheid*   | --- | --- | --- |
 | 6.  | De kandidaat kan:  – adequaat reageren in veel voorkomende sociale contacten, zoals begroeten  – informatie geven en vragen  – naar een mening/oordeel vragen en een mening/oordeel geven  – uitdrukking geven aan en vragen naar (persoonlijke) gevoelens  – een persoon, object of gebeurtenis, ook uit het verleden en in de toekomst, beschrijven.  | X  | X  | X  |
-|  *MVT/K/7*   |  *Schrijfvaardigheid*   <sup> 2   Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.    </sup> |  *CE*   |  *CE*   |  *CE*   |
+|  *MVT/K/7*   |  *Schrijfvaardigheid*   |  *CE*   |  *CE*   |  *CE*   |
 | 7.  | De kandidaat kan:  – (persoonlijke) gegevens verstrekken  – een kort bedankje, groet of goede wensen schriftelijk overbrengen  – een briefje schrijven om informatie te vragen of te geven, om verzoeken of voorstellen te doen of daarop te reageren, om gevoelens te uiten en ernaar te vragen  – op eenvoudig niveau briefconventies gebruiken.  | X  | X  | X  |
 |  *MVT/V/1*   |  *Leesvaardigheid*   | --- | --- | --- |
 | 8.  | De kandidaat kan:  – het gebruik van speciale stijlmiddelen herkennen  – conclusies trekken met betrekking tot het schrijfdoel, de opvattingen, de gevoelens van de auteur en tot het beoogde publiek.  | --- | --- | X  |
@@ -428,6 +438,8 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | 11.  | De kandidaat kan zelfstandig informatie verwerven, verwerken en verstrekken in het kader van het sectorwerkstuk.  | --- | --- | X  |
 |  *MVT/V/5*   |  *Vaardigheden in samenhang*   | --- | --- |  *CE*   |
 | 12.  | De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.  | --- | --- | X  |
+
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen. ² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.  
 
 ### 2.6  
 
@@ -443,11 +455,11 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | 3.  | De kandidaat kan strategische vaardigheden toepassen die bijdragen tot:  – het bereiken van verschillende lees-, schrijf-, luister- en kijk-, en spreek-en gespreksdoelen  – de bevordering van het eigen taalleerproces  – het compenseren van eigen tekortschietende taalkennis of communicatieve kennis.  – kennis van land en samenleving toepassen bij het herkennen van cultuuruitingen  | X  | X  | X  |
 |  *MVT/K/4*   |  *Leesvaardigheid*   |  *CE*   |  *CE*   |  *CE*   |
 | 4.  | De kandidaat kan:  – aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  – de hoofdgedachte van een tekst(gedeelte) aangeven  – de betekenis van belangrijke elementen van een tekst aangeven  – gegevens uit één of meer teksten met elkaar vergelijken en daaruit conclusies trekken  – verbanden tussen delen van een tekst aangeven.  | X  | X  | X  |
-|  *MVT/K/5*   |  *Luister- en kijkvaardigheid*   <sup> 1   Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen    </sup> |  *CE*   |  *CE*   |  *CE*   |
+|  *MVT/K/5*   |  *Luister- en kijkvaardigheid ¹*   |  *CE*   |  *CE*   |  *CE*   |
 | 5.  | De kandidaat kan:  – aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  – de hoofdgedachte van een tekst(gedeelte) aangeven  – de betekenis van belangrijke elementen van een tekst aangeven  – anticiperen op het meest waarschijnlijke vervolg van een gesprek.  | X  | X  | X  |
 |  *MVT/K/6*   |  *Gespreksvaardigheid*   | --- | --- | --- |
 | 6.  | De kandidaat kan:  – adequaat reageren in veel voorkomende sociale contacten, zoals begroeten  – informatie geven en vragen  – naar een mening/oordeel vragen en een mening/oordeel geven  – uitdrukking geven aan en vragen naar (persoonlijke) gevoelens  – een persoon, object of gebeurtenis, ook uit het verleden en in de toekomst, beschrijven.  | X  | X  | X  |
-|  *MVT/K/7*   |  *Schrijfvaardigheid*   <sup> 2   Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.    </sup> |  *CE*   |  *CE*   |  *CE*   |
+|  *MVT/K/7*   |  *Schrijfvaardigheid*   |  *CE*   |  *CE*   |  *CE*   |
 | 7.  | De kandidaat kan:  – (persoonlijke) gegevens verstrekken  – een kort bedankje, groet of goede wensen schriftelijk overbrengen  – een briefje schrijven om informatie te vragen of te geven, om verzoeken of voorstellen te doen of daarop te reageren, om gevoelens te uiten en ernaar te vragen  – op eenvoudig niveau briefconventies gebruiken.  | X  | X  | X  |
 |  *MVT/V/1*   |  *Leesvaardigheid*   | --- | --- | --- |
 | 8.  | De kandidaat kan:  – het gebruik van speciale stijlmiddelen herkennen  – conclusies trekken met betrekking tot het schrijfdoel, de opvattingen, de gevoelens van de auteur en tot het beoogde publiek.  | --- | --- | X  |
@@ -459,6 +471,8 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | 11.  | De kandidaat kan zelfstandig informatie verwerven, verwerken en verstrekken in het kader van het sectorwerkstuk.  | --- | --- | X  |
 |  *MVT/V/5*   |  *Vaardigheden in samenhang*   | --- | --- |  *CE*   |
 | 12.  | De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.  | --- | --- | X  |
+
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen ² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.  
 
 ### 2.7  
 
@@ -474,7 +488,7 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | 3.  | De kandidaat kan strategische vaardigheden toepassen die bijdragen tot:  – het bereiken van verschillende lees-, schrijf-, luister- en kijk-, en spreek- en gespreksdoelen  – de bevordering van het eigen taalleerproces  – het compenseren van eigen tekortschietende taalkennis of communicatieve kennis.  – kennis van land en samenleving toepassen bij het herkennen van cultuuruitingen  | X  | X  | X  |
 |  *MVT/K/4*   |  *Leesvaardigheid*   |  *CE*   |  *CE*   |  *CE*   |
 | 4.  | De kandidaat kan:  – aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  – de hoofdgedachte van een tekst(gedeelte) aangeven  – de betekenis van belangrijke elementen van een tekst aangeven  – gegevens uit één of meer teksten met elkaar vergelijken en daaruit conclusies trekken  – verbanden tussen delen van een tekst aangeven.  | X  | X  | X  |
-|  *MVT/K/5*   |  *Luister- en kijkvaardigheid*   <sup> 1   Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen    </sup> |  *CE*   |  *CE*   |  *CE*   |
+|  *MVT/K/5*   |  *Luister- en kijkvaardigheid ¹*   |  *CE*   |  *CE*   |  *CE*   |
 | 5.  | De kandidaat kan:  – aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte  – de hoofdgedachte van een tekst(gedeelte) aangeven  – de betekenis van belangrijke elementen van een tekst aangeven  – anticiperen op het meest waarschijnlijke vervolg van een gesprek.  | X  | X  | X  |
 |  *MVT/K/6*   |  *Gespreksvaardigheid*   | --- | --- | --- |
 | 6.  | De kandidaat kan:  – adequaat reageren in veel voorkomende sociale contacten, zoals begroeten  – informatie geven en vragen  – naar een mening/oordeel vragen en een mening/oordeel geven  – uitdrukking geven aan en vragen naar (persoonlijke) gevoelens  – een persoon, object of gebeurtenis, ook uit het verleden en in de toekomst, beschrijven.  | X  | X  | X  |
@@ -490,6 +504,8 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | 11.  | De kandidaat kan zelfstandig informatie verwerven, verwerken en verstrekken in het kader van het sectorwerkstuk.  | --- | --- | X  |
 |  *MVT/V/5*   |  *Vaardigheden in samenhang*   | --- | --- |  *CE*   |
 | 12.  | De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.  | --- | --- | X  |
+
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen  
 
 ### 2.8  
 
@@ -889,28 +905,30 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 |  *GS/K/3*   |  *Leervaardigheden in het vak geschiedenis en staatsinrichting*   |  *CE*   |  *CE*   |  *CE*   |
 | 3.  | De kandidaat kan strategische vaardigheden toepassen die bijdragen tot:  – de ontwikkeling van het eigen leervermogen  – het vermogen om met voor geschiedenis en staatsinrichting geëigende vaktaal en methodieken te communiceren en onderzoek te doen.  | X  | X  | X  |
 |  *GS/K/4*   |  *De koloniale relatie Indonesië – Nederland*   | --- | --- | --- |
-| 4.  | De kandidaat kan herkennen en benoemen op welke wijze de koloniale relatie tussen Indonesië en Nederland zich in de loop der tijd ontwikkeld heeft en bijgedragen heeft aan de dekolonisatie/onafhankelijkheid van Indonesië.  | X  <sup> 1   Het schoolexamen moet in ieder geval bestaan uit *2* exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.    </sup> | --- | --- |
-| 5.  | De kandidaat kan herkennen en beschrijven op welke wijze de koloniale relatie tussen Indonesië en Nederland zich in de loop der tijd ontwikkeld heeft en bijgedragen heeft aan de dekolonisatie/onafhankelijkheid van Indonesië.  | --- | X  <sup> 2   Het schoolexamen moet in ieder geval bestaan uit *3* exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.    </sup> | X  <sup> 2   Het schoolexamen moet in ieder geval bestaan uit *3* exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.    </sup> |
+| 4.  | De kandidaat kan herkennen en benoemen op welke wijze de koloniale relatie tussen Indonesië en Nederland zich in de loop der tijd ontwikkeld heeft en bijgedragen heeft aan de dekolonisatie/onafhankelijkheid van Indonesië.  | X ¹  | --- | --- |
+| 5.  | De kandidaat kan herkennen en beschrijven op welke wijze de koloniale relatie tussen Indonesië en Nederland zich in de loop der tijd ontwikkeld heeft en bijgedragen heeft aan de dekolonisatie/onafhankelijkheid van Indonesië.  | --- | X ²  | X ²  |
 |  *GS/K/5*   |  *Staatsinrichting van Nederland*   |  *CE*   |  *CE*   |  *CE*   |
 | 6.  | De kandidaat kan herkennen en benoemen hoe de Nederlandse rechtsstaat/staatsinrichting zich vanaf 1848 tot nu ontwikkeld heeft.  | X  | --- | --- |
 | 7.  | De kandidaat kan herkennen en beschrijven hoe de Nederlandse rechtsstaat/staatsinrichting zich vanaf 1848 tot nu ontwikkeld heeft.  | --- | X  | X  |
 |  *GS/K/6*   |  *De industriële samenleving in Nederland*   | --- | --- | --- |
-| 8.  | De kandidaat kan herkennen en benoemen hoe het proces van industrialisatie de Nederlandse samenleving ingrijpend veranderd heeft vanaf de tweede helft van de 19 <sup>e</sup> eeuw.  | X  <sup> 1   Het schoolexamen moet in ieder geval bestaan uit *2* exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.    </sup> | --- | --- |
-| 9.  | De kandidaat kan herkennen en beschrijven hoe het proces van industrialisatie de Nederlandse samenleving ingrijpend veranderd heeft vanaf de tweede helft van de 19 <sup>e</sup> eeuw.  | --- | X  <sup> 1   Het schoolexamen moet in ieder geval bestaan uit *2* exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.    </sup> | X  <sup> 2   Het schoolexamen moet in ieder geval bestaan uit *3* exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.    </sup> |
+| 8.  | De kandidaat kan herkennen en benoemen hoe het proces van industrialisatie de Nederlandse samenleving ingrijpend veranderd heeft vanaf de tweede helft van de 19 <sup>e</sup> eeuw.  | X ¹  | --- | --- |
+| 9.  | De kandidaat kan herkennen en beschrijven hoe het proces van industrialisatie de Nederlandse samenleving ingrijpend veranderd heeft vanaf de tweede helft van de 19 <sup>e</sup> eeuw.  | --- | X ¹  | X ²  |
 |  *GS/K/7*   |  *Sociale zekerheid en verzorgingsstaat in Nederland*   | --- | --- | --- |
-| 10.  | De kandidaat kan herkennen en benoemen welke ontwikkelingen zich op het terrein van de sociale zekerheid vanaf de tweede helft van de 19 <sup>e</sup> eeuw hebben voorgedaan die geleid hebben tot de huidige, herziene verzorgingsstaat.  | X  <sup> 1   Het schoolexamen moet in ieder geval bestaan uit *2* exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.    </sup> | --- | --- |
-| 11.  | De kandidaat kan herkennen en beschrijven welke ontwikkelingen zich op het terrein van de sociale zekerheid vanaf de tweede helft van de 19 <sup>e</sup> eeuw hebben voorgedaan die geleid hebben tot de huidige, herziene verzorgingsstaat.  | --- | X  <sup> 2   Het schoolexamen moet in ieder geval bestaan uit *3* exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.    </sup> | X  <sup> 2   Het schoolexamen moet in ieder geval bestaan uit *3* exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.    </sup> |
+| 10.  | De kandidaat kan herkennen en benoemen welke ontwikkelingen zich op het terrein van de sociale zekerheid vanaf de tweede helft van de 19 <sup>e</sup> eeuw hebben voorgedaan die geleid hebben tot de huidige, herziene verzorgingsstaat.  | X ¹  | --- | --- |
+| 11.  | De kandidaat kan herkennen en beschrijven welke ontwikkelingen zich op het terrein van de sociale zekerheid vanaf de tweede helft van de 19 <sup>e</sup> eeuw hebben voorgedaan die geleid hebben tot de huidige, herziene verzorgingsstaat.  | --- | X ²  | X ²  |
 |  *GS/K/8*   |  *Cultureel – mentale ontwikkelingen in Nederland na 1945*   | --- | --- | --- |
-| 12.  | De kandidaat kan herkennen en benoemen welke cultureel-maatschappelijke ontwikkelingen zich na de Tweede Wereldoorlog hebben voorgedaan en welke gevolgen deze ontwikkelingen gehad hebben voor de Nederlandse samenleving.  | X  <sup> 1   Het schoolexamen moet in ieder geval bestaan uit *2* exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.    </sup> | --- | --- |
-| 13.  | De kandidaat kan herkennen en beschrijven welke cultureel-maatschappelijke ontwikkelingen zich na de Tweede Wereldoorlog hebben voorgedaan en verklaren welke gevolgen deze ontwikkelingen gehad hebben voor de Nederlandse samenleving.  | --- | X  <sup> 2   Het schoolexamen moet in ieder geval bestaan uit *3* exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.    </sup> | X  <sup> 2   Het schoolexamen moet in ieder geval bestaan uit *3* exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.    </sup> |
+| 12.  | De kandidaat kan herkennen en benoemen welke cultureel-maatschappelijke ontwikkelingen zich na de Tweede Wereldoorlog hebben voorgedaan en welke gevolgen deze ontwikkelingen gehad hebben voor de Nederlandse samenleving.  | X ¹  | --- | --- |
+| 13.  | De kandidaat kan herkennen en beschrijven welke cultureel-maatschappelijke ontwikkelingen zich na de Tweede Wereldoorlog hebben voorgedaan en verklaren welke gevolgen deze ontwikkelingen gehad hebben voor de Nederlandse samenleving.  | --- | X ²  | X ²  |
 |  *GS/K/9*   |  *De Koude Oorlog*   | --- | --- | --- |
-| 14.  | De kandidaat kan het ontstaan, verloop en einde van de Koude Oorlog herkennen, en benoemen welke oorzaken en gevolgen deze periode voor de wereldpolitiek in het algemeen en voor Europa in het bijzonder heeft gehad.  | X  <sup> 1   Het schoolexamen moet in ieder geval bestaan uit *2* exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.    </sup> | --- | --- |
-| 15.  | De kandidaat kan het ontstaan, verloop en einde van de Koude Oorlog herkennen en beschrijven, en aangeven welke oorzaken en gevolgen deze periode voor de wereldpolitiek in het algemeen en voor Europa in het bijzonder heeft gehad.  | --- | X  <sup> 2   Het schoolexamen moet in ieder geval bestaan uit *3* exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.    </sup> | X  <sup> 2   Het schoolexamen moet in ieder geval bestaan uit *3* exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.    </sup> |
+| 14.  | De kandidaat kan het ontstaan, verloop en einde van de Koude Oorlog herkennen, en benoemen welke oorzaken en gevolgen deze periode voor de wereldpolitiek in het algemeen en voor Europa in het bijzonder heeft gehad.  | X ¹  | --- | --- |
+| 15.  | De kandidaat kan het ontstaan, verloop en einde van de Koude Oorlog herkennen en beschrijven, en aangeven welke oorzaken en gevolgen deze periode voor de wereldpolitiek in het algemeen en voor Europa in het bijzonder heeft gehad.  | --- | X ²  | X ²  |
 |  *GS/K/10*   |  *Historisch overzicht vanaf 1900*   |  *CE*   |  *CE*   |  *CE*   |
 | 16.  | De kandidaat kan herkennen en benoemen welke belangrijke gebeurtenissen en ontwikkelingen zich in de Nederlandse en (West-)Europese geschiedenis vanaf 1900 hebben voorgedaan.  | X  | --- | --- |
 | 17.  | De kandidaat kan herkennen en beschrijven welke belangrijke gebeurtenissen en ontwikkelingen zich in de Nederlandse en (West-)Europese geschiedenis vanaf 1900 hebben voorgedaan.  | --- | X  | X  |
 
-|--- |--- | BB  | KB  | GL/TL  <sup> 1   De school kan één of meer van de exameneenheden V1 t/m V6 in de Gemengde en Theoretische Leerweg toetsen op het schoolexamen maar is daartoe niet verplicht.    </sup> |
+¹ Het schoolexamen moet in ieder geval bestaan uit *2* exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9. ² Het schoolexamen moet in ieder geval bestaan uit *3* exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.  
+
+|--- |--- | BB  | KB  | GL/TL ¹  |
 |:---|:---|:---|:---|:---|
 |  *GS/V/1*   |  *GS/V/1 Het Indonesisch – Nederlands conflict 1945–1949*   | --- | --- | --- |
 | 18.  | De kandidaat kan herkennen en beschrijven hoe het proces van dekolonisatie en de weg naar onafhankelijkheid van Indonesië tussen 1945 en 1949 verliep en daarbij ingaan op de moeizame relatie tussen Nederland en Indonesië na de onafhankelijkheid van Indonesië.  | --- | --- | X  |
@@ -930,6 +948,8 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 | 25.  | De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.  | --- | --- | X  |
 |  *GS/V/9*   |  *Drie thema’s bij het Historisch Overzicht vanaf 1900*   | --- | --- |  *CE*   |
 | 26.  | De kandidaat kan de volgende thema’s herkennen, beschrijven, verklaren en plaatsen in het kader van het Historisch Overzicht vanaf 1900:  Het ontstaan en de gevolgen van  – het communisme in de Sovjetunie (1917-1941);  – Indonesië als voorbeeld van dekolonisatie ( 1942–1949);  – de brandhaard Israël/Palestina (1945–1979).  | --- | --- | X  |
+
+¹ De school kan één of meer van de exameneenheden V1 t/m V6 in de Gemengde en Theoretische Leerweg toetsen op het schoolexamen maar is daartoe niet verplicht.  
 
 ### 2.19  
 

@@ -3,7 +3,7 @@
 ##Regeling bevoegdheid basisonderwijs voor buitenlandse diploma's
 
 De minister van Onderwijs en Wetenschappen,  
-Gelet op [artikel 3, vierde lid, van de Wet op het basisonderwijs](../../../../../../../../wet/wbo/BWBR0003420/README.md) (Stb. 1986, 256);
+Gelet op artikel 3, vierde lid, van de Wet op het basisonderwijs (Stb. 1986, 256);
 
 Overwegende dat het noodzakelijk is voorwaarden en beperkingen te stellen met betrekking tot het verlenen van de bevoegdheid tot het geven van onderwijs aan scholen voor basisonderwijs aan personen die in het bezit zijn van een buiten Nederland behaald bewijs van bekwaamheid;
 
@@ -14,13 +14,13 @@ Besluit:
 
 ####Definities
 
-In deze regeling wordt verstaan onder:    *WBO:*   [Wet op het basisonderwijs](../../../../../../../../wet/wbo/BWBR0003420/README.md) (Stb. 1986, 256);     *basisschool:*   school voor basisonderwijs in de zin van de [Wet op het basisonderwijs](../../../../../../../../wet/wbo/BWBR0003420/README.md);     *inspecteur:*   de inspecteur bedoeld in [artikel 5 van de WBO](../../../../../../../../wet/wbo/BWBR0003420/README.md);     *bepaalde tijd:*   40 schoolweken, al dan niet aaneengesloten.     
+In deze regeling wordt verstaan onder: *basisschool:* school voor basisonderwijs als bedoeld in de Wet op het primair onderwijs; *school:* school voor basisonderwijs als bedoeld in de Wet primair onderwijs BES; *inspecteur:* de inspecteur bedoeld in artikel 5 van de WBO; *bepaalde tijd:* 40 schoolweken, al dan niet aaneengesloten.  
 
 ### Artikel  2  
 
 ####Voorwaarden verkrijgen onderwijsbevoegdheid voor bepaalde tijd
 
-Aan de bezitter van een buiten Nederland behaald bewijs van bekwaamheid, waaraan in het land waarin dat bewijs is verkregen de bevoegdheid is verbonden tot het geven van onderwijs aan kinderen tot en met 12 jaar, tenzij het betreft een onderdaan van een Lid-Staat van de Europese Gemeenschappen die in het bezit is van een diploma als bedoeld in de richtlijn van de Raad van de Europese Gemeenschappen van 21 december 1988 betreffende een algemeen stelsel van erkenning van hoger-onderwijsdiploma's waarmee beroepsopleidingen van tenminste drie jaar worden afgesloten (PbEG L 019), wordt voor bepaalde tijd de bevoegdheid verleend tot het geven van onderwijs als bedoeld in [artikel 9, eerste lid, van de WBO](../../../../../../../../wet/wbo/BWBR0003420/README.md) aan basisscholen indien: 
+Aan de bezitter van een buiten Nederland behaald bewijs van bekwaamheid, waaraan in het land waarin dat bewijs is verkregen de bevoegdheid is verbonden tot het geven van onderwijs aan kinderen tot en met 12 jaar, tenzij het betreft een onderdaan van een Lid-Staat van de Europese Gemeenschappen die in het bezit is van een diploma als bedoeld in de richtlijn van de Raad van de Europese Gemeenschappen van 21 december 1988 betreffende een algemeen stelsel van erkenning van hoger-onderwijsdiploma's waarmee beroepsopleidingen van tenminste drie jaar worden afgesloten (PbEG L 019), wordt voor bepaalde tijd de bevoegdheid verleend tot het geven van onderwijs, als bedoeld in artikel 9, eerste lid, van de Wet op het primair onderwijs aan basisscholen en tot het geven van onderwijs als bedoeld in de artikelen 11, eerste lid, en 12, eerste lid, van de Wet primair onderwijs BES aan scholen indien: 
 
 a. de opleiding die ten grondslag ligt aan het bewijs van bekwaamheid voor wat betreft niveau en inhoud gelijkwaardig kan worden geacht aan de Nederlandse opleiding die ten grondslag ligt aan de akte van bekwaamheid als volledig bevoegd onderwijzer, en  
 
@@ -36,9 +36,9 @@ een daarmee vergelijkbaar diploma behaald in het Nederlandstalige onderwijs in B
 
 ####Voorwaarden verkrijgen bevoegdheid vakonderwijs voor bepaalde tijd
 
-Aan de bezitter van een buiten Nederland behaald bewijs van bekwaamheid wordt voor bepaalde tijd de bevoegdheid verleend tot het geven van het onderwijs in een der vakken handvaardigheid, tekenen, muziek, zintuiglijke en lichamelijke oefening of Friese taal aan basisscholen indien: 
+Aan de bezitter van een buiten Nederland behaald bewijs van bekwaamheid, tenzij het betreft een onderdaan van een Lid-Staat van de Europese Gemeenschappen die in het bezit is van een diploma als bedoeld in de in artikel 2 vermelde richtlijn, wordt voor bepaalde tijd de bevoegdheid verleend tot het geven van het onderwijs in een der vakken handvaardigheid, tekenen, muziek, zintuiglijke en lichamelijke oefening of Friese taal aan basisscholen of scholen indien: 
 
-a. de opleiding die ten grondslag ligt aan het bewijs van bekwaamheid, tenzij het betreft een onderdaan van een Lid-Staat van de Europese Gemeenschappen die in het bezit is van een diploma als bedoeld in de in artikel 2 vermelde richtlijn, voor wat betreft niveau en inhoud gelijkwaardig kan worden geacht aan de Nederlandse opleiding die ten grondslag ligt aan een van de bewijzen van bekwaamheid waaraan in Nederland de bevoegdheid is verbonden tot het geven van onderwijs in het betreffende vak aan een basisschool, en  
+a. de opleiding die ten grondslag ligt aan het bewijs van bekwaamheid voor wat betreft niveau en inhoud gelijkwaardig kan worden geacht aan de Nederlandse opleiding die ten grondslag ligt aan een van de bewijzen van bekwaamheid waaraan in Nederland de bevoegdheid is verbonden tot het geven van onderwijs in het betreffende vak aan een basisschool of school, en  
 
 b. hij de Nederlandse taal in voldoende mate beheerst, hetgeen blijkt uit het bezit van: 
 
@@ -52,8 +52,8 @@ een daarmee vergelijkbaar diploma behaald in het Nederlandstalige onderwijs in B
 
 ####Voorwaarden verkrijgen bevoegdheid voor onbepaalde tijd
 
-1.  Aan degene die op grond van artikel 2 de bevoegdheid voor bepaalde tijd is verleend wordt voor onbepaalde tijd de bevoegdheid verleend tot het geven van onderwijs aan basisscholen indien hij 40 schoolweken als groepsleraar werkzaam is geweest in het basisonderwijs en de inspecteur over zijn functioneren een positief advies heeft uitgebracht.   
-2.  Aan degene die op grond van artikel 3 de bevoegdheid voor bepaalde tijd is verleend wordt voor onbepaalde tijd de bevoegdheid verleend tot het geven van onderwijs in een der vakken handvaardigheid, tekenen, muziek, zintuiglijke en lichamelijke oefening of Friese taal aan basisscholen indien hij 40 schoolweken als vakleraar werkzaam is geweest in het basisonderwijs en de inspecteur over zijn functioneren een positief advies heeft uitgebracht.   
+1.  Aan degene die op grond van artikel 2 de bevoegdheid voor bepaalde tijd is verleend wordt voor onbepaalde tijd de bevoegdheid verleend tot het geven van onderwijs aan basisscholen of scholen indien hij 40 schoolweken als groepsleraar werkzaam is geweest in het basisonderwijs en de inspecteur over zijn functioneren een positief advies heeft uitgebracht.   
+2.  Aan degene die op grond van artikel 3 de bevoegdheid voor bepaalde tijd is verleend wordt voor onbepaalde tijd de bevoegdheid verleend tot het geven van onderwijs in een der vakken handvaardigheid, tekenen, muziek, zintuiglijke en lichamelijke oefening of Friese taal aan basisscholen of scholen indien hij 40 schoolweken als vakleraar werkzaam is geweest in het basisonderwijs en de inspecteur over zijn functioneren een positief advies heeft uitgebracht.   
 
 ### Artikel  5  
 

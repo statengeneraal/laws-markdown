@@ -1907,6 +1907,23 @@ with the provisions of regulation 34.1 of this Annex from oil tankers which load
 .7. confirmation that the oil tanker has on board an STS operations Plan meeting the requirements of regulation 41.     
 3.  If the estimated time of arrival of an oil tanker at the location or area for the STS operations changes by more than six hours, the master, owner or agent of that oil tanker shall provide a revised estimated time of arrival to the Party to the present Convention specified in paragraph 1 of this regulation.   
 
+### CHAPTER  9  
+
+####SPECIAL REQUIREMENTS FOR THE USE OR CARRIAGE OF OILS IN THE ANTARCTIC AREA
+
+### Regulation  43  
+
+####Special requirements for the use or carriage of oils in the Antarctic area
+
+1.  With the exception of vessels engaged in securing the safety of ships or in a search and rescue operation, the carriage in bulk as cargo or carriage and use as fuel of the following: 
+
+.1. crude oils having a density at 15°C higher than 900 kg/m <sup>3</sup>;  
+
+.2. oils, other than crude oils, having a density at 15°C higher than 900 kg/m <sup>3</sup> or a kinematic viscosity at 50°C higher than 180 mm <sup>2</sup> /s; or  
+
+.3. bitumen, tar and their emulsions,   shall be prohibited in the Antarctic area, as defined in Annex I, regulation 1.11.7.   
+2.  When prior operations have included the carriage or use of oils listed in paragraphs 1.1 to 1.3 of this regulation, the cleaning or flushing of tanks or pipelines is not required.   
+
 ### Appendix  I  
 
 ####LIST OF OILS
@@ -4514,7 +4531,11 @@ The International Air Pollution Prevention Certificate shall be drawn up in a fo
 .2. a marine diesel engine installed on a ship with a combined nameplate diesel engine propulsion power of less than 750 kW if it is demonstrated, to the satisfaction of the Administration, that the ship cannot comply with the standards set forth in paragraph 5.1.1 of this regulation because of design or construction limitations of the ship.    
 ###Emission Control Area
 
-6.  For the purpose of this regulation, an Emission Control Area shall be any sea area, including any port area, designated by the Organization in accordance with the criteria and procedures set forth in appendix III to this Annex.  
+6.  For the purposes of this regulation, emission control areas shall be: 
+
+.1. the North American area, which means the area described by the coordinates provided in appendix VII to this Annex; and  
+
+.2. any other sea area, including any port area, designated by the Organization in accordance with the criteria and procedures set forth in appendix III to this Annex.    
 ###Marine Diesel Engines Installed on a Ship Constructed Prior to 1 January 2000
 
 7.1.  Notwithstanding paragraph 1.1.1 of this regulation, a marine diesel engine with a power output of more than 5,000 kW and a per cylinder displacement at or above 90 litres installed on a ship constructed on or after 1 January 1990 but prior to 1 January 2000 shall comply with the emission limits set forth in subparagraph 7.4 of this paragraph, provided that an Approved Method for that engine has been certified by an Administration of a Party and notification of such certification has been submitted to the Organization by the certifying Administration. Compliance with this paragraph shall be demonstrated through one of the following: 
@@ -4560,11 +4581,13 @@ The International Air Pollution Prevention Certificate shall be drawn up in a fo
 2.  The worldwide average sulphur content of residual fuel oil supplied for use on board ships shall be monitored taking into account guidelines developed by the Organization. <sup> 4)  MEPC.82(43), “Guidelines for Monitoring the World-wide Average Sulphur Content of Residual Fuel Oils Supplied for Use On Board Ships”.  </sup>  
 ###Requirements within Emission Control Areas
 
-3.  For the purpose of this regulation, Emission Control Areas shall include: 
+3.  For the purpose of this regulation, emission control areas shall include: 
 
-.1. the Baltic Sea area as defined in regulation 1.11.2 of Annex I, the North Sea as defined in regulation 5(1)(f) of Annex V; and  
+.1. the Baltic Sea area as defined in regulation 1.11.2 of Annex I and the North Sea as defined in regulation 5(1)(f) of Annex V;  
 
-.2. any other sea area, including port areas, designated by the Organization in accordance with criteria and procedures set forth in appendix III to this Annex.     
+.2. the North American area as described by the coordinates provided in appendix VII to this Annex; and  
+
+.3. any other sea area, including any port area, designated by the Organization in accordance with the criteria and procedures set forth in appendix III to this Annex.     
 4.  While ships are operating within an Emission Control Area, the sulphur content of fuel oil used on board ships shall not exceed the following limits: 
 
 .1. 1.50% m/m prior to 1 July 2010;  
@@ -5213,6 +5236,327 @@ The following procedure shall be used to determine whether the fuel oil delivere
 .2. If the result of “Y” is greater than the applicable limit required by Annex VI, then the fuel oil fails to meet the standards required by Annex VI.     
 3.5.  If the result of “A”, “B”, “C” and “D” are not within the reproducibility (R) of the test method then the Administration may discard all of the test results and, at its discretion, repeat the entire testing process.   
 3.6.  The results obtained from the verification procedure are final.   
+
+### Appendix  VII  
+
+####North American Emission Control Area (Regulation 13.6 and regulation 14.3)
+
+The North American area comprises: 
+
+.1. the sea area located off the Pacific coasts of the United States and Canada, enclosed by geodesic lines connecting the following coordinates:  
+
+|  *POINT*   |  *LATITUDE*   |  *LONGITUDE*   |
+|:---|:---|:---|
+| 1  | 32º 32’ 10” N.  | 117º 06’ 11” W.  |
+| 2  | 32º 32’ 04” N.  | 117º 07’ 29” W.  |
+| 3  | 32º 31’ 39” N.  | 117º 14’ 20” W.  |
+| 4  | 32º 33’ 13” N.  | 117º 15’ 50” W.  |
+| 5  | 32º 34’ 21” N.  | 117º 22’ 01” W.  |
+| 6  | 32º 35’ 23” N.  | 117º 27’ 53” W.  |
+| 7  | 32º 37’ 38” N.  | 117º 49’ 34” W.  |
+| 8  | 31º 07’ 59” N.  | 118º 36’ 21” W.  |
+| 9  | 30º 33’ 25” N.  | 121º 47’ 29” W.  |
+| 10  | 31º 46’ 11” N.  | 123º 17’ 22” W.  |
+| 11  | 32º 21’ 58” N.  | 123º 50’ 44” W.  |
+| 12  | 32º 56’ 39” N.  | 124º 11’ 47” W.  |
+| 13  | 33º 40’ 12” N.  | 124º 27’ 15” W.  |
+| 14  | 34º 31’ 28” N.  | 125º 16’ 52” W.  |
+| 15  | 35º 14’ 38” N.  | 125º 43’ 23” W.  |
+| 16  | 35º 43’ 60” N.  | 126º 18’ 53” W.  |
+| 17  | 36º 16’ 25” N.  | 126º 45’ 30” W.  |
+| 18  | 37º 01’ 35” N.  | 127º 07’ 18” W.  |
+| 19  | 37º 45’ 39” N.  | 127º 38’ 02” W.  |
+| 20  | 38º 25’ 08” N.  | 127º 52’ 60” W.  |
+| 21  | 39º 25’ 05” N.  | 128º 31’ 23” W.  |
+| 22  | 40º 18’ 47” N.  | 128º 45’ 46” W.  |
+| 23  | 41º 13’ 39” N.  | 128º 40’ 22” W.  |
+| 24  | 42º 12’ 49” N.  | 129º 00’ 38” W.  |
+| 25  | 42º 47’ 34” N.  | 129º 05’ 42” W.  |
+| 26  | 43º 26’ 22” N.  | 129º 01’ 26” W.  |
+| 27  | 44º 24’ 43” N.  | 128º 41’ 23” W.  |
+| 28  | 45º 30’ 43” N.  | 128º 40’ 02” W.  |
+| 29  | 46º 11’ 01” N.  | 128º 49’ 01” W.  |
+| 30  | 46º 33’ 55” N.  | 129º 04’ 29” W.  |
+| 31  | 47º 39’ 55” N.  | 131º 15’ 41” W.  |
+| 32  | 48º 32’ 32” N.  | 132º 41’ 00” W.  |
+| 33  | 48º 57’ 47” N.  | 133º 14’ 47” W.  |
+| 34  | 49º 22’ 39” N.  | 134º 15’ 51” W.  |
+| 35  | 50º 01’ 52” N.  | 135º 19’ 01” W.  |
+| 36  | 51º 03’ 18” N.  | 136º 45’ 45” W.  |
+| 37  | 51º 54’ 04” N.  | 137º 41’ 54” W.  |
+| 38  | 52º 45’ 12” N.  | 138º 20’ 14” W.  |
+| 39  | 53º 29’ 20” N.  | 138º 40’ 36” W.  |
+| 40  | 53º 40’ 39” N.  | 138º 48’ 53” W.  |
+| 41  | 54º 13’ 45” N.  | 139º 32’ 38” W.  |
+| 42  | 54º 39’ 25” N.  | 139º 56’ 19” W.  |
+| 43  | 55º 20’ 18” N.  | 140º 55’ 45” W.  |
+| 44  | 56º 07’ 12” N.  | 141º 36’ 18” W.  |
+| 45  | 56º 28’ 32” N.  | 142º 17’ 19” W.  |
+| 46  | 56º 37’ 19” N.  | 142º 48’ 57” W.  |
+| 47  | 58º 51’ 04” N.  | 153º 15’ 03” W.  |
+
+.2. the sea areas located off the Atlantic coasts of the United States, Canada, and France (Saint-Pierre-et-Miquelon) and the Gulf of Mexico coast of the United States enclosed by geodesic lines connecting the following coordinates:  
+
+|  *POINT*   |  *LATITUDE*   |  *LONGITUDE*   |
+|:---|:---|:---|
+| 1  | 60º 00’ 00” N.  | 64º 09’ 36” W.  |
+| 2  | 60º 00’ 00” N.  | 56º 43’ 00” W.  |
+| 3  | 58º 54’ 01” N.  | 55º 38’ 05” W.  |
+| 4  | 57º 50’ 52” N.  | 55º 03’ 47” W.  |
+| 5  | 57º 35’ 13” N.  | 54º 00’ 59” W.  |
+| 6  | 57º 14’ 20” N.  | 53º 07’ 58” W.  |
+| 7  | 56º 48’ 09” N.  | 52º 23’ 29” W.  |
+| 8  | 56º 18’ 13” N.  | 51º 49’ 42” W.  |
+| 9  | 54º 23’ 21” N.  | 50º 17’ 44” W.  |
+| 10  | 53º 44’ 54” N.  | 50º 07’ 17” W.  |
+| 11  | 53º 04’ 59” N.  | 50º 10’ 05” W.  |
+| 12  | 52º 20’ 06” N.  | 49º 57’ 09” W.  |
+| 13  | 51º 34’ 20” N.  | 48º 52’ 45” W.  |
+| 14  | 50º 40’ 15” N.  | 48º 16’ 04” W.  |
+| 15  | 50º 02’ 28” N.  | 48º 07’ 03” W.  |
+| 16  | 49º 24’ 03” N.  | 48º 09’ 35” W.  |
+| 17  | 48º 39’ 22” N.  | 47º 55’ 17” W.  |
+| 18  | 47º 24’ 25” N.  | 47º 46’ 56” W.  |
+| 19  | 46º 35’ 12” N.  | 48º 00’ 54” W.  |
+| 20  | 45º 19’ 45” N.  | 48º 43’ 28” W.  |
+| 21  | 44º 43’ 38” N.  | 49º 16’ 50” W.  |
+| 22  | 44º 16’ 38” N.  | 49º 51’ 23” W.  |
+| 23  | 43º 53’ 15” N.  | 50º 34’ 01” W.  |
+| 24  | 43º 36’ 06” N.  | 51º 20’ 41” W.  |
+| 25  | 43º 23’ 59” N.  | 52º 17’ 22” W.  |
+| 26  | 43º 19’ 50” N.  | 53º 20’ 13” W.  |
+| 27  | 43º 21’ 14” N.  | 54º 09’ 20” W.  |
+| 28  | 43º 29’ 41” N.  | 55º 07’ 41” W.  |
+| 29  | 42º 40’ 12” N.  | 55º 31’ 44” W.  |
+| 30  | 41º 58’ 19” N.  | 56º 09’ 34” W.  |
+| 31  | 41º 20’ 21” N.  | 57º 05’ 13” W.  |
+| 32  | 40º 55’ 34” N.  | 58º 02’ 55” W.  |
+| 33  | 40º 41’ 38” N.  | 59º 05’ 18” W.  |
+| 34  | 40º 38’ 33” N.  | 60º 12’ 20” W.  |
+| 35  | 40º 45’ 46” N.  | 61º 14’ 03” W.  |
+| 36  | 41º 04’ 52” N.  | 62º 17’ 49” W.  |
+| 37  | 40º 36’ 55” N.  | 63º 10’ 49” W.  |
+| 38  | 40º 17’ 32” N.  | 64º 08’ 37” W.  |
+| 39  | 40º 07’ 46” N.  | 64º 59’ 31” W.  |
+| 40  | 40º 05’ 44” N.  | 65º 53’ 07” W.  |
+| 41  | 39º 58’ 05” N.  | 65º 59’ 51” W.  |
+| 42  | 39º 28’ 24” N.  | 66º 21’ 14” W.  |
+| 43  | 39º 01’ 54” N.  | 66º 48’ 33” W.  |
+| 44  | 38º 39’ 16” N.  | 67º 20’ 59” W.  |
+| 45  | 38º 19’ 20” N.  | 68º 02’ 01” W.  |
+| 46  | 38º 05’ 29” N.  | 68º 46’ 55” W.  |
+| 47  | 37º 58’ 14” N.  | 69º 34’ 07” W.  |
+| 48  | 37º 57’ 47” N.  | 70º 24’ 09” W.  |
+| 49  | 37º 52’ 46” N.  | 70º 37’ 50” W.  |
+| 50  | 37º 18’ 37” N.  | 71º 08’ 33” W.  |
+| 51  | 36º 32’ 25” N.  | 71º 33’ 59” W.  |
+| 52  | 35º 34’ 58” N.  | 71º 26’ 02” W.  |
+| 53  | 34º 33’ 10” N.  | 71º 37’ 04” W.  |
+| 54  | 33º 54’ 49” N.  | 71º 52’ 35” W.  |
+| 55  | 33º 19’ 23” N.  | 72º 17’ 12” W.  |
+| 56  | 32º 45’ 31” N.  | 72º 54’ 05” W.  |
+| 57  | 31º 55’ 13” N.  | 74º 12’ 02” W.  |
+| 58  | 31º 27’ 14” N.  | 75º 15’ 20” W.  |
+| 59  | 31º 03’ 16” N.  | 75º 51’ 18” W.  |
+| 60  | 30º 45’ 42” N.  | 76º 31’ 38” W.  |
+| 61  | 30º 12’ 48” N.  | 77º 18’ 29” W.  |
+| 62  | 29º 25’ 17” N.  | 76º 56’ 42” W.  |
+| 63  | 28º 36’ 59” N.  | 76º 47’ 60” W.  |
+| 64  | 28º 17’ 13” N.  | 76º 40’ 10” W.  |
+| 65  | 28º 17’ 12” N.  | 79º 11’ 23” W.  |
+| 66  | 27º 52’ 56” N.  | 79º 28’ 35” W.  |
+| 67  | 27º 26’ 01” N.  | 79º 31’ 38” W.  |
+| 68  | 27º 16’ 13” N.  | 79º 34’ 18” W.  |
+| 69  | 27º 11’ 54” N.  | 79º 34’ 56” W.  |
+| 70  | 27º 05’ 59” N.  | 79º 35’ 19” W.  |
+| 71  | 27º 00’ 28” N.  | 79º 35’ 17” W.  |
+| 72  | 26º 55’ 16” N.  | 79º 34’ 39” W.  |
+| 73  | 26º 53’ 58” N.  | 79º 34’ 27” W.  |
+| 74  | 26º 45’ 46” N.  | 79º 32’ 41” W.  |
+| 75  | 26º 44’ 30” N.  | 79º 32’ 23” W.  |
+| 76  | 26º 43’ 40” N.  | 79º 32’ 20” W.  |
+| 77  | 26º 41’ 12” N.  | 79º 32’ 01” W.  |
+| 78  | 26º 38’ 13” N.  | 79º 31’ 32” W.  |
+| 79  | 26º 36’ 30” N.  | 79º 31’ 06” W.  |
+| 80  | 26º 35’ 21” N.  | 79º 30’ 50” W.  |
+| 81  | 26º 34’ 51” N.  | 79º 30’ 46” W.  |
+| 82  | 26º 34’ 11” N.  | 79º 30’ 38” W.  |
+| 83  | 26º 31’ 12” N.  | 79º 30’ 15” W.  |
+| 84  | 26º 29’ 05” N.  | 79º 29’ 53” W.  |
+| 85  | 26º 25’ 31” N.  | 79º 29’ 58” W.  |
+| 86  | 26º 23’ 29” N.  | 79º 29’ 55” W.  |
+| 87  | 26º 23’ 21” N.  | 79º 29’ 54” W.  |
+| 88  | 26º 18’ 57” N.  | 79º 31’ 55” W.  |
+| 89  | 26º 15’ 26” N.  | 79º 33’ 17” W.  |
+| 90  | 26º 15’ 13” N.  | 79º 33’ 23” W.  |
+| 91  | 26º 08’ 09” N.  | 79º 35’ 53” W.  |
+| 92  | 26º 07’ 47” N.  | 79º 36’ 09” W.  |
+| 93  | 26º 06’ 59” N.  | 79º 36’ 35” W.  |
+| 94  | 26º 02’ 52” N.  | 79º 38’ 22” W.  |
+| 95  | 25º 59’ 30” N.  | 79º 40’ 03” W.  |
+| 96  | 25º 59’ 16” N.  | 79º 40’ 08” W.  |
+| 97  | 25º 57’ 48” N.  | 79º 40’ 38” W.  |
+| 98  | 25º 56’ 18” N.  | 79º 41’ 06” W.  |
+| 99  | 25º 54’ 04” N.  | 79º 41’ 38” W.  |
+| 100  | 25º 53’ 24” N.  | 79º 41’ 46” W.  |
+| 101  | 25º 51’ 54” N.  | 79º 41’ 59” W.  |
+| 102  | 25º 49’ 33” N.  | 79º 42’ 16” W.  |
+| 103  | 25º 48’ 24” N.  | 79º 42’ 23” W.  |
+| 104  | 25º 48’ 20” N.  | 79º 42’ 24” W.  |
+| 105  | 25º 46’ 26” N.  | 79º 42’ 44” W.  |
+| 106  | 25º 46’ 16” N.  | 79º 42’ 45” W.  |
+| 107  | 25º 43’ 40” N.  | 79º 42’ 59” W.  |
+| 108  | 25º 42’ 31” N.  | 79º 42’ 48” W.  |
+| 109  | 25º 40’ 37” N.  | 79º 42’ 27” W.  |
+| 110  | 25º 37’ 24” N.  | 79º 42’ 27” W.  |
+| 111  | 25º 37’ 08” N.  | 79º 42’ 27” W.  |
+| 112  | 25º 31’ 03” N.  | 79º 42’ 12” W.  |
+| 113  | 25º 27’ 59” N.  | 79º 42’ 11” W.  |
+| 114  | 25º 24’ 04” N.  | 79º 42’ 12” W.  |
+| 115  | 25º 22’ 21” N.  | 79º 42’ 20” W.  |
+| 116  | 25º 21’ 29” N.  | 79º 42’ 08” W.  |
+| 117  | 25º 16’ 52” N.  | 79º 41’ 24” W.  |
+| 118  | 25º 15’ 57” N.  | 79º 41’ 31” W.  |
+| 119  | 25º 10’ 39” N.  | 79º 41’ 31” W.  |
+| 120  | 25º 09’ 51” N.  | 79º 41’ 36” W.  |
+| 121  | 25º 09’ 03” N.  | 79º 41’ 45” W.  |
+| 122  | 25º 03’ 55” N.  | 79º 42’ 29” W.  |
+| 123  | 25º 02’ 60” N.  | 79º 42’ 56” W.  |
+| 124  | 25º 00’ 30” N.  | 79º 44’ 05” W.  |
+| 125  | 24º 59’ 03” N.  | 79º 44’ 48” W.  |
+| 126  | 24º 55’ 28” N.  | 79º 45’ 57” W.  |
+| 127  | 24º 44’ 18” N.  | 79º 49’ 24” W.  |
+| 128  | 24º 43’ 04” N.  | 79º 49’ 38” W.  |
+| 129  | 24º 42’ 36” N.  | 79º 50’ 50” W.  |
+| 130  | 24º 41’ 47” N.  | 79º 52’ 57” W.  |
+| 131  | 24º 38’ 32” N.  | 79º 59’ 58” W.  |
+| 132  | 24º 36’ 27” N.  | 80º 03’ 51” W.  |
+| 133  | 24º 33’ 18” N.  | 80º 12’ 43” W.  |
+| 134  | 24º 33’ 05” N.  | 80º 13’ 21” W.  |
+| 135  | 24º 32’ 13” N.  | 80º 15’ 16” W.  |
+| 136  | 24º 31’ 27” N.  | 80º 16’ 55” W.  |
+| 137  | 24º 30’ 57” N.  | 80º 17’ 47” W.  |
+| 138  | 24º 30’ 14” N.  | 80º 19’ 21” W.  |
+| 139  | 24º 30’ 06” N.  | 80º 19’ 44” W.  |
+| 140  | 24º 29’ 38” N.  | 80º 21’ 05” W.  |
+| 141  | 24º 28’ 18” N.  | 80º 24’ 35” W.  |
+| 142  | 24º 28’ 06” N.  | 80º 25’ 10” W.  |
+| 143  | 24º 27’ 23” N.  | 80º 27’ 20” W.  |
+| 144  | 24º 26’ 30” N.  | 80º 29’ 30” W.  |
+| 145  | 24º 25’ 07” N.  | 80º 32’ 22” W.  |
+| 146  | 24º 23’ 30” N.  | 80º 36’ 09” W .  |
+| 147  | 24º 22’ 33” N.  | 80º 38’ 56” W.  |
+| 148  | 24º 22’ 07” N.  | 80º 39’ 51” W.  |
+| 149  | 24º 19’ 31” N.  | 80º 45’ 21” W.  |
+| 150  | 24º 19’ 16” N.  | 80º 45’ 47” W.  |
+| 151  | 24º 18’ 38” N.  | 80º 46’ 49” W.  |
+| 152  | 24º 18’ 35” N.  | 80º 46’ 54” W.  |
+| 153  | 24º 09’ 51” N.  | 80º 59’ 47” W.  |
+| 154  | 24º 09’ 48” N.  | 80º 59’ 51” W.  |
+| 155  | 24º 08’ 58” N.  | 81º 01’ 07” W.  |
+| 156  | 24º 08’ 30” N.  | 81º 01’ 51” W.  |
+| 157  | 24º 08’ 26” N.  | 81º 01’ 57” W.  |
+| 158  | 24º 07’ 28” N.  | 81º 03’ 06” W.  |
+| 159  | 24º 02’ 20” N.  | 81º 09’ 05” W.  |
+| 160  | 23º 59’ 60” N.  | 81º 11’ 16” W.  |
+| 161  | 23º 55’ 32” N.  | 81º 12’ 55” W.  |
+| 162  | 23º 53’ 52” N.  | 81º 19’ 43” W.  |
+| 163  | 23º 50’ 52” N.  | 81º 29’ 59” W.  |
+| 164  | 23º 50’ 02” N.  | 81º 39’ 59” W.  |
+| 165  | 23º 49’ 05” N.  | 81º 49’ 59” W.  |
+| 166  | 23º 49’ 05” N.  | 82º 00’ 11” W.  |
+| 167  | 23º 49’ 42” N.  | 82º 09’ 59” W.  |
+| 168  | 23º 51’ 14” N.  | 82º 24’ 59” W.  |
+| 169  | 23º 51’ 14” N.  | 82º 39’ 59” W.  |
+| 170  | 23º 49’ 42” N.  | 82º 48’ 53” W.  |
+| 171  | 23º 49’ 32” N.  | 82º 51’ 11” W.  |
+| 172  | 23º 49’ 24” N.  | 82º 59’ 59” W.  |
+| 173  | 23º 49’ 52” N.  | 83º 14’ 59” W.  |
+| 174  | 23º 51’ 22” N.  | 83º 25’ 49” W.  |
+| 175  | 23º 52’ 27” N.  | 83º 33’ 01” W.  |
+| 176  | 23º 54’ 04” N.  | 83º 41’ 35” W.  |
+| 177  | 23º 55’ 47” N.  | 83º 48’ 11” W.  |
+| 178  | 23º 58’ 38” N.  | 83º 59’ 59” W.  |
+| 179  | 24º 09’ 37” N.  | 84º 29’ 27” W.  |
+| 180  | 24º 13’ 20” N.  | 84º 38’ 39” W.  |
+| 181  | 24º 16’ 41” N.  | 84º 46’ 07” W.  |
+| 182  | 24º 23’ 30” N.  | 84º 59’ 59” W.  |
+| 183  | 24º 26’ 37” N.  | 85º 06’ 19” W.  |
+| 184  | 24º 38’ 57” N.  | 85º 31’ 54” W.  |
+| 185  | 24º 44’ 17” N.  | 85º 43’ 11” W.  |
+| 186  | 24º 53’ 57” N.  | 85º 59’ 59” W.  |
+| 187  | 25º 10’ 44” N.  | 86º 30’ 07” W.  |
+| 188  | 25º 43’ 15” N.  | 86º 21’ 14” W.  |
+| 189  | 26º 13’ 13” N.  | 86º 06’ 45” W.  |
+| 190  | 26º 27’ 22” N.  | 86º 13’ 15” W.  |
+| 191  | 26º 33’ 46” N.  | 86º 37’ 07” W.  |
+| 192  | 26º 01’ 24” N.  | 87º 29’ 35” W.  |
+| 193  | 25º 42’ 25” N.  | 88º 33’ 00” W.  |
+| 194  | 25º 46’ 54” N.  | 90º 29’ 41” W.  |
+| 195  | 25º 44’ 39” N.  | 90º 47’ 05” W.  |
+| 196  | 25º 51’ 43” N.  | 91º 52’ 50” W.  |
+| 197  | 26º 17’ 44” N.  | 93º 03’ 59” W.  |
+| 198  | 25º 59’ 55” N.  | 93º 33’ 52” W.  |
+| 199  | 26º 00’ 32” N.  | 95º 39’ 27” W.  |
+| 200  | 26º 00’ 33” N.  | 96º 48’ 30” W.  |
+| 201  | 25º 58’ 32” N.  | 96º 55’ 28” W.  |
+| 202  | 25º 58’ 15” N.  | 96º 58’ 41” W.  |
+| 203  | 25º 57’ 58” N.  | 97º 01’ 54” W.  |
+| 204  | 25º 57’ 41” N.  | 97º 05’ 08” W.  |
+| 205  | 25º 57’ 24” N.  | 97º 08’ 21” W.  |
+| 206  | 25º 57’ 24” N.  | 97º 08’ 47” W.  |
+
+.3. the sea area located off the coasts of the Hawaiian Islands of Hawai’i, Maui, Oahu, Moloka’i, Ni’ihau, Kaua’i, Lāna’i, and Kaho’olawe, enclosed by geodesic lines connecting the following coordinates:  
+
+|  *POINT*   |  *LATITUDE*   |  *LONGITUDE*   |
+|:---|:---|:---|
+| 1  | 22º 32’ 54” N.  | 153º 00’ 33” W.  |
+| 2  | 23º 06’ 05” N.  | 153º 28’ 36” W.  |
+| 3  | 23º 32’ 11” N.  | 154º 02’ 12” W.  |
+| 4  | 23º 51’ 47” N.  | 154º 36’ 48” W.  |
+| 5  | 24º 21’ 49” N.  | 155º 51’ 13” W.  |
+| 6  | 24º 41’ 47” N.  | 156º 27’ 27” W.  |
+| 7  | 24º 57’ 33” N.  | 157º 22’ 17” W.  |
+| 8  | 25º 13’ 41” N.  | 157º 54’ 13” W.  |
+| 9  | 25º 25’ 31” N.  | 158º 30’ 36” W.  |
+| 10  | 25º 31’ 19” N.  | 159º 09’ 47” W.  |
+| 11  | 25º 30’ 31” N.  | 159º 54’ 21” W.  |
+| 12  | 25º 21’ 53” N.  | 160º 39’ 53” W.  |
+| 13  | 25º 00’ 06” N.  | 161º 38’ 33” W.  |
+| 14  | 24º 40’ 49” N.  | 162º 13’ 13” W.  |
+| 15  | 24º 15’ 53” N.  | 162º 43’ 08” W.  |
+| 16  | 23º 40’ 50” N.  | 163º 13’ 00” W.  |
+| 17  | 23º 03’ 20” N.  | 163º 32’ 58” W.  |
+| 18  | 22º 20’ 09” N.  | 163º 44’ 41” W.  |
+| 19  | 21º 36’ 45” N.  | 163º 46’ 03” W.  |
+| 20  | 20º 55’ 26” N.  | 163º 37’ 44” W.  |
+| 21  | 20º 13’ 34” N.  | 163º 19’ 13” W.  |
+| 22  | 19º 39’ 03” N.  | 162º 53’ 48” W.  |
+| 23  | 19º 09’ 43” N.  | 162º 20’ 35” W.  |
+| 24  | 18º 39’ 16” N.  | 161º 19’ 14” W.  |
+| 25  | 18º 30’ 31” N.  | 160º 38’ 30” W.  |
+| 26  | 18º 29’ 31” N.  | 159º 56’ 17” W.  |
+| 27  | 18º 10’ 41” N.  | 159º 14’ 08” W.  |
+| 28  | 17º 31’ 17” N.  | 158º 56’ 55” W.  |
+| 29  | 16º 54’ 06” N.  | 158º 30’ 29” W.  |
+| 30  | 16º 25’ 49” N.  | 157º 59’ 25” W.  |
+| 31  | 15º 59’ 57” N.  | 157º 17’ 35” W.  |
+| 32  | 15º 40’ 37” N.  | 156º 21’ 06” W.  |
+| 33  | 15º 37’ 36” N.  | 155º 22’ 16” W.  |
+| 34  | 15º 43’ 46” N.  | 154º 46’ 37” W.  |
+| 35  | 15º 55’ 32” N.  | 154º 13’ 05” W.  |
+| 36  | 16º 46’ 27” N.  | 152º 49’ 11” W.  |
+| 37  | 17º 33’ 42” N.  | 152º 00’ 32” W.  |
+| 38  | 18º 30’ 16” N.  | 151º 30’ 24” W.  |
+| 39  | 19º 02’ 47” N.  | 151º 22’ 17” W.  |
+| 40  | 19º 34’ 46” N.  | 151º 19’ 47” W.  |
+| 41  | 20º 07’ 42” N.  | 151º 22’ 58” W.  |
+| 42  | 20º 38’ 43” N.  | 151º 31’ 36” W.  |
+| 43  | 21º 29’ 09” N.  | 151º 59’ 50” W.  |
+| 44  | 22º 06’ 58” N.  | 152º 31’ 25” W.  |
+| 45  | 22º 32’ 54” N.  | 153º 00’ 33” W.  |
+
+(end of text)   
 
 ####Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973
 

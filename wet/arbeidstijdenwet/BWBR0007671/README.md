@@ -260,7 +260,11 @@ b. een ieder, die over een kind het ouderlijk gezag of de voogdij uitoefent of i
 
 a. arbeid in het kader van een alternatieve sanctie door een kind van 12 jaar of ouder, voor zover deze arbeid niet wordt verricht gedurende de schooltijd;  
 
-b. niet-industriële arbeid van lichte aard door een kind van 13 jaar of ouder, voor zover deze arbeid niet wordt verricht gedurende de schooltijd;  
+b. niet-industriële arbeid van lichte aard door een kind van 13 jaar of ouder: 
+
+1°. voor zover deze arbeid niet wordt verricht gedurende de schooltijd, of  
+
+2°. in het kader van een maatschappelijke stage als bedoeld in [artikel 6f van de Wet op het voortgezet onderwijs](../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);    
 
 c. arbeid van lichte aard door een kind van 14 jaar of ouder voor zover deze arbeid verricht wordt naast en in samenhang met het onderwijs;  
 

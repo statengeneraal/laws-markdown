@@ -73,7 +73,7 @@ The procedures set out in Article 16 of the Convention in respect of amendments 
 1.  The present Protocol shall be deposited with the Secretary-General of the Organization (hereinafter referred to as “the Depositary”).   
 2.  The Depositary shall: 
 
-(a) inform all States which have signed the present Protocol or cceded thereto of: 
+(a) inform all States which have signed the present Protocol or acceded thereto of: 
 
 (i) each new signature or deposit of an instrument of ratification, acceptance, approval or accession, together with the date thereof;  
 

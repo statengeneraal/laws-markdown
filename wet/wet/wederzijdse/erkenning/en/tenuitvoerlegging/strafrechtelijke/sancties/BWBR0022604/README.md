@@ -191,20 +191,34 @@ d. de tenuitvoerlegging van de beslissing, houdende de geldelijke sanctie, onver
 
 e. de veroordeelde ten tijde van het begaan van het feit de leeftijd van twaalf jaren nog niet had bereikt;  
 
-f. de geldelijke sanctie is opgelegd bij beschikking en uit het certificaat blijkt dat de veroordeelde noch persoonlijk, noch door tussenkomst van zijn vertegenwoordiger op de door het nationale recht van de uitvaardigende lidstaat voorgeschreven wijze in kennis is gesteld van de mogelijkheid een rechtsmiddel in te stellen en van de daarvoor geldende termijn;  
-
-g. de geldelijke sanctie is opgelegd bij rechterlijke uitspraak en uit het certificaat blijkt dat de veroordeelde niet bij behandeling van de zaak ter terechtzitting aanwezig was, tenzij hij persoonlijk of door tussenkomst van zijn vertegenwoordiger op de door het nationale recht van de uitvaardigende lidstaat voorgeschreven wijze is opgeroepen voor de terechtzitting dan wel te kennen heeft gegeven afstand te doen van het recht zich te verdedigen of te laten verdedigen;  
-
-h. het certificaat niet is overgelegd, onvolledig is of kennelijk niet in overeenstemming is met de beslissing en niet aan het verzoek, bedoeld in artikel 7, tweede lid, is voldaan.     
+f. het certificaat niet is overgelegd, onvolledig is of kennelijk niet in overeenstemming is met de beslissing en niet aan het verzoek, bedoeld in artikel 7, tweede lid, is voldaan.     
 2.  De tenuitvoerlegging van een beslissing wordt niet geweigerd op grond van het eerste lid, onderdeel b, indien het feit waarvoor de geldelijke sanctie is opgelegd, is vermeld op of valt onder de bij algemene maatregel van bestuur vastgestelde lijst met feiten en soorten van feiten.   
-3.  De tenuitvoerlegging van de beslissing houdende een geldelijke sanctie wordt niet geweigerd op grond van het eerste lid, onderdelen c, f en g, dan nadat de bevoegde autoriteit van de uitvaardigende lidstaat in de gelegenheid is gesteld hieromtrent inlichtingen te verschaffen.   
-4.  Indien de officier van justitie op grond van het eerste lid de erkenning en tenuitvoerlegging van de geldelijke sanctie weigert, stelt hij de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld schriftelijk en met redenen omkleed in kennis.   
+3.  De tenuitvoerlegging van de beslissing houdende een geldelijke sanctie wordt niet geweigerd op grond van het eerste lid, onderdeel c, dan nadat de bevoegde autoriteit van de uitvaardigende lidstaat in de gelegenheid is gesteld hieromtrent inlichtingen te verschaffen.   
+
+### Artikel  13a  
+
+####(aanvullende verplichte weigeringsgrond)
+
+1.  De officier van justitie weigert de erkenning en tenuitvoerlegging van de beslissing houdende een geldelijke sanctie, indien uit het certificaat blijkt, dat 
+
+a. de veroordeelde, indien de geldsanctie bij beschikking is opgelegd, niet in overeenstemming met het recht van de uitvaardigende lidstaat in persoon of via een naar het nationale recht bevoegde vertegenwoordiger in kennis is gesteld van zijn recht om de zaak te betwisten, alsmede van de termijnen waarbinnen dat rechtsmiddel moet worden aangewend; of  
+
+b. de veroordeelde niet in persoon is verschenen bij de behandeling ter terechtzitting die tot de beslissing, houdende een geldelijke sanctie heeft geleid, tenzij in het certificaat is vermeld dat de veroordeelde, overeenkomstig de procedurevoorschriften van de uitvaardigende lidstaat: 
+
+1°. tijdig en in persoon is gedagvaard en daarbij op de hoogte is gebracht van de datum en de plaats van de behandeling ter terechtzitting die tot de beslissing, houdende een geldelijke sanctie heeft geleid of anderszins daadwerkelijk officieel in kennis is gesteld van de datum en de plaats van de behandeling ter terechtzitting, zodat op ondubbelzinnige wijze vaststaat dat hij op de hoogte was van de voorgenomen terechtzitting en ervan in kennis is gesteld dat een beslissing kan worden genomen wanneer hij niet ter terechtzitting verschijnt; of  
+
+2°. op de hoogte was van de voorgenomen behandeling ter terechtzitting en een door hem gekozen of een hem van overheidswege toegewezen advocaat heeft gemachtigd zijn verdediging te voeren en dat die advocaat ter terechtzitting zijn verdediging heeft gevoerd; of  
+
+3°. nadat de beslissing, houdende een geldelijke sanctie aan hem was betekend en hij uitdrukkelijk was geïnformeerd over zijn recht op een verzetprocedure of een procedure in hoger beroep waarbij hij het recht heeft aanwezig te zijn en tijdens welke de zaak opnieuw ten gronde wordt behandeld en nieuw bewijsmateriaal wordt toegelaten, en die kan leiden tot herziening van de oorspronkelijke beslissing, uitdrukkelijk te kennen heeft gegeven dat hij de beslissing niet betwist of niet binnen de voorgeschreven termijn verzet of hoger beroep heeft aangetekend; of    
+
+c. de veroordeelde niet in persoon is verschenen, tenzij in het certificaat is vermeld dat de veroordeelde, na uitdrukkelijk te zijn geïnformeerd over de behandeling ter terechtzitting en over de mogelijkheid om in persoon ter terechtzitting aanwezig te zijn, uitdrukkelijk heeft verklaard afstand te doen van zijn recht op een mondelinge behandeling en uitdrukkelijk te kennen heeft gegeven dat hij de zaak niet betwist.     
+2.  De tenuitvoerlegging van de beslissing, houdende een geldelijke sanctie wordt niet geweigerd dan nadat de bevoegde autoriteit van de uitvaardigende lidstaat in de gelegenheid is gesteld hieromtrent inlichtingen te verschaffen.   
 
 ### Artikel  14  
 
 ####(facultatieve weigeringsgronden)
 
-1.  De officier van justitie kan de erkenning en tenuitvoerlegging van een beslissing, houdende een geldelijke sanctie, weigeren indien: 
+De officier van justitie kan de erkenning en tenuitvoerlegging van een beslissing, houdende een geldelijke sanctie, weigeren indien: 
 
 a. het feit waarvoor de geldelijke sanctie is opgelegd: 
 
@@ -212,8 +226,13 @@ a. het feit waarvoor de geldelijke sanctie is opgelegd:
 
 2°. buiten het grondgebied van de uitvaardigende lidstaat is gepleegd, terwijl naar Nederlands recht geen vervolging zou kunnen worden ingesteld indien het feit buiten Nederland zou zijn gepleegd;    
 
-b. de hoogte van de geldelijke sanctie 70 euro of minder bedraagt.     
-2.  Indien de officier van justitie op grond van het eerste lid de tenuitvoerlegging van de geldelijke sanctie weigert, stelt hij de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld schriftelijk en met redenen omkleed in kennis.   
+b. de hoogte van de geldelijke sanctie 70 euro of minder bedraagt.    
+
+### Artikel  14a  
+
+####(mededeling)
+
+Indien de officier van justitie op grond van een van de in de artikelen 13, 13a en 14 genoemde gronden de tenuitvoerlegging van de geldelijke sanctie weigert, stelt hij de bevoegde autoriteit van de uitvaardigende lidstaat daarvan onverwijld, schriftelijk en met redenen omkleed in kennis.  
 
 ### Artikel  15  
 
@@ -324,13 +343,22 @@ c. over het feit dat ten grondslag ligt aan de strafzaak in verband waarmee de b
 
 d. de tenuitvoerlegging van de beslissing tot confiscatie onverenigbaar is met een naar Nederlands recht geldende immuniteit;  
 
-e. de rechten van belanghebbenden de tenuitvoerlegging van die beslissing tot confiscatie onmogelijk maken;  
-
-f. uit het certificaat blijkt dat de veroordeelde niet bij behandeling van de zaak ter terechtzitting aanwezig was, tenzij hij persoonlijk of door tussenkomst van zijn vertegenwoordiger op de door het nationale recht van de uitvaardigende lidstaat voorgeschreven wijze is opgeroepen voor de terechtzitting dan wel te kennen heeft gegeven afstand te doen van het recht zich te verdedigen of te laten verdedigen;  
-
-g. het certificaat niet is overgelegd, onvolledig is of kennelijk niet in overeenstemming is met de beslissing en niet aan het verzoek, bedoeld in artikel 7, tweede lid, is voldaan.     
+e. de rechten van belanghebbenden de tenuitvoerlegging van die beslissing tot confiscatie onmogelijk maken.     
 2.  De tenuitvoerlegging van een beslissing wordt niet geweigerd op grond van het eerste lid, onderdeel b, indien het feit waarvoor de beslissing tot confiscatie is opgelegd, is vermeld op of valt onder de bij algemene maatregel van bestuur vastgestelde lijst met feiten en soorten van feiten en het feit in de uitvaardigende lidstaat wordt bedreigd met een maximale vrijheidsstraf van ten minste drie jaren.   
-3.  De erkenning en tenuitvoerlegging van de beslissing tot confiscatie worden niet geweigerd op grond van het eerste lid, onderdelen a, f en g, dan nadat de bevoegde autoriteit van de uitvaardigende lidstaat in de gelegenheid is gesteld hieromtrent inlichtingen te verschaffen. Hetzelfde geldt voor een weigering op grond van onderdeel e van het eerste lid, indien er geen rechtsmiddel als bedoeld in artikel 27 is ingesteld.   
+3.  De erkenning en tenuitvoerlegging van de beslissing tot confiscatie worden niet geweigerd op grond van het onderdeel a, dan nadat de bevoegde autoriteit van de uitvaardigende lidstaat in de gelegenheid is gesteld hieromtrent inlichtingen te verschaffen. Hetzelfde geldt voor een weigering op grond van onderdeel e van het eerste lid, indien er geen rechtsmiddel als bedoeld in artikel 27 is ingesteld.   
+
+### Artikel  24a  
+
+####(aanvullende verplichte weigeringsgrond)
+
+1.  De officier van justitie weigert de erkenning en tenuitvoerlegging van de beslissing tot confiscatie, indien uit het certificaat blijkt, dat de veroordeelde niet in persoon is verschenen bij de behandeling ter terechtzitting die tot de beslissing tot confiscatie heeft geleid, tenzij in het certificaat is vermeld dat de veroordeelde, overeenkomstig de procedurevoorschriften van de uitvaardigende lidstaat: 
+
+1°. tijdig en in persoon is gedagvaard en daarbij op de hoogte is gebracht van de datum en de plaats van de behandeling ter terechtzitting die tot de beslissing tot confiscatie heeft geleid of anderszins daadwerkelijk officieel in kennis is gesteld van de datum en de plaats van de behandeling ter terechtzitting, zodat op ondubbelzinnige wijze vaststaat dat hij op de hoogte was van de voorgenomen terechtzitting en ervan in kennis is gesteld dat een beslissing kan worden genomen wanneer hij niet ter terechtzitting verschijnt; of  
+
+2°. op de hoogte was van de voorgenomen behandeling ter terechtzitting en een door hem gekozen of een hem van overheidswege toegewezen advocaat heeft gemachtigd zijn verdediging te voeren en dat die advocaat ter terechtzitting zijn verdediging heeft gevoerd; of  
+
+3°. nadat de beslissing tot confiscatie aan hem was betekend en hij uitdrukkelijk was geïnformeerd over zijn recht op een verzetprocedure of een procedure in hoger beroep, waarbij hij het recht heeft aanwezig te zijn en tijdens welke de zaak opnieuw ten gronde wordt behandeld en nieuw bewijsmateriaal wordt toegelaten, die kan leiden tot herziening van de oorspronkelijke beslissing, uitdrukkelijk te kennen heeft gegeven dat hij de beslissing niet betwist of niet binnen de voorgeschreven termijn verzet of hoger beroep heeft aangetekend.     
+2.  De tenuitvoerlegging van de beslissing tot confiscatie wordt niet geweigerd dan nadat de bevoegde autoriteit van de uitvaardigende lidstaat in de gelegenheid is gesteld hieromtrent inlichtingen te verschaffen.   
 
 ### Artikel  25  
 
@@ -390,7 +418,7 @@ c. worden vernietigd.
 
 ####(mededelingen)
 
-1.  Indien de officier van justitie op grond van artikel 24, eerste lid, of  25, eerste lid, de erkenning en tenuitvoerlegging van de beslissing tot confiscatie weigert, stelt hij de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld schriftelijk en met redenen omkleed in kennis.   
+1.  Indien de officier van justitie op grond van de artikelen 24, eerste lid, 24a, eerste lid, of  25, eerste lid, de erkenning en tenuitvoerlegging van de beslissing tot confiscatie weigert, stelt hij de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld schriftelijk en met redenen omkleed in kennis.   
 2.  Indien de tenuitvoerlegging van de beslissing tot confiscatie niet, of niet geheel slaagt, stelt de officier van justitie de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld met redenen omkleed in kennis.   
 3.  Van de toepassing van een vervangende straf of maatregel stelt de officier van justitie de bevoegde autoriteit van de uitvaardigende lidstaat onverwijld in kennis.   
 4.  Indien tenuitvoerlegging van de beslissing tot confiscatie onmogelijk blijkt, zulks nadat de bevoegde autoriteit van de uitvaardigende lidstaat door de bevoegde autoriteit van de uitvoerende lidstaat in de gelegenheid is gesteld nadere gegevens met betrekking tot het voorwerp waarop de beslissing tot confiscatie betrekking heeft te verstrekken, wordt de bevoegde autoriteit van de uitvaardigende lidstaat daarvan onverwijld schriftelijk in kennis gesteld.   

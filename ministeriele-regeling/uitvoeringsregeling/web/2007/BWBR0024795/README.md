@@ -17,7 +17,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *minister:* Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het beroepsonderwijs op het gebied van de landbouw en natuurlijke omgeving, Minister van Landbouw, Natuur en Voedselkwaliteit,  
+a. *minister:* Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het beroepsonderwijs op het gebied van de landbouw en natuurlijke omgeving, minister van Economische Zaken, Landbouw en Innovatie,  
 
 b. *wet:*[Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
 
@@ -137,7 +137,7 @@ m. de opneming in het Centraal register;
 
 n. de voorschriften inzake bestuur en bestuursoverdracht, bedoeld in [paragraaf 1 van titel 1 van hoofdstuk 9 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
-o. de [hoofdstukken 10](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [11 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);    
+o. de [hoofdstukken 10](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [11 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
 
 ### Hoofdstuk  3  
 
@@ -159,32 +159,27 @@ o. de [hoofdstukken 10](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR
 
 ####Vaststelling vaste voet en prijs per leerling voorbereidend beroepsonderwijs
 
-1.  Het aantal formatieplaatsen wordt verhoogd met één formatieplaats per agrarisch opleidingscentrum.   
-2.  Indien twee of meer agrarische opleidingscentra een fusie met elkaar aangaan, behoudt het agrarisch opleidingscentrum dat tengevolge van de fusie tot stand komt het aantal formatieplaatsen, bedoeld in het eerste lid, dat ieder van de agrarische opleidingscentra afzonderlijk vóór de fusie had, voor een periode van drie jaren na het jaar waarin de fusie plaatsvond.   
-3.  In aanvulling op het bepaalde in het eerste lid wordt het aantal formatieplaatsen uitgebreid met: 
+1.  De vaste voet per instelling, bedoeld in [artikel 2.3.2, eerste lid, van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), wordt voor het jaar 2011 berekend door elke vaste formatieplaats te vermenigvuldigen met een bedrag van € 53.175,67. De vaste formatie wordt als volgt vastgesteld: 
 
-a. een halve formatieplaats per school voor voorbereidend beroepsonderwijs met een afdeling landbouw en natuurlijke omgeving die uiterlijk op 1 augustus 1991 deel uitmaakte van het agrarisch opleidingscentrum, en  
+a. één formatieplaats per agrarisch opleidingscentrum; en  
 
-b. twee formatieplaatsen per school met een afdeling paardenhouderij en paardensport die uiterlijk op 1 augustus 1991 deel uitmaakte van een agrarisch opleidingscentrum.     
-4.  De prijs per leerling verbonden aan het voorbereidend beroepsonderwijs en leerwegondersteunend onderwijs, bedoeld in [artikel 2.3.2 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), bedraagt 
+b. een halve formatieplaats per vestiging waar per 1 augustus voorafgaand aan het desbetreffende jaar voorbereidend beroepsonderwijs in de afdeling landbouw, natuurlijke omgeving en voedsel wordt verzorgd;  
 
-a. voor de leerling beroepsonderwijs € 5.543,– en  
+c. indien twee of meer agrarische opleidingscentra een fusie met elkaar aangaan, behoudt het agrarisch opleidingscentrum dat ten gevolge van de fusie tot stand komt het aantal formatieplaatsen, bedoeld in het eerste lid onder a. en b., dat ieder van de agrarische opleidingscentra afzonderlijk voor de fusie had, voor een periode van drie jaren na het jaar waarin de fusie plaatsvond;  
 
-b. voor de leerling leerwegondersteunend onderwijs € 8.545–.     
-5.  De prijs per leerling kan worden aangepast in verband met salarismaatregelen en prijsbijstellingen die voortvloeien uit de rijksbegroting.   
+d. indien de formatie van een agrarisch opleidingscentrum, berekend volgens deze regeling zoals die luidde op 1 januari 2011, hoger was dan die volgens deze regeling zoals deze luidt op 1 januari 2012, dan wordt het verschil voor het bekostigingsjaar 2012 toegevoegd aan de formatie van dat agrarisch opleidingscentrum. Voor het bekostigingsjaar 2013 wordt 75% van het verschil toegevoegd, voor het jaar 2014 50% en voor het jaar 2015 25%.     
+2.  De prijs per leerling verbonden aan het voorbereidend beroepsonderwijs en leerwegondersteunend onderwijs als bedoeld in [artikel 2.3.2 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) bedraagt per 1 januari 2011: 
 
-### Artikel  3.1.3  
+a. voor de leerling voorbereidend beroepsonderwijs € 6463,24, bestaande uit een component voor personele kosten ad € 5.484,87en een component voor materiële kosten ad € 978,37;  
 
-####Bekostiging gehandicapten
+b. voor de leerling leerwegondersteunend onderwijs€ 10.070,72,bestaande uit een component voor personele kosten ad € 8.842,35en een component voor materiële kosten ad € 1.228,37.     
+3.  De bedragen in het eerste en tweede lid worden jaarlijks als volgt aangepast: 
 
-1.  De minister stelt jaarlijks het landelijk beschikbare budget vast ten behoeve van de kosten voor gehandicapte deelnemers voor het beroepsonderwijs voor: 
+a. het bedrag in het eerste lid wordt met hetzelfde percentage aangepast als waarmee de gemiddelde personeelslast in het voorbereidend beroepsonderwijs wordt aangepast op grond van [artikel 85, derde lid, van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-a. de instellingen, bedoeld in de [artikelen 1.1.1, onderdeel b, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met uitzondering van een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+b. de bedragen voor personele kosten, bedoeld in het tweede lid, worden aangepast met hetzelfde percentage als waarmee de gemiddelde personeelslast in het voorbereidend beroepsonderwijs wordt aangepast op grond van [artikel 85, derde lid, van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
 
-b. de instituten, bedoeld in [artikel 12.3.8 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en  
-
-c. de hogeschool, bedoeld in artikel 2.2.1.     
-2.  De minister verdeelt het voor een kalenderjaar vastgestelde budget ten behoeve van de gehandicapte deelnemers over de instellingen, bedoeld in het eerste lid, naar rato van het totaal van de voor dat kalenderjaar op grond van de [artikelen 2.2.3](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) en [2.2.4 van het besluit](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), berekende rijksbijdrage voor die instelling.   
+c. de bedragen voor materiële kosten, bedoeld in het tweede lid, worden jaarlijks aangepast met het gemiddelde van de percentages waarmee de bedragen voor het voorbereidend beroepsonderwijs worden aangepast op grond van [artikel 86, vijfde en zesde lid, van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).     
 
 ### Artikel  3.1.4  
 

@@ -4883,7 +4883,8 @@ c. zich anderszins een omstandigheid heeft voorgedaan waaruit voortvloeit dat de
 
 d. de dagvaarding of oproeping binnen zes weken nadat door de verdachte op de voet van artikel 257e verzet is gedaan, rechtsgeldig aan de verdachte is betekend met inachtneming van artikel 588a en in eerste aanleg geen onvoorwaardelijke straf of maatregel is opgelegd die vrijheidsbeneming van langere duur meebrengt dan zes maanden.     
 2.  In andere gevallen dan de in het eerste lid genoemde moet het hoger beroep worden ingesteld binnen veertien dagen nadat zich een omstandigheid heeft voorgedaan waaruit voortvloeit dat de einduitspraak de verdachte bekend is.   
-3.  Indien het onderzoek op de terechtzitting voor onbepaalde tijd is geschorst en de aanzegging of oproeping voor de nadere terechtzitting niet in persoon is gedaan of betekend, dan is de termijn bedoeld in het tweede lid van toepassing, tenzij 
+3.  Het tweede lid is niet van toepassing in geval van een verstrekking van een afschrift van het vonnis, als bedoeld in [artikel 45b van de Overleveringswet](../../../../../../../wet/overleveringswet/BWBR0016664/README.md).   
+4.  Indien het onderzoek op de terechtzitting voor onbepaalde tijd is geschorst en de aanzegging of oproeping voor de nadere terechtzitting niet in persoon is gedaan of betekend, dan is de termijn bedoeld in het tweede lid van toepassing, tenzij 
 
 a. de verdachte op de nadere terechtzitting is verschenen of  
 
