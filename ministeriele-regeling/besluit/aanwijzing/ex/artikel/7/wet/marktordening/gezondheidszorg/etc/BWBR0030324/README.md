@@ -20,13 +20,13 @@ Deze aanwijzing is van toepassing op mondzorg, met uitzondering van chirurgische
 
 a. als omschreven bij of krachtens de [Zorgverzekeringswet](../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md); of  
 
-b. verleend door personen, ingeschreven in een register als bedoeld in [artikel 3](../../../../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) of [artikel 34 van de Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) voor zover het betreft handelingen of werkzaamheden die niet zijn begrepen onder a.    
+b. verleend door personen, ingeschreven in een register als bedoeld in [artikel 3](../../../../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) of [artikel 34 van de Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) voor zover het betreft handelingen of werkzaamheden die niet zijn begrepen onder a.   
 
 ### Artikel  2  
 
 ####uitvoering van de aanwijzing
 
-Ter uitvoering van deze aanwijzing stelt de Nederlandse Zorgautoriteit (verder zorgautoriteit genoemd) waar nodig beleidsregels of regels vast.  
+Ter uitvoering van deze aanwijzing stelt de Nederlandse Zorgautoriteit (verder zorgautoriteit genoemd) waar nodig beleidsregels of regels vast. 
 
 ### Artikel  3  
 
@@ -34,20 +34,20 @@ Ter uitvoering van deze aanwijzing stelt de Nederlandse Zorgautoriteit (verder z
 
 1.  De zorgautoriteit stelt met ingang van 1 januari 2012 prestatiebeschrijvingen vast voor de in artikel 1 bedoelde zorg.   
 2.  Gedurende de periode 1 januari 2012 tot en met 31 december 2014 gelden voor de zorg als bedoeld in artikel 2 vrije tarieven als bedoeld in [artikel 57, vierde lid, onder c, van de Wet marktordening gezondheidszorg](../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).   
-3.  Uiterlijk 1 juli 2014 besluit ik of de periode bedoeld in het tweede lid al dan niet wordt verlengd.   
+3.  Uiterlijk 1 juli 2014 besluit ik of de periode bedoeld in het tweede lid al dan niet wordt verlengd.  
 
 ### Artikel  4  
 
 ####monitor
 
-De zorgautoriteit monitort systematisch de markteffecten van het vrijgeven van de tarieven voor mondzorg op de kwaliteit, toegankelijkheid en betaalbaarheid van die zorg en informeert de minister hierover op nader af te spreken wijze en tijdstippen. De zorgautoriteit meet in de monitor de veranderingen ten opzichte van 1 januari 2012.  
+De zorgautoriteit monitort systematisch de markteffecten van het vrijgeven van de tarieven voor mondzorg op de kwaliteit, toegankelijkheid en betaalbaarheid van die zorg en informeert de minister hierover op nader af te spreken wijze en tijdstippen. De zorgautoriteit meet in de monitor de veranderingen ten opzichte van 1 januari 2012. 
 
 ### Artikel  5  
 
 ####inwerkingtreding en publicatie
 
-Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.  
+Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst. 
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers   
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers     

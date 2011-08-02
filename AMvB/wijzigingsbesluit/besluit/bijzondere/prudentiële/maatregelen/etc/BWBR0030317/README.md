@@ -15,15 +15,15 @@ Hebben goed gevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft.   
+Wijzigt het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft. 
 
 ### Artikel  II  
 
-Dit besluit is van toepassing op depositogarantieregelingen die in werking worden gesteld op of na de datum van inwerkingtreding van dit besluit.  
+Dit besluit is van toepassing op depositogarantieregelingen die in werking worden gesteld op of na de datum van inwerkingtreding van dit besluit. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van het Staatsblad waarin het is geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van het Staatsblad waarin het is geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -31,10 +31,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 8 juli 2011  
 Beatrix  
 
-De Minister van Financiën, 
+De Minister van Financiën,  
 J. C. de Jager   
 
 de *negenentwintigste* juli 2011 
 
-De Staatssecretaris van Veiligheid en Justitie, 
+De Staatssecretaris van Veiligheid en Justitie,  
 F. Teeven    
