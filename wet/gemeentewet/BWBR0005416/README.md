@@ -440,6 +440,25 @@ Wanneer de benoeming niet is aangenomen, geschiedt zo spoedig mogelijk een nieuw
 8.  Bij algemene maatregel van bestuur worden regels gesteld over de wijze waarop de wethouder gegevens over de inkomsten, bedoeld in het zesde lid, verstrekt, en de gevolgen van het niet verstrekken van deze gegevens.   
 5.  Van het bepaalde in het vierde lid kan de raad in bijzondere gevallen ontheffing verlenen. Het daartoe strekkende besluit van de raad wordt door het college aan gedeputeerde staten gezonden.   
 
+### Artikel  45  
+
+1.  Het college verleent aan een wethouder op diens verzoek verlof wegens zwangerschap en bevalling. Het verlof gaat in op de in het verzoek vermelde dag die ligt tussen ten hoogste zes en ten minste vier weken voor de vermoedelijke datum van de bevalling die blijkt uit een bij het verzoek gevoegde verklaring van een arts of verloskundige.   
+2.  Het college verleent aan een wethouder op diens verzoek verlof wegens ziekte, indien uit een bij het verzoek gevoegde verklaring van een arts blijkt dat niet aannemelijk is dat hij de uitoefening van zijn functie binnen acht weken zal kunnen hervatten.   
+3.  In het geval een wethouder vanwege zijn ziekte niet in staat is zelf het verzoek te doen, kan de burgemeester namens hem het verzoek doen indien de continuïteit van het gemeentelijk bestuur dringend vereist dat in vervanging van de wethouder wordt voorzien.   
+4.  Het verlof eindigt op de dag waarop zestien weken zijn verstreken sinds de dag waarop het verlof is ingegaan.   
+5.  Aan een wethouder wordt gedurende de zittingsperiode van de raad ten hoogste drie maal verlof verleend.   
+
+### Artikel  45a  
+
+1.  Het college beslist zo spoedig mogelijk op een verzoek tot verlof, doch uiterlijk op de veertiende dag na indiening van het verzoek.   
+2.  De beslissing geschiedt in overeenstemming met de verklaring van de arts of verloskundige en bevat de dag waarop het verlof ingaat.   
+
+### Artikel  45b  
+
+1.  De raad kan een vervanger benoemen voor de wethouder die met verlof is gegaan. Artikel 36, eerste en derde lid, is niet van toepassing.   
+2.  De vervanger is van rechtswege ontslagen met ingang van de dag waarop zestien weken zijn verstreken sinds de dag waarop het verlof is ingegaan.   
+3.  Indien de vervanger voor het einde van het verlof ontslag neemt of door de raad wordt ontslagen, kan de raad voor de resterende duur van het verlof een vervanger benoemen.   
+
 ### Artikel  46  
 
 1.  Indien degene wiens benoeming tot wethouder is ingegaan, een functie bekleedt als bedoeld in artikel 36b, eerste lid, en het tweede of derde lid van dat artikel niet van toepassing zijn, draagt hij er onverwijld zorg voor dat hij uit die functie wordt ontheven.   
@@ -1578,7 +1597,7 @@ b. de bij algemene maatregel van bestuur bepaalde voorschriften die op grond van
 3.  Een besluit van de raad tot intrekking van de verordening, bedoeld in het eerste lid, treedt niet eerder in werking dan na twaalf maanden na de bekendmaking van het besluit.   
 4.  De bevoegdheid tot het opleggen van een bestuurlijke boete wordt uitgeoefend door het college. Deze bevoegdheid wordt uitgeoefend door de burgemeester, indien de toepassing van dit middel dient tot handhaving van regels welke hij uitvoert.   
 5.  In het overleg, bedoeld in [artikel 14 van de Politiewet 1993](../../../wet/politiewet/1993/BWBR0006299/README.md), vindt afstemming plaats over de inzet en werkwijze met betrekking tot de aanpak van overlast in de openbare ruimte door de politie en de ondergeschikten, bedoeld in artikel 154c, tweede lid.   
-6.  Bij algemene maatregel van bestuur worden de verschillende boetecategorieën en de hoogte van de bestuurlijke boete bepaald. Voor zover voor een voorschrift de boetecategorie en de hoogte van de boete niet bij algemene maatregel van bestuur zijn bepaald, stelt de raad deze vast in de verordening, bedoeld in het eerste lid. De bestuurlijke boete kan voor natuurlijke personen niet hoger zijn dan € 340 per gedraging en voor rechtspersonen niet hoger zijn dan € 2250 per gedraging.   
+6.  Bij algemene maatregel van bestuur worden de verschillende boetecategorieën en de hoogte van de bestuurlijke boete bepaald. Voor zover voor een voorschrift de boetecategorie en de hoogte van de boete niet bij algemene maatregel van bestuur zijn bepaald, stelt de raad deze vast in de verordening, bedoeld in het eerste lid. De bestuurlijke boete kan voor natuurlijke personen per gedraging niet hoger zijn dan het bedrag van de geldboete van de eerste categorie en voor rechtspersonen per gedraging niet hoger zijn dan € 2250.   
 7.  Een bestuurlijke boete kan slechts worden opgelegd aan personen die ten tijde van de overtreding 12 jaar of ouder waren. De bestuurlijke boete wordt voor personen die ten tijde van de overtreding nog geen zestien jaar oud waren, gehalveerd.   
 
 ### Artikel  154c  
@@ -2541,7 +2560,7 @@ Voor de toepassing van [artikel 66 van de Invorderingswet 1990](../../../wet/inv
 1.  De in [artikel 26 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) bedoelde kwijtschelding wordt met betrekking tot gemeentelijke belastingen verleend door de in artikel 231, tweede lid, onderdeel c, bedoelde gemeenteambtenaar.   
 2.  Met betrekking tot het verlenen van gehele of gedeeltelijke kwijtschelding zijn de krachtens [artikel 26 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) door Onze Minister van Financiën bij ministeriële regeling gestelde regels van toepassing.   
 3.  De raad kan bepalen dat, in afwijking van de in het tweede lid bedoelde regels, in het geheel geen dan wel gedeeltelijk kwijtschelding wordt verleend.   
-4.  Met inachtneming van door Onze Minister, in overeenstemming met Onze Minister van Financiën, te stellen regels kan de raad met betrekking tot de wijze waarop de kosten van bestaan in aanmerking worden genomen afwijkende regels stellen die er toe leiden dat in ruimere mate kwijtschelding wordt verleend.   
+4.  Met inachtneming van door Onze Minister, in overeenstemming met Onze Minister van Financiën, te stellen regels kan de raad met betrekking tot de wijze waarop de kosten van bestaan en de wijze waarop het vermogen in aanmerking worden genomen afwijkende regels stellen die er toe leiden dat in ruimere mate kwijtschelding wordt verleend.   
 5.  Het college kan de belasting geheel of gedeeltelijk oninbaar verklaren. Het daartoe strekkende besluit ontheft de gemeenteambtenaar belast met de invordering van gemeentelijke belastingen van de verplichting verdere pogingen tot invordering te doen.   
 
 ### Artikel  256  

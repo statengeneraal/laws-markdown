@@ -1777,6 +1777,10 @@ c. *wedde:* wedde inclusief vakantie-uitkering en de eindejaarsuitkering, waarop
 
 d. *deeltijdfactor:* een breuk waarvan de teller wordt gevormd door de genoten wedde exclusief de vakantie-uitkering en de eindejaarsuitkering, en de noemer door het tot een jaarbedrag herleide bedrag waarvan die wedde is afgeleid.     
 
+### Artikel  130a  
+
+Deze afdeling is niet van toepassing op een gedeputeerde die is benoemd met toepassing van [artikel 44b van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md).  
+
 ### Artikel  130b  
 
 1.  Tenzij in de volgende leden anders is bepaald, is deze afdeling van overeenkomstige toepassing op de Rijksvertegenwoordiger, met dien verstande dat wordt gelezen voor: 

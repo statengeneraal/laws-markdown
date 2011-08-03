@@ -409,6 +409,25 @@ Wanneer de benoeming niet is aangenomen, geschiedt zo spoedig mogelijk een nieuw
 8.  Ten aanzien van de gedeputeerden die hun ambt in deeltijd vervullen, vindt onverminderd het vijfde lid geen verrekening plaats van de inkomsten, bedoeld in het zevende lid.   
 9.  Bij algemene maatregel van bestuur worden regels gesteld over de wijze waarop de gedeputeerde gegevens over de inkomsten, bedoeld in het zevende lid, verstrekt, en de gevolgen van het niet verstrekken van deze gegevens.   
 
+### Artikel  44  
+
+1.  Gedeputeerde staten verlenen aan een gedeputeerde op diens verzoek verlof wegens zwangerschap en bevalling. Het verlof gaat in op de in het verzoek vermelde dag die ligt tussen ten hoogste zes en ten minste vier weken voor de vermoedelijke datum van de bevalling die blijkt uit een bij het verzoek gevoegde verklaring van een arts of verloskundige.   
+2.  Gedeputeerde staten verlenen aan een gedeputeerde op diens verzoek verlof wegens ziekte, indien uit een bij het verzoek gevoegde verklaring van een arts blijkt dat niet aannemelijk is dat hij de uitoefening van zijn functie binnen acht weken zal kunnen hervatten.   
+3.  In het geval een gedeputeerde vanwege zijn ziekte niet in staat is zelf het verzoek te doen, kan de commissaris van de Koning namens hem het verzoek doen indien de continuïteit van het provinciaal bestuur dringend vereist dat in vervanging van de gedeputeerde wordt voorzien.   
+4.  Het verlof eindigt op de dag waarop zestien weken zijn verstreken sinds de dag waarop het verlof is ingegaan.   
+5.  Aan een gedeputeerde wordt gedurende de zittingsperiode van provinciale staten ten hoogste drie maal verlof verleend.   
+
+### Artikel  44a  
+
+1.  Gedeputeerde staten beslissen zo spoedig mogelijk op een verzoek tot verlof, doch uiterlijk op de veertiende dag na indiening van het verzoek.   
+2.  De beslissing geschiedt in overeenstemming met de verklaring van de arts of verloskundige en bevat de dag waarop het verlof ingaat.   
+
+### Artikel  44b  
+
+1.  Provinciale staten kunnen een vervanger benoemen voor de gedeputeerde die met verlof is gegaan. Artikel 35a, eerste en derde lid, tweede volzin, is niet van toepassing.   
+2.  De vervanger is van rechtswege ontslagen met ingang van de dag waarop zestien weken zijn verstreken sinds de dag waarop het verlof is ingegaan.   
+3.  Indien de vervanger voor het einde van het verlof ontslag neemt of door provinciale staten wordt ontslagen, kunnen provinciale staten voor de resterende duur van het verlof een nieuwe tijdelijke vervanger benoemen.   
+
 ### Artikel  45  
 
 1.  Indien degene wiens benoeming tot gedeputeerde is ingegaan, een functie bekleedt als bedoeld in artikel 35c, eerste lid, en het tweede of derde lid van dat artikel niet van toepassing zijn, draagt hij er onverwijld zorg voor dat hij uit die functie wordt ontheven.   
@@ -2053,7 +2072,7 @@ Voor de toepassing van [artikel 66 van de Invorderingswet 1990](../../../wet/inv
 1.  De in artikel 26 van de Invorderingswet 1990 bedoelde kwijtschelding wordt met betrekking tot provinciale belastingen verleend door de in artikel 227 *a*, tweede lid, onderdeel *c*, bedoelde provincieambtenaar.   
 2.  Met betrekking tot het verlenen van gehele of gedeeltelijke kwijtschelding zijn de krachtens artikel 26 van de Invorderingswet 1990 door Onze Minister van Financiën bij ministeriële regeling gestelde regels van toepassing.   
 3.  Provinciale staten kunnen bepalen dat, in afwijking van de in het tweede lid bedoelde regels, in het geheel geen dan wel gedeeltelijk kwijtschelding wordt verleend.   
-4.  Met inachtneming van door Onze Minister, in overeenstemming met Onze Minister van Financiën, te stellen regels kunnen provinciale staten met betrekking tot de wijze waarop de kosten van bestaan in aanmerking worden genomen afwijkende regels stellen die er toe leiden dat in ruimere mate kwijtschelding wordt verleend.   
+4.  Met inachtneming van door Onze Minister, in overeenstemming met Onze Minister van Financiën, te stellen regels kunnen provinciale staten met betrekking tot de wijze waarop de kosten van bestaan en de wijze waarop het vermogen in aanmerking worden genomen afwijkende regels stellen die er toe leiden dat in ruimere mate kwijtschelding wordt verleend.   
 5.  Gedeputeerde staten kunnen de belasting geheel of gedeeltelijk oninbaar verklaren. Het daartoe strekkende besluit ontheft de provincieambtenaar belast met de invordering van provinciale belastingen van de verplichting verdere pogingen tot invordering te doen.   
 
 ### Artikel  232f  

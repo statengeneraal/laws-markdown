@@ -259,11 +259,11 @@ d) the corresponding fineness mark in arabic numerals; Marks b) and c) shall be 
 
 4.3. The Common Controle Mark shall consist of the representation of a balance together with the number in Arabic numerals showing the standard of fineness of the article in parts per thousand in relief on a lined background surrounded by a shield indicating the nature of the precious metal as follows: 
 
-– for platinum articles:   ![10000052760](http://wetten.overheid.nl/Illustration/10000052760)
+– for platinum articles:   ![10000052761](http://wetten.overheid.nl/Illustration/10000052761)
 
-– for gold articles:   ![10000052760](http://wetten.overheid.nl/Illustration/10000052760)
+– for gold articles:   ![10000052759](http://wetten.overheid.nl/Illustration/10000052759)
 
-– for palladium articles: <sup>  *)   Shall apply only after the entry into force of the amendment to Article 2 of the Convention.  </sup>   ![10000052760](http://wetten.overheid.nl/Illustration/10000052760)
+– for palladium articles: <sup>  *)   Shall apply only after the entry into force of the amendment to Article 2 of the Convention.  </sup>   ![10000052758](http://wetten.overheid.nl/Illustration/10000052758)
 
 – for silver articles:   ![10000052760](http://wetten.overheid.nl/Illustration/10000052760)
 
@@ -285,9 +285,9 @@ d) the corresponding fineness mark in arabic numerals; Marks b) and c) shall be 
 
 ### Appendix  
 
-*Examples of the common control mark*  For gold articles of the standard of fineness 750   ![10000052205](http://wetten.overheid.nl/Illustration/10000052205)
-For silver articles of the standard of fineness 925   ![10000052205](http://wetten.overheid.nl/Illustration/10000052205)
-For platinum articles of the standard of fineness 950   ![10000052205](http://wetten.overheid.nl/Illustration/10000052205)
+*Examples of the common control mark*  For gold articles of the standard of fineness 750   ![10000052156](http://wetten.overheid.nl/Illustration/10000052156)
+For silver articles of the standard of fineness 925   ![10000052157](http://wetten.overheid.nl/Illustration/10000052157)
+For platinum articles of the standard of fineness 950   ![10000052204](http://wetten.overheid.nl/Illustration/10000052204)
 
 ### Appendix  I  
 
@@ -607,11 +607,11 @@ d. het desbetreffende gehaltemerk in Arabische cijfers.   De merken b en c worde
 
 4.3. Het Gemeenschappelijk Keurmerk bestaat uit de afbeelding van een balans tezamen met het getal in Arabische cijfers dat het wettelijk gehalte van het voorwerp aangeeft in delen per duizend, in reliëf op een met een lijnen bedekte achtergrond, omgeven door een schild dat als volgt de aard van het edelmetaal aanduidt: 
 
-– voor artikelen van platina:   ![10000052766](http://wetten.overheid.nl/Illustration/10000052766)
+– voor artikelen van platina:   ![10000052767](http://wetten.overheid.nl/Illustration/10000052767)
 
-– voor artikelen van goud:   ![10000052766](http://wetten.overheid.nl/Illustration/10000052766)
+– voor artikelen van goud:   ![10000052765](http://wetten.overheid.nl/Illustration/10000052765)
 
-– voor artikelen van palladium : <sup> *  Is pas van toepassing na de inwerkingtreding van de wijziging van artikel 2 van het Verdrag.  </sup>   ![10000052766](http://wetten.overheid.nl/Illustration/10000052766)
+– voor artikelen van palladium : <sup> *  Is pas van toepassing na de inwerkingtreding van de wijziging van artikel 2 van het Verdrag.  </sup>   ![10000052768](http://wetten.overheid.nl/Illustration/10000052768)
 
 – voor artikelen van zilver:   ![10000052766](http://wetten.overheid.nl/Illustration/10000052766)
 
@@ -633,8 +633,8 @@ d. het desbetreffende gehaltemerk in Arabische cijfers.   De merken b en c worde
 
 ### AANHANGSEL  
 
-VOORBEELDEN VAN HET GEMEENSCHAPPELIJK KEURMERK VOOR GOUDEN VOORWERPEN MET EEN GEHALTE VAN 750   ![10000052205](http://wetten.overheid.nl/Illustration/10000052205)
-VOOR ZILVEREN VOORWERPEN MET EEN GEHALTE VAN 925   ![10000052205](http://wetten.overheid.nl/Illustration/10000052205)
+VOORBEELDEN VAN HET GEMEENSCHAPPELIJK KEURMERK VOOR GOUDEN VOORWERPEN MET EEN GEHALTE VAN 750   ![10000052156](http://wetten.overheid.nl/Illustration/10000052156)
+VOOR ZILVEREN VOORWERPEN MET EEN GEHALTE VAN 925   ![10000052157](http://wetten.overheid.nl/Illustration/10000052157)
 VOOR PLATINA VOORWERPEN MET EEN GEHALTE VAN 950   ![10000052205](http://wetten.overheid.nl/Illustration/10000052205)
 
 ### Aanhangsel  I  
