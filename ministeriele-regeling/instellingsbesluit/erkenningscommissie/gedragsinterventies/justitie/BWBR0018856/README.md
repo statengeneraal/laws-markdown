@@ -8,7 +8,7 @@ De Minister van Justitie,  Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. de Minister: de Minister van Justitie;  
+a. de Minister: de Minister van Veiligheid en Justitie;  
 
 b. De Commissie: de Erkenningscommissie Gedragsinterventies Justitie.    
 
@@ -18,13 +18,14 @@ Er is een Erkenningscommissie Gedragsinterventies Justitie.
 
 ### Artikel  3  
 
-De Commissie heeft tot taak te beoordelen of gedragsinterventies kunnen leiden tot vermindering of het voorkomen van recidive van de deelnemers, te adviseren aan de Minister over de effectiviteit van gedragsinterventies en te communiceren over haar activiteiten.  
+De Commissie heeft tot taak te beoordelen of gedragsinterventies (kunnen) leiden tot vermindering of het voorkomen van recidive van de deelnemers, te adviseren aan de Minister over de effectiviteit van gedragsinterventies en te communiceren over haar activiteiten.  
 
 ### Artikel  4  
 
 1.  De Commissie heeft een voorzitter en ten hoogste dertien overige leden.   
 2.  De voorzitter en de overige leden worden, de Commissie gehoord, door de Minister benoemd.   
 3.  De benoeming geschiedt voor een periode van ten hoogste drie jaren. Herbenoeming kan eenmaal en voor ten hoogste drie jaren aansluitend plaatsvinden.   
+4.  In afwijking van het derde lid kan de Minister een lid voor een tweede maal aansluitend herbenoemen voor een periode van ten hoogste twee jaren indien dat wenselijk is voor de continuïteit en kwaliteit van de werkzaamheden van de Commissie.   
 
 ### Artikel  5  
 
@@ -46,7 +47,7 @@ b. deskundigen op het gebied van de uitvoeringspraktijk;
 2.  De secretaris is voor zijn werkzaamheden uitsluitend verantwoording schuldig aan de Commissie.   
 3.  Aan de secretaris kunnen andere medewerkers worden toegevoegd.   
 4.  De secretaris en de andere medewerkers zijn geen lid van de Commissie.   
-5.  De Minister benoemt, bevordert, schorst en ontslaat, na overleg met de voorzitter van de Commissie, de secretaris, en, na overleg met de secretaris, de andere medewerkers.   
+5.  De Minister benoemt, bevordert, schorst en ontslaat, na overleg met de voorzitter van de Commissie, de secretaris en de andere medewerkers.   
 6.  De Minister draagt, na overleg met de Commissie, zorg voor de nodige voorzieningen ten behoeve van de werkzaamheden van de Commissie.   
 
 ### Artikel  9  
