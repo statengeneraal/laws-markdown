@@ -108,7 +108,19 @@ ee. initiële opleiding: een door Onze Minister in overeenstemming met de Minist
 
 ff. theoretisch opleidingsdeel: de periode of perioden waarin de aspirant aan een opleidingsinstituut in het kader van de initiële opleiding onderwijs volgt;  
 
-gg. praktisch opleidingsdeel: de periode of perioden waarin de aspirant de politietaak bij een regionaal politiekorps of bij het Korps landelijke politiediensten uitvoert in het kader van de initiële opleiding.     
+gg. praktisch opleidingsdeel: de periode of perioden waarin de aspirant de politietaak bij een regionaal politiekorps of bij het Korps landelijke politiediensten uitvoert in het kader van de initiële opleiding;  
+
+hh. functie: het samenstel van werkzaamheden door de ambtenaar te verrichten krachtens en overeenkomstig hetgeen hem door het daartoe bevoegde gezag is opgedragen, of het samenstel van door de ambtenaar te verrichten opgedragen werkzaamheden, zoals vastgelegd in het LFNP;  
+
+ii. LFNP: Landelijk Functiegebouw Nederlandse Politie: het door Onze Minister vastgestelde geheel van functiebeschrijvingen, onderverdeeld naar vakgebieden, inclusief de waardering, en de aan het gebouw verbonden en omschreven werkterreinen, aandachtsgebieden en specifieke functionaliteiten;  
+
+jj. vakgebied: een clustering van in essentie gelijkgerichte activiteiten, resultaten en beoogde effecten op basis van voor dat vakgebied geldende processen;  
+
+kk. werkterrein: een verbijzondering van het vakgebied, waarvoor een specifieke inzet en inbreng geldt. Voor deze inzet kunnen nadere opleiding- en certificeringeisen worden gesteld;  
+
+ll. aandachtsgebied: een verbijzondering van een werkterrein, dat wordt gekenmerkt door een grote verscheidenheid aan onderwerpen, waarvoor een specifieke inzet en inbreng geldt. Voor deze inzet kunnen nadere opleiding- en certificeringeisen worden gesteld;  
+
+mm. specifieke functionaliteit: een verbijzondering van een vakgebied door – direct in operationeel verband toe te passen – vereiste expliciete specialistische inzet en inbreng door gebruikmaking van specifieke (hulp)middelen of geweldsmiddelen waarbij uitgesproken specialistische vaardigheden en deskundigheid aan de orde is.     
 2.  Voor de toepassing van dit besluit wordt onder echtgenote of echtgenoot mede verstaan de geregistreerde partner alsmede de levenspartner met wie de niet-gehuwde ambtenaar samenwoont – en met het oogmerk duurzaam samen te leven – een gemeenschappelijke huishouding voert op basis van een notarieel verleden samenlevingscontract bevattende de wederzijdse rechten en verplichtingen ter zake van die samenwoning en gemeenschappelijke huishouding. Onder weduwe of weduwnaar wordt mede begrepen de achtergebleven geregistreerde partner alsmede de achtergebleven partner. Tot gezinslid wordt in voorkomend geval mede gerekend de geregistreerde partner alsmede de levenspartner. Tegelijkertijd kan slechts een persoon als echtgenoot of echtgenote dan wel weduwe of weduwnaar worden aangemerkt. Het bevoegd gezag kan verlangen dat een schriftelijke verklaring van een notaris wordt overgelegd waaruit blijkt dat een samenlevingscontract als bedoeld in de eerste volzin is gesloten.   
 
 ### Hoofdstuk  II  
@@ -316,12 +328,14 @@ b. indien op grond van [artikel 2:2](../../../../../../wet/arbeidstijdenwet/BWBR
 2.  Een werktijdenmodaliteit is een patroon van arbeidstijden dat leidt tot een herkenbaar patroon van vrije tijd, uitgedrukt in uren of in dagen.   
 3.  Indien het bevoegd gezag voornemens is de aanvraag niet of niet volledig in te willigen, vraagt het bevoegd gezag binnen vier weken advies van een door Onze Minister in te stellen commissie.   
 4.  De commissie wordt paritair samengesteld en brengt binnen zes weken na ontvangst van de adviesaanvraag een schriftelijk advies uit aan het bevoegd gezag en aan de betrokken ambtenaar.   
+5.  Het bevoegd gezag besluit binnen zes weken nadat het in het vierde lid bedoelde advies is uitgebracht. Indien binnen genoemde termijn nog geen besluit is bekendgemaakt, wordt de aanvraag voor zover het advies strekt tot toekenning van de aanvraag, door het bevoegd gezag toegekend voor twaalf maanden, ingaand uiterlijk zes weken na dagtekening van het advies.   
 
 ### Artikel  13  
 
-1.  Voor de ambtenaar geldt een arbeidstijd van gemiddeld 38 uur per week, tenzij de ambtenaar eenmalig kiest voor de volledige betrekking van gemiddeld 36 uur per week.   
-2.  De aspirant maakt zijn keuze bij zijn aanstelling op grond van artikel 3a.   
-3.  Onverminderd het eerste lid is bij een aanvraag tot uitbreiding van de betrekkingsomvang [artikel 2, negende lid, van de Wet aanpassing arbeidsduur](../../../../../../wet/wet/aanpassing/arbeidsduur/BWBR0011173/README.md) van toepassing.   
+1.  In afwijking van artikel 12, derde lid, kan de ambtenaar met een volledige betrekking, bij het bevoegd gezag een arbeidstijd aanvragen van gemiddeld 38 of gemiddeld 39,6 uur per week.   
+2.  Het bevoegd gezag beoordeelt een aanvraag als bedoeld in het eerste lid overeenkomstig [artikel 2, vijfde en negende lid, van de Wet aanpassing arbeidsduur](../../../../../../wet/wet/aanpassing/arbeidsduur/BWBR0011173/README.md).   
+3.  Tenzij de nieuw aan te stellen ambtenaar vóór zijn aanstelling verzoekt om een arbeidstijd van gemiddeld 36 of gemiddeld 38 uur per week, vindt de aanstelling in een volledige betrekking in afwijking van artikel 12, derde lid, plaats met een arbeidstijd van gemiddeld 39,6 uur per week.   
+4.  De aanstelling van de aspirant, bedoeld in artikel 3, vindt in afwijking van het derde lid plaats met een arbeidstijd van gemiddeld 37,8 uur per week.   
 
 ### Artikel  13a  
 
@@ -339,42 +353,6 @@ b. van 58 jaar en ouder de gemiddelde arbeidstijd per week met 33,3% verminderd.
 ### Hoofdstuk  III.a  
 
 ####Tijdelijke ouderenregeling
-
-### Artikel  13b  
-
-1.  Op aanvraag van de in de eerste volzin van artikel 88, eerste lid, bedoelde ambtenaar die op 15 maart 1999 ten minste de 49-jarige leeftijd heeft bereikt, verleent het bevoegd gezag non-activiteit, tenzij hier ernstige bezwaren voor de bedrijfsvoering uit voortvloeien. Uit fiscale overwegingen maakt het bevoegd gezag bij het verlenen van de non-activiteit onderscheid tussen: 
-
-a. non-activiteit met een op grond van [artikel 38c van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) onbelast non-activiteitsinkomen, indien de non-activiteit ingaat vóór 1 januari 2006;  
-
-b. non-activiteit met een op grond van [artikel 32aa van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) belast non-activiteitsinkomen, indien de non-activiteit ingaat op of na 1 januari 2006.     
-2.  De periode van non-activiteit bedraagt ten hoogste 21 maanden op basis van het volgende overzicht:  
-
-| --- | --- |
-|:---|:---|
-| leeftijd:  | periode:  |
-| 55 jaar  | 1 maand  |
-| 56 jaar  | 2 maanden  |
-| 57 jaar  | 4 maanden  |
-| 58 jaar  | 6 maanden  |
-| 59 jaar  | 8 maanden  |
-
-3.  De non-activiteit wordt verleend in een aaneengesloten periode direct voorafgaande aan het ontslag op grond van artikel 88, eerste lid, dan wel direct voorafgaande aan het ontslag voor het bereiken van de 60-jarige leeftijd, op grond van artikel 87a, tweede lid, en eindigt op de datum dat het ontslag ingaat, dan wel op de dag van overlijden.   
-4.  De ambtenaar aan wie non-activiteit is verleend, kan tot de datum waarop de non-activiteit zou ingaan hiervan geheel of gedeeltelijk afzien, tenzij hier ernstige bezwaren voor de bedrijfsvoering uit voortvloeien. De ambtenaar kan geen vergoeding worden toegekend voor de niet genoten periode van non-activiteit.   
-5.  Indien de ambtenaar voorafgaand aan de periode van non-activiteit ongeschikt wordt tot het verrichten van zijn arbeid wegens beroepsziekte dan wel ziekte als gevolg van een dienstongeval, dan wordt de periode van non-activiteit opgeschort tot de datum waarop de ambtenaar weer in staat is arbeid te verrichten.   
-6.  Onverminderd het negende lid, kan de periode van non-activiteit direct worden voorafgegaan door een aaneengesloten periode waarin vakantie of verlof wordt genoten.   
-7.  Tijdens de periode van non-activiteit kan de ambtenaar geen aanvraag doen tot vermindering van de arbeidstijd conform artikel 13a, dan wel komt de ingevolge artikel 13a verminderde arbeidstijd te vervallen.   
-8.  Het zevende lid is van overeenkomstige toepassing gedurende de vakantie of het verlof, bedoeld in het zesde lid.   
-9.  Tijdens de periode van non-activiteit is artikel 19, vierde lid, niet van toepassing. De aanspraak op vakantie die wordt opgebouwd gedurende de periode van non-activiteit, wordt genoten in een aaneengesloten periode direct voorafgaand aan de periode van non-activiteit.   
-10.  Het bevoegd gezag kan de in artikel 26, eerste lid, bedoelde vergoeding toekennen op het moment dat de periode van non-activiteit ingaat dan wel op het moment dat het verlof of de vakantie, bedoeld in het zesde lid, ingaat.   
-11.  Het tiende lid is van overeenkomstige toepassing ten aanzien van het moment van toekennen van de gratificatie, bedoeld in artikel 75, vierde lid.   
-
-### Artikel  13c  
-
-1.  De aanvraag, bedoeld in artikel 13b, eerste lid, dient uiterlijk een dag voor het bereiken van de 56-jarige leeftijd te worden ingediend bij het bevoegd gezag. In geval van ziekte kan het bevoegd gezag toestaan dat de aanvraag wordt ingediend na het in de eerste volzin bedoelde tijdstip.   
-2.  De ambtenaar die in aanmerking komt voor een periode van non-activiteit, bedoeld in artikel 13b, eerste lid, maakt gedurende het 56-ste levensjaar afspraken met het bevoegd gezag. De afspraken worden schriftelijk vastgelegd.   
-3.  De afspraken, bedoeld in het tweede lid, bevatten in ieder geval de wensen van het bevoegd gezag en de ambtenaar ten aanzien van de datum waarop de periode van non-activiteit zal ingaan, dan wel een afspraak over het tijdstip waarop definitief moet worden vastgelegd vanaf welke datum de periode van non-activiteit zal ingaan.   
-4.  Indien het bevoegd gezag voornemens is de aanvraag niet of niet volledig in te willigen, vraagt het bevoegd gezag binnen vier weken advies van een door Onze Minister in te stellen commissie.   
-5.  De commissie, bedoeld in het vierde lid, wordt paritair samengesteld en brengt binnen zes weken na ontvangst van de adviesaanvraag een schriftelijk advies uit aan het bevoegd gezag en aan de betrokken ambtenaar.   
 
 ### Hoofdstuk  IV  
 
@@ -394,9 +372,7 @@ b. non-activiteit met een op grond van [artikel 32aa van de Wet op de loonbelast
 
 ### Artikel  17  
 
-1.  De aanspraak op vakantie bedraagt 172,8 uren per kalenderjaar.   
-2.  Indien de ambtenaar in een kalenderjaar geen arbeidsverzuim heeft gehad wegens ziekte, met uitzondering van arbeidsverzuim in verband met een dienstongeval of zwangerschap, wordt in het daaropvolgende kalenderjaar, de in het eerste lid bedoelde aanspraak vermeerderd met 7,2 uur.   
-3.  Indien de ambtenaar zich in een kalenderjaar wegens ziekte, anders dan door een dienstongeval of zwangerschap meer dan vijf maal ziek meldt, wordt de in het eerste lid bedoelde aanspraak verminderd met 7,2 uur, tenzij het bevoegd gezag bijzondere omstandigheden aanwezig acht.   
+De aanspraak op vakantie bedraagt 172,8 uren per kalenderjaar.  
 
 ### Artikel  18  
 
@@ -588,7 +564,7 @@ a. voor zover het betreft vergaderingen van verenigingen van ambtenaren als best
 b. voor zover het betreft vergaderingen van centrale organisaties waarbij verenigingen van ambtenaren zijn aangesloten, als bestuurslid van die centrale organisatie dan wel als afgevaardigde of bestuurslid van een bij die organisatie aangesloten vereniging van ambtenaren;  
 
 c. voor zover het betreft vergaderingen van een internationale ambtenarenorganisatie, als bestuurslid van deze organisatie dan wel als afgevaardigde of bestuurslid van een bij die organisatie aangesloten vereniging van ambtenaren.     
-2.  Tenzij de belangen van de dienst zich daartegen verzetten, wordt tot ten hoogste 208 uren per jaar buitengewoon verlof met behoud van volle bezoldiging verleend aan de ambtenaar die door een bond, vereniging of centrale als bedoeld in [artikel 2, tweede lid](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), [12, tweede en zesde lid](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), dan wel door een bond, vereniging of centrale waarmee ingevolge [artikel 22](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), [22a](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md) of  [22b](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md) overleg wordt gepleegd, van het [Besluit overleg en medezeggenschap politie 1994](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md) is aangewezen om bestuurlijke of vertegenwoordigende activiteiten te ontplooien binnen zijn bond, vereniging of centrale dan wel binnen de organisatie van de werkgever, die ertoe strekken de doelstellingen van zijn bond, vereniging of centrale te ondersteunen.   
+2.  Tenzij de belangen van de dienst zich daartegen verzetten, wordt tot ten hoogste 208 uren per jaar buitengewoon verlof met behoud van volle bezoldiging verleend aan de ambtenaar die door een bond, vereniging of centrale als bedoeld in [artikel 2, tweede lid](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), [12, tweede en zesde lid](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), dan wel door een bond, vereniging of centrale waarmee ingevolge [artikel 22](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), [22a](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md) of  [22b](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md) overleg wordt gepleegd, van het [Besluit overleg en medezeggenschap politie 1994](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md) is aangewezen om bestuurlijke of vertegenwoordigende activiteiten te ontplooien binnen zijn bond, vereniging of centrale dan wel binnen de organisatie van de werkgever, die ertoe strekken de doelstellingen van zijn bond, vereniging of centrale te ondersteunen. Onder de activiteiten, bedoeld in de vorige zin, worden mede begrepen activiteiten met het oog op individuele belangenbehartiging.   
 3.  Tenzij de belangen van de dienst zich daartegen verzetten, wordt aan de ambtenaar buitengewoon verlof met behoud van volle bezoldiging verleend voor het deelnemen aan een cursus op uitnodiging van een organisatie van ambtenaren als bedoeld in het tweede lid, met dien verstande dat dit verlof ten hoogste 48 uren per twee jaar bedraagt.   
 4.  Het aantal uren dat op grond van het eerste, tweede en derde lid, alsmede op grond van [artikel 18, eerste en tweede lid, van de Wet op de ondernemingsraden](../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) aan een ambtenaar mag worden verleend, bedraagt tezamen ten hoogste 240 uren per jaar, met dien verstande dat ten hoogste 320 uren worden verleend aan leden van hoofdbesturen van de in het tweede lid bedoelde organisaties.   
 5.  Het verlof, bedoeld in het eerste tot en met het vierde lid, wordt slechts verleend aan ambtenaren die lid zijn van de in het tweede lid bedoelde organisaties.   
@@ -598,7 +574,7 @@ c. voor zover het betreft vergaderingen van een internationale ambtenarenorganis
 
 ### Artikel  35a  
 
-Het bevoegd gezag kan, in overeenstemming met een of meer hoofdbesturen van de verenigingen van ambtenaren die zijn toegelaten tot het overleg met de commissie, bedoeld in [artikel 12, eerste lid](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), [21, eerste lid](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), [22, eerste lid](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), [22a, eerste lid](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), en [22b, eerste lid, van het Besluit overleg en medezeggenschap politie 1994](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), regels stellen inzake het toekennen van buitengewoon verlof voor vakbondsfaciliteiten.  
+Onze Minister kan, in overeenstemming met een of meer hoofdbesturen van de verenigingen van ambtenaren die zijn toegelaten tot het overleg met de commissie, bedoeld in [artikel 2, eerste lid](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), [12, eerste lid](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), [21, eerste lid](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), [22, eerste lid](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), [22a, eerste lid](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), en [22b, eerste lid, van het Besluit overleg en medezeggenschap politie 1994](../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md), regels stellen inzake het toekennen van buitengewoon verlof voor vakbondsfaciliteiten, waaronder mede begrepen worden faciliteiten voor individuele belangenbehartiging.  
 
 ### Artikel  36  
 
@@ -705,7 +681,7 @@ f. een niet-inwonend kind van de echtgenote of echtgenoot.
 ### Artikel  41a  
 
 1.  De ambtenaar heeft in verband met de adoptie van een kind recht op verlof voor ten hoogste vier aaneengesloten weken. Het recht bestaat gedurende een tijdvak van achttien weken, gerekend vanaf twee weken vóór de eerste dag dat de feitelijke opneming ter adoptie een aanvang heeft genomen of zal nemen, zoals die dag is aangeduid in een door de werknemer aan de werkgever overgelegd document waaruit blijkt dat een kind ter adoptie is of zal worden opgenomen.   
-2.  De ambtenaar die recht heeft op adoptieverlof, maakt aanspraak op doorbetaling van de bezoldiging gedurende een periode van ten hoogste drie weken.   
+2.  De ambtenaar die recht heeft op adoptieverlof, maakt aanspraak op doorbetaling van de bezoldiging gedurende een periode van ten hoogste vier weken.   
 3.  Indien als gevolg van een adoptieverzoek tegelijkertijd twee of meer kinderen feitelijk ter adoptie worden opgenomen, bestaat de aanspraak op verlof slechts ten aanzien van één van die kinderen.   
 4.  De ambtenaar meldt aan het bevoegd gezag het verlof in verband met adoptie uiterlijk drie weken voor de dag van ingang van het verlof onder opgave van de omvang van het verlof. Bij de melding worden documenten gevoegd waaruit blijkt dat een kind ter adoptie is of zal worden opgenomen.   
 5.  Indien de ambtenaar aan wie verlof is verleend, gedurende dat verlof of gedurende een bepaalde periode van dat verlof tevens recht heeft op een financiële tegemoetkoming op basis van de [Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), wordt gedurende de periode waarin sprake is van samenloop een inhouding op de bezoldiging, bedoeld in het tweede lid, toegepast die overeenkomt met het bedrag van deze financiële tegemoetkoming.   
@@ -769,7 +745,7 @@ De ambtenaar is in geval van ongeschiktheid tot het verrichten van zijn arbeid w
 
 ### Artikel  49b  
 
-1.  Het bevoegd gezag is verplicht tijdig de maatregelen te treffen en voorschriften te geven die redelijkerwijs nodig zijn om de ambtenaar die wegens ziekte ongeschikt is zijn arbeid te verrichten in staat te stellen de eigen of andere passende arbeid te verrichten.   
+1.  Het bevoegd gezag is verplicht tijdig de maatregelen te treffen en voorschriften te geven die redelijkerwijs nodig zijn om de ambtenaar die wegens ziekte ongeschikt is zijn arbeid te verrichten in staat te stellen de eigen of andere passende arbeid te verrichten. In het kader van het vaststellen van passende arbeid is de eigen of een andere functie uit het LFNP, of een deel van één of meerdere functies uit het LFNP bepalend.   
 2.  Uit hoofde van de verplichting, bedoeld in het eerste lid, stelt het bevoegd gezag in overeenstemming met de ambtenaar een plan van aanpak op als bedoeld in [artikel 71a, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md). Het plan van aanpak wordt met medewerking van de ambtenaar regelmatig geëvalueerd en zo nodig bijgesteld.   
 3.  Indien vaststaat dat de ambtenaar wegens ziekte ongeschikt is zijn arbeid te verrichten en binnen het gezagsbereik van het bevoegd gezag geen andere passende arbeid voorhanden is, bevordert dat gezag de inschakeling van de ambtenaar in voor hem passende arbeid in een of meer functies bij een andere werkgever.   
 4.  De ambtenaar mag de eigen of andere passende arbeid eerst verrichten nadat de deskundige persoon of de arbodienst een op de desbetreffende ambtenaar betrekking hebbend medisch advies heeft gegeven.   
@@ -819,10 +795,11 @@ k. indien hij in verband met de uitoefening van zijn werkzaamheden aan bijzonder
 ### Artikel  51  
 
 1.  Het advies dat door de deskundige persoon of de arbodienst wordt uitgebracht naar aanleiding van een arbeidsgezondheidskundig onderzoek als bedoeld in [artikel 18 van de Arbeidsomstandighedenwet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en artikel 50 van dit besluit, wordt zo spoedig mogelijk aan de ambtenaar en het bevoegd gezag bekendgemaakt.   
-2.  De ambtenaar kan de deskundige persoon of de arbodienst binnen drie dagen na ontvangst van het medisch advies, schriftelijk een hernieuwd onderzoek vragen indien hij bedenkingen heeft tegen het medisch advies. Gedurende de behandeling van zijn bedenkingen, behoeft de ambtenaar aan het medisch advies geen gevolg te geven. De deskundige persoon of de arbodienst stelt het bevoegd gezag in kennis van een ingediend verzoek om een hernieuwd onderzoek.   
+2.  De ambtenaar kan de deskundige persoon of de arbodienst binnen vijf dagen na ontvangst van het medisch advies, schriftelijk een hernieuwd onderzoek vragen indien hij bedenkingen heeft tegen het medisch advies. Gedurende de behandeling van zijn bedenkingen, behoeft de ambtenaar aan het medisch advies geen gevolg te geven. De deskundige persoon of de arbodienst stelt het bevoegd gezag in kennis van een ingediend verzoek om een hernieuwd onderzoek.   
 3.  Zo spoedig mogelijk na ontvangst van het verzoek om een hernieuwd onderzoek, doch uiterlijk binnen vier weken, vindt het hernieuwd onderzoek door een commissie van drie artsen plaats.   
 4.  Op verzoek van de ambtenaar wordt zijn behandelend arts in de gelegenheid gesteld mondeling of schriftelijk zijn mening aan de commissie van drie artsen kenbaar te maken.   
 5.  De kosten van het hernieuwde onderzoek komen voor rekening van het bevoegd gezag. Eventuele reis- en verblijfkosten van de ambtenaar worden hem vergoed volgens de geldende regels ter zake van dienstreizen.   
+6.  Bij de bekendmaking van het advies, bedoeld in het eerste lid, wordt de ambtenaar schriftelijk gewezen op de in het tweede lid genoemde mogelijkheid, met vermelding van de termijn waarbinnen het hernieuwde onderzoek kan worden gevraagd en het orgaan waaraan het verzoek moet worden gericht.   
 
 ### Artikel  52  
 
@@ -1208,7 +1185,7 @@ c. de ambtenaar binnen een periode van drie jaar na afronding van de opleiding d
 1.  Aan de ambtenaar wordt de schade aan zijn goederen vergoed die hij buiten zijn schuld lijdt ten gevolge van de uitoefening van zijn dienst, voor zover die schade niet bestaat uit de normale slijtage van die goederen.   
 2.  De ambtenaar heeft geen aanspraak, bedoeld in het eerste lid, indien hij ter zake van die schade rechten tegenover derden kan doen gelden. Indien de ambtenaar zijn rechten tegenover derden aan de regio, het Rijk, het LSOP dan wel aan een voorziening tot samenwerking cedeert, wordt hij in het genot gesteld van het in geld uitgedrukte bedrag van de schade.   
 3.  Aan de ambtenaar wordt de immateriële schade die hij ten gevolge van de uitoefening van zijn dienst lijdt in geld vergoed, voor zover hij terzake van deze schade op basis van een onherroepelijke rechterlijke uitspraak tegenover derden rechten op betaling van een geldsom kan doen gelden en mits hij deze rechten binnen zes maanden na de definitieve rechterlijke uitspraak cedeert aan de regio, de Staat der Nederlanden dan wel aan het LSOP.   
-4.  Indien de regio, het Rijk, het LSOP dan wel ITO ter zake van de door voornoemde cessies verkregen rechten een civiele vordering instelt, worden de kosten die hieruit voor de regio, het Rijk, het LSOP dan wel een voorziening tot samenwerking voortvloeien, niet op de ambtenaar verhaald.   
+4.  Indien de regio, het Rijk, het LSOP dan wel een voorziening tot samenwerking ter zake van de door voornoemde cessies verkregen rechten een civiele vordering instelt, worden de kosten die hieruit voor de regio, het Rijk, het LSOP dan wel een voorziening tot samenwerking voortvloeien, niet op de ambtenaar verhaald.   
 5.  Onze Minister stelt ter uitvoering van dit artikel nadere regels vast.   
 
 ### Artikel  69a  
@@ -1620,11 +1597,7 @@ Wijzigt dit besluit.
 
 ### Artikel  99h  
 
-Met ingang van 1 juli 2021 wordt de betrekkingsomvang van de ambtenaar van gemiddeld 38 uur per week gewijzigd in een betrekkingsomvang van gemiddeld 36 uur per week.  
-
-### Artikel  99i  
-
-Wijzigt dit besluit.   
+Met ingang van 1 juli 2021 wordt de betrekkingsomvang van de ambtenaar die is aangesteld met een arbeidstijd van gemiddeld meer dan 36 uur per week gewijzigd in een betrekkingsomvang van gemiddeld 36 uur per week, tenzij hij vóór 1 juli 2021 een aanvraag indient om de betrekkingsomvang ongewijzigd te laten.  
 
 ### Artikel  99j  
 
@@ -1638,7 +1611,7 @@ b. met 100% van 7,2 uur in 2009 tot en met 2011 en met 85% van 7,2 uur in 2012 e
 
 ### Artikel  100  
 
-1.  De artikelen 12, 12a, 13, eerste en derde lid, 15 tot en met 25, 28, 43 tot en met 48, 58, 61, 62, 64, 71 en 72 zijn op de aspirant niet van toepassing, met dien verstande dat artikel 12 en 12a wel van toepassing zijn op de aspirant gedurende het praktische opleidingsdeel.   
+1.  De artikelen 12, 12a, 13, eerste tot en met derde lid, 15 tot en met 25, 28, 43 tot en met 48, 58, 61, 62, 64, 71 en 72 zijn op de aspirant niet van toepassing, met dien verstande dat artikel 12 en 12a wel van toepassing zijn op de aspirant gedurende het praktische opleidingsdeel.   
 2.  De artikelen 13, 15 tot en met 28, 43 tot en met 48, 58, 59, 61, 64, en 71 zijn op de vakantiewerker niet van toepassing.   
 
 ### Artikel  101  

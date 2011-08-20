@@ -43,23 +43,23 @@ f. *schoolsoortgroep 4:* scholengemeenschappen bestaande uit scholen voor hoger 
 
 1.  Voor de directie bedraagt per 1 januari 2011 de landelijke gemiddelde personeelslast per formatieplaats: 
 
-a. € 80.463,72 voor schoolsoortgroep 1;  
+a. € 80.932,82 voor schoolsoortgroep 1;  
 
-b. € 96.034,09 voor schoolsoortgroep 2;  
+b. € 96.593,97 voor schoolsoortgroep 2;  
 
-c. € 95.009,02 voor schoolsoortgroep 3; en  
+c. € 95.562,92 voor schoolsoortgroep 3; en  
 
-d. € 92.288,50 voor schoolsoortgroep 4.     
-2.  Voor de leraren bedraagt per 1 januari 2011 de landelijke gemiddelde personeelslast per formatieplaats: 
+d. € 92.826,54 voor schoolsoortgroep 4.     
+2.  Voor de leraren bedraagt per 1 januari 2011 de gemiddelde personeelslast per formatieplaats: 
 
-a. € 71.809,32 voor schoolsoortgroep 1;  
+a. € 72.227,97 voor schoolsoortgroep 1;  
 
-b. € 81.441,56 voor schoolsoortgroep 2;  
+b. € 81.916,36 voor schoolsoortgroep 2;  
 
-c. € 77.462,84 voor schoolsoortgroep 3; en  
+c. € 77.914,45 voor schoolsoortgroep 3; en  
 
-d. € 73.720,02 voor schoolsoortgroep 4.     
-3.  Voor het onderwijsondersteunend personeel bedraagt per 1 januari 2011 de landelijke gemiddelde personeelslast per formatieplaats € 42.190,82, ongeacht de schoolsoortgroep.   
+d. € 74.149,81 voor schoolsoortgroep 4.     
+3.  Voor het onderwijsondersteunend personeel bedraagt per 1 januari 2011 de landelijke gemiddelde personeelslast per formatieplaats € 42.436,79, ongeacht de schoolsoortgroep.   
 
 ### Artikel  3  
 

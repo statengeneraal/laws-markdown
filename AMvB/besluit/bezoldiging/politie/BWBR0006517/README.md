@@ -62,7 +62,7 @@ n. salaris per uur: 1/157 deel van het salaris bij een volledige betrekking;
 
 o. salarisschaal: een als zodanig in één van de bijlagen van dit besluit vermelde reeks van genummerde salarissen;  
 
-p. salarisnummer: een aanduiding, bestaande uit een getal en een letter of uit een getal, die in een salarisschaal vóór een salaris is vermeld;  
+p. salarisnummer: een aanduiding, bestaande uit een getal, die in een salarisschaal bij een salaris is vermeld;  
 
 q. maximumsalaris: het hoogste bedrag van een salarisschaal;  
 
@@ -144,19 +144,19 @@ c. op het minimumbedrag van schaal 4a, voor de aspirant die een opleiding volgt 
 
 d. op het minimumbedrag van schaal 5a, voor de aspirant die een opleiding volgt op niveau 5;  
 
-e. op het minimumbedrag van schaal 6a, voor de aspirant die een opleiding volgt op niveau 6;     
-3.  In afwijking van het eerste en tweede lid wordt voor de aspirant die direct voorafgaand aan de datum van aanstelling ten minste twaalf maanden aaneengesloten inkomen uit arbeid genoot het salaris bij aanstelling vastgesteld op een salarisregel die, vermeerderd met de vakantie-uitkering en eindejaarsuitkering, gelijk is dan wel direct ligt onder dit genoten inkomen: 
+e. op het minimumbedrag van schaal 6a, voor de aspirant die een opleiding volgt op niveau 6.     
+3.  In afwijking van het eerste en tweede lid wordt voor de aspirant die direct voorafgaand aan de datum van aanstelling ten minste twaalf maanden aaneengesloten inkomen uit arbeid genoot het salaris bij aanstelling zodanig vastgesteld dat het salaris, vermeerderd met de vakantie-uitkering en eindejaarsuitkering, gelijk is dan wel direct ligt onder dit genoten inkomen: 
 
 a. in de volgens het tweede lid bij het opleidingsniveau behorende salarisschaal, of  
 
-b. in de na afronding van de opleiding toepasselijke salarisschaal zoals bedoeld in het zevende lid, maar maximaal op salarisregel 5 van die salarisschaal.     
+b. in de na afronding van de opleiding toepasselijke salarisschaal, bedoeld in het zevende lid, met dien verstande dat het salaris ten hoogste wordt vastgesteld op salarisregel 6 van de salarisschalen 4, 8 of 9, dan wel ten hoogste op salarisregel 7 van de salarisschalen 6 of 7.     
 4.  Voor de hoogte van het inkomen uit arbeid, bedoeld in het derde lid, wordt uitgegaan van het gemiddelde vaste bruto inkomen over de periode van twaalf maanden, vermeerderd met de vakantie-uitkering en met een eventuele eindejaarsuitkering of dertiende maand.   
 5.  Indien de aspirant, bedoeld in het tweede lid, naar het oordeel van het bevoegd gezag naar behoren functioneert, wordt het salaris telkens na het verstrijken van de periode die in de desbetreffende salarisschaal staat vermeld verhoogd tot het naasthogere bedrag in de schaal.   
 6.  Indien de aspirant 
 
 a. die is ingeschaald zoals bedoeld in het derde lid onderdeel a, naar het oordeel van het bevoegd gezag naar behoren functioneert, wordt het salaris telkens na één jaar verhoogd tot het naasthogere bedrag in de bij het opleidingsniveau behorende salarisschaal. Zodra het maximum van die salarisschaal is bereikt wordt het salaris telkens na één jaar verhoogd tot het naasthogere bedrag in de na afronding van de opleiding toepasselijke salarisschaal, tot maximaal salarisregel 5 van die schaal.  
 
-b. die is ingeschaald zoals bedoeld in het derde lid onderdeel b, naar het oordeel van het bevoegd gezag naar behoren functioneert, wordt het salaris telkens na één jaar verhoogd tot het naasthogere bedrag in de na afronding van de opleiding toepasselijke salarisschaal, tot maximaal salarisregel 5 van die schaal.     
+b. die is ingeschaald zoals bedoeld in het derde lid onderdeel b, naar het oordeel van het bevoegd gezag naar behoren functioneert, wordt het salaris telkens na één jaar verhoogd tot het naasthogere bedrag in de na afronding van de opleiding toepasselijke salarisschaal, tot ten hoogste het in het derde lid, onderdeel b, bedoelde salarisregel.     
 7.  Na het succesvol afronden van de opleiding vindt aanstelling plaats: 
 
 a. in een functie waaraan salarisschaal 4 is verbonden van de aspirant die een opleiding heeft afgerond op niveau 2;  
@@ -169,6 +169,12 @@ d. in een functie waaraan ten minste salarisschaal 8 is verbonden van de aspiran
 
 e. in een functie waaraan ten minste salarisschaal 9 is verbonden van de aspirant die een opleiding heeft afgerond op niveau 6,   waarbij het salaris wordt vastgesteld op een bedrag dat gelijk is aan of hoger is dan het bij het desbetreffende opleidingsniveau behorende garantiebedrag zoals genoemd in bijlage III van dit besluit.   
 8.  In uitzonderlijke individuele situaties kan het bevoegd gezag ten gunste van de aspirant afwijken van de leden twee tot en met zes.   
+
+### Artikel  3 bis  
+
+1.  In afwijking van artikel 3, eerste tot en met zesde lid, wordt voor aspiranten die de opleiding beginnen in de periode van 1 november 2010 tot en met 31 oktober 2013 het op grond van artikel 3, eerste tot en met zesde lid, geldende salaris gedurende de gehele opleidingsperiode gedurende het theoretisch opleidingsdeel met 50% verminderd. Artikel 17a is niet van toepassing.   
+2.  Onze Minister kan, in afwijking van het eerste lid, besluiten de vermindering van de salarissen van de aspiranten, bedoeld in het eerste lid, gelijkelijk te verdelen over het theoretische en het praktische opleidingsdeel.   
+3.  Het bevoegd gezag kan, in geval van langdurige ziekte bij een aspirant, die op grond van dit artikel zijn salaris ontvangt, besluiten de vermindering van het salaris, bedoeld in het eerste lid, buiten beschouwing te laten.   
 
 ### Artikel  3a  
 
@@ -216,7 +222,7 @@ a. bij de bepaling van de salarisschaal, bedoeld in het tweede lid, tevens is be
 
 b. indien de ambtenaar in verband met ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte wordt herplaatst in een andere functie;  
 
-c. het salaris van de ambtenaar na het succesvol afronden van de opleiding wordt vastgesteld, met toepassing van artikel 3, vierde lid;  
+c. het salaris van de ambtenaar na het succesvol afronden van de opleiding wordt vastgesteld, met toepassing van artikel 3, zevende lid;  
 
 d. indien de ambtenaar, die is aangewezen als herplaatsingkandidaat als bedoeld in [hoofdstuk VII.B van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), wordt herplaatst in een andere functie.     
 7.  De lagere salarisschaal op grond van het zesde lid, onderdeel d, gaat niet eerder voor de ambtenaar gelden dan vijf jaar nadat hij is herplaatst. Afhankelijk van het aantal dienstjaren van de ambtenaar wordt de termijn van vijf jaar verlengd overeenkomstig de hierna volgende tabel:  
@@ -229,7 +235,7 @@ d. indien de ambtenaar, die is aangewezen als herplaatsingkandidaat als bedoeld 
 | 40 of meer dienstjaren  | vier jaren  |
 
 8.  De lagere salarisschaal uit het zesde lid, onderdeel d, en het zevende lid, geldt niet indien de uitzondering van [artikel 55ra van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) van toepassing is.   
-9.  De ambtenaar kan bij het bevoegd gezag een aanvraag indienen om, indien de feitelijk opgedragen werkzaamheden gedurende langere tijd wezenlijk afwijken van zijn functie, de werkzaamheden en de functie met elkaar in overeenstemming te brengen. Het bevoegd gezag stelt regels vast over de behandeling van deze aanvraag.   
+9.  De ambtenaar kan bij het bevoegd gezag een aanvraag indienen om, indien de feitelijk opgedragen werkzaamheden ten minste een jaar wezenlijk afwijken van zijn functie, de werkzaamheden en de functie met elkaar in overeenstemming te brengen. Onze Minister stelt regels vast over de behandeling van deze aanvraag.   
 10.  Voor de ambtenaar die in het kader van een detachering, bedoeld in [artikel 62 van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), tijdelijk een andere functie uitoefent waaraan op grond van artikel 6, tweede lid, een hogere salarisschaal is verbonden, geldt deze hogere salarisschaal.   
 
 ### Artikel  7  
@@ -255,9 +261,9 @@ d. indien de ambtenaar, die is aangewezen als herplaatsingkandidaat als bedoeld 
 
 ### Artikel  10  
 
-1.  Ingeval van indeling in een hogere schaal wordt, met inachtneming van artikel 11, het salaris van de ambtenaar in de nieuwe schaal vastgesteld op het bedrag gelegen onmiddellijk boven het salaris dat de ambtenaar in de oude schaal heeft genoten, dan wel zou hebben genoten.   
-2.  Indien de uit zodanige vaststelling voortvloeiende salarisverhoging minder zou bedragen dan de eerstvolgende periodieke verhoging in de oude salarisschaal, dan wel de laatste periodieke verhoging in de oude schaal voor de ambtenaar die op het maximumsalaris van de oude salarisschaal was ingeschaald, wordt het salaris vastgesteld op het naasthogere bedrag in de nieuwe salarisschaal.   
-3.  In bijzondere gevallen kan het salaris worden vastgesteld op een hoger bedrag in de voor de ambtenaar geldende salarisschaal.   
+1.  Ingeval van indeling in een hogere schaal wordt, met inachtneming van artikel 11, het salaris van de ambtenaar in de nieuwe schaal vastgesteld op het salaris gelegen onmiddellijk boven het salaris dat de ambtenaar genoot.   
+2.  In bijzondere gevallen kan het salaris worden vastgesteld op een hoger bedrag in de voor de ambtenaar geldende salarisschaal.   
+3.  Indien de datum van indeling in de hogere schaal samenvalt met de datum waarop een verhoging als bedoeld in artikel 9, eerste of tweede lid, plaatsvindt, vindt de indeling in de hogere schaal plaats voor de verhoging, bedoeld in artikel 9, eerste of tweede lid.   
 
 ### Artikel  11  
 
@@ -280,20 +286,28 @@ Bij bijzondere prestaties kan een gratificatie worden toegekend.
 1.  Aan de ambtenaar wordt een operationele toelage toegekend.   
 2.  De operationele toelage wordt berekend per periode van vier weken en bedraagt voor elk uur waarop de ambtenaar werkelijke dienst verricht dan wel werkelijke dienst zou hebben verricht indien de ambtenaar niet binnen een tijdvak van vier dagen direct daaraan voorafgaande door het bevoegde gezag tot dienstverrichting op andere tijdstippen geroepen was: 
 
-a. over uren in het tijdvak van maandag tot en met donderdag van 22.00 tot 07.00 uur en op zaterdag en zondag van 07.00 tot 22.00 uur, € 3,82; en  
+a. over de uren in het tijdvak van maandag tot en met donderdag van 21.00 tot 07.00 uur, op vrijdag van 21.00 tot 22.00 uur, en op zaterdag en zondag van 07.00 tot 22.00 uur, € 3,82; en  
 
-b. over uren in het tijdvak van 22.00 tot 07.00 uur in de weekeindnachtdiensten, € 5,73.     
+b. over de uren in het tijdvak van 22.00 tot 07.00 uur in de weekendnachtdiensten, daaronder begrepen de diensten in de nacht voor en de nacht na een weekend of een feestdag, genoemd in het derde lid, € 5,73.     
 3.  Hetgeen in het tweede lid ten aanzien van het verrichten van dienst op zaterdag en zondag is bepaald, geldt mede voor het verrichten van dienst op de Nieuwjaarsdag, de tweede Paasdag, de Hemelvaartsdag, de tweede Pinksterdag, de beide Kerstdagen en de dag waarop de verjaardag van de Koning wordt gevierd.   
 4.  De operationele toelage wordt in gevallen van zwangerschap en ziekte van de ambtenaar gesteld op het bedrag dat de ambtenaar in de drie perioden van vier weken, onmiddellijk voorafgaande aan de periode van vier weken waarin de ziekte is aangevangen, gemiddeld aan toelage op grond van dit artikel heeft genoten.   
 
 ### Artikel  15  
 
-1.  Aan de ambtenaar wiens bezoldiging als gevolg van het buiten toedoen van de ambtenaar beëindigen of verminderen van de operationele toelage, bedoeld in artikel 14 een blijvende verlaging ondergaat die tenminste 3% bedraagt van het salaris, wordt een aflopende toelage toegekend, mits de ambtenaar eerstbedoelde toelage direct voorafgaande aan het tijdstip van deze beëindiging of vermindering ervan, gedurende ten minste twee jaren zonder wezenlijke onderbreking heeft genoten.   
-2.  In afwijking van het eerste lid wordt aan de ambtenaar van 55 jaar of ouder wiens bezoldiging als gevolg van het buiten toedoen van de ambtenaar beëindigen of verminderen van de operationele toelage, bedoeld in artikel 14, een blijvende verlaging ondergaat, een blijvende toelage toegekend, mits de ambtenaar eerstbedoelde toelage direct voorafgaande aan het tijdstip van deze beëindiging of vermindering ervan, gedurende tenminste tien jaren zonder wezenlijke onderbreking heeft genoten.   
-3.  De in het eerste lid bedoelde aflopende toelage gaat, wanneer de ambtenaar de leeftijd van 55 jaar bereikt en onmiddellijk vóór de aanvang van die toelage gedurende tenminste tien jaren zonder onderbreking de operationele toelage, bedoeld in artikel 14 heeft genoten, over in een blijvende toelage als bedoeld in het tweede lid.   
+1.  De ambtenaar van wie de bezoldiging voldoet aan de volgende voorwaarden, wordt een aflopende toelage toegekend: 
+
+a. de bezoldiging van de betreffende ambtenaar heeft als gevolg van het beëindigen of verminderen van de operationele toelage een blijvende of tijdelijke verlaging ondergaan;  
+
+b. het gemiddelde bedrag dat de ambtenaar aan operationele toelage heeft genoten in de twaalf maanden voorafgaande aan de verlaging bedraagt ten minste 3% van het salaris van de ambtenaar in de nieuwe situatie op het moment dat de verlaging ingaat;  
+
+c. de ambtenaar heeft, tenzij sprake is van een tijdelijke verlaging van de bezoldiging als bedoeld onder a, direct voorafgaande aan het tijdstip van de beëindiging of de vermindering de operationele toelage gedurende ten minste twee jaren zonder wezenlijke onderbreking genoten; en  
+
+d. het beëindigen of verminderen van de operationele toelage, bedoeld onder a, is veroorzaakt buiten toedoen van de betrokken ambtenaar zelf, tenzij de vermindering het gevolg is van een verplaatsing of wijziging van de plaats van tewerkstelling op eigen verzoek, dan wel een aanstelling in een andere functie binnen het eigen korps op eigen verzoek, dan wel een aanstelling bij een ander korps ten behoeve van het uitoefenen van een functie bij een bovenregionale samenwerkingsvoorziening.     
+2.  In afwijking van het eerste lid wordt aan de ambtenaar van 55 jaar of ouder wiens bezoldiging als gevolg van het beëindigen of verminderen van de operationele toelage, bedoeld in artikel 14, een blijvende verlaging ondergaat, een blijvende toelage toegekend, mits de ambtenaar eerstbedoelde toelage direct voorafgaande aan het tijdstip van deze beëindiging of vermindering ervan, gedurende tenminste tien jaren zonder wezenlijke onderbreking heeft genoten en mits wordt voldaan aan de in het eerste lid onder b en d genoemde voorwaarden.   
+3.  De in het eerste lid bedoelde aflopende toelage na een blijvende verlaging van de bezoldiging gaat, wanneer de ambtenaar de leeftijd van 55 jaar bereikt en onmiddellijk vóór de aanvang van die toelage gedurende tenminste tien jaren zonder wezenlijke onderbreking de operationele toelage, bedoeld in artikel 14 heeft genoten, over in een blijvende toelage als bedoeld in het tweede lid.   
 4.  Voor de toepassing van dit artikel wordt onder wezenlijke onderbreking verstaan een onderbreking van langer dan twee maanden.   
 5.  Voor de ambtenaar die is aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie en geen deelnemer is zoals bedoeld in artikel B.3, tweede lid, van het AFUP-opbouwreglement dan wel geen ambtenaar is als bedoeld in de eerste volzin van [artikel 88, eerste lid, van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), wordt in het tweede en derde lid van dit artikel in plaats van «55 jaar» telkens gelezen: 60 jaar.   
-6.  Onze Minister stelt nadere regels vast over de berekeningswijze van de toelage.   
+6.  Onze Minister stelt nadere regels vast over de berekeningswijze van de toelage en over de gevallen waarin sprake is van een blijvende of tijdelijke verlaging van de bezoldiging als bedoeld in het eerste lid.   
 
 ### Hoofdstuk  5  
 
@@ -504,94 +518,6 @@ b. de betrokken ambtenaar door het bevoegd gezag wordt opgeroepen voor een inzet
 
 ####Tijdelijke ouderenregeling
 
-### Artikel  29a  
-
-In dit hoofdstuk wordt verstaan onder: 
-
-a. betrokkene: de ambtenaar aan wie op grond van [artikel 13b van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) non-activiteit is verleend;  
-
-b. berekeningsbasis: de bezoldiging in de zin van dit besluit, vermeerderd met de vakantie-uitkering en de uitkering, bedoeld in artikel 25b berekend over een maand, waarop de betrokkene op de dag voorafgaand aan de non-activiteit aanspraak had of bij waarneming van zijn functie zou hebben gehad;  
-
-c. non-activiteitsinkomen: de vanwege de non-activiteit verminderde bezoldiging;  
-
-d. Reglement FPU: het Reglement flexibel pensioen en uittreden ter zake van basisuitkering en aanvullende uitkering, als bedoeld in artikel 6, tweede lid, van de Centrale vut-overeenkomst overheids- en onderwijspersoneel.    
-
-### Artikel  29b  
-
-1.  Indien de door een betrokkene over de laatste aan de non-activiteit voorafgaande twaalf volle kalendermaanden genoten bezoldiging geheel of gedeeltelijk uit wisselende inkomsten bestond, wordt in zoverre in afwijking van artikel 29a, onderdeel b, als berekeningsbasis aangemerkt, het gemiddelde van die wisselende inkomsten.   
-2.  In afwijking van het eerste lid worden, indien de periode van non-activiteit direct vooraf wordt gegaan door een periode waarin vakantie of verlof wordt genoten, de twaalf volle kalendermaanden waarin de bezoldiging geheel of gedeeltelijk uit wisselende inkomsten bestond, gerekend vanaf de dag voorafgaand aan de vakantie of verlof.   
-3.  De berekeningsbasis wordt aangepast overeenkomstig een algemene salarismaatregel in de sector Politie.   
-
-### Artikel  29c  
-
-1.  Gedurende de periode van non-activiteit vindt een vermindering plaats op de berekeningsbasis van 20%.   
-2.  De in het eerste lid genoemde vermindering van de berekeningsbasis wordt aangemerkt als het niet volledig in het genot zijn van het inkomen vanwege verlof zoals bedoeld in artikel 3, eerste lid, onderdeel 4 van het pensioenreglement.   
-
-### Artikel  29d  
-
-1.  De inkomsten die de betrokkene geniet of gaat genieten uit of in verband met arbeid of bedrijf, aangevangen met ingang van de dag waarop de periode van non-activiteit is ingegaan, worden in mindering gebracht op het non-activiteitsinkomen tenzij de betrokkene aannemelijk maakt dat die inkomsten, dan wel een gedeelte daarvan geen verband houden met verhoogde werkzaamheid.   
-2.  De in het eerste lid bedoelde vermindering is gelijk aan het bedrag waarmee het onverminderde non-activiteitsinkomen vermeerderd met het totaal bedrag van de inkomsten bedoeld in het eerste lid tezamen de berekeningsgrondslag te boven gaat.   
-3.  Het eerste lid is van overeenkomstige toepassing ten aanzien van inkomsten uit of in verband met arbeid of bedrijf aangevangen gedurende de vakantie of het verlof onmiddellijk voorafgaande aan de periode van non-activiteit, met dien verstande dat de gedurende de periode van vakantie of verlof genoten inkomsten uit of in verband met arbeid of bedrijf niet in mindering worden gebracht.   
-4.  Inkomsten uit arbeid of bedrijf als bedoeld in het eerste lid die geacht worden op één maand betrekking te hebben of geacht kunnen worden te hebben, worden in mindering gebracht op het non-activiteitsinkomen over die maand.   
-
-### Artikel  29e  
-
-1.  De betrokkene is verplicht vanaf het moment waarop de periode van non-activiteit is ingegaan, opgave te doen van de inkomsten, bedoeld in artikel 29d, eerste en derde lid.   
-2.  Indien de inkomsten niet vooraf kunnen worden vastgesteld, doet de betrokkene maandelijks, voorafgaand aan de betaling van het non-activiteitsinkomen, opgave van de inkomsten die hij sinds de vorige opgave heeft genoten.   
-3.  Indien de inkomsten slechts over een langere termijn kunnen worden vastgesteld, doet de betrokkene dienovereenkomstig opgave en wordt de berekeningsbasis met een voorlopig vastgesteld bedrag verminderd. Na afloop van de desbetreffende termijn zullen de daadwerkelijke inkomsten worden verrekend.   
-4.  Het bevoegd gezag kan nadere voorschriften geven met betrekking tot de wijze van opgave van de inkomsten door de betrokkene.   
-5.  De betrokkene stemt er, door het aanvaarden van de non-activiteit, mee in dat allen die daarvoor naar het oordeel van het bevoegde gezag in aanmerking komen, omtrent zijn omstandigheden alle inlichtingen geven welke voor de uitvoering van dit hoofdstuk noodzakelijk zijn.   
-
-### Artikel  29f  
-
-1.  Indien de betrokkene ongeschikt is tot het verrichten van arbeid wegens ziekte, is hij verplicht daarvan terstond mededeling te doen aan het bevoegde gezag. De betrokkene is eveneens verplicht zijn herstel terstond te melden.   
-2.  Indien de betrokkene ongeschikt is tot het verrichten van arbeid wegens ziekte, kan hij door het bevoegde gezag worden verplicht zich geneeskundig te doen onderzoeken.   
-3.  Indien de betrokkene ongeschikt is tot het verrichten van arbeid wegens ziekte blijft de korting op de berekeningsbasis, bedoeld in artikel 29c, eerste lid, onverminderd van kracht.   
-4.  Indien ongeschiktheid tot het verrichten van arbeid wegens ziekte aanvangt binnen een maand na het tijdstip waarop de periode van non-activiteit is ingegaan, vindt in afwijking van het derde lid, de eerste 52 weken van deze ongeschiktheid de vermindering van de berekeningsbasis, bedoeld in artikel 29c; eerste lid, plaats overeenkomstig de volgende tabel: 
-
-1° de eerste 26 weken geen vermindering op de berekeningsbasis;  
-
-2° de tweede 26 weken een vermindering van 10% op de berekeningsbasis.     
-5.  Indien de periode van non-activiteit direct vooraf wordt gegaan door een periode waarin vakantie of verlof wordt genoten, is het derde en vierde lid van overeenkomstige toepassing, met dien verstande dat de vermindering van de bezoldiging niet plaatsvindt zolang vakantie of verlof wordt genoten.   
-
-### Artikel  29g  
-
-1.  Het recht op betaling van het non-activiteitsinkomen eindigt: 
-
-a. met ingang van de dag waarop de betrokkene recht verkrijgt op een WAO-uitkering;  
-
-b. met ingang van de dag volgende op die waarop de betrokkene is overleden;  
-
-c. met ingang van de eerste dag van de maand volgende op die waarin de betrokkene de leeftijd van 60 jaar heeft bereikt;  
-
-d. met ingang van de eerste dag van de maand volgende op die waarin de betrokkene, voor het bereiken van de leeftijd van 60 jaar, ontslag is verleend met het oog op een uitkering krachtens het Reglement FPU;  
-
-e. met ingang van de dag volgende op die waarop de betrokkene op andere gronden wordt ontslagen.     
-2.  Het recht op betaling van het non-activiteitsinkomen kan geheel of ten dele vervallen worden verklaard, indien betrokkene weigert mee te werken aan een onderzoek tot vaststelling van zijn arbeidsongeschiktheid ter verkrijging van een WAO-uitkering.   
-
-### Artikel  29h  
-
-1.  Indien de aan de betrokkene toegekende WAO-uitkering, eventueel vermeerderd met een invaliditeitspensioen, lager is dan het non-activiteitsinkomen indien geen sprake zou zijn van arbeidsongeschiktheid, wordt hem het verschil bij wijze van toelage uitgekeerd.   
-2.  De betrokkene die na afloop van de periode van 52 weken, bedoeld in [artikel 19 van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), geen WAO-uitkering aanvraagt, wordt voor de toepassing van dit hoofdstuk behandeld alsof hem een WAO-uitkering is toegekend berekend naar een mate van arbeidsongeschiktheid van 80% of meer.   
-3.  Indien de WAO-uitkering van de betrokkene die terzake van dezelfde dienstverhouding non-activiteit geniet en recht heeft op een WAO-uitkering, als gevolg van handelen of nalaten een vermindering ondergaat, of het recht daarop geheel of gedeeltelijk wordt geweigerd, wordt bedoelde WAO-uitkering voor de toepassing van dit hoofdstuk geacht onverminderd te zijn genoten.   
-
-### Artikel  29i  
-
-1.  Ten aanzien van de betrokkene die na zijn ontslag uit hoofde van ziekte of arbeidsongeschiktheid nog aanspraken in verband met de betrekking op grond waarvan de non-activiteit is verleend, heeft of krijgt, wordt het non-activiteitsinkomen dan wel de toelage, bedoeld in artikel 29h, tot het einde van de periode waarover die aanspraken bestaan, verminderd met het bedrag daarvan.   
-2.  Ten aanzien van de betrokkene die na zijn herplaatsing of ontslag uit hoofde van ziekte of arbeidsongeschiktheid aanspraken in verband met de betrekking op grond waarvan de non-activiteit is verleend, verliest, wordt de berekeningsbasis tot het einde van de periode waarover die aanspraken bestaan, vermeerderd met het bedrag daarvan.   
-
-### Artikel  29j  
-
-Indien de betrokkene de gegevens die noodzakelijk zijn voor het verminderen van het non-activiteitsinkomen niet, niet volledig of onjuist verstrekt, kan worden bepaald dat het non-activiteitsinkomen, zolang zulks het geval is, niet of slechts gedeeltelijk wordt uitbetaald.  
-
-### Artikel  29k  
-
-1.  Het non-activiteitsinkomen, over een maand berekend, wordt in maandelijkse termijnen betaald.   
-2.  Zo spoedig mogelijk na het overlijden van de betrokkene, wordt aan de weduwe of weduwnaar, van wie de overledene niet duurzaam gescheiden leefde, een bedrag uitgekeerd gelijk aan de berekeningsbasis over een tijdvak van drie maanden. Als maatstaf bij de berekening van dit bedrag geldt, behoudens het hierna bepaalde, de berekeningsbasis waar het non-activiteitsinkomen op de dag van het overlijden van was afgeleid. Wordt op het non-activiteitsinkomen een vermindering toegepast krachtens de artikelen 29d, 29e, 29g, tweede lid, dan wel artikel 29j, dan wordt de in het eerste lid bedoelde uitkering verminderd met de vanwege genoemde artikelen toegepaste vermindering over een tijdvak van drie maanden.   
-3.  Artikel 46, derde tot en met vijfde lid, is van overeenkomstige toepassing.   
-4.  Op de uitkering, bedoeld in het tweede lid, wordt het reeds voor zijn overlijden aan de betrokkene uitbetaalde non-activiteitsinkomen over een na zijn overlijden gelegen tijdvak in mindering gebracht. Indien de betrokkene voor zijn overlijden te veel vakantie heeft genoten, is [artikel 26, tweede lid, van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), niet van overeenkomstige toepassing.   
-5.  Op de uitkering, bedoeld in het tweede lid, wordt, indien van toepassing, het bedrag van de uitkering die op grond van [artikel 53 van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) wordt uitbetaald in mindering gebracht.   
-
 ### Hoofdstuk  9  
 
 ####Bijzondere situaties
@@ -663,7 +589,7 @@ c. de ambtenaar die op grond van een andere bijzondere verbintenis in werkelijke
 
 ### Artikel  37a  
 
-1.  Indien de ambtenaar van 55 jaar of ouder die op 15 maart 1999 ten minste de 49-jarige leeftijd heeft bereikt, op zijn aanvraag een functie wordt opgedragen waaraan een salarisschaal is verbonden met een lager maximum dan het maximum van de reeds voor hem geldende salarisschaal, wordt op zijn salaris een inhouding toegepast.   
+1.  De ambtenaar die 55 jaar of ouder is en deze leeftijd voor 1 januari 2012 bereikt, kan op zijn aanvraag, voor zover deze is ingediend voor genoemde datum, een functie worden opgedragen waaraan een salaris is verbonden met een lager maximum dan het maximum van de reeds voor hem geldende salarisschaal. In dat geval wordt op zijn salaris een inhouding toegepast.   
 2.  De inhouding is gelijk aan het verschil tussen het salaris dat de ambtenaar geniet en het maximumsalaris behorende bij de salarisschaal direct onder de voor de ambtenaar geldende salarisschaal met dien verstande dat dit bedrag niet negatief mag zijn.   
 3.  In bijzondere gevallen kan het bevoegd gezag geheel of gedeeltelijk van de inhouding afzien.   
 4.  Onze Minister kan nadere regels stellen.   
@@ -901,7 +827,7 @@ b) de omvang van die arbeid niet is toegenomen.
 
 ### Artikel  45c  
 
-1.  De aanspraak van de ambtenaar en de gewezen ambtenaar op de bovenwettelijke ziekte-uitkering of doorbetaling van de bezoldiging na afloop van de termijn als bedoeld in artikel 38, eerste lid, wordt zoveel mogelijk op gelijke wijze gewijzigd als een aan hem toegekende ZW-uitkering of een WAO-uitkering.   
+1.  De aanspraak van de ambtenaar en de gewezen ambtenaar op de bovenwettelijke ziekte-uitkering of de doorbetaling van de bezoldiging na afloop van de termijn als bedoeld in artikel 38, eerste lid, wordt zoveel mogelijk op gelijke wijze gewijzigd als een aan hem toegekende ZW-uitkering of een WAO-uitkering.   
 2.  Het eerste lid vindt geen toepassing indien de ambtenaar en de gewezen ambtenaar aanspraak op een ZW-uitkering of een WAO-uitkering hebben wegens ongeschiktheid tot werken voor een betrekking die de ambtenaar of de gewezen ambtenaar heeft vervuld naast zijn betrekking ter zake waarvan de ambtenaar of de gewezen ambtenaar op een uitkering krachtens dit hoofdstuk aanspraak heeft, voor zover de ZW-uitkering of de WAO-uitkering naar de inkomsten uit die andere betrekking wordt berekend of geacht kan worden te zijn berekend.   
 
 ### Artikel  45d  
@@ -981,6 +907,10 @@ Artikel 6, zesde lid, onderdeel d, en zevende lid, is tot en met 31 december 20
 
 De ambtenaar die opleidingsniveau 4 succesvol heeft afgerond, wordt uiterlijk per 1 augustus 2011 aangesteld in een functie waaraan ten minste salarisschaal 7 van bijlage I van dit besluit is verbonden.  
 
+### Artikel  49e  
+
+Van de ambtenaar die voor 1 maart 2010 een salaris genoot met toepassing van bijlage I, zoals deze luidde voor die datum, wordt het salaris op 1 maart 2010 vastgesteld in de schaal met hetzelfde nummer van de bij dit besluit behorende bijlage I als de schaal uit bijlage I die voor 1 maart 2010 van toepassing was, in de periodiek met het bedrag dat overeenkomt met het oude salaris, dan wel bij gebreke daarvan, met het salarisbedrag dat onmiddellijk boven het bedrag van het oude salaris ligt.  
+
 ### Artikel  50  
 
 1.  De artikelen 6 tot en met 10, 14 tot en met 17, 18, 20, 27 tot en met 30 zijn niet van toepassing op de aspirant met dien verstande dat de artikelen 14, 18, 27, 27a, 27b en 28 wel van toepassing zijn op de aspirant gedurende het praktisch opleidingsdeel.   
@@ -1014,9 +944,80 @@ E. van Thijn
 
 ### Bijlage  I  
 
-####bij het Besluit bezoldiging politie, salaristabellen van politieambtenaren per 1 januari 2010 (in euro per maand)
+####bij artikel 8, eerste lid , van het Besluit bezoldiging politie
 
-![245179](http://wetten.overheid.nl/Illustration/245179)
+salaristabellen van politieambtenaren (in euro per maand)  
+
+|--- | schaal  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | bedrag in €  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1.312,00  | 0  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.378,00  | 1  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.445,00  | 2  | 2  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.536,00  | 3  | 3  | 1  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.624,00  | 4  | 4  | 2  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.704,00  | 5  | 5  | 3  | 2  | 0  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.776,00  | 6  | 6  | 4  | 3  | 1  | 1  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.837,00  | 7  | 7  | 5  | 4  | --- | --- | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.911,00  | 8  | 8  | 6  | 5  | 2  | 2  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.973,00  | 9  | 9  | 7  | 6  | 3  | 3  | 2  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.036,00  | 10  | 10  | 8  | 7  | 4  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.099,00  | --- | 11  | 9  | 8  | 5  | 4  | 3  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.150,00  | --- | 12  | 10  | 9  | 6  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.209,00  | --- | 13  | 11  | 10  | 7  | 6  | 4  | 1  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.284,00  | --- | --- | 12  | 11  | 8  | 7  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.341,00  | --- | --- | 13  | 12  | 9  | 8  | --- | 2  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.396,00  | --- | --- | 14  | 13  | 10  | --- | 6  | --- | 2  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.471,00  | --- | --- | --- | 14  | 11  | 9  | 7  | 3  | 3  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.528,00  | --- | --- | --- | --- | 12  | 10  | 8  | 4  | --- | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.571,00  | --- | --- | --- | --- | 13  | 11  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.616,00  | --- | --- | --- | --- | 14  | 12  | 9  | 5  | 4  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.668,00  | --- | --- | --- | --- | --- | 13  | 10  | --- | --- | 2  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.724,00  | --- | --- | --- | --- | --- | 14  | 11  | 6  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.796,00  | --- | --- | --- | --- | --- | --- | 12  | 7  | --- | 3  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.867,00  | --- | --- | --- | --- | --- | --- | 13  | 8  | 6  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2.953,00  | --- | --- | --- | --- | --- | --- | 14  | 9  | 7  | 4  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.019,00  | --- | --- | --- | --- | --- | --- | --- | 10  | --- | 5  | 0  | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.094,00  | --- | --- | --- | --- | --- | --- | --- | 11  | 8  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.138,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 6  | 1  | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.182,00  | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.231,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 7  | 2  | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.281,00  | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.347,00  | --- | --- | --- | --- | --- | --- | --- | 14  | --- | 8  | 3  | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.360,00  | --- | --- | --- | --- | --- | --- | --- | --- | 11  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.460,00  | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | 4  | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.564,00  | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | 5  | 0  | --- | --- | --- | --- | --- | --- | --- |
+| 3.659,00  | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 11  | 6  | 1  | --- | --- | --- | --- | --- | --- | --- |
+| 3.770,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 7  | 2  | --- | --- | --- | --- | --- | --- | --- |
+| 3.882,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 8  | 3  | 0  | --- | --- | --- | --- | --- | --- |
+| 3.987,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 9  | 4  | 1  | --- | --- | --- | --- | --- | --- |
+| 4.092,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 10  | 5  | 2  | --- | --- | --- | --- | --- | --- |
+| 4.196,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 11  | 6  | 3  | 0  | --- | --- | --- | --- | --- |
+| 4.297,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 7  | 4  | 1  | --- | --- | --- | --- | --- |
+| 4.399,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 8  | 5  | 2  | --- | --- | --- | --- | --- |
+| 4.507,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 9  | 6  | 3  | 0  | --- | --- | --- | --- |
+| 4.576,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 10  | 7  | 4  | 1  | --- | --- | --- | --- |
+| 4.681,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 11  | 8  | 5  | 2  | --- | --- | --- | --- |
+| 4.812,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | 6  | 3  | 0  | --- | --- | --- |
+| 4.942,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | 7  | 4  | 1  | --- | --- | --- |
+| 5.074,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 11  | 8  | 5  | 2  | --- | --- | --- |
+| 5.205,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | 6  | 3  | 0  | --- | --- |
+| 5.337,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | 7  | 4  | 1  | --- | --- |
+| 5.475,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 11  | 8  | 5  | 2  | --- | --- |
+| 5.617,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | 6  | 3  | 0  | --- |
+| 5.763,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | 7  | 4  | 1  | --- |
+| 5.939,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 11  | 8  | 5  | 2  | --- |
+| 6.120,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | 6  | 3  | --- |
+| 6.308,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | 7  | 4  | --- |
+| 6.500,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 11  | 8  | 5  | --- |
+| 6.700,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | 6  | --- |
+| 6.906,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | 7  | --- |
+| 7.118,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 11  | 8  | --- |
+| 7.337,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | 9  | --- |
+| 7.564,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | 10  | --- |
+| 7.797,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | 11  | --- |
+| 8.039,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  | --- |
+| 8.287,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 13  | --- |
+| 8.493,00  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 14  | --- |
 
 ### Bijlage  II  
 
@@ -1026,7 +1027,6 @@ E. van Thijn
 
 ### Bijlage  III  
 
-####bij het Besluit bezoldiging politie, garantiebedragen conform artikel 3, zevende lid, per 1 januari 2010 (in euro per maand)
+####bij artikel 3, zevende lid , van het Besluit bezoldiging politie
 
-![245181](http://wetten.overheid.nl/Illustration/245181)
-
+garantiebedragen (per maand) Opleidingsniveau 2  € 1.704 Opleidingsniveau 3  € 1.911 Opleidingsniveau 4  € 2.099 Opleidingsniveau 5  € 2.341 Opleidingsniveau 6  € 2.396 
