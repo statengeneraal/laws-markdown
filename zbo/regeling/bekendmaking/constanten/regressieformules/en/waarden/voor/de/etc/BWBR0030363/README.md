@@ -4,7 +4,7 @@
 
 De Directie van de Dienst Wegverkeer,  
 Gelet op [artikel 8 van het Besluit etikettering energiegebruik personenauto’s](../../../../../../../../../../../AMvB/besluit/etikettering/energiegebruik/personenauto's/BWBR0011761/README.md) van 3 november 2000.
-Besluit:     De constanten voor de in [bijlage 4 bij het Besluit etikettering energiegebruik personenauto’s](../../../../../../../../../../../AMvB/besluit/etikettering/energiegebruik/personenauto's/BWBR0011761/README.md) opgenomen regressieformules, en de daarbij behorende waarden van de gemiddelde CO <sub>2</sub> -uitstoot, voor personenauto’s met benzine als brandstof en voor personenauto’s met diesel als brandstof voor de kalenderjaren 2012 en 2013, als volgt vast te stellen: 
+Besluit:    De constanten voor de in [bijlage 4 bij het Besluit etikettering energiegebruik personenauto’s](../../../../../../../../../../../AMvB/besluit/etikettering/energiegebruik/personenauto's/BWBR0011761/README.md) opgenomen regressieformules, en de daarbij behorende waarden van de gemiddelde CO<sub>2</sub>-uitstoot, voor personenauto’s met benzine als brandstof en voor personenauto’s met diesel als brandstof voor de kalenderjaren 2012 en 2013, als volgt vast te stellen: 
 ### *Set 1: Constanten voor 2012* 
 
 1. Constanten voertuiglengte:  
@@ -31,12 +31,12 @@ Besluit:     De constanten voor de in [bijlage 4 bij het Besluit etikettering en
 | C2, diesel:  | – 67,2854  |
 | C3, diesel:  | 6,3152  |
 
-4. Waarden gemiddelde CO <sub>2</sub> -uitstoot:  
+4. Waarden gemiddelde CO<sub>2</sub>-uitstoot:  
 
 | --- | --- |
 |:---|:---|
-| Gemiddelde CO <sub>2</sub> -uitstoot benzine:  | 143,0455  |
-| Gemiddelde CO <sub>2</sub> -uitstoot diesel:  | 108,5052  |
+| Gemiddelde CO<sub>2</sub>-uitstoot benzine:  | 143,0455  |
+| Gemiddelde CO<sub>2</sub>-uitstoot diesel:  | 108,5052  |
 
 ### *Set 2: Voorgenomen constanten voor 2012 en 2013* 
 
@@ -64,12 +64,12 @@ Besluit:     De constanten voor de in [bijlage 4 bij het Besluit etikettering en
 | C2, diesel:  | – 45,6015  |
 | C3, diesel:  | 4,9404  |
 
-4. Waarden gemiddelde CO <sub>2</sub> -uitstoot:  
+4. Waarden gemiddelde CO<sub>2</sub>-uitstoot:  
 
 | --- | --- |
 |:---|:---|
-| Gemiddelde CO <sub>2</sub> -uitstoot benzine:  | 146,7956  |
-| Gemiddelde CO <sub>2</sub> -uitstoot diesel:  | 114,9928  |
+| Gemiddelde CO<sub>2</sub>-uitstoot benzine:  | 146,7956  |
+| Gemiddelde CO<sub>2</sub>-uitstoot diesel:  | 114,9928  |
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.   
 

@@ -63,11 +63,11 @@ f) the maintenance of a fixed place of business solely for any combination of ac
 – other than an agent of an independent status to whom sub-paragraph f) vi) applies - is acting on behalf of a company resident in Norway and has, and habitually exercises, in Aruba an authority to conclude contracts in the name of the company, that company shall be deemed to have a permanent establishment in Aruba in respect of any activities as mentioned in Article 3 which that person undertakes for the company, unless the activities of such person are limited to those mentioned in paragraph iv) which, if exercised through a fixed place of business, would not make this fixed place of business a permanent establishment under the provisions of that paragraph;    
 
 (vi) a company resident in Norway shall not be deemed to have a permanent establishment in Aruba merely because it carries on business in Aruba through a broker, general commission agent or any other agent of an independent status, provided that such persons are acting in the ordinary course of their business.       
-2.  As regards the application of this Agreement at any time by a Party, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that Party, any meaning under the applicable tax laws of that Party prevailing over a meaning given to the term under other laws of that Party.   
+2.  As regards the application of this Agreement at any time by a Party, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that Party, any meaning under the applicable tax laws of that Party prevailing over a meaning given to the term under other laws of that Party.  
 
 ### Article  2  
 
-When a company resident in Norway has a permanent establishment in Aruba, Norway shall exempt profits, which are attributable to that permanent establishment from tax, provided that the greater part of the profits is derived from activities as mentioned in Article 3.  
+When a company resident in Norway has a permanent establishment in Aruba, Norway shall exempt profits, which are attributable to that permanent establishment from tax, provided that the greater part of the profits is derived from activities as mentioned in Article 3. 
 
 ### Article  3  
 
@@ -86,29 +86,29 @@ e) medical services;
 f) repair, maintenance, certification of ship and aircraft; and  
 
 g) oil and gas activities and energy production.     
-2.  The right of any company resident in Norway to engage in Aruba in the activities listed in the preceding paragraph remains subject to the domestic legislation in force in Aruba.   
+2.  The right of any company resident in Norway to engage in Aruba in the activities listed in the preceding paragraph remains subject to the domestic legislation in force in Aruba.  
 
 ### Article  4  
 
 1.  Where a company resident in Norway considers that the actions of one of the Parties result or will result for it in taxation not in accordance with the provisions of this Agreement, it may, irrespective of the remedies provided by the domestic law of the party, present its case to the competent authority of Norway. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of this Agreement.   
 2.  The competent authority shall endeavour, if the objection appears to it to be justified and if it not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of Aruba, with a view to the avoidance of taxation which is not in accordance with this Agreement. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Parties.   
 3.  The competent authorities of the Parties shall endeavour to resolve by mutual agreement any difficulties arising as to the interpretation or application of this Agreement.   
-4.  The competent authorities of the Parties may communicate with each other directly for the purpose of reaching an agreement in the sense of the preceding paragraph.   
+4.  The competent authorities of the Parties may communicate with each other directly for the purpose of reaching an agreement in the sense of the preceding paragraph.  
 
 ### Article  5  
 
-This Agreement shall apply for a period of five years from the date when this Agreement becomes applicable. This period may be extended by mutual agreement between the competent authorities of the Parties.  
+This Agreement shall apply for a period of five years from the date when this Agreement becomes applicable. This period may be extended by mutual agreement between the competent authorities of the Parties. 
 
 ### Article  6  
 
-This Agreement shall enter into force on the first day of the second month after each Party has notified the other in writing, through diplomatic channels, that the internal procedures required by that Party for the entry into force of the Agreement have been complied with. This Agreement shall apply to income earned in any tax year beginning on or after the first day of January of the calendar year next following that in which this Agreement enters into force.  
+This Agreement shall enter into force on the first day of the second month after each Party has notified the other in writing, through diplomatic channels, that the internal procedures required by that Party for the entry into force of the Agreement have been complied with. This Agreement shall apply to income earned in any tax year beginning on or after the first day of January of the calendar year next following that in which this Agreement enters into force. 
 
 ### Article  7  
 
 1.  This Agreement shall remain in force until terminated by one of the Parties. Either Party may terminate this Agreement by giving notice of termination in writing through diplomatic channels at least six months before the end of any calendar year. In such event, the Agreement shall cease to have effect for taxable years and periods beginning after the end of the calendar year in which the notice of termination has been given.   
-2.  This Agreement is supplementary to the Agreement for the Exchange of Information with Respect to Taxes between the Parties. Notwithstanding the provisions of paragraph 1, this Agreement shall, on receipt through diplomatic channels of written notice of termination of the Agreement for the Exchange of Information with Respect to Taxes, terminate and cease to be effective on the day the Agreement for the Exchange of Information with Respect to Taxes between the Parties terminates.   
+2.  This Agreement is supplementary to the [Agreement for the Exchange of Information with Respect to Taxes](../../../../../../../../../../../../../verdrag/agreement/between/the/kingdom/of/the/netherlands/in/respect/of/aruba/and/etc/BWBV0003503/README.md) between the Parties. Notwithstanding the provisions of paragraph 1, this Agreement shall, on receipt through diplomatic channels of written notice of termination of the [Agreement for the Exchange of Information with Respect to Taxes](../../../../../../../../../../../../../verdrag/agreement/between/the/kingdom/of/the/netherlands/in/respect/of/aruba/and/etc/BWBV0003503/README.md), terminate and cease to be effective on the day the [Agreement for the Exchange of Information with Respect to Taxes](../../../../../../../../../../../../../verdrag/agreement/between/the/kingdom/of/the/netherlands/in/respect/of/aruba/and/etc/BWBV0003503/README.md) between the Parties terminates.  
 
-IN WITNESS WHEREOF, the undersigned, being duly authorised thereto, have signed this Agreement. DONE in duplicate at, Paris, this 10 <sup>th</sup> day of September 2009, in the English language.  *For the Kingdom of the Netherlands, in respect of Aruba:*  N. J. J. SWAEN  *For the Kingdom of Norway:*  TARALD O. BRAUTASET  
+IN WITNESS WHEREOF, the undersigned, being duly authorised thereto, have signed this Agreement. DONE in duplicate at, Paris, this 10<sup>th</sup> day of September 2009, in the English language. *For the Kingdom of the Netherlands, in respect of Aruba:* N. J. J. SWAEN *For the Kingdom of Norway:* TARALD O. BRAUTASET  
 
 ####Verdrag ter bevordering van de economische betrekkingen tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en het Koninkrijk Noorwegen
 
@@ -171,11 +171,11 @@ v. niettegenstaande de bepalingen van i en ii, indien een persoon
 – niet zijnde een onafhankelijke vertegenwoordiger op wie lid f, onder vi, van toepassing is, optreedt namens een lichaam dat inwoner is van Noorwegen en op Aruba een machtiging bezit om namens het lichaam overeenkomsten te sluiten en dit recht gewoonlijk uitoefent, wordt dit lichaam geacht een vaste inrichting te hebben op Aruba ter zake van de in artikel 3 genoemde werkzaamheden die die persoon voor het lichaam verricht, tenzij de werkzaamheden van die persoon beperkt blijven tot de werkzaamheden genoemd onder iv, die, indien zij worden uitgeoefend door middel van een vaste bedrijfsinrichting, deze vaste bedrijfsinrichting op grond van de bepalingen van dat lid niet tot een vaste inrichting zouden maken;    
 
 vi. een lichaam dat inwoner is van Noorwegen wordt niet geacht een vaste inrichting op Aruba te bezitten uitsluitend op grond van de omstandigheid dat het op Aruba zaken doet door bemiddeling van een makelaar, commissionair of enige andere onafhankelijke vertegenwoordiger, mits deze personen in de normale uitoefening van hun bedrijf handelen.       
-2.  Wat betreft de toepassing, op enig moment, van dit Verdrag door een partij, heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de wetgeving van die partij, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die partij prevaleert boven een betekenis die volgens andere wetgeving van die partij aan die uitdrukking wordt gegeven.   
+2.  Wat betreft de toepassing, op enig moment, van dit Verdrag door een partij, heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de wetgeving van die partij, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die partij prevaleert boven een betekenis die volgens andere wetgeving van die partij aan die uitdrukking wordt gegeven.  
 
 ### Artikel  2  
 
-Indien een lichaam dat inwoner is van Noorwegen een vaste inrichting heeft op Aruba, stelt Noorwegen de aan die vaste inrichting toe te rekenen voordelen vrij van belasting, mits het grootste deel van de voordelen verkregen is uit de activiteiten bedoeld in artikel 3.  
+Indien een lichaam dat inwoner is van Noorwegen een vaste inrichting heeft op Aruba, stelt Noorwegen de aan die vaste inrichting toe te rekenen voordelen vrij van belasting, mits het grootste deel van de voordelen verkregen is uit de activiteiten bedoeld in artikel 3. 
 
 ### Artikel  3  
 
@@ -194,27 +194,27 @@ e. medische diensten;
 f. reparatie, onderhoud, certificering van schepen en luchtvaartuigen; en  
 
 g. olie- en gasactiviteiten en energieproductie.     
-2.  Op het recht van een lichaam dat inwoner is van Noorwegen zich op Aruba bezig te houden met de activiteiten genoemd in het vorige lid blijft de nationale wetgeving van toepassing dat van kracht is op Aruba.   
+2.  Op het recht van een lichaam dat inwoner is van Noorwegen zich op Aruba bezig te houden met de activiteiten genoemd in het vorige lid blijft de nationale wetgeving van toepassing dat van kracht is op Aruba.  
 
 ### Artikel  4  
 
 1.  Indien een lichaam dat inwoner is van Noorwegen van oordeel is dat de maatregelen van een van de partijen voor hem leiden of zullen leiden tot een belastingheffing die niet in overeenstemming is met de bepalingen van dit Verdrag, kan het, ongeacht de rechtsmiddelen waarin de nationale wetgeving van die partij voorziet, zijn geval voorleggen aan de bevoegde autoriteit van Noorwegen. Het geval moet worden voorgelegd binnen drie jaar nadat de maatregel die leidt tot een belastingheffing die niet in overeenstemming is met de bepalingen van dit Verdrag, voor het eerst te zijner kennis is gebracht.   
 2.  De bevoegde autoriteit tracht, indien het bezwaar haar gegrond voorkomt en indien zij niet zelf in staat is tot een bevredigende oplossing te komen, het geval in onderling overleg met de bevoegde autoriteit van Aruba op te lossen teneinde belastingheffing die niet in overeenstemming is met dit Verdrag te vermijden. De bereikte overeenstemming wordt ten uitvoer gelegd niettegenstaande de verjaringstermijnen in de nationale wetgeving van de partijen.   
 3.  De bevoegde autoriteiten van de partijen trachten moeilijkheden die mochten rijzen met betrekking tot de uitlegging of de toepassing van dit Verdrag in onderling overleg op te lossen.   
-4.  De bevoegde autoriteiten van de partijen kunnen zich rechtstreeks met elkaar in verbinding stellen teneinde de in de voorgaande leden bedoelde overeenstemming te bereiken.   
+4.  De bevoegde autoriteiten van de partijen kunnen zich rechtstreeks met elkaar in verbinding stellen teneinde de in de voorgaande leden bedoelde overeenstemming te bereiken.  
 
 ### Artikel  5  
 
-Dit Verdrag geldt voor een tijdvak van vijf jaar vanaf de datum waarop het Verdrag van toepassing wordt. Dit tijdvak kan in onderling overleg tussen de bevoegde autoriteiten van de partijen worden verlengd.  
+Dit Verdrag geldt voor een tijdvak van vijf jaar vanaf de datum waarop het Verdrag van toepassing wordt. Dit tijdvak kan in onderling overleg tussen de bevoegde autoriteiten van de partijen worden verlengd. 
 
 ### Artikel  6  
 
-Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat beide partijen elkaar langs diplomatieke weg schriftelijk ervan in kennis hebben gesteld dat aan hun interne procedures vereist voor de inwerkingtreding van het Verdrag is voldaan. Dit Verdrag is van toepassing op inkomsten verkregen in enig belastingjaar dat aanvangt op of na 1 januari van het kalenderjaar dat volgt op het jaar waarin dit Verdrag in werking treedt.  
+Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat beide partijen elkaar langs diplomatieke weg schriftelijk ervan in kennis hebben gesteld dat aan hun interne procedures vereist voor de inwerkingtreding van het Verdrag is voldaan. Dit Verdrag is van toepassing op inkomsten verkregen in enig belastingjaar dat aanvangt op of na 1 januari van het kalenderjaar dat volgt op het jaar waarin dit Verdrag in werking treedt. 
 
 ### Artikel  7  
 
 1.  Dit Verdrag blijft van kracht totdat het door een van de partijen wordt beëindigd. Elk van de partijen kan dit Verdrag beëindigen door ten minste zes maanden voor het eind van enig kalenderjaar langs diplomatieke weg schriftelijk kennis te geven van beëindiging. In dat geval houdt het Verdrag op van toepassing te zijn voor belastingjaren en -tijdvakken die aanvangen na het einde van het kalenderjaar waarin de kennisgeving van de beëindiging is gedaan.   
-2.  Dit Verdrag vormt een aanvulling op het Verdrag inzake de uitwisseling van informatie betreffende belastingen tussen de partijen. Niettegenstaande de bepalingen van het eerste lid, wordt dit Verdrag, na ontvangst langs diplomatieke weg van een schriftelijke kennisgeving van beëindiging van het Verdrag inzake de uitwisseling van informatie betreffende belastingen, beëindigd en houdt het op van kracht te zijn op de datum waarop het Verdrag inzake de uitwisseling van informatie betreffende belastingen tussen de partijen beëindigd wordt.   
+2.  Dit Verdrag vormt een aanvulling op het Verdrag inzake de uitwisseling van informatie betreffende belastingen tussen de partijen. Niettegenstaande de bepalingen van het eerste lid, wordt dit Verdrag, na ontvangst langs diplomatieke weg van een schriftelijke kennisgeving van beëindiging van het Verdrag inzake de uitwisseling van informatie betreffende belastingen, beëindigd en houdt het op van kracht te zijn op de datum waarop het Verdrag inzake de uitwisseling van informatie betreffende belastingen tussen de partijen beëindigd wordt.  
 
-TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend. GEDAAN in tweevoud te Parijs op 10 september 2009, in de Engelse taal.  *Voor het Koninkrijk der Nederlanden, ten behoeve van Aruba:*  N. J. J. SWAEN  *Voor het Koninkrijk Noorwegen:*  TARALD O. BRAUTASET  
+TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend. GEDAAN in tweevoud te Parijs op 10 september 2009, in de Engelse taal. *Voor het Koninkrijk der Nederlanden, ten behoeve van Aruba:* N. J. J. SWAEN *Voor het Koninkrijk Noorwegen:* TARALD O. BRAUTASET  
 
