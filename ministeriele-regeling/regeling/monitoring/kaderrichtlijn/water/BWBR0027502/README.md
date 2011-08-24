@@ -9,14 +9,14 @@ richtlijn nr. 2000/60/EG van het Europees Parlement en de Raad van de Europese U
 
 de beschikking van de Europese Commissie van 30 oktober 2008 tot vaststelling van de indelingswaarden voor de monitoringssystemen van de lidstaten die het resultaat zijn van de intercalibratie, overeenkomstig richtlijn 2000/60/EG van het Europees Parlement en de Raad van de Europese Unie (PbEU L 332), en
 
-de [artikelen 15](../../../../../../AMvB/besluit/kwaliteitseisen/en/monitoring/water/2009/BWBR0027061/README.md) en [16, zesde lid, van het Besluit kwaliteitseisen en monitoring water 2009](../../../../../../AMvB/besluit/kwaliteitseisen/en/monitoring/water/2009/BWBR0027061/README.md);
+de artikelen 15 en 16, zesde lid, van het Besluit kwaliteitseisen en monitoring water 2009;
 Besluiten:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-*besluit:*[Besluit kwaliteitseisen en monitoring water 2009](../../../../../../AMvB/besluit/kwaliteitseisen/en/monitoring/water/2009/BWBR0027061/README.md);  
+*besluit:*Besluit kwaliteitseisen en monitoring water 2009;  
 
 *intercalibratiebeschikking:* beschikking van de Europese Commissie van 30 oktober 2008 tot vaststelling van de indelingswaarden voor de monitoringssystemen van de lidstaten die het resultaat zijn van de intercalibratie, overeenkomstig richtlijn 2000/60/EG van het Europees Parlement en de Raad (PbEU L 332);  
 
@@ -30,15 +30,32 @@ Voor de operationalisering van de algemene definities van de ecologische toestan
 
 ### Artikel  3  
 
-In het monitoringsprogramma wordt ten behoeve van de toepassing van [artikel 6, eerste lid, van het besluit](../../../../../../AMvB/besluit/kwaliteitseisen/en/monitoring/water/2009/BWBR0027061/README.md) bepaald dat een oppervlaktewaterlichaam voor een kwaliteitselement voldoet aan de richtwaarde voor de goede ecologische toestand van het type natuurlijk oppervlaktewaterlichaam waartoe het waterlichaam behoort, indien het oppervlaktewaterlichaam blijkens de monitoringsresultaten: voor het kwaliteitselement specifieke verontreinigende stoffen geen hogere concentratie van een in de bijlage bij deze regeling vermelde stof bevat dan de waarde die daarin voor de desbetreffende stof is vermeld, en voor de andere kwaliteitselementen voldoet aan alle waarden, die voor deze kwaliteitselementen voor het type natuurlijk oppervlaktewaterlichaam waarin het desbetreffende waterlichaam is ingedeeld, zijn opgenomen in het Stowa-rapport. In het monitoringsprogramma wordt ten behoeve van de toepassing van [artikel 6, tweede lid, van het besluit](../../../../../../AMvB/besluit/kwaliteitseisen/en/monitoring/water/2009/BWBR0027061/README.md) bepaald dat een sterk veranderd of kunstmatig oppervlaktewaterlichaam voor een kwaliteitselement voldoet aan het vereiste van een goed ecologisch potentieel, indien het oppervlaktewaterlichaam blijkens de monitoringsresultaten voldoet aan de specificaties die voor het kwaliteitselement zijn vastgesteld in: het beheerplan voor de rijkswateren, indien het rijkswateren betreft; het regionale waterplan, indien het regionale wateren betreft. Voor de indeling van een oppervlaktewaterlichaam in een type natuurlijk oppervlaktewaterlichaam worden de karakteriseringen gehanteerd, die voor de onderscheiden typen natuurlijke oppervlaktewaterlichamen zijn opgenomen in het Stowa-rapport.  
+1.  In het monitoringsprogramma wordt ten behoeve van de toepassing van artikel 6, eerste lid, van het besluit bepaald dat een oppervlaktewater-lichaam voor een kwaliteitselement voldoet aan de richtwaarde voor de goede ecologische toestand van het type natuurlijk oppervlaktewater-lichaam waartoe het waterlichaam behoort, indien het oppervlaktewater-lichaam blijkens de monitoringsresultaten: 
+
+a. voor het kwaliteitselement specifieke verontreinigende stoffen geen hogere concentratie van een in de bijlage bij deze regeling vermelde stof bevat dan de waarde die daarin voor de desbetreffende stof is vermeld, en  
+
+b. voor de andere kwaliteitselementen voldoet aan alle waarden, die voor deze kwaliteitselementen voor het type natuurlijk oppervlaktewaterlichaam waarin het desbetreffende waterlichaam is ingedeeld, zijn opgenomen in het Stowa-rapport.     
+2.  In het monitoringsprogramma wordt ten behoeve van de toepassing van artikel 6, tweede lid, van het besluit bepaald dat een sterk veranderd of kunstmatig oppervlaktewaterlichaam voor een kwaliteitselement voldoet aan het vereiste van een goed ecologisch potentieel, indien het oppervlaktewaterlichaam blijkens de monitoringsresultaten voldoet aan de specificaties die voor het kwaliteitselement zijn vastgesteld in: 
+
+a. het beheerplan voor de rijkswateren, indien het rijkswateren betreft;  
+
+b. het regionale waterplan, indien het regionale wateren betreft.     
+3.  Voor de indeling van een oppervlaktewaterlichaam in een type natuurlijk oppervlaktewaterlichaam worden de karakteriseringen gehanteerd, die voor de onderscheiden typen natuurlijke oppervlaktewaterlichamen zijn opgenomen in het Stowa-rapport.   
 
 ### Artikel  4  
 
-In het monitoringsprogramma wordt ten behoeve van de indeling van een oppervlaktewaterlichaam of een grondwaterlichaam in een toestandsklasse van de chemische toestand uitgegaan van de laagste toestandsklasse waarin het waterlichaam blijkens de monitoringsresultaten voor een in [bijlage I](../../../../../../AMvB/besluit/kwaliteitseisen/en/monitoring/water/2009/BWBR0027061/README.md), onderscheidenlijk [bijlage II, bij het besluit](../../../../../../AMvB/besluit/kwaliteitseisen/en/monitoring/water/2009/BWBR0027061/README.md) vermelde stof is ingedeeld. In het monitoringsprogramma wordt ten behoeve van de indeling van een oppervlaktewaterlichaam in een toestandsklasse voor het kwaliteitselement specifieke verontreinigende stoffen uitgegaan van de laagste toestandsklasse waarin het waterlichaam blijkens de monitoringsresultaten voor een in de bijlage bij deze regeling vermelde stof is ingedeeld. In het monitoringsprogramma worden ten behoeve van de indeling van een natuurlijk oppervlaktewaterlichaam in een toestandsklasse van de ecologische toestand de grenzen tussen de in [artikel 16, vijfde lid, onderdeel a, 2°, van het besluit](../../../../../../AMvB/besluit/kwaliteitseisen/en/monitoring/water/2009/BWBR0027061/README.md) onderscheiden toestandsklassen vastgesteld in overeenstemming met het Stowa-rapport. In het monitoringsprogramma wordt bepaald dat de indeling van een sterk veranderd of kunstmatig oppervlaktewaterlichaam in een toestandsklasse van het ecologisch potentieel plaatsvindt met toepassing van de ‘Handreiking MEP/GEP, handreiking voor vaststellen van status, ecologische doelstellingen en bijpassende maatregelenpakketten voor niet-natuurlijke wateren’ van de Projectgroep Implementatie Handreiking, Ministerie van Verkeer en Waterstaat, van november 2005. Hierbij wordt uitgegaan van het goede ecologisch potentieel dat voor het waterlichaam is vastgesteld in: voor rijkswateren: het beheerplan voor de rijkswateren; voor regionale wateren: het regionale waterplan.  
+1.  In het monitoringsprogramma wordt ten behoeve van de indeling van een oppervlaktewaterlichaam of een grondwaterlichaam in een toestandsklasse van de chemische toestand uitgegaan van de laagste toestandsklasse waarin het waterlichaam blijkens de monitoringsresultaten voor een in bijlage I, onderscheidenlijk bijlage II, bij het besluit vermelde stof is ingedeeld.   
+2.  In het monitoringsprogramma wordt ten behoeve van de indeling van een oppervlaktewaterlichaam in een toestandsklasse voor het kwaliteitselement specifieke verontreinigende stoffen uitgegaan van de laagste toestandsklasse waarin het waterlichaam blijkens de monitoringsresultaten voor een in de bijlage bij deze regeling vermelde stof is ingedeeld.   
+3.  In het monitoringsprogramma worden ten behoeve van de indeling van een natuurlijk oppervlaktewaterlichaam in een toestandsklasse van de ecologische toestand de grenzen tussen de in artikel 16, vijfde lid, onderdeel a, 2°, van het besluit onderscheiden toestandsklassen vastgesteld in overeenstemming met het Stowa-rapport.   
+4.  In het monitoringsprogramma wordt bepaald dat de indeling van een sterk veranderd of kunstmatig oppervlaktewaterlichaam in een toestandsklasse van het ecologisch potentieel plaatsvindt met toepassing van de ‘Handreiking MEP/GEP, handreiking voor vaststellen van status, ecologische doelstellingen en bijpassende maatregelenpakketten voor niet-natuurlijke wateren’ van de Projectgroep Implementatie Handreiking, Ministerie van Verkeer en Waterstaat, van november 2005. Hierbij wordt uitgegaan van het goede ecologisch potentieel dat voor het waterlichaam is vastgesteld in: 
+
+a. voor rijkswateren: het beheerplan voor de rijkswateren;  
+
+b. voor regionale wateren: het regionale waterplan.     
 
 ### Artikel  5  
 
-De [Regeling milieukwaliteitseisen gevaarlijke stoffen oppervlaktewateren](../../../../../../ministeriele-regeling/regeling/milieukwaliteitseisen/gevaarlijke/stoffen/oppervlaktewateren/BWBR0017678/README.md) wordt ingetrokken.  
+De Minister van Infrastructuur en Milieu stelt het monitoringsprogramma vast met inachtneming van richtlijn 2009/90/EG van de Commissie van de Europese Unie van 31 juli 2009 tot vaststelling van technische specificaties voor de chemische analyse en monitoring van de watertoestand krachtens Richtlijn 2000/90/EG van het Europees Parlement en de Raad.  
 
 ### Artikel  6  
 
@@ -73,7 +90,7 @@ G.Verburg
 1. Deze bijlage heeft betrekking op de monitoring van de kwaliteitselementen van de ecologische toestand, onderscheidenlijk het ecologische potentieel, die in bijlage V, paragraaf 1.1, bij de kaderrichtlijn water zijn opgenomen als ‘specifieke synthetische verontreinigende stoffen’ en ‘specifieke niet-synthetische verontreinigende stoffen’. De in de tabel opgenomen concentratiewaarden voor specifieke verontreinigende stoffen zijn vastgesteld overeenkomstig de procedure, die is beschreven in bijlage V, paragraaf 1.2.6, bij de kaderrichtlijn water, met dien verstande dat bij de toepassing van deze procedure tevens rekening is gehouden met de toxiciteit van chemische stoffen voor mensen en dieren via het aquatische milieu en de lijst van stoffen die is opgenomen in bijlage VIII bij de kaderrichtlijn water. De indeling van een oppervlaktewaterlichaam in een van de toestandsklassen waarin de ecologische toestand, onderscheidenlijk het ecologisch potentieel, is onderverdeeld vindt plaats overeenkomstig het monitoringsprogramma, aan de hand van de omschrijvingen die zijn opgenomen in bijlage V, paragraaf 1.2, de tabellen 1.2.1 tot en met 1.2.5, bij de kaderrichtlijn water.    Tabel 1 Indicatoren voor de goede ecologische kwaliteit oppervlaktewaterlichamen (stoffen) 
 
 | EG-Nr.  | Stofnaam  | CAS-nummer  | MTR  | JG-MKN**  | JG-MKN**  | MAC-MKN**  | MAC-MKN**  | Oppervlaktewater totaal (µg/l, tenzij anders aangegeven) <sup>7,8,9</sup>  | Landoppervlaktewateren (µg/l) <sup>4</sup>  | Andere oppervlakte wateren (µg/l) <sup>4</sup>  | Landoppervlaktewateren (µg/l) <sup>4</sup>  | Andere oppervlaktewateren (µg/l) <sup>4</sup>  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 2  | 2-amino-4-chloorfenol  | 95-85-2  | 10  | --- | --- | --- | --- |
 | 4  | Arseen (en anorganische verbindingen daarvan)  | 7440-38-2  | 32  | --- | --- | --- | --- |
 | 5  | Azinfos-ethyl  | 2642-71-9  | --- | 0,0011  | 0,00011  | 0,011  | 0,0011  |
