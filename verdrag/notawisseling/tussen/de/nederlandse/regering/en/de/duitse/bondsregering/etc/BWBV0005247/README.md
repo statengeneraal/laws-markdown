@@ -2,9 +2,9 @@
 
 ##Notawisseling tussen de Nederlandse Regering en de Duitse Bondsregering inzake de Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake het kleine grensverkeer
 
-### Nr.  I  
+###Nr. I 
 
-AUSWÄRTIGES AMT V 3-81.SA 4  *Verbalnote*  Das Auswärtige Amt beehrt sich, der Königlich Niederländischen Botschaft unter Bezugnahme auf das am 3. Juni 1960 in Bonn unterzeichnete Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung des Königreichs der Niederlande über den kleinen Grenzverkehr folgendes mitzuteilen: Durch Notenwechsel wurde in Den Haag am 28. Juni 1961 die Grenzzone nach Artikel 2 Satz 1 des Abkommens bestimmt. Inzwischen hat es sich herausgestellt, dass es notwendig ist, eine Neufassung des Verzeichnisses der zur Grenzzone gehörenden Gemeinden abzufassen. Ebenfalls hat es sich als empfehlenswert erwiesen, die zur Grenzzone gehörenden deutschen und niederländischen Gemeinden in getrennten Verzeichnissen aufzuführen. Die im Hinblick darauf in gegenseitigem Einvernehmen abgefassten Verzeichnisse der zur Grenzzone gehörenden deutschen bzw. niederländischen Gemeinden liegen an. Das Auswärtige Amt schlägt unter Bezugnahme auf Artikel 2 Satz 2 des Abkommens vom 3. Juni 1960 vor, dass die Grenzzone jetzt durch anliegende Verzeichnisse deutscher bzw. niederländischer Gemeinden bestimmt wird. Das Auswärtige Amt würde es begrüssen, von der Botschaft zu erfahren, ob die Regierung des Königreichs der Niederlande obengenanntem Vorschlag zustimmen kann. Das Auswärtige Amt benutzt diesen Anlass, die Königlich Niederländische Botschaft erneut seiner ausgezeichneten Hochachtung zu versichern. Bonn, den 10. Dezember 1968  *An die*   *Königlich Niederländische Botschaft*    
+AUSWÄRTIGES AMTV 3-81.SA 4*Verbalnote*Das Auswärtige Amt beehrt sich, der Königlich Niederländischen Botschaft unter Bezugnahme auf das am 3. Juni 1960 in Bonn unterzeichnete Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung des Königreichs der Niederlande über den kleinen Grenzverkehr folgendes mitzuteilen: Durch Notenwechsel wurde in Den Haag am 28. Juni 1961 die Grenzzone nach Artikel 2 Satz 1 des Abkommens bestimmt. Inzwischen hat es sich herausgestellt, dass es notwendig ist, eine Neufassung des Verzeichnisses der zur Grenzzone gehörenden Gemeinden abzufassen. Ebenfalls hat es sich als empfehlenswert erwiesen, die zur Grenzzone gehörenden deutschen und niederländischen Gemeinden in getrennten Verzeichnissen aufzuführen. Die im Hinblick darauf in gegenseitigem Einvernehmen abgefassten Verzeichnisse der zur Grenzzone gehörenden deutschen bzw. niederländischen Gemeinden liegen an. Das Auswärtige Amt schlägt unter Bezugnahme auf Artikel 2 Satz 2 des Abkommens vom 3. Juni 1960 vor, dass die Grenzzone jetzt durch anliegende Verzeichnisse deutscher bzw. niederländischer Gemeinden bestimmt wird. Das Auswärtige Amt würde es begrüssen, von der Botschaft zu erfahren, ob die Regierung des Königreichs der Niederlande obengenanntem Vorschlag zustimmen kann. Das Auswärtige Amt benutzt diesen Anlass, die Königlich Niederländische Botschaft erneut seiner ausgezeichneten Hochachtung zu versichern. Bonn, den 10. Dezember 1968* An die**Königlich Niederländische Botschaft*
 
 ####Verzeichnis der deutschen Gemeinden,
 
@@ -12,9 +12,9 @@ die nach Artikel 2 des Abkommens vom 3. Juni 1960 zwischen der Regierung der Bun
 
 | --- | --- |
 |:---|:---|
-|  *Land Niedersachsen*   |
+|  *Land Niedersachsen*  |
 | Gemeinde  | Zollkommissariat  |
-| A. *Regierungsbezirk Aurich*  | --- |
+| A. *Regierungsbezirk Aurich*   | --- |
 | Norden  | Norden  |
 | Emden  | Emden  |
 | Leer  | Leer  |
@@ -27,8 +27,8 @@ die nach Artikel 2 des Abkommens vom 3. Juni 1960 zwischen der Regierung der Bun
 | Stapelmoor  | Bunde  |
 | Weenermoor  | Bunde  |
 | Wymeer  | Bunde  |
-| B. *Regierungsbezirk Osnabrück*  | --- |
-| Neuenhaus  | Nordhorn  |
+| B. *Regierungsbezirk Osnabrück*   | --- |
+| Neuenhaus  | Nordhorn |
 | Nordhorn  | Nordhorn  |
 |  *Landkreis Aschendorf-Hlg.*   | --- |
 | Borsum  | Bunde  |
@@ -97,7 +97,7 @@ die nach Artikel 2 des Abkommens vom 3. Juni 1960 zwischen der Regierung der Bun
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
-|  *Land Nordrhein-Westfalen*   |
+|  *Land Nordrhein-Westfalen*  |
 | Gemeinde  | örtliche Ordnungsbehörde  | Zollkommissariat  |
 | A. *Regierungsbezirk Münster*  | --- | --- |
 |  *Landkreis Steinfurt*   | --- | --- |
@@ -223,13 +223,13 @@ die nach Artikel 2 des Abkommens vom 3. Juni 1960 zwischen der Regierung der Bun
 | Lembeck  | Amt Hervest-Dorsten  | Vreden  |
 | Rhade  | Amt Hervest-Dorsten  | Vreden  |
 | Wulfen  | Amt Hervest-Dorsten  | Vreden  |
-| B. *Regierungsbezirk Düsseldorf*  | --- | --- |
+| B. *Regierungsbezirk Düsseldorf*   | --- | --- |
 |  *Landkreis Rees*   | --- | --- |
 | Emmerich  | Stadtdirektor in Emmerich  | Emmerich-Land  |
 | Isselburg  | Stadtdirektor in Isselburg  | Emmerich-Land  |
 | Rees  | Stadtdirektor in Rees  | Emmerich-Land  |
 | Wesel  | Stadtdirektor in Wesel  | Emmerich-Land  |
-| Obrighoven-Lackhausen  | Gemeindedirektor in Obrighoven  | Emmerich-Land  |
+| Obrighoven-Lackhausen   |Gemeindedirektor in Obrighoven | Emmerich-Land  |
 | Elten  | Amtsdirektor in Elten  | Elten  |
 | Borghees  | Amtsdirektor in Elten  | Emmerich-Land  |
 | Hüthum  | Amtsdirektor in Elten  | Elten  |
@@ -335,8 +335,8 @@ die nach Artikel 2 des Abkommens vom 3. Juni 1960 zwischen der Regierung der Bun
 |:---|:---|:---|
 | Gemeinde  | örtliche Ordnungsbehörde  | Zollkommissariat  |
 | Kapellen  | Gemeinde Kapellen  | Straelen  |
-| Kervendonk  | Amt Kervenheim in Winnekendonk  | Goch  |
-| Kervenheim  | Amt Kervenheim in Winnekendonk  | Goch  |
+| Kervendonk  | Amt Kervenheim in Winnekendonk  |Goch |
+| Kervenheim  | Amt Kervenheim in Winnekendonk  |Goch |
 | Kevelaer  | Amt Kevelaer  | Goch  |
 | Kleinkevelaer  | Amt Kevelaer  | Straelen  |
 | Nieukerk  | Amt Nieukerk  | Straelen  |
@@ -352,7 +352,7 @@ die nach Artikel 2 des Abkommens vom 3. Juni 1960 zwischen der Regierung der Bun
 | Wankum  | Gemeinde Wankum  | Straelen  |
 | Weeze  | Gemeinde Weeze  | Goch  |
 | Wetten  | Amt Kevelaer  | Goch  |
-| Winnekendonk  | Amt Kervenheim in Winnekendonk  | Goch  |
+| Winnekendonk  | Amt Kervenheim in Winnekendonk  |Goch |
 |  *Landkreis Kempen-Krefeld*   | --- | --- |
 | Amern  | Amern  | Kaldenkirchen  |
 | Anrath  | Anrath  | Kaldenkirchen  |
@@ -373,7 +373,7 @@ die nach Artikel 2 des Abkommens vom 3. Juni 1960 zwischen der Regierung der Bun
 | Süchteln  | Süchteln  | Kaldenkirchen  |
 | Vorst  | Vorst  | Kaldenkirchen  |
 | Waldniel  | Waldniel  | Kaldenkirchen  |
-| C. *Regierungsbezirk Aachen*  | --- | --- |
+| C. *Regierungsbezirk Aachen*   | --- | --- |
 | Aachen  | Stadt Aachen  | Herzogenrath  |
 
 | --- | --- | --- |
@@ -750,4 +750,4 @@ die nach Artikel 2 des Abkommens vom 3. Juni 1960 zwischen der Regierung der Bun
 
 ###DER NEDERLANDEN
 
-No. 1081 De Ambassade van het Koninkrijk der Nederlanden heeft de eer de ontvangst te bevestigen van de Nota-verbaal van het Ministerie van Buitenlandse Zaken d.d. 10 december 1968 betreffende de op 3 juni 1960 te Bonn ondertekende Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake het kleine grensverkeer, welke Nota-verbaal, in Nederlandse vertaling, als volgt luidt: „Het Ministerie van Buitenlandse Zaken heeft de eer de Ambassade van het Koninkrijk der Nederlanden, onder verwijzing naar de op 3 juni 1960 te Bonn ondertekende Overeenkomst tussen de Regering van de Bondsrepubliek Duitsland en de Regering van het Koninkrijk der Nederlanden inzake het kleine grensverkeer, het volgende mede te delen: Bij notawisseling werd te 's-Gravenhage op 28 juni 1961 het grensgebied in overeenstemming met artikel 2, eerste zin, van de Overeenkomst vastgesteld. Intussen is opstelling van een nieuwe lijst van tot het grensgebied behorende gemeenten noodzakelijk gebleken. Het bleek eveneens aanbeveling te verdienen om de tot het grensgebied behorende Duitse en Nederlandse gemeenten op afzonderlijke lijsten te vermelden. De met het oog hierop in wederzijds overleg opgestelde lijsten van respectievelijk Duitse en Nederlandse gemeenten die tot het grensgebied behoren gaan als bijlage hiernevens. Het Ministerie van Buitenlandse Zaken stelt, onder verwijzing naar artikel 2, tweede zin, van de Overeenkomst van 3 juni 1960, voor dat het grensgebied thans wordt bepaald door de hierbij gevoegde lijsten van respectievelijk Duitse en Nederlandse gemeenten. Het Ministerie van Buitenlandse Zaken zou het op prijs stellen van de Ambassade te vernemen of de Regering van het Koninkrijk der Nederlanden zich met het bovengenoemde voorstel kan verenigen”. De Ambassade heeft de eer het Ministerie in antwoord mede te delen dat de Regering van het Koninkrijk der Nederlanden zich met het voorstel vervat in bovenaangehaalde Nota-verbaal kan verenigen. Bonn, 1 februari 1969.  *Aan het Ministerie van Buitenlandse Zaken*   *van de Bondsrepubliek Duitsland,*   *Bonn.*    
+No. 1081 De Ambassade van het Koninkrijk der Nederlanden heeft de eer de ontvangst te bevestigen van de Nota-verbaal van het Ministerie van Buitenlandse Zaken d.d. 10 december 1968 betreffende de op 3 juni 1960 te Bonn ondertekende Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake het kleine grensverkeer, welke Nota-verbaal, in Nederlandse vertaling, als volgt luidt: „Het Ministerie van Buitenlandse Zaken heeft de eer de Ambassade van het Koninkrijk der Nederlanden, onder verwijzing naar de op 3 juni 1960 te Bonn ondertekende Overeenkomst tussen de Regering van de Bondsrepubliek Duitsland en de Regering van het Koninkrijk der Nederlanden inzake het kleine grensverkeer, het volgende mede te delen: Bij notawisseling werd te 's-Gravenhage op 28 juni 1961 het grensgebied in overeenstemming met artikel 2, eerste zin, van de Overeenkomst vastgesteld. Intussen is opstelling van een nieuwe lijst van tot het grensgebied behorende gemeenten noodzakelijk gebleken. Het bleek eveneens aanbeveling te verdienen om de tot het grensgebied behorende Duitse en Nederlandse gemeenten op afzonderlijke lijsten te vermelden. De met het oog hierop in wederzijds overleg opgestelde lijsten van respectievelijk Duitse en Nederlandse gemeenten die tot het grensgebied behoren gaan als bijlage hiernevens. Het Ministerie van Buitenlandse Zaken stelt, onder verwijzing naar artikel 2, tweede zin, van de Overeenkomst van 3 juni 1960, voor dat het grensgebied thans wordt bepaald door de hierbij gevoegde lijsten van respectievelijk Duitse en Nederlandse gemeenten. Het Ministerie van Buitenlandse Zaken zou het op prijs stellen van de Ambassade te vernemen of de Regering van het Koninkrijk der Nederlanden zich met het bovengenoemde voorstel kan verenigen”. De Ambassade heeft de eer het Ministerie in antwoord mede te delen dat de Regering van het Koninkrijk der Nederlanden zich met het voorstel vervat in bovenaangehaalde Nota-verbaal kan verenigen. Bonn, 1 februari 1969. *Aan het Ministerie van Buitenlandse Zaken**van de Bondsrepubliek Duitsland,**Bonn.*   
