@@ -1852,8 +1852,6 @@ J.F.Hoogervorst
 |:---|:---|:---|:---|:---|
 | 0A01AAADA  | V  | 6269  | Elmex medical cariesprotectie gel 12,5mg/g  | 1,00  | gram  | 0,05696  |
 | 0A02BAAO  | V  | 11161  | Zantac tablet 300mg  | 1,00  | stuk  | 1,31884  |
-| 0A02BAAO  | V  | 11199  | Pepcidin tablet 20mg  | 2,00  | stuk  | 0,65942  |
-| 0A02BAAO  | V  | 11200  | Pepcidin tablet 40mg  | 1,00  | stuk  | 1,31884  |
 | 0A02BAAO  | V  | 12364  | Axid capsule 150mg  | 2,00  | stuk  | 0,79130  |
 | 0A02BAAO  | V  | 13064  | Zantac drank 150mg/10ml  | 20,00  | ml  | 0,06594  |
 | 0A02BAAO  | V  | 14330  | Zantac bruistablet 150mg  | 2,00  | stuk  | 0,65942  |
@@ -1882,8 +1880,6 @@ J.F.Hoogervorst
 | 0A02BAAO  | V  | 21284  | Ranitidine cf tablet 300mg  | 1,00  | stuk  | 1,31884  |
 | 0A02BAAO  | V  | 21969  | Ranitidine sandoz tablet 150mg  | 2,00  | stuk  | 0,65942  |
 | 0A02BAAO  | V  | 21970  | Ranitidine sandoz tablet 300mg  | 1,00  | stuk  | 1,31884  |
-| 0A02BAAO  | V  | 22261  | Ranitidine pch tablet 150mg  | 2,00  | stuk  | 0,65942  |
-| 0A02BAAO  | V  | 22262  | Ranitidine pch tablet 300mg  | 1,00  | stuk  | 1,31884  |
 | 0A02BAAO  | V  | 22359  | Ranitidine mylan tablet 150mg  | 2,00  | stuk  | 0,65942  |
 | 0A02BAAO  | V  | 22360  | RANITIDINE MYLAN TABLET 300MG  | 1,00  | STUK  | 1,31884  |
 | 0A02BAAO  | V  | 22508  | Ranitidine cf tablet 150mg  | 2,00  | stuk  | 0,65942  |
@@ -1906,8 +1902,6 @@ J.F.Hoogervorst
 | 0A02BAAO  | V  | 24533  | Famotidine cf tablet 40mg  | 1,00  | stuk  | 1,31884  |
 | 0A02BAAO  | V  | 24769  | Famotidine rp tablet 20mg  | 2,00  | stuk  | 0,65942  |
 | 0A02BAAO  | V  | 24770  | Famotidine rp tablet 40mg  | 1,00  | stuk  | 1,31884  |
-| 0A02BAAO  | V  | 24772  | Famotidine sandoz tablet 20mg  | 2,00  | stuk  | 0,65942  |
-| 0A02BAAO  | V  | 24773  | Famotidine sandoz tablet 40mg  | 1,00  | stuk  | 1,31884  |
 | 0A02BAAO  | V  | 25004  | RANITIDINE ACCORD TABLET 150MG  | 2,00  | stuk  | 0,65942  |
 | 0A02BAAO  | V  | 25005  | RANITIDINE ACCORD TABLET 300MG  | 1,00  | stuk  | 1,31884  |
 | 0A02BAAO  | V  | 25047  | Ranitidine actavis bruistablet 150mg  | 2,00  | stuk  | 0,65942  |
@@ -1918,8 +1912,6 @@ J.F.Hoogervorst
 | 0A02BAAO  | V  | 25359=24533  | Famotidine actavis tablet 40mg  | 1,00  | stuk  | 1,31884  |
 | 0A02BAAO  | V  | 25411  | Famotidine sandoz tablet 20mg  | 2,00  | stuk  | 0,65942  |
 | 0A02BAAO  | V  | 25412  | Famotidine sandoz tablet 40mg  | 1,00  | stuk  | 1,31884  |
-| 0A02BAAO  | V  | 25512=24766  | Famotidine a tablet 20mg  | 2,00  | stuk  | 0,65942  |
-| 0A02BAAO  | V  | 25513=24767  | Famotidine a tablet 40mg  | 1,00  | stuk  | 1,31884  |
 | 0A02BAAO  | V  | 25580  | FAMOTIDINE APOTEX TABLET 20MG  | 2,00  | stuk  | 0,65942  |
 | 0A02BAAO  | V  | 25581  | FAMOTIDINE APOTEX TABLET 40MG  | 1,00  | stuk  | 1,31884  |
 | 0A02BAAO  | V  | 25583  | Ranitidine rp bruistablet 150mg  | 2,00  | stuk  | 0,65942  |
@@ -1932,8 +1924,6 @@ J.F.Hoogervorst
 | 0A02BAAO  | V  | 26928=19347  | Cimetidine cf bruistablet 800mg  | 1,00  | stuk  | 1,31884  |
 | 0A02BAAO  | V  | 27174=23060  | Ranitidine rp tablet 150mg  | 2,00  | stuk  | 0,65942  |
 | 0A02BAAO  | V  | 27175=23061  | Ranitidine rp tablet 300mg  | 1,00  | stuk  | 1,31884  |
-| 0A02BAAO  | V  | 27742  | Nizatidine sandoz capsule 150mg  | 2,00  | stuk  | 0,79130  |
-| 0A02BAAO  | V  | 27743  | Nizatidine sandoz capsule 300mg  | 1,00  | stuk  | 1,31884  |
 | 0A02BAAO  | V  | 27788  | Famotidine mylan tablet 20mg  | 2,00  | stuk  | 0,65942  |
 | 0A02BAAO  | V  | 27789  | FAMOTIDINE MYLAN TABLET 40MG  | 1  | STUK  | 1,31884  |
 | 0A02BAAO  | V  | 29327  | RANITIDINE MYLAN BRUISTABLET 150MG  | 2,00  | STUK  | 0,65942  |
@@ -1956,7 +1946,6 @@ J.F.Hoogervorst
 | 0A02BAAP  | V  | 11141  | Zantac injvlst 25mg/ml ampul 2ml  | 8,00  | ml  | 0,52548  |
 | 0A02BAAP  | V  | 56341  | Cimetidine cf injvlst 100mg/ml ampul 2ml  | 8,00  | ml  | 0,52548  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0A02BCAO  | V  | 100012//25387  | Nexium tablet msr 20mg  | 1,00  | stuk  | 1,68111  |
 | 0A02BCAO  | V  | 100105  | Lansoprazol actavis capsule msr 15mg  | 2,00  | stuk  | 1,00866  |
 | 0A02BCAO  | V  | 100115  | Lansoprazol actavis capsule msr 30mg  | 1,00  | stuk  | 1,68111  |
 | 0A02BCAO  | V  | 100345  | Pantoprazol mylan tablet msr 20mg  | 2,00  | stuk  | 1,00866  |
@@ -1968,12 +1957,9 @@ J.F.Hoogervorst
 | 0A02BCAO  | V  | 101378//25388  | Nexium tablet msr 40mg  | 0,50  | stuk  | 3,36221  |
 | 0A02BCAO  | V  | 101600  | Nexium granulaat msr v susp in sachet 10mg  | 2,00  | stuk  | 1,00866  |
 | 0A02BCAO  | V  | 101640//25388  | Nexium tablet msr 40mg  | 0,50  | stuk  | 3,36221  |
-| 0A02BCAO  | V  | 101641//25387  | Esomeprazol erc tablet msr 20mg  | 1,00  | stuk  | 1,68111  |
 | 0A02BCAO  | V  | 101642//25387  | Nexium tablet msr 20mg  | 1,00  | stuk  | 1,68111  |
-| 0A02BCAO  | V  | 101644//25388  | Esomeprazol erc tablet msr 40mg  | 0,50  | stuk  | 3,36221  |
 | 0A02BCAO  | V  | 102763//23211  | Pariet tablet msr 20mg  | 1,00  | stuk  | 1,68111  |
 | 0A02BCAO  | V  | 104081//25387  | Nexium tablet msr 20mg  | 1,00  | stuk  | 1,68111  |
-| 0A02BCAO  | V  | 104114//23211  | Pariet tablet msr 20mg  | 1,00  | stuk  | 1,68111  |
 | 0A02BCAO  | V  | 12438  | Losec capsule mga 20mg  | 1,00  | stuk  | 1,68111  |
 | 0A02BCAO  | V  | 14905  | Losec capsule mga 40mg  | 0,50  | stuk  | 3,36221  |
 | 0A02BCAO  | V  | 15420  | Prezal capsule msr 30mg  | 1,00  | stuk  | 1,68111  |
@@ -2004,7 +1990,6 @@ J.F.Hoogervorst
 | 0A02BCAO  | V  | 26724  | OMEPRAZOL APOTEX CAPSULE MSR 10MG  | 2,00  | stuk  | 1,00866  |
 | 0A02BCAO  | V  | 26725  | Omeprazol apotex capsule msr 20mg  | 1,00  | stuk  | 1,68111  |
 | 0A02BCAO  | V  | 26726  | OMEPRAZOL APOTEX CAPSULE MSR 40MG  | 0,50  | stuk  | 3,36221  |
-| 0A02BCAO  | V  | 27125//25387  | Nexium tablet msr 20mg  | 1,00  | stuk  | 1,68111  |
 | 0A02BCAO  | V  | 27714  | Omeprazolum capsule msr 20mg  | 1,00  | stuk  | 1,68111  |
 | 0A02BCAO  | V  | 27872//25388  | Nexium tablet msr 40mg  | 0,50  | stuk  | 3,36221  |
 | 0A02BCAO  | V  | 28082  | Omeprazol a capsule msr 10mg  | 2,00  | stuk  | 1,00866  |
@@ -2019,8 +2004,6 @@ J.F.Hoogervorst
 | 0A02BCAO  | V  | 30802  | Omeprazol pch capsule msr 10mg  | 2,00  | stuk  | 1,00866  |
 | 0A02BCAO  | V  | 30803  | Omeprazol pch capsule msr 20mg  | 1,00  | stuk  | 1,68111  |
 | 0A02BCAO  | V  | 30804  | Omeprazol pch capsule msr 40mg  | 0,50  | stuk  | 3,36221  |
-| 0A02BCAO  | V  | 31017//23513  | Pantoprazol tablet msr 20mg  | 2,00  | stuk  | 1,00866  |
-| 0A02BCAO  | V  | 31018//18300  | Pantoprazol tablet msr 40mg  | 1,00  | stuk  | 1,68111  |
 | 0A02BCAO  | V  | 31527  | Omeprazol actavis capsule msr 10mg  | 2,00  | stuk  | 1,00866  |
 | 0A02BCAO  | V  | 31528  | FENISTIL DIMETINDEENWATERSTOFMALEAAT DRUP 1MG/ML  | 1,00  | stuk  | 1,68111  |
 | 0A02BCAO  | V  | 31537  | Lansoprazol focus capsule msr 15mg  | 2,00  | stuk  | 1,00866  |
@@ -2033,14 +2016,12 @@ J.F.Hoogervorst
 | 0A02BCAO  | V  | 32700  | Lansoprazol sandoz capsule msr 30mg  | 1,00  | stuk  | 1,68111  |
 | 0A02BCAO  | V  | 32791  | Lansoprazol kr capsule msr 15mg  | 2,00  | stuk  | 1,00866  |
 | 0A02BCAO  | V  | 32792  | Lansoprazol kr capsule msr 30mg  | 1,00  | stuk  | 1,68111  |
-| 0A02BCAO  | V  | 33077//25387  | Nexium tablet msr 20mg  | 1,00  | stuk  | 1,68111  |
 | 0A02BCAO  | V  | 33512  | Lansoprazol rp capsule msr 15mg  | 2,00  | stuk  | 1,00866  |
 | 0A02BCAO  | V  | 33513  | Lansoprazol rp capsule msr 30mg  | 1,00  | stuk  | 1,68111  |
 | 0A02BCAO  | V  | 33547  | Lansoprazol a capsule msr 15mg  | 2,00  | stuk  | 1,00866  |
 | 0A02BCAO  | V  | 33548  | Lansoprazol a capsule msr 30mg  | 1,00  | stuk  | 1,68111  |
 | 0A02BCAO  | V  | 33657  | Pantoprazol sandoz tablet msr 20mg  | 2,00  | stuk  | 1,00866  |
 | 0A02BCAO  | V  | 33658  | Pantoprazol sandoz tablet msr 40mg  | 1,00  | stuk  | 1,68111  |
-| 0A02BCAO  | V  | 33905//25387  | Nexium tablet msr 20mg  | 1,00  | stuk  | 1,68111  |
 | 0A02BCAO  | V  | 33989  | Lansoprazol pch capsule msr 15mg  | 2,00  | stuk  | 1,00866  |
 | 0A02BCAO  | V  | 33990  | Lansoprazol pch capsule msr 30mg  | 1,00  | stuk  | 1,68111  |
 | 0A02BCAO  | V  | 34171//21683  | Losec mups tablet msr 10mg  | 2,00  | stuk  | 1,00866  |
@@ -2048,14 +2029,8 @@ J.F.Hoogervorst
 | 0A02BCAO  | V  | 34173//21685  | Losec mups tablet msr 40mg  | 0,50  | stuk  | 3,36221  |
 | 0A02BCAO  | V  | 34317  | Pantoprazol pch tablet msr 20mg  | 2,00  | stuk  | 1,00866  |
 | 0A02BCAO  | V  | 34318  | Pantoprazol pch tablet msr 40mg  | 1,00  | stuk  | 1,68111  |
-| 0A02BCAO  | V  | 34334//25387  | Nexium tablet msr 20mg  | 1,00  | stuk  | 1,68111  |
-| 0A02BCAO  | V  | 34335//25388  | Nexium tablet msr 40mg  | 0,50  | stuk  | 3,36221  |
 | 0A02BCAO  | V  | 34385//23211  | Pariet tablet msr 20mg  | 1,00  | stuk  | 1,68111  |
 | 0A02BCAO  | V  | 34394//25387  | Nexium tablet msr 20mg  | 1,00  | stuk  | 1,68111  |
-| 0A02BCAO  | V  | 34395//25388  | Nexium tablet msr 40mg  | 0,50  | stuk  | 3,36221  |
-| 0A02BCAO  | V  | 34431//25388  | Nexium tablet msr 40mg  | 0,50  | stuk  | 3,36221  |
-| 0A02BCAO  | V  | 34501//25388  | Nexium tablet msr 40mg  | 0,50  | stuk  | 3,36221  |
-| 0A02BCAO  | V  | 34540//23210  | Pariet tablet msr 10mg  | 2,00  | stuk  | 1,00866  |
 | 0A02BCAO  | V  | 34600//23211  | Pariet tablet msr 20mg  | 1,00  | stuk  | 1,68111  |
 | 0A02BCAO  | V  | 34880  | Pantoprazol apotex tablet msr 20mg  | 2,00  | stuk  | 1,00866  |
 | 0A02BCAO  | V  | 34881  | Pantoprazol apotex tablet msr 40mg  | 1,00  | stuk  | 1,68111  |
@@ -2069,7 +2044,6 @@ J.F.Hoogervorst
 | 0A02BCAO  | V  | 35034  | Pantoprazol actavis tablet msr 40mg  | 1,00  | stuk  | 1,68111  |
 | 0A02BCAO  | V  | 35044  | Pantoprazol a tablet msr 20mg  | 2,00  | stuk  | 1,00866  |
 | 0A02BCAO  | V  | 35045  | Pantoprazol a tablet msr 40mg  | 1,00  | stuk  | 1,68111  |
-| 0A02BCAO  | V  | 35146//25388  | Nexium tablet msr 40mg  | 0,50  | stuk  | 3,36221  |
 | 0A02BCAO  | V  | 35337  | Lansoprazol cf capsule msr 15mg  | 2,00  | stuk  | 1,00866  |
 | 0A02BCAO  | V  | 35338  | Lansoprazol cf capsule msr 30mg  | 1,00  | stuk  | 1,68111  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2087,18 +2061,13 @@ J.F.Hoogervorst
 | 0A02BXAO  | V  | 16859  | Sucralfaat sandoz suspensie 200mg/ml in zakje 5ml  | 4,00  | stuk  | 0,26546  |
 | 0A02BXAO  | V  | 17346  | Sucralfaat pch granulaat 1g in sachet  | 4,00  | stuk  | 0,26546  |
 | 0A02BXAO  | V  | 21870=17346  | SUCRALFAAT APOTEX GRANULAAT 1G IN SACHET  | 4,00  | stuk  | 0,26546  |
-| 0A02BXAO  | V  | 22879//11079  | Ulcogant suspensie 200mg/ml in zakje 5ml  | 4,00  | stuk  | 0,26546  |
 | 0A02BXAO  | V  | 9131  | Ulcogant tablet 1000mg  | 4,00  | stuk  | 0,26546  |
 | 0A02BXAO  | V  | 9132  | Ulcogant granulaat 1000mg in sachet  | 4,00  | stuk  | 0,26546  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0A02BXBO  | V  | 10721  | De nol tablet 120mg  | 4,00  | stuk  | 0,45537  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0A03AAAO  | V  | 100336//11657  | Duspatalin capsule mga 200mg  | 2,00  | stuk  | 0,35055  |
 | 0A03AAAO  | V  | 11657  | Duspatal retard capsule mga 200mg  | 2,00  | stuk  | 0,35055  |
-| 0A03AAAO  | V  | 21595//11657  | Duspatalin capsule mga 200mg  | 2,00  | stuk  | 0,35055  |
-| 0A03AAAO  | V  | 31079//11657  | Duspatal retard capsule mga 200mg  | 2,00  | stuk  | 0,35055  |
 | 0A03AAAO  | V  | 31404//11657  | Duspatalin capsule mga 200mg  | 2,00  | stuk  | 0,35055  |
-| 0A03AAAO  | V  | 32013//11657  | Duspatal retard capsule mga 200mg  | 2,00  | stuk  | 0,35055  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0A03FAAR  | B  | 19534=7681  | Domperidon pch zetpil 10mg  | 12,00  | stuk  | 0,40462  |
 | 0A03FAAR  | B  | 20547=7681  | DOMPERIDON JJC ZETPIL 10MG  | 12,00  | STUK  | 0,40462  |
@@ -2115,7 +2084,6 @@ J.F.Hoogervorst
 | 0A03FAAR  | V  | 7683  | Motilium zetpil 60mg voor volwassenen  | 2,00  | stuk  | 1,00588  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0A03FABO  | V  | 20544=7678  | DOMPERIDON JJC TABLET 10MG  | 3,00  | STUK  | 0,22689  |
-| 0A03FABO  | V  | 21172=7678  | Domperidon san tablet 10mg  | 3,00  | stuk  | 0,22689  |
 | 0A03FABO  | V  | 22830  | Domperidon mylan tablet 10mg  | 3,00  | stuk  | 0,22689  |
 | 0A03FABO  | V  | 23565  | Domperidonum tablet 10mg  | 3,00  | stuk  | 0,22689  |
 | 0A03FABO  | V  | 23728  | Domperidon eb tablet 10mg  | 3,00  | stuk  | 0,22689  |
@@ -2126,7 +2094,6 @@ J.F.Hoogervorst
 | 0A03FABO  | V  | 24583  | Domperidon sudco tablet 10mg  | 3,00  | stuk  | 0,22689  |
 | 0A03FABO  | V  | 24683  | Domperidon gf tablet 10mg  | 3,00  | stuk  | 0,22689  |
 | 0A03FABO  | V  | 24859=24514  | Domperidonum tablet 10mg  | 3,00  | stuk  | 0,22689  |
-| 0A03FABO  | V  | 25345  | Domperidon sandoz tablet 10mg  | 3,00  | stuk  | 0,22689  |
 | 0A03FABO  | V  | 26065  | Domperidon actavis tablet 10mg  | 3,00  | stuk  | 0,22689  |
 | 0A03FABO  | V  | 26086=24277  | Domperidon cf tablet 10mg  | 3,00  | stuk  | 0,22689  |
 | 0A03FABO  | V  | 30008  | Domperidon sandoz tablet 10mg  | 3,00  | stuk  | 0,22689  |
@@ -2146,7 +2113,6 @@ J.F.Hoogervorst
 | 0A04AAAO  | V  | 102757  | Ondansetron a tablet filmomhuld 8mg  | 2,00  | stuk  | 9,69864  |
 | 0A04AAAO  | V  | 103030  | Granisetron actavis tablet filmomhuld 1mg  | 2,00  | stuk  | 9,69864  |
 | 0A04AAAO  | V  | 103031  | Granisetron actavis tablet filmomhuld 2mg  | 1,00  | stuk  | 19,39728  |
-| 0A04AAAO  | V  | 14291  | Zofran tablet 8mg  | 2,00  | stuk  | 9,69864  |
 | 0A04AAAO  | V  | 15202  | Novaban capsule 5mg  | 1,00  | stuk  | 19,39728  |
 | 0A04AAAO  | V  | 16285  | Kytril tablet 1mg  | 2,00  | stuk  | 9,69864  |
 | 0A04AAAO  | V  | 19203  | Kytril tablet 2mg  | 1,00  | stuk  | 19,39728  |
@@ -2181,8 +2147,6 @@ J.F.Hoogervorst
 | 0A04AAAP  | V  | 15203  | Novaban injvlst 1mg/ml ampul 5ml  | 5,00  | ml  | 5,70946  |
 | 0A04AAAP  | V  | 19891  | Novaban injvlst 1mg/ml ampul 2ml  | 5,00  | ml  | 5,70946  |
 | 0A04AAAP  | V  | 20958  | Kytril iv injvlst 1mg/ml  | 3,00  | ml  | 9,51577  |
-| 0A04AAAP  | V  | 29844  | Ondansetron sandoz injvlst 2mg/ml ampul 2ml  | 4,00  | ml  | 7,13683  |
-| 0A04AAAP  | V  | 29845  | Ondansetron sandoz injvlst 2mg/ml ampul 4ml  | 4,00  | ml  | 7,13683  |
 | 0A04AAAP  | V  | 30187  | Ondansetron cf injvlst 2mg/ml  | 4,00  | ml  | 7,13683  |
 | 0A04AAAP  | V  | 32441  | Ondansetron pch injvlst 2mg/ml ampul  | 4,00  | ml  | 7,13683  |
 | 0A04AAAP  | V  | 33506  | Ondansetron kabi injvlst 2mg/ml ampul  | 4,00  | ml  | 7,13683  |
@@ -2247,10 +2211,8 @@ J.F.Hoogervorst
 | 0A06ADAO  | V  | 55298  | Lactulosestroop pch 50% m/m  | 10,00  | ml  | 0,01566  |
 | 0A06ADAO  | V  | 56674  | Lactulosestroop rp 50% m/m otc  | 10,00  | ml  | 0,01566  |
 | 0A06ADAO  | V  | 56888  | Lactulosestroop rp 500mg/g  | 10,00  | ml  | 0,01566  |
-| 0A06ADAO  | V  | 57261  | Lactulose pch poeder 6g in sachet  | 1,12  | stuk  | 0,14020  |
 | 0A06ADAO  | V  | 9070  | Legendal granulaat 6g in sachet  | 1,12  | stuk  | 0,14020  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0A06ADBO  | V  | 100887//34072  | Moviprep poeder voor drank in sachet a+b  | 4,00  | stuk  | 4,43003  |
 | 0A06ADBO  | V  | 101983//34072  | Moviprep poeder voor drank in sachet a+b  | 4,00  | stuk  | 4,43003  |
 | 0A06ADBO  | V  | 103073//34072  | Moviprep poeder voor drank in sachet a+b  | 4,00  | stuk  | 4,43003  |
 | 0A06ADBO  | V  | 103097//15354  | Klean prep poeder voor drank  | 4,00  | stuk  | 4,43003  |
@@ -2349,7 +2311,6 @@ J.F.Hoogervorst
 | 0A07ECCO  | V  | 35037//14797  | Pentasa tablet mva 500mg  | 3,00  | stuk  | 0,62558  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0A07ECCR  | V  | 10115  | Salofalk zetpil 250mg  | 6,00  | stuk  | 0,60616  |
-| 0A07ECCR  | V  | 104445//15064  | Pentasa zetpil 1g  | 1,50  | stuk  | 2,02053  |
 | 0A07ECCR  | V  | 11836  | Salofalk zetpil 500mg  | 3,00  | stuk  | 1,01027  |
 | 0A07ECCR  | V  | 15064  | Pentasa zetpil 1g  | 1,50  | stuk  | 2,02053  |
 | 0A07ECCR  | V  | 24111  | Mesalazine alpharma zetpil 250mg  | 6,00  | stuk  | 0,60616  |
@@ -2429,7 +2390,6 @@ J.F.Hoogervorst
 | 0A10ACAPD  | V  | EU/1/97/030/071  | Insuman basal optis inj 100ie/ml wwsp 3ml  | 0,40  | ml  | 2,48974  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0A10ACAPI  | V  | 14896  | Humuline nph inj 100ie/ml patroon 3ml  | 0,40  | ml  | 2,09223  |
-| 0A10ACAPI  | V  | 33526//14896  | Humuline nph inj 100ie/ml patroon 3ml  | 0,40  | ml  | 2,09223  |
 | 0A10ACAPI  | V  | EU/1/02/233/006  | Insulatard penfill inj 100ie/ml patr 3ml  | 0,40  | ml  | 2,09223  |
 | 0A10ACAPI  | V  | EU/1/97/030/035  | Insuman basal inj 100ie/ml patroon 3ml  | 0,40  | ml  | 2,09223  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2597,8 +2557,6 @@ J.F.Hoogervorst
 | 0A11CCAO  | V  | 10890  | Alfacalcidol pch capsule 0,25mcg  | 4,00  | stuk  | 0,22078  |
 | 0A11CCAO  | V  | 10891  | ALFACALCIDOL PCH CAPSULE 1MCG  | 1,00  | stuk  | 0,55195  |
 | 0A11CCAO  | V  | 22263  | Etalpha leo capsule 0,5mcg  | 2,00  | stuk  | 0,27597  |
-| 0A11CCAO  | V  | 29585//7603  | Alfacalcidol capsule 1mcg  | 1,00  | stuk  | 0,55195  |
-| 0A11CCAO  | V  | 29586//8318  | Alfacalcidol capsule 0,25mcg  | 4,00  | stuk  | 0,22078  |
 | 0A11CCAO  | V  | 7603  | Etalpha leo capsule 1mcg  | 1,00  | stuk  | 0,55195  |
 | 0A11CCAO  | V  | 8318  | Etalpha leo capsule 0,25mcg  | 4,00  | stuk  | 0,22078  |
 | 0A11CCAO  | V  | 9284  | Etalpha leo druppels 2mcg/ml  | 0,50  | ml  | 1,10389  |
@@ -2633,8 +2591,6 @@ J.F.Hoogervorst
 | 0A12AABO  | V  | 29464//14032  | Calci chew kauwtablet 500mg  | 2,00  | stuk  | 0,26210  |
 | 0A12AABO  | V  | 29524//23468  | Calci chew kauwtablet 1000mg  | 1,00  | stuk  | 0,43684  |
 | 0A12AABO  | V  | 30510//23468  | Calci chew kauwtablet 1000mg  | 1,00  | stuk  | 0,43684  |
-| 0A12AABO  | V  | 31043//14032  | Calci chew kauwtablet 500mg  | 2,00  | stuk  | 0,26210  |
-| 0A12AABO  | V  | 31813//14032  | Calci chew kauwtablet 500mg  | 2,00  | stuk  | 0,26210  |
 | 0A12AABO  | V  | 32185//14032  | Calci chew kauwtablet 500mg  | 2,00  | stuk  | 0,26210  |
 | 0A12AABO  | V  | 33065//14032  | Calci chew kauwtablet 500mg  | 2,00  | stuk  | 0,26210  |
 | 0A12AABO  | V  | 5002  | Calcium sandoz forte bruistablet 500mg  | 2,00  | stuk  | 0,26210  |
@@ -2724,7 +2680,6 @@ J.F.Hoogervorst
 | 0B01ACBO  | V  | 21021  | Ascal bruistablet 38mg  | 1,00  | stuk  | 0,06353  |
 | 0B01ACBO  | V  | 21701  | Carbasalaatcalcium poeder in sachet 38mg  | 1,00  | stuk  | 0,06353  |
 | 0B01ACBO  | V  | 21994  | Ascal brisper bruistablet 38mg  | 1,00  | stuk  | 0,06353  |
-| 0B01ACBO  | V  | 22880=21701  | Carbasalaatcalcium pch sachet 38mg  | 1,00  | stuk  | 0,06353  |
 | 0B01ACBO  | V  | 22939=21701  | Carbasalaatcalcium sandoz sachet 38mg  | 1,00  | stuk  | 0,06353  |
 | 0B01ACBO  | V  | 23079=21701  | Carbasalaatcalcium neuro rp poeder in sachet 38mg  | 1,00  | stuk  | 0,06353  |
 | 0B01ACBO  | V  | 26195  | Acetylsalicylzuur neuro disp tablet 30mg  | 1,00  | stuk  | 0,06353  |
@@ -2747,8 +2702,6 @@ J.F.Hoogervorst
 | 0B01ACCO  | V  | 24524//10186  | Persantine retard capsule mga 150mg  | 2,67  | stuk  | 0,17057  |
 | 0B01ACCO  | V  | 24525//14870  | Persantine retard capsule mga 200mg  | 2,00  | stuk  | 0,22742  |
 | 0B01ACCO  | V  | 25423=9538  | Dipyridamol rp dragee 25mg  | 16,00  | stuk  | 0,03980  |
-| 0B01ACCO  | V  | 26167//10186  | Persantine retard capsule mga 150mg  | 2,67  | stuk  | 0,17057  |
-| 0B01ACCO  | V  | 26168//14870  | Persantine retard capsule mga 200mg  | 2,00  | stuk  | 0,22742  |
 | 0B01ACCO  | V  | 57393=9539  | Dipyridamol cf dragee 75mg  | 5,33  | stuk  | 0,08528  |
 | 0B01ACCO  | V  | 9538  | Dipyridamol pch dragee 25mg  | 16,00  | stuk  | 0,03980  |
 | 0B01ACCO  | V  | 9539  | Dipyridamol pch dragee 75mg  | 5,33  | stuk  | 0,08528  |
@@ -2768,9 +2721,7 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0B03AAAO  | V  | 14546  | Losferron bruistablet 695mg  | 2,45  | stuk  | 0,06406  |
 | 0B03AAAO  | V  | 16406//5752  | Ferrograd tablet mga 105mg fe  | 1,90  | stuk  | 0,08266  |
-| 0B03AAAO  | V  | 23675//5752  | Ferrograd tablet mga 105mg fe  | 1,90  | stuk  | 0,08266  |
 | 0B03AAAO  | V  | 24135=50719  | Ferrofumaraat sandoz tablet 200mg  | 3,00  | stuk  | 0,05223  |
-| 0B03AAAO  | V  | 27535//5752  | Ferrograd tablet mga 105mg fe  | 1,90  | stuk  | 0,08266  |
 | 0B03AAAO  | V  | 28892=52216  | Ferrofumaraat actavis tablet 200mg  | 3,00  | stuk  | 0,05223  |
 | 0B03AAAO  | V  | 28895=52216  | Ferrofumaraat mylan tablet 200mg  | 3,00  | stuk  | 0,05223  |
 | 0B03AAAO  | V  | 33291  | Ferrofumaraat pch tablet omhuld 100mg  | 6,00  | stuk  | 0,03134  |
@@ -2942,7 +2893,6 @@ J.F.Hoogervorst
 | 0C01CAAP  | K  | 31436  | Anapen junior injvlst 0,5mg/ml wwsp 0,3ml  | 1,00  | ml  | 148,23500  |
 | 0C01CAAP  | K  | 32726  | Epipen junior injvlst 0,5mg/ml wwsp 0,3ml  | 1,00  | ml  | 148,23500  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0C01CAAP  | V  | 27407//32727  | Epipen injvlst 1mg/ml wwsp 0,3ml  | 1,00  | ml  | 148,23500  |
 | 0C01CAAP  | V  | 31435  | Anapen injvlst 1mg/ml wwsp 0,3ml  | 1,00  | ml  | 148,23500  |
 | 0C01CAAP  | V  | 32727  | Epipen injvlst 1mg/ml wwsp 0,3ml  | 1,00  | ml  | 148,23500  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2990,7 +2940,6 @@ J.F.Hoogervorst
 | 0C02CAAO  | V  | 22560  | Doxazosine pch tablet 4mg  | 1,00  | stuk  | 0,84322  |
 | 0C02CAAO  | V  | 22688  | Cardura xl tablet mga 4mg  | 1,00  | stuk  | 0,84322  |
 | 0C02CAAO  | V  | 22689  | Cardura xl tablet mga 8mg  | 0,50  | stuk  | 1,68644  |
-| 0C02CAAO  | V  | 26356  | Terazosine pch tablet 1mg  | 5,00  | stuk  | 0,16864  |
 | 0C02CAAO  | V  | 26357  | Terazosine pch tablet 2mg  | 2,50  | stuk  | 0,33729  |
 | 0C02CAAO  | V  | 26358  | Terazosine pch tablet 5mg  | 1,00  | stuk  | 0,84322  |
 | 0C02CAAO  | V  | 31396  | Terazosine sandoz tablet 2mg  | 2,50  | stuk  | 0,33729  |
@@ -3125,7 +3074,6 @@ J.F.Hoogervorst
 | 0C07ABAO  | V  | 101899  | METOPROLOLSUCCINAAT RP RETARD 100 TABLET MGA 95MG  | 1,50  | stuk  | 0,27075  |
 | 0C07ABAO  | V  | 101900  | METOPROLOLSUCCINAAT RP RETARD 200 TABLET MGA 190MG  | 0,75  | stuk  | 0,54151  |
 | 0C07ABAO  | V  | 102063  | METOPROLOLSUCCINAAT A RETARD 100 TABLET MGA 95MG  | 1,50  | stuk  | 0,27075  |
-| 0C07ABAO  | V  | 102311//18849  | Nebilet tablet 5mg  | 1,00  | stuk  | 0,40613  |
 | 0C07ABAO  | V  | 12072  | Metoprololtartraat rp tablet 50mg  | 3,00  | stuk  | 0,16245  |
 | 0C07ABAO  | V  | 12073  | Metoprololtartraat rp tablet 100mg  | 1,50  | stuk  | 0,27075  |
 | 0C07ABAO  | V  | 12149  | Selokeen zoc 100 tablet mga 95mg  | 1,50  | stuk  | 0,27075  |
@@ -3241,8 +3189,6 @@ J.F.Hoogervorst
 | 0C07ABAO  | V  | 57553  | Atenolol sandoz tablet 100mg  | 0,75  | stuk  | 0,54151  |
 | 0C07ABAO  | V  | 57569  | Metoprololtartraat cf tablet 50mg  | 3,00  | stuk  | 0,16245  |
 | 0C07ABAO  | V  | 57570  | Metoprololtartraat cf tablet 100mg  | 1,50  | stuk  | 0,27075  |
-| 0C07ABAO  | V  | 57614  | Atenolol cf tablet 50mg  | 1,50  | stuk  | 0,27075  |
-| 0C07ABAO  | V  | 57615  | Atenolol cf tablet 100mg  | 0,75  | stuk  | 0,54151  |
 | 0C07ABAO  | V  | 57720  | Metoprololtartraat sandoz tablet 50mg  | 3,00  | stuk  | 0,16245  |
 | 0C07ABAO  | V  | 57721  | Metoprololtartraat sandoz tablet 100mg  | 1,50  | stuk  | 0,27075  |
 | 0C07ABAO  | V  | 7318  | Sectral tablet 200mg  | 2,00  | stuk  | 0,24368  |
@@ -3273,11 +3219,8 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0C08CAAO  | V  | 100102  | Nifedipine pch retard tablet mga 30mg  | 1,00  | stuk  | 0,65450  |
 | 0C08CAAO  | V  | 100104  | Nifedipine pch retard tablet mga 60mg  | 0,50  | stuk  | 1,30901  |
-| 0C08CAAO  | V  | 100918//20813  | Lercanidipine hcl tablet omhuld 10mg  | 1,00  | stuk  | 0,65450  |
-| 0C08CAAO  | V  | 100922//28644  | Lercanidipine hcl tablet omhuld 20mg  | 0,50  | stuk  | 1,30901  |
 | 0C08CAAO  | V  | 101061//20554  | Barnidipine hcl capsule mga 10mg  | 1,00  | stuk  | 0,65450  |
 | 0C08CAAO  | V  | 101062//20555  | Barnidipine hcl capsule mga 20mg  | 0,50  | stuk  | 1,30901  |
-| 0C08CAAO  | V  | 104878//20813  | Lercanidipine hcl erc tablet omhuld 10mg  | 1,00  | stuk  | 0,65450  |
 | 0C08CAAO  | V  | 10572  | Adalat capsule 5mg  | 6,00  | stuk  | 0,17453  |
 | 0C08CAAO  | V  | 11391  | Baypress tablet 10mg  | 2,00  | stuk  | 0,39270  |
 | 0C08CAAO  | V  | 11392  | Baypress tablet 20mg  | 1,00  | stuk  | 0,65450  |
@@ -3292,14 +3235,11 @@ J.F.Hoogervorst
 | 0C08CAAO  | V  | 14795  | Adalat oros tablet mga 60mg  | 0,50  | stuk  | 1,30901  |
 | 0C08CAAO  | V  | 14833  | Cardene sr capsule mga 45mg  | 2,00  | stuk  | 0,32725  |
 | 0C08CAAO  | V  | 15099  | Lomir sro capsule mga 5mg  | 1,00  | stuk  | 0,65450  |
-| 0C08CAAO  | V  | 15252  | Nifedipine pch retard tablet mga 20mg  | 1,50  | stuk  | 0,43634  |
 | 0C08CAAO  | V  | 15580  | Plendil tablet mva 2,5mg  | 2,00  | stuk  | 0,39270  |
 | 0C08CAAO  | V  | 15869  | Nifedipine cf capsule 5mg  | 6,00  | stuk  | 0,17453  |
 | 0C08CAAO  | V  | 15870  | Nifedipine cf capsule 10mg  | 3,00  | stuk  | 0,21817  |
 | 0C08CAAO  | V  | 15976  | Nifedipine cf retard tablet 20mg  | 1,50  | stuk  | 0,43634  |
 | 0C08CAAO  | V  | 16385  | Nifedipine cf retard tablet 10mg  | 3,00  | stuk  | 0,21817  |
-| 0C08CAAO  | V  | 16636  | Nifedipine sandoz capsule 5mg  | 6,00  | stuk  | 0,17453  |
-| 0C08CAAO  | V  | 16637  | Nifedipine sandoz capsule 10mg  | 3,00  | stuk  | 0,21817  |
 | 0C08CAAO  | V  | 17073  | Nifedipine a retard tablet mga 60mg  | 0,50  | stuk  | 1,30901  |
 | 0C08CAAO  | V  | 19416=16385  | Nifedipine rp retard tablet 10mg  | 3,00  | stuk  | 0,21817  |
 | 0C08CAAO  | V  | 19417=15976  | Nifedipine rp retard tablet 20mg  | 1,50  | stuk  | 0,43634  |
@@ -3310,10 +3250,8 @@ J.F.Hoogervorst
 | 0C08CAAO  | V  | 20554  | Cyress capsule mga 10mg  | 1,00  | stuk  | 0,65450  |
 | 0C08CAAO  | V  | 20555  | Cyress capsule mga 20mg  | 0,50  | stuk  | 1,30901  |
 | 0C08CAAO  | V  | 20813  | Lerdip tablet omhuld 10mg  | 1,00  | stuk  | 0,65450  |
-| 0C08CAAO  | V  | 22301//13385  | Lomir tablet 2,5mg  | 2,00  | stuk  | 0,39270  |
 | 0C08CAAO  | V  | 22964=15976  | Nifedipine sandoz retard tablet 20mg  | 1,50  | stuk  | 0,43634  |
 | 0C08CAAO  | V  | 23645//15099  | Lomir sro capsule mga 5mg  | 1,00  | stuk  | 0,65450  |
-| 0C08CAAO  | V  | 24598//15099  | Lomir sro capsule mga 5mg  | 1,00  | stuk  | 0,65450  |
 | 0C08CAAO  | V  | 24673//15099  | Lomir sro capsule mga 5mg  | 1,00  | stuk  | 0,65450  |
 | 0C08CAAO  | V  | 25409  | Nifedipine katwijk retard tablet 10mg  | 3,00  | stuk  | 0,21817  |
 | 0C08CAAO  | V  | 25410  | NIFEDIPINE APOTEX RETARD TABLET 20MG  | 1,50  | stuk  | 0,43634  |
@@ -3324,8 +3262,6 @@ J.F.Hoogervorst
 | 0C08CAAO  | V  | 27323  | Amlodipine cf tablet 10mg (als maleaat)  | 0,50  | stuk  | 1,30901  |
 | 0C08CAAO  | V  | 27720  | Amlodipine sandoz tablet 5mg (als mesilaat)  | 1,00  | stuk  | 0,65450  |
 | 0C08CAAO  | V  | 27721  | Amlodipine sandoz tablet 10mg (als mesilaat)  | 0,50  | stuk  | 1,30901  |
-| 0C08CAAO  | V  | 28519  | Amlodipine rp tablet 5mg (als maleaat)  | 1,00  | stuk  | 0,65450  |
-| 0C08CAAO  | V  | 28520  | Amlodipine rp tablet 10mg (als maleaat)  | 0,50  | stuk  | 1,30901  |
 | 0C08CAAO  | V  | 28644  | Lerdip tablet omhuld 20mg  | 0,50  | stuk  | 1,30901  |
 | 0C08CAAO  | V  | 28944  | Nifedipine sandoz retard tablet mga 30mg  | 1,00  | stuk  | 0,65450  |
 | 0C08CAAO  | V  | 28945  | Nifedipine sandoz retard tablet mga 60mg  | 0,50  | stuk  | 1,30901  |
@@ -3371,7 +3307,6 @@ J.F.Hoogervorst
 | 0C08CAAO  | V  | 57108  | Nifedipine pch capsule 10mg  | 3,00  | stuk  | 0,21817  |
 | 0C08CAAO  | V  | 57524  | Nifedipine sandoz capsule 5mg  | 6,00  | stuk  | 0,17453  |
 | 0C08CAAO  | V  | 57525  | Nifedipine sandoz capsule 10mg  | 3,00  | stuk  | 0,21817  |
-| 0C08CAAO  | V  | 57526  | Nifedipinum retard tablet 20mg  | 1,50  | stuk  | 0,43634  |
 | 0C08CAAO  | V  | 57794=57107  | Nifedipine rp capsule 5mg  | 6,00  | stuk  | 0,17453  |
 | 0C08CAAO  | V  | 57795=57108  | Nifedipine rp capsule 10mg  | 3,00  | stuk  | 0,21817  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -3405,9 +3340,6 @@ J.F.Hoogervorst
 | 0C08DAAO  | V  | 21997  | Verapamil hcl cf tablet 40mg  | 10,00  | stuk  | 0,07299  |
 | 0C08DAAO  | V  | 21998  | Verapamil hcl cf tablet 80mg  | 5,00  | stuk  | 0,10428  |
 | 0C08DAAO  | V  | 21999  | Verapamil hcl cf tablet 120mg  | 3,33  | stuk  | 0,15642  |
-| 0C08DAAO  | V  | 22409=15481  | Verapamil hcl actavis retard tablet mga 120mg  | 3,33  | stuk  | 0,15642  |
-| 0C08DAAO  | V  | 22410=15853  | Verapamil hcl actavis retard tablet mga 180mg  | 2,22  | stuk  | 0,23463  |
-| 0C08DAAO  | V  | 22411=12102  | Verapamil hcl dumex retard tablet mga 240mg  | 1,67  | stuk  | 0,31283  |
 | 0C08DAAO  | V  | 25284=15481  | Verapamil hcl cf retard tablet mga 120mg  | 3,33  | stuk  | 0,15642  |
 | 0C08DAAO  | V  | 25917=15481  | VERAPAMIL HCL APOTEX RETARD TABLET MGA 120MG  | 3,33  | STUK  | 0,15642  |
 | 0C08DAAO  | V  | 25919=12102  | VERAPAMIL HCL APOTEX RETARD TABLET MGA 240MG  | 1,67  | stuk  | 0,31283  |
@@ -3429,7 +3361,6 @@ J.F.Hoogervorst
 | 0C09AAAO  | V  | 101741  | Perindopril tert-butylamine actavis tablet 4mg  | 1,00  | stuk  | 0,58408  |
 | 0C09AAAO  | V  | 101744  | Perindopril tert-butylamine actavis tablet 8mg  | 0,50  | stuk  | 1,16816  |
 | 0C09AAAO  | V  | 102177//31958  | Coversyl arg tablet filmomhuld 5mg  | 0,80  | stuk  | 0,73010  |
-| 0C09AAAO  | V  | 102178//31958  | Coversyl arg tablet filmomhuld 5mg  | 0,80  | stuk  | 0,73010  |
 | 0C09AAAO  | V  | 102179//31959  | Coversyl arg tablet filmomhuld 10mg  | 0,40  | stuk  | 1,46020  |
 | 0C09AAAO  | V  | 102218  | Lisinopril accord tablet 5mg  | 2,00  | stuk  | 0,35045  |
 | 0C09AAAO  | V  | 102219  | Perindopril tert-butylamine sandoz tablet 8mg  | 0,50  | stuk  | 1,16816  |
@@ -3468,16 +3399,12 @@ J.F.Hoogervorst
 | 0C09AAAO  | V  | 19988  | Captopril apotex tablet 25mg  | 2,00  | stuk  | 0,29204  |
 | 0C09AAAO  | V  | 19989  | Captopril apotex tablet 50mg  | 1,00  | stuk  | 0,58408  |
 | 0C09AAAO  | V  | 20972  | Tritace tablet 10mg  | 0,25  | stuk  | 2,33631  |
-| 0C09AAAO  | V  | 21342  | Captopril actavis tablet 12,5mg  | 4,00  | stuk  | 0,23363  |
-| 0C09AAAO  | V  | 21343  | Captopril actavis tablet 25mg  | 2,00  | stuk  | 0,29204  |
-| 0C09AAAO  | V  | 21344  | Captopril actavis tablet 50mg  | 1,00  | stuk  | 0,58408  |
 | 0C09AAAO  | V  | 21771  | Captopril sandoz tablet 12,5mg  | 4,00  | stuk  | 0,23363  |
 | 0C09AAAO  | V  | 21772  | Captopril sandoz tablet 25mg  | 2,00  | stuk  | 0,29204  |
 | 0C09AAAO  | V  | 21773  | Captopril sandoz tablet 50mg  | 1,00  | stuk  | 0,58408  |
 | 0C09AAAO  | V  | 21887  | Captoprilum tablet 12,5mg  | 4,00  | stuk  | 0,23363  |
 | 0C09AAAO  | V  | 21888  | Captoprilum tablet 25mg  | 2,00  | stuk  | 0,29204  |
 | 0C09AAAO  | V  | 21889  | Captoprilum tablet 50mg  | 1,00  | stuk  | 0,58408  |
-| 0C09AAAO  | V  | 22027  | Captoprilum tablet 12,5mg  | 4,00  | stuk  | 0,23363  |
 | 0C09AAAO  | V  | 22028  | Captoprilum tablet 25mg  | 2,00  | stuk  | 0,29204  |
 | 0C09AAAO  | V  | 22029  | Captoprilum tablet 50mg  | 1,00  | stuk  | 0,58408  |
 | 0C09AAAO  | V  | 22166  | Captopril rp tablet 12,5mg  | 4,00  | stuk  | 0,23363  |
@@ -3560,12 +3487,6 @@ J.F.Hoogervorst
 | 0C09AAAO  | V  | 28136  | Lisinopril rp tablet 5mg  | 2,00  | stuk  | 0,35045  |
 | 0C09AAAO  | V  | 28137  | Lisinopril rp tablet 10mg  | 1,00  | stuk  | 0,58408  |
 | 0C09AAAO  | V  | 28138  | Lisinopril rp tablet 20mg  | 0,50  | stuk  | 1,16816  |
-| 0C09AAAO  | V  | 28145  | Lisinopril apex tablet 5mg  | 2,00  | stuk  | 0,35045  |
-| 0C09AAAO  | V  | 28146  | Lisinopril apex tablet 10mg  | 1,00  | stuk  | 0,58408  |
-| 0C09AAAO  | V  | 28147  | Lisinopril apex tablet 20mg  | 0,50  | stuk  | 1,16816  |
-| 0C09AAAO  | V  | 28148  | Lisinopril sandoz tablet 5mg  | 2,00  | stuk  | 0,35045  |
-| 0C09AAAO  | V  | 28149  | Lisinopril sandoz tablet 10mg  | 1,00  | stuk  | 0,58408  |
-| 0C09AAAO  | V  | 28150  | Lisinopril sandoz tablet 20mg  | 0,50  | stuk  | 1,16816  |
 | 0C09AAAO  | V  | 28419  | Lisinopril cf tablet 5mg  | 2,00  | stuk  | 0,35045  |
 | 0C09AAAO  | V  | 28420  | Lisinopril cf tablet 10mg  | 1,00  | stuk  | 0,58408  |
 | 0C09AAAO  | V  | 28421  | Lisinopril cf tablet 20mg  | 0,50  | stuk  | 1,16816  |
@@ -3591,10 +3512,6 @@ J.F.Hoogervorst
 | 0C09AAAO  | V  | 29301  | RAMIPRIL MYLAN TABLET 2,5MG  | 1,00  | STUK  | 0,58408  |
 | 0C09AAAO  | V  | 29302  | RAMIPRIL MYLAN TABLET 5MG  | 0,50  | STUK  | 1,16816  |
 | 0C09AAAO  | V  | 29303  | RAMIPRIL MYLAN TABLET 10MG  | 0,25  | STUK  | 2,33631  |
-| 0C09AAAO  | V  | 29307  | Ramipril ranbaxy tablet 1,25mg  | 2,00  | stuk  | 0,35045  |
-| 0C09AAAO  | V  | 29308  | Ramipril ranbaxy tablet 2,5mg  | 1,00  | stuk  | 0,58408  |
-| 0C09AAAO  | V  | 29309  | Ramipril ranbaxy tablet 5mg  | 0,50  | stuk  | 1,16816  |
-| 0C09AAAO  | V  | 29310  | Ramipril ranbaxy tablet 10mg  | 0,25  | stuk  | 2,33631  |
 | 0C09AAAO  | V  | 29351  | Fosinoprilnatrium a tablet 10mg  | 1,50  | stuk  | 0,38939  |
 | 0C09AAAO  | V  | 29352  | Fosinoprilnatrium a tablet 20mg  | 0,75  | stuk  | 0,77877  |
 | 0C09AAAO  | V  | 29354  | Fosinoprilnatrium pch tablet 10mg  | 1,50  | stuk  | 0,38939  |
@@ -3686,15 +3603,10 @@ J.F.Hoogervorst
 | 0C09AAAO  | V  | 35208  | Perindopril tert-butylamine ranbaxy tablet 2mg  | 2,00  | stuk  | 0,35045  |
 | 0C09AAAO  | V  | 35209  | Perindopril tert-butylamine ranbaxy tablet 4mg  | 1,00  | stuk  | 0,58408  |
 | 0C09AAAO  | V  | 35210  | Perindopril tert-butylamine ranbaxy tablet 8mg  | 0,50  | stuk  | 1,16816  |
-| 0C09CAAO  | V  | 101191//26791  | Cozaar tablet filmomhuld 100mg  | 0,50  | stuk  | 1,48840  |
-| 0C09CAAO  | V  | 101457//17617  | Cozaar tablet filmomhuld 50mg  | 1,00  | stuk  | 0,74420  |
-| 0C09CAAO  | V  | 101464//26791  | Cozaar tablet filmomhuld 100mg  | 0,50  | stuk  | 1,48840  |
 | 0C09CAAO  | V  | 101787//21706  | Candesartan cilexetil fisher tablet 16mg  | 0,50  | stuk  | 1,48840  |
 | 0C09CAAO  | V  | 101789//21705  | Candesartan cilexetil fisher tablet 8mg  | 1,00  | stuk  | 0,74420  |
 | 0C09CAAO  | V  | 102183//34472  | Diovan tablet omhuld 320mg  | 0,25  | stuk  | 2,97680  |
-| 0C09CAAO  | V  | 102313//21706  | Ratacand tablet 16mg  | 0,50  | stuk  | 1,48840  |
 | 0C09CAAO  | V  | 102614//34472  | Diovan tablet omhuld 320mg  | 0,25  | stuk  | 2,97680  |
-| 0C09CAAO  | V  | 103110//17617  | Cozaar tablet filmomhuld 50mg  | 1,00  | stuk  | 0,74420  |
 | 0C09CAAO  | V  | 103533//34472  | Diovan tablet omhuld 320mg  | 0,25  | stuk  | 2,97680  |
 | 0C09CAAO  | V  | 104648//34472  | Diovan tablet omhuld 320mg  | 0,25  | stuk  | 2,97680  |
 | 0C09CAAO  | V  | 104809//21705  | Atacand tablet 8mg  | 1,00  | stuk  | 0,74420  |
@@ -3705,14 +3617,12 @@ J.F.Hoogervorst
 | 0C09CAAO  | V  | 21706  | Atacand tablet 16mg  | 0,50  | stuk  | 1,48840  |
 | 0C09CAAO  | V  | 22260  | Teveten tablet omhuld 400mg  | 1,50  | stuk  | 0,49613  |
 | 0C09CAAO  | V  | 23983  | Teveten tablet omhuld 600mg  | 1,00  | stuk  | 0,74420  |
-| 0C09CAAO  | V  | 25679//21705  | Ratacand tablet 8mg  | 1,00  | stuk  | 0,74420  |
 | 0C09CAAO  | V  | 26791  | Cozaar tablet filmomhuld 100mg  | 0,50  | stuk  | 1,48840  |
 | 0C09CAAO  | V  | 26939  | Diovan tablet omhuld 80mg  | 1,00  | stuk  | 0,74420  |
 | 0C09CAAO  | V  | 26940  | Diovan tablet omhuld 160mg  | 0,50  | stuk  | 1,48840  |
 | 0C09CAAO  | V  | 28782  | Olmetec tablet filmomhuld 10mg  | 2,00  | stuk  | 0,44652  |
 | 0C09CAAO  | V  | 28783  | Olmetec tablet filmomhuld 20mg  | 1,00  | stuk  | 0,74420  |
 | 0C09CAAO  | V  | 28784  | Olmetec tablet filmomhuld 40mg  | 0,50  | stuk  | 1,48840  |
-| 0C09CAAO  | V  | 29435//17617  | Losartan tablet 50mg  | 1,00  | stuk  | 0,74420  |
 | 0C09CAAO  | V  | 30755  | Atacand tablet 32mg  | 0,25  | stuk  | 2,97680  |
 | 0C09CAAO  | V  | 30889//23983  | Teveten tablet omhuld 600mg  | 1,00  | stuk  | 0,74420  |
 | 0C09CAAO  | V  | 30890//23983  | Teveten tablet omhuld 600mg  | 1,00  | stuk  | 0,74420  |
@@ -3726,10 +3636,7 @@ J.F.Hoogervorst
 | 0C09CAAO  | V  | 32845//21705  | Candesartan tablet 8mg  | 1,00  | stuk  | 0,74420  |
 | 0C09CAAO  | V  | 32846//21706  | Candesartan tablet 16mg  | 0,50  | stuk  | 1,48840  |
 | 0C09CAAO  | V  | 33437//21706  | Amias tablet 16mg  | 0,50  | stuk  | 1,48840  |
-| 0C09CAAO  | V  | 33769//17617  | Losartan tablet 50mg  | 1,00  | stuk  | 0,74420  |
-| 0C09CAAO  | V  | 33835//17617  | Cozaar tablet filmomhuld 50mg  | 1,00  | stuk  | 0,74420  |
 | 0C09CAAO  | V  | 34472  | Diovan tablet omhuld 320mg  | 0,25  | stuk  | 2,97680  |
-| 0C09CAAO  | V  | 34558//26791  | Losartan tablet filmomhuld 100mg  | 0,50  | stuk  | 1,48840  |
 | 0C09CAAO  | V  | EU/1/07/405/003  | Rasilez tablet filmomhuld 150mg  | 1,00  | stuk  | 0,74420  |
 | 0C09CAAO  | V  | EU/1/07/405/013  | Rasilez tablet filmomhuld 300mg  | 0,50  | stuk  | 1,48840  |
 | 0C09CAAO  | V  | EU/1/97/046/004  | Aprovel tablet 150mg  | 1,00  | stuk  | 0,74420  |
@@ -3774,11 +3681,9 @@ J.F.Hoogervorst
 | 0C10AAAO  | V  | 102463//21082  | Lipitor tablet omhuld 20mg  | 1,00  | stuk  | 1,38403  |
 | 0C10AAAO  | V  | 102575//26874  | Crestor tablet filmomhuld 40mg  | 0,25  | stuk  | 5,53612  |
 | 0C10AAAO  | V  | 102576//26874  | Crestor tablet filmomhuld 40mg  | 0,25  | stuk  | 5,53612  |
-| 0C10AAAO  | V  | 102577//26874  | Crestor tablet filmomhuld 40mg  | 0,25  | stuk  | 5,53612  |
 | 0C10AAAO  | V  | 103072//21081  | Sortis tablet filmomhuld 10mg  | 2,00  | stuk  | 0,83042  |
 | 0C10AAAO  | V  | 103077//21082  | Sortis tablet filmomhuld 20mg  | 1,00  | stuk  | 1,38403  |
 | 0C10AAAO  | V  | 103532//26874  | Crestor tablet filmomhuld 40mg  | 0,25  | stuk  | 5,53612  |
-| 0C10AAAO  | V  | 103782//21083  | Lipitor tablet omhuld 40mg  | 0,50  | stuk  | 2,76806  |
 | 0C10AAAO  | V  | 104202//21081  | Lipitor tablet omhuld 10mg  | 2,00  | stuk  | 0,83042  |
 | 0C10AAAO  | V  | 104203//21083  | Lipitor tablet omhuld 40mg  | 0,50  | stuk  | 2,76806  |
 | 0C10AAAO  | V  | 104592//21083  | Sortis tablet filmomhuld 40mg  | 0,50  | stuk  | 2,76806  |
@@ -3810,22 +3715,15 @@ J.F.Hoogervorst
 | 0C10AAAO  | V  | 26872  | Crestor tablet filmomhuld 10mg  | 1,00  | stuk  | 1,38403  |
 | 0C10AAAO  | V  | 26873  | Crestor tablet filmomhuld 20mg  | 0,50  | stuk  | 2,76806  |
 | 0C10AAAO  | V  | 26874  | Crestor tablet filmomhuld 40mg  | 0,25  | stuk  | 5,53612  |
-| 0C10AAAO  | V  | 26955  | Simvastatinum tablet filmomhuld 10mg  | 3,00  | stuk  | 0,46134  |
-| 0C10AAAO  | V  | 26956  | Simvastatinum tablet filmomhuld 20mg  | 1,50  | stuk  | 0,92269  |
-| 0C10AAAO  | V  | 26958  | Simvastatinum tablet filmomhuld 40mg  | 0,75  | stuk  | 1,84537  |
 | 0C10AAAO  | V  | 27556  | Simvastatine apotex tablet filmomhuld 10mg  | 3,00  | stuk  | 0,46134  |
 | 0C10AAAO  | V  | 27557  | Simvastatine apotex tablet filmomhuld 20mg  | 1,50  | stuk  | 0,92269  |
 | 0C10AAAO  | V  | 27558  | Simvastatine apotex tablet filmomhuld 40mg  | 0,75  | stuk  | 1,84537  |
-| 0C10AAAO  | V  | 27669//21083  | Atorvastatine tablet omhuld 40mg  | 0,50  | stuk  | 2,76806  |
 | 0C10AAAO  | V  | 27684//21081  | Prevencor tablet omhuld 10mg  | 2,00  | stuk  | 0,83042  |
 | 0C10AAAO  | V  | 27685//21082  | Prevencor tablet omhuld 20mg  | 1,00  | stuk  | 1,38403  |
 | 0C10AAAO  | V  | 27687  | Simvastatine rp tablet filmomhuld 10mg  | 3,00  | stuk  | 0,46134  |
 | 0C10AAAO  | V  | 27688  | Simvastatine rp tablet filmomhuld 20mg  | 1,50  | stuk  | 0,92269  |
 | 0C10AAAO  | V  | 27689  | Simvastatine rp tablet filmomhuld 40mg  | 0,75  | stuk  | 1,84537  |
 | 0C10AAAO  | V  | 27974//25187  | Lescol xl tablet mva 80mg  | 0,75  | stuk  | 1,84537  |
-| 0C10AAAO  | V  | 27979//21081  | Atorvastatine tablet omhuld 10mg  | 2,00  | stuk  | 0,83042  |
-| 0C10AAAO  | V  | 27980//21082  | Atorvastatine tablet omhuld 20mg  | 1,00  | stuk  | 1,38403  |
-| 0C10AAAO  | V  | 27981//21083  | Atorvastatine tablet omhuld 40mg  | 0,50  | stuk  | 2,76806  |
 | 0C10AAAO  | V  | 28011  | PRAVASTATINENATRIUM MYLAN TABLET 10MG  | 3,00  | stuk  | 0,55361  |
 | 0C10AAAO  | V  | 28012  | Pravastatinenatrium mylan tablet 20mg  | 1,50  | stuk  | 0,92269  |
 | 0C10AAAO  | V  | 28013  | PRAVASTATINENATRIUM MYLAN TABLET 40MG  | 0,75  | STUK  | 1,84537  |
@@ -3846,10 +3744,6 @@ J.F.Hoogervorst
 | 0C10AAAO  | V  | 29108  | SIMVASTATINE MYLAN TABLET FILMOMHULD 10MG  | 3,00  | STUK  | 0,46134  |
 | 0C10AAAO  | V  | 29109  | SIMVASTATINE MYLAN TABLET FILMOMHULD 20MG  | 1,50  | STUK  | 0,92269  |
 | 0C10AAAO  | V  | 29110  | SIMVASTATINE MYLAN TABLET FILMOMHULD 40MG  | 0,75  | STUK  | 1,84537  |
-| 0C10AAAO  | V  | 29164  | Simvastatine apex tablet 5mg  | 6,00  | stuk  | 0,36907  |
-| 0C10AAAO  | V  | 29165  | Simvastatine apex tablet 10mg  | 3,00  | stuk  | 0,46134  |
-| 0C10AAAO  | V  | 29166  | Simvastatine apex tablet 20mg  | 1,50  | stuk  | 0,92269  |
-| 0C10AAAO  | V  | 29167  | Simvastatine apex tablet 40mg  | 0,75  | stuk  | 1,84537  |
 | 0C10AAAO  | V  | 29282  | Simvastatine pch tablet filmomhuld 10mg  | 3,00  | stuk  | 0,46134  |
 | 0C10AAAO  | V  | 29283  | Simvastatine pch tablet filmomhuld 20mg  | 1,50  | stuk  | 0,92269  |
 | 0C10AAAO  | V  | 29284  | Simvastatine pch tablet filmomhuld 40mg  | 0,75  | stuk  | 1,84537  |
@@ -3876,10 +3770,8 @@ J.F.Hoogervorst
 | 0C10AAAO  | V  | 30805//26872  | Crestor tablet filmomhuld 10mg  | 1,00  | stuk  | 1,38403  |
 | 0C10AAAO  | V  | 30806//26873  | Crestor tablet filmomhuld 20mg  | 0,50  | stuk  | 2,76806  |
 | 0C10AAAO  | V  | 30823  | Crestor tablet filmomhuld 5mg  | 2,00  | stuk  | 0,83042  |
-| 0C10AAAO  | V  | 30876//21081  | Atorvastatine tablet omhuld 10mg  | 2,00  | stuk  | 0,83042  |
 | 0C10AAAO  | V  | 30877//21082  | Atorvastatine tablet omhuld 20mg  | 1,00  | stuk  | 1,38403  |
 | 0C10AAAO  | V  | 30878//21083  | Atorvastatine tablet omhuld 40mg  | 0,50  | stuk  | 2,76806  |
-| 0C10AAAO  | V  | 30879//21081  | Atorvastatine tablet omhuld 10mg  | 2,00  | stuk  | 0,83042  |
 | 0C10AAAO  | V  | 30880//21082  | Atorvastatine tablet omhuld 20mg  | 1,00  | stuk  | 1,38403  |
 | 0C10AAAO  | V  | 30881//21083  | Atorvastatine tablet omhuld 40mg  | 0,50  | stuk  | 2,76806  |
 | 0C10AAAO  | V  | 31034//26872  | Crestor tablet filmomhuld 10mg  | 1,00  | stuk  | 1,38403  |
@@ -3903,11 +3795,8 @@ J.F.Hoogervorst
 | 0C10AAAO  | V  | 32197  | Pravastatinenatrium actavis tablet 10mg  | 3,00  | stuk  | 0,55361  |
 | 0C10AAAO  | V  | 32198  | Pravastatinenatrium actavis tablet 20mg  | 1,50  | stuk  | 0,92269  |
 | 0C10AAAO  | V  | 32199  | Pravastatinenatrium actavis tablet 40mg  | 0,75  | stuk  | 1,84537  |
-| 0C10AAAO  | V  | 32213//21082  | Lipitor tablet omhuld 20mg  | 1,00  | stuk  | 1,38403  |
-| 0C10AAAO  | V  | 32247//21083  | Atorvastatine tablet omhuld 40mg  | 0,50  | stuk  | 2,76806  |
 | 0C10AAAO  | V  | 32292//21083  | Lipitor tablet omhuld 40mg  | 0,50  | stuk  | 2,76806  |
 | 0C10AAAO  | V  | 32327//26874  | Rosuvastatine tablet filmomhuld 40mg  | 0,25  | stuk  | 5,53612  |
-| 0C10AAAO  | V  | 32348//26874  | Crestor tablet filmomhuld 40mg  | 0,25  | stuk  | 5,53612  |
 | 0C10AAAO  | V  | 32352//25187  | Fluvastatine tablet mva 80mg  | 0,75  | stuk  | 1,84537  |
 | 0C10AAAO  | V  | 32394  | Simvastatine ranbaxy tablet filmomhuld 5mg  | 6,00  | stuk  | 0,36907  |
 | 0C10AAAO  | V  | 32395  | Simvastatine ranbaxy tablet filmomhuld 10mg  | 3,00  | stuk  | 0,46134  |
@@ -3935,7 +3824,6 @@ J.F.Hoogervorst
 | 0C10AAAO  | V  | 34142//21083  | Lipitor tablet omhuld 40mg  | 0,50  | stuk  | 2,76806  |
 | 0C10AAAO  | V  | 34405  | Fluvastatine sandoz capsule 20mg  | 3,00  | stuk  | 0,55361  |
 | 0C10AAAO  | V  | 34406  | Fluvastatine sandoz capsule 40mg  | 1,50  | stuk  | 0,92269  |
-| 0C10AAAO  | V  | 34581//25187  | Fluvastatine tablet mva 80mg  | 0,75  | stuk  | 1,84537  |
 | 0C10AAAO  | V  | 34640  | Simvastatine actavis tablet filmomhuld 80mg  | 0,38  | stuk  | 3,69075  |
 | 0C10AAAO  | V  | 34762  | Simvastatine cf tablet filmomhuld 80mg  | 0,38  | stuk  | 3,69075  |
 | 0C10AAAO  | V  | 34892  | Fluvastatine pch capsule 20mg  | 3,00  | stuk  | 0,55361  |
@@ -4009,7 +3897,6 @@ J.F.Hoogervorst
 | 0D01ACBDL  | V  | 23836  | KETOCONAZOL APOTEX SHAMPOO 20MG/G  | 1,00  | gram  | 0,18189  |
 | 0D01ACBDL  | V  | 25203  | Ketoconazol cf shampoo 20mg/g  | 1,00  | gram  | 0,18189  |
 | 0D01ACBDL  | V  | 25724  | Ketoconazol actavis shampoo 20mg/g  | 1,00  | gram  | 0,18189  |
-| 0D01ACBDL  | V  | 26102//12586  | Nizoral shampoo gel 20mg/g  | 1,00  | gram  | 0,18189  |
 | 0D01ACBDL  | V  | 30871  | Ketoconazol pch shampoo 20mg/g  | 1,00  | gram  | 0,18189  |
 | 0D01ACBDL  | V  | 32510  | Ketoconazol mylan shampoo 20mg/g  | 1,00  | gram  | 0,18189  |
 | 0D01ACBDL  | V  | 32534  | Ketoconazol sandoz shampoo 20mg/g  | 1,00  | gram  | 0,18189  |
@@ -4033,7 +3920,6 @@ J.F.Hoogervorst
 | 0D05BAAO  | V  | 7889  | Geroxalen capsule 10mg  | 1,00  | stuk  | 0,15646  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0D06AXBDZ  | V  | 11651  | BACTROBAN HYDROFIELE ZALF 20MG/G  | 1  | GRAM  | 0,22477  |
-| 0D06AXBDZ  | V  | 23105//11651  | BACTROBAN HYDROFIELE ZALF 20MG/G  | 1  | GRAM  | 0,22477  |
 | 0D06AXBDZ  | V  | 32026  | MUPIROCINE PCH HYDROFIELE ZALF 20MG/G  | 1  | GRAM  | 0,22477  |
 | 0D06AXBDZ  | V  | 32184//11651  | BACTROBAN HYDROFIELE ZALF 20MG/G  | 1  | GRAM  | 0,22477  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -4106,7 +3992,6 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0D10ADADC  | V  | 101190//32496  | Differin gel 1mg/g  | 1,00  | gram  | 0,23211  |
 | 0D10ADADC  | V  | 32496  | Differin gel 1mg/g  | 1,00  | gram  | 0,23211  |
-| 0D10ADADC  | V  | 35205//32496  | Differin gel 1mg/g  | 1,00  | gram  | 0,23211  |
 | 0D10ADADC  | V  | 8155  | Acid a vit creme 0,5mg/g  | 1,00  | gram  | 0,23211  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0D10AFADL  | V  | 10399  | Eryderm lotion 20mg/ml  | 1,00  | ml  | 0,16450  |
@@ -4175,7 +4060,6 @@ J.F.Hoogervorst
 | 0G03AABO  | V  | 17774=8204  | Levonorgestrelum/ethinylestr tab om 0,15mg/0,030mg  | 0,75  | stuk  | 0,13253  |
 | 0G03AABO  | V  | 21187  | Lovette tablet omhuld  | 0,75  | stuk  | 0,13253  |
 | 0G03AABO  | V  | 23827  | Yasmin tablet omhuld  | 0,75  | stuk  | 0,13253  |
-| 0G03AABO  | V  | 24874//8859  | Marvelon tablet  | 0,75  | stuk  | 0,13253  |
 | 0G03AABO  | V  | 25073  | Nuvaring ring vaginaal  | 0,04  | stuk  | 2,78318  |
 | 0G03AABO  | V  | 25979//8859  | Marvelon tablet  | 0,75  | stuk  | 0,13253  |
 | 0G03AABO  | V  | 29572//11508  | Mercilon tablet  | 0,75  | stuk  | 0,13253  |
@@ -4231,7 +4115,6 @@ J.F.Hoogervorst
 | 0G03CAAO  | V  | 19581  | Estradiol sandoz 50 pleister transdermaal 4mg  | 0,29  | stuk  | 0,65486  |
 | 0G03CAAO  | V  | 19582  | Estradiol sandoz 100 pleister transdermaal 8mg  | 0,14  | stuk  | 1,30973  |
 | 0G03CAAO  | V  | 21700  | Fem 7 50 pleister transdermaal 1,5mg  | 0,14  | stuk  | 1,30973  |
-| 0G03CAAO  | V  | 21808  | Estradiol sandoz 75 pleister transdermaal 6mg  | 0,10  | stuk  | 1,96459  |
 | 0G03CAAO  | V  | 21840=19581  | Estradiol a 50 pleister transdermaal 4mg  | 0,29  | stuk  | 0,65486  |
 | 0G03CAAO  | V  | 21841=19582  | Estradiol a 100 pleister transdermaal 8mg  | 0,14  | stuk  | 1,30973  |
 | 0G03CAAO  | V  | 21842=19581  | Estradiol katwijk 50 pleister transdermaal 4mg  | 0,29  | stuk  | 0,65486  |
@@ -4241,14 +4124,10 @@ J.F.Hoogervorst
 | 0G03CAAO  | V  | 22685  | Estreva tablet 1,5mg  | 1,33  | stuk  | 0,14033  |
 | 0G03CAAO  | V  | 23187=19581  | Estradiol pch 50 pleister transdermaal 4mg  | 0,29  | stuk  | 0,65486  |
 | 0G03CAAO  | V  | 23188=19582  | Estradiol pch 100 pleister transdermaal 8mg  | 0,14  | stuk  | 1,30973  |
-| 0G03CAAO  | V  | 24285  | Dermestril septem 25 pleister transdermaal 25mcg  | 0,29  | stuk  | 0,65486  |
-| 0G03CAAO  | V  | 24286  | Dermestril septem 50 pleister transdermaal 50mcg  | 0,14  | stuk  | 1,30973  |
-| 0G03CAAO  | V  | 24287  | Dermestril septem 75 pleister transdermaal 75mcg  | 0,10  | stuk  | 1,96459  |
 | 0G03CAAO  | V  | 24638  | Estradot 50 pleister transdermaal  | 0,29  | stuk  | 0,65486  |
 | 0G03CAAO  | V  | 24640  | Estradot 100 pleister transdermaal  | 0,14  | stuk  | 1,30973  |
 | 0G03CAAO  | V  | 25706  | Aerodiol neusspray 150mcg/do flacon 60do  | 1,67  | do  | 0,11226  |
 | 0G03CAAO  | V  | 26359  | Estradiol sandoz tablet 2mg  | 1,00  | stuk  | 0,18710  |
-| 0G03CAAO  | V  | 26729  | Estradiol sdz 100 once weekly pleist transder 8mg  | 0,07  | stuk  | 2,61945  |
 | 0G03CAAO  | V  | 30418//9969  | Estriol tablet 1mg  | 2,00  | stuk  | 0,09355  |
 | 0G03CAAO  | V  | 32717//9969  | Synapause e3 tablet 1mg  | 2,00  | stuk  | 0,09355  |
 | 0G03CAAO  | V  | 5311  | Progynova dragee 2mg  | 1,00  | stuk  | 0,18710  |
@@ -4266,7 +4145,6 @@ J.F.Hoogervorst
 | 0G03DCAO  | V  | 2179  | Primolut n tablet 5mg  | 1,50  | stuk  | 0,07855  |
 | 0G03DCAO  | V  | 278  | Orgametril tablet 5mg  | 1,00  | stuk  | 0,11783  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0G03FAAO  | V  | 102775//25549  | Femoston continu tablet omhuld 1/5mg  | 1,00  | stuk  | 0,38944  |
 | 0G03FAAO  | V  | 103105//22819  | Activelle tablet omhuld  | 1,00  | stuk  | 0,38944  |
 | 0G03FAAO  | V  | 103529//27505  | Angeliq tablet filmomhuld  | 1,00  | stuk  | 0,38944  |
 | 0G03FAAO  | V  | 14942  | Kliogest tablet  | 1,00  | stuk  | 0,38944  |
@@ -4350,7 +4228,6 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0G04ABAO  | V  | 10991  | Pipram tablet 400mg  | 2,00  | stuk  | 0,68975  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0G04ACBO  | V  | 102583//13066  | Monuril granulaat 3000mg/8g in sachet  | 0,25  | stuk  | 2,28706  |
 | 0G04ACBO  | V  | 13066  | Monuril granulaat 3000mg/8g in sachet  | 0,25  | stuk  | 2,28706  |
 | 0G04ACBO  | V  | 14926=52232  | Nitrofurantoine mc sandoz capsule 100mg  | 2,00  | stuk  | 0,28588  |
 | 0G04ACBO  | V  | 15290  | Furabid capsule mga 100mg  | 2,00  | stuk  | 0,28588  |
@@ -4388,11 +4265,8 @@ J.F.Hoogervorst
 | 0G04BDBO  | V  | 17499  | Dridase tablet 2,5mg  | 6,00  | stuk  | 0,16596  |
 | 0G04BDBO  | V  | 18780  | Oxybutynine hcl sandoz tablet 5mg  | 3,00  | stuk  | 0,27660  |
 | 0G04BDBO  | V  | 19628  | Oxybutynini hydrochloridum tablet 5mg  | 3,00  | stuk  | 0,27660  |
-| 0G04BDBO  | V  | 20344=10527  | Oxybutynine hcl pch tablet 5mg  | 3,00  | stuk  | 0,27660  |
-| 0G04BDBO  | V  | 20814  | Oxybutynine hcl rp tablet 5mg  | 3,00  | stuk  | 0,27660  |
 | 0G04BDBO  | V  | 21209=19628  | Oxybutynine hcl tablet 5mg  | 3,00  | stuk  | 0,27660  |
 | 0G04BDBO  | V  | 21285  | Oxybutynine hcl actavis tablet 5mg  | 3,00  | stuk  | 0,27660  |
-| 0G04BDBO  | V  | 22001=17499  | Oxybutynine hcl pch tablet 2,5mg  | 6,00  | stuk  | 0,16596  |
 | 0G04BDBO  | V  | 22148  | Detrusitol tablet omhuld 1mg  | 4,00  | stuk  | 0,24894  |
 | 0G04BDBO  | V  | 22149  | Detrusitol tablet omhuld 2mg  | 2,00  | stuk  | 0,41491  |
 | 0G04BDBO  | V  | 22158  | Oxybutynine hcl nx tablet 2,5mg  | 6,00  | stuk  | 0,16596  |
@@ -4415,7 +4289,6 @@ J.F.Hoogervorst
 | 0G04BDBO  | V  | 29151  | Vesicare tablet filmomhuld 5mg  | 1,00  | stuk  | 0,82981  |
 | 0G04BDBO  | V  | 29152  | Vesicare tablet filmomhuld 10mg  | 0,50  | stuk  | 1,65963  |
 | 0G04BDBO  | V  | 31979  | Oxybutynine hcl sandoz tablet 2,5mg  | 6,00  | stuk  | 0,16596  |
-| 0G04BDBO  | V  | 32849//8322  | Uronid tablet omhuld 200mg  | 4,00  | stuk  | 0,20745  |
 | 0G04BDBO  | V  | 34503//26670  | Detrusitol sr capsule mva 4mg  | 1,00  | stuk  | 0,82981  |
 | 0G04BDBO  | V  | 8322  | Urispas dragee 200mg  | 4,00  | stuk  | 0,20745  |
 | 0G04BDBO  | V  | EU/1/03/270/001  | Kentera pleister transdermaal 36mg  | 0,29  | stuk  | 2,90435  |
@@ -4449,7 +4322,6 @@ J.F.Hoogervorst
 | 0G04CAAO  | V  | 33595  | TAMSULOSINE HCL APOTEX RETARD CAPSULE MGA 0,4MG  | 1,00  | stuk  | 0,96201  |
 | 0G04CAAO  | V  | 34075  | Tamsulosine hcl ranbaxy capsule mga 0,4mg  | 1,00  | stuk  | 0,96201  |
 | 0G04CAAO  | V  | 34555  | Alfuzosine hcl actavis retard tablet mva 10mg  | 0,75  | stuk  | 1,28268  |
-| 0G04CAAO  | V  | 34559//30565  | Omnic ocas tablet mva 0,4mg  | 1,00  | stuk  | 0,96201  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0G04CBAO  | V  | 100233//28317  | Avodart capsule 0,5mg  | 1,00  | stuk  | 1,12371  |
 | 0G04CBAO  | V  | 100349//28317  | Avodart capsule 0,5mg  | 1,00  | stuk  | 1,12371  |
@@ -4463,7 +4335,6 @@ J.F.Hoogervorst
 | 0G04CBAO  | V  | 31577//28317  | Avodart capsule 0,5mg  | 1,00  | stuk  | 1,12371  |
 | 0G04CBAO  | V  | 31778  | Finasteride sandoz tablet filmomhuld 5mg  | 1,00  | stuk  | 1,12371  |
 | 0G04CBAO  | V  | 32039//28317  | Avodart capsule 0,5mg  | 1,00  | stuk  | 1,12371  |
-| 0G04CBAO  | V  | 32403//28317  | Avodart capsule 0,5mg  | 1,00  | stuk  | 1,12371  |
 | 0G04CBAO  | V  | 32468  | Finasteride mylan tablet filmomhuld 5mg  | 1,00  | stuk  | 1,12371  |
 | 0G04CBAO  | V  | 32868//28317  | Avodart capsule 0,5mg  | 1,00  | stuk  | 1,12371  |
 | 0G04CBAO  | V  | 33578  | Finasteride katwijk tablet filmomhuld 5mg  | 1,00  | stuk  | 1,12371  |
@@ -4480,9 +4351,7 @@ J.F.Hoogervorst
 | 0H01ACAP  | K  | 101063//14593  | Zomacton injpdr flacon 4mg + solv 3,5ml + toebeh  | 0,17  | stuk  | 193,80500  |
 | 0H01ACAP  | K  | 101734//15790  | Genotropin injpdr patroon 12mg+cons+solv 1ml  | 0,06  | stuk  | 581,41500  |
 | 0H01ACAP  | K  | 102990  | Zomacton injpdr flacon 10mg + solv 1ml + toebeh  | 0,07  | stuk  | 484,51250  |
-| 0H01ACAP  | K  | 104076//17070  | Humatrope penpatroon injpdr patr 6mg+solv 3,15ml  | 0,11  | stuk  | 290,70750  |
 | 0H01ACAP  | K  | 104077//17071  | Humatrope penpatroon injpdr patr 12mg+solv 3,15ml  | 0,06  | stuk  | 581,41500  |
-| 0H01ACAP  | K  | 104078//17072  | Humatrope penpatroon injpdr patr 24mg+solv 3,15ml  | 0,03  | stuk  | 1.162,83000  |
 | 0H01ACAP  | K  | 14593  | Zomacton injpdr flacon 4mg + solv 3,5ml  | 0,17  | stuk  | 193,80500  |
 | 0H01ACAP  | K  | 15790  | Genotropin injpdr patroon 12mg+cons+solv 1ml  | 0,06  | stuk  | 581,41500  |
 | 0H01ACAP  | K  | 17070  | Humatrope penpatroon injpdr patr 6mg+solv 3,15ml  | 0,11  | stuk  | 290,70750  |
@@ -4495,10 +4364,6 @@ J.F.Hoogervorst
 | 0H01ACAP  | K  | 24224  | Norditropin simplexx injvlst 10mg/patroon 1,5ml  | 0,10  | ml  | 323,00833  |
 | 0H01ACAP  | K  | 24225  | Norditropin simplexx injvlst 15mg/patroon 1,5ml  | 0,07  | ml  | 484,51250  |
 | 0H01ACAP  | K  | 25480  | Genotropin injpdr patroon 5mg + cons+solv 1ml  | 0,13  | stuk  | 242,25625  |
-| 0H01ACAP  | K  | 30048  | Norditropin nordiflex injvlst 5mg/wwsp 1,5ml  | 0,20  | ml  | 161,50417  |
-| 0H01ACAP  | K  | 30049  | Norditropin nordiflex injvlst 10mg/wwsp 1,5ml  | 0,10  | ml  | 323,00833  |
-| 0H01ACAP  | K  | 30050  | Norditropin nordiflex injvlst 15mg/wwsp 1,5ml  | 0,07  | ml  | 484,51250  |
-| 0H01ACAP  | K  | 32861//14593  | Zomacton injpdr flacon 4mg + solv 3,5ml + toebeh  | 0,17  | stuk  | 193,80500  |
 | 0H01ACAP  | K  | 35112//17070  | Humatrope penpatroon injpdr patr 6mg+solv 3,15ml  | 0,11  | stuk  | 290,70750  |
 | 0H01ACAP  | K  | 35113//17071  | Humatrope penpatroon injpdr patr 12mg+solv 3,15ml  | 0,06  | stuk  | 581,41500  |
 | 0H01ACAP  | K  | 35114//17072  | Humatrope penpatroon injpdr patr 24mg+solv 3,15ml  | 0,03  | stuk  | 1.162,83000  |
@@ -4512,7 +4377,6 @@ J.F.Hoogervorst
 | 0H01BAAN  | V  | 13958  | Minrin neusspray 0,1mg/ml spuitbus 5ml  | 2,50  | do  | 0,71389  |
 | 0H01BAAN  | V  | 24110  | Desmopressine sandoz neusspr 10mcg/do flacon 50do  | 2,50  | do  | 0,71389  |
 | 0H01BAAN  | V  | 24278  | Desmopressine actavis neusspr 10mcg/do flac 50do  | 2,50  | do  | 0,71389  |
-| 0H01BAAN  | V  | 27675=24278  | Desmopressine cf neusspray 10mcg/do flacon 50do  | 2,50  | do  | 0,71389  |
 | 0H01BAAN  | V  | 27799=24278  | Desmopressine pch neusspr 10mcg/do flacon 50do  | 2,50  | do  | 0,71389  |
 | 0H01BAAN  | V  | 6684  | Minrin neusdruppels 0,1mg/ml  | 0,25  | ml  | 7,13888  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -4538,8 +4402,6 @@ J.F.Hoogervorst
 | 0H01CABP  | V  | 12069  | Hrf injectiepoeder flacon 0,5 mg + solvens 5ml  | 0,32  | stuk  | 72,53109  |
 | 0H01CABP  | V  | 14875  | Hrf injectiepoeder flacon 1,25mg + solvens 5ml  | 0,13  | stuk  | 181,32773  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0H01CBAP  | V  | 100759//26302  | Somatuline 90 injvlst 300mg/ml wws 0,3ml  | 0,02  | stuk  | 1.625,97507  |
-| 0H01CBAP  | V  | 100760//26303  | Somatuline 120 injvlst 300mg/ml wws 0,4ml  | 0,02  | stuk  | 2.167,96676  |
 | 0H01CBAP  | V  | 18235  | Sandostatine lar injpdr fl 10mg + solv 2ml  | 0,07  | stuk  | 653,44350  |
 | 0H01CBAP  | V  | 18236  | Sandostatine lar injpdr fl 20mg + solv 2ml  | 0,04  | stuk  | 1.089,07250  |
 | 0H01CBAP  | V  | 18237  | Sandostatine lar injpdr fl 30mg + solv 2ml  | 0,02  | stuk  | 1.633,60875  |
@@ -4582,7 +4444,6 @@ J.F.Hoogervorst
 | 0H02ABAO  | V  | 101367//18765  | Entocort capsule mga 3mg  | 3,00  | stuk  | 1,02100  |
 | 0H02ABAO  | V  | 18765  | Entocort capsule mga 3mg  | 3,00  | stuk  | 1,02100  |
 | 0H02ABAO  | V  | 22557  | Budenofalk capsule mga 3mg  | 3,00  | stuk  | 1,02100  |
-| 0H02ABAO  | V  | 31038//18765  | Entocort capsule mga 3mg  | 3,00  | stuk  | 1,02100  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0H02ABAP  | V  | 14871  | Solu cortef injpdr 100mg + 2ml solv in act o vial  | 0,30  | stuk  | 4,47430  |
 | 0H02ABAP  | V  | 55486  | Hydrocortison pch injpdr flacon 100mg +solv 2ml  | 0,30  | stuk  | 4,47430  |
@@ -4681,8 +4542,6 @@ J.F.Hoogervorst
 | 0J01AABO  | V  | 12871  | Doxycycline actavis disper tablet 100mg  | 1,00  | stuk  | 0,59289  |
 | 0J01AABO  | V  | 15344  | Doxy disp pch tablet 100mg  | 1,00  | stuk  | 0,59289  |
 | 0J01AABO  | V  | 16491  | Doxycycline rp dispergeerbaar tablet 100mg  | 1,00  | stuk  | 0,59289  |
-| 0J01AABO  | V  | 18030  | Aknemin capsule 50mg  | 2,00  | stuk  | 0,35574  |
-| 0J01AABO  | V  | 18031  | Aknemin capsule 100mg  | 1,00  | stuk  | 0,59289  |
 | 0J01AABO  | V  | 19009  | Doxycyclinum dispergeerbaar tablet 100mg  | 1,00  | stuk  | 0,59289  |
 | 0J01AABO  | V  | 19484  | Doxycyclinum dispergeerbaar tablet 100mg  | 1,00  | stuk  | 0,59289  |
 | 0J01AABO  | V  | 20361  | Doxycycline sandoz disper tablet 100mg  | 1,00  | stuk  | 0,59289  |
@@ -4709,7 +4568,6 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0J01CAAO  | B  | 14819  | Amoxicilline pch pdr v susp 100mg/ml  | 11,25  | ml  | 0,13210  |
 | 0J01CAAO  | B  | 15156=7467  | Amoxicilline rp poeder voor suspensie 100mg/ml  | 11,25  | ml  | 0,13210  |
-| 0J01CAAO  | B  | 15210  | Amoxicilline cf suikervrij pdr v susp 100mg/ml  | 11,25  | ml  | 0,13210  |
 | 0J01CAAO  | B  | 57301  | Amoxicilline karib suikervrij pdr v susp 100mg/ml  | 11,25  | ml  | 0,13210  |
 | 0J01CAAO  | B  | 7467  | Flemoxin poeder voor suspensie 100mg/ml  | 11,25  | ml  | 0,13210  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -4719,8 +4577,6 @@ J.F.Hoogervorst
 | 0J01CAAO  | K  | 12522  | Amoxicilline rp poeder voor suspensie 250mg/5ml  | 22,50  | ml  | 0,04833  |
 | 0J01CAAO  | K  | 12546  | Flemoxin solutab tablet 125mg  | 9,00  | stuk  | 0,14498  |
 | 0J01CAAO  | K  | 12547  | Flemoxin solutab tablet 250mg  | 4,50  | stuk  | 0,24164  |
-| 0J01CAAO  | K  | 13161  | Amoxicilline cf suikervrij pdr v susp 125mg/5ml  | 45,00  | ml  | 0,02900  |
-| 0J01CAAO  | K  | 13162  | Amoxicilline cf suikervrij pdr v susp 250mg/5ml  | 22,50  | ml  | 0,04833  |
 | 0J01CAAO  | K  | 14812=12518  | Amoxicilline pch capsule 250mg  | 4,50  | stuk  | 0,24164  |
 | 0J01CAAO  | K  | 14820  | Amoxicilline pch poeder voor suspensie 125mg/5ml  | 45,00  | ml  | 0,02900  |
 | 0J01CAAO  | K  | 15434=14778  | Amoxicilline sandoz capsule 250mg  | 4,50  | stuk  | 0,24164  |
@@ -4956,8 +4812,8 @@ J.F.Hoogervorst
 | 0J01DABP  | V  | 29316  | CEFTRIAXON ACTAVIS INJPDR FLACON 1000MG  | 2,00  | stuk  | 20,78320  |
 | 0J01DABP  | V  | 29317  | CEFTRIAXON ACTAVIS INFUSIEPOEDER FLACON 2000MG  | 1,00  | stuk  | 41,56640  |
 | 0J01DABP  | V  | 29324  | Ceftriaxon bipharma injpdr flacon 500mg  | 4,00  | stuk  | 10,39160  |
-| 0J01DABP  | V  | 29325  | Ceftriaxon bipharma injpdr flacon 1000mg  | 2,00  | stuk  | 20,78320  |
-| 0J01DABP  | V  | 29326  | Ceftriaxon bipharma infusiepoeder flacon 2000mg  | 1,00  | stuk  | 41,56640  |
+| 0J01DABP  | V  | 29325  | CEFTRIAXON FOCUS INJPDR FLACON 1000MG  | 2,00  | stuk  | 20,78320  |
+| 0J01DABP  | V  | 29326  | CEFTRIAXON FOCUS INFUSIEPOEDER FLACON 2000MG  | 1,00  | stuk  | 41,56640  |
 | 0J01DABP  | V  | 29391  | Ceftriaxon hikma injpdr flacon 1000mg  | 2,00  | stuk  | 20,78320  |
 | 0J01DABP  | V  | 29392  | Ceftriaxon hikma infpdr flacon 2000mg  | 1,00  | stuk  | 41,56640  |
 | 0J01DABP  | V  | 32695//9917  | Rocephin infusiepoeder flacon 2000mg  | 1,00  | stuk  | 41,56640  |
@@ -5043,7 +4899,6 @@ J.F.Hoogervorst
 | 0J01FAAO  | V  | 102381  | Azitromycine actavis tablet omhuld 250mg  | 1,20  | stuk  | 2,02526  |
 | 0J01FAAO  | V  | 102395  | Azitromycine actavis tablet omhuld 500mg  | 0,60  | stuk  | 4,05052  |
 | 0J01FAAO  | V  | 12459  | Rulide tablet filmomhuld 150mg  | 2,00  | stuk  | 1,21516  |
-| 0J01FAAO  | V  | 14152  | Klacid tablet 250mg  | 2,00  | stuk  | 1,21516  |
 | 0J01FAAO  | V  | 16029  | Rulide tablet filmomhuld 300mg  | 1,00  | stuk  | 2,43031  |
 | 0J01FAAO  | V  | 17902  | Klacid tablet 500mg  | 1,00  | stuk  | 2,43031  |
 | 0J01FAAO  | V  | 1799  | Erythrocine tablet 250mg  | 6,00  | stuk  | 0,48606  |
@@ -5117,7 +4972,6 @@ J.F.Hoogervorst
 | 0J01MAAO  | V  | 100043//21812  | Tavanic tablet omhuld 500mg  | 0,50  | stuk  | 6,11332  |
 | 0J01MAAO  | V  | 102382//21811  | Tavanic tablet omhuld 250mg  | 1,00  | stuk  | 3,05666  |
 | 0J01MAAO  | V  | 102691//28118  | Avelox tablet filmomhuld 400mg  | 1,00  | stuk  | 3,05666  |
-| 0J01MAAO  | V  | 102776//21812  | Tavanic tablet omhuld 500mg  | 0,50  | stuk  | 6,11332  |
 | 0J01MAAO  | V  | 11939  | Tarivid tablet 200mg  | 2,00  | stuk  | 1,52833  |
 | 0J01MAAO  | V  | 12241  | Ciproxin tablet 250mg  | 4,00  | stuk  | 0,91700  |
 | 0J01MAAO  | V  | 12242  | Ciproxin tablet 500mg  | 2,00  | stuk  | 1,52833  |
@@ -5157,8 +5011,6 @@ J.F.Hoogervorst
 | 0J01MAAO  | V  | 28728  | Ofloxacine cf tablet filmomhuld 200mg  | 2,00  | stuk  | 1,52833  |
 | 0J01MAAO  | V  | 28729  | Ofloxacine cf tablet filmomhuld 400mg  | 1,00  | stuk  | 3,05666  |
 | 0J01MAAO  | V  | 28729  | Ofloxacine cf tablet filmomhuld 400mg  | 1,00  | stuk  | 3,05666  |
-| 0J01MAAO  | V  | 28788  | Ofloxacin apex tablet filmomhuld 200mg  | 2,00  | stuk  | 1,52833  |
-| 0J01MAAO  | V  | 28789  | Ofloxacin apex tablet filmomhuld 400mg  | 1,00  | stuk  | 3,05666  |
 | 0J01MAAO  | V  | 28950  | Ofloxacine sandoz tablet filmomhuld 200mg  | 2,00  | stuk  | 1,52833  |
 | 0J01MAAO  | V  | 28951  | Ofloxacine sandoz tablet filmomhuld 400mg  | 1,00  | stuk  | 3,05666  |
 | 0J01MAAO  | V  | 30444  | Ofloxacine rp tablet filmomhuld 200mg  | 2,00  | stuk  | 1,52833  |
@@ -5171,9 +5023,6 @@ J.F.Hoogervorst
 | 0J01MAAP  | V  | 12246  | Ciproxin infusievloeistof 2mg/ml flacon 100ml  | 250,00  | ml  | 0,24779  |
 | 0J01MAAP  | V  | 17111  | Ciproxin infusievloeistof 2mg/ml flacon 200ml  | 250,00  | ml  | 0,24779  |
 | 0J01MAAP  | V  | 29032  | Ciprofloxacine hikma infvlst 2mg/ml  | 250,00  | ml  | 0,24779  |
-| 0J01MAAP  | V  | 30431  | Ciprofloxacine sandoz infvlst 2mg/ml flacon 50ml  | 250,00  | ml  | 0,24779  |
-| 0J01MAAP  | V  | 30432  | Ciprofloxacine sandoz infvlst 2mg/ml flacon 100ml  | 250,00  | ml  | 0,24779  |
-| 0J01MAAP  | V  | 30433  | Ciprofloxacine sandoz infvlst 2mg/ml flacon 200ml  | 250,00  | ml  | 0,24779  |
 | 0J01MAAP  | V  | 30476  | Ciprofloxacine kabi infvlst 2mg/ml zak 50ml  | 250,00  | ml  | 0,24779  |
 | 0J01MAAP  | V  | 30477  | Ciprofloxacine kabi infvlst 2mg/ml zak 100ml  | 250,00  | ml  | 0,24779  |
 | 0J01MAAP  | V  | 30478  | Ciprofloxacine kabi infvlst 2mg/ml zak 200ml  | 250,00  | ml  | 0,24779  |
@@ -5186,7 +5035,6 @@ J.F.Hoogervorst
 | 0J01MABO  | V  | 22824  | Norfloxacine pch tablet 400mg  | 2,00  | stuk  | 0,83722  |
 | 0J01MABO  | V  | 23358  | Norfloxacine rp tablet 400mg  | 2,00  | stuk  | 0,83722  |
 | 0J01MABO  | V  | 24265  | Norfloxacine cf tablet 400mg  | 2,00  | stuk  | 0,83722  |
-| 0J01MABO  | V  | 24786=23358  | Norfloxacine a tablet 400mg  | 2,00  | stuk  | 0,83722  |
 | 0J01MABO  | V  | 25424=22824  | Norfloxacine actavis tablet 400mg  | 2,00  | stuk  | 0,83722  |
 | 0J01MABO  | V  | 26800  | Norfloxacine sandoz tablet 400mg  | 2,00  | stuk  | 0,83722  |
 | 0J01MABO  | V  | 29846  | NORFLOXACINE MYLAN TABLET 400MG  | 2  | STUK  | 0,83722  |
@@ -5231,9 +5079,6 @@ J.F.Hoogervorst
 | 0J02ACAO  | V  | 28558=26692  | Fluconazol rp capsule 50mg  | 4,00  | stuk  | 3,10703  |
 | 0J02ACAO  | V  | 28560=26694  | Fluconazol rp capsule 150mg  | 1,33  | stuk  | 9,32110  |
 | 0J02ACAO  | V  | 28561=26695  | Fluconazol rp capsule 200mg  | 1,00  | stuk  | 12,42813  |
-| 0J02ACAO  | V  | 29203  | Fluconazolum capsule 50mg  | 4,00  | stuk  | 3,10703  |
-| 0J02ACAO  | V  | 29205  | Fluconazolum capsule 150mg  | 1,33  | stuk  | 9,32110  |
-| 0J02ACAO  | V  | 29206  | Fluconazolum capsule 200mg  | 1,00  | stuk  | 12,42813  |
 | 0J02ACAO  | V  | 29221  | Fluconazol a capsule 50mg  | 4,00  | stuk  | 3,10703  |
 | 0J02ACAO  | V  | 29223  | Fluconazol a capsule 150mg  | 1,33  | stuk  | 9,32110  |
 | 0J02ACAO  | V  | 29224  | Fluconazol a capsule 200mg  | 1,00  | stuk  | 12,42813  |
@@ -5296,7 +5141,6 @@ J.F.Hoogervorst
 | 0J05ABAO  | V  | 20657  | Aciclovir actavis disper tablet 400mg  | 10,00  | stuk  | 1,49747  |
 | 0J05ABAO  | V  | 20658  | Aciclovir actavis disper tablet 800mg  | 5,00  | stuk  | 2,99495  |
 | 0J05ABAO  | V  | 21719  | Zelitrex tablet 250mg  | 12,00  | stuk  | 1,49747  |
-| 0J05ABAO  | V  | 23434//18065  | Zelitrex tablet 500mg  | 6,00  | stuk  | 2,49579  |
 | 0J05ABAO  | V  | 28291//18065  | Valaciclovir tablet 500mg  | 6,00  | stuk  | 2,49579  |
 | 0J05ABAO  | V  | 34066  | Famciclovir pch tablet filmomhuld 125mg  | 6,00  | stuk  | 2,49579  |
 | 0J05ABAO  | V  | 34068  | Famciclovir pch tablet filmomhuld 500mg  | 1,50  | stuk  | 9,98316  |
@@ -5414,7 +5258,6 @@ J.F.Hoogervorst
 | 0L01CAAP  | V  | 11431  | Blastivin injvlst 1mg/ml flacon 10ml  | 0,15  | stuk  | 24,95790  |
 | 0L01CAAP  | V  | 11754  | Vinblastinesulfaat teva injpdr fl 10mg + solv 10ml  | 0,15  | stuk  | 24,95790  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0L01CBAO  | V  | 101484//8543  | Vepesid capsule 100mg  | 4,00  | stuk  | 16,77444  |
 | 0L01CBAO  | V  | 10375  | Vepesid capsule 50mg  | 8,00  | stuk  | 8,38722  |
 | 0L01CBAO  | V  | 8543  | Vepesid capsule 100mg  | 4,00  | stuk  | 16,77444  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -5430,11 +5273,9 @@ J.F.Hoogervorst
 | 0L01DBCP  | V  | 28422  | Epirubicine hcl cf injvlst 2mg/ml  | 3,50  | ml  | 5,81928  |
 | 0L01DBCP  | V  | 29410  | Epirubicine hcl pch infvlst 2mg/ml  | 3,50  | ml  | 5,81928  |
 | 0L01DBCP  | V  | 32316  | EPIRUBICINE HCL SANDOZ INFVLST 2MG/ML  | 3,50  | ml  | 5,81928  |
-| 0L01DBCP  | V  | 33726  | Epirubicin hcl mayne injvlst 2mg/ml  | 3,50  | ml  | 5,81928  |
-| 0L01DBCP  | V  | 34886  | Epirubicine hcl actavis injvlst 2mg/ml  | 3,50  | ml  | 5,81928  |
+| 0L01DBCP  | V  | 33726  | EPIRUBICIN HCL HOSPIRA INJVLST 2MG/ML  | 3,50  | ml  | 5,81928  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0L01DCAP  | V  | 20171  | Bleomycine pch injpdr flacon 15u  | 0,43  | stuk  | 46,96625  |
-| 0L01DCAP  | V  | 29640  | Bleomycine injpdr flacon 15u  | 0,43  | stuk  | 46,96625  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0L01DCBP  | V  | 18029  | Mitomycin-c kyowa injectiepoeder flacon 15mg  | 0,29  | stuk  | 64,75895  |
 | 0L01DCBP  | V  | 18987  | Mitomycin-c kyowa injectiepoeder flacon 40mg  | 0,11  | stuk  | 172,69053  |
@@ -5467,7 +5308,6 @@ J.F.Hoogervorst
 | 0L02ABAO  | V  | 11209  | Megace tablet 160mg  | 0,38  | stuk  | 2,86257  |
 | 0L02ABAO  | V  | 12120  | Provera tablet 500mg  | 0,40  | stuk  | 2,68366  |
 | 0L02ABAO  | V  | 15248  | Medroxyprogesteron acetaat pch 100 tablet 100mg  | 2,00  | stuk  | 0,64408  |
-| 0L02ABAO  | V  | 15249  | Medroxyprogesteron acetaat pch 250 tablet 250mg  | 0,80  | stuk  | 1,34183  |
 | 0L02ABAO  | V  | 15250  | Medroxyprogesteron acetaat pch 500 tablet 500mg  | 0,40  | stuk  | 2,68366  |
 | 0L02ABAO  | V  | 15579  | Megestrolacetaat pch tablet 160mg  | 0,38  | stuk  | 2,86257  |
 | 0L02ABAO  | V  | 25360//11209  | Megace tablet 160mg  | 0,38  | stuk  | 2,86257  |
@@ -5489,22 +5329,17 @@ J.F.Hoogervorst
 | 0L02AEADI  | V  | 24326//15927  | Suprefact depot implantatiestift 6,3mg in wwsp  | 0,50  | stuk  | 368,15180  |
 | 0L02AEADI  | V  | 24849//18562  | Zoladex implantatiestift 10,8mg in wwsp  | 0,33  | stuk  | 552,22770  |
 | 0L02AEADI  | V  | 25563//12277  | Zoladex implantatiestift 3,6mg in wwsp  | 1,00  | stuk  | 184,07590  |
-| 0L02AEADI  | V  | 25910//18562  | Zoladex implantatiestift 10,8mg in wwsp  | 0,33  | stuk  | 552,22770  |
 | 0L02AEADI  | V  | 26013//21170  | Suprefact depot 3 mnd implantatiest 9,45mg in wwsp  | 0,33  | stuk  | 552,22770  |
 | 0L02AEADI  | V  | 27471//21170  | Suprefact depot 3 mnd implantatiest 9,45mg in wwsp  | 0,33  | stuk  | 552,22770  |
 | 0L02AEADI  | V  | 27493//21165  | Leuproreline-acetaat dep injpdr fl 11,25mg+sol 2ml  | 0,33  | stuk  | 552,22770  |
-| 0L02AEADI  | V  | 27522//18562  | Zoladex implantatiestift 10,8mg in wwsp  | 0,33  | stuk  | 552,22770  |
 | 0L02AEADI  | V  | 28357//12277  | Zoladex implantatiestift 3,6mg in wwsp  | 1,00  | stuk  | 184,07590  |
 | 0L02AEADI  | V  | 28358//18562  | Zoladex implantatiestift 10,8mg in wwsp  | 0,33  | stuk  | 552,22770  |
 | 0L02AEADI  | V  | 28467//21165  | Leuproreline-acetaat dep injpdr fl 11,25mg+sol 2ml  | 0,33  | stuk  | 552,22770  |
-| 0L02AEADI  | V  | 30547//14351  | Leuproreline-acetaat dep injpdr fl 3,75mg+sol 2ml  | 1,00  | stuk  | 184,07590  |
 | 0L02AEADI  | V  | 31138  | Pamorelin injpdr flacon 11,25mg + solvens 2ml  | 0,33  | stuk  | 552,22770  |
 | 0L02AEADI  | V  | 31668  | Eligard depot 1mnd injpdr wwsp 7,5mg + solvens  | 0,50  | stuk  | 368,15180  |
 | 0L02AEADI  | V  | 31669  | Eligard depot 3mnd injpdr wwsp 22,5mg + solvens  | 0,17  | stuk  | 1.104,45540  |
 | 0L02AEADI  | V  | 32207//12277  | Zoladex implantatiestift 3,6mg in wwsp  | 1,00  | stuk  | 184,07590  |
 | 0L02AEADI  | V  | 33008//12450  | Triptoreline-ac depot injpdr 3,75mg wwsp + sv 1ml  | 1,00  | stuk  | 184,07590  |
-| 0L02AEADI  | V  | 33616//12277  | Zoladex implantatiestift 3,6mg in wwsp  | 1,00  | stuk  | 184,07590  |
-| 0L02AEADI  | V  | 33617//12277  | Zoladex implantatiestift 3,6mg in wwsp  | 1,00  | stuk  | 184,07590  |
 | 0L02AEADI  | V  | 33849  | Pamorelin injpdr flacon 3,75mg + solvens 2ml  | 1,00  | stuk  | 184,07590  |
 | 0L02AEADI  | V  | 33853//12450  | Triptoreline-ac depot injpdr 3,75mg wwsp + sv 1ml  | 1,00  | stuk  | 184,07590  |
 | 0L02AEADI  | V  | 33871//21170  | Suprefact depot 3 mnd implantatiest 9,45mg in wwsp  | 0,33  | stuk  | 552,22770  |
@@ -5560,11 +5395,8 @@ J.F.Hoogervorst
 | 0L02BBAO  | V  | 21826  | Flutamide cf tablet 250mg  | 3,00  | stuk  | 1,81512  |
 | 0L02BBAO  | V  | 23526  | FLUTAMIDE MYLAN TABLET 250MG  | 3,00  | STUK  | 1,81512  |
 | 0L02BBAO  | V  | 23617//18356  | Casodex tablet 50mg  | 1,00  | stuk  | 5,44536  |
-| 0L02BBAO  | V  | 24095  | Flutamide cf tablet 250mg  | 3,00  | stuk  | 1,81512  |
 | 0L02BBAO  | V  | 24280=21826  | Flutamide rp tablet 250mg  | 3,00  | stuk  | 1,81512  |
-| 0L02BBAO  | V  | 26634//18805  | Anandron tablet 150mg  | 1,00  | stuk  | 5,44536  |
 | 0L02BBAO  | V  | 33519  | Bicalutamide sandoz tablet filmomhuld 50mg  | 1,00  | stuk  | 5,44536  |
-| 0L02BBAO  | V  | 33826//18356  | Casodex tablet 50mg  | 1,00  | stuk  | 5,44536  |
 | 0L02BBAO  | V  | 33863  | Bicalutamide mylan tablet filmomhuld 50mg  | 1,00  | stuk  | 5,44536  |
 | 0L02BBAO  | V  | 34467  | Bicalutamide pch tablet filmomhuld 50mg  | 1,00  | stuk  | 5,44536  |
 | 0L02BBAO  | V  | 34468  | Bicalutamide pch tablet filmomhuld 150mg  | 0,33  | stuk  | 16,33609  |
@@ -5575,14 +5407,12 @@ J.F.Hoogervorst
 | 0L02BBAO  | V  | 35020  | BICALUTAMIDE APOTEX TABLET 50MG  | 1,00  | stuk  | 5,44536  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0L02BGAO  | V  | 100629//20755  | Femara tablet omhuld 2,5mg  | 1,00  | stuk  | 4,71931  |
-| 0L02BGAO  | V  | 101379//24443  | Aromasin tablet omhuld 25mg  | 1,00  | stuk  | 4,71931  |
 | 0L02BGAO  | V  | 19123  | Arimidex tablet filmomhuld 1mg  | 1,00  | stuk  | 4,71931  |
 | 0L02BGAO  | V  | 20755  | Femara tablet omhuld 2,5mg  | 1,00  | stuk  | 4,71931  |
 | 0L02BGAO  | V  | 24443  | Aromasin tablet omhuld 25mg  | 1,00  | stuk  | 4,71931  |
 | 0L02BGAO  | V  | 30038//24443  | Aromasin tablet omhuld 25mg  | 1,00  | stuk  | 4,71931  |
 | 0L02BGAO  | V  | 30618//24443  | Aromasin tablet omhuld 25mg  | 1,00  | stuk  | 4,71931  |
 | 0L02BGAO  | V  | 31804//19123  | Arimidex tablet filmomhuld 1mg  | 1,00  | stuk  | 4,71931  |
-| 0L02BGAO  | V  | 32132//19123  | Arimidex tablet filmomhuld 1mg  | 1,00  | stuk  | 4,71931  |
 | 0L02BGAO  | V  | 32404//24443  | Aromasin tablet omhuld 25mg  | 1,00  | stuk  | 4,71931  |
 | 0L02BGAO  | V  | 33067//20755  | Femara tablet omhuld 2,5mg  | 1,00  | stuk  | 4,71931  |
 | 0L02BGAO  | V  | 35073//24443  | Aromasin tablet omhuld 25mg  | 1,00  | stuk  | 4,71931  |
@@ -5593,7 +5423,6 @@ J.F.Hoogervorst
 | 0L03AABP  | V  | 24158  | Roferon-a easyj 9 injvlst 18milj ie/ml wws 0,5ml  | 0,08  | stuk  | 174,93240  |
 | 0L03AABP  | V  | 25052  | Roferon-a injvlst 30milj ie/ml patroon 0,6ml  | 0,05  | ml  | 291,55400  |
 | 0L03AABP  | V  | 26863  | Roferon-a easyj 18 injvlst 36milj ie/ml wws 0,5ml  | 0,04  | ml  | 349,86480  |
-| 0L03AABP  | V  | 32843//24155  | Roferon-a easyj 3 injvlst 6milj ie/ml wws 0,5ml  | 0,24  | ml  | 58,31080  |
 | 0L03AABP  | V  | EU/1/98/087/002  | Infergen injvlst 30mcg/ml flacon 0,3ml+toebehoren  | 0,13  | ml  | 107,93541  |
 | 0L03AABP  | V  | EU/1/98/087/003  | Infergen injvlst 30mcg/ml flacon 0,3ml+toebehoren  | 0,13  | ml  | 107,93541  |
 | 0L03AABP  | V  | EU/1/99/127/002  | Introna injpdr fl 3.000.000ie + solv 1ml + toebeh  | 0,48  | stuk  | 29,15540  |
@@ -5636,10 +5465,7 @@ J.F.Hoogervorst
 | 0L03AADP  | V  | EU/1/02/221/007  | Pegasys 180 injvlst 360mcg/ml wwsp 0,5ml  | 0,07  | ml  | 384,58302  |
 | 0L03AADP  | V  | EU/1/02/221/008  | Pegasys 180 injvlst 360mcg/ml wwsp 0,5ml  | 0,07  | ml  | 384,58302  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0L04AAAO  | V  | 100743//17496  | Neoral capsule 100mg  | 3,00  | stuk  | 3,93110  |
 | 0L04AAAO  | V  | 101552//17495  | Neoral capsule 25mg  | 12,00  | stuk  | 1,57244  |
-| 0L04AAAO  | V  | 103877//17495  | Neoral capsule 25mg  | 12,00  | stuk  | 1,57244  |
-| 0L04AAAO  | V  | 103878//17496  | Neoral capsule 100mg  | 3,00  | stuk  | 3,93110  |
 | 0L04AAAO  | V  | 17495  | Neoral capsule 25mg  | 12,00  | stuk  | 1,57244  |
 | 0L04AAAO  | V  | 17496  | Neoral capsule 100mg  | 3,00  | stuk  | 3,93110  |
 | 0L04AAAO  | V  | 17497  | Neoral drank 100mg/ml  | 3,00  | ml  | 3,93110  |
@@ -5652,23 +5478,16 @@ J.F.Hoogervorst
 | 0L04AAAO  | V  | 23260  | Ciclosporinum capsule 25mg  | 12,00  | stuk  | 1,57244  |
 | 0L04AAAO  | V  | 23261  | Ciclosporinum capsule 50mg  | 6,00  | stuk  | 1,96555  |
 | 0L04AAAO  | V  | 23263  | Ciclosporinum drank 100mg/ml  | 3,00  | ml  | 3,93110  |
-| 0L04AAAO  | V  | 23661//17495  | Neoral capsule 25mg  | 12,00  | stuk  | 1,57244  |
-| 0L04AAAO  | V  | 23662//17496  | Neoral capsule 100mg  | 3,00  | stuk  | 3,93110  |
 | 0L04AAAO  | V  | 24645//17496  | Neoral capsule 100mg  | 3,00  | stuk  | 3,93110  |
 | 0L04AAAO  | V  | 24838//17495  | Neoral capsule 25mg  | 12,00  | stuk  | 1,57244  |
 | 0L04AAAO  | V  | 24839//17496  | Neoral capsule 100mg  | 3,00  | stuk  | 3,93110  |
-| 0L04AAAO  | V  | 24894//17496  | Neoral capsule 100mg  | 3,00  | stuk  | 3,93110  |
-| 0L04AAAO  | V  | 27028//17495  | Neoral capsule 25mg  | 12,00  | stuk  | 1,57244  |
 | 0L04AAAO  | V  | 27834//17496  | Neoral capsule 100mg  | 3,00  | stuk  | 3,93110  |
 | 0L04AAAO  | V  | 32211//17495  | Neoral capsule 25mg  | 12,00  | stuk  | 1,57244  |
 | 0L04AAAO  | V  | 32212//17496  | Neoral capsule 100mg  | 3,00  | stuk  | 3,93110  |
-| 0L04AAAO  | V  | 33511//17495  | Neoral capsule 25mg  | 12,00  | stuk  | 1,57244  |
 | 0L04AAAO  | V  | 34484//17495  | Neoral capsule 25mg  | 12,00  | stuk  | 1,57244  |
 | 0L04AAAO  | V  | 34485//17496  | Neoral capsule 100mg  | 3,00  | stuk  | 3,93110  |
 | 0L04AAAO  | V  | 34542//17495  | Neoral capsule 25mg  | 12,00  | stuk  | 1,57244  |
 | 0L04AAAO  | V  | 34543//17496  | Neoral capsule 100mg  | 3,00  | stuk  | 3,93110  |
-| 0L04AAAO  | V  | 34977//17495  | Neoral capsule 25mg  | 12,00  | stuk  | 1,57244  |
-| 0L04AAAO  | V  | 34978//17496  | Neoral capsule 100mg  | 3,00  | stuk  | 3,93110  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0L04AAAP  | V  | EU/1/03/256/003  | Humira 40 injvlst 50mg/ml wwsp 0,8ml  | 0,07  | stuk  | 543,28418  |
 | 0L04AAAP  | V  | EU/1/03/256/008  | Humira 40 injvlst 50mg/ml pen 0,8ml  | 0,07  | stuk  | 543,28418  |
@@ -5716,7 +5535,6 @@ J.F.Hoogervorst
 | 0L04AADO  | V  | 31056//22236  | Prograf capsule 0,5mg  | 10,00  | stuk  | 1,70955  |
 | 0L04AADO  | V  | 32536//18108  | Prograf capsule 5mg  | 1,00  | stuk  | 14,24625  |
 | 0L04AADO  | V  | 32856//18108  | Prograf capsule 5mg  | 1,00  | stuk  | 14,24625  |
-| 0L04AADO  | V  | 33231//22236  | Prograf capsule 0,5mg  | 10,00  | stuk  | 1,70955  |
 | 0L04AADO  | V  | 33232//18108  | Prograf capsule 5mg  | 1,00  | stuk  | 14,24625  |
 | 0L04AADO  | V  | 33537//18107  | Prograf capsule 1mg  | 5,00  | stuk  | 2,84925  |
 | 0L04AADO  | V  | 34285//22236  | Prograf capsule 0,5mg  | 10,00  | stuk  | 1,70955  |
@@ -5745,7 +5563,6 @@ J.F.Hoogervorst
 | 0L04AXAO  | V  | 27563  | Azathioprine sandoz tablet 50mg  | 3,00  | stuk  | 0,56087  |
 | 0L04AXAO  | V  | 32566  | Azathioprine a tablet 50mg  | 3,00  | stuk  | 0,56087  |
 | 0L04AXAO  | V  | 32650//5565  | Imuran tablet 50mg  | 3,00  | stuk  | 0,56087  |
-| 0L04AXAO  | V  | 34376//5565  | Imuran tablet 50mg  | 3,00  | stuk  | 0,56087  |
 | 0L04AXAO  | V  | 5565  | Imuran tablet 50mg  | 3,00  | stuk  | 0,56087  |
 | 0L04AXAO  | V  | 56764  | Azathioprine cf tablet 50mg  | 3,00  | stuk  | 0,56087  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -5772,7 +5589,6 @@ J.F.Hoogervorst
 | 0M01AHBO  | V  | 102477//27707  | Arcoxia tablet filmomhuld 120mg  | 0,50  | stuk  | 2,26376  |
 | 0M01AHBO  | V  | 102783//27705  | Arcoxia tablet filmomhuld 60mg  | 1,00  | stuk  | 1,13188  |
 | 0M01AHBO  | V  | 102784//27706  | Arcoxia tablet filmomhuld 90mg  | 0,67  | stuk  | 1,69782  |
-| 0M01AHBO  | V  | 102785//27707  | Arcoxia tablet filmomhuld 120mg  | 0,50  | stuk  | 2,26376  |
 | 0M01AHBO  | V  | 103107//27707  | Arcoxia tablet filmomhuld 120mg  | 0,50  | stuk  | 2,26376  |
 | 0M01AHBO  | V  | 25053  | Celebrex capsule 100mg  | 2,00  | stuk  | 0,67913  |
 | 0M01AHBO  | V  | 25054  | Celebrex capsule 200mg  | 1,00  | stuk  | 1,13188  |
@@ -5790,7 +5606,6 @@ J.F.Hoogervorst
 | 0M01AHBO  | V  | 32299//25054  | Celebrex capsule 200mg  | 1,00  | stuk  | 1,13188  |
 | 0M01AHBO  | V  | 33830//27705  | Etoricoxib erc tablet filmomhuld 60mg  | 1,00  | stuk  | 1,13188  |
 | 0M01AHBO  | V  | 33831//27706  | Etoricoxib erc tablet filmomhuld 90mg  | 0,67  | stuk  | 1,69782  |
-| 0M01AHBO  | V  | 33832//27707  | Etoricoxib erc tablet filmomhuld 120mg  | 0,50  | stuk  | 2,26376  |
 | 0M01AHBO  | V  | 33894  | Prexige tablet filmomhuld 100mg  | 1,00  | stuk  | 1,13188  |
 | 0M01AHBO  | V  | 34272//25054  | Celebrex capsule 200mg  | 1,00  | stuk  | 1,13188  |
 | 0M01AHBO  | V  | 34279  | Arcoxia tablet filmomhuld 30mg  | 2,00  | stuk  | 0,67913  |
@@ -5850,7 +5665,6 @@ J.F.Hoogervorst
 | 0M05BAAO  | V  | 18051  | Ostac tablet 520mg  | 3,08  | stuk  | 2,66366  |
 | 0M05BAAO  | V  | 20245  | Bonefos tablet 800mg  | 2,00  | stuk  | 4,09794  |
 | 0M05BAAO  | V  | 24990  | Actonel tablet filmomhuld 30mg  | 1,00  | stuk  | 8,19588  |
-| 0M05BAAO  | V  | 26005//13881  | Bonefos capsule 400mg  | 4,00  | stuk  | 2,17191  |
 | 0M05BAAO  | V  | EU/1/96/012/009  | Bondronat tablet filmomhuld 50mg  | 1,00  | stuk  | 8,19588  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0M05BAAP  | V  | 13412  | Ostac infusievloeistof conc 30mg/ml ampul 10ml  | 50,00  | ml  | 2,15455  |
@@ -5859,36 +5673,25 @@ J.F.Hoogervorst
 | 0M05BABO  | V  | 100473  | Alendroninezuur accord tablet 10mg  | 1,00  | stuk  | 1,22521  |
 | 0M05BABO  | V  | 100474  | Alendroninezuur accord tablet 70mg  | 0,14  | stuk  | 8,57645  |
 | 0M05BABO  | V  | 100522//28338  | Actonel wekelijks tablet filmomhuld 35mg  | 0,14  | stuk  | 8,57645  |
-| 0M05BABO  | V  | 102288//28338  | Actonel wekelijks tablet filmomhuld 35mg  | 0,14  | stuk  | 8,57645  |
-| 0M05BABO  | V  | 102782//25801  | Actonel tablet filmomhuld 5mg  | 1,00  | stuk  | 1,22521  |
 | 0M05BABO  | V  | 103513//28338  | Actonel wekelijks tablet filmomhuld 35mg  | 0,14  | stuk  | 8,57645  |
-| 0M05BABO  | V  | 103932//34632  | Actonel tablet filmomhuld 75mg  | 0,07  | stuk  | 18,37810  |
-| 0M05BABO  | V  | 104594//28338  | Actonel wekelijks tablet filmomhuld 35mg  | 0,14  | stuk  | 8,57645  |
 | 0M05BABO  | V  | 104605//34632  | Actonel tablet filmomhuld 75mg  | 0,07  | stuk  | 18,37810  |
 | 0M05BABO  | V  | 18021  | Fosamax tablet 10mg  | 1,00  | stuk  | 1,22521  |
 | 0M05BABO  | V  | 25801  | Actonel tablet filmomhuld 5mg  | 1,00  | stuk  | 1,22521  |
 | 0M05BABO  | V  | 26202  | Fosamax tablet 70mg  | 0,14  | stuk  | 8,57645  |
 | 0M05BABO  | V  | 28338  | Actonel wekelijks tablet filmomhuld 35mg  | 0,14  | stuk  | 8,57645  |
 | 0M05BABO  | V  | 29116//25801  | Actonel tablet filmomhuld 5mg  | 1,00  | stuk  | 1,22521  |
-| 0M05BABO  | V  | 29401//25801  | Actonel tablet filmomhuld 5mg  | 1,00  | stuk  | 1,22521  |
 | 0M05BABO  | V  | 30222  | Alendroninezuur sandoz tablet 10mg  | 1,00  | stuk  | 1,22521  |
 | 0M05BABO  | V  | 30269  | Alendroninezuur mylan tablet 10mg  | 1,00  | stuk  | 1,22521  |
 | 0M05BABO  | V  | 30270  | Alendroninezuur mylan tablet 70mg  | 0,14  | stuk  | 8,57645  |
-| 0M05BABO  | V  | 30518//28338  | Actonel wekelijks tablet filmomhuld 35mg  | 0,14  | stuk  | 8,57645  |
 | 0M05BABO  | V  | 31768  | Alendroninezuur pch tablet 10mg  | 1,00  | stuk  | 1,22521  |
 | 0M05BABO  | V  | 31896  | Alendroninezuur actavis tablet 70mg  | 0,14  | stuk  | 8,57645  |
 | 0M05BABO  | V  | 32291  | Alendroninezuur rp tablet 70mg  | 0,14  | stuk  | 8,57645  |
 | 0M05BABO  | V  | 32307  | Alendroninezuur cf tablet 70mg  | 0,14  | stuk  | 8,57645  |
 | 0M05BABO  | V  | 32960  | Alendroninezuur pch tablet 70mg  | 0,14  | stuk  | 8,57645  |
 | 0M05BABO  | V  | 33160  | Alendroninezuur cf tablet 10mg  | 1,00  | stuk  | 1,22521  |
-| 0M05BABO  | V  | 33398  | Alendroninezuur sandoz tablet 70mg  | 0,14  | stuk  | 8,57645  |
 | 0M05BABO  | V  | 33920  | Alendroninezuur ranbaxy tablet 70mg  | 0,14  | stuk  | 8,57645  |
 | 0M05BABO  | V  | 34032  | Alendroninezuur a tablet 70mg  | 0,14  | stuk  | 8,57645  |
-| 0M05BABO  | V  | 34502//28338  | Actonel wekelijks tablet filmomhuld 35mg  | 0,14  | stuk  | 8,57645  |
-| 0M05BABO  | V  | 34619//28338  | Natriumrisedronaat wekelijks tablet filmomh 35mg  | 0,14  | stuk  | 8,57645  |
 | 0M05BABO  | V  | 34632  | Actonel tablet filmomhuld 75mg  | 0,07  | stuk  | 18,37810  |
-| 0M05BABO  | V  | 34962//28338  | Actonel wekelijks tablet filmomhuld 35mg  | 0,14  | stuk  | 8,57645  |
-| 0M05BABO  | V  | 35222//28338  | Actonel wekelijks tablet filmomhuld 35mg  | 0,14  | stuk  | 8,57645  |
 | 0M05BABO  | V  | EU/1/03/265/003  | Bonviva tablet filmomhuld 150mg  | 0,03  | stuk  | 36,75620  |
 | 0M05BABO  | V  | EU/1/03/265/004  | Bonviva tablet filmomhuld 150mg  | 0,03  | stuk  | 36,75620  |
 | 0M05BABO  | V  | EU/1/05/310/002  | Fosavance tablet 70mg/2800ie  | 0,14  | stuk  | 8,57645  |
@@ -5913,10 +5716,6 @@ J.F.Hoogervorst
 | 0N02AAAO  | V  | 11207  | Ms contin tablet mga 60mg  | 1,67  | stuk  | 1,24820  |
 | 0N02AAAO  | V  | 11208  | Ms contin tablet mga 100mg  | 1,00  | stuk  | 2,08033  |
 | 0N02AAAO  | V  | 15376  | Ms contin tablet mga 200mg  | 0,50  | stuk  | 4,16067  |
-| 0N02AAAO  | V  | 15978  | Skenan sr capsule mga 10mg  | 10,00  | stuk  | 0,29125  |
-| 0N02AAAO  | V  | 15979  | Skenan sr capsule mga 30mg  | 3,33  | stuk  | 0,62410  |
-| 0N02AAAO  | V  | 15980  | Skenan sr capsule mga 60mg  | 1,67  | stuk  | 1,24820  |
-| 0N02AAAO  | V  | 15981  | Skenan sr capsule mga 100mg  | 1,00  | stuk  | 2,08033  |
 | 0N02AAAO  | V  | 16674  | Ms contin tablet mga 15mg  | 6,67  | stuk  | 0,31205  |
 | 0N02AAAO  | V  | 17210  | Kapanol capsule mga 20mg  | 5,00  | stuk  | 0,41607  |
 | 0N02AAAO  | V  | 17211  | Kapanol capsule mga 50mg  | 2,00  | stuk  | 1,04017  |
@@ -6095,17 +5894,10 @@ J.F.Hoogervorst
 | 0N02CADR  | V  | 32015//566  | Cafergot zetpil 2mg  | 2,00  | stuk  | 0,32427  |
 | 0N02CADR  | V  | 566  | Cafergot zetpil 2mg  | 2,00  | stuk  | 0,32427  |
 | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- |
 | 0N02CCAO  | V  | 100169//26579  | Relpax tablet filmomhuld 40mg  | 1,00  | stuk  | 6,21227  |
-| 0N02CCAO  | V  | 100235//31917  | Zomig tablet omhuld 2,5mg  | 1,00  | stuk  | 6,21227  |
-| 0N02CCAO  | V  | 100237//31919  | Zomig zip smelttablet 2,5mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 100614//31917  | Zomig tablet omhuld 2,5mg  | 1,00  | stuk  | 6,21227  |
-| 0N02CCAO  | V  | 102435//26579  | Relpax tablet filmomhuld 40mg  | 1,00  | stuk  | 6,21227  |
-| 0N02CCAO  | V  | 103307//21816  | Maxalt tablet 10mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 103688//21815  | Maxalt tablet 5mg  | 2,00  | stuk  | 3,72736  |
 | 0N02CCAO  | V  | 103692//21816  | Maxalt tablet 10mg  | 1,00  | stuk  | 6,21227  |
-| 0N02CCAO  | V  | 104337//21816  | Maxalt tablet 10mg  | 1,00  | stuk  | 6,21227  |
-| 0N02CCAO  | V  | 104338//21818  | Maxalt smelttablet 10mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 15010  | Imigran tablet 100mg  | 0,50  | stuk  | 12,42453  |
 | 0N02CCAO  | V  | 17275  | Imigran tablet 50mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 21079  | Zomig tablet omhuld 2,5mg  | 1,00  | stuk  | 6,21227  |
@@ -6121,7 +5913,6 @@ J.F.Hoogervorst
 | 0N02CCAO  | V  | 24993//21079  | Zomig tablet omhuld 2,5mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 24993//31917  | Zomig tablet omhuld 2,5mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 25415  | Almogran tablet omhuld 12,5mg  | 1,00  | stuk  | 6,21227  |
-| 0N02CCAO  | V  | 25562//21444  | Naramig tablet omhuld 2,5mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 26255//24057  | Zomig oro smelttablet 2,5mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 26255//31919  | Zomig zip smelttablet 2,5mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 26578  | Relpax tablet filmomhuld 20mg  | 2,00  | stuk  | 3,72736  |
@@ -6131,17 +5922,13 @@ J.F.Hoogervorst
 | 0N02CCAO  | V  | 27907//21444  | Naramig tablet omhuld 2,5mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 28186//24057  | Zomig oro smelttablet 2,5mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 28186//31919  | ZOMIG ORO ORODISP TABLET 2,5MG  | 1,00  | stuk  | 6,21227  |
-| 0N02CCAO  | V  | 28353//21444  | Naramig tablet omhuld 2,5mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 28701//24057  | Zomig oro smelttablet 2,5mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 28701//31919  | Zomig oro orodisp tablet 2,5mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 29125//26579  | Relpax tablet filmomhuld 40mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 29413  | Imigran ftab dispergeerbare tablet 50mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 29414  | Imigran ftab dispergeerbare tablet 100mg  | 0,50  | stuk  | 12,42453  |
 | 0N02CCAO  | V  | 29573//26579  | Relpax tablet filmomhuld 40mg  | 1,00  | stuk  | 6,21227  |
-| 0N02CCAO  | V  | 29575//25415  | Almogran tablet omhuld 12,5mg  | 1,00  | stuk  | 6,21227  |
-| 0N02CCAO  | V  | 29579//21818  | Maxalt smelttablet 10mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 29836//21818  | Maxalt smelttablet 10mg  | 1,00  | stuk  | 6,21227  |
-| 0N02CCAO  | V  | 29837//21816  | Maxalt tablet 10mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 29872//25415  | Almogran tablet omhuld 12,5mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 30378//21818  | Maxalt smelttablet 10mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 30622  | SUMATRIPTAN MYLAN TABLET OMHULD 50MG  | 1,00  | STUK  | 6,21227  |
@@ -6149,7 +5936,6 @@ J.F.Hoogervorst
 | 0N02CCAO  | V  | 31076  | Sumatriptan sandoz tablet omhuld 50mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 31077  | Sumatriptan sandoz tablet omhuld 100mg  | 0,50  | stuk  | 12,42453  |
 | 0N02CCAO  | V  | 31743//24057  | Zomig zip smelttablet 2,5mg  | 1,00  | stuk  | 6,21227  |
-| 0N02CCAO  | V  | 31743//31919  | ZOMIG ZIP ORODISP TABLET 2,5MG  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 31861//21818  | Maxalt smelttablet 10mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 31899  | Sumatriptan pch tablet omhuld 50mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 31900  | Sumatriptan pch tablet omhuld 100mg  | 0,50  | stuk  | 12,42453  |
@@ -6171,7 +5957,6 @@ J.F.Hoogervorst
 | 0N02CCAO  | V  | 33697  | Sumatriptan a tablet 100mg  | 0,50  | stuk  | 12,42453  |
 | 0N02CCAO  | V  | 33718  | Sumatriptan cf tablet 50mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 33719  | Sumatriptan cf tablet 100mg  | 0,50  | stuk  | 12,42453  |
-| 0N02CCAO  | V  | 34447//21444  | Naramig tablet omhuld 2,5mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 34979  | Sumatriptan aurobindo tablet 50mg  | 1,00  | stuk  | 6,21227  |
 | 0N02CCAO  | V  | 34980  | Sumatriptan aurobindo tablet 100mg  | 0,50  | stuk  | 12,42453  |
 | 0N02CCAO  | V  | 35090  | Sumatriptan actavis tablet omhuld 100mg  | 0,50  | stuk  | 12,42453  |
@@ -6235,7 +6020,6 @@ J.F.Hoogervorst
 | 0N03AFCO  | V  | 10781  | Carbymal tablet 400mg  | 2,50  | stuk  | 0,21479  |
 | 0N03AFCO  | V  | 11401  | Tegretol tablet 100mg  | 10,00  | stuk  | 0,08592  |
 | 0N03AFCO  | V  | 11735  | Carbamazepine rp tablet 200mg  | 5,00  | stuk  | 0,10740  |
-| 0N03AFCO  | V  | 17109  | Carbamazepine actavis tablet 200mg  | 5,00  | stuk  | 0,10740  |
 | 0N03AFCO  | V  | 24266  | Carbamazepine sandoz tablet 100mg  | 10,00  | stuk  | 0,08592  |
 | 0N03AFCO  | V  | 24267  | Carbamazepine sandoz tablet 200mg  | 5,00  | stuk  | 0,10740  |
 | 0N03AFCO  | V  | 24301=11735  | Carbamazepine mylan tablet 200mg  | 5,00  | stuk  | 0,10740  |
@@ -6250,7 +6034,6 @@ J.F.Hoogervorst
 | 0N03AGAO  | K  | 22731=55567  | Propymal drank 300mg/5ml  | 25,00  | ml  | 0,04719  |
 | 0N03AGAO  | K  | 55567  | NATRIUMVALPROAAT APOTEX DRANK 60MG/ML  | 25,00  | ml  | 0,04719  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0N03AGAO  | V  | 103111//30763  | Depakine chronosphere granulaat mga 1000mg in sach  | 1,50  | stuk  | 0,53092  |
 | 0N03AGAO  | V  | 11775  | Depakine chrono tablet mga 500mg  | 3,00  | stuk  | 0,26546  |
 | 0N03AGAO  | V  | 13157  | Depakine chrono tablet mga 300mg  | 5,00  | stuk  | 0,15928  |
 | 0N03AGAO  | V  | 14911=7476  | Natriumvalproaat pch tablet msr 500mg  | 3,00  | stuk  | 0,26546  |
@@ -6277,8 +6060,6 @@ J.F.Hoogervorst
 | 0N03AGAO  | V  | 30761  | Depakine chronosphere granulaat mga 500mg in sach  | 3,00  | stuk  | 0,26546  |
 | 0N03AGAO  | V  | 30762  | Depakine chronosphere granulaat mga 750mg in sach  | 2,00  | stuk  | 0,39819  |
 | 0N03AGAO  | V  | 30763  | Depakine chronosphere granulaat mga 1000mg in sach  | 1,50  | stuk  | 0,53092  |
-| 0N03AGAO  | V  | 30992//11775  | Depakine chrono tablet mga 500mg  | 3,00  | stuk  | 0,26546  |
-| 0N03AGAO  | V  | 32193//11775  | Depakine chrono tablet mga 500mg  | 3,00  | stuk  | 0,26546  |
 | 0N03AGAO  | V  | 33299  | Natriumvalproaat sandoz chrono tablet mva 300mg  | 5,00  | stuk  | 0,15928  |
 | 0N03AGAO  | V  | 33300  | Natriumvalproaat sandoz chrono tablet mva 500mg  | 3,00  | stuk  | 0,26546  |
 | 0N03AGAO  | V  | 33979  | Natriumvalproaat rp chrono tabl mva 300mg(zuur+na)  | 5,00  | stuk  | 0,15928  |
@@ -6451,7 +6232,6 @@ J.F.Hoogervorst
 | 0N04BAAO  | V  | 30654  | Levodopa/carbidopa rp 125 ret tablet mga 100/25mg  | 6,00  | stuk  | 0,18944  |
 | 0N04BAAO  | V  | 30655  | Levodopa/carbidopa rp 250 ret tablet mga 200/50mg  | 3,00  | stuk  | 0,37886  |
 | 0N04BAAO  | V  | 32051//11605  | Madopar tablet 250mg  | 3,00  | stuk  | 0,37886  |
-| 0N04BAAO  | V  | 32458//12489  | Madopar hbs capsule mga 125mg  | 6,00  | stuk  | 0,18944  |
 | 0N04BAAO  | V  | 6706  | Sinemet 110 tablet 100/10mg  | 6,00  | stuk  | 0,18943  |
 | 0N04BAAO  | V  | 6707  | Sinemet 275 tablet 250/25mg  | 2,40  | stuk  | 0,47358  |
 | 0N04BAAO  | V  | 8475  | Madopar capsule 62,5mg  | 12,00  | stuk  | 0,11366  |
@@ -6489,7 +6269,6 @@ J.F.Hoogervorst
 | 0N04BCAO  | V  | 30725  | Pergolide merck tablet 0,25mg  | 12,00  | stuk  | 0,32627  |
 | 0N04BCAO  | V  | 30726  | Pergolide merck tablet 1mg  | 3,00  | stuk  | 1,30507  |
 | 0N04BCAO  | V  | 30820  | Pergolide pch tablet 0,25mg  | 12,00  | stuk  | 0,32627  |
-| 0N04BCAO  | V  | 30821  | Pergolide pch tablet 0,05mg  | 60,00  | stuk  | 0,31322  |
 | 0N04BCAO  | V  | 30822  | Pergolide pch tablet 1mg  | 3,00  | stuk  | 1,30507  |
 | 0N04BCAO  | V  | 31670  | Adartrel startverpakking tablet filmomhuld 0,25mg  | 24,00  | stuk  | 0,39152  |
 | 0N04BCAO  | V  | 31671  | Adartrel tablet filmomhuld 0,5mg  | 12,00  | stuk  | 0,32627  |
@@ -6651,7 +6430,6 @@ J.F.Hoogervorst
 | 0N05BAAO  | V  | 51901  | Diazepamum tablet 2mg  | 5,00  | stuk  | 0,04840  |
 | 0N05BAAO  | V  | 51902  | Diazepamum tablet 5mg  | 2,00  | stuk  | 0,12101  |
 | 0N05BAAO  | V  | 51903  | Diazepamum tablet 10mg  | 1,00  | stuk  | 0,24201  |
-| 0N05BAAO  | V  | 51907  | Oxazepamum tablet 10mg  | 5,00  | stuk  | 0,04840  |
 | 0N05BAAO  | V  | 51908  | Oxazepamum tablet 50mg  | 1,00  | stuk  | 0,24201  |
 | 0N05BAAO  | V  | 52640  | Diazepam rp tablet 2mg  | 5,00  | stuk  | 0,04840  |
 | 0N05BAAO  | V  | 52641  | Diazepam rp tablet 5mg  | 2,00  | stuk  | 0,12101  |
@@ -6897,8 +6675,6 @@ J.F.Hoogervorst
 | 0N07CAAO  | V  | 20445=13612  | Betahistine 2hcl a tablet 16mg  | 1,50  | stuk  | 0,25684  |
 | 0N07CAAO  | V  | 22471  | Betahistine dihcl actavis tablet 8mg  | 3,00  | stuk  | 0,12842  |
 | 0N07CAAO  | V  | 22472  | Betahistine dihcl actavis tablet 16mg  | 1,50  | stuk  | 0,25684  |
-| 0N07CAAO  | V  | 22552  | Betahistine 2hcl sandoz tablet 8mg  | 3,00  | stuk  | 0,12842  |
-| 0N07CAAO  | V  | 22553  | Betahistine 2hcl sandoz tablet 16mg  | 1,50  | stuk  | 0,25684  |
 | 0N07CAAO  | V  | 23156  | Betahistine 2hcl sandoz tablet 8mg  | 3,00  | stuk  | 0,12842  |
 | 0N07CAAO  | V  | 23157  | Betahistine 2hcl sandoz tablet 16mg  | 1,50  | stuk  | 0,25684  |
 | 0N07CAAO  | V  | 23233  | Betahistine 2hcl rp tablet 8mg  | 3,00  | stuk  | 0,12842  |
@@ -6924,8 +6700,6 @@ J.F.Hoogervorst
 | 0N07CABO  | V  | 17318  | Flunarizinum capsule 10mg  | 1,00  | stuk  | 0,33126  |
 | 0N07CABO  | V  | 19701  | Flunarizine rp capsule 5mg  | 2,00  | stuk  | 0,16563  |
 | 0N07CABO  | V  | 27606=56977  | Flunarizine actavis capsule 5mg  | 2,00  | stuk  | 0,16563  |
-| 0N07CABO  | V  | 28182=17317  | Flunarizine pch capsule 5mg  | 2,00  | stuk  | 0,16563  |
-| 0N07CABO  | V  | 56773  | Flunarizine pch capsule 5mg  | 2,00  | stuk  | 0,16563  |
 | 0N07CABO  | V  | 56977  | Flunarizine cf capsule 5mg  | 2,00  | stuk  | 0,16563  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0P01ABAO  | V  | 11478  | Metronidazol lagap tablet 500mg  | 3,00  | stuk  | 0,28157  |
@@ -6981,11 +6755,9 @@ J.F.Hoogervorst
 | 0R01ADAN  | V  | 23838  | Rhinocort nevel neusspray 64mcg/do 120do  | 3,12  | do  | 0,10784  |
 | 0R01ADAN  | V  | 24012  | BUDESONIDE APOTEX NEVEL NEUSSPRAY 50MCG/DO 200DO  | 4,00  | do  | 0,08425  |
 | 0R01ADAN  | V  | 24013  | BUDESONIDE APOTEX NEVEL NEUSSPRAY 100MCG/DO 200DO  | 2  | DO  | 0,16850  |
-| 0R01ADAN  | V  | 24248//15821  | Rhinocort turbuhaler inhpdr nasaal 0,1mg/do 200do  | 2,00  | do  | 0,16850  |
 | 0R01ADAN  | V  | 25302  | Budesonide ph&t nevel neusspray 50mcg/do 200do  | 4,00  | do  | 0,08425  |
 | 0R01ADAN  | V  | 26290  | Budesonide mylan nevel neusspray 50mcg/do 200do  | 4,00  | do  | 0,08425  |
 | 0R01ADAN  | V  | 26291  | Budesonide mylan nevel neusspray 100mcg/do 200do  | 2,00  | do  | 0,16850  |
-| 0R01ADAN  | V  | 26529//15821  | Rhinocort turbuhaler inhpdr nasaal 0,1mg/do 200do  | 2,00  | do  | 0,16850  |
 | 0R01ADAN  | V  | 27005  | Budesonide a nevel neusspray 50mcg/do 200do  | 4,00  | do  | 0,08425  |
 | 0R01ADAN  | V  | 27006  | Budesonide a nevel neusspray 100mcg/do 200do  | 2,00  | do  | 0,16850  |
 | 0R01ADAN  | V  | 27292  | Budesonide cf nevel neusspray 50mcg/do 200do  | 4,00  | do  | 0,08425  |
@@ -7007,7 +6779,6 @@ J.F.Hoogervorst
 | 0R01ADAN  | V  | 32154  | Fluticasonpropionaat rp neusspr 50mcg/do fl 200do  | 4,00  | do  | 0,08425  |
 | 0R01ADAN  | V  | 32157  | Fluticasonpropionaat sdz neusspr 50mcg/do fl 200do  | 4,00  | do  | 0,08425  |
 | 0R01ADAN  | V  | 32896  | Fluticasonpropionaat a neusspray 50mcg/do fl 150do  | 4,00  | do  | 0,08425  |
-| 0R01ADAN  | V  | 33293//15821  | Rhinocort turbuhaler inhpdr nasaal 0,1mg/do 200do  | 2,00  | do  | 0,16850  |
 | 0R01ADAN  | V  | 33656  | Fluticasonpropionaat pch neusspr 50mcg/do fl 150do  | 4,00  | do  | 0,08425  |
 | 0R01ADAN  | V  | 34488  | Fluticasonpropionaat cf neusspr 50mcg/do fl 150do  | 4,00  | do  | 0,08425  |
 | 0R01ADAN  | V  | 34718  | FLUTICASONPROPIONAAT MYL NEUSSPR 50MCG/DO FL 150DO  | 4,00  | do  | 0,08425  |
@@ -7039,14 +6810,9 @@ J.F.Hoogervorst
 | 0R03ACAIDC  | V  | 15959  | Bricanyl turbuhaler inhalpdr 0,250mg/do 200do  | 8,00  | do  | 0,05772  |
 | 0R03ACAIDC  | V  | 19496  | Ventolin diskus inhpdr 200mcg 60do  | 4,00  | do  | 0,09620  |
 | 0R03ACAIDC  | V  | 22393  | Airomir autohaler aerosol 100mcg/do spbs 200do  | 8,00  | do  | 0,05772  |
-| 0R03ACAIDC  | V  | 22407//12480  | Terbutalinesulfaat turbuhal inhalpdr 0,5mg/do  | 4,00  | do  | 0,09620  |
-| 0R03ACAIDC  | V  | 25680//12480  | Terbasmin turbuhaler inhalpdr 0,5mg/do 200do  | 4,00  | do  | 0,09620  |
-| 0R03ACAIDC  | V  | 26076//12480  | Bricanyl turbuhaler inhalpdr 0,5mg/do 200do  | 4,00  | do  | 0,09620  |
 | 0R03ACAIDC  | V  | 26971  | SALBUTAMOL 100 REDIHALER 100MCG/DO SPB 200D+INH  | 8,00  | do  | 0,05772  |
 | 0R03ACAIDC  | V  | 28234  | Salbutamol a ecosal aer cfkv 100 spbs 200d+inh  | 8,00  | do  | 0,05772  |
 | 0R03ACAIDC  | V  | 29458  | Salbutamol novolizer inhalpdr 100mcg/do  | 8,00  | do  | 0,05772  |
-| 0R03ACAIDC  | V  | 30123//12480  | Bricanyl turbuhaler inhalpdr 0,5mg/do 200do  | 4,00  | do  | 0,09620  |
-| 0R03ACAIDC  | V  | 30957//12480  | Bricanyl turbuhaler inhalpdr 0,5mg/do 200do  | 4,00  | do  | 0,09620  |
 | 0R03ACAIDC  | V  | 9224  | Berotec inhalette inhalpdr 200mcg  | 3,00  | stuk  | 0,12827  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0R03ACAIDH  | V  | 21441  | Ventolin 100 aer cfkvr 100mcg/do spbs 200do+volum  | 8,00  | do  | 0,09310  |
@@ -7054,8 +6820,6 @@ J.F.Hoogervorst
 | 0R03ACAII  | V  | 12587  | Ventolin 2,5 inhvlst 1mg/ml nebule 2,5ml  | 8,00  | ml  | 0,06872  |
 | 0R03ACAII  | V  | 14590  | Ventolin 5,0 inhvlst 2mg/ml nebule 2,5ml  | 4,00  | ml  | 0,11453  |
 | 0R03ACAII  | V  | 18093=57416  | Salbutamol sandoz inhalatievloeistof 5mg/ml  | 1,60  | ml  | 0,28634  |
-| 0R03ACAII  | V  | 33118//12587  | Ventolin 2,5 inhvlst 1mg/ml nebule 2,5ml  | 8,00  | ml  | 0,06872  |
-| 0R03ACAII  | V  | 33119//14590  | Ventolin 5,0 inhvlst 2mg/ml nebule 2,5ml  | 4,00  | ml  | 0,11453  |
 | 0R03ACAII  | V  | 56751  | Salbutamol pch inhalatievloeistof 5mg/ml  | 1,60  | ml  | 0,28634  |
 | 0R03ACAII  | V  | 57416  | Salbutamol cf inhalatievloeistof 5mg/ml  | 1,60  | ml  | 0,28634  |
 | 0R03ACAII  | V  | 6676  | Ventolin oplossing inhalatievloeistof 5mg/ml  | 1,60  | ml  | 0,28634  |
@@ -7063,7 +6827,6 @@ J.F.Hoogervorst
 | 0R03ACCIDA  | V  | 102315//33735  | Serevent aerosol 25mcg/do cfkvr spbs 120do + inh  | 4,00  | do  | 0,23086  |
 | 0R03ACCIDA  | V  | 102316//33735  | Serevent aerosol 25mcg/do cfkvr spbs 120do + inh  | 4,00  | do  | 0,23086  |
 | 0R03ACCIDA  | V  | 104697//33735  | Serevent aerosol 25mcg/do cfkvr spbs 120do + inh  | 4,00  | do  | 0,23086  |
-| 0R03ACCIDA  | V  | 21917//14821  | Serevent aerosol 25mcg/do spbs 120do + inhalator  | 4,00  | do  | 0,23086  |
 | 0R03ACCIDA  | V  | 30073//14821  | Serevent aerosol 25mcg/do spbs 120do + inhalator  | 4,00  | do  | 0,23086  |
 | 0R03ACCIDA  | V  | 31993  | Foradil aerosol cfkvr 12mcg/do spbs 100doses+inh  | 2,00  | do  | 0,46172  |
 | 0R03ACCIDA  | V  | 31994  | Atimos aerosol 12mcg/dosis spuitbus 100do  | 2,00  | do  | 0,46172  |
@@ -7075,8 +6838,6 @@ J.F.Hoogervorst
 | 0R03ACCIDC  | V  | 102247//21026  | Oxis turbuhaler inhalpdr 6mcg/do 60do  | 4,00  | do  | 0,36607  |
 | 0R03ACCIDC  | V  | 102291//21026  | Oxis turbuhaler inhalpdr 6mcg/do 60do  | 4,00  | do  | 0,36607  |
 | 0R03ACCIDC  | V  | 102292//21027  | Oxis turbuhaler inhalpdr 12mcg/do 60do  | 2,00  | do  | 0,61011  |
-| 0R03ACCIDC  | V  | 102580//18150  | Serevent diskus inhpdr 50mcg 60do  | 2,00  | do  | 0,61011  |
-| 0R03ACCIDC  | V  | 103113//18150  | Serevent diskus inhpdr 50mcg 60do  | 2,00  | do  | 0,61011  |
 | 0R03ACCIDC  | V  | 103114//18150  | SALMETEROL ERC DISKUS INHPDR 50MCG 60DO  | 2,00  | DO  | 0,61011  |
 | 0R03ACCIDC  | V  | 103931//18150  | Serevent diskus inhpdr 50mcg 60do  | 2,00  | do  | 0,61011  |
 | 0R03ACCIDC  | V  | 14822  | Serevent 50 rotadisk (1st = 1disk = 4doses)  | 2,00  | do  | 0,61011  |
@@ -7084,21 +6845,16 @@ J.F.Hoogervorst
 | 0R03ACCIDC  | V  | 18150  | Serevent diskus inhpdr 50mcg 60do  | 2,00  | do  | 0,61011  |
 | 0R03ACCIDC  | V  | 21026  | Oxis turbuhaler inhalpdr 6mcg/do 60do  | 4,00  | do  | 0,36607  |
 | 0R03ACCIDC  | V  | 21027  | Oxis turbuhaler inhalpdr 12mcg/do 60do  | 2,00  | do  | 0,61011  |
-| 0R03ACCIDC  | V  | 21916//18150  | Serevent diskus inhpdr 50mcg 60do  | 2,00  | do  | 0,61011  |
 | 0R03ACCIDC  | V  | 23814//18150  | Serevent diskus inhpdr 50mcg 60do  | 2,00  | do  | 0,61011  |
 | 0R03ACCIDC  | V  | 24249//18150  | Serevent diskus inhpdr 50mcg 60do  | 2,00  | do  | 0,61011  |
 | 0R03ACCIDC  | V  | 24325//18150  | Serevent diskus inhpdr 50mcg 60do  | 2,00  | do  | 0,61011  |
 | 0R03ACCIDC  | V  | 24449//17158  | Foradil inhalatiepdr 12mcg + inhalator  | 2,00  | stuk  | 0,61011  |
 | 0R03ACCIDC  | V  | 26950//18150  | Serevent diskus inhpdr 50mcg 60do  | 2,00  | do  | 0,61011  |
-| 0R03ACCIDC  | V  | 27169//21027  | Oxis turbuhaler inhalpdr 12mcg/do 60do  | 2,00  | do  | 0,61011  |
 | 0R03ACCIDC  | V  | 28063//21026  | Oxis turbuhaler inhalpdr 6mcg/do 60do  | 4,00  | do  | 0,36607  |
-| 0R03ACCIDC  | V  | 28064//21027  | Oxis turbuhaler inhalpdr 12mcg/do 60do  | 2,00  | do  | 0,61011  |
 | 0R03ACCIDC  | V  | 28221//18150  | Serevent diskus inhpdr 50mcg 60do  | 2,00  | do  | 0,61011  |
 | 0R03ACCIDC  | V  | 28680  | Formoterol merck clickhaler inhalpd 12mcg/do 60do  | 2,00  | do  | 0,61011  |
 | 0R03ACCIDC  | V  | 29251//21026  | Oxis turbuhaler inhalpdr 6mcg/do 60do  | 4,00  | do  | 0,36607  |
 | 0R03ACCIDC  | V  | 30867  | Formoterolum inhalpdr capsule 12mcg + inhalator  | 2,00  | stuk  | 0,61011  |
-| 0R03ACCIDC  | V  | 31571//21026  | Oxis turbuhaler inhalpdr 6mcg/do 60do  | 4,00  | do  | 0,36607  |
-| 0R03ACCIDC  | V  | 31572//21027  | Oxis turbuhaler inhalpdr 12mcg/do 60do  | 2,00  | do  | 0,61011  |
 | 0R03ACCIDC  | V  | 32586  | Formoterol sandoz easyhaler inhalpd 12mcg/do 120do  | 2,00  | do  | 0,61011  |
 | 0R03ACCIDC  | V  | 32642//21027  | Oxis turbuhaler inhalpdr 12mcg/do 60do  | 2,00  | do  | 0,61011  |
 | 0R03ACCIDC  | V  | 32660  | Formoterol a inhalpdr capsule 12mcg + inhalator  | 2,00  | stuk  | 0,61011  |
@@ -7107,7 +6863,6 @@ J.F.Hoogervorst
 | 0R03ACCIDC  | V  | 33470  | Formoterol cyclocaps inhalpdr 12mcg + cyclohaler  | 2,00  | stuk  | 0,61011  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0R03AKAID  | V  | 14123  | Berodual cfkvr aerosol spuitbus 200do + inhalator  | 8,00  | do  | 0,04086  |
-| 0R03AKAID  | V  | 17930  | Combivent aerosol spbs 300do + inh  | 8,00  | do  | 0,04086  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0R03BAAII  | V  | 104435//14196  | PULMICORT 500 VERNEVELSUSP 0,250MG/ML RESPULE 2ML  | 6,00  | ml  | 0,96281  |
 | 0R03BAAII  | V  | 14196  | PULMICORT 500 VERNEVELSUSP 0,250MG/ML RESPULE 2ML  | 6,00  | ml  | 0,96281  |
@@ -7132,8 +6887,6 @@ J.F.Hoogervorst
 | 0R03BABID  | V  | 101709  | Beclometason a aer cfkvr 100mcg/do spbs 200do+inh  | 8,00  | do  | 0,08763  |
 | 0R03BABID  | V  | 101710  | Beclometason a aer cfkvr 250mcg/do spbs 200do+inh  | 3,20  | do  | 0,21906  |
 | 0R03BABID  | V  | 102736//31632  | Alvesco 80 aerosol 80mcg/do spbs 120do + inh  | 2,00  | do  | 0,42060  |
-| 0R03BABID  | V  | 102747//31633  | Alvesco 160 aerosol 160mcg/do spbs 60do + inh  | 1,00  | do  | 0,70100  |
-| 0R03BABID  | V  | 102787//31633  | Alvesco 160 aerosol 160mcg/do spbs 60do + inh  | 1,00  | do  | 0,70100  |
 | 0R03BABID  | V  | 102788//31633  | Alvesco 160 aerosol 160mcg/do spbs 60do + inh  | 1,00  | do  | 0,70100  |
 | 0R03BABID  | V  | 103091//16214  | Flixotide aer cfkvr 250mcg/do spbs 120 do + inhal  | 2,40  | do  | 0,29208  |
 | 0R03BABID  | V  | 103514//31632  | Alvesco 80 aerosol 80mcg/do spbs 120do + inh  | 2,00  | do  | 0,42060  |
@@ -7166,7 +6919,6 @@ J.F.Hoogervorst
 | 0R03BABID  | V  | 33317  | Beclometason all aer cfkvr 100mcg/do spb 200do+inh  | 8,00  | do  | 0,08763  |
 | 0R03BABID  | V  | 33318  | Beclometason all aer cfkvr 250mcg/do spb 200do+inh  | 3,20  | do  | 0,21906  |
 | 0R03BABID  | V  | 33372  | Beclometason cf aer cfkvr 50mcg/do spb 200do+inh  | 16,00  | do  | 0,07886  |
-| 0R03BABID  | V  | 33373  | Beclometason cf aer cfkvr 100mcg/do spb 200do+inh  | 8,00  | do  | 0,08763  |
 | 0R03BABID  | V  | 33375  | Beclometason cf aer cfkvr 250mcg/do spb 200do+inh  | 3,20  | do  | 0,21906  |
 | 0R03BABID  | V  | 33586  | PULMICORT 100 AER CFKVR 100MCG/DO SPBS 120DO+INH  | 8  | DO  | 0,10515  |
 | 0R03BABID  | V  | 33587  | Pulmicort 200 aer cfkvr 200mcg/do spbs 120do+inh  | 4,00  | do  | 0,17525  |
@@ -7210,9 +6962,7 @@ J.F.Hoogervorst
 | 0R03BADID  | V  | 21939  | Qvar 50 efa autohaler 50mcg/do spbs 200do  | 8,00  | do  | 0,10689  |
 | 0R03BADID  | V  | 21940  | Qvar 100 efa autohaler 100mcg/do spbs 200do  | 4,00  | do  | 0,17815  |
 | 0R03BADID  | V  | 22998//13699  | Pulmicort 400 turbuhaler inhalpdr 400mcg/do  | 2,00  | do  | 0,35631  |
-| 0R03BADID  | V  | 25188  | Budesonide cyclocaps inhalpoeder 100mcg  | 8,00  | stuk  | 0,10689  |
 | 0R03BADID  | V  | 25532  | Budesonide cyclocaps inhalpdr 800mcg +cyclohaler  | 1,00  | stuk  | 0,71262  |
-| 0R03BADID  | V  | 25678//14758  | Pulmicort 100 turbuhaler inhalpdr 100mcg/do 200do  | 8,00  | do  | 0,10689  |
 | 0R03BADID  | V  | 28795  | Budesonide novolizer pdr 200mcg/do  | 4,00  | do  | 0,17815  |
 | 0R03BADID  | V  | 30315  | Budesonide sandoz 200 easyh inhalpd 200mcg/do  | 4,00  | do  | 0,17815  |
 | 0R03BADID  | V  | 30316  | Budesonide sandoz 400 easyh inhalpd 400mcg/do  | 2,00  | do  | 0,35631  |
@@ -7237,15 +6987,12 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0R03BBBID  | V  | 11565  | Atrovent inhalette inhalpdr 0,04mg  | 3,00  | stuk  | 0,21391  |
 | 0R03BBBID  | V  | 18006//11565  | Atrovent inhalette inhalpdr 0,04mg  | 3,00  | stuk  | 0,21391  |
-| 0R03BBBID  | V  | 25892//11565  | Atrovent inhalette inhalpdr 0,04mg  | 3,00  | stuk  | 0,21391  |
 | 0R03BBBID  | V  | 26267  | Ipratropium cyclocaps inhalpoeder 0,04mg  | 3,00  | stuk  | 0,21391  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0R03BCBID  | V  | 11746  | Tilade aerosol 2mg/do spbs 112do + inhalator  | 4,00  | do  | 0,20258  |
 | 0R03BCBID  | V  | 11817  | Lomudal forte aerosol 5mg/do spbs 112do  | 8,00  | do  | 0,10129  |
-| 0R03BCBID  | V  | 23074//11746  | Tilade aerosol 2mg/do spbs 112do + inhalator  | 4,00  | do  | 0,20258  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0R03BCCID  | V  | 5719  | Lomudal inhalpdr 20mg  | 4,00  | stuk  | 0,18151  |
-| 0R03BCCID  | V  | 8802  | Natriumcromoglicaat flx inhalpdr 20mg  | 4,00  | stuk  | 0,18151  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0R03CCAO  | K  | 6450  | Ventolin drank 0,4mg/ml  | 30,00  | ml  | 0,01319  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -7326,7 +7073,6 @@ J.F.Hoogervorst
 | 0S01BCAG  | V  | 16483  | Naclof unidose oogdruppels 1mg/ml ampul 0,3ml  | 4,00  | stuk  | 0,14285  |
 | 0S01BCAG  | V  | 24663//13381  | Acular oogdruppels 5mg/ml flacon 5ml  | 0,30  | ml  | 1,90467  |
 | 0S01BCAG  | V  | 24717//13381  | Acular oogdruppels 5mg/ml flacon 5ml  | 0,30  | ml  | 1,90467  |
-| 0S01BCAG  | V  | 27865//13381  | Acular oogdruppels 5mg/ml flacon 5ml  | 0,30  | ml  | 1,90467  |
 | 0S01BCAG  | V  | 28174  | Indocollyre unidose oogdruppels 1mg/ml tube 0,35ml  | 4,00  | stuk  | 0,14285  |
 | 0S01BCAG  | V  | 29588//12800  | Naclof oogdruppels 1mg/ml flacon 5ml  | 0,40  | ml  | 1,42850  |
 | 0S01BCAG  | V  | 32539//12800  | Naclof oogdruppels 1mg/ml flacon 5ml  | 0,40  | ml  | 1,42850  |
@@ -7344,10 +7090,7 @@ J.F.Hoogervorst
 | 0S01EBBG  | V  | 57399  | Pilocarpine hcl rp oogdruppels 2%  | 0,20  | ml  | 0,26183  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0S01ECAG  | V  | 17618  | Trusopt oogdruppels 20mg/ml flacon 5ml  | 0,30  | ml  | 2,19630  |
-| 0S01ECAG  | V  | 28640//17618  | Trusopt oogdruppels 20mg/ml flacon 5ml  | 0,30  | ml  | 2,19630  |
-| 0S01ECAG  | V  | 29695//17618  | Trusopt oogdruppels 20mg/ml flacon 5ml  | 0,30  | ml  | 2,19630  |
 | 0S01ECAG  | V  | 30148//17618  | Trusopt oogdruppels 20mg/ml flacon 5ml  | 0,30  | ml  | 2,19630  |
-| 0S01ECAG  | V  | 32209//17618  | Trusopt oogdruppels 20mg/ml flacon 5ml  | 0,30  | ml  | 2,19630  |
 | 0S01ECAG  | V  | EU/1/00/129/001  | Azopt oogdruppels 10mg/ml flacon 5ml  | 0,20  | ml  | 3,29445  |
 | 0S01ECAG  | V  | EU/1/00/129/003  | Azopt oogdruppels 10mg/ml flacon 5ml  | 0,20  | ml  | 3,29445  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -7357,9 +7100,6 @@ J.F.Hoogervorst
 | 0S01ECAO  | V  | 9291  | Acetazolamide sandoz tablet 250mg  | 3,00  | stuk  | 0,19534  |
 | 0S01ECAO  | V  | 9292  | Glaupax retard capsule mga 250mg  | 3,00  | stuk  | 0,19534  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0S01EDAG  | V  | 10012  | Beta ophtiole oogdruppels 3mg/ml flacon 5ml  | 0,20  | ml  | 0,93750  |
-| 0S01EDAG  | V  | 10013  | Beta ophtiole oogdruppels 6mg/ml flacon 5ml  | 0,20  | ml  | 0,93750  |
-| 0S01EDAG  | V  | 10969  | Beta ophtiole oogdruppels 1mg/ml flacon 5ml  | 0,20  | ml  | 0,93750  |
 | 0S01EDAG  | V  | 11203  | Betagan liquifilm oogdruppels 0,50% flacon 5ml  | 0,20  | ml  | 0,93750  |
 | 0S01EDAG  | V  | 12996  | Betagan liquifilm oogdruppels 0,25% flacon 5ml  | 0,20  | ml  | 0,93750  |
 | 0S01EDAG  | V  | 13378  | Teoptic oogdruppels 10mg/ml flacon 5ml  | 0,20  | ml  | 0,93750  |
@@ -7376,8 +7116,6 @@ J.F.Hoogervorst
 | 0S01EDAG  | V  | 21352=56896  | Timolol actavis oogdruppels 5mg/ml flacon 5ml  | 0,20  | ml  | 0,93750  |
 | 0S01EDAG  | V  | 21539//11203  | Betagan liquifilm oogdruppels 0,50% flacon 5ml  | 0,20  | ml  | 0,93750  |
 | 0S01EDAG  | V  | 25176  | Nyogel ooggel 1mg/g flacon 5ml  | 0,20  | ml  | 0,93750  |
-| 0S01EDAG  | V  | 30626  | Arteoptic la oogdruppels 10mg/ml flacon 3ml  | 0,10  | ml  | 1,87500  |
-| 0S01EDAG  | V  | 30631  | Arteoptic la oogdruppels 20mg/ml flacon 3ml  | 0,10  | ml  | 1,87500  |
 | 0S01EDAG  | V  | 34842  | Timolol a oogdruppels 2,5mg/ml flacon 5ml  | 0,20  | ml  | 0,93750  |
 | 0S01EDAG  | V  | 34843  | Timolol a oogdruppels 5mg/ml flacon 5ml  | 0,20  | ml  | 0,93750  |
 | 0S01EDAG  | V  | 35126  | TIMOLOL MYLAN OOGDRUPPELS 2,5MG/ML FLACON 5ML  | 0,20  | ML  | 0,93750  |
@@ -7437,7 +7175,6 @@ J.F.Hoogervorst
 | 0S01GXBG  | V  | 23091//13968  | Livocab oogdruppels 0,5mg/ml flacon 4ml  | 0,20  | ml  | 1,85595  |
 | 0S01GXBG  | V  | 25726  | Zaditen oogdruppels 0,25mg/ml flacon 5ml  | 0,20  | ml  | 1,85595  |
 | 0S01GXBG  | V  | 25727  | Zaditen unidose oogdruppels 0,25mg/ml tube 0,4ml  | 0,20  | ml  | 1,85595  |
-| 0S01GXBG  | V  | 27878//13968  | Livocab oogdruppels 0,5mg/ml flacon 4ml  | 0,20  | ml  | 1,85595  |
 | 0S01GXBG  | V  | 33485//22946  | Allergodil oogdruppels 0,5mg/ml flacon 6ml  | 0,20  | ml  | 1,85595  |
 | 0S01GXBG  | V  | EU/1/02/217/001  | Opatanol oogdruppels 1mg/ml flacon 5ml  | 0,20  | ml  | 1,85595  |
 | 0S01GXBG  | V  | EU/1/98/095/001  | Emadine oogdruppels 0,5mg/ml flacon 5ml  | 0,20  | ml  | 1,85595  |
@@ -7500,7 +7237,6 @@ J.F.Hoogervorst
 | 0V03AFBO  | V  | 17268=11274  | Leucovorine abic tablet 15mg  | 4,00  | stuk  | 4,47064  |
 | 0V03AFBO  | V  | 8997  | Rescuvolin tablet 15mg  | 4,00  | stuk  | 4,47064  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0V03AFBP  | V  | 12864  | RESCUVOLIN INJECTIEVLOEISTOF 5MG/ML  | 12,00  | ml  | 2,83658  |
 | 0V03AFBP  | V  | 14579  | Rescuvolin injectievloeistof 25mg/ml flacon  | 2,40  | ml  | 14,18290  |
 | 0V03AFBP  | V  | 15827  | FOLINEZUUR SANDOZ INJVLST 10MG/ML  | 6,00  | ml  | 5,67316  |
 | 0V03AFBP  | V  | 17416  | Rescuvolin injectievloeistof 10mg/ml flacon  | 6,00  | ml  | 5,67316  |
@@ -7542,8 +7278,6 @@ J.F.Hoogervorst
 | 0V03AFBP  | V  | 8998  | Rescuvolin injectiepoeder flacon 500mg  | 0,12  | stuk  | 283,65800  |
 | 0V03AFBP  | V  | 8998  | Rescuvolin injectiepoeder flacon 500mg  | 0,12  | stuk  | 283,65800  |
 | 0V03AFBP  | V  | 8998  | Rescuvolin injectiepoeder flacon 50mg  | 1,20  | stuk  | 28,36580  |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1A01ABAO  | V  | 9056  | Fungizone zuigtablet 10mg  | 4,00  | stuk  | 0,13719  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1A06ACAO  | V  | 12273  | Fiberform poeder 3,5g in sachet  | 2,86  | stuk  | 0,14440  |
 | 1A06ACAO  | V  | 13960  | Metamucil skvr lemon poeder 586mg/g  | 12,05  | gram  | 0,03424  |
@@ -7590,7 +7324,6 @@ J.F.Hoogervorst
 | 1A06ADAO  | V  | 32357  | Movicolon junior naturel poeder v drank in sachet  | 1,52  | stuk  | 0,32571  |
 | 1A06ADAO  | V  | 33764//28913  | Forlax junior poeder voor drank sachet 4g  | 2,50  | stuk  | 0,21453  |
 | 1A06ADAO  | V  | 33765//23013  | Forlax poeder voor drank sachet 10g  | 1,00  | stuk  | 0,41257  |
-| 1A06ADAO  | V  | 33795//19006  | Movicolon poeder voor drank in sachet  | 0,76  | stuk  | 0,54285  |
 | 1A06ADAO  | V  | 33837//23013  | Forlax poeder voor drank sachet 10g  | 1,00  | stuk  | 0,41257  |
 | 1A06ADAO  | V  | 34483//23013  | Forlax poeder voor drank sachet 10g  | 1,00  | stuk  | 0,41257  |
 | 1A06ADAO  | V  | 34506//28913  | Forlax junior poeder voor drank sachet 4g  | 2,50  | stuk  | 0,21453  |
@@ -7654,7 +7387,6 @@ J.F.Hoogervorst
 | 1C01DAAO  | V  | 24085=15054  | ISOSORBIDEMONONITRAAT MYLAN TABLET 20MG  | 3  | STUK  | 0,18151  |
 | 1C01DAAO  | V  | 24086=15055  | ISOSORBIDEMONONITRAAT MYLAN TABLET 40MG  | 1,5  | STUK  | 0,36302  |
 | 1C01DAAO  | V  | 26933=23515  | Isosorbidemononitraat cf retard tablet mga 60mg  | 1,00  | stuk  | 0,54454  |
-| 1C01DAAO  | V  | 26967=23515  | Isosorbidemononitraat pch retard tablet mga 60mg  | 1,00  | stuk  | 0,54454  |
 | 1C01DAAO  | V  | 27105  | Isosorbidemononitraat mylan retard tablet mga 60mg  | 1,00  | stuk  | 0,54454  |
 | 1C01DAAO  | V  | 27903=56834  | Isosorbidedinitraat a retard tablet mga 20mg  | 3,00  | stuk  | 0,18151  |
 | 1C01DAAO  | V  | 28051=20660  | ISOSORBIDEDINITRAAT MYLAN RETARD TABLET MGA 20MG  | 3,00  | stuk  | 0,18151  |
@@ -7670,12 +7402,10 @@ J.F.Hoogervorst
 | 1C01DAAO  | V  | 30797//13645  | Isosorbidemononitraat retard capsule mga 50mg  | 1,20  | stuk  | 0,45378  |
 | 1C01DAAO  | V  | 31062//13645  | Isosorbidemononitraat retard capsule mga 50mg  | 1,20  | stuk  | 0,45378  |
 | 1C01DAAO  | V  | 31573//17465  | Deponit t 10 pleister transdermaal 37,4mg  | 0,50  | stuk  | 1,08907  |
-| 1C01DAAO  | V  | 31574//17464  | Deponit t 5 pleister transdermaal 18,7mg  | 1,00  | stuk  | 0,54454  |
 | 1C01DAAO  | V  | 31575//17466  | Deponit t 15 pleister transdermaal 56,2mg  | 0,33  | stuk  | 1,63361  |
 | 1C01DAAO  | V  | 31841//13645  | Isosorbidemononitraat retard capsule mga 50mg  | 1,20  | stuk  | 0,45378  |
 | 1C01DAAO  | V  | 32465//13645  | Isosorbidemononitraat retard capsule mga 50mg  | 1,20  | stuk  | 0,45378  |
 | 1C01DAAO  | V  | 32718//13645  | Isosorbidemononitraat retard capsule mga 50mg  | 1,20  | stuk  | 0,45378  |
-| 1C01DAAO  | V  | 34455//13645  | Isosorbidemononitraat retard capsule mga 50mg  | 1,20  | stuk  | 0,45378  |
 | 1C01DAAO  | V  | 34504//17466  | Deponit t 15 pleister transdermaal 56,2mg  | 0,33  | stuk  | 1,63361  |
 | 1C01DAAO  | V  | 56053  | Isosorbidemononitraat cf tablet 20mg  | 3,00  | stuk  | 0,18151  |
 | 1C01DAAO  | V  | 56508  | Isosorbidemononitraat tablet 20mg  | 3,00  | stuk  | 0,18151  |
@@ -7686,7 +7416,6 @@ J.F.Hoogervorst
 | 1C01DAAO  | V  | 56949  | ISOSORBIDEMONONITRAAT ACCORD TABLET 40MG  | 1,50  | stuk  | 0,36302  |
 | 1C01DAAO  | V  | 57237  | Isosorbidi mononitras tablet 20mg  | 3,00  | stuk  | 0,18151  |
 | 1C01DAAO  | V  | 57238  | Isosorbidi mononitras tablet 40mg  | 1,50  | stuk  | 0,36302  |
-| 1C01DAAO  | V  | 57618  | Isosorbidedinitraat flx retard tablet mga 20mg  | 3,00  | stuk  | 0,18151  |
 | 1C01DAAO  | V  | 5784  | Cedocard retard tablet mga 20mg  | 3,00  | stuk  | 0,18151  |
 | 1C01DAAO  | V  | 8809  | Isordil titradose tablet 30mg  | 2,00  | stuk  | 0,27227  |
 | 1C01DAAO  | V  | 9672  | Transiderm nitro 5 pleister 25mg  | 1,00  | stuk  | 0,54454  |
@@ -7821,8 +7550,6 @@ J.F.Hoogervorst
 | 1C07AGAO  | V  | 29078  | Carvedilol pch tablet 6,25mg  | 6,00  | stuk  | 0,10084  |
 | 1C07AGAO  | V  | 29079  | Carvedilol pch tablet 12,5mg  | 3,00  | stuk  | 0,20168  |
 | 1C07AGAO  | V  | 29080  | Carvedilol pch tablet 25mg  | 1,50  | stuk  | 0,40336  |
-| 1C07AGAO  | V  | 29637  | Carvedilol rp tablet 6,25mg  | 6,00  | stuk  | 0,10084  |
-| 1C07AGAO  | V  | 29638  | Carvedilol rp tablet 25mg  | 1,50  | stuk  | 0,40336  |
 | 1C07AGAO  | V  | 29939  | Carvedilol a tablet 6,25mg  | 6,00  | stuk  | 0,10084  |
 | 1C07AGAO  | V  | 29940  | Carvedilol a tablet 25mg  | 1,50  | stuk  | 0,40336  |
 | 1C07AGAO  | V  | 30015  | Carvedilol actavis tablet 6,25mg  | 6,00  | stuk  | 0,10084  |
@@ -7870,10 +7597,8 @@ J.F.Hoogervorst
 | 1C08DBAO  | V  | 22529  | Tiadil capsule mga 300mg  | 0,80  | stuk  | 0,77647  |
 | 1C08DBAO  | V  | 22530  | Tiadil capsule mga 360mg  | 0,67  | stuk  | 0,93176  |
 | 1C08DBAO  | V  | 23153  | Diltiazem hcl merck tablet 60mg  | 4,00  | stuk  | 0,15529  |
-| 1C08DBAO  | V  | 24052  | Diltiazem hcl flx tablet 60mg  | 4,00  | stuk  | 0,15529  |
 | 1C08DBAO  | V  | 25593=18593  | Diltiazem hcl pch retard tablet mga 90mg  | 2,67  | stuk  | 0,23294  |
 | 1C08DBAO  | V  | 25594=18594  | Diltiazem hcl pch retard tablet mga 120mg  | 2,00  | stuk  | 0,31059  |
-| 1C08DBAO  | V  | 27732//16538  | Tildiem xr capsule mga 200mg  | 1,20  | stuk  | 0,51764  |
 | 1C08DBAO  | V  | 27985=17462  | DILTIAZEM HCL MYLAN RETARD TABLET MGA 90MG  | 2,67  | STUK  | 0,23294  |
 | 1C08DBAO  | V  | 27986=17463  | DILTIAZEM HCL MYLAN RETARD TABLET MGA 120MG  | 2  | STUK  | 0,31059  |
 | 1C08DBAO  | V  | 33122//16538  | Tildiem xr capsule mga 200mg  | 1,20  | stuk  | 0,51764  |
@@ -7912,7 +7637,6 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 1G01AFBV  | V  | 10051  | Canesten gyno 1 vaginaaltablet 500mg + applicator  | 1,00  | stuk  | 5,89654  |
 | 1G01AFBV  | V  | 100520//10051  | Canesten gyno 1 vaginaaltablet 500mg + applicator  | 1,00  | stuk  | 5,89654  |
-| 1G01AFBV  | V  | 102088//7856  | Canesten gyno vaginaalcreme 10mg/g + 6 applicators  | 30,00  | gram  | 0,19655  |
 | 1G01AFBV  | V  | 102310//10634  | Gyno daktarin-1 vaginaalcapsule 1200mg  | 1,00  | stuk  | 5,89654  |
 | 1G01AFBV  | V  | 10633  | Gyno daktarin-3 vaginaalcapsule 400mg  | 3,00  | stuk  | 1,96551  |
 | 1G01AFBV  | V  | 10634  | Gyno daktarin-1 vaginaalcapsule 1200mg  | 1,00  | stuk  | 5,89654  |
@@ -7988,8 +7712,6 @@ J.F.Hoogervorst
 | 1M01ABAO  | V  | 20306=10939  | Indometacine a capsule 25mg  | 4,00  | stuk  | 0,16699  |
 | 1M01ABAO  | V  | 20307=10940  | Indometacine a capsule 50mg  | 2,00  | stuk  | 0,27832  |
 | 1M01ABAO  | V  | 20308=10809  | Indometacine a retard capsule mga 75mg  | 1,33  | stuk  | 0,41748  |
-| 1M01ABAO  | V  | 20732  | Diclofenacum natricum tablet msr 25mg  | 4,00  | stuk  | 0,16699  |
-| 1M01ABAO  | V  | 20733  | Diclofenacum natricum tablet msr 50mg  | 2,00  | stuk  | 0,27832  |
 | 1M01ABAO  | V  | 20800  | Diclofenacum natricum retard tablet mga 75mg  | 1,33  | stuk  | 0,41748  |
 | 1M01ABAO  | V  | 20801  | Diclofenacum natricum retard tablet mga 100mg  | 1,00  | stuk  | 0,55664  |
 | 1M01ABAO  | V  | 21267=20740  | Diclofenac natrium rp retard tablet mga 100mg  | 1,00  | stuk  | 0,55664  |
@@ -8050,14 +7772,11 @@ J.F.Hoogervorst
 | 1M01ACAO  | V  | 14672  | Piroxicam pch disper tablet 20mg  | 1,00  | stuk  | 0,55664  |
 | 1M01ACAO  | V  | 14673  | Piroxicam pch capsule 10mg  | 2,00  | stuk  | 0,33398  |
 | 1M01ACAO  | V  | 14674  | Piroxicam pch capsule 20mg  | 1,00  | stuk  | 0,55664  |
-| 1M01ACAO  | V  | 15322  | Brexine poeder 20mg in sachet  | 1,00  | stuk  | 0,55664  |
-| 1M01ACAO  | V  | 15323  | Brexine tablet 20mg  | 1,00  | stuk  | 0,55664  |
 | 1M01ACAO  | V  | 15933  | Piroxicam rp dispergeerbaar tablet 20mg  | 1,00  | stuk  | 0,55664  |
 | 1M01ACAO  | V  | 17038  | Piroxicam sandoz disper tablet 10mg  | 2,00  | stuk  | 0,33398  |
 | 1M01ACAO  | V  | 17039  | Piroxicam sandoz disper tablet 20mg  | 1,00  | stuk  | 0,55664  |
 | 1M01ACAO  | V  | 19375  | Movicox tablet 7,5mg  | 2,00  | stuk  | 0,33398  |
 | 1M01ACAO  | V  | 19376  | Movicox tablet 15mg  | 1,00  | stuk  | 0,55664  |
-| 1M01ACAO  | V  | 22620  | Brexine bruis bruistablet 20mg  | 1,00  | stuk  | 0,55664  |
 | 1M01ACAO  | V  | 28770=57428  | Piroxicam a disper tablet 20mg  | 1,00  | stuk  | 0,55664  |
 | 1M01ACAO  | V  | 31426//19375  | Movalis tablet 7,5mg  | 2,00  | stuk  | 0,33398  |
 | 1M01ACAO  | V  | 31824  | Meloxicam cf tablet 7,5mg  | 2,00  | stuk  | 0,33398  |
@@ -8077,7 +7796,6 @@ J.F.Hoogervorst
 | 1M01AEAO  | V  | 10895  | Ibuprofen pch tablet 600mg  | 2,00  | stuk  | 0,27832  |
 | 1M01AEAO  | V  | 11195  | NAPROXEN MYLAN TABLET 250MG  | 2  | STUK  | 0,27832  |
 | 1M01AEAO  | V  | 11196  | NAPROXEN MYLAN TABLET 500MG  | 1  | STUK  | 0,55664  |
-| 1M01AEAO  | V  | 11815  | Froben suscap capsule 200mg  | 1,00  | stuk  | 0,55664  |
 | 1M01AEAO  | V  | 12570  | Naproxen pch tablet 250mg  | 2,00  | stuk  | 0,27832  |
 | 1M01AEAO  | V  | 12571  | Naproxen pch tablet 500mg  | 1,00  | stuk  | 0,55664  |
 | 1M01AEAO  | V  | 13331  | Brufen bruis 600mg bruisgranulaat in sachet  | 2,00  | stuk  | 0,27832  |
@@ -8090,7 +7808,6 @@ J.F.Hoogervorst
 | 1M01AEAO  | V  | 15062  | Ketoprofen pch retard capsule mga 100mg  | 1,50  | stuk  | 0,37109  |
 | 1M01AEAO  | V  | 15063  | Ketoprofen pch retard capsule mga 200mg  | 0,75  | stuk  | 0,74219  |
 | 1M01AEAO  | V  | 16417=15063  | Ketoprofen actavis retard capsule mga 200mg  | 0,75  | stuk  | 0,74219  |
-| 1M01AEAO  | V  | 16676=15063  | Ketoprofen cf retard capsule mga 200mg  | 0,75  | stuk  | 0,74219  |
 | 1M01AEAO  | V  | 16705=15063  | Ketoprofen rp retard capsule mga 200mg  | 0,75  | stuk  | 0,74219  |
 | 1M01AEAO  | V  | 18336=17667  | Oscorel capsule mga 150mg  | 1,00  | stuk  | 0,55664  |
 | 1M01AEAO  | V  | 18545  | Ibuprofenum tablet 600mg  | 2,00  | stuk  | 0,27832  |
@@ -8148,8 +7865,6 @@ J.F.Hoogervorst
 | 1M01AEAO  | V  | 57559  | NAPROXEN APOTEX TABLET 500MG  | 1  | STUK  | 0,55664  |
 | 1M01AEAO  | V  | 57561  | Naproxen tablet 250mg  | 2,00  | stuk  | 0,27832  |
 | 1M01AEAO  | V  | 57562  | Naproxen tablet 500mg  | 1,00  | stuk  | 0,55664  |
-| 1M01AEAO  | V  | 7442  | Froben dragee 50mg  | 4,00  | stuk  | 0,16699  |
-| 1M01AEAO  | V  | 7443  | Froben dragee 100mg  | 2,00  | stuk  | 0,27832  |
 | 1M01AEAO  | V  | 8503  | Surgam tablet 200mg  | 3,00  | stuk  | 0,18555  |
 | 1M01AEAO  | V  | 8898  | Ibosure capsule mga 300mg  | 4,00  | stuk  | 0,14844  |
 | 1M01AEAO  | V  | 9729  | Surgam tablet 300mg  | 2,00  | stuk  | 0,27832  |
@@ -8210,7 +7925,6 @@ J.F.Hoogervorst
 | 1M01AEAR  | V  | 57650  | Naproxen katwijk zetpil 500mg  | 1,00  | stuk  | 0,51096  |
 | 1M01AEAR  | V  | 57763=9551  | Ibuprofen  | 3,00  | stuk  | 0,17032  |
 | 1M01AEAR  | V  | 57796  | Ibuprofen zetpil 500mg  | 3,00  | stuk  | 0,17032  |
-| 1M01AEAR  | V  | 9125  | Froben zetpil 100mg  | 2,00  | stuk  | 0,25548  |
 | 1M01AEAR  | V  | 9551  | Ibuprofen pch zetpil 500mg  | 3,00  | stuk  | 0,17032  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1N02ADAP  | V  | 6322  | Fortral injvlst 30mg/ml ampul 1,5ml  | 4,44  | stuk  | 1,87865  |
@@ -8292,15 +8006,12 @@ J.F.Hoogervorst
 | 1N05AGAPD  | V  | 6151  | Imap injsusp 2mg/ml ampul 6ml (im)  | 0,06  | stuk  | 12,27549  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1R06ABAO  | K  | 1528  | FENISTIL DIMETINDEENWATERSTOFMALEAAT DRUP 1MG/ML  | 4,00  | ml  | 0,10573  |
-| 1R06ABAO  | K  | 1821  | Polaramine siroop 0,4mg/ml  | 15,00  | ml  | 0,02819  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1R06AAAO  | V  | 103076//5621  | Tavegyl tablet 1mg  | 2,00  | stuk  | 0,14913  |
 | 1R06AAAO  | V  | 28222//5621  | Tavegil tablet 1mg  | 2,00  | stuk  | 0,14913  |
 | 1R06AAAO  | V  | 5621  | Tavegyl tablet 1mg  | 2,00  | stuk  | 0,14913  |
 | 1R06ABAO  | V  | 1527  | Fenistil dragee 1mg  | 4,00  | stuk  | 0,07457  |
-| 1R06ABAO  | V  | 1809  | Polaramine repetab tablet mga 6mg  | 1,00  | stuk  | 0,29826  |
 | 1R06ABAO  | V  | 1848  | Polaramine tablet 2mg  | 3,00  | stuk  | 0,13919  |
-| 1R06AEAO  | V  | 22211//8664  | Tinset tablet 30mg  | 2,00  | stuk  | 0,14913  |
 | 1R06AEAO  | V  | 8664  | Tinset tablet 30mg  | 2,00  | stuk  | 0,14913  |
 | 1R06AXAO  | V  | 9642  | Mebhydroline pch dragee 50mg  | 4,00  | stuk  | 0,07457  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -8348,7 +8059,6 @@ J.F.Hoogervorst
 | 2N05ADAO  | V  | 56277  | Haloperidol pch tablet 1mg  | 8,00  | stuk  | 0,12355  |
 | 2N05ADAO  | V  | 56278  | Haloperidol pch tablet 5mg  | 1,60  | stuk  | 0,34320  |
 | 2N05ADAO  | V  | 56460  | Haloperidol cf tablet 20mg  | 0,40  | stuk  | 1,37280  |
-| 2N05ADAO  | V  | 56548  | Haloperidol pch tablet 10mg  | 0,80  | stuk  | 0,68640  |
 | 2N05ADAO  | V  | 7241  | Haldol tablet 5mg  | 1,60  | stuk  | 0,34320  |
 | 2N05ADAO  | V  | 8413  | Impromen druppelvloeistof 2mg/ml  | 5,00  | ml  | 0,10982  |
 | 2N05ADAO  | V  | 8840  | Haldol tablet 10mg  | 0,80  | stuk  | 0,68640  |
@@ -8382,9 +8092,6 @@ J.F.Hoogervorst
 | 2N06AAAO  | V  | 100004  | Venlafaxine mylan retard capsule mva 37,5mg  | 2,67  | stuk  | 0,47987  |
 | 2N06AAAO  | V  | 100007  | Venlafaxine mylan retard capsule mva 75mg  | 1,33  | stuk  | 0,79979  |
 | 2N06AAAO  | V  | 100014  | Venlafaxine mylan retard capsule mva 150mg  | 0,67  | stuk  | 1,59958  |
-| 2N06AAAO  | V  | 100295  | Venlafaxine ranbaxy capsule mva 37,5mg  | 2,67  | stuk  | 0,47987  |
-| 2N06AAAO  | V  | 100299  | Venlafaxine ranbaxy capsule mva 75mg  | 1,33  | stuk  | 0,79979  |
-| 2N06AAAO  | V  | 100300  | Venlafaxine ranbaxy capsule mva 150mg  | 0,67  | stuk  | 1,59958  |
 | 2N06AAAO  | V  | 100765  | Venlafaxine sandoz retard capsule mva 75mg  | 1,33  | stuk  | 0,79979  |
 | 2N06AAAO  | V  | 100766  | Venlafaxine sandoz retard capsule mva 150mg  | 0,67  | stuk  | 1,59958  |
 | 2N06AAAO  | V  | 101048  | Venlafaxine actavis xr capsule mva 37,5mg  | 2,67  | stuk  | 0,47987  |
@@ -8444,8 +8151,6 @@ J.F.Hoogervorst
 | 2N06ABAO  | V  | 24467  | Fluoxetine pch capsule 20mg  | 1,00  | stuk  | 1,06638  |
 | 2N06ABAO  | V  | 24609  | Fluoxetine cf disp tablet 20mg  | 1,00  | stuk  | 1,06638  |
 | 2N06ABAO  | V  | 24641  | Zoloft conc voor oplossing 20mg/ml  | 2,50  | ml  | 0,42655  |
-| 2N06ABAO  | V  | 24748  | Fluvoxamini maleas tablet 50mg  | 2,00  | stuk  | 0,63983  |
-| 2N06ABAO  | V  | 24749  | Fluvoxamini maleas tablet 100mg  | 1,00  | stuk  | 1,06638  |
 | 2N06ABAO  | V  | 24825  | Fluoxetine eb capsule 20mg  | 1,00  | stuk  | 1,06638  |
 | 2N06ABAO  | V  | 24905  | Fluoxetine cf capsule 20mg  | 1,00  | stuk  | 1,06638  |
 | 2N06ABAO  | V  | 25142  | Citalopram sandoz tablet omhuld 20mg  | 1,00  | stuk  | 1,06638  |
@@ -8468,7 +8173,6 @@ J.F.Hoogervorst
 | 2N06ABAO  | V  | 26816  | Fluoxetine actavis capsule 20mg  | 1,00  | stuk  | 1,06638  |
 | 2N06ABAO  | V  | 26841  | Paroxetine merck tablet filmomh 20mg(als hcl anhy)  | 1,00  | stuk  | 1,06638  |
 | 2N06ABAO  | V  | 26925=14668  | Paroxetine rp tablet filmomhuld 20mg(als hcl hemi)  | 1,00  | stuk  | 1,06638  |
-| 2N06ABAO  | V  | 26946=14668  | Paroxetine pch tablet filmomh 20mg(als hcl hemi)  | 1,00  | stuk  | 1,06638  |
 | 2N06ABAO  | V  | 26951=14668  | Paroxetine a tablet filmomhuld 20mg(als hcl hemi)  | 1,00  | stuk  | 1,06638  |
 | 2N06ABAO  | V  | 27106  | Paroxetine sandoz tablet filmomhuld 20mg  | 1,00  | stuk  | 1,06638  |
 | 2N06ABAO  | V  | 27135  | Seroxat tablet filmomhuld 30mg  | 0,67  | stuk  | 1,59958  |
@@ -8491,14 +8195,12 @@ J.F.Hoogervorst
 | 2N06ABAO  | V  | 28673  | Citalopram mylan tablet omhuld 40mg  | 0,50  | stuk  | 2,13277  |
 | 2N06ABAO  | V  | 28924  | PAROXETINE MYLAN TABLET FILMOMHULD 30MG  | 0,67  | STUK  | 1,59958  |
 | 2N06ABAO  | V  | 29009=26577  | Paroxetinum tablet 20mg  | 1,00  | stuk  | 1,06638  |
-| 2N06ABAO  | V  | 29029=28261  | Fluoxetine sandoz tablet 20mg  | 1,00  | stuk  | 1,06638  |
 | 2N06ABAO  | V  | 29189  | Fluvoxamine maleaat mylan tablet 50mg  | 2,00  | stuk  | 0,63983  |
 | 2N06ABAO  | V  | 29190  | Fluvoxamine maleaat mylan tablet 100mg  | 1,00  | stuk  | 1,06638  |
 | 2N06ABAO  | V  | 29755  | Citalopram bluefish tablet omhuld 10mg  | 2,00  | stuk  | 0,63983  |
 | 2N06ABAO  | V  | 29756  | Citalopram bluefish tablet omhuld 20mg  | 1,00  | stuk  | 1,06638  |
 | 2N06ABAO  | V  | 29757  | Citalopram bluefish tablet omhuld 40mg  | 0,50  | stuk  | 2,13277  |
 | 2N06ABAO  | V  | 30007  | Fluoxetine sandoz capsule 20mg  | 1,00  | stuk  | 1,06638  |
-| 2N06ABAO  | V  | 30052  | Paroxetine sandoz tablet 20mg  | 1,00  | stuk  | 1,06638  |
 | 2N06ABAO  | V  | 30134  | Fluoxetinum tablet 20mg  | 1,00  | stuk  | 1,06638  |
 | 2N06ABAO  | V  | 30173  | Paroxetine rp tablet filmomh 30mg(als hcl hemi)  | 0,67  | stuk  | 1,59958  |
 | 2N06ABAO  | V  | 30210  | Paroxetine rp tablet filmomhuld 20mg(als hcl anhy)  | 1,00  | stuk  | 1,06638  |
@@ -8523,7 +8225,6 @@ J.F.Hoogervorst
 | 2N06ABAO  | V  | 32315  | Paroxetine pch tablet filmomh 20mg(als hcl anhy)  | 1,00  | stuk  | 1,06638  |
 | 2N06ABAO  | V  | 32369  | FLUOXETINE MYLAN DISP TABLET 20MG  | 1,00  | stuk  | 1,06638  |
 | 2N06ABAO  | V  | 32515  | PAROXETINE APOTEX TABLET FILMOMHULD 20MG  | 1,00  | stuk  | 1,06638  |
-| 2N06ABAO  | V  | 32572  | Sertraline actavis tablet filmomhuld 50mg  | 1,00  | stuk  | 1,06638  |
 | 2N06ABAO  | V  | 32678  | Sertraline mylan tablet filmomhuld 50mg  | 1,00  | stuk  | 1,06638  |
 | 2N06ABAO  | V  | 32679  | Sertraline mylan tablet filmomhuld 100mg  | 0,50  | stuk  | 2,13277  |
 | 2N06ABAO  | V  | 33417  | Paroxetine cf tablet filmomhuld 20mg(als mesilas)  | 1,00  | stuk  | 1,06638  |
@@ -8601,9 +8302,6 @@ J.F.Hoogervorst
 | 2N06AXAO  | V  | 34984  | Mirtazapine rp orodisp tablet 15mg  | 2,00  | stuk  | 0,63983  |
 | 2N06AXAO  | V  | 34985  | Mirtazapine rp orodisp tablet 30mg  | 1,00  | stuk  | 1,06638  |
 | 2N06AXAO  | V  | 34986  | Mirtazapine rp orodisp tablet 45mg  | 0,67  | stuk  | 1,59958  |
-| 2N06AXAO  | V  | 34993  | Mirtazapine actavis orodisp tablet 15mg  | 2,00  | stuk  | 0,63983  |
-| 2N06AXAO  | V  | 34994  | Mirtazapine actavis orodisp tablet 30mg  | 1,00  | stuk  | 1,06638  |
-| 2N06AXAO  | V  | 34995  | Mirtazapine actavis orodisp tablet 45mg  | 0,67  | stuk  | 1,59958  |
 | 2N06AXBO  | V  | 9145  | Trazolan tablet 100mg  | 3,00  | stuk  | 0,35546  |
 | 2N06BAAO  | V  | 33668  | Wellbutrin xr tablet mga 150mg  | 2,00  | stuk  | 0,63983  |
 | 2N06BAAO  | V  | 33669  | Wellbutrin xr tablet mga 300mg  | 1,00  | stuk  | 1,06638  |
@@ -8622,8 +8320,6 @@ J.F.Hoogervorst
 | 2R06AXAO  | K  | EU/1/00/160/063  | Aerius drank 0,5mg/ml  | 10,00  | ml  | 0,09461  |
 | 2R06AXAO  | K  | EU/1/00/160/066  | Aerius drank 0,5mg/ml  | 10,00  | ml  | 0,09461  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2R06AEAO  | V  | 102667//26770  | Xyzal tablet filmomhuld 5mg  | 1,00  | stuk  | 0,50499  |
-| 2R06AEAO  | V  | 103163//26770  | Xyzal tablet filmomhuld 5mg  | 1,00  | stuk  | 0,50499  |
 | 2R06AEAO  | V  | 13010  | Zyrtec tablet 10mg  | 1,00  | stuk  | 0,50499  |
 | 2R06AEAO  | V  | 17708  | Kestine tablet 10mg  | 1,00  | stuk  | 0,50499  |
 | 2R06AEAO  | V  | 25270  | Cetirizine dihcl sandoz tablet 10mg  | 1,00  | stuk  | 0,50499  |
@@ -8659,7 +8355,6 @@ J.F.Hoogervorst
 | 2R06AXAO  | V  | 25765  | Loratadine sandoz tablet 10mg  | 1,00  | stuk  | 0,50499  |
 | 2R06AXAO  | V  | 27057  | Loratadine rp tablet 10mg  | 1,00  | stuk  | 0,50499  |
 | 2R06AXAO  | V  | 27517  | LORATADINE MERCK TABLET FILMOMHULD 10MG  | 1  | STUK  | 0,50499  |
-| 2R06AXAO  | V  | 27543//21625  | Telfast tablet omhuld 180mg  | 0,67  | stuk  | 0,75748  |
 | 2R06AXAO  | V  | 28076  | Loratadine actavis tablet 10mg  | 1,00  | stuk  | 0,50499  |
 | 2R06AXAO  | V  | 28337  | Loratadine pch tablet 10mg  | 1,00  | stuk  | 0,50499  |
 | 2R06AXAO  | V  | 28514=25632  | Allerfre tablet 10mg  | 1,00  | stuk  | 0,50499  |
@@ -8742,11 +8437,8 @@ J.F.Hoogervorst
 | 3N05CDAO  | V  | 28072=14357  | Temazepam cf tablet 20mg  | 1,00  | stuk  | 0,19558  |
 | 3N05CDAO  | V  | 28642=56756  | TEMAZEPAM MYLAN CAPSULE 10MG  | 2  | STUK  | 0,09779  |
 | 3N05CDAO  | V  | 28643=56757  | TEMAZEPAM MYLAN CAPSULE 20MG  | 1  | STUK  | 0,19558  |
-| 3N05CDAO  | V  | 28805=12950  | Flunitrazepam sandoz tablet 1mg  | 1,00  | stuk  | 0,19558  |
-| 3N05CDAO  | V  | 28806=12951  | Flunitrazepam sandoz tablet 2mg  | 0,50  | stuk  | 0,39116  |
 | 3N05CDAO  | V  | 5001  | Mogadon tablet 5mg  | 1,00  | stuk  | 0,19558  |
 | 3N05CDAO  | V  | 50283  | NITRAZEPAM APOTEX TABLET 5MG  | 1,00  | STUK  | 0,19558  |
-| 3N05CDAO  | V  | 51864  | Nitrazepamum tablet 5mg  | 1,00  | stuk  | 0,19558  |
 | 3N05CDAO  | V  | 52656  | Nitrazepam rp tablet 5mg  | 1,00  | stuk  | 0,19558  |
 | 3N05CDAO  | V  | 56066  | Flurazepam sandoz capsule 15mg  | 2,00  | stuk  | 0,11735  |
 | 3N05CDAO  | V  | 56108  | Flurazepam hcl pch capsule 15mg  | 2,00  | stuk  | 0,11735  |
@@ -8794,7 +8486,6 @@ J.F.Hoogervorst
 | 3N05CFAO  | V  | 23713=21437  | Zopiclon actavis tablet 7,5mg  | 1,00  | stuk  | 0,19558  |
 | 3N05CFAO  | V  | 23877  | Zopiclon tablet 7,5mg  | 1,00  | stuk  | 0,19558  |
 | 3N05CFAO  | V  | 24660  | Zopiclon mylan tablet 7,5mg  | 1,00  | stuk  | 0,19558  |
-| 3N05CFAO  | V  | 25038  | Zopiclon apex tablet 7,5mg  | 1,00  | stuk  | 0,19558  |
 | 3N05CFAO  | V  | 25628  | Zopiclon pch tablet 7,5mg  | 1,00  | stuk  | 0,19558  |
 | 3N05CFAO  | V  | 26268  | Zopiclon rp tablet 7,5mg  | 1,00  | stuk  | 0,19558  |
 | 3N05CFAO  | V  | 29536  | Zopiclon a tablet 7,5mg  | 1,00  | stuk  | 0,19558  |
@@ -8846,7 +8537,6 @@ J.F.Hoogervorst
 | 4N05ALAO  | V  | 14701//6279  | Dogmatil capsule 50mg  | 16,00  | stuk  | 0,24769  |
 | 4N05ALAO  | V  | 19811  | Dogmatil tablet 400mg  | 2,00  | stuk  | 1,98151  |
 | 4N05ALAO  | V  | 22427//19811  | Dogmatil tablet 400mg  | 2,00  | stuk  | 1,98151  |
-| 4N05ALAO  | V  | 31408//19811  | Dogmatil tablet 400mg  | 2,00  | stuk  | 1,98151  |
 | 4N05ALAO  | V  | 6278  | Dogmatil drank 5mg/ml  | 160,00  | ml  | 0,02477  |
 | 4N05ALAO  | V  | 6279  | Dogmatil capsule 50mg  | 16,00  | stuk  | 0,24769  |
 | 4N05AXAO  | V  | 100097//19127  | Risperdal drank 1mg/ml  | 5,00  | ml  | 0,79260  |
@@ -8863,7 +8553,6 @@ J.F.Hoogervorst
 | 4N05AXAO  | V  | 100463  | RISPERIDON APOTEX TABLET OMHULD 3MG  | 1,67  | STUK  | 2,37781  |
 | 4N05AXAO  | V  | 100464  | RISPERIDON APOTEX TABLET OMHULD 4MG  | 1,25  | STUK  | 3,17041  |
 | 4N05AXAO  | V  | 100610  | Risperidon katwijk drank 1mg/ml  | 5,00  | ml  | 0,79260  |
-| 4N05AXAO  | V  | 101945//25603  | Seroquel tablet filmomhuld 300mg  | 1,00  | stuk  | 3,96302  |
 | 4N05AXAO  | V  | 102464//25603  | Seroquel tablet filmomhuld 300mg  | 1,00  | stuk  | 3,96302  |
 | 4N05AXAO  | V  | 103853//34628  | Seroquel xr tablet mva 400mg  | 0,75  | stuk  | 5,28402  |
 | 4N05AXAO  | V  | 103854//34627  | Seroquel xr tablet mva 300mg  | 1,00  | stuk  | 3,96302  |
@@ -8885,8 +8574,6 @@ J.F.Hoogervorst
 | 4N05AXAO  | V  | 27791  | Risperdal quicklet orodisp tablet 1mg  | 5,00  | stuk  | 0,79260  |
 | 4N05AXAO  | V  | 27792  | Risperdal quicklet orodisp tablet 2mg  | 2,50  | stuk  | 1,58521  |
 | 4N05AXAO  | V  | 28456//20827  | Seroquel tablet filmomhuld 100mg  | 3,00  | stuk  | 1,32101  |
-| 4N05AXAO  | V  | 28774//20827  | Seroquel tablet filmomhuld 100mg  | 3,00  | stuk  | 1,32101  |
-| 4N05AXAO  | V  | 28775//20828  | Seroquel tablet filmomhuld 200mg  | 1,50  | stuk  | 2,64201  |
 | 4N05AXAO  | V  | 30913  | Risperidon cf tablet omhuld 0,5mg  | 10,00  | stuk  | 0,63408  |
 | 4N05AXAO  | V  | 30914  | Risperidon cf tablet omhuld 1mg  | 5,00  | stuk  | 0,79260  |
 | 4N05AXAO  | V  | 30915  | Risperidon cf tablet omhuld 2mg  | 2,50  | stuk  | 1,58521  |
@@ -8904,7 +8591,6 @@ J.F.Hoogervorst
 | 4N05AXAO  | V  | 32937//20828  | Seroquel tablet filmomhuld 200mg  | 1,50  | stuk  | 2,64201  |
 | 4N05AXAO  | V  | 32938//25603  | Seroquel tablet filmomhuld 300mg  | 1,00  | stuk  | 3,96302  |
 | 4N05AXAO  | V  | 32939//25603  | Seroquel tablet filmomhuld 300mg  | 1,00  | stuk  | 3,96302  |
-| 4N05AXAO  | V  | 32956//25603  | Seroquel tablet filmomhuld 300mg  | 1,00  | stuk  | 3,96302  |
 | 4N05AXAO  | V  | 33215  | Risperidon rp tablet omhuld 0,5mg  | 10,00  | stuk  | 0,63408  |
 | 4N05AXAO  | V  | 33216  | Risperidon rp tablet omhuld 1mg  | 5,00  | stuk  | 0,79260  |
 | 4N05AXAO  | V  | 33217  | Risperidon rp tablet omhuld 2mg  | 2,50  | stuk  | 1,58521  |
@@ -8928,7 +8614,6 @@ J.F.Hoogervorst
 | 4N05AXAO  | V  | 34329  | Risperidon a drank 1mg/ml  | 5,00  | ml  | 0,79260  |
 | 4N05AXAO  | V  | 34381  | Risperidon rp drank 1mg/ml  | 5,00  | ml  | 0,79260  |
 | 4N05AXAO  | V  | 34507//20827  | Seroquel tablet filmomhuld 100mg  | 3,00  | stuk  | 1,32101  |
-| 4N05AXAO  | V  | 34560//20828  | Seroquel tablet filmomhuld 200mg  | 1,50  | stuk  | 2,64201  |
 | 4N05AXAO  | V  | 34625  | Seroquel xr tablet mva 50mg  | 6,00  | stuk  | 0,66050  |
 | 4N05AXAO  | V  | 34626  | Seroquel xr tablet mva 200mg  | 1,50  | stuk  | 2,64201  |
 | 4N05AXAO  | V  | 34627  | Seroquel xr tablet mva 300mg  | 1,00  | stuk  | 3,96302  |
@@ -8958,7 +8643,6 @@ J.F.Hoogervorst
 | AC03EAAO  | V  | 17145=56065  | TRIAMTEREEN/EPITIZIDE APOTEX CAPSULE 50/4MG  | 1,00  | STUK  | 0,16018  |
 | AC03EAAO  | V  | 29034=13605  | TRIAMTEREEN/EPITIZIDE MYLAN CAPSULE 50/4MG  | 1,00  | stuk  | 0,16018  |
 | AC03EAAO  | V  | 4558  | Dyta urese capsule  | 1,00  | stuk  | 0,16018  |
-| AC03EAAO  | V  | 55664  | Triamtereen/epitizide flx capsule 50/4mg  | 1,00  | stuk  | 0,16018  |
 | AC03EAAO  | V  | 56065  | Triamtereen/epitizide pch capsule 50/4mg  | 1,00  | stuk  | 0,16018  |
 | AC03EAAO  | V  | 56878  | Triamtereen/epitizide gf capsule 50/4mg  | 1,00  | stuk  | 0,16018  |
 | AC03EAAO  | V  | 57247  | Epitizide /triamtereen capsule 4/50mg  | 1,00  | stuk  | 0,16018  |
@@ -9063,7 +8747,6 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | YB01ACAO  | V  | 21171  | Asasantin retard capsule mga 25/200mg  | 1,00  | stuk  | 0,29095  |
 | YB01ACAO  | V  | 30543//21171  | Asasantin retard capsule mga 25/200mg  | 1,00  | stuk  | 0,29095  |
-| YB01ACAO  | V  | 31421//21171  | Asasantin retard capsule mga 25/200mg  | 1,00  | stuk  | 0,29095  |
 | YB01ACAO  | V  | 32300//21171  | Asasantin retard capsule mga 25/200mg  | 1,00  | stuk  | 0,29095  |
 | YB01ACAO  | V  | 33850//21171  | Asasantin retard capsule mga 25/200mg  | 1,00  | stuk  | 0,29095  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -9102,7 +8785,6 @@ J.F.Hoogervorst
 | YC09BAAO  | V  | 15231  | Cibadrex tablet 20/25mg  | 1,00  | stuk  | 1,66100  |
 | YC09BAAO  | V  | 15551  | Tritazide tablet 5/25mg  | 1,00  | stuk  | 1,27162  |
 | YC09BAAO  | V  | 15835  | Acuzide tablet 20/12,5mg  | 1,00  | stuk  | 0,83050  |
-| YC09BAAO  | V  | 19938  | Diurace tablet  | 1,00  | stuk  | 0,83050  |
 | YC09BAAO  | V  | 20734  | Renitec plus tablet 20/6mg  | 1,00  | stuk  | 1,19299  |
 | YC09BAAO  | V  | 22912  | Coversyl plus tablet 4/1,25mg  | 1,00  | stuk  | 0,63581  |
 | YC09BAAO  | V  | 23512  | CAPTOPRIL/HYDROCHLOORTHIAZIDE APOT TABLET 50/25MG  | 1,00  | stuk  | 0,68754  |
@@ -9129,7 +8811,6 @@ J.F.Hoogervorst
 | YC09BAAO  | V  | 31563  | Fosinopril/hydrochloorthiazide pch tabl 20/12,5mg  | 1,00  | stuk  | 0,83050  |
 | YC09BAAO  | V  | 32851  | Enalapril/hydrochloorthiazide sandoz tab 20/6mg  | 1,00  | stuk  | 1,19299  |
 | YC09BAAO  | V  | 33095  | Ramipril/hydrochloorthiazide pch tablet 5/25mg  | 1,00  | stuk  | 1,27162  |
-| YC09BAAO  | V  | 33222  | Fosinopril/hydrochloorthiazide act tabl 20/12,5mg  | 1,00  | stuk  | 0,83050  |
 | YC09BAAO  | V  | 33358  | Quinapril/hydrochloorthiazide pch tabl 20/12,5mg  | 1,00  | stuk  | 0,83050  |
 | YC09BAAO  | V  | 33663  | COVERSYL PLUS ARG TABLET FILMOMHULD 5/1,25MG  | 1  | STUK  | 0,78183  |
 | YC09BAAO  | V  | 33838//22912  | Perindopril tert-butyl/indapamide tablet 4/1,25mg  | 1,00  | stuk  | 0,63581  |
@@ -9162,7 +8843,6 @@ J.F.Hoogervorst
 | YC09DAAO  | V  | 100454  | Codiovan tablet omhuld 320/25mg  | 1,00  | stuk  | 3,08026  |
 | YC09DAAO  | V  | 100626//22365  | Valsartan/hydrochloorthiazide tab omh 80/12,5mg  | 1,00  | stuk  | 0,79593  |
 | YC09DAAO  | V  | 101348//19269  | Cozaar plus tablet omhuld 50/12,5mg  | 1,00  | stuk  | 0,79593  |
-| YC09DAAO  | V  | 101466//19269  | Hyzaar tablet 50/12,5mg  | 1,00  | stuk  | 0,79593  |
 | YC09DAAO  | V  | 101990//31122  | Valsartan/hydrochloorthiazide tabl omh 160/25mg  | 1,00  | stuk  | 1,59186  |
 | YC09DAAO  | V  | 102673//100453  | Codiovan tablet omhuld 320/12,5mg  | 1,00  | stuk  | 3,02853  |
 | YC09DAAO  | V  | 102676//100454  | Codiovan tablet omhuld 320/25mg  | 1,00  | stuk  | 3,08026  |
@@ -9172,22 +8852,18 @@ J.F.Hoogervorst
 | YC09DAAO  | V  | 103547//100454  | Codiovan tablet omhuld 320/25mg  | 1,00  | stuk  | 3,08026  |
 | YC09DAAO  | V  | 103635//31122  | Codiovan tablet omhuld 160/25mg  | 1,00  | stuk  | 1,59186  |
 | YC09DAAO  | V  | 103636//29491  | Codiovan tablet omhuld 160/12,5mg  | 1,00  | stuk  | 1,54013  |
-| YC09DAAO  | V  | 103694//19269  | Cozaar comp tablet omhuld 50/12,5mg  | 1,00  | stuk  | 0,79593  |
 | YC09DAAO  | V  | 103697//100454  | Codiovan tablet omhuld 320/25mg  | 1,00  | stuk  | 3,08026  |
 | YC09DAAO  | V  | 103699//100453  | Codiovan tablet omhuld 320/12,5mg  | 1,00  | stuk  | 3,02853  |
 | YC09DAAO  | V  | 104462//31122  | Valsartan/hydrochloorthiazide tabl omh 160/25mg  | 1,00  | stuk  | 1,59186  |
 | YC09DAAO  | V  | 104464//100453  | Codiovan tablet omhuld 320/12,5mg  | 1,00  | stuk  | 3,02853  |
 | YC09DAAO  | V  | 104543//100454  | Codiovan tablet omhuld 320/25mg  | 1,00  | stuk  | 3,08026  |
-| YC09DAAO  | V  | 105053//32433  | Cozaar comp tablet omhuld 100/12,5mg  | 1,00  | stuk  | 1,54013  |
 | YC09DAAO  | V  | 19269  | Hyzaar tablet 50/12,5mg  | 1,00  | stuk  | 0,79593  |
 | YC09DAAO  | V  | 22365  | Codiovan tablet omhuld 80/12,5mg  | 1,00  | stuk  | 0,79593  |
 | YC09DAAO  | V  | 23597  | Fortzaar tablet omhuld 100/25mg  | 1,00  | stuk  | 1,59186  |
 | YC09DAAO  | V  | 24995  | Atacand plus tablet 16/12,5mg  | 1,00  | stuk  | 1,54013  |
 | YC09DAAO  | V  | 29491  | Codiovan tablet omhuld 160/12,5mg  | 1,00  | stuk  | 1,54013  |
-| YC09DAAO  | V  | 30275//23597  | Forzaar tablet omhuld 100/25mg  | 1,00  | stuk  | 1,59186  |
 | YC09DAAO  | V  | 31122  | Codiovan tablet omhuld 160/25mg  | 1,00  | stuk  | 1,59186  |
 | YC09DAAO  | V  | 31423//29491  | Cotareg tablet omhuld 160/12,5mg  | 1,00  | stuk  | 1,54013  |
-| YC09DAAO  | V  | 31425//23597  | Fortzaar tablet omhuld 100/25mg  | 1,00  | stuk  | 1,59186  |
 | YC09DAAO  | V  | 31742//22365  | Cotareg tablet omhuld 80/12,5mg  | 1,00  | stuk  | 0,79593  |
 | YC09DAAO  | V  | 32134//29491  | Codiovan tablet omhuld 160/12,5mg  | 1,00  | stuk  | 1,54013  |
 | YC09DAAO  | V  | 32298//29491  | Codiovan tablet omhuld 160/12,5mg  | 1,00  | stuk  | 1,54013  |
@@ -9197,17 +8873,12 @@ J.F.Hoogervorst
 | YC09DAAO  | V  | 32889//22365  | Cotareg tablet omhuld 80/12,5mg  | 1,00  | stuk  | 0,79593  |
 | YC09DAAO  | V  | 32891//29491  | Cotareg tablet omhuld 160/12,5mg  | 1,00  | stuk  | 1,54013  |
 | YC09DAAO  | V  | 32929//24995  | Blopresid tablet 16/12,5mg  | 1,00  | stuk  | 1,54013  |
-| YC09DAAO  | V  | 32931//23597  | Losazid tablet omhuld 100/25mg  | 1,00  | stuk  | 1,59186  |
 | YC09DAAO  | V  | 33125//31122  | Cotareg tablet omhuld 160/25mg  | 1,00  | stuk  | 1,59186  |
-| YC09DAAO  | V  | 33163//23597  | Kaliumlosartan/hydrochloorthiaz tab omh 100/25mg  | 1,00  | stuk  | 1,59186  |
 | YC09DAAO  | V  | 33208//29491  | Valsartan/hydrochloorthiazide tabl omh 160/12,5mg  | 1,00  | stuk  | 1,54013  |
 | YC09DAAO  | V  | 33379//31122  | Valsartan/hydrochloorthiazide tabl omh 160/25mg  | 1,00  | stuk  | 1,59186  |
 | YC09DAAO  | V  | 33725//31122  | Cotareg tablet omhuld 160/25mg  | 1,00  | stuk  | 1,59186  |
-| YC09DAAO  | V  | 33961//23597  | Fortzaar tablet omhuld 100/25mg  | 1,00  | stuk  | 1,59186  |
-| YC09DAAO  | V  | 33962//23597  | Fortzaar tablet omhuld 100/25mg  | 1,00  | stuk  | 1,59186  |
 | YC09DAAO  | V  | 34471//31122  | Cotareg tablet omhuld 160/25mg  | 1,00  | stuk  | 1,59186  |
 | YC09DAAO  | V  | 34505//31122  | Codiovan tablet omhuld 160/25mg  | 1,00  | stuk  | 1,59186  |
-| YC09DAAO  | V  | 34601//23597  | Forzaar tablet omhuld 100/25mg  | 1,00  | stuk  | 1,59186  |
 | YC09DAAO  | V  | EU/1/02/213/002  | Micardisplus tablet 40/12,5mg  | 1,00  | stuk  | 0,79593  |
 | YC09DAAO  | V  | EU/1/02/213/007  | Micardisplus tablet 80/12,5mg  | 1,00  | stuk  | 1,54013  |
 | YC09DAAO  | V  | EU/1/02/213/018  | Micardisplus tablet 80/25mg  | 1,00  | stuk  | 1,59186  |
@@ -9272,7 +8943,6 @@ J.F.Hoogervorst
 | YM05BBAO  | V  | 31634  | ACTOKIT (1TAB ACTONEL 35MG+6TAB CALCIUM 500MG)28ST  | 1,00  | verp  | 40,59628  |
 | --- | --- | --- | --- | --- | --- | --- |
 | YR03ACCIDA  | V  | 102666//25865  | Seretide aerosol 25/ 50mcg/do cfkvr spbs 120do+inh  | 1,00  | do  | 0,28928  |
-| YR03ACCIDA  | V  | 103954//25867  | Brisair aerosol 25/250mcg/do cfkvr spbs 120do+inh  | 1,00  | do  | 0,52294  |
 | YR03ACCIDA  | V  | 103959//34610  | Foster aerosol 100/6mcg/dosis spuitbus 120do  | 1,00  | do  | 0,40611  |
 | YR03ACCIDA  | V  | 25865  | Seretide aerosol 25/ 50mcg/do cfkvr spbs 120do+inh  | 1,00  | do  | 0,28928  |
 | YR03ACCIDA  | V  | 25866  | Seretide aerosol 25/125mcg/do cfkvr spbs 120do+inh  | 1,00  | do  | 0,37690  |
@@ -9303,8 +8973,6 @@ J.F.Hoogervorst
 | YR03ACCIDCV  | V  | 26878//23530  | Seretide diskus inhpdr 50/250mcg 60do  | 1,00  | do  | 0,90703  |
 | YR03ACCIDCV  | V  | 26879//23531  | Seretide diskus inhpdr 50/500mcg 60do  | 1,00  | do  | 1,20396  |
 | YR03ACCIDCV  | V  | 27283//23530  | Seretide diskus inhpdr 50/250mcg 60do  | 1,00  | do  | 0,90703  |
-| YR03ACCIDCV  | V  | 27746//23530  | Seretide diskus inhpdr 50/250mcg 60do  | 1,00  | do  | 0,90703  |
-| YR03ACCIDCV  | V  | 27747//23531  | Seretide diskus inhpdr 50/500mcg 60do  | 1,00  | do  | 1,20396  |
 | YR03ACCIDCV  | V  | 27874//23529  | Seretide diskus inhpdr 50/100mcg 60do  | 1,00  | do  | 0,72888  |
 | YR03ACCIDCV  | V  | 28201//23530  | Seretide diskus inhpdr 50/250mcg 60do  | 1,00  | do  | 0,90703  |
 | YR03ACCIDCV  | V  | 28202//23531  | Seretide diskus inhpdr 50/500mcg 60do  | 1,00  | do  | 1,20396  |
@@ -9369,10 +9037,7 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | YS01EDCG  | V  | 22871  | Cosopt oogdruppels flacon 5ml  | 1,00  | ml  | 3,13380  |
 | YS01EDCG  | V  | 29694//22871  | Cosopt oogdruppels flacon 5ml  | 1,00  | ml  | 3,13380  |
-| YS01EDCG  | V  | 30092//22871  | Cosopt oogdruppels flacon 5ml  | 1,00  | ml  | 3,13380  |
 | YS01EDCG  | V  | 32135//22871  | Cosopt oogdruppels flacon 5ml  | 1,00  | ml  | 3,13380  |
-| --- | --- | --- | --- | --- | --- | --- |
-| YS01EDDG  | V  | 11269  | Normoglaucon oogdruppels flacon 10ml  | 1,00  | ml  | 0,93775  |
 | --- | --- | --- | --- | --- | --- | --- |
 | YS01EDEG  | V  | EU/1/08/482/001  | Azarga oogdruppels flacon 5ml  | 1,00  | ml  | 4,23195  |
 | YS01EDEG  | V  | EU/1/08/482/002  | Azarga oogdruppels flacon 5ml  | 1,00  | ml  | 4,23195  |
@@ -9423,8 +9088,6 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0G03ACBO  | V  | 32253  | POSTINOR TABLET 1500MCG  | 1  | STUK  | 5,32280  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0G04BDBO  | V  | 104803//26670  | DETRUSITOL SR CAPSULE MVA 4MG  | 1  | STUK  | 0,82981  |
-| --- | --- | --- | --- | --- | --- | --- |
 | 0H02ABBO  | V  | 104785  | PREDNISOLON A TABLET 30MG  | 0,33  | STUK  | 0,29950  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0J01CRAO  | V  | 103894  | AMOXI/CLAV ACTAVIS TABLET OMHULD 875/125MG  | 1,71  | STUK  | 1,36112  |
@@ -9464,11 +9127,6 @@ J.F.Hoogervorst
 | 0A02BCAO  | V  | 33072  | LANSOPRAZOL BLUEFISH 30 MG CAPSULES MSR  | 1  | STUK  | 1,68111  |
 | 0A02BCAO  | V  | 105104//23210  | PARIET TABLET MSR 10MG  | 2  | STUK  | 1,00866  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1A06ACAO  | V  | 103882//13961  | METAMUCIL SKVR LEMON POEDER 3,4G IN SACHET  | 2,06  | STUK  | 0,20039  |
-| 1A06ACAO  | V  | 103881//13963  | METAMUCIL SKVR ORANGE POEDER 3,4G IN SACHET  | 2,06  | STUK  | 0,20039  |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1A06ADAO  | V  | 104107//19006  | MOVICOLON POEDER VOOR DRANK IN SACHET  | 0,76  | STUK  | 0,54285  |
-| --- | --- | --- | --- | --- | --- | --- |
 | 0B01ACDO  | V  | EU/1/08/503/002  | EFIENT TABLET FILMOMHULD 5MG  | 2  | STUK  | 1,12826  |
 | 0B01ACDO  | V  | EU/1/08/503/009  | EFIENT TABLET FILMOMHULD 10MG  | 1  | STUK  | 1,88043  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -9483,7 +9141,6 @@ J.F.Hoogervorst
 | 0B03XAAP  | V  | EU/1/01/185/098  | ARANESP 500 INJVLST 500MCG/ML WWSP 1ML  | 0,02  | ML  | 1228,60080  |
 | 0B03XAAP  | V  | EU/1/01/185/087  | ARANESP 60 INJVLST 200MCG/ML WWSP 0,3ML  | 0,05  | ML  | 491,44032  |
 | 0B03XAAP  | V  | EU/1/01/185/089  | ARANESP 80 INJVLST 200MCG/ML WWSP 0,4ML  | 0,05  | ML  | 491,44032  |
-| 0B03XAAP  | V  | 105343//33268  | EPREX 40000 INJVLST 40000IE/ML WWSP 1ML  | 0,05  | ML  | 491,44032  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0C07ABAO  | V  | 102323  | METOPROLOLSUCCINAAT A RETARD 200 TABLET MGA 190MG  | 0,75  | STUK  | 0,54151  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -9495,9 +9152,6 @@ J.F.Hoogervorst
 | 0C09CAAO  | V  | 34212  | KALIUMLOSARTAN ACTAVIS TABLET FILMOMHULD 50MG  | 1  | STUK  | 0,74420  |
 | --- | --- | --- | --- | --- | --- | --- |
 | YC09BAAO  | V  | 34391  | FOSINOPRIL/HYDROCHLOORTHIAZIDE ACT TABL 20/12,5MG  | 1  | STUK  | 0,83050  |
-| --- | --- | --- | --- | --- | --- | --- |
-| YC10AXAO  | V  | 104904//30928  | INEGY TABLET 10/20MG  | 1,00  | STUK  | 2,64369  |
-| YC10AXAO  | V  | 104903//30929  | INEGY TABLET 10/40MG  | 1,00  | STUK  | 3,56638  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0D01BABO  | V  | 104074  | TERBINAFINE APOTEX TABLET 250MG  | 1  | STUK  | 2,33152  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -9610,7 +9264,6 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0G03ACAIM  | V  | 6602  | DEPO PROVERA 150 INJSUSP 150MG/ML WWSP 1ML  | 0,01  | ML  | 6,96550  |
 | 0G03ACAIM  | V  | 23557//6602  | DEPO PROVERA 150 INJSUSP 150MG/ML WWSP 1ML  | 0,01  | ML  | 6,96550  |
-| 0G03ACAIM  | V  | 27906//6602  | DEPO PROVERA 150 INJSUSP 150MG/ML WWSP 1ML  | 0,01  | ML  | 6,96550  |
 | 0G03ACAIM  | V  | 33124//6602  | DEPO PROVERA 150 INJSUSP 150MG/ML WWSP 1ML  | 0,01  | ML  | 6,96550  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0G03ACBO  | V  | 24996  | NORLEVO TABLET 0,75MG  | 2,00  | STUK  | 2,66140  |
@@ -9619,8 +9272,6 @@ J.F.Hoogervorst
 | 0G03ACBO  | V  | 104101//32303  | NORLEVO TABLET 1,5MG  | 1,00  | STUK  | 5,32280  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0G04BDBO  | V  | 104948  | OXYBUTYNINE HCL PCH TABLET 2,5MG  | 6,00  | STUK  | 0,16596  |
-| --- | --- | --- | --- | --- | --- | --- |
-| 0J01FAAO  | V  | 104868//21555  | CLARITROMYCINE ERC TABLET MGA 500MG  | 1,00  | STUK  | 2,43031  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0J07BCAP  | K  | EU/1/01/183/024  | HBVAXPRO 5 INJSUSP 10MCG/ML WWSP 0,5ML  | 0,50  | ML  | 44,28000  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -9693,8 +9344,6 @@ J.F.Hoogervorst
 | 0A04AAAP  | V  | 30524  | ONDANSETRON RP INJVLST 2MG/ML AMPUL 2ML  | 4,00  | ML  | 7,13682  |
 | 0A04AAAP  | V  | 30525  | ONDANSETRON RP INJVLST 2MG/ML AMPUL 4ML  | 4,00  | ML  | 7,13682  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0A05AAAO  | V  | 105162//8384  | URSOFALK CAPSULE 250MG  | 2,40  | STUK  | 0,77044  |
-| --- | --- | --- | --- | --- | --- | --- |
 | 1A06ADAO  | V  | 101716  | MOVICOLON CHOCOLATE POEDER V DRANK IN SACHET  | 0,76  | STUK  | 0,54285  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0A10BBAO  | V  | 33706  | GLIMEPIRIDE RP TABLET 4MG  | 0,50  | STUK  | 0,55421  |
@@ -9747,7 +9396,6 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0L04AAAO  | V  | 30943  | CICLOSPORINE SANDOZ CAPSULE 25MG  | 12,00  | STUK  | 1,57244  |
 | 0L04AAAO  | V  | 30945  | CICLOSPORINE SANDOZ CAPSULE 100MG  | 3,00  | STUK  | 3,93110  |
-| 0L04AAAO  | V  | 105615//17496  | NEORAL CAPSULE 100MG  | 3,00  | STUK  | 3,93110  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0L04AADO  | V  | 105605//18107  | PROGRAFT CAPSULE 1MG  | 5,00  | STUK  | 2,84925  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -9775,8 +9423,6 @@ J.F.Hoogervorst
 | 0R03BABID  | V  | 105391//16214  | FLUTIDE AEROSOL 250MCG/DO SPBS 120 DO + INHAL  | 2,40  | DO  | 0,29208  |
 | --- | --- | --- | --- | --- | --- | --- |
 | YR03AKAII  | V  | 105702//20233  | COMBIVENT UNIT DOSE INHALATIEVLOEISTOF FL 2,5ML  | 1,00  | ML  | 0,28661  |
-| --- | --- | --- | --- | --- | --- | --- |
-| 0S01BABG  | V  | 105510//10169  | MINIMS PREDNISOLONNATRIUM OOGDR 5MG/ML TUBE 0,5ML  | 4,00  | STUK  | 0,39116  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0S01EXAG  | V  | 105557//21304  | XALATAN OOGDRUPPELS 50MCG/ML FLACON 2,5ML  | 0,20  | ML  | 8,54016  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -9825,13 +9471,10 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | YC09BAAO  | V  | 105576//33663  | PERINDOPRIL ARG/INDAPAMIDE FISHER TABL FO 5/1,25MG  | 1,00  | STUK  | 0,78183  |
 | --- | --- | --- | --- | --- | --- | --- |
-| YD05AXADZ  | V  | 105716//27095  | DOVOBET ZALF  | 1,00  | GRAM  | 0,52271  |
-| --- | --- | --- | --- | --- | --- | --- |
 | 0G03AABO  | V  | 105506//12582  | FEMODEEN DRAGEE  | 0,75  | STUK  | 0,13253  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0G03DAAO  | V  | 105392//9986  | PROVERA TABLET 10MG  | 0,50  | STUK  | 0,23143  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0H01ACAP  | K  | 105570//14593  | ZOMACTON INJPDR FLACON 4MG + SOLV 3,5ML + TOEBEH  | 0,17  | STUK  | 193,805  |
 | 0H01ACAP  | K  | 105600//14593  | ZOMACTON INJPDR FLACON 4MG + SOLV 3,5ML + TOEBEH  | 0,17  | STUK  | 193,805  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0J01DACP  | V  | 101834  | CEFTAZIDIM ACTAVIS INJECTIEPOEDER FLACON 1000MG  | 4,00  | STUK  | 21,98565  |
@@ -9851,8 +9494,6 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0J05ABAO  | V  | 103840  | VALACICLOVIR SANDOZ TABLET 250MG  | 12,00  | STUK  | 1,49747  |
 | 0J05ABAO  | V  | 103843  | VALACICLOVIR SANDOZ TABLET 500MG  | 6,00  | STUK  | 2,49579  |
-| --- | --- | --- | --- | --- | --- | --- |
-| 0L02AEADI  | V  | 105558//18562  | ZOLADEX IMPLANTATIESTIFT 10,8MG IN WWSP  | 0,33  | STUK  | 552,2277  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0N02ABADP  | K  | 105070  | FENTANYL MATRIX CF PLEISTER 12MCG/UUR  | 1,33  | STUK  | 5,69800  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -9875,8 +9516,6 @@ J.F.Hoogervorst
 | 2N06ABAO  | V  | 101021  | PAROXETINE 30 MG PCH, FILMOMHULDE TABLETTEN  | 0,67  | STUK  | 1,59958  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0R01ADAN  | V  | 105726//23477  | FLIXONASE NEUSDRUPPELS 1MG/ML NASULE 0,4ML  | 0,50  | DO  | 0,67402  |
-| --- | --- | --- | --- | --- | --- | --- |
-| 0R03ACCIDC  | V  | 105895//18150  | SEREVENT DISKUS INHPDR 50MCG 60DO  | 2,00  | DO  | 0,61011  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0R03BABID  | V  | 105905//16213  | FLIXOTIDE AER CFKVR 125MCG/DO SPBS 120 DO + INHAL  | 4,80  | DO  | 0,14604  |
 | 0R03BABID  | V  | 105939//16214  | FLUTIDE AEROSOL 250MCG/DO SPBS 120 DO + INHAL  | 2,40  | DO  | 0,29208  |
@@ -9937,7 +9576,7 @@ J.F.Hoogervorst
 | 0L01XEAO V  | EU/1/06/363/007  | SPRYCEL 20 MG, FILMOMHULDE TABLET (BLISTER 60STUK)  | 5,00  | STUK  | 39,79200  |
 | 0L01XEAO V  | EU/1/06/363/008  | SPRYCEL 50 MG, FILMOMHULDE TABLET (BLISTER 60STUK)  | 2,00  | STUK  | 66,32000  |
 | 0L01XEAO V  | EU/1/06/363/009  | SPRYCEL 70 MG, FILMOMHULDE TABLETTEN(BLIST 60 ST)  | 1,43  | STUK  | 92,84800  |
-| 0L01XEAO V  | EU/1/06/363/011  | SPRYCEL 100 MG FILMOMHULDE TABLET BLISTER 30 STUKS  | 1,00  | STUK  | 132,64000  |
+| 0L01XEAO V  | EU/1/06/363/011  | SPRYCEL TABLET FILMOMHULD 100MG  | 1,00  | STUK  | 132,64000  |
 | --- | --- | --- | --- | --- | --- |
 | 0L01XXBO V  | 25876  | HYDROXYUREA MEDAC CAPSULE 500MG  | 3,00  | STUK  | 0,33076  |
 | --- | --- | --- | --- | --- | --- |
@@ -9966,7 +9605,6 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- |
 | 0A10BBAO V  | 32835  | GLIMEPIRIDE MYLAN TABLET 2MG  | 1,00  | STUK  | 0,27711  |
 | --- | --- | --- | --- | --- | --- |
-| 0B01ABAP V  | 105758//12788  | FRAGMIN 5000 INJVLST 25000IE/ML WWSP 0,2ML  | 0,10  | ML  | 17,78820  |
 | 0B01ABAP V  | 11878  | FRAXIPARINE INJVLST 9500IE/ML WWSP 1ML  | 0,30  | ML  | 5,92940  |
 | 0B01ABAP V  | 23796  | FRAXODI INJVLST 19000 IE/ML WWSP 1ML  | 0,15  | ML  | 11,85880  |
 | --- | --- | --- | --- | --- | --- |
@@ -10014,7 +9652,6 @@ J.F.Hoogervorst
 | 0J05ABAO V  | 100108  | VALACICLOVIR MYLAN TABLET FILMOMHULD 500MG  | 6,00  | STUK  | 2,49579  |
 | 0J05ABAO V  | 100061  | VALACICLOVIR RANBAXY TABLET 500MG  | 6,00  | STUK  | 2,49579  |
 | --- | --- | --- | --- | --- | --- |
-| 0J07BCAP K  | 106191//24290  | ENGERIX-B JUNIOR VACCIN 20MCG/ML WWSP 0,5ML  | 0,50  | ML  | 44,28000  |
 | 0L03AACP V  | EU/1/08/495/003  | ZARZIO 30 INJVLST 60MILJ E/ML WWSP 0,5ML  | 0,58  | ML  | 224,62125  |
 | 0L03AACP V  | EU/1/08/495/007  | ZARZIO 48 INJVLST 96MILJ E/ML WWSP 0,5ML  | 0,36  | ML  | 359,39400  |
 | --- | --- | --- | --- | --- | --- |
@@ -10100,8 +9737,6 @@ J.F.Hoogervorst
 | 0C08CAAO  | V  | 102327  | LERCANIDIPINE HCL SANDOZ TABLET OMHULD 10MG  | 1,00  | STUK  | 0,65450  |
 | 0C08CAAO  | V  | 102328  | LERCANIDIPINE HCL SANDOZ TABLET OMHULD 20MG  | 0,50  | STUK  | 1,30901  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0C09CAAO V  | --- | 106280//34472  | DIOVAN TABLET OMHULD 320MG  | 0,25  | STUK  | 2,97680  |
-| --- | --- | --- | --- | --- | --- | --- |
 | YC09BBBO  | V  | 105850//100139  | COVERAM ARG TABLET 5MG/ 5MG  | 1,00  | STUK  | 1,38460  |
 | YC09BBBO  | V  | 105854//100141  | COVERAM ARG TABLET 10MG/ 5MG  | 1,00  | STUK  | 2,11470  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -10183,19 +9818,14 @@ J.F.Hoogervorst
 | 0A10BHAO  | V  | EU/1/09/545/008  | ONGLYZA 5 MG FILMOMHULDE TABLET 98 STUKS  | 1,00  | STUK  | 3,22000  |
 | 0A10BHAOV  | V  | EU/1/09/545/009  | ONGLYZA TABLET 5MG  | 1,00  | STUK  | 3,22000  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0B01ABAP  | V  | 106119//20818  | INNOHEP INJVLST 20000 IE/ML WWSP 0,7ML  | 0,18  | ML  | 10,16469  |
-| --- | --- | --- | --- | --- | --- | --- |
 | 0B01ACDO  | V  | 103348  | CLOPIDOGREL ACTAVIS TABLET FILMOMHULD 75MG  | 1,00  | STUK  | 1,88043  |
 | 0B01ACDO  | V  | EU/1/09/568/004  | CLOPIDOGREL APOTEX TABLET FILMOMHULD 75MG  | 1,00  | STUK  | 1,88043  |
 | 0B01ACDO  | V  | 103440  | CLOPIDOGREL CF TABLET FILMOMHULD 75MG  | 1,00  | STUK  | 1,88043  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0B03XAAP  | V  | 106405//33268  | EPREX 40000 INJVLST 40000IE/ML WWSP 1ML  | 0,05  | ML  | 491,44032  |
 | 0B03XAAP  | V  | EU/1/07/431/024  | RETACRIT 40000 INJVLST 40000IE/ML WWSP 1ML  | 0,05  | ML  | 491,44032  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0C09CAAO  | V  | EU/1/97/046/017  | APROVEL TABLET FILMOMHULD 75MG  | 2,00  | STUK  | 0,44652  |
 | 0C09CAAO  | V  | 106438//21704  | CANDESARTAN ERC TABLET 4MG  | 2,00  | STUK  | 0,44652  |
-| 0C09CAAO  | V  | 105454//17617  | COZAAR TABLET FILMOMHULD 50MG  | 1,00  | STUK  | 0,74420  |
-| 0C09CAAO  | V  | 105456//26791  | COZAAR TABLET FILMOMHULD 100MG  | 0,50  | STUK  | 1,48840  |
 | 0C09CAAO  | V  | 33995  | KALIUMLOSARTAN RP TABLET FILMOMHULD 50MG  | 1,00  | STUK  | 0,74420  |
 | 0C09CAAO  | V  | 33996  | KALIUMLOSARTAN RP TABLET FILMOMHULD 100MG  | 0,50  | STUK  | 1,48840  |
 | 0C09CAAO  | V  | 31869  | KALIUMLOSARTAN SANDOZ TABLET FILMOMHULD 50MG  | 1,00  | STUK  | 0,74420  |
@@ -10235,7 +9865,6 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0C10AAAO  | V  | 35300  | FLUVASTATINE ACTAVIS CAPSULE 20MG  | 3,00  | STUK  | 0,55361  |
 | 0C10AAAO  | V  | 35301  | FLUVASTATINE ACTAVIS CAPSULE 40MG  | 1,50  | STUK  | 0,92269  |
-| 0C10AAAO  | V  | 106441//21081  | LIPITOR TABLET OMHULD 10MG  | 2,00  | STUK  | 0,83042  |
 | --- | --- | --- | --- | --- | --- | --- |
 | YC10AXAO  | V  | 106461//30928  | INEGY TABLET 10/20MG  | 1,00  | STUK  | 2,64369  |
 | YC10AXAO  | V  | 106462//30929  | INEGY TABLET 10/40MG  | 1,00  | STUK  | 3,56638  |
@@ -10279,8 +9908,6 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0R01ADAN  | V  | 106130  | BUDESONIDE CF NEVEL NEUSSPRAY 50MCG/DO 200DO  | 4,00  | DO  | 0,08425  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0R03BABID  | V  | 106468//31633  | ALVESCO 160 AEROSOL 160MCG/DO SPBS 60DO + INH  | 1,00  | DO  | 0,70100  |
-| --- | --- | --- | --- | --- | --- | --- |
 | 0S01EXAG  | V  | EU/1/02/205/003  | LUMIGAN OOGDRUPPELS 0,1MG/ML FLACON 3ML  | 0,20  | ML  | 8,54016  |
 
 | --- | --- | --- | --- | --- | --- | --- |
@@ -10291,8 +9918,6 @@ J.F.Hoogervorst
 | 0A07DAAO  | V  | 105493  | LOPERAMIDE HCL MDQ CAPSULE 2MG  | 5,00  | STUK  | 0,23143  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0A07ECCO  | V  | 105712  | PENTASA TABLET MVA 1G  | 1,50  | STUK  | 1,25116  |
-| 0A07ECCO  | V  | 106641//100059  | SALOFALK GRANU-STIX GRANULAAT MGA 1,5G IN SACHET  | 1,00  | STUK  | 1,87674  |
-| 0A07ECCO  | V  | 106704//28131  | SALOFALK GRANU-STIX GRANULAAT MGA 1000MG IN SACHET  | 1,50  | STUK  | 1,25116  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0A09AAAO  | V  | 105393//16055  | CREON FORTE CAPSULE MGA (PANCREATINE 300MG)  | 2,40  | STUK  | 1,00796  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -10322,11 +9947,7 @@ J.F.Hoogervorst
 | YC09DAAO  | V  | 105783  | LOSARTAN KALIUM/HCT A TABLET FILMOMH 100/25MG  | 1,00  | STUK  | 1,59186  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0C10AAAO  | V  | 106576//30823  | CRESTOR TABLET FILMOMHULD 5MG  | 2,00  | STUK  | 0,83042  |
-| 0C10AAAO  | V  | 106567//21081  | LIPITOR TABLET OMHULD 10MG  | 2,00  | STUK  | 0,83042  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0G04CBAO  | V  | 106621//28317  | AVODART CAPSULE 0,5MG  | 1,00  | STUK  | 1,12371  |
-| --- | --- | --- | --- | --- | --- | --- |
-| 0H01ACAP K  | V  | 106440//15790  | GENOTROPIN INJPDR PATROON 12MG+CONS+SOLV 1ML  | 0,06  | STUK  | 581,41500  |
 | 0H01ACAP K  | V  | 106439//25480  | GENOTROPIN INJPDR PATROON 5MG + CONS+SOLV 1ML  | 0,13  | STUK  | 242,25625  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0H02ABBO  | V  | 106136  | PREDNISOLON SANDOZ TABLET 30MG  | 0,33  | STUK  | 0,29950  |
@@ -10411,7 +10032,6 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0G04BDBO  | V  | 106644//26670  | DETRUSITOL SR CAPSULE MVA 4MG  | 1,00  | STUK  | 0,82981  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0H01ACAP  | K  | 106642//102990  | ZOMACTON INJPDR FLACON 10MG + SOLV 1ML + TOEBEH  | 0,07  | STUK  | 484,51250  |
 | 0H01ACAP  | K  | 106954//102990  | ZOMACTON INJPDR FLACON 10MG + SOLV 1ML + TOEBEH  | 0,07  | STUK  | 484,51250  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0H01CBBP  | V  | 32592  | OCTREOTIDE SANDOZ INJVLST 0,05MG/ML AMPUL 1ML  | 14,00  | ML  | 8,68027  |
@@ -10450,22 +10070,14 @@ J.F.Hoogervorst
 | 0L04AXAO  | V  | 105722  | AZATHIOPRINE CF TABLET 25MG  | 6,00  | STUK  | 0,33652  |
 | 0L04AXAO  | V  | 105723  | AZATHIOPRINE CF TABLET 50MG  | 3,00  | STUK  | 0,56087  |
 | --- | --- | --- | --- | --- | --- | --- |
-| YM05BBAO  | V  | 106699//31634  | ACTOKIT (1TAB ACTONEL 35MG+6TAB CALCIUM 500MG)28ST  | 1,00  | VERP  | 40,59628  |
-| --- | --- | --- | --- | --- | --- | --- |
-| 0N02CCAO  | V  | 106772//21818  | MAXALT SMELTTABLET 10MG  | 1,00  | STUK  | 6,21227  |
-| --- | --- | --- | --- | --- | --- | --- |
 | 0N02CCAP  | V  | 15009  | IMIGRAN INJVLST 12MG/ML  | 0,50  | ML  | 51,93060  |
-| 0N02CCAP  | V  | 23813//15009  | IMIGRAN INJVLST 12MG/ML  | 0,50  | ML  | 51,93060  |
 | 0N02CCAP  | V  | 24322//15009  | IMIGRAN INJVLST 12MG/ML  | 0,50  | ML  | 51,93060  |
 | 0N02CCAP  | V  | 26130//15009  | IMIGRAN INJVLST 12MG/ML  | 0,50  | ML  | 51,93060  |
 | 0N02CCAP  | V  | 26313//15009  | IMIGRAN INJVLST 12MG/ML  | 0,50  | ML  | 51,93060  |
 | 0N02CCAP  | V  | 26399//15009  | IMIGRAN INJVLST 12MG/ML  | 0,50  | ML  | 51,93060  |
 | 0N02CCAP  | V  | 25899//15009  | IMIGRAN INJVLST 12MG/ML PENFILLPATR 0,5ML  | 0,50  | ML  | 51,93060  |
 | 0N02CCAP  | V  | 103119//15009  | IMIGRAN INJVLST 12MG/ML PENFILLPATR 0,5ML  | 0,50  | ML  | 51,93060  |
-| 0N02CCAP  | V  | 22205//15009  | IMIGRAN INJVLST 12MG/ML PENFILLPATR 0,5ML+GLAXOPEN  | 0,50  | ML  | 51,93060  |
 | 0N02CCAP  | V  | 25948//15009  | IMIGRAN INJVLST 12MG/ML PENFILLPATR 0,5ML+GLAXOPEN  | 0,50  | ML  | 51,93060  |
-| 0N02CCAP  | V  | 33184//15009  | IMIGRAN INJVLST 12MG/ML PENFILLPATR 0,5ML+GLAXOPEN  | 0,50  | ML  | 51,93060  |
-| 0N02CCAP  | V  | 100171//15009  | IMIGRAN INJVLST 12MG/ML PENFILLPATR 0,5ML+GLAXOPEN  | 0,50  | ML  | 51,93060  |
 | 0N02CCAP  | V  | 100632//15009  | IMIGRAN INJVLST 12MG/ML PENFILLPATR 0,5ML+GLAXOPEN  | 0,50  | ML  | 51,93060  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0N03AXDO  | V  | EU/1/00/146/022  | KEPPRA TABLET FILMOMHULD 1000MG  | 1,50  | STUK  | 2,38325  |
@@ -10522,7 +10134,6 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0G04BDBO  | V  | 106951//26670  | DETRUSITOL SR CAPSULE MVA 4MG  | 1,00  | STUK  | 0,82981  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0G04CBAO  | V  | 106765//28317  | AVODART CAPSULE 0,5MG  | 1,00  | STUK  | 1,12371  |
 | 0G04CBAO  | V  | 106904//28317  | AVODART CAPSULE 0,5MG  | 1,00  | STUK  | 1,12371  |
 | 0G04CBAO  | V  | 106993//28317  | AVODART CAPSULE 0,5MG  | 1,00  | STUK  | 1,12371  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -10530,9 +10141,6 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0H01ACAP  | K  | 105180  | NORDITROPIN FLEXPRO INJVLST 5MG/WWSP 1,5ML  | 0,20  | ML  | 161,50417  |
 | 0H01ACAP  | K  | 105181  | NORDITROPIN FLEXPRO INJVLST 10MG/WWSP 1,5ML  | 0,10  | ML  | 323,00833  |
-| 0H01ACAP  | K  | 106862//24225  | NORDITROPIN SIMPLEXX INJVL 10MG/ML PATROON 1,5ML  | 0,07  | ML  | 484,51250  |
-| 0H01ACAP  | K  | 106849//24223  | NORDITROPIN SIMPLEXX INJVL 3,33MG/ML PATROON 1,5ML  | 0,20  | ML  | 161,50417  |
-| 0H01ACAP  | K  | 106869//24224  | NORDITROPIN SIMPLEXX INJVL 6,67MG/ML PATROON 1,5ML  | 0,10  | ML  | 323,00833  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0H05AAAP  | V  | EU/1/03/247/001  | FORSTEO INJVLST 250MCG/ML WWSP 2,4ML  | 0,09  | ML  | 181,66083  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -10558,7 +10166,6 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0N02CCAO  | V  | 107162//21818  | MAXALT SMELTTABLET 10MG  | 1,00  | STUK  | 6,21227  |
 | 0N02CCAO  | V  | 107089//21816  | MAXALT TABLET 10MG  | 1,00  | STUK  | 6,21227  |
-| 0N02CCAO  | V  | 107121//21818  | RIZATRIPTAN SMELTTABLET 10MG  | 1,00  | STUK  | 6,21227  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0N03AGAO  | V  | 106692//13157  | DEPAKINE CHRONO TABLET MGA 300MG  | 5,00  | STUK  | 0,15928  |
 | 0N03AGAO  | V  | 107020//11775  | DEPAKINE CHRONO TABLET MGA 500MG  | 3,00  | STUK  | 0,26546  |
@@ -10592,8 +10199,6 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0R03ACCIDC  | V  | EU/1/09/593/002  | ONBREZ BREEZHALER INHALPDR 150MCG MET BREEZHALER  | 1,00  | STUK  | 1,22022  |
 | 0R03ACCIDC  | V  | EU/1/09/593/007  | ONBREZ BREEZHALER INHALPDR 300MCG MET BREEZHALER  | 0,50  | STUK  | 2,44043  |
-| --- | --- | --- | --- | --- | --- | --- |
-| 0R03BABID  | V  | 107053//31632  | ALVESCO 80 AEROSOL 80MCG/DO SPBS 120DO + INH  | 2,00  | DO  | 0,42060  |
 | --- | --- | --- | --- | --- | --- | --- |
 | YR03ACCIDA  | V  | 107070//25866  | SERETIDE AEROSOL 25/125MCG/DO CFKVR SPBS 120DO+INH  | 1,00  | DO  | 0,37690  |
 | YR03ACCIDA  | V  | 107069//25867  | SERETIDE AEROSOL 25/250MCG/DO CFKVR SPBS 120DO+INH  | 1,00  | DO  | 0,52294  |
@@ -10645,11 +10250,8 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0G03AABO  | V  | 106566//23827  | YASMIN TABLET OMHULD  | 0,75  | STUK  | 0,13253  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0G03ABBO  | V  | 106891//101491  | QLAIRA TABLET FILMOMHULD  | 0,93  | STUK  | 0,10108  |
-| --- | --- | --- | --- | --- | --- | --- |
 | 0G04ACBO  | V  | 107183//13066  | MONURIL GRANULAAT 3000MG/8G IN SACHET  | 0,25  | STUK  | 2,28706  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0G04BDBO  | V  | 107205//26670  | DETRUSITOL SR CAPSULE MVA 4MG  | 1,00  | STUK  | 0,82981  |
 | 0G04BDBO  | V  | 106821//29152  | VESICARE TABLET FILMOMHULD 10MG  | 0,50  | STUK  | 1,65963  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0G04CBAO  | V  | 106890//28317  | AVODART CAPSULE 0,5MG  | 1,00  | STUK  | 1,12371  |
@@ -10669,12 +10271,8 @@ J.F.Hoogervorst
 | 0L01AXAO  | V  | EU/1/98/096/007  | TEMODAL CAPSULE 250MG  | 0,27  | STUK  | 270,43260  |
 | 0L01AXAO  | V  | EU/1/98/096/021  | TEMODAL CAPSULE 250MG  | 0,27  | STUK  | 270,43260  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0L04AAAO  | V  | 107143//17495  | NEORAL CAPSULE 25MG  | 12,00  | STUK  | 1,57244  |
-| 0L04AAAO  | V  | 107147//17496  | NEORAL CAPSULE 100MG  | 3,00  | STUK  | 3,93110  |
-| --- | --- | --- | --- | --- | --- | --- |
 | 0L04AADO  | V  | 107175//18107  | PROGRAF CAPSULE 1MG  | 5,00  | STUK  | 2,84925  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0M01AHBO  | V  | 107032//27705  | ETORICOXIB FISHER TABLET FILMOMHULD 60MG  | 1,00  | STUK  | 1,13188  |
 | 0M01AHBO  | V  | 107033//27706  | ETORICOXIB FISHER TABLET FILMOMHULD 90MG  | 0,67  | STUK  | 1,69782  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1M01ABAO  | V  | 107160//13245  | DICLOFENACKALIUM ERC TABLET OMHULD 50MG  | 2,00  | STUK  | 0,27832  |
@@ -10706,7 +10304,6 @@ J.F.Hoogervorst
 | 0R03ACCIDC  | V  | 107145//18150  | SEREVENT DISKUS INHPDR 50MCG 60DO  | 2,00  | DO  | 0,61011  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0R03BAAII V  | V  | 107037//14196  | PULMICORT 500 VERNEVELSUSP 0,250MG/ML RESPULE 2ML  | 6,00  | ML  | 0,96281  |
-| 0R03BAAII  | --- | 107039//14197  | PULMICORT 1000 VERNEVELSUSP 0,500MG/ML RESPULE 2ML  | 3,00  | ML  | 1,92562  |
 | 0R03BAAII  | V  | 107040//14197  | PULMICORT 1000 VERNEVELSUSP 0,500MG/ML RESPULE 2ML  | 3,00  | ML  | 1,92562  |
 | --- | --- | --- | --- | --- | --- | --- |
 | YR03ACCIDA  | V  | 107181//25867  | SERETIDE AEROSOL 25/250MCG/DO CFKVR SPBS 120DO+INH  | 1,00  | DO  | 0,52294  |
@@ -10719,8 +10316,6 @@ J.F.Hoogervorst
 | YR03ACCIDC  | V  | 107272//23531  | SERETIDE DISKUS INHPDR 50/500MCG 60DO  | 1,00  | DO  | 1,20396  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0S01EXAG  | V  | 107182//21304  | XALATAN OOGDRUPPELS 50MCG/ML FLACON 2,5ML  | 0,20  | ML  | 8,54016  |
-| --- | --- | --- | --- | --- | --- | --- |
-| 0V03AEAO  | V  | 107130//31928  | FOSRENOL KAUWTABLET 500MG  | 4,50  | STUK  | 2,18435  |
 
 | --- | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -10832,9 +10427,6 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0L04AAAO  | V  | 107629//17497  | NEORAL DRANK 100MG/ML  | 3,00  | ML  | 3,93110  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0M01AHBO  | V  | 107187//25054  | CELEBREX CAPSULE 200MG  | 1,00  | STUK  | 1,13188  |
-| --- | --- | --- | --- | --- | --- | --- |
-| 0M05BABO  | V  | 107103//28338  | ACTONEL WEKELIJKS TABLET FILMOMHULD 35MG  | 0,14  | STUK  | 8,57645  |
 | 0M05BABO  | V  | 102073  | ALENDRONINEZUUR BLUEFISH TABLET 70MG  | 0,14  | STUK  | 8,57645  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0N02AAAO  | V  | 100824  | OXYCONTIN TABLET MVA 120MG  | 0,25  | STUK  | 8,32133  |
@@ -10901,8 +10493,6 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0G03AABO  | V  | 107127//23827  | YASMIN TABLET OMHULD  | 0,75  | STUK  | 0,13253  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0G04BDBO  | V  | 107751//29151  | VESICARE TABLET FILMOMHULD 5MG  | 1,00  | STUK  | 0,82981  |
-| --- | --- | --- | --- | --- | --- | --- |
 | 0G04BEAO  | V  | EU/1/08/476/005  | ADCIRCA TABLET FILMOMHULD 20MG  | 2,00  | STUK  | 9,51000  |
 | 0G04BEAO  | V  | EU/1/08/476/006  | ADCIRCA TABLET FILMOMHULD 20MG  | 2,00  | STUK  | 9,51000  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -10911,13 +10501,8 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0H02ABBO  | V  | 34417  | LODOTRA TABLET MGA 5MG  | 2,00  | STUK  | 0,04992  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0L03AACP  | V  | 107698//26386  | NEUPOGEN SINGLEJ 30 INJVLST 60MILJ E/ML WWSP 0,5ML  | 0,58  | ML  | 224,62125  |
-| 0L03AACP  | V  | 107709//26387  | NEUPOGEN SINGLEJ 48 INJVLST 96MILJ E/ML WWSP 0,5ML  | 0,36  | ML  | 359,39400  |
-| --- | --- | --- | --- | --- | --- | --- |
 | 0L04AABO  | V  | 102222  | MYCOFENOLAAT MOFETIL ACTAVIS CAPSULE 250MG  | 8,00  | STUK  | 1,77337  |
 | 0L04AABO  | V  | 101400  | MYCOFENOLAAT MOFETIL ACTAVIS TABLET FILMOMH 500MG  | 4,00  | STUK  | 2,95562  |
-| --- | --- | --- | --- | --- | --- | --- |
-| 0L04AADO  | V  | 107990//18107  | PROGRAF CAPSULE 1MG  | 5,00  | STUK  | 2,84925  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0M01AHBO  | V  | 107634//25054  | CELEBREX CAPSULE 200MG  | 1,00  | STUK  | 1,13188  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -10953,7 +10538,6 @@ J.F.Hoogervorst
 | 0V01AAAO  | V  | 106102//33788  | GRAZAX LYOPHILISAAT V ORAAL GEBRUIK 75000 SQ-T  | 1,00  | STUK  | 3,30000  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0V03AEAO  | V  | 107844//31928  | FOSRENOL KAUWTABLET 500MG  | 4,50  | STUK  | 2,18435  |
-| 0V03AEAO  | V  | 107555//31929  | FOSRENOL KAUWTABLET 750MG  | 3,00  | STUK  | 2,97866  |
 | 0V03AEAO  | V  | 107878//31929  | FOSRENOL KAUWTABLET 750MG  | 3,00  | STUK  | 2,97866  |
 | 0V03AEAO  | V  | EU/1/09/521/006  | RENVELA POEDER VOOR SUSPENSIE 2,4G IN SACHET  | 2,67  | STUK  | 3,35099  |
 
@@ -11025,12 +10609,10 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0G03ABBO  | V  | 107539//8663  | LEVONORGESTREL/ETHINYLESTRADIOL FISHER TABLET OMH  | 0,75  | STUK  | 0,12515  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1G03CAAV  | V  | 107289//16492  | VAGIFEM VAGINAALTABLET 25MCG  | 1,00  | STUK  | 0,18446  |
-| --- | --- | --- | --- | --- | --- | --- |
 | 0G04BDBO  | V  | 107896//29151  | VESICARE TABLET FILMOMHULD 5MG  | 1,00  | STUK  | 0,82981  |
 | 0G04BDBO  | V  | 107894//29152  | VESICARE TABLET FILMOMHULD 10MG  | 0,50  | STUK  | 1,65963  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0G04CBAO  | V  | 31134  | FINASTERIDE CF TABLET OMHULD 5MG  | 1,00  | STUK  | 1,12371  |
+| 0G04CBAO  | V  | 31134  | FINASTERIDE CF TABLET FILMOMHULD 5MG  | 1,00  | STUK  | 1,12371  |
 | --- | --- | --- | --- | --- | --- | --- |
 | YG04CAAO  | V  | 108059//104130  | COMBODART CAPSULE 0,5/0,4MG  | 1,00  | STUK  | 2,08572  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -11095,7 +10677,6 @@ J.F.Hoogervorst
 | 0R03BAAII  | V  | 108054//21835  | FLIXOTIDE 2000 INHVLST 1MG/ML NEBULE 2ML  | 1,50  | ML  | 3,85123  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0R03BABID  | V  | 108053//31633  | ALVESCO 160 AEROSOL 160MCG/DO SPBS  | 1,00  | DO  | 0,70100  |
-| 0R03BABID  | V  | 108046//16214  | FLIXOTIDE AER CFKVR 250MCG/DO SPBS 120 DO + INHAL  | 2,40  | DO  | 0,29208  |
 | --- | --- | --- | --- | --- | --- | --- |
 | YR03ACCIDA  | V  | 108055//34610  | FOSTER AEROSOL 100/6MCG/DOSIS SPUITBUS 120DO  | 1,00  | DO  | 0,40611  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -11123,7 +10704,6 @@ J.F.Hoogervorst
 | 0A07ECCR  | V  | 108201//15064  | PENTASA ZETPIL 1G  | 1,50  | STUK  | 2,02053  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0B01ABAP  | V  | 106542//12788  | FRAGMIN 5000 INJVLST 25.000IE/ML WWSP 0,2ML  | 0,10  | ML  | 17,78820  |
-| 0B01ABAP  | V  | 106544//21899  | FRAGMIN 18000 INJVLST 25.000IE/ML WWSP 0,72ML  | 0,10  | ML  | 17,78820  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0B01ACDO  | V  | 103473  | VATOUD TABLET FILMOMHULD 75MG  | 1,00  | STUK  | 1,88043  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -11179,13 +10759,12 @@ J.F.Hoogervorst
 | 0J02ACAP  | V  | 101844  | FLUCONAZOL FRES KABI INFVLST 2MG/ML FLACON  | 100,00  | ML  | 0,41657  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0L01XEAO  | V  | EU/1/06/363/014  | SPRYCEL TABLET FILMOMHULD 140MG  | 0,71  | STUK  | 185,69600  |
-| 0L01XEAO  | V  | EU/1/06/363/015  | SPRYCEL 140 MG FILMOMHULDE TABLETTEN  | 0,71  | STUK  | 185,69600  |
+| 0L01XEAO  | V  | EU/1/06/363/015  | SPRYCEL TABLET FILMOMHULD 140MG  | 0,71  | STUK  | 185,69600  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0L04AABO  | V  | 35327  | MYCOFENOLAAT MOFETIL APOTEX CAPSULE 250MG  | 8,00  | STUK  | 1,77337  |
 | 0L04AABO  | V  | 35328  | MYCOFENOLAAT MOFETIL APOTEX TABLET FILMOMH 500MG  | 4,00  | STUK  | 2,95562  |
 | 0L04AABO  | V  | 107171  | MYCOFENOLAAT MOFETIL MYLAN TABLET FILMOMH 500MG  | 4,00  | STUK  | 2,95562  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0M05BABO  | V  | 107758//28338  | ACTONEL WEKELIJKS TABLET FILMOMHULD 35MG  | 0,14  | STUK  | 8,57645  |
 | 0M05BABO  | V  | 106365  | RISEDRONAATNATRIUM CF TABLET FILMOMHULD 5MG  | 1,00  | STUK  | 1,22521  |
 | 0M05BABO  | V  | 106368  | RISEDRONAATNATRIUM CF WEKELIJKS TABL FILMOMH 35MG  | 0,14  | STUK  | 8,57645  |
 | 0M05BABO  | V  | 107445  | RISEDRONAATNATRIUM PCH WEKELIJKS TABL FILMOMH 35MG  | 0,14  | STUK  | 8,57645  |
@@ -11455,8 +11034,6 @@ J.F.Hoogervorst
 | 0A07EABRC  | V  | 108860//15660  | ENTOCORT TABLET VOOR KLYSMA + SOLVENS 115ML  | 1,00  | STUK  | 7,42126  |
 | 0A07EABRC  | V  | 108862//15660  | ENTOCORT TABLET VOOR KLYSMA + SOLVENS 115ML  | 1,00  | STUK  | 7,42126  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0A07ECCO  | V  | 107338//12144  | SALOFALK TABLET MSR 500MG  | 3,00  | STUK  | 0,62558  |
-| --- | --- | --- | --- | --- | --- | --- |
 | 0A07ECCR  | V  | 108859//15064  | PENTASA ZETPIL 1G  | 1,50  | STUK  | 2,02053  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0A10BBAO  | V  | 108863//25617  | DIAMICRON MR TABLET MGA 30MG  | 2,00  | STUK  | 0,13855  |
@@ -11628,7 +11205,7 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- |
 | 1A06ADAO V  | 105941  | MACROGOL EN ELEKTR SANDOZ CITROEN PDR V DR SACHET  | 0,76  | STUK  | 0,54285  |
 | --- | --- | --- | --- | --- | --- |
-| 0A07EABRC V  | 102383  | BUDENOFALK SCHUIM 2 MG SCHUIM VOOR RECTAAL GEBRUIK  | 1,00  | DO  | 7,42126  |
+| 0A07EABRC  | 102383  | BUDENOFALK SCHUIM 2MG/DO FLACON 14DO  | 1,00  | DO  | 7,42126  |
 | --- | --- | --- | --- | --- | --- |
 | 0A07ECCO V  | 109143//33600  | MEZAVANT TABLET MVA 1200MG  | 1,25  | STUK  | 1,50140  |
 | --- | --- | --- | --- | --- | --- |
@@ -11647,21 +11224,21 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- |
 | YC09DAAO V  | 109236//24995  | CANDESARTAN CILEXETIL/HCT FISHER TABLET 16/12,5MG  | 1,00  | STUK  | 1,54013  |
 | --- | --- | --- | --- | --- | --- |
-| 0H02ABEP V  | 107717  | DEXAMETHASON CF 4 MG/ML OPLOSSING VOOR INJECTIE  | 0,29  | ML  | 3,90811  |
+| 0H02ABEP V  | 107717  | DEXAMETHASON CF INJVLST 4MG/ML AMPUL 1ML  | 0,29  | ML  | 3,90811  |
 | --- | --- | --- | --- | --- | --- |
 | 0J01DHAP V  | 105213  | IMIPENEM/CILASTATINE HOSPIRA INFPDR FL 500/500MG  | 4,00  | STUK  | 18,31911  |
 | --- | --- | --- | --- | --- | --- |
 | 0J01MAAO V  | 104267  | LEVOFLOXACINE ACTAVIS TABLET FILMOMHULD 250MG  | 1,00  | STUK  | 3,05666  |
 | 0J01MAAO V  | 104268  | LEVOFLOXACINE ACTAVIS TABLET FILMOMHULD 500MG  | 0,50  | STUK  | 6,11332  |
-| 0J01MAAO V  | 106367  | LEVOFLOXACINE BLUEFISH 250 MG, FILMOMHULDE TABLET  | 1,00  | STUK  | 3,05666  |
-| 0J01MAAO V  | 106370  | LEVOFLOXACINE BLUEFISH 500 MG, FILMOMHULDE TABLET  | 0,50  | STUK  | 6,11332  |
+| 0J01MAAO V  | 106367  | LEVOFLOXACINE BLUEFISH TABLET FILMOMHULD 250MG  | 1,00  | STUK  | 3,05666  |
+| 0J01MAAO V  | 106370  | LEVOFLOXACINE BLUEFISH TABLET FILMOMHULD 500MG  | 0,50  | STUK  | 6,11332  |
 | --- | --- | --- | --- | --- | --- |
 | 0J01MAAP V  | 105445  | CIPROFLOXACINE CF INFVLST 2MG/ML FLACON  | 250,00  | ML  | 0,24779  |
 | --- | --- | --- | --- | --- | --- |
 | 0J05ABCO V  | EU/1/09/527/003  | RIBAVIRINE TEVA TABLET FILMOMHULD 200MG  | 5,00  | STUK  | 6,67057  |
 | 0J05ABCO V  | EU/1/09/527/005  | RIBAVIRINE TEVA TABLET FILMOMHULD 200MG  | 5,00  | STUK  | 6,67057  |
-| 0J05ABCO V  | EU/1/09/527/009  | RIBAVIRINE TEVA PHARMA BV 400 MG  | 2,50  | STUK  | 11,11761  |
-| 0J05ABCO V  | EU/1/09/527/012  | RIBAVIRINE TEVA PHARMA BV 400 MG  | 2,50  | STUK  | 11,11761  |
+| 0J05ABCO V  | EU/1/09/527/009  | RIBAVIRINE TEVA TABLET FILMOMHULD 400MG  | 2,50  | STUK  | 11,11761  |
+| 0J05ABCO V  | EU/1/09/527/012  | RIBAVIRINE TEVA TABLET FILMOMHULD 400MG  | 2,50  | STUK  | 11,11761  |
 | --- | --- | --- | --- | --- | --- |
 | 0L02AEADI V  | 30197  | LUCRIN PDS DEPOT INJPDR WWSP 3,75MG + SOLVENS 1ML  | 1,00  | STUK  | 184,07590  |
 | 0L02AEADI V  | 34476//30197  | LUCRIN PDS DEPOT INJPDR WWSP 3,75MG + SOLVENS 1ML  | 1,00  | STUK  | 184,07590  |
@@ -11775,7 +11352,7 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0L02BBAO  | V  | 109354//18805  | ANANDRON TABLET 150MG  | 1,00  | STUK  | 5,44536  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0L02BGAO  | V  | 105553  | EXEMESTAAN ACTAVIS 25MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 4,71931  |
+| 0L02BGAO  | V  | 105553  | EXEMESTAAN ACTAVIS TABLET FILMOMHULD 25MG  | 1,00  | STUK  | 4,71931  |
 | 0L02BGAO  | V  | 102322  | LETROZOL ACTAVIS 2,5MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 4,71931  |
 | 0L02BGAO  | V  | 106321  | LETROZOL SANDOZ 2,5MG, FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 4,71931  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -11832,7 +11409,7 @@ J.F.Hoogervorst
 | YC09BBBO  | V  | 109690//100141  | COVERAM ARG TABLET 10MG/ 5MG  | 1,00  | STUK  | 2,11470  |
 | YC09BBBO  | V  | 109678//100142  | COVERAM ARG TABLET 10MG/10MG  | 1,00  | STUK  | 2,76920  |
 | --- | --- | --- | --- | --- | --- | --- |
-| YC09DAAO  | V  | 109561//24995  | CANDESARTAN CILEXETIL/HCT ERC TABLET 16/12,5MG  | 1,00  | STUK  | 1,54013  |
+| YC09DAAO  | V  | 109561//24995  | CANDESARTAN CILEXETIL/HCTZ ERC TABLET 16/12,5MG  | 1,00  | STUK  | 1,54013  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0C10AAAO  | V  | 109242//21083  | LIPITOR TABLET OMHULD 40MG  | 0,50  | STUK  | 2,76806  |
 | 0C10AAAO  | V  | 109321//26872  | ROSUVASTATINE ERC TABLET FILMOMHULD 10MG  | 1,00  | STUK  | 1,38403  |
@@ -11858,8 +11435,8 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0H02ABEP  | V  | 109288//605  | DEPO MEDROL INJVLST 40MG/ML FLACON 1ML  | 0,50  | ML  | 2,22896  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 0J01MAAO  | V  | 102704  | LEVOFLOXACINE 250 MG PCH, FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 3,05666  |
-| 0J01MAAO  | V  | 102705  | LEVOFLOXACINE 500 MG PCH, FILMOMHULDE TABLETTEN  | 0,50  | STUK  | 6,11332  |
+| 0J01MAAO  | V  | 102704  | LEVOFLOXACINE PCH TABLET FILMOMHULD 250MG  | 1,00  | STUK  | 3,05666  |
+| 0J01MAAO  | V  | 102705  | LEVOFLOXACINE PCH TABLET FILMOMHULD 500MG  | 0,50  | STUK  | 6,11332  |
 | 0J01MAAO  | V  | 104005  | LEVOFLOXACINE CF TABLET FILMOMHULD 250MG  | 1,00  | STUK  | 3,05666  |
 | 0J01MAAO  | V  | 104011  | LEVOFLOXACINE CF TABLET FILMOMHULD 500MG  | 0,50  | STUK  | 6,11332  |
 | 0J01MAAO  | V  | 100261  | LEVOFLOXACINE MYLAN TABLET FILMOMHULD 250MG  | 1,00  | STUK  | 3,05666  |
@@ -11872,7 +11449,7 @@ J.F.Hoogervorst
 | 0L01BACP  | V  | 109320//100943  | METOJECT INJVLST 50MG/ML WWSP  | 0,05  | ML  | 62,96000  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0L02BGAO  | V  | 109241//19123  | ARIMIDEX TABLET FILMOMHULD 1MG  | 1,00  | STUK  | 4,71931  |
-| 0L02BGAO  | V  | 105407  | EXEMESTAAN MYLAN 25 MG, FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 4,71931  |
+| 0L02BGAO  | V  | 105407  | EXEMESTAAN MYLAN TABLET FILMOMHULD 25MG  | 1,00  | STUK  | 4,71931  |
 | 0L02BGAO  | V  | 104036  | LETROZOL MYLAN 2,5 MG, FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 4,71931  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0M05BABO  | V  | 109568//28338  | ACTONEL WEKELIJKS TABLET FILMOMHULD 35MG  | 0,14  | STUK  | 8,57645  |
@@ -11935,6 +11512,148 @@ J.F.Hoogervorst
 | --- | --- | --- | --- | --- | --- | --- |
 | 0V01AAAO  | V  | 109552//33788  | GRAZAX LYOPHILISAAT V ORAAL GEBRUIK 75000 SQ-T  | 1,00  | STUK  | 3,30000  |
 
+| --- | --- | --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|:---|:---|
+| 0A06ADBO  | V  | 109557//34072  | MOVIPREP POEDER VOOR DRANK IN SACHET A+B  | 4,00  | STUK  | 4,43003  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1A06ADAO  | V  | 109712//19006  | MOVICOLON POEDER VOOR DRANK IN SACHET  | 0,76  | STUK  | 0,54285  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0A07DAAO  | V  | 109729//6945  | IMODIUM CAPSULE 2MG  | 5,00  | STUK  | 0,23143  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0A07ECCO  | V  | 109686//28131  | SALOFALK GRANU-STIX GRANULAAT MGA 1000MG IN SACHET  | 1,50  | STUK  | 1,25116  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0A12AABO  | V  | 109214//13261  | CACIT BRUISTABLET 500MG  | 2,00  | STUK  | 0,26210  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0B01ABAP  | V  | 109701//11876  | FRAXIPARINE INJVLST 9500IE/ML WWSP 0,3ML  | 0,30  | ML  | 5,92940  |
+| 0B01ABAP  | V  | 109702//15963  | FRAXIPARINE INJVLST 9500IE/ML WWSP 0,4ML  | 0,30  | ML  | 5,92940  |
+| 0B01ABAP  | V  | 109703//11877  | FRAXIPARINE INJVLST 9500IE/ML WWSP 0,6ML  | 0,30  | ML  | 5,92940  |
+| 0B01ABAP  | V  | 109704//15965  | FRAXIPARINE INJVLST 9500IE/ML WWSP 0,8ML  | 0,30  | ML  | 5,92940  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0B01ACAO  | V  | 102646  | ACETYLSALICYLZUUR CARDIO SANDOZ DISP TABLET 80MG  | 1,00  | STUK  | 0,05249  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0B01ACDO  | V  | EU/1/08/503/008  | EFIENT TABLET FILMOMHULD 10MG  | 1,00  | STUK  | 1,88043  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0C07ABAO  | V  | 109713//13197  | SELOKEEN ZOC 50 TABLET MGA 47,5MG  | 3,00  | STUK  | 0,13538  |
+| 0C07ABAO  | V  | 109716//12149  | SELOKEEN ZOC 100 TABLET MGA 95MG  | 1,50  | STUK  | 0,27075  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0C08CAAO  | V  | 109834//15099  | LOMIR SRO CAPSULE MGA 5MG  | 1,00  | STUK  | 0,65450  |
+| --- | --- | --- | --- | --- | --- | --- |
+| YC09BAAO  | V  | 109510//102257  | PERINDOPRIL ARG/INDAPAMIDE FISHER TABL FO 10/2,5MG  | 1,00  | STUK  | 1,56366  |
+| --- | --- | --- | --- | --- | --- | --- |
+| YC09XABO  | V  | EU/1/11/686/015  | RASILAMLO 150 MG/10 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,05321  |
+| YC09XABO  | V  | EU/1/11/686/017  | RASILAMLO 150 MG/10 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,05321  |
+| YC09XABO  | V  | EU/1/11/686/018  | RASILAMLO 150 MG/10 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,05321  |
+| YC09XABO  | V  | EU/1/11/686/019  | RASILAMLO 150 MG/10 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,05321  |
+| YC09XABO  | V  | EU/1/11/686/020  | RASILAMLO 150 MG/10 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,05321  |
+| YC09XABO  | V  | EU/1/11/686/021  | RASILAMLO 150 MG/10 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,05321  |
+| YC09XABO  | V  | EU/1/11/686/022  | RASILAMLO 150 MG/10 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,05321  |
+| YC09XABO  | V  | EU/1/11/686/023  | RASILAMLO 150 MG/10 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,05321  |
+| YC09XABO  | V  | EU/1/11/686/024  | RASILAMLO 150 MG/10 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,05321  |
+| YC09XABO  | V  | EU/1/11/686/025  | RASILAMLO 150 MG/10 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,05321  |
+| YC09XABO  | V  | EU/1/11/686/026  | RASILAMLO 150 MG/10 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,05321  |
+| YC09XABO  | V  | EU/1/11/686/027  | RASILAMLO 150 MG/10 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,05321  |
+| YC09XABO  | V  | EU/1/11/686/028  | RASILAMLO 150 MG/10 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,05321  |
+| YC09XABO  | V  | EU/1/11/686/001  | RASILAMLO 150 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 1,39870  |
+| YC09XABO  | V  | EU/1/11/686/003  | RASILAMLO 150 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 1,39870  |
+| YC09XABO  | V  | EU/1/11/686/004  | RASILAMLO 150 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 1,39870  |
+| YC09XABO  | V  | EU/1/11/686/005  | RASILAMLO 150 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 1,39870  |
+| YC09XABO  | V  | EU/1/11/686/006  | RASILAMLO 150 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 1,39870  |
+| YC09XABO  | V  | EU/1/11/686/007  | RASILAMLO 150 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 1,39870  |
+| YC09XABO  | V  | EU/1/11/686/008  | RASILAMLO 150 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 1,39870  |
+| YC09XABO  | V  | EU/1/11/686/009  | RASILAMLO 150 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 1,39870  |
+| YC09XABO  | V  | EU/1/11/686/010  | RASILAMLO 150 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 1,39870  |
+| YC09XABO  | V  | EU/1/11/686/011  | RASILAMLO 150 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 1,39870  |
+| YC09XABO  | V  | EU/1/11/686/012  | RASILAMLO 150 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 1,39870  |
+| YC09XABO  | V  | EU/1/11/686/013  | RASILAMLO 150 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 1,39870  |
+| YC09XABO  | V  | EU/1/11/686/014  | RASILAMLO 150 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 1,39870  |
+| YC09XABO  | V  | EU/1/11/686/043  | RASILAMLO 300 MG/10MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,79741  |
+| YC09XABO  | V  | EU/1/11/686/045  | RASILAMLO 300 MG/10MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,79741  |
+| YC09XABO  | V  | EU/1/11/686/046  | RASILAMLO 300 MG/10MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,79741  |
+| YC09XABO  | V  | EU/1/11/686/047  | RASILAMLO 300 MG/10MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,79741  |
+| YC09XABO  | V  | EU/1/11/686/048  | RASILAMLO 300 MG/10MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,79741  |
+| YC09XABO  | V  | EU/1/11/686/049  | RASILAMLO 300 MG/10MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,79741  |
+| YC09XABO  | V  | EU/1/11/686/050  | RASILAMLO 300 MG/10MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,79741  |
+| YC09XABO  | V  | EU/1/11/686/051  | RASILAMLO 300 MG/10MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,79741  |
+| YC09XABO  | V  | EU/1/11/686/052  | RASILAMLO 300 MG/10MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,79741  |
+| YC09XABO  | V  | EU/1/11/686/053  | RASILAMLO 300 MG/10MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,79741  |
+| YC09XABO  | V  | EU/1/11/686/054  | RASILAMLO 300 MG/10MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,79741  |
+| YC09XABO  | V  | EU/1/11/686/055  | RASILAMLO 300 MG/10MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,79741  |
+| YC09XABO  | V  | EU/1/11/686/056  | RASILAMLO 300 MG/10MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,79741  |
+| YC09XABO  | V  | EU/1/11/686/029  | RASILAMLO 300 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,14290  |
+| YC09XABO  | V  | EU/1/11/686/031  | RASILAMLO 300 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,14290  |
+| YC09XABO  | V  | EU/1/11/686/032  | RASILAMLO 300 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,14290  |
+| YC09XABO  | V  | EU/1/11/686/033  | RASILAMLO 300 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,14290  |
+| YC09XABO  | V  | EU/1/11/686/034  | RASILAMLO 300 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,14290  |
+| YC09XABO  | V  | EU/1/11/686/035  | RASILAMLO 300 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,14290  |
+| YC09XABO  | V  | EU/1/11/686/036  | RASILAMLO 300 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,14290  |
+| YC09XABO  | V  | EU/1/11/686/037  | RASILAMLO 300 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,14290  |
+| YC09XABO  | V  | EU/1/11/686/038  | RASILAMLO 300 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,14290  |
+| YC09XABO  | V  | EU/1/11/686/039  | RASILAMLO 300 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,14290  |
+| YC09XABO  | V  | EU/1/11/686/040  | RASILAMLO 300 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,14290  |
+| YC09XABO  | V  | EU/1/11/686/041  | RASILAMLO 300 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,14290  |
+| YC09XABO  | V  | EU/1/11/686/042  | RASILAMLO 300 MG/5 MG FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 2,14290  |
+| YC09XABO  | V  | EU/1/11/686/002  | RASILAMLO TABLET FILMOMHULD 150/ 5MG  | 1,00  | STUK  | 1,39870  |
+| YC09XABO  | V  | EU/1/11/686/016  | RASILAMLO TABLET FILMOMHULD 150/10MG  | 1,00  | STUK  | 2,05321  |
+| YC09XABO  | V  | EU/1/11/686/030  | RASILAMLO TABLET FILMOMHULD 300/ 5MG  | 1,00  | STUK  | 2,14290  |
+| YC09XABO  | V  | EU/1/11/686/044  | RASILAMLO TABLET FILMOMHULD 300/10MG  | 1,00  | STUK  | 2,79741  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0D05AXADZ  | V  | 109576//16330  | SILKIS ZALF 3MCG/G  | 1,00  | GRAM  | 0,37745  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0G03AABO  | V  | 107761  | ETHINYLESTRADIOL/LEVONORGES A TAB OMH 0,02/0,1MG  | 0,75  | STUK  | 0,13253  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0G04CBAO  | V  | 109511//28317  | AVODART CAPSULE 0,5MG  | 1,00  | STUK  | 1,12371  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0J01CRAO  | V  | 105076  | AMOXI/CLAV PCH TABLET 500/125MG  | 3,00  | STUK  | 0,77778  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0L01XEAO  | V  | EU/1/06/363/007  | SPRYCEL TABLET FILMOMHULD 20MG  | 5,00  | STUK  | 47,75040  |
+| 0L01XEAO  | V  | EU/1/06/363/008  | SPRYCEL TABLET FILMOMHULD 50MG  | 2,00  | STUK  | 66,32000  |
+| 0L01XEAO  | V  | EU/1/06/363/009  | SPRYCEL TABLET FILMOMHULD 70MG  | 1,43  | STUK  | 92,84800  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0L02BGAO  | V  | 104320  | EXEMESTAAN ACCORD TABLET FILMOMHULD 25MG  | 1,00  | STUK  | 4,71931  |
+| 0L02BGAO  | V  | 104598  | EXEMESTAAN CF TABLET FILMOMHULD 25MG  | 1,00  | STUK  | 4,71931  |
+| 0L02BGAO  | V  | 104488  | EXEMESTAAN PCH TABLET FILMOMHULD 25MG  | 1,00  | STUK  | 4,71931  |
+| 0L02BGAO  | V  | 104327  | EXEMESTAAN SANDOZ TABLET FILMOMHULD 25MG  | 1,00  | STUK  | 4,71931  |
+| 0L02BGAO  | V  | 102826  | LETROZOL 2,5 MG PCH FILMOMHULDE TABLETTEN  | 1,00  | STUK  | 4,71931  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0L04AAAP  | V  | EU/1/03/256/001  | HUMIRA 40 KIND INJVLST 50MG/ML FLACON 0,8ML  | 0,07  | STUK  | 543,28418  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0L04AAEO  | V  | 106344  | LEFLUNOMIDE MYLAN TABLET FILMOMHULD 10MG  | 2,00  | STUK  | 2,08285  |
+| 0L04AAEO  | V  | 106346  | LEFLUNOMIDE MYLAN TABLET FILMOMHULD 20MG  | 1,00  | STUK  | 3,47142  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1M01AEAO  | V  | 109566//13331  | BRUFEN BRUIS 600MG BRUISGRANULAAT IN SACHET  | 2,00  | STUK  | 0,27832  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0M05BABO  | V  | 109886//34632  | ACTONEL TABLET FILMOMHULD 75MG  | 0,07  | STUK  | 18,37810  |
+| 0M05BABO  | V  | 106292  | RISEDRONAATNATRIUM ACTAVIS WEKELIJKS TABL OMH 35MG  | 0,14  | STUK  | 8,57645  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0N04BCAO  | V  | 35163  | ROPINIROL ACTAVIS TABLET FILMOMHULD 0,25MG  | 24,00  | STUK  | 0,39152  |
+| 0N04BCAO  | V  | 35164  | ROPINIROL ACTAVIS TABLET FILMOMHULD 0,5MG  | 12,00  | STUK  | 0,32627  |
+| 0N04BCAO  | V  | 35165  | ROPINIROL ACTAVIS TABLET FILMOMHULD 1MG  | 6,00  | STUK  | 0,65254  |
+| 0N04BCAO  | V  | 35166  | ROPINIROL ACTAVIS TABLET FILMOMHULD 2MG  | 3,00  | STUK  | 1,30507  |
+| 0N04BCAO  | V  | 106214  | ROPINIROL SANDOZ RETARD TABLET MGA 2MG  | 3,00  | STUK  | 1,56609  |
+| 0N04BCAO  | V  | 106215  | ROPINIROL SANDOZ RETARD TABLET MGA 4MG  | 1,50  | STUK  | 2,61014  |
+| 0N04BCAO  | V  | 106216  | ROPINIROL SANDOZ RETARD TABLET MGA 8MG  | 0,75  | STUK  | 5,22029  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2N05AFAO  | V  | 109737//4295  | ZUCLOPENTHIXOL FISHER TABLET FILMOMHULD 10MG  | 3,00  | STUK  | 0,18304  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4N05ALAO  | V  | 109582//6279  | DOGMATIL CAPSULE 50MG  | 16,00  | STUK  | 0,24769  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2N06ABAO  | V  | 25419  | CITALOPRAM ACTAVIS TABLET OMHULD 10MG  | 2,00  | STUK  | 0,63983  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0R03ACCIDAV  | V  | 109694//31994  | ATIMOS AEROSOL 12MCG/DOSIS SPUITBUS 100DO  | 2,00  | DO  | 0,46172  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0S01AABZ  | V  | 109689//10225  | TOBREX OOGZALF TUBE 3,5G  | 0,28  | GRAM  | 0,22624  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0S01BCAG  | V  | EU/1/11/692/001  | YELLOX 0,9 MG/ML OOGDRUPPELS FLACON 5ML  | 0,20  | ML  | 2,85700  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0S01ECAG  | V  | 105443  | DORZOLAMIDE CF OOGDRUPPELS 20MG/ML FLACON 5ML  | 0,30  | ML  | 2,19630  |
+| --- | --- | --- | --- | --- | --- | --- |
+| YS01EDAG  | V  | 109578//26592  | XALACOM OOGDRUPPELS FLACON 2,5ML  | 1,00  | ML  | 9,47766  |
+| YS01EDAG  | V  | 109685//26592  | XALACOM OOGDRUPPELS FLACON 2,5ML  | 1,00  | ML  | 9,47766  |
+| --- | --- | --- | --- | --- | --- | --- |
+| YS01EDCG  | V  | 105541  | DORZOLAMIDE/TIMOLOL ACTAVIS OOGDR 20/5MG/ML FL 5ML  | 1,00  | ML  | 3,13380  |
+| YS01EDCG  | V  | 105416  | DORZOLAMIDE/TIMOLOL CF OOGDR 20/5MG/ML FL 5ML  | 1,00  | ML  | 3,13380  |
+| YS01EDCG  | V  | 105655  | DORZOLAMIDE/TIMOLOL MYLAN OOGDR 20/5MG/ML FL 5ML  | 1,00  | ML  | 3,13380  |
+
 ### B  
 
 ####Lijst van geneesmiddelen waarvoor geen vergoedingslimiet is vastgesteld
@@ -11948,7 +11667,6 @@ J.F.Hoogervorst
 | 12248  | Actilyse infusiepoeder flacon 50mg + solvens 50ml  |
 | 12068  | Addamel-n infusievlst conc  |
 | 11094  | Addiphos infusievloeistof concentraat flacon 20ml  |
-| 51918  | Adrenaline pch injvlst 0,5mg/ml ampul 1ml  |
 | 51919  | Adrenaline pch injvlst 1mg/ml ampul 1ml  |
 | EU/1/00/148/001  | Agenerase capsule 50mg  |
 | EU/1/00/148/002  | Agenerase capsule 150mg  |
@@ -12032,7 +11750,6 @@ J.F.Hoogervorst
 | 20871  | ARTHROTEC TABLET MGA 75MG  |
 | 34271//20871  | ARTHROTEC TABLET MGA 75MG  |
 | 24869//16410  | ARTHROTEC TABLET MGA 50MG  |
-| 25890//16410  | Artrotec tablet 50mg  |
 | 24870//20871  | Artrotec tablet 75mg  |
 | 25891//20871  | Artrotec tablet 75mg  |
 | 50810  | Ascorbinezuur cf injvlst 100mg/ml ampul 5ml  |
@@ -12059,7 +11776,6 @@ J.F.Hoogervorst
 | 13761  | Bactroban neuszalf 20mg/g  |
 | 23892//13761  | Bactroban neuszalf 20mg/g  |
 | 24855//13761  | Bactroban neuszalf 20mg/g  |
-| 31922//13761  | Bactroban neuszalf 20mg/g  |
 | 7439  | Belustine capsule 40mg  |
 | 15793  | Berodual inhalette inhalatiepoeder  |
 | EU/1/95/003/001  | Betaferon injectiepoeder fl 9.600.000ie + solv 2ml  |
@@ -12076,7 +11792,6 @@ J.F.Hoogervorst
 | 35123  | Boostrix polio injsusp wwsp 0,5ml  |
 | 544  | Brietal hikma injectiepoeder  |
 | 12412  | Burinex injvlst 0,50mg/ml  |
-| 101222//3837  | Buscopan injvlst 20mg/ml ampul 1ml  |
 | 101992//3837  | Buscopan injvlst 20mg/ml ampul 1ml  |
 | 3837  | Buscopan injvlst 20mg/ml ampul 1ml  |
 | 3871  | Butazolidin dragee 200mg  |
@@ -12126,7 +11841,6 @@ J.F.Hoogervorst
 | 24829  | Clindamycine sandoz injvlst 150mg/ml  |
 | 16863  | Clinoleic infvlst 200mg/ml  |
 | 50914  | Codeine hcl pch tablet 10mg  |
-| 50915  | Codeine hcl pch tablet 15mg  |
 | 50916  | Codeine hcl pch tablet 20mg  |
 | 50422  | Codeine hcl rp tablet 10mg  |
 | 50423  | Codeine hcl rp tablet 15mg  |
@@ -12159,7 +11873,6 @@ J.F.Hoogervorst
 | 12502  | Contralum ultra smeersel  |
 | 30086  | Copaxone injvlst 20mg/ml wwsp 1ml  |
 | 32737//30086  | Copaxone injvlst 20mg/ml wwsp 1ml  |
-| 35286//30086  | Copaxone injvlst 20mg/ml wwsp 1ml  |
 | 10937  | Cordarone iv injvlst 50mg/ml ampul 3ml  |
 | 12820  | Corotrope injvlst 1mg/ml ampul 10ml  |
 | 25702  | COSMOFER INJVLST 50MG/ML  |
@@ -12174,13 +11887,11 @@ J.F.Hoogervorst
 | EU/1/06/379/001  | Cystadane poeder  |
 | EU/1/97/039/001  | Cystagon capsule 50mg  |
 | EU/1/97/039/003  | Cystagon capsule 150mg  |
-| 2784  | Cytomel tablet 25mcg  |
 | 33181//2784  | Cytomel tablet 25mcg  |
 | 34991//2784  | LIOTHYRONINENATRIUM GLOBAL FARMA TABLET 25MCG  |
 | 13724  | Cytotec tablet 200mcg  |
 | 101225//17877  | Daivonex creme 50mcg/g  |
 | 17877  | Daivonex creme 50mcg/g  |
-| 22460//17877  | Daivonex creme 50mcg/g  |
 | 32545//17877  | Daivonex creme 50mcg/g  |
 | 21253  | Daivonex lotion 50mcg/ml  |
 | 28539//21253  | Daivonex lotion 50mcg/ml  |
@@ -12191,10 +11902,7 @@ J.F.Hoogervorst
 | 6354  | Dalacin c poeder voor suspensie 15mg/ml  |
 | 6982  | Danatrol capsule 100mg  |
 | 6983  | Danatrol capsule 200mg  |
-| 28059//6978  | Dantrium capsule 25mg  |
 | 6978  | Dantrium capsule 25mg  |
-| 30214//7580  | Dantrium capsule 50mg  |
-| 31001//7580  | Dantrium capsule 50mg  |
 | 7580  | Dantrium capsule 50mg  |
 | 8616  | Dantrium injectiepoeder flacon 20mg (iv)  |
 | 24184=52476  | Dapson pch tablet 100mg  |
@@ -12281,7 +11989,6 @@ J.F.Hoogervorst
 | 35253//11015  | Emla hydrofiele creme 50mg/g  |
 | EU/1/03/261/001  | Emtriva capsule 200mg  |
 | 8058  | Endoxan injectiepoeder  |
-| 32021//8058  | Endoxan injectiepoeder flacon 1000mg  |
 | 10573  | Epanutin injvlst 50mg/ml ampul 5ml  |
 | 24472  | Epaxal berna injectie emulsie wwsp 0,5ml  |
 | 50812  | Epinefrine cf injvlst 1mg/ml ampul 1ml  |
@@ -12290,7 +11997,6 @@ J.F.Hoogervorst
 | EU/1/96/015/004  | Epivir tablet filmomhuld 150mg  |
 | EU/1/96/015/003  | Epivir tablet filmomhuld 300mg  |
 | 15437  | Eskazole tablet 400mg  |
-| 25963//7375  | Estracyt capsule 140mg  |
 | 7375  | Estracyt capsule 140mg  |
 | 52403  | Ethinylestradiolum tablet 0,05mg  |
 | 535  | Euphyllin injvlst 17,57mg/ml ampul 10ml (iv)  |
@@ -12446,12 +12152,10 @@ J.F.Hoogervorst
 | 51981  | Injvlst pyridoxini hcl 50mg/ml ampul 1ml  |
 | 51923  | Injvlst thiamini hcl 50mg/ml ampul 1ml  |
 | 51924  | Injvlst thiamini hcl 100mg/ml ampul 1ml  |
-| 103879//29963  | Inspra tablet 25mg  |
 | 104382//29963  | Inspra tablet 25mg  |
 | 104437//29963  | Inspra tablet 25mg  |
 | 29963  | Inspra tablet 25mg  |
 | 33488//29963  | Inspra tablet 25mg  |
-| 103876//29964  | Inspra tablet 50mg  |
 | 104383//29964  | Inspra tablet 50mg  |
 | 104439//29964  | Inspra tablet 50mg  |
 | 29964  | Inspra tablet 50mg  |
@@ -12558,7 +12262,6 @@ J.F.Hoogervorst
 | 100166//3820  | Mestinon tablet 10mg  |
 | 3820  | Mestinon tablet 10mg  |
 | 100222//3821  | Mestinon tablet omhuld 60mg  |
-| 101929//3821  | Mestinon tablet omhuld 60mg  |
 | 101959//3821  | Mestinon tablet omhuld 60mg  |
 | 29593//3821  | Mestinon tablet omhuld 60mg  |
 | 3686  | Methergin injvlst 0,2mg/ml ampul 1ml  |
@@ -12579,7 +12282,6 @@ J.F.Hoogervorst
 | 26093//18026  | Migrafin poeder sachet  |
 | 26764//18026  | Migrafin poeder sachet  |
 | 29779//18026  | Migrafin poeder sachet  |
-| 32420//18026  | Migrafin poeder sachet  |
 | EU/1/04/292/002  | Mimpara tablet filmomhuld 30mg  |
 | EU/1/04/292/006  | Mimpara tablet filmomhuld 60mg  |
 | EU/1/04/292/010  | Mimpara tablet filmomhuld 90mg  |
@@ -12593,7 +12295,6 @@ J.F.Hoogervorst
 | 55988  | Miniplasco inf nacl 58,5mg/ml ampul 20ml kunststof  |
 | 8868  | Minrin injvlst 4mcg/ml ampul 1ml (iv/im)  |
 | 18923  | Minrin neusspray 2,5mcg/do flacon 50doses  |
-| 102242//16681  | Mirena i.u.d.  |
 | 104879//16681  | Mirena i.u.d.  |
 | 16681  | Mirena i.u.d.  |
 | 29568  | MITOXANTRON SANDOZ INFVLST CONC 2MG/ML  |
@@ -12653,7 +12354,6 @@ J.F.Hoogervorst
 | 10914  | Nutriflex special 70/240 infvlst  |
 | 18396  | Octagam infusievloeistof 50mg/ml  |
 | 16175  | Octostim neusspray 150mcg/do flacon 25doses  |
-| 11118  | Opticrom oogzalf 40mg/g tube 5g  |
 | EU/1/04/303/001  | Orfadin capsule 2mg  |
 | EU/1/04/303/002  | Orfadin capsule 5mg  |
 | EU/1/04/303/003  | Orfadin capsule 10mg  |
@@ -12661,8 +12361,6 @@ J.F.Hoogervorst
 | 20403//855  | Otosporin oordruppels  |
 | 855  | Otosporin oordruppels  |
 | 3170  | Palfium tablet 5mg  |
-| 27527//550  | Paludrine tablet 100mg  |
-| 28168//550  | Paludrine tablet 100mg  |
 | 550  | Paludrine tablet 100mg  |
 | 6585  | Panotile oordruppels  |
 | 51969  | Papaverine hcl pch injvlst 40mg/ml ampul 1ml  |
@@ -12726,7 +12424,6 @@ J.F.Hoogervorst
 | 3775  | Prostigmin injvlst 0,5mg/ml ampul 1ml  |
 | 3776  | Prostigmin injvlst 2,5mg/ml flacon 5ml  |
 | 11553  | Prostin 15 injvlst 0,25mg/ml ampul 1ml  |
-| 7298  | Prostin e2 tablet 0,5mg  |
 | 13823  | Prostin e2 vaginale gel 1mg in wwsp 3g  |
 | 13824  | Prostin e2 vaginale gel 2mg in wwsp 3g  |
 | 6666  | PROTAMINE MPH INJVLST 1000E/ML  |
@@ -12739,7 +12436,6 @@ J.F.Hoogervorst
 | 27368//16734  | Pulmozyme inhalatievloeistof 1mg/ml ampul 2,5ml  |
 | 16254  | Purethal pollen grassen 1fl 3ml + 8wwsp  |
 | 859  | Puri nethol tablet 50mg  |
-| 102674//859  | Purinethol tablet 50mg  |
 | 103685//859  | Purinethol tablet 50mg  |
 | 103686//859  | Purinethol tablet 50mg  |
 | 50772  | Pyrazinamide cf tablet 500mg  |
@@ -12755,7 +12451,6 @@ J.F.Hoogervorst
 | EU/1/99/101/001  | Regranex gel 0,1mg/g  |
 | 8175  | Relefact trh injvlst 0,2mg/ml ampul 1ml  |
 | EU/1/08/463/003  | Relistor injvlst 20mg/ml flacon 0,6ml + toebeh  |
-| 34539//8071  | Resonium a poeder  |
 | 35219//8071  | Resonium a poeder  |
 | 8071  | Resonium a poeder  |
 | 12639  | Retrovir azt capsule 100mg  |
@@ -12790,7 +12485,6 @@ J.F.Hoogervorst
 | 15722  | Sabril granulaat in sachets 500mg  |
 | 13707  | Sabril tablet 500mg  |
 | 18857//13707  | Sabril tablet 500mg  |
-| 21312//13707  | Sabrilex tablet 500mg  |
 | 633  | Salazopyrine zetpil 500mg  |
 | 9846  | Sandimmune infusievloeistof conc 50mg/ml  |
 | 28218//6258  | Sandomigran tablet omhuld 0,5mg  |
@@ -12811,12 +12505,10 @@ J.F.Hoogervorst
 | 103155//25800  | Singulair kauwtablet 4mg  |
 | 25800  | Singulair kauwtablet 4mg  |
 | 23165  | Singulair kauwtablet 5mg  |
-| 101962//23164  | Singulair tablet omhuld 10mg  |
 | 102289//23164  | Singulair tablet omhuld 10mg  |
 | 102626//23164  | Singulair tablet omhuld 10mg  |
 | 23164  | Singulair tablet omhuld 10mg  |
 | 28462//23164  | Singulair tablet omhuld 10mg  |
-| 29112//23164  | Singulair tablet omhuld 10mg  |
 | 30282//23164  | Singulair tablet omhuld 10mg  |
 | 35111//23164  | Singulair tablet omhuld 10mg  |
 | 4961  | Sofradex oordruppels flacon 8ml  |
@@ -12831,8 +12523,6 @@ J.F.Hoogervorst
 | EU/1/02/240/003  | Somavert injpdr flacon 20mg + solvens 8ml  |
 | 10261  | Sorbisterit poeder 90% m/m  |
 | 10876  | Sotacor injvlst 10mg/ml ampul 4ml  |
-| 100570//26191  | Spiriva inhalpdr 18mcg  |
-| 104083//26191  | Spiriva inhalpdr 18mcg  |
 | 26191  | Spiriva inhalpdr 18mcg  |
 | 28470//26191  | Spiriva inhalpdr 18mcg  |
 | 30199//26191  | Spiriva inhalpdr 18mcg  |
@@ -12876,12 +12566,10 @@ J.F.Hoogervorst
 | 5082  | Synacthen injvlst 0,25mg/ml ampul 1ml  |
 | EU/1/99/117/001  | Synagis injectiepoeder flacon 50mg + solvens 1ml  |
 | EU/1/99/117/002  | Synagis injectiepoeder flacon 100mg + solvens 1ml  |
-| 20705//6039  | Synalar oordruppels  |
 | 3714  | Syntocinon injvlst 5ie/ml ampul 1ml  |
 | 3716  | Syntocinon neusspray 4ie/do flacon 50do  |
 | 16889  | Taloxa suspensie 120mg/ml  |
 | 16890  | Taloxa tablet 400mg  |
-| 16891  | Taloxa tablet 600mg  |
 | 10099  | Tambocor injvlst 10mg/ml ampul 15ml  |
 | EU/1/01/178/001  | Targretin capsule 75mg  |
 | 14147  | Tarivid infusievloeistof 2mg/ml  |
@@ -13105,15 +12793,12 @@ J.F.Hoogervorst
 | 105820  | COLCHICINE SANDOZ TABLET 0,5MG  |
 | 106097//7375  | ESTRACYT CAPSULE 140MG  |
 | 105961//17315  | HAVRIX INJVLST 1440SKB-E/ML WWSP 1ML  |
-| 106194//859  | MERCAPTOPURINEMONOHYDRAAT ERC TABLET 50MG  |
 | 106273//16734  | PULMOZYME VERNEVELVLOEISTOF 1000E/ML AMPUL 2,5ML  |
 | EU/1/07/397/001  | SIKLOS TABLET FILMOMHULD 1000MG  |
-| 106274//23164  | SINGULAIR TABLET OMHULD 10MG  |
 | 104444//28113  | TRAMACET TABLET FILMOMHULD  |
 
 | --- | --- |
 |:---|:---|
-| 106404//11015  | EMLA HYDROFIELE CREME 50MG/G  |
 | 106113//15195  | IMUKIN INJVLST 200MCG/ML FLACON 0,5ML  |
 | EU/1/08/497/006  | NPLATE 250 MCG POEDER EN OPLOSMIDDEL VOOR INJECTIE  |
 | EU/1/08/497/008  | NPLATE 500 MCG POEDER EN OPLOSMIDDEL VOOR INJECTIE  |
@@ -13233,7 +12918,6 @@ J.F.Hoogervorst
 | --- | --- |
 |:---|:---|
 | 108337//126  | DECADURABOLIN INJVLST 50MG/ML AMPUL 1ML  |
-| 107958//17315  | HAVRIX INJVLST 1440SKB-E/ML WWSP 1ML  |
 | 106705//1372  | HEPARINE MEDCOR INJVLST 5.000IE/ML FLACON 5ML  |
 | 108629//29963  | INSPRA TABLET 25MG  |
 | 108628//29964  | INSPRA TABLET 50MG  |
@@ -13331,6 +13015,24 @@ J.F.Hoogervorst
 | 109240//34382  | SPIRIVA RESPIMAT OPL V INHAL 2,5MCG/DO PATR 60DO  |
 | 109483//34382  | SPIRIVA RESPIMAT OPL V INHAL 2,5MCG/DO PATR 60DO  |
 | 109334//27  | SUSTANON 250 INJVLST 250MG/ML AMPUL 1ML  |
+
+| --- | --- |
+|:---|:---|
+| 109564//101127  | CALCI CHEW D3 KAUWTABLET 1000MG/800IE  |
+| 109721//6978  | DANTRIUM CAPSULE 25MG  |
+| EU/1/02/219/020  | EBIXA TABLET FILMOMHULD 10MG  |
+| EU/1/99/108/004  | FERRIPROX 1000MG FILMOMHULDE TABLETTEN  |
+| EU/1/99/108/005  | FERRIPROX 1000MG FILMOMHULDE TABLETTEN  |
+| EU/1/99/108/006  | FERRIPROX 1000MG FILMOMHULDE TABLETTEN  |
+| 109887//29963  | INSPRA TABLET 25MG  |
+| 109367//11154  | LARIAM TABLET 250MG  |
+| 109294//15018  | LASIX TABLET 500MG  |
+| 109575//23164  | MONTELUKAST FISHER TABLET FIMLOMHULD 10MG  |
+| 109574//21551  | PHOSPHORAL DRANK  |
+| 109513//23164  | SINGULAIR TABLET OMHULD 10MG  |
+| 109514//26191  | SPIRIVA INHALPDR 18MCG  |
+| 109682//27  | SUSTANON 250 INJVLST 250MG/ML AMPUL 1ML  |
+| 109728//28113  | ZALDIAR TABLET FILMOMHULD  |
 
 ### Bijlage  2  
 

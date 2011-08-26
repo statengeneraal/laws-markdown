@@ -37,7 +37,7 @@ j. bodemfuncties: bodemfuncties als bedoeld in [artikel 1 van het Besluit bodemk
 
 k. bodemfunctieklassen wonen of industrie: bodemfunctieklassen wonen of industrie als bedoeld in [artikel 55, eerste lid, van het Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md);  
 
-l. gebiedsspecifiek toetsingskader: toetsingskader als bedoeld in [hoofdstuk 4, afdeling 2, van de Regeling bodemkwaliteit](../../../../../ministeriele-regeling/regeling/bodemkwaliteit/BWBR0023085/README.md);  
+l. gebiedsspecifiek toetsingskader: toetsingskader als bedoeld in [hoofdstuk 4, afdeling 2, van het Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md);  
 
 m. projectgebied de Kempen: het gebied bedoeld in bijlage 3;  
 
@@ -73,7 +73,7 @@ d. projectgebied de Kempen.
 
 1.  Degene die het voornemen heeft te saneren overeenkomstig het [besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) verstrekt bij de melding, bedoeld in [artikel 6 van het besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md), de volgende gegevens aan het bevoegd gezag: 
 
-a. de naam, adres- en woonplaatsgegevens van de saneerder en de eigenaar of erfpachter van de saneringslocatie;  
+a. de naam, adres- en woonplaatsgegevens van de saneerder en de eigenaar of erfpachter van de saneringslocatie,dan wel, indien de sanering zich over meerdere aaneengesloten kadastrale percelen uitstrekt, van de betrokken eigenaren of erfpachters;  
 
 b. de kadastrale gegevens met betrekking tot de saneringslocatie;  
 
@@ -101,7 +101,6 @@ j. gegevens over de voor de uitvoering op de saneringslocatie van belang zijnde 
 
 k. de overige gegevens en documenten, zoals aangegeven in de modellen die zijn opgenomen in bijlage 4.     
 2.  Voor het verstrekken van de gegevens bij de melding, bedoeld in het eerste lid, wordt per categorie uniforme saneringen gebruik gemaakt van een formulier waarvan de modellen zijn opgenomen in bijlage 4.   
-3.  De melding, bedoeld in het eerste lid, betreft één of meer aaneengesloten kadastrale percelen van dezelfde eigenaar of erfpachter, tenzij in paragraaf 3 anders is bepaald.   
 
 ### Artikel  1.4  
 
@@ -323,7 +322,7 @@ Artikel 1.5, eerste lid, onder d, is niet van toepassing voor de saneringsaanpak
 
 ####Reikwijdte
 
-Tot de categorie van uniforme saneringen, bedoeld in artikel 1.2, onder b, behoren saneringen die voldoen aan de volgende voorwaarden: 
+1.  Tot de categorie van uniforme saneringen, bedoeld in artikel 1.2, onder b, behoren saneringen die voldoen aan de volgende voorwaarden: 
 
 a. de saneringslocatie betreft een landbodem;  
 
@@ -333,11 +332,10 @@ c. toegepast wordt een saneringsaanpak bedoeld in artikel 3.2.2, 3.2.2a of 3.2.3
 
 d. het betreft verontreiniging met stoffen als bedoeld in bijlage 6 onder categorie Mobiel waarop het [besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) van toepassing is;  
 
-e. de verontreinigingen die aanwezig zijn op plaatsen die niet bereikbaar zijn met de in te zetten technieken, zoals onder gebouwen, wegconstructies, hoofd(transport)leidingen en overige belangrijke (ondergrondse) infrastructuur vallen buiten de saneringslocatie;  
+e. uit de melding, bedoeld in artikel 1.3, blijkt dat het verontreinigde bodemvolume met te saneren verontreinigende stoffen in het grondwater boven de streefwaarde ten hoogste gelijk is aan 1.000 m <sup>3</sup>; en  
 
-f. uit de melding, bedoeld in artikel 1.3, blijkt dat het verontreinigde bodemvolume met te saneren verontreinigende stoffen in het grondwater boven de streefwaarde ten hoogste gelijk is aan 1.000 m <sup>3</sup>; en  
-
-g. in afwijking van onderdeel f geldt voor spoorwegterreinen, die zich bevinden op kadastrale percelen die in eigendom zijn van NS Vastgoed BV en Railinfratrust BV, dat het verontreinigde bodemvolume met te saneren verontreinigende stoffen in het grondwater boven de streefwaarde ten hoogste gelijk is aan 2.000 m <sup>3</sup>.    
+f. in afwijking van onderdeel f geldt voor spoorwegterreinen, die zich bevinden op kadastrale percelen die in eigendom zijn van NS Vastgoed BV en Railinfratrust BV, dat het verontreinigde bodemvolume met te saneren verontreinigende stoffen in het grondwater boven de streefwaarde ten hoogste gelijk is aan 2.000 m <sup>3</sup>.     
+2.  De verontreinigingen die aanwezig zijn op plaatsen die niet bereikbaar zijn met de in te zetten technieken, zoals onder gebouwen, hoofd(transport)leidingen en andere belangrijke (ondergrondse) infrastructuur, worden niet tot de saneringslocatie gerekend, indien een voorziening is aangebracht als bedoeld in artikel 3.2.8.   
 
 ### Artikel  3.2.2  
 
@@ -423,7 +421,7 @@ De datum waarop de einddiepte van de ontgraving zal worden bereikt wordt door de
 
 ####Voorzieningen in geval van achterblijvende verontreinigingen
 
-In geval van een sanering van een verontreinigingssituatie, bedoeld in artikel 3.2.1, onder e, geldt dat de saneerder op het grensvlak van de saneringslocatie en de achterblijvende verontreiniging een isolatiefolie aanbrengt, dat reikt tot 30 centimeter onder de ontgravingsdiepte met daarachter een horizontale drain met pompput, op een niveau van ten hoogste 50 centimeter beneden de gemiddeld aanwezige grondwaterstand. De isolatiefolie dient te reiken tot aan het maaiveld.  
+In geval van een sanering van een verontreinigingssituatie, bedoeld in artikel 3.2.1, tweede lid, geldt dat de saneerder op het grensvlak van de saneringslocatie en de achterblijvende verontreiniging een isolatiefolie aanbrengt, dat reikt tot 30 centimeter onder de ontgravingsdiepte met daarachter een horizontale drain met pompput, op een niveau van ten hoogste 50 centimeter beneden de gemiddeld aanwezige grondwaterstand. De isolatiefolie dient te reiken tot aan het maaiveld.  
 
 ### Paragraaf  3.3  
 
@@ -443,9 +441,7 @@ c. toegepast wordt een saneringsaanpak bedoeld in artikel 3.3.2;
 
 d. het tijdelijk uitplaatsen is noodzakelijk voor de uitvoering van civieltechnische werkzaamheden zoals voor de aanleg, het onderhoud of de verwijdering van ondergrondse infrastructuur, waaronder wordt begrepen kabels, leidingen, rioleringen, duikers, funderingen en vergelijkbare activiteiten binnen een geval van verontreiniging; en  
 
-e. artikel 1.3, derde lid is niet van toepassing;  
-
-f. het betreft een verontreiniging met stoffen bedoeld in bijlage 6 onder categorie Tijdelijk uitplaatsen waarop het [besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) van toepassing is.    
+e. het betreft een verontreiniging met stoffen bedoeld in bijlage 6 onder categorie Tijdelijk uitplaatsen waarop het [besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) van toepassing is.    
 
 ### Artikel  3.3.2  
 
@@ -459,9 +455,8 @@ b. eventueel het van de locatie afvoeren van de overtollige verontreinigde grond
 
 ### Artikel  3.3.3  
 
-####Onderzoek
-
-Artikel 1.5, eerste lid, a en d, zijn niet van toepassing.  
+1.  Artikel 1.5, eerste lid, onder a en d, is niet van toepassing op de categorie uniforme saneringen, bedoeld in artikel 3.3.1.   
+2.  Het in artikel 1.5, eerste lid, onder b, genoemde onderzoek kan worden beperkt tot de bodem die valt binnen het profiel van ontgraving van de saneringslocatie.   
 
 ### Artikel  3.3.4  
 
@@ -564,7 +559,7 @@ Degene die saneert, meldt de datum van afronding van de sanering aan het bevoegd
 
 1.  Degene die saneert verstrekt bij het verslag, bedoeld in [artikel 13 van het besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md), de volgende gegevens aan het bevoegd gezag: 
 
-a. de naam, adres- en woonplaatsgegevens van de melder, de eigenaar of erfpachter van de saneringslocatie en de saneerder;  
+a. de naam, adres- en woonplaatsgegevens van de melder, de eigenaar of erfpachter van de saneringslocatie, of, indien de sanering zich over meerdere aaneengesloten kadastrale percelen uitstrekt, van de betrokken eigenaren of erfpachters, en de saneerder;  
 
 b. de kadastrale gegevens met betrekking tot de saneringslocatie;  
 
@@ -644,7 +639,7 @@ Waarden in relatie tot achtergrondwaarden en interventiewaarden voor een standaa
 | Cobalt  | 15  | 35  | 35  | 35  | 190  | 190  |
 | Koper  | 40  | 190*  | 190*  | 54  | 190  | 190  |
 | Kwik  | 0,15  | 0,83  | 0,83  | 0,83  | 4,8  | 36 (anorg)  |
-| Lood  | 50  | 210  | 276*  | 210  | 530  | 530  |
+| Lood  | 50  | 85  | 276*  | 210  | 530  | 530  |
 | Molybdeen  | 1,5  | 88  | 88  | 88  | 190  | 190  |
 | Nikkel  | 35  | 39  | 39  | 39  | 100  | 100  |
 | Tin  | 6,5  | 180  | 180  | 180  | 900  | 900  |
@@ -691,19 +686,97 @@ Figuur 1 . Overzicht projectgebied De Kempen  Het Projectgebied De Kempen betref
 
 ####behorende bij artikel 1.3  van de Regeling uniforme saneringen
 
-Ligt ter inzage bij het Ministerie van VROM en is gepubliceerd op www.vrom.nl.  
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
+![249222](http://wetten.overheid.nl/Illustration/249222)
 
 ### Bijlage  5  
 
 ####behorende bij artikel 4.2  van de Regeling uniforme saneringen
 
-Ligt ter inzage bij het Ministerie van VROM en is gepubliceerd op www.vrom.nl.  
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
+![249265](http://wetten.overheid.nl/Illustration/249265)
 
 ### Bijlage  6  
 
 ####behorende bij de artikelen 3.1.1 , 3.2.1 , 3.2.4 , 3.3.1  en 3.4.1  van de Regeling uniforme saneringen
 
-####Reikwijdte stoffen in de regeling uniforme saneringen
+####Reikwijdte stoffen in de regeling uniforme saneringen waarbij sanering noodzakelijk is
 
 | Stofgroepen en Stoffen  | Categorie Mobiel*  | Categorie Immobiel, tijdelijk uitplaatsen en De Kempen*  |
 |:---|:---|:---|
