@@ -10,16 +10,16 @@ Besluit:
 
 ### Artikel  1  
 
-Voor het uitkeringsjaar 2010 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1.  
+Voor het uitkeringsjaar 2010 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 De 
-minister van Binnenlandse Zaken en Koninkrijksrelaties,voor deze:
-de waarnemend directeur Openbaar Bestuur en Democratie,
-C.A.M.E.Mattijssen  
+minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: 
+de waarnemend directeur Openbaar Bestuur en Democratie, 
+C.A.M.E. Mattijssen    
 
 ### Bijlage  1  
 
@@ -51,7 +51,7 @@ De bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet
 | 15-a  | Leerling (V)SO  | 315,82  |
 | 15-b  | Extra groei leerlingen VO  | 221,81  |
 | 15-c  | Extra groei jongeren  | 169,94  |
-| 16  | Land  | 32,56  |
+| 16  | Land   | 32,56  |
 | 17  | Land * percentage slechte grond  | –1,65  |
 | 18  | Land * bodemfactor gemeente  | 27,93  |
 | 19  | Binnenwater  | 38,41  |
@@ -62,13 +62,13 @@ De bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet
 | 24  | Woonruimten  | 178,51  |
 | 24a  | Nieuwbouwwoningen  | 1.292,90  |
 | 25  | Woonruimten * bodemfactor woonkern  | 27,82  |
-| 26  | Woonruimten * percentage slechte grond  | 25,90  |
+| 26  | Woonruimten * percentage slechte grond   | 25,90  |
 | 27a  | Historische kernen eerste groep  | 3.359,32  |
 | 27b  | Historische kernen tweede groep  | 7.033,79  |
 | 27c  | Historische kernen derde groep  | 15.576,40  |
 | 28  | Historische waterweg  | 15,44  |
 | 29  | Bewoonde oorden 1930  | 31,14  |
-| 30  | Bewoonde oorden met historische kernen  | 87,70  |
+| 30  | Bewoonde oorden met historische kernen   | 87,70  |
 | 31  | ISV, onderdeel a  | 14.833.792,73  |
 | 31 a  | ISV, onderdeel b  | 9.319.851,31  |
 | 32  | Omgevingsadressendichtheid  | 63,00  |
@@ -80,14 +80,14 @@ De bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet
 | 37  | Meerkernigheid * bodemfactor buitengebied  | 14.919,34  |
 | 38  | Bedrijfsvestigingen  | 114,58  |
 | 38a  | OZB-waarde van de niet-woningen (in mln)  | 312,00  |
-| 39  | Vast bedrag  | 269.135,84  |
+| 39  | Vast bedrag   | 269.135,84  |
 | 40  | Vast bedrag voor Amsterdam  | 189.526.325,92  |
 | 41  | Vast bedrag voor Rotterdam  | 109.904.057,02  |
 | 42  | Vast bedrag voor Den Haag  | 81.446.882,12  |
-| 43  | Vast bedrag voor Utrecht  | 45.076.050,00  |
+| 43  | Vast bedrag voor Utrecht   | 45.076.050,00  |
 | 44  | Vast bedrag voor de Waddengemeenten  | 149.950,63  |
-| 44a  | Vast bedrag Baarle-Nassau <sup>1</sup>  | 269.135,84  |
+| 44a  | Vast bedrag Baarle-Nassau<sup>1</sup>   | 269.135,84  |
 | 45a  | Herindeling (per gemeente)  | 2.245.440,00  |
 | 45b  | Herindeling (per inwoner)  | 53,29  |
 
-<sup>1</sup> De gemeente Baarle-Nassau ontvangt een vast bedrag gelijk aan 2 maal het vast bedrag voor iedere gemeente 
+<sup>1</sup> De gemeente Baarle-Nassau ontvangt een vast bedrag gelijk aan 2 maal het vast bedrag voor iedere gemeente
