@@ -381,7 +381,7 @@ e. premies van levensverzekeringen, lijfrente of pensioenverzekering, met uitzon
 
 f. giften aan op de BES eilanden gevestigde kerkelijke, charitatieve, culturele, wetenschappelijke en het algemeen nut beogende instellingen, mits deze giften met schriftelijke bewijsstukken worden aangetoond, indien en voor zover zij in totaal een ten honderd van het inkomen en tevens USD 56 te boven gaan, met dien verstande dat het in mindering te brengen bedrag ten hoogste drie ten honderd van het inkomen beloopt;  
 
-g. premies als bedoeld in [artikel 5 van de Wet tegemoetkoming ziektekosten overheidsgepensioneerden BES](../../../../../wet-BES/wet/tegemoetkoming/ziektekosten/overheidsgepensioneerden/bes/BWBR0028583/README.md);  
+g.  vervallen;   
 
 h. de volgende kosten welke verband houden met de eigen woning die de belastingplichtige als hoofdverblijf ter beschikking staat: 
 
@@ -514,7 +514,7 @@ c. zuivere opbrengst van rechten op periodieke uitkeringen:
 4°. bedongen in rechtstreeks verband met of bij het staken van een onderneming;  
 
 5°. verkregen ter zake van echtscheiding of scheiding van tafel en bed.       
-4.  De persoonlijke verminderingen van het inkomen zijn de premies als bedoeld in artikel 16, eerste lid, onderdelen e en g.   
+4.  De persoonlijke verminderingen van het inkomen zijn de premies als bedoeld in artikel 16, eerste lid, onderdeel e.   
 5.  Bij de scheiding van goederen blijft op verzoek van een dan wel van beide echtgenoten het tweede lid buiten toepassing. In dat geval wordt de belasting berekend als ware het tweede lid wel van toepassing. Vervolgens wordt de door beide echtgenoten tezamen verschuldigde belasting omgeslagen in verhouding van ieders zuiver inkomen.   
 
 ### Artikel  20a  

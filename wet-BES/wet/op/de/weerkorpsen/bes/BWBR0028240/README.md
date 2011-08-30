@@ -51,11 +51,6 @@ c. de goedkeuring van de interne reglementen.
 
 De kosten verbonden aan operationele inzet, daaronder begrepen de vergoeding, bedoeld in artikel 5, tweede lid, alsmede eventuele kosten voor transport en verblijf, komen voor rekening van het orgaan dat om de inzet heeft verzocht.  
 
-### Artikel  7  
-
-1.  Op het lid van een weerkorps dat lijdt aan in en door de dienst ontstane ziekten of gebreken is de Wet vergoeding behandelings- en verplegingskosten ambtenaren BES van overeenkomstige toepassing.   
-2.  Voor de toepassing van de Wet vergoeding behandelings- en verplegingskosten ambtenaren BES geldt het lid van een weerkorps als een overheidsdienaar als bedoeld in artikel 8, eerste lid, van de Wet vergoeding behandelings- en verplegingskosten ambtenaren BES.   
-
 ### Artikel  8  
 
 1.  Degene die handelt in strijd met het verbod, bedoeld in artikel 2, eerste en vierde lid, wordt gestraft met hechtenis van ten hoogste twee jaar of een geldboete van de vijfde categorie.   

@@ -184,9 +184,7 @@ a. een op de BES eilanden wonende werknemer:
 
 * met aan het loon verbonden verplichte bijdragen van de werknemer voor pensioen en pensioenfondsen;  
 
-* met 5% tot een maximum bedrag van USD 470 voor de aan het loon verbonden verplichte bijdragen in spaar- en voorzieningsfondsen;  
-
-* met premies als bedoeld in [artikel 5 van de de Wet tegemoetkoming ziektekosten overheidsgepensioneerden BES](../../../../../wet-BES/wet/tegemoetkoming/ziektekosten/overheidsgepensioneerden/bes/BWBR0028583/README.md).    
+* met 5% tot een maximum bedrag van USD 470 voor de aan het loon verbonden verplichte bijdragen in spaar- en voorzieningsfondsen.    
 
 b. een niet op de BES eilanden wonende werknemer: met USD 280 ingeval van een bestaande dienstbetrekking, met dien verstande dat de aftrek niet meer bedraagt dan dat voljaarsloon.     
 

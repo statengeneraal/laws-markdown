@@ -30,7 +30,7 @@ Het CJIB heeft tot taak het openbaar ministerie te ondersteunen bij zijn taak me
 
 ### Artikel  3  
 
-Het CJIB heeft tot taak het openbaar ministerie te ondersteunen bij zijn taak met betrekking tot de inning van de som geld ten behoeve van het slachtoffer, bedoeld in [artikel 36 *f* van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).  
+Het CJIB heeft tot taak het openbaar ministerie te ondersteunen bij zijn taak met betrekking tot de inning van de som geld ten behoeve van het slachtoffer, of diens nabestaanden, alsmede met betrekking tot de uitkering van het resterende bedrag, bedoeld in [artikel 36f van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).  
 
 ### Artikel  4  
 
