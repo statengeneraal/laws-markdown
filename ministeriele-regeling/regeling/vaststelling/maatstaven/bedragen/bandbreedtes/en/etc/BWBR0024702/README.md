@@ -166,7 +166,7 @@ x. € 115 voor pensioenfondsen als bedoeld in [artikel 8, eerste lid, onderdee
 
 y. € 801 voor aanbieders van krediet als bedoeld in [artikel 8, eerste lid, onderdeel l, onder 1°, van het besluit](../../../../../../../../../AMvB/besluit/bekostiging/financieel/toezicht/BWBR0020411/README.md);  
 
-z. € 17.913 voor aanbieders van beleggingsobjecten;  
+z. € 5.000 voor aanbieders van beleggingsobjecten;  
 
 aa. € 0 voor aanbieders van een financieel product als bedoeld in [artikel 8, eerste lid, onderdeel l, van het besluit](../../../../../../../../../AMvB/besluit/bekostiging/financieel/toezicht/BWBR0020411/README.md), die tevens financiële onderneming, uitgevende instelling of pensioenfonds zijn als bedoeld in [artikel 8, eerste lid, onderdelen a tot en met k, van het besluit](../../../../../../../../../AMvB/besluit/bekostiging/financieel/toezicht/BWBR0020411/README.md);  
 
@@ -287,8 +287,8 @@ W.J.Bos
 | > 7.500 tot en met 100.000  | € 0,14 per cliënt  |
 | > 100.000  | € 0,00 per cliënt  |
 | --- | --- | --- |
-| aanbieders van beleggingsobjecten als bedoeld in [artikel 8, eerste lid, onderdeel l, onder 2°, van het besluit](../../../../../../../../../AMvB/besluit/bekostiging/financieel/toezicht/BWBR0020411/README.md)  | € 0 tot en met € 5 mln.  | € 1.343,47 per € 500.000 of een gedeelte daarvan  |
-| > € 5 mln. tot en met € 100 mln.  | € 671,73 per € 500.000 of een gedeelte daarvan  |
+| aanbieders van beleggingsobjecten als bedoeld in [artikel 8, eerste lid, onderdeel l, onder 2°, van het besluit](../../../../../../../../../AMvB/besluit/bekostiging/financieel/toezicht/BWBR0020411/README.md)  | € 0 tot en met € 5 mln.  | € 495 per € 500.000 of een gedeelte daarvan  |
+| > € 5 mln. tot en met € 100 mln.  | € 241,50 per € 500.000 of een gedeelte daarvan  |
 | > € 100 mln.  | € 0  |
 | --- | --- | --- |
 | adviseurs en bemiddelaars als bedoeld in [artikel 8, eerste lid, onderdeel m, onder 1°, van het besluit](../../../../../../../../../AMvB/besluit/bekostiging/financieel/toezicht/BWBR0020411/README.md), die op 1 juli 2008 deelnemer zijn van de Stichting Financiële Dienstverlening of die nadien een vergunning hebben verkregen, waarvan de aanvraag via de Stichting Financiële Dienstverlening heeft plaatsgevonden  | 0 tot en met 1,0 fte  > 1 fte tot en met 21 fte  > 21 fte tot en met 201 fte  > 201 fte  | € 0  € 160,70 per fte  € 146,52 per fte  € 0  |

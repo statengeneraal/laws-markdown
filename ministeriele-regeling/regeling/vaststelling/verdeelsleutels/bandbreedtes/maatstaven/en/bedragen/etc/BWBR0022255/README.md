@@ -170,7 +170,7 @@ y. aanbieders van een financieel product, verdeeld in:
 
 1°. € 699 voor aanbieders van krediet;  
 
-2°. € 19.549 voor aanbieders van beleggingsobjecten;  
+2°. € 5.000 voor aanbieders van beleggingsobjecten;  
 
 3°. € 0 voor aanbieders van financiële producten die tevens financiële onderneming, uitgevende instelling of pensioenfonds zijn als bedoeld in [artikel 8, eerste lid, onderdelen a tot en met k van het besluit](../../../../../../../../../../AMvB/besluit/bekostiging/financieel/toezicht/BWBR0020411/README.md);    
 
@@ -218,7 +218,7 @@ n. aanbieders van een financieel product, verdeeld in:
 
 1°. € 636 voor aanbieders van krediet;  
 
-2°. € 18.248 voor aanbieders van beleggingsobjecten;    
+2°. € 5.000 voor aanbieders van beleggingsobjecten;    
 
 o. adviseurs en bemiddelaars verdeeld in: 
 
@@ -290,8 +290,8 @@ Voor AFM.
 | Aanbieders van krediet als bedoeld in [artikel 8, eerste lid, onderdeel l, onder 1°](../../../../../../../../../../AMvB/besluit/bekostiging/financieel/toezicht/BWBR0020411/README.md)  | 0 t/m 7.500  | € 1,26 per cliënt  | € 1,14 per cliënt  |
 | > 7.500 t/m 100.000  | € 0,05 per cliënt  | € 0,04 per cliënt  |
 | --- | > 100.000  | € 0,00 per cliënt  | € 0,00 per cliënt  |
-| Aanbieders van beleggingsobjecten als bedoeld in [artikel 8, eerste lid, onderdeel l, onder 2°](../../../../../../../../../../AMvB/besluit/bekostiging/financieel/toezicht/BWBR0020411/README.md)  | € 0 tot t/m € 5 mln.  | € 2.003,81 per € 450.000 of een gedeelte daarvan  | € 1.870,42 per € 450.000 of een gedeelte daarvan  |
-| > € 5 t/m € 100 mln.  | € 977,47 per € 450.000 of een gedeelte daarvan  | € 912,40 per € 450.000 of een gedeelte daarvan  |
+| Aanbieders van beleggingsobjecten als bedoeld in [artikel 8, eerste lid, onderdeel l, onder 2°](../../../../../../../../../../AMvB/besluit/bekostiging/financieel/toezicht/BWBR0020411/README.md)  | € 0 tot t/m € 5 mln.  | € 495 per € 450.000 of een gedeelte daarvan  | € 495 per € 450.000 of een gedeelte daarvan  |
+| > € 5 t/m € 100 mln.  | € 241,50 per € 450.000 of een gedeelte daarvan  | € 241,50 per € 450.000 of een gedeelte daarvan  |
 | --- | > € 100 mln.  | € 0  | € 0  |
 | Adviseurs en bemiddelaars in een financieel product daaronder begrepen herverzekeraarbemiddelaars, ondergevolmachtigde agenten en gevolmachtigde agenten die zijn aangesloten bij een stelsel van zelftoezicht  | 1,1 fte t/m 21,0 fte  | € 94,07 per fte  | € 91,32 per fte  |
 | 21,1 fte t/m 201,0 fte  | € 89,12 per fte  | € 86,52 per fte  |

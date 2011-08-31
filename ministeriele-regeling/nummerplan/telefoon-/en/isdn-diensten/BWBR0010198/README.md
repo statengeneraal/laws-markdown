@@ -467,7 +467,9 @@ J.M. deVries
 | --- | 14089  | --- | --- | --- |
 | --- | 1409  | --- | --- | --- |
 | --- | 1410 t/m 1419  | Contactcentra van de overige overheidsorganisaties  | 4  | Nee  |
-| --- | 1420 t/m 1450  | --- | --- | --- |
+| --- | 1420 t/m 1439  | --- | --- | --- |
+| 144  | --- | Nationaal meldnummer voor dieren in nood  | 3  | Nee  |
+| --- | 1440 t/m 1450  | --- | --- | --- |
 | 1451  | --- | Contactcentrum van de rijksoverheid  | 4  | Nee  |
 | --- | 1452 t/m 1499  | --- | --- | --- |
 | --- | 15  | --- | --- | --- |

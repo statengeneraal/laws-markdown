@@ -168,7 +168,7 @@ v. € 0 voor pensioenfondsen als bedoeld in [artikel 8, eerste lid, onderdeel
 
 w. € 1.000 voor aanbieders van krediet als bedoeld in [artikel 8, eerste lid, onderdeel l, onder 1°, van het besluit](../../../../../../../../../../AMvB/besluit/bekostiging/financieel/toezicht/BWBR0020411/README.md);  
 
-x. € 20.000 voor aanbieders van beleggingsobjecten;  
+x. € 5.000 voor aanbieders van beleggingsobjecten;  
 
 y. € 0 voor aanbieders van een financieel product als bedoeld in [artikel 8, eerste lid, onderdeel l, van het besluit](../../../../../../../../../../AMvB/besluit/bekostiging/financieel/toezicht/BWBR0020411/README.md), die tevens kredietinstelling zijn als bedoeld in artikel 8, eerste lid, onderdelen b, onder 1° en 3°, van het besluit;  
 
@@ -279,8 +279,8 @@ J.C. deJager
 | aanbieders van krediet als bedoeld in [artikel 8, eerste lid, onderdeel l, onder 1°, van het besluit](../../../../../../../../../../AMvB/besluit/bekostiging/financieel/toezicht/BWBR0020411/README.md)  | 0 tot en met 7.500  | € 4,25 per cliënt  |
 | > 7.500 tot en met 100.000  | € 0,20 per cliënt  |
 | > 100.000  | € 0,00  |
-| aanbieders van beleggingsobjecten als bedoeld in [artikel 8, eerste lid, onderdeel l, onder 2°, van het besluit](../../../../../../../../../../AMvB/besluit/bekostiging/financieel/toezicht/BWBR0020411/README.md)  | € 0 tot en met € 5 mln.  | € 2.500 per € 500.000 of een gedeelte daarvan  |
-| > € 5 mln. tot en met € 100 mln.  | € 1.200 per € 500.000 of een gedeelte daarvan  |
+| aanbieders van beleggingsobjecten als bedoeld in [artikel 8, eerste lid, onderdeel l, onder 2°, van het besluit](../../../../../../../../../../AMvB/besluit/bekostiging/financieel/toezicht/BWBR0020411/README.md)  | € 0 tot en met € 5 mln.  | € 1.040 per € 500.000 of een gedeelte daarvan  |
+| > € 5 mln. tot en met € 100 mln.  | € 505,50 per € 500.000 of een gedeelte daarvan  |
 | > € 100 mln.  | € 0,00  |
 | adviseurs en bemiddelaars als bedoeld in [artikel 8, eerste lid, onderdeel m, onder 1°, van het besluit](../../../../../../../../../../AMvB/besluit/bekostiging/financieel/toezicht/BWBR0020411/README.md), die op 1 juli 2010 deelnemer zijn van de Stichting Financiële Dienstverlening, of adviseurs en bemiddelaars waarvan de vergunning in 2010 vóór 1 juli is komen te vervallen maar tot dat tijdstip nog deelnemer waren van de Stichting Financiële Dienstverlening of adviseurs en bemiddelaars waaraan ná 1 juli 2010 een vergunning is verleend en waarbij de aanvraag via de Stichting Financiële Dienstverlening heeft plaatsgevonden  | 0 tot en met 1,0 fte  | € 0,00  |
 | > 1 fte tot en met 21 fte  | € 210,00 per fte  |
