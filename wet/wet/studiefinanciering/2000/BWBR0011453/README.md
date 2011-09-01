@@ -168,7 +168,7 @@ Een deelnemer aan een opleiding niveau 3 of 4 die na 31 juli 2005 voor het eerst
 
 a. indien hij na het verstrijken van zijn aanspraak op de prestatiebeurs, bedoeld in artikel 4.7, gedurende 36 maanden een lening heeft genoten, of  
 
-b. indien er 10 jaren verstreken zijn met ingang van de maand waarover voor het eerst studiefinanciering in de zin van de paragrafen 4.1.2 of 4.2.3 is toegekend voor het volgen van beroepsonderwijs.  
+b. indien er 10 jaren verstreken zijn met ingang van de maand waarover voor het eerst studiefinanciering in de zin van de paragrafen 4.1.2 of 4.2.3 is toegekend voor het volgen van beroepsonderwijs of op grond van de [Wet studiefinanciering BES](../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md) is toegekend voor het volgen van beroepsonderwijs aan een opleiding niveau 3 of 4.  
 
 c. In afwijking van onderdeel b wordt, indien artikel 4.14, eerste lid, toepassing vindt, de termijn van 10 jaren, genoemd in onderdeel b, verlengd met de duur van de in dat artikel bedoelde bijzondere omstandigheden.  
 
@@ -212,7 +212,7 @@ Voor studiefinanciering kan een student in aanmerking komen die is ingeschreven 
 
 a. indien hij na het verstrijken van zijn aanspraak op de prestatiebeurs in het hoger onderwijs gedurende 36 maanden een lening heeft genoten,  
 
-b. indien er 10 jaren verstreken zijn met ingang van de maand waarover voor het eerst studiefinanciering is toegekend voor het volgen van hoger onderwijs,  
+b. indien er 10 jaren verstreken zijn met ingang van de maand waarover voor het eerst studiefinanciering is toegekend voor het volgen van hoger onderwijs, op grond van deze wet of op grond van de [Wet studiefinanciering BES](../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md),  
 
 c. indien hij is ingeschreven aan een opleiding waarvan de duur, daaronder begrepen ten hoogste 12 vakantieweken, korter is dan 1 jaar, of  
 
@@ -470,8 +470,8 @@ Het verschil tussen het maximale bedrag van de aanvullende beurs en de voor een 
 ####Collegegeldkrediet
 
 1.  Het collegegeldkrediet is een lening die aan de student op aanvraag wordt toegekend.   
-2.  Het bedrag dat per maand kan worden geleend bedraagt ten hoogste eentwaalfde deel van het volledige wettelijk collegegeld. Indien het door de student voor een periode van twaalf maanden te betalen bedrag voor het volgen van hoger onderwijs hoger is dan het volledige wettelijk collegegeld, bedraagt het bedrag dat per maand kan worden geleend, in afwijking van de eerste volzin, ten hoogste eentwaalfde deel van het door de student voor een periode van twaalf maanden te betalen bedrag voor het volgen van hoger onderwijs.   
-3.  Het collegegeldkrediet bedraagt per maand maximaal vijftwaalfde deel van het volledige wettelijk collegegeld.   
+2.  Het bedrag dat per maand kan worden geleend bedraagt ten hoogste eentwaalfde deel van het volledige wettelijke collegegeld volgens het basistarief, bedoeld in [artikel 7.45, eerste lid](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). Indien het door de student voor een periode van twaalf maanden te betalen bedrag voor het volgen van hoger onderwijs hoger is dan het volledige wettelijke collegegeld volgens het basistarief, bedoeld in artikel 7.45, eerste lid, bedraagt het bedrag dat per maand kan worden geleend, in afwijking van de eerste volzin, ten hoogste eentwaalfde deel van het door de student voor een periode van twaalf maanden te betalen bedrag voor het volgen van hoger onderwijs.   
+3.  Het collegegeldkrediet bedraagt per maand maximaal vijftwaalfde deel van het volledige wettelijke collegegeld volgens het basistarief, bedoeld in [artikel 7.45, eerste lid](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
 
 ### Artikel  3.17  
 
@@ -1060,6 +1060,12 @@ Onze Minister stelt jaarlijks uiterlijk in december een rentepercentage vast dat
 2.  De terugbetalingsperiode bestaat uit een aanloopfase en een aflosfase.   
 3.  Indien de debiteur gedurende de voor hem geldende diplomatermijn beroepsonderwijs dan wel diplomatermijn hoger onderwijs opnieuw studiefinanciering geniet, of op aanvraag van de debiteur indien hij binnen bovengenoemde termijn opnieuw studerende wordt zonder hiervoor studiefinanciering te genieten, wordt de terugbetalingsperiode geschorst. Voor debiteuren die niet op grond van onderscheidenlijk artikel 4.9 en artikel 5.5 onder een diplomatermijn vallen geldt, in afwijking van de eerste volzin, dat de terugbetaling wordt geschorst zolang de debiteur opnieuw studiefinanciering geniet, of op aanvraag van de debiteur indien hij binnen bovengenoemde termijn opnieuw studerende wordt zonder hiervoor studiefinanciering te genieten.   
 4.  De schorsing, bedoeld in het derde lid, wordt beëindigd indien de debiteur niet binnen 8 weken na de verzending van een daartoe strekkend verzoek van Onze Minister of de debiteur nog studerende is, daarop heeft geantwoord. De beëindiging werkt terug tot de datum van verzending van het verzoek, of zoveel eerder als de debiteur ophield studerende te zijn. Een aanvraag om de terugbetaling wederom te schorsen wordt niet toegestaan voor een periode die gelegen is vóór de datum van indiening van de aanvraag. De schorsing wordt tevens beëindigd aan het einde van de diplomatermijn beroepsonderwijs dan wel de diplomatermijn hoger onderwijs.   
+
+### Artikel  6.5a  
+
+####Samenloop van terugbetaling
+
+Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de samenloop van de verplichting tot terugbetaling uit hoofde van deze wet en de [Wet studiefinanciering BES](../../../../../wet-BES/wet/studiefinanciering/bes/BWBR0028393/README.md) met dien verstande dat de verplichting tot terugbetaling de laagst vastgestelde draagkracht van de debiteur niet mag overschrijden.  
 
 ### Artikel  6.6  
 
@@ -1666,6 +1672,22 @@ e. artikel 3.4, vierde lid.
 ####Afwijking van artikel 1.5
 
 Voor deelnemers die voor 1 augustus onderscheidenlijk voor studenten die voor 1 september volgend op het tijdstip van inwerkingtreding van [artikel XII van de wet van 13 december 2000 tot wijziging van enige wetten teneinde de aanspraak jegens bestuursorganen op verstrekkingen, voorzieningen en uitkeringen afhankelijk te maken van het in de gemeentelijke basisadministratie persoonsgegevens opgenomen gegeven omtrent het adres van een ingezetene, Stb. 2001, 67](../../../../../wet/wijzigingswet/algemene/bijstandswet/enz./(verstrekkingen/voorzieningen/en/etc/BWBR0011964/README.md), studiefinanciering op grond van de [Wet op de studiefinanciering](../../../../../wet/wet/op/de/studiefinanciering/BWBR0003955/README.md) of van deze wet ontvingen, geldt in afwijking van artikel 1.5 dat waar de studerende woont naar de omstandigheden wordt beoordeeld.  
+
+### Artikel  12.1a0  
+
+####Afwijking van artikel 2.1 
+
+1.  In afwijking van artikel 2.1 regelt dit artikel het langstudeerderskrediet.   
+2.  Het langstudeerderskrediet is een lening die op aanvraag kan worden toegekend voor het studiejaar 2011–2012, 2012–2013 of 2013–2014. Het langstudeerderskrediet kan worden toegekend aan een iemand die: 
+
+a. voor 1 september 2011 aanspraak op studiefinanciering had;  
+
+b. op het moment van aanvraag geen aanspraak op studiefinanciering heeft; en  
+
+c. het verhoogde wettelijke collegegeld verschuldigd is op grond van [artikel 7.45b van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).     
+3.  Het langstudeerderskrediet voor het desbetreffende studiejaar wordt in een keer uitgekeerd en bedraagt maximaal de hoogte van de opslag, bedoeld in [artikel 7.45, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+4.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de aanvraag, toekenning, betaling en andere uitvoeringsaspecten van het langstudeerderskrediet.   
+5.  Hoofdstuk 6 en 10a en de artikelen 7.1 en 7.3 zijn van overeenkomstige toepassing.   
 
 ### Artikel  12.1aa  
 

@@ -33,11 +33,13 @@ a. een openbare school:
 
 4°. de stichting, bedoeld in artikel 42b of artikel 53c;    
 
-b. een bijzondere school: de rechtspersoon, bedoeld in artikel 49, eerste lid.   «regionaal opleidingencentrum»: een regionaal opleidingencentrum als bedoeld in [artikel 1.3.1 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); «agrarisch opleidingscentrum»: een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); «persoonsgebonden nummer»: het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md), dan wel het door Onze Minister uitgegeven onderwijsnummer, bedoeld in artikel 27b, vierde lid; sociaal-fiscaalnummer: het sociaal-fiscaalnummer, bedoeld in [artikel 2, derde lid, onder k, van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md); «contractactiviteiten»: activiteiten als bedoeld in artikel 20, tweede lid; «personeel»: 
+b. een bijzondere school: de rechtspersoon, bedoeld in artikel 49, eerste lid;  
+
+c. een samenwerkingsschool als bedoeld in artikel 53d: het bestuur van de samenwerkingsschool, bedoeld in dat artikel;   «regionaal opleidingencentrum»: een regionaal opleidingencentrum als bedoeld in [artikel 1.3.1 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); «agrarisch opleidingscentrum»: een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); «persoonsgebonden nummer»: het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md), dan wel het door Onze Minister uitgegeven onderwijsnummer, bedoeld in artikel 27b, vierde lid; sociaal-fiscaalnummer: het sociaal-fiscaalnummer, bedoeld in [artikel 2, derde lid, onder k, van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md); «contractactiviteiten»: activiteiten als bedoeld in artikel 20, tweede lid; «personeel»: 
 
 a. de benoemde rector, directeur, conrector, adjunct-directeur of leraar, en overig personeel benoemd in een andere functie dan het geven van onderwijs, waaronder begrepen de leden van het bestuur van die scholen die zijn benoemd door een raad van toezicht als bedoeld in artikel 24e1, derde lid, voor zover die leden mede zijn benoemd op basis van een arbeidsovereenkomst of een akte van aanstelling;  
 
-b. het onder a bedoelde personeel dat zonder benoeming is tewerkgesteld, tenzij het betreft de toepassing van de artikelen 38a tot en met 39a, 40a, 43a, eerste en tweede lid, 51, eerste tot en met derde lid, 52, 52a, 53, 53b en 96o, voor zover niet anders is bepaald, en de toepassing van daarmee verband houdende wettelijke bepalingen;   «nascholing»: een vorm van scholing, gegeven aan leden van het personeel om hun kennis, inzicht, vaardigheden en beroepshoudingen direct verband houdend met de uitoefening van hun beroep, voortbouwend op de in de initiële opleiding verworven aanvangsbekwaamheid te verdiepen en uit te breiden; «leerlinggebonden budget»: een leerlinggebonden budget voor een leerling als bedoeld in artikel 77a; «kerndoelen»: de op grond van artikel 11b vastgestelde na te streven inhoudelijke doelstellingen voor het onderwijsprogramma voor de eerste twee leerjaren, bedoeld in artikel 11c, gericht op het verwerven door leerlingen van kennis, inzicht en vaardigheden; meldingsregister relatief verzuim: meldingsregister relatief verzuim als bedoeld in [artikel 24h van de Wet op het onderwijstoezicht](../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md); «College voor examens»: College voor examens als bedoeld in [artikel 2, eerste lid, van de Wet College voor examens](../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md).  
+b. het onder a bedoelde personeel dat zonder benoeming is tewerkgesteld, tenzij het betreft de toepassing van de artikelen 38a tot en met 39a, 40a, 43a, eerste en tweede lid, 51, eerste tot en met derde lid, 52, 52a, 53, 53b en 96o, voor zover niet anders is bepaald, en de toepassing van daarmee verband houdende wettelijke bepalingen;   «nascholing»: een vorm van scholing, gegeven aan leden van het personeel om hun kennis, inzicht, vaardigheden en beroepshoudingen direct verband houdend met de uitoefening van hun beroep, voortbouwend op de in de initiële opleiding verworven aanvangsbekwaamheid te verdiepen en uit te breiden; «leerlinggebonden budget»: een leerlinggebonden budget voor een leerling als bedoeld in artikel 77a; «kerndoelen»: de op grond van artikel 11b vastgestelde na te streven inhoudelijke doelstellingen voor het onderwijsprogramma voor de eerste twee leerjaren, bedoeld in artikel 11c, gericht op het verwerven door leerlingen van kennis, inzicht en vaardigheden; maatschappelijke stage: stage gericht op het verwerven van vaardigheden ten behoeve van het functioneren in de maatschappij, bestaande uit onbezoldigde vrijwilligersactiviteiten, niet zijnde de stage bedoeld in artikel 22, derde lid, onderdeel d; meldingsregister relatief verzuim: meldingsregister relatief verzuim als bedoeld in [artikel 24h van de Wet op het onderwijstoezicht](../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md); «College voor examens»: College voor examens als bedoeld in [artikel 2, eerste lid, van de Wet College voor examens](../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md).  
 
 ### Artikel  2  
 
@@ -137,6 +139,12 @@ Onderwijs in lichamelijke opvoeding, bestaande uit praktische bewegingsactivitei
 
 1.  Het bevoegd gezag stelt elk leerjaar om niet aan een leerling lesmateriaal ter beschikking.   
 2.  Onder lesmateriaal wordt verstaan: lesmateriaal dat naar vorm en inhoud is gericht op informatieoverdracht in onderwijsleersituaties en waarvan het gebruik binnen het onderwijsaanbod door het bevoegd gezag specifiek voor het desbetreffende leerjaar is voorgeschreven.   
+
+### Artikel  6f  
+
+####Maatschappelijke stage
+
+Een onderwijsprogramma in het voortgezet onderwijs omvat mede een maatschappelijke stage.  
 
 ### Artikel  7  
 
@@ -284,9 +292,11 @@ c. voorschriften over de mogelijkheid van vrijstelling en de bevoegdheid van het
 1.  Het bevoegd gezag kan de basisberoepsgerichte leerweg mede inrichten als leer-werktraject. Een leer-werktraject is een leerroute binnen de basisberoepsgerichte leerweg met een buitenschools praktijkgedeelte dat ten minste 640 klokuren, verzorgd in 80 dagen, en ten hoogste 1280 klokuren, verzorgd in 160 dagen, omvat van de gezamenlijke onderwijstijd van het derde en vierde leerjaar en welk traject specifiek is gericht op het behalen van een startkwalificatie op het niveau van de basisberoepsopleiding, bedoeld in [artikel 7.2.2, eerste lid, onder b, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md). Elke schoolweek in het derde en vierde leerjaar omvat ten minste binnenschools onderricht.   
 2.  Een leer-werktraject omvat in elk geval: 
 
-a. Nederlandse taal, en  
+a. Nederlandse taal,  
 
-b. een beroepsgericht programma.     
+b. een maatschappelijke stage, en  
+
+c. een beroepsgericht programma.     
 3.  Het bevoegd gezag kan, na overleg met de leerling of diens wettelijk vertegenwoordiger, beslissen dat het leer-werktraject voor die leerling eveneens een of meer andere vakken van de basisberoepsgerichte leerweg omvat.   
 
 ### Artikel  10b2  
@@ -540,7 +550,7 @@ b. het volgen van het onderwijs in een van de leerwegen, genoemd in de artikelen
 3.  Praktijkonderwijs bestaat uit een gedeelte waarin aangepast theoretisch onderwijs, persoonlijkheidsvorming en het aanleren van sociale vaardigheden worden verzorgd, en een gedeelte waarin de leerling wordt voorbereid op het uitoefenen van functies op de arbeidsmarkt. Praktijkonderwijs wordt zo veel mogelijk op basis van de kerndoelen verzorgd en is er op gericht dat leerlingen zo veel mogelijk het referentieniveau Nederlandse taal en het referentieniveau rekenen bereiken die voor het praktijkonderwijs zijn vastgesteld op grond van [artikel 2, tweede lid, aanhef en onderdeel c, van de Wet referentieniveaus Nederlandse taal en rekenen](../../../../../../../wet/wet/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027679/README.md). Praktijkonderwijs bereidt de leerling voor op functies binnen de regionale arbeidsmarkt op een niveau dat ligt onder het niveau van de assistentopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md)   
 3a.  In afwijking van artikel 11c, eerste lid, onder b, wordt het praktijkonderwijs zodanig ingericht dat de leerlingen per schooljaar ten minste 1000 klokuren praktijkonderwijs ontvangen. De leerlingen ontvangen per dag ten hoogste 5,5 uren praktijkonderwijs, voor zover het betreft aangepast theoretisch onderwijs, persoonlijkheidsvorming en het aanleren van sociale vaardigheden.    
 4.  Het bevoegd gezag van een school voor praktijkonderwijs kan, met inachtneming van de tweede volzin van het derde lid en van lid 3a, indien dat ten behoeve van de leerling noodzakelijk is, bij het aanbieden van dat onderwijs afwijken van de voorschriften, gegeven bij of krachtens de artikelen 11a tot en met 11c, 22 en 29.   
-5.  Bij algemene maatregel van bestuur worden voorschriften vastgesteld met betrekking tot de vakken die het praktijkonderwijs omvat, alsmede met betrekking tot het aantal uren dat het onderricht in de praktijk van de uitoefening van een vak of beroep gedurende een schoolweek ten hoogste omvat.   
+5.  Bij algemene maatregel van bestuur worden voorschriften vastgesteld met betrekking tot de vakken en de maatschappelijke stage, bedoeld in artikel 6f, die het praktijkonderwijs omvat, alsmede met betrekking tot het aantal uren dat het onderricht in de praktijk van de uitoefening van een vak of beroep gedurende een schoolweek ten hoogste omvat. De algemene maatregel van bestuur, bedoeld in de eerste volzin, bevat tevens voorschriften omtrent het in uren uitgedrukte tijdsbestek dat door de leerling moet worden besteed aan de maatschappelijke stage, bedoeld in de eerste volzin.   
 6.  De in het vijfde lid bedoelde algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken en gedurende die termijn niet door of namens een van beide kamers de wens wordt te kennen gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.   
 
 ### Artikel  10g  
@@ -948,7 +958,15 @@ c. in voorkomend geval welk onderwijs de school verzorgt met toepassing van arti
 
 1.  Bij of krachtens algemene maatregel van bestuur worden voor de scholen voor voorbereidend wetenschappelijk onderwijs, algemeen voortgezet onderwijs en voorbereidend beroepsonderwijs voorschriften vastgesteld omtrent de inrichting van het onderwijs. Deze voorschriften kunnen per schoolsoort verschillen. Voor de scholen, bedoeld in de artikelen 7, 8, 9 en 10a, kunnen afzonderlijke voorschriften worden gegeven. De bij deze algemene maatregel van bestuur gegeven voorschriften zijn niet van toepassing op scholen en afdelingen voor voorbereidend beroepsonderwijs waarvoor artikel 24, vijfde lid, wordt toegepast. De algemene maatregel van bestuur, bedoeld in de eerste volzin, wordt aan de beide Kamers der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken en niet door of namens een van beide Kamers de wens wordt te kennen gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.   
 2.  De algemene maatregel van bestuur, bedoeld in het eerste lid, houdt voor alle schoolsoorten voorschriften in omtrent de tijd die per cursusjaar ten hoogste voor vakantie mag worden besteed, met dien verstande dat begin en einde van de zomervakantie kunnen worden voorgeschreven.   
-3.  De algemene maatregel van bestuur, bedoeld in het eerste lid, kan, naast het bepaalde in het tweede lid, slechts voorschriften inhouden omtrent voor het voorbereidend wetenschappelijk onderwijs en het hoger algemeen voortgezet onderwijs, het in uren uitgedrukte aantal lessen dat gedurende de cursus in lichamelijke opvoeding ten minste moet worden verzorgd, en   
+3.  De algemene maatregel van bestuur, bedoeld in het eerste lid kan, naast het bepaalde in het tweede lid, slechts voorschriften inhouden omtrent: 
+
+a. de maatschappelijke stage, bedoeld in artikel 6f, waaronder het in uren uitgedrukte tijdsbestek dat door de leerling daaraan moet worden besteed,  
+
+b. de mogelijkheid van vrijstelling met betrekking tot categorieën van leerlingen van het volgen van een maatschappelijke stage als bedoeld in artikel 6f en de bevoegdheid van het bevoegd gezag om in individuele gevallen ontheffing te verlenen van het volgen van die stage,  
+
+c. de buitenschoolse praktijkcomponent van een leer-werktraject als bedoeld in artikel 10b1, en  
+
+d. de stage in de leerwegen genoemd in de artikelen 10b en 10d.     
 
 ### Artikel  23a  
 
@@ -986,7 +1004,7 @@ Indien de inspectie op basis van een onderzoek als bedoeld in [artikel 11](../..
 
 ####Schoolplan
 
-1.  Het schoolplan bevat een beschrijving van het beleid met betrekking tot de kwaliteit van het onderwijs dat binnen de school wordt gevoerd, en omvat in elk geval het onderwijskundig beleid, het personeelsbeleid en het beleid met betrekking tot de bewaking en verbetering van de kwaliteit van het onderwijs. Het schoolplan omvat mede het beleid ten aanzien van de aanvaarding van materiële bijdragen of geldelijke bijdragen, niet zijnde ouderbijdragen of op de onderwijswetgeving gebaseerde bijdragen, indien het bevoegd gezag daarbij verplichtingen op zich neemt waarmee de leerlingen binnen de schooltijden en tijdens de activiteiten die worden georganiseerd onder verantwoordelijkheid van het bevoegd gezag, alsmede tijdens het overblijven, zullen worden geconfronteerd. Het schoolplan kan op een of meer scholen voor voortgezet onderwijs en een of meer scholen voor ander onderwijs van hetzelfde bevoegd gezag betrekking hebben.   
+1.  Het schoolplan bevat een beschrijving van het beleid met betrekking tot de kwaliteit van het onderwijs dat binnen de school wordt gevoerd, en omvat in elk geval het onderwijskundig beleid, het personeelsbeleid en het beleid met betrekking tot de bewaking en verbetering van de kwaliteit van het onderwijs. Het schoolplan omvat mede het beleid ten aanzien van de aanvaarding van materiële bijdragen of geldelijke bijdragen, niet zijnde ouderbijdragen of op de onderwijswetgeving gebaseerde bijdragen, indien het bevoegd gezag daarbij verplichtingen op zich neemt waarmee de leerlingen binnen de schooltijden en tijdens de activiteiten die worden georganiseerd onder verantwoordelijkheid van het bevoegd gezag, alsmede tijdens het overblijven, zullen worden geconfronteerd. In het schoolplan wordt aangegeven op welke wijze invulling wordt gegeven aan het openbare karakter onderscheidenlijk de identiteit voor zover het betreft een samenwerkingsschool. Het schoolplan kan op een of meer scholen voor voortgezet onderwijs en een of meer scholen voor ander onderwijs van hetzelfde bevoegd gezag betrekking hebben.   
 2.  Het onderwijskundig beleid omvat in elk geval de uitwerking van de wettelijke opdrachten voor het onderwijs en van de door het bevoegd gezag in het schoolplan opgenomen eigen opdrachten voor het onderwijs in een onderwijsprogramma. Daarbij worden tevens betrokken de voorzieningen die zijn getroffen voor leerlingen met specifieke onderwijsbehoeften en voor leerlingen voor wie een leerlinggebonden budget beschikbaar is.   
 3.  Het personeelsbeleid, voor zover dat in het schoolplan tot uitdrukking wordt gebracht, omvat in elk geval maatregelen met betrekking tot het personeel die bijdragen aan de ontwikkeling en de uitvoering van het onderwijskundig beleid alsmede het document inzake evenredige vertegenwoordiging van vrouwen in de schoolleiding, bedoeld in artikel 32d van de wet.   
 4.  Het beleid met betrekking tot de bewaking en verbetering van de kwaliteit van het onderwijs omvat in elk geval: 
@@ -1012,15 +1030,17 @@ a. de doelen van het onderwijs en de resultaten die met het onderwijsleerproces 
 
 b. de wijze waarop aan de zorg voor leerlingen met specifieke onderwijsbehoeften en voor leerlingen voor wie een leerlinggebonden budget beschikbaar is, wordt vormgegeven  
 
-c. de wijze waarop de verplichte onderwijstijd wordt benut, de inrichting van het onderwijsprogramma voor de eerste twee leerjaren waarbij wordt aangegeven of sprake is van vakoverstijgende programmaonderdelen en de inzet van het personeel daarbij,  
+c. de wijze waarop de verplichte onderwijstijd wordt benut, de inrichting van het onderwijsprogramma voor de eerste twee leerjaren waarbij wordt aangegeven of sprake is van vakoverstijgende programmaonderdelen en de inzet van het personeel daarbij alsmede de invulling van de maatschappelijke stage, bedoeld in artikel 6f,  
 
 d. de geldelijke bijdrage, bedoeld in artikel 27, tweede lid, waarbij een ontwerp van een overeenkomst voor een dergelijke bijdrage, die voldoet aan de eisen die in artikel 27, tweede lid, zijn geformuleerd, in de schoolgids wordt opgenomen,  
 
 e. de rechten en plichten van de ouders, de voogden, de verzorgers, de leerlingen en het bevoegd gezag, waaronder de informatie over de klachtenregeling, bedoeld in artikel 24b, waarbij wat betreft de leerlingen kan worden volstaan met vermelding van de rechten en plichten opgenomen in het leerlingenstatuut, bedoeld in artikel 24g,  
 
-f. de wijze waarop het bevoegd gezag omgaat met de in artikel 24, eerste lid, omschreven bijdragen, en  
+f. de wijze waarop het bevoegd gezag omgaat met de in artikel 24, eerste lid, omschreven bijdragen,  
 
-g. het beleid met betrekking tot de veiligheid.     
+g. het beleid met betrekking tot de veiligheid, en  
+
+h. de wijze waarop invulling wordt gegeven aan het openbare karakter onderscheidenlijk de identiteit voor zover het betreft een samenwerkingsschool.     
 2.  Bij algemene maatregel van bestuur kunnen voorschriften worden gegeven met betrekking tot de wijze waarop 
 
 a. de resultaten worden beschreven die met het onderwijs worden bereikt, en  
@@ -1885,19 +1905,52 @@ b. de wijze van benoeming, herbenoeming, schorsing en ontslag van de bestuursled
 
 c. de termijn waarvoor de bestuursleden worden benoemd,  
 
-d. de vaststelling van de begroting en jaarrekening na overleg met de gemeenteraad van de gemeente waarin de openbare school is gelegen,  
+d. de vaststelling van de begroting en jaarrekening na overleg met de gemeenteraad van de gemeente waarin de school waar openbaar onderwijs wordt gegeven, gevestigd is,  
 
-e. de wijze waarop de gemeenteraad van de gemeente waarin de openbare school is gelegen, toezicht op het bestuur van de openbare school uitoefent,  
+e. de wijze waarop de gemeenteraad van de gemeente waarin de school waar openbaar onderwijs wordt gegeven, gevestigd is, toezicht op het bestuur van die school uitoefent,  
 
 f. de gronden waarop het bestuur kan besluiten de vergaderingen besloten te houden,  
 
 g. de periode waarvoor de stichting in het leven wordt geroepen, met dien verstande dat deze periode ten minste 5 jaren bedraagt, en  
 
 h. de bevoegdheid de stichting te ontbinden, met dien verstande dat in de regeling een overheersende invloed van de overheid in het bestuur is verzekerd voor zover het openbaar onderwijs betreft.     
-6.  De statuten van de stichting kunnen slechts worden gewijzigd na goedkeuring van de gemeenteraad van de gemeente waarin de openbare school is gelegen. Goedkeuring kan slechts worden onthouden indien overheersende invloed van de overheid in het bestuur niet is verzekerd voor zover het openbaar onderwijs betreft.   
-7.  Het bestuur brengt jaarlijks aan de gemeenteraad van de gemeente waarin de openbare school is gelegen, verslag uit over de werkzaamheden, waarbij in ieder geval aandacht wordt geschonken aan de wezenskenmerken van het openbaar onderwijs. Het verslag wordt bekendgemaakt.   
+6.  De statuten van de stichting kunnen slechts worden gewijzigd na instemming van de gemeenteraad van de gemeente waarin de school waar openbaar onderwijs wordt gegeven, gevestigd is. Instemming kan slechts worden onthouden indien overheersende invloed van de overheid in het bestuur niet is verzekerd voor zover het openbaar onderwijs betreft.   
+7.  Het bestuur brengt jaarlijks aan de gemeenteraad van de gemeente waarin de school waar openbaar onderwijs wordt gegeven, gevestigd is, verslag uit over de werkzaamheden, waarbij in ieder geval aandacht wordt geschonken aan de wezenskenmerken van het openbaar onderwijs. Het verslag wordt bekendgemaakt.   
 8.  De vergaderingen van het bestuur van de stichting zijn openbaar, tenzij het bestuur anders beslist, op gronden, vermeld in de statuten.   
 9.  In geval van ernstige taakverwaarlozing door het bestuur of functioneren in strijd met de wet, voor zover het openbaar onderwijs betreft, neemt de gemeenteraad van de gemeente waarin de openbare school is gelegen, de maatregelen die hij nodig acht om de continuïteit van het onderwijsproces te waarborgen voor zover het openbaar onderwijs betreft.   
+
+### Artikel  53d  
+
+####Samenwerkingsschool
+
+1.  Een rechtspersoon die een openbare school in stand houdt, en een rechtspersoon die een bijzondere school in stand houdt, kunnen de instandhouding van hun school overdragen aan een stichting waarvan het statutaire doel in ieder geval is het in stand houden van een samenwerkingsschool, onverminderd de artikelen 42a, derde lid, 42b, vijfde lid, en 53c, derde lid. Een samenwerkingsschool is een school waarin zowel openbaar onderwijs als bijzonder onderwijs wordt aangeboden. De artikelen 42c en 50 zijn van overeenkomstige toepassing.   
+2.  Een samenwerkingsschool kan uitsluitend tot stand komen indien daardoor de continuïteit van het openbaar of het bijzonder onderwijs gehandhaafd kan blijven en met totstandkoming van een samenwerkingsschool wordt voorkomen dat een of meer daarbij betrokken scholen door toepassing van artikel 107 wordt opgeheven of niet meer voor bekostiging in aanmerking komt. Het bevoegd gezag van de betreffende school toont dat aan op basis van een prognose van de ontwikkeling van het aantal leerlingen waaruit blijkt dat die school binnen een termijn van zes jaar dreigt te worden opgeheven of niet meer te worden bekostigd.   
+3.  Een samenwerkingsschool is toegankelijk voor alle leerlingen zonder onderscheid naar godsdienst of levensovertuiging.   
+4.  Het personeel dat werkzaam is aan de samenwerkingsschool, en niet is tewerkgesteld zonder benoeming, wordt benoemd krachtens arbeidsovereenkomst naar burgerlijk recht.   
+5.  De rechtspersoon die de instandhouding van de bijzondere school heeft overgedragen, of zijn rechtsopvolger, dan wel een daartoe aangewezen rechtspersoon houdt toezicht op de identiteit, voor zover het betreft het bijzonder onderwijs in de samenwerkingsschool, overeenkomstig hetgeen is bepaald in de statuten van de stichting die de samenwerkingsschool in stand houdt.   
+6.  De statuten voorzien in ieder geval in een regeling omtrent: 
+
+a. het doel van de stichting, waarin in elk geval is opgenomen het geven van openbaar onderwijs en bijzonder onderwijs binnen een samenwerkingsschool,  
+
+b. de samenstelling, werkwijze en inrichting van het bestuur van de stichting, met dien verstande dat in de statuten wordt voorzien in een evenwichtige zeggenschapsverdeling wat betreft openbaar onderwijs onderscheidenlijk bijzonder onderwijs dat wordt gegeven binnen de samenwerkingsschool,  
+
+c. de wijze van benoeming, herbenoeming, schorsing en ontslag van de bestuursleden, met dien verstande dat: 
+
+1° het bestuur van de stichting die de samenwerkingsschool in stand houdt, wordt benoemd door de gemeenteraad van de gemeente waar de samenwerkingsschool gevestigd is, en de rechtspersoon, bedoeld in het vijfde lid, en  
+
+2° dat het bestuur van de stichting die de samenwerkingsschool in stand houdt, niet bestaat uit personen die deel uitmaken van het gemeentebestuur van de gemeente en de rechtspersoon, bedoeld in het vijfde lid,    
+
+d. de wijze waarop door de gemeenteraad van de gemeente waar de samenwerkingsschool gevestigd is, en de rechtspersoon, bedoeld in het vijfde lid, toezicht op het bestuur van de samenwerkingsschool wordt uitgeoefend, waaronder voor wat betreft het openbaar onderwijs in ieder geval wordt begrepen een jaarlijks door het bestuur van de stichting aan de gemeenteraad van de gemeente waar de samenwerkingsschool gevestigd is, uit te brengen verslag waarbij in ieder geval aandacht wordt geschonken aan het beleid ten aanzien van het openbaar onderwijs in de samenwerkingsschool,  
+
+e. de termijn waarvoor de bestuursleden worden benoemd,  
+
+f. de periode waarvoor de stichting in het leven wordt geroepen, met dien verstande dat deze periode ten minste 5 jaren bedraagt, en  
+
+g. de bevoegdheid de stichting te ontbinden.     
+7.  Overdracht, opheffing of samenvoeging van de samenwerkingsschool en wijziging van de statuten van de stichting die de samenwerkingsschool in stand houdt, is slechts mogelijk na instemming van de gemeenteraad van de gemeente waar de samenwerkingsschool gevestigd is, en de rechtspersoon, bedoeld in het vijfde lid.   
+8.  De voorschriften van deze wet en van andere wetten die het voortgezet onderwijs betreffen, alsmede de daarop gebaseerde regelingen, voor zover die voorschriften en regelingen betrekking hebben op een bijzondere school, zijn van overeenkomstige toepassing op een samenwerkingsschool als bedoeld in het eerste lid, tenzij het tegendeel blijkt. De Algemene wet bestuursrecht is niet van toepassing voor zover het beslissingen betreft van de rechtspersoon die de samenwerkingsschool in stand houdt.   
+9.  In geval van ernstige taakverwaarlozing door het bestuur of functioneren in strijd met de wet, voor zover het openbaar onderwijs betreft, neemt de gemeenteraad van de gemeente waar de samenwerkingsschool gevestigd is, de maatregelen die hij nodig acht om de continuïteit van het onderwijsproces te waarborgen voor zover het openbaar onderwijs betreft. De bedoelde maatregelen kunnen tevens worden getroffen door de rechtspersoon, bedoeld in het vijfde lid, voor zover het bijzonder onderwijs betreft. De feitelijke samenwerking wordt beëindigd op 1 augustus van het jaar na een daartoe door de gemeenteraad van de gemeente waar de samenwerkingsschool gevestigd is, en de rechtspersoon, bedoeld in het vijfde lid, gezamenlijk genomen besluit.   
+10.  Een geschil tussen een bestuursorgaan van de gemeente en de rechtspersoon, bedoeld in het vijfde lid, omtrent het toezicht op de samenwerkingsschool en omtrent de uitlegging van de statuten van de stichting die de samenwerkingsschool in stand houdt, wordt voorgelegd aan een geschillencommissie, bestaande uit een of meer door de gemeenteraad van de gemeente waar de samenwerkingsschool gevestigd is, en de rechtspersoon in onderling overleg aangewezen deskundigen.   
 
 ### Afdeling  II  
 
@@ -2065,7 +2118,7 @@ b. een scholengemeenschap die is ontstaan door samenvoeging van een scholengemee
 3.  Het tweede lid, aanhef en onderdeel b, is van overeenkomstige toepassing op een scholengemeenschap als bedoeld in [artikel 2.6 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) waarvan een agrarisch opleidingscentrum deel uitmaakt, die wordt samengevoegd met een school voor middelbaar algemeen voorgezet onderwijs, een school voor voorbereidend beroepsonderwijs waarin slechts onderwijs wordt verzorgd als bedoeld in artikel 10c, onderdeel d, of een school voor praktijkonderwijs.   
 4.  Na een samenvoeging wordt op een vestiging onderwijs verzorgd in dezelfde schoolsoorten als bedoeld in artikel 5, in dezelfde afdelingen als bedoeld in artikel 10c, en in dezelfde leerjaren als op de desbetreffende vestiging voor de samenvoeging, behoudens wijzigingen in het onderwijsaanbod op grond van artikel 68 of artikel 72.   
 5.  Onze Minister kan voor bekostiging in aanmerking brengen een tijdelijke nevenvestiging als bedoeld in artikel 16, indien het bevoegd gezag heeft aangetoond dat burgemeester en wethouders van de desbetreffende gemeente de benodigde huisvesting ter beschikking zullen stellen. De voorwaarde in de eerste volzin is niet van toepassing ten aanzien van scholengemeenschappen als bedoeld in [artikel 2.6, eerste lid, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en scholen waarvoor jaarlijks een bedrag voor huisvestingskosten wordt betaald op grond van artikel 76v.   
-6.  Artikel 65, vijfde lid, is van overeenkomstige toepassing bij toepassing van het tweede, derde en vijfde lid. Artikel 66, eerste en derde lid, is van overeenkomstige toepassing bij toepassing van het tweede en derde lid.   
+6.  Artikel 65, vijfde lid, is van overeenkomstige toepassing bij toepassing van het tweede, derde en vijfde lid. Artikel 66, eerste en derde lid, is van overeenkomstige toepassing bij toepassing van het tweede en derde lid, met dien verstande dat artikel 65 niet in acht wordt genomen bij de toepassing van artikel 66, derde lid, indien een samenwerkingsschool tot stand komt.   
 
 ### Artikel  72  
 
@@ -2512,6 +2565,7 @@ c. het onderwijsondersteunend personeel.   De formatie is redelijkerwijs voldoen
 1.  De bekostiging van de kosten van het in artikel 84 bedoelde personeel wordt vastgesteld door de krachtens artikel 84 vastgestelde formatie te vermenigvuldigen met een gemiddelde personeelslast, met inachtneming van ter zake bij of krachtens de in artikel 84, eerste lid, bedoelde algemene maatregel van bestuur vast te stellen voorschriften. De gemiddelde personeelslast is het genormeerde bedrag van de personele middelen per formatieplaats voor elke personeelscategorie, in welk bedrag tevens zijn verwerkt incidentele loonontwikkelingen en algemene salarismaatregelen.   
 2.  Onder de personele middelen worden verstaan de middelen ten behoeve van de salarissen, toelagen, uitkeringen en vergoedingen ten behoeve van personeel van de scholen, alsmede de bijdragen tot hun pensioen en tot dat van hun nagelaten betrekkingen.   
 3.  De gemiddelde personeelslast, die per schoolsoort kan verschillen, wordt bij ministeriële regeling vastgesteld.   
+4.  Naast de bekostiging, bedoeld in het eerste lid, ontvangt het bevoegd gezag een bij algemene maatregel van bestuur vast te stellen bedrag per leerling in verband met de maatschappelijke stage, bedoeld in artikel 6f. Het in de eerste volzin bedoelde bedrag kan bij ministeriële regeling worden gewijzigd.   
 
 ### Artikel  85a  
 

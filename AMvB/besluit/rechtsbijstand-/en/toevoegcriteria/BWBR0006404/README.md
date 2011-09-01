@@ -77,7 +77,7 @@ Voor rechtsbijstand terzake van het treffen van een afbetalingsregeling, het aan
 
 1.  Geen toevoeging wordt verleend indien de rechtsbijstand uitsluitend is verzocht voor: 
 
-a. het indienen van aanvragen om toelating tot Nederland op grond van de Vreemdelingenwet, tenzij de rechtzoekende met onmiddellijke uitzetting of inbewaringstelling wordt bedreigd of de aanvraag betrekking heeft op een verzoek om toelating als vluchteling en niet kan worden volstaan met het verlenen van rechtshulp die voorafgaat aan het gehoor;  
+a. het indienen van aanvragen om toelating tot Nederland op grond van [afdeling 3 van hoofdstuk 3 van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), tenzij de rechtzoekende met onmiddellijke uitzetting of inbewaringstelling wordt bedreigd;  
 
 b. het aanvragen van een uitkering;  
 

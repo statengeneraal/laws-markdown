@@ -71,14 +71,12 @@ a. in een voltijds dienstverband bij een Nederlandse vestiging van een accountan
 
 b. aan het bestuur een overzicht heeft overgelegd waarin hij de werkzaamheden die ten grondslag hebben gelegen aan zijn hiervoor in onderdeel a bedoelde staat van dienst heeft vastgelegd, welk overzicht beoordeeld en goedgekeurd dient te zijn door een registeraccountant werkzaam op de desbetreffende vestiging van de accountantspraktijk; en  
 
-c. het in artikel 6, eerste lid, bedoelde gesprek heeft gevoerd dat tot een positief oordeel van het bestuur heeft geleid, dan wel de in artikel 6, tweede lid, bedoelde toets met goed gevolg heeft afgelegd.    
+c. het in artikel 6, eerste lid, bedoelde gesprek heeft gevoerd dat tot een positief oordeel van het bestuur heeft geleid.    
 
 ### Artikel  6  
 
 1.  Indien aan het gestelde in artikel 5, aanhef en onderdelen a en b, is voldaan, beoordeelt het bestuur of beoordelen de door het bestuur aan te wijzen personen in een gesprek met de kandidaat, in de Nederlandse of Engelse taal naar keuze van de kandidaat, in hoeverre de in artikel 5, onderdeel a, bedoelde kennis op het vereiste niveau aanwezig is.   
-2.  Indien het in het eerste lid bedoelde gesprek niet tot een positief oordeel heeft geleid, kan het bestuur de kandidaat een toets afnemen. De aard en omvang van de toets worden bepaald op basis van het in artikel 5, onderdeel b, bedoelde overzicht en het in het eerste lid bedoelde gesprek.   
-3.  De toets duurt maximaal een uur. De kandidaat maakt een keuze voor de Nederlandse of de Engelse taal.   
-4.  De plaats en het tijdstip van het afnemen van de toets worden door het bestuur in overleg met de kandidaat vastgesteld.   
+2.  Het gesprek kan niet worden herkanst.   
 
 ### Hoofdstuk  5  
 
@@ -86,8 +84,8 @@ c. het in artikel 6, eerste lid, bedoelde gesprek heeft gevoerd dat tot een posi
 
 ### Artikel  7  
 
-1.  Alvorens het examen Nederlands recht of het examen gedrags- en beroepsregels, dan wel een gesprek of een toets als bedoeld in artikel 6 kan worden gevoerd dan wel afgelegd, betaalt de kandidaat het daarvoor verschuldigde examengeld.   
-2.  Voor het afleggen van het examen Nederlands recht en het examen gedrags- en beroepsregels, het gesprek en de toets wordt een bij verordening vast te stellen bedrag in rekening gebracht.   
+1.  Alvorens het examen Nederlands recht of het examen gedrags- en beroepsregels, dan wel een gesprek als bedoeld in artikel 6 kan worden gevoerd, betaalt de kandidaat het daarvoor verschuldigde examengeld.   
+2.  Voor het afleggen van het examen Nederlands recht en het examen gedrags- en beroepsregels en het gesprek als bedoeld in artikel 6 wordt een bij verordening vast te stellen bedrag in rekening gebracht.   
 
 ### Hoofdstuk  6  
 

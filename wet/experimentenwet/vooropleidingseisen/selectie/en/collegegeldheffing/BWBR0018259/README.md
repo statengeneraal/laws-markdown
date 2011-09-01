@@ -112,14 +112,14 @@ c. masteropleidingen als bedoeld in [artikel 7.30a van de wet](../../../../../..
 
 ####Experimenten met collegegeldverhoging
 
-1.  Onze Minister kan op aanvraag van het instellingsbestuur in afwijking van [artikel 7.43, eerste lid, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) besluiten dat ten aanzien van een door hem aangewezen voltijdse opleiding of een door hem aangewezen experimenteel programma binnen die opleiding het instellingsbestuur een collegegeld vaststelt van ten hoogste vijf keer het collegegeld, bedoeld in [artikel 7.43, eerste lid, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+1.  Onze Minister kan op aanvraag van het instellingsbestuur in afwijking van [artikel 7.45, eerste lid van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) besluiten dat ten aanzien van een door hem aangewezen voltijdse opleiding of een door hem aangewezen experimenteel programma binnen die opleiding het instellingsbestuur een collegegeld vaststelt van ten hoogste vijf keer het volledige wettelijke collegegeld volgens het basistarief, bedoeld in artikel 7.45, eerste lid, van de wet.   
 2.  Artikel 7, tweede lid, is van toepassing.   
 
 ### Artikel  10  
 
 ####Lening aan studenten i.v.m. collegegeldverhoging
 
-1.  Bij ministeriële regeling worden voorschriften vastgesteld over de beschikbaarstelling van een lening van rijkswege aan studenten in de kosten van het collegegeld, verschuldigd voor de inschrijving voor een opleiding als bedoeld in artikel 9, in voorkomende gevallen in verband met het deelnemen aan een experimenteel programma. In de lening is het bedrag van het collegegeld, bedoeld in [artikel 7.43, eerste lid, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), niet begrepen.   
+1.  Bij ministeriële regeling worden voorschriften vastgesteld over de beschikbaarstelling van een lening van rijkswege aan studenten in de kosten van het collegegeld, verschuldigd voor de inschrijving voor een opleiding als bedoeld in artikel 9, in voorkomende gevallen in verband met het deelnemen aan een experimenteel programma. In de lening is het bedrag van het collegegeld, bedoeld in [artikel 7.45, eerste lid, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), niet begrepen.   
 2.  De lening is rentedragend. Met betrekking tot het rentepercentage is [artikel 6.3, eerste lid, van de Wet studiefinanciering 2000](../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) van toepassing.   
 3.  In de regeling kan worden bepaald dat een instellingsbestuur wordt belast met de uitvoering daarvan.   
 4.  De voorschriften, bedoeld in het eerste lid, hebben in elk geval betrekking op: 
@@ -208,7 +208,7 @@ Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 ####Overgangsbepaling afronding opleiding
 
 1.  Studenten die op 31 augustus 2005 of op 31 augustus 2006 zijn ingeschreven voor een bacheloropleiding ten aanzien waarvan met ingang van 1 september 2005 onderscheidenlijk met ingang van 1 september 2006 een experiment op het terrein van selectie aanvangt, kunnen die opleiding binnen een redelijke termijn aan dezelfde instelling voltooien volgens de voorschriften die op het tijdstip van hun eerste inschrijving van toepassing waren.   
-2.  Studenten die op 31 augustus 2005 of op 31 augustus 2006 zijn ingeschreven voor een voltijdse opleiding ten aanzien waarvan met ingang van 1 september 2005 onderscheidenlijk met ingang van 1 september 2006 een experiment op het terrein van collegegeldverhoging aanvangt, zijn het collegegeld, bedoeld in [artikel 7.43 van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), verschuldigd.   
+2.  Studenten die op 31 augustus 2005 of op 31 augustus 2006 zijn ingeschreven voor een voltijdse opleiding ten aanzien waarvan met ingang van 1 september 2005 onderscheidenlijk met ingang van 1 september 2006 een experiment op het terrein van collegegeldverhoging aanvangt, zijn het collegegeld, bedoeld in [artikel 7.45, eerste lid, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), verschuldigd.   
 3.  Het eerste lid is van overeenkomstige toepassing op studenten die op 31 augustus 2007 of op 31 augustus van een van de volgende kalenderjaren zijn ingeschreven voor een opleiding als bedoeld in het eerste of tweede lid.   
 
 ### Artikel  19  

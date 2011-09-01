@@ -35,7 +35,9 @@ a. een openbare school:
 
 4°. de stichting, bedoeld in artikel 28 of artikel 51;    
 
-b. een bijzondere school: de rechtspersoon bedoeld in artikel 57;    *persoonsgebonden nummer:*  het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md), dan wel het door Onze minister uitgegeven onderwijsnummer, bedoeld in artikel 42a, vierde lid;  *sociaal-fiscaalnummer:*  het nummer, bedoeld in [artikel 2, derde lid, onder k, van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md); *ouders*: ouders, voogden of verzorgers; *schooljaar*: het tijdvak van 1 augustus tot en met 31 juli daaraanvolgend; *personeel*: 
+b. een bijzondere school: de rechtspersoon bedoeld in artikel 57;  
+
+c. een samenwerkingsschool: de stichting, bedoeld in artikel 28j;    *persoonsgebonden nummer:*  het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md), dan wel het door Onze minister uitgegeven onderwijsnummer, bedoeld in artikel 42a, vierde lid;  *sociaal-fiscaalnummer:*  het nummer, bedoeld in [artikel 2, derde lid, onder k, van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md); *ouders*: ouders, voogden of verzorgers; *schooljaar*: het tijdvak van 1 augustus tot en met 31 juli daaraanvolgend; *personeel*: 
 
 a. de benoemde directeur, het personeel benoemd in een functie voor het geven van onderwijs, het personeel benoemd in een andere functie dan het geven van onderwijs, het personeel dat is benoemd voor het verrichten van werkzaamheden ten behoeve van meer dan een school of meer dan een school als bedoeld in de [Wet op het primair onderwijs](../../../wet/wbo/BWBR0003420/README.md), waaronder begrepen de leden van het bestuur van die scholen die zijn benoemd door een raad van toezicht als bedoeld in artikel 28i, derde lid, voor zover die leden mede zijn benoemd op basis van een arbeidsovereenkomst of een akte van aanstelling;  
 
@@ -379,7 +381,7 @@ Het bevoegd gezag rapporteert over de vorderingen van de leerlingen aan hun oude
 
 ####Schoolplan
 
-1.  Het schoolplan bevat een beschrijving van het beleid met betrekking tot de kwaliteit van het onderwijs dat binnen de school wordt gevoerd, en omvat in elk geval het onderwijskundig beleid, het personeelsbeleid en het beleid met betrekking tot de bewaking en verbetering van de kwaliteit van het onderwijs. Het schoolplan omvat mede het beleid ten aanzien van de aanvaarding van materiële bijdragen of geldelijke bijdragen, niet zijnde ouderbijdragen of op de onderwijswetgeving gebaseerde bijdragen, indien het bevoegd gezag daarbij verplichtingen op zich neemt waarmee de leerlingen binnen de schooltijden en tijdens de activiteiten die worden georganiseerd onder verantwoordelijkheid van het bevoegd gezag, alsmede tijdens het overblijven, zullen worden geconfronteerd. Het schoolplan kan op een of meer scholen voor speciaal onderwijs, voor voortgezet speciaal onderwijs, voor speciaal en voortgezet speciaal onderwijs, en instellingen voor speciaal en voortgezet speciaal onderwijs en een of meer scholen voor ander onderwijs van hetzelfde bevoegd gezag betrekking hebben.   
+1.  Het schoolplan bevat een beschrijving van het beleid met betrekking tot de kwaliteit van het onderwijs dat binnen de school wordt gevoerd, en omvat in elk geval het onderwijskundig beleid, het personeelsbeleid en het beleid met betrekking tot de bewaking en verbetering van de kwaliteit van het onderwijs. Het schoolplan omvat mede het beleid ten aanzien van de aanvaarding van materiële bijdragen of geldelijke bijdragen, niet zijnde ouderbijdragen of op de onderwijswetgeving gebaseerde bijdragen, indien het bevoegd gezag daarbij verplichtingen op zich neemt waarmee de leerlingen binnen de schooltijden en tijdens de activiteiten die worden georganiseerd onder verantwoordelijkheid van het bevoegd gezag, alsmede tijdens het overblijven, zullen worden geconfronteerd. In het schoolplan wordt aangegeven op welke wijze invulling wordt gegeven aan het openbare karakter onderscheidenlijk de identiteit voor zover het betreft een samenwerkingsschool. Het schoolplan kan op een of meer scholen voor speciaal onderwijs, voor voortgezet speciaal onderwijs, voor speciaal en voortgezet speciaal onderwijs, en instellingen voor speciaal en voortgezet speciaal onderwijs en een of meer scholen voor ander onderwijs van hetzelfde bevoegd gezag betrekking hebben.   
 2.  Het onderwijskundig beleid omvat in elk geval de uitwerking van de wettelijke opdrachten voor het onderwijs en van de door het bevoegd gezag in het schoolplan opgenomen eigen opdrachten voor het onderwijs in een onderwijsprogramma. Daarbij worden tevens betrokken de bijzondere voorzieningen die zijn getroffen voor leerlingen of groepen leerlingen.   
 3.  Het personeelsbeleid, voor zover dat in het schoolplan tot uitdrukking wordt gebracht, omvat in elk geval maatregelen met betrekking tot het personeel die bijdragen aan de ontwikkeling en de uitvoering van het onderwijskundig beleid alsmede het document inzake evenredige vertegenwoordiging van vrouwen in de schoolleiding, bedoeld in artikel 30 van de wet.   
 4.  Het beleid met betrekking tot de bewaking en verbetering van de kwaliteit van het onderwijs omvat in elk geval: 
@@ -412,9 +414,11 @@ e. de rechten en plichten van de ouders, de leerlingen en het bevoegd gezag, waa
 
 f. de wijze waarop het bevoegd gezag omgaat met de in artikel 21, eerste lid, omschreven bijdragen,  
 
-g. het regionaal expertisecentrum waarbij het bevoegd gezag van de school is aangesloten, en  
+g. het regionaal expertisecentrum waarbij het bevoegd gezag van de school is aangesloten,  
 
-h. het beleid met betrekking tot de veiligheid.     
+h. het beleid met betrekking tot de veiligheid, en  
+
+i. de wijze waarop invulling wordt gegeven aan het openbare karakter onderscheidenlijk de identiteit voor zover het betreft een samenwerkingsschool.     
 2.  Het bevoegd gezag reikt de schoolgids uit aan de ouders dan wel de meerderjarige en handelingsbekwame leerling bij de inschrijving en jaarlijks na de vaststelling van de schoolgids.   
 3.  De algemene maatregel van bestuur, bedoeld in het eerste lid, onder a, wordt aan de beide kamers der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat 4 weken na de overlegging zijn verstreken en gedurende die termijn niet door of namens een der kamers de wens te kennen wordt gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.   
 
@@ -490,17 +494,17 @@ b. de wijze van benoeming, herbenoeming, schorsing en ontslag van de bestuursled
 
 c. de termijn waarvoor de bestuursleden worden benoemd,  
 
-d. de vaststelling van de begroting en jaarrekening na overleg met de gemeenteraad van de gemeente waarin de openbare school is gelegen,  
+d. de vaststelling van de begroting en jaarrekening na overleg met de gemeenteraad van de gemeente waarin de school waar openbaar onderwijs wordt gegeven, gevestigd is,  
 
-e. de wijze waarop de gemeenteraad van de gemeente waarin de openbare school is gelegen, toezicht op het bestuur van de openbare school uitoefent,  
+e. de wijze waarop de gemeenteraad van de gemeente waarin de school waar openbaar onderwijs wordt gegeven, gevestigd is, toezicht op het bestuur van die school uitoefent,  
 
 f. de gronden waarop het bestuur kan besluiten de vergaderingen besloten te houden,  
 
 g. de periode waarvoor de stichting in het leven wordt geroepen, met dien verstande dat deze periode ten minste 5 jaren bedraagt, en  
 
 h. de bevoegdheid de stichting te ontbinden,   met dien verstande dat in de regeling een overheersende invloed van de overheid in het bestuur is verzekerd voor zover het openbaar onderwijs betreft.   
-6.  De statuten van de stichting kunnen slechts worden gewijzigd na goedkeuring van de gemeenteraad van de gemeente waarin de openbare school is gelegen. Goedkeuring kan slechts worden onthouden indien overheersende invloed van de overheid in het bestuur niet is verzekerd voor zover het openbaar onderwijs betreft.   
-7.  Het bestuur brengt jaarlijks aan de gemeenteraad van de gemeente waarin de openbare school is gelegen, verslag uit over de werkzaamheden, waarbij in ieder geval aandacht wordt geschonken aan de wezenskenmerken van het openbaar onderwijs. Het verslag wordt bekendgemaakt.   
+6.  De statuten van de stichting kunnen slechts worden gewijzigd na instemming van de gemeenteraad van de gemeente waarin de school waar openbaar onderwijs wordt gegeven, gevestigd is. Instemming kan slechts worden onthouden indien overheersende invloed van de overheid in het bestuur niet is verzekerd voor zover het openbaar onderwijs betreft.   
+7.  Het bestuur brengt jaarlijks aan de gemeenteraad van de gemeente waarin de school waar openbaar onderwijs wordt gegeven, gevestigd is, verslag uit over de werkzaamheden, waarbij in ieder geval aandacht wordt geschonken aan de wezenskenmerken van het openbaar onderwijs. Het verslag wordt bekendgemaakt.   
 8.  De vergaderingen van het bestuur van de stichting zijn openbaar, tenzij het bestuur anders beslist, op gronden, vermeld in de statuten.   
 9.  In geval van ernstige taakverwaarlozing door het bestuur of functioneren in strijd met de wet, voor zover het openbaar onderwijs betreft, neemt de gemeenteraad van de gemeente waarin de openbare school is gelegen, de maatregelen die hij nodig acht om de continuïteit van het onderwijsproces te waarborgen voor zover het openbaar onderwijs betreft.   
 
@@ -606,6 +610,39 @@ e. het jaarlijks afleggen van verantwoording over de uitvoering van de taken en 
 2.  De taken en bevoegdheden van de interne toezichthouder of het interne toezichthoudend orgaan zijn zodanig dat hij een deugdelijk en onafhankelijk intern toezicht kan uitoefenen. Indien sprake is van meer dan een toezichthouder of van een toezichthoudend orgaan is de eerste volzin van overeenkomstige toepassing met betrekking tot de combinatie van de toezichthouders of de samenstelling van het toezichthoudend orgaan.   
 3.  Indien het intern toezicht wordt uitgeoefend door een raad van toezicht, zijn het eerste lid en het tweede lid van overeenkomstige toepassing ten aanzien van een raad van toezicht. Een raad van toezicht is tevens belast met het benoemen, schorsen en ontslaan van de leden van het bestuur, alsmede de toepassing van de artikelen 29, vijfde lid, 33, 33a, 34, 37, 38, 56, 62, 63 en de daarmee verband houdende wettelijke bepalingen op leden van het bestuur die mede tot het personeel behoren.   
 4.  Dit artikel is van overeenkomstige toepassing op een regionaal expertisecentrum.   
+
+### Artikel  28j  
+
+####Samenwerkingsschool
+
+1.  Een rechtspersoon die een openbare school in stand houdt, en een rechtspersoon die een bijzondere school in stand houdt, kunnen de instandhouding van hun school overdragen aan een stichting waarvan het statutaire doel in ieder geval is het in stand houden van een samenwerkingsschool, onverminderd de artikelen 28, derde lid, 50, derde lid, en 51, vijfde lid. Een samenwerkingsschool is een school waarin zowel openbaar onderwijs als bijzonder onderwijs wordt aangeboden. De artikelen 52 en 58 zijn van overeenkomstige toepassing.   
+2.  Een samenwerkingsschool kan uitsluitend tot stand komen indien daardoor de continuïteit van het openbaar of het bijzonder onderwijs gehandhaafd kan blijven en met totstandkoming van een samenwerkingsschool wordt voorkomen dat een of meer daarbij betrokken scholen door toepassing van de artikelen 147 en 148 wordt opgeheven of niet meer voor bekostiging in aanmerking komt. Het bevoegd gezag van de betreffende school toont dat aan op basis van een prognose van de ontwikkeling van het aantal leerlingen waaruit blijkt dat die school binnen een termijn van zes jaar dreigt te worden opgeheven of niet meer te worden bekostigd.   
+3.  Een samenwerkingsschool is toegankelijk voor alle leerlingen zonder onderscheid naar godsdienst of levensovertuiging.   
+4.  Het personeel dat werkzaam is aan de samenwerkingsschool, en niet is tewerkgesteld zonder benoeming, wordt benoemd krachtens arbeidsovereenkomst naar burgerlijk recht.   
+5.  De rechtspersoon die de instandhouding van de bijzondere school heeft overgedragen, of zijn rechtsopvolger, dan wel een daartoe aangewezen rechtspersoon houdt toezicht op de identiteit, voor zover het betreft het bijzonder onderwijs in de samenwerkingsschool, overeenkomstig hetgeen is bepaald in de statuten van de stichting die de samenwerkingsschool in stand houdt.   
+6.  De statuten voorzien in ieder geval in een regeling omtrent: 
+
+a. het doel van de stichting, waarin in elk geval is opgenomen het geven van openbaar onderwijs en bijzonder onderwijs binnen een samenwerkingsschool,  
+
+b. de samenstelling, werkwijze en inrichting van het bestuur van de stichting, met dien verstande dat in de statuten wordt voorzien in een evenwichtige zeggenschapsverdeling wat betreft openbaar onderwijs onderscheidenlijk bijzonder onderwijs dat wordt gegeven binnen de samenwerkingsschool,  
+
+c. de wijze van benoeming, herbenoeming, schorsing en ontslag van de bestuursleden, met dien verstande dat: 
+
+1° het bestuur van de stichting die de samenwerkingsschool in stand houdt, wordt benoemd door de gemeenteraad van de gemeente waar de samenwerkingsschool gevestigd is, en de rechtspersoon, bedoeld in het vijfde lid, en  
+
+2° dat het bestuur van de stichting die de samenwerkingsschool in stand houdt, niet bestaat uit personen die deel uitmaken van het gemeentebestuur van de gemeente en de rechtspersoon, bedoeld in het vijfde lid,    
+
+d. de wijze waarop door de gemeenteraad van de gemeente waar de samenwerkingsschool gevestigd is, en de rechtspersoon, bedoeld in het vijfde lid, toezicht op het bestuur van de samenwerkingsschool wordt uitgeoefend, waaronder voor wat betreft het openbaar onderwijs in ieder geval wordt begrepen een jaarlijks door het bestuur van de stichting aan de gemeenteraad van de gemeente waar de samenwerkingsschool gevestigd is, uit te brengen verslag waarbij in ieder geval aandacht wordt geschonken aan het beleid ten aanzien van het openbaar onderwijs in de samenwerkingsschool,  
+
+e. de termijn waarvoor de bestuursleden worden benoemd,  
+
+f. de periode waarvoor de stichting in het leven wordt geroepen, met dien verstande dat deze periode ten minste 5 jaren bedraagt, en  
+
+g. de bevoegdheid de stichting te ontbinden.     
+7.  Overdracht, opheffing of fusie van de samenwerkingsschool en wijziging van de statuten van de stichting die de samenwerkingsschool in stand houdt, is slechts mogelijk na instemming van de gemeenteraad van de gemeente waar de samenwerkingsschool gevestigd is, en de rechtspersoon, bedoeld in het vijfde lid.   
+8.  De voorschriften van deze wet en van andere wetten die het speciaal onderwijs of voortgezet speciaal onderwijs betreffen, alsmede de daarop gebaseerde regelingen, voor zover die voorschriften en regelingen betrekking hebben op een bijzondere school, zijn van overeenkomstige toepassing op een samenwerkingsschool als bedoeld in het eerste lid, tenzij het tegendeel blijkt. De Algemene wet bestuursrecht is niet van toepassing voor zover het beslissingen betreft van de rechtspersoon die de samenwerkingsschool in stand houdt.   
+9.  In geval van ernstige taakverwaarlozing door het bestuur of functioneren in strijd met de wet, voor zover het openbaar onderwijs betreft, neemt de gemeenteraad van de gemeente waar de samenwerkingsschool gevestigd is, de maatregelen die hij nodig acht om de continuïteit van het onderwijsproces te waarborgen voor zover het openbaar onderwijs betreft. De bedoelde maatregelen kunnen tevens worden getroffen door de rechtspersoon, bedoeld in het vijfde lid, voor zover het bijzonder onderwijs betreft. De feitelijke samenwerking wordt beëindigd op 1 augustus van het jaar na een daartoe door de gemeenteraad van de gemeente waar de samenwerkingsschool gevestigd is, en de rechtspersoon, bedoeld in het vijfde lid, gezamenlijk genomen besluit.   
+10.  Een geschil tussen een bestuursorgaan van de gemeente en de rechtspersoon, bedoeld in het vijfde lid, omtrent het toezicht op de samenwerkingsschool en omtrent de uitlegging van de statuten van de stichting die de samenwerkingsschool in stand houdt, wordt voorgelegd aan een geschillencommissie, bestaande uit een of meer door de gemeenteraad van de gemeente waar de samenwerkingsschool gevestigd is, en de rechtspersoon in onderling overleg aangewezen deskundigen.   
 
 ### §  2  
 
@@ -1294,7 +1331,7 @@ Onze minister kan onder nader te stellen voorwaarden aanvullende middelen ter be
 
 1.  In een scholengemeenschap zijn tot één school verenigd scholen van de soort die tot hetzelfde cluster of dezelfde clusters, bedoeld in artikel 2, vierde lid onder b, c en d, behoren.   
 2.  De bij of krachtens deze wet gegeven voorschriften die gelden voor de onderwijssoort waartoe een deel van de scholengemeenschap behoort, zijn van overeenkomstige toepassing op dat deel van de scholengemeenschap.   
-3.  De artikelen 75 tot en met 88 zijn niet van toepassing indien twee of meer scholen worden verenigd tot een scholengemeenschap.   
+3.  De artikelen 28j, tweede lid, en 75 tot en met 88 zijn niet van toepassing indien twee of meer scholen worden verenigd tot een scholengemeenschap.   
 4.  De directeur, onderscheidenlijk de adjunct-directeur of adjunct-directeuren, kan slechts een van de directeuren onderscheidenlijk kunnen slechts een of meer van de adjunct-directeuren van de scholen zijn die tot de scholengemeenschap worden verenigd, tenzij geen van de betrokkenen de desbetreffende functie wenst te aanvaarden.   
 
 ### Artikel  71c  
@@ -1360,10 +1397,14 @@ c. sprake is van omzetting van een bekostigde bijzondere school in een gelijksoo
 
 d. sprake is van omzetting van een bekostigde bijzondere school in een gelijksoortige bijzondere school van een andere richting,  
 
-e. sprake is van uitbreiding van het onderwijs aan een school met onderwijs van een of meer andere richtingen, of  
+e. sprake is van uitbreiding van het onderwijs aan een school met onderwijs van een of meer andere richtingen,  
 
-f. sprake is van uitbreiding van het onderwijs aan een school voor speciaal onderwijs met onderwijs voor voortgezet speciaal onderwijs, niet zijnde het onderwijs bedoeld in artikel 2, tweede lid, onder n.     
-3.  Het verzoek, bedoeld in het tweede lid, is met redenen omkleed en gaat vergezeld van de gegevens, genoemd in artikel 81, tweede lid. Indien sprake is van een situatie als bedoeld in het tweede lid, onder a tot en met e, willigt Onze minister het verzoek slechts in indien de school bij toepassing van artikel 83, eerste en derde lid, op grond van het eerste lid van dat artikel in een door provinciale staten of Onze minister vast te stellen plan van nieuwe scholen zou worden opgenomen. Indien sprake is van uitbreiding als bedoeld in het tweede lid, onder f, willigt Onze minister het verzoek slechts in indien de school bij toepassing van artikel 83, eerste, tweede en derde lid, op grond van het eerste lid dan wel het tweede lid van dat artikel in een door provinciale staten of Onze minister vast te stellen plan van nieuwe scholen zou worden opgenomen.   
+f. sprake is van voor bekostiging in aanmerking brengen van een samenwerkingsschool met inachtneming van artikel 28j,  
+
+g. sprake is van stichting van scholen die overeenkomen met de scholen waaruit een opgeheven samenwerkingsschool is ontstaan, of  
+
+h. sprake is van uitbreiding van het onderwijs aan een school voor speciaal onderwijs met onderwijs voor voortgezet speciaal onderwijs, niet zijnde het onderwijs bedoeld in artikel 2, tweede lid, onder n.     
+3.  Het verzoek, bedoeld in het tweede lid, is met redenen omkleed en gaat vergezeld van de gegevens, genoemd in artikel 81, tweede lid. Indien sprake is van een situatie als bedoeld in het tweede lid, onder a tot en met e, willigt Onze minister het verzoek slechts in indien de school bij toepassing van artikel 83, eerste en derde lid, op grond van het eerste lid van dat artikel in een door provinciale staten of Onze minister vast te stellen plan van nieuwe scholen zou worden opgenomen. Indien sprake is van uitbreiding als bedoeld in het tweede lid, onder h, willigt Onze minister het verzoek slechts in indien de school bij toepassing van artikel 83, eerste, tweede en derde lid, op grond van het eerste lid dan wel het tweede lid van dat artikel in een door provinciale staten of Onze minister vast te stellen plan van nieuwe scholen zou worden opgenomen. Indien sprake is van een situatie als bedoeld in het tweede lid, onder f, willigt Onze minister het verzoek slechts in indien de school bij toepassing van artikel 83, eerste en derde lid, op grond van het eerste lid van dat artikel in een door provinciale staten of Onze minister vast te stellen plan van nieuwe scholen zou worden opgenomen, met dien verstande dat daarbij de leerlingaantallen als bedoeld in artikel 147 en artikel 148 worden toegepast. Indien sprake is van een situatie als bedoeld in het tweede lid, onder g, willigt Onze minister het verzoek slechts in indien de school bij toepassing van artikel 83, eerste, tweede en derde lid, op grond van het eerste dan wel het tweede lid van dat artikel in een door provinciale staten of Onze minister vast te stellen plan van nieuwe scholen zou worden opgenomen.   
 4.  Een school die is opgenomen in een door Onze minister goedgekeurd of vastgesteld plan van nieuwe scholen voor de jaren 1991, 1992, 1993 en 1994 komt voor bekostiging in aanmerking indien de school in dat plan is opgenomen met als jaar van aanvang van de bekostiging 1991 en het onderwijs voor 1 januari 1992 een aanvang heeft genomen.   
 
 ### Artikel  76  

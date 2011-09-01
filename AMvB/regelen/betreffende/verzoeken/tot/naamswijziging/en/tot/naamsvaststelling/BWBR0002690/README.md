@@ -24,11 +24,15 @@ Onze voornoemde Minister is belast met de voorbereidende behandeling van het ver
 
 ### Artikel  3  
 
-1.  Het in [artikel 7, vijfde lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) bedoelde recht bedraagt € 487,50, met dien verstande dat het bedrag slechts eenmaal is verschuldigd, indien het verzoek tot wijziging van de geslachtsnaam betrekking heeft op: 
+1.  Het in [artikel 7, vijfde lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) bedoelde recht bedraagt € 835,–. Het bedrag is eenmaal is verschuldigd indien het verzoek tot wijziging van de geslachtsnaam betrekking heeft op een meerderjarige en: 
 
-a. een meerderjarige en diens minderjarige kind of kinderen over wie deze het gezag uitoefent of  
+a. zijn kind of twee minderjarige kinderen over wie hij het gezag uitoefent, of  
 
-b. minderjarigen die tot hetzelfde gezin behoren.     
+b. zijn kind of twee minderjarige kinderen die tot hetzelfde gezin behoren.   Het bedrag is tweemaal verschuldigd indien het verzoek tot wijziging van de geslachtsnaam betrekking heeft op een meerderjarige en: 
+
+a. zijn drie of meer minderjarige kinderen over wie hij het gezag uitoefent, of  
+
+b. zijn drie of meer minderjarige kinderen die tot hetzelfde gezin behoren.     
 2.  Het verschuldigde bedrag moet worden gestort op de betaalrekening van het Ministerie van Justitie.   
 
 ### Artikel  4  
