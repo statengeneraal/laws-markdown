@@ -18,48 +18,48 @@ Besluit:
 
 In deze aanwijzing wordt verstaan onder: 
 
-a. *minister:* de Minister van Volksgezondheid, Welzijn en Sport;  
+a.  *minister:* de Minister van Volksgezondheid, Welzijn en Sport;  
 
-b. *wet:* de [Wet marktordening gezondheidszorg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+b.  *wet:* de [Wet marktordening gezondheidszorg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
 
-c. *zorgautoriteit:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+c.  *zorgautoriteit:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
 
-d. *zorgproduct:* prestatiebeschrijving in termen van diagnose behandelcombinatie, ondersteunend product, overig product, overig traject of overige verrichting, zoals deze is vastgesteld door de zorgautoriteit en geldt vanaf 1 januari 2012;  
+d.  *zorgproduct:* prestatiebeschrijving in termen van diagnose behandelcombinatie, ondersteunend product, overig product, overig traject of overige verrichting, zoals deze is vastgesteld door de zorgautoriteit en geldt vanaf 1 januari 2012;  
 
-e. *honorariumcomponent:* deel van het zorgproduct dat betrekking heeft op de werkzaamheden van medisch specialisten;  
+e.  *honorariumcomponent:* deel van het zorgproduct dat betrekking heeft op de werkzaamheden van medisch specialisten;  
 
-f. *maximumtarief:* bedrag als bedoeld in [artikel 50, eerste lid, aanhef en onder c, van de wet](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) dat ten hoogste voor een prestatie in rekening mag worden gebracht.    
+f.  *maximumtarief:* bedrag als bedoeld in [artikel 50, eerste lid, aanhef en onder c, van de wet](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) dat ten hoogste voor een prestatie in rekening mag worden gebracht.   
 
 ### Artikel  2  
 
 ####werkingssfeer
 
-Deze aanwijzing is van toepassing op medisch specialistische zorg, voor zover door, of onder verantwoordelijkheid van, medisch specialisten wordt geleverd en met uitzondering van de geneeskundige geestelijke gezondheidszorg als bedoeld in de wet van 2 november 2006 tot wijziging van het tijdstip waarop de geneeskundige geestelijke gezondheidszorg deel uitmaakt van de aanspraken ingevolge een zorgverzekering als bedoeld in de Zorgverzekeringswet (Stb. 2006, 630).  
+Deze aanwijzing is van toepassing op medisch specialistische zorg, voor zover door, of onder verantwoordelijkheid van, medisch specialisten wordt geleverd en met uitzondering van de geneeskundige geestelijke gezondheidszorg als bedoeld in de wet van 2 november 2006 tot wijziging van het tijdstip waarop de geneeskundige geestelijke gezondheidszorg deel uitmaakt van de aanspraken ingevolge een zorgverzekering als bedoeld in de Zorgverzekeringswet (Stb. 2006, 630). 
 
 ### Artikel  3  
 
 ####uitvoering van de aanwijzing
 
-Ter uitvoering van deze aanwijzing stelt de zorgautoriteit waar nodig regels en beleidsregels vast.  
+Ter uitvoering van deze aanwijzing stelt de zorgautoriteit waar nodig regels en beleidsregels vast. 
 
 ### Artikel  4  
 
 ####maximumtarieven honorariumcomponent
 
-De zorgautoriteit stelt met ingang van 1 januari 2012 maximumtarieven voor de honorariumcomponent vast die zijn gebaseerd op de door de zorgautoriteit uitgevoerde herijking op basis van de beschikbare budgettaire middelen € 1775,8 miljoen (volumeniveau 2009 en prijspeil 2012).  
+De zorgautoriteit stelt met ingang van 1 januari 2012 maximumtarieven voor de honorariumcomponent vast die zijn gebaseerd op de door de zorgautoriteit uitgevoerde herijking op basis van de beschikbare budgettaire middelen € 1775,8 miljoen (volumeniveau 2009 en prijspeil 2012). 
 
 ### Artikel  5  
 
 ####citeertitel
 
-Deze aanwijzing wordt aangehaald als: Aanwijzing honorariumtarieven medisch specialisten.  
+Deze aanwijzing wordt aangehaald als: Aanwijzing honorariumtarieven medisch specialisten. 
 
 ### Artikel  6  
 
 ####inwerkingtreding en publicatie
 
-Deze aanwijzing treedt terstond in werking en wordt met toelichting in de Staatscourant geplaatst.  
+Deze aanwijzing treedt terstond in werking en wordt met toelichting in de Staatscourant geplaatst. 
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers   
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers     

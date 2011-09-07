@@ -18,44 +18,44 @@ Besluit:
 
 In deze aanwijzing wordt verstaan onder: 
 
-a. *minister:* de Minister van Volksgezondheid, Welzijn en Sport;  
+a.  *minister:* de Minister van Volksgezondheid, Welzijn en Sport;  
 
-b. *wet:* de [Wet marktordening gezondheidszorg](../../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+b.  *wet:* de [Wet marktordening gezondheidszorg](../../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
 
-c. *zorgautoriteit:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](../../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+c.  *zorgautoriteit:* de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](../../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
 
-d. *AWBZ:*[Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+d.  *AWBZ:* [Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
 
-e. *geneeskundige geestelijke gezondheidszorg:* zorg als bedoeld in de wet van 2 november 2006 tot wijziging van het tijdstip waarop die zorg deel uitmaakt van de aanspraken ingevolge een zorgverzekering als bedoeld in de Zorgverzekeringswet (Stb. 2006, 630, artikel III);  
+e.  *geneeskundige geestelijke gezondheidszorg:* zorg als bedoeld in de wet van 2 november 2006 tot wijziging van het tijdstip waarop die zorg deel uitmaakt van de aanspraken ingevolge een zorgverzekering als bedoeld in de Zorgverzekeringswet (Stb. 2006, 630, artikel III);  
 
-f. *instellingsbudget:* door de zorgautoriteit jaarlijks per instelling voor geneeskundige geestelijke gezondheidszorg vastgestelde aanvaardbare kosten op basis van AWBZ-parameters;  
+f.  *instellingsbudget:* door de zorgautoriteit jaarlijks per instelling voor geneeskundige geestelijke gezondheidszorg vastgestelde aanvaardbare kosten op basis van AWBZ-parameters;  
 
-g. *dbc:* diagnose behandeling combinatie.    
+g.  *dbc:* diagnose behandeling combinatie.   
 
 ### Artikel  2  
 
 ####werkingssfeer
 
-Deze aanwijzing is van toepassing op de geneeskundige geestelijke gezondheidszorg. Van deze aanwijzing is uitgezonderd zorg waarvoor vrije tarieven gelden als bedoeld in [artikel 57, vierde lid, onder c, van de wet](../../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).  
+Deze aanwijzing is van toepassing op de geneeskundige geestelijke gezondheidszorg. Van deze aanwijzing is uitgezonderd zorg waarvoor vrije tarieven gelden als bedoeld in [artikel 57, vierde lid, onder c, van de wet](../../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md). 
 
 ### Artikel  3  
 
 ####uitvoering van de aanwijzing
 
-Ter uitvoering van deze aanwijzing stelt de zorgautoriteit regels en beleidsregels vast.  
+Ter uitvoering van deze aanwijzing stelt de zorgautoriteit regels en beleidsregels vast. 
 
 ### Artikel  4  
 
 ####tarief- en budgetkorting
 
-Voor zorg als bedoeld in artikel 2 geldt per 1 januari 2012 een taakstelling van structureel € 222 miljoen (prijspeil 2011). De zorgautoriteit voert deze taakstelling uit door een generieke afslag op de dbc-tarieven in combinatie met een korting op de instellingsbudgetten.  
+Voor zorg als bedoeld in artikel 2 geldt per 1 januari 2012 een taakstelling van structureel € 222 miljoen (prijspeil 2011). De zorgautoriteit voert deze taakstelling uit door een generieke afslag op de dbc-tarieven in combinatie met een korting op de instellingsbudgetten. 
 
 ### Artikel  5  
 
 ####inwerkingtreding
 
-Deze aanwijzing treedt terstond in werking en wordt met toelichting in de Staatscourant geplaatst.  
+Deze aanwijzing treedt terstond in werking en wordt met toelichting in de Staatscourant geplaatst. 
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers   
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers     

@@ -15,10 +15,11 @@ Besluit:
 | 1  | 2  | 3  | 4  | 5  | 6  | Nr.  | Regeling  | Artikel  | Groep  | Openstelling 2011  | Plafond €   |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |  [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md)   |
-| 1.1  | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten)  | 2.3  | Bedrijfsborgstellingskredieten  | 01-01 t/m 31-12  | 765.000.000  |
+| 1.1  | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten)  | 2.3  | Bedrijfsborgstellingskredieten  | 01-01 t/m 31-12  | 1.000.000.000  |
 | --- | Subsidieregeling starten, groeien en overdragen van ondernemingen (borgstelling MKB-kredieten)  | 2.3  | Bodemsaneringsborgstellingskredieten  | 01-01 t/m 31-12  | 65.344.000  |
 | 1.2  | Subsidieregeling starten, groeien en overdragen van ondernemingen (groeifaciliteit)  | 3.2  | --- | 01-01 t/m 31-12  |  170.000.000  |
 | 1.3  | Subsidieregeling starten, groeien en overdragen van ondernemingen (seed capital technostarters)  | 4.3  | --- | 01-01 t/m 31-03  | 12.000.000  |
+| --- | --- | --- | --- | 26-08 t/m 30-09  | 11.700.000  |
 | 1.4  | Subsidieregeling Starten, groeien en overdragen van ondernemingen (valorisatieprogramma)  | 5.2  | --- | 01-01 t/m 31-12  | 25.000.000  |
 | 1.6  | Subsidieregeling starten, groeien en overdragen van ondernemingen (ondernemerschapsonderwijsprojecten)  | 6.2  | --- | –  | –  |
 | 1.7  | Subsidieregeling starten, groeien en overdragen van ondernemingen (beroepsonderwijs in bedrijf)  | 7.2  | --- | –  | –  |
@@ -89,7 +90,7 @@ Besluit:
 | 3.26  | Subsidieregeling sterktes in innovatie (civiele vliegtuigontwikkeling)  | 10c.2  | Projecten, niet betrekking hebbend op industrieel onderzoek  | –  | –  |
 | --- | Subsidieregeling sterktes in innovatie (civiele vliegtuigontwikkeling)  | 10c.2  | Projecten, betrekking hebbend op industrieel onderzoek  | –  | –  |
 | 3.27  | Subsidieregeling sterktes in innovatie (technologische topinstituten)  | 10d.2  | --- | –  | –  |
-| 3.28  | Subsidieregeling sterktes in innovatie (innovatieve zeescheepsbouw)  | 10e.2  | --- | –  | –  |
+| 3.28  | Subsidieregeling sterktes in innovatie (innovatieve zeescheepsbouw)  | 10e.2  | --- | 15-06 t/m 31-10  | 4.200.000  |
 | 3.29  | Subsidieregeling sterktes in innovatie (prekwalificatie ESA-programma’s)  | 10f.2  | --- | 10-05 t/m 5-07  | 4.000.000  |
 | 3.30  | Subsidieregeling sterktes in innovatie (strategisch onderzoeksprogramma vliegtuigontwikkeling)  | 10g.2  | Onderzoek op motorcomponenten  | –  | –  |
 | --- | Subsidieregeling sterktes in innovatie (strategisch onderzoeksprogramma vliegtuigontwikkeling)  | 10g.2  | Thermoplasten en composieten, vezel–metaal laminaten, ontwerpmethodieken, toekomstige technologieën, vliegtuigsystemen  | –  | –  |
@@ -110,7 +111,7 @@ Besluit:
 | 5.2  | Subsidieregeling energie en innovatie (EOS: korte termijn)  | 2.2.2  | Andere projecten dan haalbaarheidsstudies  | –  | –  |
 | --- | Subsidieregeling energie en innovatie (EOS: korte termijn)  | 2.2.2  | Haalbaarheidsstudies  | –  | –  |
 | 5.3  | Subsidieregeling energie en innovatie (EOS: demonstratie)  | 2.3.2  | --- | –  | –  |
-| 5.4  | Subsidieregeling energie en innovatie (duurzame warmte voor bestaande woningen)  | 3.1.2  | --- | –  | –  |
+| 5.4  | Subsidieregeling energie en innovatie (duurzame warmte voor bestaande woningen)  | 3.1.2  | --- | –  | 2.400.000  |
 | 5.5  | Subsidieregeling energie en innovatie (duurzame biomassa–import)  | 3.2.2  | --- | –  | –  |
 | 5.6  | Subsidieregeling energie en innovatie (investeringen verlaging elektriciteitsaansluiting warmtepomphouders)  | 3.3.2  | --- | –  | –  |
 | 5.7  | Subsidieregeling energie en innovatie (bioraffinage)  | 3.5.2  | Demonstratieproject bioraffinage  | –  | –  |
@@ -122,11 +123,11 @@ Besluit:
 | 5.11  | Subsidieregeling energie en innovatie (programma industriële warmtebenutting)  | 3.8.8  | --- | –  | –  |
 | 5.12  | Subsidieregeling energie en innovatie (effectieve en efficiënte vergistingketen)  | 3.9.2  | Pilotprojecten vergistingketen  | –  | –  |
 | --- | Subsidieregeling energie en innovatie (effectieve en efficiënte vergistingketen)  | 3.9.2  | Demonstratieprojecten vergistingketen  | –  | –  |
+| 5.13  | Subsidieregeling energie en innovatie (proeftuinen intelligente netten)  | 3.10.2  | Proeftuinen intelligente netten  | 15/06 t/m 05/09  | 16.000.000  |
 |  [Subsidieregeling internationaal ondernemen](../../../../../../../../ministeriele-regeling/subsidieregeling/internationaal/ondernemen/BWBR0026819/README.md)   |
 | 6.1  | Subsidieregeling internationaal ondernemen (Prepare2Start)  | 2.2  | --- | 01-01 t/m 31-12  | 14.000.000  |
 |  [Subsidieregeling internationaal excelleren](../../../../../../../../ministeriele-regeling/subsidieregeling/internationaal/excelleren/BWBR0026983/README.md)   |
-| 7.1  | Subsidieregeling internationaal excelleren (basismodule 2Getthere)  | 2.1  | --- | 01-01 t/m 31-12  | 6.000.000  |
-| 7.2  | Subsidieregeling internationaal excelleren (basismodule 2Getthere en demonstratieprojecten)  | 3.1  | --- | –  | –  |
+| 7.1 en 7.2  | --- | 2.1 en 3.1  | --- | 01-01 t/m 31-12  | 6.000.000  |
 | 7.3  | Subsidieregeling internationaal excelleren (2xplore)  | 4.1  | --- | –  | –  |
 | 7.4  | Subsidieregeling internationaal excelleren (opkomende markten)  | 5.2  | --- | –  | –  |
 | 7.5  | Subsidieregeling internationaal excelleren (opkomende markten)  | 5.8  | --- | –  | –  |
@@ -143,7 +144,7 @@ Besluit:
 | – 3.12v  | 08-03-2010 t/m 31-12-2011  |
 | 2  | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) (tijdelijke garantie ondernemingsfaciliteit curatieve zorg)  | 3.12m  | --- | 01-01-2010 t/m 31-12-2011  | 250.000.000  |
 | 3  | [Subsidieregeling energie en innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md) (risico’s dekken voor aardwarmte)  | 3.4.2  | --- | 01-10-2010 t/m 01-04-2011  | 43.350.000  |
-| 4  | [Subsidieregeling sterktes in innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md) (LSH–projecten; ETB–samenwerkingsverbanden)  | 4.2  | --- | 01-10-2010 t/m 01-02-2011  | 3.000.000  |
+| 4  | [Subsidieregeling sterktes in innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md) (LSH–projecten; ETB–samenwerkingsverbanden)  | 4.2  | --- | 01-10-2010 t/m 01-02-2011  | 3.250.000  |
 | 5  | [Subsidieregeling sterktes in innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md) (IOP’s)  | 3.2  | Maritiem (periode vooraanmelding)  | 04-10-2010 t/m 29-10-2010  | –  |
 | --- | [Subsidieregeling sterktes in innovatie](../../../../../../../../ministeriele-regeling/subsidieregeling/sterktes/in/innovatie/BWBR0024881/README.md) (IOP’s)  | 3.2  | Maritiem (Offshore)  | 31-01-2011 t/m 25-02-2011  | 1.075.000  |
 | 6  | [Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) (veiligheid kleine bedrijven)  | 9.7  | --- | 01-02-2011 t/m 01-06-2012  | 7.000.000  |

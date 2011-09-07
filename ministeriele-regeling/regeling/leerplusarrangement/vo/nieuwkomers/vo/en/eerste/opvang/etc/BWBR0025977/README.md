@@ -220,7 +220,7 @@ b. 1 april: voor de periode januari direct voorafgaand aan deze peildatum tot en
 ####Gegevenslevering
 
 1.  Voor het aantonen van de juistheid van de door het bevoegd gezag te verstrekken gegevens over Vreemdelingen per peildatum 1 oktober is artikel 10 van overeenkomstige toepassing.   
-2.  Voor het aantonen van de juistheid van de door het bevoegd gezag te verstrekken gegevens over Vreemdelingen per peildatum 1 april dient een uittreksel van de GBA in de administratie van de school aanwezig te zijn. In het geval de registratie in de GBA ontbreekt of afwijkt van de door het bevoegd gezag van de school aangeleverde gegevens, moet het bevoegd gezag gebruik maken van een of meer van de documenten in bijlage 1.   
+2.  Voor het aantonen van juistheid van de te verstrekken gegevens over Vreemdelingen per peildatum 1 april draagt het bevoegd gezag er zorg voor dat de door de minister verstrekte gegevens, bedoeld in [artikel 103c, eerste lid, tweede volzin, van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), in de administratie van de school zijn opgenomen. Indien deze gegevens over nationaliteit en verblijfsduur ontbreken in de administratie van de school, draagt het bevoegd gezag er zorg voor dat een kopie van een of meer van de documenten genoemd in bijlage 1, aanwezig is in de administratie van de school.   
 
 ### Hoofdstuk  3  
 
@@ -289,6 +289,17 @@ De bepaling in [artikel 2, eerste lid, van de Regeling aanvullende personele bek
 ####Overgangsrecht elektronisch bestand van 1 oktober 2007 van scholen voor praktijkonderwijs als bedoeld in [artikel 9 van het Besluit RVC’s, regionaal zorgbudget en praktijkscholen met declaratiebekostiging](../../../../../../../../../../../AMvB/besluit/rvc's/en/regionaal/zorgbudget/BWBR0015137/README.md), zoals dat luidde op 31 juli 2006
 
 Bij een afwijking van het elektronisch bestand van 1 oktober 2007 van meer dan 1% van de integrale leerlingtelling van 1 oktober 2007 vindt voor het bevoegd gezag van de school met betrekking tot de teldatum 1 oktober 2007 geen toepassing plaats van artikel 4, eerste lid.  
+
+### Artikel  20a  
+
+####Overgangsrecht leerlingentelling bij omzetten dislocatie in vestiging
+
+1.  In afwijking van artikel 6a worden de leerlingen van een dislocatie die op grond van [artikel III, negende lid, van de Wet van 11 juli 2008 tot wijziging van onder meer de Wet op het voortgezet onderwijs ter modernisering, vereenvoudiging en beperking van de wettelijke regels over de voorzieningenplanning bij scholen](../../../../../../../../../../../wet/wijzigingswet/wet/op/het/voortgezet/onderwijs/enz./(modernisering/etc/BWBR0024243/README.md) (Stb. 2008, 296), wordt omgezet in een nevenvestiging of tijdelijke nevenvestiging, voor de toepassing van artikel 4, eerste lid, eenmalig toegerekend aan de vestiging waar de dislocatie deel van uitmaakte, indien: 
+
+a. de dislocatie tussen de twee teldata van een cyclus wordt omgezet, en  
+
+b. de vestiging ook voor de cyclus voorafgaand aan de omzetting aanvullende personele bekostiging als bedoeld in artikel 2, eerste lid, ontving.     
+2.  Het eerste lid blijft buiten toepassing indien toepassing ervan voor een school zou leiden tot een lagere aanvullende bekostiging voor de jaren 2011 en 2012.   
 
 ### Artikel  21  
 

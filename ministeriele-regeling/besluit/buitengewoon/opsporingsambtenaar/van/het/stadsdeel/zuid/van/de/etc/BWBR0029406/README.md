@@ -35,7 +35,7 @@ b. het opsporen van de strafbare feiten behorend tot het domein II Milieu en Wel
 
 ### Artikel  4  
 
-Op grond van dit besluit kunnen maximaal 35 personen als buitengewoon opsporingsambtenaar worden beëdigd, waarvan 25 personen in het domein Openbare Ruimte en 10 personen in het domein Milieu en Welzijn.  
+Op grond van dit besluit kunnen maximaal 49 personen als buitengewoon opsporingsambtenaar worden beëdigd, waarvan 39 personen in het domein Openbare Ruimte en 10 personen in het domein Milieu, welzijn en infrastructuur.  
 
 ### Artikel  5  
 
