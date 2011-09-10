@@ -52,7 +52,17 @@ n. mijnbouwwerk: een werk dat behoort tot een bij algemene maatregel van bestuur
 
 o. mijnbouwinstallatie: een mijnbouwwerk dat verankerd is in of aanwezig is boven de bodem van een oppervlaktewater;  
 
-p. Onze Minister: Onze Minister van Economische Zaken.    
+p. Onze Minister: Onze Minister van Economische Zaken;  
+
+q. opsporen van CO <sub>2</sub> -opslagcomplexen: onderzoek naar opslagcomplexen met gebruikmaking van een boorgat of door het verrichten van proeven met injectie van CO <sub>2</sub> om het opslagvoorkomen te karakteriseren;  
+
+r. opsporingsvergunning van CO <sub>2</sub> -opslagcomplexen: een vergunning voor het opsporen van CO <sub>2</sub> -opslagcomplexen;  
+
+s. CO <sub>2</sub> -opslagcomplex: opslagvoorkomen voor CO <sub>2</sub> en de omringende geologische gebieden die een weerslag kunnen hebben op de algehele integriteit van de opslag en de veiligheid ervan;  
+
+t. opslagvoorkomen: een voorkomen dat gebruikt wordt voor opslag;  
+
+u. permanent opslaan van CO <sub>2</sub>: permanent opslaan van CO <sub>2</sub> en stoffen die daarmee in directe samenhang worden opgeslagen met uitzondering van opslag van CO <sub>2</sub> voor onderzoeks- of ontwikkelingsdoeleinden of voor het beproeven van nieuwe producten en procedés indien de geplande opslagcapaciteit minder is dan 100 kiloton.    
 
 ### Artikel  2  
 
@@ -69,15 +79,15 @@ p. Onze Minister: Onze Minister van Economische Zaken.
 
 ### Artikel  4  
 
-De rechthebbende ten aanzien van de oppervlakte van de aardbodem is verplicht te gedogen dat de houder van een vergunning voor het opsporen of het winnen van delfstoffen of aardwarmte, dan wel het opslaan van stoffen, in de ondergrond delfstoffen of aardwarmte opspoort of wint of stoffen opslaat overeenkomstig de op deze activiteiten betrekking hebbende regels, voorzover deze activiteiten plaatsvinden op een diepte van meer dan 100 meter beneden de oppervlakte en onverminderd het recht dat de rechthebbende ten aanzien van de oppervlakte heeft op vergoeding van de door deze activiteiten veroorzaakte schade.  
+De rechthebbende ten aanzien van de oppervlakte van de aardbodem is verplicht te gedogen dat de houder van een vergunning voor het opsporen van CO <sub>2</sub> -opslagcomplexen, het opsporen of het winnen van delfstoffen of aardwarmte, dan wel het opslaan van stoffen, in de ondergrond CO <sub>2</sub> opslagcomplexen opspoort, delfstoffen of aardwarmte opspoort of wint of stoffen opslaat overeenkomstig de op deze activiteiten betrekking hebbende regels, voorzover deze activiteiten plaatsvinden op een diepte van meer dan 100 meter beneden de oppervlakte en onverminderd het recht dat de rechthebbende ten aanzien van de oppervlakte heeft op vergoeding van de door deze activiteiten veroorzaakte schade.  
 
 ### Artikel  5  
 
-Voor de toepassing van de [Belemmeringenwet Verordeningen](../../../wet/belemmeringenwet/verordeningen/BWBR0001865/README.md) en de [Belemmeringenwet Privaatrecht](../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) worden werken die worden of zijn uitgevoerd ten behoeve van het opsporen of winnen van delfstoffen of aardwarmte of ten behoeve van het opslaan van stoffen, aangemerkt als openbare werken van algemeen nut.  
+Voor de toepassing van de [Belemmeringenwet Verordeningen](../../../wet/belemmeringenwet/verordeningen/BWBR0001865/README.md) en de [Belemmeringenwet Privaatrecht](../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) worden werken die worden of zijn uitgevoerd ten behoeve van het opsporen van CO <sub>2</sub> -opslagcomplexen, het opsporen of winnen van delfstoffen of aardwarmte of ten behoeve van het opslaan van stoffen, aangemerkt als openbare werken van algemeen nut.  
 
 ### Hoofdstuk  2  
 
-####Vergunningen voor opsporen en winnen
+####Vergunningen voor opsporen en winnen van delfstoffen en aardwarmte
 
 ### §  2.1  
 
@@ -263,11 +273,19 @@ Dit hoofdstuk, met uitzondering van artikel 6, is niet van toepassing op het ops
 
 ### Hoofdstuk  3  
 
-####Vergunningen voor het opslaan van stoffen
+####Vergunningen voor het opslaan van stoffen en voor het opsporen van CO <sub>2</sub> -opslagcomplexen
+
+### §  3.1  
+
+####Algemene bepalingen
 
 ### Artikel  25  
 
-1.  Het is verboden stoffen op te slaan zonder vergunning van Onze Minister.   
+1.  Het is verboden zonder vergunning van Onze Minister: 
+
+a. stoffen op te slaan;  
+
+b. CO <sub>2</sub> -opslagcomplexen op te sporen.     
 2.  Het verbod geldt niet met betrekking tot bij algemene maatregel van bestuur omschreven categorieën van gevallen.   
 
 ### Artikel  26  
@@ -277,17 +295,29 @@ Dit hoofdstuk, met uitzondering van artikel 6, is niet van toepassing op het ops
 3.  Ingeval aan een houder van een opsporings- of winningsvergunning voor koolwaterstoffen een opslagvergunning voor hetzelfde gebied en voor dezelfde stof is verleend, vervalt de opsporings- of winningsvergunning op het tijdstip waarop de verleende opslagvergunning onherroepelijk wordt.   
 4.  Met ingang van het tijdstip waarop een winningsvergunning als bedoeld in het derde lid vervalt, gelden de delfstoffen in het gebied waarvoor de winningsvergunning gold, als stoffen die na winning door de houder van de opslagvergunning, bedoeld in het derde lid, zijn opgeslagen en waarvan de eigendom bij hem berust.   
 5.  Het derde lid is niet van toepassing op een houder van een opsporings- of winningsvergunning voor koolwaterstoffen indien hem voor het tijdstip van inwerkingtreding van deze leden een onherroepelijke opslagvergunning voor hetzelfde gebied en voor dezelfde stof is verleend.   
+6.  In afwijking van het eerste en tweede lid wordt een vergunning voor het permanent opslaan van CO <sub>2</sub> of een vergunning voor opsporen van CO <sub>2</sub> -opslagcomplexen niet verleend voor zover de vergunning bij de inwerkingtreding ervan zou gaan gelden voor een CO <sub>2</sub> -opslagcomplex waarvoor op dat tijdstip reeds een vergunning als bedoeld in artikel 6 of 25 geldt, ongeacht wie de houder van de desbetreffende vergunning is.   
 
 ### Artikel  26a  
 
+1.  Onverminderd artikel 26, zesde lid, wordt de houder van een vergunning voor het opsporen van CO <sub>2</sub> -opslagcomplexen die met gebruikmaking van die vergunning de geschiktheid van een voorkomen voor permanent opslaan van CO <sub>2</sub> heeft aangetoond, op zijn aanvraag, ingediend gedurende de geldingsduur van die vergunning, een opslagvergunning voor het aangetoonde opslagvoorkomen verleend.   
+2.  Het eerste lid geldt niet, indien weigering van de opslagvergunning, bedoeld in het eerste lid, gerechtvaardigd wordt door één van de in artikel 27 genoemde gronden.   
+3.  Indien een aanvraag als bedoeld in het eerste lid is ingediend, blijft de vergunning voor het opsporen van CO <sub>2</sub> -opslagcomplexen, voor zover deze betrekking heeft op het aangevraagde opslagvoorkomen, tenminste gelden tot het tijdstip waarop de beschikking waarbij op de aanvraag wordt beslist onherroepelijk wordt. Indien een vergunning voor permanent opslaan van CO <sub>2</sub> wordt verleend, vervalt op het tijdstip waarop de beschikking onherroepelijk wordt, voor het gebied waarvoor de opslagvergunning geldt, de vergunning voor opsporen van CO <sub>2</sub> -opslagcomplexen. Voor zover hierdoor voorschriften vervallen die nog niet zijn uitgewerkt, gaan zij gelden als voorschriften die zijn verbonden aan de opslagvergunning.   
+
+### Artikel  26b  
+
 1.  Zodra een aanvraag om een opslagvergunning is ingediend, worden anderen in de gelegenheid gesteld om aanvragen om een opslagvergunning in te dienen voor hetzelfde gebied.   
-2.  Onze Minister plaatst hiertoe een uitnodiging in de Staatscourant. De uitnodiging maakt melding van het bepaalde in artikel 17.   
+2.  Onze Minister plaatst hiertoe een uitnodiging in de Staatscourant. De uitnodiging maakt melding van het bepaalde in artikel 17 dan wel, indien het permanent opslaan van CO <sub>2</sub> betreft, van het bepaalde in artikel 31c, derde tot en met vijfde lid.   
 3.  Anderen kunnen aanvragen indienen tot dertien weken na de dag van plaatsing van de uitnodiging in de Staatscourant.   
 4.  De procedure, bedoeld in het eerste tot en met het derde lid, wordt niet toegepast met betrekking tot: 
 
 a. een aanvraag die wordt ingediend overeenkomstig het derde lid;  
 
-b. vergunningen waarop artikel 26, eerste of tweede lid, van toepassing is.     
+b. vergunningen waarop artikel 26, eerste of tweede lid, van toepassing is;  
+
+c. een aanvraag voor een gebied waarvoor op grond van artikel 26, zesde lid, geen vergunning zal kunnen worden verleend;  
+
+d. een aanvraag voor een vergunning voor permanent opslaan van CO <sub>2</sub> waarop artikel 26a van toepassing is.     
+5.  Het eerste tot en met het vierde lid, onderdeel a en c, is van overeenkomstige toepassing op een aanvraag voor een vergunning voor opsporen van CO <sub>2</sub> -opslagcomplexen.   
 
 ### Artikel  27  
 
@@ -311,11 +341,16 @@ h. indien het algemeen belang vereist dat het gebied waarvoor een opslagvergunni
 
 i. indien een keuze moet worden gemaakt uit twee of meer aanvragen om een vergunning die bij een beoordeling op grond van de onderdelen a tot en met h gelijkwaardig zijn gebleken, in het belang van het doelmatig en voortvarend opslaan.     
 2.  Een vergunning kan op grond van de financiële mogelijkheden van de aanvrager worden geweigerd als onvoldoende verzekerd is dat de aanvrager zal voldoen aan hem op te leggen verplichtingen als bedoeld in de artikelen 46, 47 en 102.   
-3.  Met het oog op de toepassing van het eerste en tweede lid kunnen bij ministeriële regeling nadere regels worden gesteld, die bij de beslissing op een aanvraag om een vergunning in acht worden genomen.   
+3.  Onverminderd artikel 26 wordt een vergunning voor permanent opslaan van CO <sub>2</sub> geweigerd indien: 
+
+a. bij opslag onder de voorgestelde exploitatievoorwaarden een significant risico van lekkage bestaat of significante milieu- of gezondheidsrisico’s bestaan;  
+
+b. door verlening van de vergunning zich in dezelfde hydraulische eenheid meer dan één opslagvoorkomen zou gaan bevinden en de potentiële drukinteracties zodanig zijn dat beide voorkomens niet tegelijk aan de eisen van veiligheid kunnen voldoen.     
+4.  Met het oog op de toepassing van het eerste, tweede en derde lid kunnen bij ministeriële regeling nadere regels worden gesteld, die bij de beslissing op een aanvraag om een vergunning in acht worden genomen.   
 
 ### Artikel  28  
 
-In een opslagvergunning wordt bepaald voor welke stoffen, voor welk gebied en voor welk tijdvak zij geldt. Daarbij wordt bepaald dat: 
+In een opslagvergunning anders dan een vergunning voor permanent opslaan van CO <sub>2</sub> wordt bepaald voor welke stoffen, voor welk gebied en voor welk tijdvak zij geldt. Daarbij wordt bepaald dat: 
 
 a. de in de ondergrond gebrachte stoffen voor een in de vergunning geregeld tijdstip teruggehaald moeten worden, of  
 
@@ -325,20 +360,208 @@ b. de stoffen definitief in de ondergrond achtergelaten moeten worden.
 
 1.  Een opslagvergunning kan voorts onder andere beperkingen dan die bedoeld in artikel 28 worden verleend. Aan een vergunning kunnen voorschriften worden verbonden.   
 2.  De beperkingen en voorschriften, anders dan voorschriften op grond van artikel 98, kunnen slechts worden gerechtvaardigd door het belang van de veiligheid, de landsverdediging of een planmatig beheer van voorkomens van delfstoffen of aardwarmte.   
+3.  In afwijking van het tweede lid kunnen aan een vergunning voor permanent opslaan van CO <sub>2</sub> ook beperkingen en voorschriften als bedoeld in artikel 31d, eerste lid, worden verbonden.   
 
 ### Artikel  30  
 
-1.  Onze Minister kan een opslagvergunning wijzigen of intrekken, indien dit wordt gerechtvaardigd op grond van de in artikel 29, tweede lid, bedoelde belangen.   
+1.  Onze Minister kan een opslagvergunning wijzigen of intrekken, indien dit wordt gerechtvaardigd op grond van de in artikel 29, tweede en derde lid, bedoelde belangen.   
 2.  Voorts kan Onze Minister een opslagvergunning wijzigen of intrekken, indien niet wordt voldaan aan artikel 39a.   
-3.  Van een beschikking tot wijziging of intrekking van een vergunning wordt mededeling gedaan in de Staatscourant.   
+3.  Onverminderd het eerste lid kan Onze Minister ook op grond van artikel 31h een vergunning voor permanent opslaan van CO <sub>2</sub> wijzigen of intrekken.   
+4.  Van een beschikking tot wijziging of intrekking van een vergunning wordt mededeling gedaan in de Staatscourant.   
 
 ### Artikel  31  
 
 De houder van een opslagvergunning kan zijn vergunning slechts met schriftelijke toestemming van Onze Minister op een ander doen overgaan. De artikelen 20, tweede en derde lid, 26, tweede lid, en 27 zijn van overeenkomstige toepassing.  
 
+### Artikel  31a  
+
+1.  Ten aanzien van een opslagvergunning zijn de artikelen 14, 17, 19, 21, met uitzondering van het vierde lid, en 22 van overeenkomstige toepassing.   
+2.  In afwijking van het eerste lid zijn op vergunningen voor permanent opslaan van CO <sub>2</sub> uitsluitend de artikelen 14 en 22 van overeenkomstige toepassing.   
+3.  Ten aanzien van een vergunning voor opsporen van CO <sub>2</sub> -opslagcomplexen zijn de artikelen 9, eerste tot en met derde lid, 11, tweede, derde en vierde lid, 12, 13, tweede lid, 14, 17, 18 met dien verstande dat voor andere «andere delfstoffen» wordt gelezen «andere stoffen», 19, 20 met dien verstande dat in het eerste lid, tweede volzin, voor «Artikel 7, tweede lid» wordt gelezen «Artikel 26, zesde lid», 21, eerste, tweede, vierde, vijfde en zesde lid, en 22 van overeenkomstige toepassing.   
+
+### §  3.2  
+
+####Aanvullende bepalingen omtrent het permanent opslaan van CO <sub>2</sub>
+
+### Artikel  31b  
+
+Een aanvraag om een vergunning voor permanent opslaan van CO <sub>2</sub> omvat ten minste de volgende onderwerpen: 
+
+a. het tijdvak van injectie van CO <sub>2</sub> en de omvang van het vergunningsgebied,  
+
+b. een karakterisering van het opslagvoorkomen en het opslagcomplex en een beoordeling van de verwachte veiligheid van de opslag,  
+
+c. de technische en financiële mogelijkheden van de aanvrager,  
+
+d. de totale hoeveelheid CO <sub>2</sub> die zal worden opgeslagen,  
+
+e. de toekomstige bronnen van CO <sub>2</sub> en transportmethoden,  
+
+f. de samenstelling van de CO <sub>2</sub> -stroom,  
+
+g. de maximum toelaatbare snelheid en druk bij injectie van CO <sub>2</sub> en de maximaal toelaatbare druk van de opgeslagen CO <sub>2</sub>,  
+
+h. de ligging van het voorkomen waar CO <sub>2</sub> zal worden opgeslagen,  
+
+i. risicobeheer,  
+
+j. monitoring,  
+
+k. afsluiting,  
+
+l. corrigerende maatregelen,  
+
+m. bodembeweging, en  
+
+n. een omschrijving van de financiële zekerheid of een gelijkwaardige voorziening die gesteld zal worden en een bewijs dat deze rechtsgeldig en daadwerkelijk wordt gesteld voordat met de opslag van CO <sub>2</sub> wordt aangevangen.    
+
+### Artikel  31c  
+
+1.  Onze Minister zendt een aanvraag om een vergunning voor permanent opslaan van CO <sub>2</sub> die voldoet aan artikel 31b met de daarbij behorende stukken binnen een maand na de ontvangst daarvan aan de Europese Commissie.   
+2.  Onze Minister zendt het ontwerp van een vergunning voor permanent opslaan van CO <sub>2</sub> met de daarbij behorende stukken voor advies aan de Europese Commissie binnen zes maanden: 
+
+a. na afloop van de termijn, bedoeld in artikel 26b, derde lid, of  
+
+b. na ontvangst van de aanvraag om de vergunning indien artikel 26a, eerste lid, van toepassing is.     
+3.  Onze Minister neemt een besluit op een aanvraag binnen uiterlijk tien maanden na de ontvangst van de aanvraag.   
+4.  Onze Minister kan de termijnen, genoemd in het tweede en derde lid, eenmaal met ten hoogste zes maanden verlengen.   
+5.  Van een beschikking tot verlening van een vergunning wordt mededeling gedaan in de Staatscourant.   
+6.  Onze Minister zendt afschrift van het besluit omtrent de aanvraag ter kennisneming naar de Europese Commissie. Een afwijking van het advies, bedoeld in het tweede lid, wordt met redenen omkleed.   
+
+### Artikel  31d  
+
+1.  Een vergunning voor permanent opslaan van CO <sub>2</sub> omvat ten minste de volgende onderwerpen: 
+
+a. het tijdvak van injectie van CO <sub>2</sub> en het gebied,  
+
+b. de ligging en begrenzing van het opslagvoorkomen en het gebied van het opslagcomplex,  
+
+c. gegevens met betrekking tot de hydraulische eenheid,  
+
+d. voorschriften voor het opslagproces,  
+
+e. de totale hoeveelheid CO <sub>2</sub> die overeenkomstig de vergunning ten hoogste kan worden opgeslagen,  
+
+f. de grenswaarden van de druk van de opgeslagen CO <sub>2</sub>,  
+
+g. de maximum toelaatbare snelheid en druk bij injectie van CO <sub>2</sub> en de maximaal toelaatbare druk van het opgeslagen CO <sub>2</sub>,  
+
+h. risicobeheer,  
+
+i. monitoring,  
+
+j. afsluiting,  
+
+k. corrigerende maatregelen,  
+
+l. bodembeweging,  
+
+m. de samenstelling van de CO <sub>2</sub> -stroom die wordt opgeslagen met inbegrip van stoffen die worden toegevoegd ten behoeve van de monitoring en de controle van CO <sub>2</sub> -migratie, en  
+
+n. het bedrag aan financiële zekerheid of een gelijkwaardige voorziening.     
+2.  [Afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) met uitzondering van [artikel 3:18](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de voorbereiding van het besluit over een vergunning voor permanent opslaan van CO <sub>2</sub>, voor zover de opslag niet geschiedt in het continentaal plat of onder de territoriale zee in een opslagvoorkomen dat is gelegen aan de zeezijde van de in de bijlage bij deze wet vastgelegde lijn. Zienswijzen kunnen naar voren worden gebracht door een ieder. Afdeling 3.4 van de Algemene wet bestuursrecht is niet van toepassing indien het een besluit betreft inzake wijziging van een besluit omtrent een vergunning als bedoeld in het eerste lid.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen omtrent het eerste lid regels worden gesteld.   
+
+### Artikel  31e  
+
+1.  Een houder van een vergunning voor permanent opslaan voor CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 stelt Onze Minister in kennis van de geplande wijzigingen van de exploitatie van het opslagvoorkomen en de injectiefaciliteiten met bijbehorende bovengrondse voorzieningen.   
+2.  Op een aanvraag van de houder van een vergunning voor permanent opslaan van CO <sub>2</sub> om wijziging van een of meer onderdelen van een verleende vergunning is artikel 31d, eerste lid, voor zover relevant van toepassing.   
+
+### Artikel  31f  
+
+1.  Een houder van een vergunning voor permanent opslaan voor CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 houdt in een register bij de hoeveelheden en kenmerken van de geleverde, opgeslagen en weggelekte CO <sub>2</sub> -stromen met inbegrip van hun samenstelling.   
+2.  Bij ministeriële regeling worden regels gesteld omtrent de inrichting van het register.   
+
+### Artikel  31g  
+
+1.  De houder van een vergunning voor permanent opslaan voor CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 verstrekt ten minste elk jaar aan Onze Minister de volgende gegevens: 
+
+a. de resultaten van de monitoring van de opgeslagen CO <sub>2</sub> met vermelding van de gebruikte technologie,  
+
+b. de hoeveelheden en kenmerken van de geleverde en opgeslagen CO <sub>2</sub> -stromen met vermelding van de samenstelling van deze stromen,  
+
+c. het bewijs dat financiële zekerheid of een gelijkwaardige voorziening is gesteld en aangehouden, en  
+
+d. andere gegevens die Onze Minister van belang acht voor het beoordelen van de belangen genoemd in artikel 27, eerste lid, onderdelen a, b en c, en derde lid, onderdeel b, en voor het vergroten van de kennis van het CO <sub>2</sub> -gedrag in het opslagvoorkomen.     
+2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de gegevens, bedoeld in het eerste lid, en tijdstip van verstrekking.   
+
+### Artikel  31h  
+
+1.  Onze Minister wijzigt waar nodig een vergunning voor permanent opslaan van CO <sub>2</sub> of trekt deze in: 
+
+a. na kennis te hebben genomen van lekkages of significante onregelmatigheden,  
+
+b. indien blijkt dat de vergunningsvoorwaarden niet worden nageleefd of dat er risico is op lekkages of significante onregelmatigheden,  
+
+c. indien dit noodzakelijk blijkt op basis van de meest recente wetenschappelijke bevindingen en technologische vooruitgang, of  
+
+d. indien de gestelde financiële zekerheid of een gelijkwaardige voorziening onvoldoende blijkt te zijn.     
+2.  Beoordeling van de vergunning vindt plaats nadat een periode van vijf jaar na de verlening van de vergunning is verstreken en vervolgens om de tien jaar.   
+
+### Artikel  31i  
+
+1.  Een houder van een vergunning voor permanent opslaan voor CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 sluit een opslagvoorkomen af en verwijdert de injectiefaciliteiten met de bijbehorende bovengrondse voorzieningen indien opslag van CO <sub>2</sub> overeenkomstig de voorschriften van zijn vergunning is beëindigd.   
+2.  Alvorens te beginnen met de afsluiting van het opslagvoorkomen en de verwijdering van de injectiefaciliteiten met de bijbehorende bovengrondse voorzieningen dient de houder of de aangewezen persoon, bedoeld in het eerste lid, een geactualiseerde versie van de documenten, bedoeld in artikel 31d, eerste lid, onderdelen h tot en met l, bij Onze Minister in.   
+3.  De houder of de aangewezen persoon, bedoeld in het eerste lid, vangt niet eerder aan met de afsluiting dan nadat Onze Minister met de geactualiseerde versies heeft ingestemd.   
+
+### Artikel  31j  
+
+1.  Onze Minister trekt een vergunning voor permanent opslaan van CO <sub>2</sub> op eigen beweging of op verzoek van de vergunninghouder in indien: 
+
+a. door de houder van een vergunning voor permanent opslaan voor CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 schriftelijk is aangetoond dat het opgeslagen CO <sub>2</sub> volledig en permanent ingesloten blijft,  
+
+b. het opslagvoorkomen is afgesloten en de injectiefaciliteiten met de bijbehorende bovengrondse voorzieningen zijn verwijderd,  
+
+c. na het tijdstip waarop het opslagvoorkomen is afgesloten en de bijbehorende bovengrondse voorzieningen en injectiefaciliteiten zijn verwijderd een periode van tenminste 20 jaar is verstreken of zoveel korter of langer als naar het oordeel van Onze Minister, gelet op onderdeel a, verantwoord is, en  
+
+d. de houder, bedoeld in onderdeel a, hem een financiële bijdrage ter beschikking heeft gesteld waarmee de voorziene kosten, doch ten minste de geraamde monitoringskosten gedurende een periode van 30 jaar, ingaande op het tijdstip van intrekking worden gedekt.     
+2.  Op het document, bedoeld in het eerste lid, onderdeel a, en een besluit als bedoeld in het eerste lid zijn de artikelen artikel 31c en 31d, tweede lid, van overeenkomstige toepassing.   
+3.  Bij of krachtens algemene maatregel van bestuur worden omtrent het eerste lid regels gesteld.   
+
+### Artikel  31k  
+
+1.  Met ingang van het tijdstip waarop een vergunning ingevolge artikel 31j is ingetrokken, is Onze Minister belast met: 
+
+a. monitoring,  
+
+b. corrigerende maatregelen en  
+
+c. de preventieve en herstelmaatregelen, bedoeld in de [artikelen 17.12](../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [17.13 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md).     
+2.  Indien na het tijdstip, bedoeld in het eerste lid, lekkages van CO <sub>2</sub> plaatsvinden: 
+
+a. meldt Onze Minister de lekkages aan de Nederlandse emissieautoriteit en  
+
+b. levert Onze Minister voor 1 mei van het daarop volgende kalenderjaar ten minste een aantal broeikasgasemissierechten als bedoeld in [artikel 1:1 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) in, dat overeenkomt met de hoeveelheid van de emissie ten gevolge van de lekkages.     
+3.  Met ingang van het tijdstip, bedoeld in het eerste lid, vervalt de verplichting de gestelde financiële zekerheid of een gelijkwaardige voorziening aan te houden.   
+4.  De monitoring betreft het niveau waarop lekkages of significante onregelmatigheden kunnen worden vastgesteld. Indien significante onregelmatigheden of dreiging daarvan worden vastgesteld, intensiveert Onze Minister de monitoring.   
+5.  Onze Minister verhaalt de kosten die samenhangen met het eerste lid en zijn ontstaan na intrekking van de vergunning op de voormalige houder van een vergunning voor permanent opslaan voor CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 voor zover hij niet zorgvuldig heeft gehandeld in de periode voorafgaande aan de intrekking van de opslagvergunning.   
+6.  Bij of krachtens algemene maatregel van bestuur kunnen omtrent het eerste lid, onderdeel a, en het tweede lid regels worden opgesteld.   
+
+### Artikel  31l  
+
+1.  Indien Onze Minister ingevolge artikel 31h, eerste lid, een vergunning intrekt, zet hij de werkzaamheden met betrekking tot opslag voort in overeenstemming met de voorschriften die verbonden zijn aan de vergunning en artikel 31f, totdat hij opnieuw een vergunning voor permanent opslaan van CO <sub>2</sub> heeft verleend.   
+2.  Indien in afwijking van het eerste lid geen nieuwe vergunning wordt verleend sluit Onze Minister het opslagvoorkomen af en verwijdert de injectiefaciliteiten met de bijbehorende bovengrondse voorzieningen in overeenstemming met de voorschriften van de vergunning.   
+3.  Indien het eerste dan wel tweede lid toepassing vindt, actualiseert Onze Minister zo nodig de documenten, bedoeld in artikel 31d, eerste lid, onderdelen h tot en met l.   
+4.  De kosten die Onze Minister bij toepassing van het eerste tot en met derde lid maakt of heeft gemaakt, verhaalt hij op de voormalige houder van een vergunning voor permanent opslaan voor CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22. Indien geen verhaal mogelijk is, verhaalt Onze Minister de kosten op de door de voormalige vergunninghouder gestelde financiële zekerheid of een gelijkwaardige voorziening.   
+5.  Onze Minister stelt in de periode die aanvangt met de intrekking van een vergunning de financiële zekerheid of een gelijkwaardige voorziening periodiek bij.   
+6.  De door de voormalige vergunninghouder gestelde financiële zekerheid of een gelijkwaardige voorziening vervalt wanneer alle beschikbare gegevens naar het oordeel van Onze Minister aantonen dat het opgeslagen CO <sub>2</sub> volledig en permanent ingesloten blijft na betaling van de kosten, bedoeld in het vierde lid, die nog niet door de voormalige houder of de aangewezen persoon, bedoeld in het vierde lid, zijn betaald, en de kosten die Onze Minister naar redelijke verwachting gedurende een aansluitende periode van 30 jaar zal moeten maken, waaronder kosten van monitoring.   
+7.  Indien de kosten als bedoeld in het zesde lid meer bedragen dan de financiële zekerheid of een gelijkwaardige voorziening verhaalt Onze Minister deze meerdere kosten op de voormalige houder of aangewezen persoon.   
+8.  Indien het eerste of tweede lid van toepassing is, is Onze Minister belast met het inleveren van rechten als bedoeld in artikel 31k, tweede lid.   
+
+### Artikel  31m  
+
+Onze Minister houdt een register bij van de verleende vergunningen voor permanent opslaan van CO <sub>2</sub> en het afgesloten opslagvoorkomen en omliggende opslagcomplexen inclusief informatie aan de hand waarvan kan worden beoordeeld of de opgeslagen CO <sub>2</sub> volledig en permanent ingesloten is.  
+
+### Artikel  31n  
+
+Onze Minister draagt er zorg voor dat de milieu-informatie over permanent opslaan van CO <sub>2</sub> voor een ieder toegankelijk is. [Artikel 10 van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) is van overeenkomstige toepassing.  
+
 ### Artikel  32  
 
-Ten aanzien van een opslagvergunning zijn de artikelen 14, 17, 19, 21, met uitzondering van het vierde lid, en 22 van overeenkomstige toepassing.  
+1.  Een houder van een vergunning voor permanent opslaan voor CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 en een exploitant van een transportnetwerk zijn verplicht op voorwaarden die redelijk, transparant en niet-discriminerend zijn voor degene die daarom verzoekt CO <sub>2</sub> in zijn opslagvoorkomen op te slaan respectievelijk door zijn transportnetwerk te transporteren.   
+2.  Een houder en een exploitant als bedoeld in de eerste volzin kunnen het verzoek om opslag of transport weigeren op grond van een gebrek aan capaciteit, verbindingsmogelijkheden of onverenigbaarheid van technische specificaties.   
+3.  Beroep op een gebrek aan capaciteit of verbindingsmogelijkheden kan niet worden gedaan indien de houder en de exploitant het gebrek kunnen opheffen met het uitvoeren van de nodige capaciteitsverhogende werkzaamheden voor zover dit economisch verantwoord is of de verzoeker bereid is de werkzaamheden te betalen en de uit te voeren werkzaamheden geen negatief effect hebben op de milieuveiligheid van het transport en de opslag van CO <sub>2</sub>.   
+4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent het eerste lid.   
 
 ### Hoofdstuk  3a  
 
@@ -436,15 +659,16 @@ b. in verband met het risico van schade ten gevolge van beweging van de aardbode
 
 ### Artikel  39  
 
-De artikelen 34 tot en met 38 zijn van overeenkomstige toepassing op: 
+1.  De artikelen 34 tot en met 38 zijn van overeenkomstige toepassing op: 
 
 a. het winnen van aardwarmte, en  
 
-b. het opslaan van stoffen.    
+b. het opslaan van stoffen.     
+2.  Het eerste lid blijft buiten toepassing voor zover hoofdstuk 3, paragraaf 3.2, toepassing vindt.   
 
 ### Artikel  39a  
 
-Binnen een termijn van twaalf maanden, nadat een opslagvergunning onherroepelijk is geworden, dient de houder van de opslagvergunning of de krachtens artikel 22 aangewezen persoon een opslagplan in bij Onze Minister.  
+Binnen een termijn van twaalf maanden, nadat een opslagvergunning onherroepelijk is geworden, dient de houder van de opslagvergunning of de krachtens artikel 22 aangewezen persoon een opslagplan als bedoeld in artikel 39 in bij Onze Minister.  
 
 ### Artikel  40  
 
@@ -522,6 +746,7 @@ b. de [artikelen 2.25, eerste lid](../../../wet/wet/algemene/bepalingen/omgeving
 
 1.  Onze Minister kan bepalen dat zekerheid gesteld dient te worden voor de nakoming van hetgeen verschuldigd zal worden, ingeval hij een last onder bestuursdwang oplegt ter handhaving van de bij of krachtens deze wet gestelde verplichtingen ten aanzien van het verwijderen of achterlaten, dan wel het na verwijdering slopen of hergebruiken van niet meer in gebruik zijnde mijnbouwinstallaties.   
 2.  De artikelen 41, vierde lid, en 46, derde lid, zijn van overeenkomstige toepassing.   
+3.  In afwijking van het tweede lid rust de door Onze Minister te stellen zekerheid als bedoeld in het eerste lid op de houder van een vergunning voor permanent opslaan van CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22.   
 
 ### Artikel  48  
 
@@ -546,7 +771,9 @@ d. het instellen van een verkenningsonderzoek;
 
 e. boorgaten, anders dan ten behoeve van het opsporen of winnen van delfstoffen of aardwarmte dan wel het opslaan van stoffen, dieper dan 500 meter beneden de oppervlakte van de aardbodem;  
 
-f. pijpleidingen en kabels die worden gebruikt ten behoeve van het opsporen of winnen van delfstoffen of aardwarmte, dan wel ten behoeve van het opslaan van stoffen.     
+f. pijpleidingen en kabels die worden gebruikt ten behoeve van het opsporen of winnen van delfstoffen of aardwarmte, dan wel ten behoeve van het opslaan van stoffen;  
+
+g. de stoffen die samen met CO <sub>2</sub>, worden getransporteerd en opgeslagen.     
 2.  De in het eerste lid bedoelde regels kunnen worden gesteld ten behoeve van: 
 
 a. een planmatig beheer van voorkomens van delfstoffen, aardwarmte en andere natuurlijke rijkdommen;  
@@ -1224,6 +1451,7 @@ c. degene bij wie schade is te verwachten door bodembeweging die redelijkerwijs 
 
 d. degene bij wie zaakschade is opgetreden door bodembeweging die redelijkerwijs het gevolg kan zijn van mijnbouwactiviteiten, desgevraagd advies te geven omtrent het verband tussen die schade en de mijnbouwactiviteiten alsmede de hoogte van het schadebedrag.     
 3.  Onze Minister vraagt in elk geval advies aan de commissie voordat hij op grond van artikel 46 een bedrag waarvoor zekerheid moet worden gesteld, vaststelt of wijzigt.   
+4.  De commissie brengt aan Onze Minister advies uit omtrent bodembeweging als bedoeld artikel 31b, onderdeel m.   
 
 ### Artikel  115  
 
@@ -1304,6 +1532,7 @@ c. de houders van de verleende vergunningen voor koolwaterstoffen en de samenste
 
 d. de geraamde reserves aan koolwaterstoffen.     
 2.  Onze Minister zendt het in het eerste lid bedoelde verslag tevens aan de beide kamers der Staten-Generaal en legt het voor een ieder ter inzage. Hij doet van deze terinzagelegging mededeling in de Staatscourant.   
+3.  Onze Minister zendt aan de Commissie van de Europese Gemeenschappen om de drie jaar een verslag over het register, bedoeld in artikel 31m, en andere door de Commissie opgevraagde informatie.   
 
 ### Artikel  125  
 
@@ -1341,7 +1570,8 @@ f. de winningsplannen, als bedoeld in artikel 34, die zijn ingediend en waarvoor
 
 ### Artikel  127  
 
-Het Staatstoezicht op de mijnen heeft tot taak het toezien op het verrichten van verkenningsonderzoeken, op het opsporen en het winnen van delfstoffen en aardwarmte en op het opslaan van stoffen.  
+1.  Het Staatstoezicht op de mijnen heeft tot taak het toezien op het verrichten van verkenningsonderzoeken, op het opsporen en het winnen van delfstoffen en aardwarmte en op het opslaan van stoffen.   
+2.  De inspecteur-generaal der mijnen stelt na elke inspectie, verricht in het kader van paragraaf 3.2 een verslag op over de naleving van de voorschriften en de voorgeschreven maatregelen. Het verslag wordt ter kennis gebracht van de betrokken houder van een vergunning voor permanent opslaan voor CO <sub>2</sub> of, indien de vergunning door meerdere personen wordt gehouden, een aangewezen persoon als bedoeld in artikel 22 en binnen twee maanden na de inspectie openbaar gemaakt.   
 
 ### Artikel  128  
 

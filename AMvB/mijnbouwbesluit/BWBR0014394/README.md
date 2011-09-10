@@ -48,7 +48,7 @@ c. werken voor het opslaan van stoffen en het terughalen van opgeslagen stoffen 
 
 1°. water ten behoeve van het opslaan van warmte of koude op een diepte van ten hoogste van 500 meter;  
 
-2°. water ten behoeve van drinkwatervoorziening als bedoeld in de [Waterleidingwet](../../../wet/waterleidingwet/BWBR0002246/README.md);    
+2°. water ten behoeve van drinkwatervoorziening als bedoeld in de [Drinkwaterwet](../../../wet/drinkwaterwet/BWBR0026338/README.md);    
 
 d. werken voor het bewerken van gewonnen delfstoffen of aardwarmte voor het punt van aflevering aan de afnemer;  
 
@@ -323,6 +323,7 @@ f. een beschrijving van de wijze waarop het voorkomen na beëindiging van de ops
 
 g. een risico-analyse omtrent bodembeweging als gevolg van de opslag.     
 2.  Artikel 24, eerste lid, onderdelen d tot en met g, en onderdelen l, q, r en s, alsmede artikel 24, tweede lid, zijn van overeenkomstige toepassing, met dien verstande dat het eerste lid, onderdeel g, en de onderdelen q, r en s niet van toepassing zijn op voorkomens die gelegen zijn aan de zeezijde van de lijn die in de bijlage bij de wet is vastgelegd.   
+3.  Dit artikel is niet van toepassing indien § 3.5 van dit besluit van toepassing is.   
 
 ### Artikel  27  
 
@@ -365,6 +366,187 @@ f. water ten behoeve van drinkwatervoorziening als bedoeld in de [Waterleidingwe
 ### Artikel  29  
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de inhoud van het winningsplan, bedoeld in de artikelen 24 en 25, en het plan voor het opslaan van stoffen als bedoeld in artikelen 26 en 27.  
+
+### §  3.5  
+
+####Aanvullende bepalingen voor permanent opslaan en transport van CO <sub>2</sub>
+
+### Artikel  29a  
+
+In deze paragraaf wordt verstaan onder: 
+
+a. *lekkage:* het weglekken van CO <sub>2</sub> uit het CO <sub>2</sub> -opslagvoorkomen;  
+
+b. *significant risico:* een combinatie van een waarschijnlijkheid van het zich voordoen van schade en een omvang van schade die niet kan worden genegeerd;  
+
+c. *significante onregelmatigheid:* een onregelmatigheid bij de injectie- of opslagwerkzaamheden of in de toestand van het CO <sub>2</sub> -opslagcomplex zelf die het risico van lekkage doet ontstaan of een risico voor het milieu of de volksgezondheid oplevert;  
+
+d. *richtlijn nr. 2009/31/EG:* richtlijn nr. 2009/31/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende de geologische opslag van kooldioxide en tot wijziging van richtlijn 85/337/EEG van de Raad, de richtlijnen 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG en 2008/1/EG en verordening (EG) nr. 1013/2006 (PbEG L 140) van het Europese Parlement en de Raad.    
+
+### Artikel  29b  
+
+Bij ministeriële regeling kunnen voor een vergunning voor permanent opslaan van CO <sub>2</sub> regels worden gesteld omtrent: 
+
+a. het tijdvak van injectie van CO <sub>2</sub> en het gebied;  
+
+b. de ligging en begrenzing van het opslagvoorkomen en het gebied van het opslagcomplex;  
+
+c. gegevens met betrekking tot de hydraulische eenheid;  
+
+d. voorschriften voor het opslagproces;  
+
+e. de totale hoeveelheid CO <sub>2</sub> die overeenkomstig de vergunning ten hoogste kan worden opgeslagen;  
+
+f. de grenswaarden van de druk van de opgeslagen CO <sub>2</sub>;  
+
+g. de maximum toelaatbare snelheid en druk bij injectie van CO <sub>2</sub> en de maximaal toelaatbare druk van het opgeslagen CO <sub>2</sub>.    
+
+### Artikel  29c  
+
+1.  Onze Minister verbindt aan de vergunning voor permanent opslaan van CO <sub>2</sub> het voorschrift risicobeheer als bedoeld in [artikel 31d, eerste lid, onderdeel h, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md), op te nemen in een risicobeheerplan.   
+2.  Het risicobeheerplan bevat ten minste een beschrijving van maatregelen te nemen om het risico van een significante onregelmatigheid en de mogelijke gevolgen daarvan zoveel mogelijk te beperken en voldoet aan Bijlage I, fase 3.3. van de richtlijn nr. 2009/31/EG.   
+
+### Artikel  29d  
+
+1.  Onze Minister verbindt aan de vergunning voor permanent opslaan van CO <sub>2</sub> het voorschrift corrigerende maatregelen als bedoeld in [artikel 31d, eerste lid, onderdeel k, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) uit te voeren volgens een plan.   
+2.  Het plan bevat ten minste een beschrijving van maatregelen om tijdens de injectie van CO <sub>2</sub> en gedurende de verdere opslag significante onregelmatigheden te corrigeren of lekken te dichten teneinde lekkage te voorkomen of te doen ophouden.   
+
+### Artikel  29e  
+
+1.  De uitvoerder neemt onmiddellijk passende maatregelen op basis van het plan, bedoeld in artikel 29d, zodra zich een lekkage of significante onregelmatigheid voordoet.   
+2.  Zodra zich een significante onregelmatigheid of lekkage voordoet, meldt de uitvoerder dit onmiddellijk bij de inspecteur-generaal der mijnen en verstrekt hem zo spoedig mogelijk gegevens over: 
+
+a. de oorzaken van de significante onregelmatigheid of lekkage;  
+
+b. de aard en de ernst van de gevolgen van de significante onregelmatigheid of lekkage;  
+
+c. de maatregelen die zijn genomen of worden overwogen om de significante onregelmatigheid of lekkage te voorkomen, te beperken of ongedaan te maken;  
+
+d. de maatregelen die worden overwogen om te voorkomen dat een significante onregelmatigheid of een lekkage zich nogmaals kan voordoen.     
+3.  In geval van een lekkage of significante onregelmatigheid die een lekkagerisico inhoudt, stelt de uitvoerder de Nederlandse emissieautoriteit daarvan onmiddellijk op de hoogte.   
+
+### Artikel  29f  
+
+1.  Onze Minister verbindt aan de vergunning voor permanent opslaan van CO <sub>2</sub> het voorschrift monitoring als bedoeld in [artikel 31d, eerste lid, onderdeel i, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) uit te voeren volgens het monitoringsplan.   
+2.  Het monitoringsplan omvat de wijze van de monitoring van: 
+
+a. de injectiefaciliteiten,  
+
+b. het opslagcomplex en  
+
+c. het milieu in de directe nabijheid van het opslagcomplex, en is in overeenstemming met Bijlage II, onderdeel 1.1., van de richtlijn nr. 2009/31/EG.     
+3.  Het monitoringsplan heeft betrekking op de periode die aanvangt op het tijdstip van inwerkingtreding van een vergunning voor het permanent opslaan van CO <sub>2</sub> en eindigt op het tijdstip waarop de vergunning op grond van [artikel 31j van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) wordt ingetrokken.   
+4.  De keuze van de monitoringstechnologie in het monitoringsplan wordt gebaseerd op de beste praktijken die bij het opstellen van de ontwerp-vergunning beschikbaar zijn.   
+5.  Voorts wordt aan de vergunning het voorschrift verbonden het monitoringsplan drie maanden voor aanvang van de injectie van CO <sub>2</sub>  te actualiseren en om de vijf jaar te actualiseren op basis van wijzigingen in het beoordeelde lekkagerisico, wijzigingen in de beoordeelde risico’s voor het milieu en de volksgezondheid, nieuwe wetenschappelijk kennis en verbeteringen inzake de best beschikbare techniek. Het geactualiseerde monitoringsplan wordt ter goedkeuring voorgelegd aan Onze Minister. De monitoring wordt uitgevoerd volgens het goedgekeurde monitoringsplan.   
+
+### Artikel  29g  
+
+1.  Het document, bedoeld in [artikel 31i, tweede lid, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) met betrekking tot afsluiting bevat ten minste: 
+
+1°. voor zover het mijnbouwwerken, niet zijnde mijnbouwinstallaties, betreft: 
+
+a. een werkprogramma voor het buiten gebruik stellen van de boorgaten;  
+
+b. een beschrijving van de wijze waarop bij het mijnbouwwerk behorend materiaal zal worden afgevoerd;  
+
+c. een beschrijving van op het mijnbouwwerk aanwezige afvalstoffen en de bestemming ervan;  
+
+d. een beschrijving van de maatregelen die worden genomen ter voorkoming van schade;  
+
+e. een beschrijving van de maatregelen die worden genomen om het terrein waarop het mijnbouwwerk is opgericht in de oorspronkelijke staat terug te brengen.    
+
+2°. voor zover het mijnbouwinstallaties betreft: 
+
+a. een werkprogramma voor het buiten gebruik stellen van de boorgaten;  
+
+b. de wijze waarop het verwijderen van de mijnbouwinstallatie en van schroot en ander materiaal als bedoeld in [artikel 44, tweede lid, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) plaats zal vinden;  
+
+c. de wijze waarop zal worden aangetoond dat de plaats waarop de mijnbouwinstallatie op de zeebodem stond vrij van schroot en ander materiaal is;  
+
+d. de wijze waarop de mijnbouwinstallatie en het schroot en ander materiaal zal worden afgevoerd;  
+
+e. de eindbestemming van de mijnbouwinstallatie, de onderdelen ervan en schroot en ander materiaal en  
+
+f. de op de mijnbouwinstallatie aanwezige afvalstoffen en andere stoffen en de eindbestemming daarvan.       
+2.  Voorts bevat het plan gegevens omtrent de tijdstippen waarop de onderdelen van de afsluiting worden uitgevoerd.   
+
+### Artikel  29h  
+
+1.  Onze Minister verbindt aan de vergunning voor permanent opslaan van CO <sub>2</sub> het voorschrift activiteiten ter voorkoming of beperking van schade door bodembeweging als bedoeld in [artikel 31d, eerste lid, onderdeel l, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) uit te voeren volgens een plan.   
+2.  Het plan omvat ten minste: 
+
+a. een kaart met daarop de contouren van de verwachte uiteindelijk mate van bodemdaling of -stijging,  
+
+b. een overzicht met het verloop van de verwachte mate van bodemdaling of -stijging in de tijd,  
+
+c. een opgaaf van de onzekerheid omtrent de verwachte mate van bodembeweging als bedoeld in de onderdelen b en c,  
+
+d. een risico-analyse omtrent bodemtrillingen als gevolge van de opslag,  
+
+e. een beschrijving van de mogelijk omvang en verwachte aard van de schade door bodembeweging,  
+
+f. een beschrijving van de maatregelen die worden genomen om bodembeweging te voorkomen of te beperken, en  
+
+g. een beschrijving van de maatregelen die worden genomen om schade door bodembeweging te voorkomen of te beperken.     
+3.  Dit artikel is niet van toepassing op opslagvoorkomens die gelegen zijn aan de zeezijde van de lijn die in de [bijlage bij de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) is vastgelegd.   
+
+### Artikel  29i  
+
+1.  Het is verboden bij het permanent opslaan van CO <sub>2</sub> en het transporteren van CO <sub>2</sub> door een transportnetwerk als bedoeld in [artikel 32, eerste lid, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) naast CO <sub>2</sub> andere stoffen op te slaan en te transporteren dan: 
+
+a. incidentele aanverwante stoffen, afkomstig uit de CO <sub>2</sub> -bron of het afvang- of injectieproces,  
+
+b. stoffen die nodig zijn voor transport of opslag in het opslagvoorkomen of  
+
+c. spoorelementen die aan het CO <sub>2</sub> zijn toegevoegd als hulpmiddel bij het monitoren en het controleren van de beweging van CO <sub>2</sub> binnen het CO <sub>2</sub> -opslagcomplex.     
+2.  De concentratie van de stoffen, bedoeld in het eerste lid, onderdelen a tot en met c, mag geen niveaus overschrijden die de integriteit van het opslagvoorkomen of het relevante transportnetwerk in het gedrang brengen of een significant risico voor het milieu of de volksgezondheid vormen.   
+3.  Het CO <sub>2</sub> en de stoffen, bedoeld in het eerste lid, onderdelen a tot en met c, worden niet eerder opgeslagen dan nadat de uitvoerder heeft vastgesteld dat deze voldoen aan het tweede lid.   
+
+### Artikel  29j  
+
+1.  De vergunning bepaalt het bedrag waarvoor financiële zekerheid wordt gesteld voor het jaar waarin injectie volgens de aanvraag zal aanvangen en voor elk van de daaropvolgende vier jaren. Het bedrag voor het vierde jaar blijft voor opvolgende jaren van toepassing zolang het niet is aangepast.   
+2.  Het bedrag wordt per jaar vastgesteld op het totaal van: 
+
+a. een raming van de kosten van verwerving van broeikasgasemissierechten als bedoeld in [artikel 1.1 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md), uitgaande van emissie als gevolg van ongecontroleerde uitstroom van CO <sub>2</sub> gedurende de laatste drie maanden van het desbetreffende jaar;  
+
+b. een raming van de kosten van de uitvoering van het risicobeheerplan, genoemd in artikel 29c, uitgaande van uitvoering gedurende twee jaar;  
+
+c. een raming van de kosten van het nemen van de maatregel of maatregelen uit het plan met betrekking tot corrigerende maatregelen, bedoeld in artikel 29d, uitgaande van de meest ingrijpende in het plan voorziene maatregel of maatregelen;  
+
+d. een raming van de tot intrekking van de vergunning nog te maken kosten van uitvoering van het monitoringsplan, genoemd in artikel 29f, uitgaande van intrekking van de vergunning twintig jaar na afsluiting;  
+
+e. een raming van de kosten van uitvoering van het afsluitingsplan, bedoeld in artikel 29g;  
+
+f. een raming van de financiële bijdrage, bedoeld in [artikel 31j, eerste lid, onderdeel d, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md).     
+3.  De vorm waarin de zekerheid wordt gesteld behoeft de voorafgaande instemming van Onze Minister. De vergunninghouder doet hiertoe ten minste zes maanden voordat de zekerheid gesteld zal worden een aanvraag. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag.   
+4.  Onze Minister stemt in indien de zekerheid  in zodanige vorm is gesteld dat naar het oordeel van Onze Minister vaststaat dat de Staat daarmee gedurende de gehele periode alle verplichtingen, bedoeld in het tweede lid, zo nodig ook zelf kan nakomen ten laste van de vergunninghouder. Onder financiële zekerheid in dit artikel wordt eveneens verstaan een uit oogpunt van zekerheid voor de Staat gelijkwaardige voorziening.   
+5.  Voor aanvang van injectie van CO <sub>2</sub> toont de vergunninghouder Onze Minister aan dat de zekerheid in overeenstemming met de [wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) en dit artikel is gesteld.   
+6.  Onverminderd [artikel 31h, eerste lid, onder d, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md), beziet Onze Minister op de voet van het tweede lid telkens na vijf jaar gerekend vanaf verlening van de vergunning de hoogte van het bedrag voor de eerstkomende vijf jaar. Het bedrag dat voor het laatste jaar in de vergunning is vastgesteld blijft voor opvolgende jaren van toepassing zolang het niet is aangepast. De vergunninghouder verstrekt Onze Minister uiterlijk drie maanden voor afloop van een vijfjaarstermijn de voor de ramingen, bedoeld in het tweede lid, benodigde gegevens vergezeld van adequate cijfermatige onderbouwing en toelichting.   
+7.  De vergunninghouder staakt injectie van CO <sub>2</sub> zodra voortgaande injectie zou leiden tot een hoeveelheid opgeslagen CO <sub>2</sub> die meer dan 15% hoger is dan de hoeveelheid die betrokken is in de raming, bedoeld in het tweede lid onder a, voor de vaststelling van de hoogte van het bedrag waarvoor op dat moment zekerheid is gesteld.   
+8.  Onze Minister kan bij ministeriële regeling nadere maatstaven voor raming van kosten als bedoeld in het tweede lid vaststellen.   
+
+### Artikel  29k  
+
+De uitvoerder verstrekt Onze Minister jaarlijks voor 1 april: 
+
+a. de resultaten van de monitoring van het opgeslagen CO <sub>2</sub> over het daaraan voorafgaande kalenderjaar met vermelding van de gebruikte technologie,  
+
+b. het bewijs dat financiële zekerheid of een gelijkwaardige voorziening is gesteld en aangehouden en  
+
+c. wijzigingen in de financiële en technische mogelijkheden van de vergunninghouder.    
+
+### Artikel  29l  
+
+1.  Indien de uitvoerder een verzoek doet om het intrekken van een vergunning voor permanent opslaan van CO <sub>2</sub> als bedoeld in [artikel 31j van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) overlegt hij aan Onze Minister: 
+
+a. gegevens waaruit blijkt dat het opgeslagen CO <sub>2</sub> volledig en permanent ingesloten blijft,  
+
+b. een voorstel voor een financiële bijdrage als bedoeld in [artikel 31j, eerste lid, onderdeel d, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) die de uitvoerder zal betalen bij de intrekking van de vergunning.     
+2.  De financiële bijdrage, bedoeld in het eerste lid, houdt rekening met de in bijlage I van de richtlijn 2009/31/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende de geologische opslag van kooldioxide en tot wijziging van richtlijn 85/337/EEG van de Raad, de richtlijnen 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG en 2008/1/EG en verordening (EG) nr. 1013/2006 (PbEG L 140) van het Europese Parlement en de Raad bedoelde parameters en elementen inzake de voorgeschiedenis van de opslag van CO <sub>2</sub> die relevant zijn voor het bepalen van de verplichtingen die na de overdracht gelden en dekt tenminste de geraamde monitoringskosten voor een periode van 30 jaar na het intrekken van de vergunning.   
+
+### Artikel  29m  
+
+Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de artikelen 29c tot en met 29h, tweede lid, en 29i tot en met 29l.  
 
 ### Hoofdstuk  4  
 
@@ -485,7 +667,7 @@ e. licht brandbare gewassen.
 2.  Het sluitingsplan behoeft de instemming van Onze Minister. De instemming kan worden verleend onder beperkingen of daaraan kunnen voorschriften worden verbonden in verband met risico op schade.   
 3.  Onze Minister beslist over het sluitingsplan binnen dertien weken na de indiening ervan.   
 4.  De instemming is van rechtswege gegeven, indien Onze Minister niet binnen de instemmingstermijn een beslissing heeft genomen. De instemming van rechtswege wordt voor de mogelijkheid van bezwaar en beroep gelijkgesteld met een besluit als bedoeld in [artikel 1:3, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-5.  Op een geheel of gedeeltelijk voor de opslag bestemd mijnbouwwerk is het eerste tot en met derde lid van overeenkomstige toepassing.   
+5.  Op een geheel of gedeeltelijk voor de opslag bestemd mijnbouwwerk met uitzondering van een mijnbouwwerk voor permanent opslaan van CO <sub>2</sub> is het eerste tot en met derde lid van overeenkomstige toepassing.   
 
 ### Artikel  40  
 
@@ -687,7 +869,7 @@ Wanneer een uitvoerder voornemens is een voor de opsporing bestemde mijnbouwinst
 2.  De uitvoerder zendt het verwijderingsplan, vergezeld van een verklaring van een onafhankelijke deskundige waarin het plan wordt beoordeeld, uiterlijk acht weken voor de verwijdering ter instemming aan Onze Minister.   
 3.  Onze Minister kan zijn instemming met het opgestelde verwijderingsplan slechts weigeren in verband met het risico op schade.   
 4.  De instemming is van rechtswege gegeven, indien Onze Minister niet binnen de instemmingtermijn van acht weken of voor de afloop van de verlengingstermijn een beslissing heeft genomen. De instemming van rechtswege wordt voor de mogelijkheid van bezwaar en beroep gelijkgesteld met een besluit als bedoeld in [artikel 1:3, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-5.  Op een geheel of gedeeltelijk voor de opslag bestemde mijnbouwinstallatie is het eerste tot en met derde lid van overeenkomstige toepassing.   
+5.  Op een geheel of gedeeltelijk voor de opslag bestemde mijnbouwinstallatie met uitzondering van een mijnbouwinstallatie voor permanent opslaan van CO <sub>2</sub> is het eerste tot en met derde lid van overeenkomstige toepassing.   
 
 ### Artikel  61  
 
@@ -772,11 +954,12 @@ Een boorgat wordt niet eerder voor winning van delfstoffen of opslag van stoffen
 
 ### Artikel  72  
 
-Een boorgat wordt niet eerder buiten werking gesteld dan nadat: 
+1.  Een boorgat wordt niet eerder buiten werking gesteld dan nadat: 
 
 a. voldoende maatregelen zijn genomen ter voorkoming van schade, en  
 
-b. de delfstofhoudende lagen en de delfstofafzettingen, voor zover daaraan door water schade kan worden toegebracht, waterdicht zijn afgesloten.    
+b. de delfstofhoudende lagen en de delfstofafzettingen, voor zover daaraan door water schade kan worden toegebracht, waterdicht zijn afgesloten.     
+2.  Het eerste lid is niet van toepassing op het buiten gebruik stellen van een boorgat dat is gebruikt voor het permanent opslaan van CO <sub>2</sub>.   
 
 ### Artikel  73  
 
@@ -796,6 +979,7 @@ c. het in artikel 72 bedoelde buiten werking stellen.
 
 1.  Het aanleggen, onderhouden, repareren of buiten gebruik stellen van een boorgat geschiedt overeenkomstig een door de uitvoerder opgesteld werkprogramma.   
 2.  De uitvoerder informeert de inspecteur-generaal der mijnen ten minste zeven dagen voor het tijdstip waarop met onderhoudswerkzaamheden van een boorgat wordt aangevangen.   
+3.  Het eerste lid is niet van toepassing op het buiten gebruik stellen van een boorgat dat is gebruikt voor het permanent opslaan van CO <sub>2</sub>.   
 
 ### Artikel  75  
 
@@ -1242,7 +1426,7 @@ j. de gegevens, bedoeld in artikel 24, eerste lid, onderdelen b en k, voor zover
 
 ### Artikel  117  
 
-Onze Minister kan, zolang de termijnen van artikel 116 niet zijn verlopen, de in dat artikel bedoelde gegevens ter beschikking stellen aan de Mijnraad, de Technische commissie bodembeweging en de in [artikelen 81, onderdeel a](../../../wet/mijnbouwwet/BWBR0014168/README.md), respectievelijk [89, onderdeel a, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) bedoelde vennootschap, voor zover deze gegevens worden gebruikt voor de volgende doeleinden: 
+Onze Minister kan, zolang de termijnen van artikel 116 niet zijn verlopen, de in dat artikel bedoelde gegevens ter beschikking stellen aan de Mijnraad, de Technische commissie bodembeweging en de in [artikel 81, onderdeel a, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) bedoelde vennootschap bedoelde vennootschap, voor zover deze gegevens worden gebruikt voor de volgende doeleinden: 
 
 a. het adviseren van Onze Minister inzake verkenningsonderzoek, het opsporen of winnen van delfstoffen of aardwarmte en het opslaan van stoffen in de ondergrond;  
 
@@ -1426,15 +1610,13 @@ Een aanvraag om splitsing wordt niet ingewilligd indien dat ertoe leidt dat een 
 
 ### Artikel  138  
 
-Een opsporingsvergunning wordt niet samengevoegd met een winningsvergunning of een opslagvergunning. Een winningsvergunning wordt niet samengevoegd met een opslagvergunning.  
-
-### Artikel  139  
-
-Een aanvraag om samenvoeging van twee of meerdere vergunningen wordt slechts ingewilligd, indien deze vergunningen dezelfde delfstoffen betreffen.  
+1.  Vergunningen voor opsporen, winnen of opslaan van bepaalde stoffen worden uitsluitend samengevoegd met vergunningen voor opsporen, winnen onderscheidenlijk opslaan van dezelfde stoffen.   
+2.  Vergunningen voor opsporen en winnen van aardwarmte worden uitsluitend samengevoegd met vergunningen voor opsporen onderscheidenlijk winnen van aardwarmte.   
+3.  Vergunningen voor opsporen van CO <sub>2</sub> -complexen worden uitsluitend samengevoegd met vergunningen voor opsporen van CO <sub>2</sub> -complexen.   
 
 ### Artikel  140  
 
-Een aanvraag om samenvoeging van twee of meerdere vergunningen wordt slechts ingewilligd, indien de voorwaarden van de desbetreffende totstandgekomen overeenkomsten, bedoeld in [artikel 82](../../../wet/mijnbouwwet/BWBR0014168/README.md) respectievelijk [artikel 90 van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md), gelijkluidend zijn.  
+Een aanvraag om samenvoeging van twee of meerdere vergunningen wordt slechts ingewilligd, indien de voorwaarden van de desbetreffende totstandgekomen overeenkomsten, bedoeld in [artikel 81, onderdeel d](../../../wet/mijnbouwwet/BWBR0014168/README.md), respectievelijk artikel 81, onderdeel e, van de wet, gelijkluidend zijn.  
 
 ### §  9.4  
 
@@ -1452,9 +1634,9 @@ Een aanvraag om samenvoeging van twee of meerdere vergunningen wordt slechts ing
 
 ### Artikel  143  
 
-1.  Indien ten aanzien van de te splitsen vergunning of één van de samen te voegen vergunningen een overeenkomst als bedoeld in [artikel 87](../../../wet/mijnbouwwet/BWBR0014168/README.md) of [93 van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) tot stand is gekomen, verlenen de in die artikelen bedoelde vennootschap en de vergunninghouders van de op grond van artikel 135 of  137 te verlenen vergunning of vergunningen medewerking aan de totstandkoming van een overeenkomst waarvan de voorwaarden gelijkluidend zijn aan die van eerder bedoelde overeenkomst.   
+1.  Indien ten aanzien van de te splitsen vergunning of één van de samen te voegen vergunningen een overeenkomst als bedoeld in [artikel 81, onderdeel d](../../../wet/mijnbouwwet/BWBR0014168/README.md), respectievelijk artikel 81, onderdeel e, van de wet tot stand is gekomen, verleent de in artikel 81, onderdeel a, bedoelde vennootschap en de vergunninghouders van de op grond van artikel 135 of 137 te verlenen vergunning of vergunningen medewerking aan de totstandkoming van een overeenkomst waarvan de voorwaarden gelijkluidend zijn aan die van eerder bedoelde overeenkomst.   
 2.  De in het eerste lid laatstbedoelde overeenkomst behoeft de instemming van Onze Minister.   
-3.  Tot het tijdstip waarop de instemming wordt verleend, verricht de vergunninghouder geen winningswerkzaamheden. Tot dat tijdstip behoeven besluiten als bedoeld in de [artikelen 87, onderdeel c](../../../wet/mijnbouwwet/BWBR0014168/README.md), en [95, tweede lid, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) de instemming van de aangewezen vennootschap.   
+3.  Tot het tijdstip waarop de instemming wordt verleend, verricht de vergunninghouder geen winningswerkzaamheden. Tot dat tijdstip behoeven besluiten als bedoeld in de [artikelen 91, onderdeel c](../../../wet/mijnbouwwet/BWBR0014168/README.md), en [97, tweede lid, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) de instemming van de aangewezen vennootschap.   
 4.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op het verzoek tot instemming, bedoeld in het tweede lid.   
 
 ### Artikel  144  

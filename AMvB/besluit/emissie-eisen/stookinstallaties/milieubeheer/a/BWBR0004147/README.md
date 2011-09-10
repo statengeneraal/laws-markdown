@@ -26,7 +26,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 a. wet: [Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
 
-b. inrichting: een inrichting die behoort tot een of meer van de categorieën van inrichtingen, die zijn genoemd in [bijlage I, onder C, bij het Besluit omgevingsrecht](../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), onder: 1.3, onder *b*, 2.6, onder *a*, 4.3, 5.3, 6.2, 8.1, onder *e*, 8.2, onder *a*, 9.3, onder *g* of *j*, 11.3, onder *a*, *b*, *c*, 1°, 4°, 6°, *f*, *h*, voor zover het betreft een inrichting met een capaciteit van 100.106 kg per jaar of meer, of *k*, 2°, 12.2, onder *a*, *h* of *i*, 13.3, onder *c*, 24.2, of 28.4, onder *e*, voor zover het betreft een inrichting met een capaciteit van 1,5.103 kg per uur of meer.  
+b. inrichting: een inrichting die behoort tot een of meer van de categorieën van inrichtingen, die zijn genoemd in [bijlage I, onder C, bij het Besluit omgevingsrecht](../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), onder: 1.3, onder *b*, 2.6, onder *a*, 4.3, 5.3, 6.2, 8.1, onder *e*, 8.2, onder *a*, 9.3, onder *g* of *j*, 11.3, onder *a*, *b*, *c*, 1°, 4°, 6°, *f*, *h*, voor zover het betreft een inrichting met een capaciteit van 100.10 <sup>6</sup> kg per jaar of meer, of *k*, 2°, 12.2, onder *a*, *h* of *i*, 13.3, onder *c*, 24.2, of 28.4, onder *e*, voor zover het betreft een inrichting met een capaciteit van 1,5.10 <sup>3</sup> kg per uur of meer.  
 
 c. vergunning: een omgevingsvergunning voor een inrichting voor zover deze betrekking heeft op een stookinstallatie;  
 
@@ -232,6 +232,17 @@ Een stookinstallatie waarvoor voor 27 november 2002 een vergunning is aangevraag
 ### Artikel  10c  
 
 Bij een stookinstallatie met een thermisch vermogen van 50 MW of meer waarvoor op of na 27 november 2002 vergunning is verleend en bij een stookinstallatie met een thermisch vermogen van 50 MW of meer waarop artikel 10a, tweede lid, van toepassing is, wordt de technische en economische haalbaarheid van warmtekrachtkoppeling onderzocht. Indien die haalbaarheid wordt bevestigd, wordt warmtekrachtkoppeling toegepast.  
+
+### Artikel  10d  
+
+1.  Bij een stookinstallatie met een nominaal elektrisch vermogen van 300 MW of meer, waarvoor op of na 25 juni 2011 een vergunning is verleend, wordt onderzocht: 
+
+a. of er geschikte CO <sub>2</sub> -opslagcomplexen als bedoeld in de [Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md) voorhanden zijn;  
+
+b. welke faciliteiten voor het transport van CO <sub>2</sub> in technisch en economisch opzicht haalbaar zijn, en  
+
+c. of de stookinstallatie in technisch en economisch opzicht geschikt is om voor de afvang van CO <sub>2</sub> te worden aangepast.     
+2.  Dit onderzoek wordt verricht met gebruikmaking van een door Onze Minister aangewezen document.   
 
 ### Hoofdstuk  2  
 
@@ -714,7 +725,7 @@ e. voor een gasturbine waarvoor op of na 15 oktober 1992 vergunning is verleend 
 
 f. voor een gasturbine waarop artikel 20, eerste lid, onder b of d, van toepassing is een strengere eis dan de in dat lid gestelde eis stellen, doch niet strenger dan 45 g/GJ.  
 
-g. voor een gasturbine-installatie of voor een gasturbine waarop artikel 22 van toepassing is, een strengere emissie-eis dan de in 20a, tweede lid, onder b, gestelde emissie-eis voor stikstofoxiden stellen, doch niet strenger dan een die overeenkomt met vervanging van de waarde van 135 g/GJ door 100 g/GJ;  
+g. voor een gasturbine-installatie of voor een gasturbine waarop artikel 22 van toepassing is, een strengere emissie-eis dan de in artikel 20a, tweede lid, onder b, gestelde emissie-eis voor stikstofoxiden stellen, doch niet strenger dan een die overeenkomt met vervanging van de waarde van 135 g/GJ door 100 g/GJ;  
 
 h. voor een zuigermotor waarop artikel 23, eerste lid, onder a, onder 1°, of onder b, van toepassing is, een strengere emissie-eis dan de in die artikelonderdelen gestelde emissie-eis voor stikstofoxiden stellen doch niet strenger dan een die overeenkomt met vervanging van de waarde van 800 g/GJ door 270 g/GJ;  
 
@@ -806,6 +817,11 @@ c. de wijze waarop overeenkomstig artikel 33, eerste lid, wordt aangetoond dat i
 
 d. het bepaalde in artikel 37, eerste lid, artikel 43, tweede lid, onder b, en de ministeriële regels bedoeld in artikel 45.    
 
+### Artikel  29a  
+
+1.  Het bevoegd gezag beoordeelt op basis van het in artikel 10d bedoelde onderzoek, het in artikel 10d, tweede lid, bedoelde document en andere beschikbare informatie of het afvangen en comprimeren van CO <sub>2</sub> en het transporteren daarvan naar een geschikte opslaglocatie in technisch en economisch opzicht haalbaar zijn. Bij die beoordeling worden de belangen van de bescherming van het milieu en de volksgezondheid in acht genomen.   
+2.  Indien het bevoegd gezag van oordeel is dat het afvangen, comprimeren en transporteren van CO <sub>2</sub> haalbaar is, verbindt het aan de vergunning het voorschrift dat binnen de inrichting geschikte ruimte wordt vrijgemaakt of vrijgehouden om CO <sub>2</sub> af te vangen, te comprimeren en te transporteren.   
+
 ### Hoofdstuk  4  
 
 ####Meetmethoden
@@ -873,9 +889,9 @@ b. indien de stookinstallatie meer dan zes maanden per jaar aaneengesloten uit b
 
 ### Artikel  33  
 
-1.  Indien toepassing wordt gegeven aan artikel 31, tweede lid, onder c of d, of indien artikel 32, eerste lid, onder b, van toepassing is, dient te allen tijde aan de hand van gegevens met betrekking tot het zwavelgehalte van elke ingezette brandstof en andere gegevens die noodzakelijk zijn om de uitworp aan zwaveldioxide te berekenen te kunnen worden aangetoond dat aan de van toepassing zijnde emissie-eis is voldaan.   
+1.  Indien toepassing wordt gegeven aan artikel 31, tweede lid, onder c of d, of indien artikel 32, eerste lid, onder b, van toepassing is, dient te allen tijde aan de hand van gegevens met betrekking tot het zwavelgehalte van elke ingezette brandstof en andere gegevens die noodzakelijk zijn om de uitworp aan zwaveldioxide te berekenen, te kunnen worden aangetoond dat aan de van toepassing zijnde emissie-eis is voldaan.   
 2.  De gegevens, bedoeld in het eerste lid, dienen in een register te worden opgenomen.   
-3.  Indien in een stookinstallatie waarop artikel 12, eerste lid, onder b, onder 1°, onder c, onder 1°, of onder d, dan wel artikel 16, vijfde lid, van toepassing is, zware stookolie wordt gestookt met een zwavelgehalte van niet meer dan 1%, is aan de in genoemde artikelen gestelde emissie-eis voldaan en kan in afwijking van het bepaalde in het eerste lid worden volstaan met registratie van het zwavelgehalte van genoemde brandstof.   
+3.  Indien in een stookinstallatie waarop artikel 12, eerste lid, onder b, onder 1°, onder c, onder 1°, of onder d, of achtste lid, dan wel artikel 16, vijfde lid, van toepassing is, zware stookolie wordt gestookt met een zwavelgehalte van niet meer dan 1%, is aan de in genoemde artikelen gestelde emissie-eis voldaan en kan in afwijking van het bepaalde in het eerste lid worden volstaan met registratie van het zwavelgehalte van genoemde brandstof.   
 
 ### Artikel  34  
 
