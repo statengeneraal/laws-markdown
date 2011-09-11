@@ -46,7 +46,7 @@ Besluit:
 
 ### Artikel  3  
 
-1.  De heffing die de ondernemer is verschuldigd, wordt opgelegd naar de grondslag aankoopwaarde handel over het kalenderjaar 2009.   
+1.  De heffing die de ondernemer is verschuldigd, wordt opgelegd naar de grondslag aankoopwaarde handel over de periode van 1 januari 2009 tot en met 31 maart 2009.   
 2.  In afwijking van het eerste lid, wordt de heffing voor de handel in uien opgelegd over het aantal aangekochte netto kilogrammen.   
 3.  De heffing als bedoeld in het eerste lid, wordt uitgedrukt in een percentage van de aankoopwaarde en bedraagt 0,04%.   
 4.  De heffing als bedoeld in het tweede lid, wordt uitgedrukt in centen per aantal gekochte kilogrammen en bedraagt € 3,30 per 100 ton   

@@ -40,7 +40,7 @@ c. de omzet: de verkoopwaarde af fabriek van de door de fabrikant gedurende een 
 
 ### Artikel  3  
 
-1.  De heffing die de fabrikant is verschuldigd, wordt opgelegd naar de grondslag omzet over het kalenderjaar 2009.   
+1.  De heffing die de fabrikant is verschuldigd, wordt opgelegd naar de grondslag omzet over de periode van 1 januari 2009 tot en met 31 maart 2009.   
 2.  De heffing als bedoeld in het eerste lid wordt uitgedrukt in een percentage van de omzet en bedraagt voor: 
 
 a. verduurzaamde groenten en fruit (excl. verduurzaamde champignons): 0,047%, en  

@@ -54,19 +54,15 @@ f. uien: alle uien met uitzondering van zilveruien.
 
 1.  De heffing die de ondernemer is verschuldigd, wordt opgelegd naar de grondslag aankoopwaarde handel over het kalenderjaar 2009.   
 2.  In afwijking van het eerste lid, wordt de heffing voor de handel in uien opgelegd over het aantal aangekochte netto kilogrammen. De heffing voor de handel ten behoeve van de afzetbevordering van uien is voor 50% verschuldigd door degene die uien aankoopt bij telers en voor 50% verschuldigd door degene die uien exporteert.   
-3.  De heffing als bedoeld in het eerste lid, wordt uitgedrukt in een percentage van de aankoopwaarde en bedraagt voor: 
+3.  De heffing als bedoeld in het eerste lid, wordt uitgedrukt in een percentage van de aankoopwaarde, en bedraagt voor:  
 
-a. groenten: 0,038%;  
+| --- | --- | --- |
+|:---|:---|:---|
+| a.  | groenten:  | 0,011%  |
+| b.  | fruit:  | 0,046%  |
+| c.  | champignons:  | 0,030%  |
 
-b. fruit: 0,073%, en  
-
-c. champignons: 0,057%.     
-4.  De heffing als bedoeld in het tweede lid, wordt uitgedrukt in centen per aantal gekochte kilogrammenen bedraagt: € 9,54 per 100 ton voor kwaliteitscontrole en € 36,30 per 100 ton voor afzetbevordering.   
-5.  Indien en voor zover de ondernemer: 
-
-a. op contract teelt voor industrie die groenten en fruit verduurzaamt of bewerkt, of  
-
-b. voor producten (gewassen, groenten en fruit) waarvoor geen wettelijke kwaliteitseisen gelden, worden de percentages in lid 3 met 0,027% verlaagd.     
+4.  De heffing als bedoeld in het tweede lid ten behoeve van de afzetbevordering van uien, wordt uitgedrukt in euro per kilogram, en bedraagt € 25,00 per 100.000 kg.   
 
 ### §  4  
 

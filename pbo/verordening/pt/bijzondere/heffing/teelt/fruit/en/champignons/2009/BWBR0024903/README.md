@@ -44,7 +44,7 @@ Besluit:
 
 ### Artikel  3  
 
-De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, een en ander overeenkomstig de volgende artikelen.  
+De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, over de periode van 1 januari 2009 tot en met 31 maart 2009, een en ander overeenkomstig de volgende artikelen.  
 
 ### Artikel  4  
 
@@ -57,7 +57,7 @@ De heffing naar de grondslag grondgebruik wordt berekend naar de oppervlakte van
 | c.  | groep 34  | cultuurgrond in gebruik voor de teelt in de open grond van klein fruit:  | € 308,95 per ha  |
 | d.  | groep 34a  | cultuurgrond in gebruik voor de teelt in open grond van blauwe bessen:  | € 150,01 per ha  |
 | e.  | groep 35  | cultuurgrond in gebruik voor de teelt in de open grond van overige pit- en steenvruchten:  | € 164,27 per ha;  |
-| f.  | groep 36  | cultuurgrond in gebruik voor de teelt in de open grond van zwarte bessen en zure kersen:  | € 36,53 per ha  |
+| f.  | groep 36  | cultuurgrond in gebruik voor de teelt in de open grond van zwarte bessen, zure kersen, amandelen, hazelnoten en walnoten:  | € 36,53 per ha  |
 | g.  | groep 60  | cultuurgrond in gebruik voor de teelt onder glas van fruit:  | € 7,53 per are  |
 | h.  | groep 75  | cultuurgrond beschikbaar voor de teelt van champignons in teeltbakken (vermenigvuldigd met het aantal teeltlagen):  | € 0,82 per m2  |
 

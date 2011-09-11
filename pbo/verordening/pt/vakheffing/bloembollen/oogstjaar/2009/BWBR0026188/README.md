@@ -33,6 +33,7 @@ Besluit:
 | c.  | veiling:  | Hobaho BV, Coöperatieve Nederlandse Bloembollencentrale (b.a.), en Floralia;  |
 | d.  | koopseizoen:  | de periode van 1 juni 2009 tot en met 31 mei 2010;  |
 | e.  | oogstjaar:  | de periode van 1 juni 2009 tot en met 31 mei 2010;  |
+| f.  | verkoopwaarde:  | de waarde van bloembollen vastgesteld op basis van de gemiddelde verkoopprijzen in het betreffende oogstjaar.  |
 
 4.  Deze verordening is niet van toepassing indien het betreft: 
 
@@ -46,7 +47,7 @@ b. transacties waarbij partijen groen te velde worden verhandeld en die de koper
 
 ### Artikel  2  
 
-1.  De koper en verkoper van bloembollen zijn aan het productschap een heffing verschuldigd.   
+1.  De koper en verkoper van bloembollen, waaronder tevens dient te worden verstaan de zelftelende broeier als bedoeld in artikel 10 van deze verordening, zijn aan het productschap een heffing verschuldigd.   
 2.  De heffing is verschuldigd ten behoeve van de algemene kosten van het productschap, alsmede ten behoeve van promotionele- en marketingactiviteiten, kwaliteits-, arbeids- en milieuaangelegenheden en technisch onderzoek.   
 3.  De heffing als bedoeld in het eerste lid, wordt opgelegd bij wege van een aanslag, met in achtneming van het in de volgende artikelen bepaalde.   
 
@@ -62,7 +63,7 @@ b. transacties waarbij partijen groen te velde worden verhandeld en die de koper
 ### Artikel  4  
 
 1.  De heffing die de koperen verkoper van bloembollen zijn verschuldigd, wordt over iedere transactie opgelegd.   
-2.  De heffing als bedoeld in het eerste lid, bedraagt: voor de verkoper: 1,0 % van het factuurbedrag. voor de koper: 1,0 % van het factuurbedrag.   
+2.  De heffing als bedoeld in het eerste lid, bedraagt: voor de verkoper: 1,0 % van het factuurbedrag. voor de koper: 1,0 % van het factuurbedrag. Voor de zelftelende broeier: 1,0% van de verkoopwaarde.   
 3.  Het factuurbedrag is het bedrag van de factuur, exclusief de behandelingskosten en exclusief de kosten kleinverpakkingsmateriaal.   
 4.  Indien op de factuur de behandelingskosten niet apart zijn vermeld, worden de volgende bedragen als behandelingskosten aangemerkt:  
 
@@ -96,7 +97,7 @@ Degene die zonder tussenkomst van een veiling bloembollen verkoopt, is verplicht
 
 ### Artikel  8  
 
-1.  Degene die zonder tussenkomst van een veiling bloembollen koopt van een teler is aan het productschap een heffing verschuldigd over iedere transactie.   
+1.  Degene die zonder tussenkomst van een veiling bloembollen koopt is aan het productschap een heffing verschuldigd over iedere transactie.   
 2.  De heffing als bedoeld in het eerste lid, bedraagt: 1,0 % van het factuurbedrag.   
 3.  De in het eerste lid bedoelde heffing dient door de koper te worden betaald aan de desbetreffende verkoper, die daartoe namens het productschap het betrokken heffingsbedrag in rekening brengt bij de koper en de aldus geïncasseerde heffing, aan het productschap afdraagt.   
 4.  Door deze betaling voldoet de koper aan de heffingsplicht als bedoeld in het eerste lid . Het derdelid laat onverlet de bevoegdheid van het productschap om in voorkomende gevallen zelf tot oplegging en invordering van het ingevolge het eerste lid verschuldigde heffing over te gaan.   
@@ -105,7 +106,7 @@ Degene die zonder tussenkomst van een veiling bloembollen verkoopt, is verplicht
 ### Artikel  9  
 
 1.  Degene die zonder tussenkomst van een veiling bloembollen verkoopt is aan het productschap een heffing verschuldigd over iedere transactie.   
-2.  De heffing als bedoeld in het eerste lid, bedraagt: 2,0% van het factuurbedrag.   
+2.  De heffing als bedoeld in het eerste lid, bedraagt: 1,0% van het factuurbedrag.   
 3.  De in het eerste lid bedoelde heffing dient door de verkoper te worden afgedragen aan het productschap tezamen met de bij de koper geïncasseerde heffing volgens artikel 8, derde lid.   
 4.  Door deze betaling voldoet de verkoper aan de heffingsplicht als bedoeld in het eerste lid. Het derde lid laat onverlet de bevoegdheid van het productschap om in voorkomende gevallen zelf tot oplegging en invordering van ingevolge het eerste lid verschuldigde heffing over te gaan.   
 5.  Indien en voor zover daartoe termen aanwezig zijn, kan bij de toepassing van het eerste lid als factuurbedrag worden aangemerkt de marktwaarde van de desbetreffende bloembollen op het tijdstip van verkoop.   
@@ -125,6 +126,14 @@ a. dat hij door hem in een verkoopseizoen ingekochte bloembollen in datzelfde se
 b. dat de over deze inkoop en verkoop op grond van de bepalingen van deze verordening verschuldigde vakheffing door de veiling aan het productschap is overgemaakt, kan restitutie van de betaalde vakheffing ontvangen van het productschap.     
 2.  De restitutie bedraagt het vakheffingspercentage bij aankoop, vermeerderd met het vakheffingspercentage bij verkoop, berekend over het verkoopfactuurbedrag van de bloembollen.   
 3.  Aanvragen tot restituties dienen bij het productschap te worden ingediend binnen twee jaar na de datum van de betaling van de betreffende bloembollen.   
+4.  Iedere bij het PT geregistreerde bloemkweker die bloembollen heeft aangekocht om deze aan te wenden in zijn bloemkwekerijbedrijf ter verkrijging van een oogst aan bolbloemen, ontvangt van het PT een restitutie ten bedrage van 0,65% van het aankoopfactuurbedrag van de desbetreffende bloembollen.   
+5.  Bij wijze van overgangsregeling bestaat de mogelijkheid deze restitutie aan te vragen tot een half jaar na de datum van inwerkingtreding van de wijzigingsverordening, of zoveel later dat in ieder geval binnen drie jaar na de datum van de betaling van de desbetreffende bloembollen restitutie wordt gevraagd. Tot restitutie als bedoeld in het vorige lid wordt slechts overgegaan indien de desbetreffende bloemkweker aan en ten genoegen van het PT aantoont: 
+
+a. dat hij ingevolge het bepaalde in de artikelen 6 en/of 8 van deze verordening ofwel via de veiling, ofwel via de desbetreffende teler, ofwel rechtstreeks de vakheffing aan het PT heeft betaald;  
+
+b. en dat hij de uit die bloembollen verkregen bolbloemen al dan niet door tussenkomst van een bloemenveiling heeft verkocht;  
+
+c. en dat hij de over die bolbloemen bij verkoop verschuldigde vakheffing bloemkwekerijproducten heeft voldaan.     
 
 ### §  4  
 

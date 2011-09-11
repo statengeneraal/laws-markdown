@@ -46,7 +46,7 @@ e. de contractteelt: de teelt van gewassen op contract voor een ander.
 
 ### Artikel  3  
 
-De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, daaronder begrepen de witloftrek, een en ander overeenkomstig de volgende artikelen.  
+De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, daaronder begrepen de witloftrek, over de periode van 1 januari 2009 tot en met 31 maart 2009, één en ander overeenkomstig de volgende artikelen.  
 
 ### Artikel  4  
 
@@ -55,7 +55,7 @@ De heffing naar de grondslag grondgebruik wordt berekend naar de oppervlakte van
 | --- | --- | --- |
 |:---|:---|:---|
 | Groep 1:  | cultuurgrond, in gebruik voor de teelt in de open grond van groen te oogsten erwten, stamsperziebonen, snijbonen en tuinbonen:  | € 12,75 per ha;  |
-| Groep 2:  | cultuurgrond, in gebruik voor de teelt in de open grond van was-, bospeen, en winterpeen:  | € 25,00 per ha;  |
+| Groep 2:  | cultuurgrond, in gebruik voor de teelt in de open grond van was-, bospeen, winterpeen en suikermaïs:  | € 25,00 per ha;  |
 | Groep 3:  | cultuurgrond, in gebruik voor de teelt in de open grond van herfst-, vroege-, en bewaarkool:  | € 29,75 per ha;  |
 | Groep 4:  | cultuurgrond, in gebruik voor de teelt in de open grond van spinazie, kroten, knolselderij, en schorseneren:  | € 12,75 per ha;  |
 | Groep 5:  | cultuurgrond, in gebruik voor de teelt in de open grond van spruitkool:  | € 42,50 per ha;  |
@@ -69,7 +69,7 @@ De heffing naar de grondslag grondgebruik wordt berekend naar de oppervlakte van
 | --- | aardbeien, productievelden  | € 102,00per ha;  |
 | --- | aardbeien, vermeerderingsvelden  | € 50,00 per ha;  |
 | --- | aardbeien, wachtbedden  | € 25,00per ha;  |
-| --- | cultuurgrond, in gebruik voor de teelt in de open grond van: andijvie, bleekselderij, Chinese kool, courgette, rabarber, radicchio rosso en venkel  | € 75,00 per ha;  |
+| --- | cultuurgrond, in gebruik voor de teelt in de open grond van; andijvie, Chinese kool, rabarber en venkel  | € 75,00 per ha;  |
 | Groep 13:  | cultuurgrond, in gebruik voor de teelt onder glas van aardbeien:  | € 9,35 per are; teeltoppervlak;  |
 | Groep 14:  | cultuurgrond, beschikbaar voor de trek van witlof in bakken (vermenigvuldigd met het aantal teeltlagen:  | € 1,50 per m² teeltoppervlak;  |
 | Groep 15:  | cultuurgrond in gebruik voor de teelt in de open grond van andere groenten dan in de groepen 1 tot en met 14 genoemd:  | € 40,00per ha.  |

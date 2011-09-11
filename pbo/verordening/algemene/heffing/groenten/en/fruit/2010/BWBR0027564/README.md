@@ -115,7 +115,7 @@ Besluit:
 | Selderij, groen  | 464  | 6,82 ha  |
 | Sla (ijsbergsla)  | 451  | 4,28 ha  |
 | Sla (kropsla en overige sla)  | 452  | 4,28 ha  |
-| Sla (radicchio rosso)  | 475  | 4,28 ha  |
+| Sla (radicchio rosso)  | 475  | 6,82 ha  |
 | Spinazie  | 465  | 1,71 ha  |
 | Spitskool  | 466  | 4,28 ha  |
 | Spruitkool  | 467  | 4,28 ha  |
@@ -145,7 +145,7 @@ Besluit:
 | Frambozen  | 488  | 19,26 ha  |
 | Pruimen  | 495  | 8,92 ha  |
 | Rode bessen  | 489  | 19,26 ha  |
-| Zoete kersen  | 487  | 19,26 ha  |
+| Zoete kersen  | 487  | 8,92 ha  |
 | Zure kersen (Best.Verw.Ind.)  | 498  | 2,68 ha  |
 | Zwarte bessen (Best.Verw.Ind.)  | 499  | 2,68 ha  |
 | Overig klein fruit  | 500  | 19,26 ha  |
