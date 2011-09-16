@@ -5,7 +5,7 @@
 De Staatssecretaris van Economische Zaken,  
 Handelende in overeenstemming met de Ministers van Verkeer en Waterstaat en van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
 
-Gelet op de op 13 september 1983 te Bonn tot stand gekomen Overeenkomst inzake samenwerking bij de bestrijding van verontreiniging van de Noordzee door olie en andere schadelijke stoffen (Trb. 1983, 159; laatstelijk Trb. 1990, 100), de [artikelen 9, derde lid](../../../wet/mijnbouwwet/BWBR0014168/README.md), [11, vierde en vijfde lid](../../../wet/mijnbouwwet/BWBR0014168/README.md), [14](../../../wet/mijnbouwwet/BWBR0014168/README.md), [32](../../../wet/mijnbouwwet/BWBR0014168/README.md), [40, zesde lid](../../../wet/mijnbouwwet/BWBR0014168/README.md), [63, vierde lid](../../../wet/mijnbouwwet/BWBR0014168/README.md), [122](../../../wet/mijnbouwwet/BWBR0014168/README.md), [123, tweede lid, van de Mijnbouwwet](../../../wet/mijnbouwwet/BWBR0014168/README.md), en de [artikelen 4, vierde lid](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [7, eerste lid](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [12, tweede lid](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [17, eerste lid](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [18, eerste lid](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [19, eerste lid](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [20, eerste lid](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [23, tweede lid](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [29](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [44, eerste lid](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [45, eerste lid](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [51, vijfde en zesde lid](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [52, zesde en achtste lid](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [53, derde lid](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [66, eerste lid](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [73](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [77](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [80, tweede en vierde lid](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [81, derde lid](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [82, vierde lid](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [83, eerste en derde lid](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [93, derde lid](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [114](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) en [144 van het Mijnbouwbesluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md);
+Gelet op de op 13 september 1983 te Bonn tot stand gekomen Overeenkomst inzake samenwerking bij de bestrijding van verontreiniging van de Noordzee door olie en andere schadelijke stoffen (Trb. 1983, 159; laatstelijk Trb. 1990, 100), de artikelen 9, derde lid, 11, vierde en vijfde lid, 14, 32, 40, zesde lid, 63, vierde lid, 122, 123, tweede lid, van de Mijnbouwwet, en de artikelen 4, vierde lid, 7, eerste lid, 12, tweede lid, 17, eerste lid, 18, eerste lid, 19, eerste lid, 20, eerste lid, 23, tweede lid, 29, 44, eerste lid, 45, eerste lid, 51, vijfde en zesde lid, 52, zesde en achtste lid, 53, derde lid, 66, eerste lid, 73, 77, 80, tweede en vierde lid, 81, derde lid, 82, vierde lid, 83, eerste en derde lid, 93, derde lid, 114 en 144 van het Mijnbouwbesluit;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -25,7 +25,11 @@ b. minister: Minister van Economische Zaken;
 
 c. DIN: door het Deutsche Institut für Normaliserung uitgegeven norm;  
 
-d. NEN: door de Stichting Nederlands Normalisatie-Instituut uitgegeven norm.    
+d. NEN: door de Stichting Nederlands Normalisatie-Instituut uitgegeven norm;  
+
+e. hydraulische eenheid: een hydraulisch verbonden poriënruimte waar drukdoorgave met technische middelen kan worden gemeten en die is afgebakend door stromingsbarrières zoals storingen, zoutkoepels, lithologische grenzen, of door wigvormige uitloop of dagzomende aardlagen van de formatie;  
+
+f. richtlijn nr. 2009/31/EG: richtlijn nr. 2009/31/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende de geologische opslag van kooldioxide en tot wijziging van richtlijn 85/337/EEG van de Raad, de richtlijnen 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG en 2008/1/EG en verordening (EG) nr. 1013/2006 (PbEG L 140) van het Europese Parlement en de Raad.    
 
 ### Artikel  1.1.2  
 
@@ -61,13 +65,13 @@ b. geografische coördinaten, berekend volgens het stelsel van de Europese veref
 
 ### Artikel  1.3.1  
 
-1.  Bij de aanvraag om een opsporingsvergunning als bedoeld in [artikel 6 van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) vermeldt de aanvrager: 
+1.  Bij de aanvraag om een opsporingsvergunning als bedoeld in de artikelen 6 en 25 van de wet vermeldt de aanvrager: 
 
 a. voor welk tijdvak de vergunning wordt gevraagd;  
 
 b. voor welk gebied de vergunning wordt gevraagd, en  
 
-c. of de aanvraag betrekking heeft op aardwarmte of delfstoffen onder vermelding op welke delfstof of delfstoffen de aanvraag betrekking heeft.     
+c. of de aanvraag betrekking heeft op de opsporing van delfstoffen onder vermelding van de delfstof, waarop de aanvraag betrekking heeft, de opsporing van aardwarmte dan wel de opsporing van een CO <sub>2</sub> -opslagcomplex.     
 2.  De aanvrager verstrekt bij de aanvraag voorts: 
 
 a. de gegevens, opgenomen in bijlage 1 bij deze regeling;  
@@ -94,7 +98,7 @@ e. andere gegevens die de aanvrager heeft gebruikt bij de onderbouwing van de aa
 
 ### Artikel  1.3.3  
 
-1.  Bij de aanvraag om een winningsvergunning als bedoeld in [artikel 6 van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) verstrekt de aanvrager de gegevens, bedoeld in artikel 1.3.1, eerste lid en tweede lid, onderdelen a en b. Artikel 1.3.1, derde lid, is van overeenkomstige toepassing.   
+1.  Bij de aanvraag om een winningsvergunning als bedoeld in artikel 6 van de wet verstrekt de aanvrager de gegevens, bedoeld in artikel 1.3.1, eerste lid en tweede lid, onderdelen a en b. Artikel 1.3.1, derde lid, is van overeenkomstige toepassing.   
 2.  Indien de aanvraag om een winningsvergunning voor koolwaterstoffen betrekking heeft op een gebied aan de zeezijde van de in de bijlage bij de wet vastgelegde lijn, is artikel 1.3.2 van overeenkomstige toepassing.   
 3.  Indien de aanvraag een winningsvergunning voor koolwaterstoffen betreft, verstrekt de aanvrager naast de gegevens, bedoeld in het eerste lid: 
 
@@ -127,7 +131,7 @@ d. een programma overeenkomstig het programma, bedoeld in het derde lid, onderde
 
 ### Artikel  1.3.4  
 
-1.  Bij de aanvraag om een opslagvergunning als bedoeld in [artikel 25 van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) verstrekt de aanvrager gegevens omtrent: 
+1.  Bij de aanvraag om een opslagvergunning als bedoeld in artikel 25 van de wet verstrekt de aanvrager gegevens omtrent: 
 
 a. het tijdvak waarvoor de vergunning wordt gevraagd;  
 
@@ -145,20 +149,73 @@ c. een beschrijving van de risico's voor de veiligheid, en
 
 d. de mogelijkheid van winning van voorkomens van delfstoffen of aardwarmte in het gebied.     
 
+### Artikel  1.3.4a  
+
+1.  Onverminderd artikel 1.3.4 verstrekt de aanvrager bij een aanvraag om een vergunning voor het permanent opslaan van CO <sub>2</sub> bovendien: 
+
+a. een karakterisering en beoordeling van het potentiële opslagcomplex met inbegrip van de afdichtende laag en het omliggende gebied, inclusief de hydraulisch verbonden gebieden, uitgevoerd en onderbouwd op de voet van Bijlage I van de richtlijn nr. 2009/31/EG;  
+
+b. de beoogde plaats van de injectiefaciliteiten;  
+
+c. de totale hoeveelheid stoffen die zal worden opgeslagen uitgedrukt in kton;  
+
+d. een opgave van de afzonderlijke bestanddelen van de stoffen die worden opgeslagen en hun aandeel in de totale hoeveelheid van stoffen die worden opgeslagen, en  
+
+e. de gegevens waarop de beoogde maximum toelaatbare snelheid en druk bij injectie van CO <sub>2</sub> en de beoogde maximum toelaatbare druk van de opgeslagen CO <sub>2</sub> zijn gebaseerd.     
+2.  De aanvraag bevat het ontwerp voor een risicobeheerplan als bedoeld in artikel 29c van het besluit.   
+3.  De aanvraag bevat het ontwerp voor een plan voor het nemen van corrigerende maatregelen als bedoeld in artikel 29d van het besluit.   
+4.  De aanvraag bevat het ontwerp voor een monitoringsplan als bedoeld in artikel 29f van het besluit dat voldoet aan Bijlage II, onderdeel 1, van richtlijn nr. 2009/31/EG. Het ontwerp strekt tot: 
+
+a. het vergelijken van het feitelijk en het gemodelleerd gedrag van het CO <sub>2</sub> en andere opgeslagen stoffen en het formatiewater in het voorkomen;  
+
+b. het detecteren van significante onregelmatigheden;  
+
+c. het detecteren van CO <sub>2</sub> en andere stoffen;  
+
+d. het detecteren van significante negatieve effecten voor het omliggende milieu en voor met name het drinkwater, de omwonende bevolking en de gebruikers van de biosfeer in de omgeving;  
+
+e. het evalueren van de doeltreffendheid van eventuele getroffen corrigerende maatregelen als bedoeld in het vijfde lid, en  
+
+f. het actualiseren van de veiligheids- en integriteitsbeoordeling van het opslagcomplex op korte en lange termijn, met inbegrip van de beoordeling van de vraag of het opgeslagen CO <sub>2</sub> volledig en permanent is ingesloten.     
+5.  De aanvraag bevat het ontwerp voor een afsluitingsplan als bedoeld in artikel 29g van het besluit.   
+6.  De aanvraag bevat: 
+
+a. de voor de ramingen, bedoeld in artikel 29j, tweede lid, van het besluit benodigde gegevens vergezeld van adequate cijfermatige onderbouwing en toelichting en mogelijke vorm van zekerheid die zal worden gesteld;  
+
+b. het ontwerp voor een plan ter voorkoming of beperking van schade door bodembeweging indien het voorkomen voor het permanent opslaan van CO <sub>2</sub> gelegen is aan de landzijde van de lijn die in de bijlage bij de wet is vastgelegd door bodembeweging als bedoeld in artikel 29h van het besluit gebaseerd op een risico-analyse over bodembeweging, en  
+
+c. informatie die aantoont dat is gezorgd voor professionele en technische ontwikkeling en training van de exploitant en van alle personeel voorafgaande, tijdens en na beëindiging van de injectie van CO <sub>2</sub>.     
+
+### Artikel  1.3.4b  
+
+Bij een aanvraag om een vergunning voor het permanent opslaan van CO <sub>2</sub> in te trekken, verstrekt de vergunninghouder de minister: 
+
+a. een verslag dat aantoont dat: 
+
+1°. het opgeslagen CO <sub>2</sub> volledig en permanent ingesloten blijft,  
+
+2°. het feitelijke gedrag van het geïnjecteerde CO <sub>2</sub> in overeenstemming is met het gemodelleerde gedrag,  
+
+3°. er geen detecteerbare lekken zijn,  
+
+4°. de opslaglocatie evolueert naar een toestand van lange termijn stabiliteit, en    
+
+b. een geactualiseerde versie van de documenten, bedoeld in de artikelen 29c, 29d, 29f en 29g, van het besluit.    
+
 ### Artikel  1.3.5  
 
-1.  Een opsporingsvergunning voor koolwaterstoffen voor een gebied aan de zeezijde van de in de [bijlage bij de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) vastgelegde lijn kan slechts worden verleend voor een gebied, bestaande uit een of meer blokken als aangegeven op de kaart die als bijlage 3 bij deze regeling is gevoegd.   
+1.  Een opsporingsvergunning voor koolwaterstoffen voor een gebied aan de zeezijde van de in de bijlage bij de wet vastgelegde lijn kan slechts worden verleend voor een gebied, bestaande uit een of meer blokken als aangegeven op de kaart die als bijlage 3 bij deze regeling is gevoegd.   
 2.  Indien voor een deel van een blok reeds een door een ander gehouden opsporings- of winningsvergunning voor koolwaterstoffen geldt, kan een opsporingsvergunning als in het eerste lid bedoeld betrekking of mede betrekking hebben op dat deel van het blok, waarvoor geen opsporings- of winningsvergunning geldt.   
 3.  Indien in een deel van een blok zich een voorkomen bevindt waarvoor reeds een door een ander gehouden opslagvergunning geldt, kan een opsporingsvergunning als in het eerste lid bedoeld betrekking of mede betrekking hebben op dat deel van het blok, waarvoor geen opslagvergunning geldt.   
 
 ### Artikel  1.3.6  
 
-Het gebied als bedoeld in [artikel 11, derde lid, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) waarvoor een opsporings- of winningsvergunning voor koolwaterstoffen wordt verleend, is, voor zover dat met een doelmatige en voortvarende opsporing en winning van koolwaterstoffen verenigbaar en op grond van de aantoning uit geologisch oogpunt gerechtvaardigd is, in overeenstemming met de ingediende aanvraag.  
+Het gebied als bedoeld in artikel 11, derde lid, van de wet waarvoor een opsporings- of winningsvergunning voor koolwaterstoffen wordt verleend, is, voor zover dat met een doelmatige en voortvarende opsporing en winning van koolwaterstoffen verenigbaar en op grond van de aantoning uit geologisch oogpunt gerechtvaardigd is, in overeenstemming met de ingediende aanvraag.  
 
 ### Artikel  1.3.7  
 
 1.  Bij de beslissing op een aanvraag om een opsporings- of winningsvergunning voor koolwaterstoffen worden de artikelen 1.3.8 tot en met 1.3.11 in acht genomen.   
-2.  In afwijking van het eerste lid zijn bij de beslissing op een aanvraag om een winningsvergunning op grond van [artikel 10, eerste lid, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) slechts de artikelen 1.3.8 tot en met 1.3.10 van toepassing.   
+2.  In afwijking van het eerste lid zijn bij de beslissing op een aanvraag om een winningsvergunning op grond van artikel 10, eerste lid, van de wet slechts de artikelen 1.3.8 tot en met 1.3.10 van toepassing.   
 3.  Bij de beslissing omtrent toestemming tot overdracht van een opsporings- of winningsvergunning voor koolwaterstoffen zijn de artikelen 1.3.8 tot en met 1.3.10 van overeenkomstige toepassing.   
 
 ### Artikel  1.3.8  
@@ -215,7 +272,7 @@ b. de mogelijkheden van de aanvrager om de opsporing of winning tegen zo laag mo
 
 ### Artikel  1.4.1  
 
-Voor de toepassing van deze paragraaf wordt verstaan onder aanvraag: een aanvraag om een mijnbouwmilieuvergunning als bedoeld in [artikel 40 van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md).  
+Voor de toepassing van deze paragraaf wordt verstaan onder aanvraag: een aanvraag om een mijnbouwmilieuvergunning als bedoeld in artikel 40 van de wet.  
 
 ### Artikel  1.4.2  
 
@@ -253,7 +310,7 @@ i. de andere maatregelen of voorzieningen die zijn of worden getroffen om de nad
 
 1°. tijdens het in werking zijn van het mijnbouwwerk of de te onderscheiden onderdelen daarvan, waarbij, voor zover van toepassing, onderscheid wordt gemaakt tussen proefdraaien, normaal bedrijf, schoonmaak-, onderhouds- en herstelwerkzaamheden;  
 
-2°. ten gevolge van voorvallen als bedoeld in [artikel 82 van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), die redelijkerwijs mogelijk zijn te achten;    
+2°. ten gevolge van voorvallen als bedoeld in artikel 82 van het besluit, die redelijkerwijs mogelijk zijn te achten;    
 
 j. de wijze waarop gedurende het in werking zijn van het mijnbouwwerk de belasting van het milieu die het mijnbouwwerk veroorzaakt, wordt vastgesteld en geregistreerd, en  
 
@@ -303,7 +360,7 @@ c. de directeur-generaal Milieubeheer, indien sprake is van lozingen in de bodem
 
 ### Artikel  1.5.1  
 
-Bij de aanvraag om een vergunning als bedoeld in de [artikelen 18](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) en [19 van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) verstrekt de aanvrager gegevens omtrent: 
+Bij de aanvraag om een vergunning als bedoeld in de artikelen 18 en 19 van het besluit verstrekt de aanvrager gegevens omtrent: 
 
 a. het tijdvak waarvoor de vergunning wordt gevraagd;  
 
@@ -313,7 +370,7 @@ c. de wijze waarop het verkenningsonderzoek zal worden verricht en de technieken
 
 ### Artikel  1.5.2  
 
-Bij de aanvraag om een vergunning als bedoeld in [artikel 22 van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) verstrekt de aanvrager gegevens omtrent: 
+Bij de aanvraag om een vergunning als bedoeld in artikel 22 van het besluit verstrekt de aanvrager gegevens omtrent: 
 
 a. het tijdvak waarvoor de vergunning wordt aangevraagd;  
 
@@ -331,7 +388,7 @@ e. de maatregelen die worden genomen ter voorkoming van schade.
 
 ### Artikel  1.6.1  
 
-Bij de aanvraag om een ontheffing als bedoeld in de [artikelen 44, tweede lid](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), en [45, tweede lid, van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) verstrekt de aanvrager gegevens omtrent: 
+Bij de aanvraag om een ontheffing als bedoeld in de artikelen 44, tweede lid, en 45, tweede lid, van het besluit verstrekt de aanvrager gegevens omtrent: 
 
 a. het tijdvak waarvoor de ontheffing wordt gevraagd;  
 
@@ -343,11 +400,11 @@ d. voorzieningen die worden getroffen met het oog op het belang van de scheepvaa
 
 ### Artikel  1.6.2  
 
-Bij de aanvraag om een ontheffing als bedoeld in [artikel 51, vijfde lid, van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) geeft de aanvrager aan waarom een helikopterdek niet noodzakelijk is.  
+Bij de aanvraag om een ontheffing als bedoeld in artikel 51, vijfde lid, van het besluit geeft de aanvrager aan waarom een helikopterdek niet noodzakelijk is.  
 
 ### Artikel  1.6.3  
 
-1.  Aanvragen om een ontheffing als bedoeld in [artikel 52, zesde lid, van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) worden in tweevoud ingediend bij de Minister van Verkeer en Waterstaat.   
+1.  Aanvragen om een ontheffing als bedoeld in artikel 52, zesde lid, van het besluit worden in tweevoud ingediend bij de Minister van Verkeer en Waterstaat.   
 2.  Bij de aanvraag geeft de aanvrager aan waarom geluids- en lichtbakens niet noodzakelijk zijn.   
 
 ### §  1.7  
@@ -356,7 +413,7 @@ Bij de aanvraag om een ontheffing als bedoeld in [artikel 51, vijfde lid, van he
 
 ### Artikel  1.7.1  
 
-1.  Bij de aanvraag om een vergunning tot aanleg van een pijpleiding als bedoeld in [artikel 94 van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) verstrekt de aanvrager gegevens omtrent: 
+1.  Bij de aanvraag om een vergunning tot aanleg van een pijpleiding als bedoeld in artikel 94 van het besluit verstrekt de aanvrager gegevens omtrent: 
 
 a. het tijdvak waarvoor de vergunning wordt gevraagd;  
 
@@ -391,7 +448,7 @@ e. een rapport van het voorontwerp van de pijpleiding waarin is beschreven:
 
 ### Artikel  1.7.2  
 
-1.  Bij de aanvraag om een vergunning tot aanleg van een kabel als bedoeld in [artikel 106](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) in samenhang met [artikel 94 van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) verstrekt de aanvrager gegevens omtrent: 
+1.  Bij de aanvraag om een vergunning tot aanleg van een kabel als bedoeld in artikel 106 in samenhang met artikel 94 van het besluit verstrekt de aanvrager gegevens omtrent: 
 
 a. het tijdvak waarvoor de vergunning wordt gevraagd;  
 
@@ -408,7 +465,7 @@ e. het doel waarvoor de kabel zal worden gebruikt.
 
 ### Artikel  1.8.1  
 
-Bij de aanvraag tot splitsing om een vergunning als bedoeld in [artikel 135 van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), verstrekt de aanvrager de volgende gegevens: 
+Bij de aanvraag tot splitsing om een vergunning als bedoeld in artikel 135 van het besluit, verstrekt de aanvrager de volgende gegevens: 
 
 a. de vergunning waarvan splitsing wordt gevraagd;  
 
@@ -418,11 +475,11 @@ c. de reden voor splitsing;
 
 d. een kaart waarop de voorkomens van delfstoffen of aardwarmte dan wel voor opslag in het vergunninggebied zijn aangegeven;  
 
-e. de personen die overeenkomstig [artikel 22, vijfde lid, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) worden aangewezen voor de afzonderlijke vergunningen die na splitsing zullen ontstaan.    
+e. de personen die overeenkomstig artikel 22, vijfde lid, van de wet worden aangewezen voor de afzonderlijke vergunningen die na splitsing zullen ontstaan.    
 
 ### Artikel  1.8.2  
 
-Bij de aanvraag om samenvoeging van twee of meer vergunningen als bedoeld in [artikel 137 van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), verstrekt de aanvrager de volgende gegevens: 
+Bij de aanvraag om samenvoeging van twee of meer vergunningen als bedoeld in artikel 137 van het besluit, verstrekt de aanvrager de volgende gegevens: 
 
 a. de vergunningen waarvan samenvoeging wordt gevraagd;  
 
@@ -430,7 +487,7 @@ b. de reden voor samenvoeging;
 
 c. een kaart waarop de voorkomens van delfstoffen of aardwarmte dan wel voor opslag in de samen te voegen vergunninggebieden zijn aangegeven, en  
 
-d. de persoon die overeenkomstig [artikel 22, vijfde lid, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) dient te worden aangewezen voor de vergunning die door samenvoeging zal ontstaan.    
+d. de persoon die overeenkomstig artikel 22, vijfde lid, van de wet dient te worden aangewezen voor de vergunning die door samenvoeging zal ontstaan.    
 
 ### §  1.9  
 
@@ -438,7 +495,7 @@ d. de persoon die overeenkomstig [artikel 22, vijfde lid, van de wet](../../../w
 
 ### Artikel  1.9.1  
 
-Bij de aanvraag om een vergunning tot winning van kalksteen als bedoeld in [artikel 146 van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) verstrekt de aanvrager de volgende gegevens: 
+Bij de aanvraag om een vergunning tot winning van kalksteen als bedoeld in artikel 146 van het besluit verstrekt de aanvrager de volgende gegevens: 
 
 a. het tijdvak waarvoor de vergunning wordt gevraagd;  
 
@@ -464,7 +521,7 @@ h. andere maatregelen dan bedoeld in onderdelen f en g die worden getroffen ter 
 
 ### Artikel  1.9.2  
 
-Bij de aanvraag om een vergunning tot gebruik van een groeve voor een ander doeleinde als bedoeld in [artikel 151 van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) verstrekt de aanvrager de volgende gegevens: 
+Bij de aanvraag om een vergunning tot gebruik van een groeve voor een ander doeleinde als bedoeld in artikel 151 van het besluit verstrekt de aanvrager de volgende gegevens: 
 
 a. het tijdvak waarvoor de vergunning wordt gevraagd;  
 
@@ -486,7 +543,7 @@ g. een beschrijving van de maatregelen ter bescherming van de veiligheid met oog
 
 ### Artikel  1.10.1  
 
-De delen van de territoriale zee en het continentaal plat, bedoeld in [artikel 16 van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), bestaan uit de delen van territoriale zee en het continentaal plat die gelegen zijn ten zuiden van de lijn die gevormd wordt door de punten A, 2, 3, 4, 5, 6, 7 en I, aangeduid in bijlage 4 bij deze regeling en die niet liggen in: 
+De delen van de territoriale zee en het continentaal plat, bedoeld in artikel 16 van het besluit, bestaan uit de delen van territoriale zee en het continentaal plat die gelegen zijn ten zuiden van de lijn die gevormd wordt door de punten A, 2, 3, 4, 5, 6, 7 en I, aangeduid in bijlage 4 bij deze regeling en die niet liggen in: 
 
 a. het aanloopgebied Hoek van Holland, de ankergebieden en de overige gebieden, aangeduid in bijlage 4, en  
 
@@ -494,19 +551,19 @@ b. het gemeentelijk ingedeeld gebied.
 
 ### Artikel  1.10.2  
 
-De delen van de territoriale zee en het continentaal plat, bedoeld in [artikel 17 van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), bestaan uit de overige gebieden, aangeduid in bijlage 4.  
+De delen van de territoriale zee en het continentaal plat, bedoeld in artikel 17 van het besluit, bestaan uit de overige gebieden, aangeduid in bijlage 4.  
 
 ### Artikel  1.10.3  
 
-De delen van de territoriale zee en het continentaal plat, bedoeld in [artikel 18 van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), bestaan uit de ankergebieden, aangeduid in bijlage 4.  
+De delen van de territoriale zee en het continentaal plat, bedoeld in artikel 18 van het besluit, bestaan uit de ankergebieden, aangeduid in bijlage 4.  
 
 ### Artikel  1.10.4  
 
-De rede van Hoek van Holland, bedoeld in [artikel 20 van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), komt overeen met het aanloopgebied Hoek van Holland, aangeduid in bijlage 4.  
+De rede van Hoek van Holland, bedoeld in artikel 20 van het besluit, komt overeen met het aanloopgebied Hoek van Holland, aangeduid in bijlage 4.  
 
 ### Artikel  1.10.5  
 
-De gebieden, bedoeld in [artikel 45, eerste lid, van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) zijn de in bijlage 4 aangeduide: 
+De gebieden, bedoeld in artikel 45, eerste lid, van het besluit zijn de in bijlage 4 aangeduide: 
 
 a. ankergebieden;  
 
@@ -516,11 +573,11 @@ c. overige gebieden.
 
 ### Artikel  1.10.6  
 
-De gebieden, bedoeld in [artikel 45, eerste lid, van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) zijn de gebieden, aangeduid in bijlage 4.  
+De gebieden, bedoeld in artikel 45, eerste lid, van het besluit zijn de gebieden, aangeduid in bijlage 4.  
 
 ### Artikel  1.10.7  
 
-De delen van oppervlaktewater, bedoeld in [artikel 19 van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), en de gebieden, bedoeld in [artikel 44 van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), zijn de gebieden, aangeduid in bijlage 5 bij deze regeling.  
+De delen van oppervlaktewater, bedoeld in artikel 19 van het besluit, en de gebieden, bedoeld in artikel 44 van het besluit, zijn de gebieden, aangeduid in bijlage 5 bij deze regeling.  
 
 ### §  1.11  
 
@@ -704,7 +761,7 @@ d. de bijzonderheden, die zich bij activiteiten met ontplofbare stoffen hebben v
 
 ### Artikel  3.1  
 
-Voor de opgave van hoeveelheden stoffen, bedoeld in de [artikelen 24](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [25](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [26](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) en [27 van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), worden de volgende eenheden gebruikt: 
+Voor de opgave van hoeveelheden stoffen, bedoeld in de artikelen 24, 25, 26 en 27 van het besluit, worden de volgende eenheden gebruikt: 
 
 a. vaste stoffen: in m3 of tonnen;  
 
@@ -714,45 +771,75 @@ c. gasvormige stoffen: in 1000 m3 bij een absolute druk van 101,325 kPa en een t
 
 d. pekel: in m <sup>3</sup>.    
 
+### Artikel  3.2  
+
+1.  Het register over CO <sub>2</sub> -stromen, bedoeld in artikel 31f van de wet, bevat met ingang van de dag van eerste injectie van stoffen een opgave van: 
+
+a. de hoeveelheden stoffen uitgedrukt in kton die per uur zijn geleverd, geïnjecteerd of weggelekt en  
+
+b. de samenstelling van de stoffen en iedere wijziging in de samenstelling ervan met vermelding van de datum en tijdstip van wijziging;     
+2.  De samenstelling van de stoffen bevat een opgave van de afzonderlijke stoffen en hun volume- en gewichtsaandeel met een voldoende nauwkeurigheid met het oog op de belangen van milieu en veiligheid.   
+3.  Het register wordt tenminste wekelijks bijgewerkt.   
+
 ### Hoofdstuk  4  
 
 ####Helikopterdekken
+
+Vervallen per 31-10-2009   
 
 ### Afdeling  4.1  
 
 ####Helikopterdekken op mijnbouwinstallaties
 
+Vervallen per 31-10-2009   
+
 ### §  4.1  
 
 ####Algemeen
+
+Vervallen per 31-10-2009   
 
 ### §  4.2  
 
 ####Afmeting en ligging landingsplaats
 
+Vervallen per 31-10-2009   
+
 ### §  4.3  
 
 ####Obstakels op en rond de landingsplaats
+
+Vervallen per 31-10-2009   
 
 ### §  4.4  
 
 ####Het helikopterdek en de landingsplaats
 
+Vervallen per 31-10-2009   
+
 ### §  4.5  
 
 ####Het gebruik van helikopters
+
+Vervallen per 31-10-2009   
 
 ### §  4.6  
 
 ####Middelen voor brandbestrijding en reddingwerkzaamheden
 
+Vervallen per 31-10-2009   
+
 ### §  4.7  
 
 ####Bepalingen voor niet-bemande mijnbouwinstallaties
 
+Vervallen per 31-10-2009   
+
 ### §  4.8  
 
 ####De tekening van het helikopterdek en andere gegevens
+
+Vervallen per 31-10-2009   
 
 ### Hoofdstuk  5  
 
@@ -760,11 +847,11 @@ d. pekel: in m <sup>3</sup>.
 
 ### Artikel  5.1  
 
-Tenminste een van de herkenningstekens, bedoeld in [artikel 52, vierde lid, onderdelen a en b, van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) is, ongeacht vanuit welke richting de installatie wordt genaderd, bij dag en nacht zichtbaar.  
+Tenminste een van de herkenningstekens, bedoeld in artikel 52, vierde lid, onderdelen a en b, van het besluit is, ongeacht vanuit welke richting de installatie wordt genaderd, bij dag en nacht zichtbaar.  
 
 ### Artikel  5.2  
 
-1.  Geluidsbakens als bedoeld in [artikel 52, eerste lid, onderdeel b, van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) zijn van zodanige sterkte en zodanig geplaatst dat de veiligheid van de scheepvaart en van de mijnbouwinstallatie is gewaarborgd.   
+1.  Geluidsbakens als bedoeld in artikel 52, eerste lid, onderdeel b, van het besluit zijn van zodanige sterkte en zodanig geplaatst dat de veiligheid van de scheepvaart en van de mijnbouwinstallatie is gewaarborgd.   
 2.  De geluidsbakens zijn niet lager dan 6 m en niet hoger dan 30 m boven gemiddeld zeeniveau geplaatst.   
 3.  Bij een zicht van minder dan 3600 m geven de geluidsbakens een synchroon geluidssignaal af overeenkomend met dat van de Morse-letter U, met een periode van 30 seconden, verdeeld als volgt: signaal 3/4 seconde, stilte 1 seconde, signaal 3/4 seconde, stilte 1 seconde, signaal 2½ seconde, stilte 24 seconden.   
 
@@ -1030,7 +1117,7 @@ e. het "Handboek algemene maritieme radiocommunicatie", en f. het "Handboek bepe
 
 ### Artikel  6.3.1  
 
-1.  De apparatuur bedoeld in [artikel 52, derde lid, van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) is geschikt voor het waarnemen en registreren van: 
+1.  De apparatuur bedoeld in artikel 52, derde lid, van het besluit is geschikt voor het waarnemen en registreren van: 
 
 a. horizontaal zicht, in bijzonder het meteorologische optisch bereik;  
 
@@ -1050,13 +1137,15 @@ h. hoogte, periode, dan wel spectrum en richting van de golven.
 
 ### Hoofdstuk  7  
 
+####Onderzoek naar sterkte mijnbouwinstallaties en wijze van verwijdering van onder het oppervlaktewater gelegen mijnbouwinstallaties
+
 ### Artikel  7.1  
 
-Dit hoofdstuk heeft betrekking op mijnbouwinstallaties die voor de winning zijn bestemd.  
+Dit hoofdstuk heeft betrekking op mijnbouwinstallaties die voor de winning of de opslag zijn bestemd.  
 
 ### Artikel  7.2  
 
-1.  Het onderzoeksprogramma, bedoeld in [artikel 53, eerste en tweede lid, van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) bevat een overzicht van: 
+1.  Het onderzoeksprogramma, bedoeld in artikel 53, eerste en tweede lid, van het besluit bevat een overzicht van: 
 
 a. de onderdelen van de mijnbouwinstallatie;  
 
@@ -1097,11 +1186,11 @@ g. inspectie en onderzoek van een aantal kritische lassen van knooppunten, zoals
 
 ### Artikel  7.3  
 
-De uitvoerder doet tenminste acht weken voor de verwijdering van een geheel onder oppervlaktewater gelegen mijnbouwinstallatie als bedoeld in [artikel 63 van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) mededeling aan de inspecteur-generaal der mijnen omtrent: 
+De uitvoerder doet tenminste acht weken voor de verwijdering van een geheel onder oppervlaktewater gelegen mijnbouwinstallatie als bedoeld in artikel 63 van het besluit mededeling aan de inspecteur-generaal der mijnen omtrent: 
 
 a. het vermoedelijke tijdstip van verwijdering;  
 
-b. de wijze waarop het verwijderen van de mijnbouwinstallatie en van schroot en ander materiaal als bedoeld in [artikel 44, tweede lid, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) plaats zal vinden, en  
+b. de wijze waarop het verwijderen van de mijnbouwinstallatie en van schroot en ander materiaal als bedoeld in artikel 44, tweede lid, van de wet plaats zal vinden, en  
 
 c. de wijze waarop zal worden aangetoond dat de plaats waarop de mijnbouwinstallatie op de zeebodem stond vrij van schroot en ander materiaal is.    
 
@@ -1416,7 +1505,7 @@ Deze paragraaf is van overeenkomstige toepassing op boorgaten.
 
 ### Artikel  8.3.1.1  
 
-Deze afdeling is niet van toepassing op boorgaten waarmee wordt beoogd de aanwezigheid van zout aan te tonen dan wel te winnen, mits de uitvoerder in het document, bedoeld in [artikel 37, tweede lid, van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), heeft aangetoond dat er geen gevaar bestaat voor schadelijke uitstroming van ondergrondse gassen of vloeistoffen.  
+Deze afdeling is niet van toepassing op boorgaten waarmee wordt beoogd de aanwezigheid van zout aan te tonen dan wel te winnen, mits de uitvoerder in het document, bedoeld in artikel 37, tweede lid, van het besluit, heeft aangetoond dat er geen gevaar bestaat voor schadelijke uitstroming van ondergrondse gassen of vloeistoffen.  
 
 ### Artikel  8.3.1.2  
 
@@ -1428,7 +1517,7 @@ a. een afsluiter die het boorgat kan afsluiten rondom het boorgereedschap dat zi
 b. een spoelstuk met een inwendige diameter die tenminste gelijk is aan de in onderdeel a bedoelde afsluiter en tenminste is voorzien van één zijuitlaat met een afsluiter waarvan de bediening gekoppeld is aan de in onderdeel a bedoelde afsluiter, maar waarvan de werking tegengesteld is aan die van deze afsluiter.     
 3.  De voor deze voorzieningen benodigde afvoerleidingen hebben een inwendige diameter van ten minste 250 mm en worden met een zo gering mogelijk aantal bochten geïnstalleerd. Op de plaats van de bochten worden inwendige voorzieningen aangebracht die het eroderen van de leidingen zoveel mogelijk voorkomen.   
 4.  Het hulpmiddel voor de besturing van de voorzieningen wordt op een voor de boormeester goed bereikbare plaats opgesteld.   
-5.  Het eerste tot en met vierde lid is niet van toepassing indien de uitvoerder in het document, bedoeld in [artikel 37, tweede lid, van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) heeft aangetoond dat bij de boorwerkzaamheden, bedoeld in het eerste lid, geen gevaar bestaat voor schadelijke uitstroming van onderaardse gassen of vloeistoffen.   
+5.  Het eerste tot en met vierde lid is niet van toepassing indien de uitvoerder in het document, bedoeld in artikel 37, tweede lid, van het besluit heeft aangetoond dat bij de boorwerkzaamheden, bedoeld in het eerste lid, geen gevaar bestaat voor schadelijke uitstroming van onderaardse gassen of vloeistoffen.   
 
 ### Artikel  8.3.1.3  
 
@@ -1843,7 +1932,7 @@ c. hemel-, schrob- of spoelwater dat olie in welk gehalte dan ook bevat.
 1.  Op een bemande mijnbouwinstallatie wordt per lozingspunt binnen uiterlijk vier uur na het begin van een lozing van een oliehoudend mengsel een representatief monster van het mengsel genomen en geanalyseerd. Nadien geschieden monsterneming en analyse volgens de onderstaande tabel.  
 
 | (a) Per lozingspunt  | Frequentie monsterneming en analyse  |
-|:---|:---|
+|---|---|
 | oliehoudende mengsels als bedoeld in artikel 9.1.2, tweede lid, onder a en b   | --- |
 | Gedispergeerde olie  | --- |
 | >= 2000 kilogram gedispergeerde olie per kalenderjaar  | Om de dag  |
@@ -1872,7 +1961,7 @@ c. hemel-, schrob- of spoelwater dat olie in welk gehalte dan ook bevat.
 
 ### Artikel  9.1.5  
 
-1.  Het in [artikel 80, eerste lid, van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) bedoelde verbod geldt niet ten aanzien van een oliehoudend mengsel: 
+1.  Het in artikel 80, eerste lid, van het besluit bedoelde verbod geldt niet ten aanzien van een oliehoudend mengsel: 
 
 a. waarvan het gedispergeerde oliegehalte niet meer bedraagt dan 100 milligram olie per liter en het maandelijks gemiddelde gedispergeerde oliegehalte niet meer dan 30 milligram olie per liter, of  
 
@@ -1943,7 +2032,7 @@ r. synthetische vloeistof: een organische vloeistof die is ontstaan bij de synth
 
 ### Artikel  9.2.2  
 
-Deze paragraaf is van toepassing op het gebruik en de lozing van chemicaliën op mijnbouwinstallaties met in begrip van pijpleidingen als bedoeld in [artikel 92, onder a, van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) op zee.  
+Deze paragraaf is van toepassing op het gebruik en de lozing van chemicaliën op mijnbouwinstallaties met in begrip van pijpleidingen als bedoeld in artikel 92, onder a, van het besluit op zee.  
 
 ### Artikel  9.2.2a  
 
@@ -2072,7 +2161,7 @@ b. anorganisch zijn en een LC50 of EC50 van 1 mg/l of meer hebben, mits de uitvo
 
 ### Artikel  9.3.1  
 
-Een HOCNF-formulier is een gegeven als bedoeld in [artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).  
+Een HOCNF-formulier is een gegeven als bedoeld in artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur.  
 
 ### Artikel  9.3.2  
 
@@ -2094,11 +2183,11 @@ De toxiciteitstest waarvan het resultaat wordt opgenomen in het HOCNF-formulier 
 
 ### Artikel  10.1  
 
-De eigenschappen, de aanleg en de ligging van alsmede het onderhoud aan een stalen pijpleiding voldoen in elk geval aan de in [artikel 93, eerste en tweede lid, van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) bedoelde eisen, indien kan worden aangetoond dat wordt voldaan aan NEN 3650, 1ste druk, van september 1992, zoals deze laatstelijk is gewijzigd bij NEN 3650/C1 van april 1996.  
+De eigenschappen, de aanleg en de ligging van alsmede het onderhoud aan een stalen pijpleiding voldoen in elk geval aan de in artikel 93, eerste en tweede lid, van het besluit bedoelde eisen, indien kan worden aangetoond dat wordt voldaan aan NEN 3650, 1ste druk, van september 1992, zoals deze laatstelijk is gewijzigd bij NEN 3650/C1 van april 1996.  
 
 ### Artikel  10.2  
 
-De eigenschappen, de aanleg en de ligging van alsmede het onderhoud aan een flexibele pijpleiding voldoen in elk geval aan de in [artikel 93, eerste en tweede lid, van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) bedoelde eisen, indien kan worden aangetoond dat wordt voldaan aan: 
+De eigenschappen, de aanleg en de ligging van alsmede het onderhoud aan een flexibele pijpleiding voldoen in elk geval aan de in artikel 93, eerste en tweede lid, van het besluit bedoelde eisen, indien kan worden aangetoond dat wordt voldaan aan: 
 
 a. API (American Petroleum Institute) Specification 17J, second edition, november 1999, zoals deze laatstelijk is vastgesteld in juni 2002, en  
 
@@ -2114,17 +2203,17 @@ b. NEN 3650, genoemd in artikel 10.1, met uitzondering van het gedeelte omtrent 
 
 ### Artikel  11.1.1  
 
-De resultaten van geofysisch onderzoek als bedoeld in [artikel 108, onderdeel a, van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) bevatten de resultaten van de eerste finale bewerking van signaal-, navigatie- en snelheidsgegevens en de bijbehorende rapporten van verkrijging en bewerking en de veldgegevens.  
+De resultaten van geofysisch onderzoek als bedoeld in artikel 108, onderdeel a, van het besluit bevatten de resultaten van de eerste finale bewerking van signaal-, navigatie- en snelheidsgegevens en de bijbehorende rapporten van verkrijging en bewerking en de veldgegevens.  
 
 ### Artikel  11.1.2  
 
-1.  Een profiel van een boorgat, als bedoeld in [artikel 109, eerste lid, onderdeel a](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), bevat: 
+1.  Een profiel van een boorgat, als bedoeld in artikel 109, eerste lid, onderdeel a, bevat: 
 
 a. voor boorgaten in oppervlaktewater: 
 
 1°. de naam van de mijnonderneming;  
 
-2°. de letter- of nummeraanduiding van het blok, voor zover het boorgat is gelegen aan de zeezijde van de in de [bijlage bij de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) vastgelegde lijn;  
+2°. de letter- of nummeraanduiding van het blok, voor zover het boorgat is gelegen aan de zeezijde van de in de bijlage bij de wet vastgelegde lijn;  
 
 3°. het nummer van het boorgat;  
 
@@ -2190,11 +2279,11 @@ e. de resultaten van de in onderdeel d genoemde testen.
 
 ### Artikel  11.1.3  
 
-De resultaten van de metingen als bedoeld in [artikel 109, eerste lid, onderdelen b en c, van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) bevatten de meetgegevens en de wijze waarop en de omstandigheden waaronder de meetgegevens verkregen zijn.  
+De resultaten van de metingen als bedoeld in artikel 109, eerste lid, onderdelen b en c, van het besluit bevatten de meetgegevens en de wijze waarop en de omstandigheden waaronder de meetgegevens verkregen zijn.  
 
 ### Artikel  11.1.4  
 
-De resultaten van verrichte productie- of injectietesten als bedoeld in [artikel 109, eerste lid, onderdeel d, van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) bevatten: 
+De resultaten van verrichte productie- of injectietesten als bedoeld in artikel 109, eerste lid, onderdeel d, van het besluit bevatten: 
 
 a. gegevens van druk- en temperatuurmetingen in het boorgat;  
 
@@ -2210,7 +2299,7 @@ f. gegevens over de sequentie van meetstappen.
 
 ### Artikel  11.1.5  
 
-De uitvoerder verstrekt van gesteentemonsters als bedoeld in [artikel 110, eerste lid, van het besluit](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md): 
+De uitvoerder verstrekt van gesteentemonsters als bedoeld in artikel 110, eerste lid, van het besluit: 
 
 a. een deel van de boorwandkernen;  
 
@@ -2222,7 +2311,7 @@ d. in geval van boorgruis: tenminste 250 gram daarvan.
 
 ### Artikel  11.1.6  
 
-De uitvoerder doet de minister opgaaf van de verkregen vloeistof- en gasmonsters, bedoeld in [artikel 110, tweede lid](../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), binnen vier weken na de verkrijging ervan. Daarbij worden gegevens met betrekking tot de bron, de kwaliteit en het gebruikte meetprogramma vermeld.  
+De uitvoerder doet de minister opgaaf van de verkregen vloeistof- en gasmonsters, bedoeld in artikel 110, tweede lid, binnen vier weken na de verkrijging ervan. Daarbij worden gegevens met betrekking tot de bron, de kwaliteit en het gebruikte meetprogramma vermeld.  
 
 ### §  11.2  
 
@@ -2281,7 +2370,7 @@ d. pekel: m3.
 
 ### Artikel  11.4.1  
 
-Als instelling als bedoeld in [artikel 123, tweede lid, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) wordt aangewezen het instituut TNO Bouw en Ondergrond.  
+Als instelling als bedoeld in artikel 123, tweede lid, van de wet wordt aangewezen het instituut TNO Bouw en Ondergrond.  
 
 ### Hoofdstuk  12  
 
@@ -2289,7 +2378,7 @@ Als instelling als bedoeld in [artikel 123, tweede lid, van de wet](../../../wet
 
 ### Artikel  12.1  
 
-1.  Het gewogen gemiddelde van de waarde van de in Nederland ingevoerde ruwe olie, bedoeld in de eerste volzin van [artikel 63, vierde lid, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md), in een bepaald kalenderjaar wordt door de Minister van Economische Zaken op basis van gegevens van het Centraal Bureau voor de Statistiek berekend door: 
+1.  Het gewogen gemiddelde van de waarde van de in Nederland ingevoerde ruwe olie, bedoeld in de eerste volzin van artikel 63, vierde lid, van de wet, in een bepaald kalenderjaar wordt door de Minister van Economische Zaken op basis van gegevens van het Centraal Bureau voor de Statistiek berekend door: 
 
 a. voor iedere maand van het betrokken kalenderjaar het totaal van de in die maand geloste hoeveelheden ruwe aardolie in aantallen vaten te vermenigvuldigen met het gewogen maandgemiddelde van de gemiddelde prijs daarvan uitgedrukt in US-dollars per vat;  
 
@@ -2304,7 +2393,7 @@ c. de maandelijkse resultaten, bedoeld in onderdeel b, te sommeren en te delen d
 
 ### Artikel  13.1  
 
-De adviesaanvraag als bedoeld in [artikel 114, tweede lid, onderdeel d, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) bevat de volgende gegevens: 
+De adviesaanvraag als bedoeld in artikel 114, tweede lid, onderdeel d, van de wet bevat de volgende gegevens: 
 
 a. naam en adres van verzoeker;  
 
@@ -2322,11 +2411,11 @@ g. het tijdstip waarop de schade voor het eerst is vastgesteld;
 
 h. de mijnbouwactiviteit die de schade mogelijk heeft veroorzaakt;  
 
-i. afschrift van de aansprakelijkstelling, bedoeld in [artikel 116, eerste lid, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md) en de definitieve reactie van de mijnbouwonderneming daarop;  
+i. afschrift van de aansprakelijkstelling, bedoeld in artikel 116, eerste lid, van de wet en de definitieve reactie van de mijnbouwonderneming daarop;  
 
-j. de reden dat geen overeenstemming als bedoeld in [artikel 116, tweede lid, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md), is bereikt met de mijnbouwondernemer, met daarbij afschrift van eventuele correspondentie;  
+j. de reden dat geen overeenstemming als bedoeld in artikel 116, tweede lid, van de wet, is bereikt met de mijnbouwondernemer, met daarbij afschrift van eventuele correspondentie;  
 
-k. indien van toepassing het bedrag, bedoeld in [artikel 117, vierde lid, van de wet](../../../wet/mijnbouwwet/BWBR0014168/README.md), dat de mijnondernemer bereid was te betalen.    
+k. indien van toepassing het bedrag, bedoeld in artikel 117, vierde lid, van de wet, dat de mijnondernemer bereid was te betalen.    
 
 ### hoofdstuk  14  
 
@@ -2335,6 +2424,8 @@ k. indien van toepassing het bedrag, bedoeld in [artikel 117, vierde lid, van de
 ### §  14.1  
 
 ####Overgangsbepalingen met betrekking tot helikopterdekken
+
+Vervallen per 31-10-2009   
 
 ### §  14.2  
 
@@ -2497,7 +2588,7 @@ a. De hoeveelheid aardolie, putgasbenzine daaronder begrepen, en aardgas geduren
 
 ####behorende bij de artikelen 1.3.2  en 1.3.5 
 
-![71790](http://wetten.overheid.nl/Illustration/71790)
+![]()
 
 ### Bijlage  4  
 
@@ -2538,7 +2629,7 @@ Scheepvaartroute "Noord" wordt begrensd door een lijn die de volgende punten ver
 Het "Voordelta inshore traffic zone" gebied wordt begrensd door een lijn die de volgende punten verbindt: 123, 178, 206, XII en via de gemeentelijke grens naar XIII. Inshore Traffic zone Eems-Brandaris-Eierland wordt begrensd door een lijn die de volgende punten verbindt: XIV, 107, 185, 186, 193, 200, 69, H via grens continentaal plat naar X en vervolgens via de gemeentelijke grens naar punt XIV. Restrictiegebied "Off Friesland" wordt begrensd door de punten: 2, 3, 4, 5, 18, 17, 109.  Tabel 1: Geografische coordinaten (in ED50) 
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Puntnummer  | X-geografisch  | Y-geografisch  |
 | --- | --- | --- |
 | 1  <sup> *   punt ligt buiten het Nederlandse Continentaal Plat    </sup> | 54°10'.90N  | 006°00'.20E  |
@@ -2787,7 +2878,7 @@ Het "Voordelta inshore traffic zone" gebied wordt begrensd door een lijn die de 
 Tabel 2: Definitie van punten op de grens van het continentaal plat 
 
 | --- |
-|:---|
+|---|
 | A: snijpunt van de lijn door de punten 1 en 2 en de grens continentaal plat  |
 | B: snijpunt van de lijn door de punten 32 en 33 en de grens continentaal plat  |
 | C: snijpunt van de lijn door de punten 28 en 29 en de grens continentaal plat  |
@@ -2817,7 +2908,7 @@ Tabel 2: Definitie van punten op de grens van het continentaal plat
 Tabel 3: Definitie van punten op de gemeentelijke grens 
 
 | --- |
-|:---|
+|---|
 | I: snijpunt van de lijn door de punten 239 en 240 en de gemeentelijke grens  |
 | II: snijpunt van de lijn door de punten 236 en 237 en de gemeentelijke grens  |
 | III: snijpunt van de lijn door de punten 233 en 234 en de gemeentelijke grens  |
@@ -2854,7 +2945,7 @@ In deze bijlage staan de gebieden beschreven, genoemd in artikel 1.10.7 van de r
 7) Schietgebied ten westen van Kaap Hoofd (BAZ34). Het gebied wordt begrensd door een lijn die de volgende punten verbindt: 15, 16 via een cirkelboog vanuit k met een straal van 10 zeemijlen naar 17, 18 en via de gemeentelijke grens naar 15.    Tabel 1 Geografische coordinaten (ED50) 
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Punt  | X-geografisch  | Y-geografisch  |
 | --- | --- | --- |
 | a  | 54°00',0N  | 004°46',0E  |
@@ -2872,7 +2963,7 @@ In deze bijlage staan de gebieden beschreven, genoemd in artikel 1.10.7 van de r
 Tabel 2. Snijpunten van gebieden met de gemeentelijke grens 
 
 | --- |
-|:---|
+|---|
 | 1: snijpunt van de lijn beginnend in punt f in de richting 254° met de gemeentelijke grens.  |
 | 2: punt vanuit punt f op een afstand van 9 zeemijlen in de richting 254°.  |
 | 3: snijpunt ten noorden van punt f van de cirkelboog met als middelpunt punt f en een straal van 9 zeemijlen met de gemeentelijke grens  |
@@ -2897,7 +2988,7 @@ Tabel 2. Snijpunten van gebieden met de gemeentelijke grens
 ####behorende bij artikel 8.2.2.l, tweede lid 
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 1.0. Projectgegevens  |
 | --- |
 | 1.1 de naam van de mijnbouwonderneming  |
@@ -2953,7 +3044,7 @@ Tabel 2. Snijpunten van gebieden met de gemeentelijke grens
 ####behorende bij artikel 8.2.2.2 
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 1.0. Projectgegevens  |
 | --- |
 | 1.1. Algemeen  |
@@ -3020,14 +3111,14 @@ Tabel 2. Snijpunten van gebieden met de gemeentelijke grens
 
 ####behorende bij artikel 8.3.2.5, tweede lid  Capaciteitstest
 
-![71795](http://wetten.overheid.nl/Illustration/71795)
+![]()
 
 ### Bijlage  14  
 
 ####behorende bij artikel 9.1.6, derde lid , van de Mijnbouwregeling
 
 | 1) Mijnonderneming:  |--- |--- | 6) Wijze van debietmeting:  |--- | 11) Aantal analyses:  | 2) Mijnbouwinstallatie:  |--- |--- | 7) Type debietmeter:  |--- | 12) Hoogste waarde (kolom E):  | 3) Maand / Jaar:  |--- |--- |--- | 8) Plaats van Monstername:  |--- | 13) Aantal analyses > 30 mg/l (kolom E):  | 4) Soort oliehoudend mengsel:  |--- |--- | 9) Wijze van analyseren:  |--- |--- |--- | 5) Plaats van debietmeting:  |--- |--- | 10) Type analyse-apparatuur  |--- |--- |--- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | A  | B  | C  | D  | E  | F  | G  | H  | I  | J  | K  |
 | Dag  nr.  | Tijdstip monster- name  | Debiet  | Datum  Analyse  | Gedispergeerde olie volgens OSPAR-Akkoord 2005-15  | Opgeloste olie volgens toepassing OSPAR-Akkoord 2005-15  | Totale olie  | Gedispergeerde olie  | opgeloste olie  | Totale olie  | Opmerkingen  |
 | --- | uu:mm  | m <sup>3</sup> /dag  | ddmmjj  | mg/l  | mg/l  | mg/l  | kg/dag  | kg/dag  | kg/dag  | --- |
