@@ -28,15 +28,13 @@ Er is een Inspectie voor de Volksgezondheid. Zij is gevestigd in een door Onze M
 
 2. De Inspectie heeft tot taak: 
 
-a. het toezicht op de volksgezondheid;  
+a. het toezicht op de naleving van de wettelijke regelingen op het gebied van bestrijdingsmiddelen, gewasbeschermingsmiddelen, biociden en milieuaangelegenheden;  
 
-b. het toezicht op de naleving van de wettelijke regelingen op het gebied van bestrijdingsmiddelen, gewasbeschermingsmiddelen, biociden en milieuaangelegenheden;  
+b. het uitbrengen, op verzoek of uit eigen beweging, van adviezen en het verstrekken van inlichtingen;  
 
-c. het uitbrengen, op verzoek of uit eigen beweging, van adviezen en het verstrekken van inlichtingen;  
+c. de behandeling van klachten;  
 
-d. de behandeling van klachten;  
-
-e. het verrichten van andere bij of krachtens wet opgedragen taken.    
+d. het verrichten van andere bij of krachtens wet opgedragen taken.    
 
 3. Ter zake van de het tweede lid bedoelde taken kunnen bij algemene maatregel van bestuur, regels worden gesteld.  
 

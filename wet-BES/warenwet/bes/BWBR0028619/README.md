@@ -215,15 +215,15 @@ Degene die rechtstreeks in zijn belang is getroffen door een op grond van deze w
 ### Artikel  19  
 
 1.  Het toezicht op de naleving van het bepaalde bij of krachtens deze wet met betrekking tot eet- en drinkwaren berust bij daartoe door het bestuurscollege aangewezen personen.   
-2.  Het bestuurscollege kan de Inspectie voor de Volksgezondheid verzoeken de taak, bedoeld in het eerste lid, uit te oefenen. In een zodanig geval geschiedt het toezicht door bij ministeriële regeling aangewezen medewerkers van die Inspectie.   
+2.  Het bestuurscollege kan de het Staatstoezicht op de Volksgezondheid, bedoeld in hoofdstuk IV, paragraaf 2, van de Gezondheidswet verzoeken de taak, bedoeld in het eerste lid, uit te oefenen. In een zodanig geval geschiedt het toezicht door bij ministeriële regeling aangewezen medewerkers van dat Staatstoezicht.   
 3.  Het toezicht op de naleving van het bepaalde bij of krachtens deze wet met betrekking tot waren, niet zijnde eet- en drinkwaren berust bij, behoudens toepassing is gegeven aan het vierde lid, bij ministeriële regeling aangewezen medewerkers van de Inspectie voor de Volksgezondheid.   
 4.  De aanwijzing van personen belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wet met betrekking tot waren, niet zijnde eet- en drinkwaren, kan op verzoek van het desbetreffende bestuurscollege bij ministeriële regeling aan hem worden overgedragen.   
-5.  De Inspectie voor de Volksgezondheid oefent toezicht uit op het ingevolge het eerste en vierde lid uitgeoefende toezicht.   
+5.  Het Staatstoezicht op de Volksgezondheid, bedoeld in hoofdstuk IV, paragraaf 2, van de Gezondheidswet oefent toezicht uit op het ingevolge het eerste en vierde lid uitgeoefende toezicht.   
 6.  De bestuurscolleges dienen jaarlijks bij Onze Minister een verslag in van de werkzaamheden verband houdende met het toezicht, bedoeld in het eerste lid, en voor zover van toepassing bedoeld in het vierde lid.   
 
 ### Artikel  19a  
 
-Met het oog op de afzet van in de openbare lichamen Bonaire, Sint Eustatius en Saba gefabriceerde eet- en drinkwaren uit het buitenland wordt de Inspectie voor de Volksgezondheid aangewezen als landelijk bevoegde instantie.  
+Met het oog op de afzet van in de openbare lichamen Bonaire, Sint Eustatius en Saba gefabriceerde eet- en drinkwaren uit het buitenland wordt het Staatstoezicht op de Volksgezondheid, bedoeld in hoofdstuk IV, paragraaf 2, van de Gezondheidswet aangewezen als landelijk bevoegde instantie.  
 
 ### Artikel  20  
 
@@ -249,8 +249,8 @@ e. vaartuigen, voertuigen en de lading daarvan te onderzoeken.
 
 ### Artikel  22  
 
-1.  De krachtens artikel 19, eerste en vierde lid, aangewezen personen kunnen, in afwachting van de onverwijld door hen in te roepen beslissing van de Inspectie voor de Volksgezondheid en Milieuhygiëne, de vervaardiging of de verhandeling van waren, die niet voldoen aan het bij of krachtens deze wet bepaalde, verbieden.   
-2.  De Inspectie voor de Volksgezondheid en Milieuhygiëne kan het verbod, krachtens het eerste lid opgelegd, bekrachtigen, alsmede de vernietiging bevelen van voorlopig in beslag genomen waren.   
+1.  De krachtens artikel 19, eerste en vierde lid, aangewezen personen kunnen, in afwachting van de onverwijld door hen in te roepen beslissing van het Staatstoezicht op de Volksgezondheid, bedoeld in hoofdstuk IV, paragraaf 2, van de Gezondheidswet, de vervaardiging of de verhandeling van waren, die niet voldoen aan het bij of krachtens deze wet bepaalde, verbieden.   
+2.  Het Staatstoezicht op de Volksgezondheid, bedoeld in hoofdstuk IV, paragraaf 2, van de Gezondheidswet kan het verbod, krachtens het eerste lid opgelegd, bekrachtigen, alsmede de vernietiging bevelen van voorlopig in beslag genomen waren.   
 3.  Een beslissing als bedoeld in het tweede lid, wordt schriftelijk aan de belanghebbende meegedeeld.   
 
 ### Artikel  23  

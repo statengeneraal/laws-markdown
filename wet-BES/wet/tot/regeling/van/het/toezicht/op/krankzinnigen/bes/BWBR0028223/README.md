@@ -12,7 +12,7 @@ In de artikelen van deze wet en de daarop berustende bepalingen wordt verstaan o
 
 a. *Gemeenschappelijk Hof:* Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;  
 
-b. *inspecteur:* de bevoegde inspecteur van de Inspectie voor de Gezondheidszorg;  
+b. *inspecteur:* de bevoegde inspecteur van het Staatstoezicht op de Volksgezondheid, bedoeld in hoofdstuk IV, paragraaf 2, van de Gezondheidswet;  
 
 c. *openbaar lichaam:* openbaar lichaam Bonaire, Sint Eustatius of Saba;  
 
@@ -73,7 +73,7 @@ d. alle plaatsen, met uitzondering van woningen zonder de uitdrukkelijke toestem
 
 e. woningen, waar krankzinnigen worden verpleegd of een zodanige verpleging wordt vermoed, zonder de uitdrukkelijke toestemming van de bewoner binnen te treden.     
 3.  Zo nodig, wordt de toegang tot een plaats als bedoeld in het tweede lid, onderdeel d, verschaft met behulp van de sterke arm.   
-4.  Op het binnentreden in woningen als bedoeld in het tweede lid, onderdeel e, is [titel X van het Derde boek van het Wetboek van Strafvordering BES](../../../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) van overeenkomstige toepassing, met uitzondering van de [artikelen 155, vierde lid](../../../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [156, tweede lid](../../../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [157, tweede en derde lid](../../../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [158, eerste lid, laatste zinsnede](../../../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), en [160, eerste lid](../../../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), en met dien verstande dat de machtiging wordt verleend door de Gezaghebber.   
+4.  Op het binnentreden in woningen als bedoeld in het tweede lid, onderdeel e, is titel X van het Derde boek van het Wetboek van Strafvordering BES van overeenkomstige toepassing, met uitzondering van de artikelen 155, vierde lid, 156, tweede lid, 157, tweede en derde lid, 158, eerste lid, laatste zinsnede, en 160, eerste lid, en met dien verstande dat de machtiging wordt verleend door de Gezaghebber.   
 5.  In de krankzinnigengestichten wordt te allen tijde vrije toegang verleend aan de Procureur-Generaal, de desbetreffende inspecteur en de Gezaghebber van het betrokken openbaar lichaam.   
 6.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de wijze van taakuitoefening van de krachtens het eerste lid aangewezen personen.   
 7.  Een ieder is verplicht aan de krachtens het eerste lid aangewezen personen alle medewerking te verlenen die op grond van het tweede lid wordt gevorderd.   
@@ -130,7 +130,7 @@ De betrokken Gezaghebber is bevoegd, alvorens op het verzoek bedoeld in Artikel 
 
 ### Artikel  19  
 
-De opneming van een krankzinnige in een gesticht geschiedt tegen overlegging van een gewaarmerkt afschrift van het in artikel 14 bedoeld bevelschrift. Ingeval de rechter oordelende in strafzaken, met toepassing van het tweede lid van [artikel 39 van het Wetboek van Strafrecht BES](../../../../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), heeft bevolen, dat iemand in een krankzinnigengesticht zal worden geplaatst, geschiedt de opneming van zoodanigen persoon tegen overlegging van een uittreksel uit de onherroepelijk geworden uitspraak, die de plaatsing beveelt. Dit uittreksel en de expeditie van de in de artt. 23, 24, 29 en 30 bedoelde rechterlijke beschikkingen moeten aan het bestuur van het gesticht worden overgelegd; zij worden vermeld in en bewaard bij een register, ingericht naar een bij of krachtens algemene maatregel van bestuur vast te stellen model.  
+De opneming van een krankzinnige in een gesticht geschiedt tegen overlegging van een gewaarmerkt afschrift van het in artikel 14 bedoeld bevelschrift. Ingeval de rechter oordelende in strafzaken, met toepassing van het tweede lid van artikel 39 van het Wetboek van Strafrecht BES, heeft bevolen, dat iemand in een krankzinnigengesticht zal worden geplaatst, geschiedt de opneming van zoodanigen persoon tegen overlegging van een uittreksel uit de onherroepelijk geworden uitspraak, die de plaatsing beveelt. Dit uittreksel en de expeditie van de in de artt. 23, 24, 29 en 30 bedoelde rechterlijke beschikkingen moeten aan het bestuur van het gesticht worden overgelegd; zij worden vermeld in en bewaard bij een register, ingericht naar een bij of krachtens algemene maatregel van bestuur vast te stellen model.  
 
 ### Artikel  20  
 
@@ -155,11 +155,11 @@ Ten hoogste één maand en ten minste veertien dagen vóór het verstrijken van 
 
 ### Artikel  25  
 
-De plaatsing van een verdachte in een gesticht op grond van [artikel 360 van het Wetboek van Strafvordering BES](../../../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) geschiedt zonder nadere formaliteiten, alleen op grond van de beschikking van de president van het Gemeenschappelijk Hof of van de rechter in eerste aanleg. De kosten van overbrenging naar het gesticht en van verpleging gedurende den tijd der observatie komen voor rekening van de openbare lichamen, tenzij dit door of voor den beklaagde anders verlangd wordt. Bij de opneming doet de President van het Gemeenschappelijk Hof of de betrokken rechter in eersten aanleg aan den geneeskundige, of, zoo er meer zijn, aan den eersten geneeskundige, van het gesticht, alle bescheiden en inlichtingen toekomen, welke dienen kunnen om deze bij zijn oordeel over het geval voor te lichten. Genoemde geneeskundige zendt zoo spoedig mogelijk door tusschenkomst van den Procureur-generaal zijn met redenen omkleed rapport over de al of niet krankzinnigheid van den beklaagde aan den President van het Gemeenschappelijk Hof of aan den betrokken rechter in eersten aanleg. Zoo het rapport de verklaring inhoudt, dat de opgenomene aan krankzinnigheid lijdende is, wordt door den Procureur-generaal zijne definitieve plaatsing in een krankzinnigengesticht gerequireerd, overeenkomstig de voorschriften der artt. 22 en 23 van deze wet. Houdt het rapport de verklaring in, dat de opgenomene niet krankzinnig is, dan geeft de President van het Gemeenschappelijk Hof of de betrokken rechter in eersten aanleg last tot onmiddellijk ontslag uit het gesticht, met bevel dat de beklaagde weder ter beschikking der Justitie worde gesteld.  
+De plaatsing van een verdachte in een gesticht op grond van artikel 360 van het Wetboek van Strafvordering BES geschiedt zonder nadere formaliteiten, alleen op grond van de beschikking van de president van het Gemeenschappelijk Hof of van de rechter in eerste aanleg. De kosten van overbrenging naar het gesticht en van verpleging gedurende den tijd der observatie komen voor rekening van de openbare lichamen, tenzij dit door of voor den beklaagde anders verlangd wordt. Bij de opneming doet de President van het Gemeenschappelijk Hof of de betrokken rechter in eersten aanleg aan den geneeskundige, of, zoo er meer zijn, aan den eersten geneeskundige, van het gesticht, alle bescheiden en inlichtingen toekomen, welke dienen kunnen om deze bij zijn oordeel over het geval voor te lichten. Genoemde geneeskundige zendt zoo spoedig mogelijk door tusschenkomst van den Procureur-generaal zijn met redenen omkleed rapport over de al of niet krankzinnigheid van den beklaagde aan den President van het Gemeenschappelijk Hof of aan den betrokken rechter in eersten aanleg. Zoo het rapport de verklaring inhoudt, dat de opgenomene aan krankzinnigheid lijdende is, wordt door den Procureur-generaal zijne definitieve plaatsing in een krankzinnigengesticht gerequireerd, overeenkomstig de voorschriften der artt. 22 en 23 van deze wet. Houdt het rapport de verklaring in, dat de opgenomene niet krankzinnig is, dan geeft de President van het Gemeenschappelijk Hof of de betrokken rechter in eersten aanleg last tot onmiddellijk ontslag uit het gesticht, met bevel dat de beklaagde weder ter beschikking der Justitie worde gesteld.  
 
 ### Artikel  25a  
 
-Op de plaatsing van een verdachte in een inrichting op grond van [artikel 175 van het Wetboek van Strafvordering BES](../../../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) is artikel 25, eerste tot en met vierde lid, van overeenkomstige toepassing.  
+Op de plaatsing van een verdachte in een inrichting op grond van artikel 175 van het Wetboek van Strafvordering BES is artikel 25, eerste tot en met vierde lid, van overeenkomstige toepassing.  
 
 ### Artikel  26  
 
@@ -217,7 +217,7 @@ De opbrengst van den arbeid der verpleegden in de inrichting, bedoeld in artikel
 
 ### Artikel  34  
 
-Van een ondercuratelestelling, instelling van een bewind als bedoeld in [titel 19 van Boek 1 van het Burgerlijke Wetboek BES](../../../../../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md) of instelling van een mentorschap, alsmede van de benoeming van een curator, bewindvoerder of mentor wordt binnen drie dagen na de dagteekening der stukken, waarbij zij plaats hebben, door de Griffier van het Gemeenschappelijk Hof bij brief kennis gegeven aan het bestuur van het gesticht, waarin de krankzinnige wordt verpleegd. Die brief wordt bij het in Artikel 19 vermeld register bewaard, nadat daarin van den zakelijken inhoud aanteekening is gehouden.  
+Van een ondercuratelestelling, instelling van een bewind als bedoeld in titel 19 van Boek 1 van het Burgerlijke Wetboek BES of instelling van een mentorschap, alsmede van de benoeming van een curator, bewindvoerder of mentor wordt binnen drie dagen na de dagteekening der stukken, waarbij zij plaats hebben, door de Griffier van het Gemeenschappelijk Hof bij brief kennis gegeven aan het bestuur van het gesticht, waarin de krankzinnige wordt verpleegd. Die brief wordt bij het in Artikel 19 vermeld register bewaard, nadat daarin van den zakelijken inhoud aanteekening is gehouden.  
 
 ### §  VI  
 
@@ -281,7 +281,7 @@ a. op de bestuurders der gestichten, indien de uitgaaf het gevolg is van de nala
 
 b. op de inkomsten en bezittingen van den verpleegde, en voor zoover deze daartoe toereikend zijn;  
 
-c. op zijne bloed- en aanverwanten, die naar [artikel 468 van het Burgerlijk Wetboek BES](../../../../../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/7/BWBR0028751/README.md) tot zijn onderhoud verplicht zijn;  
+c. op zijne bloed- en aanverwanten, die naar artikel 468 van het Burgerlijk Wetboek BES tot zijn onderhoud verplicht zijn;  
 
 d. op het openbaar lichaam dat volgens Artikel 37A de verplegingskosten van de krankzinnigen heeft te voldoen.   De kosten van verpleging in een inrichting als bedoeld in artikel 1 worden aan de personen of de openbare lichamen sub b, c en d genoemd in rekening gebracht.  
 

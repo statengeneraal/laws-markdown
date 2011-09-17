@@ -1242,6 +1242,7 @@ E. M. H. Hirsch Ballin
 | Landsverordening zorginstellingen  | Wet zorginstellingen BES  |
 | Landsverordening algemene verzekering bijzondere ziektekosten  | Wet algemene verzekering bijzondere ziektekosten BES  |
 | Landsverordening bestrijding besmettelijke ziekten,  Gezondheidslandsverordening 1952  en  Quarantainelandsverordening  | Wet publieke gezondheid BES  |
+| Landsverordening van de 7 <sup>e</sup> februari 1963 houdende regelen betreffende de handel in dranken en spijzen alsmede het verschaffen van huisvesting met bediening tegen vergoeding  | Vergunningwet BES  |
 
 *B Regelingen die de status van algemene maatregel van bestuur verkrijgen*   
 
